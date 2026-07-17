@@ -11994,1415 +11994,6 @@ Lee Pinion as a member of the Club."
 
 
 
-<span class="atom-split" data-atom="story_02_the_moderate_murderer" data-title="FourFaultlessFelons — The Moderate Murderer" data-chapter="The Moderate Murderer" data-kind="story"></span>
-
-
-THE MODERATE MURDERER
-I THE MAN WITH THE GREEN UMBRELLA
-
-THE new Governor was Lord Tallboys, commonly called Top-hat Tallboys,
-
-because of his attachment to that [[Uncanny|uncanny]] erection, which he continued to
-
-carry balanced on his head as calmly among the palm-trees of [[Egypt]] as
-
-among the lamp-posts of Westminster. Certainly he carried it calmly
-
-enough in lands where few crowns were safe from toppling. The district he
-
-had come out to govern may here be described, with diplomatic vagueness,
-
-as a strip on the edge of [[Egypt]] and called for our convenience Polybia.
-
-It is an old story now, but one which many people had reason to remember
-
-for many years, and at the [[Time|time]] it was an imperial event. One Governor
-
-was killed, another Governor was nearly killed, but in this story we are
-
-concerned only with one catastrophe, and that was rather a personal and
-
-even private catastrophe.
-
-Top-hat Tallboys was a bachelor and yet he brought a family with him. He
-
-had a nephew and two nieces of whom one, as it happened, had married the
-
-Deputy Governor of Polybia, the man who had been called to rule during
-
-the interregnum after the murder of the previous ruler. The other niece
-
-was unmarried; her name was Barbara Traill, and she may [[Well|well]] be the first
-
-figure to [[Cross|cross]] the stage of this story.
-
-For indeed she was rather a solitary and striking figure, raven dark and
-
-rich in colouring with a very beautiful but rather sullen profile, as she
-
-crossed the sandy spaces and came under the cover of one long low wall
-
-which [[Alone|alone]] threw a strip of [[Shadow|shadow]] from the sun, which was sloping
-
-towards the [[Desert|desert]] horizon. The wall itself was a quaint example of the
-
-patchwork character of that borderland of East and West. It was actually
-
-a line of little villas, built for clerks and small officials, and thrown
-
-out as by a speculative builder whose speculations spread to the ends of
-
-the earth. It was a strip of Streatham amid the ruins of Heliopolis. Such
-
-oddities are not unknown, when the oldest countries are turned into the
-
-newest colonies. But in this case the young woman, who was not without
-
-[[Imagination|imagination]], was conscious of a quite fantastic contrast. Each of these
-
-dolls' houses had its toy shrubs and plants and its narrow oblong of back
-
-[[Garden|garden]] running down to the common and continuous [[Garden|garden]] wall; and it was
-
-just outside this wall that there ran the rough path, fringed with a few
-
-hoary and wrinkled olives. Outside the fringe there faded away into
-
-infinity the monstrous [[Solitude|solitude]] of sand. Only there could still be
-
-detected on that last line of distance a faint triangular shape, a sort
-
-of mathematical symbol whose unnatural simplicity has moved all poets and
-
-pilgrims for five thousand years. Anyone seeing it really for the first
-
-[[Time|time]], as the girl did, can hardly avoid uttering a cry: "The Pyramids!"
-
-Almost as she said it a voice said in her ear, not loud but with alarming
-
-clearness and very exact articulation: "The foundations were traced in
-
-[[Blood|blood]] and in [[Blood|blood]] shall they be traced anew. These things are written
-
-for our instruction."
-
-It has been said that Barbara Traill was not without [[Imagination|imagination]]; it
-
-would be truer to say that she had rather too much. But she was quite
-
-certain she had not imagined the voice, though she certainly could not
-
-imagine where it came from. She appeared to be absolutely [[Alone|alone]] on the
-
-little path which ran along the wall and led to the gardens round the
-
-Governorate. Then she remembered the wall itself, and looking sharply
-
-over her shoulder, she fancied she saw for one moment a head peering out
-
-of the [[Shadow|shadow]] of a sycamore, which was the only tree of any size for some
-
-distance, since she had left the last of the low sprawling olives two
-
-hundred yards behind. Whatever it was, it had instantly vanished, and
-
-somehow she suddenly felt frightened, more frightened at its
-
-disappearance than its appearance. She began to hurry along the path to
-
-her uncle's residence at a pace that was a little like a run. It was
-
-probably through this sudden acceleration of movement that she seemed to
-
-become aware, rather abruptly, that a man was marching steadily in front
-
-of her along the same track towards the gates of the Governorate.
-
-He was a very large man, and seemed to take up the whole of the narrow
-
-path. She had something of the sensation, with which she was already
-
-slightly acquainted, of walking behind a camel through the narrow and
-
-crooked cracks of the Eastern town. But this man planted his feet as
-
-firmly as an elephant; he walked, one might say, even with a certain
-
-pomp, as if he were in a procession. He wore a long frock-coat and his
-
-head was surmounted by a tower of scarlet, a very tall red fez, rather
-
-taller than the top-hat of Lord Tallboys. The combination of the red
-
-Eastern cap and the black Western clothes is common enough among the
-
-Effendi class in those countries. But somehow it seemed [[Novel|novel]] and
-
-incongruous in this case, for the man was very fair and had a big blond
-
-beard blown about in the breeze. He might have been a model for the
-
-idiots who talk of the Nordic type of European, but somehow he did not
-
-look like an Englishman. He carried hooked on one finger a rather
-
-[[Grotesque|grotesque]] green umbrella or parasol, which he twirled idly like a
-
-trinket. As he was walking slower and slower and Barbara was walking fast
-
-and wanted to walk faster, she could hardly repress an exclamation of
-
-impatience and something like a request for room to pass. The large man
-
-with the beard immediately faced round and stared at her; then he lifted
-
-a monocle and fixed it in his eye and instantly smiled his apologies. She
-
-realized that he must be short-sighted and that she had been a mere blur
-
-to him a moment before, but there was something else in the change of his
-
-face and manner, something that she had seen before, but to which she
-
-could not put a name.
-
-He explained, with the most formal courtesy, that he was going to leave a
-
-note for an official at the Governorate, and there was really no reason
-
-for her to refuse him credence or conversation. They walked a little way
-
-together, talking of things in general, and she had not exchanged more
-
-than a few sentences before she realized that she was talking to a
-
-remarkable man.
-
-We hear much in these days about the dangers of [[innocence]], much that is
-
-false and a little that is true. But the argument is almost exclusively
-
-applied to sexual [[innocence]]. There is a great deal that ought to be said
-
-about the dangers of political [[innocence]]. That most necessary and most
-
-noble virtue of patriotism is very often brought to [[Despair|despair]] and
-
-destruction, quite needlessly and prematurely, by the folly of educating
-
-the comfortable classes in a false optimism about the record and security
-
-of the Empire. Young people like Barbara Traill have often never heard a
-
-word about the other side of the story, as it would be told by Irishmen
-
-or Indians or even French Canadians, and it is the fault of their parents
-
-and their papers if they often pass abruptly from a stupid Britishism to
-
-an equally stupid Bolshevism. The hour of Barbara Traill was come, though
-
-she probably did not know it.
-
-"If England keeps her promises," said the man with the beard, frowning,
-
-"there is still a chance that things may be quiet."
-
-And Barbara had answered, like a schoolboy: "England always keeps her
-
-promises."
-
-"The Waba have not noticed it," he answered with an air of triumph.
-
-The omniscient are often ignorant. They are often especially ignorant of
-
-ignorance. The stranger imagined that he was uttering a very crushing
-
-repartee, as perhaps he was, to anybody who knew what he meant. But
-
-Barbara had never heard of the Waba. The newspapers had seen to that.
-
-"The British [[government|Government]]," he was saying, "definitely pledged itself two
-
-years ago to a complete scheme of local autonomy. If it is a complete
-
-scheme, all will be [[Well|well]]. If Lord Tallboys has come out here with an
-
-incomplete scheme, a compromise, it will be very far from [[Well|well]]. I shall
-
-be very sorry for everybody, but especially for my English friends."
-
-She answered with a young and [[Innocent|innocent]] sneer, "Oh yes-I suppose you are a
-
-great friend of the English."
-
-"Yes," he replied calmly. "A friend: but a candid friend."
-
-"Oh, I know all about that sort," she said with hot sincerity. "I know
-
-what they mean by a candid friend. I've always found it meant a nasty,
-
-sneering, sneaking, treacherous friend."
-
-He seemed stung for an instant and answered, "Your politicians have no
-
-need to learn treachery from the Egyptians." Then he added abruptly: "Do
-
-you know on Lord Jaffray's raid they shot a [[Child|child]]? Do you know anything
-
-at all? Do you even know how England tacked on [[Egypt]] to her Empire?"
-
-"England has a glorious Empire," said the patriot stoutly.
-
-"England had a glorious Empire," he said. "So had [[Egypt]]."
-
-They had come, somewhat symbolically, to the end of their common path and
-
-she turned away indignantly to the gate that led into the private gardens
-
-of the Governor. As she did so he lifted his green umbrella and pointed
-
-with a momentary gesture at the dark line of the [[Desert|desert]] and the distant
-
-Pyramid. The afternoon had already reddened into evening, and the sunset
-
-lay in long bands of burning crimson across the purple desolation of that
-
-dry inland sea.
-
-"A glorious Empire," he said. "An Empire on which the sun never sets.
-
-Look . . the sun is setting in [[Blood|blood]]."
-
-She went through the iron gate like the [[Wind|wind]] and let it clang behind her.
-
-As she went up the avenue towards the inner gardens, she lost a little of
-
-her impatient movement and began to trail along in the rather moody
-
-manner which was more normal to her. The colours and shadows of that
-
-quieter scene seemed to close about her; this place was for the present
-
-her nearest approach to [[Home|home]], and at the end of the long perspective of
-
-gaily coloured [[Garden|garden]] walks, she could see her sister Olive picking
-
-[[Flowers|flowers]].
-
-The sight soothed her; but she was a little puzzled about why she should
-
-need any soothing. She had a deeply disquieting sense of having touched
-
-something alien and terrible, something fierce and utterly foreign, as if
-
-she had stroked some strange wild beast of the [[Desert|desert]]. But the gardens
-
-about her and the [[house]] beyond had already taken on a tone or tint
-
-indescribably English, in spite of the recent settlement and the African
-
-sky. And Olive was so obviously choosing [[Flowers|flowers]] to put into English
-
-vases or to decorate English dinner-tables, with decanters and salted
-
-almonds.
-
-But as she drew nearer to that distant figure, it grew more puzzling. The
-
-blossoms grasped in her sister's hand looked like mere ragged and random
-
-handfuls, torn away as a man lying on the turf would idly tear out grass,
-
-when he is abstracted or angry. A few loose stalks lay littered on the
-
-path; it seemed as if the heads had been merely broken off as if by a
-
-[[Child|child]]. Barbara did not know why she took in all these details with a slow
-
-and dazed eye, before she looked at the central figure they surrounded.
-
-Then Olive looked up and her face was ghastly. It might have been the
-
-face of Medea in the [[Garden|garden]], gathering the poisonous [[Flowers|flowers]].
-
-
-
-
-<span class="atom-split" data-atom="story_10_v_the_secret_of_the_tree" data-title="FourFaultlessFelons — V The Secret Of The Tree" data-chapter="V The Secret Of The Tree" data-kind="story"></span>
-
-
-V THE SECRET OF THE TREE
-
-THE motives of the simple are more subtle than those of the subtle. The
-
-former do not sort out their own emotions and the result is often more
-
-mysterious, especially as they never afterwards attempt to solve the
-
-mystery. Enid was a very elemental and unconscious character, who had
-
-never before been thrown into such a turmoil of thoughts and feelings.
-
-And her first feeling, under her last shock, was a primitive human
-
-feeling that for her isolation had come to an end. She had found
-
-something more crushing and complicated than she could carry [[Alone|alone]], and
-
-she must have a friend.
-
-She therefore went straight out of the front door and down the [[Road|road]] to
-
-find a friend. She went to find a charlatan, a schemer, a [[Grotesque|grotesque]] lying
-
-mystagogue, a man who had done her and hers the most abominable wrong,
-
-and she found him just going into his own [[house]], with the brass plate
-
-outside it. Something not to be formulated in words told her that, in
-
-some dark, distorted, undiscoverable way he was on her side, and that he
-
-would manage to get whatever he chose to try for. She stopped the [[Villain|villain]]
-
-of her strange story and spoke to him quite naturally, as if he were her
-
-brother.
-
-"I wish you would come back to our place a moment," she said. "Another
-
-ghastly thing has happened now and I can't make head or tail of
-
-anything."
-
-He turned promptly and threw a sharp glance up the street.
-
-"Ah," he said, "then the police have come already."
-
-She stared at him speechless for a moment, as a light gradually began to
-
-break upon her rocking brain.
-
-"Did you know they were coming?" she cried; and then in a final universal
-
-flash she seemed to take in a thousand things at once. The combined
-
-product of them all was perhaps curious. For there broke out of her only
-
-the expression of incredulous astonishment: "But aren't you wicked,
-
-then?"
-
-"Only moderately so," he replied. "But I dare say what I did would be
-
-considered indefensible. It was the only thing I could think of to save
-
-him. It had to be done in rather a hurry."
-
-She drew a deep breath and there dawned upon her gradually, like
-
-something seen in the distance, a [[Memory|memory]] and a meaning.
-
-"Why, I see now," she said. "It was just like what you did, when you
-
-shoved him from under the car."
-
-"I'm afraid I'm impetuous," said Judson, "and perhaps I jump too soon."
-
-"But on both occasions," she said, "you only jumped just in [[Time|time]]."
-
-Then she went into the [[house]] [[Alone|alone]]; her mind was still stratified with
-
-terror; the notion of her father as a monkey, as a lunatic, as something
-
-worse. And yet in a corner of her sunken subconscious [[Soul|soul]] something was
-
-singing, because her friend was not so wicked after all.
-
-Ten minutes later, when Inspector Brandon, a sandy-haired representative
-
-of the C.I.D., with a stolid appearance but a lively eye, entered the
-
-Windrush parlour, he found himself confronted with a square-faced,
-
-square-shouldered medical gentleman, with dark hair and an inscrutable
-
-smile. Nobody, who had seen Dr. Judson shaken by the various passions of
-
-the late peril and crisis, could have recognized him, in the placid
-
-impenetrable friend of the family who now sat facing the policeman.
-
-"I am sure, Inspector, that you agree with me in wishing to spare the
-
-unfortunate lady as far as possible," he said smoothly. "I happen to be
-
-the family physician, and I shall have to be responsible for her
-
-condition in any case. But I am responsible in other ways, too, and you
-
-may take it from me that a man in my position will put no obstacles in
-
-your way in doing your duty. I [[Hope|hope]] you have no objection, for the
-
-moment, to explaining the general [[Nature|nature]] of your business to me."
-
-"[[Well]], sir," said the Inspector, "so far as that is concerned, it's
-
-generally rather a relief in these cases to be able to talk to a third
-
-party. But you'll understand, of course, that I shall expect you to talk
-
-straight."
-
-"I'll talk straight enough," answered the doctor coolly. "I understand
-
-you have a warrant for the arrest of Mr. Walter Windrush."
-
-The policeman nodded.
-
-"For the murder of Isaac Morse," he said. "Do you know where Windrush is
-
-at present?"
-
-"Yes," said Judson gravely, "I know where Windrush is at present."
-
-He looked across the table tranquilly, with level brows, and added: "I
-
-will tell you, if you like. I will take you to him, if you like. I know
-
-exactly where he is just now."
-
-"We mustn't have any hiding or hanky-panky, you know," said the
-
-Inspector. "You will be taking a serious responsibility, if there's any
-
-chance that he will escape."
-
-"He will not escape." said Dr. Judson.
-
-There was a [[Silence|silence]], which was broken by a slight scurry outside and a
-
-telegraph-boy ran up the steps with a wire for the Inspector. That
-
-official read it with a frown of surprise, and then looked across at his
-
-companion.
-
-"This comes opportunely in one sense," he said. "It seems to justify our
-
-pausing for an explanation, if you're quite sure of what you say."
-
-He handed the telegram to the doctor, who read with his rapid glance the
-
-words: DON'T DO ANYTHING ABOUT W. W. TILL I COME. SHALL BE ROUND IN HALF
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-V IL SEGRETO DELL'ALBERO
-
-I moventi dei semplici sono più sottili di quelli dei sottili. I
-
-primi non districano le proprie emozioni e il risultato è spesso più
-
-misterioso, tanto più che essi non tentano mai in seguito di risolvere il
-
-mistero. Enid era un carattere elementarissimo e inconsapevole, che non era mai
-
-stato prima gettato in un simile turbine di pensieri e sentimenti.
-
-E il suo primo sentimento, sotto quell'ultimo colpo, fu un primitivo sentimento
-
-umano: che per lei l'isolamento era giunto al termine. Aveva trovato
-
-qualcosa di più schiacciante e complicato di quanto potesse portare [[Alone|da sola]], e
-
-doveva avere un amico.
-
-Uscì perciò dritta dal portone e giù per la [[Road|strada]] a
-
-cercare un amico. Andò a cercare un ciarlatano, un intrigante, un [[Grotesque|grottesco]] e menzognero
-
-mistagogo, un uomo che aveva fatto a lei e ai suoi il torto più abominevole,
-
-e lo trovò proprio mentre entrava nella propria [[house|casa]], con la targa d'ottone
-
-sul davanti. Qualcosa d'impossibile a formularsi in parole le diceva che, in
-
-qualche modo oscuro, distorto, imperscrutabile, egli era dalla sua parte, e che
-
-sarebbe riuscito a ottenere qualunque cosa avesse scelto di tentare. Fermò il [[Villain|malvagio]]
-
-della sua strana storia e gli parlò con tutta naturalezza, come se fosse suo
-
-fratello.
-
-«Vorrei che tornasse da noi un momento», disse. «Ora è successa un'altra
-
-cosa spaventosa e non riesco a raccapezzarmi di
-
-nulla.»
-
-Egli si voltò prontamente e gettò un'occhiata acuta su per la strada.
-
-«Ah», disse, «allora la polizia è già arrivata.»
-
-Ella lo fissò senza parole per un momento, mentre una luce cominciava a poco a poco a
-
-farsi strada nel suo cervello vacillante.
-
-«Sapeva che stavano arrivando?» gridò; e poi, in un ultimo lampo universale,
-
-parve cogliere mille cose in una volta. Il prodotto combinato
-
-di tutte esse fu forse curioso. Poiché da lei proruppe soltanto
-
-l'espressione di un'incredula meraviglia: «Ma allora non è
-
-cattivo?»
-
-«Solo moderatamente», replicò. «Ma oso dire che ciò che ho fatto sarebbe
-
-considerato indifendibile. Era l'unica cosa che mi venisse in mente per salvarlo.
-
-Bisognava farla piuttosto in fretta.»
-
-Trasse un profondo respiro e le albeggiò a poco a poco, come
-
-qualcosa scorto in lontananza, un [[Memory|ricordo]] e un significato.
-
-«Ma sì, ora capisco», disse. «È stato proprio come ciò che fece, quando lo
-
-spinse via da sotto l'automobile.»
-
-«Temo di essere impetuoso», disse Judson, «e forse salto troppo presto.»
-
-«Ma in entrambe le occasioni», disse lei, «lei ha saltato giusto in [[Time|tempo]].»
-
-Poi entrò nella [[house|casa]] [[Alone|da sola]]; la sua mente era ancora stratificata di
-
-terrore; l'idea del padre come una scimmia, come un pazzo, come qualcosa di
-
-peggio. Eppure in un angolo della sua [[Soul|anima]] subconscia e sprofondata qualcosa
-
-cantava, perché il suo amico non era poi così cattivo.
-
-Dieci minuti dopo, quando l'ispettore Brandon, un rappresentante dai capelli color sabbia
-
-della C.I.D., d'aspetto flemmatico ma dall'occhio vivace, entrò nel
-
-salotto dei Windrush, si trovò di fronte un signore dalla medicina,
-
-dal volto squadrato e dalle spalle squadrate, dai capelli scuri e da un imperscrutabile
-
-sorriso. Nessuno, che avesse visto il dottor Judson scosso dalle varie passioni
-
-del recente pericolo e della crisi, avrebbe potuto riconoscerlo, nel placido e
-
-impenetrabile amico di famiglia che ora sedeva di fronte al poliziotto.
-
-«Sono certo, ispettore, che lei concorderà con me nel desiderare di risparmiare
-
-la sfortunata signora per quanto possibile», disse con scioltezza. «Si dà il caso che io sia
-
-il medico di famiglia, e dovrò comunque rispondere delle sue
-
-condizioni. Ma sono responsabile anche in altri modi, e lei
-
-può credermi sulla parola: un uomo nella mia posizione non porrà alcun ostacolo
-
-al suo dovere. [[Hope|Spero]] che lei non abbia obiezioni, per il
-
-momento, a spiegarmi la [[Nature|natura]] generale della sua faccenda.»
-
-«[[Well|Beh]], signore», disse l'ispettore, «per quel che riguarda ciò, di
-
-solito in questi casi è piuttosto un sollievo poter parlare a una terza
-
-persona. Ma lei capirà, naturalmente, che mi aspetterò che parli
-
-chiaro.»
-
-«Parlerò abbastanza chiaro», rispose il dottore con freddezza. «Mi risulta
-
-che lei abbia un mandato per l'arresto del signor Walter Windrush.»
-
-Il poliziotto annuì.
-
-«Per l'omicidio di Isaac Morse», disse. «Sa dov'è Windrush
-
-in questo momento?»
-
-«Sì», disse Judson con gravità, «so dov'è Windrush in questo momento.»
-
-Guardò tranquillamente al di là del tavolo, con le sopracciglia distese, e aggiunse: «Glielo
-
-dirò, se vuole. La condurrò da lui, se vuole. So
-
-esattamente dov'è proprio ora.»
-
-«Non dobbiamo avere nessun nascondiglio o imbroglio, sa», disse l'
-
-ispettore. «Si assumerà una grave responsabilità, se c'è una qualche
-
-possibilità che egli fugga.»
-
-«Non fuggirà», disse il dottor Judson.
-
-Ci fu un [[Silence|silenzio]], che fu rotto da un lieve trambusto là fuori e un
-
-fattorino del telegrafo salì di corsa i gradini con un dispaccio per l'ispettore. Quel
-
-funzionario lo lesse con un cipiglio di sorpresa, e poi guardò il suo
-
-compagno.
-
-«Questo arriva opportuno, in un certo senso», disse. «Pare giustificare una nostra
-
-pausa per una spiegazione, se lei è ben sicuro di ciò che dice.»
-
-Porse il telegramma al dottore, che lesse con la sua rapida occhiata le
-
-parole: NON FARE NULLA RIGUARDO A W. W. FINCHÉ NON ARRIVO. SARÒ LÌ TRA MEZZ'
-
-
-
-<span class="atom-split" data-atom="story_16_the_loyal_traitor" data-title="FourFaultlessFelons — The Loyal Traitor" data-chapter="The Loyal Traitor" data-kind="story"></span>
-
-
-THE LOYAL TRAITOR
-I THE MENACE OF THE WORD
-
-IT will be best, both for the reader and the writer, not to bother about
-
-what particular country was the scene of this extraordinary incident. It
-
-may [[Well|well]] be left vague, so long as it is firmly stipulated that it was
-
-not in the Balkans, where so many romancers have rushed to stake out
-
-claims ever since Mr. Anthony [[Hope]] effected his coup d'etat in Ruritania.
-
-The Balkan kingdom is convenient because kings are killed and despotic
-
-governments overthrown with pleasing swiftness and frequency, and the
-
-[[Crown|crown]] may fall to any adventurer, good or bad. But meanwhile, in the same
-
-Balkan State, the farms remain in the same families, the plot of land,
-
-the orchard or the vineyard, descends from father to son; the rude
-
-equality of peasant proprietorship has never been greatly disturbed by
-
-large financial operations. In short, in the Balkan kingdom-there is some
-
-safety and continuity for the Family, so long as it is not the Royal
-
-Family.
-
-But with the kingdom in question here, how different! Whatever name we
-
-may give it, it was at least a highly-civilized and [[Well|well]]-ordered society,
-
-in which the Royal Family continued serene and safe under police
-
-protection and constitutional limitations; in which all the public
-
-services were conducted with a regularity verging on tedium, and in which
-
-nobody was ever ruined or overthrown except the butcher, the baker, the
-
-candle-stick-maker and the various types of tradesmen and common citizens
-
-who might happen to [[Cross|cross]] the path of large commercial operations. The
-
-country might [[Well|well]] be one of the smaller German States that have been
-
-industrialized by dependence on mines and factories, or one of the former
-
-dependencies of the Austrian Empire. It does not matter; it is enough to
-
-secure the reader's respect and interest to know that it was a thoroughly
-
-modern and enlightened community, which had advanced in every science and
-
-perfected every social convenience until it was within reasonable
-
-distance of revolution; not a potty little palace revolution, in which a
-
-few princes are murdered, but a real, international, universal social
-
-revolution; probably beginning with a General Strike and probably ending
-
-with bankruptcy and famine.
-
-It was all the more possible, because breezy events of this sort had
-
-already broken out in a neighbouring industrial state, and after some
-
-months of very bewildering civil war, had ended in the victory of one out
-
-of the six revolutionary generals fighting each other in the field; the
-
-victor being a certain General Case, an able soldier who had originally
-
-come with the Colonial troops garrisoned in the neighbourhood, and who
-
-was credited in local gossip with being partly a negro, a fact which
-
-considerably consoled those who had been defeated by him. For our own
-
-territory, which we will call Pavonia, he was only of importance-as an
-
-unluckily lucky example.
-
-The public crisis became acute in Pavonia with the appearance of the
-
-rather mysterious agitation about "The Word". To this day there are
-
-disputes about the [[Nature|nature]] of the movement. Some of the [[government]] agents
-
-and inquirers swore the ignorant populace did really believe that, with
-
-the discovery of a new Word, everything in the world would be explained.
-
-A wild pamphlet did actually appear, in which the writer argued with
-
-insane ingenuity that, as all modern publicity and popularization consist
-
-of concentrating a book into a paragraph, or a chapter into a sentence,
-
-so at last the whole [[Truth|truth]] about the present problem would be
-
-concentrated into a word. Crowds of impatient malcontents were adjured to
-
-Wait for the Word; and apocalyptic visions were provided, of the scenes
-
-of world-change that would follow, when once The Word was spoken. The
-
-Word would contain in itself, it was gravely asserted, a complete plan of
-
-operations and an explanation of the whole organized strategy of the
-
-revolt. Some said the whole fancy had originated with one Bohemian poet,
-
-who signed his [[Poems|poems]], "[[Sebastian]]", and had certainly composed a [[Lyric|lyric]]
-
-invocation full of allusions to The Word. Many repeated the lines which
-
-ran:
-
-As [[Aaron]]'s serpent swallowed snakes and rods,
-
-As God [[Alone|alone]] is greater than the gods,
-
-As all [[Stars|stars]] shrivel in the single sun,
-
-The words are many, but The Word is one.
-
-But nobody in office ever saw the revolutionary poet who tossed these
-
-little trifles at the [[government|Government]] and the public; until he was identified
-
-one day in the street by the very last person who was likely to meet him.
-
-The Princess Aurelia Augusta Augustina, etc. etc. (who had embedded
-
-somewhere in her stratified Christian names the name of Mary, by which
-
-she was called for convenience by her family), was the niece of the
-
-reigning monarch, and, having only just left school, did not as yet fully
-
-appreciate the difference between reigning and ruling. She was a vigorous
-
-young woman with red hair and a Roman nose, and having as yet learned
-
-more about Royalties in [[history]] than in politics, took their position
-
-with a certain simplicity and could even imagine (just as if she had
-
-really been in the Balkans) that they might be worth murdering or worth
-
-obeying. She had come back into the life of the [[Court]] and the capital,
-
-which she had left as a mere [[Child|child]], full of that irrepressible [[Desire|desire]] to
-
-be useful, which is so normal in women and so dangerous in great ladies,
-
-and she was at present making herself a nuisance by asking questions of
-
-everybody about everything. She naturally asked questions about the
-
-popular political [[Riddle|riddle]] of The Word, and generally, as Mr. [[Edmund]] Burke
-
-would say, about the cause of the present discontents. She was all the
-
-more intrigued when nobody could tell her what The Word was and very few,
-
-in her world, what the row was all about. It was therefore with a
-
-considerable glow of superiority that she returned to her family one
-
-afternoon and announced that she had actually seen the seditious
-
-minstrel, who was apparently responsible for the somewhat obscure
-
-revolutionary rhyme and the somewhat mysterious revolutionary movement.
-
-Her car was moving slowly down a quiet street, because she was on the
-
-look-out for a curio shop she had known in [[Childhood|childhood]] and could not
-
-immediately locate. Just beyond the curio shop was a cafe, with a few
-
-tables outside it in the continental manner, and at one of these tables
-
-was seated in front of a green liqueur an odd-looking person with very
-
-long hair and a very high stock or cravat. I have said that historical
-
-and geographical identification matter little in this case; and the
-
-reader may, if he likes, clothe this queer episode in any outlandish or
-
-antiquated fashion of fantasies of costume, for indeed the most recent
-
-fashion is full of quaint revivals and modes that might be either very
-
-old or very new. The man with the stock might have been some eccentric
-
-contemporary or creation of Balzac; he might equally [[Well|well]] have been an
-
-art student of today, with the most Futurist views but the most Early
-
-Victorian whiskers. His mane of long hair was of an incredible dark
-
-auburn that looked like dim crimson rather than ordinary red; his forked
-
-or cloven beard was of the same unnatural colour and was shown up by the
-
-high cravat which was of a vivid sort of peacock-green. The colour of the
-
-cravat varied, however, from day to day; sometimes it was of a brighter
-
-green when the spirit of [[spring]] inspired his [[songs]]; sometimes of purple
-
-when he was lamenting the rich [[Tragedy|tragedy]] of his loves; sometimes completely
-
-black when he had decided that the [[Time|time]] had really come to destroy the
-
-universe. He would explain to his friends that he followed without
-
-faltering the clue of the mood and the sky of morning, but they never
-
-recommended a necktie that did not contrast effectively with his beard.
-
-For this was no other than the poet [[Sebastian]], whose verses counted for
-
-so much in the revolutionary movement of the moment.
-
-The Princess, of course, was quite unaware of his [[Identity|identity]], and would
-
-have passed him with no particular comment beyond a disapproval of his
-
-necktie. But he returned to her attention and remained in it because of
-
-the curiously different conditions in which she saw him only an hour or
-
-two later, when the shops and factories had shut their doors and poured
-
-forth their populations. When she came back again through the quiet
-
-street, it was no longer quiet. It was especially the reverse of quiet in
-
-the neighbourhood of the cafe where the stranger had been drinking the
-
-green liqueur, and if the car moved slowly now, it was because of the
-
-difficulty of making its way through an ever-thickening crowd. For the
-
-longhaired person in the cravat was now standing on the cafe table and
-
-declaiming what appeared to be alternate fragments of prose and verse,
-
-with some modern intermediate types difficult to define. She came just in
-
-[[Time|time]], however, to hear the end of the now familiar jingle or rhymed
-
-motto: "As God [[Alone|alone]] is greater than the gods, As all [[Stars|stars]] shrivel in
-
-the single sun, The words are many, but The Word is one.
-
-"But The Word will not pass my lips, nor those of the Four Wardens of The
-
-Word who already know it, until the first part of the work has been
-
-accomplished. When the powerless have risen against the powerful, when
-
-the poor have risen above the rich, when the weak have risen and proved
-
-stronger than the strong, when--"
-
-At this moment he and his hearers suddenly became conscious of the sober
-
-but elegant vehicle which was pushing its prow like a boat above the
-
-popular waves, and the somewhat haughty countenance that appeared above
-
-it, just behind the wooden countenance of the chauffeur. Most people
-
-present recognized the lady and there was a sudden stir and stoppage, as
-
-of embarrassment, but the poet standing on the table struck a new
-
-attitude of [[Sublime|sublime]] impudence and cried aloud: "But how hard it is for
-
-ugliness to rise against [[Beauty|beauty]]. And we are an ugly lot!"
-
-And the Princess drove on in a condition of towering rage.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IL TRADITORE LEALE
-I LA MINACCIA DELLA PAROLA
-
-SARÀ meglio, tanto per il lettore quanto per lo scrittore, non preoccuparsi di
-
-quale particolare paese fu teatro di questo straordinario episodio. Lo si
-
-può [[Well|ben]] lasciare vago, purché sia fermamente stabilito che non fu
-
-nei Balcani, dove tanti romanzieri si sono precipitati a piantare i loro
-
-paletti fin da quando il signor Anthony [[Hope]] compì il suo colpo di Stato in Ruritania.
-
-Il regno balcanico è comodo perché i re vi vengono uccisi e i governi
-
-dispotici rovesciati con piacevole rapidità e frequenza, e la
-
-[[Crown|corona]] può toccare a qualsiasi avventuriero, buono o cattivo. Ma frattanto, nel medesimo
-
-Stato balcanico, le fattorie restano nelle medesime famiglie, il fazzoletto di terra,
-
-il frutteto o la vigna, discende di padre in figlio; la rude
-
-eguaglianza della piccola proprietà contadina non è mai stata gran che turbata da
-
-grandi operazioni finanziarie. In breve, nel regno balcanico c'è una certa
-
-sicurezza e continuità per la Famiglia, purché non sia la Famiglia
-
-Reale.
-
-Ma col regno di cui qui si tratta, quale differenza! Qualunque nome
-
-gli si voglia dare, era almeno una società altamente civile e [[Well|ben]] ordinata,
-
-in cui la Famiglia Reale continuava serena e sicura sotto la
-
-protezione della polizia e le limitazioni costituzionali; in cui tutti i pubblici
-
-servizi erano condotti con una regolarità rasente il tedio, e in cui
-
-nessuno veniva mai rovinato o rovesciato tranne il macellaio, il fornaio, il
-
-candelaio e i vari tipi di bottegai e comuni cittadini
-
-che per caso venissero ad [[Cross|attraversare]] il cammino di grandi operazioni commerciali. Il
-
-paese poteva [[Well|ben]] essere uno dei più piccoli Stati tedeschi che sono stati
-
-industrializzati per dipendenza da miniere e fabbriche, o una delle antiche
-
-dipendenze dell'Impero austriaco. Non importa; basta
-
-ad assicurarsi il rispetto e l'interesse del lettore sapere che era una comunità
-
-del tutto moderna e illuminata, che era progredita in ogni scienza e
-
-aveva perfezionato ogni comodità sociale finché non si trovò a ragionevole
-
-distanza dalla rivoluzione; non una piccola rivoluzione di palazzo da quattro soldi, in cui
-
-pochi principi vengono assassinati, ma una vera rivoluzione sociale internazionale,
-
-universale; probabilmente iniziando con uno sciopero generale e probabilmente finendo
-
-con bancarotta e carestia.
-
-Era tanto più possibile in quanto avvenimenti burrascosi di questo genere erano
-
-già scoppiati in un vicino Stato industriale e, dopo alcuni
-
-mesi di una guerra civile assai sconcertante, erano finiti con la vittoria di uno
-
-dei sei generali rivoluzionari che si combattevano l'un l'altro sul campo; il
-
-vincitore essendo un certo generale Case, un abile soldato che in origine
-
-era venuto con le truppe coloniali di guarnigione nei dintorni, e a cui
-
-le chiacchiere locali attribuivano di essere in parte negro, fatto che
-
-consolava considerevolmente coloro che erano stati da lui sconfitti. Per il nostro
-
-territorio, che chiameremo Pavonia, egli fu importante soltanto come
-
-sfortunatamente fortunato esempio.
-
-La crisi pubblica divenne acuta in Pavonia con l'apparizione della
-
-piuttosto misteriosa agitazione intorno a «La Parola». Ancor oggi vi sono
-
-dispute sulla [[Nature|natura]] del movimento. Alcuni degli agenti del [[government|governo]]
-
-e degli inquirenti giuravano che il popolino ignorante credeva davvero che, con
-
-la scoperta di una nuova Parola, tutto al mondo sarebbe stato spiegato.
-
-Apparve realmente un pamphlet sfrenato, in cui l'autore sosteneva con
-
-folle ingegnosità che, come tutta la moderna pubblicità e divulgazione consistono
-
-nel concentrare un libro in un paragrafo, o un capitolo in una frase,
-
-così alla fine tutta la [[Truth|verità]] sul presente problema sarebbe stata
-
-concentrata in una parola. Folle d'impazienti malcontenti erano esortate ad
-
-attendere la Parola; e si fornivano visioni apocalittiche delle scene
-
-di sconvolgimento mondiale che sarebbero seguite, una volta pronunciata la Parola. La
-
-Parola avrebbe contenuto in sé, si asseriva con gravità, un completo piano di
-
-operazioni e una spiegazione dell'intera strategia organizzata della
-
-rivolta. Alcuni dicevano che tutta l'idea fosse nata da un poeta boemo,
-
-che firmava le sue [[Poems|poesie]] «[[Sebastian]]», e aveva certamente composto una [[Lyric|lirica]]
-
-invocazione piena di allusioni alla Parola. Molti ripetevano i versi che
-
-dicevano:
-
-Come il serpente d'[[Aaron|Aronne]] ingoiò serpi e verghe,
-
-Come Dio [[Alone|solo]] è più grande degli dèi,
-
-Come ogni [[Stars|stella]] si dissolve nell'unico sole,
-
-Le parole son molte, ma la Parola è una.
-
-Ma nessuno in carica vide mai il poeta rivoluzionario che lanciava queste
-
-piccole inezie al [[government|Governo]] e al pubblico; finché non fu identificato
-
-un giorno per strada dall'ultima persona che avesse probabilità d'incontrarlo.
-
-La principessa Aurelia Augusta Augustina, ecc. ecc. (che aveva incastonato
-
-da qualche parte fra i suoi stratificati nomi cristiani il nome di Maria, con cui
-
-per comodità era chiamata dalla famiglia), era la nipote del
-
-monarca regnante e, avendo appena lasciato la scuola, non apprezzava ancora del tutto
-
-la differenza fra regnare e governare. Era una vigorosa
-
-giovane donna dai capelli rossi e dal naso romano, e avendo finora imparato
-
-sui Reali più dalla [[history|storia]] che dalla politica, prendeva la loro posizione
-
-con una certa semplicità e poteva perfino immaginare (proprio come se fosse
-
-stata davvero nei Balcani) che valesse la pena di assassinarli o di
-
-obbedir loro. Era tornata nella vita della [[Court|corte]] e della capitale,
-
-che aveva lasciata da mera [[Child|bambina]], piena di quell'irreprimibile [[Desire|desiderio]] di
-
-rendersi utile, così normale nelle donne e così pericoloso nelle grandi dame,
-
-e per il momento si rendeva molesta rivolgendo a tutti domande
-
-su ogni cosa. Naturalmente rivolgeva domande sull'[[Riddle|enigma]]
-
-politico popolare della Parola e, in generale, come direbbe il signor [[Edmund]] Burke,
-
-sulla causa dei presenti malcontenti. Era tanto più
-
-incuriosita quando nessuno sapeva dirle che cosa fosse la Parola e assai pochi,
-
-nel suo mondo, di che cosa trattasse tutta la baraonda. Fu perciò con un
-
-considerevole fervore di superiorità che ella tornò dalla sua famiglia un
-
-pomeriggio e annunciò di aver realmente veduto il sedizioso
-
-menestrello, apparentemente responsabile della rima rivoluzionaria alquanto oscura
-
-e del movimento rivoluzionario alquanto misterioso.
-
-La sua automobile procedeva lenta lungo una strada tranquilla, perché ella era in
-
-cerca di un negozio di curiosità che aveva conosciuto nell'[[Childhood|infanzia]] e non riusciva
-
-a localizzare subito. Poco oltre il negozio di curiosità c'era un caffè, con alcuni
-
-tavolini all'aperto alla maniera continentale, e a uno di questi tavolini
-
-sedeva davanti a un liquore verde un individuo dall'aria bizzarra con
-
-capelli lunghissimi e un altissimo colletto o cravatta. Ho detto che l'identificazione storica
-
-e geografica conta poco in questo caso; e il
-
-lettore può, se gli aggrada, rivestire questo strano episodio di qualunque foggia stramba o
-
-antiquata di fantasie di costume, poiché in verità la moda più recente
-
-è piena di curiosi ritorni e di mode che potrebbero essere o assai
-
-vecchie o assai nuove. L'uomo dal colletto poteva essere qualche eccentrico
-
-contemporaneo o creazione di Balzac; poteva del pari [[Well|bene]] essere uno
-
-studente d'arte d'oggi, con le vedute più futuriste ma i favoriti più
-
-primo-vittoriani. La sua criniera di lunghi capelli era di un incredibile castano
-
-scuro che pareva un cremisi smorto piuttosto che ordinario rosso; la sua barba
-
-biforcuta era del medesimo innaturale colore e veniva messa in risalto dall'alta
-
-cravatta che era di un vivido verde-pavone. Il colore della
-
-cravatta variava, tuttavia, di giorno in giorno; a volte era di un verde
-
-più brillante quando lo spirito della [[spring|primavera]] gl'ispirava i [[songs|canti]]; a volte purpureo
-
-quando lamentava la ricca [[Tragedy|tragedia]] dei suoi amori; a volte del tutto
-
-nero quando aveva deciso che il [[Time|momento]] fosse davvero venuto di distruggere
-
-l'universo. Egli spiegava ai suoi amici di seguire senza
-
-esitare il filo dell'umore e del cielo del mattino, ma essi non gli
-
-raccomandarono mai una cravatta che non contrastasse efficacemente con la barba.
-
-Poiché costui non era altri che il poeta [[Sebastian]], i cui versi contavano
-
-tanto nel movimento rivoluzionario del momento.
-
-La principessa, naturalmente, era del tutto ignara della sua [[Identity|identità]], e lo
-
-avrebbe oltrepassato senza alcun commento particolare oltre a una disapprovazione della sua
-
-cravatta. Ma egli tornò alla sua attenzione e vi rimase a causa
-
-delle condizioni curiosamente diverse in cui ella lo vide solo un'ora o
-
-due più tardi, quando i negozi e le fabbriche ebbero chiuso i battenti e riversato
-
-fuori le loro popolazioni. Quando ella ripassò per la strada
-
-tranquilla, non era più tranquilla. Era specialmente il contrario di tranquilla nei
-
-pressi del caffè dove lo straniero aveva bevuto il
-
-liquore verde, e se l'automobile ora procedeva lenta, era per la
-
-difficoltà di farsi strada attraverso una folla sempre più fitta. Poiché
-
-l'individuo dai lunghi capelli e dalla cravatta stava ora ritto sul tavolino del caffè
-
-e declamava quelli che parevano frammenti alterni di prosa e di versi,
-
-con alcuni tipi intermedi moderni difficili da definire. Ella giunse giusto in
-
-[[Time|tempo]], tuttavia, per udire la fine dell'ormai familiare cantilena o motto
-
-rimato: «Come Dio [[Alone|solo]] è più grande degli dèi, Come ogni [[Stars|stella]] si dissolve
-
-nell'unico sole, Le parole son molte, ma la Parola è una.
-
-«Ma la Parola non varcherà le mie labbra, né quelle dei Quattro Custodi della
-
-Parola che già la conoscono, finché la prima parte dell'opera non sarà stata
-
-compiuta. Quando gl'impotenti si saranno levati contro i potenti, quando
-
-i poveri si saranno levati al di sopra dei ricchi, quando i deboli si saranno levati e mostrati
-
-più forti dei forti, quando...»
-
-In quel momento egli e i suoi uditori si accorsero d'improvviso del sobrio
-
-ma elegante veicolo che spingeva la prua come una barca al di sopra delle
-
-onde popolari, e del volto alquanto altero che appariva al di sopra di
-
-esso, giusto dietro il volto ligneo dell'autista. Quasi tutti i presenti
-
-riconobbero la dama e vi fu un improvviso movimento e arresto, come
-
-d'imbarazzo, ma il poeta ritto sul tavolino assunse un nuovo
-
-atteggiamento di [[Sublime|sublime]] impudenza e gridò forte: «Ma quant'è duro per
-
-la bruttezza levarsi contro la [[Beauty|bellezza]]. E noi siamo una brutta genìa!»
-
-E la principessa proseguì in corsa in uno stato di collera montante.
-
-
-
-<span class="atom-split" data-atom="story_22_epilogue_of_the_pressman" data-title="FourFaultlessFelons — Epilogue Of The Pressman" data-chapter="Epilogue Of The Pressman" data-kind="story"></span>
-
-
-EPILOGUE OF THE PRESSMAN
-
-THE Thief, the Quack, the Murderer and the Traitor, had made their
-
-confessions of crime to Mr. Pinion of the Comet somewhat more briefly and
-
-personally than the same tales have been recorded here. Nevertheless,
-
-they took a tolerably long [[Time|time]] from start to finish, and throughout the
-
-whole of that [[Time|time]] Mr. Pinion had preserved an air of polite attention
-
-and had not interrupted by so much as a word.
-
-When they were over, he coughed slightly and said: "[[Well]], gentlemen, I'm
-
-sure I've been very much interested in your remarkable narratives. But I
-
-suppose most of us get misrepresented a bit from [[Time|time]] to [[Time|time]]. I [[Hope|hope]]
-
-you'll do me the [[Honour|honour]], gentlemen, of allowing that I haven't pumped
-
-you, or prompted you, or stuck my oar in anyway, but have enjoyed your
-
-hospitality without taking advantage of it."
-
-"I am sure," said the doctor heartily, "nobody could possibly have been
-
-more patient and considerate."
-
-"I only ask," proceeded Mr. Pinion, in his gentle tones, "because in the
-
-newspaper world of my own country I am known as the Bloody Battering-Ram,
-
-also the [[Home]]-Wrecker, the Heart-Searcher and occasionally as Jack the
-
-Ripper, because of my unscrupulous ripping-up of the most sacred [[Secrets|secrets]]
-
-of private life. Headlines such as 'Bull-Dog Pinion Pins President', or
-
-'[[Home]]-Wrecker Has Scalp of Screaming Secretary', are common on the
-
-brighter news-pages of my native state. The story is still told of how I
-
-hung on to Judge Grogan by one leg, when he was climbing into the
-
-aeroplane."
-
-"[[Well]]," said the doctor, "I own I never should have guessed it of you.
-
-Nobody would think you'd ever done a thing like that."
-
-"I never did," replied Mr. Pinion calmly. "Judge Grogan and I had a
-
-perfectly friendly conversation at his own country residence at his own
-
-request. But each of us has got to keep up his own professional
-
-reputation, whether it's as a Murderer, a Robber or a Reporter."
-
-"Do you mean," asked the big man intervening, "that you didn't really
-
-batter or wreck or rip anything or anybody?"
-
-"[[Well]], not quite so much as you murdered anybody," answered the American
-
-in his guarded tone. "But I have to let on that I've been horribly rude
-
-to everybody, or I'd lose my professional prestige and perhaps my job. As
-
-a matter of fact, I generally find I can get anything I want by being
-
-polite. My experience is," he added mildly and gravely, "that most folks
-
-are only too ready to talk about themselves."
-
-The four men around him looked at each other and then broke into a laugh.
-
-"That's certainly one for us," said the doctor. "You've certainly got our
-
-stories out of us and done it by being perfectly polite. Do you really
-
-mean to say that if you publish them, you'd have to pretend you could
-
-only do it by being rude?"
-
-"I guess so," said Mr. Pinion, nodding gravely. "If I publish your story,
-
-I'd have to say I broke down the door of Dr. Judson's surgery as he was
-
-bandaging somebody with his throat cut, and just wouldn't let him finish
-
-till he'd told me his life-story. I'd have to pretend Mr. Nadoway was
-
-just off to his dying mother, when I boarded his car and got his views on
-
-Capital versus Labour. I'd be obliged to burgle the third gentleman's
-
-[[house]] or wreck the fourth gentleman's train, or do something to show my
-
-editor I'm a real live wire of a reporter. Of course you never need to do
-
-it really, you can do most things by decent manners and talking to people
-
-at appropriate times. Or rather," and he again suppressed a smile,
-
-"letting them talk to you."
-
-"Do you think," asked the big man thoughtfully, "that that sort of
-
-sensationalism really impresses the public?"
-
-"I don't know," said the journalist. "I should rather think not. It
-
-impresses the editor, and that's what I've got to think about."
-
-"But, if you'll excuse me, don't you mind yourself," pursued the other.
-
-"Don't you mind everybody from Maine to Mexico calling you a Bloody
-
-Battering-Ram when you're really a perfectly normal and [[Well|well]]-educated
-
-gentleman?"
-
-"[[Well]]," said the journalist, "I suppose, as I say, that most of us are
-
-misunderstood one way or another."
-
-There was a momentary [[Silence|silence]] at the table, and then Dr. Judson turned in
-
-his chair with a sort of jerk and said: "Gentlemen, I beg to propose Mr.
-
-Lee Pinion as a member of the Club."
-
-
-
-
 <span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_01" data-title="FourFaultlessFelons — Clue Of The Pressman (part 1)" data-chapter="Clue Of The Pressman" data-kind="excerpt"></span>
 
 
@@ -14722,6 +13313,341 @@ e poi in seguito da rielaborarle. Sentì di aver davvero ottenuto qualcosa, se
 non esattamente ciò che si aspettava, dal suo inseguimento del brillante e
 
 stravagante conte Raoul de Marillac.
+
+
+
+<span class="atom-split" data-atom="story_02_the_moderate_murderer" data-title="FourFaultlessFelons — The Moderate Murderer" data-chapter="The Moderate Murderer" data-kind="story"></span>
+
+
+THE MODERATE MURDERER
+I THE MAN WITH THE GREEN UMBRELLA
+
+THE new Governor was Lord Tallboys, commonly called Top-hat Tallboys,
+
+because of his attachment to that [[Uncanny|uncanny]] erection, which he continued to
+
+carry balanced on his head as calmly among the palm-trees of [[Egypt]] as
+
+among the lamp-posts of Westminster. Certainly he carried it calmly
+
+enough in lands where few crowns were safe from toppling. The district he
+
+had come out to govern may here be described, with diplomatic vagueness,
+
+as a strip on the edge of [[Egypt]] and called for our convenience Polybia.
+
+It is an old story now, but one which many people had reason to remember
+
+for many years, and at the [[Time|time]] it was an imperial event. One Governor
+
+was killed, another Governor was nearly killed, but in this story we are
+
+concerned only with one catastrophe, and that was rather a personal and
+
+even private catastrophe.
+
+Top-hat Tallboys was a bachelor and yet he brought a family with him. He
+
+had a nephew and two nieces of whom one, as it happened, had married the
+
+Deputy Governor of Polybia, the man who had been called to rule during
+
+the interregnum after the murder of the previous ruler. The other niece
+
+was unmarried; her name was Barbara Traill, and she may [[Well|well]] be the first
+
+figure to [[Cross|cross]] the stage of this story.
+
+For indeed she was rather a solitary and striking figure, raven dark and
+
+rich in colouring with a very beautiful but rather sullen profile, as she
+
+crossed the sandy spaces and came under the cover of one long low wall
+
+which [[Alone|alone]] threw a strip of [[Shadow|shadow]] from the sun, which was sloping
+
+towards the [[Desert|desert]] horizon. The wall itself was a quaint example of the
+
+patchwork character of that borderland of East and West. It was actually
+
+a line of little villas, built for clerks and small officials, and thrown
+
+out as by a speculative builder whose speculations spread to the ends of
+
+the earth. It was a strip of Streatham amid the ruins of Heliopolis. Such
+
+oddities are not unknown, when the oldest countries are turned into the
+
+newest colonies. But in this case the young woman, who was not without
+
+[[Imagination|imagination]], was conscious of a quite fantastic contrast. Each of these
+
+dolls' houses had its toy shrubs and plants and its narrow oblong of back
+
+[[Garden|garden]] running down to the common and continuous [[Garden|garden]] wall; and it was
+
+just outside this wall that there ran the rough path, fringed with a few
+
+hoary and wrinkled olives. Outside the fringe there faded away into
+
+infinity the monstrous [[Solitude|solitude]] of sand. Only there could still be
+
+detected on that last line of distance a faint triangular shape, a sort
+
+of mathematical symbol whose unnatural simplicity has moved all poets and
+
+pilgrims for five thousand years. Anyone seeing it really for the first
+
+[[Time|time]], as the girl did, can hardly avoid uttering a cry: "The Pyramids!"
+
+Almost as she said it a voice said in her ear, not loud but with alarming
+
+clearness and very exact articulation: "The foundations were traced in
+
+[[Blood|blood]] and in [[Blood|blood]] shall they be traced anew. These things are written
+
+for our instruction."
+
+It has been said that Barbara Traill was not without [[Imagination|imagination]]; it
+
+would be truer to say that she had rather too much. But she was quite
+
+certain she had not imagined the voice, though she certainly could not
+
+imagine where it came from. She appeared to be absolutely [[Alone|alone]] on the
+
+little path which ran along the wall and led to the gardens round the
+
+Governorate. Then she remembered the wall itself, and looking sharply
+
+over her shoulder, she fancied she saw for one moment a head peering out
+
+of the [[Shadow|shadow]] of a sycamore, which was the only tree of any size for some
+
+distance, since she had left the last of the low sprawling olives two
+
+hundred yards behind. Whatever it was, it had instantly vanished, and
+
+somehow she suddenly felt frightened, more frightened at its
+
+disappearance than its appearance. She began to hurry along the path to
+
+her uncle's residence at a pace that was a little like a run. It was
+
+probably through this sudden acceleration of movement that she seemed to
+
+become aware, rather abruptly, that a man was marching steadily in front
+
+of her along the same track towards the gates of the Governorate.
+
+He was a very large man, and seemed to take up the whole of the narrow
+
+path. She had something of the sensation, with which she was already
+
+slightly acquainted, of walking behind a camel through the narrow and
+
+crooked cracks of the Eastern town. But this man planted his feet as
+
+firmly as an elephant; he walked, one might say, even with a certain
+
+pomp, as if he were in a procession. He wore a long frock-coat and his
+
+head was surmounted by a tower of scarlet, a very tall red fez, rather
+
+taller than the top-hat of Lord Tallboys. The combination of the red
+
+Eastern cap and the black Western clothes is common enough among the
+
+Effendi class in those countries. But somehow it seemed [[Novel|novel]] and
+
+incongruous in this case, for the man was very fair and had a big blond
+
+beard blown about in the breeze. He might have been a model for the
+
+idiots who talk of the Nordic type of European, but somehow he did not
+
+look like an Englishman. He carried hooked on one finger a rather
+
+[[Grotesque|grotesque]] green umbrella or parasol, which he twirled idly like a
+
+trinket. As he was walking slower and slower and Barbara was walking fast
+
+and wanted to walk faster, she could hardly repress an exclamation of
+
+impatience and something like a request for room to pass. The large man
+
+with the beard immediately faced round and stared at her; then he lifted
+
+a monocle and fixed it in his eye and instantly smiled his apologies. She
+
+realized that he must be short-sighted and that she had been a mere blur
+
+to him a moment before, but there was something else in the change of his
+
+face and manner, something that she had seen before, but to which she
+
+could not put a name.
+
+He explained, with the most formal courtesy, that he was going to leave a
+
+note for an official at the Governorate, and there was really no reason
+
+for her to refuse him credence or conversation. They walked a little way
+
+together, talking of things in general, and she had not exchanged more
+
+than a few sentences before she realized that she was talking to a
+
+remarkable man.
+
+We hear much in these days about the dangers of [[innocence]], much that is
+
+false and a little that is true. But the argument is almost exclusively
+
+applied to sexual [[innocence]]. There is a great deal that ought to be said
+
+about the dangers of political [[innocence]]. That most necessary and most
+
+noble virtue of patriotism is very often brought to [[Despair|despair]] and
+
+destruction, quite needlessly and prematurely, by the folly of educating
+
+the comfortable classes in a false optimism about the record and security
+
+of the Empire. Young people like Barbara Traill have often never heard a
+
+word about the other side of the story, as it would be told by Irishmen
+
+or Indians or even French Canadians, and it is the fault of their parents
+
+and their papers if they often pass abruptly from a stupid Britishism to
+
+an equally stupid Bolshevism. The hour of Barbara Traill was come, though
+
+she probably did not know it.
+
+"If England keeps her promises," said the man with the beard, frowning,
+
+"there is still a chance that things may be quiet."
+
+And Barbara had answered, like a schoolboy: "England always keeps her
+
+promises."
+
+"The Waba have not noticed it," he answered with an air of triumph.
+
+The omniscient are often ignorant. They are often especially ignorant of
+
+ignorance. The stranger imagined that he was uttering a very crushing
+
+repartee, as perhaps he was, to anybody who knew what he meant. But
+
+Barbara had never heard of the Waba. The newspapers had seen to that.
+
+"The British [[government|Government]]," he was saying, "definitely pledged itself two
+
+years ago to a complete scheme of local autonomy. If it is a complete
+
+scheme, all will be [[Well|well]]. If Lord Tallboys has come out here with an
+
+incomplete scheme, a compromise, it will be very far from [[Well|well]]. I shall
+
+be very sorry for everybody, but especially for my English friends."
+
+She answered with a young and [[Innocent|innocent]] sneer, "Oh yes-I suppose you are a
+
+great friend of the English."
+
+"Yes," he replied calmly. "A friend: but a candid friend."
+
+"Oh, I know all about that sort," she said with hot sincerity. "I know
+
+what they mean by a candid friend. I've always found it meant a nasty,
+
+sneering, sneaking, treacherous friend."
+
+He seemed stung for an instant and answered, "Your politicians have no
+
+need to learn treachery from the Egyptians." Then he added abruptly: "Do
+
+you know on Lord Jaffray's raid they shot a [[Child|child]]? Do you know anything
+
+at all? Do you even know how England tacked on [[Egypt]] to her Empire?"
+
+"England has a glorious Empire," said the patriot stoutly.
+
+"England had a glorious Empire," he said. "So had [[Egypt]]."
+
+They had come, somewhat symbolically, to the end of their common path and
+
+she turned away indignantly to the gate that led into the private gardens
+
+of the Governor. As she did so he lifted his green umbrella and pointed
+
+with a momentary gesture at the dark line of the [[Desert|desert]] and the distant
+
+Pyramid. The afternoon had already reddened into evening, and the sunset
+
+lay in long bands of burning crimson across the purple desolation of that
+
+dry inland sea.
+
+"A glorious Empire," he said. "An Empire on which the sun never sets.
+
+Look . . the sun is setting in [[Blood|blood]]."
+
+She went through the iron gate like the [[Wind|wind]] and let it clang behind her.
+
+As she went up the avenue towards the inner gardens, she lost a little of
+
+her impatient movement and began to trail along in the rather moody
+
+manner which was more normal to her. The colours and shadows of that
+
+quieter scene seemed to close about her; this place was for the present
+
+her nearest approach to [[Home|home]], and at the end of the long perspective of
+
+gaily coloured [[Garden|garden]] walks, she could see her sister Olive picking
+
+[[Flowers|flowers]].
+
+The sight soothed her; but she was a little puzzled about why she should
+
+need any soothing. She had a deeply disquieting sense of having touched
+
+something alien and terrible, something fierce and utterly foreign, as if
+
+she had stroked some strange wild beast of the [[Desert|desert]]. But the gardens
+
+about her and the [[house]] beyond had already taken on a tone or tint
+
+indescribably English, in spite of the recent settlement and the African
+
+sky. And Olive was so obviously choosing [[Flowers|flowers]] to put into English
+
+vases or to decorate English dinner-tables, with decanters and salted
+
+almonds.
+
+But as she drew nearer to that distant figure, it grew more puzzling. The
+
+blossoms grasped in her sister's hand looked like mere ragged and random
+
+handfuls, torn away as a man lying on the turf would idly tear out grass,
+
+when he is abstracted or angry. A few loose stalks lay littered on the
+
+path; it seemed as if the heads had been merely broken off as if by a
+
+[[Child|child]]. Barbara did not know why she took in all these details with a slow
+
+and dazed eye, before she looked at the central figure they surrounded.
+
+Then Olive looked up and her face was ghastly. It might have been the
+
+face of Medea in the [[Garden|garden]], gathering the poisonous [[Flowers|flowers]].
+
 
 
 
@@ -21367,6 +20293,346 @@ arresto di Walter Windrush con l'accusa di omicidio.
 
 
 
+<span class="atom-split" data-atom="story_10_v_the_secret_of_the_tree" data-title="FourFaultlessFelons — V The Secret Of The Tree" data-chapter="V The Secret Of The Tree" data-kind="story"></span>
+
+
+V THE SECRET OF THE TREE
+
+THE motives of the simple are more subtle than those of the subtle. The
+
+former do not sort out their own emotions and the result is often more
+
+mysterious, especially as they never afterwards attempt to solve the
+
+mystery. Enid was a very elemental and unconscious character, who had
+
+never before been thrown into such a turmoil of thoughts and feelings.
+
+And her first feeling, under her last shock, was a primitive human
+
+feeling that for her isolation had come to an end. She had found
+
+something more crushing and complicated than she could carry [[Alone|alone]], and
+
+she must have a friend.
+
+She therefore went straight out of the front door and down the [[Road|road]] to
+
+find a friend. She went to find a charlatan, a schemer, a [[Grotesque|grotesque]] lying
+
+mystagogue, a man who had done her and hers the most abominable wrong,
+
+and she found him just going into his own [[house]], with the brass plate
+
+outside it. Something not to be formulated in words told her that, in
+
+some dark, distorted, undiscoverable way he was on her side, and that he
+
+would manage to get whatever he chose to try for. She stopped the [[Villain|villain]]
+
+of her strange story and spoke to him quite naturally, as if he were her
+
+brother.
+
+"I wish you would come back to our place a moment," she said. "Another
+
+ghastly thing has happened now and I can't make head or tail of
+
+anything."
+
+He turned promptly and threw a sharp glance up the street.
+
+"Ah," he said, "then the police have come already."
+
+She stared at him speechless for a moment, as a light gradually began to
+
+break upon her rocking brain.
+
+"Did you know they were coming?" she cried; and then in a final universal
+
+flash she seemed to take in a thousand things at once. The combined
+
+product of them all was perhaps curious. For there broke out of her only
+
+the expression of incredulous astonishment: "But aren't you wicked,
+
+then?"
+
+"Only moderately so," he replied. "But I dare say what I did would be
+
+considered indefensible. It was the only thing I could think of to save
+
+him. It had to be done in rather a hurry."
+
+She drew a deep breath and there dawned upon her gradually, like
+
+something seen in the distance, a [[Memory|memory]] and a meaning.
+
+"Why, I see now," she said. "It was just like what you did, when you
+
+shoved him from under the car."
+
+"I'm afraid I'm impetuous," said Judson, "and perhaps I jump too soon."
+
+"But on both occasions," she said, "you only jumped just in [[Time|time]]."
+
+Then she went into the [[house]] [[Alone|alone]]; her mind was still stratified with
+
+terror; the notion of her father as a monkey, as a lunatic, as something
+
+worse. And yet in a corner of her sunken subconscious [[Soul|soul]] something was
+
+singing, because her friend was not so wicked after all.
+
+Ten minutes later, when Inspector Brandon, a sandy-haired representative
+
+of the C.I.D., with a stolid appearance but a lively eye, entered the
+
+Windrush parlour, he found himself confronted with a square-faced,
+
+square-shouldered medical gentleman, with dark hair and an inscrutable
+
+smile. Nobody, who had seen Dr. Judson shaken by the various passions of
+
+the late peril and crisis, could have recognized him, in the placid
+
+impenetrable friend of the family who now sat facing the policeman.
+
+"I am sure, Inspector, that you agree with me in wishing to spare the
+
+unfortunate lady as far as possible," he said smoothly. "I happen to be
+
+the family physician, and I shall have to be responsible for her
+
+condition in any case. But I am responsible in other ways, too, and you
+
+may take it from me that a man in my position will put no obstacles in
+
+your way in doing your duty. I [[Hope|hope]] you have no objection, for the
+
+moment, to explaining the general [[Nature|nature]] of your business to me."
+
+"[[Well]], sir," said the Inspector, "so far as that is concerned, it's
+
+generally rather a relief in these cases to be able to talk to a third
+
+party. But you'll understand, of course, that I shall expect you to talk
+
+straight."
+
+"I'll talk straight enough," answered the doctor coolly. "I understand
+
+you have a warrant for the arrest of Mr. Walter Windrush."
+
+The policeman nodded.
+
+"For the murder of Isaac Morse," he said. "Do you know where Windrush is
+
+at present?"
+
+"Yes," said Judson gravely, "I know where Windrush is at present."
+
+He looked across the table tranquilly, with level brows, and added: "I
+
+will tell you, if you like. I will take you to him, if you like. I know
+
+exactly where he is just now."
+
+"We mustn't have any hiding or hanky-panky, you know," said the
+
+Inspector. "You will be taking a serious responsibility, if there's any
+
+chance that he will escape."
+
+"He will not escape." said Dr. Judson.
+
+There was a [[Silence|silence]], which was broken by a slight scurry outside and a
+
+telegraph-boy ran up the steps with a wire for the Inspector. That
+
+official read it with a frown of surprise, and then looked across at his
+
+companion.
+
+"This comes opportunely in one sense," he said. "It seems to justify our
+
+pausing for an explanation, if you're quite sure of what you say."
+
+He handed the telegram to the doctor, who read with his rapid glance the
+
+words: DON'T DO ANYTHING ABOUT W. W. TILL I COME. SHALL BE ROUND IN HALF
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+V IL SEGRETO DELL'ALBERO
+
+I moventi dei semplici sono più sottili di quelli dei sottili. I
+
+primi non districano le proprie emozioni e il risultato è spesso più
+
+misterioso, tanto più che essi non tentano mai in seguito di risolvere il
+
+mistero. Enid era un carattere elementarissimo e inconsapevole, che non era mai
+
+stato prima gettato in un simile turbine di pensieri e sentimenti.
+
+E il suo primo sentimento, sotto quell'ultimo colpo, fu un primitivo sentimento
+
+umano: che per lei l'isolamento era giunto al termine. Aveva trovato
+
+qualcosa di più schiacciante e complicato di quanto potesse portare [[Alone|da sola]], e
+
+doveva avere un amico.
+
+Uscì perciò dritta dal portone e giù per la [[Road|strada]] a
+
+cercare un amico. Andò a cercare un ciarlatano, un intrigante, un [[Grotesque|grottesco]] e menzognero
+
+mistagogo, un uomo che aveva fatto a lei e ai suoi il torto più abominevole,
+
+e lo trovò proprio mentre entrava nella propria [[house|casa]], con la targa d'ottone
+
+sul davanti. Qualcosa d'impossibile a formularsi in parole le diceva che, in
+
+qualche modo oscuro, distorto, imperscrutabile, egli era dalla sua parte, e che
+
+sarebbe riuscito a ottenere qualunque cosa avesse scelto di tentare. Fermò il [[Villain|malvagio]]
+
+della sua strana storia e gli parlò con tutta naturalezza, come se fosse suo
+
+fratello.
+
+«Vorrei che tornasse da noi un momento», disse. «Ora è successa un'altra
+
+cosa spaventosa e non riesco a raccapezzarmi di
+
+nulla.»
+
+Egli si voltò prontamente e gettò un'occhiata acuta su per la strada.
+
+«Ah», disse, «allora la polizia è già arrivata.»
+
+Ella lo fissò senza parole per un momento, mentre una luce cominciava a poco a poco a
+
+farsi strada nel suo cervello vacillante.
+
+«Sapeva che stavano arrivando?» gridò; e poi, in un ultimo lampo universale,
+
+parve cogliere mille cose in una volta. Il prodotto combinato
+
+di tutte esse fu forse curioso. Poiché da lei proruppe soltanto
+
+l'espressione di un'incredula meraviglia: «Ma allora non è
+
+cattivo?»
+
+«Solo moderatamente», replicò. «Ma oso dire che ciò che ho fatto sarebbe
+
+considerato indifendibile. Era l'unica cosa che mi venisse in mente per salvarlo.
+
+Bisognava farla piuttosto in fretta.»
+
+Trasse un profondo respiro e le albeggiò a poco a poco, come
+
+qualcosa scorto in lontananza, un [[Memory|ricordo]] e un significato.
+
+«Ma sì, ora capisco», disse. «È stato proprio come ciò che fece, quando lo
+
+spinse via da sotto l'automobile.»
+
+«Temo di essere impetuoso», disse Judson, «e forse salto troppo presto.»
+
+«Ma in entrambe le occasioni», disse lei, «lei ha saltato giusto in [[Time|tempo]].»
+
+Poi entrò nella [[house|casa]] [[Alone|da sola]]; la sua mente era ancora stratificata di
+
+terrore; l'idea del padre come una scimmia, come un pazzo, come qualcosa di
+
+peggio. Eppure in un angolo della sua [[Soul|anima]] subconscia e sprofondata qualcosa
+
+cantava, perché il suo amico non era poi così cattivo.
+
+Dieci minuti dopo, quando l'ispettore Brandon, un rappresentante dai capelli color sabbia
+
+della C.I.D., d'aspetto flemmatico ma dall'occhio vivace, entrò nel
+
+salotto dei Windrush, si trovò di fronte un signore dalla medicina,
+
+dal volto squadrato e dalle spalle squadrate, dai capelli scuri e da un imperscrutabile
+
+sorriso. Nessuno, che avesse visto il dottor Judson scosso dalle varie passioni
+
+del recente pericolo e della crisi, avrebbe potuto riconoscerlo, nel placido e
+
+impenetrabile amico di famiglia che ora sedeva di fronte al poliziotto.
+
+«Sono certo, ispettore, che lei concorderà con me nel desiderare di risparmiare
+
+la sfortunata signora per quanto possibile», disse con scioltezza. «Si dà il caso che io sia
+
+il medico di famiglia, e dovrò comunque rispondere delle sue
+
+condizioni. Ma sono responsabile anche in altri modi, e lei
+
+può credermi sulla parola: un uomo nella mia posizione non porrà alcun ostacolo
+
+al suo dovere. [[Hope|Spero]] che lei non abbia obiezioni, per il
+
+momento, a spiegarmi la [[Nature|natura]] generale della sua faccenda.»
+
+«[[Well|Beh]], signore», disse l'ispettore, «per quel che riguarda ciò, di
+
+solito in questi casi è piuttosto un sollievo poter parlare a una terza
+
+persona. Ma lei capirà, naturalmente, che mi aspetterò che parli
+
+chiaro.»
+
+«Parlerò abbastanza chiaro», rispose il dottore con freddezza. «Mi risulta
+
+che lei abbia un mandato per l'arresto del signor Walter Windrush.»
+
+Il poliziotto annuì.
+
+«Per l'omicidio di Isaac Morse», disse. «Sa dov'è Windrush
+
+in questo momento?»
+
+«Sì», disse Judson con gravità, «so dov'è Windrush in questo momento.»
+
+Guardò tranquillamente al di là del tavolo, con le sopracciglia distese, e aggiunse: «Glielo
+
+dirò, se vuole. La condurrò da lui, se vuole. So
+
+esattamente dov'è proprio ora.»
+
+«Non dobbiamo avere nessun nascondiglio o imbroglio, sa», disse l'
+
+ispettore. «Si assumerà una grave responsabilità, se c'è una qualche
+
+possibilità che egli fugga.»
+
+«Non fuggirà», disse il dottor Judson.
+
+Ci fu un [[Silence|silenzio]], che fu rotto da un lieve trambusto là fuori e un
+
+fattorino del telegrafo salì di corsa i gradini con un dispaccio per l'ispettore. Quel
+
+funzionario lo lesse con un cipiglio di sorpresa, e poi guardò il suo
+
+compagno.
+
+«Questo arriva opportuno, in un certo senso», disse. «Pare giustificare una nostra
+
+pausa per una spiegazione, se lei è ben sicuro di ciò che dice.»
+
+Porse il telegramma al dottore, che lesse con la sua rapida occhiata le
+
+parole: NON FARE NULLA RIGUARDO A W. W. FINCHÉ NON ARRIVO. SARÒ LÌ TRA MEZZ'
+
+
+
 <span class="atom-split" data-atom="story_11_an_hour_harrington--part_01" data-title="FourFaultlessFelons — An Hour. Harrington. (part 1)" data-chapter="An Hour Harrington" data-kind="excerpt"></span>
 
 
@@ -27104,6 +26370,600 @@ era sempre parso custodire un segreto ed essere in attesa di una sorpresa.
 
 
 
+<span class="atom-split" data-atom="story_16_the_loyal_traitor" data-title="FourFaultlessFelons — The Loyal Traitor" data-chapter="The Loyal Traitor" data-kind="story"></span>
+
+
+THE LOYAL TRAITOR
+I THE MENACE OF THE WORD
+
+IT will be best, both for the reader and the writer, not to bother about
+
+what particular country was the scene of this extraordinary incident. It
+
+may [[Well|well]] be left vague, so long as it is firmly stipulated that it was
+
+not in the Balkans, where so many romancers have rushed to stake out
+
+claims ever since Mr. Anthony [[Hope]] effected his coup d'etat in Ruritania.
+
+The Balkan kingdom is convenient because kings are killed and despotic
+
+governments overthrown with pleasing swiftness and frequency, and the
+
+[[Crown|crown]] may fall to any adventurer, good or bad. But meanwhile, in the same
+
+Balkan State, the farms remain in the same families, the plot of land,
+
+the orchard or the vineyard, descends from father to son; the rude
+
+equality of peasant proprietorship has never been greatly disturbed by
+
+large financial operations. In short, in the Balkan kingdom-there is some
+
+safety and continuity for the Family, so long as it is not the Royal
+
+Family.
+
+But with the kingdom in question here, how different! Whatever name we
+
+may give it, it was at least a highly-civilized and [[Well|well]]-ordered society,
+
+in which the Royal Family continued serene and safe under police
+
+protection and constitutional limitations; in which all the public
+
+services were conducted with a regularity verging on tedium, and in which
+
+nobody was ever ruined or overthrown except the butcher, the baker, the
+
+candle-stick-maker and the various types of tradesmen and common citizens
+
+who might happen to [[Cross|cross]] the path of large commercial operations. The
+
+country might [[Well|well]] be one of the smaller German States that have been
+
+industrialized by dependence on mines and factories, or one of the former
+
+dependencies of the Austrian Empire. It does not matter; it is enough to
+
+secure the reader's respect and interest to know that it was a thoroughly
+
+modern and enlightened community, which had advanced in every science and
+
+perfected every social convenience until it was within reasonable
+
+distance of revolution; not a potty little palace revolution, in which a
+
+few princes are murdered, but a real, international, universal social
+
+revolution; probably beginning with a General Strike and probably ending
+
+with bankruptcy and famine.
+
+It was all the more possible, because breezy events of this sort had
+
+already broken out in a neighbouring industrial state, and after some
+
+months of very bewildering civil war, had ended in the victory of one out
+
+of the six revolutionary generals fighting each other in the field; the
+
+victor being a certain General Case, an able soldier who had originally
+
+come with the Colonial troops garrisoned in the neighbourhood, and who
+
+was credited in local gossip with being partly a negro, a fact which
+
+considerably consoled those who had been defeated by him. For our own
+
+territory, which we will call Pavonia, he was only of importance-as an
+
+unluckily lucky example.
+
+The public crisis became acute in Pavonia with the appearance of the
+
+rather mysterious agitation about "The Word". To this day there are
+
+disputes about the [[Nature|nature]] of the movement. Some of the [[government]] agents
+
+and inquirers swore the ignorant populace did really believe that, with
+
+the discovery of a new Word, everything in the world would be explained.
+
+A wild pamphlet did actually appear, in which the writer argued with
+
+insane ingenuity that, as all modern publicity and popularization consist
+
+of concentrating a book into a paragraph, or a chapter into a sentence,
+
+so at last the whole [[Truth|truth]] about the present problem would be
+
+concentrated into a word. Crowds of impatient malcontents were adjured to
+
+Wait for the Word; and apocalyptic visions were provided, of the scenes
+
+of world-change that would follow, when once The Word was spoken. The
+
+Word would contain in itself, it was gravely asserted, a complete plan of
+
+operations and an explanation of the whole organized strategy of the
+
+revolt. Some said the whole fancy had originated with one Bohemian poet,
+
+who signed his [[Poems|poems]], "[[Sebastian]]", and had certainly composed a [[Lyric|lyric]]
+
+invocation full of allusions to The Word. Many repeated the lines which
+
+ran:
+
+As [[Aaron]]'s serpent swallowed snakes and rods,
+
+As God [[Alone|alone]] is greater than the gods,
+
+As all [[Stars|stars]] shrivel in the single sun,
+
+The words are many, but The Word is one.
+
+But nobody in office ever saw the revolutionary poet who tossed these
+
+little trifles at the [[government|Government]] and the public; until he was identified
+
+one day in the street by the very last person who was likely to meet him.
+
+The Princess Aurelia Augusta Augustina, etc. etc. (who had embedded
+
+somewhere in her stratified Christian names the name of Mary, by which
+
+she was called for convenience by her family), was the niece of the
+
+reigning monarch, and, having only just left school, did not as yet fully
+
+appreciate the difference between reigning and ruling. She was a vigorous
+
+young woman with red hair and a Roman nose, and having as yet learned
+
+more about Royalties in [[history]] than in politics, took their position
+
+with a certain simplicity and could even imagine (just as if she had
+
+really been in the Balkans) that they might be worth murdering or worth
+
+obeying. She had come back into the life of the [[Court]] and the capital,
+
+which she had left as a mere [[Child|child]], full of that irrepressible [[Desire|desire]] to
+
+be useful, which is so normal in women and so dangerous in great ladies,
+
+and she was at present making herself a nuisance by asking questions of
+
+everybody about everything. She naturally asked questions about the
+
+popular political [[Riddle|riddle]] of The Word, and generally, as Mr. [[Edmund]] Burke
+
+would say, about the cause of the present discontents. She was all the
+
+more intrigued when nobody could tell her what The Word was and very few,
+
+in her world, what the row was all about. It was therefore with a
+
+considerable glow of superiority that she returned to her family one
+
+afternoon and announced that she had actually seen the seditious
+
+minstrel, who was apparently responsible for the somewhat obscure
+
+revolutionary rhyme and the somewhat mysterious revolutionary movement.
+
+Her car was moving slowly down a quiet street, because she was on the
+
+look-out for a curio shop she had known in [[Childhood|childhood]] and could not
+
+immediately locate. Just beyond the curio shop was a cafe, with a few
+
+tables outside it in the continental manner, and at one of these tables
+
+was seated in front of a green liqueur an odd-looking person with very
+
+long hair and a very high stock or cravat. I have said that historical
+
+and geographical identification matter little in this case; and the
+
+reader may, if he likes, clothe this queer episode in any outlandish or
+
+antiquated fashion of fantasies of costume, for indeed the most recent
+
+fashion is full of quaint revivals and modes that might be either very
+
+old or very new. The man with the stock might have been some eccentric
+
+contemporary or creation of Balzac; he might equally [[Well|well]] have been an
+
+art student of today, with the most Futurist views but the most Early
+
+Victorian whiskers. His mane of long hair was of an incredible dark
+
+auburn that looked like dim crimson rather than ordinary red; his forked
+
+or cloven beard was of the same unnatural colour and was shown up by the
+
+high cravat which was of a vivid sort of peacock-green. The colour of the
+
+cravat varied, however, from day to day; sometimes it was of a brighter
+
+green when the spirit of [[spring]] inspired his [[songs]]; sometimes of purple
+
+when he was lamenting the rich [[Tragedy|tragedy]] of his loves; sometimes completely
+
+black when he had decided that the [[Time|time]] had really come to destroy the
+
+universe. He would explain to his friends that he followed without
+
+faltering the clue of the mood and the sky of morning, but they never
+
+recommended a necktie that did not contrast effectively with his beard.
+
+For this was no other than the poet [[Sebastian]], whose verses counted for
+
+so much in the revolutionary movement of the moment.
+
+The Princess, of course, was quite unaware of his [[Identity|identity]], and would
+
+have passed him with no particular comment beyond a disapproval of his
+
+necktie. But he returned to her attention and remained in it because of
+
+the curiously different conditions in which she saw him only an hour or
+
+two later, when the shops and factories had shut their doors and poured
+
+forth their populations. When she came back again through the quiet
+
+street, it was no longer quiet. It was especially the reverse of quiet in
+
+the neighbourhood of the cafe where the stranger had been drinking the
+
+green liqueur, and if the car moved slowly now, it was because of the
+
+difficulty of making its way through an ever-thickening crowd. For the
+
+longhaired person in the cravat was now standing on the cafe table and
+
+declaiming what appeared to be alternate fragments of prose and verse,
+
+with some modern intermediate types difficult to define. She came just in
+
+[[Time|time]], however, to hear the end of the now familiar jingle or rhymed
+
+motto: "As God [[Alone|alone]] is greater than the gods, As all [[Stars|stars]] shrivel in
+
+the single sun, The words are many, but The Word is one.
+
+"But The Word will not pass my lips, nor those of the Four Wardens of The
+
+Word who already know it, until the first part of the work has been
+
+accomplished. When the powerless have risen against the powerful, when
+
+the poor have risen above the rich, when the weak have risen and proved
+
+stronger than the strong, when--"
+
+At this moment he and his hearers suddenly became conscious of the sober
+
+but elegant vehicle which was pushing its prow like a boat above the
+
+popular waves, and the somewhat haughty countenance that appeared above
+
+it, just behind the wooden countenance of the chauffeur. Most people
+
+present recognized the lady and there was a sudden stir and stoppage, as
+
+of embarrassment, but the poet standing on the table struck a new
+
+attitude of [[Sublime|sublime]] impudence and cried aloud: "But how hard it is for
+
+ugliness to rise against [[Beauty|beauty]]. And we are an ugly lot!"
+
+And the Princess drove on in a condition of towering rage.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL TRADITORE LEALE
+I LA MINACCIA DELLA PAROLA
+
+SARÀ meglio, tanto per il lettore quanto per lo scrittore, non preoccuparsi di
+
+quale particolare paese fu teatro di questo straordinario episodio. Lo si
+
+può [[Well|ben]] lasciare vago, purché sia fermamente stabilito che non fu
+
+nei Balcani, dove tanti romanzieri si sono precipitati a piantare i loro
+
+paletti fin da quando il signor Anthony [[Hope]] compì il suo colpo di Stato in Ruritania.
+
+Il regno balcanico è comodo perché i re vi vengono uccisi e i governi
+
+dispotici rovesciati con piacevole rapidità e frequenza, e la
+
+[[Crown|corona]] può toccare a qualsiasi avventuriero, buono o cattivo. Ma frattanto, nel medesimo
+
+Stato balcanico, le fattorie restano nelle medesime famiglie, il fazzoletto di terra,
+
+il frutteto o la vigna, discende di padre in figlio; la rude
+
+eguaglianza della piccola proprietà contadina non è mai stata gran che turbata da
+
+grandi operazioni finanziarie. In breve, nel regno balcanico c'è una certa
+
+sicurezza e continuità per la Famiglia, purché non sia la Famiglia
+
+Reale.
+
+Ma col regno di cui qui si tratta, quale differenza! Qualunque nome
+
+gli si voglia dare, era almeno una società altamente civile e [[Well|ben]] ordinata,
+
+in cui la Famiglia Reale continuava serena e sicura sotto la
+
+protezione della polizia e le limitazioni costituzionali; in cui tutti i pubblici
+
+servizi erano condotti con una regolarità rasente il tedio, e in cui
+
+nessuno veniva mai rovinato o rovesciato tranne il macellaio, il fornaio, il
+
+candelaio e i vari tipi di bottegai e comuni cittadini
+
+che per caso venissero ad [[Cross|attraversare]] il cammino di grandi operazioni commerciali. Il
+
+paese poteva [[Well|ben]] essere uno dei più piccoli Stati tedeschi che sono stati
+
+industrializzati per dipendenza da miniere e fabbriche, o una delle antiche
+
+dipendenze dell'Impero austriaco. Non importa; basta
+
+ad assicurarsi il rispetto e l'interesse del lettore sapere che era una comunità
+
+del tutto moderna e illuminata, che era progredita in ogni scienza e
+
+aveva perfezionato ogni comodità sociale finché non si trovò a ragionevole
+
+distanza dalla rivoluzione; non una piccola rivoluzione di palazzo da quattro soldi, in cui
+
+pochi principi vengono assassinati, ma una vera rivoluzione sociale internazionale,
+
+universale; probabilmente iniziando con uno sciopero generale e probabilmente finendo
+
+con bancarotta e carestia.
+
+Era tanto più possibile in quanto avvenimenti burrascosi di questo genere erano
+
+già scoppiati in un vicino Stato industriale e, dopo alcuni
+
+mesi di una guerra civile assai sconcertante, erano finiti con la vittoria di uno
+
+dei sei generali rivoluzionari che si combattevano l'un l'altro sul campo; il
+
+vincitore essendo un certo generale Case, un abile soldato che in origine
+
+era venuto con le truppe coloniali di guarnigione nei dintorni, e a cui
+
+le chiacchiere locali attribuivano di essere in parte negro, fatto che
+
+consolava considerevolmente coloro che erano stati da lui sconfitti. Per il nostro
+
+territorio, che chiameremo Pavonia, egli fu importante soltanto come
+
+sfortunatamente fortunato esempio.
+
+La crisi pubblica divenne acuta in Pavonia con l'apparizione della
+
+piuttosto misteriosa agitazione intorno a «La Parola». Ancor oggi vi sono
+
+dispute sulla [[Nature|natura]] del movimento. Alcuni degli agenti del [[government|governo]]
+
+e degli inquirenti giuravano che il popolino ignorante credeva davvero che, con
+
+la scoperta di una nuova Parola, tutto al mondo sarebbe stato spiegato.
+
+Apparve realmente un pamphlet sfrenato, in cui l'autore sosteneva con
+
+folle ingegnosità che, come tutta la moderna pubblicità e divulgazione consistono
+
+nel concentrare un libro in un paragrafo, o un capitolo in una frase,
+
+così alla fine tutta la [[Truth|verità]] sul presente problema sarebbe stata
+
+concentrata in una parola. Folle d'impazienti malcontenti erano esortate ad
+
+attendere la Parola; e si fornivano visioni apocalittiche delle scene
+
+di sconvolgimento mondiale che sarebbero seguite, una volta pronunciata la Parola. La
+
+Parola avrebbe contenuto in sé, si asseriva con gravità, un completo piano di
+
+operazioni e una spiegazione dell'intera strategia organizzata della
+
+rivolta. Alcuni dicevano che tutta l'idea fosse nata da un poeta boemo,
+
+che firmava le sue [[Poems|poesie]] «[[Sebastian]]», e aveva certamente composto una [[Lyric|lirica]]
+
+invocazione piena di allusioni alla Parola. Molti ripetevano i versi che
+
+dicevano:
+
+Come il serpente d'[[Aaron|Aronne]] ingoiò serpi e verghe,
+
+Come Dio [[Alone|solo]] è più grande degli dèi,
+
+Come ogni [[Stars|stella]] si dissolve nell'unico sole,
+
+Le parole son molte, ma la Parola è una.
+
+Ma nessuno in carica vide mai il poeta rivoluzionario che lanciava queste
+
+piccole inezie al [[government|Governo]] e al pubblico; finché non fu identificato
+
+un giorno per strada dall'ultima persona che avesse probabilità d'incontrarlo.
+
+La principessa Aurelia Augusta Augustina, ecc. ecc. (che aveva incastonato
+
+da qualche parte fra i suoi stratificati nomi cristiani il nome di Maria, con cui
+
+per comodità era chiamata dalla famiglia), era la nipote del
+
+monarca regnante e, avendo appena lasciato la scuola, non apprezzava ancora del tutto
+
+la differenza fra regnare e governare. Era una vigorosa
+
+giovane donna dai capelli rossi e dal naso romano, e avendo finora imparato
+
+sui Reali più dalla [[history|storia]] che dalla politica, prendeva la loro posizione
+
+con una certa semplicità e poteva perfino immaginare (proprio come se fosse
+
+stata davvero nei Balcani) che valesse la pena di assassinarli o di
+
+obbedir loro. Era tornata nella vita della [[Court|corte]] e della capitale,
+
+che aveva lasciata da mera [[Child|bambina]], piena di quell'irreprimibile [[Desire|desiderio]] di
+
+rendersi utile, così normale nelle donne e così pericoloso nelle grandi dame,
+
+e per il momento si rendeva molesta rivolgendo a tutti domande
+
+su ogni cosa. Naturalmente rivolgeva domande sull'[[Riddle|enigma]]
+
+politico popolare della Parola e, in generale, come direbbe il signor [[Edmund]] Burke,
+
+sulla causa dei presenti malcontenti. Era tanto più
+
+incuriosita quando nessuno sapeva dirle che cosa fosse la Parola e assai pochi,
+
+nel suo mondo, di che cosa trattasse tutta la baraonda. Fu perciò con un
+
+considerevole fervore di superiorità che ella tornò dalla sua famiglia un
+
+pomeriggio e annunciò di aver realmente veduto il sedizioso
+
+menestrello, apparentemente responsabile della rima rivoluzionaria alquanto oscura
+
+e del movimento rivoluzionario alquanto misterioso.
+
+La sua automobile procedeva lenta lungo una strada tranquilla, perché ella era in
+
+cerca di un negozio di curiosità che aveva conosciuto nell'[[Childhood|infanzia]] e non riusciva
+
+a localizzare subito. Poco oltre il negozio di curiosità c'era un caffè, con alcuni
+
+tavolini all'aperto alla maniera continentale, e a uno di questi tavolini
+
+sedeva davanti a un liquore verde un individuo dall'aria bizzarra con
+
+capelli lunghissimi e un altissimo colletto o cravatta. Ho detto che l'identificazione storica
+
+e geografica conta poco in questo caso; e il
+
+lettore può, se gli aggrada, rivestire questo strano episodio di qualunque foggia stramba o
+
+antiquata di fantasie di costume, poiché in verità la moda più recente
+
+è piena di curiosi ritorni e di mode che potrebbero essere o assai
+
+vecchie o assai nuove. L'uomo dal colletto poteva essere qualche eccentrico
+
+contemporaneo o creazione di Balzac; poteva del pari [[Well|bene]] essere uno
+
+studente d'arte d'oggi, con le vedute più futuriste ma i favoriti più
+
+primo-vittoriani. La sua criniera di lunghi capelli era di un incredibile castano
+
+scuro che pareva un cremisi smorto piuttosto che ordinario rosso; la sua barba
+
+biforcuta era del medesimo innaturale colore e veniva messa in risalto dall'alta
+
+cravatta che era di un vivido verde-pavone. Il colore della
+
+cravatta variava, tuttavia, di giorno in giorno; a volte era di un verde
+
+più brillante quando lo spirito della [[spring|primavera]] gl'ispirava i [[songs|canti]]; a volte purpureo
+
+quando lamentava la ricca [[Tragedy|tragedia]] dei suoi amori; a volte del tutto
+
+nero quando aveva deciso che il [[Time|momento]] fosse davvero venuto di distruggere
+
+l'universo. Egli spiegava ai suoi amici di seguire senza
+
+esitare il filo dell'umore e del cielo del mattino, ma essi non gli
+
+raccomandarono mai una cravatta che non contrastasse efficacemente con la barba.
+
+Poiché costui non era altri che il poeta [[Sebastian]], i cui versi contavano
+
+tanto nel movimento rivoluzionario del momento.
+
+La principessa, naturalmente, era del tutto ignara della sua [[Identity|identità]], e lo
+
+avrebbe oltrepassato senza alcun commento particolare oltre a una disapprovazione della sua
+
+cravatta. Ma egli tornò alla sua attenzione e vi rimase a causa
+
+delle condizioni curiosamente diverse in cui ella lo vide solo un'ora o
+
+due più tardi, quando i negozi e le fabbriche ebbero chiuso i battenti e riversato
+
+fuori le loro popolazioni. Quando ella ripassò per la strada
+
+tranquilla, non era più tranquilla. Era specialmente il contrario di tranquilla nei
+
+pressi del caffè dove lo straniero aveva bevuto il
+
+liquore verde, e se l'automobile ora procedeva lenta, era per la
+
+difficoltà di farsi strada attraverso una folla sempre più fitta. Poiché
+
+l'individuo dai lunghi capelli e dalla cravatta stava ora ritto sul tavolino del caffè
+
+e declamava quelli che parevano frammenti alterni di prosa e di versi,
+
+con alcuni tipi intermedi moderni difficili da definire. Ella giunse giusto in
+
+[[Time|tempo]], tuttavia, per udire la fine dell'ormai familiare cantilena o motto
+
+rimato: «Come Dio [[Alone|solo]] è più grande degli dèi, Come ogni [[Stars|stella]] si dissolve
+
+nell'unico sole, Le parole son molte, ma la Parola è una.
+
+«Ma la Parola non varcherà le mie labbra, né quelle dei Quattro Custodi della
+
+Parola che già la conoscono, finché la prima parte dell'opera non sarà stata
+
+compiuta. Quando gl'impotenti si saranno levati contro i potenti, quando
+
+i poveri si saranno levati al di sopra dei ricchi, quando i deboli si saranno levati e mostrati
+
+più forti dei forti, quando...»
+
+In quel momento egli e i suoi uditori si accorsero d'improvviso del sobrio
+
+ma elegante veicolo che spingeva la prua come una barca al di sopra delle
+
+onde popolari, e del volto alquanto altero che appariva al di sopra di
+
+esso, giusto dietro il volto ligneo dell'autista. Quasi tutti i presenti
+
+riconobbero la dama e vi fu un improvviso movimento e arresto, come
+
+d'imbarazzo, ma il poeta ritto sul tavolino assunse un nuovo
+
+atteggiamento di [[Sublime|sublime]] impudenza e gridò forte: «Ma quant'è duro per
+
+la bruttezza levarsi contro la [[Beauty|bellezza]]. E noi siamo una brutta genìa!»
+
+E la principessa proseguì in corsa in uno stato di collera montante.
+
+
+
 <span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_01" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 1)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt"></span>
 
 
@@ -29908,3 +29768,143 @@ far-off jingle of the ancient spurs and [[Sword|sword]]. He said it was a point 
 purely personal [[Honour|honour]], but there was a rumour that his niece had a good
 
 deal to do with it.
+
+
+
+
+<span class="atom-split" data-atom="story_22_epilogue_of_the_pressman" data-title="FourFaultlessFelons — Epilogue Of The Pressman" data-chapter="Epilogue Of The Pressman" data-kind="story"></span>
+
+
+EPILOGUE OF THE PRESSMAN
+
+THE Thief, the Quack, the Murderer and the Traitor, had made their
+
+confessions of crime to Mr. Pinion of the Comet somewhat more briefly and
+
+personally than the same tales have been recorded here. Nevertheless,
+
+they took a tolerably long [[Time|time]] from start to finish, and throughout the
+
+whole of that [[Time|time]] Mr. Pinion had preserved an air of polite attention
+
+and had not interrupted by so much as a word.
+
+When they were over, he coughed slightly and said: "[[Well]], gentlemen, I'm
+
+sure I've been very much interested in your remarkable narratives. But I
+
+suppose most of us get misrepresented a bit from [[Time|time]] to [[Time|time]]. I [[Hope|hope]]
+
+you'll do me the [[Honour|honour]], gentlemen, of allowing that I haven't pumped
+
+you, or prompted you, or stuck my oar in anyway, but have enjoyed your
+
+hospitality without taking advantage of it."
+
+"I am sure," said the doctor heartily, "nobody could possibly have been
+
+more patient and considerate."
+
+"I only ask," proceeded Mr. Pinion, in his gentle tones, "because in the
+
+newspaper world of my own country I am known as the Bloody Battering-Ram,
+
+also the [[Home]]-Wrecker, the Heart-Searcher and occasionally as Jack the
+
+Ripper, because of my unscrupulous ripping-up of the most sacred [[Secrets|secrets]]
+
+of private life. Headlines such as 'Bull-Dog Pinion Pins President', or
+
+'[[Home]]-Wrecker Has Scalp of Screaming Secretary', are common on the
+
+brighter news-pages of my native state. The story is still told of how I
+
+hung on to Judge Grogan by one leg, when he was climbing into the
+
+aeroplane."
+
+"[[Well]]," said the doctor, "I own I never should have guessed it of you.
+
+Nobody would think you'd ever done a thing like that."
+
+"I never did," replied Mr. Pinion calmly. "Judge Grogan and I had a
+
+perfectly friendly conversation at his own country residence at his own
+
+request. But each of us has got to keep up his own professional
+
+reputation, whether it's as a Murderer, a Robber or a Reporter."
+
+"Do you mean," asked the big man intervening, "that you didn't really
+
+batter or wreck or rip anything or anybody?"
+
+"[[Well]], not quite so much as you murdered anybody," answered the American
+
+in his guarded tone. "But I have to let on that I've been horribly rude
+
+to everybody, or I'd lose my professional prestige and perhaps my job. As
+
+a matter of fact, I generally find I can get anything I want by being
+
+polite. My experience is," he added mildly and gravely, "that most folks
+
+are only too ready to talk about themselves."
+
+The four men around him looked at each other and then broke into a laugh.
+
+"That's certainly one for us," said the doctor. "You've certainly got our
+
+stories out of us and done it by being perfectly polite. Do you really
+
+mean to say that if you publish them, you'd have to pretend you could
+
+only do it by being rude?"
+
+"I guess so," said Mr. Pinion, nodding gravely. "If I publish your story,
+
+I'd have to say I broke down the door of Dr. Judson's surgery as he was
+
+bandaging somebody with his throat cut, and just wouldn't let him finish
+
+till he'd told me his life-story. I'd have to pretend Mr. Nadoway was
+
+just off to his dying mother, when I boarded his car and got his views on
+
+Capital versus Labour. I'd be obliged to burgle the third gentleman's
+
+[[house]] or wreck the fourth gentleman's train, or do something to show my
+
+editor I'm a real live wire of a reporter. Of course you never need to do
+
+it really, you can do most things by decent manners and talking to people
+
+at appropriate times. Or rather," and he again suppressed a smile,
+
+"letting them talk to you."
+
+"Do you think," asked the big man thoughtfully, "that that sort of
+
+sensationalism really impresses the public?"
+
+"I don't know," said the journalist. "I should rather think not. It
+
+impresses the editor, and that's what I've got to think about."
+
+"But, if you'll excuse me, don't you mind yourself," pursued the other.
+
+"Don't you mind everybody from Maine to Mexico calling you a Bloody
+
+Battering-Ram when you're really a perfectly normal and [[Well|well]]-educated
+
+gentleman?"
+
+"[[Well]]," said the journalist, "I suppose, as I say, that most of us are
+
+misunderstood one way or another."
+
+There was a momentary [[Silence|silence]] at the table, and then Dr. Judson turned in
+
+his chair with a sort of jerk and said: "Gentlemen, I beg to propose Mr.
+
+Lee Pinion as a member of the Club."

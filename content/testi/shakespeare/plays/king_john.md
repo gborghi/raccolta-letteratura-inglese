@@ -1,5 +1,5 @@
 ---
-title: "King John — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [4]"
+title: "KING JOHN"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/king-john-(shakespeare)"
@@ -9,6 +9,681 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/king_john" data-author="Shakespeare" data-workhref="works/king-john-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="King John — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Lady [[Constance]], [[Arthur]] Duke of Brittaine, and the [[Earl of Salisbury]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--02_monologue_constance" data-title="King John — Act II, Scene 2 — monologue (CONSTANCE) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Constance|CONSTANCE]] | (to Salisbury) Gone to be married? Gone to swear a peace? False [[Blood|blood]] to false [[Blood|blood]] joined! Gone to be friends? Shall Louis have Blanche, and Blanche those provinces? It is not so, thou hast misspoke, misheard. Be [[Well|well]] advised, tell o‘er thy tale again. It cannot be, thou dost but say ’tis so. I trust I may not trust thee, for thy word Is but the vain breath of a [[Common Man|common man]]. Believe me, I do not believe thee, man; I have a [[King|king]]’s oath to the contrary. 10 Thou shalt be punished for thus frighting me; For I am sick and capable of fears; Oppressed with wrongs, and therefore full of fears; A widow husbandless, subject to fears; A woman naturally born to fears; And though thou now confess thou didst but jest, With my vexed spirits I cannot take a truce, But they will quake and tremble all this day. What dost thou mean by shaking of thy head? Why dost thou look so sadly on my son? 20 What means that hand upon that breast of thine? Why holds thine eye that lamentable rheum, Like a proud [[River|river]] peering o’er his bounds? Be these sad signs confirmers of thy words? Then speak again—not all thy former tale, But this one word: whether thy tale be true. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--03_exchange_salisbury" data-title="King John — Act II, Scene 2 — exchange (SALISBURY) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SALISBURY | As true as I believe you think them false That give you cause to prove my saying true. |
+| [[Constance|CONSTANCE]] | O, if thou teach me to believe this sorrow, Teach thou this sorrow how to make me die; And let belief and life encounter so As doth the fury of two desperate men Which in the very meeting fall and die. Louis marry Blanche! (To [[Arthur]]) O boy, then where art thou? France friend with England!—What becomes of me? (To Salisbury) Fellow, be gone, I cannot brook thy sight; 36 This news hath made thee a most ugly man. |
+| SALISBURY | What other harm have I, good lady, done, But spoke the harm that is by others done? |
+| [[Constance|CONSTANCE]] | Which harm within itself so heinous is 40 As it makes harmful all that speak of it. |
+| [[Arthur|ARTHUR]] | I do beseech you, madam, be content. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--04_monologue_constance" data-title="King John — Act II, Scene 2 — monologue (CONSTANCE) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Constance|CONSTANCE]] | If thou that bidd‘st me be content wert grim, Ugly and sland’rous to thy mother’s womb, Full of unpleasing blots and sightless stains, Lame, foolish, crooked, swart, prodigious, Patched with foul moles and eye-offending marks, I would not care, I then would be content, For then I should not [[Love|love]] thee, no, nor thou Become thy great birth, nor deserve a [[Crown|crown]]. But thou art fair, and at thy birth, dear boy, [[Nature]] and Fortune joined to make thee great. Of [[Nature]]’s gifts thou mayst with lilies boast, And with the half-blown [[Rose|rose]]. But Fortune, O, She is corrupted, changed, and won from thee; Sh’adulterates hourly with thine uncle John, And with her golden hand hath plucked on France To tread down fair respect of sovereignty, And made his majesty the bawd to theirs. France is a bawd to Fortune and [[King John]], That strumpet Fortune, that usurping John. (To Salisbury) Tell me, thou fellow, is not France forsworn ? Envenom him with words, or get thee gone And leave those woes [[Alone|alone]], which I [[Alone|alone]] Am bound to underbear. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--05_exchange_salisbury" data-title="King John — Act II, Scene 2 — exchange (SALISBURY) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SALISBURY | Pardon me, madam, I may not go without you to the Kings. |
+| [[Constance|CONSTANCE]] | Thou mayst, thou shalt; I will not go with thee. I will instruct my sorrows to be proud, For grief is proud and makes his owner stoop. She sits upon the ground To me and to the state of my great grief 70 Let kings assemble, for my grief’s so great That no supporter but the huge firm earth Can hold it up. Here I and sorrows sit; Here is my throne; bid kings come bow to it. Exeunt Salisbury and [[Arthur]] |
+| *(didascalia)* | 3.1 Flourish. Enter [[King John]] and [[King]] Philip hand in hand; Louis the [[Dauphin]] and Lady Blanche, married; [[Queen]] [[Eleanor]], the Bastard, and the Duke of Austria |
+| [[King|KING]] PHILIP | (to Blanche) ’Tis true, fair daughter, and this blessèd day Ever in France shall be kept festival. To solemnize this day, the glorious sun Stays in his course and plays the alchemist, Turning with splendour of his precious eye 5 The meagre cloddy earth to glittering gold. The yearly course that brings this day about Shall never see it but a holy day. |
+| [[Constance|CONSTANCE]] | (rising) A wicked day, and not a holy day! What hath this day deserved? What hath it done, That it in golden letters should be set Among the high tides in the calendar? Nay, rather turn this day out of the week, This day of shame, oppression, perjury. Or if it must stand still, let wives with [[Child|child]] 15 Pray that their burdens may not fall this day, Lest that their hopes prodigiously be crossed; But on this day let seamen [[Fear|fear]] no wreck; No bargains break that are not this day made; This day all things begun come to ill end, 20 Yea, [[Faith|faith]] itself to hollow falsehood change. |
+| [[King|KING]] PHILIP | By heaven, lady, you shall have no cause To curse the fair proceedings of this day. Have I not pawned to you my majesty? |
+| [[Constance|CONSTANCE]] | You have beguiled me with a counterfeit 25 Resembling majesty, which being touched and tried Proves valueless. You are forsworn, forsworn. You came in arms to spill mine enemies’ [[Blood|blood]], But now in arms you strengthen it with yours. The grappling vigour and rough frown of war 30 Is cold in amity and painted peace, And our oppression hath made up this league. Arm, arm, you heavens, against these perjured Kings! A widow cries, be husband to me, God! Let not the hours of this ungodly day 35 Wear out the day in peace, but ere sun set Set armed discord ’twixt these perjured Kings. Hear me, O hear me! |
+| AUSTRIA | Lady [[Constance]], peace. |
+| [[Constance|CONSTANCE]] | War, war, no peace! Peace is to me a war. O Limoges, O Austria, thou dost shame 40 That bloody spoil. Thou slave, thou wretch, thou coward! Thou little valiant, great in villainy; Thou ever strong upon the stronger side; Thou Fortune’s champion, that dost never fight But when her humorous ladyship is by 45 To teach thee safety. Thou art perjured too, And sooth‘st up [[Greatness|greatness]]. What a [[Fool|fool]] art thou, A ramping [[Fool|fool]], to brag and stamp, and swear Upon my party! Thou cold-blooded slave, Hast thou not spoke like thunder on my side, 50 Been sworn my soldier, bidding me depend Upon thy [[Stars|stars]], thy fortune, and thy strength? And dost thou now fall over to my foes? Thou wear a [[Lion|lion]]’s hide! Doff it, for shame, And hang a calf’s-skin on those recreant limbs. 55 |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--06_exchange_austria" data-title="King John — Act II, Scene 2 — exchange (AUSTRIA) [6]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| AUSTRIA | O, that a man should speak those words to me! |
+| BASTARD | And hang a calf’s-skin on those recreant limbs. |
+| AUSTRIA | Thou dar’st not say so, [[Villain|villain]], for thy life. |
+| BASTARD | And hang a calf’s-skin on those recreant limbs. |
+| [[King John|KING JOHN]] | (to the Bastard) We like not this. Thou dost forget thyself. 60 Enter Cardinal Pandolf |
+| [[King|KING]] PHILIP | Here comes the holy legate of the Pope. |
+| PANDOLF | Hail, you anointed deputies of God.— To thee, [[King John]], my holy errand is. I Pandolf, of fair Milan Cardinal, And from Pope [[Innocent]] the legate here, 65 Do in his name religiously demand Why thou against the Church, our Holy Mother, So wilfully dost spurn, and force perforce Keep Stephen Langton, chosen Archbishop Of Canterbury, from that holy see. 70 This, in our foresaid Holy Father’s name, Pope [[Innocent]], I do demand of thee. |
+| [[King John|KING JOHN]] | What earthy name to interrogatories Can task the free breath of a sacred [[King|king]]? Thou canst not, Cardinal, devise a name 75 So slight, unworthy, and ridiculous To charge me to an answer, as the Pope. Tell him this tale, and from the mouth of England Add thus much more: that no Italian priest Shall tithe or toll in our dominions; 80 But as we, under God, are supreme head, So, under him, that great supremacy Where we do reign we will [[Alone|alone]] uphold Without th’assistance of a mortal hand. So tell the Pope, all reverence set apart To him and his usurped authority. |
+| [[King|KING]] PHILIP | Brother of England, you blaspheme in this. |
+| [[King John|KING JOHN]] | Though you and all the kings of Christendom Are led so grossly by this meddling priest, Dreading the curse that money may buy out, 90 And by the merit of vile gold, dross, [[Dust|dust]], Purchase corrupted pardon of a man, Who in that sale sells pardon from himself; Though you and all the rest so grossly led This juggling witchcraft with revenue cherish; 95 Yet I [[Alone|alone]], [[Alone|alone]] do me oppose Against the Pope, and count his friends my foes. |
+| PANDOLF | Then by the lawful power that I have Thou shalt stand cursed and excommunicate; And blessed shall he be that doth revolt 100 From his allegiance to an heretic; And meritorious shall that hand be called, Canonized and worshipped as a saint, That takes away by any secret course Thy hateful life. |
+| [[Constance|CONSTANCE]] | O lawful let it be 105 That I have room with Rome to curse awhile. Good Father Cardinal, cry thou ’Amen’ To my keen curses, for without my wrong There is no tongue hath power to curse him right. |
+| PANDOLF | There’s law and warrant, lady, for my curse. 110 |
+| [[Constance|CONSTANCE]] | And for mine too. When law can do no right, Let it be lawful that law bar no wrong. Law cannot give my [[Child|child]] his kingdom here, For he that holds his kingdom holds the law. Therefore, since law itself is perfect wrong, How can the law forbid my tongue to curse? |
+| PANDOLF | Philip of France, on peril of a curse, Let go the hand of that arch-heretic, And raise the power of France upon his head, Unless he do submit himself to Rome. 120 |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--07_exchange_queen_eleanor" data-title="King John — Act II, Scene 2 — exchange (QUEEN ELEANOR) [7]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen|QUEEN]] [[Eleanor|ELEANOR]] | Look’st thou pale, France? Do not let go thy hand. |
+| [[Constance|CONSTANCE]] | to [[King John]] Look to it, devil, lest that France repent, And by disjoining hands hell lose a [[Soul|soul]]. |
+| AUSTRIA | [[King]] Philip, listen to the Cardinal. |
+| BASTARD | And hang a calf’s-skin on his recreant limbs. 125 |
+| AUSTRIA | [[Well]], ruffian, I must pocket up these wrongs, Because— |
+| BASTARD | Your breeches best may carry them. |
+| [[King John|KING JOHN]] | Philip, what sayst thou to the Cardinal? |
+| [[Constance|CONSTANCE]] | What should he say, but as the Cardinal? |
+| LOUIS THE [[Dauphin|DAUPHIN]] | Bethink you, Father, for the difference 130 Is purchase of a heavy curse from Rome, Or the light loss of England for a friend. Forgo the easier. |
+| BLANCHE | That’s the curse of Rome. |
+| [[Constance|CONSTANCE]] | O Louis, stand fast; the devil tempts thee here In likeness of a new untrimmèd bride. 135 |
+| BLANCHE | The Lady [[Constance]] speaks not from her [[Faith|faith]], But from her need. |
+| [[Constance|CONSTANCE]] | to [[King]] Philip O if thou grant my need, Which only lives but by the [[Death|death]] of [[Faith|faith]], That need must needs infer this principle: That [[Faith|faith]] would live again by [[Death|death]] of need. 140 O, then tread down my need, and [[Faith|faith]] mounts up; Keep my need up, and [[Faith|faith]] is trodden down. |
+| [[King John|KING JOHN]] | The [[King]] is moved, and answers not to this. |
+| [[Constance|CONSTANCE]] | (to [[King]] Philip) O, be removed from him, and answer [[Well|well]]. |
+| AUSTRIA | Do so, [[King]] Philip, hang no more in [[Doubt|doubt]]. 145 |
+| BASTARD | Hang nothing but a calf’s-skin, most sweet lout. |
+| [[King|KING]] PHILIP | I am perplexed, and know not what to say. |
+| PANDOLF | What canst thou say but will perplex thee more, If thou stand excommunicate and cursed? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--08_monologue_king_philip" data-title="King John — Act II, Scene 2 — monologue (KING PHILIP) [8]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] PHILIP | Good Reverend Father, make my person yours, 150 And tell me how you would bestow yourself. This royal hand and mine are newly knit, And the conjunction of our inward souls Married in league, coupled and linked together With all religious strength of sacred vows; 155 The latest breath that gave the sound of words Was deep-sworn [[Faith|faith]], peace, amity, true [[Love|love]], Between our kingdoms and our royal selves; And even before this truce, but new before, No longer than we [[Well|well]] could wash our hands 160 To clap this royal bargain up of peace, God knows, they were besmeared and over-stained With slaughter’s pencil, where [[Revenge]] did paint The fearful difference of incensed kings; And shall these hands, so lately purged of [[Blood|blood]], 165 So newly joined in [[Love|love]], so strong in both, Unyoke this seizure and this kind regreet, Play fast and loose with [[Faith|faith]], so jest with heaven, Make such unconstant children of ourselves, As now again to snatch our palm from palm, 170 Unswear [[Faith|faith]] sworn, and on the [[Marriage|marriage]]-bed Of smiling peace to march a bloody host, And make a riot on the gentle brow Of true sincerity? O holy sir, My Reverend Father, let it not be so. 175 Out of your grace, devise, ordain, impose Some gentle order, and then we shall be blessed To do your pleasure and continue friends. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--09_exchange_pandolf" data-title="King John — Act II, Scene 2 — exchange (PANDOLF) [9]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PANDOLF | All form is formless, order orderless, Save what is opposite to England’s [[Love|love]]. Therefore to arms, be champion of our Church, Or let the Church, our mother, breathe her curse, A mother’s curse, on her revolting son. France, thou mayst hold a serpent by the tongue, A crazed [[Lion|lion]] by the mortal paw, 185 A fasting tiger safer by the tooth, Than keep in peace that hand which thou dost hold. |
+| [[King|KING]] PHILIP | I may disjoin my hand, but not my [[Faith|faith]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--10_monologue_pandolf" data-title="King John — Act II, Scene 2 — monologue (PANDOLF) [10]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PANDOLF | So mak‘st thou [[Faith|faith]] an enemy to [[Faith|faith]], And like a civil war, sett’st oath to oath, 190 Thy tongue against thy tongue. O, let thy vow, First made to heaven, first be to heaven performed; That is, to be the champion of our Church. What since thou swor‘st is sworn against thyself, And may not be performèd by thyself; 195 For that which thou hast sworn to do amiss Is not amiss when it is truly done; And being not done where doing tends to ill, The [[Truth|truth]] is then most done not doing it. The better act of purposes mistook 200 Is to mistake again; though indirect, Yet indirection thereby grows direct, And falsehood falsehood cures, as [[Fire|fire]] cools [[Fire|fire]] Within the scorchèd veins of one new burned. It is religion that doth make vows kept; But thou hast sworn against religion; By what thou swear’st, against the thing thou swear‘st; And mak’st an oath the surety for thy troth: Against an oath, the [[Truth|truth]]. Thou art unsure To swear: swear’st only not to be forsworn—210 Else what a mockery should it be to swear!— But thou dost swear only to be forsworn, And most forsworn to keep what thou dost swear; Therefore thy later vows against thy first Is in thyself rebellion to thyself, 215 And better conquest never canst thou make Than arm thy constant and thy nobler parts Against these giddy loose suggestions; Upon which better part our prayers come in If thou vouchsafe them. But if not, then know 220 The peril of our curses light on thee So heavy as thou shalt not shake them off, But in [[Despair|despair]] die under their black weight. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--11_exchange_austria" data-title="King John — Act II, Scene 2 — exchange (AUSTRIA) [11]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| AUSTRIA | Rebellion, flat rebellion! |
+| BASTARD | Wilt not be? Will not a calf’s-skin stop that mouth of thine? 225 |
+| LOUIS THE [[Dauphin|DAUPHIN]] | Father, to arms! |
+| BLANCHE | Upon thy wedding day? Against the [[Blood|blood]] that thou hast married ? What, shall our feast be kept with slaughtered men? Shall braying trumpets and loud churlish drums, Clamours of hell, be measures to our pomp? 230 She kneels O husband, hear me ! Ay, alack, how new Is ‘husband’ in my mouth! Even for that name Which till this [[Time|time]] my tongue did ne’er pronounce, Upon my knee I beg, go not to arms Against mine uncle. |
+| [[Constance|CONSTANCE]] | (kneeling) O, upon my knee 235 Made hard with kneeling, I do pray to thee, Thou virtuous [[Dauphin]], alter not the doom Forethought by heaven. |
+| BLANCHE | (to Louis the [[Dauphin]]) Now shall I see thy [[Love|love]]: what motive may Be stronger with thee than the name of wife? 240 |
+| [[Constance|CONSTANCE]] | That which upholdeth him that thee upholds: His [[Honour|honour]].—O thine [[Honour|honour]], Louis, thine [[Honour|honour]]! |
+| LOUIS THE [[Dauphin|DAUPHIN]] | (to [[King]] Philip) I muse your majesty doth seem so cold When such profound respects do pull you on. |
+| PANDOLF | I will denounce a curse upon his head. 245 |
+| [[King|KING]] PHILIP | Thou shalt not need.—England, I will fall from thee. He takes his hand from [[King John]]’s hand. Blanche and [[Constance]] rise |
+| [[Constance|CONSTANCE]] | O, fair return of banished majesty! |
+| [[Queen|QUEEN]] [[Eleanor|ELEANOR]] | O, foul revolt of French inconstancy I |
+| [[King John|KING JOHN]] | France, thou shalt rue this hour within this hour. |
+| BASTARD | Old [[Time]] the [[Clock|clock]]-setter, that bald sexton [[Time]], 250 Is it as he will?—[[Well]] then, France shall rue. |
+| BLANCHE | The sun’s o’ercast with [[Blood|blood]]; fair day, adieu! Which is the side that I must go withal? I am with both, each army hath a hand, And in their rage, I having hold of both, 255 They whirl asunder and dismember me. Husband, I cannot pray that thou mayst win.— Uncle, I needs must pray that thou mayst lose.— Father, I may not wish the fortune thine.— Grandam, I will not wish thy wishes thrive. Whoever wins, on that side shall I lose, Assured loss before the match be played. |
+| LOUIS THE [[Dauphin|DAUPHIN]] | Lady, with me, with me thy fortune lies. |
+| BLANCHE | There where my fortune lives, there my life dies. |
+| [[King John|KING JOHN]] | (to the Bastard) Cousin, go draw our puissance together.— Exit the Bastard France, I am burned up with inflaming wrath, A rage whose heat hath this condition: That nothing can allay, nothing but [[Blood|blood]], The [[Blood|blood]], and dearest-valued [[Blood|blood]], of France. |
+| [[King|KING]] PHILIP | Thy rage shall burn thee up, and thou shalt turn 270 To ashes ere our [[Blood|blood]] shall quench that [[Fire|fire]]. Look to thyself, thou art in jeopardy. |
+| [[King John|KING JOHN]] | No more than he that threats.—To arms let’s hie! Exeunt severally |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--01_exchange_dialogue" data-title="King John — Act III, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[King]] Philip, Louis the [[Dauphin]], Cardinal Pandolf, and attendants |
+| [[King|KING]] PHILIP | So, by a roaring tempest on the flood, A whole armada of convicted sail Is scattered and disjoined from fellowship. |
+| PANDOLF | [[Courage]] and comfort; all shall yet go [[Well|well]]. |
+| [[King|KING]] PHILIP | What can go [[Well|well]] when we have run so ill? Are we not beaten? Is not Angers lost, [[Arthur]] ta‘en prisoner, divers dear friends slain, And bloody England into England gone, O’erbearing interruption, spite of France? |
+| LOUIS THE [[Dauphin|DAUPHIN]] | What he hath won, that hath he fortified. 10 So hot a [[Speed|speed]], with such advice disposed, Such temperate order in so fierce a cause, Doth want example. Who hath read or heard Of any kindred action like to this? |
+| [[King|KING]] PHILIP | [[Well]] could I bear that England had this praise, 15 So we could find some pattern of our shame. Enter [[Constance]], distracted, with her hair about her ears Look who comes here! A [[Grave|grave]] unto a [[Soul|soul]], Holding th’eternal spirit against her will In the vile [[Prison|prison]] of afflicted breath.— I prithee, lady, go away with me. 20 |
+| [[Constance|CONSTANCE]] | Lo, now, now see the issue of your peace! |
+| [[King|KING]] PHILIP | Patience, good lady; comfort, gentle [[Constance]]. |
+| [[Constance|CONSTANCE]] | No, I defy all counsel, all redress, But that which ends all counsel, true redress: [[Death]], [[Death]], O amiable, lovely [[Death]]! 25 Thou odoriferous stench, sound rottenness! Arise forth from the couch of lasting [[Night|night]], Thou hate and terror to prosperity, And I will kiss thy detestable bones, And put my eyeballs in thy vaulty brows, 30 And ring these fingers with thy household worms, And stop this gap of breath with fulsome [[Dust|dust]], And be a carrion [[Monster|monster]] like thyself. Come grin on me, and I will think thou smil’st, And buss thee as thy wife. Misery’s [[Love|love]], 35 O, come to me! |
+| [[King|KING]] PHILIP | O fair affliction, peace I |
+| [[Constance|CONSTANCE]] | No, no, I will not, having breath to cry. O, that my tongue were in the thunder’s mouth! Then with a passion would I shake the world, And rouse from [[Sleep|sleep]] that fell anatomy, Which cannot hear a lady’s feeble voice, Which scorns a modern invocation. |
+| PANDOLF | Lady, you utter [[Madness|madness]], and not sorrow. |
+| [[Constance|CONSTANCE]] | Thou art not holy to belie me so. I am not mad: this hair I tear is mine; My name is [[Constance]]; I was Geoffrey’s wife; Young [[Arthur]] is my son; and he is lost. I am not mad; I would to God I were, For then ’tis like I should forget myself. O,if I could, what grief should I forget ! 50 Preach some [[philosophy]] to make me mad, And thou shalt be canonized, Cardinal. For, being not mad, but sensible of grief, My reasonable part produces reason How I may be delivered of these woes, 55 And teaches me to kill or hang myself. If I were mad I should forget my son, Or madly think a babe of clouts were he. I am not mad; too [[Well|well]], too [[Well|well]] I feel The different plague of each calamity. 60 |
+| [[King|KING]] PHILIP | Bind up those tresses. O,what [[Love|love]] I note In the fair multitude of those her hairs! Where but by chance a silver drop hath fallen, Even to that drop ten thousand wiry friends Do glue themselves in sociable grief, 65 Like true, inseparable, faithful loves, Sticking together in calamity. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--02_exchange_constance" data-title="King John — Act III, Scene 4 — exchange (CONSTANCE) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Constance|CONSTANCE]] | To England, if you will. |
+| [[King|KING]] PHILIP | Bind up your hairs. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--03_monologue_constance" data-title="King John — Act III, Scene 4 — monologue (CONSTANCE) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Constance|CONSTANCE]] | Yes, that I will. And wherefore will I do it? I tore them from their bonds, and cried aloud, ‘O that these hands could so redeem my son, As they have given these hairs their liberty!’ But now I envy at their liberty, And will again commit them to their bonds, Because my poor [[Child|child]] is a prisoner. 75 She binds up her hair And Father Cardinal, I have heard you say That we shall see and know our friends in heaven. If that be true, I shall see my boy again; For since the birth of [[Cain]], the first male [[Child|child]], To him that did but yesterday suspire, 80 There was not such a gracious creature born. But now will canker-sorrow eat my bud, And chase the native [[Beauty|beauty]] from his cheek; And he will look as hollow as a [[Ghost|ghost]], As dim and meagre as an ague’s fit, And so he’ll die; and rising so again, When I shall meet him in the [[Court|court]] of heaven, I shall not know him; therefore never, never Must I behold my pretty [[Arthur]] more. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--04_exchange_pandolf" data-title="King John — Act III, Scene 4 — exchange (PANDOLF) [4]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PANDOLF | You hold too heinous a respect of grief. |
+| [[Constance|CONSTANCE]] | He talks to me that never had a son. |
+| [[King|KING]] PHILIP | You are as fond of grief as of your [[Child|child]]. |
+| [[Constance|CONSTANCE]] | Grief fills the room up of my absent [[Child|child]], Lies in his bed, walks up and down with me, Puts on his pretty looks, repeats his words, Remembers me of all his gracious parts, Stuffs out his vacant garments with his form; Then have I reason to be fond of grief. Fare you [[Well|well]]. Had you such a loss as I, I could give better comfort than you do. 100 She unbinds her hair I will not keep this form upon my head When there is such disorder in my wit. O Lord, my boy, my [[Arthur]], my fair son, My life, my joy, my food, my all the world, 104 My widow-comfort, and my sorrow’s cure! Exit |
+| [[King|KING]] PHILIP | I [[Fear|fear]] some outrage, and I’ll follow her. Exit attended |
+| LOUIS THE [[Dauphin|DAUPHIN]] | There’s nothing in this world can make me joy. Life is as tedious as a twice-told tale, Vexing the dull ear of a drowsy man; And bitter shame hath spoiled the sweet world’s taste, That it yields naught but shame and bitterness. 111 |
+| PANDOLF | Before the curing of a strong disease, Even in the instant of repair and health, The fit is strongest. Evils that take leave, On their departure most of all show evil. 115 What have you lost by losing of this day? |
+| LOUIS THE [[Dauphin|DAUPHIN]] | All days of glory, joy, and happiness. |
+| PANDOLF | If you had won it, certainly you had. No, no; when Fortune means to men most good, She looks upon them with a threat‘ning eye. ’Tis strange to think how much [[King John]] hath lost In this which he accounts so clearly won. Are not you grieved that [[Arthur]] is his prisoner? |
+| LOUIS THE [[Dauphin|DAUPHIN]] | As heartily as he is glad he hath him. |
+| PANDOLF | Your mind is all as youthful as your [[Blood|blood]]. 125 Now hear me speak with a prophetic spirit, For even the breath of what I mean to speak Shall blow each [[Dust|dust]], each straw, each little rub, Out of the path which shall directly lead Thy foot to England’s throne. And therefore mark. John hath seized [[Arthur]], and it cannot be That whiles warm life plays in that infant’s veins The misplaced John should entertain an hour, One minute, nay, one quiet breath of rest. A sceptre snatched with an unruly hand Must be as boisterously maintained as gained; And he that stands upon a slipp’ry place Makes nice of no vile hold to stay him up. That John may stand, then [[Arthur]] needs must fall; So be it, for it cannot be but so. |
+| LOUIS THE [[Dauphin|DAUPHIN]] | But what shall I gain by young [[Arthur]]’s fall? |
+| PANDOLF | You, in the right of Lady Blanche your wife, May then make all the claim that [[Arthur]] did. |
+| LOUIS THE [[Dauphin|DAUPHIN]] | And lose it, life and all, as [[Arthur]] did. |
+| PANDOLF | How green you are, and fresh in this old world 145 John lays you plots; the times conspire with you; For he that steeps his safety in true [[Blood|blood]] Shall find but bloody safety and untrue. This act, so vilely born, shall cool the hearts Of all his people, and freeze up their zeal, That none so small advantage shall step forth To check his reign but they will cherish it; No natural exhalation in the sky, No scope of [[Nature|nature]], no distempered day, No common [[Wind|wind]], no customèd event, 155 But they will pluck away his natural cause, And call them meteors, prodigies, and signs, Abortives, presages, and tongues of heaven Plainly denouncing vengeance upon John. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--05_exchange_louis_the_dauphin" data-title="King John — Act III, Scene 4 — exchange (LOUIS THE DAUPHIN) [5]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LOUIS THE [[Dauphin|DAUPHIN]] | Maybe he will not touch young [[Arthur]]’s life, But hold himself safe in his prisonment. |
+| PANDOLF | O sir, when he shall hear of your approach, If that young [[Arthur]] be not gone already, Even at that news he dies; and then the hearts Of all his people shall revolt from him, And kiss the lips of unacquainted change, And pick strong matter of revolt and wrath Out of the bloody fingers’ ends of John. Methinks I see this hurly all on foot, And O, what better matter breeds for you 170 Than I have named! The Bastard Falconbridge Is now in England, ransacking the Church, Offending [[Charity|charity]]. If but a dozen French Were there in arms, they would be as a call To train ten thousand English to their side, 175 Or as a little [[Snow|snow]] tumbled about Anon becomes a mountain. O noble [[Dauphin]], Go with me to the [[King]]. ’Tis wonderful What may be wrought out of their discontent Now that their souls are top-full of offence. 180 For England, go! I will whet on the [[King]]. |
+| LOUIS THE [[Dauphin|DAUPHIN]] | Strong reasons make strange actions. Let us go. If you say ay, the [[King]] will not say no. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="King John — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Hubert]], and Executioners with a rope and irons |
+| [[Hubert|HUBERT]] | Heat me these irons hot, and look thou stand Within the arras. When I strike my foot Upon the bosom of the ground, rush forth And bind the boy which you shall find with me Fast to the chair. Be heedful. Hence, and watch! 5 |
+| EXECUTIONER | I [[Hope|hope]] your warrant will bear out the deed. |
+| [[Hubert|HUBERT]] | Uncleanly scruples: [[Fear|fear]] not you. Look to’t! The Executioners withdraw behind the arras Young lad, come forth, I have to say with you. Enter [[Arthur]] Duke of Brittaine |
+| [[Arthur|ARTHUR]] | Good morrow, [[Hubert]]. Good morrow, little Prince. |
+| [[Arthur|ARTHUR]] | As little prince, having so great a title 10 To be more prince, as may be. You are sad. |
+| [[Hubert|HUBERT]] | Indeed I have been merrier. ARTHURMercy on me! Methinks nobody should be sad but I. Yet I remember, when I was in France, Young gentlemen would be as sad as [[Night|night]] 15 Only for wantonness. By my christendom, So I were out of [[Prison|prison]] and kept sheep, I should be as merry as the day is long; And so I would be here, but that I [[Doubt|doubt]] My uncle practises more harm to me. 20 He is afraid of me, and I of him. Is it my fault that I was Geoffrey’s son? No, indeed is’t not, and I would to God I were your son, so you would [[Love|love]] me, [[Hubert]]. |
+| [[Hubert|HUBERT]] | (aside) If I talk to him, with his [[Innocent|innocent]] prate 25 He will awake my [[Mercy|mercy]], which lies dead; Therefore I will be sudden, and dispatch. |
+| [[Arthur|ARTHUR]] | Are you sick, [[Hubert]]? You look pale today. In sooth, I would you were a little sick, That I might sit all [[Night|night]] and watch with you. 30 I warrant I [[Love|love]] you more than you do me. [[Hubert|HUBERT]](aside) His words do take possession of my bosom. He shows [[Arthur]] a paper Read here, young [[Arthur]]. (Aside) How now: foolish rheum, Turning dispiteous torture out of door? I must be brief, lest resolution drop Out at mine eyes in tender womanish [[Tears|tears]]. (To [[Arthur]]) Can you not read it? Is it not fair writ? |
+| [[Arthur|ARTHUR]] | Too fairly, [[Hubert]], for so foul effect. Must you with hot irons burn out both mine eyes? |
+| [[Hubert|HUBERT]] | Young boy, I must. |
+| [[Arthur|ARTHUR]] | And will you? HUBERTAnd I will. 40 |
+| [[Arthur|ARTHUR]] | Have you the heart? When your head did but ache I knit my handkerchief about your brows, The best I had—a princess wrought it me, And I did never ask it you again— And with my hand at midnight held your head, And like the watchful minutes to the hour Still and anon cheered up the heavy [[Time|time]], Saying ‘What lack you?’ and ‘Where lies your grief?’ Or ‘What good [[Love|love]] may I perform for you?’ Many a poor man’s son would have lain still And ne’er have spoke a loving word to you, But you at your sick service had a prince. Nay, you may think my [[Love|love]] was crafty [[Love|love]], And call it cunning. Do, an if you will. If heaven be pleased that you must use me ill, 55 Why then you must. Will you put out mine eyes, These eyes that never did, nor never shall, So much as frown on you? |
+| HUBERTI | have sworn to do it, And with hot irons must I burn them out. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--02_exchange_arthur" data-title="King John — Act IV, Scene 1 — exchange (ARTHUR) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Arthur|ARTHUR]] | Ah, none but in this iron age would do it. 60 The iron of itself, though heat red hot, Approaching near these eyes would drink my [[Tears|tears]], And quench his fiery indignation Even in the matter of mine [[innocence]]; Nay, after that, consume away in rust, But for containing [[Fire|fire]] to harm mine eye. Are you more stubborn-hard than hammered iron? An if an angel should have come to me And told me [[Hubert]] should put out mine eyes, I would not have believed him; no tongue but [[Hubert]]’s. [[Hubert]] stamps his foot |
+| [[Hubert|HUBERT]] | Come forth! The Executioners come forth Do as I bid you do. |
+| [[Arthur|ARTHUR]] | O, save me, [[Hubert]], save me! My eyes are out Even with the fierce looks of these bloody men. |
+| [[Hubert|HUBERT]] | (to the Executioners) Give me the iron, I say, and bind him here. He takes the iron |
+| [[Arthur|ARTHUR]] | Alas, what need you be so boisterous-rough? I will not struggle; I will stand stone-still. For God’s sake, [[Hubert]], let me not be bound. Nay, hear me, [[Hubert]] Drive these men away, And I will sit as quiet as a [[Lamb|lamb]]; I will not stir, nor wince, nor speak a word, 80 Nor look upon the iron angerly. Thrust but these men away, and I’ll forgive you, Whatever torment you do put me to. |
+| [[Hubert|HUBERT]] | (to the Executioners) Go stand within. Let me [[Alone|alone]] with him. |
+| EXECUTIONER | I am best pleased to be from such a deed. 85 Exeunt Executioners |
+| [[Arthur|ARTHUR]] | Alas, I then have chid away my friend! He hath a stern look, but a gentle heart. Let him come back, that his compassion may Give life to yours. |
+| [[Hubert|HUBERT]] | Come, boy, prepare yourself. |
+| [[Arthur|ARTHUR]] | Is there no remedy? |
+| [[Hubert|HUBERT]] | None but to lose your eyes. 90 |
+| [[Arthur|ARTHUR]] | O God, that there were but a mote in yours, A grain, a [[Dust|dust]], a gnat, a wandering hair, Any annoyance in that precious sense, Then, feeling what small things are boisterous there, Your vile intent must needs seem horrible. 95 |
+| [[Hubert|HUBERT]] | Is this your promise? Go to, hold your tongue! |
+| [[Arthur|ARTHUR]] | [[Hubert]], the utterance of a brace of tongues Must needs want pleading for a pair of eyes. Let me not hold my tongue, let me not, [[Hubert]]; Or, [[Hubert]], if you will, cut out my tongue, 100 So I may keep mine eyes. O, spare mine eyes, Though to no use but still to look on you. Lo, by my troth, the instrument is cold And would not harm me. |
+| [[Hubert|HUBERT]] | I can heat it, boy. |
+| [[Arthur|ARTHUR]] | No, in good sooth: the [[Fire|fire]] is dead with grief, 105 Being create for comfort, to be used In undeserved extremes. See else yourself. There is no malice in this burning coal; The breath of heaven hath blown his spirit out, And strewed repentant ashes on his head. II0 |
+| [[Hubert|HUBERT]] | But with my breath I can revive it, boy. |
+| [[Arthur|ARTHUR]] | An if you do, you will but make it blush And glow with shame of your proceedings, [[Hubert]]. Nay, it perchance will sparkle in your eyes, And like a dog that is compelled to fight, Snatch at his master that doth tarre him on. All things that you should use to do me wrong Deny their office; only you do lack That [[Mercy|mercy]] which fierce [[Fire|fire]] and iron extends, Creatures of note for [[Mercy|mercy]]-lacking uses. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--03_exchange_hubert" data-title="King John — Act IV, Scene 1 — exchange (HUBERT) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Hubert|HUBERT]] | [[Well]], see to live. I will not touch thine eye For all the treasure that thine uncle owes. Yet am I sworn, and I did purpose, boy, With this same very iron to burn them out. |
+| [[Arthur|ARTHUR]] | O, now you look like [[Hubert]]. All this while You were disguised. |
+| [[Hubert|HUBERT]] | Peace, no more. Adieu. Your uncle must not know but you are dead. I’ll fill these dogged spies with false reports; And, pretty [[Child|child]], [[Sleep|sleep]] doubtless and secure That [[Hubert]], for the wealth of all the world, Will not offend thee. |
+| [[Arthur|ARTHUR]] | O God! I thank you, [[Hubert]]. |
+| [[Hubert|HUBERT]] | [[Silence]], no more. Go closely in with me. Much danger do I undergo for thee. Exeunt |
+| *(didascalia)* | 4.2 flourish. Enter [[King John]], the Earls of Pembroke and Salisbury, and other lords. [[King John]] ascends the throne |
+| [[King John|KING JOHN]] | Here once again we sit, once again crowned, And looked upon, I [[Hope|hope]], with cheerful eyes. |
+| PEMBROKE | This ‘once again’, but that your highness pleased, Was once superfluous. You were crowned before, And that high royalty was ne‘er plucked off, The faiths of men ne’er stained with revolt; Fresh expectation troubled not the land With any longed-for change or better state. |
+| SALISBURY | Therefore to be possessed with [[Double|double]] pomp, To guard a title that was rich before, 10 To gild refined gold, to paint the lily, To throw a perfume on the violet, To smooth the ice, or add another hue Unto the rainbow, or with taper-light To seek the beauteous eye of heaven to garnish, Is wasteful and ridiculous excess. |
+| PEMBROKE | But that your royal pleasure must be done, This act is as an ancient tale new-told, And in the last repeating troublesome, Being urged at a [[Time|time]] unseasonable. |
+| SALISBURY | In this the antique and [[Well|well]]-noted face Of plain old form is much disfigured, And like a shifted [[Wind|wind]] unto a sail, It makes the course of thoughts to fetch about, Startles and frights consideration, Makes sound opinion sick, and [[Truth|truth]] suspected For putting on so new a fashioned robe. |
+| PEMBROKE | When workmen strive to do better than [[Well|well]], They do confound their skill in covetousness; And oftentimes excusing of a fault Doth make the fault the worser by th’excuse; As patches set upon a little breach Discredit more in hiding of the fault Than did the fault before it was so patched. |
+| SALISBURY | To this effect: before you were new-crowned We breathed our counsel, but it pleased your highness To overbear it; and we are all [[Well|well]] pleased, Since all and every part of what we would Doth make a stand at what your highness will. |
+| [[King John|KING JOHN]] | Some reasons of this [[Double|double]] coronation I have possessed you with, and think them strong. And more, more strong, when lesser is my [[Fear|fear]] I shall endue you with. Meantime but ask What you would have reformed that is not [[Well|well]], And [[Well|well]] shall you perceive how willingly I will both hear and grant you your requests. |
+| PEMBROKE | Then I, as one that am the tongue of these To sound the purposes of all their hearts, Both for myself and them, but chief of all Your safety, for the which myself and them Bend their best studies, heartily request Th’enfranchisement of [[Arthur]], whose restraint Doth move the murmuring lips of discontent To break into this dangerous argument: If what in rest you have, in right you hold, 55 Why then your fears—which, as they say, attend The steps of wrong—should move you to mew up Your tender kinsman, and to choke his days With barbarous ignorance, and deny his youth The rich advantage of good exercise? That the [[Time|time]]’s enemies may not have this To grace occasions, let it be our suit That you have bid us ask, his liberty; Which for our goods we do no further ask Than whereupon our weal, on you depending, 65 Counts it your weal he have his liberty. Enter [[Hubert]] |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--04_exchange_king_john" data-title="King John — Act IV, Scene 1 — exchange (KING JOHN) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King John|KING JOHN]] | Let it be so. I do commit his youth To your direction.—[[Hubert]], what news with you? He takes [[Hubert]] aside |
+| PEMBROKE | This is the man should do the bloody deed: He showed his warrant to a friend of mine. 70 The image of a wicked heinous fault Lives in his eye; that close aspect of his Does show the mood of a much troubled breast; And I do fearfully believe ’tis done What we so feared he had a charge to do. 75 |
+| SALISBURY | The colour of the [[King]] doth come and go Between his purpose and his [[Conscience|conscience]], Like heralds ’twixt two dreadful battles set. His passion is so ripe it needs must break. |
+| PEMBROKE | And when it breaks, I [[Fear|fear]] will issue thence 80 The foul corruption of a sweet [[Child|child]]’s [[Death|death]]. |
+| [[King John|KING JOHN]] | (coming forward) We cannot hold [[Mortality|mortality]]’s strong hand. Good lords, although my will to give is living, The suit which you demand is gone and dead. He tells us [[Arthur]] is deceased tonight. |
+| SALISBURY | Indeed we feared his sickness was past cure. |
+| PEMBROKE | Indeed we heard how near his [[Death|death]] he was, Before the [[Child|child]] himself felt he was sick. This must be answered, either here or hence. |
+| [[King John|KING JOHN]] | Why do you bend such solemn brows on me? 90 Think you I bear the shears of destiny? Have I commandment on the pulse of life? |
+| SALISBURY | It is apparent foul play, and ’tis shame That [[Greatness|greatness]] should so grossly offer it. So thrive it in your game; and so, farewell. |
+| PEMBROKE | Stay yet, Lord Salisbury; I’ll go with thee, And find th’inheritance of this poor [[Child|child]], His little kingdom of a forced [[Grave|grave]]. That [[Blood|blood]] which owed the breadth of all this isle Three foot of it doth hold. Bad world the while. 100 This must not be thus borne. This will break out To all our sorrows; and ere long, I [[Doubt|doubt]]. Exeunt Pembroke, Salisbury, and other lords |
+| [[King John|KING JOHN]] | They burn in indignation. I repent. There is no sure foundation set on [[Blood|blood]], No certain life achieved by others’ [[Death|death]]. 105 Enter a Messenger A fearful eye thou hast. Where is that [[Blood|blood]] That I have seen inhabit in those cheeks? So foul a sky clears not without a [[Storm|storm]]; Pour down thy weather: how goes all in France? |
+| MESSENGER | From France to England. Never such a power For any foreign preparation Was levied in the [[Body|body]] of a land. The copy of your [[Speed|speed]] is learned by them, For when you should be told they do prepare, The tidings comes that they are all arrived. |
+| [[King John|KING JOHN]] | O, where hath our intelligence been drunk? Where hath it slept? Where is my mother’s ear, That such an army could be drawn in France, And she not hear of it? |
+| MESSENGER | My liege, her ear Is stopped with [[Dust|dust]]. The first of April died Your noble mother. And as I hear, my lord, The Lady [[Constance]] in a frenzy died Three days before; but this from rumour’s tongue I idly heard; if true or false I know not. |
+| [[King John|KING JOHN]] | Withhold thy [[Speed|speed]], dreadful Occasion; O, make a league with me till I have pleased My discontented peers. What, Mother dead? How wildly then walks my estate in France!— Under whose conduct came those powers of France That thou for [[Truth|truth]] giv’st out are landed here? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--05_exchange_messenger" data-title="King John — Act IV, Scene 1 — exchange (MESSENGER) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MESSENGER | Under the [[Dauphin]]. Enter the Bastard and Peter of Pomfret |
+| [[King John|KING JOHN]] | Thou hast made me giddy With these ill tidings. (To the Bastard) Now, what says the world To your proceedings? Do not seek to stuff My head with more ill news, for it is full. |
+| BASTARD | But if you,be afeard to hear the worst, 135 Then let the worst, unheard, fall on your head. |
+| [[King John|KING JOHN]] | Bear with me, cousin, for I was amazed Under the tide; but now I breathe again Aloft the flood, and can give audience To any tongue, speak it of what it will. |
+| BASTARD | How I have sped among the clergymen The sums I have collected shall express. But as I travelled hither through the land, I find the people strangely fantasied, Possessed with rumours, full of idle [[Dreams|dreams]], Not knowing what they [[Fear|fear]], but full of [[Fear|fear]]. And here’s a [[Prophet|prophet]] that I brought with me From forth the streets of Pomfret, whom I found With many hundreds treading on his heels; To whom he sung, in rude, harsh-sounding rhymes, That ere the next Ascension Day at [[Noon|noon]] 151 Your highness should deliver up your [[Crown|crown]]. |
+| [[King John|KING JOHN]] | Thou idle dreamer, wherefore didst thou so? |
+| PETER OF POMFRET | Foreknowing that the [[Truth|truth]] will fall out so. |
+| [[King John|KING JOHN]] | [[Hubert]], away with him! Imprison him,155 And on that day, at [[Noon|noon]], whereon he says I shall yield up my [[Crown|crown]], let him be hanged. Deliver him to safety, and return, For I must use thee. Exeunt [[Hubert]] and Peter of Pomfret O my gentle cousin, Hear’st thou the news abroad, who are arrived? 160 |
+| BASTARD | The French, my lord: men’s mouths are full of it. Besides, I met Lord Bigot and Lord Salisbury With eyes as red as new-enkindled [[Fire|fire]], And others more, going to seek the [[Grave|grave]] Of [[Arthur]], whom they say is killed tonight On your suggestion. |
+| [[King John|KING JOHN]] | Gentle kinsman, go And thrust thyself into their companies. I have away to win their loves again. Bring them before me. |
+| BASTARD | I will seek them out. |
+| [[King John|KING JOHN]] | Nay, but make haste, the better foot before. O, let me have no subject enemies When adverse foreigners affright my towns With dreadful pomp of stout invasion! Be Mercury, set feathers to thy heels, And fly like thought from them to me again. 175 |
+| BASTARD | The spirit of the [[Time|time]] shall teach me [[Speed|speed]]. Exit |
+| [[King John|KING JOHN]] | Spoke like a sprightful noble gentleman!— Go after him, for he perhaps shall need Some messenger betwixt me and the peers, And be thou he. 180 |
+| MESSENGER | With all my heart, my liege. Exit |
+| [[King John|KING JOHN]] | My mother dead! Enter [[Hubert]] |
+| [[Hubert|HUBERT]] | My lord, they say five moons were seen tonight, Four fixed, and the fifth did whirl about The other four in wondrous motion. |
+| [[King John|KING JOHN]] | Five moons? |
+| [[Hubert|HUBERT]] | Old men and beldams in the streets Do prophesy upon it dangerously. Young [[Arthur]]’s [[Death|death]] is common in their mouths, And when they talk of him they shake their heads, And whisper one another in the ear; 190 And he that speaks doth grip the hearer’s wrist, Whilst he that hears makes fearful action, With wrinkled brows, with nods, with [[rolling]] eyes. I saw a [[smith]] stand with his hammer, thus, The whilst his iron did on the anvil cool, With open mouth swallowing a tailor’s news, Who, with his shears and measure in his hand, Standing on slippers which his nimble haste Had falsely thrust upon contrary feet, Told of a many thousand warlike French 200 That were embattailèd and ranked in [[Kent]]. Another lean unwashed artificer Cuts off his tale, and talks of [[Arthur]]’s [[Death|death]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--06_exchange_king_john" data-title="King John — Act IV, Scene 1 — exchange (KING JOHN) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King John|KING JOHN]] | Why seek’st thou to possess me with these fears? Why urgest thou so oft young [[Arthur]]’s [[Death|death]]? Thy hand hath murdered him. I had a mighty cause To wish him dead, but thou hadst none to kill him. |
+| [[Hubert|HUBERT]] | No had, my lord? Why, did you not provoke me? |
+| [[King John|KING JOHN]] | It is the curse of kings to be attended By slaves that take their humours for a warrant To break within the bloody [[house]] of life, And on the winking of authority To understand a law, to know the meaning Of dangerous majesty, when perchance it frowns More upon [[Humour|humour]] than advised respect. |
+| [[Hubert|HUBERT]] | Here is your hand and seal for what I did. He shows a paper |
+| [[King John|KING JOHN]] | O, when the last account ’twixt heaven and earth Is to be made, then shall this hand and seal Witness against us to damnation! How oft the sight of means to do ill deeds 220 Make deeds ill done! Hadst not thou been by, A fellow by the hand of [[Nature|nature]] marked, Quoted, and signed to do a deed of shame, This murder had not come into my mind. But taking note of thy abhorred aspect, Finding thee fit for bloody villainy, Apt, liable to be employed in danger, I faintly broke with thee of [[Arthur]]’s [[Death|death]]; And thou, to be endeared to a [[King|king]], Made it no [[Conscience|conscience]] to destroy a prince. |
+| [[Hubert|HUBERT]] | My lord— |
+| [[King John|KING JOHN]] | Hadst thou but shook thy head or made a pause When I spake darkly what I purposed, Or turned an eye of [[Doubt|doubt]] upon my face, As bid me tell my tale in express words, Deep shame had struck me dumb, made me break off, And those thy fears might have wrought fears in me. But thou didst understand me by my signs, And didst in signs again parley with sin; Yea, without stop, didst let thy heart consent, And consequently thy rude hand to act The deed which both our tongues held vile to name. Out of my sight, and never see me more! My nobles leave me, and my state is braved, Even at my gates, with ranks of foreign powers; Nay, in the [[Body|body]] of this fleshly land, This kingdom, this confine of [[Blood|blood]] and breath, Hostility and civil tumult reigns Between my [[Conscience|conscience]] and my cousin’s [[Death|death]]. |
+| [[Hubert|HUBERT]] | Arm you against your other enemies; I’ll make a peace between your [[Soul|soul]] and you. Young [[Arthur]] is alive. This hand of mine Is yet a maiden and an [[Innocent|innocent]] hand, Not painted with the crimson spots of [[Blood|blood]]. Within this bosom never entered yet The dreadful motion of a murderous thought; And you have slandered [[Nature|nature]] in my form, Which, howsoever rude exteriorly, Is yet the cover of a fairer mind Than to be butcher of an [[Innocent|innocent]] [[Child|child]]. 260 |
+| [[King John|KING JOHN]] | Doth [[Arthur]] live? O, haste thee to the peers; Throw this report on their incensed rage, And make them tame to their obedience. Forgive the comment that my passion made Upon thy feature, for my rage was blind, 265 And foul imaginary eyes of [[Blood|blood]] Presented thee more hideous than thou art. O,answer not, but to my closet bring The angry lords with all expedient haste. I conjure thee but slowly; run more fast. Exeunt severally |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--01_exchange_dialogue" data-title="King John — Act IV, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Arthur]] Duke of Brittaine on the walls, disguised as a [[Ship|ship]]-boy |
+| [[Arthur|ARTHUR]] | The wall is high, and yet will I leap down. Good ground, be pitiful, and hurt me not. There’s few or none do know me; if they did, This [[Ship|ship]]-boy’s semblance hath disguised me quite. I am afraid, and yet I’ll venture it. If I get down and do not break my limbs, I’ll find a thousand shifts to get away. As good to die and go, as die and stay. He leaps down O me! My uncle’s spirit is in these stones. Heaven take my [[Soul|soul]], and England keep my bones! I0 He dies Enter the Earls of Pembroke and Salisbury, and Lord Bigot |
+| SALISBURY | Lords, I will meet him at Saint Edmundsbury. It is our safety, and we must embrace This gentle offer of the perilous [[Time|time]]. |
+| PEMBROKE | Who brought that letter from the Cardinal? |
+| SALISBURY | The Count Melun, a noble lord of France, Who’s private with me of the [[Dauphin]]’s [[Love|love]]; ’Tis much more general than these lines import. |
+| BIGOT | Tomorrow morning let us meet him then. |
+| SALISBURY | Or rather, then set forward, for ’twill be Two long days’[[Journey|journey]], lords, or ere we meet. 20 Enter the Bastard |
+| BASTARD | Once more today [[Well|well]] met, distempered lords. The [[King]] by me requests your presence straight. |
+| SALISBURY | The [[King]] hath dispossessed himself of us. We will not line his thin bestainèd cloak With our pure honours, nor attend the foot 25 That [[Leaves|leaves]] the print of [[Blood|blood]] where’er it walks. Return and tell him so; we know the worst. |
+| BASTARD | Whate’er you think, good words I think were best. |
+| SALISBURY | Our griefs and not our manners reason now. |
+| BASTARD | But there is little reason in your grief. Therefore ’twere reason you had manners now. |
+| PEMBROKE | Sir, sir, impatience hath his privilege. |
+| BASTARD | ’Tis true—to hurt his master, no man else. |
+| SALISBURY | This is the [[Prison|prison]]. He sees [[Arthur]]’s [[Body|body]] |
+| SALISBURY | What is he lies here? |
+| PEMBROKE | O [[Death|death]], made proud with pure and princely [[Beauty|beauty]]! The earth had not a hole to hide this deed. 36 |
+| SALISBURY | Murder, as hating what himself hath done, Doth lay it open to urge on [[Revenge|revenge]]. |
+| BIGOT | Or when he doomed this [[Beauty|beauty]] to a [[Grave|grave]], Found it too precious-princely fora [[Grave|grave]]. 40 |
+| SALISBURY | (to the Bastard) Sir [[Richard]], what think you? You have beheld. Or have you read or heard; or could you think, Or do you almost think, although you see, That you do see? Could thought, without this object, Form such another? This is the very top, The height, the crest, or crest unto the crest, Of murder’s arms; this is the bloodiest shame, The wildest savagery, the vilest stroke That ever wall-eyed wrath or staring rage Presented to the [[Tears|tears]] of soft remorse. |
+| PEMBROKE | All murders past do stand excused in this, And this, so sole and so unmatchable, Shall give a holiness, a purity, To the yet-unbegotten sin of times, And prove a deadly bloodshed but a jest, 55 Exampled by this heinous spectacle. |
+| BASTARD | It is a damned and a bloody work, The graceless action of a heavy hand— If that it be the work of any hand. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--02_exchange_salisbury" data-title="King John — Act IV, Scene 3 — exchange (SALISBURY) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SALISBURY | If that it be the work of any hand? 60 We had a kind of light what would ensue: It is the shameful work of [[Hubert]]’s hand, The practice and the purpose of the [[King]]; From whose obedience I forbid my [[Soul|soul]], Kneeling before this ruin of sweet life, 65 And breathing to his breathless excellence The incense of a vow, a holy vow, Never to taste the pleasures of the world, Never to be infected with delight, Nor conversant with ease and idleness, 70 Till I have set a glory to this hand By giving it the worship of [[Revenge|revenge]]. |
+| PEMBROKE | and BIGOT Our souls religiously confirm thy words. Enter [[Hubert]] |
+| [[Hubert|HUBERT]] | Lords, I am hot with haste in seeking you. [[Arthur]] doth live; the [[King]] hath sent for you. |
+| SALISBURY | O,he is bold, and blushes not at [[Death|death]]!— Avaunt, thou hateful [[Villain|villain]], get thee gone I |
+| [[Hubert|HUBERT]] | I am no [[Villain|villain]]. |
+| SALISBURY | Must I rob the law? He draws his [[Sword|sword]] |
+| BASTARD | Your [[Sword|sword]] is bright, sir; put it up again. |
+| SALISBURY | Not till I sheathe it in a murderer’s skin. |
+| [[Hubert|HUBERT]] | (drawing his [[Sword|sword]]) Stand back, Lord Salisbury, stand back, I say! By heaven, I think my [[Sword|sword]]’s as sharp as yours. I would not have you, lord, forget yourself, Nor tempt the danger of my true defence, Lest I, by marking of your rage, forget Your worth, your [[Greatness|greatness]] and nobility. |
+| BIGOT | Out, dunghill! Dar’st thou brave a nobleman? |
+| [[Hubert|HUBERT]] | Not for my life; but yet I dare defend My [[Innocent|innocent]] life against an emperor. |
+| SALISBURY | Thou art a murderer. |
+| [[Hubert|HUBERT]] | Do not prove me so; Yet I am none. Whose tongue soe’er speaks false, Not truly speaks; who speaks not truly, lies. |
+| PEMBROKE | Cut him to pieces! |
+| BASTARD | (drawing his [[Sword|sword]]) Keep the peace, I say I |
+| SALISBURY | Stand by, or I shall gall you, Falconbridge. |
+| BASTARD | Thou wert better gall the devil, Salisbury. If thou but frown on me, or stir thy foot, Or teach thy hasty spleen to do me shame, I’ll strike thee dead. Put up thy [[Sword|sword]] betime, Or I’ll so maul you and your toasting-iron That you shall think the devil is come from hell. 100 |
+| BIGOT | What wilt thou do, renowned Falconbridge, Second a [[Villain|villain]] and a murderer? |
+| [[Hubert|HUBERT]] | Lord Bigot, I am none. |
+| BIGOT | Who killed this prince? |
+| [[Hubert|HUBERT]] | ’Tis not an hour since I left him [[Well|well]]. I honoured him, I loved him, and will weep My date of life out for his sweet life’s loss. |
+| SALISBURY | Trust not those cunning waters of his eyes, For villainy is not without such rheum, And he, long traded in it, makes it seem Like rivers of remorse and innocency. II0 Away with me, all you whose souls abhor Th’uncleanly savours of a slaughter-[[house]], For I am stifled with this smell of sin. |
+| BIGOT | Away toward Bury, to the [[Dauphin]] there. |
+| PEMBROKE | There, tell the [[King]], he may enquire us out. 115 Exeunt Pembroke, Salisbury, and Bigot |
+| BASTARD | Here’s a good world! Knew you of this fair work? Beyond the infinite and boundless reach Of [[Mercy|mercy]], if thou didst this deed of [[Death|death]] Art thou damned, [[Hubert]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--03_exchange_hubert" data-title="King John — Act IV, Scene 3 — exchange (HUBERT) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Hubert|HUBERT]] | Do but hear me, sir. |
+| BASTARD | Ha! I’ll tell thee what: Thou’rt damned as black—nay nothing is so black— Thou art more deep damned than Prince [[Lucifer]]; There is not yet so ugly a fiend of hell As thou shalt be if thou didst kill this [[Child|child]]. |
+| [[Hubert|HUBERT]] | Upon my [[Soul|soul]]— |
+| BASTARD | If thou didst but consent To this most cruel act, do but [[Despair|despair]]; And if thou want’st a cord, the smallest thread That ever spider twisted from her womb Will serve to strangle thee; a rush will be a beam To hang thee on; or wouldst thou drown thyself, Put but a little [[Water|water]] in a spoon And it shall be, as all the ocean, Enough to stifle such a [[Villain|villain]] up. I do suspect thee very grievously. |
+| [[Hubert|HUBERT]] | If I in act, consent, or sin of thought Be guilty of the stealing that sweet breath Which was embounded in this beauteous clay, Let hell want pains enough to torture me. |
+| [[Hubert|HUBERT]] | I left him [[Well|well]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--04_monologue_bastard" data-title="King John — Act IV, Scene 3 — monologue (BASTARD) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| BASTARD | Go bear him in thine arms. I am amazed, methinks, and lose my way Among the thorns and dangers of this world. [[Hubert]] takes up [[Arthur]] in his arms How easy dost thou take all England up I From forth this morsel of dead royalty, The life, the right, and [[Truth|truth]] of all this realm Is fled to heaven, and England now is left To tug and scramble, and to part by th’ teeth The unowed interest of proud swelling state. Now for the bare-picked bone of majesty Doth dogged war bristle his angry crest, And snarleth in the gentle eyes of peace; Now powers from [[Home|home]] and discontents at [[Home|home]] Meet in one line, and vast confusion waits, As doth a raven on a sick-fall’n beast, The imminent [[Decay|decay]] of wrested pomp. 155 Now happy he whose cloak and cincture can Hold out this tempest. Bear away that [[Child|child]], And follow me with [[Speed|speed]]. I’ll to the [[King]]. A thousand businesses are brief in hand, And heaven itself doth frown upon the land. Exeunt severally |
+| *(didascalia)* | 5.1 Flourish.Enter [[King John]] and Cardinal Pandolf, with attendants |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--05_exchange_king_john" data-title="King John — Act IV, Scene 3 — exchange (KING JOHN) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King John|KING JOHN]] | giving Pandolf the [[Crown|crown]] Thus have I yielded up into your hand The circle of my glory. PANDOLF(giving back the [[Crown|crown]])Take again From this my hand, as holding of the Pope, Your sovereign [[Greatness|greatness]] and authority. |
+| [[King John|KING JOHN]] | Now keep your holy word: go meet the French, And from his Holiness use all your power To stop their marches ‘fore we are enflamed. Our discontented counties do revolt, Our people quarrel with obedience, Swearing allegiance and the [[Love|love]] of [[Soul|soul]] To stranger [[Blood|blood]], to foreign royalty. This inundation of mistempered [[Humour|humour]] Rests by you only to be qualified. Then pause not, for the present [[Time|time]]’s so sick That present med’cine must be ministered, Or overthrow incurable ensues. |
+| PANDOLF | It was my breath that blew this tempest up, Upon your stubborn usage of the Pope, But since you are a gentle convertite, My tongue shall hush again this [[Storm|storm]] of war And make fair weather in your blust’ring land. On this Ascension Day, remember [[Well|well]], Upon your oath of service to the Pope, Go I to make the French lay down their arms. Exeunt all but [[King John]] |
+| [[King John|KING JOHN]] | Is this Ascension Day Did not the [[Prophet|prophet]] Say that before Ascension Day at [[Noon|noon]] My [[Crown|crown]] I should give off? Even so I have. I did suppose it should be on constraint, But, heaven be thanked, it is but voluntary. Enter Bastard |
+| BASTARD | All [[Kent]] hath yielded; nothing there holds out But Dover [[Castle]]. [[London]] hath received, Like a kind host, the [[Dauphin]] and his powers. Your nobles will not hear you, but are gone To offer service to your enemy; And wild amazement hurries up and down The little number of your doubtful friends. |
+| [[King John|KING JOHN]] | Would not my lords return to me again After they heard young [[Arthur]] was alive? |
+| BASTARD | They found him dead and cast into the streets, An empty casket, where the [[Jewel|jewel]] of life By some damned hand was robbed and ta’en away. |
+| [[King John|KING JOHN]] | That [[Villain|villain]] [[Hubert]] told me he did live. |
+| BASTARD | Soon my [[Soul|soul]] he did, for aught he knew. But wherefore do you droop? Why look you sad? Be great in act as you have been in thought. Let not the world see [[Fear|fear]] and sad distrust Govern the motion of a kingly eye. Be stirring as the [[Time|time]], be [[Fire|fire]] with [[Fire|fire]]; Threaten the threat’ner, and outface the brow Of bragging horror. So shall inferior eyes, That borrow their behaviours from the great, Grow great by your example, and put on The dauntless spirit of resolution. Away, and glisten like the god of war When he intendeth to become the field. Show boldness and aspiring confidence. What, shall they seek the [[Lion|lion]] in his den And fright him there, and make him tremble there? O, let it not be said I Forage, and run To meet displeasure farther from the doors, And grapple with him ere he come so nigh. |
+| [[King John|KING JOHN]] | The legate of the Pope hath been with me, And I have made a happy peace with him, And he hath promised to dismiss the powers Led by the [[Dauphin]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--06_exchange_bastard_o" data-title="King John — Act IV, Scene 3 — exchange (BASTARD O) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| BASTARD | O inglorious league! Shall we, upon the footing of our land, Send fair-play orders, and make compromise, Insinuation, parley, and base truce To arms invasive? Shall a beardless boy, A cockered silken wanton, brave our fields And flesh his spirit in a warlike soil, Mocking the air with colours idly spread, And find no check? Let us, my liege, to arms! Perchance the Cardinal cannot make your peace, Or if he do, let it at least be said They saw we had a purpose of defence. |
+| [[King John|KING JOHN]] | Have thou the ordering of this present [[Time|time]]. |
+| BASTARD | Away, then, with good [[Courage|courage]]! AsideYet I know Our party may [[Well|well]] meet a prouder foe. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--01_exchange_dialogue" data-title="King John — Act V, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter, marching in arms, Louis the [[Dauphin]], the Earl off Salisbury, Count Melun, the Earl of Pembroke, and Lord Bigot, with soldiers |
+| LOUIS THE [[Dauphin|DAUPHIN]] | My Lord Melun, let this be copied out, And keep it safe for our remembrance. Return the precedent to these lords again, That having our fair order written down, Both they and we, perusing o’er these notes, May know wherefore we took the sacrament And keep our faiths firm and inviolable. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--02_monologue_salisbury" data-title="King John — Act V, Scene 2 — monologue (SALISBURY) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SALISBURY | Upon our sides it never shall be broken. And, noble [[Dauphin]], albeit we swear A voluntary zealand an unurgéd [[Faith|faith]] To your proceedings, yet believe me, Prince, I am not glad that such a sore of [[Time|time]] Should seek a plaster by contemned revolt, And heal the inveterate canker of one wound By making many. O,it grieves my [[Soul|soul]] That I must draw this metal from my side To be a widow-maker! O, and there Where honourable rescue and defence Cries out upon the name of Salisbury I But such is the infection of the [[Time|time]], That for the health and physic of our right, We cannot deal but with the very hand Of stern injustice and confused wrong. And is’t not pity, O my grieved friends, That we the sons and children of this isle Was born to see so sad an hour as this, Wherein we step after a stranger, march Upon her gentle bosom, and fill up Her enemies’ ranks? I must withdraw and weep Upon the spot of this enforced cause— To grace the gentry of a land remote, And follow unacquainted colours here. What, here? O nation, that thou couldst remove; That Neptune’s arms who clippeth thee about Would bear thee from the knowledge of thyself And gripple thee unto a pagan shore, Where these two Christian armies might combine The [[Blood|blood]] of malice in a vein of league, And not to spend it so unneighbourly. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--03_monologue_louis_the_dauphin" data-title="King John — Act V, Scene 2 — monologue (LOUIS THE DAUPHIN) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LOUIS THE [[Dauphin|DAUPHIN]] | A noble temper dost thou show in this, And great affections, wrestling in thy bosom, Doth make an earthquake of nobility. O, what a noble combat hast thou fought Between compulsion and a brave respect! Let me wipe off this honourable dew That silverly doth progress on thy cheeks. My heart hath melted at a lady’s [[Tears|tears]], Being an ordinary inundation; But this effusion of such manly drops, This shower blown up by tempest of the [[Soul|soul]], Startles mine eyes, and makes me more amazed Than had I seen the vaulty top of heaven Figured quite o’er with burning meteors. Lift up thy brow, renowned Salisbury, And with a great heart heave away this [[Storm|storm]]; 55 Commend these waters to those baby eyes That never saw the giant world enraged, Nor met with Fortune other than at feasts, Full warm of [[Blood|blood]], of mirth, of gossiping. Come, come, for thou shalt thrust thy hand as deep Into the purse of rich prosperity As Louis himself. So, nobles, shall you all That knit your sinews to the strength of mine. A trumpet sounds And even there methinks an angel spake! Enter Cardinal Pandolf Look where the holy legate comes apace, To give us warrant from the hand of heaven, And on our actions set the name of right With holy breath. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--04_exchange_pandolf" data-title="King John — Act V, Scene 2 — exchange (PANDOLF) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PANDOLF | Hail, noble prince of France! The next is this. [[King John]] hath reconciled Himself to Rome; his spirit is come in That so stood out against the Holy Church, The great metropolis and See of Rome; Therefore thy threat’ning colours now [[Wind|wind]] up, And tame the savage spirit of wild war, That like a [[Lion|lion]] fostered up at hand It may lie gently at the foot of peace, And be no further harmful than in show. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--05_monologue_louis_the_dauphin" data-title="King John — Act V, Scene 2 — monologue (LOUIS THE DAUPHIN) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LOUIS THE [[Dauphin|DAUPHIN]] | Your grace shall pardon me: I will not back. I am too high-born to be propertied, To be a secondary at control, Or useful serving-man and instrument To any sovereign state throughout the world. Your breath first kindled the dead coal of wars Between this chastised kingdom and myself, And brought in matter that should feed this [[Fire|fire]]; And now ‘tis far too huge to be blown out With that same weak [[Wind|wind]] which enkindled it. You taught me how to know the face of right, Acquainted me with interest to this land, Yea, thrust this enterprise into my heart; And come ye now to tell me John hath made His peace with Rome? What is that peace to me? I, by the [[Honour|honour]] of my [[Marriage|marriage]] bed, After young [[Arthur]], claim this land for mine; And now it is half conquered, must I back Because that John hath made his peace with Rome? Am I Rome’s slave? What penny hath Rome borne, What men provided, what munition sent To underprop this action? Is’t not I That undergo this charge? Who else but I, And such as to my claim are liable, Sweat in this business and maintain this war? Have I not heard these islanders shout out ‘Vive le Roi!’as I have banked their towns? Have I not here the best cards for the game, 105 To win this easy match played for a [[Crown|crown]]? And shall I now give o’er the yielded set? No, no, on my [[Soul|soul]], it never shall be said. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--06_exchange_pandolf" data-title="King John — Act V, Scene 2 — exchange (PANDOLF) [6]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PANDOLF | You look but on the outside of this work. |
+| LOUIS THE [[Dauphin|DAUPHIN]] | Outside or inside, I will not return Till my attempt so much be glorified As to my ample [[Hope|hope]] was promised Before I drew this gallant head of war, And culled these fiery spirits from the world To outlook conquest and to win renown Even in the jaws of danger and of [[Death|death]]. A trumpet sounds What lusty trumpet thus doth summon us? Enter the Bastard |
+| BASTARD | According to the fair play of the world, Let me have audience; I am sent to speak. My holy lord of Milan, from the [[King]] I come to learn how you have dealt for him, And as you answer I do know the scope And warrant limited unto my tongue. |
+| PANDOLF | The [[Dauphin]] is too wilful-opposite, And will not temporize with my entreaties. He flatly says he’ll not lay down his arms. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--07_monologue_bastard" data-title="King John — Act V, Scene 2 — monologue (BASTARD) [7]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| BASTARD | By all the [[Blood|blood]] that ever fury breathed, The youth says [[Well|well]]. Now hear our English [[King|king]], For thus his royalty doth speak in me. He is prepared, and reason too he should. This apish and unmannerly approach, This harnessed [[Masque|masque]] and unadvised revel, This unhaired sauciness and boyish troops, The [[King]] doth smile at, and is [[Well|well]] prepared To whip this dwarfish war, these pigmy arms, 135 From out the circle of his territories. That hand which had the strength even at your door To cudgel you and make you take the hatch, To dive like buckets in concealed wells, To crouch in litter of your stable planks, To lie like pawns locked up in chests and trunks, To hug with swine, to seek sweet safety out In vaults and prisons, and to thrill and shake Even at the crying of your nation’s crow, Thinking his voice an armed Englishman; Shall that victorious hand be feebled here That in your chambers gave you chastisement? No! Know the gallant monarch is in arms, And like an eagle o’er his eyrie towers To souse annoyance that comes near his nest. (To the English lords) And you degenerate, you ingrate revolts, You bloody Neros, ripping up the womb Of your dear mother England, blush for shame; For your own ladies and pale-visaged maids Like Amazons come tripping after drums; Their thimbles into armed gauntlets change, Their needles to lances, and their gentle hearts To fierce and bloody inclination. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--08_exchange_louis_the_dauphin" data-title="King John — Act V, Scene 2 — exchange (LOUIS THE DAUPHIN) [8]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LOUIS THE [[Dauphin|DAUPHIN]] | There end thy brave, and turn thy face in peace. We grant thou canst outscold us. Fare thee [[Well|well]]: 160 We hold our [[Time|time]] too precious to be spent With such a brabbler. |
+| PANDOLF | Give me leave to speak. |
+| BASTARD | No, I will speak. LouisTHE [[Dauphin|DAUPHIN]] We will attend to neither.— Strike up the drums, and let the tongue of war Plead for our interest and our being here. |
+| BASTARD | Indeed your drums, being beaten, will cry out; And so shall you, being beaten. Do but start An echo with the clamour of thy drum, And even at hand a drum is ready braced That shall reverberate all as loud as thine. Sound but another, and another shall As loud as thine rattle the welkin’s ear, And mock the deep-mouthed thunder; for at hand, Not trusting to this halting legate here, Whom he hath used rather for sport than need, Is warlike John; and in his forehead sits A bare-ribbed [[Death]], whose office is this day To feast upon whole thousands of the French. |
+| LOUIS THE [[Dauphin|DAUPHIN]] | Strike up our drums to find this danger out. |
+| BASTARD | And thou shalt find it, [[Dauphin]], do not [[Doubt|doubt]]. Drums beat. Exeunt the Bastard Fat onedoor, all the rest, marching, at another door |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--01_exchange_dialogue" data-title="King John — Act V, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Prince Henry, the [[Earl of Salisbury]], and Lord Bigot |
+| PRINCE HENRY | It is too late. The life of all his [[Blood|blood]] Is touched corruptibly, and his pure brain, Which some suppose the [[Soul|soul]]’s frail dwelling-[[house]], Doth by the idle comments that it makes Foretell the ending of [[Mortality|mortality]]. Enter the Earl of Pembroke |
+| PEMBROKE | His highness yet doth speak, and holds belief That being brought into the open air, It would allay the burning quality Of that fell [[Poison|poison]] which assaileth him. |
+| PRINCE HENRY | Let him be brought into the orchard here.— Exit Lord Bigot Doth he still rage? |
+| PEMBROKE | He is more patient Than when you left him. Even now, he sung. |
+| PRINCE HENRY | O, [[Vanity|vanity]] of sickness! Fierce extremes In their continuance will not feel themselves. [[Death]], having preyed upon the outward parts, [[Leaves]] them invincible, and his siege is now Against the mind; the which he pricks and wounds With many legions of strange fantasies, Which in their throng and press to that last hold Confound themselves. ’Tis strange that [[Death|death]] should sing. I am the cygnet to this pale faint swan, Who chants a doleful [[Hymn|hymn]] to his own [[Death|death]], And from the organ-pipe of frailty sings His [[Soul|soul]] and [[Body|body]] to their lasting rest. |
+| SALISBURY | Be of good comfort, Prince, for you are born To set a form upon that indigest Which he hath left so shapeless and so rude. [[King John]] is brought in, with Lord Bigot attending |
+| [[King John|KING JOHN]] | Ay marry, now my [[Soul|soul]] hath elbow-room; It would not out at windows nor at doors. There is so hot a [[Summer|summer]] in my bosom That all my bowels crumble up to [[Dust|dust]]; I am a scribbled form, drawn with a pen Upon a parchment, and against this [[Fire|fire]] Do I shrink up. |
+| PRINCE HENRY | How fares your majesty? |
+| [[King John|KING JOHN]] | Poisoned, ill fare! Dead, forsook, cast off; And none of you will bid the [[Winter|winter]] come To thrust his icy fingers in my maw, Nor let my kingdom’s rivers take their course Through my burned bosom, nor entreat the north To make his bleak winds kiss my parchèd lips 40 And comfort me with cold. I do not ask you much; I beg cold comfort, and you are so strait And so ingrateful you deny me that. |
+| PRINCE HENRY | O, that there were some virtue in my [[Tears|tears]] That might relieve you! |
+| [[King John|KING JOHN]] | The salt in them is hot. Within me is a hell, and there the [[Poison|poison]] Is, as a fiend, confined to tyrannize On unreprievable condemned [[Blood|blood]]. Enter the Bastard |
+| BASTARD | O, I am scalded with my violent motion And spleen of [[Speed|speed]] to see your majesty! |
+| [[King John|KING JOHN]] | O cousin, thou art come to set mine eye. The tackle of my heart is cracked and burnt, And all the shrouds wherewith my life should sail Are turned to one thread, one little hair; My heart hath one poor string to stay it by, Which holds but till thy news be uttered, And then all this thou seest is but a clod And module of confounded royalty. |
+| BASTARD | The [[Dauphin]] is preparing hitherward, Where God He knows how we shall answer him; For in a [[Night|night]] the best part of my power, As I upon advantage did remove, Were in the Washes all unwarily Devoured by the unexpected flood. [[King John]] dies |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--02_exchange_salisbury" data-title="King John — Act V, Scene 7 — exchange (SALISBURY) [2]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SALISBURY | You breathe these dead news in as dead an ear. (To [[King John]]) My liege, my lord!—But now a [[King|king]], now thus. |
+| PRINCE HENRY | Even so must I run on, and even so stop. What surety of the world, what [[Hope|hope]], what stay, When this was now a [[King|king]] and now is clay? |
+| BASTARD | (to [[King John]]) Art thou gone so? I do but stay behind To do the office for thee of [[Revenge|revenge]], And then my [[Soul|soul]] shall wait on thee to heaven, As it on earth hath been thy servant still. (To the lords) Now, now, you [[Stars|stars]] that move in your right spheres, Where be your powers? Show now your mended faiths, And instantly return with me again, To push destruction and perpetual shame Out of the weak door of our fainting land. Straight let us seek, or straight we shall be sought. The [[Dauphin]] rages at our very heels. |
+| SALISBURY | It seems you know not, then, so much as we. The Cardinal Pandolf is within at rest, Who half an hour since came from the [[Dauphin]], And brings from him such offers of our peace As we with [[Honour|honour]] and respect may take, With purpose presently to leave this war. |
+| BASTARD | He will the rather do it when he sees Ourselves [[Well|well]]-sinewed to our own defence. |
+| SALISBURY | Nay, ’tis in a manner done already, For many carriages he hath dispatched To the sea-side, and put his cause and quarrel To the disposing of the Cardinal, With whom yourself, myself, and other lords, If you think meet, this afternoon will post To consummate this business happily. |
+| BASTARD | Let it be so.—And you, my noble prince, With other princes that may best be spared, Shall wait upon your father’s funeral. |
+| PRINCE HENRY | At Worcester must his [[Body|body]] be interred, For so he willed it. |
+| BASTARD | Thither shall it then, 100 And happily may your sweet [[Self|self]] put on The lineal state and glory of the land, To whom with all submission, on my knee, I do bequeath my faithful services And true subjection everlastingly. 105 He kneels |
+| SALISBURY | And the like tender of our [[Love|love]] we make, To rest without a spot for evermore. Salisbury, Pembroke and Bigot kneel |
+| PRINCE HENRY | I have a kind of [[Soul|soul]] that would give thanks, And knows not how to do it but with [[Tears|tears]]. He weeps |
+| BASTARD | rising O, let us pay the [[Time|time]] but needful woe, Since it hath been beforehand with our griefs. This England never did, nor never shall, Lie at the proud foot of a conqueror But when it first did help to wound itself. Now these her princes are come [[Home|home]] again, Come the three corners of the world in arms And we shall shock them. Naught shall make us rue If England to itself do rest but true. Flourish. Exeunt with the [[Body|body]] |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--03_monologue_entry" data-title="King John — Act V, Scene 7 — monologue (ENTRY) [3]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| ENTRY | of ‘a book of The Merchant of [[Venice]] or otherwise called The Jew of [[Venice]]’ in the Stationers’ Register on 22July 1598 probably represents an attempt by Shakespeare’s company to prevent the unauthorized printing of a popular play: it eventually appeared in print as ‘The Comical [[history|History]] of the Merchant of [[Venice]]’ in 1600, when it was said to have ‘been divers times acted by the Lord Chamberlain his servants’; probably Shakespeare wrote it in 1596 or 1597. The alternative title—The Jew of [[Venice]]—may reflect [[Shylock]]’s impact on the play’s first audiences. The play is constructed on the basis of two romantic tales using motifs [[Well|well]] known to sixteenth-century readers. The story of Giannetto (Shakespeare’s [[Bassanio]]) and the Lady ([[Portia]]) of Belmont comes from an Italian collection of fifty stories published under the title of II Pecorone (‘the big sheep’, or ‘dunce’) and attributed to one Ser Giovanni of Fiorentino. Written in the later part of the fourteenth century, the volume did not appear until 1558. No sixteenth-century [[Translation|translation]] is known, so (unless there was a lost intermediary) Shakespeare must have read it in Italian. It gave him the main outline of the plot involving [[Antonio]] (the merchant), [[Bassanio]] (the wooer), [[Portia]], and the Jew ([[Shylock]]). The pound of flesh motif was available also in other versions, one of which, in Alexander Silvayn’s The Orator (translated 1596), influenced the climactic scene (4.1) in which [[Shylock]] attempts to exact the full penalty of his bond. In the story from II Pecorone the lady (a widow) challenges her suitors to seduce her, on [[Pain|pain]] of the forfeiture of their wealth, and thwarts them by drugging their wine. Shakespeare more romantically shows a maiden required by her father’s will to accept only a wooer who will forswear [[Marriage|marriage]] if he fails to make the right choice among caskets of gold, silver and lead. The story of the caskets was readily available in versions by John [[Gower]] (in his Confessio Amantis) and Giovanni Boccaccio (in his Decameron), and in an anonymous anthology (the Gesta Romanorum). Shakespeare added the character ofJessica, [[Shylock]]’s daughter who elopes with the Christian [[Lorenzo]]—perhaps influenced by episodes in Christopher Marlowe’s play The Jew of Malta (c.1589)—and made many adjustments to the stories from which he borrowed. The Merchant of [[Venice]] is a natural development from Shakespeare’s earlier comedies, especially The Two Gentlemen of [[Verona]], with its heroine disguised as a boy and its portrayal of the competing demands of [[Love|love]] and [[Friendship|friendship]]. But [[Portia]] is the first of his great romantic heroines, and [[Shylock]] his first great comic antagonist. Though the play grew out of fairy tales, its moral scheme is not entirely clear cut: the Christians are open to criticism, the Jew is true to his own code of conduct. The response of twentieth-century and later audiences has been complicated by racial issues; in any case, the role of [[Shylock]] affords such strong opportunities for an actor capable of arousing an undercurrent of sympathy for a vindictive character that it has sometimes unbalanced the play in performance. But the so-called trial scene (4.1) is unfailing in its impact on audiences, and the closing episodes modulate skilfully from romantic lyricism to high [[Comedy|comedy]], while sustaining the play’s concern with true and false values. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--04_exchange_the_persons_of_the_play" data-title="King John — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [4]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY [[Antonio|ANTONIO]], a merchant of [[Venice]] [[Bassanio|BASSANIO]], his friend and [[Portia]]’s suitor LEONARDO, [[Bassanio]]’s servant [[Shylock|SHYLOCK]], a Jew [[Jessica|JESSICA]], his daughter TUBAL, a Jew LANCELOT, a clown, first [[Shylock]]’s servant and then [[Bassanio]]’s GOBBO, his father [[Portia|PORTIA]], an heiress [[Nerissa|NERISSA]], her waiting-gentlewoman |
+| DUKE | of [[Venice]] Magnificoes of [[Venice]] A jailer, attendants, and servants |
+
+
 
 
 <span class="atom-split" data-atom="king_john" data-title="KING JOHN" data-chapter="" data-kind="intro"></span>
@@ -1639,681 +2314,6 @@ Gain, be my lord, for I will worship thee. Exit
 | ENTRY | of ‘a book of The Merchant of [[Venice]] or otherwise called The Jew of [[Venice]]’ in the Stationers’ Register on 22July 1598 probably represents an attempt by Shakespeare’s company to prevent the unauthorized printing of a popular play: it eventually appeared in print as ‘The Comical [[history|History]] of the Merchant of [[Venice]]’ in 1600, when it was said to have ‘been divers times acted by the Lord Chamberlain his servants’; probably Shakespeare wrote it in 1596 or 1597. The alternative title—The Jew of [[Venice]]—may reflect [[Shylock]]’s impact on the play’s first audiences.<br>The play is constructed on the basis of two romantic tales using motifs [[Well|well]] known to sixteenth-century readers. The story of Giannetto (Shakespeare’s [[Bassanio]]) and the Lady ([[Portia]]) of Belmont comes from an Italian collection of fifty stories published under the title of II Pecorone (‘the big sheep’, or ‘dunce’) and attributed to one Ser Giovanni of Fiorentino. Written in the later part of the fourteenth century, the volume did not appear until 1558. No sixteenth-century [[Translation|translation]] is known, so (unless there was a lost intermediary) Shakespeare must have read it in Italian. It gave him the main outline of the plot involving [[Antonio]] (the merchant), [[Bassanio]] (the wooer), [[Portia]], and the Jew ([[Shylock]]). The pound of flesh motif was available also in other versions, one of which, in Alexander Silvayn’s The Orator (translated 1596), influenced the climactic scene (4.1) in which [[Shylock]] attempts to exact the full penalty of his bond.<br>In the story from II Pecorone the lady (a widow) challenges her suitors to seduce her, on [[Pain|pain]] of the forfeiture of their wealth, and thwarts them by drugging their wine. Shakespeare more romantically shows a maiden required by her father’s will to accept only a wooer who will forswear [[Marriage|marriage]] if he fails to make the right choice among caskets of gold, silver and lead. The story of the caskets was readily available in versions by John [[Gower]] (in his Confessio Amantis) and Giovanni Boccaccio (in his Decameron), and in an anonymous anthology (the Gesta Romanorum). Shakespeare added the character ofJessica, [[Shylock]]’s daughter who elopes with the Christian [[Lorenzo]]—perhaps influenced by episodes in Christopher Marlowe’s play The Jew of Malta (c.1589)—and made many adjustments to the stories from which he borrowed.<br>The Merchant of [[Venice]] is a natural development from Shakespeare’s earlier comedies, especially The Two Gentlemen of [[Verona]], with its heroine disguised as a boy and its portrayal of the competing demands of [[Love|love]] and [[Friendship|friendship]]. But [[Portia]] is the first of his great romantic heroines, and [[Shylock]] his first great comic antagonist. Though the play grew out of fairy tales, its moral scheme is not entirely clear cut: the Christians are open to criticism, the Jew is true to his own code of conduct. The response of twentieth-century and later audiences has been complicated by racial issues; in any case, the role of [[Shylock]] affords such strong opportunities for an actor capable of arousing an undercurrent of sympathy for a vindictive character that it has sometimes unbalanced the play in performance. But the so-called trial scene (4.1) is unfailing in its impact on audiences, and the closing episodes modulate skilfully from romantic lyricism to high [[Comedy|comedy]], while sustaining the play’s concern with true and false values. |
 | THE PERSONS OF THE | PLAY<br>[[Antonio|ANTONIO]], a merchant of [[Venice]]<br>[[Bassanio|BASSANIO]], his friend and [[Portia]]’s suitor<br>LEONARDO, [[Bassanio]]’s servant<br>[[Shylock|SHYLOCK]], a Jew<br>[[Jessica|JESSICA]], his daughter<br>TUBAL, a Jew<br>LANCELOT, a clown, first [[Shylock]]’s servant and then [[Bassanio]]’s<br>GOBBO, his father<br>[[Portia|PORTIA]], an heiress<br>[[Nerissa|NERISSA]], her waiting-gentlewoman |
 | DUKE | of [[Venice]]<br>Magnificoes of [[Venice]]<br>A jailer, attendants, and servants |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="King John — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Lady [[Constance]], [[Arthur]] Duke of Brittaine, and the [[Earl of Salisbury]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--02_monologue_constance" data-title="King John — Act II, Scene 2 — monologue (CONSTANCE) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Constance|CONSTANCE]] | (to Salisbury) Gone to be married? Gone to swear a peace? False [[Blood|blood]] to false [[Blood|blood]] joined! Gone to be friends? Shall Louis have Blanche, and Blanche those provinces? It is not so, thou hast misspoke, misheard. Be [[Well|well]] advised, tell o‘er thy tale again. It cannot be, thou dost but say ’tis so. I trust I may not trust thee, for thy word Is but the vain breath of a [[Common Man|common man]]. Believe me, I do not believe thee, man; I have a [[King|king]]’s oath to the contrary. 10 Thou shalt be punished for thus frighting me; For I am sick and capable of fears; Oppressed with wrongs, and therefore full of fears; A widow husbandless, subject to fears; A woman naturally born to fears; And though thou now confess thou didst but jest, With my vexed spirits I cannot take a truce, But they will quake and tremble all this day. What dost thou mean by shaking of thy head? Why dost thou look so sadly on my son? 20 What means that hand upon that breast of thine? Why holds thine eye that lamentable rheum, Like a proud [[River|river]] peering o’er his bounds? Be these sad signs confirmers of thy words? Then speak again—not all thy former tale, But this one word: whether thy tale be true. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--03_exchange_salisbury" data-title="King John — Act II, Scene 2 — exchange (SALISBURY) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SALISBURY | As true as I believe you think them false That give you cause to prove my saying true. |
-| [[Constance|CONSTANCE]] | O, if thou teach me to believe this sorrow, Teach thou this sorrow how to make me die; And let belief and life encounter so As doth the fury of two desperate men Which in the very meeting fall and die. Louis marry Blanche! (To [[Arthur]]) O boy, then where art thou? France friend with England!—What becomes of me? (To Salisbury) Fellow, be gone, I cannot brook thy sight; 36 This news hath made thee a most ugly man. |
-| SALISBURY | What other harm have I, good lady, done, But spoke the harm that is by others done? |
-| [[Constance|CONSTANCE]] | Which harm within itself so heinous is 40 As it makes harmful all that speak of it. |
-| [[Arthur|ARTHUR]] | I do beseech you, madam, be content. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--04_monologue_constance" data-title="King John — Act II, Scene 2 — monologue (CONSTANCE) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Constance|CONSTANCE]] | If thou that bidd‘st me be content wert grim, Ugly and sland’rous to thy mother’s womb, Full of unpleasing blots and sightless stains, Lame, foolish, crooked, swart, prodigious, Patched with foul moles and eye-offending marks, I would not care, I then would be content, For then I should not [[Love|love]] thee, no, nor thou Become thy great birth, nor deserve a [[Crown|crown]]. But thou art fair, and at thy birth, dear boy, [[Nature]] and Fortune joined to make thee great. Of [[Nature]]’s gifts thou mayst with lilies boast, And with the half-blown [[Rose|rose]]. But Fortune, O, She is corrupted, changed, and won from thee; Sh’adulterates hourly with thine uncle John, And with her golden hand hath plucked on France To tread down fair respect of sovereignty, And made his majesty the bawd to theirs. France is a bawd to Fortune and [[King John]], That strumpet Fortune, that usurping John. (To Salisbury) Tell me, thou fellow, is not France forsworn ? Envenom him with words, or get thee gone And leave those woes [[Alone|alone]], which I [[Alone|alone]] Am bound to underbear. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--05_exchange_salisbury" data-title="King John — Act II, Scene 2 — exchange (SALISBURY) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SALISBURY | Pardon me, madam, I may not go without you to the Kings. |
-| [[Constance|CONSTANCE]] | Thou mayst, thou shalt; I will not go with thee. I will instruct my sorrows to be proud, For grief is proud and makes his owner stoop. She sits upon the ground To me and to the state of my great grief 70 Let kings assemble, for my grief’s so great That no supporter but the huge firm earth Can hold it up. Here I and sorrows sit; Here is my throne; bid kings come bow to it. Exeunt Salisbury and [[Arthur]] |
-| *(didascalia)* | 3.1 Flourish. Enter [[King John]] and [[King]] Philip hand in hand; Louis the [[Dauphin]] and Lady Blanche, married; [[Queen]] [[Eleanor]], the Bastard, and the Duke of Austria |
-| [[King|KING]] PHILIP | (to Blanche) ’Tis true, fair daughter, and this blessèd day Ever in France shall be kept festival. To solemnize this day, the glorious sun Stays in his course and plays the alchemist, Turning with splendour of his precious eye 5 The meagre cloddy earth to glittering gold. The yearly course that brings this day about Shall never see it but a holy day. |
-| [[Constance|CONSTANCE]] | (rising) A wicked day, and not a holy day! What hath this day deserved? What hath it done, That it in golden letters should be set Among the high tides in the calendar? Nay, rather turn this day out of the week, This day of shame, oppression, perjury. Or if it must stand still, let wives with [[Child|child]] 15 Pray that their burdens may not fall this day, Lest that their hopes prodigiously be crossed; But on this day let seamen [[Fear|fear]] no wreck; No bargains break that are not this day made; This day all things begun come to ill end, 20 Yea, [[Faith|faith]] itself to hollow falsehood change. |
-| [[King|KING]] PHILIP | By heaven, lady, you shall have no cause To curse the fair proceedings of this day. Have I not pawned to you my majesty? |
-| [[Constance|CONSTANCE]] | You have beguiled me with a counterfeit 25 Resembling majesty, which being touched and tried Proves valueless. You are forsworn, forsworn. You came in arms to spill mine enemies’ [[Blood|blood]], But now in arms you strengthen it with yours. The grappling vigour and rough frown of war 30 Is cold in amity and painted peace, And our oppression hath made up this league. Arm, arm, you heavens, against these perjured Kings! A widow cries, be husband to me, God! Let not the hours of this ungodly day 35 Wear out the day in peace, but ere sun set Set armed discord ’twixt these perjured Kings. Hear me, O hear me! |
-| AUSTRIA | Lady [[Constance]], peace. |
-| [[Constance|CONSTANCE]] | War, war, no peace! Peace is to me a war. O Limoges, O Austria, thou dost shame 40 That bloody spoil. Thou slave, thou wretch, thou coward! Thou little valiant, great in villainy; Thou ever strong upon the stronger side; Thou Fortune’s champion, that dost never fight But when her humorous ladyship is by 45 To teach thee safety. Thou art perjured too, And sooth‘st up [[Greatness|greatness]]. What a [[Fool|fool]] art thou, A ramping [[Fool|fool]], to brag and stamp, and swear Upon my party! Thou cold-blooded slave, Hast thou not spoke like thunder on my side, 50 Been sworn my soldier, bidding me depend Upon thy [[Stars|stars]], thy fortune, and thy strength? And dost thou now fall over to my foes? Thou wear a [[Lion|lion]]’s hide! Doff it, for shame, And hang a calf’s-skin on those recreant limbs. 55 |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--06_exchange_austria" data-title="King John — Act II, Scene 2 — exchange (AUSTRIA) [6]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| AUSTRIA | O, that a man should speak those words to me! |
-| BASTARD | And hang a calf’s-skin on those recreant limbs. |
-| AUSTRIA | Thou dar’st not say so, [[Villain|villain]], for thy life. |
-| BASTARD | And hang a calf’s-skin on those recreant limbs. |
-| [[King John|KING JOHN]] | (to the Bastard) We like not this. Thou dost forget thyself. 60 Enter Cardinal Pandolf |
-| [[King|KING]] PHILIP | Here comes the holy legate of the Pope. |
-| PANDOLF | Hail, you anointed deputies of God.— To thee, [[King John]], my holy errand is. I Pandolf, of fair Milan Cardinal, And from Pope [[Innocent]] the legate here, 65 Do in his name religiously demand Why thou against the Church, our Holy Mother, So wilfully dost spurn, and force perforce Keep Stephen Langton, chosen Archbishop Of Canterbury, from that holy see. 70 This, in our foresaid Holy Father’s name, Pope [[Innocent]], I do demand of thee. |
-| [[King John|KING JOHN]] | What earthy name to interrogatories Can task the free breath of a sacred [[King|king]]? Thou canst not, Cardinal, devise a name 75 So slight, unworthy, and ridiculous To charge me to an answer, as the Pope. Tell him this tale, and from the mouth of England Add thus much more: that no Italian priest Shall tithe or toll in our dominions; 80 But as we, under God, are supreme head, So, under him, that great supremacy Where we do reign we will [[Alone|alone]] uphold Without th’assistance of a mortal hand. So tell the Pope, all reverence set apart To him and his usurped authority. |
-| [[King|KING]] PHILIP | Brother of England, you blaspheme in this. |
-| [[King John|KING JOHN]] | Though you and all the kings of Christendom Are led so grossly by this meddling priest, Dreading the curse that money may buy out, 90 And by the merit of vile gold, dross, [[Dust|dust]], Purchase corrupted pardon of a man, Who in that sale sells pardon from himself; Though you and all the rest so grossly led This juggling witchcraft with revenue cherish; 95 Yet I [[Alone|alone]], [[Alone|alone]] do me oppose Against the Pope, and count his friends my foes. |
-| PANDOLF | Then by the lawful power that I have Thou shalt stand cursed and excommunicate; And blessed shall he be that doth revolt 100 From his allegiance to an heretic; And meritorious shall that hand be called, Canonized and worshipped as a saint, That takes away by any secret course Thy hateful life. |
-| [[Constance|CONSTANCE]] | O lawful let it be 105 That I have room with Rome to curse awhile. Good Father Cardinal, cry thou ’Amen’ To my keen curses, for without my wrong There is no tongue hath power to curse him right. |
-| PANDOLF | There’s law and warrant, lady, for my curse. 110 |
-| [[Constance|CONSTANCE]] | And for mine too. When law can do no right, Let it be lawful that law bar no wrong. Law cannot give my [[Child|child]] his kingdom here, For he that holds his kingdom holds the law. Therefore, since law itself is perfect wrong, How can the law forbid my tongue to curse? |
-| PANDOLF | Philip of France, on peril of a curse, Let go the hand of that arch-heretic, And raise the power of France upon his head, Unless he do submit himself to Rome. 120 |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--07_exchange_queen_eleanor" data-title="King John — Act II, Scene 2 — exchange (QUEEN ELEANOR) [7]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen|QUEEN]] [[Eleanor|ELEANOR]] | Look’st thou pale, France? Do not let go thy hand. |
-| [[Constance|CONSTANCE]] | to [[King John]] Look to it, devil, lest that France repent, And by disjoining hands hell lose a [[Soul|soul]]. |
-| AUSTRIA | [[King]] Philip, listen to the Cardinal. |
-| BASTARD | And hang a calf’s-skin on his recreant limbs. 125 |
-| AUSTRIA | [[Well]], ruffian, I must pocket up these wrongs, Because— |
-| BASTARD | Your breeches best may carry them. |
-| [[King John|KING JOHN]] | Philip, what sayst thou to the Cardinal? |
-| [[Constance|CONSTANCE]] | What should he say, but as the Cardinal? |
-| LOUIS THE [[Dauphin|DAUPHIN]] | Bethink you, Father, for the difference 130 Is purchase of a heavy curse from Rome, Or the light loss of England for a friend. Forgo the easier. |
-| BLANCHE | That’s the curse of Rome. |
-| [[Constance|CONSTANCE]] | O Louis, stand fast; the devil tempts thee here In likeness of a new untrimmèd bride. 135 |
-| BLANCHE | The Lady [[Constance]] speaks not from her [[Faith|faith]], But from her need. |
-| [[Constance|CONSTANCE]] | to [[King]] Philip O if thou grant my need, Which only lives but by the [[Death|death]] of [[Faith|faith]], That need must needs infer this principle: That [[Faith|faith]] would live again by [[Death|death]] of need. 140 O, then tread down my need, and [[Faith|faith]] mounts up; Keep my need up, and [[Faith|faith]] is trodden down. |
-| [[King John|KING JOHN]] | The [[King]] is moved, and answers not to this. |
-| [[Constance|CONSTANCE]] | (to [[King]] Philip) O, be removed from him, and answer [[Well|well]]. |
-| AUSTRIA | Do so, [[King]] Philip, hang no more in [[Doubt|doubt]]. 145 |
-| BASTARD | Hang nothing but a calf’s-skin, most sweet lout. |
-| [[King|KING]] PHILIP | I am perplexed, and know not what to say. |
-| PANDOLF | What canst thou say but will perplex thee more, If thou stand excommunicate and cursed? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--08_monologue_king_philip" data-title="King John — Act II, Scene 2 — monologue (KING PHILIP) [8]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] PHILIP | Good Reverend Father, make my person yours, 150 And tell me how you would bestow yourself. This royal hand and mine are newly knit, And the conjunction of our inward souls Married in league, coupled and linked together With all religious strength of sacred vows; 155 The latest breath that gave the sound of words Was deep-sworn [[Faith|faith]], peace, amity, true [[Love|love]], Between our kingdoms and our royal selves; And even before this truce, but new before, No longer than we [[Well|well]] could wash our hands 160 To clap this royal bargain up of peace, God knows, they were besmeared and over-stained With slaughter’s pencil, where [[Revenge]] did paint The fearful difference of incensed kings; And shall these hands, so lately purged of [[Blood|blood]], 165 So newly joined in [[Love|love]], so strong in both, Unyoke this seizure and this kind regreet, Play fast and loose with [[Faith|faith]], so jest with heaven, Make such unconstant children of ourselves, As now again to snatch our palm from palm, 170 Unswear [[Faith|faith]] sworn, and on the [[Marriage|marriage]]-bed Of smiling peace to march a bloody host, And make a riot on the gentle brow Of true sincerity? O holy sir, My Reverend Father, let it not be so. 175 Out of your grace, devise, ordain, impose Some gentle order, and then we shall be blessed To do your pleasure and continue friends. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--09_exchange_pandolf" data-title="King John — Act II, Scene 2 — exchange (PANDOLF) [9]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PANDOLF | All form is formless, order orderless, Save what is opposite to England’s [[Love|love]]. Therefore to arms, be champion of our Church, Or let the Church, our mother, breathe her curse, A mother’s curse, on her revolting son. France, thou mayst hold a serpent by the tongue, A crazed [[Lion|lion]] by the mortal paw, 185 A fasting tiger safer by the tooth, Than keep in peace that hand which thou dost hold. |
-| [[King|KING]] PHILIP | I may disjoin my hand, but not my [[Faith|faith]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--10_monologue_pandolf" data-title="King John — Act II, Scene 2 — monologue (PANDOLF) [10]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PANDOLF | So mak‘st thou [[Faith|faith]] an enemy to [[Faith|faith]], And like a civil war, sett’st oath to oath, 190 Thy tongue against thy tongue. O, let thy vow, First made to heaven, first be to heaven performed; That is, to be the champion of our Church. What since thou swor‘st is sworn against thyself, And may not be performèd by thyself; 195 For that which thou hast sworn to do amiss Is not amiss when it is truly done; And being not done where doing tends to ill, The [[Truth|truth]] is then most done not doing it. The better act of purposes mistook 200 Is to mistake again; though indirect, Yet indirection thereby grows direct, And falsehood falsehood cures, as [[Fire|fire]] cools [[Fire|fire]] Within the scorchèd veins of one new burned. It is religion that doth make vows kept; But thou hast sworn against religion; By what thou swear’st, against the thing thou swear‘st; And mak’st an oath the surety for thy troth: Against an oath, the [[Truth|truth]]. Thou art unsure To swear: swear’st only not to be forsworn—210 Else what a mockery should it be to swear!— But thou dost swear only to be forsworn, And most forsworn to keep what thou dost swear; Therefore thy later vows against thy first Is in thyself rebellion to thyself, 215 And better conquest never canst thou make Than arm thy constant and thy nobler parts Against these giddy loose suggestions; Upon which better part our prayers come in If thou vouchsafe them. But if not, then know 220 The peril of our curses light on thee So heavy as thou shalt not shake them off, But in [[Despair|despair]] die under their black weight. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--11_exchange_austria" data-title="King John — Act II, Scene 2 — exchange (AUSTRIA) [11]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| AUSTRIA | Rebellion, flat rebellion! |
-| BASTARD | Wilt not be? Will not a calf’s-skin stop that mouth of thine? 225 |
-| LOUIS THE [[Dauphin|DAUPHIN]] | Father, to arms! |
-| BLANCHE | Upon thy wedding day? Against the [[Blood|blood]] that thou hast married ? What, shall our feast be kept with slaughtered men? Shall braying trumpets and loud churlish drums, Clamours of hell, be measures to our pomp? 230 She kneels O husband, hear me ! Ay, alack, how new Is ‘husband’ in my mouth! Even for that name Which till this [[Time|time]] my tongue did ne’er pronounce, Upon my knee I beg, go not to arms Against mine uncle. |
-| [[Constance|CONSTANCE]] | (kneeling) O, upon my knee 235 Made hard with kneeling, I do pray to thee, Thou virtuous [[Dauphin]], alter not the doom Forethought by heaven. |
-| BLANCHE | (to Louis the [[Dauphin]]) Now shall I see thy [[Love|love]]: what motive may Be stronger with thee than the name of wife? 240 |
-| [[Constance|CONSTANCE]] | That which upholdeth him that thee upholds: His [[Honour|honour]].—O thine [[Honour|honour]], Louis, thine [[Honour|honour]]! |
-| LOUIS THE [[Dauphin|DAUPHIN]] | (to [[King]] Philip) I muse your majesty doth seem so cold When such profound respects do pull you on. |
-| PANDOLF | I will denounce a curse upon his head. 245 |
-| [[King|KING]] PHILIP | Thou shalt not need.—England, I will fall from thee. He takes his hand from [[King John]]’s hand. Blanche and [[Constance]] rise |
-| [[Constance|CONSTANCE]] | O, fair return of banished majesty! |
-| [[Queen|QUEEN]] [[Eleanor|ELEANOR]] | O, foul revolt of French inconstancy I |
-| [[King John|KING JOHN]] | France, thou shalt rue this hour within this hour. |
-| BASTARD | Old [[Time]] the [[Clock|clock]]-setter, that bald sexton [[Time]], 250 Is it as he will?—[[Well]] then, France shall rue. |
-| BLANCHE | The sun’s o’ercast with [[Blood|blood]]; fair day, adieu! Which is the side that I must go withal? I am with both, each army hath a hand, And in their rage, I having hold of both, 255 They whirl asunder and dismember me. Husband, I cannot pray that thou mayst win.— Uncle, I needs must pray that thou mayst lose.— Father, I may not wish the fortune thine.— Grandam, I will not wish thy wishes thrive. Whoever wins, on that side shall I lose, Assured loss before the match be played. |
-| LOUIS THE [[Dauphin|DAUPHIN]] | Lady, with me, with me thy fortune lies. |
-| BLANCHE | There where my fortune lives, there my life dies. |
-| [[King John|KING JOHN]] | (to the Bastard) Cousin, go draw our puissance together.— Exit the Bastard France, I am burned up with inflaming wrath, A rage whose heat hath this condition: That nothing can allay, nothing but [[Blood|blood]], The [[Blood|blood]], and dearest-valued [[Blood|blood]], of France. |
-| [[King|KING]] PHILIP | Thy rage shall burn thee up, and thou shalt turn 270 To ashes ere our [[Blood|blood]] shall quench that [[Fire|fire]]. Look to thyself, thou art in jeopardy. |
-| [[King John|KING JOHN]] | No more than he that threats.—To arms let’s hie! Exeunt severally |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--01_exchange_dialogue" data-title="King John — Act III, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[King]] Philip, Louis the [[Dauphin]], Cardinal Pandolf, and attendants |
-| [[King|KING]] PHILIP | So, by a roaring tempest on the flood, A whole armada of convicted sail Is scattered and disjoined from fellowship. |
-| PANDOLF | [[Courage]] and comfort; all shall yet go [[Well|well]]. |
-| [[King|KING]] PHILIP | What can go [[Well|well]] when we have run so ill? Are we not beaten? Is not Angers lost, [[Arthur]] ta‘en prisoner, divers dear friends slain, And bloody England into England gone, O’erbearing interruption, spite of France? |
-| LOUIS THE [[Dauphin|DAUPHIN]] | What he hath won, that hath he fortified. 10 So hot a [[Speed|speed]], with such advice disposed, Such temperate order in so fierce a cause, Doth want example. Who hath read or heard Of any kindred action like to this? |
-| [[King|KING]] PHILIP | [[Well]] could I bear that England had this praise, 15 So we could find some pattern of our shame. Enter [[Constance]], distracted, with her hair about her ears Look who comes here! A [[Grave|grave]] unto a [[Soul|soul]], Holding th’eternal spirit against her will In the vile [[Prison|prison]] of afflicted breath.— I prithee, lady, go away with me. 20 |
-| [[Constance|CONSTANCE]] | Lo, now, now see the issue of your peace! |
-| [[King|KING]] PHILIP | Patience, good lady; comfort, gentle [[Constance]]. |
-| [[Constance|CONSTANCE]] | No, I defy all counsel, all redress, But that which ends all counsel, true redress: [[Death]], [[Death]], O amiable, lovely [[Death]]! 25 Thou odoriferous stench, sound rottenness! Arise forth from the couch of lasting [[Night|night]], Thou hate and terror to prosperity, And I will kiss thy detestable bones, And put my eyeballs in thy vaulty brows, 30 And ring these fingers with thy household worms, And stop this gap of breath with fulsome [[Dust|dust]], And be a carrion [[Monster|monster]] like thyself. Come grin on me, and I will think thou smil’st, And buss thee as thy wife. Misery’s [[Love|love]], 35 O, come to me! |
-| [[King|KING]] PHILIP | O fair affliction, peace I |
-| [[Constance|CONSTANCE]] | No, no, I will not, having breath to cry. O, that my tongue were in the thunder’s mouth! Then with a passion would I shake the world, And rouse from [[Sleep|sleep]] that fell anatomy, Which cannot hear a lady’s feeble voice, Which scorns a modern invocation. |
-| PANDOLF | Lady, you utter [[Madness|madness]], and not sorrow. |
-| [[Constance|CONSTANCE]] | Thou art not holy to belie me so. I am not mad: this hair I tear is mine; My name is [[Constance]]; I was Geoffrey’s wife; Young [[Arthur]] is my son; and he is lost. I am not mad; I would to God I were, For then ’tis like I should forget myself. O,if I could, what grief should I forget ! 50 Preach some [[philosophy]] to make me mad, And thou shalt be canonized, Cardinal. For, being not mad, but sensible of grief, My reasonable part produces reason How I may be delivered of these woes, 55 And teaches me to kill or hang myself. If I were mad I should forget my son, Or madly think a babe of clouts were he. I am not mad; too [[Well|well]], too [[Well|well]] I feel The different plague of each calamity. 60 |
-| [[King|KING]] PHILIP | Bind up those tresses. O,what [[Love|love]] I note In the fair multitude of those her hairs! Where but by chance a silver drop hath fallen, Even to that drop ten thousand wiry friends Do glue themselves in sociable grief, 65 Like true, inseparable, faithful loves, Sticking together in calamity. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--02_exchange_constance" data-title="King John — Act III, Scene 4 — exchange (CONSTANCE) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Constance|CONSTANCE]] | To England, if you will. |
-| [[King|KING]] PHILIP | Bind up your hairs. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--03_monologue_constance" data-title="King John — Act III, Scene 4 — monologue (CONSTANCE) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Constance|CONSTANCE]] | Yes, that I will. And wherefore will I do it? I tore them from their bonds, and cried aloud, ‘O that these hands could so redeem my son, As they have given these hairs their liberty!’ But now I envy at their liberty, And will again commit them to their bonds, Because my poor [[Child|child]] is a prisoner. 75 She binds up her hair And Father Cardinal, I have heard you say That we shall see and know our friends in heaven. If that be true, I shall see my boy again; For since the birth of [[Cain]], the first male [[Child|child]], To him that did but yesterday suspire, 80 There was not such a gracious creature born. But now will canker-sorrow eat my bud, And chase the native [[Beauty|beauty]] from his cheek; And he will look as hollow as a [[Ghost|ghost]], As dim and meagre as an ague’s fit, And so he’ll die; and rising so again, When I shall meet him in the [[Court|court]] of heaven, I shall not know him; therefore never, never Must I behold my pretty [[Arthur]] more. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--04_exchange_pandolf" data-title="King John — Act III, Scene 4 — exchange (PANDOLF) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PANDOLF | You hold too heinous a respect of grief. |
-| [[Constance|CONSTANCE]] | He talks to me that never had a son. |
-| [[King|KING]] PHILIP | You are as fond of grief as of your [[Child|child]]. |
-| [[Constance|CONSTANCE]] | Grief fills the room up of my absent [[Child|child]], Lies in his bed, walks up and down with me, Puts on his pretty looks, repeats his words, Remembers me of all his gracious parts, Stuffs out his vacant garments with his form; Then have I reason to be fond of grief. Fare you [[Well|well]]. Had you such a loss as I, I could give better comfort than you do. 100 She unbinds her hair I will not keep this form upon my head When there is such disorder in my wit. O Lord, my boy, my [[Arthur]], my fair son, My life, my joy, my food, my all the world, 104 My widow-comfort, and my sorrow’s cure! Exit |
-| [[King|KING]] PHILIP | I [[Fear|fear]] some outrage, and I’ll follow her. Exit attended |
-| LOUIS THE [[Dauphin|DAUPHIN]] | There’s nothing in this world can make me joy. Life is as tedious as a twice-told tale, Vexing the dull ear of a drowsy man; And bitter shame hath spoiled the sweet world’s taste, That it yields naught but shame and bitterness. 111 |
-| PANDOLF | Before the curing of a strong disease, Even in the instant of repair and health, The fit is strongest. Evils that take leave, On their departure most of all show evil. 115 What have you lost by losing of this day? |
-| LOUIS THE [[Dauphin|DAUPHIN]] | All days of glory, joy, and happiness. |
-| PANDOLF | If you had won it, certainly you had. No, no; when Fortune means to men most good, She looks upon them with a threat‘ning eye. ’Tis strange to think how much [[King John]] hath lost In this which he accounts so clearly won. Are not you grieved that [[Arthur]] is his prisoner? |
-| LOUIS THE [[Dauphin|DAUPHIN]] | As heartily as he is glad he hath him. |
-| PANDOLF | Your mind is all as youthful as your [[Blood|blood]]. 125 Now hear me speak with a prophetic spirit, For even the breath of what I mean to speak Shall blow each [[Dust|dust]], each straw, each little rub, Out of the path which shall directly lead Thy foot to England’s throne. And therefore mark. John hath seized [[Arthur]], and it cannot be That whiles warm life plays in that infant’s veins The misplaced John should entertain an hour, One minute, nay, one quiet breath of rest. A sceptre snatched with an unruly hand Must be as boisterously maintained as gained; And he that stands upon a slipp’ry place Makes nice of no vile hold to stay him up. That John may stand, then [[Arthur]] needs must fall; So be it, for it cannot be but so. |
-| LOUIS THE [[Dauphin|DAUPHIN]] | But what shall I gain by young [[Arthur]]’s fall? |
-| PANDOLF | You, in the right of Lady Blanche your wife, May then make all the claim that [[Arthur]] did. |
-| LOUIS THE [[Dauphin|DAUPHIN]] | And lose it, life and all, as [[Arthur]] did. |
-| PANDOLF | How green you are, and fresh in this old world 145 John lays you plots; the times conspire with you; For he that steeps his safety in true [[Blood|blood]] Shall find but bloody safety and untrue. This act, so vilely born, shall cool the hearts Of all his people, and freeze up their zeal, That none so small advantage shall step forth To check his reign but they will cherish it; No natural exhalation in the sky, No scope of [[Nature|nature]], no distempered day, No common [[Wind|wind]], no customèd event, 155 But they will pluck away his natural cause, And call them meteors, prodigies, and signs, Abortives, presages, and tongues of heaven Plainly denouncing vengeance upon John. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--05_exchange_louis_the_dauphin" data-title="King John — Act III, Scene 4 — exchange (LOUIS THE DAUPHIN) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LOUIS THE [[Dauphin|DAUPHIN]] | Maybe he will not touch young [[Arthur]]’s life, But hold himself safe in his prisonment. |
-| PANDOLF | O sir, when he shall hear of your approach, If that young [[Arthur]] be not gone already, Even at that news he dies; and then the hearts Of all his people shall revolt from him, And kiss the lips of unacquainted change, And pick strong matter of revolt and wrath Out of the bloody fingers’ ends of John. Methinks I see this hurly all on foot, And O, what better matter breeds for you 170 Than I have named! The Bastard Falconbridge Is now in England, ransacking the Church, Offending [[Charity|charity]]. If but a dozen French Were there in arms, they would be as a call To train ten thousand English to their side, 175 Or as a little [[Snow|snow]] tumbled about Anon becomes a mountain. O noble [[Dauphin]], Go with me to the [[King]]. ’Tis wonderful What may be wrought out of their discontent Now that their souls are top-full of offence. 180 For England, go! I will whet on the [[King]]. |
-| LOUIS THE [[Dauphin|DAUPHIN]] | Strong reasons make strange actions. Let us go. If you say ay, the [[King]] will not say no. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="King John — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Hubert]], and Executioners with a rope and irons |
-| [[Hubert|HUBERT]] | Heat me these irons hot, and look thou stand Within the arras. When I strike my foot Upon the bosom of the ground, rush forth And bind the boy which you shall find with me Fast to the chair. Be heedful. Hence, and watch! 5 |
-| EXECUTIONER | I [[Hope|hope]] your warrant will bear out the deed. |
-| [[Hubert|HUBERT]] | Uncleanly scruples: [[Fear|fear]] not you. Look to’t! The Executioners withdraw behind the arras Young lad, come forth, I have to say with you. Enter [[Arthur]] Duke of Brittaine |
-| [[Arthur|ARTHUR]] | Good morrow, [[Hubert]]. Good morrow, little Prince. |
-| [[Arthur|ARTHUR]] | As little prince, having so great a title 10 To be more prince, as may be. You are sad. |
-| [[Hubert|HUBERT]] | Indeed I have been merrier. ARTHURMercy on me! Methinks nobody should be sad but I. Yet I remember, when I was in France, Young gentlemen would be as sad as [[Night|night]] 15 Only for wantonness. By my christendom, So I were out of [[Prison|prison]] and kept sheep, I should be as merry as the day is long; And so I would be here, but that I [[Doubt|doubt]] My uncle practises more harm to me. 20 He is afraid of me, and I of him. Is it my fault that I was Geoffrey’s son? No, indeed is’t not, and I would to God I were your son, so you would [[Love|love]] me, [[Hubert]]. |
-| [[Hubert|HUBERT]] | (aside) If I talk to him, with his [[Innocent|innocent]] prate 25 He will awake my [[Mercy|mercy]], which lies dead; Therefore I will be sudden, and dispatch. |
-| [[Arthur|ARTHUR]] | Are you sick, [[Hubert]]? You look pale today. In sooth, I would you were a little sick, That I might sit all [[Night|night]] and watch with you. 30 I warrant I [[Love|love]] you more than you do me. [[Hubert|HUBERT]](aside) His words do take possession of my bosom. He shows [[Arthur]] a paper Read here, young [[Arthur]]. (Aside) How now: foolish rheum, Turning dispiteous torture out of door? I must be brief, lest resolution drop Out at mine eyes in tender womanish [[Tears|tears]]. (To [[Arthur]]) Can you not read it? Is it not fair writ? |
-| [[Arthur|ARTHUR]] | Too fairly, [[Hubert]], for so foul effect. Must you with hot irons burn out both mine eyes? |
-| [[Hubert|HUBERT]] | Young boy, I must. |
-| [[Arthur|ARTHUR]] | And will you? HUBERTAnd I will. 40 |
-| [[Arthur|ARTHUR]] | Have you the heart? When your head did but ache I knit my handkerchief about your brows, The best I had—a princess wrought it me, And I did never ask it you again— And with my hand at midnight held your head, And like the watchful minutes to the hour Still and anon cheered up the heavy [[Time|time]], Saying ‘What lack you?’ and ‘Where lies your grief?’ Or ‘What good [[Love|love]] may I perform for you?’ Many a poor man’s son would have lain still And ne’er have spoke a loving word to you, But you at your sick service had a prince. Nay, you may think my [[Love|love]] was crafty [[Love|love]], And call it cunning. Do, an if you will. If heaven be pleased that you must use me ill, 55 Why then you must. Will you put out mine eyes, These eyes that never did, nor never shall, So much as frown on you? |
-| HUBERTI | have sworn to do it, And with hot irons must I burn them out. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--02_exchange_arthur" data-title="King John — Act IV, Scene 1 — exchange (ARTHUR) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Arthur|ARTHUR]] | Ah, none but in this iron age would do it. 60 The iron of itself, though heat red hot, Approaching near these eyes would drink my [[Tears|tears]], And quench his fiery indignation Even in the matter of mine [[innocence]]; Nay, after that, consume away in rust, But for containing [[Fire|fire]] to harm mine eye. Are you more stubborn-hard than hammered iron? An if an angel should have come to me And told me [[Hubert]] should put out mine eyes, I would not have believed him; no tongue but [[Hubert]]’s. [[Hubert]] stamps his foot |
-| [[Hubert|HUBERT]] | Come forth! The Executioners come forth Do as I bid you do. |
-| [[Arthur|ARTHUR]] | O, save me, [[Hubert]], save me! My eyes are out Even with the fierce looks of these bloody men. |
-| [[Hubert|HUBERT]] | (to the Executioners) Give me the iron, I say, and bind him here. He takes the iron |
-| [[Arthur|ARTHUR]] | Alas, what need you be so boisterous-rough? I will not struggle; I will stand stone-still. For God’s sake, [[Hubert]], let me not be bound. Nay, hear me, [[Hubert]] Drive these men away, And I will sit as quiet as a [[Lamb|lamb]]; I will not stir, nor wince, nor speak a word, 80 Nor look upon the iron angerly. Thrust but these men away, and I’ll forgive you, Whatever torment you do put me to. |
-| [[Hubert|HUBERT]] | (to the Executioners) Go stand within. Let me [[Alone|alone]] with him. |
-| EXECUTIONER | I am best pleased to be from such a deed. 85 Exeunt Executioners |
-| [[Arthur|ARTHUR]] | Alas, I then have chid away my friend! He hath a stern look, but a gentle heart. Let him come back, that his compassion may Give life to yours. |
-| [[Hubert|HUBERT]] | Come, boy, prepare yourself. |
-| [[Arthur|ARTHUR]] | Is there no remedy? |
-| [[Hubert|HUBERT]] | None but to lose your eyes. 90 |
-| [[Arthur|ARTHUR]] | O God, that there were but a mote in yours, A grain, a [[Dust|dust]], a gnat, a wandering hair, Any annoyance in that precious sense, Then, feeling what small things are boisterous there, Your vile intent must needs seem horrible. 95 |
-| [[Hubert|HUBERT]] | Is this your promise? Go to, hold your tongue! |
-| [[Arthur|ARTHUR]] | [[Hubert]], the utterance of a brace of tongues Must needs want pleading for a pair of eyes. Let me not hold my tongue, let me not, [[Hubert]]; Or, [[Hubert]], if you will, cut out my tongue, 100 So I may keep mine eyes. O, spare mine eyes, Though to no use but still to look on you. Lo, by my troth, the instrument is cold And would not harm me. |
-| [[Hubert|HUBERT]] | I can heat it, boy. |
-| [[Arthur|ARTHUR]] | No, in good sooth: the [[Fire|fire]] is dead with grief, 105 Being create for comfort, to be used In undeserved extremes. See else yourself. There is no malice in this burning coal; The breath of heaven hath blown his spirit out, And strewed repentant ashes on his head. II0 |
-| [[Hubert|HUBERT]] | But with my breath I can revive it, boy. |
-| [[Arthur|ARTHUR]] | An if you do, you will but make it blush And glow with shame of your proceedings, [[Hubert]]. Nay, it perchance will sparkle in your eyes, And like a dog that is compelled to fight, Snatch at his master that doth tarre him on. All things that you should use to do me wrong Deny their office; only you do lack That [[Mercy|mercy]] which fierce [[Fire|fire]] and iron extends, Creatures of note for [[Mercy|mercy]]-lacking uses. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--03_exchange_hubert" data-title="King John — Act IV, Scene 1 — exchange (HUBERT) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Hubert|HUBERT]] | [[Well]], see to live. I will not touch thine eye For all the treasure that thine uncle owes. Yet am I sworn, and I did purpose, boy, With this same very iron to burn them out. |
-| [[Arthur|ARTHUR]] | O, now you look like [[Hubert]]. All this while You were disguised. |
-| [[Hubert|HUBERT]] | Peace, no more. Adieu. Your uncle must not know but you are dead. I’ll fill these dogged spies with false reports; And, pretty [[Child|child]], [[Sleep|sleep]] doubtless and secure That [[Hubert]], for the wealth of all the world, Will not offend thee. |
-| [[Arthur|ARTHUR]] | O God! I thank you, [[Hubert]]. |
-| [[Hubert|HUBERT]] | [[Silence]], no more. Go closely in with me. Much danger do I undergo for thee. Exeunt |
-| *(didascalia)* | 4.2 flourish. Enter [[King John]], the Earls of Pembroke and Salisbury, and other lords. [[King John]] ascends the throne |
-| [[King John|KING JOHN]] | Here once again we sit, once again crowned, And looked upon, I [[Hope|hope]], with cheerful eyes. |
-| PEMBROKE | This ‘once again’, but that your highness pleased, Was once superfluous. You were crowned before, And that high royalty was ne‘er plucked off, The faiths of men ne’er stained with revolt; Fresh expectation troubled not the land With any longed-for change or better state. |
-| SALISBURY | Therefore to be possessed with [[Double|double]] pomp, To guard a title that was rich before, 10 To gild refined gold, to paint the lily, To throw a perfume on the violet, To smooth the ice, or add another hue Unto the rainbow, or with taper-light To seek the beauteous eye of heaven to garnish, Is wasteful and ridiculous excess. |
-| PEMBROKE | But that your royal pleasure must be done, This act is as an ancient tale new-told, And in the last repeating troublesome, Being urged at a [[Time|time]] unseasonable. |
-| SALISBURY | In this the antique and [[Well|well]]-noted face Of plain old form is much disfigured, And like a shifted [[Wind|wind]] unto a sail, It makes the course of thoughts to fetch about, Startles and frights consideration, Makes sound opinion sick, and [[Truth|truth]] suspected For putting on so new a fashioned robe. |
-| PEMBROKE | When workmen strive to do better than [[Well|well]], They do confound their skill in covetousness; And oftentimes excusing of a fault Doth make the fault the worser by th’excuse; As patches set upon a little breach Discredit more in hiding of the fault Than did the fault before it was so patched. |
-| SALISBURY | To this effect: before you were new-crowned We breathed our counsel, but it pleased your highness To overbear it; and we are all [[Well|well]] pleased, Since all and every part of what we would Doth make a stand at what your highness will. |
-| [[King John|KING JOHN]] | Some reasons of this [[Double|double]] coronation I have possessed you with, and think them strong. And more, more strong, when lesser is my [[Fear|fear]] I shall endue you with. Meantime but ask What you would have reformed that is not [[Well|well]], And [[Well|well]] shall you perceive how willingly I will both hear and grant you your requests. |
-| PEMBROKE | Then I, as one that am the tongue of these To sound the purposes of all their hearts, Both for myself and them, but chief of all Your safety, for the which myself and them Bend their best studies, heartily request Th’enfranchisement of [[Arthur]], whose restraint Doth move the murmuring lips of discontent To break into this dangerous argument: If what in rest you have, in right you hold, 55 Why then your fears—which, as they say, attend The steps of wrong—should move you to mew up Your tender kinsman, and to choke his days With barbarous ignorance, and deny his youth The rich advantage of good exercise? That the [[Time|time]]’s enemies may not have this To grace occasions, let it be our suit That you have bid us ask, his liberty; Which for our goods we do no further ask Than whereupon our weal, on you depending, 65 Counts it your weal he have his liberty. Enter [[Hubert]] |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--04_exchange_king_john" data-title="King John — Act IV, Scene 1 — exchange (KING JOHN) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King John|KING JOHN]] | Let it be so. I do commit his youth To your direction.—[[Hubert]], what news with you? He takes [[Hubert]] aside |
-| PEMBROKE | This is the man should do the bloody deed: He showed his warrant to a friend of mine. 70 The image of a wicked heinous fault Lives in his eye; that close aspect of his Does show the mood of a much troubled breast; And I do fearfully believe ’tis done What we so feared he had a charge to do. 75 |
-| SALISBURY | The colour of the [[King]] doth come and go Between his purpose and his [[Conscience|conscience]], Like heralds ’twixt two dreadful battles set. His passion is so ripe it needs must break. |
-| PEMBROKE | And when it breaks, I [[Fear|fear]] will issue thence 80 The foul corruption of a sweet [[Child|child]]’s [[Death|death]]. |
-| [[King John|KING JOHN]] | (coming forward) We cannot hold [[Mortality|mortality]]’s strong hand. Good lords, although my will to give is living, The suit which you demand is gone and dead. He tells us [[Arthur]] is deceased tonight. |
-| SALISBURY | Indeed we feared his sickness was past cure. |
-| PEMBROKE | Indeed we heard how near his [[Death|death]] he was, Before the [[Child|child]] himself felt he was sick. This must be answered, either here or hence. |
-| [[King John|KING JOHN]] | Why do you bend such solemn brows on me? 90 Think you I bear the shears of destiny? Have I commandment on the pulse of life? |
-| SALISBURY | It is apparent foul play, and ’tis shame That [[Greatness|greatness]] should so grossly offer it. So thrive it in your game; and so, farewell. |
-| PEMBROKE | Stay yet, Lord Salisbury; I’ll go with thee, And find th’inheritance of this poor [[Child|child]], His little kingdom of a forced [[Grave|grave]]. That [[Blood|blood]] which owed the breadth of all this isle Three foot of it doth hold. Bad world the while. 100 This must not be thus borne. This will break out To all our sorrows; and ere long, I [[Doubt|doubt]]. Exeunt Pembroke, Salisbury, and other lords |
-| [[King John|KING JOHN]] | They burn in indignation. I repent. There is no sure foundation set on [[Blood|blood]], No certain life achieved by others’ [[Death|death]]. 105 Enter a Messenger A fearful eye thou hast. Where is that [[Blood|blood]] That I have seen inhabit in those cheeks? So foul a sky clears not without a [[Storm|storm]]; Pour down thy weather: how goes all in France? |
-| MESSENGER | From France to England. Never such a power For any foreign preparation Was levied in the [[Body|body]] of a land. The copy of your [[Speed|speed]] is learned by them, For when you should be told they do prepare, The tidings comes that they are all arrived. |
-| [[King John|KING JOHN]] | O, where hath our intelligence been drunk? Where hath it slept? Where is my mother’s ear, That such an army could be drawn in France, And she not hear of it? |
-| MESSENGER | My liege, her ear Is stopped with [[Dust|dust]]. The first of April died Your noble mother. And as I hear, my lord, The Lady [[Constance]] in a frenzy died Three days before; but this from rumour’s tongue I idly heard; if true or false I know not. |
-| [[King John|KING JOHN]] | Withhold thy [[Speed|speed]], dreadful Occasion; O, make a league with me till I have pleased My discontented peers. What, Mother dead? How wildly then walks my estate in France!— Under whose conduct came those powers of France That thou for [[Truth|truth]] giv’st out are landed here? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--05_exchange_messenger" data-title="King John — Act IV, Scene 1 — exchange (MESSENGER) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MESSENGER | Under the [[Dauphin]]. Enter the Bastard and Peter of Pomfret |
-| [[King John|KING JOHN]] | Thou hast made me giddy With these ill tidings. (To the Bastard) Now, what says the world To your proceedings? Do not seek to stuff My head with more ill news, for it is full. |
-| BASTARD | But if you,be afeard to hear the worst, 135 Then let the worst, unheard, fall on your head. |
-| [[King John|KING JOHN]] | Bear with me, cousin, for I was amazed Under the tide; but now I breathe again Aloft the flood, and can give audience To any tongue, speak it of what it will. |
-| BASTARD | How I have sped among the clergymen The sums I have collected shall express. But as I travelled hither through the land, I find the people strangely fantasied, Possessed with rumours, full of idle [[Dreams|dreams]], Not knowing what they [[Fear|fear]], but full of [[Fear|fear]]. And here’s a [[Prophet|prophet]] that I brought with me From forth the streets of Pomfret, whom I found With many hundreds treading on his heels; To whom he sung, in rude, harsh-sounding rhymes, That ere the next Ascension Day at [[Noon|noon]] 151 Your highness should deliver up your [[Crown|crown]]. |
-| [[King John|KING JOHN]] | Thou idle dreamer, wherefore didst thou so? |
-| PETER OF POMFRET | Foreknowing that the [[Truth|truth]] will fall out so. |
-| [[King John|KING JOHN]] | [[Hubert]], away with him! Imprison him,155 And on that day, at [[Noon|noon]], whereon he says I shall yield up my [[Crown|crown]], let him be hanged. Deliver him to safety, and return, For I must use thee. Exeunt [[Hubert]] and Peter of Pomfret O my gentle cousin, Hear’st thou the news abroad, who are arrived? 160 |
-| BASTARD | The French, my lord: men’s mouths are full of it. Besides, I met Lord Bigot and Lord Salisbury With eyes as red as new-enkindled [[Fire|fire]], And others more, going to seek the [[Grave|grave]] Of [[Arthur]], whom they say is killed tonight On your suggestion. |
-| [[King John|KING JOHN]] | Gentle kinsman, go And thrust thyself into their companies. I have away to win their loves again. Bring them before me. |
-| BASTARD | I will seek them out. |
-| [[King John|KING JOHN]] | Nay, but make haste, the better foot before. O, let me have no subject enemies When adverse foreigners affright my towns With dreadful pomp of stout invasion! Be Mercury, set feathers to thy heels, And fly like thought from them to me again. 175 |
-| BASTARD | The spirit of the [[Time|time]] shall teach me [[Speed|speed]]. Exit |
-| [[King John|KING JOHN]] | Spoke like a sprightful noble gentleman!— Go after him, for he perhaps shall need Some messenger betwixt me and the peers, And be thou he. 180 |
-| MESSENGER | With all my heart, my liege. Exit |
-| [[King John|KING JOHN]] | My mother dead! Enter [[Hubert]] |
-| [[Hubert|HUBERT]] | My lord, they say five moons were seen tonight, Four fixed, and the fifth did whirl about The other four in wondrous motion. |
-| [[King John|KING JOHN]] | Five moons? |
-| [[Hubert|HUBERT]] | Old men and beldams in the streets Do prophesy upon it dangerously. Young [[Arthur]]’s [[Death|death]] is common in their mouths, And when they talk of him they shake their heads, And whisper one another in the ear; 190 And he that speaks doth grip the hearer’s wrist, Whilst he that hears makes fearful action, With wrinkled brows, with nods, with [[rolling]] eyes. I saw a [[smith]] stand with his hammer, thus, The whilst his iron did on the anvil cool, With open mouth swallowing a tailor’s news, Who, with his shears and measure in his hand, Standing on slippers which his nimble haste Had falsely thrust upon contrary feet, Told of a many thousand warlike French 200 That were embattailèd and ranked in [[Kent]]. Another lean unwashed artificer Cuts off his tale, and talks of [[Arthur]]’s [[Death|death]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--06_exchange_king_john" data-title="King John — Act IV, Scene 1 — exchange (KING JOHN) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King John|KING JOHN]] | Why seek’st thou to possess me with these fears? Why urgest thou so oft young [[Arthur]]’s [[Death|death]]? Thy hand hath murdered him. I had a mighty cause To wish him dead, but thou hadst none to kill him. |
-| [[Hubert|HUBERT]] | No had, my lord? Why, did you not provoke me? |
-| [[King John|KING JOHN]] | It is the curse of kings to be attended By slaves that take their humours for a warrant To break within the bloody [[house]] of life, And on the winking of authority To understand a law, to know the meaning Of dangerous majesty, when perchance it frowns More upon [[Humour|humour]] than advised respect. |
-| [[Hubert|HUBERT]] | Here is your hand and seal for what I did. He shows a paper |
-| [[King John|KING JOHN]] | O, when the last account ’twixt heaven and earth Is to be made, then shall this hand and seal Witness against us to damnation! How oft the sight of means to do ill deeds 220 Make deeds ill done! Hadst not thou been by, A fellow by the hand of [[Nature|nature]] marked, Quoted, and signed to do a deed of shame, This murder had not come into my mind. But taking note of thy abhorred aspect, Finding thee fit for bloody villainy, Apt, liable to be employed in danger, I faintly broke with thee of [[Arthur]]’s [[Death|death]]; And thou, to be endeared to a [[King|king]], Made it no [[Conscience|conscience]] to destroy a prince. |
-| [[Hubert|HUBERT]] | My lord— |
-| [[King John|KING JOHN]] | Hadst thou but shook thy head or made a pause When I spake darkly what I purposed, Or turned an eye of [[Doubt|doubt]] upon my face, As bid me tell my tale in express words, Deep shame had struck me dumb, made me break off, And those thy fears might have wrought fears in me. But thou didst understand me by my signs, And didst in signs again parley with sin; Yea, without stop, didst let thy heart consent, And consequently thy rude hand to act The deed which both our tongues held vile to name. Out of my sight, and never see me more! My nobles leave me, and my state is braved, Even at my gates, with ranks of foreign powers; Nay, in the [[Body|body]] of this fleshly land, This kingdom, this confine of [[Blood|blood]] and breath, Hostility and civil tumult reigns Between my [[Conscience|conscience]] and my cousin’s [[Death|death]]. |
-| [[Hubert|HUBERT]] | Arm you against your other enemies; I’ll make a peace between your [[Soul|soul]] and you. Young [[Arthur]] is alive. This hand of mine Is yet a maiden and an [[Innocent|innocent]] hand, Not painted with the crimson spots of [[Blood|blood]]. Within this bosom never entered yet The dreadful motion of a murderous thought; And you have slandered [[Nature|nature]] in my form, Which, howsoever rude exteriorly, Is yet the cover of a fairer mind Than to be butcher of an [[Innocent|innocent]] [[Child|child]]. 260 |
-| [[King John|KING JOHN]] | Doth [[Arthur]] live? O, haste thee to the peers; Throw this report on their incensed rage, And make them tame to their obedience. Forgive the comment that my passion made Upon thy feature, for my rage was blind, 265 And foul imaginary eyes of [[Blood|blood]] Presented thee more hideous than thou art. O,answer not, but to my closet bring The angry lords with all expedient haste. I conjure thee but slowly; run more fast. Exeunt severally |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--01_exchange_dialogue" data-title="King John — Act IV, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Arthur]] Duke of Brittaine on the walls, disguised as a [[Ship|ship]]-boy |
-| [[Arthur|ARTHUR]] | The wall is high, and yet will I leap down. Good ground, be pitiful, and hurt me not. There’s few or none do know me; if they did, This [[Ship|ship]]-boy’s semblance hath disguised me quite. I am afraid, and yet I’ll venture it. If I get down and do not break my limbs, I’ll find a thousand shifts to get away. As good to die and go, as die and stay. He leaps down O me! My uncle’s spirit is in these stones. Heaven take my [[Soul|soul]], and England keep my bones! I0 He dies Enter the Earls of Pembroke and Salisbury, and Lord Bigot |
-| SALISBURY | Lords, I will meet him at Saint Edmundsbury. It is our safety, and we must embrace This gentle offer of the perilous [[Time|time]]. |
-| PEMBROKE | Who brought that letter from the Cardinal? |
-| SALISBURY | The Count Melun, a noble lord of France, Who’s private with me of the [[Dauphin]]’s [[Love|love]]; ’Tis much more general than these lines import. |
-| BIGOT | Tomorrow morning let us meet him then. |
-| SALISBURY | Or rather, then set forward, for ’twill be Two long days’[[Journey|journey]], lords, or ere we meet. 20 Enter the Bastard |
-| BASTARD | Once more today [[Well|well]] met, distempered lords. The [[King]] by me requests your presence straight. |
-| SALISBURY | The [[King]] hath dispossessed himself of us. We will not line his thin bestainèd cloak With our pure honours, nor attend the foot 25 That [[Leaves|leaves]] the print of [[Blood|blood]] where’er it walks. Return and tell him so; we know the worst. |
-| BASTARD | Whate’er you think, good words I think were best. |
-| SALISBURY | Our griefs and not our manners reason now. |
-| BASTARD | But there is little reason in your grief. Therefore ’twere reason you had manners now. |
-| PEMBROKE | Sir, sir, impatience hath his privilege. |
-| BASTARD | ’Tis true—to hurt his master, no man else. |
-| SALISBURY | This is the [[Prison|prison]]. He sees [[Arthur]]’s [[Body|body]] |
-| SALISBURY | What is he lies here? |
-| PEMBROKE | O [[Death|death]], made proud with pure and princely [[Beauty|beauty]]! The earth had not a hole to hide this deed. 36 |
-| SALISBURY | Murder, as hating what himself hath done, Doth lay it open to urge on [[Revenge|revenge]]. |
-| BIGOT | Or when he doomed this [[Beauty|beauty]] to a [[Grave|grave]], Found it too precious-princely fora [[Grave|grave]]. 40 |
-| SALISBURY | (to the Bastard) Sir [[Richard]], what think you? You have beheld. Or have you read or heard; or could you think, Or do you almost think, although you see, That you do see? Could thought, without this object, Form such another? This is the very top, The height, the crest, or crest unto the crest, Of murder’s arms; this is the bloodiest shame, The wildest savagery, the vilest stroke That ever wall-eyed wrath or staring rage Presented to the [[Tears|tears]] of soft remorse. |
-| PEMBROKE | All murders past do stand excused in this, And this, so sole and so unmatchable, Shall give a holiness, a purity, To the yet-unbegotten sin of times, And prove a deadly bloodshed but a jest, 55 Exampled by this heinous spectacle. |
-| BASTARD | It is a damned and a bloody work, The graceless action of a heavy hand— If that it be the work of any hand. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--02_exchange_salisbury" data-title="King John — Act IV, Scene 3 — exchange (SALISBURY) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SALISBURY | If that it be the work of any hand? 60 We had a kind of light what would ensue: It is the shameful work of [[Hubert]]’s hand, The practice and the purpose of the [[King]]; From whose obedience I forbid my [[Soul|soul]], Kneeling before this ruin of sweet life, 65 And breathing to his breathless excellence The incense of a vow, a holy vow, Never to taste the pleasures of the world, Never to be infected with delight, Nor conversant with ease and idleness, 70 Till I have set a glory to this hand By giving it the worship of [[Revenge|revenge]]. |
-| PEMBROKE | and BIGOT Our souls religiously confirm thy words. Enter [[Hubert]] |
-| [[Hubert|HUBERT]] | Lords, I am hot with haste in seeking you. [[Arthur]] doth live; the [[King]] hath sent for you. |
-| SALISBURY | O,he is bold, and blushes not at [[Death|death]]!— Avaunt, thou hateful [[Villain|villain]], get thee gone I |
-| [[Hubert|HUBERT]] | I am no [[Villain|villain]]. |
-| SALISBURY | Must I rob the law? He draws his [[Sword|sword]] |
-| BASTARD | Your [[Sword|sword]] is bright, sir; put it up again. |
-| SALISBURY | Not till I sheathe it in a murderer’s skin. |
-| [[Hubert|HUBERT]] | (drawing his [[Sword|sword]]) Stand back, Lord Salisbury, stand back, I say! By heaven, I think my [[Sword|sword]]’s as sharp as yours. I would not have you, lord, forget yourself, Nor tempt the danger of my true defence, Lest I, by marking of your rage, forget Your worth, your [[Greatness|greatness]] and nobility. |
-| BIGOT | Out, dunghill! Dar’st thou brave a nobleman? |
-| [[Hubert|HUBERT]] | Not for my life; but yet I dare defend My [[Innocent|innocent]] life against an emperor. |
-| SALISBURY | Thou art a murderer. |
-| [[Hubert|HUBERT]] | Do not prove me so; Yet I am none. Whose tongue soe’er speaks false, Not truly speaks; who speaks not truly, lies. |
-| PEMBROKE | Cut him to pieces! |
-| BASTARD | (drawing his [[Sword|sword]]) Keep the peace, I say I |
-| SALISBURY | Stand by, or I shall gall you, Falconbridge. |
-| BASTARD | Thou wert better gall the devil, Salisbury. If thou but frown on me, or stir thy foot, Or teach thy hasty spleen to do me shame, I’ll strike thee dead. Put up thy [[Sword|sword]] betime, Or I’ll so maul you and your toasting-iron That you shall think the devil is come from hell. 100 |
-| BIGOT | What wilt thou do, renowned Falconbridge, Second a [[Villain|villain]] and a murderer? |
-| [[Hubert|HUBERT]] | Lord Bigot, I am none. |
-| BIGOT | Who killed this prince? |
-| [[Hubert|HUBERT]] | ’Tis not an hour since I left him [[Well|well]]. I honoured him, I loved him, and will weep My date of life out for his sweet life’s loss. |
-| SALISBURY | Trust not those cunning waters of his eyes, For villainy is not without such rheum, And he, long traded in it, makes it seem Like rivers of remorse and innocency. II0 Away with me, all you whose souls abhor Th’uncleanly savours of a slaughter-[[house]], For I am stifled with this smell of sin. |
-| BIGOT | Away toward Bury, to the [[Dauphin]] there. |
-| PEMBROKE | There, tell the [[King]], he may enquire us out. 115 Exeunt Pembroke, Salisbury, and Bigot |
-| BASTARD | Here’s a good world! Knew you of this fair work? Beyond the infinite and boundless reach Of [[Mercy|mercy]], if thou didst this deed of [[Death|death]] Art thou damned, [[Hubert]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--03_exchange_hubert" data-title="King John — Act IV, Scene 3 — exchange (HUBERT) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Hubert|HUBERT]] | Do but hear me, sir. |
-| BASTARD | Ha! I’ll tell thee what: Thou’rt damned as black—nay nothing is so black— Thou art more deep damned than Prince [[Lucifer]]; There is not yet so ugly a fiend of hell As thou shalt be if thou didst kill this [[Child|child]]. |
-| [[Hubert|HUBERT]] | Upon my [[Soul|soul]]— |
-| BASTARD | If thou didst but consent To this most cruel act, do but [[Despair|despair]]; And if thou want’st a cord, the smallest thread That ever spider twisted from her womb Will serve to strangle thee; a rush will be a beam To hang thee on; or wouldst thou drown thyself, Put but a little [[Water|water]] in a spoon And it shall be, as all the ocean, Enough to stifle such a [[Villain|villain]] up. I do suspect thee very grievously. |
-| [[Hubert|HUBERT]] | If I in act, consent, or sin of thought Be guilty of the stealing that sweet breath Which was embounded in this beauteous clay, Let hell want pains enough to torture me. |
-| [[Hubert|HUBERT]] | I left him [[Well|well]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--04_monologue_bastard" data-title="King John — Act IV, Scene 3 — monologue (BASTARD) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| BASTARD | Go bear him in thine arms. I am amazed, methinks, and lose my way Among the thorns and dangers of this world. [[Hubert]] takes up [[Arthur]] in his arms How easy dost thou take all England up I From forth this morsel of dead royalty, The life, the right, and [[Truth|truth]] of all this realm Is fled to heaven, and England now is left To tug and scramble, and to part by th’ teeth The unowed interest of proud swelling state. Now for the bare-picked bone of majesty Doth dogged war bristle his angry crest, And snarleth in the gentle eyes of peace; Now powers from [[Home|home]] and discontents at [[Home|home]] Meet in one line, and vast confusion waits, As doth a raven on a sick-fall’n beast, The imminent [[Decay|decay]] of wrested pomp. 155 Now happy he whose cloak and cincture can Hold out this tempest. Bear away that [[Child|child]], And follow me with [[Speed|speed]]. I’ll to the [[King]]. A thousand businesses are brief in hand, And heaven itself doth frown upon the land. Exeunt severally |
-| *(didascalia)* | 5.1 Flourish.Enter [[King John]] and Cardinal Pandolf, with attendants |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--05_exchange_king_john" data-title="King John — Act IV, Scene 3 — exchange (KING JOHN) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King John|KING JOHN]] | giving Pandolf the [[Crown|crown]] Thus have I yielded up into your hand The circle of my glory. PANDOLF(giving back the [[Crown|crown]])Take again From this my hand, as holding of the Pope, Your sovereign [[Greatness|greatness]] and authority. |
-| [[King John|KING JOHN]] | Now keep your holy word: go meet the French, And from his Holiness use all your power To stop their marches ‘fore we are enflamed. Our discontented counties do revolt, Our people quarrel with obedience, Swearing allegiance and the [[Love|love]] of [[Soul|soul]] To stranger [[Blood|blood]], to foreign royalty. This inundation of mistempered [[Humour|humour]] Rests by you only to be qualified. Then pause not, for the present [[Time|time]]’s so sick That present med’cine must be ministered, Or overthrow incurable ensues. |
-| PANDOLF | It was my breath that blew this tempest up, Upon your stubborn usage of the Pope, But since you are a gentle convertite, My tongue shall hush again this [[Storm|storm]] of war And make fair weather in your blust’ring land. On this Ascension Day, remember [[Well|well]], Upon your oath of service to the Pope, Go I to make the French lay down their arms. Exeunt all but [[King John]] |
-| [[King John|KING JOHN]] | Is this Ascension Day Did not the [[Prophet|prophet]] Say that before Ascension Day at [[Noon|noon]] My [[Crown|crown]] I should give off? Even so I have. I did suppose it should be on constraint, But, heaven be thanked, it is but voluntary. Enter Bastard |
-| BASTARD | All [[Kent]] hath yielded; nothing there holds out But Dover [[Castle]]. [[London]] hath received, Like a kind host, the [[Dauphin]] and his powers. Your nobles will not hear you, but are gone To offer service to your enemy; And wild amazement hurries up and down The little number of your doubtful friends. |
-| [[King John|KING JOHN]] | Would not my lords return to me again After they heard young [[Arthur]] was alive? |
-| BASTARD | They found him dead and cast into the streets, An empty casket, where the [[Jewel|jewel]] of life By some damned hand was robbed and ta’en away. |
-| [[King John|KING JOHN]] | That [[Villain|villain]] [[Hubert]] told me he did live. |
-| BASTARD | Soon my [[Soul|soul]] he did, for aught he knew. But wherefore do you droop? Why look you sad? Be great in act as you have been in thought. Let not the world see [[Fear|fear]] and sad distrust Govern the motion of a kingly eye. Be stirring as the [[Time|time]], be [[Fire|fire]] with [[Fire|fire]]; Threaten the threat’ner, and outface the brow Of bragging horror. So shall inferior eyes, That borrow their behaviours from the great, Grow great by your example, and put on The dauntless spirit of resolution. Away, and glisten like the god of war When he intendeth to become the field. Show boldness and aspiring confidence. What, shall they seek the [[Lion|lion]] in his den And fright him there, and make him tremble there? O, let it not be said I Forage, and run To meet displeasure farther from the doors, And grapple with him ere he come so nigh. |
-| [[King John|KING JOHN]] | The legate of the Pope hath been with me, And I have made a happy peace with him, And he hath promised to dismiss the powers Led by the [[Dauphin]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--06_exchange_bastard_o" data-title="King John — Act IV, Scene 3 — exchange (BASTARD O) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| BASTARD | O inglorious league! Shall we, upon the footing of our land, Send fair-play orders, and make compromise, Insinuation, parley, and base truce To arms invasive? Shall a beardless boy, A cockered silken wanton, brave our fields And flesh his spirit in a warlike soil, Mocking the air with colours idly spread, And find no check? Let us, my liege, to arms! Perchance the Cardinal cannot make your peace, Or if he do, let it at least be said They saw we had a purpose of defence. |
-| [[King John|KING JOHN]] | Have thou the ordering of this present [[Time|time]]. |
-| BASTARD | Away, then, with good [[Courage|courage]]! AsideYet I know Our party may [[Well|well]] meet a prouder foe. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--01_exchange_dialogue" data-title="King John — Act V, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter, marching in arms, Louis the [[Dauphin]], the Earl off Salisbury, Count Melun, the Earl of Pembroke, and Lord Bigot, with soldiers |
-| LOUIS THE [[Dauphin|DAUPHIN]] | My Lord Melun, let this be copied out, And keep it safe for our remembrance. Return the precedent to these lords again, That having our fair order written down, Both they and we, perusing o’er these notes, May know wherefore we took the sacrament And keep our faiths firm and inviolable. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--02_monologue_salisbury" data-title="King John — Act V, Scene 2 — monologue (SALISBURY) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SALISBURY | Upon our sides it never shall be broken. And, noble [[Dauphin]], albeit we swear A voluntary zealand an unurgéd [[Faith|faith]] To your proceedings, yet believe me, Prince, I am not glad that such a sore of [[Time|time]] Should seek a plaster by contemned revolt, And heal the inveterate canker of one wound By making many. O,it grieves my [[Soul|soul]] That I must draw this metal from my side To be a widow-maker! O, and there Where honourable rescue and defence Cries out upon the name of Salisbury I But such is the infection of the [[Time|time]], That for the health and physic of our right, We cannot deal but with the very hand Of stern injustice and confused wrong. And is’t not pity, O my grieved friends, That we the sons and children of this isle Was born to see so sad an hour as this, Wherein we step after a stranger, march Upon her gentle bosom, and fill up Her enemies’ ranks? I must withdraw and weep Upon the spot of this enforced cause— To grace the gentry of a land remote, And follow unacquainted colours here. What, here? O nation, that thou couldst remove; That Neptune’s arms who clippeth thee about Would bear thee from the knowledge of thyself And gripple thee unto a pagan shore, Where these two Christian armies might combine The [[Blood|blood]] of malice in a vein of league, And not to spend it so unneighbourly. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--03_monologue_louis_the_dauphin" data-title="King John — Act V, Scene 2 — monologue (LOUIS THE DAUPHIN) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LOUIS THE [[Dauphin|DAUPHIN]] | A noble temper dost thou show in this, And great affections, wrestling in thy bosom, Doth make an earthquake of nobility. O, what a noble combat hast thou fought Between compulsion and a brave respect! Let me wipe off this honourable dew That silverly doth progress on thy cheeks. My heart hath melted at a lady’s [[Tears|tears]], Being an ordinary inundation; But this effusion of such manly drops, This shower blown up by tempest of the [[Soul|soul]], Startles mine eyes, and makes me more amazed Than had I seen the vaulty top of heaven Figured quite o’er with burning meteors. Lift up thy brow, renowned Salisbury, And with a great heart heave away this [[Storm|storm]]; 55 Commend these waters to those baby eyes That never saw the giant world enraged, Nor met with Fortune other than at feasts, Full warm of [[Blood|blood]], of mirth, of gossiping. Come, come, for thou shalt thrust thy hand as deep Into the purse of rich prosperity As Louis himself. So, nobles, shall you all That knit your sinews to the strength of mine. A trumpet sounds And even there methinks an angel spake! Enter Cardinal Pandolf Look where the holy legate comes apace, To give us warrant from the hand of heaven, And on our actions set the name of right With holy breath. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--04_exchange_pandolf" data-title="King John — Act V, Scene 2 — exchange (PANDOLF) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PANDOLF | Hail, noble prince of France! The next is this. [[King John]] hath reconciled Himself to Rome; his spirit is come in That so stood out against the Holy Church, The great metropolis and See of Rome; Therefore thy threat’ning colours now [[Wind|wind]] up, And tame the savage spirit of wild war, That like a [[Lion|lion]] fostered up at hand It may lie gently at the foot of peace, And be no further harmful than in show. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--05_monologue_louis_the_dauphin" data-title="King John — Act V, Scene 2 — monologue (LOUIS THE DAUPHIN) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LOUIS THE [[Dauphin|DAUPHIN]] | Your grace shall pardon me: I will not back. I am too high-born to be propertied, To be a secondary at control, Or useful serving-man and instrument To any sovereign state throughout the world. Your breath first kindled the dead coal of wars Between this chastised kingdom and myself, And brought in matter that should feed this [[Fire|fire]]; And now ‘tis far too huge to be blown out With that same weak [[Wind|wind]] which enkindled it. You taught me how to know the face of right, Acquainted me with interest to this land, Yea, thrust this enterprise into my heart; And come ye now to tell me John hath made His peace with Rome? What is that peace to me? I, by the [[Honour|honour]] of my [[Marriage|marriage]] bed, After young [[Arthur]], claim this land for mine; And now it is half conquered, must I back Because that John hath made his peace with Rome? Am I Rome’s slave? What penny hath Rome borne, What men provided, what munition sent To underprop this action? Is’t not I That undergo this charge? Who else but I, And such as to my claim are liable, Sweat in this business and maintain this war? Have I not heard these islanders shout out ‘Vive le Roi!’as I have banked their towns? Have I not here the best cards for the game, 105 To win this easy match played for a [[Crown|crown]]? And shall I now give o’er the yielded set? No, no, on my [[Soul|soul]], it never shall be said. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--06_exchange_pandolf" data-title="King John — Act V, Scene 2 — exchange (PANDOLF) [6]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PANDOLF | You look but on the outside of this work. |
-| LOUIS THE [[Dauphin|DAUPHIN]] | Outside or inside, I will not return Till my attempt so much be glorified As to my ample [[Hope|hope]] was promised Before I drew this gallant head of war, And culled these fiery spirits from the world To outlook conquest and to win renown Even in the jaws of danger and of [[Death|death]]. A trumpet sounds What lusty trumpet thus doth summon us? Enter the Bastard |
-| BASTARD | According to the fair play of the world, Let me have audience; I am sent to speak. My holy lord of Milan, from the [[King]] I come to learn how you have dealt for him, And as you answer I do know the scope And warrant limited unto my tongue. |
-| PANDOLF | The [[Dauphin]] is too wilful-opposite, And will not temporize with my entreaties. He flatly says he’ll not lay down his arms. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--07_monologue_bastard" data-title="King John — Act V, Scene 2 — monologue (BASTARD) [7]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| BASTARD | By all the [[Blood|blood]] that ever fury breathed, The youth says [[Well|well]]. Now hear our English [[King|king]], For thus his royalty doth speak in me. He is prepared, and reason too he should. This apish and unmannerly approach, This harnessed [[Masque|masque]] and unadvised revel, This unhaired sauciness and boyish troops, The [[King]] doth smile at, and is [[Well|well]] prepared To whip this dwarfish war, these pigmy arms, 135 From out the circle of his territories. That hand which had the strength even at your door To cudgel you and make you take the hatch, To dive like buckets in concealed wells, To crouch in litter of your stable planks, To lie like pawns locked up in chests and trunks, To hug with swine, to seek sweet safety out In vaults and prisons, and to thrill and shake Even at the crying of your nation’s crow, Thinking his voice an armed Englishman; Shall that victorious hand be feebled here That in your chambers gave you chastisement? No! Know the gallant monarch is in arms, And like an eagle o’er his eyrie towers To souse annoyance that comes near his nest. (To the English lords) And you degenerate, you ingrate revolts, You bloody Neros, ripping up the womb Of your dear mother England, blush for shame; For your own ladies and pale-visaged maids Like Amazons come tripping after drums; Their thimbles into armed gauntlets change, Their needles to lances, and their gentle hearts To fierce and bloody inclination. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--08_exchange_louis_the_dauphin" data-title="King John — Act V, Scene 2 — exchange (LOUIS THE DAUPHIN) [8]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LOUIS THE [[Dauphin|DAUPHIN]] | There end thy brave, and turn thy face in peace. We grant thou canst outscold us. Fare thee [[Well|well]]: 160 We hold our [[Time|time]] too precious to be spent With such a brabbler. |
-| PANDOLF | Give me leave to speak. |
-| BASTARD | No, I will speak. LouisTHE [[Dauphin|DAUPHIN]] We will attend to neither.— Strike up the drums, and let the tongue of war Plead for our interest and our being here. |
-| BASTARD | Indeed your drums, being beaten, will cry out; And so shall you, being beaten. Do but start An echo with the clamour of thy drum, And even at hand a drum is ready braced That shall reverberate all as loud as thine. Sound but another, and another shall As loud as thine rattle the welkin’s ear, And mock the deep-mouthed thunder; for at hand, Not trusting to this halting legate here, Whom he hath used rather for sport than need, Is warlike John; and in his forehead sits A bare-ribbed [[Death]], whose office is this day To feast upon whole thousands of the French. |
-| LOUIS THE [[Dauphin|DAUPHIN]] | Strike up our drums to find this danger out. |
-| BASTARD | And thou shalt find it, [[Dauphin]], do not [[Doubt|doubt]]. Drums beat. Exeunt the Bastard Fat onedoor, all the rest, marching, at another door |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--01_exchange_dialogue" data-title="King John — Act V, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Prince Henry, the [[Earl of Salisbury]], and Lord Bigot |
-| PRINCE HENRY | It is too late. The life of all his [[Blood|blood]] Is touched corruptibly, and his pure brain, Which some suppose the [[Soul|soul]]’s frail dwelling-[[house]], Doth by the idle comments that it makes Foretell the ending of [[Mortality|mortality]]. Enter the Earl of Pembroke |
-| PEMBROKE | His highness yet doth speak, and holds belief That being brought into the open air, It would allay the burning quality Of that fell [[Poison|poison]] which assaileth him. |
-| PRINCE HENRY | Let him be brought into the orchard here.— Exit Lord Bigot Doth he still rage? |
-| PEMBROKE | He is more patient Than when you left him. Even now, he sung. |
-| PRINCE HENRY | O, [[Vanity|vanity]] of sickness! Fierce extremes In their continuance will not feel themselves. [[Death]], having preyed upon the outward parts, [[Leaves]] them invincible, and his siege is now Against the mind; the which he pricks and wounds With many legions of strange fantasies, Which in their throng and press to that last hold Confound themselves. ’Tis strange that [[Death|death]] should sing. I am the cygnet to this pale faint swan, Who chants a doleful [[Hymn|hymn]] to his own [[Death|death]], And from the organ-pipe of frailty sings His [[Soul|soul]] and [[Body|body]] to their lasting rest. |
-| SALISBURY | Be of good comfort, Prince, for you are born To set a form upon that indigest Which he hath left so shapeless and so rude. [[King John]] is brought in, with Lord Bigot attending |
-| [[King John|KING JOHN]] | Ay marry, now my [[Soul|soul]] hath elbow-room; It would not out at windows nor at doors. There is so hot a [[Summer|summer]] in my bosom That all my bowels crumble up to [[Dust|dust]]; I am a scribbled form, drawn with a pen Upon a parchment, and against this [[Fire|fire]] Do I shrink up. |
-| PRINCE HENRY | How fares your majesty? |
-| [[King John|KING JOHN]] | Poisoned, ill fare! Dead, forsook, cast off; And none of you will bid the [[Winter|winter]] come To thrust his icy fingers in my maw, Nor let my kingdom’s rivers take their course Through my burned bosom, nor entreat the north To make his bleak winds kiss my parchèd lips 40 And comfort me with cold. I do not ask you much; I beg cold comfort, and you are so strait And so ingrateful you deny me that. |
-| PRINCE HENRY | O, that there were some virtue in my [[Tears|tears]] That might relieve you! |
-| [[King John|KING JOHN]] | The salt in them is hot. Within me is a hell, and there the [[Poison|poison]] Is, as a fiend, confined to tyrannize On unreprievable condemned [[Blood|blood]]. Enter the Bastard |
-| BASTARD | O, I am scalded with my violent motion And spleen of [[Speed|speed]] to see your majesty! |
-| [[King John|KING JOHN]] | O cousin, thou art come to set mine eye. The tackle of my heart is cracked and burnt, And all the shrouds wherewith my life should sail Are turned to one thread, one little hair; My heart hath one poor string to stay it by, Which holds but till thy news be uttered, And then all this thou seest is but a clod And module of confounded royalty. |
-| BASTARD | The [[Dauphin]] is preparing hitherward, Where God He knows how we shall answer him; For in a [[Night|night]] the best part of my power, As I upon advantage did remove, Were in the Washes all unwarily Devoured by the unexpected flood. [[King John]] dies |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--02_exchange_salisbury" data-title="King John — Act V, Scene 7 — exchange (SALISBURY) [2]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SALISBURY | You breathe these dead news in as dead an ear. (To [[King John]]) My liege, my lord!—But now a [[King|king]], now thus. |
-| PRINCE HENRY | Even so must I run on, and even so stop. What surety of the world, what [[Hope|hope]], what stay, When this was now a [[King|king]] and now is clay? |
-| BASTARD | (to [[King John]]) Art thou gone so? I do but stay behind To do the office for thee of [[Revenge|revenge]], And then my [[Soul|soul]] shall wait on thee to heaven, As it on earth hath been thy servant still. (To the lords) Now, now, you [[Stars|stars]] that move in your right spheres, Where be your powers? Show now your mended faiths, And instantly return with me again, To push destruction and perpetual shame Out of the weak door of our fainting land. Straight let us seek, or straight we shall be sought. The [[Dauphin]] rages at our very heels. |
-| SALISBURY | It seems you know not, then, so much as we. The Cardinal Pandolf is within at rest, Who half an hour since came from the [[Dauphin]], And brings from him such offers of our peace As we with [[Honour|honour]] and respect may take, With purpose presently to leave this war. |
-| BASTARD | He will the rather do it when he sees Ourselves [[Well|well]]-sinewed to our own defence. |
-| SALISBURY | Nay, ’tis in a manner done already, For many carriages he hath dispatched To the sea-side, and put his cause and quarrel To the disposing of the Cardinal, With whom yourself, myself, and other lords, If you think meet, this afternoon will post To consummate this business happily. |
-| BASTARD | Let it be so.—And you, my noble prince, With other princes that may best be spared, Shall wait upon your father’s funeral. |
-| PRINCE HENRY | At Worcester must his [[Body|body]] be interred, For so he willed it. |
-| BASTARD | Thither shall it then, 100 And happily may your sweet [[Self|self]] put on The lineal state and glory of the land, To whom with all submission, on my knee, I do bequeath my faithful services And true subjection everlastingly. 105 He kneels |
-| SALISBURY | And the like tender of our [[Love|love]] we make, To rest without a spot for evermore. Salisbury, Pembroke and Bigot kneel |
-| PRINCE HENRY | I have a kind of [[Soul|soul]] that would give thanks, And knows not how to do it but with [[Tears|tears]]. He weeps |
-| BASTARD | rising O, let us pay the [[Time|time]] but needful woe, Since it hath been beforehand with our griefs. This England never did, nor never shall, Lie at the proud foot of a conqueror But when it first did help to wound itself. Now these her princes are come [[Home|home]] again, Come the three corners of the world in arms And we shall shock them. Naught shall make us rue If England to itself do rest but true. Flourish. Exeunt with the [[Body|body]] |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--03_monologue_entry" data-title="King John — Act V, Scene 7 — monologue (ENTRY) [3]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| ENTRY | of ‘a book of The Merchant of [[Venice]] or otherwise called The Jew of [[Venice]]’ in the Stationers’ Register on 22July 1598 probably represents an attempt by Shakespeare’s company to prevent the unauthorized printing of a popular play: it eventually appeared in print as ‘The Comical [[history|History]] of the Merchant of [[Venice]]’ in 1600, when it was said to have ‘been divers times acted by the Lord Chamberlain his servants’; probably Shakespeare wrote it in 1596 or 1597. The alternative title—The Jew of [[Venice]]—may reflect [[Shylock]]’s impact on the play’s first audiences. The play is constructed on the basis of two romantic tales using motifs [[Well|well]] known to sixteenth-century readers. The story of Giannetto (Shakespeare’s [[Bassanio]]) and the Lady ([[Portia]]) of Belmont comes from an Italian collection of fifty stories published under the title of II Pecorone (‘the big sheep’, or ‘dunce’) and attributed to one Ser Giovanni of Fiorentino. Written in the later part of the fourteenth century, the volume did not appear until 1558. No sixteenth-century [[Translation|translation]] is known, so (unless there was a lost intermediary) Shakespeare must have read it in Italian. It gave him the main outline of the plot involving [[Antonio]] (the merchant), [[Bassanio]] (the wooer), [[Portia]], and the Jew ([[Shylock]]). The pound of flesh motif was available also in other versions, one of which, in Alexander Silvayn’s The Orator (translated 1596), influenced the climactic scene (4.1) in which [[Shylock]] attempts to exact the full penalty of his bond. In the story from II Pecorone the lady (a widow) challenges her suitors to seduce her, on [[Pain|pain]] of the forfeiture of their wealth, and thwarts them by drugging their wine. Shakespeare more romantically shows a maiden required by her father’s will to accept only a wooer who will forswear [[Marriage|marriage]] if he fails to make the right choice among caskets of gold, silver and lead. The story of the caskets was readily available in versions by John [[Gower]] (in his Confessio Amantis) and Giovanni Boccaccio (in his Decameron), and in an anonymous anthology (the Gesta Romanorum). Shakespeare added the character ofJessica, [[Shylock]]’s daughter who elopes with the Christian [[Lorenzo]]—perhaps influenced by episodes in Christopher Marlowe’s play The Jew of Malta (c.1589)—and made many adjustments to the stories from which he borrowed. The Merchant of [[Venice]] is a natural development from Shakespeare’s earlier comedies, especially The Two Gentlemen of [[Verona]], with its heroine disguised as a boy and its portrayal of the competing demands of [[Love|love]] and [[Friendship|friendship]]. But [[Portia]] is the first of his great romantic heroines, and [[Shylock]] his first great comic antagonist. Though the play grew out of fairy tales, its moral scheme is not entirely clear cut: the Christians are open to criticism, the Jew is true to his own code of conduct. The response of twentieth-century and later audiences has been complicated by racial issues; in any case, the role of [[Shylock]] affords such strong opportunities for an actor capable of arousing an undercurrent of sympathy for a vindictive character that it has sometimes unbalanced the play in performance. But the so-called trial scene (4.1) is unfailing in its impact on audiences, and the closing episodes modulate skilfully from romantic lyricism to high [[Comedy|comedy]], while sustaining the play’s concern with true and false values. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--04_exchange_the_persons_of_the_play" data-title="King John — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [4]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY [[Antonio|ANTONIO]], a merchant of [[Venice]] [[Bassanio|BASSANIO]], his friend and [[Portia]]’s suitor LEONARDO, [[Bassanio]]’s servant [[Shylock|SHYLOCK]], a Jew [[Jessica|JESSICA]], his daughter TUBAL, a Jew LANCELOT, a clown, first [[Shylock]]’s servant and then [[Bassanio]]’s GOBBO, his father [[Portia|PORTIA]], an heiress [[Nerissa|NERISSA]], her waiting-gentlewoman |
-| DUKE | of [[Venice]] Magnificoes of [[Venice]] A jailer, attendants, and servants |
 
 
 

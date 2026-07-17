@@ -1,5 +1,5 @@
 ---
-title: "Titus Andronicus — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [8]"
+title: "TITUS ANDRONICUS"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/titus-andronicus-(shakespeare)"
@@ -9,6 +9,767 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/titus_andronicus" data-author="Shakespeare" data-workhref="works/titus-andronicus-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Titus Andronicus — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Aaron]] [[Alone|alone]], with gold |
+| [[Aaron|AARON]] | He that had wit would think that I had none, To bury so much gold under a tree And never after to inherit it. Let him that thinks of me so abjectly Know that this gold must coin a stratagem Which, cunningly effected, will beget A very excellent piece of villainy. And so repose, sweet gold, for their unrest That have their alms out of the Empress’ chest. He hides the gold. |
+| *(didascalia)* | Enter [[Tamora]] [[Alone|alone]] to the Moor |
+| [[Tamora|TAMORA]] | My lovely [[Aaron]], wherefore look‘st thou sad When everything doth make a gleeful boast? The [[Birds|birds]] chant melody on every bush, The snakes lies rolled in the cheerful sun, The green [[Leaves|leaves]] quiver with the cooling [[Wind|wind]] And make a chequered [[Shadow|shadow]] on the ground. Under their sweet shade, [[Aaron]], let us sit, And whilst the babbling echo mocks the hounds, Replying shrilly to the [[Well|well]]-tuned horns, As if a [[Double|double]] hunt were heard at once, Let us sit down and mark their yellowing noise, And after conflict such as was supposed The wand’ring prince and Dido once enjoyed When with a happy [[Storm|storm]] they were surprised, And curtained with a counsel-keeping [[Cave|cave]], We may, each wreathed in the other’s arms, Our pastimes done, possess a golden slumber Whiles hounds and horns and sweet melodious [[Birds|birds]] Be unto us as is a [[Nurse|nurse]]’s [[Song|song]] Of lullaby to bring her babe asleep. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--02_monologue_aaron" data-title="Titus Andronicus — Act II, Scene 3 — monologue (AARON) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Aaron|AARON]] | Madam, though [[Venus]] govern your desires, [[Saturn]] is dominator over mine. What signifies my deadly-standing eye, My [[Silence|silence]], and my cloudy [[Melancholy|melancholy]], My fleece of woolly hair that now uncurls Even as an adder when she doth unroll To do some fatal execution? No, madam, these are no venereal signs. Vengeance is in my heart, [[Death|death]] in my hand, [[Blood]] and [[Revenge|revenge]] are hammering in my head. Hark, [[Tamora]], the empress of my [[Soul|soul]], Which never hopes more heaven than rests in thee, This is the day of doom for [[Bassianus]]. His Philomel must lose her tongue today, Thy sons make pillage of her chastity And wash their hands in [[Bassianus]]’ [[Blood|blood]]. Seest thou this letter? (Giving a letter) Take it up, I pray thee, And give the [[King]] this fatal-plotted scroll. Now question me no more. We are espied. Here comes a parcel of our hopeful booty, Which dreads not yet their lives’ destruction. Enter [[Bassianus]] and [[Lavinia]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--03_exchange_tamora" data-title="Titus Andronicus — Act II, Scene 3 — exchange (TAMORA) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Tamora|TAMORA]] | (aside to [[Aaron]]) Ah, my sweet Moor, sweeter to me than life! |
+| [[Aaron|AARON]] | (aside to [[Tamora]]) No more, great Empress; [[Bassianus]] comes. Be [[Cross|cross]] with him, and I’ll go fetch thy sons To back thy quarrels, whatsoe’er they be. Exit |
+| [[Bassianus|BASSIANUS]] | Who have we here? Rome’s royal empress Unfurnished of her [[Well|well]]-beseeming troop? Or is it Dian, habited like her Who hath abandoned her holy groves To see the general hunting in this forest? |
+| [[Tamora|TAMORA]] | Saucy controller of my private steps, Had I the power that some say Dian had, Thy temples should be planted presently With horns, as was Actaeon’s, and the hounds Should drive upon thy new-transformed limbs, Unmannerly intruder as thou art! |
+| [[Lavinia|LAVINIA]] | Under your patience, gentle Empress, ‘Tis thought you have a goodly gift in horning, And to be doubted that your Moor and you Are singled forth to try experiments. Jove shield your husband from his hounds today— ‘Tis pity they should take him for a stag. |
+| [[Bassianus|BASSIANUS]] | Believe me, [[Queen]], your swart Cimmerian Doth make your [[Honour|honour]] of his [[Body|body]]’s hue, Spotted, detested, and abominable. Why are you sequestered from all your train, Dismounted from your [[Snow|snow]]-white goodly steed, And wandered hither to an obscure plot, Accompanied but with a barbarous Moor, If foul [[Desire|desire]] had not conducted you? |
+| [[Lavinia|LAVINIA]] | And being intercepted in your sport, Great reason that my noble lord be rated For sauciness. (To [[Bassianus]]) I pray you, let us hence, And let her joy her raven-coloured [[Love|love]]. This valley fits the purpose passing [[Well|well]]. |
+| [[Bassianus|BASSIANUS]] | The [[King]] my brother shall have note of this. |
+| [[Lavinia|LAVINIA]] | Ay, for these slips have made him noted long. Good [[King]], to be so mightily abused! |
+| [[Tamora|TAMORA]] | Why have I patience to endure all this? Enter Chiron and [[Demetrius]] |
+| [[Demetrius|DEMETRIUS]] | How now, dear sovereign and our gracious mother, Why doth your highness look so pale and wan? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--04_monologue_tamora" data-title="Titus Andronicus — Act II, Scene 3 — monologue (TAMORA) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Tamora|TAMORA]] | Have I not reason, think you, to look pale? These two have ‘ticed me hither to this place. A barren detested vale you see it is; The trees, though [[Summer|summer]], yet forlorn and lean, Overcome with moss and baleful mistletoe. Here never shines the sun, here nothing breeds Unless the nightly owl or fatal raven, And when they showed me this abhorred pit They told me here at dead [[Time|time]] of the [[Night|night]] A thousand fiends, a thousand hissing snakes, Ten thousand swelling toads, as many urchins Would make such fearful and confused cries As any mortal [[Body|body]] hearing it Should straight fall mad or else die suddenly. No sooner had they told this hellish tale But straight they told me they would bind me here Unto the [[Body|body]] of a dismal yew And leave me to this miserable [[Death|death]]. And then they called me foul adulteress, Lascivious Goth, and all the bitterest terms That ever ear did hear to such effect. And had you not by wondrous fortune come, This vengeance on me had they executed. [[Revenge]] it as you [[Love|love]] your mother’s life, Or be ye not henceforward called my children. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--05_exchange_demetrius" data-title="Titus Andronicus — Act II, Scene 3 — exchange (DEMETRIUS) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Demetrius|DEMETRIUS]] | This is a witness that I am thy son. He stabs [[Bassianus]] |
+| CHIRON | And this for me, struck [[Home|home]] to show my strength. He stabs [[Bassianus]], who dies. |
+| *(didascalia)* | [[Tamora]] turns to [[Lavinia]] |
+| [[Lavinia|LAVINIA]] | Ay, come, Semiramis—nay, barbarous [[Tamora]], For no name fits thy [[Nature|nature]] but thy own. |
+| [[Tamora|TAMORA]] | (to Chiron) Give me the poniard. You shall know, my boys, Your mother’s hand shall right your mother’s wrong. |
+| [[Demetrius|DEMETRIUS]] | Stay, madam, here is more belongs to her. First thresh the corn, then after burn the straw. This minion stood upon her chastity, Upon her nuptial vow, her loyalty, And with that quaint [[Hope|hope]] braves your mightiness. And shall she carry this unto her [[Grave|grave]]? |
+| CHIRON | An if she do I would I were an eunuch. Drag hence her husband to some secret hole, And make his dead trunk pillow to our lust. |
+| [[Tamora|TAMORA]] | But when ye have the honey ye [[Desire|desire]] Let not this wasp outlive, us both to sting. |
+| CHIRON | I warrant you, madam, we will make that sure. Come, mistress, now perforce we will enjoy That nice-preserved honesty of yours. |
+| [[Lavinia|LAVINIA]] | O [[Tamora]], thou bearest a woman’s face— |
+| [[Tamora|TAMORA]] | I will not hear her speak. Away with her! |
+| [[Lavinia|LAVINIA]] | Sweet lords, entreat her hear me but a word. |
+| [[Demetrius|DEMETRIUS]] | (to [[Tamora]]) Listen, fair madam, let it be your glory To see her [[Tears|tears]], but be your heart to them As unrelenting flint to drops of rain. |
+| [[Lavinia|LAVINIA]] | When did the tiger’s young ones teach the dam? O, do not learn her wrath! She taught it thee. The milk thou sucked’st from her did turn to marble, Even at thy teat thou hadst thy tyranny. Yet every mother breeds not sons alike. (To Chiron) Do thou entreat her show a woman’s pity. |
+| CHIRON | What, wouldst thou have me prove myself a bastard? |
+| [[Lavinia|LAVINIA]] | ’Tis true, [[The Raven|the raven]] doth not hatch a lark. Yet have I heard—O, could I find it now!— The [[Lion|lion]], moved with pity, did endure To have his princely paws pared all away. Some say that ravens foster forlorn children The whilst their own [[Birds|birds]] famish in their nests. O, be to me, though thy hard heart say no, Nothing so kind, but something pitiful. |
+| [[Tamora|TAMORA]] | I know not what it means. Away with her! |
+| [[Lavinia|LAVINIA]] | O, let me teach thee for my father’s sake, That gave thee life when [[Well|well]] he might have slain thee. Be not obdurate, open thy deaf ears. |
+| [[Tamora|TAMORA]] | Hadst thou in person ne’er offended me Even for his sake am I pitiless. Remember, boys, I poured forth [[Tears|tears]] in vain To save your brother from the sacrifice, But fierce Andronicus would not relent. Therefore away with her, and use her as you will— The worse to her, the better loved of me. |
+| [[Lavinia|LAVINIA]] | O [[Tamora]], be called a gentle [[Queen|queen]], And with thine own hands kill me in this place; For ’tis not life that I have begged so long; Poor I was slain when [[Bassianus]] died. |
+| [[Tamora|TAMORA]] | What begg’st thou then, fond woman? Let me go. |
+| [[Lavinia|LAVINIA]] | ’Tis present [[Death|death]] I beg, and one thing more That womanhood denies my tongue to tell. O, keep me from their worse-than-killing lust, And tumble me into some loathsome pit Where never man’s eye may behold my [[Body|body]]. Do this, and be a charitable murderer. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--06_exchange_tamora" data-title="Titus Andronicus — Act II, Scene 3 — exchange (TAMORA) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Tamora|TAMORA]] | So should I rob my sweet sons of their fee. No, let them satisfy their lust on thee. |
+| [[Demetrius|DEMETRIUS]] | (to [[Lavinia]]) Away, for thou hast stayed us here too long. |
+| [[Lavinia|LAVINIA]] | No grace, no womanhood—ah, beastly creature, The blot and enemy to our general name, Confusion fall— |
+| CHIRON | Nay then, I’ll stop your mouth. (To [[Demetrius]]) Bring thou her husband. This is the hole where [[Aaron]] bid us hide him. [[Demetrius]] and Chiron cast [[Bassianus]]’ [[Body|body]] into the |
+| *(didascalia)* | pit and cover the mouth of it with branches, then |
+| CHIRON | exeunt dragging [[Lavinia]] |
+| [[Tamora|TAMORA]] | Farewell, my sons. See that you make her sure. Ne’er let my heart know merry cheer indeed Till all the Andronici be made away. Now will I hence to seek my lovely Moor, And let my spleenful sons this trull deflower. Exit Enter [[Aaron]] with Quintus and Martius, two of |
+| [[Tamora|TAMORA]] | Titus’ sons |
+| [[Aaron|AARON]] | Come on, my lords, the better foot before. Straight will I bring you to the loathsome pit Where I espied the panther fast asleep. |
+| QUINTUS | My sight is very dull, whate’er it bodes. |
+| MARTIUS | And mine, I promise you. Were it not for shame, [[Well]] could I leave our sport to [[Sleep|sleep]] awhile. He falls into the pit |
+| QUINTUS | What, art thou fallen? What subtle hole is this, Whose mouth is covered with rude-growing briers Upon whose [[Leaves|leaves]] are drops of new-shed [[Blood|blood]] As fresh as morning dew distilled on [[Flowers|flowers]]? A very fatal place it seems to me. Speak, brother. Hast thou hurt thee with the fall? |
+| MARTIUS | O brother, with the dismall’st object hurt That ever eye with sight made heart lament. |
+| [[Aaron|AARON]] | (aside) Now will I fetch the [[King]] to find them here, That he thereby may have a likely guess How these were they that made away his brother. Exit |
+| MARTIUS | Why dost not comfort me and help me out From this unhallowed and bloodstained hole? |
+| QUINTUS | I am surprised with an uncouth [[Fear|fear]]. A chilling sweat o’erruns my trembling joints; My heart suspects more than mine eye can see. |
+| MARTIUS | To prove thou hast a true-divining heart, [[Aaron]] and thou look down into this den, And see a fearful sight of [[Blood|blood]] and [[Death|death]]. |
+| QUINTUS | [[Aaron]] is gone, and my compassionate heart Will not permit mine eyes once to behold The thing whereat it trembles by surmise. O, tell me who it is, for ne’er till now Was I a [[Child|child]] to [[Fear|fear]] I know not what. |
+| MARTIUS | Lord [[Bassianus]] lies berayed in [[Blood|blood]] All on a heap, like to a slaughtered [[Lamb|lamb]], In this detested, dark, [[Blood|blood]]-drinking pit. |
+| QUINTUS | If it be dark how dost thou know ’tis he? |
+| MARTIUS | Upon his bloody finger he doth wear A precious ring that lightens all this hole, Which like a taper in some monument Doth shine upon the dead man’s earthy cheeks And shows the ragged entrails of this pit. So pale did shine the [[Moon|moon]] on Pyramus When he by [[Night|night]] lay bathed in maiden [[Blood|blood]]. O brother, help me with thy fainting hand— If [[Fear|fear]] hath made thee faint, as me it hath— Out of this fell devouring receptacle, As hateful as Cocytus’ misty mouth. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--07_exchange_quintus" data-title="Titus Andronicus — Act II, Scene 3 — exchange (QUINTUS) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| QUINTUS | Reach me thy hand, that I may help thee out, Or, wanting strength to do thee so much good, I may be plucked into the swallowing womb Of this deep pit, poor [[Bassianus]]’ [[Grave|grave]]. I have no strength to pluck thee to the brink, |
+| MARTIUS | Nor I no strength to climb without thy help. |
+| QUINTUS | Thy hand once more, I will not loose again Till thou art here aloft or I below. Thou canst not come to me; I come to thee. He falls into the pit. |
+| *(didascalia)* | Enter [[Saturninus]] the Emperor with attendants, |
+| QUINTUS | and [[Aaron]] the Moor |
+| [[Saturninus|SATURNINUS]] | Along with me! I’ll see what hole is here, And what he is that now is leapt into it. He speaks into the pit Say, who art thou that lately didst descend Into this gaping hollow of the earth? |
+| MARTIUS | The unhappy sons of old Andronicus, Brought hither in a most unlucky hour To find thy brother [[Bassianus]] dead. |
+| [[Saturninus|SATURNINUS]] | My brother dead! I know thou dost but jest. He and his lady both are at the lodge Upon the north side of this pleasant chase. ‘Tis not an hour since I left them there. |
+| MARTIUS | We know not where you left them all alive, But, out alas, here have we found him dead! Enter [[Tamora]], [[Titus Andronicus]], and [[Lucius]] |
+| [[Tamora|TAMORA]] | Where is my lord the [[King]]? |
+| [[Saturninus|SATURNINUS]] | Here, [[Tamora]], though gripped with killing grief. |
+| [[Tamora|TAMORA]] | Where is thy brother [[Bassianus]]? |
+| [[Saturninus|SATURNINUS]] | Now to the [[Bottom|bottom]] dost thou search my wound. Poor [[Bassianus]] here lies murdered. |
+| [[Tamora|TAMORA]] | Then all too late I bring this fatal writ, The complot of this timeless [[Tragedy|tragedy]], And [[Wonder|wonder]] greatly that man’s face can fold In pleasing smiles such murderous tyranny. She giveth Saturnine a letter |
+| [[Saturninus|SATURNINUS]] | (reads) ‘An if we miss to meet him handsomely, Sweet huntsman—[[Bassianus]] ’tis we mean— Do thou so much as dig the [[Grave|grave]] for him. Thou know‘st our meaning. Look for thy reward Among the nettles at the elder tree Which overshades the mouth of that same pit Where we decreed to bury [[Bassianus]]. Do this, and purchase us thy lasting friends.’ O [[Tamora]], was ever heard the like! This is the pit, and this the elder tree. Look, sirs, if you can find the huntsman out That should have murdered [[Bassianus]] here. |
+| [[Aaron|AARON]] | My gracious lord, here is the bag of gold. |
+| [[Saturninus|SATURNINUS]] | (to Titus) Two of thy whelps, fell curs of bloody kind, Have here bereft my brother of his life. Sirs, drag them from the pit unto the [[Prison|prison]]. There let them bide until we have devised Some never-heard-of torturing [[Pain|pain]] for them. |
+| [[Tamora|TAMORA]] | What, are they in this pit? O wondrous thing! How easily murder is discovered! Attendants drag Quintus, Martius, and [[Bassianus]]’ |
+| [[Tamora|TAMORA]] | [[Body|body]] from the pit |
+| TITUS | (kneeling) High Emperor, upon my feeble knee I beg this boon with [[Tears|tears]] not lightly shed: That this fell fault of my accursed sons— Accursed if the fault be proved in them— |
+| [[Saturninus|SATURNINUS]] | If it be proved? You see it is apparent. Who found this letter? [[Tamora]], was it you? |
+| [[Tamora|TAMORA]] | Andronicus himself did take it up. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--08_exchange_titus" data-title="Titus Andronicus — Act II, Scene 3 — exchange (TITUS) [8]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| TITUS | I did, my lord, yet let me be their bail, For by my father’s reverend tomb I vow They shall be ready at your highness’ will To answer their suspicion with their lives. |
+| [[Saturninus|SATURNINUS]] | Thou shalt not bail them. See thou follow me. Some bring the murdered [[Body|body]], some the murderers. Let them not speak a word—the [[Guilt|guilt]] is plain; For by my [[Soul|soul]], were there worse end than [[Death|death]] That end upon them should be executed. Exit |
+| [[Tamora|TAMORA]] | Andronicus, I will entreat the [[King]]. [[Fear]] not thy sons, they shall do [[Well|well]] enough. |
+| TITUS | rising Come, [[Lucius]], come, stay not to talk with them. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Titus Andronicus — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Judges, Tribunes, and Senators with Titus’ two sons, Martius and Quintus, bound, passing over the stage to the place of execution, and Titus going before, pleading |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--02_monologue_titus" data-title="Titus Andronicus — Act III, Scene 1 — monologue (TITUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| TITUS | Hear me, [[Grave|grave]] fathers; noble Tribunes, stay. For pity of mine age, whose youth was spent In dangerous wars whilst you securely slept; For all my [[Blood|blood]] in Rome’s great quarrel shed; For all the frosty nights that I have watched, And for these bitter [[Tears|tears]] which now you see Filling the agèd wrinkles in my cheeks, Be pitiful to my condemned sons, Whose souls is not corrupted as ’tis thought. For two-and-twenty sons I never wept, Because they died in [[Honour|honour]]’s lofty bed. Andronicus lieth down, and the Judges pass by him For these two, Tribunes, in the [[Dust|dust]] I write My heart’s deep languor and my [[Soul|soul]]’s sad [[Tears|tears]]. Let my [[Tears|tears]] stanch the earth’s dry appetite; My sons’ sweet [[Blood|blood]] will make it shame and blush. Exeunt all but Titus O earth, I will befriend thee more with rain That shall distil from these two ancient ruins Than youthful April shall with all his showers. In [[Summer|summer]]’s drought I’ll drop upon thee still. In [[Winter|winter]] with warm [[Tears|tears]] I’ll melt the [[Snow|snow]] And keep eternal springtime on thy face, So thou refuse to drink my dear sons’ [[Blood|blood]]. Enter [[Lucius]] with his weapon drawn Oreverend Tribunes, O gentle, aged men, Unbind my sons, reverse the doom of [[Death|death]], And let me say, that never wept before, My [[Tears|tears]] are now prevailing orators! |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--03_exchange_lucius" data-title="Titus Andronicus — Act III, Scene 1 — exchange (LUCIUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Lucius|LUCIUS]] | O noble father, you lament in vain. The Tribunes hear you not. No man is by, And you recount your sorrows to a stone. |
+| TITUS | Ah [[Lucius]], for thy brothers let me plead. [[Grave]] Tribunes, once more I entreat of you— |
+| [[Lucius|LUCIUS]] | My gracious lord, no tribune hears you speak. |
+| TITUS | Why, ‘tis no matter, man. If they did hear, They would not mark me; if they did mark, They would not pity me; yet plead I must. Therefore I tell my sorrows to the stones, Who, though they cannot answer my distress, Yet in some sort they are better than the Tribunes For that they will not intercept my tale. When I do weep they humbly at my feet Receive my [[Tears|tears]] and seem to weep with me, And were they but attired in [[Grave|grave]] weeds Rome could afford no tribunes like to these. A stone is soft as wax, tribunes more hard than stones. A stone is silent and offendeth not, And tribunes with their tongues doom men to [[Death|death]]. But wherefore stand’st thou with thy weapon drawn? |
+| [[Lucius|LUCIUS]] | To rescue my two brothers from their [[Death|death]], For which attempt the Judges have pronounced My everlasting doom of banishment. |
+| TITUS | rising O happy man, they have befriended thee! Why, foolish [[Lucius]], dost thou not perceive That Rome is but a wilderness of tigers? Tigers must prey, and Rome affords no prey But me and mine. How happy art thou then From these devourers to be banished! But who comes with our brother Marcus here? Enter Marcus with [[Lavinia]] |
+| MARCUS | Titus, prepare thy aged eyes to weep, Or if not so, thy noble heart to break. I bring consuming sorrow to thine age. |
+| TITUS | Will it consume me? Let me see it then. |
+| MARCUS | This was thy daughter. |
+| TITUS | Why, Marcus, so she is. |
+| [[Lucius|LUCIUS]] | (falling on his knees) Ay me, this object kills me. |
+| TITUS | Faint-hearted boy, arise and look upon her. [[Lucius]] rises Speak, [[Lavinia]], what accursed hand Hath made thee handless in thy father’s sight? What [[Fool|fool]] hath added [[Water|water]] to the sea, Or brought a faggot to bright-burning Troy? My grief was at the height before thou cam‘st, And now like Nilus it disdaineth bounds. Give me a [[Sword|sword]], I’ll chop off my hands too, For they have fought for Rome, and all in vain; And they have nursed this woe in feeding life; In bootless [[prayer]] have they been held up, And they have served me to effectless use. Now all the service I require of them Is that the one will help to cut the other. ’Tis [[Well|well]], [[Lavinia]], that thou hast no hands, For hands to do Rome service is but vain. |
+| [[Lucius|LUCIUS]] | Speak, gentle sister, who hath martyred thee. |
+| MARCUS | O, that delightful engine of her thoughts, That blabbed them with such pleasing eloquence, Is torn from forth that pretty hollow cage Where, like a sweet melodious bird, it sung Sweet varied notes, enchanting every ear. |
+| [[Lucius|LUCIUS]] | O, say thou for her, who hath done this deed? |
+| MARCUS | O, thus I found her, straying in the park, Seeking to hide herself, as doth the deer That hath received some unrecuring wound. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--04_monologue_titus" data-title="Titus Andronicus — Act III, Scene 1 — monologue (TITUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| TITUS | It was my dear, and he that wounded her Hath hurt me more than had he killed me dead; For now I stand as one upon a rock Environed with a wilderness of sea, Who marks the waxing tide grow wave by wave, Expecting ever when some envious surge Will in his brinish bowels [[Swallow|swallow]] him. This way to [[Death|death]] my wretched sons are gone. Here stands my other son, a banished man, And here my brother, weeping at my woes. But that which gives my [[Soul|soul]] the greatest spurn Is dear [[Lavinia]], dearer than my [[Soul|soul]]. Had I but seen thy picture in this plight It would have madded me. What shall I do Now I behold thy lively [[Body|body]] so? Thou hast no hands to wipe away thy [[Tears|tears]], Nor tongue to tell me who hath martyred thee. Thy husband he is dead, and for his [[Death|death]] Thy brothers are condemned and dead by this. Look, Marcus, ah, son [[Lucius]], look on her! When I did name her brothers, then fresh [[Tears|tears]] Stood on her cheeks, as doth the honey-dew Upon a gathered lily almost withered. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--05_exchange_marcus" data-title="Titus Andronicus — Act III, Scene 1 — exchange (MARCUS) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MARCUS | Perchance she weeps because they killed her husband; Perchance because she knows them [[Innocent|innocent]]. |
+| TITUS | If they did kill thy husband, then be joyful, Because the law hath ta’en [[Revenge|revenge]] on them. No, no, they would not do so foul a deed; Witness the sorrow that their sister makes. Gentle [[Lavinia]], let me kiss thy lips; Or make some sign how I may do thee ease. |
+| TITUS | Shall thy good uncle, and thy brother [[Lucius]], And thou, and I, sit round about some fountain, Looking all downwards to behold our cheeks How they are stained, like meadows yet not dry With miry slime left on them by a flood? And in the fountain shall we gaze so long Till the fresh taste be taken from that clearness, And made a brine pit with our bitter [[Tears|tears]]? Or shall we cut away our hands like thine? Or shall we bite our tongues, and in dumb shows Pass the remainder of our hateful days? What shall we do? Let us that have our tongues Plot some device of further misery, To make us wondered at in [[Time|time]] to come. |
+| [[Lucius|LUCIUS]] | Sweet father, cease your [[Tears|tears]], for at your grief See how my wretched sister sobs and weeps. |
+| MARCUS | Patience, dear niece. Good Titus, dry thine eyes. |
+| TITUS | Ah, Marcus, Marcus, brother, [[Well|well]] I wot Thy napkin cannot drink a tear of mine, For thou, poor man, hast drowned it with thine own. |
+| [[Lucius|LUCIUS]] | Ah, my [[Lavinia]], I will wipe thy cheeks. |
+| TITUS | Mark, Marcus, mark. I understand her signs. Had she a tongue to speak, now would she say That to her brother which I said to thee. His napkin with his true [[Tears|tears]] all bewet Can do no service on her sorrowful cheeks. O, what a sympathy of woe is this— As far from help as limbo is from bliss. Enter [[Aaron]] the Moor, [[Alone|alone]] |
+| [[Aaron|AARON]] | [[Titus Andronicus]], my lord the Emperor Sends thee this word: that, if thou [[Love|love]] thy sons, Let Marcus, [[Lucius]] or thyself, old Titus, Or any one of you, chop off your hand And send it to the [[King]]. He for the same Will send thee hither both thy sons alive, And that shall be the ransom for their fault. |
+| TITUS | O gracious Emperor! O gentle [[Aaron]], Did ever raven sing so like a lark That gives sweet tidings of the sun’s uprise? With all my heart I’ll send the Emperor my hand. Good [[Aaron]], wilt thou help to chop it off? |
+| [[Lucius|LUCIUS]] | Stay, father, for that noble hand of thine, That hath thrown down so many enemies, Shall not be sent. My hand will serve the turn. My youth can better spare my [[Blood|blood]] than you, And therefore mine shall save my brothers’ lives. |
+| MARCUS | Which of your hands hath not defended Rome And reared aloft the bloody battleaxe, Writing destruction on the enemy’s [[Castle|castle]]? O, none of both but are of high [[Desert|desert]]. My hand hath been but idle; let it serve To ransom my two nephews from their [[Death|death]], Then have I kept it to a worthy end. |
+| [[Aaron|AARON]] | Nay, come, agree whose hand shall go along, For [[Fear|fear]] they die before their pardon come. |
+| MARCUS | My hand shall go. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--06_exchange_lucius" data-title="Titus Andronicus — Act III, Scene 1 — exchange (LUCIUS) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Lucius|LUCIUS]] | By heaven it shall not go. |
+| TITUS | Sirs, strive no more. Such withered herbs as these Are meet for plucking up, and therefore mine. |
+| [[Lucius|LUCIUS]] | Sweet father, if I shall be thought thy son, Let me redeem my brothers both from [[Death|death]]. |
+| MARCUS | And for our father’s sake and mother’s care, Now let me show a brother’s [[Love|love]] to thee. |
+| TITUS | Agree between you. I will spare my hand. |
+| [[Lucius|LUCIUS]] | Then I’ll go fetch an axe. |
+| MARCUS | But I will use the axe. Exeunt [[Lucius]] and Marcus |
+| TITUS | Come hither, [[Aaron]]. I’ll deceive them both. Lend me thy hand, and I will give thee mine. |
+| [[Aaron|AARON]] | (aside) If that be called deceit, I will be honest And never whilst I live deceive men so. But I’ll deceive you in another sort, And that you’ll say ere half an hour pass. He cuts off Titus’ hand. |
+| *(didascalia)* | Enter [[Lucius]] and Marcus again |
+| TITUS | Now stay your strife. What shall be is dispatched. Good [[Aaron]], give his majesty my hand. Tell him it was a hand that warded him From thousand dangers; bid him bury it. More hath it merited; that let it have. As for my sons, say I account of them As jewels purchased at an easy price, And yet dear too, because I bought mine own. |
+| [[Aaron|AARON]] | I go, Andronicus; and for thy hand Look by and by to have thy sons with thee. (Aside) Their heads, I mean. O, how this villainy Doth fat me with the very thoughts of it! Let fools do good, and fair men call for grace: [[Aaron]] will have his [[Soul|soul]] black like his face. Exit |
+| TITUS | O, here I lift this one hand up to heaven And bow this feeble ruin to the earth. He kneels If any power pities wretched [[Tears|tears]], To that I call. (To [[Lavinia]], who kneels) What, wouldst thou kneel with me? Do then, dear heart; for heaven shall hear our prayers, Or with our sighs we’ll breathe the welkin dim And stain the sun with fog, as sometime clouds When they do hug him in their melting bosoms. |
+| MARCUS | O brother, speak with possibility, And do not break into these deep extremes. |
+| TITUS | Is not my sorrows deep, having no [[Bottom|bottom]]? Then be my passions bottomless with them. |
+| MARCUS | But yet let reason govern thy lament. |
+| TITUS | If there were reason for these miseries, Then into limits could I bind my woes. When heaven doth weep, doth not the earth o‘erflow? If the winds rage, doth not the sea wax mad, Threat’ning the welkin with his big-swoll’n face? And wilt thou have a reason for this coil? I am the sea. Hark how her sighs doth blow. She is the weeping welkin, I the earth. Then must my sea be moved with her sighs, Then must my earth with her continual [[Tears|tears]] Become a [[deluge]] overflowed and drowned, Forwhy my bowels cannot hide her woes, But like a drunkard must I vomit them. Then give me leave, for losers will have leave To ease their stomachs with their bitter tongues. Enter a Messenger with two heads and a hand |
+| MESSENGER | Worthy Andronicus, ill art thou repaid For that good hand thou sent’st the Emperor. Here are the heads of thy two noble sons, And here’s thy hand in scorn to thee sent back— Thy grief their sports, thy resolution mocked, That woe is me to think upon thy woes More than remembrance of my father’s [[Death|death]]. He sets down the heads and hand. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--07_exchange_marcus" data-title="Titus Andronicus — Act III, Scene 1 — exchange (MARCUS) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MARCUS | Now let hot Etna cool in Sicily, And be my heart an ever-burning hell. These miseries are more than may be borne. To weep with them that weep doth ease some deal, But sorrow flouted at is [[Double|double]] [[Death|death]]. |
+| [[Lucius|LUCIUS]] | Ah, that this sight should make so deep a wound And yet detested life not shrink thereat— That ever [[Death|death]] should let life bear his name Where life hath no more interest but to breathe! [[Lavinia]] kisses Titus |
+| MARCUS | Alas, poor heart, that kiss is comfortless As frozen [[Water|water]] to a starved snake. |
+| TITUS | When will this fearful slumber have an end? |
+| MARCUS | Now farewell, flatt’ry; die, Andronicus. Thou dost not slumber. See thy two sons’ heads, Thy warlike hand, thy mangled daughter here, Thy other banished son with this dear sight Struck pale and bloodless, and thy brother, I, Even like a stony image, cold and numb. Ah, now no more will I control thy griefs. Rend off thy silver hair, thy other hand Gnawing with thy teeth, and be this dismal sight The closing up of our most wretched eyes. Now is a [[Time|time]] to [[Storm|storm]]. Why art thou still? |
+| TITUS | Ha, ha, ha! |
+| MARCUS | Why dost thou laugh? It fits not with this hour. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--08_monologue_titus" data-title="Titus Andronicus — Act III, Scene 1 — monologue (TITUS) [8]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| TITUS | Why, I have not another tear to shed. Besides, this sorrow is an enemy, And would usurp upon my wat’ry eyes And make them blind with tributary [[Tears|tears]]. Then which way shall I find [[Revenge]]’s [[Cave|cave]]?— For these two heads do seem to speak to me And threat me I shall never come to bliss Till all these mischiefs be returned again Even in their throats that hath committed them. Come, let me see what task I have to do. He and [[Lavinia]] rise You heavy people, circle me about, That I may turn me to each one of you And swear unto my [[Soul|soul]] to right your wrongs. Marcus, [[Lucius]], and [[Lavinia]] circle Titus. He |
+| TITUS | pledges them The vow is made. Come, brother, take a head, And in this hand the other will I bear. And [[Lavinia]], thou shalt be employed. Bear thou my hand, sweet wench, between thine arms. As for thee, boy, go get thee from my sight. Thou art an [[Exile|exile]] and thou must not stay. Hie to the Goths, and raise an army there, And if ye [[Love|love]] me, as I think you do, Let’s kiss and part, for we have much to do. They kiss. Exeunt all but [[Lucius]] |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--09_exchange_lucius" data-title="Titus Andronicus — Act III, Scene 1 — exchange (LUCIUS) [9]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Lucius|LUCIUS]] | Farewell, Andronicus, my noble father, The woefull‘st man that ever lived in Rome. Farewell, proud Rome, till [[Lucius]] come again; He loves his pledges dearer than his life. Farewell, [[Lavinia]], my noble sister: O, would thou wert as thou tofore hast been! But now nor [[Lucius]] nor [[Lavinia]] lives But in oblivion and hateful griefs. If [[Lucius]] live he will requite your wrongs And make proud Saturnine and his empress Beg at the gates like [[Tarquin]] and his [[Queen|queen]]. Now will I to the Goths and raise a power, To be revenged on Rome and Saturnine. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="Titus Andronicus — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Lucius]]’ son and [[Lavinia]] running after him, and the boy flies from her with his books under his arm. Enter Titus and Marcus |
+| YOUNG [[Lucius|LUCIUS]] | Help, grandsire, help! My aunt [[Lavinia]] Follows me everywhere, I know not why. Good uncle Marcus, see how swift she comes. Alas, sweet aunt, I know not what you mean. He drops his books |
+| MARCUS | Stand by me, [[Lucius]]. Do not [[Fear|fear]] thine aunt. |
+| TITUS | She loves thee, boy, too [[Well|well]] to do thee harm. |
+| YOUNG [[Lucius|LUCIUS]] | Ay, when my father was in Rome she did. |
+| MARCUS | What means my niece [[Lavinia]] by these signs? |
+| TITUS | [[Fear]] her not, [[Lucius]]; somewhat doth she mean. MARCUS See, [[Lucius]], see how much she makes of thee. Somewhither would she have thee go with her. Ah, boy, Cornelia never with more care Read to her sons than she hath read to thee Sweet poetry and Tully’s Orator. Canst thou not guess wherefore she plies thee thus? |
+| YOUNG [[Lucius|LUCIUS]] | My lord, I know not, I, nor can I guess, Unless some fit or frenzy do possess her; For I have heard my grandsire say full oft Extremity of griefs would make men mad, And I have read that Hecuba of Troy Ran mad for sorrow. That made me to [[Fear|fear]], Although, my lord, I know my noble aunt Loves me as dear as e’er my mother did, And would not but in fury fright my youth, Which made me down to throw my books and fly, Causeless, perhaps. But pardon me, sweet aunt; And, madam, if my uncle Marcus go I will most willingly attend your ladyship. |
+| MARCUS | [[Lucius]], I will. [[Lavinia]] turns the books over with her stumps |
+| TITUS | How now, [[Lavinia]]? Marcus, what means this? Some book there is that she desires to see. Which is it, girl, of these?-Open them, boy. (To [[Lavinia]]) But thou art deeper read and better skilled. Come and take choice of all my library, And so beguile thy sorrow till the heavens Reveal the damned contriver of this deed.— Why lifts she up her arms in sequence thus? |
+| MARCUS | I think she means that there were more than one Confederate in the fact. Ay, more there was, Or else to heaven she heaves them for [[Revenge|revenge]]. |
+| TITUS | [[Lucius]], what book is that she tosseth so? |
+| YOUNG [[Lucius|LUCIUS]] | Grandsire, ’tis Ovid’s Metamorphoses. |
+| YOUNG [[Lucius|LUCIUS]] | My mother gave it me. |
+| MARCUS | For [[Love|love]] of her that’s gone, Perhaps, she culled it from among the rest. |
+| TITUS | Soft, so busily she turns the [[Leaves|leaves]]. Help her. What would she find? [[Lavinia]], shall I read? This is the tragic tale of Philomel, And treats of Tereus’ treason and his rape, And rape, I [[Fear|fear]], was root of thy annoy. |
+| MARCUS | See, brother, see. Note how she quotes the [[Leaves|leaves]]. |
+| TITUS | [[Lavinia]], wert thou thus surprised, sweet girl, Ravished and wronged as Philomela was, Forced in the ruthless, vast, and gloomy woods? See, see. Ay, such a place there is where we did hunt— O, had we never, never hunted there!— Patterned by that the poet here describes, By [[Nature|nature]] made for murders and for rapes. |
+| MARCUS | O, why should [[Nature|nature]] build so foul a den, Unless the gods delight in tragedies? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--02_exchange_titus" data-title="Titus Andronicus — Act IV, Scene 1 — exchange (TITUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| TITUS | Give signs, sweet girl, for here are none but friends, What Roman lord it was durst do the deed. Or slunk not Saturnine, as [[Tarquin]] erst, That left the camp to sin in [[Lucrece]]’ bed? |
+| MARCUS | Sit down, sweet niece. Brother, sit down by me. They sit [[Apollo]], Pallas, Jove, or Mercury Inspire me, that I may this treason find. My lord, look here. Look here, [[Lavinia]]. This sandy plot is plain. Guide if thou canst This after me. He writes his name with his staff, and guides it |
+| MARCUS | with feet and mouth I here have writ my name Without the help of any hand at all. Cursed be that heart that forced us to this shift! Write thou, good niece, and here display at last What God will have discovered for [[Revenge|revenge]]. Heaven guide thy pen to print thy sorrows plain, That we may know the traitors and the [[Truth|truth]]. She takes the staff in her mouth, and guides it with |
+| *(didascalia)* | her stumps, and writes O, do ye read, my lord, what she hath writ? TITUS ‘Stuprum—Chiron—[[Demetrius]].’ |
+| MARCUS | What, what!—The lustful sons of [[Tamora]] Performers of this heinous bloody deed? |
+| TITUS | Magni dominator poli, |
+| TITUS | Tam lentus audis scelera, tam lentus vides? |
+| MARCUS | O, calm thee, gentle lord, although I know There is enough written upon this earth To stir a mutiny in the mildest thoughts, And arm the minds of infants to exclaims. My lord, kneel down with me; [[Lavinia]], kneel; And kneel, sweet boy, the Roman [[Hector]]’s [[Hope|hope]], All kneel And swear with me—as, with the woeful fere And father of that chaste dishonoured dame Lord Junius [[Brutus]] sware for [[Lucrece]]’ rape— That we will prosecute by good advice Mortal [[Revenge|revenge]] upon these traitorous Goths, And see their [[Blood|blood]], or die with this reproach. They rise |
+| TITUS | ’Tis sure enough an you knew how, But if you hunt these bear-whelps, then beware. The dam will wake, and if she [[Wind|wind]] ye once She’s with the [[Lion|lion]] deeply still in league, And lulls him whilst she playeth on her back, And when he sleeps will she do what she list. You are a young huntsman, Marcus. Let [[Alone|alone]], And come, I will go get a leaf of brass And with a gad of steel will write these words, And lay it by. The angry northern [[Wind|wind]] Will blow these sands like Sibyl’s [[Leaves|leaves]] abroad, And where’s our lesson then? Boy, what say you? |
+| YOUNG [[Lucius|LUCIUS]] | I say, my lord, that if I were a man Their mother’s bedchamber should not be safe For these base bondmen to the yoke of Rome. |
+| MARCUS | Ay, that’s my boy! Thy father hath full oft For his ungrateful country done the like. |
+| YOUNG [[Lucius|LUCIUS]] | And, uncle, so will I, an if I live. |
+| TITUS | Come go with me into mine armoury. [[Lucius]], I’ll fit thee; and withal, my boy, Shall carry from me to the Empress’ sons Presents that I intend to send them both. Come, come, thou’lt do my message, wilt thou not? |
+| YOUNG [[Lucius|LUCIUS]] | Ay, with my dagger in their bosoms, grandsire. |
+| TITUS | No, boy, not so. I’ll teach thee another course. [[Lavinia]], come. Marcus, look to my [[house]]. [[Lucius]] and I’ll go brave it at the [[Court|court]]. Ay, marry, will we, sir, and we’ll be waited on. Exeunt all but Marcus |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--03_exchange_marcus" data-title="Titus Andronicus — Act IV, Scene 1 — exchange (MARCUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MARCUS | O heavens, can you hear a good man groan And not relent, or not compassion him? Marcus, attend him in his ecstasy, That hath more scars of sorrow in his heart Than foemen’s marks upon his battered shield, But yet so just that he will not [[Revenge|revenge]]. [[Revenge]] the heavens for old Andronicus! Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_2--01_exchange_dialogue" data-title="Titus Andronicus — Act IV, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Aaron]], Chiron, and [[Demetrius]] at one door, and at the other door young [[Lucius]] and another with a bundle of weapons, and verses writ upon them |
+| CHIRON | [[Demetrius]], here’s the son of [[Lucius]]. He hath some message to deliver us. |
+| [[Aaron|AARON]] | Ay, some mad message from his mad grandfather. |
+| YOUNG [[Lucius|LUCIUS]] | My lords, with all the humbleness I may I greet your honours from Andronicus (Aside) And pray the Roman gods confound you both. |
+| [[Demetrius|DEMETRIUS]] | Gramercy, lovely [[Lucius]]. What’s the news? |
+| YOUNG [[Lucius|LUCIUS]] | (aside) That you are both deciphered, that’s the news, For villains marked with rape. (Aloud) May it please you, My grandsire, [[Well|well]] advised, hath sent by me The goodliest weapons of his armoury To gratify your honourable youth, The [[Hope|hope]] of Rome, for so he bid me say; His attendant gives the weapons And so I do, and with his gifts present Your lordships that, whenever you have need, You may be armed and appointed [[Well|well]]; And so I leave you both (aside) like bloody villains. Exit with attendant |
+| [[Demetrius|DEMETRIUS]] | What’s here—a scroll, and written round about? Let’s see. ‘Integer vitae, scelerisque purus, |
+| [[Demetrius|DEMETRIUS]] | Non eget Mauri iaculis, nec arcu.’ |
+| CHIRON | O, ’tis a verse in Horace, I know it [[Well|well]]. I read it in the grammar long ago. |
+| [[Aaron|AARON]] | Ay, just, a verse in Horace; right, you have it. (Aside) Now what a thing it is to be an ass! Here’s no sound jest. The old man hath found their [[Guilt|guilt]], And sends them weapons wrapped about with lines That wound beyond their feeling to the quick. But were our witty Empress [[Well|well]] afoot She would applaud Andronicus’ conceit. But let her rest in her unrest a while. (To Chiron and [[Demetrius]]) |
+| [[Aaron|AARON]] | And now, young lords, was’t not a happy star Led us to Rome, strangers and, more than so, Captives, to be advanced to this height? It did me good before the palace gate To brave the Tribune in his brother’s hearing. |
+| [[Demetrius|DEMETRIUS]] | But me more good to see so great a lord Basely insinuate and send us gifts. |
+| [[Aaron|AARON]] | Had he not reason, Lord [[Demetrius]]? Did you not use his daughter very friendly? |
+| [[Demetrius|DEMETRIUS]] | I would we had a thousand Roman dames At such a bay, by turn to serve our lust. |
+| CHIRON | A charitable wish, and full of [[Love|love]]. |
+| [[Aaron|AARON]] | Here lacks but your mother for to say amen. |
+| CHIRON | And that would she, for twenty thousand more. |
+| [[Demetrius|DEMETRIUS]] | Come, let us go and pray to all the gods For our beloved mother in her pains. |
+| [[Aaron|AARON]] | Pray to the devils; the gods have given us over. Trumpets sound |
+| [[Demetrius|DEMETRIUS]] | Why do the Emperor’s trumpets flourish thus? |
+| CHIRON | Belike for joy the Emperor hath a son. |
+| [[Demetrius|DEMETRIUS]] | Soft, who comes here? Enter [[Nurse]] with a blackamoor [[Child|child]] |
+| [[Nurse|NURSE]] | Good morrow, lords. O tell me, did you see [[Aaron]] the Moor? |
+| [[Aaron|AARON]] | [[Well]], more or less, or ne’er a whit at all, Here [[Aaron]] is; and what with [[Aaron]] now? |
+| [[Nurse|NURSE]] | O gentle [[Aaron]], we are all undone. Now help, or woe betide thee evermore! |
+| [[Aaron|AARON]] | Why, what a caterwauling dost thou keep! What dost thou wrap and fumble in thy arms? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_2--02_exchange_nurse" data-title="Titus Andronicus — Act IV, Scene 2 — exchange (NURSE) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Nurse|NURSE]] | O, that which I would hide from heaven’s eye, Our Empress’ shame and stately Rome’s disgrace. She is delivered, lords, she is delivered. |
+| [[Aaron|AARON]] | To whom? |
+| [[Nurse|NURSE]] | I mean she is brought abed. |
+| [[Aaron|AARON]] | [[Well]], God give her good rest. What hath he sent her? |
+| [[Nurse|NURSE]] | A devil. |
+| [[Aaron|AARON]] | Why then, she is the devil’s dam. A joyful issue! |
+| [[Nurse|NURSE]] | A joyless, dismal, black, and sorrowful issue. Here is the babe, as loathsome as a toad Amongst the fair-faced breeders of our clime. The Empress sends it thee, thy stamp, thy seal, And bids thee christen it with thy dagger’s point. |
+| [[Aaron|AARON]] | Zounds, ye whore, is black so base a hue? Sweet blowze, you are a beauteous blossom, sure. |
+| [[Demetrius|DEMETRIUS]] | [[Villain]], what hast thou done? |
+| [[Aaron|AARON]] | That which thou canst not undo. |
+| CHIRON | Thou hast undone our mother. [[Aaron|AARON]] [[Villain]], I have done thy mother. |
+| [[Demetrius|DEMETRIUS]] | And therein, hellish dog, thou hast undone her. Woe to her chance, and damned her loathed choice, Accursed the offspring of so foul a fiend. |
+| CHIRON | It shall not live. |
+| [[Aaron|AARON]] | It shall not die. |
+| [[Nurse|NURSE]] | [[Aaron]], it must; the mother wills it so. |
+| [[Aaron|AARON]] | What, must it, [[Nurse|nurse]]? Then let no man but I Do execution on my flesh and [[Blood|blood]]. |
+| [[Demetrius|DEMETRIUS]] | I’ll broach the tadpole on my rapier’s point. [[Nurse]], give it me. My [[Sword|sword]] shall soon dispatch it. |
+| [[Aaron|AARON]] | Sooner this [[Sword|sword]] shall plough thy bowels up. He takes the [[Child|child]] and draws his [[Sword|sword]] Stay, murderous villains, will you kill your brother? Now, by the burning tapers of the sky That shone so brightly when this boy was got, He dies upon my scimitar’s sharp point That touches this, my first-born son and heir. I tell you, younglings, not Enceladus With all his threat’ning band of Typhon’s brood, Nor great Alcides, nor the god of war Shall seize this prey out of his father’s hands. What, what, ye sanguine, shallow-hearted boys, Ye whitelimed walls, ye alehouse painted signs, Coal-black is better than another hue In that it scorns to bear another hue; For all the [[Water|water]] in the ocean Can never turn the swan’s black legs to white, Although she lave them hourly in the flood. Tell the Empress from me I am of age To keep mine own, excuse it how she can. |
+| [[Demetrius|DEMETRIUS]] | Wilt thou betray thy noble mistress thus? |
+| [[Aaron|AARON]] | My mistress is my mistress, this myself, The figure and the picture of my youth. This before all the world do I prefer; This maugre all the world will I keep safe, Or some of you shall smoke for it in Rome. no |
+| [[Demetrius|DEMETRIUS]] | By this our mother is for ever shamed. |
+| CHIRON | Rome will despise her for this foul escape. |
+| [[Nurse|NURSE]] | The Emperor in his rage will doom her [[Death|death]]. |
+| CHIRON | I blush to think upon this ignomy. |
+| [[Aaron|AARON]] | Why, there’s the privilege your [[Beauty|beauty]] bears. Fie, treacherous hue, that will betray with blushing The close enacts and counsels of thy heart. Here’s a young lad framed of another leer. Look how the black slave smiles upon the father, As who should say ‘Old lad, I am thine own.’ He is your brother, lords, sensibly fed Of that [[Self|self]] [[Blood|blood]] that first gave life to you, And from that womb where you imprisoned were He is enfranchised and come to light. Nay, he is your brother by the surer side, Although my seal be stamped in his face. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_2--03_exchange_nurse" data-title="Titus Andronicus — Act IV, Scene 2 — exchange (NURSE) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Nurse|NURSE]] | [[Aaron]], what shall I say unto the Empress? |
+| [[Demetrius|DEMETRIUS]] | Advise thee, [[Aaron]], what is to be done, And we will all subscribe to thy advice. Save thou the [[Child|child]], so we may all be safe. |
+| [[Aaron|AARON]] | Then sit we down, and let us all consult. My son and I will have the [[Wind|wind]] of you. Keep there; now talk at pleasure of your safety. They sit |
+| [[Demetrius|DEMETRIUS]] | (to the [[Nurse]]) How many women saw this [[Child|child]] of his? |
+| [[Aaron|AARON]] | Why, so, brave lords, when we do join in league I am a [[Lamb|lamb]]; but if you brave the Moor, The chafed boar, the mountain lioness, The ocean swells not so as [[Aaron]] storms. (To the [[Nurse]]) But say again, how many saw the [[Child|child]]? |
+| [[Nurse|NURSE]] | Cornelia the midwife, and myself, And no one else but the delivered Empress. |
+| [[Aaron|AARON]] | The Empress, the midwife, and yourself. Two may keep counsel when the third’s away. Go to the Empress, tell her this I said. He kills her ‘Wheak, wheak’—so cries a pig prepared to the spit. |
+| [[Demetrius|DEMETRIUS]] | What mean’st thou, [[Aaron]]? Wherefore didst thou this? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_2--04_monologue_aaron" data-title="Titus Andronicus — Act IV, Scene 2 — monologue (AARON) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Aaron|AARON]] | OLord, sir, ’tis a deed of policy. Shall she live to betray this [[Guilt|guilt]] of ours— A long-tongued, babbling gossip? No, lords, no. And now be it known to you my full intent. Not far, one Muliteus my countryman His wife but yesternight was brought to bed. His [[Child|child]] is like to her, fair as you are. Go pack with him, and give the mother gold, And tell them both the circumstance of all, And how by this their [[Child|child]] shall be advanced And be received for the Emperor’s heir, And substituted in the place of mine, To calm this tempest whirling in the [[Court|court]]; And let the Emperor dandle him for his own. Hark ye, lords, you see I have given her physic, And you must needs bestow her funeral. The fields are near, and you are gallant grooms. This done, see that you take no longer days, But send the midwife presently to me. The midwife and the [[Nurse|nurse]] [[Well|well]] made away, Then let the ladies tattle what they please. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_2--05_exchange_chiron" data-title="Titus Andronicus — Act IV, Scene 2 — exchange (CHIRON) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| CHIRON | [[Aaron]], I see thou wilt not trust the air With [[Secrets|secrets]]. |
+| [[Demetrius|DEMETRIUS]] | For this care of [[Tamora]], Herself and hers are highly bound to thee. Exeunt Chiron and [[Demetrius]] with the [[Nurse]]’s [[Body|body]] |
+| [[Aaron|AARON]] | Now to the Goths, as swift as [[Swallow|swallow]] flies, There to dispose this treasure in mine arms And secretly to greet the Empress’ friends. Come on, you thick-lipped slave, I’ll bear you hence, For it is you that puts us to our shifts. I’ll make you feed on berries and on roots, And fat on curds and whey, and suck the goat, And cabin in a [[Cave|cave]], and bring you up To be a warrior and command a camp. Exit with the [[Child|child]] |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="Titus Andronicus — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish. Enter [[Lucius]] with an army of Goths, with drummers and soldiers |
+| [[Lucius|LUCIUS]] | Approved warriors and my faithful friends, I have received letters from great Rome Which signifies what hate they bear their emperor And how desirous of our sight they are. Therefore, great lords, be as your titles witness, Imperious, and impatient of your wrongs, And wherein Rome hath done you any scath Let him make treble satisfaction. |
+| *(didascalia)* | A |
+| GOTH | Brave slip sprung from the great Andronicus, Whose name was once our terror, now our comfort, Whose high exploits and honourable deeds Ingrateful Rome requites with foul contempt, Be bold in us. We’ll follow where thou lead’st, Like stinging [[Bees|bees]] in hottest [[Summer|summer]]’s day Led by their master to the flowered fields, And be avenged on cursed [[Tamora]]. |
+| GOTHS | And as he saith, so say we all with him. |
+| [[Lucius|LUCIUS]] | I humbly thank him, and I thank you all. But who comes here, led by a lusty Goth? Enter a Goth, leading of [[Aaron]] with his [[Child|child]] in his |
+| [[Lucius|LUCIUS]] | arms |
+| GOTH | Renowned [[Lucius]], from our troops I strayed To gaze upon a ruinous monastery, And as I earnestly did fix mine eye Upon the wasted building, suddenly I heard a [[Child|child]] cry underneath a wall. I made unto the noise, when soon I heard The crying babe controlled with this discourse: ‘Peace, tawny slave, half me and half thy dam! Did not thy hue bewray whose brat thou art, Had [[Nature|nature]] lent thee but thy mother’s look, [[Villain]], thou mightst have been an emperor. But where the bull and cow are both milk-white They never do beget a coal-black calf. Peace, [[Villain|villain]], peace!’—even thus he rates the babe— ‘For I must bear thee to a trusty Goth Who, when he knows thou art the Empress’ babe, Will hold thee dearly for thy mother’s sake.’ With this, my weapon drawn, I rushed upon him, Surprised him suddenly, and brought him hither To use as you think needful of the man. |
+| [[Lucius|LUCIUS]] | O worthy Goth, this is the incarnate devil That robbed Andronicus of his good hand. This is the pearl that pleased your Empress’ eye, And here’s the base fruit of her burning lust. (To [[Aaron]]) Say, wall-eyed slave, whither wouldst thou convey This growing image of thy fiendlike face? Why dost not speak? What, deaf? What, not a word? A halter, soldiers! Hang him on this tree, And by his side his fruit of bastardy. |
+| [[Aaron|AARON]] | Touch not the boy; he is of royal [[Blood|blood]]. |
+| [[Lucius|LUCIUS]] | Too like the sire for ever being good. First hang the [[Child|child]], that he may see it sprawl— A sight to vex the father’s [[Soul|soul]] withal. Get me a ladder. A Goth brings a ladder which [[Aaron]] climbs |
+| [[Aaron|AARON]] | [[Lucius]], save the [[Child|child]], And bear it from me to the Empress. If thou do this, I’ll show thee wondrous things That highly may advantage thee to hear. If thou wilt not, befall what may befall, I’ll speak no more but ‘Vengeance rot you all!’ |
+| [[Lucius|LUCIUS]] | Say on, and if it please me which thou speak’st Thy [[Child|child]] shall live, and I will see it nourished. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--02_exchange_aaron" data-title="Titus Andronicus — Act V, Scene 1 — exchange (AARON) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Aaron|AARON]] | And if it please thee? Why, assure thee, [[Lucius]], ’Twill vex thy [[Soul|soul]] to hear what I shall speak; For I must talk of murders, rapes, and massacres, Acts of black [[Night|night]], abominable deeds, Complots of mischief, treason, villainies Ruthful to hear yet piteously performed, And this shall all be buried in my [[Death|death]] Unless thou swear to me my [[Child|child]] shall live. |
+| [[Lucius|LUCIUS]] | Tell on thy mind. I say thy [[Child|child]] shall live. |
+| [[Aaron|AARON]] | Swear that he shall, and then I will begin. |
+| [[Lucius|LUCIUS]] | Who should I swear by? Thou believest no god. That granted, how canst thou believe an oath? |
+| [[Aaron|AARON]] | What if I do not?—as indeed I do not— Yet for I know thou art religious And hast a thing within thee called [[Conscience|conscience]], With twenty popish tricks and ceremonies Which I have seen thee careful to observe, Therefore I urge thy oath; for that I know An idiot holds his bauble for a god, And keeps the oath which by that god he swears, To that I’ll urge him, therefore thou shalt vow By that same god, what god soe’er it be, That thou adorest and hast in reverence, To save my boy, to [[Nurse|nurse]] and bring him up, Or else I will discover naught to thee. |
+| [[Lucius|LUCIUS]] | Even by my god I swear to thee I will. |
+| [[Aaron|AARON]] | First know thou I begot him on the Empress. |
+| LUCIIJS | O most insatiate and luxurious woman! |
+| [[Aaron|AARON]] | Tut, [[Lucius]], this was but a deed of [[Charity|charity]] To that which thou shalt hear of me anon. ’Twas her two sons that murdered [[Bassianus]]. They cut thy sister’s tongue, and ravished her, And cut her hands, and trimmed her as thou sawest. |
+| [[Lucius|LUCIUS]] | O detestable [[Villain|villain]]! Call’st thou that trimming? |
+| [[Aaron|AARON]] | Why, she was washed and cut and trimmed, and ’twas Trim sport for them which had the doing of it. |
+| [[Lucius|LUCIUS]] | O barbarous beastly villains, like thyself! |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--03_monologue_aaron" data-title="Titus Andronicus — Act V, Scene 1 — monologue (AARON) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Aaron|AARON]] | Indeed, I was their tutor to instruct them. That codding spirit had they from their mother, As sure a card as ever won the set. That bloody mind I think they learned of me, As true a dog as ever fought at head. [[Well]], let my deeds be witness of my worth. I trained thy brethren to that guileful hole Where the dead corpse of [[Bassianus]] lay. I wrote the letter that thy father found, And hid the gold within that letter mentioned, Confederate with the [[Queen]] and her two sons; And what not done that thou hast cause to rue Wherein I had no stroke of mischief in it? I played the cheater for thy father’s hand, And when I had it drew myself apart, And almost broke my heart with extreme laughter. I pried me through the crevice of a wall When for his hand he had his two sons’ heads, Beheld his [[Tears|tears]], and laughed so heartily That both mine eyes were rainy like to his; And when I told the Empress of this sport She swoonèd almost at my pleasing tale, And for my tidings gave me twenty kisses. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--04_exchange_a_goth" data-title="Titus Andronicus — Act V, Scene 1 — exchange (A GOTH) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A |
+| GOTH | What, canst thou say all this and never blush? |
+| [[Aaron|AARON]] | Ay, like a black dog, as the saying is. |
+| [[Lucius|LUCIUS]] | Art thou not sorry for these heinous deeds? |
+| [[Aaron|AARON]] | Ay, that I had not done a thousand more. Even now I curse the day—and yet I think Few come within the compass of my curse— Wherein I did not some notorious ill, As kill a man, or else devise his [[Death|death]]; Ravish a maid, or plot the way to do it; Accuse some [[Innocent|innocent]] and forswear myself; Set deadly enmity between two friends; Make poor men’s cattle break their necks; Set [[Fire|fire]] on barns and haystacks in the [[Night|night]], And bid the owners quench them with their [[Tears|tears]]. Oft have I digged up dead men from their graves And set them upright at their dear friends’ door, Even when their sorrows almost was forgot, And on their skins, as on the bark of trees, Have with my knife carved in Roman letters ‘Let not your sorrow die though I am dead.’ But I have done a thousand dreadful things As willingly as one would kill a fly, And nothing grieves me heartily indeed But that I cannot do ten thousand more. |
+| [[Lucius|LUCIUS]] | Bring down the devil, for he must not die So sweet a [[Death|death]] as hanging presently. Goths bring [[Aaron]] down the ladder |
+| [[Aaron|AARON]] | If there be devils, would I were a devil, To live and burn in everlasting [[Fire|fire]], So I might have your company in hell But to torment you with my bitter tongue. |
+| [[Lucius|LUCIUS]] | Sirs, stop his mouth, and let him speak no more. Goths gag [[Aaron]]. Enter Aemilius |
+| *(didascalia)* | A |
+| GOTH | My lord, there is a messenger from Rome Desires to be admitted to your presence. |
+| [[Lucius|LUCIUS]] | Let him come near. Welcome, Aemilius. What’s the news from Rome? |
+| AEMILIUS | Lord [[Lucius]], and you princes of the Goths, The Roman Emperor greets you all by me, And for he understands you are in arms, He craves a parley at your father’s [[house]], Willing you to demand your hostages, And they shall be immediately delivered. |
+| *(didascalia)* | A |
+| GOTH | What says our general? |
+| [[Lucius|LUCIUS]] | Aemilius, let the Emperor give his pledges Unto my father and my uncle Marcus, And we will come. Away! Flourish. Exeunt marching |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--01_exchange_dialogue" data-title="Titus Andronicus — Act V, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Tamora]] and Chiron and [[Demetrius]], her two sons, disguised |
+| [[Tamora|TAMORA]] | Thus, in this strange and sad habiliment, I will encounter with Andronicus And say I am [[Revenge]], sent from below To join with him and right his heinous wrongs. Knock at his study, where they say he keeps To ruminate strange plots of dire [[Revenge|revenge]]. Tell him [[Revenge]] is come to join with him And work confusion on his enemies. They knock, and Titus aloft opens his study door |
+| TITUS | Who doth molest my contemplation? Is it your trick to make me ope the door, That so my sad decrees may fly away And all my study be to no effect? You are deceived; for what I mean to do, See here, in bloody lines I have set down, And what is written shall be executed. |
+| [[Tamora|TAMORA]] | Titus, I am come to talk with thee. |
+| TITUS | No, not a word. How can I grace my talk, Wanting a hand to give it action? Thou hast the odds of me, therefore no more. |
+| [[Tamora|TAMORA]] | If thou didst know me thou wouldst talk with me. |
+| TITUS | I am not mad, I know thee [[Well|well]] enough; Witness this wretched stump, witness these crimson lines, Witness these trenches made by grief and care, Witness the tiring day and heavy [[Night|night]], Witness all sorrow that I know thee [[Well|well]] For our proud empress, mighty [[Tamora]]. Is not thy coming for my other hand? |
+| [[Tamora|TAMORA]] | Know, thou sad man, I am not [[Tamora]]. She is thy enemy, and I thy friend. I am [[Revenge]], sent from th’nfernal kingdom To ease the gnawing vulture of thy mind By working wreakful vengeance on thy foes. Come down, and welcome me to this world’s light. Confer with me of murder and of [[Death|death]]. There’s not a hollow [[Cave|cave]] or lurking-place, No vast obscurity or misty vale Where bloody murder or detested rape Can couch for [[Fear|fear]], but I will find them out, And in their ears tell them my dreadful name, [[Revenge]], which makes the foul offender quake. |
+| TITUS | Art thou [[Revenge]], and art thou sent to me To be a torment to mine enemies? |
+| [[Tamora|TAMORA]] | I am; therefore come down, and welcome me. |
+| TITUS | Do me some service ere I come to thee. Lo by thy side where Rape and Murder stands. Now give some surance that thou art [[Revenge]], Stab them, or tear them on thy chariot wheels, And then I’ll come and be thy wagoner, And whirl along with thee about the globe, Provide two proper palfreys, black as jet, To hale thy vengeful wagon swift away And find out murderers in their guilty caves. And when thy car is loaden with their heads I will dismount, and by thy wagon [[Wheel|wheel]] Trot like a servile footman all day long, Even from [[Hyperion]]’s rising in the east Until his very downfall in the sea; And day by day I’ll do this heavy task, So thou destroy Rapine and Murder there. |
+| [[Tamora|TAMORA]] | These are my ministers, and come with me. |
+| TITUS | Are they thy ministers? What are they called? |
+| [[Tamora|TAMORA]] | Rape and Murder, therefore called so ‘Cause they take vengeance of such kind of men. |
+| TITUS | Good Lord, how like the Empress’ sons they are, And you the Empress! But we worldly men Have miserable, mad, mistaking eyes. O sweet [[Revenge]], now do I come to thee, And if one arm’s embracement will content thee, I will embrace thee in it by and by. Exit aloft |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--02_exchange_tamora" data-title="Titus Andronicus — Act V, Scene 2 — exchange (TAMORA) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Tamora|TAMORA]] | This closing with him fits his lunacy. Whate’er I forge to feed his brainsick humours Do you uphold and maintain in your speeches, For now he firmly takes me for [[Revenge]], And being credulous in this mad thought I’ll make him send for [[Lucius]] his son, And whilst I at a banquet hold him sure I’ll find some cunning practice out of hand To scatter and disperse the giddy Goths, Or at the least make them his enemies. See, here he comes, and I must ply my theme. Enter Titus, below |
+| TITUS | Long have I been forlorn, and all for thee. Welcome, dread Fury, to my woeful [[house]]. Rapine and Murder, you are welcome, too. How like the Empress and her sons you are! [[Well]] are you fitted, had you but a Moor. Could not all hell afford you such a devil?— For [[Well|well]] I wot the Empress never wags But in her company there is a Moor, And would you represent our [[Queen]] aright It were convenient you had such a devil. But welcome as you are. What shall we do? |
+| [[Tamora|TAMORA]] | What wouldst thou have us do, Andronicus? |
+| [[Demetrius|DEMETRIUS]] | Show me a murderer, I’ll deal with him. |
+| CHIRON | Show me a [[Villain|villain]] that hath done a rape, And I am sent to be revenged on him. |
+| [[Tamora|TAMORA]] | Show me a thousand that hath done thee wrong, And I will be revenged on them all. |
+| TITUS | (to [[Demetrius]]) Look round about the wicked streets of Rome, And when thou find’st a man that’s like thyself, Good Murder, stab him; he’s a murderer. (To Chiron) Go thou with him, and when it is thy hap To find another that is like to thee, Good Rapine, stab him; he is a ravisher. (To [[Tamora]]) Go thou with them, and in the Emperor’s [[Court|court]] There is a [[Queen|queen]] attended by a Moor. [[Well]] shalt thou know her by thine own proportion, For up and down she doth resemble thee. I pray thee, do on them some violent [[Death|death]]; They have been violent to me and mine. |
+| [[Tamora|TAMORA]] | [[Well]] hast thou lessoned us. This shall we do; But would it please thee, good Andronicus, To send for [[Lucius]], thy thrice-valiant son, Who leads towards Rome a band of warlike Goths, And bid him come and banquet at thy [[house]]— When he is here, even at thy solemn feast, I will bring in the Empress and her sons, The Emperor himself, and all thy foes, And at thy [[Mercy|mercy]] shall they stoop and kneel, And on them shalt thou ease thy angry heart. What says Andronicus to this device? |
+| TITUS | Marcus, my brother! ’Tis sad Titus calls. Enter Marcus Go, gentle Marcus, to thy nephew [[Lucius]]. Thou shalt enquire him out among the Goths. Bid him repair to me, and bring with him Some of the chiefest princes of the Goths. Bid him encamp his soldiers where they are. Tell him the Emperor and the Empress too Feast at my [[house]], and he shall feast with them. This do thou for my [[Love|love]], and so let him, As he regards his aged father’s life. |
+| MARCUS | This will I do, and soon return again. Exit |
+| [[Tamora|TAMORA]] | Now will I hence about thy business, And take my ministers along with me. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--03_exchange_titus" data-title="Titus Andronicus — Act V, Scene 2 — exchange (TITUS) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| TITUS | Nay, nay, let Rape and Murder stay with me, Or else I’ll call my brother back again, And cleave to no [[Revenge|revenge]] but [[Lucius]]. |
+| [[Tamora|TAMORA]] | (aside to her sons) What say you, boys, will you abide with him Whiles I go tell my lord the Emperor How I have governed our determined jest? Yield to his [[Humour|humour]], smooth and speak him fair, And tarry with him till I turn again. |
+| TITUS | (aside) I knew them all, though they supposed me mad, And will o’erreach them in their own devices— A pair of cursed hell-hounds and their dam. |
+| [[Demetrius|DEMETRIUS]] | Madam, depart at pleasure. Leave us here. |
+| [[Tamora|TAMORA]] | Farewell, Andronicus. [[Revenge]] now goes To lay a complot to betray thy foes. |
+| TITUS | I know thou dost, and sweet [[Revenge]], farewell. Exit [[Tamora]] |
+| CHIRON | Tell us, old man, how shall we be employed? |
+| TITUS | Tut, I have work enough for you to do. Publius, come hither; Caius and [[Valentine]]. Enter Publius, Caius, and [[Valentine]] |
+| PUBLIUS | What is your will? |
+| TITUS | Know you these two? |
+| PUBLIUS | The Empress’ sons I take them—Chiron, [[Demetrius]]. |
+| TITUS | Fie, Publius, fie! Thou art too much deceived. The one is Murder, and Rape is the other’s name. And therefore bind them, gentle Publius; Caius and [[Valentine]], lay hands on them. Oft have you heard me wish for such an hour, And now I find it. Therefore bind them sure, And stop their mouths if they begin to cry. Exit |
+| CHIRON | Villains, forbear! We are the Empress’ sons. |
+| PUBLIUS | And therefore do we what we are commanded. Publius, Caius, and [[Valentine]] bind and gag Chiron |
+| PUBLIUS | and [[Demetrius]] Stop close their mouths. Let them not speak a word. Is he sure bound? Look that you bind them fast. Enter [[Titus Andronicus]] with a knife, and [[Lavinia]] |
+| PUBLIUS | with a basin |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--04_monologue_titus" data-title="Titus Andronicus — Act V, Scene 2 — monologue (TITUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| TITUS | Come, come, [[Lavinia]]. Look, thy foes are bound. Sirs, stop their mouths. Let them not speak to me, But let them hear what fearful words I utter. O villains, Chiron and [[Demetrius]]! Here stands the [[spring]] whom you have stained with mud, This goodly [[Summer|summer]] with your [[Winter|winter]] mixed. You killed her husband, and for that vile fault Two of her brothers were condemned to [[Death|death]], My hand cut off and made a merry jest, Both her sweet hands, her tongue, and that more dear Than hands or tongue, her spotless chastity, Inhuman traitors, you constrained and forced. What would you say if I should let you speak? Villains, for shame. You could not beg for grace. Hark, wretches, how I mean to martyr you. This one hand yet is left to cut your throats, Whiles that [[Lavinia]] ’tween her stumps doth hold The basin that receives your guilty [[Blood|blood]]. You know your mother means to feast with me, And calls herself [[Revenge]], and thinks me mad. Hark, villains, I will grind your bones to [[Dust|dust]], And with your [[Blood|blood]] and it I’ll make a paste, And of the paste a coffin I will rear, And make two pasties of your shameful heads, And bid that strumpet, your unhallowed dam, Like to the earth [[Swallow|swallow]] her own increase. This is the feast that I have bid her to, And this the banquet she shall surfeit on; For worse than Philomel you used my daughter, And worse than Progne I will be revenged. And now, prepare your throats. [[Lavinia]], come. Receive the [[Blood|blood]], and when that they are dead Let me go grind their bones to powder small, And with this hateful liquor temper it, And in that paste let their vile heads be baked. Come, come, be everyone officious To make this banquet, which I wish may prove More stern and bloody than the Centaurs’ feast. He cuts their throats So, now bring them in, for I’ll play the cook And see them ready against their mother comes. Exeunt carrying the bodies |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--01_exchange_dialogue" data-title="Titus Andronicus — Act V, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Lucius]], Marcus, and the Goths, with [[Aaron]], prisoner, and an attendant with his [[Child|child]] |
+| [[Lucius|LUCIUS]] | Uncle Marcus, since ’tis my father’s mind That I repair to Rome, I am content. |
+| *(didascalia)* | A |
+| GOTH | And ours with thine, befall what fortune will. |
+| [[Lucius|LUCIUS]] | Good uncle, take you in this barbarous Moor, This ravenous tiger, this accursed devil. Let him receive no sust’nance, fetter him Till he be brought unto the Empress’ face For testimony of her foul proceedings, And see the ambush of our friends be strong. I [[Fear|fear]] the Emperor means no good to us. |
+| [[Aaron|AARON]] | Some devil whisper curses in my ear And prompt me, that my tongue may utter forth The venomous malice of my swelling heart. |
+| [[Lucius|LUCIUS]] | Away, inhuman dog, unhallowed slave! Sirs, help our uncle to convey him in. Exeunt Goths with [[Aaron]] and his [[Child|child]] Flourish The trumpets show the Emperor is at hand. Enter [[Saturninus]] the Emperor, and [[Tamora]] the |
+| [[Lucius|LUCIUS]] | Empress, with Aemilius, Tribunes, Senators, and |
+| [[Lucius|LUCIUS]] | others |
+| [[Saturninus|SATURNINUS]] | What, hath the firmament more suns than one? |
+| [[Lucius|LUCIUS]] | What boots it thee to call thyself a sun? |
+| MARCUS | Rome’s emperor and nephew, break the parle. These quarrels must be quietly debated. The feast is ready which the careful Titus Hath ordained to an honourable end, For peace, for [[Love|love]], for league, and good to Rome. Please you therefore draw nigh, and take your places. |
+| [[Saturninus|SATURNINUS]] | Marchs, we will. Hautboys. A table brought in. They sit. |
+| *(didascalia)* | Enter Titus like a cook, placing the dishes, and |
+| *(didascalia)* | [[Lavinia]] with a veil over her face; young [[Lucius]], |
+| *(didascalia)* | and others |
+| TITUS | Welcome, my gracious lord; welcome, dread [[Queen]]; Welcome, ye warlike Goths; welcome, [[Lucius]]; And welcome, all. Although the cheer be poor, ‘Twill fill your stomachs. Please you, eat of it. |
+| [[Saturninus|SATURNINUS]] | Why art thou thus attired, Andronicus? |
+| TITUS | Because I would be sure to have all [[Well|well]] To entertain your highness and your Empress. |
+| [[Tamora|TAMORA]] | We are beholden to you, good Andronicus. |
+| TITUS | An if your highness knew my heart, you were. My lord the Emperor, resolve me this: Was it [[Well|well]] done of rash Virginius To slay his daughter with his own right hand Because she was enforced, stained, and deflowered? |
+| [[Saturninus|SATURNINUS]] | It was, Andronicus. |
+| TITUS | Your reason, mighty lord? |
+| [[Saturninus|SATURNINUS]] | Because the girl should not survive her shame, And by her presence still renew his sorrows. |
+| TITUS | A reason mighty, strong, effectual; A pattern, precedent, and lively warrant For me, most wretched, to perform the like. Die, die, [[Lavinia]], and thy shame with thee, And with thy shame thy father’s sorrow die. He kills her |
+| [[Saturninus|SATURNINUS]] | What hast thou done, unnatural and unkind? |
+| TITUS | Killed her for whom my [[Tears|tears]] have made me blind. I am as woeful as Virginius was, And have a thousand times more cause than he To do this outrage, and it now is done. |
+| [[Saturninus|SATURNINUS]] | What, was she ravished? Tell who did the deed. |
+| TITUS | Will’t please you eat? Will’t please your highness feed? |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--02_exchange_tamora" data-title="Titus Andronicus — Act V, Scene 3 — exchange (TAMORA) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Tamora|TAMORA]] | Why hast thou slain thine only daughter thus? |
+| TITUS | Not I, ‘twas Chiron and [[Demetrius]]. They ravished her, and cut away her tongue, And they, ’twas they, that did her all this wrong. |
+| [[Saturninus|SATURNINUS]] | Go, fetch them hither to us presently. |
+| TITUS | revealing the heads Why, there they are, both baked in this pie, Whereof their mother daintily hath fed, Eating the flesh that she herself hath bred. ‘Tis true, ’tis true, witness my knife’s sharp point. He stabs the Empress |
+| [[Saturninus|SATURNINUS]] | Die, frantic wretch, for this accursed deed. He kills Titus |
+| [[Lucius|LUCIUS]] | Can the son’s eye behold his father bleed? There’s meed for meed, [[Death|death]] for a deadly deed. He kills [[Saturninus]]. Confusion follows. Enter Goths. [[Lucius]], Marcus and others go aloft |
+| MARCUS | You sad-faced men, people and sons of Rome, By uproars severed, as a flight of fowl Scattered by winds and high tempestuous gusts, O, let me teach you how to knit again This scattered corn into one mutual sheaf, These broken limbs again into one [[Body|body]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--03_monologue_a_roman_lord" data-title="Titus Andronicus — Act V, Scene 3 — monologue (A ROMAN LORD) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A |
+| ROMAN LORD | Let Rome herself be bane unto herself, And she whom mighty kingdoms curtsy to, Like a forlorn and desperate castaway, Do shameful execution on herself But if my frosty signs and chaps of age, [[Grave]] witnesses of true experience, Cannot induce you to attend my words. (To [[Lucius]]) Speak, Rome’s dear friend, as erst our ancestor When with his solemn tongue he did discourse To lovesick Dido’s sad-attending ear The story of that baleful-burning [[Night|night]] When subtle Greeks surprised [[King]] Priam’s Troy. Tell us what Sinon hath bewitched our ears, Or who hath brought the fatal engine in That gives our Troy, our Rome, the civil wound. My heart is not compact of flint nor steel, Nor can I utter all our bitter grief, But floods of [[Tears|tears]] will drown my oratory And break my utt’rance even in the [[Time|time]] When it should move ye to attend me most, And force you to commiseration. Here’s Rome’s young captain. Let him tell the tale, While I stand by and weep to hear him speak. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--04_monologue_lucius" data-title="Titus Andronicus — Act V, Scene 3 — monologue (LUCIUS) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Lucius|LUCIUS]] | Then, gracious auditory, be it known to you That Chiron and the damned [[Demetrius]] Were they that murdered our Emperor’s brother, And they it were that ravished our sister. For their fell faults our brothers were beheaded, Our father’s [[Tears|tears]] despised, and basely cozened Of that true hand that fought Rome’s quarrel out And sent her enemies unto the [[Grave|grave]]. Lastly myself, unkindly banished, The gates shut on me, and turned weeping out To beg relief among Rome’s enemies, Who drowned their enmity in my true [[Tears|tears]] And oped their arms to embrace me as a friend. I am the turned-forth, be it known to you, That have preserved her welfare in my [[Blood|blood]], And from her bosom took the enemy’s point, Sheathing the steel in my advent’rous [[Body|body]]. Alas, you know I am no vaunter, I. My scars can witness, dumb although they are, That my report is just and full of [[Truth|truth]]. But soft, methinks I do digress too much, Citing my worthless praise. O, pardon me, For when no friends are by, men praise themselves. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--05_exchange_marcus" data-title="Titus Andronicus — Act V, Scene 3 — exchange (MARCUS) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MARCUS | Now is my turn to speak. Behold the [[Child|child]]. Of this was [[Tamora]] delivered, The issue of an irreligious Moor, Chief architect and plotter of these woes. The [[Villain|villain]] is alive in Titus’ [[house]], And as he is to witness, this is true. Now judge what cause had Titus to [[Revenge|revenge]] These wrongs unspeakable, past patience, Or more than any living man could bear. Now have you heard the [[Truth|truth]]. What say you, Romans? Have we done aught amiss, show us wherein, And from the place where you behold us pleading The poor remainder of Andronici Will hand in hand all headlong hurl ourselves And on the ragged stones beat forth our souls And make a mutual closure of our [[house]]. Speak, Romans, speak, and if you say we shall; Lo, hand in hand [[Lucius]] and I will fall. |
+| AEMILIUS | Come, come, thou reverend man of Rome, And bring our emperor gently in thy hand, [[Lucius]], our emperor—for [[Well|well]] I know The common voice do cry it shall be so. |
+| ROMANS | [[Lucius]], all hail, Rome’s royal emperor! |
+| MARCUS | (to attendants) Go, go into old Titus’ sorrowful [[house]] And hither hale that misbelieving Moor To be adjudged some direful slaught’ring [[Death|death]] As punishment for his most wicked life. Exeunt some [[Lucius]], Marcus, and the others come down ROMANS [[Lucius]], all hail, Rome’s gracious governor! |
+| [[Lucius|LUCIUS]] | Thanks, gentle Romans. May I govern so To heal Rome’s harms and wipe away her woe. But, gentle people, give me aim awhile, For [[Nature|nature]] puts me to a heavy task. Stand all aloof, but, uncle, draw you near To shed obsequious [[Tears|tears]] upon this trunk. (Kissing Titus) O, take this warm kiss on thy pale cold lips, These sorrowful drops upon thy bloodstained face, The last true duties of thy noble son. |
+| MARCUS | (kissing Titus) Tear for tear, and loving kiss for kiss, Thy brother Marcus tenders on thy lips. O, were the sum of these that I should pay Countless and infinite, yet would I pay them. |
+| [[Lucius|LUCIUS]] | (to young [[Lucius]]) Come hither, boy, come, come, and learn of us To melt in showers. Thy grandsire loved thee [[Well|well]]. Many a [[Time|time]] he danced thee on his knee, Sung thee asleep, his loving breast thy pillow. Many a story hath he told to thee, And bid thee bear his pretty tales in mind, And talk of them when he was dead and gone. |
+| MARCUS | How many thousand times hath these poor lips, When they were living, warmed themselves on thine! O now, sweet boy, give them their latest kiss. Bid him farewell. Commit him to the [[Grave|grave]]. Do them that kindness, and take leave of them. |
+| YOUNG [[Lucius|LUCIUS]] | (kissing Titus) O grandsire, grandsire, ev’n with all my heart Would I were dead, so you did live again. O Lord, I cannot speak to him for weeping. My [[Tears|tears]] will choke me if I ope my mouth. Enter some with [[Aaron]] |
+| *(didascalia)* | A |
+| ROMAN | You sad Andronici, have done with woes. Give sentence on this execrable wretch That hath been breeder of these dire events. |
+| [[Lucius|LUCIUS]] | Set him breast-deep in earth and famish him. There let him stand, and rave, and cry for food. If anyone relieves or pities him, For the offence he dies. This is our doom. Some stay to see him fastened in the earth. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--06_exchange_aaron" data-title="Titus Andronicus — Act V, Scene 3 — exchange (AARON) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Aaron|AARON]] | Ah, why should wrath be mute and fury dumb? I am no baby, I, that with base prayers I should repent the evils I have done. Ten thousand worse than ever yet I did Would I perform if I might have my will. If one good deed in all my life I did I do repent it from my very [[Soul|soul]]. |
+| [[Lucius|LUCIUS]] | Some loving friends convey the Emperor hence, And give him burial in his father’s [[Grave|grave]]. My father and [[Lavinia]] shall forthwith Be closed in our household’s monument. As for that ravenous tiger, [[Tamora]], No funeral rite nor man in mourning weed, No mournful bell shall ring her burial; But throw her forth to beasts and [[Birds|birds]] to prey. Her life was beastly and devoid of pity, And being dead, let [[Birds|birds]] on her take pity. Exeunt with the bodies |
+| A. AFTER | 1.1.35 The following passage, found in the First Quarto following a comma after ‘field’ but not included in the Second or Third Quartos or the Folio, conflicts with the subsequent action and presumably should have been deleted. (In the second line, Q1 reads ’of that’ for ‘of the’.) and at this day To the monument of the Andronici Done sacrifice of expiation, And slain the noblest prisoner of the Goths. |
+| B. AFTER | 1.1.283 The following passage found in the quartos and the Folio is difficult to reconcile with the apparent need for [[Saturninus]] and his party to leave the stage at 275.1-2 before entering ‘above’ at 294.2-4. It is omitted from our text in the belief that Shakespeare intended it to be deleted after adding the episode of Mutius’ killing to his original draft, and that the printers of Q1 included it by accident. TITUS Treason, my lord! [[Lavinia]] is surprised. |
+| [[Saturninus|SATURNINUS]] | Surprised, by whom? |
+| [[Bassianus|BASSIANUS]] | By him that justly may Bear his betrothed from all the world away. |
+| C. AFTER | 4.3.93 The following lines, found in the early texts, appear to be a draft of the subsequent six lines. |
+| MARCUS | (to Titus) Why, sir, that is as fit as can be to serve for your oration, and let him deliver the pigeons to the Emperor from you. |
+| TITUS | (to the Clown) Tell me, can you deliver an oration to the Emperor with a grace? |
+| CLOWN | Nay, truly, sir, I could never say grace in all my life. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--07_monologue_in" data-title="Titus Andronicus — Act V, Scene 3 — monologue (IN) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| IN | narrative sequence, [[Richard III]] follows directly after [[Richard]] [[Duke of York]], and that play’s closing scenes, in which [[Richard]] of [[Gloucester]] expresses his ambitions for the [[Crown|crown]], suggest that Shakespeare had a sequel in mind. But he seems to have gone back to tell the beginning of the story of [[Henry VI]]’s reign before covering the events from [[Henry VI]]’s [[Death|death]] (in 1471) to the Battle of Bosworth (1485). We have no record of the first performance of [[Richard III]] (probably in late 1592 or early 1593, outside [[London]]); it was printed in 1597, with five reprints before its inclusion in the 1623 Folio. The principal source of information about [[Richard III]] available to Shakespeare was [[Sir Thomas More]]’s [[history|History]] of [[King]] [[Richard III]] as incorporated in chronicle histories by Edward Hall (1542) and Raphael Holinshed (1577, revised in 1587), both of which Shakespeare seems to have used. His artistic influences include the tragedies of the Roman dramatist Seneca (who was born about 4 BC and died in AD 65), with their [[Ghosts|ghosts]], their rhetorical style, their prominent choruses, and their indirect, highly formal presentation of violent events. (Except for the stabbing of [[Clarence]] (1.4) there is no on-stage violence in [[Richard III]] until the final battle scenes.) In this play, Shakespeare demonstrates a more complete artistic control of his historical material than in its predecessors: [[Richard]] himself is a more dominating central figure than is to be found in any of the earlier plays, historical events are freely manipulated in the interests of an overriding design, and the play’s language is more highly patterned and rhetorically unified. That part of the play which shows [[Richard]]’s bloody progress to the throne is based on the events of some twelve years; the remainder covers the two years of his reign. Shakespeare omits some important events, but invents [[Richard]]’s wooing of [[Lady Anne]] over her father-in-law’s coffin, and causes [[Queen Margaret]], who had returned to France in 1476 and who died before [[Richard]] became [[King|king]], to remain in England as a choric figure of grief and retribution. The characterization of [[Richard]] as a [[Self|self]]-delighting ironist builds upon More. The episodes in which the older women of the play—the Duchess of York, [[Queen Elizabeth]], and [[Queen Margaret]]—bemoan their losses, and the climactic procession of [[Ghosts|ghosts]] before the final confrontation of [[Richard]] with the idealized figure of Richmond, the future Henry VII, help to make [[Richard III]] the culmination of a tetralogy as [[Well|well]] as a masterly poetic drama in its own right. The final speech, in which Richmond, heir to the [[house]] of Lancaster and grandfather of [[Queen Elizabeth]] I, proclaims the [[Union|union]] of ‘the white [[Rose|rose]] and the red’ in his [[Marriage|marriage]] to Elizabeth of York, provides a patriotic climax which must have been immensely stirring to the play’s early audiences. Colley Cibber’s adaptation (1700) of [[Richard III]], incorporating the [[Death|death]] of [[Henry VI]], shortening and adapting the play, and making the central role (played by Cibber) even more dominant than it had originally been, held the stage with great [[success]] until the late nineteenth century. Since then, Shakespeare’s text has been restored (though usually abbreviated—next to [[Hamlet]], this is Shakespeare’s longest play), and the role of [[Richard]] has continued to present a rewarding challenge to leading actors. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--08_exchange_the_persons_of_the_play" data-title="Titus Andronicus — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [8]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY |
+
+
 
 
 <span class="atom-split" data-atom="titus_andronicus" data-title="TITUS ANDRONICUS" data-chapter="" data-kind="intro"></span>
@@ -1475,767 +2236,6 @@ Per Styga, per manes vehor. Exeunt
 | TITUS | (to the Clown) Tell me, can you deliver an oration to the Emperor with a grace? |
 | CLOWN | Nay, truly, sir, I could never say grace in all my life. |
 | IN | narrative sequence, [[Richard III]] follows directly after [[Richard]] [[Duke of York]], and that play’s closing scenes, in which [[Richard]] of [[Gloucester]] expresses his ambitions for the [[Crown|crown]], suggest that Shakespeare had a sequel in mind. But he seems to have gone back to tell the beginning of the story of [[Henry VI]]’s reign before covering the events from [[Henry VI]]’s [[Death|death]] (in 1471) to the Battle of Bosworth (1485). We have no record of the first performance of [[Richard III]] (probably in late 1592 or early 1593, outside [[London]]); it was printed in 1597, with five reprints before its inclusion in the 1623 Folio.<br>The principal source of information about [[Richard III]] available to Shakespeare was [[Sir Thomas More]]’s [[history|History]] of [[King]] [[Richard III]] as incorporated in chronicle histories by Edward Hall (1542) and Raphael Holinshed (1577, revised in 1587), both of which Shakespeare seems to have used. His artistic influences include the tragedies of the Roman dramatist Seneca (who was born about 4 BC and died in AD 65), with their [[Ghosts|ghosts]], their rhetorical style, their prominent choruses, and their indirect, highly formal presentation of violent events. (Except for the stabbing of [[Clarence]] (1.4) there is no on-stage violence in [[Richard III]] until the final battle scenes.)<br>In this play, Shakespeare demonstrates a more complete artistic control of his historical material than in its predecessors: [[Richard]] himself is a more dominating central figure than is to be found in any of the earlier plays, historical events are freely manipulated in the interests of an overriding design, and the play’s language is more highly patterned and rhetorically unified. That part of the play which shows [[Richard]]’s bloody progress to the throne is based on the events of some twelve years; the remainder covers the two years of his reign. Shakespeare omits some important events, but invents [[Richard]]’s wooing of [[Lady Anne]] over her father-in-law’s coffin, and causes [[Queen Margaret]], who had returned to France in 1476 and who died before [[Richard]] became [[King|king]], to remain in England as a choric figure of grief and retribution. The characterization of [[Richard]] as a [[Self|self]]-delighting ironist builds upon More. The episodes in which the older women of the play—the Duchess of York, [[Queen Elizabeth]], and [[Queen Margaret]]—bemoan their losses, and the climactic procession of [[Ghosts|ghosts]] before the final confrontation of [[Richard]] with the idealized figure of Richmond, the future Henry VII, help to make [[Richard III]] the culmination of a tetralogy as [[Well|well]] as a masterly poetic drama in its own right. The final speech, in which Richmond, heir to the [[house]] of Lancaster and grandfather of [[Queen Elizabeth]] I, proclaims the [[Union|union]] of ‘the white [[Rose|rose]] and the red’ in his [[Marriage|marriage]] to Elizabeth of York, provides a patriotic climax which must have been immensely stirring to the play’s early audiences.<br>Colley Cibber’s adaptation (1700) of [[Richard III]], incorporating the [[Death|death]] of [[Henry VI]], shortening and adapting the play, and making the central role (played by Cibber) even more dominant than it had originally been, held the stage with great [[success]] until the late nineteenth century. Since then, Shakespeare’s text has been restored (though usually abbreviated—next to [[Hamlet]], this is Shakespeare’s longest play), and the role of [[Richard]] has continued to present a rewarding challenge to leading actors. |
-| THE PERSONS OF THE | PLAY |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Titus Andronicus — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Aaron]] [[Alone|alone]], with gold |
-| [[Aaron|AARON]] | He that had wit would think that I had none, To bury so much gold under a tree And never after to inherit it. Let him that thinks of me so abjectly Know that this gold must coin a stratagem Which, cunningly effected, will beget A very excellent piece of villainy. And so repose, sweet gold, for their unrest That have their alms out of the Empress’ chest. He hides the gold. |
-| *(didascalia)* | Enter [[Tamora]] [[Alone|alone]] to the Moor |
-| [[Tamora|TAMORA]] | My lovely [[Aaron]], wherefore look‘st thou sad When everything doth make a gleeful boast? The [[Birds|birds]] chant melody on every bush, The snakes lies rolled in the cheerful sun, The green [[Leaves|leaves]] quiver with the cooling [[Wind|wind]] And make a chequered [[Shadow|shadow]] on the ground. Under their sweet shade, [[Aaron]], let us sit, And whilst the babbling echo mocks the hounds, Replying shrilly to the [[Well|well]]-tuned horns, As if a [[Double|double]] hunt were heard at once, Let us sit down and mark their yellowing noise, And after conflict such as was supposed The wand’ring prince and Dido once enjoyed When with a happy [[Storm|storm]] they were surprised, And curtained with a counsel-keeping [[Cave|cave]], We may, each wreathed in the other’s arms, Our pastimes done, possess a golden slumber Whiles hounds and horns and sweet melodious [[Birds|birds]] Be unto us as is a [[Nurse|nurse]]’s [[Song|song]] Of lullaby to bring her babe asleep. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--02_monologue_aaron" data-title="Titus Andronicus — Act II, Scene 3 — monologue (AARON) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Aaron|AARON]] | Madam, though [[Venus]] govern your desires, [[Saturn]] is dominator over mine. What signifies my deadly-standing eye, My [[Silence|silence]], and my cloudy [[Melancholy|melancholy]], My fleece of woolly hair that now uncurls Even as an adder when she doth unroll To do some fatal execution? No, madam, these are no venereal signs. Vengeance is in my heart, [[Death|death]] in my hand, [[Blood]] and [[Revenge|revenge]] are hammering in my head. Hark, [[Tamora]], the empress of my [[Soul|soul]], Which never hopes more heaven than rests in thee, This is the day of doom for [[Bassianus]]. His Philomel must lose her tongue today, Thy sons make pillage of her chastity And wash their hands in [[Bassianus]]’ [[Blood|blood]]. Seest thou this letter? (Giving a letter) Take it up, I pray thee, And give the [[King]] this fatal-plotted scroll. Now question me no more. We are espied. Here comes a parcel of our hopeful booty, Which dreads not yet their lives’ destruction. Enter [[Bassianus]] and [[Lavinia]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--03_exchange_tamora" data-title="Titus Andronicus — Act II, Scene 3 — exchange (TAMORA) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Tamora|TAMORA]] | (aside to [[Aaron]]) Ah, my sweet Moor, sweeter to me than life! |
-| [[Aaron|AARON]] | (aside to [[Tamora]]) No more, great Empress; [[Bassianus]] comes. Be [[Cross|cross]] with him, and I’ll go fetch thy sons To back thy quarrels, whatsoe’er they be. Exit |
-| [[Bassianus|BASSIANUS]] | Who have we here? Rome’s royal empress Unfurnished of her [[Well|well]]-beseeming troop? Or is it Dian, habited like her Who hath abandoned her holy groves To see the general hunting in this forest? |
-| [[Tamora|TAMORA]] | Saucy controller of my private steps, Had I the power that some say Dian had, Thy temples should be planted presently With horns, as was Actaeon’s, and the hounds Should drive upon thy new-transformed limbs, Unmannerly intruder as thou art! |
-| [[Lavinia|LAVINIA]] | Under your patience, gentle Empress, ‘Tis thought you have a goodly gift in horning, And to be doubted that your Moor and you Are singled forth to try experiments. Jove shield your husband from his hounds today— ‘Tis pity they should take him for a stag. |
-| [[Bassianus|BASSIANUS]] | Believe me, [[Queen]], your swart Cimmerian Doth make your [[Honour|honour]] of his [[Body|body]]’s hue, Spotted, detested, and abominable. Why are you sequestered from all your train, Dismounted from your [[Snow|snow]]-white goodly steed, And wandered hither to an obscure plot, Accompanied but with a barbarous Moor, If foul [[Desire|desire]] had not conducted you? |
-| [[Lavinia|LAVINIA]] | And being intercepted in your sport, Great reason that my noble lord be rated For sauciness. (To [[Bassianus]]) I pray you, let us hence, And let her joy her raven-coloured [[Love|love]]. This valley fits the purpose passing [[Well|well]]. |
-| [[Bassianus|BASSIANUS]] | The [[King]] my brother shall have note of this. |
-| [[Lavinia|LAVINIA]] | Ay, for these slips have made him noted long. Good [[King]], to be so mightily abused! |
-| [[Tamora|TAMORA]] | Why have I patience to endure all this? Enter Chiron and [[Demetrius]] |
-| [[Demetrius|DEMETRIUS]] | How now, dear sovereign and our gracious mother, Why doth your highness look so pale and wan? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--04_monologue_tamora" data-title="Titus Andronicus — Act II, Scene 3 — monologue (TAMORA) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Tamora|TAMORA]] | Have I not reason, think you, to look pale? These two have ‘ticed me hither to this place. A barren detested vale you see it is; The trees, though [[Summer|summer]], yet forlorn and lean, Overcome with moss and baleful mistletoe. Here never shines the sun, here nothing breeds Unless the nightly owl or fatal raven, And when they showed me this abhorred pit They told me here at dead [[Time|time]] of the [[Night|night]] A thousand fiends, a thousand hissing snakes, Ten thousand swelling toads, as many urchins Would make such fearful and confused cries As any mortal [[Body|body]] hearing it Should straight fall mad or else die suddenly. No sooner had they told this hellish tale But straight they told me they would bind me here Unto the [[Body|body]] of a dismal yew And leave me to this miserable [[Death|death]]. And then they called me foul adulteress, Lascivious Goth, and all the bitterest terms That ever ear did hear to such effect. And had you not by wondrous fortune come, This vengeance on me had they executed. [[Revenge]] it as you [[Love|love]] your mother’s life, Or be ye not henceforward called my children. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--05_exchange_demetrius" data-title="Titus Andronicus — Act II, Scene 3 — exchange (DEMETRIUS) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Demetrius|DEMETRIUS]] | This is a witness that I am thy son. He stabs [[Bassianus]] |
-| CHIRON | And this for me, struck [[Home|home]] to show my strength. He stabs [[Bassianus]], who dies. |
-| *(didascalia)* | [[Tamora]] turns to [[Lavinia]] |
-| [[Lavinia|LAVINIA]] | Ay, come, Semiramis—nay, barbarous [[Tamora]], For no name fits thy [[Nature|nature]] but thy own. |
-| [[Tamora|TAMORA]] | (to Chiron) Give me the poniard. You shall know, my boys, Your mother’s hand shall right your mother’s wrong. |
-| [[Demetrius|DEMETRIUS]] | Stay, madam, here is more belongs to her. First thresh the corn, then after burn the straw. This minion stood upon her chastity, Upon her nuptial vow, her loyalty, And with that quaint [[Hope|hope]] braves your mightiness. And shall she carry this unto her [[Grave|grave]]? |
-| CHIRON | An if she do I would I were an eunuch. Drag hence her husband to some secret hole, And make his dead trunk pillow to our lust. |
-| [[Tamora|TAMORA]] | But when ye have the honey ye [[Desire|desire]] Let not this wasp outlive, us both to sting. |
-| CHIRON | I warrant you, madam, we will make that sure. Come, mistress, now perforce we will enjoy That nice-preserved honesty of yours. |
-| [[Lavinia|LAVINIA]] | O [[Tamora]], thou bearest a woman’s face— |
-| [[Tamora|TAMORA]] | I will not hear her speak. Away with her! |
-| [[Lavinia|LAVINIA]] | Sweet lords, entreat her hear me but a word. |
-| [[Demetrius|DEMETRIUS]] | (to [[Tamora]]) Listen, fair madam, let it be your glory To see her [[Tears|tears]], but be your heart to them As unrelenting flint to drops of rain. |
-| [[Lavinia|LAVINIA]] | When did the tiger’s young ones teach the dam? O, do not learn her wrath! She taught it thee. The milk thou sucked’st from her did turn to marble, Even at thy teat thou hadst thy tyranny. Yet every mother breeds not sons alike. (To Chiron) Do thou entreat her show a woman’s pity. |
-| CHIRON | What, wouldst thou have me prove myself a bastard? |
-| [[Lavinia|LAVINIA]] | ’Tis true, [[The Raven|the raven]] doth not hatch a lark. Yet have I heard—O, could I find it now!— The [[Lion|lion]], moved with pity, did endure To have his princely paws pared all away. Some say that ravens foster forlorn children The whilst their own [[Birds|birds]] famish in their nests. O, be to me, though thy hard heart say no, Nothing so kind, but something pitiful. |
-| [[Tamora|TAMORA]] | I know not what it means. Away with her! |
-| [[Lavinia|LAVINIA]] | O, let me teach thee for my father’s sake, That gave thee life when [[Well|well]] he might have slain thee. Be not obdurate, open thy deaf ears. |
-| [[Tamora|TAMORA]] | Hadst thou in person ne’er offended me Even for his sake am I pitiless. Remember, boys, I poured forth [[Tears|tears]] in vain To save your brother from the sacrifice, But fierce Andronicus would not relent. Therefore away with her, and use her as you will— The worse to her, the better loved of me. |
-| [[Lavinia|LAVINIA]] | O [[Tamora]], be called a gentle [[Queen|queen]], And with thine own hands kill me in this place; For ’tis not life that I have begged so long; Poor I was slain when [[Bassianus]] died. |
-| [[Tamora|TAMORA]] | What begg’st thou then, fond woman? Let me go. |
-| [[Lavinia|LAVINIA]] | ’Tis present [[Death|death]] I beg, and one thing more That womanhood denies my tongue to tell. O, keep me from their worse-than-killing lust, And tumble me into some loathsome pit Where never man’s eye may behold my [[Body|body]]. Do this, and be a charitable murderer. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--06_exchange_tamora" data-title="Titus Andronicus — Act II, Scene 3 — exchange (TAMORA) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Tamora|TAMORA]] | So should I rob my sweet sons of their fee. No, let them satisfy their lust on thee. |
-| [[Demetrius|DEMETRIUS]] | (to [[Lavinia]]) Away, for thou hast stayed us here too long. |
-| [[Lavinia|LAVINIA]] | No grace, no womanhood—ah, beastly creature, The blot and enemy to our general name, Confusion fall— |
-| CHIRON | Nay then, I’ll stop your mouth. (To [[Demetrius]]) Bring thou her husband. This is the hole where [[Aaron]] bid us hide him. [[Demetrius]] and Chiron cast [[Bassianus]]’ [[Body|body]] into the |
-| *(didascalia)* | pit and cover the mouth of it with branches, then |
-| CHIRON | exeunt dragging [[Lavinia]] |
-| [[Tamora|TAMORA]] | Farewell, my sons. See that you make her sure. Ne’er let my heart know merry cheer indeed Till all the Andronici be made away. Now will I hence to seek my lovely Moor, And let my spleenful sons this trull deflower. Exit Enter [[Aaron]] with Quintus and Martius, two of |
-| [[Tamora|TAMORA]] | Titus’ sons |
-| [[Aaron|AARON]] | Come on, my lords, the better foot before. Straight will I bring you to the loathsome pit Where I espied the panther fast asleep. |
-| QUINTUS | My sight is very dull, whate’er it bodes. |
-| MARTIUS | And mine, I promise you. Were it not for shame, [[Well]] could I leave our sport to [[Sleep|sleep]] awhile. He falls into the pit |
-| QUINTUS | What, art thou fallen? What subtle hole is this, Whose mouth is covered with rude-growing briers Upon whose [[Leaves|leaves]] are drops of new-shed [[Blood|blood]] As fresh as morning dew distilled on [[Flowers|flowers]]? A very fatal place it seems to me. Speak, brother. Hast thou hurt thee with the fall? |
-| MARTIUS | O brother, with the dismall’st object hurt That ever eye with sight made heart lament. |
-| [[Aaron|AARON]] | (aside) Now will I fetch the [[King]] to find them here, That he thereby may have a likely guess How these were they that made away his brother. Exit |
-| MARTIUS | Why dost not comfort me and help me out From this unhallowed and bloodstained hole? |
-| QUINTUS | I am surprised with an uncouth [[Fear|fear]]. A chilling sweat o’erruns my trembling joints; My heart suspects more than mine eye can see. |
-| MARTIUS | To prove thou hast a true-divining heart, [[Aaron]] and thou look down into this den, And see a fearful sight of [[Blood|blood]] and [[Death|death]]. |
-| QUINTUS | [[Aaron]] is gone, and my compassionate heart Will not permit mine eyes once to behold The thing whereat it trembles by surmise. O, tell me who it is, for ne’er till now Was I a [[Child|child]] to [[Fear|fear]] I know not what. |
-| MARTIUS | Lord [[Bassianus]] lies berayed in [[Blood|blood]] All on a heap, like to a slaughtered [[Lamb|lamb]], In this detested, dark, [[Blood|blood]]-drinking pit. |
-| QUINTUS | If it be dark how dost thou know ’tis he? |
-| MARTIUS | Upon his bloody finger he doth wear A precious ring that lightens all this hole, Which like a taper in some monument Doth shine upon the dead man’s earthy cheeks And shows the ragged entrails of this pit. So pale did shine the [[Moon|moon]] on Pyramus When he by [[Night|night]] lay bathed in maiden [[Blood|blood]]. O brother, help me with thy fainting hand— If [[Fear|fear]] hath made thee faint, as me it hath— Out of this fell devouring receptacle, As hateful as Cocytus’ misty mouth. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--07_exchange_quintus" data-title="Titus Andronicus — Act II, Scene 3 — exchange (QUINTUS) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| QUINTUS | Reach me thy hand, that I may help thee out, Or, wanting strength to do thee so much good, I may be plucked into the swallowing womb Of this deep pit, poor [[Bassianus]]’ [[Grave|grave]]. I have no strength to pluck thee to the brink, |
-| MARTIUS | Nor I no strength to climb without thy help. |
-| QUINTUS | Thy hand once more, I will not loose again Till thou art here aloft or I below. Thou canst not come to me; I come to thee. He falls into the pit. |
-| *(didascalia)* | Enter [[Saturninus]] the Emperor with attendants, |
-| QUINTUS | and [[Aaron]] the Moor |
-| [[Saturninus|SATURNINUS]] | Along with me! I’ll see what hole is here, And what he is that now is leapt into it. He speaks into the pit Say, who art thou that lately didst descend Into this gaping hollow of the earth? |
-| MARTIUS | The unhappy sons of old Andronicus, Brought hither in a most unlucky hour To find thy brother [[Bassianus]] dead. |
-| [[Saturninus|SATURNINUS]] | My brother dead! I know thou dost but jest. He and his lady both are at the lodge Upon the north side of this pleasant chase. ‘Tis not an hour since I left them there. |
-| MARTIUS | We know not where you left them all alive, But, out alas, here have we found him dead! Enter [[Tamora]], [[Titus Andronicus]], and [[Lucius]] |
-| [[Tamora|TAMORA]] | Where is my lord the [[King]]? |
-| [[Saturninus|SATURNINUS]] | Here, [[Tamora]], though gripped with killing grief. |
-| [[Tamora|TAMORA]] | Where is thy brother [[Bassianus]]? |
-| [[Saturninus|SATURNINUS]] | Now to the [[Bottom|bottom]] dost thou search my wound. Poor [[Bassianus]] here lies murdered. |
-| [[Tamora|TAMORA]] | Then all too late I bring this fatal writ, The complot of this timeless [[Tragedy|tragedy]], And [[Wonder|wonder]] greatly that man’s face can fold In pleasing smiles such murderous tyranny. She giveth Saturnine a letter |
-| [[Saturninus|SATURNINUS]] | (reads) ‘An if we miss to meet him handsomely, Sweet huntsman—[[Bassianus]] ’tis we mean— Do thou so much as dig the [[Grave|grave]] for him. Thou know‘st our meaning. Look for thy reward Among the nettles at the elder tree Which overshades the mouth of that same pit Where we decreed to bury [[Bassianus]]. Do this, and purchase us thy lasting friends.’ O [[Tamora]], was ever heard the like! This is the pit, and this the elder tree. Look, sirs, if you can find the huntsman out That should have murdered [[Bassianus]] here. |
-| [[Aaron|AARON]] | My gracious lord, here is the bag of gold. |
-| [[Saturninus|SATURNINUS]] | (to Titus) Two of thy whelps, fell curs of bloody kind, Have here bereft my brother of his life. Sirs, drag them from the pit unto the [[Prison|prison]]. There let them bide until we have devised Some never-heard-of torturing [[Pain|pain]] for them. |
-| [[Tamora|TAMORA]] | What, are they in this pit? O wondrous thing! How easily murder is discovered! Attendants drag Quintus, Martius, and [[Bassianus]]’ |
-| [[Tamora|TAMORA]] | [[Body|body]] from the pit |
-| TITUS | (kneeling) High Emperor, upon my feeble knee I beg this boon with [[Tears|tears]] not lightly shed: That this fell fault of my accursed sons— Accursed if the fault be proved in them— |
-| [[Saturninus|SATURNINUS]] | If it be proved? You see it is apparent. Who found this letter? [[Tamora]], was it you? |
-| [[Tamora|TAMORA]] | Andronicus himself did take it up. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--08_exchange_titus" data-title="Titus Andronicus — Act II, Scene 3 — exchange (TITUS) [8]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| TITUS | I did, my lord, yet let me be their bail, For by my father’s reverend tomb I vow They shall be ready at your highness’ will To answer their suspicion with their lives. |
-| [[Saturninus|SATURNINUS]] | Thou shalt not bail them. See thou follow me. Some bring the murdered [[Body|body]], some the murderers. Let them not speak a word—the [[Guilt|guilt]] is plain; For by my [[Soul|soul]], were there worse end than [[Death|death]] That end upon them should be executed. Exit |
-| [[Tamora|TAMORA]] | Andronicus, I will entreat the [[King]]. [[Fear]] not thy sons, they shall do [[Well|well]] enough. |
-| TITUS | rising Come, [[Lucius]], come, stay not to talk with them. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Titus Andronicus — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the Judges, Tribunes, and Senators with Titus’ two sons, Martius and Quintus, bound, passing over the stage to the place of execution, and Titus going before, pleading |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--02_monologue_titus" data-title="Titus Andronicus — Act III, Scene 1 — monologue (TITUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| TITUS | Hear me, [[Grave|grave]] fathers; noble Tribunes, stay. For pity of mine age, whose youth was spent In dangerous wars whilst you securely slept; For all my [[Blood|blood]] in Rome’s great quarrel shed; For all the frosty nights that I have watched, And for these bitter [[Tears|tears]] which now you see Filling the agèd wrinkles in my cheeks, Be pitiful to my condemned sons, Whose souls is not corrupted as ’tis thought. For two-and-twenty sons I never wept, Because they died in [[Honour|honour]]’s lofty bed. Andronicus lieth down, and the Judges pass by him For these two, Tribunes, in the [[Dust|dust]] I write My heart’s deep languor and my [[Soul|soul]]’s sad [[Tears|tears]]. Let my [[Tears|tears]] stanch the earth’s dry appetite; My sons’ sweet [[Blood|blood]] will make it shame and blush. Exeunt all but Titus O earth, I will befriend thee more with rain That shall distil from these two ancient ruins Than youthful April shall with all his showers. In [[Summer|summer]]’s drought I’ll drop upon thee still. In [[Winter|winter]] with warm [[Tears|tears]] I’ll melt the [[Snow|snow]] And keep eternal springtime on thy face, So thou refuse to drink my dear sons’ [[Blood|blood]]. Enter [[Lucius]] with his weapon drawn Oreverend Tribunes, O gentle, aged men, Unbind my sons, reverse the doom of [[Death|death]], And let me say, that never wept before, My [[Tears|tears]] are now prevailing orators! |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--03_exchange_lucius" data-title="Titus Andronicus — Act III, Scene 1 — exchange (LUCIUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Lucius|LUCIUS]] | O noble father, you lament in vain. The Tribunes hear you not. No man is by, And you recount your sorrows to a stone. |
-| TITUS | Ah [[Lucius]], for thy brothers let me plead. [[Grave]] Tribunes, once more I entreat of you— |
-| [[Lucius|LUCIUS]] | My gracious lord, no tribune hears you speak. |
-| TITUS | Why, ‘tis no matter, man. If they did hear, They would not mark me; if they did mark, They would not pity me; yet plead I must. Therefore I tell my sorrows to the stones, Who, though they cannot answer my distress, Yet in some sort they are better than the Tribunes For that they will not intercept my tale. When I do weep they humbly at my feet Receive my [[Tears|tears]] and seem to weep with me, And were they but attired in [[Grave|grave]] weeds Rome could afford no tribunes like to these. A stone is soft as wax, tribunes more hard than stones. A stone is silent and offendeth not, And tribunes with their tongues doom men to [[Death|death]]. But wherefore stand’st thou with thy weapon drawn? |
-| [[Lucius|LUCIUS]] | To rescue my two brothers from their [[Death|death]], For which attempt the Judges have pronounced My everlasting doom of banishment. |
-| TITUS | rising O happy man, they have befriended thee! Why, foolish [[Lucius]], dost thou not perceive That Rome is but a wilderness of tigers? Tigers must prey, and Rome affords no prey But me and mine. How happy art thou then From these devourers to be banished! But who comes with our brother Marcus here? Enter Marcus with [[Lavinia]] |
-| MARCUS | Titus, prepare thy aged eyes to weep, Or if not so, thy noble heart to break. I bring consuming sorrow to thine age. |
-| TITUS | Will it consume me? Let me see it then. |
-| MARCUS | This was thy daughter. |
-| TITUS | Why, Marcus, so she is. |
-| [[Lucius|LUCIUS]] | (falling on his knees) Ay me, this object kills me. |
-| TITUS | Faint-hearted boy, arise and look upon her. [[Lucius]] rises Speak, [[Lavinia]], what accursed hand Hath made thee handless in thy father’s sight? What [[Fool|fool]] hath added [[Water|water]] to the sea, Or brought a faggot to bright-burning Troy? My grief was at the height before thou cam‘st, And now like Nilus it disdaineth bounds. Give me a [[Sword|sword]], I’ll chop off my hands too, For they have fought for Rome, and all in vain; And they have nursed this woe in feeding life; In bootless [[prayer]] have they been held up, And they have served me to effectless use. Now all the service I require of them Is that the one will help to cut the other. ’Tis [[Well|well]], [[Lavinia]], that thou hast no hands, For hands to do Rome service is but vain. |
-| [[Lucius|LUCIUS]] | Speak, gentle sister, who hath martyred thee. |
-| MARCUS | O, that delightful engine of her thoughts, That blabbed them with such pleasing eloquence, Is torn from forth that pretty hollow cage Where, like a sweet melodious bird, it sung Sweet varied notes, enchanting every ear. |
-| [[Lucius|LUCIUS]] | O, say thou for her, who hath done this deed? |
-| MARCUS | O, thus I found her, straying in the park, Seeking to hide herself, as doth the deer That hath received some unrecuring wound. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--04_monologue_titus" data-title="Titus Andronicus — Act III, Scene 1 — monologue (TITUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| TITUS | It was my dear, and he that wounded her Hath hurt me more than had he killed me dead; For now I stand as one upon a rock Environed with a wilderness of sea, Who marks the waxing tide grow wave by wave, Expecting ever when some envious surge Will in his brinish bowels [[Swallow|swallow]] him. This way to [[Death|death]] my wretched sons are gone. Here stands my other son, a banished man, And here my brother, weeping at my woes. But that which gives my [[Soul|soul]] the greatest spurn Is dear [[Lavinia]], dearer than my [[Soul|soul]]. Had I but seen thy picture in this plight It would have madded me. What shall I do Now I behold thy lively [[Body|body]] so? Thou hast no hands to wipe away thy [[Tears|tears]], Nor tongue to tell me who hath martyred thee. Thy husband he is dead, and for his [[Death|death]] Thy brothers are condemned and dead by this. Look, Marcus, ah, son [[Lucius]], look on her! When I did name her brothers, then fresh [[Tears|tears]] Stood on her cheeks, as doth the honey-dew Upon a gathered lily almost withered. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--05_exchange_marcus" data-title="Titus Andronicus — Act III, Scene 1 — exchange (MARCUS) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MARCUS | Perchance she weeps because they killed her husband; Perchance because she knows them [[Innocent|innocent]]. |
-| TITUS | If they did kill thy husband, then be joyful, Because the law hath ta’en [[Revenge|revenge]] on them. No, no, they would not do so foul a deed; Witness the sorrow that their sister makes. Gentle [[Lavinia]], let me kiss thy lips; Or make some sign how I may do thee ease. |
-| TITUS | Shall thy good uncle, and thy brother [[Lucius]], And thou, and I, sit round about some fountain, Looking all downwards to behold our cheeks How they are stained, like meadows yet not dry With miry slime left on them by a flood? And in the fountain shall we gaze so long Till the fresh taste be taken from that clearness, And made a brine pit with our bitter [[Tears|tears]]? Or shall we cut away our hands like thine? Or shall we bite our tongues, and in dumb shows Pass the remainder of our hateful days? What shall we do? Let us that have our tongues Plot some device of further misery, To make us wondered at in [[Time|time]] to come. |
-| [[Lucius|LUCIUS]] | Sweet father, cease your [[Tears|tears]], for at your grief See how my wretched sister sobs and weeps. |
-| MARCUS | Patience, dear niece. Good Titus, dry thine eyes. |
-| TITUS | Ah, Marcus, Marcus, brother, [[Well|well]] I wot Thy napkin cannot drink a tear of mine, For thou, poor man, hast drowned it with thine own. |
-| [[Lucius|LUCIUS]] | Ah, my [[Lavinia]], I will wipe thy cheeks. |
-| TITUS | Mark, Marcus, mark. I understand her signs. Had she a tongue to speak, now would she say That to her brother which I said to thee. His napkin with his true [[Tears|tears]] all bewet Can do no service on her sorrowful cheeks. O, what a sympathy of woe is this— As far from help as limbo is from bliss. Enter [[Aaron]] the Moor, [[Alone|alone]] |
-| [[Aaron|AARON]] | [[Titus Andronicus]], my lord the Emperor Sends thee this word: that, if thou [[Love|love]] thy sons, Let Marcus, [[Lucius]] or thyself, old Titus, Or any one of you, chop off your hand And send it to the [[King]]. He for the same Will send thee hither both thy sons alive, And that shall be the ransom for their fault. |
-| TITUS | O gracious Emperor! O gentle [[Aaron]], Did ever raven sing so like a lark That gives sweet tidings of the sun’s uprise? With all my heart I’ll send the Emperor my hand. Good [[Aaron]], wilt thou help to chop it off? |
-| [[Lucius|LUCIUS]] | Stay, father, for that noble hand of thine, That hath thrown down so many enemies, Shall not be sent. My hand will serve the turn. My youth can better spare my [[Blood|blood]] than you, And therefore mine shall save my brothers’ lives. |
-| MARCUS | Which of your hands hath not defended Rome And reared aloft the bloody battleaxe, Writing destruction on the enemy’s [[Castle|castle]]? O, none of both but are of high [[Desert|desert]]. My hand hath been but idle; let it serve To ransom my two nephews from their [[Death|death]], Then have I kept it to a worthy end. |
-| [[Aaron|AARON]] | Nay, come, agree whose hand shall go along, For [[Fear|fear]] they die before their pardon come. |
-| MARCUS | My hand shall go. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--06_exchange_lucius" data-title="Titus Andronicus — Act III, Scene 1 — exchange (LUCIUS) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Lucius|LUCIUS]] | By heaven it shall not go. |
-| TITUS | Sirs, strive no more. Such withered herbs as these Are meet for plucking up, and therefore mine. |
-| [[Lucius|LUCIUS]] | Sweet father, if I shall be thought thy son, Let me redeem my brothers both from [[Death|death]]. |
-| MARCUS | And for our father’s sake and mother’s care, Now let me show a brother’s [[Love|love]] to thee. |
-| TITUS | Agree between you. I will spare my hand. |
-| [[Lucius|LUCIUS]] | Then I’ll go fetch an axe. |
-| MARCUS | But I will use the axe. Exeunt [[Lucius]] and Marcus |
-| TITUS | Come hither, [[Aaron]]. I’ll deceive them both. Lend me thy hand, and I will give thee mine. |
-| [[Aaron|AARON]] | (aside) If that be called deceit, I will be honest And never whilst I live deceive men so. But I’ll deceive you in another sort, And that you’ll say ere half an hour pass. He cuts off Titus’ hand. |
-| *(didascalia)* | Enter [[Lucius]] and Marcus again |
-| TITUS | Now stay your strife. What shall be is dispatched. Good [[Aaron]], give his majesty my hand. Tell him it was a hand that warded him From thousand dangers; bid him bury it. More hath it merited; that let it have. As for my sons, say I account of them As jewels purchased at an easy price, And yet dear too, because I bought mine own. |
-| [[Aaron|AARON]] | I go, Andronicus; and for thy hand Look by and by to have thy sons with thee. (Aside) Their heads, I mean. O, how this villainy Doth fat me with the very thoughts of it! Let fools do good, and fair men call for grace: [[Aaron]] will have his [[Soul|soul]] black like his face. Exit |
-| TITUS | O, here I lift this one hand up to heaven And bow this feeble ruin to the earth. He kneels If any power pities wretched [[Tears|tears]], To that I call. (To [[Lavinia]], who kneels) What, wouldst thou kneel with me? Do then, dear heart; for heaven shall hear our prayers, Or with our sighs we’ll breathe the welkin dim And stain the sun with fog, as sometime clouds When they do hug him in their melting bosoms. |
-| MARCUS | O brother, speak with possibility, And do not break into these deep extremes. |
-| TITUS | Is not my sorrows deep, having no [[Bottom|bottom]]? Then be my passions bottomless with them. |
-| MARCUS | But yet let reason govern thy lament. |
-| TITUS | If there were reason for these miseries, Then into limits could I bind my woes. When heaven doth weep, doth not the earth o‘erflow? If the winds rage, doth not the sea wax mad, Threat’ning the welkin with his big-swoll’n face? And wilt thou have a reason for this coil? I am the sea. Hark how her sighs doth blow. She is the weeping welkin, I the earth. Then must my sea be moved with her sighs, Then must my earth with her continual [[Tears|tears]] Become a [[deluge]] overflowed and drowned, Forwhy my bowels cannot hide her woes, But like a drunkard must I vomit them. Then give me leave, for losers will have leave To ease their stomachs with their bitter tongues. Enter a Messenger with two heads and a hand |
-| MESSENGER | Worthy Andronicus, ill art thou repaid For that good hand thou sent’st the Emperor. Here are the heads of thy two noble sons, And here’s thy hand in scorn to thee sent back— Thy grief their sports, thy resolution mocked, That woe is me to think upon thy woes More than remembrance of my father’s [[Death|death]]. He sets down the heads and hand. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--07_exchange_marcus" data-title="Titus Andronicus — Act III, Scene 1 — exchange (MARCUS) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MARCUS | Now let hot Etna cool in Sicily, And be my heart an ever-burning hell. These miseries are more than may be borne. To weep with them that weep doth ease some deal, But sorrow flouted at is [[Double|double]] [[Death|death]]. |
-| [[Lucius|LUCIUS]] | Ah, that this sight should make so deep a wound And yet detested life not shrink thereat— That ever [[Death|death]] should let life bear his name Where life hath no more interest but to breathe! [[Lavinia]] kisses Titus |
-| MARCUS | Alas, poor heart, that kiss is comfortless As frozen [[Water|water]] to a starved snake. |
-| TITUS | When will this fearful slumber have an end? |
-| MARCUS | Now farewell, flatt’ry; die, Andronicus. Thou dost not slumber. See thy two sons’ heads, Thy warlike hand, thy mangled daughter here, Thy other banished son with this dear sight Struck pale and bloodless, and thy brother, I, Even like a stony image, cold and numb. Ah, now no more will I control thy griefs. Rend off thy silver hair, thy other hand Gnawing with thy teeth, and be this dismal sight The closing up of our most wretched eyes. Now is a [[Time|time]] to [[Storm|storm]]. Why art thou still? |
-| TITUS | Ha, ha, ha! |
-| MARCUS | Why dost thou laugh? It fits not with this hour. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--08_monologue_titus" data-title="Titus Andronicus — Act III, Scene 1 — monologue (TITUS) [8]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| TITUS | Why, I have not another tear to shed. Besides, this sorrow is an enemy, And would usurp upon my wat’ry eyes And make them blind with tributary [[Tears|tears]]. Then which way shall I find [[Revenge]]’s [[Cave|cave]]?— For these two heads do seem to speak to me And threat me I shall never come to bliss Till all these mischiefs be returned again Even in their throats that hath committed them. Come, let me see what task I have to do. He and [[Lavinia]] rise You heavy people, circle me about, That I may turn me to each one of you And swear unto my [[Soul|soul]] to right your wrongs. Marcus, [[Lucius]], and [[Lavinia]] circle Titus. He |
-| TITUS | pledges them The vow is made. Come, brother, take a head, And in this hand the other will I bear. And [[Lavinia]], thou shalt be employed. Bear thou my hand, sweet wench, between thine arms. As for thee, boy, go get thee from my sight. Thou art an [[Exile|exile]] and thou must not stay. Hie to the Goths, and raise an army there, And if ye [[Love|love]] me, as I think you do, Let’s kiss and part, for we have much to do. They kiss. Exeunt all but [[Lucius]] |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--09_exchange_lucius" data-title="Titus Andronicus — Act III, Scene 1 — exchange (LUCIUS) [9]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Lucius|LUCIUS]] | Farewell, Andronicus, my noble father, The woefull‘st man that ever lived in Rome. Farewell, proud Rome, till [[Lucius]] come again; He loves his pledges dearer than his life. Farewell, [[Lavinia]], my noble sister: O, would thou wert as thou tofore hast been! But now nor [[Lucius]] nor [[Lavinia]] lives But in oblivion and hateful griefs. If [[Lucius]] live he will requite your wrongs And make proud Saturnine and his empress Beg at the gates like [[Tarquin]] and his [[Queen|queen]]. Now will I to the Goths and raise a power, To be revenged on Rome and Saturnine. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="Titus Andronicus — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Lucius]]’ son and [[Lavinia]] running after him, and the boy flies from her with his books under his arm. Enter Titus and Marcus |
-| YOUNG [[Lucius|LUCIUS]] | Help, grandsire, help! My aunt [[Lavinia]] Follows me everywhere, I know not why. Good uncle Marcus, see how swift she comes. Alas, sweet aunt, I know not what you mean. He drops his books |
-| MARCUS | Stand by me, [[Lucius]]. Do not [[Fear|fear]] thine aunt. |
-| TITUS | She loves thee, boy, too [[Well|well]] to do thee harm. |
-| YOUNG [[Lucius|LUCIUS]] | Ay, when my father was in Rome she did. |
-| MARCUS | What means my niece [[Lavinia]] by these signs? |
-| TITUS | [[Fear]] her not, [[Lucius]]; somewhat doth she mean. MARCUS See, [[Lucius]], see how much she makes of thee. Somewhither would she have thee go with her. Ah, boy, Cornelia never with more care Read to her sons than she hath read to thee Sweet poetry and Tully’s Orator. Canst thou not guess wherefore she plies thee thus? |
-| YOUNG [[Lucius|LUCIUS]] | My lord, I know not, I, nor can I guess, Unless some fit or frenzy do possess her; For I have heard my grandsire say full oft Extremity of griefs would make men mad, And I have read that Hecuba of Troy Ran mad for sorrow. That made me to [[Fear|fear]], Although, my lord, I know my noble aunt Loves me as dear as e’er my mother did, And would not but in fury fright my youth, Which made me down to throw my books and fly, Causeless, perhaps. But pardon me, sweet aunt; And, madam, if my uncle Marcus go I will most willingly attend your ladyship. |
-| MARCUS | [[Lucius]], I will. [[Lavinia]] turns the books over with her stumps |
-| TITUS | How now, [[Lavinia]]? Marcus, what means this? Some book there is that she desires to see. Which is it, girl, of these?-Open them, boy. (To [[Lavinia]]) But thou art deeper read and better skilled. Come and take choice of all my library, And so beguile thy sorrow till the heavens Reveal the damned contriver of this deed.— Why lifts she up her arms in sequence thus? |
-| MARCUS | I think she means that there were more than one Confederate in the fact. Ay, more there was, Or else to heaven she heaves them for [[Revenge|revenge]]. |
-| TITUS | [[Lucius]], what book is that she tosseth so? |
-| YOUNG [[Lucius|LUCIUS]] | Grandsire, ’tis Ovid’s Metamorphoses. |
-| YOUNG [[Lucius|LUCIUS]] | My mother gave it me. |
-| MARCUS | For [[Love|love]] of her that’s gone, Perhaps, she culled it from among the rest. |
-| TITUS | Soft, so busily she turns the [[Leaves|leaves]]. Help her. What would she find? [[Lavinia]], shall I read? This is the tragic tale of Philomel, And treats of Tereus’ treason and his rape, And rape, I [[Fear|fear]], was root of thy annoy. |
-| MARCUS | See, brother, see. Note how she quotes the [[Leaves|leaves]]. |
-| TITUS | [[Lavinia]], wert thou thus surprised, sweet girl, Ravished and wronged as Philomela was, Forced in the ruthless, vast, and gloomy woods? See, see. Ay, such a place there is where we did hunt— O, had we never, never hunted there!— Patterned by that the poet here describes, By [[Nature|nature]] made for murders and for rapes. |
-| MARCUS | O, why should [[Nature|nature]] build so foul a den, Unless the gods delight in tragedies? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--02_exchange_titus" data-title="Titus Andronicus — Act IV, Scene 1 — exchange (TITUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| TITUS | Give signs, sweet girl, for here are none but friends, What Roman lord it was durst do the deed. Or slunk not Saturnine, as [[Tarquin]] erst, That left the camp to sin in [[Lucrece]]’ bed? |
-| MARCUS | Sit down, sweet niece. Brother, sit down by me. They sit [[Apollo]], Pallas, Jove, or Mercury Inspire me, that I may this treason find. My lord, look here. Look here, [[Lavinia]]. This sandy plot is plain. Guide if thou canst This after me. He writes his name with his staff, and guides it |
-| MARCUS | with feet and mouth I here have writ my name Without the help of any hand at all. Cursed be that heart that forced us to this shift! Write thou, good niece, and here display at last What God will have discovered for [[Revenge|revenge]]. Heaven guide thy pen to print thy sorrows plain, That we may know the traitors and the [[Truth|truth]]. She takes the staff in her mouth, and guides it with |
-| *(didascalia)* | her stumps, and writes O, do ye read, my lord, what she hath writ? TITUS ‘Stuprum—Chiron—[[Demetrius]].’ |
-| MARCUS | What, what!—The lustful sons of [[Tamora]] Performers of this heinous bloody deed? |
-| TITUS | Magni dominator poli, |
-| TITUS | Tam lentus audis scelera, tam lentus vides? |
-| MARCUS | O, calm thee, gentle lord, although I know There is enough written upon this earth To stir a mutiny in the mildest thoughts, And arm the minds of infants to exclaims. My lord, kneel down with me; [[Lavinia]], kneel; And kneel, sweet boy, the Roman [[Hector]]’s [[Hope|hope]], All kneel And swear with me—as, with the woeful fere And father of that chaste dishonoured dame Lord Junius [[Brutus]] sware for [[Lucrece]]’ rape— That we will prosecute by good advice Mortal [[Revenge|revenge]] upon these traitorous Goths, And see their [[Blood|blood]], or die with this reproach. They rise |
-| TITUS | ’Tis sure enough an you knew how, But if you hunt these bear-whelps, then beware. The dam will wake, and if she [[Wind|wind]] ye once She’s with the [[Lion|lion]] deeply still in league, And lulls him whilst she playeth on her back, And when he sleeps will she do what she list. You are a young huntsman, Marcus. Let [[Alone|alone]], And come, I will go get a leaf of brass And with a gad of steel will write these words, And lay it by. The angry northern [[Wind|wind]] Will blow these sands like Sibyl’s [[Leaves|leaves]] abroad, And where’s our lesson then? Boy, what say you? |
-| YOUNG [[Lucius|LUCIUS]] | I say, my lord, that if I were a man Their mother’s bedchamber should not be safe For these base bondmen to the yoke of Rome. |
-| MARCUS | Ay, that’s my boy! Thy father hath full oft For his ungrateful country done the like. |
-| YOUNG [[Lucius|LUCIUS]] | And, uncle, so will I, an if I live. |
-| TITUS | Come go with me into mine armoury. [[Lucius]], I’ll fit thee; and withal, my boy, Shall carry from me to the Empress’ sons Presents that I intend to send them both. Come, come, thou’lt do my message, wilt thou not? |
-| YOUNG [[Lucius|LUCIUS]] | Ay, with my dagger in their bosoms, grandsire. |
-| TITUS | No, boy, not so. I’ll teach thee another course. [[Lavinia]], come. Marcus, look to my [[house]]. [[Lucius]] and I’ll go brave it at the [[Court|court]]. Ay, marry, will we, sir, and we’ll be waited on. Exeunt all but Marcus |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--03_exchange_marcus" data-title="Titus Andronicus — Act IV, Scene 1 — exchange (MARCUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MARCUS | O heavens, can you hear a good man groan And not relent, or not compassion him? Marcus, attend him in his ecstasy, That hath more scars of sorrow in his heart Than foemen’s marks upon his battered shield, But yet so just that he will not [[Revenge|revenge]]. [[Revenge]] the heavens for old Andronicus! Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_2--01_exchange_dialogue" data-title="Titus Andronicus — Act IV, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Aaron]], Chiron, and [[Demetrius]] at one door, and at the other door young [[Lucius]] and another with a bundle of weapons, and verses writ upon them |
-| CHIRON | [[Demetrius]], here’s the son of [[Lucius]]. He hath some message to deliver us. |
-| [[Aaron|AARON]] | Ay, some mad message from his mad grandfather. |
-| YOUNG [[Lucius|LUCIUS]] | My lords, with all the humbleness I may I greet your honours from Andronicus (Aside) And pray the Roman gods confound you both. |
-| [[Demetrius|DEMETRIUS]] | Gramercy, lovely [[Lucius]]. What’s the news? |
-| YOUNG [[Lucius|LUCIUS]] | (aside) That you are both deciphered, that’s the news, For villains marked with rape. (Aloud) May it please you, My grandsire, [[Well|well]] advised, hath sent by me The goodliest weapons of his armoury To gratify your honourable youth, The [[Hope|hope]] of Rome, for so he bid me say; His attendant gives the weapons And so I do, and with his gifts present Your lordships that, whenever you have need, You may be armed and appointed [[Well|well]]; And so I leave you both (aside) like bloody villains. Exit with attendant |
-| [[Demetrius|DEMETRIUS]] | What’s here—a scroll, and written round about? Let’s see. ‘Integer vitae, scelerisque purus, |
-| [[Demetrius|DEMETRIUS]] | Non eget Mauri iaculis, nec arcu.’ |
-| CHIRON | O, ’tis a verse in Horace, I know it [[Well|well]]. I read it in the grammar long ago. |
-| [[Aaron|AARON]] | Ay, just, a verse in Horace; right, you have it. (Aside) Now what a thing it is to be an ass! Here’s no sound jest. The old man hath found their [[Guilt|guilt]], And sends them weapons wrapped about with lines That wound beyond their feeling to the quick. But were our witty Empress [[Well|well]] afoot She would applaud Andronicus’ conceit. But let her rest in her unrest a while. (To Chiron and [[Demetrius]]) |
-| [[Aaron|AARON]] | And now, young lords, was’t not a happy star Led us to Rome, strangers and, more than so, Captives, to be advanced to this height? It did me good before the palace gate To brave the Tribune in his brother’s hearing. |
-| [[Demetrius|DEMETRIUS]] | But me more good to see so great a lord Basely insinuate and send us gifts. |
-| [[Aaron|AARON]] | Had he not reason, Lord [[Demetrius]]? Did you not use his daughter very friendly? |
-| [[Demetrius|DEMETRIUS]] | I would we had a thousand Roman dames At such a bay, by turn to serve our lust. |
-| CHIRON | A charitable wish, and full of [[Love|love]]. |
-| [[Aaron|AARON]] | Here lacks but your mother for to say amen. |
-| CHIRON | And that would she, for twenty thousand more. |
-| [[Demetrius|DEMETRIUS]] | Come, let us go and pray to all the gods For our beloved mother in her pains. |
-| [[Aaron|AARON]] | Pray to the devils; the gods have given us over. Trumpets sound |
-| [[Demetrius|DEMETRIUS]] | Why do the Emperor’s trumpets flourish thus? |
-| CHIRON | Belike for joy the Emperor hath a son. |
-| [[Demetrius|DEMETRIUS]] | Soft, who comes here? Enter [[Nurse]] with a blackamoor [[Child|child]] |
-| [[Nurse|NURSE]] | Good morrow, lords. O tell me, did you see [[Aaron]] the Moor? |
-| [[Aaron|AARON]] | [[Well]], more or less, or ne’er a whit at all, Here [[Aaron]] is; and what with [[Aaron]] now? |
-| [[Nurse|NURSE]] | O gentle [[Aaron]], we are all undone. Now help, or woe betide thee evermore! |
-| [[Aaron|AARON]] | Why, what a caterwauling dost thou keep! What dost thou wrap and fumble in thy arms? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_2--02_exchange_nurse" data-title="Titus Andronicus — Act IV, Scene 2 — exchange (NURSE) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Nurse|NURSE]] | O, that which I would hide from heaven’s eye, Our Empress’ shame and stately Rome’s disgrace. She is delivered, lords, she is delivered. |
-| [[Aaron|AARON]] | To whom? |
-| [[Nurse|NURSE]] | I mean she is brought abed. |
-| [[Aaron|AARON]] | [[Well]], God give her good rest. What hath he sent her? |
-| [[Nurse|NURSE]] | A devil. |
-| [[Aaron|AARON]] | Why then, she is the devil’s dam. A joyful issue! |
-| [[Nurse|NURSE]] | A joyless, dismal, black, and sorrowful issue. Here is the babe, as loathsome as a toad Amongst the fair-faced breeders of our clime. The Empress sends it thee, thy stamp, thy seal, And bids thee christen it with thy dagger’s point. |
-| [[Aaron|AARON]] | Zounds, ye whore, is black so base a hue? Sweet blowze, you are a beauteous blossom, sure. |
-| [[Demetrius|DEMETRIUS]] | [[Villain]], what hast thou done? |
-| [[Aaron|AARON]] | That which thou canst not undo. |
-| CHIRON | Thou hast undone our mother. [[Aaron|AARON]] [[Villain]], I have done thy mother. |
-| [[Demetrius|DEMETRIUS]] | And therein, hellish dog, thou hast undone her. Woe to her chance, and damned her loathed choice, Accursed the offspring of so foul a fiend. |
-| CHIRON | It shall not live. |
-| [[Aaron|AARON]] | It shall not die. |
-| [[Nurse|NURSE]] | [[Aaron]], it must; the mother wills it so. |
-| [[Aaron|AARON]] | What, must it, [[Nurse|nurse]]? Then let no man but I Do execution on my flesh and [[Blood|blood]]. |
-| [[Demetrius|DEMETRIUS]] | I’ll broach the tadpole on my rapier’s point. [[Nurse]], give it me. My [[Sword|sword]] shall soon dispatch it. |
-| [[Aaron|AARON]] | Sooner this [[Sword|sword]] shall plough thy bowels up. He takes the [[Child|child]] and draws his [[Sword|sword]] Stay, murderous villains, will you kill your brother? Now, by the burning tapers of the sky That shone so brightly when this boy was got, He dies upon my scimitar’s sharp point That touches this, my first-born son and heir. I tell you, younglings, not Enceladus With all his threat’ning band of Typhon’s brood, Nor great Alcides, nor the god of war Shall seize this prey out of his father’s hands. What, what, ye sanguine, shallow-hearted boys, Ye whitelimed walls, ye alehouse painted signs, Coal-black is better than another hue In that it scorns to bear another hue; For all the [[Water|water]] in the ocean Can never turn the swan’s black legs to white, Although she lave them hourly in the flood. Tell the Empress from me I am of age To keep mine own, excuse it how she can. |
-| [[Demetrius|DEMETRIUS]] | Wilt thou betray thy noble mistress thus? |
-| [[Aaron|AARON]] | My mistress is my mistress, this myself, The figure and the picture of my youth. This before all the world do I prefer; This maugre all the world will I keep safe, Or some of you shall smoke for it in Rome. no |
-| [[Demetrius|DEMETRIUS]] | By this our mother is for ever shamed. |
-| CHIRON | Rome will despise her for this foul escape. |
-| [[Nurse|NURSE]] | The Emperor in his rage will doom her [[Death|death]]. |
-| CHIRON | I blush to think upon this ignomy. |
-| [[Aaron|AARON]] | Why, there’s the privilege your [[Beauty|beauty]] bears. Fie, treacherous hue, that will betray with blushing The close enacts and counsels of thy heart. Here’s a young lad framed of another leer. Look how the black slave smiles upon the father, As who should say ‘Old lad, I am thine own.’ He is your brother, lords, sensibly fed Of that [[Self|self]] [[Blood|blood]] that first gave life to you, And from that womb where you imprisoned were He is enfranchised and come to light. Nay, he is your brother by the surer side, Although my seal be stamped in his face. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_2--03_exchange_nurse" data-title="Titus Andronicus — Act IV, Scene 2 — exchange (NURSE) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Nurse|NURSE]] | [[Aaron]], what shall I say unto the Empress? |
-| [[Demetrius|DEMETRIUS]] | Advise thee, [[Aaron]], what is to be done, And we will all subscribe to thy advice. Save thou the [[Child|child]], so we may all be safe. |
-| [[Aaron|AARON]] | Then sit we down, and let us all consult. My son and I will have the [[Wind|wind]] of you. Keep there; now talk at pleasure of your safety. They sit |
-| [[Demetrius|DEMETRIUS]] | (to the [[Nurse]]) How many women saw this [[Child|child]] of his? |
-| [[Aaron|AARON]] | Why, so, brave lords, when we do join in league I am a [[Lamb|lamb]]; but if you brave the Moor, The chafed boar, the mountain lioness, The ocean swells not so as [[Aaron]] storms. (To the [[Nurse]]) But say again, how many saw the [[Child|child]]? |
-| [[Nurse|NURSE]] | Cornelia the midwife, and myself, And no one else but the delivered Empress. |
-| [[Aaron|AARON]] | The Empress, the midwife, and yourself. Two may keep counsel when the third’s away. Go to the Empress, tell her this I said. He kills her ‘Wheak, wheak’—so cries a pig prepared to the spit. |
-| [[Demetrius|DEMETRIUS]] | What mean’st thou, [[Aaron]]? Wherefore didst thou this? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_2--04_monologue_aaron" data-title="Titus Andronicus — Act IV, Scene 2 — monologue (AARON) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Aaron|AARON]] | OLord, sir, ’tis a deed of policy. Shall she live to betray this [[Guilt|guilt]] of ours— A long-tongued, babbling gossip? No, lords, no. And now be it known to you my full intent. Not far, one Muliteus my countryman His wife but yesternight was brought to bed. His [[Child|child]] is like to her, fair as you are. Go pack with him, and give the mother gold, And tell them both the circumstance of all, And how by this their [[Child|child]] shall be advanced And be received for the Emperor’s heir, And substituted in the place of mine, To calm this tempest whirling in the [[Court|court]]; And let the Emperor dandle him for his own. Hark ye, lords, you see I have given her physic, And you must needs bestow her funeral. The fields are near, and you are gallant grooms. This done, see that you take no longer days, But send the midwife presently to me. The midwife and the [[Nurse|nurse]] [[Well|well]] made away, Then let the ladies tattle what they please. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_2--05_exchange_chiron" data-title="Titus Andronicus — Act IV, Scene 2 — exchange (CHIRON) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CHIRON | [[Aaron]], I see thou wilt not trust the air With [[Secrets|secrets]]. |
-| [[Demetrius|DEMETRIUS]] | For this care of [[Tamora]], Herself and hers are highly bound to thee. Exeunt Chiron and [[Demetrius]] with the [[Nurse]]’s [[Body|body]] |
-| [[Aaron|AARON]] | Now to the Goths, as swift as [[Swallow|swallow]] flies, There to dispose this treasure in mine arms And secretly to greet the Empress’ friends. Come on, you thick-lipped slave, I’ll bear you hence, For it is you that puts us to our shifts. I’ll make you feed on berries and on roots, And fat on curds and whey, and suck the goat, And cabin in a [[Cave|cave]], and bring you up To be a warrior and command a camp. Exit with the [[Child|child]] |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="Titus Andronicus — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Flourish. Enter [[Lucius]] with an army of Goths, with drummers and soldiers |
-| [[Lucius|LUCIUS]] | Approved warriors and my faithful friends, I have received letters from great Rome Which signifies what hate they bear their emperor And how desirous of our sight they are. Therefore, great lords, be as your titles witness, Imperious, and impatient of your wrongs, And wherein Rome hath done you any scath Let him make treble satisfaction. |
-| *(didascalia)* | A |
-| GOTH | Brave slip sprung from the great Andronicus, Whose name was once our terror, now our comfort, Whose high exploits and honourable deeds Ingrateful Rome requites with foul contempt, Be bold in us. We’ll follow where thou lead’st, Like stinging [[Bees|bees]] in hottest [[Summer|summer]]’s day Led by their master to the flowered fields, And be avenged on cursed [[Tamora]]. |
-| GOTHS | And as he saith, so say we all with him. |
-| [[Lucius|LUCIUS]] | I humbly thank him, and I thank you all. But who comes here, led by a lusty Goth? Enter a Goth, leading of [[Aaron]] with his [[Child|child]] in his |
-| [[Lucius|LUCIUS]] | arms |
-| GOTH | Renowned [[Lucius]], from our troops I strayed To gaze upon a ruinous monastery, And as I earnestly did fix mine eye Upon the wasted building, suddenly I heard a [[Child|child]] cry underneath a wall. I made unto the noise, when soon I heard The crying babe controlled with this discourse: ‘Peace, tawny slave, half me and half thy dam! Did not thy hue bewray whose brat thou art, Had [[Nature|nature]] lent thee but thy mother’s look, [[Villain]], thou mightst have been an emperor. But where the bull and cow are both milk-white They never do beget a coal-black calf. Peace, [[Villain|villain]], peace!’—even thus he rates the babe— ‘For I must bear thee to a trusty Goth Who, when he knows thou art the Empress’ babe, Will hold thee dearly for thy mother’s sake.’ With this, my weapon drawn, I rushed upon him, Surprised him suddenly, and brought him hither To use as you think needful of the man. |
-| [[Lucius|LUCIUS]] | O worthy Goth, this is the incarnate devil That robbed Andronicus of his good hand. This is the pearl that pleased your Empress’ eye, And here’s the base fruit of her burning lust. (To [[Aaron]]) Say, wall-eyed slave, whither wouldst thou convey This growing image of thy fiendlike face? Why dost not speak? What, deaf? What, not a word? A halter, soldiers! Hang him on this tree, And by his side his fruit of bastardy. |
-| [[Aaron|AARON]] | Touch not the boy; he is of royal [[Blood|blood]]. |
-| [[Lucius|LUCIUS]] | Too like the sire for ever being good. First hang the [[Child|child]], that he may see it sprawl— A sight to vex the father’s [[Soul|soul]] withal. Get me a ladder. A Goth brings a ladder which [[Aaron]] climbs |
-| [[Aaron|AARON]] | [[Lucius]], save the [[Child|child]], And bear it from me to the Empress. If thou do this, I’ll show thee wondrous things That highly may advantage thee to hear. If thou wilt not, befall what may befall, I’ll speak no more but ‘Vengeance rot you all!’ |
-| [[Lucius|LUCIUS]] | Say on, and if it please me which thou speak’st Thy [[Child|child]] shall live, and I will see it nourished. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--02_exchange_aaron" data-title="Titus Andronicus — Act V, Scene 1 — exchange (AARON) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Aaron|AARON]] | And if it please thee? Why, assure thee, [[Lucius]], ’Twill vex thy [[Soul|soul]] to hear what I shall speak; For I must talk of murders, rapes, and massacres, Acts of black [[Night|night]], abominable deeds, Complots of mischief, treason, villainies Ruthful to hear yet piteously performed, And this shall all be buried in my [[Death|death]] Unless thou swear to me my [[Child|child]] shall live. |
-| [[Lucius|LUCIUS]] | Tell on thy mind. I say thy [[Child|child]] shall live. |
-| [[Aaron|AARON]] | Swear that he shall, and then I will begin. |
-| [[Lucius|LUCIUS]] | Who should I swear by? Thou believest no god. That granted, how canst thou believe an oath? |
-| [[Aaron|AARON]] | What if I do not?—as indeed I do not— Yet for I know thou art religious And hast a thing within thee called [[Conscience|conscience]], With twenty popish tricks and ceremonies Which I have seen thee careful to observe, Therefore I urge thy oath; for that I know An idiot holds his bauble for a god, And keeps the oath which by that god he swears, To that I’ll urge him, therefore thou shalt vow By that same god, what god soe’er it be, That thou adorest and hast in reverence, To save my boy, to [[Nurse|nurse]] and bring him up, Or else I will discover naught to thee. |
-| [[Lucius|LUCIUS]] | Even by my god I swear to thee I will. |
-| [[Aaron|AARON]] | First know thou I begot him on the Empress. |
-| LUCIIJS | O most insatiate and luxurious woman! |
-| [[Aaron|AARON]] | Tut, [[Lucius]], this was but a deed of [[Charity|charity]] To that which thou shalt hear of me anon. ’Twas her two sons that murdered [[Bassianus]]. They cut thy sister’s tongue, and ravished her, And cut her hands, and trimmed her as thou sawest. |
-| [[Lucius|LUCIUS]] | O detestable [[Villain|villain]]! Call’st thou that trimming? |
-| [[Aaron|AARON]] | Why, she was washed and cut and trimmed, and ’twas Trim sport for them which had the doing of it. |
-| [[Lucius|LUCIUS]] | O barbarous beastly villains, like thyself! |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--03_monologue_aaron" data-title="Titus Andronicus — Act V, Scene 1 — monologue (AARON) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Aaron|AARON]] | Indeed, I was their tutor to instruct them. That codding spirit had they from their mother, As sure a card as ever won the set. That bloody mind I think they learned of me, As true a dog as ever fought at head. [[Well]], let my deeds be witness of my worth. I trained thy brethren to that guileful hole Where the dead corpse of [[Bassianus]] lay. I wrote the letter that thy father found, And hid the gold within that letter mentioned, Confederate with the [[Queen]] and her two sons; And what not done that thou hast cause to rue Wherein I had no stroke of mischief in it? I played the cheater for thy father’s hand, And when I had it drew myself apart, And almost broke my heart with extreme laughter. I pried me through the crevice of a wall When for his hand he had his two sons’ heads, Beheld his [[Tears|tears]], and laughed so heartily That both mine eyes were rainy like to his; And when I told the Empress of this sport She swoonèd almost at my pleasing tale, And for my tidings gave me twenty kisses. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--04_exchange_a_goth" data-title="Titus Andronicus — Act V, Scene 1 — exchange (A GOTH) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A |
-| GOTH | What, canst thou say all this and never blush? |
-| [[Aaron|AARON]] | Ay, like a black dog, as the saying is. |
-| [[Lucius|LUCIUS]] | Art thou not sorry for these heinous deeds? |
-| [[Aaron|AARON]] | Ay, that I had not done a thousand more. Even now I curse the day—and yet I think Few come within the compass of my curse— Wherein I did not some notorious ill, As kill a man, or else devise his [[Death|death]]; Ravish a maid, or plot the way to do it; Accuse some [[Innocent|innocent]] and forswear myself; Set deadly enmity between two friends; Make poor men’s cattle break their necks; Set [[Fire|fire]] on barns and haystacks in the [[Night|night]], And bid the owners quench them with their [[Tears|tears]]. Oft have I digged up dead men from their graves And set them upright at their dear friends’ door, Even when their sorrows almost was forgot, And on their skins, as on the bark of trees, Have with my knife carved in Roman letters ‘Let not your sorrow die though I am dead.’ But I have done a thousand dreadful things As willingly as one would kill a fly, And nothing grieves me heartily indeed But that I cannot do ten thousand more. |
-| [[Lucius|LUCIUS]] | Bring down the devil, for he must not die So sweet a [[Death|death]] as hanging presently. Goths bring [[Aaron]] down the ladder |
-| [[Aaron|AARON]] | If there be devils, would I were a devil, To live and burn in everlasting [[Fire|fire]], So I might have your company in hell But to torment you with my bitter tongue. |
-| [[Lucius|LUCIUS]] | Sirs, stop his mouth, and let him speak no more. Goths gag [[Aaron]]. Enter Aemilius |
-| *(didascalia)* | A |
-| GOTH | My lord, there is a messenger from Rome Desires to be admitted to your presence. |
-| [[Lucius|LUCIUS]] | Let him come near. Welcome, Aemilius. What’s the news from Rome? |
-| AEMILIUS | Lord [[Lucius]], and you princes of the Goths, The Roman Emperor greets you all by me, And for he understands you are in arms, He craves a parley at your father’s [[house]], Willing you to demand your hostages, And they shall be immediately delivered. |
-| *(didascalia)* | A |
-| GOTH | What says our general? |
-| [[Lucius|LUCIUS]] | Aemilius, let the Emperor give his pledges Unto my father and my uncle Marcus, And we will come. Away! Flourish. Exeunt marching |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--01_exchange_dialogue" data-title="Titus Andronicus — Act V, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Tamora]] and Chiron and [[Demetrius]], her two sons, disguised |
-| [[Tamora|TAMORA]] | Thus, in this strange and sad habiliment, I will encounter with Andronicus And say I am [[Revenge]], sent from below To join with him and right his heinous wrongs. Knock at his study, where they say he keeps To ruminate strange plots of dire [[Revenge|revenge]]. Tell him [[Revenge]] is come to join with him And work confusion on his enemies. They knock, and Titus aloft opens his study door |
-| TITUS | Who doth molest my contemplation? Is it your trick to make me ope the door, That so my sad decrees may fly away And all my study be to no effect? You are deceived; for what I mean to do, See here, in bloody lines I have set down, And what is written shall be executed. |
-| [[Tamora|TAMORA]] | Titus, I am come to talk with thee. |
-| TITUS | No, not a word. How can I grace my talk, Wanting a hand to give it action? Thou hast the odds of me, therefore no more. |
-| [[Tamora|TAMORA]] | If thou didst know me thou wouldst talk with me. |
-| TITUS | I am not mad, I know thee [[Well|well]] enough; Witness this wretched stump, witness these crimson lines, Witness these trenches made by grief and care, Witness the tiring day and heavy [[Night|night]], Witness all sorrow that I know thee [[Well|well]] For our proud empress, mighty [[Tamora]]. Is not thy coming for my other hand? |
-| [[Tamora|TAMORA]] | Know, thou sad man, I am not [[Tamora]]. She is thy enemy, and I thy friend. I am [[Revenge]], sent from th’nfernal kingdom To ease the gnawing vulture of thy mind By working wreakful vengeance on thy foes. Come down, and welcome me to this world’s light. Confer with me of murder and of [[Death|death]]. There’s not a hollow [[Cave|cave]] or lurking-place, No vast obscurity or misty vale Where bloody murder or detested rape Can couch for [[Fear|fear]], but I will find them out, And in their ears tell them my dreadful name, [[Revenge]], which makes the foul offender quake. |
-| TITUS | Art thou [[Revenge]], and art thou sent to me To be a torment to mine enemies? |
-| [[Tamora|TAMORA]] | I am; therefore come down, and welcome me. |
-| TITUS | Do me some service ere I come to thee. Lo by thy side where Rape and Murder stands. Now give some surance that thou art [[Revenge]], Stab them, or tear them on thy chariot wheels, And then I’ll come and be thy wagoner, And whirl along with thee about the globe, Provide two proper palfreys, black as jet, To hale thy vengeful wagon swift away And find out murderers in their guilty caves. And when thy car is loaden with their heads I will dismount, and by thy wagon [[Wheel|wheel]] Trot like a servile footman all day long, Even from [[Hyperion]]’s rising in the east Until his very downfall in the sea; And day by day I’ll do this heavy task, So thou destroy Rapine and Murder there. |
-| [[Tamora|TAMORA]] | These are my ministers, and come with me. |
-| TITUS | Are they thy ministers? What are they called? |
-| [[Tamora|TAMORA]] | Rape and Murder, therefore called so ‘Cause they take vengeance of such kind of men. |
-| TITUS | Good Lord, how like the Empress’ sons they are, And you the Empress! But we worldly men Have miserable, mad, mistaking eyes. O sweet [[Revenge]], now do I come to thee, And if one arm’s embracement will content thee, I will embrace thee in it by and by. Exit aloft |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--02_exchange_tamora" data-title="Titus Andronicus — Act V, Scene 2 — exchange (TAMORA) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Tamora|TAMORA]] | This closing with him fits his lunacy. Whate’er I forge to feed his brainsick humours Do you uphold and maintain in your speeches, For now he firmly takes me for [[Revenge]], And being credulous in this mad thought I’ll make him send for [[Lucius]] his son, And whilst I at a banquet hold him sure I’ll find some cunning practice out of hand To scatter and disperse the giddy Goths, Or at the least make them his enemies. See, here he comes, and I must ply my theme. Enter Titus, below |
-| TITUS | Long have I been forlorn, and all for thee. Welcome, dread Fury, to my woeful [[house]]. Rapine and Murder, you are welcome, too. How like the Empress and her sons you are! [[Well]] are you fitted, had you but a Moor. Could not all hell afford you such a devil?— For [[Well|well]] I wot the Empress never wags But in her company there is a Moor, And would you represent our [[Queen]] aright It were convenient you had such a devil. But welcome as you are. What shall we do? |
-| [[Tamora|TAMORA]] | What wouldst thou have us do, Andronicus? |
-| [[Demetrius|DEMETRIUS]] | Show me a murderer, I’ll deal with him. |
-| CHIRON | Show me a [[Villain|villain]] that hath done a rape, And I am sent to be revenged on him. |
-| [[Tamora|TAMORA]] | Show me a thousand that hath done thee wrong, And I will be revenged on them all. |
-| TITUS | (to [[Demetrius]]) Look round about the wicked streets of Rome, And when thou find’st a man that’s like thyself, Good Murder, stab him; he’s a murderer. (To Chiron) Go thou with him, and when it is thy hap To find another that is like to thee, Good Rapine, stab him; he is a ravisher. (To [[Tamora]]) Go thou with them, and in the Emperor’s [[Court|court]] There is a [[Queen|queen]] attended by a Moor. [[Well]] shalt thou know her by thine own proportion, For up and down she doth resemble thee. I pray thee, do on them some violent [[Death|death]]; They have been violent to me and mine. |
-| [[Tamora|TAMORA]] | [[Well]] hast thou lessoned us. This shall we do; But would it please thee, good Andronicus, To send for [[Lucius]], thy thrice-valiant son, Who leads towards Rome a band of warlike Goths, And bid him come and banquet at thy [[house]]— When he is here, even at thy solemn feast, I will bring in the Empress and her sons, The Emperor himself, and all thy foes, And at thy [[Mercy|mercy]] shall they stoop and kneel, And on them shalt thou ease thy angry heart. What says Andronicus to this device? |
-| TITUS | Marcus, my brother! ’Tis sad Titus calls. Enter Marcus Go, gentle Marcus, to thy nephew [[Lucius]]. Thou shalt enquire him out among the Goths. Bid him repair to me, and bring with him Some of the chiefest princes of the Goths. Bid him encamp his soldiers where they are. Tell him the Emperor and the Empress too Feast at my [[house]], and he shall feast with them. This do thou for my [[Love|love]], and so let him, As he regards his aged father’s life. |
-| MARCUS | This will I do, and soon return again. Exit |
-| [[Tamora|TAMORA]] | Now will I hence about thy business, And take my ministers along with me. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--03_exchange_titus" data-title="Titus Andronicus — Act V, Scene 2 — exchange (TITUS) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| TITUS | Nay, nay, let Rape and Murder stay with me, Or else I’ll call my brother back again, And cleave to no [[Revenge|revenge]] but [[Lucius]]. |
-| [[Tamora|TAMORA]] | (aside to her sons) What say you, boys, will you abide with him Whiles I go tell my lord the Emperor How I have governed our determined jest? Yield to his [[Humour|humour]], smooth and speak him fair, And tarry with him till I turn again. |
-| TITUS | (aside) I knew them all, though they supposed me mad, And will o’erreach them in their own devices— A pair of cursed hell-hounds and their dam. |
-| [[Demetrius|DEMETRIUS]] | Madam, depart at pleasure. Leave us here. |
-| [[Tamora|TAMORA]] | Farewell, Andronicus. [[Revenge]] now goes To lay a complot to betray thy foes. |
-| TITUS | I know thou dost, and sweet [[Revenge]], farewell. Exit [[Tamora]] |
-| CHIRON | Tell us, old man, how shall we be employed? |
-| TITUS | Tut, I have work enough for you to do. Publius, come hither; Caius and [[Valentine]]. Enter Publius, Caius, and [[Valentine]] |
-| PUBLIUS | What is your will? |
-| TITUS | Know you these two? |
-| PUBLIUS | The Empress’ sons I take them—Chiron, [[Demetrius]]. |
-| TITUS | Fie, Publius, fie! Thou art too much deceived. The one is Murder, and Rape is the other’s name. And therefore bind them, gentle Publius; Caius and [[Valentine]], lay hands on them. Oft have you heard me wish for such an hour, And now I find it. Therefore bind them sure, And stop their mouths if they begin to cry. Exit |
-| CHIRON | Villains, forbear! We are the Empress’ sons. |
-| PUBLIUS | And therefore do we what we are commanded. Publius, Caius, and [[Valentine]] bind and gag Chiron |
-| PUBLIUS | and [[Demetrius]] Stop close their mouths. Let them not speak a word. Is he sure bound? Look that you bind them fast. Enter [[Titus Andronicus]] with a knife, and [[Lavinia]] |
-| PUBLIUS | with a basin |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--04_monologue_titus" data-title="Titus Andronicus — Act V, Scene 2 — monologue (TITUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| TITUS | Come, come, [[Lavinia]]. Look, thy foes are bound. Sirs, stop their mouths. Let them not speak to me, But let them hear what fearful words I utter. O villains, Chiron and [[Demetrius]]! Here stands the [[spring]] whom you have stained with mud, This goodly [[Summer|summer]] with your [[Winter|winter]] mixed. You killed her husband, and for that vile fault Two of her brothers were condemned to [[Death|death]], My hand cut off and made a merry jest, Both her sweet hands, her tongue, and that more dear Than hands or tongue, her spotless chastity, Inhuman traitors, you constrained and forced. What would you say if I should let you speak? Villains, for shame. You could not beg for grace. Hark, wretches, how I mean to martyr you. This one hand yet is left to cut your throats, Whiles that [[Lavinia]] ’tween her stumps doth hold The basin that receives your guilty [[Blood|blood]]. You know your mother means to feast with me, And calls herself [[Revenge]], and thinks me mad. Hark, villains, I will grind your bones to [[Dust|dust]], And with your [[Blood|blood]] and it I’ll make a paste, And of the paste a coffin I will rear, And make two pasties of your shameful heads, And bid that strumpet, your unhallowed dam, Like to the earth [[Swallow|swallow]] her own increase. This is the feast that I have bid her to, And this the banquet she shall surfeit on; For worse than Philomel you used my daughter, And worse than Progne I will be revenged. And now, prepare your throats. [[Lavinia]], come. Receive the [[Blood|blood]], and when that they are dead Let me go grind their bones to powder small, And with this hateful liquor temper it, And in that paste let their vile heads be baked. Come, come, be everyone officious To make this banquet, which I wish may prove More stern and bloody than the Centaurs’ feast. He cuts their throats So, now bring them in, for I’ll play the cook And see them ready against their mother comes. Exeunt carrying the bodies |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--01_exchange_dialogue" data-title="Titus Andronicus — Act V, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Lucius]], Marcus, and the Goths, with [[Aaron]], prisoner, and an attendant with his [[Child|child]] |
-| [[Lucius|LUCIUS]] | Uncle Marcus, since ’tis my father’s mind That I repair to Rome, I am content. |
-| *(didascalia)* | A |
-| GOTH | And ours with thine, befall what fortune will. |
-| [[Lucius|LUCIUS]] | Good uncle, take you in this barbarous Moor, This ravenous tiger, this accursed devil. Let him receive no sust’nance, fetter him Till he be brought unto the Empress’ face For testimony of her foul proceedings, And see the ambush of our friends be strong. I [[Fear|fear]] the Emperor means no good to us. |
-| [[Aaron|AARON]] | Some devil whisper curses in my ear And prompt me, that my tongue may utter forth The venomous malice of my swelling heart. |
-| [[Lucius|LUCIUS]] | Away, inhuman dog, unhallowed slave! Sirs, help our uncle to convey him in. Exeunt Goths with [[Aaron]] and his [[Child|child]] Flourish The trumpets show the Emperor is at hand. Enter [[Saturninus]] the Emperor, and [[Tamora]] the |
-| [[Lucius|LUCIUS]] | Empress, with Aemilius, Tribunes, Senators, and |
-| [[Lucius|LUCIUS]] | others |
-| [[Saturninus|SATURNINUS]] | What, hath the firmament more suns than one? |
-| [[Lucius|LUCIUS]] | What boots it thee to call thyself a sun? |
-| MARCUS | Rome’s emperor and nephew, break the parle. These quarrels must be quietly debated. The feast is ready which the careful Titus Hath ordained to an honourable end, For peace, for [[Love|love]], for league, and good to Rome. Please you therefore draw nigh, and take your places. |
-| [[Saturninus|SATURNINUS]] | Marchs, we will. Hautboys. A table brought in. They sit. |
-| *(didascalia)* | Enter Titus like a cook, placing the dishes, and |
-| *(didascalia)* | [[Lavinia]] with a veil over her face; young [[Lucius]], |
-| *(didascalia)* | and others |
-| TITUS | Welcome, my gracious lord; welcome, dread [[Queen]]; Welcome, ye warlike Goths; welcome, [[Lucius]]; And welcome, all. Although the cheer be poor, ‘Twill fill your stomachs. Please you, eat of it. |
-| [[Saturninus|SATURNINUS]] | Why art thou thus attired, Andronicus? |
-| TITUS | Because I would be sure to have all [[Well|well]] To entertain your highness and your Empress. |
-| [[Tamora|TAMORA]] | We are beholden to you, good Andronicus. |
-| TITUS | An if your highness knew my heart, you were. My lord the Emperor, resolve me this: Was it [[Well|well]] done of rash Virginius To slay his daughter with his own right hand Because she was enforced, stained, and deflowered? |
-| [[Saturninus|SATURNINUS]] | It was, Andronicus. |
-| TITUS | Your reason, mighty lord? |
-| [[Saturninus|SATURNINUS]] | Because the girl should not survive her shame, And by her presence still renew his sorrows. |
-| TITUS | A reason mighty, strong, effectual; A pattern, precedent, and lively warrant For me, most wretched, to perform the like. Die, die, [[Lavinia]], and thy shame with thee, And with thy shame thy father’s sorrow die. He kills her |
-| [[Saturninus|SATURNINUS]] | What hast thou done, unnatural and unkind? |
-| TITUS | Killed her for whom my [[Tears|tears]] have made me blind. I am as woeful as Virginius was, And have a thousand times more cause than he To do this outrage, and it now is done. |
-| [[Saturninus|SATURNINUS]] | What, was she ravished? Tell who did the deed. |
-| TITUS | Will’t please you eat? Will’t please your highness feed? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--02_exchange_tamora" data-title="Titus Andronicus — Act V, Scene 3 — exchange (TAMORA) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Tamora|TAMORA]] | Why hast thou slain thine only daughter thus? |
-| TITUS | Not I, ‘twas Chiron and [[Demetrius]]. They ravished her, and cut away her tongue, And they, ’twas they, that did her all this wrong. |
-| [[Saturninus|SATURNINUS]] | Go, fetch them hither to us presently. |
-| TITUS | revealing the heads Why, there they are, both baked in this pie, Whereof their mother daintily hath fed, Eating the flesh that she herself hath bred. ‘Tis true, ’tis true, witness my knife’s sharp point. He stabs the Empress |
-| [[Saturninus|SATURNINUS]] | Die, frantic wretch, for this accursed deed. He kills Titus |
-| [[Lucius|LUCIUS]] | Can the son’s eye behold his father bleed? There’s meed for meed, [[Death|death]] for a deadly deed. He kills [[Saturninus]]. Confusion follows. Enter Goths. [[Lucius]], Marcus and others go aloft |
-| MARCUS | You sad-faced men, people and sons of Rome, By uproars severed, as a flight of fowl Scattered by winds and high tempestuous gusts, O, let me teach you how to knit again This scattered corn into one mutual sheaf, These broken limbs again into one [[Body|body]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--03_monologue_a_roman_lord" data-title="Titus Andronicus — Act V, Scene 3 — monologue (A ROMAN LORD) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A |
-| ROMAN LORD | Let Rome herself be bane unto herself, And she whom mighty kingdoms curtsy to, Like a forlorn and desperate castaway, Do shameful execution on herself But if my frosty signs and chaps of age, [[Grave]] witnesses of true experience, Cannot induce you to attend my words. (To [[Lucius]]) Speak, Rome’s dear friend, as erst our ancestor When with his solemn tongue he did discourse To lovesick Dido’s sad-attending ear The story of that baleful-burning [[Night|night]] When subtle Greeks surprised [[King]] Priam’s Troy. Tell us what Sinon hath bewitched our ears, Or who hath brought the fatal engine in That gives our Troy, our Rome, the civil wound. My heart is not compact of flint nor steel, Nor can I utter all our bitter grief, But floods of [[Tears|tears]] will drown my oratory And break my utt’rance even in the [[Time|time]] When it should move ye to attend me most, And force you to commiseration. Here’s Rome’s young captain. Let him tell the tale, While I stand by and weep to hear him speak. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--04_monologue_lucius" data-title="Titus Andronicus — Act V, Scene 3 — monologue (LUCIUS) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Lucius|LUCIUS]] | Then, gracious auditory, be it known to you That Chiron and the damned [[Demetrius]] Were they that murdered our Emperor’s brother, And they it were that ravished our sister. For their fell faults our brothers were beheaded, Our father’s [[Tears|tears]] despised, and basely cozened Of that true hand that fought Rome’s quarrel out And sent her enemies unto the [[Grave|grave]]. Lastly myself, unkindly banished, The gates shut on me, and turned weeping out To beg relief among Rome’s enemies, Who drowned their enmity in my true [[Tears|tears]] And oped their arms to embrace me as a friend. I am the turned-forth, be it known to you, That have preserved her welfare in my [[Blood|blood]], And from her bosom took the enemy’s point, Sheathing the steel in my advent’rous [[Body|body]]. Alas, you know I am no vaunter, I. My scars can witness, dumb although they are, That my report is just and full of [[Truth|truth]]. But soft, methinks I do digress too much, Citing my worthless praise. O, pardon me, For when no friends are by, men praise themselves. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--05_exchange_marcus" data-title="Titus Andronicus — Act V, Scene 3 — exchange (MARCUS) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MARCUS | Now is my turn to speak. Behold the [[Child|child]]. Of this was [[Tamora]] delivered, The issue of an irreligious Moor, Chief architect and plotter of these woes. The [[Villain|villain]] is alive in Titus’ [[house]], And as he is to witness, this is true. Now judge what cause had Titus to [[Revenge|revenge]] These wrongs unspeakable, past patience, Or more than any living man could bear. Now have you heard the [[Truth|truth]]. What say you, Romans? Have we done aught amiss, show us wherein, And from the place where you behold us pleading The poor remainder of Andronici Will hand in hand all headlong hurl ourselves And on the ragged stones beat forth our souls And make a mutual closure of our [[house]]. Speak, Romans, speak, and if you say we shall; Lo, hand in hand [[Lucius]] and I will fall. |
-| AEMILIUS | Come, come, thou reverend man of Rome, And bring our emperor gently in thy hand, [[Lucius]], our emperor—for [[Well|well]] I know The common voice do cry it shall be so. |
-| ROMANS | [[Lucius]], all hail, Rome’s royal emperor! |
-| MARCUS | (to attendants) Go, go into old Titus’ sorrowful [[house]] And hither hale that misbelieving Moor To be adjudged some direful slaught’ring [[Death|death]] As punishment for his most wicked life. Exeunt some [[Lucius]], Marcus, and the others come down ROMANS [[Lucius]], all hail, Rome’s gracious governor! |
-| [[Lucius|LUCIUS]] | Thanks, gentle Romans. May I govern so To heal Rome’s harms and wipe away her woe. But, gentle people, give me aim awhile, For [[Nature|nature]] puts me to a heavy task. Stand all aloof, but, uncle, draw you near To shed obsequious [[Tears|tears]] upon this trunk. (Kissing Titus) O, take this warm kiss on thy pale cold lips, These sorrowful drops upon thy bloodstained face, The last true duties of thy noble son. |
-| MARCUS | (kissing Titus) Tear for tear, and loving kiss for kiss, Thy brother Marcus tenders on thy lips. O, were the sum of these that I should pay Countless and infinite, yet would I pay them. |
-| [[Lucius|LUCIUS]] | (to young [[Lucius]]) Come hither, boy, come, come, and learn of us To melt in showers. Thy grandsire loved thee [[Well|well]]. Many a [[Time|time]] he danced thee on his knee, Sung thee asleep, his loving breast thy pillow. Many a story hath he told to thee, And bid thee bear his pretty tales in mind, And talk of them when he was dead and gone. |
-| MARCUS | How many thousand times hath these poor lips, When they were living, warmed themselves on thine! O now, sweet boy, give them their latest kiss. Bid him farewell. Commit him to the [[Grave|grave]]. Do them that kindness, and take leave of them. |
-| YOUNG [[Lucius|LUCIUS]] | (kissing Titus) O grandsire, grandsire, ev’n with all my heart Would I were dead, so you did live again. O Lord, I cannot speak to him for weeping. My [[Tears|tears]] will choke me if I ope my mouth. Enter some with [[Aaron]] |
-| *(didascalia)* | A |
-| ROMAN | You sad Andronici, have done with woes. Give sentence on this execrable wretch That hath been breeder of these dire events. |
-| [[Lucius|LUCIUS]] | Set him breast-deep in earth and famish him. There let him stand, and rave, and cry for food. If anyone relieves or pities him, For the offence he dies. This is our doom. Some stay to see him fastened in the earth. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--06_exchange_aaron" data-title="Titus Andronicus — Act V, Scene 3 — exchange (AARON) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Aaron|AARON]] | Ah, why should wrath be mute and fury dumb? I am no baby, I, that with base prayers I should repent the evils I have done. Ten thousand worse than ever yet I did Would I perform if I might have my will. If one good deed in all my life I did I do repent it from my very [[Soul|soul]]. |
-| [[Lucius|LUCIUS]] | Some loving friends convey the Emperor hence, And give him burial in his father’s [[Grave|grave]]. My father and [[Lavinia]] shall forthwith Be closed in our household’s monument. As for that ravenous tiger, [[Tamora]], No funeral rite nor man in mourning weed, No mournful bell shall ring her burial; But throw her forth to beasts and [[Birds|birds]] to prey. Her life was beastly and devoid of pity, And being dead, let [[Birds|birds]] on her take pity. Exeunt with the bodies |
-| A. AFTER | 1.1.35 The following passage, found in the First Quarto following a comma after ‘field’ but not included in the Second or Third Quartos or the Folio, conflicts with the subsequent action and presumably should have been deleted. (In the second line, Q1 reads ’of that’ for ‘of the’.) and at this day To the monument of the Andronici Done sacrifice of expiation, And slain the noblest prisoner of the Goths. |
-| B. AFTER | 1.1.283 The following passage found in the quartos and the Folio is difficult to reconcile with the apparent need for [[Saturninus]] and his party to leave the stage at 275.1-2 before entering ‘above’ at 294.2-4. It is omitted from our text in the belief that Shakespeare intended it to be deleted after adding the episode of Mutius’ killing to his original draft, and that the printers of Q1 included it by accident. TITUS Treason, my lord! [[Lavinia]] is surprised. |
-| [[Saturninus|SATURNINUS]] | Surprised, by whom? |
-| [[Bassianus|BASSIANUS]] | By him that justly may Bear his betrothed from all the world away. |
-| C. AFTER | 4.3.93 The following lines, found in the early texts, appear to be a draft of the subsequent six lines. |
-| MARCUS | (to Titus) Why, sir, that is as fit as can be to serve for your oration, and let him deliver the pigeons to the Emperor from you. |
-| TITUS | (to the Clown) Tell me, can you deliver an oration to the Emperor with a grace? |
-| CLOWN | Nay, truly, sir, I could never say grace in all my life. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--07_monologue_in" data-title="Titus Andronicus — Act V, Scene 3 — monologue (IN) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| IN | narrative sequence, [[Richard III]] follows directly after [[Richard]] [[Duke of York]], and that play’s closing scenes, in which [[Richard]] of [[Gloucester]] expresses his ambitions for the [[Crown|crown]], suggest that Shakespeare had a sequel in mind. But he seems to have gone back to tell the beginning of the story of [[Henry VI]]’s reign before covering the events from [[Henry VI]]’s [[Death|death]] (in 1471) to the Battle of Bosworth (1485). We have no record of the first performance of [[Richard III]] (probably in late 1592 or early 1593, outside [[London]]); it was printed in 1597, with five reprints before its inclusion in the 1623 Folio. The principal source of information about [[Richard III]] available to Shakespeare was [[Sir Thomas More]]’s [[history|History]] of [[King]] [[Richard III]] as incorporated in chronicle histories by Edward Hall (1542) and Raphael Holinshed (1577, revised in 1587), both of which Shakespeare seems to have used. His artistic influences include the tragedies of the Roman dramatist Seneca (who was born about 4 BC and died in AD 65), with their [[Ghosts|ghosts]], their rhetorical style, their prominent choruses, and their indirect, highly formal presentation of violent events. (Except for the stabbing of [[Clarence]] (1.4) there is no on-stage violence in [[Richard III]] until the final battle scenes.) In this play, Shakespeare demonstrates a more complete artistic control of his historical material than in its predecessors: [[Richard]] himself is a more dominating central figure than is to be found in any of the earlier plays, historical events are freely manipulated in the interests of an overriding design, and the play’s language is more highly patterned and rhetorically unified. That part of the play which shows [[Richard]]’s bloody progress to the throne is based on the events of some twelve years; the remainder covers the two years of his reign. Shakespeare omits some important events, but invents [[Richard]]’s wooing of [[Lady Anne]] over her father-in-law’s coffin, and causes [[Queen Margaret]], who had returned to France in 1476 and who died before [[Richard]] became [[King|king]], to remain in England as a choric figure of grief and retribution. The characterization of [[Richard]] as a [[Self|self]]-delighting ironist builds upon More. The episodes in which the older women of the play—the Duchess of York, [[Queen Elizabeth]], and [[Queen Margaret]]—bemoan their losses, and the climactic procession of [[Ghosts|ghosts]] before the final confrontation of [[Richard]] with the idealized figure of Richmond, the future Henry VII, help to make [[Richard III]] the culmination of a tetralogy as [[Well|well]] as a masterly poetic drama in its own right. The final speech, in which Richmond, heir to the [[house]] of Lancaster and grandfather of [[Queen Elizabeth]] I, proclaims the [[Union|union]] of ‘the white [[Rose|rose]] and the red’ in his [[Marriage|marriage]] to Elizabeth of York, provides a patriotic climax which must have been immensely stirring to the play’s early audiences. Colley Cibber’s adaptation (1700) of [[Richard III]], incorporating the [[Death|death]] of [[Henry VI]], shortening and adapting the play, and making the central role (played by Cibber) even more dominant than it had originally been, held the stage with great [[success]] until the late nineteenth century. Since then, Shakespeare’s text has been restored (though usually abbreviated—next to [[Hamlet]], this is Shakespeare’s longest play), and the role of [[Richard]] has continued to present a rewarding challenge to leading actors. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--08_exchange_the_persons_of_the_play" data-title="Titus Andronicus — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [8]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
 | THE PERSONS OF THE | PLAY |
 
 

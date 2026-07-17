@@ -1158,116 +1158,6 @@ As the audience dispersed, the gloomiest forebodings arose upon the subject of t
 
 
 
-<span class="atom-split" data-atom="story_10_report_of_the_committee" data-title="The Great Inquiry — Report Of The Committee" data-chapter="Report Of The Committee" data-kind="story"></span>
-
-
-REPORT OF THE COMMITTEE
-APPOINTED TO
-SIT HARD UPON
-
-
-
-
-<span class="atom-split" data-atom="story_11_the_fiscal_conditions" data-title="The Great Inquiry — The Fiscal Conditions" data-chapter="The Fiscal Conditions" data-kind="story"></span>
-
-
-THE FISCAL CONDITIONS
-OF THE
-MOTHERLAND.
-
-Made to the Cabinet in Full Session, crowned, robed, and regardant, and ordered to be enrolled among the Imperial Archives
-
-Under the Great Seal, the Privy Seal, and the Mace Statuant.
-
-Your Committee —
-
-Did first consider whether they should pursue the course of stating their reasons before their conclusions; or, secondly, their conclusions before their reasons; or, thirdly, their reasons only; or, fourthly, their conclusions only; or, fifthly, a sort of rhodomontade in which there should be neither reasons nor conclusions, as is the more common practice. Your Committee divided upon each of these questions, when it appeared that —
-
-The first course was rejected unanimously.
-
-The second course was rejected by acclamation.
-
-The third course was rejected by inspiration.
-
-The fourth course was rejected by infatuation.
-
-The fifth course was rejected by error.
-
-It having thus arrived, in the heat of the moment, that Your Committee had by accident rejected all courses, and had nothing left to go upon — there being no precedent for such a misadventure —
-
-Your Committee
-
-Thereupon decided to begin de novo et ab ovo, and there was drawn up by
-
-Your Committee, with the aid of an expert prose-writer, a majority report, in the following tenor: —
-
-SECTION I. Your Committee are of opinion, after hearing all the evidence presented to them, that —
-
-The Empire cannot go on like this. It is amply proved that not only Great Britain and Ireland, but the Colonies also, are and have been for many years increasing in wealth, population, and power, to the grave detriment of the Christian Virtues of Humility and Holy Dread. It is further proved beyond cavil that the cheapness of goods of all kinds has enabled the mass of the population to live riotously, has destroyed thrift, impaired industry, and even threatened that Sobriety which had hitherto been the chief mark of our race.
-
-SECTION II. There is, however, another side of the picture. Not only Great Britain and Ireland, but the Colonies also, are on the verge of bankruptcy; their population is for the most part starving; in many districts, notably in Lancashire, the Isle of Thanet, Manitoba, and the Wagga-Muri country, N.S.W., the wretched populace subsist on grass like beasts of the field, and have lost all semblance of human form. Even the wealthy classes have felt the pinch. Three furnished houses in South Audley Street are untenanted, and it has been necessary to provide out-door relief for the clergy.
-
-
-
-
-<span class="atom-split" data-atom="story_12_made_in_poor_old_kent" data-title="The Great Inquiry — Made In Poor Old Kent." data-chapter="Made In Poor Old Kent" data-kind="story"></span>
-
-
-MADE IN POOR OLD KENT.
-
-SECTION III. Gold has accumulated so rapidly of late years as at once to clog the main channels of business, and to make men lose all sense of the value of the precious metal. An increase of five million pounds a year in the circulating medium of the country cannot be regarded without alarm. Innumerable 10s. bits are carelessly mistaken for sixpences. Whole sovereigns are dropped in cabs, and capitalists of great prominence allow vast sums to be withdrawn by fraud from their balances at the banks. The precious metals are used in making cigarette cases, medals, and statuettes, and are even wantonly wasted upon objects of superstition in the churches. All these evils undoubtedly proceed from what Professor Macfadden has called “The Plethora of Gold.”
-
-SECTION IV. Meanwhile there is an awful and hitherto irresistible drain of gold from every port in the kingdom. Most of our population, even those betraying every outward sign of prosperity, say that “they do not know where to turn for money.” The young men at our universities are all of them deeply in debt, and even the old men are often pretty dicky.
-
-“The young men are all of them deeply in debt, and even the old men are often pretty dicky.”
-
-Four Colonial loans have failed during the year.
-
-Mr. Seddon informs us that a paltry reward offered him by a grateful nation had to be raised in no less than five instalments. Indeed, he was for a long time most anxious about the fifth.
-
-It is extremely difficult to get change.
-
-Numerous cases are on record in which gentlemen of good birth have found themselves in omnibuses without the means to pay their fare. Some of them have been thrown out with violence.
-
-“Gentlemen of good birth”
-
-Short temporary loans, such as could once be negotiated by friends for nothing, can now only be raised upon ruinous terms — sometimes as much as 60 per cent. — from total strangers.
-
-Paper is everywhere creeping in in the place of metal, in the shape of cheques, bank-notes, stamps, I.O.U.s, and dunning letters: a state of affairs rather worthy of Spain than of a Race which has spread its language over half the new world.
-
-All these evils are most undoubtedly caused by the drain of gold.
-
-SECTION V. Foreign nations, in a fit of madness, are perpetually forcing presents upon us, to the ruin of our legitimate trade. Patriots who attempt to refuse these gifts are met by threats.
-
-A well-known alderman, of Peckham, who persistently bought English wine in preference to foreign trash, has recently died in torment under the suspicion of poison.
-
-A promising young clerk and poet, known as Balmy Jim, who dressed exclusively in clothes of his own manufacture, has been discovered hanging to a tree in Richmond Park.
-
-The Rev. Charles Henty, Fellow of St. Barnabas, who broke a lot of glass in Kew Gardens to encourage English glazing, has been incarcerated.
-
-SECTION VI. No less than fourteen professors of political economy have pointed out, in a very able manifesto, that they differ from some of the most remarkable of our politicians upon fiscal matters. This alone should show the intense interest aroused by the whole question, and the absurdity of pretending that an inquiry was not demanded.
-
-SECTION VII. We are informed by our colleagues that they have been scurrilously attacked by no less than fourteen pedants, whom they believe to be in the pay of foreign powers. This is not the kind of accusation that can be proved or disproved. It suffices to show the importance of the issues before us.
-
-SECTION VIII. The Editors of the Daily Mail, of the Spectator, of the Standard, and so forth, have suddenly turned nasty against the Editors of the Times, the Daily Express, the Globe, and what not, whoever they may be. This alone should show, &c., &c.
-
-SECTION IX. The Duke of Devonshire has made some most irritating remarks, so has Sir John Gorst. This alone, &c., &c.
-
-Your Committee are, therefore, totally unable to make up their minds what on earth should be done.
-
-It is quite impossible to decide.
-
-They are on the horns of a dilemma.
-
-They are in the utmost perturbation.
-
-They heartily wish you had not asked them to undertake this task.
-
-And Your Commissioners will ever pray, &c.
-
-
-
-
 <span class="atom-split" data-atom="story_09_the_animals--part_01" data-title="The Great Inquiry — The Animals. (part 1)" data-chapter="The Animals" data-kind="excerpt"></span>
 
 
@@ -1440,3 +1330,113 @@ When the approaching tramp and order of these brave men fell upon their ears, th
 Spurred by such emotions, the crowd broke through the cordon which had hitherto been stoutly maintained by a body of Mr. Brodrick’s recruits, and made a rush for the grand stand; it unfortunately collapsed under the multitude of those attempting to honour their leader by a personal embrace. Perhaps no fitter termination could have been imagined for a scene which marked a turning point in the history of the Horse Guards’ Parade.
 
 The Colonial Secretary, it need scarcely be added, did not remain to receive this last testimony to his popularity, but the beginning of the enthusiastic movement in the crowd was enough to convince him that he had thousands at his back, and, as Napoleon is reported to have said to his coachman after Waterloo, “With such numbers behind him a man should be capable of all things.”
+
+
+
+
+<span class="atom-split" data-atom="story_10_report_of_the_committee" data-title="The Great Inquiry — Report Of The Committee" data-chapter="Report Of The Committee" data-kind="story"></span>
+
+
+REPORT OF THE COMMITTEE
+APPOINTED TO
+SIT HARD UPON
+
+
+
+
+<span class="atom-split" data-atom="story_11_the_fiscal_conditions" data-title="The Great Inquiry — The Fiscal Conditions" data-chapter="The Fiscal Conditions" data-kind="story"></span>
+
+
+THE FISCAL CONDITIONS
+OF THE
+MOTHERLAND.
+
+Made to the Cabinet in Full Session, crowned, robed, and regardant, and ordered to be enrolled among the Imperial Archives
+
+Under the Great Seal, the Privy Seal, and the Mace Statuant.
+
+Your Committee —
+
+Did first consider whether they should pursue the course of stating their reasons before their conclusions; or, secondly, their conclusions before their reasons; or, thirdly, their reasons only; or, fourthly, their conclusions only; or, fifthly, a sort of rhodomontade in which there should be neither reasons nor conclusions, as is the more common practice. Your Committee divided upon each of these questions, when it appeared that —
+
+The first course was rejected unanimously.
+
+The second course was rejected by acclamation.
+
+The third course was rejected by inspiration.
+
+The fourth course was rejected by infatuation.
+
+The fifth course was rejected by error.
+
+It having thus arrived, in the heat of the moment, that Your Committee had by accident rejected all courses, and had nothing left to go upon — there being no precedent for such a misadventure —
+
+Your Committee
+
+Thereupon decided to begin de novo et ab ovo, and there was drawn up by
+
+Your Committee, with the aid of an expert prose-writer, a majority report, in the following tenor: —
+
+SECTION I. Your Committee are of opinion, after hearing all the evidence presented to them, that —
+
+The Empire cannot go on like this. It is amply proved that not only Great Britain and Ireland, but the Colonies also, are and have been for many years increasing in wealth, population, and power, to the grave detriment of the Christian Virtues of Humility and Holy Dread. It is further proved beyond cavil that the cheapness of goods of all kinds has enabled the mass of the population to live riotously, has destroyed thrift, impaired industry, and even threatened that Sobriety which had hitherto been the chief mark of our race.
+
+SECTION II. There is, however, another side of the picture. Not only Great Britain and Ireland, but the Colonies also, are on the verge of bankruptcy; their population is for the most part starving; in many districts, notably in Lancashire, the Isle of Thanet, Manitoba, and the Wagga-Muri country, N.S.W., the wretched populace subsist on grass like beasts of the field, and have lost all semblance of human form. Even the wealthy classes have felt the pinch. Three furnished houses in South Audley Street are untenanted, and it has been necessary to provide out-door relief for the clergy.
+
+
+
+
+<span class="atom-split" data-atom="story_12_made_in_poor_old_kent" data-title="The Great Inquiry — Made In Poor Old Kent." data-chapter="Made In Poor Old Kent" data-kind="story"></span>
+
+
+MADE IN POOR OLD KENT.
+
+SECTION III. Gold has accumulated so rapidly of late years as at once to clog the main channels of business, and to make men lose all sense of the value of the precious metal. An increase of five million pounds a year in the circulating medium of the country cannot be regarded without alarm. Innumerable 10s. bits are carelessly mistaken for sixpences. Whole sovereigns are dropped in cabs, and capitalists of great prominence allow vast sums to be withdrawn by fraud from their balances at the banks. The precious metals are used in making cigarette cases, medals, and statuettes, and are even wantonly wasted upon objects of superstition in the churches. All these evils undoubtedly proceed from what Professor Macfadden has called “The Plethora of Gold.”
+
+SECTION IV. Meanwhile there is an awful and hitherto irresistible drain of gold from every port in the kingdom. Most of our population, even those betraying every outward sign of prosperity, say that “they do not know where to turn for money.” The young men at our universities are all of them deeply in debt, and even the old men are often pretty dicky.
+
+“The young men are all of them deeply in debt, and even the old men are often pretty dicky.”
+
+Four Colonial loans have failed during the year.
+
+Mr. Seddon informs us that a paltry reward offered him by a grateful nation had to be raised in no less than five instalments. Indeed, he was for a long time most anxious about the fifth.
+
+It is extremely difficult to get change.
+
+Numerous cases are on record in which gentlemen of good birth have found themselves in omnibuses without the means to pay their fare. Some of them have been thrown out with violence.
+
+“Gentlemen of good birth”
+
+Short temporary loans, such as could once be negotiated by friends for nothing, can now only be raised upon ruinous terms — sometimes as much as 60 per cent. — from total strangers.
+
+Paper is everywhere creeping in in the place of metal, in the shape of cheques, bank-notes, stamps, I.O.U.s, and dunning letters: a state of affairs rather worthy of Spain than of a Race which has spread its language over half the new world.
+
+All these evils are most undoubtedly caused by the drain of gold.
+
+SECTION V. Foreign nations, in a fit of madness, are perpetually forcing presents upon us, to the ruin of our legitimate trade. Patriots who attempt to refuse these gifts are met by threats.
+
+A well-known alderman, of Peckham, who persistently bought English wine in preference to foreign trash, has recently died in torment under the suspicion of poison.
+
+A promising young clerk and poet, known as Balmy Jim, who dressed exclusively in clothes of his own manufacture, has been discovered hanging to a tree in Richmond Park.
+
+The Rev. Charles Henty, Fellow of St. Barnabas, who broke a lot of glass in Kew Gardens to encourage English glazing, has been incarcerated.
+
+SECTION VI. No less than fourteen professors of political economy have pointed out, in a very able manifesto, that they differ from some of the most remarkable of our politicians upon fiscal matters. This alone should show the intense interest aroused by the whole question, and the absurdity of pretending that an inquiry was not demanded.
+
+SECTION VII. We are informed by our colleagues that they have been scurrilously attacked by no less than fourteen pedants, whom they believe to be in the pay of foreign powers. This is not the kind of accusation that can be proved or disproved. It suffices to show the importance of the issues before us.
+
+SECTION VIII. The Editors of the Daily Mail, of the Spectator, of the Standard, and so forth, have suddenly turned nasty against the Editors of the Times, the Daily Express, the Globe, and what not, whoever they may be. This alone should show, &c., &c.
+
+SECTION IX. The Duke of Devonshire has made some most irritating remarks, so has Sir John Gorst. This alone, &c., &c.
+
+Your Committee are, therefore, totally unable to make up their minds what on earth should be done.
+
+It is quite impossible to decide.
+
+They are on the horns of a dilemma.
+
+They are in the utmost perturbation.
+
+They heartily wish you had not asked them to undertake this task.
+
+And Your Commissioners will ever pray, &c.

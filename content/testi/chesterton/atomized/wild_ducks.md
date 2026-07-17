@@ -7284,6 +7284,289 @@ more uncivil--like the man in the Tube.
 
 
 
+<span class="atom-split" data-atom="story_13_the_winter_feast--part_01" data-title="Wild Ducks — The Winter Feast (part 1)" data-chapter="The Winter Feast" data-kind="excerpt"></span>
+
+
+The Winter Feast
+
+These modern men, who are less anxious to be men than to be moderns,
+have one little habit that has not been spotted as it should be.
+They are very fond of first painting the lily, and then proving from
+the painted surface that it was always a paper flower.  Nothing delights
+these intelligent little creatures more than gilding refined gold,
+and then scraping it furiously, on the plea of taking the gilt off
+the gingerbread.  I mean that they will first take a natural thing,
+then daub it and disguise it and deface it with artificial things,
+and then complain that it is an unnatural thing and throw it away.
+At the beginning, such alteration must be accepted as an improvement.
+By the end, each improvement is used to show that the thing should
+be not so much altered as abolished.
+
+Thus the seed of Democracy, the assembly of the village or the tribe,
+is as old as the world, and may perhaps go back to the similar assemblies
+of rooks or wolves.  It still exists in many peasant communities,
+especially in the mountains, and when it is reasonably civilised,
+that is humanised, and above all when it is Christian, it is still
+about as just and decent and dignified a government as any,
+in a world whose governments are hardly its happiest products.
+Now we men of the modern and Western world took this ancient thing,
+and proceeded to improve it.  We improved democracy by demagogy, that is
+by professional politicians; we improved election by electioneering,
+that is by organised lying; we improved announcement by advertisement;
+that is, we substituted for the horn blown to assemble men round
+the village tree the megaphone through which a statesman could speak
+like a salesman; facilitating every exchange in which the voters
+could sell their votes or the statesmen could sell his soul.
+We have been positively proud of it as a technical dexterity; that we
+could turn an act of representation into an art of misrepresentation.
+And then, when the whole idea has been improved out of recognition
+in this cynical fashion, we generally find that the cynics have
+become sceptics; and sceptics about the democratic idea itself.
+These men, with their wonderful progressive improvements,
+have themselves turned popular government into unpopular government.
+But since they also have probably become rather unpopular, they will
+now often turn round with a fine fastidious aristocratic pride,
+and express their contempt for popular opinion.
+
+The same sort of ironic injustice is applied to any old popular
+festival like Christmas.  Moving step by step, in the majestic
+march of Progress, we have first vulgarised Christmas and then
+denounced it as vulgar.  Christmas has become too commercial;
+so many of these thinkers would destroy the Christmas that has
+been spoiled, and preserve the commercialism that has spoiled it.
+They will think me but a belated and bemused being, if I here am
+found roaming or drifting backwards to consider what Christmas
+is when it is defined, or what it was before it was spoiled.
+And it is not surprising that the same modern gentlemen,
+who have performed this peculiar feat of first pelting a thing
+with mud and then complaining that it is muddy, have also made
+a similar muddle about the actual history of the thing which they
+bury with insults, because they have killed it with improvements.
+
+Thus, the first thing that such people will probably tell
+you today is that Christmas is really a Pagan festival;
+because many traditional features of it were taken from Pagans.
+What they do not seem to see is that, in so far as this
+is in any sense true, it only proves that the ancient
+Pagans were much more sensible than the modern Pagans.
+There are many psychological truths about such a human habit,
+which are hidden from those who talk day and night
+about psychology; but who do not really care about any psychology
+except what they call the psychology of salesmanship.
+The old Pagans knew that such a ritual must be old, that it
+must be religious, that it must be concerned fundamentally
+with simple elements like wood or water or fire, but that it
+must also be, in a queer way of its own, revolutionary:
+exalting the humble or putting down the mighty from their seat.
+That was expressed in a hundred ways, both among heathens
+and Christians.  The Saturnalia was made for a society
+of slaves; but it gave one wild holiday to those slaves.
+The medieval Christmas had to exist in a feudal society;
+but all its carols and legends told again and again a story
+in which angels spoke to shepherds and a devil inspired a king.
+An ancient revolt is enshrined in an ancient ritual.
+Now the reason why Christianity found it quite easy to absorb these
+Pagan customs is that they were in this way almost Christian customs.
+The man who does not see that the Saturnalia was almost
+Christian is a man who has never read the Magnificat.
+
+It is thoroughly bad history to suppose that it was the Paganism
+that absorbed the Christianity; when there are a thousand things
+to show that it was the Christianity that absorbed the Paganism.
+For instance, anything that the Early Church really regarded
+as horrible among the heathens did completely disappear.
+The butchery of human beings in amphitheatres, which had been
+the huge uproarious popular sport of all the vast populace
+of antiquity, completely disappeared.  Doubtless, it disappeared
+partly because Christian martyrs had suffered there;
+partly because St Telemachus, the heroic hermit, had hurled himself
+into the arena to cry aloud to God and the human conscience,
+against human blood being poured out in festivity like wine.
+But anyhow, and for whatever reason, it did disappear.
+If various old Pagan popular customs, like the Winter Feast,
+did not disappear, it was quite certainly because they did
+not so insult the innocence and indignation of Christianity
+in its youth.  When Constantine had made Christianity
+the religion of the Roman Empire, that religion could have
+suppressed any heathen thing it really wanted to suppress.
+The interesting point to note is how very few heathen things
+it really did want to suppress.  There is, for instance,
+the whole great glorious mass of the Pagan literature,
+in which there are hardly ten pages without something
+that a Christian might be excused for wanting to suppress.
+The mere fact that that mass of culture has come down to us
+at all, is to me much more remarkable than a few random
+examples of alleged suppression.  For instance, the first
+generations of the saints might surely be excused for drawing
+the line at Sappho if she did really preach Sapphism.
+But in fact, there is hardly a rag of historical evidence
+either that she did preach it or that they did suppress her.
+To anybody with a general view of history, the really remarkable
+and interesting thing is the toleration of the last Pagans by
+the first Christians.  The Church certainly never swept away all
+record of the ancient gods as Mahomet swept away the ancient idols.
+It never merely burned books as the Iconoclasts destroyed statues.
+The attitude of Augustine towards Plato, as of Aquinas
+towards Aristotle, is really much more respectful and understanding
+than the attitude of Hobbes or Hume towards Aquinas.
+In short, Christians have always committed countless crimes;
+but these Christians did not commit this one crime.
+They were not unhistorical.  Christianity failed in practice
+in many ways; but this was one thing it did not fail to do;
+to preserve continuity.  The Christians were often criminals;
+but they were not Vandals.  Platonists like St Augustine,
+living in besieged cities, knew too much about Vandals.
+
+
+
+
+<span class="atom-split" data-atom="story_13_the_winter_feast--part_02" data-title="Wild Ducks — The Winter Feast (part 2)" data-chapter="The Winter Feast" data-kind="excerpt"></span>
+
+
+It is, therefore, the greatest glory of the Christian tradition
+that it has incorporated so many Pagan traditions.  But it is most
+glorious of all, to my mind, when they are popular traditions.
+And the best and most obvious example is the way in which
+Christianity did incorporate, in so far as it did incorporate,
+the old human and heathen conception of the Winter Feast.
+There are, indeed, two profound and mysterious truths to be
+balanced here.  The first is that what was then heathen
+was still human; that is, it was both mystical and material;
+it expressed itself in sacred substances and sacramental acts;
+it understood the mystery of trees and waters and the holy flame.
+And the other, which will be a much more tactless and
+irritating assertion, is that while a thing is heathen it is
+not yet completely human.  But the point here is that the Pagan
+element in Christmas came quite natural to Christians,
+because it was not in fact very far from Christianity.
+
+Take, for example, the whole fundamental idea of a Winter Feast.
+There is a perfectly natural parallel between a religion
+that defies the world and a ritual that defies the weather.
+Heathenism in the sense of hedonism, the concentration of
+the mind on pure pleasure as such, would chiefly concentrate
+on the conception of a Summer Feast.  But in winter even a rich
+man receives some faint hint of the problem of a poor man;
+he may avoid being hungry, but he cannot always avoid being cold.
+To choose that moment of common freezing for the assertion
+of common fraternity is, in its own intrinsic nature,
+a foreshadowing of what we call the Christian idea.  It involves
+the suggestion that joy comes from within and not from without.
+It involves the suggestion that peril and the potentiality
+of pain are themselves a ground of gratitude and rejoicing.
+It involves the suggestion that even when we are merely Pagans we
+are not merely Pantheists.  We are not merely Nature-worshippers;
+because Man smiles when Nature frowns.  It has always involved,
+under varying limitations in varying societies, the idea of hospitality;
+especially hospitality to the stranger and generally to the poor.
+Of course, there are perfectly natural reasons for wanting to drink
+wine or warm ourselves at the fire in winter; but that is not
+an answer, except to those who already have the ill-informed
+prejudice that Christianity must be opposed to things merely
+because they are natural.  The point is in making a point of it;
+the special interest is in the special occasion; in the fact that during
+the Winter Feast, whether Pagan or Christian, there always was,
+in some degree, the idea of extending the enjoyment to others;
+of passing round the wine or seating the wanderer by the hearth.
+It is no controversial point against the Christians that they felt
+they could take up and continue such traditions among the Pagans;
+it only shows that the Christians knew a Christian thing when
+they saw it.
+
+It may seem a gloomy sentiment for the festive season;
+but the plain truth is that the old original Christians would
+have more reasons to quarrel with the new Christian Christmas
+than they had to quarrel with the old Pagan Christmas.
+In the congested commerce of our time, it has come to stand
+rather for goods being sold than for gifts being given.
+But if any revolutionary critic complains of it on this score,
+he must complain of his own revolutionary criticism;
+or at least of the previous revolutionary critics.
+I remember that Mr Bernard Shaw, the chief spokesman of
+the Socialism of the later nineteenth century, declared that
+Christmas is now only kept up for the sake of the tradesmen.
+I think he would find it hard to prove that every little boy
+or girl has hung up a stocking, or slept with one eye open on
+Christmas Eve, solely because they calculated that Santa Claus going
+his round would be Good for Trade.  But if the complaint contains
+any truth, it is not to the disadvantage of the old tradition;
+but rather to the disadvantage of the recent revolutions.
+It is strangely forgotten that it was radicals and reformers
+who set up the Capitalism they now desire to pull down.
+It was done, if not by Socialists, certainly by revolutionists;
+in the sense of extreme pioneers of progress.  For instance,
+it was precisely the progressive prophet of new things who brought
+Christmas, and everything else, out of the country into the town.
+It was he who told the young man that the streets of London
+were paved with gold; and that in great cities like Chicago
+and Philadelphia there was work for all.  It was he who said
+that life on the farm was not life but death; that the rustics
+were all turnips and that their creeds were all turnip ghosts.
+Hence it was he who was responsible for making the old
+Christmas mysteries and mummeries relatively unmeaning;
+by taking them away from the fields where they grew
+to the markets where they could only be bought and sold.
+He took away the Yule Log from the place where it had really
+been part of a tree, to the place where it was only a lump
+of dead wood; he took away the mistletoe from where it was really
+gathered from the oak, to the store where it was only stacked
+like dead sticks; he would have brought in the Boar's Head
+(supposing that he dealt at all in that delicacy) under conditions
+that made it highly improbable that he had himself slain the boar
+with a boar-spear in the forest, in the old heroic style
+of hunting, when men slew beasts stronger than themselves.
+All this genuine and even generous savour in the old Christmas symbols
+did undoubtedly suffer by being half-digested by the industrial town;
+but it was the same sort of reformer who built the town.
+True, he then called himself an Individualist and not a Socialist;
+and by this time he probably calls himself something else.
+But under all names, he is always exactly what the old Pagans
+and Christians would have called a profane person.  He does not
+understand Christmas; he does not even understand the Saturnalia.
+Mr Scrooge hated Christmas because he was a Utilitarian;
+that is, he thought that economics only meant being economical.
+Mr Gradgrind of the Manchester School began by hating Christmas;
+but his partner Mr Bounderby soon perceived that he could make
+money by selling turkeys and toys, as well as coal or cotton.
+But these men in their day were all Reformers; they all called
+themselves Radicals.  Perhaps it is time we ceased to concentrate
+on the Reform and went back again to the Form.
+
+This real history of Christmas is very relevant to the real crisis
+of Christendom.  We live in a terrible time of war and rumour of war;
+with a barbaric danger of the real reaction, that goes back not
+to the old form but to the old formlessness.  International idealism
+in its effort to hold the world together, in a peace that can resist
+wars and revolutions, is admittedly weakened and often disappointed.
+I should say simply that it does not go deep enough.
+Christianity could draw life out of the depths of Paganism;
+but mere Modernism cannot draw on the depths of either.
+Charity is too much of a manufactured article; and too little of a
+natural product.  The League of Nations is too new to be natural.
+The modern materialistic humanitarianism is too young to be vigorous.
+If we really wish to make vivid the horrors of destruction and mere
+disciplined murder, we must see them more simply as attacks on the hearth
+and the human family; and feel about Hitler as men felt about Herod.
+If we want to talk about poverty, we must talk about it as
+the hunger of a human being, a pain as positive as toothache;
+and not as the fall in wages or the failure of imports,
+or even the lowering of the economic standard of living.
+We must say first of the beggar, not that there is insufficient
+housing accommodation, but that he has nowhere to lay his head.
+We must say first of the human family, not that there are no jobs
+for them in the factory, but that there is no room for them in the inn.
+That is, we must talk of the human family in language as plain
+and practical and positive as that in which mystics used to talk
+of the Holy Family.  We must learn again to use the naked words
+that describe a natural thing; and dispense for a moment with
+all those sociological polysyllables, with which an artificial
+society has learned to talk of it as an artificial thing.
+Then we shall draw on the driving force of many thousand years;
+and call up a real humanitarianism out of the depths of humanity.
+
+
+
+
 <span class="atom-split" data-atom="story_14_they_tell_a_story" data-title="Wild Ducks — They Tell a Story" data-chapter="They Tell a Story" data-kind="story"></span>
 
 
@@ -8973,6 +9256,471 @@ characteristic statues of six acrobats?
 
 
 
+<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_01" data-title="Wild Ducks — A Theory of Tyrants (part 1)" data-chapter="A Theory of Tyrants" data-kind="excerpt"></span>
+
+
+A Theory of Tyrants
+
+I have come to be convinced of late of a certain theory of the [[Nature|nature]]
+of tyranny.  It may be right or wrong, but I think it is at least
+worthy of thought in connection with a highly interesting matter.
+Broadly speaking, the common theory of tyranny has been this:
+That men have groaned under some system for centuries,
+and have at last rebelled against it.  But I think that men
+have actually done quite otherwise; they have rebelled
+against the system against which they have not groaned.
+But the matter is so mixed and also so acute that I may be
+permitted to state it in a more explanatory manner.
+
+Let us take, for the sake of argument, the two risings against
+tyranny most commonly considered in current literature--
+the English rebellion of the early seventeenth century and
+the [[French Revolution]].  According to the common theory, Charles I
+should have been the heir of at least twenty intolerable despots.
+The [[Truth|truth]] is that he was the heir of one tolerable despot
+(who had not quite effected despotism), and beyond that everything
+was different.  [[Queen Elizabeth]] was not tolerable, and she was
+not tolerated.  In so far as she was endured she was adored.
+Cavaliers and Puritans alike looked back to her reign
+(most mistakenly, doubtless, but most certainly) as a midsummer
+of popular monarchy.
+
+In short the English Puritans did not [[Rebel|rebel]] against
+an old system; whatever else it was it was not old.
+Even if Charles I had been a much worse [[King|king]] than he was there
+would not have been enough [[Time|time]] for him to have created a complete
+and cruel tradition against the tradition of Elizabeth.
+A few years before Charles' head was cut off, most Englishmen
+would have died to keep Elizabeth's on.  If you turn to the case
+of the French Monarchy before the [[French Revolution]] you will find
+exactly the same thing.  A very short [[Time|time]] before the Revolution
+the French Monarchy was the generally accepted French symbol.
+The [[King]] before Louis the Guillotined was Louis the [[Well]] Beloved.
+The Monarchy (in France as in England) became the most unpopular
+thing very soon after it had been the most popular thing.
+There was no weakness, there was no long decline:
+the defeat of the thing followed swiftly on its first victory.
+Charles I was not the last of the English despots.
+He was one of the first of the English despots--
+only there happened to have been no more of them.
+Encouraged by the arrogance and popularity of Elizabeth,
+who had stood for patriotism and Protestantism and the defiance
+of Spain, Charles tried to work with [[Elizabethan England]]
+and found that [[Elizabethan England]] was not there.
+It was not too old to last, it was too new to last.
+Louis XVI was not the last of a line of unpopular kings.
+On the contrary, he was the first of a line of popular kings
+to be unpopular.
+
+I can only explain all this by my private theory of tyrants;
+which is this.  Men do not [[Rebel|rebel]] against the old;
+rather they [[Rebel|rebel]] against the new.  They turn upon something
+when they find that it has them in a trap.  They do not revolt
+against something that has been unpopular.  They revolt
+(and very rightly) against something that has been popular.
+They hated Charles I because they had loved Elizabeth.
+They killed Louis XVI because they had been killed for Louis XIV.
+In fact, this is probably what is meant by that seemingly
+meaningless phrase, the fickleness of the mob.  It probably
+means that the mob is quicker than other people in discovering
+that man has walked into a man-trap. England went mad with
+joy for the English Monarchy, because the Armada had not
+conquered England.  And then England suddenly went mad with rage
+because it discovered that (during that exciting interlude)
+the English Monarchy had conquered England.  We had escaped
+the snare of Philip; we walked into the snare of Elizabeth;
+we broke out of the snare of Charles I.
+
+This is the essential mark of tyranny:  that it is always new.
+Tyranny always enters by the unguarded gate.  The [[Tyrant|tyrant]] is
+always shy and unobtrusive.  The [[Tyrant|tyrant]] is always a traitor.
+He has always come there on the pretence that he was protecting
+something which people really wanted protected--religion, or
+public justice, or patriotic glory.  Men staring at the Armada;
+did not watch the [[King]]; so they strengthened the [[King]].
+Later when they watched the [[King]] they unconsciously strengthened
+the aristocracy.  Again, when they attacked the aristocracy,
+they did not watch the big merchants who were attacking it--
+and who wanted watching.  All tyrannies are new tyrannies.
+There are no such things really as old tyrannies; there are
+hardly any such things as old superstitions.
+
+There is one moral to these evident facts of [[history]].  When you look
+for tyrants, do not look for them among the obvious types that have
+oppressed men in the past--the [[King|king]], the priest, or the soldier.
+If you do, you are merely looking at the Spanish Armada while
+England is being turned into a despotism behind your back.
+Monarchy was once a popular organ; yet it was turned against the people.
+Remember that newspapers are popular organs that may be turned
+against the people.  Whatever the new [[Tyrant|tyrant]] is, he will not wear
+the exact uniform of the old [[Tyrant|tyrant]].
+
+An Anecdote of Persecution
+
+There are many tales in Joinville's reminiscences of St Louis which
+would be worth retelling; I will, however, be reasonable, and retell
+only one of them.  I will tell it with strict reference to the record;
+I will only expand it in so far as obvious inference and historical
+circumstances are clear in the case; whenever I am ornamenting
+it I will say so, and anybody can buy the book and bowl me out.
+But it is a tale which seems to me to tell in the most vivid
+and everyday style how it is in practice that persecution arises.
+It is common talk in these days that we ought to be imaginative,
+if only in order to be charitable.  If a man commits forgery we
+must try to understand his temptations and his original trend.
+But no such [[Mercy|mercy]] is generally shown to the enthusiast for ideas.
+The sins of the intolerant are seldom considered with any
+intellectual tolerance.  It seems that we are to find excuses
+for the crimes of good men.
+
+
+
+
+<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_02" data-title="Wild Ducks — A Theory of Tyrants (part 2)" data-chapter="A Theory of Tyrants" data-kind="excerpt"></span>
+
+
+Wherever we have read [[history]] we have noticed one class of
+statements or allegations.  I mean simply incredible allegations;
+and statements that cannot be believed.  For instance, it cannot
+be believed (at least, I cannot believe it) that the French Jacobins
+who ran the Terror were diseased and hysterical doctrinaires.
+They fought all Europe and beat it; the thing is impossible.
+Now exactly in this sense it is impossible to believe the ordinary
+modern version of the position of the Jew in the Middle Ages.
+Whatever else the Jew was, he was important.  If he had really
+lived like Isaac in Ivanhoe he could not have been important;
+he could not have been at all.  A man from whom anybody could steal
+money would not have any money to steal.  A man utterly outlawed
+must perish.  Now I will tell a little tale out of Joinville.
+The Monastery of Our Lady at Cluny was prosperous and charitable;
+when the [[Snow|snow]] was on the ground in [[Winter|winter]] it showed a maze of footprints
+of the poor folk who came to its doors.  Most of these, of course,
+were not only poor but of plain rank; but it sometimes happened
+that a man of good estate was so impoverished as to receive such aid.
+Among the many figures familiar at the door was one especially
+who crawled to it more slowly than the others, for he was crippled
+and hung upon a crutch.  He was an old knight with white hair,
+quite disabled, and entirely penniless; but his eyes (I think)
+were fierce and restless, as are the eyes of all those.
+whose activity has been shifted from the [[Body|body]] to the mind.
+His clothes were dropping off his back; he was a perfect gentleman,
+and very much of a nuisance.
+
+Now it happened that he came to the Monastery on a day that
+was somewhat solemnly set apart for one of those intellectual
+tournaments which the men of the Middle Ages loved as much
+as bodily tournaments.  The Abbot was presumably something
+of a philosopher as [[Well|well]] as a philanthropist, and he was liberal
+in his mental interests as [[Well|well]] as liberal with his corn.
+In the exact words of Joinville's Chronicle, ‘There was a great
+disputation between clergy and Jews at the Monastery of Cluny.'
+That single sentence knocks flat for ever the whole picture
+and conception of the medieval Jew which we all have from Scott's
+romances or from general report.  Ignorant fools who insult
+a strange sect merely because it is strange, do not arrange
+public debates to give it a chance of explaining itself.
+People bent on rooting out a tribe ruthlessly like rats
+or weeds do not invite the heads of the tribe to make speeches
+about themselves on a platform.  The truth is, of course,
+that the medievals, like all other sane human beings, started with
+a preference for reasonable argument and peaceable settlement.
+It is always afterwards, if at all, that these excellent
+intentions break down.  And they did, unfortunately, break down
+in the philanthropic and philosophical Monastery of Cluny;
+as you shall hear.
+
+I think we can call up some rude and dim conception of the scene.
+The architecture would still be Norman with the low, almost sullen
+arch and short, almost brutal columns; for though no date is given
+to the story, the Gothic can hardly have been greatly spread.
+Such laymen as were present would be people of all conditions;
+and while there would be more initial ceremony of precedence
+between these classes, there would be far less practical
+shyness or contemptuous shrinking than at the present day.
+Prominently, and probably in a row, would sit the Christian theologians,
+eager with the eagerness of all men who live much with their own sex
+in schools and clubs and universities, for an unending war of words.
+Like all men who have a complete theory of things, they would
+be fretting and on fire with the chance of expounding it,
+many of them stirring and stamping.  For men who have much to say
+are more nervous than men who have nothing to say.
+
+Over against them, probably calmer, probably more prosperous
+in appearance, certainly more observant of all that was going on,
+would sit the great Rabbis of the mysterious race.  In their hands they
+would hold parchments undecipherable to all the children of the West;
+but their very faces would be more undecipherable parchments.
+Their smiles would seem carved like hieroglyphics.  Into that place
+of plain arches and Latin logicians with shaven heads they brought
+the memory of things cloudy and monstrous, as of many-headed
+cherubim or winged bulls walking enormous in the desert.
+For though both theologies were by this time twisted and elaborate,
+each worked back like a tangled tree to its original root.
+All the arabesque of Rabbinical riddle and commentary referred
+eventually to the ultimate Jewish idea; the idea of the awful distance
+between man and God.  All the roaring and grinding syllogisms of the
+Schoolmen were tools and symbols of the awful union of God and man.
+The Jewish angel had ten eyes or twelve wings to express the idea
+that if ever we saw the beauty and wisdom of God it would seem
+to us outrageous or frightful.  The Christian angel often had two
+wings only, in addition to eyes and two arms; to show that human
+beauty and dignity were divine realities which would survive and
+break the doors of death.  Two sublime creeds were in collision;
+the creed that flesh is grass, and the creed that flesh was God.
+And at the moment, before any of the philosophers could move,
+the old man of the crutch stood up and asked to speak.
+
+Joinville in his Chronicle gently says that this was received
+‘with [[Doubt|doubt]]'.  Human life is so startlingly the same in all ages that one
+can see the scene as clearly as if it were a modern meeting when some
+peppery and impractical Colonel insists on addressing the meeting.
+One can imagine the whispers between the Abbot and his chief supporters.
+‘If he speaks there will be a row,' and the unanswerable answer,
+‘If we stop him there will be a worse row'.  The assembled philosophers,
+who had been about to pose the Rabbis with the awful rationalism of
+medieval argument, ‘Why do you believe in God if He is not manifest?'
+or ‘Could anyone believe in Heaven except through revelation?'
+stood for a moment aside.  The old cripple said, ‘At least you admit
+that Our Lady was the Mother of God.'
+
+The Rabbi who was addressed smiled, perhaps, that rich
+smile which some find repulsive even when it is benevolent,
+and said that he did not admit this.  The old man said steadily,
+‘Then if you do not [[Love|love]] Our Lady you were very silly to come
+into her [[house]].'  He plucked the crutch from under his arm,
+and whirling it suddenly aloft, caught the Jew a stunning crack
+behind the ear, bringing him to the ground.  Instantly, of course,
+there was a scuffle, and the Jews were driven from the place.
+The Abbot rushed up to the old Knight and told him in no
+measured terms that he had made a horrible [[Fool|fool]] of himself.
+The old gentleman, still panting and blowing, no [[Doubt|doubt]] from
+his exertion, told the Abbot that he thought him the greater
+[[Fool|fool]] of the two.  Thus unfortunately ended the great
+experiment of religious inquiry in the Monastery of Cluny.
+I leave it to anyone to say whether it is not as human a tale
+as any that might have happened in Surbiton during the War.
+
+
+
+
+<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_01" data-title="Wild Ducks — The Return of Pageantry (part 1)" data-chapter="The Return of Pageantry" data-kind="excerpt"></span>
+
+
+The Return of Pageantry
+
+The Puritans, in their hours of [[Pride|pride]], seem actually to claim that our
+nation is fundamentally Puritan, was made by the Puritan spirit.
+They put Cromwell in the place of Alfred; they put him not only at
+the head of English patriotism, but at the beginning of English [[history]].
+They make old England a sort of Puritan colony like [[New England]].
+All this is, of course, a ludicrous delusion.  The first facts or names
+that jump to the mind will remind any Englishman that his country had a
+splendid national literature and a very unmistakable type of national life
+before the hat of a single Puritan had been seen and hooted in England.
+Chaucer is even more English than Bunyan; Shakespeare is certainly
+more English than [[Milton]].  The Tabard and the [[Mermaid]], Lady Godiva
+and St George, Robin Goodfellow and [[Robin Hood]], belong to a national
+tradition that has not even been touched by [[Puritanism]]; yet which is
+quite different from the tradition of Spain, of Scotland, or of France.
+Chaucer's Franklin, whose beard was white as a daisy, and in whose
+[[house]] ‘it snewed meate and drinke', was as certainly an Englishman
+as he most certainly was not a Puritan.
+
+Puritanism was something put into the Englishman after
+he had grown to his full national stature.  Some hated it
+as an alien poison; some praised it as a violent medicine.
+But nobody pretended that it was the natural bread and ale
+that had built up the countrymen of Colet or Ben Jonson.
+It might indeed be maintained that in all the three cases of nations
+thus raided by Puritanism, the Scotch, the English and the Dutch,
+this religion has been rather a sort of spell or possession
+than a true change of personality.  It might be suggested
+that in each case a merrier and more medieval nation went alive
+into that land of bondage and is now coming alive out of it.
+Thus the Scotch romance and witchery which Scott and Stevenson
+have brought to life is only the return of a spirit
+most marked in the old Scottish ballads and chronicles,
+in the tales of Tamlane in the Forest, and Thomas the Rhymer
+among the fairies; and in that almost Arthurian romance
+of the roving court of Robert Bruce, which left, like a gypsy
+blood for generations, a tradition of wandering Scottish kings.
+Even in Scotland, I believe, Calvinism has only been
+an episode.  The Scotch are taking off their ‘blacks'
+and appearing again in the purple of their ancient poetry.
+We may yet hear the twang of the last precentor before we
+really hear the Lay of the Last Minstrel.
+
+Even in the third case of Holland, of which I know far less,
+something of the same kind could be suggested.  Before the coming
+of the Puritan, the people of the flat country had already shown
+that talent for a certain detail and domesticity in art which fills
+so many galleries with their quaint interiors and their convincing
+still life.  It might [[Well|well]] be maintained that the same note of half
+religious realism, of an almost mystical [[Silence|silence]] and solidity,
+is being sounded in much of the new literature of the Netherlands.
+It is marked in Maeterlinck's [[Love|love]] of interiors and the unconscious
+shapes of things; in the way in which he writes of a [[Window|window]] standing
+open or a passage leading to a door.  He lives in a dumb fairyland
+of furniture.  Nothing could be more like the almost conventual
+quietude and neatness of the pre-[[Reformation]] art among the Flemings.
+And nothing certainly could be more unlike the somewhat vulgar yet
+really demonic energy, the curious mixture of bourgeois smugness
+and visionary anarchy that marked the mighty days of the Puritan.
+Nothing could be further from the sensational art and literature
+of the Protestant extremists, as you may see it in old Bibles or
+illustrations of Bunyan; an atmosphere at once monstrous and prosaic,
+mixed of a mild view of this world, and a mad view of the other;
+the earth an endless Clapham and the sky a permanent [[Apocalypse|apocalypse]].
+It left on the mind a confused sense that angels had whiskers
+and saints had top hats; and certainly the dull energy in it was
+at the opposite extreme from the spirit of a small room either
+described by Maeterlinck or painted by Memlinc.
+
+But the case of England at least admits of no mistake.
+Not only did England produce a most [[anti-puritan|anti-Puritan]] literature
+before the Puritans existed, but it went on, under the Puritans
+and in spite of the Puritans, producing a literature that was
+quite [[anti-puritan|anti-Puritan]]. There is as little that is Puritan about
+Fielding and Dickens as there is about Chaucer and Shakespeare.
+Dickens quite obviously existed to champion everything that
+the Puritans existed to destroy; when Mr Scrooge is converted
+to Christmas, the Puritan would have thought that Scrooge
+was relapsing and not repenting.  When Scrooge and his clerk
+sit down to ‘a bowl of smoking Bishop', the Puritan would
+have been equally disgusted with the spirit and with the name.
+Nevertheless the Ironside element, though alien to England,
+was to a certain extent mixed with it; and I myself believe
+that it is to this partial mingling of a foreign and a native idea
+that we owe the curious attitude of the English, until lately,
+towards processions and pomps.
+
+The Calvinist colour, mixing with each separate national colour,
+made in each case a different blend or tint.  The Scotch had been
+restless, rebellious, fond of mystery, valiant, and sometimes cruel.
+The combinations of Calvinism with this produced a sort of
+sombre romanticism which one can feel very strongly in Burns
+and in the blacker tales of Stevenson.  The Dutch, I imagine,
+were domestic and devout; the combination of Calvinism with this
+produced a slight dullness and a rage for keeping things clean.
+The English certainly were lusty, casual and fond of broad fun.
+The combination of Calvinism with this produced a curious kind
+of bourgeois embarrassment, part humour, part respectability
+and part good sense.  Since the Englishman was not to wear
+crimson clothes carelessly, the next most English thing
+was to wear black clothes casually and unobtrusively.
+Where the Catholic Englishman had been modest enough to make
+a fool of himself, the Protestant Englishman had only that
+lower sort of modesty that will not make a show of itself.
+He objected to making a Pageant, because it is, literally speaking,
+‘making a scene'.  It is said that the Frenchman shrugs his shoulders;
+but the Victorian Englishman was born with his shoulders shrugged.
+His whole attitude until lately has been ‘What's the good
+of making a fuss?'  It is a sensible and pleasant temper;
+it is the remains of the real Englishman who gave its patient
+Pickwickian cheerfulness to the Canterbury Pilgrimage.
+But it will be gain and not loss if this minor humility
+of drab and grey can give place to that higher, and much more
+humble humility, which can forget itself in flowers and fireworks
+and in the colours of Carnival.
+
+
+
+
+<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_02" data-title="Wild Ducks — The Return of Pageantry (part 2)" data-chapter="The Return of Pageantry" data-kind="excerpt"></span>
+
+
+Rational History
+
+There is a sort of phrase or joke about ‘whitewashing'
+the villains of [[history]]; but to be quite just there ought
+to be some phrase such as ‘blackwashing' also.  For the truth
+is that such rehabilitations are of two very different kinds.
+One is a mere anarchist itch to upset a traditional
+and universal verdict.  The other is a reasonable petition
+to appeal against a very hasty and sectarian verdict.
+In other words, we may appeal for whitewashing if we can prove
+that there has been blackwashing.  There are men in history who
+may rationally be held to be better than they appear in history.
+And they are those who have been, for fairly obvious reasons,
+blackened immediately after their death.  We have a right to doubt
+in every case where it was indispensable (to a new dynasty
+or regime) that a man who was dead should also be damned.
+Two very interesting cases of such rational rehabilitation
+have appeared of late.  An American writer has written
+a romantic sketch of the sympathetic view of Richard III.
+A French writer has written a scholarly and historic study
+of the sympathetic view of Napoleon.  In both cases there is
+the same real and intellectual reason for a reconsideration.
+We are right to remember that these victorious soldiers were
+at the mercy of their ultimate victors.  It is common sense
+to ask ourselves what tales would most probably be set about by
+the enemies of one after Bosworth or of the other after Waterloo.
+
+Shakespeare was a very English type of genius; but so was Gillray.
+And it may fairly be said that Shakespeare's version of Richard
+is pretty much like Gillray's version of Napoleon.  He is a
+diabolic dwarf, far less temperately and sanely conceived than Quilp.
+But Richard of Gloucester was not a dwarf, either physically or morally.
+And Napoleon was not a devil, either in incredible crime or
+incredible capacity.  He made many concessions--and many mistakes.
+It was his normality that succeeded not his abnormality.
+In so far as he conquered Europe, it was as Man not as Superman.
+The Rights of Man formed his only working and real droits de seigneur.
+He was popular with soldiers not only because he was a conqueror,
+but also because he was a soldier.  He ruled France not because
+he had conquered it, but because he had conquered its enemies.
+A great French writer put the truth in its unfavourable form by saying
+that men of the world sympathise with Napoleon because he had
+no internal life.  He did not think about himself; he was not a
+Higher Thinker, a Buddhist.  He was a creator--that is, a Christian.
+He did not know his own portrait till he saw it in his own works.
+
+The sins of the Superman are unpardonable.
+But the sins of man are as the hairs of his head.
+So long as we regard Napoleon as a Superman, we are bound
+to regard all his cruelties as cold-blooded, all his pride
+as blasphemous, all his diplomacy as ‘black causeless duplicity'
+(as Stevenson said of his own Master of Ballantrae), all his sins,
+in short, as sins against the Holy [[Ghost]]--and, above all,
+all his misfortunes as deserved.  But if we regard him as Man,
+we pretty soon find that his sins were the sins of a selfish,
+simple, generous, crude Corsican officer of artillery.
+His few cruelties were of the half-constrained kind--the kind
+that twenty other officers of artillery would have committed
+if they had been in the same hole.  His [[Pride|pride]] was pure [[Vanity|vanity]];
+as [[Innocent|innocent]] and as active as the [[Vanity|vanity]] of a schoolboy.
+His diplomacy was at once less secret and less bullying
+than nearly all the diplomacy before and after his [[Time|time]].
+Compared with Metternich or with Bismarck, he was a straightforward
+but persuasive person.  Unlike these other diplomatists, he did appeal
+to the reason and [[Conscience|conscience]] of other nations and other Kings.
+He did not merely try to conceal; he did not merely try to convict.
+He did not even merely try to conquer.  He did really try
+to [[convert]]--that is, to convince.  And as for his misfortunes,
+he may have deserved to be called the Corsican Ogre,
+but he never really deserved to be called the Man of Destiny.
+It was a slander of which his misfortunes should have purged
+him for ever.
+
+Much of the same is true, as I have said, of the [[Last Stand|last stand]] of
+the remote Plantagenet at Bosworth:  when Henry Tudor rode as best
+he could into battle, making up his pedigree as he went along.
+The real medieval [[King|king]] was the man who died calling out ‘Treason'
+and killing men on every side of him.  Richard III was doing
+exactly what would have been expected of Richard I. But nothing
+was ever expected of the Tudors except the unexpected.
+They were the first English monarchs who were Sultans instead
+of Kings.  They acted by a caprice, and not by a creed.
+It was owing to their brief and impatient despotism
+that England, ever since, has been capricious and creedless.
+One can almost see the lean, long face of the Welsh usurper,
+as he rode with the great nobles who had deserted to his standard;
+one can see his smile as he entered London; and one can guess
+what kind of tale he would tell of the fallen King.
+
+
+
+
 <span class="atom-split" data-atom="story_29_the_unknown_warrior" data-title="Wild Ducks — The Unknown Warrior" data-chapter="The Unknown Warrior" data-kind="story"></span>
 
 
@@ -10048,6 +10796,227 @@ the grass can grow.
 
 
 
+<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_01" data-title="Wild Ducks — Jane Austen's Juvenilia (part 1)" data-chapter="Jane Austen s Juvenilia" data-kind="excerpt"></span>
+
+
+Jane Austen's Juvenilia
+
+In a recent newspaper controversy about the conventional silliness and
+sameness of all the human generations previous to our own, somebody said
+that in the world of Jane Austen a lady was expected to faint when she
+received a proposal.  To those who happen to have read any of the works
+of Jane Austen, the connection of ideas will appear slightly comic.
+Elizabeth Bennet, for instance, received two proposals from two very
+confident and even masterful admirers; and she certainly did not faint.
+It would be nearer the truth to say that they did.  But in any case it
+may be amusing to those who are thus amused, and perhaps even instructive
+to those who thus need to be instructed, to know that the earliest work of
+Jane Austen might be called a satire on the fable of the fainting lady.
+‘Beware of fainting fits . . . though at times they may be refreshing
+and agreeable yet believe me they will in the end, if too often repeated
+and at improper [[Seasons|seasons]], prove destructive to your Constitution.'
+Such were the words of the expiring Sophia to the afflicted Laura;
+and there are modern critics capable of adducing them as a proof that all
+society was in a swoon in the first decade of the nineteenth century.
+But in [[Truth|truth]] it is the whole point of this little skit that the swoon
+of sensibility is not satirised solely because it was a fiction.
+Laura and Sophia are made ludicrously unlike life by being made to faint
+as real ladies do not faint.  Those ingenious moderns, who say that the
+real ladies did faint, are actually being taken in by Laura and Sophia,
+and believing them against Jane Austen.  They are believing, not the
+people of the period but the most nonsensical novels of the period,
+which even the people of the period who read them did not believe.
+They have swallowed all the solemnities of The Mysteries of Udolpho,
+and never even seen the joke of [[Northanger Abbey]].
+
+For if these juvenilia of Jane Austen anticipate especially any
+of her after works, they certainly anticipate the satiric side
+of [[Northanger Abbey]].  Of their considerable significance on that side
+something may be said presently; but it will be [[Well|well]] to preface it
+by a word about the works themselves as items of literary [[history]].
+Everyone knows that the novelist left an unfinished [[Fragment|fragment]],
+since published under the name of The Watsons, and a finished
+story called [[Lady Susan]], in letters, which she had herself
+apparently decided not to publish.  These preferences are
+all prejudices, in the sense of matters of unmanageable taste;
+but I confess I think it a strange historical accident that
+things so comparatively dull as [[Lady Susan]] should have been
+printed already, while things so comparatively lively as [[Love]]
+and [[Friendship]] should never have been printed until now.
+It is at least a curiosity of literature that such curiosities
+of literature should have been almost accidentally concealed.
+Doubtless it was very rightly felt that we may go much
+too far in the way of emptying the waste-paper basket of a
+genius on the head of the public; and that there is a sense
+in which the waste-paper basket is as sacred as the [[Grave|grave]].
+But without arrogating to myself any more right in the matter
+than anybody has to his own taste, I [[Hope|hope]] I may be allowed
+to say that I for one would have willingly left [[Lady Susan]]
+in the waste-paper basket, if I could have pieced together
+[[Love]] and [[Friendship]] for a private scrap-book; a thing to laugh
+over again and again as one laughs over the great burlesques
+of Peacock or Max Beerbohm.
+
+Jane Austen left everything she possessed to her sister Cassandra,
+including these and other manuscripts; and the second volume
+of them containing these was left by Cassandra to her brother,
+Admiral Sir Francis Austen.  He gave it to his daughter Fanny, who left
+it in turn to her brother Edward, who was the Rector of Barfrestone
+in [[Kent]], and the father of Mrs Sanders, to whose wise decision
+we owe the publication of these first fancies of her great-aunt;
+whom it might be misleading here to call her great great-aunt. Everyone
+will judge for himself; but I myself think she has added something
+intrinsically important to literature and to literary [[history]];
+and that there are cartloads of printed matter, regularly recognised
+and printed with the works of all great authors, which are far less
+characteristic and far less significant than these few nursery jests.
+
+For [[Love]] and [[Friendship]], with some similar pages in the accompanying
+fragments, is really a rattling burlesque; something much better
+than what the ladies of the [[Time|time]] called an agreeable rattle.
+It is one of those things that can be the more readily read with
+enjoyment through being written with enjoyment; in other words,
+it is all the better for being juvenile in the sense of being joyful.
+She is said to have written these things at the age of seventeen,
+evidently in much the same spirit in which people conduct
+a family magazine; for the medallions included in the manuscript
+were the work of her sister Cassandra.  The whole thing is full
+of the sort of high spirits that are always higher in private than
+in public; as people laugh louder in the [[house]] than in the street.
+Many of her admirers would not expect, perhaps many of her admirers
+would not admire, the sort of fun to be found in the letter to
+the young lady ‘whose feelings were too strong for her judgment',
+and who remarks incidentally ‘I murdered my father at a very early
+period in my life, I have since murdered my mother, and I am now
+going to murder my sister'.  Personally, I think it admirable;
+not the conduct, but the confession.  But there is much more
+than hilarity in the [[Humour|humour]], even at this stage of its growth.
+There is almost everywhere a certain neatness in the nonsense.
+There is not a little of the true Austen irony.  'The noble Youth
+informed us that his name was Lindsay--for particular reasons,
+however, I shall conceal it under that of Talbot.'  Did anyone
+really [[Desire|desire]] that to disappear into the waste-paper basket?
+‘She was nothing more than a mere good-tempered, civil and
+obliging young woman; as such we could scarcely dislike her--
+she was only an object of contempt.'  Is not that something like
+the first faint line in the figure of Fanny Price?  When a loud
+knocking is heard on the door of the Rustic Cot by the Uske,
+the heroine's father enquires the nature of the noise, and by cautious
+steps of inference they are enabled to define it as somebody
+outside striking the door.  ‘"Yes" (exclaimed I) "I cannot
+help thinking it must be somebody who knocks for admittance."
+"That is another point" (replied he) "we must not pretend
+to determine on what motive the person may knock--tho'
+that some one does rap at the door I am partly convinced".'
+In the aggravating leisure and lucidity of that reply,
+is there not the foreshadowing of another and more famous father;
+and do we not hear for a moment, in the rustic cottage by the Uske,
+the unmistakable voice of Mr Bennet?
+
+
+
+
+<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_02" data-title="Wild Ducks — Jane Austen's Juvenilia (part 2)" data-chapter="Jane Austen s Juvenilia" data-kind="excerpt"></span>
+
+
+But there is a larger critical reason for taking pleasure
+in the gaiety of these various travesties and trifles.
+Mr Austen-Leigh seems to have thought them not sufficiently
+serious for the reputation of his great relative; but [[Greatness|greatness]]
+is not made up of serious things, in the sense of solemn things.
+The reason here, however, is as serious as even he or anyone
+else could [[Desire|desire]]; for it concerns the fundamental quality
+of one of the finest talents in letters.
+
+A very real psychological interest, almost amounting to a
+psychological mystery, attaches to any early work of Jane Austen.
+And for that one reason, among others, which has hardly been
+sufficiently emphasised.  Great as she was, nobody was likely
+to maintain that she was a poet.  But she was a marked
+example of what is said of the poet; she was born, not made.
+As compared with her, indeed, some of the poets really were made.
+Many men who had the air of setting the world on [[Fire|fire]] have left
+at least a reasonable discussion about what set them on [[Fire|fire]].
+Men like Coleridge or Carlyle had certainly kindled their
+first torches from the flambeaux of equally fantastic German
+mystics or Platonic speculators; they had gone through furnaces
+of culture where even less creative people might have been
+inflamed to creation.  Jane Austen was not inflamed or inspired
+or even moved to be a genius; she simply was a genius.
+Her [[Fire|fire]], what there was of it, began with herself; like the [[Fire|fire]]
+of the first man who rubbed two dry sticks together.  Some would
+say that they were very dry sticks which she rubbed together.
+It is certain that she by her own artistic talent made interesting
+what thousands of superficially similar people would have made dull.
+There was nothing in her circumstances, or even in her materials,
+that seems obviously meant for the making of such an [[artist]].
+It might seem a very wild use of the wrong word to say
+that Jane Austen was elemental.  It might even seem
+even a little wanton to insist that she was original.
+Yet this objection would come from the critic not really
+considering what is meant by an element or an origin.
+Perhaps it might be as [[Well|well]] expressed in what is really meant
+by an individual.  Her ability is an absolute; it cannot be
+analysed into influences.  She has been compared to Shakespeare;
+and in this sense she really does recall the joke about the man
+who said he could write like Shakespeare if he had the mind.
+In this case we seem to see a thousand spinsters sitting at
+a thousand tea-tables; and they could all have written [[Emma]],
+if they had the mind.
+
+There is therefore, in considering even her crudest early experiments,
+the interest of looking at a mind and not at a [[Mirror|mirror]].
+She may not be conscious of being herself; yet she is not, like so
+many more cultivated imitators, conscious of being somebody else.
+The force, at its first and feeblest, is coming from within and not merely
+from without.  This interest, which belongs to her as an individual
+with a superior instinct for the intelligent criticism of life,
+is the first of the reasons that justify a study of her juvenile works;
+it is an interest in the psychology of the artistic vocation.
+I will not say of the artistic temperament; for nobody ever had less
+of the tiresome thing commonly so described than Jane Austen.
+But while this [[Alone|alone]] would be a reason for finding out how her work began,
+it becomes yet more relevant when we have found out how it did begin.
+This is something more than the discovery of a document;
+it is the discovery of an inspiration.  And that inspiration was
+the inspiration of Gargantua and of [[Pickwick]]; it was the gigantic
+inspiration of laughter.
+
+If it seemed odd to call her elemental, it may seem equally
+odd to call her exuberant.  These pages betray her secret;
+which is that she was naturally exuberant.  And her power came,
+as all power comes, from the control and direction of exuberance.
+But there is the presence and pressure of that vitality behind her
+thousand trivialities; she could have been extravagant if she liked.
+She was the very reverse of a starched or a starved spinster;
+she could have been a buffoon like the Wife of Bath if she chose.
+This is what gives an infallible force to her irony.
+This is what gives a stunning weight to her understatements.
+At the back of this [[artist]] also, counted as passionless,
+there was passion; but her original passion was a sort of joyous
+scorn and a fighting spirit against all that she regarded
+as morbid and lax and poisonously silly.  The weapons she forged
+were so finely finished that we might never have known this,
+but for these glimpses of the crude furnace from which they came.
+Finally there are two additional facts involved which I will leave
+the modern critics and correspondents in newspapers to ponder
+and explain at their leisure.  One is that this realist,
+in rebuking the romantics, is very much concerned with rebuking
+them for the very thing for which revolutionary sentiment has
+so much admired them; as for their glorification of ingratitude
+to parents and their easy assumption that the old are
+always wrong.  'No!' says the noble Youth in [[Love]] and [[Friendship]],
+‘never shall it be said that I obliged my father.'
+And the other is that there is not a shadow of indication
+anywhere that this independent intellect and laughing spirit
+was other than contented with a narrow domestic routine,
+in which she wrote a story as domestic as a diary in the intervals
+of pies and puddings, without so much as looking out of the window
+to notice the French Revolution.
+
+
+
+
 <span class="atom-split" data-atom="story_38_the_countrymen_of_mary_webb_and_thomas_h" data-title="Wild Ducks — The Countrymen of Mary Webb and Thomas Hardy" data-chapter="The Countrymen of Mary Webb and Thomas H" data-kind="story"></span>
 
 
@@ -10424,975 +11393,6 @@ With you, fair maid!
 La piccola coincidenza merita d'esser notata; perché è [[Well|bene]]
 ricordare che esiste tutta una letteratura fortunata nell'essere del
 tutto slegata dagli uomini di lettere.
-
-
-
-<span class="atom-split" data-atom="story_13_the_winter_feast--part_01" data-title="Wild Ducks — The Winter Feast (part 1)" data-chapter="The Winter Feast" data-kind="excerpt"></span>
-
-
-The Winter Feast
-
-These modern men, who are less anxious to be men than to be moderns,
-have one little habit that has not been spotted as it should be.
-They are very fond of first painting the lily, and then proving from
-the painted surface that it was always a paper flower.  Nothing delights
-these intelligent little creatures more than gilding refined gold,
-and then scraping it furiously, on the plea of taking the gilt off
-the gingerbread.  I mean that they will first take a natural thing,
-then daub it and disguise it and deface it with artificial things,
-and then complain that it is an unnatural thing and throw it away.
-At the beginning, such alteration must be accepted as an improvement.
-By the end, each improvement is used to show that the thing should
-be not so much altered as abolished.
-
-Thus the seed of Democracy, the assembly of the village or the tribe,
-is as old as the world, and may perhaps go back to the similar assemblies
-of rooks or wolves.  It still exists in many peasant communities,
-especially in the mountains, and when it is reasonably civilised,
-that is humanised, and above all when it is Christian, it is still
-about as just and decent and dignified a government as any,
-in a world whose governments are hardly its happiest products.
-Now we men of the modern and Western world took this ancient thing,
-and proceeded to improve it.  We improved democracy by demagogy, that is
-by professional politicians; we improved election by electioneering,
-that is by organised lying; we improved announcement by advertisement;
-that is, we substituted for the horn blown to assemble men round
-the village tree the megaphone through which a statesman could speak
-like a salesman; facilitating every exchange in which the voters
-could sell their votes or the statesmen could sell his soul.
-We have been positively proud of it as a technical dexterity; that we
-could turn an act of representation into an art of misrepresentation.
-And then, when the whole idea has been improved out of recognition
-in this cynical fashion, we generally find that the cynics have
-become sceptics; and sceptics about the democratic idea itself.
-These men, with their wonderful progressive improvements,
-have themselves turned popular government into unpopular government.
-But since they also have probably become rather unpopular, they will
-now often turn round with a fine fastidious aristocratic pride,
-and express their contempt for popular opinion.
-
-The same sort of ironic injustice is applied to any old popular
-festival like Christmas.  Moving step by step, in the majestic
-march of Progress, we have first vulgarised Christmas and then
-denounced it as vulgar.  Christmas has become too commercial;
-so many of these thinkers would destroy the Christmas that has
-been spoiled, and preserve the commercialism that has spoiled it.
-They will think me but a belated and bemused being, if I here am
-found roaming or drifting backwards to consider what Christmas
-is when it is defined, or what it was before it was spoiled.
-And it is not surprising that the same modern gentlemen,
-who have performed this peculiar feat of first pelting a thing
-with mud and then complaining that it is muddy, have also made
-a similar muddle about the actual history of the thing which they
-bury with insults, because they have killed it with improvements.
-
-Thus, the first thing that such people will probably tell
-you today is that Christmas is really a Pagan festival;
-because many traditional features of it were taken from Pagans.
-What they do not seem to see is that, in so far as this
-is in any sense true, it only proves that the ancient
-Pagans were much more sensible than the modern Pagans.
-There are many psychological truths about such a human habit,
-which are hidden from those who talk day and night
-about psychology; but who do not really care about any psychology
-except what they call the psychology of salesmanship.
-The old Pagans knew that such a ritual must be old, that it
-must be religious, that it must be concerned fundamentally
-with simple elements like wood or water or fire, but that it
-must also be, in a queer way of its own, revolutionary:
-exalting the humble or putting down the mighty from their seat.
-That was expressed in a hundred ways, both among heathens
-and Christians.  The Saturnalia was made for a society
-of slaves; but it gave one wild holiday to those slaves.
-The medieval Christmas had to exist in a feudal society;
-but all its carols and legends told again and again a story
-in which angels spoke to shepherds and a devil inspired a king.
-An ancient revolt is enshrined in an ancient ritual.
-Now the reason why Christianity found it quite easy to absorb these
-Pagan customs is that they were in this way almost Christian customs.
-The man who does not see that the Saturnalia was almost
-Christian is a man who has never read the Magnificat.
-
-It is thoroughly bad history to suppose that it was the Paganism
-that absorbed the Christianity; when there are a thousand things
-to show that it was the Christianity that absorbed the Paganism.
-For instance, anything that the Early Church really regarded
-as horrible among the heathens did completely disappear.
-The butchery of human beings in amphitheatres, which had been
-the huge uproarious popular sport of all the vast populace
-of antiquity, completely disappeared.  Doubtless, it disappeared
-partly because Christian martyrs had suffered there;
-partly because St Telemachus, the heroic hermit, had hurled himself
-into the arena to cry aloud to God and the human conscience,
-against human blood being poured out in festivity like wine.
-But anyhow, and for whatever reason, it did disappear.
-If various old Pagan popular customs, like the Winter Feast,
-did not disappear, it was quite certainly because they did
-not so insult the innocence and indignation of Christianity
-in its youth.  When Constantine had made Christianity
-the religion of the Roman Empire, that religion could have
-suppressed any heathen thing it really wanted to suppress.
-The interesting point to note is how very few heathen things
-it really did want to suppress.  There is, for instance,
-the whole great glorious mass of the Pagan literature,
-in which there are hardly ten pages without something
-that a Christian might be excused for wanting to suppress.
-The mere fact that that mass of culture has come down to us
-at all, is to me much more remarkable than a few random
-examples of alleged suppression.  For instance, the first
-generations of the saints might surely be excused for drawing
-the line at Sappho if she did really preach Sapphism.
-But in fact, there is hardly a rag of historical evidence
-either that she did preach it or that they did suppress her.
-To anybody with a general view of history, the really remarkable
-and interesting thing is the toleration of the last Pagans by
-the first Christians.  The Church certainly never swept away all
-record of the ancient gods as Mahomet swept away the ancient idols.
-It never merely burned books as the Iconoclasts destroyed statues.
-The attitude of Augustine towards Plato, as of Aquinas
-towards Aristotle, is really much more respectful and understanding
-than the attitude of Hobbes or Hume towards Aquinas.
-In short, Christians have always committed countless crimes;
-but these Christians did not commit this one crime.
-They were not unhistorical.  Christianity failed in practice
-in many ways; but this was one thing it did not fail to do;
-to preserve continuity.  The Christians were often criminals;
-but they were not Vandals.  Platonists like St Augustine,
-living in besieged cities, knew too much about Vandals.
-
-
-
-
-<span class="atom-split" data-atom="story_13_the_winter_feast--part_02" data-title="Wild Ducks — The Winter Feast (part 2)" data-chapter="The Winter Feast" data-kind="excerpt"></span>
-
-
-It is, therefore, the greatest glory of the Christian tradition
-that it has incorporated so many Pagan traditions.  But it is most
-glorious of all, to my mind, when they are popular traditions.
-And the best and most obvious example is the way in which
-Christianity did incorporate, in so far as it did incorporate,
-the old human and heathen conception of the Winter Feast.
-There are, indeed, two profound and mysterious truths to be
-balanced here.  The first is that what was then heathen
-was still human; that is, it was both mystical and material;
-it expressed itself in sacred substances and sacramental acts;
-it understood the mystery of trees and waters and the holy flame.
-And the other, which will be a much more tactless and
-irritating assertion, is that while a thing is heathen it is
-not yet completely human.  But the point here is that the Pagan
-element in Christmas came quite natural to Christians,
-because it was not in fact very far from Christianity.
-
-Take, for example, the whole fundamental idea of a Winter Feast.
-There is a perfectly natural parallel between a religion
-that defies the world and a ritual that defies the weather.
-Heathenism in the sense of hedonism, the concentration of
-the mind on pure pleasure as such, would chiefly concentrate
-on the conception of a Summer Feast.  But in winter even a rich
-man receives some faint hint of the problem of a poor man;
-he may avoid being hungry, but he cannot always avoid being cold.
-To choose that moment of common freezing for the assertion
-of common fraternity is, in its own intrinsic nature,
-a foreshadowing of what we call the Christian idea.  It involves
-the suggestion that joy comes from within and not from without.
-It involves the suggestion that peril and the potentiality
-of pain are themselves a ground of gratitude and rejoicing.
-It involves the suggestion that even when we are merely Pagans we
-are not merely Pantheists.  We are not merely Nature-worshippers;
-because Man smiles when Nature frowns.  It has always involved,
-under varying limitations in varying societies, the idea of hospitality;
-especially hospitality to the stranger and generally to the poor.
-Of course, there are perfectly natural reasons for wanting to drink
-wine or warm ourselves at the fire in winter; but that is not
-an answer, except to those who already have the ill-informed
-prejudice that Christianity must be opposed to things merely
-because they are natural.  The point is in making a point of it;
-the special interest is in the special occasion; in the fact that during
-the Winter Feast, whether Pagan or Christian, there always was,
-in some degree, the idea of extending the enjoyment to others;
-of passing round the wine or seating the wanderer by the hearth.
-It is no controversial point against the Christians that they felt
-they could take up and continue such traditions among the Pagans;
-it only shows that the Christians knew a Christian thing when
-they saw it.
-
-It may seem a gloomy sentiment for the festive season;
-but the plain truth is that the old original Christians would
-have more reasons to quarrel with the new Christian Christmas
-than they had to quarrel with the old Pagan Christmas.
-In the congested commerce of our time, it has come to stand
-rather for goods being sold than for gifts being given.
-But if any revolutionary critic complains of it on this score,
-he must complain of his own revolutionary criticism;
-or at least of the previous revolutionary critics.
-I remember that Mr Bernard Shaw, the chief spokesman of
-the Socialism of the later nineteenth century, declared that
-Christmas is now only kept up for the sake of the tradesmen.
-I think he would find it hard to prove that every little boy
-or girl has hung up a stocking, or slept with one eye open on
-Christmas Eve, solely because they calculated that Santa Claus going
-his round would be Good for Trade.  But if the complaint contains
-any truth, it is not to the disadvantage of the old tradition;
-but rather to the disadvantage of the recent revolutions.
-It is strangely forgotten that it was radicals and reformers
-who set up the Capitalism they now desire to pull down.
-It was done, if not by Socialists, certainly by revolutionists;
-in the sense of extreme pioneers of progress.  For instance,
-it was precisely the progressive prophet of new things who brought
-Christmas, and everything else, out of the country into the town.
-It was he who told the young man that the streets of London
-were paved with gold; and that in great cities like Chicago
-and Philadelphia there was work for all.  It was he who said
-that life on the farm was not life but death; that the rustics
-were all turnips and that their creeds were all turnip ghosts.
-Hence it was he who was responsible for making the old
-Christmas mysteries and mummeries relatively unmeaning;
-by taking them away from the fields where they grew
-to the markets where they could only be bought and sold.
-He took away the Yule Log from the place where it had really
-been part of a tree, to the place where it was only a lump
-of dead wood; he took away the mistletoe from where it was really
-gathered from the oak, to the store where it was only stacked
-like dead sticks; he would have brought in the Boar's Head
-(supposing that he dealt at all in that delicacy) under conditions
-that made it highly improbable that he had himself slain the boar
-with a boar-spear in the forest, in the old heroic style
-of hunting, when men slew beasts stronger than themselves.
-All this genuine and even generous savour in the old Christmas symbols
-did undoubtedly suffer by being half-digested by the industrial town;
-but it was the same sort of reformer who built the town.
-True, he then called himself an Individualist and not a Socialist;
-and by this time he probably calls himself something else.
-But under all names, he is always exactly what the old Pagans
-and Christians would have called a profane person.  He does not
-understand Christmas; he does not even understand the Saturnalia.
-Mr Scrooge hated Christmas because he was a Utilitarian;
-that is, he thought that economics only meant being economical.
-Mr Gradgrind of the Manchester School began by hating Christmas;
-but his partner Mr Bounderby soon perceived that he could make
-money by selling turkeys and toys, as well as coal or cotton.
-But these men in their day were all Reformers; they all called
-themselves Radicals.  Perhaps it is time we ceased to concentrate
-on the Reform and went back again to the Form.
-
-This real history of Christmas is very relevant to the real crisis
-of Christendom.  We live in a terrible time of war and rumour of war;
-with a barbaric danger of the real reaction, that goes back not
-to the old form but to the old formlessness.  International idealism
-in its effort to hold the world together, in a peace that can resist
-wars and revolutions, is admittedly weakened and often disappointed.
-I should say simply that it does not go deep enough.
-Christianity could draw life out of the depths of Paganism;
-but mere Modernism cannot draw on the depths of either.
-Charity is too much of a manufactured article; and too little of a
-natural product.  The League of Nations is too new to be natural.
-The modern materialistic humanitarianism is too young to be vigorous.
-If we really wish to make vivid the horrors of destruction and mere
-disciplined murder, we must see them more simply as attacks on the hearth
-and the human family; and feel about Hitler as men felt about Herod.
-If we want to talk about poverty, we must talk about it as
-the hunger of a human being, a pain as positive as toothache;
-and not as the fall in wages or the failure of imports,
-or even the lowering of the economic standard of living.
-We must say first of the beggar, not that there is insufficient
-housing accommodation, but that he has nowhere to lay his head.
-We must say first of the human family, not that there are no jobs
-for them in the factory, but that there is no room for them in the inn.
-That is, we must talk of the human family in language as plain
-and practical and positive as that in which mystics used to talk
-of the Holy Family.  We must learn again to use the naked words
-that describe a natural thing; and dispense for a moment with
-all those sociological polysyllables, with which an artificial
-society has learned to talk of it as an artificial thing.
-Then we shall draw on the driving force of many thousand years;
-and call up a real humanitarianism out of the depths of humanity.
-
-
-
-
-<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_01" data-title="Wild Ducks — A Theory of Tyrants (part 1)" data-chapter="A Theory of Tyrants" data-kind="excerpt"></span>
-
-
-A Theory of Tyrants
-
-I have come to be convinced of late of a certain theory of the [[Nature|nature]]
-of tyranny.  It may be right or wrong, but I think it is at least
-worthy of thought in connection with a highly interesting matter.
-Broadly speaking, the common theory of tyranny has been this:
-That men have groaned under some system for centuries,
-and have at last rebelled against it.  But I think that men
-have actually done quite otherwise; they have rebelled
-against the system against which they have not groaned.
-But the matter is so mixed and also so acute that I may be
-permitted to state it in a more explanatory manner.
-
-Let us take, for the sake of argument, the two risings against
-tyranny most commonly considered in current literature--
-the English rebellion of the early seventeenth century and
-the [[French Revolution]].  According to the common theory, Charles I
-should have been the heir of at least twenty intolerable despots.
-The [[Truth|truth]] is that he was the heir of one tolerable despot
-(who had not quite effected despotism), and beyond that everything
-was different.  [[Queen Elizabeth]] was not tolerable, and she was
-not tolerated.  In so far as she was endured she was adored.
-Cavaliers and Puritans alike looked back to her reign
-(most mistakenly, doubtless, but most certainly) as a midsummer
-of popular monarchy.
-
-In short the English Puritans did not [[Rebel|rebel]] against
-an old system; whatever else it was it was not old.
-Even if Charles I had been a much worse [[King|king]] than he was there
-would not have been enough [[Time|time]] for him to have created a complete
-and cruel tradition against the tradition of Elizabeth.
-A few years before Charles' head was cut off, most Englishmen
-would have died to keep Elizabeth's on.  If you turn to the case
-of the French Monarchy before the [[French Revolution]] you will find
-exactly the same thing.  A very short [[Time|time]] before the Revolution
-the French Monarchy was the generally accepted French symbol.
-The [[King]] before Louis the Guillotined was Louis the [[Well]] Beloved.
-The Monarchy (in France as in England) became the most unpopular
-thing very soon after it had been the most popular thing.
-There was no weakness, there was no long decline:
-the defeat of the thing followed swiftly on its first victory.
-Charles I was not the last of the English despots.
-He was one of the first of the English despots--
-only there happened to have been no more of them.
-Encouraged by the arrogance and popularity of Elizabeth,
-who had stood for patriotism and Protestantism and the defiance
-of Spain, Charles tried to work with [[Elizabethan England]]
-and found that [[Elizabethan England]] was not there.
-It was not too old to last, it was too new to last.
-Louis XVI was not the last of a line of unpopular kings.
-On the contrary, he was the first of a line of popular kings
-to be unpopular.
-
-I can only explain all this by my private theory of tyrants;
-which is this.  Men do not [[Rebel|rebel]] against the old;
-rather they [[Rebel|rebel]] against the new.  They turn upon something
-when they find that it has them in a trap.  They do not revolt
-against something that has been unpopular.  They revolt
-(and very rightly) against something that has been popular.
-They hated Charles I because they had loved Elizabeth.
-They killed Louis XVI because they had been killed for Louis XIV.
-In fact, this is probably what is meant by that seemingly
-meaningless phrase, the fickleness of the mob.  It probably
-means that the mob is quicker than other people in discovering
-that man has walked into a man-trap. England went mad with
-joy for the English Monarchy, because the Armada had not
-conquered England.  And then England suddenly went mad with rage
-because it discovered that (during that exciting interlude)
-the English Monarchy had conquered England.  We had escaped
-the snare of Philip; we walked into the snare of Elizabeth;
-we broke out of the snare of Charles I.
-
-This is the essential mark of tyranny:  that it is always new.
-Tyranny always enters by the unguarded gate.  The [[Tyrant|tyrant]] is
-always shy and unobtrusive.  The [[Tyrant|tyrant]] is always a traitor.
-He has always come there on the pretence that he was protecting
-something which people really wanted protected--religion, or
-public justice, or patriotic glory.  Men staring at the Armada;
-did not watch the [[King]]; so they strengthened the [[King]].
-Later when they watched the [[King]] they unconsciously strengthened
-the aristocracy.  Again, when they attacked the aristocracy,
-they did not watch the big merchants who were attacking it--
-and who wanted watching.  All tyrannies are new tyrannies.
-There are no such things really as old tyrannies; there are
-hardly any such things as old superstitions.
-
-There is one moral to these evident facts of [[history]].  When you look
-for tyrants, do not look for them among the obvious types that have
-oppressed men in the past--the [[King|king]], the priest, or the soldier.
-If you do, you are merely looking at the Spanish Armada while
-England is being turned into a despotism behind your back.
-Monarchy was once a popular organ; yet it was turned against the people.
-Remember that newspapers are popular organs that may be turned
-against the people.  Whatever the new [[Tyrant|tyrant]] is, he will not wear
-the exact uniform of the old [[Tyrant|tyrant]].
-
-An Anecdote of Persecution
-
-There are many tales in Joinville's reminiscences of St Louis which
-would be worth retelling; I will, however, be reasonable, and retell
-only one of them.  I will tell it with strict reference to the record;
-I will only expand it in so far as obvious inference and historical
-circumstances are clear in the case; whenever I am ornamenting
-it I will say so, and anybody can buy the book and bowl me out.
-But it is a tale which seems to me to tell in the most vivid
-and everyday style how it is in practice that persecution arises.
-It is common talk in these days that we ought to be imaginative,
-if only in order to be charitable.  If a man commits forgery we
-must try to understand his temptations and his original trend.
-But no such [[Mercy|mercy]] is generally shown to the enthusiast for ideas.
-The sins of the intolerant are seldom considered with any
-intellectual tolerance.  It seems that we are to find excuses
-for the crimes of good men.
-
-
-
-
-<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_02" data-title="Wild Ducks — A Theory of Tyrants (part 2)" data-chapter="A Theory of Tyrants" data-kind="excerpt"></span>
-
-
-Wherever we have read [[history]] we have noticed one class of
-statements or allegations.  I mean simply incredible allegations;
-and statements that cannot be believed.  For instance, it cannot
-be believed (at least, I cannot believe it) that the French Jacobins
-who ran the Terror were diseased and hysterical doctrinaires.
-They fought all Europe and beat it; the thing is impossible.
-Now exactly in this sense it is impossible to believe the ordinary
-modern version of the position of the Jew in the Middle Ages.
-Whatever else the Jew was, he was important.  If he had really
-lived like Isaac in Ivanhoe he could not have been important;
-he could not have been at all.  A man from whom anybody could steal
-money would not have any money to steal.  A man utterly outlawed
-must perish.  Now I will tell a little tale out of Joinville.
-The Monastery of Our Lady at Cluny was prosperous and charitable;
-when the [[Snow|snow]] was on the ground in [[Winter|winter]] it showed a maze of footprints
-of the poor folk who came to its doors.  Most of these, of course,
-were not only poor but of plain rank; but it sometimes happened
-that a man of good estate was so impoverished as to receive such aid.
-Among the many figures familiar at the door was one especially
-who crawled to it more slowly than the others, for he was crippled
-and hung upon a crutch.  He was an old knight with white hair,
-quite disabled, and entirely penniless; but his eyes (I think)
-were fierce and restless, as are the eyes of all those.
-whose activity has been shifted from the [[Body|body]] to the mind.
-His clothes were dropping off his back; he was a perfect gentleman,
-and very much of a nuisance.
-
-Now it happened that he came to the Monastery on a day that
-was somewhat solemnly set apart for one of those intellectual
-tournaments which the men of the Middle Ages loved as much
-as bodily tournaments.  The Abbot was presumably something
-of a philosopher as [[Well|well]] as a philanthropist, and he was liberal
-in his mental interests as [[Well|well]] as liberal with his corn.
-In the exact words of Joinville's Chronicle, ‘There was a great
-disputation between clergy and Jews at the Monastery of Cluny.'
-That single sentence knocks flat for ever the whole picture
-and conception of the medieval Jew which we all have from Scott's
-romances or from general report.  Ignorant fools who insult
-a strange sect merely because it is strange, do not arrange
-public debates to give it a chance of explaining itself.
-People bent on rooting out a tribe ruthlessly like rats
-or weeds do not invite the heads of the tribe to make speeches
-about themselves on a platform.  The truth is, of course,
-that the medievals, like all other sane human beings, started with
-a preference for reasonable argument and peaceable settlement.
-It is always afterwards, if at all, that these excellent
-intentions break down.  And they did, unfortunately, break down
-in the philanthropic and philosophical Monastery of Cluny;
-as you shall hear.
-
-I think we can call up some rude and dim conception of the scene.
-The architecture would still be Norman with the low, almost sullen
-arch and short, almost brutal columns; for though no date is given
-to the story, the Gothic can hardly have been greatly spread.
-Such laymen as were present would be people of all conditions;
-and while there would be more initial ceremony of precedence
-between these classes, there would be far less practical
-shyness or contemptuous shrinking than at the present day.
-Prominently, and probably in a row, would sit the Christian theologians,
-eager with the eagerness of all men who live much with their own sex
-in schools and clubs and universities, for an unending war of words.
-Like all men who have a complete theory of things, they would
-be fretting and on fire with the chance of expounding it,
-many of them stirring and stamping.  For men who have much to say
-are more nervous than men who have nothing to say.
-
-Over against them, probably calmer, probably more prosperous
-in appearance, certainly more observant of all that was going on,
-would sit the great Rabbis of the mysterious race.  In their hands they
-would hold parchments undecipherable to all the children of the West;
-but their very faces would be more undecipherable parchments.
-Their smiles would seem carved like hieroglyphics.  Into that place
-of plain arches and Latin logicians with shaven heads they brought
-the memory of things cloudy and monstrous, as of many-headed
-cherubim or winged bulls walking enormous in the desert.
-For though both theologies were by this time twisted and elaborate,
-each worked back like a tangled tree to its original root.
-All the arabesque of Rabbinical riddle and commentary referred
-eventually to the ultimate Jewish idea; the idea of the awful distance
-between man and God.  All the roaring and grinding syllogisms of the
-Schoolmen were tools and symbols of the awful union of God and man.
-The Jewish angel had ten eyes or twelve wings to express the idea
-that if ever we saw the beauty and wisdom of God it would seem
-to us outrageous or frightful.  The Christian angel often had two
-wings only, in addition to eyes and two arms; to show that human
-beauty and dignity were divine realities which would survive and
-break the doors of death.  Two sublime creeds were in collision;
-the creed that flesh is grass, and the creed that flesh was God.
-And at the moment, before any of the philosophers could move,
-the old man of the crutch stood up and asked to speak.
-
-Joinville in his Chronicle gently says that this was received
-‘with [[Doubt|doubt]]'.  Human life is so startlingly the same in all ages that one
-can see the scene as clearly as if it were a modern meeting when some
-peppery and impractical Colonel insists on addressing the meeting.
-One can imagine the whispers between the Abbot and his chief supporters.
-‘If he speaks there will be a row,' and the unanswerable answer,
-‘If we stop him there will be a worse row'.  The assembled philosophers,
-who had been about to pose the Rabbis with the awful rationalism of
-medieval argument, ‘Why do you believe in God if He is not manifest?'
-or ‘Could anyone believe in Heaven except through revelation?'
-stood for a moment aside.  The old cripple said, ‘At least you admit
-that Our Lady was the Mother of God.'
-
-The Rabbi who was addressed smiled, perhaps, that rich
-smile which some find repulsive even when it is benevolent,
-and said that he did not admit this.  The old man said steadily,
-‘Then if you do not [[Love|love]] Our Lady you were very silly to come
-into her [[house]].'  He plucked the crutch from under his arm,
-and whirling it suddenly aloft, caught the Jew a stunning crack
-behind the ear, bringing him to the ground.  Instantly, of course,
-there was a scuffle, and the Jews were driven from the place.
-The Abbot rushed up to the old Knight and told him in no
-measured terms that he had made a horrible [[Fool|fool]] of himself.
-The old gentleman, still panting and blowing, no [[Doubt|doubt]] from
-his exertion, told the Abbot that he thought him the greater
-[[Fool|fool]] of the two.  Thus unfortunately ended the great
-experiment of religious inquiry in the Monastery of Cluny.
-I leave it to anyone to say whether it is not as human a tale
-as any that might have happened in Surbiton during the War.
-
-
-
-
-<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_01" data-title="Wild Ducks — The Return of Pageantry (part 1)" data-chapter="The Return of Pageantry" data-kind="excerpt"></span>
-
-
-The Return of Pageantry
-
-The Puritans, in their hours of [[Pride|pride]], seem actually to claim that our
-nation is fundamentally Puritan, was made by the Puritan spirit.
-They put Cromwell in the place of Alfred; they put him not only at
-the head of English patriotism, but at the beginning of English [[history]].
-They make old England a sort of Puritan colony like [[New England]].
-All this is, of course, a ludicrous delusion.  The first facts or names
-that jump to the mind will remind any Englishman that his country had a
-splendid national literature and a very unmistakable type of national life
-before the hat of a single Puritan had been seen and hooted in England.
-Chaucer is even more English than Bunyan; Shakespeare is certainly
-more English than [[Milton]].  The Tabard and the [[Mermaid]], Lady Godiva
-and St George, Robin Goodfellow and [[Robin Hood]], belong to a national
-tradition that has not even been touched by [[Puritanism]]; yet which is
-quite different from the tradition of Spain, of Scotland, or of France.
-Chaucer's Franklin, whose beard was white as a daisy, and in whose
-[[house]] ‘it snewed meate and drinke', was as certainly an Englishman
-as he most certainly was not a Puritan.
-
-Puritanism was something put into the Englishman after
-he had grown to his full national stature.  Some hated it
-as an alien poison; some praised it as a violent medicine.
-But nobody pretended that it was the natural bread and ale
-that had built up the countrymen of Colet or Ben Jonson.
-It might indeed be maintained that in all the three cases of nations
-thus raided by Puritanism, the Scotch, the English and the Dutch,
-this religion has been rather a sort of spell or possession
-than a true change of personality.  It might be suggested
-that in each case a merrier and more medieval nation went alive
-into that land of bondage and is now coming alive out of it.
-Thus the Scotch romance and witchery which Scott and Stevenson
-have brought to life is only the return of a spirit
-most marked in the old Scottish ballads and chronicles,
-in the tales of Tamlane in the Forest, and Thomas the Rhymer
-among the fairies; and in that almost Arthurian romance
-of the roving court of Robert Bruce, which left, like a gypsy
-blood for generations, a tradition of wandering Scottish kings.
-Even in Scotland, I believe, Calvinism has only been
-an episode.  The Scotch are taking off their ‘blacks'
-and appearing again in the purple of their ancient poetry.
-We may yet hear the twang of the last precentor before we
-really hear the Lay of the Last Minstrel.
-
-Even in the third case of Holland, of which I know far less,
-something of the same kind could be suggested.  Before the coming
-of the Puritan, the people of the flat country had already shown
-that talent for a certain detail and domesticity in art which fills
-so many galleries with their quaint interiors and their convincing
-still life.  It might [[Well|well]] be maintained that the same note of half
-religious realism, of an almost mystical [[Silence|silence]] and solidity,
-is being sounded in much of the new literature of the Netherlands.
-It is marked in Maeterlinck's [[Love|love]] of interiors and the unconscious
-shapes of things; in the way in which he writes of a [[Window|window]] standing
-open or a passage leading to a door.  He lives in a dumb fairyland
-of furniture.  Nothing could be more like the almost conventual
-quietude and neatness of the pre-[[Reformation]] art among the Flemings.
-And nothing certainly could be more unlike the somewhat vulgar yet
-really demonic energy, the curious mixture of bourgeois smugness
-and visionary anarchy that marked the mighty days of the Puritan.
-Nothing could be further from the sensational art and literature
-of the Protestant extremists, as you may see it in old Bibles or
-illustrations of Bunyan; an atmosphere at once monstrous and prosaic,
-mixed of a mild view of this world, and a mad view of the other;
-the earth an endless Clapham and the sky a permanent [[Apocalypse|apocalypse]].
-It left on the mind a confused sense that angels had whiskers
-and saints had top hats; and certainly the dull energy in it was
-at the opposite extreme from the spirit of a small room either
-described by Maeterlinck or painted by Memlinc.
-
-But the case of England at least admits of no mistake.
-Not only did England produce a most [[anti-puritan|anti-Puritan]] literature
-before the Puritans existed, but it went on, under the Puritans
-and in spite of the Puritans, producing a literature that was
-quite [[anti-puritan|anti-Puritan]]. There is as little that is Puritan about
-Fielding and Dickens as there is about Chaucer and Shakespeare.
-Dickens quite obviously existed to champion everything that
-the Puritans existed to destroy; when Mr Scrooge is converted
-to Christmas, the Puritan would have thought that Scrooge
-was relapsing and not repenting.  When Scrooge and his clerk
-sit down to ‘a bowl of smoking Bishop', the Puritan would
-have been equally disgusted with the spirit and with the name.
-Nevertheless the Ironside element, though alien to England,
-was to a certain extent mixed with it; and I myself believe
-that it is to this partial mingling of a foreign and a native idea
-that we owe the curious attitude of the English, until lately,
-towards processions and pomps.
-
-The Calvinist colour, mixing with each separate national colour,
-made in each case a different blend or tint.  The Scotch had been
-restless, rebellious, fond of mystery, valiant, and sometimes cruel.
-The combinations of Calvinism with this produced a sort of
-sombre romanticism which one can feel very strongly in Burns
-and in the blacker tales of Stevenson.  The Dutch, I imagine,
-were domestic and devout; the combination of Calvinism with this
-produced a slight dullness and a rage for keeping things clean.
-The English certainly were lusty, casual and fond of broad fun.
-The combination of Calvinism with this produced a curious kind
-of bourgeois embarrassment, part humour, part respectability
-and part good sense.  Since the Englishman was not to wear
-crimson clothes carelessly, the next most English thing
-was to wear black clothes casually and unobtrusively.
-Where the Catholic Englishman had been modest enough to make
-a fool of himself, the Protestant Englishman had only that
-lower sort of modesty that will not make a show of itself.
-He objected to making a Pageant, because it is, literally speaking,
-‘making a scene'.  It is said that the Frenchman shrugs his shoulders;
-but the Victorian Englishman was born with his shoulders shrugged.
-His whole attitude until lately has been ‘What's the good
-of making a fuss?'  It is a sensible and pleasant temper;
-it is the remains of the real Englishman who gave its patient
-Pickwickian cheerfulness to the Canterbury Pilgrimage.
-But it will be gain and not loss if this minor humility
-of drab and grey can give place to that higher, and much more
-humble humility, which can forget itself in flowers and fireworks
-and in the colours of Carnival.
-
-
-
-
-<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_02" data-title="Wild Ducks — The Return of Pageantry (part 2)" data-chapter="The Return of Pageantry" data-kind="excerpt"></span>
-
-
-Rational History
-
-There is a sort of phrase or joke about ‘whitewashing'
-the villains of [[history]]; but to be quite just there ought
-to be some phrase such as ‘blackwashing' also.  For the truth
-is that such rehabilitations are of two very different kinds.
-One is a mere anarchist itch to upset a traditional
-and universal verdict.  The other is a reasonable petition
-to appeal against a very hasty and sectarian verdict.
-In other words, we may appeal for whitewashing if we can prove
-that there has been blackwashing.  There are men in history who
-may rationally be held to be better than they appear in history.
-And they are those who have been, for fairly obvious reasons,
-blackened immediately after their death.  We have a right to doubt
-in every case where it was indispensable (to a new dynasty
-or regime) that a man who was dead should also be damned.
-Two very interesting cases of such rational rehabilitation
-have appeared of late.  An American writer has written
-a romantic sketch of the sympathetic view of Richard III.
-A French writer has written a scholarly and historic study
-of the sympathetic view of Napoleon.  In both cases there is
-the same real and intellectual reason for a reconsideration.
-We are right to remember that these victorious soldiers were
-at the mercy of their ultimate victors.  It is common sense
-to ask ourselves what tales would most probably be set about by
-the enemies of one after Bosworth or of the other after Waterloo.
-
-Shakespeare was a very English type of genius; but so was Gillray.
-And it may fairly be said that Shakespeare's version of Richard
-is pretty much like Gillray's version of Napoleon.  He is a
-diabolic dwarf, far less temperately and sanely conceived than Quilp.
-But Richard of Gloucester was not a dwarf, either physically or morally.
-And Napoleon was not a devil, either in incredible crime or
-incredible capacity.  He made many concessions--and many mistakes.
-It was his normality that succeeded not his abnormality.
-In so far as he conquered Europe, it was as Man not as Superman.
-The Rights of Man formed his only working and real droits de seigneur.
-He was popular with soldiers not only because he was a conqueror,
-but also because he was a soldier.  He ruled France not because
-he had conquered it, but because he had conquered its enemies.
-A great French writer put the truth in its unfavourable form by saying
-that men of the world sympathise with Napoleon because he had
-no internal life.  He did not think about himself; he was not a
-Higher Thinker, a Buddhist.  He was a creator--that is, a Christian.
-He did not know his own portrait till he saw it in his own works.
-
-The sins of the Superman are unpardonable.
-But the sins of man are as the hairs of his head.
-So long as we regard Napoleon as a Superman, we are bound
-to regard all his cruelties as cold-blooded, all his pride
-as blasphemous, all his diplomacy as ‘black causeless duplicity'
-(as Stevenson said of his own Master of Ballantrae), all his sins,
-in short, as sins against the Holy [[Ghost]]--and, above all,
-all his misfortunes as deserved.  But if we regard him as Man,
-we pretty soon find that his sins were the sins of a selfish,
-simple, generous, crude Corsican officer of artillery.
-His few cruelties were of the half-constrained kind--the kind
-that twenty other officers of artillery would have committed
-if they had been in the same hole.  His [[Pride|pride]] was pure [[Vanity|vanity]];
-as [[Innocent|innocent]] and as active as the [[Vanity|vanity]] of a schoolboy.
-His diplomacy was at once less secret and less bullying
-than nearly all the diplomacy before and after his [[Time|time]].
-Compared with Metternich or with Bismarck, he was a straightforward
-but persuasive person.  Unlike these other diplomatists, he did appeal
-to the reason and [[Conscience|conscience]] of other nations and other Kings.
-He did not merely try to conceal; he did not merely try to convict.
-He did not even merely try to conquer.  He did really try
-to [[convert]]--that is, to convince.  And as for his misfortunes,
-he may have deserved to be called the Corsican Ogre,
-but he never really deserved to be called the Man of Destiny.
-It was a slander of which his misfortunes should have purged
-him for ever.
-
-Much of the same is true, as I have said, of the [[Last Stand|last stand]] of
-the remote Plantagenet at Bosworth:  when Henry Tudor rode as best
-he could into battle, making up his pedigree as he went along.
-The real medieval [[King|king]] was the man who died calling out ‘Treason'
-and killing men on every side of him.  Richard III was doing
-exactly what would have been expected of Richard I. But nothing
-was ever expected of the Tudors except the unexpected.
-They were the first English monarchs who were Sultans instead
-of Kings.  They acted by a caprice, and not by a creed.
-It was owing to their brief and impatient despotism
-that England, ever since, has been capricious and creedless.
-One can almost see the lean, long face of the Welsh usurper,
-as he rode with the great nobles who had deserted to his standard;
-one can see his smile as he entered London; and one can guess
-what kind of tale he would tell of the fallen King.
-
-
-
-
-<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_01" data-title="Wild Ducks — Jane Austen's Juvenilia (part 1)" data-chapter="Jane Austen s Juvenilia" data-kind="excerpt"></span>
-
-
-Jane Austen's Juvenilia
-
-In a recent newspaper controversy about the conventional silliness and
-sameness of all the human generations previous to our own, somebody said
-that in the world of Jane Austen a lady was expected to faint when she
-received a proposal.  To those who happen to have read any of the works
-of Jane Austen, the connection of ideas will appear slightly comic.
-Elizabeth Bennet, for instance, received two proposals from two very
-confident and even masterful admirers; and she certainly did not faint.
-It would be nearer the truth to say that they did.  But in any case it
-may be amusing to those who are thus amused, and perhaps even instructive
-to those who thus need to be instructed, to know that the earliest work of
-Jane Austen might be called a satire on the fable of the fainting lady.
-‘Beware of fainting fits . . . though at times they may be refreshing
-and agreeable yet believe me they will in the end, if too often repeated
-and at improper [[Seasons|seasons]], prove destructive to your Constitution.'
-Such were the words of the expiring Sophia to the afflicted Laura;
-and there are modern critics capable of adducing them as a proof that all
-society was in a swoon in the first decade of the nineteenth century.
-But in [[Truth|truth]] it is the whole point of this little skit that the swoon
-of sensibility is not satirised solely because it was a fiction.
-Laura and Sophia are made ludicrously unlike life by being made to faint
-as real ladies do not faint.  Those ingenious moderns, who say that the
-real ladies did faint, are actually being taken in by Laura and Sophia,
-and believing them against Jane Austen.  They are believing, not the
-people of the period but the most nonsensical novels of the period,
-which even the people of the period who read them did not believe.
-They have swallowed all the solemnities of The Mysteries of Udolpho,
-and never even seen the joke of [[Northanger Abbey]].
-
-For if these juvenilia of Jane Austen anticipate especially any
-of her after works, they certainly anticipate the satiric side
-of [[Northanger Abbey]].  Of their considerable significance on that side
-something may be said presently; but it will be [[Well|well]] to preface it
-by a word about the works themselves as items of literary [[history]].
-Everyone knows that the novelist left an unfinished [[Fragment|fragment]],
-since published under the name of The Watsons, and a finished
-story called [[Lady Susan]], in letters, which she had herself
-apparently decided not to publish.  These preferences are
-all prejudices, in the sense of matters of unmanageable taste;
-but I confess I think it a strange historical accident that
-things so comparatively dull as [[Lady Susan]] should have been
-printed already, while things so comparatively lively as [[Love]]
-and [[Friendship]] should never have been printed until now.
-It is at least a curiosity of literature that such curiosities
-of literature should have been almost accidentally concealed.
-Doubtless it was very rightly felt that we may go much
-too far in the way of emptying the waste-paper basket of a
-genius on the head of the public; and that there is a sense
-in which the waste-paper basket is as sacred as the [[Grave|grave]].
-But without arrogating to myself any more right in the matter
-than anybody has to his own taste, I [[Hope|hope]] I may be allowed
-to say that I for one would have willingly left [[Lady Susan]]
-in the waste-paper basket, if I could have pieced together
-[[Love]] and [[Friendship]] for a private scrap-book; a thing to laugh
-over again and again as one laughs over the great burlesques
-of Peacock or Max Beerbohm.
-
-Jane Austen left everything she possessed to her sister Cassandra,
-including these and other manuscripts; and the second volume
-of them containing these was left by Cassandra to her brother,
-Admiral Sir Francis Austen.  He gave it to his daughter Fanny, who left
-it in turn to her brother Edward, who was the Rector of Barfrestone
-in [[Kent]], and the father of Mrs Sanders, to whose wise decision
-we owe the publication of these first fancies of her great-aunt;
-whom it might be misleading here to call her great great-aunt. Everyone
-will judge for himself; but I myself think she has added something
-intrinsically important to literature and to literary [[history]];
-and that there are cartloads of printed matter, regularly recognised
-and printed with the works of all great authors, which are far less
-characteristic and far less significant than these few nursery jests.
-
-For [[Love]] and [[Friendship]], with some similar pages in the accompanying
-fragments, is really a rattling burlesque; something much better
-than what the ladies of the [[Time|time]] called an agreeable rattle.
-It is one of those things that can be the more readily read with
-enjoyment through being written with enjoyment; in other words,
-it is all the better for being juvenile in the sense of being joyful.
-She is said to have written these things at the age of seventeen,
-evidently in much the same spirit in which people conduct
-a family magazine; for the medallions included in the manuscript
-were the work of her sister Cassandra.  The whole thing is full
-of the sort of high spirits that are always higher in private than
-in public; as people laugh louder in the [[house]] than in the street.
-Many of her admirers would not expect, perhaps many of her admirers
-would not admire, the sort of fun to be found in the letter to
-the young lady ‘whose feelings were too strong for her judgment',
-and who remarks incidentally ‘I murdered my father at a very early
-period in my life, I have since murdered my mother, and I am now
-going to murder my sister'.  Personally, I think it admirable;
-not the conduct, but the confession.  But there is much more
-than hilarity in the [[Humour|humour]], even at this stage of its growth.
-There is almost everywhere a certain neatness in the nonsense.
-There is not a little of the true Austen irony.  'The noble Youth
-informed us that his name was Lindsay--for particular reasons,
-however, I shall conceal it under that of Talbot.'  Did anyone
-really [[Desire|desire]] that to disappear into the waste-paper basket?
-‘She was nothing more than a mere good-tempered, civil and
-obliging young woman; as such we could scarcely dislike her--
-she was only an object of contempt.'  Is not that something like
-the first faint line in the figure of Fanny Price?  When a loud
-knocking is heard on the door of the Rustic Cot by the Uske,
-the heroine's father enquires the nature of the noise, and by cautious
-steps of inference they are enabled to define it as somebody
-outside striking the door.  ‘"Yes" (exclaimed I) "I cannot
-help thinking it must be somebody who knocks for admittance."
-"That is another point" (replied he) "we must not pretend
-to determine on what motive the person may knock--tho'
-that some one does rap at the door I am partly convinced".'
-In the aggravating leisure and lucidity of that reply,
-is there not the foreshadowing of another and more famous father;
-and do we not hear for a moment, in the rustic cottage by the Uske,
-the unmistakable voice of Mr Bennet?
-
-
-
-
-<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_02" data-title="Wild Ducks — Jane Austen's Juvenilia (part 2)" data-chapter="Jane Austen s Juvenilia" data-kind="excerpt"></span>
-
-
-But there is a larger critical reason for taking pleasure
-in the gaiety of these various travesties and trifles.
-Mr Austen-Leigh seems to have thought them not sufficiently
-serious for the reputation of his great relative; but [[Greatness|greatness]]
-is not made up of serious things, in the sense of solemn things.
-The reason here, however, is as serious as even he or anyone
-else could [[Desire|desire]]; for it concerns the fundamental quality
-of one of the finest talents in letters.
-
-A very real psychological interest, almost amounting to a
-psychological mystery, attaches to any early work of Jane Austen.
-And for that one reason, among others, which has hardly been
-sufficiently emphasised.  Great as she was, nobody was likely
-to maintain that she was a poet.  But she was a marked
-example of what is said of the poet; she was born, not made.
-As compared with her, indeed, some of the poets really were made.
-Many men who had the air of setting the world on [[Fire|fire]] have left
-at least a reasonable discussion about what set them on [[Fire|fire]].
-Men like Coleridge or Carlyle had certainly kindled their
-first torches from the flambeaux of equally fantastic German
-mystics or Platonic speculators; they had gone through furnaces
-of culture where even less creative people might have been
-inflamed to creation.  Jane Austen was not inflamed or inspired
-or even moved to be a genius; she simply was a genius.
-Her [[Fire|fire]], what there was of it, began with herself; like the [[Fire|fire]]
-of the first man who rubbed two dry sticks together.  Some would
-say that they were very dry sticks which she rubbed together.
-It is certain that she by her own artistic talent made interesting
-what thousands of superficially similar people would have made dull.
-There was nothing in her circumstances, or even in her materials,
-that seems obviously meant for the making of such an [[artist]].
-It might seem a very wild use of the wrong word to say
-that Jane Austen was elemental.  It might even seem
-even a little wanton to insist that she was original.
-Yet this objection would come from the critic not really
-considering what is meant by an element or an origin.
-Perhaps it might be as [[Well|well]] expressed in what is really meant
-by an individual.  Her ability is an absolute; it cannot be
-analysed into influences.  She has been compared to Shakespeare;
-and in this sense she really does recall the joke about the man
-who said he could write like Shakespeare if he had the mind.
-In this case we seem to see a thousand spinsters sitting at
-a thousand tea-tables; and they could all have written [[Emma]],
-if they had the mind.
-
-There is therefore, in considering even her crudest early experiments,
-the interest of looking at a mind and not at a [[Mirror|mirror]].
-She may not be conscious of being herself; yet she is not, like so
-many more cultivated imitators, conscious of being somebody else.
-The force, at its first and feeblest, is coming from within and not merely
-from without.  This interest, which belongs to her as an individual
-with a superior instinct for the intelligent criticism of life,
-is the first of the reasons that justify a study of her juvenile works;
-it is an interest in the psychology of the artistic vocation.
-I will not say of the artistic temperament; for nobody ever had less
-of the tiresome thing commonly so described than Jane Austen.
-But while this [[Alone|alone]] would be a reason for finding out how her work began,
-it becomes yet more relevant when we have found out how it did begin.
-This is something more than the discovery of a document;
-it is the discovery of an inspiration.  And that inspiration was
-the inspiration of Gargantua and of [[Pickwick]]; it was the gigantic
-inspiration of laughter.
-
-If it seemed odd to call her elemental, it may seem equally
-odd to call her exuberant.  These pages betray her secret;
-which is that she was naturally exuberant.  And her power came,
-as all power comes, from the control and direction of exuberance.
-But there is the presence and pressure of that vitality behind her
-thousand trivialities; she could have been extravagant if she liked.
-She was the very reverse of a starched or a starved spinster;
-she could have been a buffoon like the Wife of Bath if she chose.
-This is what gives an infallible force to her irony.
-This is what gives a stunning weight to her understatements.
-At the back of this [[artist]] also, counted as passionless,
-there was passion; but her original passion was a sort of joyous
-scorn and a fighting spirit against all that she regarded
-as morbid and lax and poisonously silly.  The weapons she forged
-were so finely finished that we might never have known this,
-but for these glimpses of the crude furnace from which they came.
-Finally there are two additional facts involved which I will leave
-the modern critics and correspondents in newspapers to ponder
-and explain at their leisure.  One is that this realist,
-in rebuking the romantics, is very much concerned with rebuking
-them for the very thing for which revolutionary sentiment has
-so much admired them; as for their glorification of ingratitude
-to parents and their easy assumption that the old are
-always wrong.  'No!' says the noble Youth in [[Love]] and [[Friendship]],
-‘never shall it be said that I obliged my father.'
-And the other is that there is not a shadow of indication
-anywhere that this independent intellect and laughing spirit
-was other than contented with a narrow domestic routine,
-in which she wrote a story as domestic as a diary in the intervals
-of pies and puddings, without so much as looking out of the window
-to notice the French Revolution.
-
 
 
 

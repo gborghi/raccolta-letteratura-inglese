@@ -1,5 +1,5 @@
 ---
-title: "The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [7]"
+title: "THE TRAGEDY OF KING LEAR - THE FOLIO TEXT"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)"
@@ -9,6 +9,1173 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text" data-author="Shakespeare" data-workhref="works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Earl of [[Kent]], the [[Duke of Gloucester]], and Edmond |
+| [[Kent|KENT]] | I thought the [[King]] had more affected the Duke of Albany than Cornwall. [[Gloucester|GLOUCESTER]]) It did always seem so to us, but now in the division of the kingdom it appears not which of the Dukes he values most; for qualities are so weighed that curiosity in neither can make choice of either’s moiety. |
+| [[Kent|KENT]] | Is not this your son, my lord? |
+| [[Gloucester|GLOUCESTER]] | His breeding, sir, hath been at my charge. I have so often blushed to acknowledge him that now I am brazed to’t. |
+| [[Kent|KENT]] | I cannot conceive you. |
+| [[Gloucester|GLOUCESTER]] | Sir, this young fellow’s mother could, whereupon she grew round-wombed and had indeed, sir, a son for her cradle ere she had a husband for her bed. Do you smell a fault? |
+| [[Kent|KENT]] | I cannot wish the fault undone, the issue of it being so proper. |
+| [[Gloucester|GLOUCESTER]] | But I have a son, sir, by order of law, some year older than this, who yet is no dearer in my account. Though this knave came something saucily to the world before he was sent for, yet was his mother fair, there was good sport at his making, and the whoreson must be acknowledged. (To Edmond) Do you know this noble gentleman, Edmond? |
+| EDMOND | No, my lord. |
+| [[Gloucester|GLOUCESTER]] | (to Edmond) My lord of [[Kent]]. Remember him hereafter as my honourable friend. |
+| EDMOND | (to [[Kent]]) My services to your lordship. |
+| [[Kent|KENT]] | I must [[Love|love]] you, and sue to know you better. |
+| EDMOND | Sir, I shall study deserving. |
+| [[Gloucester|GLOUCESTER]] | (to [[Kent]]) He hath been out nine years, and away he shall again. Sennet The [[King]] is coming. Enter [[King Lear]], the Dukes of Cornwall and Albany, [[Goneril]], [[Regan]], [[Cordelia]], and attendants |
+| LEAR | Attend the lords of France and Burgundy, [[Gloucester]]. |
+| [[Gloucester|GLOUCESTER]] | I shall, my lord. Exit |
+| LEAR | Meantime we shall express our darker purpose. Give me the map there. Know that we have divided In three our kingdom, and ’tis our fast intent To shake all cares and business from our age, Conferring them on younger strengths while we Unburdened crawl toward [[Death|death]]. Our son of Cornwall, And you, our no less loving son of Albany, We have this hour a constant will to publish Our daughters’ several dowers, that future strife May be prevented now. The princes France and Burgundy— Great rivals in our youngest daughter’s [[Love|love]]— Long in our [[Court|court]] have made their amorous sojourn, And here are to be answered. Tell me, my daughters— Since now we will divest us both of rule, Interest of territory, cares of state— Which of you shall we say doth [[Love|love]] us most, That we our largest bounty may extend Where [[Nature|nature]] doth with merit challenge? [[Goneril]], Our eldest born, speak first. |
+| [[Goneril|GONERIL]] | Sir, I [[Love|love]] you more than words can wield the matter; Dearer than eyesight, space, and liberty; Beyond what can be valued, rich or rare, No less than life; with grace, health, [[Beauty|beauty]], [[Honour|honour]]; As much as [[Child|child]] e’er loved or father found; A [[Love|love]] that makes breath poor and speech unable. Beyond all manner of so much I [[Love|love]] you. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--02_exchange_cordelia" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1 — exchange (CORDELIA) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Cordelia|CORDELIA]] | (aside) What shall [[Cordelia]] speak? [[Love]] and be silent. |
+| LEAR | (to [[Goneril]]) Of all these bounds even from this line to this, With shadowy forests and with champaigns riched, With plenteous rivers and wide-skirted meads, We make thee lady. To thine and Albany’s issues Be this perpetual.—What says our second daughter? Our dearest [[Regan]], wife of Cornwall? |
+| [[Regan|REGAN]] | I am made of that [[Self|self]] mettle as my sister, And prize me at her worth. In my true heart I find she names my very deed of [[Love|love]]— Only she comes too short, that I profess Myself an enemy to all other joys Which the most precious square of sense possesses, And find I am [[Alone|alone]] felicitate In your dear highness’ [[Love|love]]. |
+| [[Cordelia|CORDELIA]] | (aside) Then poor [[Cordelia]]— And yet not so, since I am sure my [[Love|love]]’s More ponderous than my tongue. |
+| LEAR | (to [[Regan]]) To thee and thine hereditary ever Remain this ample third of our fair kingdom, No less in space, validity, and pleasure Than that conferred on [[Goneril]]. (To [[Cordelia]]) Now our joy, Although our last and least, to whose young [[Love|love]] The vines of France and milk of Burgundy Strive to be interessed: what can you say to draw A third more opulent than your sisters? Speak. |
+| [[Cordelia|CORDELIA]] | Nothing, my lord. |
+| LEAR | Nothing? |
+| [[Cordelia|CORDELIA]] | Nothing. |
+| LEAR | Nothing will come of nothing. Speak again. |
+| [[Cordelia|CORDELIA]] | Unhappy that I am, I cannot heave My heart into my mouth. I [[Love|love]] your majesty According to my bond, no more nor less. |
+| LEAR | How, how, [[Cordelia]]? Mend your speech a little Lest you may mar your fortunes. |
+| [[Cordelia|CORDELIA]] | Good my lord, You have begot me, bred me, loved me. I return those duties back as are right fit- Obey you, [[Love|love]] you, and most [[Honour|honour]] you. Why have my sisters husbands if they say They [[Love|love]] you all? Haply when I shall wed That lord whose hand must take my plight shall carry Half my [[Love|love]] with him, half my care and duty. Sure, I shall never marry like my sisters. |
+| LEAR | But goes thy heart with this? |
+| [[Cordelia|CORDELIA]] | Ay, my good lord. |
+| LEAR | So young and so untender? |
+| [[Cordelia|CORDELIA]] | So young, my lord, and true. |
+| LEAR | Let it be so. Thy [[Truth|truth]] then be thy dower; For by the sacred radiance of the sun, The mysteries of Hecate and the [[Night|night]], By all the operation of the orbs From whom we do exist and cease to be, Here I disclaim all my paternal care, Propinquity, and property of [[Blood|blood]], And as a stranger to my heart and me Hold thee from this for ever. The barbarous Scythian, Or he that makes his generation messes To gorge his appetite, shall to my bosom Be as [[Well|well]] neighboured, pitied, and relieved As thou, my sometime daughter. |
+| [[Kent|KENT]] | Good my liege— |
+| LEAR | Peace, [[Kent]]. Come not between the dragon and his wrath. I loved her most, and thought to set my rest On her kind nursery. To [[Cordelia]] Hence, and avoid my sight!— So be my [[Grave|grave]] my peace as here I give Her father’s heart from her. Call France. Who stirs? Call Burgundy. Exit one or more Cornwall and Albany, With my two daughters’ dowers digest the third. Let [[Pride|pride]], which she calls plainness, marry her. I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty. Ourself by monthly course, With reservation of an hundred knights By you to be sustained, shall our abode Make with you by due turn. Only we shall retain The name and all th’addition to a [[King|king]]. The sway, Revenue, execution of the rest, Beloved sons, be yours; which to confirm, This crownet part between you. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--03_exchange_kent" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1 — exchange (KENT) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Kent|KENT]] | Royal Lear, Whom I have ever honoured as my [[King|king]], Loved as my father, as my master followed, As my great patron thought on in my prayers— |
+| LEAR | The bow is bent and drawn; make from the shaft. |
+| [[Kent|KENT]] | Let it fall rather, though the fork invade The region of my heart. Be [[Kent]] unmannerly When Lear is mad. What wouldst thou do, old man? Think’st thou that duty shall have dread to speak When power to flattery bows? To plainness [[Honour|honour]]’s bound When majesty falls to folly. Reserve thy state, And in thy best consideration check This hideous rashness. Answer my life my judgement, Thy youngest daughter does not [[Love|love]] thee least, Nor are those empty-hearted whose low sounds Reverb no hollowness. |
+| LEAR | [[Kent]], on thy life, no more! |
+| [[Kent|KENT]] | My life I never held but as a pawn To wage against thine enemies, ne’er feared to lose it, Thy safety being motive. |
+| LEAR | Out of my sight! |
+| [[Kent|KENT]] | See better, Lear, and let me still remain The true blank of thine eye. |
+| LEAR | Now, by [[Apollo]]— |
+| [[Kent|KENT]] | Now, by [[Apollo]], [[King]], thou swear’st thy gods in vain. |
+| LEAR | making to strike him O vassal! Miscreant! |
+| ALBANY | and [[Cordelia|CORDELIA]] Dear sir, forbear. |
+| [[Kent|KENT]] | (to Lear) Kill thy physician, and thy fee bestow Upon the foul disease. Revoke thy gift, Or whilst I can vent clamour from my throat I’ll tell thee thou dost evil. |
+| LEAR | Hear me, recreant; on thine allegiance hear me! That thou hast sought to make us break our vows, Which we durst never yet, and with strained [[Pride|pride]] To come betwixt our sentence and our power, Which nor our [[Nature|nature]] nor our place can bear, Our potency made good take thy reward: Five days we do allot thee for provision To shield thee from disasters of the world, And on the sixth to turn thy hated back Upon our kingdom. If on the seventh day following Thy banished trunk be found in our dominions, The moment is thy [[Death|death]]. Away! By Jupiter, This shall not be revoked. |
+| [[Kent|KENT]] | Fare thee [[Well|well]], [[King]]; sith thus thou wilt appear, [[Freedom]] lives hence, and banishment is here. (To [[Cordelia]]) The gods to their dear shelter take thee, maid, That justly think’st, and hast most rightly said. (To [[Goneril]] and [[Regan]]) And your large speeches may your deeds approve, That good effects may [[spring]] from words of [[Love|love]]. Thus [[Kent]], O princes, bids you all adieu; He’ll shape his old course in a country new. Exit Flourish. Enter the [[Duke of Gloucester]] with the [[King of France]], the Duke of Burgundy, and attendants [[Cordelia|CORDELIA]] Here’s France and Burgundy, my noble lord. |
+| LEAR | My lord of Burgundy, We first address toward you, who with this [[King]] Hath rivalled for our daughter: what in the least Will you require in present dower with her Or cease your [[Quest|quest]] of [[Love|love]]? |
+| BURGUNDY | Most royal majesty, I crave no more than hath your highness offered; Nor will you tender less. |
+| LEAR | Right noble Burgundy, When she was dear to us we did hold her so; But now her price is fallen. Sir, there she stands. If aught within that little seeming substance, Or all of it, with our displeasure pieced, And nothing more, may fitly like your grace, She’s there, and she is yours. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--04_exchange_burgundy" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1 — exchange (BURGUNDY) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| BURGUNDY | I know no answer. |
+| LEAR | Will you with those infirmities she owes, Unfriended, new adopted to our hate, Dowered with our curse and strangered with our oath, Take her or leave her? |
+| BURGUNDY | Pardon me, royal sir. Election makes not up in such conditions. |
+| LEAR | Then leave her, sir; for by the power that made me, I tell you all her wealth. (To France) For you, great [[King]], I would not from your [[Love|love]] make such a stray To match you where I hate, therefore beseech you T‘avert your liking a more worthier way Than on a wretch whom [[Nature|nature]] is ashamed Almost t’acknowledge hers. |
+| FRANCE | This is most strange, That she whom even but now was your best object, The argument of your praise, balm of your age, The best, the dear’st, should in this trice of [[Time|time]] Commit a thing so monstrous to dismantle So many folds of favour. Sure, her offence Must be of such unnatural degree That monsters it, or your fore-vouched affection Fall into taint; which to believe of her Must be a [[Faith|faith]] that reason without miracle Should never plant in me. |
+| [[Cordelia|CORDELIA]] | (to Lear) I yet beseech your majesty, If for I want that glib and oily art To speak and purpose not—since what I [[Well|well]] intend, I’ll do’t before I speak—that you make known It is no vicious blot, murder, or foulness, No unchaste action or dishonoured step That hath deprived me of your grace and favour, But even the want of that for which I am richer— A still-soliciting eye, and such a tongue That I am glad I have not, though not to have it Hath lost me in your liking. |
+| LEAR | Better thou Hadst not been born than not t’have pleased me better. |
+| FRANCE | Is it but this—a tardiness in [[Nature|nature]], Which often [[Leaves|leaves]] the [[history]] unspoke That it intends to do?—My lord of Burgundy, What say you to the lady? [[Love]]’s not [[Love|love]] When it is mingled with regards that stands Aloof from th’entire point. Will you have her? She is herself a dowry. |
+| BURGUNDY | (to Lear) Royal [[King]], Give but that portion which yourself proposed, And here I take [[Cordelia]] by the hand, Duchess of Burgundy. |
+| LEAR | Nothing. I have sworn. I am firm. |
+| BURGUNDY | (to [[Cordelia]]) I am sorry, then, you have so lost a father That you must lose a husband. |
+| [[Cordelia|CORDELIA]] | Peace be with Burgundy; Since that respect and fortunes are his [[Love|love]], I shall not be his wife. |
+| FRANCE | Fairest [[Cordelia]], that art most rich, being poor; Most choice, forsaken; and most loved, despised: Thee and thy virtues here I seize upon. Be it lawful, I take up what’s cast away. Gods, gods! ‘Tis strange that from their cold’st neglect My [[Love|love]] should kindle to inflamed respect.— Thy dowerless daughter, [[King]], thrown to my chance, Is [[Queen|queen]] of us, of ours, and our fair France. Not all the dukes of wat’rish Burgundy Can buy this unprized precious maid of me.— Bid them farewell, [[Cordelia]], though unkind. Thou losest here, a better where to find. |
+| LEAR | Thou hast her, France. Let her be thine, for we Have no such daughter, nor shall ever see That face of hers again. Therefore be gone, Without our grace, our [[Love|love]], our benison.— Come, noble Burgundy. Flourish. Exeunt all but France |
+| LEAR | and the sisters |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--05_exchange_france" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1 — exchange (FRANCE) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FRANCE | Bid farewell to your sisters. |
+| [[Cordelia|CORDELIA]] | Ye jewels of our father, with washed eyes [[Cordelia]] [[Leaves|leaves]] you. I know you what you are, And like a sister am most loath to call Your faults as they are named. [[Love]] [[Well|well]] our father. To your professed bosoms I commit him. But yet, alas, stood I within his grace I would prefer him to a better place. So farewell to you both. |
+| [[Regan|REGAN]] | Prescribe not us our duty. |
+| [[Goneril|GONERIL]] | Let your study Be to content your lord, who hath received you At fortune’s alms. You have obedience scanted, And [[Well|well]] are worth the want that you have wanted. |
+| [[Cordelia|CORDELIA]] | [[Time]] shall unfold what pleated cunning hides, Who covert faults at last with shame derides. [[Well]] may you prosper. |
+| FRANCE | Come, my fair [[Cordelia]]. Exeunt France and [[Cordelia]] |
+| [[Goneril|GONERIL]] | Sister, it is not little I have to say of what most nearly appertains to us both. I think our father will hence tonight. |
+| [[Regan|REGAN]] | That’s most certain, and with you. Next month with us. |
+| [[Goneril|GONERIL]] | You see how full of changes his age is. The observation we have made of it hath been little. He always loved our sister most, and with what poor judgement he hath now cast her off appears too grossly. |
+| [[Regan|REGAN]] | ’Tis the infirmity of his age; yet he hath ever but slenderly known himself. |
+| [[Goneril|GONERIL]] | The best and soundest of his [[Time|time]] hath been but rash; then must we look from his age to receive not [[Alone|alone]] the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them. |
+| [[Regan|REGAN]] | Such unconstant starts are we like to have from him as this of [[Kent]]’s banishment. |
+| [[Goneril|GONERIL]] | There is further compliment of leave-taking between France and him. Pray you, let us sit together. If our father carry authority with such disposition as he bears, this last surrender of his will but offend us. |
+| [[Regan|REGAN]] | We shall further think of it. [[Goneril|GONERIL]] We must do something, and i’th’ heat. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Edmond the bastard |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--02_monologue_edmond" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — monologue (EDMOND) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| EDMOND | Thou, [[Nature|nature]], art my goddess. To thy law My services are bound. Wherefore should I Stand in the plague of custom and permit The curiosity of nations to deprive me For that I am some twelve or fourteen moonshines Lag of a brother? Why ‘bastard’? Wherefore ‘base’, When my dimensions are as [[Well|well]] compact, My mind as generous, and my shape as true As honest madam’s issue? Why brand they us With ‘base’, with ‘baseness, bastardy—base, base’— Who in the lusty stealth of [[Nature|nature]] take More composition and fierce quality Than doth within a dull, stale, tirèd bed Go to th’ creating a whole tribe of fops Got ‘tween a [[Sleep|sleep]] and wake? [[Well]] then, Legitimate [[Edgar]], I must have your land. Our father’s [[Love|love]] is to the bastard Edmond As to th’ legitimate. Fine word, ‘legitimate’. [[Well]], my legitimate, if this letter [[Speed|speed]] And my invention thrive, Edmond the base Shall to th’ legitimate. I grow, I prosper. Now gods, stand up for bastards! Enter the [[Duke of Gloucester]]. Edmond reads a letter |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--03_exchange_gloucester" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — exchange (GLOUCESTER) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Gloucester|GLOUCESTER]] | [[Kent]] banished thus, and France in choler parted, And the [[King]] gone tonight, prescribed his power, Confined to exhibition—all this done Upon the gad?—Edmond, how now? What news? |
+| EDMOND | So please your lordship, none. |
+| [[Gloucester|GLOUCESTER]] | Why so earnestly seek you to put up that letter? |
+| EDMOND | I know no news, my lord. [[Gloucester|GLOUCESTER]] What paper were you reading? |
+| EDMOND | Nothing, my lord. |
+| [[Gloucester|GLOUCESTER]] | No? What needed then that terrible dispatch of it into your pocket? The quality of nothing hath not such need to hide itself. Let’s see. Come, if it be nothing I shall not need spectacles. |
+| EDMOND | I beseech you, sir, pardon me. It is a letter from my brother that I have not all o‘er-read; and for so much as I have perused, I find it not fit for your o’erlooking. [[Gloucester|GLOUCESTER]] Give me the letter, sir. |
+| EDMOND | I shall offend either to detain or give it. The contents, as in part I understand them, are to blame. [[Gloucester|GLOUCESTER]] Let’s see, let’s see. |
+| EDMOND | I [[Hope|hope]] for my brother’s justification he wrote this but as an assay or taste of my virtue. He gives [[Gloucester]] a letter |
+| [[Gloucester|GLOUCESTER]] | (reads) ‘This policy and reverence of age makes the world bitter to the best of our times, keeps our fortunes from us till our oldness cannot relish them. I begin to find an idle and fond bondage in the oppression of aged tyranny, who sways not as it hath power but as it is suffered. Come to me, that of this I may speak more. If our father would [[Sleep|sleep]] till I waked him, you should enjoy half his revenue for ever and live the beloved of your brother, [[Edgar]].’ Hum, conspiracy! ‘[[Sleep]] till I wake him, you should enjoy half his revenue’—my son [[Edgar]]! Had he a hand to write this, a heart and brain to breed it in? When came you to this? Who brought it? |
+| EDMOND | It was not brought me, my lord, there’s the cunning of it. I found it thrown in at the casement of my closet. |
+| [[Gloucester|GLOUCESTER]] | You know the character to be your brother’s? |
+| EDMOND | If the matter were good, my lord, I durst swear it were his; but in respect of that, I would fain think it were not. [[Gloucester|GLOUCESTER]]) It is his. |
+| EDMOND | It is his hand, my lord, but I [[Hope|hope]] his heart is not in the contents. |
+| [[Gloucester|GLOUCESTER]] | Has he never before sounded you in this business? |
+| EDMOND | Never, my lord; but I have heard him oft maintain it to be fit that, sons at perfect age and fathers declined, the father should be as ward to the son, and the son manage his revenue. |
+| [[Gloucester|GLOUCESTER]] | O [[Villain|villain]], [[Villain|villain]]—his very opinion in the letter! Abhorred [[Villain|villain]], unnatural, detested, brutish [[Villain|villain]]—worse than brutish! Go, sirrah, seek him. I’ll apprehend him. Abominable [[Villain|villain]]! Where is he? |
+| EDMOND | I do not [[Well|well]] know, my lord. If it shall please you to suspend your indignation against my brother till you can derive from him better testimony of his intent, you should run a certain course; where if you violently proceed against him, mistaking his purpose, it would make a great gap in your own [[Honour|honour]] and shake in pieces the heart of his obedience. I dare pawn down my life for him that he hath writ this to feel my affection to your [[Honour|honour]], and to no other pretence of danger. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--04_exchange_gloucester" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — exchange (GLOUCESTER) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Gloucester|GLOUCESTER]] | Think you so? |
+| EDMOND | If your [[Honour|honour]] judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening. |
+| [[Gloucester|GLOUCESTER]] | He cannot be such a [[Monster|monster]]. Edmond, seek him out, [[Wind|wind]] me into him, I pray you. Frame the business after your own wisdom. I would unstate myself to be in a due resolution. |
+| EDMOND | I will seek him, sir, presently, convey the business as I shall find means, and acquaint you withal. |
+| [[Gloucester|GLOUCESTER]] | These late eclipses in the sun and [[Moon|moon]] portend no good to us. Though the wisdom of [[Nature|nature]] can reason it thus and thus, yet [[Nature|nature]] finds itself scourged by the sequent effects. [[Love]] cools, [[Friendship|friendship]] falls off, brothers divide; in cities, mutinies; in countries, discord; in palaces, treason; and the bond cracked ‘twixt son and father. This [[Villain|villain]] of mine comes under the prediction: there’s son against father. The [[King]] falls from bias of [[Nature|nature]]: there’s father against [[Child|child]]. We have seen the best of our [[Time|time]]. Machinations, hollowness, treachery, and all ruinous disorders follow us disquietly to our graves. Find out this [[Villain|villain]], Edmond; it shall lose thee nothing. Do it carefully. And the noble and true-hearted [[Kent]] banished, his offence honesty! ’Tis strange. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--05_monologue_edmond" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — monologue (EDMOND) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| EDMOND | This is the excellent foppery of the world: that when we are sick in fortune—often the surfeits of our own behaviour—we make guilty of our disasters the sun, the [[Moon|moon]], and [[Stars|stars]], as if we were villains on necessity, fools by heavenly compulsion, knaves, thieves, and treachers by spherical predominance, drunkards, liars, and adulterers by an enforced obedience of planetary influence, and all that we are evil in by a divine thrusting on. An admirable evasion of whore-master man, to lay his goatish disposition on the charge of a star! My father compounded with my mother under the Dragon’s tail and my nativity was under Ursa Major, so that it follows I am rough and lecherous. Fut! I should have been that I am had the maidenliest star in the firmament twinkled on my bastardizing. Enter [[Edgar]] Pat he comes, like the catastrophe of the old [[Comedy|comedy]]. My cue is villainous [[Melancholy|melancholy]], with a sigh like Tom o’ Bedlam. He reads a book —O, these eclipses do portend these divisions. Fa, so, la, mi. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--06_exchange_edgar" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — exchange (EDGAR) [6]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Edgar|EDGAR]] | How now, brother Edmond, what serious contemplation are you in? |
+| EDMOND | I am thinking, brother, of a prediction I read this other day, what should follow these eclipses. |
+| [[Edgar|EDGAR]] | Do you busy yourself with that? |
+| EDMOND | I promise you, the effects he writes of succeed unhappily. When saw you my father last? |
+| [[Edgar|EDGAR]] | The [[Night|night]] gone by. |
+| EDMOND | Spake you with him? |
+| [[Edgar|EDGAR]] | Ay, two hours together. |
+| EDMOND | Parted you in good terms? Found you no displeasure in him by word nor countenance? |
+| [[Edgar|EDGAR]] | None at all. |
+| EDMOND | Bethink yourself wherein you may have offended him, and at my entreaty forbear his presence until some little [[Time|time]] hath qualified the heat of his displeasure, which at this instant so rageth in him that with the mischief of your person it would scarcely allay. |
+| [[Edgar|EDGAR]] | Some [[Villain|villain]] hath done me wrong. |
+| EDMOND | That’s my [[Fear|fear]]. I pray you have a continent forbearance till the [[Speed|speed]] of his rage goes slower; and, as I say, retire with me to my lodging, from whence I will fitly bring you to hear my lord speak. Pray ye, go. There’s my key. If you do stir abroad, go armed. |
+| [[Edgar|EDGAR]] | Armed, brother? |
+| EDMOND | Brother, I advise you to the best. I am no honest man if there be any good meaning toward you. I have told you what I have seen and heard but faintly, nothing like the image and horror of it. Pray you, away. |
+| [[Edgar|EDGAR]] | Shall I hear from you anon? |
+| EDMOND | I do serve you in this business. Exit [[Edgar]] A credulous father, and a brother noble, Whose [[Nature|nature]] is so far from doing harms That he suspects none; on whose foolish honesty My practices ride easy. I see the business. Let me, if not by birth, have lands by wit. All with me’s meet that I can fashion fit. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Earl of [[Kent]], disguised |
+| [[Kent|KENT]] | If but as [[Well|well]] I other accents borrow That can my speech diffuse, my good intent May carry through itself to that full issue For which I razed my likeness. Now, banished [[Kent]], If thou canst serve where thou dost stand condemned, So may it come thy master, whom thou lov’st, Shall find thee full of labours. Horns within. Enter [[King Lear]] and attendants from hunting |
+| LEAR | Let me not stay a jot for dinner. Go get it ready. Exit one (To [[Kent]]) How now, what art thou? |
+| [[Kent|KENT]] | A man, sir. |
+| LEAR | What dost thou profess? What wouldst thou with us? |
+| [[Kent|KENT]] | I do profess to be no less than I seem, to serve him truly that will put me in trust, to [[Love|love]] him that is honest, to converse with him that is wise and says little, to [[Fear|fear]] judgement, to fight when I cannot choose, and to eat no fish. |
+| LEAR | What art thou? |
+| [[Kent|KENT]] | A very honest-hearted fellow, and as poor as the [[King]]. |
+| LEAR | If thou be‘st as poor for a subject as he’s for a [[King|king]], thou’rt poor enough. What wouldst thou? |
+| [[Kent|KENT]] | Service. |
+| LEAR | Who wouldst thou serve? |
+| [[Kent|KENT]] | You. |
+| LEAR | Dost thou know me, fellow? |
+| [[Kent|KENT]] | No, sir, but you have that in your countenance which I would fain call master. |
+| LEAR | What’s that? |
+| [[Kent|KENT]] | Authority. |
+| LEAR | What services canst do? |
+| [[Kent|KENT]] | I can keep honest counsel, ride, run, mar a curious tale in telling it, and deliver a plain message bluntly. That which ordinary men are fit for I am qualified in; and the best of me is diligence. |
+| LEAR | How old art thou? |
+| [[Kent|KENT]] | Not so young, sir, to [[Love|love]] a woman for singing, nor so old to dote on her for anything. I have years on my back forty-eight. |
+| LEAR | Follow me. Thou shalt serve me, if I like thee no worse after dinner. I will not part from thee yet. Dinner, ho, dinner! Where’s my knave, my [[Fool|fool]]? Go you and call my [[Fool|fool]] hither. Exit one Enter Oswald the steward You, you, sirrah, where’s my daughter? |
+| OSWALD | So please you— Exit |
+| LEAR | What says the fellow there? Call the clotpoll back. Exit a knight Where’s my [[Fool|fool]]? Ho, I think the world’s asleep. Enter a Knight How now? Where’s that mongrel? |
+| KNIGHT | He says, my lord, your daughter is not [[Well|well]]. |
+| LEAR | Why came not the slave back to me when I called him? |
+| KNIGHT | Sir, he answered me in the roundest manner he would not. |
+| LEAR | A would not? |
+| KNIGHT | My lord, I know not what the matter is, but to my judgement your highness is not entertained with that ceremonious affection as you were wont. There’s a great abatement of kindness appears as [[Well|well]] in the general dependants as in the Duke himself also, and your daughter. |
+| LEAR | Ha, sayst thou so? |
+| KNIGHT | I beseech you pardon me, my lord, if I be mistaken, for my duty cannot be silent when I think your highness wronged. |
+| LEAR | Thou but rememberest me of mine own conception. I have perceived a most faint neglect of late, which I have rather blamed as mine own jealous curiosity than as a very pretence and purpose of unkindness. I will look further into’t. But where’s my [[Fool|fool]]? I have not seen him these two days. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--02_exchange_knight" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4 — exchange (KNIGHT) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| KNIGHT | Since my young lady’s going into France, sir, the [[Fool|fool]] hath much pined away. |
+| LEAR | No more of that, I have noted it [[Well|well]]. Go you and tell my daughter I would speak with her. Exit one Go you, call hither my [[Fool|fool]]. Exit one Enter Oswald the steward crossing the stage O you, sir, you, come you hither, sir, who am I, sir? OSWALD My lady’s father. |
+| LEAR | My lady’s father? My lord’s knave, you whoreson dog, you slave, you cur! |
+| OSWALD | I am none of these, my lord, I beseech your pardon. |
+| LEAR | Do you bandy looks with me, you rascal? Lear strikes him |
+| OSWALD | I’ll not be strucken, my lord. |
+| [[Kent|KENT]] | tripping him Nor tripped neither, you base football player. |
+| LEAR | (to [[Kent]]) I thank thee, fellow. Thou serv’st me, and I’ll [[Love|love]] thee. |
+| [[Kent|KENT]] | (to Oswald) Come, sir, arise, away. I’ll teach you differences. Away, away. If you will measure your lubber’s length again, tarry; but away, go to. Have you wisdom? So. Exit Oswald |
+| LEAR | Now, my friendly knave, I thank thee. Enter Lear’s [[Fool]] There’s earnest of thy service. He gives [[Kent]] money |
+| [[Fool|FOOL]] | Let me hire him, too. (To [[Kent]]) Here’s my coxcomb. |
+| LEAR | How now, my pretty knave, how dost thou? |
+| [[Fool|FOOL]] | (to [[Kent]]) Sirrah, you were best take my coxcomb. |
+| LEAR | Why, my boy? |
+| [[Fool|FOOL]] | Why? For taking one’s part that’s out of favour. (To [[Kent]]) Nay, an thou canst not smile as the [[Wind|wind]] sits, thou’lt catch cold shortly. There, take my coxcomb. Why, this fellow has banished two on’s daughters and did the third a blessing against his will. If thou follow him, thou must needs wear my coxcomb. (To Lear) How now, nuncle? Would I had two coxcombs and two daughters. |
+| LEAR | Why, my boy? |
+| [[Fool|FOOL]] | If I gave them all my living I’d keep my coxcombs myself. There’s mine; beg another off thy daughters. |
+| LEAR | Take heed, sirrah—the whip. |
+| [[Fool|FOOL]] | [[Truth]]’s a dog must to kennel. He must be whipped out when the Lady Brach may stand by th’ [[Fire|fire]] and stink. |
+| LEAR | A pestilent gall to me! |
+| [[Fool|FOOL]] | to [[Kent]] Sirrah, I’ll teach thee a speech. |
+| LEAR | Do. |
+| [[Fool|FOOL]] | Mark it, nuncle: Have more than thou showest, Speak less than thou knowest, Lend less than thou owest, Ride more than thou goest, Learn more than thou trowest, Set less than thou throwest, Leave thy drink and thy whore, And keep in-a-door, And thou shalt have more Than two tens to a score. |
+| [[Kent|KENT]] | This is nothing, [[Fool|fool]]. |
+| [[Fool|FOOL]] | Then ’tis like the breath of an unfee’d lawyer: you gave me nothing for’t. (To Lear) Can you make no use of nothing, nuncle? |
+| LEAR | Why no, boy. Nothing can be made out of nothing. |
+| [[Fool|FOOL]] | (to [[Kent]]) Prithee, tell him so much the rent of his land comes to. He will not believe a [[Fool|fool]]. |
+| LEAR | A bitter [[Fool|fool]]. |
+| [[Fool|FOOL]] | Dost know the difference, my boy, between a bitter [[Fool|fool]] and a sweet one? |
+| LEAR | No, lad. Teach me. |
+| [[Fool|FOOL]] | Nuncle, give me an egg, and I’ll give thee two crowns. |
+| LEAR | What two crowns shall they be? |
+| [[Fool|FOOL]] | Why, after I have cut the egg i‘th’ middle and eat up the meat, the two crowns of the egg. When thou clovest thy [[Crown|crown]] i’th’ middle and gavest away both parts, thou borest thine ass o‘th’ back o’er the dirt. Thou hadst little wit in thy bald [[Crown|crown]] when thou gavest thy golden one away. If I speak like myself in this, let him be whipped that first finds it so. Sings Fools had ne’er less grace in a year, For wise men are grown foppish, And know not how their wits to wear, Their manners are so apish. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--03_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4 — exchange (LEAR) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LEAR | When were you wont to be so full of [[songs]], sirrah? |
+| [[Fool|FOOL]] | I have used it, nuncle, e’er since thou madest thy daughters thy mothers; for when thou gavest them the rod and puttest down thine own breeches, Sings Then they for sudden joy did weep, And I for sorrow sung, That such a [[King|king]] should play bo-peep And go the fools among. Prithee, nuncle, keep a schoolmaster that can teach thy [[Fool|fool]] to lie. I would fain learn to lie. |
+| LEAR | An you lie, sirrah, we’ll have you whipped. |
+| [[Fool|FOOL]] | I marvel what kin thou and thy daughters are. They’ll have me whipped for speaking true, thou‘lt have me whipped for lying, and sometimes I am whipped for holding my peace. I had rather be any kind o’ thing than a [[Fool|fool]]; and yet I would not be thee, nuncle. Thou hast pared thy wit o’ both sides and left nothing i’th’ middle. Enter [[Goneril]] Here comes one o’ the parings. |
+| LEAR | How now, daughter? What makes that frontlet on? You are too much of late i’th’ frown. |
+| [[Fool|FOOL]] | Thou wast a pretty fellow when thou hadst no need to care for her frowning. Now thou art an O without a figure. I am better than thou art, now. I am a [[Fool|fool]]; thou art nothing. To [[Goneril]] Yes, forsooth, I will hold my tongue; so your face bids me, though you say nothing. Sings Mum, mum. He that keeps nor crust nor crumb, Weary of all, shall want some. That’s a shelled peascod. |
+| [[Goneril|GONERIL]] | (to Lear) Not only, sir, this your all-licensed [[Fool|fool]], But other of your insolent retinue Do hourly carp and quarrel, breaking forth In rank and not-to-be-endured riots. Sir, I had thought by making this [[Well|well]] known unto you To have found a safe redress, but now grow fearful, By what yourself too late have spoke and done, That you protect this course, and put it on By your allowance; which if you should, the fault Would not scape censure, nor the redresses [[Sleep|sleep]] Which in the tender of a wholesome weal Might in their working do you that offence, Which else were shame, that then necessity Will call discreet proceeding. |
+| [[Fool|FOOL]] | (to Lear) For, you know, nuncle, Sings The hedge-sparrow fed the cuckoo so long That it’s had it head bit off by it young; so out went the candle, and we were left darkling. |
+| LEAR | (to [[Goneril]]) Are you our daughter? |
+| [[Goneril|GONERIL]] | I would you would make use of your good wisdom, Whereof I know you are fraught, and put away These dispositions which of late transport you From what you rightly are. |
+| [[Fool|FOOL]] | May not an ass know when the cart draws the [[Horse|horse]]? Sings ‘Whoop, jug, I [[Love|love]] thee!’ |
+| LEAR | Does any here know me? This is not Lear. Does Lear walk thus, speak thus? Where are his eyes? Either his notion weakens, his discernings Are lethargied—ha, waking? ’Tis not so. Who is it that can tell me who I am? |
+| [[Fool|FOOL]] | Lear’s [[Shadow|shadow]]. |
+| LEAR | (to [[Goneril]]) Your name, fair gentlewoman? |
+| [[Goneril|GONERIL]] | This admiration, sir, is much o’th’ savour Of other your new pranks. I do beseech you To understand my purposes aright, As you are old and reverend, should be wise. Here do you keep a hundred knights and squires, Men so disordered, so debauched and bold That this our [[Court|court]], infected with their manners, Shows like a riotous inn. Epicurism and lust Makes it more like a tavern or a brothel Than a graced palace. The shame itself doth speak For instant remedy. Be then desired, By her that else will take the thing she begs, A little to disquantity your train, And the remainders that shall still depend To be such men as may besort your age, Which know themselves and you. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--04_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4 — exchange (LEAR) [4]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LEAR | Darkness and devils! Saddle my horses, call my train together!— Exit one or more Degenerate bastard, I’ll not trouble thee. Yet have I left a daughter. |
+| [[Goneril|GONERIL]] | You strike my people, and your disordered rabble Make servants of their betters. Enter the Duke of Albany |
+| LEAR | Woe that too late repents! Is it your will? Speak, sir.—Prepare my horses. Exit one or more Ingratitude, thou marble-hearted fiend, More hideous when thou show’st thee in a [[Child|child]] Than the sea-[[Monster|monster]]— |
+| ALBANY | Pray sir, be patient. |
+| LEAR | (to [[Goneril]]) Detested kite, thou liest. My train are men of choice and rarest parts, That all particulars of duty know, And in the most exact regard support The worships of their name. O most small fault, How ugly didst thou in [[Cordelia]] show, Which, like an engine, wrenched my frame of [[Nature|nature]] From the fixed place, drew from my heart all [[Love|love]], And added to the gall! O Lear, Lear, Lear! Beat at this gate that let thy folly in And thy dear judgement out.—Go, go, my people! |
+| ALBANY | My lord, I am guiltless, as I am ignorant Of what hath moved you. |
+| LEAR | It may be so, my lord. Hear, [[Nature|nature]]; hear, dear goddess, hear: Suspend thy purpose if thou didst intend To make this creature fruitful. Into her womb convey sterility. Dry up in her the organs of increase, And from her derogate [[Body|body]] never [[spring]] A babe to [[Honour|honour]] her. If she must teem, Create her [[Child|child]] of spleen, that it may live And be a thwart disnatured torment to her. Let it stamp wrinkles in her brow of youth, With cadent [[Tears|tears]] fret channels in her cheeks, Turn all her mother’s pains and benefits To laughter and contempt, that she may feel— That she may feel How sharper than a serpent’s tooth it is To have a thankless [[Child|child]]. Away, away! Exeunt Lear, [[Kent]], and attendants |
+| ALBANY | Now, gods that we adore, whereof comes this? |
+| [[Goneril|GONERIL]] | Never afflict yourself to know more of it, But let his disposition have that scope As dotage gives it. Enter [[King Lear]] |
+| LEAR | What, fifty of my followers at a clap? Within a fortnight? |
+| ALBANY | What’s the matter, sir? |
+| LEAR | I’ll tell thee. (To [[Goneril]]) Life and [[Death|death]]! I am ashamed That thou hast power to shake my manhood thus, That these hot [[Tears|tears]], which break from me perforce, Should make thee worth them. Blasts and fogs upon thee! Th’untented woundings of a father’s curse Pierce every sense about thee! Old fond eyes, Beweep this cause again I’ll pluck ye out And cast you, with the waters that you loose, To temper clay. Ha! Let it be so. I have another daughter Who, I am sure, is kind and comfortable. When she shall hear this of thee, with her nails She’ll flay thy wolvish visage. Thou shalt find That I’ll resume the shape which thou dost think I have cast off for ever. Exit |
+| [[Goneril|GONERIL]] | Do you mark that? |
+| ALBANY | I cannot be so partial, [[Goneril]], To the great [[Love|love]] I bear you— |
+| [[Goneril|GONERIL]] | Pray you, content. What, Oswald, ho!— You, sir, more knave than [[Fool|fool]], after your master. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--05_exchange_fool" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4 — exchange (FOOL) [5]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Fool|FOOL]] | Nuncle Lear, nuncle Lear, Tarry, take the [[Fool|fool]] with thee. A fox when one has caught her, And such a daughter, Should sure to the slaughter, If my cap would buy a halter. So, the [[Fool|fool]] follows after. Exit |
+| [[Goneril|GONERIL]] | This man hath had good counsel—a hundred knights? ’Tis politic and safe to let him keep At point a hundred knights, yes, that on every dream, Each buzz, each fancy, each complaint, dislike, He may enguard his dotage with their powers And hold our lives in [[Mercy|mercy]].—Oswald, I say! |
+| ALBANY | [[Well]], you may [[Fear|fear]] too far. |
+| [[Goneril|GONERIL]] | Safer than trust too far. Let me still take away the harms I [[Fear|fear]], Not [[Fear|fear]] still to be taken. I know his heart. What he hath uttered I have writ my sister. If she sustain him and his hundred knights When I have showed th’unfitness— Enter Oswald the steward How now, Oswald? What, have you writ that letter to my sister? |
+| OSWALD | Ay, madam. |
+| [[Goneril|GONERIL]] | Take you some company, and away to [[Horse|horse]]. Inform her full of my particular [[Fear|fear]], And thereto add such reasons of your own As may compact it more. Get you gone, And hasten your return. Exit Oswald No, no, my lord, This milky gentleness and course of yours, Though I condemn not, yet under pardon You are much more attasked for want of wisdom Than praised for harmful mildness. |
+| ALBANY | How far your eyes may pierce I cannot tell. Striving to better, oft we mar what’s [[Well|well]]. |
+| [[Goneril|GONERIL]] | Nay, then— |
+| ALBANY | [[Well]], [[Well|well]], th’event. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Edmond the bastard, and Curan, severally |
+| EDMOND | Save thee, Curan. |
+| CURAN | And you, sir. I have been with your father, and given him notice that the Duke of Cornwall and [[Regan]] his duchess will be here with him this [[Night|night]]. |
+| EDMOND | How comes that? CURAN Nay, I know not. You have heard of the news abroad?—I mean the whispered ones, for they are yet but ear-kissing arguments. |
+| EDMOND | Not I. Pray you, what are they? |
+| CURAN | Have you heard of no likely wars toward twixt the Dukes of Cornwall and Albany? |
+| EDMOND | Not a word. |
+| CURAN | You may do then in [[Time|time]]. Fare you [[Well|well]], sir. Exit |
+| EDMOND | The Duke be here tonight! The better, best. This weaves itself perforce into my business. Enter [[Edgar]] at a [[Window|window]] above My father hath set guard to take my brother, And I have one thing of a queasy question Which I must act. Briefness and fortune work!— Brother, a word, descend. Brother, I say. [[Edgar]] climbs down My father watches. O sir, fly this place. Intelligence is given where you are hid. You have now the good advantage of the [[Night|night]]. Have you not spoken ‘gainst the Duke of Cornwall? He’s coming hither, now, i’th’ [[Night|night]], i‘th’ haste, And [[Regan]] with him. Have you nothing said Upon his party ’gainst the Duke of Albany? Advise yourself. |
+| [[Edgar|EDGAR]] | I am sure on’t, not a word. |
+| EDMOND | I hear my father coming. Pardon me. In cunning I must draw my [[Sword|sword]] upon you. Draw. Seem to defend yourself. Now, quit you [[Well|well]]. (Calling) Yield, come before my father. Light ho, here! (To [[Edgar]]) Fly, brother! (Calling) Torches, torches! (To [[Edgar]]) So, farewell. Exit [[Edgar]] Some [[Blood|blood]] drawn on me would beget opinion Of my more fierce endeavour. He wounds his arm I have seen drunkards Do more than this in sport. (Calling) Father, father! Stop, stop! Ho, help! Enter the [[Duke of Gloucester]], and servants with torches |
+| [[Gloucester|GLOUCESTER]] | Now, Edmond, where’s the [[Villain|villain]]? |
+| EDMOND | Here stood he in the dark, his sharp [[Sword|sword]] out, Mumbling of wicked charms, conjuring the [[Moon|moon]] To stand ’s auspicious mistress. |
+| [[Gloucester|GLOUCESTER]] | But where is he? |
+| EDMOND | Look, sir, I bleed. |
+| [[Gloucester|GLOUCESTER]] | Where is the [[Villain|villain]], Edmond? |
+| EDMOND | Fled this way, sir, when by no means he could— |
+| [[Gloucester|GLOUCESTER]] | Pursue him, ho! Go after. Exeunt servants By no means what? |
+| EDMOND | Persuade me to the murder of your lordship, But that I told him the revenging gods ‘Gainst parricides did all the thunder bend, Spoke with how manifold and strong a bond The [[Child|child]] was bound to th’ father. Sir, in fine, Seeing how loathly opposite I stood To his unnatural purpose, in fell motion With his prepared [[Sword|sword]] he charges [[Home|home]] My unprovided [[Body|body]], latched mine arm; And when he saw my best alarumed spirits Bold in the quarrel’s right, roused to th’encounter, Or whether ghasted by the noise I made, Full suddenly he fled. |
+| [[Gloucester|GLOUCESTER]] | Let him fly far, Not in this land shall he remain uncaught, And found, dispatch. The noble Duke my master, My worthy arch and patron, comes tonight. By his authority I will proclaim it That he which finds him shall deserve our thanks, Bringing the murderous coward to the stake; He that conceals him, [[Death|death]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--02_exchange_edmond" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (EDMOND) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| EDMOND | When I dissuaded him from his intent And found him pitched to do it, with curst speech I threatened to discover him. He replied, ‘Thou unpossessing bastard, dost thou think If I would stand against thee, would the reposal Of any trust, virtue, or worth in thee Make thy words faithed? No, what I should deny— As this I would, ay, though thou didst produce My very character—I’d turn it all To thy suggestion, plot, and damned practice, And thou must make a dullard of the world If they not thought the profits of my [[Death|death]] Were very pregnant and potential spirits To make thee seek it.’ |
+| [[Gloucester|GLOUCESTER]] | O strange and fastened [[Villain|villain]]! Would he deny his letter, said he? Tucket within |
+| [[Gloucester|GLOUCESTER]] | Hark, the Duke’s trumpets. I know not why he comes. All ports I’ll bar. The [[Villain|villain]] shall not scape. The Duke must grant me that; besides, his picture I will send far and near, that all the kingdom May have due note of him—and of my land, Loyal and natural boy, I’ll work the means To make thee capable. Enter the Duke of Cornwall, [[Regan]], and attendants |
+| CORNWALL | How now, my noble friend? Since I came hither, Which I can call but now, I have heard strange news. |
+| [[Regan|REGAN]] | If it be true, all vengeance comes too short Which can pursue th’offender. How dost, my lord? |
+| [[Gloucester|GLOUCESTER]] | O madam, my old heart is cracked, it’s cracked. |
+| [[Regan|REGAN]] | What, did my father’s godson seek your life? He whom my father named, your [[Edgar]]? |
+| [[Gloucester|GLOUCESTER]] | O lady, lady, shame would have it hid! |
+| [[Regan|REGAN]] | Was he not companion with the riotous knights That tend upon my father? |
+| [[Gloucester|GLOUCESTER]] | I know not, madam. ’Tis too bad, too bad. |
+| EDMOND | Yes, madam, he was of that consort. |
+| [[Regan|REGAN]] | No marvel, then, though he were ill affected. ‘Tis they have put him on the old man’s [[Death|death]], To have th’expense and spoil of his revenues. I have this present evening from my sister Been [[Well|well]] informed of them, and with such cautions That if they come to sojourn at my [[house]] I’ll not be there. |
+| CORNWALL | Nor I, assure thee, [[Regan]]. Edmond, I hear that you have shown your father A childlike office. |
+| EDMOND | It was my duty, sir. [[Gloucester|GLOUCESTER]] (to Cornwall) He did bewray his practice, and received This hurt you see striving to apprehend him. |
+| CORNWALL | Is he pursued? |
+| [[Gloucester|GLOUCESTER]] | Ay, my good lord. |
+| CORNWALL | If he be taken, he shall never more Be feared of doing harm. Make your own purpose How in my strength you please. For you, Edmond, Whose virtue and obedience doth this instant So much commend itself, you shall be ours. Natures of such deep trust we shall much need. You we first seize on. |
+| EDMOND | I shall serve you, sir, Truly, however else. |
+| [[Gloucester|GLOUCESTER]] | (to Cornwall) For him I thank your grace. |
+| CORNWALL | You know not why we came to visit you— |
+| [[Regan|REGAN]] | Thus out of season, threading dark-eyed [[Night|night]]— Occasions, noble [[Gloucester]], of some poise, Wherein we must have use of your advice. Our father he hath writ, so hath our sister, Of differences which I least thought it fit To answer from our [[Home|home]]. The several messengers From hence attend dispatch. Our good old friend, Lay comforts to your bosom, and bestow Your needful counsel to our businesses, Which craves the instant use. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--03_exchange_gloucester_i" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (GLOUCESTER I) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Gloucester|GLOUCESTER]] | I serve you, madam. Your graces are right welcome. Flourish. Exeunt |
+| [[Gloucester|GLOUCESTER]] | 2.2 Enter the Earl of [[Kent]], disguised, and Oswald the steward, severally |
+| OSWALD | Good dawning to thee, friend. Art of this [[house]]? [[Kent|KENT]] Ay. |
+| OSWALD | Where may we set our horses? |
+| [[Kent|KENT]] | I’th’ mire. |
+| OSWALD | Prithee, if thou lov’st me, tell me. 5 [[Kent|KENT]] I [[Love|love]] thee not. |
+| OSWALD | Why then, I care not for thee. |
+| [[Kent|KENT]] | If I had thee in Lipsbury pinfold I would make thee care for me. |
+| OSWALD | Why dost thou use me thus? I know thee not. |
+| [[Kent|KENT]] | Fellow, I know thee. |
+| OSWALD | What dost thou know me for? |
+| [[Kent|KENT]] | A knave, a rascal, an eater of broken meats, a base, proud, shallow, beggarly, three-suited, hundred-pound, filthy worsted-stocking knave; a lily-livered, action-taking, whoreson, glass-gazing, super-serviceable, finical rogue; one-trunk-inheriting slave; one that wouldst be a bawd in way of good service, and art nothing but the composition of a knave, beggar, coward, pander, and the son and heir of a mongrel bitch, one whom I will beat into clamorous whining if thou deniest the least syllable of thy addition. |
+| OSWALD | Why, what a monstrous fellow art thou, thus to rail on one that is neither known of thee nor knows thee! |
+| [[Kent|KENT]] | What a brazen-faced varlet art thou, to deny thou knowest me! Is it two days since I tripped up thy heels and beat thee before the [[King]]? Draw, you rogue; for though it be [[Night|night]], yet the [[Moon|moon]] shines. He draws his [[Sword|sword]] I’ll make a sop o’th’ moonshine of you, you whoreson, cullionly barber-monger, draw! |
+| OSWALD | Away. I have nothing to do with thee. |
+| [[Kent|KENT]] | Draw, you rascal. You come with letters against the [[King]], and take [[Vanity]] the puppet’s part against the royalty of her father. Draw, you rogue, or I’ll so carbonado your shanks—draw, you rascal, come your ways! |
+| OSWALD | Help, ho, murder, help! |
+| [[Kent|KENT]] | Strike, you slave! Stand, rogue! Stand, you neat slave, strike! 40 |
+| OSWALD | Help, ho, murder, murder! Enter Edmond the bastard, then the Duke of |
+| OSWALD | Cornwall, [[Regan]], the [[Duke of Gloucester]], and |
+| OSWALD | servants |
+| EDMOND | How now, what’s the matter? Part. |
+| [[Kent|KENT]] | With you, goodman boy. If you please, come, I’ll flesh ye. Come on, young master. |
+| [[Gloucester|GLOUCESTER]] | Weapons? Arms? What’s the matter here? |
+| CORNWALL | Keep peace, upon your lives. He dies that strikes again. What is the matter? |
+| [[Regan|REGAN]] | The messengers from our sister and the [[King]]. CORNWALL (to [[Kent]] and Oswald) What is your difference? Speak. |
+| OSWALD | I am scarce in breath, my lord. |
+| [[Kent|KENT]] | No marvel, you have so bestirred your valour, you cowardly rascal. [[Nature]] disclaims in thee; a tailor made thee. |
+| CORNWALL | Thou art a strange fellow—a tailor make a man? |
+| [[Kent|KENT]] | A tailor, sir. A stone-cutter or a painter could not have made him so ill though they had been but two years o’th’ trade. |
+| CORNWALL | Speak yet; how grew your quarrel? |
+| OSWALD | This ancient ruffian, sir, whose life I have spared at suit of his grey beard— |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--04_exchange_kent" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (KENT) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Kent|KENT]] | Thou whoreson Z, thou unnecessary letter—(to Cornwall) my lord, if you’ll give me leave I will tread this unbolted [[Villain|villain]] into mortar and daub the wall of a jakes with him. (To Oswald) Spare my grey beard, you wagtail? |
+| CORNWALL | Peace, sirrah. You beastly knave, know you no reverence? |
+| [[Kent|KENT]] | Yes, sir, but anger hath a privilege. |
+| CORNWALL | Why art thou angry? |
+| [[Kent|KENT]] | That such a slave as this should wear a [[Sword|sword]], Who wears no honesty. Such smiling rogues as these, Like rats, oft bite the holy cords a-twain Which are too intrince t’unloose, smooth every passion That in the natures of their lords [[Rebel|rebel]]; Being oil to [[Fire|fire]], [[Snow|snow]] to the colder moods, Renege, affirm, and turn their halcyon beaks With every gall and vary of their masters, Knowing naught, like [[dogs]], but following. To Oswald A plague upon your epileptic visage! Smile you my speeches as I were a [[Fool|fool]]? Goose, an I had you upon Sarum Plain I’d drive ye cackling [[Home|home]] to Camelot. |
+| CORNWALL | What, art thou mad, old fellow? |
+| [[Gloucester|GLOUCESTER]] | to [[Kent]] How fell you out? Say that. |
+| [[Kent|KENT]] | No contraries hold more antipathy Than I and such a knave. |
+| CORNWALL | Why dost thou call him knave? What is his fault? |
+| [[Kent|KENT]] | His countenance likes me not. |
+| CORNWALL | No more perchance does mine, nor his, nor hers. |
+| [[Kent|KENT]] | Sir, ’tis my occupation to be plain: I have seen better faces in my [[Time|time]] Than stands on any shoulder that I see Before me at this instant. |
+| CORNWALL | This is some fellow Who, having been praised for bluntness, doth affect A saucy roughness, and constrains the garb Quite from his [[Nature|nature]]. He cannot flatter, he; An honest mind and plain, he must speak [[Truth|truth]]. An they will take’t, so; if not, he’s plain. These kind of knaves I know, which in this plainness Harbour more craft and more corrupter ends Than twenty silly-ducking observants That stretch their duties nicely. |
+| [[Kent|KENT]] | Sir, in good [[Faith|faith]], in sincere verity, Under th‘allowance of your great aspect, Whose influence, like the wreath of radiant [[Fire|fire]] On flick’ring Phoebus’ front— |
+| CORNWALL | What mean’st by this? |
+| [[Kent|KENT]] | To go out of my dialect, which you discommend so much. I know, sir, I am no flatterer. He that beguiled you in a plain accent was a plain knave, which for my part I will not be, though I should win your displeasure to entreat me to’t. |
+| CORNWALL | (to Oswald) What was th’offence you gave him? |
+| OSWALD | I never gave him any. It pleased the [[King]] his master very late To strike at me upon his misconstruction, When he, compact, and flattering his displeasure, Tripped me behind; being down, insulted, railed, And put upon him such a deal of man That worthied him, got praises of the [[King]] For him attempting who was [[Self|self]]-subdued, And in the fleshment of this dread exploit Drew on me here again. |
+| [[Kent|KENT]] | None of these rogues and cowards But [[Ajax]] is their [[Fool|fool]]. |
+| CORNWALL | Fetch forth the stocks! Exeunt some servants You stubborn, ancient knave, you reverend braggart, We’ll teach you. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--05_exchange_kent" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (KENT) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Kent|KENT]] | Sir, I am too old to learn. Call not your stocks for me. I serve the [[King]], On whose employment I was sent to you. You shall do small respect, show too bold malice Against the grace and person of my master, Stocking his messenger. |
+| CORNWALL | calling Fetch forth the stocks!— As I have life and [[Honour|honour]], there shall he sit till [[Noon|noon]]. |
+| [[Regan|REGAN]] | Till [[Noon|noon]]?—till [[Night|night]], my lord, and all [[Night|night]] too. |
+| [[Kent|KENT]] | Why, madam, if I were your father’s dog You should not use me so. |
+| [[Regan|REGAN]] | Sir, being his knave, I will. Stocks brought out |
+| CORNWALL | This is a fellow of the selfsame colour Our sister speaks of.—Come, bring away the stocks. |
+| [[Gloucester|GLOUCESTER]] | Let me beseech your grace not to do so. The [[King]] his master needs must take it ill That he, so slightly valued in his messenger, Should have him thus restrained. |
+| CORNWALL | I’ll answer that. Theg put [[Kent]] in the stocks |
+| [[Regan|REGAN]] | My sister may receive it much more worse To have her gentlemen abused, assaulted. |
+| CORNWALL | Come, my good lord, away! Exeunt all but [[Gloucester]] and [[Kent]] |
+| [[Gloucester|GLOUCESTER]] | I am sorry for thee, friend. ’Tis the Duke’s pleasure, Whose disposition, all the world [[Well|well]] knows, Will not be rubbed nor stopped. I’ll entreat for thee. |
+| [[Kent|KENT]] | Pray do not, sir. I have watched and travelled hard. Some [[Time|time]] I shall [[Sleep|sleep]] out; the rest I’ll whistle. A good man’s fortune may grow out at heels. Give you good morrow. |
+| [[Gloucester|GLOUCESTER]] | The Duke’s to blame in this; ’twill be ill taken. Exit |
+| [[Kent|KENT]] | Good [[King]], that must approve the common say: Thou out of heaven’s benediction com’st To the warm sun. He takes out a letter Approach, thou beacon to this under globe, That by thy comfortable beams I may Peruse this letter. Nothing almost sees miracles But misery. I know ‘tis from [[Cordelia]], Who hath now fortunately been informed Of my obscured course, and shall find [[Time|time]] For this enormous state, seeking to give Losses their remedies. All weary and o’erwatched, Take vantage, heavy eyes, not to behold This shameful lodging. Fortune, good [[Night|night]]; Smile once more; turn thy [[Wheel|wheel]]. He sleeps Enter [[Edgar]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--06_monologue_edgar" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — monologue (EDGAR) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Edgar|EDGAR]] | I heard myself proclaimed, And by the happy hollow of a tree Escaped the hunt. No port is free, no place That guard and most unusual vigilance Does not attend my taking. Whiles I may scape I will preserve myself, and am bethought To take the basest and most poorest shape That ever penury in contempt of man Brought near to beast. My face I’ll grime with filth, Blanket my loins, elf all my hairs in knots, And with presented [[Nakedness|nakedness]] outface The winds and persecutions of the sky. The country gives me proof and precedent Of Bedlam beggars who with roaring voices Strike in their numbed and mortified arms Pins, wooden pricks, nails, sprigs of rosemary, And with this horrible object from low farms, Poor pelting villages, sheep-cotes and mills Sometime with lunatic bans, sometime with prayers Enforce their [[Charity|charity]]. ‘Poor Tuelygod, Poor Tom.’ That’s something yet. [[Edgar]] I nothing am. Exit Enter [[King Lear]], his [[Fool]], and the First Gentleman |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--07_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (LEAR) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LEAR | ’Tis strange that they should so depart from [[Home|home]] And not send back my messenger. FIRST GENTLEMAN As I learned, The [[Night|night]] before there was no purpose in them Of this remove. |
+| [[Kent|KENT]] | (waking) Hail to thee, noble master. |
+| LEAR | Ha! Mak’st thou this shame thy pastime? |
+| [[Kent|KENT]] | No, my lord. |
+| [[Fool|FOOL]] | Ha, ha, he wears cruel garters! Horses are tied by the heads, [[dogs]] and bears by th’ neck, monkeys by th’ loins, and men by th’ legs. When a man’s overlusty at legs, then he wears wooden nether-stocks. |
+| LEAR | (to [[Kent]]) What’s he that hath so much thy place mistook To set thee here? |
+| [[Kent|KENT]] | It is both he and she: Your son and daughter. |
+| LEAR | By Jupiter, I swear no. |
+| [[Kent|KENT]] | By Juno, I swear ay. |
+| LEAR | They durst not do’t, They could not, would not do’t. ’Tis worse than murder, To do upon respect such violent outrage. Resolve me with all modest haste which way Thou mightst deserve or they impose this usage, Coming from us. |
+| [[Kent|KENT]] | My lord, when at their [[Home|home]] I did commend your highness’ letters to them, Ere I was risen from the place that showed My duty kneeling, came there a reeking post Stewed in his haste, half breathless, painting forth From [[Goneril]], his mistress, salutations, Delivered letters spite of intermission, Which presently they read, on whose contents 210 They summoned up their meiny, straight took [[Horse|horse]], Commanded me to follow and attend The leisure of their answer, gave me cold looks; And meeting here the other messenger, Whose welcome I perceived had poisoned mine— Being the very fellow which of late Displayed so saucily against your highness— Having more man than wit about me, drew. He raised the [[house]] with loud and coward cries. Your son and daughter found this trespass worth The shame which here it suffers. |
+| [[Fool|FOOL]] | [[Winter]]’s not gone yet if the wild geese fly that way. Sings Fathers that wear rags Do make their children blind, But fathers that bear bags Shall see their children kind. Fortune, that arrant whore, Ne’er turns the key to th’ poor. But for all this thou shalt have as many dolours for thy daughters as thou canst tell in a year. |
+| LEAR | O, how this mother swells up toward my heart! Histerica passio down, thou climbing sorrow; Thy element’s below.—Where is this daughter? |
+| [[Kent|KENT]] | With the Earl, sir, here within. |
+| LEAR | Follow me not; stay here. Exit FIRST GENTLEMAN (to [[Kent]]) Made you no more offence but what you speak of? |
+| [[Kent|KENT]] | None. How chance the [[King]] comes with so small a number? |
+| [[Fool|FOOL]] | An thou hadst been set i’th’ stocks for that question, thou’dst [[Well|well]] deserved it. |
+| [[Kent|KENT]] | Why, [[Fool]]? |
+| [[Fool|FOOL]] | We’ll set thee to school to an ant, to teach thee there’s no labouring i’th’ [[Winter|winter]]. All that follow their noses are led by their eyes but blind men, and there’s not a nose among twenty but can smell him that’s stinking. Let go thy hold when a great [[Wheel|wheel]] runs down a [[Hill|hill]], lest it break thy neck with following; but the great one that goes upward, let him draw thee after. When a wise man gives thee better counsel, give me mine again. I would have none but knaves follow it, since a [[Fool|fool]] gives it. Sings That sir which serves and seeks for gain And follows but for form, Will pack when it begin to rain, And leave thee in the [[Storm|storm]]. But I will tarry, the [[Fool|fool]] will stay, And let the wise man fly. The knave turns [[Fool|fool]] that runs away, The [[Fool|fool]] no knave, pardie. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--08_exchange_kent" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (KENT) [8]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Kent|KENT]] | Where learned you this, [[Fool]]? |
+| [[Fool|FOOL]] | Not i’th’ stocks, [[Fool|fool]]. Enter [[King Lear]] and the [[Duke of Gloucester]] |
+| LEAR | Deny to speak with me? They are sick, they are weary, They have travelled all the [[Night|night]]?—mere fetches, The images of revolt and flying off. Fetch me a better answer. |
+| [[Gloucester|GLOUCESTER]] | My dear lord, You know the fiery quality of the Duke, How unremovable and fixed he is In his own course. |
+| LEAR | Vengeance, plague, [[Death|death]], confusion! ‘Fiery’? What ‘quality’? Why, [[Gloucester]], [[Gloucester]], I’d speak with the Duke of Cornwall and his wife. |
+| [[Gloucester|GLOUCESTER]] | [[Well]], my good lord, I have informed them so. |
+| LEAR | ‘Informed them’? Dost thou understand me, man? |
+| [[Gloucester|GLOUCESTER]] | Ay, my good lord. |
+| LEAR | The [[King]] would speak with Cornwall; the dear father Would with his daughter speak, commands, tends service. Are they ‘informed’ of this? My breath and [[Blood|blood]]— ‘Fiery’? The ‘fiery’ Duke—tell the hot Duke that— No, but not yet. Maybe he is not [[Well|well]]. Infirmity doth still neglect all office Whereto our health is bound. We are not ourselves When [[Nature|nature]], being oppressed, commands the mind To suffer with the [[Body|body]]. I’ll forbear, And am fallen out with my more headier will, To take the indisposed and sickly fit For the sound man.—[[Death]] on my state, wherefore Should he sit here? This act persuades me That this remotion of the Duke and her Is practice only. Give me my servant forth. Go tell the Duke and’s wife I’d speak with them, Now, presently. Bid them come forth and hear me, Or at their chamber door I’ll beat the drum Till it cry [[Sleep|sleep]] to [[Death|death]]. |
+| [[Gloucester|GLOUCESTER]] | I would have all [[Well|well]] betwixt you. Exit |
+| LEAR | O me, my heart! My rising heart! But down. |
+| [[Fool|FOOL]] | Cry to it, nuncle, as the cockney did to the eels when she put ‘em i’th’ paste alive. She knapped ‘em o’th’ coxcombs with a stick, and cried ‘Down, wantons, down!’ ’Twas her brother that, in pure kindness to his [[Horse|horse]], buttered his hay. Enter the Duke of Cornwall, [[Regan]], the [[Duke of Gloucester]], and servants |
+| LEAR | Good morrow to you both. |
+| CORNWALL | Hail to your grace. [[Kent]] here set at liberty |
+| [[Regan|REGAN]] | I am glad to see your highness. |
+| LEAR | [[Regan]], I think you are. I know what reason I have to think so. If thou shouldst not be glad I would [[divorce]] me from thy mother’s shrine, Sepulchring an adultress. (To [[Kent]]) O, are you free? Some other [[Time|time]] for that. Exit [[Kent]] Beloved [[Regan]], Thy sister’s naught. O, [[Regan]], she hath tied Sharp-toothed unkindness like a vulture here. I can scarce speak to thee. Thou’lt not believe With how depraved a quality-O, [[Regan]]! |
+| [[Regan|REGAN]] | I pray you, sir, take patience. I have [[Hope|hope]] You less know how to value her [[Desert|desert]] Than she to scant her duty. |
+| LEAR | Say, how is that? |
+| [[Regan|REGAN]] | I cannot think my sister in the least Would fail her obligation. If, sir, perchance She have restrained the riots of your followers, ’Tis on such ground and to such wholesome end As clears her from all blame. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--09_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (LEAR) [9]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LEAR | My curses on her. |
+| [[Regan|REGAN]] | O sir, you are old. [[Nature]] in you stands on the very verge Of his confine. You should be ruled and led By some discretion that discerns your state Better than you yourself. Therefore I pray you That to our sister you do make return; Say you have wronged her. |
+| LEAR | Ask her [[Forgiveness|forgiveness]]? Do you but mark how this becomes the [[house]]? Kneehng ‘Dear daughter, I confess that I am old. Age is unnecessary. On my knees I beg That you’ll vouchsafe me raiment, bed, and food.’ |
+| [[Regan|REGAN]] | Good sir, no more. These are unsightly tricks. Return you to my sister. |
+| LEAR | rising Never, [[Regan]]. She hath abated me of half my train, Looked black upon me, struck me with her tongue Most serpent-like upon the very heart. All the stored vengeances of heaven fall On her ingrateful top! Strike her young bones, You taking airs, with lameness! |
+| CORNWALL | Fie, sir, fie. |
+| LEAR | You nimble lightnings, dart your blinding flames Into her scornful eyes. Infect her [[Beauty|beauty]], You fen-sucked fogs drawn by the pow’rful sun To fall and blister. |
+| [[Regan|REGAN]] | O, the blest gods! So will you wish on me when the rash mood is on. |
+| LEAR | No, [[Regan]]. Thou shalt never have my curse. Thy tender-hafted [[Nature|nature]] shall not give Thee o‘er to harshness. Her eyes are fierce, but thine Do comfort and not burn. ’Tis not in thee To grudge my pleasures, to cut off my train, To bandy hasty words, to scant my sizes, And, in conclusion, to oppose the bolt Against my coming in. Thou better know‘st The offices of [[Nature|nature]], bond of [[Childhood|childhood]], Effects of courtesy, dues of gratitude. Thy half o’th’ kingdom hast thou not forgot, Wherein I thee endowed. |
+| [[Regan|REGAN]] | Good sir, to th’ purpose. |
+| LEAR | Who put my man i’th’ stocks? Tucket within |
+| CORNWALL | What trumpet’s that? Enter Oswald the steward |
+| [[Regan|REGAN]] | I know’t, my sister’s. This approves her letter That she would soon be here. (To Oswald) Is your lady come? |
+| LEAR | This is a slave whose easy-borrowed [[Pride|pride]] Dwells in the sickly grace of her a follows. (To Oswald) Out, varlet, from my sight! |
+| CORNWALL | What means your grace? Enter [[Goneril]] |
+| LEAR | Who stocked my servant? [[Regan]], I have good [[Hope|hope]] Thou didst not know on’t. Who comes here? O heavens, If you do [[Love|love]] old men, if your sweet sway Allow obedience, if you yourselves are old, Make it your cause! Send down and take my part. (To [[Goneril]]) Art not ashamed to look upon this beard? O [[Regan]], will you take her by the hand? |
+| [[Goneril|GONERIL]] | Why not by th’ hand, sir? How have I offended? All’s not offence that indiscretion finds And dotage terms so. |
+| LEAR | O sides, you are too tough! Will you yet hold?—How came my man i’th’ stocks? |
+| CORNWALL | I set him there, sir; but his own disorders Deserved much less advancement. |
+| LEAR | You? Did you? |
+| [[Regan|REGAN]] | I pray you, father, being weak, seem so. If till the expiration of your month You will return and sojourn with my sister, Dismissing half your train, come then to me. I am now from [[Home|home]], and out of that provision Which shall be needful for your entertainment. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--10_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (LEAR) [10]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LEAR | Return to her, and fifty men dismissed? No, rather I abjure all roofs, and choose To be a comrade with the wolf and owl, To wage against the enmity o’th’ air Necessity’s sharp pinch. Return with her? Why, the hot-blooded France, that dowerless took Our youngest born—I could as [[Well|well]] be brought To knee his throne and, squire-like, pension beg To keep base life afoot. Return with her? Persuade me rather to be slave and sumpter To this detested groom. |
+| [[Goneril|GONERIL]] | At your choice, sir. |
+| LEAR | I prithee, daughter, do not make me mad. I will not trouble thee, my [[Child|child]]. Farewell. We’ll no more meet, no more see one another. But yet thou art my flesh, my [[Blood|blood]], my daughter— Or rather a disease that’s in my flesh, Which I must needs call mine. Thou art a boil, A plague-sore or embossed carbuncle In my corrupted [[Blood|blood]]. But I’ll not chide thee. Let shame come when it will, I do not call it. I do not bid the thunder-bearer shoot, Nor tell tales of thee to high-judging Jove. Mend when thou canst; be better at thy leisure. I can be patient, I can stay with [[Regan]], I and my hundred knights. |
+| [[Regan|REGAN]] | Not altogether so. I looked not for you yet, nor am provided For your fit welcome. Give ear, sir, to my sister; For those that mingle reason with your passion Must be content to think you old, and so— But she knows what she does. |
+| LEAR | Is this [[Well|well]] spoken? |
+| [[Regan|REGAN]] | I dare avouch it, sir. What, fifty followers? Is it not [[Well|well]]? What should you need of more, Yea, or so many, sith that both charge and danger Speak ‘gainst so great a number? How in one [[house]] Should many people under two commands Hold amity? ’Tis hard, almost impossible. |
+| [[Goneril|GONERIL]] | Why might not you, my lord, receive attendance From those that she calls servants, or from mine? |
+| [[Regan|REGAN]] | Why not, my lord? If then they chanced to slack ye, We could control them. If you will come to me— For now I spy a danger—I entreat you To bring but five-and-twenty; to no more Will I give place or notice. |
+| LEAR | I gave you all. |
+| [[Regan|REGAN]] | And in good [[Time|time]] you gave it. |
+| LEAR | Made you my guardians, my depositaries, But kept a reservation to be followed With such a number. What, must I come to you With five-and-twenty? [[Regan]], said you so? |
+| [[Regan|REGAN]] | And speak’t again, my lord. No more with me. |
+| LEAR | Those wicked creatures yet do look [[Well|well]] favoured When others are more wicked. Not being the worst Stands in some rank of praise. (To [[Goneril]]) I’ll go with thee. Thy fifty yet doth [[Double|double]] five-and-twenty, And thou art twice her [[Love|love]]. |
+| [[Goneril|GONERIL]] | Hear me, my lord. What need you five-and-twenty, ten, or five, To follow in a [[house]] where twice so many Have a command to tend you? |
+| [[Regan|REGAN]] | What need one? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--11_monologue_lear" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — monologue (LEAR) [11]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LEAR | O, reason not the need! Our basest beggars Are in the poorest thing superfluous. Allow not [[Nature|nature]] more than [[Nature|nature]] needs, Man’s life is cheap as beast’s. Thou art a lady. If only to go warm were gorgeous, Why, [[Nature|nature]] needs not what thou, gorgeous, wear’st, Which scarcely keeps thee warm. But for true need— You heavens, give me that patience, patience I need. You see me here, you gods, a poor old man, As full of grief as age, wretched in both. If it be you that stirs these daughters’ hearts Against their father, [[Fool|fool]] me not so much To bear it tamely. Touch me with noble anger, And let not women’s weapons, [[Water|water]]-drops, Stain my man’s cheeks. No, you unnatural hags, I will have such revenges on you both That all the world shall—I will do such things— What they are, yet I know not; but they shall be The terrors of the earth. You think I’ll weep. No, I’ll not weep. I have full cause of weeping, [[Storm]] and tempest But this heart shall break into a hundred thousand flaws Or ere I’ll weep.—O [[Fool]], I shall go mad! Exeunt Lear, [[Fool]], Gentleman, and [[Gloucester]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--12_exchange_cornwall" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (CORNWALL) [12]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| CORNWALL | Let us withdraw. ’Twill be a [[Storm|storm]]. |
+| [[Regan|REGAN]] | This [[house]] is little. The old man and ’s people Cannot be [[Well|well]] bestowed. |
+| [[Goneril|GONERIL]] | ’Tis his own blame; Hath put himself from rest, and must needs taste his folly. |
+| [[Regan|REGAN]] | For his particular I’ll receive him gladly, But not one follower. |
+| [[Goneril|GONERIL]] | So am I purposed. Where is my lord of [[Gloucester]]? |
+| CORNWALL | Followed the old man forth. Enter the [[Duke of Gloucester]] He is returned. |
+| [[Gloucester|GLOUCESTER]] | The [[King]] is in high rage. |
+| CORNWALL | Whither is he going? |
+| [[Gloucester|GLOUCESTER]] | He calls to [[Horse|horse]], but will I know not whither. |
+| CORNWALL | ’Tis best to give him way. He leads himself. |
+| [[Goneril|GONERIL]] | (to [[Gloucester]]) My lord, entreat him by no means to stay. |
+| [[Gloucester|GLOUCESTER]] | Alack, the [[Night|night]] comes on, and the high winds Do sorely ruffle. For many miles about There’s scarce a bush. |
+| [[Regan|REGAN]] | O sir, to wilful men The injuries that they themselves procure Must be their schoolmasters. Shut up your doors. He is attended with a desperate train, And what they may incense him to, being apt To have his ear abused, wisdom bids [[Fear|fear]]. |
+| CORNWALL | Shut up your doors, my lord. ‘Tis a wild [[Night|night]]. My [[Regan]] counsels [[Well|well]]. Come out o’th’ [[Storm|storm]]. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[King Lear]], the Earl of [[Kent]] disguised, and Lear’s [[Fool]] |
+| [[Kent|KENT]] | Here is the place, my lord. Good my lord, enter. The tyranny of the open [[Night|night]]’s too rough For [[Nature|nature]] to endure. [[Storm]] still |
+| LEAR | Let me [[Alone|alone]]. |
+| [[Kent|KENT]] | Good my lord, enter here. |
+| LEAR | Wilt break my heart? |
+| [[Kent|KENT]] | I had rather break mine own. Good my lord, enter. |
+| LEAR | Thou think‘st ’tis much that this contentious [[Storm|storm]] Invades us to the skin. So ‘tis to thee; But where the greater malady is fixed, The lesser is scarce felt. Thou’dst shun a bear, But if thy flight lay toward the roaring sea Thou‘dst meet the bear i’th’ mouth. When the mind’s free, The [[Body|body]]’s delicate. This tempest in my mind Doth from my senses take all feeling else Save what beats there: filial ingratitude. Is it not as this mouth should tear this hand For lifting food to’t? But I will punish [[Home|home]]. No, I will weep no more.—In such a [[Night|night]] To shut me out? Pour on, I will endure. In such a [[Night|night]] as this! O [[Regan]], [[Goneril]], Your old kind father, whose frank heart gave all— O, that way [[Madness|madness]] lies. Let me shun that. No more of that. |
+| [[Kent|KENT]] | Good my lord, enter here. |
+| LEAR | Prithee, go in thyself. Seek thine own ease. This tempest will not give me leave to ponder On things would hurt me more; but I’ll go in. (To [[Fool]]) In, boy; go first. Kneeling You houseless [[Poverty|poverty]]— Nay, get thee in. I’ll pray, and then I’ll [[Sleep|sleep]]. Exit [[Fool]] Poor naked wretches, wheresoe‘er you are, That bide the pelting of this pitiless [[Storm|storm]], How shall your houseless heads and unfed sides, Your looped and windowed raggedness, defend you From [[Seasons|seasons]] such as these? O, I have ta’en Too little care of this. Take physic, pomp, Expose thyself to feel what wretches feel, That thou mayst shake the superflux to them And show the heavens more just. Enter Lear’s [[Fool]], and [[Edgar]] as a Bedlam beggar in the hovel |
+| [[Edgar|EDGAR]] | Fathom and half! Fathom and half! Poor Tom! |
+| [[Fool|FOOL]] | Come not in here, nuncle. Here’s a spirit. Help me, help me! |
+| [[Kent|KENT]] | Give me thy hand. Who’s there? [[Fool|FOOL]] A spirit, a spirit. He says his name’s Poor Tom. |
+| [[Kent|KENT]] | What art thou that dost grumble there i’th’ straw? Come forth. [[Edgar]] comes forth |
+| [[Edgar|EDGAR]] | Away, the foul fiend follows me. Thorough the sharp hawthorn blow the winds. Hm! Go to thy cold bed and warm thee. |
+| LEAR | Didst thou give all to thy two daughters, And art thou come to this? |
+| [[Edgar|EDGAR]] | Who gives anything to Poor Tom, whom the foul fiend hath led through [[Fire|fire]] and through flame, through ford and whirlpool, o’er bog and quagmire; that hath laid knives under his pillow and halters in his pew, set ratsbane by his porridge, made him proud of heart to ride on a bay trotting-[[Horse|horse]] over four-inched bridges, to course his own [[Shadow|shadow]] for a traitor. Bless thy five wits, Tom’s a-cold! O, do, de, do, de, do de. Bless thee from whirlwinds, star-blasting, and taking. Do Poor Tom some [[Charity|charity]], whom the foul fiend vexes. There could I have him now, and there, and there again, and there. [[Storm]] still |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--02_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 4 — exchange (LEAR) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LEAR | Has his daughters brought him to this pass? (To [[Edgar]]) Couldst thou save nothing? Wouldst thou give ’em all? |
+| [[Fool|FOOL]] | Nay, he reserved a blanket, else we had been all shamed. |
+| LEAR | (to [[Edgar]]) Now all the plagues that in the pendulous air Hang fated o’er men’s faults light on thy daughters! |
+| [[Kent|KENT]] | He hath no daughters, sir. |
+| LEAR | [[Death]], traitor! Nothing could have subdued [[Nature|nature]] To such a lowness but his unkind daughters. (To [[Edgar]]) Is it the fashion that discarded fathers Should have thus little [[Mercy|mercy]] on their flesh? Judicious punishment: ’twas this flesh begot Those pelican daughters. |
+| [[Edgar|EDGAR]] | Pillicock sat on Pillicock [[Hill]]; alow, alow, loo, loo. |
+| [[Fool|FOOL]] | This cold [[Night|night]] will turn us all to fools and madmen. |
+| [[Edgar|EDGAR]] | Take heed o’th’ foul fiend; obey thy parents; keep thy words’ justice; swear not; commit not with man’s sworn spouse; set not thy sweet heart on proud array. Tom’s a-cold. |
+| LEAR | What hast thou been? |
+| [[Edgar|EDGAR]] | A servingman, proud in heart and mind, that curled my hair, wore gloves in my cap, served the lust of my mistress’ heart, and did the act of darkness with her; swore as many oaths as I spake words, and broke them in the sweet face of heaven; one that slept in the contriving of lust, and waked to do it. Wine loved I deeply, dice dearly, and in woman out-paramoured the Turk. False of heart, light of ear, bloody of hand; hog in sloth, fox in stealth, wolf in greediness, dog in [[Madness|madness]], [[Lion|lion]] in prey. Let not the creaking of shoes nor the rustling of silks betray thy poor heart to woman. Keep thy foot out of brothels, thy hand out of plackets, thy pen from lenders’ books, and defy the foul fiend. Still through the hawthorn blows the cold [[Wind|wind]], says suum, mun, nonny. [[Dauphin]], my boy! Boy, cessez; let him trot by. [[Storm]] still |
+| LEAR | Thou wert better in a [[Grave|grave]] than to answer with thy uncovered [[Body|body]] this extremity of the skies. Is man no. more than this? Consider him [[Well|well]]. Thou owest the worm no silk, the beast no hide, the sheep no wool, the cat no perfume. Ha, here’s three on ’s are sophisticated; thou art the thing itself. Unaccommodated man is no more but such a poor, bare, forked animal as thou art. Off, off, you lendings! Come, unbutton here. Enter the [[Duke of Gloucester]] with a torch |
+| [[Fool|FOOL]] | Prithee, nuncle, be contented. ’Tis a naughty [[Night|night]] to swim in. Now a little [[Fire|fire]] in a wild field were like an old lecher’s heart—a small spark, all the rest on ’s [[Body|body]] cold. Look, here comes a walking [[Fire|fire]]. |
+| [[Edgar|EDGAR]] | This is the foul fiend Flibbertigibbet. He begins at curfew and walks till the first cock. He gives the web and the pin, squints the eye, and makes the harelip; mildews the white wheat, and hurts the poor creature of earth. Sings Swithin footed thrice the wold, A met the [[Night|night]] mare and her nine foal, Bid her alight And her troth plight, And aroint thee, [[Witch|witch]], aroint thee! |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--03_exchange_kent" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 4 — exchange (KENT) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Kent|KENT]] | (to Lear) How fares your grace? |
+| LEAR | What’s he? |
+| [[Kent|KENT]] | (to [[Gloucester]]) Who’s there? What is’t you seek? |
+| [[Gloucester|GLOUCESTER]] | What are you there? Your names? |
+| [[Edgar|EDGAR]] | Poor Tom, that eats the swimming frog, the toad, the tadpole, the wall-newt and the [[Water|water]]; that in the fury of his heart, when the foul fiend rages, eats cowdung for salads, swallows the old rat and the ditch-dog, drinks the green mantle of the standing pool; who is whipped from tithing to tithing, and stocked, punished, and imprisoned; who hath had three suits to his back, six shirts to his [[Body|body]], [[Horse]] to ride, and weapon to wear; But mice and rats and such small deer Have been Tom’s food for seven long year. Beware my follower. Peace, Smulkin; peace, thou fiend! |
+| [[Gloucester|GLOUCESTER]] | (to Lear) What, hath your grace no better company? |
+| [[Edgar|EDGAR]] | The Prince of Darkness is a gentleman. Modo he’s called, and Mahu. |
+| [[Gloucester|GLOUCESTER]] | (to Lear) Our flesh and [[Blood|blood]], my lord, is grown so vile That it doth hate what gets it. |
+| [[Edgar|EDGAR]] | Poor Tom’s a-cold. |
+| [[Gloucester|GLOUCESTER]] | (to Lear) Go in with me. My duty cannot suffer T’obey in all your daughters’ hard commands. Though their injunction be to bar my doors And let this tyrannous [[Night|night]] take hold upon you, Yet have I ventured to come seek you out And bring you where both [[Fire|fire]] and food is ready. |
+| LEAR | First let me talk with this philosopher. (To [[Edgar]]) What is the cause of thunder? |
+| [[Kent|KENT]] | Good my lord, take his offer; go into th’ [[house]]. |
+| LEAR | I’ll talk a word with this same learned Theban. (To [[Edgar]]) What is your study? |
+| [[Edgar|EDGAR]] | How to prevent the fiend, and to kill vermin. |
+| LEAR | Let me ask you one word in private. They converse apart |
+| [[Kent|KENT]] | (to [[Gloucester]]) Importune him once more to go, my lord. His wits begin t’unsettle. |
+| [[Gloucester|GLOUCESTER]] | Canst thou blame him? [[Storm]] still His daughters seek his [[Death|death]]. Ah, that good [[Kent]], He said it would be thus, poor banished man! Thou sayst the [[King]] grows mad; I’ll tell thee, friend, I am almost mad myself. I had a son, Now outlawed from my [[Blood|blood]]; a sought my life But lately, very late. I loved him, friend; No father his son dearer. True to tell thee, The grief hath crazed my wits. What a [[Night|night]]’s this! (To Lear) I do beseech your grace— |
+| LEAR | O, cry you [[Mercy|mercy]], sir! (To [[Edgar]]) Noble philosopher, your company. |
+| [[Edgar|EDGAR]] | Tom’s a-cold. |
+| [[Gloucester|GLOUCESTER]] | In, fellow, there in t’hovel; keep thee warm. |
+| LEAR | Come, let’s in all. |
+| [[Kent|KENT]] | This way, my lord. |
+| LEAR | With him! I will keep still with my philosopher. |
+| [[Kent|KENT]] | (to [[Gloucester]]) Good my lord, soothe him; let him take the fellow. |
+| [[Gloucester|GLOUCESTER]] | Take him you on. |
+| [[Kent|KENT]] | to [[Edgar]] Sirrah, come on. Go along with us. |
+| LEAR | (to [[Edgar]]) Come, good Athenian. |
+| [[Gloucester|GLOUCESTER]] | No words, no words. Hush. |
+| [[Edgar|EDGAR]] | [[Child]] Roland to the dark tower came, His word was still ‘Fie, fo, and fum; I smell the [[Blood|blood]] of a British man.’ Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Edgar]] disguised as a peasant, with a staff, guiding the blind [[Duke of Gloucester]] |
+| [[Gloucester|GLOUCESTER]] | When shall I come to th’ top of that same [[Hill|hill]]? |
+| [[Edgar|EDGAR]] | You do climb up it now. Look how we labour. |
+| [[Gloucester|GLOUCESTER]] | Methinks the ground is even. |
+| [[Edgar|EDGAR]] | Horrible steep. Hark, do you hear the sea? |
+| [[Gloucester|GLOUCESTER]] | No, truly. |
+| [[Edgar|EDGAR]] | Why, then your other senses grow imperfect By your eyes’ anguish. |
+| [[Gloucester|GLOUCESTER]] | So may it be indeed. Methinks thy voice is altered, and thou speak’st In better phrase and matter than thou didst. |
+| [[Edgar|EDGAR]] | You’re much deceived. In nothing am I changed But in my garments. |
+| [[Gloucester|GLOUCESTER]] | Methinks you’re better spoken. |
+| [[Edgar|EDGAR]] | Come on, sir, here’s the place. Stand still. How fearful And dizzy ‘tis to cast one’s eyes so low! The crows and choughs that wing the midway air Show scarce so gross as beetles. Halfway down Hangs one that gathers samphire, dreadful trade! Methinks he seems no bigger than his head. The fishermen that walk upon the beach Appear like mice, and yon tall anchoring barque Diminished to her cock, her cock a buoy Almost too small for sight. The murmuring surge That on th’unnumbered idle pebble chafes Cannot be heard so high. I’ll look no more, Lest my brain turn and the deficient sight Topple down headlong. |
+| [[Gloucester|GLOUCESTER]] | Set me where you stand. |
+| [[Edgar|EDGAR]] | Give me your hand. You are now within a foot Of th’extreme verge. For all beneath the [[Moon|moon]] Would I not leap upright. |
+| [[Gloucester|GLOUCESTER]] | Let go my hand. Here, friend, ’s another purse; in it a [[Jewel|jewel]] [[Well]] worth a poor man’s taking. Fairies and gods Prosper it with thee! Go thou further off. Bid me farewell, and let me hear thee going. |
+| [[Edgar|EDGAR]] | Now fare ye [[Well|well]], good sir. He stands aside |
+| [[Gloucester|GLOUCESTER]] | With all my heart. |
+| [[Edgar|EDGAR]] | (aside) Why I do trifle thus with his [[Despair|despair]] Is done to cure it. |
+| [[Gloucester|GLOUCESTER]] | (keeling) O you mighty gods, This world I do renounce, and in your sights Shake patiently my great affliction off! If I could bear it longer, and not fall To quarrel with your great opposeless wills, My snuff and loathed part of [[Nature|nature]] should Burn itself out. If [[Edgar]] live, O bless him!— Now, fellow, fare thee [[Well|well]]. |
+| [[Edgar|EDGAR]] | Gone, sir. Farewell. [[Gloucester]] falls forward (Aside) And yet I know not how conceit may rob The treasury of life, when life itself Yields to the theft. Had he been where he thought, By this had thought been past.—Alive or dead? (To [[Gloucester]]) Ho, you, sir, friend; hear you, sir? Speak. (Aside) Thus might he pass indeed. Yet he revives. (To [[Gloucester]]) What are you, sir? |
+| [[Gloucester|GLOUCESTER]] | Away, and let me die. |
+| [[Edgar|EDGAR]] | Hadst thou been aught but gossamer, feathers, air, So many fathom down precipitating Thou‘dst shivered like an egg. But thou dost breathe, Hast heavy substance, bleed’st not, speak’st, art sound. Ten masts a-length make not the altitude Which thou hast perpendicularly fell. Thy life’s a miracle. Speak yet again. |
+| [[Gloucester|GLOUCESTER]] | But have I fall’n, or no? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--02_exchange_edgar" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (EDGAR) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Edgar|EDGAR]] | From the dread summit of this chalky bourn. Look up a-height. The shrill-gorged lark so far Cannot be seen or heard. Do but look up. |
+| [[Gloucester|GLOUCESTER]] | Alack, I have no eyes. Is wretchedness deprived that benefit To end itself by [[Death|death]]? ’Twas yet some comfort When misery could beguile the [[Tyrant|tyrant]]’s rage And frustrate his proud will. |
+| [[Edgar|EDGAR]] | Give me your arm. Up, so. How is’t? Feel you your legs? You stand. |
+| [[Gloucester|GLOUCESTER]] | Too [[Well|well]], too [[Well|well]]. |
+| [[Edgar|EDGAR]] | This is above all strangeness. Upon the [[Crown|crown]] o’th’ cliff what thing was that Which parted from you? |
+| [[Gloucester|GLOUCESTER]] | A poor unfortunate beggar. |
+| [[Edgar|EDGAR]] | As I stood here below, methoughts his eyes Were two full moons. He had a thousand noses, Horns whelked and waved like the enraged sea. It was some fiend. Therefore, thou happy father, Think that the clearest gods, who make them honours Of men’s impossibilities, have preserved thee. |
+| [[Gloucester|GLOUCESTER]] | I do remember now. Henceforth I’ll bear Affliction till it do cry out itself ‘Enough, enough,’ and die. That thing you speak of, I took it for a man. Often ‘twould say ‘The fiend, the fiend!’ He led me to that place. |
+| [[Edgar|EDGAR]] | Bear free and patient thoughts. Enter [[King Lear]] mad, crowned with weeds and [[Flowers|flowers]] But who comes here? The safer sense will ne’er accommodate His master thus. |
+| LEAR | No, they cannot touch me for crying. I am the [[King]] himself. |
+| [[Edgar|EDGAR]] | O thou side-piercing sight! |
+| LEAR | [[Nature]]’s above art in that respect. There’s your press-money. That fellow handles his bow like a crow-keeper. Draw me a clothier’s yard. Look, look, a mouse! Peace, peace, this piece of toasted [[cheese]] will do’t. There’s my gauntlet. I’ll prove it on a giant. Bring up the brown bills. O, [[Well|well]] flown, bird, i‘th’ clout, i’th’ clout! Whew! Give the word. |
+| [[Edgar|EDGAR]] | Sweet marjoram. |
+| LEAR | Pass. |
+| [[Gloucester|GLOUCESTER]] | I know that voice. |
+| LEAR | Ha! [[Goneril]] with a white beard? They flattered me like a dog, and told me I had the white hairs in my beard ere the black ones were there. To say ‘ay’ and ‘no’ to everything that I said ‘ay’ and ‘no’ to was no good divinity. When the rain came to wet me once, and the [[Wind|wind]] to make me chatter; when the thunder would not peace at my bidding, there I found ‘em, there I smelt ’em out. Go to, they are not men o’ their words. They told me I was everything; ’tis a lie, I am not ague-proof. |
+| [[Gloucester|GLOUCESTER]] | The trick of that voice I do [[Well|well]] remember. Is’t not the [[King]]? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--03_monologue_lear" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — monologue (LEAR) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LEAR | Ay, every inch a [[King|king]]. [[Gloucester]] kneels When I do stare, see how the subject quakes! I pardon that man’s life. What was thy cause? Adultery? Thou shalt not die. Die for adultery! No, the wren goes to‘t, and the small gilded fly Does lecher in my sight. Let copulation thrive, For [[Gloucester]]’s bastard son Was kinder to his father than my daughters Got ’tween the lawful sheets. To‘t, luxury, pell-mell, For I lack soldiers. Behold yon simp’ring dame, Whose face between her forks presages [[Snow|snow]], That minces virtue, and does shake the head To hear of pleasure’s name. The fitchew nor the soilèd [[Horse|horse]] goes to’t With a more riotous appetite. Down from the waist They’re centaurs, though women all above. But to the girdle do the gods inherit; Beneath is all the fiend’s. There’s hell, there’s darkness, there is the sulphurous pit, burning, scalding, stench, consumption. Fie, fie, fie; pah, pah! Give me an ounce of civet, good apothecary, sweeten my [[Imagination|imagination]]. There’s money for thee. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--04_exchange_gloucester" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (GLOUCESTER) [4]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Gloucester|GLOUCESTER]] | O, let me kiss that hand! |
+| LEAR | Let me wipe it first; it smells of [[Mortality|mortality]]. |
+| [[Gloucester|GLOUCESTER]] | O ruined piece of [[Nature|nature]]! This great world Shall so wear out to naught. Dost thou know me? |
+| LEAR | I remember thine eyes [[Well|well]] enough. Dost thou squiny at me? No, do thy worst, blind Cupid, I’ll not [[Love|love]]. Read thou this challenge. Mark but the penning of it. |
+| [[Gloucester|GLOUCESTER]] | Were all thy letters suns, I could not see. |
+| [[Edgar|EDGAR]] | (aside) I would not take this from report; it is, And my heart breaks at it. |
+| LEAR | (to [[Gloucester]]) Read. |
+| [[Gloucester|GLOUCESTER]] | What—with the case of eyes? |
+| LEAR | O ho, are you there with me? No eyes in your head, nor no money in your purse? Your eyes are in a heavy case, your purse in a light; yet you see how this world goes. |
+| [[Gloucester|GLOUCESTER]] | I see it feelingly. |
+| LEAR | What, art mad? A man may see how this world goes with no eyes; look with thine ears. See how yon justice rails upon yon simple thief. Hark in thine ear: change places, and handy-dandy, which is the justice, which is the thief? Thou hast seen a farmer’s dog bark at a beggar? |
+| [[Gloucester|GLOUCESTER]] | Ay, sir. |
+| LEAR | An the creature run from the cur, there thou mightst behold the great image of authority. A dog’s obeyed in office. Thou rascal beadle, hold thy bloody hand. Why dost thou lash that whore? Strip thy own back. Thou hotly lusts to use her in that kind For which thou whip‘st her. The usurer hangs the cozener. Through tattered clothes great vices do appear; Robes and furred gowns hide all. Plate sin with gold, And the strong lance of justice hurtless breaks; Arm it in rags, a pygmy’s straw does pierce it. None does offend, none, I say none. I’ll able ’em. Take that of me, my friend, who have the power To seal th’accuser’s lips. Get thee glass eyes, And, like a scurvy politician, seem To see the things thou dost not. Now, now, now, now! Pull off my boots. Harder, harder! So. |
+| [[Edgar|EDGAR]] | (aside) O, matter and impertinency mixed—170 Reason in [[Madness|madness]]! |
+| LEAR | If thou wilt weep my fortunes, take my eyes. I know thee [[Well|well]] enough: thy name is [[Gloucester]]. Thou must be patient. We came crying hither. Thou know’st the first [[Time|time]] that we smell the air We waul and cry. I will preach to thee. Mark. |
+| [[Gloucester|GLOUCESTER]] | Alack, alack the day! |
+| LEAR | removing his [[Crown|crown]] of weeds When we are born, we cry that we are come To this great stage of fools. This’ a good block. It were a delicate stratagem to shoe 180 A troop of [[Horse|horse]] with felt. I’ll put’t in proof, And when I have stol’n upon these son-in-laws, Then kill, kill, kill, kill, kill, kill! Enter two Gentlemen FIRSTGENTLEMAN O, here he is. Lay hand upon him. To LearSir, Your most dear daughter— |
+| LEAR | No rescue? What, a prisoner? I am even The natural [[Fool|fool]] of fortune. Use me [[Well|well]]. You shall have ransom. Let me have surgeons; I am cut to th’ brains. FIRSTGENTLEMAN You shall have anything. |
+| LEAR | No seconds? All myself? Why, this would make a man a man of salt, To use his eyes for [[Garden|garden]] [[Water|water]]-pots. I will die bravely, like a smug bridegroom. What, I will be jovial. Come, come, I am a [[King|king]]. Masters, know you that? FIRSTGENTLEMAN You are a royal one, and we obey you. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--05_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (LEAR) [5]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LEAR | Then there’s life in’t. Come, an you get it, you shall get it by running. Sa, sa, sa, sa! Exit running pursued by a Gentleman FIRSTGENTLEMAN A sight most pitiful in the meanest wretch, Past speaking in a [[King|king]]. Thou hast a daughter Who redeems [[Nature|nature]] from the general curse Which twain have brought her to. |
+| [[Edgar|EDGAR]] | Hail, gentle sir. FIRSTGENTLEMAN Sir, [[Speed|speed]] you. What’s your will? |
+| [[Edgar|EDGAR]] | Do you hear aught, sir, of a battle toward? FIRST+GENTLEMAN Most sure and vulgar, everyone hears that That can distinguish sound. |
+| [[Edgar|EDGAR]] | But, by your favour, How near’s the other army? FIRST GENTLEMAN, Near and on speedy foot. The main descry Stands in the hourly thought. |
+| [[Edgar|EDGAR]] | I thank you, sir. That’s all. FIRSTGENTLEMAN Though that the [[Queen]] on special cause is here, Her army is moved on. |
+| [[Edgar|EDGAR]] | I thank you, sir. Exit Gentleman |
+| [[Gloucester|GLOUCESTER]] | You ever gentle gods, take my breath from me. Let not my worser spirit tempt me again To die before you please. |
+| [[Edgar|EDGAR]] | [[Well]] pray you, father. |
+| [[Gloucester|GLOUCESTER]] | Now, good sir, what are you? |
+| [[Edgar|EDGAR]] | A most poor man, made tame to fortune’s blows, Who by the art of known and feeling sorrows Am pregnant to good pity. Give me your hand, I’ll lead you to some biding. |
+| [[Gloucester|GLOUCESTER]] | rising Hearty thanks. The bounty and the benison of heaven To boot and boot. Enter Oswald the steward |
+| OSWALD | A proclaimed prize! Most happy! That eyeless head of thine was first framed flesh To raise my fortunes. Thou old unhappy traitor, Briefly thyself remember. The [[Sword|sword]] is out That must destroy thee. |
+| [[Gloucester|GLOUCESTER]] | Now let thy friendly hand Put strength enough to’t. |
+| OSWALD | (to [[Edgar]]) Wherefore, bold peasant, Durst thou support a published traitor? Hence, Lest that th’infection of his fortune take Like hold on thee. Let go his arm. |
+| [[Edgar|EDGAR]] | ‘Chill not let go, sir, without vurther ’cagion. |
+| OSWALD | Let go, slave, or thou diest. |
+| [[Edgar|EDGAR]] | Good gentleman, go your gate, and let poor volk pass. An ‘chud ha’ been swaggered out of my life, ’twould not ha’ been so long as ‘tis by a vortnight. Nay, come not near th’old man. Keep out, ‘che vor’ ye, or I’s’ try whether your [[Costard|costard]] or my baton be the harder; I’ll be plain with you. |
+| OSWALD | Out, dunghill! |
+| [[Edgar|EDGAR]] | ’Chill pick your teeth, sir. Come, no matter vor your foins. [[Edgar]] knocks him down |
+| OSWALD | Slave, thou hast slain me. [[Villain]], take my purse. If ever thou wilt thrive, bury my [[Body|body]], And give the letters which thou find’st about me To Edmond, Earl of [[Gloucester]]. Seek him out Upon the English party. O untimely [[Death|death]]! [[Death]]! He dies |
+| [[Edgar|EDGAR]] | I know thee [[Well|well]]—a serviceable [[Villain|villain]], As duteous to the vices of thy mistress As badness would [[Desire|desire]]. |
+| [[Gloucester|GLOUCESTER]] | What, is he dead? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--06_monologue_edgar" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — monologue (EDGAR) [6]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Edgar|EDGAR]] | Sit you down, father. Rest you. [[Gloucester]] sits Let’s see these pockets. The letters that he speaks of May be my friends. He’s dead; I am only sorrow He had no other deathsman. Let us see. Leave, gentle wax, and manners; blame us not. To know our enemies’ minds we rip their hearts; Their papers is more lawful. He reads the letter ’Let our reciprocal vows be remembered. You have many opportunities to cut him off. If your will want not, [[Time|time]] and place will be fruitfully offered. There is nothing done if he return the conqueror; then am I the prisoner, and his bed my jail, from the loathed warmth whereof, deliver me, and supply the place for your labour. Your—wife, so I would say,—affectionate servant, and for you her own for venture, [[Goneril]].’ O indistinguished space of woman’s will— A plot upon her virtuous husband’s life, And the exchange my brother!—Here in the sands Thee I’ll rake up, the post unsanctified Of murderous lechers, and in the mature [[Time|time]] With this ungracious paper strike the sight Of the [[Death|death]]-practised Duke. For him ’tis [[Well|well]] That of thy [[Death|death]] and business I can tell. Exit with the [[Body|body]] |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--07_exchange_gloucester" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (GLOUCESTER) [7]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Gloucester|GLOUCESTER]] | The [[King]] is mad. How stiff is my vile sense, That I stand up and have ingenious feeling Of my huge sorrows! Better I were distraught, So should my thoughts be severed from my griefs, Drum afar off And woes by wrong imaginations lose The knowledge of themselves. Enter [[Edgar]] |
+| [[Edgar|EDGAR]] | Give me your hand. Far off methinks I hear the beaten drum. Come, father, I’ll bestow you with a friend. Exit [[Edgar]] guiding [[Gloucester]] |
+| *(didascalia)* | 4.6 Enter [[Queen]] [[Cordelia]], the Earl of [[Kent]] disguised, and the First Gentleman |
+| [[Cordelia|CORDELIA]] | O thou good [[Kent]], how shall I live and work To match thy goodness? My life will be too short, And every measure fail me. |
+| [[Kent|KENT]] | To be acknowledged, madam, is o’erpaid. All my reports go with the modest [[Truth|truth]], Nor more, nor clipped, but so. |
+| [[Cordelia|CORDELIA]] | Be better suited. These weeds are memories of those worser hours. I prithee put them off. |
+| [[Kent|KENT]] | Pardon, dear madam. Yet to be known shortens my made intent. My boon I make it that you know me not Till [[Time|time]] and I think meet. |
+| [[Cordelia|CORDELIA]] | Then be’t so, my good lord.— How does the [[King]]? FIRSTGENTLEMAN Madam, sleeps still. |
+| [[Cordelia|CORDELIA]] | O you kind gods, Cure this great breach in his abused [[Nature|nature]]; Th’untuned and jarring senses O [[Wind|wind]] up Of this [[Child|child]]-changed father! FIRSTGENTLEMAN So please your majesty That we may wake the [[King]]? He hath slept long. |
+| [[Cordelia|CORDELIA]] | Be governed by your knowledge, and proceed I’th’ sway of your own will. Is he arrayed? FIRSTGENTLEMAN Ay, madam. In the heaviness of [[Sleep|sleep]] We put fresh garments on him. Enter [[King Lear]] asleep, in a chair carried by servants Be by, good madam, when we do awake him. I [[Doubt|doubt]] not of his temperance. |
+| [[Cordelia|CORDELIA]] | O my dear father, restoration hang Thy medicine on my lips, and let this kiss Repair those violent harms that my two sisters Have in thy reverence made! |
+| [[Kent|KENT]] | Kind and dear princess! |
+| [[Cordelia|CORDELIA]] | Had you not been their father, these white flakes Did challenge pity of them. Was this a face To be opposed against the warring winds? Mine enemy’s dog, though he had bit me, should have stood That [[Night|night]] against my [[Fire|fire]]. And wast thou fain, poor father, To hovel thee with swine and rogues forlorn In short and musty straw? Alack, alack, ’Tis [[Wonder|wonder]] that thy life and wits at once Had not concluded all! (To the Gentleman) He wakes. Speak to him. FIRSTGENTLEMAN Madam, do you; ’tis fittest. |
+| [[Cordelia|CORDELIA]] | (to Lear) How does my royal lord? How fares your majesty? |
+| LEAR | You do me wrong to take me out o’th’ [[Grave|grave]]. Thou art a [[Soul|soul]] in bliss, but I am bound Upon a [[Wheel|wheel]] of [[Fire|fire]], that mine own [[Tears|tears]] Do scald like molten lead. |
+| [[Cordelia|CORDELIA]] | Sir, do you know me? |
+| LEAR | You are a spirit, I know. Where did you die? |
+| [[Cordelia|CORDELIA]] | (to the Gentleman) Still, still far wide! FIRST GENTLEMAN He’s scarce awake. Let him [[Alone|alone]] a while. |
+| LEAR | Where have I been? Where am I? Fair daylight? I am mightily abused. I should ev’n die with pity To see another thus. I know not what to say. I will not swear these are my hands. Let’s see: I feel this pin prick. Would I were assured Of my condition. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--08_exchange_cordelia" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (CORDELIA) [8]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Cordelia|CORDELIA]] | (kneeling) O look upon me, sir, And hold your hands in benediction o’er me. You must not kneel. |
+| LEAR | Pray do not mock. I am a very foolish, fond old man, Fourscore and upward, Not an hour more nor less; and to deal plainly, I [[Fear|fear]] I am not in my perfect mind. Methinks I should know you, and know this man; Yet I am doubtful, for I am mainly ignorant What place this is; and all the skill I have Remembers not these garments; nor I know not Where I did lodge last [[Night|night]]. Do not laugh at me, For as I am a man, I think this lady To be my [[Child|child]], [[Cordelia]]. |
+| [[Cordelia|CORDELIA]] | And so I am, I am. |
+| LEAR | Be your [[Tears|tears]] wet? Yes, [[Faith|faith]]. I pray, weep not. If you have [[Poison|poison]] for me, I will drink it. I know you do not [[Love|love]] me; for your sisters Have, as I do remember, done me wrong. You have some cause; they have not. |
+| [[Cordelia|CORDELIA]] | No cause, no cause. |
+| LEAR | Am I in France? |
+| [[Kent|KENT]] | In your own kingdom, sir. |
+| LEAR | Do not abuse me. FIRSTGENTLEMAN Be comforted, good madam. The great rage You see is killed in him. [[Desire]] him to go in. Trouble him no more till further settling. |
+| [[Cordelia|CORDELIA]] | (to Lear) Will’t please your highness walk? |
+| LEAR | You must bear with me. Pray you now, forget And forgive. I am old and foolish. Exeunt |
+| LEAR | 5.1 Enter with a drummer and colours Edmond, [[Regan]], Gentlemen, and soldiers |
+| EDMOND | Know of the Duke if his last purpose hold, Or whether since he is advised by aught To change the course. He’s full of abdication And [[Self|self]]-reproving. Bring his constant pleasure. Exit one or more |
+| [[Regan|REGAN]] | Our sister’s man is certainly miscarried. |
+| EDMOND | ’Tis to be doubted, madam. |
+| [[Regan|REGAN]] | Now, sweet lord, You know the goodness I intend upon you. Tell me but truly—but then speak the [[Truth|truth]]- Do you not [[Love|love]] my sister? |
+| EDMOND | In honoured [[Love|love]]. |
+| [[Regan|REGAN]] | But have you never found my brother’s way To the forfended place? |
+| EDMOND | No, by mine [[Honour|honour]], madam. |
+| [[Regan|REGAN]] | I never shall endure her. Dear my lord, Be not familiar with her. |
+| EDMOND | [[Fear]] me not. She and the Duke her husband— Enter with a drummer and colours the Duke of Albany, [[Goneril]], and soldiers |
+| ALBANY | (to [[Regan]]) Our very loving sister, [[Well|well]] bemet. (To Edmond) Sir, this I heard: the [[King]] is come to his daughter, With others whom the rigour of our state Forced to cry out. |
+| [[Regan|REGAN]] | Why is this reasoned? |
+| [[Goneril|GONERIL]] | Combine together ’gainst the enemy; For these domestic and particular broils Are not the question here. |
+| ALBANY | Let’s then determine with th’ensign of war On our proceeding. |
+| [[Regan|REGAN]] | Sister, you’ll go with us? |
+| [[Goneril|GONERIL]] | No. |
+| [[Regan|REGAN]] | ’Tis most convenient. Pray go with us. |
+| [[Goneril|GONERIL]] | (aside) O ho, I know the [[Riddle|riddle]]! (To [[Regan]]) I will go. Enter [[Edgar]] disguised as a peasant |
+| [[Edgar|EDGAR]] | (to Albany) If e’er your grace had speech with man so poor, Hear me one word. |
+| ALBANY | (to the others) I’ll overtake you. Exeunt both the armies Speak. |
+| [[Edgar|EDGAR]] | Before you fight the battle, ope this letter. If you have victory, let the trumpet sound For him that brought it. Wretched though I seem, I can produce a champion that will prove What is avouchèd there. If you miscarry, Your business of the world hath so an end, And machination ceases. Fortune [[Love|love]] you. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--09_exchange_albany" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (ALBANY) [9]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| ALBANY | Stay till I have read the letter. |
+| [[Edgar|EDGAR]] | I was forbid it. When [[Time|time]] shall serve, let but the herald cry, And I’ll appear again. |
+| ALBANY | Why, fare thee [[Well|well]]. I will o’erlook thy paper. Exit [[Edgar]] Enter Edmond |
+| EDMOND | The enemy’s in view; draw up your powers. He offersAlbany a paper Here is the guess of their true strength and forces By diligent discovery; but your haste Is now urged on you. |
+| ALBANY | We will greet the [[Time|time]]. Exit |
+| EDMOND | To both these sisters have I sworn my [[Love|love]], Each jealous of the other as the stung Are of the adder. Which of them shall I take?— Both?—one?—or neither? Neither can be enjoyed If both remain alive. To take the widow Exasperates, makes mad, her sister [[Goneril]], And hardly shall I carry out my side, Her husband being alive. Now then, we’ll use His countenance for the battle, which being done, Let her who would be rid of him devise His speedy taking off. As for the [[Mercy|mercy]] Which he intends to Lear and to [[Cordelia]], The battle done, and they within our power, Shall never see his pardon; for my state Stands on me to defend, not to [[debate]]. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter in conquest with a drummer and colours Edmond; [[King Lear]] and [[Queen]] [[Cordelia]] as prisoners; soldiers; a Captain |
+| EDMOND | Some officers take them away. Good guard Until their greater pleasures first be known That are to censure them. |
+| [[Cordelia|CORDELIA]] | (to Lear) We are not the first Who with best meaning have incurred the worst. For thee, oppressed [[King]], I am cast down, Myself could else outfrown false fortune’s frown. Shall we not see these daughters and these sisters? |
+| LEAR | No, no, no, no. Come, let’s away to [[Prison|prison]]. We two [[Alone|alone]] will sing like [[Birds|birds]] i’th’ cage. When thou dost ask me blessing, I’ll kneel down And ask of thee [[Forgiveness|forgiveness]]; so we’ll live, And pray, and sing, and tell old tales, and laugh At gilded butterflies, and hear poor rogues Talk of [[Court|court]] news, and we’ll talk with them too— Who loses and who wins, who’s in, who’s out, And take upon ’s the mystery of things As if we were God’s spies; and we’ll wear out In a walled [[Prison|prison]] packs and sects of great ones That ebb and flow by th’ [[Moon|moon]]. |
+| EDMOND | (to soldiers) Take them away. |
+| LEAR | Upon such sacrifices, my [[Cordelia]], The gods themselves throw incense. Have I caught thee? He that parts us shall bring a brand from heaven And [[Fire|fire]] us hence like foxes. Wipe thine eyes. The goodyear shall devour them, flesh and fell, Ere they shall make us weep. We’ll see ’em starved first. Come. Exeunt all but Edmond and the Captain |
+| EDMOND | Come hither, captain. Hark. Take thou this note. Go follow them to [[Prison|prison]]. One step I have advanced thee; if thou dost As this instructs thee, thou dost make thy way To noble fortunes. Know thou this: that men Are as the [[Time|time]] is. To be tender-minded Does not become a [[Sword|sword]]. Thy great employment Will not bear question. Either say thou‘It do’t, Or thrive by other means. |
+| CAPTAIN | I’ll do’t, my lord. |
+| EDMOND | About it, and write ‘happy’ when thou’st done. Mark, I say, instantly, and carry it so As I have set it down. Exit the Captain Flourish. Enter the Duke of Albany, [[Goneril]], [[Regan]], drummer, trumpeter and soldiers |
+| ALBANY | Sir, you have showed today your valiant strain, And fortune led you [[Well|well]]. You have the captives Who were the opposites of this day’s strife. I do require them of you, so to use them As we shall find their merits and our safety May equally determine. |
+| EDMOND | Sir, I thought it fit To send the old and miserable [[King]] To some retention and appointed guard, Whose age had charms in it, whose title more, To pluck the common bosom on his side And turn our impressed lances in our eyes Which do command them. With him I sent the [[Queen]], My reason all the same, and they are ready Tomorrow, or at further space, t’appear Where you shall hold your session. |
+| ALBANY | Sir, by your patience, I hold you but a subject of this war, Not as a brother. |
+| [[Regan|REGAN]] | That’s as we list to grace him. Methinks our pleasure might have been demanded Ere you had spoke so far. He led our powers, Bore the commission of my place and person, The which immediacy may [[Well|well]] stand up And call itself your brother. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--02_exchange_goneril" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (GONERIL) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Goneril|GONERIL]] | Not so hot. In his own grace he doth exalt himself More than in your addition. |
+| [[Regan|REGAN]] | In my rights By me invested, he compeers the best. |
+| ALBANY | That were the most if he should husband you. |
+| [[Regan|REGAN]] | Jesters do oft prove prophets. |
+| [[Goneril|GONERIL]] | Holla, holla— That eye that told you so looked but asquint. |
+| [[Regan|REGAN]] | Lady, I am not [[Well|well]], else I should answer From a full-flowing stomach. (To Edmond) General, Take thou my soldiers, prisoners, patrimony. Dispose of them, of me. The walls is thine. Witness the world that I create thee here My lord and master. |
+| [[Goneril|GONERIL]] | Mean you to enjoy him? |
+| ALBANY | The let-[[Alone|alone]] lies not in your good will. |
+| EDMOND | Nor in thine, lord. |
+| ALBANY | Half-blooded fellow, yes. |
+| [[Regan|REGAN]] | (to Edmond) Let the drum strike and prove my title thine. |
+| ALBANY | Stay yet, hear reason. Edmond, I arrest thee On capital treason, and in thy attaint This gilded serpent. (To [[Regan]]) For your claim, fair sister, I bar it in the interest of my wife. ’Tis she is subcontracted to this lord, And I, her husband, contradict your banns. If you will marry, make your loves to me. My lady is bespoke. |
+| [[Goneril|GONERIL]] | An interlude! |
+| ALBANY | Thou art armed, [[Gloucester]]. Let the trumpet sound. If none appear to prove upon thy person Thy heinous, manifest, and many treasons, There is my pledge. He throws down a glove I’ll make it on thy heart, Ere I taste bread, thou art in nothing less Than I have here proclaimed thee. |
+| [[Regan|REGAN]] | Sick, O sick! |
+| [[Goneril|GONERIL]] | (aside) If not, I’ll ne’er trust medicine. |
+| EDMOND | (to Albany, throwing down a glovel There’s my exchange. What in the world he is That names me traitor, [[Villain|villain]]-like he lies. Call by the trumpet. He that dares, approach; On him, on you,—who not?—I will maintain My [[Truth|truth]] and [[Honour|honour]] firmly. |
+| ALBANY | A herald, ho! Enter a Herald (To Edmond) Trust to thy single virtue, for thy soldiers, All levied in my name, have in my name Took their discharge. |
+| [[Regan|REGAN]] | My sickness grows upon me. |
+| ALBANY | She is not [[Well|well]]. Convey her to my tent. Exit one or more with [[Regan]] Come hither, herald. Let the trumpet sound, And read out this. A trumpet sounds |
+| HERALD | (reads) ‘If any man of quality or degree within the lists of the army will maintain upon Edmond, supposed Earl of [[Gloucester]], that he is a manifold traitor, let him appear by the third sound of the trumpet. He is bold in his defence.’ First trumpet Again. Second trumpet Again. Third trumpet. |
+| *(didascalia)* | Trumpet answers within. Enter [[Edgar]], armed |
+| ALBANY | (to the Herald) Ask him his purposes, why he appears Upon this call o’th’ trumpet. |
+| HERALD | (to [[Edgar]]) What are you? Your name, your quality, and why you answer This present summons? |
+| [[Edgar|EDGAR]] | Know, my name is lost, By treason’s tooth bare-gnawn and canker-bit. Yet am I noble as the adversary I come to cope. |
+| ALBANY | Which is that adversary? |
+| [[Edgar|EDGAR]] | What’s he that speaks for Edmond, Earl of [[Gloucester]]? |
+| EDMOND | Himself. What sayst thou to him? |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--03_exchange_edgar" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (EDGAR) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Edgar|EDGAR]] | Draw thy [[Sword|sword]], That if my speech offend a noble heart Thy arm may do thee justice. Here is mine. He draws his [[Sword|sword]] Behold, it is the privilege of mine [[Honour|honour]], My oath, and my profession. I protest, Maugre thy strength, place, youth, and eminence, Despite thy victor-[[Sword|sword]] and [[Fire|fire]]-new fortune, Thy valour and thy heart, thou art a traitor, False to thy gods, thy brother, and thy father, Conspirant ‘gainst this high illustrious prince, And from th’extremest upward of thy head To the descent and [[Dust|dust]] below thy foot A most toad-spotted traitor. Say thou no, This [[Sword|sword]], this arm, and my best spirits are bent To prove upon thy heart, whereto I speak, Thou liest. |
+| EDMOND | In wisdom I should ask thy name, But since thy outside looks so fair and warlike, And that thy tongue some say of breeding breathes, What safe and nicely I might [[Well|well]] demand By rule of knighthood I disdain and spurn. Back do I toss those treasons to thy head, With the hell-hated lie o’erwhelm thy heart, Which, for they yet glance by and scarcely bruise, This [[Sword|sword]] of mine shall give them instant way Where they shall rest for ever. Trumpets, speak! Alarums. They fight. Edmond is vanquished ALL Save him, save him! |
+| [[Goneril|GONERIL]] | This is practice, [[Gloucester]]. By th’ law of arms thou wast not bound to answer An unknown opposite. Thou art not vanquished, But cozened and beguiled. |
+| ALBANY | Shut your mouth, dame, Or with this paper shall I stopple it. To Edmond Hold, sir, thou worse than any name: read thine own evil. (To [[Goneril]]) No tearing, lady. I perceive you know it. |
+| [[Goneril|GONERIL]] | Say if I do, the laws are mine, not thine. Who can arraign me for’t? Exit |
+| ALBANY | Most monstrous!— O, know’st thou this paper? |
+| EDMOND | Ask me not what I know. |
+| ALBANY | Go after her. She’s desperate. Govern her. Exit one or more |
+| EDMOND | What you have charged me with, that have I done, And more, much more. The [[Time|time]] will bring it out. ‘Tis past, and so am I. (To [[Edgar]]) But what art thou, That hast this fortune on me? If thou’rt noble, I do forgive thee. |
+| [[Edgar|EDGAR]] | Let’s exchange [[Charity|charity]]. I am no less in [[Blood|blood]] than thou art, Edmond. If more, the more thou’st wronged me. He takes off his helmet My name is [[Edgar]], and thy father’s son. The gods are just, and of our pleasant vices Make instruments to plague us. The dark and vicious place where thee he got Cost him his eyes. |
+| EDMOND | Thou‘st spoken right. ’Tis true. The [[Wheel|wheel]] is come full circle. I am here. |
+| ALBANY | (to [[Edgar]]) Methought thy very gait did prophesy A royal nobleness. I must embrace thee. Let sorrow split my heart if ever I Did hate thee or thy father. |
+| [[Edgar|EDGAR]] | Worthy prince, I know’t. |
+| ALBANY | Where have you hid yourself? How have you known the miseries of your father? |
+| [[Edgar|EDGAR]] | By nursing them, my lord. List a brief tale, And when ‘tis told, O that my heart would burst! The bloody proclamation to escape That followed me so near—O, our lives’ sweetness, That we the [[Pain|pain]] of [[Death|death]] would hourly die Rather than die at once!—taught me to shift Into a madman’s rags, t’assume a semblance That very [[dogs]] disdained; and in this habit Met I my father with his bleeding rings, Their precious stones new-lost; became his guide, Led him, begged for him, saved him from [[Despair|despair]]; Never—O fault!—revealed myself unto him Until some half hour past, when I was armed. Not sure, though hoping, of this good [[success]], I asked his blessing, and from first to last Told him our pilgrimage; but his flawed heart— Alack, too weak the conflict to support— ’Twixt two extremes of passion, joy and grief, Burst smilingly. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--04_exchange_edmond" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (EDMOND) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| EDMOND | This speech of yours hath moved me, And shall perchance do good. But speak you on— You look as you had something more to say. |
+| ALBANY | If there be more, more woeful, hold it in, For I am almost ready to dissolve, Hearing of this. Enter a Gentleman with a bloody knife |
+| GENTLEMAN | Help, help, O help! |
+| [[Edgar|EDGAR]] | What kind of help? |
+| ALBANY | Speak, man. |
+| [[Edgar|EDGAR]] | What means this bloody knife? |
+| GENTLEMAN | ’Tis hot, it smokes. It came even from the heart of—O, she’s dead! |
+| ALBANY | Who dead? Speak, man. |
+| GENTLEMAN | Your lady, sir, your lady; and her sister By her is poisoned. She confesses it. |
+| EDMOND | I was contracted to them both; all three Now marry in an instant. |
+| [[Edgar|EDGAR]] | Here comes [[Kent]]. Enter the Earl of [[Kent]] as himself |
+| ALBANY | Produce the bodies, be they alive or dead. [[Goneril]]’s and [[Regan]]’s bodies brought out This judgement of the heavens, that makes us tremble, Touches us not with pity.—O, is this he? (To [[Kent]]) The [[Time|time]] will not allow the compliment Which very manners urges. |
+| [[Kent|KENT]] | I am come To bid my [[King|king]] and master aye good [[Night|night]]. Is he not here? |
+| ALBANY | Great thing of us forgot!— Speak, Edmond; where’s the [[King]], and where’s [[Cordelia]]?- Seest thou this object, [[Kent]]? |
+| [[Kent|KENT]] | Alack, why thus? |
+| EDMOND | Yet Edmond was beloved. The one the other poisoned for my sake, And after slew herself. |
+| ALBANY | Even so.—Cover their faces. |
+| EDMOND | I pant for life. Some good I mean to do, Despite of mine own [[Nature|nature]]. Quickly send, Be brief in it, to th’ [[Castle|castle]]; for my writ Is on the life of Lear and on [[Cordelia]]. Nay, send in [[Time|time]]. |
+| ALBANY | Run, run, O run! |
+| [[Edgar|EDGAR]] | To who, my lord?—Who has the office? Send Thy token of reprieve. |
+| EDMOND | [[Well]] thought on! Take my [[Sword|sword]]. The captain, Give it the captain. |
+| [[Edgar|EDGAR]] | Haste thee for thy life. Exit the Gentleman |
+| EDMOND | (to Albany) He hath commission from thy wife and me To hang [[Cordelia]] in the [[Prison|prison]], and To lay the blame upon her own [[Despair|despair]], That she fordid herself. |
+| ALBANY | The gods defend her!—Bear him hence a while. Exeunt some with Edmond Enter [[King Lear]] with [[Queen]] [[Cordelia]] in his arms, |
+| *(didascalia)* | followed by the Gentleman |
+| LEAR | Howl, howl, howl, howl! O, you are men of stones. Had I your tongues and eyes, I’d use them so That heaven’s vault should crack. She’s gone for ever. I know when one is dead and when one lives. She’s dead as earth. He lays her down Lend me a looking-glass. If that her breath will mist or stain the stone, Why, then she lives. |
+| [[Kent|KENT]] | Is this the promised end? |
+| [[Edgar|EDGAR]] | Or image of that horror? |
+| ALBANY | Fall and cease. |
+| LEAR | This feather stirs. She lives. If it be so, It is a chance which does redeem all sorrows That ever I have felt. |
+| [[Kent|KENT]] | kneeling O, my good master! |
+| LEAR | Prithee, away. |
+| [[Edgar|EDGAR]] | ’Tis noble [[Kent]], your friend. |
+| LEAR | A plague upon you, murderers, traitors all. I might have saved her; now she’s gone for ever.- [[Cordelia]], [[Cordelia]]: stay a little. Ha? What is’t thou sayst?—Her voice was ever soft, Gentle, and low, an excellent thing in woman.— I killed the slave that was a-hanging thee. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--05_exchange_gentleman" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (GENTLEMAN) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| GENTLEMAN | ’Tis true, my lords, he did. |
+| LEAR | Did I not, fellow? I have seen the day with my good biting falchion I would have made them skip. I am old now, And these same crosses spoil me. (To [[Kent]]) Who are you? Mine eyes are not o’th’ best, I’ll tell you straight. |
+| [[Kent|KENT]] | If fortune brag of two she loved and hated, One of them we behold. |
+| LEAR | This’ a dull sight. Are you not [[Kent]]? |
+| [[Kent|KENT]] | The same, your servant [[Kent]]. Where is your servant Caius? |
+| LEAR | He’s a good fellow, I can tell you that. He’ll strike, and quickly too. He’s dead and rotten. |
+| [[Kent|KENT]] | No, my good lord, I am the very man— |
+| LEAR | I’ll see that straight. |
+| [[Kent|KENT]] | That from your first of difference and [[Decay|decay]] Have followed your sad steps. |
+| LEAR | You’re welcome hither. |
+| [[Kent|KENT]] | Nor no man else. All’s cheerless, dark, and deadly. Your eldest daughters have fordone themselves, And desperately are dead. |
+| LEAR | Ay, so think I. |
+| ALBANY | He knows not what he says; and vain is it That we present us to him. Enter a Messenger |
+| [[Edgar|EDGAR]] | Very bootless. |
+| MESSENGER | (to Albany) Edmond is dead, my lord. |
+| ALBANY | That’s but a trifle here.— You lords and noble friends, know our intent. What comfort to this great [[Decay|decay]] may come Shall be applied; for us, we will resign During the life of this old majesty To him our absolute power; (To [[Edgar]] and [[Kent]]) you to your rights, With boot and such addition as your honours Have more than merited. All friends shall taste The wages of their virtue, and all foes The cup of their deservings.—O see, see! |
+| LEAR | And my poor [[Fool|fool]] is hanged. No, no, no life? Why should a dog, a [[Horse|horse]], a rat have life, And thou no breath at all? Thou’lt come no more. Never, never, never, never, never. To [[Kent]] Pray you, undo this button. Thank you, sir. Do you see this? Look on her. Look, her lips. Look there, look there. He dies |
+| [[Edgar|EDGAR]] | He faints. (To Lear) My lord, my lord! |
+| [[Kent|KENT]] | to Lear Break, heart, I prithee break. |
+| [[Edgar|EDGAR]] | (to Lear) Look up, my lord. |
+| [[Kent|KENT]] | Vex not his [[Ghost|ghost]]. O, let him pass. He hates him That would upon the rack of this tough world Stretch him out longer. |
+| [[Edgar|EDGAR]] | He is gone indeed. |
+| [[Kent|KENT]] | The [[Wonder|wonder]] is he hath endured so long. He but usurped his life. |
+| ALBANY | Bear them from hence. Our present business Is general woe. (To [[Edgar]] and [[Kent]]) Friends of my [[Soul|soul]], you twain Rule in this realm, and the gored state sustain. |
+| [[Kent|KENT]] | I have a [[Journey|journey]], sir, shortly to go: My master calls me; I must not say no. |
+| [[Edgar|EDGAR]] | The weight of this sad [[Time|time]] we must obey, Speak what we feel, not what we ought to say. The oldest hath borne most. We that are young Shall never see so much, nor live so long. Exeunt with a dead march, carrying the bodies |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--06_monologue_our" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — monologue (OUR) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| OUR | first reference to [[Cymbeline]] is a note by the astrologer Simon Forman that he saw the play, probably not long before his [[Death|death]] on 8 September 1611. He refers to the heroine as ‘[[Innogen]]’, and this name occurs in the sources; the form ‘Imogen’, found only in the Folio, appears to be a misprint. The play’s courtly tone, and the [[Masque|masque]]-like quality of, particularly, the episode (5.5.186.1-2) in which Jupiter ‘descends in thunder and [[Lightning|lightning]], sitting upon an eagle’ and ‘throws a thunderbolt’, suggests that as Shakespeare wrote he may have had in mind the audiences and the stage equipment of the Blackfriars theatre, which his company used from the [[Autumn|autumn]] of 1609; and stylistic evidence places the play in about 1610-11. It was first printed in the 1623 Folio, as the last of the tragedies. In fact it is a [[Tragicomedy|tragicomedy]], or a [[Romance|romance]], telling a complex and implausible tale of events which cause the deaths of certain subsidiary characters ([[Cloten]], and the [[Queen]]) and bring major characters (including the heroine, [[Innogen]]) close to [[Death|death]], but which are miraculously resolved in the reunions and reconciliations of the closing scene. Shakespeare’s plot reflects a wide range of reading. He took his title and setting from the name and reign of the legendary British [[King|king]] [[Cymbeline]], or Cunobelinus, said to have reigned from 33 BC till shortly after the birth of [[Christ]]. [[Cymbeline]] is no chronicle [[history]], but Shakespeare derived some ideas, and many of his characters’ names, from accounts of early British [[history]] in Holinshed’s Chronicles and elsewhere. Drawing partially, it seems, on an old play, The Rare Triumphs of [[Love]] and Fortune (acted 1582, printed 1589), he gives [[Cymbeline]] a daughter, [[Innogen]], and a wicked second [[Queen]] with a loutish, vicious son, [[Cloten]], whom she wishes to see on the throne in her husband’s place. [[Cymbeline]], disapproving of his daughter’s [[Marriage|marriage]] to ‘a poor but worthy gentleman’, [[Posthumus]] Leonatus, banishes him. The strand of plot showing the outcome of a wager that [[Posthumus]], in Rome, lays on his wife’s chastity is indebted, directly or indirectly, to Boccaccio’s Decameron. Another old play, Sir Clyomon and Clamydes (printed in 1599), may have suggested the bizarre scene (4.2) in which [[Innogen]] mistakes [[Cloten]]’s headless [[Body|body]] for that of [[Posthumus]]; and IIolinshed’s Ilistory of Scotland supplied the episode in which [[Cymbeline]]’s two sons, [[Guiderius]] and [[Arviragus]], helped only by the old man ([[Belarius]]) who has brought them up in the wilds of Wales, defeat the entire Roman army. The tone of [[Cymbeline]] has puzzled commentators. Its prose and verse style is frequently ornate, sometimes [[Grotesque|grotesque]]. Its characterization often seems deliberately artificial. Extremes are violently juxtaposed, most daringly when [[Innogen]], supposed dead, is laid beside [[Cloten]]’s headless [[Body|body]]: the [[Beauty|beauty]] of the verse in which she is mourned, and of the [[Flowers|flowers]] strewn over the bodies, contrasts with the hideous spectacle of the headless corpse; her waking speech is one of Shakespeare’s most thrillingly difficult challenges to his performers. The appearance of Jupiter lifts the action to a new level of even greater implausibility, preparing us for the extraordinary series of revelations by which the play advances to its impossibly happy ending. [[Cymbeline]] has been valued mostly for its portrayal of [[Innogen]], ideal of womanhood to, especially, Victorian readers and theatre-goers. The play as a whole is a fantasy, an experimental exercise in virtuosity. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--07_exchange_the_persons_of_the_play" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY [[Cymbeline|CYMBELINE]], [[King]] of Britain Princess [[Innogen|INNOGEN]], his daughter, later disguised as a man named Fidele [[Queen|QUEEN]], [[Cymbeline]]’s wife, [[Innogen]]’s stepmother Lord [[Cloten|CLOTEN]], her son |
+| *(didascalia)* | [[Belarius|BELARIUS]], a banished lord, calling himself Morgan CORNELIUS, a physician [[Helen|HELEN]], a lady attending on [[Innogen]] Two |
+| LORDS | attending on [[Cloten]] Two GENTLEMEN Two British CAPTAINS Two JAILERS |
+| [[Posthumus|POSTHUMUS]] | Leonatus, a poor gentleman, [[Innogen]]’s husband PISANIO, his servant FILARIO, a friend of [[Posthumus]] Caius [[Lucius|LUCIUS]], ambassador from Rome, later General of the Roman forces Two Roman SENATORS Roman TRIBUNES A Roman CAPTAIN Philharmonus, a SOOTHSAYER |
+| JUPITER | [[Ghost]] of SICILIUS Leonatus, father of [[Posthumus]] [[Ghost]] of the MOTHER of [[Posthumus]] [[Ghosts]] of the BROTHERS of [[Posthumus]] |
+| JUPITER | Lords attending on [[Cymbeline]], ladies attending on the [[Queen]], musicians attending on [[Cloten]], messengers, soldiers |
+
+
 
 
 <span class="atom-split" data-atom="the_tragedy_of_king_lear_folio_text" data-title="THE TRAGEDY OF KING LEAR - THE FOLIO TEXT" data-chapter="" data-kind="intro"></span>
@@ -1415,1173 +2582,6 @@ The [[Tragedy]] of [[King Lear]]
 | THE PERSONS OF THE | PLAY<br>[[Cymbeline|CYMBELINE]], [[King]] of Britain<br>Princess [[Innogen|INNOGEN]], his daughter, later disguised as a man named Fidele<br>[[Queen|QUEEN]], [[Cymbeline]]’s wife, [[Innogen]]’s stepmother<br>Lord [[Cloten|CLOTEN]], her son<br><br>[[Belarius|BELARIUS]], a banished lord, calling himself Morgan<br>CORNELIUS, a physician<br>[[Helen|HELEN]], a lady attending on [[Innogen]]<br>Two LORDS attending on [[Cloten]]<br>Two GENTLEMEN<br>Two British CAPTAINS<br>Two JAILERS |
 | [[Posthumus|POSTHUMUS]] | Leonatus, a poor gentleman, [[Innogen]]’s husband<br>PISANIO, his servant<br>FILARIO, a friend of [[Posthumus]]<br>Caius [[Lucius|LUCIUS]], ambassador from Rome, later General of the Roman forces<br>Two Roman SENATORS<br>Roman TRIBUNES<br>A Roman CAPTAIN<br>Philharmonus, a SOOTHSAYER |
 | JUPITER | [[Ghost]] of SICILIUS Leonatus, father of [[Posthumus]]<br>[[Ghost]] of the MOTHER of [[Posthumus]]<br>[[Ghosts]] of the BROTHERS of [[Posthumus]]<br><br>Lords attending on [[Cymbeline]], ladies attending on the [[Queen]], musicians attending on [[Cloten]], messengers, soldiers |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the Earl of [[Kent]], the [[Duke of Gloucester]], and Edmond |
-| [[Kent|KENT]] | I thought the [[King]] had more affected the Duke of Albany than Cornwall. [[Gloucester|GLOUCESTER]]) It did always seem so to us, but now in the division of the kingdom it appears not which of the Dukes he values most; for qualities are so weighed that curiosity in neither can make choice of either’s moiety. |
-| [[Kent|KENT]] | Is not this your son, my lord? |
-| [[Gloucester|GLOUCESTER]] | His breeding, sir, hath been at my charge. I have so often blushed to acknowledge him that now I am brazed to’t. |
-| [[Kent|KENT]] | I cannot conceive you. |
-| [[Gloucester|GLOUCESTER]] | Sir, this young fellow’s mother could, whereupon she grew round-wombed and had indeed, sir, a son for her cradle ere she had a husband for her bed. Do you smell a fault? |
-| [[Kent|KENT]] | I cannot wish the fault undone, the issue of it being so proper. |
-| [[Gloucester|GLOUCESTER]] | But I have a son, sir, by order of law, some year older than this, who yet is no dearer in my account. Though this knave came something saucily to the world before he was sent for, yet was his mother fair, there was good sport at his making, and the whoreson must be acknowledged. (To Edmond) Do you know this noble gentleman, Edmond? |
-| EDMOND | No, my lord. |
-| [[Gloucester|GLOUCESTER]] | (to Edmond) My lord of [[Kent]]. Remember him hereafter as my honourable friend. |
-| EDMOND | (to [[Kent]]) My services to your lordship. |
-| [[Kent|KENT]] | I must [[Love|love]] you, and sue to know you better. |
-| EDMOND | Sir, I shall study deserving. |
-| [[Gloucester|GLOUCESTER]] | (to [[Kent]]) He hath been out nine years, and away he shall again. Sennet The [[King]] is coming. Enter [[King Lear]], the Dukes of Cornwall and Albany, [[Goneril]], [[Regan]], [[Cordelia]], and attendants |
-| LEAR | Attend the lords of France and Burgundy, [[Gloucester]]. |
-| [[Gloucester|GLOUCESTER]] | I shall, my lord. Exit |
-| LEAR | Meantime we shall express our darker purpose. Give me the map there. Know that we have divided In three our kingdom, and ’tis our fast intent To shake all cares and business from our age, Conferring them on younger strengths while we Unburdened crawl toward [[Death|death]]. Our son of Cornwall, And you, our no less loving son of Albany, We have this hour a constant will to publish Our daughters’ several dowers, that future strife May be prevented now. The princes France and Burgundy— Great rivals in our youngest daughter’s [[Love|love]]— Long in our [[Court|court]] have made their amorous sojourn, And here are to be answered. Tell me, my daughters— Since now we will divest us both of rule, Interest of territory, cares of state— Which of you shall we say doth [[Love|love]] us most, That we our largest bounty may extend Where [[Nature|nature]] doth with merit challenge? [[Goneril]], Our eldest born, speak first. |
-| [[Goneril|GONERIL]] | Sir, I [[Love|love]] you more than words can wield the matter; Dearer than eyesight, space, and liberty; Beyond what can be valued, rich or rare, No less than life; with grace, health, [[Beauty|beauty]], [[Honour|honour]]; As much as [[Child|child]] e’er loved or father found; A [[Love|love]] that makes breath poor and speech unable. Beyond all manner of so much I [[Love|love]] you. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_exchange_cordelia" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1 — exchange (CORDELIA) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cordelia|CORDELIA]] | (aside) What shall [[Cordelia]] speak? [[Love]] and be silent. |
-| LEAR | (to [[Goneril]]) Of all these bounds even from this line to this, With shadowy forests and with champaigns riched, With plenteous rivers and wide-skirted meads, We make thee lady. To thine and Albany’s issues Be this perpetual.—What says our second daughter? Our dearest [[Regan]], wife of Cornwall? |
-| [[Regan|REGAN]] | I am made of that [[Self|self]] mettle as my sister, And prize me at her worth. In my true heart I find she names my very deed of [[Love|love]]— Only she comes too short, that I profess Myself an enemy to all other joys Which the most precious square of sense possesses, And find I am [[Alone|alone]] felicitate In your dear highness’ [[Love|love]]. |
-| [[Cordelia|CORDELIA]] | (aside) Then poor [[Cordelia]]— And yet not so, since I am sure my [[Love|love]]’s More ponderous than my tongue. |
-| LEAR | (to [[Regan]]) To thee and thine hereditary ever Remain this ample third of our fair kingdom, No less in space, validity, and pleasure Than that conferred on [[Goneril]]. (To [[Cordelia]]) Now our joy, Although our last and least, to whose young [[Love|love]] The vines of France and milk of Burgundy Strive to be interessed: what can you say to draw A third more opulent than your sisters? Speak. |
-| [[Cordelia|CORDELIA]] | Nothing, my lord. |
-| LEAR | Nothing? |
-| [[Cordelia|CORDELIA]] | Nothing. |
-| LEAR | Nothing will come of nothing. Speak again. |
-| [[Cordelia|CORDELIA]] | Unhappy that I am, I cannot heave My heart into my mouth. I [[Love|love]] your majesty According to my bond, no more nor less. |
-| LEAR | How, how, [[Cordelia]]? Mend your speech a little Lest you may mar your fortunes. |
-| [[Cordelia|CORDELIA]] | Good my lord, You have begot me, bred me, loved me. I return those duties back as are right fit- Obey you, [[Love|love]] you, and most [[Honour|honour]] you. Why have my sisters husbands if they say They [[Love|love]] you all? Haply when I shall wed That lord whose hand must take my plight shall carry Half my [[Love|love]] with him, half my care and duty. Sure, I shall never marry like my sisters. |
-| LEAR | But goes thy heart with this? |
-| [[Cordelia|CORDELIA]] | Ay, my good lord. |
-| LEAR | So young and so untender? |
-| [[Cordelia|CORDELIA]] | So young, my lord, and true. |
-| LEAR | Let it be so. Thy [[Truth|truth]] then be thy dower; For by the sacred radiance of the sun, The mysteries of Hecate and the [[Night|night]], By all the operation of the orbs From whom we do exist and cease to be, Here I disclaim all my paternal care, Propinquity, and property of [[Blood|blood]], And as a stranger to my heart and me Hold thee from this for ever. The barbarous Scythian, Or he that makes his generation messes To gorge his appetite, shall to my bosom Be as [[Well|well]] neighboured, pitied, and relieved As thou, my sometime daughter. |
-| [[Kent|KENT]] | Good my liege— |
-| LEAR | Peace, [[Kent]]. Come not between the dragon and his wrath. I loved her most, and thought to set my rest On her kind nursery. To [[Cordelia]] Hence, and avoid my sight!— So be my [[Grave|grave]] my peace as here I give Her father’s heart from her. Call France. Who stirs? Call Burgundy. Exit one or more Cornwall and Albany, With my two daughters’ dowers digest the third. Let [[Pride|pride]], which she calls plainness, marry her. I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty. Ourself by monthly course, With reservation of an hundred knights By you to be sustained, shall our abode Make with you by due turn. Only we shall retain The name and all th’addition to a [[King|king]]. The sway, Revenue, execution of the rest, Beloved sons, be yours; which to confirm, This crownet part between you. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_exchange_kent" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1 — exchange (KENT) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Kent|KENT]] | Royal Lear, Whom I have ever honoured as my [[King|king]], Loved as my father, as my master followed, As my great patron thought on in my prayers— |
-| LEAR | The bow is bent and drawn; make from the shaft. |
-| [[Kent|KENT]] | Let it fall rather, though the fork invade The region of my heart. Be [[Kent]] unmannerly When Lear is mad. What wouldst thou do, old man? Think’st thou that duty shall have dread to speak When power to flattery bows? To plainness [[Honour|honour]]’s bound When majesty falls to folly. Reserve thy state, And in thy best consideration check This hideous rashness. Answer my life my judgement, Thy youngest daughter does not [[Love|love]] thee least, Nor are those empty-hearted whose low sounds Reverb no hollowness. |
-| LEAR | [[Kent]], on thy life, no more! |
-| [[Kent|KENT]] | My life I never held but as a pawn To wage against thine enemies, ne’er feared to lose it, Thy safety being motive. |
-| LEAR | Out of my sight! |
-| [[Kent|KENT]] | See better, Lear, and let me still remain The true blank of thine eye. |
-| LEAR | Now, by [[Apollo]]— |
-| [[Kent|KENT]] | Now, by [[Apollo]], [[King]], thou swear’st thy gods in vain. |
-| LEAR | making to strike him O vassal! Miscreant! |
-| ALBANY | and [[Cordelia|CORDELIA]] Dear sir, forbear. |
-| [[Kent|KENT]] | (to Lear) Kill thy physician, and thy fee bestow Upon the foul disease. Revoke thy gift, Or whilst I can vent clamour from my throat I’ll tell thee thou dost evil. |
-| LEAR | Hear me, recreant; on thine allegiance hear me! That thou hast sought to make us break our vows, Which we durst never yet, and with strained [[Pride|pride]] To come betwixt our sentence and our power, Which nor our [[Nature|nature]] nor our place can bear, Our potency made good take thy reward: Five days we do allot thee for provision To shield thee from disasters of the world, And on the sixth to turn thy hated back Upon our kingdom. If on the seventh day following Thy banished trunk be found in our dominions, The moment is thy [[Death|death]]. Away! By Jupiter, This shall not be revoked. |
-| [[Kent|KENT]] | Fare thee [[Well|well]], [[King]]; sith thus thou wilt appear, [[Freedom]] lives hence, and banishment is here. (To [[Cordelia]]) The gods to their dear shelter take thee, maid, That justly think’st, and hast most rightly said. (To [[Goneril]] and [[Regan]]) And your large speeches may your deeds approve, That good effects may [[spring]] from words of [[Love|love]]. Thus [[Kent]], O princes, bids you all adieu; He’ll shape his old course in a country new. Exit Flourish. Enter the [[Duke of Gloucester]] with the [[King of France]], the Duke of Burgundy, and attendants [[Cordelia|CORDELIA]] Here’s France and Burgundy, my noble lord. |
-| LEAR | My lord of Burgundy, We first address toward you, who with this [[King]] Hath rivalled for our daughter: what in the least Will you require in present dower with her Or cease your [[Quest|quest]] of [[Love|love]]? |
-| BURGUNDY | Most royal majesty, I crave no more than hath your highness offered; Nor will you tender less. |
-| LEAR | Right noble Burgundy, When she was dear to us we did hold her so; But now her price is fallen. Sir, there she stands. If aught within that little seeming substance, Or all of it, with our displeasure pieced, And nothing more, may fitly like your grace, She’s there, and she is yours. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_exchange_burgundy" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1 — exchange (BURGUNDY) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| BURGUNDY | I know no answer. |
-| LEAR | Will you with those infirmities she owes, Unfriended, new adopted to our hate, Dowered with our curse and strangered with our oath, Take her or leave her? |
-| BURGUNDY | Pardon me, royal sir. Election makes not up in such conditions. |
-| LEAR | Then leave her, sir; for by the power that made me, I tell you all her wealth. (To France) For you, great [[King]], I would not from your [[Love|love]] make such a stray To match you where I hate, therefore beseech you T‘avert your liking a more worthier way Than on a wretch whom [[Nature|nature]] is ashamed Almost t’acknowledge hers. |
-| FRANCE | This is most strange, That she whom even but now was your best object, The argument of your praise, balm of your age, The best, the dear’st, should in this trice of [[Time|time]] Commit a thing so monstrous to dismantle So many folds of favour. Sure, her offence Must be of such unnatural degree That monsters it, or your fore-vouched affection Fall into taint; which to believe of her Must be a [[Faith|faith]] that reason without miracle Should never plant in me. |
-| [[Cordelia|CORDELIA]] | (to Lear) I yet beseech your majesty, If for I want that glib and oily art To speak and purpose not—since what I [[Well|well]] intend, I’ll do’t before I speak—that you make known It is no vicious blot, murder, or foulness, No unchaste action or dishonoured step That hath deprived me of your grace and favour, But even the want of that for which I am richer— A still-soliciting eye, and such a tongue That I am glad I have not, though not to have it Hath lost me in your liking. |
-| LEAR | Better thou Hadst not been born than not t’have pleased me better. |
-| FRANCE | Is it but this—a tardiness in [[Nature|nature]], Which often [[Leaves|leaves]] the [[history]] unspoke That it intends to do?—My lord of Burgundy, What say you to the lady? [[Love]]’s not [[Love|love]] When it is mingled with regards that stands Aloof from th’entire point. Will you have her? She is herself a dowry. |
-| BURGUNDY | (to Lear) Royal [[King]], Give but that portion which yourself proposed, And here I take [[Cordelia]] by the hand, Duchess of Burgundy. |
-| LEAR | Nothing. I have sworn. I am firm. |
-| BURGUNDY | (to [[Cordelia]]) I am sorry, then, you have so lost a father That you must lose a husband. |
-| [[Cordelia|CORDELIA]] | Peace be with Burgundy; Since that respect and fortunes are his [[Love|love]], I shall not be his wife. |
-| FRANCE | Fairest [[Cordelia]], that art most rich, being poor; Most choice, forsaken; and most loved, despised: Thee and thy virtues here I seize upon. Be it lawful, I take up what’s cast away. Gods, gods! ‘Tis strange that from their cold’st neglect My [[Love|love]] should kindle to inflamed respect.— Thy dowerless daughter, [[King]], thrown to my chance, Is [[Queen|queen]] of us, of ours, and our fair France. Not all the dukes of wat’rish Burgundy Can buy this unprized precious maid of me.— Bid them farewell, [[Cordelia]], though unkind. Thou losest here, a better where to find. |
-| LEAR | Thou hast her, France. Let her be thine, for we Have no such daughter, nor shall ever see That face of hers again. Therefore be gone, Without our grace, our [[Love|love]], our benison.— Come, noble Burgundy. Flourish. Exeunt all but France |
-| LEAR | and the sisters |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--05_exchange_france" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1 — exchange (FRANCE) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FRANCE | Bid farewell to your sisters. |
-| [[Cordelia|CORDELIA]] | Ye jewels of our father, with washed eyes [[Cordelia]] [[Leaves|leaves]] you. I know you what you are, And like a sister am most loath to call Your faults as they are named. [[Love]] [[Well|well]] our father. To your professed bosoms I commit him. But yet, alas, stood I within his grace I would prefer him to a better place. So farewell to you both. |
-| [[Regan|REGAN]] | Prescribe not us our duty. |
-| [[Goneril|GONERIL]] | Let your study Be to content your lord, who hath received you At fortune’s alms. You have obedience scanted, And [[Well|well]] are worth the want that you have wanted. |
-| [[Cordelia|CORDELIA]] | [[Time]] shall unfold what pleated cunning hides, Who covert faults at last with shame derides. [[Well]] may you prosper. |
-| FRANCE | Come, my fair [[Cordelia]]. Exeunt France and [[Cordelia]] |
-| [[Goneril|GONERIL]] | Sister, it is not little I have to say of what most nearly appertains to us both. I think our father will hence tonight. |
-| [[Regan|REGAN]] | That’s most certain, and with you. Next month with us. |
-| [[Goneril|GONERIL]] | You see how full of changes his age is. The observation we have made of it hath been little. He always loved our sister most, and with what poor judgement he hath now cast her off appears too grossly. |
-| [[Regan|REGAN]] | ’Tis the infirmity of his age; yet he hath ever but slenderly known himself. |
-| [[Goneril|GONERIL]] | The best and soundest of his [[Time|time]] hath been but rash; then must we look from his age to receive not [[Alone|alone]] the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them. |
-| [[Regan|REGAN]] | Such unconstant starts are we like to have from him as this of [[Kent]]’s banishment. |
-| [[Goneril|GONERIL]] | There is further compliment of leave-taking between France and him. Pray you, let us sit together. If our father carry authority with such disposition as he bears, this last surrender of his will but offend us. |
-| [[Regan|REGAN]] | We shall further think of it. [[Goneril|GONERIL]] We must do something, and i’th’ heat. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Edmond the bastard |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--02_monologue_edmond" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — monologue (EDMOND) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| EDMOND | Thou, [[Nature|nature]], art my goddess. To thy law My services are bound. Wherefore should I Stand in the plague of custom and permit The curiosity of nations to deprive me For that I am some twelve or fourteen moonshines Lag of a brother? Why ‘bastard’? Wherefore ‘base’, When my dimensions are as [[Well|well]] compact, My mind as generous, and my shape as true As honest madam’s issue? Why brand they us With ‘base’, with ‘baseness, bastardy—base, base’— Who in the lusty stealth of [[Nature|nature]] take More composition and fierce quality Than doth within a dull, stale, tirèd bed Go to th’ creating a whole tribe of fops Got ‘tween a [[Sleep|sleep]] and wake? [[Well]] then, Legitimate [[Edgar]], I must have your land. Our father’s [[Love|love]] is to the bastard Edmond As to th’ legitimate. Fine word, ‘legitimate’. [[Well]], my legitimate, if this letter [[Speed|speed]] And my invention thrive, Edmond the base Shall to th’ legitimate. I grow, I prosper. Now gods, stand up for bastards! Enter the [[Duke of Gloucester]]. Edmond reads a letter |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--03_exchange_gloucester" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — exchange (GLOUCESTER) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Gloucester|GLOUCESTER]] | [[Kent]] banished thus, and France in choler parted, And the [[King]] gone tonight, prescribed his power, Confined to exhibition—all this done Upon the gad?—Edmond, how now? What news? |
-| EDMOND | So please your lordship, none. |
-| [[Gloucester|GLOUCESTER]] | Why so earnestly seek you to put up that letter? |
-| EDMOND | I know no news, my lord. [[Gloucester|GLOUCESTER]] What paper were you reading? |
-| EDMOND | Nothing, my lord. |
-| [[Gloucester|GLOUCESTER]] | No? What needed then that terrible dispatch of it into your pocket? The quality of nothing hath not such need to hide itself. Let’s see. Come, if it be nothing I shall not need spectacles. |
-| EDMOND | I beseech you, sir, pardon me. It is a letter from my brother that I have not all o‘er-read; and for so much as I have perused, I find it not fit for your o’erlooking. [[Gloucester|GLOUCESTER]] Give me the letter, sir. |
-| EDMOND | I shall offend either to detain or give it. The contents, as in part I understand them, are to blame. [[Gloucester|GLOUCESTER]] Let’s see, let’s see. |
-| EDMOND | I [[Hope|hope]] for my brother’s justification he wrote this but as an assay or taste of my virtue. He gives [[Gloucester]] a letter |
-| [[Gloucester|GLOUCESTER]] | (reads) ‘This policy and reverence of age makes the world bitter to the best of our times, keeps our fortunes from us till our oldness cannot relish them. I begin to find an idle and fond bondage in the oppression of aged tyranny, who sways not as it hath power but as it is suffered. Come to me, that of this I may speak more. If our father would [[Sleep|sleep]] till I waked him, you should enjoy half his revenue for ever and live the beloved of your brother, [[Edgar]].’ Hum, conspiracy! ‘[[Sleep]] till I wake him, you should enjoy half his revenue’—my son [[Edgar]]! Had he a hand to write this, a heart and brain to breed it in? When came you to this? Who brought it? |
-| EDMOND | It was not brought me, my lord, there’s the cunning of it. I found it thrown in at the casement of my closet. |
-| [[Gloucester|GLOUCESTER]] | You know the character to be your brother’s? |
-| EDMOND | If the matter were good, my lord, I durst swear it were his; but in respect of that, I would fain think it were not. [[Gloucester|GLOUCESTER]]) It is his. |
-| EDMOND | It is his hand, my lord, but I [[Hope|hope]] his heart is not in the contents. |
-| [[Gloucester|GLOUCESTER]] | Has he never before sounded you in this business? |
-| EDMOND | Never, my lord; but I have heard him oft maintain it to be fit that, sons at perfect age and fathers declined, the father should be as ward to the son, and the son manage his revenue. |
-| [[Gloucester|GLOUCESTER]] | O [[Villain|villain]], [[Villain|villain]]—his very opinion in the letter! Abhorred [[Villain|villain]], unnatural, detested, brutish [[Villain|villain]]—worse than brutish! Go, sirrah, seek him. I’ll apprehend him. Abominable [[Villain|villain]]! Where is he? |
-| EDMOND | I do not [[Well|well]] know, my lord. If it shall please you to suspend your indignation against my brother till you can derive from him better testimony of his intent, you should run a certain course; where if you violently proceed against him, mistaking his purpose, it would make a great gap in your own [[Honour|honour]] and shake in pieces the heart of his obedience. I dare pawn down my life for him that he hath writ this to feel my affection to your [[Honour|honour]], and to no other pretence of danger. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--04_exchange_gloucester" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — exchange (GLOUCESTER) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Gloucester|GLOUCESTER]] | Think you so? |
-| EDMOND | If your [[Honour|honour]] judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening. |
-| [[Gloucester|GLOUCESTER]] | He cannot be such a [[Monster|monster]]. Edmond, seek him out, [[Wind|wind]] me into him, I pray you. Frame the business after your own wisdom. I would unstate myself to be in a due resolution. |
-| EDMOND | I will seek him, sir, presently, convey the business as I shall find means, and acquaint you withal. |
-| [[Gloucester|GLOUCESTER]] | These late eclipses in the sun and [[Moon|moon]] portend no good to us. Though the wisdom of [[Nature|nature]] can reason it thus and thus, yet [[Nature|nature]] finds itself scourged by the sequent effects. [[Love]] cools, [[Friendship|friendship]] falls off, brothers divide; in cities, mutinies; in countries, discord; in palaces, treason; and the bond cracked ‘twixt son and father. This [[Villain|villain]] of mine comes under the prediction: there’s son against father. The [[King]] falls from bias of [[Nature|nature]]: there’s father against [[Child|child]]. We have seen the best of our [[Time|time]]. Machinations, hollowness, treachery, and all ruinous disorders follow us disquietly to our graves. Find out this [[Villain|villain]], Edmond; it shall lose thee nothing. Do it carefully. And the noble and true-hearted [[Kent]] banished, his offence honesty! ’Tis strange. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--05_monologue_edmond" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — monologue (EDMOND) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| EDMOND | This is the excellent foppery of the world: that when we are sick in fortune—often the surfeits of our own behaviour—we make guilty of our disasters the sun, the [[Moon|moon]], and [[Stars|stars]], as if we were villains on necessity, fools by heavenly compulsion, knaves, thieves, and treachers by spherical predominance, drunkards, liars, and adulterers by an enforced obedience of planetary influence, and all that we are evil in by a divine thrusting on. An admirable evasion of whore-master man, to lay his goatish disposition on the charge of a star! My father compounded with my mother under the Dragon’s tail and my nativity was under Ursa Major, so that it follows I am rough and lecherous. Fut! I should have been that I am had the maidenliest star in the firmament twinkled on my bastardizing. Enter [[Edgar]] Pat he comes, like the catastrophe of the old [[Comedy|comedy]]. My cue is villainous [[Melancholy|melancholy]], with a sigh like Tom o’ Bedlam. He reads a book —O, these eclipses do portend these divisions. Fa, so, la, mi. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--06_exchange_edgar" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2 — exchange (EDGAR) [6]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Edgar|EDGAR]] | How now, brother Edmond, what serious contemplation are you in? |
-| EDMOND | I am thinking, brother, of a prediction I read this other day, what should follow these eclipses. |
-| [[Edgar|EDGAR]] | Do you busy yourself with that? |
-| EDMOND | I promise you, the effects he writes of succeed unhappily. When saw you my father last? |
-| [[Edgar|EDGAR]] | The [[Night|night]] gone by. |
-| EDMOND | Spake you with him? |
-| [[Edgar|EDGAR]] | Ay, two hours together. |
-| EDMOND | Parted you in good terms? Found you no displeasure in him by word nor countenance? |
-| [[Edgar|EDGAR]] | None at all. |
-| EDMOND | Bethink yourself wherein you may have offended him, and at my entreaty forbear his presence until some little [[Time|time]] hath qualified the heat of his displeasure, which at this instant so rageth in him that with the mischief of your person it would scarcely allay. |
-| [[Edgar|EDGAR]] | Some [[Villain|villain]] hath done me wrong. |
-| EDMOND | That’s my [[Fear|fear]]. I pray you have a continent forbearance till the [[Speed|speed]] of his rage goes slower; and, as I say, retire with me to my lodging, from whence I will fitly bring you to hear my lord speak. Pray ye, go. There’s my key. If you do stir abroad, go armed. |
-| [[Edgar|EDGAR]] | Armed, brother? |
-| EDMOND | Brother, I advise you to the best. I am no honest man if there be any good meaning toward you. I have told you what I have seen and heard but faintly, nothing like the image and horror of it. Pray you, away. |
-| [[Edgar|EDGAR]] | Shall I hear from you anon? |
-| EDMOND | I do serve you in this business. Exit [[Edgar]] A credulous father, and a brother noble, Whose [[Nature|nature]] is so far from doing harms That he suspects none; on whose foolish honesty My practices ride easy. I see the business. Let me, if not by birth, have lands by wit. All with me’s meet that I can fashion fit. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the Earl of [[Kent]], disguised |
-| [[Kent|KENT]] | If but as [[Well|well]] I other accents borrow That can my speech diffuse, my good intent May carry through itself to that full issue For which I razed my likeness. Now, banished [[Kent]], If thou canst serve where thou dost stand condemned, So may it come thy master, whom thou lov’st, Shall find thee full of labours. Horns within. Enter [[King Lear]] and attendants from hunting |
-| LEAR | Let me not stay a jot for dinner. Go get it ready. Exit one (To [[Kent]]) How now, what art thou? |
-| [[Kent|KENT]] | A man, sir. |
-| LEAR | What dost thou profess? What wouldst thou with us? |
-| [[Kent|KENT]] | I do profess to be no less than I seem, to serve him truly that will put me in trust, to [[Love|love]] him that is honest, to converse with him that is wise and says little, to [[Fear|fear]] judgement, to fight when I cannot choose, and to eat no fish. |
-| LEAR | What art thou? |
-| [[Kent|KENT]] | A very honest-hearted fellow, and as poor as the [[King]]. |
-| LEAR | If thou be‘st as poor for a subject as he’s for a [[King|king]], thou’rt poor enough. What wouldst thou? |
-| [[Kent|KENT]] | Service. |
-| LEAR | Who wouldst thou serve? |
-| [[Kent|KENT]] | You. |
-| LEAR | Dost thou know me, fellow? |
-| [[Kent|KENT]] | No, sir, but you have that in your countenance which I would fain call master. |
-| LEAR | What’s that? |
-| [[Kent|KENT]] | Authority. |
-| LEAR | What services canst do? |
-| [[Kent|KENT]] | I can keep honest counsel, ride, run, mar a curious tale in telling it, and deliver a plain message bluntly. That which ordinary men are fit for I am qualified in; and the best of me is diligence. |
-| LEAR | How old art thou? |
-| [[Kent|KENT]] | Not so young, sir, to [[Love|love]] a woman for singing, nor so old to dote on her for anything. I have years on my back forty-eight. |
-| LEAR | Follow me. Thou shalt serve me, if I like thee no worse after dinner. I will not part from thee yet. Dinner, ho, dinner! Where’s my knave, my [[Fool|fool]]? Go you and call my [[Fool|fool]] hither. Exit one Enter Oswald the steward You, you, sirrah, where’s my daughter? |
-| OSWALD | So please you— Exit |
-| LEAR | What says the fellow there? Call the clotpoll back. Exit a knight Where’s my [[Fool|fool]]? Ho, I think the world’s asleep. Enter a Knight How now? Where’s that mongrel? |
-| KNIGHT | He says, my lord, your daughter is not [[Well|well]]. |
-| LEAR | Why came not the slave back to me when I called him? |
-| KNIGHT | Sir, he answered me in the roundest manner he would not. |
-| LEAR | A would not? |
-| KNIGHT | My lord, I know not what the matter is, but to my judgement your highness is not entertained with that ceremonious affection as you were wont. There’s a great abatement of kindness appears as [[Well|well]] in the general dependants as in the Duke himself also, and your daughter. |
-| LEAR | Ha, sayst thou so? |
-| KNIGHT | I beseech you pardon me, my lord, if I be mistaken, for my duty cannot be silent when I think your highness wronged. |
-| LEAR | Thou but rememberest me of mine own conception. I have perceived a most faint neglect of late, which I have rather blamed as mine own jealous curiosity than as a very pretence and purpose of unkindness. I will look further into’t. But where’s my [[Fool|fool]]? I have not seen him these two days. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--02_exchange_knight" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4 — exchange (KNIGHT) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| KNIGHT | Since my young lady’s going into France, sir, the [[Fool|fool]] hath much pined away. |
-| LEAR | No more of that, I have noted it [[Well|well]]. Go you and tell my daughter I would speak with her. Exit one Go you, call hither my [[Fool|fool]]. Exit one Enter Oswald the steward crossing the stage O you, sir, you, come you hither, sir, who am I, sir? OSWALD My lady’s father. |
-| LEAR | My lady’s father? My lord’s knave, you whoreson dog, you slave, you cur! |
-| OSWALD | I am none of these, my lord, I beseech your pardon. |
-| LEAR | Do you bandy looks with me, you rascal? Lear strikes him |
-| OSWALD | I’ll not be strucken, my lord. |
-| [[Kent|KENT]] | tripping him Nor tripped neither, you base football player. |
-| LEAR | (to [[Kent]]) I thank thee, fellow. Thou serv’st me, and I’ll [[Love|love]] thee. |
-| [[Kent|KENT]] | (to Oswald) Come, sir, arise, away. I’ll teach you differences. Away, away. If you will measure your lubber’s length again, tarry; but away, go to. Have you wisdom? So. Exit Oswald |
-| LEAR | Now, my friendly knave, I thank thee. Enter Lear’s [[Fool]] There’s earnest of thy service. He gives [[Kent]] money |
-| [[Fool|FOOL]] | Let me hire him, too. (To [[Kent]]) Here’s my coxcomb. |
-| LEAR | How now, my pretty knave, how dost thou? |
-| [[Fool|FOOL]] | (to [[Kent]]) Sirrah, you were best take my coxcomb. |
-| LEAR | Why, my boy? |
-| [[Fool|FOOL]] | Why? For taking one’s part that’s out of favour. (To [[Kent]]) Nay, an thou canst not smile as the [[Wind|wind]] sits, thou’lt catch cold shortly. There, take my coxcomb. Why, this fellow has banished two on’s daughters and did the third a blessing against his will. If thou follow him, thou must needs wear my coxcomb. (To Lear) How now, nuncle? Would I had two coxcombs and two daughters. |
-| LEAR | Why, my boy? |
-| [[Fool|FOOL]] | If I gave them all my living I’d keep my coxcombs myself. There’s mine; beg another off thy daughters. |
-| LEAR | Take heed, sirrah—the whip. |
-| [[Fool|FOOL]] | [[Truth]]’s a dog must to kennel. He must be whipped out when the Lady Brach may stand by th’ [[Fire|fire]] and stink. |
-| LEAR | A pestilent gall to me! |
-| [[Fool|FOOL]] | to [[Kent]] Sirrah, I’ll teach thee a speech. |
-| LEAR | Do. |
-| [[Fool|FOOL]] | Mark it, nuncle: Have more than thou showest, Speak less than thou knowest, Lend less than thou owest, Ride more than thou goest, Learn more than thou trowest, Set less than thou throwest, Leave thy drink and thy whore, And keep in-a-door, And thou shalt have more Than two tens to a score. |
-| [[Kent|KENT]] | This is nothing, [[Fool|fool]]. |
-| [[Fool|FOOL]] | Then ’tis like the breath of an unfee’d lawyer: you gave me nothing for’t. (To Lear) Can you make no use of nothing, nuncle? |
-| LEAR | Why no, boy. Nothing can be made out of nothing. |
-| [[Fool|FOOL]] | (to [[Kent]]) Prithee, tell him so much the rent of his land comes to. He will not believe a [[Fool|fool]]. |
-| LEAR | A bitter [[Fool|fool]]. |
-| [[Fool|FOOL]] | Dost know the difference, my boy, between a bitter [[Fool|fool]] and a sweet one? |
-| LEAR | No, lad. Teach me. |
-| [[Fool|FOOL]] | Nuncle, give me an egg, and I’ll give thee two crowns. |
-| LEAR | What two crowns shall they be? |
-| [[Fool|FOOL]] | Why, after I have cut the egg i‘th’ middle and eat up the meat, the two crowns of the egg. When thou clovest thy [[Crown|crown]] i’th’ middle and gavest away both parts, thou borest thine ass o‘th’ back o’er the dirt. Thou hadst little wit in thy bald [[Crown|crown]] when thou gavest thy golden one away. If I speak like myself in this, let him be whipped that first finds it so. Sings Fools had ne’er less grace in a year, For wise men are grown foppish, And know not how their wits to wear, Their manners are so apish. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--03_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4 — exchange (LEAR) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LEAR | When were you wont to be so full of [[songs]], sirrah? |
-| [[Fool|FOOL]] | I have used it, nuncle, e’er since thou madest thy daughters thy mothers; for when thou gavest them the rod and puttest down thine own breeches, Sings Then they for sudden joy did weep, And I for sorrow sung, That such a [[King|king]] should play bo-peep And go the fools among. Prithee, nuncle, keep a schoolmaster that can teach thy [[Fool|fool]] to lie. I would fain learn to lie. |
-| LEAR | An you lie, sirrah, we’ll have you whipped. |
-| [[Fool|FOOL]] | I marvel what kin thou and thy daughters are. They’ll have me whipped for speaking true, thou‘lt have me whipped for lying, and sometimes I am whipped for holding my peace. I had rather be any kind o’ thing than a [[Fool|fool]]; and yet I would not be thee, nuncle. Thou hast pared thy wit o’ both sides and left nothing i’th’ middle. Enter [[Goneril]] Here comes one o’ the parings. |
-| LEAR | How now, daughter? What makes that frontlet on? You are too much of late i’th’ frown. |
-| [[Fool|FOOL]] | Thou wast a pretty fellow when thou hadst no need to care for her frowning. Now thou art an O without a figure. I am better than thou art, now. I am a [[Fool|fool]]; thou art nothing. To [[Goneril]] Yes, forsooth, I will hold my tongue; so your face bids me, though you say nothing. Sings Mum, mum. He that keeps nor crust nor crumb, Weary of all, shall want some. That’s a shelled peascod. |
-| [[Goneril|GONERIL]] | (to Lear) Not only, sir, this your all-licensed [[Fool|fool]], But other of your insolent retinue Do hourly carp and quarrel, breaking forth In rank and not-to-be-endured riots. Sir, I had thought by making this [[Well|well]] known unto you To have found a safe redress, but now grow fearful, By what yourself too late have spoke and done, That you protect this course, and put it on By your allowance; which if you should, the fault Would not scape censure, nor the redresses [[Sleep|sleep]] Which in the tender of a wholesome weal Might in their working do you that offence, Which else were shame, that then necessity Will call discreet proceeding. |
-| [[Fool|FOOL]] | (to Lear) For, you know, nuncle, Sings The hedge-sparrow fed the cuckoo so long That it’s had it head bit off by it young; so out went the candle, and we were left darkling. |
-| LEAR | (to [[Goneril]]) Are you our daughter? |
-| [[Goneril|GONERIL]] | I would you would make use of your good wisdom, Whereof I know you are fraught, and put away These dispositions which of late transport you From what you rightly are. |
-| [[Fool|FOOL]] | May not an ass know when the cart draws the [[Horse|horse]]? Sings ‘Whoop, jug, I [[Love|love]] thee!’ |
-| LEAR | Does any here know me? This is not Lear. Does Lear walk thus, speak thus? Where are his eyes? Either his notion weakens, his discernings Are lethargied—ha, waking? ’Tis not so. Who is it that can tell me who I am? |
-| [[Fool|FOOL]] | Lear’s [[Shadow|shadow]]. |
-| LEAR | (to [[Goneril]]) Your name, fair gentlewoman? |
-| [[Goneril|GONERIL]] | This admiration, sir, is much o’th’ savour Of other your new pranks. I do beseech you To understand my purposes aright, As you are old and reverend, should be wise. Here do you keep a hundred knights and squires, Men so disordered, so debauched and bold That this our [[Court|court]], infected with their manners, Shows like a riotous inn. Epicurism and lust Makes it more like a tavern or a brothel Than a graced palace. The shame itself doth speak For instant remedy. Be then desired, By her that else will take the thing she begs, A little to disquantity your train, And the remainders that shall still depend To be such men as may besort your age, Which know themselves and you. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--04_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4 — exchange (LEAR) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LEAR | Darkness and devils! Saddle my horses, call my train together!— Exit one or more Degenerate bastard, I’ll not trouble thee. Yet have I left a daughter. |
-| [[Goneril|GONERIL]] | You strike my people, and your disordered rabble Make servants of their betters. Enter the Duke of Albany |
-| LEAR | Woe that too late repents! Is it your will? Speak, sir.—Prepare my horses. Exit one or more Ingratitude, thou marble-hearted fiend, More hideous when thou show’st thee in a [[Child|child]] Than the sea-[[Monster|monster]]— |
-| ALBANY | Pray sir, be patient. |
-| LEAR | (to [[Goneril]]) Detested kite, thou liest. My train are men of choice and rarest parts, That all particulars of duty know, And in the most exact regard support The worships of their name. O most small fault, How ugly didst thou in [[Cordelia]] show, Which, like an engine, wrenched my frame of [[Nature|nature]] From the fixed place, drew from my heart all [[Love|love]], And added to the gall! O Lear, Lear, Lear! Beat at this gate that let thy folly in And thy dear judgement out.—Go, go, my people! |
-| ALBANY | My lord, I am guiltless, as I am ignorant Of what hath moved you. |
-| LEAR | It may be so, my lord. Hear, [[Nature|nature]]; hear, dear goddess, hear: Suspend thy purpose if thou didst intend To make this creature fruitful. Into her womb convey sterility. Dry up in her the organs of increase, And from her derogate [[Body|body]] never [[spring]] A babe to [[Honour|honour]] her. If she must teem, Create her [[Child|child]] of spleen, that it may live And be a thwart disnatured torment to her. Let it stamp wrinkles in her brow of youth, With cadent [[Tears|tears]] fret channels in her cheeks, Turn all her mother’s pains and benefits To laughter and contempt, that she may feel— That she may feel How sharper than a serpent’s tooth it is To have a thankless [[Child|child]]. Away, away! Exeunt Lear, [[Kent]], and attendants |
-| ALBANY | Now, gods that we adore, whereof comes this? |
-| [[Goneril|GONERIL]] | Never afflict yourself to know more of it, But let his disposition have that scope As dotage gives it. Enter [[King Lear]] |
-| LEAR | What, fifty of my followers at a clap? Within a fortnight? |
-| ALBANY | What’s the matter, sir? |
-| LEAR | I’ll tell thee. (To [[Goneril]]) Life and [[Death|death]]! I am ashamed That thou hast power to shake my manhood thus, That these hot [[Tears|tears]], which break from me perforce, Should make thee worth them. Blasts and fogs upon thee! Th’untented woundings of a father’s curse Pierce every sense about thee! Old fond eyes, Beweep this cause again I’ll pluck ye out And cast you, with the waters that you loose, To temper clay. Ha! Let it be so. I have another daughter Who, I am sure, is kind and comfortable. When she shall hear this of thee, with her nails She’ll flay thy wolvish visage. Thou shalt find That I’ll resume the shape which thou dost think I have cast off for ever. Exit |
-| [[Goneril|GONERIL]] | Do you mark that? |
-| ALBANY | I cannot be so partial, [[Goneril]], To the great [[Love|love]] I bear you— |
-| [[Goneril|GONERIL]] | Pray you, content. What, Oswald, ho!— You, sir, more knave than [[Fool|fool]], after your master. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--05_exchange_fool" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4 — exchange (FOOL) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Fool|FOOL]] | Nuncle Lear, nuncle Lear, Tarry, take the [[Fool|fool]] with thee. A fox when one has caught her, And such a daughter, Should sure to the slaughter, If my cap would buy a halter. So, the [[Fool|fool]] follows after. Exit |
-| [[Goneril|GONERIL]] | This man hath had good counsel—a hundred knights? ’Tis politic and safe to let him keep At point a hundred knights, yes, that on every dream, Each buzz, each fancy, each complaint, dislike, He may enguard his dotage with their powers And hold our lives in [[Mercy|mercy]].—Oswald, I say! |
-| ALBANY | [[Well]], you may [[Fear|fear]] too far. |
-| [[Goneril|GONERIL]] | Safer than trust too far. Let me still take away the harms I [[Fear|fear]], Not [[Fear|fear]] still to be taken. I know his heart. What he hath uttered I have writ my sister. If she sustain him and his hundred knights When I have showed th’unfitness— Enter Oswald the steward How now, Oswald? What, have you writ that letter to my sister? |
-| OSWALD | Ay, madam. |
-| [[Goneril|GONERIL]] | Take you some company, and away to [[Horse|horse]]. Inform her full of my particular [[Fear|fear]], And thereto add such reasons of your own As may compact it more. Get you gone, And hasten your return. Exit Oswald No, no, my lord, This milky gentleness and course of yours, Though I condemn not, yet under pardon You are much more attasked for want of wisdom Than praised for harmful mildness. |
-| ALBANY | How far your eyes may pierce I cannot tell. Striving to better, oft we mar what’s [[Well|well]]. |
-| [[Goneril|GONERIL]] | Nay, then— |
-| ALBANY | [[Well]], [[Well|well]], th’event. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Edmond the bastard, and Curan, severally |
-| EDMOND | Save thee, Curan. |
-| CURAN | And you, sir. I have been with your father, and given him notice that the Duke of Cornwall and [[Regan]] his duchess will be here with him this [[Night|night]]. |
-| EDMOND | How comes that? CURAN Nay, I know not. You have heard of the news abroad?—I mean the whispered ones, for they are yet but ear-kissing arguments. |
-| EDMOND | Not I. Pray you, what are they? |
-| CURAN | Have you heard of no likely wars toward twixt the Dukes of Cornwall and Albany? |
-| EDMOND | Not a word. |
-| CURAN | You may do then in [[Time|time]]. Fare you [[Well|well]], sir. Exit |
-| EDMOND | The Duke be here tonight! The better, best. This weaves itself perforce into my business. Enter [[Edgar]] at a [[Window|window]] above My father hath set guard to take my brother, And I have one thing of a queasy question Which I must act. Briefness and fortune work!— Brother, a word, descend. Brother, I say. [[Edgar]] climbs down My father watches. O sir, fly this place. Intelligence is given where you are hid. You have now the good advantage of the [[Night|night]]. Have you not spoken ‘gainst the Duke of Cornwall? He’s coming hither, now, i’th’ [[Night|night]], i‘th’ haste, And [[Regan]] with him. Have you nothing said Upon his party ’gainst the Duke of Albany? Advise yourself. |
-| [[Edgar|EDGAR]] | I am sure on’t, not a word. |
-| EDMOND | I hear my father coming. Pardon me. In cunning I must draw my [[Sword|sword]] upon you. Draw. Seem to defend yourself. Now, quit you [[Well|well]]. (Calling) Yield, come before my father. Light ho, here! (To [[Edgar]]) Fly, brother! (Calling) Torches, torches! (To [[Edgar]]) So, farewell. Exit [[Edgar]] Some [[Blood|blood]] drawn on me would beget opinion Of my more fierce endeavour. He wounds his arm I have seen drunkards Do more than this in sport. (Calling) Father, father! Stop, stop! Ho, help! Enter the [[Duke of Gloucester]], and servants with torches |
-| [[Gloucester|GLOUCESTER]] | Now, Edmond, where’s the [[Villain|villain]]? |
-| EDMOND | Here stood he in the dark, his sharp [[Sword|sword]] out, Mumbling of wicked charms, conjuring the [[Moon|moon]] To stand ’s auspicious mistress. |
-| [[Gloucester|GLOUCESTER]] | But where is he? |
-| EDMOND | Look, sir, I bleed. |
-| [[Gloucester|GLOUCESTER]] | Where is the [[Villain|villain]], Edmond? |
-| EDMOND | Fled this way, sir, when by no means he could— |
-| [[Gloucester|GLOUCESTER]] | Pursue him, ho! Go after. Exeunt servants By no means what? |
-| EDMOND | Persuade me to the murder of your lordship, But that I told him the revenging gods ‘Gainst parricides did all the thunder bend, Spoke with how manifold and strong a bond The [[Child|child]] was bound to th’ father. Sir, in fine, Seeing how loathly opposite I stood To his unnatural purpose, in fell motion With his prepared [[Sword|sword]] he charges [[Home|home]] My unprovided [[Body|body]], latched mine arm; And when he saw my best alarumed spirits Bold in the quarrel’s right, roused to th’encounter, Or whether ghasted by the noise I made, Full suddenly he fled. |
-| [[Gloucester|GLOUCESTER]] | Let him fly far, Not in this land shall he remain uncaught, And found, dispatch. The noble Duke my master, My worthy arch and patron, comes tonight. By his authority I will proclaim it That he which finds him shall deserve our thanks, Bringing the murderous coward to the stake; He that conceals him, [[Death|death]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--02_exchange_edmond" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (EDMOND) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| EDMOND | When I dissuaded him from his intent And found him pitched to do it, with curst speech I threatened to discover him. He replied, ‘Thou unpossessing bastard, dost thou think If I would stand against thee, would the reposal Of any trust, virtue, or worth in thee Make thy words faithed? No, what I should deny— As this I would, ay, though thou didst produce My very character—I’d turn it all To thy suggestion, plot, and damned practice, And thou must make a dullard of the world If they not thought the profits of my [[Death|death]] Were very pregnant and potential spirits To make thee seek it.’ |
-| [[Gloucester|GLOUCESTER]] | O strange and fastened [[Villain|villain]]! Would he deny his letter, said he? Tucket within |
-| [[Gloucester|GLOUCESTER]] | Hark, the Duke’s trumpets. I know not why he comes. All ports I’ll bar. The [[Villain|villain]] shall not scape. The Duke must grant me that; besides, his picture I will send far and near, that all the kingdom May have due note of him—and of my land, Loyal and natural boy, I’ll work the means To make thee capable. Enter the Duke of Cornwall, [[Regan]], and attendants |
-| CORNWALL | How now, my noble friend? Since I came hither, Which I can call but now, I have heard strange news. |
-| [[Regan|REGAN]] | If it be true, all vengeance comes too short Which can pursue th’offender. How dost, my lord? |
-| [[Gloucester|GLOUCESTER]] | O madam, my old heart is cracked, it’s cracked. |
-| [[Regan|REGAN]] | What, did my father’s godson seek your life? He whom my father named, your [[Edgar]]? |
-| [[Gloucester|GLOUCESTER]] | O lady, lady, shame would have it hid! |
-| [[Regan|REGAN]] | Was he not companion with the riotous knights That tend upon my father? |
-| [[Gloucester|GLOUCESTER]] | I know not, madam. ’Tis too bad, too bad. |
-| EDMOND | Yes, madam, he was of that consort. |
-| [[Regan|REGAN]] | No marvel, then, though he were ill affected. ‘Tis they have put him on the old man’s [[Death|death]], To have th’expense and spoil of his revenues. I have this present evening from my sister Been [[Well|well]] informed of them, and with such cautions That if they come to sojourn at my [[house]] I’ll not be there. |
-| CORNWALL | Nor I, assure thee, [[Regan]]. Edmond, I hear that you have shown your father A childlike office. |
-| EDMOND | It was my duty, sir. [[Gloucester|GLOUCESTER]] (to Cornwall) He did bewray his practice, and received This hurt you see striving to apprehend him. |
-| CORNWALL | Is he pursued? |
-| [[Gloucester|GLOUCESTER]] | Ay, my good lord. |
-| CORNWALL | If he be taken, he shall never more Be feared of doing harm. Make your own purpose How in my strength you please. For you, Edmond, Whose virtue and obedience doth this instant So much commend itself, you shall be ours. Natures of such deep trust we shall much need. You we first seize on. |
-| EDMOND | I shall serve you, sir, Truly, however else. |
-| [[Gloucester|GLOUCESTER]] | (to Cornwall) For him I thank your grace. |
-| CORNWALL | You know not why we came to visit you— |
-| [[Regan|REGAN]] | Thus out of season, threading dark-eyed [[Night|night]]— Occasions, noble [[Gloucester]], of some poise, Wherein we must have use of your advice. Our father he hath writ, so hath our sister, Of differences which I least thought it fit To answer from our [[Home|home]]. The several messengers From hence attend dispatch. Our good old friend, Lay comforts to your bosom, and bestow Your needful counsel to our businesses, Which craves the instant use. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--03_exchange_gloucester_i" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (GLOUCESTER I) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Gloucester|GLOUCESTER]] | I serve you, madam. Your graces are right welcome. Flourish. Exeunt |
-| [[Gloucester|GLOUCESTER]] | 2.2 Enter the Earl of [[Kent]], disguised, and Oswald the steward, severally |
-| OSWALD | Good dawning to thee, friend. Art of this [[house]]? [[Kent|KENT]] Ay. |
-| OSWALD | Where may we set our horses? |
-| [[Kent|KENT]] | I’th’ mire. |
-| OSWALD | Prithee, if thou lov’st me, tell me. 5 [[Kent|KENT]] I [[Love|love]] thee not. |
-| OSWALD | Why then, I care not for thee. |
-| [[Kent|KENT]] | If I had thee in Lipsbury pinfold I would make thee care for me. |
-| OSWALD | Why dost thou use me thus? I know thee not. |
-| [[Kent|KENT]] | Fellow, I know thee. |
-| OSWALD | What dost thou know me for? |
-| [[Kent|KENT]] | A knave, a rascal, an eater of broken meats, a base, proud, shallow, beggarly, three-suited, hundred-pound, filthy worsted-stocking knave; a lily-livered, action-taking, whoreson, glass-gazing, super-serviceable, finical rogue; one-trunk-inheriting slave; one that wouldst be a bawd in way of good service, and art nothing but the composition of a knave, beggar, coward, pander, and the son and heir of a mongrel bitch, one whom I will beat into clamorous whining if thou deniest the least syllable of thy addition. |
-| OSWALD | Why, what a monstrous fellow art thou, thus to rail on one that is neither known of thee nor knows thee! |
-| [[Kent|KENT]] | What a brazen-faced varlet art thou, to deny thou knowest me! Is it two days since I tripped up thy heels and beat thee before the [[King]]? Draw, you rogue; for though it be [[Night|night]], yet the [[Moon|moon]] shines. He draws his [[Sword|sword]] I’ll make a sop o’th’ moonshine of you, you whoreson, cullionly barber-monger, draw! |
-| OSWALD | Away. I have nothing to do with thee. |
-| [[Kent|KENT]] | Draw, you rascal. You come with letters against the [[King]], and take [[Vanity]] the puppet’s part against the royalty of her father. Draw, you rogue, or I’ll so carbonado your shanks—draw, you rascal, come your ways! |
-| OSWALD | Help, ho, murder, help! |
-| [[Kent|KENT]] | Strike, you slave! Stand, rogue! Stand, you neat slave, strike! 40 |
-| OSWALD | Help, ho, murder, murder! Enter Edmond the bastard, then the Duke of |
-| OSWALD | Cornwall, [[Regan]], the [[Duke of Gloucester]], and |
-| OSWALD | servants |
-| EDMOND | How now, what’s the matter? Part. |
-| [[Kent|KENT]] | With you, goodman boy. If you please, come, I’ll flesh ye. Come on, young master. |
-| [[Gloucester|GLOUCESTER]] | Weapons? Arms? What’s the matter here? |
-| CORNWALL | Keep peace, upon your lives. He dies that strikes again. What is the matter? |
-| [[Regan|REGAN]] | The messengers from our sister and the [[King]]. CORNWALL (to [[Kent]] and Oswald) What is your difference? Speak. |
-| OSWALD | I am scarce in breath, my lord. |
-| [[Kent|KENT]] | No marvel, you have so bestirred your valour, you cowardly rascal. [[Nature]] disclaims in thee; a tailor made thee. |
-| CORNWALL | Thou art a strange fellow—a tailor make a man? |
-| [[Kent|KENT]] | A tailor, sir. A stone-cutter or a painter could not have made him so ill though they had been but two years o’th’ trade. |
-| CORNWALL | Speak yet; how grew your quarrel? |
-| OSWALD | This ancient ruffian, sir, whose life I have spared at suit of his grey beard— |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--04_exchange_kent" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (KENT) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Kent|KENT]] | Thou whoreson Z, thou unnecessary letter—(to Cornwall) my lord, if you’ll give me leave I will tread this unbolted [[Villain|villain]] into mortar and daub the wall of a jakes with him. (To Oswald) Spare my grey beard, you wagtail? |
-| CORNWALL | Peace, sirrah. You beastly knave, know you no reverence? |
-| [[Kent|KENT]] | Yes, sir, but anger hath a privilege. |
-| CORNWALL | Why art thou angry? |
-| [[Kent|KENT]] | That such a slave as this should wear a [[Sword|sword]], Who wears no honesty. Such smiling rogues as these, Like rats, oft bite the holy cords a-twain Which are too intrince t’unloose, smooth every passion That in the natures of their lords [[Rebel|rebel]]; Being oil to [[Fire|fire]], [[Snow|snow]] to the colder moods, Renege, affirm, and turn their halcyon beaks With every gall and vary of their masters, Knowing naught, like [[dogs]], but following. To Oswald A plague upon your epileptic visage! Smile you my speeches as I were a [[Fool|fool]]? Goose, an I had you upon Sarum Plain I’d drive ye cackling [[Home|home]] to Camelot. |
-| CORNWALL | What, art thou mad, old fellow? |
-| [[Gloucester|GLOUCESTER]] | to [[Kent]] How fell you out? Say that. |
-| [[Kent|KENT]] | No contraries hold more antipathy Than I and such a knave. |
-| CORNWALL | Why dost thou call him knave? What is his fault? |
-| [[Kent|KENT]] | His countenance likes me not. |
-| CORNWALL | No more perchance does mine, nor his, nor hers. |
-| [[Kent|KENT]] | Sir, ’tis my occupation to be plain: I have seen better faces in my [[Time|time]] Than stands on any shoulder that I see Before me at this instant. |
-| CORNWALL | This is some fellow Who, having been praised for bluntness, doth affect A saucy roughness, and constrains the garb Quite from his [[Nature|nature]]. He cannot flatter, he; An honest mind and plain, he must speak [[Truth|truth]]. An they will take’t, so; if not, he’s plain. These kind of knaves I know, which in this plainness Harbour more craft and more corrupter ends Than twenty silly-ducking observants That stretch their duties nicely. |
-| [[Kent|KENT]] | Sir, in good [[Faith|faith]], in sincere verity, Under th‘allowance of your great aspect, Whose influence, like the wreath of radiant [[Fire|fire]] On flick’ring Phoebus’ front— |
-| CORNWALL | What mean’st by this? |
-| [[Kent|KENT]] | To go out of my dialect, which you discommend so much. I know, sir, I am no flatterer. He that beguiled you in a plain accent was a plain knave, which for my part I will not be, though I should win your displeasure to entreat me to’t. |
-| CORNWALL | (to Oswald) What was th’offence you gave him? |
-| OSWALD | I never gave him any. It pleased the [[King]] his master very late To strike at me upon his misconstruction, When he, compact, and flattering his displeasure, Tripped me behind; being down, insulted, railed, And put upon him such a deal of man That worthied him, got praises of the [[King]] For him attempting who was [[Self|self]]-subdued, And in the fleshment of this dread exploit Drew on me here again. |
-| [[Kent|KENT]] | None of these rogues and cowards But [[Ajax]] is their [[Fool|fool]]. |
-| CORNWALL | Fetch forth the stocks! Exeunt some servants You stubborn, ancient knave, you reverend braggart, We’ll teach you. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--05_exchange_kent" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (KENT) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Kent|KENT]] | Sir, I am too old to learn. Call not your stocks for me. I serve the [[King]], On whose employment I was sent to you. You shall do small respect, show too bold malice Against the grace and person of my master, Stocking his messenger. |
-| CORNWALL | calling Fetch forth the stocks!— As I have life and [[Honour|honour]], there shall he sit till [[Noon|noon]]. |
-| [[Regan|REGAN]] | Till [[Noon|noon]]?—till [[Night|night]], my lord, and all [[Night|night]] too. |
-| [[Kent|KENT]] | Why, madam, if I were your father’s dog You should not use me so. |
-| [[Regan|REGAN]] | Sir, being his knave, I will. Stocks brought out |
-| CORNWALL | This is a fellow of the selfsame colour Our sister speaks of.—Come, bring away the stocks. |
-| [[Gloucester|GLOUCESTER]] | Let me beseech your grace not to do so. The [[King]] his master needs must take it ill That he, so slightly valued in his messenger, Should have him thus restrained. |
-| CORNWALL | I’ll answer that. Theg put [[Kent]] in the stocks |
-| [[Regan|REGAN]] | My sister may receive it much more worse To have her gentlemen abused, assaulted. |
-| CORNWALL | Come, my good lord, away! Exeunt all but [[Gloucester]] and [[Kent]] |
-| [[Gloucester|GLOUCESTER]] | I am sorry for thee, friend. ’Tis the Duke’s pleasure, Whose disposition, all the world [[Well|well]] knows, Will not be rubbed nor stopped. I’ll entreat for thee. |
-| [[Kent|KENT]] | Pray do not, sir. I have watched and travelled hard. Some [[Time|time]] I shall [[Sleep|sleep]] out; the rest I’ll whistle. A good man’s fortune may grow out at heels. Give you good morrow. |
-| [[Gloucester|GLOUCESTER]] | The Duke’s to blame in this; ’twill be ill taken. Exit |
-| [[Kent|KENT]] | Good [[King]], that must approve the common say: Thou out of heaven’s benediction com’st To the warm sun. He takes out a letter Approach, thou beacon to this under globe, That by thy comfortable beams I may Peruse this letter. Nothing almost sees miracles But misery. I know ‘tis from [[Cordelia]], Who hath now fortunately been informed Of my obscured course, and shall find [[Time|time]] For this enormous state, seeking to give Losses their remedies. All weary and o’erwatched, Take vantage, heavy eyes, not to behold This shameful lodging. Fortune, good [[Night|night]]; Smile once more; turn thy [[Wheel|wheel]]. He sleeps Enter [[Edgar]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--06_monologue_edgar" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — monologue (EDGAR) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Edgar|EDGAR]] | I heard myself proclaimed, And by the happy hollow of a tree Escaped the hunt. No port is free, no place That guard and most unusual vigilance Does not attend my taking. Whiles I may scape I will preserve myself, and am bethought To take the basest and most poorest shape That ever penury in contempt of man Brought near to beast. My face I’ll grime with filth, Blanket my loins, elf all my hairs in knots, And with presented [[Nakedness|nakedness]] outface The winds and persecutions of the sky. The country gives me proof and precedent Of Bedlam beggars who with roaring voices Strike in their numbed and mortified arms Pins, wooden pricks, nails, sprigs of rosemary, And with this horrible object from low farms, Poor pelting villages, sheep-cotes and mills Sometime with lunatic bans, sometime with prayers Enforce their [[Charity|charity]]. ‘Poor Tuelygod, Poor Tom.’ That’s something yet. [[Edgar]] I nothing am. Exit Enter [[King Lear]], his [[Fool]], and the First Gentleman |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--07_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (LEAR) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LEAR | ’Tis strange that they should so depart from [[Home|home]] And not send back my messenger. FIRST GENTLEMAN As I learned, The [[Night|night]] before there was no purpose in them Of this remove. |
-| [[Kent|KENT]] | (waking) Hail to thee, noble master. |
-| LEAR | Ha! Mak’st thou this shame thy pastime? |
-| [[Kent|KENT]] | No, my lord. |
-| [[Fool|FOOL]] | Ha, ha, he wears cruel garters! Horses are tied by the heads, [[dogs]] and bears by th’ neck, monkeys by th’ loins, and men by th’ legs. When a man’s overlusty at legs, then he wears wooden nether-stocks. |
-| LEAR | (to [[Kent]]) What’s he that hath so much thy place mistook To set thee here? |
-| [[Kent|KENT]] | It is both he and she: Your son and daughter. |
-| LEAR | By Jupiter, I swear no. |
-| [[Kent|KENT]] | By Juno, I swear ay. |
-| LEAR | They durst not do’t, They could not, would not do’t. ’Tis worse than murder, To do upon respect such violent outrage. Resolve me with all modest haste which way Thou mightst deserve or they impose this usage, Coming from us. |
-| [[Kent|KENT]] | My lord, when at their [[Home|home]] I did commend your highness’ letters to them, Ere I was risen from the place that showed My duty kneeling, came there a reeking post Stewed in his haste, half breathless, painting forth From [[Goneril]], his mistress, salutations, Delivered letters spite of intermission, Which presently they read, on whose contents 210 They summoned up their meiny, straight took [[Horse|horse]], Commanded me to follow and attend The leisure of their answer, gave me cold looks; And meeting here the other messenger, Whose welcome I perceived had poisoned mine— Being the very fellow which of late Displayed so saucily against your highness— Having more man than wit about me, drew. He raised the [[house]] with loud and coward cries. Your son and daughter found this trespass worth The shame which here it suffers. |
-| [[Fool|FOOL]] | [[Winter]]’s not gone yet if the wild geese fly that way. Sings Fathers that wear rags Do make their children blind, But fathers that bear bags Shall see their children kind. Fortune, that arrant whore, Ne’er turns the key to th’ poor. But for all this thou shalt have as many dolours for thy daughters as thou canst tell in a year. |
-| LEAR | O, how this mother swells up toward my heart! Histerica passio down, thou climbing sorrow; Thy element’s below.—Where is this daughter? |
-| [[Kent|KENT]] | With the Earl, sir, here within. |
-| LEAR | Follow me not; stay here. Exit FIRST GENTLEMAN (to [[Kent]]) Made you no more offence but what you speak of? |
-| [[Kent|KENT]] | None. How chance the [[King]] comes with so small a number? |
-| [[Fool|FOOL]] | An thou hadst been set i’th’ stocks for that question, thou’dst [[Well|well]] deserved it. |
-| [[Kent|KENT]] | Why, [[Fool]]? |
-| [[Fool|FOOL]] | We’ll set thee to school to an ant, to teach thee there’s no labouring i’th’ [[Winter|winter]]. All that follow their noses are led by their eyes but blind men, and there’s not a nose among twenty but can smell him that’s stinking. Let go thy hold when a great [[Wheel|wheel]] runs down a [[Hill|hill]], lest it break thy neck with following; but the great one that goes upward, let him draw thee after. When a wise man gives thee better counsel, give me mine again. I would have none but knaves follow it, since a [[Fool|fool]] gives it. Sings That sir which serves and seeks for gain And follows but for form, Will pack when it begin to rain, And leave thee in the [[Storm|storm]]. But I will tarry, the [[Fool|fool]] will stay, And let the wise man fly. The knave turns [[Fool|fool]] that runs away, The [[Fool|fool]] no knave, pardie. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--08_exchange_kent" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (KENT) [8]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Kent|KENT]] | Where learned you this, [[Fool]]? |
-| [[Fool|FOOL]] | Not i’th’ stocks, [[Fool|fool]]. Enter [[King Lear]] and the [[Duke of Gloucester]] |
-| LEAR | Deny to speak with me? They are sick, they are weary, They have travelled all the [[Night|night]]?—mere fetches, The images of revolt and flying off. Fetch me a better answer. |
-| [[Gloucester|GLOUCESTER]] | My dear lord, You know the fiery quality of the Duke, How unremovable and fixed he is In his own course. |
-| LEAR | Vengeance, plague, [[Death|death]], confusion! ‘Fiery’? What ‘quality’? Why, [[Gloucester]], [[Gloucester]], I’d speak with the Duke of Cornwall and his wife. |
-| [[Gloucester|GLOUCESTER]] | [[Well]], my good lord, I have informed them so. |
-| LEAR | ‘Informed them’? Dost thou understand me, man? |
-| [[Gloucester|GLOUCESTER]] | Ay, my good lord. |
-| LEAR | The [[King]] would speak with Cornwall; the dear father Would with his daughter speak, commands, tends service. Are they ‘informed’ of this? My breath and [[Blood|blood]]— ‘Fiery’? The ‘fiery’ Duke—tell the hot Duke that— No, but not yet. Maybe he is not [[Well|well]]. Infirmity doth still neglect all office Whereto our health is bound. We are not ourselves When [[Nature|nature]], being oppressed, commands the mind To suffer with the [[Body|body]]. I’ll forbear, And am fallen out with my more headier will, To take the indisposed and sickly fit For the sound man.—[[Death]] on my state, wherefore Should he sit here? This act persuades me That this remotion of the Duke and her Is practice only. Give me my servant forth. Go tell the Duke and’s wife I’d speak with them, Now, presently. Bid them come forth and hear me, Or at their chamber door I’ll beat the drum Till it cry [[Sleep|sleep]] to [[Death|death]]. |
-| [[Gloucester|GLOUCESTER]] | I would have all [[Well|well]] betwixt you. Exit |
-| LEAR | O me, my heart! My rising heart! But down. |
-| [[Fool|FOOL]] | Cry to it, nuncle, as the cockney did to the eels when she put ‘em i’th’ paste alive. She knapped ‘em o’th’ coxcombs with a stick, and cried ‘Down, wantons, down!’ ’Twas her brother that, in pure kindness to his [[Horse|horse]], buttered his hay. Enter the Duke of Cornwall, [[Regan]], the [[Duke of Gloucester]], and servants |
-| LEAR | Good morrow to you both. |
-| CORNWALL | Hail to your grace. [[Kent]] here set at liberty |
-| [[Regan|REGAN]] | I am glad to see your highness. |
-| LEAR | [[Regan]], I think you are. I know what reason I have to think so. If thou shouldst not be glad I would [[divorce]] me from thy mother’s shrine, Sepulchring an adultress. (To [[Kent]]) O, are you free? Some other [[Time|time]] for that. Exit [[Kent]] Beloved [[Regan]], Thy sister’s naught. O, [[Regan]], she hath tied Sharp-toothed unkindness like a vulture here. I can scarce speak to thee. Thou’lt not believe With how depraved a quality-O, [[Regan]]! |
-| [[Regan|REGAN]] | I pray you, sir, take patience. I have [[Hope|hope]] You less know how to value her [[Desert|desert]] Than she to scant her duty. |
-| LEAR | Say, how is that? |
-| [[Regan|REGAN]] | I cannot think my sister in the least Would fail her obligation. If, sir, perchance She have restrained the riots of your followers, ’Tis on such ground and to such wholesome end As clears her from all blame. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--09_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (LEAR) [9]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LEAR | My curses on her. |
-| [[Regan|REGAN]] | O sir, you are old. [[Nature]] in you stands on the very verge Of his confine. You should be ruled and led By some discretion that discerns your state Better than you yourself. Therefore I pray you That to our sister you do make return; Say you have wronged her. |
-| LEAR | Ask her [[Forgiveness|forgiveness]]? Do you but mark how this becomes the [[house]]? Kneehng ‘Dear daughter, I confess that I am old. Age is unnecessary. On my knees I beg That you’ll vouchsafe me raiment, bed, and food.’ |
-| [[Regan|REGAN]] | Good sir, no more. These are unsightly tricks. Return you to my sister. |
-| LEAR | rising Never, [[Regan]]. She hath abated me of half my train, Looked black upon me, struck me with her tongue Most serpent-like upon the very heart. All the stored vengeances of heaven fall On her ingrateful top! Strike her young bones, You taking airs, with lameness! |
-| CORNWALL | Fie, sir, fie. |
-| LEAR | You nimble lightnings, dart your blinding flames Into her scornful eyes. Infect her [[Beauty|beauty]], You fen-sucked fogs drawn by the pow’rful sun To fall and blister. |
-| [[Regan|REGAN]] | O, the blest gods! So will you wish on me when the rash mood is on. |
-| LEAR | No, [[Regan]]. Thou shalt never have my curse. Thy tender-hafted [[Nature|nature]] shall not give Thee o‘er to harshness. Her eyes are fierce, but thine Do comfort and not burn. ’Tis not in thee To grudge my pleasures, to cut off my train, To bandy hasty words, to scant my sizes, And, in conclusion, to oppose the bolt Against my coming in. Thou better know‘st The offices of [[Nature|nature]], bond of [[Childhood|childhood]], Effects of courtesy, dues of gratitude. Thy half o’th’ kingdom hast thou not forgot, Wherein I thee endowed. |
-| [[Regan|REGAN]] | Good sir, to th’ purpose. |
-| LEAR | Who put my man i’th’ stocks? Tucket within |
-| CORNWALL | What trumpet’s that? Enter Oswald the steward |
-| [[Regan|REGAN]] | I know’t, my sister’s. This approves her letter That she would soon be here. (To Oswald) Is your lady come? |
-| LEAR | This is a slave whose easy-borrowed [[Pride|pride]] Dwells in the sickly grace of her a follows. (To Oswald) Out, varlet, from my sight! |
-| CORNWALL | What means your grace? Enter [[Goneril]] |
-| LEAR | Who stocked my servant? [[Regan]], I have good [[Hope|hope]] Thou didst not know on’t. Who comes here? O heavens, If you do [[Love|love]] old men, if your sweet sway Allow obedience, if you yourselves are old, Make it your cause! Send down and take my part. (To [[Goneril]]) Art not ashamed to look upon this beard? O [[Regan]], will you take her by the hand? |
-| [[Goneril|GONERIL]] | Why not by th’ hand, sir? How have I offended? All’s not offence that indiscretion finds And dotage terms so. |
-| LEAR | O sides, you are too tough! Will you yet hold?—How came my man i’th’ stocks? |
-| CORNWALL | I set him there, sir; but his own disorders Deserved much less advancement. |
-| LEAR | You? Did you? |
-| [[Regan|REGAN]] | I pray you, father, being weak, seem so. If till the expiration of your month You will return and sojourn with my sister, Dismissing half your train, come then to me. I am now from [[Home|home]], and out of that provision Which shall be needful for your entertainment. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--10_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (LEAR) [10]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LEAR | Return to her, and fifty men dismissed? No, rather I abjure all roofs, and choose To be a comrade with the wolf and owl, To wage against the enmity o’th’ air Necessity’s sharp pinch. Return with her? Why, the hot-blooded France, that dowerless took Our youngest born—I could as [[Well|well]] be brought To knee his throne and, squire-like, pension beg To keep base life afoot. Return with her? Persuade me rather to be slave and sumpter To this detested groom. |
-| [[Goneril|GONERIL]] | At your choice, sir. |
-| LEAR | I prithee, daughter, do not make me mad. I will not trouble thee, my [[Child|child]]. Farewell. We’ll no more meet, no more see one another. But yet thou art my flesh, my [[Blood|blood]], my daughter— Or rather a disease that’s in my flesh, Which I must needs call mine. Thou art a boil, A plague-sore or embossed carbuncle In my corrupted [[Blood|blood]]. But I’ll not chide thee. Let shame come when it will, I do not call it. I do not bid the thunder-bearer shoot, Nor tell tales of thee to high-judging Jove. Mend when thou canst; be better at thy leisure. I can be patient, I can stay with [[Regan]], I and my hundred knights. |
-| [[Regan|REGAN]] | Not altogether so. I looked not for you yet, nor am provided For your fit welcome. Give ear, sir, to my sister; For those that mingle reason with your passion Must be content to think you old, and so— But she knows what she does. |
-| LEAR | Is this [[Well|well]] spoken? |
-| [[Regan|REGAN]] | I dare avouch it, sir. What, fifty followers? Is it not [[Well|well]]? What should you need of more, Yea, or so many, sith that both charge and danger Speak ‘gainst so great a number? How in one [[house]] Should many people under two commands Hold amity? ’Tis hard, almost impossible. |
-| [[Goneril|GONERIL]] | Why might not you, my lord, receive attendance From those that she calls servants, or from mine? |
-| [[Regan|REGAN]] | Why not, my lord? If then they chanced to slack ye, We could control them. If you will come to me— For now I spy a danger—I entreat you To bring but five-and-twenty; to no more Will I give place or notice. |
-| LEAR | I gave you all. |
-| [[Regan|REGAN]] | And in good [[Time|time]] you gave it. |
-| LEAR | Made you my guardians, my depositaries, But kept a reservation to be followed With such a number. What, must I come to you With five-and-twenty? [[Regan]], said you so? |
-| [[Regan|REGAN]] | And speak’t again, my lord. No more with me. |
-| LEAR | Those wicked creatures yet do look [[Well|well]] favoured When others are more wicked. Not being the worst Stands in some rank of praise. (To [[Goneril]]) I’ll go with thee. Thy fifty yet doth [[Double|double]] five-and-twenty, And thou art twice her [[Love|love]]. |
-| [[Goneril|GONERIL]] | Hear me, my lord. What need you five-and-twenty, ten, or five, To follow in a [[house]] where twice so many Have a command to tend you? |
-| [[Regan|REGAN]] | What need one? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--11_monologue_lear" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — monologue (LEAR) [11]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LEAR | O, reason not the need! Our basest beggars Are in the poorest thing superfluous. Allow not [[Nature|nature]] more than [[Nature|nature]] needs, Man’s life is cheap as beast’s. Thou art a lady. If only to go warm were gorgeous, Why, [[Nature|nature]] needs not what thou, gorgeous, wear’st, Which scarcely keeps thee warm. But for true need— You heavens, give me that patience, patience I need. You see me here, you gods, a poor old man, As full of grief as age, wretched in both. If it be you that stirs these daughters’ hearts Against their father, [[Fool|fool]] me not so much To bear it tamely. Touch me with noble anger, And let not women’s weapons, [[Water|water]]-drops, Stain my man’s cheeks. No, you unnatural hags, I will have such revenges on you both That all the world shall—I will do such things— What they are, yet I know not; but they shall be The terrors of the earth. You think I’ll weep. No, I’ll not weep. I have full cause of weeping, [[Storm]] and tempest But this heart shall break into a hundred thousand flaws Or ere I’ll weep.—O [[Fool]], I shall go mad! Exeunt Lear, [[Fool]], Gentleman, and [[Gloucester]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--12_exchange_cornwall" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (CORNWALL) [12]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CORNWALL | Let us withdraw. ’Twill be a [[Storm|storm]]. |
-| [[Regan|REGAN]] | This [[house]] is little. The old man and ’s people Cannot be [[Well|well]] bestowed. |
-| [[Goneril|GONERIL]] | ’Tis his own blame; Hath put himself from rest, and must needs taste his folly. |
-| [[Regan|REGAN]] | For his particular I’ll receive him gladly, But not one follower. |
-| [[Goneril|GONERIL]] | So am I purposed. Where is my lord of [[Gloucester]]? |
-| CORNWALL | Followed the old man forth. Enter the [[Duke of Gloucester]] He is returned. |
-| [[Gloucester|GLOUCESTER]] | The [[King]] is in high rage. |
-| CORNWALL | Whither is he going? |
-| [[Gloucester|GLOUCESTER]] | He calls to [[Horse|horse]], but will I know not whither. |
-| CORNWALL | ’Tis best to give him way. He leads himself. |
-| [[Goneril|GONERIL]] | (to [[Gloucester]]) My lord, entreat him by no means to stay. |
-| [[Gloucester|GLOUCESTER]] | Alack, the [[Night|night]] comes on, and the high winds Do sorely ruffle. For many miles about There’s scarce a bush. |
-| [[Regan|REGAN]] | O sir, to wilful men The injuries that they themselves procure Must be their schoolmasters. Shut up your doors. He is attended with a desperate train, And what they may incense him to, being apt To have his ear abused, wisdom bids [[Fear|fear]]. |
-| CORNWALL | Shut up your doors, my lord. ‘Tis a wild [[Night|night]]. My [[Regan]] counsels [[Well|well]]. Come out o’th’ [[Storm|storm]]. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[King Lear]], the Earl of [[Kent]] disguised, and Lear’s [[Fool]] |
-| [[Kent|KENT]] | Here is the place, my lord. Good my lord, enter. The tyranny of the open [[Night|night]]’s too rough For [[Nature|nature]] to endure. [[Storm]] still |
-| LEAR | Let me [[Alone|alone]]. |
-| [[Kent|KENT]] | Good my lord, enter here. |
-| LEAR | Wilt break my heart? |
-| [[Kent|KENT]] | I had rather break mine own. Good my lord, enter. |
-| LEAR | Thou think‘st ’tis much that this contentious [[Storm|storm]] Invades us to the skin. So ‘tis to thee; But where the greater malady is fixed, The lesser is scarce felt. Thou’dst shun a bear, But if thy flight lay toward the roaring sea Thou‘dst meet the bear i’th’ mouth. When the mind’s free, The [[Body|body]]’s delicate. This tempest in my mind Doth from my senses take all feeling else Save what beats there: filial ingratitude. Is it not as this mouth should tear this hand For lifting food to’t? But I will punish [[Home|home]]. No, I will weep no more.—In such a [[Night|night]] To shut me out? Pour on, I will endure. In such a [[Night|night]] as this! O [[Regan]], [[Goneril]], Your old kind father, whose frank heart gave all— O, that way [[Madness|madness]] lies. Let me shun that. No more of that. |
-| [[Kent|KENT]] | Good my lord, enter here. |
-| LEAR | Prithee, go in thyself. Seek thine own ease. This tempest will not give me leave to ponder On things would hurt me more; but I’ll go in. (To [[Fool]]) In, boy; go first. Kneeling You houseless [[Poverty|poverty]]— Nay, get thee in. I’ll pray, and then I’ll [[Sleep|sleep]]. Exit [[Fool]] Poor naked wretches, wheresoe‘er you are, That bide the pelting of this pitiless [[Storm|storm]], How shall your houseless heads and unfed sides, Your looped and windowed raggedness, defend you From [[Seasons|seasons]] such as these? O, I have ta’en Too little care of this. Take physic, pomp, Expose thyself to feel what wretches feel, That thou mayst shake the superflux to them And show the heavens more just. Enter Lear’s [[Fool]], and [[Edgar]] as a Bedlam beggar in the hovel |
-| [[Edgar|EDGAR]] | Fathom and half! Fathom and half! Poor Tom! |
-| [[Fool|FOOL]] | Come not in here, nuncle. Here’s a spirit. Help me, help me! |
-| [[Kent|KENT]] | Give me thy hand. Who’s there? [[Fool|FOOL]] A spirit, a spirit. He says his name’s Poor Tom. |
-| [[Kent|KENT]] | What art thou that dost grumble there i’th’ straw? Come forth. [[Edgar]] comes forth |
-| [[Edgar|EDGAR]] | Away, the foul fiend follows me. Thorough the sharp hawthorn blow the winds. Hm! Go to thy cold bed and warm thee. |
-| LEAR | Didst thou give all to thy two daughters, And art thou come to this? |
-| [[Edgar|EDGAR]] | Who gives anything to Poor Tom, whom the foul fiend hath led through [[Fire|fire]] and through flame, through ford and whirlpool, o’er bog and quagmire; that hath laid knives under his pillow and halters in his pew, set ratsbane by his porridge, made him proud of heart to ride on a bay trotting-[[Horse|horse]] over four-inched bridges, to course his own [[Shadow|shadow]] for a traitor. Bless thy five wits, Tom’s a-cold! O, do, de, do, de, do de. Bless thee from whirlwinds, star-blasting, and taking. Do Poor Tom some [[Charity|charity]], whom the foul fiend vexes. There could I have him now, and there, and there again, and there. [[Storm]] still |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--02_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 4 — exchange (LEAR) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LEAR | Has his daughters brought him to this pass? (To [[Edgar]]) Couldst thou save nothing? Wouldst thou give ’em all? |
-| [[Fool|FOOL]] | Nay, he reserved a blanket, else we had been all shamed. |
-| LEAR | (to [[Edgar]]) Now all the plagues that in the pendulous air Hang fated o’er men’s faults light on thy daughters! |
-| [[Kent|KENT]] | He hath no daughters, sir. |
-| LEAR | [[Death]], traitor! Nothing could have subdued [[Nature|nature]] To such a lowness but his unkind daughters. (To [[Edgar]]) Is it the fashion that discarded fathers Should have thus little [[Mercy|mercy]] on their flesh? Judicious punishment: ’twas this flesh begot Those pelican daughters. |
-| [[Edgar|EDGAR]] | Pillicock sat on Pillicock [[Hill]]; alow, alow, loo, loo. |
-| [[Fool|FOOL]] | This cold [[Night|night]] will turn us all to fools and madmen. |
-| [[Edgar|EDGAR]] | Take heed o’th’ foul fiend; obey thy parents; keep thy words’ justice; swear not; commit not with man’s sworn spouse; set not thy sweet heart on proud array. Tom’s a-cold. |
-| LEAR | What hast thou been? |
-| [[Edgar|EDGAR]] | A servingman, proud in heart and mind, that curled my hair, wore gloves in my cap, served the lust of my mistress’ heart, and did the act of darkness with her; swore as many oaths as I spake words, and broke them in the sweet face of heaven; one that slept in the contriving of lust, and waked to do it. Wine loved I deeply, dice dearly, and in woman out-paramoured the Turk. False of heart, light of ear, bloody of hand; hog in sloth, fox in stealth, wolf in greediness, dog in [[Madness|madness]], [[Lion|lion]] in prey. Let not the creaking of shoes nor the rustling of silks betray thy poor heart to woman. Keep thy foot out of brothels, thy hand out of plackets, thy pen from lenders’ books, and defy the foul fiend. Still through the hawthorn blows the cold [[Wind|wind]], says suum, mun, nonny. [[Dauphin]], my boy! Boy, cessez; let him trot by. [[Storm]] still |
-| LEAR | Thou wert better in a [[Grave|grave]] than to answer with thy uncovered [[Body|body]] this extremity of the skies. Is man no. more than this? Consider him [[Well|well]]. Thou owest the worm no silk, the beast no hide, the sheep no wool, the cat no perfume. Ha, here’s three on ’s are sophisticated; thou art the thing itself. Unaccommodated man is no more but such a poor, bare, forked animal as thou art. Off, off, you lendings! Come, unbutton here. Enter the [[Duke of Gloucester]] with a torch |
-| [[Fool|FOOL]] | Prithee, nuncle, be contented. ’Tis a naughty [[Night|night]] to swim in. Now a little [[Fire|fire]] in a wild field were like an old lecher’s heart—a small spark, all the rest on ’s [[Body|body]] cold. Look, here comes a walking [[Fire|fire]]. |
-| [[Edgar|EDGAR]] | This is the foul fiend Flibbertigibbet. He begins at curfew and walks till the first cock. He gives the web and the pin, squints the eye, and makes the harelip; mildews the white wheat, and hurts the poor creature of earth. Sings Swithin footed thrice the wold, A met the [[Night|night]] mare and her nine foal, Bid her alight And her troth plight, And aroint thee, [[Witch|witch]], aroint thee! |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--03_exchange_kent" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 4 — exchange (KENT) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Kent|KENT]] | (to Lear) How fares your grace? |
-| LEAR | What’s he? |
-| [[Kent|KENT]] | (to [[Gloucester]]) Who’s there? What is’t you seek? |
-| [[Gloucester|GLOUCESTER]] | What are you there? Your names? |
-| [[Edgar|EDGAR]] | Poor Tom, that eats the swimming frog, the toad, the tadpole, the wall-newt and the [[Water|water]]; that in the fury of his heart, when the foul fiend rages, eats cowdung for salads, swallows the old rat and the ditch-dog, drinks the green mantle of the standing pool; who is whipped from tithing to tithing, and stocked, punished, and imprisoned; who hath had three suits to his back, six shirts to his [[Body|body]], [[Horse]] to ride, and weapon to wear; But mice and rats and such small deer Have been Tom’s food for seven long year. Beware my follower. Peace, Smulkin; peace, thou fiend! |
-| [[Gloucester|GLOUCESTER]] | (to Lear) What, hath your grace no better company? |
-| [[Edgar|EDGAR]] | The Prince of Darkness is a gentleman. Modo he’s called, and Mahu. |
-| [[Gloucester|GLOUCESTER]] | (to Lear) Our flesh and [[Blood|blood]], my lord, is grown so vile That it doth hate what gets it. |
-| [[Edgar|EDGAR]] | Poor Tom’s a-cold. |
-| [[Gloucester|GLOUCESTER]] | (to Lear) Go in with me. My duty cannot suffer T’obey in all your daughters’ hard commands. Though their injunction be to bar my doors And let this tyrannous [[Night|night]] take hold upon you, Yet have I ventured to come seek you out And bring you where both [[Fire|fire]] and food is ready. |
-| LEAR | First let me talk with this philosopher. (To [[Edgar]]) What is the cause of thunder? |
-| [[Kent|KENT]] | Good my lord, take his offer; go into th’ [[house]]. |
-| LEAR | I’ll talk a word with this same learned Theban. (To [[Edgar]]) What is your study? |
-| [[Edgar|EDGAR]] | How to prevent the fiend, and to kill vermin. |
-| LEAR | Let me ask you one word in private. They converse apart |
-| [[Kent|KENT]] | (to [[Gloucester]]) Importune him once more to go, my lord. His wits begin t’unsettle. |
-| [[Gloucester|GLOUCESTER]] | Canst thou blame him? [[Storm]] still His daughters seek his [[Death|death]]. Ah, that good [[Kent]], He said it would be thus, poor banished man! Thou sayst the [[King]] grows mad; I’ll tell thee, friend, I am almost mad myself. I had a son, Now outlawed from my [[Blood|blood]]; a sought my life But lately, very late. I loved him, friend; No father his son dearer. True to tell thee, The grief hath crazed my wits. What a [[Night|night]]’s this! (To Lear) I do beseech your grace— |
-| LEAR | O, cry you [[Mercy|mercy]], sir! (To [[Edgar]]) Noble philosopher, your company. |
-| [[Edgar|EDGAR]] | Tom’s a-cold. |
-| [[Gloucester|GLOUCESTER]] | In, fellow, there in t’hovel; keep thee warm. |
-| LEAR | Come, let’s in all. |
-| [[Kent|KENT]] | This way, my lord. |
-| LEAR | With him! I will keep still with my philosopher. |
-| [[Kent|KENT]] | (to [[Gloucester]]) Good my lord, soothe him; let him take the fellow. |
-| [[Gloucester|GLOUCESTER]] | Take him you on. |
-| [[Kent|KENT]] | to [[Edgar]] Sirrah, come on. Go along with us. |
-| LEAR | (to [[Edgar]]) Come, good Athenian. |
-| [[Gloucester|GLOUCESTER]] | No words, no words. Hush. |
-| [[Edgar|EDGAR]] | [[Child]] Roland to the dark tower came, His word was still ‘Fie, fo, and fum; I smell the [[Blood|blood]] of a British man.’ Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Edgar]] disguised as a peasant, with a staff, guiding the blind [[Duke of Gloucester]] |
-| [[Gloucester|GLOUCESTER]] | When shall I come to th’ top of that same [[Hill|hill]]? |
-| [[Edgar|EDGAR]] | You do climb up it now. Look how we labour. |
-| [[Gloucester|GLOUCESTER]] | Methinks the ground is even. |
-| [[Edgar|EDGAR]] | Horrible steep. Hark, do you hear the sea? |
-| [[Gloucester|GLOUCESTER]] | No, truly. |
-| [[Edgar|EDGAR]] | Why, then your other senses grow imperfect By your eyes’ anguish. |
-| [[Gloucester|GLOUCESTER]] | So may it be indeed. Methinks thy voice is altered, and thou speak’st In better phrase and matter than thou didst. |
-| [[Edgar|EDGAR]] | You’re much deceived. In nothing am I changed But in my garments. |
-| [[Gloucester|GLOUCESTER]] | Methinks you’re better spoken. |
-| [[Edgar|EDGAR]] | Come on, sir, here’s the place. Stand still. How fearful And dizzy ‘tis to cast one’s eyes so low! The crows and choughs that wing the midway air Show scarce so gross as beetles. Halfway down Hangs one that gathers samphire, dreadful trade! Methinks he seems no bigger than his head. The fishermen that walk upon the beach Appear like mice, and yon tall anchoring barque Diminished to her cock, her cock a buoy Almost too small for sight. The murmuring surge That on th’unnumbered idle pebble chafes Cannot be heard so high. I’ll look no more, Lest my brain turn and the deficient sight Topple down headlong. |
-| [[Gloucester|GLOUCESTER]] | Set me where you stand. |
-| [[Edgar|EDGAR]] | Give me your hand. You are now within a foot Of th’extreme verge. For all beneath the [[Moon|moon]] Would I not leap upright. |
-| [[Gloucester|GLOUCESTER]] | Let go my hand. Here, friend, ’s another purse; in it a [[Jewel|jewel]] [[Well]] worth a poor man’s taking. Fairies and gods Prosper it with thee! Go thou further off. Bid me farewell, and let me hear thee going. |
-| [[Edgar|EDGAR]] | Now fare ye [[Well|well]], good sir. He stands aside |
-| [[Gloucester|GLOUCESTER]] | With all my heart. |
-| [[Edgar|EDGAR]] | (aside) Why I do trifle thus with his [[Despair|despair]] Is done to cure it. |
-| [[Gloucester|GLOUCESTER]] | (keeling) O you mighty gods, This world I do renounce, and in your sights Shake patiently my great affliction off! If I could bear it longer, and not fall To quarrel with your great opposeless wills, My snuff and loathed part of [[Nature|nature]] should Burn itself out. If [[Edgar]] live, O bless him!— Now, fellow, fare thee [[Well|well]]. |
-| [[Edgar|EDGAR]] | Gone, sir. Farewell. [[Gloucester]] falls forward (Aside) And yet I know not how conceit may rob The treasury of life, when life itself Yields to the theft. Had he been where he thought, By this had thought been past.—Alive or dead? (To [[Gloucester]]) Ho, you, sir, friend; hear you, sir? Speak. (Aside) Thus might he pass indeed. Yet he revives. (To [[Gloucester]]) What are you, sir? |
-| [[Gloucester|GLOUCESTER]] | Away, and let me die. |
-| [[Edgar|EDGAR]] | Hadst thou been aught but gossamer, feathers, air, So many fathom down precipitating Thou‘dst shivered like an egg. But thou dost breathe, Hast heavy substance, bleed’st not, speak’st, art sound. Ten masts a-length make not the altitude Which thou hast perpendicularly fell. Thy life’s a miracle. Speak yet again. |
-| [[Gloucester|GLOUCESTER]] | But have I fall’n, or no? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--02_exchange_edgar" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (EDGAR) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Edgar|EDGAR]] | From the dread summit of this chalky bourn. Look up a-height. The shrill-gorged lark so far Cannot be seen or heard. Do but look up. |
-| [[Gloucester|GLOUCESTER]] | Alack, I have no eyes. Is wretchedness deprived that benefit To end itself by [[Death|death]]? ’Twas yet some comfort When misery could beguile the [[Tyrant|tyrant]]’s rage And frustrate his proud will. |
-| [[Edgar|EDGAR]] | Give me your arm. Up, so. How is’t? Feel you your legs? You stand. |
-| [[Gloucester|GLOUCESTER]] | Too [[Well|well]], too [[Well|well]]. |
-| [[Edgar|EDGAR]] | This is above all strangeness. Upon the [[Crown|crown]] o’th’ cliff what thing was that Which parted from you? |
-| [[Gloucester|GLOUCESTER]] | A poor unfortunate beggar. |
-| [[Edgar|EDGAR]] | As I stood here below, methoughts his eyes Were two full moons. He had a thousand noses, Horns whelked and waved like the enraged sea. It was some fiend. Therefore, thou happy father, Think that the clearest gods, who make them honours Of men’s impossibilities, have preserved thee. |
-| [[Gloucester|GLOUCESTER]] | I do remember now. Henceforth I’ll bear Affliction till it do cry out itself ‘Enough, enough,’ and die. That thing you speak of, I took it for a man. Often ‘twould say ‘The fiend, the fiend!’ He led me to that place. |
-| [[Edgar|EDGAR]] | Bear free and patient thoughts. Enter [[King Lear]] mad, crowned with weeds and [[Flowers|flowers]] But who comes here? The safer sense will ne’er accommodate His master thus. |
-| LEAR | No, they cannot touch me for crying. I am the [[King]] himself. |
-| [[Edgar|EDGAR]] | O thou side-piercing sight! |
-| LEAR | [[Nature]]’s above art in that respect. There’s your press-money. That fellow handles his bow like a crow-keeper. Draw me a clothier’s yard. Look, look, a mouse! Peace, peace, this piece of toasted [[cheese]] will do’t. There’s my gauntlet. I’ll prove it on a giant. Bring up the brown bills. O, [[Well|well]] flown, bird, i‘th’ clout, i’th’ clout! Whew! Give the word. |
-| [[Edgar|EDGAR]] | Sweet marjoram. |
-| LEAR | Pass. |
-| [[Gloucester|GLOUCESTER]] | I know that voice. |
-| LEAR | Ha! [[Goneril]] with a white beard? They flattered me like a dog, and told me I had the white hairs in my beard ere the black ones were there. To say ‘ay’ and ‘no’ to everything that I said ‘ay’ and ‘no’ to was no good divinity. When the rain came to wet me once, and the [[Wind|wind]] to make me chatter; when the thunder would not peace at my bidding, there I found ‘em, there I smelt ’em out. Go to, they are not men o’ their words. They told me I was everything; ’tis a lie, I am not ague-proof. |
-| [[Gloucester|GLOUCESTER]] | The trick of that voice I do [[Well|well]] remember. Is’t not the [[King]]? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--03_monologue_lear" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — monologue (LEAR) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LEAR | Ay, every inch a [[King|king]]. [[Gloucester]] kneels When I do stare, see how the subject quakes! I pardon that man’s life. What was thy cause? Adultery? Thou shalt not die. Die for adultery! No, the wren goes to‘t, and the small gilded fly Does lecher in my sight. Let copulation thrive, For [[Gloucester]]’s bastard son Was kinder to his father than my daughters Got ’tween the lawful sheets. To‘t, luxury, pell-mell, For I lack soldiers. Behold yon simp’ring dame, Whose face between her forks presages [[Snow|snow]], That minces virtue, and does shake the head To hear of pleasure’s name. The fitchew nor the soilèd [[Horse|horse]] goes to’t With a more riotous appetite. Down from the waist They’re centaurs, though women all above. But to the girdle do the gods inherit; Beneath is all the fiend’s. There’s hell, there’s darkness, there is the sulphurous pit, burning, scalding, stench, consumption. Fie, fie, fie; pah, pah! Give me an ounce of civet, good apothecary, sweeten my [[Imagination|imagination]]. There’s money for thee. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--04_exchange_gloucester" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (GLOUCESTER) [4]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Gloucester|GLOUCESTER]] | O, let me kiss that hand! |
-| LEAR | Let me wipe it first; it smells of [[Mortality|mortality]]. |
-| [[Gloucester|GLOUCESTER]] | O ruined piece of [[Nature|nature]]! This great world Shall so wear out to naught. Dost thou know me? |
-| LEAR | I remember thine eyes [[Well|well]] enough. Dost thou squiny at me? No, do thy worst, blind Cupid, I’ll not [[Love|love]]. Read thou this challenge. Mark but the penning of it. |
-| [[Gloucester|GLOUCESTER]] | Were all thy letters suns, I could not see. |
-| [[Edgar|EDGAR]] | (aside) I would not take this from report; it is, And my heart breaks at it. |
-| LEAR | (to [[Gloucester]]) Read. |
-| [[Gloucester|GLOUCESTER]] | What—with the case of eyes? |
-| LEAR | O ho, are you there with me? No eyes in your head, nor no money in your purse? Your eyes are in a heavy case, your purse in a light; yet you see how this world goes. |
-| [[Gloucester|GLOUCESTER]] | I see it feelingly. |
-| LEAR | What, art mad? A man may see how this world goes with no eyes; look with thine ears. See how yon justice rails upon yon simple thief. Hark in thine ear: change places, and handy-dandy, which is the justice, which is the thief? Thou hast seen a farmer’s dog bark at a beggar? |
-| [[Gloucester|GLOUCESTER]] | Ay, sir. |
-| LEAR | An the creature run from the cur, there thou mightst behold the great image of authority. A dog’s obeyed in office. Thou rascal beadle, hold thy bloody hand. Why dost thou lash that whore? Strip thy own back. Thou hotly lusts to use her in that kind For which thou whip‘st her. The usurer hangs the cozener. Through tattered clothes great vices do appear; Robes and furred gowns hide all. Plate sin with gold, And the strong lance of justice hurtless breaks; Arm it in rags, a pygmy’s straw does pierce it. None does offend, none, I say none. I’ll able ’em. Take that of me, my friend, who have the power To seal th’accuser’s lips. Get thee glass eyes, And, like a scurvy politician, seem To see the things thou dost not. Now, now, now, now! Pull off my boots. Harder, harder! So. |
-| [[Edgar|EDGAR]] | (aside) O, matter and impertinency mixed—170 Reason in [[Madness|madness]]! |
-| LEAR | If thou wilt weep my fortunes, take my eyes. I know thee [[Well|well]] enough: thy name is [[Gloucester]]. Thou must be patient. We came crying hither. Thou know’st the first [[Time|time]] that we smell the air We waul and cry. I will preach to thee. Mark. |
-| [[Gloucester|GLOUCESTER]] | Alack, alack the day! |
-| LEAR | removing his [[Crown|crown]] of weeds When we are born, we cry that we are come To this great stage of fools. This’ a good block. It were a delicate stratagem to shoe 180 A troop of [[Horse|horse]] with felt. I’ll put’t in proof, And when I have stol’n upon these son-in-laws, Then kill, kill, kill, kill, kill, kill! Enter two Gentlemen FIRSTGENTLEMAN O, here he is. Lay hand upon him. To LearSir, Your most dear daughter— |
-| LEAR | No rescue? What, a prisoner? I am even The natural [[Fool|fool]] of fortune. Use me [[Well|well]]. You shall have ransom. Let me have surgeons; I am cut to th’ brains. FIRSTGENTLEMAN You shall have anything. |
-| LEAR | No seconds? All myself? Why, this would make a man a man of salt, To use his eyes for [[Garden|garden]] [[Water|water]]-pots. I will die bravely, like a smug bridegroom. What, I will be jovial. Come, come, I am a [[King|king]]. Masters, know you that? FIRSTGENTLEMAN You are a royal one, and we obey you. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--05_exchange_lear" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (LEAR) [5]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LEAR | Then there’s life in’t. Come, an you get it, you shall get it by running. Sa, sa, sa, sa! Exit running pursued by a Gentleman FIRSTGENTLEMAN A sight most pitiful in the meanest wretch, Past speaking in a [[King|king]]. Thou hast a daughter Who redeems [[Nature|nature]] from the general curse Which twain have brought her to. |
-| [[Edgar|EDGAR]] | Hail, gentle sir. FIRSTGENTLEMAN Sir, [[Speed|speed]] you. What’s your will? |
-| [[Edgar|EDGAR]] | Do you hear aught, sir, of a battle toward? FIRST+GENTLEMAN Most sure and vulgar, everyone hears that That can distinguish sound. |
-| [[Edgar|EDGAR]] | But, by your favour, How near’s the other army? FIRST GENTLEMAN, Near and on speedy foot. The main descry Stands in the hourly thought. |
-| [[Edgar|EDGAR]] | I thank you, sir. That’s all. FIRSTGENTLEMAN Though that the [[Queen]] on special cause is here, Her army is moved on. |
-| [[Edgar|EDGAR]] | I thank you, sir. Exit Gentleman |
-| [[Gloucester|GLOUCESTER]] | You ever gentle gods, take my breath from me. Let not my worser spirit tempt me again To die before you please. |
-| [[Edgar|EDGAR]] | [[Well]] pray you, father. |
-| [[Gloucester|GLOUCESTER]] | Now, good sir, what are you? |
-| [[Edgar|EDGAR]] | A most poor man, made tame to fortune’s blows, Who by the art of known and feeling sorrows Am pregnant to good pity. Give me your hand, I’ll lead you to some biding. |
-| [[Gloucester|GLOUCESTER]] | rising Hearty thanks. The bounty and the benison of heaven To boot and boot. Enter Oswald the steward |
-| OSWALD | A proclaimed prize! Most happy! That eyeless head of thine was first framed flesh To raise my fortunes. Thou old unhappy traitor, Briefly thyself remember. The [[Sword|sword]] is out That must destroy thee. |
-| [[Gloucester|GLOUCESTER]] | Now let thy friendly hand Put strength enough to’t. |
-| OSWALD | (to [[Edgar]]) Wherefore, bold peasant, Durst thou support a published traitor? Hence, Lest that th’infection of his fortune take Like hold on thee. Let go his arm. |
-| [[Edgar|EDGAR]] | ‘Chill not let go, sir, without vurther ’cagion. |
-| OSWALD | Let go, slave, or thou diest. |
-| [[Edgar|EDGAR]] | Good gentleman, go your gate, and let poor volk pass. An ‘chud ha’ been swaggered out of my life, ’twould not ha’ been so long as ‘tis by a vortnight. Nay, come not near th’old man. Keep out, ‘che vor’ ye, or I’s’ try whether your [[Costard|costard]] or my baton be the harder; I’ll be plain with you. |
-| OSWALD | Out, dunghill! |
-| [[Edgar|EDGAR]] | ’Chill pick your teeth, sir. Come, no matter vor your foins. [[Edgar]] knocks him down |
-| OSWALD | Slave, thou hast slain me. [[Villain]], take my purse. If ever thou wilt thrive, bury my [[Body|body]], And give the letters which thou find’st about me To Edmond, Earl of [[Gloucester]]. Seek him out Upon the English party. O untimely [[Death|death]]! [[Death]]! He dies |
-| [[Edgar|EDGAR]] | I know thee [[Well|well]]—a serviceable [[Villain|villain]], As duteous to the vices of thy mistress As badness would [[Desire|desire]]. |
-| [[Gloucester|GLOUCESTER]] | What, is he dead? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--06_monologue_edgar" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — monologue (EDGAR) [6]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Edgar|EDGAR]] | Sit you down, father. Rest you. [[Gloucester]] sits Let’s see these pockets. The letters that he speaks of May be my friends. He’s dead; I am only sorrow He had no other deathsman. Let us see. Leave, gentle wax, and manners; blame us not. To know our enemies’ minds we rip their hearts; Their papers is more lawful. He reads the letter ’Let our reciprocal vows be remembered. You have many opportunities to cut him off. If your will want not, [[Time|time]] and place will be fruitfully offered. There is nothing done if he return the conqueror; then am I the prisoner, and his bed my jail, from the loathed warmth whereof, deliver me, and supply the place for your labour. Your—wife, so I would say,—affectionate servant, and for you her own for venture, [[Goneril]].’ O indistinguished space of woman’s will— A plot upon her virtuous husband’s life, And the exchange my brother!—Here in the sands Thee I’ll rake up, the post unsanctified Of murderous lechers, and in the mature [[Time|time]] With this ungracious paper strike the sight Of the [[Death|death]]-practised Duke. For him ’tis [[Well|well]] That of thy [[Death|death]] and business I can tell. Exit with the [[Body|body]] |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--07_exchange_gloucester" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (GLOUCESTER) [7]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Gloucester|GLOUCESTER]] | The [[King]] is mad. How stiff is my vile sense, That I stand up and have ingenious feeling Of my huge sorrows! Better I were distraught, So should my thoughts be severed from my griefs, Drum afar off And woes by wrong imaginations lose The knowledge of themselves. Enter [[Edgar]] |
-| [[Edgar|EDGAR]] | Give me your hand. Far off methinks I hear the beaten drum. Come, father, I’ll bestow you with a friend. Exit [[Edgar]] guiding [[Gloucester]] |
-| *(didascalia)* | 4.6 Enter [[Queen]] [[Cordelia]], the Earl of [[Kent]] disguised, and the First Gentleman |
-| [[Cordelia|CORDELIA]] | O thou good [[Kent]], how shall I live and work To match thy goodness? My life will be too short, And every measure fail me. |
-| [[Kent|KENT]] | To be acknowledged, madam, is o’erpaid. All my reports go with the modest [[Truth|truth]], Nor more, nor clipped, but so. |
-| [[Cordelia|CORDELIA]] | Be better suited. These weeds are memories of those worser hours. I prithee put them off. |
-| [[Kent|KENT]] | Pardon, dear madam. Yet to be known shortens my made intent. My boon I make it that you know me not Till [[Time|time]] and I think meet. |
-| [[Cordelia|CORDELIA]] | Then be’t so, my good lord.— How does the [[King]]? FIRSTGENTLEMAN Madam, sleeps still. |
-| [[Cordelia|CORDELIA]] | O you kind gods, Cure this great breach in his abused [[Nature|nature]]; Th’untuned and jarring senses O [[Wind|wind]] up Of this [[Child|child]]-changed father! FIRSTGENTLEMAN So please your majesty That we may wake the [[King]]? He hath slept long. |
-| [[Cordelia|CORDELIA]] | Be governed by your knowledge, and proceed I’th’ sway of your own will. Is he arrayed? FIRSTGENTLEMAN Ay, madam. In the heaviness of [[Sleep|sleep]] We put fresh garments on him. Enter [[King Lear]] asleep, in a chair carried by servants Be by, good madam, when we do awake him. I [[Doubt|doubt]] not of his temperance. |
-| [[Cordelia|CORDELIA]] | O my dear father, restoration hang Thy medicine on my lips, and let this kiss Repair those violent harms that my two sisters Have in thy reverence made! |
-| [[Kent|KENT]] | Kind and dear princess! |
-| [[Cordelia|CORDELIA]] | Had you not been their father, these white flakes Did challenge pity of them. Was this a face To be opposed against the warring winds? Mine enemy’s dog, though he had bit me, should have stood That [[Night|night]] against my [[Fire|fire]]. And wast thou fain, poor father, To hovel thee with swine and rogues forlorn In short and musty straw? Alack, alack, ’Tis [[Wonder|wonder]] that thy life and wits at once Had not concluded all! (To the Gentleman) He wakes. Speak to him. FIRSTGENTLEMAN Madam, do you; ’tis fittest. |
-| [[Cordelia|CORDELIA]] | (to Lear) How does my royal lord? How fares your majesty? |
-| LEAR | You do me wrong to take me out o’th’ [[Grave|grave]]. Thou art a [[Soul|soul]] in bliss, but I am bound Upon a [[Wheel|wheel]] of [[Fire|fire]], that mine own [[Tears|tears]] Do scald like molten lead. |
-| [[Cordelia|CORDELIA]] | Sir, do you know me? |
-| LEAR | You are a spirit, I know. Where did you die? |
-| [[Cordelia|CORDELIA]] | (to the Gentleman) Still, still far wide! FIRST GENTLEMAN He’s scarce awake. Let him [[Alone|alone]] a while. |
-| LEAR | Where have I been? Where am I? Fair daylight? I am mightily abused. I should ev’n die with pity To see another thus. I know not what to say. I will not swear these are my hands. Let’s see: I feel this pin prick. Would I were assured Of my condition. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--08_exchange_cordelia" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (CORDELIA) [8]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cordelia|CORDELIA]] | (kneeling) O look upon me, sir, And hold your hands in benediction o’er me. You must not kneel. |
-| LEAR | Pray do not mock. I am a very foolish, fond old man, Fourscore and upward, Not an hour more nor less; and to deal plainly, I [[Fear|fear]] I am not in my perfect mind. Methinks I should know you, and know this man; Yet I am doubtful, for I am mainly ignorant What place this is; and all the skill I have Remembers not these garments; nor I know not Where I did lodge last [[Night|night]]. Do not laugh at me, For as I am a man, I think this lady To be my [[Child|child]], [[Cordelia]]. |
-| [[Cordelia|CORDELIA]] | And so I am, I am. |
-| LEAR | Be your [[Tears|tears]] wet? Yes, [[Faith|faith]]. I pray, weep not. If you have [[Poison|poison]] for me, I will drink it. I know you do not [[Love|love]] me; for your sisters Have, as I do remember, done me wrong. You have some cause; they have not. |
-| [[Cordelia|CORDELIA]] | No cause, no cause. |
-| LEAR | Am I in France? |
-| [[Kent|KENT]] | In your own kingdom, sir. |
-| LEAR | Do not abuse me. FIRSTGENTLEMAN Be comforted, good madam. The great rage You see is killed in him. [[Desire]] him to go in. Trouble him no more till further settling. |
-| [[Cordelia|CORDELIA]] | (to Lear) Will’t please your highness walk? |
-| LEAR | You must bear with me. Pray you now, forget And forgive. I am old and foolish. Exeunt |
-| LEAR | 5.1 Enter with a drummer and colours Edmond, [[Regan]], Gentlemen, and soldiers |
-| EDMOND | Know of the Duke if his last purpose hold, Or whether since he is advised by aught To change the course. He’s full of abdication And [[Self|self]]-reproving. Bring his constant pleasure. Exit one or more |
-| [[Regan|REGAN]] | Our sister’s man is certainly miscarried. |
-| EDMOND | ’Tis to be doubted, madam. |
-| [[Regan|REGAN]] | Now, sweet lord, You know the goodness I intend upon you. Tell me but truly—but then speak the [[Truth|truth]]- Do you not [[Love|love]] my sister? |
-| EDMOND | In honoured [[Love|love]]. |
-| [[Regan|REGAN]] | But have you never found my brother’s way To the forfended place? |
-| EDMOND | No, by mine [[Honour|honour]], madam. |
-| [[Regan|REGAN]] | I never shall endure her. Dear my lord, Be not familiar with her. |
-| EDMOND | [[Fear]] me not. She and the Duke her husband— Enter with a drummer and colours the Duke of Albany, [[Goneril]], and soldiers |
-| ALBANY | (to [[Regan]]) Our very loving sister, [[Well|well]] bemet. (To Edmond) Sir, this I heard: the [[King]] is come to his daughter, With others whom the rigour of our state Forced to cry out. |
-| [[Regan|REGAN]] | Why is this reasoned? |
-| [[Goneril|GONERIL]] | Combine together ’gainst the enemy; For these domestic and particular broils Are not the question here. |
-| ALBANY | Let’s then determine with th’ensign of war On our proceeding. |
-| [[Regan|REGAN]] | Sister, you’ll go with us? |
-| [[Goneril|GONERIL]] | No. |
-| [[Regan|REGAN]] | ’Tis most convenient. Pray go with us. |
-| [[Goneril|GONERIL]] | (aside) O ho, I know the [[Riddle|riddle]]! (To [[Regan]]) I will go. Enter [[Edgar]] disguised as a peasant |
-| [[Edgar|EDGAR]] | (to Albany) If e’er your grace had speech with man so poor, Hear me one word. |
-| ALBANY | (to the others) I’ll overtake you. Exeunt both the armies Speak. |
-| [[Edgar|EDGAR]] | Before you fight the battle, ope this letter. If you have victory, let the trumpet sound For him that brought it. Wretched though I seem, I can produce a champion that will prove What is avouchèd there. If you miscarry, Your business of the world hath so an end, And machination ceases. Fortune [[Love|love]] you. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--09_exchange_albany" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5 — exchange (ALBANY) [9]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| ALBANY | Stay till I have read the letter. |
-| [[Edgar|EDGAR]] | I was forbid it. When [[Time|time]] shall serve, let but the herald cry, And I’ll appear again. |
-| ALBANY | Why, fare thee [[Well|well]]. I will o’erlook thy paper. Exit [[Edgar]] Enter Edmond |
-| EDMOND | The enemy’s in view; draw up your powers. He offersAlbany a paper Here is the guess of their true strength and forces By diligent discovery; but your haste Is now urged on you. |
-| ALBANY | We will greet the [[Time|time]]. Exit |
-| EDMOND | To both these sisters have I sworn my [[Love|love]], Each jealous of the other as the stung Are of the adder. Which of them shall I take?— Both?—one?—or neither? Neither can be enjoyed If both remain alive. To take the widow Exasperates, makes mad, her sister [[Goneril]], And hardly shall I carry out my side, Her husband being alive. Now then, we’ll use His countenance for the battle, which being done, Let her who would be rid of him devise His speedy taking off. As for the [[Mercy|mercy]] Which he intends to Lear and to [[Cordelia]], The battle done, and they within our power, Shall never see his pardon; for my state Stands on me to defend, not to [[debate]]. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--01_exchange_dialogue" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter in conquest with a drummer and colours Edmond; [[King Lear]] and [[Queen]] [[Cordelia]] as prisoners; soldiers; a Captain |
-| EDMOND | Some officers take them away. Good guard Until their greater pleasures first be known That are to censure them. |
-| [[Cordelia|CORDELIA]] | (to Lear) We are not the first Who with best meaning have incurred the worst. For thee, oppressed [[King]], I am cast down, Myself could else outfrown false fortune’s frown. Shall we not see these daughters and these sisters? |
-| LEAR | No, no, no, no. Come, let’s away to [[Prison|prison]]. We two [[Alone|alone]] will sing like [[Birds|birds]] i’th’ cage. When thou dost ask me blessing, I’ll kneel down And ask of thee [[Forgiveness|forgiveness]]; so we’ll live, And pray, and sing, and tell old tales, and laugh At gilded butterflies, and hear poor rogues Talk of [[Court|court]] news, and we’ll talk with them too— Who loses and who wins, who’s in, who’s out, And take upon ’s the mystery of things As if we were God’s spies; and we’ll wear out In a walled [[Prison|prison]] packs and sects of great ones That ebb and flow by th’ [[Moon|moon]]. |
-| EDMOND | (to soldiers) Take them away. |
-| LEAR | Upon such sacrifices, my [[Cordelia]], The gods themselves throw incense. Have I caught thee? He that parts us shall bring a brand from heaven And [[Fire|fire]] us hence like foxes. Wipe thine eyes. The goodyear shall devour them, flesh and fell, Ere they shall make us weep. We’ll see ’em starved first. Come. Exeunt all but Edmond and the Captain |
-| EDMOND | Come hither, captain. Hark. Take thou this note. Go follow them to [[Prison|prison]]. One step I have advanced thee; if thou dost As this instructs thee, thou dost make thy way To noble fortunes. Know thou this: that men Are as the [[Time|time]] is. To be tender-minded Does not become a [[Sword|sword]]. Thy great employment Will not bear question. Either say thou‘It do’t, Or thrive by other means. |
-| CAPTAIN | I’ll do’t, my lord. |
-| EDMOND | About it, and write ‘happy’ when thou’st done. Mark, I say, instantly, and carry it so As I have set it down. Exit the Captain Flourish. Enter the Duke of Albany, [[Goneril]], [[Regan]], drummer, trumpeter and soldiers |
-| ALBANY | Sir, you have showed today your valiant strain, And fortune led you [[Well|well]]. You have the captives Who were the opposites of this day’s strife. I do require them of you, so to use them As we shall find their merits and our safety May equally determine. |
-| EDMOND | Sir, I thought it fit To send the old and miserable [[King]] To some retention and appointed guard, Whose age had charms in it, whose title more, To pluck the common bosom on his side And turn our impressed lances in our eyes Which do command them. With him I sent the [[Queen]], My reason all the same, and they are ready Tomorrow, or at further space, t’appear Where you shall hold your session. |
-| ALBANY | Sir, by your patience, I hold you but a subject of this war, Not as a brother. |
-| [[Regan|REGAN]] | That’s as we list to grace him. Methinks our pleasure might have been demanded Ere you had spoke so far. He led our powers, Bore the commission of my place and person, The which immediacy may [[Well|well]] stand up And call itself your brother. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--02_exchange_goneril" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (GONERIL) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Goneril|GONERIL]] | Not so hot. In his own grace he doth exalt himself More than in your addition. |
-| [[Regan|REGAN]] | In my rights By me invested, he compeers the best. |
-| ALBANY | That were the most if he should husband you. |
-| [[Regan|REGAN]] | Jesters do oft prove prophets. |
-| [[Goneril|GONERIL]] | Holla, holla— That eye that told you so looked but asquint. |
-| [[Regan|REGAN]] | Lady, I am not [[Well|well]], else I should answer From a full-flowing stomach. (To Edmond) General, Take thou my soldiers, prisoners, patrimony. Dispose of them, of me. The walls is thine. Witness the world that I create thee here My lord and master. |
-| [[Goneril|GONERIL]] | Mean you to enjoy him? |
-| ALBANY | The let-[[Alone|alone]] lies not in your good will. |
-| EDMOND | Nor in thine, lord. |
-| ALBANY | Half-blooded fellow, yes. |
-| [[Regan|REGAN]] | (to Edmond) Let the drum strike and prove my title thine. |
-| ALBANY | Stay yet, hear reason. Edmond, I arrest thee On capital treason, and in thy attaint This gilded serpent. (To [[Regan]]) For your claim, fair sister, I bar it in the interest of my wife. ’Tis she is subcontracted to this lord, And I, her husband, contradict your banns. If you will marry, make your loves to me. My lady is bespoke. |
-| [[Goneril|GONERIL]] | An interlude! |
-| ALBANY | Thou art armed, [[Gloucester]]. Let the trumpet sound. If none appear to prove upon thy person Thy heinous, manifest, and many treasons, There is my pledge. He throws down a glove I’ll make it on thy heart, Ere I taste bread, thou art in nothing less Than I have here proclaimed thee. |
-| [[Regan|REGAN]] | Sick, O sick! |
-| [[Goneril|GONERIL]] | (aside) If not, I’ll ne’er trust medicine. |
-| EDMOND | (to Albany, throwing down a glovel There’s my exchange. What in the world he is That names me traitor, [[Villain|villain]]-like he lies. Call by the trumpet. He that dares, approach; On him, on you,—who not?—I will maintain My [[Truth|truth]] and [[Honour|honour]] firmly. |
-| ALBANY | A herald, ho! Enter a Herald (To Edmond) Trust to thy single virtue, for thy soldiers, All levied in my name, have in my name Took their discharge. |
-| [[Regan|REGAN]] | My sickness grows upon me. |
-| ALBANY | She is not [[Well|well]]. Convey her to my tent. Exit one or more with [[Regan]] Come hither, herald. Let the trumpet sound, And read out this. A trumpet sounds |
-| HERALD | (reads) ‘If any man of quality or degree within the lists of the army will maintain upon Edmond, supposed Earl of [[Gloucester]], that he is a manifold traitor, let him appear by the third sound of the trumpet. He is bold in his defence.’ First trumpet Again. Second trumpet Again. Third trumpet. |
-| *(didascalia)* | Trumpet answers within. Enter [[Edgar]], armed |
-| ALBANY | (to the Herald) Ask him his purposes, why he appears Upon this call o’th’ trumpet. |
-| HERALD | (to [[Edgar]]) What are you? Your name, your quality, and why you answer This present summons? |
-| [[Edgar|EDGAR]] | Know, my name is lost, By treason’s tooth bare-gnawn and canker-bit. Yet am I noble as the adversary I come to cope. |
-| ALBANY | Which is that adversary? |
-| [[Edgar|EDGAR]] | What’s he that speaks for Edmond, Earl of [[Gloucester]]? |
-| EDMOND | Himself. What sayst thou to him? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--03_exchange_edgar" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (EDGAR) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Edgar|EDGAR]] | Draw thy [[Sword|sword]], That if my speech offend a noble heart Thy arm may do thee justice. Here is mine. He draws his [[Sword|sword]] Behold, it is the privilege of mine [[Honour|honour]], My oath, and my profession. I protest, Maugre thy strength, place, youth, and eminence, Despite thy victor-[[Sword|sword]] and [[Fire|fire]]-new fortune, Thy valour and thy heart, thou art a traitor, False to thy gods, thy brother, and thy father, Conspirant ‘gainst this high illustrious prince, And from th’extremest upward of thy head To the descent and [[Dust|dust]] below thy foot A most toad-spotted traitor. Say thou no, This [[Sword|sword]], this arm, and my best spirits are bent To prove upon thy heart, whereto I speak, Thou liest. |
-| EDMOND | In wisdom I should ask thy name, But since thy outside looks so fair and warlike, And that thy tongue some say of breeding breathes, What safe and nicely I might [[Well|well]] demand By rule of knighthood I disdain and spurn. Back do I toss those treasons to thy head, With the hell-hated lie o’erwhelm thy heart, Which, for they yet glance by and scarcely bruise, This [[Sword|sword]] of mine shall give them instant way Where they shall rest for ever. Trumpets, speak! Alarums. They fight. Edmond is vanquished ALL Save him, save him! |
-| [[Goneril|GONERIL]] | This is practice, [[Gloucester]]. By th’ law of arms thou wast not bound to answer An unknown opposite. Thou art not vanquished, But cozened and beguiled. |
-| ALBANY | Shut your mouth, dame, Or with this paper shall I stopple it. To Edmond Hold, sir, thou worse than any name: read thine own evil. (To [[Goneril]]) No tearing, lady. I perceive you know it. |
-| [[Goneril|GONERIL]] | Say if I do, the laws are mine, not thine. Who can arraign me for’t? Exit |
-| ALBANY | Most monstrous!— O, know’st thou this paper? |
-| EDMOND | Ask me not what I know. |
-| ALBANY | Go after her. She’s desperate. Govern her. Exit one or more |
-| EDMOND | What you have charged me with, that have I done, And more, much more. The [[Time|time]] will bring it out. ‘Tis past, and so am I. (To [[Edgar]]) But what art thou, That hast this fortune on me? If thou’rt noble, I do forgive thee. |
-| [[Edgar|EDGAR]] | Let’s exchange [[Charity|charity]]. I am no less in [[Blood|blood]] than thou art, Edmond. If more, the more thou’st wronged me. He takes off his helmet My name is [[Edgar]], and thy father’s son. The gods are just, and of our pleasant vices Make instruments to plague us. The dark and vicious place where thee he got Cost him his eyes. |
-| EDMOND | Thou‘st spoken right. ’Tis true. The [[Wheel|wheel]] is come full circle. I am here. |
-| ALBANY | (to [[Edgar]]) Methought thy very gait did prophesy A royal nobleness. I must embrace thee. Let sorrow split my heart if ever I Did hate thee or thy father. |
-| [[Edgar|EDGAR]] | Worthy prince, I know’t. |
-| ALBANY | Where have you hid yourself? How have you known the miseries of your father? |
-| [[Edgar|EDGAR]] | By nursing them, my lord. List a brief tale, And when ‘tis told, O that my heart would burst! The bloody proclamation to escape That followed me so near—O, our lives’ sweetness, That we the [[Pain|pain]] of [[Death|death]] would hourly die Rather than die at once!—taught me to shift Into a madman’s rags, t’assume a semblance That very [[dogs]] disdained; and in this habit Met I my father with his bleeding rings, Their precious stones new-lost; became his guide, Led him, begged for him, saved him from [[Despair|despair]]; Never—O fault!—revealed myself unto him Until some half hour past, when I was armed. Not sure, though hoping, of this good [[success]], I asked his blessing, and from first to last Told him our pilgrimage; but his flawed heart— Alack, too weak the conflict to support— ’Twixt two extremes of passion, joy and grief, Burst smilingly. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--04_exchange_edmond" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (EDMOND) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| EDMOND | This speech of yours hath moved me, And shall perchance do good. But speak you on— You look as you had something more to say. |
-| ALBANY | If there be more, more woeful, hold it in, For I am almost ready to dissolve, Hearing of this. Enter a Gentleman with a bloody knife |
-| GENTLEMAN | Help, help, O help! |
-| [[Edgar|EDGAR]] | What kind of help? |
-| ALBANY | Speak, man. |
-| [[Edgar|EDGAR]] | What means this bloody knife? |
-| GENTLEMAN | ’Tis hot, it smokes. It came even from the heart of—O, she’s dead! |
-| ALBANY | Who dead? Speak, man. |
-| GENTLEMAN | Your lady, sir, your lady; and her sister By her is poisoned. She confesses it. |
-| EDMOND | I was contracted to them both; all three Now marry in an instant. |
-| [[Edgar|EDGAR]] | Here comes [[Kent]]. Enter the Earl of [[Kent]] as himself |
-| ALBANY | Produce the bodies, be they alive or dead. [[Goneril]]’s and [[Regan]]’s bodies brought out This judgement of the heavens, that makes us tremble, Touches us not with pity.—O, is this he? (To [[Kent]]) The [[Time|time]] will not allow the compliment Which very manners urges. |
-| [[Kent|KENT]] | I am come To bid my [[King|king]] and master aye good [[Night|night]]. Is he not here? |
-| ALBANY | Great thing of us forgot!— Speak, Edmond; where’s the [[King]], and where’s [[Cordelia]]?- Seest thou this object, [[Kent]]? |
-| [[Kent|KENT]] | Alack, why thus? |
-| EDMOND | Yet Edmond was beloved. The one the other poisoned for my sake, And after slew herself. |
-| ALBANY | Even so.—Cover their faces. |
-| EDMOND | I pant for life. Some good I mean to do, Despite of mine own [[Nature|nature]]. Quickly send, Be brief in it, to th’ [[Castle|castle]]; for my writ Is on the life of Lear and on [[Cordelia]]. Nay, send in [[Time|time]]. |
-| ALBANY | Run, run, O run! |
-| [[Edgar|EDGAR]] | To who, my lord?—Who has the office? Send Thy token of reprieve. |
-| EDMOND | [[Well]] thought on! Take my [[Sword|sword]]. The captain, Give it the captain. |
-| [[Edgar|EDGAR]] | Haste thee for thy life. Exit the Gentleman |
-| EDMOND | (to Albany) He hath commission from thy wife and me To hang [[Cordelia]] in the [[Prison|prison]], and To lay the blame upon her own [[Despair|despair]], That she fordid herself. |
-| ALBANY | The gods defend her!—Bear him hence a while. Exeunt some with Edmond Enter [[King Lear]] with [[Queen]] [[Cordelia]] in his arms, |
-| *(didascalia)* | followed by the Gentleman |
-| LEAR | Howl, howl, howl, howl! O, you are men of stones. Had I your tongues and eyes, I’d use them so That heaven’s vault should crack. She’s gone for ever. I know when one is dead and when one lives. She’s dead as earth. He lays her down Lend me a looking-glass. If that her breath will mist or stain the stone, Why, then she lives. |
-| [[Kent|KENT]] | Is this the promised end? |
-| [[Edgar|EDGAR]] | Or image of that horror? |
-| ALBANY | Fall and cease. |
-| LEAR | This feather stirs. She lives. If it be so, It is a chance which does redeem all sorrows That ever I have felt. |
-| [[Kent|KENT]] | kneeling O, my good master! |
-| LEAR | Prithee, away. |
-| [[Edgar|EDGAR]] | ’Tis noble [[Kent]], your friend. |
-| LEAR | A plague upon you, murderers, traitors all. I might have saved her; now she’s gone for ever.- [[Cordelia]], [[Cordelia]]: stay a little. Ha? What is’t thou sayst?—Her voice was ever soft, Gentle, and low, an excellent thing in woman.— I killed the slave that was a-hanging thee. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--05_exchange_gentleman" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (GENTLEMAN) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| GENTLEMAN | ’Tis true, my lords, he did. |
-| LEAR | Did I not, fellow? I have seen the day with my good biting falchion I would have made them skip. I am old now, And these same crosses spoil me. (To [[Kent]]) Who are you? Mine eyes are not o’th’ best, I’ll tell you straight. |
-| [[Kent|KENT]] | If fortune brag of two she loved and hated, One of them we behold. |
-| LEAR | This’ a dull sight. Are you not [[Kent]]? |
-| [[Kent|KENT]] | The same, your servant [[Kent]]. Where is your servant Caius? |
-| LEAR | He’s a good fellow, I can tell you that. He’ll strike, and quickly too. He’s dead and rotten. |
-| [[Kent|KENT]] | No, my good lord, I am the very man— |
-| LEAR | I’ll see that straight. |
-| [[Kent|KENT]] | That from your first of difference and [[Decay|decay]] Have followed your sad steps. |
-| LEAR | You’re welcome hither. |
-| [[Kent|KENT]] | Nor no man else. All’s cheerless, dark, and deadly. Your eldest daughters have fordone themselves, And desperately are dead. |
-| LEAR | Ay, so think I. |
-| ALBANY | He knows not what he says; and vain is it That we present us to him. Enter a Messenger |
-| [[Edgar|EDGAR]] | Very bootless. |
-| MESSENGER | (to Albany) Edmond is dead, my lord. |
-| ALBANY | That’s but a trifle here.— You lords and noble friends, know our intent. What comfort to this great [[Decay|decay]] may come Shall be applied; for us, we will resign During the life of this old majesty To him our absolute power; (To [[Edgar]] and [[Kent]]) you to your rights, With boot and such addition as your honours Have more than merited. All friends shall taste The wages of their virtue, and all foes The cup of their deservings.—O see, see! |
-| LEAR | And my poor [[Fool|fool]] is hanged. No, no, no life? Why should a dog, a [[Horse|horse]], a rat have life, And thou no breath at all? Thou’lt come no more. Never, never, never, never, never. To [[Kent]] Pray you, undo this button. Thank you, sir. Do you see this? Look on her. Look, her lips. Look there, look there. He dies |
-| [[Edgar|EDGAR]] | He faints. (To Lear) My lord, my lord! |
-| [[Kent|KENT]] | to Lear Break, heart, I prithee break. |
-| [[Edgar|EDGAR]] | (to Lear) Look up, my lord. |
-| [[Kent|KENT]] | Vex not his [[Ghost|ghost]]. O, let him pass. He hates him That would upon the rack of this tough world Stretch him out longer. |
-| [[Edgar|EDGAR]] | He is gone indeed. |
-| [[Kent|KENT]] | The [[Wonder|wonder]] is he hath endured so long. He but usurped his life. |
-| ALBANY | Bear them from hence. Our present business Is general woe. (To [[Edgar]] and [[Kent]]) Friends of my [[Soul|soul]], you twain Rule in this realm, and the gored state sustain. |
-| [[Kent|KENT]] | I have a [[Journey|journey]], sir, shortly to go: My master calls me; I must not say no. |
-| [[Edgar|EDGAR]] | The weight of this sad [[Time|time]] we must obey, Speak what we feel, not what we ought to say. The oldest hath borne most. We that are young Shall never see so much, nor live so long. Exeunt with a dead march, carrying the bodies |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--06_monologue_our" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — monologue (OUR) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| OUR | first reference to [[Cymbeline]] is a note by the astrologer Simon Forman that he saw the play, probably not long before his [[Death|death]] on 8 September 1611. He refers to the heroine as ‘[[Innogen]]’, and this name occurs in the sources; the form ‘Imogen’, found only in the Folio, appears to be a misprint. The play’s courtly tone, and the [[Masque|masque]]-like quality of, particularly, the episode (5.5.186.1-2) in which Jupiter ‘descends in thunder and [[Lightning|lightning]], sitting upon an eagle’ and ‘throws a thunderbolt’, suggests that as Shakespeare wrote he may have had in mind the audiences and the stage equipment of the Blackfriars theatre, which his company used from the [[Autumn|autumn]] of 1609; and stylistic evidence places the play in about 1610-11. It was first printed in the 1623 Folio, as the last of the tragedies. In fact it is a [[Tragicomedy|tragicomedy]], or a [[Romance|romance]], telling a complex and implausible tale of events which cause the deaths of certain subsidiary characters ([[Cloten]], and the [[Queen]]) and bring major characters (including the heroine, [[Innogen]]) close to [[Death|death]], but which are miraculously resolved in the reunions and reconciliations of the closing scene. Shakespeare’s plot reflects a wide range of reading. He took his title and setting from the name and reign of the legendary British [[King|king]] [[Cymbeline]], or Cunobelinus, said to have reigned from 33 BC till shortly after the birth of [[Christ]]. [[Cymbeline]] is no chronicle [[history]], but Shakespeare derived some ideas, and many of his characters’ names, from accounts of early British [[history]] in Holinshed’s Chronicles and elsewhere. Drawing partially, it seems, on an old play, The Rare Triumphs of [[Love]] and Fortune (acted 1582, printed 1589), he gives [[Cymbeline]] a daughter, [[Innogen]], and a wicked second [[Queen]] with a loutish, vicious son, [[Cloten]], whom she wishes to see on the throne in her husband’s place. [[Cymbeline]], disapproving of his daughter’s [[Marriage|marriage]] to ‘a poor but worthy gentleman’, [[Posthumus]] Leonatus, banishes him. The strand of plot showing the outcome of a wager that [[Posthumus]], in Rome, lays on his wife’s chastity is indebted, directly or indirectly, to Boccaccio’s Decameron. Another old play, Sir Clyomon and Clamydes (printed in 1599), may have suggested the bizarre scene (4.2) in which [[Innogen]] mistakes [[Cloten]]’s headless [[Body|body]] for that of [[Posthumus]]; and IIolinshed’s Ilistory of Scotland supplied the episode in which [[Cymbeline]]’s two sons, [[Guiderius]] and [[Arviragus]], helped only by the old man ([[Belarius]]) who has brought them up in the wilds of Wales, defeat the entire Roman army. The tone of [[Cymbeline]] has puzzled commentators. Its prose and verse style is frequently ornate, sometimes [[Grotesque|grotesque]]. Its characterization often seems deliberately artificial. Extremes are violently juxtaposed, most daringly when [[Innogen]], supposed dead, is laid beside [[Cloten]]’s headless [[Body|body]]: the [[Beauty|beauty]] of the verse in which she is mourned, and of the [[Flowers|flowers]] strewn over the bodies, contrasts with the hideous spectacle of the headless corpse; her waking speech is one of Shakespeare’s most thrillingly difficult challenges to his performers. The appearance of Jupiter lifts the action to a new level of even greater implausibility, preparing us for the extraordinary series of revelations by which the play advances to its impossibly happy ending. [[Cymbeline]] has been valued mostly for its portrayal of [[Innogen]], ideal of womanhood to, especially, Victorian readers and theatre-goers. The play as a whole is a fantasy, an experimental exercise in virtuosity. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--07_exchange_the_persons_of_the_play" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY [[Cymbeline|CYMBELINE]], [[King]] of Britain Princess [[Innogen|INNOGEN]], his daughter, later disguised as a man named Fidele [[Queen|QUEEN]], [[Cymbeline]]’s wife, [[Innogen]]’s stepmother Lord [[Cloten|CLOTEN]], her son |
-| *(didascalia)* | [[Belarius|BELARIUS]], a banished lord, calling himself Morgan CORNELIUS, a physician [[Helen|HELEN]], a lady attending on [[Innogen]] Two |
-| LORDS | attending on [[Cloten]] Two GENTLEMEN Two British CAPTAINS Two JAILERS |
-| [[Posthumus|POSTHUMUS]] | Leonatus, a poor gentleman, [[Innogen]]’s husband PISANIO, his servant FILARIO, a friend of [[Posthumus]] Caius [[Lucius|LUCIUS]], ambassador from Rome, later General of the Roman forces Two Roman SENATORS Roman TRIBUNES A Roman CAPTAIN Philharmonus, a SOOTHSAYER |
-| JUPITER | [[Ghost]] of SICILIUS Leonatus, father of [[Posthumus]] [[Ghost]] of the MOTHER of [[Posthumus]] [[Ghosts]] of the BROTHERS of [[Posthumus]] |
-| JUPITER | Lords attending on [[Cymbeline]], ladies attending on the [[Queen]], musicians attending on [[Cloten]], messengers, soldiers |
 
 
 

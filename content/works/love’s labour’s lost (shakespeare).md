@@ -39,7 +39,7 @@ tags:
 
 ## Testo / Text
 
-- [Act V, Scene 2 — monologue (IN) [24]](/testi/shakespeare/plays/loves_labours_lost#act_5--scene_2--24_monologue_in)
+- [LOVE’S LABOUR’S LOST](/testi/shakespeare/plays/loves_labours_lost#loves_labours_lost)
 
 ## Connections
 

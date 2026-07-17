@@ -2273,360 +2273,6 @@ Whitsun, 1926.
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="The Emerald of Catherine the Great — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
-
-
-CHAPTER THREE
-
-IT WAS THAT same Friday night, and about 9.55 by the clock. The men had just come in from the dining-room. They had been warned that the housekeeper, Mrs. Bankes (fear nothing — you will never meet her again) had commandeered the drawing-room. They were not allowed to go back there, for even now the belated serfs were spreading, under Mrs. Bankes’ eye, large dingy cloths over the chairs and tables against the early sweep of the morrow.
-
-The Home Secretary had no choice but to shepherd them into the somewhat forlorn, hardly used West Room. A good fire had been ordered. He trusted humbly in God that the parrot Attaboy, securely covered in its black cage cloth, could utter no unseemly Attaboy cry. If it did — well, if it did, Tommy must laugh. After all, it was his fault if he had pulled a horse.
-
-The men crawled in. McTaggart, being by far the meanest, was compelled — in an agony — to go first. Next the Professor slid; after him with sullen assurance Tom Galton. And the great statesman filed in last, as host and chief, and shut the door with all the discretion of the Front Bench and fourteen years of Westminster.
-
-Marjorie was standing on the polar-bear skin rug by the fire, near that fierce grinning head, those ironical teeth, holding the emerald — the brooch — in her open hand; showing it to Victoria, who peered at it cynically enough. She had already heard the story of it — for the third time in two weeks, and for the three hundred and fifty-first in her life — she knew it to be false, and she dreaded to hear again the myth of the diplomat, the old Bohunian lie. But a good heart thumped behind that bony breast and Victoria Mosel spared the child.
-
-With this coming in of a new audience, Marjorie summoned them at once, and they crowded round in obedience to that summons; and once more to the listening earth she told — in her innocence! — the largesse of Catherine the Great to her ancestor the diplomat, in whom she firmly believed.
-
-Lord Galton looked at the jewel with a sort of animosity, as much as to say, “Put on no suspicious airs with me!” McTaggart tittered at it with a nervous smile, as though he liked it well enough, but was rather frightened of it; the Professor glared it down with an expert’s pose. The three men stood thus, bunched round their young hostess, touching shoulders, while Marjorie continued her story of the de Bohun mission to the great Empress, adding sundry other details which in her judgment gave a heightened historical value to the gem.
-
-Then the gods struck.
-
-What she did, or how she did it, she never remembered. She felt a sharp shoot in her finger: she should have known it was due to the ill-calculated length of the pin. She said to herself — but in her heart she did not believe it — that some one had jogged her elbow. Anyhow, the Emerald of Catherine the Great jerked out suddenly and fell from her palm, making no noise. It must have fallen upon the bearskin at her feet, where a standard electric light upon a little table near at hand happened to cast a shadow. She gave a startled cry, and at once the three men were on their knees — yes, even the old Professor — groping in the fur.
-
-They were longer at their groping than one might have thought. The object was small, but not so small as all that. It was flat, heavy, metallic: it could not have rolled. It must be within a few inches, or a foot at the most, of the place on which its proprietress had stood.
-
-Unfortunately she moved, and in that movement no one could remember, to half a foot or so, exactly where it should have lain. While the three men still groped, and the impatient Marjorie tapped with her foot in the suspense of it, the unfortunate McTaggart cried excitedly, “I’ve got it!”
-
-Lord Galton at once jumped up, relieved; the Professor also extended upwards — less smartly; but when they had risen McTaggart was still on his knees. Then with his face peering into the fur of the bearskin, he added, “No! It’s a splinter of coal,” — and he threw that fragment into the fire and continued to rummage.
-
-The Professor and Lord Galton looked at each other. They hesitated whether to go down again; they thought it better to leave it to McTaggart. Poor McTaggart thus remained in the abject attitude to which he had now been subjected for two minutes or more, becoming increasingly convinced that something terrible had happened.... He could not conceive why he should not put his hand upon the thing.... But it was not there.... At last, flushed, more disordered than ever, he pressed the fingers of his left hand upon the floor and stood upright. He was a little blown.
-
-“I can’t find it!” he said.
-
-“You must find it!” said Marjorie sharply. Then, remembering herself, she looked at the two who were her equals and cousins and she said:
-
-“One of you must find it! It can’t be lost! Nonsense.... Look here, stand back!” She pushed her poor old aunt, who was peering about in a futile fashion. She enlarged the circle, and then said again:
-
-“Now then, you must find it! Look here, I’ll find it.” They went down again reluctantly, and she herself sank suddenly to her knees and helped the group.
-
-But they looked in vain. They separated the hair of the rug carefully, they lifted it up pettily, edge by edge, and looked beneath. They pressed upon it with their palms to see whether they could not find a lump. Then they took the poor beast up and shook him savagely. But he yielded no emerald. It was gone.
-
-When at last they all rose again — appalled, for the moment silent — Marjorie was as white as the skin upon which she trod.
-
-“It can’t be lost,” she said again, bitterly. “I say, it can’t be lost.”
-
-But lost it was.
-
-“Father,” she said angrily. “Do come and look!”
-
-The Home Secretary reluctantly hoisted himself from his chair with a secret groan, shuffled up to the place, and looked down at the rug in a refined manner.
-
-“Look for it, father! Do look for it! Come, it can’t be lost!”
-
-Painfully but obediently the Home Secretary went down on his knees in his turn and groped about, with far less chance than any other man would have had, of laying his hand upon the stone. He drew blank, as the others had, and rose with more difficulty, McTaggart helping him; he shuffled back, and sank again into his chair.
-
-“Well, well, well!” he said. “Well! Well!”
-
-There were tears in Marjorie’s eyes — which was a weakness in one so born and in such a place, but she could hardly keep them back. They were tears as much of anger as of anything else. Upon Victoria Mosel’s face — somewhat apart, and smiling awfully at the bunch of them — there was a look you could not see through. But upon the face of each of the three men who had been first down upon their knees — not upon the face of the Home Secretary — was now drawn an indefinable veil, as of instinctive protection against a censorious world.
-
-It had dawned upon each of them, in varying degrees of rapidity, that he was possibly suspect.
-
-It had flashed first upon the lordlet. He lived and breathed in an air of challenge. It would not have surprised him if he had seen some day on a glaring sky sign flaming up large over Piccadilly Circus and winking in and out to compel the eye: “Attaboy? Who pulled Attaboy? Tommy Galton!”
-
-The Professor got the message to his brain about a quarter of a minute later. He very nearly spoke — but he caught the words in time. The Mullingar Diamond oppressed him: all the world pointed a finger at him, and the air was full of demoniac whispers: “Mullingar! Mullingar!”
-
-And as for the miserable McTaggart, he was already such a worm in his own eyes among these exalted folk that he thought his poverty might alone have him arrested that very night. It struck him with a pang that, in his innocence, he had remained there on his knees long after the others had risen. Then a new shaft stabbed him. Ingenuous, he had dug his own grave! They would interpret that cry, “I’ve found it!” as the sudden shock of a real discovery: for him there sounded dully all around, “Ar-r-rest that mon!” — and he was nearly sick.
-
-So there they stood — three men, none of whom had any idea what had happened, and each well convinced that he was the suspect who must fight it out sooner or later: each at the same time firmly believing that one of the other two was the culprit. In Marjorie’s pure mind there spread a growing certitude that they were all of them guilty, all of them, and that each of them had the emerald in his pocket — yet were there not three emeralds but one emerald. At least, that was how it felt. But within the soul of the Home Secretary — if I might so call it — there was a strong sense of botheration and of wishing the beastly thing had never happened.
-
-Under the keen inward light of Victoria Mosel’s intelligence, standing apart, a fascinating problem was being discussed. She was delighted. It would occupy her for days. It was just what she liked.
-
-In all that circle of heads, showing in different degrees — Victoria’s least of all — the mood of the mind through some transfiguration of the face, each silent for the moment, only one head stood frankly stamped with a fierce joy. It was the head of the polar bear.
-
-If he could have spoken he might — or he might not — have told them. It might have amused him more to keep them in suspense. His great red grinning open mouth and shining teeth were full of joy. His fierce glass eyes glared upon them mischievously. It was almost worth while being shot and skinned for such a revenge as this! He knew where the emerald was.... It was in his right ear.
-
-They had taken him and shaken him with great indignity, but they had foolishly taken him up by the hind legs. One should never take a polar bear up in that way, especially when it is a bear who has been a prince in his own country of keen wind, low shining sun, and little dancing seas against the ice. They had shaken him, but they had shaken — oh, shame! — upside down, and the more they had shaken him, the more firmly had they wedged the emerald in his right ear, where it so snugly lay.
-
-He could have told them, and I have hastened to tell you. Then where, you ask me, does the detective fun come in?
-
-You shall see!
-
-* * * * * * *
-
-Far in the Eastern Wing where, mured in stone Arrived at by a passage cold that ran Along the North o’ the House, and barred with iron As to its windows: also by a door Which leads from the considerable room Wherein are great receptions held at Paulings [An Antrum gaunt, abandoned, having only Upon its walls the Oils of dead de Bohuns (Pronounced Deboons) and sundry dusty sofas: The Room grandiloquently named the Ballroom], There stand the Servants’ Quarters. It is there, That, ruled by their dread Queen, the Housekeeper, And by her Coadjutor King, the Butler, The serfs Boonesque repose. The Cook, the Chauffeur, The Kitchen Maids, the Footmen, and the Boy: And Lord! how many others! These that night — That winter night of doom — held high discourse, Upon the EMERALD. Samuel had heard (While bearing in the tray of drinks, himself Arrayed in livery) how its disappearance Had flummoxed all the Toffs. “You bet your breeches!” Said he, to either sex, indifferent And indiscriminate. “You bet your breeches! Whoever’s pinched it’s got to cough it up! The Boss, he ain’t Home Secretary, not For nothing!” and with that his tongue was still. Then spake young Gwendoline, the Tweeny Maid, “I pity Him or ‘Er as ‘as it!” Words Which, when she had them spoken, froze their souls — Nor none more starkly than the Second Housemaid’s, Unless it were the Boy’s — and so to Bed.
-
-
-
-
-<span class="atom-split" data-atom="chapter_07" data-title="The Emerald of Catherine the Great — Chapter 6" data-chapter="Chapter 07" data-kind="chapter"></span>
-
-
-CHAPTER SIX
-
-THE BOY ETHELBERT was suffering; not from contrition — which, I need hardly tell one of your learning, is the pure sorrow for sin — but from attrition — which, I need hardly tell one of your learning, is the sorrow for sin only in so far as one considers its unpleasant consequences to oneself.
-
-The boy Ethelbert clearly appreciated that in attempting to save himself from one danger he had run himself into another far greater. He had put a valuable jewel into a nobleman’s pocket and that might be, in legal terms, for all he knew, embezzlement, malversation or even a compound and chronic felony of malice prepense; perhaps a misdemeanour — with which word he was familiar through the fate of an uncle of his called John.
-
-He was in great agony, was the boy Ethelbert; in agony of that sort which youth cannot endure until it has relieved itself by communion. But how should he speak? His duty was to his natural lord, the Butler. The glorious, the remote Mr. Whaley: God of the Underworld. Should he confess to the Butler? It would be madness. Yet he must speak: he must unburden his mind.
-
-The innocent child was not long in finding a plan. He would go to his true superior and, naming no names, mentioning no-one-like, he would give a nod as good as a wink to a blind horse, and them as understood could follow if they chose, and if they asked no questions they wouldn’t be told no lies. And mum’s the word. Such, in rapid succession, were the Napoleonic thoughts of Ethelbert.
-
-It was shortly after luncheon that he sought the room in which the dignified O.C. of the household of Paulings was wont to repose from his labours: and never more thoroughly than after luncheon.
-
-Midday sleep is unknown to the young, at least after they are very, very young. Those of young Ethelbert’s age have no use for it and cannot understand what a boon it may be to others. Foolishly, therefore, did young Ethelbert knock at the door of the holy of holies, thereby suddenly awakening the sacred being within, who jerked into a startled gasp. He pulled a handkerchief from his face, thought for a moment that the house was on fire, expected to see an angry master perhaps; was on his feet with labouring breath, purple, expectant; when there entered the Boy.
-
-A fine and hearty curse greeted the youth and almost blasted him from the room, but what he had to say was of such moment that he just stood his ground.
-
-“Oh, sir!” he said, “I thought I’d come and tell you...”
-
-“Come and tell me what? You young devil!” roared Mr. Whaley with a lack of dignity which I should have thought impossible had I not myself once spied upon him in his more relaxed moments, when he thought that none could observe. “I’ve a mind to have you larroped! Damned if I don’t larrop you myself!” He made a vicious dash at the Boy, who was only spurred by such terror to the arresting cry of.
-
-“Ho, sir! The Hemerald....!”
-
-“The Emerald ...” gulped Mr. Whaley in a very changed tone. And then, almost meekly: “Well, what about the Emerald, young Bert? What about it?” The fierceness had gone out of him altogether; he sat down. “Anyone been saying who took it?” For conscience that makes cowards of us all makes us most cowardly when we are innocent — especially in a trade with perquisites.
-
-Ethelbert recovered some little of his composure, and there came into his eyes a look of simple cunning.
-
-“There’s some,” he said, nodding mysteriously, “what might speak if they chose.”
-
-“Oh! Is there?” said Mr. Whaley. “Well then, speak, you little rat!”
-
-“I didn’t say it was me as knew,” answered Ethelbert a little plaintively. “But don’t you think, sir, that when the clothes are brushed and all, him as brushes finds out what’s in the pockets — yes” (mysteriously) “even in them of the ‘ighest?”
-
-“‘Oo’d be fool enough to leave such a thing in their pocket?” said Mr. Whaley contemptuously. “And ‘oo do you mean by the ‘ighest?”
-
-Ethelbert nodded with a superior air.
-
-“Ah!” he answered doggedly, “all I said was, ‘there’s some could speak if they chose.’ And there’s things that may be left in the pockets even of the ‘ighest.”
-
-“Look ’ere, young Bert,” said Mr. Whaley, rising again ponderously, and with a new threat in his face: “I’m not going to have any of that.” Then shaking a considerable sausage of a forefinger at the lad, he added, “When you say ‘the ‘ighest’ that’s enough! Don’t let me ‘ear you speak again: leastways not on jewels and such like. There’s only one name that it can mean you’re driving at” — and there rose up within his mind the majesty of the master, Humphrey de Bohun.
-
-“I’m driving at no one,” said the Boy, struck suddenly again with terror. He had not dreamed that the upper servants felt so strongly upon the immunity of lords such as he in whose pocket the gem, to Ethelbert’s certain knowledge, reposed — for he had put it there.
-
-“You’ve been a-brushing the clothes, young lad, have yer? Yes, of course you have; that’s your place; and setting ’em out as they should be set. And you say you found something in the pocket of the ‘ighest, did you?”
-
-“I never ...” began Ethelbert, almost on the point of howling.
-
-“You shut your dangerous young mouth,” shouted Mr. Whaley. “It’s talking like that against your betters as ‘as put many and many a lad in prison.”
-
-“Oh, sir!” said the unfortunate Bert.
-
-“Now look here, my Boy,” went on Mr. Whaley, in his heaviest manner, slowly transforming himself into the distant Superior and pronouncing divine moral judgment and guidance, as it were, for the very young. “You listen to me, and listen solemn. This may be a turning point in your life, it may. Talk like this among the lower servants, let alone a little bastard not yet sixteen, ‘as been the ruin of some — aye, of many. So I tell ye. The gaols are full of ’em. Now, you mark what I say, young Ethelbert” — it was the first time he had ever used the entire name, but the occasion demanded it— “one word from your lips, and you’re ruined. It’s well you come to one like me, that might be your father like, and that has a care for your future, my lad. Remember that! One word from your lips, and you’re ruined. It’s not for you to be piecing this and that together. Gentlemen ‘ave got ways o’ their own, and, anyhow, I’m slow to believe you. There may be a game about all this, and, anyhow, not a word from your lips. Mark, my lad!” he went on, his voice booming, “ye’re lost if ye speak. Have you taken that?” he ended, almost shouting again.
-
-“Oh, yes, sir!” said the miserable Ethelbert, trembling. “Oh, sir, I meant no harm....”
-
-“Well, then, you go and do no harm,” concluded Mr. Whaley, and waved the infant away.
-
-* * * * * * *
-
-Mr. Whaley rose to his full height and girth and stretched. He looked in a little square looking-glass, one of his necessaries of life, thought his tie doubtful, carefully and gingerly put on a new one, worthy of the occasion. His boots — he glanced down at them — yes, his boots would do. His trousers were just what they should be. The fringe of hair round the majestic dome of his head never needed attention less than now.
-
-It was a solemn moment in history. He, George Whaley, a man of weight and years, possessed, moreover, now of a sufficient competence, but not undesirous of making it larger still, was in possession of the dread secret. The head of the de Bohuns, one of His Majesty’s principal Secretaries of State, had fallen, fallen, fallen! Humphrey de Bohun had pinched his own daughter’s emerald. The Emerald of Catherine the Great. The fortune of the de Bohuns lay concealed by his master’s hand, awaiting the receiver’s gold. Oh, horror! In what embarrassment the unfortunate man had committed the fatal act Mr. Whaley knew not: could so good a man have been blackmailed by scoundrels? Why should he need money — and money at such risk? Alas! who can plumb the depths of the human heart? thought George Whaley — indeed, he almost spoke the words aloud, so apposite did they seem, and so often had he read them in his book of devotions. Yet was it so! And ever, in the least expected places, thought George Whaley again, lies the solution of a mystery. He shot his cuffs, drew himself up, coughed a little, and rehearsed the scene.
-
-“I beg your pardon, sir, may I have the honour of a moment’s confidential word with you?” And then another discreet cough.
-
-Then how to put it? He thought long and deeply. He must put it with sympathy — almost as a friend. He must not forget that he was talking to a superior. It would need very skilful handling; but what are butlers for if they cannot skilfully handle? It is the very core of buttling!
-
-He had handled other situations in his other situations, had Mr. Whaley: none quite so delicate as this, but still, some of ’em pretty delicate. Yes; he must talk to Humphrey as a friend. Respectfully, but as a friend: and above all firmly. It was clear that such a service would merit some reward.
-
-God knows, there would be no tone of menace! Oh, no! Whatever honorarium might accrue to George Whaley as a reward for such revelation should be the gift of a grateful heart alone: and, said Mr. George Whaley to his own conscience, why not? He would be doing his master a very great service. Indeed, he would be doing a double service — nay, a treble one. For he would be rescuing the Home Secretary of [[England]] from his lower self; that was a moral service. He would be preventing him from inevitable discovery; that was a material service. He would be serving him faithfully as an honest domestic should; and that was a service of loyalty.
-
-Was it to be wondered at (the whole scene rose vividly before his eyes as it was to be — as it certainly would be), was it to be wondered at that the grateful man should, on an impulse, seize the honest servitor’s hand, grasp it warmly, and then, with a catch in his voice, cry aloud, “Whaley, you have served me well!” The rest would follow. Not less, he took it, than five hundred pounds.
-
-Should he go further? Should he offer his services for taking back the gem discreetly and seeing that it should be laid, through means he could command, upon the dressing-table of the culprit’s daughter — no one should know whence?
-
-Time must show; the opportunity would develop; the details of the drama would be filled in. But the main lines were clear. George Whaley would save the head of the family of de Bohun; he would save the soul — and, incidentally, the more earthly reputation — of the head of the family of de Bohun. He would receive the little spontaneous, heartfelt reward due to so honest a liegeman of the de Bohuns. Ah! Chivalry was not dead....
-
-But nothing must be done on impulse. He glanced at his watch. It was only just past three. He must watch the poor tortured soul until there had developed in it, as inevitably there would through the effect of time, a false security — a false security brought by suspicions and counter-suspicions among the guests, who could never dream the real truth. Upon such a mood the revelation would fall with tenfold effect.
-
-Then, and then only — he would watch his moment — would George Whaley unburden himself of the curse of the de Bohuns and turn that curse into a blessing; moral to his master, and to himself material.
-
-Such was the plan of George Whaley. Once more he recited, but in an undertone, a whisper, the words of which could not be heard by another, the very phrases he was to use, the gestures proper to the great moment when it should come. So discreetly did he rehearse that young Ethelbert without, his ear glued to the keyhole, heard nothing but a murmur of monologue within, and feared in one wild moment that the awful revelation about Lord Galton had driven the butler mad.
-
-
-
-
-<span class="atom-split" data-atom="chapter_12_eleven" data-title="The Emerald of Catherine the Great — Chapter 12: ELEVEN" data-chapter="ELEVEN" data-kind="chapter"></span>
-
-
-CHAPTER ELEVEN
-
-DURING DINNER MR. Collop was not silent. In vain did the Home Secretary indicate to his servant by a grimace that Mr. Collop’s wine should be spared. Mr. Collop had all the assurance of his breeding, and when he wanted more wine he asked for it. It added, if that were possible, to his remarkable courage.
-
-That night was forever memorable to all those present for the instructive lecture which he delivered upon the habits of the people of Bogotar. They all inwardly suffered, or chuckled, as their temperaments demanded. Vic ignored Marjorie’s eyes and shamefully stayed on at table as late as possible to carry the torture forward.
-
-The men did not stop long over their wine — for by that name I deign to call the beverage. The evening passed as on a rack for most, while Mr. Collop roared busily of Bogotar, with many a droll tale and many a gesture of large effect to underline it. Once more Vic stuck it out. She was in heaven. She egged the Startler on. She asked question after question on the famous oil-town of the Pearson Contracts. She even asked about the women’s love affairs and the British prospectors’ entanglements in that ill-known resort.
-
-The Master of the House had to force the situation.
-
-“I am going to ask you,” said the Home Secretary, rather pompously, “to excuse me for the rest of the evening. I have to talk of very important matters with Mr. Collop. We shall be closeted together, I fear, till the small hours of the morning; and I beg that you will not think me discourteous.”
-
-The only one of the clot to whom this public speech could possibly be addressed — all the rest were of the Family — was the lately unfortunate, but now radiant, McTaggart. But it is a politician’s habit to be pompous whenever he gets the least excuse, and McTaggart was the excuse.
-
-“On official business connected with the ... ah, with the ... well ... it would not be to the public interest to say precisely.”
-
-McTaggart looked very carefully from under his eyelashes at his nearest neighbour; Victoria Mosel darted a corner look at Galton, and Galton grimly smiled at Marjorie. Aunt Amelia did not hear properly. Only the Professor rose to the occasion, carolling:
-
-“Certainly, Humphrey, certainly. By all means, Humphrey, by all means.” Then he squeezed his bony hands together, as though he had made a joke.
-
-The women dropped out of the room. Marjorie waited above with her door ajar till she should know the way was clear. Then she was to come down.
-
-“Shall we go into my study?” said the Home Secretary to his latest guest, when the women had gone.
-
-“Thank you, I would not give ye that trouble, I wouldn’t,” said Mr. Collop heartily. “I’d as soon talk ’ere. I think better like in large rooms.” And as he said that, the three men went out — perforce. But Galton went not to bet but to the small smoking-room, and Victoria Mosel did the same. Collop filled himself a whiskey and soda. And without giving his employer time to open the ball, he entered on the plan engendered by his mighty brain.
-
-As he began to speak, Marjorie, following the sound of voices, slipped in. Mr. Collop stared at her, said “‘Ullo?” but returned to his business.
-
-“First of all,” he said, with a good gulp at the spirits, “ye want a plan made of this here West Room, as ye call it. Now mark me,” he insisted, as the Home Secretary half opened his never-quite-shut mouth, “that plan’ll ‘ave to be in not less than five colours — and I’ll tell you for why. In a case of this kind, you ‘ave got to distinguish between materials. Remember what ye’re looking for! Ye’re looking for a object that might be called transparent in a manner o’ speaking.”
-
-“Mr. Collop,” broke in the Home Secretary desperately, “how long will it take to make such a plan?”
-
-“If there’s a harchitect ‘andy, it needn’t take three days. I’ve ‘ad dozens. And next,” said Mr. Collop, as loudly as before, “we ‘ave to ‘ave measurements. We don’t need regular surveys and we don’t need to fill the garden wi’ standards nor flags, but just measurements.”
-
-“And how long will these take?” asked the Home Secretary, a fabulous sum mounting up before his eyes, and the impossibility of keeping his guests forever.
-
-“You will observe,” said Mr. Collop, clearing his throat as for a speech, and addressing the lady— “you will observe, Miss, that what two men can do in one time, four men can do in arf the time, and eight men — why, eight men in a quarter of the time. And sixteen men,” he continued, turning to her progenitor, “they’d take arf as much again. While they’re making the plan in one room, if you ‘ave enough men with chains in the grounds. Then there’s the probing.”
-
-“The what?” asked de Bohun.
-
-“The probing,” answered his guest briefly. “That’s a longer job, ‘specially as I noticed that there’s stone floors about. Now ‘ere’s another matter. Look at this carpet. That’s Aubusson, that is. Ah, I notice everything! Aubusson — that’s what it is.”
-
-“Mr. Collop,” broke in Marjorie, in her suffering....
-
-“Now, Miss,” said Mr. Collop with command, “don’t you interrupt me. Let me put the necessaries before you. When you get all this done, sir, what are you to do, then? What are you to do next? Why, I’ll tell you. You’ll have all the shutters shut: I noticed you ‘ad shutters: and those curtains pulled. Then you’ll put what they call Marlin’s New Irridiant up. That’s the light we work by. And I’ll tell you for why. You ‘ave plain electrics in the room and they casts shadows. Don’t they, Miss?” he appealed to his hostess. But before she could agree, he went on, like a mighty river in flood:
-
-“Now, casting shadows, you might miss a small object. That’s how objects do get missed. You’ve got to think of these things. Artificial light that is distributed high and in the corners....”
-
-The Home Secretary could bear no more. “Yes, yes, yes,” he said. “Where does one get the stuff?”
-
-“You’ll see!” said Mr. Collop tartly, but with pardonable pride. “It’s expensive, mind you,” he added honestly. “But you got to do this job well or not at all.”
-
-“But, Mr. Collop,” said poor Marjorie, who could hardly bear another moment, “before all this expense couldn’t we ...”
-
-“No, Miss,” said the redoubtable Collop, shaking his head firmly. “Not to be thought on! I wouldn’t undertake the responsibility, I wouldn’t. And mind you, this ain’t the first job of the sort I’ve tackled; not by thousands it ain’t.” (An exaggeration — due, I am afraid, to the whiskey.) “I wouldn’t undertake the responsibility! I’ll put no man under a cloud till I’ve made certain that it’s not lost and hiding of its own. If it’s not found, why then it’ll be time to begin.”
-
-It was Marjorie who found the decision to break off the battle. She got up suddenly.
-
-“Good night, Mr. Collop,” she said. “I understand all about it now. We leave it to you.”
-
-“Thanks, Miss,” said Mr. Collop. “That’s the right spirit! You leave it to the perfessional man, and you’ll never regret it! Is it good night to you, sir?” he added in a voice as loud as ever, stretching out a firm hand and seizing that of the Home Secretary. He crushed it in an iron grip, so that the poor old gentleman winced with pain.
-
-“No, Mr. Collop! ... No, pray ... I must see you again in a moment, indeed I must ... but will you excuse me a moment?” He rose. “My daughter and I must have a private word together I think....”
-
-“It’s my place to retire, my lord,” said Mr. Collop all in the grand manner, weak in the distinctions. “I’ll be in the library, and when you want me, why, come and cop me,” and out he went.
-
-Without a moment’s warning, Marjorie threw herself upon a sofa, crossed her arms upon the back of it, and began crying and sobbing in a storm. Her father was enormously distressed.
-
-“There, there, my dear,” he said, “you are quite overwrought; you are tired. Get to bed. It can’t be helped. We must go through with it.”
-
-“Oh, papa,” she sobbed, “it’s intolerable. I can’t help thinking! Just think what they’ll all think!”
-
-“Yes, my dear; I was thinking that they would be thinking what you say they will be thinking. I’m afraid some of them must have been thinking already.”
-
-“Perhaps,” moaned poor Marjorie, half consoled by the relief of tears, “that b-b-b-loody b-b-beast will find the b-b-b-b-b-bloody thing after all.”
-
-“Yes, my dear, yes. I hope he will. I’m sure he will. I am indeed!”
-
-She dried her eyes, sighed wearily, kissed her father good night, and went off to bed. It was nearly one o’clock. The poor man, as he heard her step go slowly up the great stairs, retained his daughter’s despairing voice vividly in his ears. It reminded him of his wife’s — only the vocabulary had somewhat changed since the days when Queen Victoria gave so admirable an example to the ladies of the land.
-
-* * * * * * *
-
-He rose wearily, feeling fevered, and the worry on him increasingly intolerable. He stepped out into the hall; it was still fully lit. He rang, and when the servant came he asked him whether the offices were shut up. He was told that all had gone to bed but the man who had come at his summons. He bade him go in his turn, and put out all the lights. Then he himself switched out the bulbs in the hall and stared at the great window beside the door. It was singularly light outside, and the air was oppressive within. Cold as was the weather, he needed to feel the open. He thrust up the sash and drank in the rush of freezing air.
-
-The moon must have just risen, but a slight mist was ascending. Half an hour’s light fall of snow had again marked off the lawn, but evidently hours before, since the paths were swept round the house and along up the avenue to the left. He shut down the sash again, a little refreshed, but still most ill at ease.
-
-With a sigh he turned towards the door of the library, within which room, alone, crouched the nightmare policeman. He forced himself in, and found the fellow there.
-
-“We must go into the West Room, Mr. Collop,” he said. “My daughter has gone to bed; the house is all shut up, and we can discuss matters undisturbed. It is in the West Room that the thing happened. Come.”
-
-
-
-
-<span class="atom-split" data-atom="chapter_14_thirteen" data-title="The Emerald of Catherine the Great — Chapter 14: THIRTEEN" data-chapter="THIRTEEN" data-kind="chapter"></span>
-
-
-CHAPTER THIRTEEN
-
-IT IS A fascinating occupation to watch a powerful human brain at work upon some great problems — the face alive with mind, the tension of the muscles, the frowning eyes; and to feel behind it all that driving, compelling power of the intelligence wherein man is God-like.
-
-But no one would have seen this sight in the case of Mr. Collop had he remained. What he would have seen was a hand pouring out whiskey for itself over and over again and adding smaller and smaller splashes of soda; and at last an obese body attempting sleep in the lounge chair which it filled.
-
-He had comfortably made up his mind. He was going to stay in the West Room and sleep as he could, leaving his bed untouched by way of giving the impression of a long night’s intellectual wrestling. Next morning he would take every one of the three in turn, tell each separately that he was from the Yard, tax them brutally with the theft, and terrify and bully the culprit, whichever of the three it might turn out to be, into confession. So decided, he chose a good chair among the mutilated victims, wheeled it close to the electric switches by the fire, settled himself down, turned off the light and shut his eyes for sleep.
-
-Now it is paradoxically true of the substantial more than it is of the insufficient, that they must shift and turn to find that posture in which their persons can best repose, especially in chairs. Nor could Mr. Collop at once and easily fall into the arms of Morpheus. He shifted and turned, and wedged in and re-wedged in and out, and moved again and replaced those various muscles and anatomical names of which escape me — or rather I never knew them, though the things themselves I know well enough — when all of a sudden he gave a loud and piercing cry and leapt up broad awake. Something had stuck into him — something abominably sharp. His reaction had been instantaneous. He struck a match. He switched on the light.
-
-He groped in the offending tail-coat pocket and — not the first to do so! — stared at what he found in his hand — the emerald! Its brooch setting was unclasped, the wicked steel pin of it was pointing at a challenging angle in the air. He glared viciously at the offending point which had wounded his innocent person; then his eyebrows relaxed into a stupefied stare at the stone itself.
-
-“Great God!” he said three times, “Great God! Great God!”
-
-Birds of the Empire.
-
-I. — The Parrot Attaboy, in action.
-
-There is a current impression, taken I think from the great spate of detective stories upon which we are all fed, that your professional detective has no brains whatsoever and would be no match for the sloth of the Andes, or the sluggish waddle-duck of Australian and Imperial fame. It is an error. They are men as we are and their intelligences, such as they are, work more or less under the spur of prospective advantage. Within three minutes Mr. Collop had grasped the fact that fame, security, promotion, a permanent, good, appreciated, livelihood lay in his outstretched palm. Had he not found the emerald? How he had found it, why it was there at all, he knew not. But he had quickly seen how its possession might be used.
-
-“There you are, you great blighter,” he murmured, addressing the charming gem. “Damn your green eyes! I’ll make you work, I will! William, my boy, here’s something that’s got to be thought out!”
-
-For the first time for many months, Mr. Collop thought, really thought; “concentrated” as he would have put it.
-
-He would have done it better perhaps if he had not been so full of whiskey. But shock is a powerful stimulus. And he was already three-quarters sober and coming to conclusions.
-
-For a long time the effect of this unusual exercise was a blank and a confusion of mind; then there broke in upon the silence a sound which startled him horribly. A voice, somewhat muffled, uncertain, had spoken in that silence where none but him could be. He had heard it! Or was he mad?
-
-“Attaboy!”
-
-Was it a divine command? Had some dear wraith of the dead — his sainted mother perhaps, who could tell — come to comfort him in this dread hour of his fate? All was dead still. His hand trembled a little as he pulled out his watch. It was a quarter past two, and the silence was enormous.
-
-Most awfully it came again.
-
-“Attaboy!”
-
-He hardly dared to look around. Look round he did and there he saw what he had not before grasped — that the dome of black cloth, suspended, covered a cage; thence it was that once again, but this time in a failing, drowsy manner, came the unearthly summons:
-
-“Attaboy!”
-
-A revelation burst upon his mind. It was a revelation indeed! The whole scheme blazed suddenly before him.
-
-He walked boldly to the cage, took off the cover and saw what may very properly be called the blinking bird, for the sudden light had dazzled it.
-
-“Attaboy!” croaked the parrot again in a rather peevish fashion.
-
-“I’ll Attaboy you!” hissed Mr. Collop through his teeth.
-
-He made his preparations to capture that innocent accomplice; his scheme was now fully developed.
-
-He had heard that this kind of fowl was of a very fierce and dangerous sort; but the plan must be pursued at all risks. He took his handkerchief from his pocket — a large bandanna of the noblest — and with a decision worthy of a better cause, whipped it round the gaudy coloured neck after the fashion of a cravat. A muffled protest proceeded from that insulted organ.
-
-“You wait!” muttered Mr. Collop vindictively, as though the poor bird were his enemy. He looked about him. There was a large square of black cloth on his host’s writing-table. With that he made a second deadener, hoodlike, entirely covering the animal’s head, and tied it securely on; all that now penetrated from within was a faint, varying sound which one had to be in the closest neighbourhood to hear. Next he cut off a piece of tape from the coil neatly disposed by the side of the official papers, and bound the fierce talons securely. Then with infinite precaution he slipped off the chain from its ring, and held the exotic biped firmly in both hands.
-
-The clipped wings fluttered a little, but they were contained by strong hands. Mr. Collop made for the window. He laid his living parcel down, where it struggled in vain; opened the shutters with infinite precautions for avoiding sound — above, Aunt Amelia, happily deaf, was deep in slumber; pulled up the sash so slowly that it seemed an age; went back on tiptoe, extinguished the light and — a stroke of genius — went noisily upstairs, bearing the parrot, to give full warning to anyone who might be still awake that he had gone to bed, after all. He tumbled his bed about. He returned.
-
-He came down gingerly in shoeless feet, and stepped out into the night.
-
-The stillness was awful, but all propitious to his plan. The thin snow lay even and spotless on the grass on either side of the avenue. The nearer trees were clear in the half light. The gravel walk, though well swept and clear of snow, leaving no trace of his passage, was bitterly cold to his thinly clad feet — for his socks were of silk, I am glad to say.
-
-There was a wintry mist and beyond it the white suffused radiance of the moon.
-
-He looked up cautiously. There was not a chink of light in any window. All slept, and the Holy One presided in the heavens above, beyond the fog in her blurred aureole of light. It was the hour for great deeds. And a great deed was done.
-
-Mr. Collop, with infinite precautions, lifted up his captive and planted its two talons firmly upon the snow to the side of the swept alleyway and pointing at a small, most aged and somewhat stunted oak about thirty yards ahead of him on the edge of the swept path. He himself kept crouching on the swept gravel and holding poor Attaboy to the side above the snow. Then, still creeping noiselessly along, he planted the bird’s claws down again about six inches further. And so on, hop by hop.
-
-It was merciful in Providence to have spared that tropical exile any too sensitive nerves in its claws; but it protested. It thought the march an indignity, and it was abominably cold. The parrot squirmed. The parrot resisted. But the parrot was for it.
-
-Six inches by six inches the double imprint of the claws appeared in a lengthening chain upon the thin snow until they had come to within ten feet of the oak. Then did Mr. Collop most cautiously rise from his stoop and, taking the bird under his left arm and standing upon tiptoe, stretch his right hand up to a small hollow in the stump of a branch that had decayed long ago: he felt its concavity. It would do. He carefully felt for the emerald in (now) his waistcoat pocket. It was safe. He turned back swiftly towards the great dark house in the moonlight.
-
-The thing was accomplished.
-
-As stealthily as he had come, but far more rapidly, thanking Heaven that still no light showed through any cranny of the mansion, he loped back, shut the window down again with infinite precautions and even then dreaded a slight sound, put his dumb confederate back, released it of its bandages, slipped on the cover of the cage, and crept up to bed.
-
-* * * * * * *
-
-So true it is that once in every man’s life comes an opportunity and that in every man some talent, however unsuspected, lurks.
-
-
-
-
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="The Emerald of Catherine the Great — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
 
@@ -2861,6 +2507,92 @@ So much for the tea table and those that sat round it. The Home Secretary, damna
 If you think I am going to describe to you in any detail how they passed their time between tea and dinner, you are mistaken. Some books are written like that, and there is an art of making them readable. I have it not.
 
 To action, therefore — to the Emerald!
+
+
+
+
+<span class="atom-split" data-atom="chapter_04" data-title="The Emerald of Catherine the Great — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+
+
+CHAPTER THREE
+
+IT WAS THAT same Friday night, and about 9.55 by the clock. The men had just come in from the dining-room. They had been warned that the housekeeper, Mrs. Bankes (fear nothing — you will never meet her again) had commandeered the drawing-room. They were not allowed to go back there, for even now the belated serfs were spreading, under Mrs. Bankes’ eye, large dingy cloths over the chairs and tables against the early sweep of the morrow.
+
+The Home Secretary had no choice but to shepherd them into the somewhat forlorn, hardly used West Room. A good fire had been ordered. He trusted humbly in God that the parrot Attaboy, securely covered in its black cage cloth, could utter no unseemly Attaboy cry. If it did — well, if it did, Tommy must laugh. After all, it was his fault if he had pulled a horse.
+
+The men crawled in. McTaggart, being by far the meanest, was compelled — in an agony — to go first. Next the Professor slid; after him with sullen assurance Tom Galton. And the great statesman filed in last, as host and chief, and shut the door with all the discretion of the Front Bench and fourteen years of Westminster.
+
+Marjorie was standing on the polar-bear skin rug by the fire, near that fierce grinning head, those ironical teeth, holding the emerald — the brooch — in her open hand; showing it to Victoria, who peered at it cynically enough. She had already heard the story of it — for the third time in two weeks, and for the three hundred and fifty-first in her life — she knew it to be false, and she dreaded to hear again the myth of the diplomat, the old Bohunian lie. But a good heart thumped behind that bony breast and Victoria Mosel spared the child.
+
+With this coming in of a new audience, Marjorie summoned them at once, and they crowded round in obedience to that summons; and once more to the listening earth she told — in her innocence! — the largesse of Catherine the Great to her ancestor the diplomat, in whom she firmly believed.
+
+Lord Galton looked at the jewel with a sort of animosity, as much as to say, “Put on no suspicious airs with me!” McTaggart tittered at it with a nervous smile, as though he liked it well enough, but was rather frightened of it; the Professor glared it down with an expert’s pose. The three men stood thus, bunched round their young hostess, touching shoulders, while Marjorie continued her story of the de Bohun mission to the great Empress, adding sundry other details which in her judgment gave a heightened historical value to the gem.
+
+Then the gods struck.
+
+What she did, or how she did it, she never remembered. She felt a sharp shoot in her finger: she should have known it was due to the ill-calculated length of the pin. She said to herself — but in her heart she did not believe it — that some one had jogged her elbow. Anyhow, the Emerald of Catherine the Great jerked out suddenly and fell from her palm, making no noise. It must have fallen upon the bearskin at her feet, where a standard electric light upon a little table near at hand happened to cast a shadow. She gave a startled cry, and at once the three men were on their knees — yes, even the old Professor — groping in the fur.
+
+They were longer at their groping than one might have thought. The object was small, but not so small as all that. It was flat, heavy, metallic: it could not have rolled. It must be within a few inches, or a foot at the most, of the place on which its proprietress had stood.
+
+Unfortunately she moved, and in that movement no one could remember, to half a foot or so, exactly where it should have lain. While the three men still groped, and the impatient Marjorie tapped with her foot in the suspense of it, the unfortunate McTaggart cried excitedly, “I’ve got it!”
+
+Lord Galton at once jumped up, relieved; the Professor also extended upwards — less smartly; but when they had risen McTaggart was still on his knees. Then with his face peering into the fur of the bearskin, he added, “No! It’s a splinter of coal,” — and he threw that fragment into the fire and continued to rummage.
+
+The Professor and Lord Galton looked at each other. They hesitated whether to go down again; they thought it better to leave it to McTaggart. Poor McTaggart thus remained in the abject attitude to which he had now been subjected for two minutes or more, becoming increasingly convinced that something terrible had happened.... He could not conceive why he should not put his hand upon the thing.... But it was not there.... At last, flushed, more disordered than ever, he pressed the fingers of his left hand upon the floor and stood upright. He was a little blown.
+
+“I can’t find it!” he said.
+
+“You must find it!” said Marjorie sharply. Then, remembering herself, she looked at the two who were her equals and cousins and she said:
+
+“One of you must find it! It can’t be lost! Nonsense.... Look here, stand back!” She pushed her poor old aunt, who was peering about in a futile fashion. She enlarged the circle, and then said again:
+
+“Now then, you must find it! Look here, I’ll find it.” They went down again reluctantly, and she herself sank suddenly to her knees and helped the group.
+
+But they looked in vain. They separated the hair of the rug carefully, they lifted it up pettily, edge by edge, and looked beneath. They pressed upon it with their palms to see whether they could not find a lump. Then they took the poor beast up and shook him savagely. But he yielded no emerald. It was gone.
+
+When at last they all rose again — appalled, for the moment silent — Marjorie was as white as the skin upon which she trod.
+
+“It can’t be lost,” she said again, bitterly. “I say, it can’t be lost.”
+
+But lost it was.
+
+“Father,” she said angrily. “Do come and look!”
+
+The Home Secretary reluctantly hoisted himself from his chair with a secret groan, shuffled up to the place, and looked down at the rug in a refined manner.
+
+“Look for it, father! Do look for it! Come, it can’t be lost!”
+
+Painfully but obediently the Home Secretary went down on his knees in his turn and groped about, with far less chance than any other man would have had, of laying his hand upon the stone. He drew blank, as the others had, and rose with more difficulty, McTaggart helping him; he shuffled back, and sank again into his chair.
+
+“Well, well, well!” he said. “Well! Well!”
+
+There were tears in Marjorie’s eyes — which was a weakness in one so born and in such a place, but she could hardly keep them back. They were tears as much of anger as of anything else. Upon Victoria Mosel’s face — somewhat apart, and smiling awfully at the bunch of them — there was a look you could not see through. But upon the face of each of the three men who had been first down upon their knees — not upon the face of the Home Secretary — was now drawn an indefinable veil, as of instinctive protection against a censorious world.
+
+It had dawned upon each of them, in varying degrees of rapidity, that he was possibly suspect.
+
+It had flashed first upon the lordlet. He lived and breathed in an air of challenge. It would not have surprised him if he had seen some day on a glaring sky sign flaming up large over Piccadilly Circus and winking in and out to compel the eye: “Attaboy? Who pulled Attaboy? Tommy Galton!”
+
+The Professor got the message to his brain about a quarter of a minute later. He very nearly spoke — but he caught the words in time. The Mullingar Diamond oppressed him: all the world pointed a finger at him, and the air was full of demoniac whispers: “Mullingar! Mullingar!”
+
+And as for the miserable McTaggart, he was already such a worm in his own eyes among these exalted folk that he thought his poverty might alone have him arrested that very night. It struck him with a pang that, in his innocence, he had remained there on his knees long after the others had risen. Then a new shaft stabbed him. Ingenuous, he had dug his own grave! They would interpret that cry, “I’ve found it!” as the sudden shock of a real discovery: for him there sounded dully all around, “Ar-r-rest that mon!” — and he was nearly sick.
+
+So there they stood — three men, none of whom had any idea what had happened, and each well convinced that he was the suspect who must fight it out sooner or later: each at the same time firmly believing that one of the other two was the culprit. In Marjorie’s pure mind there spread a growing certitude that they were all of them guilty, all of them, and that each of them had the emerald in his pocket — yet were there not three emeralds but one emerald. At least, that was how it felt. But within the soul of the Home Secretary — if I might so call it — there was a strong sense of botheration and of wishing the beastly thing had never happened.
+
+Under the keen inward light of Victoria Mosel’s intelligence, standing apart, a fascinating problem was being discussed. She was delighted. It would occupy her for days. It was just what she liked.
+
+In all that circle of heads, showing in different degrees — Victoria’s least of all — the mood of the mind through some transfiguration of the face, each silent for the moment, only one head stood frankly stamped with a fierce joy. It was the head of the polar bear.
+
+If he could have spoken he might — or he might not — have told them. It might have amused him more to keep them in suspense. His great red grinning open mouth and shining teeth were full of joy. His fierce glass eyes glared upon them mischievously. It was almost worth while being shot and skinned for such a revenge as this! He knew where the emerald was.... It was in his right ear.
+
+They had taken him and shaken him with great indignity, but they had foolishly taken him up by the hind legs. One should never take a polar bear up in that way, especially when it is a bear who has been a prince in his own country of keen wind, low shining sun, and little dancing seas against the ice. They had shaken him, but they had shaken — oh, shame! — upside down, and the more they had shaken him, the more firmly had they wedged the emerald in his right ear, where it so snugly lay.
+
+He could have told them, and I have hastened to tell you. Then where, you ask me, does the detective fun come in?
+
+You shall see!
+
+* * * * * * *
+
+Far in the Eastern Wing where, mured in stone Arrived at by a passage cold that ran Along the North o’ the House, and barred with iron As to its windows: also by a door Which leads from the considerable room Wherein are great receptions held at Paulings [An Antrum gaunt, abandoned, having only Upon its walls the Oils of dead de Bohuns (Pronounced Deboons) and sundry dusty sofas: The Room grandiloquently named the Ballroom], There stand the Servants’ Quarters. It is there, That, ruled by their dread Queen, the Housekeeper, And by her Coadjutor King, the Butler, The serfs Boonesque repose. The Cook, the Chauffeur, The Kitchen Maids, the Footmen, and the Boy: And Lord! how many others! These that night — That winter night of doom — held high discourse, Upon the EMERALD. Samuel had heard (While bearing in the tray of drinks, himself Arrayed in livery) how its disappearance Had flummoxed all the Toffs. “You bet your breeches!” Said he, to either sex, indifferent And indiscriminate. “You bet your breeches! Whoever’s pinched it’s got to cough it up! The Boss, he ain’t Home Secretary, not For nothing!” and with that his tongue was still. Then spake young Gwendoline, the Tweeny Maid, “I pity Him or ‘Er as ‘as it!” Words Which, when she had them spoken, froze their souls — Nor none more starkly than the Second Housemaid’s, Unless it were the Boy’s — and so to Bed.
 
 
 
@@ -3219,6 +2951,94 @@ The unfortunate boy actually examined his own mind to see whether he could possi
 There was no doubt at all. Either he was mad, or that was the emerald. He remembered some odiously vivid dreams that he had had as a child during the air raids — but he was certain this was no dream. He was McTaggart all right, a miserable young journalist against whom fate had woven some hellish plot; and there was the Emerald.
 
 Next he tortured himself as to what he should do; obviously he must keep it upon him; he dared not secrete it anywhere. If one secretes things one can be traced. Conscience for one moment bade him go and tell his host, and risk all; but unfortunately the Angel had been called away at that very moment to tackle the Devil again, who had settled in the Vicarage; and in lack of such heavenly aid McTaggart fell, as any one of us would have fallen. He put the emerald into the inner pocket of his coat, pinned three pins round it carefully to make certain that it should not escape; and then went down with leaden heart to mix with his fellow beings and to trust to time.
+
+
+
+
+<span class="atom-split" data-atom="chapter_07" data-title="The Emerald of Catherine the Great — Chapter 6" data-chapter="Chapter 07" data-kind="chapter"></span>
+
+
+CHAPTER SIX
+
+THE BOY ETHELBERT was suffering; not from contrition — which, I need hardly tell one of your learning, is the pure sorrow for sin — but from attrition — which, I need hardly tell one of your learning, is the sorrow for sin only in so far as one considers its unpleasant consequences to oneself.
+
+The boy Ethelbert clearly appreciated that in attempting to save himself from one danger he had run himself into another far greater. He had put a valuable jewel into a nobleman’s pocket and that might be, in legal terms, for all he knew, embezzlement, malversation or even a compound and chronic felony of malice prepense; perhaps a misdemeanour — with which word he was familiar through the fate of an uncle of his called John.
+
+He was in great agony, was the boy Ethelbert; in agony of that sort which youth cannot endure until it has relieved itself by communion. But how should he speak? His duty was to his natural lord, the Butler. The glorious, the remote Mr. Whaley: God of the Underworld. Should he confess to the Butler? It would be madness. Yet he must speak: he must unburden his mind.
+
+The innocent child was not long in finding a plan. He would go to his true superior and, naming no names, mentioning no-one-like, he would give a nod as good as a wink to a blind horse, and them as understood could follow if they chose, and if they asked no questions they wouldn’t be told no lies. And mum’s the word. Such, in rapid succession, were the Napoleonic thoughts of Ethelbert.
+
+It was shortly after luncheon that he sought the room in which the dignified O.C. of the household of Paulings was wont to repose from his labours: and never more thoroughly than after luncheon.
+
+Midday sleep is unknown to the young, at least after they are very, very young. Those of young Ethelbert’s age have no use for it and cannot understand what a boon it may be to others. Foolishly, therefore, did young Ethelbert knock at the door of the holy of holies, thereby suddenly awakening the sacred being within, who jerked into a startled gasp. He pulled a handkerchief from his face, thought for a moment that the house was on fire, expected to see an angry master perhaps; was on his feet with labouring breath, purple, expectant; when there entered the Boy.
+
+A fine and hearty curse greeted the youth and almost blasted him from the room, but what he had to say was of such moment that he just stood his ground.
+
+“Oh, sir!” he said, “I thought I’d come and tell you...”
+
+“Come and tell me what? You young devil!” roared Mr. Whaley with a lack of dignity which I should have thought impossible had I not myself once spied upon him in his more relaxed moments, when he thought that none could observe. “I’ve a mind to have you larroped! Damned if I don’t larrop you myself!” He made a vicious dash at the Boy, who was only spurred by such terror to the arresting cry of.
+
+“Ho, sir! The Hemerald....!”
+
+“The Emerald ...” gulped Mr. Whaley in a very changed tone. And then, almost meekly: “Well, what about the Emerald, young Bert? What about it?” The fierceness had gone out of him altogether; he sat down. “Anyone been saying who took it?” For conscience that makes cowards of us all makes us most cowardly when we are innocent — especially in a trade with perquisites.
+
+Ethelbert recovered some little of his composure, and there came into his eyes a look of simple cunning.
+
+“There’s some,” he said, nodding mysteriously, “what might speak if they chose.”
+
+“Oh! Is there?” said Mr. Whaley. “Well then, speak, you little rat!”
+
+“I didn’t say it was me as knew,” answered Ethelbert a little plaintively. “But don’t you think, sir, that when the clothes are brushed and all, him as brushes finds out what’s in the pockets — yes” (mysteriously) “even in them of the ‘ighest?”
+
+“‘Oo’d be fool enough to leave such a thing in their pocket?” said Mr. Whaley contemptuously. “And ‘oo do you mean by the ‘ighest?”
+
+Ethelbert nodded with a superior air.
+
+“Ah!” he answered doggedly, “all I said was, ‘there’s some could speak if they chose.’ And there’s things that may be left in the pockets even of the ‘ighest.”
+
+“Look ’ere, young Bert,” said Mr. Whaley, rising again ponderously, and with a new threat in his face: “I’m not going to have any of that.” Then shaking a considerable sausage of a forefinger at the lad, he added, “When you say ‘the ‘ighest’ that’s enough! Don’t let me ‘ear you speak again: leastways not on jewels and such like. There’s only one name that it can mean you’re driving at” — and there rose up within his mind the majesty of the master, Humphrey de Bohun.
+
+“I’m driving at no one,” said the Boy, struck suddenly again with terror. He had not dreamed that the upper servants felt so strongly upon the immunity of lords such as he in whose pocket the gem, to Ethelbert’s certain knowledge, reposed — for he had put it there.
+
+“You’ve been a-brushing the clothes, young lad, have yer? Yes, of course you have; that’s your place; and setting ’em out as they should be set. And you say you found something in the pocket of the ‘ighest, did you?”
+
+“I never ...” began Ethelbert, almost on the point of howling.
+
+“You shut your dangerous young mouth,” shouted Mr. Whaley. “It’s talking like that against your betters as ‘as put many and many a lad in prison.”
+
+“Oh, sir!” said the unfortunate Bert.
+
+“Now look here, my Boy,” went on Mr. Whaley, in his heaviest manner, slowly transforming himself into the distant Superior and pronouncing divine moral judgment and guidance, as it were, for the very young. “You listen to me, and listen solemn. This may be a turning point in your life, it may. Talk like this among the lower servants, let alone a little bastard not yet sixteen, ‘as been the ruin of some — aye, of many. So I tell ye. The gaols are full of ’em. Now, you mark what I say, young Ethelbert” — it was the first time he had ever used the entire name, but the occasion demanded it— “one word from your lips, and you’re ruined. It’s well you come to one like me, that might be your father like, and that has a care for your future, my lad. Remember that! One word from your lips, and you’re ruined. It’s not for you to be piecing this and that together. Gentlemen ‘ave got ways o’ their own, and, anyhow, I’m slow to believe you. There may be a game about all this, and, anyhow, not a word from your lips. Mark, my lad!” he went on, his voice booming, “ye’re lost if ye speak. Have you taken that?” he ended, almost shouting again.
+
+“Oh, yes, sir!” said the miserable Ethelbert, trembling. “Oh, sir, I meant no harm....”
+
+“Well, then, you go and do no harm,” concluded Mr. Whaley, and waved the infant away.
+
+* * * * * * *
+
+Mr. Whaley rose to his full height and girth and stretched. He looked in a little square looking-glass, one of his necessaries of life, thought his tie doubtful, carefully and gingerly put on a new one, worthy of the occasion. His boots — he glanced down at them — yes, his boots would do. His trousers were just what they should be. The fringe of hair round the majestic dome of his head never needed attention less than now.
+
+It was a solemn moment in history. He, George Whaley, a man of weight and years, possessed, moreover, now of a sufficient competence, but not undesirous of making it larger still, was in possession of the dread secret. The head of the de Bohuns, one of His Majesty’s principal Secretaries of State, had fallen, fallen, fallen! Humphrey de Bohun had pinched his own daughter’s emerald. The Emerald of Catherine the Great. The fortune of the de Bohuns lay concealed by his master’s hand, awaiting the receiver’s gold. Oh, horror! In what embarrassment the unfortunate man had committed the fatal act Mr. Whaley knew not: could so good a man have been blackmailed by scoundrels? Why should he need money — and money at such risk? Alas! who can plumb the depths of the human heart? thought George Whaley — indeed, he almost spoke the words aloud, so apposite did they seem, and so often had he read them in his book of devotions. Yet was it so! And ever, in the least expected places, thought George Whaley again, lies the solution of a mystery. He shot his cuffs, drew himself up, coughed a little, and rehearsed the scene.
+
+“I beg your pardon, sir, may I have the honour of a moment’s confidential word with you?” And then another discreet cough.
+
+Then how to put it? He thought long and deeply. He must put it with sympathy — almost as a friend. He must not forget that he was talking to a superior. It would need very skilful handling; but what are butlers for if they cannot skilfully handle? It is the very core of buttling!
+
+He had handled other situations in his other situations, had Mr. Whaley: none quite so delicate as this, but still, some of ’em pretty delicate. Yes; he must talk to Humphrey as a friend. Respectfully, but as a friend: and above all firmly. It was clear that such a service would merit some reward.
+
+God knows, there would be no tone of menace! Oh, no! Whatever honorarium might accrue to George Whaley as a reward for such revelation should be the gift of a grateful heart alone: and, said Mr. George Whaley to his own conscience, why not? He would be doing his master a very great service. Indeed, he would be doing a double service — nay, a treble one. For he would be rescuing the Home Secretary of [[England]] from his lower self; that was a moral service. He would be preventing him from inevitable discovery; that was a material service. He would be serving him faithfully as an honest domestic should; and that was a service of loyalty.
+
+Was it to be wondered at (the whole scene rose vividly before his eyes as it was to be — as it certainly would be), was it to be wondered at that the grateful man should, on an impulse, seize the honest servitor’s hand, grasp it warmly, and then, with a catch in his voice, cry aloud, “Whaley, you have served me well!” The rest would follow. Not less, he took it, than five hundred pounds.
+
+Should he go further? Should he offer his services for taking back the gem discreetly and seeing that it should be laid, through means he could command, upon the dressing-table of the culprit’s daughter — no one should know whence?
+
+Time must show; the opportunity would develop; the details of the drama would be filled in. But the main lines were clear. George Whaley would save the head of the family of de Bohun; he would save the soul — and, incidentally, the more earthly reputation — of the head of the family of de Bohun. He would receive the little spontaneous, heartfelt reward due to so honest a liegeman of the de Bohuns. Ah! Chivalry was not dead....
+
+But nothing must be done on impulse. He glanced at his watch. It was only just past three. He must watch the poor tortured soul until there had developed in it, as inevitably there would through the effect of time, a false security — a false security brought by suspicions and counter-suspicions among the guests, who could never dream the real truth. Upon such a mood the revelation would fall with tenfold effect.
+
+Then, and then only — he would watch his moment — would George Whaley unburden himself of the curse of the de Bohuns and turn that curse into a blessing; moral to his master, and to himself material.
+
+Such was the plan of George Whaley. Once more he recited, but in an undertone, a whisper, the words of which could not be heard by another, the very phrases he was to use, the gestures proper to the great moment when it should come. So discreetly did he rehearse that young Ethelbert without, his ear glued to the keyhole, heard nothing but a murmur of monologue within, and feared in one wild moment that the awful revelation about Lord Galton had driven the butler mad.
 
 
 
@@ -3837,6 +3657,102 @@ With which words he transferred himself into the sixth dimension, and the Devil,
 
 
 
+<span class="atom-split" data-atom="chapter_12_eleven" data-title="The Emerald of Catherine the Great — Chapter 12: ELEVEN" data-chapter="ELEVEN" data-kind="chapter"></span>
+
+
+CHAPTER ELEVEN
+
+DURING DINNER MR. Collop was not silent. In vain did the Home Secretary indicate to his servant by a grimace that Mr. Collop’s wine should be spared. Mr. Collop had all the assurance of his breeding, and when he wanted more wine he asked for it. It added, if that were possible, to his remarkable courage.
+
+That night was forever memorable to all those present for the instructive lecture which he delivered upon the habits of the people of Bogotar. They all inwardly suffered, or chuckled, as their temperaments demanded. Vic ignored Marjorie’s eyes and shamefully stayed on at table as late as possible to carry the torture forward.
+
+The men did not stop long over their wine — for by that name I deign to call the beverage. The evening passed as on a rack for most, while Mr. Collop roared busily of Bogotar, with many a droll tale and many a gesture of large effect to underline it. Once more Vic stuck it out. She was in heaven. She egged the Startler on. She asked question after question on the famous oil-town of the Pearson Contracts. She even asked about the women’s love affairs and the British prospectors’ entanglements in that ill-known resort.
+
+The Master of the House had to force the situation.
+
+“I am going to ask you,” said the Home Secretary, rather pompously, “to excuse me for the rest of the evening. I have to talk of very important matters with Mr. Collop. We shall be closeted together, I fear, till the small hours of the morning; and I beg that you will not think me discourteous.”
+
+The only one of the clot to whom this public speech could possibly be addressed — all the rest were of the Family — was the lately unfortunate, but now radiant, McTaggart. But it is a politician’s habit to be pompous whenever he gets the least excuse, and McTaggart was the excuse.
+
+“On official business connected with the ... ah, with the ... well ... it would not be to the public interest to say precisely.”
+
+McTaggart looked very carefully from under his eyelashes at his nearest neighbour; Victoria Mosel darted a corner look at Galton, and Galton grimly smiled at Marjorie. Aunt Amelia did not hear properly. Only the Professor rose to the occasion, carolling:
+
+“Certainly, Humphrey, certainly. By all means, Humphrey, by all means.” Then he squeezed his bony hands together, as though he had made a joke.
+
+The women dropped out of the room. Marjorie waited above with her door ajar till she should know the way was clear. Then she was to come down.
+
+“Shall we go into my study?” said the Home Secretary to his latest guest, when the women had gone.
+
+“Thank you, I would not give ye that trouble, I wouldn’t,” said Mr. Collop heartily. “I’d as soon talk ’ere. I think better like in large rooms.” And as he said that, the three men went out — perforce. But Galton went not to bet but to the small smoking-room, and Victoria Mosel did the same. Collop filled himself a whiskey and soda. And without giving his employer time to open the ball, he entered on the plan engendered by his mighty brain.
+
+As he began to speak, Marjorie, following the sound of voices, slipped in. Mr. Collop stared at her, said “‘Ullo?” but returned to his business.
+
+“First of all,” he said, with a good gulp at the spirits, “ye want a plan made of this here West Room, as ye call it. Now mark me,” he insisted, as the Home Secretary half opened his never-quite-shut mouth, “that plan’ll ‘ave to be in not less than five colours — and I’ll tell you for why. In a case of this kind, you ‘ave got to distinguish between materials. Remember what ye’re looking for! Ye’re looking for a object that might be called transparent in a manner o’ speaking.”
+
+“Mr. Collop,” broke in the Home Secretary desperately, “how long will it take to make such a plan?”
+
+“If there’s a harchitect ‘andy, it needn’t take three days. I’ve ‘ad dozens. And next,” said Mr. Collop, as loudly as before, “we ‘ave to ‘ave measurements. We don’t need regular surveys and we don’t need to fill the garden wi’ standards nor flags, but just measurements.”
+
+“And how long will these take?” asked the Home Secretary, a fabulous sum mounting up before his eyes, and the impossibility of keeping his guests forever.
+
+“You will observe,” said Mr. Collop, clearing his throat as for a speech, and addressing the lady— “you will observe, Miss, that what two men can do in one time, four men can do in arf the time, and eight men — why, eight men in a quarter of the time. And sixteen men,” he continued, turning to her progenitor, “they’d take arf as much again. While they’re making the plan in one room, if you ‘ave enough men with chains in the grounds. Then there’s the probing.”
+
+“The what?” asked de Bohun.
+
+“The probing,” answered his guest briefly. “That’s a longer job, ‘specially as I noticed that there’s stone floors about. Now ‘ere’s another matter. Look at this carpet. That’s Aubusson, that is. Ah, I notice everything! Aubusson — that’s what it is.”
+
+“Mr. Collop,” broke in Marjorie, in her suffering....
+
+“Now, Miss,” said Mr. Collop with command, “don’t you interrupt me. Let me put the necessaries before you. When you get all this done, sir, what are you to do, then? What are you to do next? Why, I’ll tell you. You’ll have all the shutters shut: I noticed you ‘ad shutters: and those curtains pulled. Then you’ll put what they call Marlin’s New Irridiant up. That’s the light we work by. And I’ll tell you for why. You ‘ave plain electrics in the room and they casts shadows. Don’t they, Miss?” he appealed to his hostess. But before she could agree, he went on, like a mighty river in flood:
+
+“Now, casting shadows, you might miss a small object. That’s how objects do get missed. You’ve got to think of these things. Artificial light that is distributed high and in the corners....”
+
+The Home Secretary could bear no more. “Yes, yes, yes,” he said. “Where does one get the stuff?”
+
+“You’ll see!” said Mr. Collop tartly, but with pardonable pride. “It’s expensive, mind you,” he added honestly. “But you got to do this job well or not at all.”
+
+“But, Mr. Collop,” said poor Marjorie, who could hardly bear another moment, “before all this expense couldn’t we ...”
+
+“No, Miss,” said the redoubtable Collop, shaking his head firmly. “Not to be thought on! I wouldn’t undertake the responsibility, I wouldn’t. And mind you, this ain’t the first job of the sort I’ve tackled; not by thousands it ain’t.” (An exaggeration — due, I am afraid, to the whiskey.) “I wouldn’t undertake the responsibility! I’ll put no man under a cloud till I’ve made certain that it’s not lost and hiding of its own. If it’s not found, why then it’ll be time to begin.”
+
+It was Marjorie who found the decision to break off the battle. She got up suddenly.
+
+“Good night, Mr. Collop,” she said. “I understand all about it now. We leave it to you.”
+
+“Thanks, Miss,” said Mr. Collop. “That’s the right spirit! You leave it to the perfessional man, and you’ll never regret it! Is it good night to you, sir?” he added in a voice as loud as ever, stretching out a firm hand and seizing that of the Home Secretary. He crushed it in an iron grip, so that the poor old gentleman winced with pain.
+
+“No, Mr. Collop! ... No, pray ... I must see you again in a moment, indeed I must ... but will you excuse me a moment?” He rose. “My daughter and I must have a private word together I think....”
+
+“It’s my place to retire, my lord,” said Mr. Collop all in the grand manner, weak in the distinctions. “I’ll be in the library, and when you want me, why, come and cop me,” and out he went.
+
+Without a moment’s warning, Marjorie threw herself upon a sofa, crossed her arms upon the back of it, and began crying and sobbing in a storm. Her father was enormously distressed.
+
+“There, there, my dear,” he said, “you are quite overwrought; you are tired. Get to bed. It can’t be helped. We must go through with it.”
+
+“Oh, papa,” she sobbed, “it’s intolerable. I can’t help thinking! Just think what they’ll all think!”
+
+“Yes, my dear; I was thinking that they would be thinking what you say they will be thinking. I’m afraid some of them must have been thinking already.”
+
+“Perhaps,” moaned poor Marjorie, half consoled by the relief of tears, “that b-b-b-loody b-b-beast will find the b-b-b-b-b-bloody thing after all.”
+
+“Yes, my dear, yes. I hope he will. I’m sure he will. I am indeed!”
+
+She dried her eyes, sighed wearily, kissed her father good night, and went off to bed. It was nearly one o’clock. The poor man, as he heard her step go slowly up the great stairs, retained his daughter’s despairing voice vividly in his ears. It reminded him of his wife’s — only the vocabulary had somewhat changed since the days when Queen Victoria gave so admirable an example to the ladies of the land.
+
+* * * * * * *
+
+He rose wearily, feeling fevered, and the worry on him increasingly intolerable. He stepped out into the hall; it was still fully lit. He rang, and when the servant came he asked him whether the offices were shut up. He was told that all had gone to bed but the man who had come at his summons. He bade him go in his turn, and put out all the lights. Then he himself switched out the bulbs in the hall and stared at the great window beside the door. It was singularly light outside, and the air was oppressive within. Cold as was the weather, he needed to feel the open. He thrust up the sash and drank in the rush of freezing air.
+
+The moon must have just risen, but a slight mist was ascending. Half an hour’s light fall of snow had again marked off the lawn, but evidently hours before, since the paths were swept round the house and along up the avenue to the left. He shut down the sash again, a little refreshed, but still most ill at ease.
+
+With a sigh he turned towards the door of the library, within which room, alone, crouched the nightmare policeman. He forced himself in, and found the fellow there.
+
+“We must go into the West Room, Mr. Collop,” he said. “My daughter has gone to bed; the house is all shut up, and we can discuss matters undisturbed. It is in the West Room that the thing happened. Come.”
+
+
+
+
 <span class="atom-split" data-atom="chapter_13_twelve--part_01" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 1)" data-chapter="TWELVE" data-kind="excerpt"></span>
 
 
@@ -4025,6 +3941,90 @@ He was away some time, going on tiptoe in the offices. When he returned it was w
 “Here’s luck!” he said. “Cheerio! Now you leave me to it!”
 
 And de Bohun left him to it, ardently praying with what was left of his childhood’s faith to a God in whom he still vaguely believed, that never again in the remaining years of his declining life should he be compelled to harbour under the roof of Paulings any unit from the mighty Secret Service which he commanded, and inwardly deciding that he would relinquish that command for India, Paris, South Africa — nay, New Zealand — anything rather than bear such a burden again.
+
+
+
+
+<span class="atom-split" data-atom="chapter_14_thirteen" data-title="The Emerald of Catherine the Great — Chapter 14: THIRTEEN" data-chapter="THIRTEEN" data-kind="chapter"></span>
+
+
+CHAPTER THIRTEEN
+
+IT IS A fascinating occupation to watch a powerful human brain at work upon some great problems — the face alive with mind, the tension of the muscles, the frowning eyes; and to feel behind it all that driving, compelling power of the intelligence wherein man is God-like.
+
+But no one would have seen this sight in the case of Mr. Collop had he remained. What he would have seen was a hand pouring out whiskey for itself over and over again and adding smaller and smaller splashes of soda; and at last an obese body attempting sleep in the lounge chair which it filled.
+
+He had comfortably made up his mind. He was going to stay in the West Room and sleep as he could, leaving his bed untouched by way of giving the impression of a long night’s intellectual wrestling. Next morning he would take every one of the three in turn, tell each separately that he was from the Yard, tax them brutally with the theft, and terrify and bully the culprit, whichever of the three it might turn out to be, into confession. So decided, he chose a good chair among the mutilated victims, wheeled it close to the electric switches by the fire, settled himself down, turned off the light and shut his eyes for sleep.
+
+Now it is paradoxically true of the substantial more than it is of the insufficient, that they must shift and turn to find that posture in which their persons can best repose, especially in chairs. Nor could Mr. Collop at once and easily fall into the arms of Morpheus. He shifted and turned, and wedged in and re-wedged in and out, and moved again and replaced those various muscles and anatomical names of which escape me — or rather I never knew them, though the things themselves I know well enough — when all of a sudden he gave a loud and piercing cry and leapt up broad awake. Something had stuck into him — something abominably sharp. His reaction had been instantaneous. He struck a match. He switched on the light.
+
+He groped in the offending tail-coat pocket and — not the first to do so! — stared at what he found in his hand — the emerald! Its brooch setting was unclasped, the wicked steel pin of it was pointing at a challenging angle in the air. He glared viciously at the offending point which had wounded his innocent person; then his eyebrows relaxed into a stupefied stare at the stone itself.
+
+“Great God!” he said three times, “Great God! Great God!”
+
+Birds of the Empire.
+
+I. — The Parrot Attaboy, in action.
+
+There is a current impression, taken I think from the great spate of detective stories upon which we are all fed, that your professional detective has no brains whatsoever and would be no match for the sloth of the Andes, or the sluggish waddle-duck of Australian and Imperial fame. It is an error. They are men as we are and their intelligences, such as they are, work more or less under the spur of prospective advantage. Within three minutes Mr. Collop had grasped the fact that fame, security, promotion, a permanent, good, appreciated, livelihood lay in his outstretched palm. Had he not found the emerald? How he had found it, why it was there at all, he knew not. But he had quickly seen how its possession might be used.
+
+“There you are, you great blighter,” he murmured, addressing the charming gem. “Damn your green eyes! I’ll make you work, I will! William, my boy, here’s something that’s got to be thought out!”
+
+For the first time for many months, Mr. Collop thought, really thought; “concentrated” as he would have put it.
+
+He would have done it better perhaps if he had not been so full of whiskey. But shock is a powerful stimulus. And he was already three-quarters sober and coming to conclusions.
+
+For a long time the effect of this unusual exercise was a blank and a confusion of mind; then there broke in upon the silence a sound which startled him horribly. A voice, somewhat muffled, uncertain, had spoken in that silence where none but him could be. He had heard it! Or was he mad?
+
+“Attaboy!”
+
+Was it a divine command? Had some dear wraith of the dead — his sainted mother perhaps, who could tell — come to comfort him in this dread hour of his fate? All was dead still. His hand trembled a little as he pulled out his watch. It was a quarter past two, and the silence was enormous.
+
+Most awfully it came again.
+
+“Attaboy!”
+
+He hardly dared to look around. Look round he did and there he saw what he had not before grasped — that the dome of black cloth, suspended, covered a cage; thence it was that once again, but this time in a failing, drowsy manner, came the unearthly summons:
+
+“Attaboy!”
+
+A revelation burst upon his mind. It was a revelation indeed! The whole scheme blazed suddenly before him.
+
+He walked boldly to the cage, took off the cover and saw what may very properly be called the blinking bird, for the sudden light had dazzled it.
+
+“Attaboy!” croaked the parrot again in a rather peevish fashion.
+
+“I’ll Attaboy you!” hissed Mr. Collop through his teeth.
+
+He made his preparations to capture that innocent accomplice; his scheme was now fully developed.
+
+He had heard that this kind of fowl was of a very fierce and dangerous sort; but the plan must be pursued at all risks. He took his handkerchief from his pocket — a large bandanna of the noblest — and with a decision worthy of a better cause, whipped it round the gaudy coloured neck after the fashion of a cravat. A muffled protest proceeded from that insulted organ.
+
+“You wait!” muttered Mr. Collop vindictively, as though the poor bird were his enemy. He looked about him. There was a large square of black cloth on his host’s writing-table. With that he made a second deadener, hoodlike, entirely covering the animal’s head, and tied it securely on; all that now penetrated from within was a faint, varying sound which one had to be in the closest neighbourhood to hear. Next he cut off a piece of tape from the coil neatly disposed by the side of the official papers, and bound the fierce talons securely. Then with infinite precaution he slipped off the chain from its ring, and held the exotic biped firmly in both hands.
+
+The clipped wings fluttered a little, but they were contained by strong hands. Mr. Collop made for the window. He laid his living parcel down, where it struggled in vain; opened the shutters with infinite precautions for avoiding sound — above, Aunt Amelia, happily deaf, was deep in slumber; pulled up the sash so slowly that it seemed an age; went back on tiptoe, extinguished the light and — a stroke of genius — went noisily upstairs, bearing the parrot, to give full warning to anyone who might be still awake that he had gone to bed, after all. He tumbled his bed about. He returned.
+
+He came down gingerly in shoeless feet, and stepped out into the night.
+
+The stillness was awful, but all propitious to his plan. The thin snow lay even and spotless on the grass on either side of the avenue. The nearer trees were clear in the half light. The gravel walk, though well swept and clear of snow, leaving no trace of his passage, was bitterly cold to his thinly clad feet — for his socks were of silk, I am glad to say.
+
+There was a wintry mist and beyond it the white suffused radiance of the moon.
+
+He looked up cautiously. There was not a chink of light in any window. All slept, and the Holy One presided in the heavens above, beyond the fog in her blurred aureole of light. It was the hour for great deeds. And a great deed was done.
+
+Mr. Collop, with infinite precautions, lifted up his captive and planted its two talons firmly upon the snow to the side of the swept alleyway and pointing at a small, most aged and somewhat stunted oak about thirty yards ahead of him on the edge of the swept path. He himself kept crouching on the swept gravel and holding poor Attaboy to the side above the snow. Then, still creeping noiselessly along, he planted the bird’s claws down again about six inches further. And so on, hop by hop.
+
+It was merciful in Providence to have spared that tropical exile any too sensitive nerves in its claws; but it protested. It thought the march an indignity, and it was abominably cold. The parrot squirmed. The parrot resisted. But the parrot was for it.
+
+Six inches by six inches the double imprint of the claws appeared in a lengthening chain upon the thin snow until they had come to within ten feet of the oak. Then did Mr. Collop most cautiously rise from his stoop and, taking the bird under his left arm and standing upon tiptoe, stretch his right hand up to a small hollow in the stump of a branch that had decayed long ago: he felt its concavity. It would do. He carefully felt for the emerald in (now) his waistcoat pocket. It was safe. He turned back swiftly towards the great dark house in the moonlight.
+
+The thing was accomplished.
+
+As stealthily as he had come, but far more rapidly, thanking Heaven that still no light showed through any cranny of the mansion, he loped back, shut the window down again with infinite precautions and even then dreaded a slight sound, put his dumb confederate back, released it of its bandages, slipped on the cover of the cage, and crept up to bed.
+
+* * * * * * *
+
+So true it is that once in every man’s life comes an opportunity and that in every man some talent, however unsuspected, lurks.
 
 
 

@@ -2237,470 +2237,6 @@ see the light.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="The Superstition of Divorce — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
-
-
-III
-
-THE SUPERSTITION OF [[divorce|DIVORCE]] (3)
-
-There has long been a curiously consistent attempt to conceal the fact
-that France is a Christian country.  There have been Frenchmen
-in the plot, no [[Doubt|doubt]], and no [[Doubt|doubt]] there have been Frenchmen--
-though I have myself only found Englishmen--in the derivative
-attempt to conceal the fact that Balzac was a Christian writer.
-I began to read Balzac long after I had read the admirers
-of Balzac; and they had never given me a hint of this [[Truth|truth]].
-I had read that his books were bound in yellow and "quite
-impudently French"; though I may have been cloudy about why being
-French should be impudent in a Frenchman.  I had read the truer
-description of "the grimy wizard of the Comedie Humaine,"
-and have lived to learn the [[Truth|truth]] of it; Balzac certainly is a genius
-of the type of that [[Artist|artist]] he himself describes, who could draw
-a broomstick so that one knew it had swept the room after a murder.
-The furniture of Balzac is more alive than the figures of many dramas.
-For this I was prepared; but not for a certain spiritual
-assumption which I recognised at once as a historical phenomenon.
-The [[morality]] of a great writer is not the [[morality]] he teaches,
-but the [[morality]] he takes for granted.  The Catholic type
-of Christian ethics runs through Balzac's books, exactly as
-the Puritan type of Christian ethics runs through Bunyan's books.
-What his professed opinions were I do not know, any more than I
-know Shakespeare's; but I know that both those great creators of a
-multitudinous world made it, as compared with other and later writers,
-on the same fundamental moral plan as the universe of [[Dante]].
-There can be no [[Doubt|doubt]] about it for any one who can apply as a test
-the [[Truth|truth]] I have mentioned; that the fundamental things in a man are not
-the things he explains, but rather the things he forgets to explain.
-But here and there Balzac does explain; and with that intellectual
-concentration Mr. George Moore has acutely observed in that novelist
-when he is a theorist.  And the other day I found in one of Balzac's
-novels this passage; which, whether or no it would precisely hit
-Mr. George Moore's mood at this moment, strikes me as a perfect
-prophecy of this epoch, and might also be a motto for this book:
-"With the solidarity of the family society has lost that elemental
-force which Montesquieu defined and called '[[Honour|honour]].' Society has
-isolated its members the better to govern them, and has divided
-in order to weaken."
-
-Throughout our youth and the years before the War, the current
-criticism followed Ibsen in describing the domestic system as a doll's
-[[house]] and the domestic woman as a doll.  Mr. Bernard [[Shaw]] varied
-the metaphor by saying that mere custom kept the woman in the [[Home|home]]
-as it keeps the parrot in the cage; and the plays and tales of
-the period made vivid sketches of a woman who also resembled a parrot
-in other particulars, rich in raiment, shrill in accent and addicted
-to saying over and over again what she had been taught to say.
-Mr. Granville Barker, the spiritual [[Child|child]] of Mr. Bernard [[Shaw]],
-commented in his clever play of "The Voysey Inheritance" on tyranny,
-hypocrisy and boredom, as the constituent elements of a "happy
-English [[Home|home]]."  Leaving the [[Truth|truth]] of this aside for the moment,
-it will be [[Well|well]] to insist that the conventionality thus criticised
-would be even more characteristic of a happy French [[Home|home]].  It is not
-the Englishman's [[house]], but the Frenchman's [[house]] that is his [[Castle|castle]].
-It might be further added, touching the essential ethical view
-of the sexes at least, that the Irishman's [[house]] is his [[Castle|castle]];
-though it has been for some centuries a besieged [[Castle|castle]].
-Anyhow, those conventions which were remarked as making
-domesticity dull, narrow and unnaturally meek and submissive,
-are particularly powerful among the Irish and the French.
-From this it will surely be easy, for any lucid and logical thinker,
-to deduce the fact that the French are dull and narrow,
-and that the Irish are unnaturally meek and submissive.
-Mr. Bernard [[Shaw]], being an Irishman who lives among English men,
-may be conveniently taken as the type of the difference;
-and it will no [[Doubt|doubt]] be found that the political friends of
-Mr. [[Shaw]], among Englishmen, will be of a wilder revolutionary
-type than those whom he would have found among Irishmen.
-We are in a position to compare the meekness of the Fenians
-with the fury of the Fabians.  This deadening monogamic ideal
-may even, in a larger sense define and distinguish all the flat
-subserviency of Clare from all the flaming revolt of Clapham.
-Nor need we now look far to understand why revolutions have been
-unknown in the [[history]] of France; or why they happen so persistently
-in the vaguer politics of England.  This rigidity and respectability
-must surely be the explanation of all that incapacity for any civil
-experiment or explosion, which has always marked that sleepy
-[[Hamlet|hamlet]] of very private houses which we call the [[City|city]] of [[Paris]].
-But the same things are true not only of Parisians but of peasants;
-they are even true of other peasants in the great Alliance.
-Students of Serbian traditions tell us that the peasant literature
-lays a special and singular curse on the violation of [[Marriage|marriage]];
-and this may [[Well|well]] explain the prim and sheepish pacifism complained
-of in that people.
-
-In plain words, there is clearly something wrong in the calculation
-by which it was proved that a housewife must be as much a servant
-as a housemaid; or which exhibited the domesticated man as being
-as gentle as the primrose or as conservative as the Primrose League.
-It is precisely those who have been conservative about
-the family who have been revolutionary about the state.
-Those who are blamed for the bigotry or bourgeois smugness of their
-[[Marriage|marriage]] conventions are actually those blamed for the restlessness
-and violence of their political reforms.  Nor is there seriously
-any difficulty in discovering the cause of this.  It is simply
-that in such a society the [[government]], in dealing with the family,
-deals with something almost as permanent and [[Self|self]]-renewing as itself.
-There can be a continuous family policy, like a continuous
-foreign policy.  In peasant countries the family fights, it may almost
-be said that the farm fights.  I do not mean merely that it riots
-in evil and exceptional times; though this is not unimportant.
-It was a savage but a sane feature when, in the Irish evictions,
-the women poured hot [[Water|water]] from the windows; it was part of a final
-falling back on private tools as public weapons.  That sort of thing
-is not only war to the knife, but almost war to the fork and spoon.
-It was in this grim sense perhaps that Parnell, in that mysterious pun,
-said that Kettle was a household word in Ireland (it certainly ought
-to be after its subsequent glories), and in a more general sense it
-is certain that meddling with the housewife will ultimately mean
-getting into hot [[Water|water]].  But it is not of such crises of bodily
-struggle that I speak, but of a steady and peaceful pressure from
-below of a thousand families upon the framework of [[government]].
-For this a certain spirit of defence and enclosure is essential;
-and even feudalism was right in feeling that any such affair
-of [[Honour|honour]] must be a family affair.  It was a true artistic instinct
-that pictured the pedigree on a coat that protects the [[Body|body]].
-The free peasant has arms if he has not armorial bearings.
-He has not an escutcheon; but he has a shield.  Nor do I see why,
-in a freer and happier society than the present, or even the past,
-it should not be a blazoned shield.  For that is true of pedigree
-which is true of property; the wrong is not in its being imposed
-on men, but rather in its being denied to them.  Too much capitalism
-does not mean too many capitalists, but too few capitalists;
-and so aristocracy sins not in planting a family tree, but in not
-planting a family forest.
-
-Anyhow, it is found in practice that the domestic citizen can stand
-a siege, even by the State; because he has those who will stand
-by him through thick and thin--especially thin.  Now those who hold
-that the State can be made fit to own all and administer all,
-can consistently disregard this argument; but it may be said with
-all respect that the world is more and more disregarding them.
-If we could find a perfect [[Machine|machine]], and a perfect man to work it,
-it might be a good argument for State Socialism, though an equally
-good argument for personal despotism.  But most of us, I fancy,
-are now agreed that something of that social pressure from below
-which we call [[Freedom|freedom]] is vital to the health of the State;
-and this it is which cannot be fully exercised by individuals,
-but only by groups and traditions.  Such groups have been many;
-there have been monasteries; there may be guilds; but there is
-only one type among them which all human beings have a spontaneous
-and omnipresent inspiration to build for themselves; and this type
-is the family.
-
-I had intended this article to be the last of those outlining
-the elements of this [[debate]]; but I shall have to add a short
-concluding section on the way in which all this is missed in
-the practical (or rather unpractical) proposals about [[divorce]].
-Here I will only say that they suffer from the modern and morbid
-weaknesses of always sacrificing the normal to the abnormal.  As a fact
-the "tyranny, hypocrisy and boredom" complained of are not domesticity,
-but the [[Decay|decay]] of domesticity.  The case of that particular complaint,
-in Mr. Granville Barker's play, is itself a proof.  The whole point
-of "The Voysey Inheritance" was that there was no Voysey inheritance.
-The only heritage of that family was a highly dishonourable debt.
-Naturally their family affections had decayed when their whole ideal
-of property and probity had decayed; and there was little [[Love|love]]
-as [[Well|well]] as little [[Honour|honour]] among thieves.  It has yet to be proved
-that they would have been as much bored if they had had a positive
-and not a negative heritage; and had worked a farm instead of a fraud.
-And the experience of mankind points the other way.
-
---/--
-
-
-
-
-<span class="atom-split" data-atom="chapter_04" data-title="The Superstition of Divorce — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
-
-
-IV
-
-THE SUPERSTITION OF [[divorce|DIVORCE]] (4)
-
-I have touched before now on a famous or infamous Royalist who
-suggested that the people should eat grass; an unfortunate remark
-perhaps for a Royalist to make; since the regimen is only recorded
-of a Royal Personage.  But there was certainly a simplicity
-in the solution worthy of a sultan or even a savage chief;
-and it is this touch of autocratic [[innocence]] on which I have mainly
-insisted touching the social reforms of our day, and especially
-the social [[Reform|reform]] known as [[divorce]].  I am primarily more concerned
-with the arbitrary method than with the anarchic result.
-Very much as the old [[Tyrant|tyrant]] would turn any number of men out
-to grass, so the new [[Tyrant|tyrant]] would turn any number of women into
-grass-widows. Anyhow, to vary the legendary symbolism, it never
-seems to occur to the [[King|king]] in this fairy tale that the gold [[Crown|crown]]
-on his head is a less, and not a more, sacred and settled ornament
-than the gold ring on the woman's finger.  This change is being
-achieved by the summary and even secret [[government]] which we now suffer;
-and this would be the first point against it, even if it were
-really an emancipation; and it is only in form an emancipation.
-I will not anticipate the details of its defence, which can
-be offered by others, but I will here conclude for the present
-by roughly suggesting the practical defences of [[divorce]],
-as generally given just at present, under four heads.  And I will
-only ask the reader to note that they all have one thing in common;
-the fact that each argument is also used for all that social [[Reform|reform]]
-which plain men are already calling [[Slavery|slavery]].
-
-First, it is very typical of the latest practical proposals that they
-are concerned with the case of those who are already separated,
-and the steps they must take to be divorced.  There is a spirit
-penetrating all our society to-day by which the exception is allowed
-to alter the rule; the [[Exile|exile]] to deflect patriotism, the [[Orphan|orphan]]
-to depose parenthood, and even the widow or, in this case as we
-have seen the grass widow, to destroy the position of the wife.
-There is a sort of symbol of this tendency in that mysterious
-and unfortunate nomadic nation which has been allowed to alter so
-many things, from a crusade in [[Russia]] to a cottage in South Bucks.
-We have been told to treat the wandering Jew as a [[Pilgrim|pilgrim]],
-while we still treat the wandering Christian as a vagabond.
-And yet the latter is at least trying to get [[Home|home]], like [[Ulysses]];
-whereas the former is, if anything, rather fleeing from [[Home|home]], like [[Cain]].
-He who is detached, disgruntled, non descript, intermediate is
-everywhere made the excuse for altering what is common, corporate,
-traditional and popular.  And the alteration is always for the worse.
-The [[Mermaid|mermaid]] never becomes more womanly, but only more fishy.
-The centaur never becomes more manly, but only more horsy.
-The Jew cannot really internationalise Christendom; he can only
-denationalise Christendom.  The proletarian does not find it easy
-to become a small proprietor; he is finding it far easier to become
-a slave.  So the unfortunate man, who cannot tolerate the woman
-he has chosen from all the women in the world, is not encouraged
-to return to her and tolerate her, but encouraged to choose
-another woman whom he may in due course refuse to tolerate.
-And in all these cases the argument is the same; that the man
-in the intermediate state is unhappy.  Probably he is unhappy,
-since he is abnormal; but the point is that he is permitted to loosen
-the universal bond which has kept millions of others normal.
-Because he has himself got into a hole, he is allowed to burrow
-in it like a rabbit and undermine a whole countryside.
-
-Next we have, as we always have touching such crude experiments,
-an argument from the example of other countries, and especially
-of new countries.  Thus the Eugenists tell me solemnly that there
-have been very successful Eugenic experiments in [[America]].
-And they rigidly retain their solemnity (while refusing with many
-rebukes to believe in mine) when I tell them that one of the Eugenic
-experiments in [[America]] is a chemical experiment; which consists
-of changing a black man into the allotropic form of white ashes.
-It is really an exceedingly Eugenic experiment; since its chief object
-is to discourage an inter-racial mixture of [[Blood|blood]] which is not desired.
-But I do not like this American experiment, however American;
-and I trust and believe that it is not typically American at all.
-It represents, I conceive, only one element in the complexity
-of the great [[democracy]]; and goes along with other evil elements;
-so that I am not at all surprised that the same strange social sections,
-which permit a human being to be burned alive, also permit
-the exalted science of [[Eugenics]].  It is the same in the milder
-matter of liquor laws; and we are told that certain rather crude
-colonials have established prohibition Laws, which they try to evade;
-just as we are told they have established [[divorce]] laws, which they
-are now trying to repeal.  For in this case of [[divorce]], at least,
-the argument from distant precedents has recoiled crushingly upon itself.
-There is already an agitation for less [[divorce]] in [[America]],
-even while there is an agitation for more [[divorce]] in England.
-
-Again, when an argument is based on a need of population, it will
-be [[Well|well]] if those supporting it realise where it may carry them.
-It is exceedingly doubtful whether population is one of the advantages
-of [[divorce]]; but there is no [[Doubt|doubt]] that it is one of the advantages
-of polygamy.  It is already used in [[Germany]] as an argument for polygamy.
-But the very word will teach us to look even beyond [[Germany]]
-for something yet more remote and repulsive.  Mere population,
-along with a sort of polygamous anarchy, will not appear even
-as a practical ideal to any one who considers, for instance,
-how consistently Europe has held the headship of the human race,
-in face of the chaotic myriads of Asia.  If population were
-the chief test of progress and efficiency, China would long ago
-have proved itself the most progressive and efficient state.
-De Quincey summed up the whole of that enormous situation in a
-sentence which is perhaps more impressive and even appalling than all
-the perspectives of [[Orient|orient]] architecture and vistas of opium vision
-in the midst of which it comes.  "Man is a weed in those regions."
-Many Europeans, fearing for the [[Garden|garden]] of the world, have fancied
-that in some future fatality those weeds may [[spring]] up and choke it.
-But no Europeans have really wished that the [[Flowers|flowers]] should become
-like the weeds.  Even if it were true, therefore, that the loosening
-of the tie necessarily increased the population; even if this were
-not contradicted, as it is, by the facts of many countries, we should
-have strong historical grounds for not accepting the deduction.
-We should still be suspicious of the [[Paradox|paradox]] that we may encourage
-large families by abolishing the family.
-
-Lastly, I believe it is part of the defence of the new proposal
-that even its defenders have found its principle a little too crude.
-I hear they have added provisions which modify the principle;
-and which seem to be in substance, first, that a man shall be made
-responsible for a money payment to the wife he deserts, and second,
-that the matter shall once again be submitted in some fashion to
-some magistrate.  For my purpose here, it is enough to note that there
-is something of the unmistakable savour of the sociology we resist,
-in these two touching acts of [[Faith|faith]], in a cheque-book and in a lawyer.
-Most of the fashionable reformers of [[Marriage|marriage]] would be faintly
-shocked at any suggestion that a poor old charwoman might possibly
-refuse such money, or that a good kind magistrate might not have
-the right to give such advice.  For the reformers of [[Marriage|marriage]]
-are very respectable people, with some honourable exceptions;
-and nothing could fit more smoothly into the rather greasy groove
-of their respectability than the suggestion that treason is best treated
-with the damages, gentlemen, heavy damages, of Mr. Serjeant Buzfuz;
-or that [[Tragedy|tragedy]] is best treated by the spiritual arbitrament
-of Mr. Nupkins.
-
-One word should be added to this hasty [[Sketch|sketch]] of the elements of
-the case.  I have deliberately left out the loftiest aspect and argument,
-that which sees [[Marriage|marriage]] as a divine institution; and that for
-the logical reason that those who believe in this would not believe
-in [[divorce]]; and I am arguing with those who do believe in [[divorce]].
-I do not ask them to assume the worth of my creed or any creed;
-and I could wish they did not so often ask me to assume the worth
-of their worthless, poisonous plutocratic modern society.
-But if it could be shown, as I think it can, that a long historical
-view and a patient political experience can at last accumulate
-solid scientific evidence of the vital need of such a vow, then I
-can conceive no more tremendous tribute than this, to any [[Faith|faith]],
-which made a flaming affirmation from the darkest beginnings,
-of what the latest enlightenment can only slowly discover in the end.
-
---/--
-
-
-
-
-<span class="atom-split" data-atom="chapter_09" data-title="The Superstition of Divorce — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
-
-
-IX
-
-CONCLUSION
-
-This is a pamphlet and not a book; and the writer of a pamphlet
-not only deals with passing things, but generally with things which
-he hopes will pass.  In that sense it is the object of a pamphlet
-to be out of date as soon as possible.  It can only survive when it
-does not succeed.  The successful pamphlets are necessarily dull;
-and though I have no great hopes of this being successful, I dare
-say it is dull enough for all that.  It is designed merely to note
-certain fugitive proposals of the moment, and compare them with certain
-recurrent necessities of the race; but especially the necessity
-for some spontaneous social formation freer than that of the state.
-If it were more in the [[Nature|nature]] of a work of literature, with anything
-like an [[Ambition|ambition]] of [[Endurance|endurance]], I might go deeper into the matter,
-and give some suggestions about the [[philosophy]] or religion of [[Marriage|marriage]],
-and the [[philosophy]] or religion of all these rather random departures
-from it.  Some day perhaps I may try to write something about
-the spiritual or psychological quarrel between [[Faith|faith]] and fads.
-Here I will only say, in conclusion, that I believe the universal
-fallacy here is a fallacy of being universal.  There is a sense
-in which it is really a human if heroic possibility to [[Love|love]] everybody;
-and the young student will not find it a bad preliminary exercise
-to [[Love|love]] somebody.  But the fallacy I mean is that of a man who is not
-even content to [[Love|love]] everybody, but really wishes to be everybody.
-He wishes to walk down a hundred roads at once; to [[Sleep|sleep]]
-in a hundred houses at once; to live a hundred lives at once.
-To do something like this in the [[Imagination|imagination]] is one of the occasional
-visions of art and poetry, to attempt it in the art of life is not only
-anarchy but inaction.  Even in the arts it can only be the first hint
-and not the final fulfillment; a man cannot work at once in bronze
-and marble, or play the organ and the violin at the same [[Time|time]].
-The universal vision of being such a Briareus is a [[nightmare]] of nonsense
-even in the merely imaginative world; and ends in mere nihilism
-in the social world.  If a man had a hundred houses, there would
-still be more houses than he had days in which to dream of them;
-if a man had a hundred wives, there would still be more women
-than he could ever know.  He would be an insane sultan jealous
-of the whole human race, and even of the dead and the [[unborn]].
-I believe that behind the art and [[philosophy]] of our [[Time|time]] there
-is a considerable element of this bottomless [[Ambition|ambition]] and this
-unnatural hunger; and since in these last words I am touching
-only lightly on things that would need much larger treatment,
-I will admit that the rending of the ancient roof of man is
-probably only a part of such an endless and empty expansion.
-I asked in the last chapter what those most wildly engaged in the mere
-[[Dance|dance]] of [[divorce]], as fantastic as the [[Dance of Death|dance of death]], really expected
-for themselves or for their children.  And in the deepest sense I
-think this is the answer; that they expect the impossible, that is
-the universal.  They are not crying for the [[Moon|moon]], which is a definite
-and therefore a defensible [[Desire|desire]].  They are crying for the world;
-and when they had it, they would want another one.  In the last resort
-they would like to try every situation, not in fancy but in fact,
-but they cannot refuse any and therefore cannot resolve on any.
-In so far as this is the modern mood, it is a thing so deadly
-as to be already dead.  What is vitally needed everywhere,
-in art as much as in ethics, in poetry as much as in politics,
-is choice; a creative power in the will as [[Well|well]] as in the mind.
-Without that [[Self|self]]-limitation of somebody, nothing living will ever
-see the light.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IX
-
-CONCLUSIONE
-
-Questo è un pamphlet e non un libro; e chi scrive un pamphlet
-non solo tratta di cose passeggere, ma in genere di cose che
-egli spera passeranno.  In quel senso è scopo di un pamphlet
-essere superato al più presto possibile.  Può sopravvivere solo quando
-non riesce.  I pamphlet riusciti sono necessariamente noiosi;
-e per quanto io non nutra grandi speranze che questo riesca, oso
-dire che è comunque abbastanza noioso.  È concepito soltanto per annotare
-certe fugaci proposte del momento, e paragonarle con certe
-ricorrenti necessità della stirpe; ma specialmente la necessità
-di qualche spontanea formazione sociale più libera di quella dello stato.
-Se fosse più nella [[Nature|natura]] di un'opera letteraria, con qualcosa
-come un'[[Ambition|ambizione]] di [[Endurance|durata]], potrei andare più a fondo nella questione,
-e dare qualche suggerimento sulla [[philosophy|filosofia]] o religione del [[Marriage|matrimonio]],
-e sulla [[philosophy|filosofia]] o religione di tutte queste piuttosto casuali deviazioni
-da esso.  Un giorno forse tenterò di scrivere qualcosa sulla
-querela spirituale o psicologica tra la [[Faith|fede]] e le mode.
-Qui dirò soltanto, in conclusione, che credo che la fallacia universale
-sia qui una fallacia dell'essere universali.  V'è un senso
-in cui è davvero una possibilità umana, se pure eroica, [[Love|amare]] tutti;
-e lo studente giovane non troverà un cattivo esercizio preliminare
-[[Love|amare]] qualcuno.  Ma la fallacia che intendo è quella dell'uomo che non è
-nemmeno pago di [[Love|amare]] tutti, ma desidera davvero essere tutti.
-Egli desidera percorrere cento strade insieme; [[Sleep|dormire]]
-in cento case insieme; vivere cento vite insieme.
-Fare qualcosa di simile nell'[[Imagination|immaginazione]] è una delle occasionali
-visioni dell'arte e della poesia; tentarlo nell'arte della vita non è soltanto
-anarchia ma inazione.  Anche nelle arti può essere solo il primo accenno
-e non l'adempimento finale; un uomo non può lavorare a un tempo nel bronzo
-e nel marmo, o suonare l'organo e il violino allo stesso [[Time|tempo]].
-La visione universale di essere un tale Briareo è un [[nightmare|incubo]] di insensatezza
-perfino nel mondo meramente immaginativo; e finisce in mero nichilismo
-nel mondo sociale.  Se un uomo avesse cento case, vi sarebbero
-ancora più case dei giorni che avrebbe per sognarle;
-se un uomo avesse cento mogli, vi sarebbero ancora più donne
-di quante potrebbe mai conoscerne.  Sarebbe un folle sultano geloso
-dell'intera razza umana, e perfino dei morti e dei [[unborn|non nati]].
-Credo che dietro l'arte e la [[philosophy|filosofia]] del nostro [[Time|tempo]] vi sia
-un considerevole elemento di questa sconfinata [[Ambition|ambizione]] e di questa
-fame innaturale; e poiché in queste ultime parole tocco
-soltanto lievemente cose che richiederebbero un ben più ampio trattamento,
-ammetterò che lo squarcio dell'antico tetto dell'uomo è
-probabilmente solo una parte di una tale espansione senza fine e vuota.
-Chiesi nell'ultimo capitolo che cosa coloro che sono più selvaggiamente impegnati nella mera
-[[Dance|danza]] del [[divorce|divorzio]], fantastica quanto la [[Dance of Death|danza della morte]], davvero si aspettassero
-per sé o per i loro figli.  E nel senso più profondo io
-credo che questa sia la risposta: che si aspettano l'impossibile, cioè
-l'universale.  Non piangono per la [[Moon|luna]], che è un [[Desire|desiderio]] definito
-e perciò difendibile.  Piangono per il mondo;
-e quando l'avessero, ne vorrebbero un altro.  In ultima istanza
-vorrebbero provare ogni situazione, non in fantasia ma di fatto,
-ma non possono rifiutarne alcuna e perciò non possono risolversi su alcuna.
-In quanto ciò è lo stato d'animo moderno, è cosa tanto letale
-da essere già morta.  Ciò di cui vi è vitale bisogno dappertutto,
-nell'arte quanto nell'etica, nella poesia quanto nella politica,
-è la scelta; un potere creativo nella volontà [[Well|non]] meno che nella mente.
-Senza quell'auto-[[Self|limitazione]] di qualcuno, nulla di vivente vedrà
-mai la luce.
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Superstition of Divorce — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -3261,6 +2797,338 @@ fu scagliato oltre i confini del mondo; e ciò che parrebbe
 fugace come una visione è reso permanente come un voto.
 
 --/--
+
+
+
+<span class="atom-split" data-atom="chapter_03" data-title="The Superstition of Divorce — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+
+
+III
+
+THE SUPERSTITION OF [[divorce|DIVORCE]] (3)
+
+There has long been a curiously consistent attempt to conceal the fact
+that France is a Christian country.  There have been Frenchmen
+in the plot, no [[Doubt|doubt]], and no [[Doubt|doubt]] there have been Frenchmen--
+though I have myself only found Englishmen--in the derivative
+attempt to conceal the fact that Balzac was a Christian writer.
+I began to read Balzac long after I had read the admirers
+of Balzac; and they had never given me a hint of this [[Truth|truth]].
+I had read that his books were bound in yellow and "quite
+impudently French"; though I may have been cloudy about why being
+French should be impudent in a Frenchman.  I had read the truer
+description of "the grimy wizard of the Comedie Humaine,"
+and have lived to learn the [[Truth|truth]] of it; Balzac certainly is a genius
+of the type of that [[Artist|artist]] he himself describes, who could draw
+a broomstick so that one knew it had swept the room after a murder.
+The furniture of Balzac is more alive than the figures of many dramas.
+For this I was prepared; but not for a certain spiritual
+assumption which I recognised at once as a historical phenomenon.
+The [[morality]] of a great writer is not the [[morality]] he teaches,
+but the [[morality]] he takes for granted.  The Catholic type
+of Christian ethics runs through Balzac's books, exactly as
+the Puritan type of Christian ethics runs through Bunyan's books.
+What his professed opinions were I do not know, any more than I
+know Shakespeare's; but I know that both those great creators of a
+multitudinous world made it, as compared with other and later writers,
+on the same fundamental moral plan as the universe of [[Dante]].
+There can be no [[Doubt|doubt]] about it for any one who can apply as a test
+the [[Truth|truth]] I have mentioned; that the fundamental things in a man are not
+the things he explains, but rather the things he forgets to explain.
+But here and there Balzac does explain; and with that intellectual
+concentration Mr. George Moore has acutely observed in that novelist
+when he is a theorist.  And the other day I found in one of Balzac's
+novels this passage; which, whether or no it would precisely hit
+Mr. George Moore's mood at this moment, strikes me as a perfect
+prophecy of this epoch, and might also be a motto for this book:
+"With the solidarity of the family society has lost that elemental
+force which Montesquieu defined and called '[[Honour|honour]].' Society has
+isolated its members the better to govern them, and has divided
+in order to weaken."
+
+Throughout our youth and the years before the War, the current
+criticism followed Ibsen in describing the domestic system as a doll's
+[[house]] and the domestic woman as a doll.  Mr. Bernard [[Shaw]] varied
+the metaphor by saying that mere custom kept the woman in the [[Home|home]]
+as it keeps the parrot in the cage; and the plays and tales of
+the period made vivid sketches of a woman who also resembled a parrot
+in other particulars, rich in raiment, shrill in accent and addicted
+to saying over and over again what she had been taught to say.
+Mr. Granville Barker, the spiritual [[Child|child]] of Mr. Bernard [[Shaw]],
+commented in his clever play of "The Voysey Inheritance" on tyranny,
+hypocrisy and boredom, as the constituent elements of a "happy
+English [[Home|home]]."  Leaving the [[Truth|truth]] of this aside for the moment,
+it will be [[Well|well]] to insist that the conventionality thus criticised
+would be even more characteristic of a happy French [[Home|home]].  It is not
+the Englishman's [[house]], but the Frenchman's [[house]] that is his [[Castle|castle]].
+It might be further added, touching the essential ethical view
+of the sexes at least, that the Irishman's [[house]] is his [[Castle|castle]];
+though it has been for some centuries a besieged [[Castle|castle]].
+Anyhow, those conventions which were remarked as making
+domesticity dull, narrow and unnaturally meek and submissive,
+are particularly powerful among the Irish and the French.
+From this it will surely be easy, for any lucid and logical thinker,
+to deduce the fact that the French are dull and narrow,
+and that the Irish are unnaturally meek and submissive.
+Mr. Bernard [[Shaw]], being an Irishman who lives among English men,
+may be conveniently taken as the type of the difference;
+and it will no [[Doubt|doubt]] be found that the political friends of
+Mr. [[Shaw]], among Englishmen, will be of a wilder revolutionary
+type than those whom he would have found among Irishmen.
+We are in a position to compare the meekness of the Fenians
+with the fury of the Fabians.  This deadening monogamic ideal
+may even, in a larger sense define and distinguish all the flat
+subserviency of Clare from all the flaming revolt of Clapham.
+Nor need we now look far to understand why revolutions have been
+unknown in the [[history]] of France; or why they happen so persistently
+in the vaguer politics of England.  This rigidity and respectability
+must surely be the explanation of all that incapacity for any civil
+experiment or explosion, which has always marked that sleepy
+[[Hamlet|hamlet]] of very private houses which we call the [[City|city]] of [[Paris]].
+But the same things are true not only of Parisians but of peasants;
+they are even true of other peasants in the great Alliance.
+Students of Serbian traditions tell us that the peasant literature
+lays a special and singular curse on the violation of [[Marriage|marriage]];
+and this may [[Well|well]] explain the prim and sheepish pacifism complained
+of in that people.
+
+In plain words, there is clearly something wrong in the calculation
+by which it was proved that a housewife must be as much a servant
+as a housemaid; or which exhibited the domesticated man as being
+as gentle as the primrose or as conservative as the Primrose League.
+It is precisely those who have been conservative about
+the family who have been revolutionary about the state.
+Those who are blamed for the bigotry or bourgeois smugness of their
+[[Marriage|marriage]] conventions are actually those blamed for the restlessness
+and violence of their political reforms.  Nor is there seriously
+any difficulty in discovering the cause of this.  It is simply
+that in such a society the [[government]], in dealing with the family,
+deals with something almost as permanent and [[Self|self]]-renewing as itself.
+There can be a continuous family policy, like a continuous
+foreign policy.  In peasant countries the family fights, it may almost
+be said that the farm fights.  I do not mean merely that it riots
+in evil and exceptional times; though this is not unimportant.
+It was a savage but a sane feature when, in the Irish evictions,
+the women poured hot [[Water|water]] from the windows; it was part of a final
+falling back on private tools as public weapons.  That sort of thing
+is not only war to the knife, but almost war to the fork and spoon.
+It was in this grim sense perhaps that Parnell, in that mysterious pun,
+said that Kettle was a household word in Ireland (it certainly ought
+to be after its subsequent glories), and in a more general sense it
+is certain that meddling with the housewife will ultimately mean
+getting into hot [[Water|water]].  But it is not of such crises of bodily
+struggle that I speak, but of a steady and peaceful pressure from
+below of a thousand families upon the framework of [[government]].
+For this a certain spirit of defence and enclosure is essential;
+and even feudalism was right in feeling that any such affair
+of [[Honour|honour]] must be a family affair.  It was a true artistic instinct
+that pictured the pedigree on a coat that protects the [[Body|body]].
+The free peasant has arms if he has not armorial bearings.
+He has not an escutcheon; but he has a shield.  Nor do I see why,
+in a freer and happier society than the present, or even the past,
+it should not be a blazoned shield.  For that is true of pedigree
+which is true of property; the wrong is not in its being imposed
+on men, but rather in its being denied to them.  Too much capitalism
+does not mean too many capitalists, but too few capitalists;
+and so aristocracy sins not in planting a family tree, but in not
+planting a family forest.
+
+Anyhow, it is found in practice that the domestic citizen can stand
+a siege, even by the State; because he has those who will stand
+by him through thick and thin--especially thin.  Now those who hold
+that the State can be made fit to own all and administer all,
+can consistently disregard this argument; but it may be said with
+all respect that the world is more and more disregarding them.
+If we could find a perfect [[Machine|machine]], and a perfect man to work it,
+it might be a good argument for State Socialism, though an equally
+good argument for personal despotism.  But most of us, I fancy,
+are now agreed that something of that social pressure from below
+which we call [[Freedom|freedom]] is vital to the health of the State;
+and this it is which cannot be fully exercised by individuals,
+but only by groups and traditions.  Such groups have been many;
+there have been monasteries; there may be guilds; but there is
+only one type among them which all human beings have a spontaneous
+and omnipresent inspiration to build for themselves; and this type
+is the family.
+
+I had intended this article to be the last of those outlining
+the elements of this [[debate]]; but I shall have to add a short
+concluding section on the way in which all this is missed in
+the practical (or rather unpractical) proposals about [[divorce]].
+Here I will only say that they suffer from the modern and morbid
+weaknesses of always sacrificing the normal to the abnormal.  As a fact
+the "tyranny, hypocrisy and boredom" complained of are not domesticity,
+but the [[Decay|decay]] of domesticity.  The case of that particular complaint,
+in Mr. Granville Barker's play, is itself a proof.  The whole point
+of "The Voysey Inheritance" was that there was no Voysey inheritance.
+The only heritage of that family was a highly dishonourable debt.
+Naturally their family affections had decayed when their whole ideal
+of property and probity had decayed; and there was little [[Love|love]]
+as [[Well|well]] as little [[Honour|honour]] among thieves.  It has yet to be proved
+that they would have been as much bored if they had had a positive
+and not a negative heritage; and had worked a farm instead of a fraud.
+And the experience of mankind points the other way.
+
+--/--
+
+
+
+
+<span class="atom-split" data-atom="chapter_04" data-title="The Superstition of Divorce — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+
+
+IV
+
+THE SUPERSTITION OF [[divorce|DIVORCE]] (4)
+
+I have touched before now on a famous or infamous Royalist who
+suggested that the people should eat grass; an unfortunate remark
+perhaps for a Royalist to make; since the regimen is only recorded
+of a Royal Personage.  But there was certainly a simplicity
+in the solution worthy of a sultan or even a savage chief;
+and it is this touch of autocratic [[innocence]] on which I have mainly
+insisted touching the social reforms of our day, and especially
+the social [[Reform|reform]] known as [[divorce]].  I am primarily more concerned
+with the arbitrary method than with the anarchic result.
+Very much as the old [[Tyrant|tyrant]] would turn any number of men out
+to grass, so the new [[Tyrant|tyrant]] would turn any number of women into
+grass-widows. Anyhow, to vary the legendary symbolism, it never
+seems to occur to the [[King|king]] in this fairy tale that the gold [[Crown|crown]]
+on his head is a less, and not a more, sacred and settled ornament
+than the gold ring on the woman's finger.  This change is being
+achieved by the summary and even secret [[government]] which we now suffer;
+and this would be the first point against it, even if it were
+really an emancipation; and it is only in form an emancipation.
+I will not anticipate the details of its defence, which can
+be offered by others, but I will here conclude for the present
+by roughly suggesting the practical defences of [[divorce]],
+as generally given just at present, under four heads.  And I will
+only ask the reader to note that they all have one thing in common;
+the fact that each argument is also used for all that social [[Reform|reform]]
+which plain men are already calling [[Slavery|slavery]].
+
+First, it is very typical of the latest practical proposals that they
+are concerned with the case of those who are already separated,
+and the steps they must take to be divorced.  There is a spirit
+penetrating all our society to-day by which the exception is allowed
+to alter the rule; the [[Exile|exile]] to deflect patriotism, the [[Orphan|orphan]]
+to depose parenthood, and even the widow or, in this case as we
+have seen the grass widow, to destroy the position of the wife.
+There is a sort of symbol of this tendency in that mysterious
+and unfortunate nomadic nation which has been allowed to alter so
+many things, from a crusade in [[Russia]] to a cottage in South Bucks.
+We have been told to treat the wandering Jew as a [[Pilgrim|pilgrim]],
+while we still treat the wandering Christian as a vagabond.
+And yet the latter is at least trying to get [[Home|home]], like [[Ulysses]];
+whereas the former is, if anything, rather fleeing from [[Home|home]], like [[Cain]].
+He who is detached, disgruntled, non descript, intermediate is
+everywhere made the excuse for altering what is common, corporate,
+traditional and popular.  And the alteration is always for the worse.
+The [[Mermaid|mermaid]] never becomes more womanly, but only more fishy.
+The centaur never becomes more manly, but only more horsy.
+The Jew cannot really internationalise Christendom; he can only
+denationalise Christendom.  The proletarian does not find it easy
+to become a small proprietor; he is finding it far easier to become
+a slave.  So the unfortunate man, who cannot tolerate the woman
+he has chosen from all the women in the world, is not encouraged
+to return to her and tolerate her, but encouraged to choose
+another woman whom he may in due course refuse to tolerate.
+And in all these cases the argument is the same; that the man
+in the intermediate state is unhappy.  Probably he is unhappy,
+since he is abnormal; but the point is that he is permitted to loosen
+the universal bond which has kept millions of others normal.
+Because he has himself got into a hole, he is allowed to burrow
+in it like a rabbit and undermine a whole countryside.
+
+Next we have, as we always have touching such crude experiments,
+an argument from the example of other countries, and especially
+of new countries.  Thus the Eugenists tell me solemnly that there
+have been very successful Eugenic experiments in [[America]].
+And they rigidly retain their solemnity (while refusing with many
+rebukes to believe in mine) when I tell them that one of the Eugenic
+experiments in [[America]] is a chemical experiment; which consists
+of changing a black man into the allotropic form of white ashes.
+It is really an exceedingly Eugenic experiment; since its chief object
+is to discourage an inter-racial mixture of [[Blood|blood]] which is not desired.
+But I do not like this American experiment, however American;
+and I trust and believe that it is not typically American at all.
+It represents, I conceive, only one element in the complexity
+of the great [[democracy]]; and goes along with other evil elements;
+so that I am not at all surprised that the same strange social sections,
+which permit a human being to be burned alive, also permit
+the exalted science of [[Eugenics]].  It is the same in the milder
+matter of liquor laws; and we are told that certain rather crude
+colonials have established prohibition Laws, which they try to evade;
+just as we are told they have established [[divorce]] laws, which they
+are now trying to repeal.  For in this case of [[divorce]], at least,
+the argument from distant precedents has recoiled crushingly upon itself.
+There is already an agitation for less [[divorce]] in [[America]],
+even while there is an agitation for more [[divorce]] in England.
+
+Again, when an argument is based on a need of population, it will
+be [[Well|well]] if those supporting it realise where it may carry them.
+It is exceedingly doubtful whether population is one of the advantages
+of [[divorce]]; but there is no [[Doubt|doubt]] that it is one of the advantages
+of polygamy.  It is already used in [[Germany]] as an argument for polygamy.
+But the very word will teach us to look even beyond [[Germany]]
+for something yet more remote and repulsive.  Mere population,
+along with a sort of polygamous anarchy, will not appear even
+as a practical ideal to any one who considers, for instance,
+how consistently Europe has held the headship of the human race,
+in face of the chaotic myriads of Asia.  If population were
+the chief test of progress and efficiency, China would long ago
+have proved itself the most progressive and efficient state.
+De Quincey summed up the whole of that enormous situation in a
+sentence which is perhaps more impressive and even appalling than all
+the perspectives of [[Orient|orient]] architecture and vistas of opium vision
+in the midst of which it comes.  "Man is a weed in those regions."
+Many Europeans, fearing for the [[Garden|garden]] of the world, have fancied
+that in some future fatality those weeds may [[spring]] up and choke it.
+But no Europeans have really wished that the [[Flowers|flowers]] should become
+like the weeds.  Even if it were true, therefore, that the loosening
+of the tie necessarily increased the population; even if this were
+not contradicted, as it is, by the facts of many countries, we should
+have strong historical grounds for not accepting the deduction.
+We should still be suspicious of the [[Paradox|paradox]] that we may encourage
+large families by abolishing the family.
+
+Lastly, I believe it is part of the defence of the new proposal
+that even its defenders have found its principle a little too crude.
+I hear they have added provisions which modify the principle;
+and which seem to be in substance, first, that a man shall be made
+responsible for a money payment to the wife he deserts, and second,
+that the matter shall once again be submitted in some fashion to
+some magistrate.  For my purpose here, it is enough to note that there
+is something of the unmistakable savour of the sociology we resist,
+in these two touching acts of [[Faith|faith]], in a cheque-book and in a lawyer.
+Most of the fashionable reformers of [[Marriage|marriage]] would be faintly
+shocked at any suggestion that a poor old charwoman might possibly
+refuse such money, or that a good kind magistrate might not have
+the right to give such advice.  For the reformers of [[Marriage|marriage]]
+are very respectable people, with some honourable exceptions;
+and nothing could fit more smoothly into the rather greasy groove
+of their respectability than the suggestion that treason is best treated
+with the damages, gentlemen, heavy damages, of Mr. Serjeant Buzfuz;
+or that [[Tragedy|tragedy]] is best treated by the spiritual arbitrament
+of Mr. Nupkins.
+
+One word should be added to this hasty [[Sketch|sketch]] of the elements of
+the case.  I have deliberately left out the loftiest aspect and argument,
+that which sees [[Marriage|marriage]] as a divine institution; and that for
+the logical reason that those who believe in this would not believe
+in [[divorce]]; and I am arguing with those who do believe in [[divorce]].
+I do not ask them to assume the worth of my creed or any creed;
+and I could wish they did not so often ask me to assume the worth
+of their worthless, poisonous plutocratic modern society.
+But if it could be shown, as I think it can, that a long historical
+view and a patient political experience can at last accumulate
+solid scientific evidence of the vital need of such a vow, then I
+can conceive no more tremendous tribute than this, to any [[Faith|faith]],
+which made a flaming affirmation from the darkest beginnings,
+of what the latest enlightenment can only slowly discover in the end.
+
+--/--
+
 
 
 
@@ -4651,3 +4519,136 @@ and fashions conducted on the lines of a luxurious madhouse,
 has age after age sought refuge in the high [[Sanity|sanity]] of a sacrament.
 
 --/--
+
+
+
+
+<span class="atom-split" data-atom="chapter_09" data-title="The Superstition of Divorce — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+
+
+IX
+
+CONCLUSION
+
+This is a pamphlet and not a book; and the writer of a pamphlet
+not only deals with passing things, but generally with things which
+he hopes will pass.  In that sense it is the object of a pamphlet
+to be out of date as soon as possible.  It can only survive when it
+does not succeed.  The successful pamphlets are necessarily dull;
+and though I have no great hopes of this being successful, I dare
+say it is dull enough for all that.  It is designed merely to note
+certain fugitive proposals of the moment, and compare them with certain
+recurrent necessities of the race; but especially the necessity
+for some spontaneous social formation freer than that of the state.
+If it were more in the [[Nature|nature]] of a work of literature, with anything
+like an [[Ambition|ambition]] of [[Endurance|endurance]], I might go deeper into the matter,
+and give some suggestions about the [[philosophy]] or religion of [[Marriage|marriage]],
+and the [[philosophy]] or religion of all these rather random departures
+from it.  Some day perhaps I may try to write something about
+the spiritual or psychological quarrel between [[Faith|faith]] and fads.
+Here I will only say, in conclusion, that I believe the universal
+fallacy here is a fallacy of being universal.  There is a sense
+in which it is really a human if heroic possibility to [[Love|love]] everybody;
+and the young student will not find it a bad preliminary exercise
+to [[Love|love]] somebody.  But the fallacy I mean is that of a man who is not
+even content to [[Love|love]] everybody, but really wishes to be everybody.
+He wishes to walk down a hundred roads at once; to [[Sleep|sleep]]
+in a hundred houses at once; to live a hundred lives at once.
+To do something like this in the [[Imagination|imagination]] is one of the occasional
+visions of art and poetry, to attempt it in the art of life is not only
+anarchy but inaction.  Even in the arts it can only be the first hint
+and not the final fulfillment; a man cannot work at once in bronze
+and marble, or play the organ and the violin at the same [[Time|time]].
+The universal vision of being such a Briareus is a [[nightmare]] of nonsense
+even in the merely imaginative world; and ends in mere nihilism
+in the social world.  If a man had a hundred houses, there would
+still be more houses than he had days in which to dream of them;
+if a man had a hundred wives, there would still be more women
+than he could ever know.  He would be an insane sultan jealous
+of the whole human race, and even of the dead and the [[unborn]].
+I believe that behind the art and [[philosophy]] of our [[Time|time]] there
+is a considerable element of this bottomless [[Ambition|ambition]] and this
+unnatural hunger; and since in these last words I am touching
+only lightly on things that would need much larger treatment,
+I will admit that the rending of the ancient roof of man is
+probably only a part of such an endless and empty expansion.
+I asked in the last chapter what those most wildly engaged in the mere
+[[Dance|dance]] of [[divorce]], as fantastic as the [[Dance of Death|dance of death]], really expected
+for themselves or for their children.  And in the deepest sense I
+think this is the answer; that they expect the impossible, that is
+the universal.  They are not crying for the [[Moon|moon]], which is a definite
+and therefore a defensible [[Desire|desire]].  They are crying for the world;
+and when they had it, they would want another one.  In the last resort
+they would like to try every situation, not in fancy but in fact,
+but they cannot refuse any and therefore cannot resolve on any.
+In so far as this is the modern mood, it is a thing so deadly
+as to be already dead.  What is vitally needed everywhere,
+in art as much as in ethics, in poetry as much as in politics,
+is choice; a creative power in the will as [[Well|well]] as in the mind.
+Without that [[Self|self]]-limitation of somebody, nothing living will ever
+see the light.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IX
+
+CONCLUSIONE
+
+Questo è un pamphlet e non un libro; e chi scrive un pamphlet
+non solo tratta di cose passeggere, ma in genere di cose che
+egli spera passeranno.  In quel senso è scopo di un pamphlet
+essere superato al più presto possibile.  Può sopravvivere solo quando
+non riesce.  I pamphlet riusciti sono necessariamente noiosi;
+e per quanto io non nutra grandi speranze che questo riesca, oso
+dire che è comunque abbastanza noioso.  È concepito soltanto per annotare
+certe fugaci proposte del momento, e paragonarle con certe
+ricorrenti necessità della stirpe; ma specialmente la necessità
+di qualche spontanea formazione sociale più libera di quella dello stato.
+Se fosse più nella [[Nature|natura]] di un'opera letteraria, con qualcosa
+come un'[[Ambition|ambizione]] di [[Endurance|durata]], potrei andare più a fondo nella questione,
+e dare qualche suggerimento sulla [[philosophy|filosofia]] o religione del [[Marriage|matrimonio]],
+e sulla [[philosophy|filosofia]] o religione di tutte queste piuttosto casuali deviazioni
+da esso.  Un giorno forse tenterò di scrivere qualcosa sulla
+querela spirituale o psicologica tra la [[Faith|fede]] e le mode.
+Qui dirò soltanto, in conclusione, che credo che la fallacia universale
+sia qui una fallacia dell'essere universali.  V'è un senso
+in cui è davvero una possibilità umana, se pure eroica, [[Love|amare]] tutti;
+e lo studente giovane non troverà un cattivo esercizio preliminare
+[[Love|amare]] qualcuno.  Ma la fallacia che intendo è quella dell'uomo che non è
+nemmeno pago di [[Love|amare]] tutti, ma desidera davvero essere tutti.
+Egli desidera percorrere cento strade insieme; [[Sleep|dormire]]
+in cento case insieme; vivere cento vite insieme.
+Fare qualcosa di simile nell'[[Imagination|immaginazione]] è una delle occasionali
+visioni dell'arte e della poesia; tentarlo nell'arte della vita non è soltanto
+anarchia ma inazione.  Anche nelle arti può essere solo il primo accenno
+e non l'adempimento finale; un uomo non può lavorare a un tempo nel bronzo
+e nel marmo, o suonare l'organo e il violino allo stesso [[Time|tempo]].
+La visione universale di essere un tale Briareo è un [[nightmare|incubo]] di insensatezza
+perfino nel mondo meramente immaginativo; e finisce in mero nichilismo
+nel mondo sociale.  Se un uomo avesse cento case, vi sarebbero
+ancora più case dei giorni che avrebbe per sognarle;
+se un uomo avesse cento mogli, vi sarebbero ancora più donne
+di quante potrebbe mai conoscerne.  Sarebbe un folle sultano geloso
+dell'intera razza umana, e perfino dei morti e dei [[unborn|non nati]].
+Credo che dietro l'arte e la [[philosophy|filosofia]] del nostro [[Time|tempo]] vi sia
+un considerevole elemento di questa sconfinata [[Ambition|ambizione]] e di questa
+fame innaturale; e poiché in queste ultime parole tocco
+soltanto lievemente cose che richiederebbero un ben più ampio trattamento,
+ammetterò che lo squarcio dell'antico tetto dell'uomo è
+probabilmente solo una parte di una tale espansione senza fine e vuota.
+Chiesi nell'ultimo capitolo che cosa coloro che sono più selvaggiamente impegnati nella mera
+[[Dance|danza]] del [[divorce|divorzio]], fantastica quanto la [[Dance of Death|danza della morte]], davvero si aspettassero
+per sé o per i loro figli.  E nel senso più profondo io
+credo che questa sia la risposta: che si aspettano l'impossibile, cioè
+l'universale.  Non piangono per la [[Moon|luna]], che è un [[Desire|desiderio]] definito
+e perciò difendibile.  Piangono per il mondo;
+e quando l'avessero, ne vorrebbero un altro.  In ultima istanza
+vorrebbero provare ogni situazione, non in fantasia ma di fatto,
+ma non possono rifiutarne alcuna e perciò non possono risolversi su alcuna.
+In quanto ciò è lo stato d'animo moderno, è cosa tanto letale
+da essere già morta.  Ciò di cui vi è vitale bisogno dappertutto,
+nell'arte quanto nell'etica, nella poesia quanto nella politica,
+è la scelta; un potere creativo nella volontà [[Well|non]] meno che nella mente.
+Senza quell'auto-[[Self|limitazione]] di qualcuno, nulla di vivente vedrà
+mai la luce.

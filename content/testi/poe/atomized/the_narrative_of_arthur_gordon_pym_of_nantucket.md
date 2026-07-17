@@ -13045,2430 +13045,6 @@ transcription.]
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 10" data-chapter="Chapter 09" data-kind="chapter"></span>
-
-
-CHAPTER X.
-
-
-
-
-
-Shortly afterward an incident occurred which I am induced to look upon
-
-as more intensely productive of emotion, as far more replete with the
-
-extremes first of delight and then of horror, than even any of the
-
-thousand chances which afterward befell me in nine long years, crowded
-
-with events of the most startling, and, in many cases, of the most
-
-unconceived and unconceivable character. We were lying on the deck near
-
-the companion-way, and debating the possibility of yet making our way
-
-into the storeroom, when, looking towards Augustus, who lay fronting
-
-myself, I perceived that he had become all at once deadly pale, and
-
-that his lips were quivering in the most singular and unaccountable
-
-manner. Greatly alarmed, I spoke to him, but he made me no reply, and I
-
-was beginning to think that he was suddenly taken ill, when I took
-
-notice of his eyes, which were glaring apparently at some object behind
-
-me. I turned my head, and shall never forget the ecstatic joy which
-
-thrilled through every particle of my frame, when I perceived a large
-
-brig bearing down upon us, and not more than a couple of miles off. I
-
-sprung to my feet as if a musket bullet had suddenly struck me to the
-
-heart; and, stretching out my arms in the direction of the vessel,
-
-stood in this manner, motionless, and unable to articulate a syllable.
-
-Peters and Parker were equally affected, although in different ways.
-
-The former danced about the deck like a madman, uttering the most
-
-extravagant rhodomontades, intermingled with howls and imprecations,
-
-while the latter burst into [[Tears|tears]], and continued for many minutes
-
-weeping like a [[Child|child]].
-
-
-
-The vessel in sight was a large hermaphrodite brig, of a Dutch build,
-
-and painted black, with a tawdry gilt figurehead. She had evidently
-
-seen a good deal of rough weather, and, we supposed, had suffered much
-
-in the gale which had proved so disastrous to ourselves; for her
-
-foretopmast was gone, and some of her starboard bulwarks. When we first
-
-saw her, she was, as I have already said, about two miles off and to
-
-windward, bearing down upon us. The breeze was very gentle, and what
-
-astonished us chiefly was, that she had no other sails set than her
-
-foresail and mainsail, with a flying jib--of course she came down but
-
-slowly, and our impatience amounted nearly to phrensy. The awkward
-
-manner in which she steered, too, was remarked by all of us, even
-
-excited as we were. She yawed about so considerably, that once or twice
-
-we thought it impossible she could see us, or imagined that, having
-
-seen us, and discovered no person on board, she was about to tack and
-
-make off in another direction. Upon each of these occasions we screamed
-
-and shouted at the top of our voices, when the stranger would appear to
-
-change for a moment her intention, and again hold on towards us--this
-
-singular conduct being repeated two or three times, so that at last we
-
-could think of no other manner of accounting for it than by supposing
-
-the helmsman to be in liquor.
-
-
-
-No person was seen upon her decks until she arrived within about a
-
-quarter of a mile of us. We then saw three seamen, whom by their dress
-
-we took to be Hollanders. Two of these were lying on some old sails
-
-near the forecastle, and the third, who appeared to be looking at us
-
-with great curiosity, was leaning over the starboard bow near the
-
-bowsprit. This last was a stout and tall man, with a very dark skin. He
-
-seemed by his manner to be encouraging us to have patience, nodding to
-
-us in a cheerful although rather odd way, and smiling constantly so as
-
-to display a set of the most brilliantly white teeth. As his vessel
-
-drew nearer, we saw a red flannel cap which he had on fall from his
-
-head into the [[Water|water]]; but of this he took little or no notice,
-
-continuing his odd smiles and gesticulations. I relate these things and
-
-circumstances minutely, and I relate them, it must be understood,
-
-precisely as they _appeared_ to us.
-
-
-
-The brig came on slowly, and now more steadily than before, and--I
-
-cannot speak calmly of this event--our hearts leaped up wildly within
-
-us, and we poured out our whole souls in shouts and thanksgiving to God
-
-for the complete, unexpected, and glorious deliverance that was so
-
-palpably at hand. Of a sudden, and all at once, there came wafted over
-
-the ocean from the strange vessel (which was now close upon us) a
-
-smell, a stench, such as the whole world has no name for--no conception
-
-of--hellish--utterly suffocating--insufferable, inconceivable. I gasped
-
-for breath, and, turning to my companions, perceived that they were
-
-paler than marble. But we had now no [[Time|time]] left for question or
-
-surmise--the brig was within fifty feet of us, and it seemed to be her
-
-intention to run under our counter, that we might board her without her
-
-putting out a boat. We rushed aft, when, suddenly, a wide yaw threw her
-
-off full five or six points from the course she had been running, and,
-
-as she passed under our stern at the distance of about twenty feet, we
-
-had a full view of her decks. Shall I ever forget the triple horror of
-
-that spectacle? Twenty-five or thirty human bodies, among whom were
-
-several females, lay scattered about between the counter and the
-
-galley, in the last and most loathsome state of putrefaction! We
-
-plainly saw that not a [[Soul|soul]] lived in that fated vessel! Yet we could
-
-not help shouting to the dead for help! Yes, long and loudly did we
-
-beg, in the agony of the moment, that those silent and disgusting
-
-images would stay for us, would not abandon us to become like them,
-
-would receive us among their goodly company! We were raving with horror
-
-and [[Despair|despair]]--thoroughly mad through the anguish of our grievous
-
-disappointment.
-
-
-
-As our first loud yell of terror broke forth, it was replied to by
-
-something, from near the bowsprit of the stranger, so closely
-
-resembling the scream of a human voice that the nicest ear might have
-
-been startled and deceived. At this instant another sudden yaw brought
-
-the region of the forecastle for a moment into view, and we beheld at
-
-once the origin of the sound. We saw the tall stout figure still
-
-leaning on the bulwark, and still nodding his head to and fro, but his
-
-face was now turned from us so that we could not behold it. His arms
-
-were extended over the rail, and the palms of his hands fell outward.
-
-His knees were lodged upon a stout rope, tightly stretched, and
-
-reaching from the heel of the bowsprit to a cathead. On his back, from
-
-which a portion of the shirt had been torn, leaving it bare, there sat
-
-a huge seagull, busily gorging itself with the horrible flesh, its bill
-
-and talons deep buried, and its white plumage spattered all over with
-
-[[Blood|blood]]. As the brig moved further round so as to bring us close in view,
-
-the bird, with much apparent difficulty, drew out its crimsoned head,
-
-and, after eying us for a moment as if stupified, arose lazily from the
-
-[[Body|body]] upon which it had been feasting, and, flying directly above our
-
-deck, hovered there a while with a portion of clotted and liver-like
-
-substance in its beak. The horrid morsel dropped at length with a
-
-sullen splash immediately at the feet of Parker. May God forgive me,
-
-but now, for the first [[Time|time]], there flashed through my mind a thought, a
-
-thought which I will not mention, and I felt myself making a step
-
-towards the ensanguined spot. I looked upward, and the eyes of Augustus
-
-met my own with a degree of intense and eager meaning which immediately
-
-brought me to my senses. I sprang forward quickly, and, with a deep
-
-shudder, threw the frightful thing into the sea.
-
-
-
-The [[Body|body]] from which it had been taken, resting as it did upon the rope,
-
-had been easily swayed to and fro by the exertions of the carnivorous
-
-bird, and it was this motion which had at first impressed us with the
-
-belief of its being alive. As the gull relieved it of its weight, it
-
-swung round and fell partially over, so that the face was fully
-
-discovered. Never, surely, was any object so terribly full of awe! The
-
-eyes were gone, and the whole flesh around the mouth, leaving the teeth
-
-utterly naked. This, then, was the smile which had cheered us on to
-
-[[Hope|hope]]! this the--but I forbear. The brig, as I have already told, passed
-
-under our stern, and made its way slowly but steadily to leeward. With
-
-her and with her terrible crew went all our gay visions of deliverance
-
-and joy. Deliberately as she went by, we might possibly have found
-
-means of boarding her, had not our sudden disappointment, and the
-
-appalling [[Nature|nature]] of the discovery which accompanied it, laid entirely
-
-prostrate every active faculty of mind and [[Body|body]]. We had seen and felt,
-
-but we could neither think nor act, until, alas, too late. How much our
-
-intellects had been weakened by this incident may be estimated by the
-
-fact, that, when the vessel had proceeded so far that we could perceive
-
-no more than the half of her hull, the proposition was seriously
-
-entertained of attempting to overtake her by swimming!
-
-
-
-I have, since this period, vainly endeavoured to obtain some clew to
-
-the hideous uncertainty which enveloped the fate of the stranger. Her
-
-build and general appearance, as I have before stated, led us to the
-
-belief that she was a Dutch trader, and the dresses of the crew also
-
-sustained this opinion. We might have easily seen the name upon her
-
-stern, and, indeed, taken other observations which would have guided us
-
-in making out her character; but the intense excitement of the moment
-
-blinded us to everything of that [[Nature|nature]]. From the saffron-like hue of
-
-such of the corpses as were not entirely decayed, we concluded that the
-
-whole of her company had perished by the yellow fever, or some other
-
-virulent disease of the same fearful kind. If such were the case (and I
-
-know not what else to imagine), [[Death|death]], to judge from the positions of
-
-the bodies, must have come upon them in a manner awfully sudden and
-
-overwhelming, in a way totally distinct from that which generally
-
-characterizes even the most deadly pestilences with which mankind are
-
-acquainted. It is possible, indeed, that [[Poison|poison]], accidentally
-
-introduced into some of their sea-stores, may have brought about the
-
-disaster; or that the eating some unknown venomous species of fish, or
-
-other marine animal, or oceanic bird, might have induced it--but it is
-
-utterly useless to form conjectures where all is involved, and will, no
-
-[[Doubt|doubt]], remain for ever involved, in the most appalling and unfathomable
-
-mystery.
-
-
-
-
-<span class="atom-split" data-atom="chapter_14" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 15" data-chapter="Chapter 14" data-kind="chapter"></span>
-
-
-CHAPTER XV.
-
-
-
-
-
-On the twelfth we made sail from Christmas Harbour, retracing our way
-
-to the westward, and leaving Marion's Island, one of Crozet's group, on
-
-the larboard. We afterward passed Prince Edward's Island, leaving it
-
-also on our left; then, steering more to the northward, made, in
-
-fifteen days, the islands of Tristan d'Acunha, in latitude 37° 8' S.,
-
-longitude 12° 8' W.
-
-
-
-This group, now so [[Well|well]] known, and which consists of three circular
-
-islands, was first discovered by the Portuguese, and was visited
-
-afterward by the Dutch in 1643, and by the French in 1767. The three
-
-islands together form a triangle, and are distant from each other about
-
-ten miles, there being fine open passages between. The land in all of
-
-them is very high, especially in Tristan d'Acunha, properly so called.
-
-This is the largest of the group, being fifteen miles in circumference,
-
-and so elevated that it can be seen in clear weather at the distance of
-
-eighty or ninety miles. A part of the land towards the north rises more
-
-than a thousand feet perpendicularly from the sea. A tableland at this
-
-height extends back nearly to the centre of the island, and from this
-
-tableland arises a lofty cone like that of Teneriffe. The lower half of
-
-this cone is clothed with trees of good size, but the upper region is
-
-barren rock, usually hidden among the clouds, and covered with [[Snow|snow]]
-
-during the greater part of the year. There are no shoals or other
-
-dangers about the island, the shores being remarkably bold and the
-
-[[Water|water]] deep. On the northwestern coast is a bay, with a beach of black
-
-sand, where a landing with boats can be easily effected, provided there
-
-be a southerly [[Wind|wind]]. Plenty of excellent [[Water|water]] may here be readily
-
-procured; also cod, and other fish, may be taken with hook and line.
-
-
-
-The next island in point of size, and the most westwardly of the group,
-
-is that called the Inaccessible. Its precise situation is 37° 17' S.
-
-latitude, longitude 12° 24' W. It is seven or eight miles in
-
-circumference, and on all sides presents a forbidding and precipitous
-
-aspect. Its top is perfectly flat, and the whole region is steril,
-
-nothing growing upon it except a few stunted shrubs.
-
-
-
-[[Nightingale]] Island, the smallest and most southerly, is in latitude 37°
-
-26' S., longitude 12° 12' W. Off its southern extremity is a high ledge
-
-of rocky islets; a few also of a similar appearance are seen to the
-
-northeast. The ground is irregular and steril, and a deep valley
-
-partially separates it.
-
-
-
-The shores of these islands abound, in the proper season, with sea
-
-lions, sea elephants, the hair and fur seal, together with a great
-
-variety of oceanic [[Birds|birds]]. Whales are also plenty in their vicinity.
-
-Owing to the ease with which these various [[Animals|animals]] were here formerly
-
-taken, the group has been much visited since its discovery. The Dutch
-
-and French frequented it at a very early period. In 1790, Captain
-
-Patten, of the [[Ship|ship]] Industry, of Philadelphia, made Tristan d'Acunha,
-
-where he remained seven months (from August, 1790, to April, 1791) for
-
-the purpose of collecting sealskins. In this [[Time|time]] he gathered no less
-
-than five thousand six hundred, and says that he would have had no
-
-difficulty in loading a large [[Ship|ship]] with oil in three weeks. Upon his
-
-arrival he found no quadrupeds, with the exception of a few wild
-
-goats--the island now abounds with all our most valuable domestic
-
-[[Animals|animals]], which have been introduced by subsequent navigators.
-
-
-
-I believe it was not long after Captain Patten's visit that Captain
-
-Colquhoun, of the American brig Betsey, touched at the largest of the
-
-islands for the purpose of refreshment. He planted onions, potatoes,
-
-cabbages, and a great many other vegetables, an abundance of all which
-
-are now to be met with.
-
-
-
-In 1811, a Captain Heywood, in the Nereus, visited Tristan. He found
-
-there three Americans, who were residing upon the islands to prepare
-
-sealskins and oil. One of these men was named Jonathan Lambert, and he
-
-called himself the sovereign of the country. He had cleared and
-
-cultivated about sixty acres of land, and turned his attention to
-
-raising the coffee-plant and sugar-cane, with which he had been
-
-furnished by the American minister at Rio Janeiro. This settlement,
-
-however, was finally abandoned, and in 1817 the islands were taken
-
-possession of by the British [[government]], who sent a detachment for that
-
-purpose from the Cape of Good [[Hope]]. They did not, however, retain them
-
-long; but, upon the evacuation of the country as a British possession,
-
-two or three English families took up their residence there
-
-independently of the [[government]]. On the twenty-fifth of March, 1824,
-
-the Berwick, Captain Jeffrey, from [[London]] to Van Diemen's Land, arrived
-
-at the place, where they found an Englishman of the name of Glass,
-
-formerly a corporal in the British artillery. He claimed to be supreme
-
-governor of the islands, and had under his control twenty-one men and
-
-three women. He gave a very favourable account of the salubrity of the
-
-climate and of the productiveness of the soil. The population occupied
-
-themselves chiefly in collecting sealskins and sea elephant oil, with
-
-which they traded to the Cape of Good [[Hope]], Glass owning a small
-
-schooner. At the period of our arrival the governor was still a
-
-resident, but his little community had multiplied, there being
-
-fifty-six persons upon Tristan, besides a smaller settlement of seven
-
-on [[Nightingale]] Island. We had no difficulty in procuring almost every
-
-kind of refreshment which we required--sheep, hogs, bullocks, rabbits,
-
-poultry, goats, fish in great variety, and vegetables were abundant.
-
-Having come to anchor close in with the large island, in eighteen
-
-fathoms, we took all we wanted on board very conveniently. Captain Guy
-
-also purchased of Glass five hundred sealskins and some ivory. We
-
-remained here a week, during which the prevailing winds were from the
-
-northward and westward, and the weather somewhat hazy. On the fifth of
-
-November we made sail to the southward and westward, with the intention
-
-of having a thorough search for a group of islands called the Auroras,
-
-respecting whose existence a great diversity of opinion has existed.
-
-
-
-These islands are said to have been discovered as early as 1762, by the
-
-commander of the [[Ship|ship]] Aurora. In 1790, Captain Manuel de Oyarvido, in
-
-the [[Ship|ship]] Princess, belonging to the Royal Philippine Company, sailed,
-
-as he asserts, directly among them. In 1794, the Spanish corvette
-
-Atrevida went with the determination of ascertaining their precise
-
-situation, and, in a paper published by the Royal Hydrographical
-
-Society of Madrid in the year 1809, the following language is used
-
-respecting this expedition. "The corvette Atrevida practised, in their
-
-immediate vicinity, from the twenty-first to the twenty-seventh of
-
-January, all the necessary observations, and measured by chronometers
-
-the difference of longitude between these islands and the port of
-
-Soledad in the Malninas. The islands are three; they are very nearly in
-
-the same meridian; the centre one is rather low, and the other two may
-
-be seen at nine leagues distance." The observations made on board the
-
-Atrevida give the following results as the precise situation of each
-
-island. The most northern is in latitude 52° 37' 24" S., longitude 47°
-
-43' 15" W.; the middle one in latitude 53° 2' 40" S., longitude 47° 55'
-
-15" W.; and the most southern in latitude 53° 15' 22" S., longitude 47°
-
-57' 15" W.
-
-
-
-On the twenty-seventh of January, 1820, Captain James Weddel, of the
-
-British navy, sailed from Staten Land also in search of the Auroras. He
-
-reports that, having made the most diligent search, and passed not only
-
-immediately over the spots indicated by the commander of the Atrevida,
-
-but in every direction throughout the vicinity of these spots, he could
-
-discover no indication of land. These conflicting statements have
-
-induced other navigators to look out for the islands; and, strange to
-
-say, while some have sailed through every inch of sea where they are
-
-supposed to lie without finding them, there have been not a few who
-
-declare positively that they have seen them, and even been close in
-
-with their shores. It was Captain Guy's intention to make every
-
-exertion within his power to settle the question so oddly in
-
-dispute.[3]
-
-
-
-[Footnote 3: Among the vessels which at various times have professed to
-
-meet with the Auroras may be mentioned the [[Ship|ship]] San Miguel, in 1769;
-
-the [[Ship|ship]] Aurora, in 1774; the brig Pearl, in 1779; and the [[Ship|ship]]
-
-Dolores, in 1790. They all agree in giving the mean latitude
-
-fifty-three degrees south.]
-
-
-
-We kept on our course, between the south and west, with variable
-
-weather, until the twentieth of the month, when we found ourselves on
-
-the debated ground, being in latitude 53° 15' S., longitude 47° 58'
-
-W.--that is to say, very nearly upon the spot indicated as the
-
-situation of the most southern of the group. Not perceiving any sign of
-
-land, we continued to the westward in the parallel of fifty-three
-
-degrees south, as far as the meridian of fifty degrees west. We then
-
-stood to the north as far as the parallel of fifty-two degrees south,
-
-when we turned to the eastward, and kept our parallel by [[Double|double]]
-
-altitudes, morning and evening, and meridian altitudes of the planets
-
-and [[Moon|moon]]. Having thus gone eastwardly to the meridian of the western
-
-coast of Georgia, we kept that meridian until we were in the latitude
-
-from which we set out. We then took diagonal courses throughout the
-
-entire extent of sea circumscribed, keeping a lookout constantly at the
-
-masthead, and repeating our examination with the greatest care for a
-
-period of three weeks, during which the weather was remarkably pleasant
-
-and fair, with no haze whatsoever. Of course we were thoroughly
-
-satisfied that, whatever islands might have existed in this vicinity at
-
-any former period, no vestige of them remained at the present day.
-
-Since my return [[Home|home]] I find that the same ground was traced over with
-
-equal care in 1822 by Captain Johnson, of the American schooner Henry,
-
-and by Captain Morrell, in the American schooner Wasp--in both cases
-
-with the same result as in our own.
-
-
-
-
-<span class="atom-split" data-atom="chapter_15" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 16" data-chapter="Chapter 15" data-kind="chapter"></span>
-
-
-CHAPTER XVI.
-
-
-
-
-
-It had been Captain Guy's original intention, after satisfying himself
-
-about the Auroras, to proceed through the Strait of Magellan, and up
-
-along the western coast of Patagonia; but information received at
-
-Tristan d'Acunha induced him to steer to the southward, in the [[Hope|hope]] of
-
-falling in with some small islands said to lie about the parallel of
-
-60° S., longitude 41° 20' W. In the event of his not discovering these
-
-lands, he designed, should the season prove favourable, to push on
-
-towards the pole. Accordingly, on the twelfth of December, we made sail
-
-in that direction. On the eighteenth we found ourselves about the
-
-station indicated by Glass, and cruised for three days in that
-
-neighbourhood without finding any traces of the islands he had
-
-mentioned. On the twenty-first, the weather being unusually pleasant,
-
-we again made sail to the southward, with the resolution of penetrating
-
-in that course as far as possible. Before entering upon this portion of
-
-my narrative, it may be as [[Well|well]], for the information of those readers
-
-who have paid little attention to the progress of discovery in these
-
-regions, to give some brief account of the very few attempts at
-
-reaching the southern pole which have hitherto been made.
-
-
-
-That of Captain Cook was the first of which we have any distinct
-
-account. In 1772 he sailed to the south in the Resolution, accompanied
-
-by Lieutenant Furneaux in the Adventure. In December he found himself
-
-as far as the fifty-eighth parallel of south latitude, and in longitude
-
-26° 57' E. Here he met with narrow fields of ice, about eight or ten
-
-inches thick, and running northwest and southeast. This ice was in
-
-large cakes, and usually it was packed so closely that the vessels had
-
-great difficulty in forcing a passage. At this period Captain Cook
-
-supposed, from the vast number of [[Birds|birds]] to be seen, and from other
-
-indications, that he was in the near vicinity of land. He kept on to
-
-the southward, the weather being exceedingly cold, until he reached the
-
-sixty-fourth parallel, in longitude 38° 14' E. Here he had mild
-
-weather, with gentle breezes, for five days, the thermometer being at
-
-thirty-six. In January, 1773, the vessels crossed the Antarctic circle,
-
-but did not succeed in penetrating much farther; for, upon reaching
-
-latitude 67° 15', they found all farther progress impeded by an immense
-
-[[Body|body]] of ice, extending all along the southern horizon as far as the eye
-
-could reach. This ice was of every variety--and some large floes of it,
-
-miles in extent, formed a compact mass, rising eighteen or twenty feet
-
-above the [[Water|water]]. It being late in the season, and no [[Hope|hope]] entertained
-
-of rounding these obstructions, Captain Cook now reluctantly turned to
-
-the northward.
-
-
-
-In the November following he renewed his search in the Antarctic. In
-
-latitude 59° 40' he met with a strong current setting to the southward.
-
-In December, when the vessels were in latitude 67° 31', longitude 142°
-
-54' W., the cold was excessive, with heavy gales and fog. Here also
-
-[[Birds|birds]] were abundant; the albatross, the penguin, and the peterel
-
-especially. In latitude 70° 23' some large islands of ice were
-
-encountered, and shortly afterward, the clouds to the southward were
-
-observed to be of a snowy whiteness, indicating the vicinity of field
-
-ice. In latitude 71° 10', longitude 106° 54' W., the navigators were
-
-stopped, as before, by an immense frozen expanse, which filled the
-
-whole area of the southern horizon. The northern edge of this expanse
-
-was ragged and broken, so firmly wedged together as to be utterly
-
-impassable, and extending about a mile to the southward. Behind it the
-
-frozen surface was comparatively smooth for some distance, until
-
-terminated in the extreme back-ground by gigantic ranges of ice
-
-[[Mountains|mountains]], the one towering above the other. Captain Cook concluded
-
-that this vast field reached the southern pole or was joined to a
-
-continent. Mr. J. N. Reynolds, whose great exertions and perseverance
-
-have at length succeeded in getting set on foot a national expedition,
-
-partly for the purpose of exploring these regions, thus speaks of the
-
-attempt of the Resolution. "We are not surprised that Captain Cook was
-
-unable to go beyond 71° 10', but we are astonished that he did attain
-
-that point on the meridian of 106° 54' west longitude. Palmer's Land
-
-lies south of the Shetland, latitude sixty-four degrees, and tends to
-
-the southward and westward farther than any navigator has yet
-
-penetrated. Cook was standing for this land when his progress was
-
-arrested by the ice; which, we apprehend, must always be the case in
-
-that point, and so early in the season as the sixth of January--and we
-
-should not be surprised if a portion of the icy [[Mountains|mountains]] described was
-
-attached to the main [[Body|body]] of Palmer's Land, or to some other portions
-
-of land lying farther to the southward and westward."
-
-
-
-In 1803, Captains Kreutzenstern and Lisiausky were despatched by
-
-Alexander of [[Russia]] for the purpose of circumnavigating the globe. In
-
-endeavouring to get south, they made no farther than 59° 58', in
-
-longitude 70° 15' W. They here met with strong currents setting
-
-eastwardly. Whales were abundant, but they saw no ice. In regard to
-
-this voyage, Mr. Reynolds observes that, if Kreutzenstern had arrived
-
-where he did earlier in the season, he must have encountered ice--it
-
-was March when he reached the latitude specified. The winds prevailing,
-
-as they do, from the southward and westward, had carried the floes,
-
-aided by currents, into that icy region bounded on the north by
-
-Georgia, east by Sandwich Land and the South Orkneys, and west by the
-
-South Shetland Islands.
-
-
-
-In 1822, Captain James Weddell, of the British navy, with two very
-
-small vessels, penetrated farther to the south than any previous
-
-navigator, and this too, without encountering extraordinary
-
-difficulties. He states that although he was frequently hemmed in by
-
-ice _before_ reaching the seventy-second parallel, yet, upon attaining
-
-it, not a particle was to be discovered, and that, upon arriving at the
-
-latitude of 74° 15', no fields, and only three islands of ice were
-
-visible. It is somewhat remarkable that, although vast flocks of [[Birds|birds]]
-
-were seen, and other usual indications of land, and although, south of
-
-the Shetlands, unknown coasts were observed from the masthead tending
-
-southwardly, Weddell discourages the idea of land existing in the polar
-
-regions of the south.
-
-
-
-On the eleventh of January, 1823, Captain Benjamin Morrell, of the
-
-American schooner Wasp, sailed from Kerguelen's Land with a view of
-
-penetrating as far south as possible. On the first of February he found
-
-himself in latitude 64° 52' S., longitude 118° 27' E. The following
-
-passage is extracted from his journal of that date. "The [[Wind|wind]] soon
-
-freshened to an eleven-knot breeze, and we embraced this opportunity of
-
-making to the west; being however convinced that the farther we went
-
-south beyond latitude sixty-four degrees the less ice was to be
-
-apprehended, we steered a little to the southward, until we crossed the
-
-Antarctic circle, and were in latitude 69° 15' E. In this latitude
-
-there was _no field ice_, and very few ice islands in sight."
-
-
-
-Under the date of March fourteenth I find also this entry. "The sea was
-
-now entirely free of field ice, and there were not more than a dozen
-
-ice islands in sight. At the same [[Time|time]] the temperature of the air and
-
-[[Water|water]] was at least thirteen degrees higher (more mild) than we had ever
-
-found it between the parallels of sixty and sixty-two south. We were
-
-now in latitude 70° 14' S., and the temperature of the air was
-
-forty-seven, and that of the [[Water|water]] forty-four. In this situation I
-
-found the variation to be 14° 27' easterly, per azimuth.... I have
-
-several times passed within the Antarctic circle on different
-
-meridians, and have uniformly found the temperature, both of the air
-
-and the [[Water|water]], to become more and more mild the farther I advanced
-
-beyond the sixty-fifth degree of south latitude, and that the variation
-
-decreases in the same proportion. While north of this latitude, say
-
-between sixty and sixty-five south, we frequently had great difficulty
-
-in finding a passage for the vessel between the immense and almost
-
-innumerable ice islands, some of which were from one to two miles in
-
-circumference, and more than five hundred feet above the surface of the
-
-[[Water|water]]."
-
-
-
-Being nearly destitute of fuel and [[Water|water]], and without proper
-
-instruments, it being also late in the season, Captain Morrell was now
-
-obliged to put back, without attempting any farther progress to the
-
-southward, although an entirely open sea lay before him. He expresses
-
-the opinion that, had not these overruling considerations obliged him
-
-to retreat, he could have penetrated, if not to the pole itself, at
-
-least to the eighty-fifth parallel. I have given his ideas respecting
-
-these matters somewhat at length, that the reader may have an
-
-opportunity of seeing how far they were borne out by my own subsequent
-
-experience.
-
-
-
-In 1831, Captain Briscoe, in the employ of the Messieurs Enderby,
-
-whale-[[Ship|ship]] owners of [[London]], sailed in the brig Lively for the South
-
-Seas, accompanied by the cutter Tula. On the twenty-eighth of February,
-
-being in latitude 66° 30' S., longitude 47° 31' E., he descried land,
-
-and "clearly discovered through the [[Snow|snow]] the black peaks of a range of
-
-[[Mountains|mountains]] running E. S. E." He remained in this neighbourhood during
-
-the whole of the following month, but was unable to approach the coast
-
-nearer than within ten leagues, owing to the boisterous state of the
-
-weather. Finding it impossible to make farther discovery during this
-
-season, he returned northward to [[Winter|winter]] in Van Diemen's Land.
-
-
-
-In the beginning of 1832 he again proceeded southwardly, and on the
-
-fourth of February land was seen to the southeast in latitude 67° 15',
-
-longitude 69° 29' W. This was soon found to be an island near the
-
-headland of the country he had first discovered. On the twenty-first of
-
-the month he succeeded in landing on the latter, and took possession of
-
-it in the name of William IV., calling it Adelaide's Island, in [[Honour|honour]]
-
-of the English [[Queen|queen]]. These particulars being made known to the Royal
-
-Geographical Society of [[London]], the conclusion was drawn by that [[Body|body]]
-
-"that there is a continuous tract of land extending from 47° 30' E. to
-
-69° 29' W. longitude, running the parallel of from sixty-six to
-
-sixty-seven degrees south latitude." In respect to this conclusion Mr.
-
-Reynolds observes, "In the correctness of it we by no means concur; nor
-
-do the discoveries of Briscoe warrant any such inference. It was within
-
-these limits that Weddell proceeded south on a meridian to the east of
-
-Georgia, Sandwich Land, and the South Orkney and Shetland Islands." My
-
-own experience will be found to testify most directly to the falsity of
-
-the conclusion arrived at by the society.
-
-
-
-These are the principal attempts which have been made at penetrating to
-
-a high southern latitude, and it will now be seen that there remained,
-
-previous to the voyage of the Jane, nearly three hundred degrees of
-
-longitude in which the Antarctic circle had not been crossed at all. Of
-
-course a wide field lay before us for discovery, and it was with
-
-feelings of most intense interest that I heard Captain Guy express his
-
-resolution of pushing boldly to the southward.
-
-
-
-
-<span class="atom-split" data-atom="chapter_16" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 17" data-chapter="Chapter 16" data-kind="chapter"></span>
-
-
-CHAPTER XVII.
-
-
-
-
-
-We kept our course southwardly for four days after giving up the search
-
-for Glass's Islands, without meeting with any ice at all. On the
-
-twenty-sixth, at [[Noon|noon]], we were in latitude 63° 23' S., longitude 41°
-
-25' W. We now saw several large ice islands, and a floe of field ice,
-
-not, however, of any great extent. The winds generally blew from the
-
-southeast, or the northeast, but were very light. Whenever we had a
-
-westerly [[Wind|wind]], which was seldom, it was invariably attended with a rain
-
-squall. Every day we had more or less [[Snow|snow]]. The thermometer, on the
-
-twenty-seventh, stood at thirty-five.
-
-
-
-_January 1, 1828._ This day we found ourselves completely hemmed in by
-
-the ice, and our prospects looked cheerless indeed. A strong gale blew,
-
-during the whole forenoon, from the northeast, and drove large cakes of
-
-the drift against the rudder and counter with such violence that we all
-
-trembled for the consequences. Towards evening, the gale still blowing
-
-with fury, a large field in front separated, and we were enabled, by
-
-carrying a press of sail, to force a passage through the smaller flakes
-
-into some open [[Water|water]] beyond. As we approached this space we took in
-
-sail by degrees, and having at length got clear, lay to under a single
-
-reefed foresail.
-
-
-
-_January 2._ We had now tolerably pleasant weather. At [[Noon|noon]] we found
-
-ourselves in latitude 69° 10' S., longitude 42° 20' W., having crossed
-
-the Antarctic circle. Very little ice was to be seen to the southward,
-
-although large fields of it lay behind us. This day we rigged some
-
-sounding gear, using a large iron pot capable of holding twenty
-
-gallons, and a line of two hundred fathoms. We found the current
-
-setting to the north, about a quarter of a mile per hour. The
-
-temperature of the air was now about thirty-three. Here we found the
-
-variation to be 14° 28' easterly, per azimuth.
-
-
-
-_January 5._ We had still held on to the southward without any very
-
-great impediments. On this morning, however, being in latitude 73° 15'
-
-E., longitude 42° 10' W., we were again brought to a stand by an
-
-immense expanse of firm ice. We saw, nevertheless, much open [[Water|water]] to
-
-the southward, and felt no [[Doubt|doubt]] of being able to reach it eventually.
-
-Standing to the eastward along the edge of the floe, we at length came
-
-to a passage of about a mile in width, through which we warped our way
-
-by sundown. The sea in which we now were was thickly covered with ice
-
-islands, but had no field ice, and we pushed on boldly as before. The
-
-cold did not seem to increase, although we had [[Snow|snow]] very frequently,
-
-and now and then hail squalls of great violence. Immense flocks of the
-
-albatross flew over the schooner this day, going from southeast to
-
-northwest.
-
-
-
-_January 7._ The sea still remained pretty [[Well|well]] open, so that we had no
-
-difficulty in holding on our course. To the westward we saw some
-
-icebergs of incredible size, and in the afternoon passed very near one
-
-whose summit could not have been less than four hundred fathoms from
-
-the surface of the ocean. Its girth was probably, at the base, three
-
-quarters of a league, and several streams of [[Water|water]] were running from
-
-crevices in its sides. We remained in sight of this island two days,
-
-and then only lost it in a fog.
-
-
-
-_January 10._ Early this morning we had the misfortune to lose a man
-
-overboard. He was an American, named Peter Vredenburgh, a native of
-
-New-York, and was one of the most valuable hands on board the schooner.
-
-In going over the bows his foot slipped, and he fell between two cakes
-
-of ice, never rising again. At [[Noon|noon]] of this day we were in latitude 78°
-
-30', longitude 40° 15' W. The cold was now excessive, and we had hail
-
-squalls continually from the northward and eastward. In this direction
-
-also we saw several more immense icebergs, and the whole horizon to the
-
-eastward appeared to be blocked up with field ice, rising in tiers, one
-
-mass above the other. Some driftwood floated by during the evening, and
-
-a great quantity of [[Birds|birds]] flew over, among which were Nellies,
-
-peterels, albatrosses, and a large bird of a brilliant blue plumage.
-
-The variation here, per azimuth, was less than it had been previously
-
-to our passing the Antarctic circle.
-
-
-
-_January 12._ Our passage to the south again looked doubtful, as
-
-nothing was to be seen in the direction of the pole but one apparently
-
-limitless floe, backed by absolute [[Mountains|mountains]] of ragged ice, one
-
-precipice of which arose frowningly above the other. We stood to the
-
-westward until the fourteenth, in the [[Hope|hope]] of finding an entrance.
-
-
-
-_January 14._ This morning we reached the western extremity of the
-
-field which had impeded us, and, weathering it, came to an open sea,
-
-without a particle of ice. Upon sounding with two hundred fathoms, we
-
-here found a current setting southwardly at the rate of half a mile per
-
-hour. The temperature of the air was forty-seven, that of the [[Water|water]]
-
-thirty-four. We now sailed to the southward, without meeting any
-
-interruption of moment until the sixteenth, when, at [[Noon|noon]], we were in
-
-latitude 81° 21', longitude 42° W. We here again sounded, and found a
-
-current setting still southwardly, and at the rate of three quarters of
-
-a mile per hour. The variation per azimuth had diminished, and the
-
-temperature of the air was mild and pleasant, the thermometer being as
-
-high as fifty-one. At this period not a particle of ice was to be
-
-discovered. All hands on board now felt certain of attaining the pole.
-
-
-
-_January 17._ This day was full of incident. Innumerable flights of
-
-[[Birds|birds]] flew over us from the southward, and several were shot from the
-
-deck; one of them, a species of pelican, proved to be excellent eating.
-
-About midday a small floe of ice was seen from the masthead off the
-
-larboard bow, and upon it there appeared to be some large animal. As
-
-the weather was good and nearly calm, Captain Guy ordered out two of
-
-the boats to see what it was. Dirk Peters and myself accompanied the
-
-mate in the larger boat. Upon coming up with the floe, we perceived
-
-that it was in the possession of a gigantic creature of the race of the
-
-Arctic bear, but far exceeding in size the largest of these [[Animals|animals]].
-
-Being [[Well|well]] armed, we made no scruple of attacking it at once. Several
-
-shots were fired in quick succession, the most of which took effect,
-
-apparently, in the head and [[Body|body]]. Nothing discouraged, however, the
-
-[[Monster|monster]] threw himself from the ice, and swam, with open jaws, to the
-
-boat in which were Peters and myself. Owing to the confusion which
-
-ensued among us at this unexpected turn of the adventure, no person was
-
-ready immediately with a second shot, and the bear had actually
-
-succeeded in getting half his vast bulk across our gunwale, and seizing
-
-one of the men by the small of his back, before any efficient means
-
-were taken to repel him. In this extremity nothing but the promptness
-
-and agility of Peters saved us from destruction. Leaping upon the back
-
-of the huge beast, he plunged the blade of a knife behind the neck,
-
-reaching the spinal marrow at a blow. The brute tumbled into the sea
-
-lifeless, and without a struggle, [[rolling]] over Peters as he fell. The
-
-latter soon recovered himself, and a rope being thrown him, he secured
-
-the carcass before entering the boat. We then returned in triumph to
-
-the schooner, towing our trophy behind us. This bear, upon
-
-admeasurement, proved to be full fifteen feet in his greatest length.
-
-His wool was perfectly white, and very coarse, curling tightly. The
-
-eyes were of a [[Blood|blood]] red, and larger than those of the Arctic bear--the
-
-snout also more rounded, rather resembling the snout of the bulldog.
-
-The meat was tender, but excessively rank and fishy, although the men
-
-devoured it with avidity, and declared it excellent eating.
-
-
-
-Scarcely had we got our prize alongside, when the man at the masthead
-
-gave the joyful shout of _"land on the starboard bow!"_ All hands were
-
-now upon the alert, and, a breeze springing up very opportunely from
-
-the northward and eastward, we were soon close in with the coast. It
-
-proved to be a low rocky islet, of about a league in circumference, and
-
-altogether destitute of vegetation, if we except a species of prickly
-
-pear. In approaching it from the northward, a singular ledge of rock is
-
-seen projecting into the sea, and bearing a strong resemblance to
-
-corded bales of cotton. Around this ledge to the westward is a small
-
-bay, at the [[Bottom|bottom]] of which our boats effected a convenient landing.
-
-
-
-It did not take us long to explore every portion of the island, but,
-
-with one exception, we found nothing worthy of observation. In the
-
-southern extremity, we picked up near the shore, half buried in a pile
-
-of loose stones, a piece of wood, which seemed to have formed the prow
-
-of a canoe. There had been evidently some attempt at carving upon it,
-
-and Captain Guy fancied that he made out the figure of a tortoise, but
-
-the resemblance did not strike me very forcibly. Besides this prow, if
-
-such it were, we found no other token that any living creature had ever
-
-been here before. Around the coast we discovered occasional small floes
-
-of ice--but these were very few. The exact situation of this islet (to
-
-which Captain Guy gave the name of Bennet's Islet, in [[Honour|honour]] of his
-
-partner in the ownership of the schooner) is 82° 50' S. latitude, 42°
-
-20' W. longitude.
-
-
-
-We had now advanced to the southward more than eight degrees farther
-
-than any previous navigators, and the sea still lay perfectly open
-
-before us. We found, too, that the variation uniformly decreased as we
-
-proceeded, and, what was still more surprising, that the temperature of
-
-the air, and latterly of the [[Water|water]], became milder. The weather might
-
-even be called pleasant, and we had a steady but very gentle breeze
-
-always from some northern point of the compass. The sky was usually
-
-clear, with now and then a slight appearance of thin vapour in the
-
-southern horizon--this, however, was invariably of brief duration. Two
-
-difficulties [[Alone|alone]] presented themselves to our view; we were getting
-
-short of fuel, and symptoms of scurvy had occurred among several of the
-
-crew. These considerations began to impress upon Captain Guy the
-
-necessity of returning, and he spoke of it frequently. For my own part,
-
-confident as I was of soon arriving at land of some description upon
-
-the course we were pursuing, and having every reason to believe, from
-
-present appearances, that we should not find it the steril soil met
-
-with in the higher Arctic latitudes, I warmly pressed upon him the
-
-expediency of persevering, at least for a few days longer, in the
-
-direction we were now holding. So tempting an opportunity of solving
-
-the great problem in regard to an Antarctic continent had never yet
-
-been afforded to man, and I confess that I felt myself bursting with
-
-indignation at the timid and ill-timed suggestions of our commander. I
-
-believe, indeed, that what I could not refrain from saying to him on
-
-this head had the effect of inducing him to push on. While, therefore,
-
-I cannot but lament the most unfortunate and bloody events which
-
-immediately arose from my advice, I must still be allowed to feel some
-
-degree of gratification at having been instrumental, however remotely,
-
-in opening to the eye of science one of the most intensely exciting
-
-[[Secrets|secrets]] which has ever engrossed its attention.
-
-
-
-
-<span class="atom-split" data-atom="chapter_18" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 19" data-chapter="Chapter 18" data-kind="chapter"></span>
-
-
-CHAPTER XIX.
-
-
-
-
-
-We were nearly three hours in reaching the village, it being more than
-
-nine miles in the interior, and the path lying through a rugged
-
-country. As we passed along, the party of Too-wit (the whole hundred
-
-and ten savages of the canoes) was momentarily strengthened by smaller
-
-detachments, of from two to six or seven, which joined us, as if by
-
-accident, at different turns in the [[Road|road]]. There appeared so much of
-
-system in this that I could not help feeling distrust, and I spoke to
-
-Captain Guy of my apprehensions. It was now too late, however, to
-
-recede, and we concluded that our best security lay in evincing a
-
-perfect confidence in the good [[Faith|faith]] of Too-wit. We accordingly went
-
-on, keeping a wary eye upon the manoeuvres of the savages, and not
-
-permitting them to divide our numbers by pushing in between. In this
-
-way, passing through a precipitous ravine, we at length reached what we
-
-were told was the only collection of habitations upon the island. As we
-
-came in sight of them, the chief set up a shout, and frequently
-
-repeated the word _Klock-Klock_; which we supposed to be the name of
-
-the village, or perhaps the generic name for villages.
-
-
-
-The dwellings were of the most miserable description imaginable, and,
-
-unlike those of even the lowest of the savage races with which mankind
-
-are acquainted, were of no uniform plan. Some of them (and these we
-
-found belonged to the _Wampoos_ or _Yampoos_, the great men of the
-
-land) consisted of a tree cut down at about four feet from the root,
-
-with a large black skin thrown over it, and hanging in loose folds upon
-
-the ground. Under this the savage nestled. Others were formed by means
-
-of rough limbs of trees, with the withered foliage upon them, made to
-
-recline, at an angle of forty-five degrees, against a bank of clay,
-
-heaped up, without regular form, to the height of five or six feet.
-
-Others, again, were mere holes dug in the earth perpendicularly, and
-
-covered over with similar branches, these being removed when the tenant
-
-was about to enter, and pulled on again when he had entered. A few were
-
-built among the forked limbs of trees as they stood, the upper limbs
-
-being partially cut through, so as to bend over upon the lower, thus
-
-forming thicker shelter from the weather. The greater number, however,
-
-consisted of small shallow caverns, apparently scratched in the face of
-
-a precipitous ledge of dark stone, resembling fuller's earth, with
-
-which three sides of the village was bounded. At the door of each of
-
-these primitive caverns was a small rock, which the tenant carefully
-
-placed before the entrance upon leaving his residence, for what purpose
-
-I could not ascertain, as the stone itself was never of sufficient size
-
-to close up more than a third of the opening.
-
-
-
-This village, if it were worthy of the name, lay in a valley of some
-
-depth, and could only be approached from the southward, the precipitous
-
-ledge of which I have already spoken cutting off all access in other
-
-directions. Through the middle of the valley ran a brawling stream of
-
-the same magical-looking [[Water|water]] which has been described. We saw several
-
-strange [[Animals|animals]] about the dwellings, all appearing to be thoroughly
-
-domesticated. The largest of these creatures resembled our common hog
-
-in the structure of the [[Body|body]] and snout; the tail, however, was bushy,
-
-and the legs slender as those of the antelope. Its motion was
-
-exceedingly awkward and indecisive, and we never saw it attempt to run.
-
-We noticed also several [[Animals|animals]] very similar in appearance, but of a
-
-greater length of [[Body|body]], and covered with a black wool. There were a
-
-great variety of tame fowls running about, and these seemed to
-
-constitute the chief food of the natives. To our astonishment we saw
-
-black albatross among these [[Birds|birds]] in a state of entire domestication,
-
-going to sea periodically for food, but always returning to the village
-
-as a [[Home|home]], and using the southern shore in the vicinity as a place of
-
-incubation. There they were joined by their friends the pelicans as
-
-usual, but these latter never followed them to the dwellings of the
-
-savages. Among the other kinds of tame fowls were ducks, differing very
-
-little from the canvass-back of our own country, black gannets, and a
-
-large bird not unlike the buzzard in appearance, but not carnivorous.
-
-Of fish there seemed to be a great abundance. We saw, during our visit,
-
-a quantity of dried salmon, rock cod, blue dolphins, mackerel,
-
-blackfish, skate, conger eels, elephant-fish, mullets, soles,
-
-parrotfish, leather-jackets, gurnards, hake, flounders, paracutas, and
-
-innumerable other varieties. We noticed, too, that most of them were
-
-similar to the fish about the group of the Lord Auckland Islands, in a
-
-latitude as low as fifty-one degrees south. The Gallipago tortoise was
-
-also very plentiful. We saw but few wild [[Animals|animals]], and none of a large
-
-size, or of a species with which we were familiar. One or two serpents
-
-of a formidable aspect crossed our path, but the natives paid them
-
-little attention, and we concluded that they were not venomous.
-
-
-
-As we approached the village with Too-wit and his party, a vast crowd
-
-of the people rushed out to meet us, with loud shouts, among which we
-
-could only distinguish the everlasting _Anamoo-moo!_ and _Lama-Lama!_
-
-We were much surprised at perceiving that, with one or two exceptions,
-
-these new comers were entirely naked, the skins being used only by the
-
-men of the canoes. All the weapons of the country seemed also to be in
-
-the possession of the latter, for there was no appearance of any among
-
-the villagers. There were a great many women and children, the former
-
-not altogether wanting in what might be termed personal [[Beauty|beauty]]. They
-
-were straight, tall, and [[Well|well]] formed, with a grace and [[Freedom|freedom]] of
-
-carriage not to be found in civilized society. Their lips, however,
-
-like those of the men, were thick and clumsy, so that, even when
-
-laughing, the teeth were never disclosed. Their hair was of a finer
-
-texture than that of the males. Among these naked villagers there might
-
-have been ten or twelve who were clothed, like the party of Too-wit, in
-
-dresses of black skin, and armed with lances and heavy clubs. These
-
-appeared to have great influence among the rest, and were always
-
-addressed by the title _Wampoo_. These, too, were the tenants of the
-
-black skin palaces. That of Too-wit was situated in the centre of the
-
-village, and was much larger and somewhat better constructed than
-
-others of its kind. The tree which formed its support was cut off at a
-
-distance of twelve feet or thereabout from the root, and there were
-
-several branches left just below the cut, these serving to extend the
-
-covering, and in this way prevent its flapping about the trunk. The
-
-covering, too, which consisted of four very large skins fastened
-
-together with wooden skewers, was secured at the [[Bottom|bottom]] with pegs
-
-driven through it and into the ground. The floor was strewed with a
-
-quantity of dry [[Leaves|leaves]] by way of carpet.
-
-
-
-To this hut we were conducted with great solemnity, and as many of the
-
-natives crowded in after us as possible. Too-wit seated himself on the
-
-[[Leaves|leaves]], and made signs that we should follow his example. This we did,
-
-and presently found ourselves in a situation peculiarly uncomfortable,
-
-if not indeed critical. We were on the ground, twelve in number, with
-
-the savages, as many as forty, sitting on their hams so closely around
-
-us that, if any disturbance had arisen, we should have found it
-
-impossible to make use of our arms, or indeed to have risen on our
-
-feet. The pressure was not only inside the tent, but outside, where
-
-probably was every individual on the whole island, the crowd being
-
-prevented from trampling us to [[Death|death]] only by the incessant exertions
-
-and vociferations of Too-wit. Our chief security lay, however, in the
-
-presence of Too-wit himself among us, and we resolved to stick by him
-
-closely, as the best chance of extricating ourselves from the dilemma,
-
-sacrificing him immediately upon the first appearance of hostile
-
-design.
-
-
-
-After some trouble a certain degree of quiet was restored, when the
-
-chief addressed us in a speech of great length, and very nearly
-
-resembling the one delivered in the canoes, with the exception that the
-
-_Anamoo-moos!_ were now somewhat more strenuously insisted upon than
-
-the _Lama-Lamas!_ We listened in profound [[Silence|silence]] until the conclusion
-
-of his harangue, when Captain Guy replied by assuring the chief of his
-
-eternal [[Friendship|friendship]] and good-will, concluding what he had to say by a
-
-present of several strings of blue beads and a knife. At the former the
-
-monarch, much to our surprise, turned up his nose with some expression
-
-of contempt; but the knife gave him the most unlimited satisfaction,
-
-and he immediately ordered dinner. This was handed into the tent over
-
-the heads of the attendants, and consisted of the palpitating entrails
-
-of a species of unknown animal, probably one of the slim-legged hogs
-
-which we had observed in our approach to the village. Seeing us at a
-
-loss how to proceed, he began, by way of setting us an example, to
-
-devour yard after yard of the enticing food, until we could positively
-
-stand it no longer, and evinced such manifest symptoms of rebellion of
-
-stomach as inspired his majesty with a degree of astonishment only
-
-inferior to that brought about by the looking-glasses. We declined,
-
-however, partaking of the delicacies before us, and endeavoured to make
-
-him understand that we had no appetite whatever, having just finished a
-
-hearty _déjeuner_.
-
-
-
-When the monarch had made an end of his meal, we commenced a series of
-
-[[Cross|cross]]-questioning in every ingenious manner we could devise, with a
-
-view of discovering what were the chief productions of the country, and
-
-whether any of them might be turned to profit. At length he seemed to
-
-have some idea of our meaning, and offered to accompany us to a part of
-
-the coast where he assured us the _biche de mer_ (pointing to a
-
-specimen of that animal) was to be found in great abundance. We were
-
-glad at this early opportunity of escaping from the oppression of the
-
-crowd, and signified our eagerness to proceed. We now left the tent,
-
-and, accompanied by the whole population of the village, followed the
-
-chief to the southeastern extremity of the island, not far from the bay
-
-where our vessel lay at anchor. We waited here for about an hour, until
-
-the four canoes were brought round by some of the savages to our
-
-station. The whole of our party then getting into one of them, we were
-
-paddled along the edge of the reef before mentioned, and of another
-
-still farther out, where we saw a far greater quantity of _biche de
-
-mer_ than the oldest seaman among us had ever seen in those groups of
-
-the lower latitudes most celebrated for this article of commerce. We
-
-stayed near these reefs only long enough to satisfy ourselves that we
-
-could easily load a dozen vessels with the animal if necessary, when we
-
-were taken alongside the schooner, and parted with Too-wit after
-
-obtaining from him a promise that he would bring us, in the course of
-
-twenty-four hours, as many of the canvass-back ducks and Gallipago
-
-tortoises as his canoes would hold. In the whole of this adventure we
-
-saw nothing in the demeanour of the natives calculated to create
-
-suspicion, with the single exception of the systematic manner in which
-
-their party was strengthened during our route from the schooner to the
-
-village.
-
-
-
-
-<span class="atom-split" data-atom="chapter_20" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 21" data-chapter="Chapter 20" data-kind="chapter"></span>
-
-
-CHAPTER XXI.
-
-
-
-
-
-As soon as I could collect my scattered senses, I found myself nearly
-
-suffocated, and grovelling in utter darkness among a quantity of loose
-
-earth, which was also falling upon me heavily in every direction,
-
-threatening to bury me entirely. Horribly alarmed at this idea, I
-
-struggled to gain my feet, and at length succeeded. I then remained
-
-motionless for some moments, endeavouring to conceive what had happened
-
-to me, and where I was. Presently I heard a deep groan just at my ear,
-
-and afterward the smothered voice of Peters calling to me for aid in
-
-the name of God. I scrambled one or two paces forward, when I fell
-
-directly over the head and shoulders of my companion, who, I soon
-
-discovered, was buried in a loose mass of earth as far as his middle,
-
-and struggling desperately to free himself from the pressure. I tore
-
-the dirt from around him with all the energy I could command, and at
-
-length succeeded in getting him out.
-
-
-
-As soon as we sufficiently recovered from our fright and surprise to be
-
-capable of conversing rationally, we both came to the conclusion that
-
-the walls of the fissure in which we had ventured had, by some
-
-convulsion of [[Nature|nature]], or probably from their own weight, caved in
-
-overhead, and that we were consequently lost for ever, being thus
-
-entombed alive. For a long [[Time|time]] we gave up supinely to the most intense
-
-agony and [[Despair|despair]], such as cannot be adequately imagined by those who
-
-have never been in a similar situation. I firmly believe that no
-
-incident ever occurring in the course of human events is more adapted
-
-to inspire the supremeness of mental and bodily distress than a case
-
-like our own, of living inhumation. The blackness of darkness which
-
-envelops the victim, the terrific oppression of lungs, the stifling
-
-fumes from the damp earth, unite with the ghastly considerations that
-
-we are beyond the remotest confines of [[Hope|hope]], and that such is the
-
-allotted portion of _the dead_, to carry into the human heart a degree
-
-of appalling awe and horror not to be tolerated--never to be conceived.
-
-
-
-At length Peters proposed that we should endeavour to ascertain
-
-precisely the extent of our calamity, and grope about our [[Prison|prison]]; it
-
-being barely possible, he observed, that some opening might be yet left
-
-us for escape. I caught eagerly at this [[Hope|hope]], and, arousing myself to
-
-exertion, attempted to force my way through the loose earth. Hardly had
-
-I advanced a single step before a glimmer of light became perceptible,
-
-enough to convince me that, at all events, we should not immediately
-
-perish for want of air. We now took some degree of heart, and
-
-encouraged each other to [[Hope|hope]] for the best. Having scrambled over a
-
-bank of rubbish which impeded our farther progress in the direction of
-
-the light, we found less difficulty in advancing, and also experienced
-
-some relief from the excessive oppression of lungs which had tormented
-
-us. Presently we were enabled to obtain a glimpse of the objects
-
-around, and discovered that we were near the extremity of the straight
-
-portion of the fissure, where it made a turn to the left. A few
-
-struggles more, and we reached the bend, when, to our inexpressible
-
-joy, there appeared a long seam or crack extending upward a vast
-
-distance, generally at an angle of about forty-five degrees, although
-
-sometimes much more precipitous. We could not see through the whole
-
-extent of this opening; but, as a good deal of light came down it, we
-
-had little [[Doubt|doubt]] of finding at the top of it (if we could by any means
-
-reach the top) a clear passage into the open air.
-
-
-
-I now called to mind that three of us had entered the fissure from the
-
-main gorge, and that our companion, Allen, was still missing; we
-
-determined at once to retrace our steps and look for him. After a long
-
-search, and much danger from the farther caving in of the earth above
-
-us, Peters at length cried out to me that he had hold of our
-
-companion's foot, and that his whole [[Body|body]] was deeply buried beneath the
-
-rubbish, beyond a possibility of extricating him. I soon found that
-
-what he said was too true, and that, of course, life had been long
-
-extinct. With sorrowful hearts, therefore, we left the corpse to its
-
-fate, and again made our way to the bend.
-
-
-
-The breadth of the seam was barely sufficient to admit us, and, after
-
-one or two ineffectual efforts at getting up, we began once more to
-
-[[Despair|despair]]. I have before said that the chain of hills through which ran
-
-the main gorge was composed of a species of soft rock resembling
-
-soapstone. The sides of the cleft we were now attempting to ascend were
-
-of the same material, and so excessively slippery, being wet, that we
-
-could get but little foothold upon them even in their least precipitous
-
-parts; in some places, where the ascent was nearly perpendicular, the
-
-difficulty was, of course, much aggravated; and, indeed, for some [[Time|time]]
-
-we thought it insurmountable. We took [[Courage|courage]], however, from [[Despair|despair]];
-
-and what, by dint of cutting steps in the soft stone with our Bowie
-
-knives, and swinging, at the risk of our lives, to small projecting
-
-points of a harder species of slaty rock which now and then protruded
-
-from the general mass, we at length reached a natural platform, from
-
-which was perceptible a patch of blue sky, at the extremity of a
-
-thickly-wooded ravine. Looking back now, with somewhat more leisure, at
-
-the passage through which we had thus far proceeded, we clearly saw,
-
-from the appearance of its sides, that it was of late formation, and we
-
-concluded that the concussion, whatever it was, which had so
-
-unexpectedly overwhelmed us, had also, at the same moment, laid open
-
-this path for escape. Being quite exhausted with exertion, and, indeed,
-
-so weak that we were scarcely able to stand or articulate, Peters now
-
-proposed that we should endeavour to bring our companions to the rescue
-
-by firing the pistols which still remained in our girdles--the muskets
-
-as [[Well|well]] as cutlasses had been lost among the loose earth at the [[Bottom|bottom]]
-
-of the chasm. Subsequent events proved that, had we fired, we should
-
-have sorely repented it; but, luckily, a half suspicion of foul play
-
-had by this [[Time|time]] arisen in my mind, and we forbore to let the savages
-
-know of our whereabouts.
-
-
-
-After having reposed for about an hour, we pushed on slowly up the
-
-ravine, and had gone no great way before we heard a succession of
-
-tremendous yells. At length we reached what might be called the surface
-
-of the ground; for our path hitherto, since leaving the platform, had
-
-lain beneath an archway of high rock and foliage, at a vast distance
-
-overhead. With great caution we stole to a narrow opening, through
-
-which we had a clear sight of the surrounding country, when the whole
-
-dreadful secret of the concussion broke upon us in one moment and at
-
-one view.
-
-
-
-The spot from which we looked was not far from the summit of the
-
-highest peak in the range of the soapstone hills. The gorge in which
-
-our party of thirty-two had entered ran within fifty feet to the left
-
-of us. But, for at least one hundred yards, the channel or bed of this
-
-gorge was entirely filled up with the chaotic ruins of more than a
-
-million tons of earth and stone that had been artificially tumbled
-
-within it. The means by which the vast mass had been precipitated were
-
-not more simple than evident, for sure traces of the murderous work
-
-were yet remaining. In several spots along the top of the eastern side
-
-of the gorge (we were now on the western) might be seen stakes of wood
-
-driven into the earth. In these spots the earth had not given way; but
-
-throughout the whole extent of the face of the precipice from which the
-
-mass _had_ fallen, it was clear, from marks left in the soil resembling
-
-those made by the drill of the rock-blaster, that stakes similar to
-
-those we saw standing had been inserted, at not more than a yard apart,
-
-for the length of perhaps three hundred feet, and ranging at about ten
-
-feet back from the edge of the gulf. Strong cords of grape vine were
-
-attached to the stakes still remaining on the [[Hill|hill]], and it was evident
-
-that such cords had also been attached to each of the other stakes. I
-
-have already spoken of the singular stratification of these soapstone
-
-hills; and the description just given of the narrow and deep fissure
-
-through which we effected our escape from inhumation will afford a
-
-further conception of its [[Nature|nature]]. This was such that almost every
-
-natural convulsion would be sure to split the soil into perpendicular
-
-layers or ridges running parallel with one another; and a very moderate
-
-exertion of art would be sufficient for effecting the same purpose. Of
-
-this stratification the savages had availed themselves to accomplish
-
-their treacherous ends. There can be no [[Doubt|doubt]] that, by the continuous
-
-line of stakes, a partial rupture of the soil had been brought about,
-
-probably to the depth of one or two feet, when, by means of a savage
-
-pulling at the end of each of the cords (these cords being attached to
-
-the tops of the stakes, and extending back from the edge of the cliff),
-
-a vast leverage power was obtained, capable of hurling the whole face
-
-of the [[Hill|hill]], upon a given signal, into the bosom of the abyss below.
-
-The fate of our poor companions was no longer a matter of uncertainty.
-
-We [[Alone|alone]] had escaped from the tempest of that overwhelming destruction.
-
-We were the only living white men upon the island.
-
-
-
-
-<span class="atom-split" data-atom="chapter_22" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 23" data-chapter="Chapter 22" data-kind="chapter"></span>
-
-
-CHAPTER XXIII.
-
-
-
-
-
-During the six or seven days immediately following we remained in our
-
-hiding-place upon the [[Hill|hill]], going out only occasionally, and then with
-
-the greatest precaution, for [[Water|water]] and filberts. We had made a kind of
-
-pent-[[house]] on the platform, furnishing it with a bed of dry [[Leaves|leaves]], and
-
-placing in it three large flat stones, which served us for both
-
-fireplace and table. We kindled a [[Fire|fire]] without difficulty by rubbing
-
-two pieces of dry wood together, the one soft, the other hard. The bird
-
-we had taken in such good season proved excellent eating, although
-
-somewhat tough. It was not an oceanic fowl, but a species of bittern,
-
-with jet black and grizzly plumage, and diminutive wings in proportion
-
-to its bulk. We afterward saw three of the same kind in the vicinity of
-
-the ravine, apparently seeking for the one we had captured; but, as
-
-they never alighted, we had no opportunity of catching them.
-
-
-
-As long as this fowl lasted we suffered nothing from our situation; but
-
-it was now entirely consumed, and it became absolutely necessary that
-
-we should look out for provision. The filberts would not satisfy the
-
-cravings of hunger, afflicting us, too, with severe gripings of the
-
-bowels, and, if freely indulged in, with violent headache. We had seen
-
-several large tortoises near the seashore to the eastward of the [[Hill|hill]],
-
-and perceived they might be easily taken, if we could get at them
-
-without the observation of the natives. It was resolved, therefore, to
-
-make an attempt at descending.
-
-
-
-We commenced by going down the southern declivity, which seemed to
-
-offer the fewest difficulties, but had not proceeded a hundred yards
-
-before (as we had anticipated from appearances on the [[Hill|hill]]-top) our
-
-progress was entirely arrested by a branch of the gorge in which our
-
-companions had perished. We now passed along the edge of this for about
-
-a quarter of a mile, when we were again stopped by a precipice of
-
-immense depth, and, not being able to make our way along the brink of
-
-it, we were forced to retrace our steps by the main ravine.
-
-
-
-We now pushed over to the eastward, but with precisely similar fortune.
-
-After an hour's scramble, at the risk of breaking our necks, we
-
-discovered that we had merely descended into a vast pit of black
-
-granite, with fine [[Dust|dust]] at the [[Bottom|bottom]], and whence the only egress was
-
-by the rugged path in which we had come down. Toiling again up this
-
-path, we now tried the northern edge of the [[Hill|hill]]. Here we were obliged
-
-to use the greatest possible caution in our manoeuvres, as the least
-
-indiscretion would expose us to the full view of the savages in the
-
-village. We crawled along, therefore, on our hands and knees, and,
-
-occasionally, were even forced to throw ourselves at full length,
-
-dragging our bodies along by means of the shrubbery. In this careful
-
-manner we had proceeded but a little way, when we arrived at a chasm
-
-far deeper than any we had yet seen, and leading directly into the main
-
-gorge. Thus our fears were fully confirmed, and we found ourselves cut
-
-off entirely from access to the world below. Thoroughly exhausted by
-
-our exertions, we made the best of our way back to the platform, and,
-
-throwing ourselves upon the bed of [[Leaves|leaves]], slept sweetly and soundly
-
-for some hours.
-
-
-
-For several days after this fruitless search we were occupied in
-
-exploring every part of the summit of the [[Hill|hill]], in order to inform
-
-ourselves of its actual resources. We found that it would afford us no
-
-food, with the exception of the unwholesome filberts, and a rank
-
-species of scurvy grass which grew in a little patch of not more than
-
-four rods square, and would be soon exhausted. On the fifteenth of
-
-February, as near as I can remember, there was not a blade of this
-
-left, and the nuts were growing scarce; our situation, therefore, could
-
-hardly be more lamentable.[5] On the sixteenth we again went round the
-
-walls of our [[Prison|prison]], in [[Hope|hope]] of finding some avenue of escape, but to
-
-no purpose. We also descended the chasm in which we had been
-
-overwhelmed, with the faint expectation of discovering, through this
-
-channel, some opening to the main ravine. Here, too, we were
-
-disappointed, although we found and brought up with us a musket.
-
-
-
-[Footnote 5: This day was rendered remarkable by our observing in the
-
-south several huge wreaths of the grayish vapour I have before spoken
-
-of.]
-
-
-
-On the seventeenth we set out with the determination of examining more
-
-thoroughly the chasm of black granite into which we had made our way in
-
-the first search. We remembered that one of the fissures in the sides
-
-of this pit had been but partially looked into, and we were anxious to
-
-explore it, although with no expectation of discovering here any
-
-opening.
-
-
-
-We found no great difficulty in reaching the [[Bottom|bottom]] of the hollow as
-
-before, and were now sufficiently calm to survey it with some
-
-attention. It was, indeed, one of the most singular-looking places
-
-imaginable, and we could scarcely bring ourselves to believe it
-
-altogether the work of [[Nature|nature]]. The pit, from its eastern to its western
-
-extremity, was about five hundred yards in length, when all its
-
-windings were threaded; the distance from east to west in a straight
-
-line not being more (I should suppose, having no means of accurate
-
-examination) than forty or fifty yards. Upon first descending into the
-
-chasm, that is to say, for a hundred feet downward from the summit of
-
-the [[Hill|hill]], the sides of the abyss bore little resemblance to each other,
-
-and, apparently, had at no [[Time|time]] been connected, the one surface being
-
-of the soapstone and the other of marl, granulated with some metallic
-
-matter. The average breadth, or interval between the two cliffs, was
-
-probably here sixty feet, but there seemed to be no regularity of
-
-formation. Passing down, however, beyond the limit spoken of, the
-
-interval rapidly contracted, and the sides began to run parallel,
-
-although, for some distance farther, they were still dissimilar in
-
-their material and form of surface. Upon arriving within fifty feet of
-
-the [[Bottom|bottom]], a perfect regularity commenced. The sides were now entirely
-
-uniform in substance, in colour, and in lateral direction, the material
-
-being a very black and shining granite, and the distance between the
-
-two sides, at all points facing each other, exactly twenty yards. The
-
-precise formation of the chasm will be best understood by means of a
-
-delineation taken upon the spot; for I had luckily with me a pocketbook
-
-and pencil, which I preserved with great care through a long series of
-
-subsequent adventure, and to which I am indebted for memoranda of many
-
-subjects which would otherwise have been crowded from my remembrance.
-
-
-
-[Illustration: _Figure 1_.]
-
-
-
-This figure (see figure 1) gives the general outlines of the chasm,
-
-without the minor cavities in the sides, of which there were several,
-
-each cavity having a corresponding protuberance opposite. The [[Bottom|bottom]] of
-
-the gulf was covered to the depth of three or four inches with a powder
-
-almost impalpable, beneath which we found a continuation of the black
-
-granite. To the right, at the lower extremity, will be noticed the
-
-appearance of a small opening; this is the fissure alluded to above,
-
-and to examine which more minutely than before was the object of our
-
-second visit. We now pushed into it with vigour, cutting away a
-
-quantity of brambles which impeded us, and removing a vast heap of
-
-sharp flints somewhat resembling arrowheads in shape. We were
-
-encouraged to persevere, however, by perceiving some little light
-
-proceeding from the farther end. We at length squeezed our way for
-
-about thirty feet, and found that the aperture was a low and
-
-regularly-formed arch, having a [[Bottom|bottom]] of the same impalpable powder as
-
-that in the main chasm. A strong light now broke upon us, and, turning
-
-a short bend, we found ourselves in another lofty chamber, similar to
-
-the one we had left in every respect but longitudinal form. Its general
-
-figure is here given. (See figure 2.)
-
-
-
-[Illustration: _Figure 2_.]
-
-
-
-The total length of this chasm, commencing at the opening _a_ and
-
-proceeding round the curve _b_ to the extremity _d_, is five hundred
-
-and fifty yards. At _c_ we discovered a small aperture similar to the
-
-one through which we had issued from the other chasm, and this was
-
-choked up in the same manner with brambles and a quantity of the white
-
-arrowhead flints. We forced our way through it, finding it about forty
-
-feet long, and emerged into a third chasm. This, too, was precisely
-
-like the first, except in its longitudinal shape, which was thus. (See
-
-figure 3.)
-
-
-
-[Illustration: _Figure 3_.]
-
-
-
-[Illustration: _Figure 5_.]
-
-
-
-We found the entire length of the third chasm three hundred and twenty
-
-yards. At the point _a_ was an opening about six feet wide, and
-
-extending fifteen feet into the rock, where it terminated in a bed of
-
-marl, there being no other chasm beyond, as we had expected. We were
-
-about leaving this fissure, into which very little light was admitted,
-
-when Peters called my attention to a range of singular-looking
-
-indentures in the surface of the marl forming the termination of the
-
-_cul-de-sac_. With a very slight exertion of the [[Imagination|imagination]], the left,
-
-or most northerly of these indentures might have been taken for the
-
-intentional, although rude, representation of a human figure standing
-
-erect, with outstretched arm. The rest of them bore also some little
-
-resemblance to alphabetical characters, and Peters was willing, at all
-
-events, to adopt the idle opinion that they were really such. I
-
-convinced him of his error, finally, by directing his attention to the
-
-floor of the fissure, where, among the powder, we picked up, piece by
-
-piece, several large flakes of the marl, which had evidently been
-
-broken off by some convulsion from the surface where the indentures
-
-were found, and which had projecting points exactly fitting the
-
-indentures; thus proving them to have been the work of [[Nature|nature]]. Figure
-
-4. presents an accurate copy of the whole.
-
-
-
-[Illustration: _Figure 4_.]
-
-
-
-After satisfying ourselves that these singular caverns afforded us no
-
-means of escape from our [[Prison|prison]], we made our way back, dejected and
-
-dispirited, to the summit of the [[Hill|hill]]. Nothing worth mentioning
-
-occurred during the next twenty-four hours, except that, in examining
-
-the ground to the eastward of the third chasm, we found two triangular
-
-holes of great depth, and also with black granite sides. Into these
-
-holes we did not think it worth while to attempt descending, as they
-
-had the appearance of mere natural wells, without outlet. They were
-
-each about twenty yards in circumference, and their shape, as [[Well|well]] as
-
-relative position in regard to the third chasm, is shown in figure 5,
-
-preceding page.
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -20363,6 +17939,336 @@ mortal means towards accomplishing our deliverance.
 
 
 
+<span class="atom-split" data-atom="chapter_09" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 10" data-chapter="Chapter 09" data-kind="chapter"></span>
+
+
+CHAPTER X.
+
+
+
+
+
+Shortly afterward an incident occurred which I am induced to look upon
+
+as more intensely productive of emotion, as far more replete with the
+
+extremes first of delight and then of horror, than even any of the
+
+thousand chances which afterward befell me in nine long years, crowded
+
+with events of the most startling, and, in many cases, of the most
+
+unconceived and unconceivable character. We were lying on the deck near
+
+the companion-way, and debating the possibility of yet making our way
+
+into the storeroom, when, looking towards Augustus, who lay fronting
+
+myself, I perceived that he had become all at once deadly pale, and
+
+that his lips were quivering in the most singular and unaccountable
+
+manner. Greatly alarmed, I spoke to him, but he made me no reply, and I
+
+was beginning to think that he was suddenly taken ill, when I took
+
+notice of his eyes, which were glaring apparently at some object behind
+
+me. I turned my head, and shall never forget the ecstatic joy which
+
+thrilled through every particle of my frame, when I perceived a large
+
+brig bearing down upon us, and not more than a couple of miles off. I
+
+sprung to my feet as if a musket bullet had suddenly struck me to the
+
+heart; and, stretching out my arms in the direction of the vessel,
+
+stood in this manner, motionless, and unable to articulate a syllable.
+
+Peters and Parker were equally affected, although in different ways.
+
+The former danced about the deck like a madman, uttering the most
+
+extravagant rhodomontades, intermingled with howls and imprecations,
+
+while the latter burst into [[Tears|tears]], and continued for many minutes
+
+weeping like a [[Child|child]].
+
+
+
+The vessel in sight was a large hermaphrodite brig, of a Dutch build,
+
+and painted black, with a tawdry gilt figurehead. She had evidently
+
+seen a good deal of rough weather, and, we supposed, had suffered much
+
+in the gale which had proved so disastrous to ourselves; for her
+
+foretopmast was gone, and some of her starboard bulwarks. When we first
+
+saw her, she was, as I have already said, about two miles off and to
+
+windward, bearing down upon us. The breeze was very gentle, and what
+
+astonished us chiefly was, that she had no other sails set than her
+
+foresail and mainsail, with a flying jib--of course she came down but
+
+slowly, and our impatience amounted nearly to phrensy. The awkward
+
+manner in which she steered, too, was remarked by all of us, even
+
+excited as we were. She yawed about so considerably, that once or twice
+
+we thought it impossible she could see us, or imagined that, having
+
+seen us, and discovered no person on board, she was about to tack and
+
+make off in another direction. Upon each of these occasions we screamed
+
+and shouted at the top of our voices, when the stranger would appear to
+
+change for a moment her intention, and again hold on towards us--this
+
+singular conduct being repeated two or three times, so that at last we
+
+could think of no other manner of accounting for it than by supposing
+
+the helmsman to be in liquor.
+
+
+
+No person was seen upon her decks until she arrived within about a
+
+quarter of a mile of us. We then saw three seamen, whom by their dress
+
+we took to be Hollanders. Two of these were lying on some old sails
+
+near the forecastle, and the third, who appeared to be looking at us
+
+with great curiosity, was leaning over the starboard bow near the
+
+bowsprit. This last was a stout and tall man, with a very dark skin. He
+
+seemed by his manner to be encouraging us to have patience, nodding to
+
+us in a cheerful although rather odd way, and smiling constantly so as
+
+to display a set of the most brilliantly white teeth. As his vessel
+
+drew nearer, we saw a red flannel cap which he had on fall from his
+
+head into the [[Water|water]]; but of this he took little or no notice,
+
+continuing his odd smiles and gesticulations. I relate these things and
+
+circumstances minutely, and I relate them, it must be understood,
+
+precisely as they _appeared_ to us.
+
+
+
+The brig came on slowly, and now more steadily than before, and--I
+
+cannot speak calmly of this event--our hearts leaped up wildly within
+
+us, and we poured out our whole souls in shouts and thanksgiving to God
+
+for the complete, unexpected, and glorious deliverance that was so
+
+palpably at hand. Of a sudden, and all at once, there came wafted over
+
+the ocean from the strange vessel (which was now close upon us) a
+
+smell, a stench, such as the whole world has no name for--no conception
+
+of--hellish--utterly suffocating--insufferable, inconceivable. I gasped
+
+for breath, and, turning to my companions, perceived that they were
+
+paler than marble. But we had now no [[Time|time]] left for question or
+
+surmise--the brig was within fifty feet of us, and it seemed to be her
+
+intention to run under our counter, that we might board her without her
+
+putting out a boat. We rushed aft, when, suddenly, a wide yaw threw her
+
+off full five or six points from the course she had been running, and,
+
+as she passed under our stern at the distance of about twenty feet, we
+
+had a full view of her decks. Shall I ever forget the triple horror of
+
+that spectacle? Twenty-five or thirty human bodies, among whom were
+
+several females, lay scattered about between the counter and the
+
+galley, in the last and most loathsome state of putrefaction! We
+
+plainly saw that not a [[Soul|soul]] lived in that fated vessel! Yet we could
+
+not help shouting to the dead for help! Yes, long and loudly did we
+
+beg, in the agony of the moment, that those silent and disgusting
+
+images would stay for us, would not abandon us to become like them,
+
+would receive us among their goodly company! We were raving with horror
+
+and [[Despair|despair]]--thoroughly mad through the anguish of our grievous
+
+disappointment.
+
+
+
+As our first loud yell of terror broke forth, it was replied to by
+
+something, from near the bowsprit of the stranger, so closely
+
+resembling the scream of a human voice that the nicest ear might have
+
+been startled and deceived. At this instant another sudden yaw brought
+
+the region of the forecastle for a moment into view, and we beheld at
+
+once the origin of the sound. We saw the tall stout figure still
+
+leaning on the bulwark, and still nodding his head to and fro, but his
+
+face was now turned from us so that we could not behold it. His arms
+
+were extended over the rail, and the palms of his hands fell outward.
+
+His knees were lodged upon a stout rope, tightly stretched, and
+
+reaching from the heel of the bowsprit to a cathead. On his back, from
+
+which a portion of the shirt had been torn, leaving it bare, there sat
+
+a huge seagull, busily gorging itself with the horrible flesh, its bill
+
+and talons deep buried, and its white plumage spattered all over with
+
+[[Blood|blood]]. As the brig moved further round so as to bring us close in view,
+
+the bird, with much apparent difficulty, drew out its crimsoned head,
+
+and, after eying us for a moment as if stupified, arose lazily from the
+
+[[Body|body]] upon which it had been feasting, and, flying directly above our
+
+deck, hovered there a while with a portion of clotted and liver-like
+
+substance in its beak. The horrid morsel dropped at length with a
+
+sullen splash immediately at the feet of Parker. May God forgive me,
+
+but now, for the first [[Time|time]], there flashed through my mind a thought, a
+
+thought which I will not mention, and I felt myself making a step
+
+towards the ensanguined spot. I looked upward, and the eyes of Augustus
+
+met my own with a degree of intense and eager meaning which immediately
+
+brought me to my senses. I sprang forward quickly, and, with a deep
+
+shudder, threw the frightful thing into the sea.
+
+
+
+The [[Body|body]] from which it had been taken, resting as it did upon the rope,
+
+had been easily swayed to and fro by the exertions of the carnivorous
+
+bird, and it was this motion which had at first impressed us with the
+
+belief of its being alive. As the gull relieved it of its weight, it
+
+swung round and fell partially over, so that the face was fully
+
+discovered. Never, surely, was any object so terribly full of awe! The
+
+eyes were gone, and the whole flesh around the mouth, leaving the teeth
+
+utterly naked. This, then, was the smile which had cheered us on to
+
+[[Hope|hope]]! this the--but I forbear. The brig, as I have already told, passed
+
+under our stern, and made its way slowly but steadily to leeward. With
+
+her and with her terrible crew went all our gay visions of deliverance
+
+and joy. Deliberately as she went by, we might possibly have found
+
+means of boarding her, had not our sudden disappointment, and the
+
+appalling [[Nature|nature]] of the discovery which accompanied it, laid entirely
+
+prostrate every active faculty of mind and [[Body|body]]. We had seen and felt,
+
+but we could neither think nor act, until, alas, too late. How much our
+
+intellects had been weakened by this incident may be estimated by the
+
+fact, that, when the vessel had proceeded so far that we could perceive
+
+no more than the half of her hull, the proposition was seriously
+
+entertained of attempting to overtake her by swimming!
+
+
+
+I have, since this period, vainly endeavoured to obtain some clew to
+
+the hideous uncertainty which enveloped the fate of the stranger. Her
+
+build and general appearance, as I have before stated, led us to the
+
+belief that she was a Dutch trader, and the dresses of the crew also
+
+sustained this opinion. We might have easily seen the name upon her
+
+stern, and, indeed, taken other observations which would have guided us
+
+in making out her character; but the intense excitement of the moment
+
+blinded us to everything of that [[Nature|nature]]. From the saffron-like hue of
+
+such of the corpses as were not entirely decayed, we concluded that the
+
+whole of her company had perished by the yellow fever, or some other
+
+virulent disease of the same fearful kind. If such were the case (and I
+
+know not what else to imagine), [[Death|death]], to judge from the positions of
+
+the bodies, must have come upon them in a manner awfully sudden and
+
+overwhelming, in a way totally distinct from that which generally
+
+characterizes even the most deadly pestilences with which mankind are
+
+acquainted. It is possible, indeed, that [[Poison|poison]], accidentally
+
+introduced into some of their sea-stores, may have brought about the
+
+disaster; or that the eating some unknown venomous species of fish, or
+
+other marine animal, or oceanic bird, might have induced it--but it is
+
+utterly useless to form conjectures where all is involved, and will, no
+
+[[Doubt|doubt]], remain for ever involved, in the most appalling and unfathomable
+
+mystery.
+
+
+
+
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
 
 
@@ -22851,6 +20757,1074 @@ regard to the sending a jollyboat from the schooner to take them off.
 
 
 
+<span class="atom-split" data-atom="chapter_14" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 15" data-chapter="Chapter 14" data-kind="chapter"></span>
+
+
+CHAPTER XV.
+
+
+
+
+
+On the twelfth we made sail from Christmas Harbour, retracing our way
+
+to the westward, and leaving Marion's Island, one of Crozet's group, on
+
+the larboard. We afterward passed Prince Edward's Island, leaving it
+
+also on our left; then, steering more to the northward, made, in
+
+fifteen days, the islands of Tristan d'Acunha, in latitude 37° 8' S.,
+
+longitude 12° 8' W.
+
+
+
+This group, now so [[Well|well]] known, and which consists of three circular
+
+islands, was first discovered by the Portuguese, and was visited
+
+afterward by the Dutch in 1643, and by the French in 1767. The three
+
+islands together form a triangle, and are distant from each other about
+
+ten miles, there being fine open passages between. The land in all of
+
+them is very high, especially in Tristan d'Acunha, properly so called.
+
+This is the largest of the group, being fifteen miles in circumference,
+
+and so elevated that it can be seen in clear weather at the distance of
+
+eighty or ninety miles. A part of the land towards the north rises more
+
+than a thousand feet perpendicularly from the sea. A tableland at this
+
+height extends back nearly to the centre of the island, and from this
+
+tableland arises a lofty cone like that of Teneriffe. The lower half of
+
+this cone is clothed with trees of good size, but the upper region is
+
+barren rock, usually hidden among the clouds, and covered with [[Snow|snow]]
+
+during the greater part of the year. There are no shoals or other
+
+dangers about the island, the shores being remarkably bold and the
+
+[[Water|water]] deep. On the northwestern coast is a bay, with a beach of black
+
+sand, where a landing with boats can be easily effected, provided there
+
+be a southerly [[Wind|wind]]. Plenty of excellent [[Water|water]] may here be readily
+
+procured; also cod, and other fish, may be taken with hook and line.
+
+
+
+The next island in point of size, and the most westwardly of the group,
+
+is that called the Inaccessible. Its precise situation is 37° 17' S.
+
+latitude, longitude 12° 24' W. It is seven or eight miles in
+
+circumference, and on all sides presents a forbidding and precipitous
+
+aspect. Its top is perfectly flat, and the whole region is steril,
+
+nothing growing upon it except a few stunted shrubs.
+
+
+
+[[Nightingale]] Island, the smallest and most southerly, is in latitude 37°
+
+26' S., longitude 12° 12' W. Off its southern extremity is a high ledge
+
+of rocky islets; a few also of a similar appearance are seen to the
+
+northeast. The ground is irregular and steril, and a deep valley
+
+partially separates it.
+
+
+
+The shores of these islands abound, in the proper season, with sea
+
+lions, sea elephants, the hair and fur seal, together with a great
+
+variety of oceanic [[Birds|birds]]. Whales are also plenty in their vicinity.
+
+Owing to the ease with which these various [[Animals|animals]] were here formerly
+
+taken, the group has been much visited since its discovery. The Dutch
+
+and French frequented it at a very early period. In 1790, Captain
+
+Patten, of the [[Ship|ship]] Industry, of Philadelphia, made Tristan d'Acunha,
+
+where he remained seven months (from August, 1790, to April, 1791) for
+
+the purpose of collecting sealskins. In this [[Time|time]] he gathered no less
+
+than five thousand six hundred, and says that he would have had no
+
+difficulty in loading a large [[Ship|ship]] with oil in three weeks. Upon his
+
+arrival he found no quadrupeds, with the exception of a few wild
+
+goats--the island now abounds with all our most valuable domestic
+
+[[Animals|animals]], which have been introduced by subsequent navigators.
+
+
+
+I believe it was not long after Captain Patten's visit that Captain
+
+Colquhoun, of the American brig Betsey, touched at the largest of the
+
+islands for the purpose of refreshment. He planted onions, potatoes,
+
+cabbages, and a great many other vegetables, an abundance of all which
+
+are now to be met with.
+
+
+
+In 1811, a Captain Heywood, in the Nereus, visited Tristan. He found
+
+there three Americans, who were residing upon the islands to prepare
+
+sealskins and oil. One of these men was named Jonathan Lambert, and he
+
+called himself the sovereign of the country. He had cleared and
+
+cultivated about sixty acres of land, and turned his attention to
+
+raising the coffee-plant and sugar-cane, with which he had been
+
+furnished by the American minister at Rio Janeiro. This settlement,
+
+however, was finally abandoned, and in 1817 the islands were taken
+
+possession of by the British [[government]], who sent a detachment for that
+
+purpose from the Cape of Good [[Hope]]. They did not, however, retain them
+
+long; but, upon the evacuation of the country as a British possession,
+
+two or three English families took up their residence there
+
+independently of the [[government]]. On the twenty-fifth of March, 1824,
+
+the Berwick, Captain Jeffrey, from [[London]] to Van Diemen's Land, arrived
+
+at the place, where they found an Englishman of the name of Glass,
+
+formerly a corporal in the British artillery. He claimed to be supreme
+
+governor of the islands, and had under his control twenty-one men and
+
+three women. He gave a very favourable account of the salubrity of the
+
+climate and of the productiveness of the soil. The population occupied
+
+themselves chiefly in collecting sealskins and sea elephant oil, with
+
+which they traded to the Cape of Good [[Hope]], Glass owning a small
+
+schooner. At the period of our arrival the governor was still a
+
+resident, but his little community had multiplied, there being
+
+fifty-six persons upon Tristan, besides a smaller settlement of seven
+
+on [[Nightingale]] Island. We had no difficulty in procuring almost every
+
+kind of refreshment which we required--sheep, hogs, bullocks, rabbits,
+
+poultry, goats, fish in great variety, and vegetables were abundant.
+
+Having come to anchor close in with the large island, in eighteen
+
+fathoms, we took all we wanted on board very conveniently. Captain Guy
+
+also purchased of Glass five hundred sealskins and some ivory. We
+
+remained here a week, during which the prevailing winds were from the
+
+northward and westward, and the weather somewhat hazy. On the fifth of
+
+November we made sail to the southward and westward, with the intention
+
+of having a thorough search for a group of islands called the Auroras,
+
+respecting whose existence a great diversity of opinion has existed.
+
+
+
+These islands are said to have been discovered as early as 1762, by the
+
+commander of the [[Ship|ship]] Aurora. In 1790, Captain Manuel de Oyarvido, in
+
+the [[Ship|ship]] Princess, belonging to the Royal Philippine Company, sailed,
+
+as he asserts, directly among them. In 1794, the Spanish corvette
+
+Atrevida went with the determination of ascertaining their precise
+
+situation, and, in a paper published by the Royal Hydrographical
+
+Society of Madrid in the year 1809, the following language is used
+
+respecting this expedition. "The corvette Atrevida practised, in their
+
+immediate vicinity, from the twenty-first to the twenty-seventh of
+
+January, all the necessary observations, and measured by chronometers
+
+the difference of longitude between these islands and the port of
+
+Soledad in the Malninas. The islands are three; they are very nearly in
+
+the same meridian; the centre one is rather low, and the other two may
+
+be seen at nine leagues distance." The observations made on board the
+
+Atrevida give the following results as the precise situation of each
+
+island. The most northern is in latitude 52° 37' 24" S., longitude 47°
+
+43' 15" W.; the middle one in latitude 53° 2' 40" S., longitude 47° 55'
+
+15" W.; and the most southern in latitude 53° 15' 22" S., longitude 47°
+
+57' 15" W.
+
+
+
+On the twenty-seventh of January, 1820, Captain James Weddel, of the
+
+British navy, sailed from Staten Land also in search of the Auroras. He
+
+reports that, having made the most diligent search, and passed not only
+
+immediately over the spots indicated by the commander of the Atrevida,
+
+but in every direction throughout the vicinity of these spots, he could
+
+discover no indication of land. These conflicting statements have
+
+induced other navigators to look out for the islands; and, strange to
+
+say, while some have sailed through every inch of sea where they are
+
+supposed to lie without finding them, there have been not a few who
+
+declare positively that they have seen them, and even been close in
+
+with their shores. It was Captain Guy's intention to make every
+
+exertion within his power to settle the question so oddly in
+
+dispute.[3]
+
+
+
+[Footnote 3: Among the vessels which at various times have professed to
+
+meet with the Auroras may be mentioned the [[Ship|ship]] San Miguel, in 1769;
+
+the [[Ship|ship]] Aurora, in 1774; the brig Pearl, in 1779; and the [[Ship|ship]]
+
+Dolores, in 1790. They all agree in giving the mean latitude
+
+fifty-three degrees south.]
+
+
+
+We kept on our course, between the south and west, with variable
+
+weather, until the twentieth of the month, when we found ourselves on
+
+the debated ground, being in latitude 53° 15' S., longitude 47° 58'
+
+W.--that is to say, very nearly upon the spot indicated as the
+
+situation of the most southern of the group. Not perceiving any sign of
+
+land, we continued to the westward in the parallel of fifty-three
+
+degrees south, as far as the meridian of fifty degrees west. We then
+
+stood to the north as far as the parallel of fifty-two degrees south,
+
+when we turned to the eastward, and kept our parallel by [[Double|double]]
+
+altitudes, morning and evening, and meridian altitudes of the planets
+
+and [[Moon|moon]]. Having thus gone eastwardly to the meridian of the western
+
+coast of Georgia, we kept that meridian until we were in the latitude
+
+from which we set out. We then took diagonal courses throughout the
+
+entire extent of sea circumscribed, keeping a lookout constantly at the
+
+masthead, and repeating our examination with the greatest care for a
+
+period of three weeks, during which the weather was remarkably pleasant
+
+and fair, with no haze whatsoever. Of course we were thoroughly
+
+satisfied that, whatever islands might have existed in this vicinity at
+
+any former period, no vestige of them remained at the present day.
+
+Since my return [[Home|home]] I find that the same ground was traced over with
+
+equal care in 1822 by Captain Johnson, of the American schooner Henry,
+
+and by Captain Morrell, in the American schooner Wasp--in both cases
+
+with the same result as in our own.
+
+
+
+
+<span class="atom-split" data-atom="chapter_15" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 16" data-chapter="Chapter 15" data-kind="chapter"></span>
+
+
+CHAPTER XVI.
+
+
+
+
+
+It had been Captain Guy's original intention, after satisfying himself
+
+about the Auroras, to proceed through the Strait of Magellan, and up
+
+along the western coast of Patagonia; but information received at
+
+Tristan d'Acunha induced him to steer to the southward, in the [[Hope|hope]] of
+
+falling in with some small islands said to lie about the parallel of
+
+60° S., longitude 41° 20' W. In the event of his not discovering these
+
+lands, he designed, should the season prove favourable, to push on
+
+towards the pole. Accordingly, on the twelfth of December, we made sail
+
+in that direction. On the eighteenth we found ourselves about the
+
+station indicated by Glass, and cruised for three days in that
+
+neighbourhood without finding any traces of the islands he had
+
+mentioned. On the twenty-first, the weather being unusually pleasant,
+
+we again made sail to the southward, with the resolution of penetrating
+
+in that course as far as possible. Before entering upon this portion of
+
+my narrative, it may be as [[Well|well]], for the information of those readers
+
+who have paid little attention to the progress of discovery in these
+
+regions, to give some brief account of the very few attempts at
+
+reaching the southern pole which have hitherto been made.
+
+
+
+That of Captain Cook was the first of which we have any distinct
+
+account. In 1772 he sailed to the south in the Resolution, accompanied
+
+by Lieutenant Furneaux in the Adventure. In December he found himself
+
+as far as the fifty-eighth parallel of south latitude, and in longitude
+
+26° 57' E. Here he met with narrow fields of ice, about eight or ten
+
+inches thick, and running northwest and southeast. This ice was in
+
+large cakes, and usually it was packed so closely that the vessels had
+
+great difficulty in forcing a passage. At this period Captain Cook
+
+supposed, from the vast number of [[Birds|birds]] to be seen, and from other
+
+indications, that he was in the near vicinity of land. He kept on to
+
+the southward, the weather being exceedingly cold, until he reached the
+
+sixty-fourth parallel, in longitude 38° 14' E. Here he had mild
+
+weather, with gentle breezes, for five days, the thermometer being at
+
+thirty-six. In January, 1773, the vessels crossed the Antarctic circle,
+
+but did not succeed in penetrating much farther; for, upon reaching
+
+latitude 67° 15', they found all farther progress impeded by an immense
+
+[[Body|body]] of ice, extending all along the southern horizon as far as the eye
+
+could reach. This ice was of every variety--and some large floes of it,
+
+miles in extent, formed a compact mass, rising eighteen or twenty feet
+
+above the [[Water|water]]. It being late in the season, and no [[Hope|hope]] entertained
+
+of rounding these obstructions, Captain Cook now reluctantly turned to
+
+the northward.
+
+
+
+In the November following he renewed his search in the Antarctic. In
+
+latitude 59° 40' he met with a strong current setting to the southward.
+
+In December, when the vessels were in latitude 67° 31', longitude 142°
+
+54' W., the cold was excessive, with heavy gales and fog. Here also
+
+[[Birds|birds]] were abundant; the albatross, the penguin, and the peterel
+
+especially. In latitude 70° 23' some large islands of ice were
+
+encountered, and shortly afterward, the clouds to the southward were
+
+observed to be of a snowy whiteness, indicating the vicinity of field
+
+ice. In latitude 71° 10', longitude 106° 54' W., the navigators were
+
+stopped, as before, by an immense frozen expanse, which filled the
+
+whole area of the southern horizon. The northern edge of this expanse
+
+was ragged and broken, so firmly wedged together as to be utterly
+
+impassable, and extending about a mile to the southward. Behind it the
+
+frozen surface was comparatively smooth for some distance, until
+
+terminated in the extreme back-ground by gigantic ranges of ice
+
+[[Mountains|mountains]], the one towering above the other. Captain Cook concluded
+
+that this vast field reached the southern pole or was joined to a
+
+continent. Mr. J. N. Reynolds, whose great exertions and perseverance
+
+have at length succeeded in getting set on foot a national expedition,
+
+partly for the purpose of exploring these regions, thus speaks of the
+
+attempt of the Resolution. "We are not surprised that Captain Cook was
+
+unable to go beyond 71° 10', but we are astonished that he did attain
+
+that point on the meridian of 106° 54' west longitude. Palmer's Land
+
+lies south of the Shetland, latitude sixty-four degrees, and tends to
+
+the southward and westward farther than any navigator has yet
+
+penetrated. Cook was standing for this land when his progress was
+
+arrested by the ice; which, we apprehend, must always be the case in
+
+that point, and so early in the season as the sixth of January--and we
+
+should not be surprised if a portion of the icy [[Mountains|mountains]] described was
+
+attached to the main [[Body|body]] of Palmer's Land, or to some other portions
+
+of land lying farther to the southward and westward."
+
+
+
+In 1803, Captains Kreutzenstern and Lisiausky were despatched by
+
+Alexander of [[Russia]] for the purpose of circumnavigating the globe. In
+
+endeavouring to get south, they made no farther than 59° 58', in
+
+longitude 70° 15' W. They here met with strong currents setting
+
+eastwardly. Whales were abundant, but they saw no ice. In regard to
+
+this voyage, Mr. Reynolds observes that, if Kreutzenstern had arrived
+
+where he did earlier in the season, he must have encountered ice--it
+
+was March when he reached the latitude specified. The winds prevailing,
+
+as they do, from the southward and westward, had carried the floes,
+
+aided by currents, into that icy region bounded on the north by
+
+Georgia, east by Sandwich Land and the South Orkneys, and west by the
+
+South Shetland Islands.
+
+
+
+In 1822, Captain James Weddell, of the British navy, with two very
+
+small vessels, penetrated farther to the south than any previous
+
+navigator, and this too, without encountering extraordinary
+
+difficulties. He states that although he was frequently hemmed in by
+
+ice _before_ reaching the seventy-second parallel, yet, upon attaining
+
+it, not a particle was to be discovered, and that, upon arriving at the
+
+latitude of 74° 15', no fields, and only three islands of ice were
+
+visible. It is somewhat remarkable that, although vast flocks of [[Birds|birds]]
+
+were seen, and other usual indications of land, and although, south of
+
+the Shetlands, unknown coasts were observed from the masthead tending
+
+southwardly, Weddell discourages the idea of land existing in the polar
+
+regions of the south.
+
+
+
+On the eleventh of January, 1823, Captain Benjamin Morrell, of the
+
+American schooner Wasp, sailed from Kerguelen's Land with a view of
+
+penetrating as far south as possible. On the first of February he found
+
+himself in latitude 64° 52' S., longitude 118° 27' E. The following
+
+passage is extracted from his journal of that date. "The [[Wind|wind]] soon
+
+freshened to an eleven-knot breeze, and we embraced this opportunity of
+
+making to the west; being however convinced that the farther we went
+
+south beyond latitude sixty-four degrees the less ice was to be
+
+apprehended, we steered a little to the southward, until we crossed the
+
+Antarctic circle, and were in latitude 69° 15' E. In this latitude
+
+there was _no field ice_, and very few ice islands in sight."
+
+
+
+Under the date of March fourteenth I find also this entry. "The sea was
+
+now entirely free of field ice, and there were not more than a dozen
+
+ice islands in sight. At the same [[Time|time]] the temperature of the air and
+
+[[Water|water]] was at least thirteen degrees higher (more mild) than we had ever
+
+found it between the parallels of sixty and sixty-two south. We were
+
+now in latitude 70° 14' S., and the temperature of the air was
+
+forty-seven, and that of the [[Water|water]] forty-four. In this situation I
+
+found the variation to be 14° 27' easterly, per azimuth.... I have
+
+several times passed within the Antarctic circle on different
+
+meridians, and have uniformly found the temperature, both of the air
+
+and the [[Water|water]], to become more and more mild the farther I advanced
+
+beyond the sixty-fifth degree of south latitude, and that the variation
+
+decreases in the same proportion. While north of this latitude, say
+
+between sixty and sixty-five south, we frequently had great difficulty
+
+in finding a passage for the vessel between the immense and almost
+
+innumerable ice islands, some of which were from one to two miles in
+
+circumference, and more than five hundred feet above the surface of the
+
+[[Water|water]]."
+
+
+
+Being nearly destitute of fuel and [[Water|water]], and without proper
+
+instruments, it being also late in the season, Captain Morrell was now
+
+obliged to put back, without attempting any farther progress to the
+
+southward, although an entirely open sea lay before him. He expresses
+
+the opinion that, had not these overruling considerations obliged him
+
+to retreat, he could have penetrated, if not to the pole itself, at
+
+least to the eighty-fifth parallel. I have given his ideas respecting
+
+these matters somewhat at length, that the reader may have an
+
+opportunity of seeing how far they were borne out by my own subsequent
+
+experience.
+
+
+
+In 1831, Captain Briscoe, in the employ of the Messieurs Enderby,
+
+whale-[[Ship|ship]] owners of [[London]], sailed in the brig Lively for the South
+
+Seas, accompanied by the cutter Tula. On the twenty-eighth of February,
+
+being in latitude 66° 30' S., longitude 47° 31' E., he descried land,
+
+and "clearly discovered through the [[Snow|snow]] the black peaks of a range of
+
+[[Mountains|mountains]] running E. S. E." He remained in this neighbourhood during
+
+the whole of the following month, but was unable to approach the coast
+
+nearer than within ten leagues, owing to the boisterous state of the
+
+weather. Finding it impossible to make farther discovery during this
+
+season, he returned northward to [[Winter|winter]] in Van Diemen's Land.
+
+
+
+In the beginning of 1832 he again proceeded southwardly, and on the
+
+fourth of February land was seen to the southeast in latitude 67° 15',
+
+longitude 69° 29' W. This was soon found to be an island near the
+
+headland of the country he had first discovered. On the twenty-first of
+
+the month he succeeded in landing on the latter, and took possession of
+
+it in the name of William IV., calling it Adelaide's Island, in [[Honour|honour]]
+
+of the English [[Queen|queen]]. These particulars being made known to the Royal
+
+Geographical Society of [[London]], the conclusion was drawn by that [[Body|body]]
+
+"that there is a continuous tract of land extending from 47° 30' E. to
+
+69° 29' W. longitude, running the parallel of from sixty-six to
+
+sixty-seven degrees south latitude." In respect to this conclusion Mr.
+
+Reynolds observes, "In the correctness of it we by no means concur; nor
+
+do the discoveries of Briscoe warrant any such inference. It was within
+
+these limits that Weddell proceeded south on a meridian to the east of
+
+Georgia, Sandwich Land, and the South Orkney and Shetland Islands." My
+
+own experience will be found to testify most directly to the falsity of
+
+the conclusion arrived at by the society.
+
+
+
+These are the principal attempts which have been made at penetrating to
+
+a high southern latitude, and it will now be seen that there remained,
+
+previous to the voyage of the Jane, nearly three hundred degrees of
+
+longitude in which the Antarctic circle had not been crossed at all. Of
+
+course a wide field lay before us for discovery, and it was with
+
+feelings of most intense interest that I heard Captain Guy express his
+
+resolution of pushing boldly to the southward.
+
+
+
+
+<span class="atom-split" data-atom="chapter_16" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 17" data-chapter="Chapter 16" data-kind="chapter"></span>
+
+
+CHAPTER XVII.
+
+
+
+
+
+We kept our course southwardly for four days after giving up the search
+
+for Glass's Islands, without meeting with any ice at all. On the
+
+twenty-sixth, at [[Noon|noon]], we were in latitude 63° 23' S., longitude 41°
+
+25' W. We now saw several large ice islands, and a floe of field ice,
+
+not, however, of any great extent. The winds generally blew from the
+
+southeast, or the northeast, but were very light. Whenever we had a
+
+westerly [[Wind|wind]], which was seldom, it was invariably attended with a rain
+
+squall. Every day we had more or less [[Snow|snow]]. The thermometer, on the
+
+twenty-seventh, stood at thirty-five.
+
+
+
+_January 1, 1828._ This day we found ourselves completely hemmed in by
+
+the ice, and our prospects looked cheerless indeed. A strong gale blew,
+
+during the whole forenoon, from the northeast, and drove large cakes of
+
+the drift against the rudder and counter with such violence that we all
+
+trembled for the consequences. Towards evening, the gale still blowing
+
+with fury, a large field in front separated, and we were enabled, by
+
+carrying a press of sail, to force a passage through the smaller flakes
+
+into some open [[Water|water]] beyond. As we approached this space we took in
+
+sail by degrees, and having at length got clear, lay to under a single
+
+reefed foresail.
+
+
+
+_January 2._ We had now tolerably pleasant weather. At [[Noon|noon]] we found
+
+ourselves in latitude 69° 10' S., longitude 42° 20' W., having crossed
+
+the Antarctic circle. Very little ice was to be seen to the southward,
+
+although large fields of it lay behind us. This day we rigged some
+
+sounding gear, using a large iron pot capable of holding twenty
+
+gallons, and a line of two hundred fathoms. We found the current
+
+setting to the north, about a quarter of a mile per hour. The
+
+temperature of the air was now about thirty-three. Here we found the
+
+variation to be 14° 28' easterly, per azimuth.
+
+
+
+_January 5._ We had still held on to the southward without any very
+
+great impediments. On this morning, however, being in latitude 73° 15'
+
+E., longitude 42° 10' W., we were again brought to a stand by an
+
+immense expanse of firm ice. We saw, nevertheless, much open [[Water|water]] to
+
+the southward, and felt no [[Doubt|doubt]] of being able to reach it eventually.
+
+Standing to the eastward along the edge of the floe, we at length came
+
+to a passage of about a mile in width, through which we warped our way
+
+by sundown. The sea in which we now were was thickly covered with ice
+
+islands, but had no field ice, and we pushed on boldly as before. The
+
+cold did not seem to increase, although we had [[Snow|snow]] very frequently,
+
+and now and then hail squalls of great violence. Immense flocks of the
+
+albatross flew over the schooner this day, going from southeast to
+
+northwest.
+
+
+
+_January 7._ The sea still remained pretty [[Well|well]] open, so that we had no
+
+difficulty in holding on our course. To the westward we saw some
+
+icebergs of incredible size, and in the afternoon passed very near one
+
+whose summit could not have been less than four hundred fathoms from
+
+the surface of the ocean. Its girth was probably, at the base, three
+
+quarters of a league, and several streams of [[Water|water]] were running from
+
+crevices in its sides. We remained in sight of this island two days,
+
+and then only lost it in a fog.
+
+
+
+_January 10._ Early this morning we had the misfortune to lose a man
+
+overboard. He was an American, named Peter Vredenburgh, a native of
+
+New-York, and was one of the most valuable hands on board the schooner.
+
+In going over the bows his foot slipped, and he fell between two cakes
+
+of ice, never rising again. At [[Noon|noon]] of this day we were in latitude 78°
+
+30', longitude 40° 15' W. The cold was now excessive, and we had hail
+
+squalls continually from the northward and eastward. In this direction
+
+also we saw several more immense icebergs, and the whole horizon to the
+
+eastward appeared to be blocked up with field ice, rising in tiers, one
+
+mass above the other. Some driftwood floated by during the evening, and
+
+a great quantity of [[Birds|birds]] flew over, among which were Nellies,
+
+peterels, albatrosses, and a large bird of a brilliant blue plumage.
+
+The variation here, per azimuth, was less than it had been previously
+
+to our passing the Antarctic circle.
+
+
+
+_January 12._ Our passage to the south again looked doubtful, as
+
+nothing was to be seen in the direction of the pole but one apparently
+
+limitless floe, backed by absolute [[Mountains|mountains]] of ragged ice, one
+
+precipice of which arose frowningly above the other. We stood to the
+
+westward until the fourteenth, in the [[Hope|hope]] of finding an entrance.
+
+
+
+_January 14._ This morning we reached the western extremity of the
+
+field which had impeded us, and, weathering it, came to an open sea,
+
+without a particle of ice. Upon sounding with two hundred fathoms, we
+
+here found a current setting southwardly at the rate of half a mile per
+
+hour. The temperature of the air was forty-seven, that of the [[Water|water]]
+
+thirty-four. We now sailed to the southward, without meeting any
+
+interruption of moment until the sixteenth, when, at [[Noon|noon]], we were in
+
+latitude 81° 21', longitude 42° W. We here again sounded, and found a
+
+current setting still southwardly, and at the rate of three quarters of
+
+a mile per hour. The variation per azimuth had diminished, and the
+
+temperature of the air was mild and pleasant, the thermometer being as
+
+high as fifty-one. At this period not a particle of ice was to be
+
+discovered. All hands on board now felt certain of attaining the pole.
+
+
+
+_January 17._ This day was full of incident. Innumerable flights of
+
+[[Birds|birds]] flew over us from the southward, and several were shot from the
+
+deck; one of them, a species of pelican, proved to be excellent eating.
+
+About midday a small floe of ice was seen from the masthead off the
+
+larboard bow, and upon it there appeared to be some large animal. As
+
+the weather was good and nearly calm, Captain Guy ordered out two of
+
+the boats to see what it was. Dirk Peters and myself accompanied the
+
+mate in the larger boat. Upon coming up with the floe, we perceived
+
+that it was in the possession of a gigantic creature of the race of the
+
+Arctic bear, but far exceeding in size the largest of these [[Animals|animals]].
+
+Being [[Well|well]] armed, we made no scruple of attacking it at once. Several
+
+shots were fired in quick succession, the most of which took effect,
+
+apparently, in the head and [[Body|body]]. Nothing discouraged, however, the
+
+[[Monster|monster]] threw himself from the ice, and swam, with open jaws, to the
+
+boat in which were Peters and myself. Owing to the confusion which
+
+ensued among us at this unexpected turn of the adventure, no person was
+
+ready immediately with a second shot, and the bear had actually
+
+succeeded in getting half his vast bulk across our gunwale, and seizing
+
+one of the men by the small of his back, before any efficient means
+
+were taken to repel him. In this extremity nothing but the promptness
+
+and agility of Peters saved us from destruction. Leaping upon the back
+
+of the huge beast, he plunged the blade of a knife behind the neck,
+
+reaching the spinal marrow at a blow. The brute tumbled into the sea
+
+lifeless, and without a struggle, [[rolling]] over Peters as he fell. The
+
+latter soon recovered himself, and a rope being thrown him, he secured
+
+the carcass before entering the boat. We then returned in triumph to
+
+the schooner, towing our trophy behind us. This bear, upon
+
+admeasurement, proved to be full fifteen feet in his greatest length.
+
+His wool was perfectly white, and very coarse, curling tightly. The
+
+eyes were of a [[Blood|blood]] red, and larger than those of the Arctic bear--the
+
+snout also more rounded, rather resembling the snout of the bulldog.
+
+The meat was tender, but excessively rank and fishy, although the men
+
+devoured it with avidity, and declared it excellent eating.
+
+
+
+Scarcely had we got our prize alongside, when the man at the masthead
+
+gave the joyful shout of _"land on the starboard bow!"_ All hands were
+
+now upon the alert, and, a breeze springing up very opportunely from
+
+the northward and eastward, we were soon close in with the coast. It
+
+proved to be a low rocky islet, of about a league in circumference, and
+
+altogether destitute of vegetation, if we except a species of prickly
+
+pear. In approaching it from the northward, a singular ledge of rock is
+
+seen projecting into the sea, and bearing a strong resemblance to
+
+corded bales of cotton. Around this ledge to the westward is a small
+
+bay, at the [[Bottom|bottom]] of which our boats effected a convenient landing.
+
+
+
+It did not take us long to explore every portion of the island, but,
+
+with one exception, we found nothing worthy of observation. In the
+
+southern extremity, we picked up near the shore, half buried in a pile
+
+of loose stones, a piece of wood, which seemed to have formed the prow
+
+of a canoe. There had been evidently some attempt at carving upon it,
+
+and Captain Guy fancied that he made out the figure of a tortoise, but
+
+the resemblance did not strike me very forcibly. Besides this prow, if
+
+such it were, we found no other token that any living creature had ever
+
+been here before. Around the coast we discovered occasional small floes
+
+of ice--but these were very few. The exact situation of this islet (to
+
+which Captain Guy gave the name of Bennet's Islet, in [[Honour|honour]] of his
+
+partner in the ownership of the schooner) is 82° 50' S. latitude, 42°
+
+20' W. longitude.
+
+
+
+We had now advanced to the southward more than eight degrees farther
+
+than any previous navigators, and the sea still lay perfectly open
+
+before us. We found, too, that the variation uniformly decreased as we
+
+proceeded, and, what was still more surprising, that the temperature of
+
+the air, and latterly of the [[Water|water]], became milder. The weather might
+
+even be called pleasant, and we had a steady but very gentle breeze
+
+always from some northern point of the compass. The sky was usually
+
+clear, with now and then a slight appearance of thin vapour in the
+
+southern horizon--this, however, was invariably of brief duration. Two
+
+difficulties [[Alone|alone]] presented themselves to our view; we were getting
+
+short of fuel, and symptoms of scurvy had occurred among several of the
+
+crew. These considerations began to impress upon Captain Guy the
+
+necessity of returning, and he spoke of it frequently. For my own part,
+
+confident as I was of soon arriving at land of some description upon
+
+the course we were pursuing, and having every reason to believe, from
+
+present appearances, that we should not find it the steril soil met
+
+with in the higher Arctic latitudes, I warmly pressed upon him the
+
+expediency of persevering, at least for a few days longer, in the
+
+direction we were now holding. So tempting an opportunity of solving
+
+the great problem in regard to an Antarctic continent had never yet
+
+been afforded to man, and I confess that I felt myself bursting with
+
+indignation at the timid and ill-timed suggestions of our commander. I
+
+believe, indeed, that what I could not refrain from saying to him on
+
+this head had the effect of inducing him to push on. While, therefore,
+
+I cannot but lament the most unfortunate and bloody events which
+
+immediately arose from my advice, I must still be allowed to feel some
+
+degree of gratification at having been instrumental, however remotely,
+
+in opening to the eye of science one of the most intensely exciting
+
+[[Secrets|secrets]] which has ever engrossed its attention.
+
+
+
+
 <span class="atom-split" data-atom="chapter_17--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
 
 
@@ -23335,6 +22309,364 @@ apparent miracles with which I was destined to be at length encircled.
 
 
 
+<span class="atom-split" data-atom="chapter_18" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 19" data-chapter="Chapter 18" data-kind="chapter"></span>
+
+
+CHAPTER XIX.
+
+
+
+
+
+We were nearly three hours in reaching the village, it being more than
+
+nine miles in the interior, and the path lying through a rugged
+
+country. As we passed along, the party of Too-wit (the whole hundred
+
+and ten savages of the canoes) was momentarily strengthened by smaller
+
+detachments, of from two to six or seven, which joined us, as if by
+
+accident, at different turns in the [[Road|road]]. There appeared so much of
+
+system in this that I could not help feeling distrust, and I spoke to
+
+Captain Guy of my apprehensions. It was now too late, however, to
+
+recede, and we concluded that our best security lay in evincing a
+
+perfect confidence in the good [[Faith|faith]] of Too-wit. We accordingly went
+
+on, keeping a wary eye upon the manoeuvres of the savages, and not
+
+permitting them to divide our numbers by pushing in between. In this
+
+way, passing through a precipitous ravine, we at length reached what we
+
+were told was the only collection of habitations upon the island. As we
+
+came in sight of them, the chief set up a shout, and frequently
+
+repeated the word _Klock-Klock_; which we supposed to be the name of
+
+the village, or perhaps the generic name for villages.
+
+
+
+The dwellings were of the most miserable description imaginable, and,
+
+unlike those of even the lowest of the savage races with which mankind
+
+are acquainted, were of no uniform plan. Some of them (and these we
+
+found belonged to the _Wampoos_ or _Yampoos_, the great men of the
+
+land) consisted of a tree cut down at about four feet from the root,
+
+with a large black skin thrown over it, and hanging in loose folds upon
+
+the ground. Under this the savage nestled. Others were formed by means
+
+of rough limbs of trees, with the withered foliage upon them, made to
+
+recline, at an angle of forty-five degrees, against a bank of clay,
+
+heaped up, without regular form, to the height of five or six feet.
+
+Others, again, were mere holes dug in the earth perpendicularly, and
+
+covered over with similar branches, these being removed when the tenant
+
+was about to enter, and pulled on again when he had entered. A few were
+
+built among the forked limbs of trees as they stood, the upper limbs
+
+being partially cut through, so as to bend over upon the lower, thus
+
+forming thicker shelter from the weather. The greater number, however,
+
+consisted of small shallow caverns, apparently scratched in the face of
+
+a precipitous ledge of dark stone, resembling fuller's earth, with
+
+which three sides of the village was bounded. At the door of each of
+
+these primitive caverns was a small rock, which the tenant carefully
+
+placed before the entrance upon leaving his residence, for what purpose
+
+I could not ascertain, as the stone itself was never of sufficient size
+
+to close up more than a third of the opening.
+
+
+
+This village, if it were worthy of the name, lay in a valley of some
+
+depth, and could only be approached from the southward, the precipitous
+
+ledge of which I have already spoken cutting off all access in other
+
+directions. Through the middle of the valley ran a brawling stream of
+
+the same magical-looking [[Water|water]] which has been described. We saw several
+
+strange [[Animals|animals]] about the dwellings, all appearing to be thoroughly
+
+domesticated. The largest of these creatures resembled our common hog
+
+in the structure of the [[Body|body]] and snout; the tail, however, was bushy,
+
+and the legs slender as those of the antelope. Its motion was
+
+exceedingly awkward and indecisive, and we never saw it attempt to run.
+
+We noticed also several [[Animals|animals]] very similar in appearance, but of a
+
+greater length of [[Body|body]], and covered with a black wool. There were a
+
+great variety of tame fowls running about, and these seemed to
+
+constitute the chief food of the natives. To our astonishment we saw
+
+black albatross among these [[Birds|birds]] in a state of entire domestication,
+
+going to sea periodically for food, but always returning to the village
+
+as a [[Home|home]], and using the southern shore in the vicinity as a place of
+
+incubation. There they were joined by their friends the pelicans as
+
+usual, but these latter never followed them to the dwellings of the
+
+savages. Among the other kinds of tame fowls were ducks, differing very
+
+little from the canvass-back of our own country, black gannets, and a
+
+large bird not unlike the buzzard in appearance, but not carnivorous.
+
+Of fish there seemed to be a great abundance. We saw, during our visit,
+
+a quantity of dried salmon, rock cod, blue dolphins, mackerel,
+
+blackfish, skate, conger eels, elephant-fish, mullets, soles,
+
+parrotfish, leather-jackets, gurnards, hake, flounders, paracutas, and
+
+innumerable other varieties. We noticed, too, that most of them were
+
+similar to the fish about the group of the Lord Auckland Islands, in a
+
+latitude as low as fifty-one degrees south. The Gallipago tortoise was
+
+also very plentiful. We saw but few wild [[Animals|animals]], and none of a large
+
+size, or of a species with which we were familiar. One or two serpents
+
+of a formidable aspect crossed our path, but the natives paid them
+
+little attention, and we concluded that they were not venomous.
+
+
+
+As we approached the village with Too-wit and his party, a vast crowd
+
+of the people rushed out to meet us, with loud shouts, among which we
+
+could only distinguish the everlasting _Anamoo-moo!_ and _Lama-Lama!_
+
+We were much surprised at perceiving that, with one or two exceptions,
+
+these new comers were entirely naked, the skins being used only by the
+
+men of the canoes. All the weapons of the country seemed also to be in
+
+the possession of the latter, for there was no appearance of any among
+
+the villagers. There were a great many women and children, the former
+
+not altogether wanting in what might be termed personal [[Beauty|beauty]]. They
+
+were straight, tall, and [[Well|well]] formed, with a grace and [[Freedom|freedom]] of
+
+carriage not to be found in civilized society. Their lips, however,
+
+like those of the men, were thick and clumsy, so that, even when
+
+laughing, the teeth were never disclosed. Their hair was of a finer
+
+texture than that of the males. Among these naked villagers there might
+
+have been ten or twelve who were clothed, like the party of Too-wit, in
+
+dresses of black skin, and armed with lances and heavy clubs. These
+
+appeared to have great influence among the rest, and were always
+
+addressed by the title _Wampoo_. These, too, were the tenants of the
+
+black skin palaces. That of Too-wit was situated in the centre of the
+
+village, and was much larger and somewhat better constructed than
+
+others of its kind. The tree which formed its support was cut off at a
+
+distance of twelve feet or thereabout from the root, and there were
+
+several branches left just below the cut, these serving to extend the
+
+covering, and in this way prevent its flapping about the trunk. The
+
+covering, too, which consisted of four very large skins fastened
+
+together with wooden skewers, was secured at the [[Bottom|bottom]] with pegs
+
+driven through it and into the ground. The floor was strewed with a
+
+quantity of dry [[Leaves|leaves]] by way of carpet.
+
+
+
+To this hut we were conducted with great solemnity, and as many of the
+
+natives crowded in after us as possible. Too-wit seated himself on the
+
+[[Leaves|leaves]], and made signs that we should follow his example. This we did,
+
+and presently found ourselves in a situation peculiarly uncomfortable,
+
+if not indeed critical. We were on the ground, twelve in number, with
+
+the savages, as many as forty, sitting on their hams so closely around
+
+us that, if any disturbance had arisen, we should have found it
+
+impossible to make use of our arms, or indeed to have risen on our
+
+feet. The pressure was not only inside the tent, but outside, where
+
+probably was every individual on the whole island, the crowd being
+
+prevented from trampling us to [[Death|death]] only by the incessant exertions
+
+and vociferations of Too-wit. Our chief security lay, however, in the
+
+presence of Too-wit himself among us, and we resolved to stick by him
+
+closely, as the best chance of extricating ourselves from the dilemma,
+
+sacrificing him immediately upon the first appearance of hostile
+
+design.
+
+
+
+After some trouble a certain degree of quiet was restored, when the
+
+chief addressed us in a speech of great length, and very nearly
+
+resembling the one delivered in the canoes, with the exception that the
+
+_Anamoo-moos!_ were now somewhat more strenuously insisted upon than
+
+the _Lama-Lamas!_ We listened in profound [[Silence|silence]] until the conclusion
+
+of his harangue, when Captain Guy replied by assuring the chief of his
+
+eternal [[Friendship|friendship]] and good-will, concluding what he had to say by a
+
+present of several strings of blue beads and a knife. At the former the
+
+monarch, much to our surprise, turned up his nose with some expression
+
+of contempt; but the knife gave him the most unlimited satisfaction,
+
+and he immediately ordered dinner. This was handed into the tent over
+
+the heads of the attendants, and consisted of the palpitating entrails
+
+of a species of unknown animal, probably one of the slim-legged hogs
+
+which we had observed in our approach to the village. Seeing us at a
+
+loss how to proceed, he began, by way of setting us an example, to
+
+devour yard after yard of the enticing food, until we could positively
+
+stand it no longer, and evinced such manifest symptoms of rebellion of
+
+stomach as inspired his majesty with a degree of astonishment only
+
+inferior to that brought about by the looking-glasses. We declined,
+
+however, partaking of the delicacies before us, and endeavoured to make
+
+him understand that we had no appetite whatever, having just finished a
+
+hearty _déjeuner_.
+
+
+
+When the monarch had made an end of his meal, we commenced a series of
+
+[[Cross|cross]]-questioning in every ingenious manner we could devise, with a
+
+view of discovering what were the chief productions of the country, and
+
+whether any of them might be turned to profit. At length he seemed to
+
+have some idea of our meaning, and offered to accompany us to a part of
+
+the coast where he assured us the _biche de mer_ (pointing to a
+
+specimen of that animal) was to be found in great abundance. We were
+
+glad at this early opportunity of escaping from the oppression of the
+
+crowd, and signified our eagerness to proceed. We now left the tent,
+
+and, accompanied by the whole population of the village, followed the
+
+chief to the southeastern extremity of the island, not far from the bay
+
+where our vessel lay at anchor. We waited here for about an hour, until
+
+the four canoes were brought round by some of the savages to our
+
+station. The whole of our party then getting into one of them, we were
+
+paddled along the edge of the reef before mentioned, and of another
+
+still farther out, where we saw a far greater quantity of _biche de
+
+mer_ than the oldest seaman among us had ever seen in those groups of
+
+the lower latitudes most celebrated for this article of commerce. We
+
+stayed near these reefs only long enough to satisfy ourselves that we
+
+could easily load a dozen vessels with the animal if necessary, when we
+
+were taken alongside the schooner, and parted with Too-wit after
+
+obtaining from him a promise that he would bring us, in the course of
+
+twenty-four hours, as many of the canvass-back ducks and Gallipago
+
+tortoises as his canoes would hold. In the whole of this adventure we
+
+saw nothing in the demeanour of the natives calculated to create
+
+suspicion, with the single exception of the systematic manner in which
+
+their party was strengthened during our route from the schooner to the
+
+village.
+
+
+
+
 <span class="atom-split" data-atom="chapter_19--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
 
 
@@ -23799,6 +23131,304 @@ me with a vague conception, if indeed I then thought of anything, that
 the whole foundations of the solid globe were suddenly rent asunder,
 
 and that the day of universal dissolution was at hand.
+
+
+
+
+<span class="atom-split" data-atom="chapter_20" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 21" data-chapter="Chapter 20" data-kind="chapter"></span>
+
+
+CHAPTER XXI.
+
+
+
+
+
+As soon as I could collect my scattered senses, I found myself nearly
+
+suffocated, and grovelling in utter darkness among a quantity of loose
+
+earth, which was also falling upon me heavily in every direction,
+
+threatening to bury me entirely. Horribly alarmed at this idea, I
+
+struggled to gain my feet, and at length succeeded. I then remained
+
+motionless for some moments, endeavouring to conceive what had happened
+
+to me, and where I was. Presently I heard a deep groan just at my ear,
+
+and afterward the smothered voice of Peters calling to me for aid in
+
+the name of God. I scrambled one or two paces forward, when I fell
+
+directly over the head and shoulders of my companion, who, I soon
+
+discovered, was buried in a loose mass of earth as far as his middle,
+
+and struggling desperately to free himself from the pressure. I tore
+
+the dirt from around him with all the energy I could command, and at
+
+length succeeded in getting him out.
+
+
+
+As soon as we sufficiently recovered from our fright and surprise to be
+
+capable of conversing rationally, we both came to the conclusion that
+
+the walls of the fissure in which we had ventured had, by some
+
+convulsion of [[Nature|nature]], or probably from their own weight, caved in
+
+overhead, and that we were consequently lost for ever, being thus
+
+entombed alive. For a long [[Time|time]] we gave up supinely to the most intense
+
+agony and [[Despair|despair]], such as cannot be adequately imagined by those who
+
+have never been in a similar situation. I firmly believe that no
+
+incident ever occurring in the course of human events is more adapted
+
+to inspire the supremeness of mental and bodily distress than a case
+
+like our own, of living inhumation. The blackness of darkness which
+
+envelops the victim, the terrific oppression of lungs, the stifling
+
+fumes from the damp earth, unite with the ghastly considerations that
+
+we are beyond the remotest confines of [[Hope|hope]], and that such is the
+
+allotted portion of _the dead_, to carry into the human heart a degree
+
+of appalling awe and horror not to be tolerated--never to be conceived.
+
+
+
+At length Peters proposed that we should endeavour to ascertain
+
+precisely the extent of our calamity, and grope about our [[Prison|prison]]; it
+
+being barely possible, he observed, that some opening might be yet left
+
+us for escape. I caught eagerly at this [[Hope|hope]], and, arousing myself to
+
+exertion, attempted to force my way through the loose earth. Hardly had
+
+I advanced a single step before a glimmer of light became perceptible,
+
+enough to convince me that, at all events, we should not immediately
+
+perish for want of air. We now took some degree of heart, and
+
+encouraged each other to [[Hope|hope]] for the best. Having scrambled over a
+
+bank of rubbish which impeded our farther progress in the direction of
+
+the light, we found less difficulty in advancing, and also experienced
+
+some relief from the excessive oppression of lungs which had tormented
+
+us. Presently we were enabled to obtain a glimpse of the objects
+
+around, and discovered that we were near the extremity of the straight
+
+portion of the fissure, where it made a turn to the left. A few
+
+struggles more, and we reached the bend, when, to our inexpressible
+
+joy, there appeared a long seam or crack extending upward a vast
+
+distance, generally at an angle of about forty-five degrees, although
+
+sometimes much more precipitous. We could not see through the whole
+
+extent of this opening; but, as a good deal of light came down it, we
+
+had little [[Doubt|doubt]] of finding at the top of it (if we could by any means
+
+reach the top) a clear passage into the open air.
+
+
+
+I now called to mind that three of us had entered the fissure from the
+
+main gorge, and that our companion, Allen, was still missing; we
+
+determined at once to retrace our steps and look for him. After a long
+
+search, and much danger from the farther caving in of the earth above
+
+us, Peters at length cried out to me that he had hold of our
+
+companion's foot, and that his whole [[Body|body]] was deeply buried beneath the
+
+rubbish, beyond a possibility of extricating him. I soon found that
+
+what he said was too true, and that, of course, life had been long
+
+extinct. With sorrowful hearts, therefore, we left the corpse to its
+
+fate, and again made our way to the bend.
+
+
+
+The breadth of the seam was barely sufficient to admit us, and, after
+
+one or two ineffectual efforts at getting up, we began once more to
+
+[[Despair|despair]]. I have before said that the chain of hills through which ran
+
+the main gorge was composed of a species of soft rock resembling
+
+soapstone. The sides of the cleft we were now attempting to ascend were
+
+of the same material, and so excessively slippery, being wet, that we
+
+could get but little foothold upon them even in their least precipitous
+
+parts; in some places, where the ascent was nearly perpendicular, the
+
+difficulty was, of course, much aggravated; and, indeed, for some [[Time|time]]
+
+we thought it insurmountable. We took [[Courage|courage]], however, from [[Despair|despair]];
+
+and what, by dint of cutting steps in the soft stone with our Bowie
+
+knives, and swinging, at the risk of our lives, to small projecting
+
+points of a harder species of slaty rock which now and then protruded
+
+from the general mass, we at length reached a natural platform, from
+
+which was perceptible a patch of blue sky, at the extremity of a
+
+thickly-wooded ravine. Looking back now, with somewhat more leisure, at
+
+the passage through which we had thus far proceeded, we clearly saw,
+
+from the appearance of its sides, that it was of late formation, and we
+
+concluded that the concussion, whatever it was, which had so
+
+unexpectedly overwhelmed us, had also, at the same moment, laid open
+
+this path for escape. Being quite exhausted with exertion, and, indeed,
+
+so weak that we were scarcely able to stand or articulate, Peters now
+
+proposed that we should endeavour to bring our companions to the rescue
+
+by firing the pistols which still remained in our girdles--the muskets
+
+as [[Well|well]] as cutlasses had been lost among the loose earth at the [[Bottom|bottom]]
+
+of the chasm. Subsequent events proved that, had we fired, we should
+
+have sorely repented it; but, luckily, a half suspicion of foul play
+
+had by this [[Time|time]] arisen in my mind, and we forbore to let the savages
+
+know of our whereabouts.
+
+
+
+After having reposed for about an hour, we pushed on slowly up the
+
+ravine, and had gone no great way before we heard a succession of
+
+tremendous yells. At length we reached what might be called the surface
+
+of the ground; for our path hitherto, since leaving the platform, had
+
+lain beneath an archway of high rock and foliage, at a vast distance
+
+overhead. With great caution we stole to a narrow opening, through
+
+which we had a clear sight of the surrounding country, when the whole
+
+dreadful secret of the concussion broke upon us in one moment and at
+
+one view.
+
+
+
+The spot from which we looked was not far from the summit of the
+
+highest peak in the range of the soapstone hills. The gorge in which
+
+our party of thirty-two had entered ran within fifty feet to the left
+
+of us. But, for at least one hundred yards, the channel or bed of this
+
+gorge was entirely filled up with the chaotic ruins of more than a
+
+million tons of earth and stone that had been artificially tumbled
+
+within it. The means by which the vast mass had been precipitated were
+
+not more simple than evident, for sure traces of the murderous work
+
+were yet remaining. In several spots along the top of the eastern side
+
+of the gorge (we were now on the western) might be seen stakes of wood
+
+driven into the earth. In these spots the earth had not given way; but
+
+throughout the whole extent of the face of the precipice from which the
+
+mass _had_ fallen, it was clear, from marks left in the soil resembling
+
+those made by the drill of the rock-blaster, that stakes similar to
+
+those we saw standing had been inserted, at not more than a yard apart,
+
+for the length of perhaps three hundred feet, and ranging at about ten
+
+feet back from the edge of the gulf. Strong cords of grape vine were
+
+attached to the stakes still remaining on the [[Hill|hill]], and it was evident
+
+that such cords had also been attached to each of the other stakes. I
+
+have already spoken of the singular stratification of these soapstone
+
+hills; and the description just given of the narrow and deep fissure
+
+through which we effected our escape from inhumation will afford a
+
+further conception of its [[Nature|nature]]. This was such that almost every
+
+natural convulsion would be sure to split the soil into perpendicular
+
+layers or ridges running parallel with one another; and a very moderate
+
+exertion of art would be sufficient for effecting the same purpose. Of
+
+this stratification the savages had availed themselves to accomplish
+
+their treacherous ends. There can be no [[Doubt|doubt]] that, by the continuous
+
+line of stakes, a partial rupture of the soil had been brought about,
+
+probably to the depth of one or two feet, when, by means of a savage
+
+pulling at the end of each of the cords (these cords being attached to
+
+the tops of the stakes, and extending back from the edge of the cliff),
+
+a vast leverage power was obtained, capable of hurling the whole face
+
+of the [[Hill|hill]], upon a given signal, into the bosom of the abyss below.
+
+The fate of our poor companions was no longer a matter of uncertainty.
+
+We [[Alone|alone]] had escaped from the tempest of that overwhelming destruction.
+
+We were the only living white men upon the island.
 
 
 
@@ -24273,6 +23903,376 @@ circle around it, and, no sooner was this arrangement completed, than
 the whole of the vast assembly rushed into the interior of the island,
 
 with loud screams of _Tekeli-li! Tekeli-li!_
+
+
+
+
+<span class="atom-split" data-atom="chapter_22" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 23" data-chapter="Chapter 22" data-kind="chapter"></span>
+
+
+CHAPTER XXIII.
+
+
+
+
+
+During the six or seven days immediately following we remained in our
+
+hiding-place upon the [[Hill|hill]], going out only occasionally, and then with
+
+the greatest precaution, for [[Water|water]] and filberts. We had made a kind of
+
+pent-[[house]] on the platform, furnishing it with a bed of dry [[Leaves|leaves]], and
+
+placing in it three large flat stones, which served us for both
+
+fireplace and table. We kindled a [[Fire|fire]] without difficulty by rubbing
+
+two pieces of dry wood together, the one soft, the other hard. The bird
+
+we had taken in such good season proved excellent eating, although
+
+somewhat tough. It was not an oceanic fowl, but a species of bittern,
+
+with jet black and grizzly plumage, and diminutive wings in proportion
+
+to its bulk. We afterward saw three of the same kind in the vicinity of
+
+the ravine, apparently seeking for the one we had captured; but, as
+
+they never alighted, we had no opportunity of catching them.
+
+
+
+As long as this fowl lasted we suffered nothing from our situation; but
+
+it was now entirely consumed, and it became absolutely necessary that
+
+we should look out for provision. The filberts would not satisfy the
+
+cravings of hunger, afflicting us, too, with severe gripings of the
+
+bowels, and, if freely indulged in, with violent headache. We had seen
+
+several large tortoises near the seashore to the eastward of the [[Hill|hill]],
+
+and perceived they might be easily taken, if we could get at them
+
+without the observation of the natives. It was resolved, therefore, to
+
+make an attempt at descending.
+
+
+
+We commenced by going down the southern declivity, which seemed to
+
+offer the fewest difficulties, but had not proceeded a hundred yards
+
+before (as we had anticipated from appearances on the [[Hill|hill]]-top) our
+
+progress was entirely arrested by a branch of the gorge in which our
+
+companions had perished. We now passed along the edge of this for about
+
+a quarter of a mile, when we were again stopped by a precipice of
+
+immense depth, and, not being able to make our way along the brink of
+
+it, we were forced to retrace our steps by the main ravine.
+
+
+
+We now pushed over to the eastward, but with precisely similar fortune.
+
+After an hour's scramble, at the risk of breaking our necks, we
+
+discovered that we had merely descended into a vast pit of black
+
+granite, with fine [[Dust|dust]] at the [[Bottom|bottom]], and whence the only egress was
+
+by the rugged path in which we had come down. Toiling again up this
+
+path, we now tried the northern edge of the [[Hill|hill]]. Here we were obliged
+
+to use the greatest possible caution in our manoeuvres, as the least
+
+indiscretion would expose us to the full view of the savages in the
+
+village. We crawled along, therefore, on our hands and knees, and,
+
+occasionally, were even forced to throw ourselves at full length,
+
+dragging our bodies along by means of the shrubbery. In this careful
+
+manner we had proceeded but a little way, when we arrived at a chasm
+
+far deeper than any we had yet seen, and leading directly into the main
+
+gorge. Thus our fears were fully confirmed, and we found ourselves cut
+
+off entirely from access to the world below. Thoroughly exhausted by
+
+our exertions, we made the best of our way back to the platform, and,
+
+throwing ourselves upon the bed of [[Leaves|leaves]], slept sweetly and soundly
+
+for some hours.
+
+
+
+For several days after this fruitless search we were occupied in
+
+exploring every part of the summit of the [[Hill|hill]], in order to inform
+
+ourselves of its actual resources. We found that it would afford us no
+
+food, with the exception of the unwholesome filberts, and a rank
+
+species of scurvy grass which grew in a little patch of not more than
+
+four rods square, and would be soon exhausted. On the fifteenth of
+
+February, as near as I can remember, there was not a blade of this
+
+left, and the nuts were growing scarce; our situation, therefore, could
+
+hardly be more lamentable.[5] On the sixteenth we again went round the
+
+walls of our [[Prison|prison]], in [[Hope|hope]] of finding some avenue of escape, but to
+
+no purpose. We also descended the chasm in which we had been
+
+overwhelmed, with the faint expectation of discovering, through this
+
+channel, some opening to the main ravine. Here, too, we were
+
+disappointed, although we found and brought up with us a musket.
+
+
+
+[Footnote 5: This day was rendered remarkable by our observing in the
+
+south several huge wreaths of the grayish vapour I have before spoken
+
+of.]
+
+
+
+On the seventeenth we set out with the determination of examining more
+
+thoroughly the chasm of black granite into which we had made our way in
+
+the first search. We remembered that one of the fissures in the sides
+
+of this pit had been but partially looked into, and we were anxious to
+
+explore it, although with no expectation of discovering here any
+
+opening.
+
+
+
+We found no great difficulty in reaching the [[Bottom|bottom]] of the hollow as
+
+before, and were now sufficiently calm to survey it with some
+
+attention. It was, indeed, one of the most singular-looking places
+
+imaginable, and we could scarcely bring ourselves to believe it
+
+altogether the work of [[Nature|nature]]. The pit, from its eastern to its western
+
+extremity, was about five hundred yards in length, when all its
+
+windings were threaded; the distance from east to west in a straight
+
+line not being more (I should suppose, having no means of accurate
+
+examination) than forty or fifty yards. Upon first descending into the
+
+chasm, that is to say, for a hundred feet downward from the summit of
+
+the [[Hill|hill]], the sides of the abyss bore little resemblance to each other,
+
+and, apparently, had at no [[Time|time]] been connected, the one surface being
+
+of the soapstone and the other of marl, granulated with some metallic
+
+matter. The average breadth, or interval between the two cliffs, was
+
+probably here sixty feet, but there seemed to be no regularity of
+
+formation. Passing down, however, beyond the limit spoken of, the
+
+interval rapidly contracted, and the sides began to run parallel,
+
+although, for some distance farther, they were still dissimilar in
+
+their material and form of surface. Upon arriving within fifty feet of
+
+the [[Bottom|bottom]], a perfect regularity commenced. The sides were now entirely
+
+uniform in substance, in colour, and in lateral direction, the material
+
+being a very black and shining granite, and the distance between the
+
+two sides, at all points facing each other, exactly twenty yards. The
+
+precise formation of the chasm will be best understood by means of a
+
+delineation taken upon the spot; for I had luckily with me a pocketbook
+
+and pencil, which I preserved with great care through a long series of
+
+subsequent adventure, and to which I am indebted for memoranda of many
+
+subjects which would otherwise have been crowded from my remembrance.
+
+
+
+[Illustration: _Figure 1_.]
+
+
+
+This figure (see figure 1) gives the general outlines of the chasm,
+
+without the minor cavities in the sides, of which there were several,
+
+each cavity having a corresponding protuberance opposite. The [[Bottom|bottom]] of
+
+the gulf was covered to the depth of three or four inches with a powder
+
+almost impalpable, beneath which we found a continuation of the black
+
+granite. To the right, at the lower extremity, will be noticed the
+
+appearance of a small opening; this is the fissure alluded to above,
+
+and to examine which more minutely than before was the object of our
+
+second visit. We now pushed into it with vigour, cutting away a
+
+quantity of brambles which impeded us, and removing a vast heap of
+
+sharp flints somewhat resembling arrowheads in shape. We were
+
+encouraged to persevere, however, by perceiving some little light
+
+proceeding from the farther end. We at length squeezed our way for
+
+about thirty feet, and found that the aperture was a low and
+
+regularly-formed arch, having a [[Bottom|bottom]] of the same impalpable powder as
+
+that in the main chasm. A strong light now broke upon us, and, turning
+
+a short bend, we found ourselves in another lofty chamber, similar to
+
+the one we had left in every respect but longitudinal form. Its general
+
+figure is here given. (See figure 2.)
+
+
+
+[Illustration: _Figure 2_.]
+
+
+
+The total length of this chasm, commencing at the opening _a_ and
+
+proceeding round the curve _b_ to the extremity _d_, is five hundred
+
+and fifty yards. At _c_ we discovered a small aperture similar to the
+
+one through which we had issued from the other chasm, and this was
+
+choked up in the same manner with brambles and a quantity of the white
+
+arrowhead flints. We forced our way through it, finding it about forty
+
+feet long, and emerged into a third chasm. This, too, was precisely
+
+like the first, except in its longitudinal shape, which was thus. (See
+
+figure 3.)
+
+
+
+[Illustration: _Figure 3_.]
+
+
+
+[Illustration: _Figure 5_.]
+
+
+
+We found the entire length of the third chasm three hundred and twenty
+
+yards. At the point _a_ was an opening about six feet wide, and
+
+extending fifteen feet into the rock, where it terminated in a bed of
+
+marl, there being no other chasm beyond, as we had expected. We were
+
+about leaving this fissure, into which very little light was admitted,
+
+when Peters called my attention to a range of singular-looking
+
+indentures in the surface of the marl forming the termination of the
+
+_cul-de-sac_. With a very slight exertion of the [[Imagination|imagination]], the left,
+
+or most northerly of these indentures might have been taken for the
+
+intentional, although rude, representation of a human figure standing
+
+erect, with outstretched arm. The rest of them bore also some little
+
+resemblance to alphabetical characters, and Peters was willing, at all
+
+events, to adopt the idle opinion that they were really such. I
+
+convinced him of his error, finally, by directing his attention to the
+
+floor of the fissure, where, among the powder, we picked up, piece by
+
+piece, several large flakes of the marl, which had evidently been
+
+broken off by some convulsion from the surface where the indentures
+
+were found, and which had projecting points exactly fitting the
+
+indentures; thus proving them to have been the work of [[Nature|nature]]. Figure
+
+4. presents an accurate copy of the whole.
+
+
+
+[Illustration: _Figure 4_.]
+
+
+
+After satisfying ourselves that these singular caverns afforded us no
+
+means of escape from our [[Prison|prison]], we made our way back, dejected and
+
+dispirited, to the summit of the [[Hill|hill]]. Nothing worth mentioning
+
+occurred during the next twenty-four hours, except that, in examining
+
+the ground to the eastward of the third chasm, we found two triangular
+
+holes of great depth, and also with black granite sides. Into these
+
+holes we did not think it worth while to attempt descending, as they
+
+had the appearance of mere natural wells, without outlet. They were
+
+each about twenty yards in circumference, and their shape, as [[Well|well]] as
+
+relative position in regard to the third chasm, is shown in figure 5,
+
+preceding page.
 
 
 

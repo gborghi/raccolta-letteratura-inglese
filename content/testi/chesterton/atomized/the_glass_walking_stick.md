@@ -5472,6 +5472,662 @@ Gli altri oggetti esposti avevano, in un modo o nell'altro, questo stesso caratt
 
 
 
+<span class="atom-split" data-atom="story_02_history_in_stone--part_01" data-title="The Glass Walking Stick — History In Stone (part 1)" data-chapter="History In Stone" data-kind="excerpt"></span>
+
+
+HISTORY IN STONE
+
+THERE is a kind of war between bricks and books; I mean between the
+tradition of materials and the tradition of theories.  In so many places
+the church contradicts the parson and the castle contradicts the earl;
+the Parliament says one thing and the parliament house another.
+Anyone who has gone rambling in England must have noticed a strange
+thing often only half perceived and generally wholly unexplained.
+I mean the entire difference between English history, especially
+early English history as it is in the ordinary history books,
+and the same English history in so far as it remains in buildings,
+in local customs, or in popular associations in England.
+The old kings, bishops, and soldiers seem to be entirely different
+people when they appear in stone and when they appear in print.
+I do not mean that the school histories are untrue; I do not even
+mean that they contradict the other impressions or are inconsistent
+with them in any particular.  But the two are two different worlds;
+in the second is revealed a whole universe of interests and activities,
+about which the first was literally deaf and dumb.  It is as if we
+had heard of Tennyson's peerage but never of his poetry; or as if we
+had heard of Wellington's premiership but never of his generalship;
+or as if a biographer of Columbus had been explanatory about the egg
+but silent about the American Continent.
+
+Let me take a typical example.  The story of the dynastic violence
+of fifteenth-century England is, in the school really picturesque.
+We see the Lion of Agincourt dying with a doom upon his usurping house,
+leaving all that it had gained in England to the intrigue and audacity
+of Gloucester, all that it had gained in France to the exterminating
+nationalism of Joan of Arc.  The only staff on which Lancaster can lean
+is King Harry's daughter-in-law, Margaret of Anjou, a woman almost as
+militant as Joan of Arc herself:  Among these strong and sinister figures,
+somewhat diseased but intensely dramatic, one scarcely looks at the poor
+pale-faced lad, said not to be quite right in his head, who actually
+inherits the crowns of England and France.  Battles are fought round him,
+as round the wooden pole of a flagstaff; councils are held round him,
+as round the dead mace on the table of Parliament.  He always seems
+to be locked up somewhere and forgotten; and we do not even remember
+his foolish face as we watch Margaret defying the outlaws in the forest,
+or Richard Crookback red with the rout of Tewkesbury.  We scarcely know
+when he dies.  His murder is quieter than most men's natural deaths.
+That is how King Henry VI appears in the written English histories--
+or rather how he does not appear.  It bears no resemblance, it contains no
+hint of how he still appears, not in English histories, but in England.
+I do not mean that his character appears particularly different;
+I mean that one discovers a new field of activity for such a character.
+It is not that the face or figure of the feeble youth is contradicted--
+it is as if we walked into fairyland, where such a youth may gain all
+the omnipotence of the fairies.  It is like finding that a housemaid
+is a medium or the village idiot a magician.
+
+Walk westward out of London along the Valley of the Thames
+and you will find a huge educational foundation which has passed
+almost into a synonym for the British Empire and the aristocracy
+that administers that Empire.  It is enormously wealthy;
+it is enormously powerful; it is known all over the world as much,
+or more, than Oxford or Cambridge; and every boy or man who has
+anything to do with it is reminded morning and evening in all
+the prayers and ceremonies of the place that the wealth and power
+by which he lives is the wealth and power of King Henry VI.
+The most successful of soldiers declares that he won Waterloo
+by the influence that lost Tewkesbury.  The timid and impotent
+boy is still (even after a profound change of religion)
+the patron saint and benefactor of hundreds of the athletic
+or ambitious boys that make up the great legend of Eton and
+the English public-schools. Walk eastward out of London into
+the flat counties till you come to one of the two Universities
+that are the two fountains of the national life and letters.
+You will find one College of which the chapel towers in
+beauty and tradition above all the roofs of that beautiful
+and traditional town; the whole world of culture has come
+to it for its architecture or its music or its stained glass.
+It is one of the wonders of the English world.  And there
+is not a porter so ignorant nor an undergraduate so frivolous,
+that he has not been told twenty times and repeated twenty times
+that it is the half-witted Henry who through five centuries
+sustains this palace of God.  This weakest of Kings is the King
+par excellence, for the place is called ‘[[King]]'s College',
+not [[King]] Henry's. The difference of impression is very strange;
+it is a difference, it is not a contradiction.  Little of what the
+[[history]]-book says is untrue; but the [[history]]-book says so little.
+[[Henry VI]] was not an effective fighter or a sagacious statesman;
+and if we see the Middle Ages as a gory tangle like Tewkesbury,
+we shall see him as very small.  But if we take a turn or two
+down an English lane and see the Middle Ages as an ancient
+and rich civilization, creative and systematic, with fruitful
+sciences and masterful arts--then we shall see him as gigantic.
+
+Numerous other instances, of course, could be given.
+An intelligent boy reading at school of the quarrel between
+St [[Thomas Becket]] and Henry II naturally sympathizes, on the whole,
+with the latter:  the [[King]] seems at worst an impatient man
+of action; the saint seems at best an aggravating sacerdotalist.
+Let the boy shut the [[history|History]] of England and open (let us say)
+the [[Poems|poems]] of Chaucer, written by an ordinary Englishman for Kings and
+Queens not so very long after the [[King]] was scourged in the [[Cathedral|cathedral]].
+He will have great difficulty in making head or tail of the world
+in which he finds himself.  He will find himself in medieval
+England in which every man, woman, and [[Child|child]] utterly and entirely
+takes it for granted that St Thomas justly opposed the [[King]],
+as utterly and entirely as that St George justly opposed the Dragon.
+The same bewildering impression which the boy would find in Chaucer
+he would also find in Canterbury.  These atmospheres never depend
+upon any detail and are always impossible to describe; but he will
+feel the whole [[Cathedral|cathedral]] rising like one roar of unanimous assent,
+the very stones crying out that the [[Blood|blood]] of a just man was shed.
+These are things that modern books of [[history]] do not explain.
+You must steep yourself in the atmosphere of many old towns and old
+books before you begin to under stand them.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+STORIA NELLA PIETRA
+
+C'È una specie di guerra tra i mattoni e i libri; intendo tra la
+tradizione dei materiali e la tradizione delle teorie.  In tanti luoghi
+la chiesa contraddice il parroco e il castello contraddice il conte;
+il Parlamento dice una cosa e il palazzo del parlamento un'altra.
+Chiunque sia andato a zonzo per l'Inghilterra deve aver notato una strana
+cosa, spesso solo intravista e in genere del tutto inspiegata.
+Intendo l'intera differenza tra la storia inglese, specialmente
+la prima storia inglese così com'è negli ordinari libri di storia,
+e la stessa storia inglese in quanto perdura negli edifici,
+nelle usanze locali, o nelle associazioni popolari d'Inghilterra.
+I vecchi re, vescovi e soldati sembrano persone del tutto diverse
+quando appaiono nella pietra e quando appaiono nella stampa.
+Non intendo che le storie scolastiche siano false; non intendo nemmeno
+che contraddicano le altre impressioni o siano incoerenti
+con esse in alcun particolare.  Ma le due sono due mondi diversi;
+nel secondo si rivela tutto un universo di interessi e attività,
+di cui il primo era letteralmente sordo e muto.  È come se
+avessimo sentito del titolo nobiliare di Tennyson ma mai della sua poesia; o come se
+avessimo sentito del premierato di Wellington ma mai della sua arte del comando;
+o come se un biografo di Colombo si fosse dilungato sull'uovo
+ma avesse taciuto sul Continente Americano.
+
+Prendo un esempio tipico.  La vicenda della violenza dinastica
+dell'Inghilterra del Quattrocento è, a scuola, davvero pittoresca.
+Vediamo il Leone di Agincourt morire con una condanna sospesa sulla sua casa usurpatrice,
+lasciando tutto ciò che aveva conquistato in Inghilterra all'intrigo e all'audacia
+di Gloucester, tutto ciò che aveva conquistato in Francia allo sterminatore
+nazionalismo di Giovanna d'Arco.  L'unico bastone su cui il Lancaster possa appoggiarsi
+è la nuora di Re Harry, Margherita d'Angiò, una donna quasi altrettanto
+combattiva della stessa Giovanna d'Arco:  Tra queste figure forti e sinistre,
+alquanto malate ma intensamente drammatiche, a stento si guarda il povero
+giovane dal volto pallido, che si dice non del tutto sano di mente, il quale in realtà
+eredita le corone d'Inghilterra e di Francia.  Si combattono battaglie intorno a lui,
+come intorno all'asta di legno d'un pennone; si tengono consigli intorno a lui,
+come intorno alla mazza inerte sul tavolo del Parlamento.  Sembra sempre
+rinchiuso da qualche parte e dimenticato; e non ricordiamo nemmeno
+il suo volto sciocco mentre osserviamo Margherita sfidare i fuorilegge nella foresta,
+o Riccardo il Gobbo rosso della disfatta di Tewkesbury.  A stento sappiamo
+quando muore.  Il suo assassinio è più silenzioso della morte naturale della maggior parte degli uomini.
+Ecco come Re Enrico VI appare nelle storie inglesi scritte--
+o piuttosto come non appare.  Non ha alcuna somiglianza, non contiene alcun
+accenno di come egli appaia ancora, non nelle storie inglesi, ma in Inghilterra.
+Non intendo che il suo carattere appaia particolarmente diverso;
+intendo che si scopre un nuovo campo d'attività per un tale carattere.
+Non è che il volto o la figura del debole giovane sia contraddetta--
+è come se entrassimo nel paese delle fate, dove un tale giovane può ottenere tutta
+l'onnipotenza delle fate.  È come scoprire che una cameriera
+è un medium o l'idiota del villaggio un mago.
+
+Camminate verso ovest fuori da Londra lungo la Valle del Tamigi
+e troverete un'enorme fondazione educativa che è passata
+quasi a sinonimo dell'Impero Britannico e dell'aristocrazia
+che amministra quell'Impero.  È immensamente ricca;
+è immensamente potente; è nota in tutto il mondo tanto,
+o più, di Oxford o Cambridge; e ogni ragazzo o uomo che abbia
+qualcosa a che farvi si sente ricordare mattina e sera in tutte
+le preghiere e le cerimonie del luogo che la ricchezza e il potere
+di cui vive sono la ricchezza e il potere di Re Enrico VI.
+Il più vittorioso dei soldati dichiara di aver vinto Waterloo
+grazie all'influsso che perse Tewkesbury.  Il timido e impotente
+ragazzo è ancora (persino dopo un profondo mutamento di religione)
+il santo patrono e benefattore di centinaia di quei ragazzi atletici
+o ambiziosi che compongono la grande leggenda di Eton e
+delle public school inglesi. Camminate verso est fuori da Londra dentro
+le contee pianeggianti finché non giungete a una delle due Università
+che sono le due fonti della vita e delle lettere nazionali.
+Troverete un College la cui cappella si erge in
+bellezza e tradizione sopra tutti i tetti di quella bella
+e tradizionale città; l'intero mondo della cultura è accorso
+a essa per la sua architettura o la sua musica o le sue vetrate.
+È una delle meraviglie del mondo inglese.  E non
+c'è portinaio così ignorante né studente così frivolo,
+a cui non sia stato detto venti volte e ripetuto venti volte
+che è l'idiota Enrico che attraverso cinque secoli
+sostiene questo palazzo di Dio.  Questo più debole dei Re è il Re
+per eccellenza, poiché il luogo è chiamato ‘[[King|King]]'s College',
+non di [[King|Re]] Enrico. La differenza d'impressione è molto strana;
+è una differenza, non è una contraddizione.  Poco di ciò che il
+[[history|libro di storia]] dice è falso; ma il [[history|libro di storia]] dice così poco.
+[[Henry VI|Enrico VI]] non fu un combattente efficace né uno statista sagace;
+e se vediamo il Medioevo come un groviglio cruento come Tewkesbury,
+lo vedremo molto piccolo.  Ma se facciamo un giro o due
+per una viuzza inglese e vediamo il Medioevo come un'antica
+e ricca civiltà, creativa e sistematica, con feconde
+scienze e magistrali arti--allora lo vedremo gigantesco.
+
+Si potrebbero addurre, naturalmente, numerosi altri casi.
+Un ragazzo intelligente che legga a scuola della contesa tra
+San [[Thomas Becket|Thomas Becket]] ed Enrico II simpatizza naturalmente, nel complesso,
+per quest'ultimo:  il [[King|Re]] appare al peggio un impaziente uomo
+d'azione; il santo appare al meglio un irritante sacerdotalista.
+Che il ragazzo chiuda la [[history|Storia]] d'Inghilterra e apra (diciamo)
+le [[Poems|poesie]] di Chaucer, scritte da un comune Inglese per Re e
+Regine non molto tempo dopo che il [[King|Re]] fu flagellato nella [[Cathedral|cattedrale]].
+Avrà grande difficoltà a raccapezzarsi nel mondo
+in cui si ritrova.  Si ritroverà nell'Inghilterra
+medievale in cui ogni uomo, donna e [[Child|bambino]] dà per scontato, del tutto e interamente,
+che San Thomas si oppose giustamente al [[King|Re]],
+tanto del tutto e interamente quanto San Giorgio si oppose giustamente al Drago.
+La stessa sconcertante impressione che il ragazzo troverebbe in Chaucer
+la troverebbe anche a Canterbury.  Queste atmosfere non dipendono mai
+da alcun dettaglio e sono sempre impossibili da descrivere; ma egli
+sentirà l'intera [[Cathedral|cattedrale]] levarsi come un solo rombo di unanime assenso,
+le pietre stesse gridare che il [[Blood|sangue]] d'un uomo giusto fu versato.
+Queste sono cose che i moderni libri di [[history|storia]] non spiegano.
+Bisogna immergersi nell'atmosfera di molte vecchie città e vecchi
+libri prima di cominciare a comprenderle.
+
+
+
+<span class="atom-split" data-atom="story_02_history_in_stone--part_02" data-title="The Glass Walking Stick — History In Stone (part 2)" data-chapter="History In Stone" data-kind="excerpt"></span>
+
+
+So there hangs over all England this singular [[Double|double]]
+impression of political [[history]] and of popular institution.
+Men who are remembered only for their cruelties in Hume or Hallam,
+are remembered only for their charities in Somerset or Sussex.
+From the marches of Scotland to the old kingdom of Cornwall,
+the English soil is loaded with the pieties of blasphemers,
+with the almsgiving of oppressors, with the ascetical
+enthusiasms of gluttons and drunkards, with the high artistic
+culture of barbarians.  William Rufus perished in Hampshire
+by his hunting, but he remains in Westminster by his building.
+Henry VII hammered together a huge [[Machine|machine]] of practical despotism;
+nothing remains of him but a chapel.  It looks as if there
+were a whole aspect of the lives of these people that is
+perpetually overlooked in dealing with them; and, indeed, such an
+oversight is common enough in the criticism of human life.
+I fancy that we must begin to fill in these void places
+in [[history]] with the vivid, though visible, thoughts of the men
+that worked there; otherwise it will be like watching men
+dancing and not hearing the tune.
+
+THE OLD [[Nurse|NURSE]]
+
+I WAS recently reading a very interesting study which set my
+thoughts rambling on many themes; and not least on the theme
+of old nurses.  For many other reasons it should be of interest
+to English people; especially those of them who have had
+the rudimentary intelligence to be interested in Irish people.
+For it is clear that the memories with which the mind of this
+old [[Nurse|nurse]] were filled, and almost choked, were the memories
+of the great Irish Famine, which she had known in her [[Childhood|childhood]]
+and which she communicated so vividly to an American [[Child|child]].
+The Irish Famine was more than an earthquake; it was an explosion.
+As an explosion scatters the arms and legs of a single man,
+so this catastrophe scattered the separated parts of a single people;
+and that most tragically, before our own people had attempted any
+real justice to that people.  For that reason, the ruin of Ireland
+simply strewed the whole earth with the enemies of England.
+What region in the world, cried the Trojan after the Fall
+of Troy, is not full of our ruin?  What region in the world
+is not now full of that wrong which we remedied so late?
+The testimony of the old [[Nurse|nurse]] in [[america|America]] is all the more forcible,
+because of the patient simplicity with which she narrated
+such wrongs.  Nobody is blamed for an earth quake; and nobody
+is of necessity blamed for an explosion; but people are blamed
+for their conduct during an earthquake or after an explosion.
+And it is the ugly [[Truth|truth]] that the blight of the Famine was
+not merely a blight upon a particular order of vegetables;
+among the blighted, not to say the blighters, were to be found
+a higher order of [[Animals|animals]]; even including politicians.
+The old Irish [[Nurse|nurse]] meekly witnessed to the wickedness of a
+neighbouring landlord who would not give food to starving men
+unless they were of his own faction.  And everyone knows that
+a hundred juries handed down Lord John Russell as a murderer.
+For that part of the record [[Alone|alone]] it would have been [[Well|well]]
+worth recording.  But I confess that I was very much interested
+in this Irish-American [[Nurse|nurse]] merely considered as a [[Nurse|nurse]].
+She was a pattern of that [[Paradox|paradox]] of submission and supremacy
+which belonged to that sort of old-fashioned servant.
+And it set me thinking about some thing that was lost,
+when the [[Nurse|nurse]] gave place to the governess and the governess
+gave place to the school mistress.  Bad and good abound in both;
+but something organic gave place to something official.
+
+What is the matter with English [[Education]] is that it is
+discussed in Educational English.  Even criticisms of [[Education]],
+even complaints of [[Education]], even confessions by educationists of
+the inadequacy of [[Education|education]], are all uttered in educational English.
+Educational English is not at all the same as educated English.
+It is a curious sort of technical jargon, possibly necessary
+and suitable to a science or a trade, but casting, as do all
+such terminologies, a curious air of coldness and unreality upon
+all that is discussed.  It is not the style in which anybody talks;
+even when it is the style in which somebody unfortunately speaks.
+It is not the style in which the educationists themselves talk,
+when they are talking as educated people and not as educationists.
+This can be felt in the way in which the very words used tend to
+contradict their own meaning; as in the word, ‘individual', in some
+sweeping generalization about ‘giving individual attention'.
+
+It never occurred to the Victorian [[Child|child]], when his [[Nurse|nurse]] was talking
+to him in his infancy, that she was giving him ‘individual attention'.
+It might have been quite a large family; but in that sense there
+were no relations except individual relations.  Nor need a nurse
+of the old sort always consciously individualize; she was quite
+capable of packing all the children off to bed on the probably
+sound generalization that the children, as children, were becoming
+a nuisance.  But the point is that the philosophy of the nurse
+began with one baby and went on to other babies as they arrived.
+The philosophy of the teacher begins with one class, or one school,
+and then goes on to decide, with a sigh, that it must give a little
+more individual attention.  The individual is discovered in the mass,
+as the atom was discovered in the familiar mass that we call matter.
+But the nurse was nearer to the father and mother, in the fact
+that the relation was organic and not official.  The nurse may
+have been a mere shadow of the mother; but that sort of shadow is
+of the same shape.  Nay, that sort of shadow is of some substance.
+Because it is very close to the creative realities of birth and babyhood,
+it has a quality that can never be described in Educational English.
+It will never be named at any educational congress.  It is
+difficult enough to name it anywhere; and in most cases it remains
+nameless because it is natural.  And men, especially modern men,
+are even more afraid of the natural than of the supernatural.
+But anyhow, if ever we did want to name it, we should never
+find even a word for it in all those wordy generalizations.
+It belongs to quite a different sort of English from any
+Educational English; to that world of words in which men wrote,
+‘Hast thou not a blessing for me, O my father?' or, ‘The smell
+of my son is as the smell of a field that the Lord has blessed.'
+Or in which men said, ‘Unto us a [[Child]] is born.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Aleggia dunque su tutta l'Inghilterra questa singolare [[Double|duplice]] impressione, di [[history|storia]] politica e di istituzione popolare. Uomini che sono ricordati solo per le loro crudeltà in Hume o in Hallam sono ricordati solo per le loro opere di carità nel Somerset o nel Sussex. Dalle marche di Scozia all'antico regno di Cornovaglia, il suolo inglese è carico delle pietà dei bestemmiatori, delle elemosine degli oppressori, degli entusiasmi ascetici dei ghiottoni e degli ubriaconi, dell'alta cultura artistica dei barbari. Guglielmo il Rosso perì nell'Hampshire per la sua caccia, ma sopravvive a Westminster per la sua opera edilizia. Enrico VII mise insieme a martellate un'enorme [[Machine|macchina]] di dispotismo pratico; di lui non rimane nulla se non una cappella. Sembra che vi sia tutto un aspetto della vita di questa gente che viene perpetuamente trascurato quando la si giudica; e, in verità, una simile svista è abbastanza comune nella critica della vita umana. Immagino che dobbiamo cominciare a colmare questi spazi vuoti nella [[history|storia]] con i pensieri vividi, benché visibili, degli uomini che vi operarono; altrimenti sarà come guardare degli uomini danzare senza udire la musica.
+
+LA VECCHIA [[Nurse|BALIA]]
+
+Stavo leggendo di recente uno studio molto interessante che mise i miei pensieri a vagabondare su molti temi; e non ultimo su quello delle vecchie balie. Per molte altre ragioni dovrebbe interessare gli Inglesi; specialmente quelli tra loro che hanno avuto l'elementare intelligenza di interessarsi agli Irlandesi. Poiché è chiaro che i ricordi di cui era colma, e quasi soffocata, la mente di questa vecchia [[Nurse|balia]], erano i ricordi della grande Carestia irlandese, che ella aveva conosciuto nella sua [[Childhood|infanzia]] e che comunicò così vividamente a un [[Child|bambino]] americano. La Carestia irlandese fu più di un terremoto; fu un'esplosione. Come un'esplosione disperde le braccia e le gambe di un solo uomo, così questa catastrofe disperse le parti separate di un solo popolo; e ciò nel modo più tragico, prima che il nostro stesso popolo avesse tentato una qualche vera giustizia verso quel popolo. Per questa ragione, la rovina dell'Irlanda cosparse semplicemente tutta la terra di nemici dell'Inghilterra. Quale regione al mondo, gridò il Troiano dopo la Caduta di Troia, non è piena della nostra rovina? Quale regione al mondo non è ora piena di quel torto a cui rimediammo così tardi? La testimonianza della vecchia [[Nurse|balia]] in [[america|America]] è tanto più incisiva, per la paziente semplicità con cui narrava tali torti. Nessuno viene incolpato per un terremoto; e nessuno viene necessariamente incolpato per un'esplosione; ma la gente viene incolpata per la propria condotta durante un terremoto o dopo un'esplosione. Ed è la brutta [[Truth|verità]] che il flagello della Carestia non fu soltanto un flagello su un particolare ordine di vegetali; tra i flagellati, per non dire i flagellatori, si trovava un ordine superiore di [[Animals|animali]]; compresi persino i politici. La vecchia [[Nurse|balia]] irlandese testimoniò mitemente la malvagità di un latifondista vicino che non voleva dar cibo a uomini affamati a meno che non fossero della sua stessa fazione. E tutti sanno che un centinaio di giurie condannò Lord John Russell come assassino. Anche solo per quella parte del racconto [[Alone|da sola]] sarebbe [[Well|ben]] valsa la pena di registrarla. Ma confesso che ero molto interessato a questa [[Nurse|balia]] irlando-americana considerata semplicemente come [[Nurse|balia]]. Era un modello di quel [[Paradox|paradosso]] di sottomissione e supremazia che apparteneva a quel tipo di servitore all'antica. E ciò mi fece riflettere su qualcosa che è andato perduto, quando la [[Nurse|balia]] cedette il posto alla governante e la governante cedette il posto alla maestra di scuola. Il male e il bene abbondano in entrambe; ma qualcosa di organico cedette il posto a qualcosa di ufficiale.
+
+Il guaio dell'[[Education|istruzione]] inglese è che la si discute in Inglese Educativo. Perfino le critiche all'[[Education|istruzione]], perfino le lamentele sull'[[Education|istruzione]], perfino le confessioni degli educatori circa l'inadeguatezza dell'[[Education|istruzione]], sono tutte espresse in Inglese Educativo. L'Inglese Educativo non è affatto lo stesso dell'Inglese istruito. È una curiosa sorta di gergo tecnico, forse necessario e adatto a una scienza o a un mestiere, ma che getta, come fanno tutte le terminologie di quel genere, una curiosa aria di freddezza e irrealtà su tutto ciò che viene discusso. Non è lo stile in cui chiunque parla; anche quando è lo stile in cui qualcuno purtroppo si esprime. Non è lo stile in cui gli educatori stessi parlano, quando parlano come persone istruite e non come educatori. Lo si può percepire nel modo in cui le stesse parole usate tendono a contraddire il proprio significato; come nella parola «individuale», in qualche generalizzazione radicale sul «prestare attenzione individuale».
+
+Non venne mai in mente al [[Child|bambino]] vittoriano, mentre la sua [[Nurse|balia]] gli parlava nella prima infanzia, che ella gli stesse prestando «attenzione individuale». Poteva trattarsi di una famiglia assai numerosa; ma in quel senso non esistevano relazioni se non relazioni individuali. Né una balia della vecchia scuola aveva sempre bisogno di individualizzare consapevolmente; era del tutto capace di spedire a letto tutti i bambini sulla generalizzazione probabilmente fondata che i bambini, in quanto bambini, stavano diventando una seccatura. Ma il punto è che la filosofia della balia cominciava con un solo neonato e proseguiva con gli altri neonati man mano che arrivavano. La filosofia dell'insegnante comincia con una classe, o una scuola, e poi decide, con un sospiro, che deve prestare un po' più di attenzione individuale. L'individuo viene scoperto nella massa, così come l'atomo fu scoperto in quella massa familiare che chiamiamo materia. Ma la balia era più vicina al padre e alla madre, nel fatto che la relazione era organica e non ufficiale. La balia poteva essere una mera ombra della madre; ma quella sorta di ombra ha la stessa forma. Anzi, quella sorta di ombra ha una certa sostanza. Poiché è assai vicina alle realtà creatrici della nascita e della prima infanzia, essa possiede una qualità che non potrà mai essere descritta in Inglese Educativo. Non verrà mai nominata in alcun congresso pedagogico. È già abbastanza difficile nominarla in qualsiasi luogo; e nella maggior parte dei casi resta senza nome perché è naturale. E gli uomini, specialmente gli uomini moderni, hanno ancor più paura del naturale che del soprannaturale. Ma comunque sia, se mai volessimo darle un nome, non troveremmo mai nemmeno una parola per essa in tutte quelle prolisse generalizzazioni. Essa appartiene a un genere di inglese del tutto diverso da qualsiasi Inglese Educativo; a quel mondo di parole in cui gli uomini scrivevano: «Non hai una benedizione per me, o padre mio?» oppure: «L'odore di mio figlio è come l'odore di un campo che il Signore ha benedetto.» O in cui gli uomini dissero: «A noi è nato un [[Child|Bambino]].»
+
+
+
+<span class="atom-split" data-atom="story_03_playing_with_an_idea--part_01" data-title="The Glass Walking Stick — Playing With An Idea (part 1)" data-chapter="Playing With An Idea" data-kind="excerpt"></span>
+
+
+PLAYING WITH AN IDEA
+
+THE serious magazines, without having any convictions to speak of, are
+just sufficiently stern or bigoted to forbid irreverence.  The frivolous
+magazines are even more stern and bigoted; for they forbid reverence.
+They actually veto the instinctive mention of mighty and holy things.
+Thus the sincere journalist is kept constantly in a state of
+roaring inaction; having been forced to make his theology dry he plunges
+with a far more boyish ardour into the pleasures of pure folly.
+But the swing of the pendulum is some times rather wild and dizzy.
+My meaning is this:  that a good man ought to [[Love|love]] nonsense;
+but he ought also to see nonsense--that is, to see that it is not sense.
+Our very pleasure in pure fancies should consist partly in the certainty
+that they are not facts.  Nothing is more perilous and unmanly
+in modern thought than the way in which people will be led a [[Dance|dance]]
+by some dexterous and quite irresponsible suggestion, some theory
+in which even the theorist does not believe, some intellectual
+levity which is not honest enough even to be called a lunacy.
+They hear some flying notion--as that Cromwell wrote [[Milton]],
+or that [[Christianity]] was stolen from the Aztecs; they receive it
+first laughingly, then fancifully, then speculatively, then seriously,
+then idolatrously, even to slaying; and yet all the [[Time|time]] with nothing
+to go on but the fourth-hand version of a few entertaining coincidences.
+Exactly that sort of neat and fantastic solution which would make
+a glorious [[Detective|detective]] story is employed to make an utterly preposterous
+book of [[history]] or criticism.
+
+No, I do not think it is wrong to play with these nonsensical hypotheses;
+I have had great fun out of fitting them together.  One of my
+friends maintains that Tacitus never lived and that his works
+are a forgery of the sixteenth century; another explains the whole
+life of St Paul in terms of an unabated hatred for [[Christianity]].
+I am not against playing the [[Fool|fool]] with these fancies, but I am
+against letting them play the [[Fool|fool]] with me.  To take one case
+at random, one could certainly make a huge theory, upheld by
+many coincidences, that men's surnames have constantly suited them.
+It really is a remarkable thing to reflect how many frightfully fine
+men have had frightfully fine names.  How could we have rounded
+off our sentences without such names as ‘Hannibal' and ‘Napoleon',
+or ‘Attila' and ‘Charlemagne'?  But there are more startling cases.
+There is one great [[artist]] whose art was ultimately sacred and seraphic,
+yet in its labour and technique peculiarly strenuous and military;
+if one looked at his work only one would think of a harsh angel,
+an angel in armour.  How comes it that this man actually bore
+the name of the Archangel [[Michael]]--Michelangelo?  How comes it that
+a contemporary and more gracious [[artist]] happened to be christened
+after a more gracious archangel--Raphael?
+
+Or take another case.  If you or I had to invent out of our own
+heads a really shattering and shining name, a name fit for some
+flaming [[Hero|hero]] defying the [[Stars|stars]], a name on horseback and high in
+the saddle--could we think of any so chivalrous or so challenging
+as Shakespeare?  The very word is like Lancelot at his last
+tournament with a touch of the divine impotence of [[Don Quixote]].
+In fact, I know only one surname that is really finer
+than Shakespeare, and that is Brakespear, the only English Pope.
+A pleasing [[Lyric|lyric]] in prose might be built up about the two of them;
+the one Englishman who [[Rose|rose]] to the highest of all official places,
+and the other who [[Rose|rose]] to the highest of all unofficial.
+Much eloquence and irony (if I had [[Time|time]] to write them)
+might be uttered about the contrast between the English Pope,
+so humble and silent in his splendid publicity, and the English poet,
+so hearty and swaggering in his obscurity and neglect.
+It is at least certain that there was only one Englishman on
+the highest platform of priests, and only one on the highest
+platform of poets; and it is certain that each of their names
+is the only exact rhyme to the other one.
+
+That is what you might call a coincidence; but the coincidence
+goes further.  The actual meaning of the two names is appropriate
+to the two men in their two positions.  If there was one thing
+more than another that the [[Renaissance]] did it was to shake
+the spear, to brandish the lance even more than to use it,
+to value the lance more for its flapping pennon than its point.
+If there was one thing, on the other hand, that a Pope
+in the twelfth century had to do, it was to break the spear--
+to bend the thick necks of the throned fighters who could
+not otherwise have conceived anything so fine as fighting.
+William Shakespeare is really very like the exultant [[Monster|monster]]
+in the Old Testament, who laughs at the shaking of the spear.
+But Nicholas Brakespear stood in the Dark Ages for a simpler
+and more searching reminder, of Him who snappeth the spear
+in twain and takes off the [[Wheel|wheel]] of the chariot.
+
+The above is an impromptu instance of what I call playing with
+an idea; but the question is, what does one think of the idea?
+I will tell you what I think of it; I think it is complete bosh.
+I am almost certain that Raphael and Michelangelo are a coincidence.
+I am almost certain that Shakespeare and Brakespear are an
+accidental rhyme.  I will carry the fancy as far as I choose;
+but if it tries to carry me as far as it chooses, I will remind
+it of several things.  I will point out to it that in plain fact
+the names of literary men are often quite arrestingly unsuitable.
+Newman was by no means a worshipper of novelty; and one of the most
+energetic and intelligent atheists of my acquaintance is saddled
+with the surname of Priest.
+
+Or take a classic example.  Can anyone read the cold and cutting
+work of Swift without feeling that his surname should have
+been Steele?  Can anyone read the impetuous work of Steele without
+feeling that his surname should have been Swift?  We should really
+feel much happier if we could talk of the brilliant blunders
+of Dick Swift and the cool, saturnine strength of Jonathan Steele.
+In other words, my speculation about surnames is just large
+enough to fill a magazine article, but is not large enough
+to fill even a moderate-sized brain.  It is this power
+of recovery after extravagance that I urgently recommend.
+Indulge in all the most decadent or futile fantasies,
+as long as you can curb the indulgence, like that of alcohol.
+Ride on the [[nightmare]], if you prefer such [[Horse|horse]] flesh; only do not
+let the [[nightmare]] ride on you.  Find the mare's nest which rocks
+on the tallest and darkest trees, and steal the addled eggs;
+but do not make your breakfast off them every morning for ever.
+Learn to be nonsensical and then to be sensible again;
+to create strange things and still to be independent of them.
+Learn to suggest a thing, to urge it, to prove it, and still
+to disbelieve it.  For the very few things that are really
+worth believing are not worth proving.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+GIOCARE CON UN'IDEA
+
+Le riviste serie, pur non avendo convinzioni degne di nota, sono appena abbastanza severe o bigotte da vietare l'irriverenza. Le riviste frivole sono ancora più severe e bigotte; poiché vietano la riverenza. Pongono addirittura il veto sulla menzione istintiva di cose possenti e sacre. Così il giornalista sincero è tenuto costantemente in uno stato di rombante inazione; costretto a rendere arida la sua teologia, si tuffa con ardore assai più fanciullesco nei piaceri della pura follia. Ma l'oscillazione del pendolo è talvolta piuttosto selvaggia e vertiginosa. Il mio significato è questo: che un uomo buono dovrebbe [[Love|amare]] il nonsenso; ma dovrebbe anche vedere il nonsenso — ossia vedere che non è senso. Il nostro stesso piacere nelle pure fantasie dovrebbe consistere in parte nella certezza che esse non sono fatti. Nulla è più pericoloso e indegno di un uomo, nel pensiero moderno, del modo in cui la gente si lascia menare per la [[Dance|danza]] da qualche suggestione destra e del tutto irresponsabile, qualche teoria in cui nemmeno il teorico crede, qualche leggerezza intellettuale che non è abbastanza onesta nemmeno per essere chiamata follia. Odono qualche nozione volante — come che Cromwell abbia scritto [[Milton]], o che il [[Christianity|Cristianesimo]] sia stato rubato agli Aztechi; la ricevono dapprima ridendo, poi con fantasia, poi con speculazione, poi con serietà, poi idolatricamente, fino a uccidere; eppure per tutto il [[Time|tempo]] senza nulla su cui basarsi se non la versione di quarta mano di qualche divertente coincidenza. Esattamente quel genere di soluzione ordinata e fantastica che farebbe una gloriosa storia [[Detective|poliziesca]] viene impiegato per fare un libro di [[history|storia]] o di critica del tutto assurdo.
+
+No, non penso che sia sbagliato giocare con queste ipotesi assurde; mi sono molto divertito a incastrarle insieme. Uno dei miei amici sostiene che Tacito non sia mai esistito e che le sue opere siano una falsificazione del Cinquecento; un altro spiega l'intera vita di San Paolo nei termini di un odio inesausto per il [[Christianity|Cristianesimo]]. Non sono contrario a fare il [[Fool|folle]] con queste fantasie, ma sono contrario a lasciare che esse facciano il [[Fool|folle]] con me. Per prendere un caso a caso, si potrebbe di certo costruire un'enorme teoria, sostenuta da molte coincidenze, secondo cui i cognomi degli uomini si sono costantemente addetti a loro. È davvero una cosa notevole riflettere su quanti uomini terribilmente eccellenti abbiano avuto nomi terribilmente eccellenti. Come avremmo potuto arrotondare le nostre frasi senza nomi come «Annibale» e «Napoleone», o «Attila» e «Carlomagno»? Ma ci sono casi ancora più sorprendenti. C'è un grande [[artist|artista]] la cui arte fu in fin dei conti sacra e serafica, eppure nel suo lavoro e nella sua tecnica peculiarmente strenua e militare; se si guardasse soltanto la sua opera si penserebbe a un angelo aspro, un angelo in armatura. Come mai quest'uomo portò per l'appunto il nome dell'Arcangelo [[Michael|Michele]] — Michelangelo? Come mai un [[artist|artista]] contemporaneo e più grazioso fu battezzato con il nome di un arcangelo più grazioso — Raffaello?
+
+Oppure prendiamo un altro caso. Se io o voi dovessimo inventare di nostra testa un nome davvero fragoroso e splendente, un nome degno di qualche fiammeggiante [[Hero|eroe]] che sfida le [[Stars|stelle]], un nome a cavallo e alto in sella — potremmo pensarne uno tanto cavalleresco o tanto provocatorio quanto Shakespeare? La parola stessa è come Lancillotto al suo ultimo torneo, con un tocco della divina impotenza di [[Don Quixote|Don Chisciotte]]. In effetti, conosco un solo cognome che sia davvero più bello di Shakespeare, ed è Brakespear, l'unico Papa inglese. Un piacevole [[Lyric|componimento lirico]] in prosa potrebbe essere costruito attorno ai due; l'unico Inglese che [[Rose|salì]] al più alto di tutti i posti ufficiali, e l'altro che [[Rose|salì]] al più alto di tutti quelli non ufficiali. Molta eloquenza e ironia (se avessi [[Time|tempo]] di scriverle) potrebbero essere spese sul contrasto tra il Papa inglese, così umile e silenzioso nella sua splendida notorietà, e il poeta inglese, così gioviale e spavaldo nella sua oscurità e trascuratezza. È perlomeno certo che ci fu un solo Inglese sulla più alta piattaforma dei sacerdoti, e uno solo sulla più alta piattaforma dei poeti; ed è certo che ciascuno dei loro nomi è l'unica rima esatta dell'altro.
+
+Questo è ciò che potreste chiamare una coincidenza; ma la coincidenza va oltre. Il significato reale dei due nomi è appropriato ai due uomini nelle loro due posizioni. Se ci fu una cosa più di ogni altra che il [[Renaissance|Rinascimento]] fece, fu di scuotere la lancia, di brandire l'asta ancor più che di usarla, di apprezzare la lancia più per il suo pennone svolazzante che per la sua punta. Se invece ci fu una cosa che un Papa nel dodicesimo secolo dovette fare, fu di spezzare la lancia — di piegare i grossi colli dei guerrieri assisi sul trono, che altrimenti non avrebbero potuto concepire nulla di così bello quanto il combattere. William Shakespeare somiglia davvero molto all'esultante [[Monster|Mostro]] dell'Antico Testamento, che ride allo scuotersi della lancia. Ma Nicholas Brakespear si ergeva, nei Secoli Bui, a più semplice e penetrante richiamo di Colui che spezza in due la lancia e toglie la [[Wheel|ruota]] al carro.
+
+Quanto precede è un esempio estemporaneo di ciò che chiamo giocare con un'idea; ma la questione è: cosa si pensa dell'idea? Vi dirò cosa ne penso io; penso che sia una completa sciocchezza. Sono quasi certo che Raffaello e Michelangelo siano una coincidenza. Sono quasi certo che Shakespeare e Brakespear siano una rima accidentale. Porterò la fantasia fin dove mi aggrada; ma se essa tenta di portare me fin dove aggrada a lei, le rammenterò parecchie cose. Le farò notare che, di puro fatto, i nomi degli uomini di lettere sono spesso quanto mai stridentemente inadatti. Newman non era affatto un adoratore della novità; e uno degli atei più energici e intelligenti di mia conoscenza è gravato del cognome di Priest, cioè Prete.
+
+Oppure prendiamo un esempio classico. Può qualcuno leggere l'opera fredda e tagliente di Swift senza sentire che il suo cognome avrebbe dovuto essere Steele, cioè Acciaio? Può qualcuno leggere l'opera impetuosa di Steele senza sentire che il suo cognome avrebbe dovuto essere Swift, cioè Rapido? Ci sentiremmo davvero molto più felici se potessimo parlare dei brillanti abbagli di Dick Swift e della fredda, saturnina forza di Jonathan Steele. In altre parole, la mia speculazione sui cognomi è appena grande abbastanza da riempire un articolo di rivista, ma non abbastanza grande da riempire nemmeno un cervello di misura moderata. È questo potere di ripresa dopo la stravaganza che raccomando con urgenza. Indulgete pure in tutte le fantasie più decadenti o futili, purché sappiate frenare l'indulgenza, come quella dell'alcol. Cavalcate l'[[nightmare|incubo]], se preferite quella carne di [[Horse|cavallo]]; solo, non lasciate che l'[[nightmare|incubo]] cavalchi voi. Trovate il nido della cavalla che dondola sugli alberi più alti e più scuri, e rubate le uova guaste; ma non fatene la vostra colazione ogni mattina in eterno. Imparate a essere insensati e poi a essere di nuovo sensati; a creare cose strane e tuttavia a rimanerne indipendenti. Imparate a suggerire una cosa, a sollecitarla, a provarla, e ciò nonostante a non crederci. Poiché le pochissime cose che vale davvero la pena di credere non vale la pena di provarle.
+
+
+
+<span class="atom-split" data-atom="story_03_playing_with_an_idea--part_02" data-title="The Glass Walking Stick — Playing With An Idea (part 2)" data-chapter="Playing With An Idea" data-kind="excerpt"></span>
+
+
+THE WALKING [[Paradox|PARADOX]]
+
+THE English People have a peculiar appetite for [[Paradox|paradox]].
+I suppose such a statement will itself be called a [[Paradox|paradox]];
+for the phrase is commonly applied, for some reason or other,
+not to Englishmen generally, but to the one sad and solitary
+Englishman who bears [[Alone|alone]], in this column, the doom or judgement
+upon his race.  Both he and his race, however, remain reasonably
+cheerful under it; and, though it is rather a bore to be
+called paradoxical, it is rather a compliment to be recognized
+as national.  Nevertheless, there are shades of variety,
+and the mad English man may wear his wild [[Rose|rose]] with a difference.
+The curious thing about the representative Englishman
+of the last few centuries is that he instinctively pursued
+the wildest [[Paradox|paradox]] and then accepted it as a solid truism.
+He said he was hard-headed, and stood on his head to prove it.
+
+For instance, saying, ‘We may not understand political theories,
+but our constitution works well in practice', is a piece of wild paradox
+and only loved as such, like a non sense rhyme of Lear or Lewis Carroll.
+It is exactly like saying, ‘We cannot add up figures correctly;
+we are quite Content if the result comes out right.'  It is like saying,
+‘It is true that we got the wrong longitude and the wrong latitude;
+but what does that matter when it means that we find the place we are
+looking for?'  There is no answer to this beautiful nonsense, except to
+say that we do not get the right result or find the right place, except in
+the Great Gromboolian Plain or the Land Where the Jumblies Live.
+But it is a beautiful land to live in, and it is remarkably like England.
+Of course, anything in England that was really practical was achieved
+in spite of neglecting the theoretical, and not because of it.
+But anything in England that was poetical, as distinct
+from practical, really did owe something to this taste for paradox.
+In this sense the other name of England is Elfland.  From this spirit
+comes all that quaintness in the names of places or in the very plan
+of towns which is so delightful a feature of England and which is now
+being steadily destroyed.
+
+Even in the nonsense rhymes to which I have referred, there is
+a constant unconscious groping after this native tradition.
+Not for nothing did even the nonsense rhymer bear a name out
+of ancient British legend and literature; so that the merry
+madman was a sort of parody of the melancholy madman.
+One might almost write another grim and grotesque scene of madness,
+of the meeting between the tragic Lear and the comic Lear.
+But both are full of that quality of quaintness; that quality that
+pre vents the tragic hero, even when he is most tragic, from being
+entirely heroic; or, at any rate, from being entirely classic.
+The height from which a man in King Lear looks dizzily
+down is not a mountain or a Tower of Babel, but only one of
+those chalk cliffs that are to us the white walls of home.
+And when the nonsense rhymer invents a nonsense place and calls
+it The Chankley Bore, we feel by the very sound of it that it
+might be in Sussex.
+
+Or, again, there is nothing but paradox in the whole legend
+of the Strong Silent Man, as in the legend of the Dong with
+the Luminous Nose.  Indeed, I remember suggesting that historical
+students may some day explain the inexplicable lyric by calling it
+a contemporary satire on Oliver Cromwell, who was jeered at in his
+own time for having a red nose, and revered in our time, far less
+reason ably, for being a Strong Silent Man.  As a matter of fact,
+he may have been strong, but he was the very reverse of silent.
+He talked a great deal; and that is one of the things that makes me
+think there was really something in him.  But anyhow, it is nonsense
+to assume that a man must have something in him merely because you
+cannot get anything out of him.  It is a pure paradox itself.
+The natural and sensible assumption would be that a man who has
+anything to say will want to say it.  And, nine times out of ten,
+anybody who really has anything to say does want to say it.
+He would be rather an unpleasant fellow if he did not.
+Indeed, he would be not much more reputable than a miser.
+It is no more admirable to have valuable suggestions to make
+and not put them into circulation than it is to have valuable coin
+of the realm and keep it stuffed into a greasy old stocking.
+
+Of course it is quite true that various accidents or conditions
+may keep a worthy man silent when he really is in the right;
+such as his being shy, his being born deaf and dumb, his being
+gagged by burglars and left alone in the coal-cellar, his being
+entrusted with a secret, or his being afflicted with a stammer.
+But these are exceptions.  There may be strong silent men,
+as there may be strong deaf men, or strong short-sighted men.
+But deafness does not strengthen anybody; nor does strength in
+itself obscure the eyesight.  The truth is that the whole of this
+notion is, if not entirely nonsensical, at least entirely poetical.
+The fancy fascinates the English temper, because there is
+in it a purely romantic effect of transition and surprise.
+It is obvious that it makes a better story, and especially
+a better play, if the quiet man in the corner suddenly takes
+the centre of the stage and reveals the secret of the drama.
+It is not unnatural that the nation which produced the greatest
+of dramatists should have a taste for such effects of drama.
+
+What is curious about the English psychology is this; that it has this
+purely artistic appetite and then persuades itself that it is practical.
+The notion of the vainglorious person, with his heart on his sleeve,
+defeated by the strong man, who has something more valuable up his sleeve,
+is a story that had been the foundation of a hundred farces and fanciful
+comedies and romantic melodramas before it was made the basis of a
+scientific theory of races or a scheme of the British Constitution.
+The strong silent gentleman had been in all sorts of shoddy or shabby
+theatrical parts; he had been the good brother and the bad baronet and
+the stranger and the first walking gentleman, and even Charles's Friend,
+before it was discovered by science that he was the Nordic man and
+the sane and practical Anglo-Saxon.
+
+In other words, we have as a nation got our ideas out of novels
+and plays and poetical romances, much more than out of economic
+textbooks or even commercial ledgers.  That sort of fiction is
+naturally full of paradox; or, in other words, full of surprise.
+It is the whole point of a fairy-tale to say that the fool found
+a windfall of amazing good fortune.  Therefore we said that a politician
+who did not think about politics would somehow or other muddle through.
+It is the whole point of a melodrama that the man whose lips
+have been sealed until the last moment comes forward and declares
+the innocence of the heroine or the hiding-place of the will.
+Therefore we said that any politician who was incompetent to speak
+must always be competent to act.
+
+All this belongs to a world of wild and yet subtle in version with which I
+can sympathize; which, in its proper place, I am even prepared to defend.
+But practical politics is not its proper place; and our politics have not
+been more practical for following only this flying gleam of paradox.
+In this matter we really do need a little more of the iron common
+sense of the Latins, who know that schemes and systems are made
+with logic, just as machines and engines are made with mathematics.
+Just as they know that two and two make four, so they know that thinking
+is really necessary to acting.  There is really some thing to be said
+for platitudes and plain intellectual processes; and the French peasant
+has remained very invincible in his own kitchen garden by dint of knowing
+how many beans make five.  But it takes all sorts to make a world;
+and France has not produced Shakespeare or a nonsense rhyme.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL [[Paradox|PARADOSSO]] AMBULANTE
+
+Gli Inglesi hanno un peculiare appetito per il [[Paradox|paradosso]]. Suppongo che tale affermazione sarà a sua volta detta un [[Paradox|paradosso]]; poiché la formula viene comunemente applicata, per una ragione o per l'altra, non agli Inglesi in generale, ma all'unico Inglese triste e solitario che porta [[Alone|da solo]], in questa rubrica, la condanna o il giudizio sopra la propria stirpe. Tanto lui quanto la sua stirpe, tuttavia, restano ragionevolmente allegri sotto quel peso; e, per quanto sia piuttosto noioso essere chiamati paradossali, è piuttosto un complimento essere riconosciuti come nazionali. Ciò nondimeno vi sono sfumature di varietà, e il folle Inglese può portare la sua selvatica [[Rose|rosa]] con una differenza. La cosa curiosa dell'Inglese rappresentativo degli ultimi secoli è che d'istinto inseguiva il più sfrenato [[Paradox|paradosso]] per poi accettarlo come un solido luogo comune. Diceva d'essere un uomo dalla testa dura, e si reggeva sulla testa per dimostrarlo.
+
+Per esempio, dire: «Non capiremo le teorie politiche, ma la nostra costituzione funziona bene nella pratica», è un pezzo di sfrenato paradosso, e amato soltanto in quanto tale, come una filastrocca insensata di Lear o di Lewis Carroll. È esattamente come dire: «Non sappiamo sommare correttamente le cifre; siamo del tutto contenti se il risultato viene giusto». È come dire: «È vero che abbiamo sbagliato longitudine e sbagliato latitudine; ma che importa, se ciò significa che troviamo il luogo che cerchiamo?». Non c'è risposta a questa bella insensatezza, se non dire che non otteniamo il risultato giusto né troviamo il luogo giusto, tranne che nella Grande Pianura Gromboolica o nella Terra dove Vivono i Jumblies. Ma è una bella terra dove vivere, e somiglia in modo straordinario all'Inghilterra. Certo, tutto ciò che in Inghilterra fu davvero pratico venne conseguito a dispetto della trascuratezza del teorico, e non a causa sua. Ma tutto ciò che in Inghilterra fu poetico, in quanto distinto dal pratico, davvero doveva qualcosa a questo gusto per il paradosso. In questo senso l'altro nome dell'Inghilterra è la Terra degli Elfi. Da questo spirito viene tutta quella bizzarria nei nomi dei luoghi o nella pianta stessa delle città che è un tratto così delizioso dell'Inghilterra e che ora viene incessantemente distrutto.
+
+Perfino nelle filastrocche insensate cui ho accennato c'è un costante brancolare inconsapevole verso questa tradizione natìa. Non per nulla anche il rimatore dell'insensato portava un nome tratto dall'antica leggenda e letteratura britannica; sicché il matto allegro era una sorta di parodia del matto malinconico. Si potrebbe quasi scrivere un'altra tetra e grottesca scena di follia, quella dell'incontro tra il tragico Lear e il comico Lear. Ma entrambi sono pieni di quella qualità di bizzarria; quella qualità che impedisce all'eroe tragico, anche quando è più tragico, di essere interamente eroico; o, comunque, di essere interamente classico. L'altezza da cui un uomo nel Re Lear guarda vertiginosamente in giù non è una montagna o una Torre di Babele, ma soltanto una di quelle bianche scogliere gessose che per noi sono le mura candide di casa. E quando il rimatore dell'insensato inventa un luogo insensato e lo chiama Il Chankley Bore, sentiamo dal suono stesso che potrebbe trovarsi nel Sussex.
+
+Oppure, ancora, non c'è che paradosso nell'intera leggenda dell'Uomo Forte e Silenzioso, come nella leggenda del Dong dal Naso Luminoso. Anzi, ricordo di aver suggerito che gli studiosi di storia potrebbero un giorno spiegare l'inesplicabile lirica definendola una satira contemporanea su Oliver Cromwell, che ai suoi tempi era deriso per avere un naso rosso, e riverito ai nostri, assai meno ragionevolmente, per essere un Uomo Forte e Silenzioso. In realtà, forse era forte, ma era l'esatto contrario del silenzioso. Parlava moltissimo; ed è una delle cose che mi fanno pensare che davvero ci fosse qualcosa in lui. Ma comunque è un'assurdità supporre che un uomo debba avere qualcosa dentro di sé solo perché non se ne cava fuori nulla. È di per sé un puro paradosso. La supposizione naturale e sensata sarebbe che un uomo che ha qualcosa da dire vorrà dirlo. E, nove volte su dieci, chiunque abbia davvero qualcosa da dire vuole dirlo. Sarebbe un tipo piuttosto sgradevole se non lo facesse. Anzi, non sarebbe molto più rispettabile di un avaro. Non è più ammirevole avere preziosi suggerimenti da fare e non metterli in circolazione, di quanto lo sia avere preziosa moneta del regno e tenerla imbottita in una vecchia calza bisunta.
+
+Certo è del tutto vero che vari accidenti o condizioni possono tenere silenzioso un uomo degno quando davvero è nel giusto; come l'essere timido, l'essere nato sordomuto, l'essere imbavagliato da scassinatori e lasciato solo nella carbonaia, l'essere depositario di un segreto, o l'essere afflitto da balbuzie. Ma queste sono eccezioni. Possono esserci uomini forti e silenziosi, come possono esserci uomini forti e sordi, o uomini forti e miopi. Ma la sordità non rafforza nessuno; né la forza in sé offusca la vista. La verità è che tutta questa nozione è, se non del tutto insensata, quantomeno del tutto poetica. La fantasia affascina il temperamento inglese, perché in essa c'è un effetto puramente romantico di transizione e sorpresa. È ovvio che fa una storia migliore, e specialmente un dramma migliore, se l'uomo quieto nell'angolo prende all'improvviso il centro della scena e rivela il segreto della vicenda. Non è innaturale che la nazione che produsse il più grande dei drammaturghi abbia un gusto per simili effetti di dramma.
+
+Ciò che è curioso nella psicologia inglese è questo: che essa possiede questo appetito puramente artistico e poi si persuade di essere pratica. La figura del vanaglorioso, col cuore sulla manica, sconfitto dall'uomo forte, che ha qualcosa di più prezioso su per la manica, è una storia che era stata il fondamento di cento farse e commedie fantasiose e melodrammi romantici prima di essere fatta base di una teoria scientifica delle razze o di uno schema della Costituzione britannica. Il gentiluomo forte e silenzioso aveva recitato ogni sorta di parti teatrali scadenti o logore; era stato il fratello buono e il baronetto malvagio e lo straniero e il primo gentiluomo di passaggio, e perfino l'Amico di Charles, prima che la scienza scoprisse che era l'uomo nordico e il sano e pratico Anglosassone.
+
+In altre parole, come nazione abbiamo tratto le nostre idee dai romanzi e dalle commedie e dalle avventure poetiche assai più che dai manuali di economia o perfino dai registri commerciali. Quel genere di finzione è naturalmente pieno di paradosso; ovvero, in altre parole, pieno di sorpresa. È tutto il senso di una fiaba dire che lo sciocco trovò una manna di prodigiosa fortuna. Perciò abbiamo detto che un politico che non pensava alla politica in un modo o nell'altro se la sarebbe cavata alla meno peggio. È tutto il senso di un melodramma che l'uomo le cui labbra sono state sigillate fino all'ultimo momento si fa avanti e dichiara l'innocenza dell'eroina o il nascondiglio del testamento. Perciò abbiamo detto che qualunque politico incapace di parlare deve sempre essere capace di agire.
+
+Tutto ciò appartiene a un mondo di sfrenato e pur sottile capovolgimento con cui posso simpatizzare; che, al suo posto giusto, sono perfino disposto a difendere. Ma la politica pratica non è il suo posto giusto; e la nostra politica non è stata più pratica per aver seguito soltanto questo guizzo fugace di paradosso. In questa faccenda abbiamo davvero bisogno di un po' più del ferreo buon senso dei Latini, i quali sanno che gli schemi e i sistemi si fanno con la logica, proprio come le macchine e i motori si fanno con la matematica. Proprio come sanno che due più due fa quattro, così sanno che pensare è davvero necessario per agire. C'è davvero qualcosa da dire in favore dei luoghi comuni e dei semplici processi intellettuali; e il contadino francese è rimasto ben invincibile nel suo orto a forza di sapere quanti fagioli fanno cinque. Ma ci vuole di tutto per fare un mondo; e la Francia non ha prodotto Shakespeare né una filastrocca insensata.
+
+
+
 <span class="atom-split" data-atom="story_04_the_colour_of_spain" data-title="The Glass Walking Stick — The Colour Of Spain" data-chapter="The Colour Of Spain" data-kind="story"></span>
 
 
@@ -5623,6 +6279,269 @@ Ma questa è una parentesi; stavo osservando che la celebre processione di Sivig
 
 
 
+<span class="atom-split" data-atom="story_05_the_tradition_of_toledo--part_01" data-title="The Glass Walking Stick — The Tradition Of Toledo (part 1)" data-chapter="The Tradition Of Toledo" data-kind="excerpt"></span>
+
+
+THE TRADITION OF TOLEDO
+
+ONE of the first impressions created by a visit to Spain, in,
+any person with any historical [[Imagination|imagination]], is the sense of a world
+that runs round the Mediterranean rather than of three separate
+worlds which the sea divides.  It is, I suppose, what the old
+world meant by talking of the round or circle of the lands.
+The point is that a man might sail from port to port round
+the whole of that inland sea and find something at least linking
+all those places together.  If he pierced further into the various
+continents he would doubtless find things very different:
+very different if he plunged into what we call the African forests;
+very different if he set out on what we call the Asiatic plains.
+But a great deal that we imagine to be Asiatic in Lebanon,
+or African in Algiers, is really of the mixed central civilization,
+and at least as much European as the more Moorish parts of Spain.
+I think it is because people see this when they are not expecting
+it that they can make nothing of it and their descriptions are
+so unconvincing and conventional.  For when people see what they
+do not understand they do not even believe what they see.
+
+Thus Toledo looked to me much more like Jerusalem than Jerusalem
+ever looked like most of the pictures of it.  It has a wall
+crowning a [[Hill|hill]] whose steep sides have an indefinable look
+of a ruin and even a rubbish-heap. It is in the sort of country
+that is spotted with hardy olives or striped with hardy vines.
+It has that look that we never know in the rich rain and deep grasses
+of our northern islands--the look of vegetation being an exception.
+It is a green object and not merely a green background.
+For we owe our green fields to our grey clouds; and perhaps do
+not thank them often enough for it.  In those splendid Spanish
+ruins a man feels immediately that he is within a circle or radius
+of something that lay to the south, and that the same radius
+also touched Jerusalem at the ends of the earth.
+
+It is not easy to define what that circle is.  Those unduly discontented
+with the grey clouds may be inclined to say that it is simply the circle
+of the sun.  But I am inclined to think it is also the circle of a
+culture and a historical tradition, which touches all these places
+though it varies from place to place.  There is something in common
+between those opposite ends of the earth, or at least of the sea.
+The Crusaders have been in Jerusalem; the Moors have been in Toledo.
+But the conventional conception that cut up the world into four
+quarters in the old style does not look for such a similarity.
+It does not expect it; it cannot be expected to expect it.  It expects
+Jerusalem to be only an Asiatic bazaar like Baghdad or even Bombay.
+It expects Toledo to be concentrated on Toledo swords like Sheffield
+on Sheffield cutlery.  In many ways Toledo is very like a [[Sword|sword]],
+steely and of a stern sort of chivalry; but it is warmed from the south;
+it is in the circle of the sun.
+
+I know it is customary to talk about the Moorish influence, as if what
+is really the Mediterranean influence was always a Moslem influence.
+This I believe to be a complete mistake.  The indefinable connexion
+that links a town like Toledo to a town like Jerusalem existed
+long before Mahomet was born.  It remained essentially a Christian
+connexion long after Mahomet's religion had first swept over
+these places and at last retreated from them.  We may call it,
+if we like, the Roman influence, though even that is insufficient.
+We may connect it with our own view of the Christian [[unity]], though that
+will naturally be a matter of dispute.  But whatever it is, it did
+not come out of the [[Desert|desert]] with the dry negations of a [[Desert|desert]] creed.
+It did not plant all those vineyards with the veto of [[Islam]] upon wine.
+It did not carve all those images with the veto of [[Islam]] upon statues.
+It did not find the chivalric devotion to the lady by looking for it
+in the harem, or all the legends of the Mother and the Holy [[Child]]
+from the arid Arabian dogma of the isolation of God.
+
+The tradition for which Toledo still lifts its riven [[Crown|crown]] of roofs
+and battlements may have been stirred to life by movements out in
+the East, or mingled to advantage with strange and remote things;
+it may have gained as [[Well|well]] as given something in its contact with the Arab
+conquerors of Africa; but it is certain, if anything is certain,
+that when that spirit of Spain and of Western [[Christianity]] was touched
+to new life, it was in the form of its own life that it unfolded and to
+the height of its own destiny that it [[Rose|rose]] again; and [[Islam]] did not make
+a new world in such places, but only awakened a world that was asleep.
+That world is now very wide awake; and if the [[Cathedral|cathedral]] of Toledo was not
+merely modelled on a mosque even when the world was swept by the Moslem,
+it is now even less likely that featureless mosques will be the only
+churches of the future.
+
+TOM [[Jones|JONES]] AND THE ESCORIAL
+
+I [[Wonder|WONDER]] how many people have noticed that a famous quotation
+from Gibbon can now be classed with the fulfilled prophecies--
+or rather, what is even more mystic and oracular, with the
+half-fulfilled prophecies.  I say a quotation from Gibbon, for I
+[[Fear|fear]] it would be more misleading to call it a passage in Gibbon.
+Gibbon is now a classic; that is, he is quoted instead of being read.
+The thing most commonly quoted is an unusually stark and startling lie;
+the story which identifies St George with an Arian who was a
+swindling contractor.  It is still sometimes quoted as a [[Truth|truth]];
+though it is hard to understand how anybody with even the most
+superficial sense of [[history]] could ever have thought it true.
+Supposing, for the sake of argument, that the Church had been
+enthusiastically eager to canonize a swindler, it would
+have been quite impossible for her to canonize a heretic.
+But more often nowadays it is quoted as a lie; for the historian's
+cold hatred of the Christian tradition has begun to be felt and
+allowed for; but, as it is one of the few things quoted at all,
+it might be held to imply that the whole [[history]] was a tissue of lies.
+And this would be quite as unjust to Gibbon as Gibbon was to George.
+But there has been a reaction against that Age of Reason,
+in which we may lose even those parts of it that were
+really reasonable.  Whatever else we may say of our own age,
+for good or evil, nobody is likely to call it an Age of Reason.
+The later French Pantheists called Voltaire a barbarian,
+exactly as Voltaire had called Shakespeare a barbarian.
+And in the same way even the ‘Decline and Fall' has already
+declined and fallen.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LA TRADIZIONE DI TOLEDO
+
+Una delle prime impressioni suscitate da una visita in Spagna, in chiunque abbia un po' di [[Imagination|immaginazione]] storica, è il senso di un mondo che corre attorno al Mediterraneo, anziché di tre mondi separati che il mare divide. È, suppongo, ciò che il mondo antico intendeva parlando del cerchio o della cerchia delle terre. Il punto è che un uomo potrebbe navigare di porto in porto attorno all'intero di quel mare interno e trovare qualcosa che, almeno, colleghi insieme tutti quei luoghi. Se penetrasse più addentro nei vari continenti troverebbe senza dubbio cose assai diverse: assai diverse se si inoltrasse in ciò che chiamiamo le foreste africane; assai diverse se muovesse verso ciò che chiamiamo le pianure asiatiche. Ma buona parte di ciò che immaginiamo essere asiatico nel Libano, o africano ad Algeri, è in realtà della mescolata civiltà centrale, ed europea almeno quanto le parti più moresche della Spagna. Penso sia perché la gente vede questo quando non se l'aspetta che non riesce a cavarne nulla e le sue descrizioni risultano così poco convincenti e convenzionali. Perché quando la gente vede ciò che non comprende non crede nemmeno a ciò che vede.
+
+Così Toledo mi parve assai più simile a Gerusalemme di quanto Gerusalemme sia mai parsa simile alla maggior parte delle sue immagini. Ha una cinta di mura che corona una [[Hill|collina]] i cui fianchi ripidi hanno un indefinibile aspetto di rovina e persino di immondezzaio. Sorge in quella sorta di paese che è punteggiato di duri olivi o rigato di dure viti. Ha quell'aspetto che noi non conosciamo mai nella ricca pioggia e nelle folte erbe delle nostre isole settentrionali: l'aspetto della vegetazione come eccezione. È un oggetto verde e non semplicemente uno sfondo verde. Perché noi dobbiamo i nostri verdi campi alle nostre grigie nuvole; e forse non le ringraziamo abbastanza spesso per questo. In quelle splendide rovine spagnole un uomo sente immediatamente di trovarsi entro un cerchio o un raggio di qualcosa che stava a mezzogiorno, e che quello stesso raggio toccava anche Gerusalemme alle estremità della terra.
+
+Non è facile definire cosa sia quel cerchio. Chi è indebitamente scontento delle grigie nuvole potrebbe esser propenso a dire che è semplicemente il cerchio del sole. Ma io sono propenso a pensare che sia anche il cerchio di una cultura e di una tradizione storica, che tocca tutti questi luoghi pur variando di luogo in luogo. C'è qualcosa in comune tra quelle estremità opposte della terra, o almeno del mare. I Crociati sono stati a Gerusalemme; i Mori sono stati a Toledo. Ma la concezione convenzionale che tagliava il mondo in quattro quarti alla vecchia maniera non cerca una simile somiglianza. Non se l'aspetta; non le si può chiedere di aspettarsela. Si aspetta che Gerusalemme sia soltanto un bazar asiatico come Baghdad o perfino Bombay. Si aspetta che Toledo sia concentrata sulle spade di Toledo come Sheffield sulla coltelleria di Sheffield. Per molti versi Toledo è assai simile a una [[Sword|spada]], acciaiosa e di una cavalleria dal cipiglio severo; ma è scaldata dal mezzogiorno; è nel cerchio del sole.
+
+So che è consuetudine parlare dell'influsso moresco, come se ciò che è in realtà l'influsso mediterraneo fosse sempre un influsso musulmano. Questo lo ritengo un errore completo. L'indefinibile connessione che lega una città come Toledo a una città come Gerusalemme esisteva assai prima che Maometto nascesse. Rimase essenzialmente una connessione cristiana assai dopo che la religione di Maometto ebbe da prima travolto questi luoghi e infine si fu ritirata da essi. Possiamo chiamarlo, se vogliamo, l'influsso romano, benché anche questo sia insufficiente. Possiamo collegarlo con la nostra visione dell'[[unity|unità]] cristiana, benché questo sia naturalmente materia di disputa. Ma qualunque cosa sia, non venne fuori dal [[Desert|deserto]] con le aride negazioni di un credo del [[Desert|deserto]]. Non piantò tutti quei vigneti col veto dell'[[Islam]] sul vino. Non scolpì tutte quelle immagini col veto dell'[[Islam]] sulle statue. Non trovò la devozione cavalleresca alla dama cercandola nell'harem, né tutte le leggende della Madre e del Santo [[Child|Bambino]] dall'arido dogma arabo dell'isolamento di Dio.
+
+La tradizione per cui Toledo leva ancora la sua squarciata [[Crown|corona]] di tetti e bastioni può essere stata destata a vita da moti là in Oriente, o mescolata a suo vantaggio con cose strane e remote; può aver guadagnato non [[Well|meno]] di quanto abbia dato qualcosa nel suo contatto con i conquistatori arabi dell'Africa; ma è certo, se qualcosa è certo, che quando quello spirito di Spagna e della [[Christianity|Cristianità]] occidentale fu ridestato a nuova vita, fu nella forma della propria vita che esso si dispiegò e all'altezza del proprio destino che [[Rose|risorse]] di nuovo; e l'[[Islam]] non creò un mondo nuovo in tali luoghi, ma soltanto ridestò un mondo che dormiva. Quel mondo è ora ben desto; e se la [[Cathedral|cattedrale]] di Toledo non fu semplicemente modellata su una moschea nemmeno quando il mondo era travolto dai musulmani, è ora ancor meno probabile che informi moschee siano le uniche chiese del futuro.
+
+TOM [[Jones|JONES]] E L'ESCORIAL
+
+Mi [[Wonder|CHIEDO]] quante persone abbiano notato che una celebre citazione di Gibbon può ormai essere classificata tra le profezie adempiute — o piuttosto, cosa ancor più mistica e oracolare, tra le profezie a metà adempiute. Dico una citazione di Gibbon, perché [[Fear|temo]] che sarebbe più fuorviante chiamarla un passo di Gibbon. Gibbon è ormai un classico; ossia, viene citato anziché letto. La cosa più comunemente citata è una menzogna insolitamente cruda e sconcertante: la storia che identifica San Giorgio con un ariano che era un imbroglione appaltatore. Talora viene ancora citata come una [[Truth|verità]]; benché sia difficile capire come chiunque, anche col più superficiale senso della [[history|storia]], abbia mai potuto ritenerla vera. Supponendo, per amor di discussione, che la Chiesa fosse stata entusiasticamente ansiosa di canonizzare un truffatore, le sarebbe stato del tutto impossibile canonizzare un eretico. Ma più spesso, oggigiorno, viene citata come una menzogna; perché il freddo odio dello storico per la tradizione cristiana ha cominciato a essere avvertito e messo in conto; ma, essendo una delle poche cose citate del tutto, si potrebbe ritenere che essa implichi che l'intera [[history|storia]] fosse un tessuto di menzogne. E questo sarebbe altrettanto ingiusto verso Gibbon quanto Gibbon fu verso Giorgio. Ma c'è stata una reazione contro quell'Età della Ragione, nella quale potremmo perdere perfino quelle parti di essa che erano davvero ragionevoli. Qualunque altra cosa possiamo dire della nostra epoca, in bene o in male, nessuno è disposto a chiamarla un'Età della Ragione. I successivi panteisti francesi chiamarono Voltaire un barbaro, esattamente come Voltaire aveva chiamato Shakespeare un barbaro. E allo stesso modo perfino la «Storia della decadenza e caduta» è già decaduta e caduta.
+
+
+
+<span class="atom-split" data-atom="story_05_the_tradition_of_toledo--part_02" data-title="The Glass Walking Stick — The Tradition Of Toledo (part 2)" data-chapter="The Tradition Of Toledo" data-kind="excerpt"></span>
+
+
+But there is one other quotation from it that still deserves
+to be called a popular quotation.  Being a popular quotation, it is
+probably a popular misquotation.  Such a thing is normally misquoted;
+and I will here, to the best of my humble ability, misquote it.
+I have not got the book within reach; and I would not be
+bothered to look through the whole six volumes even if I had.
+But it is a passage in which he remarks, in a sort of parenthesis,
+that the family of Henry Fielding was connected in some way
+with the Imperial House of the Holy Roman Empire; and admits
+that the great princes of the dynasty might smile at the connexion;
+‘but the [[Romance|romance]] of Tom [[Jones]], that exquisite picture of life
+and manners, will outlive the palace of the Escorial and the imperial
+eagle of Austria'.
+
+[[Well]], it has already outlived the imperial eagle of Austria.
+That half of the defiant prediction has already become a definite and
+rather dull fact; almost in the way of an anti-climax. And it could not
+but [[Cross|cross]] my mind, like a cloud of some strange shape crossing the sky,
+when I stood recently under the ranked and rigid columns of the Escorial,
+that strange Spanish palace built by the harsh whim of one of
+the strangest of Spaniards and of men.  Philip the Second not only
+dedicated it to St Laurence, but built it in the shape of a gridiron.
+And I realized something appropriate in the image, beyond the suggestion
+of something in the [[King]]'s own life of stiffness and of [[Suffering|suffering]].
+SeÃ±or Junoy, the distinguished Catalan writer, said to me, with great
+imaginative insight:  ‘It seems so cold, and yet it is so ardent.'
+Philip's gridiron, almost like Pickwick's warming-pan, was a cover
+for hidden fire.  The very coldness of the surroundings accentuates
+that contained intensity.
+
+Others besides myself have often remarked on the curious fact
+that the guide-books and note-books of travel, and all the countless
+sketches and photographs and similar records, never seem to tell
+us the thing which seems most striking when it strikes the eye.
+I had heard about Philip the Second and the Escorial, and other
+elements in the picture; but I conceived a picture of Spain
+rather as if it must be a picture of Seville.  I thought vaguely
+that everything would happen in the summer and there would be
+a background of orange-trees and a hint of Moorish architecture.
+I had seen hundreds and hundreds of sketches and pictures of
+Spanish scenes, often probably of these identical Spanish scenes;
+and yet somehow the primary point of the whole impression
+had never pierced.
+
+Nobody had ever told me--at least, nobody had ever told me
+so that I realized and remembered it--that the Spanish King had
+done something altogether unique and even unnatural when he built
+in such a place and in such a style his grim gridiron of stone.
+Nobody had made me understand that he had built a palace almost
+on the top of a mountain, far away upon naked and sterile heights
+only approached by rocky and ruinous roads like mountain passes.
+He had built a palace where anyone else would have built a hermitage.
+Like a madman, he had reared his tower of pomp and pride in a
+howling wilderness, where he might literally hear the wolves howl.
+
+Yet there was nothing extravagant or fantastic in his
+architectural achievement; it was too sternly classical to be
+classed even with the Baroque.  It is said that he sat outside
+watching it being built, with the plans in his hand and his gouty
+foot on a stool; jealously vigilant to see that not a curve
+of too much exuberance should soften that terrible triangle.
+A curious and not very pleasant person though genuine in his way;
+but he did great harm in one respect.  He was a Puritan
+on the wrong side; that is, he was on what I should call
+the right side, but it was not the side of the Puritans.
+He was very unlike most Spaniards but he has come to stand as a type
+of all of them.  And under the shadow of his mere individuality
+we forget the real light and shade in the whole picture.
+We forget that his religious enemies were mostly Calvinists
+and men even more gloomy than he, and gloomy on principle
+as well as by accident.  In his unlucky version of the legend
+of St Laurence, he was himself so much more like a persecutor
+than a martyr that he made any martyr look like a saint.
+We forget that most of the martyrs were Calvinists, who would
+have built something much more inhuman than the Escorial,
+only they were too inhuman to build anything at all.
+Perhaps he also forgot that, in the original legend, St Laurence
+joked on the gridiron.
+
+I think the prophecy of Gibbon, like the prayer of somebody
+in Virgil, will be half fulfilled and half scattered to the winds.
+I do not anticipate the decline and fall of the Escorial; I think
+it would take a good deal to remove that formidable object,
+a good deal more than is needed for the rather artificial
+revolution that altered an Austrian postage stamp.
+For Spain is fortunate in having had her decline and fall,
+and being now (I think) quite clearly rising once more.
+The Escorial has survived the fall, and there seems
+no reason why it should fall with the resurrection.
+But I do certainly hope that in another sense its shadow may
+grow a little less, as has the shadow of the imperial eagle.
+For a long time past the Escorial had stood for Philip
+the Second and Philip the Second had stood for Spain.
+Whatever is harsh or sombre in this one particular palace of this
+one particular prince has been associated with a whole people,
+who are not, in fact, in the least harsh or sombre, but in many
+ways exceedingly genial and generous.  He was not at all a
+typical Spaniard, any more than Louis XI was a typical Frenchman,
+or Henry VII a typical Englishman--or even Welshman.
+But the imperial eagle has come to seem a bird of ill omen,
+and his castle a ruin fit for the nesting of such fowls of night.
+I certainly hope that, as an international impression,
+that error will pass away, and that Gibbon's prophecy may yet serve
+to remind us that Spain is the home of the picaresque romance,
+or rambling comedy, and is not as gloomy as the Escorial,
+but as jolly as Tom Jones.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma c'è un'altra citazione tratta da essa che merita ancora di essere chiamata una citazione popolare. Essendo una citazione popolare, è probabilmente una citazione popolare errata. Una cosa simile viene normalmente riportata a sproposito; e io qui, al meglio della mia umile capacità, la riporterò a sproposito. Non ho il libro a portata di mano; e non mi sarei preso il disturbo di sfogliare tutti e sei i volumi anche se l'avessi avuto. Ma è un passo in cui egli osserva, in una sorta di parentesi, che la famiglia di Henry Fielding era in qualche modo imparentata con la Casa Imperiale del Sacro Romano Impero; e ammette che i grandi principi della dinastia potrebbero sorridere della parentela; «ma il [[Romance|romanzo]] di Tom [[Jones]], quella squisita pittura di vita e di costumi, sopravvivrà al palazzo dell'Escorial e all'aquila imperiale d'Austria».
+
+[[Well|Ebbene]], esso è già sopravvissuto all'aquila imperiale d'Austria. Quella metà della sfida profetica è già divenuta un fatto preciso e piuttosto scialbo; quasi alla maniera di un anticlimax. E non poté non [[Cross|attraversarmi]] la mente, come una nube di forma strana che attraversa il cielo, quando di recente mi trovai sotto le schierate e rigide colonne dell'Escorial, quello strano palazzo spagnolo eretto dall'aspro capriccio di uno dei più strani tra gli Spagnoli e tra gli uomini. Filippo II non solo lo dedicò a San Lorenzo, ma lo costruì in forma di graticola. E colsi qualcosa di appropriato in quell'immagine, al di là della suggestione di qualcosa nella vita stessa del [[King|re]], fatta di rigidezza e di [[Suffering|sofferenza]]. Il señor Junoy, l'illustre scrittore catalano, mi disse, con grande intuito immaginativo: «Sembra così freddo, eppure è così ardente». La graticola di Filippo, quasi come lo scaldaletto di Pickwick, era una copertura di fuoco nascosto. La freddezza stessa dell'ambiente accentua quella intensità contenuta.
+
+Altri oltre a me hanno spesso osservato il curioso fatto che le guide e i taccuini di viaggio, e tutti gli innumerevoli schizzi e fotografie e simili documenti, non paiono mai dirci la cosa che sembra più impressionante quando colpisce l'occhio. Avevo sentito parlare di Filippo II e dell'Escorial, e di altri elementi del quadro; ma mi ero raffigurato un'immagine della Spagna piuttosto come se dovesse essere un'immagine di Siviglia. Pensavo vagamente che tutto sarebbe accaduto d'estate e che ci sarebbe stato uno sfondo di aranci e un sentore di architettura moresca. Avevo visto centinaia e centinaia di schizzi e quadri di scene spagnole, spesso probabilmente di queste identiche scene spagnole; eppure in qualche modo il punto primario di tutta l'impressione non aveva mai fatto breccia.
+
+Nessuno mi aveva mai detto — o almeno, nessuno me l'aveva mai detto in modo che lo cogliessi e lo ricordassi — che il re di Spagna aveva compiuto qualcosa di del tutto unico e persino innaturale quando costruì in un luogo simile e in uno stile simile la sua arcigna graticola di pietra. Nessuno mi aveva fatto capire che aveva costruito un palazzo quasi in cima a una montagna, lontano su nude e sterili alture accessibili solo per strade rocciose e in rovina come valichi di montagna. Aveva costruito un palazzo dove chiunque altro avrebbe costruito un eremo. Come un pazzo, aveva innalzato la sua torre di pompa e d'orgoglio in un deserto ululante, dove poteva letteralmente udire ululare i lupi.
+
+Eppure non c'era nulla di stravagante o fantastico nella sua impresa architettonica; era troppo severamente classica per essere annoverata perfino tra il Barocco. Si dice che egli sedesse all'aperto a osservarla mentre veniva costruita, con le piante in mano e il piede gottoso su uno sgabello; gelosamente vigile perché non una curva di troppa esuberanza ammorbidisse quel terribile triangolo. Una persona curiosa e non molto piacevole, sebbene a suo modo genuina; ma fece grave danno sotto un aspetto. Era un puritano dalla parte sbagliata; ossia, era da quella che io chiamerei la parte giusta, ma non era la parte dei puritani. Era assai diverso dalla maggior parte degli Spagnoli, ma è finito col rappresentare un tipo che li racchiude tutti. E all'ombra della sua mera individualità dimentichiamo il vero chiaroscuro dell'intero quadro. Dimentichiamo che i suoi nemici religiosi erano per lo più calvinisti e uomini ancor più tetri di lui, e tetri per principio oltre che per caso. Nella sua sfortunata versione della leggenda di San Lorenzo, egli fu di per sé tanto più simile a un persecutore che a un martire, da far sembrare santo qualsiasi martire. Dimentichiamo che la maggior parte dei martiri erano calvinisti, che avrebbero costruito qualcosa di assai più disumano dell'Escorial, se non fossero stati troppo disumani per costruire alcunché. Forse egli dimenticò anche che, nella leggenda originale, San Lorenzo scherzò sulla graticola.
+
+Penso che la profezia di Gibbon, come la preghiera di un tale in Virgilio, sarà per metà adempiuta e per metà dispersa ai venti. Non prevedo la decadenza e caduta dell'Escorial; penso che ci vorrebbe parecchio per rimuovere quel formidabile oggetto, assai più di quanto occorra per la piuttosto artificiale rivoluzione che alterò un francobollo austriaco. Perché la Spagna è fortunata ad aver avuto la sua decadenza e caduta, e a essere ora (io credo) assai chiaramente in ascesa un'altra volta. L'Escorial è sopravvissuto alla caduta, e non pare esserci ragione perché debba cadere con la resurrezione. Ma spero certamente che, in un altro senso, la sua ombra possa farsi un po' meno lunga, come s'è fatta l'ombra dell'aquila imperiale. Per lungo tempo l'Escorial è stato l'emblema di Filippo II e Filippo II è stato l'emblema della Spagna. Tutto ciò che è aspro o cupo in questo solo particolare palazzo di questo solo particolare principe è stato associato a un intero popolo, che non è affatto, in realtà, minimamente aspro o cupo, ma sotto molti aspetti oltremodo cordiale e generoso. Egli non era affatto uno Spagnolo tipico, non più di quanto Luigi XI fosse un Francese tipico, o Enrico VII un Inglese tipico — o persino un Gallese. Ma l'aquila imperiale è finita col sembrare un uccello di malaugurio, e il suo castello una rovina adatta al nidificare di tali uccelli notturni. Spero certamente che, come impressione internazionale, quell'errore passi via, e che la profezia di Gibbon possa ancora servire a ricordarci che la Spagna è la patria del romanzo picaresco, o commedia divagante, e non è tetra come l'Escorial, ma gioviale come Tom Jones.
+
+
+
 <span class="atom-split" data-atom="story_06_poetry_in_action" data-title="The Glass Walking Stick — Poetry In Action" data-chapter="Poetry In Action" data-kind="story"></span>
 
 
@@ -5766,6 +6685,890 @@ Ora, questo è soltanto un esempio, tra le centinaia che se ne possono raccoglie
 
 
 
+<span class="atom-split" data-atom="story_07_the_romance_of_history--part_01" data-title="The Glass Walking Stick — The Romance Of History (part 1)" data-chapter="The Romance Of History" data-kind="excerpt"></span>
+
+
+THE ROMANCE OF HISTORY
+
+THE signs of the resurrection of Spain of which I think
+there are many to be seen lately, have turned my thoughts
+to certain subtleties in the tradition of that land.
+They are things so subtle that they always appear to be simple.
+One of them is the tradition of chivalry and the double attitude
+towards it which we connect with the name of Don Quixote.
+There is no more fantastic paradox in all history than the life
+and work of Cervantes.  He is generally recognized as having
+written a book to show that romantic adventures are all rubbish
+and do not really happen in this world.  As a matter of fact,
+the one man in this world to whom romantic adventures were
+incessantly happening was the author of ‘[[Don Quixote]]'.
+He covered himself with glory and lost his right hand at the most
+romantic battle in [[history]]--when the Crescent and the [[Cross]] met
+in the blue Mediterranean by the Isles of Greece, trailing all
+their pageants of painted and gilded ships with emblazoned sails.
+He was just about to receive public recognition from the victor,
+[[Don John of Austria]], when he was kidnapped by pirates.
+He organized a series of escapes, each like the ideal adventure
+of a schoolboy; he organized supplies and comforts for his
+fellow-prisoners with the laborious altruism of a saint.
+As men go, he was really a pretty perfect pattern of the knight
+of chivalry; eventually he escaped and returned [[Home|home]] to write
+a book showing that chivalry was impossible.  At least, that is
+what three rationalistic centuries have taken it as showing.
+But I think the [[Time|time]] has come to dig a little deeper in that
+stratified irony and show the other side of Cervantes and chivalry.
+
+[[Hero]]-worship has fallen out of fashion with Carlyle, who forced it
+into fashion.  But in the case of Carlyle there were circumstances
+that were a needless handicap of [[Hero|hero]] worship and even to [[Heroism|heroism]].
+Carlyle set himself the impossible task of making heroes
+out of the successful men of [[history]] and politics.
+It was not much more hopeful than that of making heroes out
+of the successful men in soap or petrol.  In one sense that sort
+of [[Hero|hero]]-worship is heroic, in the sense of being impossible.
+The task is heroic be cause the subject is unheroic.
+In Carlyle's characteristic work it soon ran into absurdity.
+It reached the point of praising Frederick the Great--
+a form of [[Hero|hero]]-worship which is clearly a reductio ad absurdum,
+and even almost a contradiction in terms.  The character of
+Cromwell had more human elements; but what was best in it was
+human and emphatically not heroic.  The best case for Cromwell
+is that he was a moderately sane man in a very insane age.
+His best work was done as a moderator and maker of compromises,
+not as an originator or inspirer of enthusiasms.  He saved
+works of art which the wilder Puritans would have destroyed,
+but we cannot picture him as a great patron of art in
+the sense of a friend of artists.  He insisted that there
+must be good pay for good soldiers; but he was not the sort
+of man to be a [[Romance|romance]] to his own soldiers, like Napoleon.
+He was a seventeenth-century English squire whose family had
+grown rich in the great pillage; and morally he was no worse
+than most of his kind and perhaps better than many of them.
+He was certainly much better than Frederick the Great whom
+Carlyle made even more of a [[Hero|hero]], and even a god.
+
+The worship of Frederick the Great can hardly be called [[Hero|hero]]-worship.
+It is rather devil-worship softened by a touch of monkey-worship. It
+is superstition and therefore heresy to say such things seriously,
+but we may say symbolically that if a demon could enter the [[Body|body]] of a
+monkey the result might be something like Frederick II of Prussia.
+It is not only true that he had a large mind and a small [[Soul|soul]],
+it might almost equally truly be said that he had a large brain and a
+small mind.  Even his intellectual [[Pride|pride]] was petty.  Moreover, he was
+in another sense curiously like a monkey.  He was an imitator.
+As the old mystics used to say that the devil was the ape of God,
+we might more literally say that Frederick II was the ape of Louis XIV.
+But just as the monkey imitates the man without understanding the man,
+just as the ape can copy an action that he cannot comprehend,
+so the Prussian had nothing of the national and civilized quality
+of the Frenchman.  He substituted a new impudence and malignity
+for the last trailing tradition of medieval chivalry and Roman law.
+But Carlyle had to make a [[Hero|hero]] out of him, on his own theory of
+the [[Heroism|heroism]] of [[success]].  Frederick had nothing else except [[success]]--
+not even the power to enjoy it.
+
+But when we have got rid of this sort of [[Hero|hero]]-worship we may really
+come back to heroes.  There really were heroes who were historical
+characters though they were not generally successful men.
+More often the true [[Hero|hero]] was a [[Tragic Hero|tragic hero]].  But while his
+tale was often a [[Tragedy|tragedy]] in so far as he failed, it was often
+a wildly impossible [[Romance|romance]] in the moments when he triumphed.
+The curious thing is that real [[history]] is much more romantic,
+and not less romantic, than Carlyle made it out.  The [[Hero|hero]]
+may sometimes have lost his campaign, but he won his battles.
+And he can often be seen winning his battles single
+handed like the most legendary knight winning his spurs.
+Chivalry really did succeed in doing the impracticable things,
+even when it failed to do the practical things.  We may differ
+or feel doubtful about the ultimate [[success]] or even the ultimate
+value of various policies pursued in the past; but nobody can
+[[Doubt|doubt]] the thrill and enthusiasm and [[Courage|courage]] of the pursuit.
+The only really reliable part of [[history]] is the [[Romance|romance]] of it.
+
+For instance, Godfrey de Bouillon died young, wasted by a fever
+that might have been cured in more sanitary conditions and
+wearied with a problem which was perhaps almost insoluble.
+That is a [[Tragedy|tragedy]] of the modern sort; it may [[Well|well]] be said
+that his life was a failure; it might be said that the [[Crusades]]
+were a failure.  We might argue about whether he was a maker,
+a builder, a man who can, or any of the Carlylean descriptions.
+For those depend on elaborate historical results which arise later;
+and the end of everything arrives sooner or later.
+It is disputable whether Richelieu was a successful man,
+since the French monarchy went down in the [[French Revolution]].
+It is disputable whether Frederick the Great was a successful man,
+since Prussianized [[Germany]] went down in the Great War.
+So it is disputable whether Godfrey was a successful man, since the
+Latin Kingdom of Jerusalem went down in the disaster of Hattin.
+What is quite indisputable is that Godfrey was a [[Hero|hero]] of [[Romance|romance]],
+a [[Hero|hero]] of the wildest and most improbable [[Romance|romance]], a [[Hero|hero]] behaving
+as heroes behave in the extravagant romances of chivalry.
+What is certain is that he, the Commander-in-Chief of the whole
+military system of Europe in the East, did really behave
+in the manner of Dick Dauntless among the Redskins or How
+a Powder-Monkey Foiled the Pirates.  It is a cold and concrete
+fact that he was himself the first to leap from the battle-tower
+on to the Saracenic turrets, exactly as the boy who ran away to sea
+is the first to leap from his baffle-[[Ship|ship]] on to the slaver's deck.
+All that part of the business that was a statesman's calculation
+may or may not have been falsified.  All that part of it that was
+like a schoolboy's daydream came true.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL ROMANZO DELLA STORIA
+
+I segni della resurrezione della Spagna, di cui penso ve ne siano molti da scorgere di recente, hanno rivolto i miei pensieri a certe sottigliezze nella tradizione di quel paese. Sono cose così sottili da apparire sempre semplici. Una di esse è la tradizione della cavalleria e il duplice atteggiamento verso di essa che noi colleghiamo al nome di Don Chisciotte. Non c'è paradosso più fantastico in tutta la storia della vita e dell'opera di Cervantes. È generalmente riconosciuto per aver scritto un libro allo scopo di mostrare che le avventure romanzesche sono tutte fandonie e non accadono davvero in questo mondo. In realtà, l'unico uomo al mondo cui accadevano incessantemente avventure romanzesche era proprio l'autore del «[[Don Quixote|Don Chisciotte]]». Si coprì di gloria e perse la mano destra nella più romanzesca battaglia della [[history|storia]] — quando la Mezzaluna e la [[Cross|Croce]] si scontrarono nel Mediterraneo azzurro presso le Isole di Grecia, trascinando tutti i loro cortei di navi dipinte e dorate dalle vele blasonate. Stava per ricevere il pubblico riconoscimento dal vincitore, [[Don John of Austria]], quando fu rapito dai pirati. Organizzò una serie di evasioni, ciascuna simile all'avventura ideale di uno scolaretto; organizzò rifornimenti e conforti per i suoi compagni di prigionia con il laborioso altruismo di un santo. Per come vanno gli uomini, era davvero un modello quasi perfetto del cavaliere della cavalleria; alla fine fuggì e tornò [[Home|a casa]] a scrivere un libro che mostrava che la cavalleria era impossibile. Almeno, è questo che tre secoli razionalistici hanno inteso ch'esso mostrasse. Ma penso sia giunto il [[Time|momento]] di scavare un po' più a fondo in quella stratificata ironia e mostrare l'altra faccia di Cervantes e della cavalleria.
+
+Il culto dell'[[Hero|eroe]] è passato di moda con Carlyle, che lo impose alla moda. Ma nel caso di Carlyle c'erano circostanze che erano un inutile handicap al culto dell'[[Hero|eroe]] e persino all'[[Heroism|eroismo]]. Carlyle si assunse l'impossibile compito di fare eroi degli uomini di successo della [[history|storia]] e della politica. Non era molto più promettente che fare eroi degli uomini di successo nel sapone o nella benzina. In un certo senso quella sorta di culto dell'[[Hero|eroe]] è eroica, nel senso di essere impossibile. Il compito è eroico perché il soggetto è ineroico. Nell'opera caratteristica di Carlyle esso scivolò presto nell'assurdo. Giunse al punto di lodare Federico il Grande — una forma di culto dell'[[Hero|eroe]] che è chiaramente una reductio ad absurdum, e persino quasi una contraddizione in termini. Il carattere di Cromwell aveva più elementi umani; ma ciò che vi era di meglio era umano e con enfasi non eroico. Il miglior argomento in favore di Cromwell è che fu un uomo moderatamente sano in un'epoca assai insana. La sua opera migliore fu compiuta come moderatore e artefice di compromessi, non come iniziatore o ispiratore di entusiasmi. Salvò opere d'arte che i puritani più fanatici avrebbero distrutto, ma non possiamo raffigurarcelo come un grande mecenate dell'arte nel senso di un amico degli artisti. Insisteva che dovesse esserci una buona paga per i buoni soldati; ma non era il tipo d'uomo da essere una [[Romance|leggenda]] per i propri soldati, come Napoleone. Era uno squire inglese del Seicento la cui famiglia si era arricchita nel grande saccheggio; e moralmente non era peggiore della maggior parte dei suoi simili e forse migliore di molti di loro. Era certamente assai migliore di Federico il Grande, del quale Carlyle fece un [[Hero|eroe]] ancora più grande, e persino un dio.
+
+Il culto di Federico il Grande può a stento essere chiamato culto dell'[[Hero|eroe]]. È piuttosto un culto del demonio addolcito da un tocco di culto della scimmia. È superstizione e perciò eresia dire simili cose sul serio, ma possiamo dire simbolicamente che se un demonio potesse entrare nel [[Body|corpo]] di una scimmia il risultato potrebbe essere qualcosa di simile a Federico II di Prussia. Non solo è vero che aveva una grande mente e un'anima piccola, si potrebbe dire quasi altrettanto veramente che aveva un grande cervello e una mente piccola. Perfino il suo [[Pride|orgoglio]] intellettuale era meschino. Inoltre, era per un altro verso curiosamente simile a una scimmia. Era un imitatore. Come i vecchi mistici solevano dire che il diavolo era la scimmia di Dio, potremmo dire più letteralmente che Federico II era la scimmia di Luigi XIV. Ma proprio come la scimmia imita l'uomo senza comprendere l'uomo, proprio come la scimmia può copiare un'azione che non può comprendere, così il prussiano non aveva nulla della qualità nazionale e civile del francese. Sostituì una nuova impudenza e malignità all'ultima tradizione strascicata della cavalleria medievale e del diritto romano. Ma Carlyle doveva farne un [[Hero|eroe]], secondo la propria teoria dell'[[Heroism|eroismo]] del [[success|successo]]. Federico non aveva null'altro che il [[success|successo]] — nemmeno la capacità di goderselo.
+
+Ma quando ci siamo liberati di questa specie di culto dell'[[Hero|eroe]] possiamo davvero tornare agli eroi. Ci furono davvero eroi che furono personaggi storici, benché non fossero in generale uomini di successo. Più spesso il vero [[Hero|eroe]] fu un [[Tragic Hero|eroe tragico]]. Ma per quanto la sua vicenda fosse spesso una [[Tragedy|tragedia]] in quanto egli fallì, essa fu spesso un selvaggiamente impossibile [[Romance|romanzo]] negli attimi in cui trionfò. La cosa curiosa è che la [[history|storia]] reale è assai più romanzesca, e non meno romanzesca, di quanto Carlyle non la dipingesse. L'[[Hero|eroe]] può talvolta aver perduto la sua campagna, ma vinse le sue battaglie. E lo si può spesso vedere vincere le sue battaglie da solo, come il più leggendario dei cavalieri che si guadagna gli speroni. La cavalleria riuscì davvero a compiere le cose impraticabili, anche quando fallì nel compiere quelle pratiche. Possiamo divergere o essere dubbiosi sul [[success|successo]] ultimo o persino sul valore ultimo delle varie politiche perseguite in passato; ma nessuno può [[Doubt|dubitare]] del brivido e dell'entusiasmo e del [[Courage|coraggio]] della loro ricerca. L'unica parte davvero attendibile della [[history|storia]] è il [[Romance|romanzo]] che vi è.
+
+Per esempio, Goffredo di Buglione morì giovane, consumato da una febbre che in condizioni più igieniche sarebbe potuta esser guarita e sfibrato da un problema forse quasi insolubile. È una [[Tragedy|tragedia]] di tipo moderno; si può ben dire che la sua vita fu un fallimento; si potrebbe dire che le [[Crusades|Crociate]] furono un fallimento. Potremmo discutere se egli fosse un artefice, un costruttore, un uomo capace, o una qualsiasi delle descrizioni carlyliane. Perché quelle dipendono da elaborati risultati storici che sorgono più tardi; e la fine di ogni cosa arriva prima o poi. È discutibile se Richelieu fosse un uomo di successo, dal momento che la monarchia francese andò a picco nella [[French Revolution|Rivoluzione francese]]. È discutibile se Federico il Grande fosse un uomo di successo, dal momento che la [[Germany|Germania]] prussianizzata andò a picco nella Grande Guerra. Così è discutibile se Goffredo fosse un uomo di successo, dal momento che il Regno Latino di Gerusalemme andò a picco nel disastro di Hattin. Ciò che è del tutto indiscutibile è che Goffredo fu un [[Hero|eroe]] da [[Romance|romanzo]], un [[Hero|eroe]] del più selvaggio e improbabile [[Romance|romanzo]], un [[Hero|eroe]] che si comporta come si comportano gli eroi negli stravaganti romanzi di cavalleria. Ciò che è certo è che egli, il Comandante in Capo dell'intero sistema militare d'Europa in Oriente, si comportò davvero alla maniera di Dick l'Impavido tra i Pellirosse, o di Come un Mozzo delle Polveri Beffò i Pirati. È un freddo e concreto fatto che fu proprio lui il primo a balzare dalla torre d'assalto sulle torrette saracene, esattamente come il ragazzo fuggito per mare è il primo a balzare dalla sua nave da [[Ship|battaglia]] sul ponte della nave negriera. Tutta quella parte della faccenda che fu calcolo da statista può essere stata smentita oppure no. Tutta quella parte che fu come il sogno a occhi aperti di uno scolaretto si avverò.
+
+
+
+<span class="atom-split" data-atom="story_07_the_romance_of_history--part_02" data-title="The Glass Walking Stick — The Romance Of History (part 2)" data-chapter="The Romance Of History" data-kind="excerpt"></span>
+
+
+There are any number of other examples of the kind.
+Nelson is too near to us for us to be certain of the duration
+of his practical achievement; but the nearer we are to him
+the less [[Doubt|doubt]] we have of his purely poetical achievement.
+Near as he is to us, he is nearer still to the morning of the world,
+and has the colour and the clear outline that belongs to the primitive
+legends of the [[Dawn|dawn]].  We do not know how long the naval leadership
+of England will last, but we do know that the legend will last.
+We do not know how far aviation has altered everything or how far
+politicians would go in the direction of scrapping the British Navy.
+But we do know that Nelson could hardly have been a more mythical
+figure if he had flown upon wings; or that his [[Ship|ship]] might have been
+a fairy-[[Ship|ship]] and hardly shone more strangely on the storied sea.
+The things that are quite certain about Nelson are all the
+improbable things; that he died in the very hour of triumph;
+that he died on a vessel that bore the very name of victory;
+that he was shot through wearing the flaming [[Stars|stars]] with which he had
+just offered to die in [[Honour|honour]]--all the coincidences that would
+be called crude and far-fetched in a story.  They are the fancies
+that are considered a little too romantic for historical fiction.
+They are also the only fixed facts of [[history]].
+
+THE HERALDIC [[Lion|LION]]
+
+SIR THOMAS BROWNE was, as everybody knows, a medical man.
+He was a rather curious kind of medical man; and there are a great
+many points in which he presents a somewhat singular contrast
+to our doctors of today.  For instance, he wrote an eloquent and
+exhaustive work on urn-burial, churchyards, and [[Death|death]] generally;
+a subject which doctors are now understood to avoid.
+But in nothing is he so permanently interesting as in his relations
+with the remarkable zoology of his [[Time|time]].  His superb religious
+rhetoric and the whole literary side of him are obviously immortal.
+Nothing finer has ever been said about the [[Soul|soul]] than that phrase of
+Browne's that it is a thing in man ‘which owes no homage unto the sun'.
+But a more delicate defence is needed of his quaint science,
+and, indeed, of all the medieval science from which he drew his ideas.
+We know that his theology was true.  We know that his zoology was untrue;
+but do not let us too readily assume that it is therefore unimportant.
+The whole of that old, fantastic science is misunderstood.
+It made every creature rather a symbol than a fact.  But, then, it thought
+that all material facts were valuable as symbols of spiritual facts.
+It did not really very much mind whether the lion was a noble animal
+who spared virgins.  What it did want to make clear was that,
+if the lion was a noble animal, it would spare virgins.
+
+Let me take this example of what I mean.  Every modern person of
+intelligence can see quite easily that the heraldic lion is very different
+from the real lion.  But what we moderns do not quite realize is this:
+that the heraldic lion is much more important than the real lion.
+Words positively fail me to express the unimportance of the real lion.
+The real lion is a large, hairy sort of cat that happens to be living
+(or rather happens to be dying) in useless deserts that we have
+never seen and never want to see; a creature that never did us
+any good, and, in our circumstances, cannot even do us any harm;
+a thing as trivial, for all our purposes, as the darkest
+of the deep-sea fishes or as the minerals in the moon.
+There is no earthly reason to suppose that he has any of the leonine
+qualities as we ordinarily understand them.  There is no ground
+for imagining that he is generous or heroic, or even proud.
+Some people who have fought him say that he is not even brave.
+He does not touch human life at any point at all.  You cannot turn him,
+as you can the ox, into a labourer:  nor can you turn him, as you
+can the dog, into a sportsman and a gentleman.  He can share neither
+our toils nor our pleasures:  you cannot harness a lion to a plough,
+nor can you, with a pack of lions, go hunting an elephant.
+He has no human interest about him.  He is not even good to eat.
+From the fringe of his mangy and overrated mane to the tip of his tail
+(with which, I understand, he hits himself in order to overcome
+the natural cowardice of his disposition), from his mane to his tail,
+I say, he is one mass of unimportance.  He is simply an overgrown
+stray cat.  And he is a stray cat that never comes into our street.
+He is living his commonplace existence in regions where no
+white man can live without going mad with monotony and heat.
+We have to put him in our museums and such places, just as we
+have to put tiny little chips of grey stone that look as if you
+could pick them up in the street, or homely-looking brown
+beetles at which no self-respecting child could look twice.
+But the only kind of lion that is of any earthly practical
+importance is the legendary lion.  He really is a useful thing
+to have about the place.  He holds up the shield of England,
+which would otherwise fall down, despite the well-meant efforts
+of the Unicorn, whose hoofs are deficient in a prehensile quality.
+The African lion does not matter to anyone.  But the British Lion,
+though he does not exist, does matter.  He means something;
+it is the only true object of existence to mean something; and the real
+African lion has never succeeded in meaning anything at all.
+The legendary lion, the lion that was made by man and not by Nature,
+he is indeed the king of beasts.  He is a great work of art, a great
+creation of the genius of man, like Rouen Cathedral or the Iliad.
+We know his character perfectly well, as we know the character of
+Mr Micawber, or many other persons who have never taken the trouble
+to exist in a mere material way.  His virtues are the virtues of a
+grand European gentleman; there is nothing African about his ethics.
+He has the sense of the sanctity and dignity of death which is
+behind so many of our ancient rites.  He will not touch the dead.
+He has that strange worship of a bright and proud chastity
+which is the soul of our Europe, in Diana, in the Virgin Martyrs,
+in Britomart, which left a single white star in the sensual storms
+of the Elizabethan Drama, and which is reconquering the world in its
+new form--the worship of children.  The lion will not hurt virgins.
+In an innumerable number of the old legends and poems you will find
+the description of the refusal of some eminent lion to touch some
+eminent young lady.  Some say that this sense of delicacy is mutual;
+and that young ladies also refuse to touch lions.  This may be true:
+but even if it is true it probably only applies to the lower or
+actual lion, the mere lion of Africa, a negligible creature whom we
+have already dismissed to wander in his deserts, deserts which are
+as futile as himself and which form the dustbin of the universe.
+The valuable lion, we have agreed, is a creature made entirely by man,
+like the chimaera and the hippogriff, the mermaid and the centaur,
+the giant with a hundred eyes, and the giant with a hundred hands.
+The lion on one side of the royal shield is as fabulous as
+the unicorn on the other side.  In so far as he is not merely
+fantastic and impossible, he consists of all the aggregate
+good qualities of a kind of super-celestial country gentleman.
+The heraldic lion is fading, I fear, upon our escutcheons.
+He still swings valiantly, how ever, over certain places of
+entertainment where so many of the kindlier traditions of our
+ancient civilization have taken refuge.  If you see the Red Lion,
+which should be on the shield of a knight, painted only on the
+signboard of an inn, remember all the great truths that you have
+read in this article; remember that this heraldic lion on the sign
+is the symbol of all that has lifted our Christian civilization
+into life and energy and honour--magnanimity, valour, a disdain
+of easy victories, a scorn for all the scorners of the weak.
+The heraldic lion has, perhaps, sprawled rather too widely
+over this article.  A great many other examples might be taken.
+The heraldic leopard is not without his good points.
+The dog-headed men in Africa were full of interest;
+nor must we forget Jehan de Mandeville's memorable description
+of a hippopotamus, that it was ‘half man and half [[Horse|horse]]'.
+That is what may be called an impressionist or symbolist [[Sketch|sketch]] of it;
+it avoids teasing details, and gives a sense of mass and atmosphere.
+I have often looked at the hippopotamus in his cage at the
+Zoological Gardens, and wondered which part of his appearance or
+physiognomy impressed the incisive Mandeville as being contributed
+by some human person of his acquaintance.  Had he seen a very human class
+of hippopotamus, or had he mixed with a hippopotamic class of men?
+But the general remarks which I have made about the medieval [[Lion|lion]],
+the heraldic [[Lion|lion]], apply equally [[Well|well]] to all these other medieval
+monstrosities or combinations.  They were all fictitious.
+They were all entirely different from and independent of,
+the living creature upon which they were supposed to be modelled.
+And those who wrote about them and talked about them, and gravely
+disputed about all their characteristics, physical, mental,
+and moral, were, at the [[Bottom|bottom]] of their hearts and the back of
+their minds, totally indifferent to whether they were true or not.
+The Middle Ages were full of [[logic]].  And [[logic]] in its examples
+and symbols is in its [[Nature|nature]] entirely indifferent to fact.
+It is as easy to be logical about things that do not exist as
+about things that do exist.  If twice three is six, it is certain
+that three men with two legs each will have six legs between them.
+And if twice three is six, it is equally certain that three
+men with two heads each will have six heads between them.
+That there never were three men with two heads each does not
+invalidate the [[logic]] in the least.  It makes the deduction impossible,
+but it does not make it illogical.  Twice three is still six,
+whether you reckon it in pigs or in flaming dragons, whether you
+reckon it in cottages or in castles-in-the-air. And the object
+of all this great medieval and [[Renaissance]] science was simply
+to find everywhere and anywhere examples of its [[philosophy]].
+If the hippopotamus illustrated the idea of justice, [[Well|well]] and good;
+if it did not, so much the worse for the hippopotamus.
+These ancients sought to make the brutes the mere symbol of the man.
+Some moderns seek to make Man a mere symbol of the brutes.  These old
+scientists were only interested in the human side of the beasts.
+Some new scientists are only interested in the beastly side of the men.
+Instead of making the ape and tiger mere accessories to the man,
+they make man a mere accessory, a mere afterthought to the ape and tiger.
+Instead of employing the hippopotamus to illustrate their [[philosophy]],
+they employ the hippopotamus to make their [[philosophy]], and the great
+fat books he writes you and I, please God, will never read.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vi è un numero qualsiasi di altri esempi del genere. Nelson è troppo vicino a noi perché possiamo essere certi della durata della sua realizzazione pratica; ma quanto più gli siamo vicini, tanto meno [[Doubt|dubbio]] abbiamo della sua realizzazione puramente poetica. Vicino com'è a noi, egli è ancor più vicino al mattino del mondo, e ha il colore e il netto contorno che appartengono alle leggende primitive dell'[[Dawn|alba]]. Non sappiamo quanto durerà la supremazia navale dell'Inghilterra, ma sappiamo che la leggenda durerà. Non sappiamo fino a che punto l'aviazione abbia mutato ogni cosa, o fino a che punto i politici si spingerebbero nel rottamare la Marina britannica. Ma sappiamo che Nelson difficilmente avrebbe potuto essere una figura più mitica se avesse volato su ali; o che la sua [[Ship|nave]] avrebbe potuto essere una [[Ship|nave]] fatata e a stento avrebbe brillato più stranamente sul mare delle leggende. Le cose del tutto certe su Nelson sono tutte cose improbabili: che morì nell'ora stessa del trionfo; che morì su un vascello che portava il nome stesso della vittoria; che fu colpito mentre indossava le fiammeggianti [[Stars|stelle]] con le quali si era appena offerto di morire in [[Honour|onore]] — tutte le coincidenze che in una storia sarebbero dette rozze e forzate. Sono le invenzioni che si considerano un po' troppo romanzesche per la narrativa storica. E sono anche gli unici fatti fissi della [[history|storia]].
+
+IL [[Lion|LEONE]] ARALDICO
+
+Sir Thomas Browne era, come tutti sanno, un medico. Era un medico di specie piuttosto curiosa; e vi sono moltissimi punti in cui offre un contrasto alquanto singolare rispetto ai nostri dottori di oggi. Per esempio, scrisse un'opera eloquente ed esaustiva sulla sepoltura nelle urne, sui cimiteri e sulla [[Death|morte]] in generale; un argomento che i dottori sono ora ritenuti evitare. Ma in nulla è così durevolmente interessante quanto nelle sue relazioni con la notevole zoologia del suo [[Time|tempo]]. La sua superba retorica religiosa e tutto il lato letterario di lui sono evidentemente immortali. Nulla di più bello è mai stato detto sull'[[Soul|anima]] di quella frase di Browne, che essa è una cosa nell'uomo «che non deve omaggio al sole». Ma occorre una difesa più delicata della sua bizzarra scienza, e, in verità, di tutta la scienza medievale da cui egli trasse le sue idee. Sappiamo che la sua teologia era vera. Sappiamo che la sua zoologia era falsa; ma non assumiamo troppo prontamente che essa sia perciò irrilevante. Tutta quella vecchia, fantastica scienza è fraintesa. Faceva di ogni creatura un simbolo più che un fatto. Ma, allora, riteneva che tutti i fatti materiali fossero preziosi in quanto simboli di fatti spirituali. Non le importava granché se il leone fosse un nobile animale che risparmiava le vergini. Ciò che voleva rendere chiaro era che, se il leone era un nobile animale, avrebbe risparmiato le vergini.
+
+Prendiamo questo esempio di ciò che intendo. Ogni persona moderna d'intelligenza può vedere assai facilmente che il leone araldico è assai diverso dal leone reale. Ma ciò che noi moderni non ci rendiamo del tutto conto è questo: che il leone araldico è assai più importante del leone reale. Le parole mi mancano positivamente per esprimere l'insignificanza del leone reale. Il leone reale è una grossa specie di gatto peloso che si trova a vivere (o piuttosto si trova a morire) in inutili deserti che non abbiamo mai visto né mai vorremo vedere; una creatura che non ci ha mai fatto alcun bene, e, nelle nostre circostanze, non può nemmeno farci alcun male; una cosa tanto insignificante, per tutti i nostri scopi, quanto il più oscuro dei pesci degli abissi o quanto i minerali sulla luna. Non c'è alcuna terrena ragione di supporre che egli abbia una qualsiasi delle qualità leonine come noi ordinariamente le intendiamo. Non c'è alcun fondamento per immaginare che egli sia generoso o eroico, o persino fiero. Alcuni che l'hanno combattuto dicono che non è neppure coraggioso. Non tocca la vita umana in alcun punto. Non puoi trasformarlo, come il bue, in un lavoratore: né puoi trasformarlo, come il cane, in uno sportivo e un gentiluomo. Non può condividere né le nostre fatiche né i nostri piaceri: non puoi aggiogare un leone a un aratro, né puoi, con una muta di leoni, andare a caccia d'elefanti. Non ha alcun interesse umano attorno a sé. Non è neppure buono da mangiare. Dalla frangia della sua rognosa e sopravvalutata criniera alla punta della sua coda (con cui, a quanto mi risulta, egli si percuote per vincere la naturale codardia della sua indole), dalla criniera alla coda, dico, egli è una sola massa di insignificanza. Non è che un gatto randagio troppo cresciuto. Ed è un gatto randagio che non viene mai nella nostra via. Vive la sua banale esistenza in regioni dove nessun uomo bianco può vivere senza impazzire di monotonia e di caldo. Dobbiamo metterlo nei nostri musei e simili luoghi, proprio come dobbiamo mettervi minuscole schegge di pietra grigia che sembrano tali da poterle raccogliere per strada, o dimessi scarabei bruni cui nessun bambino che si rispetti guarderebbe due volte. Ma l'unico genere di leone che abbia una qualche terrena importanza pratica è il leone leggendario. Egli è davvero una cosa utile ad aversi in giro. Regge lo scudo dell'Inghilterra, che altrimenti cadrebbe, malgrado gli sforzi ben intenzionati dell'Unicorno, i cui zoccoli difettano di qualità prensili. Il leone africano non importa a nessuno. Ma il Leone Britannico, benché non esista, importa. Significa qualcosa; è l'unico vero scopo dell'esistenza significare qualcosa; e il vero leone africano non è mai riuscito a significare alcunché. Il leone leggendario, il leone che fu fatto dall'uomo e non dalla Natura, egli è davvero il re degli animali. È una grande opera d'arte, una grande creazione del genio dell'uomo, come la Cattedrale di Rouen o l'Iliade. Conosciamo il suo carattere perfettamente bene, come conosciamo il carattere di Mr Micawber, o di molte altre persone che non si sono mai date la briga di esistere in un mero modo materiale. Le sue virtù sono le virtù di un grande gentiluomo europeo; non c'è nulla di africano nella sua etica. Egli ha il senso della santità e della dignità della morte che sta dietro tanti dei nostri antichi riti. Non toccherà i morti. Ha quello strano culto di una lucente e fiera castità che è l'anima della nostra Europa, in Diana, nelle Vergini Martiri, in Britomart, che lasciò una sola stella bianca nelle sensuali tempeste del Dramma elisabettiano, e che sta riconquistando il mondo nella sua nuova forma — il culto dei bambini. Il leone non farà del male alle vergini. In un numero innumerevole delle vecchie leggende e poesie troverete la descrizione del rifiuto di qualche eminente leone di toccare qualche eminente giovane dama. Alcuni dicono che questo senso di delicatezza sia reciproco; e che anche le giovani dame rifiutino di toccare i leoni. Questo può essere vero: ma anche se è vero probabilmente si applica soltanto al leone inferiore o reale, il mero leone d'Africa, una creatura trascurabile che abbiamo già congedato perché vaghi nei suoi deserti, deserti che sono futili quanto lui stesso e che formano la pattumiera dell'universo. Il leone di valore, abbiamo convenuto, è una creatura fatta interamente dall'uomo, come la chimera e l'ippogrifo, la sirena e il centauro, il gigante dai cento occhi, e il gigante dalle cento mani. Il leone su un lato dello scudo reale è tanto favoloso quanto l'unicorno sull'altro lato. Nella misura in cui non è semplicemente fantastico e impossibile, egli consiste nell'insieme aggregato delle buone qualità di una sorta di sovraceleste gentiluomo di campagna. Il leone araldico va sbiadendo, temo, sui nostri stemmi. Egli ancora si dondola valorosamente, tuttavia, sopra certi luoghi di svago dove tante delle più benevole tradizioni della nostra antica civiltà hanno trovato rifugio. Se vedete il Leone Rosso, che dovrebbe stare sullo scudo di un cavaliere, dipinto solo sull'insegna di una locanda, ricordate tutte le grandi verità che avete letto in questo articolo; ricordate che questo leone araldico sull'insegna è il simbolo di tutto ciò che ha sollevato la nostra civiltà cristiana in vita ed energia e onore — magnanimità, valore, sdegno delle facili vittorie, disprezzo per tutti coloro che disprezzano i deboli. Il leone araldico si è, forse, spanciato un po' troppo largamente sopra questo articolo. Si potrebbero prendere moltissimi altri esempi. Il leopardo araldico non è privo dei suoi pregi. Gli uomini dalla testa di cane in Africa erano pieni d'interesse; né dobbiamo dimenticare la memorabile descrizione dell'ippopotamo data da Jehan de Mandeville, che era «mezzo uomo e mezzo [[Horse|cavallo]]». Questo è ciò che si può chiamare uno [[Sketch|schizzo]] impressionistico o simbolista di esso; evita i particolari fastidiosi, e dà un senso di massa e di atmosfera. Ho spesso guardato l'ippopotamo nella sua gabbia ai Giardini Zoologici, e mi son chiesto quale parte del suo aspetto o della sua fisionomia impressionò l'incisivo Mandeville come apportata da qualche persona umana di sua conoscenza. Aveva visto una classe assai umana di ippopotamo, o si era mescolato a una classe ippopotamica di uomini? Ma le osservazioni generali che ho fatto sul [[Lion|leone]] medievale, il [[Lion|leone]] araldico, si applicano ugualmente [[Well|bene]] a tutte queste altre mostruosità o combinazioni medievali. Erano tutte fittizie. Erano tutte interamente diverse da, e indipendenti da, la creatura vivente sulla quale si supponeva fossero modellate. E coloro che scrivevano di esse e ne parlavano, e gravemente disputavano di tutte le loro caratteristiche, fisiche, mentali e morali, erano, in [[Bottom|fondo]] al cuore e nel retro della mente, totalmente indifferenti al fatto che fossero vere o no. Il Medioevo era pieno di [[logic|logica]]. E la [[logic|logica]] nei suoi esempi e simboli è per sua [[Nature|natura]] interamente indifferente al fatto. È altrettanto facile essere logici su cose che non esistono quanto su cose che esistono. Se due per tre fa sei, è certo che tre uomini con due gambe ciascuno avranno sei gambe fra loro. E se due per tre fa sei, è ugualmente certo che tre uomini con due teste ciascuno avranno sei teste fra loro. Che non ci siano mai stati tre uomini con due teste ciascuno non invalida minimamente la [[logic|logica]]. Rende la deduzione impossibile, ma non la rende illogica. Due per tre fa sempre sei, che tu lo conti in porci o in fiammeggianti draghi, che tu lo conti in casolari o in castelli in aria. E l'oggetto di tutta questa grande scienza medievale e [[Renaissance|rinascimentale]] era semplicemente trovare ovunque e dovunque esempi della propria [[philosophy|filosofia]]. Se l'ippopotamo illustrava l'idea di giustizia, [[Well|bene]], ottimo; se non la illustrava, tanto peggio per l'ippopotamo. Questi antichi cercavano di fare delle bestie il mero simbolo dell'uomo. Alcuni moderni cercano di fare dell'Uomo un mero simbolo delle bestie. Questi vecchi scienziati s'interessavano soltanto del lato umano delle bestie. Alcuni nuovi scienziati s'interessano soltanto del lato bestiale degli uomini. Invece di fare della scimmia e della tigre meri accessori dell'uomo, fanno dell'uomo un mero accessorio, un mero ripensamento della scimmia e della tigre. Invece di impiegare l'ippopotamo per illustrare la loro [[philosophy|filosofia]], impiegano l'ippopotamo per fabbricare la loro [[philosophy|filosofia]], e i grandi grassi libri ch'egli scrive io e voi, a Dio piacendo, non leggeremo mai.
+
+
+
+<span class="atom-split" data-atom="story_07_the_romance_of_history--part_03" data-title="The Glass Walking Stick — The Romance Of History (part 3)" data-chapter="The Romance Of History" data-kind="excerpt"></span>
+
+
+THE [[Court|COURT]] OF CAMELOT
+
+SOMEBODY recently asked me what I meant by a reference to the myth
+of [[Arthur]]; or, rather, a reference to the myth of the myth of [[Arthur]].
+For in my opinion it is only a modern myth that he is only an
+ancient one.  The chief difference between ancient and modern times seems
+to be that formerly legends grew very slowly and now they grow very fast.
+The old legends generally grew more slowly and always had a more
+historical basis; and it seems to me overwhelmingly probable
+that the story of [[King Arthur]] had a very solid historical basis.
+This must in a sense be mere guesswork, for I am not competent
+to judge of the details; but I think I am as competent as anyone
+else to judge of the theories, in the sense of seeing whether
+they hang together and are inherently probable and consistent.
+Now the theory that treats [[Arthur]] entirely as a fairy-tale seems
+to me more fantastic than any fairy-tale. It sometimes takes the form
+of saying that there was some prehistoric Celtic god or other who
+afterwards came to be described in more detail as a [[King|king]] in Camelot.
+I have never been very clear, by the way, about how this vague
+transition from divinity to humanity is supposed to present itself
+to human [[Nature|nature]].  A particular story of an incarnate god or a fallen
+angel one can imagine easily enough.  But I am a little confused
+about how the mere act of the Pimlico populace continually calling
+upon heaven in their human difficulties, would of itself become
+a story that a Mr Heaven had lived in a particular street in Pimlico.
+It seems rather more likely that a simple people would exaggerate a [[Hero|hero]]
+into a god, rather than deliberately diminish a god into a [[Hero|hero]].
+But this is something of a side issue and I do not insist on it.
+Anyhow, they say there must have been a Celtic god and doubtless
+there was; doubtless there were many Celtic gods--too many Celtic
+gods for a fastidious monotheistic taste.  I might respectfully
+inquire what had become of all the others; and why they have
+not all turned into Christian kings with orders of chivalry?
+And then the critics complete the confusion by saying, as a sort
+of after-thought, that [[Arthur]] may also have been the name of a [[King|king]],
+but implying that this can have nothing to do with the idea
+of [[King Arthur]].
+
+Now all this seems to me mythical in the worst sense;
+that it is concentrated on myths and wholly careless of [[history]].
+If we are studying a historical problem, it would be [[Well|well]] to begin
+with the historical part of it; and if we want to know more, it is
+best to grasp what we know already.  Now we do know as a historical
+fact that the beginning of the Dark Ages was a [[Time|time]] when the north
+west corner of the Roman Empire was ruined by barbarian invasions.
+We do know that those who successfully defended civilization
+everywhere became great legendary yet historic heroes and that in this
+respect the story of [[Arthur]] is just like the story of Alfred.
+There was certainly a legendary Alfred as [[Well|well]] as a historical Alfred;
+and every common-sense comparison would lead one to think
+there was a historical [[Arthur]] as [[Well|well]] as a legendary [[Arthur]].
+But the question is one of proportion; and the saving of Christendom
+by the heroes of the Dark Ages does seem to me a sufficient cause
+for so huge a legend:  the last trickle of tradition from some
+lost Welsh polytheism does not seem to me a sufficient cause.
+There are a dozen parallel cases of Christian heroes; there are
+not a dozen parallel cases of Welsh gods.
+
+Then we come to the old suggestion that [[Arthur]] was
+not [[Arthur]] but another person of the same name.
+Here again people seem to forget that a legend requires
+a story as [[Well|well]] as a name.  A legend is about something;
+it is not started by a word but by some true or false event.
+The earliest historical references to [[Arthur]] are references
+to what he did.  What he did was to defend Britain, as a
+Christian and civilized State, against the heathen invasion.
+The very first references to him deal with stories like
+that of the Battle of Mount Badon, in which [[Arthur]] drove
+the heathen before him and carried a holy image, some say
+on his shield and some on his shoulders.  If I remember right,
+William of Malmesbury, soon after the Norman Conquest,
+refers to [[Arthur]] not as a wild Welsh demigod or even a doubtful
+Welsh saint, but as a solid historical character whose name
+needs to be cleared from the later accretions of Welsh fancy.
+Now there is no [[Doubt|doubt]] at all that battles similar to the Battle
+of Mount Badon did in all sorts of countries stem or turn the tide
+of barbarism.  There is no [[Doubt|doubt]] whatever that when they did,
+they left an enormous impression on the imaginations of men,
+like a story of the [[deluge|Deluge]] or the Day of Judgement.
+If the result was a myth, it was like some myth about a man
+who had saved the sun and [[Stars|stars]].
+
+But there is another historical [[Truth|truth]] that is here forgotten.
+Many doubts about the [[Court]] of Camelot are founded on the notion
+that anything so far back in [[Time|time]] must itself have been barbaric.
+The [[Truth|truth]] is, that, if it was far enough back, it would almost
+certainly have been civilized.  It would have been in the last phase
+of the old Roman civilization.  The fallacy is like that of a man
+who should say at daybreak that if it was darker four hours before,
+it must have been darker still fourteen hours before.  He would forget
+that fourteen hours might bring him back into the previous day.
+And the fascination of this study of the Dark Ages is precisely
+that the darkness does hide a buried day; the last lost daylight
+of the great culture of antiquity.
+
+Much of the dullness of modern [[history]] came from the idea
+of progress.  For [[history]] must be progress reversed.
+If things have always automatically grown brighter
+and better, then to trace things backwards is to go further
+and further not only into darkness but into dullness.
+It is to go from gold to lead and from lead to mud;
+from beautiful novelties to dreary negations.  But, as a fact,
+these beautiful novelties have never appeared except when
+this negative theory of the past was itself negatived.
+They have come when people were quarrying in an older civilization,
+because it was more civilized than their own civilization.
+That is obviously what happened at the [[Renaissance]],
+but it happened in many cases where it is less obvious.
+I believe that the peculiar [[Magic|magic]] and mastery still belonging
+to the Arthurian story is largely due to the long period during
+which men looked back to Roman Britain as some thing more rich and
+subtle and artistic than the barbarous centuries that succeeded it.
+They were not wrong in believing that [[Arthur]] and Lancelot
+were more courtly and cultured than Hengist and Horsa.
+If [[Arthur]] and Lancelot existed at all, they almost certainly were.
+The same has been true, of course, ever since people began
+to study the medieval civilization with any intelligence.
+Some sentimentalists in the eighteenth century may have begun by
+thinking ruined abbeys (especially by moonlight) merely interesting
+as rugged and barbaric, ‘with shapeless sculpture decked'.
+But since we have begun to search out the scheme and science
+of medieval architecture, we have realized that it is the very
+reverse of barbaric, that it is especially organized and orderly.
+We have recognized that Gothic architecture was certainly
+not made by Goths; and that the shapeless sculpture was
+anything but shapeless, and had a very deliberate shape.
+But we do not remember that, as we have groped for an understanding
+of the medieval system, so the men of the Dark Ages may well
+have groped for an understanding of the old Roman system.
+And it is natural that the last monuments of it should have
+appeared enormous in the twilight; and one of these monuments
+was the memory of Arthur.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LA [[Court|CORTE]] DI CAMELOT
+
+Qualcuno di recente mi ha chiesto cosa intendessi con un riferimento al mito di [[Arthur|Artù]]; o, piuttosto, con un riferimento al mito del mito di [[Arthur|Artù]]. Perché, secondo me, è soltanto un mito moderno che egli sia soltanto un mito antico. La principale differenza tra i tempi antichi e i moderni pare essere che un tempo le leggende crescevano assai lentamente e ora crescono assai in fretta. Le vecchie leggende in genere crescevano più lentamente e avevano sempre un fondamento più storico; e mi pare schiacciantemente probabile che la storia di [[King Arthur|Re Artù]] avesse un fondamento storico assai solido. Questo, in un certo senso, non può che essere mera congettura, perché non sono competente a giudicare dei particolari; ma penso di essere competente quanto chiunque altro a giudicare delle teorie, nel senso di vedere se stanno insieme e sono intrinsecamente probabili e coerenti. Ora, la teoria che tratta [[Arthur|Artù]] interamente come una fiaba mi pare più fantastica di qualsiasi fiaba. Talora prende la forma di dire che vi fu un qualche preistorico dio celtico che in seguito venne descritto più in dettaglio come un [[King|re]] a Camelot. Non mi è mai stato molto chiaro, per inciso, come questa vaga transizione dalla divinità all'umanità si supponga si presenti alla [[Nature|natura]] umana. Una particolare storia di un dio incarnato o di un angelo caduto la si può immaginare abbastanza facilmente. Ma sono un po' confuso su come il mero atto della popolazione di Pimlico che continuamente invoca il cielo nelle sue difficoltà umane, diverrebbe di per sé una storia secondo cui un signor Cielo era vissuto in una particolare via di Pimlico. Pare piuttosto più probabile che un popolo semplice esagererebbe un [[Hero|eroe]] fino a farne un dio, piuttosto che deliberatamente sminuire un dio fino a farne un [[Hero|eroe]]. Ma questa è più o meno una questione secondaria e non insisto su di essa. Comunque, dicono che ci dev'essere stato un dio celtico e senza dubbio ci fu; senza dubbio ci furono molti dèi celtici — troppi dèi celtici per un gusto monoteistico schizzinoso. Potrei rispettosamente chiedere cosa ne fosse stato di tutti gli altri; e perché non si siano tutti tramutati in re cristiani con ordini di cavalleria. E poi i critici completano la confusione dicendo, come una sorta di ripensamento, che [[Arthur|Artù]] può anche essere stato il nome di un [[King|re]], ma lasciando intendere che questo non possa avere nulla a che fare con l'idea di [[King Arthur|Re Artù]].
+
+Ora, tutto ciò mi pare mitico nel senso peggiore; ossia che è concentrato sui miti e del tutto incurante della [[history|storia]]. Se stiamo studiando un problema storico, sarebbe [[Well|bene]] cominciare dalla parte storica di esso; e se vogliamo saperne di più, la cosa migliore è afferrare ciò che già sappiamo. Ora, sappiamo come fatto storico che l'inizio dei Secoli Bui fu un'epoca in cui l'angolo nord-occidentale dell'Impero Romano fu rovinato dalle invasioni barbariche. Sappiamo che coloro che difesero con successo la civiltà dappertutto divennero grandi eroi leggendari eppure storici e che a questo riguardo la storia di [[Arthur|Artù]] è proprio come la storia di Alfredo. Ci fu certamente un Alfredo leggendario oltre che un Alfredo storico; e ogni confronto di buon senso porterebbe a pensare che ci fu un [[Arthur|Artù]] storico oltre che un [[Arthur|Artù]] leggendario. Ma la questione è di proporzione; e la salvezza della Cristianità per opera degli eroi dei Secoli Bui mi pare una causa sufficiente per una leggenda così enorme: l'ultimo rivolo di tradizione di qualche perduto politeismo gallese non mi pare una causa sufficiente. Ci sono una dozzina di casi paralleli di eroi cristiani; non ci sono una dozzina di casi paralleli di dèi gallesi.
+
+Poi veniamo alla vecchia proposta che [[Arthur|Artù]] non fosse [[Arthur|Artù]] ma un'altra persona dello stesso nome. Anche qui la gente pare dimenticare che una leggenda richiede una storia oltre che un nome. Una leggenda parla di qualcosa; non è avviata da una parola ma da qualche evento vero o falso. I primi riferimenti storici ad [[Arthur|Artù]] sono riferimenti a ciò che egli fece. Ciò che egli fece fu difendere la Britannia, come Stato cristiano e civile, contro l'invasione pagana. I primissimi riferimenti a lui trattano di storie come quella della Battaglia del Monte Badon, in cui [[Arthur|Artù]] cacciò dinanzi a sé i pagani e portò una sacra immagine, alcuni dicono sullo scudo e alcuni sulle spalle. Se ricordo bene, Guglielmo di Malmesbury, poco dopo la conquista normanna, si riferisce ad [[Arthur|Artù]] non come a un selvaggio semidio gallese o persino a un dubbio santo gallese, ma come a un solido personaggio storico il cui nome ha bisogno di essere ripulito dalle successive incrostazioni della fantasia gallese. Ora non c'è alcun [[Doubt|dubbio]] che battaglie simili alla Battaglia del Monte Badon abbiano davvero, in ogni sorta di paesi, arginato o rovesciato la marea della barbarie. Non c'è [[Doubt|dubbio]] alcuno che, quando lo fecero, lasciarono un'enorme impressione sull'immaginazione degli uomini, come una storia del [[deluge|Diluvio]] o del Giorno del Giudizio. Se il risultato fu un mito, fu come un mito su un uomo che avesse salvato il sole e le [[Stars|stelle]].
+
+Ma c'è un'altra [[Truth|verità]] storica che qui è dimenticata. Molti dubbi sulla [[Court|Corte]] di Camelot si fondano sulla nozione che qualcosa di così remoto nel [[Time|tempo]] debba di per sé essere stato barbarico. La [[Truth|verità]] è che, se fu abbastanza remoto, sarebbe stato quasi certamente civile. Sarebbe stato nell'ultima fase dell'antica civiltà romana. La fallacia è come quella di un uomo che all'alba dicesse che se era più buio quattro ore prima, doveva essere ancor più buio quattordici ore prima. Egli dimenticherebbe che quattordici ore potrebbero riportarlo indietro nel giorno precedente. E il fascino di questo studio dei Secoli Bui è precisamente che l'oscurità cela un giorno sepolto; l'ultima luce perduta della grande cultura dell'antichità.
+
+Buona parte della tediosità della storia moderna venne dall'idea di progresso. Perché la [[history|storia]] dev'essere progresso a rovescio. Se le cose si sono sempre automaticamente fatte più luminose e migliori, allora rintracciarle a ritroso è andare sempre più addentro non solo nell'oscurità ma nella tediosità. È andare dall'oro al piombo e dal piombo al fango; da belle novità a squallide negazioni. Ma, di fatto, queste belle novità non sono mai apparse se non quando questa teoria negativa del passato fu essa stessa negata. Sono venute quando la gente scavava in una civiltà più antica, perché era più civile della propria civiltà. È ovviamente ciò che accadde al [[Renaissance|Rinascimento]], ma accadde in molti casi in cui è meno ovvio. Credo che il peculiare [[Magic|incanto]] e dominio che appartengono ancora alla storia arturiana siano in gran parte dovuti al lungo periodo durante il quale gli uomini guardarono indietro alla Britannia romana come a qualcosa di più ricco e sottile e artistico dei secoli barbari che le succedettero. Non avevano torto a credere che [[Arthur|Artù]] e Lancillotto fossero più cortesi e colti di Hengist e Horsa. Se [[Arthur|Artù]] e Lancillotto esistettero affatto, quasi certamente lo erano. Lo stesso è stato vero, naturalmente, da quando la gente ha cominciato a studiare la civiltà medievale con una qualche intelligenza. Alcuni sentimentali del Settecento possono aver cominciato col pensare le abbazie in rovina (specie al chiaro di luna) meramente interessanti in quanto rozze e barbare, «ornate d'informe scultura». Ma da quando abbiamo cominciato a scoprire lo schema e la scienza dell'architettura medievale, ci siamo resi conto che essa è l'esatto contrario del barbarico, che è specialmente organizzata e ordinata. Abbiamo riconosciuto che l'architettura gotica non fu certo fatta dai Goti; e che l'informe scultura era tutt'altro che informe, e aveva una forma assai deliberata. Ma non ricordiamo che, come noi abbiamo brancolato per giungere a una comprensione del sistema medievale, così gli uomini dei Secoli Bui possono ben aver brancolato per giungere a una comprensione dell'antico sistema romano. Ed è naturale che gli ultimi monumenti di esso dovessero apparire enormi nel crepuscolo; e uno di questi monumenti era la memoria di Artù.
+
+
+
+<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_01" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 1)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt"></span>
+
+
+WOLFE AND THE MIDSHIPMAN
+
+THERE are people in the world who really hate the heroic.
+Granted that there is an extravagance always tending to overrate
+human achievements, there is an extravagance of triviality also,
+tending to underrate achievement, to take pleasure in a change from
+the poetic to the prosaic.  That is why realistic novels are sometimes
+as interesting as romantic novels.  It is simply because realistic
+novels are quite as arbitrary and fantastic as romantic novels.
+In the romance the hero is always jumping and perpetually falls
+on his feet.  In the realistic story the hero is always plodding
+and perpetually falls on his nose.  But in ordinary life it
+is unusual either to alight on a distant crag or to fall flat
+over a too proximate door-scraper. The romancer collects every
+instance of a beautiful triumph; the realist selects every case
+of an ugly cropper; but the bias of the realist is as extreme
+and as unscrupulous as that of the wildest romantic fabulist.
+If you throw enough mud, some of it will stick, especially to
+that unfortunate creature Man, who was originally made of mud.
+A realistic novel is written by stringing together all the tag-ends
+of human life--all the trains we miss, all the omnibuses we run
+after without catching, all the appointments that miscarry,
+and all the invitations that are declined; all the wasted half-hours
+at Clapham Junction, and all the infant prodigies that grow up
+into stupid men; all the rainy days and all the broken engagements;
+all the Might-Have-Beens and all the Hardly Weres.  Realism is
+the art of connecting everything that is in its nature disconnected.
+But to do this properly a man must be a great artist and rather
+a good liar.
+
+There are, then, partisans of the prosaic.  They are not in the least
+facing life as it is:  life as it is, is almost too splendid--
+nay, too beautiful to be faced.  No man shall see life and live.
+They are making a special and personal selection, just as the aesthete
+or the optimist is making a special and personal selection.  They nose
+about for the meannesses of mankind.  They hunt for mortal humiliation.
+We know that they have this prosaic pugnacity in matters of fiction.
+But it is an interesting fact that they have it also about history.
+In history itself there is a school which may be called anti-romantic;
+and it is perpetually occupied in trying to explain away the many
+romances that have really happened.
+
+When I was a boy I was told that General Wolfe before the assault on
+Quebec had recited the great lines of Gray about glory and the grave,
+and declared he would rather have written them than take Quebec.
+The story is a fine one, full of the eighteenth-century feeling
+of stoicism and heathen happiness before death, of the kinship of arts
+and arms, and of the soldier's splendid contempt for mere soldiering.
+When I was a man I was told to put away this childish legend and I
+put it away.  It had been disproved.  Wolfe had never said anything
+of the sort.  And now, with a great jump, I read that the thing
+is substantially true after all.
+
+I will take this story of General Wolfe and Gray's Elegy as a working
+instance of the way that the historical sceptics do the trick.
+They will discredit a story for which there is excellent evidence
+on the ground of certain omissions or discrepancies in that evidence.
+But they never make the least reference to whether these are of the kind
+that occur in true stories or of the kind that occur in false.
+Some slips are obviously the slips of a liar; other confusions
+arise in honest narration, and in honest narration alone.
+Some blunders prove falsehood; other blunders prove truth.  Let us take
+this Quebec story and go into it a little.  The sceptics, it seems,
+begin by making the story manifestly ridiculous in order to deny it.
+‘Is it likely', they say, ‘that General Wolfe would have quoted
+Gray while he was leading his troops in deadly silence to surprise
+the French?'  Why, of course not; and nobody I ever heard of--
+certainly not I myself in my infancy--ever imagined that Wolfe talked
+about literature within earshot of the enemy; or selected the occasion
+of a steep and silent ascent to recite the whole of Gray's Elegy.
+Picture the soldiers crawling and clambering through the darkness
+hardly daring to pant too loud; and imagine the General putting his
+mouth to the ear of a midshipman and shouting in a hoarse whisper:
+
+The curfew tolls the knell of parting day.
+The lowing herd winds slowly o'er the lea,
+The ploughman homeward plods his weary way,
+And leaves the world to darkness and to me.
+
+Now fades the glimmering landscape on the sight--
+
+--and all the rest of the verses.  Of course Wolfe said it,
+if he ever said it at all, on some occasion previous
+to the actual assault--at some distance of time and place
+at which it was possible for people to speak out loud.
+Do the critics think that during the whole Canadian campaign
+the English soldiers conversed by talking on their fingers?
+
+Well, the popular story is that some time before the assault,
+perhaps on the previous day, Wolfe recited a good part of the Elegy
+(chiefly the part about ‘the paths of glory' and ‘the grave')
+to a midshipman named Robinson.  But, apparently, the only person
+who can be referred to was a Scotchman named Robison; which, of course,
+is a perfect example of the mistakes that only the truthful can make.
+Any ignorant Englishman, seeing the Scotch name Robison, might think
+it was merely a misprint for Robinson.  As it does not matter a rap
+to the story whether his name was Robinson or Rehoboam, of course men
+would tell the tale in its familiar form.  If there is in Westmorland
+a person whose name is spelt Smiph, he must not complain if he is
+turned into Smith in stories in which he is a secondary figure.
+If there is in North Cornwall a fine old family of Jomes, it will
+probably become Jones for the purposes of popular narrative.
+Those are things which are modified, not in order to complicate a fraud,
+but in order to simplify the truth.  And it is the whole case against
+the pedantic opponents of the romantic element in history that they
+do not seem able to distinguish between this instinctive omission
+of the irrelevant, which is simply the art of telling stories,
+and the introduction of ingenious and over-elaborate detail which
+is the whole art of telling lies.  If popular traditions change,
+it is rather by dropping things out than by putting things in.
+The story grows simpler through the ages, not more complex.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+WOLFE E IL GUARDIAMARINA
+
+Ci sono al mondo persone che odiano davvero l'eroico. Ammesso che vi sia una stravaganza sempre tendente a sopravvalutare le imprese umane, vi è anche una stravaganza della trivialità, tendente a sottovalutare l'impresa, a compiacersi di un passaggio dal poetico al prosaico. Ecco perché i romanzi realistici sono talvolta interessanti quanto i romanzi romantici. È semplicemente perché i romanzi realistici sono altrettanto arbitrari e fantastici dei romanzi romantici. Nel romanzo d'avventura l'eroe salta di continuo e ricade perpetuamente in piedi. Nel racconto realistico l'eroe arranca di continuo e ricade perpetuamente sul naso. Ma nella vita ordinaria è insolito sia atterrare su una rupe lontana sia stramazzare su un raschietto da scarpe troppo vicino. Il romanziere raccoglie ogni caso di bel trionfo; il realista seleziona ogni caso di brutto ruzzolone; ma la faziosità del realista è tanto estrema e tanto priva di scrupoli quanto quella del più sfrenato favolista romantico. Se si getta abbastanza fango, un po' ne resterà attaccato, specialmente a quella sventurata creatura che è l'Uomo, il quale fu originariamente fatto di fango. Un romanzo realistico si scrive infilando insieme tutti i mozziconi della vita umana — tutti i treni che perdiamo, tutti gli omnibus che rincorriamo senza prenderli, tutti gli appuntamenti che vanno a monte, e tutti gli inviti che vengono declinati; tutte le mezz'ore sprecate a Clapham Junction, e tutti i bambini prodigio che crescono diventando uomini stupidi; tutti i giorni di pioggia e tutti i fidanzamenti rotti; tutti i Sarebbe-Potuto-Essere e tutti gli A-Malapena-Furono. Il realismo è l'arte di connettere tutto ciò che è per sua natura sconnesso. Ma per farlo a dovere un uomo deve essere un grande artista e un discreto bugiardo.
+
+Ci sono, dunque, i fautori del prosaico. Non stanno affatto affrontando la vita così com'è: la vita così com'è è quasi troppo splendida — anzi, troppo bella per essere affrontata. Nessun uomo vedrà la vita e vivrà. Essi compiono una selezione speciale e personale, proprio come l'esteta o l'ottimista compie una selezione speciale e personale. Vanno fiutando le meschinità dell'umanità. Danno la caccia all'umiliazione mortale. Sappiamo che hanno questa combattività prosaica in materia di narrativa. Ma è un fatto interessante che l'abbiano anche riguardo alla storia. Nella storia stessa c'è una scuola che si potrebbe chiamare anti-romantica; ed è perpetuamente occupata a tentare di spiegare via i molti romanzi che sono realmente accaduti.
+
+Quando ero ragazzo mi si disse che il Generale Wolfe, prima dell'assalto a Quebec, aveva recitato i grandi versi di Gray sulla gloria e sulla tomba, e aveva dichiarato che avrebbe preferito averli scritti piuttosto che prendere Quebec. La storia è bella, colma del sentimento settecentesco di stoicismo e di pagana felicità dinanzi alla morte, della parentela tra le arti e le armi, e dello splendido disprezzo del soldato per il mero mestiere delle armi. Quando fui uomo mi si disse di riporre questa fanciullesca leggenda, e la riposi. Era stata smentita. Wolfe non aveva mai detto nulla del genere. E ora, con un gran balzo, leggo che la cosa è, dopotutto, sostanzialmente vera.
+
+Prenderò questa storia del Generale Wolfe e dell'Elegia di Gray come esempio pratico del modo in cui gli scettici della storia fanno il loro gioco di prestigio. Screditeranno una storia per la quale esistono ottime prove sulla base di certe omissioni o discrepanze in quelle prove. Ma non fanno mai il minimo cenno al fatto che queste siano del genere che ricorre nelle storie vere o del genere che ricorre in quelle false. Certe sviste sono palesemente le sviste di un bugiardo; altre confusioni sorgono nella narrazione onesta, e nella narrazione onesta soltanto. Certi abbagli provano la falsità; altri abbagli provano la verità. Prendiamo questa storia di Quebec ed esaminiamola un poco. Gli scettici, a quanto pare, cominciano col rendere la storia manifestamente ridicola allo scopo di negarla. «È verosimile», dicono, «che il Generale Wolfe avrebbe citato Gray mentre conduceva le sue truppe in mortale silenzio a sorprendere i Francesi?» Ma certo che no; e nessuno di cui io abbia mai sentito parlare — di sicuro non io stesso nella mia infanzia — immaginò mai che Wolfe parlasse di letteratura a portata d'orecchio del nemico; o scegliesse l'occasione di una salita ripida e silenziosa per recitare l'intera Elegia di Gray. Immaginate i soldati che strisciano e si arrampicano nell'oscurità, osando appena ansimare troppo forte; e figuratevi il Generale che accosta la bocca all'orecchio di un guardiamarina e grida in un rauco sussurro:
+
+Il coprifuoco suona il rintocco del giorno che si accomiata,
+la mandria muggente si snoda lenta per il prato,
+l'aratore torna arrancando stanco verso casa,
+e lascia il mondo alle tenebre e a me.
+
+Ora sul mio sguardo il paesaggio scintillante svanisce —
+
+— e tutto il resto dei versi. Naturalmente Wolfe lo disse, se mai lo disse, in qualche occasione precedente all'assalto vero e proprio — a una qualche distanza di tempo e di luogo in cui fosse possibile alla gente parlare ad alta voce. Credono forse i critici che, durante l'intera campagna canadese, i soldati inglesi conversassero parlando sulle dita?
+
+Ebbene, la storia popolare è che qualche tempo prima dell'assalto, forse il giorno precedente, Wolfe recitò buona parte dell'Elegia (soprattutto la parte sui «sentieri della gloria» e sulla «tomba») a un guardiamarina di nome Robinson. Ma, a quanto pare, l'unica persona a cui ci si può riferire era uno Scozzese di nome Robison; il che, naturalmente, è un perfetto esempio degli errori che solo i veritieri sanno commettere. Qualsiasi Inglese ignorante, vedendo il nome scozzese Robison, potrebbe pensare che fosse semplicemente un refuso per Robinson. Poiché non importa un fico alla storia se il suo nome fosse Robinson o Roboamo, naturalmente gli uomini racconterebbero la vicenda nella sua forma familiare. Se nel Westmorland c'è una persona il cui nome si scrive Smiph, non deve lamentarsi se viene trasformata in Smith nelle storie in cui è una figura secondaria. Se nella Cornovaglia settentrionale c'è una bella vecchia famiglia di nome Jomes, probabilmente diventerà Jones ai fini della narrazione popolare. Sono cose che vengono modificate, non per complicare una frode, ma per semplificare la verità. Ed è l'intero capo d'accusa contro i pedanti avversari dell'elemento romantico nella storia, che essi non sembrano capaci di distinguere tra questa istintiva omissione dell'irrilevante, che è semplicemente l'arte di raccontare storie, e l'introduzione di dettagli ingegnosi e troppo elaborati, che è l'intera arte di raccontare menzogne. Se le tradizioni popolari cambiano, è piuttosto per sottrazione di cose che per aggiunta. La storia si fa più semplice attraverso i secoli, non più complessa.
+
+
+
+<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_02" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 2)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt"></span>
+
+
+Then the massive sceptical mind moves on to the next great difficulty
+in the story.  Not only is it the awful truth that the midshipman
+Robinson was really Robison, but he was not really a midshipman.
+‘Robison was rated as a midshipman in accordance with the usual convention
+that gives every gentleman employed on a [[Ship|ship]] of war an official rank,
+as he was afterwards rated as a colonel when Professor of Mathematics
+in the C. Cadet Corps at St Petersburg.'  Now, these are very interesting
+facts, but the insistence on them seems again to betray a singular
+ignorance of the way in which an honest man tells a true story.
+A man says, ‘Wolfe said to a midshipman.'  He does not say,
+‘Wolfe said to a person rated as a midshipman in accordance with
+the usual convention that gives to every gentleman employed on a [[Ship|ship]]
+of war an official rank, as he was afterwards rated as a colonel
+when Professor of Mathematics in the C. Cadet Corps at St Petersburg.'
+I can quite imagine Mrs Nickleby telling the story in that way,
+but nobody else.
+
+It does not affect the story in the slightest degree whether
+Mr Robison was a midshipman, or a music-master, or a boot-black,
+or an Ethiopian [[King|king]], or a person rated as a midshipman
+in accordance with the usual convention which gives, &c. But
+it does affect that story that we should get to the story with
+some reasonable [[Speed|speed]] and hear what was said by Wolfe, the only
+person in whom we are interested at all.  Therefore, of course,
+the popular narrator said ‘midshipman', simply because one can
+say ‘midshipman' quicker than one can say ‘Jack Robinson'
+or ‘Jack Robison'.
+
+ABOUT [[Christianity|CHRISTIANITY]]
+
+A CURIOUS chance led me lately to stumble over an incident
+which happened some [[Time|time]] ago.  It was concerned with one
+of the most interesting men of our [[Time|time]]; and also one of the
+problems which are peculiar to our civilization and our [[Time|time]].
+I give the story as I heard it; it reflects on nobody,
+whether it is true or untrue.
+
+It seems that Mr Eric Gill, the distinguished sculptor, was engaged
+to erect a sculptural memorial for the League of Nations,
+expressing that need for Peace which is now the most direct
+and vital, not to say deadly, necessity, for all Christians
+and for all sane men.  Apparently he planned a design
+which involved a Christian symbol; and this was resisted,
+on the ground that non-Christians might not accept it.
+I suspect that it was not so much a question of the non-Christians
+outside Europe as of the Anti-Christians inside Europe.
+It is very unlike all the little I know of the intellectual
+leaders of those who follow Confucius or Buddha to object
+especially to a mystical emblem connected with [[Christ]];
+and nobody supposes that any [[Body|body]] except leaders and intellectuals
+has very much to say in such modern political problems.
+And as for [[Islam]], it is enough to say that [[Christ]] is already
+given at least as high a place by all Moslems as He is
+by many Modernists.
+
+What produces a practical embarrassment in this case is the sincere
+and savage hatred felt by many Europeans for the religion
+of their own European past.  And this interests me, simply as a
+historical comparison, because it is really a historical curiosity.
+It is a difficulty quite peculiar to Christendom.  There does not
+seem to have been anything like it in Paganism.  In the last phase
+of Paganism there was every sort of [[Doubt|doubt]]; there was every sort
+of denial; but there was not this particular sort of difficulty.
+The old gods were once perhaps really worshipped as gods; they were
+then enjoyed as legends; they were even treated lightly as jokes;
+but they were never hated as symbols.  There may have been a [[Time|time]],
+though I rather [[Doubt|doubt]] it, when people did actually believe that [[Apollo]]
+drove a golden chariot through the sky; but, anyhow, long after
+[[Apollo]] had become an abstraction, an [[Allegory|allegory]] of music or poetry,
+a tradition that nobody but the most remote rustics took
+quite seriously, there was most certainly no sculptor from one end
+of the Roman Empire to the other who would have felt any difficulty,
+or found any difficulty, in carving [[Apollo]] as driving a chariot.
+The heathens grew cold towards their religion, or even contemptuous
+of their religion, but they never had any irritation against it
+that could make them refuse to use its images, or its imagery,
+in the realm of [[Imagination|imagination]].
+
+There must have been multitudes of intellectuals,
+living on the tradition of Euripides or Lucian, who took
+even a bitter or mocking or pessimistic view of the gods;
+or simply thought there were no such things as gods in the world;
+but they would never have objected to gods as graven images.
+I never heard of any case of any heathen sceptics becoming iconoclasts;
+and going out and smashing the popular deities as a protest
+on behalf of abstract [[Truth|truth]].  They accepted the lyre of [[Apollo]]
+or the wand of Mercury, just as we still accept a Cupid on
+[[A Valentine|a Valentine]] or a nymph on a stone fountain.  We may say that
+the cupid has been vulgarized and is no longer truly a god.
+We may say that the nymph has met the gorgon, and been turned to stone.
+And they may have known in their hearts that their religion was dead.
+But because it was dead, they had even less [[Desire|desire]] to make
+exhausting efforts to kill it.  If [[Christianity]] were really one
+of the cults studied in comparative religion, if it were really,
+as its critics sometimes say, a thing made up of materials borrowed
+from Pagan ism, if it were really only the last myth or ritual
+of the long undying [[Death|death]] of the Roman Empire, then there is no
+reason why its symbolism should not be used forever by anybody;
+as the symbolism of nymphs and cupids is still used forever
+by anybody.  The real reason is that this religion does differ
+in one detail from all those ancient and beautiful religions.
+It is not dead.  Everybody knows in his heart that it is not dead;
+and none better than those who want it to die.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+A questo punto la massiccia mente scettica passa alla successiva grande difficoltà della storia. Non solo è la terribile verità che il guardiamarina Robinson fosse in realtà Robison, ma egli non era nemmeno davvero un guardiamarina. «Robison fu classificato come guardiamarina secondo la consueta convenzione che assegna a ogni gentiluomo imbarcato su una [[Ship|nave]] da guerra un grado ufficiale, così come in seguito fu classificato come colonnello quando divenne Professore di Matematica nel Corpo dei Cadetti C. a San Pietroburgo.» Ora, questi sono fatti assai interessanti, ma l'insistenza su di essi sembra tradire ancora una volta una singolare ignoranza del modo in cui un uomo onesto racconta una storia vera. Un uomo dice: «Wolfe disse a un guardiamarina.» Non dice: «Wolfe disse a una persona classificata come guardiamarina secondo la consueta convenzione che assegna a ogni gentiluomo imbarcato su una [[Ship|nave]] da guerra un grado ufficiale, così come in seguito fu classificato come colonnello quando divenne Professore di Matematica nel Corpo dei Cadetti C. a San Pietroburgo.» Posso benissimo immaginare la signora Nickleby raccontare la storia in quel modo, ma nessun altro.
+
+Non tocca minimamente la storia il fatto che il signor Robison fosse un guardiamarina, o un maestro di musica, o un lustrascarpe, o un [[King|re]] etiope, o una persona classificata come guardiamarina secondo la consueta convenzione che assegna, ecc. Ma tocca eccome quella storia il fatto che dovremmo arrivare alla storia con una ragionevole [[Speed|rapidità]] e udire ciò che fu detto da Wolfe, l'unica persona che davvero ci interessi. Perciò, naturalmente, il narratore popolare disse «guardiamarina», semplicemente perché si può dire «guardiamarina» più in fretta di quanto si possa dire «Jack Robinson» o «Jack Robison».
+
+A PROPOSITO DEL [[Christianity|CRISTIANESIMO]]
+
+UN curioso caso mi ha fatto di recente imbattere in un episodio accaduto qualche [[Time|tempo]] fa. Riguardava uno degli uomini più interessanti del nostro [[Time|tempo]]; e insieme uno dei problemi che sono peculiari della nostra civiltà e del nostro [[Time|tempo]]. Riporto la storia così come l'ho udita; non getta discredito su nessuno, che sia vera o falsa.
+
+Pare che il signor Eric Gill, l'insigne scultore, fosse stato incaricato di erigere un monumento scultoreo per la Società delle Nazioni, che esprimesse quel bisogno di Pace che è oggi la più diretta e vitale, per non dire letale, necessità per tutti i cristiani e per tutti gli uomini sani di mente. A quanto pare egli concepì un disegno che comprendeva un simbolo cristiano; e a ciò ci si oppose, con la motivazione che i non cristiani avrebbero potuto non accettarlo. Sospetto che non si trattasse tanto dei non cristiani fuori d'Europa quanto degli anticristiani dentro l'Europa. Mal si accorda con tutto il poco che so dei capi intellettuali di coloro che seguono Confucio o Buddha l'idea che essi obiettino in modo particolare a un emblema mistico legato a [[Christ|Cristo]]; e nessuno suppone che alcun [[Body|corpo]] all'infuori dei capi e degli intellettuali abbia granché da dire in simili problemi politici moderni. E quanto all'[[Islam]], basti dire che [[Christ|Cristo]] gode già, presso tutti i musulmani, di un posto almeno tanto alto quanto quello che gli attribuiscono molti modernisti.
+
+Ciò che in questo caso produce un imbarazzo pratico è l'odio sincero e feroce che molti europei nutrono per la religione del loro stesso passato europeo. E questo mi interessa, semplicemente come confronto storico, perché è davvero una curiosità storica. È una difficoltà del tutto peculiare alla cristianità. Nulla di simile pare esservi stato nel paganesimo. Nell'ultima fase del paganesimo c'era ogni sorta di [[Doubt|dubbio]]; c'era ogni sorta di negazione; ma non c'era questa particolare specie di difficoltà. Gli antichi dèi furono forse un tempo davvero adorati come dèi; poi furono goduti come leggende; furono persino trattati con leggerezza come barzellette; ma non furono mai odiati come simboli. Vi fu forse un [[Time|tempo]], per quanto ne [[Doubt|dubiti]] alquanto, in cui la gente credeva davvero che [[Apollo]] guidasse un carro d'oro attraverso il cielo; ma, comunque sia, molto tempo dopo che [[Apollo]] era divenuto un'astrazione, un'[[Allegory|allegoria]] della musica o della poesia, una tradizione che nessuno tranne i più remoti campagnoli prendeva del tutto sul serio, non vi fu di certo alcuno scultore da un capo all'altro dell'Impero Romano che avrebbe provato, o trovato, la minima difficoltà nello scolpire [[Apollo]] mentre guida un carro. I pagani si fecero freddi verso la loro religione, o persino sprezzanti verso di essa, ma non ebbero mai contro di essa alcuna irritazione tale da indurli a rifiutare di usarne le immagini, o l'immaginario, nel regno dell'[[Imagination|immaginazione]].
+
+Devono esserci state moltitudini di intellettuali, nutriti della tradizione di Euripide o di Luciano, che avevano degli dèi una visione persino amara o beffarda o pessimistica; o che semplicemente pensavano non esistessero al mondo cose come gli dèi; eppure non avrebbero mai avuto nulla da obiettare contro gli dèi in quanto immagini scolpite. Non ho mai udito di alcun caso di scettici pagani divenuti iconoclasti; usciti a fracassare le divinità popolari come protesta in nome della [[Truth|verità]] astratta. Accettavano la lira di [[Apollo]] o la verga di Mercurio, proprio come noi accettiamo ancora un Cupido su [[A Valentine|un biglietto di San Valentino]] o una ninfa su una fontana di pietra. Possiamo dire che il cupido è stato volgarizzato e non è più veramente un dio. Possiamo dire che la ninfa ha incontrato la gorgone, ed è stata tramutata in pietra. E forse essi sapevano in cuor loro che la loro religione era morta. Ma proprio perché era morta, avevano ancor meno [[Desire|desiderio]] di compiere sfibranti sforzi per ucciderla. Se il [[Christianity]] fosse davvero uno dei culti studiati nella religione comparata, se fosse davvero, come talora dicono i suoi critici, una cosa fatta di materiali presi in prestito dal paganesimo, se fosse davvero soltanto l'ultimo mito o rito della lunga [[Death|morte]] senza fine dell'Impero Romano, allora non vi sarebbe ragione perché il suo simbolismo non debba essere usato in eterno da chiunque; come il simbolismo delle ninfe e dei cupidi è ancora usato in eterno da chiunque. La vera ragione è che questa religione differisce, in un solo dettaglio, da tutte quelle antiche e belle religioni. Non è morta. Tutti sanno in cuor loro che non è morta; e nessuno lo sa meglio di coloro che vogliono che muoia.
+
+
+
+<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_03" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 3)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt"></span>
+
+
+The people arranging for the Peace Memorial of the League
+of Nations would not have the slightest objection to covering
+it with signs and symbols which were once religious.
+They would not object to a statue of Peace holding the olive branch
+like a statue of Minerva; they would not object to a symbolic
+figure of Sunrise which had the lyre or the horses of [[Apollo]];
+they would not be annoyed if somebody conceived womanhood under the form
+of [[Diana]] hunting or manhood under the form of Hercules at rest.
+All these things are now really an [[Allegory|allegory]].  And if Christians
+could accept so trifling a modernist modification of their view
+as to agree that [[Christianity]] is dead, they could safely go on using
+all their great historical and hagiological wealth of imagery
+and illustration; and nobody would object to ten thousand angels
+or a million martyrs or any number of crosses and haloes.
+But the ground of the resistance is that the whole modern comparison
+between the decline of Paganism and the decline of [[Christianity]]
+is false.  Paganism, in the historic sense of Polytheism,
+did decline once and for all.  [[Christianity]] has declined twenty times;
+but nobody who hated it was ever quite certain that it was dead.
+The rationalist historians of the nineteenth century found it
+easy to trace in a curve the rise and fall of a religion.
+They showed very lucidly, to their own satisfaction, that such
+a historical monstrosity was first a myth, and then a superstition,
+and then a tradition, and then an abstraction and an [[Allegory|allegory]].
+And what they wrote was largely true, if they had happened
+to be writing the [[history]] of Jupiter-Ammon. But as a [[history]] of
+post-Pagan Europe, commonly called Christendom, it is simply not true.
+It is not the story of something that ruled the whole world,
+as a pagan deity ruled the whole [[City|city]].  It is not the story
+of something which was lost when a man left his own [[City|city]],
+and enlarged his mind by considering the gods of other cities.
+It did not begin by being so powerful as Paganism; it never came
+to being so impotent as Paganism.  It was the story of some thing
+that was unsafe at its safest and living still at its lowest;
+something which is always coming out of the Catacombs and going
+back again; something that is never entirely acceptable when it appears;
+and never entirely forgotten when it disappears.
+
+It is this utterly unique and even unnatural vigilance that can [[Alone|alone]]
+explain a difficulty like that raised about the graven image of Peace.
+It is that even in proclaiming political peace it proclaims
+spiritual war.  Its things cannot be used as dead things to deck
+out any alien triumph; we will not be the [[skeleton]] at any pagan
+feast or the corpse for any scientific [[Body|body]]-snatching. But,
+quite apart from our various individual views on such questions
+of [[philosophy]], there remains a very practical problem of [[history]].
+These mysteries are the background of the modern European's past, just as
+those myths were the background of the most sceptical Pagan's past.
+And the matter can be put to a perfectly practical test.
+If you had told one of the last Greek sculptors that he must
+not represent anything out of the great Greek myths,
+he would probably have answered, ‘What shall I represent?'
+These things were the whole imagery of his imagination.
+If you tell an artist of the Christian culture, whatever his opinions,
+that he is to represent peace or charity or universal love
+by a familiar and obvious emblem--what is the poor devil to do?
+Pause and think of that point; for it is a perfectly practical point.
+What are the popular emblems of peace, if we are to cut out all
+that comes from myths or mysteries or the past?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Coloro che stanno predisponendo il Memoriale della Pace della Società
+delle Nazioni non avrebbero la minima obiezione a ricoprirlo
+di segni e di simboli che un tempo furono religiosi.
+Non avrebbero da obiettare a una statua della Pace che regge il ramoscello d'ulivo
+come una statua di Minerva; non avrebbero da obiettare a una figura
+simbolica dell'Aurora munita della lira o dei cavalli di [[Apollo]];
+non si sdegnerebbero se qualcuno raffigurasse la femminilità nella forma
+di [[Diana]] cacciatrice o la virilità nella forma di Ercole a riposo.
+Tutte queste cose ormai sono davvero un'[[Allegory|allegoria]]. E se i cristiani
+sapessero accettare una modificazione tanto insignificante della loro visione,
+di stampo modernista, da convenire che il [[Christianity|Cristianesimo]] è morto, potrebbero tranquillamente continuare a servirsi
+di tutta la loro grande ricchezza storica e agiografica di immagini
+e illustrazioni; e nessuno avrebbe da obiettare a diecimila angeli
+o a un milione di martiri o a un numero qualsiasi di croci e di aureole.
+Ma il fondamento della resistenza è che l'intero paragone moderno
+tra il declino del Paganesimo e il declino del [[Christianity|Cristianesimo]]
+è falso. Il Paganesimo, nel senso storico di Politeismo,
+declinò una volta per tutte. Il [[Christianity|Cristianesimo]] è declinato venti volte;
+ma nessuno di quanti lo odiavano fu mai del tutto certo che fosse morto.
+Gli storici razionalisti dell'Ottocento trovavano
+facile tracciare in una curva l'ascesa e la caduta di una religione.
+Dimostravano con grande lucidità, a loro piena soddisfazione, che un simile
+mostro storico fu dapprima un mito, poi una superstizione,
+poi una tradizione, e poi un'astrazione e un'[[Allegory|allegoria]].
+E ciò che scrivevano era in gran parte vero, se si fosse dato il caso
+che scrivessero la [[history|storia]] di Giove-Ammone. Ma come [[history|storia]] dell'
+Europa post-pagana, comunemente detta Cristianità, semplicemente non è vero.
+Non è la storia di qualcosa che dominò il mondo intero,
+come una divinità pagana dominava tutta la [[City|città]]. Non è la storia
+di qualcosa che si perdeva quando un uomo lasciava la propria [[City|città]],
+e allargava la mente considerando gli dèi di altre città.
+Non cominciò con l'essere potente come il Paganesimo; non giunse mai
+a essere impotente come il Paganesimo. Fu la storia di qualcosa
+che era malsicuro nella sua massima sicurezza e ancora vivo nel suo punto più basso;
+qualcosa che continuamente esce dalle Catacombe e vi torna
+dentro; qualcosa che non è mai del tutto accettabile quando appare;
+e mai del tutto dimenticato quando scompare.
+
+È questa vigilanza affatto unica e perfino innaturale che, essa [[Alone|sola]], può
+spiegare una difficoltà come quella sollevata a proposito dell'immagine scolpita della Pace.
+È che, pur proclamando la pace politica, essa proclama
+la guerra spirituale. Le sue cose non possono essere usate come cose morte per adornare
+un qualche trionfo altrui; non saremo lo [[skeleton|scheletro]] a nessun banchetto
+pagano né il cadavere per un qualsiasi trafugamento scientifico di [[Body|corpi]]. Ma,
+del tutto a prescindere dalle nostre diverse opinioni individuali su tali questioni
+di [[philosophy|filosofia]], resta un problema assai pratico di [[history|storia]].
+Questi misteri sono lo sfondo del passato dell'europeo moderno, proprio come
+quei miti erano lo sfondo del passato del più scettico dei Pagani.
+E la cosa può essere sottoposta a una prova perfettamente pratica.
+Se aveste detto a uno degli ultimi scultori greci che egli non
+doveva rappresentare nulla dei grandi miti greci,
+probabilmente avrebbe risposto: «E che cosa dovrei rappresentare?».
+Quelle cose erano tutto l'immaginario della sua fantasia.
+Se dite a un artista della cultura cristiana, quali che siano le sue opinioni,
+che deve rappresentare la pace o la carità o l'amore universale
+con un emblema familiare e ovvio, che cosa mai deve fare, poveraccio?
+Fermatevi a riflettere su questo punto; perché è un punto perfettamente pratico.
+Quali sono gli emblemi popolari della pace, se dobbiamo tagliar via tutto
+ciò che proviene dai miti o dai misteri o dal passato?
+
+
+
 <span class="atom-split" data-atom="story_09_st_george_for_england" data-title="The Glass Walking Stick — St George For England" data-chapter="St George For England" data-kind="story"></span>
 
 
@@ -5905,6 +7708,647 @@ Ma la trascuratezza di San Giorgio è un esempio di quella mancanza di rituale a
 Ma coloro che suggeriscono che la qualità remota e impersonale del San Giorgio storico spieghi l'indifferenza inglese verso di lui sanno poco dei santi patroni o della natura essenziale del culto dei santi. Il culto dei santi non è la stessa cosa del culto degli eroi; è una cosa assai meno pericolosa del culto degli eroi. Poiché il culto degli eroi significa generalmente l'assorbimento o la trasmutazione di una parte, almeno, delle proprie idee originarie di bontà, sotto il calore e l'ipnotismo di qualche personalità forte. Ma il culto dei santi, specialmente quando è il culto di santi dei quali sappiamo poco o nulla, è semplicemente il culto di quella tradizione di bontà nella quale il nome del santo è stato imbalsamato; e in quello stampo vuoto il nostro naturale idealismo può assai più facilmente essere versato. L'invocazione dei santi è assai meno idolatra dell'invocazione degli eroi storici alla maniera di Carlyle. Poiché dell'eroe santo si può ammirare soltanto la bontà, mentre dell'eroe si può giungere ad ammirare la malvagità. Dall'uomo della storia di cui sappiamo qualcosa si possono ricavare ogni sorta di pericolosi pregiudizi, sofismi e cattivi consigli. Dall'uomo di cui non sappiamo nulla non si può ricavare che un buon consiglio. Così, per prendere il San Giorgio storico: se tutto ciò che sappiamo di lui è che fu ucciso per le sue opinioni, quel fatto, considerato a dovere, è tanto sconvolgente da poterci mandare tutti a cantare in battaglia. Oppure si prenda piuttosto il San Giorgio leggendario, il quale è (quasi non occorre dirlo) assai più importante di quello reale. Così com'è, San Giorgio l'uccisore del drago sta dinanzi a noi semplicemente e sufficientemente come il simbolo del coraggio. Non sta, nelle nostre menti, connesso a nessuno di quei sciocchi epigrammi che i grandi uomini nella loro vecchiaia rivolgono alla gioventù male indirizzata. San Giorgio non disse mai ad alcuno quale fosse il suo «metodo» o quale fosse «il segreto della sua potenza». Non fece osservazioni, si limitò a uccidere il drago. Non disse che il drago era stato ucciso sui campi da gioco di Eton. Non disse di non aver mai incontrato un drago col quale non potesse concludere un affare. Non definì mai inevitabile la morte del drago; mentre combatteva il drago, aveva scoperto a fondo che non lo era affatto. Non disse mai che il modo per uccidere un drago fosse lavorare sodo nella prima giovinezza, o cominciare con due soldi al giorno, o evitare il tabacco, o conoscere la propria mente, o nessuno di quegli insulsi consigli. Poiché San Giorgio sapeva benissimo ciò che tutti i veri soldati sanno; che l'unico modo per avere anche solo una vaga probabilità di uccidere un drago è dare al drago una robusta occasione di uccidere te. E questo metodo, che è l'unico, è troppo sgradevole per essere discusso. Vedete, sto costruendo un carattere di San Giorgio a mio piacimento e capriccio. È proprio questo il senso e il vantaggio del santo sconosciuto. È per questo che il culto dei santi è tanto più libero del culto degli eroi.
 
 Io stesso penso che qualcosa potrebbe essere fatto dalla nazione inglese con la leggenda di San Giorgio e il Drago. Essa conserva ancora una presa persistente sul popolo in alcune contee, dove i mimi a Natale o a Pasqua recitano ancora un rozzo dramma nel quale il campione inglese vince il principio del male in singolar tenzone. In quasi tutte queste piccole recite rituali, per quanto ho notato, ricorre il medesimo episodio singolare e pittoresco. Voglio dire che quando l'arcinemico (talora il Drago, talora un Cavaliere Turco, talora qualche altra figura straniera) viene atterrato da San Giorgio, egli invoca sempre un medico. Un medico è sempre fornito dal vincitore cristiano, e il combattimento ricomincia. Questo episodio potrebbe significare moltissimo, se un qualche poeta inglese filosofasse la leggenda di San Giorgio, come Goethe filosofò la leggenda di Faust. Poiché è vero che il carattere cavalleresco e cristiano (che San Giorgio incarna) combatte con quello svantaggio del medico. Deve contendere insieme contro la spietatezza del suo nemico e la misericordia di se stesso. Ma di nuovo il dramma leggendario ha ragione quando fa vincere San Giorgio. Quando i cinici moderni (del tutto ignari del coraggio e, perciò, del tutto ignari della guerra) dicono che dobbiamo essere più brutali per essere efficienti, dimenticano che le civiltà più brutali sono le meno efficienti. Le nazioni orientali che torturano i loro prigionieri sono esse stesse prigioniere. I selvaggi che mangiano gli uomini non sembrano prosperarne. La nostra civiltà europea ha abbastanza difetti, ma nel complesso è la più misericordiosa ed è nel complesso la più forte. Poiché la mente che sa immaginare le sofferenze è la stessa che sa immaginare un nuovo cannone.
+
+
+
+<span class="atom-split" data-atom="story_10_the_national_anthem--part_01" data-title="The Glass Walking Stick — The National Anthem (part 1)" data-chapter="The National Anthem" data-kind="excerpt"></span>
+
+
+THE NATIONAL ANTHEM
+
+I SEE that there is a movement in many influential quarters
+for cutting out the best verse in the National Anthem.
+This is very typical of many of our ‘reforms' that arise out
+of a sense of refinement and not out of a sense of right.
+When I say the best verse, I mean the one that confounds the tricks
+of all the enemies of the State.  And I call it the best
+verse because, in a work that no one particularly praises or
+preserves for literary reasons, it is the most quaintly national,
+the most unique, the most sincere and vigorous, and by far
+the most democratic.  One does not hold up ‘God Save the King'
+as a poem like the ‘Mariners of England', any more than one
+holds up the picture of John Bull as something beautiful
+and [[Well|well]]-proportioned, like the St George of Donatello.
+The thing is a patriotic curiosity; and the most curious
+and patriotic part of it is exactly the part that these people
+want to cut out.  And, ethically, it is excellent.
+
+Confound their politics,
+Frustrate their knavish tricks,
+
+may not be very good poetry, but it is very good, sound
+Christian morals.  If there are any knavish tricks, I [[Hope|hope]] we
+all pray they may be frustrated.  And as for confounding politics,
+a good many of us have been in sympathy with the idea ever
+since we made a study of the ways of the confounded politicians.
+The poem does not define the people denounced, except in so
+far that they are the enemies of the [[King]], who is in all
+such symbolic [[songs]] made a symbol of the commonwealth.
+I happen to think that the [[King]]'s worst enemies often sit
+at his own Council-board, and that England's worst invaders
+and destroyers often have the high places in the senate;
+but all this does not prevent me from singing the anthem
+with heartiness and relish.
+
+What the refined people (confound their knavish tricks!)
+will not see is that, if you are loyal to anything and wish
+to preserve it, you must recognize that it has or might
+have enemies; and you must [[Hope|hope]] that the enemies will fail.
+The real insolence, if there were any, would lie in saying,
+‘God save the King'--in calling the Universal and Eternal to take
+care of a particular tribal chief on a trivial little island.
+But undoubtedly, if you have a right to ask God to save him,
+you have a right to ask God to frustrate those who seek
+to destroy him; the two sentences simply mean the same thing.
+The oblivion of so obvious a fact is only a part of that foolish
+forgetfulness of the real ethics of fighting which is equally
+perilous today, whether it takes its Jingo or its Pacifist form.
+Not only is the army the chief business of our processions;
+but processions seem to be considered the chief business of the army.
+From no point of view ought armaments to be ornaments.
+I have no respect for that chronic war-fever, or love of conquest, which
+(as the phrase goes) draws the sword and throws away the scabbard.
+But I have even less respect for that arrogant etiquette
+that keeps the scabbard when it has thrown away the sword.
+And among the results of this masquerade style of militarism is
+a neglect of the most naked and structural principles of fighting.
+
+Nothing is baser in our time than the idea that we can have
+special enthusiasms for things, so long as they are secure,
+without pledging ourselves to uphold them if they are ever
+in peril.  You cannot have a devotion that is not a boundary.
+You cannot have a boundary that is not a barricade.
+If you do not think mankind a sacred brother hood
+to be everywhere saluted and saved, then do not say so.
+But if you do say so, then you must certainly be ready to save
+it from sharks or tigers, from monsters or from microbes.
+If you do not think your nation a solid entity and a holy soil,
+then do not call it your nation.  But if you do, you must admit
+that it might be as much hated by others as it is loved by you.
+If it is really individual, it is just as likely to be hated
+as it is to be loved.
+
+There is another obvious moral ground upon which we should continue
+to ‘confound their politics'.  The refined people (confound, &c.)
+seem to think that there is something unpleasant and profane about making
+a war religious.  I should say that there ought to be no war except
+religious war.  If war is irreligious, it is immoral.  No man ought ever
+to fight at all unless he is prepared to put his quarrel before that
+invisible [[Court]] of Arbitration with which all religion is concerned.
+Unless he thinks he is vitally, eternally, cosmically in the right,
+he is wrong to [[Fire|fire]] off a pocket-[[Pistol|pistol]]. If he does think he is in
+the right, he is surely justified in praying that the right may prevail.
+The separation between war and the Church, like the separation
+between business and the Chapel, would only mean that the religion
+would grow much too thin, while the cynicism would grow much too fat.
+It would be a good thing if religion thought a little more about
+this world--and if politics thought a little more about the other.
+
+And lastly, no one seems to notice that this verse of the National Anthem
+(if my [[Memory|memory]] serves me right) is the only one that contains the popular
+note of [[Comradeship|comradeship]] as [[Well|well]] as the popular note of conflict.
+I quote from [[Memory|memory]], but I think the verse runs--
+
+O Lord, our God, arise,
+Scatter his enemies,
+And make them fall.
+Confound their politics,
+Frustrate their knavish tricks;
+On Thee our hopes we fix:
+God save us all.
+
+It is the only verse that begins with something like fine
+Biblical diction, as of a whirlwind rising.  It is the only
+verse that ends with a universal and democratic benediction.
+I do not [[Wonder|wonder]] that the Moderns want it removed.
+
+[[King|KING]] GEORGE IV
+
+I HAVE just been reading what is not only a very excellent [[Biography|biography]],
+but a very much-needed book.  It.  is a study of ‘George the Fourth'
+by Mr Shane Leslie.  It is in no sense what even shallow
+people would call a whitewashing of George IV, though it is
+the restoration of a blackened portrait.  It has not the tone
+of an advocate for the defence any more than for the prosecution.
+But it is a criticism of the critics of George.  And it is a very dam
+aging criticism too.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'INNO NAZIONALE
+
+VEDO che in molti ambienti influenti si va facendo strada un movimento per sopprimere la strofa migliore dell'Inno Nazionale. Ciò è quanto mai tipico di molte delle nostre «riforme» che nascono da un senso di raffinatezza e non da un senso del giusto. Quando dico la strofa migliore, intendo quella che manda a monte le trame di tutti i nemici dello Stato. E la chiamo la strofa migliore perché, in un'opera che nessuno loda o conserva in modo particolare per ragioni letterarie, essa è la più bizzarramente nazionale, la più singolare, la più sincera e vigorosa, e di gran lunga la più democratica. Non si esalta «God Save the King» come una poesia al pari dei «Mariners of England», così come non si esalta l'immagine di John Bull come qualcosa di bello e [[Well|ben]] proporzionato, al pari del San Giorgio di Donatello. La cosa è una curiosità patriottica; e la parte più curiosa e patriottica di essa è esattamente quella che costoro vogliono sopprimere. E, sul piano etico, è eccellente.
+
+Confondi la loro politica,
+Sventa le loro trame furfantesche,
+
+non sarà forse ottima poesia, ma è ottima e solida morale cristiana. Se ci sono trame furfantesche, io [[Hope|spero]] che tutti preghiamo affinché siano sventate. E quanto al confondere la politica, molti di noi sono stati in sintonia con l'idea fin da quando ci mettemmo a studiare i modi dei confondibili politicanti. La poesia non definisce le persone denunciate, se non in quanto sono i nemici del [[King|re]], il quale in tutti questi [[songs|canti]] simbolici è fatto simbolo dello Stato. Mi capita di pensare che i peggiori nemici del [[King|re]] siedano spesso al suo stesso Consiglio, e che i peggiori invasori e distruttori dell'Inghilterra occupino spesso gli alti seggi del senato; ma tutto ciò non mi impedisce di cantare l'inno con calore e gusto.
+
+Ciò che le persone raffinate (si confondano le loro trame furfantesche!) non vogliono vedere è che, se si è leali verso qualcosa e la si vuole conservare, bisogna riconoscere che essa ha, o potrebbe avere, dei nemici; e bisogna [[Hope|sperare]] che i nemici falliscano. La vera insolenza, se ve ne fosse, starebbe nel dire «Dio salvi il Re» — nel chiamare l'Universale e l'Eterno a prendersi cura di un particolare capotribù su un'insignificante isoletta. Ma senza dubbio, se si ha il diritto di chiedere a Dio di salvarlo, si ha il diritto di chiedere a Dio di mandare a monte coloro che cercano di distruggerlo; le due frasi significano semplicemente la stessa cosa. L'oblio di un fatto tanto ovvio non è che una parte di quella sciocca dimenticanza della vera etica del combattere, che è oggi ugualmente perigliosa, sia che assuma la forma bellicista sia che assuma quella pacifista. Non solo l'esercito è la principale faccenda delle nostre processioni; ma le processioni paiono considerate la principale faccenda dell'esercito. Da nessun punto di vista gli armamenti dovrebbero essere ornamenti. Non ho alcun rispetto per quella cronica febbre di guerra, o amore di conquista, che (come vuole il detto) sguaina la spada e getta via il fodero. Ma ho ancor meno rispetto per quella arrogante etichetta che tiene il fodero dopo aver gettato via la spada. E tra i risultati di questo stile da mascherata del militarismo v'è una trascuratezza dei più nudi e strutturali princìpi del combattere.
+
+Nulla è più vile ai nostri tempi dell'idea che si possano nutrire speciali entusiasmi per le cose, finché esse sono al sicuro, senza impegnarci a sostenerle qualora si trovino in pericolo. Non si può avere una devozione che non sia un confine. Non si può avere un confine che non sia una barricata. Se non ritieni l'umanità una sacra fratellanza da salutare e salvare ovunque, allora non dirlo. Ma se lo dici, allora devi di certo essere pronto a salvarla dagli squali o dalle tigri, dai mostri o dai microbi. Se non ritieni la tua nazione un'entità solida e un suolo sacro, allora non chiamarla la tua nazione. Ma se lo fai, devi ammettere che essa potrebbe essere odiata dagli altri tanto quanto è amata da te. Se è davvero individuale, ha altrettante probabilità di essere odiata quanto di essere amata.
+
+C'è un altro ovvio fondamento morale per cui dovremmo continuare a «confondere la loro politica». Le persone raffinate (si confondano, ecc.) paiono pensare che vi sia qualcosa di sgradevole e profano nel rendere religiosa una guerra. Io direi che non dovrebbe esservi guerra alcuna se non la guerra religiosa. Se una guerra è irreligiosa, è immorale. Nessun uomo dovrebbe mai combattere, se non è pronto a portare la sua contesa dinanzi a quell'invisibile [[Court|Corte]] d'Arbitrato di cui si occupa ogni religione. A meno che non pensi di essere vitalmente, eternamente, cosmicamente nel giusto, fa male a [[Fire|sparare]] anche solo un colpo di [[Pistol|pistola]] tascabile. Se invece pensa di essere nel giusto, è di certo giustificato nel pregare che il giusto prevalga. La separazione tra la guerra e la Chiesa, come la separazione tra gli affari e la Cappella, significherebbe soltanto che la religione si farebbe troppo esile, mentre il cinismo si farebbe troppo grasso. Sarebbe una buona cosa se la religione pensasse un po' di più a questo mondo — e se la politica pensasse un po' di più all'altro.
+
+E infine, nessuno pare notare che questa strofa dell'Inno Nazionale (se la [[Memory|memoria]] non mi inganna) è l'unica che contenga la nota popolare del [[Comradeship|cameratismo]] [[Well|come]] pure la nota popolare del conflitto. Cito a [[Memory|memoria]], ma credo che la strofa reciti così —
+
+O Signore, Dio nostro, sorgi,
+Disperdi i suoi nemici,
+E falli cadere.
+Confondi la loro politica,
+Sventa le loro trame furfantesche;
+In Te riponiamo le nostre speranze:
+Dio salvi tutti noi.
+
+È l'unica strofa che comincia con qualcosa di simile a una nobile dizione biblica, come di un turbine che si leva. È l'unica strofa che si chiude con una benedizione universale e democratica. Non mi [[Wonder|meraviglio]] che i Moderni la vogliano rimossa.
+
+[[King|RE]] GIORGIO IV
+
+HO appena finito di leggere quella che non è soltanto un'eccellente [[Biography|biografia]], ma anche un libro di cui c'era gran bisogno. È uno studio su «Giorgio IV» del signor Shane Leslie. Non è in alcun senso ciò che anche le persone superficiali chiamerebbero una riabilitazione di comodo di Giorgio IV, per quanto sia il restauro di un ritratto annerito. Non ha il tono di un avvocato della difesa più di quanto lo abbia dell'accusa. Ma è una critica ai critici di Giorgio. Ed è anche una critica assai schiacciante.
+
+
+
+<span class="atom-split" data-atom="story_10_the_national_anthem--part_02" data-title="The Glass Walking Stick — The National Anthem (part 2)" data-chapter="The National Anthem" data-kind="excerpt"></span>
+
+
+The truth is that poor George has been the victim of a prolonged effort
+of Propaganda.  It was partly Whig and partly Victorian propaganda.
+But because it went on for a very long time and enlisted many literary
+men of what may be called the Whig patronage, it has come to seem to
+many of my generation and the next a normal truth of English history.
+It is quite obvious that, long before we come to the really fine
+qualities of the man, even his ordinary qualities were caricatured
+in the most unscrupulous and scandalous fashion.  In weakness and in
+strength he was very much of a man--of what we call a man's man.
+He has not only been represented as a ladies' man--which perhaps he was;
+he has been talked of as a lady-killer almost in the literal sense
+of Bluebeard.  The truth is that George's conduct, while wrong
+by a Christian standard, was very far from being exceptionally wrong
+by the ordinary heathen standard of hundreds of such men of the world.
+Very few of those men have risked so much as he did for the one heroic
+love of his life; and, if he had risked more, he might well have been
+called a hero.  But he was not a hero; he was a very human being; a man,
+but not a monster.  Yet it certainly is as a monster, swollen, bloated,
+and abominable, that he haunted even our nurseries like a nightmare.
+
+A coincidence of two causes, I think, produced this lurid transformation
+and tradition.  The first was aristocratic and the second democratic;
+and together they turned both the Whig and the Radical against
+the King's memory.  The first was that he had been in every sense,
+and even remained in some sense, a Radical himself.  At least he was once
+a Liberal even with a large ‘L', and was always a liberal with a small
+one But he had changed sides in the ordinary party sense, and joined
+in the ordinary shuffling and inconsistency of the party system.
+The Whigs hated him for having been a Whig more than for being a Tory.
+But the aristocrats who had known him knew he was intelligent,
+knew he had understood what he was doing and what he was undoing His
+very intelligence let him in for a charge of intellectual treason.
+That was the sort of [[Monster|monster]] he was--a constitutional monarch
+who could not act for himself, and yet could think for himself.
+
+The second cause that coincides with this was the genuine
+popular legend of the pathos and [[innocence]] of [[Queen]] Caroline.
+Now about that the [[King]] may have been wrong, but he certainly
+was not inhumanly or inconceivably wrong; and the wrong
+certainly was not all on one side.  George was really wrong
+not in divorcing Caroline, but in marrying Caroline.
+In divorcing her, as a matter of fact, he was simply
+ceasing to be a bigamist.  For he was already married
+to a much better woman.  But the mob has a mysterious sort
+of power of hitting the right nail with the wrong hammer.
+George was very properly pelted for being false to his wife;
+only he was really being false to quite another wife.
+Anyhow, his popularity with posterity was killed by those two
+combining forces.  It was killed by the horror of the populace
+who knew nothing about him, and the [[Jealousy|jealousy]] of the gentry
+who knew too much about him.  But the [[Time|time]] has come when a more
+rational and reliable estimate can be made than was possible
+to the Whig tradition which Thackeray inherited from Macaulay;
+and with admirable wit, sympathy, and compact criticism,
+Mr Shane Leslie has made it.
+
+In [[Truth|truth]], there is a great deal to praise in George IV.  At any rate,
+there was a very great deal to praise in the Prince Regent.
+It was not entirely his fault if there was less to praise in
+the [[King]] than there had been in the Prince.  If ever a man's life
+was broken and brutally mismanaged by other people, it was his.
+His father was a [[Fool|fool]] who repeatedly relieved the monotony
+of that fact by becoming a lunatic.  If anything, he was quieter
+and less mischievous as a lunatic than he was as a [[Fool|fool]].
+He pestered and oppressed his children, and drove them into
+dark and devious ways.  Yet even here there is a good example
+of the way in which the world is unjust to the Prince Regent.
+It has often been repeated that he wanted his [[Child|child]] to be
+trained to be truthful, and admitted that he had fallen into
+lax ways in such matters, through the false position into
+which the old family tyranny had forced him in his youth.
+This is used as evidence against him--that he had himself confessed
+to being a liar.  But no real liar ever confesses to being a liar.
+The confession is not a proof of how false he was, but of how
+candid he was.
+
+He was forbidden by bigots and tyrants to call his wife his wife,
+and that is a situation which no man's sense of [[Honour|honour]] will
+ever perfectly survive.  It broke George's career across
+the middle; and the second half was a crippled thing.
+Yet even as a cripple he did things that the active and
+ambitious around him did not think of doing.  Mr Shane Leslie,
+among his many admirable phrases, uses one that is especially
+vivid and veracious; George had ‘a fierce streak of humanity'.
+His acts of mercy were abrupt, angry, and even militant.
+They had the flash of finality; they were absolute
+renunciations or abject apologies.  He was devoted to pugilism;
+but when a pugilist was killed in the ring at Brighton
+he took a vow never to see a prize-fight again.
+He had a profoundly Christian hatred of the callous spirit
+in the criminal law, which executes men as if by clockwork,
+and he paved the world with pardons for condemned men.
+He pardoned them not in a patronizing and facile fashion,
+as much meaner enemies have implied, but, on the contrary,
+with vigilance and vivid worry and a sort of insomnia
+of responsibility.  He sat up all night looking for a loophole
+in the law by which he could let some obscure criminal free.
+He took trouble in exactly the type of cases in which most men
+(especially men of his position) would never think of taking it.
+He happened to turn down a street where a man stood in pillory
+for a political offence--having, indeed, been put there by
+the police and the lawyers for a libel upon George himself.
+George was so much distressed at the thought that he might
+conceivably be supposed to have triumphed ungenerously over
+his slanderer that he wrote a personal letter apologizing
+for the ‘indelicacy' of his conduct.  A man moved in such a case
+to such an apology ought not to be called, merely with a sneer,
+the First Gentleman of Europe.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La verità è che il povero Giorgio è stato vittima di un prolungato sforzo di propaganda. Fu in parte propaganda whig e in parte vittoriana. Ma poiché durò a lungo e arruolò molti letterati di quello che si potrebbe chiamare il patronato whig, è giunta a sembrare a molti della mia generazione e della successiva una normale verità della storia inglese. È del tutto evidente che, molto prima di arrivare alle qualità davvero notevoli dell'uomo, persino le sue qualità ordinarie furono caricaturate nel modo più spregiudicato e scandaloso. Nella debolezza come nella forza egli era assai un uomo — di ciò che chiamiamo un uomo virile. Non solo è stato dipinto come un donnaiolo — cosa che forse era; è stato descritto come un rubacuori quasi nel senso letterale di Barbablù. La verità è che la condotta di Giorgio, per quanto sbagliata secondo un metro cristiano, era assai lontana dall'essere eccezionalmente sbagliata secondo l'ordinario metro pagano di centinaia di siffatti uomini di mondo. Ben pochi di quegli uomini hanno rischiato quanto lui per l'unico amore eroico della loro vita; e, se avesse rischiato di più, sarebbe ben potuto essere chiamato un eroe. Ma non fu un eroe; fu un essere assai umano; un uomo, ma non un mostro. Eppure è certamente come un mostro, gonfio, tumido e abominevole, che egli infestò persino le nostre stanze dei bambini come un incubo.
+
+Una coincidenza di due cause, credo, produsse questa lurida trasformazione e tradizione. La prima era aristocratica e la seconda democratica; e insieme rivolsero tanto il whig quanto il radicale contro la memoria del Re. La prima era che egli era stato, in ogni senso, e in un certo senso rimase, un radicale egli stesso. Quantomeno fu un tempo un Liberale persino con la «L» maiuscola, e fu sempre un liberale con quella minuscola. Ma aveva cambiato bandiera nel senso ordinario di partito, e si era unito all'ordinario tergiversare e all'incoerenza del sistema dei partiti. I whig lo odiavano per essere stato un whig più che per essere un tory. Ma gli aristocratici che lo avevano conosciuto sapevano che era intelligente, sapevano che aveva compreso ciò che faceva e ciò che disfaceva. La sua stessa intelligenza gli valse un'accusa di tradimento intellettuale. Ecco che sorta di [[Monster|mostro]] egli era — un monarca costituzionale che non poteva agire da sé, e tuttavia poteva pensare da sé.
+
+La seconda causa che coincide con questa era la genuina leggenda popolare del pathos e dell'[[innocence|innocenza]] della [[Queen|Regina]] Carolina. Ora, su quel punto il [[King|Re]] può aver avuto torto, ma di certo non ebbe torto in modo disumano o inconcepibile; e il torto di certo non fu tutto da una parte sola. Giorgio ebbe davvero torto non nel divorziare da Carolina, ma nello sposare Carolina. Divorziando da lei, in effetti, egli semplicemente cessava di essere un bigamo. Poiché era già sposato con una donna assai migliore. Ma la folla possiede una misteriosa specie di potere di colpire il chiodo giusto con il martello sbagliato. Giorgio fu, assai a proposito, bersagliato per essere stato infedele a sua moglie; solo che in realtà era stato infedele a tutt'altra moglie. Comunque sia, la sua popolarità presso i posteri fu uccisa da quelle due forze congiunte. Fu uccisa dall'orrore del popolino che non sapeva nulla di lui, e dalla [[Jealousy|gelosia]] della nobiltà che sapeva troppo di lui. Ma è giunto il [[Time|tempo]] in cui si può formulare una stima più razionale e affidabile di quanto fosse possibile alla tradizione whig che Thackeray ereditò da Macaulay; e con ammirevole arguzia, simpatia e compatta critica, il signor Shane Leslie l'ha formulata.
+
+In [[Truth|verità]], c'è moltissimo da lodare in Giorgio IV. In ogni caso, c'era moltissimo da lodare nel Principe Reggente. Non era interamente colpa sua se c'era meno da lodare nel [[King|Re]] di quanto ve ne fosse stato nel Principe. Se mai la vita di un uomo fu spezzata e brutalmente amministrata male da altri, fu la sua. Suo padre era uno [[Fool|sciocco]] che ripetutamente alleviava la monotonia di quel fatto diventando un pazzo. Semmai, era più tranquillo e meno molesto da pazzo di quanto lo fosse da [[Fool|sciocco]]. Tormentava e opprimeva i suoi figli, e li sospingeva per vie oscure e tortuose. Eppure anche qui v'è un buon esempio del modo in cui il mondo è ingiusto verso il Principe Reggente. Si è ripetuto spesso che egli volesse che il suo [[Child|figlio]] fosse educato a essere sincero, e ammise di essere caduto in abitudini rilassate in tali faccende, per via della falsa posizione in cui la vecchia tirannia familiare lo aveva costretto in gioventù. Ciò viene usato come prova contro di lui — che egli stesso avesse confessato di essere un bugiardo. Ma nessun vero bugiardo confessa mai di essere un bugiardo. La confessione non è una prova di quanto fosse falso, ma di quanto fosse candido.
+
+Gli fu proibito da bigotti e tiranni di chiamare sua moglie sua moglie, e quella è una situazione a cui il senso dell'[[Honour|onore]] di nessun uomo sopravviverà mai perfettamente. Spezzò a metà la carriera di Giorgio; e la seconda metà fu una cosa storpia. Eppure, persino da storpio, egli fece cose che gli attivi e gli ambiziosi attorno a lui non pensavano di fare. Il signor Shane Leslie, tra le sue molte ammirevoli frasi, ne usa una particolarmente viva e veridica; Giorgio aveva «una fiera vena di umanità». I suoi atti di misericordia erano bruschi, adirati e persino combattivi. Avevano il lampo della finalità; erano assolute rinunce o abiette scuse. Era devoto al pugilato; ma quando un pugile fu ucciso sul ring a Brighton fece voto di non assistere mai più a un incontro di boxe. Aveva un odio profondamente cristiano per lo spirito insensibile della legge penale, che giustizia gli uomini come se fosse un meccanismo a orologeria, e lastricò il mondo di grazie per i condannati. Li graziava non in maniera paternalistica e sbrigativa, come nemici assai più meschini hanno insinuato, ma, al contrario, con vigilanza e viva inquietudine e una sorta di insonnia della responsabilità. Restava sveglio tutta la notte in cerca di una scappatoia nella legge per cui potesse lasciar libero qualche oscuro criminale. Si dava pena esattamente nel tipo di casi in cui la maggior parte degli uomini (specie gli uomini della sua posizione) non penserebbe mai a darsene. Gli capitò di svoltare in una via dove un uomo era esposto alla gogna per un reato politico — essendovi stato messo, in verità, dalla polizia e dai legali per una calunnia contro Giorgio stesso. Giorgio fu tanto angosciato al pensiero che si potesse concepibilmente supporre che egli avesse trionfato senza generosità sul suo calunniatore, che gli scrisse una lettera personale scusandosi per l'«indelicatezza» della propria condotta. Un uomo spinto, in un caso simile, a scuse simili non dovrebbe essere chiamato, con un semplice sogghigno, il Primo Gentiluomo d'Europa.
+
+
+
+<span class="atom-split" data-atom="story_10_the_national_anthem--part_03" data-title="The Glass Walking Stick — The National Anthem (part 3)" data-chapter="The National Anthem" data-kind="excerpt"></span>
+
+
+George's liberality was anything but a mere party pose and the making
+of a cabal against his father.  He was liberal about the very things
+on which most party Whigs were not liberal at all--for instance,
+he sympathized with the point of view of the Irish.  If he could
+have come to the throne with his real wife as a [[Queen]], it is possible
+that the whole [[Tragedy|tragedy]] of a hundred years might have been averted.
+There are a great many good things that might have happened if the younger
+and more generous George could have become a normal and national [[King]].
+There is nothing that can be done now except do reasonable justice
+to his [[Memory|memory]]; and it was long before anybody thought of doing it.
+But nobody who reads Mr Shane Leslie's lively and pointed paragraphs
+has any excuse for thinking that Thackeray exhausted the subject or
+that there is no picture of George except in the cartoons of Gilray.
+He will know [[Well|well]] enough that the man who kept a complete set of
+Jane Austen in each of his houses, that he might read at any moment,
+was not a coarse and comic drunkard understanding nothing but bruisers
+and cock-fighting. He will know that the man who endangered his
+[[Crown|crown]] out of chivalrous devotion to a devout and religious woman
+was not an utterly selfish satyr whose very appetite was cold.
+He will know that the friend of Fox and Sheridan cannot possibly
+have been a mere dummy dressed up as a dandy; and that the man whom
+Canning and Castlereagh often thought too clever for them can hardly
+have been entirely a [[Fool|fool]].
+
+79
+
+[[King|KING]] EDWARD VII
+
+I
+
+ON the very [[Night|night]] that [[King]] Edward died, it happened that
+the present writer experienced some of those trivialities that
+can bring about one's head all the terrors of the universe.
+The shocking news was just loose in [[London]], but it had not
+touched the country where I was, when a [[London]] editor attempted
+to tell mc the [[Truth|truth]] by telephone.  But all the telephones
+in England were throbbing and thundering with the news;
+it was impossible to clear the line; and it was impossible
+to hear the message.  Again and again I heard stifled accents
+saying something momentous and unintelligible; it might have
+been the landing of the Germans or the end of the world.
+With the snatches of this strangled voice in my ears I went
+into the [[Garden|garden]] and found, by another such mystical coincidence,
+that it was a [[Night|night]] of startling and blazing [[Stars|stars]]--[[Stars|stars]] so
+fierce and close that they seemed crowding round the roof and
+tree-tops. White-hot and speechless they seemed striving to speak,
+like that voice that had been drowned amid the drumming wires.
+I know not if any reader has ever had a vigil with the same
+unreasoning sense of a frustrated [[Apocalypse|apocalypse]].  But if he has,
+he will know one of the immortal moods out of which legends
+rise and he will not [[Wonder|wonder]] that men have joined the notion
+of a comet with the [[Death|death]] of a [[King]].
+
+But besides this historic stroke, this fall of a national monument,
+there is also the loss of a personality.  Over and above
+the dark and half-superstitious suggestion that the fate of our
+country has turned a corner and entered a new epoch, there is
+the pathetic value of the human epoch that has just closed.
+The starting-point for all study of [[King]] Edward is the fact
+of his unquestionable and positive popularity.  I say positive,
+because most popularity is negative; it is no more than toleration.
+Many an English landlord is described as popular among
+his tenants, when the phrase only means that no tenant hates
+him quite enough to be hanged for putting a bullet in him.
+Or, again, in milder cases, a man will be called a popular
+administrator because his rule, being substantially successful,
+is substantially undisturbed; some system works fairly [[Well|well]]
+and the head of the system is not hated, for he is hardly felt.
+Quite different was the practical popularity of Edward VII.
+It was a strictly personal image and enthusiasm.  The French,
+with their talent for picking the right word, put it best
+when they described [[King]] Edward as a kind of universal uncle.
+His popularity in poor families was so frank as to be undignified;
+he was really spoken of by tinkers and tailors as if he were
+some gay and prosperous member of their own family.
+There was a picture of him upon the popular retina infinitely
+brighter and brisker than there is of any politician.
+There was something in him that appealed to those strange
+and silent crowds that are invisible because they are enormous.
+In connexion with him the few voices that really sound popular,
+sound also singularly loyal.  Since his [[Death|death]] was declared
+there have already been many written and spoken eulogies.
+
+If you dig deep enough into any ancient ceremony, you will find
+the traces of that noble truism called [[democracy]], which is not the latest
+but the earliest of human ideas.  Just as in the very oldest part
+of an English church you will unearth the level bricks of the Romans,
+so in the very oldest part of every royal or feudal form you will
+unearth the level laws of the Republic.  In that complex and loaded
+rite of Coronation, which [[King]] Edward underwent, there is distinct
+trace of the ancient idea of a [[King]] being elected like a President.
+The Archbishop shows the [[King]] to the assembled people and asks
+if he is accepted or refused.  Edward VII, like other modern Kings,
+went through a ritual election by an unreal mob.  But if it had been
+a real election by a real mob--he would still have been elected.
+That is the really important point for democrats.
+
+The largeness of the praise of [[King]] Edward in the popular legend
+was fundamentally due to this, that he was a leader in whom
+other men could see themselves.  The [[King]]'s interest in sport,
+good living, and Continental travel was exactly of the kind
+that every clerk or commercial traveller could feel in himself on
+a smaller scale and in a more thwarted manner.  Now, it emphatically
+will not do to dismiss this popular sympathy in pleasure
+as the mere servile or vulgar adoration of a race of snobs.
+To begin with, mere worldly rank could not and did not achieve
+such popularity for Ernest Duke of Cumberland or Alfred Duke
+of Edinburgh or even for the Prince Consort; and to go on with mere
+angry words like snobbishness is an evasion of the democratic test.
+I fancy the key to the question is this; that, in an age of prigs
+and dehumanized humanitarians, [[King]] Edward stood to the whole people
+as the emblem of this ultimate idea--that however extraordinary
+a man may be by office, influence, or talent, we have a right
+to ask that the extraordinary man should be also an ordinary man.
+He was more representative than representative [[government]];
+he was the whole theme of Walt Whitman--the average man enthroned.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La liberalità di Giorgio era tutt'altro che una semplice posa di partito e la macchinazione di una cabala contro il padre. Egli era liberale proprio riguardo a quelle cose sulle quali la maggior parte dei Whig di partito non era affatto liberale — per esempio, simpatizzava col punto di vista degli irlandesi. Se avesse potuto salire al trono con la sua vera moglie come [[Queen|Regina]], è possibile che l'intera [[Tragedy|tragedia]] di un secolo sarebbe stata evitata. Vi sono moltissime cose buone che avrebbero potuto accadere, se il più giovane e più generoso Giorgio avesse potuto diventare un [[King|Re]] normale e nazionale. Nulla si può fare ora se non rendere ragionevole giustizia alla sua [[Memory|memoria]]; e passò molto tempo prima che qualcuno pensasse a farlo. Ma nessuno che legga i vivaci e taglienti paragrafi del signor Shane Leslie ha alcuna scusa per credere che Thackeray abbia esaurito l'argomento, o che non esista alcun ritratto di Giorgio se non nelle vignette di Gilray. Saprà [[Well|bene]] abbastanza che l'uomo il quale teneva una raccolta completa di Jane Austen in ciascuna delle sue case, per poter leggere in qualunque momento, non era un ubriacone rozzo e comico che non capiva nulla se non di pugili e combattimenti di galli. Saprà che l'uomo il quale mise a repentaglio la sua [[Crown|corona]] per cavalleresca devozione verso una donna devota e religiosa non era un satiro del tutto egoista il cui stesso appetito era freddo. Saprà che l'amico di Fox e di Sheridan non può in alcun modo essere stato un semplice fantoccio agghindato da dandy; e che l'uomo il quale Canning e Castlereagh spesso ritennero troppo abile per loro difficilmente può essere stato interamente uno [[Fool|sciocco]].
+
+79
+
+[[King|RE]] EDOARDO VII
+
+I
+
+La [[Night|notte]] stessa in cui [[King|Re]] Edoardo morì, accadde che chi scrive sperimentasse alcune di quelle banalità che possono radunare attorno al proprio capo tutti i terrori dell'universo. La sconvolgente notizia si era appena diffusa a [[London|Londra]], ma non aveva ancora toccato la campagna dove mi trovavo, quando un redattore di [[London|Londra]] tentò di comunicarmi la [[Truth|verità]] per telefono. Ma tutti i telefoni d'Inghilterra pulsavano e tuonavano della notizia; era impossibile liberare la linea; ed era impossibile udire il messaggio. Ancora e ancora udii accenti soffocati dire qualcosa di grave e di inintelligibile; poteva essere lo sbarco dei tedeschi o la fine del mondo. Con i frammenti di quella voce strozzata negli orecchi uscii nel [[Garden|giardino]] e trovai, per un'altra simile mistica coincidenza, che era una [[Night|notte]] di [[Stars|stelle]] sorprendenti e fiammeggianti — [[Stars|stelle]] così fiere e vicine da sembrare accalcarsi attorno al tetto e alle cime degli alberi. Bianche di calore e mute, sembravano sforzarsi di parlare, come quella voce che era stata sommersa tra i fili tamburellanti. Non so se qualche lettore abbia mai vegliato con lo stesso irragionevole senso di un'[[Apocalypse|apocalisse]] frustrata. Ma se lo ha fatto, conoscerà uno di quegli stati d'animo immortali dai quali sorgono le leggende, e non si [[Wonder|stupirà]] che gli uomini abbiano unito l'idea di una cometa alla [[Death|morte]] di un [[King|Re]].
+
+Ma oltre a questo colpo storico, a questa caduta di un monumento nazionale, vi è anche la perdita di una personalità. Al di sopra e al di là della suggestione oscura e semi-superstiziosa che la sorte del nostro paese abbia svoltato un angolo ed sia entrata in una nuova epoca, vi è il patetico valore dell'epoca umana che si è appena chiusa. Il punto di partenza per ogni studio di [[King|Re]] Edoardo è il fatto della sua indiscutibile e positiva popolarità. Dico positiva, perché la maggior parte della popolarità è negativa; non è più che tolleranza. Molti proprietari terrieri inglesi vengono descritti come popolari tra i loro affittuari, quando la frase significa soltanto che nessun affittuario li odia tanto da farsi impiccare per avergli messo una pallottola addosso. Oppure, in casi più miti, un uomo verrà detto amministratore popolare perché il suo governo, essendo sostanzialmente riuscito, è sostanzialmente indisturbato; qualche sistema funziona abbastanza [[Well|bene]] e il capo del sistema non è odiato, poiché è appena avvertito. Ben diversa era la popolarità pratica di Edoardo VII. Era un'immagine e un entusiasmo strettamente personali. I francesi, col loro talento nello scegliere la parola giusta, lo espressero meglio quando descrissero [[King|Re]] Edoardo come una specie di zio universale. La sua popolarità nelle famiglie povere era così schietta da risultare indecorosa; si parlava davvero di lui, tra stagnini e sarti, come se fosse un allegro e prospero membro della loro stessa famiglia. Vi era sulla retina popolare un'immagine di lui infinitamente più luminosa e vivace di quella di qualsiasi uomo politico. Vi era in lui qualcosa che si rivolgeva a quelle strane e silenziose folle che sono invisibili perché sono enormi. In rapporto a lui le poche voci che suonano davvero popolari suonano anche singolarmente leali. Da quando la sua [[Death|morte]] fu dichiarata, vi sono già stati molti elogi scritti e pronunciati.
+
+Se si scava abbastanza a fondo in qualsiasi antica cerimonia, si troveranno le tracce di quel nobile truismo chiamato [[democracy|democrazia]], che non è la più recente ma la più antica delle idee umane. Proprio come nella parte più antica di una chiesa inglese si dissotterrano i mattoni ben livellati dei romani, così nella parte più antica di ogni forma regale o feudale si dissotterrano le leggi livellatrici della Repubblica. In quel complesso e carico rito dell'Incoronazione, che [[King|Re]] Edoardo affrontò, vi è una traccia distinta dell'antica idea di un [[King|Re]] eletto come un Presidente. L'Arcivescovo mostra il [[King|Re]] al popolo radunato e chiede se sia accettato o respinto. Edoardo VII, come gli altri Re moderni, passò attraverso un'elezione rituale da parte di una folla irreale. Ma se fosse stata un'elezione reale da parte di una folla reale — sarebbe stato eletto lo stesso. Questo è il punto davvero importante per i democratici.
+
+L'ampiezza della lode di [[King|Re]] Edoardo nella leggenda popolare era fondamentalmente dovuta a questo, che egli era un capo nel quale gli altri uomini potevano vedere se stessi. L'interesse del [[King|Re]] per lo sport, per il buon vivere e per i viaggi sul Continente era esattamente di quel genere che ogni impiegato o commesso viaggiatore poteva sentire in sé su scala minore e in modo più frustrato. Ora, non va assolutamente liquidata questa popolare simpatia per il piacere come la mera adorazione servile o volgare di una razza di snob. Anzitutto, il mero rango mondano non poté e non ottenne tale popolarità per Ernesto Duca di Cumberland o Alfredo Duca di Edimburgo, né persino per il Principe Consorte; e proseguire con mere parole rabbiose come snobismo è un'elusione della prova democratica. Immagino che la chiave della questione sia questa: che, in un'epoca di saccenti e di umanitari disumanizzati, [[King|Re]] Edoardo stava dinanzi all'intero popolo come l'emblema di questa idea ultima — che per quanto un uomo possa essere straordinario per carica, influenza o talento, abbiamo il diritto di chiedere che l'uomo straordinario sia anche un uomo comune. Egli era più rappresentativo del [[government|governo]] rappresentativo; era l'intero tema di Walt Whitman — l'uomo medio assiso in trono.
+
+
+
+<span class="atom-split" data-atom="story_10_the_national_anthem--part_04" data-title="The Glass Walking Stick — The National Anthem (part 4)" data-chapter="The National Anthem" data-kind="excerpt"></span>
+
+
+His reputation for a humane normality had one aspect in which he was
+a model to philanthropists.  Innumerable tales were told of his
+kindness or courtesy, ranging from the endowment of a children's
+hospital to the offer of a cigar, from the fact that he pensioned
+a match-seller to the mere fact that he took off his hat.
+But all these tales took the popular fancy all the more
+because he himself was the kind of man to share the pleasures
+he distributed.  His offer of a cigar was the more appreciated
+because he offered himself a cigar as [[Well|well]].  His taking off
+his hat was the more valued because he himself was by no means
+indifferent to decent salutations or discourteous slights.
+Philanthropists too frequently forget that pity is quite
+a different thing from sympathy; for sympathy means [[Suffering|suffering]]
+with others and not merely being sorry that they suffer.
+If the strong brotherhood of men is to abide, if they are not
+to break up into groups alarmingly like different species,
+we must keep this community of tastes in giver and received.
+We must not only share our bread, but share our hunger.
+
+[[King]] Edward was a man of the world and a diplomatist; but there
+was nothing of the [[aristocrat]] about him.  He had a just sense
+of the dignity of his position; but it was very much such
+a sense as a middle-class elective magistrate might have had,
+a [[Lord Mayor]] or the President of a Republic.  It was even in a
+sense formal, and the essence of aristocracy is informality.
+It is no violation of the political impartiality of the [[Crown]]
+to say that he was, in training and tone of mind, liberal.
+The one or two points on which he permitted himself a partisan
+attitude were things that he regarded as common-sense emancipations
+from mere custom, such as the Deceased Wife's Sister Bill.
+Both in strength and weakness he was inter national;
+and it is undoubtedly largely due to him that we have
+generally dropped the fashion of systematically and doggedly
+misunderstanding the great civilization of France.
+But the first and last thought is the same:  that there are
+millions in England who have hardly heard of the Prime Minister
+to whom [[King]] Edward was a picture of paternal patriotism;
+and in the dark days that lie before us it is, perhaps, just those
+millions who may begin to
+
+II
+
+The calamity of the [[King]]'s [[Death|death]] was unofficially
+acknowledged almost before it was officially acknowledged.
+The people were prompter in mourning than the officers of state
+in bidding them mourn.  The national mourning--taken as a whole,
+of course--is all the more universal for being irregular,
+all the more unanimous for being scrappy or even intermittent.
+Armies of retainers clad in complete black, endless processions
+of solemn robes and sable plumes, could not be a quarter
+so impressive as the cheap black band of a man in corduroys
+or the cheap black hat of a girl in pink and magenta.
+The part is greater than the whole.  Nevertheless, the formal
+side of funeral customs, as is right and natural, is already
+engaging attention.  Sir William Richmond, always prominent
+in any question of the relation of art to public life,
+has already sketched out a scheme of mortuary decoration
+so conceived as to avoid the inhuman monotony of black.
+He would have a sombre, but still rich, scheme of colour,
+of Tyrian purple, dim bronze, and gold.  Both artistically
+and symbolically, there is much that is sound in the conception.
+Indeed, Sir William Richmond, consciously or unconsciously,
+is in this matter following an ecclesiastical tradition.
+The world mourns in black, but the Church mourns in violet--
+one of the many instances of the fact that the Church is a much
+more cheerful thing than the world.  Nor is the difference
+an idle accident; it really corresponds by chasms of
+spiritual separation.  Black is dark with absence of colour;
+violet is dark with density and combination of colour;
+it is at once as blue as mid [[Night|night]] and as crimson as [[Blood|blood]].
+And there is a similar distinction between the two ideas of [[Death|death]],
+between the two types of [[Tragedy|tragedy]].  There is the [[Tragedy|tragedy]]
+that is founded on the worthlessness of life; and there
+is the deeper [[Tragedy|tragedy]] that is founded on the worth of it.
+The one sort of sadness says that life is so short that it
+can hardly matter; the other that life is so short that it
+matters for ever.
+
+But though in this, as in many other matters, it is religion [[Alone|alone]] that
+retains any tradition of a freer and more humane popular taste, it may
+[[Well|well]] be doubted whether in the present instance the existing popular
+taste should not be substantially gratified, or, at least, undisturbed.
+[[King]] Edward was not the kind of man in whose [[Honour|honour]] we should
+do even beautiful things that are in any sense eccentric.
+His sympathies in all such matters were very general sympathies;
+he stood to millions of people as the very incarnation of common-sense,
+social adaptability, tact, and a rational conventionality.
+His people delighted in the million snapshots of him in shooting-dress
+at a shooting-box, or in racing clothes at a race-meeting,
+in morning-dress in the morning or in evening-dress in the evening,
+because all these were symbols of a certain sensible sociability
+and readiness for everything with which they loved to credit him.
+For it must always be remembered in this connexion that masculine
+costume is different at root from feminine costume--different in its
+whole essence and aim.  It is not merely a question of the man dressing
+in dull colours or the woman in bright; it is a question of the object.
+A Life Guardsman has very splendid clothes; an artistic lady may
+have very dingy clothes.  But the point is that the Life Guard
+only puts on his bright clothes so as to be like other Life Guards.
+But the artistic lady always seeks to have some special, delicate,
+and exquisite shade of dinginess different from the dinginess
+of other artistic ladies.  Though gleaming with scarlet and steel,
+the Life Guard is really invisible.  Though physically, no [[Doubt|doubt]],
+of terrific [[Courage|courage]], he is morally cowardly, like nearly all males.
+Like the [[Insects|insects]] that are as green as the [[Leaves|leaves]] or the jackals that
+are as red as the [[Desert|desert]], a man generally seeks to be unseen by taking
+the colour of his surroundings, even if it be a brilliant colour.
+A female dress is a dress; a male dress is a uniform.  Men dress
+smartly so as not to be noticed; but all women dress to be noticed--
+gross and vulgar women to be grossly and vulgarly noticed,
+wise and modest women to be wisely and modestly noticed.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La sua fama di normalità umana ebbe un aspetto nel quale egli fu un modello per i filantropi. Innumerevoli aneddoti si raccontavano della sua gentilezza o cortesia, spaziando dalla fondazione di un ospedale per bambini all'offerta di un sigaro, dal fatto che concesse una pensione a una venditrice di fiammiferi al semplice fatto che si toglieva il cappello. Ma tutti questi racconti colpivano tanto più la fantasia popolare perché egli stesso era il tipo d'uomo capace di condividere i piaceri che distribuiva. La sua offerta di un sigaro era tanto più apprezzata perché offriva un sigaro [[Well|anche]] a se stesso. Il suo togliersi il cappello era tanto più stimato perché egli stesso non era affatto indifferente ai saluti dovuti o agli affronti scortesi. I filantropi troppo spesso dimenticano che la pietà è cosa assai diversa dalla simpatia; poiché simpatia significa [[Suffering|soffrire]] con gli altri e non semplicemente rammaricarsi che essi soffrano. Se la salda fratellanza degli uomini deve durare, se essi non devono disgregarsi in gruppi allarmantemente simili a specie diverse, dobbiamo conservare questa comunanza di gusti in chi dà e in chi riceve. Non dobbiamo soltanto condividere il nostro pane, ma condividere la nostra fame.
+
+[[King|Re]] Edoardo era un uomo di mondo e un diplomatico; ma non vi era nulla dell'[[aristocrat|aristocratico]] in lui. Aveva un giusto senso della dignità della sua posizione; ma era pressappoco quel senso che avrebbe potuto avere un magistrato elettivo della classe media, un [[Lord Mayor|Lord Sindaco]] o il Presidente di una Repubblica. Era persino, in un certo senso, formale, e l'essenza dell'aristocrazia è l'informalità. Non è alcuna violazione dell'imparzialità politica della [[Crown|Corona]] dire che egli era, per educazione e disposizione mentale, liberale. Gli uno o due punti sui quali si permetteva un atteggiamento di parte erano cose che considerava affrancamenti di buon senso dalla mera consuetudine, come la legge sul matrimonio con la sorella della moglie defunta. Sia nella forza sia nella debolezza egli era internazionale; ed è indubbiamente in gran parte per merito suo se abbiamo generalmente abbandonato la moda di fraintendere sistematicamente e ostinatamente la grande civiltà della Francia. Ma il primo e l'ultimo pensiero sono i medesimi: che vi sono milioni di persone in Inghilterra che a malapena hanno sentito nominare il Primo Ministro, per le quali [[King|Re]] Edoardo era un'immagine di patriottismo paterno; e nei giorni oscuri che ci attendono sono forse proprio quei milioni che potrebbero cominciare a
+
+II
+
+La sciagura della [[Death|morte]] del [[King|Re]] fu riconosciuta ufficiosamente quasi prima di essere riconosciuta ufficialmente. Il popolo fu più pronto nel lutto di quanto gli ufficiali di Stato lo fossero nell'invitarlo al lutto. Il lutto nazionale — preso nel suo insieme, s'intende — è tanto più universale per essere irregolare, tanto più unanime per essere frammentario o persino intermittente. Eserciti di servitori vestiti di nero completo, interminabili processioni di solenni paludamenti e di piume corvine, non potrebbero essere un quarto tanto impressionanti quanto l'economica fascia nera di un uomo in velluto a coste o l'economico cappello nero di una ragazza in rosa e magenta. La parte è più grande del tutto. Nondimeno, il lato formale delle usanze funebri, com'è giusto e naturale, sta già attirando l'attenzione. Sir William Richmond, sempre in prima fila in ogni questione del rapporto tra l'arte e la vita pubblica, ha già abbozzato uno schema di decorazione funeraria concepito in modo da evitare la disumana monotonia del nero. Egli vorrebbe uno schema di colore cupo, ma pur ricco, di porpora tiria, bronzo smorto e oro. Sia dal punto di vista artistico sia da quello simbolico, vi è molto di valido in questa concezione. Anzi, Sir William Richmond, consapevolmente o inconsapevolmente, segue in questa materia una tradizione ecclesiastica. Il mondo porta il lutto in nero, ma la Chiesa lo porta in violetto — uno dei tanti esempi del fatto che la Chiesa è cosa assai più lieta del mondo. Né la differenza è un ozioso accidente; essa corrisponde realmente ad abissi di separazione spirituale. Il nero è scuro per assenza di colore; il violetto è scuro per densità e combinazione di colore; è al tempo stesso azzurro come la mezza[[Night|notte]] e cremisi come il [[Blood|sangue]]. E vi è una simile distinzione tra le due idee di [[Death|morte]], tra i due tipi di [[Tragedy|tragedia]]. Vi è la [[Tragedy|tragedia]] fondata sull'inutilità della vita; e vi è la più profonda [[Tragedy|tragedia]] fondata sul suo valore. L'una sorta di tristezza dice che la vita è così breve da non poter quasi contare; l'altra che la vita è così breve da contare per sempre.
+
+Ma sebbene in questo, come in molte altre cose, sia la religione [[Alone|soltanto]] a conservare qualche tradizione di un gusto popolare più libero e più umano, si può [[Well|ben]] dubitare se nel caso presente il gusto popolare esistente non debba essere sostanzialmente assecondato, o almeno lasciato indisturbato. [[King|Re]] Edoardo non era il genere d'uomo in [[Honour|onore]] del quale si debbano fare persino cose belle che siano in qualche senso eccentriche. Le sue simpatie in tutte queste materie erano simpatie assai comuni; egli stava dinanzi a milioni di persone come l'incarnazione stessa del buon senso, dell'adattabilità sociale, del tatto e di una razionale convenzionalità. Il suo popolo si dilettava delle innumerevoli istantanee di lui in abito da caccia in un capanno di caccia, o in abiti da corsa a una riunione ippica, in abito da mattina al mattino o in abito da sera alla sera, perché tutti questi erano simboli di una certa assennata socievolezza e prontezza a ogni cosa che amavano attribuirgli. Poiché va sempre ricordato, a questo proposito, che il costume maschile è alla radice diverso dal costume femminile — diverso in tutta la sua essenza e nel suo fine. Non è semplicemente questione dell'uomo vestito di colori spenti o della donna di colori vivaci; è questione dell'obiettivo. Un soldato delle Life Guards ha abiti splendidissimi; una signora artistica può avere abiti smortissimi. Ma il punto è che il soldato delle Life Guards indossa i suoi abiti sgargianti soltanto per essere simile agli altri soldati delle Life Guards. La signora artistica invece cerca sempre di avere qualche particolare, delicata e squisita sfumatura di smortezza diversa dalla smortezza delle altre signore artistiche. Pur sfolgorante di scarlatto e d'acciaio, il soldato delle Life Guards è in realtà invisibile. Pur essendo fisicamente, senza [[Doubt|dubbio]], di terrificante [[Courage|coraggio]], è moralmente codardo, come quasi tutti i maschi. Come gli [[Insects|insetti]] che sono verdi come le [[Leaves|foglie]], o gli sciacalli che sono rossi come il [[Desert|deserto]], un uomo generalmente cerca di non essere visto assumendo il colore di ciò che lo circonda, anche se si tratta di un colore brillante. Un abito femminile è un abito; un abito maschile è una divisa. Gli uomini si vestono con eleganza per non essere notati; ma tutte le donne si vestono per essere notate — le donne grossolane e volgari per essere notate grossolanamente e volgarmente, le donne sagge e modeste per essere notate saggiamente e modestamente.
+
+
+
+<span class="atom-split" data-atom="story_10_the_national_anthem--part_05" data-title="The Glass Walking Stick — The National Anthem (part 5)" data-chapter="The National Anthem" data-kind="excerpt"></span>
+
+
+Now, of this [[Soul|soul]] in masculine ‘good form', this slight but
+genuine element of a manly modesty in conventions, the public
+made King Edward a typical and appropriate representative.
+They like to think of him appearing as a soldier among soldiers,
+a sailor among sailors, a Freemason at his Lodge, or a Peer
+among his Peers.  For this reason they even tolerated the comic
+idea of his being a Prussian Colonel when he was in Prussia;
+and they took a positive pleasure in the idea of his being
+a Parisian boulevardier when he was in Paris.  Since he was
+thus a public symbol of the more generous and fraternal uses
+of conventionality, we may be well content with a conventional
+scheme of mourning; especially when in this case, as in not a few
+other cases, the conventional merely means the democratic.
+King Edward's popularity was such a very popular kind
+of popularity that it would be rather more appropriate
+to make his funeral vulgar than to make it aesthetic.
+It is true that legend connects his name with two or three attempts
+to modify the ungainliness and gloom of our modern male costume;
+but he hardly insisted on any of them, and none of them
+was of a kind specially to satisfy Sir William Richmond.
+The aesthetes might perhaps smile on the notion of knee breeches;
+but I fear that brass buttons on evening coats would seem
+to them an aggravation of their wrong.  Even where King Edward
+was an innovator, he was an innovator along popular and
+well-recognized lines; a man who would have liked a funeral
+to be funereal, as he would have liked a bail to be gay.
+We need not, therefore, feel it so very inappropriate even
+if in the last resort the celebrations are in the most humdrum
+or even jog-trot style, if they satisfy the heart of the public,
+though not the eye of the artist.
+
+And yet again, in connexion with those aspects of the late King
+which may be and are approved on more serious and statesmanlike grounds
+(as, for instance, his international attitude towards peace),
+this value of a working convention can still be found.  It is easy
+to say airily, in an ethical textbook or a debating club resolution,
+that Spaniards should love Chinamen, or that Highlanders should suddenly
+embrace Hindus.  But, as men are in daily life, such brotherhood
+is corrupted and confused, though never actually contradicted.
+It is the fundamental fact that we are all men; but there
+are circumstances that permit us to feel it keenly and other
+circumstances that almost prevent us from feeling it at all.
+It is here that convention (which only means a coming together)
+makes smooth the path of primal sympathy, and by getting people,
+if only for an hour, to act alike, begins to make them feel alike.
+I have said much against aristocracy and 3iiall continue to do so,
+but I will never deny that aristocracy has certain queer advantages,
+not very often mentioned.  One of them is that which affects
+European diplomacy:  that a gentleman is the same all over Europe,
+while a peasant or even a merchant, may be very different.
+A Dutch gentleman and an Irish gentleman stand on a special
+and level platform; a Dutch peasant and an Irish peasant are
+divided by all dynastic and divine wars.  Of course, this means
+that a peasant is superior to a gentle man--more genuine,
+more historic, more national; but that, surely, is obvious.
+Nevertheless, for cosmopolitan purposes, such as diplomacy,
+a gentleman may be used--with caution.  And the reason that has
+made aristocrats effective as diplomatists is the same that made
+King Edward effective; the existence of a convention or convenient
+form that is understood everywhere and makes action and utterance
+easy for everyone.  Language itself is only an enormous ceremony.
+King Edward completely understood that nameless Volapuk or Esperanto
+on which modern Europe practically reposes.  He never put himself
+in a position that Europe could possibly misunderstand, as the Kaiser
+did by his theocratic outbursts, even if they were logical;
+or the Tsar by his sweeping repressions, even if they were provoked.
+Partly a German, by blood, partly a Frenchman, by preference,
+inter-married with all the thrones of Europe and quite conscious
+of their very various perplexities, he had the right to be called
+a great citizen of Europe.  There are only two things that can bind
+men together; a convention and a creed.  King Edward was the last,
+the most popular, and probably the most triumphant example of Europe
+combining with success upon a large and genial convention.
+Tact and habit and humanity had in him their final exponent in all
+the Courts, reviews, race-courses, and hotels of Christendom.
+If these are not enough, if it is not found sufficient for Europe
+to have a healthy convention, then Europe must once more have a creed.
+The coming of the creed will be a terrible business.
+
 
 
 
@@ -6802,6 +9246,308 @@ Naturalmente si potrebbe fornire un numero qualsiasi di altri esempi. Ma è tutt
 Ora, queste speculazioni riguardano un aspetto di una controversia attuale: il perpetuo dibattito sui giornali intorno al Progresso e alla Decadenza, ovvero il Declino dell'Occidente. Una classe di scrittori popolari ci dice perpetuamente che il mondo è sempre andato migliorando sempre di più; altri, un po' meno popolari, che da qualche tempo va costantemente peggiorando. Personalmente, non riesco a capire come qualcuno possa pensare che sia mai andato costantemente in una qualsiasi direzione. Se l'Umanesimo fu un progresso, non vedo come il calvinismo possa essere stato un progresso su quel progresso. Se le folle che si precipitavano all'Anfiteatro si precipitavano nella direzione giusta, gli eremiti che si precipitavano nel deserto non possono essersi precipitati nella stessa direzione. Ma, comunque, in questa disputa i contendenti in genere confrontano qualche vecchia causa con qualche nuova causa, o qualche ipotetico buon tempo antico con qualche altrettanto ipotetico buon tempo nuovo. Ma l'impressione generale che la storia produce nella mia mente non è né l'una né l'altra. Nella maggior parte dei casi, mi sembra, la cosa giusta non era la cosa che governava né la cosa che si ribellava, ma una terza cosa che non fu mai abbastanza forte né per ribellarsi né per governare. La cosa che ossessiona di più l'immaginazione storica, credo, non è Atlantide o Utopia, non l'Età dell'Oro o la Nuova Gerusalemme, non il Buon Tempo Antico o il Buon Tempo Venturo, ma l'oro che gli uomini mancarono o rifiutarono e il buon tempo che avrebbe potuto venire.
 
 Che il mondo stia o no viaggiando verso la meta giusta, mi sembra che abbia quasi invariabilmente preso la svolta sbagliata. Che ora sia o no un po' più vicino ad essa, sono certo che vi si è avvicinato per un vasto e inutile giro vizioso, e ha mancato un gran numero di scorciatoie che erano assai più vicine. Dubito che una qualsiasi persona pensante, di qualsiasi fede o incredulità, non desideri in cuor suo che la fine del medievalismo avesse significato il trionfo degli umanisti come Erasmo e More, piuttosto che dei rabbiosi puritani come Calvino e Knox. In verità, il nome di Tommaso More non è qui inappropriato, per più di una ragione. Fu lui a inventare la parola stessa Utopia; e poi, trovando i mutamenti che vedeva tanto diversi dai mutamenti che desiderava, non volle che il libro fosse tradotto in inglese. Utopia non è al principio del mondo né alla fine del mondo. Utopia è stata qualcosa di sempre vicino e mai scoperto.
+
+
+
+<span class="atom-split" data-atom="story_17_the_age_of_reason--part_01" data-title="The Glass Walking Stick — The Age Of Reason (part 1)" data-chapter="The Age Of Reason" data-kind="excerpt"></span>
+
+
+THE AGE OF REASON
+
+I
+
+THE eighteenth century is an excellent illustration of a false
+historical fashion.  It is the fashion of abusing a thing, first for one
+obvious reason, then for another quite opposite reason; and then leaving
+it alone with all its incompatible vices unreconciled and unexplained.
+Any one can describe that age as the age of powder and patches
+and high-heeled shoes and elaborate bows and mincing compliments.
+Anybody can describe it as the age of bludgeons and bloody noses
+and black patches over the eye, as in the pictures of Hogarth;
+of dirt and drunkenness and brutal sports.  As details,
+they are both true; as generalizations, they cannot be both true.
+As philosophical explanations, they cannot come within a thousand
+miles of being true.  As explanations, they can not explain anything;
+for they cannot explain each other.
+
+We may call eighteenth-century people's dressing and barbering and
+behaviour artificial, but that gets us no nearer to explaining why we have
+to complain of them the next moment for being a great deal too natural.
+For they were virile to the point of violence and anarchy.
+If it was the age of wigs, it was also the age of wigs on the green.
+It was not only concerned with the nice conduct of a clouded cane,
+but often with the nasty conduct of a loaded cudgel.  If we only
+want to make a case against the eighteenth century, we can throw
+all these ill-matched things at it and leave them there in a heap.
+But that does not explain anything; not even our own antagonism
+or our own action.
+
+I have had to deal with a similar fallacy in relation to
+religious history.  I have pointed out that the people who only
+wanted to make a case against Christianity or the Middle Ages,
+or what not, were content simply to say that monks were too meek
+and Crusaders too fierce, and feudalism too crude and heraldry
+too complicated.  In other words, they blamed the age for being
+as mild as the Confessor and as violent as Coeur de Lion,
+but they gave no reason for the same thing being two opposite
+things at once.  Many of them, in criticizing what I said,
+have thought it quite enough to say that the two statements
+were quite true; and this in itself is also quite true.
+But you have not understood the thing until you have understood
+its contradiction; until (especially) you under stand
+even its misunderstanding.
+
+The only way to understand an age, whether it be the Age of Reason
+or the Age of Faith, is to get behind these mere criminal charges,
+which are used to support each other and really destroy each other.
+It is to find some common spirit that can be polished in that particular
+way and coarse in that particular way.  A mystical conviction is the cause
+both of the Franciscan being friendly and the Crusader being hostile.
+A rational conviction is the cause both of Dr Johnson being ceremonious
+and Dr Johnson being rude.  But it is necessary to realize something
+of what that rational conviction really was; and the only spirit
+in which it is worth while to study history is the spirit which can
+feel a certain enthusiasm for the ideal of each time in turn.
+
+The eighteenth century itself is not a century, as centuries go,
+that is specially attractive to me.  There were not enough
+fairy-tales in it for my taste; certainly there were not anything
+like so many people believing in fairies then as there are now.
+It had no great understanding of children.  The men of that
+time had forgotten the Holy Child of medieval times and had
+not yet heard of the Happy Child of modern literature.
+They could not imagine a Peter Pan, for they had lost
+the religious traditions both of Pan and of Peter.
+They had silenced all those subconscious voices which speak
+to simple people of the wonders hidden in this world.
+In short, they were ignorant of all the thousand things
+that only the ignorant ever know.
+
+But though I should not be individually drawn to wards the Age of Reason
+as compared with many ages I think really much more reasonable,
+if I had to deal with that age I should deal with it more reasonably.
+I should not criticize it as its own rationalistic critics do.
+I should not pick out things here and there that happened
+to offend our modern taste, though in totally opposite ways.
+I should not blame Chesterfield for being foppish and Johnson
+for being slovenly; call a minuet stilted and a cockfight vulgar;
+and then heave a sigh and thank God that I live in better days.
+That is the way in which the stupidest sort of tourist criticizes
+a foreign country; he thinks everything is being done badly,
+be cause he has never tried to find out what people are trying to do.
+
+I should begin at the other end and try to find out what the
+eighteenth century was trying to do.  I should ask what spirit
+really prompted their more spirited efforts.  The true historian
+does not want to be told the realities of the eighteenth century;
+that is, that they had stuffier bedrooms or stuffier cravats.
+The true historian wants to be told the ideal of the eighteenth century;
+the things that a man dreamed of in his stuffy bedroom or thought
+about when he had forgotten his stock.  The mere facts about
+their vesture or ventilation are not really facts about them;
+they are rather facts about us.  They are the things that we notice,
+because to us they are new even in being old.  It may throw some
+light on our character or conditions that this or that detail
+stands out in a startling fashion from the other details.
+But it does not throw much light on the minds of our ancestors.
+The really valuable sort of historical imagination is to guess
+the things they were thinking about.
+
+The religion of the eighteenth century was finely expressed
+in the motto of a group of Scottish debating societies
+famous as the Associated Societies of Edinburgh University.
+It was Gloria hominis ratio et oratio:  the glory of man is reason
+and speech.  Their ideal was public spirit in the true sense of
+the publishing of things; the power of declaring aloud in the forum
+the secrets of the palace or the corruptions of the senate.
+There were secrets and corruptions enough, of course, as there are
+in all times; not so many, I think, as there are in our own time.
+But this was the vision, the ambition, the daydream.
+This was what an honest man wanted to be and a dishonest man
+pretended to be.  The ideal type of that time was what Walpole
+called a Boy; what the Boy called a Patriot.  He was to be
+a lucid orator denouncing courtiers and placemen; a tribune.
+He can only be under stood in the light of that great Latin
+literature which these men loved and studied.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'ETÀ DELLA RAGIONE
+
+I
+
+Il Settecento è un'eccellente illustrazione di una falsa moda storica. È la moda di ingiuriare una cosa, prima per una ragione ovvia, poi per un'altra ragione del tutto opposta; e poi lasciarla lì con tutti i suoi vizi incompatibili non conciliati e non spiegati. Chiunque può descrivere quell'età come l'età della cipria e dei nei posticci e delle scarpe coi tacchi alti e dei complimenti affettati e degli inchini elaborati. Chiunque può descriverla come l'età dei randelli e dei nasi insanguinati e delle bende nere sull'occhio, come nei quadri di Hogarth; di sudiciume e ubriachezza e sport brutali. Come dettagli, sono entrambi veri; come generalizzazioni, non possono essere entrambi veri. Come spiegazioni filosofiche, non possono avvicinarsi neppure di mille miglia alla verità. Come spiegazioni, non possono spiegare nulla; poiché non possono spiegarsi a vicenda.
+
+Possiamo chiamare artificiali il vestire, il pettinarsi e il comportarsi della gente del Settecento, ma ciò non ci avvicina di un passo a spiegare perché dobbiamo lamentarci di loro, un attimo dopo, per essere troppo naturali. Poiché erano virili fino alla violenza e all'anarchia. Se fu l'età delle parrucche, fu anche l'età delle parrucche accapigliate sul prato. Non si occupava soltanto della garbata maniera di reggere una canna dal pomo lavorato, ma spesso della sgarbata maniera di menare un bastone piombato. Se vogliamo soltanto istruire un processo contro il Settecento, possiamo scagliargli addosso tutte queste cose mal assortite e lasciarle lì in un mucchio. Ma ciò non spiega nulla; nemmeno il nostro stesso antagonismo o la nostra stessa azione.
+
+Ho dovuto affrontare un'analoga fallacia in rapporto alla storia religiosa. Ho fatto notare che coloro i quali volevano soltanto istruire un processo contro il cristianesimo o il Medioevo, o che so io, si accontentavano di dire semplicemente che i monaci erano troppo mansueti e i crociati troppo feroci, e il feudalesimo troppo rozzo e l'araldica troppo complicata. In altre parole, biasimavano l'età per essere mite come il Confessore e violenta come Cuor di Leone, ma non davano alcuna ragione del fatto che una stessa cosa fosse due cose opposte a un tempo. Molti di loro, criticando ciò che dicevo, hanno ritenuto più che sufficiente affermare che le due asserzioni erano del tutto vere; e anche questo, in sé, è del tutto vero. Ma non si è compresa una cosa finché non se ne è compresa la contraddizione; finché (specialmente) non se ne comprende persino il fraintendimento.
+
+L'unico modo di comprendere un'età, sia essa l'Età della Ragione o l'Età della Fede, è passare dietro queste mere accuse criminali, che si usano per sostenersi a vicenda e in realtà si distruggono a vicenda. È trovare qualche spirito comune che possa essere raffinato in quel particolare modo e rozzo in quel particolare modo. Una convinzione mistica è la causa sia dell'amichevolezza del francescano sia dell'ostilità del crociato. Una convinzione razionale è la causa sia del dottor Johnson cerimonioso sia del dottor Johnson scortese. Ma è necessario rendersi conto di qualcosa di ciò che quella convinzione razionale realmente fu; e l'unico spirito con cui vale la pena studiare la storia è lo spirito che sa provare un certo entusiasmo per l'ideale di ciascun tempo a sua volta.
+
+Il Settecento in sé non è un secolo, tra i secoli, che mi attragga particolarmente. Non c'erano abbastanza fiabe per i miei gusti; di certo non c'era nulla di simile al numero di persone che credono nelle fate allora rispetto a quante ce ne sono oggi. Non aveva grande comprensione dei bambini. Gli uomini di quel tempo avevano dimenticato il Santo Bambino dei tempi medievali e non avevano ancora sentito parlare del Bambino Felice della letteratura moderna. Non potevano immaginare un Peter Pan, poiché avevano perduto le tradizioni religiose sia di Pan sia di Pietro. Avevano ridotto al silenzio tutte quelle voci subconscie che parlano alle persone semplici delle meraviglie nascoste in questo mondo. In breve, ignoravano tutte le mille cose che solo gli ignoranti conoscono.
+
+Ma per quanto io non sia individualmente attratto verso l'Età della Ragione rispetto a molte età che ritengo davvero assai più ragionevoli, se dovessi occuparmi di quell'età me ne occuperei più ragionevolmente. Non la criticherei come fanno i suoi stessi critici razionalisti. Non andrei a scegliere qua e là cose che si dà il caso offendano il nostro gusto moderno, benché in modi del tutto opposti. Non biasimerei Chesterfield per essere zerbinotto e Johnson per essere sciatto; non chiamerei affettato un minuetto e volgare un combattimento di galli; e poi non manderei un sospiro ringraziando Dio di vivere in giorni migliori. È in quel modo che il più stupido genere di turista critica un paese straniero; pensa che tutto sia fatto male, perché non ha mai cercato di scoprire che cosa la gente stia cercando di fare.
+
+Comincerei dall'altro capo e cercherei di scoprire che cosa il Settecento stesse cercando di fare. Mi chiederei quale spirito realmente ispirasse i suoi sforzi più animosi. Il vero storico non vuole che gli si raccontino le realtà del Settecento; ossia, che avessero camere da letto più soffocanti o cravatte più soffocanti. Il vero storico vuole che gli si racconti l'ideale del Settecento; le cose che un uomo sognava nella sua camera da letto soffocante o a cui pensava quando aveva dimenticato la sua cravatta. I meri fatti sulle loro vesti o sulla loro ventilazione non sono in realtà fatti che li riguardano; sono piuttosto fatti che riguardano noi. Sono le cose che notiamo, perché per noi sono nuove persino nell'essere antiche. Può gettare qualche luce sul nostro carattere o sulle nostre condizioni il fatto che questo o quel dettaglio risalti in modo sorprendente rispetto agli altri dettagli. Ma non getta molta luce sulle menti dei nostri antenati. La specie davvero preziosa di immaginazione storica consiste nell'indovinare le cose a cui essi stavano pensando.
+
+La religione del Settecento fu finemente espressa nel motto di un gruppo di società di dibattito scozzesi famose come le Società Associate dell'Università di Edimburgo. Era Gloria hominis ratio et oratio: la gloria dell'uomo è la ragione e la parola. Il loro ideale era lo spirito pubblico nel vero senso della pubblicazione delle cose; il potere di dichiarare ad alta voce nel foro i segreti del palazzo o le corruzioni del senato. C'erano segreti e corruzioni a sufficienza, naturalmente, come ci sono in tutti i tempi; non tanti, credo, quanti ce ne sono nel nostro tempo. Ma questa era la visione, l'ambizione, il sogno a occhi aperti. Questo era ciò che un uomo onesto voleva essere e un uomo disonesto fingeva di essere. Il tipo ideale di quel tempo era ciò che Walpole chiamava un Boy; ciò che il Boy chiamava un Patriota. Doveva essere un lucido oratore che denunciava i cortigiani e i beneficiati; un tribuno. Lo si può comprendere soltanto alla luce di quella grande letteratura latina che questi uomini amavano e studiavano.
+
+
+
+<span class="atom-split" data-atom="story_17_the_age_of_reason--part_02" data-title="The Glass Walking Stick — The Age Of Reason (part 2)" data-chapter="The Age Of Reason" data-kind="excerpt"></span>
+
+
+We sneer at the old gentlemen quoting Horace while hobnobbing
+over their port; as if they only quoted Horace when he was
+hobnobbing over his Falernian.  We forget that quoting Horace
+meant more often quoting great lines about Regulus defying
+torture for the Republic or the poet returning to the temples
+of the gods of Rome.  Judged by its own moral ideal,
+which is the only just judgement, the eighteenth century was
+not so bad as we make out; possibly was not so bad as we are.
+We talk of its political corruption, but we talk of it because
+it was talked about.  It was exposed and even punished.
+Great men like Marlborough, powerful men like Dundas,
+were really forced to resign; often even forced to disgorge.
+They were much less completely protected than corrupt
+politicians in our own time; and it is no very satisfactory
+proof of their artificiality and our realism that they powdered
+heads while we whitewash reputations.
+
+II
+
+It seems to me that it would be an extraordinarily interesting
+study of the mind of the eighteenth century to picture
+what that mind would really expect to see in the twentieth.
+There would be something very subtle in the comedy of a
+gentleman of the eighteenth century dealing with ladies of
+the twentieth century.  It would be curious to note how he would
+be in some ways more coarse and in some ways more polished.
+He would probably be plainer in his speech, but more ceremonious
+in his movements.  He would say things to the lady while bowing
+over her hand which the most sprightly hero of our recent
+fiction would hardly say to her while sitting on her head.
+When Marie Antoinette and her courtiers posed in the manner
+of the shepherds of Watteau, they were already talking about
+the dawn of a more enlightened and liberal age, and may well
+have wondered about the world in the twentieth century.
+When Hogarth was drawing some satiric series like the Stages
+of Cruelty, he may well have wondered whether the world would
+still be as barbarous in the twentieth century, or whether
+by that time reason and philanthropy would have prevailed.
+Naturally it would depend a great deal on the sort of individual
+who was precipitated from their age to ours; there were doubtless
+many commonplace cock-fighting squires who knew as little
+about the future then as our earnest social prophets know now.
+But there were already in the eighteenth century some idealists
+who would have been delighted to see the future triumph of humanity.
+They would also be a good deal disappointed if they saw it.
+
+What is really interesting about the Age of Reason is
+that the political economists and practical reformers would
+every one of them believe what nobody now believes at all.
+They would not only have believed, most probably, that England
+would be more prosperous, more happy, and more equal in
+the twentieth century than in the eighteenth or nineteenth.
+They would also have believed that it would become
+more prosperous, free, and equal through commercial competition,
+through scientific selfishness, through the removal of
+all restrictions on trading, talking, or anything else.
+Nothing would have surprised a man like Bentham or a man
+like Godwin more completely than the discovery that liberty
+or Laissez Faire had not made a huge addition to human
+happiness by the beginning of the twentieth century.
+As a matter of fact, as applied, they have made a huge addition
+to human muddle and misery, and taken us round by a long detour
+(and a very dusty road) back to very much where we were before.
+We have to consider anew the nature of Liberty and its relation
+to Governments.  In that sense we are all of us really back
+in the eighteenth century.
+
+III
+
+Unless I am much mistaken, modern people are going to have
+a reaction against democracy before they have tried it.
+We are always being told that the present system in highly
+organized industrial states is democracy; and that being so,
+it is hardly to be wondered at that democracy has become unpopular.
+But it is not really true that popular government has
+become unpopular.  It is rather that people have ceased
+to think that in either sense our government is popular.
+The truth is that those who developed the democratic doctrine
+in modern times did not intend it for anything at all resembling
+the modern world, perhaps the most ancient of all possible worlds.
+They thought of the agricultural commonwealths of antiquity,
+and went back past even the Roman Empire to find the Roman Republic.
+But Rome was a republic when Rome was a village.
+Those eighteenth-century idealists often actually lived
+in villages; always in countries that were dotted with villages.
+They did not know what sort of a world of steam
+and steel their descendants were going to inherit.
+The French Revolution came before the Industrial Revolution.
+They were perpetually talking about the citizen, but they thought
+of him as a citizen and not merely as something in the city.
+They certainly had no conception of the colossal and complicated
+thing that we now mean by a city.
+
+It is highly characteristic of the tone of the eighteenth
+century that they generally talked of London as ‘the town'.
+They said:  ‘All the town is talking about my Lord Banglebury's
+duel with Mr Pickles.'  In the sound and sense of the word
+there was something compact and comfortable; as of a world
+still small enough to know itself, like a village.
+When these people talked about democracy they did indeed mean
+the government of the people, by the people, for the people.
+But they meant the government of people they knew, by people
+they knew, for people they knew.  They meant the government
+of people who knew each other, by people who knew each other,
+for people who knew each other.  I think it highly doubtful
+whether any of the eighteenth-century democratic theorists,
+whether Payne or Jefferson or Condorcet, would have expected
+a vast and vague society like ours to be a democracy.
+I think they would have thought it, however reluctantly,
+a case for Caesar and the panem et circenses.  But it is not,
+of course, merely the material side of society that has
+upset such calculations.  It is much more the moral factor;
+which is also, in every sense, alas! a very material factor.
+It is what the scientific, or those who think themselves scientific,
+always call the economic factor.  It can be expressed better
+in one word; and that word is not democracy but plutocracy.
+
+It must always be remembered that the scale of financial action
+was then smaller even for the rich.  The Court of Versailles
+did not handle such sums as any stockjobber will now waste
+on a week's luxury.  Kings and queens were richer relatively
+and not positively.  And the size of economic operations today
+is a new and abnormal power in the history of the world.
+It covers much more of the surface of the world.
+It is international where the old luxury was almost local.
+But this vulgar and sprawling plutocracy does not deserve to be
+called a democracy, even by one who uses it as a term of abuse.
+The old classic spirit of democracy is much more present
+in the independent citizen who is ready to resist it,
+who in this respect is much more like the Stoic and Tribune
+admired by the Fathers of the Republic.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sogghigniamo dei vecchi gentiluomini che citano Orazio mentre trincano il loro porto; come se citassero Orazio solo quando egli trincava il suo Falerno. Dimentichiamo che citare Orazio significava più spesso citare grandi versi su Regolo che sfida la tortura per la Repubblica o sul poeta che torna ai templi degli dèi di Roma. Giudicato secondo il proprio ideale morale, che è l'unico giudizio giusto, il Settecento non fu così cattivo come lo dipingiamo; forse non fu così cattivo come lo siamo noi. Parliamo della sua corruzione politica, ma ne parliamo perché se ne parlava. Veniva smascherata e persino punita. Grandi uomini come Marlborough, uomini potenti come Dundas, furono davvero costretti a dimettersi; spesso persino costretti a restituire il maltolto. Erano molto meno completamente protetti dei politici corrotti del nostro tempo; e non è una prova molto soddisfacente della loro artificiosità e del nostro realismo che essi incipriassero le teste mentre noi imbianchiamo le reputazioni.
+
+II
+
+Mi sembra che sarebbe uno studio straordinariamente interessante della mente del Settecento immaginare che cosa quella mente si aspetterebbe davvero di vedere nel Novecento. Ci sarebbe qualcosa di assai sottile nella commedia di un gentiluomo del Settecento alle prese con le dame del Novecento. Sarebbe curioso notare come egli sarebbe per certi versi più rozzo e per certi versi più raffinato. Sarebbe probabilmente più schietto nel parlare, ma più cerimonioso nei movimenti. Direbbe alla dama, mentre s'inchina sulla sua mano, cose che il più brioso eroe della nostra recente narrativa oserebbe a stento dirle mentre le siede sulla testa. Quando Maria Antonietta e i suoi cortigiani posavano alla maniera dei pastori di Watteau, già discorrevano dell'alba di un'età più illuminata e liberale, e possono ben essersi chiesti come sarebbe stato il mondo nel Novecento. Quando Hogarth disegnava qualche serie satirica come gli Stadi della crudeltà, può ben essersi chiesto se il mondo sarebbe stato ancora così barbaro nel Novecento, o se per allora la ragione e la filantropia avrebbero prevalso. Naturalmente dipenderebbe molto dal genere di individuo che venisse precipitato dalla loro età alla nostra; c'erano senza dubbio molti scudieri banali, amanti dei combattimenti di galli, che sapevano tanto poco dell'avvenire allora quanto poco ne sanno oggi i nostri seri profeti sociali. Ma c'erano già nel Settecento alcuni idealisti che sarebbero stati deliziati di vedere il futuro trionfo dell'umanità. E sarebbero anche rimasti assai delusi se lo vedessero.
+
+Ciò che è davvero interessante nell'Età della Ragione è che gli economisti politici e i riformatori pratici avrebbero creduto, ciascuno di loro, ciò che oggi nessuno crede più affatto. Non solo avrebbero creduto, con ogni probabilità, che l'Inghilterra sarebbe stata più prospera, più felice e più uguale nel Novecento che nel Settecento o nell'Ottocento. Avrebbero anche creduto che essa lo sarebbe divenuta più prospera, libera e uguale attraverso la concorrenza commerciale, attraverso l'egoismo scientifico, attraverso la rimozione di ogni restrizione al commerciare, al parlare o a qualsiasi altra cosa. Nulla avrebbe sorpreso un uomo come Bentham o un uomo come Godwin più completamente della scoperta che la libertà, ovvero il Laissez Faire, non aveva aggiunto un'enorme somma alla felicità umana entro l'inizio del Novecento. In verità, così come sono stati applicati, hanno aggiunto un'enorme somma alla confusione e alla miseria umane, e ci hanno condotti per un lungo giro vizioso (e per una strada assai polverosa) indietro fin quasi al punto in cui eravamo prima. Dobbiamo considerare di nuovo la natura della Libertà e il suo rapporto con i Governi. In quel senso siamo tutti quanti davvero tornati al Settecento.
+
+III
+
+Se non m'inganno di molto, la gente moderna avrà una reazione contro la democrazia prima ancora di averla provata. Ci si dice sempre che il sistema attuale negli Stati industriali altamente organizzati è la democrazia; e stando così le cose, non c'è da meravigliarsi che la democrazia sia divenuta impopolare. Ma non è veramente vero che il governo popolare sia divenuto impopolare. È piuttosto che la gente ha cessato di pensare che, in un senso o nell'altro, il nostro governo sia popolare. La verità è che coloro i quali svilupparono la dottrina democratica nei tempi moderni non la intendevano affatto per qualcosa che somigliasse al mondo moderno, forse il più antico di tutti i mondi possibili. Pensavano ai comuni agricoli dell'antichità, e risalirono oltre lo stesso Impero romano per ritrovare la Repubblica romana. Ma Roma era una repubblica quando Roma era un villaggio. Quegli idealisti del Settecento vivevano spesso realmente in villaggi; sempre in paesi costellati di villaggi. Non sapevano quale sorta di mondo di vapore e d'acciaio i loro discendenti avrebbero ereditato. La Rivoluzione francese venne prima della Rivoluzione industriale. Parlavano perpetuamente del cittadino, ma lo pensavano come un cittadino e non semplicemente come qualcosa dentro la città. Di certo non avevano alcuna concezione della cosa colossale e complicata che oggi intendiamo con la parola città.
+
+È altamente caratteristico del tono del Settecento che parlassero in genere di Londra come «la città». Dicevano: «Tutta la città parla del duello di Lord Banglebury con Mr Pickles». Nel suono e nel senso della parola c'era qualcosa di compatto e confortevole; come di un mondo ancora abbastanza piccolo da conoscere se stesso, come un villaggio. Quando questa gente parlava di democrazia, intendeva davvero il governo del popolo, da parte del popolo, per il popolo. Ma intendevano il governo di gente che conoscevano, da parte di gente che conoscevano, per gente che conoscevano. Intendevano il governo di gente che si conosceva l'un l'altra, da parte di gente che si conosceva l'un l'altra, per gente che si conosceva l'un l'altra. Ritengo altamente dubbio che uno qualsiasi dei teorici democratici del Settecento, sia Payne o Jefferson o Condorcet, si sarebbe aspettato che una società vasta e vaga come la nostra fosse una democrazia. Credo che l'avrebbero giudicata, per quanto a malincuore, un caso da Cesare e da panem et circenses. Ma non è, naturalmente, soltanto il lato materiale della società ad aver sconvolto simili calcoli. È assai più il fattore morale; che è anche, in ogni senso, ahimè, un fattore assai materiale. È ciò che gli scienziati, o coloro che si credono scienziati, chiamano sempre il fattore economico. Lo si può esprimere meglio in una sola parola; e quella parola non è democrazia ma plutocrazia.
+
+Bisogna sempre ricordare che la scala dell'azione finanziaria era allora più piccola persino per i ricchi. La Corte di Versailles non maneggiava somme quali qualsiasi speculatore di borsa oggi sperpererebbe nel lusso di una settimana. Re e regine erano più ricchi relativamente e non positivamente. E la dimensione delle operazioni economiche di oggi è un potere nuovo e abnorme nella storia del mondo. Copre una porzione assai maggiore della superficie del mondo. È internazionale, là dove il vecchio lusso era quasi locale. Ma questa volgare e dilagante plutocrazia non merita di essere chiamata democrazia, nemmeno da chi usa quest'ultima parola come insulto. Il vecchio spirito classico della democrazia è assai più presente nel cittadino indipendente che è pronto a resisterle, il quale sotto questo rispetto assomiglia assai più allo Stoico e al Tribuno ammirati dai Padri della Repubblica.
 
 
 
@@ -8498,2752 +11244,6 @@ Una delle mille cose a cui i pensatori di questa scuola non pensano mai è quest
 Ciò nondimeno, non mi sento obbligato a sostenere i vecchi critici classici. Mi sento soltanto libero di sostenerli. È esattamente questa la differenza; e una differenza che a quanto pare non si riesce a rendere chiara a coloro che parlano il gergo della novità. Mi dicono che non intendono lasciarsi intimidire dalle tirannie consolidate del passato. Rispondo che neppure io intendo lasciarmi intimidire dalle rivoluzioni riuscite del passato. L'innovatore si vanta di essere libero di mostrare come il tempo abbia dato ragione al ribelle; ma io mi ritengo del pari libero di congetturare come un po' più di tempo possa dar ragione al rimprovero rivolto al ribelle. Anzi, il rimprovero può essere giustificato anche quando non è giusto. Converrei di tutto cuore che Keats fu un uomo grandissimo e che Gifford fu un uomo piccolissimo. Ma potrei rivendicare il diritto di difendere un piccolo uomo che ha ragione contro un grande uomo che ha torto. Il caso di Keats è invero iniquo e non rappresentativo, ed è per questo che viene sempre preso come tipico. Gifford non era soltanto un piccolo poeta o critico; era un meschino mestierante della politica con un rancore personale, quale può esistere in qualsiasi epoca o qualsiasi scuola. Ma se un critico classico disse che l'opera giovanile di Keats conteneva elementi capaci di dissolvere la dignità e la severità della poesia, aveva torto? Immagino che gli ammiratori di Keats che lo dicono siano ammiratori di Keats piuttosto che lettori di Keats. Dubito che la maggior parte di loro abbia l'abitudine di leggere di seguito l'«[[Endymion]]».
 
 Quando accoglieremo davvero il prossimo poeta, [[Doubt|dubito]] che egli somiglierà minimamente alla nostra idea del nuovo poeta. Ci si può chiedere se egli coprirà davvero la pagina di ritmi sparpagliati e irregolari o la lascerà punteggiata di parole, immagini e simboli isolati. È assai probabile che si sieda e scriva in decasillabi rimati, o in qualche altra forma antica; e osserverà tutte le vecchie regole e conserverà tutte le vecchie unità—e dirà tutto ciò che ha da dire senza quasi accorgersi di averlo fatto.
-
-
-
-<span class="atom-split" data-atom="story_02_history_in_stone--part_01" data-title="The Glass Walking Stick — History In Stone (part 1)" data-chapter="History In Stone" data-kind="excerpt"></span>
-
-
-HISTORY IN STONE
-
-THERE is a kind of war between bricks and books; I mean between the
-tradition of materials and the tradition of theories.  In so many places
-the church contradicts the parson and the castle contradicts the earl;
-the Parliament says one thing and the parliament house another.
-Anyone who has gone rambling in England must have noticed a strange
-thing often only half perceived and generally wholly unexplained.
-I mean the entire difference between English history, especially
-early English history as it is in the ordinary history books,
-and the same English history in so far as it remains in buildings,
-in local customs, or in popular associations in England.
-The old kings, bishops, and soldiers seem to be entirely different
-people when they appear in stone and when they appear in print.
-I do not mean that the school histories are untrue; I do not even
-mean that they contradict the other impressions or are inconsistent
-with them in any particular.  But the two are two different worlds;
-in the second is revealed a whole universe of interests and activities,
-about which the first was literally deaf and dumb.  It is as if we
-had heard of Tennyson's peerage but never of his poetry; or as if we
-had heard of Wellington's premiership but never of his generalship;
-or as if a biographer of Columbus had been explanatory about the egg
-but silent about the American Continent.
-
-Let me take a typical example.  The story of the dynastic violence
-of fifteenth-century England is, in the school really picturesque.
-We see the Lion of Agincourt dying with a doom upon his usurping house,
-leaving all that it had gained in England to the intrigue and audacity
-of Gloucester, all that it had gained in France to the exterminating
-nationalism of Joan of Arc.  The only staff on which Lancaster can lean
-is King Harry's daughter-in-law, Margaret of Anjou, a woman almost as
-militant as Joan of Arc herself:  Among these strong and sinister figures,
-somewhat diseased but intensely dramatic, one scarcely looks at the poor
-pale-faced lad, said not to be quite right in his head, who actually
-inherits the crowns of England and France.  Battles are fought round him,
-as round the wooden pole of a flagstaff; councils are held round him,
-as round the dead mace on the table of Parliament.  He always seems
-to be locked up somewhere and forgotten; and we do not even remember
-his foolish face as we watch Margaret defying the outlaws in the forest,
-or Richard Crookback red with the rout of Tewkesbury.  We scarcely know
-when he dies.  His murder is quieter than most men's natural deaths.
-That is how King Henry VI appears in the written English histories--
-or rather how he does not appear.  It bears no resemblance, it contains no
-hint of how he still appears, not in English histories, but in England.
-I do not mean that his character appears particularly different;
-I mean that one discovers a new field of activity for such a character.
-It is not that the face or figure of the feeble youth is contradicted--
-it is as if we walked into fairyland, where such a youth may gain all
-the omnipotence of the fairies.  It is like finding that a housemaid
-is a medium or the village idiot a magician.
-
-Walk westward out of London along the Valley of the Thames
-and you will find a huge educational foundation which has passed
-almost into a synonym for the British Empire and the aristocracy
-that administers that Empire.  It is enormously wealthy;
-it is enormously powerful; it is known all over the world as much,
-or more, than Oxford or Cambridge; and every boy or man who has
-anything to do with it is reminded morning and evening in all
-the prayers and ceremonies of the place that the wealth and power
-by which he lives is the wealth and power of King Henry VI.
-The most successful of soldiers declares that he won Waterloo
-by the influence that lost Tewkesbury.  The timid and impotent
-boy is still (even after a profound change of religion)
-the patron saint and benefactor of hundreds of the athletic
-or ambitious boys that make up the great legend of Eton and
-the English public-schools. Walk eastward out of London into
-the flat counties till you come to one of the two Universities
-that are the two fountains of the national life and letters.
-You will find one College of which the chapel towers in
-beauty and tradition above all the roofs of that beautiful
-and traditional town; the whole world of culture has come
-to it for its architecture or its music or its stained glass.
-It is one of the wonders of the English world.  And there
-is not a porter so ignorant nor an undergraduate so frivolous,
-that he has not been told twenty times and repeated twenty times
-that it is the half-witted Henry who through five centuries
-sustains this palace of God.  This weakest of Kings is the King
-par excellence, for the place is called ‘[[King]]'s College',
-not [[King]] Henry's. The difference of impression is very strange;
-it is a difference, it is not a contradiction.  Little of what the
-[[history]]-book says is untrue; but the [[history]]-book says so little.
-[[Henry VI]] was not an effective fighter or a sagacious statesman;
-and if we see the Middle Ages as a gory tangle like Tewkesbury,
-we shall see him as very small.  But if we take a turn or two
-down an English lane and see the Middle Ages as an ancient
-and rich civilization, creative and systematic, with fruitful
-sciences and masterful arts--then we shall see him as gigantic.
-
-Numerous other instances, of course, could be given.
-An intelligent boy reading at school of the quarrel between
-St [[Thomas Becket]] and Henry II naturally sympathizes, on the whole,
-with the latter:  the [[King]] seems at worst an impatient man
-of action; the saint seems at best an aggravating sacerdotalist.
-Let the boy shut the [[history|History]] of England and open (let us say)
-the [[Poems|poems]] of Chaucer, written by an ordinary Englishman for Kings and
-Queens not so very long after the [[King]] was scourged in the [[Cathedral|cathedral]].
-He will have great difficulty in making head or tail of the world
-in which he finds himself.  He will find himself in medieval
-England in which every man, woman, and [[Child|child]] utterly and entirely
-takes it for granted that St Thomas justly opposed the [[King]],
-as utterly and entirely as that St George justly opposed the Dragon.
-The same bewildering impression which the boy would find in Chaucer
-he would also find in Canterbury.  These atmospheres never depend
-upon any detail and are always impossible to describe; but he will
-feel the whole [[Cathedral|cathedral]] rising like one roar of unanimous assent,
-the very stones crying out that the [[Blood|blood]] of a just man was shed.
-These are things that modern books of [[history]] do not explain.
-You must steep yourself in the atmosphere of many old towns and old
-books before you begin to under stand them.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-STORIA NELLA PIETRA
-
-C'È una specie di guerra tra i mattoni e i libri; intendo tra la
-tradizione dei materiali e la tradizione delle teorie.  In tanti luoghi
-la chiesa contraddice il parroco e il castello contraddice il conte;
-il Parlamento dice una cosa e il palazzo del parlamento un'altra.
-Chiunque sia andato a zonzo per l'Inghilterra deve aver notato una strana
-cosa, spesso solo intravista e in genere del tutto inspiegata.
-Intendo l'intera differenza tra la storia inglese, specialmente
-la prima storia inglese così com'è negli ordinari libri di storia,
-e la stessa storia inglese in quanto perdura negli edifici,
-nelle usanze locali, o nelle associazioni popolari d'Inghilterra.
-I vecchi re, vescovi e soldati sembrano persone del tutto diverse
-quando appaiono nella pietra e quando appaiono nella stampa.
-Non intendo che le storie scolastiche siano false; non intendo nemmeno
-che contraddicano le altre impressioni o siano incoerenti
-con esse in alcun particolare.  Ma le due sono due mondi diversi;
-nel secondo si rivela tutto un universo di interessi e attività,
-di cui il primo era letteralmente sordo e muto.  È come se
-avessimo sentito del titolo nobiliare di Tennyson ma mai della sua poesia; o come se
-avessimo sentito del premierato di Wellington ma mai della sua arte del comando;
-o come se un biografo di Colombo si fosse dilungato sull'uovo
-ma avesse taciuto sul Continente Americano.
-
-Prendo un esempio tipico.  La vicenda della violenza dinastica
-dell'Inghilterra del Quattrocento è, a scuola, davvero pittoresca.
-Vediamo il Leone di Agincourt morire con una condanna sospesa sulla sua casa usurpatrice,
-lasciando tutto ciò che aveva conquistato in Inghilterra all'intrigo e all'audacia
-di Gloucester, tutto ciò che aveva conquistato in Francia allo sterminatore
-nazionalismo di Giovanna d'Arco.  L'unico bastone su cui il Lancaster possa appoggiarsi
-è la nuora di Re Harry, Margherita d'Angiò, una donna quasi altrettanto
-combattiva della stessa Giovanna d'Arco:  Tra queste figure forti e sinistre,
-alquanto malate ma intensamente drammatiche, a stento si guarda il povero
-giovane dal volto pallido, che si dice non del tutto sano di mente, il quale in realtà
-eredita le corone d'Inghilterra e di Francia.  Si combattono battaglie intorno a lui,
-come intorno all'asta di legno d'un pennone; si tengono consigli intorno a lui,
-come intorno alla mazza inerte sul tavolo del Parlamento.  Sembra sempre
-rinchiuso da qualche parte e dimenticato; e non ricordiamo nemmeno
-il suo volto sciocco mentre osserviamo Margherita sfidare i fuorilegge nella foresta,
-o Riccardo il Gobbo rosso della disfatta di Tewkesbury.  A stento sappiamo
-quando muore.  Il suo assassinio è più silenzioso della morte naturale della maggior parte degli uomini.
-Ecco come Re Enrico VI appare nelle storie inglesi scritte--
-o piuttosto come non appare.  Non ha alcuna somiglianza, non contiene alcun
-accenno di come egli appaia ancora, non nelle storie inglesi, ma in Inghilterra.
-Non intendo che il suo carattere appaia particolarmente diverso;
-intendo che si scopre un nuovo campo d'attività per un tale carattere.
-Non è che il volto o la figura del debole giovane sia contraddetta--
-è come se entrassimo nel paese delle fate, dove un tale giovane può ottenere tutta
-l'onnipotenza delle fate.  È come scoprire che una cameriera
-è un medium o l'idiota del villaggio un mago.
-
-Camminate verso ovest fuori da Londra lungo la Valle del Tamigi
-e troverete un'enorme fondazione educativa che è passata
-quasi a sinonimo dell'Impero Britannico e dell'aristocrazia
-che amministra quell'Impero.  È immensamente ricca;
-è immensamente potente; è nota in tutto il mondo tanto,
-o più, di Oxford o Cambridge; e ogni ragazzo o uomo che abbia
-qualcosa a che farvi si sente ricordare mattina e sera in tutte
-le preghiere e le cerimonie del luogo che la ricchezza e il potere
-di cui vive sono la ricchezza e il potere di Re Enrico VI.
-Il più vittorioso dei soldati dichiara di aver vinto Waterloo
-grazie all'influsso che perse Tewkesbury.  Il timido e impotente
-ragazzo è ancora (persino dopo un profondo mutamento di religione)
-il santo patrono e benefattore di centinaia di quei ragazzi atletici
-o ambiziosi che compongono la grande leggenda di Eton e
-delle public school inglesi. Camminate verso est fuori da Londra dentro
-le contee pianeggianti finché non giungete a una delle due Università
-che sono le due fonti della vita e delle lettere nazionali.
-Troverete un College la cui cappella si erge in
-bellezza e tradizione sopra tutti i tetti di quella bella
-e tradizionale città; l'intero mondo della cultura è accorso
-a essa per la sua architettura o la sua musica o le sue vetrate.
-È una delle meraviglie del mondo inglese.  E non
-c'è portinaio così ignorante né studente così frivolo,
-a cui non sia stato detto venti volte e ripetuto venti volte
-che è l'idiota Enrico che attraverso cinque secoli
-sostiene questo palazzo di Dio.  Questo più debole dei Re è il Re
-per eccellenza, poiché il luogo è chiamato ‘[[King|King]]'s College',
-non di [[King|Re]] Enrico. La differenza d'impressione è molto strana;
-è una differenza, non è una contraddizione.  Poco di ciò che il
-[[history|libro di storia]] dice è falso; ma il [[history|libro di storia]] dice così poco.
-[[Henry VI|Enrico VI]] non fu un combattente efficace né uno statista sagace;
-e se vediamo il Medioevo come un groviglio cruento come Tewkesbury,
-lo vedremo molto piccolo.  Ma se facciamo un giro o due
-per una viuzza inglese e vediamo il Medioevo come un'antica
-e ricca civiltà, creativa e sistematica, con feconde
-scienze e magistrali arti--allora lo vedremo gigantesco.
-
-Si potrebbero addurre, naturalmente, numerosi altri casi.
-Un ragazzo intelligente che legga a scuola della contesa tra
-San [[Thomas Becket|Thomas Becket]] ed Enrico II simpatizza naturalmente, nel complesso,
-per quest'ultimo:  il [[King|Re]] appare al peggio un impaziente uomo
-d'azione; il santo appare al meglio un irritante sacerdotalista.
-Che il ragazzo chiuda la [[history|Storia]] d'Inghilterra e apra (diciamo)
-le [[Poems|poesie]] di Chaucer, scritte da un comune Inglese per Re e
-Regine non molto tempo dopo che il [[King|Re]] fu flagellato nella [[Cathedral|cattedrale]].
-Avrà grande difficoltà a raccapezzarsi nel mondo
-in cui si ritrova.  Si ritroverà nell'Inghilterra
-medievale in cui ogni uomo, donna e [[Child|bambino]] dà per scontato, del tutto e interamente,
-che San Thomas si oppose giustamente al [[King|Re]],
-tanto del tutto e interamente quanto San Giorgio si oppose giustamente al Drago.
-La stessa sconcertante impressione che il ragazzo troverebbe in Chaucer
-la troverebbe anche a Canterbury.  Queste atmosfere non dipendono mai
-da alcun dettaglio e sono sempre impossibili da descrivere; ma egli
-sentirà l'intera [[Cathedral|cattedrale]] levarsi come un solo rombo di unanime assenso,
-le pietre stesse gridare che il [[Blood|sangue]] d'un uomo giusto fu versato.
-Queste sono cose che i moderni libri di [[history|storia]] non spiegano.
-Bisogna immergersi nell'atmosfera di molte vecchie città e vecchi
-libri prima di cominciare a comprenderle.
-
-
-
-<span class="atom-split" data-atom="story_02_history_in_stone--part_02" data-title="The Glass Walking Stick — History In Stone (part 2)" data-chapter="History In Stone" data-kind="excerpt"></span>
-
-
-So there hangs over all England this singular [[Double|double]]
-impression of political [[history]] and of popular institution.
-Men who are remembered only for their cruelties in Hume or Hallam,
-are remembered only for their charities in Somerset or Sussex.
-From the marches of Scotland to the old kingdom of Cornwall,
-the English soil is loaded with the pieties of blasphemers,
-with the almsgiving of oppressors, with the ascetical
-enthusiasms of gluttons and drunkards, with the high artistic
-culture of barbarians.  William Rufus perished in Hampshire
-by his hunting, but he remains in Westminster by his building.
-Henry VII hammered together a huge [[Machine|machine]] of practical despotism;
-nothing remains of him but a chapel.  It looks as if there
-were a whole aspect of the lives of these people that is
-perpetually overlooked in dealing with them; and, indeed, such an
-oversight is common enough in the criticism of human life.
-I fancy that we must begin to fill in these void places
-in [[history]] with the vivid, though visible, thoughts of the men
-that worked there; otherwise it will be like watching men
-dancing and not hearing the tune.
-
-THE OLD [[Nurse|NURSE]]
-
-I WAS recently reading a very interesting study which set my
-thoughts rambling on many themes; and not least on the theme
-of old nurses.  For many other reasons it should be of interest
-to English people; especially those of them who have had
-the rudimentary intelligence to be interested in Irish people.
-For it is clear that the memories with which the mind of this
-old [[Nurse|nurse]] were filled, and almost choked, were the memories
-of the great Irish Famine, which she had known in her [[Childhood|childhood]]
-and which she communicated so vividly to an American [[Child|child]].
-The Irish Famine was more than an earthquake; it was an explosion.
-As an explosion scatters the arms and legs of a single man,
-so this catastrophe scattered the separated parts of a single people;
-and that most tragically, before our own people had attempted any
-real justice to that people.  For that reason, the ruin of Ireland
-simply strewed the whole earth with the enemies of England.
-What region in the world, cried the Trojan after the Fall
-of Troy, is not full of our ruin?  What region in the world
-is not now full of that wrong which we remedied so late?
-The testimony of the old [[Nurse|nurse]] in [[america|America]] is all the more forcible,
-because of the patient simplicity with which she narrated
-such wrongs.  Nobody is blamed for an earth quake; and nobody
-is of necessity blamed for an explosion; but people are blamed
-for their conduct during an earthquake or after an explosion.
-And it is the ugly [[Truth|truth]] that the blight of the Famine was
-not merely a blight upon a particular order of vegetables;
-among the blighted, not to say the blighters, were to be found
-a higher order of [[Animals|animals]]; even including politicians.
-The old Irish [[Nurse|nurse]] meekly witnessed to the wickedness of a
-neighbouring landlord who would not give food to starving men
-unless they were of his own faction.  And everyone knows that
-a hundred juries handed down Lord John Russell as a murderer.
-For that part of the record [[Alone|alone]] it would have been [[Well|well]]
-worth recording.  But I confess that I was very much interested
-in this Irish-American [[Nurse|nurse]] merely considered as a [[Nurse|nurse]].
-She was a pattern of that [[Paradox|paradox]] of submission and supremacy
-which belonged to that sort of old-fashioned servant.
-And it set me thinking about some thing that was lost,
-when the [[Nurse|nurse]] gave place to the governess and the governess
-gave place to the school mistress.  Bad and good abound in both;
-but something organic gave place to something official.
-
-What is the matter with English [[Education]] is that it is
-discussed in Educational English.  Even criticisms of [[Education]],
-even complaints of [[Education]], even confessions by educationists of
-the inadequacy of [[Education|education]], are all uttered in educational English.
-Educational English is not at all the same as educated English.
-It is a curious sort of technical jargon, possibly necessary
-and suitable to a science or a trade, but casting, as do all
-such terminologies, a curious air of coldness and unreality upon
-all that is discussed.  It is not the style in which anybody talks;
-even when it is the style in which somebody unfortunately speaks.
-It is not the style in which the educationists themselves talk,
-when they are talking as educated people and not as educationists.
-This can be felt in the way in which the very words used tend to
-contradict their own meaning; as in the word, ‘individual', in some
-sweeping generalization about ‘giving individual attention'.
-
-It never occurred to the Victorian [[Child|child]], when his [[Nurse|nurse]] was talking
-to him in his infancy, that she was giving him ‘individual attention'.
-It might have been quite a large family; but in that sense there
-were no relations except individual relations.  Nor need a nurse
-of the old sort always consciously individualize; she was quite
-capable of packing all the children off to bed on the probably
-sound generalization that the children, as children, were becoming
-a nuisance.  But the point is that the philosophy of the nurse
-began with one baby and went on to other babies as they arrived.
-The philosophy of the teacher begins with one class, or one school,
-and then goes on to decide, with a sigh, that it must give a little
-more individual attention.  The individual is discovered in the mass,
-as the atom was discovered in the familiar mass that we call matter.
-But the nurse was nearer to the father and mother, in the fact
-that the relation was organic and not official.  The nurse may
-have been a mere shadow of the mother; but that sort of shadow is
-of the same shape.  Nay, that sort of shadow is of some substance.
-Because it is very close to the creative realities of birth and babyhood,
-it has a quality that can never be described in Educational English.
-It will never be named at any educational congress.  It is
-difficult enough to name it anywhere; and in most cases it remains
-nameless because it is natural.  And men, especially modern men,
-are even more afraid of the natural than of the supernatural.
-But anyhow, if ever we did want to name it, we should never
-find even a word for it in all those wordy generalizations.
-It belongs to quite a different sort of English from any
-Educational English; to that world of words in which men wrote,
-‘Hast thou not a blessing for me, O my father?' or, ‘The smell
-of my son is as the smell of a field that the Lord has blessed.'
-Or in which men said, ‘Unto us a [[Child]] is born.'
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Aleggia dunque su tutta l'Inghilterra questa singolare [[Double|duplice]] impressione, di [[history|storia]] politica e di istituzione popolare. Uomini che sono ricordati solo per le loro crudeltà in Hume o in Hallam sono ricordati solo per le loro opere di carità nel Somerset o nel Sussex. Dalle marche di Scozia all'antico regno di Cornovaglia, il suolo inglese è carico delle pietà dei bestemmiatori, delle elemosine degli oppressori, degli entusiasmi ascetici dei ghiottoni e degli ubriaconi, dell'alta cultura artistica dei barbari. Guglielmo il Rosso perì nell'Hampshire per la sua caccia, ma sopravvive a Westminster per la sua opera edilizia. Enrico VII mise insieme a martellate un'enorme [[Machine|macchina]] di dispotismo pratico; di lui non rimane nulla se non una cappella. Sembra che vi sia tutto un aspetto della vita di questa gente che viene perpetuamente trascurato quando la si giudica; e, in verità, una simile svista è abbastanza comune nella critica della vita umana. Immagino che dobbiamo cominciare a colmare questi spazi vuoti nella [[history|storia]] con i pensieri vividi, benché visibili, degli uomini che vi operarono; altrimenti sarà come guardare degli uomini danzare senza udire la musica.
-
-LA VECCHIA [[Nurse|BALIA]]
-
-Stavo leggendo di recente uno studio molto interessante che mise i miei pensieri a vagabondare su molti temi; e non ultimo su quello delle vecchie balie. Per molte altre ragioni dovrebbe interessare gli Inglesi; specialmente quelli tra loro che hanno avuto l'elementare intelligenza di interessarsi agli Irlandesi. Poiché è chiaro che i ricordi di cui era colma, e quasi soffocata, la mente di questa vecchia [[Nurse|balia]], erano i ricordi della grande Carestia irlandese, che ella aveva conosciuto nella sua [[Childhood|infanzia]] e che comunicò così vividamente a un [[Child|bambino]] americano. La Carestia irlandese fu più di un terremoto; fu un'esplosione. Come un'esplosione disperde le braccia e le gambe di un solo uomo, così questa catastrofe disperse le parti separate di un solo popolo; e ciò nel modo più tragico, prima che il nostro stesso popolo avesse tentato una qualche vera giustizia verso quel popolo. Per questa ragione, la rovina dell'Irlanda cosparse semplicemente tutta la terra di nemici dell'Inghilterra. Quale regione al mondo, gridò il Troiano dopo la Caduta di Troia, non è piena della nostra rovina? Quale regione al mondo non è ora piena di quel torto a cui rimediammo così tardi? La testimonianza della vecchia [[Nurse|balia]] in [[america|America]] è tanto più incisiva, per la paziente semplicità con cui narrava tali torti. Nessuno viene incolpato per un terremoto; e nessuno viene necessariamente incolpato per un'esplosione; ma la gente viene incolpata per la propria condotta durante un terremoto o dopo un'esplosione. Ed è la brutta [[Truth|verità]] che il flagello della Carestia non fu soltanto un flagello su un particolare ordine di vegetali; tra i flagellati, per non dire i flagellatori, si trovava un ordine superiore di [[Animals|animali]]; compresi persino i politici. La vecchia [[Nurse|balia]] irlandese testimoniò mitemente la malvagità di un latifondista vicino che non voleva dar cibo a uomini affamati a meno che non fossero della sua stessa fazione. E tutti sanno che un centinaio di giurie condannò Lord John Russell come assassino. Anche solo per quella parte del racconto [[Alone|da sola]] sarebbe [[Well|ben]] valsa la pena di registrarla. Ma confesso che ero molto interessato a questa [[Nurse|balia]] irlando-americana considerata semplicemente come [[Nurse|balia]]. Era un modello di quel [[Paradox|paradosso]] di sottomissione e supremazia che apparteneva a quel tipo di servitore all'antica. E ciò mi fece riflettere su qualcosa che è andato perduto, quando la [[Nurse|balia]] cedette il posto alla governante e la governante cedette il posto alla maestra di scuola. Il male e il bene abbondano in entrambe; ma qualcosa di organico cedette il posto a qualcosa di ufficiale.
-
-Il guaio dell'[[Education|istruzione]] inglese è che la si discute in Inglese Educativo. Perfino le critiche all'[[Education|istruzione]], perfino le lamentele sull'[[Education|istruzione]], perfino le confessioni degli educatori circa l'inadeguatezza dell'[[Education|istruzione]], sono tutte espresse in Inglese Educativo. L'Inglese Educativo non è affatto lo stesso dell'Inglese istruito. È una curiosa sorta di gergo tecnico, forse necessario e adatto a una scienza o a un mestiere, ma che getta, come fanno tutte le terminologie di quel genere, una curiosa aria di freddezza e irrealtà su tutto ciò che viene discusso. Non è lo stile in cui chiunque parla; anche quando è lo stile in cui qualcuno purtroppo si esprime. Non è lo stile in cui gli educatori stessi parlano, quando parlano come persone istruite e non come educatori. Lo si può percepire nel modo in cui le stesse parole usate tendono a contraddire il proprio significato; come nella parola «individuale», in qualche generalizzazione radicale sul «prestare attenzione individuale».
-
-Non venne mai in mente al [[Child|bambino]] vittoriano, mentre la sua [[Nurse|balia]] gli parlava nella prima infanzia, che ella gli stesse prestando «attenzione individuale». Poteva trattarsi di una famiglia assai numerosa; ma in quel senso non esistevano relazioni se non relazioni individuali. Né una balia della vecchia scuola aveva sempre bisogno di individualizzare consapevolmente; era del tutto capace di spedire a letto tutti i bambini sulla generalizzazione probabilmente fondata che i bambini, in quanto bambini, stavano diventando una seccatura. Ma il punto è che la filosofia della balia cominciava con un solo neonato e proseguiva con gli altri neonati man mano che arrivavano. La filosofia dell'insegnante comincia con una classe, o una scuola, e poi decide, con un sospiro, che deve prestare un po' più di attenzione individuale. L'individuo viene scoperto nella massa, così come l'atomo fu scoperto in quella massa familiare che chiamiamo materia. Ma la balia era più vicina al padre e alla madre, nel fatto che la relazione era organica e non ufficiale. La balia poteva essere una mera ombra della madre; ma quella sorta di ombra ha la stessa forma. Anzi, quella sorta di ombra ha una certa sostanza. Poiché è assai vicina alle realtà creatrici della nascita e della prima infanzia, essa possiede una qualità che non potrà mai essere descritta in Inglese Educativo. Non verrà mai nominata in alcun congresso pedagogico. È già abbastanza difficile nominarla in qualsiasi luogo; e nella maggior parte dei casi resta senza nome perché è naturale. E gli uomini, specialmente gli uomini moderni, hanno ancor più paura del naturale che del soprannaturale. Ma comunque sia, se mai volessimo darle un nome, non troveremmo mai nemmeno una parola per essa in tutte quelle prolisse generalizzazioni. Essa appartiene a un genere di inglese del tutto diverso da qualsiasi Inglese Educativo; a quel mondo di parole in cui gli uomini scrivevano: «Non hai una benedizione per me, o padre mio?» oppure: «L'odore di mio figlio è come l'odore di un campo che il Signore ha benedetto.» O in cui gli uomini dissero: «A noi è nato un [[Child|Bambino]].»
-
-
-
-<span class="atom-split" data-atom="story_03_playing_with_an_idea--part_01" data-title="The Glass Walking Stick — Playing With An Idea (part 1)" data-chapter="Playing With An Idea" data-kind="excerpt"></span>
-
-
-PLAYING WITH AN IDEA
-
-THE serious magazines, without having any convictions to speak of, are
-just sufficiently stern or bigoted to forbid irreverence.  The frivolous
-magazines are even more stern and bigoted; for they forbid reverence.
-They actually veto the instinctive mention of mighty and holy things.
-Thus the sincere journalist is kept constantly in a state of
-roaring inaction; having been forced to make his theology dry he plunges
-with a far more boyish ardour into the pleasures of pure folly.
-But the swing of the pendulum is some times rather wild and dizzy.
-My meaning is this:  that a good man ought to [[Love|love]] nonsense;
-but he ought also to see nonsense--that is, to see that it is not sense.
-Our very pleasure in pure fancies should consist partly in the certainty
-that they are not facts.  Nothing is more perilous and unmanly
-in modern thought than the way in which people will be led a [[Dance|dance]]
-by some dexterous and quite irresponsible suggestion, some theory
-in which even the theorist does not believe, some intellectual
-levity which is not honest enough even to be called a lunacy.
-They hear some flying notion--as that Cromwell wrote [[Milton]],
-or that [[Christianity]] was stolen from the Aztecs; they receive it
-first laughingly, then fancifully, then speculatively, then seriously,
-then idolatrously, even to slaying; and yet all the [[Time|time]] with nothing
-to go on but the fourth-hand version of a few entertaining coincidences.
-Exactly that sort of neat and fantastic solution which would make
-a glorious [[Detective|detective]] story is employed to make an utterly preposterous
-book of [[history]] or criticism.
-
-No, I do not think it is wrong to play with these nonsensical hypotheses;
-I have had great fun out of fitting them together.  One of my
-friends maintains that Tacitus never lived and that his works
-are a forgery of the sixteenth century; another explains the whole
-life of St Paul in terms of an unabated hatred for [[Christianity]].
-I am not against playing the [[Fool|fool]] with these fancies, but I am
-against letting them play the [[Fool|fool]] with me.  To take one case
-at random, one could certainly make a huge theory, upheld by
-many coincidences, that men's surnames have constantly suited them.
-It really is a remarkable thing to reflect how many frightfully fine
-men have had frightfully fine names.  How could we have rounded
-off our sentences without such names as ‘Hannibal' and ‘Napoleon',
-or ‘Attila' and ‘Charlemagne'?  But there are more startling cases.
-There is one great [[artist]] whose art was ultimately sacred and seraphic,
-yet in its labour and technique peculiarly strenuous and military;
-if one looked at his work only one would think of a harsh angel,
-an angel in armour.  How comes it that this man actually bore
-the name of the Archangel [[Michael]]--Michelangelo?  How comes it that
-a contemporary and more gracious [[artist]] happened to be christened
-after a more gracious archangel--Raphael?
-
-Or take another case.  If you or I had to invent out of our own
-heads a really shattering and shining name, a name fit for some
-flaming [[Hero|hero]] defying the [[Stars|stars]], a name on horseback and high in
-the saddle--could we think of any so chivalrous or so challenging
-as Shakespeare?  The very word is like Lancelot at his last
-tournament with a touch of the divine impotence of [[Don Quixote]].
-In fact, I know only one surname that is really finer
-than Shakespeare, and that is Brakespear, the only English Pope.
-A pleasing [[Lyric|lyric]] in prose might be built up about the two of them;
-the one Englishman who [[Rose|rose]] to the highest of all official places,
-and the other who [[Rose|rose]] to the highest of all unofficial.
-Much eloquence and irony (if I had [[Time|time]] to write them)
-might be uttered about the contrast between the English Pope,
-so humble and silent in his splendid publicity, and the English poet,
-so hearty and swaggering in his obscurity and neglect.
-It is at least certain that there was only one Englishman on
-the highest platform of priests, and only one on the highest
-platform of poets; and it is certain that each of their names
-is the only exact rhyme to the other one.
-
-That is what you might call a coincidence; but the coincidence
-goes further.  The actual meaning of the two names is appropriate
-to the two men in their two positions.  If there was one thing
-more than another that the [[Renaissance]] did it was to shake
-the spear, to brandish the lance even more than to use it,
-to value the lance more for its flapping pennon than its point.
-If there was one thing, on the other hand, that a Pope
-in the twelfth century had to do, it was to break the spear--
-to bend the thick necks of the throned fighters who could
-not otherwise have conceived anything so fine as fighting.
-William Shakespeare is really very like the exultant [[Monster|monster]]
-in the Old Testament, who laughs at the shaking of the spear.
-But Nicholas Brakespear stood in the Dark Ages for a simpler
-and more searching reminder, of Him who snappeth the spear
-in twain and takes off the [[Wheel|wheel]] of the chariot.
-
-The above is an impromptu instance of what I call playing with
-an idea; but the question is, what does one think of the idea?
-I will tell you what I think of it; I think it is complete bosh.
-I am almost certain that Raphael and Michelangelo are a coincidence.
-I am almost certain that Shakespeare and Brakespear are an
-accidental rhyme.  I will carry the fancy as far as I choose;
-but if it tries to carry me as far as it chooses, I will remind
-it of several things.  I will point out to it that in plain fact
-the names of literary men are often quite arrestingly unsuitable.
-Newman was by no means a worshipper of novelty; and one of the most
-energetic and intelligent atheists of my acquaintance is saddled
-with the surname of Priest.
-
-Or take a classic example.  Can anyone read the cold and cutting
-work of Swift without feeling that his surname should have
-been Steele?  Can anyone read the impetuous work of Steele without
-feeling that his surname should have been Swift?  We should really
-feel much happier if we could talk of the brilliant blunders
-of Dick Swift and the cool, saturnine strength of Jonathan Steele.
-In other words, my speculation about surnames is just large
-enough to fill a magazine article, but is not large enough
-to fill even a moderate-sized brain.  It is this power
-of recovery after extravagance that I urgently recommend.
-Indulge in all the most decadent or futile fantasies,
-as long as you can curb the indulgence, like that of alcohol.
-Ride on the [[nightmare]], if you prefer such [[Horse|horse]] flesh; only do not
-let the [[nightmare]] ride on you.  Find the mare's nest which rocks
-on the tallest and darkest trees, and steal the addled eggs;
-but do not make your breakfast off them every morning for ever.
-Learn to be nonsensical and then to be sensible again;
-to create strange things and still to be independent of them.
-Learn to suggest a thing, to urge it, to prove it, and still
-to disbelieve it.  For the very few things that are really
-worth believing are not worth proving.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-GIOCARE CON UN'IDEA
-
-Le riviste serie, pur non avendo convinzioni degne di nota, sono appena abbastanza severe o bigotte da vietare l'irriverenza. Le riviste frivole sono ancora più severe e bigotte; poiché vietano la riverenza. Pongono addirittura il veto sulla menzione istintiva di cose possenti e sacre. Così il giornalista sincero è tenuto costantemente in uno stato di rombante inazione; costretto a rendere arida la sua teologia, si tuffa con ardore assai più fanciullesco nei piaceri della pura follia. Ma l'oscillazione del pendolo è talvolta piuttosto selvaggia e vertiginosa. Il mio significato è questo: che un uomo buono dovrebbe [[Love|amare]] il nonsenso; ma dovrebbe anche vedere il nonsenso — ossia vedere che non è senso. Il nostro stesso piacere nelle pure fantasie dovrebbe consistere in parte nella certezza che esse non sono fatti. Nulla è più pericoloso e indegno di un uomo, nel pensiero moderno, del modo in cui la gente si lascia menare per la [[Dance|danza]] da qualche suggestione destra e del tutto irresponsabile, qualche teoria in cui nemmeno il teorico crede, qualche leggerezza intellettuale che non è abbastanza onesta nemmeno per essere chiamata follia. Odono qualche nozione volante — come che Cromwell abbia scritto [[Milton]], o che il [[Christianity|Cristianesimo]] sia stato rubato agli Aztechi; la ricevono dapprima ridendo, poi con fantasia, poi con speculazione, poi con serietà, poi idolatricamente, fino a uccidere; eppure per tutto il [[Time|tempo]] senza nulla su cui basarsi se non la versione di quarta mano di qualche divertente coincidenza. Esattamente quel genere di soluzione ordinata e fantastica che farebbe una gloriosa storia [[Detective|poliziesca]] viene impiegato per fare un libro di [[history|storia]] o di critica del tutto assurdo.
-
-No, non penso che sia sbagliato giocare con queste ipotesi assurde; mi sono molto divertito a incastrarle insieme. Uno dei miei amici sostiene che Tacito non sia mai esistito e che le sue opere siano una falsificazione del Cinquecento; un altro spiega l'intera vita di San Paolo nei termini di un odio inesausto per il [[Christianity|Cristianesimo]]. Non sono contrario a fare il [[Fool|folle]] con queste fantasie, ma sono contrario a lasciare che esse facciano il [[Fool|folle]] con me. Per prendere un caso a caso, si potrebbe di certo costruire un'enorme teoria, sostenuta da molte coincidenze, secondo cui i cognomi degli uomini si sono costantemente addetti a loro. È davvero una cosa notevole riflettere su quanti uomini terribilmente eccellenti abbiano avuto nomi terribilmente eccellenti. Come avremmo potuto arrotondare le nostre frasi senza nomi come «Annibale» e «Napoleone», o «Attila» e «Carlomagno»? Ma ci sono casi ancora più sorprendenti. C'è un grande [[artist|artista]] la cui arte fu in fin dei conti sacra e serafica, eppure nel suo lavoro e nella sua tecnica peculiarmente strenua e militare; se si guardasse soltanto la sua opera si penserebbe a un angelo aspro, un angelo in armatura. Come mai quest'uomo portò per l'appunto il nome dell'Arcangelo [[Michael|Michele]] — Michelangelo? Come mai un [[artist|artista]] contemporaneo e più grazioso fu battezzato con il nome di un arcangelo più grazioso — Raffaello?
-
-Oppure prendiamo un altro caso. Se io o voi dovessimo inventare di nostra testa un nome davvero fragoroso e splendente, un nome degno di qualche fiammeggiante [[Hero|eroe]] che sfida le [[Stars|stelle]], un nome a cavallo e alto in sella — potremmo pensarne uno tanto cavalleresco o tanto provocatorio quanto Shakespeare? La parola stessa è come Lancillotto al suo ultimo torneo, con un tocco della divina impotenza di [[Don Quixote|Don Chisciotte]]. In effetti, conosco un solo cognome che sia davvero più bello di Shakespeare, ed è Brakespear, l'unico Papa inglese. Un piacevole [[Lyric|componimento lirico]] in prosa potrebbe essere costruito attorno ai due; l'unico Inglese che [[Rose|salì]] al più alto di tutti i posti ufficiali, e l'altro che [[Rose|salì]] al più alto di tutti quelli non ufficiali. Molta eloquenza e ironia (se avessi [[Time|tempo]] di scriverle) potrebbero essere spese sul contrasto tra il Papa inglese, così umile e silenzioso nella sua splendida notorietà, e il poeta inglese, così gioviale e spavaldo nella sua oscurità e trascuratezza. È perlomeno certo che ci fu un solo Inglese sulla più alta piattaforma dei sacerdoti, e uno solo sulla più alta piattaforma dei poeti; ed è certo che ciascuno dei loro nomi è l'unica rima esatta dell'altro.
-
-Questo è ciò che potreste chiamare una coincidenza; ma la coincidenza va oltre. Il significato reale dei due nomi è appropriato ai due uomini nelle loro due posizioni. Se ci fu una cosa più di ogni altra che il [[Renaissance|Rinascimento]] fece, fu di scuotere la lancia, di brandire l'asta ancor più che di usarla, di apprezzare la lancia più per il suo pennone svolazzante che per la sua punta. Se invece ci fu una cosa che un Papa nel dodicesimo secolo dovette fare, fu di spezzare la lancia — di piegare i grossi colli dei guerrieri assisi sul trono, che altrimenti non avrebbero potuto concepire nulla di così bello quanto il combattere. William Shakespeare somiglia davvero molto all'esultante [[Monster|Mostro]] dell'Antico Testamento, che ride allo scuotersi della lancia. Ma Nicholas Brakespear si ergeva, nei Secoli Bui, a più semplice e penetrante richiamo di Colui che spezza in due la lancia e toglie la [[Wheel|ruota]] al carro.
-
-Quanto precede è un esempio estemporaneo di ciò che chiamo giocare con un'idea; ma la questione è: cosa si pensa dell'idea? Vi dirò cosa ne penso io; penso che sia una completa sciocchezza. Sono quasi certo che Raffaello e Michelangelo siano una coincidenza. Sono quasi certo che Shakespeare e Brakespear siano una rima accidentale. Porterò la fantasia fin dove mi aggrada; ma se essa tenta di portare me fin dove aggrada a lei, le rammenterò parecchie cose. Le farò notare che, di puro fatto, i nomi degli uomini di lettere sono spesso quanto mai stridentemente inadatti. Newman non era affatto un adoratore della novità; e uno degli atei più energici e intelligenti di mia conoscenza è gravato del cognome di Priest, cioè Prete.
-
-Oppure prendiamo un esempio classico. Può qualcuno leggere l'opera fredda e tagliente di Swift senza sentire che il suo cognome avrebbe dovuto essere Steele, cioè Acciaio? Può qualcuno leggere l'opera impetuosa di Steele senza sentire che il suo cognome avrebbe dovuto essere Swift, cioè Rapido? Ci sentiremmo davvero molto più felici se potessimo parlare dei brillanti abbagli di Dick Swift e della fredda, saturnina forza di Jonathan Steele. In altre parole, la mia speculazione sui cognomi è appena grande abbastanza da riempire un articolo di rivista, ma non abbastanza grande da riempire nemmeno un cervello di misura moderata. È questo potere di ripresa dopo la stravaganza che raccomando con urgenza. Indulgete pure in tutte le fantasie più decadenti o futili, purché sappiate frenare l'indulgenza, come quella dell'alcol. Cavalcate l'[[nightmare|incubo]], se preferite quella carne di [[Horse|cavallo]]; solo, non lasciate che l'[[nightmare|incubo]] cavalchi voi. Trovate il nido della cavalla che dondola sugli alberi più alti e più scuri, e rubate le uova guaste; ma non fatene la vostra colazione ogni mattina in eterno. Imparate a essere insensati e poi a essere di nuovo sensati; a creare cose strane e tuttavia a rimanerne indipendenti. Imparate a suggerire una cosa, a sollecitarla, a provarla, e ciò nonostante a non crederci. Poiché le pochissime cose che vale davvero la pena di credere non vale la pena di provarle.
-
-
-
-<span class="atom-split" data-atom="story_03_playing_with_an_idea--part_02" data-title="The Glass Walking Stick — Playing With An Idea (part 2)" data-chapter="Playing With An Idea" data-kind="excerpt"></span>
-
-
-THE WALKING [[Paradox|PARADOX]]
-
-THE English People have a peculiar appetite for [[Paradox|paradox]].
-I suppose such a statement will itself be called a [[Paradox|paradox]];
-for the phrase is commonly applied, for some reason or other,
-not to Englishmen generally, but to the one sad and solitary
-Englishman who bears [[Alone|alone]], in this column, the doom or judgement
-upon his race.  Both he and his race, however, remain reasonably
-cheerful under it; and, though it is rather a bore to be
-called paradoxical, it is rather a compliment to be recognized
-as national.  Nevertheless, there are shades of variety,
-and the mad English man may wear his wild [[Rose|rose]] with a difference.
-The curious thing about the representative Englishman
-of the last few centuries is that he instinctively pursued
-the wildest [[Paradox|paradox]] and then accepted it as a solid truism.
-He said he was hard-headed, and stood on his head to prove it.
-
-For instance, saying, ‘We may not understand political theories,
-but our constitution works well in practice', is a piece of wild paradox
-and only loved as such, like a non sense rhyme of Lear or Lewis Carroll.
-It is exactly like saying, ‘We cannot add up figures correctly;
-we are quite Content if the result comes out right.'  It is like saying,
-‘It is true that we got the wrong longitude and the wrong latitude;
-but what does that matter when it means that we find the place we are
-looking for?'  There is no answer to this beautiful nonsense, except to
-say that we do not get the right result or find the right place, except in
-the Great Gromboolian Plain or the Land Where the Jumblies Live.
-But it is a beautiful land to live in, and it is remarkably like England.
-Of course, anything in England that was really practical was achieved
-in spite of neglecting the theoretical, and not because of it.
-But anything in England that was poetical, as distinct
-from practical, really did owe something to this taste for paradox.
-In this sense the other name of England is Elfland.  From this spirit
-comes all that quaintness in the names of places or in the very plan
-of towns which is so delightful a feature of England and which is now
-being steadily destroyed.
-
-Even in the nonsense rhymes to which I have referred, there is
-a constant unconscious groping after this native tradition.
-Not for nothing did even the nonsense rhymer bear a name out
-of ancient British legend and literature; so that the merry
-madman was a sort of parody of the melancholy madman.
-One might almost write another grim and grotesque scene of madness,
-of the meeting between the tragic Lear and the comic Lear.
-But both are full of that quality of quaintness; that quality that
-pre vents the tragic hero, even when he is most tragic, from being
-entirely heroic; or, at any rate, from being entirely classic.
-The height from which a man in King Lear looks dizzily
-down is not a mountain or a Tower of Babel, but only one of
-those chalk cliffs that are to us the white walls of home.
-And when the nonsense rhymer invents a nonsense place and calls
-it The Chankley Bore, we feel by the very sound of it that it
-might be in Sussex.
-
-Or, again, there is nothing but paradox in the whole legend
-of the Strong Silent Man, as in the legend of the Dong with
-the Luminous Nose.  Indeed, I remember suggesting that historical
-students may some day explain the inexplicable lyric by calling it
-a contemporary satire on Oliver Cromwell, who was jeered at in his
-own time for having a red nose, and revered in our time, far less
-reason ably, for being a Strong Silent Man.  As a matter of fact,
-he may have been strong, but he was the very reverse of silent.
-He talked a great deal; and that is one of the things that makes me
-think there was really something in him.  But anyhow, it is nonsense
-to assume that a man must have something in him merely because you
-cannot get anything out of him.  It is a pure paradox itself.
-The natural and sensible assumption would be that a man who has
-anything to say will want to say it.  And, nine times out of ten,
-anybody who really has anything to say does want to say it.
-He would be rather an unpleasant fellow if he did not.
-Indeed, he would be not much more reputable than a miser.
-It is no more admirable to have valuable suggestions to make
-and not put them into circulation than it is to have valuable coin
-of the realm and keep it stuffed into a greasy old stocking.
-
-Of course it is quite true that various accidents or conditions
-may keep a worthy man silent when he really is in the right;
-such as his being shy, his being born deaf and dumb, his being
-gagged by burglars and left alone in the coal-cellar, his being
-entrusted with a secret, or his being afflicted with a stammer.
-But these are exceptions.  There may be strong silent men,
-as there may be strong deaf men, or strong short-sighted men.
-But deafness does not strengthen anybody; nor does strength in
-itself obscure the eyesight.  The truth is that the whole of this
-notion is, if not entirely nonsensical, at least entirely poetical.
-The fancy fascinates the English temper, because there is
-in it a purely romantic effect of transition and surprise.
-It is obvious that it makes a better story, and especially
-a better play, if the quiet man in the corner suddenly takes
-the centre of the stage and reveals the secret of the drama.
-It is not unnatural that the nation which produced the greatest
-of dramatists should have a taste for such effects of drama.
-
-What is curious about the English psychology is this; that it has this
-purely artistic appetite and then persuades itself that it is practical.
-The notion of the vainglorious person, with his heart on his sleeve,
-defeated by the strong man, who has something more valuable up his sleeve,
-is a story that had been the foundation of a hundred farces and fanciful
-comedies and romantic melodramas before it was made the basis of a
-scientific theory of races or a scheme of the British Constitution.
-The strong silent gentleman had been in all sorts of shoddy or shabby
-theatrical parts; he had been the good brother and the bad baronet and
-the stranger and the first walking gentleman, and even Charles's Friend,
-before it was discovered by science that he was the Nordic man and
-the sane and practical Anglo-Saxon.
-
-In other words, we have as a nation got our ideas out of novels
-and plays and poetical romances, much more than out of economic
-textbooks or even commercial ledgers.  That sort of fiction is
-naturally full of paradox; or, in other words, full of surprise.
-It is the whole point of a fairy-tale to say that the fool found
-a windfall of amazing good fortune.  Therefore we said that a politician
-who did not think about politics would somehow or other muddle through.
-It is the whole point of a melodrama that the man whose lips
-have been sealed until the last moment comes forward and declares
-the innocence of the heroine or the hiding-place of the will.
-Therefore we said that any politician who was incompetent to speak
-must always be competent to act.
-
-All this belongs to a world of wild and yet subtle in version with which I
-can sympathize; which, in its proper place, I am even prepared to defend.
-But practical politics is not its proper place; and our politics have not
-been more practical for following only this flying gleam of paradox.
-In this matter we really do need a little more of the iron common
-sense of the Latins, who know that schemes and systems are made
-with logic, just as machines and engines are made with mathematics.
-Just as they know that two and two make four, so they know that thinking
-is really necessary to acting.  There is really some thing to be said
-for platitudes and plain intellectual processes; and the French peasant
-has remained very invincible in his own kitchen garden by dint of knowing
-how many beans make five.  But it takes all sorts to make a world;
-and France has not produced Shakespeare or a nonsense rhyme.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IL [[Paradox|PARADOSSO]] AMBULANTE
-
-Gli Inglesi hanno un peculiare appetito per il [[Paradox|paradosso]]. Suppongo che tale affermazione sarà a sua volta detta un [[Paradox|paradosso]]; poiché la formula viene comunemente applicata, per una ragione o per l'altra, non agli Inglesi in generale, ma all'unico Inglese triste e solitario che porta [[Alone|da solo]], in questa rubrica, la condanna o il giudizio sopra la propria stirpe. Tanto lui quanto la sua stirpe, tuttavia, restano ragionevolmente allegri sotto quel peso; e, per quanto sia piuttosto noioso essere chiamati paradossali, è piuttosto un complimento essere riconosciuti come nazionali. Ciò nondimeno vi sono sfumature di varietà, e il folle Inglese può portare la sua selvatica [[Rose|rosa]] con una differenza. La cosa curiosa dell'Inglese rappresentativo degli ultimi secoli è che d'istinto inseguiva il più sfrenato [[Paradox|paradosso]] per poi accettarlo come un solido luogo comune. Diceva d'essere un uomo dalla testa dura, e si reggeva sulla testa per dimostrarlo.
-
-Per esempio, dire: «Non capiremo le teorie politiche, ma la nostra costituzione funziona bene nella pratica», è un pezzo di sfrenato paradosso, e amato soltanto in quanto tale, come una filastrocca insensata di Lear o di Lewis Carroll. È esattamente come dire: «Non sappiamo sommare correttamente le cifre; siamo del tutto contenti se il risultato viene giusto». È come dire: «È vero che abbiamo sbagliato longitudine e sbagliato latitudine; ma che importa, se ciò significa che troviamo il luogo che cerchiamo?». Non c'è risposta a questa bella insensatezza, se non dire che non otteniamo il risultato giusto né troviamo il luogo giusto, tranne che nella Grande Pianura Gromboolica o nella Terra dove Vivono i Jumblies. Ma è una bella terra dove vivere, e somiglia in modo straordinario all'Inghilterra. Certo, tutto ciò che in Inghilterra fu davvero pratico venne conseguito a dispetto della trascuratezza del teorico, e non a causa sua. Ma tutto ciò che in Inghilterra fu poetico, in quanto distinto dal pratico, davvero doveva qualcosa a questo gusto per il paradosso. In questo senso l'altro nome dell'Inghilterra è la Terra degli Elfi. Da questo spirito viene tutta quella bizzarria nei nomi dei luoghi o nella pianta stessa delle città che è un tratto così delizioso dell'Inghilterra e che ora viene incessantemente distrutto.
-
-Perfino nelle filastrocche insensate cui ho accennato c'è un costante brancolare inconsapevole verso questa tradizione natìa. Non per nulla anche il rimatore dell'insensato portava un nome tratto dall'antica leggenda e letteratura britannica; sicché il matto allegro era una sorta di parodia del matto malinconico. Si potrebbe quasi scrivere un'altra tetra e grottesca scena di follia, quella dell'incontro tra il tragico Lear e il comico Lear. Ma entrambi sono pieni di quella qualità di bizzarria; quella qualità che impedisce all'eroe tragico, anche quando è più tragico, di essere interamente eroico; o, comunque, di essere interamente classico. L'altezza da cui un uomo nel Re Lear guarda vertiginosamente in giù non è una montagna o una Torre di Babele, ma soltanto una di quelle bianche scogliere gessose che per noi sono le mura candide di casa. E quando il rimatore dell'insensato inventa un luogo insensato e lo chiama Il Chankley Bore, sentiamo dal suono stesso che potrebbe trovarsi nel Sussex.
-
-Oppure, ancora, non c'è che paradosso nell'intera leggenda dell'Uomo Forte e Silenzioso, come nella leggenda del Dong dal Naso Luminoso. Anzi, ricordo di aver suggerito che gli studiosi di storia potrebbero un giorno spiegare l'inesplicabile lirica definendola una satira contemporanea su Oliver Cromwell, che ai suoi tempi era deriso per avere un naso rosso, e riverito ai nostri, assai meno ragionevolmente, per essere un Uomo Forte e Silenzioso. In realtà, forse era forte, ma era l'esatto contrario del silenzioso. Parlava moltissimo; ed è una delle cose che mi fanno pensare che davvero ci fosse qualcosa in lui. Ma comunque è un'assurdità supporre che un uomo debba avere qualcosa dentro di sé solo perché non se ne cava fuori nulla. È di per sé un puro paradosso. La supposizione naturale e sensata sarebbe che un uomo che ha qualcosa da dire vorrà dirlo. E, nove volte su dieci, chiunque abbia davvero qualcosa da dire vuole dirlo. Sarebbe un tipo piuttosto sgradevole se non lo facesse. Anzi, non sarebbe molto più rispettabile di un avaro. Non è più ammirevole avere preziosi suggerimenti da fare e non metterli in circolazione, di quanto lo sia avere preziosa moneta del regno e tenerla imbottita in una vecchia calza bisunta.
-
-Certo è del tutto vero che vari accidenti o condizioni possono tenere silenzioso un uomo degno quando davvero è nel giusto; come l'essere timido, l'essere nato sordomuto, l'essere imbavagliato da scassinatori e lasciato solo nella carbonaia, l'essere depositario di un segreto, o l'essere afflitto da balbuzie. Ma queste sono eccezioni. Possono esserci uomini forti e silenziosi, come possono esserci uomini forti e sordi, o uomini forti e miopi. Ma la sordità non rafforza nessuno; né la forza in sé offusca la vista. La verità è che tutta questa nozione è, se non del tutto insensata, quantomeno del tutto poetica. La fantasia affascina il temperamento inglese, perché in essa c'è un effetto puramente romantico di transizione e sorpresa. È ovvio che fa una storia migliore, e specialmente un dramma migliore, se l'uomo quieto nell'angolo prende all'improvviso il centro della scena e rivela il segreto della vicenda. Non è innaturale che la nazione che produsse il più grande dei drammaturghi abbia un gusto per simili effetti di dramma.
-
-Ciò che è curioso nella psicologia inglese è questo: che essa possiede questo appetito puramente artistico e poi si persuade di essere pratica. La figura del vanaglorioso, col cuore sulla manica, sconfitto dall'uomo forte, che ha qualcosa di più prezioso su per la manica, è una storia che era stata il fondamento di cento farse e commedie fantasiose e melodrammi romantici prima di essere fatta base di una teoria scientifica delle razze o di uno schema della Costituzione britannica. Il gentiluomo forte e silenzioso aveva recitato ogni sorta di parti teatrali scadenti o logore; era stato il fratello buono e il baronetto malvagio e lo straniero e il primo gentiluomo di passaggio, e perfino l'Amico di Charles, prima che la scienza scoprisse che era l'uomo nordico e il sano e pratico Anglosassone.
-
-In altre parole, come nazione abbiamo tratto le nostre idee dai romanzi e dalle commedie e dalle avventure poetiche assai più che dai manuali di economia o perfino dai registri commerciali. Quel genere di finzione è naturalmente pieno di paradosso; ovvero, in altre parole, pieno di sorpresa. È tutto il senso di una fiaba dire che lo sciocco trovò una manna di prodigiosa fortuna. Perciò abbiamo detto che un politico che non pensava alla politica in un modo o nell'altro se la sarebbe cavata alla meno peggio. È tutto il senso di un melodramma che l'uomo le cui labbra sono state sigillate fino all'ultimo momento si fa avanti e dichiara l'innocenza dell'eroina o il nascondiglio del testamento. Perciò abbiamo detto che qualunque politico incapace di parlare deve sempre essere capace di agire.
-
-Tutto ciò appartiene a un mondo di sfrenato e pur sottile capovolgimento con cui posso simpatizzare; che, al suo posto giusto, sono perfino disposto a difendere. Ma la politica pratica non è il suo posto giusto; e la nostra politica non è stata più pratica per aver seguito soltanto questo guizzo fugace di paradosso. In questa faccenda abbiamo davvero bisogno di un po' più del ferreo buon senso dei Latini, i quali sanno che gli schemi e i sistemi si fanno con la logica, proprio come le macchine e i motori si fanno con la matematica. Proprio come sanno che due più due fa quattro, così sanno che pensare è davvero necessario per agire. C'è davvero qualcosa da dire in favore dei luoghi comuni e dei semplici processi intellettuali; e il contadino francese è rimasto ben invincibile nel suo orto a forza di sapere quanti fagioli fanno cinque. Ma ci vuole di tutto per fare un mondo; e la Francia non ha prodotto Shakespeare né una filastrocca insensata.
-
-
-
-<span class="atom-split" data-atom="story_05_the_tradition_of_toledo--part_01" data-title="The Glass Walking Stick — The Tradition Of Toledo (part 1)" data-chapter="The Tradition Of Toledo" data-kind="excerpt"></span>
-
-
-THE TRADITION OF TOLEDO
-
-ONE of the first impressions created by a visit to Spain, in,
-any person with any historical [[Imagination|imagination]], is the sense of a world
-that runs round the Mediterranean rather than of three separate
-worlds which the sea divides.  It is, I suppose, what the old
-world meant by talking of the round or circle of the lands.
-The point is that a man might sail from port to port round
-the whole of that inland sea and find something at least linking
-all those places together.  If he pierced further into the various
-continents he would doubtless find things very different:
-very different if he plunged into what we call the African forests;
-very different if he set out on what we call the Asiatic plains.
-But a great deal that we imagine to be Asiatic in Lebanon,
-or African in Algiers, is really of the mixed central civilization,
-and at least as much European as the more Moorish parts of Spain.
-I think it is because people see this when they are not expecting
-it that they can make nothing of it and their descriptions are
-so unconvincing and conventional.  For when people see what they
-do not understand they do not even believe what they see.
-
-Thus Toledo looked to me much more like Jerusalem than Jerusalem
-ever looked like most of the pictures of it.  It has a wall
-crowning a [[Hill|hill]] whose steep sides have an indefinable look
-of a ruin and even a rubbish-heap. It is in the sort of country
-that is spotted with hardy olives or striped with hardy vines.
-It has that look that we never know in the rich rain and deep grasses
-of our northern islands--the look of vegetation being an exception.
-It is a green object and not merely a green background.
-For we owe our green fields to our grey clouds; and perhaps do
-not thank them often enough for it.  In those splendid Spanish
-ruins a man feels immediately that he is within a circle or radius
-of something that lay to the south, and that the same radius
-also touched Jerusalem at the ends of the earth.
-
-It is not easy to define what that circle is.  Those unduly discontented
-with the grey clouds may be inclined to say that it is simply the circle
-of the sun.  But I am inclined to think it is also the circle of a
-culture and a historical tradition, which touches all these places
-though it varies from place to place.  There is something in common
-between those opposite ends of the earth, or at least of the sea.
-The Crusaders have been in Jerusalem; the Moors have been in Toledo.
-But the conventional conception that cut up the world into four
-quarters in the old style does not look for such a similarity.
-It does not expect it; it cannot be expected to expect it.  It expects
-Jerusalem to be only an Asiatic bazaar like Baghdad or even Bombay.
-It expects Toledo to be concentrated on Toledo swords like Sheffield
-on Sheffield cutlery.  In many ways Toledo is very like a [[Sword|sword]],
-steely and of a stern sort of chivalry; but it is warmed from the south;
-it is in the circle of the sun.
-
-I know it is customary to talk about the Moorish influence, as if what
-is really the Mediterranean influence was always a Moslem influence.
-This I believe to be a complete mistake.  The indefinable connexion
-that links a town like Toledo to a town like Jerusalem existed
-long before Mahomet was born.  It remained essentially a Christian
-connexion long after Mahomet's religion had first swept over
-these places and at last retreated from them.  We may call it,
-if we like, the Roman influence, though even that is insufficient.
-We may connect it with our own view of the Christian [[unity]], though that
-will naturally be a matter of dispute.  But whatever it is, it did
-not come out of the [[Desert|desert]] with the dry negations of a [[Desert|desert]] creed.
-It did not plant all those vineyards with the veto of [[Islam]] upon wine.
-It did not carve all those images with the veto of [[Islam]] upon statues.
-It did not find the chivalric devotion to the lady by looking for it
-in the harem, or all the legends of the Mother and the Holy [[Child]]
-from the arid Arabian dogma of the isolation of God.
-
-The tradition for which Toledo still lifts its riven [[Crown|crown]] of roofs
-and battlements may have been stirred to life by movements out in
-the East, or mingled to advantage with strange and remote things;
-it may have gained as [[Well|well]] as given something in its contact with the Arab
-conquerors of Africa; but it is certain, if anything is certain,
-that when that spirit of Spain and of Western [[Christianity]] was touched
-to new life, it was in the form of its own life that it unfolded and to
-the height of its own destiny that it [[Rose|rose]] again; and [[Islam]] did not make
-a new world in such places, but only awakened a world that was asleep.
-That world is now very wide awake; and if the [[Cathedral|cathedral]] of Toledo was not
-merely modelled on a mosque even when the world was swept by the Moslem,
-it is now even less likely that featureless mosques will be the only
-churches of the future.
-
-TOM [[Jones|JONES]] AND THE ESCORIAL
-
-I [[Wonder|WONDER]] how many people have noticed that a famous quotation
-from Gibbon can now be classed with the fulfilled prophecies--
-or rather, what is even more mystic and oracular, with the
-half-fulfilled prophecies.  I say a quotation from Gibbon, for I
-[[Fear|fear]] it would be more misleading to call it a passage in Gibbon.
-Gibbon is now a classic; that is, he is quoted instead of being read.
-The thing most commonly quoted is an unusually stark and startling lie;
-the story which identifies St George with an Arian who was a
-swindling contractor.  It is still sometimes quoted as a [[Truth|truth]];
-though it is hard to understand how anybody with even the most
-superficial sense of [[history]] could ever have thought it true.
-Supposing, for the sake of argument, that the Church had been
-enthusiastically eager to canonize a swindler, it would
-have been quite impossible for her to canonize a heretic.
-But more often nowadays it is quoted as a lie; for the historian's
-cold hatred of the Christian tradition has begun to be felt and
-allowed for; but, as it is one of the few things quoted at all,
-it might be held to imply that the whole [[history]] was a tissue of lies.
-And this would be quite as unjust to Gibbon as Gibbon was to George.
-But there has been a reaction against that Age of Reason,
-in which we may lose even those parts of it that were
-really reasonable.  Whatever else we may say of our own age,
-for good or evil, nobody is likely to call it an Age of Reason.
-The later French Pantheists called Voltaire a barbarian,
-exactly as Voltaire had called Shakespeare a barbarian.
-And in the same way even the ‘Decline and Fall' has already
-declined and fallen.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LA TRADIZIONE DI TOLEDO
-
-Una delle prime impressioni suscitate da una visita in Spagna, in chiunque abbia un po' di [[Imagination|immaginazione]] storica, è il senso di un mondo che corre attorno al Mediterraneo, anziché di tre mondi separati che il mare divide. È, suppongo, ciò che il mondo antico intendeva parlando del cerchio o della cerchia delle terre. Il punto è che un uomo potrebbe navigare di porto in porto attorno all'intero di quel mare interno e trovare qualcosa che, almeno, colleghi insieme tutti quei luoghi. Se penetrasse più addentro nei vari continenti troverebbe senza dubbio cose assai diverse: assai diverse se si inoltrasse in ciò che chiamiamo le foreste africane; assai diverse se muovesse verso ciò che chiamiamo le pianure asiatiche. Ma buona parte di ciò che immaginiamo essere asiatico nel Libano, o africano ad Algeri, è in realtà della mescolata civiltà centrale, ed europea almeno quanto le parti più moresche della Spagna. Penso sia perché la gente vede questo quando non se l'aspetta che non riesce a cavarne nulla e le sue descrizioni risultano così poco convincenti e convenzionali. Perché quando la gente vede ciò che non comprende non crede nemmeno a ciò che vede.
-
-Così Toledo mi parve assai più simile a Gerusalemme di quanto Gerusalemme sia mai parsa simile alla maggior parte delle sue immagini. Ha una cinta di mura che corona una [[Hill|collina]] i cui fianchi ripidi hanno un indefinibile aspetto di rovina e persino di immondezzaio. Sorge in quella sorta di paese che è punteggiato di duri olivi o rigato di dure viti. Ha quell'aspetto che noi non conosciamo mai nella ricca pioggia e nelle folte erbe delle nostre isole settentrionali: l'aspetto della vegetazione come eccezione. È un oggetto verde e non semplicemente uno sfondo verde. Perché noi dobbiamo i nostri verdi campi alle nostre grigie nuvole; e forse non le ringraziamo abbastanza spesso per questo. In quelle splendide rovine spagnole un uomo sente immediatamente di trovarsi entro un cerchio o un raggio di qualcosa che stava a mezzogiorno, e che quello stesso raggio toccava anche Gerusalemme alle estremità della terra.
-
-Non è facile definire cosa sia quel cerchio. Chi è indebitamente scontento delle grigie nuvole potrebbe esser propenso a dire che è semplicemente il cerchio del sole. Ma io sono propenso a pensare che sia anche il cerchio di una cultura e di una tradizione storica, che tocca tutti questi luoghi pur variando di luogo in luogo. C'è qualcosa in comune tra quelle estremità opposte della terra, o almeno del mare. I Crociati sono stati a Gerusalemme; i Mori sono stati a Toledo. Ma la concezione convenzionale che tagliava il mondo in quattro quarti alla vecchia maniera non cerca una simile somiglianza. Non se l'aspetta; non le si può chiedere di aspettarsela. Si aspetta che Gerusalemme sia soltanto un bazar asiatico come Baghdad o perfino Bombay. Si aspetta che Toledo sia concentrata sulle spade di Toledo come Sheffield sulla coltelleria di Sheffield. Per molti versi Toledo è assai simile a una [[Sword|spada]], acciaiosa e di una cavalleria dal cipiglio severo; ma è scaldata dal mezzogiorno; è nel cerchio del sole.
-
-So che è consuetudine parlare dell'influsso moresco, come se ciò che è in realtà l'influsso mediterraneo fosse sempre un influsso musulmano. Questo lo ritengo un errore completo. L'indefinibile connessione che lega una città come Toledo a una città come Gerusalemme esisteva assai prima che Maometto nascesse. Rimase essenzialmente una connessione cristiana assai dopo che la religione di Maometto ebbe da prima travolto questi luoghi e infine si fu ritirata da essi. Possiamo chiamarlo, se vogliamo, l'influsso romano, benché anche questo sia insufficiente. Possiamo collegarlo con la nostra visione dell'[[unity|unità]] cristiana, benché questo sia naturalmente materia di disputa. Ma qualunque cosa sia, non venne fuori dal [[Desert|deserto]] con le aride negazioni di un credo del [[Desert|deserto]]. Non piantò tutti quei vigneti col veto dell'[[Islam]] sul vino. Non scolpì tutte quelle immagini col veto dell'[[Islam]] sulle statue. Non trovò la devozione cavalleresca alla dama cercandola nell'harem, né tutte le leggende della Madre e del Santo [[Child|Bambino]] dall'arido dogma arabo dell'isolamento di Dio.
-
-La tradizione per cui Toledo leva ancora la sua squarciata [[Crown|corona]] di tetti e bastioni può essere stata destata a vita da moti là in Oriente, o mescolata a suo vantaggio con cose strane e remote; può aver guadagnato non [[Well|meno]] di quanto abbia dato qualcosa nel suo contatto con i conquistatori arabi dell'Africa; ma è certo, se qualcosa è certo, che quando quello spirito di Spagna e della [[Christianity|Cristianità]] occidentale fu ridestato a nuova vita, fu nella forma della propria vita che esso si dispiegò e all'altezza del proprio destino che [[Rose|risorse]] di nuovo; e l'[[Islam]] non creò un mondo nuovo in tali luoghi, ma soltanto ridestò un mondo che dormiva. Quel mondo è ora ben desto; e se la [[Cathedral|cattedrale]] di Toledo non fu semplicemente modellata su una moschea nemmeno quando il mondo era travolto dai musulmani, è ora ancor meno probabile che informi moschee siano le uniche chiese del futuro.
-
-TOM [[Jones|JONES]] E L'ESCORIAL
-
-Mi [[Wonder|CHIEDO]] quante persone abbiano notato che una celebre citazione di Gibbon può ormai essere classificata tra le profezie adempiute — o piuttosto, cosa ancor più mistica e oracolare, tra le profezie a metà adempiute. Dico una citazione di Gibbon, perché [[Fear|temo]] che sarebbe più fuorviante chiamarla un passo di Gibbon. Gibbon è ormai un classico; ossia, viene citato anziché letto. La cosa più comunemente citata è una menzogna insolitamente cruda e sconcertante: la storia che identifica San Giorgio con un ariano che era un imbroglione appaltatore. Talora viene ancora citata come una [[Truth|verità]]; benché sia difficile capire come chiunque, anche col più superficiale senso della [[history|storia]], abbia mai potuto ritenerla vera. Supponendo, per amor di discussione, che la Chiesa fosse stata entusiasticamente ansiosa di canonizzare un truffatore, le sarebbe stato del tutto impossibile canonizzare un eretico. Ma più spesso, oggigiorno, viene citata come una menzogna; perché il freddo odio dello storico per la tradizione cristiana ha cominciato a essere avvertito e messo in conto; ma, essendo una delle poche cose citate del tutto, si potrebbe ritenere che essa implichi che l'intera [[history|storia]] fosse un tessuto di menzogne. E questo sarebbe altrettanto ingiusto verso Gibbon quanto Gibbon fu verso Giorgio. Ma c'è stata una reazione contro quell'Età della Ragione, nella quale potremmo perdere perfino quelle parti di essa che erano davvero ragionevoli. Qualunque altra cosa possiamo dire della nostra epoca, in bene o in male, nessuno è disposto a chiamarla un'Età della Ragione. I successivi panteisti francesi chiamarono Voltaire un barbaro, esattamente come Voltaire aveva chiamato Shakespeare un barbaro. E allo stesso modo perfino la «Storia della decadenza e caduta» è già decaduta e caduta.
-
-
-
-<span class="atom-split" data-atom="story_05_the_tradition_of_toledo--part_02" data-title="The Glass Walking Stick — The Tradition Of Toledo (part 2)" data-chapter="The Tradition Of Toledo" data-kind="excerpt"></span>
-
-
-But there is one other quotation from it that still deserves
-to be called a popular quotation.  Being a popular quotation, it is
-probably a popular misquotation.  Such a thing is normally misquoted;
-and I will here, to the best of my humble ability, misquote it.
-I have not got the book within reach; and I would not be
-bothered to look through the whole six volumes even if I had.
-But it is a passage in which he remarks, in a sort of parenthesis,
-that the family of Henry Fielding was connected in some way
-with the Imperial House of the Holy Roman Empire; and admits
-that the great princes of the dynasty might smile at the connexion;
-‘but the [[Romance|romance]] of Tom [[Jones]], that exquisite picture of life
-and manners, will outlive the palace of the Escorial and the imperial
-eagle of Austria'.
-
-[[Well]], it has already outlived the imperial eagle of Austria.
-That half of the defiant prediction has already become a definite and
-rather dull fact; almost in the way of an anti-climax. And it could not
-but [[Cross|cross]] my mind, like a cloud of some strange shape crossing the sky,
-when I stood recently under the ranked and rigid columns of the Escorial,
-that strange Spanish palace built by the harsh whim of one of
-the strangest of Spaniards and of men.  Philip the Second not only
-dedicated it to St Laurence, but built it in the shape of a gridiron.
-And I realized something appropriate in the image, beyond the suggestion
-of something in the [[King]]'s own life of stiffness and of [[Suffering|suffering]].
-SeÃ±or Junoy, the distinguished Catalan writer, said to me, with great
-imaginative insight:  ‘It seems so cold, and yet it is so ardent.'
-Philip's gridiron, almost like Pickwick's warming-pan, was a cover
-for hidden fire.  The very coldness of the surroundings accentuates
-that contained intensity.
-
-Others besides myself have often remarked on the curious fact
-that the guide-books and note-books of travel, and all the countless
-sketches and photographs and similar records, never seem to tell
-us the thing which seems most striking when it strikes the eye.
-I had heard about Philip the Second and the Escorial, and other
-elements in the picture; but I conceived a picture of Spain
-rather as if it must be a picture of Seville.  I thought vaguely
-that everything would happen in the summer and there would be
-a background of orange-trees and a hint of Moorish architecture.
-I had seen hundreds and hundreds of sketches and pictures of
-Spanish scenes, often probably of these identical Spanish scenes;
-and yet somehow the primary point of the whole impression
-had never pierced.
-
-Nobody had ever told me--at least, nobody had ever told me
-so that I realized and remembered it--that the Spanish King had
-done something altogether unique and even unnatural when he built
-in such a place and in such a style his grim gridiron of stone.
-Nobody had made me understand that he had built a palace almost
-on the top of a mountain, far away upon naked and sterile heights
-only approached by rocky and ruinous roads like mountain passes.
-He had built a palace where anyone else would have built a hermitage.
-Like a madman, he had reared his tower of pomp and pride in a
-howling wilderness, where he might literally hear the wolves howl.
-
-Yet there was nothing extravagant or fantastic in his
-architectural achievement; it was too sternly classical to be
-classed even with the Baroque.  It is said that he sat outside
-watching it being built, with the plans in his hand and his gouty
-foot on a stool; jealously vigilant to see that not a curve
-of too much exuberance should soften that terrible triangle.
-A curious and not very pleasant person though genuine in his way;
-but he did great harm in one respect.  He was a Puritan
-on the wrong side; that is, he was on what I should call
-the right side, but it was not the side of the Puritans.
-He was very unlike most Spaniards but he has come to stand as a type
-of all of them.  And under the shadow of his mere individuality
-we forget the real light and shade in the whole picture.
-We forget that his religious enemies were mostly Calvinists
-and men even more gloomy than he, and gloomy on principle
-as well as by accident.  In his unlucky version of the legend
-of St Laurence, he was himself so much more like a persecutor
-than a martyr that he made any martyr look like a saint.
-We forget that most of the martyrs were Calvinists, who would
-have built something much more inhuman than the Escorial,
-only they were too inhuman to build anything at all.
-Perhaps he also forgot that, in the original legend, St Laurence
-joked on the gridiron.
-
-I think the prophecy of Gibbon, like the prayer of somebody
-in Virgil, will be half fulfilled and half scattered to the winds.
-I do not anticipate the decline and fall of the Escorial; I think
-it would take a good deal to remove that formidable object,
-a good deal more than is needed for the rather artificial
-revolution that altered an Austrian postage stamp.
-For Spain is fortunate in having had her decline and fall,
-and being now (I think) quite clearly rising once more.
-The Escorial has survived the fall, and there seems
-no reason why it should fall with the resurrection.
-But I do certainly hope that in another sense its shadow may
-grow a little less, as has the shadow of the imperial eagle.
-For a long time past the Escorial had stood for Philip
-the Second and Philip the Second had stood for Spain.
-Whatever is harsh or sombre in this one particular palace of this
-one particular prince has been associated with a whole people,
-who are not, in fact, in the least harsh or sombre, but in many
-ways exceedingly genial and generous.  He was not at all a
-typical Spaniard, any more than Louis XI was a typical Frenchman,
-or Henry VII a typical Englishman--or even Welshman.
-But the imperial eagle has come to seem a bird of ill omen,
-and his castle a ruin fit for the nesting of such fowls of night.
-I certainly hope that, as an international impression,
-that error will pass away, and that Gibbon's prophecy may yet serve
-to remind us that Spain is the home of the picaresque romance,
-or rambling comedy, and is not as gloomy as the Escorial,
-but as jolly as Tom Jones.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ma c'è un'altra citazione tratta da essa che merita ancora di essere chiamata una citazione popolare. Essendo una citazione popolare, è probabilmente una citazione popolare errata. Una cosa simile viene normalmente riportata a sproposito; e io qui, al meglio della mia umile capacità, la riporterò a sproposito. Non ho il libro a portata di mano; e non mi sarei preso il disturbo di sfogliare tutti e sei i volumi anche se l'avessi avuto. Ma è un passo in cui egli osserva, in una sorta di parentesi, che la famiglia di Henry Fielding era in qualche modo imparentata con la Casa Imperiale del Sacro Romano Impero; e ammette che i grandi principi della dinastia potrebbero sorridere della parentela; «ma il [[Romance|romanzo]] di Tom [[Jones]], quella squisita pittura di vita e di costumi, sopravvivrà al palazzo dell'Escorial e all'aquila imperiale d'Austria».
-
-[[Well|Ebbene]], esso è già sopravvissuto all'aquila imperiale d'Austria. Quella metà della sfida profetica è già divenuta un fatto preciso e piuttosto scialbo; quasi alla maniera di un anticlimax. E non poté non [[Cross|attraversarmi]] la mente, come una nube di forma strana che attraversa il cielo, quando di recente mi trovai sotto le schierate e rigide colonne dell'Escorial, quello strano palazzo spagnolo eretto dall'aspro capriccio di uno dei più strani tra gli Spagnoli e tra gli uomini. Filippo II non solo lo dedicò a San Lorenzo, ma lo costruì in forma di graticola. E colsi qualcosa di appropriato in quell'immagine, al di là della suggestione di qualcosa nella vita stessa del [[King|re]], fatta di rigidezza e di [[Suffering|sofferenza]]. Il señor Junoy, l'illustre scrittore catalano, mi disse, con grande intuito immaginativo: «Sembra così freddo, eppure è così ardente». La graticola di Filippo, quasi come lo scaldaletto di Pickwick, era una copertura di fuoco nascosto. La freddezza stessa dell'ambiente accentua quella intensità contenuta.
-
-Altri oltre a me hanno spesso osservato il curioso fatto che le guide e i taccuini di viaggio, e tutti gli innumerevoli schizzi e fotografie e simili documenti, non paiono mai dirci la cosa che sembra più impressionante quando colpisce l'occhio. Avevo sentito parlare di Filippo II e dell'Escorial, e di altri elementi del quadro; ma mi ero raffigurato un'immagine della Spagna piuttosto come se dovesse essere un'immagine di Siviglia. Pensavo vagamente che tutto sarebbe accaduto d'estate e che ci sarebbe stato uno sfondo di aranci e un sentore di architettura moresca. Avevo visto centinaia e centinaia di schizzi e quadri di scene spagnole, spesso probabilmente di queste identiche scene spagnole; eppure in qualche modo il punto primario di tutta l'impressione non aveva mai fatto breccia.
-
-Nessuno mi aveva mai detto — o almeno, nessuno me l'aveva mai detto in modo che lo cogliessi e lo ricordassi — che il re di Spagna aveva compiuto qualcosa di del tutto unico e persino innaturale quando costruì in un luogo simile e in uno stile simile la sua arcigna graticola di pietra. Nessuno mi aveva fatto capire che aveva costruito un palazzo quasi in cima a una montagna, lontano su nude e sterili alture accessibili solo per strade rocciose e in rovina come valichi di montagna. Aveva costruito un palazzo dove chiunque altro avrebbe costruito un eremo. Come un pazzo, aveva innalzato la sua torre di pompa e d'orgoglio in un deserto ululante, dove poteva letteralmente udire ululare i lupi.
-
-Eppure non c'era nulla di stravagante o fantastico nella sua impresa architettonica; era troppo severamente classica per essere annoverata perfino tra il Barocco. Si dice che egli sedesse all'aperto a osservarla mentre veniva costruita, con le piante in mano e il piede gottoso su uno sgabello; gelosamente vigile perché non una curva di troppa esuberanza ammorbidisse quel terribile triangolo. Una persona curiosa e non molto piacevole, sebbene a suo modo genuina; ma fece grave danno sotto un aspetto. Era un puritano dalla parte sbagliata; ossia, era da quella che io chiamerei la parte giusta, ma non era la parte dei puritani. Era assai diverso dalla maggior parte degli Spagnoli, ma è finito col rappresentare un tipo che li racchiude tutti. E all'ombra della sua mera individualità dimentichiamo il vero chiaroscuro dell'intero quadro. Dimentichiamo che i suoi nemici religiosi erano per lo più calvinisti e uomini ancor più tetri di lui, e tetri per principio oltre che per caso. Nella sua sfortunata versione della leggenda di San Lorenzo, egli fu di per sé tanto più simile a un persecutore che a un martire, da far sembrare santo qualsiasi martire. Dimentichiamo che la maggior parte dei martiri erano calvinisti, che avrebbero costruito qualcosa di assai più disumano dell'Escorial, se non fossero stati troppo disumani per costruire alcunché. Forse egli dimenticò anche che, nella leggenda originale, San Lorenzo scherzò sulla graticola.
-
-Penso che la profezia di Gibbon, come la preghiera di un tale in Virgilio, sarà per metà adempiuta e per metà dispersa ai venti. Non prevedo la decadenza e caduta dell'Escorial; penso che ci vorrebbe parecchio per rimuovere quel formidabile oggetto, assai più di quanto occorra per la piuttosto artificiale rivoluzione che alterò un francobollo austriaco. Perché la Spagna è fortunata ad aver avuto la sua decadenza e caduta, e a essere ora (io credo) assai chiaramente in ascesa un'altra volta. L'Escorial è sopravvissuto alla caduta, e non pare esserci ragione perché debba cadere con la resurrezione. Ma spero certamente che, in un altro senso, la sua ombra possa farsi un po' meno lunga, come s'è fatta l'ombra dell'aquila imperiale. Per lungo tempo l'Escorial è stato l'emblema di Filippo II e Filippo II è stato l'emblema della Spagna. Tutto ciò che è aspro o cupo in questo solo particolare palazzo di questo solo particolare principe è stato associato a un intero popolo, che non è affatto, in realtà, minimamente aspro o cupo, ma sotto molti aspetti oltremodo cordiale e generoso. Egli non era affatto uno Spagnolo tipico, non più di quanto Luigi XI fosse un Francese tipico, o Enrico VII un Inglese tipico — o persino un Gallese. Ma l'aquila imperiale è finita col sembrare un uccello di malaugurio, e il suo castello una rovina adatta al nidificare di tali uccelli notturni. Spero certamente che, come impressione internazionale, quell'errore passi via, e che la profezia di Gibbon possa ancora servire a ricordarci che la Spagna è la patria del romanzo picaresco, o commedia divagante, e non è tetra come l'Escorial, ma gioviale come Tom Jones.
-
-
-
-<span class="atom-split" data-atom="story_07_the_romance_of_history--part_01" data-title="The Glass Walking Stick — The Romance Of History (part 1)" data-chapter="The Romance Of History" data-kind="excerpt"></span>
-
-
-THE ROMANCE OF HISTORY
-
-THE signs of the resurrection of Spain of which I think
-there are many to be seen lately, have turned my thoughts
-to certain subtleties in the tradition of that land.
-They are things so subtle that they always appear to be simple.
-One of them is the tradition of chivalry and the double attitude
-towards it which we connect with the name of Don Quixote.
-There is no more fantastic paradox in all history than the life
-and work of Cervantes.  He is generally recognized as having
-written a book to show that romantic adventures are all rubbish
-and do not really happen in this world.  As a matter of fact,
-the one man in this world to whom romantic adventures were
-incessantly happening was the author of ‘[[Don Quixote]]'.
-He covered himself with glory and lost his right hand at the most
-romantic battle in [[history]]--when the Crescent and the [[Cross]] met
-in the blue Mediterranean by the Isles of Greece, trailing all
-their pageants of painted and gilded ships with emblazoned sails.
-He was just about to receive public recognition from the victor,
-[[Don John of Austria]], when he was kidnapped by pirates.
-He organized a series of escapes, each like the ideal adventure
-of a schoolboy; he organized supplies and comforts for his
-fellow-prisoners with the laborious altruism of a saint.
-As men go, he was really a pretty perfect pattern of the knight
-of chivalry; eventually he escaped and returned [[Home|home]] to write
-a book showing that chivalry was impossible.  At least, that is
-what three rationalistic centuries have taken it as showing.
-But I think the [[Time|time]] has come to dig a little deeper in that
-stratified irony and show the other side of Cervantes and chivalry.
-
-[[Hero]]-worship has fallen out of fashion with Carlyle, who forced it
-into fashion.  But in the case of Carlyle there were circumstances
-that were a needless handicap of [[Hero|hero]] worship and even to [[Heroism|heroism]].
-Carlyle set himself the impossible task of making heroes
-out of the successful men of [[history]] and politics.
-It was not much more hopeful than that of making heroes out
-of the successful men in soap or petrol.  In one sense that sort
-of [[Hero|hero]]-worship is heroic, in the sense of being impossible.
-The task is heroic be cause the subject is unheroic.
-In Carlyle's characteristic work it soon ran into absurdity.
-It reached the point of praising Frederick the Great--
-a form of [[Hero|hero]]-worship which is clearly a reductio ad absurdum,
-and even almost a contradiction in terms.  The character of
-Cromwell had more human elements; but what was best in it was
-human and emphatically not heroic.  The best case for Cromwell
-is that he was a moderately sane man in a very insane age.
-His best work was done as a moderator and maker of compromises,
-not as an originator or inspirer of enthusiasms.  He saved
-works of art which the wilder Puritans would have destroyed,
-but we cannot picture him as a great patron of art in
-the sense of a friend of artists.  He insisted that there
-must be good pay for good soldiers; but he was not the sort
-of man to be a [[Romance|romance]] to his own soldiers, like Napoleon.
-He was a seventeenth-century English squire whose family had
-grown rich in the great pillage; and morally he was no worse
-than most of his kind and perhaps better than many of them.
-He was certainly much better than Frederick the Great whom
-Carlyle made even more of a [[Hero|hero]], and even a god.
-
-The worship of Frederick the Great can hardly be called [[Hero|hero]]-worship.
-It is rather devil-worship softened by a touch of monkey-worship. It
-is superstition and therefore heresy to say such things seriously,
-but we may say symbolically that if a demon could enter the [[Body|body]] of a
-monkey the result might be something like Frederick II of Prussia.
-It is not only true that he had a large mind and a small [[Soul|soul]],
-it might almost equally truly be said that he had a large brain and a
-small mind.  Even his intellectual [[Pride|pride]] was petty.  Moreover, he was
-in another sense curiously like a monkey.  He was an imitator.
-As the old mystics used to say that the devil was the ape of God,
-we might more literally say that Frederick II was the ape of Louis XIV.
-But just as the monkey imitates the man without understanding the man,
-just as the ape can copy an action that he cannot comprehend,
-so the Prussian had nothing of the national and civilized quality
-of the Frenchman.  He substituted a new impudence and malignity
-for the last trailing tradition of medieval chivalry and Roman law.
-But Carlyle had to make a [[Hero|hero]] out of him, on his own theory of
-the [[Heroism|heroism]] of [[success]].  Frederick had nothing else except [[success]]--
-not even the power to enjoy it.
-
-But when we have got rid of this sort of [[Hero|hero]]-worship we may really
-come back to heroes.  There really were heroes who were historical
-characters though they were not generally successful men.
-More often the true [[Hero|hero]] was a [[Tragic Hero|tragic hero]].  But while his
-tale was often a [[Tragedy|tragedy]] in so far as he failed, it was often
-a wildly impossible [[Romance|romance]] in the moments when he triumphed.
-The curious thing is that real [[history]] is much more romantic,
-and not less romantic, than Carlyle made it out.  The [[Hero|hero]]
-may sometimes have lost his campaign, but he won his battles.
-And he can often be seen winning his battles single
-handed like the most legendary knight winning his spurs.
-Chivalry really did succeed in doing the impracticable things,
-even when it failed to do the practical things.  We may differ
-or feel doubtful about the ultimate [[success]] or even the ultimate
-value of various policies pursued in the past; but nobody can
-[[Doubt|doubt]] the thrill and enthusiasm and [[Courage|courage]] of the pursuit.
-The only really reliable part of [[history]] is the [[Romance|romance]] of it.
-
-For instance, Godfrey de Bouillon died young, wasted by a fever
-that might have been cured in more sanitary conditions and
-wearied with a problem which was perhaps almost insoluble.
-That is a [[Tragedy|tragedy]] of the modern sort; it may [[Well|well]] be said
-that his life was a failure; it might be said that the [[Crusades]]
-were a failure.  We might argue about whether he was a maker,
-a builder, a man who can, or any of the Carlylean descriptions.
-For those depend on elaborate historical results which arise later;
-and the end of everything arrives sooner or later.
-It is disputable whether Richelieu was a successful man,
-since the French monarchy went down in the [[French Revolution]].
-It is disputable whether Frederick the Great was a successful man,
-since Prussianized [[Germany]] went down in the Great War.
-So it is disputable whether Godfrey was a successful man, since the
-Latin Kingdom of Jerusalem went down in the disaster of Hattin.
-What is quite indisputable is that Godfrey was a [[Hero|hero]] of [[Romance|romance]],
-a [[Hero|hero]] of the wildest and most improbable [[Romance|romance]], a [[Hero|hero]] behaving
-as heroes behave in the extravagant romances of chivalry.
-What is certain is that he, the Commander-in-Chief of the whole
-military system of Europe in the East, did really behave
-in the manner of Dick Dauntless among the Redskins or How
-a Powder-Monkey Foiled the Pirates.  It is a cold and concrete
-fact that he was himself the first to leap from the battle-tower
-on to the Saracenic turrets, exactly as the boy who ran away to sea
-is the first to leap from his baffle-[[Ship|ship]] on to the slaver's deck.
-All that part of the business that was a statesman's calculation
-may or may not have been falsified.  All that part of it that was
-like a schoolboy's daydream came true.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IL ROMANZO DELLA STORIA
-
-I segni della resurrezione della Spagna, di cui penso ve ne siano molti da scorgere di recente, hanno rivolto i miei pensieri a certe sottigliezze nella tradizione di quel paese. Sono cose così sottili da apparire sempre semplici. Una di esse è la tradizione della cavalleria e il duplice atteggiamento verso di essa che noi colleghiamo al nome di Don Chisciotte. Non c'è paradosso più fantastico in tutta la storia della vita e dell'opera di Cervantes. È generalmente riconosciuto per aver scritto un libro allo scopo di mostrare che le avventure romanzesche sono tutte fandonie e non accadono davvero in questo mondo. In realtà, l'unico uomo al mondo cui accadevano incessantemente avventure romanzesche era proprio l'autore del «[[Don Quixote|Don Chisciotte]]». Si coprì di gloria e perse la mano destra nella più romanzesca battaglia della [[history|storia]] — quando la Mezzaluna e la [[Cross|Croce]] si scontrarono nel Mediterraneo azzurro presso le Isole di Grecia, trascinando tutti i loro cortei di navi dipinte e dorate dalle vele blasonate. Stava per ricevere il pubblico riconoscimento dal vincitore, [[Don John of Austria]], quando fu rapito dai pirati. Organizzò una serie di evasioni, ciascuna simile all'avventura ideale di uno scolaretto; organizzò rifornimenti e conforti per i suoi compagni di prigionia con il laborioso altruismo di un santo. Per come vanno gli uomini, era davvero un modello quasi perfetto del cavaliere della cavalleria; alla fine fuggì e tornò [[Home|a casa]] a scrivere un libro che mostrava che la cavalleria era impossibile. Almeno, è questo che tre secoli razionalistici hanno inteso ch'esso mostrasse. Ma penso sia giunto il [[Time|momento]] di scavare un po' più a fondo in quella stratificata ironia e mostrare l'altra faccia di Cervantes e della cavalleria.
-
-Il culto dell'[[Hero|eroe]] è passato di moda con Carlyle, che lo impose alla moda. Ma nel caso di Carlyle c'erano circostanze che erano un inutile handicap al culto dell'[[Hero|eroe]] e persino all'[[Heroism|eroismo]]. Carlyle si assunse l'impossibile compito di fare eroi degli uomini di successo della [[history|storia]] e della politica. Non era molto più promettente che fare eroi degli uomini di successo nel sapone o nella benzina. In un certo senso quella sorta di culto dell'[[Hero|eroe]] è eroica, nel senso di essere impossibile. Il compito è eroico perché il soggetto è ineroico. Nell'opera caratteristica di Carlyle esso scivolò presto nell'assurdo. Giunse al punto di lodare Federico il Grande — una forma di culto dell'[[Hero|eroe]] che è chiaramente una reductio ad absurdum, e persino quasi una contraddizione in termini. Il carattere di Cromwell aveva più elementi umani; ma ciò che vi era di meglio era umano e con enfasi non eroico. Il miglior argomento in favore di Cromwell è che fu un uomo moderatamente sano in un'epoca assai insana. La sua opera migliore fu compiuta come moderatore e artefice di compromessi, non come iniziatore o ispiratore di entusiasmi. Salvò opere d'arte che i puritani più fanatici avrebbero distrutto, ma non possiamo raffigurarcelo come un grande mecenate dell'arte nel senso di un amico degli artisti. Insisteva che dovesse esserci una buona paga per i buoni soldati; ma non era il tipo d'uomo da essere una [[Romance|leggenda]] per i propri soldati, come Napoleone. Era uno squire inglese del Seicento la cui famiglia si era arricchita nel grande saccheggio; e moralmente non era peggiore della maggior parte dei suoi simili e forse migliore di molti di loro. Era certamente assai migliore di Federico il Grande, del quale Carlyle fece un [[Hero|eroe]] ancora più grande, e persino un dio.
-
-Il culto di Federico il Grande può a stento essere chiamato culto dell'[[Hero|eroe]]. È piuttosto un culto del demonio addolcito da un tocco di culto della scimmia. È superstizione e perciò eresia dire simili cose sul serio, ma possiamo dire simbolicamente che se un demonio potesse entrare nel [[Body|corpo]] di una scimmia il risultato potrebbe essere qualcosa di simile a Federico II di Prussia. Non solo è vero che aveva una grande mente e un'anima piccola, si potrebbe dire quasi altrettanto veramente che aveva un grande cervello e una mente piccola. Perfino il suo [[Pride|orgoglio]] intellettuale era meschino. Inoltre, era per un altro verso curiosamente simile a una scimmia. Era un imitatore. Come i vecchi mistici solevano dire che il diavolo era la scimmia di Dio, potremmo dire più letteralmente che Federico II era la scimmia di Luigi XIV. Ma proprio come la scimmia imita l'uomo senza comprendere l'uomo, proprio come la scimmia può copiare un'azione che non può comprendere, così il prussiano non aveva nulla della qualità nazionale e civile del francese. Sostituì una nuova impudenza e malignità all'ultima tradizione strascicata della cavalleria medievale e del diritto romano. Ma Carlyle doveva farne un [[Hero|eroe]], secondo la propria teoria dell'[[Heroism|eroismo]] del [[success|successo]]. Federico non aveva null'altro che il [[success|successo]] — nemmeno la capacità di goderselo.
-
-Ma quando ci siamo liberati di questa specie di culto dell'[[Hero|eroe]] possiamo davvero tornare agli eroi. Ci furono davvero eroi che furono personaggi storici, benché non fossero in generale uomini di successo. Più spesso il vero [[Hero|eroe]] fu un [[Tragic Hero|eroe tragico]]. Ma per quanto la sua vicenda fosse spesso una [[Tragedy|tragedia]] in quanto egli fallì, essa fu spesso un selvaggiamente impossibile [[Romance|romanzo]] negli attimi in cui trionfò. La cosa curiosa è che la [[history|storia]] reale è assai più romanzesca, e non meno romanzesca, di quanto Carlyle non la dipingesse. L'[[Hero|eroe]] può talvolta aver perduto la sua campagna, ma vinse le sue battaglie. E lo si può spesso vedere vincere le sue battaglie da solo, come il più leggendario dei cavalieri che si guadagna gli speroni. La cavalleria riuscì davvero a compiere le cose impraticabili, anche quando fallì nel compiere quelle pratiche. Possiamo divergere o essere dubbiosi sul [[success|successo]] ultimo o persino sul valore ultimo delle varie politiche perseguite in passato; ma nessuno può [[Doubt|dubitare]] del brivido e dell'entusiasmo e del [[Courage|coraggio]] della loro ricerca. L'unica parte davvero attendibile della [[history|storia]] è il [[Romance|romanzo]] che vi è.
-
-Per esempio, Goffredo di Buglione morì giovane, consumato da una febbre che in condizioni più igieniche sarebbe potuta esser guarita e sfibrato da un problema forse quasi insolubile. È una [[Tragedy|tragedia]] di tipo moderno; si può ben dire che la sua vita fu un fallimento; si potrebbe dire che le [[Crusades|Crociate]] furono un fallimento. Potremmo discutere se egli fosse un artefice, un costruttore, un uomo capace, o una qualsiasi delle descrizioni carlyliane. Perché quelle dipendono da elaborati risultati storici che sorgono più tardi; e la fine di ogni cosa arriva prima o poi. È discutibile se Richelieu fosse un uomo di successo, dal momento che la monarchia francese andò a picco nella [[French Revolution|Rivoluzione francese]]. È discutibile se Federico il Grande fosse un uomo di successo, dal momento che la [[Germany|Germania]] prussianizzata andò a picco nella Grande Guerra. Così è discutibile se Goffredo fosse un uomo di successo, dal momento che il Regno Latino di Gerusalemme andò a picco nel disastro di Hattin. Ciò che è del tutto indiscutibile è che Goffredo fu un [[Hero|eroe]] da [[Romance|romanzo]], un [[Hero|eroe]] del più selvaggio e improbabile [[Romance|romanzo]], un [[Hero|eroe]] che si comporta come si comportano gli eroi negli stravaganti romanzi di cavalleria. Ciò che è certo è che egli, il Comandante in Capo dell'intero sistema militare d'Europa in Oriente, si comportò davvero alla maniera di Dick l'Impavido tra i Pellirosse, o di Come un Mozzo delle Polveri Beffò i Pirati. È un freddo e concreto fatto che fu proprio lui il primo a balzare dalla torre d'assalto sulle torrette saracene, esattamente come il ragazzo fuggito per mare è il primo a balzare dalla sua nave da [[Ship|battaglia]] sul ponte della nave negriera. Tutta quella parte della faccenda che fu calcolo da statista può essere stata smentita oppure no. Tutta quella parte che fu come il sogno a occhi aperti di uno scolaretto si avverò.
-
-
-
-<span class="atom-split" data-atom="story_07_the_romance_of_history--part_02" data-title="The Glass Walking Stick — The Romance Of History (part 2)" data-chapter="The Romance Of History" data-kind="excerpt"></span>
-
-
-There are any number of other examples of the kind.
-Nelson is too near to us for us to be certain of the duration
-of his practical achievement; but the nearer we are to him
-the less [[Doubt|doubt]] we have of his purely poetical achievement.
-Near as he is to us, he is nearer still to the morning of the world,
-and has the colour and the clear outline that belongs to the primitive
-legends of the [[Dawn|dawn]].  We do not know how long the naval leadership
-of England will last, but we do know that the legend will last.
-We do not know how far aviation has altered everything or how far
-politicians would go in the direction of scrapping the British Navy.
-But we do know that Nelson could hardly have been a more mythical
-figure if he had flown upon wings; or that his [[Ship|ship]] might have been
-a fairy-[[Ship|ship]] and hardly shone more strangely on the storied sea.
-The things that are quite certain about Nelson are all the
-improbable things; that he died in the very hour of triumph;
-that he died on a vessel that bore the very name of victory;
-that he was shot through wearing the flaming [[Stars|stars]] with which he had
-just offered to die in [[Honour|honour]]--all the coincidences that would
-be called crude and far-fetched in a story.  They are the fancies
-that are considered a little too romantic for historical fiction.
-They are also the only fixed facts of [[history]].
-
-THE HERALDIC [[Lion|LION]]
-
-SIR THOMAS BROWNE was, as everybody knows, a medical man.
-He was a rather curious kind of medical man; and there are a great
-many points in which he presents a somewhat singular contrast
-to our doctors of today.  For instance, he wrote an eloquent and
-exhaustive work on urn-burial, churchyards, and [[Death|death]] generally;
-a subject which doctors are now understood to avoid.
-But in nothing is he so permanently interesting as in his relations
-with the remarkable zoology of his [[Time|time]].  His superb religious
-rhetoric and the whole literary side of him are obviously immortal.
-Nothing finer has ever been said about the [[Soul|soul]] than that phrase of
-Browne's that it is a thing in man ‘which owes no homage unto the sun'.
-But a more delicate defence is needed of his quaint science,
-and, indeed, of all the medieval science from which he drew his ideas.
-We know that his theology was true.  We know that his zoology was untrue;
-but do not let us too readily assume that it is therefore unimportant.
-The whole of that old, fantastic science is misunderstood.
-It made every creature rather a symbol than a fact.  But, then, it thought
-that all material facts were valuable as symbols of spiritual facts.
-It did not really very much mind whether the lion was a noble animal
-who spared virgins.  What it did want to make clear was that,
-if the lion was a noble animal, it would spare virgins.
-
-Let me take this example of what I mean.  Every modern person of
-intelligence can see quite easily that the heraldic lion is very different
-from the real lion.  But what we moderns do not quite realize is this:
-that the heraldic lion is much more important than the real lion.
-Words positively fail me to express the unimportance of the real lion.
-The real lion is a large, hairy sort of cat that happens to be living
-(or rather happens to be dying) in useless deserts that we have
-never seen and never want to see; a creature that never did us
-any good, and, in our circumstances, cannot even do us any harm;
-a thing as trivial, for all our purposes, as the darkest
-of the deep-sea fishes or as the minerals in the moon.
-There is no earthly reason to suppose that he has any of the leonine
-qualities as we ordinarily understand them.  There is no ground
-for imagining that he is generous or heroic, or even proud.
-Some people who have fought him say that he is not even brave.
-He does not touch human life at any point at all.  You cannot turn him,
-as you can the ox, into a labourer:  nor can you turn him, as you
-can the dog, into a sportsman and a gentleman.  He can share neither
-our toils nor our pleasures:  you cannot harness a lion to a plough,
-nor can you, with a pack of lions, go hunting an elephant.
-He has no human interest about him.  He is not even good to eat.
-From the fringe of his mangy and overrated mane to the tip of his tail
-(with which, I understand, he hits himself in order to overcome
-the natural cowardice of his disposition), from his mane to his tail,
-I say, he is one mass of unimportance.  He is simply an overgrown
-stray cat.  And he is a stray cat that never comes into our street.
-He is living his commonplace existence in regions where no
-white man can live without going mad with monotony and heat.
-We have to put him in our museums and such places, just as we
-have to put tiny little chips of grey stone that look as if you
-could pick them up in the street, or homely-looking brown
-beetles at which no self-respecting child could look twice.
-But the only kind of lion that is of any earthly practical
-importance is the legendary lion.  He really is a useful thing
-to have about the place.  He holds up the shield of England,
-which would otherwise fall down, despite the well-meant efforts
-of the Unicorn, whose hoofs are deficient in a prehensile quality.
-The African lion does not matter to anyone.  But the British Lion,
-though he does not exist, does matter.  He means something;
-it is the only true object of existence to mean something; and the real
-African lion has never succeeded in meaning anything at all.
-The legendary lion, the lion that was made by man and not by Nature,
-he is indeed the king of beasts.  He is a great work of art, a great
-creation of the genius of man, like Rouen Cathedral or the Iliad.
-We know his character perfectly well, as we know the character of
-Mr Micawber, or many other persons who have never taken the trouble
-to exist in a mere material way.  His virtues are the virtues of a
-grand European gentleman; there is nothing African about his ethics.
-He has the sense of the sanctity and dignity of death which is
-behind so many of our ancient rites.  He will not touch the dead.
-He has that strange worship of a bright and proud chastity
-which is the soul of our Europe, in Diana, in the Virgin Martyrs,
-in Britomart, which left a single white star in the sensual storms
-of the Elizabethan Drama, and which is reconquering the world in its
-new form--the worship of children.  The lion will not hurt virgins.
-In an innumerable number of the old legends and poems you will find
-the description of the refusal of some eminent lion to touch some
-eminent young lady.  Some say that this sense of delicacy is mutual;
-and that young ladies also refuse to touch lions.  This may be true:
-but even if it is true it probably only applies to the lower or
-actual lion, the mere lion of Africa, a negligible creature whom we
-have already dismissed to wander in his deserts, deserts which are
-as futile as himself and which form the dustbin of the universe.
-The valuable lion, we have agreed, is a creature made entirely by man,
-like the chimaera and the hippogriff, the mermaid and the centaur,
-the giant with a hundred eyes, and the giant with a hundred hands.
-The lion on one side of the royal shield is as fabulous as
-the unicorn on the other side.  In so far as he is not merely
-fantastic and impossible, he consists of all the aggregate
-good qualities of a kind of super-celestial country gentleman.
-The heraldic lion is fading, I fear, upon our escutcheons.
-He still swings valiantly, how ever, over certain places of
-entertainment where so many of the kindlier traditions of our
-ancient civilization have taken refuge.  If you see the Red Lion,
-which should be on the shield of a knight, painted only on the
-signboard of an inn, remember all the great truths that you have
-read in this article; remember that this heraldic lion on the sign
-is the symbol of all that has lifted our Christian civilization
-into life and energy and honour--magnanimity, valour, a disdain
-of easy victories, a scorn for all the scorners of the weak.
-The heraldic lion has, perhaps, sprawled rather too widely
-over this article.  A great many other examples might be taken.
-The heraldic leopard is not without his good points.
-The dog-headed men in Africa were full of interest;
-nor must we forget Jehan de Mandeville's memorable description
-of a hippopotamus, that it was ‘half man and half [[Horse|horse]]'.
-That is what may be called an impressionist or symbolist [[Sketch|sketch]] of it;
-it avoids teasing details, and gives a sense of mass and atmosphere.
-I have often looked at the hippopotamus in his cage at the
-Zoological Gardens, and wondered which part of his appearance or
-physiognomy impressed the incisive Mandeville as being contributed
-by some human person of his acquaintance.  Had he seen a very human class
-of hippopotamus, or had he mixed with a hippopotamic class of men?
-But the general remarks which I have made about the medieval [[Lion|lion]],
-the heraldic [[Lion|lion]], apply equally [[Well|well]] to all these other medieval
-monstrosities or combinations.  They were all fictitious.
-They were all entirely different from and independent of,
-the living creature upon which they were supposed to be modelled.
-And those who wrote about them and talked about them, and gravely
-disputed about all their characteristics, physical, mental,
-and moral, were, at the [[Bottom|bottom]] of their hearts and the back of
-their minds, totally indifferent to whether they were true or not.
-The Middle Ages were full of [[logic]].  And [[logic]] in its examples
-and symbols is in its [[Nature|nature]] entirely indifferent to fact.
-It is as easy to be logical about things that do not exist as
-about things that do exist.  If twice three is six, it is certain
-that three men with two legs each will have six legs between them.
-And if twice three is six, it is equally certain that three
-men with two heads each will have six heads between them.
-That there never were three men with two heads each does not
-invalidate the [[logic]] in the least.  It makes the deduction impossible,
-but it does not make it illogical.  Twice three is still six,
-whether you reckon it in pigs or in flaming dragons, whether you
-reckon it in cottages or in castles-in-the-air. And the object
-of all this great medieval and [[Renaissance]] science was simply
-to find everywhere and anywhere examples of its [[philosophy]].
-If the hippopotamus illustrated the idea of justice, [[Well|well]] and good;
-if it did not, so much the worse for the hippopotamus.
-These ancients sought to make the brutes the mere symbol of the man.
-Some moderns seek to make Man a mere symbol of the brutes.  These old
-scientists were only interested in the human side of the beasts.
-Some new scientists are only interested in the beastly side of the men.
-Instead of making the ape and tiger mere accessories to the man,
-they make man a mere accessory, a mere afterthought to the ape and tiger.
-Instead of employing the hippopotamus to illustrate their [[philosophy]],
-they employ the hippopotamus to make their [[philosophy]], and the great
-fat books he writes you and I, please God, will never read.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Vi è un numero qualsiasi di altri esempi del genere. Nelson è troppo vicino a noi perché possiamo essere certi della durata della sua realizzazione pratica; ma quanto più gli siamo vicini, tanto meno [[Doubt|dubbio]] abbiamo della sua realizzazione puramente poetica. Vicino com'è a noi, egli è ancor più vicino al mattino del mondo, e ha il colore e il netto contorno che appartengono alle leggende primitive dell'[[Dawn|alba]]. Non sappiamo quanto durerà la supremazia navale dell'Inghilterra, ma sappiamo che la leggenda durerà. Non sappiamo fino a che punto l'aviazione abbia mutato ogni cosa, o fino a che punto i politici si spingerebbero nel rottamare la Marina britannica. Ma sappiamo che Nelson difficilmente avrebbe potuto essere una figura più mitica se avesse volato su ali; o che la sua [[Ship|nave]] avrebbe potuto essere una [[Ship|nave]] fatata e a stento avrebbe brillato più stranamente sul mare delle leggende. Le cose del tutto certe su Nelson sono tutte cose improbabili: che morì nell'ora stessa del trionfo; che morì su un vascello che portava il nome stesso della vittoria; che fu colpito mentre indossava le fiammeggianti [[Stars|stelle]] con le quali si era appena offerto di morire in [[Honour|onore]] — tutte le coincidenze che in una storia sarebbero dette rozze e forzate. Sono le invenzioni che si considerano un po' troppo romanzesche per la narrativa storica. E sono anche gli unici fatti fissi della [[history|storia]].
-
-IL [[Lion|LEONE]] ARALDICO
-
-Sir Thomas Browne era, come tutti sanno, un medico. Era un medico di specie piuttosto curiosa; e vi sono moltissimi punti in cui offre un contrasto alquanto singolare rispetto ai nostri dottori di oggi. Per esempio, scrisse un'opera eloquente ed esaustiva sulla sepoltura nelle urne, sui cimiteri e sulla [[Death|morte]] in generale; un argomento che i dottori sono ora ritenuti evitare. Ma in nulla è così durevolmente interessante quanto nelle sue relazioni con la notevole zoologia del suo [[Time|tempo]]. La sua superba retorica religiosa e tutto il lato letterario di lui sono evidentemente immortali. Nulla di più bello è mai stato detto sull'[[Soul|anima]] di quella frase di Browne, che essa è una cosa nell'uomo «che non deve omaggio al sole». Ma occorre una difesa più delicata della sua bizzarra scienza, e, in verità, di tutta la scienza medievale da cui egli trasse le sue idee. Sappiamo che la sua teologia era vera. Sappiamo che la sua zoologia era falsa; ma non assumiamo troppo prontamente che essa sia perciò irrilevante. Tutta quella vecchia, fantastica scienza è fraintesa. Faceva di ogni creatura un simbolo più che un fatto. Ma, allora, riteneva che tutti i fatti materiali fossero preziosi in quanto simboli di fatti spirituali. Non le importava granché se il leone fosse un nobile animale che risparmiava le vergini. Ciò che voleva rendere chiaro era che, se il leone era un nobile animale, avrebbe risparmiato le vergini.
-
-Prendiamo questo esempio di ciò che intendo. Ogni persona moderna d'intelligenza può vedere assai facilmente che il leone araldico è assai diverso dal leone reale. Ma ciò che noi moderni non ci rendiamo del tutto conto è questo: che il leone araldico è assai più importante del leone reale. Le parole mi mancano positivamente per esprimere l'insignificanza del leone reale. Il leone reale è una grossa specie di gatto peloso che si trova a vivere (o piuttosto si trova a morire) in inutili deserti che non abbiamo mai visto né mai vorremo vedere; una creatura che non ci ha mai fatto alcun bene, e, nelle nostre circostanze, non può nemmeno farci alcun male; una cosa tanto insignificante, per tutti i nostri scopi, quanto il più oscuro dei pesci degli abissi o quanto i minerali sulla luna. Non c'è alcuna terrena ragione di supporre che egli abbia una qualsiasi delle qualità leonine come noi ordinariamente le intendiamo. Non c'è alcun fondamento per immaginare che egli sia generoso o eroico, o persino fiero. Alcuni che l'hanno combattuto dicono che non è neppure coraggioso. Non tocca la vita umana in alcun punto. Non puoi trasformarlo, come il bue, in un lavoratore: né puoi trasformarlo, come il cane, in uno sportivo e un gentiluomo. Non può condividere né le nostre fatiche né i nostri piaceri: non puoi aggiogare un leone a un aratro, né puoi, con una muta di leoni, andare a caccia d'elefanti. Non ha alcun interesse umano attorno a sé. Non è neppure buono da mangiare. Dalla frangia della sua rognosa e sopravvalutata criniera alla punta della sua coda (con cui, a quanto mi risulta, egli si percuote per vincere la naturale codardia della sua indole), dalla criniera alla coda, dico, egli è una sola massa di insignificanza. Non è che un gatto randagio troppo cresciuto. Ed è un gatto randagio che non viene mai nella nostra via. Vive la sua banale esistenza in regioni dove nessun uomo bianco può vivere senza impazzire di monotonia e di caldo. Dobbiamo metterlo nei nostri musei e simili luoghi, proprio come dobbiamo mettervi minuscole schegge di pietra grigia che sembrano tali da poterle raccogliere per strada, o dimessi scarabei bruni cui nessun bambino che si rispetti guarderebbe due volte. Ma l'unico genere di leone che abbia una qualche terrena importanza pratica è il leone leggendario. Egli è davvero una cosa utile ad aversi in giro. Regge lo scudo dell'Inghilterra, che altrimenti cadrebbe, malgrado gli sforzi ben intenzionati dell'Unicorno, i cui zoccoli difettano di qualità prensili. Il leone africano non importa a nessuno. Ma il Leone Britannico, benché non esista, importa. Significa qualcosa; è l'unico vero scopo dell'esistenza significare qualcosa; e il vero leone africano non è mai riuscito a significare alcunché. Il leone leggendario, il leone che fu fatto dall'uomo e non dalla Natura, egli è davvero il re degli animali. È una grande opera d'arte, una grande creazione del genio dell'uomo, come la Cattedrale di Rouen o l'Iliade. Conosciamo il suo carattere perfettamente bene, come conosciamo il carattere di Mr Micawber, o di molte altre persone che non si sono mai date la briga di esistere in un mero modo materiale. Le sue virtù sono le virtù di un grande gentiluomo europeo; non c'è nulla di africano nella sua etica. Egli ha il senso della santità e della dignità della morte che sta dietro tanti dei nostri antichi riti. Non toccherà i morti. Ha quello strano culto di una lucente e fiera castità che è l'anima della nostra Europa, in Diana, nelle Vergini Martiri, in Britomart, che lasciò una sola stella bianca nelle sensuali tempeste del Dramma elisabettiano, e che sta riconquistando il mondo nella sua nuova forma — il culto dei bambini. Il leone non farà del male alle vergini. In un numero innumerevole delle vecchie leggende e poesie troverete la descrizione del rifiuto di qualche eminente leone di toccare qualche eminente giovane dama. Alcuni dicono che questo senso di delicatezza sia reciproco; e che anche le giovani dame rifiutino di toccare i leoni. Questo può essere vero: ma anche se è vero probabilmente si applica soltanto al leone inferiore o reale, il mero leone d'Africa, una creatura trascurabile che abbiamo già congedato perché vaghi nei suoi deserti, deserti che sono futili quanto lui stesso e che formano la pattumiera dell'universo. Il leone di valore, abbiamo convenuto, è una creatura fatta interamente dall'uomo, come la chimera e l'ippogrifo, la sirena e il centauro, il gigante dai cento occhi, e il gigante dalle cento mani. Il leone su un lato dello scudo reale è tanto favoloso quanto l'unicorno sull'altro lato. Nella misura in cui non è semplicemente fantastico e impossibile, egli consiste nell'insieme aggregato delle buone qualità di una sorta di sovraceleste gentiluomo di campagna. Il leone araldico va sbiadendo, temo, sui nostri stemmi. Egli ancora si dondola valorosamente, tuttavia, sopra certi luoghi di svago dove tante delle più benevole tradizioni della nostra antica civiltà hanno trovato rifugio. Se vedete il Leone Rosso, che dovrebbe stare sullo scudo di un cavaliere, dipinto solo sull'insegna di una locanda, ricordate tutte le grandi verità che avete letto in questo articolo; ricordate che questo leone araldico sull'insegna è il simbolo di tutto ciò che ha sollevato la nostra civiltà cristiana in vita ed energia e onore — magnanimità, valore, sdegno delle facili vittorie, disprezzo per tutti coloro che disprezzano i deboli. Il leone araldico si è, forse, spanciato un po' troppo largamente sopra questo articolo. Si potrebbero prendere moltissimi altri esempi. Il leopardo araldico non è privo dei suoi pregi. Gli uomini dalla testa di cane in Africa erano pieni d'interesse; né dobbiamo dimenticare la memorabile descrizione dell'ippopotamo data da Jehan de Mandeville, che era «mezzo uomo e mezzo [[Horse|cavallo]]». Questo è ciò che si può chiamare uno [[Sketch|schizzo]] impressionistico o simbolista di esso; evita i particolari fastidiosi, e dà un senso di massa e di atmosfera. Ho spesso guardato l'ippopotamo nella sua gabbia ai Giardini Zoologici, e mi son chiesto quale parte del suo aspetto o della sua fisionomia impressionò l'incisivo Mandeville come apportata da qualche persona umana di sua conoscenza. Aveva visto una classe assai umana di ippopotamo, o si era mescolato a una classe ippopotamica di uomini? Ma le osservazioni generali che ho fatto sul [[Lion|leone]] medievale, il [[Lion|leone]] araldico, si applicano ugualmente [[Well|bene]] a tutte queste altre mostruosità o combinazioni medievali. Erano tutte fittizie. Erano tutte interamente diverse da, e indipendenti da, la creatura vivente sulla quale si supponeva fossero modellate. E coloro che scrivevano di esse e ne parlavano, e gravemente disputavano di tutte le loro caratteristiche, fisiche, mentali e morali, erano, in [[Bottom|fondo]] al cuore e nel retro della mente, totalmente indifferenti al fatto che fossero vere o no. Il Medioevo era pieno di [[logic|logica]]. E la [[logic|logica]] nei suoi esempi e simboli è per sua [[Nature|natura]] interamente indifferente al fatto. È altrettanto facile essere logici su cose che non esistono quanto su cose che esistono. Se due per tre fa sei, è certo che tre uomini con due gambe ciascuno avranno sei gambe fra loro. E se due per tre fa sei, è ugualmente certo che tre uomini con due teste ciascuno avranno sei teste fra loro. Che non ci siano mai stati tre uomini con due teste ciascuno non invalida minimamente la [[logic|logica]]. Rende la deduzione impossibile, ma non la rende illogica. Due per tre fa sempre sei, che tu lo conti in porci o in fiammeggianti draghi, che tu lo conti in casolari o in castelli in aria. E l'oggetto di tutta questa grande scienza medievale e [[Renaissance|rinascimentale]] era semplicemente trovare ovunque e dovunque esempi della propria [[philosophy|filosofia]]. Se l'ippopotamo illustrava l'idea di giustizia, [[Well|bene]], ottimo; se non la illustrava, tanto peggio per l'ippopotamo. Questi antichi cercavano di fare delle bestie il mero simbolo dell'uomo. Alcuni moderni cercano di fare dell'Uomo un mero simbolo delle bestie. Questi vecchi scienziati s'interessavano soltanto del lato umano delle bestie. Alcuni nuovi scienziati s'interessano soltanto del lato bestiale degli uomini. Invece di fare della scimmia e della tigre meri accessori dell'uomo, fanno dell'uomo un mero accessorio, un mero ripensamento della scimmia e della tigre. Invece di impiegare l'ippopotamo per illustrare la loro [[philosophy|filosofia]], impiegano l'ippopotamo per fabbricare la loro [[philosophy|filosofia]], e i grandi grassi libri ch'egli scrive io e voi, a Dio piacendo, non leggeremo mai.
-
-
-
-<span class="atom-split" data-atom="story_07_the_romance_of_history--part_03" data-title="The Glass Walking Stick — The Romance Of History (part 3)" data-chapter="The Romance Of History" data-kind="excerpt"></span>
-
-
-THE [[Court|COURT]] OF CAMELOT
-
-SOMEBODY recently asked me what I meant by a reference to the myth
-of [[Arthur]]; or, rather, a reference to the myth of the myth of [[Arthur]].
-For in my opinion it is only a modern myth that he is only an
-ancient one.  The chief difference between ancient and modern times seems
-to be that formerly legends grew very slowly and now they grow very fast.
-The old legends generally grew more slowly and always had a more
-historical basis; and it seems to me overwhelmingly probable
-that the story of [[King Arthur]] had a very solid historical basis.
-This must in a sense be mere guesswork, for I am not competent
-to judge of the details; but I think I am as competent as anyone
-else to judge of the theories, in the sense of seeing whether
-they hang together and are inherently probable and consistent.
-Now the theory that treats [[Arthur]] entirely as a fairy-tale seems
-to me more fantastic than any fairy-tale. It sometimes takes the form
-of saying that there was some prehistoric Celtic god or other who
-afterwards came to be described in more detail as a [[King|king]] in Camelot.
-I have never been very clear, by the way, about how this vague
-transition from divinity to humanity is supposed to present itself
-to human [[Nature|nature]].  A particular story of an incarnate god or a fallen
-angel one can imagine easily enough.  But I am a little confused
-about how the mere act of the Pimlico populace continually calling
-upon heaven in their human difficulties, would of itself become
-a story that a Mr Heaven had lived in a particular street in Pimlico.
-It seems rather more likely that a simple people would exaggerate a [[Hero|hero]]
-into a god, rather than deliberately diminish a god into a [[Hero|hero]].
-But this is something of a side issue and I do not insist on it.
-Anyhow, they say there must have been a Celtic god and doubtless
-there was; doubtless there were many Celtic gods--too many Celtic
-gods for a fastidious monotheistic taste.  I might respectfully
-inquire what had become of all the others; and why they have
-not all turned into Christian kings with orders of chivalry?
-And then the critics complete the confusion by saying, as a sort
-of after-thought, that [[Arthur]] may also have been the name of a [[King|king]],
-but implying that this can have nothing to do with the idea
-of [[King Arthur]].
-
-Now all this seems to me mythical in the worst sense;
-that it is concentrated on myths and wholly careless of [[history]].
-If we are studying a historical problem, it would be [[Well|well]] to begin
-with the historical part of it; and if we want to know more, it is
-best to grasp what we know already.  Now we do know as a historical
-fact that the beginning of the Dark Ages was a [[Time|time]] when the north
-west corner of the Roman Empire was ruined by barbarian invasions.
-We do know that those who successfully defended civilization
-everywhere became great legendary yet historic heroes and that in this
-respect the story of [[Arthur]] is just like the story of Alfred.
-There was certainly a legendary Alfred as [[Well|well]] as a historical Alfred;
-and every common-sense comparison would lead one to think
-there was a historical [[Arthur]] as [[Well|well]] as a legendary [[Arthur]].
-But the question is one of proportion; and the saving of Christendom
-by the heroes of the Dark Ages does seem to me a sufficient cause
-for so huge a legend:  the last trickle of tradition from some
-lost Welsh polytheism does not seem to me a sufficient cause.
-There are a dozen parallel cases of Christian heroes; there are
-not a dozen parallel cases of Welsh gods.
-
-Then we come to the old suggestion that [[Arthur]] was
-not [[Arthur]] but another person of the same name.
-Here again people seem to forget that a legend requires
-a story as [[Well|well]] as a name.  A legend is about something;
-it is not started by a word but by some true or false event.
-The earliest historical references to [[Arthur]] are references
-to what he did.  What he did was to defend Britain, as a
-Christian and civilized State, against the heathen invasion.
-The very first references to him deal with stories like
-that of the Battle of Mount Badon, in which [[Arthur]] drove
-the heathen before him and carried a holy image, some say
-on his shield and some on his shoulders.  If I remember right,
-William of Malmesbury, soon after the Norman Conquest,
-refers to [[Arthur]] not as a wild Welsh demigod or even a doubtful
-Welsh saint, but as a solid historical character whose name
-needs to be cleared from the later accretions of Welsh fancy.
-Now there is no [[Doubt|doubt]] at all that battles similar to the Battle
-of Mount Badon did in all sorts of countries stem or turn the tide
-of barbarism.  There is no [[Doubt|doubt]] whatever that when they did,
-they left an enormous impression on the imaginations of men,
-like a story of the [[deluge|Deluge]] or the Day of Judgement.
-If the result was a myth, it was like some myth about a man
-who had saved the sun and [[Stars|stars]].
-
-But there is another historical [[Truth|truth]] that is here forgotten.
-Many doubts about the [[Court]] of Camelot are founded on the notion
-that anything so far back in [[Time|time]] must itself have been barbaric.
-The [[Truth|truth]] is, that, if it was far enough back, it would almost
-certainly have been civilized.  It would have been in the last phase
-of the old Roman civilization.  The fallacy is like that of a man
-who should say at daybreak that if it was darker four hours before,
-it must have been darker still fourteen hours before.  He would forget
-that fourteen hours might bring him back into the previous day.
-And the fascination of this study of the Dark Ages is precisely
-that the darkness does hide a buried day; the last lost daylight
-of the great culture of antiquity.
-
-Much of the dullness of modern [[history]] came from the idea
-of progress.  For [[history]] must be progress reversed.
-If things have always automatically grown brighter
-and better, then to trace things backwards is to go further
-and further not only into darkness but into dullness.
-It is to go from gold to lead and from lead to mud;
-from beautiful novelties to dreary negations.  But, as a fact,
-these beautiful novelties have never appeared except when
-this negative theory of the past was itself negatived.
-They have come when people were quarrying in an older civilization,
-because it was more civilized than their own civilization.
-That is obviously what happened at the [[Renaissance]],
-but it happened in many cases where it is less obvious.
-I believe that the peculiar [[Magic|magic]] and mastery still belonging
-to the Arthurian story is largely due to the long period during
-which men looked back to Roman Britain as some thing more rich and
-subtle and artistic than the barbarous centuries that succeeded it.
-They were not wrong in believing that [[Arthur]] and Lancelot
-were more courtly and cultured than Hengist and Horsa.
-If [[Arthur]] and Lancelot existed at all, they almost certainly were.
-The same has been true, of course, ever since people began
-to study the medieval civilization with any intelligence.
-Some sentimentalists in the eighteenth century may have begun by
-thinking ruined abbeys (especially by moonlight) merely interesting
-as rugged and barbaric, ‘with shapeless sculpture decked'.
-But since we have begun to search out the scheme and science
-of medieval architecture, we have realized that it is the very
-reverse of barbaric, that it is especially organized and orderly.
-We have recognized that Gothic architecture was certainly
-not made by Goths; and that the shapeless sculpture was
-anything but shapeless, and had a very deliberate shape.
-But we do not remember that, as we have groped for an understanding
-of the medieval system, so the men of the Dark Ages may well
-have groped for an understanding of the old Roman system.
-And it is natural that the last monuments of it should have
-appeared enormous in the twilight; and one of these monuments
-was the memory of Arthur.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LA [[Court|CORTE]] DI CAMELOT
-
-Qualcuno di recente mi ha chiesto cosa intendessi con un riferimento al mito di [[Arthur|Artù]]; o, piuttosto, con un riferimento al mito del mito di [[Arthur|Artù]]. Perché, secondo me, è soltanto un mito moderno che egli sia soltanto un mito antico. La principale differenza tra i tempi antichi e i moderni pare essere che un tempo le leggende crescevano assai lentamente e ora crescono assai in fretta. Le vecchie leggende in genere crescevano più lentamente e avevano sempre un fondamento più storico; e mi pare schiacciantemente probabile che la storia di [[King Arthur|Re Artù]] avesse un fondamento storico assai solido. Questo, in un certo senso, non può che essere mera congettura, perché non sono competente a giudicare dei particolari; ma penso di essere competente quanto chiunque altro a giudicare delle teorie, nel senso di vedere se stanno insieme e sono intrinsecamente probabili e coerenti. Ora, la teoria che tratta [[Arthur|Artù]] interamente come una fiaba mi pare più fantastica di qualsiasi fiaba. Talora prende la forma di dire che vi fu un qualche preistorico dio celtico che in seguito venne descritto più in dettaglio come un [[King|re]] a Camelot. Non mi è mai stato molto chiaro, per inciso, come questa vaga transizione dalla divinità all'umanità si supponga si presenti alla [[Nature|natura]] umana. Una particolare storia di un dio incarnato o di un angelo caduto la si può immaginare abbastanza facilmente. Ma sono un po' confuso su come il mero atto della popolazione di Pimlico che continuamente invoca il cielo nelle sue difficoltà umane, diverrebbe di per sé una storia secondo cui un signor Cielo era vissuto in una particolare via di Pimlico. Pare piuttosto più probabile che un popolo semplice esagererebbe un [[Hero|eroe]] fino a farne un dio, piuttosto che deliberatamente sminuire un dio fino a farne un [[Hero|eroe]]. Ma questa è più o meno una questione secondaria e non insisto su di essa. Comunque, dicono che ci dev'essere stato un dio celtico e senza dubbio ci fu; senza dubbio ci furono molti dèi celtici — troppi dèi celtici per un gusto monoteistico schizzinoso. Potrei rispettosamente chiedere cosa ne fosse stato di tutti gli altri; e perché non si siano tutti tramutati in re cristiani con ordini di cavalleria. E poi i critici completano la confusione dicendo, come una sorta di ripensamento, che [[Arthur|Artù]] può anche essere stato il nome di un [[King|re]], ma lasciando intendere che questo non possa avere nulla a che fare con l'idea di [[King Arthur|Re Artù]].
-
-Ora, tutto ciò mi pare mitico nel senso peggiore; ossia che è concentrato sui miti e del tutto incurante della [[history|storia]]. Se stiamo studiando un problema storico, sarebbe [[Well|bene]] cominciare dalla parte storica di esso; e se vogliamo saperne di più, la cosa migliore è afferrare ciò che già sappiamo. Ora, sappiamo come fatto storico che l'inizio dei Secoli Bui fu un'epoca in cui l'angolo nord-occidentale dell'Impero Romano fu rovinato dalle invasioni barbariche. Sappiamo che coloro che difesero con successo la civiltà dappertutto divennero grandi eroi leggendari eppure storici e che a questo riguardo la storia di [[Arthur|Artù]] è proprio come la storia di Alfredo. Ci fu certamente un Alfredo leggendario oltre che un Alfredo storico; e ogni confronto di buon senso porterebbe a pensare che ci fu un [[Arthur|Artù]] storico oltre che un [[Arthur|Artù]] leggendario. Ma la questione è di proporzione; e la salvezza della Cristianità per opera degli eroi dei Secoli Bui mi pare una causa sufficiente per una leggenda così enorme: l'ultimo rivolo di tradizione di qualche perduto politeismo gallese non mi pare una causa sufficiente. Ci sono una dozzina di casi paralleli di eroi cristiani; non ci sono una dozzina di casi paralleli di dèi gallesi.
-
-Poi veniamo alla vecchia proposta che [[Arthur|Artù]] non fosse [[Arthur|Artù]] ma un'altra persona dello stesso nome. Anche qui la gente pare dimenticare che una leggenda richiede una storia oltre che un nome. Una leggenda parla di qualcosa; non è avviata da una parola ma da qualche evento vero o falso. I primi riferimenti storici ad [[Arthur|Artù]] sono riferimenti a ciò che egli fece. Ciò che egli fece fu difendere la Britannia, come Stato cristiano e civile, contro l'invasione pagana. I primissimi riferimenti a lui trattano di storie come quella della Battaglia del Monte Badon, in cui [[Arthur|Artù]] cacciò dinanzi a sé i pagani e portò una sacra immagine, alcuni dicono sullo scudo e alcuni sulle spalle. Se ricordo bene, Guglielmo di Malmesbury, poco dopo la conquista normanna, si riferisce ad [[Arthur|Artù]] non come a un selvaggio semidio gallese o persino a un dubbio santo gallese, ma come a un solido personaggio storico il cui nome ha bisogno di essere ripulito dalle successive incrostazioni della fantasia gallese. Ora non c'è alcun [[Doubt|dubbio]] che battaglie simili alla Battaglia del Monte Badon abbiano davvero, in ogni sorta di paesi, arginato o rovesciato la marea della barbarie. Non c'è [[Doubt|dubbio]] alcuno che, quando lo fecero, lasciarono un'enorme impressione sull'immaginazione degli uomini, come una storia del [[deluge|Diluvio]] o del Giorno del Giudizio. Se il risultato fu un mito, fu come un mito su un uomo che avesse salvato il sole e le [[Stars|stelle]].
-
-Ma c'è un'altra [[Truth|verità]] storica che qui è dimenticata. Molti dubbi sulla [[Court|Corte]] di Camelot si fondano sulla nozione che qualcosa di così remoto nel [[Time|tempo]] debba di per sé essere stato barbarico. La [[Truth|verità]] è che, se fu abbastanza remoto, sarebbe stato quasi certamente civile. Sarebbe stato nell'ultima fase dell'antica civiltà romana. La fallacia è come quella di un uomo che all'alba dicesse che se era più buio quattro ore prima, doveva essere ancor più buio quattordici ore prima. Egli dimenticherebbe che quattordici ore potrebbero riportarlo indietro nel giorno precedente. E il fascino di questo studio dei Secoli Bui è precisamente che l'oscurità cela un giorno sepolto; l'ultima luce perduta della grande cultura dell'antichità.
-
-Buona parte della tediosità della storia moderna venne dall'idea di progresso. Perché la [[history|storia]] dev'essere progresso a rovescio. Se le cose si sono sempre automaticamente fatte più luminose e migliori, allora rintracciarle a ritroso è andare sempre più addentro non solo nell'oscurità ma nella tediosità. È andare dall'oro al piombo e dal piombo al fango; da belle novità a squallide negazioni. Ma, di fatto, queste belle novità non sono mai apparse se non quando questa teoria negativa del passato fu essa stessa negata. Sono venute quando la gente scavava in una civiltà più antica, perché era più civile della propria civiltà. È ovviamente ciò che accadde al [[Renaissance|Rinascimento]], ma accadde in molti casi in cui è meno ovvio. Credo che il peculiare [[Magic|incanto]] e dominio che appartengono ancora alla storia arturiana siano in gran parte dovuti al lungo periodo durante il quale gli uomini guardarono indietro alla Britannia romana come a qualcosa di più ricco e sottile e artistico dei secoli barbari che le succedettero. Non avevano torto a credere che [[Arthur|Artù]] e Lancillotto fossero più cortesi e colti di Hengist e Horsa. Se [[Arthur|Artù]] e Lancillotto esistettero affatto, quasi certamente lo erano. Lo stesso è stato vero, naturalmente, da quando la gente ha cominciato a studiare la civiltà medievale con una qualche intelligenza. Alcuni sentimentali del Settecento possono aver cominciato col pensare le abbazie in rovina (specie al chiaro di luna) meramente interessanti in quanto rozze e barbare, «ornate d'informe scultura». Ma da quando abbiamo cominciato a scoprire lo schema e la scienza dell'architettura medievale, ci siamo resi conto che essa è l'esatto contrario del barbarico, che è specialmente organizzata e ordinata. Abbiamo riconosciuto che l'architettura gotica non fu certo fatta dai Goti; e che l'informe scultura era tutt'altro che informe, e aveva una forma assai deliberata. Ma non ricordiamo che, come noi abbiamo brancolato per giungere a una comprensione del sistema medievale, così gli uomini dei Secoli Bui possono ben aver brancolato per giungere a una comprensione dell'antico sistema romano. Ed è naturale che gli ultimi monumenti di esso dovessero apparire enormi nel crepuscolo; e uno di questi monumenti era la memoria di Artù.
-
-
-
-<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_01" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 1)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt"></span>
-
-
-WOLFE AND THE MIDSHIPMAN
-
-THERE are people in the world who really hate the heroic.
-Granted that there is an extravagance always tending to overrate
-human achievements, there is an extravagance of triviality also,
-tending to underrate achievement, to take pleasure in a change from
-the poetic to the prosaic.  That is why realistic novels are sometimes
-as interesting as romantic novels.  It is simply because realistic
-novels are quite as arbitrary and fantastic as romantic novels.
-In the romance the hero is always jumping and perpetually falls
-on his feet.  In the realistic story the hero is always plodding
-and perpetually falls on his nose.  But in ordinary life it
-is unusual either to alight on a distant crag or to fall flat
-over a too proximate door-scraper. The romancer collects every
-instance of a beautiful triumph; the realist selects every case
-of an ugly cropper; but the bias of the realist is as extreme
-and as unscrupulous as that of the wildest romantic fabulist.
-If you throw enough mud, some of it will stick, especially to
-that unfortunate creature Man, who was originally made of mud.
-A realistic novel is written by stringing together all the tag-ends
-of human life--all the trains we miss, all the omnibuses we run
-after without catching, all the appointments that miscarry,
-and all the invitations that are declined; all the wasted half-hours
-at Clapham Junction, and all the infant prodigies that grow up
-into stupid men; all the rainy days and all the broken engagements;
-all the Might-Have-Beens and all the Hardly Weres.  Realism is
-the art of connecting everything that is in its nature disconnected.
-But to do this properly a man must be a great artist and rather
-a good liar.
-
-There are, then, partisans of the prosaic.  They are not in the least
-facing life as it is:  life as it is, is almost too splendid--
-nay, too beautiful to be faced.  No man shall see life and live.
-They are making a special and personal selection, just as the aesthete
-or the optimist is making a special and personal selection.  They nose
-about for the meannesses of mankind.  They hunt for mortal humiliation.
-We know that they have this prosaic pugnacity in matters of fiction.
-But it is an interesting fact that they have it also about history.
-In history itself there is a school which may be called anti-romantic;
-and it is perpetually occupied in trying to explain away the many
-romances that have really happened.
-
-When I was a boy I was told that General Wolfe before the assault on
-Quebec had recited the great lines of Gray about glory and the grave,
-and declared he would rather have written them than take Quebec.
-The story is a fine one, full of the eighteenth-century feeling
-of stoicism and heathen happiness before death, of the kinship of arts
-and arms, and of the soldier's splendid contempt for mere soldiering.
-When I was a man I was told to put away this childish legend and I
-put it away.  It had been disproved.  Wolfe had never said anything
-of the sort.  And now, with a great jump, I read that the thing
-is substantially true after all.
-
-I will take this story of General Wolfe and Gray's Elegy as a working
-instance of the way that the historical sceptics do the trick.
-They will discredit a story for which there is excellent evidence
-on the ground of certain omissions or discrepancies in that evidence.
-But they never make the least reference to whether these are of the kind
-that occur in true stories or of the kind that occur in false.
-Some slips are obviously the slips of a liar; other confusions
-arise in honest narration, and in honest narration alone.
-Some blunders prove falsehood; other blunders prove truth.  Let us take
-this Quebec story and go into it a little.  The sceptics, it seems,
-begin by making the story manifestly ridiculous in order to deny it.
-‘Is it likely', they say, ‘that General Wolfe would have quoted
-Gray while he was leading his troops in deadly silence to surprise
-the French?'  Why, of course not; and nobody I ever heard of--
-certainly not I myself in my infancy--ever imagined that Wolfe talked
-about literature within earshot of the enemy; or selected the occasion
-of a steep and silent ascent to recite the whole of Gray's Elegy.
-Picture the soldiers crawling and clambering through the darkness
-hardly daring to pant too loud; and imagine the General putting his
-mouth to the ear of a midshipman and shouting in a hoarse whisper:
-
-The curfew tolls the knell of parting day.
-The lowing herd winds slowly o'er the lea,
-The ploughman homeward plods his weary way,
-And leaves the world to darkness and to me.
-
-Now fades the glimmering landscape on the sight--
-
---and all the rest of the verses.  Of course Wolfe said it,
-if he ever said it at all, on some occasion previous
-to the actual assault--at some distance of time and place
-at which it was possible for people to speak out loud.
-Do the critics think that during the whole Canadian campaign
-the English soldiers conversed by talking on their fingers?
-
-Well, the popular story is that some time before the assault,
-perhaps on the previous day, Wolfe recited a good part of the Elegy
-(chiefly the part about ‘the paths of glory' and ‘the grave')
-to a midshipman named Robinson.  But, apparently, the only person
-who can be referred to was a Scotchman named Robison; which, of course,
-is a perfect example of the mistakes that only the truthful can make.
-Any ignorant Englishman, seeing the Scotch name Robison, might think
-it was merely a misprint for Robinson.  As it does not matter a rap
-to the story whether his name was Robinson or Rehoboam, of course men
-would tell the tale in its familiar form.  If there is in Westmorland
-a person whose name is spelt Smiph, he must not complain if he is
-turned into Smith in stories in which he is a secondary figure.
-If there is in North Cornwall a fine old family of Jomes, it will
-probably become Jones for the purposes of popular narrative.
-Those are things which are modified, not in order to complicate a fraud,
-but in order to simplify the truth.  And it is the whole case against
-the pedantic opponents of the romantic element in history that they
-do not seem able to distinguish between this instinctive omission
-of the irrelevant, which is simply the art of telling stories,
-and the introduction of ingenious and over-elaborate detail which
-is the whole art of telling lies.  If popular traditions change,
-it is rather by dropping things out than by putting things in.
-The story grows simpler through the ages, not more complex.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-WOLFE E IL GUARDIAMARINA
-
-Ci sono al mondo persone che odiano davvero l'eroico. Ammesso che vi sia una stravaganza sempre tendente a sopravvalutare le imprese umane, vi è anche una stravaganza della trivialità, tendente a sottovalutare l'impresa, a compiacersi di un passaggio dal poetico al prosaico. Ecco perché i romanzi realistici sono talvolta interessanti quanto i romanzi romantici. È semplicemente perché i romanzi realistici sono altrettanto arbitrari e fantastici dei romanzi romantici. Nel romanzo d'avventura l'eroe salta di continuo e ricade perpetuamente in piedi. Nel racconto realistico l'eroe arranca di continuo e ricade perpetuamente sul naso. Ma nella vita ordinaria è insolito sia atterrare su una rupe lontana sia stramazzare su un raschietto da scarpe troppo vicino. Il romanziere raccoglie ogni caso di bel trionfo; il realista seleziona ogni caso di brutto ruzzolone; ma la faziosità del realista è tanto estrema e tanto priva di scrupoli quanto quella del più sfrenato favolista romantico. Se si getta abbastanza fango, un po' ne resterà attaccato, specialmente a quella sventurata creatura che è l'Uomo, il quale fu originariamente fatto di fango. Un romanzo realistico si scrive infilando insieme tutti i mozziconi della vita umana — tutti i treni che perdiamo, tutti gli omnibus che rincorriamo senza prenderli, tutti gli appuntamenti che vanno a monte, e tutti gli inviti che vengono declinati; tutte le mezz'ore sprecate a Clapham Junction, e tutti i bambini prodigio che crescono diventando uomini stupidi; tutti i giorni di pioggia e tutti i fidanzamenti rotti; tutti i Sarebbe-Potuto-Essere e tutti gli A-Malapena-Furono. Il realismo è l'arte di connettere tutto ciò che è per sua natura sconnesso. Ma per farlo a dovere un uomo deve essere un grande artista e un discreto bugiardo.
-
-Ci sono, dunque, i fautori del prosaico. Non stanno affatto affrontando la vita così com'è: la vita così com'è è quasi troppo splendida — anzi, troppo bella per essere affrontata. Nessun uomo vedrà la vita e vivrà. Essi compiono una selezione speciale e personale, proprio come l'esteta o l'ottimista compie una selezione speciale e personale. Vanno fiutando le meschinità dell'umanità. Danno la caccia all'umiliazione mortale. Sappiamo che hanno questa combattività prosaica in materia di narrativa. Ma è un fatto interessante che l'abbiano anche riguardo alla storia. Nella storia stessa c'è una scuola che si potrebbe chiamare anti-romantica; ed è perpetuamente occupata a tentare di spiegare via i molti romanzi che sono realmente accaduti.
-
-Quando ero ragazzo mi si disse che il Generale Wolfe, prima dell'assalto a Quebec, aveva recitato i grandi versi di Gray sulla gloria e sulla tomba, e aveva dichiarato che avrebbe preferito averli scritti piuttosto che prendere Quebec. La storia è bella, colma del sentimento settecentesco di stoicismo e di pagana felicità dinanzi alla morte, della parentela tra le arti e le armi, e dello splendido disprezzo del soldato per il mero mestiere delle armi. Quando fui uomo mi si disse di riporre questa fanciullesca leggenda, e la riposi. Era stata smentita. Wolfe non aveva mai detto nulla del genere. E ora, con un gran balzo, leggo che la cosa è, dopotutto, sostanzialmente vera.
-
-Prenderò questa storia del Generale Wolfe e dell'Elegia di Gray come esempio pratico del modo in cui gli scettici della storia fanno il loro gioco di prestigio. Screditeranno una storia per la quale esistono ottime prove sulla base di certe omissioni o discrepanze in quelle prove. Ma non fanno mai il minimo cenno al fatto che queste siano del genere che ricorre nelle storie vere o del genere che ricorre in quelle false. Certe sviste sono palesemente le sviste di un bugiardo; altre confusioni sorgono nella narrazione onesta, e nella narrazione onesta soltanto. Certi abbagli provano la falsità; altri abbagli provano la verità. Prendiamo questa storia di Quebec ed esaminiamola un poco. Gli scettici, a quanto pare, cominciano col rendere la storia manifestamente ridicola allo scopo di negarla. «È verosimile», dicono, «che il Generale Wolfe avrebbe citato Gray mentre conduceva le sue truppe in mortale silenzio a sorprendere i Francesi?» Ma certo che no; e nessuno di cui io abbia mai sentito parlare — di sicuro non io stesso nella mia infanzia — immaginò mai che Wolfe parlasse di letteratura a portata d'orecchio del nemico; o scegliesse l'occasione di una salita ripida e silenziosa per recitare l'intera Elegia di Gray. Immaginate i soldati che strisciano e si arrampicano nell'oscurità, osando appena ansimare troppo forte; e figuratevi il Generale che accosta la bocca all'orecchio di un guardiamarina e grida in un rauco sussurro:
-
-Il coprifuoco suona il rintocco del giorno che si accomiata,
-la mandria muggente si snoda lenta per il prato,
-l'aratore torna arrancando stanco verso casa,
-e lascia il mondo alle tenebre e a me.
-
-Ora sul mio sguardo il paesaggio scintillante svanisce —
-
-— e tutto il resto dei versi. Naturalmente Wolfe lo disse, se mai lo disse, in qualche occasione precedente all'assalto vero e proprio — a una qualche distanza di tempo e di luogo in cui fosse possibile alla gente parlare ad alta voce. Credono forse i critici che, durante l'intera campagna canadese, i soldati inglesi conversassero parlando sulle dita?
-
-Ebbene, la storia popolare è che qualche tempo prima dell'assalto, forse il giorno precedente, Wolfe recitò buona parte dell'Elegia (soprattutto la parte sui «sentieri della gloria» e sulla «tomba») a un guardiamarina di nome Robinson. Ma, a quanto pare, l'unica persona a cui ci si può riferire era uno Scozzese di nome Robison; il che, naturalmente, è un perfetto esempio degli errori che solo i veritieri sanno commettere. Qualsiasi Inglese ignorante, vedendo il nome scozzese Robison, potrebbe pensare che fosse semplicemente un refuso per Robinson. Poiché non importa un fico alla storia se il suo nome fosse Robinson o Roboamo, naturalmente gli uomini racconterebbero la vicenda nella sua forma familiare. Se nel Westmorland c'è una persona il cui nome si scrive Smiph, non deve lamentarsi se viene trasformata in Smith nelle storie in cui è una figura secondaria. Se nella Cornovaglia settentrionale c'è una bella vecchia famiglia di nome Jomes, probabilmente diventerà Jones ai fini della narrazione popolare. Sono cose che vengono modificate, non per complicare una frode, ma per semplificare la verità. Ed è l'intero capo d'accusa contro i pedanti avversari dell'elemento romantico nella storia, che essi non sembrano capaci di distinguere tra questa istintiva omissione dell'irrilevante, che è semplicemente l'arte di raccontare storie, e l'introduzione di dettagli ingegnosi e troppo elaborati, che è l'intera arte di raccontare menzogne. Se le tradizioni popolari cambiano, è piuttosto per sottrazione di cose che per aggiunta. La storia si fa più semplice attraverso i secoli, non più complessa.
-
-
-
-<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_02" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 2)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt"></span>
-
-
-Then the massive sceptical mind moves on to the next great difficulty
-in the story.  Not only is it the awful truth that the midshipman
-Robinson was really Robison, but he was not really a midshipman.
-‘Robison was rated as a midshipman in accordance with the usual convention
-that gives every gentleman employed on a [[Ship|ship]] of war an official rank,
-as he was afterwards rated as a colonel when Professor of Mathematics
-in the C. Cadet Corps at St Petersburg.'  Now, these are very interesting
-facts, but the insistence on them seems again to betray a singular
-ignorance of the way in which an honest man tells a true story.
-A man says, ‘Wolfe said to a midshipman.'  He does not say,
-‘Wolfe said to a person rated as a midshipman in accordance with
-the usual convention that gives to every gentleman employed on a [[Ship|ship]]
-of war an official rank, as he was afterwards rated as a colonel
-when Professor of Mathematics in the C. Cadet Corps at St Petersburg.'
-I can quite imagine Mrs Nickleby telling the story in that way,
-but nobody else.
-
-It does not affect the story in the slightest degree whether
-Mr Robison was a midshipman, or a music-master, or a boot-black,
-or an Ethiopian [[King|king]], or a person rated as a midshipman
-in accordance with the usual convention which gives, &c. But
-it does affect that story that we should get to the story with
-some reasonable [[Speed|speed]] and hear what was said by Wolfe, the only
-person in whom we are interested at all.  Therefore, of course,
-the popular narrator said ‘midshipman', simply because one can
-say ‘midshipman' quicker than one can say ‘Jack Robinson'
-or ‘Jack Robison'.
-
-ABOUT [[Christianity|CHRISTIANITY]]
-
-A CURIOUS chance led me lately to stumble over an incident
-which happened some [[Time|time]] ago.  It was concerned with one
-of the most interesting men of our [[Time|time]]; and also one of the
-problems which are peculiar to our civilization and our [[Time|time]].
-I give the story as I heard it; it reflects on nobody,
-whether it is true or untrue.
-
-It seems that Mr Eric Gill, the distinguished sculptor, was engaged
-to erect a sculptural memorial for the League of Nations,
-expressing that need for Peace which is now the most direct
-and vital, not to say deadly, necessity, for all Christians
-and for all sane men.  Apparently he planned a design
-which involved a Christian symbol; and this was resisted,
-on the ground that non-Christians might not accept it.
-I suspect that it was not so much a question of the non-Christians
-outside Europe as of the Anti-Christians inside Europe.
-It is very unlike all the little I know of the intellectual
-leaders of those who follow Confucius or Buddha to object
-especially to a mystical emblem connected with [[Christ]];
-and nobody supposes that any [[Body|body]] except leaders and intellectuals
-has very much to say in such modern political problems.
-And as for [[Islam]], it is enough to say that [[Christ]] is already
-given at least as high a place by all Moslems as He is
-by many Modernists.
-
-What produces a practical embarrassment in this case is the sincere
-and savage hatred felt by many Europeans for the religion
-of their own European past.  And this interests me, simply as a
-historical comparison, because it is really a historical curiosity.
-It is a difficulty quite peculiar to Christendom.  There does not
-seem to have been anything like it in Paganism.  In the last phase
-of Paganism there was every sort of [[Doubt|doubt]]; there was every sort
-of denial; but there was not this particular sort of difficulty.
-The old gods were once perhaps really worshipped as gods; they were
-then enjoyed as legends; they were even treated lightly as jokes;
-but they were never hated as symbols.  There may have been a [[Time|time]],
-though I rather [[Doubt|doubt]] it, when people did actually believe that [[Apollo]]
-drove a golden chariot through the sky; but, anyhow, long after
-[[Apollo]] had become an abstraction, an [[Allegory|allegory]] of music or poetry,
-a tradition that nobody but the most remote rustics took
-quite seriously, there was most certainly no sculptor from one end
-of the Roman Empire to the other who would have felt any difficulty,
-or found any difficulty, in carving [[Apollo]] as driving a chariot.
-The heathens grew cold towards their religion, or even contemptuous
-of their religion, but they never had any irritation against it
-that could make them refuse to use its images, or its imagery,
-in the realm of [[Imagination|imagination]].
-
-There must have been multitudes of intellectuals,
-living on the tradition of Euripides or Lucian, who took
-even a bitter or mocking or pessimistic view of the gods;
-or simply thought there were no such things as gods in the world;
-but they would never have objected to gods as graven images.
-I never heard of any case of any heathen sceptics becoming iconoclasts;
-and going out and smashing the popular deities as a protest
-on behalf of abstract [[Truth|truth]].  They accepted the lyre of [[Apollo]]
-or the wand of Mercury, just as we still accept a Cupid on
-[[A Valentine|a Valentine]] or a nymph on a stone fountain.  We may say that
-the cupid has been vulgarized and is no longer truly a god.
-We may say that the nymph has met the gorgon, and been turned to stone.
-And they may have known in their hearts that their religion was dead.
-But because it was dead, they had even less [[Desire|desire]] to make
-exhausting efforts to kill it.  If [[Christianity]] were really one
-of the cults studied in comparative religion, if it were really,
-as its critics sometimes say, a thing made up of materials borrowed
-from Pagan ism, if it were really only the last myth or ritual
-of the long undying [[Death|death]] of the Roman Empire, then there is no
-reason why its symbolism should not be used forever by anybody;
-as the symbolism of nymphs and cupids is still used forever
-by anybody.  The real reason is that this religion does differ
-in one detail from all those ancient and beautiful religions.
-It is not dead.  Everybody knows in his heart that it is not dead;
-and none better than those who want it to die.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-A questo punto la massiccia mente scettica passa alla successiva grande difficoltà della storia. Non solo è la terribile verità che il guardiamarina Robinson fosse in realtà Robison, ma egli non era nemmeno davvero un guardiamarina. «Robison fu classificato come guardiamarina secondo la consueta convenzione che assegna a ogni gentiluomo imbarcato su una [[Ship|nave]] da guerra un grado ufficiale, così come in seguito fu classificato come colonnello quando divenne Professore di Matematica nel Corpo dei Cadetti C. a San Pietroburgo.» Ora, questi sono fatti assai interessanti, ma l'insistenza su di essi sembra tradire ancora una volta una singolare ignoranza del modo in cui un uomo onesto racconta una storia vera. Un uomo dice: «Wolfe disse a un guardiamarina.» Non dice: «Wolfe disse a una persona classificata come guardiamarina secondo la consueta convenzione che assegna a ogni gentiluomo imbarcato su una [[Ship|nave]] da guerra un grado ufficiale, così come in seguito fu classificato come colonnello quando divenne Professore di Matematica nel Corpo dei Cadetti C. a San Pietroburgo.» Posso benissimo immaginare la signora Nickleby raccontare la storia in quel modo, ma nessun altro.
-
-Non tocca minimamente la storia il fatto che il signor Robison fosse un guardiamarina, o un maestro di musica, o un lustrascarpe, o un [[King|re]] etiope, o una persona classificata come guardiamarina secondo la consueta convenzione che assegna, ecc. Ma tocca eccome quella storia il fatto che dovremmo arrivare alla storia con una ragionevole [[Speed|rapidità]] e udire ciò che fu detto da Wolfe, l'unica persona che davvero ci interessi. Perciò, naturalmente, il narratore popolare disse «guardiamarina», semplicemente perché si può dire «guardiamarina» più in fretta di quanto si possa dire «Jack Robinson» o «Jack Robison».
-
-A PROPOSITO DEL [[Christianity|CRISTIANESIMO]]
-
-UN curioso caso mi ha fatto di recente imbattere in un episodio accaduto qualche [[Time|tempo]] fa. Riguardava uno degli uomini più interessanti del nostro [[Time|tempo]]; e insieme uno dei problemi che sono peculiari della nostra civiltà e del nostro [[Time|tempo]]. Riporto la storia così come l'ho udita; non getta discredito su nessuno, che sia vera o falsa.
-
-Pare che il signor Eric Gill, l'insigne scultore, fosse stato incaricato di erigere un monumento scultoreo per la Società delle Nazioni, che esprimesse quel bisogno di Pace che è oggi la più diretta e vitale, per non dire letale, necessità per tutti i cristiani e per tutti gli uomini sani di mente. A quanto pare egli concepì un disegno che comprendeva un simbolo cristiano; e a ciò ci si oppose, con la motivazione che i non cristiani avrebbero potuto non accettarlo. Sospetto che non si trattasse tanto dei non cristiani fuori d'Europa quanto degli anticristiani dentro l'Europa. Mal si accorda con tutto il poco che so dei capi intellettuali di coloro che seguono Confucio o Buddha l'idea che essi obiettino in modo particolare a un emblema mistico legato a [[Christ|Cristo]]; e nessuno suppone che alcun [[Body|corpo]] all'infuori dei capi e degli intellettuali abbia granché da dire in simili problemi politici moderni. E quanto all'[[Islam]], basti dire che [[Christ|Cristo]] gode già, presso tutti i musulmani, di un posto almeno tanto alto quanto quello che gli attribuiscono molti modernisti.
-
-Ciò che in questo caso produce un imbarazzo pratico è l'odio sincero e feroce che molti europei nutrono per la religione del loro stesso passato europeo. E questo mi interessa, semplicemente come confronto storico, perché è davvero una curiosità storica. È una difficoltà del tutto peculiare alla cristianità. Nulla di simile pare esservi stato nel paganesimo. Nell'ultima fase del paganesimo c'era ogni sorta di [[Doubt|dubbio]]; c'era ogni sorta di negazione; ma non c'era questa particolare specie di difficoltà. Gli antichi dèi furono forse un tempo davvero adorati come dèi; poi furono goduti come leggende; furono persino trattati con leggerezza come barzellette; ma non furono mai odiati come simboli. Vi fu forse un [[Time|tempo]], per quanto ne [[Doubt|dubiti]] alquanto, in cui la gente credeva davvero che [[Apollo]] guidasse un carro d'oro attraverso il cielo; ma, comunque sia, molto tempo dopo che [[Apollo]] era divenuto un'astrazione, un'[[Allegory|allegoria]] della musica o della poesia, una tradizione che nessuno tranne i più remoti campagnoli prendeva del tutto sul serio, non vi fu di certo alcuno scultore da un capo all'altro dell'Impero Romano che avrebbe provato, o trovato, la minima difficoltà nello scolpire [[Apollo]] mentre guida un carro. I pagani si fecero freddi verso la loro religione, o persino sprezzanti verso di essa, ma non ebbero mai contro di essa alcuna irritazione tale da indurli a rifiutare di usarne le immagini, o l'immaginario, nel regno dell'[[Imagination|immaginazione]].
-
-Devono esserci state moltitudini di intellettuali, nutriti della tradizione di Euripide o di Luciano, che avevano degli dèi una visione persino amara o beffarda o pessimistica; o che semplicemente pensavano non esistessero al mondo cose come gli dèi; eppure non avrebbero mai avuto nulla da obiettare contro gli dèi in quanto immagini scolpite. Non ho mai udito di alcun caso di scettici pagani divenuti iconoclasti; usciti a fracassare le divinità popolari come protesta in nome della [[Truth|verità]] astratta. Accettavano la lira di [[Apollo]] o la verga di Mercurio, proprio come noi accettiamo ancora un Cupido su [[A Valentine|un biglietto di San Valentino]] o una ninfa su una fontana di pietra. Possiamo dire che il cupido è stato volgarizzato e non è più veramente un dio. Possiamo dire che la ninfa ha incontrato la gorgone, ed è stata tramutata in pietra. E forse essi sapevano in cuor loro che la loro religione era morta. Ma proprio perché era morta, avevano ancor meno [[Desire|desiderio]] di compiere sfibranti sforzi per ucciderla. Se il [[Christianity]] fosse davvero uno dei culti studiati nella religione comparata, se fosse davvero, come talora dicono i suoi critici, una cosa fatta di materiali presi in prestito dal paganesimo, se fosse davvero soltanto l'ultimo mito o rito della lunga [[Death|morte]] senza fine dell'Impero Romano, allora non vi sarebbe ragione perché il suo simbolismo non debba essere usato in eterno da chiunque; come il simbolismo delle ninfe e dei cupidi è ancora usato in eterno da chiunque. La vera ragione è che questa religione differisce, in un solo dettaglio, da tutte quelle antiche e belle religioni. Non è morta. Tutti sanno in cuor loro che non è morta; e nessuno lo sa meglio di coloro che vogliono che muoia.
-
-
-
-<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_03" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 3)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt"></span>
-
-
-The people arranging for the Peace Memorial of the League
-of Nations would not have the slightest objection to covering
-it with signs and symbols which were once religious.
-They would not object to a statue of Peace holding the olive branch
-like a statue of Minerva; they would not object to a symbolic
-figure of Sunrise which had the lyre or the horses of [[Apollo]];
-they would not be annoyed if somebody conceived womanhood under the form
-of [[Diana]] hunting or manhood under the form of Hercules at rest.
-All these things are now really an [[Allegory|allegory]].  And if Christians
-could accept so trifling a modernist modification of their view
-as to agree that [[Christianity]] is dead, they could safely go on using
-all their great historical and hagiological wealth of imagery
-and illustration; and nobody would object to ten thousand angels
-or a million martyrs or any number of crosses and haloes.
-But the ground of the resistance is that the whole modern comparison
-between the decline of Paganism and the decline of [[Christianity]]
-is false.  Paganism, in the historic sense of Polytheism,
-did decline once and for all.  [[Christianity]] has declined twenty times;
-but nobody who hated it was ever quite certain that it was dead.
-The rationalist historians of the nineteenth century found it
-easy to trace in a curve the rise and fall of a religion.
-They showed very lucidly, to their own satisfaction, that such
-a historical monstrosity was first a myth, and then a superstition,
-and then a tradition, and then an abstraction and an [[Allegory|allegory]].
-And what they wrote was largely true, if they had happened
-to be writing the [[history]] of Jupiter-Ammon. But as a [[history]] of
-post-Pagan Europe, commonly called Christendom, it is simply not true.
-It is not the story of something that ruled the whole world,
-as a pagan deity ruled the whole [[City|city]].  It is not the story
-of something which was lost when a man left his own [[City|city]],
-and enlarged his mind by considering the gods of other cities.
-It did not begin by being so powerful as Paganism; it never came
-to being so impotent as Paganism.  It was the story of some thing
-that was unsafe at its safest and living still at its lowest;
-something which is always coming out of the Catacombs and going
-back again; something that is never entirely acceptable when it appears;
-and never entirely forgotten when it disappears.
-
-It is this utterly unique and even unnatural vigilance that can [[Alone|alone]]
-explain a difficulty like that raised about the graven image of Peace.
-It is that even in proclaiming political peace it proclaims
-spiritual war.  Its things cannot be used as dead things to deck
-out any alien triumph; we will not be the [[skeleton]] at any pagan
-feast or the corpse for any scientific [[Body|body]]-snatching. But,
-quite apart from our various individual views on such questions
-of [[philosophy]], there remains a very practical problem of [[history]].
-These mysteries are the background of the modern European's past, just as
-those myths were the background of the most sceptical Pagan's past.
-And the matter can be put to a perfectly practical test.
-If you had told one of the last Greek sculptors that he must
-not represent anything out of the great Greek myths,
-he would probably have answered, ‘What shall I represent?'
-These things were the whole imagery of his imagination.
-If you tell an artist of the Christian culture, whatever his opinions,
-that he is to represent peace or charity or universal love
-by a familiar and obvious emblem--what is the poor devil to do?
-Pause and think of that point; for it is a perfectly practical point.
-What are the popular emblems of peace, if we are to cut out all
-that comes from myths or mysteries or the past?
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Coloro che stanno predisponendo il Memoriale della Pace della Società
-delle Nazioni non avrebbero la minima obiezione a ricoprirlo
-di segni e di simboli che un tempo furono religiosi.
-Non avrebbero da obiettare a una statua della Pace che regge il ramoscello d'ulivo
-come una statua di Minerva; non avrebbero da obiettare a una figura
-simbolica dell'Aurora munita della lira o dei cavalli di [[Apollo]];
-non si sdegnerebbero se qualcuno raffigurasse la femminilità nella forma
-di [[Diana]] cacciatrice o la virilità nella forma di Ercole a riposo.
-Tutte queste cose ormai sono davvero un'[[Allegory|allegoria]]. E se i cristiani
-sapessero accettare una modificazione tanto insignificante della loro visione,
-di stampo modernista, da convenire che il [[Christianity|Cristianesimo]] è morto, potrebbero tranquillamente continuare a servirsi
-di tutta la loro grande ricchezza storica e agiografica di immagini
-e illustrazioni; e nessuno avrebbe da obiettare a diecimila angeli
-o a un milione di martiri o a un numero qualsiasi di croci e di aureole.
-Ma il fondamento della resistenza è che l'intero paragone moderno
-tra il declino del Paganesimo e il declino del [[Christianity|Cristianesimo]]
-è falso. Il Paganesimo, nel senso storico di Politeismo,
-declinò una volta per tutte. Il [[Christianity|Cristianesimo]] è declinato venti volte;
-ma nessuno di quanti lo odiavano fu mai del tutto certo che fosse morto.
-Gli storici razionalisti dell'Ottocento trovavano
-facile tracciare in una curva l'ascesa e la caduta di una religione.
-Dimostravano con grande lucidità, a loro piena soddisfazione, che un simile
-mostro storico fu dapprima un mito, poi una superstizione,
-poi una tradizione, e poi un'astrazione e un'[[Allegory|allegoria]].
-E ciò che scrivevano era in gran parte vero, se si fosse dato il caso
-che scrivessero la [[history|storia]] di Giove-Ammone. Ma come [[history|storia]] dell'
-Europa post-pagana, comunemente detta Cristianità, semplicemente non è vero.
-Non è la storia di qualcosa che dominò il mondo intero,
-come una divinità pagana dominava tutta la [[City|città]]. Non è la storia
-di qualcosa che si perdeva quando un uomo lasciava la propria [[City|città]],
-e allargava la mente considerando gli dèi di altre città.
-Non cominciò con l'essere potente come il Paganesimo; non giunse mai
-a essere impotente come il Paganesimo. Fu la storia di qualcosa
-che era malsicuro nella sua massima sicurezza e ancora vivo nel suo punto più basso;
-qualcosa che continuamente esce dalle Catacombe e vi torna
-dentro; qualcosa che non è mai del tutto accettabile quando appare;
-e mai del tutto dimenticato quando scompare.
-
-È questa vigilanza affatto unica e perfino innaturale che, essa [[Alone|sola]], può
-spiegare una difficoltà come quella sollevata a proposito dell'immagine scolpita della Pace.
-È che, pur proclamando la pace politica, essa proclama
-la guerra spirituale. Le sue cose non possono essere usate come cose morte per adornare
-un qualche trionfo altrui; non saremo lo [[skeleton|scheletro]] a nessun banchetto
-pagano né il cadavere per un qualsiasi trafugamento scientifico di [[Body|corpi]]. Ma,
-del tutto a prescindere dalle nostre diverse opinioni individuali su tali questioni
-di [[philosophy|filosofia]], resta un problema assai pratico di [[history|storia]].
-Questi misteri sono lo sfondo del passato dell'europeo moderno, proprio come
-quei miti erano lo sfondo del passato del più scettico dei Pagani.
-E la cosa può essere sottoposta a una prova perfettamente pratica.
-Se aveste detto a uno degli ultimi scultori greci che egli non
-doveva rappresentare nulla dei grandi miti greci,
-probabilmente avrebbe risposto: «E che cosa dovrei rappresentare?».
-Quelle cose erano tutto l'immaginario della sua fantasia.
-Se dite a un artista della cultura cristiana, quali che siano le sue opinioni,
-che deve rappresentare la pace o la carità o l'amore universale
-con un emblema familiare e ovvio, che cosa mai deve fare, poveraccio?
-Fermatevi a riflettere su questo punto; perché è un punto perfettamente pratico.
-Quali sono gli emblemi popolari della pace, se dobbiamo tagliar via tutto
-ciò che proviene dai miti o dai misteri o dal passato?
-
-
-
-<span class="atom-split" data-atom="story_10_the_national_anthem--part_01" data-title="The Glass Walking Stick — The National Anthem (part 1)" data-chapter="The National Anthem" data-kind="excerpt"></span>
-
-
-THE NATIONAL ANTHEM
-
-I SEE that there is a movement in many influential quarters
-for cutting out the best verse in the National Anthem.
-This is very typical of many of our ‘reforms' that arise out
-of a sense of refinement and not out of a sense of right.
-When I say the best verse, I mean the one that confounds the tricks
-of all the enemies of the State.  And I call it the best
-verse because, in a work that no one particularly praises or
-preserves for literary reasons, it is the most quaintly national,
-the most unique, the most sincere and vigorous, and by far
-the most democratic.  One does not hold up ‘God Save the King'
-as a poem like the ‘Mariners of England', any more than one
-holds up the picture of John Bull as something beautiful
-and [[Well|well]]-proportioned, like the St George of Donatello.
-The thing is a patriotic curiosity; and the most curious
-and patriotic part of it is exactly the part that these people
-want to cut out.  And, ethically, it is excellent.
-
-Confound their politics,
-Frustrate their knavish tricks,
-
-may not be very good poetry, but it is very good, sound
-Christian morals.  If there are any knavish tricks, I [[Hope|hope]] we
-all pray they may be frustrated.  And as for confounding politics,
-a good many of us have been in sympathy with the idea ever
-since we made a study of the ways of the confounded politicians.
-The poem does not define the people denounced, except in so
-far that they are the enemies of the [[King]], who is in all
-such symbolic [[songs]] made a symbol of the commonwealth.
-I happen to think that the [[King]]'s worst enemies often sit
-at his own Council-board, and that England's worst invaders
-and destroyers often have the high places in the senate;
-but all this does not prevent me from singing the anthem
-with heartiness and relish.
-
-What the refined people (confound their knavish tricks!)
-will not see is that, if you are loyal to anything and wish
-to preserve it, you must recognize that it has or might
-have enemies; and you must [[Hope|hope]] that the enemies will fail.
-The real insolence, if there were any, would lie in saying,
-‘God save the King'--in calling the Universal and Eternal to take
-care of a particular tribal chief on a trivial little island.
-But undoubtedly, if you have a right to ask God to save him,
-you have a right to ask God to frustrate those who seek
-to destroy him; the two sentences simply mean the same thing.
-The oblivion of so obvious a fact is only a part of that foolish
-forgetfulness of the real ethics of fighting which is equally
-perilous today, whether it takes its Jingo or its Pacifist form.
-Not only is the army the chief business of our processions;
-but processions seem to be considered the chief business of the army.
-From no point of view ought armaments to be ornaments.
-I have no respect for that chronic war-fever, or love of conquest, which
-(as the phrase goes) draws the sword and throws away the scabbard.
-But I have even less respect for that arrogant etiquette
-that keeps the scabbard when it has thrown away the sword.
-And among the results of this masquerade style of militarism is
-a neglect of the most naked and structural principles of fighting.
-
-Nothing is baser in our time than the idea that we can have
-special enthusiasms for things, so long as they are secure,
-without pledging ourselves to uphold them if they are ever
-in peril.  You cannot have a devotion that is not a boundary.
-You cannot have a boundary that is not a barricade.
-If you do not think mankind a sacred brother hood
-to be everywhere saluted and saved, then do not say so.
-But if you do say so, then you must certainly be ready to save
-it from sharks or tigers, from monsters or from microbes.
-If you do not think your nation a solid entity and a holy soil,
-then do not call it your nation.  But if you do, you must admit
-that it might be as much hated by others as it is loved by you.
-If it is really individual, it is just as likely to be hated
-as it is to be loved.
-
-There is another obvious moral ground upon which we should continue
-to ‘confound their politics'.  The refined people (confound, &c.)
-seem to think that there is something unpleasant and profane about making
-a war religious.  I should say that there ought to be no war except
-religious war.  If war is irreligious, it is immoral.  No man ought ever
-to fight at all unless he is prepared to put his quarrel before that
-invisible [[Court]] of Arbitration with which all religion is concerned.
-Unless he thinks he is vitally, eternally, cosmically in the right,
-he is wrong to [[Fire|fire]] off a pocket-[[Pistol|pistol]]. If he does think he is in
-the right, he is surely justified in praying that the right may prevail.
-The separation between war and the Church, like the separation
-between business and the Chapel, would only mean that the religion
-would grow much too thin, while the cynicism would grow much too fat.
-It would be a good thing if religion thought a little more about
-this world--and if politics thought a little more about the other.
-
-And lastly, no one seems to notice that this verse of the National Anthem
-(if my [[Memory|memory]] serves me right) is the only one that contains the popular
-note of [[Comradeship|comradeship]] as [[Well|well]] as the popular note of conflict.
-I quote from [[Memory|memory]], but I think the verse runs--
-
-O Lord, our God, arise,
-Scatter his enemies,
-And make them fall.
-Confound their politics,
-Frustrate their knavish tricks;
-On Thee our hopes we fix:
-God save us all.
-
-It is the only verse that begins with something like fine
-Biblical diction, as of a whirlwind rising.  It is the only
-verse that ends with a universal and democratic benediction.
-I do not [[Wonder|wonder]] that the Moderns want it removed.
-
-[[King|KING]] GEORGE IV
-
-I HAVE just been reading what is not only a very excellent [[Biography|biography]],
-but a very much-needed book.  It.  is a study of ‘George the Fourth'
-by Mr Shane Leslie.  It is in no sense what even shallow
-people would call a whitewashing of George IV, though it is
-the restoration of a blackened portrait.  It has not the tone
-of an advocate for the defence any more than for the prosecution.
-But it is a criticism of the critics of George.  And it is a very dam
-aging criticism too.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'INNO NAZIONALE
-
-VEDO che in molti ambienti influenti si va facendo strada un movimento per sopprimere la strofa migliore dell'Inno Nazionale. Ciò è quanto mai tipico di molte delle nostre «riforme» che nascono da un senso di raffinatezza e non da un senso del giusto. Quando dico la strofa migliore, intendo quella che manda a monte le trame di tutti i nemici dello Stato. E la chiamo la strofa migliore perché, in un'opera che nessuno loda o conserva in modo particolare per ragioni letterarie, essa è la più bizzarramente nazionale, la più singolare, la più sincera e vigorosa, e di gran lunga la più democratica. Non si esalta «God Save the King» come una poesia al pari dei «Mariners of England», così come non si esalta l'immagine di John Bull come qualcosa di bello e [[Well|ben]] proporzionato, al pari del San Giorgio di Donatello. La cosa è una curiosità patriottica; e la parte più curiosa e patriottica di essa è esattamente quella che costoro vogliono sopprimere. E, sul piano etico, è eccellente.
-
-Confondi la loro politica,
-Sventa le loro trame furfantesche,
-
-non sarà forse ottima poesia, ma è ottima e solida morale cristiana. Se ci sono trame furfantesche, io [[Hope|spero]] che tutti preghiamo affinché siano sventate. E quanto al confondere la politica, molti di noi sono stati in sintonia con l'idea fin da quando ci mettemmo a studiare i modi dei confondibili politicanti. La poesia non definisce le persone denunciate, se non in quanto sono i nemici del [[King|re]], il quale in tutti questi [[songs|canti]] simbolici è fatto simbolo dello Stato. Mi capita di pensare che i peggiori nemici del [[King|re]] siedano spesso al suo stesso Consiglio, e che i peggiori invasori e distruttori dell'Inghilterra occupino spesso gli alti seggi del senato; ma tutto ciò non mi impedisce di cantare l'inno con calore e gusto.
-
-Ciò che le persone raffinate (si confondano le loro trame furfantesche!) non vogliono vedere è che, se si è leali verso qualcosa e la si vuole conservare, bisogna riconoscere che essa ha, o potrebbe avere, dei nemici; e bisogna [[Hope|sperare]] che i nemici falliscano. La vera insolenza, se ve ne fosse, starebbe nel dire «Dio salvi il Re» — nel chiamare l'Universale e l'Eterno a prendersi cura di un particolare capotribù su un'insignificante isoletta. Ma senza dubbio, se si ha il diritto di chiedere a Dio di salvarlo, si ha il diritto di chiedere a Dio di mandare a monte coloro che cercano di distruggerlo; le due frasi significano semplicemente la stessa cosa. L'oblio di un fatto tanto ovvio non è che una parte di quella sciocca dimenticanza della vera etica del combattere, che è oggi ugualmente perigliosa, sia che assuma la forma bellicista sia che assuma quella pacifista. Non solo l'esercito è la principale faccenda delle nostre processioni; ma le processioni paiono considerate la principale faccenda dell'esercito. Da nessun punto di vista gli armamenti dovrebbero essere ornamenti. Non ho alcun rispetto per quella cronica febbre di guerra, o amore di conquista, che (come vuole il detto) sguaina la spada e getta via il fodero. Ma ho ancor meno rispetto per quella arrogante etichetta che tiene il fodero dopo aver gettato via la spada. E tra i risultati di questo stile da mascherata del militarismo v'è una trascuratezza dei più nudi e strutturali princìpi del combattere.
-
-Nulla è più vile ai nostri tempi dell'idea che si possano nutrire speciali entusiasmi per le cose, finché esse sono al sicuro, senza impegnarci a sostenerle qualora si trovino in pericolo. Non si può avere una devozione che non sia un confine. Non si può avere un confine che non sia una barricata. Se non ritieni l'umanità una sacra fratellanza da salutare e salvare ovunque, allora non dirlo. Ma se lo dici, allora devi di certo essere pronto a salvarla dagli squali o dalle tigri, dai mostri o dai microbi. Se non ritieni la tua nazione un'entità solida e un suolo sacro, allora non chiamarla la tua nazione. Ma se lo fai, devi ammettere che essa potrebbe essere odiata dagli altri tanto quanto è amata da te. Se è davvero individuale, ha altrettante probabilità di essere odiata quanto di essere amata.
-
-C'è un altro ovvio fondamento morale per cui dovremmo continuare a «confondere la loro politica». Le persone raffinate (si confondano, ecc.) paiono pensare che vi sia qualcosa di sgradevole e profano nel rendere religiosa una guerra. Io direi che non dovrebbe esservi guerra alcuna se non la guerra religiosa. Se una guerra è irreligiosa, è immorale. Nessun uomo dovrebbe mai combattere, se non è pronto a portare la sua contesa dinanzi a quell'invisibile [[Court|Corte]] d'Arbitrato di cui si occupa ogni religione. A meno che non pensi di essere vitalmente, eternamente, cosmicamente nel giusto, fa male a [[Fire|sparare]] anche solo un colpo di [[Pistol|pistola]] tascabile. Se invece pensa di essere nel giusto, è di certo giustificato nel pregare che il giusto prevalga. La separazione tra la guerra e la Chiesa, come la separazione tra gli affari e la Cappella, significherebbe soltanto che la religione si farebbe troppo esile, mentre il cinismo si farebbe troppo grasso. Sarebbe una buona cosa se la religione pensasse un po' di più a questo mondo — e se la politica pensasse un po' di più all'altro.
-
-E infine, nessuno pare notare che questa strofa dell'Inno Nazionale (se la [[Memory|memoria]] non mi inganna) è l'unica che contenga la nota popolare del [[Comradeship|cameratismo]] [[Well|come]] pure la nota popolare del conflitto. Cito a [[Memory|memoria]], ma credo che la strofa reciti così —
-
-O Signore, Dio nostro, sorgi,
-Disperdi i suoi nemici,
-E falli cadere.
-Confondi la loro politica,
-Sventa le loro trame furfantesche;
-In Te riponiamo le nostre speranze:
-Dio salvi tutti noi.
-
-È l'unica strofa che comincia con qualcosa di simile a una nobile dizione biblica, come di un turbine che si leva. È l'unica strofa che si chiude con una benedizione universale e democratica. Non mi [[Wonder|meraviglio]] che i Moderni la vogliano rimossa.
-
-[[King|RE]] GIORGIO IV
-
-HO appena finito di leggere quella che non è soltanto un'eccellente [[Biography|biografia]], ma anche un libro di cui c'era gran bisogno. È uno studio su «Giorgio IV» del signor Shane Leslie. Non è in alcun senso ciò che anche le persone superficiali chiamerebbero una riabilitazione di comodo di Giorgio IV, per quanto sia il restauro di un ritratto annerito. Non ha il tono di un avvocato della difesa più di quanto lo abbia dell'accusa. Ma è una critica ai critici di Giorgio. Ed è anche una critica assai schiacciante.
-
-
-
-<span class="atom-split" data-atom="story_10_the_national_anthem--part_02" data-title="The Glass Walking Stick — The National Anthem (part 2)" data-chapter="The National Anthem" data-kind="excerpt"></span>
-
-
-The truth is that poor George has been the victim of a prolonged effort
-of Propaganda.  It was partly Whig and partly Victorian propaganda.
-But because it went on for a very long time and enlisted many literary
-men of what may be called the Whig patronage, it has come to seem to
-many of my generation and the next a normal truth of English history.
-It is quite obvious that, long before we come to the really fine
-qualities of the man, even his ordinary qualities were caricatured
-in the most unscrupulous and scandalous fashion.  In weakness and in
-strength he was very much of a man--of what we call a man's man.
-He has not only been represented as a ladies' man--which perhaps he was;
-he has been talked of as a lady-killer almost in the literal sense
-of Bluebeard.  The truth is that George's conduct, while wrong
-by a Christian standard, was very far from being exceptionally wrong
-by the ordinary heathen standard of hundreds of such men of the world.
-Very few of those men have risked so much as he did for the one heroic
-love of his life; and, if he had risked more, he might well have been
-called a hero.  But he was not a hero; he was a very human being; a man,
-but not a monster.  Yet it certainly is as a monster, swollen, bloated,
-and abominable, that he haunted even our nurseries like a nightmare.
-
-A coincidence of two causes, I think, produced this lurid transformation
-and tradition.  The first was aristocratic and the second democratic;
-and together they turned both the Whig and the Radical against
-the King's memory.  The first was that he had been in every sense,
-and even remained in some sense, a Radical himself.  At least he was once
-a Liberal even with a large ‘L', and was always a liberal with a small
-one But he had changed sides in the ordinary party sense, and joined
-in the ordinary shuffling and inconsistency of the party system.
-The Whigs hated him for having been a Whig more than for being a Tory.
-But the aristocrats who had known him knew he was intelligent,
-knew he had understood what he was doing and what he was undoing His
-very intelligence let him in for a charge of intellectual treason.
-That was the sort of [[Monster|monster]] he was--a constitutional monarch
-who could not act for himself, and yet could think for himself.
-
-The second cause that coincides with this was the genuine
-popular legend of the pathos and [[innocence]] of [[Queen]] Caroline.
-Now about that the [[King]] may have been wrong, but he certainly
-was not inhumanly or inconceivably wrong; and the wrong
-certainly was not all on one side.  George was really wrong
-not in divorcing Caroline, but in marrying Caroline.
-In divorcing her, as a matter of fact, he was simply
-ceasing to be a bigamist.  For he was already married
-to a much better woman.  But the mob has a mysterious sort
-of power of hitting the right nail with the wrong hammer.
-George was very properly pelted for being false to his wife;
-only he was really being false to quite another wife.
-Anyhow, his popularity with posterity was killed by those two
-combining forces.  It was killed by the horror of the populace
-who knew nothing about him, and the [[Jealousy|jealousy]] of the gentry
-who knew too much about him.  But the [[Time|time]] has come when a more
-rational and reliable estimate can be made than was possible
-to the Whig tradition which Thackeray inherited from Macaulay;
-and with admirable wit, sympathy, and compact criticism,
-Mr Shane Leslie has made it.
-
-In [[Truth|truth]], there is a great deal to praise in George IV.  At any rate,
-there was a very great deal to praise in the Prince Regent.
-It was not entirely his fault if there was less to praise in
-the [[King]] than there had been in the Prince.  If ever a man's life
-was broken and brutally mismanaged by other people, it was his.
-His father was a [[Fool|fool]] who repeatedly relieved the monotony
-of that fact by becoming a lunatic.  If anything, he was quieter
-and less mischievous as a lunatic than he was as a [[Fool|fool]].
-He pestered and oppressed his children, and drove them into
-dark and devious ways.  Yet even here there is a good example
-of the way in which the world is unjust to the Prince Regent.
-It has often been repeated that he wanted his [[Child|child]] to be
-trained to be truthful, and admitted that he had fallen into
-lax ways in such matters, through the false position into
-which the old family tyranny had forced him in his youth.
-This is used as evidence against him--that he had himself confessed
-to being a liar.  But no real liar ever confesses to being a liar.
-The confession is not a proof of how false he was, but of how
-candid he was.
-
-He was forbidden by bigots and tyrants to call his wife his wife,
-and that is a situation which no man's sense of [[Honour|honour]] will
-ever perfectly survive.  It broke George's career across
-the middle; and the second half was a crippled thing.
-Yet even as a cripple he did things that the active and
-ambitious around him did not think of doing.  Mr Shane Leslie,
-among his many admirable phrases, uses one that is especially
-vivid and veracious; George had ‘a fierce streak of humanity'.
-His acts of mercy were abrupt, angry, and even militant.
-They had the flash of finality; they were absolute
-renunciations or abject apologies.  He was devoted to pugilism;
-but when a pugilist was killed in the ring at Brighton
-he took a vow never to see a prize-fight again.
-He had a profoundly Christian hatred of the callous spirit
-in the criminal law, which executes men as if by clockwork,
-and he paved the world with pardons for condemned men.
-He pardoned them not in a patronizing and facile fashion,
-as much meaner enemies have implied, but, on the contrary,
-with vigilance and vivid worry and a sort of insomnia
-of responsibility.  He sat up all night looking for a loophole
-in the law by which he could let some obscure criminal free.
-He took trouble in exactly the type of cases in which most men
-(especially men of his position) would never think of taking it.
-He happened to turn down a street where a man stood in pillory
-for a political offence--having, indeed, been put there by
-the police and the lawyers for a libel upon George himself.
-George was so much distressed at the thought that he might
-conceivably be supposed to have triumphed ungenerously over
-his slanderer that he wrote a personal letter apologizing
-for the ‘indelicacy' of his conduct.  A man moved in such a case
-to such an apology ought not to be called, merely with a sneer,
-the First Gentleman of Europe.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-La verità è che il povero Giorgio è stato vittima di un prolungato sforzo di propaganda. Fu in parte propaganda whig e in parte vittoriana. Ma poiché durò a lungo e arruolò molti letterati di quello che si potrebbe chiamare il patronato whig, è giunta a sembrare a molti della mia generazione e della successiva una normale verità della storia inglese. È del tutto evidente che, molto prima di arrivare alle qualità davvero notevoli dell'uomo, persino le sue qualità ordinarie furono caricaturate nel modo più spregiudicato e scandaloso. Nella debolezza come nella forza egli era assai un uomo — di ciò che chiamiamo un uomo virile. Non solo è stato dipinto come un donnaiolo — cosa che forse era; è stato descritto come un rubacuori quasi nel senso letterale di Barbablù. La verità è che la condotta di Giorgio, per quanto sbagliata secondo un metro cristiano, era assai lontana dall'essere eccezionalmente sbagliata secondo l'ordinario metro pagano di centinaia di siffatti uomini di mondo. Ben pochi di quegli uomini hanno rischiato quanto lui per l'unico amore eroico della loro vita; e, se avesse rischiato di più, sarebbe ben potuto essere chiamato un eroe. Ma non fu un eroe; fu un essere assai umano; un uomo, ma non un mostro. Eppure è certamente come un mostro, gonfio, tumido e abominevole, che egli infestò persino le nostre stanze dei bambini come un incubo.
-
-Una coincidenza di due cause, credo, produsse questa lurida trasformazione e tradizione. La prima era aristocratica e la seconda democratica; e insieme rivolsero tanto il whig quanto il radicale contro la memoria del Re. La prima era che egli era stato, in ogni senso, e in un certo senso rimase, un radicale egli stesso. Quantomeno fu un tempo un Liberale persino con la «L» maiuscola, e fu sempre un liberale con quella minuscola. Ma aveva cambiato bandiera nel senso ordinario di partito, e si era unito all'ordinario tergiversare e all'incoerenza del sistema dei partiti. I whig lo odiavano per essere stato un whig più che per essere un tory. Ma gli aristocratici che lo avevano conosciuto sapevano che era intelligente, sapevano che aveva compreso ciò che faceva e ciò che disfaceva. La sua stessa intelligenza gli valse un'accusa di tradimento intellettuale. Ecco che sorta di [[Monster|mostro]] egli era — un monarca costituzionale che non poteva agire da sé, e tuttavia poteva pensare da sé.
-
-La seconda causa che coincide con questa era la genuina leggenda popolare del pathos e dell'[[innocence|innocenza]] della [[Queen|Regina]] Carolina. Ora, su quel punto il [[King|Re]] può aver avuto torto, ma di certo non ebbe torto in modo disumano o inconcepibile; e il torto di certo non fu tutto da una parte sola. Giorgio ebbe davvero torto non nel divorziare da Carolina, ma nello sposare Carolina. Divorziando da lei, in effetti, egli semplicemente cessava di essere un bigamo. Poiché era già sposato con una donna assai migliore. Ma la folla possiede una misteriosa specie di potere di colpire il chiodo giusto con il martello sbagliato. Giorgio fu, assai a proposito, bersagliato per essere stato infedele a sua moglie; solo che in realtà era stato infedele a tutt'altra moglie. Comunque sia, la sua popolarità presso i posteri fu uccisa da quelle due forze congiunte. Fu uccisa dall'orrore del popolino che non sapeva nulla di lui, e dalla [[Jealousy|gelosia]] della nobiltà che sapeva troppo di lui. Ma è giunto il [[Time|tempo]] in cui si può formulare una stima più razionale e affidabile di quanto fosse possibile alla tradizione whig che Thackeray ereditò da Macaulay; e con ammirevole arguzia, simpatia e compatta critica, il signor Shane Leslie l'ha formulata.
-
-In [[Truth|verità]], c'è moltissimo da lodare in Giorgio IV. In ogni caso, c'era moltissimo da lodare nel Principe Reggente. Non era interamente colpa sua se c'era meno da lodare nel [[King|Re]] di quanto ve ne fosse stato nel Principe. Se mai la vita di un uomo fu spezzata e brutalmente amministrata male da altri, fu la sua. Suo padre era uno [[Fool|sciocco]] che ripetutamente alleviava la monotonia di quel fatto diventando un pazzo. Semmai, era più tranquillo e meno molesto da pazzo di quanto lo fosse da [[Fool|sciocco]]. Tormentava e opprimeva i suoi figli, e li sospingeva per vie oscure e tortuose. Eppure anche qui v'è un buon esempio del modo in cui il mondo è ingiusto verso il Principe Reggente. Si è ripetuto spesso che egli volesse che il suo [[Child|figlio]] fosse educato a essere sincero, e ammise di essere caduto in abitudini rilassate in tali faccende, per via della falsa posizione in cui la vecchia tirannia familiare lo aveva costretto in gioventù. Ciò viene usato come prova contro di lui — che egli stesso avesse confessato di essere un bugiardo. Ma nessun vero bugiardo confessa mai di essere un bugiardo. La confessione non è una prova di quanto fosse falso, ma di quanto fosse candido.
-
-Gli fu proibito da bigotti e tiranni di chiamare sua moglie sua moglie, e quella è una situazione a cui il senso dell'[[Honour|onore]] di nessun uomo sopravviverà mai perfettamente. Spezzò a metà la carriera di Giorgio; e la seconda metà fu una cosa storpia. Eppure, persino da storpio, egli fece cose che gli attivi e gli ambiziosi attorno a lui non pensavano di fare. Il signor Shane Leslie, tra le sue molte ammirevoli frasi, ne usa una particolarmente viva e veridica; Giorgio aveva «una fiera vena di umanità». I suoi atti di misericordia erano bruschi, adirati e persino combattivi. Avevano il lampo della finalità; erano assolute rinunce o abiette scuse. Era devoto al pugilato; ma quando un pugile fu ucciso sul ring a Brighton fece voto di non assistere mai più a un incontro di boxe. Aveva un odio profondamente cristiano per lo spirito insensibile della legge penale, che giustizia gli uomini come se fosse un meccanismo a orologeria, e lastricò il mondo di grazie per i condannati. Li graziava non in maniera paternalistica e sbrigativa, come nemici assai più meschini hanno insinuato, ma, al contrario, con vigilanza e viva inquietudine e una sorta di insonnia della responsabilità. Restava sveglio tutta la notte in cerca di una scappatoia nella legge per cui potesse lasciar libero qualche oscuro criminale. Si dava pena esattamente nel tipo di casi in cui la maggior parte degli uomini (specie gli uomini della sua posizione) non penserebbe mai a darsene. Gli capitò di svoltare in una via dove un uomo era esposto alla gogna per un reato politico — essendovi stato messo, in verità, dalla polizia e dai legali per una calunnia contro Giorgio stesso. Giorgio fu tanto angosciato al pensiero che si potesse concepibilmente supporre che egli avesse trionfato senza generosità sul suo calunniatore, che gli scrisse una lettera personale scusandosi per l'«indelicatezza» della propria condotta. Un uomo spinto, in un caso simile, a scuse simili non dovrebbe essere chiamato, con un semplice sogghigno, il Primo Gentiluomo d'Europa.
-
-
-
-<span class="atom-split" data-atom="story_10_the_national_anthem--part_03" data-title="The Glass Walking Stick — The National Anthem (part 3)" data-chapter="The National Anthem" data-kind="excerpt"></span>
-
-
-George's liberality was anything but a mere party pose and the making
-of a cabal against his father.  He was liberal about the very things
-on which most party Whigs were not liberal at all--for instance,
-he sympathized with the point of view of the Irish.  If he could
-have come to the throne with his real wife as a [[Queen]], it is possible
-that the whole [[Tragedy|tragedy]] of a hundred years might have been averted.
-There are a great many good things that might have happened if the younger
-and more generous George could have become a normal and national [[King]].
-There is nothing that can be done now except do reasonable justice
-to his [[Memory|memory]]; and it was long before anybody thought of doing it.
-But nobody who reads Mr Shane Leslie's lively and pointed paragraphs
-has any excuse for thinking that Thackeray exhausted the subject or
-that there is no picture of George except in the cartoons of Gilray.
-He will know [[Well|well]] enough that the man who kept a complete set of
-Jane Austen in each of his houses, that he might read at any moment,
-was not a coarse and comic drunkard understanding nothing but bruisers
-and cock-fighting. He will know that the man who endangered his
-[[Crown|crown]] out of chivalrous devotion to a devout and religious woman
-was not an utterly selfish satyr whose very appetite was cold.
-He will know that the friend of Fox and Sheridan cannot possibly
-have been a mere dummy dressed up as a dandy; and that the man whom
-Canning and Castlereagh often thought too clever for them can hardly
-have been entirely a [[Fool|fool]].
-
-79
-
-[[King|KING]] EDWARD VII
-
-I
-
-ON the very [[Night|night]] that [[King]] Edward died, it happened that
-the present writer experienced some of those trivialities that
-can bring about one's head all the terrors of the universe.
-The shocking news was just loose in [[London]], but it had not
-touched the country where I was, when a [[London]] editor attempted
-to tell mc the [[Truth|truth]] by telephone.  But all the telephones
-in England were throbbing and thundering with the news;
-it was impossible to clear the line; and it was impossible
-to hear the message.  Again and again I heard stifled accents
-saying something momentous and unintelligible; it might have
-been the landing of the Germans or the end of the world.
-With the snatches of this strangled voice in my ears I went
-into the [[Garden|garden]] and found, by another such mystical coincidence,
-that it was a [[Night|night]] of startling and blazing [[Stars|stars]]--[[Stars|stars]] so
-fierce and close that they seemed crowding round the roof and
-tree-tops. White-hot and speechless they seemed striving to speak,
-like that voice that had been drowned amid the drumming wires.
-I know not if any reader has ever had a vigil with the same
-unreasoning sense of a frustrated [[Apocalypse|apocalypse]].  But if he has,
-he will know one of the immortal moods out of which legends
-rise and he will not [[Wonder|wonder]] that men have joined the notion
-of a comet with the [[Death|death]] of a [[King]].
-
-But besides this historic stroke, this fall of a national monument,
-there is also the loss of a personality.  Over and above
-the dark and half-superstitious suggestion that the fate of our
-country has turned a corner and entered a new epoch, there is
-the pathetic value of the human epoch that has just closed.
-The starting-point for all study of [[King]] Edward is the fact
-of his unquestionable and positive popularity.  I say positive,
-because most popularity is negative; it is no more than toleration.
-Many an English landlord is described as popular among
-his tenants, when the phrase only means that no tenant hates
-him quite enough to be hanged for putting a bullet in him.
-Or, again, in milder cases, a man will be called a popular
-administrator because his rule, being substantially successful,
-is substantially undisturbed; some system works fairly [[Well|well]]
-and the head of the system is not hated, for he is hardly felt.
-Quite different was the practical popularity of Edward VII.
-It was a strictly personal image and enthusiasm.  The French,
-with their talent for picking the right word, put it best
-when they described [[King]] Edward as a kind of universal uncle.
-His popularity in poor families was so frank as to be undignified;
-he was really spoken of by tinkers and tailors as if he were
-some gay and prosperous member of their own family.
-There was a picture of him upon the popular retina infinitely
-brighter and brisker than there is of any politician.
-There was something in him that appealed to those strange
-and silent crowds that are invisible because they are enormous.
-In connexion with him the few voices that really sound popular,
-sound also singularly loyal.  Since his [[Death|death]] was declared
-there have already been many written and spoken eulogies.
-
-If you dig deep enough into any ancient ceremony, you will find
-the traces of that noble truism called [[democracy]], which is not the latest
-but the earliest of human ideas.  Just as in the very oldest part
-of an English church you will unearth the level bricks of the Romans,
-so in the very oldest part of every royal or feudal form you will
-unearth the level laws of the Republic.  In that complex and loaded
-rite of Coronation, which [[King]] Edward underwent, there is distinct
-trace of the ancient idea of a [[King]] being elected like a President.
-The Archbishop shows the [[King]] to the assembled people and asks
-if he is accepted or refused.  Edward VII, like other modern Kings,
-went through a ritual election by an unreal mob.  But if it had been
-a real election by a real mob--he would still have been elected.
-That is the really important point for democrats.
-
-The largeness of the praise of [[King]] Edward in the popular legend
-was fundamentally due to this, that he was a leader in whom
-other men could see themselves.  The [[King]]'s interest in sport,
-good living, and Continental travel was exactly of the kind
-that every clerk or commercial traveller could feel in himself on
-a smaller scale and in a more thwarted manner.  Now, it emphatically
-will not do to dismiss this popular sympathy in pleasure
-as the mere servile or vulgar adoration of a race of snobs.
-To begin with, mere worldly rank could not and did not achieve
-such popularity for Ernest Duke of Cumberland or Alfred Duke
-of Edinburgh or even for the Prince Consort; and to go on with mere
-angry words like snobbishness is an evasion of the democratic test.
-I fancy the key to the question is this; that, in an age of prigs
-and dehumanized humanitarians, [[King]] Edward stood to the whole people
-as the emblem of this ultimate idea--that however extraordinary
-a man may be by office, influence, or talent, we have a right
-to ask that the extraordinary man should be also an ordinary man.
-He was more representative than representative [[government]];
-he was the whole theme of Walt Whitman--the average man enthroned.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-La liberalità di Giorgio era tutt'altro che una semplice posa di partito e la macchinazione di una cabala contro il padre. Egli era liberale proprio riguardo a quelle cose sulle quali la maggior parte dei Whig di partito non era affatto liberale — per esempio, simpatizzava col punto di vista degli irlandesi. Se avesse potuto salire al trono con la sua vera moglie come [[Queen|Regina]], è possibile che l'intera [[Tragedy|tragedia]] di un secolo sarebbe stata evitata. Vi sono moltissime cose buone che avrebbero potuto accadere, se il più giovane e più generoso Giorgio avesse potuto diventare un [[King|Re]] normale e nazionale. Nulla si può fare ora se non rendere ragionevole giustizia alla sua [[Memory|memoria]]; e passò molto tempo prima che qualcuno pensasse a farlo. Ma nessuno che legga i vivaci e taglienti paragrafi del signor Shane Leslie ha alcuna scusa per credere che Thackeray abbia esaurito l'argomento, o che non esista alcun ritratto di Giorgio se non nelle vignette di Gilray. Saprà [[Well|bene]] abbastanza che l'uomo il quale teneva una raccolta completa di Jane Austen in ciascuna delle sue case, per poter leggere in qualunque momento, non era un ubriacone rozzo e comico che non capiva nulla se non di pugili e combattimenti di galli. Saprà che l'uomo il quale mise a repentaglio la sua [[Crown|corona]] per cavalleresca devozione verso una donna devota e religiosa non era un satiro del tutto egoista il cui stesso appetito era freddo. Saprà che l'amico di Fox e di Sheridan non può in alcun modo essere stato un semplice fantoccio agghindato da dandy; e che l'uomo il quale Canning e Castlereagh spesso ritennero troppo abile per loro difficilmente può essere stato interamente uno [[Fool|sciocco]].
-
-79
-
-[[King|RE]] EDOARDO VII
-
-I
-
-La [[Night|notte]] stessa in cui [[King|Re]] Edoardo morì, accadde che chi scrive sperimentasse alcune di quelle banalità che possono radunare attorno al proprio capo tutti i terrori dell'universo. La sconvolgente notizia si era appena diffusa a [[London|Londra]], ma non aveva ancora toccato la campagna dove mi trovavo, quando un redattore di [[London|Londra]] tentò di comunicarmi la [[Truth|verità]] per telefono. Ma tutti i telefoni d'Inghilterra pulsavano e tuonavano della notizia; era impossibile liberare la linea; ed era impossibile udire il messaggio. Ancora e ancora udii accenti soffocati dire qualcosa di grave e di inintelligibile; poteva essere lo sbarco dei tedeschi o la fine del mondo. Con i frammenti di quella voce strozzata negli orecchi uscii nel [[Garden|giardino]] e trovai, per un'altra simile mistica coincidenza, che era una [[Night|notte]] di [[Stars|stelle]] sorprendenti e fiammeggianti — [[Stars|stelle]] così fiere e vicine da sembrare accalcarsi attorno al tetto e alle cime degli alberi. Bianche di calore e mute, sembravano sforzarsi di parlare, come quella voce che era stata sommersa tra i fili tamburellanti. Non so se qualche lettore abbia mai vegliato con lo stesso irragionevole senso di un'[[Apocalypse|apocalisse]] frustrata. Ma se lo ha fatto, conoscerà uno di quegli stati d'animo immortali dai quali sorgono le leggende, e non si [[Wonder|stupirà]] che gli uomini abbiano unito l'idea di una cometa alla [[Death|morte]] di un [[King|Re]].
-
-Ma oltre a questo colpo storico, a questa caduta di un monumento nazionale, vi è anche la perdita di una personalità. Al di sopra e al di là della suggestione oscura e semi-superstiziosa che la sorte del nostro paese abbia svoltato un angolo ed sia entrata in una nuova epoca, vi è il patetico valore dell'epoca umana che si è appena chiusa. Il punto di partenza per ogni studio di [[King|Re]] Edoardo è il fatto della sua indiscutibile e positiva popolarità. Dico positiva, perché la maggior parte della popolarità è negativa; non è più che tolleranza. Molti proprietari terrieri inglesi vengono descritti come popolari tra i loro affittuari, quando la frase significa soltanto che nessun affittuario li odia tanto da farsi impiccare per avergli messo una pallottola addosso. Oppure, in casi più miti, un uomo verrà detto amministratore popolare perché il suo governo, essendo sostanzialmente riuscito, è sostanzialmente indisturbato; qualche sistema funziona abbastanza [[Well|bene]] e il capo del sistema non è odiato, poiché è appena avvertito. Ben diversa era la popolarità pratica di Edoardo VII. Era un'immagine e un entusiasmo strettamente personali. I francesi, col loro talento nello scegliere la parola giusta, lo espressero meglio quando descrissero [[King|Re]] Edoardo come una specie di zio universale. La sua popolarità nelle famiglie povere era così schietta da risultare indecorosa; si parlava davvero di lui, tra stagnini e sarti, come se fosse un allegro e prospero membro della loro stessa famiglia. Vi era sulla retina popolare un'immagine di lui infinitamente più luminosa e vivace di quella di qualsiasi uomo politico. Vi era in lui qualcosa che si rivolgeva a quelle strane e silenziose folle che sono invisibili perché sono enormi. In rapporto a lui le poche voci che suonano davvero popolari suonano anche singolarmente leali. Da quando la sua [[Death|morte]] fu dichiarata, vi sono già stati molti elogi scritti e pronunciati.
-
-Se si scava abbastanza a fondo in qualsiasi antica cerimonia, si troveranno le tracce di quel nobile truismo chiamato [[democracy|democrazia]], che non è la più recente ma la più antica delle idee umane. Proprio come nella parte più antica di una chiesa inglese si dissotterrano i mattoni ben livellati dei romani, così nella parte più antica di ogni forma regale o feudale si dissotterrano le leggi livellatrici della Repubblica. In quel complesso e carico rito dell'Incoronazione, che [[King|Re]] Edoardo affrontò, vi è una traccia distinta dell'antica idea di un [[King|Re]] eletto come un Presidente. L'Arcivescovo mostra il [[King|Re]] al popolo radunato e chiede se sia accettato o respinto. Edoardo VII, come gli altri Re moderni, passò attraverso un'elezione rituale da parte di una folla irreale. Ma se fosse stata un'elezione reale da parte di una folla reale — sarebbe stato eletto lo stesso. Questo è il punto davvero importante per i democratici.
-
-L'ampiezza della lode di [[King|Re]] Edoardo nella leggenda popolare era fondamentalmente dovuta a questo, che egli era un capo nel quale gli altri uomini potevano vedere se stessi. L'interesse del [[King|Re]] per lo sport, per il buon vivere e per i viaggi sul Continente era esattamente di quel genere che ogni impiegato o commesso viaggiatore poteva sentire in sé su scala minore e in modo più frustrato. Ora, non va assolutamente liquidata questa popolare simpatia per il piacere come la mera adorazione servile o volgare di una razza di snob. Anzitutto, il mero rango mondano non poté e non ottenne tale popolarità per Ernesto Duca di Cumberland o Alfredo Duca di Edimburgo, né persino per il Principe Consorte; e proseguire con mere parole rabbiose come snobismo è un'elusione della prova democratica. Immagino che la chiave della questione sia questa: che, in un'epoca di saccenti e di umanitari disumanizzati, [[King|Re]] Edoardo stava dinanzi all'intero popolo come l'emblema di questa idea ultima — che per quanto un uomo possa essere straordinario per carica, influenza o talento, abbiamo il diritto di chiedere che l'uomo straordinario sia anche un uomo comune. Egli era più rappresentativo del [[government|governo]] rappresentativo; era l'intero tema di Walt Whitman — l'uomo medio assiso in trono.
-
-
-
-<span class="atom-split" data-atom="story_10_the_national_anthem--part_04" data-title="The Glass Walking Stick — The National Anthem (part 4)" data-chapter="The National Anthem" data-kind="excerpt"></span>
-
-
-His reputation for a humane normality had one aspect in which he was
-a model to philanthropists.  Innumerable tales were told of his
-kindness or courtesy, ranging from the endowment of a children's
-hospital to the offer of a cigar, from the fact that he pensioned
-a match-seller to the mere fact that he took off his hat.
-But all these tales took the popular fancy all the more
-because he himself was the kind of man to share the pleasures
-he distributed.  His offer of a cigar was the more appreciated
-because he offered himself a cigar as [[Well|well]].  His taking off
-his hat was the more valued because he himself was by no means
-indifferent to decent salutations or discourteous slights.
-Philanthropists too frequently forget that pity is quite
-a different thing from sympathy; for sympathy means [[Suffering|suffering]]
-with others and not merely being sorry that they suffer.
-If the strong brotherhood of men is to abide, if they are not
-to break up into groups alarmingly like different species,
-we must keep this community of tastes in giver and received.
-We must not only share our bread, but share our hunger.
-
-[[King]] Edward was a man of the world and a diplomatist; but there
-was nothing of the [[aristocrat]] about him.  He had a just sense
-of the dignity of his position; but it was very much such
-a sense as a middle-class elective magistrate might have had,
-a [[Lord Mayor]] or the President of a Republic.  It was even in a
-sense formal, and the essence of aristocracy is informality.
-It is no violation of the political impartiality of the [[Crown]]
-to say that he was, in training and tone of mind, liberal.
-The one or two points on which he permitted himself a partisan
-attitude were things that he regarded as common-sense emancipations
-from mere custom, such as the Deceased Wife's Sister Bill.
-Both in strength and weakness he was inter national;
-and it is undoubtedly largely due to him that we have
-generally dropped the fashion of systematically and doggedly
-misunderstanding the great civilization of France.
-But the first and last thought is the same:  that there are
-millions in England who have hardly heard of the Prime Minister
-to whom [[King]] Edward was a picture of paternal patriotism;
-and in the dark days that lie before us it is, perhaps, just those
-millions who may begin to
-
-II
-
-The calamity of the [[King]]'s [[Death|death]] was unofficially
-acknowledged almost before it was officially acknowledged.
-The people were prompter in mourning than the officers of state
-in bidding them mourn.  The national mourning--taken as a whole,
-of course--is all the more universal for being irregular,
-all the more unanimous for being scrappy or even intermittent.
-Armies of retainers clad in complete black, endless processions
-of solemn robes and sable plumes, could not be a quarter
-so impressive as the cheap black band of a man in corduroys
-or the cheap black hat of a girl in pink and magenta.
-The part is greater than the whole.  Nevertheless, the formal
-side of funeral customs, as is right and natural, is already
-engaging attention.  Sir William Richmond, always prominent
-in any question of the relation of art to public life,
-has already sketched out a scheme of mortuary decoration
-so conceived as to avoid the inhuman monotony of black.
-He would have a sombre, but still rich, scheme of colour,
-of Tyrian purple, dim bronze, and gold.  Both artistically
-and symbolically, there is much that is sound in the conception.
-Indeed, Sir William Richmond, consciously or unconsciously,
-is in this matter following an ecclesiastical tradition.
-The world mourns in black, but the Church mourns in violet--
-one of the many instances of the fact that the Church is a much
-more cheerful thing than the world.  Nor is the difference
-an idle accident; it really corresponds by chasms of
-spiritual separation.  Black is dark with absence of colour;
-violet is dark with density and combination of colour;
-it is at once as blue as mid [[Night|night]] and as crimson as [[Blood|blood]].
-And there is a similar distinction between the two ideas of [[Death|death]],
-between the two types of [[Tragedy|tragedy]].  There is the [[Tragedy|tragedy]]
-that is founded on the worthlessness of life; and there
-is the deeper [[Tragedy|tragedy]] that is founded on the worth of it.
-The one sort of sadness says that life is so short that it
-can hardly matter; the other that life is so short that it
-matters for ever.
-
-But though in this, as in many other matters, it is religion [[Alone|alone]] that
-retains any tradition of a freer and more humane popular taste, it may
-[[Well|well]] be doubted whether in the present instance the existing popular
-taste should not be substantially gratified, or, at least, undisturbed.
-[[King]] Edward was not the kind of man in whose [[Honour|honour]] we should
-do even beautiful things that are in any sense eccentric.
-His sympathies in all such matters were very general sympathies;
-he stood to millions of people as the very incarnation of common-sense,
-social adaptability, tact, and a rational conventionality.
-His people delighted in the million snapshots of him in shooting-dress
-at a shooting-box, or in racing clothes at a race-meeting,
-in morning-dress in the morning or in evening-dress in the evening,
-because all these were symbols of a certain sensible sociability
-and readiness for everything with which they loved to credit him.
-For it must always be remembered in this connexion that masculine
-costume is different at root from feminine costume--different in its
-whole essence and aim.  It is not merely a question of the man dressing
-in dull colours or the woman in bright; it is a question of the object.
-A Life Guardsman has very splendid clothes; an artistic lady may
-have very dingy clothes.  But the point is that the Life Guard
-only puts on his bright clothes so as to be like other Life Guards.
-But the artistic lady always seeks to have some special, delicate,
-and exquisite shade of dinginess different from the dinginess
-of other artistic ladies.  Though gleaming with scarlet and steel,
-the Life Guard is really invisible.  Though physically, no [[Doubt|doubt]],
-of terrific [[Courage|courage]], he is morally cowardly, like nearly all males.
-Like the [[Insects|insects]] that are as green as the [[Leaves|leaves]] or the jackals that
-are as red as the [[Desert|desert]], a man generally seeks to be unseen by taking
-the colour of his surroundings, even if it be a brilliant colour.
-A female dress is a dress; a male dress is a uniform.  Men dress
-smartly so as not to be noticed; but all women dress to be noticed--
-gross and vulgar women to be grossly and vulgarly noticed,
-wise and modest women to be wisely and modestly noticed.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-La sua fama di normalità umana ebbe un aspetto nel quale egli fu un modello per i filantropi. Innumerevoli aneddoti si raccontavano della sua gentilezza o cortesia, spaziando dalla fondazione di un ospedale per bambini all'offerta di un sigaro, dal fatto che concesse una pensione a una venditrice di fiammiferi al semplice fatto che si toglieva il cappello. Ma tutti questi racconti colpivano tanto più la fantasia popolare perché egli stesso era il tipo d'uomo capace di condividere i piaceri che distribuiva. La sua offerta di un sigaro era tanto più apprezzata perché offriva un sigaro [[Well|anche]] a se stesso. Il suo togliersi il cappello era tanto più stimato perché egli stesso non era affatto indifferente ai saluti dovuti o agli affronti scortesi. I filantropi troppo spesso dimenticano che la pietà è cosa assai diversa dalla simpatia; poiché simpatia significa [[Suffering|soffrire]] con gli altri e non semplicemente rammaricarsi che essi soffrano. Se la salda fratellanza degli uomini deve durare, se essi non devono disgregarsi in gruppi allarmantemente simili a specie diverse, dobbiamo conservare questa comunanza di gusti in chi dà e in chi riceve. Non dobbiamo soltanto condividere il nostro pane, ma condividere la nostra fame.
-
-[[King|Re]] Edoardo era un uomo di mondo e un diplomatico; ma non vi era nulla dell'[[aristocrat|aristocratico]] in lui. Aveva un giusto senso della dignità della sua posizione; ma era pressappoco quel senso che avrebbe potuto avere un magistrato elettivo della classe media, un [[Lord Mayor|Lord Sindaco]] o il Presidente di una Repubblica. Era persino, in un certo senso, formale, e l'essenza dell'aristocrazia è l'informalità. Non è alcuna violazione dell'imparzialità politica della [[Crown|Corona]] dire che egli era, per educazione e disposizione mentale, liberale. Gli uno o due punti sui quali si permetteva un atteggiamento di parte erano cose che considerava affrancamenti di buon senso dalla mera consuetudine, come la legge sul matrimonio con la sorella della moglie defunta. Sia nella forza sia nella debolezza egli era internazionale; ed è indubbiamente in gran parte per merito suo se abbiamo generalmente abbandonato la moda di fraintendere sistematicamente e ostinatamente la grande civiltà della Francia. Ma il primo e l'ultimo pensiero sono i medesimi: che vi sono milioni di persone in Inghilterra che a malapena hanno sentito nominare il Primo Ministro, per le quali [[King|Re]] Edoardo era un'immagine di patriottismo paterno; e nei giorni oscuri che ci attendono sono forse proprio quei milioni che potrebbero cominciare a
-
-II
-
-La sciagura della [[Death|morte]] del [[King|Re]] fu riconosciuta ufficiosamente quasi prima di essere riconosciuta ufficialmente. Il popolo fu più pronto nel lutto di quanto gli ufficiali di Stato lo fossero nell'invitarlo al lutto. Il lutto nazionale — preso nel suo insieme, s'intende — è tanto più universale per essere irregolare, tanto più unanime per essere frammentario o persino intermittente. Eserciti di servitori vestiti di nero completo, interminabili processioni di solenni paludamenti e di piume corvine, non potrebbero essere un quarto tanto impressionanti quanto l'economica fascia nera di un uomo in velluto a coste o l'economico cappello nero di una ragazza in rosa e magenta. La parte è più grande del tutto. Nondimeno, il lato formale delle usanze funebri, com'è giusto e naturale, sta già attirando l'attenzione. Sir William Richmond, sempre in prima fila in ogni questione del rapporto tra l'arte e la vita pubblica, ha già abbozzato uno schema di decorazione funeraria concepito in modo da evitare la disumana monotonia del nero. Egli vorrebbe uno schema di colore cupo, ma pur ricco, di porpora tiria, bronzo smorto e oro. Sia dal punto di vista artistico sia da quello simbolico, vi è molto di valido in questa concezione. Anzi, Sir William Richmond, consapevolmente o inconsapevolmente, segue in questa materia una tradizione ecclesiastica. Il mondo porta il lutto in nero, ma la Chiesa lo porta in violetto — uno dei tanti esempi del fatto che la Chiesa è cosa assai più lieta del mondo. Né la differenza è un ozioso accidente; essa corrisponde realmente ad abissi di separazione spirituale. Il nero è scuro per assenza di colore; il violetto è scuro per densità e combinazione di colore; è al tempo stesso azzurro come la mezza[[Night|notte]] e cremisi come il [[Blood|sangue]]. E vi è una simile distinzione tra le due idee di [[Death|morte]], tra i due tipi di [[Tragedy|tragedia]]. Vi è la [[Tragedy|tragedia]] fondata sull'inutilità della vita; e vi è la più profonda [[Tragedy|tragedia]] fondata sul suo valore. L'una sorta di tristezza dice che la vita è così breve da non poter quasi contare; l'altra che la vita è così breve da contare per sempre.
-
-Ma sebbene in questo, come in molte altre cose, sia la religione [[Alone|soltanto]] a conservare qualche tradizione di un gusto popolare più libero e più umano, si può [[Well|ben]] dubitare se nel caso presente il gusto popolare esistente non debba essere sostanzialmente assecondato, o almeno lasciato indisturbato. [[King|Re]] Edoardo non era il genere d'uomo in [[Honour|onore]] del quale si debbano fare persino cose belle che siano in qualche senso eccentriche. Le sue simpatie in tutte queste materie erano simpatie assai comuni; egli stava dinanzi a milioni di persone come l'incarnazione stessa del buon senso, dell'adattabilità sociale, del tatto e di una razionale convenzionalità. Il suo popolo si dilettava delle innumerevoli istantanee di lui in abito da caccia in un capanno di caccia, o in abiti da corsa a una riunione ippica, in abito da mattina al mattino o in abito da sera alla sera, perché tutti questi erano simboli di una certa assennata socievolezza e prontezza a ogni cosa che amavano attribuirgli. Poiché va sempre ricordato, a questo proposito, che il costume maschile è alla radice diverso dal costume femminile — diverso in tutta la sua essenza e nel suo fine. Non è semplicemente questione dell'uomo vestito di colori spenti o della donna di colori vivaci; è questione dell'obiettivo. Un soldato delle Life Guards ha abiti splendidissimi; una signora artistica può avere abiti smortissimi. Ma il punto è che il soldato delle Life Guards indossa i suoi abiti sgargianti soltanto per essere simile agli altri soldati delle Life Guards. La signora artistica invece cerca sempre di avere qualche particolare, delicata e squisita sfumatura di smortezza diversa dalla smortezza delle altre signore artistiche. Pur sfolgorante di scarlatto e d'acciaio, il soldato delle Life Guards è in realtà invisibile. Pur essendo fisicamente, senza [[Doubt|dubbio]], di terrificante [[Courage|coraggio]], è moralmente codardo, come quasi tutti i maschi. Come gli [[Insects|insetti]] che sono verdi come le [[Leaves|foglie]], o gli sciacalli che sono rossi come il [[Desert|deserto]], un uomo generalmente cerca di non essere visto assumendo il colore di ciò che lo circonda, anche se si tratta di un colore brillante. Un abito femminile è un abito; un abito maschile è una divisa. Gli uomini si vestono con eleganza per non essere notati; ma tutte le donne si vestono per essere notate — le donne grossolane e volgari per essere notate grossolanamente e volgarmente, le donne sagge e modeste per essere notate saggiamente e modestamente.
-
-
-
-<span class="atom-split" data-atom="story_10_the_national_anthem--part_05" data-title="The Glass Walking Stick — The National Anthem (part 5)" data-chapter="The National Anthem" data-kind="excerpt"></span>
-
-
-Now, of this [[Soul|soul]] in masculine ‘good form', this slight but
-genuine element of a manly modesty in conventions, the public
-made King Edward a typical and appropriate representative.
-They like to think of him appearing as a soldier among soldiers,
-a sailor among sailors, a Freemason at his Lodge, or a Peer
-among his Peers.  For this reason they even tolerated the comic
-idea of his being a Prussian Colonel when he was in Prussia;
-and they took a positive pleasure in the idea of his being
-a Parisian boulevardier when he was in Paris.  Since he was
-thus a public symbol of the more generous and fraternal uses
-of conventionality, we may be well content with a conventional
-scheme of mourning; especially when in this case, as in not a few
-other cases, the conventional merely means the democratic.
-King Edward's popularity was such a very popular kind
-of popularity that it would be rather more appropriate
-to make his funeral vulgar than to make it aesthetic.
-It is true that legend connects his name with two or three attempts
-to modify the ungainliness and gloom of our modern male costume;
-but he hardly insisted on any of them, and none of them
-was of a kind specially to satisfy Sir William Richmond.
-The aesthetes might perhaps smile on the notion of knee breeches;
-but I fear that brass buttons on evening coats would seem
-to them an aggravation of their wrong.  Even where King Edward
-was an innovator, he was an innovator along popular and
-well-recognized lines; a man who would have liked a funeral
-to be funereal, as he would have liked a bail to be gay.
-We need not, therefore, feel it so very inappropriate even
-if in the last resort the celebrations are in the most humdrum
-or even jog-trot style, if they satisfy the heart of the public,
-though not the eye of the artist.
-
-And yet again, in connexion with those aspects of the late King
-which may be and are approved on more serious and statesmanlike grounds
-(as, for instance, his international attitude towards peace),
-this value of a working convention can still be found.  It is easy
-to say airily, in an ethical textbook or a debating club resolution,
-that Spaniards should love Chinamen, or that Highlanders should suddenly
-embrace Hindus.  But, as men are in daily life, such brotherhood
-is corrupted and confused, though never actually contradicted.
-It is the fundamental fact that we are all men; but there
-are circumstances that permit us to feel it keenly and other
-circumstances that almost prevent us from feeling it at all.
-It is here that convention (which only means a coming together)
-makes smooth the path of primal sympathy, and by getting people,
-if only for an hour, to act alike, begins to make them feel alike.
-I have said much against aristocracy and 3iiall continue to do so,
-but I will never deny that aristocracy has certain queer advantages,
-not very often mentioned.  One of them is that which affects
-European diplomacy:  that a gentleman is the same all over Europe,
-while a peasant or even a merchant, may be very different.
-A Dutch gentleman and an Irish gentleman stand on a special
-and level platform; a Dutch peasant and an Irish peasant are
-divided by all dynastic and divine wars.  Of course, this means
-that a peasant is superior to a gentle man--more genuine,
-more historic, more national; but that, surely, is obvious.
-Nevertheless, for cosmopolitan purposes, such as diplomacy,
-a gentleman may be used--with caution.  And the reason that has
-made aristocrats effective as diplomatists is the same that made
-King Edward effective; the existence of a convention or convenient
-form that is understood everywhere and makes action and utterance
-easy for everyone.  Language itself is only an enormous ceremony.
-King Edward completely understood that nameless Volapuk or Esperanto
-on which modern Europe practically reposes.  He never put himself
-in a position that Europe could possibly misunderstand, as the Kaiser
-did by his theocratic outbursts, even if they were logical;
-or the Tsar by his sweeping repressions, even if they were provoked.
-Partly a German, by blood, partly a Frenchman, by preference,
-inter-married with all the thrones of Europe and quite conscious
-of their very various perplexities, he had the right to be called
-a great citizen of Europe.  There are only two things that can bind
-men together; a convention and a creed.  King Edward was the last,
-the most popular, and probably the most triumphant example of Europe
-combining with success upon a large and genial convention.
-Tact and habit and humanity had in him their final exponent in all
-the Courts, reviews, race-courses, and hotels of Christendom.
-If these are not enough, if it is not found sufficient for Europe
-to have a healthy convention, then Europe must once more have a creed.
-The coming of the creed will be a terrible business.
-
-
-
-
-<span class="atom-split" data-atom="story_17_the_age_of_reason--part_01" data-title="The Glass Walking Stick — The Age Of Reason (part 1)" data-chapter="The Age Of Reason" data-kind="excerpt"></span>
-
-
-THE AGE OF REASON
-
-I
-
-THE eighteenth century is an excellent illustration of a false
-historical fashion.  It is the fashion of abusing a thing, first for one
-obvious reason, then for another quite opposite reason; and then leaving
-it alone with all its incompatible vices unreconciled and unexplained.
-Any one can describe that age as the age of powder and patches
-and high-heeled shoes and elaborate bows and mincing compliments.
-Anybody can describe it as the age of bludgeons and bloody noses
-and black patches over the eye, as in the pictures of Hogarth;
-of dirt and drunkenness and brutal sports.  As details,
-they are both true; as generalizations, they cannot be both true.
-As philosophical explanations, they cannot come within a thousand
-miles of being true.  As explanations, they can not explain anything;
-for they cannot explain each other.
-
-We may call eighteenth-century people's dressing and barbering and
-behaviour artificial, but that gets us no nearer to explaining why we have
-to complain of them the next moment for being a great deal too natural.
-For they were virile to the point of violence and anarchy.
-If it was the age of wigs, it was also the age of wigs on the green.
-It was not only concerned with the nice conduct of a clouded cane,
-but often with the nasty conduct of a loaded cudgel.  If we only
-want to make a case against the eighteenth century, we can throw
-all these ill-matched things at it and leave them there in a heap.
-But that does not explain anything; not even our own antagonism
-or our own action.
-
-I have had to deal with a similar fallacy in relation to
-religious history.  I have pointed out that the people who only
-wanted to make a case against Christianity or the Middle Ages,
-or what not, were content simply to say that monks were too meek
-and Crusaders too fierce, and feudalism too crude and heraldry
-too complicated.  In other words, they blamed the age for being
-as mild as the Confessor and as violent as Coeur de Lion,
-but they gave no reason for the same thing being two opposite
-things at once.  Many of them, in criticizing what I said,
-have thought it quite enough to say that the two statements
-were quite true; and this in itself is also quite true.
-But you have not understood the thing until you have understood
-its contradiction; until (especially) you under stand
-even its misunderstanding.
-
-The only way to understand an age, whether it be the Age of Reason
-or the Age of Faith, is to get behind these mere criminal charges,
-which are used to support each other and really destroy each other.
-It is to find some common spirit that can be polished in that particular
-way and coarse in that particular way.  A mystical conviction is the cause
-both of the Franciscan being friendly and the Crusader being hostile.
-A rational conviction is the cause both of Dr Johnson being ceremonious
-and Dr Johnson being rude.  But it is necessary to realize something
-of what that rational conviction really was; and the only spirit
-in which it is worth while to study history is the spirit which can
-feel a certain enthusiasm for the ideal of each time in turn.
-
-The eighteenth century itself is not a century, as centuries go,
-that is specially attractive to me.  There were not enough
-fairy-tales in it for my taste; certainly there were not anything
-like so many people believing in fairies then as there are now.
-It had no great understanding of children.  The men of that
-time had forgotten the Holy Child of medieval times and had
-not yet heard of the Happy Child of modern literature.
-They could not imagine a Peter Pan, for they had lost
-the religious traditions both of Pan and of Peter.
-They had silenced all those subconscious voices which speak
-to simple people of the wonders hidden in this world.
-In short, they were ignorant of all the thousand things
-that only the ignorant ever know.
-
-But though I should not be individually drawn to wards the Age of Reason
-as compared with many ages I think really much more reasonable,
-if I had to deal with that age I should deal with it more reasonably.
-I should not criticize it as its own rationalistic critics do.
-I should not pick out things here and there that happened
-to offend our modern taste, though in totally opposite ways.
-I should not blame Chesterfield for being foppish and Johnson
-for being slovenly; call a minuet stilted and a cockfight vulgar;
-and then heave a sigh and thank God that I live in better days.
-That is the way in which the stupidest sort of tourist criticizes
-a foreign country; he thinks everything is being done badly,
-be cause he has never tried to find out what people are trying to do.
-
-I should begin at the other end and try to find out what the
-eighteenth century was trying to do.  I should ask what spirit
-really prompted their more spirited efforts.  The true historian
-does not want to be told the realities of the eighteenth century;
-that is, that they had stuffier bedrooms or stuffier cravats.
-The true historian wants to be told the ideal of the eighteenth century;
-the things that a man dreamed of in his stuffy bedroom or thought
-about when he had forgotten his stock.  The mere facts about
-their vesture or ventilation are not really facts about them;
-they are rather facts about us.  They are the things that we notice,
-because to us they are new even in being old.  It may throw some
-light on our character or conditions that this or that detail
-stands out in a startling fashion from the other details.
-But it does not throw much light on the minds of our ancestors.
-The really valuable sort of historical imagination is to guess
-the things they were thinking about.
-
-The religion of the eighteenth century was finely expressed
-in the motto of a group of Scottish debating societies
-famous as the Associated Societies of Edinburgh University.
-It was Gloria hominis ratio et oratio:  the glory of man is reason
-and speech.  Their ideal was public spirit in the true sense of
-the publishing of things; the power of declaring aloud in the forum
-the secrets of the palace or the corruptions of the senate.
-There were secrets and corruptions enough, of course, as there are
-in all times; not so many, I think, as there are in our own time.
-But this was the vision, the ambition, the daydream.
-This was what an honest man wanted to be and a dishonest man
-pretended to be.  The ideal type of that time was what Walpole
-called a Boy; what the Boy called a Patriot.  He was to be
-a lucid orator denouncing courtiers and placemen; a tribune.
-He can only be under stood in the light of that great Latin
-literature which these men loved and studied.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'ETÀ DELLA RAGIONE
-
-I
-
-Il Settecento è un'eccellente illustrazione di una falsa moda storica. È la moda di ingiuriare una cosa, prima per una ragione ovvia, poi per un'altra ragione del tutto opposta; e poi lasciarla lì con tutti i suoi vizi incompatibili non conciliati e non spiegati. Chiunque può descrivere quell'età come l'età della cipria e dei nei posticci e delle scarpe coi tacchi alti e dei complimenti affettati e degli inchini elaborati. Chiunque può descriverla come l'età dei randelli e dei nasi insanguinati e delle bende nere sull'occhio, come nei quadri di Hogarth; di sudiciume e ubriachezza e sport brutali. Come dettagli, sono entrambi veri; come generalizzazioni, non possono essere entrambi veri. Come spiegazioni filosofiche, non possono avvicinarsi neppure di mille miglia alla verità. Come spiegazioni, non possono spiegare nulla; poiché non possono spiegarsi a vicenda.
-
-Possiamo chiamare artificiali il vestire, il pettinarsi e il comportarsi della gente del Settecento, ma ciò non ci avvicina di un passo a spiegare perché dobbiamo lamentarci di loro, un attimo dopo, per essere troppo naturali. Poiché erano virili fino alla violenza e all'anarchia. Se fu l'età delle parrucche, fu anche l'età delle parrucche accapigliate sul prato. Non si occupava soltanto della garbata maniera di reggere una canna dal pomo lavorato, ma spesso della sgarbata maniera di menare un bastone piombato. Se vogliamo soltanto istruire un processo contro il Settecento, possiamo scagliargli addosso tutte queste cose mal assortite e lasciarle lì in un mucchio. Ma ciò non spiega nulla; nemmeno il nostro stesso antagonismo o la nostra stessa azione.
-
-Ho dovuto affrontare un'analoga fallacia in rapporto alla storia religiosa. Ho fatto notare che coloro i quali volevano soltanto istruire un processo contro il cristianesimo o il Medioevo, o che so io, si accontentavano di dire semplicemente che i monaci erano troppo mansueti e i crociati troppo feroci, e il feudalesimo troppo rozzo e l'araldica troppo complicata. In altre parole, biasimavano l'età per essere mite come il Confessore e violenta come Cuor di Leone, ma non davano alcuna ragione del fatto che una stessa cosa fosse due cose opposte a un tempo. Molti di loro, criticando ciò che dicevo, hanno ritenuto più che sufficiente affermare che le due asserzioni erano del tutto vere; e anche questo, in sé, è del tutto vero. Ma non si è compresa una cosa finché non se ne è compresa la contraddizione; finché (specialmente) non se ne comprende persino il fraintendimento.
-
-L'unico modo di comprendere un'età, sia essa l'Età della Ragione o l'Età della Fede, è passare dietro queste mere accuse criminali, che si usano per sostenersi a vicenda e in realtà si distruggono a vicenda. È trovare qualche spirito comune che possa essere raffinato in quel particolare modo e rozzo in quel particolare modo. Una convinzione mistica è la causa sia dell'amichevolezza del francescano sia dell'ostilità del crociato. Una convinzione razionale è la causa sia del dottor Johnson cerimonioso sia del dottor Johnson scortese. Ma è necessario rendersi conto di qualcosa di ciò che quella convinzione razionale realmente fu; e l'unico spirito con cui vale la pena studiare la storia è lo spirito che sa provare un certo entusiasmo per l'ideale di ciascun tempo a sua volta.
-
-Il Settecento in sé non è un secolo, tra i secoli, che mi attragga particolarmente. Non c'erano abbastanza fiabe per i miei gusti; di certo non c'era nulla di simile al numero di persone che credono nelle fate allora rispetto a quante ce ne sono oggi. Non aveva grande comprensione dei bambini. Gli uomini di quel tempo avevano dimenticato il Santo Bambino dei tempi medievali e non avevano ancora sentito parlare del Bambino Felice della letteratura moderna. Non potevano immaginare un Peter Pan, poiché avevano perduto le tradizioni religiose sia di Pan sia di Pietro. Avevano ridotto al silenzio tutte quelle voci subconscie che parlano alle persone semplici delle meraviglie nascoste in questo mondo. In breve, ignoravano tutte le mille cose che solo gli ignoranti conoscono.
-
-Ma per quanto io non sia individualmente attratto verso l'Età della Ragione rispetto a molte età che ritengo davvero assai più ragionevoli, se dovessi occuparmi di quell'età me ne occuperei più ragionevolmente. Non la criticherei come fanno i suoi stessi critici razionalisti. Non andrei a scegliere qua e là cose che si dà il caso offendano il nostro gusto moderno, benché in modi del tutto opposti. Non biasimerei Chesterfield per essere zerbinotto e Johnson per essere sciatto; non chiamerei affettato un minuetto e volgare un combattimento di galli; e poi non manderei un sospiro ringraziando Dio di vivere in giorni migliori. È in quel modo che il più stupido genere di turista critica un paese straniero; pensa che tutto sia fatto male, perché non ha mai cercato di scoprire che cosa la gente stia cercando di fare.
-
-Comincerei dall'altro capo e cercherei di scoprire che cosa il Settecento stesse cercando di fare. Mi chiederei quale spirito realmente ispirasse i suoi sforzi più animosi. Il vero storico non vuole che gli si raccontino le realtà del Settecento; ossia, che avessero camere da letto più soffocanti o cravatte più soffocanti. Il vero storico vuole che gli si racconti l'ideale del Settecento; le cose che un uomo sognava nella sua camera da letto soffocante o a cui pensava quando aveva dimenticato la sua cravatta. I meri fatti sulle loro vesti o sulla loro ventilazione non sono in realtà fatti che li riguardano; sono piuttosto fatti che riguardano noi. Sono le cose che notiamo, perché per noi sono nuove persino nell'essere antiche. Può gettare qualche luce sul nostro carattere o sulle nostre condizioni il fatto che questo o quel dettaglio risalti in modo sorprendente rispetto agli altri dettagli. Ma non getta molta luce sulle menti dei nostri antenati. La specie davvero preziosa di immaginazione storica consiste nell'indovinare le cose a cui essi stavano pensando.
-
-La religione del Settecento fu finemente espressa nel motto di un gruppo di società di dibattito scozzesi famose come le Società Associate dell'Università di Edimburgo. Era Gloria hominis ratio et oratio: la gloria dell'uomo è la ragione e la parola. Il loro ideale era lo spirito pubblico nel vero senso della pubblicazione delle cose; il potere di dichiarare ad alta voce nel foro i segreti del palazzo o le corruzioni del senato. C'erano segreti e corruzioni a sufficienza, naturalmente, come ci sono in tutti i tempi; non tanti, credo, quanti ce ne sono nel nostro tempo. Ma questa era la visione, l'ambizione, il sogno a occhi aperti. Questo era ciò che un uomo onesto voleva essere e un uomo disonesto fingeva di essere. Il tipo ideale di quel tempo era ciò che Walpole chiamava un Boy; ciò che il Boy chiamava un Patriota. Doveva essere un lucido oratore che denunciava i cortigiani e i beneficiati; un tribuno. Lo si può comprendere soltanto alla luce di quella grande letteratura latina che questi uomini amavano e studiavano.
-
-
-
-<span class="atom-split" data-atom="story_17_the_age_of_reason--part_02" data-title="The Glass Walking Stick — The Age Of Reason (part 2)" data-chapter="The Age Of Reason" data-kind="excerpt"></span>
-
-
-We sneer at the old gentlemen quoting Horace while hobnobbing
-over their port; as if they only quoted Horace when he was
-hobnobbing over his Falernian.  We forget that quoting Horace
-meant more often quoting great lines about Regulus defying
-torture for the Republic or the poet returning to the temples
-of the gods of Rome.  Judged by its own moral ideal,
-which is the only just judgement, the eighteenth century was
-not so bad as we make out; possibly was not so bad as we are.
-We talk of its political corruption, but we talk of it because
-it was talked about.  It was exposed and even punished.
-Great men like Marlborough, powerful men like Dundas,
-were really forced to resign; often even forced to disgorge.
-They were much less completely protected than corrupt
-politicians in our own time; and it is no very satisfactory
-proof of their artificiality and our realism that they powdered
-heads while we whitewash reputations.
-
-II
-
-It seems to me that it would be an extraordinarily interesting
-study of the mind of the eighteenth century to picture
-what that mind would really expect to see in the twentieth.
-There would be something very subtle in the comedy of a
-gentleman of the eighteenth century dealing with ladies of
-the twentieth century.  It would be curious to note how he would
-be in some ways more coarse and in some ways more polished.
-He would probably be plainer in his speech, but more ceremonious
-in his movements.  He would say things to the lady while bowing
-over her hand which the most sprightly hero of our recent
-fiction would hardly say to her while sitting on her head.
-When Marie Antoinette and her courtiers posed in the manner
-of the shepherds of Watteau, they were already talking about
-the dawn of a more enlightened and liberal age, and may well
-have wondered about the world in the twentieth century.
-When Hogarth was drawing some satiric series like the Stages
-of Cruelty, he may well have wondered whether the world would
-still be as barbarous in the twentieth century, or whether
-by that time reason and philanthropy would have prevailed.
-Naturally it would depend a great deal on the sort of individual
-who was precipitated from their age to ours; there were doubtless
-many commonplace cock-fighting squires who knew as little
-about the future then as our earnest social prophets know now.
-But there were already in the eighteenth century some idealists
-who would have been delighted to see the future triumph of humanity.
-They would also be a good deal disappointed if they saw it.
-
-What is really interesting about the Age of Reason is
-that the political economists and practical reformers would
-every one of them believe what nobody now believes at all.
-They would not only have believed, most probably, that England
-would be more prosperous, more happy, and more equal in
-the twentieth century than in the eighteenth or nineteenth.
-They would also have believed that it would become
-more prosperous, free, and equal through commercial competition,
-through scientific selfishness, through the removal of
-all restrictions on trading, talking, or anything else.
-Nothing would have surprised a man like Bentham or a man
-like Godwin more completely than the discovery that liberty
-or Laissez Faire had not made a huge addition to human
-happiness by the beginning of the twentieth century.
-As a matter of fact, as applied, they have made a huge addition
-to human muddle and misery, and taken us round by a long detour
-(and a very dusty road) back to very much where we were before.
-We have to consider anew the nature of Liberty and its relation
-to Governments.  In that sense we are all of us really back
-in the eighteenth century.
-
-III
-
-Unless I am much mistaken, modern people are going to have
-a reaction against democracy before they have tried it.
-We are always being told that the present system in highly
-organized industrial states is democracy; and that being so,
-it is hardly to be wondered at that democracy has become unpopular.
-But it is not really true that popular government has
-become unpopular.  It is rather that people have ceased
-to think that in either sense our government is popular.
-The truth is that those who developed the democratic doctrine
-in modern times did not intend it for anything at all resembling
-the modern world, perhaps the most ancient of all possible worlds.
-They thought of the agricultural commonwealths of antiquity,
-and went back past even the Roman Empire to find the Roman Republic.
-But Rome was a republic when Rome was a village.
-Those eighteenth-century idealists often actually lived
-in villages; always in countries that were dotted with villages.
-They did not know what sort of a world of steam
-and steel their descendants were going to inherit.
-The French Revolution came before the Industrial Revolution.
-They were perpetually talking about the citizen, but they thought
-of him as a citizen and not merely as something in the city.
-They certainly had no conception of the colossal and complicated
-thing that we now mean by a city.
-
-It is highly characteristic of the tone of the eighteenth
-century that they generally talked of London as ‘the town'.
-They said:  ‘All the town is talking about my Lord Banglebury's
-duel with Mr Pickles.'  In the sound and sense of the word
-there was something compact and comfortable; as of a world
-still small enough to know itself, like a village.
-When these people talked about democracy they did indeed mean
-the government of the people, by the people, for the people.
-But they meant the government of people they knew, by people
-they knew, for people they knew.  They meant the government
-of people who knew each other, by people who knew each other,
-for people who knew each other.  I think it highly doubtful
-whether any of the eighteenth-century democratic theorists,
-whether Payne or Jefferson or Condorcet, would have expected
-a vast and vague society like ours to be a democracy.
-I think they would have thought it, however reluctantly,
-a case for Caesar and the panem et circenses.  But it is not,
-of course, merely the material side of society that has
-upset such calculations.  It is much more the moral factor;
-which is also, in every sense, alas! a very material factor.
-It is what the scientific, or those who think themselves scientific,
-always call the economic factor.  It can be expressed better
-in one word; and that word is not democracy but plutocracy.
-
-It must always be remembered that the scale of financial action
-was then smaller even for the rich.  The Court of Versailles
-did not handle such sums as any stockjobber will now waste
-on a week's luxury.  Kings and queens were richer relatively
-and not positively.  And the size of economic operations today
-is a new and abnormal power in the history of the world.
-It covers much more of the surface of the world.
-It is international where the old luxury was almost local.
-But this vulgar and sprawling plutocracy does not deserve to be
-called a democracy, even by one who uses it as a term of abuse.
-The old classic spirit of democracy is much more present
-in the independent citizen who is ready to resist it,
-who in this respect is much more like the Stoic and Tribune
-admired by the Fathers of the Republic.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Sogghigniamo dei vecchi gentiluomini che citano Orazio mentre trincano il loro porto; come se citassero Orazio solo quando egli trincava il suo Falerno. Dimentichiamo che citare Orazio significava più spesso citare grandi versi su Regolo che sfida la tortura per la Repubblica o sul poeta che torna ai templi degli dèi di Roma. Giudicato secondo il proprio ideale morale, che è l'unico giudizio giusto, il Settecento non fu così cattivo come lo dipingiamo; forse non fu così cattivo come lo siamo noi. Parliamo della sua corruzione politica, ma ne parliamo perché se ne parlava. Veniva smascherata e persino punita. Grandi uomini come Marlborough, uomini potenti come Dundas, furono davvero costretti a dimettersi; spesso persino costretti a restituire il maltolto. Erano molto meno completamente protetti dei politici corrotti del nostro tempo; e non è una prova molto soddisfacente della loro artificiosità e del nostro realismo che essi incipriassero le teste mentre noi imbianchiamo le reputazioni.
-
-II
-
-Mi sembra che sarebbe uno studio straordinariamente interessante della mente del Settecento immaginare che cosa quella mente si aspetterebbe davvero di vedere nel Novecento. Ci sarebbe qualcosa di assai sottile nella commedia di un gentiluomo del Settecento alle prese con le dame del Novecento. Sarebbe curioso notare come egli sarebbe per certi versi più rozzo e per certi versi più raffinato. Sarebbe probabilmente più schietto nel parlare, ma più cerimonioso nei movimenti. Direbbe alla dama, mentre s'inchina sulla sua mano, cose che il più brioso eroe della nostra recente narrativa oserebbe a stento dirle mentre le siede sulla testa. Quando Maria Antonietta e i suoi cortigiani posavano alla maniera dei pastori di Watteau, già discorrevano dell'alba di un'età più illuminata e liberale, e possono ben essersi chiesti come sarebbe stato il mondo nel Novecento. Quando Hogarth disegnava qualche serie satirica come gli Stadi della crudeltà, può ben essersi chiesto se il mondo sarebbe stato ancora così barbaro nel Novecento, o se per allora la ragione e la filantropia avrebbero prevalso. Naturalmente dipenderebbe molto dal genere di individuo che venisse precipitato dalla loro età alla nostra; c'erano senza dubbio molti scudieri banali, amanti dei combattimenti di galli, che sapevano tanto poco dell'avvenire allora quanto poco ne sanno oggi i nostri seri profeti sociali. Ma c'erano già nel Settecento alcuni idealisti che sarebbero stati deliziati di vedere il futuro trionfo dell'umanità. E sarebbero anche rimasti assai delusi se lo vedessero.
-
-Ciò che è davvero interessante nell'Età della Ragione è che gli economisti politici e i riformatori pratici avrebbero creduto, ciascuno di loro, ciò che oggi nessuno crede più affatto. Non solo avrebbero creduto, con ogni probabilità, che l'Inghilterra sarebbe stata più prospera, più felice e più uguale nel Novecento che nel Settecento o nell'Ottocento. Avrebbero anche creduto che essa lo sarebbe divenuta più prospera, libera e uguale attraverso la concorrenza commerciale, attraverso l'egoismo scientifico, attraverso la rimozione di ogni restrizione al commerciare, al parlare o a qualsiasi altra cosa. Nulla avrebbe sorpreso un uomo come Bentham o un uomo come Godwin più completamente della scoperta che la libertà, ovvero il Laissez Faire, non aveva aggiunto un'enorme somma alla felicità umana entro l'inizio del Novecento. In verità, così come sono stati applicati, hanno aggiunto un'enorme somma alla confusione e alla miseria umane, e ci hanno condotti per un lungo giro vizioso (e per una strada assai polverosa) indietro fin quasi al punto in cui eravamo prima. Dobbiamo considerare di nuovo la natura della Libertà e il suo rapporto con i Governi. In quel senso siamo tutti quanti davvero tornati al Settecento.
-
-III
-
-Se non m'inganno di molto, la gente moderna avrà una reazione contro la democrazia prima ancora di averla provata. Ci si dice sempre che il sistema attuale negli Stati industriali altamente organizzati è la democrazia; e stando così le cose, non c'è da meravigliarsi che la democrazia sia divenuta impopolare. Ma non è veramente vero che il governo popolare sia divenuto impopolare. È piuttosto che la gente ha cessato di pensare che, in un senso o nell'altro, il nostro governo sia popolare. La verità è che coloro i quali svilupparono la dottrina democratica nei tempi moderni non la intendevano affatto per qualcosa che somigliasse al mondo moderno, forse il più antico di tutti i mondi possibili. Pensavano ai comuni agricoli dell'antichità, e risalirono oltre lo stesso Impero romano per ritrovare la Repubblica romana. Ma Roma era una repubblica quando Roma era un villaggio. Quegli idealisti del Settecento vivevano spesso realmente in villaggi; sempre in paesi costellati di villaggi. Non sapevano quale sorta di mondo di vapore e d'acciaio i loro discendenti avrebbero ereditato. La Rivoluzione francese venne prima della Rivoluzione industriale. Parlavano perpetuamente del cittadino, ma lo pensavano come un cittadino e non semplicemente come qualcosa dentro la città. Di certo non avevano alcuna concezione della cosa colossale e complicata che oggi intendiamo con la parola città.
-
-È altamente caratteristico del tono del Settecento che parlassero in genere di Londra come «la città». Dicevano: «Tutta la città parla del duello di Lord Banglebury con Mr Pickles». Nel suono e nel senso della parola c'era qualcosa di compatto e confortevole; come di un mondo ancora abbastanza piccolo da conoscere se stesso, come un villaggio. Quando questa gente parlava di democrazia, intendeva davvero il governo del popolo, da parte del popolo, per il popolo. Ma intendevano il governo di gente che conoscevano, da parte di gente che conoscevano, per gente che conoscevano. Intendevano il governo di gente che si conosceva l'un l'altra, da parte di gente che si conosceva l'un l'altra, per gente che si conosceva l'un l'altra. Ritengo altamente dubbio che uno qualsiasi dei teorici democratici del Settecento, sia Payne o Jefferson o Condorcet, si sarebbe aspettato che una società vasta e vaga come la nostra fosse una democrazia. Credo che l'avrebbero giudicata, per quanto a malincuore, un caso da Cesare e da panem et circenses. Ma non è, naturalmente, soltanto il lato materiale della società ad aver sconvolto simili calcoli. È assai più il fattore morale; che è anche, in ogni senso, ahimè, un fattore assai materiale. È ciò che gli scienziati, o coloro che si credono scienziati, chiamano sempre il fattore economico. Lo si può esprimere meglio in una sola parola; e quella parola non è democrazia ma plutocrazia.
-
-Bisogna sempre ricordare che la scala dell'azione finanziaria era allora più piccola persino per i ricchi. La Corte di Versailles non maneggiava somme quali qualsiasi speculatore di borsa oggi sperpererebbe nel lusso di una settimana. Re e regine erano più ricchi relativamente e non positivamente. E la dimensione delle operazioni economiche di oggi è un potere nuovo e abnorme nella storia del mondo. Copre una porzione assai maggiore della superficie del mondo. È internazionale, là dove il vecchio lusso era quasi locale. Ma questa volgare e dilagante plutocrazia non merita di essere chiamata democrazia, nemmeno da chi usa quest'ultima parola come insulto. Il vecchio spirito classico della democrazia è assai più presente nel cittadino indipendente che è pronto a resisterle, il quale sotto questo rispetto assomiglia assai più allo Stoico e al Tribuno ammirati dai Padri della Repubblica.
 
 
 

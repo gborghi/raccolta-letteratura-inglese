@@ -37057,496 +37057,6 @@ added to that, May we meet again!
 
 
 
-<span class="atom-split" data-atom="chapter_06_mrs_flintwinch_has_a_dream_a_d" data-title="Little Dorrit — Chapter 4: Mrs Flintwinch has [[A Dream|a Dream" data-chapter="Mrs Flintwinch has A Dream a D" data-kind="chapter"></span>
-
-
-CHAPTER 4. Mrs Flintwinch has [[A Dream|a Dream]]
-
-
-When Mrs Flintwinch dreamed, she usually dreamed, unlike the son of her
-old mistress, with her eyes shut. She had a curiously vivid dream that
-[[Night|night]], and before she had left the son of her old mistress many hours.
-In fact it was not at all like [[A Dream|a dream]]; it was so very real in every
-respect. It happened in this wise.
-
-The bed-chamber occupied by Mr and Mrs Flintwinch was within a few paces
-of that to which [[Mrs Clennam]] had been so long confined. It was not on
-the same floor, for it was a room at the side of the [[house]], which was
-approached by a steep descent of a few odd steps, diverging from the
-main staircase nearly opposite to [[Mrs Clennam]]’s door. It could scarcely
-be said to be within call, the walls, doors, and panelling of the old
-place were so cumbrous; but it was within easy reach, in any undress,
-at any hour of the [[Night|night]], in any temperature. At the head of the bed
-and within a foot of Mrs Flintwinch’s ear, was a bell, the line of which
-hung ready to [[Mrs Clennam]]’s hand. Whenever this bell rang, up started
-Affery, and was in the sick room before she was awake.
-
-Having got her mistress into bed, lighted her lamp, and given her good
-[[Night|night]], Mrs Flintwinch went to roost as usual, saving that her lord had
-not yet appeared. It was her lord himself who became--unlike the
-last theme in the mind, according to the observation of most
-philosophers--the subject of Mrs Flintwinch’s dream.
-
-It seemed to her that she awoke after sleeping some hours, and found
-Jeremiah not yet abed. That she looked at the candle she had left
-burning, and, measuring the [[Time|time]] like [[King Alfred]] the Great, was
-confirmed by its wasted state in her belief that she had been asleep for
-some considerable period. That she arose thereupon, muffled herself up
-in a wrapper, put on her shoes, and went out on the staircase, much
-surprised, to look for Jeremiah.
-
-The staircase was as wooden and solid as need be, and Affery went
-straight down it without any of those deviations peculiar to [[Dreams|dreams]].
-She did not skim over it, but walked down it, and guided herself by the
-banisters on account of her candle having died out. In one corner of
-the hall, behind the [[house]]-door, there was a little waiting-room, like a
-[[Well|well]]-shaft, with a long narrow [[Window|window]] in it as if it had been ripped up.
-In this room, which was never used, a light was burning.
-
-Mrs Flintwinch crossed the hall, feeling its pavement cold to her
-stockingless feet, and peeped in between the rusty hinges on the door,
-which stood a little open. She expected to see Jeremiah fast asleep or
-in a fit, but he was calmly seated in a chair, awake, and in his usual
-health. But what--hey?--Lord forgive us!--Mrs Flintwinch muttered some
-ejaculation to this effect, and turned giddy.
-
-For, Mr Flintwinch awake, was watching Mr Flintwinch asleep. He sat on
-one side of the small table, looking keenly at himself on the other side
-with his chin sunk on his breast, snoring. The waking Flintwinch had his
-full front face presented to his wife; the sleeping Flintwinch was
-in profile. The waking Flintwinch was the old original; the sleeping
-Flintwinch was the [[Double|double]], just as she might have distinguished between
-a tangible object and its reflection in a glass, Affery made out this
-difference with her head going round and round.
-
-If she had had any [[Doubt|doubt]] which was her own Jeremiah, it would have been
-resolved by his impatience. He looked about him for an offensive weapon,
-caught up the snuffers, and, before applying them to the cabbage-headed
-candle, lunged at [[The Sleeper|the sleeper]] as though he would have run him through
-the [[Body|body]].
-
-‘Who’s that? What’s the matter?’ cried [[The Sleeper|the sleeper]], starting.
-
-Mr Flintwinch made a movement with the snuffers, as if he would have
-enforced [[Silence|silence]] on his companion by putting them down his throat; the
-companion, coming to himself, said, rubbing his eyes, ‘I forgot where I
-was.’
-
-‘You have been asleep,’ snarled Jeremiah, referring to his watch, ‘two
-hours. You said you would be rested enough if you had a short nap.’
-
-‘I have had a short nap,’ said [[Double]].
-
-‘Half-past two o’[[Clock|clock]] in the morning,’ muttered Jeremiah. ‘Where’s your
-hat? Where’s your coat? Where’s the box?’
-
-‘All here,’ said [[Double]], tying up his throat with sleepy carefulness in
-a shawl. ‘Stop a minute. Now give me the sleeve--not that sleeve, the
-other one. Ha! I’m not as young as I was.’ Mr Flintwinch had pulled
-him into his coat with vehement energy. ‘You promised me a second glass
-after I was rested.’
-
-‘Drink it!’ returned Jeremiah, ‘and--choke yourself, I was going
-to say--but go, I mean.’ At the same [[Time|time]] he produced the identical
-port-wine bottle, and filled a wine-glass.
-
-‘Her port-wine, I believe?’ said [[Double]], tasting it as if he were in the
-Docks, with hours to spare. ‘Her health.’
-
-He took a sip.
-
-‘Your health!’
-
-He took another sip.
-
-‘His health!’
-
-He took another sip.
-
-‘And all friends round St Paul’s.’ He emptied and put down the
-wine-glass half-way through this ancient civic toast, and took up the
-box. It was an iron box some two feet square, which he carried under his
-arms pretty easily. Jeremiah watched his manner of adjusting it, with
-jealous eyes; tried it with his hands, to be sure that he had a firm
-hold of it; bade him for his life be careful what he was about; and then
-stole out on tiptoe to open the door for him. Affery, anticipating
-the last movement, was on the staircase. The sequence of things was
-so ordinary and natural, that, standing there, she could hear the door
-open, feel the [[Night|night]] air, and see the [[Stars|stars]] outside.
-
-But now came the most remarkable part of the dream. She felt so afraid
-of her husband, that being on the staircase, she had not the power to
-retreat to her room (which she might easily have done before he had
-fastened the door), but stood there staring. Consequently when he came
-up the staircase to bed, candle in hand, he came full upon her. He
-looked astonished, but said not a word. He kept his eyes upon her, and
-kept advancing; and she, completely under his influence, kept retiring
-before him. Thus, she walking backward and he walking forward, they
-came into their own room. They were no sooner shut in there, than Mr
-Flintwinch took her by the throat, and shook her until she was black in
-the face.
-
-‘Why, Affery, woman--Affery!’ said Mr Flintwinch. ‘What have you been
-dreaming of? Wake up, wake up! What’s the matter?’
-
-‘The--the matter, Jeremiah?’ gasped Mrs Flintwinch, [[rolling]] her eyes.
-
-‘Why, Affery, woman--Affery! You have been getting out of bed in your
-[[Sleep|sleep]], my dear! I come up, after having fallen asleep myself, below, and
-find you in your wrapper here, with the [[nightmare]]. Affery, woman,’ said
-Mr Flintwinch, with a friendly grin on his expressive countenance, ‘if
-you ever have [[A Dream|a dream]] of this sort again, it’ll be a sign of your being
-in want of physic. And I’ll give you such a dose, old woman--such a
-dose!’
-
-Mrs Flintwinch thanked him and crept into bed.
-
-
-
-
-<span class="atom-split" data-atom="chapter_40_mrs_general" data-title="Little Dorrit — Chapter 2: Mrs General" data-chapter="Mrs General" data-kind="chapter"></span>
-
-
-CHAPTER 2. Mrs General
-
-
-It is indispensable to present the accomplished lady who was of
-sufficient importance in the suite of the Dorrit Family to have a line
-to herself in the Travellers’ Book.
-
-Mrs General was the daughter of a clerical dignitary in a [[Cathedral|cathedral]]
-town, where she had led the fashion until she was as near forty-five as
-a single lady can be. A stiff commissariat officer of sixty, famous as a
-martinet, had then become enamoured of the gravity with which she drove
-the proprieties four-in-hand through the [[Cathedral|cathedral]] town society, and
-had solicited to be taken beside her on the box of the cool coach of
-ceremony to which that team was harnessed. His proposal of [[Marriage|marriage]]
-being accepted by the lady, the commissary took his seat behind
-the proprieties with great decorum, and Mrs General drove until the
-commissary died. In the course of their united [[Journey|journey]], they ran over
-several people who came in the way of the proprieties; but always in a
-high style and with composure.
-
-The commissary having been buried with all the decorations suitable to
-the service (the whole team of proprieties were harnessed to his hearse,
-and they all had feathers and black velvet housings with his coat of
-arms in the corner), Mrs General began to inquire what quantity of [[Dust|dust]]
-and ashes was deposited at the bankers’. It then transpired that the
-commissary had so far stolen a march on Mrs General as to have bought
-himself an annuity some years before his [[Marriage|marriage]], and to have reserved
-that circumstance in mentioning, at the period of his proposal, that
-his income was derived from the interest of his money. Mrs General
-consequently found her means so much diminished, that, but for the
-perfect regulation of her mind, she might have felt disposed to question
-the accuracy of that portion of the late service which had declared that
-the commissary could take nothing away with him.
-
-In this state of affairs it occurred to Mrs General, that she might
-‘form the mind,’ and eke the manners of some young lady of distinction.
-Or, that she might harness the proprieties to the carriage of some rich
-young heiress or widow, and become at once the driver and guard of such
-vehicle through the social mazes. Mrs General’s communication of this
-idea to her clerical and commissariat connection was so warmly applauded
-that, but for the lady’s undoubted merit, it might have appeared as
-though they wanted to get rid of her. Testimonials representing Mrs
-General as a prodigy of piety, learning, virtue, and gentility, were
-lavishly contributed from influential quarters; and one venerable
-archdeacon even shed [[Tears|tears]] in recording his testimony to her perfections
-(described to him by persons on whom he could rely), though he had never
-had the [[Honour|honour]] and moral gratification of setting eyes on Mrs General in
-all his life.
-
-Thus delegated on her mission, as it were by Church and State, Mrs
-General, who had always occupied high ground, felt in a condition to
-keep it, and began by putting herself up at a very high figure. An
-interval of some duration elapsed, in which there was no bid for Mrs
-General. At length a county-widower, with a daughter of fourteen, opened
-negotiations with the lady; and as it was a part either of the native
-dignity or of the artificial policy of Mrs General (but certainly one
-or the other) to comport herself as if she were much more sought than
-seeking, the widower pursued Mrs General until he prevailed upon her to
-form his daughter’s mind and manners.
-
-The execution of this trust occupied Mrs General about seven years, in
-the course of which [[Time|time]] she made the tour of Europe, and saw most of
-that extensive miscellany of objects which it is essential that all
-persons of polite cultivation should see with other people’s eyes,
-and never with their own. When her charge was at length formed, the
-[[Marriage|marriage]], not only of the young lady, but likewise of her father, the
-widower, was resolved on. The widower then finding Mrs General both
-inconvenient and expensive, became of a sudden almost as much affected
-by her merits as the archdeacon had been, and circulated such praises
-of her surpassing worth, in all quarters where he thought an opportunity
-might arise of transferring the blessing to somebody else, that Mrs
-General was a name more honourable than ever.
-
-The phoenix was to let, on this elevated perch, when Mr Dorrit, who
-had lately succeeded to his property, mentioned to his bankers that he
-wished to discover a lady, [[Well|well]]-bred, accomplished, [[Well|well]] connected, [[Well|well]]
-accustomed to good society, who was qualified at once to complete the
-[[Education|education]] of his daughters, and to be their matron or chaperon. Mr
-Dorrit’s bankers, as bankers of the county-widower, instantly said, ‘Mrs
-General.’
-
-Pursuing the light so fortunately hit upon, and finding the concurrent
-testimony of the whole of Mrs General’s acquaintance to be of the
-pathetic [[Nature|nature]] already recorded, Mr Dorrit took the trouble of going
-down to the county of the county-widower to see Mrs General, in whom he
-found a lady of a quality superior to his highest expectations.
-
-‘Might I be excused,’ said Mr Dorrit, ‘if I inquired--ha--what remune--’
-
-‘Why, indeed,’ returned Mrs General, stopping the word, ‘it is a subject
-on which I prefer to avoid entering. I have never entered on it with my
-friends here; and I cannot overcome the delicacy, Mr Dorrit, with
-which I have always regarded it. I am not, as I [[Hope|hope]] you are aware, a
-governess--’
-
-‘O dear no!’ said Mr Dorrit. ‘Pray, madam, do not imagine for a moment
-that I think so.’ He really blushed to be suspected of it.
-
-Mrs General gravely inclined her head. ‘I cannot, therefore, put a price
-upon services which it is a pleasure to me to render if I can render
-them spontaneously, but which I could not render in mere return for any
-consideration. Neither do I know how, or where, to find a case parallel
-to my own. It is peculiar.’
-
-No [[Doubt|doubt]]. But how then (Mr Dorrit not unnaturally hinted) could the
-subject be approached?
-
-‘I cannot object,’ said Mrs General--‘though even that is disagreeable
-to me--to Mr Dorrit’s inquiring, in confidence of my friends here, what
-amount they have been accustomed, at quarterly intervals, to pay to my
-credit at my bankers’.’
-
-Mr Dorrit bowed his acknowledgements.
-
-‘Permit me to add,’ said Mrs General, ‘that beyond this, I can never
-resume the topic. Also that I can accept no second or inferior position.
-If the [[Honour|honour]] were proposed to me of becoming known to Mr Dorrit’s
-family--I think two daughters were mentioned?--’
-
-‘Two daughters.’
-
-‘I could only accept it on terms of perfect equality, as a companion,
-protector, [[Mentor]], and friend.’
-
-Mr Dorrit, in spite of his sense of his importance, felt as if it would
-be quite a kindness in her to accept it on any conditions. He almost
-said as much.
-
-‘I think,’ repeated Mrs General, ‘two daughters were mentioned?’
-
-‘Two daughters,’ said Mr Dorrit again.
-
-‘It would therefore,’ said Mrs General, ‘be necessary to add a third
-more to the payment (whatever its amount may prove to be), which my
-friends here have been accustomed to make to my bankers’.’
-
-Mr Dorrit lost no [[Time|time]] in referring the delicate question to the
-county-widower, and finding that he had been accustomed to pay three
-hundred pounds a-year to the credit of Mrs General, arrived, without any
-severe strain on his arithmetic, at the conclusion that he himself must
-pay four. Mrs General being an article of that lustrous surface which
-suggests that it is worth any money, he made a formal proposal to be
-allowed to have the [[Honour|honour]] and pleasure of regarding her as a member of
-his family. Mrs General conceded that high privilege, and here she was.
-
-In person, Mrs General, including her skirts which had much to do with
-it, was of a dignified and imposing appearance; ample, rustling, gravely
-voluminous; always upright behind the proprieties. She might have
-been taken--had been taken--to the top of the Alps and the [[Bottom|bottom]] of
-Herculaneum, without disarranging a fold in her dress, or displacing
-a pin. If her countenance and hair had rather a floury appearance, as
-though from living in some transcendently genteel Mill, it was rather
-because she was a chalky creation altogether, than because she mended
-her complexion with violet powder, or had turned grey. If her eyes had
-no expression, it was probably because they had nothing to express. If
-she had few wrinkles, it was because her mind had never traced its name
-or any other [[Inscription|inscription]] on her face. A cool, waxy, blown-out woman, who
-had never lighted [[Well|well]].
-
-Mrs General had no opinions. Her way of forming a mind was to prevent it
-from forming opinions. She had a little circular set of mental grooves
-or rails on which she started little trains of other people’s opinions,
-which never overtook one another, and never got anywhere. Even her
-propriety could not dispute that there was impropriety in the world; but
-Mrs General’s way of getting rid of it was to put it out of sight, and
-make believe that there was no such thing. This was another of her ways
-of forming a mind--to cram all articles of difficulty into cupboards,
-lock them up, and say they had no existence. It was the easiest way,
-and, beyond all comparison, the properest.
-
-Mrs General was not to be told of anything shocking. Accidents,
-miseries, and offences, were never to be mentioned before her. Passion
-was to go to [[Sleep|sleep]] in the presence of Mrs General, and [[Blood|blood]] was to
-change to milk and [[Water|water]]. The little that was left in the world,
-when all these deductions were made, it was Mrs General’s province to
-varnish. In that formation process of hers, she dipped the smallest of
-brushes into the largest of pots, and varnished the surface of every
-object that came under consideration. The more cracked it was, the more
-Mrs General varnished it.
-
-There was varnish in Mrs General’s voice, varnish in Mrs General’s
-touch, an atmosphere of varnish round Mrs General’s figure. Mrs
-General’s [[Dreams|dreams]] ought to have been varnished--if she had any--lying
-asleep in the arms of the good Saint Bernard, with the feathery [[Snow|snow]]
-falling on his [[house]]-top.
-
-
-
-
-<span class="atom-split" data-atom="chapter_42_a_letter_from_little_dorrit" data-title="Little Dorrit — Chapter 4: A Letter from Little Dorrit" data-chapter="A Letter from Little Dorrit" data-kind="chapter"></span>
-
-
-CHAPTER 4. A Letter from Little Dorrit
-
-
-Dear Mr Clennam,
-
-I write to you from my own room at [[Venice]], thinking you will be glad to
-hear from me. But I know you cannot be so glad to hear from me as I am
-to write to you; for everything about you is as you have been accustomed
-to see it, and you miss nothing--unless it should be me, which can only
-be for a very little while together and very seldom--while everything in
-my life is so strange, and I miss so much.
-
-When we were in Switzerland, which appears to have been years ago,
-though it was only weeks, I met young Mrs Gowan, who was on a mountain
-excursion like ourselves. She told me she was very [[Well|well]] and very happy.
-She sent you the message, by me, that she thanked you affectionately and
-would never forget you. She was quite confiding with me, and I loved her
-almost as soon as I spoke to her. But there is nothing singular in that;
-who could help loving so beautiful and winning a creature! I could not
-[[Wonder|wonder]] at any one loving her. No indeed.
-
-It will not make you uneasy on Mrs Gowan’s account, I [[Hope|hope]]--for I
-remember that you said you had the interest of a true friend in her--if
-I tell you that I wish she could have married some one better suited to
-her. Mr Gowan seems fond of her, and of course she is very fond of him,
-but I thought he was not earnest enough--I don’t mean in that respect--I
-mean in anything. I could not keep it out of my mind that if I was Mrs
-Gowan (what a change that would be, and how I must alter to become like
-her!) I should feel that I was rather lonely and lost, for the want of
-some one who was steadfast and firm in purpose. I even thought she felt
-this want a little, almost without knowing it. But mind you are not made
-uneasy by this, for she was ‘very [[Well|well]] and very happy.’ And she looked
-most beautiful.
-
-I expect to meet her again before long, and indeed have been expecting
-for some days past to see her here. I will ever be as good a friend to
-her as I can for your sake. Dear Mr Clennam, I dare say you think little
-of having been a friend to me when I had no other (not that I have any
-other now, for I have made no new friends), but I think much of it, and
-I never can forget it.
-
-I wish I knew--but it is best for no one to write to me--how Mr and Mrs
-Plornish prosper in the business which my dear father bought for them,
-and that old Mr Nandy lives happily with them and his two grandchildren,
-and sings all his [[songs]] over and over again. I cannot quite keep back
-the [[Tears|tears]] from my eyes when I think of my poor Maggy, and of the blank
-she must have felt at first, however kind they all are to her, without
-her Little Mother. Will you go and tell her, as a strict secret, with my
-[[Love|love]], that she never can have regretted our separation more than I have
-regretted it? And will you tell them all that I have thought of them
-every day, and that my heart is faithful to them everywhere? O, if you
-could know how faithful, you would almost pity me for being so far away
-and being so grand!
-
-You will be glad, I am sure, to know that my dear father is very [[Well|well]]
-in health, and that all these changes are highly beneficial to him, and
-that he is very different indeed from what he used to be when you used
-to see him. There is an improvement in my uncle too, I think, though he
-never complained of old, and never exults now. Fanny is very graceful,
-quick, and clever. It is natural to her to be a lady; she has adapted
-herself to our new fortunes with wonderful ease.
-
-This reminds me that I have not been able to do so, and that I sometimes
-almost [[Despair|despair]] of ever being able to do so. I find that I cannot learn.
-Mrs General is always with us, and we speak French and speak Italian,
-and she takes pains to form us in many ways. When I say we speak French
-and Italian, I mean they do. As for me, I am so slow that I scarcely
-get on at all. As soon as I begin to plan, and think, and try, all my
-planning, thinking, and trying go in old directions, and I begin to feel
-careful again about the expenses of the day, and about my dear father,
-and about my work, and then I remember with a start that there are no
-such cares left, and that in itself is so new and improbable that it
-sets me wandering again. I should not have the [[Courage|courage]] to mention this
-to any one but you.
-
-It is the same with all these new countries and wonderful sights.
-They are very beautiful, and they astonish me, but I am not collected
-enough--not familiar enough with myself, if you can quite understand
-what I mean--to have all the pleasure in them that I might have. What
-I knew before them, blends with them, too, so curiously. For instance,
-when we were among the [[Mountains|mountains]], I often felt (I hesitate to tell such
-an idle thing, dear Mr Clennam, even to you) as if the Marshalsea must
-be behind that great rock; or as if [[Mrs Clennam]]’s room where I have
-worked so many days, and where I first saw you, must be just beyond that
-[[Snow|snow]]. Do you remember one [[Night|night]] when I came with Maggy to your lodging
-in Covent [[Garden]]? That room I have often and often fancied I have seen
-before me, travelling along for miles by the side of our carriage, when
-I have looked out of the carriage-[[Window|window]] after dark. We were shut out
-that [[Night|night]], and sat at the iron gate, and walked about till morning.
-I often look up at the [[Stars|stars]], even from the balcony of this room, and
-believe that I am in the street again, shut out with Maggy. It is the
-same with people that I left in England.
-
-When I go about here in a gondola, I surprise myself looking into other
-gondolas as if I hoped to see them. It would overcome me with joy to
-see them, but I don’t think it would surprise me much, at first. In my
-fanciful times, I fancy that they might be anywhere; and I almost expect
-to see their dear faces on the bridges or the quays.
-
-Another difficulty that I have will seem very strange to you. It must
-seem very strange to any one but me, and does even to me: I often feel
-the old sad pity for--I need not write the word--for him. Changed as he
-is, and inexpressibly blest and thankful as I always am to know it, the
-old sorrowful feeling of compassion comes upon me sometimes with such
-strength that I want to put my arms round his neck, tell him how I [[Love|love]]
-him, and cry a little on his breast. I should be glad after that, and
-proud and happy. But I know that I must not do this; that he would not
-like it, that Fanny would be angry, that Mrs General would be amazed;
-and so I quiet myself. Yet in doing so, I struggle with the feeling that
-I have come to be at a distance from him; and that even in the midst of
-all the servants and attendants, he is deserted, and in want of me.
-
-Dear Mr Clennam, I have written a great deal about myself, but I must
-write a little more still, or what I wanted most of all to say in this
-weak letter would be left out of it. In all these foolish thoughts of
-mine, which I have been so hardy as to confess to you because I know you
-will understand me if anybody can, and will make more allowance for me
-than anybody else would if you cannot--in all these thoughts, there is
-one thought scarcely ever--never--out of my [[Memory|memory]], and that is that
-I [[Hope|hope]] you sometimes, in a quiet moment, have a thought for me. I must
-tell you that as to this, I have felt, ever since I have been away, an
-anxiety which I am very anxious to relieve. I have been afraid that you
-may think of me in a new light, or a new character. Don’t do that, I
-could not bear that--it would make me more unhappy than you can suppose.
-It would break my heart to believe that you thought of me in any way
-that would make me stranger to you than I was when you were so good to
-me. What I have to pray and entreat of you is, that you will never think
-of me as the daughter of a rich person; that you will never think of me
-as dressing any better, or living any better, than when you first
-knew me. That you will remember me only as the little shabby girl you
-protected with so much tenderness, from whose threadbare dress you have
-kept away the rain, and whose wet feet you have dried at your [[Fire|fire]].
-That you will think of me (when you think of me at all), and of my true
-affection and devoted gratitude, always without change, as of
-
-
-Your poor [[Child|child]],
-
-LITTLE DORRIT.
-
-
-P.S.--Particularly remember that you are not to be uneasy about Mrs
-Gowan. Her words were, ‘Very [[Well|well]] and very happy.’ And she looked most
-beautiful.
-
-
-
-
 <span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_01" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 1)" data-chapter="Sun and Shadow" data-kind="excerpt"></span>
 
 
@@ -39459,6 +38969,153 @@ dream; for it had been the uniform tendency of this man’s life--so much
 was wanting in it to think about, so much that might have been better
 directed and happier to speculate upon--to make him a dreamer, after
 all.
+
+
+
+
+<span class="atom-split" data-atom="chapter_06_mrs_flintwinch_has_a_dream_a_d" data-title="Little Dorrit — Chapter 4: Mrs Flintwinch has [[A Dream|a Dream" data-chapter="Mrs Flintwinch has A Dream a D" data-kind="chapter"></span>
+
+
+CHAPTER 4. Mrs Flintwinch has [[A Dream|a Dream]]
+
+
+When Mrs Flintwinch dreamed, she usually dreamed, unlike the son of her
+old mistress, with her eyes shut. She had a curiously vivid dream that
+[[Night|night]], and before she had left the son of her old mistress many hours.
+In fact it was not at all like [[A Dream|a dream]]; it was so very real in every
+respect. It happened in this wise.
+
+The bed-chamber occupied by Mr and Mrs Flintwinch was within a few paces
+of that to which [[Mrs Clennam]] had been so long confined. It was not on
+the same floor, for it was a room at the side of the [[house]], which was
+approached by a steep descent of a few odd steps, diverging from the
+main staircase nearly opposite to [[Mrs Clennam]]’s door. It could scarcely
+be said to be within call, the walls, doors, and panelling of the old
+place were so cumbrous; but it was within easy reach, in any undress,
+at any hour of the [[Night|night]], in any temperature. At the head of the bed
+and within a foot of Mrs Flintwinch’s ear, was a bell, the line of which
+hung ready to [[Mrs Clennam]]’s hand. Whenever this bell rang, up started
+Affery, and was in the sick room before she was awake.
+
+Having got her mistress into bed, lighted her lamp, and given her good
+[[Night|night]], Mrs Flintwinch went to roost as usual, saving that her lord had
+not yet appeared. It was her lord himself who became--unlike the
+last theme in the mind, according to the observation of most
+philosophers--the subject of Mrs Flintwinch’s dream.
+
+It seemed to her that she awoke after sleeping some hours, and found
+Jeremiah not yet abed. That she looked at the candle she had left
+burning, and, measuring the [[Time|time]] like [[King Alfred]] the Great, was
+confirmed by its wasted state in her belief that she had been asleep for
+some considerable period. That she arose thereupon, muffled herself up
+in a wrapper, put on her shoes, and went out on the staircase, much
+surprised, to look for Jeremiah.
+
+The staircase was as wooden and solid as need be, and Affery went
+straight down it without any of those deviations peculiar to [[Dreams|dreams]].
+She did not skim over it, but walked down it, and guided herself by the
+banisters on account of her candle having died out. In one corner of
+the hall, behind the [[house]]-door, there was a little waiting-room, like a
+[[Well|well]]-shaft, with a long narrow [[Window|window]] in it as if it had been ripped up.
+In this room, which was never used, a light was burning.
+
+Mrs Flintwinch crossed the hall, feeling its pavement cold to her
+stockingless feet, and peeped in between the rusty hinges on the door,
+which stood a little open. She expected to see Jeremiah fast asleep or
+in a fit, but he was calmly seated in a chair, awake, and in his usual
+health. But what--hey?--Lord forgive us!--Mrs Flintwinch muttered some
+ejaculation to this effect, and turned giddy.
+
+For, Mr Flintwinch awake, was watching Mr Flintwinch asleep. He sat on
+one side of the small table, looking keenly at himself on the other side
+with his chin sunk on his breast, snoring. The waking Flintwinch had his
+full front face presented to his wife; the sleeping Flintwinch was
+in profile. The waking Flintwinch was the old original; the sleeping
+Flintwinch was the [[Double|double]], just as she might have distinguished between
+a tangible object and its reflection in a glass, Affery made out this
+difference with her head going round and round.
+
+If she had had any [[Doubt|doubt]] which was her own Jeremiah, it would have been
+resolved by his impatience. He looked about him for an offensive weapon,
+caught up the snuffers, and, before applying them to the cabbage-headed
+candle, lunged at [[The Sleeper|the sleeper]] as though he would have run him through
+the [[Body|body]].
+
+‘Who’s that? What’s the matter?’ cried [[The Sleeper|the sleeper]], starting.
+
+Mr Flintwinch made a movement with the snuffers, as if he would have
+enforced [[Silence|silence]] on his companion by putting them down his throat; the
+companion, coming to himself, said, rubbing his eyes, ‘I forgot where I
+was.’
+
+‘You have been asleep,’ snarled Jeremiah, referring to his watch, ‘two
+hours. You said you would be rested enough if you had a short nap.’
+
+‘I have had a short nap,’ said [[Double]].
+
+‘Half-past two o’[[Clock|clock]] in the morning,’ muttered Jeremiah. ‘Where’s your
+hat? Where’s your coat? Where’s the box?’
+
+‘All here,’ said [[Double]], tying up his throat with sleepy carefulness in
+a shawl. ‘Stop a minute. Now give me the sleeve--not that sleeve, the
+other one. Ha! I’m not as young as I was.’ Mr Flintwinch had pulled
+him into his coat with vehement energy. ‘You promised me a second glass
+after I was rested.’
+
+‘Drink it!’ returned Jeremiah, ‘and--choke yourself, I was going
+to say--but go, I mean.’ At the same [[Time|time]] he produced the identical
+port-wine bottle, and filled a wine-glass.
+
+‘Her port-wine, I believe?’ said [[Double]], tasting it as if he were in the
+Docks, with hours to spare. ‘Her health.’
+
+He took a sip.
+
+‘Your health!’
+
+He took another sip.
+
+‘His health!’
+
+He took another sip.
+
+‘And all friends round St Paul’s.’ He emptied and put down the
+wine-glass half-way through this ancient civic toast, and took up the
+box. It was an iron box some two feet square, which he carried under his
+arms pretty easily. Jeremiah watched his manner of adjusting it, with
+jealous eyes; tried it with his hands, to be sure that he had a firm
+hold of it; bade him for his life be careful what he was about; and then
+stole out on tiptoe to open the door for him. Affery, anticipating
+the last movement, was on the staircase. The sequence of things was
+so ordinary and natural, that, standing there, she could hear the door
+open, feel the [[Night|night]] air, and see the [[Stars|stars]] outside.
+
+But now came the most remarkable part of the dream. She felt so afraid
+of her husband, that being on the staircase, she had not the power to
+retreat to her room (which she might easily have done before he had
+fastened the door), but stood there staring. Consequently when he came
+up the staircase to bed, candle in hand, he came full upon her. He
+looked astonished, but said not a word. He kept his eyes upon her, and
+kept advancing; and she, completely under his influence, kept retiring
+before him. Thus, she walking backward and he walking forward, they
+came into their own room. They were no sooner shut in there, than Mr
+Flintwinch took her by the throat, and shook her until she was black in
+the face.
+
+‘Why, Affery, woman--Affery!’ said Mr Flintwinch. ‘What have you been
+dreaming of? Wake up, wake up! What’s the matter?’
+
+‘The--the matter, Jeremiah?’ gasped Mrs Flintwinch, [[rolling]] her eyes.
+
+‘Why, Affery, woman--Affery! You have been getting out of bed in your
+[[Sleep|sleep]], my dear! I come up, after having fallen asleep myself, below, and
+find you in your wrapper here, with the [[nightmare]]. Affery, woman,’ said
+Mr Flintwinch, with a friendly grin on his expressive countenance, ‘if
+you ever have [[A Dream|a dream]] of this sort again, it’ll be a sign of your being
+in want of physic. And I’ll give you such a dose, old woman--such a
+dose!’
+
+Mrs Flintwinch thanked him and crept into bed.
 
 
 
@@ -58186,6 +57843,198 @@ going up and under his nose, repaired to his allotted cell.
 
 
 
+<span class="atom-split" data-atom="chapter_40_mrs_general" data-title="Little Dorrit — Chapter 2: Mrs General" data-chapter="Mrs General" data-kind="chapter"></span>
+
+
+CHAPTER 2. Mrs General
+
+
+It is indispensable to present the accomplished lady who was of
+sufficient importance in the suite of the Dorrit Family to have a line
+to herself in the Travellers’ Book.
+
+Mrs General was the daughter of a clerical dignitary in a [[Cathedral|cathedral]]
+town, where she had led the fashion until she was as near forty-five as
+a single lady can be. A stiff commissariat officer of sixty, famous as a
+martinet, had then become enamoured of the gravity with which she drove
+the proprieties four-in-hand through the [[Cathedral|cathedral]] town society, and
+had solicited to be taken beside her on the box of the cool coach of
+ceremony to which that team was harnessed. His proposal of [[Marriage|marriage]]
+being accepted by the lady, the commissary took his seat behind
+the proprieties with great decorum, and Mrs General drove until the
+commissary died. In the course of their united [[Journey|journey]], they ran over
+several people who came in the way of the proprieties; but always in a
+high style and with composure.
+
+The commissary having been buried with all the decorations suitable to
+the service (the whole team of proprieties were harnessed to his hearse,
+and they all had feathers and black velvet housings with his coat of
+arms in the corner), Mrs General began to inquire what quantity of [[Dust|dust]]
+and ashes was deposited at the bankers’. It then transpired that the
+commissary had so far stolen a march on Mrs General as to have bought
+himself an annuity some years before his [[Marriage|marriage]], and to have reserved
+that circumstance in mentioning, at the period of his proposal, that
+his income was derived from the interest of his money. Mrs General
+consequently found her means so much diminished, that, but for the
+perfect regulation of her mind, she might have felt disposed to question
+the accuracy of that portion of the late service which had declared that
+the commissary could take nothing away with him.
+
+In this state of affairs it occurred to Mrs General, that she might
+‘form the mind,’ and eke the manners of some young lady of distinction.
+Or, that she might harness the proprieties to the carriage of some rich
+young heiress or widow, and become at once the driver and guard of such
+vehicle through the social mazes. Mrs General’s communication of this
+idea to her clerical and commissariat connection was so warmly applauded
+that, but for the lady’s undoubted merit, it might have appeared as
+though they wanted to get rid of her. Testimonials representing Mrs
+General as a prodigy of piety, learning, virtue, and gentility, were
+lavishly contributed from influential quarters; and one venerable
+archdeacon even shed [[Tears|tears]] in recording his testimony to her perfections
+(described to him by persons on whom he could rely), though he had never
+had the [[Honour|honour]] and moral gratification of setting eyes on Mrs General in
+all his life.
+
+Thus delegated on her mission, as it were by Church and State, Mrs
+General, who had always occupied high ground, felt in a condition to
+keep it, and began by putting herself up at a very high figure. An
+interval of some duration elapsed, in which there was no bid for Mrs
+General. At length a county-widower, with a daughter of fourteen, opened
+negotiations with the lady; and as it was a part either of the native
+dignity or of the artificial policy of Mrs General (but certainly one
+or the other) to comport herself as if she were much more sought than
+seeking, the widower pursued Mrs General until he prevailed upon her to
+form his daughter’s mind and manners.
+
+The execution of this trust occupied Mrs General about seven years, in
+the course of which [[Time|time]] she made the tour of Europe, and saw most of
+that extensive miscellany of objects which it is essential that all
+persons of polite cultivation should see with other people’s eyes,
+and never with their own. When her charge was at length formed, the
+[[Marriage|marriage]], not only of the young lady, but likewise of her father, the
+widower, was resolved on. The widower then finding Mrs General both
+inconvenient and expensive, became of a sudden almost as much affected
+by her merits as the archdeacon had been, and circulated such praises
+of her surpassing worth, in all quarters where he thought an opportunity
+might arise of transferring the blessing to somebody else, that Mrs
+General was a name more honourable than ever.
+
+The phoenix was to let, on this elevated perch, when Mr Dorrit, who
+had lately succeeded to his property, mentioned to his bankers that he
+wished to discover a lady, [[Well|well]]-bred, accomplished, [[Well|well]] connected, [[Well|well]]
+accustomed to good society, who was qualified at once to complete the
+[[Education|education]] of his daughters, and to be their matron or chaperon. Mr
+Dorrit’s bankers, as bankers of the county-widower, instantly said, ‘Mrs
+General.’
+
+Pursuing the light so fortunately hit upon, and finding the concurrent
+testimony of the whole of Mrs General’s acquaintance to be of the
+pathetic [[Nature|nature]] already recorded, Mr Dorrit took the trouble of going
+down to the county of the county-widower to see Mrs General, in whom he
+found a lady of a quality superior to his highest expectations.
+
+‘Might I be excused,’ said Mr Dorrit, ‘if I inquired--ha--what remune--’
+
+‘Why, indeed,’ returned Mrs General, stopping the word, ‘it is a subject
+on which I prefer to avoid entering. I have never entered on it with my
+friends here; and I cannot overcome the delicacy, Mr Dorrit, with
+which I have always regarded it. I am not, as I [[Hope|hope]] you are aware, a
+governess--’
+
+‘O dear no!’ said Mr Dorrit. ‘Pray, madam, do not imagine for a moment
+that I think so.’ He really blushed to be suspected of it.
+
+Mrs General gravely inclined her head. ‘I cannot, therefore, put a price
+upon services which it is a pleasure to me to render if I can render
+them spontaneously, but which I could not render in mere return for any
+consideration. Neither do I know how, or where, to find a case parallel
+to my own. It is peculiar.’
+
+No [[Doubt|doubt]]. But how then (Mr Dorrit not unnaturally hinted) could the
+subject be approached?
+
+‘I cannot object,’ said Mrs General--‘though even that is disagreeable
+to me--to Mr Dorrit’s inquiring, in confidence of my friends here, what
+amount they have been accustomed, at quarterly intervals, to pay to my
+credit at my bankers’.’
+
+Mr Dorrit bowed his acknowledgements.
+
+‘Permit me to add,’ said Mrs General, ‘that beyond this, I can never
+resume the topic. Also that I can accept no second or inferior position.
+If the [[Honour|honour]] were proposed to me of becoming known to Mr Dorrit’s
+family--I think two daughters were mentioned?--’
+
+‘Two daughters.’
+
+‘I could only accept it on terms of perfect equality, as a companion,
+protector, [[Mentor]], and friend.’
+
+Mr Dorrit, in spite of his sense of his importance, felt as if it would
+be quite a kindness in her to accept it on any conditions. He almost
+said as much.
+
+‘I think,’ repeated Mrs General, ‘two daughters were mentioned?’
+
+‘Two daughters,’ said Mr Dorrit again.
+
+‘It would therefore,’ said Mrs General, ‘be necessary to add a third
+more to the payment (whatever its amount may prove to be), which my
+friends here have been accustomed to make to my bankers’.’
+
+Mr Dorrit lost no [[Time|time]] in referring the delicate question to the
+county-widower, and finding that he had been accustomed to pay three
+hundred pounds a-year to the credit of Mrs General, arrived, without any
+severe strain on his arithmetic, at the conclusion that he himself must
+pay four. Mrs General being an article of that lustrous surface which
+suggests that it is worth any money, he made a formal proposal to be
+allowed to have the [[Honour|honour]] and pleasure of regarding her as a member of
+his family. Mrs General conceded that high privilege, and here she was.
+
+In person, Mrs General, including her skirts which had much to do with
+it, was of a dignified and imposing appearance; ample, rustling, gravely
+voluminous; always upright behind the proprieties. She might have
+been taken--had been taken--to the top of the Alps and the [[Bottom|bottom]] of
+Herculaneum, without disarranging a fold in her dress, or displacing
+a pin. If her countenance and hair had rather a floury appearance, as
+though from living in some transcendently genteel Mill, it was rather
+because she was a chalky creation altogether, than because she mended
+her complexion with violet powder, or had turned grey. If her eyes had
+no expression, it was probably because they had nothing to express. If
+she had few wrinkles, it was because her mind had never traced its name
+or any other [[Inscription|inscription]] on her face. A cool, waxy, blown-out woman, who
+had never lighted [[Well|well]].
+
+Mrs General had no opinions. Her way of forming a mind was to prevent it
+from forming opinions. She had a little circular set of mental grooves
+or rails on which she started little trains of other people’s opinions,
+which never overtook one another, and never got anywhere. Even her
+propriety could not dispute that there was impropriety in the world; but
+Mrs General’s way of getting rid of it was to put it out of sight, and
+make believe that there was no such thing. This was another of her ways
+of forming a mind--to cram all articles of difficulty into cupboards,
+lock them up, and say they had no existence. It was the easiest way,
+and, beyond all comparison, the properest.
+
+Mrs General was not to be told of anything shocking. Accidents,
+miseries, and offences, were never to be mentioned before her. Passion
+was to go to [[Sleep|sleep]] in the presence of Mrs General, and [[Blood|blood]] was to
+change to milk and [[Water|water]]. The little that was left in the world,
+when all these deductions were made, it was Mrs General’s province to
+varnish. In that formation process of hers, she dipped the smallest of
+brushes into the largest of pots, and varnished the surface of every
+object that came under consideration. The more cracked it was, the more
+Mrs General varnished it.
+
+There was varnish in Mrs General’s voice, varnish in Mrs General’s
+touch, an atmosphere of varnish round Mrs General’s figure. Mrs
+General’s [[Dreams|dreams]] ought to have been varnished--if she had any--lying
+asleep in the arms of the good Saint Bernard, with the feathery [[Snow|snow]]
+falling on his [[house]]-top.
+
+
+
+
 <span class="atom-split" data-atom="chapter_41_on_the_road--part_01" data-title="Little Dorrit — Chapter 3: On the [[Road (part 1)" data-chapter="On the Road" data-kind="excerpt"></span>
 
 
@@ -58880,6 +58729,157 @@ lay underneath it. When she got to that, she would musingly watch its
 running, as if, in the general vision, it might run dry, and show her
 the [[Prison|prison]] again, and herself, and the old room, and the old inmates,
 and the old visitors: all lasting realities that had never changed.
+
+
+
+
+<span class="atom-split" data-atom="chapter_42_a_letter_from_little_dorrit" data-title="Little Dorrit — Chapter 4: A Letter from Little Dorrit" data-chapter="A Letter from Little Dorrit" data-kind="chapter"></span>
+
+
+CHAPTER 4. A Letter from Little Dorrit
+
+
+Dear Mr Clennam,
+
+I write to you from my own room at [[Venice]], thinking you will be glad to
+hear from me. But I know you cannot be so glad to hear from me as I am
+to write to you; for everything about you is as you have been accustomed
+to see it, and you miss nothing--unless it should be me, which can only
+be for a very little while together and very seldom--while everything in
+my life is so strange, and I miss so much.
+
+When we were in Switzerland, which appears to have been years ago,
+though it was only weeks, I met young Mrs Gowan, who was on a mountain
+excursion like ourselves. She told me she was very [[Well|well]] and very happy.
+She sent you the message, by me, that she thanked you affectionately and
+would never forget you. She was quite confiding with me, and I loved her
+almost as soon as I spoke to her. But there is nothing singular in that;
+who could help loving so beautiful and winning a creature! I could not
+[[Wonder|wonder]] at any one loving her. No indeed.
+
+It will not make you uneasy on Mrs Gowan’s account, I [[Hope|hope]]--for I
+remember that you said you had the interest of a true friend in her--if
+I tell you that I wish she could have married some one better suited to
+her. Mr Gowan seems fond of her, and of course she is very fond of him,
+but I thought he was not earnest enough--I don’t mean in that respect--I
+mean in anything. I could not keep it out of my mind that if I was Mrs
+Gowan (what a change that would be, and how I must alter to become like
+her!) I should feel that I was rather lonely and lost, for the want of
+some one who was steadfast and firm in purpose. I even thought she felt
+this want a little, almost without knowing it. But mind you are not made
+uneasy by this, for she was ‘very [[Well|well]] and very happy.’ And she looked
+most beautiful.
+
+I expect to meet her again before long, and indeed have been expecting
+for some days past to see her here. I will ever be as good a friend to
+her as I can for your sake. Dear Mr Clennam, I dare say you think little
+of having been a friend to me when I had no other (not that I have any
+other now, for I have made no new friends), but I think much of it, and
+I never can forget it.
+
+I wish I knew--but it is best for no one to write to me--how Mr and Mrs
+Plornish prosper in the business which my dear father bought for them,
+and that old Mr Nandy lives happily with them and his two grandchildren,
+and sings all his [[songs]] over and over again. I cannot quite keep back
+the [[Tears|tears]] from my eyes when I think of my poor Maggy, and of the blank
+she must have felt at first, however kind they all are to her, without
+her Little Mother. Will you go and tell her, as a strict secret, with my
+[[Love|love]], that she never can have regretted our separation more than I have
+regretted it? And will you tell them all that I have thought of them
+every day, and that my heart is faithful to them everywhere? O, if you
+could know how faithful, you would almost pity me for being so far away
+and being so grand!
+
+You will be glad, I am sure, to know that my dear father is very [[Well|well]]
+in health, and that all these changes are highly beneficial to him, and
+that he is very different indeed from what he used to be when you used
+to see him. There is an improvement in my uncle too, I think, though he
+never complained of old, and never exults now. Fanny is very graceful,
+quick, and clever. It is natural to her to be a lady; she has adapted
+herself to our new fortunes with wonderful ease.
+
+This reminds me that I have not been able to do so, and that I sometimes
+almost [[Despair|despair]] of ever being able to do so. I find that I cannot learn.
+Mrs General is always with us, and we speak French and speak Italian,
+and she takes pains to form us in many ways. When I say we speak French
+and Italian, I mean they do. As for me, I am so slow that I scarcely
+get on at all. As soon as I begin to plan, and think, and try, all my
+planning, thinking, and trying go in old directions, and I begin to feel
+careful again about the expenses of the day, and about my dear father,
+and about my work, and then I remember with a start that there are no
+such cares left, and that in itself is so new and improbable that it
+sets me wandering again. I should not have the [[Courage|courage]] to mention this
+to any one but you.
+
+It is the same with all these new countries and wonderful sights.
+They are very beautiful, and they astonish me, but I am not collected
+enough--not familiar enough with myself, if you can quite understand
+what I mean--to have all the pleasure in them that I might have. What
+I knew before them, blends with them, too, so curiously. For instance,
+when we were among the [[Mountains|mountains]], I often felt (I hesitate to tell such
+an idle thing, dear Mr Clennam, even to you) as if the Marshalsea must
+be behind that great rock; or as if [[Mrs Clennam]]’s room where I have
+worked so many days, and where I first saw you, must be just beyond that
+[[Snow|snow]]. Do you remember one [[Night|night]] when I came with Maggy to your lodging
+in Covent [[Garden]]? That room I have often and often fancied I have seen
+before me, travelling along for miles by the side of our carriage, when
+I have looked out of the carriage-[[Window|window]] after dark. We were shut out
+that [[Night|night]], and sat at the iron gate, and walked about till morning.
+I often look up at the [[Stars|stars]], even from the balcony of this room, and
+believe that I am in the street again, shut out with Maggy. It is the
+same with people that I left in England.
+
+When I go about here in a gondola, I surprise myself looking into other
+gondolas as if I hoped to see them. It would overcome me with joy to
+see them, but I don’t think it would surprise me much, at first. In my
+fanciful times, I fancy that they might be anywhere; and I almost expect
+to see their dear faces on the bridges or the quays.
+
+Another difficulty that I have will seem very strange to you. It must
+seem very strange to any one but me, and does even to me: I often feel
+the old sad pity for--I need not write the word--for him. Changed as he
+is, and inexpressibly blest and thankful as I always am to know it, the
+old sorrowful feeling of compassion comes upon me sometimes with such
+strength that I want to put my arms round his neck, tell him how I [[Love|love]]
+him, and cry a little on his breast. I should be glad after that, and
+proud and happy. But I know that I must not do this; that he would not
+like it, that Fanny would be angry, that Mrs General would be amazed;
+and so I quiet myself. Yet in doing so, I struggle with the feeling that
+I have come to be at a distance from him; and that even in the midst of
+all the servants and attendants, he is deserted, and in want of me.
+
+Dear Mr Clennam, I have written a great deal about myself, but I must
+write a little more still, or what I wanted most of all to say in this
+weak letter would be left out of it. In all these foolish thoughts of
+mine, which I have been so hardy as to confess to you because I know you
+will understand me if anybody can, and will make more allowance for me
+than anybody else would if you cannot--in all these thoughts, there is
+one thought scarcely ever--never--out of my [[Memory|memory]], and that is that
+I [[Hope|hope]] you sometimes, in a quiet moment, have a thought for me. I must
+tell you that as to this, I have felt, ever since I have been away, an
+anxiety which I am very anxious to relieve. I have been afraid that you
+may think of me in a new light, or a new character. Don’t do that, I
+could not bear that--it would make me more unhappy than you can suppose.
+It would break my heart to believe that you thought of me in any way
+that would make me stranger to you than I was when you were so good to
+me. What I have to pray and entreat of you is, that you will never think
+of me as the daughter of a rich person; that you will never think of me
+as dressing any better, or living any better, than when you first
+knew me. That you will remember me only as the little shabby girl you
+protected with so much tenderness, from whose threadbare dress you have
+kept away the rain, and whose wet feet you have dried at your [[Fire|fire]].
+That you will think of me (when you think of me at all), and of my true
+affection and devoted gratitude, always without change, as of
+
+
+Your poor [[Child|child]],
+
+LITTLE DORRIT.
+
+
+P.S.--Particularly remember that you are not to be uneasy about Mrs
+Gowan. Her words were, ‘Very [[Well|well]] and very happy.’ And she looked most
+beautiful.
 
 
 

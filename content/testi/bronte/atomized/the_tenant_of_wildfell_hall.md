@@ -36971,4790 +36971,6 @@ edition of the works of the Brontë sisters.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="The Tenant of Wildfell Hall — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
-
-
-CHAPTER V
-
-
-
-
-
-It was about the close of the month, that, yielding at length to the
-
-urgent importunities of [[Rose]], I accompanied her in a visit to Wildfell
-
-Hall. To our surprise, we were ushered into a room where the first
-
-object that met the eye was a painter’s easel, with a table beside it
-
-covered with rolls of canvas, bottles of oil and varnish, palette,
-
-brushes, paints, &c. Leaning against the wall were several sketches in
-
-various stages of progression, and a few finished paintings—mostly of
-
-landscapes and figures.
-
-
-
-“I must make you welcome to my studio,” said Mrs. Graham; “there is no
-
-[[Fire|fire]] in the sitting-room to-day, and it is rather too cold to show you
-
-into a place with an empty grate.”
-
-
-
-And disengaging a couple of chairs from the artistical lumber that
-
-usurped them, she bid us be seated, and resumed her place beside the
-
-easel—not facing it exactly, but now and then glancing at the picture
-
-upon it while she conversed, and giving it an occasional touch with her
-
-brush, as if she found it impossible to wean her attention entirely
-
-from her occupation to fix it upon her guests. It was a view of
-
-Wildfell Hall, as seen at early morning from the field below, rising in
-
-dark relief against a sky of clear silvery blue, with a few red streaks
-
-on the horizon, faithfully drawn and coloured, and very elegantly and
-
-artistically handled.
-
-
-
-“I see your heart is in your work, Mrs. Graham,” observed I: “I must
-
-beg you to go on with it; for if you suffer our presence to interrupt
-
-you, we shall be constrained to regard ourselves as unwelcome
-
-intruders.”
-
-
-
-“Oh, no!” replied she, throwing her brush on to the table, as if
-
-startled into politeness. “I am not so beset with visitors but that I
-
-can readily spare a few minutes to the few that do favour me with their
-
-company.”
-
-
-
-“You have almost completed your painting,” said I, approaching to
-
-observe it more closely, and surveying it with a greater degree of
-
-admiration and delight than I cared to express. “A few more touches in
-
-the foreground will finish it, I should think. But why have you called
-
-it Fernley Manor, Cumberland, instead of Wildfell Hall, ——shire?” I
-
-asked, alluding to the name she had traced in small characters at the
-
-[[Bottom|bottom]] of the canvas.
-
-
-
-But immediately I was sensible of having committed an act of
-
-impertinence in so doing; for she coloured and hesitated; but after a
-
-moment’s pause, with a kind of desperate frankness, she replied:—
-
-
-
-“Because I have friends—acquaintances at least—in the world, from whom
-
-I [[Desire|desire]] my present abode to be concealed; and as they might see the
-
-picture, and might possibly recognise the style in spite of the false
-
-initials I have put in the corner, I take the precaution to give a
-
-false name to the place also, in order to put them on a wrong scent, if
-
-they should attempt to trace me out by it.”
-
-
-
-“Then you don’t intend to keep the picture?” said I, anxious to say
-
-anything to change the subject.
-
-
-
-“No; I cannot afford to paint for my own amusement.”
-
-
-
-“Mamma sends all her pictures to [[London]],” said [[Arthur]]; “and somebody
-
-sells them for her there, and sends us the money.”
-
-
-
-In looking round upon the other pieces, I remarked a pretty [[Sketch|sketch]] of
-
-Lindenhope from the top of the [[Hill|hill]]; another view of the old hall
-
-basking in the sunny haze of a quiet [[Summer|summer]] afternoon; and a simple but
-
-striking little picture of a [[Child|child]] brooding, with looks of silent but
-
-deep and sorrowful regret, over a handful of withered [[Flowers|flowers]], with
-
-glimpses of dark low hills and autumnal fields behind it, and a dull
-
-beclouded sky above.
-
-
-
-“You see there is a sad dearth of subjects,” observed the fair [[artist]].
-
-“I took the old hall once on a moonlight [[Night|night]], and I suppose I must
-
-take it again on a snowy [[Winter|winter]]’s day, and then again on a dark cloudy
-
-evening; for I really have nothing else to paint. I have been told that
-
-you have a fine view of the sea somewhere in the neighbourhood. Is it
-
-true?—and is it within walking distance?”
-
-
-
-“Yes, if you don’t object to walking four miles—or nearly so—little
-
-short of eight miles, there and back—and over a somewhat rough,
-
-fatiguing [[Road|road]].”
-
-
-
-“In what direction does it lie?”
-
-
-
-I described the situation as [[Well|well]] as I could, and was entering upon an
-
-explanation of the various roads, lanes, and fields to be traversed in
-
-order to reach it, the goings straight on, and turnings to the right
-
-and the left, when she checked me with,—
-
-
-
-“Oh, stop! don’t tell me now: I shall forget every word of your
-
-directions before I require them. I shall not think about going till
-
-next [[Spring|spring]]; and then, perhaps, I may trouble you. At present we have
-
-the [[Winter|winter]] before us, and—”
-
-
-
-She suddenly paused, with a suppressed exclamation, started up from her
-
-seat, and saying, “Excuse me one moment,” hurried from the room, and
-
-shut the door behind her.
-
-
-
-Curious to see what had startled her so, I looked towards the
-
-[[Window|window]]—for her eyes had been carelessly fixed upon it the moment
-
-before—and just beheld the skirts of a man’s coat vanishing behind a
-
-large holly-bush that stood between the [[Window|window]] and the porch.
-
-
-
-“It’s mamma’s friend,” said [[Arthur]].
-
-
-
-[[Rose]] and I looked at each other.
-
-
-
-“I don’t know what to make of her at all,” whispered [[Rose]].
-
-
-
-The [[Child|child]] looked at her in [[Grave|grave]] surprise. She straightway began to
-
-talk to him on indifferent matters, while I amused myself with looking
-
-at the pictures. There was one in an obscure corner that I had not
-
-before observed. It was a little [[Child|child]], seated on the grass with its
-
-lap full of [[Flowers|flowers]]. The tiny features and large blue eyes, smiling
-
-through a shock of light brown curls, shaken over the forehead as it
-
-bent above its treasure, bore sufficient resemblance to those of the
-
-young gentleman before me to proclaim it a portrait of [[Arthur]] Graham in
-
-his early infancy.
-
-
-
-In taking this up to bring it to the light, I discovered another behind
-
-it, with its face to the wall. I ventured to take that up too. It was
-
-the portrait of a gentleman in the full prime of youthful
-
-manhood—handsome enough, and not badly executed; but if done by the
-
-same hand as the others, it was evidently some years before; for there
-
-was far more careful minuteness of detail, and less of that freshness
-
-of colouring and [[Freedom|freedom]] of handling that delighted and surprised me in
-
-them. Nevertheless, I surveyed it with considerable interest. There was
-
-a certain individuality in the features and expression that stamped it,
-
-at once, a successful likeness. The bright blue eyes regarded the
-
-spectator with a kind of lurking drollery—you almost expected to see
-
-them wink; the lips—a little too voluptuously full—seemed ready to
-
-break into a smile; the warmly-tinted cheeks were embellished with a
-
-luxuriant growth of reddish whiskers; while the bright chestnut hair,
-
-clustering in abundant, wavy curls, trespassed too much upon the
-
-forehead, and seemed to intimate that the owner thereof was prouder of
-
-his [[Beauty|beauty]] than his intellect—as, perhaps, he had reason to be; and yet
-
-he looked no [[Fool|fool]].
-
-
-
-I had not had the portrait in my hands two minutes before the fair
-
-[[artist]] returned.
-
-
-
-“Only some one come about the pictures,” said she, in apology for her
-
-abrupt departure: “I told him to wait.”
-
-
-
-“I [[Fear|fear]] it will be considered an act of impertinence,” I said “to
-
-presume to look at a picture that the [[artist]] has turned to the wall;
-
-but may I ask—”
-
-
-
-“It _is_ an act of very great impertinence, sir; and therefore I beg
-
-you will ask nothing about it, for your curiosity will not be
-
-gratified,” replied she, attempting to cover the tartness of her rebuke
-
-with a smile; but I could see, by her flushed cheek and kindling eye,
-
-that she was seriously annoyed.
-
-
-
-“I was only going to ask if you had painted it yourself,” said I,
-
-sulkily resigning the picture into her hands; for without a grain of
-
-ceremony she took it from me; and quickly restoring it to the dark
-
-corner, with its face to the wall, placed the other against it as
-
-before, and then turned to me and laughed.
-
-
-
-But I was in no [[Humour|humour]] for jesting. I carelessly turned to the [[Window|window]],
-
-and stood looking out upon the desolate [[Garden|garden]], leaving her to talk to
-
-[[Rose]] for a minute or two; and then, telling my sister it was [[Time|time]] to
-
-go, shook hands with the little gentleman, coolly bowed to the lady,
-
-and moved towards the door. But, having bid adieu to [[Rose]], Mrs. Graham
-
-presented her hand to me, saying, with a soft voice, and by no means a
-
-disagreeable smile,—“Let not the sun go down upon your wrath, Mr.
-
-Markham. I’m sorry I offended you by my abruptness.”
-
-
-
-When a lady condescends to apologise, there is no keeping one’s anger,
-
-of course; so we parted good friends for once; and _this_ [[Time|time]] I
-
-squeezed her hand with a cordial, not a spiteful pressure.
-
-
-
-
-<span class="atom-split" data-atom="chapter_08" data-title="The Tenant of Wildfell Hall — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
-
-
-CHAPTER VIII
-
-
-
-
-
-Six weeks had passed away. It was a splendid morning about the close of
-
-June. Most of the hay was cut, but the last week had been very
-
-unfavourable; and now that fine weather was come at last, being
-
-determined to make the most of it, I had gathered all hands together
-
-into the hay-field, and was working away myself, in the midst of them,
-
-in my shirt-sleeves, with a light, shady straw hat on my head, catching
-
-up armfuls of moist, reeking grass, and shaking it out to the four
-
-winds of heaven, at the head of a goodly file of servants and
-
-hirelings—intending so to labour, from morning till [[Night|night]], with as much
-
-zeal and assiduity as I could look for from any of them, as [[Well|well]] to
-
-prosper the work by my own exertion as to animate the workers by my
-
-example—when lo! my resolutions were overthrown in a moment, by the
-
-simple fact of my brother’s running up to me and putting into my hand a
-
-small parcel, just arrived from [[London]], which I had been for some [[Time|time]]
-
-expecting. I tore off the cover, and disclosed an elegant and portable
-
-edition of “Marmion.”
-
-
-
-“I guess I know who that’s for,” said Fergus, who stood looking on
-
-while I complacently examined the volume. “That’s for Miss Eliza, now.”
-
-
-
-He pronounced this with a tone and look so prodigiously knowing, that I
-
-was glad to contradict him.
-
-
-
-“You’re wrong, my lad,” said I; and, taking up my coat, I deposited the
-
-book in one of its pockets, and then put it on (_i.e._ the coat). “Now
-
-come here, you idle dog, and make yourself useful for once,” I
-
-continued. “Pull off your coat, and take my place in the field till I
-
-come back.”
-
-
-
-“Till you come back?—and where are you going, pray?”
-
-
-
-“No matter—_where_—the _when_ is all that concerns you;—and I shall be
-
-back by dinner, at least.”
-
-
-
-“Oh—oh! and I’m to labour away till then, am I?—and to keep all these
-
-fellows hard at it besides? [[Well]], [[Well|well]]! I’ll submit—for once in a
-
-way.—Come, my lads, you must look sharp: _I_’m come to help you
-
-now:—and woe be to that man, or woman either, that pauses for a moment
-
-amongst you—whether to stare about him, to scratch his head, or blow
-
-his nose—no pretext will serve—nothing but work, work, work in the
-
-sweat of your face,” &c., &c.
-
-
-
-Leaving him thus haranguing the people, more to their amusement than
-
-edification, I returned to the [[house]], and, having made some alteration
-
-in my toilet, hastened away to Wildfell Hall, with the book in my
-
-pocket; for it was destined for the shelves of Mrs. Graham.
-
-
-
-“What! then had she and you got on so [[Well|well]] together as to come to the
-
-giving and receiving of presents?”—Not precisely, old buck; this was my
-
-first experiment in that line; and I was very anxious to see the result
-
-of it.
-
-
-
-We had met several times since the —— Bay excursion, and I had found
-
-she was not averse to my company, provided I confined my conversation
-
-to the discussion of abstract matters, or topics of common
-
-interest;—the moment I touched upon the sentimental or the
-
-complimentary, or made the slightest approach to tenderness in word or
-
-look, I was not only punished by an immediate change in her manner at
-
-the [[Time|time]], but doomed to find her more cold and distant, if not entirely
-
-inaccessible, when next I sought her company. This circumstance did not
-
-greatly disconcert me, however, because I attributed it, not so much to
-
-any dislike of my person, as to some absolute resolution against a
-
-second [[Marriage|marriage]] formed prior to the [[Time|time]] of our acquaintance, whether
-
-from excess of affection for her late husband, or because she had had
-
-enough of him and the matrimonial state together. At first, indeed, she
-
-had seemed to take a pleasure in mortifying my [[Vanity|vanity]] and crushing my
-
-presumption—relentlessly nipping off bud by bud as they ventured to
-
-appear; and then, I confess, I was deeply wounded, though, at the same
-
-[[Time|time]], stimulated to seek [[Revenge|revenge]];—but latterly finding, beyond a [[Doubt|doubt]],
-
-that I was not that empty-headed coxcomb she had first supposed me, she
-
-had repulsed my modest advances in quite a different spirit. It was a
-
-kind of serious, almost sorrowful displeasure, which I soon learnt
-
-carefully to avoid awakening.
-
-
-
-“Let me first establish my position as a friend,” thought I—“the patron
-
-and playfellow of her son, the sober, solid, plain-dealing friend of
-
-herself, and then, when I have made myself fairly necessary to her
-
-comfort and enjoyment in life (as I believe I can), we’ll see what next
-
-may be effected.”
-
-
-
-So we talked about painting, poetry, and music, theology, geology, and
-
-[[philosophy]]: once or twice I lent her a book, and once she lent me one
-
-in return: I met her in her walks as often as I could; I came to her
-
-[[house]] as often as I dared. My first pretext for invading the sanctum
-
-was to bring [[Arthur]] a little waddling puppy of which Sancho was the
-
-father, and which delighted the [[Child|child]] beyond expression, and,
-
-consequently, could not fail to please his mamma. My second was to
-
-bring him a book, which, knowing his mother’s particularity, I had
-
-carefully selected, and which I submitted for her approbation before
-
-presenting it to him. Then, I brought her some plants for her [[Garden|garden]],
-
-in my sister’s name—having previously persuaded [[Rose]] to send them. Each
-
-of these times I inquired after the picture she was painting from the
-
-[[Sketch|sketch]] taken on the cliff, and was admitted into the studio, and asked
-
-my opinion or advice respecting its progress.
-
-
-
-My last visit had been to return the book she had lent me; and then it
-
-was that, in casually discussing the poetry of Sir Walter Scott, she
-
-had expressed a wish to see “Marmion,” and I had conceived the
-
-presumptuous idea of making her a present of it, and, on my return
-
-[[Home|home]], instantly sent for the smart little volume I had this morning
-
-received. But an apology for invading the hermitage was still
-
-necessary; so I had furnished myself with a blue morocco collar for
-
-[[Arthur]]’s little dog; and that being given and received, with much more
-
-joy and gratitude, on the part of the receiver, than the worth of the
-
-gift or the selfish motive of the giver deserved, I ventured to ask
-
-Mrs. Graham for one more look at the picture, if it was still there.
-
-
-
-“Oh, yes! come in,” said she (for I had met them in the [[Garden|garden]]). “It is
-
-finished and framed, all ready for sending away; but give me your last
-
-opinion, and if you can suggest any further improvement, it shall
-
-be—duly considered, at least.”
-
-
-
-The picture was strikingly beautiful; it was the very scene itself,
-
-transferred as if by [[Magic|magic]] to the canvas; but I expressed my
-
-approbation in guarded terms, and few words, for [[Fear|fear]] of displeasing
-
-her. She, however, attentively watched my looks, and her [[artist]]’s [[Pride|pride]]
-
-was gratified, no [[Doubt|doubt]], to read my heartfelt admiration in my eyes.
-
-But, while I gazed, I thought upon the book, and wondered how it was to
-
-be presented. My heart failed me; but I determined not to be such a
-
-[[Fool|fool]] as to come away without having made the attempt. It was useless
-
-waiting for an opportunity, and useless trying to concoct a speech for
-
-the occasion. The more plainly and naturally the thing was done, the
-
-better, I thought; so I just looked out of the [[Window|window]] to screw up my
-
-[[Courage|courage]], and then pulled out the book, turned round, and put it into
-
-her hand, with this short explanation:
-
-
-
-“You were wishing to see “Marmion,” Mrs. Graham; and here it is, if you
-
-will be so kind as to take it.”
-
-
-
-A momentary blush suffused her face—perhaps, a blush of sympathetic
-
-shame for such an awkward style of presentation: she gravely examined
-
-the volume on both sides; then silently turned over the [[Leaves|leaves]],
-
-knitting her brows the while, in serious cogitation; then closed the
-
-book, and turning from it to me, quietly asked the price of it—I felt
-
-the hot [[Blood|blood]] rush to my face.
-
-
-
-“I’m sorry to offend you, Mr. Markham,” said she, “but unless I pay for
-
-the book, I cannot take it.” And she laid it on the table.
-
-
-
-“Why cannot you?”
-
-
-
-“Because,”—she paused, and looked at the carpet.
-
-
-
-“Why cannot you?” I repeated, with a degree of irascibility that roused
-
-her to lift her eyes and look me steadily in the face.
-
-
-
-“Because I don’t like to put myself under obligations that I can never
-
-repay—I _am_ obliged to you already for your kindness to my son; but
-
-his grateful affection and your own good feelings must reward you for
-
-that.”
-
-
-
-“Nonsense!” ejaculated I.
-
-
-
-She turned her eyes on me again, with a look of quiet, [[Grave|grave]] surprise,
-
-that had the effect of a rebuke, whether intended for such or not.
-
-
-
-“Then you won’t take the book?” I asked, more mildly than I had yet
-
-spoken.
-
-
-
-“I will gladly take it, if you will let me pay for it.” I told her the
-
-exact price, and the cost of the carriage besides, in as calm a tone as
-
-I could command—for, in fact, I was ready to weep with disappointment
-
-and vexation.
-
-
-
-She produced her purse, and coolly counted out the money, but hesitated
-
-to put it into my hand. Attentively regarding me, in a tone of soothing
-
-softness, she observed,—“You think yourself insulted, Mr Markham—I wish
-
-I could make you understand that—that I—”
-
-
-
-“I do understand you, perfectly,” I said. “You think that if you were
-
-to accept that trifle from me now, I should presume upon it hereafter;
-
-but you are mistaken:—if you will only oblige me by taking it, believe
-
-me, I shall build no hopes upon it, and consider this no precedent for
-
-future favours:—and it is nonsense to talk about putting yourself under
-
-obligations to me when you must know that in such a case the obligation
-
-is entirely on my side,—the favour on yours.”
-
-
-
-“[[Well]], then, I’ll take you at your word,” she answered, with a most
-
-angelic smile, returning the odious money to her purse—“but
-
-_remember!_”
-
-
-
-“I will remember—what I have said;—but do not you punish my presumption
-
-by withdrawing your [[Friendship|friendship]] entirely from me,—or expect me to atone
-
-for it by being _more_ distant than before,” said I, extending my hand
-
-to take leave, for I was too much excited to remain.
-
-
-
-“[[Well]], then! let us be as we were,” replied she, frankly placing her
-
-hand in mine; and while I held it there, I had much difficulty to
-
-refrain from pressing it to my lips;—but that would be suicidal
-
-[[Madness|madness]]: I had been bold enough already, and this premature offering
-
-had [[Well|well]]-nigh given the [[Death|death]]-blow to my hopes.
-
-
-
-It was with an agitated, burning heart and brain that I hurried
-
-homewards, regardless of that scorching noonday sun—forgetful of
-
-everything but her I had just left—regretting nothing but her
-
-impenetrability, and my own precipitancy and want of tact—fearing
-
-nothing but her hateful resolution, and my inability to overcome
-
-it—hoping nothing—but halt,—I will not bore you with my conflicting
-
-hopes and fears—my serious cogitations and resolves.
-
-
-
-
-<span class="atom-split" data-atom="chapter_10" data-title="The Tenant of Wildfell Hall — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
-
-
-CHAPTER X
-
-
-
-
-
-When all were gone, I learnt that the vile slander had indeed been
-
-circulated throughout the company, in the very presence of the victim.
-
-[[Rose]], however, vowed she did not and would not believe it, and my
-
-mother made the same declaration, though not, I [[Fear|fear]], with the same
-
-amount of real, unwavering [[Incredulity|incredulity]]. It seemed to dwell continually
-
-on her mind, and she kept irritating me from [[Time|time]] to [[Time|time]] by such
-
-expressions as—“Dear, dear, who would have thought it!—[[Well]]! I always
-
-thought there was something odd about her.—You see what it is for women
-
-to affect to be different to other people.” And once it was,—
-
-
-
-“I misdoubted that appearance of mystery from the very first—I
-
-_thought_ there would no good come of it; but this is a sad, sad
-
-business, to be sure!”
-
-
-
-“Why, mother, you said you didn’t believe these tales,” said Fergus.
-
-
-
-“No more I do, my dear; but then, you know, there must be some
-
-foundation.”
-
-
-
-“The foundation is in the wickedness and falsehood of the world,” said
-
-I, “and in the fact that Mr. Lawrence has been seen to go that way once
-
-or twice of an evening—and the village gossips say he goes to pay his
-
-addresses to the strange lady, and the scandal-mongers have greedily
-
-seized the rumour, to make it the basis of their own infernal
-
-structure.”
-
-
-
-“[[Well]], but, Gilbert, there must be something in her _manner_ to
-
-countenance such reports.”
-
-
-
-“Did _you_ see anything in her manner?”
-
-
-
-“No, certainly; but then, you know, I always said there was something
-
-strange about her.”
-
-
-
-I believe it was on that very evening that I ventured on another
-
-invasion of Wildfell Hall. From the [[Time|time]] of our party, which was
-
-upwards of a week ago, I had been making daily efforts to meet its
-
-mistress in her walks; and always disappointed (she must have managed
-
-it so on purpose), had nightly kept revolving in my mind some pretext
-
-for another call. At length I concluded that the separation could be
-
-endured no longer (by this [[Time|time]], you will see, I was pretty far gone);
-
-and, taking from the book-case an old volume that I thought she might
-
-be interested in, though, from its unsightly and somewhat dilapidated
-
-condition, I had not yet ventured to offer it for perusal, I hastened
-
-away,—but not without sundry misgivings as to how she would receive me,
-
-or how I could summon [[Courage|courage]] to present myself with so slight an
-
-excuse. But, perhaps, I might see her in the field or the [[Garden|garden]], and
-
-then there would be no great difficulty: it was the formal knocking at
-
-the door, with the prospect of being gravely ushered in by Rachel, to
-
-the presence of a surprised, uncordial mistress, that so greatly
-
-disturbed me.
-
-
-
-My wish, however, was not gratified. Mrs. Graham herself was not to be
-
-seen; but there was [[Arthur]] playing with his frolicsome little dog in
-
-the [[Garden|garden]]. I looked over the gate and called him to me. He wanted me
-
-to come in; but I told him I could not without his mother’s leave.
-
-
-
-“I’ll go and ask her,” said the [[Child|child]].
-
-
-
-“No, no, [[Arthur]], you mustn’t do that; but if she’s not engaged, just
-
-ask her to come here a minute. Tell her I want to speak to her.”
-
-
-
-He ran to perform my bidding, and quickly returned with his mother. How
-
-lovely she looked with her dark ringlets streaming in the light [[Summer|summer]]
-
-breeze, her fair cheek slightly flushed, and her countenance radiant
-
-with smiles. Dear [[Arthur]]! what did I not owe to you for this and every
-
-other happy meeting? Through him I was at once delivered from all
-
-formality, and terror, and constraint. In [[Love|love]] affairs, there is no
-
-mediator like a merry, simple-hearted [[Child|child]]—ever ready to cement
-
-divided hearts, to span the unfriendly gulf of custom, to melt the ice
-
-of cold reserve, and overthrow the separating walls of dread formality
-
-and [[Pride|pride]].
-
-
-
-“[[Well]], Mr. Markham, what is it?” said the young mother, accosting me
-
-with a pleasant smile.
-
-
-
-“I want you to look at this book, and, if you please, to take it, and
-
-peruse it at your leisure. I make no apology for calling you out on
-
-such a lovely evening, though it _be_ for a matter of no greater
-
-importance.”
-
-
-
-“Tell him to come in, mamma,” said [[Arthur]].
-
-
-
-“Would you like to come in?” asked the lady.
-
-
-
-“Yes; I should like to see your improvements in the [[Garden|garden]].”
-
-
-
-“And how your sister’s roots have prospered in my charge,” added she,
-
-as she opened the gate.
-
-
-
-And we sauntered through the [[Garden|garden]], and talked of the [[Flowers|flowers]], the
-
-trees, and the book, and then of other things. The evening was kind and
-
-genial, and so was my companion. By degrees I waxed more warm and
-
-tender than, perhaps, I had ever been before; but still I said nothing
-
-tangible, and she attempted no repulse, until, in passing a moss
-
-[[Rose|rose]]-tree that I had brought her some weeks since, in my sister’s name,
-
-she plucked a beautiful half-open bud and bade me give it to [[Rose]].
-
-
-
-“May I not keep it myself?” I asked.
-
-
-
-“No; but here is another for you.”
-
-
-
-Instead of taking it quietly, I likewise took the hand that offered it,
-
-and looked into her face. She let me hold it for a moment, and I saw a
-
-flash of ecstatic brilliance in her eye, a glow of glad excitement on
-
-her face—I thought my hour of victory was come—but instantly a painful
-
-recollection seemed to flash upon her; a cloud of anguish darkened her
-
-brow, a marble paleness blanched her cheek and lip; there seemed a
-
-moment of inward conflict, and, with a sudden effort, she withdrew her
-
-hand, and retreated a step or two back.
-
-
-
-“Now, Mr. Markham,” said she, with a kind of desperate calmness, “I
-
-must tell you plainly that I cannot do with this. I like your company,
-
-because I am [[Alone|alone]] here, and your conversation pleases me more than
-
-that of any other person; but if you cannot be content to regard me as
-
-a friend—a plain, cold, motherly, or sisterly friend—I must beg you to
-
-leave me now, and let me [[Alone|alone]] hereafter: in fact, we must be strangers
-
-for the future.”
-
-
-
-“I will, then—be your friend, or brother, or anything you wish, if you
-
-will only let me continue to see you; but tell me why I cannot be
-
-anything more?”
-
-
-
-There was a perplexed and thoughtful pause.
-
-
-
-“Is it in consequence of some rash vow?”
-
-
-
-“It is something of the kind,” she answered. “Some day I may tell you,
-
-but at present you had better leave me; and never, Gilbert, put me to
-
-the painful necessity of repeating what I have just now said to you,”
-
-she earnestly added, giving me her hand in serious kindness. How sweet,
-
-how musical my own name sounded in her mouth!
-
-
-
-“I will not,” I replied. “But you pardon _this_ offence?”
-
-
-
-“On condition that you never repeat it.”
-
-
-
-“And may I come to see you now and then?”
-
-
-
-“Perhaps—occasionally; provided you never abuse the privilege.”
-
-
-
-“I make no empty promises, but you shall see.”
-
-
-
-“The moment you do our intimacy is at an end, that’s all.”
-
-
-
-“And will you always call me Gilbert? It sounds more sisterly, and it
-
-will serve to remind me of our contract.”
-
-
-
-She smiled, and once more bid me go; and at length I judged it prudent
-
-to obey, and she re-entered the [[house]] and I went down the [[Hill|hill]]. But as
-
-I went the tramp of horses’ hoofs fell on my ear, and broke the
-
-stillness of the dewy evening; and, looking towards the lane, I saw a
-
-solitary equestrian coming up. Inclining to dusk as it was, I knew him
-
-at a glance: it was Mr. Lawrence on his grey pony. I flew across the
-
-field, leaped the stone fence, and then walked down the lane to meet
-
-him. On seeing me, he suddenly drew in his little steed, and seemed
-
-inclined to turn back, but on second thought apparently judged it
-
-better to continue his course as before. He accosted me with a slight
-
-bow, and, edging close to the wall, endeavoured to pass on; but I was
-
-not so minded. Seizing his [[Horse|horse]] by the bridle, I exclaimed,—“Now,
-
-Lawrence, I will have this mystery explained! Tell me where you are
-
-going, and what you mean to do—at once, and distinctly!”
-
-
-
-“Will you take your hand off the bridle?” said he, quietly—“you’re
-
-hurting my pony’s mouth.”
-
-
-
-“You and your pony be—”
-
-
-
-“What makes you so coarse and brutal, Markham? I’m quite ashamed of
-
-you.”
-
-
-
-“You answer my questions—before you leave this spot! I _will_ know what
-
-you mean by this perfidious duplicity!”
-
-
-
-“I shall answer no questions till you let go the bridle,—if you stand
-
-till morning.”
-
-
-
-“Now then,” said I, unclosing my hand, but still standing before him.
-
-
-
-“Ask me some other [[Time|time]], when you can speak like a gentleman,” returned
-
-he, and he made an effort to pass me again; but I quickly re-captured
-
-the pony, scarce less astonished than its master at such uncivil usage.
-
-
-
-“Really, Mr. Markham, this is _too_ much!” said the latter. “Can I not
-
-go to see my tenant on matters of business, without being assaulted in
-
-this manner by—?”
-
-
-
-“This is no [[Time|time]] for business, sir!—I’ll tell you, now, what I think of
-
-your conduct.”
-
-
-
-“You’d better defer your opinion to a more convenient season,”
-
-interrupted he in a low tone—“here’s the vicar.” And, in [[Truth|truth]], the
-
-vicar was just behind me, plodding homeward from some remote corner of
-
-his parish. I immediately released the squire; and he went on his way,
-
-saluting Mr. Millward as he passed.
-
-
-
-“What! quarrelling, Markham?” cried the latter, addressing himself to
-
-me,—“and about that young widow, I [[Doubt|doubt]]?” he added, reproachfully
-
-shaking his head. “But let me tell you, young man” (here he put his
-
-face into mine with an important, confidential air), “she’s not worth
-
-it!” and he confirmed the assertion by a solemn nod.
-
-
-
-“MR. MILLWARD,” I exclaimed, in a tone of wrathful menace that made the
-
-reverend gentleman look round—aghast—astounded at such unwonted
-
-insolence, and stare me in the face, with a look that plainly said,
-
-“What, this to me!” But I was too indignant to apologise, or to speak
-
-another word to him: I turned away, and hastened homewards, descending
-
-with rapid strides the steep, rough lane, and leaving him to follow as
-
-he pleased.
-
-
-
-
-<span class="atom-split" data-atom="chapter_11" data-title="The Tenant of Wildfell Hall — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
-
-
-CHAPTER XI
-
-
-
-
-
-You must suppose about three weeks passed over. Mrs. Graham and I were
-
-now established friends—or brother and sister, as we rather chose to
-
-consider ourselves. She called me Gilbert, by my express [[Desire|desire]], and I
-
-called her [[Helen]], for I had seen that name written in her books. I
-
-seldom attempted to see her above twice a week; and still I made our
-
-meetings appear the result of accident as often as I could—for I found
-
-it necessary to be extremely careful—and, altogether, I behaved with
-
-such exceeding propriety that she never had occasion to reprove me
-
-once. Yet I could not but perceive that she was at times unhappy and
-
-dissatisfied with herself or her position, and truly I myself was not
-
-quite contented with the latter: this assumption of brotherly
-
-nonchalance was very hard to sustain, and I often felt myself a most
-
-confounded hypocrite with it all; I saw too, or rather I felt, that, in
-
-spite of herself, “I was not indifferent to her,” as the [[Novel|novel]] heroes
-
-modestly express it, and while I thankfully enjoyed my present good
-
-fortune, I could not fail to wish and [[Hope|hope]] for something better in
-
-future; but, of course, I kept such [[Dreams|dreams]] entirely to myself.
-
-
-
-“Where are you going, Gilbert?” said [[Rose]], one evening, shortly after
-
-tea, when I had been busy with the farm all day.
-
-
-
-“To take a walk,” was the reply.
-
-
-
-“Do you always brush your hat so carefully, and do your hair so nicely,
-
-and put on such smart new gloves when you take a walk?”
-
-
-
-“Not always.”
-
-
-
-“You’re going to Wildfell Hall, aren’t you?”
-
-
-
-“What makes you think so?”
-
-
-
-“Because you look as if you were—but I wish you wouldn’t go so often.”
-
-
-
-“Nonsense, [[Child|child]]! I don’t go once in six weeks—what do you mean?”
-
-
-
-“[[Well]], but if I were you, I wouldn’t have so much to do with Mrs.
-
-Graham.”
-
-
-
-“Why, [[Rose]], are you, too, giving in to the prevailing opinion?”
-
-
-
-“No,” returned she, hesitatingly—“but I’ve heard so much about her
-
-lately, both at the Wilsons’ and the vicarage;—and besides, mamma says,
-
-if she were a proper person she would not be living there by
-
-herself—and don’t you remember last [[Winter|winter]], Gilbert, all that about the
-
-false name to the picture; and how she explained it—saying she had
-
-friends or acquaintances from whom she wished her present residence to
-
-be concealed, and that she was afraid of their tracing her out;—and
-
-then, how suddenly she started up and left the room when that person
-
-came—whom she took good care not to let us catch a glimpse of, and who
-
-[[Arthur]], with such an air of mystery, told us was his mamma’s friend?”
-
-
-
-“Yes, [[Rose]], I remember it all; and I can forgive your uncharitable
-
-conclusions; for, perhaps, if I did not know her myself, I should put
-
-all these things together, and believe the same as you do; but thank
-
-God, I do know her; and I should be unworthy the name of a man, if I
-
-could believe anything that was said against her, unless I heard it
-
-from her own lips.—I should as soon believe such things of you, [[Rose]].”
-
-
-
-“Oh, Gilbert!”
-
-
-
-“[[Well]], do you think I _could_ believe anything of the kind,—whatever
-
-the Wilsons and Millwards dared to whisper?”
-
-
-
-“I should [[Hope|hope]] _not_ indeed!”
-
-
-
-“And why not?—Because I know you—[[Well]], and I know her just as [[Well|well]].”
-
-
-
-“Oh, no! you know nothing of her former life; and last year, at this
-
-[[Time|time]], you did not know that such a person existed.”
-
-
-
-“No matter. There is such a thing as looking through a person’s eyes
-
-into the heart, and learning more of the height, and breadth, and depth
-
-of another’s [[Soul|soul]] in one hour than it might take you a lifetime to
-
-discover, if he or she were not disposed to reveal it, or if you had
-
-not the sense to understand it.”
-
-
-
-“Then you _are_ going to see her this evening?”
-
-
-
-“To be sure I am!”
-
-
-
-“But what would mamma say, Gilbert!”
-
-
-
-“Mamma needn’t know.”
-
-
-
-“But she must know some [[Time|time]], if you go on.”
-
-
-
-“Go on!—there’s no going on in the matter. Mrs. Graham and I are two
-
-friends—and will be; and no man breathing shall hinder it,—or has a
-
-right to interfere between us.”
-
-
-
-“But if you knew how they talk you would be more careful, for her sake
-
-as [[Well|well]] as for your own. Jane Wilson thinks your visits to the old hall
-
-but another proof of her depravity—”
-
-
-
-“Confound Jane Wilson!”
-
-
-
-“And Eliza Millward is quite grieved about you.”
-
-
-
-“I [[Hope|hope]] she is.”
-
-
-
-“But I wouldn’t, if I were you.”
-
-
-
-“Wouldn’t what?—How do they know that I go there?”
-
-
-
-“There’s nothing hid from them: they spy out everything.”
-
-
-
-“Oh, I never thought of this!—And so they dare to turn my [[Friendship|friendship]]
-
-into food for further scandal against her!—That proves the falsehood of
-
-their other lies, at all events, if any proof were wanting.—Mind you
-
-contradict them, [[Rose]], whenever you can.”
-
-
-
-“But they don’t speak openly to me about such things: it is only by
-
-hints and innuendoes, and by what I hear others say, that I knew what
-
-they think.”
-
-
-
-“[[Well]], then, I won’t go to-day, as it’s getting latish. But oh, deuce
-
-take their cursed, envenomed tongues!” I muttered, in the bitterness of
-
-my [[Soul|soul]].
-
-
-
-And just at that moment the vicar entered the room: we had been too
-
-much absorbed in our conversation to observe his knock. After his
-
-customary cheerful and fatherly greeting of [[Rose]], who was rather a
-
-favourite with the old gentleman, he turned somewhat sternly to me:—
-
-
-
-“[[Well]], sir!” said he, “you’re quite a stranger. It is—let—me—see,” he
-
-continued, slowly, as he deposited his ponderous bulk in the arm-chair
-
-that [[Rose]] officiously brought towards him; “it is just—six-weeks—by my
-
-reckoning, since you darkened—my—door!” He spoke it with emphasis, and
-
-struck his stick on the floor.
-
-
-
-“Is it, sir?” said I.
-
-
-
-“Ay! It is so!” He added an affirmatory nod, and continued to gaze upon
-
-me with a kind of irate solemnity, holding his substantial stick
-
-between his knees, with his hands clasped upon its head.
-
-
-
-“I have been busy,” I said, for an apology was evidently demanded.
-
-
-
-“Busy!” repeated he, derisively.
-
-
-
-“Yes, you know I’ve been getting in my hay; and now the harvest is
-
-beginning.”
-
-
-
-“Humph!”
-
-
-
-Just then my mother came in, and created a diversion in my favour by
-
-her loquacious and animated welcome of the reverend guest. She
-
-regretted deeply that he had not come a little earlier, in [[Time|time]] for
-
-tea, but offered to have some immediately prepared, if he would do her
-
-the favour to partake of it.
-
-
-
-“Not any for me, I thank you,” replied he; “I shall be at [[Home|home]] in a few
-
-minutes.”
-
-
-
-“Oh, but do stay and take a little! it will be ready in five minutes.”
-
-
-
-But he rejected the offer with a majestic wave of the hand.
-
-
-
-“I’ll tell you what I’ll take, Mrs. Markham,” said he: “I’ll take a
-
-glass of your excellent ale.”
-
-
-
-“With pleasure!” cried my mother, proceeding with alacrity to pull the
-
-bell and order the favoured beverage.
-
-
-
-“I thought,” continued he, “I’d just look in upon you as I passed, and
-
-taste your [[Home|home]]-brewed ale. I’ve been to call on Mrs. Graham.”
-
-
-
-“Have you, indeed?”
-
-
-
-He nodded gravely, and added with awful emphasis—“I thought it
-
-incumbent upon me to do so.”
-
-
-
-“Really!” ejaculated my mother.
-
-
-
-“Why so, Mr. Millward?” asked I.
-
-
-
-He looked at me with some severity, and turning again to my mother,
-
-repeated,—“I thought it incumbent upon me!” and struck his stick on the
-
-floor again. My mother sat opposite, an awe-struck but admiring
-
-auditor.
-
-
-
-“‘Mrs. Graham,’ said I,” he continued, shaking his head as he spoke,
-
-“‘these are terrible reports!’ ‘What, sir?’ says she, affecting to be
-
-ignorant of my meaning. ‘It is my—duty—as—your pastor,’ said I, ‘to
-
-tell you both everything that I myself see reprehensible in your
-
-conduct, and all I have reason to suspect, and what others tell me
-
-concerning you.’—So I told her!”
-
-
-
-“You did, sir?” cried I, starting from my seat and striking my fist on
-
-the table. He merely glanced towards me, and continued—addressing his
-
-hostess:—
-
-
-
-“It was a painful duty, Mrs. Markham—but I told her!”
-
-
-
-“And how did she take it?” asked my mother.
-
-
-
-“Hardened, I [[Fear|fear]]—hardened!” he replied, with a despondent shake of the
-
-head; “and, at the same [[Time|time]], there was a strong display of
-
-unchastened, misdirected passions. She turned white in the face, and
-
-drew her breath through her teeth in a savage sort of way;—but she
-
-offered no extenuation or defence; and with a kind of shameless
-
-calmness—shocking indeed to witness in one so young—as good as told me
-
-that my remonstrance was unavailing, and my [[Pastoral|pastoral]] advice quite
-
-thrown away upon her—nay, that my very _presence was_ displeasing while
-
-I spoke such things. And I withdrew at length, too plainly seeing that
-
-nothing could be done—and sadly grieved to find her case so hopeless.
-
-But I am fully determined, Mrs. Markham, that _my_
-
-daughters—shall—not—consort with her. Do you adopt the same resolution
-
-with regard to yours!—As for your sons—as for _you_, young man,” he
-
-continued, sternly turning to me—
-
-
-
-“As for ME, sir,” I began, but checked by some impediment in my
-
-utterance, and finding that my whole frame trembled with fury, I said
-
-no more, but took the wiser part of snatching up my hat and bolting
-
-from the room, slamming the door behind me, with a bang that shook the
-
-[[house]] to its foundations, and made my mother scream, and gave a
-
-momentary relief to my excited feelings.
-
-
-
-The next minute saw me hurrying with rapid strides in the direction of
-
-Wildfell Hall—to what intent or purpose I could scarcely tell, but I
-
-must be moving somewhere, and no other goal would do—I must see her
-
-too, and speak to her—that was certain; but what to say, or how to act,
-
-I had no definite idea. Such stormy thoughts—so many different
-
-resolutions crowded in upon me, that my mind was little better than a
-
-chaos of conflicting passions.
-
-
-
-
-<span class="atom-split" data-atom="chapter_13" data-title="The Tenant of Wildfell Hall — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
-
-
-CHAPTER XIII
-
-
-
-
-
-“My dear Gilbert, I wish you _would_ try to be a little more amiable,”
-
-said my mother one morning after some display of unjustifiable
-
-ill-[[Humour|humour]] on my part. “You say there is nothing the matter with you,
-
-and nothing has happened to grieve you, and yet I never _saw_ anyone so
-
-altered as you within these last few days. You haven’t a good word for
-
-anybody—friends and strangers, equals and inferiors—it’s all the same.
-
-I do wish you’d try to check it.”
-
-
-
-“Check what?”
-
-
-
-“Why, your strange temper. You don’t know _how_ it spoils you. I’m sure
-
-a finer disposition than yours by [[Nature|nature]] could not be, if you’d let it
-
-have fair play: so you’ve no excuse _that_ way.”
-
-
-
-While she thus remonstrated, I took up a book, and laying it open on
-
-the table before me, pretended to be deeply absorbed in its perusal,
-
-for I was equally unable to justify myself and unwilling to acknowledge
-
-my errors; and I wished to have nothing to say on the matter. But my
-
-excellent parent went on lecturing, and then came to coaxing, and began
-
-to stroke my hair; and I was getting to feel quite a good boy, but my
-
-mischievous brother, who was idling about the room, revived my
-
-corruption by suddenly calling out,—
-
-
-
-“Don’t touch him, mother! he’ll bite! He’s a very tiger in human form.
-
-_I’ve_ given him up for my part—fairly disowned him—cast him off, root
-
-and branch. It’s as much as my life is worth to come within six yards
-
-of him. The other day he nearly fractured my skull for singing a
-
-pretty, inoffensive [[Love|love]]-[[Song|song]], on purpose to amuse him.”
-
-
-
-“Oh, Gilbert! how could you?” exclaimed my mother.
-
-
-
-“I told you to hold your noise first, you know, Fergus,” said I.
-
-
-
-“Yes, but when I assured you it was no trouble and went on with the
-
-next verse, thinking you might like it better, you clutched me by the
-
-shoulder and dashed me away, right against the wall there, with such
-
-force that I thought I had bitten my tongue in two, and expected to see
-
-the place plastered with my brains; and when I put my hand to my head,
-
-and found my skull not broken, I thought it was a miracle, and no
-
-mistake. But, poor fellow!” added he, with a sentimental sigh—“his
-
-heart’s broken—that’s the [[Truth|truth]] of it—and his head’s—”
-
-
-
-“Will you be silent NOW?” cried I, starting up, and eyeing the fellow
-
-so fiercely that my mother, thinking I meant to inflict some grievous
-
-bodily injury, laid her hand on my arm, and besought me to let him
-
-[[Alone|alone]], and he walked leisurely out, with his hands in his pockets,
-
-singing provokingly—“Shall I, because a woman’s fair,” &c.
-
-
-
-“I’m not going to defile my fingers with him,” said I, in answer to the
-
-maternal intercession. “I wouldn’t touch him with the tongs.”
-
-
-
-I now recollected that I had business with Robert Wilson, concerning
-
-the purchase of a certain field adjoining my farm—a business I had been
-
-putting off from day to day; for I had no interest in anything now; and
-
-besides, I was misanthropically inclined, and, moreover, had a
-
-particular objection to meeting Jane Wilson or her mother; for though I
-
-had too good reason, now, to credit their reports concerning Mrs.
-
-Graham, I did not _like_ them a bit the better for it—or Eliza Millward
-
-either—and the thought of meeting them was the more repugnant to me
-
-that I could not, now, defy their seeming calumnies and triumph in my
-
-own convictions as before. But to-day I determined to make an effort to
-
-return to my duty. Though I found no pleasure in it, it would be less
-
-irksome than idleness—at all events it would be more profitable. If
-
-life promised no enjoyment within my vocation, at least it offered no
-
-allurements out of it; and henceforth I would put my shoulder to the
-
-[[Wheel|wheel]] and toil away, like any poor drudge of a cart-[[Horse|horse]] that was
-
-fairly broken in to its labour, and plod through life, not wholly
-
-useless if not agreeable, and uncomplaining if not contented with my
-
-lot.
-
-
-
-Thus resolving, with a kind of sullen [[Resignation|resignation]], if such a term may
-
-be allowed, I wended my way to Ryecote Farm, scarcely expecting to find
-
-its owner within at this [[Time|time]] of day, but hoping to learn in what part
-
-of the premises he was most likely to be found.
-
-
-
-Absent he was, but expected [[Home|home]] in a few minutes; and I was desired to
-
-step into the parlour and wait. Mrs. Wilson was busy in the kitchen,
-
-but the room was not empty; and I scarcely checked an involuntary
-
-recoil as I entered it; for there sat Miss Wilson chattering with Eliza
-
-Millward. However, I determined to be cool and civil. Eliza seemed to
-
-have made the same resolution on her part. We had not met since the
-
-evening of the tea-party; but there was no visible emotion either of
-
-pleasure or [[Pain|pain]], no attempt at pathos, no display of injured [[Pride|pride]]:
-
-she was cool in temper, civil in demeanour. There was even an ease and
-
-cheerfulness about her air and manner that I made no pretension to; but
-
-there was a depth of malice in her too expressive eye that plainly told
-
-me I was not forgiven; for, though she no longer hoped to win me to
-
-herself, she still hated her rival, and evidently delighted to wreak
-
-her spite on me. On the other hand, Miss Wilson was as affable and
-
-courteous as heart could wish, and though I was in no very conversable
-
-[[Humour|humour]] myself, the two ladies between them managed to keep up a pretty
-
-continuous [[Fire|fire]] of small talk. But Eliza took advantage of the first
-
-convenient pause to ask if I had lately seen Mrs. Graham, in a tone of
-
-merely casual inquiry, but with a sidelong glance—intended to be
-
-playfully mischievous—really, brimful and running over with malice.
-
-
-
-“Not lately,” I replied, in a careless tone, but sternly repelling her
-
-odious glances with my eyes; for I was vexed to feel the colour
-
-mounting to my forehead, despite my strenuous efforts to appear
-
-unmoved.
-
-
-
-“What! are you beginning to tire already? I thought so noble a creature
-
-would have power to attach you for a year at least!”
-
-
-
-“I would rather not speak of her now.”
-
-
-
-“Ah! then you are convinced, at last, of your mistake—you have at
-
-length discovered that your divinity is not quite the immaculate—”
-
-
-
-“I desired you not to speak of her, Miss Eliza.”
-
-
-
-“Oh, I beg your pardon! I perceive Cupid’s arrows have been too sharp
-
-for you: the wounds, being more than skin-deep, are not yet healed, and
-
-bleed afresh at every mention of the loved one’s name.”
-
-
-
-“Say, rather,” interposed Miss Wilson, “that Mr. Markham feels that
-
-name is unworthy to be mentioned in the presence of right-minded
-
-females. I [[Wonder|wonder]], Eliza, you should think of referring to that
-
-unfortunate person—you might know the mention of her would be anything
-
-but agreeable to any one here present.”
-
-
-
-How could this be borne? I [[Rose|rose]] and was about to clap my hat upon my
-
-head and burst away, in wrathful indignation from the [[house]]; but
-
-recollecting—just in [[Time|time]] to save my dignity—the folly of such a
-
-proceeding, and how it would only give my fair tormentors a merry laugh
-
-at my expense, for the sake of one I acknowledged in my own heart to be
-
-unworthy of the slightest sacrifice—though the [[Ghost|ghost]] of my former
-
-reverence and [[Love|love]] so hung about me still, that I could not bear to
-
-hear her name aspersed by others—I merely walked to the [[Window|window]], and
-
-having spent a few seconds in vengibly biting my lips and sternly
-
-repressing the passionate heavings of my chest, I observed to Miss
-
-Wilson, that I could see nothing of her brother, and added that, as my
-
-[[Time|time]] was precious, it would perhaps be better to call again to-morrow,
-
-at some [[Time|time]] when I should be sure to find him at [[Home|home]].
-
-
-
-“Oh, no!” said she; “if you wait a minute, he will be sure to come; for
-
-he has business at L——” (that was our market-town), “and will require a
-
-little refreshment before he goes.”
-
-
-
-I submitted accordingly, with the best grace I could; and, happily, I
-
-had not long to wait. Mr. Wilson soon arrived, and, indisposed for
-
-business as I was at that moment, and little as I cared for the field
-
-or its owner, I forced my attention to the matter in hand, with very
-
-creditable determination, and quickly concluded the bargain—perhaps
-
-more to the thrifty farmer’s satisfaction than he cared to acknowledge.
-
-Then, leaving him to the discussion of his substantial “refreshment,” I
-
-gladly quitted the [[house]], and went to look after my reapers.
-
-
-
-Leaving them busy at work on the side of the valley, I ascended the
-
-[[Hill|hill]], intending to visit a corn-field in the more elevated regions, and
-
-see when it would be ripe for the sickle. But I did _not_ visit it that
-
-day; for, as I approached, I beheld, at no great distance, Mrs. Graham
-
-and her son coming down in the opposite direction. They saw me; and
-
-[[Arthur]] already was running to meet me; but I immediately turned back
-
-and walked steadily homeward; for I had fully determined never to
-
-encounter his mother again; and regardless of the shrill voice in my
-
-ear, calling upon me to “wait a moment,” I pursued the even tenor of my
-
-way; and he soon relinquished the pursuit as hopeless, or was called
-
-away by his mother. At all events, when I looked back, five minutes
-
-after, not a trace of either was to be seen.
-
-
-
-This incident agitated and disturbed me most unaccountably—unless you
-
-would account for it by saying that Cupid’s arrows not only had been
-
-too sharp for me, but they were barbed and deeply rooted, and I had not
-
-yet been able to wrench them from my heart. However that be, I was
-
-rendered doubly miserable for the remainder of the day.
-
-
-
-
-<span class="atom-split" data-atom="chapter_21" data-title="The Tenant of Wildfell Hall — Chapter 21" data-chapter="Chapter 21" data-kind="chapter"></span>
-
-
-CHAPTER XXI
-
-
-
-
-
-October 1st.—All is settled now. My father has given his consent, and
-
-the [[Time|time]] is fixed for Christmas, by a sort of compromise between the
-
-respective advocates for hurry and delay. Milicent Hargrave is to be
-
-one bridesmaid and Annabella Wilmot the other—not that I am
-
-particularly fond of the latter, but she is an intimate of the family,
-
-and I have not another friend.
-
-
-
-When I told Milicent of my engagement, she rather provoked me by her
-
-manner of taking it. After staring a moment in mute surprise, she
-
-said,—
-
-
-
-“[[Well]], [[Helen]], I suppose I ought to congratulate you—and I _am_ glad to
-
-see you so happy; but I did not think you would take him; and I can’t
-
-help feeling surprised that you should like him so much.”
-
-
-
-“Why so?”
-
-
-
-“Because you are so superior to him in every way, and there’s something
-
-so bold and reckless about him—so, I don’t know how—but I always feel a
-
-wish to get out of his way when I see him approach.”
-
-
-
-“You are timid, Milicent; but that’s no fault of his.”
-
-
-
-“And then his look,” continued she. “People say he’s handsome, and of
-
-course he is; but _I_ don’t _like_ that kind of [[Beauty|beauty]], and I [[Wonder|wonder]]
-
-that you should.”
-
-
-
-“Why so, pray?”
-
-
-
-“[[Well]], you know, I think there’s nothing noble or lofty in his
-
-appearance.”
-
-
-
-“In fact, you [[Wonder|wonder]] that I can like any one so unlike the stilted
-
-heroes of [[Romance|romance]]. [[Well]], give me my flesh and [[Blood|blood]] [[Lover|lover]], and I’ll
-
-leave all the Sir Herberts and Valentines to you—if you can find them.”
-
-
-
-“I don’t want them,” said she. “I’ll be satisfied with flesh and [[Blood|blood]]
-
-too—only the spirit must shine through and predominate. But don’t you
-
-think Mr. Huntingdon’s face is too red?”
-
-
-
-“No!” cried I, indignantly. “It is not red at all. There is just a
-
-pleasant glow, a healthy freshness in his complexion—the warm, pinky
-
-tint of the whole harmonising with the deeper colour of the cheeks,
-
-exactly as it ought to do. I hate a man to be red and white, like a
-
-painted doll, or all sickly white, or smoky black, or cadaverous
-
-yellow.”
-
-
-
-“[[Well]], tastes differ—but _I_ like pale or dark,” replied she. “But, to
-
-tell you the [[Truth|truth]], [[Helen]], I had been deluding myself with the [[Hope|hope]]
-
-that you would one day be my sister. I expected Walter would be
-
-introduced to you next season; and I thought you would like him, and
-
-was certain he would like you; and I flattered myself I should thus
-
-have the felicity of seeing the two persons I like best in the
-
-world—except mamma—united in one. He mayn’t be exactly what you would
-
-call handsome, but he’s far more distinguished-looking, and nicer and
-
-better than Mr. Huntingdon;—and I’m sure you would say so, if you knew
-
-him.”
-
-
-
-“Impossible, Milicent! You think so, because you’re his sister; and, on
-
-that account, I’ll forgive you; but nobody else should so disparage
-
-[[Arthur Huntingdon]] to me with impunity.”
-
-
-
-Miss Wilmot expressed her feelings on the subject almost as openly.
-
-
-
-“And so, [[Helen]],” said she, coming up to me with a smile of no amiable
-
-import, “you are to be Mrs. Huntingdon, I suppose?”
-
-
-
-“Yes,” replied I. “Don’t you envy me?”
-
-
-
-“Oh, _dear_, no!” she exclaimed. “I shall probably be Lady Lowborough
-
-some day, and then you know, dear, I shall be in a capacity to inquire,
-
-‘Don’t you envy _me?_’”
-
-
-
-“Henceforth I shall envy no one,” returned I.
-
-
-
-“Indeed! Are you so happy then?” said she, thoughtfully; and something
-
-very like a cloud of disappointment shadowed her face. “And does he
-
-[[Love|love]] you—I mean, does he idolise you as much as you do him?” she added,
-
-fixing her eyes upon me with ill-disguised anxiety for the reply.
-
-
-
-“I don’t want to be idolised,” I answered; “but I am [[Well|well]] assured that
-
-he _loves_ me more than anybody else in the world—as I do him.”
-
-
-
-“Exactly,” said she, with a nod. “I wish—” she paused.
-
-
-
-“What do you wish?” asked I, annoyed at the vindictive expression of
-
-her countenance.
-
-
-
-“I wish,” returned, she, with a short laugh, “that all the attractive
-
-points and desirable qualifications of the two gentlemen were united in
-
-one—that [[Lord Lowborough]] had Huntingdon’s handsome face and good
-
-temper, and all his wit, and mirth and charm, or else that Huntingdon
-
-had Lowborough’s pedigree, and title, and delightful old family seat,
-
-and I had him; and you might have the other and welcome.”
-
-
-
-“Thank you, dear Annabella: I am better satisfied with things as they
-
-are, for my own part; and for you, I wish you were as [[Well|well]] content with
-
-your intended as I am with mine,” said I; and it was true enough; for,
-
-though vexed at first at her unamiable spirit, her frankness touched
-
-me, and the contrast between our situations was such, that I could [[Well|well]]
-
-afford to pity her and wish her [[Well|well]].
-
-
-
-Mr. Huntingdon’s acquaintances appear to be no better pleased with our
-
-approaching [[Union|union]] than mine. This morning’s post brought him letters
-
-from several of his friends, during the perusal of which, at the
-
-breakfast-table, he excited the attention of the company by the
-
-singular variety of his grimaces. But he crushed them all into his
-
-pocket, with a private laugh, and said nothing till the meal was
-
-concluded. Then, while the company were hanging over the [[Fire|fire]] or
-
-loitering through the room, previous to settling to their various
-
-morning avocations, he came and leant over the back of my chair, with
-
-his face in contact with my curls, and commencing with a quiet little
-
-kiss, poured forth the following complaints into my ear:—
-
-
-
-“[[Helen]], you [[Witch|witch]], do you know that you’ve entailed upon me the curses
-
-of all my friends? I wrote to them the other day, to tell them of my
-
-happy prospects, and now, instead of a bundle of congratulations, I’ve
-
-got a pocketful of bitter execrations and reproaches. There’s not one
-
-kind wish for me, or one good word for you, among them all. They say
-
-there’ll be no more fun now, no more merry days and glorious nights—and
-
-all my fault—I am the first to break up the jovial band, and others, in
-
-pure [[Despair|despair]], will follow my example. I was the very life and prop of
-
-the community, they do me the [[Honour|honour]] to say, and I have shamefully
-
-betrayed my trust—”
-
-
-
-“You may join them again, if you like,” said I, somewhat piqued at the
-
-sorrowful tone of his discourse. “I should be sorry to stand between
-
-any man—or [[Body|body]] of men, and so much happiness; and perhaps I can manage
-
-to do without you, as [[Well|well]] as your poor deserted friends.”
-
-
-
-“Bless you, no,” murmured he. “It’s ‘all for [[Love|love]] or the world [[Well|well]]
-
-lost,’ with me. Let them go to—where they belong, to speak politely.
-
-But if you saw how they abuse me, [[Helen]], you would [[Love|love]] me all the more
-
-for having ventured so much for your sake.”
-
-
-
-He pulled out his crumpled letters. I thought he was going to show them
-
-to me, and told him I did not wish to see them.
-
-
-
-“I’m not going to show them to you, [[Love|love]],” said he. “They’re hardly fit
-
-for a lady’s eyes—the most part of them. But look here. This is
-
-Grimsby’s scrawl—only three lines, the sulky dog! He doesn’t say much,
-
-to be sure, but his very [[Silence|silence]] implies more than all the others’
-
-words, and the less he says, the more he thinks—and this is Hargrave’s
-
-missive. He is particularly grieved at me, because, forsooth he had
-
-fallen in [[Love|love]] with you from his sister’s reports, and meant to have
-
-married you himself, as soon as he had sown his wild oats.”
-
-
-
-“I’m vastly obliged to him,” observed I.
-
-
-
-“And so am I,” said he. “And look at this. This is Hattersley’s—every
-
-page stuffed full of railing accusations, bitter curses, and lamentable
-
-complaints, ending up with swearing that he’ll get married himself in
-
-[[Revenge|revenge]]: he’ll throw himself away on the first old maid that chooses to
-
-set her cap at him,—as if _I_ cared what he did with himself.”
-
-
-
-“[[Well]],” said I, “if you do give up your intimacy with these men, I
-
-don’t think you will have much cause to regret the loss of their
-
-society; for it’s my belief they never did you much good.”
-
-
-
-“Maybe not; but we’d a merry [[Time|time]] of it, too, though mingled with
-
-sorrow and [[Pain|pain]], as Lowborough knows to his cost—Ha, ha!” and while he
-
-was laughing at the recollection of Lowborough’s troubles, my uncle
-
-came and slapped him on the shoulder.
-
-
-
-“Come, my lad!” said he. “Are you too busy making [[Love|love]] to my niece to
-
-make war with the pheasants?—First of October, remember! Sun shines
-
-out—rain ceased—even Boarham’s not afraid to venture in his waterproof
-
-boots; and Wilmot and I are going to beat you all. I declare, we old
-
-’uns are the keenest sportsmen of the lot!”
-
-
-
-“I’ll show you what I can do to-day, however,” said my companion. “I’ll
-
-murder your [[Birds|birds]] by wholesale, just for keeping me away from better
-
-company than either you or them.”
-
-
-
-And so saying he departed; and I saw no more of him till dinner. It
-
-seemed a weary [[Time|time]]; I [[Wonder|wonder]] what I shall do without him.
-
-
-
-It is very true that the three elder gentlemen have proved themselves
-
-much keener sportsmen than the two younger ones; for both Lord
-
-Lowborough and [[Arthur Huntingdon]] have of late almost daily neglected
-
-the shooting excursions to accompany us in our various rides and
-
-rambles. But these merry times are fast drawing to a close. In less
-
-than a fortnight the party break up, much to my sorrow, for every day I
-
-enjoy it more and more—now that Messrs. Boarham and Wilmot have ceased
-
-to tease me, and my aunt has ceased to lecture me, and I have ceased to
-
-be jealous of Annabella—and even to dislike her—and now that Mr.
-
-Huntingdon is become _my_ [[Arthur]], and I may enjoy his society without
-
-restraint. What _shall_ I do without him, I repeat?
-
-
-
-
-<span class="atom-split" data-atom="chapter_23" data-title="The Tenant of Wildfell Hall — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
-
-
-CHAPTER XXIII
-
-
-
-
-
-Feb. 18, 1822.—Early this morning [[Arthur]] mounted his hunter and set off
-
-in high glee to meet the —— hounds. He will be away all day, and so I
-
-will amuse myself with my neglected diary, if I can give that name to
-
-such an irregular composition. It is exactly four months since I opened
-
-it last.
-
-
-
-I am married now, and settled down as Mrs. Huntingdon of Grassdale
-
-Manor. I have had eight weeks’ experience of matrimony. And do I regret
-
-the step I have taken? No, though I must confess, in my secret heart,
-
-that [[Arthur]] is not what I thought him at first, and if I had known him
-
-in the beginning as thoroughly as I do now, I probably never should
-
-have loved him, and if I loved him first, and then made the discovery,
-
-I [[Fear|fear]] I should have thought it my duty not to have married him. To be
-
-sure I might have known him, for every one was willing enough to tell
-
-me about him, and he himself was no accomplished hypocrite, but I was
-
-wilfully blind; and now, instead of regretting that I did not discern
-
-his full character before I was indissolubly bound to him, I am _glad_,
-
-for it has saved me a great deal of battling with my [[Conscience|conscience]], and a
-
-great deal of consequent trouble and [[Pain|pain]]; and, whatever I _ought_ to
-
-have done, my duty now is plainly to [[Love|love]] him and to cleave to him, and
-
-this just tallies with my inclination.
-
-
-
-He is very fond of me, almost _too_ fond. I could do with less
-
-caressing and more rationality. I should like to be less of a pet and
-
-more of a friend, if I might choose; but I won’t complain of that: I am
-
-only afraid his affection loses in depth where it gains in ardour. I
-
-sometimes liken it to a [[Fire|fire]] of dry twigs and branches compared with
-
-one of solid coal, very bright and hot; but if it should burn itself
-
-out and leave nothing but ashes behind, what shall I do? But it won’t,
-
-it _shan_’t, I am determined; and surely I have power to keep it alive.
-
-So let me dismiss _that_ thought at once. But [[Arthur]] is selfish; I am
-
-constrained to acknowledge that; and, indeed, the admission gives me
-
-less [[Pain|pain]] than might be expected, for, since _I_ [[Love|love]] him so much, I
-
-can easily forgive him for loving himself: he likes to be pleased, and
-
-it is my delight to please him; and when I regret this tendency of his,
-
-it is for his own sake, not for mine.
-
-
-
-The first instance he gave was on the occasion of our bridal tour. He
-
-wanted to hurry it over, for all the continental scenes were already
-
-familiar to him: many had lost their interest in his eyes, and others
-
-had never had anything to lose. The consequence was, that after a
-
-flying transit through part of France and part of [[Italy]], I came back
-
-nearly as ignorant as I went, having made no acquaintance with persons
-
-and manners, and very little with things, my head swarming with a
-
-motley confusion of objects and scenes; some, it is true, leaving a
-
-deeper and more pleasing impression than others, but these embittered
-
-by the recollection that my emotions had not been shared by my
-
-companion, but that, on the contrary, when I had expressed a particular
-
-interest in anything that I saw or desired to see, it had been
-
-displeasing to him, inasmuch as it proved that I could take delight in
-
-anything disconnected with himself.
-
-
-
-[Illustration]
-
-
-
-As for [[Paris]], we only just touched at that, and he would not give me
-
-[[Time|time]] to see one-tenth of the beauties and interesting objects of Rome.
-
-He wanted to get me [[Home|home]], he said, to have me all to himself, and to
-
-see me safely installed as the mistress of Grassdale Manor, just as
-
-single-minded, as naïve, and piquante as I was; and as if I had been
-
-some frail butterfly, he expressed himself fearful of rubbing the
-
-silver off my wings by bringing me into contact with society,
-
-especially that of [[Paris]] and Rome; and, more-over, he did not scruple
-
-to tell me that there were ladies in both places that would tear his
-
-eyes out if they happened to meet him with me.
-
-
-
-Of course I was vexed at all this; but still it was less the
-
-disappointment to myself that annoyed me, than the disappointment _in
-
-him_, and the trouble I was at to frame excuses to my friends for
-
-having seen and observed so little, without imputing one particle of
-
-blame to my companion. But when we got [[Home|home]]—to my new, delightful
-
-[[Home|home]]—I was so happy and he was so kind that I freely forgave him all;
-
-and I was beginning to think my lot _too_ happy, and my husband
-
-actually too good for me, if not too good for this world, when, on the
-
-second [[Sunday]] after our arrival, he shocked and horrified me by another
-
-instance of his unreasonable exaction. We were walking [[Home|home]] from the
-
-morning service, for it was a fine frosty day, and as we are so near
-
-the church, I had requested the carriage should not be used.
-
-
-
-“[[Helen]],” said he, with unusual gravity, “I am not quite satisfied with
-
-you.”
-
-
-
-I desired to know what was wrong.
-
-
-
-“But will you promise to [[Reform|reform]] if I tell you?”
-
-
-
-“Yes, if I can, and without offending a higher authority.”
-
-
-
-“Ah! there it is, you see: you don’t [[Love|love]] me with all your heart.”
-
-
-
-“I don’t understand you, [[Arthur]] (at least I [[Hope|hope]] I don’t): pray tell me
-
-what I have done or said amiss.”
-
-
-
-“It is nothing you have done or said; it is something that you _are:_
-
-you are too religious. Now I like a woman to be religious, and I think
-
-your piety one of your greatest charms; but then, like all other good
-
-things, it may be carried too far. To my thinking, a woman’s religion
-
-ought not to lessen her devotion to her earthly lord. She should have
-
-enough to purify and etherealise her [[Soul|soul]], but not enough to refine
-
-away her heart, and raise her above all human sympathies.”
-
-
-
-“And am _I_ above all human sympathies?” said I.
-
-
-
-“No, darling; but you are making more progress towards that saintly
-
-condition than I like; for all these two hours I have been thinking of
-
-you and wanting to catch your eye, and you were so absorbed in your
-
-devotions that you had not even a glance to spare for me—I declare it
-
-is enough to make one jealous of one’s Maker—which is very wrong, you
-
-know; so don’t excite such wicked passions again, for my [[Soul|soul]]’s sake.”
-
-
-
-“I will give my whole heart and [[Soul|soul]] to my Maker if I can,” I answered,
-
-“and not one atom more of it to you than He allows. What are _you_,
-
-sir, that you should set yourself up as a god, and presume to dispute
-
-possession of my heart with Him to whom I owe all I have and all I am,
-
-every blessing I ever did or ever can enjoy—and yourself among the
-
-rest—if you _are_ a blessing, which I am half inclined to [[Doubt|doubt]].”
-
-
-
-“Don’t be so hard upon me, [[Helen]]; and don’t pinch my arm so: you are
-
-squeezing your fingers into the bone.”
-
-
-
-“[[Arthur]],” continued I, relaxing my hold of his arm, “you don’t [[Love|love]] me
-
-half as much as I do you; and yet, if you loved me far less than you
-
-do, I would not complain, provided you loved your Maker more. I should
-
-_rejoice_ to see you at any [[Time|time]] so deeply absorbed in your devotions
-
-that you had not a single thought to spare for me. But, indeed, I
-
-should lose nothing by the change, for the more you loved your God the
-
-more deep and pure and true would be your [[Love|love]] to me.”
-
-
-
-At this he only laughed and kissed my hand, calling me a sweet
-
-enthusiast. Then taking off his hat, he added: “But look here,
-
-[[Helen]]—what can a man do with such a head as this?”
-
-
-
-The head looked right enough, but when he placed my hand on the top of
-
-it, it sunk in a bed of curls, rather alarmingly low, especially in the
-
-middle.
-
-
-
-“You see I was not made to be a saint,” said he, laughing, “If God
-
-meant me to be religious, why didn’t He give me a proper organ of
-
-veneration?”
-
-
-
-“You are like the servant,” I replied, “who, instead of employing his
-
-one talent in his master’s service, restored it to him unimproved,
-
-alleging, as an excuse, that he knew him ‘to be a hard man, reaping
-
-where he had not sown, and gathering where he had not strawed.’ Of him
-
-to whom less is given, less will be required, but our utmost exertions
-
-are required of us all. You are not without the capacity of veneration,
-
-and [[Faith|faith]] and [[Hope|hope]], and [[Conscience|conscience]] and reason, and every other
-
-requisite to a Christian’s character, if you choose to employ them; but
-
-all our talents increase in the using, and every faculty, both good and
-
-bad, strengthens by exercise: therefore, if you choose to use the bad,
-
-or those which tend to evil, till they become your masters, and neglect
-
-the good till they dwindle away, you have only yourself to blame. But
-
-you _have_ talents, [[Arthur]]—natural endowments both of heart and mind
-
-and temper, such as many a better Christian would be glad to possess,
-
-if you would only employ them in God’s service. I should never expect
-
-to see you a devotee, but it is quite possible to be a good Christian
-
-without ceasing to be a happy, merry-hearted man.”
-
-
-
-“You speak like an oracle, [[Helen]], and all you say is indisputably true;
-
-but listen here: I am hungry, and I see before me a good substantial
-
-dinner; I am told that if I abstain from this to-day I shall have a
-
-sumptuous feast to-morrow, consisting of all manner of dainties and
-
-delicacies. Now, in the first place, I should be loth to wait till
-
-to-morrow when I have the means of appeasing my hunger already before
-
-me: in the second place, the solid viands of to-day are more to my
-
-taste than the dainties that are promised me; in the third place, I
-
-don’t _see_ to-morrow’s banquet, and how can I tell that it is not all
-
-a [[Fable|fable]], got up by the greasy-faced fellow that is advising me to
-
-abstain in order that he may have all the good victuals to himself? in
-
-the fourth place, this table must be spread for somebody, and, as
-
-Solomon says, ‘Who can eat, or who else can hasten hereunto more than
-
-I?’ and finally, with your leave, I’ll sit down and satisfy my cravings
-
-of to-day, and leave to-morrow to shift for itself—who knows but what I
-
-may secure both this and that?”
-
-
-
-“But you are not required to abstain from the substantial dinner of
-
-to-day: you are only advised to partake of these coarser viands in such
-
-moderation as not to incapacitate you from enjoying the choicer banquet
-
-of to-morrow. If, regardless of that counsel, you choose to make a
-
-beast of yourself now, and over-eat and over-drink yourself till you
-
-turn the good victuals into [[Poison|poison]], who is to blame if, hereafter,
-
-while you are [[Suffering|suffering]] the torments of yesterday’s gluttony and
-
-drunkenness, you see more temperate men sitting down to enjoy
-
-themselves at that splendid entertainment which you are unable to
-
-taste?”
-
-
-
-“Most true, my patron saint; but again, our friend Solomon says, ‘There
-
-is nothing better for a man than to eat and to drink, and to be
-
-merry.’”
-
-
-
-“And again,” returned I, “he says, ‘Rejoice, O young man, in thy youth;
-
-and walk in the ways of thine heart, and in the sight of thine eyes:
-
-but know thou, that for all these things God will bring thee into
-
-judgment.’”
-
-
-
-“[[Well]], but, [[Helen]], I’m sure I’ve been very good these last few weeks.
-
-What have you seen amiss in me, and what would you have me to do?”
-
-
-
-“Nothing more than you do, [[Arthur]]: your actions are all right so far;
-
-but I would have your thoughts changed; I would have you to fortify
-
-yourself against [[Temptation|temptation]], and not to call evil good, and good evil;
-
-I should wish you to think more deeply, to look further, and aim higher
-
-than you do.”
-
-
-
-
-<span class="atom-split" data-atom="chapter_26" data-title="The Tenant of Wildfell Hall — Chapter 26" data-chapter="Chapter 26" data-kind="chapter"></span>
-
-
-CHAPTER XXVI
-
-
-
-
-
-Sept. 23rd.—Our guests arrived about three weeks ago. Lord and Lady
-
-Lowborough have now been married above eight months; and I will do the
-
-lady the credit to say that her husband is quite an altered man; his
-
-looks, his spirits, and his temper, are all perceptibly changed for the
-
-better since I last saw him. But there is room for improvement still.
-
-He is not always cheerful, nor always contented, and she often
-
-complains of his ill-[[Humour|humour]], which, however, of all persons, _she_
-
-ought to be the last to accuse him of, as he never displays it against
-
-her, except for such conduct as would provoke a saint. He adores her
-
-still, and would go to the world’s end to please her. She knows her
-
-power, and she uses it too; but [[Well|well]] knowing that to wheedle and coax
-
-is safer than to command, she judiciously tempers her despotism with
-
-flattery and blandishments enough to make him deem himself a favoured
-
-and a happy man.
-
-
-
-But she has a way of tormenting him, in which I am a fellow-sufferer,
-
-or might be, if I chose to regard myself as such. This is by openly,
-
-but not too glaringly, coquetting with Mr. Huntingdon, who is quite
-
-willing to be her partner in the game; but I don’t care for it,
-
-because, with him, I know there is nothing but personal [[Vanity|vanity]], and a
-
-mischievous [[Desire|desire]] to excite my [[Jealousy|jealousy]], and, perhaps, to torment his
-
-friend; and she, no [[Doubt|doubt]], is actuated by much the same motives; only,
-
-there is more of malice and less of playfulness in _her_ manœuvres. It
-
-is obviously, therefore, my interest to disappoint them both, as far as
-
-I am concerned, by preserving a cheerful, undisturbed serenity
-
-throughout; and, accordingly, I endeavour to show the fullest
-
-confidence in my husband, and the greatest indifference to the arts of
-
-my attractive guest. I have never reproached the former but once, and
-
-that was for laughing at [[Lord Lowborough]]’s depressed and anxious
-
-countenance one evening, when they had both been particularly
-
-provoking; and then, indeed, I said a good deal on the subject, and
-
-rebuked him sternly enough; but he only laughed, and said,—“You can
-
-feel for him, [[Helen]], can’t you?”
-
-
-
-“I can feel for anyone that is unjustly treated,” I replied, “and I can
-
-feel for those that injure them too.”
-
-
-
-“Why, [[Helen]], you are as jealous as he is!” cried he, laughing still
-
-more; and I found it impossible to convince him of his mistake. So,
-
-from that [[Time|time]], I have carefully refrained from any notice of the
-
-subject whatever, and left [[Lord Lowborough]] to take care of himself. He
-
-either has not the sense or the power to follow my example, though he
-
-does try to conceal his uneasiness as [[Well|well]] as he can; but still, it
-
-will appear in his face, and his ill-[[Humour|humour]] will peep out at intervals,
-
-though not in the expression of open resentment—they never go far
-
-enough for that. But I confess I do feel jealous at times, most
-
-painfully, bitterly so; when she sings and plays to him, and he hangs
-
-over the instrument, and dwells upon her voice with no affected
-
-interest; for then I know he is really delighted, and I have no power
-
-to awaken similar fervour. I can amuse and please him with my simple
-
-[[songs]], but not delight him thus.
-
-
-
-28th.—Yesterday, we all went to the Grove, Mr. Hargrave’s
-
-much-neglected [[Home|home]]. His mother frequently asks us over, that she may
-
-have the pleasure of her dear Walter’s company; and this [[Time|time]] she had
-
-invited us to a dinner-party, and got together as many of the country
-
-gentry as were within reach to meet us. The entertainment was very [[Well|well]]
-
-got up; but I could not help thinking about the cost of it all the
-
-[[Time|time]]. I don’t like Mrs. Hargrave; she is a hard, pretentious,
-
-worldly-minded woman. She has money enough to live very comfortably, if
-
-she only knew how to use it judiciously, and had taught her son to do
-
-the same; but she is ever straining to keep up appearances, with that
-
-despicable [[Pride|pride]] that shuns the semblance of [[Poverty|poverty]] as of a shameful
-
-crime. She grinds her dependents, pinches her servants, and deprives
-
-even her daughters and herself of the real comforts of life, because
-
-she will not consent to yield the palm in outward show to those who
-
-have three times her wealth; and, above all, because she is determined
-
-her cherished son shall be enabled to “hold up his head with the
-
-highest gentlemen in the land.” This same son, I imagine, is a man of
-
-expensive habits, no reckless spendthrift and no abandoned sensualist,
-
-but one who likes to have “everything handsome about him,” and to go to
-
-a certain length in youthful indulgences, not so much to gratify his
-
-own tastes as to maintain his reputation as a man of fashion in the
-
-world, and a respectable fellow among his own lawless companions; while
-
-he is too selfish to consider how many comforts might be obtained for
-
-his fond mother and sisters with the money he thus wastes upon himself:
-
-as long as they can contrive to make a respectable appearance once a
-
-year, when they come to town, he gives himself little concern about
-
-their private stintings and struggles at [[Home|home]]. This is a harsh judgment
-
-to form of “dear, noble-minded, generous-hearted Walter,” but I [[Fear|fear]] it
-
-is too just.
-
-
-
-Mrs. Hargrave’s anxiety to make good matches for her daughters is
-
-partly the cause, and partly the result, of these errors: by making a
-
-figure in the world, and showing them off to advantage, she hopes to
-
-obtain better chances for them; and by thus living beyond her
-
-legitimate means, and lavishing so much on their brother, she renders
-
-them portionless, and makes them burdens on her hands. Poor Milicent, I
-
-[[Fear|fear]], has already fallen a sacrifice to the manœuvrings of this
-
-mistaken mother, who congratulates herself on having so satisfactorily
-
-discharged her maternal duty, and hopes to do as [[Well|well]] for Esther. But
-
-Esther is a [[Child|child]] as yet, a little merry romp of fourteen: as
-
-honest-hearted, and as guileless and simple as her sister, but with a
-
-fearless spirit of her own, that I fancy her mother will find some
-
-difficulty in bending to her purposes.
-
-
-
-
-<span class="atom-split" data-atom="chapter_28" data-title="The Tenant of Wildfell Hall — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
-
-
-CHAPTER XXVIII
-
-
-
-
-
-December 25th.—Last Christmas I was a bride, with a heart overflowing
-
-with present bliss, and full of ardent hopes for the future, though not
-
-unmingled with foreboding fears. Now I am a wife: my bliss is sobered,
-
-but not destroyed; my hopes diminished, but not departed; my fears
-
-increased, but not yet thoroughly confirmed; and, thank heaven, I am a
-
-mother too. God has sent me a [[Soul|soul]] to educate for heaven, and give me a
-
-new and calmer bliss, and stronger hopes to comfort me.
-
-
-
-Dec. 25th, 1823.—Another year is gone. My little [[Arthur]] lives and
-
-thrives. He is healthy, but not robust, full of gentle playfulness and
-
-vivacity, already affectionate, and susceptible of passions and
-
-emotions it will be long ere he can find words to express. He has won
-
-his father’s heart at last; and now my constant terror is, lest he
-
-should be ruined by that father’s thoughtless indulgence. But I must
-
-beware of my own weakness too, for I never knew till now how strong are
-
-a parent’s temptations to spoil an only [[Child|child]].
-
-
-
-I have need of consolation in my son, for (to this silent paper I may
-
-confess it) I have but little in my husband. I [[Love|love]] him still; and he
-
-loves me, in his own way—but oh, how different from the [[Love|love]] I could
-
-have given, and once had hoped to receive! How little real sympathy
-
-there exists between us; how many of my thoughts and feelings are
-
-gloomily cloistered within my own mind; how much of my higher and
-
-better [[Self|self]] is indeed unmarried—doomed either to harden and sour in the
-
-sunless shade of [[Solitude|solitude]], or to quite degenerate and fall away for
-
-lack of nutriment in this unwholesome soil! But, I repeat, I have no
-
-right to complain; only let me state the [[Truth|truth]]—some of the [[Truth|truth]], at
-
-least,—and see hereafter if any darker truths will blot these pages. We
-
-have now been full two years united; the “[[Romance|romance]]” of our attachment
-
-must be worn away. Surely I have now got down to the lowest gradation
-
-in [[Arthur]]’s affection, and discovered all the evils of his [[Nature|nature]]: if
-
-there be any further change, it must be for the better, as we become
-
-still more accustomed to each other; surely we shall find no lower
-
-depth than this. And, if so, I can bear it [[Well|well]]—as [[Well|well]], at least, as I
-
-have borne it hitherto.
-
-
-
-[[Arthur]] is not what is commonly called a _bad_ man: he has many good
-
-qualities; but he is a man without [[Self|self]]-restraint or lofty aspirations,
-
-a [[Lover|lover]] of pleasure, given up to animal enjoyments: he is not a bad
-
-husband, but his notions of matrimonial duties and comforts are not my
-
-notions. Judging from appearances, his idea of a wife is a thing to
-
-[[Love|love]] one devotedly, and to stay at [[Home|home]] to wait upon her husband, and
-
-amuse him and minister to his comfort in every possible way, while he
-
-chooses to stay with her; and, when he is absent, to attend to his
-
-interests, domestic or otherwise, and patiently wait his return, no
-
-matter how he may be occupied in the meantime.
-
-
-
-Early in [[Spring|spring]] he announced his intention of going to [[London]]: his
-
-affairs there demanded his attendance, he said, and he could refuse it
-
-no longer. He expressed his regret at having to leave me, but hoped I
-
-would amuse myself with the baby till he returned.
-
-
-
-“But why leave me?” I said. “I can go with you: I can be ready at any
-
-[[Time|time]].”
-
-
-
-“You would not take that [[Child|child]] to town?”
-
-
-
-“Yes; why not?”
-
-
-
-The thing was absurd: the air of the town would be certain to disagree
-
-with him, and with me as a [[Nurse|nurse]]; the late hours and [[London]] habits
-
-would not suit me under such circumstances; and altogether he assured
-
-me that it would be excessively troublesome, injurious, and unsafe. I
-
-over-ruled his objections as [[Well|well]] as I could, for I trembled at the
-
-thoughts of his going [[Alone|alone]], and would sacrifice almost anything for
-
-myself, much even for my [[Child|child]], to prevent it; but at length he told
-
-me, plainly, and somewhat testily, that he could not do with me: he was
-
-worn out with the baby’s restless nights, and must have some repose. I
-
-proposed separate apartments; but it would not do.
-
-
-
-“The [[Truth|truth]] is, [[Arthur]],” I said at last, “you are weary of my company,
-
-and determined not to have me with you. You might as [[Well|well]] have said so
-
-at once.”
-
-
-
-He denied it; but I immediately left the room, and flew to the nursery,
-
-to hide my feelings, if I could not soothe them, there.
-
-
-
-I was too much hurt to express any further dissatisfaction with his
-
-plans, or at all to refer to the subject again, except for the
-
-necessary arrangements concerning his departure and the conduct of
-
-affairs during his absence, till the day before he went, when I
-
-earnestly exhorted him to take care of himself and keep out of the way
-
-of [[Temptation|temptation]]. He laughed at my anxiety, but assured me there was no
-
-cause for it, and promised to attend to my advice.
-
-
-
-“I suppose it is no use asking you to fix a day for your return?” said
-
-I.
-
-
-
-“Why, no; I hardly can, under the circumstances; but be assured, [[Love|love]],
-
-I shall not be long away.”
-
-
-
-“I don’t wish to keep you a prisoner at [[Home|home]],” I replied; “I should not
-
-grumble at your staying whole months away—if you can be happy so long
-
-without me—provided I knew you were safe; but I don’t like the idea of
-
-your being there among your friends, as you call them.”
-
-
-
-“Pooh, pooh, you silly girl! Do you think I can’t take care of myself?”
-
-
-
-“You didn’t last [[Time|time]]. But THIS [[Time|time]], [[Arthur]],” I added, earnestly,
-
-“show me that you can, and teach me that I need not [[Fear|fear]] to trust you!”
-
-
-
-He promised fair, but in such a manner as we seek to soothe a [[Child|child]].
-
-And did he keep his promise? No; and henceforth _I can never trust his
-
-word_. Bitter, bitter confession! [[Tears]] blind me while I write. It was
-
-early in March that he went, and he did not return till July. This [[Time|time]]
-
-he did not trouble himself to make excuses as before, and his letters
-
-were less frequent, and shorter and less affectionate, especially after
-
-the first few weeks: they came slower and slower, and more terse and
-
-careless every [[Time|time]]. But still, when _I_ omitted writing, he complained
-
-of my neglect. When I wrote sternly and coldly, as I confess I
-
-frequently did at the last, he blamed my harshness, and said it was
-
-enough to scare him from his [[Home|home]]: when I tried mild [[Persuasion|persuasion]], he was
-
-a little more gentle in his replies, and promised to return; but I had
-
-learnt, at last, to disregard his promises.
-
-
-
-
-<span class="atom-split" data-atom="chapter_34" data-title="The Tenant of Wildfell Hall — Chapter 34" data-chapter="Chapter 34" data-kind="chapter"></span>
-
-
-CHAPTER XXXIV
-
-
-
-
-
-Evening.—Breakfast passed [[Well|well]] over: I was calm and cool throughout. I
-
-answered composedly all inquiries respecting my health; and whatever
-
-was unusual in my look or manner was generally attributed to the
-
-trifling indisposition that had occasioned my early retirement last
-
-[[Night|night]]. But how am I to get over the ten or twelve days that must yet
-
-elapse before they go? Yet why so long for their departure? When they
-
-_are_ gone, how shall I get through the months or years of my future
-
-life in company with that man—my greatest enemy? for none could injure
-
-me as he has done. Oh! when I think how fondly, how foolishly I have
-
-loved him, how madly I have trusted him, how constantly I have
-
-laboured, and studied, and prayed, and struggled for his advantage; and
-
-how cruelly he has trampled on my [[Love|love]], betrayed my trust, scorned my
-
-prayers and [[Tears|tears]], and efforts for his preservation, crushed my hopes,
-
-destroyed my youth’s best feelings, and doomed me to a life of hopeless
-
-misery, as far as man can do it, it is not enough to say that I no
-
-longer [[Love|love]] my husband—I HATE him! The word stares me in the face like
-
-a guilty confession, but it is true: I hate him—I hate him! But God
-
-have [[Mercy|mercy]] on his miserable [[Soul|soul]]! and make him see and feel his [[Guilt|guilt]]—I
-
-ask no other vengeance! If he could but fully know and truly feel my
-
-wrongs I should be [[Well|well]] avenged, and I could freely pardon all; but he
-
-is so lost, so hardened in his heartless depravity, that in this life I
-
-believe he never will. But it is useless dwelling on this theme: let me
-
-seek once more to dissipate reflection in the minor details of passing
-
-events.
-
-
-
-Mr. Hargrave has annoyed me all day long with his serious,
-
-sympathising, and (as _he_ thinks) unobtrusive politeness. If it were
-
-more obtrusive it would trouble me less, for then I could snub him;
-
-but, as it is, he contrives to appear so really kind and thoughtful
-
-that I cannot do so without rudeness and seeming ingratitude. I
-
-sometimes think I ought to give him credit for the good feeling he
-
-simulates so [[Well|well]]; and then again, I think it is my _duty_ to suspect
-
-him under the peculiar circumstances in which I am placed. His kindness
-
-may not all be feigned; but still, let not the purest impulse of
-
-gratitude to him induce me to forget myself: let me remember the game
-
-of chess, the expressions he used on the occasion, and those
-
-indescribable looks of his, that so justly roused my indignation, and I
-
-think I shall be safe enough. I have done [[Well|well]] to record them so
-
-minutely.
-
-
-
-I think he wishes to find an opportunity of speaking to me [[Alone|alone]]: he
-
-has seemed to be on the watch all day; but I have taken care to
-
-disappoint him—not that I [[Fear|fear]] anything he could say, but I have
-
-trouble enough without the addition of his insulting consolations,
-
-condolences, or whatever else he might attempt; and, for Milicent’s
-
-sake, I do not wish to quarrel with him. He excused himself from going
-
-out to shoot with the other gentlemen in the morning, under the pretext
-
-of having letters to write; and instead of retiring for that purpose
-
-into the library, he sent for his desk into the morning-room, where I
-
-was seated with Milicent and Lady Lowborough. They had betaken
-
-themselves to their work; I, less to divert my mind than to deprecate
-
-conversation, had provided myself with a book. Milicent saw that I
-
-wished to be quiet, and accordingly let me [[Alone|alone]]. Annabella, doubtless,
-
-saw it too: but that was no reason why she should restrain her tongue,
-
-or curb her cheerful spirits: _she_ accordingly chatted away,
-
-addressing herself almost exclusively to me, and with the utmost
-
-assurance and familiarity, growing the more animated and friendly the
-
-colder and briefer my answers became. Mr. Hargrave saw that I could ill
-
-endure it, and, looking up from his desk, he answered her questions and
-
-observations for me, as far as he could, and attempted to transfer her
-
-social attentions from me to himself; but it would not do. Perhaps she
-
-thought I had a headache, and could not bear to talk; at any rate, she
-
-saw that her loquacious vivacity annoyed me, as I could tell by the
-
-malicious pertinacity with which she persisted. But I checked it
-
-effectually by putting into her hand the book I had been trying to
-
-read, on the fly-leaf of which I had hastily scribbled,—
-
-
-
-“I am too [[Well|well]] acquainted with your character and conduct to feel any
-
-real [[Friendship|friendship]] for you, and as I am without your talent for
-
-dissimulation, I cannot assume the appearance of it. I must, therefore,
-
-beg that hereafter all familiar intercourse may cease between us; and
-
-if I still continue to treat you with civility, as if you were a woman
-
-worthy of consideration and respect, understand that it is out of
-
-regard for your cousin Milicent’s feelings, not for yours.”
-
-
-
-Upon perusing this she turned scarlet, and bit her lip. Covertly
-
-tearing away the leaf, she crumpled it up and put it in the [[Fire|fire]], and
-
-then employed herself in turning over the pages of the book, and,
-
-really or apparently, perusing its contents. In a little while Milicent
-
-announced it her intention to repair to the nursery, and asked if I
-
-would accompany her.
-
-
-
-“Annabella will excuse us,” said she; “she’s busy reading.”
-
-
-
-“No, I won’t,” cried Annabella, suddenly looking up, and throwing her
-
-book on the table; “I want to speak [[To Helen|to Helen]] a minute. You may go,
-
-Milicent, and she’ll follow in a while.” (Milicent went.) “Will you
-
-oblige me, [[Helen]]?” continued she.
-
-
-
-Her impudence astounded me; but I complied, and followed her into the
-
-library. She closed the door, and walked up to the [[Fire|fire]].
-
-
-
-“Who told you this?” said she.
-
-
-
-“No one: I am not incapable of seeing for myself.”
-
-
-
-“Ah, you are suspicious!” cried she, smiling, with a gleam of [[Hope|hope]].
-
-Hitherto there had been a kind of desperation in her hardihood; now she
-
-was evidently relieved.
-
-
-
-“If I _were_ suspicious,” I replied, “I should have discovered your
-
-infamy long before. No, Lady Lowborough, I do not found my charge upon
-
-suspicion.”
-
-
-
-“On what _do_ you found it, then?” said she, throwing herself into an
-
-arm-chair, and stretching out her feet to the fender, with an obvious
-
-effort to appear composed.
-
-
-
-“I enjoy a moonlight ramble as [[Well|well]] as you,” I answered, steadily
-
-fixing my eyes upon her; “and the shrubbery happens to be one of my
-
-favourite resorts.”
-
-
-
-She coloured again excessively, and remained silent, pressing her
-
-finger against her teeth, and gazing into the [[Fire|fire]]. I watched her a few
-
-moments with a feeling of malevolent gratification; then, moving
-
-towards the door, I calmly asked if she had anything more to say.
-
-
-
-“Yes, yes!” cried she eagerly, starting up from her reclining posture.
-
-“I want to know if you will tell [[Lord Lowborough]]?”
-
-
-
-“Suppose I do?”
-
-
-
-“[[Well]], if you are disposed to publish the matter, _I_ cannot dissuade
-
-you, of course—but there will be terrible work if you do—and if you
-
-don’t, I shall think you the most generous of mortal beings—and if
-
-there is anything in the world I can do for you—anything short of—” she
-
-hesitated.
-
-
-
-“Short of renouncing your guilty connection with my husband, I suppose
-
-you mean?” said I.
-
-
-
-She paused, in evident disconcertion and perplexity, mingled with anger
-
-she dared not show.
-
-
-
-“I cannot renounce what is dearer than life,” she muttered, in a low,
-
-hurried tone. Then, suddenly raising her head and fixing her gleaming
-
-eyes upon me, she continued earnestly: “But, [[Helen]]—or Mrs. Huntingdon,
-
-or whatever you would have me call you—_will_ you tell him? If you are
-
-generous, here is a fitting opportunity for the exercise of your
-
-magnanimity: if you are proud, here am I—your rival—ready to
-
-acknowledge myself your debtor for an act of the most noble
-
-forbearance.”
-
-
-
-“I shall not tell him.”
-
-
-
-“You will not!” cried she, delightedly. “Accept my sincere thanks,
-
-then!”
-
-
-
-She sprang up, and offered me her hand. I drew back.
-
-
-
-“Give me no thanks; it is not for _your_ sake that I refrain. Neither
-
-is it an act of any forbearance: I have no wish to publish your shame.
-
-I should be sorry to distress your husband with the knowledge of it.”
-
-
-
-“And Milicent? will you tell her?”
-
-
-
-“No: on the contrary, I shall do my utmost to conceal it from her. I
-
-would not for much that she should know the infamy and disgrace of her
-
-relation!”
-
-
-
-“You use hard words, Mrs. Huntingdon, but I can pardon you.”
-
-
-
-“And now, Lady Lowborough,” continued I, “let me counsel you to leave
-
-this [[house]] as soon as _possible_. You must be aware that your
-
-continuance here is excessively disagreeable to me—not for Mr.
-
-Huntingdon’s sake,” said I, observing the [[Dawn|dawn]] of a malicious smile of
-
-triumph on her face—“you are welcome to him, if you like him, as far as
-
-_I_ am concerned—but because it is painful to be always disguising my
-
-true sentiments respecting you, and straining to keep up an appearance
-
-of civility and respect towards one for whom I have not the most
-
-distant [[Shadow|shadow]] of esteem; and because, if you stay, your conduct cannot
-
-possibly remain concealed much longer from the only two persons in the
-
-[[house]] who do not know it already. And, for your husband’s sake,
-
-Annabella, and even for your own, I wish—I earnestly advise and
-
-_entreat_ you to break off this unlawful connection at once, and return
-
-to your duty while you may, before the dreadful consequences—”
-
-
-
-“Yes, yes, of course,” said she, interrupting me with a gesture of
-
-impatience. “But I cannot go, [[Helen]], before the [[Time|time]] appointed for our
-
-departure. What possible pretext could I frame for such a thing?
-
-Whether I proposed going back [[Alone|alone]]—which Lowborough would not hear
-
-of—or taking him with me, the very circumstance itself would be certain
-
-to excite suspicion—and when our visit is so _nearly_ at an end
-
-too—little more than a week—surely you can endure my presence _so_
-
-long! I will not annoy you with any more of my friendly impertinences.”
-
-
-
-“[[Well]], I have nothing more to say to you.”
-
-
-
-“Have you mentioned this affair to Huntingdon?” asked she, as I was
-
-leaving the room.
-
-
-
-“How dare you mention his name to me!” was the only answer I gave.
-
-
-
-No words have passed between us since, but such as outward decency or
-
-pure necessity demanded.
-
-
-
-
-<span class="atom-split" data-atom="chapter_36" data-title="The Tenant of Wildfell Hall — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
-
-
-CHAPTER XXXVI
-
-
-
-
-
-December 20th, 1824.—This is the third anniversary of our felicitous
-
-[[Union|union]]. It is now two months since our guests left us to the enjoyment
-
-of each other’s society; and I have had nine weeks’ experience of this
-
-new phase of conjugal life—two persons living together, as master and
-
-mistress of the [[house]], and father and mother of a winsome, merry little
-
-[[Child|child]], with the mutual understanding that there is no [[Love|love]], [[Friendship|friendship]],
-
-or sympathy between them. As far as in me lies, I endeavour to live
-
-peaceably with him: I treat him with unimpeachable civility, give up my
-
-convenience to his, wherever it may reasonably be done, and consult him
-
-in a business-like way on household affairs, deferring to his pleasure
-
-and judgment, even when I know the latter to be inferior to my own.
-
-
-
-As for him, for the first week or two, he was peevish and low,
-
-fretting, I suppose, over his dear Annabella’s departure, and
-
-particularly ill-tempered to me: everything I did was wrong; I was
-
-cold-hearted, hard, insensate; my sour, pale face was perfectly
-
-repulsive; my voice made him shudder; he knew not how he could live
-
-through the [[Winter|winter]] with me; I should kill him by inches. Again I
-
-proposed a separation, but it would not do: he was not going to be the
-
-talk of all the old gossips in the neighbourhood: he would not have it
-
-said that he was such a brute his wife could not live with him. No; he
-
-must contrive to bear with me.
-
-
-
-“I must contrive to bear with _you_, you mean,” said I; “for so long as
-
-I discharge my functions of steward and [[house]]-keeper, so
-
-conscientiously and [[Well|well]], without pay and without thanks, you cannot
-
-afford to part with me. I shall therefore remit these duties when my
-
-bondage becomes intolerable.” This threat, I thought, would serve to
-
-keep him in check, if anything would.
-
-
-
-I believe he was much disappointed that I did not feel his offensive
-
-sayings more acutely, for when he had said anything particularly [[Well|well]]
-
-calculated to hurt my feelings, he would stare me searchingly in the
-
-face, and then grumble against my “marble heart” or my “brutal
-
-insensibility.” If I had bitterly wept and deplored his lost affection,
-
-he would, perhaps, have condescended to pity me, and taken me into
-
-favour for a while, just to comfort his [[Solitude|solitude]] and console him for
-
-the absence of his beloved Annabella, until he could meet her again, or
-
-some more fitting substitute. Thank heaven, I am not so weak as that! I
-
-was infatuated once with a foolish, besotted affection, that clung to
-
-him in spite of his unworthiness, but it is fairly gone now—wholly
-
-crushed and withered away; and he has none but himself and his vices to
-
-thank for it.
-
-
-
-At first (in compliance with his sweet lady’s injunctions, I suppose),
-
-he abstained wonderfully [[Well|well]] from seeking to solace his cares in wine;
-
-but at length he began to relax his virtuous efforts, and now and then
-
-exceeded a little, and still continues to do so; nay, sometimes, not a
-
-little. When he is under the exciting influence of these excesses, he
-
-sometimes fires up and attempts to play the brute; and then I take
-
-little pains to suppress my scorn and disgust. When he is under the
-
-_depressing_ influence of the after-consequences, he bemoans his
-
-sufferings and his errors, and charges them both upon me; he knows such
-
-indulgence injures his health, and does him more harm than good; but he
-
-says I drive him to it by my unnatural, unwomanly conduct; it will be
-
-the ruin of him in the end, but it is all my fault; and _then_ I am
-
-roused to defend myself, sometimes with bitter recrimination. This is a
-
-kind of injustice I cannot patiently endure. Have I not laboured long
-
-and hard to save him from this very vice? Would I not labour still to
-
-deliver him from it if I could? but could I do so by fawning upon him
-
-and caressing him when I know that he scorns me? Is it _my_ fault that
-
-I have lost my influence with him, or that he has forfeited every claim
-
-to my regard? And should I seek a [[Reconciliation|reconciliation]] with him, when I feel
-
-that I abhor him, and that he despises me? and while he continues still
-
-to correspond with Lady Lowborough, as I know he does? No, never,
-
-never, never! he may drink himself dead, but it is NOT my fault!
-
-
-
-Yet I do my part to save him still: I give him to understand that
-
-drinking makes his eyes dull, and his face red and bloated; and that it
-
-tends to render him imbecile in [[Body|body]] and mind; and if Annabella were to
-
-see him as often as I do, she would speedily be disenchanted; and that
-
-she certainly will withdraw her favour from him, if he continues such
-
-courses. Such a mode of admonition wins only coarse abuse for me—and,
-
-indeed, I almost feel as if I deserved it, for I hate to use such
-
-arguments; but they sink into his stupefied heart, and make him pause,
-
-and ponder, and abstain, more than anything else I could say.
-
-
-
-At present I am enjoying a temporary relief from his presence: he is
-
-gone with Hargrave to join a distant hunt, and will probably not be
-
-back before to-morrow evening. How differently I used to feel his
-
-absence!
-
-
-
-Mr. Hargrave is still at the Grove. He and [[Arthur]] frequently meet to
-
-pursue their rural sports together: he often calls upon us here, and
-
-[[Arthur]] not unfrequently rides over to him. I do not think either of
-
-these soi-disant friends is overflowing with [[Love|love]] for the other; but
-
-such intercourse serves to get the [[Time|time]] on, and I am very willing it
-
-should continue, as it saves me some hours of discomfort in [[Arthur]]’s
-
-society, and gives him some better employment than the sottish
-
-indulgence of his sensual appetites. The only objection I have to Mr.
-
-Hargrave’s being in the neighbourhood, is that the [[Fear|fear]] of meeting him
-
-at the Grove prevents me from seeing his sister so often as I otherwise
-
-should; for, of late, he has conducted himself towards me with such
-
-unerring propriety, that I have almost forgotten his former conduct. I
-
-suppose he is striving to “win my esteem.” If he continue to act in
-
-this way, he _may_ win it; but what then? The moment he attempts to
-
-demand anything more, he will lose it again.
-
-
-
-February 10th.—It is a hard, embittering thing to have one’s kind
-
-feelings and good intentions cast back in one’s teeth. I was beginning
-
-to relent towards my wretched partner; to pity his forlorn, comfortless
-
-condition, unalleviated as it is by the consolations of intellectual
-
-resources and the answer of a good [[Conscience|conscience]] towards God; and to think
-
-I ought to sacrifice my [[Pride|pride]], and renew my efforts once again to make
-
-his [[Home|home]] agreeable and lead him back to the path of virtue; not by
-
-false professions of [[Love|love]], and not by pretended remorse, but by
-
-mitigating my habitual coldness of manner, and commuting my frigid
-
-civility into kindness wherever an opportunity occurred; and not only
-
-was I beginning to think so, but I had already begun to act upon the
-
-thought—and what was the result? No answering spark of kindness, no
-
-awakening penitence, but an unappeasable ill-[[Humour|humour]], and a spirit of
-
-tyrannous exaction that increased with indulgence, and a lurking gleam
-
-of [[Self|self]]-complacent triumph at every detection of relenting softness in
-
-my manner, that congealed me to marble again as often as it recurred;
-
-and this morning he finished the business:—I think the petrifaction is
-
-so completely effected at last that nothing can melt me again. Among
-
-his letters was one which he perused with symptoms of unusual
-
-gratification, and then threw it across the table to me, with the
-
-admonition,—
-
-
-
-“There! read that, and take a lesson by it!”
-
-
-
-It was in the free, dashing hand of Lady Lowborough. I glanced at the
-
-first page; it seemed full of extravagant protestations of affection;
-
-impetuous longings for a speedy reunion—and impious defiance of God’s
-
-mandates, and railings against His [[Providence|providence]] for having cast their lot
-
-asunder, and doomed them both to the hateful bondage of alliance with
-
-those they could not [[Love|love]]. He gave a slight titter on seeing me change
-
-colour. I folded up the letter, [[Rose|rose]], and returned it to him, with no
-
-remark, but—
-
-
-
-“Thank you, I _will_ take a lesson by it!”
-
-
-
-My little [[Arthur]] was standing between his knees, delightedly playing
-
-with the bright, ruby ring on his finger. Urged by a sudden, imperative
-
-impulse to deliver my son from that contaminating influence, I caught
-
-him up in my arms and carried him with me out of the room. Not liking
-
-this abrupt removal, the [[Child|child]] began to pout and cry. This was a new
-
-stab to my already tortured heart. I would not let him go; but, taking
-
-him with me into the library, I shut the door, and, kneeling on the
-
-floor beside him, I embraced him, kissed him, wept over with him with
-
-passionate fondness. Rather frightened than consoled by this, he turned
-
-struggling from me, and cried out aloud for his papa. I released him
-
-from my arms, and never were more bitter [[Tears|tears]] than those that now
-
-concealed him from my blinded, burning eyes. Hearing his cries, the
-
-father came to the room. I instantly turned away, lest he should see
-
-and misconstrue my emotion. He swore at me, and took the now pacified
-
-[[Child|child]] away.
-
-
-
-It is hard that my little darling should [[Love|love]] him more than me; and
-
-that, when the [[Well|well]]-being and culture of my son is all I have to live
-
-for, I should see my influence destroyed by one whose selfish affection
-
-is more injurious than the coldest indifference or the harshest tyranny
-
-could be. If I, for his good, deny him some trifling indulgence, he
-
-goes to his father, and the latter, in spite of his selfish [[Indolence|indolence]],
-
-will even give himself some trouble to meet the [[Child|child]]’s desires: if I
-
-attempt to curb his will, or look gravely on him for some act of
-
-childish disobedience, he knows his other parent will smile and take
-
-his part against me. Thus, not only have I the father’s spirit in the
-
-son to contend against, the germs of his evil tendencies to search out
-
-and eradicate, and his corrupting intercourse and example in after-life
-
-to counteract, but already _he_ counteracts my arduous labour for the
-
-[[Child|child]]’s advantage, destroys my influence over his tender mind, and robs
-
-me of his very [[Love|love]]; I had no earthly [[Hope|hope]] but this, and he seems to
-
-take a diabolical delight in tearing it away.
-
-
-
-But it is wrong to [[Despair|despair]]; I will remember the counsel of the inspired
-
-writer to him “that feareth the Lord and obeyeth the voice of his
-
-servant, that _sitteth in darkness and hath no light;_ let him trust in
-
-the name of the Lord, and stay upon his God!”
-
-
-
-
-<span class="atom-split" data-atom="chapter_40" data-title="The Tenant of Wildfell Hall — Chapter 40" data-chapter="Chapter 40" data-kind="chapter"></span>
-
-
-CHAPTER XL
-
-
-
-
-
-January 10th, 1827.—While writing the above, yesterday evening, I sat
-
-in the drawing-room. Mr. Huntingdon was present, but, as I thought,
-
-asleep on the sofa behind me. He had risen, however, unknown to me,
-
-and, actuated by some base spirit of curiosity, been looking over my
-
-shoulder for I know not how long; for when I had laid aside my pen, and
-
-was about to close the book, he suddenly placed his hand upon it, and
-
-saying,—“With your leave, my dear, I’ll have a look at this,” forcibly
-
-wrested it from me, and, drawing a chair to the table, composedly sat
-
-down to examine it: turning back leaf after leaf to find an explanation
-
-of what he had read. Unluckily for me, he was more sober that [[Night|night]]
-
-than he usually is at such an hour.
-
-
-
-Of course I did not leave him to pursue this occupation in quiet: I
-
-made several attempts to snatch the book from his hands, but he held it
-
-too firmly for that; I upbraided him in bitterness and scorn for his
-
-mean and dishonourable conduct, but that had no effect upon him; and,
-
-finally, I extinguished both the candles, but he only wheeled round to
-
-the [[Fire|fire]], and raising a blaze sufficient for his purposes, calmly
-
-continued the investigation. I had serious thoughts of getting a
-
-pitcher of [[Water|water]] and extinguishing that light too; but it was evident
-
-his curiosity was too keenly excited to be quenched by that, and the
-
-more I manifested my anxiety to baffle his scrutiny, the greater would
-
-be his determination to persist in it, besides it was too late.
-
-
-
-“It seems very interesting, [[Love|love]],” said he, lifting his head and
-
-turning to where I stood, wringing my hands in silent rage and anguish;
-
-“but it’s rather long; I’ll look at it some other [[Time|time]]; and meanwhile
-
-I’ll trouble you for your keys, my dear.”
-
-
-
-“What keys?”
-
-
-
-“The keys of your cabinet, desk, drawers, and whatever else you
-
-possess,” said he, rising and holding out his hand.
-
-
-
-“I’ve not got them,” I replied. The key of my desk, in fact, was at
-
-that moment in the lock, and the others were attached to it.
-
-
-
-“Then you must send for them,” said he; “and if that old devil, Rachel,
-
-doesn’t immediately deliver them up, she tramps bag and baggage
-
-tomorrow.”
-
-
-
-“She doesn’t know where they are,” I answered, quietly placing my hand
-
-upon them, and taking them from the desk, as I thought, unobserved.
-
-“_I_ know, but I shall not give them up without a reason.”
-
-
-
-“And _I_ know, too,” said he, suddenly seizing my closed hand and
-
-rudely abstracting them from it. He then took up one of the candles and
-
-relighted it by thrusting it into the [[Fire|fire]].
-
-
-
-“Now, then,” sneered he, “we must have a confiscation of property. But,
-
-first, let us take a peep into the studio.”
-
-
-
-And putting the keys into his pocket, he walked into the library. I
-
-followed, whether with the dim idea of preventing mischief, or only to
-
-know the worst, I can hardly tell. My painting materials were laid
-
-together on the corner table, ready for to-morrow’s use, and only
-
-covered with a cloth. He soon spied them out, and putting down the
-
-candle, deliberately proceeded to cast them into the [[Fire|fire]]: palette,
-
-paints, bladders, pencils, brushes, varnish: I saw them all consumed:
-
-the palette-knives snapped in two, the oil and turpentine sent hissing
-
-and roaring up the chimney. He then rang the bell.
-
-
-
-“Benson, take those things away,” said he, pointing to the easel,
-
-canvas, and stretcher; “and tell the housemaid she may kindle the [[Fire|fire]]
-
-with them: your mistress won’t want them any more.”
-
-
-
-Benson paused aghast and looked at me.
-
-
-
-“Take them away, Benson,” said I; and his master muttered an oath.
-
-
-
-“And this and all, sir?” said the astonished servant, referring to the
-
-half-finished picture.
-
-
-
-“That and all,” replied the master; and the things were cleared away.
-
-
-
-Mr. Huntingdon then went up-stairs. I did not attempt to follow him,
-
-but remained seated in the arm-chair, speechless, tearless, and almost
-
-motionless, till he returned about half-an-hour after, and walking up
-
-to me, held the candle in my face and peered into my eyes with looks
-
-and laughter too insulting to be borne. With a sudden stroke of my hand
-
-I dashed the candle to the floor.
-
-
-
-“Hal-lo!” muttered he, starting back; “she’s the very devil for spite.
-
-Did _ever_ any mortal see such eyes?—they shine in the dark like a
-
-cat’s. _Oh_, you’re a sweet one!” So saying, he gathered up the candle
-
-and the candlestick. The former being broken as [[Well|well]] as extinguished,
-
-he rang for another.
-
-
-
-“Benson, your mistress has broken the candle; bring another.”
-
-
-
-“You expose yourself finely,” observed I, as the man departed.
-
-
-
-“I didn’t say _I’d_ broken it, did I?” returned he. He then threw my
-
-keys into my lap, saying,—“There! you’ll find nothing gone but your
-
-money, and the jewels, and a few little trifles I thought it advisable
-
-to take into my own possession, lest your mercantile spirit should be
-
-tempted to turn them into gold. I’ve left you a few sovereigns in your
-
-purse, which I expect to last you through the month; at all events,
-
-when you want more you will be so good as to give me an account of how
-
-that’s spent. I shall put you upon a small monthly allowance, in
-
-future, for your own private expenses; and you needn’t trouble yourself
-
-any more about my concerns; I shall look out for a steward, my dear—I
-
-won’t expose you to the [[Temptation|temptation]]. And as for the household matters,
-
-Mrs. Greaves must be very particular in keeping her accounts; we must
-
-go upon an entirely new plan—”
-
-
-
-“What great discovery have you made now, Mr. Huntingdon? Have I
-
-attempted to defraud you?”
-
-
-
-“Not in money matters, exactly, it seems; but it’s best to keep out of
-
-the way of [[Temptation|temptation]].”
-
-
-
-Here Benson entered with the candles, and there followed a brief
-
-interval of [[Silence|silence]]; I sitting still in my chair, and he standing with
-
-his back to the [[Fire|fire]], silently triumphing in my [[Despair|despair]].
-
-
-
-“And so,” said he at length, “you thought to disgrace me, did you, by
-
-running away and turning [[artist]], and supporting yourself by the labour
-
-of your hands, forsooth? And you thought to rob me of my son, too, and
-
-bring him up to be a dirty Yankee tradesman, or a low, beggarly
-
-painter?”
-
-
-
-“Yes, to obviate his becoming such a gentleman as his father.”
-
-
-
-“It’s [[Well|well]] you couldn’t keep your own secret—ha, ha! It’s [[Well|well]] these
-
-women must be blabbing. If they haven’t a friend to talk to, they must
-
-whisper their [[Secrets|secrets]] to the fishes, or write them on the sand, or
-
-something; and it’s [[Well|well]], too, I wasn’t over full to-[[Night|night]], now I think
-
-of it, or I might have snoozed away and never dreamt of looking what my
-
-sweet lady was about; or I might have lacked the sense or the power to
-
-carry my point like a man, as I have done.”
-
-
-
-Leaving him to his [[Self|self]]-congratulations, I [[Rose|rose]] to secure my
-
-manuscript, for I now remembered it had been left upon the drawing-room
-
-table, and I determined, if possible, to save myself the humiliation of
-
-seeing it in his hands again. I could not bear the idea of his amusing
-
-himself over my secret thoughts and recollections; though, to be sure,
-
-he would find little good of himself therein indited, except in the
-
-former part; and oh, I would sooner burn it all than he should read
-
-what I had written when I was such a [[Fool|fool]] as to [[Love|love]] him!
-
-
-
-“And by-the-by,” cried he, as I was leaving the room, “you’d better
-
-tell that d—d old sneak of a [[Nurse|nurse]] to keep out of my way for a day or
-
-two; I’d pay her her wages and send her packing to-morrow, but I know
-
-she’d do more mischief out of the [[house]] than in it.”
-
-
-
-And as I departed, he went on cursing and abusing my faithful friend
-
-and servant with epithets I will not defile this paper with repeating.
-
-I went to her as soon as I had put away my book, and told her how our
-
-project was defeated. She was as much distressed and horrified as I
-
-was—and more so than I was that [[Night|night]], for I was partly stunned by the
-
-blow, and partly excited and supported against it by the bitterness of
-
-my wrath. But in the morning, when I woke without that cheering [[Hope|hope]]
-
-that had been my secret comfort and support so long, and all this day,
-
-when I have wandered about restless and objectless, shunning my
-
-husband, shrinking even from my [[Child|child]], knowing that I am unfit to be
-
-his teacher or companion, hoping nothing for his future life, and
-
-fervently wishing he had never been born,—I felt the full extent of my
-
-calamity, and I feel it now. I know that day after day such feelings
-
-will return upon me. I am a slave—a prisoner—but that is nothing; if it
-
-were myself [[Alone|alone]] I would not complain, but I am forbidden to rescue my
-
-son from ruin, and what was once my only consolation is become the
-
-crowning source of my [[Despair|despair]].
-
-
-
-Have I no [[Faith|faith]] in God? I try to look to Him and raise my heart to
-
-heaven, but it will cleave to the [[Dust|dust]]. I can only say, “He hath hedged
-
-me about, that I cannot get out: He hath made my chain heavy. He hath
-
-filled me with bitterness—He hath made me drunken with wormwood.” I
-
-forget to add, “But though He cause grief, yet will He have compassion
-
-according to the multitude of His mercies. For He doth not afflict
-
-willingly nor grieve the children of men.” I ought to think of this;
-
-and if there be nothing but sorrow for me in this world, what is the
-
-longest life of misery to a whole [[Eternity|eternity]] of peace? And for my little
-
-[[Arthur]]—has he no friend but me? Who was it said, “It is not the will of
-
-your Father which is in heaven that one of these little ones should
-
-perish?”
-
-
-
-
-<span class="atom-split" data-atom="chapter_42" data-title="The Tenant of Wildfell Hall — Chapter 42" data-chapter="Chapter 42" data-kind="chapter"></span>
-
-
-CHAPTER XLII
-
-
-
-
-
-September 1st.—No Mr. Huntingdon yet. Perhaps he will stay among his
-
-friends till Christmas; and then, next [[Spring|spring]], he will be off again. If
-
-he continue this plan, I shall be able to stay at Grassdale [[Well|well]]
-
-enough—that is, I _shall_ be able to stay, and that is enough; even an
-
-occasional bevy of friends at the shooting season may be borne, if
-
-[[Arthur]] get so firmly attached to me, so [[Well|well]] established in good sense
-
-and principles before they come that I shall be able, by reason and
-
-affection, to keep him pure from their contaminations. Vain [[Hope|hope]], I
-
-[[Fear|fear]]! but still, till such a [[Time|time]] of trial comes I will forbear to
-
-think of my quiet asylum in the beloved old hall.
-
-
-
-Mr. and Mrs. Hattersley have been staying at the Grove a fortnight: and
-
-as Mr. Hargrave is still absent, and the weather was remarkably fine, I
-
-never passed a day without seeing my two friends, Milicent and Esther,
-
-either there or here. On one occasion, when Mr. Hattersley had driven
-
-them over to Grassdale in the phaeton, with little [[Helen]] and Ralph, and
-
-we were all enjoying ourselves in the [[Garden|garden]]—I had a few minutes’
-
-conversation with that gentleman, while the ladies were amusing
-
-themselves with the children.
-
-
-
-“Do you want to hear anything of your husband, Mrs. Huntingdon?” said
-
-he.
-
-
-
-“No, unless you can tell me when to expect him [[Home|home]].”
-
-
-
-“I can’t.—You don’t want him, do you?” said he, with a broad grin.
-
-
-
-“No.”
-
-
-
-“[[Well]], I think you’re better without him, sure enough—for my part, I’m
-
-downright weary of him. I told him I’d leave him if he didn’t mend his
-
-manners, and he wouldn’t; so I left him. You see, I’m a better man than
-
-you think me; and, what’s more, I have serious thoughts of washing my
-
-hands of him entirely, and the whole set of ’em, and comporting myself
-
-from this day forward with all decency and sobriety, as a Christian and
-
-the father of a family should do. What do you think of that?”
-
-
-
-“It is a resolution you ought to have formed long ago.”
-
-
-
-“[[Well]], I’m not thirty yet; it isn’t too late, is it?”
-
-
-
-“No; it is never too late to [[Reform|reform]], as long as you have the sense to
-
-[[Desire|desire]] it, and the strength to execute your purpose.”
-
-
-
-“[[Well]], to tell you the [[Truth|truth]], I’ve thought of it often and often
-
-before; but he’s such devilish good company, is Huntingdon, after all.
-
-You can’t imagine what a jovial good fellow he is when he’s not fairly
-
-drunk, only just primed or half-seas-over. We all have a bit of a
-
-liking for him at the [[Bottom|bottom]] of our hearts, though we can’t respect
-
-him.”
-
-
-
-“But should you wish yourself to be like him?”
-
-
-
-“No, I’d rather be like myself, bad as I am.”
-
-
-
-“You can’t continue as bad as you are without getting worse and more
-
-brutalised every day, and therefore more like him.”
-
-
-
-I could not help smiling at the comical, half-angry, half-confounded
-
-look he put on at this rather unusual mode of address.
-
-
-
-“Never mind my plain speaking,” said I; “it is from the best of
-
-motives. But tell me, should you wish your sons to be like Mr.
-
-Huntingdon—or even like yourself?”
-
-
-
-“Hang it! no.”
-
-
-
-“Should you wish your daughter to despise you—or, at least, to feel no
-
-vestige of respect for you, and no affection but what is mingled with
-
-the bitterest regret?”
-
-
-
-“Oh, no! I couldn’t stand that.”
-
-
-
-“And, finally, should you wish your wife to be ready to sink into the
-
-earth when she hears you mentioned; and to loathe the very sound of
-
-your voice, and shudder at your approach?”
-
-
-
-“She never will; she likes me all the same, whatever I do.”
-
-
-
-“Impossible, Mr. Hattersley! you mistake her quiet submission for
-
-affection.”
-
-
-
-“[[Fire]] and fury—”
-
-
-
-“Now don’t burst into a tempest at that. I don’t mean to say she does
-
-not [[Love|love]] you—she does, I know, a great deal better than you deserve;
-
-but I am quite sure, that if you behave better, she will [[Love|love]] you more,
-
-and if you behave worse, she will [[Love|love]] you less and less, till all is
-
-lost in [[Fear|fear]], aversion, and bitterness of [[Soul|soul]], if not in secret hatred
-
-and contempt. But, dropping the subject of affection, should you wish
-
-to be the [[Tyrant|tyrant]] of her life—to take away all the sunshine from her
-
-existence, and make her thoroughly miserable?”
-
-
-
-“Of course not; and I don’t, and I’m not going to.”
-
-
-
-“You have done more towards it than you suppose.”
-
-
-
-“Pooh, pooh! she’s not the susceptible, anxious, worriting creature you
-
-imagine: she’s a little meek, peaceable, affectionate [[Body|body]]; apt to be
-
-rather sulky at times, but quiet and cool in the main, and ready to
-
-take things as they come.”
-
-
-
-“Think of what she was five years ago, when you married her, and what
-
-she is now.”
-
-
-
-“I know she was a little plump lassie then, with a pretty pink and
-
-white face: now she’s a poor little bit of a creature, fading and
-
-melting away like a [[Snow|snow]]-wreath. But hang it!—that’s not my fault.”
-
-
-
-“What is the cause of it then? Not years, for she’s only
-
-five-and-twenty.”
-
-
-
-“It’s her own delicate health, and confound it, madam! what would you
-
-make of me?—and the children, to be sure, that worry her to [[Death|death]]
-
-between them.”
-
-
-
-“No, Mr. Hattersley, the children give her more pleasure than [[Pain|pain]]:
-
-they are fine, [[Well|well]]-dispositioned children—”
-
-
-
-“I know they are—bless them!”
-
-
-
-“Then why lay the blame on them?—I’ll tell you what it is: it’s silent
-
-fretting and constant anxiety on your account, mingled, I suspect, with
-
-something of bodily [[Fear|fear]] on her own. When you behave [[Well|well]], she can only
-
-rejoice with trembling; she has no security, no confidence in your
-
-judgment or principles; but is continually dreading the close of such
-
-short-lived felicity; when you behave ill, her causes of terror and
-
-misery are more than any one can tell but herself. In patient [[Endurance|endurance]]
-
-of evil, she forgets it is our duty to admonish our neighbours of their
-
-transgressions. Since you _will_ mistake her [[Silence|silence]] for indifference,
-
-come with me, and I’ll show you one or two of her letters—no breach of
-
-confidence, I [[Hope|hope]], since you are her other half.”
-
-
-
-He followed me into the library. I sought out and put into his hands
-
-two of Milicent’s letters: one dated from [[London]], and written during
-
-one of his wildest [[Seasons|seasons]] of reckless dissipation; the other in the
-
-country, during a lucid interval. The former was full of trouble and
-
-anguish; not accusing _him_, but deeply regretting his connection with
-
-his profligate companions, abusing Mr. Grimsby and others, insinuating
-
-bitter things against Mr. Huntingdon, and most ingeniously throwing the
-
-blame of her husband’s misconduct on to other men’s shoulders. The
-
-latter was full of [[Hope|hope]] and joy, yet with a trembling consciousness
-
-that this happiness would not last; praising his goodness to the skies,
-
-but with an evident, though but half-expressed wish, that it were based
-
-on a surer foundation than the natural impulses of the heart, and a
-
-half-prophetic dread of the fall of that [[house]] so founded on the
-
-sand,—which fall had shortly after taken place, as Hattersley must have
-
-been conscious while he read.
-
-
-
-Almost at the commencement of the first letter I had the unexpected
-
-pleasure of seeing him blush; but he immediately turned his back to me,
-
-and finished the perusal at the [[Window|window]]. At the second, I saw him, once
-
-or twice, raise his hand, and hurriedly pass it across his face. Could
-
-it be to dash away a tear? When he had done, there was an interval
-
-spent in clearing his throat and staring out of the [[Window|window]], and then,
-
-after whistling a few bars of a favourite air, he turned round, gave me
-
-back the letters, and silently shook me by the hand.
-
-
-
-“I’ve been a cursed rascal, God knows,” said he, as he gave it a hearty
-
-squeeze, “but you see if I don’t make amends for it—d—n me if I don’t!”
-
-
-
-“Don’t curse yourself, Mr. Hattersley; if God had heard half your
-
-invocations of that kind, you would have been in hell long before
-
-now—and you _cannot_ make amends for the past by doing your duty for
-
-the future, inasmuch as your duty is only what you _owe_ to your Maker,
-
-and you cannot do _more_ than fulfil it: another must make amends for
-
-your past delinquencies. If you intend to [[Reform|reform]], invoke God’s
-
-blessing, His [[Mercy|mercy]], and His aid; not His curse.”
-
-
-
-“God help me, then—for I’m sure I need it. Where’s Milicent?”
-
-
-
-“She’s there, just coming in with her sister.”
-
-
-
-He stepped out at the glass door, and went to meet them. I followed at
-
-a little distance. Somewhat to his wife’s astonishment, he lifted her
-
-off from the ground, and saluted her with a hearty kiss and a strong
-
-embrace; then placing his two hands on her shoulders, he gave her, I
-
-suppose, a [[Sketch|sketch]] of the great things he meant to do, for she suddenly
-
-threw her arms round him, and burst into [[Tears|tears]], exclaiming,—“Do, do,
-
-Ralph—we shall be so happy! How very, very good you are!”
-
-
-
-“Nay, not I,” said he, turning her round, and pushing her towards me.
-
-“Thank _her;_ it’s her doing.”
-
-
-
-Milicent flew to thank me, overflowing with gratitude. I disclaimed all
-
-title to it, telling her her husband was predisposed to amendment
-
-before I added my mite of exhortation and encouragement, and that I had
-
-only done what she might, and ought to have done herself.
-
-
-
-“Oh, no!” cried she; “I couldn’t have influenced him, I’m sure, by
-
-anything that I could have said. I should only have bothered him by my
-
-clumsy efforts at [[Persuasion|persuasion]], if I had made the attempt.”
-
-
-
-“You never tried me, Milly,” said he.
-
-
-
-Shortly after they took their leave. They are now gone on a visit to
-
-Hattersley’s father. After that they will repair to their country [[Home|home]].
-
-I [[Hope|hope]] his good resolutions will not fall through, and poor Milicent
-
-will not be again disappointed. Her last letter was full of present
-
-bliss, and pleasing anticipations for the future; but no particular
-
-[[Temptation|temptation]] has yet occurred to put his virtue to the test. Henceforth,
-
-however, she will doubtless be somewhat less timid and reserved, and he
-
-more kind and thoughtful.—Surely, then, her hopes are not unfounded;
-
-and I have one bright spot, at least, whereon to rest my thoughts.
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -44423,6 +39639,358 @@ in spirit.
 
 
 
+<span class="atom-split" data-atom="chapter_05" data-title="The Tenant of Wildfell Hall — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+
+
+CHAPTER V
+
+
+
+
+
+It was about the close of the month, that, yielding at length to the
+
+urgent importunities of [[Rose]], I accompanied her in a visit to Wildfell
+
+Hall. To our surprise, we were ushered into a room where the first
+
+object that met the eye was a painter’s easel, with a table beside it
+
+covered with rolls of canvas, bottles of oil and varnish, palette,
+
+brushes, paints, &c. Leaning against the wall were several sketches in
+
+various stages of progression, and a few finished paintings—mostly of
+
+landscapes and figures.
+
+
+
+“I must make you welcome to my studio,” said Mrs. Graham; “there is no
+
+[[Fire|fire]] in the sitting-room to-day, and it is rather too cold to show you
+
+into a place with an empty grate.”
+
+
+
+And disengaging a couple of chairs from the artistical lumber that
+
+usurped them, she bid us be seated, and resumed her place beside the
+
+easel—not facing it exactly, but now and then glancing at the picture
+
+upon it while she conversed, and giving it an occasional touch with her
+
+brush, as if she found it impossible to wean her attention entirely
+
+from her occupation to fix it upon her guests. It was a view of
+
+Wildfell Hall, as seen at early morning from the field below, rising in
+
+dark relief against a sky of clear silvery blue, with a few red streaks
+
+on the horizon, faithfully drawn and coloured, and very elegantly and
+
+artistically handled.
+
+
+
+“I see your heart is in your work, Mrs. Graham,” observed I: “I must
+
+beg you to go on with it; for if you suffer our presence to interrupt
+
+you, we shall be constrained to regard ourselves as unwelcome
+
+intruders.”
+
+
+
+“Oh, no!” replied she, throwing her brush on to the table, as if
+
+startled into politeness. “I am not so beset with visitors but that I
+
+can readily spare a few minutes to the few that do favour me with their
+
+company.”
+
+
+
+“You have almost completed your painting,” said I, approaching to
+
+observe it more closely, and surveying it with a greater degree of
+
+admiration and delight than I cared to express. “A few more touches in
+
+the foreground will finish it, I should think. But why have you called
+
+it Fernley Manor, Cumberland, instead of Wildfell Hall, ——shire?” I
+
+asked, alluding to the name she had traced in small characters at the
+
+[[Bottom|bottom]] of the canvas.
+
+
+
+But immediately I was sensible of having committed an act of
+
+impertinence in so doing; for she coloured and hesitated; but after a
+
+moment’s pause, with a kind of desperate frankness, she replied:—
+
+
+
+“Because I have friends—acquaintances at least—in the world, from whom
+
+I [[Desire|desire]] my present abode to be concealed; and as they might see the
+
+picture, and might possibly recognise the style in spite of the false
+
+initials I have put in the corner, I take the precaution to give a
+
+false name to the place also, in order to put them on a wrong scent, if
+
+they should attempt to trace me out by it.”
+
+
+
+“Then you don’t intend to keep the picture?” said I, anxious to say
+
+anything to change the subject.
+
+
+
+“No; I cannot afford to paint for my own amusement.”
+
+
+
+“Mamma sends all her pictures to [[London]],” said [[Arthur]]; “and somebody
+
+sells them for her there, and sends us the money.”
+
+
+
+In looking round upon the other pieces, I remarked a pretty [[Sketch|sketch]] of
+
+Lindenhope from the top of the [[Hill|hill]]; another view of the old hall
+
+basking in the sunny haze of a quiet [[Summer|summer]] afternoon; and a simple but
+
+striking little picture of a [[Child|child]] brooding, with looks of silent but
+
+deep and sorrowful regret, over a handful of withered [[Flowers|flowers]], with
+
+glimpses of dark low hills and autumnal fields behind it, and a dull
+
+beclouded sky above.
+
+
+
+“You see there is a sad dearth of subjects,” observed the fair [[artist]].
+
+“I took the old hall once on a moonlight [[Night|night]], and I suppose I must
+
+take it again on a snowy [[Winter|winter]]’s day, and then again on a dark cloudy
+
+evening; for I really have nothing else to paint. I have been told that
+
+you have a fine view of the sea somewhere in the neighbourhood. Is it
+
+true?—and is it within walking distance?”
+
+
+
+“Yes, if you don’t object to walking four miles—or nearly so—little
+
+short of eight miles, there and back—and over a somewhat rough,
+
+fatiguing [[Road|road]].”
+
+
+
+“In what direction does it lie?”
+
+
+
+I described the situation as [[Well|well]] as I could, and was entering upon an
+
+explanation of the various roads, lanes, and fields to be traversed in
+
+order to reach it, the goings straight on, and turnings to the right
+
+and the left, when she checked me with,—
+
+
+
+“Oh, stop! don’t tell me now: I shall forget every word of your
+
+directions before I require them. I shall not think about going till
+
+next [[Spring|spring]]; and then, perhaps, I may trouble you. At present we have
+
+the [[Winter|winter]] before us, and—”
+
+
+
+She suddenly paused, with a suppressed exclamation, started up from her
+
+seat, and saying, “Excuse me one moment,” hurried from the room, and
+
+shut the door behind her.
+
+
+
+Curious to see what had startled her so, I looked towards the
+
+[[Window|window]]—for her eyes had been carelessly fixed upon it the moment
+
+before—and just beheld the skirts of a man’s coat vanishing behind a
+
+large holly-bush that stood between the [[Window|window]] and the porch.
+
+
+
+“It’s mamma’s friend,” said [[Arthur]].
+
+
+
+[[Rose]] and I looked at each other.
+
+
+
+“I don’t know what to make of her at all,” whispered [[Rose]].
+
+
+
+The [[Child|child]] looked at her in [[Grave|grave]] surprise. She straightway began to
+
+talk to him on indifferent matters, while I amused myself with looking
+
+at the pictures. There was one in an obscure corner that I had not
+
+before observed. It was a little [[Child|child]], seated on the grass with its
+
+lap full of [[Flowers|flowers]]. The tiny features and large blue eyes, smiling
+
+through a shock of light brown curls, shaken over the forehead as it
+
+bent above its treasure, bore sufficient resemblance to those of the
+
+young gentleman before me to proclaim it a portrait of [[Arthur]] Graham in
+
+his early infancy.
+
+
+
+In taking this up to bring it to the light, I discovered another behind
+
+it, with its face to the wall. I ventured to take that up too. It was
+
+the portrait of a gentleman in the full prime of youthful
+
+manhood—handsome enough, and not badly executed; but if done by the
+
+same hand as the others, it was evidently some years before; for there
+
+was far more careful minuteness of detail, and less of that freshness
+
+of colouring and [[Freedom|freedom]] of handling that delighted and surprised me in
+
+them. Nevertheless, I surveyed it with considerable interest. There was
+
+a certain individuality in the features and expression that stamped it,
+
+at once, a successful likeness. The bright blue eyes regarded the
+
+spectator with a kind of lurking drollery—you almost expected to see
+
+them wink; the lips—a little too voluptuously full—seemed ready to
+
+break into a smile; the warmly-tinted cheeks were embellished with a
+
+luxuriant growth of reddish whiskers; while the bright chestnut hair,
+
+clustering in abundant, wavy curls, trespassed too much upon the
+
+forehead, and seemed to intimate that the owner thereof was prouder of
+
+his [[Beauty|beauty]] than his intellect—as, perhaps, he had reason to be; and yet
+
+he looked no [[Fool|fool]].
+
+
+
+I had not had the portrait in my hands two minutes before the fair
+
+[[artist]] returned.
+
+
+
+“Only some one come about the pictures,” said she, in apology for her
+
+abrupt departure: “I told him to wait.”
+
+
+
+“I [[Fear|fear]] it will be considered an act of impertinence,” I said “to
+
+presume to look at a picture that the [[artist]] has turned to the wall;
+
+but may I ask—”
+
+
+
+“It _is_ an act of very great impertinence, sir; and therefore I beg
+
+you will ask nothing about it, for your curiosity will not be
+
+gratified,” replied she, attempting to cover the tartness of her rebuke
+
+with a smile; but I could see, by her flushed cheek and kindling eye,
+
+that she was seriously annoyed.
+
+
+
+“I was only going to ask if you had painted it yourself,” said I,
+
+sulkily resigning the picture into her hands; for without a grain of
+
+ceremony she took it from me; and quickly restoring it to the dark
+
+corner, with its face to the wall, placed the other against it as
+
+before, and then turned to me and laughed.
+
+
+
+But I was in no [[Humour|humour]] for jesting. I carelessly turned to the [[Window|window]],
+
+and stood looking out upon the desolate [[Garden|garden]], leaving her to talk to
+
+[[Rose]] for a minute or two; and then, telling my sister it was [[Time|time]] to
+
+go, shook hands with the little gentleman, coolly bowed to the lady,
+
+and moved towards the door. But, having bid adieu to [[Rose]], Mrs. Graham
+
+presented her hand to me, saying, with a soft voice, and by no means a
+
+disagreeable smile,—“Let not the sun go down upon your wrath, Mr.
+
+Markham. I’m sorry I offended you by my abruptness.”
+
+
+
+When a lady condescends to apologise, there is no keeping one’s anger,
+
+of course; so we parted good friends for once; and _this_ [[Time|time]] I
+
+squeezed her hand with a cordial, not a spiteful pressure.
+
+
+
+
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="The Tenant of Wildfell Hall — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
 
 
@@ -45987,6 +41555,416 @@ almost forgave her.
 
 
 
+<span class="atom-split" data-atom="chapter_08" data-title="The Tenant of Wildfell Hall — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+
+
+CHAPTER VIII
+
+
+
+
+
+Six weeks had passed away. It was a splendid morning about the close of
+
+June. Most of the hay was cut, but the last week had been very
+
+unfavourable; and now that fine weather was come at last, being
+
+determined to make the most of it, I had gathered all hands together
+
+into the hay-field, and was working away myself, in the midst of them,
+
+in my shirt-sleeves, with a light, shady straw hat on my head, catching
+
+up armfuls of moist, reeking grass, and shaking it out to the four
+
+winds of heaven, at the head of a goodly file of servants and
+
+hirelings—intending so to labour, from morning till [[Night|night]], with as much
+
+zeal and assiduity as I could look for from any of them, as [[Well|well]] to
+
+prosper the work by my own exertion as to animate the workers by my
+
+example—when lo! my resolutions were overthrown in a moment, by the
+
+simple fact of my brother’s running up to me and putting into my hand a
+
+small parcel, just arrived from [[London]], which I had been for some [[Time|time]]
+
+expecting. I tore off the cover, and disclosed an elegant and portable
+
+edition of “Marmion.”
+
+
+
+“I guess I know who that’s for,” said Fergus, who stood looking on
+
+while I complacently examined the volume. “That’s for Miss Eliza, now.”
+
+
+
+He pronounced this with a tone and look so prodigiously knowing, that I
+
+was glad to contradict him.
+
+
+
+“You’re wrong, my lad,” said I; and, taking up my coat, I deposited the
+
+book in one of its pockets, and then put it on (_i.e._ the coat). “Now
+
+come here, you idle dog, and make yourself useful for once,” I
+
+continued. “Pull off your coat, and take my place in the field till I
+
+come back.”
+
+
+
+“Till you come back?—and where are you going, pray?”
+
+
+
+“No matter—_where_—the _when_ is all that concerns you;—and I shall be
+
+back by dinner, at least.”
+
+
+
+“Oh—oh! and I’m to labour away till then, am I?—and to keep all these
+
+fellows hard at it besides? [[Well]], [[Well|well]]! I’ll submit—for once in a
+
+way.—Come, my lads, you must look sharp: _I_’m come to help you
+
+now:—and woe be to that man, or woman either, that pauses for a moment
+
+amongst you—whether to stare about him, to scratch his head, or blow
+
+his nose—no pretext will serve—nothing but work, work, work in the
+
+sweat of your face,” &c., &c.
+
+
+
+Leaving him thus haranguing the people, more to their amusement than
+
+edification, I returned to the [[house]], and, having made some alteration
+
+in my toilet, hastened away to Wildfell Hall, with the book in my
+
+pocket; for it was destined for the shelves of Mrs. Graham.
+
+
+
+“What! then had she and you got on so [[Well|well]] together as to come to the
+
+giving and receiving of presents?”—Not precisely, old buck; this was my
+
+first experiment in that line; and I was very anxious to see the result
+
+of it.
+
+
+
+We had met several times since the —— Bay excursion, and I had found
+
+she was not averse to my company, provided I confined my conversation
+
+to the discussion of abstract matters, or topics of common
+
+interest;—the moment I touched upon the sentimental or the
+
+complimentary, or made the slightest approach to tenderness in word or
+
+look, I was not only punished by an immediate change in her manner at
+
+the [[Time|time]], but doomed to find her more cold and distant, if not entirely
+
+inaccessible, when next I sought her company. This circumstance did not
+
+greatly disconcert me, however, because I attributed it, not so much to
+
+any dislike of my person, as to some absolute resolution against a
+
+second [[Marriage|marriage]] formed prior to the [[Time|time]] of our acquaintance, whether
+
+from excess of affection for her late husband, or because she had had
+
+enough of him and the matrimonial state together. At first, indeed, she
+
+had seemed to take a pleasure in mortifying my [[Vanity|vanity]] and crushing my
+
+presumption—relentlessly nipping off bud by bud as they ventured to
+
+appear; and then, I confess, I was deeply wounded, though, at the same
+
+[[Time|time]], stimulated to seek [[Revenge|revenge]];—but latterly finding, beyond a [[Doubt|doubt]],
+
+that I was not that empty-headed coxcomb she had first supposed me, she
+
+had repulsed my modest advances in quite a different spirit. It was a
+
+kind of serious, almost sorrowful displeasure, which I soon learnt
+
+carefully to avoid awakening.
+
+
+
+“Let me first establish my position as a friend,” thought I—“the patron
+
+and playfellow of her son, the sober, solid, plain-dealing friend of
+
+herself, and then, when I have made myself fairly necessary to her
+
+comfort and enjoyment in life (as I believe I can), we’ll see what next
+
+may be effected.”
+
+
+
+So we talked about painting, poetry, and music, theology, geology, and
+
+[[philosophy]]: once or twice I lent her a book, and once she lent me one
+
+in return: I met her in her walks as often as I could; I came to her
+
+[[house]] as often as I dared. My first pretext for invading the sanctum
+
+was to bring [[Arthur]] a little waddling puppy of which Sancho was the
+
+father, and which delighted the [[Child|child]] beyond expression, and,
+
+consequently, could not fail to please his mamma. My second was to
+
+bring him a book, which, knowing his mother’s particularity, I had
+
+carefully selected, and which I submitted for her approbation before
+
+presenting it to him. Then, I brought her some plants for her [[Garden|garden]],
+
+in my sister’s name—having previously persuaded [[Rose]] to send them. Each
+
+of these times I inquired after the picture she was painting from the
+
+[[Sketch|sketch]] taken on the cliff, and was admitted into the studio, and asked
+
+my opinion or advice respecting its progress.
+
+
+
+My last visit had been to return the book she had lent me; and then it
+
+was that, in casually discussing the poetry of Sir Walter Scott, she
+
+had expressed a wish to see “Marmion,” and I had conceived the
+
+presumptuous idea of making her a present of it, and, on my return
+
+[[Home|home]], instantly sent for the smart little volume I had this morning
+
+received. But an apology for invading the hermitage was still
+
+necessary; so I had furnished myself with a blue morocco collar for
+
+[[Arthur]]’s little dog; and that being given and received, with much more
+
+joy and gratitude, on the part of the receiver, than the worth of the
+
+gift or the selfish motive of the giver deserved, I ventured to ask
+
+Mrs. Graham for one more look at the picture, if it was still there.
+
+
+
+“Oh, yes! come in,” said she (for I had met them in the [[Garden|garden]]). “It is
+
+finished and framed, all ready for sending away; but give me your last
+
+opinion, and if you can suggest any further improvement, it shall
+
+be—duly considered, at least.”
+
+
+
+The picture was strikingly beautiful; it was the very scene itself,
+
+transferred as if by [[Magic|magic]] to the canvas; but I expressed my
+
+approbation in guarded terms, and few words, for [[Fear|fear]] of displeasing
+
+her. She, however, attentively watched my looks, and her [[artist]]’s [[Pride|pride]]
+
+was gratified, no [[Doubt|doubt]], to read my heartfelt admiration in my eyes.
+
+But, while I gazed, I thought upon the book, and wondered how it was to
+
+be presented. My heart failed me; but I determined not to be such a
+
+[[Fool|fool]] as to come away without having made the attempt. It was useless
+
+waiting for an opportunity, and useless trying to concoct a speech for
+
+the occasion. The more plainly and naturally the thing was done, the
+
+better, I thought; so I just looked out of the [[Window|window]] to screw up my
+
+[[Courage|courage]], and then pulled out the book, turned round, and put it into
+
+her hand, with this short explanation:
+
+
+
+“You were wishing to see “Marmion,” Mrs. Graham; and here it is, if you
+
+will be so kind as to take it.”
+
+
+
+A momentary blush suffused her face—perhaps, a blush of sympathetic
+
+shame for such an awkward style of presentation: she gravely examined
+
+the volume on both sides; then silently turned over the [[Leaves|leaves]],
+
+knitting her brows the while, in serious cogitation; then closed the
+
+book, and turning from it to me, quietly asked the price of it—I felt
+
+the hot [[Blood|blood]] rush to my face.
+
+
+
+“I’m sorry to offend you, Mr. Markham,” said she, “but unless I pay for
+
+the book, I cannot take it.” And she laid it on the table.
+
+
+
+“Why cannot you?”
+
+
+
+“Because,”—she paused, and looked at the carpet.
+
+
+
+“Why cannot you?” I repeated, with a degree of irascibility that roused
+
+her to lift her eyes and look me steadily in the face.
+
+
+
+“Because I don’t like to put myself under obligations that I can never
+
+repay—I _am_ obliged to you already for your kindness to my son; but
+
+his grateful affection and your own good feelings must reward you for
+
+that.”
+
+
+
+“Nonsense!” ejaculated I.
+
+
+
+She turned her eyes on me again, with a look of quiet, [[Grave|grave]] surprise,
+
+that had the effect of a rebuke, whether intended for such or not.
+
+
+
+“Then you won’t take the book?” I asked, more mildly than I had yet
+
+spoken.
+
+
+
+“I will gladly take it, if you will let me pay for it.” I told her the
+
+exact price, and the cost of the carriage besides, in as calm a tone as
+
+I could command—for, in fact, I was ready to weep with disappointment
+
+and vexation.
+
+
+
+She produced her purse, and coolly counted out the money, but hesitated
+
+to put it into my hand. Attentively regarding me, in a tone of soothing
+
+softness, she observed,—“You think yourself insulted, Mr Markham—I wish
+
+I could make you understand that—that I—”
+
+
+
+“I do understand you, perfectly,” I said. “You think that if you were
+
+to accept that trifle from me now, I should presume upon it hereafter;
+
+but you are mistaken:—if you will only oblige me by taking it, believe
+
+me, I shall build no hopes upon it, and consider this no precedent for
+
+future favours:—and it is nonsense to talk about putting yourself under
+
+obligations to me when you must know that in such a case the obligation
+
+is entirely on my side,—the favour on yours.”
+
+
+
+“[[Well]], then, I’ll take you at your word,” she answered, with a most
+
+angelic smile, returning the odious money to her purse—“but
+
+_remember!_”
+
+
+
+“I will remember—what I have said;—but do not you punish my presumption
+
+by withdrawing your [[Friendship|friendship]] entirely from me,—or expect me to atone
+
+for it by being _more_ distant than before,” said I, extending my hand
+
+to take leave, for I was too much excited to remain.
+
+
+
+“[[Well]], then! let us be as we were,” replied she, frankly placing her
+
+hand in mine; and while I held it there, I had much difficulty to
+
+refrain from pressing it to my lips;—but that would be suicidal
+
+[[Madness|madness]]: I had been bold enough already, and this premature offering
+
+had [[Well|well]]-nigh given the [[Death|death]]-blow to my hopes.
+
+
+
+It was with an agitated, burning heart and brain that I hurried
+
+homewards, regardless of that scorching noonday sun—forgetful of
+
+everything but her I had just left—regretting nothing but her
+
+impenetrability, and my own precipitancy and want of tact—fearing
+
+nothing but her hateful resolution, and my inability to overcome
+
+it—hoping nothing—but halt,—I will not bore you with my conflicting
+
+hopes and fears—my serious cogitations and resolves.
+
+
+
+
 <span class="atom-split" data-atom="chapter_09--part_01" data-title="The Tenant of Wildfell Hall — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
 
 
@@ -46997,6 +42975,900 @@ I had wounded him to the quick; and I was glad of it.
 
 
 
+<span class="atom-split" data-atom="chapter_10" data-title="The Tenant of Wildfell Hall — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+
+
+CHAPTER X
+
+
+
+
+
+When all were gone, I learnt that the vile slander had indeed been
+
+circulated throughout the company, in the very presence of the victim.
+
+[[Rose]], however, vowed she did not and would not believe it, and my
+
+mother made the same declaration, though not, I [[Fear|fear]], with the same
+
+amount of real, unwavering [[Incredulity|incredulity]]. It seemed to dwell continually
+
+on her mind, and she kept irritating me from [[Time|time]] to [[Time|time]] by such
+
+expressions as—“Dear, dear, who would have thought it!—[[Well]]! I always
+
+thought there was something odd about her.—You see what it is for women
+
+to affect to be different to other people.” And once it was,—
+
+
+
+“I misdoubted that appearance of mystery from the very first—I
+
+_thought_ there would no good come of it; but this is a sad, sad
+
+business, to be sure!”
+
+
+
+“Why, mother, you said you didn’t believe these tales,” said Fergus.
+
+
+
+“No more I do, my dear; but then, you know, there must be some
+
+foundation.”
+
+
+
+“The foundation is in the wickedness and falsehood of the world,” said
+
+I, “and in the fact that Mr. Lawrence has been seen to go that way once
+
+or twice of an evening—and the village gossips say he goes to pay his
+
+addresses to the strange lady, and the scandal-mongers have greedily
+
+seized the rumour, to make it the basis of their own infernal
+
+structure.”
+
+
+
+“[[Well]], but, Gilbert, there must be something in her _manner_ to
+
+countenance such reports.”
+
+
+
+“Did _you_ see anything in her manner?”
+
+
+
+“No, certainly; but then, you know, I always said there was something
+
+strange about her.”
+
+
+
+I believe it was on that very evening that I ventured on another
+
+invasion of Wildfell Hall. From the [[Time|time]] of our party, which was
+
+upwards of a week ago, I had been making daily efforts to meet its
+
+mistress in her walks; and always disappointed (she must have managed
+
+it so on purpose), had nightly kept revolving in my mind some pretext
+
+for another call. At length I concluded that the separation could be
+
+endured no longer (by this [[Time|time]], you will see, I was pretty far gone);
+
+and, taking from the book-case an old volume that I thought she might
+
+be interested in, though, from its unsightly and somewhat dilapidated
+
+condition, I had not yet ventured to offer it for perusal, I hastened
+
+away,—but not without sundry misgivings as to how she would receive me,
+
+or how I could summon [[Courage|courage]] to present myself with so slight an
+
+excuse. But, perhaps, I might see her in the field or the [[Garden|garden]], and
+
+then there would be no great difficulty: it was the formal knocking at
+
+the door, with the prospect of being gravely ushered in by Rachel, to
+
+the presence of a surprised, uncordial mistress, that so greatly
+
+disturbed me.
+
+
+
+My wish, however, was not gratified. Mrs. Graham herself was not to be
+
+seen; but there was [[Arthur]] playing with his frolicsome little dog in
+
+the [[Garden|garden]]. I looked over the gate and called him to me. He wanted me
+
+to come in; but I told him I could not without his mother’s leave.
+
+
+
+“I’ll go and ask her,” said the [[Child|child]].
+
+
+
+“No, no, [[Arthur]], you mustn’t do that; but if she’s not engaged, just
+
+ask her to come here a minute. Tell her I want to speak to her.”
+
+
+
+He ran to perform my bidding, and quickly returned with his mother. How
+
+lovely she looked with her dark ringlets streaming in the light [[Summer|summer]]
+
+breeze, her fair cheek slightly flushed, and her countenance radiant
+
+with smiles. Dear [[Arthur]]! what did I not owe to you for this and every
+
+other happy meeting? Through him I was at once delivered from all
+
+formality, and terror, and constraint. In [[Love|love]] affairs, there is no
+
+mediator like a merry, simple-hearted [[Child|child]]—ever ready to cement
+
+divided hearts, to span the unfriendly gulf of custom, to melt the ice
+
+of cold reserve, and overthrow the separating walls of dread formality
+
+and [[Pride|pride]].
+
+
+
+“[[Well]], Mr. Markham, what is it?” said the young mother, accosting me
+
+with a pleasant smile.
+
+
+
+“I want you to look at this book, and, if you please, to take it, and
+
+peruse it at your leisure. I make no apology for calling you out on
+
+such a lovely evening, though it _be_ for a matter of no greater
+
+importance.”
+
+
+
+“Tell him to come in, mamma,” said [[Arthur]].
+
+
+
+“Would you like to come in?” asked the lady.
+
+
+
+“Yes; I should like to see your improvements in the [[Garden|garden]].”
+
+
+
+“And how your sister’s roots have prospered in my charge,” added she,
+
+as she opened the gate.
+
+
+
+And we sauntered through the [[Garden|garden]], and talked of the [[Flowers|flowers]], the
+
+trees, and the book, and then of other things. The evening was kind and
+
+genial, and so was my companion. By degrees I waxed more warm and
+
+tender than, perhaps, I had ever been before; but still I said nothing
+
+tangible, and she attempted no repulse, until, in passing a moss
+
+[[Rose|rose]]-tree that I had brought her some weeks since, in my sister’s name,
+
+she plucked a beautiful half-open bud and bade me give it to [[Rose]].
+
+
+
+“May I not keep it myself?” I asked.
+
+
+
+“No; but here is another for you.”
+
+
+
+Instead of taking it quietly, I likewise took the hand that offered it,
+
+and looked into her face. She let me hold it for a moment, and I saw a
+
+flash of ecstatic brilliance in her eye, a glow of glad excitement on
+
+her face—I thought my hour of victory was come—but instantly a painful
+
+recollection seemed to flash upon her; a cloud of anguish darkened her
+
+brow, a marble paleness blanched her cheek and lip; there seemed a
+
+moment of inward conflict, and, with a sudden effort, she withdrew her
+
+hand, and retreated a step or two back.
+
+
+
+“Now, Mr. Markham,” said she, with a kind of desperate calmness, “I
+
+must tell you plainly that I cannot do with this. I like your company,
+
+because I am [[Alone|alone]] here, and your conversation pleases me more than
+
+that of any other person; but if you cannot be content to regard me as
+
+a friend—a plain, cold, motherly, or sisterly friend—I must beg you to
+
+leave me now, and let me [[Alone|alone]] hereafter: in fact, we must be strangers
+
+for the future.”
+
+
+
+“I will, then—be your friend, or brother, or anything you wish, if you
+
+will only let me continue to see you; but tell me why I cannot be
+
+anything more?”
+
+
+
+There was a perplexed and thoughtful pause.
+
+
+
+“Is it in consequence of some rash vow?”
+
+
+
+“It is something of the kind,” she answered. “Some day I may tell you,
+
+but at present you had better leave me; and never, Gilbert, put me to
+
+the painful necessity of repeating what I have just now said to you,”
+
+she earnestly added, giving me her hand in serious kindness. How sweet,
+
+how musical my own name sounded in her mouth!
+
+
+
+“I will not,” I replied. “But you pardon _this_ offence?”
+
+
+
+“On condition that you never repeat it.”
+
+
+
+“And may I come to see you now and then?”
+
+
+
+“Perhaps—occasionally; provided you never abuse the privilege.”
+
+
+
+“I make no empty promises, but you shall see.”
+
+
+
+“The moment you do our intimacy is at an end, that’s all.”
+
+
+
+“And will you always call me Gilbert? It sounds more sisterly, and it
+
+will serve to remind me of our contract.”
+
+
+
+She smiled, and once more bid me go; and at length I judged it prudent
+
+to obey, and she re-entered the [[house]] and I went down the [[Hill|hill]]. But as
+
+I went the tramp of horses’ hoofs fell on my ear, and broke the
+
+stillness of the dewy evening; and, looking towards the lane, I saw a
+
+solitary equestrian coming up. Inclining to dusk as it was, I knew him
+
+at a glance: it was Mr. Lawrence on his grey pony. I flew across the
+
+field, leaped the stone fence, and then walked down the lane to meet
+
+him. On seeing me, he suddenly drew in his little steed, and seemed
+
+inclined to turn back, but on second thought apparently judged it
+
+better to continue his course as before. He accosted me with a slight
+
+bow, and, edging close to the wall, endeavoured to pass on; but I was
+
+not so minded. Seizing his [[Horse|horse]] by the bridle, I exclaimed,—“Now,
+
+Lawrence, I will have this mystery explained! Tell me where you are
+
+going, and what you mean to do—at once, and distinctly!”
+
+
+
+“Will you take your hand off the bridle?” said he, quietly—“you’re
+
+hurting my pony’s mouth.”
+
+
+
+“You and your pony be—”
+
+
+
+“What makes you so coarse and brutal, Markham? I’m quite ashamed of
+
+you.”
+
+
+
+“You answer my questions—before you leave this spot! I _will_ know what
+
+you mean by this perfidious duplicity!”
+
+
+
+“I shall answer no questions till you let go the bridle,—if you stand
+
+till morning.”
+
+
+
+“Now then,” said I, unclosing my hand, but still standing before him.
+
+
+
+“Ask me some other [[Time|time]], when you can speak like a gentleman,” returned
+
+he, and he made an effort to pass me again; but I quickly re-captured
+
+the pony, scarce less astonished than its master at such uncivil usage.
+
+
+
+“Really, Mr. Markham, this is _too_ much!” said the latter. “Can I not
+
+go to see my tenant on matters of business, without being assaulted in
+
+this manner by—?”
+
+
+
+“This is no [[Time|time]] for business, sir!—I’ll tell you, now, what I think of
+
+your conduct.”
+
+
+
+“You’d better defer your opinion to a more convenient season,”
+
+interrupted he in a low tone—“here’s the vicar.” And, in [[Truth|truth]], the
+
+vicar was just behind me, plodding homeward from some remote corner of
+
+his parish. I immediately released the squire; and he went on his way,
+
+saluting Mr. Millward as he passed.
+
+
+
+“What! quarrelling, Markham?” cried the latter, addressing himself to
+
+me,—“and about that young widow, I [[Doubt|doubt]]?” he added, reproachfully
+
+shaking his head. “But let me tell you, young man” (here he put his
+
+face into mine with an important, confidential air), “she’s not worth
+
+it!” and he confirmed the assertion by a solemn nod.
+
+
+
+“MR. MILLWARD,” I exclaimed, in a tone of wrathful menace that made the
+
+reverend gentleman look round—aghast—astounded at such unwonted
+
+insolence, and stare me in the face, with a look that plainly said,
+
+“What, this to me!” But I was too indignant to apologise, or to speak
+
+another word to him: I turned away, and hastened homewards, descending
+
+with rapid strides the steep, rough lane, and leaving him to follow as
+
+he pleased.
+
+
+
+
+<span class="atom-split" data-atom="chapter_11" data-title="The Tenant of Wildfell Hall — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+
+
+CHAPTER XI
+
+
+
+
+
+You must suppose about three weeks passed over. Mrs. Graham and I were
+
+now established friends—or brother and sister, as we rather chose to
+
+consider ourselves. She called me Gilbert, by my express [[Desire|desire]], and I
+
+called her [[Helen]], for I had seen that name written in her books. I
+
+seldom attempted to see her above twice a week; and still I made our
+
+meetings appear the result of accident as often as I could—for I found
+
+it necessary to be extremely careful—and, altogether, I behaved with
+
+such exceeding propriety that she never had occasion to reprove me
+
+once. Yet I could not but perceive that she was at times unhappy and
+
+dissatisfied with herself or her position, and truly I myself was not
+
+quite contented with the latter: this assumption of brotherly
+
+nonchalance was very hard to sustain, and I often felt myself a most
+
+confounded hypocrite with it all; I saw too, or rather I felt, that, in
+
+spite of herself, “I was not indifferent to her,” as the [[Novel|novel]] heroes
+
+modestly express it, and while I thankfully enjoyed my present good
+
+fortune, I could not fail to wish and [[Hope|hope]] for something better in
+
+future; but, of course, I kept such [[Dreams|dreams]] entirely to myself.
+
+
+
+“Where are you going, Gilbert?” said [[Rose]], one evening, shortly after
+
+tea, when I had been busy with the farm all day.
+
+
+
+“To take a walk,” was the reply.
+
+
+
+“Do you always brush your hat so carefully, and do your hair so nicely,
+
+and put on such smart new gloves when you take a walk?”
+
+
+
+“Not always.”
+
+
+
+“You’re going to Wildfell Hall, aren’t you?”
+
+
+
+“What makes you think so?”
+
+
+
+“Because you look as if you were—but I wish you wouldn’t go so often.”
+
+
+
+“Nonsense, [[Child|child]]! I don’t go once in six weeks—what do you mean?”
+
+
+
+“[[Well]], but if I were you, I wouldn’t have so much to do with Mrs.
+
+Graham.”
+
+
+
+“Why, [[Rose]], are you, too, giving in to the prevailing opinion?”
+
+
+
+“No,” returned she, hesitatingly—“but I’ve heard so much about her
+
+lately, both at the Wilsons’ and the vicarage;—and besides, mamma says,
+
+if she were a proper person she would not be living there by
+
+herself—and don’t you remember last [[Winter|winter]], Gilbert, all that about the
+
+false name to the picture; and how she explained it—saying she had
+
+friends or acquaintances from whom she wished her present residence to
+
+be concealed, and that she was afraid of their tracing her out;—and
+
+then, how suddenly she started up and left the room when that person
+
+came—whom she took good care not to let us catch a glimpse of, and who
+
+[[Arthur]], with such an air of mystery, told us was his mamma’s friend?”
+
+
+
+“Yes, [[Rose]], I remember it all; and I can forgive your uncharitable
+
+conclusions; for, perhaps, if I did not know her myself, I should put
+
+all these things together, and believe the same as you do; but thank
+
+God, I do know her; and I should be unworthy the name of a man, if I
+
+could believe anything that was said against her, unless I heard it
+
+from her own lips.—I should as soon believe such things of you, [[Rose]].”
+
+
+
+“Oh, Gilbert!”
+
+
+
+“[[Well]], do you think I _could_ believe anything of the kind,—whatever
+
+the Wilsons and Millwards dared to whisper?”
+
+
+
+“I should [[Hope|hope]] _not_ indeed!”
+
+
+
+“And why not?—Because I know you—[[Well]], and I know her just as [[Well|well]].”
+
+
+
+“Oh, no! you know nothing of her former life; and last year, at this
+
+[[Time|time]], you did not know that such a person existed.”
+
+
+
+“No matter. There is such a thing as looking through a person’s eyes
+
+into the heart, and learning more of the height, and breadth, and depth
+
+of another’s [[Soul|soul]] in one hour than it might take you a lifetime to
+
+discover, if he or she were not disposed to reveal it, or if you had
+
+not the sense to understand it.”
+
+
+
+“Then you _are_ going to see her this evening?”
+
+
+
+“To be sure I am!”
+
+
+
+“But what would mamma say, Gilbert!”
+
+
+
+“Mamma needn’t know.”
+
+
+
+“But she must know some [[Time|time]], if you go on.”
+
+
+
+“Go on!—there’s no going on in the matter. Mrs. Graham and I are two
+
+friends—and will be; and no man breathing shall hinder it,—or has a
+
+right to interfere between us.”
+
+
+
+“But if you knew how they talk you would be more careful, for her sake
+
+as [[Well|well]] as for your own. Jane Wilson thinks your visits to the old hall
+
+but another proof of her depravity—”
+
+
+
+“Confound Jane Wilson!”
+
+
+
+“And Eliza Millward is quite grieved about you.”
+
+
+
+“I [[Hope|hope]] she is.”
+
+
+
+“But I wouldn’t, if I were you.”
+
+
+
+“Wouldn’t what?—How do they know that I go there?”
+
+
+
+“There’s nothing hid from them: they spy out everything.”
+
+
+
+“Oh, I never thought of this!—And so they dare to turn my [[Friendship|friendship]]
+
+into food for further scandal against her!—That proves the falsehood of
+
+their other lies, at all events, if any proof were wanting.—Mind you
+
+contradict them, [[Rose]], whenever you can.”
+
+
+
+“But they don’t speak openly to me about such things: it is only by
+
+hints and innuendoes, and by what I hear others say, that I knew what
+
+they think.”
+
+
+
+“[[Well]], then, I won’t go to-day, as it’s getting latish. But oh, deuce
+
+take their cursed, envenomed tongues!” I muttered, in the bitterness of
+
+my [[Soul|soul]].
+
+
+
+And just at that moment the vicar entered the room: we had been too
+
+much absorbed in our conversation to observe his knock. After his
+
+customary cheerful and fatherly greeting of [[Rose]], who was rather a
+
+favourite with the old gentleman, he turned somewhat sternly to me:—
+
+
+
+“[[Well]], sir!” said he, “you’re quite a stranger. It is—let—me—see,” he
+
+continued, slowly, as he deposited his ponderous bulk in the arm-chair
+
+that [[Rose]] officiously brought towards him; “it is just—six-weeks—by my
+
+reckoning, since you darkened—my—door!” He spoke it with emphasis, and
+
+struck his stick on the floor.
+
+
+
+“Is it, sir?” said I.
+
+
+
+“Ay! It is so!” He added an affirmatory nod, and continued to gaze upon
+
+me with a kind of irate solemnity, holding his substantial stick
+
+between his knees, with his hands clasped upon its head.
+
+
+
+“I have been busy,” I said, for an apology was evidently demanded.
+
+
+
+“Busy!” repeated he, derisively.
+
+
+
+“Yes, you know I’ve been getting in my hay; and now the harvest is
+
+beginning.”
+
+
+
+“Humph!”
+
+
+
+Just then my mother came in, and created a diversion in my favour by
+
+her loquacious and animated welcome of the reverend guest. She
+
+regretted deeply that he had not come a little earlier, in [[Time|time]] for
+
+tea, but offered to have some immediately prepared, if he would do her
+
+the favour to partake of it.
+
+
+
+“Not any for me, I thank you,” replied he; “I shall be at [[Home|home]] in a few
+
+minutes.”
+
+
+
+“Oh, but do stay and take a little! it will be ready in five minutes.”
+
+
+
+But he rejected the offer with a majestic wave of the hand.
+
+
+
+“I’ll tell you what I’ll take, Mrs. Markham,” said he: “I’ll take a
+
+glass of your excellent ale.”
+
+
+
+“With pleasure!” cried my mother, proceeding with alacrity to pull the
+
+bell and order the favoured beverage.
+
+
+
+“I thought,” continued he, “I’d just look in upon you as I passed, and
+
+taste your [[Home|home]]-brewed ale. I’ve been to call on Mrs. Graham.”
+
+
+
+“Have you, indeed?”
+
+
+
+He nodded gravely, and added with awful emphasis—“I thought it
+
+incumbent upon me to do so.”
+
+
+
+“Really!” ejaculated my mother.
+
+
+
+“Why so, Mr. Millward?” asked I.
+
+
+
+He looked at me with some severity, and turning again to my mother,
+
+repeated,—“I thought it incumbent upon me!” and struck his stick on the
+
+floor again. My mother sat opposite, an awe-struck but admiring
+
+auditor.
+
+
+
+“‘Mrs. Graham,’ said I,” he continued, shaking his head as he spoke,
+
+“‘these are terrible reports!’ ‘What, sir?’ says she, affecting to be
+
+ignorant of my meaning. ‘It is my—duty—as—your pastor,’ said I, ‘to
+
+tell you both everything that I myself see reprehensible in your
+
+conduct, and all I have reason to suspect, and what others tell me
+
+concerning you.’—So I told her!”
+
+
+
+“You did, sir?” cried I, starting from my seat and striking my fist on
+
+the table. He merely glanced towards me, and continued—addressing his
+
+hostess:—
+
+
+
+“It was a painful duty, Mrs. Markham—but I told her!”
+
+
+
+“And how did she take it?” asked my mother.
+
+
+
+“Hardened, I [[Fear|fear]]—hardened!” he replied, with a despondent shake of the
+
+head; “and, at the same [[Time|time]], there was a strong display of
+
+unchastened, misdirected passions. She turned white in the face, and
+
+drew her breath through her teeth in a savage sort of way;—but she
+
+offered no extenuation or defence; and with a kind of shameless
+
+calmness—shocking indeed to witness in one so young—as good as told me
+
+that my remonstrance was unavailing, and my [[Pastoral|pastoral]] advice quite
+
+thrown away upon her—nay, that my very _presence was_ displeasing while
+
+I spoke such things. And I withdrew at length, too plainly seeing that
+
+nothing could be done—and sadly grieved to find her case so hopeless.
+
+But I am fully determined, Mrs. Markham, that _my_
+
+daughters—shall—not—consort with her. Do you adopt the same resolution
+
+with regard to yours!—As for your sons—as for _you_, young man,” he
+
+continued, sternly turning to me—
+
+
+
+“As for ME, sir,” I began, but checked by some impediment in my
+
+utterance, and finding that my whole frame trembled with fury, I said
+
+no more, but took the wiser part of snatching up my hat and bolting
+
+from the room, slamming the door behind me, with a bang that shook the
+
+[[house]] to its foundations, and made my mother scream, and gave a
+
+momentary relief to my excited feelings.
+
+
+
+The next minute saw me hurrying with rapid strides in the direction of
+
+Wildfell Hall—to what intent or purpose I could scarcely tell, but I
+
+must be moving somewhere, and no other goal would do—I must see her
+
+too, and speak to her—that was certain; but what to say, or how to act,
+
+I had no definite idea. Such stormy thoughts—so many different
+
+resolutions crowded in upon me, that my mind was little better than a
+
+chaos of conflicting passions.
+
+
+
+
 <span class="atom-split" data-atom="chapter_12--part_01" data-title="The Tenant of Wildfell Hall — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
 
 
@@ -47839,6 +44711,350 @@ might excuse my sudden loss of appetite; and if a cold ensued, the
 severer the better—it would help to account for the sullen moods and
 
 moping [[Melancholy|melancholy]] likely to cloud my brow for long enough.
+
+
+
+
+<span class="atom-split" data-atom="chapter_13" data-title="The Tenant of Wildfell Hall — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+
+
+CHAPTER XIII
+
+
+
+
+
+“My dear Gilbert, I wish you _would_ try to be a little more amiable,”
+
+said my mother one morning after some display of unjustifiable
+
+ill-[[Humour|humour]] on my part. “You say there is nothing the matter with you,
+
+and nothing has happened to grieve you, and yet I never _saw_ anyone so
+
+altered as you within these last few days. You haven’t a good word for
+
+anybody—friends and strangers, equals and inferiors—it’s all the same.
+
+I do wish you’d try to check it.”
+
+
+
+“Check what?”
+
+
+
+“Why, your strange temper. You don’t know _how_ it spoils you. I’m sure
+
+a finer disposition than yours by [[Nature|nature]] could not be, if you’d let it
+
+have fair play: so you’ve no excuse _that_ way.”
+
+
+
+While she thus remonstrated, I took up a book, and laying it open on
+
+the table before me, pretended to be deeply absorbed in its perusal,
+
+for I was equally unable to justify myself and unwilling to acknowledge
+
+my errors; and I wished to have nothing to say on the matter. But my
+
+excellent parent went on lecturing, and then came to coaxing, and began
+
+to stroke my hair; and I was getting to feel quite a good boy, but my
+
+mischievous brother, who was idling about the room, revived my
+
+corruption by suddenly calling out,—
+
+
+
+“Don’t touch him, mother! he’ll bite! He’s a very tiger in human form.
+
+_I’ve_ given him up for my part—fairly disowned him—cast him off, root
+
+and branch. It’s as much as my life is worth to come within six yards
+
+of him. The other day he nearly fractured my skull for singing a
+
+pretty, inoffensive [[Love|love]]-[[Song|song]], on purpose to amuse him.”
+
+
+
+“Oh, Gilbert! how could you?” exclaimed my mother.
+
+
+
+“I told you to hold your noise first, you know, Fergus,” said I.
+
+
+
+“Yes, but when I assured you it was no trouble and went on with the
+
+next verse, thinking you might like it better, you clutched me by the
+
+shoulder and dashed me away, right against the wall there, with such
+
+force that I thought I had bitten my tongue in two, and expected to see
+
+the place plastered with my brains; and when I put my hand to my head,
+
+and found my skull not broken, I thought it was a miracle, and no
+
+mistake. But, poor fellow!” added he, with a sentimental sigh—“his
+
+heart’s broken—that’s the [[Truth|truth]] of it—and his head’s—”
+
+
+
+“Will you be silent NOW?” cried I, starting up, and eyeing the fellow
+
+so fiercely that my mother, thinking I meant to inflict some grievous
+
+bodily injury, laid her hand on my arm, and besought me to let him
+
+[[Alone|alone]], and he walked leisurely out, with his hands in his pockets,
+
+singing provokingly—“Shall I, because a woman’s fair,” &c.
+
+
+
+“I’m not going to defile my fingers with him,” said I, in answer to the
+
+maternal intercession. “I wouldn’t touch him with the tongs.”
+
+
+
+I now recollected that I had business with Robert Wilson, concerning
+
+the purchase of a certain field adjoining my farm—a business I had been
+
+putting off from day to day; for I had no interest in anything now; and
+
+besides, I was misanthropically inclined, and, moreover, had a
+
+particular objection to meeting Jane Wilson or her mother; for though I
+
+had too good reason, now, to credit their reports concerning Mrs.
+
+Graham, I did not _like_ them a bit the better for it—or Eliza Millward
+
+either—and the thought of meeting them was the more repugnant to me
+
+that I could not, now, defy their seeming calumnies and triumph in my
+
+own convictions as before. But to-day I determined to make an effort to
+
+return to my duty. Though I found no pleasure in it, it would be less
+
+irksome than idleness—at all events it would be more profitable. If
+
+life promised no enjoyment within my vocation, at least it offered no
+
+allurements out of it; and henceforth I would put my shoulder to the
+
+[[Wheel|wheel]] and toil away, like any poor drudge of a cart-[[Horse|horse]] that was
+
+fairly broken in to its labour, and plod through life, not wholly
+
+useless if not agreeable, and uncomplaining if not contented with my
+
+lot.
+
+
+
+Thus resolving, with a kind of sullen [[Resignation|resignation]], if such a term may
+
+be allowed, I wended my way to Ryecote Farm, scarcely expecting to find
+
+its owner within at this [[Time|time]] of day, but hoping to learn in what part
+
+of the premises he was most likely to be found.
+
+
+
+Absent he was, but expected [[Home|home]] in a few minutes; and I was desired to
+
+step into the parlour and wait. Mrs. Wilson was busy in the kitchen,
+
+but the room was not empty; and I scarcely checked an involuntary
+
+recoil as I entered it; for there sat Miss Wilson chattering with Eliza
+
+Millward. However, I determined to be cool and civil. Eliza seemed to
+
+have made the same resolution on her part. We had not met since the
+
+evening of the tea-party; but there was no visible emotion either of
+
+pleasure or [[Pain|pain]], no attempt at pathos, no display of injured [[Pride|pride]]:
+
+she was cool in temper, civil in demeanour. There was even an ease and
+
+cheerfulness about her air and manner that I made no pretension to; but
+
+there was a depth of malice in her too expressive eye that plainly told
+
+me I was not forgiven; for, though she no longer hoped to win me to
+
+herself, she still hated her rival, and evidently delighted to wreak
+
+her spite on me. On the other hand, Miss Wilson was as affable and
+
+courteous as heart could wish, and though I was in no very conversable
+
+[[Humour|humour]] myself, the two ladies between them managed to keep up a pretty
+
+continuous [[Fire|fire]] of small talk. But Eliza took advantage of the first
+
+convenient pause to ask if I had lately seen Mrs. Graham, in a tone of
+
+merely casual inquiry, but with a sidelong glance—intended to be
+
+playfully mischievous—really, brimful and running over with malice.
+
+
+
+“Not lately,” I replied, in a careless tone, but sternly repelling her
+
+odious glances with my eyes; for I was vexed to feel the colour
+
+mounting to my forehead, despite my strenuous efforts to appear
+
+unmoved.
+
+
+
+“What! are you beginning to tire already? I thought so noble a creature
+
+would have power to attach you for a year at least!”
+
+
+
+“I would rather not speak of her now.”
+
+
+
+“Ah! then you are convinced, at last, of your mistake—you have at
+
+length discovered that your divinity is not quite the immaculate—”
+
+
+
+“I desired you not to speak of her, Miss Eliza.”
+
+
+
+“Oh, I beg your pardon! I perceive Cupid’s arrows have been too sharp
+
+for you: the wounds, being more than skin-deep, are not yet healed, and
+
+bleed afresh at every mention of the loved one’s name.”
+
+
+
+“Say, rather,” interposed Miss Wilson, “that Mr. Markham feels that
+
+name is unworthy to be mentioned in the presence of right-minded
+
+females. I [[Wonder|wonder]], Eliza, you should think of referring to that
+
+unfortunate person—you might know the mention of her would be anything
+
+but agreeable to any one here present.”
+
+
+
+How could this be borne? I [[Rose|rose]] and was about to clap my hat upon my
+
+head and burst away, in wrathful indignation from the [[house]]; but
+
+recollecting—just in [[Time|time]] to save my dignity—the folly of such a
+
+proceeding, and how it would only give my fair tormentors a merry laugh
+
+at my expense, for the sake of one I acknowledged in my own heart to be
+
+unworthy of the slightest sacrifice—though the [[Ghost|ghost]] of my former
+
+reverence and [[Love|love]] so hung about me still, that I could not bear to
+
+hear her name aspersed by others—I merely walked to the [[Window|window]], and
+
+having spent a few seconds in vengibly biting my lips and sternly
+
+repressing the passionate heavings of my chest, I observed to Miss
+
+Wilson, that I could see nothing of her brother, and added that, as my
+
+[[Time|time]] was precious, it would perhaps be better to call again to-morrow,
+
+at some [[Time|time]] when I should be sure to find him at [[Home|home]].
+
+
+
+“Oh, no!” said she; “if you wait a minute, he will be sure to come; for
+
+he has business at L——” (that was our market-town), “and will require a
+
+little refreshment before he goes.”
+
+
+
+I submitted accordingly, with the best grace I could; and, happily, I
+
+had not long to wait. Mr. Wilson soon arrived, and, indisposed for
+
+business as I was at that moment, and little as I cared for the field
+
+or its owner, I forced my attention to the matter in hand, with very
+
+creditable determination, and quickly concluded the bargain—perhaps
+
+more to the thrifty farmer’s satisfaction than he cared to acknowledge.
+
+Then, leaving him to the discussion of his substantial “refreshment,” I
+
+gladly quitted the [[house]], and went to look after my reapers.
+
+
+
+Leaving them busy at work on the side of the valley, I ascended the
+
+[[Hill|hill]], intending to visit a corn-field in the more elevated regions, and
+
+see when it would be ripe for the sickle. But I did _not_ visit it that
+
+day; for, as I approached, I beheld, at no great distance, Mrs. Graham
+
+and her son coming down in the opposite direction. They saw me; and
+
+[[Arthur]] already was running to meet me; but I immediately turned back
+
+and walked steadily homeward; for I had fully determined never to
+
+encounter his mother again; and regardless of the shrill voice in my
+
+ear, calling upon me to “wait a moment,” I pursued the even tenor of my
+
+way; and he soon relinquished the pursuit as hopeless, or was called
+
+away by his mother. At all events, when I looked back, five minutes
+
+after, not a trace of either was to be seen.
+
+
+
+This incident agitated and disturbed me most unaccountably—unless you
+
+would account for it by saying that Cupid’s arrows not only had been
+
+too sharp for me, but they were barbed and deeply rooted, and I had not
+
+yet been able to wrench them from my heart. However that be, I was
+
+rendered doubly miserable for the remainder of the day.
 
 
 
@@ -52927,6 +50143,394 @@ disregarded; and no conclusions on that particular are come to yet.
 
 
 
+<span class="atom-split" data-atom="chapter_21" data-title="The Tenant of Wildfell Hall — Chapter 21" data-chapter="Chapter 21" data-kind="chapter"></span>
+
+
+CHAPTER XXI
+
+
+
+
+
+October 1st.—All is settled now. My father has given his consent, and
+
+the [[Time|time]] is fixed for Christmas, by a sort of compromise between the
+
+respective advocates for hurry and delay. Milicent Hargrave is to be
+
+one bridesmaid and Annabella Wilmot the other—not that I am
+
+particularly fond of the latter, but she is an intimate of the family,
+
+and I have not another friend.
+
+
+
+When I told Milicent of my engagement, she rather provoked me by her
+
+manner of taking it. After staring a moment in mute surprise, she
+
+said,—
+
+
+
+“[[Well]], [[Helen]], I suppose I ought to congratulate you—and I _am_ glad to
+
+see you so happy; but I did not think you would take him; and I can’t
+
+help feeling surprised that you should like him so much.”
+
+
+
+“Why so?”
+
+
+
+“Because you are so superior to him in every way, and there’s something
+
+so bold and reckless about him—so, I don’t know how—but I always feel a
+
+wish to get out of his way when I see him approach.”
+
+
+
+“You are timid, Milicent; but that’s no fault of his.”
+
+
+
+“And then his look,” continued she. “People say he’s handsome, and of
+
+course he is; but _I_ don’t _like_ that kind of [[Beauty|beauty]], and I [[Wonder|wonder]]
+
+that you should.”
+
+
+
+“Why so, pray?”
+
+
+
+“[[Well]], you know, I think there’s nothing noble or lofty in his
+
+appearance.”
+
+
+
+“In fact, you [[Wonder|wonder]] that I can like any one so unlike the stilted
+
+heroes of [[Romance|romance]]. [[Well]], give me my flesh and [[Blood|blood]] [[Lover|lover]], and I’ll
+
+leave all the Sir Herberts and Valentines to you—if you can find them.”
+
+
+
+“I don’t want them,” said she. “I’ll be satisfied with flesh and [[Blood|blood]]
+
+too—only the spirit must shine through and predominate. But don’t you
+
+think Mr. Huntingdon’s face is too red?”
+
+
+
+“No!” cried I, indignantly. “It is not red at all. There is just a
+
+pleasant glow, a healthy freshness in his complexion—the warm, pinky
+
+tint of the whole harmonising with the deeper colour of the cheeks,
+
+exactly as it ought to do. I hate a man to be red and white, like a
+
+painted doll, or all sickly white, or smoky black, or cadaverous
+
+yellow.”
+
+
+
+“[[Well]], tastes differ—but _I_ like pale or dark,” replied she. “But, to
+
+tell you the [[Truth|truth]], [[Helen]], I had been deluding myself with the [[Hope|hope]]
+
+that you would one day be my sister. I expected Walter would be
+
+introduced to you next season; and I thought you would like him, and
+
+was certain he would like you; and I flattered myself I should thus
+
+have the felicity of seeing the two persons I like best in the
+
+world—except mamma—united in one. He mayn’t be exactly what you would
+
+call handsome, but he’s far more distinguished-looking, and nicer and
+
+better than Mr. Huntingdon;—and I’m sure you would say so, if you knew
+
+him.”
+
+
+
+“Impossible, Milicent! You think so, because you’re his sister; and, on
+
+that account, I’ll forgive you; but nobody else should so disparage
+
+[[Arthur Huntingdon]] to me with impunity.”
+
+
+
+Miss Wilmot expressed her feelings on the subject almost as openly.
+
+
+
+“And so, [[Helen]],” said she, coming up to me with a smile of no amiable
+
+import, “you are to be Mrs. Huntingdon, I suppose?”
+
+
+
+“Yes,” replied I. “Don’t you envy me?”
+
+
+
+“Oh, _dear_, no!” she exclaimed. “I shall probably be Lady Lowborough
+
+some day, and then you know, dear, I shall be in a capacity to inquire,
+
+‘Don’t you envy _me?_’”
+
+
+
+“Henceforth I shall envy no one,” returned I.
+
+
+
+“Indeed! Are you so happy then?” said she, thoughtfully; and something
+
+very like a cloud of disappointment shadowed her face. “And does he
+
+[[Love|love]] you—I mean, does he idolise you as much as you do him?” she added,
+
+fixing her eyes upon me with ill-disguised anxiety for the reply.
+
+
+
+“I don’t want to be idolised,” I answered; “but I am [[Well|well]] assured that
+
+he _loves_ me more than anybody else in the world—as I do him.”
+
+
+
+“Exactly,” said she, with a nod. “I wish—” she paused.
+
+
+
+“What do you wish?” asked I, annoyed at the vindictive expression of
+
+her countenance.
+
+
+
+“I wish,” returned, she, with a short laugh, “that all the attractive
+
+points and desirable qualifications of the two gentlemen were united in
+
+one—that [[Lord Lowborough]] had Huntingdon’s handsome face and good
+
+temper, and all his wit, and mirth and charm, or else that Huntingdon
+
+had Lowborough’s pedigree, and title, and delightful old family seat,
+
+and I had him; and you might have the other and welcome.”
+
+
+
+“Thank you, dear Annabella: I am better satisfied with things as they
+
+are, for my own part; and for you, I wish you were as [[Well|well]] content with
+
+your intended as I am with mine,” said I; and it was true enough; for,
+
+though vexed at first at her unamiable spirit, her frankness touched
+
+me, and the contrast between our situations was such, that I could [[Well|well]]
+
+afford to pity her and wish her [[Well|well]].
+
+
+
+Mr. Huntingdon’s acquaintances appear to be no better pleased with our
+
+approaching [[Union|union]] than mine. This morning’s post brought him letters
+
+from several of his friends, during the perusal of which, at the
+
+breakfast-table, he excited the attention of the company by the
+
+singular variety of his grimaces. But he crushed them all into his
+
+pocket, with a private laugh, and said nothing till the meal was
+
+concluded. Then, while the company were hanging over the [[Fire|fire]] or
+
+loitering through the room, previous to settling to their various
+
+morning avocations, he came and leant over the back of my chair, with
+
+his face in contact with my curls, and commencing with a quiet little
+
+kiss, poured forth the following complaints into my ear:—
+
+
+
+“[[Helen]], you [[Witch|witch]], do you know that you’ve entailed upon me the curses
+
+of all my friends? I wrote to them the other day, to tell them of my
+
+happy prospects, and now, instead of a bundle of congratulations, I’ve
+
+got a pocketful of bitter execrations and reproaches. There’s not one
+
+kind wish for me, or one good word for you, among them all. They say
+
+there’ll be no more fun now, no more merry days and glorious nights—and
+
+all my fault—I am the first to break up the jovial band, and others, in
+
+pure [[Despair|despair]], will follow my example. I was the very life and prop of
+
+the community, they do me the [[Honour|honour]] to say, and I have shamefully
+
+betrayed my trust—”
+
+
+
+“You may join them again, if you like,” said I, somewhat piqued at the
+
+sorrowful tone of his discourse. “I should be sorry to stand between
+
+any man—or [[Body|body]] of men, and so much happiness; and perhaps I can manage
+
+to do without you, as [[Well|well]] as your poor deserted friends.”
+
+
+
+“Bless you, no,” murmured he. “It’s ‘all for [[Love|love]] or the world [[Well|well]]
+
+lost,’ with me. Let them go to—where they belong, to speak politely.
+
+But if you saw how they abuse me, [[Helen]], you would [[Love|love]] me all the more
+
+for having ventured so much for your sake.”
+
+
+
+He pulled out his crumpled letters. I thought he was going to show them
+
+to me, and told him I did not wish to see them.
+
+
+
+“I’m not going to show them to you, [[Love|love]],” said he. “They’re hardly fit
+
+for a lady’s eyes—the most part of them. But look here. This is
+
+Grimsby’s scrawl—only three lines, the sulky dog! He doesn’t say much,
+
+to be sure, but his very [[Silence|silence]] implies more than all the others’
+
+words, and the less he says, the more he thinks—and this is Hargrave’s
+
+missive. He is particularly grieved at me, because, forsooth he had
+
+fallen in [[Love|love]] with you from his sister’s reports, and meant to have
+
+married you himself, as soon as he had sown his wild oats.”
+
+
+
+“I’m vastly obliged to him,” observed I.
+
+
+
+“And so am I,” said he. “And look at this. This is Hattersley’s—every
+
+page stuffed full of railing accusations, bitter curses, and lamentable
+
+complaints, ending up with swearing that he’ll get married himself in
+
+[[Revenge|revenge]]: he’ll throw himself away on the first old maid that chooses to
+
+set her cap at him,—as if _I_ cared what he did with himself.”
+
+
+
+“[[Well]],” said I, “if you do give up your intimacy with these men, I
+
+don’t think you will have much cause to regret the loss of their
+
+society; for it’s my belief they never did you much good.”
+
+
+
+“Maybe not; but we’d a merry [[Time|time]] of it, too, though mingled with
+
+sorrow and [[Pain|pain]], as Lowborough knows to his cost—Ha, ha!” and while he
+
+was laughing at the recollection of Lowborough’s troubles, my uncle
+
+came and slapped him on the shoulder.
+
+
+
+“Come, my lad!” said he. “Are you too busy making [[Love|love]] to my niece to
+
+make war with the pheasants?—First of October, remember! Sun shines
+
+out—rain ceased—even Boarham’s not afraid to venture in his waterproof
+
+boots; and Wilmot and I are going to beat you all. I declare, we old
+
+’uns are the keenest sportsmen of the lot!”
+
+
+
+“I’ll show you what I can do to-day, however,” said my companion. “I’ll
+
+murder your [[Birds|birds]] by wholesale, just for keeping me away from better
+
+company than either you or them.”
+
+
+
+And so saying he departed; and I saw no more of him till dinner. It
+
+seemed a weary [[Time|time]]; I [[Wonder|wonder]] what I shall do without him.
+
+
+
+It is very true that the three elder gentlemen have proved themselves
+
+much keener sportsmen than the two younger ones; for both Lord
+
+Lowborough and [[Arthur Huntingdon]] have of late almost daily neglected
+
+the shooting excursions to accompany us in our various rides and
+
+rambles. But these merry times are fast drawing to a close. In less
+
+than a fortnight the party break up, much to my sorrow, for every day I
+
+enjoy it more and more—now that Messrs. Boarham and Wilmot have ceased
+
+to tease me, and my aunt has ceased to lecture me, and I have ceased to
+
+be jealous of Annabella—and even to dislike her—and now that Mr.
+
+Huntingdon is become _my_ [[Arthur]], and I may enjoy his society without
+
+restraint. What _shall_ I do without him, I repeat?
+
+
+
+
 <span class="atom-split" data-atom="chapter_22--part_01" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
 
 
@@ -54235,6 +51839,422 @@ cannot get him to write or speak in real, solid earnest. I don’t much
 mind it now, but if it be always so, what shall I do with the serious
 
 part of myself?
+
+
+
+
+<span class="atom-split" data-atom="chapter_23" data-title="The Tenant of Wildfell Hall — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
+
+
+CHAPTER XXIII
+
+
+
+
+
+Feb. 18, 1822.—Early this morning [[Arthur]] mounted his hunter and set off
+
+in high glee to meet the —— hounds. He will be away all day, and so I
+
+will amuse myself with my neglected diary, if I can give that name to
+
+such an irregular composition. It is exactly four months since I opened
+
+it last.
+
+
+
+I am married now, and settled down as Mrs. Huntingdon of Grassdale
+
+Manor. I have had eight weeks’ experience of matrimony. And do I regret
+
+the step I have taken? No, though I must confess, in my secret heart,
+
+that [[Arthur]] is not what I thought him at first, and if I had known him
+
+in the beginning as thoroughly as I do now, I probably never should
+
+have loved him, and if I loved him first, and then made the discovery,
+
+I [[Fear|fear]] I should have thought it my duty not to have married him. To be
+
+sure I might have known him, for every one was willing enough to tell
+
+me about him, and he himself was no accomplished hypocrite, but I was
+
+wilfully blind; and now, instead of regretting that I did not discern
+
+his full character before I was indissolubly bound to him, I am _glad_,
+
+for it has saved me a great deal of battling with my [[Conscience|conscience]], and a
+
+great deal of consequent trouble and [[Pain|pain]]; and, whatever I _ought_ to
+
+have done, my duty now is plainly to [[Love|love]] him and to cleave to him, and
+
+this just tallies with my inclination.
+
+
+
+He is very fond of me, almost _too_ fond. I could do with less
+
+caressing and more rationality. I should like to be less of a pet and
+
+more of a friend, if I might choose; but I won’t complain of that: I am
+
+only afraid his affection loses in depth where it gains in ardour. I
+
+sometimes liken it to a [[Fire|fire]] of dry twigs and branches compared with
+
+one of solid coal, very bright and hot; but if it should burn itself
+
+out and leave nothing but ashes behind, what shall I do? But it won’t,
+
+it _shan_’t, I am determined; and surely I have power to keep it alive.
+
+So let me dismiss _that_ thought at once. But [[Arthur]] is selfish; I am
+
+constrained to acknowledge that; and, indeed, the admission gives me
+
+less [[Pain|pain]] than might be expected, for, since _I_ [[Love|love]] him so much, I
+
+can easily forgive him for loving himself: he likes to be pleased, and
+
+it is my delight to please him; and when I regret this tendency of his,
+
+it is for his own sake, not for mine.
+
+
+
+The first instance he gave was on the occasion of our bridal tour. He
+
+wanted to hurry it over, for all the continental scenes were already
+
+familiar to him: many had lost their interest in his eyes, and others
+
+had never had anything to lose. The consequence was, that after a
+
+flying transit through part of France and part of [[Italy]], I came back
+
+nearly as ignorant as I went, having made no acquaintance with persons
+
+and manners, and very little with things, my head swarming with a
+
+motley confusion of objects and scenes; some, it is true, leaving a
+
+deeper and more pleasing impression than others, but these embittered
+
+by the recollection that my emotions had not been shared by my
+
+companion, but that, on the contrary, when I had expressed a particular
+
+interest in anything that I saw or desired to see, it had been
+
+displeasing to him, inasmuch as it proved that I could take delight in
+
+anything disconnected with himself.
+
+
+
+[Illustration]
+
+
+
+As for [[Paris]], we only just touched at that, and he would not give me
+
+[[Time|time]] to see one-tenth of the beauties and interesting objects of Rome.
+
+He wanted to get me [[Home|home]], he said, to have me all to himself, and to
+
+see me safely installed as the mistress of Grassdale Manor, just as
+
+single-minded, as naïve, and piquante as I was; and as if I had been
+
+some frail butterfly, he expressed himself fearful of rubbing the
+
+silver off my wings by bringing me into contact with society,
+
+especially that of [[Paris]] and Rome; and, more-over, he did not scruple
+
+to tell me that there were ladies in both places that would tear his
+
+eyes out if they happened to meet him with me.
+
+
+
+Of course I was vexed at all this; but still it was less the
+
+disappointment to myself that annoyed me, than the disappointment _in
+
+him_, and the trouble I was at to frame excuses to my friends for
+
+having seen and observed so little, without imputing one particle of
+
+blame to my companion. But when we got [[Home|home]]—to my new, delightful
+
+[[Home|home]]—I was so happy and he was so kind that I freely forgave him all;
+
+and I was beginning to think my lot _too_ happy, and my husband
+
+actually too good for me, if not too good for this world, when, on the
+
+second [[Sunday]] after our arrival, he shocked and horrified me by another
+
+instance of his unreasonable exaction. We were walking [[Home|home]] from the
+
+morning service, for it was a fine frosty day, and as we are so near
+
+the church, I had requested the carriage should not be used.
+
+
+
+“[[Helen]],” said he, with unusual gravity, “I am not quite satisfied with
+
+you.”
+
+
+
+I desired to know what was wrong.
+
+
+
+“But will you promise to [[Reform|reform]] if I tell you?”
+
+
+
+“Yes, if I can, and without offending a higher authority.”
+
+
+
+“Ah! there it is, you see: you don’t [[Love|love]] me with all your heart.”
+
+
+
+“I don’t understand you, [[Arthur]] (at least I [[Hope|hope]] I don’t): pray tell me
+
+what I have done or said amiss.”
+
+
+
+“It is nothing you have done or said; it is something that you _are:_
+
+you are too religious. Now I like a woman to be religious, and I think
+
+your piety one of your greatest charms; but then, like all other good
+
+things, it may be carried too far. To my thinking, a woman’s religion
+
+ought not to lessen her devotion to her earthly lord. She should have
+
+enough to purify and etherealise her [[Soul|soul]], but not enough to refine
+
+away her heart, and raise her above all human sympathies.”
+
+
+
+“And am _I_ above all human sympathies?” said I.
+
+
+
+“No, darling; but you are making more progress towards that saintly
+
+condition than I like; for all these two hours I have been thinking of
+
+you and wanting to catch your eye, and you were so absorbed in your
+
+devotions that you had not even a glance to spare for me—I declare it
+
+is enough to make one jealous of one’s Maker—which is very wrong, you
+
+know; so don’t excite such wicked passions again, for my [[Soul|soul]]’s sake.”
+
+
+
+“I will give my whole heart and [[Soul|soul]] to my Maker if I can,” I answered,
+
+“and not one atom more of it to you than He allows. What are _you_,
+
+sir, that you should set yourself up as a god, and presume to dispute
+
+possession of my heart with Him to whom I owe all I have and all I am,
+
+every blessing I ever did or ever can enjoy—and yourself among the
+
+rest—if you _are_ a blessing, which I am half inclined to [[Doubt|doubt]].”
+
+
+
+“Don’t be so hard upon me, [[Helen]]; and don’t pinch my arm so: you are
+
+squeezing your fingers into the bone.”
+
+
+
+“[[Arthur]],” continued I, relaxing my hold of his arm, “you don’t [[Love|love]] me
+
+half as much as I do you; and yet, if you loved me far less than you
+
+do, I would not complain, provided you loved your Maker more. I should
+
+_rejoice_ to see you at any [[Time|time]] so deeply absorbed in your devotions
+
+that you had not a single thought to spare for me. But, indeed, I
+
+should lose nothing by the change, for the more you loved your God the
+
+more deep and pure and true would be your [[Love|love]] to me.”
+
+
+
+At this he only laughed and kissed my hand, calling me a sweet
+
+enthusiast. Then taking off his hat, he added: “But look here,
+
+[[Helen]]—what can a man do with such a head as this?”
+
+
+
+The head looked right enough, but when he placed my hand on the top of
+
+it, it sunk in a bed of curls, rather alarmingly low, especially in the
+
+middle.
+
+
+
+“You see I was not made to be a saint,” said he, laughing, “If God
+
+meant me to be religious, why didn’t He give me a proper organ of
+
+veneration?”
+
+
+
+“You are like the servant,” I replied, “who, instead of employing his
+
+one talent in his master’s service, restored it to him unimproved,
+
+alleging, as an excuse, that he knew him ‘to be a hard man, reaping
+
+where he had not sown, and gathering where he had not strawed.’ Of him
+
+to whom less is given, less will be required, but our utmost exertions
+
+are required of us all. You are not without the capacity of veneration,
+
+and [[Faith|faith]] and [[Hope|hope]], and [[Conscience|conscience]] and reason, and every other
+
+requisite to a Christian’s character, if you choose to employ them; but
+
+all our talents increase in the using, and every faculty, both good and
+
+bad, strengthens by exercise: therefore, if you choose to use the bad,
+
+or those which tend to evil, till they become your masters, and neglect
+
+the good till they dwindle away, you have only yourself to blame. But
+
+you _have_ talents, [[Arthur]]—natural endowments both of heart and mind
+
+and temper, such as many a better Christian would be glad to possess,
+
+if you would only employ them in God’s service. I should never expect
+
+to see you a devotee, but it is quite possible to be a good Christian
+
+without ceasing to be a happy, merry-hearted man.”
+
+
+
+“You speak like an oracle, [[Helen]], and all you say is indisputably true;
+
+but listen here: I am hungry, and I see before me a good substantial
+
+dinner; I am told that if I abstain from this to-day I shall have a
+
+sumptuous feast to-morrow, consisting of all manner of dainties and
+
+delicacies. Now, in the first place, I should be loth to wait till
+
+to-morrow when I have the means of appeasing my hunger already before
+
+me: in the second place, the solid viands of to-day are more to my
+
+taste than the dainties that are promised me; in the third place, I
+
+don’t _see_ to-morrow’s banquet, and how can I tell that it is not all
+
+a [[Fable|fable]], got up by the greasy-faced fellow that is advising me to
+
+abstain in order that he may have all the good victuals to himself? in
+
+the fourth place, this table must be spread for somebody, and, as
+
+Solomon says, ‘Who can eat, or who else can hasten hereunto more than
+
+I?’ and finally, with your leave, I’ll sit down and satisfy my cravings
+
+of to-day, and leave to-morrow to shift for itself—who knows but what I
+
+may secure both this and that?”
+
+
+
+“But you are not required to abstain from the substantial dinner of
+
+to-day: you are only advised to partake of these coarser viands in such
+
+moderation as not to incapacitate you from enjoying the choicer banquet
+
+of to-morrow. If, regardless of that counsel, you choose to make a
+
+beast of yourself now, and over-eat and over-drink yourself till you
+
+turn the good victuals into [[Poison|poison]], who is to blame if, hereafter,
+
+while you are [[Suffering|suffering]] the torments of yesterday’s gluttony and
+
+drunkenness, you see more temperate men sitting down to enjoy
+
+themselves at that splendid entertainment which you are unable to
+
+taste?”
+
+
+
+“Most true, my patron saint; but again, our friend Solomon says, ‘There
+
+is nothing better for a man than to eat and to drink, and to be
+
+merry.’”
+
+
+
+“And again,” returned I, “he says, ‘Rejoice, O young man, in thy youth;
+
+and walk in the ways of thine heart, and in the sight of thine eyes:
+
+but know thou, that for all these things God will bring thee into
+
+judgment.’”
+
+
+
+“[[Well]], but, [[Helen]], I’m sure I’ve been very good these last few weeks.
+
+What have you seen amiss in me, and what would you have me to do?”
+
+
+
+“Nothing more than you do, [[Arthur]]: your actions are all right so far;
+
+but I would have your thoughts changed; I would have you to fortify
+
+yourself against [[Temptation|temptation]], and not to call evil good, and good evil;
+
+I should wish you to think more deeply, to look further, and aim higher
+
+than you do.”
 
 
 
@@ -55805,6 +53825,208 @@ end of her days.
 
 
 
+<span class="atom-split" data-atom="chapter_26" data-title="The Tenant of Wildfell Hall — Chapter 26" data-chapter="Chapter 26" data-kind="chapter"></span>
+
+
+CHAPTER XXVI
+
+
+
+
+
+Sept. 23rd.—Our guests arrived about three weeks ago. Lord and Lady
+
+Lowborough have now been married above eight months; and I will do the
+
+lady the credit to say that her husband is quite an altered man; his
+
+looks, his spirits, and his temper, are all perceptibly changed for the
+
+better since I last saw him. But there is room for improvement still.
+
+He is not always cheerful, nor always contented, and she often
+
+complains of his ill-[[Humour|humour]], which, however, of all persons, _she_
+
+ought to be the last to accuse him of, as he never displays it against
+
+her, except for such conduct as would provoke a saint. He adores her
+
+still, and would go to the world’s end to please her. She knows her
+
+power, and she uses it too; but [[Well|well]] knowing that to wheedle and coax
+
+is safer than to command, she judiciously tempers her despotism with
+
+flattery and blandishments enough to make him deem himself a favoured
+
+and a happy man.
+
+
+
+But she has a way of tormenting him, in which I am a fellow-sufferer,
+
+or might be, if I chose to regard myself as such. This is by openly,
+
+but not too glaringly, coquetting with Mr. Huntingdon, who is quite
+
+willing to be her partner in the game; but I don’t care for it,
+
+because, with him, I know there is nothing but personal [[Vanity|vanity]], and a
+
+mischievous [[Desire|desire]] to excite my [[Jealousy|jealousy]], and, perhaps, to torment his
+
+friend; and she, no [[Doubt|doubt]], is actuated by much the same motives; only,
+
+there is more of malice and less of playfulness in _her_ manœuvres. It
+
+is obviously, therefore, my interest to disappoint them both, as far as
+
+I am concerned, by preserving a cheerful, undisturbed serenity
+
+throughout; and, accordingly, I endeavour to show the fullest
+
+confidence in my husband, and the greatest indifference to the arts of
+
+my attractive guest. I have never reproached the former but once, and
+
+that was for laughing at [[Lord Lowborough]]’s depressed and anxious
+
+countenance one evening, when they had both been particularly
+
+provoking; and then, indeed, I said a good deal on the subject, and
+
+rebuked him sternly enough; but he only laughed, and said,—“You can
+
+feel for him, [[Helen]], can’t you?”
+
+
+
+“I can feel for anyone that is unjustly treated,” I replied, “and I can
+
+feel for those that injure them too.”
+
+
+
+“Why, [[Helen]], you are as jealous as he is!” cried he, laughing still
+
+more; and I found it impossible to convince him of his mistake. So,
+
+from that [[Time|time]], I have carefully refrained from any notice of the
+
+subject whatever, and left [[Lord Lowborough]] to take care of himself. He
+
+either has not the sense or the power to follow my example, though he
+
+does try to conceal his uneasiness as [[Well|well]] as he can; but still, it
+
+will appear in his face, and his ill-[[Humour|humour]] will peep out at intervals,
+
+though not in the expression of open resentment—they never go far
+
+enough for that. But I confess I do feel jealous at times, most
+
+painfully, bitterly so; when she sings and plays to him, and he hangs
+
+over the instrument, and dwells upon her voice with no affected
+
+interest; for then I know he is really delighted, and I have no power
+
+to awaken similar fervour. I can amuse and please him with my simple
+
+[[songs]], but not delight him thus.
+
+
+
+28th.—Yesterday, we all went to the Grove, Mr. Hargrave’s
+
+much-neglected [[Home|home]]. His mother frequently asks us over, that she may
+
+have the pleasure of her dear Walter’s company; and this [[Time|time]] she had
+
+invited us to a dinner-party, and got together as many of the country
+
+gentry as were within reach to meet us. The entertainment was very [[Well|well]]
+
+got up; but I could not help thinking about the cost of it all the
+
+[[Time|time]]. I don’t like Mrs. Hargrave; she is a hard, pretentious,
+
+worldly-minded woman. She has money enough to live very comfortably, if
+
+she only knew how to use it judiciously, and had taught her son to do
+
+the same; but she is ever straining to keep up appearances, with that
+
+despicable [[Pride|pride]] that shuns the semblance of [[Poverty|poverty]] as of a shameful
+
+crime. She grinds her dependents, pinches her servants, and deprives
+
+even her daughters and herself of the real comforts of life, because
+
+she will not consent to yield the palm in outward show to those who
+
+have three times her wealth; and, above all, because she is determined
+
+her cherished son shall be enabled to “hold up his head with the
+
+highest gentlemen in the land.” This same son, I imagine, is a man of
+
+expensive habits, no reckless spendthrift and no abandoned sensualist,
+
+but one who likes to have “everything handsome about him,” and to go to
+
+a certain length in youthful indulgences, not so much to gratify his
+
+own tastes as to maintain his reputation as a man of fashion in the
+
+world, and a respectable fellow among his own lawless companions; while
+
+he is too selfish to consider how many comforts might be obtained for
+
+his fond mother and sisters with the money he thus wastes upon himself:
+
+as long as they can contrive to make a respectable appearance once a
+
+year, when they come to town, he gives himself little concern about
+
+their private stintings and struggles at [[Home|home]]. This is a harsh judgment
+
+to form of “dear, noble-minded, generous-hearted Walter,” but I [[Fear|fear]] it
+
+is too just.
+
+
+
+Mrs. Hargrave’s anxiety to make good matches for her daughters is
+
+partly the cause, and partly the result, of these errors: by making a
+
+figure in the world, and showing them off to advantage, she hopes to
+
+obtain better chances for them; and by thus living beyond her
+
+legitimate means, and lavishing so much on their brother, she renders
+
+them portionless, and makes them burdens on her hands. Poor Milicent, I
+
+[[Fear|fear]], has already fallen a sacrifice to the manœuvrings of this
+
+mistaken mother, who congratulates herself on having so satisfactorily
+
+discharged her maternal duty, and hopes to do as [[Well|well]] for Esther. But
+
+Esther is a [[Child|child]] as yet, a little merry romp of fourteen: as
+
+honest-hearted, and as guileless and simple as her sister, but with a
+
+fearless spirit of her own, that I fancy her mother will find some
+
+difficulty in bending to her purposes.
+
+
+
+
 <span class="atom-split" data-atom="chapter_27--part_01" data-title="The Tenant of Wildfell Hall — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
 
 
@@ -56355,6 +54577,246 @@ gives to you.”
 “You flatter me,” said I; “but, at least, I can try to be worthy of
 
 it.” And then I turned the conversation.
+
+
+
+
+<span class="atom-split" data-atom="chapter_28" data-title="The Tenant of Wildfell Hall — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
+
+
+CHAPTER XXVIII
+
+
+
+
+
+December 25th.—Last Christmas I was a bride, with a heart overflowing
+
+with present bliss, and full of ardent hopes for the future, though not
+
+unmingled with foreboding fears. Now I am a wife: my bliss is sobered,
+
+but not destroyed; my hopes diminished, but not departed; my fears
+
+increased, but not yet thoroughly confirmed; and, thank heaven, I am a
+
+mother too. God has sent me a [[Soul|soul]] to educate for heaven, and give me a
+
+new and calmer bliss, and stronger hopes to comfort me.
+
+
+
+Dec. 25th, 1823.—Another year is gone. My little [[Arthur]] lives and
+
+thrives. He is healthy, but not robust, full of gentle playfulness and
+
+vivacity, already affectionate, and susceptible of passions and
+
+emotions it will be long ere he can find words to express. He has won
+
+his father’s heart at last; and now my constant terror is, lest he
+
+should be ruined by that father’s thoughtless indulgence. But I must
+
+beware of my own weakness too, for I never knew till now how strong are
+
+a parent’s temptations to spoil an only [[Child|child]].
+
+
+
+I have need of consolation in my son, for (to this silent paper I may
+
+confess it) I have but little in my husband. I [[Love|love]] him still; and he
+
+loves me, in his own way—but oh, how different from the [[Love|love]] I could
+
+have given, and once had hoped to receive! How little real sympathy
+
+there exists between us; how many of my thoughts and feelings are
+
+gloomily cloistered within my own mind; how much of my higher and
+
+better [[Self|self]] is indeed unmarried—doomed either to harden and sour in the
+
+sunless shade of [[Solitude|solitude]], or to quite degenerate and fall away for
+
+lack of nutriment in this unwholesome soil! But, I repeat, I have no
+
+right to complain; only let me state the [[Truth|truth]]—some of the [[Truth|truth]], at
+
+least,—and see hereafter if any darker truths will blot these pages. We
+
+have now been full two years united; the “[[Romance|romance]]” of our attachment
+
+must be worn away. Surely I have now got down to the lowest gradation
+
+in [[Arthur]]’s affection, and discovered all the evils of his [[Nature|nature]]: if
+
+there be any further change, it must be for the better, as we become
+
+still more accustomed to each other; surely we shall find no lower
+
+depth than this. And, if so, I can bear it [[Well|well]]—as [[Well|well]], at least, as I
+
+have borne it hitherto.
+
+
+
+[[Arthur]] is not what is commonly called a _bad_ man: he has many good
+
+qualities; but he is a man without [[Self|self]]-restraint or lofty aspirations,
+
+a [[Lover|lover]] of pleasure, given up to animal enjoyments: he is not a bad
+
+husband, but his notions of matrimonial duties and comforts are not my
+
+notions. Judging from appearances, his idea of a wife is a thing to
+
+[[Love|love]] one devotedly, and to stay at [[Home|home]] to wait upon her husband, and
+
+amuse him and minister to his comfort in every possible way, while he
+
+chooses to stay with her; and, when he is absent, to attend to his
+
+interests, domestic or otherwise, and patiently wait his return, no
+
+matter how he may be occupied in the meantime.
+
+
+
+Early in [[Spring|spring]] he announced his intention of going to [[London]]: his
+
+affairs there demanded his attendance, he said, and he could refuse it
+
+no longer. He expressed his regret at having to leave me, but hoped I
+
+would amuse myself with the baby till he returned.
+
+
+
+“But why leave me?” I said. “I can go with you: I can be ready at any
+
+[[Time|time]].”
+
+
+
+“You would not take that [[Child|child]] to town?”
+
+
+
+“Yes; why not?”
+
+
+
+The thing was absurd: the air of the town would be certain to disagree
+
+with him, and with me as a [[Nurse|nurse]]; the late hours and [[London]] habits
+
+would not suit me under such circumstances; and altogether he assured
+
+me that it would be excessively troublesome, injurious, and unsafe. I
+
+over-ruled his objections as [[Well|well]] as I could, for I trembled at the
+
+thoughts of his going [[Alone|alone]], and would sacrifice almost anything for
+
+myself, much even for my [[Child|child]], to prevent it; but at length he told
+
+me, plainly, and somewhat testily, that he could not do with me: he was
+
+worn out with the baby’s restless nights, and must have some repose. I
+
+proposed separate apartments; but it would not do.
+
+
+
+“The [[Truth|truth]] is, [[Arthur]],” I said at last, “you are weary of my company,
+
+and determined not to have me with you. You might as [[Well|well]] have said so
+
+at once.”
+
+
+
+He denied it; but I immediately left the room, and flew to the nursery,
+
+to hide my feelings, if I could not soothe them, there.
+
+
+
+I was too much hurt to express any further dissatisfaction with his
+
+plans, or at all to refer to the subject again, except for the
+
+necessary arrangements concerning his departure and the conduct of
+
+affairs during his absence, till the day before he went, when I
+
+earnestly exhorted him to take care of himself and keep out of the way
+
+of [[Temptation|temptation]]. He laughed at my anxiety, but assured me there was no
+
+cause for it, and promised to attend to my advice.
+
+
+
+“I suppose it is no use asking you to fix a day for your return?” said
+
+I.
+
+
+
+“Why, no; I hardly can, under the circumstances; but be assured, [[Love|love]],
+
+I shall not be long away.”
+
+
+
+“I don’t wish to keep you a prisoner at [[Home|home]],” I replied; “I should not
+
+grumble at your staying whole months away—if you can be happy so long
+
+without me—provided I knew you were safe; but I don’t like the idea of
+
+your being there among your friends, as you call them.”
+
+
+
+“Pooh, pooh, you silly girl! Do you think I can’t take care of myself?”
+
+
+
+“You didn’t last [[Time|time]]. But THIS [[Time|time]], [[Arthur]],” I added, earnestly,
+
+“show me that you can, and teach me that I need not [[Fear|fear]] to trust you!”
+
+
+
+He promised fair, but in such a manner as we seek to soothe a [[Child|child]].
+
+And did he keep his promise? No; and henceforth _I can never trust his
+
+word_. Bitter, bitter confession! [[Tears]] blind me while I write. It was
+
+early in March that he went, and he did not return till July. This [[Time|time]]
+
+he did not trouble himself to make excuses as before, and his letters
+
+were less frequent, and shorter and less affectionate, especially after
+
+the first few weeks: they came slower and slower, and more terse and
+
+careless every [[Time|time]]. But still, when _I_ omitted writing, he complained
+
+of my neglect. When I wrote sternly and coldly, as I confess I
+
+frequently did at the last, he blamed my harshness, and said it was
+
+enough to scare him from his [[Home|home]]: when I tried mild [[Persuasion|persuasion]], he was
+
+a little more gentle in his replies, and promised to return; but I had
+
+learnt, at last, to disregard his promises.
 
 
 
@@ -61047,6 +59509,408 @@ their scorn.
 
 
 
+<span class="atom-split" data-atom="chapter_34" data-title="The Tenant of Wildfell Hall — Chapter 34" data-chapter="Chapter 34" data-kind="chapter"></span>
+
+
+CHAPTER XXXIV
+
+
+
+
+
+Evening.—Breakfast passed [[Well|well]] over: I was calm and cool throughout. I
+
+answered composedly all inquiries respecting my health; and whatever
+
+was unusual in my look or manner was generally attributed to the
+
+trifling indisposition that had occasioned my early retirement last
+
+[[Night|night]]. But how am I to get over the ten or twelve days that must yet
+
+elapse before they go? Yet why so long for their departure? When they
+
+_are_ gone, how shall I get through the months or years of my future
+
+life in company with that man—my greatest enemy? for none could injure
+
+me as he has done. Oh! when I think how fondly, how foolishly I have
+
+loved him, how madly I have trusted him, how constantly I have
+
+laboured, and studied, and prayed, and struggled for his advantage; and
+
+how cruelly he has trampled on my [[Love|love]], betrayed my trust, scorned my
+
+prayers and [[Tears|tears]], and efforts for his preservation, crushed my hopes,
+
+destroyed my youth’s best feelings, and doomed me to a life of hopeless
+
+misery, as far as man can do it, it is not enough to say that I no
+
+longer [[Love|love]] my husband—I HATE him! The word stares me in the face like
+
+a guilty confession, but it is true: I hate him—I hate him! But God
+
+have [[Mercy|mercy]] on his miserable [[Soul|soul]]! and make him see and feel his [[Guilt|guilt]]—I
+
+ask no other vengeance! If he could but fully know and truly feel my
+
+wrongs I should be [[Well|well]] avenged, and I could freely pardon all; but he
+
+is so lost, so hardened in his heartless depravity, that in this life I
+
+believe he never will. But it is useless dwelling on this theme: let me
+
+seek once more to dissipate reflection in the minor details of passing
+
+events.
+
+
+
+Mr. Hargrave has annoyed me all day long with his serious,
+
+sympathising, and (as _he_ thinks) unobtrusive politeness. If it were
+
+more obtrusive it would trouble me less, for then I could snub him;
+
+but, as it is, he contrives to appear so really kind and thoughtful
+
+that I cannot do so without rudeness and seeming ingratitude. I
+
+sometimes think I ought to give him credit for the good feeling he
+
+simulates so [[Well|well]]; and then again, I think it is my _duty_ to suspect
+
+him under the peculiar circumstances in which I am placed. His kindness
+
+may not all be feigned; but still, let not the purest impulse of
+
+gratitude to him induce me to forget myself: let me remember the game
+
+of chess, the expressions he used on the occasion, and those
+
+indescribable looks of his, that so justly roused my indignation, and I
+
+think I shall be safe enough. I have done [[Well|well]] to record them so
+
+minutely.
+
+
+
+I think he wishes to find an opportunity of speaking to me [[Alone|alone]]: he
+
+has seemed to be on the watch all day; but I have taken care to
+
+disappoint him—not that I [[Fear|fear]] anything he could say, but I have
+
+trouble enough without the addition of his insulting consolations,
+
+condolences, or whatever else he might attempt; and, for Milicent’s
+
+sake, I do not wish to quarrel with him. He excused himself from going
+
+out to shoot with the other gentlemen in the morning, under the pretext
+
+of having letters to write; and instead of retiring for that purpose
+
+into the library, he sent for his desk into the morning-room, where I
+
+was seated with Milicent and Lady Lowborough. They had betaken
+
+themselves to their work; I, less to divert my mind than to deprecate
+
+conversation, had provided myself with a book. Milicent saw that I
+
+wished to be quiet, and accordingly let me [[Alone|alone]]. Annabella, doubtless,
+
+saw it too: but that was no reason why she should restrain her tongue,
+
+or curb her cheerful spirits: _she_ accordingly chatted away,
+
+addressing herself almost exclusively to me, and with the utmost
+
+assurance and familiarity, growing the more animated and friendly the
+
+colder and briefer my answers became. Mr. Hargrave saw that I could ill
+
+endure it, and, looking up from his desk, he answered her questions and
+
+observations for me, as far as he could, and attempted to transfer her
+
+social attentions from me to himself; but it would not do. Perhaps she
+
+thought I had a headache, and could not bear to talk; at any rate, she
+
+saw that her loquacious vivacity annoyed me, as I could tell by the
+
+malicious pertinacity with which she persisted. But I checked it
+
+effectually by putting into her hand the book I had been trying to
+
+read, on the fly-leaf of which I had hastily scribbled,—
+
+
+
+“I am too [[Well|well]] acquainted with your character and conduct to feel any
+
+real [[Friendship|friendship]] for you, and as I am without your talent for
+
+dissimulation, I cannot assume the appearance of it. I must, therefore,
+
+beg that hereafter all familiar intercourse may cease between us; and
+
+if I still continue to treat you with civility, as if you were a woman
+
+worthy of consideration and respect, understand that it is out of
+
+regard for your cousin Milicent’s feelings, not for yours.”
+
+
+
+Upon perusing this she turned scarlet, and bit her lip. Covertly
+
+tearing away the leaf, she crumpled it up and put it in the [[Fire|fire]], and
+
+then employed herself in turning over the pages of the book, and,
+
+really or apparently, perusing its contents. In a little while Milicent
+
+announced it her intention to repair to the nursery, and asked if I
+
+would accompany her.
+
+
+
+“Annabella will excuse us,” said she; “she’s busy reading.”
+
+
+
+“No, I won’t,” cried Annabella, suddenly looking up, and throwing her
+
+book on the table; “I want to speak [[To Helen|to Helen]] a minute. You may go,
+
+Milicent, and she’ll follow in a while.” (Milicent went.) “Will you
+
+oblige me, [[Helen]]?” continued she.
+
+
+
+Her impudence astounded me; but I complied, and followed her into the
+
+library. She closed the door, and walked up to the [[Fire|fire]].
+
+
+
+“Who told you this?” said she.
+
+
+
+“No one: I am not incapable of seeing for myself.”
+
+
+
+“Ah, you are suspicious!” cried she, smiling, with a gleam of [[Hope|hope]].
+
+Hitherto there had been a kind of desperation in her hardihood; now she
+
+was evidently relieved.
+
+
+
+“If I _were_ suspicious,” I replied, “I should have discovered your
+
+infamy long before. No, Lady Lowborough, I do not found my charge upon
+
+suspicion.”
+
+
+
+“On what _do_ you found it, then?” said she, throwing herself into an
+
+arm-chair, and stretching out her feet to the fender, with an obvious
+
+effort to appear composed.
+
+
+
+“I enjoy a moonlight ramble as [[Well|well]] as you,” I answered, steadily
+
+fixing my eyes upon her; “and the shrubbery happens to be one of my
+
+favourite resorts.”
+
+
+
+She coloured again excessively, and remained silent, pressing her
+
+finger against her teeth, and gazing into the [[Fire|fire]]. I watched her a few
+
+moments with a feeling of malevolent gratification; then, moving
+
+towards the door, I calmly asked if she had anything more to say.
+
+
+
+“Yes, yes!” cried she eagerly, starting up from her reclining posture.
+
+“I want to know if you will tell [[Lord Lowborough]]?”
+
+
+
+“Suppose I do?”
+
+
+
+“[[Well]], if you are disposed to publish the matter, _I_ cannot dissuade
+
+you, of course—but there will be terrible work if you do—and if you
+
+don’t, I shall think you the most generous of mortal beings—and if
+
+there is anything in the world I can do for you—anything short of—” she
+
+hesitated.
+
+
+
+“Short of renouncing your guilty connection with my husband, I suppose
+
+you mean?” said I.
+
+
+
+She paused, in evident disconcertion and perplexity, mingled with anger
+
+she dared not show.
+
+
+
+“I cannot renounce what is dearer than life,” she muttered, in a low,
+
+hurried tone. Then, suddenly raising her head and fixing her gleaming
+
+eyes upon me, she continued earnestly: “But, [[Helen]]—or Mrs. Huntingdon,
+
+or whatever you would have me call you—_will_ you tell him? If you are
+
+generous, here is a fitting opportunity for the exercise of your
+
+magnanimity: if you are proud, here am I—your rival—ready to
+
+acknowledge myself your debtor for an act of the most noble
+
+forbearance.”
+
+
+
+“I shall not tell him.”
+
+
+
+“You will not!” cried she, delightedly. “Accept my sincere thanks,
+
+then!”
+
+
+
+She sprang up, and offered me her hand. I drew back.
+
+
+
+“Give me no thanks; it is not for _your_ sake that I refrain. Neither
+
+is it an act of any forbearance: I have no wish to publish your shame.
+
+I should be sorry to distress your husband with the knowledge of it.”
+
+
+
+“And Milicent? will you tell her?”
+
+
+
+“No: on the contrary, I shall do my utmost to conceal it from her. I
+
+would not for much that she should know the infamy and disgrace of her
+
+relation!”
+
+
+
+“You use hard words, Mrs. Huntingdon, but I can pardon you.”
+
+
+
+“And now, Lady Lowborough,” continued I, “let me counsel you to leave
+
+this [[house]] as soon as _possible_. You must be aware that your
+
+continuance here is excessively disagreeable to me—not for Mr.
+
+Huntingdon’s sake,” said I, observing the [[Dawn|dawn]] of a malicious smile of
+
+triumph on her face—“you are welcome to him, if you like him, as far as
+
+_I_ am concerned—but because it is painful to be always disguising my
+
+true sentiments respecting you, and straining to keep up an appearance
+
+of civility and respect towards one for whom I have not the most
+
+distant [[Shadow|shadow]] of esteem; and because, if you stay, your conduct cannot
+
+possibly remain concealed much longer from the only two persons in the
+
+[[house]] who do not know it already. And, for your husband’s sake,
+
+Annabella, and even for your own, I wish—I earnestly advise and
+
+_entreat_ you to break off this unlawful connection at once, and return
+
+to your duty while you may, before the dreadful consequences—”
+
+
+
+“Yes, yes, of course,” said she, interrupting me with a gesture of
+
+impatience. “But I cannot go, [[Helen]], before the [[Time|time]] appointed for our
+
+departure. What possible pretext could I frame for such a thing?
+
+Whether I proposed going back [[Alone|alone]]—which Lowborough would not hear
+
+of—or taking him with me, the very circumstance itself would be certain
+
+to excite suspicion—and when our visit is so _nearly_ at an end
+
+too—little more than a week—surely you can endure my presence _so_
+
+long! I will not annoy you with any more of my friendly impertinences.”
+
+
+
+“[[Well]], I have nothing more to say to you.”
+
+
+
+“Have you mentioned this affair to Huntingdon?” asked she, as I was
+
+leaving the room.
+
+
+
+“How dare you mention his name to me!” was the only answer I gave.
+
+
+
+No words have passed between us since, but such as outward decency or
+
+pure necessity demanded.
+
+
+
+
 <span class="atom-split" data-atom="chapter_35--part_01" data-title="The Tenant of Wildfell Hall — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
 
 
@@ -61543,6 +60407,358 @@ be proud of her son.
 
 
 Thank heaven, they are all going to-morrow.
+
+
+
+
+<span class="atom-split" data-atom="chapter_36" data-title="The Tenant of Wildfell Hall — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
+
+
+CHAPTER XXXVI
+
+
+
+
+
+December 20th, 1824.—This is the third anniversary of our felicitous
+
+[[Union|union]]. It is now two months since our guests left us to the enjoyment
+
+of each other’s society; and I have had nine weeks’ experience of this
+
+new phase of conjugal life—two persons living together, as master and
+
+mistress of the [[house]], and father and mother of a winsome, merry little
+
+[[Child|child]], with the mutual understanding that there is no [[Love|love]], [[Friendship|friendship]],
+
+or sympathy between them. As far as in me lies, I endeavour to live
+
+peaceably with him: I treat him with unimpeachable civility, give up my
+
+convenience to his, wherever it may reasonably be done, and consult him
+
+in a business-like way on household affairs, deferring to his pleasure
+
+and judgment, even when I know the latter to be inferior to my own.
+
+
+
+As for him, for the first week or two, he was peevish and low,
+
+fretting, I suppose, over his dear Annabella’s departure, and
+
+particularly ill-tempered to me: everything I did was wrong; I was
+
+cold-hearted, hard, insensate; my sour, pale face was perfectly
+
+repulsive; my voice made him shudder; he knew not how he could live
+
+through the [[Winter|winter]] with me; I should kill him by inches. Again I
+
+proposed a separation, but it would not do: he was not going to be the
+
+talk of all the old gossips in the neighbourhood: he would not have it
+
+said that he was such a brute his wife could not live with him. No; he
+
+must contrive to bear with me.
+
+
+
+“I must contrive to bear with _you_, you mean,” said I; “for so long as
+
+I discharge my functions of steward and [[house]]-keeper, so
+
+conscientiously and [[Well|well]], without pay and without thanks, you cannot
+
+afford to part with me. I shall therefore remit these duties when my
+
+bondage becomes intolerable.” This threat, I thought, would serve to
+
+keep him in check, if anything would.
+
+
+
+I believe he was much disappointed that I did not feel his offensive
+
+sayings more acutely, for when he had said anything particularly [[Well|well]]
+
+calculated to hurt my feelings, he would stare me searchingly in the
+
+face, and then grumble against my “marble heart” or my “brutal
+
+insensibility.” If I had bitterly wept and deplored his lost affection,
+
+he would, perhaps, have condescended to pity me, and taken me into
+
+favour for a while, just to comfort his [[Solitude|solitude]] and console him for
+
+the absence of his beloved Annabella, until he could meet her again, or
+
+some more fitting substitute. Thank heaven, I am not so weak as that! I
+
+was infatuated once with a foolish, besotted affection, that clung to
+
+him in spite of his unworthiness, but it is fairly gone now—wholly
+
+crushed and withered away; and he has none but himself and his vices to
+
+thank for it.
+
+
+
+At first (in compliance with his sweet lady’s injunctions, I suppose),
+
+he abstained wonderfully [[Well|well]] from seeking to solace his cares in wine;
+
+but at length he began to relax his virtuous efforts, and now and then
+
+exceeded a little, and still continues to do so; nay, sometimes, not a
+
+little. When he is under the exciting influence of these excesses, he
+
+sometimes fires up and attempts to play the brute; and then I take
+
+little pains to suppress my scorn and disgust. When he is under the
+
+_depressing_ influence of the after-consequences, he bemoans his
+
+sufferings and his errors, and charges them both upon me; he knows such
+
+indulgence injures his health, and does him more harm than good; but he
+
+says I drive him to it by my unnatural, unwomanly conduct; it will be
+
+the ruin of him in the end, but it is all my fault; and _then_ I am
+
+roused to defend myself, sometimes with bitter recrimination. This is a
+
+kind of injustice I cannot patiently endure. Have I not laboured long
+
+and hard to save him from this very vice? Would I not labour still to
+
+deliver him from it if I could? but could I do so by fawning upon him
+
+and caressing him when I know that he scorns me? Is it _my_ fault that
+
+I have lost my influence with him, or that he has forfeited every claim
+
+to my regard? And should I seek a [[Reconciliation|reconciliation]] with him, when I feel
+
+that I abhor him, and that he despises me? and while he continues still
+
+to correspond with Lady Lowborough, as I know he does? No, never,
+
+never, never! he may drink himself dead, but it is NOT my fault!
+
+
+
+Yet I do my part to save him still: I give him to understand that
+
+drinking makes his eyes dull, and his face red and bloated; and that it
+
+tends to render him imbecile in [[Body|body]] and mind; and if Annabella were to
+
+see him as often as I do, she would speedily be disenchanted; and that
+
+she certainly will withdraw her favour from him, if he continues such
+
+courses. Such a mode of admonition wins only coarse abuse for me—and,
+
+indeed, I almost feel as if I deserved it, for I hate to use such
+
+arguments; but they sink into his stupefied heart, and make him pause,
+
+and ponder, and abstain, more than anything else I could say.
+
+
+
+At present I am enjoying a temporary relief from his presence: he is
+
+gone with Hargrave to join a distant hunt, and will probably not be
+
+back before to-morrow evening. How differently I used to feel his
+
+absence!
+
+
+
+Mr. Hargrave is still at the Grove. He and [[Arthur]] frequently meet to
+
+pursue their rural sports together: he often calls upon us here, and
+
+[[Arthur]] not unfrequently rides over to him. I do not think either of
+
+these soi-disant friends is overflowing with [[Love|love]] for the other; but
+
+such intercourse serves to get the [[Time|time]] on, and I am very willing it
+
+should continue, as it saves me some hours of discomfort in [[Arthur]]’s
+
+society, and gives him some better employment than the sottish
+
+indulgence of his sensual appetites. The only objection I have to Mr.
+
+Hargrave’s being in the neighbourhood, is that the [[Fear|fear]] of meeting him
+
+at the Grove prevents me from seeing his sister so often as I otherwise
+
+should; for, of late, he has conducted himself towards me with such
+
+unerring propriety, that I have almost forgotten his former conduct. I
+
+suppose he is striving to “win my esteem.” If he continue to act in
+
+this way, he _may_ win it; but what then? The moment he attempts to
+
+demand anything more, he will lose it again.
+
+
+
+February 10th.—It is a hard, embittering thing to have one’s kind
+
+feelings and good intentions cast back in one’s teeth. I was beginning
+
+to relent towards my wretched partner; to pity his forlorn, comfortless
+
+condition, unalleviated as it is by the consolations of intellectual
+
+resources and the answer of a good [[Conscience|conscience]] towards God; and to think
+
+I ought to sacrifice my [[Pride|pride]], and renew my efforts once again to make
+
+his [[Home|home]] agreeable and lead him back to the path of virtue; not by
+
+false professions of [[Love|love]], and not by pretended remorse, but by
+
+mitigating my habitual coldness of manner, and commuting my frigid
+
+civility into kindness wherever an opportunity occurred; and not only
+
+was I beginning to think so, but I had already begun to act upon the
+
+thought—and what was the result? No answering spark of kindness, no
+
+awakening penitence, but an unappeasable ill-[[Humour|humour]], and a spirit of
+
+tyrannous exaction that increased with indulgence, and a lurking gleam
+
+of [[Self|self]]-complacent triumph at every detection of relenting softness in
+
+my manner, that congealed me to marble again as often as it recurred;
+
+and this morning he finished the business:—I think the petrifaction is
+
+so completely effected at last that nothing can melt me again. Among
+
+his letters was one which he perused with symptoms of unusual
+
+gratification, and then threw it across the table to me, with the
+
+admonition,—
+
+
+
+“There! read that, and take a lesson by it!”
+
+
+
+It was in the free, dashing hand of Lady Lowborough. I glanced at the
+
+first page; it seemed full of extravagant protestations of affection;
+
+impetuous longings for a speedy reunion—and impious defiance of God’s
+
+mandates, and railings against His [[Providence|providence]] for having cast their lot
+
+asunder, and doomed them both to the hateful bondage of alliance with
+
+those they could not [[Love|love]]. He gave a slight titter on seeing me change
+
+colour. I folded up the letter, [[Rose|rose]], and returned it to him, with no
+
+remark, but—
+
+
+
+“Thank you, I _will_ take a lesson by it!”
+
+
+
+My little [[Arthur]] was standing between his knees, delightedly playing
+
+with the bright, ruby ring on his finger. Urged by a sudden, imperative
+
+impulse to deliver my son from that contaminating influence, I caught
+
+him up in my arms and carried him with me out of the room. Not liking
+
+this abrupt removal, the [[Child|child]] began to pout and cry. This was a new
+
+stab to my already tortured heart. I would not let him go; but, taking
+
+him with me into the library, I shut the door, and, kneeling on the
+
+floor beside him, I embraced him, kissed him, wept over with him with
+
+passionate fondness. Rather frightened than consoled by this, he turned
+
+struggling from me, and cried out aloud for his papa. I released him
+
+from my arms, and never were more bitter [[Tears|tears]] than those that now
+
+concealed him from my blinded, burning eyes. Hearing his cries, the
+
+father came to the room. I instantly turned away, lest he should see
+
+and misconstrue my emotion. He swore at me, and took the now pacified
+
+[[Child|child]] away.
+
+
+
+It is hard that my little darling should [[Love|love]] him more than me; and
+
+that, when the [[Well|well]]-being and culture of my son is all I have to live
+
+for, I should see my influence destroyed by one whose selfish affection
+
+is more injurious than the coldest indifference or the harshest tyranny
+
+could be. If I, for his good, deny him some trifling indulgence, he
+
+goes to his father, and the latter, in spite of his selfish [[Indolence|indolence]],
+
+will even give himself some trouble to meet the [[Child|child]]’s desires: if I
+
+attempt to curb his will, or look gravely on him for some act of
+
+childish disobedience, he knows his other parent will smile and take
+
+his part against me. Thus, not only have I the father’s spirit in the
+
+son to contend against, the germs of his evil tendencies to search out
+
+and eradicate, and his corrupting intercourse and example in after-life
+
+to counteract, but already _he_ counteracts my arduous labour for the
+
+[[Child|child]]’s advantage, destroys my influence over his tender mind, and robs
+
+me of his very [[Love|love]]; I had no earthly [[Hope|hope]] but this, and he seems to
+
+take a diabolical delight in tearing it away.
+
+
+
+But it is wrong to [[Despair|despair]]; I will remember the counsel of the inspired
+
+writer to him “that feareth the Lord and obeyeth the voice of his
+
+servant, that _sitteth in darkness and hath no light;_ let him trust in
+
+the name of the Lord, and stay upon his God!”
 
 
 
@@ -64341,6 +63557,370 @@ such a parent?
 
 
 
+<span class="atom-split" data-atom="chapter_40" data-title="The Tenant of Wildfell Hall — Chapter 40" data-chapter="Chapter 40" data-kind="chapter"></span>
+
+
+CHAPTER XL
+
+
+
+
+
+January 10th, 1827.—While writing the above, yesterday evening, I sat
+
+in the drawing-room. Mr. Huntingdon was present, but, as I thought,
+
+asleep on the sofa behind me. He had risen, however, unknown to me,
+
+and, actuated by some base spirit of curiosity, been looking over my
+
+shoulder for I know not how long; for when I had laid aside my pen, and
+
+was about to close the book, he suddenly placed his hand upon it, and
+
+saying,—“With your leave, my dear, I’ll have a look at this,” forcibly
+
+wrested it from me, and, drawing a chair to the table, composedly sat
+
+down to examine it: turning back leaf after leaf to find an explanation
+
+of what he had read. Unluckily for me, he was more sober that [[Night|night]]
+
+than he usually is at such an hour.
+
+
+
+Of course I did not leave him to pursue this occupation in quiet: I
+
+made several attempts to snatch the book from his hands, but he held it
+
+too firmly for that; I upbraided him in bitterness and scorn for his
+
+mean and dishonourable conduct, but that had no effect upon him; and,
+
+finally, I extinguished both the candles, but he only wheeled round to
+
+the [[Fire|fire]], and raising a blaze sufficient for his purposes, calmly
+
+continued the investigation. I had serious thoughts of getting a
+
+pitcher of [[Water|water]] and extinguishing that light too; but it was evident
+
+his curiosity was too keenly excited to be quenched by that, and the
+
+more I manifested my anxiety to baffle his scrutiny, the greater would
+
+be his determination to persist in it, besides it was too late.
+
+
+
+“It seems very interesting, [[Love|love]],” said he, lifting his head and
+
+turning to where I stood, wringing my hands in silent rage and anguish;
+
+“but it’s rather long; I’ll look at it some other [[Time|time]]; and meanwhile
+
+I’ll trouble you for your keys, my dear.”
+
+
+
+“What keys?”
+
+
+
+“The keys of your cabinet, desk, drawers, and whatever else you
+
+possess,” said he, rising and holding out his hand.
+
+
+
+“I’ve not got them,” I replied. The key of my desk, in fact, was at
+
+that moment in the lock, and the others were attached to it.
+
+
+
+“Then you must send for them,” said he; “and if that old devil, Rachel,
+
+doesn’t immediately deliver them up, she tramps bag and baggage
+
+tomorrow.”
+
+
+
+“She doesn’t know where they are,” I answered, quietly placing my hand
+
+upon them, and taking them from the desk, as I thought, unobserved.
+
+“_I_ know, but I shall not give them up without a reason.”
+
+
+
+“And _I_ know, too,” said he, suddenly seizing my closed hand and
+
+rudely abstracting them from it. He then took up one of the candles and
+
+relighted it by thrusting it into the [[Fire|fire]].
+
+
+
+“Now, then,” sneered he, “we must have a confiscation of property. But,
+
+first, let us take a peep into the studio.”
+
+
+
+And putting the keys into his pocket, he walked into the library. I
+
+followed, whether with the dim idea of preventing mischief, or only to
+
+know the worst, I can hardly tell. My painting materials were laid
+
+together on the corner table, ready for to-morrow’s use, and only
+
+covered with a cloth. He soon spied them out, and putting down the
+
+candle, deliberately proceeded to cast them into the [[Fire|fire]]: palette,
+
+paints, bladders, pencils, brushes, varnish: I saw them all consumed:
+
+the palette-knives snapped in two, the oil and turpentine sent hissing
+
+and roaring up the chimney. He then rang the bell.
+
+
+
+“Benson, take those things away,” said he, pointing to the easel,
+
+canvas, and stretcher; “and tell the housemaid she may kindle the [[Fire|fire]]
+
+with them: your mistress won’t want them any more.”
+
+
+
+Benson paused aghast and looked at me.
+
+
+
+“Take them away, Benson,” said I; and his master muttered an oath.
+
+
+
+“And this and all, sir?” said the astonished servant, referring to the
+
+half-finished picture.
+
+
+
+“That and all,” replied the master; and the things were cleared away.
+
+
+
+Mr. Huntingdon then went up-stairs. I did not attempt to follow him,
+
+but remained seated in the arm-chair, speechless, tearless, and almost
+
+motionless, till he returned about half-an-hour after, and walking up
+
+to me, held the candle in my face and peered into my eyes with looks
+
+and laughter too insulting to be borne. With a sudden stroke of my hand
+
+I dashed the candle to the floor.
+
+
+
+“Hal-lo!” muttered he, starting back; “she’s the very devil for spite.
+
+Did _ever_ any mortal see such eyes?—they shine in the dark like a
+
+cat’s. _Oh_, you’re a sweet one!” So saying, he gathered up the candle
+
+and the candlestick. The former being broken as [[Well|well]] as extinguished,
+
+he rang for another.
+
+
+
+“Benson, your mistress has broken the candle; bring another.”
+
+
+
+“You expose yourself finely,” observed I, as the man departed.
+
+
+
+“I didn’t say _I’d_ broken it, did I?” returned he. He then threw my
+
+keys into my lap, saying,—“There! you’ll find nothing gone but your
+
+money, and the jewels, and a few little trifles I thought it advisable
+
+to take into my own possession, lest your mercantile spirit should be
+
+tempted to turn them into gold. I’ve left you a few sovereigns in your
+
+purse, which I expect to last you through the month; at all events,
+
+when you want more you will be so good as to give me an account of how
+
+that’s spent. I shall put you upon a small monthly allowance, in
+
+future, for your own private expenses; and you needn’t trouble yourself
+
+any more about my concerns; I shall look out for a steward, my dear—I
+
+won’t expose you to the [[Temptation|temptation]]. And as for the household matters,
+
+Mrs. Greaves must be very particular in keeping her accounts; we must
+
+go upon an entirely new plan—”
+
+
+
+“What great discovery have you made now, Mr. Huntingdon? Have I
+
+attempted to defraud you?”
+
+
+
+“Not in money matters, exactly, it seems; but it’s best to keep out of
+
+the way of [[Temptation|temptation]].”
+
+
+
+Here Benson entered with the candles, and there followed a brief
+
+interval of [[Silence|silence]]; I sitting still in my chair, and he standing with
+
+his back to the [[Fire|fire]], silently triumphing in my [[Despair|despair]].
+
+
+
+“And so,” said he at length, “you thought to disgrace me, did you, by
+
+running away and turning [[artist]], and supporting yourself by the labour
+
+of your hands, forsooth? And you thought to rob me of my son, too, and
+
+bring him up to be a dirty Yankee tradesman, or a low, beggarly
+
+painter?”
+
+
+
+“Yes, to obviate his becoming such a gentleman as his father.”
+
+
+
+“It’s [[Well|well]] you couldn’t keep your own secret—ha, ha! It’s [[Well|well]] these
+
+women must be blabbing. If they haven’t a friend to talk to, they must
+
+whisper their [[Secrets|secrets]] to the fishes, or write them on the sand, or
+
+something; and it’s [[Well|well]], too, I wasn’t over full to-[[Night|night]], now I think
+
+of it, or I might have snoozed away and never dreamt of looking what my
+
+sweet lady was about; or I might have lacked the sense or the power to
+
+carry my point like a man, as I have done.”
+
+
+
+Leaving him to his [[Self|self]]-congratulations, I [[Rose|rose]] to secure my
+
+manuscript, for I now remembered it had been left upon the drawing-room
+
+table, and I determined, if possible, to save myself the humiliation of
+
+seeing it in his hands again. I could not bear the idea of his amusing
+
+himself over my secret thoughts and recollections; though, to be sure,
+
+he would find little good of himself therein indited, except in the
+
+former part; and oh, I would sooner burn it all than he should read
+
+what I had written when I was such a [[Fool|fool]] as to [[Love|love]] him!
+
+
+
+“And by-the-by,” cried he, as I was leaving the room, “you’d better
+
+tell that d—d old sneak of a [[Nurse|nurse]] to keep out of my way for a day or
+
+two; I’d pay her her wages and send her packing to-morrow, but I know
+
+she’d do more mischief out of the [[house]] than in it.”
+
+
+
+And as I departed, he went on cursing and abusing my faithful friend
+
+and servant with epithets I will not defile this paper with repeating.
+
+I went to her as soon as I had put away my book, and told her how our
+
+project was defeated. She was as much distressed and horrified as I
+
+was—and more so than I was that [[Night|night]], for I was partly stunned by the
+
+blow, and partly excited and supported against it by the bitterness of
+
+my wrath. But in the morning, when I woke without that cheering [[Hope|hope]]
+
+that had been my secret comfort and support so long, and all this day,
+
+when I have wandered about restless and objectless, shunning my
+
+husband, shrinking even from my [[Child|child]], knowing that I am unfit to be
+
+his teacher or companion, hoping nothing for his future life, and
+
+fervently wishing he had never been born,—I felt the full extent of my
+
+calamity, and I feel it now. I know that day after day such feelings
+
+will return upon me. I am a slave—a prisoner—but that is nothing; if it
+
+were myself [[Alone|alone]] I would not complain, but I am forbidden to rescue my
+
+son from ruin, and what was once my only consolation is become the
+
+crowning source of my [[Despair|despair]].
+
+
+
+Have I no [[Faith|faith]] in God? I try to look to Him and raise my heart to
+
+heaven, but it will cleave to the [[Dust|dust]]. I can only say, “He hath hedged
+
+me about, that I cannot get out: He hath made my chain heavy. He hath
+
+filled me with bitterness—He hath made me drunken with wormwood.” I
+
+forget to add, “But though He cause grief, yet will He have compassion
+
+according to the multitude of His mercies. For He doth not afflict
+
+willingly nor grieve the children of men.” I ought to think of this;
+
+and if there be nothing but sorrow for me in this world, what is the
+
+longest life of misery to a whole [[Eternity|eternity]] of peace? And for my little
+
+[[Arthur]]—has he no friend but me? Who was it said, “It is not the will of
+
+your Father which is in heaven that one of these little ones should
+
+perish?”
+
+
+
+
 <span class="atom-split" data-atom="chapter_41--part_01" data-title="The Tenant of Wildfell Hall — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
 
 
@@ -64889,6 +64469,426 @@ all.”
 “If such are your expectations of matrimony, Esther, you must, indeed,
 
 be careful whom you marry—or rather, you must avoid it altogether.”
+
+
+
+
+<span class="atom-split" data-atom="chapter_42" data-title="The Tenant of Wildfell Hall — Chapter 42" data-chapter="Chapter 42" data-kind="chapter"></span>
+
+
+CHAPTER XLII
+
+
+
+
+
+September 1st.—No Mr. Huntingdon yet. Perhaps he will stay among his
+
+friends till Christmas; and then, next [[Spring|spring]], he will be off again. If
+
+he continue this plan, I shall be able to stay at Grassdale [[Well|well]]
+
+enough—that is, I _shall_ be able to stay, and that is enough; even an
+
+occasional bevy of friends at the shooting season may be borne, if
+
+[[Arthur]] get so firmly attached to me, so [[Well|well]] established in good sense
+
+and principles before they come that I shall be able, by reason and
+
+affection, to keep him pure from their contaminations. Vain [[Hope|hope]], I
+
+[[Fear|fear]]! but still, till such a [[Time|time]] of trial comes I will forbear to
+
+think of my quiet asylum in the beloved old hall.
+
+
+
+Mr. and Mrs. Hattersley have been staying at the Grove a fortnight: and
+
+as Mr. Hargrave is still absent, and the weather was remarkably fine, I
+
+never passed a day without seeing my two friends, Milicent and Esther,
+
+either there or here. On one occasion, when Mr. Hattersley had driven
+
+them over to Grassdale in the phaeton, with little [[Helen]] and Ralph, and
+
+we were all enjoying ourselves in the [[Garden|garden]]—I had a few minutes’
+
+conversation with that gentleman, while the ladies were amusing
+
+themselves with the children.
+
+
+
+“Do you want to hear anything of your husband, Mrs. Huntingdon?” said
+
+he.
+
+
+
+“No, unless you can tell me when to expect him [[Home|home]].”
+
+
+
+“I can’t.—You don’t want him, do you?” said he, with a broad grin.
+
+
+
+“No.”
+
+
+
+“[[Well]], I think you’re better without him, sure enough—for my part, I’m
+
+downright weary of him. I told him I’d leave him if he didn’t mend his
+
+manners, and he wouldn’t; so I left him. You see, I’m a better man than
+
+you think me; and, what’s more, I have serious thoughts of washing my
+
+hands of him entirely, and the whole set of ’em, and comporting myself
+
+from this day forward with all decency and sobriety, as a Christian and
+
+the father of a family should do. What do you think of that?”
+
+
+
+“It is a resolution you ought to have formed long ago.”
+
+
+
+“[[Well]], I’m not thirty yet; it isn’t too late, is it?”
+
+
+
+“No; it is never too late to [[Reform|reform]], as long as you have the sense to
+
+[[Desire|desire]] it, and the strength to execute your purpose.”
+
+
+
+“[[Well]], to tell you the [[Truth|truth]], I’ve thought of it often and often
+
+before; but he’s such devilish good company, is Huntingdon, after all.
+
+You can’t imagine what a jovial good fellow he is when he’s not fairly
+
+drunk, only just primed or half-seas-over. We all have a bit of a
+
+liking for him at the [[Bottom|bottom]] of our hearts, though we can’t respect
+
+him.”
+
+
+
+“But should you wish yourself to be like him?”
+
+
+
+“No, I’d rather be like myself, bad as I am.”
+
+
+
+“You can’t continue as bad as you are without getting worse and more
+
+brutalised every day, and therefore more like him.”
+
+
+
+I could not help smiling at the comical, half-angry, half-confounded
+
+look he put on at this rather unusual mode of address.
+
+
+
+“Never mind my plain speaking,” said I; “it is from the best of
+
+motives. But tell me, should you wish your sons to be like Mr.
+
+Huntingdon—or even like yourself?”
+
+
+
+“Hang it! no.”
+
+
+
+“Should you wish your daughter to despise you—or, at least, to feel no
+
+vestige of respect for you, and no affection but what is mingled with
+
+the bitterest regret?”
+
+
+
+“Oh, no! I couldn’t stand that.”
+
+
+
+“And, finally, should you wish your wife to be ready to sink into the
+
+earth when she hears you mentioned; and to loathe the very sound of
+
+your voice, and shudder at your approach?”
+
+
+
+“She never will; she likes me all the same, whatever I do.”
+
+
+
+“Impossible, Mr. Hattersley! you mistake her quiet submission for
+
+affection.”
+
+
+
+“[[Fire]] and fury—”
+
+
+
+“Now don’t burst into a tempest at that. I don’t mean to say she does
+
+not [[Love|love]] you—she does, I know, a great deal better than you deserve;
+
+but I am quite sure, that if you behave better, she will [[Love|love]] you more,
+
+and if you behave worse, she will [[Love|love]] you less and less, till all is
+
+lost in [[Fear|fear]], aversion, and bitterness of [[Soul|soul]], if not in secret hatred
+
+and contempt. But, dropping the subject of affection, should you wish
+
+to be the [[Tyrant|tyrant]] of her life—to take away all the sunshine from her
+
+existence, and make her thoroughly miserable?”
+
+
+
+“Of course not; and I don’t, and I’m not going to.”
+
+
+
+“You have done more towards it than you suppose.”
+
+
+
+“Pooh, pooh! she’s not the susceptible, anxious, worriting creature you
+
+imagine: she’s a little meek, peaceable, affectionate [[Body|body]]; apt to be
+
+rather sulky at times, but quiet and cool in the main, and ready to
+
+take things as they come.”
+
+
+
+“Think of what she was five years ago, when you married her, and what
+
+she is now.”
+
+
+
+“I know she was a little plump lassie then, with a pretty pink and
+
+white face: now she’s a poor little bit of a creature, fading and
+
+melting away like a [[Snow|snow]]-wreath. But hang it!—that’s not my fault.”
+
+
+
+“What is the cause of it then? Not years, for she’s only
+
+five-and-twenty.”
+
+
+
+“It’s her own delicate health, and confound it, madam! what would you
+
+make of me?—and the children, to be sure, that worry her to [[Death|death]]
+
+between them.”
+
+
+
+“No, Mr. Hattersley, the children give her more pleasure than [[Pain|pain]]:
+
+they are fine, [[Well|well]]-dispositioned children—”
+
+
+
+“I know they are—bless them!”
+
+
+
+“Then why lay the blame on them?—I’ll tell you what it is: it’s silent
+
+fretting and constant anxiety on your account, mingled, I suspect, with
+
+something of bodily [[Fear|fear]] on her own. When you behave [[Well|well]], she can only
+
+rejoice with trembling; she has no security, no confidence in your
+
+judgment or principles; but is continually dreading the close of such
+
+short-lived felicity; when you behave ill, her causes of terror and
+
+misery are more than any one can tell but herself. In patient [[Endurance|endurance]]
+
+of evil, she forgets it is our duty to admonish our neighbours of their
+
+transgressions. Since you _will_ mistake her [[Silence|silence]] for indifference,
+
+come with me, and I’ll show you one or two of her letters—no breach of
+
+confidence, I [[Hope|hope]], since you are her other half.”
+
+
+
+He followed me into the library. I sought out and put into his hands
+
+two of Milicent’s letters: one dated from [[London]], and written during
+
+one of his wildest [[Seasons|seasons]] of reckless dissipation; the other in the
+
+country, during a lucid interval. The former was full of trouble and
+
+anguish; not accusing _him_, but deeply regretting his connection with
+
+his profligate companions, abusing Mr. Grimsby and others, insinuating
+
+bitter things against Mr. Huntingdon, and most ingeniously throwing the
+
+blame of her husband’s misconduct on to other men’s shoulders. The
+
+latter was full of [[Hope|hope]] and joy, yet with a trembling consciousness
+
+that this happiness would not last; praising his goodness to the skies,
+
+but with an evident, though but half-expressed wish, that it were based
+
+on a surer foundation than the natural impulses of the heart, and a
+
+half-prophetic dread of the fall of that [[house]] so founded on the
+
+sand,—which fall had shortly after taken place, as Hattersley must have
+
+been conscious while he read.
+
+
+
+Almost at the commencement of the first letter I had the unexpected
+
+pleasure of seeing him blush; but he immediately turned his back to me,
+
+and finished the perusal at the [[Window|window]]. At the second, I saw him, once
+
+or twice, raise his hand, and hurriedly pass it across his face. Could
+
+it be to dash away a tear? When he had done, there was an interval
+
+spent in clearing his throat and staring out of the [[Window|window]], and then,
+
+after whistling a few bars of a favourite air, he turned round, gave me
+
+back the letters, and silently shook me by the hand.
+
+
+
+“I’ve been a cursed rascal, God knows,” said he, as he gave it a hearty
+
+squeeze, “but you see if I don’t make amends for it—d—n me if I don’t!”
+
+
+
+“Don’t curse yourself, Mr. Hattersley; if God had heard half your
+
+invocations of that kind, you would have been in hell long before
+
+now—and you _cannot_ make amends for the past by doing your duty for
+
+the future, inasmuch as your duty is only what you _owe_ to your Maker,
+
+and you cannot do _more_ than fulfil it: another must make amends for
+
+your past delinquencies. If you intend to [[Reform|reform]], invoke God’s
+
+blessing, His [[Mercy|mercy]], and His aid; not His curse.”
+
+
+
+“God help me, then—for I’m sure I need it. Where’s Milicent?”
+
+
+
+“She’s there, just coming in with her sister.”
+
+
+
+He stepped out at the glass door, and went to meet them. I followed at
+
+a little distance. Somewhat to his wife’s astonishment, he lifted her
+
+off from the ground, and saluted her with a hearty kiss and a strong
+
+embrace; then placing his two hands on her shoulders, he gave her, I
+
+suppose, a [[Sketch|sketch]] of the great things he meant to do, for she suddenly
+
+threw her arms round him, and burst into [[Tears|tears]], exclaiming,—“Do, do,
+
+Ralph—we shall be so happy! How very, very good you are!”
+
+
+
+“Nay, not I,” said he, turning her round, and pushing her towards me.
+
+“Thank _her;_ it’s her doing.”
+
+
+
+Milicent flew to thank me, overflowing with gratitude. I disclaimed all
+
+title to it, telling her her husband was predisposed to amendment
+
+before I added my mite of exhortation and encouragement, and that I had
+
+only done what she might, and ought to have done herself.
+
+
+
+“Oh, no!” cried she; “I couldn’t have influenced him, I’m sure, by
+
+anything that I could have said. I should only have bothered him by my
+
+clumsy efforts at [[Persuasion|persuasion]], if I had made the attempt.”
+
+
+
+“You never tried me, Milly,” said he.
+
+
+
+Shortly after they took their leave. They are now gone on a visit to
+
+Hattersley’s father. After that they will repair to their country [[Home|home]].
+
+I [[Hope|hope]] his good resolutions will not fall through, and poor Milicent
+
+will not be again disappointed. Her last letter was full of present
+
+bliss, and pleasing anticipations for the future; but no particular
+
+[[Temptation|temptation]] has yet occurred to put his virtue to the test. Henceforth,
+
+however, she will doubtless be somewhat less timid and reserved, and he
+
+more kind and thoughtful.—Surely, then, her hopes are not unfounded;
+
+and I have one bright spot, at least, whereon to rest my thoughts.
 
 
 

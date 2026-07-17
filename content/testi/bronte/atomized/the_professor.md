@@ -15887,1004 +15887,6 @@ T H E    P R O F E S S O R
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="The Professor — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
-
-
-CHAPTER IX.
-
-M. PELET could not of course object to the proposal made by Mdlle.
-
-Reuter; permission to accept such additional employment, should it
-
-offer, having formed an article of the terms on which he had engaged me.
-
-It was, therefore, arranged in the course of next day that I should
-
-be at liberty to give lessons in Mdlle. Reuter’s establishment four
-
-afternoons in every week.
-
-When evening came I prepared to step over in order to seek a conference
-
-with Mademoiselle herself on the subject; I had not had [[Time|time]] to pay the
-
-visit before, having been all day closely occupied in class. I remember
-
-very [[Well|well]] that before quitting my chamber, I held a brief [[debate]] with
-
-myself as to whether I should change my ordinary attire for something
-
-smarter. At last I concluded it would be a waste of labour. “Doubtless,”
-
-thought I, “she is some stiff old maid; for though the daughter of
-
-Madame Reuter, she may [[Well|well]] number upwards of forty winters; besides, if
-
-it were otherwise, if she be both young and pretty, I am not handsome,
-
-and no dressing can make me so, therefore I’ll go as I am.” And off
-
-I started, cursorily glancing sideways as I passed the toilet-table,
-
-surmounted by a looking-glass: a thin irregular face I saw, with sunk,
-
-dark eyes under a large, square forehead, complexion destitute of bloom
-
-or attraction; something young, but not youthful, no object to win a
-
-lady’s [[Love|love]], no butt for the shafts of Cupid.
-
-I was soon at the entrance of the pensionnat, in a moment I had pulled
-
-the bell; in another moment the door was opened, and within appeared a
-
-passage paved alternately with black and white marble; the walls were
-
-painted in [[Imitation|imitation]] of marble also; and at the far end opened a glass
-
-door, through which I saw shrubs and a grass-plat, looking pleasant in
-
-the sunshine of the mild [[Spring|spring]] evening--for it was now the middle of
-
-April.
-
-This, then, was my first glimpse of the [[Garden|garden]]; but I had not [[Time|time]] to
-
-look long, the portress, after having answered in the affirmative
-
-my question as to whether her mistress was at [[Home|home]], opened the
-
-folding-doors of a room to the left, and having ushered me in, closed
-
-them behind me. I found myself in a salon with a very [[Well|well]]-painted,
-
-highly varnished floor; chairs and sofas covered with white draperies,
-
-a green porcelain stove, walls hung with pictures in gilt frames, a gilt
-
-pendule and other ornaments on the mantelpiece, a large lustre pendent
-
-from the centre of the ceiling, mirrors, consoles, muslin curtains, and
-
-a handsome centre table completed the inventory of furniture. All looked
-
-extremely clean and glittering, but the general effect would have been
-
-somewhat chilling had not a second large pair of folding-doors, standing
-
-wide open, and disclosing another and smaller salon, more snugly
-
-furnished, offered some relief to the eye. This room was carpeted, and
-
-therein was a piano, a couch, a chiffonniere--above all, it contained
-
-a lofty [[Window|window]] with a crimson curtain, which, being undrawn, afforded
-
-another glimpse of the [[Garden|garden]], through the large, clear panes, round
-
-which some [[Leaves|leaves]] of ivy, some tendrils of vine were trained.
-
-“Monsieur Creemsvort, n’est ce pas?” said a voice behind me; and,
-
-starting involuntarily, I turned. I had been so taken up with the
-
-contemplation of the pretty little salon that I had not noticed the
-
-entrance of a person into the larger room. It was, however, Mdlle.
-
-Reuter who now addressed me, and stood close beside me; and when I had
-
-bowed with instantaneously recovered sang-froid--for I am not easily
-
-embarrassed--I commenced the conversation by remarking on the pleasant
-
-aspect of her little cabinet, and the advantage she had over M. Pelet in
-
-possessing a [[Garden|garden]].
-
-“Yes,” she said, “she often thought so;” and added, “it is my [[Garden|garden]],
-
-monsieur, which makes me retain this [[house]], otherwise I should probably
-
-have removed to larger and more commodious premises long since; but you
-
-see I could not take my [[Garden|garden]] with me, and I should scarcely find one
-
-so large and pleasant anywhere else in town.”
-
-I approved her judgment.
-
-“But you have not seen it yet,” said she, rising; “come to the [[Window|window]]
-
-and take a better view.” I followed her; she opened the sash, and
-
-leaning out I saw in full the enclosed demesne which had hitherto been
-
-to me an unknown region. It was a long, not very broad strip of cultured
-
-ground, with an alley bordered by enormous old fruit trees down the
-
-middle; there was a sort of lawn, a parterre of [[Rose|rose]]-trees, some
-
-flower-borders, and, on the far side, a thickly planted copse of lilacs,
-
-laburnums, and acacias. It looked pleasant, to me--very pleasant, so
-
-long a [[Time|time]] had elapsed since I had seen a [[Garden|garden]] of any sort. But it
-
-was not only on Mdlle. Reuter’s [[Garden|garden]] that my eyes dwelt; when I had
-
-taken a view of her [[Well|well]]-trimmed beds and budding shrubberies, I allowed
-
-my glance to come back to herself, nor did I hastily withdraw it.
-
-I had thought to see a tall, meagre, yellow, conventual image in black,
-
-with a close white cap, bandaged under the chin like a nun’s head-gear;
-
-whereas, there stood by me a little and roundly formed woman, who might
-
-indeed be older than I, but was still young; she could not, I thought,
-
-be more than six or seven and twenty; she was as fair as a fair
-
-Englishwoman; she had no cap; her hair was nut-brown, and she wore it
-
-in curls; pretty her features were not, nor very soft, nor very regular,
-
-but neither were they in any degree plain, and I already saw cause
-
-to deem them expressive. What was their predominant cast? Was it
-
-sagacity?--sense? Yes, I thought so; but I could scarcely as yet be
-
-sure. I discovered, however, that there was a certain serenity of eye,
-
-and freshness of complexion, most pleasing to behold. The colour on her
-
-cheek was like the bloom on a good apple, which is as sound at the core
-
-as it is red on the rind.
-
-Mdlle. Reuter and I entered upon business. She said she was not
-
-absolutely certain of the wisdom of the step she was about to take,
-
-because I was so young, and parents might possibly object to a professor
-
-like me for their daughters: “But it is often [[Well|well]] to act on one’s own
-
-judgment,” said she, “and to lead parents, rather than be led by them.
-
-The fitness of a professor is not a matter of age; and, from what I have
-
-heard, and from what I observe myself, I would much rather trust you
-
-than M. Ledru, the music-master, who is a married man of near fifty.”
-
-I remarked that I hoped she would find me worthy of her good opinion;
-
-that if I knew myself, I was incapable of betraying any confidence
-
-reposed in me. “Du reste,” said she, “the surveillance will be strictly
-
-attended to.” And then she proceeded to discuss the subject of terms.
-
-She was very cautious, quite on her guard; she did not absolutely
-
-bargain, but she warily sounded me to find out what my expectations
-
-might be; and when she could not get me to name a sum, she reasoned and
-
-reasoned with a fluent yet quiet circumlocution of speech, and at last
-
-nailed me down to five hundred francs per annum--not too much, but I
-
-agreed. Before the negotiation was completed, it began to grow a little
-
-dusk. I did not hasten it, for I liked [[Well|well]] enough to sit and hear
-
-her talk; I was amused with the sort of business talent she displayed.
-
-Edward could not have shown himself more practical, though he might have
-
-evinced more coarseness and urgency; and then she had so many reasons,
-
-so many explanations; and, after all, she succeeded in proving herself
-
-quite disinterested and even liberal. At last she concluded, she could
-
-say no more, because, as I acquiesced in all things, there was no
-
-further ground for the exercise of her parts of speech. I was obliged to
-
-rise. I would rather have sat a little longer; what had I to return to
-
-but my small empty room? And my eyes had a pleasure in looking at
-
-Mdlle. Reuter, especially now, when the twilight softened her features a
-
-little, and, in the doubtful dusk, I could fancy her forehead as open
-
-as it was really elevated, her mouth touched with turns of sweetness
-
-as [[Well|well]] as defined in lines of sense. When I [[Rose|rose]] to go, I held out
-
-my hand, on purpose, though I knew it was contrary to the etiquette of
-
-foreign habits; she smiled, and said--
-
-“Ah! c’est comme tous les Anglais,” but gave me her hand very kindly.
-
-“It is the privilege of my country, Mademoiselle,” said I; “and,
-
-remember, I shall always claim it.”
-
-She laughed a little, quite good-naturedly, and with the sort of
-
-tranquillity obvious in all she did--a tranquillity which soothed and
-
-suited me singularly, at least I thought so that evening. Brussels
-
-seemed a very pleasant place to me when I got out again into the street,
-
-and it appeared as if some cheerful, eventful, upward-tending career
-
-were even then opening to me, on that selfsame mild, still April [[Night|night]].
-
-So impressionable a being is man, or at least such a man as I was in
-
-those days.
-
-
-
-
-<span class="atom-split" data-atom="chapter_12" data-title="The Professor — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
-
-
-CHAPTER XI.
-
-I HAD indeed had a very long talk with the crafty little politician, and
-
-on regaining my quarters, I found that dinner was half over. To be late
-
-at meals was against a standing rule of the establishment, and had it
-
-been one of the Flemish ushers who thus entered after the removal of the
-
-soup and the commencement of the first course, M. Pelet would probably
-
-have greeted him with a public rebuke, and would certainly have mulcted
-
-him both of soup and fish; as it was, that polite though partial
-
-gentleman only shook his head, and as I took my place, unrolled my
-
-napkin, and said my heretical grace to myself, he civilly despatched a
-
-servant to the kitchen, to bring me a plate of “puree aux carottes”
-
-(for this was a maigre-day), and before sending away the first course,
-
-reserved for me a portion of the stock-fish of which it consisted.
-
-Dinner being over, the boys rushed out for their evening play; Kint and
-
-Vandam (the two ushers) of course followed them. Poor fellows! if they
-
-had not looked so very heavy, so very soulless, so very indifferent to
-
-all things in heaven above or in the earth beneath, I could have pitied
-
-them greatly for the obligation they were under to trail after those
-
-rough lads everywhere and at all times; even as it was, I felt disposed
-
-to scout myself as a privileged prig when I turned to ascend to my
-
-chamber, sure to find there, if not enjoyment, at least liberty; but
-
-this evening (as had often happened before) I was to be still farther
-
-distinguished.
-
-“Eh bien, mauvais sujet!” said the voice of M. Pelet behind me, as I
-
-set my foot on the first step of the stair, “ou allez-vous? Venez a la
-
-salle-a-manger, que je vous gronde un peu.”
-
-“I beg pardon, monsieur,” said I, as I followed him to his private
-
-sitting-room, “for having returned so late--it was not my fault.”
-
-“That is just what I want to know,” rejoined M. Pelet, as he ushered me
-
-into the comfortable parlour with a good wood-[[Fire|fire]]--for the stove had
-
-now been removed for the season. Having rung the bell he ordered “Coffee
-
-for two,” and presently he and I were seated, almost in English comfort,
-
-one on each side of the hearth, a little round table between us, with
-
-a coffee-pot, a sugar-basin, and two large white china cups. While
-
-M. Pelet employed himself in choosing a cigar from a box, my thoughts
-
-reverted to the two outcast ushers, whose voices I could hear even now
-
-crying hoarsely for order in the playground.
-
-“C’est une grande responsabilite, que la surveillance,” observed I.
-
-“Plait-il?” dit M. Pelet.
-
-I remarked that I thought Messieurs Vandam and Kint must sometimes be a
-
-little fatigued with their labours.
-
-“Des betes de somme,--des betes de somme,” murmured scornfully the
-
-director. Meantime I offered him his cup of coffee.
-
-“Servez-vous mon garcon,” said he blandly, when I had put a couple of
-
-huge lumps of continental sugar into his cup. “And now tell me why you
-
-stayed so long at Mdlle. Reuter’s. I know that lessons conclude, in her
-
-establishment as in mine, at four o’[[Clock|clock]], and when you returned it was
-
-past five.”
-
-“Mdlle. wished to speak with me, monsieur.”
-
-“Indeed! on what subject? if one may ask.”
-
-“Mademoiselle talked about nothing, monsieur.”
-
-“A fertile topic! and did she discourse thereon in the schoolroom,
-
-before the pupils?”
-
-“No; like you, monsieur, she asked me to walk into her parlour.”
-
-“And Madame Reuter--the old duenna--my mother’s gossip, was there, of
-
-course?”
-
-“No, monsieur; I had the [[Honour|honour]] of being quite [[Alone|alone]] with mademoiselle.”
-
-“C’est joli--cela,” observed M. Pelet, and he smiled and looked into the
-
-[[Fire|fire]].
-
-“Honi soit qui mal y pense,” murmured I, significantly.
-
-“Je connais un peu ma petite voisine--voyez-vous.”
-
-“In that case, monsieur will be able to aid me in finding out what was
-
-mademoiselle’s reason for making me sit before her sofa one mortal hour,
-
-listening to the most copious and fluent dissertation on the merest
-
-frivolities.”
-
-“She was sounding your character.”
-
-“I thought so, monsieur.”
-
-“Did she find out your weak point?”
-
-“What is my weak point?”
-
-“Why, the sentimental. Any woman sinking her shaft deep enough, will
-
-at last reach a fathomless [[Spring|spring]] of sensibility in thy breast,
-
-Crimsworth.”
-
-I felt the [[Blood|blood]] stir about my heart and rise warm to my cheek.
-
-“Some women might, monsieur.”
-
-“Is Mdlle. Reuter of the number? Come, speak frankly, mon fils; elle est
-
-encore jeune, plus agee que toi peut-etre, mais juste assey pour unir
-
-la tendresse d’une petite maman a l’amour d’une epouse devouee; n’est-ce
-
-pas que cela t’irait superieurement?”
-
-“No, monsieur; I should like my wife to be my wife, and not half my
-
-mother.”
-
-“She is then a little too old for you?”
-
-“No, monsieur, not a day too old if she suited me in other things.”
-
-“In what does she not suit you, William? She is personally agreeable, is
-
-she not?”
-
-“Very; her hair and complexion are just what I admire; and her turn of
-
-form, though quite Belgian, is full of grace.”
-
-“Bravo! and her face? her features? How do you like them?”
-
-“A little harsh, especially her mouth.”
-
-“Ah, yes! her mouth,” said M. Pelet, and he chuckled inwardly. “There is
-
-character about her mouth--firmness--but she has a very pleasant smile;
-
-don’t you think so?”
-
-“Rather crafty.”
-
-“True, but that expression of craft is owing to her eyebrows; have you
-
-remarked her eyebrows?”
-
-I answered that I had not.
-
-“You have not seen her looking down then?” said he.
-
-“No.”
-
-“It is a treat, notwithstanding. Observe her when she has some knitting,
-
-or some other woman’s work in hand, and sits the image of peace, calmly
-
-intent on her needles and her silk, some discussion meantime going on
-
-around her, in the course of which peculiarities of character are being
-
-developed, or important interests canvassed; she takes no part in it;
-
-her humble, feminine mind is wholly with her knitting; none of her
-
-features move; she neither presumes to smile approval, nor frown
-
-disapprobation; her little hands assiduously ply their unpretending
-
-task; if she can only get this purse finished, or this bonnet-grec
-
-completed, it is enough for her. If gentlemen approach her chair, a
-
-deeper quiescence, a meeker modesty settles on her features, and clothes
-
-her general mien; observe then her eyebrows, et dites-moi s’il n’y a pas
-
-du chat dans l’un et du renard dans l’autre.”
-
-“I will take careful notice the first opportunity,” said I.
-
-“And then,” continued M. Pelet, “the eyelid will flicker, the
-
-light-coloured lashes be lifted a second, and a blue eye, glancing out
-
-from under the screen, will take its brief, sly, searching survey, and
-
-retreat again.”
-
-I smiled, and so did Pelet, and after a few minutes’ [[Silence|silence]], I asked:
-
-“Will she ever marry, do you think?”
-
-“Marry! Will [[Birds|birds]] pair? Of course it is both her intention and
-
-resolution to marry when she finds a suitable match, and no one is
-
-better aware than herself of the sort of impression she is capable
-
-of producing; no one likes better to captivate in a quiet way. I am
-
-mistaken if she will not yet leave the print of her stealing steps on
-
-thy heart, Crimsworth.”
-
-“Of her steps? Confound it, no! My heart is not a plank to be walked
-
-on.”
-
-“But the soft touch of a patte de velours will do it no harm.”
-
-“She offers me no patte de velours; she is all form and reserve with
-
-me.”
-
-“That to begin with; let respect be the foundation, affection the first
-
-floor, [[Love|love]] the superstructure; Mdlle. Reuter is a skilful architect.”
-
-“And interest, M. Pelet--interest. Will not mademoiselle consider that
-
-point?”
-
-“Yes, yes, no [[Doubt|doubt]]; it will be the cement between every stone. And now
-
-we have discussed the directress, what of the pupils? N’y a-t-il pas de
-
-belles etudes parmi ces jeunes tetes?”
-
-“Studies of character? Yes; curious ones, at least, I imagine; but one
-
-cannot divine much from a first interview.”
-
-“Ah, you affect discretion; but tell me now, were you not a little
-
-abashed before these blooming young creatures?”
-
-“At first, yes; but I rallied and got through with all due sang-froid.”
-
-“I don’t believe you.”
-
-“It is true, notwithstanding. At first I thought them angels, but they
-
-did not leave me long under that delusion; three of the eldest and
-
-handsomest undertook the task of setting me right, and they managed
-
-so cleverly that in five minutes I knew them, at least, for what they
-
-were--three arrant coquettes.”
-
-“Je les connais!” exclaimed M. Pelet. “Elles sont toujours au premier
-
-rang a l’eglise et a la promenade; une blonde superbe, une jolie
-
-espiegle, une belle brune.”
-
-“Exactly.”
-
-“Lovely creatures all of them--heads for artists; what a group they
-
-would make, taken together! Eulalie (I know their names), with her
-
-smooth braided hair and calm ivory brow. Hortense, with her rich chesnut
-
-locks so luxuriantly knotted, plaited, twisted, as if she did not know
-
-how to dispose of all their abundance, with her vermilion lips, damask
-
-cheek, and roguish laughing eye. And Caroline de Blemont! Ah, there is
-
-[[Beauty|beauty]]! [[Beauty|beauty]] in perfection. What a cloud of sable curls about the face
-
-of a houri! What fascinating lips! What glorious black eyes! Your Byron
-
-would have worshipped her, and you--you cold, frigid islander!--you
-
-played the austere, the insensible in the presence of an Aphrodite so
-
-exquisite?”
-
-I might have laughed at the director’s enthusiasm had I believed
-
-it real, but there was something in his tone which indicated got-up
-
-raptures. I felt he was only affecting fervour in order to put me off my
-
-guard, to induce me to come out in return, so I scarcely even smiled. He
-
-went on:
-
-“Confess, William, do not the mere good looks of [[Zoraide Reuter]] appear
-
-dowdyish and commonplace compared with the splendid charms of some of
-
-her pupils?”
-
-The question discomposed me, but I now felt plainly that my principal
-
-was endeavouring (for reasons best known to himself--at that [[Time|time]] I
-
-could not fathom them) to excite ideas and wishes in my mind alien to
-
-what was right and honourable. The iniquity of the instigation proved
-
-its antidote, and when he further added:--
-
-“Each of those three beautiful girls will have a handsome fortune; and
-
-with a little address, a gentlemanlike, intelligent young fellow like
-
-you might make himself master of the hand, heart, and purse of any one
-
-of the trio.”
-
-I replied by a look and an interrogative “Monsieur?” which startled him.
-
-He laughed a forced laugh, affirmed that he had only been joking, and
-
-demanded whether I could possibly have thought him in earnest. Just then
-
-the bell rang; the play-hour was over; it was an evening on which M.
-
-Pelet was accustomed to read passages from the drama and the belles
-
-lettres to his pupils. He did not wait for my answer, but rising, left
-
-the room, humming as he went some gay strain of Beranger’s.
-
-
-
-
-<span class="atom-split" data-atom="chapter_16" data-title="The Professor — Chapter 15" data-chapter="Chapter 16" data-kind="chapter"></span>
-
-
-CHAPTER XV.
-
-SOME [[Time|time]] elapsed before I again gave a lesson in the first class; the
-
-holiday of Whitsuntide occupied three days, and on the fourth it was the
-
-turn of the second division to receive my instructions. As I made
-
-the transit of the CARRE, I observed, as usual, the band of sewers
-
-surrounding Mdlle. Henri; there were only about a dozen of them, but
-
-they made as much noise as might have sufficed for fifty; they seemed
-
-very little under her control; three or four at once assailed her with
-
-importunate requirements; she looked harassed, she demanded [[Silence|silence]], but
-
-in vain. She saw me, and I read in her eye [[Pain|pain]] that a stranger should
-
-witness the insubordination of her pupils; she seemed to entreat
-
-order--her prayers were useless; then I remarked that she compressed
-
-her lips and contracted her brow; and her countenance, if I read
-
-it correctly, said--“I have done my best; I seem to merit blame
-
-notwithstanding; blame me then who will.” I passed on; as I closed the
-
-school-room door, I heard her say, suddenly and sharply, addressing one
-
-of the eldest and most turbulent of the lot--
-
-“Amelie Mullenberg, ask me no question, and request of me no assistance,
-
-for a week to come; during that space of [[Time|time]] I will neither speak to
-
-you nor help you.”
-
-The words were uttered with emphasis--nay, with vehemence--and a
-
-comparative [[Silence|silence]] followed; whether the calm was permanent, I know
-
-not; two doors now closed between me and the CARRE.
-
-Next day was appropriated to the first class; on my arrival, I found the
-
-directress seated, as usual, in a chair between the two estrades, and
-
-before her was standing Mdlle. Henri, in an attitude (as it seemed to
-
-me) of somewhat reluctant attention. The directress was knitting and
-
-talking at the same [[Time|time]]. Amidst the hum of a large school-room, it was
-
-easy so to speak in the ear of one person, as to be heard by that person
-
-[[Alone|alone]], and it was thus Mdlle. Reuter parleyed with her teacher. The face
-
-of the latter was a little flushed, not a little troubled; there was
-
-vexation in it, whence resulting I know not, for the directress looked
-
-very placid indeed; she could not be scolding in such gentle whispers,
-
-and with so equable a mien; no, it was presently proved that her
-
-discourse had been of the most friendly tendency, for I heard the
-
-closing words--
-
-“C’est assez, ma bonne amie; a present je ne veux pas vous retenir
-
-davantage.”
-
-Without reply, Mdlle. Henri turned away; dissatisfaction was plainly
-
-evinced in her face, and a smile, slight and brief, but bitter,
-
-distrustful, and, I thought, scornful, curled her lip as she took her
-
-place in the class; it was a secret, involuntary smile, which lasted but
-
-a second; an air of depression succeeded, chased away presently by one
-
-of attention and interest, when I gave the word for all the pupils to
-
-take their reading-books. In general I hated the reading-lesson, it
-
-was such a torture to the ear to listen to their uncouth mouthing of
-
-my native tongue, and no effort of example or precept on my part ever
-
-seemed to effect the slightest improvement in their accent. To-day,
-
-each in her appropriate key, lisped, stuttered, mumbled, and jabbered as
-
-usual; about fifteen had racked me in turn, and my auricular nerve was
-
-expecting with [[Resignation|resignation]] the discords of the sixteenth, when a full,
-
-though low voice, read out, in clear correct English.
-
-“On his way to Perth, the [[King|king]] was met by a Highland woman, calling
-
-herself a prophetess; she stood at the side of the ferry by which he was
-
-about to travel to the north, and cried with a loud voice, ‘My lord the
-
-[[King|king]], if you pass this [[Water|water]] you will never return again alive!’”--(VIDE
-
-the [[history|HISTORY]] OF SCOTLAND).
-
-I looked up in amazement; the voice was a voice of Albion; the accent
-
-was pure and silvery; it only wanted firmness, and assurance, to be the
-
-counterpart of what any [[Well|well]]-educated lady in Essex or Middlesex might
-
-have enounced, yet the speaker or reader was no other than Mdlle. Henri,
-
-in whose [[Grave|grave]], joyless face I saw no mark of consciousness that she had
-
-performed any extraordinary feat. No one else evinced surprise either.
-
-Mdlle. Reuter knitted away assiduously; I was aware, however, that at
-
-the conclusion of the paragraph, she had lifted her eyelid and honoured
-
-me with a glance sideways; she did not know the full excellency of the
-
-teacher’s style of reading, but she perceived that her accent was not
-
-that of the others, and wanted to discover what I thought; I masked my
-
-visage with indifference, and ordered the next girl to proceed.
-
-When the lesson was over, I took advantage of the confusion caused by
-
-breaking up, to approach Mdlle. Henri; she was standing near the [[Window|window]]
-
-and retired as I advanced; she thought I wanted to look out, and did
-
-not imagine that I could have anything to say to her. I took her
-
-exercise-book out of her hand; as I turned over the [[Leaves|leaves]] I addressed
-
-her:--
-
-“You have had lessons in English before?” I asked.
-
-“No, sir.”
-
-“No! you read it [[Well|well]]; you have been in England?”
-
-“Oh, no!” with some animation.
-
-“You have been in English families?”
-
-Still the answer was “No.” Here my eye, resting on the flyleaf of the
-
-book, saw written, “Frances Evan Henri.”
-
-“Your name?” I asked
-
-“Yes, sir.”
-
-My interrogations were cut short; I heard a little rustling behind me,
-
-and close at my back was the directress, professing to be examining the
-
-interior of a desk.
-
-“Mademoiselle,” said she, looking up and addressing the teacher, “Will
-
-you have the goodness to go and stand in the corridor, while the young
-
-ladies are putting on their things, and try to keep some order?”
-
-Mdlle. Henri obeyed.
-
-“What splendid weather!” observed the directress cheerfully, glancing at
-
-the same [[Time|time]] from the [[Window|window]]. I assented and was withdrawing. “What of
-
-your new pupil, monsieur?” continued she, following my retreating steps.
-
-“Is she likely to make progress in English?”
-
-“Indeed I can hardly judge. She possesses a pretty good accent; of
-
-her real knowledge of the language I have as yet had no opportunity of
-
-forming an opinion.”
-
-“And her natural capacity, monsieur? I have had my fears about that: can
-
-you relieve me by an assurance at least of its average power?”
-
-“I see no reason to [[Doubt|doubt]] its average power, mademoiselle, but really
-
-I scarcely know her, and have not had [[Time|time]] to study the calibre of her
-
-capacity. I wish you a very good afternoon.”
-
-She still pursued me. “You will observe, monsieur, and tell me what you
-
-think; I could so much better rely on your opinion than on my own; women
-
-cannot judge of these things as men can, and, excuse my pertinacity,
-
-monsieur, but it is natural I should feel interested about this poor
-
-little girl (pauvre petite); she has scarcely any relations, her own
-
-efforts are all she has to look to, her acquirements must be her sole
-
-fortune; her present position has once been mine, or nearly so; it is
-
-then but natural I should sympathize with her; and sometimes when I see
-
-the difficulty she has in managing pupils, I feel quite chagrined.
-
-I [[Doubt|doubt]] not she does her best, her intentions are excellent; but,
-
-monsieur, she wants tact and firmness. I have talked to her on the
-
-subject, but I am not fluent, and probably did not express myself
-
-with clearness; she never appears to comprehend me. Now, would you
-
-occasionally, when you see an opportunity, slip in a word of advice
-
-to her on the subject; men have so much more influence than women
-
-have--they argue so much more logically than we do; and you, monsieur,
-
-in particular, have so paramount a power of making yourself obeyed;
-
-a word of advice from you could not but do her good; even if she were
-
-sullen and headstrong (which I [[Hope|hope]] she is not), she would scarcely
-
-refuse to listen to you; for my own part, I can truly say that I never
-
-attend one of your lessons without deriving benefit from witnessing your
-
-management of the pupils. The other masters are a constant source of
-
-anxiety to me; they cannot impress the young ladies with sentiments of
-
-respect, nor restrain the levity natural to youth: in you, monsieur, I
-
-feel the most absolute confidence; try then to put this poor [[Child|child]]
-
-into the way of controlling our giddy, high-spirited Brabantoises.
-
-But, monsieur, I would add one word more; don’t alarm her AMOUR PROPRE;
-
-beware of inflicting a wound there. I reluctantly admit that in that
-
-particular she is blameably--some would say ridiculously--susceptible.
-
-I [[Fear|fear]] I have touched this sore point inadvertently, and she cannot get
-
-over it.”
-
-During the greater part of this harangue my hand was on the lock of the
-
-outer door; I now turned it.
-
-“Au revoir, mademoiselle,” said I, and I escaped. I saw the directress’s
-
-stock of words was yet far from exhausted. She looked after me, she
-
-would fain have detained me longer. Her manner towards me had
-
-been altered ever since I had begun to treat her with hardness and
-
-indifference: she almost cringed to me on every occasion; she consulted
-
-my countenance incessantly, and beset me with innumerable little
-
-officious attentions. Servility creates despotism. This slavish homage,
-
-instead of softening my heart, only pampered whatever was stern and
-
-exacting in its mood. The very circumstance of her hovering round me
-
-like a fascinated bird, seemed to transform me into a rigid pillar of
-
-stone; her flatteries irritated my scorn, her blandishments confirmed
-
-my reserve. At times I wondered what she meant by giving herself such
-
-trouble to win me, when the more profitable Pelet was already in her
-
-nets, and when, too, she was aware that I possessed her secret, for I
-
-had not scrupled to tell her as much: but the fact is that as it was
-
-her [[Nature|nature]] to [[Doubt|doubt]] the reality and under-value the worth of modesty,
-
-affection, disinterestedness--to regard these qualities as foibles of
-
-character--so it was equally her tendency to consider [[Pride|pride]], hardness,
-
-selfishness, as proofs of strength. She would trample on the neck
-
-of [[Humility|humility]], she would kneel at the feet of disdain; she would meet
-
-tenderness with secret contempt, indifference she would woo with
-
-ceaseless assiduities. Benevolence, devotedness, enthusiasm, were
-
-her antipathies; for dissimulation and [[Self|self]]-interest she had a
-
-preference--they were real wisdom in her eyes; moral and physical
-
-degradation, mental and bodily inferiority, she regarded with
-
-indulgence; they were foils capable of being turned to good account as
-
-set-offs for her own endowments. To violence, injustice, tyranny, she
-
-succumbed--they were her natural masters; she had no propensity to hate,
-
-no impulse to resist them; the indignation their behests awake in some
-
-hearts was unknown in hers. From all this it resulted that the false and
-
-selfish called her wise, the vulgar and debased termed her charitable,
-
-the insolent and unjust dubbed her amiable, the conscientious and
-
-benevolent generally at first accepted as valid her claim to be
-
-considered one of themselves; but ere long the plating of pretension
-
-wore off, the real material appeared below, and they laid her aside as a
-
-[[Deception|deception]].
-
-
-
-
 <span class="atom-split" data-atom="chapter_02_introductory--part_01" data-title="The Professor — Chapter 1: INTRODUCTORY (part 1)" data-chapter="INTRODUCTORY" data-kind="excerpt"></span>
 
 
@@ -21117,6 +20119,278 @@ the mysterious [[Garden|garden]]: I shall gaze both on the angels and their Eden
 
 
 
+<span class="atom-split" data-atom="chapter_10" data-title="The Professor — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
+
+
+CHAPTER IX.
+
+M. PELET could not of course object to the proposal made by Mdlle.
+
+Reuter; permission to accept such additional employment, should it
+
+offer, having formed an article of the terms on which he had engaged me.
+
+It was, therefore, arranged in the course of next day that I should
+
+be at liberty to give lessons in Mdlle. Reuter’s establishment four
+
+afternoons in every week.
+
+When evening came I prepared to step over in order to seek a conference
+
+with Mademoiselle herself on the subject; I had not had [[Time|time]] to pay the
+
+visit before, having been all day closely occupied in class. I remember
+
+very [[Well|well]] that before quitting my chamber, I held a brief [[debate]] with
+
+myself as to whether I should change my ordinary attire for something
+
+smarter. At last I concluded it would be a waste of labour. “Doubtless,”
+
+thought I, “she is some stiff old maid; for though the daughter of
+
+Madame Reuter, she may [[Well|well]] number upwards of forty winters; besides, if
+
+it were otherwise, if she be both young and pretty, I am not handsome,
+
+and no dressing can make me so, therefore I’ll go as I am.” And off
+
+I started, cursorily glancing sideways as I passed the toilet-table,
+
+surmounted by a looking-glass: a thin irregular face I saw, with sunk,
+
+dark eyes under a large, square forehead, complexion destitute of bloom
+
+or attraction; something young, but not youthful, no object to win a
+
+lady’s [[Love|love]], no butt for the shafts of Cupid.
+
+I was soon at the entrance of the pensionnat, in a moment I had pulled
+
+the bell; in another moment the door was opened, and within appeared a
+
+passage paved alternately with black and white marble; the walls were
+
+painted in [[Imitation|imitation]] of marble also; and at the far end opened a glass
+
+door, through which I saw shrubs and a grass-plat, looking pleasant in
+
+the sunshine of the mild [[Spring|spring]] evening--for it was now the middle of
+
+April.
+
+This, then, was my first glimpse of the [[Garden|garden]]; but I had not [[Time|time]] to
+
+look long, the portress, after having answered in the affirmative
+
+my question as to whether her mistress was at [[Home|home]], opened the
+
+folding-doors of a room to the left, and having ushered me in, closed
+
+them behind me. I found myself in a salon with a very [[Well|well]]-painted,
+
+highly varnished floor; chairs and sofas covered with white draperies,
+
+a green porcelain stove, walls hung with pictures in gilt frames, a gilt
+
+pendule and other ornaments on the mantelpiece, a large lustre pendent
+
+from the centre of the ceiling, mirrors, consoles, muslin curtains, and
+
+a handsome centre table completed the inventory of furniture. All looked
+
+extremely clean and glittering, but the general effect would have been
+
+somewhat chilling had not a second large pair of folding-doors, standing
+
+wide open, and disclosing another and smaller salon, more snugly
+
+furnished, offered some relief to the eye. This room was carpeted, and
+
+therein was a piano, a couch, a chiffonniere--above all, it contained
+
+a lofty [[Window|window]] with a crimson curtain, which, being undrawn, afforded
+
+another glimpse of the [[Garden|garden]], through the large, clear panes, round
+
+which some [[Leaves|leaves]] of ivy, some tendrils of vine were trained.
+
+“Monsieur Creemsvort, n’est ce pas?” said a voice behind me; and,
+
+starting involuntarily, I turned. I had been so taken up with the
+
+contemplation of the pretty little salon that I had not noticed the
+
+entrance of a person into the larger room. It was, however, Mdlle.
+
+Reuter who now addressed me, and stood close beside me; and when I had
+
+bowed with instantaneously recovered sang-froid--for I am not easily
+
+embarrassed--I commenced the conversation by remarking on the pleasant
+
+aspect of her little cabinet, and the advantage she had over M. Pelet in
+
+possessing a [[Garden|garden]].
+
+“Yes,” she said, “she often thought so;” and added, “it is my [[Garden|garden]],
+
+monsieur, which makes me retain this [[house]], otherwise I should probably
+
+have removed to larger and more commodious premises long since; but you
+
+see I could not take my [[Garden|garden]] with me, and I should scarcely find one
+
+so large and pleasant anywhere else in town.”
+
+I approved her judgment.
+
+“But you have not seen it yet,” said she, rising; “come to the [[Window|window]]
+
+and take a better view.” I followed her; she opened the sash, and
+
+leaning out I saw in full the enclosed demesne which had hitherto been
+
+to me an unknown region. It was a long, not very broad strip of cultured
+
+ground, with an alley bordered by enormous old fruit trees down the
+
+middle; there was a sort of lawn, a parterre of [[Rose|rose]]-trees, some
+
+flower-borders, and, on the far side, a thickly planted copse of lilacs,
+
+laburnums, and acacias. It looked pleasant, to me--very pleasant, so
+
+long a [[Time|time]] had elapsed since I had seen a [[Garden|garden]] of any sort. But it
+
+was not only on Mdlle. Reuter’s [[Garden|garden]] that my eyes dwelt; when I had
+
+taken a view of her [[Well|well]]-trimmed beds and budding shrubberies, I allowed
+
+my glance to come back to herself, nor did I hastily withdraw it.
+
+I had thought to see a tall, meagre, yellow, conventual image in black,
+
+with a close white cap, bandaged under the chin like a nun’s head-gear;
+
+whereas, there stood by me a little and roundly formed woman, who might
+
+indeed be older than I, but was still young; she could not, I thought,
+
+be more than six or seven and twenty; she was as fair as a fair
+
+Englishwoman; she had no cap; her hair was nut-brown, and she wore it
+
+in curls; pretty her features were not, nor very soft, nor very regular,
+
+but neither were they in any degree plain, and I already saw cause
+
+to deem them expressive. What was their predominant cast? Was it
+
+sagacity?--sense? Yes, I thought so; but I could scarcely as yet be
+
+sure. I discovered, however, that there was a certain serenity of eye,
+
+and freshness of complexion, most pleasing to behold. The colour on her
+
+cheek was like the bloom on a good apple, which is as sound at the core
+
+as it is red on the rind.
+
+Mdlle. Reuter and I entered upon business. She said she was not
+
+absolutely certain of the wisdom of the step she was about to take,
+
+because I was so young, and parents might possibly object to a professor
+
+like me for their daughters: “But it is often [[Well|well]] to act on one’s own
+
+judgment,” said she, “and to lead parents, rather than be led by them.
+
+The fitness of a professor is not a matter of age; and, from what I have
+
+heard, and from what I observe myself, I would much rather trust you
+
+than M. Ledru, the music-master, who is a married man of near fifty.”
+
+I remarked that I hoped she would find me worthy of her good opinion;
+
+that if I knew myself, I was incapable of betraying any confidence
+
+reposed in me. “Du reste,” said she, “the surveillance will be strictly
+
+attended to.” And then she proceeded to discuss the subject of terms.
+
+She was very cautious, quite on her guard; she did not absolutely
+
+bargain, but she warily sounded me to find out what my expectations
+
+might be; and when she could not get me to name a sum, she reasoned and
+
+reasoned with a fluent yet quiet circumlocution of speech, and at last
+
+nailed me down to five hundred francs per annum--not too much, but I
+
+agreed. Before the negotiation was completed, it began to grow a little
+
+dusk. I did not hasten it, for I liked [[Well|well]] enough to sit and hear
+
+her talk; I was amused with the sort of business talent she displayed.
+
+Edward could not have shown himself more practical, though he might have
+
+evinced more coarseness and urgency; and then she had so many reasons,
+
+so many explanations; and, after all, she succeeded in proving herself
+
+quite disinterested and even liberal. At last she concluded, she could
+
+say no more, because, as I acquiesced in all things, there was no
+
+further ground for the exercise of her parts of speech. I was obliged to
+
+rise. I would rather have sat a little longer; what had I to return to
+
+but my small empty room? And my eyes had a pleasure in looking at
+
+Mdlle. Reuter, especially now, when the twilight softened her features a
+
+little, and, in the doubtful dusk, I could fancy her forehead as open
+
+as it was really elevated, her mouth touched with turns of sweetness
+
+as [[Well|well]] as defined in lines of sense. When I [[Rose|rose]] to go, I held out
+
+my hand, on purpose, though I knew it was contrary to the etiquette of
+
+foreign habits; she smiled, and said--
+
+“Ah! c’est comme tous les Anglais,” but gave me her hand very kindly.
+
+“It is the privilege of my country, Mademoiselle,” said I; “and,
+
+remember, I shall always claim it.”
+
+She laughed a little, quite good-naturedly, and with the sort of
+
+tranquillity obvious in all she did--a tranquillity which soothed and
+
+suited me singularly, at least I thought so that evening. Brussels
+
+seemed a very pleasant place to me when I got out again into the street,
+
+and it appeared as if some cheerful, eventful, upward-tending career
+
+were even then opening to me, on that selfsame mild, still April [[Night|night]].
+
+So impressionable a being is man, or at least such a man as I was in
+
+those days.
+
+
+
+
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="The Professor — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
 
 
@@ -21693,6 +20967,382 @@ passionless than [[Zoraide Reuter]]!” So I thought then; I found
 afterwards that blunt susceptibilities are very consistent with strong
 
 propensities.
+
+
+
+
+<span class="atom-split" data-atom="chapter_12" data-title="The Professor — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
+
+
+CHAPTER XI.
+
+I HAD indeed had a very long talk with the crafty little politician, and
+
+on regaining my quarters, I found that dinner was half over. To be late
+
+at meals was against a standing rule of the establishment, and had it
+
+been one of the Flemish ushers who thus entered after the removal of the
+
+soup and the commencement of the first course, M. Pelet would probably
+
+have greeted him with a public rebuke, and would certainly have mulcted
+
+him both of soup and fish; as it was, that polite though partial
+
+gentleman only shook his head, and as I took my place, unrolled my
+
+napkin, and said my heretical grace to myself, he civilly despatched a
+
+servant to the kitchen, to bring me a plate of “puree aux carottes”
+
+(for this was a maigre-day), and before sending away the first course,
+
+reserved for me a portion of the stock-fish of which it consisted.
+
+Dinner being over, the boys rushed out for their evening play; Kint and
+
+Vandam (the two ushers) of course followed them. Poor fellows! if they
+
+had not looked so very heavy, so very soulless, so very indifferent to
+
+all things in heaven above or in the earth beneath, I could have pitied
+
+them greatly for the obligation they were under to trail after those
+
+rough lads everywhere and at all times; even as it was, I felt disposed
+
+to scout myself as a privileged prig when I turned to ascend to my
+
+chamber, sure to find there, if not enjoyment, at least liberty; but
+
+this evening (as had often happened before) I was to be still farther
+
+distinguished.
+
+“Eh bien, mauvais sujet!” said the voice of M. Pelet behind me, as I
+
+set my foot on the first step of the stair, “ou allez-vous? Venez a la
+
+salle-a-manger, que je vous gronde un peu.”
+
+“I beg pardon, monsieur,” said I, as I followed him to his private
+
+sitting-room, “for having returned so late--it was not my fault.”
+
+“That is just what I want to know,” rejoined M. Pelet, as he ushered me
+
+into the comfortable parlour with a good wood-[[Fire|fire]]--for the stove had
+
+now been removed for the season. Having rung the bell he ordered “Coffee
+
+for two,” and presently he and I were seated, almost in English comfort,
+
+one on each side of the hearth, a little round table between us, with
+
+a coffee-pot, a sugar-basin, and two large white china cups. While
+
+M. Pelet employed himself in choosing a cigar from a box, my thoughts
+
+reverted to the two outcast ushers, whose voices I could hear even now
+
+crying hoarsely for order in the playground.
+
+“C’est une grande responsabilite, que la surveillance,” observed I.
+
+“Plait-il?” dit M. Pelet.
+
+I remarked that I thought Messieurs Vandam and Kint must sometimes be a
+
+little fatigued with their labours.
+
+“Des betes de somme,--des betes de somme,” murmured scornfully the
+
+director. Meantime I offered him his cup of coffee.
+
+“Servez-vous mon garcon,” said he blandly, when I had put a couple of
+
+huge lumps of continental sugar into his cup. “And now tell me why you
+
+stayed so long at Mdlle. Reuter’s. I know that lessons conclude, in her
+
+establishment as in mine, at four o’[[Clock|clock]], and when you returned it was
+
+past five.”
+
+“Mdlle. wished to speak with me, monsieur.”
+
+“Indeed! on what subject? if one may ask.”
+
+“Mademoiselle talked about nothing, monsieur.”
+
+“A fertile topic! and did she discourse thereon in the schoolroom,
+
+before the pupils?”
+
+“No; like you, monsieur, she asked me to walk into her parlour.”
+
+“And Madame Reuter--the old duenna--my mother’s gossip, was there, of
+
+course?”
+
+“No, monsieur; I had the [[Honour|honour]] of being quite [[Alone|alone]] with mademoiselle.”
+
+“C’est joli--cela,” observed M. Pelet, and he smiled and looked into the
+
+[[Fire|fire]].
+
+“Honi soit qui mal y pense,” murmured I, significantly.
+
+“Je connais un peu ma petite voisine--voyez-vous.”
+
+“In that case, monsieur will be able to aid me in finding out what was
+
+mademoiselle’s reason for making me sit before her sofa one mortal hour,
+
+listening to the most copious and fluent dissertation on the merest
+
+frivolities.”
+
+“She was sounding your character.”
+
+“I thought so, monsieur.”
+
+“Did she find out your weak point?”
+
+“What is my weak point?”
+
+“Why, the sentimental. Any woman sinking her shaft deep enough, will
+
+at last reach a fathomless [[Spring|spring]] of sensibility in thy breast,
+
+Crimsworth.”
+
+I felt the [[Blood|blood]] stir about my heart and rise warm to my cheek.
+
+“Some women might, monsieur.”
+
+“Is Mdlle. Reuter of the number? Come, speak frankly, mon fils; elle est
+
+encore jeune, plus agee que toi peut-etre, mais juste assey pour unir
+
+la tendresse d’une petite maman a l’amour d’une epouse devouee; n’est-ce
+
+pas que cela t’irait superieurement?”
+
+“No, monsieur; I should like my wife to be my wife, and not half my
+
+mother.”
+
+“She is then a little too old for you?”
+
+“No, monsieur, not a day too old if she suited me in other things.”
+
+“In what does she not suit you, William? She is personally agreeable, is
+
+she not?”
+
+“Very; her hair and complexion are just what I admire; and her turn of
+
+form, though quite Belgian, is full of grace.”
+
+“Bravo! and her face? her features? How do you like them?”
+
+“A little harsh, especially her mouth.”
+
+“Ah, yes! her mouth,” said M. Pelet, and he chuckled inwardly. “There is
+
+character about her mouth--firmness--but she has a very pleasant smile;
+
+don’t you think so?”
+
+“Rather crafty.”
+
+“True, but that expression of craft is owing to her eyebrows; have you
+
+remarked her eyebrows?”
+
+I answered that I had not.
+
+“You have not seen her looking down then?” said he.
+
+“No.”
+
+“It is a treat, notwithstanding. Observe her when she has some knitting,
+
+or some other woman’s work in hand, and sits the image of peace, calmly
+
+intent on her needles and her silk, some discussion meantime going on
+
+around her, in the course of which peculiarities of character are being
+
+developed, or important interests canvassed; she takes no part in it;
+
+her humble, feminine mind is wholly with her knitting; none of her
+
+features move; she neither presumes to smile approval, nor frown
+
+disapprobation; her little hands assiduously ply their unpretending
+
+task; if she can only get this purse finished, or this bonnet-grec
+
+completed, it is enough for her. If gentlemen approach her chair, a
+
+deeper quiescence, a meeker modesty settles on her features, and clothes
+
+her general mien; observe then her eyebrows, et dites-moi s’il n’y a pas
+
+du chat dans l’un et du renard dans l’autre.”
+
+“I will take careful notice the first opportunity,” said I.
+
+“And then,” continued M. Pelet, “the eyelid will flicker, the
+
+light-coloured lashes be lifted a second, and a blue eye, glancing out
+
+from under the screen, will take its brief, sly, searching survey, and
+
+retreat again.”
+
+I smiled, and so did Pelet, and after a few minutes’ [[Silence|silence]], I asked:
+
+“Will she ever marry, do you think?”
+
+“Marry! Will [[Birds|birds]] pair? Of course it is both her intention and
+
+resolution to marry when she finds a suitable match, and no one is
+
+better aware than herself of the sort of impression she is capable
+
+of producing; no one likes better to captivate in a quiet way. I am
+
+mistaken if she will not yet leave the print of her stealing steps on
+
+thy heart, Crimsworth.”
+
+“Of her steps? Confound it, no! My heart is not a plank to be walked
+
+on.”
+
+“But the soft touch of a patte de velours will do it no harm.”
+
+“She offers me no patte de velours; she is all form and reserve with
+
+me.”
+
+“That to begin with; let respect be the foundation, affection the first
+
+floor, [[Love|love]] the superstructure; Mdlle. Reuter is a skilful architect.”
+
+“And interest, M. Pelet--interest. Will not mademoiselle consider that
+
+point?”
+
+“Yes, yes, no [[Doubt|doubt]]; it will be the cement between every stone. And now
+
+we have discussed the directress, what of the pupils? N’y a-t-il pas de
+
+belles etudes parmi ces jeunes tetes?”
+
+“Studies of character? Yes; curious ones, at least, I imagine; but one
+
+cannot divine much from a first interview.”
+
+“Ah, you affect discretion; but tell me now, were you not a little
+
+abashed before these blooming young creatures?”
+
+“At first, yes; but I rallied and got through with all due sang-froid.”
+
+“I don’t believe you.”
+
+“It is true, notwithstanding. At first I thought them angels, but they
+
+did not leave me long under that delusion; three of the eldest and
+
+handsomest undertook the task of setting me right, and they managed
+
+so cleverly that in five minutes I knew them, at least, for what they
+
+were--three arrant coquettes.”
+
+“Je les connais!” exclaimed M. Pelet. “Elles sont toujours au premier
+
+rang a l’eglise et a la promenade; une blonde superbe, une jolie
+
+espiegle, une belle brune.”
+
+“Exactly.”
+
+“Lovely creatures all of them--heads for artists; what a group they
+
+would make, taken together! Eulalie (I know their names), with her
+
+smooth braided hair and calm ivory brow. Hortense, with her rich chesnut
+
+locks so luxuriantly knotted, plaited, twisted, as if she did not know
+
+how to dispose of all their abundance, with her vermilion lips, damask
+
+cheek, and roguish laughing eye. And Caroline de Blemont! Ah, there is
+
+[[Beauty|beauty]]! [[Beauty|beauty]] in perfection. What a cloud of sable curls about the face
+
+of a houri! What fascinating lips! What glorious black eyes! Your Byron
+
+would have worshipped her, and you--you cold, frigid islander!--you
+
+played the austere, the insensible in the presence of an Aphrodite so
+
+exquisite?”
+
+I might have laughed at the director’s enthusiasm had I believed
+
+it real, but there was something in his tone which indicated got-up
+
+raptures. I felt he was only affecting fervour in order to put me off my
+
+guard, to induce me to come out in return, so I scarcely even smiled. He
+
+went on:
+
+“Confess, William, do not the mere good looks of [[Zoraide Reuter]] appear
+
+dowdyish and commonplace compared with the splendid charms of some of
+
+her pupils?”
+
+The question discomposed me, but I now felt plainly that my principal
+
+was endeavouring (for reasons best known to himself--at that [[Time|time]] I
+
+could not fathom them) to excite ideas and wishes in my mind alien to
+
+what was right and honourable. The iniquity of the instigation proved
+
+its antidote, and when he further added:--
+
+“Each of those three beautiful girls will have a handsome fortune; and
+
+with a little address, a gentlemanlike, intelligent young fellow like
+
+you might make himself master of the hand, heart, and purse of any one
+
+of the trio.”
+
+I replied by a look and an interrogative “Monsieur?” which startled him.
+
+He laughed a forced laugh, affirmed that he had only been joking, and
+
+demanded whether I could possibly have thought him in earnest. Just then
+
+the bell rang; the play-hour was over; it was an evening on which M.
+
+Pelet was accustomed to read passages from the drama and the belles
+
+lettres to his pupils. He did not wait for my answer, but rising, left
+
+the room, humming as he went some gay strain of Beranger’s.
 
 
 
@@ -23405,6 +23055,356 @@ smiled, at first incredulously, then as if reassured, but did not
 lift her eyes; she could look at me, it seemed, when perplexed and
 
 bewildered, but not when gratified; I thought that scarcely fair.
+
+
+
+
+<span class="atom-split" data-atom="chapter_16" data-title="The Professor — Chapter 15" data-chapter="Chapter 16" data-kind="chapter"></span>
+
+
+CHAPTER XV.
+
+SOME [[Time|time]] elapsed before I again gave a lesson in the first class; the
+
+holiday of Whitsuntide occupied three days, and on the fourth it was the
+
+turn of the second division to receive my instructions. As I made
+
+the transit of the CARRE, I observed, as usual, the band of sewers
+
+surrounding Mdlle. Henri; there were only about a dozen of them, but
+
+they made as much noise as might have sufficed for fifty; they seemed
+
+very little under her control; three or four at once assailed her with
+
+importunate requirements; she looked harassed, she demanded [[Silence|silence]], but
+
+in vain. She saw me, and I read in her eye [[Pain|pain]] that a stranger should
+
+witness the insubordination of her pupils; she seemed to entreat
+
+order--her prayers were useless; then I remarked that she compressed
+
+her lips and contracted her brow; and her countenance, if I read
+
+it correctly, said--“I have done my best; I seem to merit blame
+
+notwithstanding; blame me then who will.” I passed on; as I closed the
+
+school-room door, I heard her say, suddenly and sharply, addressing one
+
+of the eldest and most turbulent of the lot--
+
+“Amelie Mullenberg, ask me no question, and request of me no assistance,
+
+for a week to come; during that space of [[Time|time]] I will neither speak to
+
+you nor help you.”
+
+The words were uttered with emphasis--nay, with vehemence--and a
+
+comparative [[Silence|silence]] followed; whether the calm was permanent, I know
+
+not; two doors now closed between me and the CARRE.
+
+Next day was appropriated to the first class; on my arrival, I found the
+
+directress seated, as usual, in a chair between the two estrades, and
+
+before her was standing Mdlle. Henri, in an attitude (as it seemed to
+
+me) of somewhat reluctant attention. The directress was knitting and
+
+talking at the same [[Time|time]]. Amidst the hum of a large school-room, it was
+
+easy so to speak in the ear of one person, as to be heard by that person
+
+[[Alone|alone]], and it was thus Mdlle. Reuter parleyed with her teacher. The face
+
+of the latter was a little flushed, not a little troubled; there was
+
+vexation in it, whence resulting I know not, for the directress looked
+
+very placid indeed; she could not be scolding in such gentle whispers,
+
+and with so equable a mien; no, it was presently proved that her
+
+discourse had been of the most friendly tendency, for I heard the
+
+closing words--
+
+“C’est assez, ma bonne amie; a present je ne veux pas vous retenir
+
+davantage.”
+
+Without reply, Mdlle. Henri turned away; dissatisfaction was plainly
+
+evinced in her face, and a smile, slight and brief, but bitter,
+
+distrustful, and, I thought, scornful, curled her lip as she took her
+
+place in the class; it was a secret, involuntary smile, which lasted but
+
+a second; an air of depression succeeded, chased away presently by one
+
+of attention and interest, when I gave the word for all the pupils to
+
+take their reading-books. In general I hated the reading-lesson, it
+
+was such a torture to the ear to listen to their uncouth mouthing of
+
+my native tongue, and no effort of example or precept on my part ever
+
+seemed to effect the slightest improvement in their accent. To-day,
+
+each in her appropriate key, lisped, stuttered, mumbled, and jabbered as
+
+usual; about fifteen had racked me in turn, and my auricular nerve was
+
+expecting with [[Resignation|resignation]] the discords of the sixteenth, when a full,
+
+though low voice, read out, in clear correct English.
+
+“On his way to Perth, the [[King|king]] was met by a Highland woman, calling
+
+herself a prophetess; she stood at the side of the ferry by which he was
+
+about to travel to the north, and cried with a loud voice, ‘My lord the
+
+[[King|king]], if you pass this [[Water|water]] you will never return again alive!’”--(VIDE
+
+the [[history|HISTORY]] OF SCOTLAND).
+
+I looked up in amazement; the voice was a voice of Albion; the accent
+
+was pure and silvery; it only wanted firmness, and assurance, to be the
+
+counterpart of what any [[Well|well]]-educated lady in Essex or Middlesex might
+
+have enounced, yet the speaker or reader was no other than Mdlle. Henri,
+
+in whose [[Grave|grave]], joyless face I saw no mark of consciousness that she had
+
+performed any extraordinary feat. No one else evinced surprise either.
+
+Mdlle. Reuter knitted away assiduously; I was aware, however, that at
+
+the conclusion of the paragraph, she had lifted her eyelid and honoured
+
+me with a glance sideways; she did not know the full excellency of the
+
+teacher’s style of reading, but she perceived that her accent was not
+
+that of the others, and wanted to discover what I thought; I masked my
+
+visage with indifference, and ordered the next girl to proceed.
+
+When the lesson was over, I took advantage of the confusion caused by
+
+breaking up, to approach Mdlle. Henri; she was standing near the [[Window|window]]
+
+and retired as I advanced; she thought I wanted to look out, and did
+
+not imagine that I could have anything to say to her. I took her
+
+exercise-book out of her hand; as I turned over the [[Leaves|leaves]] I addressed
+
+her:--
+
+“You have had lessons in English before?” I asked.
+
+“No, sir.”
+
+“No! you read it [[Well|well]]; you have been in England?”
+
+“Oh, no!” with some animation.
+
+“You have been in English families?”
+
+Still the answer was “No.” Here my eye, resting on the flyleaf of the
+
+book, saw written, “Frances Evan Henri.”
+
+“Your name?” I asked
+
+“Yes, sir.”
+
+My interrogations were cut short; I heard a little rustling behind me,
+
+and close at my back was the directress, professing to be examining the
+
+interior of a desk.
+
+“Mademoiselle,” said she, looking up and addressing the teacher, “Will
+
+you have the goodness to go and stand in the corridor, while the young
+
+ladies are putting on their things, and try to keep some order?”
+
+Mdlle. Henri obeyed.
+
+“What splendid weather!” observed the directress cheerfully, glancing at
+
+the same [[Time|time]] from the [[Window|window]]. I assented and was withdrawing. “What of
+
+your new pupil, monsieur?” continued she, following my retreating steps.
+
+“Is she likely to make progress in English?”
+
+“Indeed I can hardly judge. She possesses a pretty good accent; of
+
+her real knowledge of the language I have as yet had no opportunity of
+
+forming an opinion.”
+
+“And her natural capacity, monsieur? I have had my fears about that: can
+
+you relieve me by an assurance at least of its average power?”
+
+“I see no reason to [[Doubt|doubt]] its average power, mademoiselle, but really
+
+I scarcely know her, and have not had [[Time|time]] to study the calibre of her
+
+capacity. I wish you a very good afternoon.”
+
+She still pursued me. “You will observe, monsieur, and tell me what you
+
+think; I could so much better rely on your opinion than on my own; women
+
+cannot judge of these things as men can, and, excuse my pertinacity,
+
+monsieur, but it is natural I should feel interested about this poor
+
+little girl (pauvre petite); she has scarcely any relations, her own
+
+efforts are all she has to look to, her acquirements must be her sole
+
+fortune; her present position has once been mine, or nearly so; it is
+
+then but natural I should sympathize with her; and sometimes when I see
+
+the difficulty she has in managing pupils, I feel quite chagrined.
+
+I [[Doubt|doubt]] not she does her best, her intentions are excellent; but,
+
+monsieur, she wants tact and firmness. I have talked to her on the
+
+subject, but I am not fluent, and probably did not express myself
+
+with clearness; she never appears to comprehend me. Now, would you
+
+occasionally, when you see an opportunity, slip in a word of advice
+
+to her on the subject; men have so much more influence than women
+
+have--they argue so much more logically than we do; and you, monsieur,
+
+in particular, have so paramount a power of making yourself obeyed;
+
+a word of advice from you could not but do her good; even if she were
+
+sullen and headstrong (which I [[Hope|hope]] she is not), she would scarcely
+
+refuse to listen to you; for my own part, I can truly say that I never
+
+attend one of your lessons without deriving benefit from witnessing your
+
+management of the pupils. The other masters are a constant source of
+
+anxiety to me; they cannot impress the young ladies with sentiments of
+
+respect, nor restrain the levity natural to youth: in you, monsieur, I
+
+feel the most absolute confidence; try then to put this poor [[Child|child]]
+
+into the way of controlling our giddy, high-spirited Brabantoises.
+
+But, monsieur, I would add one word more; don’t alarm her AMOUR PROPRE;
+
+beware of inflicting a wound there. I reluctantly admit that in that
+
+particular she is blameably--some would say ridiculously--susceptible.
+
+I [[Fear|fear]] I have touched this sore point inadvertently, and she cannot get
+
+over it.”
+
+During the greater part of this harangue my hand was on the lock of the
+
+outer door; I now turned it.
+
+“Au revoir, mademoiselle,” said I, and I escaped. I saw the directress’s
+
+stock of words was yet far from exhausted. She looked after me, she
+
+would fain have detained me longer. Her manner towards me had
+
+been altered ever since I had begun to treat her with hardness and
+
+indifference: she almost cringed to me on every occasion; she consulted
+
+my countenance incessantly, and beset me with innumerable little
+
+officious attentions. Servility creates despotism. This slavish homage,
+
+instead of softening my heart, only pampered whatever was stern and
+
+exacting in its mood. The very circumstance of her hovering round me
+
+like a fascinated bird, seemed to transform me into a rigid pillar of
+
+stone; her flatteries irritated my scorn, her blandishments confirmed
+
+my reserve. At times I wondered what she meant by giving herself such
+
+trouble to win me, when the more profitable Pelet was already in her
+
+nets, and when, too, she was aware that I possessed her secret, for I
+
+had not scrupled to tell her as much: but the fact is that as it was
+
+her [[Nature|nature]] to [[Doubt|doubt]] the reality and under-value the worth of modesty,
+
+affection, disinterestedness--to regard these qualities as foibles of
+
+character--so it was equally her tendency to consider [[Pride|pride]], hardness,
+
+selfishness, as proofs of strength. She would trample on the neck
+
+of [[Humility|humility]], she would kneel at the feet of disdain; she would meet
+
+tenderness with secret contempt, indifference she would woo with
+
+ceaseless assiduities. Benevolence, devotedness, enthusiasm, were
+
+her antipathies; for dissimulation and [[Self|self]]-interest she had a
+
+preference--they were real wisdom in her eyes; moral and physical
+
+degradation, mental and bodily inferiority, she regarded with
+
+indulgence; they were foils capable of being turned to good account as
+
+set-offs for her own endowments. To violence, injustice, tyranny, she
+
+succumbed--they were her natural masters; she had no propensity to hate,
+
+no impulse to resist them; the indignation their behests awake in some
+
+hearts was unknown in hers. From all this it resulted that the false and
+
+selfish called her wise, the vulgar and debased termed her charitable,
+
+the insolent and unjust dubbed her amiable, the conscientious and
+
+benevolent generally at first accepted as valid her claim to be
+
+considered one of themselves; but ere long the plating of pretension
+
+wore off, the real material appeared below, and they laid her aside as a
+
+[[Deception|deception]].
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Romeo and Juliet — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [9]"
+title: "ROMEO AND JULIET"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/romeo-and-juliet-(shakespeare)"
@@ -9,6 +9,1131 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/romeo_and_juliet" data-author="Shakespeare" data-workhref="works/romeo-and-juliet-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Romeo and Juliet — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Samson and Gregory, of the [[house]] of [[Capulet]], with swords and bucklers |
+| SAMSON | Gregory, on my word, we’ll not carry coals. |
+| GREGORY | No, for then we should be colliers. |
+| SAMSON | I mean an we be in choler, we’ll draw. |
+| GREGORY | Ay, while you live, draw your neck out of collar. |
+| SAMSON | I strike quickly, being moved. |
+| GREGORY | But thou art not quickly moved to strike. |
+| SAMSON | A dog of the [[house]] of Montague moves me. |
+| GREGORY | To move is to stir, and to be valiant is to stand, therefore if thou art moved, thou runn’st away. |
+| SAMSON | A dog of that [[house]] shall move me to stand. I will take the wall of any man or maid of Montague’s. |
+| GREGORY | That shows thee a weak slave, for the weakest goes to the wall. |
+| SAMSON | ’Tis true, and therefore women, being the weaker vessels, are ever thrust to the wall; therefore I will push Montague’s men from the wall, and thrust his maids to the wall. |
+| GREGORY | The quarrel is between our masters and us their men. |
+| SAMSON | ’Tis all one. I will show myself a [[Tyrant|tyrant]]: when I have fought with the men I will be civil with the maids—I will cut off their heads. |
+| GREGORY | The heads of the maids? |
+| SAMSON | Ay, the heads of the maids, or their maidenheads, take it in what sense thou wilt. |
+| GREGORY | They must take it in sense that feel it. |
+| SAMSON | Me they shall feel while I am able to stand, and ’tis known I am a pretty piece of flesh. |
+| GREGORY | ’Tis [[Well|well]] thou art not fish. If thou hadst, thou hadst been poor-john. Enter Abraham and another servingman of the Montagues Draw thy tool. Here comes of the [[house]] of Montagues. |
+| SAMSON | My naked weapon is out. Quarrel, I will back thee. |
+| GREGORY | How—turn thy back and run? |
+| SAMSON | [[Fear]] me not. |
+| GREGORY | No, marry—I [[Fear|fear]] thee! |
+| SAMSON | Let us take the law of our side. Let them begin. |
+| GREGORY | I will frown as I pass by, and let them take it as they list. |
+| SAMSON | Nay, as they dare. I will bite my thumb at them, which is disgrace to them if they bear it. He bites his thumb |
+| ABRAHAM | Do you bite your thumb at us, sir? |
+| SAMSON | I do bite my thumb, sir. |
+| ABRAHAM | Do you bite your thumb at us, sir? |
+| SAMSON | (to Gregory) Is the law of our side if I say ’Ay’ ? |
+| GREGORY | No. |
+| SAMSON | (to Abraham) No, sir, I do not bite my thumb at you, sir, but I bite my thumb, sir. |
+| GREGORY | (to Abraham) Do you quarrel, sir? |
+| ABRAHAM | Quarrel, sir? No, sir. |
+| SAMSON | But if you do, sir, I am for you. I serve as good a man as you. |
+| ABRAHAM | No better. |
+| SAMSON | [[Well]], sir. Enter [[Benvolio]] |
+| GREGORY | Say ‘better’. Here comes one of my master’s kinsmen. |
+| SAMSON | (to Abraham) Yes, better, sir. |
+| ABRAHAM | You lie. |
+| SAMSON | Draw, if you be men. Gregory, remember thy washing blow. They draw and fight |
+| [[Benvolio|BENVOLIO]] | (drawing) Part, fools. Put up your swords. You know not what you do. Enter [[Tybalt]] |
+| [[Tybalt|TYBALT]] | (drawing) What, art thou drawn among these heartless hinds? Turn thee, [[Benvolio]]. Look upon thy [[Death|death]]. |
+| [[Benvolio|BENVOLIO]] | I do but keep the peace. Put up thy [[Sword|sword]], Or manage it to part these men with me. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--02_exchange_tybalt" data-title="Romeo and Juliet — Act I, Scene 1 — exchange (TYBALT) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Tybalt|TYBALT]] | What, drawn and talk of peace? I hate the word As I hate hell, all Montagues, and thee. Have at thee, coward. They fight. Enter three or four Citizens of the watch, with clubs or partisans CITIZENS OF THE WATCH Clubs, bills and partisans! Strike! Beat them down! Down with the Capulets. Down with the Montagues. Enter [[Capulet]] in his gown, and his Wife |
+| [[Capulet|CAPULET]] | What noise is this? Give me my long [[Sword|sword]], ho! |
+| [[Capulet|CAPULET]]’S WIFE | A crutch, a crutch—why call you for a [[Sword|sword]]? Enter Montague With his [[Sword|sword]] drawn, and his Wife |
+| [[Capulet|CAPULET]] | My [[Sword|sword]], I say. Old Montague is come, And flourishes his blade in spite of me. |
+| MONTAGUE | Thou [[Villain|villain]] [[Capulet]]! His Wife holds him back Hold me not, let me go. |
+| MONTAGUE’S WIFE | Thou shalt not stir one foot to seek a foe. The Citizens of the watch attempt to part the factions. Enter [[Prince Escalus]] with his train |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--03_monologue_prince" data-title="Romeo and Juliet — Act I, Scene 1 — monologue (PRINCE) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PRINCE | Rebellious subjects, enemies to peace, Profaners of this neighbour-stained steet— Will they not hear? What ho, you men, you beasts, That quench the [[Fire|fire]] of your pernicious rage With purple fountains issuing from your veins: On [[Pain|pain]] of torture, from those bloody hands Throw your mistempered weapons to the ground, And hear the sentence of your moved Prince. Montague, [[Capulet]], and their followers throw down their weapons] Three civil brawls bred of an airy word By thee, old [[Capulet]], and Montague, Have thrice disturbed the quiet of our streets And made [[Verona]]’s ancient citizens Cast by their [[Grave|grave]]-beseeming ornaments To wield old partisans in hands as old, Cankered with peace, to part your cankered hate. If ever you disturb our streets again Your lives shall pay the forfeit of the peace. For this [[Time|time]] all the rest depart away. You, [[Capulet]], shall go along with me; And Montague, come you this afternoon To know our farther pleasure in this case To old Freetown, our common judgement-place. Once more, on [[Pain|pain]] of [[Death|death]], all men depart. Exeunt all but Montague, his Wife, and [[Benvolio]] |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--04_exchange_montague" data-title="Romeo and Juliet — Act I, Scene 1 — exchange (MONTAGUE) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MONTAGUE | Who set this ancient quarrel new abroach? Speak, nephew: were you by when it began? |
+| [[Benvolio|BENVOLIO]] | Here were the servants of your adversary And yours, close fighting ere I did approach. I drew to part them. In the instant came The fiery [[Tybalt]] with his [[Sword|sword]] prepared, Which, as he breathed defiance to my ears, He swung about his head and cut the winds Who, nothing hurt withal, hissed him in scorn. While we were interchanging thrusts and blows, Came more and more, and fought on part and part Till the Prince came, who parted either part. |
+| MONTAGUE’S WIFE | O where is [[Romeo]]—saw you him today? Right glad I am he was not at this fray. |
+| [[Benvolio|BENVOLIO]] | Madam, an hour before the worshipped sun Peered forth the golden [[Window|window]] of the east, A troubled mind drive me to walk abroad, Where, underneath the grove of sycamore That westward rooteth from this [[City|city]] side, So early walking did I see your son. Towards him I made, but he was ware of me, And stole into the covert of the wood. I, measuring his affections by my own— Which then most sought where most might not be found, Being one too many by my weary [[Self|self]]— Pursued my [[Humour|humour]] not pursuing his, And gladly shunned who gladly fled from me. |
+| MONTAGUE | Many a morning hath he there been seen, With [[Tears|tears]] augmenting the fresh morning’s dew, Adding to clouds more clouds with his deep sighs. But all so soon as the all-cheering sun Should in the farthest east begin to draw The shady curtains from Aurora’s bed, Away from light steals [[Home|home]] my heavy son, And private in his chamber pens himself, Shuts up his windows, locks fair daylight out, And makes himself an artificial [[Night|night]]. Black and portentous must this [[Humour|humour]] prove, Unless good counsel may the cause remove. |
+| [[Benvolio|BENVOLIO]] | My noble uncle, do you know the cause? |
+| MONTAGUE | I neither know it nor can learn of him. |
+| [[Benvolio|BENVOLIO]] | Have you importuned him by any means? |
+| MONTAGUE | Both by myself and many other friends, But he, his own affection’s counsellor, Is to himself—I will not say how true, But to himself so secret and so close, So far from sounding and discovery, As is the bud bit with an envious worm Ere he can spread his sweet [[Leaves|leaves]] to the air Or dedicate his [[Beauty|beauty]] to the sun. Could we but learn from whence his sorrows grow We would as willingly give cure as know. Enter [[Romeo]] |
+| [[Benvolio|BENVOLIO]] | See where he comes. So please you step aside, I’ll know his grievance or be much denied. |
+| MONTAGUE | I would thou wert so happy by thy stay To hear true shrift. Come, madam, let’s away. Exeunt Montague and his Wife |
+| [[Benvolio|BENVOLIO]] | Good morrow, cousin. |
+| [[Romeo|ROMEO]] | Is the day so young? |
+| [[Benvolio|BENVOLIO]] | But new struck nine. |
+| [[Romeo|ROMEO]] | Ay me, sad hours seem long. Was that my father that went hence so fast? |
+| [[Benvolio|BENVOLIO]] | It was. What sadness lengthens [[Romeo]]’s hours? |
+| [[Romeo|ROMEO]] | Not having that which, having, makes them short. |
+| [[Benvolio|BENVOLIO]] | In [[Love|love]]. |
+| [[Romeo|ROMEO]] | Out. |
+| [[Benvolio|BENVOLIO]] | Of [[Love|love]]? |
+| [[Romeo|ROMEO]] | Out of her favour where I am in [[Love|love]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--05_exchange_benvolio" data-title="Romeo and Juliet — Act I, Scene 1 — exchange (BENVOLIO) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benvolio|BENVOLIO]] | Alas that [[Love|love]], so gentle in his view, Should be so tyrannous and rough in proof. |
+| [[Romeo|ROMEO]] | Alas that [[Love|love]], whose view is muffled still, Should without eyes see pathways to his will. Where shall we dine? Seeing [[Blood|blood]] O me! What fray was here? Yet tell me not, for I have heard it all. Here’s much to do with hate, but more with [[Love|love]]. Why then, O brawling [[Love|love]], O loving hate, O anything of nothing first create; O heavy lightness, serious [[Vanity|vanity]], Misshapen chaos of [[Well|well]]-seeming forms, Feather of lead, bright smoke, cold [[Fire|fire]], sick health, Still-waking [[Sleep|sleep]], that is not what it is I This [[Love|love]] feel I, that feel no [[Love|love]] in this. Dost thou not laugh? |
+| [[Benvolio|BENVOLIO]] | No, coz, I rather weep. |
+| [[Romeo|ROMEO]] | Good heart, at what? |
+| [[Benvolio|BENVOLIO]] | At thy good heart’s oppression. |
+| [[Romeo|ROMEO]] | Why, such is [[Love|love]]’s transgression. Griefs of mine own lie heavy in my breast, Which thou wilt propagate to have it pressed With more of thine. This [[Love|love]] that thou hast shown Doth add more grief to too much of mine own. [[Love]] is a smoke made with the fume of sighs, Being purged, a [[Fire|fire]] sparkling in [[lovers]]’ eyes, Being vexed, a sea nourished with [[lovers]]’ [[Tears|tears]]. What is it else? A [[Madness|madness]] most discreet, A choking gall and a preserving sweet. Farewell, my coz. |
+| [[Benvolio|BENVOLIO]] | Soft, I will go along; An if you leave me’so, you do me wrong. |
+| [[Romeo|ROMEO]] | Tut, I have lost myself. I am not here. This is not [[Romeo]]; he’s some other where. |
+| [[Benvolio|BENVOLIO]] | Tell me in sadness, who is that you [[Love|love]]? |
+| [[Romeo|ROMEO]] | What, shall I groan and tell thee? |
+| [[Benvolio|BENVOLIO]] | Groan? Why no; but sadly tell me who. |
+| [[Romeo|ROMEO]] | Bid a sick man in sadness make his will, A word ill urged to one that is so ill. In sadness, cousin, I do [[Love|love]] a woman. |
+| [[Benvolio|BENVOLIO]] | I aimed so near when I supposed you loved. |
+| [[Romeo|ROMEO]] | A right good markman; and she’s fair I [[Love|love]]. |
+| [[Benvolio|BENVOLIO]] | A right fair mark, fair coz, is soonest hit. |
+| [[Romeo|ROMEO]] | [[Well]], in that hit you miss. She’ll not be hit With Cupid’s arrow; she hath Dian’s wit, And, in strong proof of chastity [[Well|well]] armed, From [[Love|love]]’s weak childish bow she lives unharmed. She will not stay the siege of loving terms, Nor bide th’encounter of assailing eyes, Nor ope her lap to saint-seducing gold. O, she is rich in [[Beauty|beauty]], only poor That when she dies, with [[Beauty|beauty]] dies her store. |
+| [[Benvolio|BENVOLIO]] | Then she hath sworn that she will still live chaste? |
+| [[Romeo|ROMEO]] | She hath, and in that sparing makes huge waste; For [[Beauty|beauty]] starved with her severity Cuts [[Beauty|beauty]] off from all posterity. She is too fair, too wise, wisely too fair, To merit bliss by making me [[Despair|despair]]. She hath forsworn to [[Love|love]], and in that vow Do I live dead, that live to tell it now. |
+| [[Benvolio|BENVOLIO]] | Be ruled by me; forget to think of her. |
+| [[Romeo|ROMEO]] | O, teach me how I should forget to think! |
+| [[Benvolio|BENVOLIO]] | By giving liberty unto thine eyes. Examine other beauties. |
+| [[Romeo|ROMEO]] | ’Tis the way To call hers, exquisite, in question more. These happy masks that kiss fair ladies’ brows, Being black, puts us in mind they hide the fair. He that is strucken blind cannot forget The precious treasure of his eyesight lost. Show me a mistress that is passing fair, What doth her [[Beauty|beauty]] serve but as a note Where I may read who passed that passing fair? Farewell, thou canst not teach me to forget. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--06_exchange_benvolio" data-title="Romeo and Juliet — Act I, Scene 1 — exchange (BENVOLIO) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benvolio|BENVOLIO]] | I’ll pay that doctrine, or else die in debt. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--01_exchange_dialogue" data-title="Romeo and Juliet — Act I, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Romeo]], [[Mercutio]], and [[Benvolio]], as masquers, with five or six other masquers, bearing a drum and torches |
+| [[Romeo|ROMEO]] | What, shall this speech be spoke for our excuse, Or shall we on without apology? |
+| [[Benvolio|BENVOLIO]] | The date is out of such prolixity. We’ll have no Cupid hoodwinked with a scarf, Bearing a Tartar’s painted bow of lath, Scaring the ladies like a crowkeeper, Nor no without-book Prologue faintly spoke After the prompter for our entrance. But let them measure us by what they will, We’ll measure them a measure, and be gone. |
+| [[Romeo|ROMEO]] | Give me a torch. I am not for this ambling; Being but heavy, I will bear the light. |
+| [[Mercutio|MERCUTIO]] | Nay, gentle [[Romeo]], we must have you [[Dance|dance]]. |
+| [[Romeo|ROMEO]] | Not I, believe me. You have dancing shoes With nimble soles; I have a [[Soul|soul]] of lead So stakes me to the ground I cannot move. |
+| [[Mercutio|MERCUTIO]] | You are a [[Lover|lover]]; borrow Cupid’s wings, And soar with them above a common bound. |
+| [[Romeo|ROMEO]] | I am too sore empiercèd with his shaft To soar with his light feathers, and so bound I cannot bound a pitch above dull woe; Under [[Love|love]]’s heavy burden do I sink. |
+| [[Mercutio|MERCUTIO]] | And to sink in it should you burden [[Love|love]]— Too great oppression for a tender thing. |
+| [[Romeo|ROMEO]] | Is [[Love|love]] a tender thing? It is too rough, Too rude, too boist’rous, and it pricks like thorn. |
+| [[Mercutio|MERCUTIO]] | If [[Love|love]] be rough with you, be rough with [[Love|love]]. Prick [[Love|love]] for pricking, and you beat [[Love|love]] down. Give me a case to put my visage in, A visor for a visor. What care I What curious eye doth quote deformity? Here are the beetle brows shall blush for me. They put on visors |
+| [[Benvolio|BENVOLIO]] | Come, knock and enter, and no sooner in But every man betake him to his legs. |
+| [[Romeo|ROMEO]] | A torch for me. Let wantons light of heart Tickle the sense-less rushes with their heels, For I am proverbed with a grandsire phrase. I’ll be a candle-holder and look on. The game was ne’er so fair, and I am done. He takes a torch |
+| [[Mercutio|MERCUTIO]] | Tut, dun’s the mouse, the constable’s own word. If thou art dun we’ll draw thee from the mire Of—save your reverence—[[Love|love]], wherein thou stickest Up to the ears. Come, we burn daylight, ho! |
+| [[Romeo|ROMEO]] | Nay, that’s not so. |
+| [[Mercutio|MERCUTIO]] | I mean, sir, in delay We waste our lights in vain, like lights by day. Take our good meaning, for our judgement sits Five times in that ere once in our five wits. |
+| [[Romeo|ROMEO]] | And we mean [[Well|well]] in going to this [[Masque|masque]], But ’tis no wit to go. |
+| [[Mercutio|MERCUTIO]] | Why, may one ask? |
+| [[Romeo|ROMEO]] | I dreamt [[A Dream|a dream]] tonight. |
+| [[Mercutio|MERCUTIO]] | And so did I. |
+| [[Romeo|ROMEO]] | [[Well]], what was yours? |
+| [[Mercutio|MERCUTIO]] | That dreamers often lie. |
+| [[Romeo|ROMEO]] | In bed asleep while they do dream things true. |
+| [[Mercutio|MERCUTIO]] | O, then I see [[Queen]] Mab hath been with you. |
+| [[Benvolio|BENVOLIO]] | [[Queen]] Mab, what’s she? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--02_monologue_mercutio" data-title="Romeo and Juliet — Act I, Scene 4 — monologue (MERCUTIO) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Mercutio|MERCUTIO]] | She is the fairies’ midwife, and she comes In shape no bigger than an agate stone On the forefinger of an alderman, Drawn with a team of little atomi Athwart men’s noses as they lie asleep. Her wagon spokes made of long spinners’ legs; The cover, of the wings of grasshoppers; Her traces, of the moonshine’s wat‘ry beams; Her collars, of the smallest spider web; Her whip, of cricket’s bone, the lash of film; Her wagoner, a small grey-coated gnat Not half so big as a round little worm Pricked from the lazy finger of a maid. Her chariot is an empty hazelnut Made by the joiner squirrel or old grub, [[Time]] out o’ mind the fairies’ coachmakers. And in this state she gallops [[Night|night]] by [[Night|night]] Through [[lovers]]’ brains, and then they dream of [[Love|love]]; O’er courtiers’ knees, that dream on curtsies straight; O’er ladies’ lips, who straight on kisses dream, Which oft the angry Mab with blisters plagues Because their breaths with sweetmeats tainted are. Sometime she gallops o’er a lawyer’s lip, And then [[Dreams|dreams]] he of smelling out a suit; And sometime comes she with a tithe-pig’s tail Tickling a parson’s nose as a lies asleep; Then [[Dreams|dreams]] he of another benefice. Sometime she driveth o’er a soldier’s neck, And then [[Dreams|dreams]] he of cutting foreign throats, Of breaches, ambuscados, Spanish blades, Of healths five fathom deep; and then anon Drums in his ear, at which he starts and wakes, And being thus frighted, swears a [[Prayer|prayer]] or two, And sleeps again. This is that very Mab That plaits the manes of horses in the [[Night|night]], And bakes the elf-locks in foul sluttish hairs, Which once untangled much misfortune bodes. This is the hag, when maids lie on their backs, That presses them and learns them first to bear, Making them women of good carriage. This is she— |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--03_exchange_romeo" data-title="Romeo and Juliet — Act I, Scene 4 — exchange (ROMEO) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | Peace, peace, [[Mercutio]], peace! Thou talk’st of nothing. |
+| [[Mercutio|MERCUTIO]] | True. I talk of [[Dreams|dreams]], Which are the children of an idle brain, Begot of nothing but vain fantasy, Which is as thin of substance as the air, And more inconstant than the [[Wind|wind]], who woos Even now the frozen bosom of the north, And, being angered, puffs away from thence, Turning his face to the dew-dropping south. |
+| [[Benvolio|BENVOLIO]] | This [[Wind|wind]] you talk of blows us from ourselves. Supper is done, and we shall come too late. |
+| [[Romeo|ROMEO]] | I [[Fear|fear]] too early, for my mind misgives Some consequence yet hanging in the [[Stars|stars]] Shall bitterly begin his fearful date With this [[Night|night]]’s revels, and expire the term Of a despised life, closed in my breast, By some vile forfeit of untimely [[Death|death]]. But he that hath the steerage of my course Direct my sail! On, lusty gentlemen. |
+| [[Benvolio|BENVOLIO]] | Strike, drum. They march about the stage and exeunt |
+| *(didascalia)* | 1.5 Peter and other Servingmen come forth with napkins PETER Where’s Potpan, that he helps not to take away? He shift a trencher, he scrape a trencher! |
+| FIRST SERVINGMAN | When good manners shall lie all in one or two men’s hands, and they unwashed too, ’tis a foul thing. PETER Away with the joint-stools, remove the [[Court|court]]– cupboard, look to the plate. Good thou, save me a piece of marzipan, and, as thou loves me, let the porter let in Susan Grindstone and Nell. Anthony and Potpan I |
+| SECOND SERVINGMAN | Ay, boy, ready. PETER You are looked for and called for, asked for and sought for, in the great chamber. FIRST SERVINGMAN We cannot be here and there too. Cheerly, boys! Be brisk a while, and the longest liver take all. They come and go, setting forth tables and chairs. Enter Musicians, then at one door [[Capulet]], his Wife, his Cousin, [[Juliet]]., the [[Nurse]], [[Tybalt]], his page, Petruccio, and all the guests and gentlewomen; at another door, the masquers: [[Romeo]], [[Benvolio]] and [[Mercutio]] |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--04_monologue_capulet" data-title="Romeo and Juliet — Act I, Scene 4 — monologue (CAPULET) [4]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Capulet|CAPULET]] | (to the masquers) Welcome, gentlemen. Ladies that have their toes Unplagued with corns will walk a bout with you. Aha, my mistresses, which of you all Will now deny to [[Dance|dance]]? She that makes dainty, She, I’ll swear, hath corns. Am I come near ye now? Welcome, gentlemen. I have seen the day That I have worn a visor, and could tell A whispering tale in a fair lady’s ear Such as would please. ’Tis gone, ’tis gone, ’tis gone. You are welcome, gentlemen. Come, musicians, play. Music plays, and the masquers, guests, and gentlewomen [[Dance|dance]]. [[Romeo]] stands apart A hall, a hall! Give room, and foot it, girls. (To Servingmen) More light, you knaves, and turn the tables up, And quench the [[Fire|fire]], the room is grown too hot. (To his Cousin) Ah sirrah, this unlooked-for sport comes [[Well|well]]. Nay, sit, nay, sit, good cousin [[Capulet]], For you and I are past our dancing days. [[Capulet]] and his Cousin sit How long is’t now since last yourself and I Were in a [[Masque|masque]]? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--05_exchange_capulets_cousin" data-title="Romeo and Juliet — Act I, Scene 4 — exchange (CAPULET’S COUSIN) [5]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Capulet|CAPULET]]’S COUSIN | By’r Lady, thirty years. |
+| [[Capulet|CAPULET]] | What, man, ’tis not so much, ’tis not so much. ’Tis since the nuptial of [[Lucentio]], Come Pentecost as quickly as it will, Some five-and-twenty years; and then we masqued. |
+| [[Capulet|CAPULET]]’S COUSIN | ’Tis more, ’tis more. His son is elder, sir. His son is thirty. |
+| [[Capulet|CAPULET]] | Will you tell me that? His son was but a ward two years ago. |
+| [[Romeo|ROMEO]] | (to a Servingman) What lady’s that which doth enrich the hand Of yonder knight? |
+| SERVINGMAN | I know not, sir. |
+| [[Romeo|ROMEO]] | O, she doth teach the torches to burn bright! It seems she hangs upon the cheek of [[Night|night]] As a rich [[Jewel|jewel]] in an Ethiope’s ear— [[Beauty]] too rich for use, for earth too dear. So shows a snowy dove trooping with crows As yonder lady o’er her fellows shows. The measure done, I’ll watch her place of stand, And, touching hers, make blessèd my rude hand. Did my heart [[Love|love]] till now? Forswear it, sight, For I ne’er saw true [[Beauty|beauty]] till this [[Night|night]]. |
+| [[Tybalt|TYBALT]] | This, by his voice, should be a Montague. Fetch me my rapier, boy. Exit page What, dares the slave Come hither, covered with an antic face, To fleer and scorn at our solemnity? Now, by the stock and [[Honour|honour]] of my kin, To strike him dead I hold it not a sin. |
+| [[Capulet|CAPULET]] | standing Why, how now, kinsman? Wherefore [[Storm|storm]] you so? |
+| [[Tybalt|TYBALT]] | Uncle, this is a Montague, our foe, A [[Villain|villain]] that is hither come in spite To scorn at our solemnity this [[Night|night]]. |
+| [[Capulet|CAPULET]] | Young [[Romeo]], is it? |
+| [[Tybalt|TYBALT]] | ’Tis he, that [[Villain|villain]] [[Romeo]]. |
+| [[Capulet|CAPULET]] | Content thee, gentle coz, let him [[Alone|alone]]. A bears him like a portly gentleman, And, to say [[Truth|truth]], [[Verona]] brags of him To be a virtuous and [[Well|well]]-governed youth. I would not for the wealth of all this town Here in my [[house]] do him disparagement. Therefore be patient, take no note of him. It is my will, the which if thou respect, Show a fair presence and put off these frowns, An ill-beseeming semblance for a feast. |
+| [[Tybalt|TYBALT]] | It fits when such a [[Villain|villain]] is a guest. I’ll not endure him. |
+| [[Capulet|CAPULET]] | He shall be endured. What, goodman boy, I say he shall. Go to, Am I the master here or you ? Go to— You’ll not endure him! God shall mend my [[Soul|soul]]. You’ll make a mutiny among my guests, You will set cock-a-hoop! You’ll be the man! |
+| [[Tybalt|TYBALT]] | Why, uncle, ’tis a shame. |
+| [[Capulet|CAPULET]] | Go to, go to, You are a saucy boy. Is’t so, indeed? This trick may chance to scathe you. I know what, You must contrary me. Marry, ’tis [[Time|time]]— A [[Dance|dance]] ends. [[Juliet]] retires to her place of stand, where [[Romeo]] awaits her (To the guests) [[Well]] said, my hearts! (To [[Tybalt]]) You are a princox, go. Be quiet, or—(to Servingmen) more light, more light!— (to [[Tybalt]]) for shame, I’ll make you quiet. (To the guests) What, cheerly, my hearts! The music plays again, and the guests [[Dance|dance]] |
+| [[Tybalt|TYBALT]] | Patience perforce with wilful choler meeting Makes my flesh tremble in their different greeting. I will withdraw, but this intrusion shall, Now seeming sweet, [[convert]] to bitt’rest gall. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--06_exchange_romeo" data-title="Romeo and Juliet — Act I, Scene 4 — exchange (ROMEO) [6]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | (to [[Juliet]], touching her hand) If I profane with my unworthiest hand This holy shrine, the gentler sin is this: My lips, two blushing pilgrims, ready stand To smooth that rough touch with a tender kiss. |
+| [[Juliet|JULIET]] | Good [[Pilgrim|pilgrim]], you do wrong your hand too much, Which mannerly devotion shows in this. For saints have hands that pilgrims’ hands do touch, And palm to palm is holy palmers’ kiss. |
+| [[Romeo|ROMEO]] | Have not saints lips, and holy palmers, too? |
+| [[Juliet|JULIET]] | Ay, [[Pilgrim|pilgrim]], lips that they must use in [[Prayer|prayer]]. |
+| [[Romeo|ROMEO]] | O then, dear saint, let lips do what hands do: They pray; grant thou, lest [[Faith|faith]] turn to [[Despair|despair]]. |
+| [[Juliet|JULIET]] | Saints do not move, though grant for prayers’ sake. |
+| [[Romeo|ROMEO]] | Then move not while my [[Prayer|prayer]]’s effect I take. He kisses her Thus from my lips, by thine my sin is purged. |
+| [[Juliet|JULIET]] | Then have my lips the sin that they have took. |
+| [[Romeo|ROMEO]] | Sin from my lips? O trespass sweetly urged! Give me my sin again. He kisses her |
+| [[Juliet|JULIET]] | You kiss by th’ book. |
+| [[Nurse|NURSE]] | Madam, your mother craves a word with you. [[Juliet]] departs to her mother |
+| [[Romeo|ROMEO]] | What is her mother? |
+| [[Nurse|NURSE]] | Marry, bachelor, Her mother is the lady of the [[house]], And a good lady, and a wise and virtuous. I nursed her daughter that you talked withal. I tell you, he that can lay hold of her Shall have the chinks. |
+| [[Romeo|ROMEO]] | (aside) Is she a [[Capulet]]? O dear account! My life is my foe’s debt. |
+| [[Benvolio|BENVOLIO]] | Away, be gone, the sport is at the best. |
+| [[Romeo|ROMEO]] | Ay, so I [[Fear|fear]], the more is my unrest. |
+| [[Capulet|CAPULET]] | Nay, gentlemen, prepare not to be gone. We have a trifling foolish banquet towards. They whisper in his ear Is it e’en so? Why then, I thank you all. I thank you, honest gentlemen. Good [[Night|night]]. More torches here ! Come on then, let’s to bed. (To his Cousin) Ah, sirrah, by my fay, it waxes late. I’ll to my rest. Exeunt [[Capulet]], his Wife, and his Cousin. The guests, gentlewomen, masquers, musicians, and servingmen begin to leave |
+| [[Juliet|JULIET]] | Come hither, [[Nurse]]. What is yon gentleman? |
+| [[Nurse|NURSE]] | The son and heir of old Tiberio. |
+| [[Juliet|JULIET]] | What’s he that now is going out of door? |
+| [[Nurse|NURSE]] | Marry, that, I think, be young Petruccio. |
+| [[Juliet|JULIET]] | What’s he that follows here, that would not [[Dance|dance]]? |
+| [[Nurse|NURSE]] | I know not. |
+| [[Juliet|JULIET]] | Go ask his name. The [[Nurse]] goes If he be married, My [[Grave|grave]] is like to be my wedding bed. |
+| [[Nurse|NURSE]] | (returning) His name is [[Romeo]], and a Montague, The only son of your great enemy. |
+| [[Juliet|JULIET]] | aside My only [[Love|love]] sprung from my only hate! Too early seen unknown, and known too late! Prodigious birth of [[Love|love]] it is to me That I must [[Love|love]] a loathed enemy. |
+| [[Nurse|NURSE]] | What’s tis? what’s tis? |
+| [[Juliet|JULIET]] | A rhyme I learnt even now Of one I danced withal. One calls within ‘[[Juliet]]!’ |
+| [[Nurse|NURSE]] | Anon, anon. Come, let’s away. The strangers all are gone. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Romeo and Juliet — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Romeo]] |
+| [[Romeo|ROMEO]] | Can I go forward when my heart is here? Turn back, dull earth, and find thy centre out. He turns back and withdraws. Enter [[Benvolio]] with [[Mercutio]] |
+| [[Benvolio|BENVOLIO]] | (calling) [[Romeo]], my cousin [[Romeo]], [[Romeo]]! |
+| [[Mercutio|MERCUTIO]] | He is wise, and, on my life, hath stol’n him [[Home|home]] to bed. |
+| [[Benvolio|BENVOLIO]] | He ran this way, and leapt this orchard wall. Call, good [[Mercutio]]. [[Mercutio|MERCUTIO]] Nay, I’ll conjure too. [[Romeo]]! Humours! adman! Passion! [[Lover]]! Appear thou in the likeness of a sigh. Speak but one rhyme and I am satisfied. Cry but ‘Ay me!’ Pronounce but ‘[[Love|love]]’ and ‘dove’. Speak to my gossip [[Venus]] one fair word, One nickname for her purblind son and heir, Young Adam Cupid, he that shot so trim When [[King]] Cophetua loved the beggar maid.— He heareth not, he stirreth not, he moveth not. The ape is dead, and I must conjure him.— I conjure thee by [[Rosaline]]’s bright eyes, By her high forehead and her scarlet lip, By her fine foot, straight leg, and quivering thigh, And the demesnes that there adjacent lie, That in thy likeness thou appear to us. |
+| [[Benvolio|BENVOLIO]] | An if he hear thee, thou wilt anger him. |
+| [[Mercutio|MERCUTIO]] | This cannot anger him. ’Twould anger him To raise a spirit in his mistress’ circle Of some strange [[Nature|nature]], letting it there stand Till she had laid it and conjured it down. That were some spite. My invocation Is fair and honest. In his mistress’ name, I conjure only but to raise up him. |
+| [[Benvolio|BENVOLIO]] | Come, he hath hid himself among these trees To be consorted with the humorous [[Night|night]]. Blind is his [[Love|love]], and best befits the dark. |
+| [[Mercutio|MERCUTIO]] | If [[Love|love]] be blind, [[Love|love]] cannot hit the mark. Now will he sit under a medlar tree And wish his mistress were that kind of fruit As maids call medlars when they laugh [[Alone|alone]]. O [[Romeo]], that she were, O that she were An open-arse, and thou a popp’rin’ pear. [[Romeo]], good [[Night|night]]. I’ll to my truckle-bed. This field-bed is too cold for me to [[Sleep|sleep]]. Come, shall we go? |
+| [[Benvolio|BENVOLIO]] | Go then, for ’tis in vain To seek him here that means not to be found. Exeunt [[Benvolio]] and [[Mercutio]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--02_monologue_romeo" data-title="Romeo and Juliet — Act II, Scene 1 — monologue (ROMEO) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | coming forward He jests at scars that never felt a wound. But soft, what light through yonder [[Window|window]] breaks? It is the east, and [[Juliet]] is the sun. Arise, fair sun, and kill the envious [[Moon|moon]], Who is already sick and pale with grief That thou, her maid, art far more fair than she. Be not her maid, since she is envious. Her vestal livery is but sick and green, And none but fools do wear it; cast it off. Enter [[Juliet]] aloft It is my lady, O, it is my [[Love|love]]. O that she knew she were! She speaks, yet she says nothing. What of that? Her eye discourses; I will answer it. I am too bold. ’Tis not to me she speaks. Two of the fairest [[Stars|stars]] in all the heaven, Having some business, do entreat her eyes To twinkle in their spheres till they return. What if her eyes were there, they in her head?— The brightness of her cheek would shame those [[Stars|stars]] As daylight doth a lamp; her eye in heaven Would through the airy region stream so bright That [[Birds|birds]] would sing and think it were not [[Night|night]]. See how she leans her cheek upon her hand. O, that I were a glove upon that hand, That I might touch that cheek! |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--03_exchange_juliet" data-title="Romeo and Juliet — Act II, Scene 1 — exchange (JULIET) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Juliet|JULIET]] | Ay me. |
+| [[Romeo|ROMEO]] | (aside) She speaks. O, speak again, bright angel; for thou art As glorious to this [[Night|night]], being o‘er my head, As is a winged messenger of heaven Unto the white upturned wond’ring eyes Of mortals that fall back to gaze on him When he bestrides the lazy-passing clouds And sails upon the bosom of the air. |
+| [[Juliet|JULIET]] | (not knowing [[Romeo]] hears her) O [[Romeo]], [[Romeo]], wherefore art thou [[Romeo]]? Deny thy father and refuse thy name, Or if thou wilt not, be but sworn my [[Love|love]], And I’ll no longer be a [[Capulet]]. |
+| [[Romeo|ROMEO]] | (aside) Shall I hear more, or shall I speak at this? |
+| [[Juliet|JULIET]] | ’Tis but thy name that is my enemy. Thou art thyself, though not a Montague. What’s Montague? It is nor hand, nor foot, Nor arm, nor face, nor any other part Belonging to a man. O, be some other name I What’s in a name? That which we call a [[Rose|rose]] By any other word would smell as sweet. So [[Romeo]] would, were he not [[Romeo]] called, Retain that dear perfection which he owes Without that title. [[Romeo]], doff thy name, And for thy name—which is no part of thee— Take all myself. |
+| [[Romeo|ROMEO]] | (to [[Juliet]]) I take thee at thy word. Call me but [[Love|love]] and I’ll be new baptized. Henceforth I never will be [[Romeo]]. |
+| [[Juliet|JULIET]] | What man art thou that, thus bescreened in [[Night|night]], So stumblest on my counsel? |
+| [[Romeo|ROMEO]] | By a name I know not how to tell thee who I am. My name, dear saint, is hateful to myself Because it is an enemy to thee. Had I it written, I would tear the word. |
+| [[Juliet|JULIET]] | My ears have yet not drunk a hundred words Of thy tongue’s uttering, yet I know the sound. Art thou not [[Romeo]], and a Montague? |
+| [[Romeo|ROMEO]] | Neither, fair maid, if either thee dislike. |
+| [[Juliet|JULIET]] | How cam’st thou hither, tell me, and wherefore? The orchard walls are high and hard to climb, And the place [[Death|death]], considering who thou art, If any of my kinsmen find thee here. |
+| [[Romeo|ROMEO]] | With [[Love|love]]’s light wings did I o’erperch these walls, For stony limits cannot hold [[Love|love]] out, And what [[Love|love]] can do, that dares [[Love|love]] attempt. Therefore thy kinsmen are no stop to me. |
+| [[Juliet|JULIET]] | If they do see thee, they will murder thee. |
+| [[Romeo|ROMEO]] | Alack, there lies more peril in thine eye Than twenty of their swords. Look thou but sweet, And I am proof against their enmity. |
+| [[Juliet|JULIET]] | I would not for the world they saw thee here. |
+| [[Romeo|ROMEO]] | I have [[Night|night]]’s cloak to hide me from their eyes, And but thou [[Love|love]] me, let them find me here. My life were better ended by their hate Than [[Death|death]] prorogued, wanting of thy [[Love|love]]. |
+| [[Juliet|JULIET]] | By whose direction found’st thou out this place? |
+| [[Romeo|ROMEO]] | By [[Love|love]], that first did prompt me to enquire. He lent me counsel, and I lent him eyes. I am no pilot, yet wert thou as far As that vast shore washed with the farthest sea, I should adventure for such merchandise. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--04_monologue_juliet" data-title="Romeo and Juliet — Act II, Scene 1 — monologue (JULIET) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Juliet|JULIET]] | Thou knowest the mask of [[Night|night]] is on my face, Else would a maiden blush bepaint my cheek For that which thou hast heard me speak tonight. Fain would I dwell on form, fain, fain deny What I have spoke; but farewell, compliment. Dost thou [[Love|love]] me? I know thou wilt say ‘Ay’, And I will take thy word. Yet if thou swear‘st Thou mayst prove false. At [[lovers]]’ perjuries, They say, Jove laughs. O gentle [[Romeo]], If thou dost [[Love|love]], pronounce it faithfully; Or if thou think’st I am too quickly won, I’ll frown, and be perverse, and say thee nay, So thou wilt woo; but else, not for the world. In [[Truth|truth]], fair Montague, I am too fond, And therefore thou mayst think my ‘haviour light. But trust me, gentleman, I’ll prove more true Than those that have more cunning to be strange. I should have been more strange, I must confess, But that thou overheard’st, ere I was ware, My true-[[Love|love]] passion. Therefore pardon me, And not impute this yielding to light [[Love|love]], Which the dark [[Night|night]] hath so discoverèd. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--05_exchange_romeo" data-title="Romeo and Juliet — Act II, Scene 1 — exchange (ROMEO) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | Lady, by yonder blessèd [[Moon|moon]] I vow, That tips with silver all these fruit-tree tops— |
+| [[Juliet|JULIET]] | O swear not by the [[Moon|moon]], th’inconstant [[Moon|moon]] That monthly changes in her circled orb, Lest that thy [[Love|love]] prove likewise variable. |
+| [[Romeo|ROMEO]] | What shall I swear by? |
+| [[Juliet|JULIET]] | Do not swear at all, Or if thou wilt, swear by thy gracious [[Self|self]], Which is the god of my idolatry, And I’ll believe thee. |
+| [[Romeo|ROMEO]] | If my heart’s dear [[Love|love]]— |
+| [[Juliet|JULIET]] | [[Well]], do not swear. Although I joy in thee, I have no joy of this contract tonight. It is too rash, too unadvised, too sudden, Too like the [[Lightning|lightning]] which doth cease to be Ere one can say it lightens. Sweet, good [[Night|night]]. This bud of [[Love|love]] by [[Summer|summer]]’s ripening breath May prove a beauteous flower when next we meet. Good [[Night|night]], good [[Night|night]]. As sweet repose and rest Come to thy heart as that within my breast. |
+| [[Romeo|ROMEO]] | O, wilt thou leave me so unsatisfied? |
+| [[Juliet|JULIET]] | What satisfaction canst thou have tonight? |
+| [[Romeo|ROMEO]] | Th’exchange of thy [[Love|love]]’s faithful vow for mine. |
+| [[Juliet|JULIET]] | I gave thee mine before thou didst request it, And yet I would it were to give again. |
+| [[Romeo|ROMEO]] | Wouldst thou withdraw it? For what purpose, [[Love|love]]? |
+| [[Juliet|JULIET]] | But to be frank and give it thee again. And yet I wish but for the thing I have. My bounty is as boundless as the sea, My [[Love|love]] as deep. The more I give to thee The more I have, for both are infinite. [[Nurse]] calls within I hear some noise within. Dear [[Love|love]], adieu.— Anon, good [[Nurse]]!—Sweet Montague, be true. Stay but a little; I will come again. Exit |
+| [[Romeo|ROMEO]] | O blessed, blessèd [[Night|night]]! I am afeard, Being in [[Night|night]], all this is but [[A Dream|a dream]], Too flattering-sweet to be substantial. Enter [[Juliet]] aloft |
+| [[Juliet|JULIET]] | Three words, dear [[Romeo]], and good [[Night|night]] indeed. If that thy bent of [[Love|love]] be honourable, Thy purpose [[Marriage|marriage]], send me word tomorrow, By one that I’ll procure to come to thee, Where and what [[Time|time]] thou wilt perform the rite, And all my fortunes at thy foot I’ll lay, And follow thee, my lord, throughout the world. [[Nurse|NURSE]] (within) Madam! |
+| [[Juliet|JULIET]] | I come, anon. (To [[Romeo]]) But if thou mean’st not [[Well|well]], I do beseech thee— [[Nurse|NURSE]] (within) Madam! |
+| [[Juliet|JULIET]] | By and by I come.— To cease thy strife and leave me to my grief. Tomorrow will I send. |
+| [[Romeo|ROMEO]] | So thrive my [[Soul|soul]]— |
+| [[Juliet|JULIET]] | A thousand times good [[Night|night]]. Exit |
+| [[Romeo|ROMEO]] | A thousand times the worse to want thy light. [[Love]] goes toward [[Love|love]] as schoolboys from their books, But [[Love|love]] from [[Love|love]], toward school with heavy looks. He is going. Enter [[Juliet]] aloft again |
+| [[Juliet|JULIET]] | Hist, [[Romeo]]! Hist! O for a falconer’s voice To lure this tassel-gentle back again. Bondage is hoarse, and may not speak aloud, Else would I tear the [[Cave|cave]] where Echo lies, And make her airy tongue more hoarse than mine With repetition of my [[Romeo]]’s name. [[Romeo]]! |
+| [[Romeo|ROMEO]] | It is my [[Soul|soul]] that calls upon my name. How silver-sweet sound [[lovers]]’ tongues by [[Night|night]], Like softest music to attending ears! |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--06_exchange_juliet" data-title="Romeo and Juliet — Act II, Scene 1 — exchange (JULIET) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Juliet|JULIET]] | [[Romeo]]! |
+| [[Romeo|ROMEO]] | My nyas? |
+| [[Juliet|JULIET]] | What o’[[Clock|clock]] tomorrow Shall I send to thee? |
+| [[Romeo|ROMEO]] | By the hour of nine. |
+| [[Juliet|JULIET]] | I will not fail; ’tis twenty year till then. I have forgot why I did call thee back. |
+| [[Romeo|ROMEO]] | Let me stand here till thou remember it. |
+| [[Juliet|JULIET]] | I shall forget, to have thee still stand there, Rememb’ring how I [[Love|love]] thy company. |
+| [[Romeo|ROMEO]] | And I’ll still stay, to have thee still forget, Forgetting any other [[Home|home]] but this. |
+| [[Juliet|JULIET]] | ’Tis almost morning. I would have thee gone— And yet no farther than a wanton’s bird, That lets it hop a little from his hand, Like a poor prisoner in his twisted gyves, And with a silk thread plucks it back again, So loving-jealous of his liberty. |
+| [[Romeo|ROMEO]] | I would I were thy bird. |
+| [[Juliet|JULIET]] | Sweet, so would I. Yet I should kill thee with much cherishing. Good [[Night|night]], good [[Night|night]]. Parting is such sweet sorrow That I shall say good [[Night|night]] till it be morrow. [[Romeo|ROMEO]] [[Sleep]] dwell upon thine eyes, peace in thy breast. Exit [[Juliet]] Would I were [[Sleep|sleep]] and peace, so sweet to rest. Hence will I to my ghostly sire’s close cell, His help to crave, and my dear hap to tell. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Romeo and Juliet — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Benvolio]] and [[Mercutio]] |
+| [[Mercutio|MERCUTIO]] | Where the devil should this [[Romeo]] be? Came he not [[Home|home]] tonight? |
+| [[Benvolio|BENVOLIO]] | Not to his father’s. I spoke with his man. |
+| [[Mercutio|MERCUTIO]] | Why, that same pale hard-hearted wench, that [[Rosaline]], Torments him so that he will sure run mad. |
+| [[Benvolio|BENVOLIO]] | [[Tybalt]], the kinsman to old [[Capulet]], Hath sent a letter to his father’s [[house]]. |
+| [[Mercutio|MERCUTIO]] | A challenge, on my life. |
+| [[Benvolio|BENVOLIO]] | [[Romeo]] will answer it. |
+| [[Mercutio|MERCUTIO]] | Any man that can write may answer a letter. |
+| [[Benvolio|BENVOLIO]] | Nay, he will answer the letter’s master, how he dares, being dared. is |
+| [[Mercutio|MERCUTIO]] | Alas, poor [[Romeo]], he is already dead—stabbed with a white wench’s black eye, run through the ear with a [[Love|love]] [[Song|song]], the very pin of his heart cleft with the blind bow-boy’s butt-shaft; and is he a man to encounter [[Tybalt]]? [[Benvolio|BENVOLIO]] Why, what is [[Tybalt]]? |
+| [[Mercutio|MERCUTIO]] | More than Prince of Cats. O, he’s the courageous captain of compliments. He fights as you sing pricksong: keeps [[Time|time]], distance, and proportion. He rests his minim rests: one, two, and the third in your bosom; the very butcher of a silk button. A duellist, a duellist; a gentleman of the very first [[house]] of the first and second cause. Ah, the immortal passado, the puntoreverso, the hai. |
+| [[Benvolio|BENVOLIO]] | The what? |
+| [[Mercutio|MERCUTIO]] | The pox of such antic, lisping, affecting phantasims, these new tuners of accent! ‘By Jesu, a very good blade, a very tall man, a very good whore.’ Why is not this a lamentable thing, grandsire, that we should be thus afflicted with these strange flies, these fashion-mongers, these ‘pardon-me’s’, who stand so much on the new form that they cannot sit at ease on the old bench? O, their bones, their bones! Enter [[Romeo]] |
+| [[Benvolio|BENVOLIO]] | Here comes [[Romeo]], here comes [[Romeo]]! |
+| [[Mercutio|MERCUTIO]] | Without his roe, like a dried herring. O flesh, flesh, how art thou fishified ! Now is he for the numbers that Petrarch flowed in. Laura to his lady was a kitchen wench—marry, she had a better [[Love|love]] to berhyme her—Dido a dowdy, [[Cleopatra]] a gypsy, [[Helen]] and [[Hero]] hildings and harlots, Thisbe a grey eye or so, but not to the purpose. Signor [[Romeo]], bonjour. There’s a French salutation to your French slop. You gave us the counterfeit fairly last [[Night|night]]. |
+| [[Romeo|ROMEO]] | Good morrow to you both. What counterfeit did I give you? 45 |
+| [[Mercutio|MERCUTIO]] | The slip, sir, the slip. Can you not conceive ? |
+| [[Romeo|ROMEO]] | Pardon, good [[Mercutio]]. My business was great, and in such a case as mine a man may strain courtesy. |
+| [[Mercutio|MERCUTIO]] | That’s as much as to say such a case as yours constrains a man to bow in the hams. |
+| [[Romeo|ROMEO]] | Meaning to curtsy. |
+| [[Mercutio|MERCUTIO]] | Thou hast most kindly hit it. |
+| [[Romeo|ROMEO]] | A most courteous exposition. |
+| [[Mercutio|MERCUTIO]] | Nay, I am the very pink of courtesy. |
+| [[Romeo|ROMEO]] | Pink for flower. |
+| [[Mercutio|MERCUTIO]] | Right. |
+| [[Romeo|ROMEO]] | Why, then is my pump [[Well|well]] flowered. |
+| [[Mercutio|MERCUTIO]] | Sure wit, follow me this jest now till thou hast worn out thy pump, that when the single sole of it is worn, the jest may remain, after the wearing, solely singular. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--02_exchange_romeo_o" data-title="Romeo and Juliet — Act II, Scene 3 — exchange (ROMEO O) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | O single-soled jest, solely singular for the singleness! |
+| [[Mercutio|MERCUTIO]] | Come between us, good [[Benvolio]]. My wits faints. |
+| [[Romeo|ROMEO]] | Switch and spurs, switch and spurs, or I’ll cry a match. |
+| [[Mercutio|MERCUTIO]] | Nay, if our wits run the wild-goose chase, I am done, for thou hast more of the wild goose in one of thy wits than I am sure I have in my whole five. Was I with you there for the goose? |
+| [[Romeo|ROMEO]] | Thou wast never with me for anything when thou wast not there for the goose. |
+| [[Mercutio|MERCUTIO]] | I will bite thee by the ear for that jest. |
+| [[Romeo|ROMEO]] | Nay, good goose, bite not. |
+| [[Mercutio|MERCUTIO]] | Thy wit is very bitter sweeting, it is a most sharp sauce. |
+| [[Romeo|ROMEO]] | And is it not then [[Well|well]] served in to a sweet goose? |
+| [[Mercutio|MERCUTIO]] | O, here’s a wit of cheverel, that stretches from an inch narrow to an ell broad. |
+| [[Romeo|ROMEO]] | I stretch it out for that word ‘broad’, which, added to the goose, proves thee far and wide a broad goose. |
+| [[Mercutio|MERCUTIO]] | Why, is not this better now than groaning for [[Love|love]]? Now art thou sociable, now art thou [[Romeo]], now art thou what thou art by art as [[Well|well]] as by [[Nature|nature]], for this drivelling [[Love|love]] is like a great natural that runs lolling up and down to hide his bauble in a hole. |
+| [[Benvolio|BENVOLIO]] | Stop there, stop there. |
+| [[Mercutio|MERCUTIO]] | Thou desirest me to stop in my tale against the hair. |
+| [[Benvolio|BENVOLIO]] | Thou wouldst else have made thy tale large. [[Mercutio|MERCUTIO]] O, thou art deceived, I would have made it short, for I was come to the whole depth of my tale, and meant indeed to occupy the argument no longer. Enter the [[Nurse]], and Peter, her man |
+| [[Romeo|ROMEO]] | Here’s goodly gear. [[Benvolio|BENVOLIO]] A sail, a sail! |
+| [[Mercutio|MERCUTIO]] | Two, two—a shirt and a smock. |
+| [[Nurse|NURSE]] | Peter. |
+| PETER | Anon. |
+| [[Nurse|NURSE]] | My fan, Peter. |
+| [[Mercutio|MERCUTIO]] | Good Peter, to hide her face, for her fan’s the fairer face. |
+| [[Nurse|NURSE]] | God ye good morrow, gentlemen. |
+| [[Mercutio|MERCUTIO]] | God ye good e’en, fair gentlewoman. |
+| [[Nurse|NURSE]] | Is it good e’en? |
+| [[Mercutio|MERCUTIO]] | ’Tis no less, I tell ye: for the bawdy hand of the dial is now upon the prick of [[Noon|noon]]. |
+| [[Nurse|NURSE]] | Out upon you, what a man are you! |
+| [[Romeo|ROMEO]] | One, gentlewoman, that God hath made for himself to mar. |
+| [[Nurse|NURSE]] | By my troth, it is [[Well|well]] said. ‘For himself to mar’, quoth a? Gentlemen, can any of you tell me where I may find the young [[Romeo]]? |
+| [[Romeo|ROMEO]] | I can tell you, but young [[Romeo]] will be older when you have found him than he was when you sought him. I am the youngest of that name, for fault of a worse. |
+| [[Nurse|NURSE]] | You say [[Well|well]]. |
+| [[Mercutio|MERCUTIO]] | Yea, is the worst [[Well|well]]? Very [[Well|well]] took, i’[[Faith|faith]], wisely, wisely. |
+| [[Nurse|NURSE]] | (to [[Romeo]]) If you be he, sir, I [[Desire|desire]] some confidence with you. |
+| [[Benvolio|BENVOLIO]] | She will endite him to some supper. |
+| [[Mercutio|MERCUTIO]] | A bawd, a bawd, a bawd. So ho! |
+| [[Romeo|ROMEO]] | What hast thou found? |
+| [[Mercutio|MERCUTIO]] | No hare, sir, unless a hare, sir, in a lenten pie, that is something stale and hoar ere it be spent. He walks by them and sings An old hare hoar And an old hare hoar Is very good meat in Lent. But a hare that is hoar Is too much for a score When it hoars ere it be spent. [[Romeo]], will you come to your father’s ? We’ll to dinner thither. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--03_exchange_romeo_i" data-title="Romeo and Juliet — Act II, Scene 3 — exchange (ROMEO I) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | I will follow you. |
+| [[Mercutio|MERCUTIO]] | Farewell, ancient lady. Farewell, sings ‘lady, lady, lady’. Exeunt [[Mercutio]] and [[Benvolio]] |
+| [[Nurse|NURSE]] | I pray you, sir, what saucy merchant was this that was so full of his ropery? |
+| [[Romeo|ROMEO]] | A gentleman, [[Nurse]], that loves to hear himself talk, and will speak more in a minute than he will stand to in a month. |
+| [[Nurse|NURSE]] | An a speak anything against me, I’ll take him down an a were lustier than he is, and twenty such jacks; an if I cannot, I’ll find those that shall. Scurvy knave! I am none of his flirt-jills, I am none of his skeans-mates. (To Peter) And thou must stand by, too, and suffer every knave to use me at his pleasure. |
+| PETER | I saw no man use you at his pleasure. If I had, my weapon should quickly have been out; I warrant you, I dare draw as soon as another man if I see occasion in a good quarrel, and the law on my side. |
+| [[Nurse|NURSE]] | Now, afore God, I am so vexed that every part about me quivers. Scurvy knave! (To [[Romeo]]) Pray you, sir, a word; and, as I told you, my young lady bid me enquire you out. What she bid me say I will keep to myself, but first let me tell ye if ye should lead her in a [[Fool|fool]]’s paradise, as they say, it were a very gross kind of behaviour, as they say, for the gentlewoman is young; and therefore if you should deal [[Double|double]] with her, truly it were an ill thing to be offered to any gentlewoman, and very weak dealing. |
+| [[Romeo|ROMEO]] | [[Nurse]], commend me to thy lady and mistress. I protest unto thee— |
+| [[Nurse|NURSE]] | Good heart, and i’[[Faith|faith]] I will tell her as much. Lord, Lord, she will be a joyful woman. |
+| [[Romeo|ROMEO]] | What wilt thou tell her, [[Nurse]]? Thou dost not mark me. |
+| [[Nurse|NURSE]] | I will tell her, sir, that you do protest; which as I take it is a gentlemanlike offer. |
+| [[Romeo|ROMEO]] | Bid her devise Some means to come to shrift this afternoon, And there she shall at [[Friar Laurence]]’ cell Be shrived and married. (Offering money) Here is for thy pains. |
+| [[Nurse|NURSE]] | No, truly, sir, not a penny. |
+| [[Romeo|ROMEO]] | Go to, I say, you shall. |
+| [[Nurse|NURSE]] | taking the money This afternoon, sir. [[Well]], she shall be there. |
+| [[Romeo|ROMEO]] | And stay, good [[Nurse]], behind the abbey wall. Within this hour my man shall be with thee And bring thee cords made like a tackled stair, Which to the high topgallant of my joy Must be my convoy in the secret [[Night|night]]. Farewell. Be trusty, and I’ll quit thy pains. Farewell. Commend me to thy mistress. |
+| [[Nurse|NURSE]] | Now God in heaven bless thee! Hark you, sir. |
+| [[Romeo|ROMEO]] | What sayst thou, my dear [[Nurse]]? |
+| [[Nurse|NURSE]] | Is your man secret? Did you ne‘er hear say ‘Two may keep counsel, putting one away’ ? |
+| [[Romeo|ROMEO]] | I warrant thee my man’s as true as steel. |
+| [[Nurse|NURSE]] | [[Well]], sir, my mistress is the sweetest lady. Lord, Lord, when ’twas a little prating thing— O, there is a nobleman in town, one [[Paris]], That would fain lay knife aboard; but she, good [[Soul|soul]], Had as lief see a toad, a very toad, As see him. I anger her sometimes, And tell her that [[Paris]] is the properer man; But I’ll warrant you, when I say so she looks As pale as any clout in the versal world. Doth not rosemary and [[Romeo]] begin Both with a letter? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--04_exchange_romeo" data-title="Romeo and Juliet — Act II, Scene 3 — exchange (ROMEO) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | Ay, [[Nurse]], what of that? Both with an ‘R’. |
+| [[Nurse|NURSE]] | Ah, mocker—that’s the dog’s name. ’R’ is for the—no, I know it begins with some other letter, and she hath the prettiest sententious of it, of you and rosemary, that it would do you good to hear it. |
+| [[Romeo|ROMEO]] | Commend me to thy lady. |
+| [[Nurse|NURSE]] | Ay, a thousand times. Peter! |
+| PETER | Anon. |
+| [[Nurse|NURSE]] | giving Peter her fan Before, and apace. Exeunt Peter and [[Nurse]] at one door, [[Romeo]] at another door |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Romeo and Juliet — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Mercutio]] with his page, [[Benvolio]], and men |
+| [[Benvolio|BENVOLIO]] | I pray thee, good [[Mercutio]], let’s retire. The day is hot, the Capels are abroad, And if we meet we shall not scape a brawl, For now, these hot days, is the mad [[Blood|blood]] stirring. |
+| [[Mercutio|MERCUTIO]] | Thou art like one of these fellows that, when he enters the confines of a tavern, claps me his [[Sword|sword]] upon the table and says ‘God send me no need of thee’, and by the operation of the second cup, draws him on the drawer when indeed there is no need. |
+| [[Benvolio|BENVOLIO]] | Am I like such a fellow? |
+| [[Mercutio|MERCUTIO]] | Come, come, thou art as hot a jack in thy mood as any in [[Italy]], and as soon moved to be moody, and as soon moody to be moved. |
+| [[Benvolio|BENVOLIO]] | And what to? |
+| [[Mercutio|MERCUTIO]] | Nay, an there were two such, we should have none shortly, for one would kill the other. Thou—why, thou wilt quarrel with a man that hath a hair more or a hair less in his beard than thou hast. Thou wilt quarrel with a man for cracking nuts, having no other reason but because thou hast hazel eyes. What eye but such an eye would spy out such a quarrel? Thy head is as full of quarrels as an egg is full of meat, and yet thy head hath been beaten as addle as an egg for quarrelling. Thou hast quarrelled with a man for coughing in the street because he hath wakened thy dog that hath lain asleep in the sun. Didst thou not fall out with a tailor for wearing his new doublet before Easter; with another for tying his new shoes with old ribbon? And yet thou wilt tutor me from quarrelling! |
+| [[Benvolio|BENVOLIO]] | An I were so apt to quarrel as thou art, any man should buy the fee-simple of my life for an hour and a quarter. |
+| [[Mercutio|MERCUTIO]] | The fee simple? O, simple! Enter [[Tybalt]], Petruccio, and others |
+| [[Benvolio|BENVOLIO]] | By my head, here comes the Capulets. |
+| [[Mercutio|MERCUTIO]] | By my heel, I care not. |
+| [[Tybalt|TYBALT]] | (to Petruccio and the others) Follow me close, for I will speak to them. (To the Montagues) Gentlemen, good e’en. A word with one of you. |
+| [[Mercutio|MERCUTIO]] | And but one word with one of us? Couple it with something: make it a word and a blow. |
+| [[Tybalt|TYBALT]] | You shall find me apt enough to that, sir, an you will give me occasion. |
+| [[Mercutio|MERCUTIO]] | Could you not take some occasion without giving ? |
+| [[Tybalt|TYBALT]] | [[Mercutio]], thou consort’st with [[Romeo]]. |
+| [[Mercutio|MERCUTIO]] | ‘Consort’ ? What, dost thou make us minstrels? An thou make minstrels of us, look to hear nothing but discords. touching his rapier Here’s my fiddlestick; here’s that shall make you [[Dance|dance]]. Zounds—‘Consort’! |
+| [[Benvolio|BENVOLIO]] | We talk here in the public haunt of men. Either withdraw unto some private place, Or reason coldly of your grievances, Or else depart. Here all eyes gaze on us. |
+| [[Mercutio|MERCUTIO]] | Men’s eyes were made to look, and let them gaze. I will not budge for no man’s pleasure, I. Enter [[Romeo]] |
+| [[Tybalt|TYBALT]] | [[Well]], peace be with you, sir. Here comes my man. |
+| [[Mercutio|MERCUTIO]] | But I’ll be hanged, sir, if he wear your livery. Marry, go before to field, he’ll be your follower. Your worship in that sense may call him ‘man’. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--02_exchange_tybalt" data-title="Romeo and Juliet — Act III, Scene 1 — exchange (TYBALT) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Tybalt|TYBALT]] | [[Romeo]], the [[Love|love]] I bear thee can afford No better term than this: thou art a [[Villain|villain]]. |
+| [[Romeo|ROMEO]] | [[Tybalt]], the reason that I have to [[Love|love]] thee Doth much excuse the appertaining rage To such a greeting. [[Villain]] am I none. Therefore, farewell. I see thou knowest me not. |
+| [[Tybalt|TYBALT]] | Boy, this shall not excuse the injuries That thou hast done me. Therefore turn and draw. |
+| [[Romeo|ROMEO]] | I do protest I never injured thee, But [[Love|love]] thee better than thou canst devise Till thou shalt know the reason of my [[Love|love]]. And so, good [[Capulet]]—which name I tender As dearly as mine own—be satisfied. |
+| [[Mercutio|MERCUTIO]] | drawing O calm, dishonourable, vile submission! 1 Alla stoccado carries it away. [[Tybalt]], you ratcatcher, come, will you walk? |
+| [[Tybalt|TYBALT]] | What wouldst thou have with me? |
+| [[Mercutio|MERCUTIO]] | Good [[King]] of Cats, nothing but one of your nine lives. That I mean to make bold withal, and, as you shall use me hereafter, dry-beat the rest of the eight. Will you pluck your [[Sword|sword]] out of his pilcher by the ears? Make haste, lest mine be about your ears ere it be out. |
+| [[Tybalt|TYBALT]] | (drawing) I am for you. |
+| [[Romeo|ROMEO]] | Gentle [[Mercutio]], put thy rapier up. |
+| [[Mercutio|MERCUTIO]] | (to [[Tybalt]]) Come, sir, your passado. They fight |
+| [[Romeo|ROMEO]] | drawing Draw, [[Benvolio]]. Beat down their weapons. Gentlemen, for shame forbear this outrage. [[Tybalt]], [[Mercutio]], the Prince expressly hath Forbid this bandying in [[Verona]] streets. Hold, [[Tybalt]], good [[Mercutio]]. [[Romeo]] beats down their points and rushes between them. [[Tybalt]] under [[Romeo]]’s arm thrusts [[Mercutio]] in PETRUCCIO Away, [[Tybalt]]! Exeunt [[Tybalt]], Petruccio, and their followers |
+| [[Mercutio|MERCUTIO]] | I am hurt. A plague o’ both your houses. I am sped. Is he gone, and hath nothing? |
+| [[Benvolio|BENVOLIO]] | What, art thou hurt? |
+| [[Mercutio|MERCUTIO]] | Ay, ay, a scratch, a scratch; marry, ’tis enough. Where is my page? Go, [[Villain|villain]]. Fetch a surgeon. Exit page |
+| [[Romeo|ROMEO]] | [[Courage]], man. The hurt cannot be much. |
+| [[Mercutio|MERCUTIO]] | No, ‘tis not so deep as a [[Well|well]], nor so wide as a church door, but ’tis enough. ’Twill serve. Ask for me tomorrow, and you shall find me a [[Grave|grave]] man. I am peppered, I warrant, for this world. A plague o’ both your houses! Zounds, a dog, a rat, a mouse, a cat, to scratch a man to [[Death|death]]! A braggart, a rogue, a [[Villain|villain]], that fights by the book of arithmetic! Why the devil came you between us ? I was hurt under your arm. |
+| [[Romeo|ROMEO]] | I thought all for the best. |
+| [[Mercutio|MERCUTIO]] | Help me into some [[house]], [[Benvolio]], Or I shall faint. A plague o’ both your houses. They have made worms’ meat of me. I have it, and soundly, too. Your houses! Exeunt all but [[Romeo]] |
+| [[Romeo|ROMEO]] | This gentleman, the Prince’s near ally, My very friend, hath got this mortal hurt In my behalf, my reputation stained With [[Tybalt]]’s slander—[[Tybalt]], that an hour Hath been my cousin! O sweet [[Juliet]], Thy [[Beauty|beauty]] hath made me effeminate, And in my temper softened valour’s steel. Enter [[Benvolio]] |
+| [[Benvolio|BENVOLIO]] | O [[Romeo]], [[Romeo]], brave [[Mercutio]] is dead! That gallant spirit hath aspired the clouds, Which too untimely here did scorn the earth. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--03_exchange_romeo" data-title="Romeo and Juliet — Act III, Scene 1 — exchange (ROMEO) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | This day’s black fate on more days doth depend. This but begins the woe others must end. Enter [[Tybalt]] |
+| [[Benvolio|BENVOLIO]] | Here comes the furious [[Tybalt]] back again. |
+| [[Romeo|ROMEO]] | He gad in triumph, and [[Mercutio]] slain ? Away to heaven, respective lenity, And [[Fire|fire]]-eyed fury be my conduct now. Now, [[Tybalt]], take the ‘[[Villain|villain]]’ back again That late thou gav’st me, for [[Mercutio]]’s [[Soul|soul]] Is but a little way above our heads, Staying for thine to keep him company. Either thou, or I, or both must go with him. |
+| [[Tybalt|TYBALT]] | Thou, wretched boy, that didst consort him here, Shalt with him hence. |
+| [[Romeo|ROMEO]] | This shall determine that. They fight. [[Tybalt]] is wounded. He falls and dies |
+| [[Benvolio|BENVOLIO]] | [[Romeo]], away, be gone. The citizens are up, and [[Tybalt]] slain. Stand not amazed. The Prince will doom thee [[Death|death]] If thou art taken. Hence, be gone, away. |
+| [[Romeo|ROMEO]] | O, I am fortune’s [[Fool|fool]]! |
+| [[Benvolio|BENVOLIO]] | Why dost thou stay? Exit [[Romeo]] Enter Citizens of the watchi |
+| CITIZEN | 0F THE WATCH Which way ran he that killed [[Mercutio]]? [[Tybalt]], that murderer, which way ran he? |
+| [[Benvolio|BENVOLIO]] | There lies that [[Tybalt]]. |
+| CITIZEN | OF THE WATCH (to [[Tybalt]]) Up, sir, go with me. I charge thee in the Prince’s name, obey. Enter the Prince, old Montague, [[Capulet]], their Wives, and all |
+| PRINCE | Where are the vile beginners of this fray? |
+| [[Benvolio|BENVOLIO]] | O noble Prince, I can discover all The unlucky manage of this fatal brawl. There lies the man, slain by young [[Romeo]], That slew thy kinsman, brave [[Mercutio]]. |
+| [[Capulet|CAPULET]]’S WIFE | [[Tybalt]], my cousin, O, my brother’s [[Child|child]]! O Prince, O cousin, husband! O, the [[Blood|blood]] is spilled Of my dear kinsman ! Prince, as thou art true, For [[Blood|blood]] of ours shed [[Blood|blood]] of Montague! O cousin, cousin! |
+| PRINCE | [[Benvolio]], who began this fray? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--04_monologue_benvolio" data-title="Romeo and Juliet — Act III, Scene 1 — monologue (BENVOLIO) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benvolio|BENVOLIO]] | [[Tybalt]], here slain, whom [[Romeo]]’s hand did slay. [[Romeo]], that spoke him fair, bid him bethink How nice the quarrel was, and urged withal Your high displeasure. All this-utterèd With gentle breath, calm look, knees humbly bowed— Could not take truce with the unruly spleen Of [[Tybalt]] deaf to peace, but that he tilts With piercing steel at bold [[Mercutio]]’s breast, Who, all as hot, turns deadly point to point, And, with a martial scorn, with one hand beats Cold [[Death|death]] aside, and with the other sends It back to [[Tybalt]], whose dexterity Retorts it. [[Romeo]], he cries aloud, ‘Hold, friends, friends, part!’ and swifter than his tongue His agent arm beats down their fatal points, And ’twixt them rushes, underneath whose arm An envious thrust from [[Tybalt]] hit the life Of stout [[Mercutio]], and then [[Tybalt]] fled, But by and by comes back to [[Romeo]], Who had but newly entertained [[Revenge|revenge]], And to’t they go like [[Lightning|lightning]]; for ere I Could draw to part them was stout [[Tybalt]] slain, And as he fell did [[Romeo]] turn and fly. This is the [[Truth|truth]], or let [[Benvolio]] die. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--05_exchange_capulets_wife" data-title="Romeo and Juliet — Act III, Scene 1 — exchange (CAPULET’S WIFE) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Capulet|CAPULET]]’S WIFE | He is a kinsman to the Montague. Affection makes him false; he speaks not true. Some twenty of them fought in this black strife, And all those twenty could but kill one life. I beg for justice, which thou, Prince, must give. [[Romeo]] slew [[Tybalt]]; [[Romeo]] must not live. |
+| PRINCE | [[Romeo]] slew him, he slew [[Mercutio]]. Who now the price of his dear [[Blood|blood]] doth owe? MONTAGUE Not [[Romeo]], Prince. He was [[Mercutio]]’s friend. His fault concludes but what the law should end, The life of [[Tybalt]]. |
+| PRINCE | And for that offence Immediately we do [[Exile|exile]] him hence. I have an interest in your hate’s proceeding; My [[Blood|blood]] for your rude brawls doth lie a-bleeding. But I’ll amerce you with so strong a fine That you shall all repent the loss of mine. I will be deaf to pleading and excuses. Nor [[Tears|tears]] nor prayers shall purchase out abuses. Therefore use none. Let [[Romeo]] hence in haste, Else, when he is found, that hour is his last. Bear hence this [[Body|body]], and attend our will. [[Mercy]] but murders, pardoning those that kill. Exeunt with the [[Body|body]] |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="Romeo and Juliet — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Juliet]] |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--02_monologue_juliet" data-title="Romeo and Juliet — Act III, Scene 2 — monologue (JULIET) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Juliet|JULIET]] | Gallop apace, you fiery-footed steeds, Towards Phoebus’ lodging. Such a waggoner As Phaeton would whip you to the west And bring in cloudy [[Night|night]] immediately. Spread thy close curtain, [[Love|love]]-performing [[Night|night]], That runaways’ eyes may wink, and [[Romeo]] Leap to these arms untalked of and unseen. [[lovers|Lovers]] can see to do their amorous rites By their own beauties; or, if [[Love|love]] be blind, It best agrees with [[Night|night]]. Come, civil [[Night|night]], Thou sober-suited matron all in black, And learn me how to lose a winning match Played for a pair of stainless maidenhoods. Hood my unmanned [[Blood|blood]], bating in my cheeks, With thy black mantle till strange [[Love|love]] grown bold Think true [[Love|love]] acted simple modesty. Come [[Night|night]], come [[Romeo]]; come, thou day in [[Night|night]], For thou wilt lie upon the wings of [[Night|night]] Whiter than new [[Snow|snow]] on a raven’s back. Come, gentle [[Night|night]]; come, loving, black-browed [[Night|night]], Give me my [[Romeo]], and when I shall die Take him and cut him out in little [[Stars|stars]], And he will make the face of heaven so fine That all the world will be in [[Love|love]] with [[Night|night]] And pay no worship to the garish sun. O, I have bought the mansion of a [[Love|love]] But not possessed it, and though I am sold, Not yet enjoyed. So tedious is this day As is the [[Night|night]] before some festival To an impatient [[Child|child]] that hath new robes And may not wear them. Enter the [[Nurse]], wringing her hands, with the ladder of cords in her lap O, here comes my [[Nurse]], And she brings news, and every tongue that speaks But [[Romeo]]’s name speaks heavenly eloquence. Now, [[Nurse]], what news ? What, hast thou there The cords that [[Romeo]] bid thee fetch? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--03_exchange_nurse" data-title="Romeo and Juliet — Act III, Scene 2 — exchange (NURSE) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Nurse|NURSE]] | putting down the cords Ay, ay, the cords. |
+| [[Juliet|JULIET]] | Ay me, what news? Why dost thou wring thy hands? |
+| [[Nurse|NURSE]] | Ah, welladay! He’s dead, he’s dead, he’s dead! We are undone, lady, we are undone. Alack the day, he’s gone, he’s killed, he’s dead! |
+| [[Juliet|JULIET]] | Can heaven be so envious? |
+| [[Nurse|NURSE]] | [[Romeo]] can, Though heaven cannot. O [[Romeo]], [[Romeo]], Who ever would have thought it [[Romeo]]? |
+| [[Juliet|JULIET]] | What devil art thou that dost torment me thus? This torture should be roared in dismal hell. Hath [[Romeo]] slain himself? Say thou but ‘Ay’, And that bare vowel ‘I’ shall [[Poison|poison]] more Than the [[Death|death]]-darting eye of cockatrice. I am not I if there be such an ‘Ay’, Or those eyes shut that makes thee answer ‘Ay’. If he be slain, say ‘Ay’; or if not, ‘No’. Brief sounds determine of my weal or woe. |
+| [[Nurse|NURSE]] | I saw the wound, I saw it with mine eyes, God save the mark, here on his manly breast— A piteous corpse, a bloody, piteous corpse— Pale, pale as ashes, all bedaubed in [[Blood|blood]], All in gore [[Blood|blood]]; I swooned at the sight. |
+| [[Juliet|JULIET]] | O, break, my heart, poor bankrupt, break at once! To [[Prison|prison]], eyes; ne’er look on liberty. Vile earth, to earth resign; end motion here, And thou and [[Romeo]] press one heavy bier! |
+| [[Nurse|NURSE]] | O [[Tybalt]], [[Tybalt]], the best friend I had! O courteous [[Tybalt]], honest gentleman, That ever I should live to see thee dead! |
+| [[Juliet|JULIET]] | What [[Storm|storm]] is this that blows so contrary? Is [[Romeo]] slaughtered, and is [[Tybalt]] dead? My dearest cousin and my dearer lord? Then, dreadful trumpet, sound the general doom, For who is living if those two are gone? |
+| [[Nurse|NURSE]] | [[Tybalt]] is gone and [[Romeo]] banished. [[Romeo]] that killed him—he is banished. |
+| [[Juliet|JULIET]] | O God, did [[Romeo]]’s hand shed [[Tybalt]]’s [[Blood|blood]]? [[Nurse|NURSE]] It did, it did, alas the day, it did. [[Juliet|JULIET]] O serpent heart hid with a flow‘ring face! Did ever dragon keep so fair a [[Cave|cave]]? Beautiful [[Tyrant|tyrant]], fiend angelical! Dove-feathered raven, wolvish-ravening [[Lamb|lamb]]! Despisèd substance of divinest show! Just opposite to what thou justly seem’st— A damnèd saint, an honourable [[Villain|villain]]. O [[Nature|nature]], what hadst thou to do in hell When thou didst bower the spirit of a fiend In mortal paradise of such sweet flesh? Was ever book containing such vile matter So fairly bound? O, that deceit should dwell In such a gorgeous palace! |
+| [[Nurse|NURSE]] | There’s no trust, no [[Faith|faith]], no honesty in men; All perjured, all forsworn, all naught, dissemblers all. Ah, where’s my man? Give me some aqua vitae. These griefs, these woes, these sorrows make me old. Shame come to [[Romeo]]! |
+| [[Juliet|JULIET]] | Blistered be thy tongue For such a wish! He was not born to shame. Upon his brow shame is ashamed to sit, For ’tis a throne where [[Honour|honour]] may be crowned Sole monarch of the universal earth. O, what a beast was I to chide at him! |
+| [[Nurse|NURSE]] | Will you speak [[Well|well]] of him that killed your cousin? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--04_monologue_juliet" data-title="Romeo and Juliet — Act III, Scene 2 — monologue (JULIET) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Juliet|JULIET]] | Shall I speak ill of him that is my husband? Ah, poor my lord, what tongue shall smooth thy name When I, thy three-hours wife, have mangled it? But wherefore, [[Villain|villain]], didst thou kill my cousin? That [[Villain|villain]] cousin would have killed my husband. Back, foolish [[Tears|tears]], back to your native [[spring]]! Your tributary drops belong to woe, Which you, mistaking, offer up to joy. My husband lives, that [[Tybalt]] would have slain; And [[Tybalt]]’s dead, that would have slain my husband. All this is comfort. Wherefore weep I then? Some word there was, worser than [[Tybalt]]’s [[Death|death]], That murdered me. I would forget it fain, But O, it presses to my [[Memory|memory]] Like damned guilty deeds to sinners’ minds! ‘[[Tybalt]] is dead, and [[Romeo]] banished.’ That ‘banishèd’, that one word ‘banishèd’ Hath slain ten thousand Tybalts. [[Tybalt]]’s [[Death|death]] Was woe enough, if it had ended there; Or, if sour woe delights in fellowship And needly will be ranked with other griefs, Why followed not, when she said ‘[[Tybalt]]’s dead’, ‘Thy father’, or ‘thy mother’, nay, or both, Which modern lamentation might have moved? But with a rearward following [[Tybalt]]’s [[Death|death]], ‘[[Romeo]] is banishèd‘-to speak that word Is father, mother, [[Tybalt]], [[Romeo]], [[Juliet]], All slain, all dead. ‘[[Romeo]] is banishèd’— There is no end, no limit, measure, bound, In that word’s [[Death|death]]. No words can that woe sound. Where is my father and my mother, [[Nurse]]? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--05_exchange_nurse" data-title="Romeo and Juliet — Act III, Scene 2 — exchange (NURSE) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Nurse|NURSE]] | Weeping and wailing over [[Tybalt]]’s corpse. Will you go to them? I will bring you thither. |
+| [[Juliet|JULIET]] | Wash they his wounds with [[Tears|tears]]; mine shall be spent When theirs are dry, for [[Romeo]]’s banishment. Take up those cords. Poor ropes, you are beguiled, Both you and I, for [[Romeo]] is exiled. He made you for a highway to my bed, But I, a maid, die maiden-widowed. Come, cords; come, [[Nurse]]; I’ll to my wedding bed, And [[Death|death]], not [[Romeo]], take my maidenhead! |
+| [[Nurse|NURSE]] | (taking up the cords) Hie to your chamber. I’ll find [[Romeo]] To comfort you. I wot [[Well|well]] where he is. Hark ye, your [[Romeo]] will be here at [[Night|night]]. I’ll to him. He is hid at Laurence’ cell. |
+| [[Juliet|JULIET]] | (giving her a ring) O, find him! Give this ring to my true knight, And bid him come to take his last farewell. Exeunt severally |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--01_exchange_dialogue" data-title="Romeo and Juliet — Act III, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Friar Laurence]] |
+| [[Friar Laurence|FRIAR LAURENCE]] | [[Romeo]], come forth, come forth, thou [[Fear|fear]]-full man. Affliction is enamoured of thy parts, And thou art wedded to calamity. Enter [[Romeo]] |
+| [[Romeo|ROMEO]] | Father, what news? What is the Prince’s doom? What sorrow craves acquaintance at my hand That I yet know not? |
+| [[Friar Laurence|FRIAR LAURENCE]] | Too familiar Is my dear son with such sour company. I bring thee tidings of the Prince’s doom. |
+| [[Romeo|ROMEO]] | What less than doomsday is the Prince’s doom? |
+| [[Friar Laurence|FRIAR LAURENCE]] | A gentler judgement vanished from his lips: Not [[Body|body]]’s [[Death|death]], but [[Body|body]]’s banishment. |
+| [[Romeo|ROMEO]] | Ha, banishment? Be merciful, say ‘[[Death|death]]’, For [[Exile|exile]] hath more terror in his look, Much more than [[Death|death]]. Do not say ‘banishment’. |
+| [[Friar Laurence|FRIAR LAURENCE]] | Hence from [[Verona]] art thou banished. Be patient, for the world is broad and wide. |
+| [[Romeo|ROMEO]] | There is no world without [[Verona]] walls But purgatory, torture, hell itself. Hence banished is banished from the world, And world’s [[Exile|exile]] is [[Death|death]]. Then ‘banishèd’ Is [[Death|death]] mistermed. Calling [[Death|death]] ‘banishèd’ Thou cutt‘st my head off with a golden axe, And smil’st upon the stroke that murders me. |
+| [[Friar Laurence|FRIAR LAURENCE]] | O deadly sin, O rude unthankfulness! Thy fault our law calls [[Death|death]], but the kind Prince, Taking thy part, hath rushed aside the law And turned that black word ’[[Death|death]]’ to banishment. This is dear [[Mercy|mercy]], and thou seest it not. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--02_monologue_romeo" data-title="Romeo and Juliet — Act III, Scene 3 — monologue (ROMEO) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | ‘Tis torture, and not [[Mercy|mercy]]. Heaven is here Where [[Juliet]] lives, and every cat and dog And little mouse, every unworthy thing, Live here in heaven and may look on her, But [[Romeo]] may not. More validity, More honourable state, more courtship lives In carrion flies than [[Romeo]]. They may seize On the white [[Wonder|wonder]] of dear [[Juliet]]’s hand, And steal immortal blessing from her lips, Who, even in pure and vestal modesty, Still blush, as thinking their own kisses sin. But [[Romeo]] may not, he is banished. Flies may do this, but I from this must fly. They are free men, but I am banished. And sayst thou yet that [[Exile|exile]] is not [[Death|death]]? Hadst thou no [[Poison|poison]] mixed, no sharp-ground knife, No sudden mean of [[Death|death]], though ne’er so mean, But ‘banishèd’ to kill me—‘banishèd’? O friar, the damned use that word in hell. Howling attends it. How hast thou the heart, Being a divine, a ghostly confessor, A sin-absolver and my friend professed, To mangle me with that word ‘banishèd’? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--03_exchange_friar_laurence" data-title="Romeo and Juliet — Act III, Scene 3 — exchange (FRIAR LAURENCE) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Friar Laurence|FRIAR LAURENCE]] | Thou fond mad man, hear me a little speak. |
+| [[Romeo|ROMEO]] | O, thou wilt speak again of banishment. |
+| [[Friar Laurence|FRIAR LAURENCE]] | I’ll give thee armour to keep off that word— Adversity’s sweet milk, [[philosophy]], To comfort thee though thou art banished. |
+| [[Romeo|ROMEO]] | Yet ‘banishèd’? Hang up [[philosophy]]! Unless [[philosophy]] can make a [[Juliet]], Displant a town, reverse a prince’s doom, It helps not, it prevails not. Talk no more. |
+| [[Friar Laurence|FRIAR LAURENCE]] | O, then I see that madmen have no ears. |
+| [[Romeo|ROMEO]] | How should they, when that wise men have no eyes? |
+| [[Friar Laurence|FRIAR LAURENCE]] | Let me dispute with thee of thy estate. |
+| [[Romeo|ROMEO]] | Thou canst not speak of that thou dost not feel. Wert thou as young as I, [[Juliet]] thy [[Love|love]], An hour but married, [[Tybalt]] murdered, Doting like me, and like me banished, Then mightst thou speak, then mightst thou tear thy hair, And fall upon the ground, as I do now, He falls upon the ground |
+| [[Romeo|ROMEO]] | Taking the measure of an unmade [[Grave|grave]]. Knock within |
+| [[Friar Laurence|FRIAR LAURENCE]] | Arise, one knocks. Good [[Romeo]], hide thyself. |
+| [[Romeo|ROMEO]] | Not I, unless the breath of heartsick groans Mist-like enfold me from the search of eyes. Knocking within |
+| [[Friar Laurence|FRIAR LAURENCE]] | Hark, how they knock!—Who’s there?—[[Romeo]], arise. Thou wilt be taken.—Stay a white.—Stand up. Still knock within Run to my study.—By and by!—God’s will, What simpleness is this? Knock within I come, I come. Who knocks so hard? Whence come you? What’s your will? |
+| [[Nurse|NURSE]] | (within) Let me come in, and you shall know my errand. I come from Lady [[Juliet]]. |
+| [[Friar Laurence|FRIAR LAURENCE]] | opening the door Welcome then. Enter the [[Nurse]] |
+| [[Nurse|NURSE]] | O holy friar, O tell me, holy friar, Where is my lady’s lord? Where’s [[Romeo]]? |
+| [[Friar Laurence|FRIAR LAURENCE]] | There on the ground, with his own [[Tears|tears]] made drunk. |
+| [[Nurse|NURSE]] | O, he is even in my mistress’ case, Just in her case! O woeful sympathy, Piteous predicament! Even so lies she, Blubb’ring and weeping, weeping and blubb’ring. (To [[Romeo]]) Stand up, stand up, stand an you be a man, For [[Juliet]]’s sake, for her sake, rise and stand. Why should you fall into so deep an O? |
+| [[Romeo|ROMEO]] | (rising) [[Nurse]]. |
+| [[Nurse|NURSE]] | Ah sir, ah sir, [[Death|death]]’s the end of all. |
+| [[Romeo|ROMEO]] | Spak’st thou of [[Juliet]]? How is it with her? Doth not she think me an old murderer, Now I have stained the [[Childhood|childhood]] of our joy With [[Blood|blood]] removed but little from her own? Where is she, and how doth she, and what says My concealed lady to our cancelled [[Love|love]]? |
+| [[Nurse|NURSE]] | O, she says nothing, sir, but weeps and weeps, And now falls on her bed, and then starts up, And ’[[Tybalt]]’ calls, and then on [[Romeo]] cries, And then down falls again. |
+| [[Romeo|ROMEO]] | As if that name Shot from the deadly level of a gun Did murder her as that name’s cursed hand Murdered her kinsman. O tell me, friar, tell me, In what vile part of this anatomy Doth my name lodge? Tell me, that I may sack The hateful mansion. He offers to stab himself, and the [[Nurse]] snatches the dagger away |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--04_monologue_friar_laurence" data-title="Romeo and Juliet — Act III, Scene 3 — monologue (FRIAR LAURENCE) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Friar Laurence|FRIAR LAURENCE]] | Hold thy desperate hand. Art thou a man? Thy form cries out thou art. Thy [[Tears|tears]] are womanish, thy wild acts denote The unreasonable fury of a beast. Unseemly woman in a seeming man, And ill-beseeming beast in seeming both! Thou hast amazed me. By my holy order, I thought thy disposition better tempered. Hast thou slain [[Tybalt]]? Wilt thou slay thyself, And slay thy lady that in thy life lives By doing damned hate upon thyself? Why rail‘st thou on thy birth, the heaven, and earth, Since birth and heaven and earth, all three, do meet In thee at once, which thou at once wouldst lose? Fie, fie, thou sham’st thy shape, thy [[Love|love]], thy wit, Which like a usurer abound‘st in all, And usest none in that true use indeed Which should bedeck thy shape, thy [[Love|love]], thy wit. Thy noble shape is but a form of wax, Digressing from the valour of a man; Thy dear [[Love|love]] sworn but hollow perjury, Killing that [[Love|love]] which thou hast vowed to cherish; Thy wit, that ornament to shape and [[Love|love]], Misshapen in the conduct of them both, Like powder in a skilless soldier’s flask Is set afire by thine own ignorance, And thou dismembered with thine own defence. What, rouse thee, man! Thy [[Juliet]] is alive, For whose dear sake thou wast but lately dead: There art thou happy. [[Tybalt]] would kill thee, But thou slewest [[Tybalt]]: there art thou happy. The law that threatened [[Death|death]] becomes thy friend, And turns it to [[Exile|exile]]: there art thou happy. A pack of blessings light upon thy back, Happiness courts thee in her best array, But, like a mishavèd and sullen wench, Thou pout’st upon thy fortune and thy [[Love|love]]. Take heed, take heed, for such die miserable. Go, get thee to thy [[Love|love]], as was decreed. Ascend her chamber; hence and comfort her. But look thou stay not till the watch be set, For then thou canst not pass to Mantua, Where thou shalt live till we can find a [[Time|time]] To blaze your [[Marriage|marriage]], reconcile your friends, Beg pardon of the Prince, and call thee back With twenty hundred thousand times more joy Than thou went’st forth in lamentation. Go before, [[Nurse]]. Commend me to thy lady, And bid her hasten all the [[house]] to bed, Which heavy sorrow makes them apt unto. [[Romeo]] is coming. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--05_exchange_nurse" data-title="Romeo and Juliet — Act III, Scene 3 — exchange (NURSE) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Nurse|NURSE]] | O Lord, I could have stayed here all the [[Night|night]] To hear good counsel! O, what learning is! My lord, I’ll tell my lady you will come. |
+| [[Romeo|ROMEO]] | Do so, and bid my sweet prepare to chide. [[Nurse]] offers to go in, and turns again |
+| [[Nurse|NURSE]] | (giving the ring) Here, sir, a ring she bid me give you, sir. Hie you, make haste, for it grows very late. |
+| [[Romeo|ROMEO]] | How [[Well|well]] my comfort is revived by this. Exit [[Nurse]] |
+| [[Friar Laurence|FRIAR LAURENCE]] | Go hence, good [[Night|night]], and here stands all your state. Either be gone before the watch be set, Or by the break of day disguised from hence. Sojourn in Mantua. I’ll find out your man, And he shall signify from [[Time|time]] to [[Time|time]] Every good hap to you that chances here. Give me thy hand. ’Tis late. Farewell. Good [[Night|night]]. |
+| [[Romeo|ROMEO]] | But that a joy past joy calls out on me, It were a grief so brief to part with thee. Farewell. Exeunt severally |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_5--01_exchange_dialogue" data-title="Romeo and Juliet — Act III, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Romeo]] and [[Juliet]] aloft with the ladder of cords |
+| [[Juliet|JULIET]] | Wilt thou be gone? It is not yet near day. It was the [[Nightingale|nightingale]], and not the lark, That pierced the [[Fear|fear]]-full hollow of thine ear. Nightly she sings on yon pom’granate tree. Believe me, [[Love|love]], it was the [[Nightingale|nightingale]]. |
+| [[Romeo|ROMEO]] | It was the lark, the herald of the morn, No [[Nightingale|nightingale]]. Look, [[Love|love]], what envious streaks Do lace the severing clouds in yonder east. [[Night]]’s candles are burnt out, and jocund day Stands tiptoe on the misty mountain tops. I must be gone and live, or stay and die. |
+| [[Juliet|JULIET]] | Yon light is not daylight; I know it, I. It is some meteor that the sun exhaled To be to thee this [[Night|night]] a torchbearer And light thee on thy way to Mantua. Therefore stay yet. Thou need’st not to be gone. |
+| [[Romeo|ROMEO]] | Let me be ta‘en, let me be put to [[Death|death]]. I am content, so thou wilt have it so. I’ll say yon grey is not the morning’s eye, ’Tis but the pale reflex of [[Cynthia]]’s brow; Nor that is not the lark whose notes do beat The vaulty heaven so high above our heads. I have more care to stay than will to go. Come, [[Death|death]], and welcome; [[Juliet]] wills it so. How is’t, my [[Soul|soul]]? Let’s talk. It is not day. |
+| [[Juliet|JULIET]] | It is, it is. Hie hence, be gone, away. It is the lark that sings so out of tune, Straining harsh discords and unpleasing sharps. Some say the lark makes sweet division; This doth not so, for she divideth us. Some say the lark and loathed toad changed eyes. O, now I would they had changed voices, too, Since arm from arm that voice doth us affray, Hunting thee hence with hunt’s-up to the day. O, now be gone! More light and light it grows. |
+| [[Romeo|ROMEO]] | More light and light, more dark and dark our woes. Enter the [[Nurse]] hastily |
+| [[Nurse|NURSE]] | Madam. |
+| [[Juliet|JULIET]] | [[Nurse]]. |
+| [[Nurse|NURSE]] | Your lady mother is coming to your chamber. The day is broke; be wary, look about. Exit |
+| [[Juliet|JULIET]] | Then, [[Window|window]], let day in, and let life out. |
+| [[Romeo|ROMEO]] | Farewell, farewell! One kiss, and I’ll descend. He lets down the ladder of cords and goes down |
+| [[Juliet|JULIET]] | Art thou gone so, [[Love|love]], lord, my husband, friend? I must hear from thee every day in the hour, For in a minute there are many days. O, by this count I shall be much in years Ere I again behold my [[Romeo]]. |
+| [[Romeo|ROMEO]] | Farewell. I will omit no opportunity That may convey my greetings, [[Love|love]], to thee. |
+| [[Juliet|JULIET]] | O, think’st thou we shall ever meet again? |
+| [[Romeo|ROMEO]] | I [[Doubt|doubt]] it not, and all these woes shall serve For sweet discourses in our times to come. [[Juliet|JULIET]] O God, I have an ill-divining [[Soul|soul]]! Methinks I see thee, now thou art so low, As one dead in the [[Bottom|bottom]] of a tomb. Either my eyesight fails, or thou look’st pale. |
+| [[Romeo|ROMEO]] | And trust me, [[Love|love]], in my eye so do you. Dry sorrow drinks our [[Blood|blood]]. Adieu, adieu. Exit |
+| [[Juliet|JULIET]] | pulling up the ladder and weeping O fortune, fortune, all men call thee fickle. If thou art fickle, what dost thou with him That is renowned for [[Faith|faith]]? Be fickle, fortune, For then I [[Hope|hope]] thou wilt not keep him long, But send him back. Enter [[Capulet]]’s Wife below |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_5--02_exchange_capulets_wife" data-title="Romeo and Juliet — Act III, Scene 5 — exchange (CAPULET’S WIFE) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Capulet|CAPULET]]’S WIFE | Ho, daughter, are you up? |
+| [[Juliet|JULIET]] | Who is’t that calls? It is my lady mother. Is she not down so late, or up so early? What unaccustomed cause procures her hither? She goes down and enters below |
+| [[Capulet|CAPULET]]’S WIFE | Why, how now, [[Juliet]]? |
+| [[Juliet|JULIET]] | Madam, I am not [[Well|well]]. |
+| [[Capulet|CAPULET]]’S WIFE | Evermore weeping for your cousin’s [[Death|death]]? What, wilt thou wash him from his [[Grave|grave]] with [[Tears|tears]]? An if thou couldst, thou couldst not make him live, Therefore have done. Some grief shows much of [[Love|love]], But much of grief shows still some want of wit. |
+| [[Juliet|JULIET]] | Yet let me weep for such a feeling loss. |
+| [[Capulet|CAPULET]]’S WIFE | So shall you feel the loss, but not the friend Which you so weep for. |
+| [[Juliet|JULIET]] | Feeling so the loss, I cannot choose but ever weep the friend. |
+| [[Capulet|CAPULET]]’S WIFE | [[Well]], girl, thou weep’st not so much for his [[Death|death]] As that the [[Villain|villain]] lives which slaughtered him. |
+| [[Juliet|JULIET]] | What [[Villain|villain]], madam? |
+| [[Capulet|CAPULET]]’S WIFE | That same [[Villain|villain]] [[Romeo]]. |
+| [[Juliet|JULIET]] | (aside) [[Villain]] and he be many miles asunder. (To her mother) God pardon him—I do, with all my heart, And yet no man like he doth grieve my heart. |
+| [[Capulet|CAPULET]]’S WIFE | That is because the traitor murderer lives. |
+| [[Juliet|JULIET]] | Ay, madam, from the reach of these my hands. Would none but I might venge my cousin’s [[Death|death]]. |
+| [[Capulet|CAPULET]]’S WIFE | We will have vengeance for it, [[Fear|fear]] thou not. Then weep no more. I’ll send to one in Mantua, Where that same banished runagate doth live, Shall give him such an unaccustomed dram That he shall soon keep [[Tybalt]] company; And then I [[Hope|hope]] thou wilt be satisfied. |
+| [[Juliet|JULIET]] | Indeed, I never shall be satisfied With [[Romeo]] till I behold him, dead, Is my poor heart so for a kinsman vexed. Madam, if you could find out but a man To bear a [[Poison|poison]], I would temper it That [[Romeo]] should, upon receipt thereof, Soon [[Sleep|sleep]] in quiet. O, how my heart abhors To hear him named and cannot come to him To wreak the [[Love|love]] I bore my cousin Upon his [[Body|body]] that hath slaughtered him! |
+| [[Capulet|CAPULET]]’S WIFE | Find thou the means, and I’ll find such a man. But now I’ll tell thee joyful tidings, girl. |
+| [[Juliet|JULIET]] | And joy comes [[Well|well]] in such a needy [[Time|time]]. What are they, I beseech your ladyship? |
+| [[Capulet|CAPULET]]’S WIFE | [[Well]], [[Well|well]], thou hast a careful father, [[Child|child]]; One who, to put thee from thy heaviness, Hath sorted out a sudden day of joy That thou expect’st not, nor I looked not for. |
+| [[Juliet|JULIET]] | Madam, in happy [[Time|time]]. What day is that? |
+| [[Capulet|CAPULET]]’S WIFE | Marry, my [[Child|child]], early next [[thursday|Thursday]] morn The gallant, young, and noble gentleman The County [[Paris]] at Saint Peter’s Church Shall happily make thee there a joyful bride. |
+| [[Juliet|JULIET]] | Now, by Saint Peter’s Church, and Peter too, He shall not make me there a joyful bride. I [[Wonder|wonder]] at this haste, that I must wed Ere he that should be husband comes to woo. I pray you, tell my lord and father, madam, I will not marry yet; and when I do, I swear It shall be [[Romeo]]—whom you know I hate— Rather than [[Paris]]. These are news indeed. Enter [[Capulet]] and the [[Nurse]] |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_5--03_exchange_capulets_wife" data-title="Romeo and Juliet — Act III, Scene 5 — exchange (CAPULET’S WIFE) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Capulet|CAPULET]]’S WIFE | Here comes your father. Tell him so yourself, And see how he will take it at your hands. |
+| [[Capulet|CAPULET]] | When the sun sets, the earth doth drizzle dew, But for the sunset of my brother’s son It rains downright. How now, a conduit, girl? What, still in [[Tears|tears]]? Evermore show‘ring? In one little [[Body|body]] Thou counterfeit’st a barque, a sea, a [[Wind|wind]], For still thy eyes—which I may call the sea— Do ebb and flow with [[Tears|tears]]. The barque thy [[Body|body]] is, Sailing in this salt flood; the winds thy sighs, Who, raging with thy [[Tears|tears]] and they with them, Without a sudden calm will overset Thy tempest-tossed [[Body|body]].—How now, wife? Have you delivered to her our decree? |
+| [[Capulet|CAPULET]]’S WIFE | Ay, sir, but she will none, she gives you thanks. I would the [[Fool|fool]] were married to her [[Grave|grave]]. |
+| [[Capulet|CAPULET]] | Soft, take me with you, take me with you, wife. How, will she none? Doth she not give us thanks? Is she not proud? Doth she not count her blest, Unworthy as she is, that we have wrought So worthy a gentleman to be her bride? |
+| [[Juliet|JULIET]] | Not proud you have, but thankful that you have. Proud can I never be of what I hate, But thankful even for hate that is meant [[Love|love]]. |
+| [[Capulet|CAPULET]] | How, how, how, how—chopped [[logic]]? What is this? ‘Proud’, and ‘I thank you’, and ’I thank you not’, And yet ‘not proud’ ? Mistress minion, you, Thank me no thankings, nor proud me no prouds, But fettle your fine joints ’gainst [[thursday|Thursday]] next To go with [[Paris]] to Saint Peter’s Church, Or I will drag thee on a hurdle thither. Out, you green-sickness carrion! Out, you baggage, You tallow-face! |
+| [[Capulet|CAPULET]]’S WIFE | Fie, fie, what, are you mad? |
+| [[Juliet|JULIET]] | (kneeling) Good father, I beseech you on my knees, Hear me with patience but to speak a word. |
+| [[Capulet|CAPULET]] | Hang thee, young baggage, disobedient wretch! I tell thee what: get thee to church o’ [[thursday|Thursday]], Or never after look me in the face. Speak not, reply not, do not answer me. [[Juliet]] rises My fingers itch. Wife, we scarce thought us blest That God had lent us but this only [[Child|child]], But now I see this one is one too much, And that we have a curse in having her. Out on her, hilding! |
+| [[Nurse|NURSE]] | God in heaven bless her! You are to blame, my lord, to rate her so. |
+| [[Capulet|CAPULET]] | And why, my lady Wisdom? Hold your tongue, Good Prudence. Smatter with your gossips, go! |
+| [[Nurse|NURSE]] | I speak no treason. [[Capulet|CAPULET]] O, God-i’-good-e’en! [[Nurse|NURSE]] May not one speak? |
+| [[Capulet|CAPULET]] | Peace, you mumbling [[Fool|fool]], Utter your gravity o’er a gossip’s bowl, For here we need it not. |
+| [[Capulet|CAPULET]]’S WIFE | You are too hot. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_5--04_monologue_capulet" data-title="Romeo and Juliet — Act III, Scene 5 — monologue (CAPULET) [4]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Capulet|CAPULET]] | God’s bread, it makes me mad. Day, [[Night|night]]; work, play; [[Alone]], in company, still my care hath been To have her matched; and having now provided A gentleman of noble parentage, Of fair demesnes, youthful, and nobly lined, Stuffed, as they say, with honourable parts, Proportioned as one’s thought would wish a man— And then to have a wretched puling [[Fool|fool]], A whining maumet, in her fortune’s tender, To answer ‘I’ll not wed, I cannot [[Love|love]]; I am too young, I pray you pardon me’! But an you will not wed, I’ll pardon you! Graze where you will, you shall not [[house]] with me. Look to‘t, think on’t. I do not use to jest. [[thursday|Thursday]] is near. Lay hand on heart. Advise. An you be mine, I’ll give you to my friend. An you be not, hang, beg, starve, die in the streets, For, by my [[Soul|soul]], I’ll ne’er acknowledge thee, Nor what is mine shall never do thee good. Trust to’t. Bethink you. I’ll not be forsworn. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_5--05_exchange_juliet" data-title="Romeo and Juliet — Act III, Scene 5 — exchange (JULIET) [5]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Juliet|JULIET]] | Is there no pity sitting in the clouds That sees into the [[Bottom|bottom]] of my grief’ O sweet my mother, cast me not away! Delay this [[Marriage|marriage]] for a month, a week; Or if you do not, make the bridal bed In that dim monument where [[Tybalt]] lies. |
+| [[Capulet|CAPULET]]’S WIFE | Talk not to me, for I’ll not speak a word. Do as thou wilt, for I have done with thee. Exit |
+| [[Juliet|JULIET]] | O, God—ONurse, how shall this be prevented? My husband is on earth, my [[Faith|faith]] in heaven. How shall that [[Faith|faith]] return again to earth Unless that husband send it me from heaven By leaving earth? Comfort me, counsel me. Alack, alack, that heaven should practise stratagems Upon so soft a subject as myself! What sayst thou? Hast thou not a word of joy? Some comfort, [[Nurse]]. |
+| [[Nurse|NURSE]] | [[Faith]], here it is: [[Romeo]] Is banished, and all the world to nothing That he dares ne‘er come back to challenge you, Or if he do, it needs must be by stealth. Then, since the case so stands as now it doth, I think it best you married with the County. O, he’s a lovely gentleman! [[Romeo]]’s a dishclout to him. An eagle, madam, Hath not so green, so quick, so fair an eye As [[Paris]] hath. Beshrew my very heart, I think you are happy in this second match, For it excels your first; or if it did not, Your first is dead, or ’twere as good he were As living hence and you no use of him. |
+| [[Juliet|JULIET]] | Speak’st thou from thy heart? |
+| [[Nurse|NURSE]] | And from my [[Soul|soul]], too, else beshrew them both. |
+| [[Juliet|JULIET]] | Amen. |
+| [[Nurse|NURSE]] | What? |
+| [[Juliet|JULIET]] | [[Well]], thou hast comforted me marvellous much. Go in; and tell my lady I am gone, Having displeased my father, to Laurence’ cell To make confession and to be absolved. |
+| [[Nurse|NURSE]] | Marry, I will; and this is wisely done. Exit |
+| [[Juliet|JULIET]] | (watching her go) Ancient damnation! O most wicked fiend! Is it more sin to wish me thus forsworn, Or to dispraise my lord with that same tongue Which she hath praised him with above compare So many thousand times? Go, counsellor! Thou and my bosom henceforth shall be twain. I’ll to the friar, to know his remedy. If all else fail, myself have power to die. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--01_exchange_dialogue" data-title="Romeo and Juliet — Act IV, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Capulet]]’s Wife, and the [[Nurse]] With herbs |
+| [[Capulet|CAPULET]]’S WIFE | Hold, take these keys, and fetch more spices, [[Nurse]]. |
+| [[Nurse|NURSE]] | They call for dates and quinces in the pastry. Enter [[Capulet]] |
+| [[Capulet|CAPULET]] | Come, stir, stir, stir! The second cock hath crowed. The curfew bell hath rung. ’Tis three o’[[Clock|clock]]. Look to the baked meats, good Angelica. Spare not for cost. |
+| [[Nurse|NURSE]] | Go, you cot-quean, go. Get you to bed. [[Faith]], you’ll be sick tomorrow For this [[Night|night]]’s watching. |
+| [[Capulet|CAPULET]] | No, not a whit. What, I have watched ere now All [[Night|night]] for lesser cause, and ne’er been sick. |
+| [[Capulet|CAPULET]]’S WIFE | Ay, you have been a mouse-hunt in your [[Time|time]], But I will watch you from such watching now. Exeunt [[Capulet]]’s Wife and [[Nurse]] |
+| [[Capulet|CAPULET]] | A jealous-hood, a jealous-hood! Enter three or four Servingmen, with spits and logs and baskets Now, fellow, what is there? |
+| FIRST SERVINGMAN | Things for the cook, sir, but I know not what. |
+| [[Capulet|CAPULET]] | Make haste, make haste. Exit First Servingman and one or two others Sirrah, fetch drier logs. Call Peter. He will show thee where they are. |
+| SECOND SERVINGMAN | I have a head, sir, that will find out logs And never trouble Peter for the matter. |
+| [[Capulet|CAPULET]] | Mass, and [[Well|well]] said! A merry whoreson, ha! Thou shalt be loggerhead. Exit Second Servingman |
+| [[Capulet|CAPULET]] | Good [[Faith|faith]], ’tis day. The County will be here with music straight, For so he said he would. Music plays within I hear him near. [[Nurse]]! Wife! What ho, what, [[Nurse]], I say! Enter the [[Nurse]] Go waken [[Juliet]]. Go and trim her up. I’ll go and chat with [[Paris]]. Hie, make haste, Make haste, the bridegroom he is come already. Make haste, I say. Exit |
+| [[Nurse|NURSE]] | Mistress, what, mistress! [[Juliet]]! Fast, I warrant her, she. Why, [[Lamb|lamb]], why, lady! Fie, you slug-abed! Why, [[Love|love]], I say, madam, sweetheart, why, bride! What, not a word? You take your pennyworths now. [[Sleep]] for a week, for the next [[Night|night]], I warrant, The County [[Paris]] hath set up his rest That you shall rest but little. God forgive me! Marry, and amen. How sound is she asleep! I needs must wake her. Madam, madam, madam! Ay, let the County take you in your bed. He’ll fright you up, i’[[Faith|faith]]. Will it not be? She draws back the curtains What, dressed and in your clothes, and down again? I must needs wake you. Lady, lady, lady! Alas, alas! Help, help! My lady’s dead. O welladay, that ever I was born! Some aqua-vitae, ho! My lord, my lady! Enter [[Capulet]]’s Wife |
+| [[Capulet|CAPULET]]’S WIFE | What noise is here? |
+| [[Nurse|NURSE]] | O lamentable day! |
+| [[Capulet|CAPULET]]’S WIFE | What is the matter? |
+| [[Nurse|NURSE]] | Look, look. O heavy day! |
+| [[Capulet|CAPULET]]’S WIFE | O me, O me, my [[Child|child]], my only life! Revive, look up, or I will die with thee. Help, help, call help! Enter [[Capulet]] |
+| [[Capulet|CAPULET]] | For shame, bring [[Juliet]] forth. Her lord is come. |
+| [[Nurse|NURSE]] | She’s dead, deceased. She’s dead, alack the day! |
+| [[Capulet|CAPULET]]’S WIFE | Alack the day, she’s dead, she’s dead, she’s dead! |
+| [[Capulet|CAPULET]] | Ha, let me see her! Out, alas, she’s cold. Her [[Blood|blood]] is settled, and her joints are stiff. Life and these lips have long been separated. [[Death]] lies on her like an untimely [[Frost|frost]] Upon the sweetest flower of all the field. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--02_exchange_nurse" data-title="Romeo and Juliet — Act IV, Scene 4 — exchange (NURSE) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Nurse|NURSE]] | O lamentable day! |
+| [[Capulet|CAPULET]]’S WIFE | O woeful [[Time|time]]! |
+| [[Capulet|CAPULET]] | [[Death]], that hath ta’en her hence to make me wail, Ties up my tongue, and will not let me speak. Enter [[Friar Laurence]] and [[Paris]], with Musicians |
+| [[Friar Laurence|FRIAR LAURENCE]] | Come, is the bride ready to go to church? |
+| [[Capulet|CAPULET]] | Ready to go, but never to return. (To [[Paris]]) O son, the [[Night|night]] before thy wedding day Hath [[Death|death]] lain with thy wife. See, there she lies, Flower as she was, deflowered by him. [[Death]] is my son-in-law, [[Death|death]] is my heir. My daughter he hath wedded. I will die, And leave him all. Life, living, all is [[Death|death]]’s. [[Paris]], [[Capulet]] and his Wife, and the [[Nurse]] all at once wring their hands and cry out together: |
+| [[Paris|PARIS]] | Have I thought long to see this morning’s face, And doth it give me such a sight as this? Beguiled, divorced, wronged, spited, slain! Most detestable [[Death|death]], by thee beguiled, By cruel, cruel thee quite overthrown. O [[Love|love]], O life: not life, but [[Love|love]] in [[Death|death]]. |
+| [[Capulet|CAPULET]]’S WIFE | Accursed, unhappy, wretched, hateful day! Most miserable hour that e’er [[Time|time]] saw In lasting labour of his pilgrimage! But one, poor one, one poor and loving [[Child|child]], But one thing to rejoice and solace in, And cruel [[Death|death]] hath catched it from my sight! |
+| [[Nurse|NURSE]] | O woe! O woeful, woeful, woeful day! Most lamentable day! Most woeful day That ever, ever, I did yet behold! O day, O day, O day, O hateful day, Never was seen so black a day as this I O woeful day, O woeful day! 85 |
+| [[Capulet|CAPULET]] | Despised, distressed, hated, martyred, killed! Uncomfortable [[Time|time]], why cam’st thou now To murder, murder our solemnity? O [[Child|child]], O [[Child|child]], my [[Soul|soul]] and not my [[Child|child]]! Dead art thou, alack, my [[Child|child]] is dead, And with my [[Child|child]] my joys are buried. |
+| [[Friar Laurence|FRIAR LAURENCE]] | Peace, ho, for shame! Confusion’s cure lives not In these confusions. Heaven and yourself Had part in this fair maid. Now heaven hath all, And all the better is it for the maid. Your part in her you could not keep from [[Death|death]], But heaven keeps his part in eternal life. The most you sought was her promotion, For ’twas your heaven she should be advanced, And weep ye now, seeing she is advanced Above the clouds as high as heaven itself? O, in this [[Love|love]] you [[Love|love]] your [[Child|child]] so ill That you run mad, seeing that she is [[Well|well]]. She’s not [[Well|well]] married that lives married long, But she’s best married that dies married young. Dry up your [[Tears|tears]], and stick your rosemary On this fair corpse, and, as the custom is, All in her best array bear her to church; For though fond [[Nature|nature]] bids us all lament, Yet [[Nature|nature]]’s [[Tears|tears]] are reason’s merriment. |
+| [[Capulet|CAPULET]] | All things that we ordained festival Turn from their office to black funeral. Our instruments to [[Melancholy|melancholy]] [[Bells|bells]], Our wedding cheer to a sad burial feast, Our solemn hymns to sullen dirges change; Our bridal [[Flowers|flowers]] serve for a buried corpse, And all things change them to the contrary. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--03_exchange_friar_laurence" data-title="Romeo and Juliet — Act IV, Scene 4 — exchange (FRIAR LAURENCE) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Friar Laurence|FRIAR LAURENCE]] | Sir, go you in; and madam, go with him, And go, Sir [[Paris]]. Everyone prepare To follow this fair corpse unto her [[Grave|grave]]. The heavens do lour upon you for some ill. Move them no more by crossing their high will. They cast rosemary on [[Juliet]], and shut the curtains. Exeunt all but the [[Nurse]] and Musicians FIRST MUSICIAN [[Faith]], we may put up our pipes and be gone. |
+| [[Nurse|NURSE]] | Honest good fellows, ah, put up, put up, For [[Well|well]] you know this is a pitiful case. FIRST MUSICIAN Ay, by my troth, the case may be amended. Exit [[Nurse]] Enter Peter |
+| PETER | Musicians, O, musicians! ‘Heart’s ease’, ‘Heart’s ease’; O,an you will have me live, play ‘Heart’s ease’. FIRST MUSICIAN Why ‘Heart’s ease’? |
+| PETER | O, musicians, because my heart itself plays ‘My heart is full of woe’. O, play me some merry dump to comfort me. FIRST MUSICIAN Not a dump, we. ’Tis no [[Time|time]] to play now. |
+| PETER | You will not then? |
+| FIRST MUSICIAN | No. |
+| PETER | I will then give it you soundly. |
+| FIRST MUSICIAN | What will you give us? |
+| PETER | No money, on my [[Faith|faith]], but the gleek. I will give you the minstrel. |
+| FIRST MUSICIAN | Then will I give you the serving-creature. |
+| PETER | (drawing his dagger) Then will I lay the serving-creature’s dagger on your pate. I will carry no crochets. I’ll re you, I’ll fa you. Do you note me? |
+| FIRST MUSICIAN | An you re us and fa us, you note us. |
+| SECOND MUSICIAN | Pray you, put up your dagger and put out your wit. PETER Then have at you with my wit. I will dry-beat you with an iron wit, and put up my iron dagger. Answer me like men. Sings When griping grief the heart doth wound, And doleful dumps the mind oppress, Then music with her silver sound— Why ‘silver sound’, why ‘music with her silver sound’? What say you, Matthew Minikin? |
+| FIRST MUSICIAN | Marry, sir, because silver hath a sweet sound. |
+| PETER | Prates! What say you, Hugh Rebec? |
+| SECOND MUSICIAN | I say ’silver sound’ because musicians sound for silver. |
+| PETER | Prates too! What say you, Simon Soundpost? |
+| THIRD MUSICIAN | [[Faith]], I know not what to say. |
+| PETER | O, I cry you [[Mercy|mercy]], you are the singer. I will say for you. It is ’music with her silver sound’ because musicians have no gold for sounding. Sings Then music with her silver sound With speedy help doth lend redress. Exit |
+| FIRST MUSICIAN | What a pestilent knave is this same! |
+| SECOND MUSICIAN | Hang him, jack! Come, we’ll in here, tarry for the mourners, and stay dinner. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--01_exchange_dialogue" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Paris]] and his Page, with [[Flowers|flowers]], sweet [[Water|water]], and a torch |
+| [[Paris|PARIS]] | Give me thy torch, boy. Hence, and stand aloof. Yet put it out, for I would not be seen. His Page puts out the torch Under yon yew trees lay thee all along, Holding thy ear close to the hollow ground. So shall no foot upon the churchyard tread, 5 Being loose, unfirm, with digging up of graves, But thou shalt hear it. Whistle then to me As signal that thou hear’st something approach. Give me those [[Flowers|flowers]]. Do as I bid thee. Go. |
+| PAGE | aside I am almost afraid to stand [[Alone|alone]] 10 Here in the churchyard, yet I will adventure. He hides himself at a distance from [[Paris]] |
+| [[Paris|PARIS]] | (strewing [[Flowers|flowers]]) Sweet flower, with [[Flowers|flowers]] thy bridal bed I strew. He sprinkles [[Water|water]] O woe! Thy canopy is [[Dust|dust]] and stones, Which with sweet [[Water|water]] nightly I will dew, Or, wanting that, with [[Tears|tears]] distilled by moans. The obsequies that I for thee will keep Nightly shall be to strew thy [[Grave|grave]] and weep. The Page whistles The boy gives warning. Something doth approach. What cursed foot wanders this way tonight To [[Cross|cross]] my obsequies and true [[Love|love]]’s rite? 20 Enter [[Romeo]] and Balthasar his man, with a torch, a mattock, and a crow of iron What, with a torch? Muffle me, [[Night|night]], a while. He stands aside |
+| [[Romeo|ROMEO]] | Give me that mattock and the wrenching iron. Hold, take this letter. Early in the morning See thou deliver it to my lord and father. Give me the light. Upon thy life I charge thee, 25 Whate’er thou hear’st or seest, stand all aloof, And do not interrupt me in my course. Why I descend into this bed of [[Death|death]] Is partly to behold my lady’s face, But chiefly to take thence from her dead finger A precious ring, a ring that I must use In dear employment. Therefore hence, be gone. But if thou, jealous, dost return to pry In what I farther shall intend to do, By heaven, I will tear thee joint by joint, And strew this hungry churchyard with thy limbs. The [[Time|time]] and my intents are savage-wild, More fierce and more inexorable far Than empty tigers or the roaring sea. BALTHASAR I will be gone, sir, and not trouble ye. 40 |
+| [[Romeo|ROMEO]] | So shalt thou show me [[Friendship|friendship]]. Take thou that. He gives money Live and be prosperous, and farewell, good fellow. BALTHASAR (aside) For all this same, I’ll hide me hereabout. His looks I [[Fear|fear]], and his intents I [[Doubt|doubt]]. He hides himself at a distance from [[Romeo]]. [[Romeo]] begins to jorce open the tombs |
+| [[Romeo|ROMEO]] | Thou detestable maw, thou womb of [[Death|death]], Gorged with the dearest morsel of the earth, Thus I enforce thy rotten jaws to open, And in despite I’ll cram thee with more food. |
+| [[Paris|PARIS]] | (aside) This is that banished haughty Montague That murdered my [[Love|love]]’s cousin, with which grief It is supposed the fair creature died; And here is come to do some villainous shame To the dead bodies. I will apprehend him. Drawing Stop thy unhallowed toil, vile Montague! Can vengeance be pursued further than [[Death|death]]? 55 Condemned [[Villain|villain]], I do apprehend thee. Obey and go with me, for thou must die. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--02_exchange_romeo" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (ROMEO) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | I must indeed, and therefore came I hither. Good gentle youth, tempt not a desp’rate man. Fly hence, and leave me. Think upon these gone. 60 Let them affright thee. I beseech thee, youth, Put not another sin upon my head By urging me to fury. O, be gone. By heaven, I [[Love|love]] thee better than myself, For I come hither armed against myself. 65 Stay not, be gone. Live, and hereafter say A madman’s [[Mercy|mercy]] bid thee run away. |
+| [[Paris|PARIS]] | I do defy thy conjuration, And apprehend thee for a felon here. |
+| [[Romeo|ROMEO]] | (drawing) Wilt thou provoke me? Then have at thee, boy. 70 They fight PAGE O Lord, they fight! I I will go call the watch. Exit |
+| [[Paris|PARIS]] | O, I am slainǃ If thou be merciful, Open the tomb, lay me with [[Juliet]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--03_monologue_romeo" data-title="Romeo and Juliet — Act V, Scene 3 — monologue (ROMEO) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Romeo|ROMEO]] | In [[Faith|faith]], I will. [[Paris]] dies Let me peruse this face. [[Mercutio]]’s kinsman, noble County [[Paris]]! 75 What said my man when my betossèd [[Soul|soul]] Did not attend him as we rode? I think He told me [[Paris]] should have married [[Juliet]]. Said he not so? Or did I dream it so? Or am I mad, hearing him talk of [[Juliet]], 80 To think it was so? O, give me thy hand, One writ with me in sour misfortune’s book. I’ll bury thee in a triumphant [[Grave|grave]]. Heopens the tomb, revealing [[Juliet]] A [[Grave|grave]]—O no, a lantern, slaughtered youth, For here lies [[Juliet]], and her [[Beauty|beauty]] makes This vault a feasting presence full of light. He bears the [[Body|body]] of [[Paris]] to the tombs [[Death]], lie thou there, by a dead man interred. How oft, when men are at the point of [[Death|death]], Have they been merry, which their keepers call A [[Lightning|lightning]] before [[Death|death]]! O, how may I 90 Call this a [[Lightning|lightning]]? O my [[Love|love]], my wife! [[Death]], that hath sucked the honey of thy breath, Hath had no power yet upon thy [[Beauty|beauty]]. Thou art not conquered. [[Beauty]]’s ensign yet Is crimson in thy lips and in thy cheeks, And [[Death|death]]’s pale [[Flag|flag]] is not advanced there. [[Tybalt]], liest thou there in thy bloody sheet? O, what more favour can I do to thee Than with that hand that cut thy youth in twain To sunder his that was thine enemy? Forgive me, cousin. Ah, dear [[Juliet]], Why art thou yet so fair? Shall I believe That unsubstantial [[Death|death]] is amorous, And that the lean abhorred [[Monster|monster]] keeps Thee here in dark to be his paramour? 105 For [[Fear|fear]] of that I still will stay with thee, And never from this pallet of dim [[Night|night]] Depart again. Here, here will I remain With worms that are thy chambermaids. O, here Will I set up my everlasting rest, 110 And shake the yoke of inauspicious [[Stars|stars]] From this world-wearied flesh. Eyes, look your last. Arms, take your last embrace, and lips, O you The doors of breath, seal with a righteous kiss A dateless bargain to engrossing [[Death|death]]. He kisses [[Juliet]], then pours [[Poison|poison]] into the cup Come, bitter conduct, come, unsavoury guide, Thou desperate pilot, now at once run on The dashing rocks thy seasick weary barque! Here’s to my [[Love|love]]. He drinks the [[Poison|poison]] O true apothecary, Thy drugs are quick! Thus with a kiss I die. He kisses [[Juliet]], falls, and dies. Enter [[Friar Laurence]] with lantern, crow, and spade |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--04_exchange_friar_laurence" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (FRIAR LAURENCE) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Friar Laurence|FRIAR LAURENCE]] | Saint Francis be my [[Speed|speed]]! How oft tonight Have my old feet stumbled at graves? Who’s there? |
+| BALTHASAR | Here’s one, a friend, and one that knows you [[Well|well]]. |
+| [[Friar Laurence|FRIAR LAURENCE]] | Bliss be upon you. Tell me, good my friend, What torch is yon that vainly lends his light 125 To grubs and eyeless skulls? As I discern, It burneth in the Capels’ monument. |
+| BALTHASAR | It doth so, holy sir, and there’s my master, One that you [[Love|love]]. |
+| [[Friar Laurence|FRIAR LAURENCE]] | Who is it? |
+| BALTHASAR | [[Romeo]]. |
+| [[Friar Laurence|FRIAR LAURENCE]] | How long hath he been there? |
+| BALTHASAR | Full half an hour. |
+| [[Friar Laurence|FRIAR LAURENCE]] | Go with me to the vault. |
+| BALTHASAR | I dare not, sir. My master knows not but I am gone hence, And fearfully did menace me with [[Death|death]] If I did stay to look on his intents. |
+| [[Friar Laurence|FRIAR LAURENCE]] | Stay then, I’ll go [[Alone|alone]]. [[Fear]] comes upon me. 135 O, much I [[Fear|fear]] some ill unthrifty thing. |
+| BALTHASAR | As I did [[Sleep|sleep]] under this yew tree here I dreamt my master and another fought, And that my master slew him. |
+| [[Friar Laurence|FRIAR LAURENCE]] | [[Romeo]]! He stoops and looks on the [[Blood|blood]] and weapons Alack, alack, what [[Blood|blood]] is this which stains 140 The stony entrance of this sepulchre? What mean these masterless and gory swords To lie discoloured by this place of peace? [[Romeo]]! O, pale! Who else? What, [[Paris]], too, And steeped in [[Blood|blood]]? Ah, what an unkind hour Is guilty of this lamentable chance I [[Juliet]] awakes and rises The lady stirs. |
+| [[Juliet|JULIET]] | O comfortable friar, where is my lord? I do remember [[Well|well]] where I should be, And there I am. Where is my [[Romeo]]? 150 |
+| [[Friar Laurence|FRIAR LAURENCE]] | I hear some noise. Lady, come from that nest Of [[Death|death]], contagion, and unnatural [[Sleep|sleep]]. A greater power than we can contradict Hath thwarted our intents. Come, come away. Thy husband in thy bosom there lies dead, 155 And [[Paris]], too. Come, I’ll dispose of thee Among a sisterhood of holy nuns. Stay not to question, for the watch is coming. Come, go, good [[Juliet]]. I dare no longer stay. Exit |
+| [[Juliet|JULIET]] | Go, get thee hence, for I will not away. 160 What’s here? A cup closed in my true [[Love|love]]’s hand? [[Poison]], I see, hath been his timeless end. O churt!—drunk all, and left no friendly drop To help me after? I will kiss thy lips. Haply some [[Poison|poison]] yet doth hang on them, To make me die with a restorative. She kisses [[Romeo]]’s lips Thy lips are warm. |
+| CHIEF WATCHMAN | within Lead, boy. Which way? |
+| [[Juliet|JULIET]] | Yea, noise? Then I’ll be brief. She takes [[Romeo]]’s dagger O happy dagger, This is thy sheath! There rust, and let me die. She stabs herself, falls, and dies. Enter the Page and Watchmen PAGE This is the place, there where the torch doth burn. 170 |
+| CHIEF WATCHMAN | The ground is bloody. Search about the churchyard. Go, some of you. Whoe’er you find, attach. Exeunt some Watchmen Pitiful sight! Here lies the County slain, And [[Juliet]] bleeding, warm, and newly dead, Who here hath lain this two days buried. Go tell the Prince. Run to the Capulets, Raise up the Montagues. Some others search. Exeunt other Watchmen severally We see the ground whereon these woes do lie, But the true ground of all these piteous woes We cannot without circumstance descry. Enter Watchmen with Balthasar SECOND WATCHMAN Here’s [[Romeo]]’s man. We found him in the churchyard. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--05_exchange_chief_watchman" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (CHIEF WATCHMAN) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| CHIEF WATCHMAN | Hold him in safety till the Prince come hither. Enter another Watchman with [[Friar Laurence]] |
+| THIRD WATCHMAN | Here is a friar that trembles, sighs, and weeps. We took this mattock and this spade from him As he was coming from this churchyard’s side. |
+| CHIEF WATCHMAN | A great suspicion. Stay the friar, too. Enter the Prince with others |
+| PRINCE | What misadventure is so early up, That calls our person from our morning rest? Enter [[Capulet]] and his Wife |
+| [[Capulet|CAPULET]] | What should it be that is so shrieked abroad? |
+| [[Capulet|CAPULET]]’S WIFE | O, the people in the street cry ‘[[Romeo]]’, Some ‘[[Juliet]]’, and some ‘[[Paris]]’, and all run With open outcry toward our monument. |
+| PRINCE | What [[Fear|fear]] is this which startles in our ears? |
+| CHIEF WATCHMAN | Sovereign, here lies the County [[Paris]] slain, And [[Romeo]] dead, and [[Juliet]], dead before, Warm, and new killed. |
+| PRINCE | Search, seek, and know how this foul murder comes. |
+| CHIEF WATCHMAN | Here is a friar, and slaughtered [[Romeo]]’s man, With instruments upon them fit to open These dead men’s tombs. |
+| [[Capulet|CAPULET]] | O heavens! O wife, look how our daughter bleeds! This dagger hath mista’en, for lo, his [[house]] Is empty on the back of Montague, And it mis-sheathèd in my daughter’s bosom. |
+| [[Capulet|CAPULET]]’S WIFE | O me, this sight of [[Death|death]] is as a bell 205 That warns my old age to a sepulchre. Enter Montague |
+| PRINCE | Come, Montague, for thou art early up To see thy son and heir more early down. |
+| MONTAGUE | Alas, my liege, my wife is dead tonight. Grief of my son’s [[Exile|exile]] hath stopped her breath. 210 What further woe conspires against mine age? |
+| PRINCE | Look, and thou shalt see. |
+| MONTAGUE | (seeing [[Romeo]]’s [[Body|body]]) O thou untaught! What manners is in this, To press before thy father to a [[Grave|grave]]? |
+| PRINCE | Seal up the mouth of outrage for a while, 215 Till we can clear these ambiguities And know their [[Spring|spring]], their head, their true descent; And then will I be general of your woes, And lead you even to [[Death|death]]. Meantime, forbear, And let mischance be slave to patience. 220 Bring forth the parties of suspicion. |
+| [[Friar Laurence|FRIAR LAURENCE]] | I am the greatest, able to do least, Yet most suspected, as the [[Time|time]] and place Doth make against me, of this direful murder; And here I stand, both to impeach and purge Myself condemned and myself excused. |
+| PRINCE | Then say at once what thou dost know in this. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--06_monologue_friar_laurence" data-title="Romeo and Juliet — Act V, Scene 3 — monologue (FRIAR LAURENCE) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Friar Laurence|FRIAR LAURENCE]] | I will be brief, for my short date of breath Is not so long as is a tedious tale. [[Romeo]], there dead, was husband to that [[Juliet]], And she, there dead, that [[Romeo]]’s faithful wife. I married them, and their stol’n [[Marriage|marriage]] day Was [[Tybalt]]’s doomsday, whose untimely [[Death|death]] Banished the new-made bridegroom from this [[City|city]], For whom, and not for [[Tybalt]], [[Juliet]] pined. You, to remove that siege of grief from her, Betrothed and would have married her perforce To County [[Paris]]. Then comes she to me, And with wild looks bid me devise some mean To rid her from this second [[Marriage|marriage]], Or in my cell there would she kill herself. Then gave I her—so tutored by my art— A sleeping potion, which so took effect As I intended, for it wrought on her The form of [[Death|death]]. Meantime I writ to [[Romeo]] That he should hither come as this dire [[Night|night]] To help to take her from her borrowed [[Grave|grave]], Being the [[Time|time]] the potion’s force should cease. But he which bore my letter, Friar John, Was stayed by accident, and yesternight 250 Returned my letter back. Then all [[Alone|alone]], At the prefixèd hour of her waking, Came I to take her from her kindred’s vault, Meaning to keep her closely at my cell Till I conveniently could send to [[Romeo]]. But when I came, some minute ere the [[Time|time]] Of her awakening, here untimely lay The noble [[Paris]] and true [[Romeo]] dead. She wakes, and I entreated her come forth And bear this work of heaven with patience. 260 But then a noise did scare me from the tomb, And she, too desperate, would not go with me, But, as it seems, did violence on herself. All this I know, and to the [[Marriage|marriage]] Her [[Nurse|nurse]] is privy; and if aught in this Miscarried by my fault, let my old life Be sacrificed, some hour before his [[Time|time]], Unto the rigour of severest law. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--07_exchange_prince" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (PRINCE) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PRINCE | We still have known thee for a holy man. Where’s [[Romeo]]’s man? What can he say to this? 270 |
+| BALTHASAR | I brought my master news of [[Juliet]]’s [[Death|death]], And then in post he came from Mantua To this same place, to this same monument. This letter he early bid me give his father, And threatened me with [[Death|death]], going in the vault, If I departed not and left him there. |
+| PRINCE | Give me the letter. I will look on it. He takes the letter Where is the County’s page that raised the watch? Sirrah, what made your master in this place? |
+| PAGE | He came with [[Flowers|flowers]] to strew his lady’s [[Grave|grave]], And bid me stand aloof, and so I did. Anon comes one with light to ope the tomb, And by and by my master drew on him, And then I ran away to call the watch. |
+| PRINCE | This letter doth make good the friar’s words, Their course of [[Love|love]], the tidings of her [[Death|death]]; And here he writes that he did buy a [[Poison|poison]] Of a poor ’pothecary, and therewithal Came to this vault to die, and lie with [[Juliet]]. Where be these enemies? [[Capulet]], Montague, 290 See what a scourge is laid upon your hate, That heaven finds means to kill your joys with [[Love|love]]. And I, for winking at your discords, too Have lost a brace of kinsmen. All are punished. |
+| [[Capulet|CAPULET]] | O brother Montague, give me thy hand. 295 This is my daughter’s jointure, for no more Can I demand. |
+| MONTAGUE | But I can give thee more, For I will raise her statue in pure gold, That whiles [[Verona]] by that name is known There shall no figure at such rate be set 300 As that of true and faithful [[Juliet]]. |
+| [[Capulet|CAPULET]] | As rich shall [[Romeo]]’s by his lady’s lie, Poor sacrifices of our enmity. |
+| PRINCE | A glooming peace this morning with it brings. The sun for sorrow will not show his head. 305 Go hence, to have more talk of these sad things. Some shall be pardoned, and some punishèd; For never was a story of more woe Than this of [[Juliet]] and her [[Romeo]]. The tomb is closed. Exeunt |
+| *(didascalia)* | A |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--08_monologue_francis_meres" data-title="Romeo and Juliet — Act V, Scene 3 — monologue (FRANCIS MERES) [8]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FRANCIS MERES | mentions A Midsummer [[Night]]’s Dream in his Palladis Tamia, of 1598, and it was first printed in 1600. The Folio (1623) version offers significant variations apparently deriving from performance, and is followed in the present edition. It has often been thought that Shakespeare wrote the play for an aristocratic wedding, but there is no evidence to support this speculation, and the 1600 title-page states that it had been ’sundry times publicly acted’ by the Lord Chamberlain’s Men. In stylistic variation it resembles [[Love]]’s Labour’s Lost: both plays employ a wide variety of verse measures and rhyme schemes, along with prose that is sometimes (as in [[Bottom]]’s account of his dream, 4.1.202―15) rhetorically patterned. Probably it was written in 1594 or 1595, either just before or just after [[Romeo]] and [[Juliet]]. Shakespeare built his own plot from diverse elements of literature, drama, legend, and folklore, supplemented by his [[Imagination|imagination]] and observation. There are four main strands. One, which forms the basis of the action, shows the preparations for the [[Marriage|marriage]] of [[Theseus]], Duke of Athens, to [[Hippolyta]], [[Queen]] of the Amazons, and (in the last act) its celebration. This is indebted to Chaucer’s Knight’s Tale, as is the play’s second strand, the [[Love|love]] story of [[Lysander]] and [[Hermia]] (who elope to escape her father’s opposition) and of [[Demetrius]]. In Chaucer, two young men fall in [[Love|love]] with the same girl and quarrel over her; Shakespeare adds the comic complication of another girl ([[Helena]]) jilted by, but still loving, one of the young men. A third strand shows the efforts of a group of Athenian workmen—the ‘mechanicals’—led by [[Bottom]] the Weaver to prepare a play, Pyramus and Thisbe (based mainly on [[arthur|Arthur]] Golding’s [[Translation|translation]] of Ovid’s Metamorphoses) for performance at the Duke’s wedding. The mechanicals themselves belong rather to [[Elizabethan England]] than to [[Ancient Greece|ancient Greece]]. [[Bottom]]’s partial transformation into an ass has many literary precedents. Fourthly, Shakespeare depicts a quarrel between [[Oberon]] and [[Titania]], [[King]] and [[Queen]] of the Fairies. [[Oberon]]’s attendant, Robin Goodfellow, a [[Puck|puck]] (or pixie), interferes mischievously in the workmen’s rehearsals and the affairs of the [[lovers]]. The fairy part of the play owes something to both folklore and literature; Robin Goodfellow was a [[Well|well]]-known figure about whom Shakespeare could have read in Reginald Scot’s Discovery of Witchcraft (1586). A Midsummer [[Night]]’s Dream offers a glorious celebration of the powers of the human [[Imagination|imagination]] while also making comic capital out of its limitations. It is one of Shakespeare’s most polished achievements, a poetic drama of exquisite grace, wit, and humanity. In performance, its imaginative [[unity]] has sometimes been violated, but it has become one of Shakespeare’s most popular plays, with a special appeal for the young. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--09_exchange_the_persons_of_the_play" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [9]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY [[Theseus|THESEUS]], Duke of Athens [[Hippolyta|HIPPOLYTA]], [[Queen]] of the Amazons, betrothed to [[Theseus]] PHILOSTRATE, Master of the Revels to [[Theseus]] EGEUS, father of [[Hermia]] [[Hermia|HERMIA]], daughter of Egeus, in [[Love|love]] with [[Lysander]] [[Lysander|LYSANDER]], loved by [[Hermia]] [[Demetrius|DEMETRIUS]], suitor to [[Hermia]] [[Helena|HELENA]], in [[Love|love]] with [[Demetrius]] |
+| THE PERSONS OF THE | [[Oberon|OBERON]], [[King]] of Fairies [[Titania|TITANIA]], [[Queen]] of Fairies |
+| ROBIN | GOODFELLOW, a [[Puck|puck]] Peter QUINCE, a carpenter Nick [[Bottom|BOTTOM]], a weaver Francis FLUTE, a bellows-mender Tom SNOUT, a tinker SNUG, a joiner Robin STARVELING, a tailor |
+| ROBIN | Attendant lords and fairies |
+
+
 
 
 <span class="atom-split" data-atom="romeo_and_juliet" data-title="ROMEO AND JULIET" data-chapter="" data-kind="intro"></span>
@@ -1258,1131 +2383,6 @@ Exit
 | FRANCIS MERES | mentions A Midsummer [[Night]]’s Dream in his Palladis Tamia, of 1598, and it was first printed in 1600. The Folio (1623) version offers significant variations apparently deriving from performance, and is followed in the present edition. It has often been thought that Shakespeare wrote the play for an aristocratic wedding, but there is no evidence to support this speculation, and the 1600 title-page states that it had been ’sundry times publicly acted’ by the Lord Chamberlain’s Men. In stylistic variation it resembles [[Love]]’s Labour’s Lost: both plays employ a wide variety of verse measures and rhyme schemes, along with prose that is sometimes (as in [[Bottom]]’s account of his dream, 4.1.202―15) rhetorically patterned. Probably it was written in 1594 or 1595, either just before or just after [[Romeo]] and [[Juliet]].<br>Shakespeare built his own plot from diverse elements of literature, drama, legend, and folklore, supplemented by his [[Imagination|imagination]] and observation. There are four main strands. One, which forms the basis of the action, shows the preparations for the [[Marriage|marriage]] of [[Theseus]], Duke of Athens, to [[Hippolyta]], [[Queen]] of the Amazons, and (in the last act) its celebration. This is indebted to Chaucer’s Knight’s Tale, as is the play’s second strand, the [[Love|love]] story of [[Lysander]] and [[Hermia]] (who elope to escape her father’s opposition) and of [[Demetrius]]. In Chaucer, two young men fall in [[Love|love]] with the same girl and quarrel over her; Shakespeare adds the comic complication of another girl ([[Helena]]) jilted by, but still loving, one of the young men. A third strand shows the efforts of a group of Athenian workmen—the ‘mechanicals’—led by [[Bottom]] the Weaver to prepare a play, Pyramus and Thisbe (based mainly on [[arthur|Arthur]] Golding’s [[Translation|translation]] of Ovid’s Metamorphoses) for performance at the Duke’s wedding. The mechanicals themselves belong rather to [[Elizabethan England]] than to [[Ancient Greece|ancient Greece]]. [[Bottom]]’s partial transformation into an ass has many literary precedents. Fourthly, Shakespeare depicts a quarrel between [[Oberon]] and [[Titania]], [[King]] and [[Queen]] of the Fairies. [[Oberon]]’s attendant, Robin Goodfellow, a [[Puck|puck]] (or pixie), interferes mischievously in the workmen’s rehearsals and the affairs of the [[lovers]]. The fairy part of the play owes something to both folklore and literature; Robin Goodfellow was a [[Well|well]]-known figure about whom Shakespeare could have read in Reginald Scot’s Discovery of Witchcraft (1586).<br>A Midsummer [[Night]]’s Dream offers a glorious celebration of the powers of the human [[Imagination|imagination]] while also making comic capital out of its limitations. It is one of Shakespeare’s most polished achievements, a poetic drama of exquisite grace, wit, and humanity. In performance, its imaginative [[unity]] has sometimes been violated, but it has become one of Shakespeare’s most popular plays, with a special appeal for the young. |
 | THE PERSONS OF THE | PLAY<br>[[Theseus|THESEUS]], Duke of Athens<br>[[Hippolyta|HIPPOLYTA]], [[Queen]] of the Amazons, betrothed to [[Theseus]]<br>PHILOSTRATE, Master of the Revels to [[Theseus]]<br>EGEUS, father of [[Hermia]]<br>[[Hermia|HERMIA]], daughter of Egeus, in [[Love|love]] with [[Lysander]]<br>[[Lysander|LYSANDER]], loved by [[Hermia]]<br>[[Demetrius|DEMETRIUS]], suitor to [[Hermia]]<br>[[Helena|HELENA]], in [[Love|love]] with [[Demetrius]]<br><br>[[Oberon|OBERON]], [[King]] of Fairies<br>[[Titania|TITANIA]], [[Queen]] of Fairies |
 | ROBIN | GOODFELLOW, a [[Puck|puck]]<br>Peter QUINCE, a carpenter<br>Nick [[Bottom|BOTTOM]], a weaver<br>Francis FLUTE, a bellows-mender<br>Tom SNOUT, a tinker<br>SNUG, a joiner<br>Robin STARVELING, a tailor<br><br>Attendant lords and fairies |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Romeo and Juliet — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Samson and Gregory, of the [[house]] of [[Capulet]], with swords and bucklers |
-| SAMSON | Gregory, on my word, we’ll not carry coals. |
-| GREGORY | No, for then we should be colliers. |
-| SAMSON | I mean an we be in choler, we’ll draw. |
-| GREGORY | Ay, while you live, draw your neck out of collar. |
-| SAMSON | I strike quickly, being moved. |
-| GREGORY | But thou art not quickly moved to strike. |
-| SAMSON | A dog of the [[house]] of Montague moves me. |
-| GREGORY | To move is to stir, and to be valiant is to stand, therefore if thou art moved, thou runn’st away. |
-| SAMSON | A dog of that [[house]] shall move me to stand. I will take the wall of any man or maid of Montague’s. |
-| GREGORY | That shows thee a weak slave, for the weakest goes to the wall. |
-| SAMSON | ’Tis true, and therefore women, being the weaker vessels, are ever thrust to the wall; therefore I will push Montague’s men from the wall, and thrust his maids to the wall. |
-| GREGORY | The quarrel is between our masters and us their men. |
-| SAMSON | ’Tis all one. I will show myself a [[Tyrant|tyrant]]: when I have fought with the men I will be civil with the maids—I will cut off their heads. |
-| GREGORY | The heads of the maids? |
-| SAMSON | Ay, the heads of the maids, or their maidenheads, take it in what sense thou wilt. |
-| GREGORY | They must take it in sense that feel it. |
-| SAMSON | Me they shall feel while I am able to stand, and ’tis known I am a pretty piece of flesh. |
-| GREGORY | ’Tis [[Well|well]] thou art not fish. If thou hadst, thou hadst been poor-john. Enter Abraham and another servingman of the Montagues Draw thy tool. Here comes of the [[house]] of Montagues. |
-| SAMSON | My naked weapon is out. Quarrel, I will back thee. |
-| GREGORY | How—turn thy back and run? |
-| SAMSON | [[Fear]] me not. |
-| GREGORY | No, marry—I [[Fear|fear]] thee! |
-| SAMSON | Let us take the law of our side. Let them begin. |
-| GREGORY | I will frown as I pass by, and let them take it as they list. |
-| SAMSON | Nay, as they dare. I will bite my thumb at them, which is disgrace to them if they bear it. He bites his thumb |
-| ABRAHAM | Do you bite your thumb at us, sir? |
-| SAMSON | I do bite my thumb, sir. |
-| ABRAHAM | Do you bite your thumb at us, sir? |
-| SAMSON | (to Gregory) Is the law of our side if I say ’Ay’ ? |
-| GREGORY | No. |
-| SAMSON | (to Abraham) No, sir, I do not bite my thumb at you, sir, but I bite my thumb, sir. |
-| GREGORY | (to Abraham) Do you quarrel, sir? |
-| ABRAHAM | Quarrel, sir? No, sir. |
-| SAMSON | But if you do, sir, I am for you. I serve as good a man as you. |
-| ABRAHAM | No better. |
-| SAMSON | [[Well]], sir. Enter [[Benvolio]] |
-| GREGORY | Say ‘better’. Here comes one of my master’s kinsmen. |
-| SAMSON | (to Abraham) Yes, better, sir. |
-| ABRAHAM | You lie. |
-| SAMSON | Draw, if you be men. Gregory, remember thy washing blow. They draw and fight |
-| [[Benvolio|BENVOLIO]] | (drawing) Part, fools. Put up your swords. You know not what you do. Enter [[Tybalt]] |
-| [[Tybalt|TYBALT]] | (drawing) What, art thou drawn among these heartless hinds? Turn thee, [[Benvolio]]. Look upon thy [[Death|death]]. |
-| [[Benvolio|BENVOLIO]] | I do but keep the peace. Put up thy [[Sword|sword]], Or manage it to part these men with me. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_exchange_tybalt" data-title="Romeo and Juliet — Act I, Scene 1 — exchange (TYBALT) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Tybalt|TYBALT]] | What, drawn and talk of peace? I hate the word As I hate hell, all Montagues, and thee. Have at thee, coward. They fight. Enter three or four Citizens of the watch, with clubs or partisans CITIZENS OF THE WATCH Clubs, bills and partisans! Strike! Beat them down! Down with the Capulets. Down with the Montagues. Enter [[Capulet]] in his gown, and his Wife |
-| [[Capulet|CAPULET]] | What noise is this? Give me my long [[Sword|sword]], ho! |
-| [[Capulet|CAPULET]]’S WIFE | A crutch, a crutch—why call you for a [[Sword|sword]]? Enter Montague With his [[Sword|sword]] drawn, and his Wife |
-| [[Capulet|CAPULET]] | My [[Sword|sword]], I say. Old Montague is come, And flourishes his blade in spite of me. |
-| MONTAGUE | Thou [[Villain|villain]] [[Capulet]]! His Wife holds him back Hold me not, let me go. |
-| MONTAGUE’S WIFE | Thou shalt not stir one foot to seek a foe. The Citizens of the watch attempt to part the factions. Enter [[Prince Escalus]] with his train |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_monologue_prince" data-title="Romeo and Juliet — Act I, Scene 1 — monologue (PRINCE) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PRINCE | Rebellious subjects, enemies to peace, Profaners of this neighbour-stained steet— Will they not hear? What ho, you men, you beasts, That quench the [[Fire|fire]] of your pernicious rage With purple fountains issuing from your veins: On [[Pain|pain]] of torture, from those bloody hands Throw your mistempered weapons to the ground, And hear the sentence of your moved Prince. Montague, [[Capulet]], and their followers throw down their weapons] Three civil brawls bred of an airy word By thee, old [[Capulet]], and Montague, Have thrice disturbed the quiet of our streets And made [[Verona]]’s ancient citizens Cast by their [[Grave|grave]]-beseeming ornaments To wield old partisans in hands as old, Cankered with peace, to part your cankered hate. If ever you disturb our streets again Your lives shall pay the forfeit of the peace. For this [[Time|time]] all the rest depart away. You, [[Capulet]], shall go along with me; And Montague, come you this afternoon To know our farther pleasure in this case To old Freetown, our common judgement-place. Once more, on [[Pain|pain]] of [[Death|death]], all men depart. Exeunt all but Montague, his Wife, and [[Benvolio]] |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_exchange_montague" data-title="Romeo and Juliet — Act I, Scene 1 — exchange (MONTAGUE) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MONTAGUE | Who set this ancient quarrel new abroach? Speak, nephew: were you by when it began? |
-| [[Benvolio|BENVOLIO]] | Here were the servants of your adversary And yours, close fighting ere I did approach. I drew to part them. In the instant came The fiery [[Tybalt]] with his [[Sword|sword]] prepared, Which, as he breathed defiance to my ears, He swung about his head and cut the winds Who, nothing hurt withal, hissed him in scorn. While we were interchanging thrusts and blows, Came more and more, and fought on part and part Till the Prince came, who parted either part. |
-| MONTAGUE’S WIFE | O where is [[Romeo]]—saw you him today? Right glad I am he was not at this fray. |
-| [[Benvolio|BENVOLIO]] | Madam, an hour before the worshipped sun Peered forth the golden [[Window|window]] of the east, A troubled mind drive me to walk abroad, Where, underneath the grove of sycamore That westward rooteth from this [[City|city]] side, So early walking did I see your son. Towards him I made, but he was ware of me, And stole into the covert of the wood. I, measuring his affections by my own— Which then most sought where most might not be found, Being one too many by my weary [[Self|self]]— Pursued my [[Humour|humour]] not pursuing his, And gladly shunned who gladly fled from me. |
-| MONTAGUE | Many a morning hath he there been seen, With [[Tears|tears]] augmenting the fresh morning’s dew, Adding to clouds more clouds with his deep sighs. But all so soon as the all-cheering sun Should in the farthest east begin to draw The shady curtains from Aurora’s bed, Away from light steals [[Home|home]] my heavy son, And private in his chamber pens himself, Shuts up his windows, locks fair daylight out, And makes himself an artificial [[Night|night]]. Black and portentous must this [[Humour|humour]] prove, Unless good counsel may the cause remove. |
-| [[Benvolio|BENVOLIO]] | My noble uncle, do you know the cause? |
-| MONTAGUE | I neither know it nor can learn of him. |
-| [[Benvolio|BENVOLIO]] | Have you importuned him by any means? |
-| MONTAGUE | Both by myself and many other friends, But he, his own affection’s counsellor, Is to himself—I will not say how true, But to himself so secret and so close, So far from sounding and discovery, As is the bud bit with an envious worm Ere he can spread his sweet [[Leaves|leaves]] to the air Or dedicate his [[Beauty|beauty]] to the sun. Could we but learn from whence his sorrows grow We would as willingly give cure as know. Enter [[Romeo]] |
-| [[Benvolio|BENVOLIO]] | See where he comes. So please you step aside, I’ll know his grievance or be much denied. |
-| MONTAGUE | I would thou wert so happy by thy stay To hear true shrift. Come, madam, let’s away. Exeunt Montague and his Wife |
-| [[Benvolio|BENVOLIO]] | Good morrow, cousin. |
-| [[Romeo|ROMEO]] | Is the day so young? |
-| [[Benvolio|BENVOLIO]] | But new struck nine. |
-| [[Romeo|ROMEO]] | Ay me, sad hours seem long. Was that my father that went hence so fast? |
-| [[Benvolio|BENVOLIO]] | It was. What sadness lengthens [[Romeo]]’s hours? |
-| [[Romeo|ROMEO]] | Not having that which, having, makes them short. |
-| [[Benvolio|BENVOLIO]] | In [[Love|love]]. |
-| [[Romeo|ROMEO]] | Out. |
-| [[Benvolio|BENVOLIO]] | Of [[Love|love]]? |
-| [[Romeo|ROMEO]] | Out of her favour where I am in [[Love|love]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--05_exchange_benvolio" data-title="Romeo and Juliet — Act I, Scene 1 — exchange (BENVOLIO) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benvolio|BENVOLIO]] | Alas that [[Love|love]], so gentle in his view, Should be so tyrannous and rough in proof. |
-| [[Romeo|ROMEO]] | Alas that [[Love|love]], whose view is muffled still, Should without eyes see pathways to his will. Where shall we dine? Seeing [[Blood|blood]] O me! What fray was here? Yet tell me not, for I have heard it all. Here’s much to do with hate, but more with [[Love|love]]. Why then, O brawling [[Love|love]], O loving hate, O anything of nothing first create; O heavy lightness, serious [[Vanity|vanity]], Misshapen chaos of [[Well|well]]-seeming forms, Feather of lead, bright smoke, cold [[Fire|fire]], sick health, Still-waking [[Sleep|sleep]], that is not what it is I This [[Love|love]] feel I, that feel no [[Love|love]] in this. Dost thou not laugh? |
-| [[Benvolio|BENVOLIO]] | No, coz, I rather weep. |
-| [[Romeo|ROMEO]] | Good heart, at what? |
-| [[Benvolio|BENVOLIO]] | At thy good heart’s oppression. |
-| [[Romeo|ROMEO]] | Why, such is [[Love|love]]’s transgression. Griefs of mine own lie heavy in my breast, Which thou wilt propagate to have it pressed With more of thine. This [[Love|love]] that thou hast shown Doth add more grief to too much of mine own. [[Love]] is a smoke made with the fume of sighs, Being purged, a [[Fire|fire]] sparkling in [[lovers]]’ eyes, Being vexed, a sea nourished with [[lovers]]’ [[Tears|tears]]. What is it else? A [[Madness|madness]] most discreet, A choking gall and a preserving sweet. Farewell, my coz. |
-| [[Benvolio|BENVOLIO]] | Soft, I will go along; An if you leave me’so, you do me wrong. |
-| [[Romeo|ROMEO]] | Tut, I have lost myself. I am not here. This is not [[Romeo]]; he’s some other where. |
-| [[Benvolio|BENVOLIO]] | Tell me in sadness, who is that you [[Love|love]]? |
-| [[Romeo|ROMEO]] | What, shall I groan and tell thee? |
-| [[Benvolio|BENVOLIO]] | Groan? Why no; but sadly tell me who. |
-| [[Romeo|ROMEO]] | Bid a sick man in sadness make his will, A word ill urged to one that is so ill. In sadness, cousin, I do [[Love|love]] a woman. |
-| [[Benvolio|BENVOLIO]] | I aimed so near when I supposed you loved. |
-| [[Romeo|ROMEO]] | A right good markman; and she’s fair I [[Love|love]]. |
-| [[Benvolio|BENVOLIO]] | A right fair mark, fair coz, is soonest hit. |
-| [[Romeo|ROMEO]] | [[Well]], in that hit you miss. She’ll not be hit With Cupid’s arrow; she hath Dian’s wit, And, in strong proof of chastity [[Well|well]] armed, From [[Love|love]]’s weak childish bow she lives unharmed. She will not stay the siege of loving terms, Nor bide th’encounter of assailing eyes, Nor ope her lap to saint-seducing gold. O, she is rich in [[Beauty|beauty]], only poor That when she dies, with [[Beauty|beauty]] dies her store. |
-| [[Benvolio|BENVOLIO]] | Then she hath sworn that she will still live chaste? |
-| [[Romeo|ROMEO]] | She hath, and in that sparing makes huge waste; For [[Beauty|beauty]] starved with her severity Cuts [[Beauty|beauty]] off from all posterity. She is too fair, too wise, wisely too fair, To merit bliss by making me [[Despair|despair]]. She hath forsworn to [[Love|love]], and in that vow Do I live dead, that live to tell it now. |
-| [[Benvolio|BENVOLIO]] | Be ruled by me; forget to think of her. |
-| [[Romeo|ROMEO]] | O, teach me how I should forget to think! |
-| [[Benvolio|BENVOLIO]] | By giving liberty unto thine eyes. Examine other beauties. |
-| [[Romeo|ROMEO]] | ’Tis the way To call hers, exquisite, in question more. These happy masks that kiss fair ladies’ brows, Being black, puts us in mind they hide the fair. He that is strucken blind cannot forget The precious treasure of his eyesight lost. Show me a mistress that is passing fair, What doth her [[Beauty|beauty]] serve but as a note Where I may read who passed that passing fair? Farewell, thou canst not teach me to forget. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--06_exchange_benvolio" data-title="Romeo and Juliet — Act I, Scene 1 — exchange (BENVOLIO) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benvolio|BENVOLIO]] | I’ll pay that doctrine, or else die in debt. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--01_exchange_dialogue" data-title="Romeo and Juliet — Act I, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Romeo]], [[Mercutio]], and [[Benvolio]], as masquers, with five or six other masquers, bearing a drum and torches |
-| [[Romeo|ROMEO]] | What, shall this speech be spoke for our excuse, Or shall we on without apology? |
-| [[Benvolio|BENVOLIO]] | The date is out of such prolixity. We’ll have no Cupid hoodwinked with a scarf, Bearing a Tartar’s painted bow of lath, Scaring the ladies like a crowkeeper, Nor no without-book Prologue faintly spoke After the prompter for our entrance. But let them measure us by what they will, We’ll measure them a measure, and be gone. |
-| [[Romeo|ROMEO]] | Give me a torch. I am not for this ambling; Being but heavy, I will bear the light. |
-| [[Mercutio|MERCUTIO]] | Nay, gentle [[Romeo]], we must have you [[Dance|dance]]. |
-| [[Romeo|ROMEO]] | Not I, believe me. You have dancing shoes With nimble soles; I have a [[Soul|soul]] of lead So stakes me to the ground I cannot move. |
-| [[Mercutio|MERCUTIO]] | You are a [[Lover|lover]]; borrow Cupid’s wings, And soar with them above a common bound. |
-| [[Romeo|ROMEO]] | I am too sore empiercèd with his shaft To soar with his light feathers, and so bound I cannot bound a pitch above dull woe; Under [[Love|love]]’s heavy burden do I sink. |
-| [[Mercutio|MERCUTIO]] | And to sink in it should you burden [[Love|love]]— Too great oppression for a tender thing. |
-| [[Romeo|ROMEO]] | Is [[Love|love]] a tender thing? It is too rough, Too rude, too boist’rous, and it pricks like thorn. |
-| [[Mercutio|MERCUTIO]] | If [[Love|love]] be rough with you, be rough with [[Love|love]]. Prick [[Love|love]] for pricking, and you beat [[Love|love]] down. Give me a case to put my visage in, A visor for a visor. What care I What curious eye doth quote deformity? Here are the beetle brows shall blush for me. They put on visors |
-| [[Benvolio|BENVOLIO]] | Come, knock and enter, and no sooner in But every man betake him to his legs. |
-| [[Romeo|ROMEO]] | A torch for me. Let wantons light of heart Tickle the sense-less rushes with their heels, For I am proverbed with a grandsire phrase. I’ll be a candle-holder and look on. The game was ne’er so fair, and I am done. He takes a torch |
-| [[Mercutio|MERCUTIO]] | Tut, dun’s the mouse, the constable’s own word. If thou art dun we’ll draw thee from the mire Of—save your reverence—[[Love|love]], wherein thou stickest Up to the ears. Come, we burn daylight, ho! |
-| [[Romeo|ROMEO]] | Nay, that’s not so. |
-| [[Mercutio|MERCUTIO]] | I mean, sir, in delay We waste our lights in vain, like lights by day. Take our good meaning, for our judgement sits Five times in that ere once in our five wits. |
-| [[Romeo|ROMEO]] | And we mean [[Well|well]] in going to this [[Masque|masque]], But ’tis no wit to go. |
-| [[Mercutio|MERCUTIO]] | Why, may one ask? |
-| [[Romeo|ROMEO]] | I dreamt [[A Dream|a dream]] tonight. |
-| [[Mercutio|MERCUTIO]] | And so did I. |
-| [[Romeo|ROMEO]] | [[Well]], what was yours? |
-| [[Mercutio|MERCUTIO]] | That dreamers often lie. |
-| [[Romeo|ROMEO]] | In bed asleep while they do dream things true. |
-| [[Mercutio|MERCUTIO]] | O, then I see [[Queen]] Mab hath been with you. |
-| [[Benvolio|BENVOLIO]] | [[Queen]] Mab, what’s she? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--02_monologue_mercutio" data-title="Romeo and Juliet — Act I, Scene 4 — monologue (MERCUTIO) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Mercutio|MERCUTIO]] | She is the fairies’ midwife, and she comes In shape no bigger than an agate stone On the forefinger of an alderman, Drawn with a team of little atomi Athwart men’s noses as they lie asleep. Her wagon spokes made of long spinners’ legs; The cover, of the wings of grasshoppers; Her traces, of the moonshine’s wat‘ry beams; Her collars, of the smallest spider web; Her whip, of cricket’s bone, the lash of film; Her wagoner, a small grey-coated gnat Not half so big as a round little worm Pricked from the lazy finger of a maid. Her chariot is an empty hazelnut Made by the joiner squirrel or old grub, [[Time]] out o’ mind the fairies’ coachmakers. And in this state she gallops [[Night|night]] by [[Night|night]] Through [[lovers]]’ brains, and then they dream of [[Love|love]]; O’er courtiers’ knees, that dream on curtsies straight; O’er ladies’ lips, who straight on kisses dream, Which oft the angry Mab with blisters plagues Because their breaths with sweetmeats tainted are. Sometime she gallops o’er a lawyer’s lip, And then [[Dreams|dreams]] he of smelling out a suit; And sometime comes she with a tithe-pig’s tail Tickling a parson’s nose as a lies asleep; Then [[Dreams|dreams]] he of another benefice. Sometime she driveth o’er a soldier’s neck, And then [[Dreams|dreams]] he of cutting foreign throats, Of breaches, ambuscados, Spanish blades, Of healths five fathom deep; and then anon Drums in his ear, at which he starts and wakes, And being thus frighted, swears a [[Prayer|prayer]] or two, And sleeps again. This is that very Mab That plaits the manes of horses in the [[Night|night]], And bakes the elf-locks in foul sluttish hairs, Which once untangled much misfortune bodes. This is the hag, when maids lie on their backs, That presses them and learns them first to bear, Making them women of good carriage. This is she— |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--03_exchange_romeo" data-title="Romeo and Juliet — Act I, Scene 4 — exchange (ROMEO) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | Peace, peace, [[Mercutio]], peace! Thou talk’st of nothing. |
-| [[Mercutio|MERCUTIO]] | True. I talk of [[Dreams|dreams]], Which are the children of an idle brain, Begot of nothing but vain fantasy, Which is as thin of substance as the air, And more inconstant than the [[Wind|wind]], who woos Even now the frozen bosom of the north, And, being angered, puffs away from thence, Turning his face to the dew-dropping south. |
-| [[Benvolio|BENVOLIO]] | This [[Wind|wind]] you talk of blows us from ourselves. Supper is done, and we shall come too late. |
-| [[Romeo|ROMEO]] | I [[Fear|fear]] too early, for my mind misgives Some consequence yet hanging in the [[Stars|stars]] Shall bitterly begin his fearful date With this [[Night|night]]’s revels, and expire the term Of a despised life, closed in my breast, By some vile forfeit of untimely [[Death|death]]. But he that hath the steerage of my course Direct my sail! On, lusty gentlemen. |
-| [[Benvolio|BENVOLIO]] | Strike, drum. They march about the stage and exeunt |
-| *(didascalia)* | 1.5 Peter and other Servingmen come forth with napkins PETER Where’s Potpan, that he helps not to take away? He shift a trencher, he scrape a trencher! |
-| FIRST SERVINGMAN | When good manners shall lie all in one or two men’s hands, and they unwashed too, ’tis a foul thing. PETER Away with the joint-stools, remove the [[Court|court]]– cupboard, look to the plate. Good thou, save me a piece of marzipan, and, as thou loves me, let the porter let in Susan Grindstone and Nell. Anthony and Potpan I |
-| SECOND SERVINGMAN | Ay, boy, ready. PETER You are looked for and called for, asked for and sought for, in the great chamber. FIRST SERVINGMAN We cannot be here and there too. Cheerly, boys! Be brisk a while, and the longest liver take all. They come and go, setting forth tables and chairs. Enter Musicians, then at one door [[Capulet]], his Wife, his Cousin, [[Juliet]]., the [[Nurse]], [[Tybalt]], his page, Petruccio, and all the guests and gentlewomen; at another door, the masquers: [[Romeo]], [[Benvolio]] and [[Mercutio]] |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--04_monologue_capulet" data-title="Romeo and Juliet — Act I, Scene 4 — monologue (CAPULET) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Capulet|CAPULET]] | (to the masquers) Welcome, gentlemen. Ladies that have their toes Unplagued with corns will walk a bout with you. Aha, my mistresses, which of you all Will now deny to [[Dance|dance]]? She that makes dainty, She, I’ll swear, hath corns. Am I come near ye now? Welcome, gentlemen. I have seen the day That I have worn a visor, and could tell A whispering tale in a fair lady’s ear Such as would please. ’Tis gone, ’tis gone, ’tis gone. You are welcome, gentlemen. Come, musicians, play. Music plays, and the masquers, guests, and gentlewomen [[Dance|dance]]. [[Romeo]] stands apart A hall, a hall! Give room, and foot it, girls. (To Servingmen) More light, you knaves, and turn the tables up, And quench the [[Fire|fire]], the room is grown too hot. (To his Cousin) Ah sirrah, this unlooked-for sport comes [[Well|well]]. Nay, sit, nay, sit, good cousin [[Capulet]], For you and I are past our dancing days. [[Capulet]] and his Cousin sit How long is’t now since last yourself and I Were in a [[Masque|masque]]? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--05_exchange_capulets_cousin" data-title="Romeo and Juliet — Act I, Scene 4 — exchange (CAPULET’S COUSIN) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Capulet|CAPULET]]’S COUSIN | By’r Lady, thirty years. |
-| [[Capulet|CAPULET]] | What, man, ’tis not so much, ’tis not so much. ’Tis since the nuptial of [[Lucentio]], Come Pentecost as quickly as it will, Some five-and-twenty years; and then we masqued. |
-| [[Capulet|CAPULET]]’S COUSIN | ’Tis more, ’tis more. His son is elder, sir. His son is thirty. |
-| [[Capulet|CAPULET]] | Will you tell me that? His son was but a ward two years ago. |
-| [[Romeo|ROMEO]] | (to a Servingman) What lady’s that which doth enrich the hand Of yonder knight? |
-| SERVINGMAN | I know not, sir. |
-| [[Romeo|ROMEO]] | O, she doth teach the torches to burn bright! It seems she hangs upon the cheek of [[Night|night]] As a rich [[Jewel|jewel]] in an Ethiope’s ear— [[Beauty]] too rich for use, for earth too dear. So shows a snowy dove trooping with crows As yonder lady o’er her fellows shows. The measure done, I’ll watch her place of stand, And, touching hers, make blessèd my rude hand. Did my heart [[Love|love]] till now? Forswear it, sight, For I ne’er saw true [[Beauty|beauty]] till this [[Night|night]]. |
-| [[Tybalt|TYBALT]] | This, by his voice, should be a Montague. Fetch me my rapier, boy. Exit page What, dares the slave Come hither, covered with an antic face, To fleer and scorn at our solemnity? Now, by the stock and [[Honour|honour]] of my kin, To strike him dead I hold it not a sin. |
-| [[Capulet|CAPULET]] | standing Why, how now, kinsman? Wherefore [[Storm|storm]] you so? |
-| [[Tybalt|TYBALT]] | Uncle, this is a Montague, our foe, A [[Villain|villain]] that is hither come in spite To scorn at our solemnity this [[Night|night]]. |
-| [[Capulet|CAPULET]] | Young [[Romeo]], is it? |
-| [[Tybalt|TYBALT]] | ’Tis he, that [[Villain|villain]] [[Romeo]]. |
-| [[Capulet|CAPULET]] | Content thee, gentle coz, let him [[Alone|alone]]. A bears him like a portly gentleman, And, to say [[Truth|truth]], [[Verona]] brags of him To be a virtuous and [[Well|well]]-governed youth. I would not for the wealth of all this town Here in my [[house]] do him disparagement. Therefore be patient, take no note of him. It is my will, the which if thou respect, Show a fair presence and put off these frowns, An ill-beseeming semblance for a feast. |
-| [[Tybalt|TYBALT]] | It fits when such a [[Villain|villain]] is a guest. I’ll not endure him. |
-| [[Capulet|CAPULET]] | He shall be endured. What, goodman boy, I say he shall. Go to, Am I the master here or you ? Go to— You’ll not endure him! God shall mend my [[Soul|soul]]. You’ll make a mutiny among my guests, You will set cock-a-hoop! You’ll be the man! |
-| [[Tybalt|TYBALT]] | Why, uncle, ’tis a shame. |
-| [[Capulet|CAPULET]] | Go to, go to, You are a saucy boy. Is’t so, indeed? This trick may chance to scathe you. I know what, You must contrary me. Marry, ’tis [[Time|time]]— A [[Dance|dance]] ends. [[Juliet]] retires to her place of stand, where [[Romeo]] awaits her (To the guests) [[Well]] said, my hearts! (To [[Tybalt]]) You are a princox, go. Be quiet, or—(to Servingmen) more light, more light!— (to [[Tybalt]]) for shame, I’ll make you quiet. (To the guests) What, cheerly, my hearts! The music plays again, and the guests [[Dance|dance]] |
-| [[Tybalt|TYBALT]] | Patience perforce with wilful choler meeting Makes my flesh tremble in their different greeting. I will withdraw, but this intrusion shall, Now seeming sweet, [[convert]] to bitt’rest gall. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--06_exchange_romeo" data-title="Romeo and Juliet — Act I, Scene 4 — exchange (ROMEO) [6]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | (to [[Juliet]], touching her hand) If I profane with my unworthiest hand This holy shrine, the gentler sin is this: My lips, two blushing pilgrims, ready stand To smooth that rough touch with a tender kiss. |
-| [[Juliet|JULIET]] | Good [[Pilgrim|pilgrim]], you do wrong your hand too much, Which mannerly devotion shows in this. For saints have hands that pilgrims’ hands do touch, And palm to palm is holy palmers’ kiss. |
-| [[Romeo|ROMEO]] | Have not saints lips, and holy palmers, too? |
-| [[Juliet|JULIET]] | Ay, [[Pilgrim|pilgrim]], lips that they must use in [[Prayer|prayer]]. |
-| [[Romeo|ROMEO]] | O then, dear saint, let lips do what hands do: They pray; grant thou, lest [[Faith|faith]] turn to [[Despair|despair]]. |
-| [[Juliet|JULIET]] | Saints do not move, though grant for prayers’ sake. |
-| [[Romeo|ROMEO]] | Then move not while my [[Prayer|prayer]]’s effect I take. He kisses her Thus from my lips, by thine my sin is purged. |
-| [[Juliet|JULIET]] | Then have my lips the sin that they have took. |
-| [[Romeo|ROMEO]] | Sin from my lips? O trespass sweetly urged! Give me my sin again. He kisses her |
-| [[Juliet|JULIET]] | You kiss by th’ book. |
-| [[Nurse|NURSE]] | Madam, your mother craves a word with you. [[Juliet]] departs to her mother |
-| [[Romeo|ROMEO]] | What is her mother? |
-| [[Nurse|NURSE]] | Marry, bachelor, Her mother is the lady of the [[house]], And a good lady, and a wise and virtuous. I nursed her daughter that you talked withal. I tell you, he that can lay hold of her Shall have the chinks. |
-| [[Romeo|ROMEO]] | (aside) Is she a [[Capulet]]? O dear account! My life is my foe’s debt. |
-| [[Benvolio|BENVOLIO]] | Away, be gone, the sport is at the best. |
-| [[Romeo|ROMEO]] | Ay, so I [[Fear|fear]], the more is my unrest. |
-| [[Capulet|CAPULET]] | Nay, gentlemen, prepare not to be gone. We have a trifling foolish banquet towards. They whisper in his ear Is it e’en so? Why then, I thank you all. I thank you, honest gentlemen. Good [[Night|night]]. More torches here ! Come on then, let’s to bed. (To his Cousin) Ah, sirrah, by my fay, it waxes late. I’ll to my rest. Exeunt [[Capulet]], his Wife, and his Cousin. The guests, gentlewomen, masquers, musicians, and servingmen begin to leave |
-| [[Juliet|JULIET]] | Come hither, [[Nurse]]. What is yon gentleman? |
-| [[Nurse|NURSE]] | The son and heir of old Tiberio. |
-| [[Juliet|JULIET]] | What’s he that now is going out of door? |
-| [[Nurse|NURSE]] | Marry, that, I think, be young Petruccio. |
-| [[Juliet|JULIET]] | What’s he that follows here, that would not [[Dance|dance]]? |
-| [[Nurse|NURSE]] | I know not. |
-| [[Juliet|JULIET]] | Go ask his name. The [[Nurse]] goes If he be married, My [[Grave|grave]] is like to be my wedding bed. |
-| [[Nurse|NURSE]] | (returning) His name is [[Romeo]], and a Montague, The only son of your great enemy. |
-| [[Juliet|JULIET]] | aside My only [[Love|love]] sprung from my only hate! Too early seen unknown, and known too late! Prodigious birth of [[Love|love]] it is to me That I must [[Love|love]] a loathed enemy. |
-| [[Nurse|NURSE]] | What’s tis? what’s tis? |
-| [[Juliet|JULIET]] | A rhyme I learnt even now Of one I danced withal. One calls within ‘[[Juliet]]!’ |
-| [[Nurse|NURSE]] | Anon, anon. Come, let’s away. The strangers all are gone. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Romeo and Juliet — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Romeo]] |
-| [[Romeo|ROMEO]] | Can I go forward when my heart is here? Turn back, dull earth, and find thy centre out. He turns back and withdraws. Enter [[Benvolio]] with [[Mercutio]] |
-| [[Benvolio|BENVOLIO]] | (calling) [[Romeo]], my cousin [[Romeo]], [[Romeo]]! |
-| [[Mercutio|MERCUTIO]] | He is wise, and, on my life, hath stol’n him [[Home|home]] to bed. |
-| [[Benvolio|BENVOLIO]] | He ran this way, and leapt this orchard wall. Call, good [[Mercutio]]. [[Mercutio|MERCUTIO]] Nay, I’ll conjure too. [[Romeo]]! Humours! adman! Passion! [[Lover]]! Appear thou in the likeness of a sigh. Speak but one rhyme and I am satisfied. Cry but ‘Ay me!’ Pronounce but ‘[[Love|love]]’ and ‘dove’. Speak to my gossip [[Venus]] one fair word, One nickname for her purblind son and heir, Young Adam Cupid, he that shot so trim When [[King]] Cophetua loved the beggar maid.— He heareth not, he stirreth not, he moveth not. The ape is dead, and I must conjure him.— I conjure thee by [[Rosaline]]’s bright eyes, By her high forehead and her scarlet lip, By her fine foot, straight leg, and quivering thigh, And the demesnes that there adjacent lie, That in thy likeness thou appear to us. |
-| [[Benvolio|BENVOLIO]] | An if he hear thee, thou wilt anger him. |
-| [[Mercutio|MERCUTIO]] | This cannot anger him. ’Twould anger him To raise a spirit in his mistress’ circle Of some strange [[Nature|nature]], letting it there stand Till she had laid it and conjured it down. That were some spite. My invocation Is fair and honest. In his mistress’ name, I conjure only but to raise up him. |
-| [[Benvolio|BENVOLIO]] | Come, he hath hid himself among these trees To be consorted with the humorous [[Night|night]]. Blind is his [[Love|love]], and best befits the dark. |
-| [[Mercutio|MERCUTIO]] | If [[Love|love]] be blind, [[Love|love]] cannot hit the mark. Now will he sit under a medlar tree And wish his mistress were that kind of fruit As maids call medlars when they laugh [[Alone|alone]]. O [[Romeo]], that she were, O that she were An open-arse, and thou a popp’rin’ pear. [[Romeo]], good [[Night|night]]. I’ll to my truckle-bed. This field-bed is too cold for me to [[Sleep|sleep]]. Come, shall we go? |
-| [[Benvolio|BENVOLIO]] | Go then, for ’tis in vain To seek him here that means not to be found. Exeunt [[Benvolio]] and [[Mercutio]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--02_monologue_romeo" data-title="Romeo and Juliet — Act II, Scene 1 — monologue (ROMEO) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | coming forward He jests at scars that never felt a wound. But soft, what light through yonder [[Window|window]] breaks? It is the east, and [[Juliet]] is the sun. Arise, fair sun, and kill the envious [[Moon|moon]], Who is already sick and pale with grief That thou, her maid, art far more fair than she. Be not her maid, since she is envious. Her vestal livery is but sick and green, And none but fools do wear it; cast it off. Enter [[Juliet]] aloft It is my lady, O, it is my [[Love|love]]. O that she knew she were! She speaks, yet she says nothing. What of that? Her eye discourses; I will answer it. I am too bold. ’Tis not to me she speaks. Two of the fairest [[Stars|stars]] in all the heaven, Having some business, do entreat her eyes To twinkle in their spheres till they return. What if her eyes were there, they in her head?— The brightness of her cheek would shame those [[Stars|stars]] As daylight doth a lamp; her eye in heaven Would through the airy region stream so bright That [[Birds|birds]] would sing and think it were not [[Night|night]]. See how she leans her cheek upon her hand. O, that I were a glove upon that hand, That I might touch that cheek! |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--03_exchange_juliet" data-title="Romeo and Juliet — Act II, Scene 1 — exchange (JULIET) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Juliet|JULIET]] | Ay me. |
-| [[Romeo|ROMEO]] | (aside) She speaks. O, speak again, bright angel; for thou art As glorious to this [[Night|night]], being o‘er my head, As is a winged messenger of heaven Unto the white upturned wond’ring eyes Of mortals that fall back to gaze on him When he bestrides the lazy-passing clouds And sails upon the bosom of the air. |
-| [[Juliet|JULIET]] | (not knowing [[Romeo]] hears her) O [[Romeo]], [[Romeo]], wherefore art thou [[Romeo]]? Deny thy father and refuse thy name, Or if thou wilt not, be but sworn my [[Love|love]], And I’ll no longer be a [[Capulet]]. |
-| [[Romeo|ROMEO]] | (aside) Shall I hear more, or shall I speak at this? |
-| [[Juliet|JULIET]] | ’Tis but thy name that is my enemy. Thou art thyself, though not a Montague. What’s Montague? It is nor hand, nor foot, Nor arm, nor face, nor any other part Belonging to a man. O, be some other name I What’s in a name? That which we call a [[Rose|rose]] By any other word would smell as sweet. So [[Romeo]] would, were he not [[Romeo]] called, Retain that dear perfection which he owes Without that title. [[Romeo]], doff thy name, And for thy name—which is no part of thee— Take all myself. |
-| [[Romeo|ROMEO]] | (to [[Juliet]]) I take thee at thy word. Call me but [[Love|love]] and I’ll be new baptized. Henceforth I never will be [[Romeo]]. |
-| [[Juliet|JULIET]] | What man art thou that, thus bescreened in [[Night|night]], So stumblest on my counsel? |
-| [[Romeo|ROMEO]] | By a name I know not how to tell thee who I am. My name, dear saint, is hateful to myself Because it is an enemy to thee. Had I it written, I would tear the word. |
-| [[Juliet|JULIET]] | My ears have yet not drunk a hundred words Of thy tongue’s uttering, yet I know the sound. Art thou not [[Romeo]], and a Montague? |
-| [[Romeo|ROMEO]] | Neither, fair maid, if either thee dislike. |
-| [[Juliet|JULIET]] | How cam’st thou hither, tell me, and wherefore? The orchard walls are high and hard to climb, And the place [[Death|death]], considering who thou art, If any of my kinsmen find thee here. |
-| [[Romeo|ROMEO]] | With [[Love|love]]’s light wings did I o’erperch these walls, For stony limits cannot hold [[Love|love]] out, And what [[Love|love]] can do, that dares [[Love|love]] attempt. Therefore thy kinsmen are no stop to me. |
-| [[Juliet|JULIET]] | If they do see thee, they will murder thee. |
-| [[Romeo|ROMEO]] | Alack, there lies more peril in thine eye Than twenty of their swords. Look thou but sweet, And I am proof against their enmity. |
-| [[Juliet|JULIET]] | I would not for the world they saw thee here. |
-| [[Romeo|ROMEO]] | I have [[Night|night]]’s cloak to hide me from their eyes, And but thou [[Love|love]] me, let them find me here. My life were better ended by their hate Than [[Death|death]] prorogued, wanting of thy [[Love|love]]. |
-| [[Juliet|JULIET]] | By whose direction found’st thou out this place? |
-| [[Romeo|ROMEO]] | By [[Love|love]], that first did prompt me to enquire. He lent me counsel, and I lent him eyes. I am no pilot, yet wert thou as far As that vast shore washed with the farthest sea, I should adventure for such merchandise. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--04_monologue_juliet" data-title="Romeo and Juliet — Act II, Scene 1 — monologue (JULIET) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Juliet|JULIET]] | Thou knowest the mask of [[Night|night]] is on my face, Else would a maiden blush bepaint my cheek For that which thou hast heard me speak tonight. Fain would I dwell on form, fain, fain deny What I have spoke; but farewell, compliment. Dost thou [[Love|love]] me? I know thou wilt say ‘Ay’, And I will take thy word. Yet if thou swear‘st Thou mayst prove false. At [[lovers]]’ perjuries, They say, Jove laughs. O gentle [[Romeo]], If thou dost [[Love|love]], pronounce it faithfully; Or if thou think’st I am too quickly won, I’ll frown, and be perverse, and say thee nay, So thou wilt woo; but else, not for the world. In [[Truth|truth]], fair Montague, I am too fond, And therefore thou mayst think my ‘haviour light. But trust me, gentleman, I’ll prove more true Than those that have more cunning to be strange. I should have been more strange, I must confess, But that thou overheard’st, ere I was ware, My true-[[Love|love]] passion. Therefore pardon me, And not impute this yielding to light [[Love|love]], Which the dark [[Night|night]] hath so discoverèd. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--05_exchange_romeo" data-title="Romeo and Juliet — Act II, Scene 1 — exchange (ROMEO) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | Lady, by yonder blessèd [[Moon|moon]] I vow, That tips with silver all these fruit-tree tops— |
-| [[Juliet|JULIET]] | O swear not by the [[Moon|moon]], th’inconstant [[Moon|moon]] That monthly changes in her circled orb, Lest that thy [[Love|love]] prove likewise variable. |
-| [[Romeo|ROMEO]] | What shall I swear by? |
-| [[Juliet|JULIET]] | Do not swear at all, Or if thou wilt, swear by thy gracious [[Self|self]], Which is the god of my idolatry, And I’ll believe thee. |
-| [[Romeo|ROMEO]] | If my heart’s dear [[Love|love]]— |
-| [[Juliet|JULIET]] | [[Well]], do not swear. Although I joy in thee, I have no joy of this contract tonight. It is too rash, too unadvised, too sudden, Too like the [[Lightning|lightning]] which doth cease to be Ere one can say it lightens. Sweet, good [[Night|night]]. This bud of [[Love|love]] by [[Summer|summer]]’s ripening breath May prove a beauteous flower when next we meet. Good [[Night|night]], good [[Night|night]]. As sweet repose and rest Come to thy heart as that within my breast. |
-| [[Romeo|ROMEO]] | O, wilt thou leave me so unsatisfied? |
-| [[Juliet|JULIET]] | What satisfaction canst thou have tonight? |
-| [[Romeo|ROMEO]] | Th’exchange of thy [[Love|love]]’s faithful vow for mine. |
-| [[Juliet|JULIET]] | I gave thee mine before thou didst request it, And yet I would it were to give again. |
-| [[Romeo|ROMEO]] | Wouldst thou withdraw it? For what purpose, [[Love|love]]? |
-| [[Juliet|JULIET]] | But to be frank and give it thee again. And yet I wish but for the thing I have. My bounty is as boundless as the sea, My [[Love|love]] as deep. The more I give to thee The more I have, for both are infinite. [[Nurse]] calls within I hear some noise within. Dear [[Love|love]], adieu.— Anon, good [[Nurse]]!—Sweet Montague, be true. Stay but a little; I will come again. Exit |
-| [[Romeo|ROMEO]] | O blessed, blessèd [[Night|night]]! I am afeard, Being in [[Night|night]], all this is but [[A Dream|a dream]], Too flattering-sweet to be substantial. Enter [[Juliet]] aloft |
-| [[Juliet|JULIET]] | Three words, dear [[Romeo]], and good [[Night|night]] indeed. If that thy bent of [[Love|love]] be honourable, Thy purpose [[Marriage|marriage]], send me word tomorrow, By one that I’ll procure to come to thee, Where and what [[Time|time]] thou wilt perform the rite, And all my fortunes at thy foot I’ll lay, And follow thee, my lord, throughout the world. [[Nurse|NURSE]] (within) Madam! |
-| [[Juliet|JULIET]] | I come, anon. (To [[Romeo]]) But if thou mean’st not [[Well|well]], I do beseech thee— [[Nurse|NURSE]] (within) Madam! |
-| [[Juliet|JULIET]] | By and by I come.— To cease thy strife and leave me to my grief. Tomorrow will I send. |
-| [[Romeo|ROMEO]] | So thrive my [[Soul|soul]]— |
-| [[Juliet|JULIET]] | A thousand times good [[Night|night]]. Exit |
-| [[Romeo|ROMEO]] | A thousand times the worse to want thy light. [[Love]] goes toward [[Love|love]] as schoolboys from their books, But [[Love|love]] from [[Love|love]], toward school with heavy looks. He is going. Enter [[Juliet]] aloft again |
-| [[Juliet|JULIET]] | Hist, [[Romeo]]! Hist! O for a falconer’s voice To lure this tassel-gentle back again. Bondage is hoarse, and may not speak aloud, Else would I tear the [[Cave|cave]] where Echo lies, And make her airy tongue more hoarse than mine With repetition of my [[Romeo]]’s name. [[Romeo]]! |
-| [[Romeo|ROMEO]] | It is my [[Soul|soul]] that calls upon my name. How silver-sweet sound [[lovers]]’ tongues by [[Night|night]], Like softest music to attending ears! |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--06_exchange_juliet" data-title="Romeo and Juliet — Act II, Scene 1 — exchange (JULIET) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Juliet|JULIET]] | [[Romeo]]! |
-| [[Romeo|ROMEO]] | My nyas? |
-| [[Juliet|JULIET]] | What o’[[Clock|clock]] tomorrow Shall I send to thee? |
-| [[Romeo|ROMEO]] | By the hour of nine. |
-| [[Juliet|JULIET]] | I will not fail; ’tis twenty year till then. I have forgot why I did call thee back. |
-| [[Romeo|ROMEO]] | Let me stand here till thou remember it. |
-| [[Juliet|JULIET]] | I shall forget, to have thee still stand there, Rememb’ring how I [[Love|love]] thy company. |
-| [[Romeo|ROMEO]] | And I’ll still stay, to have thee still forget, Forgetting any other [[Home|home]] but this. |
-| [[Juliet|JULIET]] | ’Tis almost morning. I would have thee gone— And yet no farther than a wanton’s bird, That lets it hop a little from his hand, Like a poor prisoner in his twisted gyves, And with a silk thread plucks it back again, So loving-jealous of his liberty. |
-| [[Romeo|ROMEO]] | I would I were thy bird. |
-| [[Juliet|JULIET]] | Sweet, so would I. Yet I should kill thee with much cherishing. Good [[Night|night]], good [[Night|night]]. Parting is such sweet sorrow That I shall say good [[Night|night]] till it be morrow. [[Romeo|ROMEO]] [[Sleep]] dwell upon thine eyes, peace in thy breast. Exit [[Juliet]] Would I were [[Sleep|sleep]] and peace, so sweet to rest. Hence will I to my ghostly sire’s close cell, His help to crave, and my dear hap to tell. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Romeo and Juliet — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Benvolio]] and [[Mercutio]] |
-| [[Mercutio|MERCUTIO]] | Where the devil should this [[Romeo]] be? Came he not [[Home|home]] tonight? |
-| [[Benvolio|BENVOLIO]] | Not to his father’s. I spoke with his man. |
-| [[Mercutio|MERCUTIO]] | Why, that same pale hard-hearted wench, that [[Rosaline]], Torments him so that he will sure run mad. |
-| [[Benvolio|BENVOLIO]] | [[Tybalt]], the kinsman to old [[Capulet]], Hath sent a letter to his father’s [[house]]. |
-| [[Mercutio|MERCUTIO]] | A challenge, on my life. |
-| [[Benvolio|BENVOLIO]] | [[Romeo]] will answer it. |
-| [[Mercutio|MERCUTIO]] | Any man that can write may answer a letter. |
-| [[Benvolio|BENVOLIO]] | Nay, he will answer the letter’s master, how he dares, being dared. is |
-| [[Mercutio|MERCUTIO]] | Alas, poor [[Romeo]], he is already dead—stabbed with a white wench’s black eye, run through the ear with a [[Love|love]] [[Song|song]], the very pin of his heart cleft with the blind bow-boy’s butt-shaft; and is he a man to encounter [[Tybalt]]? [[Benvolio|BENVOLIO]] Why, what is [[Tybalt]]? |
-| [[Mercutio|MERCUTIO]] | More than Prince of Cats. O, he’s the courageous captain of compliments. He fights as you sing pricksong: keeps [[Time|time]], distance, and proportion. He rests his minim rests: one, two, and the third in your bosom; the very butcher of a silk button. A duellist, a duellist; a gentleman of the very first [[house]] of the first and second cause. Ah, the immortal passado, the puntoreverso, the hai. |
-| [[Benvolio|BENVOLIO]] | The what? |
-| [[Mercutio|MERCUTIO]] | The pox of such antic, lisping, affecting phantasims, these new tuners of accent! ‘By Jesu, a very good blade, a very tall man, a very good whore.’ Why is not this a lamentable thing, grandsire, that we should be thus afflicted with these strange flies, these fashion-mongers, these ‘pardon-me’s’, who stand so much on the new form that they cannot sit at ease on the old bench? O, their bones, their bones! Enter [[Romeo]] |
-| [[Benvolio|BENVOLIO]] | Here comes [[Romeo]], here comes [[Romeo]]! |
-| [[Mercutio|MERCUTIO]] | Without his roe, like a dried herring. O flesh, flesh, how art thou fishified ! Now is he for the numbers that Petrarch flowed in. Laura to his lady was a kitchen wench—marry, she had a better [[Love|love]] to berhyme her—Dido a dowdy, [[Cleopatra]] a gypsy, [[Helen]] and [[Hero]] hildings and harlots, Thisbe a grey eye or so, but not to the purpose. Signor [[Romeo]], bonjour. There’s a French salutation to your French slop. You gave us the counterfeit fairly last [[Night|night]]. |
-| [[Romeo|ROMEO]] | Good morrow to you both. What counterfeit did I give you? 45 |
-| [[Mercutio|MERCUTIO]] | The slip, sir, the slip. Can you not conceive ? |
-| [[Romeo|ROMEO]] | Pardon, good [[Mercutio]]. My business was great, and in such a case as mine a man may strain courtesy. |
-| [[Mercutio|MERCUTIO]] | That’s as much as to say such a case as yours constrains a man to bow in the hams. |
-| [[Romeo|ROMEO]] | Meaning to curtsy. |
-| [[Mercutio|MERCUTIO]] | Thou hast most kindly hit it. |
-| [[Romeo|ROMEO]] | A most courteous exposition. |
-| [[Mercutio|MERCUTIO]] | Nay, I am the very pink of courtesy. |
-| [[Romeo|ROMEO]] | Pink for flower. |
-| [[Mercutio|MERCUTIO]] | Right. |
-| [[Romeo|ROMEO]] | Why, then is my pump [[Well|well]] flowered. |
-| [[Mercutio|MERCUTIO]] | Sure wit, follow me this jest now till thou hast worn out thy pump, that when the single sole of it is worn, the jest may remain, after the wearing, solely singular. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--02_exchange_romeo_o" data-title="Romeo and Juliet — Act II, Scene 3 — exchange (ROMEO O) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | O single-soled jest, solely singular for the singleness! |
-| [[Mercutio|MERCUTIO]] | Come between us, good [[Benvolio]]. My wits faints. |
-| [[Romeo|ROMEO]] | Switch and spurs, switch and spurs, or I’ll cry a match. |
-| [[Mercutio|MERCUTIO]] | Nay, if our wits run the wild-goose chase, I am done, for thou hast more of the wild goose in one of thy wits than I am sure I have in my whole five. Was I with you there for the goose? |
-| [[Romeo|ROMEO]] | Thou wast never with me for anything when thou wast not there for the goose. |
-| [[Mercutio|MERCUTIO]] | I will bite thee by the ear for that jest. |
-| [[Romeo|ROMEO]] | Nay, good goose, bite not. |
-| [[Mercutio|MERCUTIO]] | Thy wit is very bitter sweeting, it is a most sharp sauce. |
-| [[Romeo|ROMEO]] | And is it not then [[Well|well]] served in to a sweet goose? |
-| [[Mercutio|MERCUTIO]] | O, here’s a wit of cheverel, that stretches from an inch narrow to an ell broad. |
-| [[Romeo|ROMEO]] | I stretch it out for that word ‘broad’, which, added to the goose, proves thee far and wide a broad goose. |
-| [[Mercutio|MERCUTIO]] | Why, is not this better now than groaning for [[Love|love]]? Now art thou sociable, now art thou [[Romeo]], now art thou what thou art by art as [[Well|well]] as by [[Nature|nature]], for this drivelling [[Love|love]] is like a great natural that runs lolling up and down to hide his bauble in a hole. |
-| [[Benvolio|BENVOLIO]] | Stop there, stop there. |
-| [[Mercutio|MERCUTIO]] | Thou desirest me to stop in my tale against the hair. |
-| [[Benvolio|BENVOLIO]] | Thou wouldst else have made thy tale large. [[Mercutio|MERCUTIO]] O, thou art deceived, I would have made it short, for I was come to the whole depth of my tale, and meant indeed to occupy the argument no longer. Enter the [[Nurse]], and Peter, her man |
-| [[Romeo|ROMEO]] | Here’s goodly gear. [[Benvolio|BENVOLIO]] A sail, a sail! |
-| [[Mercutio|MERCUTIO]] | Two, two—a shirt and a smock. |
-| [[Nurse|NURSE]] | Peter. |
-| PETER | Anon. |
-| [[Nurse|NURSE]] | My fan, Peter. |
-| [[Mercutio|MERCUTIO]] | Good Peter, to hide her face, for her fan’s the fairer face. |
-| [[Nurse|NURSE]] | God ye good morrow, gentlemen. |
-| [[Mercutio|MERCUTIO]] | God ye good e’en, fair gentlewoman. |
-| [[Nurse|NURSE]] | Is it good e’en? |
-| [[Mercutio|MERCUTIO]] | ’Tis no less, I tell ye: for the bawdy hand of the dial is now upon the prick of [[Noon|noon]]. |
-| [[Nurse|NURSE]] | Out upon you, what a man are you! |
-| [[Romeo|ROMEO]] | One, gentlewoman, that God hath made for himself to mar. |
-| [[Nurse|NURSE]] | By my troth, it is [[Well|well]] said. ‘For himself to mar’, quoth a? Gentlemen, can any of you tell me where I may find the young [[Romeo]]? |
-| [[Romeo|ROMEO]] | I can tell you, but young [[Romeo]] will be older when you have found him than he was when you sought him. I am the youngest of that name, for fault of a worse. |
-| [[Nurse|NURSE]] | You say [[Well|well]]. |
-| [[Mercutio|MERCUTIO]] | Yea, is the worst [[Well|well]]? Very [[Well|well]] took, i’[[Faith|faith]], wisely, wisely. |
-| [[Nurse|NURSE]] | (to [[Romeo]]) If you be he, sir, I [[Desire|desire]] some confidence with you. |
-| [[Benvolio|BENVOLIO]] | She will endite him to some supper. |
-| [[Mercutio|MERCUTIO]] | A bawd, a bawd, a bawd. So ho! |
-| [[Romeo|ROMEO]] | What hast thou found? |
-| [[Mercutio|MERCUTIO]] | No hare, sir, unless a hare, sir, in a lenten pie, that is something stale and hoar ere it be spent. He walks by them and sings An old hare hoar And an old hare hoar Is very good meat in Lent. But a hare that is hoar Is too much for a score When it hoars ere it be spent. [[Romeo]], will you come to your father’s ? We’ll to dinner thither. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--03_exchange_romeo_i" data-title="Romeo and Juliet — Act II, Scene 3 — exchange (ROMEO I) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | I will follow you. |
-| [[Mercutio|MERCUTIO]] | Farewell, ancient lady. Farewell, sings ‘lady, lady, lady’. Exeunt [[Mercutio]] and [[Benvolio]] |
-| [[Nurse|NURSE]] | I pray you, sir, what saucy merchant was this that was so full of his ropery? |
-| [[Romeo|ROMEO]] | A gentleman, [[Nurse]], that loves to hear himself talk, and will speak more in a minute than he will stand to in a month. |
-| [[Nurse|NURSE]] | An a speak anything against me, I’ll take him down an a were lustier than he is, and twenty such jacks; an if I cannot, I’ll find those that shall. Scurvy knave! I am none of his flirt-jills, I am none of his skeans-mates. (To Peter) And thou must stand by, too, and suffer every knave to use me at his pleasure. |
-| PETER | I saw no man use you at his pleasure. If I had, my weapon should quickly have been out; I warrant you, I dare draw as soon as another man if I see occasion in a good quarrel, and the law on my side. |
-| [[Nurse|NURSE]] | Now, afore God, I am so vexed that every part about me quivers. Scurvy knave! (To [[Romeo]]) Pray you, sir, a word; and, as I told you, my young lady bid me enquire you out. What she bid me say I will keep to myself, but first let me tell ye if ye should lead her in a [[Fool|fool]]’s paradise, as they say, it were a very gross kind of behaviour, as they say, for the gentlewoman is young; and therefore if you should deal [[Double|double]] with her, truly it were an ill thing to be offered to any gentlewoman, and very weak dealing. |
-| [[Romeo|ROMEO]] | [[Nurse]], commend me to thy lady and mistress. I protest unto thee— |
-| [[Nurse|NURSE]] | Good heart, and i’[[Faith|faith]] I will tell her as much. Lord, Lord, she will be a joyful woman. |
-| [[Romeo|ROMEO]] | What wilt thou tell her, [[Nurse]]? Thou dost not mark me. |
-| [[Nurse|NURSE]] | I will tell her, sir, that you do protest; which as I take it is a gentlemanlike offer. |
-| [[Romeo|ROMEO]] | Bid her devise Some means to come to shrift this afternoon, And there she shall at [[Friar Laurence]]’ cell Be shrived and married. (Offering money) Here is for thy pains. |
-| [[Nurse|NURSE]] | No, truly, sir, not a penny. |
-| [[Romeo|ROMEO]] | Go to, I say, you shall. |
-| [[Nurse|NURSE]] | taking the money This afternoon, sir. [[Well]], she shall be there. |
-| [[Romeo|ROMEO]] | And stay, good [[Nurse]], behind the abbey wall. Within this hour my man shall be with thee And bring thee cords made like a tackled stair, Which to the high topgallant of my joy Must be my convoy in the secret [[Night|night]]. Farewell. Be trusty, and I’ll quit thy pains. Farewell. Commend me to thy mistress. |
-| [[Nurse|NURSE]] | Now God in heaven bless thee! Hark you, sir. |
-| [[Romeo|ROMEO]] | What sayst thou, my dear [[Nurse]]? |
-| [[Nurse|NURSE]] | Is your man secret? Did you ne‘er hear say ‘Two may keep counsel, putting one away’ ? |
-| [[Romeo|ROMEO]] | I warrant thee my man’s as true as steel. |
-| [[Nurse|NURSE]] | [[Well]], sir, my mistress is the sweetest lady. Lord, Lord, when ’twas a little prating thing— O, there is a nobleman in town, one [[Paris]], That would fain lay knife aboard; but she, good [[Soul|soul]], Had as lief see a toad, a very toad, As see him. I anger her sometimes, And tell her that [[Paris]] is the properer man; But I’ll warrant you, when I say so she looks As pale as any clout in the versal world. Doth not rosemary and [[Romeo]] begin Both with a letter? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--04_exchange_romeo" data-title="Romeo and Juliet — Act II, Scene 3 — exchange (ROMEO) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | Ay, [[Nurse]], what of that? Both with an ‘R’. |
-| [[Nurse|NURSE]] | Ah, mocker—that’s the dog’s name. ’R’ is for the—no, I know it begins with some other letter, and she hath the prettiest sententious of it, of you and rosemary, that it would do you good to hear it. |
-| [[Romeo|ROMEO]] | Commend me to thy lady. |
-| [[Nurse|NURSE]] | Ay, a thousand times. Peter! |
-| PETER | Anon. |
-| [[Nurse|NURSE]] | giving Peter her fan Before, and apace. Exeunt Peter and [[Nurse]] at one door, [[Romeo]] at another door |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Romeo and Juliet — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Mercutio]] with his page, [[Benvolio]], and men |
-| [[Benvolio|BENVOLIO]] | I pray thee, good [[Mercutio]], let’s retire. The day is hot, the Capels are abroad, And if we meet we shall not scape a brawl, For now, these hot days, is the mad [[Blood|blood]] stirring. |
-| [[Mercutio|MERCUTIO]] | Thou art like one of these fellows that, when he enters the confines of a tavern, claps me his [[Sword|sword]] upon the table and says ‘God send me no need of thee’, and by the operation of the second cup, draws him on the drawer when indeed there is no need. |
-| [[Benvolio|BENVOLIO]] | Am I like such a fellow? |
-| [[Mercutio|MERCUTIO]] | Come, come, thou art as hot a jack in thy mood as any in [[Italy]], and as soon moved to be moody, and as soon moody to be moved. |
-| [[Benvolio|BENVOLIO]] | And what to? |
-| [[Mercutio|MERCUTIO]] | Nay, an there were two such, we should have none shortly, for one would kill the other. Thou—why, thou wilt quarrel with a man that hath a hair more or a hair less in his beard than thou hast. Thou wilt quarrel with a man for cracking nuts, having no other reason but because thou hast hazel eyes. What eye but such an eye would spy out such a quarrel? Thy head is as full of quarrels as an egg is full of meat, and yet thy head hath been beaten as addle as an egg for quarrelling. Thou hast quarrelled with a man for coughing in the street because he hath wakened thy dog that hath lain asleep in the sun. Didst thou not fall out with a tailor for wearing his new doublet before Easter; with another for tying his new shoes with old ribbon? And yet thou wilt tutor me from quarrelling! |
-| [[Benvolio|BENVOLIO]] | An I were so apt to quarrel as thou art, any man should buy the fee-simple of my life for an hour and a quarter. |
-| [[Mercutio|MERCUTIO]] | The fee simple? O, simple! Enter [[Tybalt]], Petruccio, and others |
-| [[Benvolio|BENVOLIO]] | By my head, here comes the Capulets. |
-| [[Mercutio|MERCUTIO]] | By my heel, I care not. |
-| [[Tybalt|TYBALT]] | (to Petruccio and the others) Follow me close, for I will speak to them. (To the Montagues) Gentlemen, good e’en. A word with one of you. |
-| [[Mercutio|MERCUTIO]] | And but one word with one of us? Couple it with something: make it a word and a blow. |
-| [[Tybalt|TYBALT]] | You shall find me apt enough to that, sir, an you will give me occasion. |
-| [[Mercutio|MERCUTIO]] | Could you not take some occasion without giving ? |
-| [[Tybalt|TYBALT]] | [[Mercutio]], thou consort’st with [[Romeo]]. |
-| [[Mercutio|MERCUTIO]] | ‘Consort’ ? What, dost thou make us minstrels? An thou make minstrels of us, look to hear nothing but discords. touching his rapier Here’s my fiddlestick; here’s that shall make you [[Dance|dance]]. Zounds—‘Consort’! |
-| [[Benvolio|BENVOLIO]] | We talk here in the public haunt of men. Either withdraw unto some private place, Or reason coldly of your grievances, Or else depart. Here all eyes gaze on us. |
-| [[Mercutio|MERCUTIO]] | Men’s eyes were made to look, and let them gaze. I will not budge for no man’s pleasure, I. Enter [[Romeo]] |
-| [[Tybalt|TYBALT]] | [[Well]], peace be with you, sir. Here comes my man. |
-| [[Mercutio|MERCUTIO]] | But I’ll be hanged, sir, if he wear your livery. Marry, go before to field, he’ll be your follower. Your worship in that sense may call him ‘man’. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--02_exchange_tybalt" data-title="Romeo and Juliet — Act III, Scene 1 — exchange (TYBALT) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Tybalt|TYBALT]] | [[Romeo]], the [[Love|love]] I bear thee can afford No better term than this: thou art a [[Villain|villain]]. |
-| [[Romeo|ROMEO]] | [[Tybalt]], the reason that I have to [[Love|love]] thee Doth much excuse the appertaining rage To such a greeting. [[Villain]] am I none. Therefore, farewell. I see thou knowest me not. |
-| [[Tybalt|TYBALT]] | Boy, this shall not excuse the injuries That thou hast done me. Therefore turn and draw. |
-| [[Romeo|ROMEO]] | I do protest I never injured thee, But [[Love|love]] thee better than thou canst devise Till thou shalt know the reason of my [[Love|love]]. And so, good [[Capulet]]—which name I tender As dearly as mine own—be satisfied. |
-| [[Mercutio|MERCUTIO]] | drawing O calm, dishonourable, vile submission! 1 Alla stoccado carries it away. [[Tybalt]], you ratcatcher, come, will you walk? |
-| [[Tybalt|TYBALT]] | What wouldst thou have with me? |
-| [[Mercutio|MERCUTIO]] | Good [[King]] of Cats, nothing but one of your nine lives. That I mean to make bold withal, and, as you shall use me hereafter, dry-beat the rest of the eight. Will you pluck your [[Sword|sword]] out of his pilcher by the ears? Make haste, lest mine be about your ears ere it be out. |
-| [[Tybalt|TYBALT]] | (drawing) I am for you. |
-| [[Romeo|ROMEO]] | Gentle [[Mercutio]], put thy rapier up. |
-| [[Mercutio|MERCUTIO]] | (to [[Tybalt]]) Come, sir, your passado. They fight |
-| [[Romeo|ROMEO]] | drawing Draw, [[Benvolio]]. Beat down their weapons. Gentlemen, for shame forbear this outrage. [[Tybalt]], [[Mercutio]], the Prince expressly hath Forbid this bandying in [[Verona]] streets. Hold, [[Tybalt]], good [[Mercutio]]. [[Romeo]] beats down their points and rushes between them. [[Tybalt]] under [[Romeo]]’s arm thrusts [[Mercutio]] in PETRUCCIO Away, [[Tybalt]]! Exeunt [[Tybalt]], Petruccio, and their followers |
-| [[Mercutio|MERCUTIO]] | I am hurt. A plague o’ both your houses. I am sped. Is he gone, and hath nothing? |
-| [[Benvolio|BENVOLIO]] | What, art thou hurt? |
-| [[Mercutio|MERCUTIO]] | Ay, ay, a scratch, a scratch; marry, ’tis enough. Where is my page? Go, [[Villain|villain]]. Fetch a surgeon. Exit page |
-| [[Romeo|ROMEO]] | [[Courage]], man. The hurt cannot be much. |
-| [[Mercutio|MERCUTIO]] | No, ‘tis not so deep as a [[Well|well]], nor so wide as a church door, but ’tis enough. ’Twill serve. Ask for me tomorrow, and you shall find me a [[Grave|grave]] man. I am peppered, I warrant, for this world. A plague o’ both your houses! Zounds, a dog, a rat, a mouse, a cat, to scratch a man to [[Death|death]]! A braggart, a rogue, a [[Villain|villain]], that fights by the book of arithmetic! Why the devil came you between us ? I was hurt under your arm. |
-| [[Romeo|ROMEO]] | I thought all for the best. |
-| [[Mercutio|MERCUTIO]] | Help me into some [[house]], [[Benvolio]], Or I shall faint. A plague o’ both your houses. They have made worms’ meat of me. I have it, and soundly, too. Your houses! Exeunt all but [[Romeo]] |
-| [[Romeo|ROMEO]] | This gentleman, the Prince’s near ally, My very friend, hath got this mortal hurt In my behalf, my reputation stained With [[Tybalt]]’s slander—[[Tybalt]], that an hour Hath been my cousin! O sweet [[Juliet]], Thy [[Beauty|beauty]] hath made me effeminate, And in my temper softened valour’s steel. Enter [[Benvolio]] |
-| [[Benvolio|BENVOLIO]] | O [[Romeo]], [[Romeo]], brave [[Mercutio]] is dead! That gallant spirit hath aspired the clouds, Which too untimely here did scorn the earth. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--03_exchange_romeo" data-title="Romeo and Juliet — Act III, Scene 1 — exchange (ROMEO) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | This day’s black fate on more days doth depend. This but begins the woe others must end. Enter [[Tybalt]] |
-| [[Benvolio|BENVOLIO]] | Here comes the furious [[Tybalt]] back again. |
-| [[Romeo|ROMEO]] | He gad in triumph, and [[Mercutio]] slain ? Away to heaven, respective lenity, And [[Fire|fire]]-eyed fury be my conduct now. Now, [[Tybalt]], take the ‘[[Villain|villain]]’ back again That late thou gav’st me, for [[Mercutio]]’s [[Soul|soul]] Is but a little way above our heads, Staying for thine to keep him company. Either thou, or I, or both must go with him. |
-| [[Tybalt|TYBALT]] | Thou, wretched boy, that didst consort him here, Shalt with him hence. |
-| [[Romeo|ROMEO]] | This shall determine that. They fight. [[Tybalt]] is wounded. He falls and dies |
-| [[Benvolio|BENVOLIO]] | [[Romeo]], away, be gone. The citizens are up, and [[Tybalt]] slain. Stand not amazed. The Prince will doom thee [[Death|death]] If thou art taken. Hence, be gone, away. |
-| [[Romeo|ROMEO]] | O, I am fortune’s [[Fool|fool]]! |
-| [[Benvolio|BENVOLIO]] | Why dost thou stay? Exit [[Romeo]] Enter Citizens of the watchi |
-| CITIZEN | 0F THE WATCH Which way ran he that killed [[Mercutio]]? [[Tybalt]], that murderer, which way ran he? |
-| [[Benvolio|BENVOLIO]] | There lies that [[Tybalt]]. |
-| CITIZEN | OF THE WATCH (to [[Tybalt]]) Up, sir, go with me. I charge thee in the Prince’s name, obey. Enter the Prince, old Montague, [[Capulet]], their Wives, and all |
-| PRINCE | Where are the vile beginners of this fray? |
-| [[Benvolio|BENVOLIO]] | O noble Prince, I can discover all The unlucky manage of this fatal brawl. There lies the man, slain by young [[Romeo]], That slew thy kinsman, brave [[Mercutio]]. |
-| [[Capulet|CAPULET]]’S WIFE | [[Tybalt]], my cousin, O, my brother’s [[Child|child]]! O Prince, O cousin, husband! O, the [[Blood|blood]] is spilled Of my dear kinsman ! Prince, as thou art true, For [[Blood|blood]] of ours shed [[Blood|blood]] of Montague! O cousin, cousin! |
-| PRINCE | [[Benvolio]], who began this fray? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--04_monologue_benvolio" data-title="Romeo and Juliet — Act III, Scene 1 — monologue (BENVOLIO) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benvolio|BENVOLIO]] | [[Tybalt]], here slain, whom [[Romeo]]’s hand did slay. [[Romeo]], that spoke him fair, bid him bethink How nice the quarrel was, and urged withal Your high displeasure. All this-utterèd With gentle breath, calm look, knees humbly bowed— Could not take truce with the unruly spleen Of [[Tybalt]] deaf to peace, but that he tilts With piercing steel at bold [[Mercutio]]’s breast, Who, all as hot, turns deadly point to point, And, with a martial scorn, with one hand beats Cold [[Death|death]] aside, and with the other sends It back to [[Tybalt]], whose dexterity Retorts it. [[Romeo]], he cries aloud, ‘Hold, friends, friends, part!’ and swifter than his tongue His agent arm beats down their fatal points, And ’twixt them rushes, underneath whose arm An envious thrust from [[Tybalt]] hit the life Of stout [[Mercutio]], and then [[Tybalt]] fled, But by and by comes back to [[Romeo]], Who had but newly entertained [[Revenge|revenge]], And to’t they go like [[Lightning|lightning]]; for ere I Could draw to part them was stout [[Tybalt]] slain, And as he fell did [[Romeo]] turn and fly. This is the [[Truth|truth]], or let [[Benvolio]] die. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--05_exchange_capulets_wife" data-title="Romeo and Juliet — Act III, Scene 1 — exchange (CAPULET’S WIFE) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Capulet|CAPULET]]’S WIFE | He is a kinsman to the Montague. Affection makes him false; he speaks not true. Some twenty of them fought in this black strife, And all those twenty could but kill one life. I beg for justice, which thou, Prince, must give. [[Romeo]] slew [[Tybalt]]; [[Romeo]] must not live. |
-| PRINCE | [[Romeo]] slew him, he slew [[Mercutio]]. Who now the price of his dear [[Blood|blood]] doth owe? MONTAGUE Not [[Romeo]], Prince. He was [[Mercutio]]’s friend. His fault concludes but what the law should end, The life of [[Tybalt]]. |
-| PRINCE | And for that offence Immediately we do [[Exile|exile]] him hence. I have an interest in your hate’s proceeding; My [[Blood|blood]] for your rude brawls doth lie a-bleeding. But I’ll amerce you with so strong a fine That you shall all repent the loss of mine. I will be deaf to pleading and excuses. Nor [[Tears|tears]] nor prayers shall purchase out abuses. Therefore use none. Let [[Romeo]] hence in haste, Else, when he is found, that hour is his last. Bear hence this [[Body|body]], and attend our will. [[Mercy]] but murders, pardoning those that kill. Exeunt with the [[Body|body]] |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="Romeo and Juliet — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Juliet]] |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--02_monologue_juliet" data-title="Romeo and Juliet — Act III, Scene 2 — monologue (JULIET) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Juliet|JULIET]] | Gallop apace, you fiery-footed steeds, Towards Phoebus’ lodging. Such a waggoner As Phaeton would whip you to the west And bring in cloudy [[Night|night]] immediately. Spread thy close curtain, [[Love|love]]-performing [[Night|night]], That runaways’ eyes may wink, and [[Romeo]] Leap to these arms untalked of and unseen. [[lovers|Lovers]] can see to do their amorous rites By their own beauties; or, if [[Love|love]] be blind, It best agrees with [[Night|night]]. Come, civil [[Night|night]], Thou sober-suited matron all in black, And learn me how to lose a winning match Played for a pair of stainless maidenhoods. Hood my unmanned [[Blood|blood]], bating in my cheeks, With thy black mantle till strange [[Love|love]] grown bold Think true [[Love|love]] acted simple modesty. Come [[Night|night]], come [[Romeo]]; come, thou day in [[Night|night]], For thou wilt lie upon the wings of [[Night|night]] Whiter than new [[Snow|snow]] on a raven’s back. Come, gentle [[Night|night]]; come, loving, black-browed [[Night|night]], Give me my [[Romeo]], and when I shall die Take him and cut him out in little [[Stars|stars]], And he will make the face of heaven so fine That all the world will be in [[Love|love]] with [[Night|night]] And pay no worship to the garish sun. O, I have bought the mansion of a [[Love|love]] But not possessed it, and though I am sold, Not yet enjoyed. So tedious is this day As is the [[Night|night]] before some festival To an impatient [[Child|child]] that hath new robes And may not wear them. Enter the [[Nurse]], wringing her hands, with the ladder of cords in her lap O, here comes my [[Nurse]], And she brings news, and every tongue that speaks But [[Romeo]]’s name speaks heavenly eloquence. Now, [[Nurse]], what news ? What, hast thou there The cords that [[Romeo]] bid thee fetch? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--03_exchange_nurse" data-title="Romeo and Juliet — Act III, Scene 2 — exchange (NURSE) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Nurse|NURSE]] | putting down the cords Ay, ay, the cords. |
-| [[Juliet|JULIET]] | Ay me, what news? Why dost thou wring thy hands? |
-| [[Nurse|NURSE]] | Ah, welladay! He’s dead, he’s dead, he’s dead! We are undone, lady, we are undone. Alack the day, he’s gone, he’s killed, he’s dead! |
-| [[Juliet|JULIET]] | Can heaven be so envious? |
-| [[Nurse|NURSE]] | [[Romeo]] can, Though heaven cannot. O [[Romeo]], [[Romeo]], Who ever would have thought it [[Romeo]]? |
-| [[Juliet|JULIET]] | What devil art thou that dost torment me thus? This torture should be roared in dismal hell. Hath [[Romeo]] slain himself? Say thou but ‘Ay’, And that bare vowel ‘I’ shall [[Poison|poison]] more Than the [[Death|death]]-darting eye of cockatrice. I am not I if there be such an ‘Ay’, Or those eyes shut that makes thee answer ‘Ay’. If he be slain, say ‘Ay’; or if not, ‘No’. Brief sounds determine of my weal or woe. |
-| [[Nurse|NURSE]] | I saw the wound, I saw it with mine eyes, God save the mark, here on his manly breast— A piteous corpse, a bloody, piteous corpse— Pale, pale as ashes, all bedaubed in [[Blood|blood]], All in gore [[Blood|blood]]; I swooned at the sight. |
-| [[Juliet|JULIET]] | O, break, my heart, poor bankrupt, break at once! To [[Prison|prison]], eyes; ne’er look on liberty. Vile earth, to earth resign; end motion here, And thou and [[Romeo]] press one heavy bier! |
-| [[Nurse|NURSE]] | O [[Tybalt]], [[Tybalt]], the best friend I had! O courteous [[Tybalt]], honest gentleman, That ever I should live to see thee dead! |
-| [[Juliet|JULIET]] | What [[Storm|storm]] is this that blows so contrary? Is [[Romeo]] slaughtered, and is [[Tybalt]] dead? My dearest cousin and my dearer lord? Then, dreadful trumpet, sound the general doom, For who is living if those two are gone? |
-| [[Nurse|NURSE]] | [[Tybalt]] is gone and [[Romeo]] banished. [[Romeo]] that killed him—he is banished. |
-| [[Juliet|JULIET]] | O God, did [[Romeo]]’s hand shed [[Tybalt]]’s [[Blood|blood]]? [[Nurse|NURSE]] It did, it did, alas the day, it did. [[Juliet|JULIET]] O serpent heart hid with a flow‘ring face! Did ever dragon keep so fair a [[Cave|cave]]? Beautiful [[Tyrant|tyrant]], fiend angelical! Dove-feathered raven, wolvish-ravening [[Lamb|lamb]]! Despisèd substance of divinest show! Just opposite to what thou justly seem’st— A damnèd saint, an honourable [[Villain|villain]]. O [[Nature|nature]], what hadst thou to do in hell When thou didst bower the spirit of a fiend In mortal paradise of such sweet flesh? Was ever book containing such vile matter So fairly bound? O, that deceit should dwell In such a gorgeous palace! |
-| [[Nurse|NURSE]] | There’s no trust, no [[Faith|faith]], no honesty in men; All perjured, all forsworn, all naught, dissemblers all. Ah, where’s my man? Give me some aqua vitae. These griefs, these woes, these sorrows make me old. Shame come to [[Romeo]]! |
-| [[Juliet|JULIET]] | Blistered be thy tongue For such a wish! He was not born to shame. Upon his brow shame is ashamed to sit, For ’tis a throne where [[Honour|honour]] may be crowned Sole monarch of the universal earth. O, what a beast was I to chide at him! |
-| [[Nurse|NURSE]] | Will you speak [[Well|well]] of him that killed your cousin? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--04_monologue_juliet" data-title="Romeo and Juliet — Act III, Scene 2 — monologue (JULIET) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Juliet|JULIET]] | Shall I speak ill of him that is my husband? Ah, poor my lord, what tongue shall smooth thy name When I, thy three-hours wife, have mangled it? But wherefore, [[Villain|villain]], didst thou kill my cousin? That [[Villain|villain]] cousin would have killed my husband. Back, foolish [[Tears|tears]], back to your native [[spring]]! Your tributary drops belong to woe, Which you, mistaking, offer up to joy. My husband lives, that [[Tybalt]] would have slain; And [[Tybalt]]’s dead, that would have slain my husband. All this is comfort. Wherefore weep I then? Some word there was, worser than [[Tybalt]]’s [[Death|death]], That murdered me. I would forget it fain, But O, it presses to my [[Memory|memory]] Like damned guilty deeds to sinners’ minds! ‘[[Tybalt]] is dead, and [[Romeo]] banished.’ That ‘banishèd’, that one word ‘banishèd’ Hath slain ten thousand Tybalts. [[Tybalt]]’s [[Death|death]] Was woe enough, if it had ended there; Or, if sour woe delights in fellowship And needly will be ranked with other griefs, Why followed not, when she said ‘[[Tybalt]]’s dead’, ‘Thy father’, or ‘thy mother’, nay, or both, Which modern lamentation might have moved? But with a rearward following [[Tybalt]]’s [[Death|death]], ‘[[Romeo]] is banishèd‘-to speak that word Is father, mother, [[Tybalt]], [[Romeo]], [[Juliet]], All slain, all dead. ‘[[Romeo]] is banishèd’— There is no end, no limit, measure, bound, In that word’s [[Death|death]]. No words can that woe sound. Where is my father and my mother, [[Nurse]]? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--05_exchange_nurse" data-title="Romeo and Juliet — Act III, Scene 2 — exchange (NURSE) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Nurse|NURSE]] | Weeping and wailing over [[Tybalt]]’s corpse. Will you go to them? I will bring you thither. |
-| [[Juliet|JULIET]] | Wash they his wounds with [[Tears|tears]]; mine shall be spent When theirs are dry, for [[Romeo]]’s banishment. Take up those cords. Poor ropes, you are beguiled, Both you and I, for [[Romeo]] is exiled. He made you for a highway to my bed, But I, a maid, die maiden-widowed. Come, cords; come, [[Nurse]]; I’ll to my wedding bed, And [[Death|death]], not [[Romeo]], take my maidenhead! |
-| [[Nurse|NURSE]] | (taking up the cords) Hie to your chamber. I’ll find [[Romeo]] To comfort you. I wot [[Well|well]] where he is. Hark ye, your [[Romeo]] will be here at [[Night|night]]. I’ll to him. He is hid at Laurence’ cell. |
-| [[Juliet|JULIET]] | (giving her a ring) O, find him! Give this ring to my true knight, And bid him come to take his last farewell. Exeunt severally |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--01_exchange_dialogue" data-title="Romeo and Juliet — Act III, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Friar Laurence]] |
-| [[Friar Laurence|FRIAR LAURENCE]] | [[Romeo]], come forth, come forth, thou [[Fear|fear]]-full man. Affliction is enamoured of thy parts, And thou art wedded to calamity. Enter [[Romeo]] |
-| [[Romeo|ROMEO]] | Father, what news? What is the Prince’s doom? What sorrow craves acquaintance at my hand That I yet know not? |
-| [[Friar Laurence|FRIAR LAURENCE]] | Too familiar Is my dear son with such sour company. I bring thee tidings of the Prince’s doom. |
-| [[Romeo|ROMEO]] | What less than doomsday is the Prince’s doom? |
-| [[Friar Laurence|FRIAR LAURENCE]] | A gentler judgement vanished from his lips: Not [[Body|body]]’s [[Death|death]], but [[Body|body]]’s banishment. |
-| [[Romeo|ROMEO]] | Ha, banishment? Be merciful, say ‘[[Death|death]]’, For [[Exile|exile]] hath more terror in his look, Much more than [[Death|death]]. Do not say ‘banishment’. |
-| [[Friar Laurence|FRIAR LAURENCE]] | Hence from [[Verona]] art thou banished. Be patient, for the world is broad and wide. |
-| [[Romeo|ROMEO]] | There is no world without [[Verona]] walls But purgatory, torture, hell itself. Hence banished is banished from the world, And world’s [[Exile|exile]] is [[Death|death]]. Then ‘banishèd’ Is [[Death|death]] mistermed. Calling [[Death|death]] ‘banishèd’ Thou cutt‘st my head off with a golden axe, And smil’st upon the stroke that murders me. |
-| [[Friar Laurence|FRIAR LAURENCE]] | O deadly sin, O rude unthankfulness! Thy fault our law calls [[Death|death]], but the kind Prince, Taking thy part, hath rushed aside the law And turned that black word ’[[Death|death]]’ to banishment. This is dear [[Mercy|mercy]], and thou seest it not. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--02_monologue_romeo" data-title="Romeo and Juliet — Act III, Scene 3 — monologue (ROMEO) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | ‘Tis torture, and not [[Mercy|mercy]]. Heaven is here Where [[Juliet]] lives, and every cat and dog And little mouse, every unworthy thing, Live here in heaven and may look on her, But [[Romeo]] may not. More validity, More honourable state, more courtship lives In carrion flies than [[Romeo]]. They may seize On the white [[Wonder|wonder]] of dear [[Juliet]]’s hand, And steal immortal blessing from her lips, Who, even in pure and vestal modesty, Still blush, as thinking their own kisses sin. But [[Romeo]] may not, he is banished. Flies may do this, but I from this must fly. They are free men, but I am banished. And sayst thou yet that [[Exile|exile]] is not [[Death|death]]? Hadst thou no [[Poison|poison]] mixed, no sharp-ground knife, No sudden mean of [[Death|death]], though ne’er so mean, But ‘banishèd’ to kill me—‘banishèd’? O friar, the damned use that word in hell. Howling attends it. How hast thou the heart, Being a divine, a ghostly confessor, A sin-absolver and my friend professed, To mangle me with that word ‘banishèd’? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--03_exchange_friar_laurence" data-title="Romeo and Juliet — Act III, Scene 3 — exchange (FRIAR LAURENCE) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Friar Laurence|FRIAR LAURENCE]] | Thou fond mad man, hear me a little speak. |
-| [[Romeo|ROMEO]] | O, thou wilt speak again of banishment. |
-| [[Friar Laurence|FRIAR LAURENCE]] | I’ll give thee armour to keep off that word— Adversity’s sweet milk, [[philosophy]], To comfort thee though thou art banished. |
-| [[Romeo|ROMEO]] | Yet ‘banishèd’? Hang up [[philosophy]]! Unless [[philosophy]] can make a [[Juliet]], Displant a town, reverse a prince’s doom, It helps not, it prevails not. Talk no more. |
-| [[Friar Laurence|FRIAR LAURENCE]] | O, then I see that madmen have no ears. |
-| [[Romeo|ROMEO]] | How should they, when that wise men have no eyes? |
-| [[Friar Laurence|FRIAR LAURENCE]] | Let me dispute with thee of thy estate. |
-| [[Romeo|ROMEO]] | Thou canst not speak of that thou dost not feel. Wert thou as young as I, [[Juliet]] thy [[Love|love]], An hour but married, [[Tybalt]] murdered, Doting like me, and like me banished, Then mightst thou speak, then mightst thou tear thy hair, And fall upon the ground, as I do now, He falls upon the ground |
-| [[Romeo|ROMEO]] | Taking the measure of an unmade [[Grave|grave]]. Knock within |
-| [[Friar Laurence|FRIAR LAURENCE]] | Arise, one knocks. Good [[Romeo]], hide thyself. |
-| [[Romeo|ROMEO]] | Not I, unless the breath of heartsick groans Mist-like enfold me from the search of eyes. Knocking within |
-| [[Friar Laurence|FRIAR LAURENCE]] | Hark, how they knock!—Who’s there?—[[Romeo]], arise. Thou wilt be taken.—Stay a white.—Stand up. Still knock within Run to my study.—By and by!—God’s will, What simpleness is this? Knock within I come, I come. Who knocks so hard? Whence come you? What’s your will? |
-| [[Nurse|NURSE]] | (within) Let me come in, and you shall know my errand. I come from Lady [[Juliet]]. |
-| [[Friar Laurence|FRIAR LAURENCE]] | opening the door Welcome then. Enter the [[Nurse]] |
-| [[Nurse|NURSE]] | O holy friar, O tell me, holy friar, Where is my lady’s lord? Where’s [[Romeo]]? |
-| [[Friar Laurence|FRIAR LAURENCE]] | There on the ground, with his own [[Tears|tears]] made drunk. |
-| [[Nurse|NURSE]] | O, he is even in my mistress’ case, Just in her case! O woeful sympathy, Piteous predicament! Even so lies she, Blubb’ring and weeping, weeping and blubb’ring. (To [[Romeo]]) Stand up, stand up, stand an you be a man, For [[Juliet]]’s sake, for her sake, rise and stand. Why should you fall into so deep an O? |
-| [[Romeo|ROMEO]] | (rising) [[Nurse]]. |
-| [[Nurse|NURSE]] | Ah sir, ah sir, [[Death|death]]’s the end of all. |
-| [[Romeo|ROMEO]] | Spak’st thou of [[Juliet]]? How is it with her? Doth not she think me an old murderer, Now I have stained the [[Childhood|childhood]] of our joy With [[Blood|blood]] removed but little from her own? Where is she, and how doth she, and what says My concealed lady to our cancelled [[Love|love]]? |
-| [[Nurse|NURSE]] | O, she says nothing, sir, but weeps and weeps, And now falls on her bed, and then starts up, And ’[[Tybalt]]’ calls, and then on [[Romeo]] cries, And then down falls again. |
-| [[Romeo|ROMEO]] | As if that name Shot from the deadly level of a gun Did murder her as that name’s cursed hand Murdered her kinsman. O tell me, friar, tell me, In what vile part of this anatomy Doth my name lodge? Tell me, that I may sack The hateful mansion. He offers to stab himself, and the [[Nurse]] snatches the dagger away |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--04_monologue_friar_laurence" data-title="Romeo and Juliet — Act III, Scene 3 — monologue (FRIAR LAURENCE) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Friar Laurence|FRIAR LAURENCE]] | Hold thy desperate hand. Art thou a man? Thy form cries out thou art. Thy [[Tears|tears]] are womanish, thy wild acts denote The unreasonable fury of a beast. Unseemly woman in a seeming man, And ill-beseeming beast in seeming both! Thou hast amazed me. By my holy order, I thought thy disposition better tempered. Hast thou slain [[Tybalt]]? Wilt thou slay thyself, And slay thy lady that in thy life lives By doing damned hate upon thyself? Why rail‘st thou on thy birth, the heaven, and earth, Since birth and heaven and earth, all three, do meet In thee at once, which thou at once wouldst lose? Fie, fie, thou sham’st thy shape, thy [[Love|love]], thy wit, Which like a usurer abound‘st in all, And usest none in that true use indeed Which should bedeck thy shape, thy [[Love|love]], thy wit. Thy noble shape is but a form of wax, Digressing from the valour of a man; Thy dear [[Love|love]] sworn but hollow perjury, Killing that [[Love|love]] which thou hast vowed to cherish; Thy wit, that ornament to shape and [[Love|love]], Misshapen in the conduct of them both, Like powder in a skilless soldier’s flask Is set afire by thine own ignorance, And thou dismembered with thine own defence. What, rouse thee, man! Thy [[Juliet]] is alive, For whose dear sake thou wast but lately dead: There art thou happy. [[Tybalt]] would kill thee, But thou slewest [[Tybalt]]: there art thou happy. The law that threatened [[Death|death]] becomes thy friend, And turns it to [[Exile|exile]]: there art thou happy. A pack of blessings light upon thy back, Happiness courts thee in her best array, But, like a mishavèd and sullen wench, Thou pout’st upon thy fortune and thy [[Love|love]]. Take heed, take heed, for such die miserable. Go, get thee to thy [[Love|love]], as was decreed. Ascend her chamber; hence and comfort her. But look thou stay not till the watch be set, For then thou canst not pass to Mantua, Where thou shalt live till we can find a [[Time|time]] To blaze your [[Marriage|marriage]], reconcile your friends, Beg pardon of the Prince, and call thee back With twenty hundred thousand times more joy Than thou went’st forth in lamentation. Go before, [[Nurse]]. Commend me to thy lady, And bid her hasten all the [[house]] to bed, Which heavy sorrow makes them apt unto. [[Romeo]] is coming. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--05_exchange_nurse" data-title="Romeo and Juliet — Act III, Scene 3 — exchange (NURSE) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Nurse|NURSE]] | O Lord, I could have stayed here all the [[Night|night]] To hear good counsel! O, what learning is! My lord, I’ll tell my lady you will come. |
-| [[Romeo|ROMEO]] | Do so, and bid my sweet prepare to chide. [[Nurse]] offers to go in, and turns again |
-| [[Nurse|NURSE]] | (giving the ring) Here, sir, a ring she bid me give you, sir. Hie you, make haste, for it grows very late. |
-| [[Romeo|ROMEO]] | How [[Well|well]] my comfort is revived by this. Exit [[Nurse]] |
-| [[Friar Laurence|FRIAR LAURENCE]] | Go hence, good [[Night|night]], and here stands all your state. Either be gone before the watch be set, Or by the break of day disguised from hence. Sojourn in Mantua. I’ll find out your man, And he shall signify from [[Time|time]] to [[Time|time]] Every good hap to you that chances here. Give me thy hand. ’Tis late. Farewell. Good [[Night|night]]. |
-| [[Romeo|ROMEO]] | But that a joy past joy calls out on me, It were a grief so brief to part with thee. Farewell. Exeunt severally |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_5--01_exchange_dialogue" data-title="Romeo and Juliet — Act III, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Romeo]] and [[Juliet]] aloft with the ladder of cords |
-| [[Juliet|JULIET]] | Wilt thou be gone? It is not yet near day. It was the [[Nightingale|nightingale]], and not the lark, That pierced the [[Fear|fear]]-full hollow of thine ear. Nightly she sings on yon pom’granate tree. Believe me, [[Love|love]], it was the [[Nightingale|nightingale]]. |
-| [[Romeo|ROMEO]] | It was the lark, the herald of the morn, No [[Nightingale|nightingale]]. Look, [[Love|love]], what envious streaks Do lace the severing clouds in yonder east. [[Night]]’s candles are burnt out, and jocund day Stands tiptoe on the misty mountain tops. I must be gone and live, or stay and die. |
-| [[Juliet|JULIET]] | Yon light is not daylight; I know it, I. It is some meteor that the sun exhaled To be to thee this [[Night|night]] a torchbearer And light thee on thy way to Mantua. Therefore stay yet. Thou need’st not to be gone. |
-| [[Romeo|ROMEO]] | Let me be ta‘en, let me be put to [[Death|death]]. I am content, so thou wilt have it so. I’ll say yon grey is not the morning’s eye, ’Tis but the pale reflex of [[Cynthia]]’s brow; Nor that is not the lark whose notes do beat The vaulty heaven so high above our heads. I have more care to stay than will to go. Come, [[Death|death]], and welcome; [[Juliet]] wills it so. How is’t, my [[Soul|soul]]? Let’s talk. It is not day. |
-| [[Juliet|JULIET]] | It is, it is. Hie hence, be gone, away. It is the lark that sings so out of tune, Straining harsh discords and unpleasing sharps. Some say the lark makes sweet division; This doth not so, for she divideth us. Some say the lark and loathed toad changed eyes. O, now I would they had changed voices, too, Since arm from arm that voice doth us affray, Hunting thee hence with hunt’s-up to the day. O, now be gone! More light and light it grows. |
-| [[Romeo|ROMEO]] | More light and light, more dark and dark our woes. Enter the [[Nurse]] hastily |
-| [[Nurse|NURSE]] | Madam. |
-| [[Juliet|JULIET]] | [[Nurse]]. |
-| [[Nurse|NURSE]] | Your lady mother is coming to your chamber. The day is broke; be wary, look about. Exit |
-| [[Juliet|JULIET]] | Then, [[Window|window]], let day in, and let life out. |
-| [[Romeo|ROMEO]] | Farewell, farewell! One kiss, and I’ll descend. He lets down the ladder of cords and goes down |
-| [[Juliet|JULIET]] | Art thou gone so, [[Love|love]], lord, my husband, friend? I must hear from thee every day in the hour, For in a minute there are many days. O, by this count I shall be much in years Ere I again behold my [[Romeo]]. |
-| [[Romeo|ROMEO]] | Farewell. I will omit no opportunity That may convey my greetings, [[Love|love]], to thee. |
-| [[Juliet|JULIET]] | O, think’st thou we shall ever meet again? |
-| [[Romeo|ROMEO]] | I [[Doubt|doubt]] it not, and all these woes shall serve For sweet discourses in our times to come. [[Juliet|JULIET]] O God, I have an ill-divining [[Soul|soul]]! Methinks I see thee, now thou art so low, As one dead in the [[Bottom|bottom]] of a tomb. Either my eyesight fails, or thou look’st pale. |
-| [[Romeo|ROMEO]] | And trust me, [[Love|love]], in my eye so do you. Dry sorrow drinks our [[Blood|blood]]. Adieu, adieu. Exit |
-| [[Juliet|JULIET]] | pulling up the ladder and weeping O fortune, fortune, all men call thee fickle. If thou art fickle, what dost thou with him That is renowned for [[Faith|faith]]? Be fickle, fortune, For then I [[Hope|hope]] thou wilt not keep him long, But send him back. Enter [[Capulet]]’s Wife below |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_5--02_exchange_capulets_wife" data-title="Romeo and Juliet — Act III, Scene 5 — exchange (CAPULET’S WIFE) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Capulet|CAPULET]]’S WIFE | Ho, daughter, are you up? |
-| [[Juliet|JULIET]] | Who is’t that calls? It is my lady mother. Is she not down so late, or up so early? What unaccustomed cause procures her hither? She goes down and enters below |
-| [[Capulet|CAPULET]]’S WIFE | Why, how now, [[Juliet]]? |
-| [[Juliet|JULIET]] | Madam, I am not [[Well|well]]. |
-| [[Capulet|CAPULET]]’S WIFE | Evermore weeping for your cousin’s [[Death|death]]? What, wilt thou wash him from his [[Grave|grave]] with [[Tears|tears]]? An if thou couldst, thou couldst not make him live, Therefore have done. Some grief shows much of [[Love|love]], But much of grief shows still some want of wit. |
-| [[Juliet|JULIET]] | Yet let me weep for such a feeling loss. |
-| [[Capulet|CAPULET]]’S WIFE | So shall you feel the loss, but not the friend Which you so weep for. |
-| [[Juliet|JULIET]] | Feeling so the loss, I cannot choose but ever weep the friend. |
-| [[Capulet|CAPULET]]’S WIFE | [[Well]], girl, thou weep’st not so much for his [[Death|death]] As that the [[Villain|villain]] lives which slaughtered him. |
-| [[Juliet|JULIET]] | What [[Villain|villain]], madam? |
-| [[Capulet|CAPULET]]’S WIFE | That same [[Villain|villain]] [[Romeo]]. |
-| [[Juliet|JULIET]] | (aside) [[Villain]] and he be many miles asunder. (To her mother) God pardon him—I do, with all my heart, And yet no man like he doth grieve my heart. |
-| [[Capulet|CAPULET]]’S WIFE | That is because the traitor murderer lives. |
-| [[Juliet|JULIET]] | Ay, madam, from the reach of these my hands. Would none but I might venge my cousin’s [[Death|death]]. |
-| [[Capulet|CAPULET]]’S WIFE | We will have vengeance for it, [[Fear|fear]] thou not. Then weep no more. I’ll send to one in Mantua, Where that same banished runagate doth live, Shall give him such an unaccustomed dram That he shall soon keep [[Tybalt]] company; And then I [[Hope|hope]] thou wilt be satisfied. |
-| [[Juliet|JULIET]] | Indeed, I never shall be satisfied With [[Romeo]] till I behold him, dead, Is my poor heart so for a kinsman vexed. Madam, if you could find out but a man To bear a [[Poison|poison]], I would temper it That [[Romeo]] should, upon receipt thereof, Soon [[Sleep|sleep]] in quiet. O, how my heart abhors To hear him named and cannot come to him To wreak the [[Love|love]] I bore my cousin Upon his [[Body|body]] that hath slaughtered him! |
-| [[Capulet|CAPULET]]’S WIFE | Find thou the means, and I’ll find such a man. But now I’ll tell thee joyful tidings, girl. |
-| [[Juliet|JULIET]] | And joy comes [[Well|well]] in such a needy [[Time|time]]. What are they, I beseech your ladyship? |
-| [[Capulet|CAPULET]]’S WIFE | [[Well]], [[Well|well]], thou hast a careful father, [[Child|child]]; One who, to put thee from thy heaviness, Hath sorted out a sudden day of joy That thou expect’st not, nor I looked not for. |
-| [[Juliet|JULIET]] | Madam, in happy [[Time|time]]. What day is that? |
-| [[Capulet|CAPULET]]’S WIFE | Marry, my [[Child|child]], early next [[thursday|Thursday]] morn The gallant, young, and noble gentleman The County [[Paris]] at Saint Peter’s Church Shall happily make thee there a joyful bride. |
-| [[Juliet|JULIET]] | Now, by Saint Peter’s Church, and Peter too, He shall not make me there a joyful bride. I [[Wonder|wonder]] at this haste, that I must wed Ere he that should be husband comes to woo. I pray you, tell my lord and father, madam, I will not marry yet; and when I do, I swear It shall be [[Romeo]]—whom you know I hate— Rather than [[Paris]]. These are news indeed. Enter [[Capulet]] and the [[Nurse]] |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_5--03_exchange_capulets_wife" data-title="Romeo and Juliet — Act III, Scene 5 — exchange (CAPULET’S WIFE) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Capulet|CAPULET]]’S WIFE | Here comes your father. Tell him so yourself, And see how he will take it at your hands. |
-| [[Capulet|CAPULET]] | When the sun sets, the earth doth drizzle dew, But for the sunset of my brother’s son It rains downright. How now, a conduit, girl? What, still in [[Tears|tears]]? Evermore show‘ring? In one little [[Body|body]] Thou counterfeit’st a barque, a sea, a [[Wind|wind]], For still thy eyes—which I may call the sea— Do ebb and flow with [[Tears|tears]]. The barque thy [[Body|body]] is, Sailing in this salt flood; the winds thy sighs, Who, raging with thy [[Tears|tears]] and they with them, Without a sudden calm will overset Thy tempest-tossed [[Body|body]].—How now, wife? Have you delivered to her our decree? |
-| [[Capulet|CAPULET]]’S WIFE | Ay, sir, but she will none, she gives you thanks. I would the [[Fool|fool]] were married to her [[Grave|grave]]. |
-| [[Capulet|CAPULET]] | Soft, take me with you, take me with you, wife. How, will she none? Doth she not give us thanks? Is she not proud? Doth she not count her blest, Unworthy as she is, that we have wrought So worthy a gentleman to be her bride? |
-| [[Juliet|JULIET]] | Not proud you have, but thankful that you have. Proud can I never be of what I hate, But thankful even for hate that is meant [[Love|love]]. |
-| [[Capulet|CAPULET]] | How, how, how, how—chopped [[logic]]? What is this? ‘Proud’, and ‘I thank you’, and ’I thank you not’, And yet ‘not proud’ ? Mistress minion, you, Thank me no thankings, nor proud me no prouds, But fettle your fine joints ’gainst [[thursday|Thursday]] next To go with [[Paris]] to Saint Peter’s Church, Or I will drag thee on a hurdle thither. Out, you green-sickness carrion! Out, you baggage, You tallow-face! |
-| [[Capulet|CAPULET]]’S WIFE | Fie, fie, what, are you mad? |
-| [[Juliet|JULIET]] | (kneeling) Good father, I beseech you on my knees, Hear me with patience but to speak a word. |
-| [[Capulet|CAPULET]] | Hang thee, young baggage, disobedient wretch! I tell thee what: get thee to church o’ [[thursday|Thursday]], Or never after look me in the face. Speak not, reply not, do not answer me. [[Juliet]] rises My fingers itch. Wife, we scarce thought us blest That God had lent us but this only [[Child|child]], But now I see this one is one too much, And that we have a curse in having her. Out on her, hilding! |
-| [[Nurse|NURSE]] | God in heaven bless her! You are to blame, my lord, to rate her so. |
-| [[Capulet|CAPULET]] | And why, my lady Wisdom? Hold your tongue, Good Prudence. Smatter with your gossips, go! |
-| [[Nurse|NURSE]] | I speak no treason. [[Capulet|CAPULET]] O, God-i’-good-e’en! [[Nurse|NURSE]] May not one speak? |
-| [[Capulet|CAPULET]] | Peace, you mumbling [[Fool|fool]], Utter your gravity o’er a gossip’s bowl, For here we need it not. |
-| [[Capulet|CAPULET]]’S WIFE | You are too hot. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_5--04_monologue_capulet" data-title="Romeo and Juliet — Act III, Scene 5 — monologue (CAPULET) [4]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Capulet|CAPULET]] | God’s bread, it makes me mad. Day, [[Night|night]]; work, play; [[Alone]], in company, still my care hath been To have her matched; and having now provided A gentleman of noble parentage, Of fair demesnes, youthful, and nobly lined, Stuffed, as they say, with honourable parts, Proportioned as one’s thought would wish a man— And then to have a wretched puling [[Fool|fool]], A whining maumet, in her fortune’s tender, To answer ‘I’ll not wed, I cannot [[Love|love]]; I am too young, I pray you pardon me’! But an you will not wed, I’ll pardon you! Graze where you will, you shall not [[house]] with me. Look to‘t, think on’t. I do not use to jest. [[thursday|Thursday]] is near. Lay hand on heart. Advise. An you be mine, I’ll give you to my friend. An you be not, hang, beg, starve, die in the streets, For, by my [[Soul|soul]], I’ll ne’er acknowledge thee, Nor what is mine shall never do thee good. Trust to’t. Bethink you. I’ll not be forsworn. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_5--05_exchange_juliet" data-title="Romeo and Juliet — Act III, Scene 5 — exchange (JULIET) [5]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Juliet|JULIET]] | Is there no pity sitting in the clouds That sees into the [[Bottom|bottom]] of my grief’ O sweet my mother, cast me not away! Delay this [[Marriage|marriage]] for a month, a week; Or if you do not, make the bridal bed In that dim monument where [[Tybalt]] lies. |
-| [[Capulet|CAPULET]]’S WIFE | Talk not to me, for I’ll not speak a word. Do as thou wilt, for I have done with thee. Exit |
-| [[Juliet|JULIET]] | O, God—ONurse, how shall this be prevented? My husband is on earth, my [[Faith|faith]] in heaven. How shall that [[Faith|faith]] return again to earth Unless that husband send it me from heaven By leaving earth? Comfort me, counsel me. Alack, alack, that heaven should practise stratagems Upon so soft a subject as myself! What sayst thou? Hast thou not a word of joy? Some comfort, [[Nurse]]. |
-| [[Nurse|NURSE]] | [[Faith]], here it is: [[Romeo]] Is banished, and all the world to nothing That he dares ne‘er come back to challenge you, Or if he do, it needs must be by stealth. Then, since the case so stands as now it doth, I think it best you married with the County. O, he’s a lovely gentleman! [[Romeo]]’s a dishclout to him. An eagle, madam, Hath not so green, so quick, so fair an eye As [[Paris]] hath. Beshrew my very heart, I think you are happy in this second match, For it excels your first; or if it did not, Your first is dead, or ’twere as good he were As living hence and you no use of him. |
-| [[Juliet|JULIET]] | Speak’st thou from thy heart? |
-| [[Nurse|NURSE]] | And from my [[Soul|soul]], too, else beshrew them both. |
-| [[Juliet|JULIET]] | Amen. |
-| [[Nurse|NURSE]] | What? |
-| [[Juliet|JULIET]] | [[Well]], thou hast comforted me marvellous much. Go in; and tell my lady I am gone, Having displeased my father, to Laurence’ cell To make confession and to be absolved. |
-| [[Nurse|NURSE]] | Marry, I will; and this is wisely done. Exit |
-| [[Juliet|JULIET]] | (watching her go) Ancient damnation! O most wicked fiend! Is it more sin to wish me thus forsworn, Or to dispraise my lord with that same tongue Which she hath praised him with above compare So many thousand times? Go, counsellor! Thou and my bosom henceforth shall be twain. I’ll to the friar, to know his remedy. If all else fail, myself have power to die. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--01_exchange_dialogue" data-title="Romeo and Juliet — Act IV, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Capulet]]’s Wife, and the [[Nurse]] With herbs |
-| [[Capulet|CAPULET]]’S WIFE | Hold, take these keys, and fetch more spices, [[Nurse]]. |
-| [[Nurse|NURSE]] | They call for dates and quinces in the pastry. Enter [[Capulet]] |
-| [[Capulet|CAPULET]] | Come, stir, stir, stir! The second cock hath crowed. The curfew bell hath rung. ’Tis three o’[[Clock|clock]]. Look to the baked meats, good Angelica. Spare not for cost. |
-| [[Nurse|NURSE]] | Go, you cot-quean, go. Get you to bed. [[Faith]], you’ll be sick tomorrow For this [[Night|night]]’s watching. |
-| [[Capulet|CAPULET]] | No, not a whit. What, I have watched ere now All [[Night|night]] for lesser cause, and ne’er been sick. |
-| [[Capulet|CAPULET]]’S WIFE | Ay, you have been a mouse-hunt in your [[Time|time]], But I will watch you from such watching now. Exeunt [[Capulet]]’s Wife and [[Nurse]] |
-| [[Capulet|CAPULET]] | A jealous-hood, a jealous-hood! Enter three or four Servingmen, with spits and logs and baskets Now, fellow, what is there? |
-| FIRST SERVINGMAN | Things for the cook, sir, but I know not what. |
-| [[Capulet|CAPULET]] | Make haste, make haste. Exit First Servingman and one or two others Sirrah, fetch drier logs. Call Peter. He will show thee where they are. |
-| SECOND SERVINGMAN | I have a head, sir, that will find out logs And never trouble Peter for the matter. |
-| [[Capulet|CAPULET]] | Mass, and [[Well|well]] said! A merry whoreson, ha! Thou shalt be loggerhead. Exit Second Servingman |
-| [[Capulet|CAPULET]] | Good [[Faith|faith]], ’tis day. The County will be here with music straight, For so he said he would. Music plays within I hear him near. [[Nurse]]! Wife! What ho, what, [[Nurse]], I say! Enter the [[Nurse]] Go waken [[Juliet]]. Go and trim her up. I’ll go and chat with [[Paris]]. Hie, make haste, Make haste, the bridegroom he is come already. Make haste, I say. Exit |
-| [[Nurse|NURSE]] | Mistress, what, mistress! [[Juliet]]! Fast, I warrant her, she. Why, [[Lamb|lamb]], why, lady! Fie, you slug-abed! Why, [[Love|love]], I say, madam, sweetheart, why, bride! What, not a word? You take your pennyworths now. [[Sleep]] for a week, for the next [[Night|night]], I warrant, The County [[Paris]] hath set up his rest That you shall rest but little. God forgive me! Marry, and amen. How sound is she asleep! I needs must wake her. Madam, madam, madam! Ay, let the County take you in your bed. He’ll fright you up, i’[[Faith|faith]]. Will it not be? She draws back the curtains What, dressed and in your clothes, and down again? I must needs wake you. Lady, lady, lady! Alas, alas! Help, help! My lady’s dead. O welladay, that ever I was born! Some aqua-vitae, ho! My lord, my lady! Enter [[Capulet]]’s Wife |
-| [[Capulet|CAPULET]]’S WIFE | What noise is here? |
-| [[Nurse|NURSE]] | O lamentable day! |
-| [[Capulet|CAPULET]]’S WIFE | What is the matter? |
-| [[Nurse|NURSE]] | Look, look. O heavy day! |
-| [[Capulet|CAPULET]]’S WIFE | O me, O me, my [[Child|child]], my only life! Revive, look up, or I will die with thee. Help, help, call help! Enter [[Capulet]] |
-| [[Capulet|CAPULET]] | For shame, bring [[Juliet]] forth. Her lord is come. |
-| [[Nurse|NURSE]] | She’s dead, deceased. She’s dead, alack the day! |
-| [[Capulet|CAPULET]]’S WIFE | Alack the day, she’s dead, she’s dead, she’s dead! |
-| [[Capulet|CAPULET]] | Ha, let me see her! Out, alas, she’s cold. Her [[Blood|blood]] is settled, and her joints are stiff. Life and these lips have long been separated. [[Death]] lies on her like an untimely [[Frost|frost]] Upon the sweetest flower of all the field. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--02_exchange_nurse" data-title="Romeo and Juliet — Act IV, Scene 4 — exchange (NURSE) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Nurse|NURSE]] | O lamentable day! |
-| [[Capulet|CAPULET]]’S WIFE | O woeful [[Time|time]]! |
-| [[Capulet|CAPULET]] | [[Death]], that hath ta’en her hence to make me wail, Ties up my tongue, and will not let me speak. Enter [[Friar Laurence]] and [[Paris]], with Musicians |
-| [[Friar Laurence|FRIAR LAURENCE]] | Come, is the bride ready to go to church? |
-| [[Capulet|CAPULET]] | Ready to go, but never to return. (To [[Paris]]) O son, the [[Night|night]] before thy wedding day Hath [[Death|death]] lain with thy wife. See, there she lies, Flower as she was, deflowered by him. [[Death]] is my son-in-law, [[Death|death]] is my heir. My daughter he hath wedded. I will die, And leave him all. Life, living, all is [[Death|death]]’s. [[Paris]], [[Capulet]] and his Wife, and the [[Nurse]] all at once wring their hands and cry out together: |
-| [[Paris|PARIS]] | Have I thought long to see this morning’s face, And doth it give me such a sight as this? Beguiled, divorced, wronged, spited, slain! Most detestable [[Death|death]], by thee beguiled, By cruel, cruel thee quite overthrown. O [[Love|love]], O life: not life, but [[Love|love]] in [[Death|death]]. |
-| [[Capulet|CAPULET]]’S WIFE | Accursed, unhappy, wretched, hateful day! Most miserable hour that e’er [[Time|time]] saw In lasting labour of his pilgrimage! But one, poor one, one poor and loving [[Child|child]], But one thing to rejoice and solace in, And cruel [[Death|death]] hath catched it from my sight! |
-| [[Nurse|NURSE]] | O woe! O woeful, woeful, woeful day! Most lamentable day! Most woeful day That ever, ever, I did yet behold! O day, O day, O day, O hateful day, Never was seen so black a day as this I O woeful day, O woeful day! 85 |
-| [[Capulet|CAPULET]] | Despised, distressed, hated, martyred, killed! Uncomfortable [[Time|time]], why cam’st thou now To murder, murder our solemnity? O [[Child|child]], O [[Child|child]], my [[Soul|soul]] and not my [[Child|child]]! Dead art thou, alack, my [[Child|child]] is dead, And with my [[Child|child]] my joys are buried. |
-| [[Friar Laurence|FRIAR LAURENCE]] | Peace, ho, for shame! Confusion’s cure lives not In these confusions. Heaven and yourself Had part in this fair maid. Now heaven hath all, And all the better is it for the maid. Your part in her you could not keep from [[Death|death]], But heaven keeps his part in eternal life. The most you sought was her promotion, For ’twas your heaven she should be advanced, And weep ye now, seeing she is advanced Above the clouds as high as heaven itself? O, in this [[Love|love]] you [[Love|love]] your [[Child|child]] so ill That you run mad, seeing that she is [[Well|well]]. She’s not [[Well|well]] married that lives married long, But she’s best married that dies married young. Dry up your [[Tears|tears]], and stick your rosemary On this fair corpse, and, as the custom is, All in her best array bear her to church; For though fond [[Nature|nature]] bids us all lament, Yet [[Nature|nature]]’s [[Tears|tears]] are reason’s merriment. |
-| [[Capulet|CAPULET]] | All things that we ordained festival Turn from their office to black funeral. Our instruments to [[Melancholy|melancholy]] [[Bells|bells]], Our wedding cheer to a sad burial feast, Our solemn hymns to sullen dirges change; Our bridal [[Flowers|flowers]] serve for a buried corpse, And all things change them to the contrary. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--03_exchange_friar_laurence" data-title="Romeo and Juliet — Act IV, Scene 4 — exchange (FRIAR LAURENCE) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Friar Laurence|FRIAR LAURENCE]] | Sir, go you in; and madam, go with him, And go, Sir [[Paris]]. Everyone prepare To follow this fair corpse unto her [[Grave|grave]]. The heavens do lour upon you for some ill. Move them no more by crossing their high will. They cast rosemary on [[Juliet]], and shut the curtains. Exeunt all but the [[Nurse]] and Musicians FIRST MUSICIAN [[Faith]], we may put up our pipes and be gone. |
-| [[Nurse|NURSE]] | Honest good fellows, ah, put up, put up, For [[Well|well]] you know this is a pitiful case. FIRST MUSICIAN Ay, by my troth, the case may be amended. Exit [[Nurse]] Enter Peter |
-| PETER | Musicians, O, musicians! ‘Heart’s ease’, ‘Heart’s ease’; O,an you will have me live, play ‘Heart’s ease’. FIRST MUSICIAN Why ‘Heart’s ease’? |
-| PETER | O, musicians, because my heart itself plays ‘My heart is full of woe’. O, play me some merry dump to comfort me. FIRST MUSICIAN Not a dump, we. ’Tis no [[Time|time]] to play now. |
-| PETER | You will not then? |
-| FIRST MUSICIAN | No. |
-| PETER | I will then give it you soundly. |
-| FIRST MUSICIAN | What will you give us? |
-| PETER | No money, on my [[Faith|faith]], but the gleek. I will give you the minstrel. |
-| FIRST MUSICIAN | Then will I give you the serving-creature. |
-| PETER | (drawing his dagger) Then will I lay the serving-creature’s dagger on your pate. I will carry no crochets. I’ll re you, I’ll fa you. Do you note me? |
-| FIRST MUSICIAN | An you re us and fa us, you note us. |
-| SECOND MUSICIAN | Pray you, put up your dagger and put out your wit. PETER Then have at you with my wit. I will dry-beat you with an iron wit, and put up my iron dagger. Answer me like men. Sings When griping grief the heart doth wound, And doleful dumps the mind oppress, Then music with her silver sound— Why ‘silver sound’, why ‘music with her silver sound’? What say you, Matthew Minikin? |
-| FIRST MUSICIAN | Marry, sir, because silver hath a sweet sound. |
-| PETER | Prates! What say you, Hugh Rebec? |
-| SECOND MUSICIAN | I say ’silver sound’ because musicians sound for silver. |
-| PETER | Prates too! What say you, Simon Soundpost? |
-| THIRD MUSICIAN | [[Faith]], I know not what to say. |
-| PETER | O, I cry you [[Mercy|mercy]], you are the singer. I will say for you. It is ’music with her silver sound’ because musicians have no gold for sounding. Sings Then music with her silver sound With speedy help doth lend redress. Exit |
-| FIRST MUSICIAN | What a pestilent knave is this same! |
-| SECOND MUSICIAN | Hang him, jack! Come, we’ll in here, tarry for the mourners, and stay dinner. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--01_exchange_dialogue" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Paris]] and his Page, with [[Flowers|flowers]], sweet [[Water|water]], and a torch |
-| [[Paris|PARIS]] | Give me thy torch, boy. Hence, and stand aloof. Yet put it out, for I would not be seen. His Page puts out the torch Under yon yew trees lay thee all along, Holding thy ear close to the hollow ground. So shall no foot upon the churchyard tread, 5 Being loose, unfirm, with digging up of graves, But thou shalt hear it. Whistle then to me As signal that thou hear’st something approach. Give me those [[Flowers|flowers]]. Do as I bid thee. Go. |
-| PAGE | aside I am almost afraid to stand [[Alone|alone]] 10 Here in the churchyard, yet I will adventure. He hides himself at a distance from [[Paris]] |
-| [[Paris|PARIS]] | (strewing [[Flowers|flowers]]) Sweet flower, with [[Flowers|flowers]] thy bridal bed I strew. He sprinkles [[Water|water]] O woe! Thy canopy is [[Dust|dust]] and stones, Which with sweet [[Water|water]] nightly I will dew, Or, wanting that, with [[Tears|tears]] distilled by moans. The obsequies that I for thee will keep Nightly shall be to strew thy [[Grave|grave]] and weep. The Page whistles The boy gives warning. Something doth approach. What cursed foot wanders this way tonight To [[Cross|cross]] my obsequies and true [[Love|love]]’s rite? 20 Enter [[Romeo]] and Balthasar his man, with a torch, a mattock, and a crow of iron What, with a torch? Muffle me, [[Night|night]], a while. He stands aside |
-| [[Romeo|ROMEO]] | Give me that mattock and the wrenching iron. Hold, take this letter. Early in the morning See thou deliver it to my lord and father. Give me the light. Upon thy life I charge thee, 25 Whate’er thou hear’st or seest, stand all aloof, And do not interrupt me in my course. Why I descend into this bed of [[Death|death]] Is partly to behold my lady’s face, But chiefly to take thence from her dead finger A precious ring, a ring that I must use In dear employment. Therefore hence, be gone. But if thou, jealous, dost return to pry In what I farther shall intend to do, By heaven, I will tear thee joint by joint, And strew this hungry churchyard with thy limbs. The [[Time|time]] and my intents are savage-wild, More fierce and more inexorable far Than empty tigers or the roaring sea. BALTHASAR I will be gone, sir, and not trouble ye. 40 |
-| [[Romeo|ROMEO]] | So shalt thou show me [[Friendship|friendship]]. Take thou that. He gives money Live and be prosperous, and farewell, good fellow. BALTHASAR (aside) For all this same, I’ll hide me hereabout. His looks I [[Fear|fear]], and his intents I [[Doubt|doubt]]. He hides himself at a distance from [[Romeo]]. [[Romeo]] begins to jorce open the tombs |
-| [[Romeo|ROMEO]] | Thou detestable maw, thou womb of [[Death|death]], Gorged with the dearest morsel of the earth, Thus I enforce thy rotten jaws to open, And in despite I’ll cram thee with more food. |
-| [[Paris|PARIS]] | (aside) This is that banished haughty Montague That murdered my [[Love|love]]’s cousin, with which grief It is supposed the fair creature died; And here is come to do some villainous shame To the dead bodies. I will apprehend him. Drawing Stop thy unhallowed toil, vile Montague! Can vengeance be pursued further than [[Death|death]]? 55 Condemned [[Villain|villain]], I do apprehend thee. Obey and go with me, for thou must die. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--02_exchange_romeo" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (ROMEO) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | I must indeed, and therefore came I hither. Good gentle youth, tempt not a desp’rate man. Fly hence, and leave me. Think upon these gone. 60 Let them affright thee. I beseech thee, youth, Put not another sin upon my head By urging me to fury. O, be gone. By heaven, I [[Love|love]] thee better than myself, For I come hither armed against myself. 65 Stay not, be gone. Live, and hereafter say A madman’s [[Mercy|mercy]] bid thee run away. |
-| [[Paris|PARIS]] | I do defy thy conjuration, And apprehend thee for a felon here. |
-| [[Romeo|ROMEO]] | (drawing) Wilt thou provoke me? Then have at thee, boy. 70 They fight PAGE O Lord, they fight! I I will go call the watch. Exit |
-| [[Paris|PARIS]] | O, I am slainǃ If thou be merciful, Open the tomb, lay me with [[Juliet]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--03_monologue_romeo" data-title="Romeo and Juliet — Act V, Scene 3 — monologue (ROMEO) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Romeo|ROMEO]] | In [[Faith|faith]], I will. [[Paris]] dies Let me peruse this face. [[Mercutio]]’s kinsman, noble County [[Paris]]! 75 What said my man when my betossèd [[Soul|soul]] Did not attend him as we rode? I think He told me [[Paris]] should have married [[Juliet]]. Said he not so? Or did I dream it so? Or am I mad, hearing him talk of [[Juliet]], 80 To think it was so? O, give me thy hand, One writ with me in sour misfortune’s book. I’ll bury thee in a triumphant [[Grave|grave]]. Heopens the tomb, revealing [[Juliet]] A [[Grave|grave]]—O no, a lantern, slaughtered youth, For here lies [[Juliet]], and her [[Beauty|beauty]] makes This vault a feasting presence full of light. He bears the [[Body|body]] of [[Paris]] to the tombs [[Death]], lie thou there, by a dead man interred. How oft, when men are at the point of [[Death|death]], Have they been merry, which their keepers call A [[Lightning|lightning]] before [[Death|death]]! O, how may I 90 Call this a [[Lightning|lightning]]? O my [[Love|love]], my wife! [[Death]], that hath sucked the honey of thy breath, Hath had no power yet upon thy [[Beauty|beauty]]. Thou art not conquered. [[Beauty]]’s ensign yet Is crimson in thy lips and in thy cheeks, And [[Death|death]]’s pale [[Flag|flag]] is not advanced there. [[Tybalt]], liest thou there in thy bloody sheet? O, what more favour can I do to thee Than with that hand that cut thy youth in twain To sunder his that was thine enemy? Forgive me, cousin. Ah, dear [[Juliet]], Why art thou yet so fair? Shall I believe That unsubstantial [[Death|death]] is amorous, And that the lean abhorred [[Monster|monster]] keeps Thee here in dark to be his paramour? 105 For [[Fear|fear]] of that I still will stay with thee, And never from this pallet of dim [[Night|night]] Depart again. Here, here will I remain With worms that are thy chambermaids. O, here Will I set up my everlasting rest, 110 And shake the yoke of inauspicious [[Stars|stars]] From this world-wearied flesh. Eyes, look your last. Arms, take your last embrace, and lips, O you The doors of breath, seal with a righteous kiss A dateless bargain to engrossing [[Death|death]]. He kisses [[Juliet]], then pours [[Poison|poison]] into the cup Come, bitter conduct, come, unsavoury guide, Thou desperate pilot, now at once run on The dashing rocks thy seasick weary barque! Here’s to my [[Love|love]]. He drinks the [[Poison|poison]] O true apothecary, Thy drugs are quick! Thus with a kiss I die. He kisses [[Juliet]], falls, and dies. Enter [[Friar Laurence]] with lantern, crow, and spade |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--04_exchange_friar_laurence" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (FRIAR LAURENCE) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Friar Laurence|FRIAR LAURENCE]] | Saint Francis be my [[Speed|speed]]! How oft tonight Have my old feet stumbled at graves? Who’s there? |
-| BALTHASAR | Here’s one, a friend, and one that knows you [[Well|well]]. |
-| [[Friar Laurence|FRIAR LAURENCE]] | Bliss be upon you. Tell me, good my friend, What torch is yon that vainly lends his light 125 To grubs and eyeless skulls? As I discern, It burneth in the Capels’ monument. |
-| BALTHASAR | It doth so, holy sir, and there’s my master, One that you [[Love|love]]. |
-| [[Friar Laurence|FRIAR LAURENCE]] | Who is it? |
-| BALTHASAR | [[Romeo]]. |
-| [[Friar Laurence|FRIAR LAURENCE]] | How long hath he been there? |
-| BALTHASAR | Full half an hour. |
-| [[Friar Laurence|FRIAR LAURENCE]] | Go with me to the vault. |
-| BALTHASAR | I dare not, sir. My master knows not but I am gone hence, And fearfully did menace me with [[Death|death]] If I did stay to look on his intents. |
-| [[Friar Laurence|FRIAR LAURENCE]] | Stay then, I’ll go [[Alone|alone]]. [[Fear]] comes upon me. 135 O, much I [[Fear|fear]] some ill unthrifty thing. |
-| BALTHASAR | As I did [[Sleep|sleep]] under this yew tree here I dreamt my master and another fought, And that my master slew him. |
-| [[Friar Laurence|FRIAR LAURENCE]] | [[Romeo]]! He stoops and looks on the [[Blood|blood]] and weapons Alack, alack, what [[Blood|blood]] is this which stains 140 The stony entrance of this sepulchre? What mean these masterless and gory swords To lie discoloured by this place of peace? [[Romeo]]! O, pale! Who else? What, [[Paris]], too, And steeped in [[Blood|blood]]? Ah, what an unkind hour Is guilty of this lamentable chance I [[Juliet]] awakes and rises The lady stirs. |
-| [[Juliet|JULIET]] | O comfortable friar, where is my lord? I do remember [[Well|well]] where I should be, And there I am. Where is my [[Romeo]]? 150 |
-| [[Friar Laurence|FRIAR LAURENCE]] | I hear some noise. Lady, come from that nest Of [[Death|death]], contagion, and unnatural [[Sleep|sleep]]. A greater power than we can contradict Hath thwarted our intents. Come, come away. Thy husband in thy bosom there lies dead, 155 And [[Paris]], too. Come, I’ll dispose of thee Among a sisterhood of holy nuns. Stay not to question, for the watch is coming. Come, go, good [[Juliet]]. I dare no longer stay. Exit |
-| [[Juliet|JULIET]] | Go, get thee hence, for I will not away. 160 What’s here? A cup closed in my true [[Love|love]]’s hand? [[Poison]], I see, hath been his timeless end. O churt!—drunk all, and left no friendly drop To help me after? I will kiss thy lips. Haply some [[Poison|poison]] yet doth hang on them, To make me die with a restorative. She kisses [[Romeo]]’s lips Thy lips are warm. |
-| CHIEF WATCHMAN | within Lead, boy. Which way? |
-| [[Juliet|JULIET]] | Yea, noise? Then I’ll be brief. She takes [[Romeo]]’s dagger O happy dagger, This is thy sheath! There rust, and let me die. She stabs herself, falls, and dies. Enter the Page and Watchmen PAGE This is the place, there where the torch doth burn. 170 |
-| CHIEF WATCHMAN | The ground is bloody. Search about the churchyard. Go, some of you. Whoe’er you find, attach. Exeunt some Watchmen Pitiful sight! Here lies the County slain, And [[Juliet]] bleeding, warm, and newly dead, Who here hath lain this two days buried. Go tell the Prince. Run to the Capulets, Raise up the Montagues. Some others search. Exeunt other Watchmen severally We see the ground whereon these woes do lie, But the true ground of all these piteous woes We cannot without circumstance descry. Enter Watchmen with Balthasar SECOND WATCHMAN Here’s [[Romeo]]’s man. We found him in the churchyard. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--05_exchange_chief_watchman" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (CHIEF WATCHMAN) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CHIEF WATCHMAN | Hold him in safety till the Prince come hither. Enter another Watchman with [[Friar Laurence]] |
-| THIRD WATCHMAN | Here is a friar that trembles, sighs, and weeps. We took this mattock and this spade from him As he was coming from this churchyard’s side. |
-| CHIEF WATCHMAN | A great suspicion. Stay the friar, too. Enter the Prince with others |
-| PRINCE | What misadventure is so early up, That calls our person from our morning rest? Enter [[Capulet]] and his Wife |
-| [[Capulet|CAPULET]] | What should it be that is so shrieked abroad? |
-| [[Capulet|CAPULET]]’S WIFE | O, the people in the street cry ‘[[Romeo]]’, Some ‘[[Juliet]]’, and some ‘[[Paris]]’, and all run With open outcry toward our monument. |
-| PRINCE | What [[Fear|fear]] is this which startles in our ears? |
-| CHIEF WATCHMAN | Sovereign, here lies the County [[Paris]] slain, And [[Romeo]] dead, and [[Juliet]], dead before, Warm, and new killed. |
-| PRINCE | Search, seek, and know how this foul murder comes. |
-| CHIEF WATCHMAN | Here is a friar, and slaughtered [[Romeo]]’s man, With instruments upon them fit to open These dead men’s tombs. |
-| [[Capulet|CAPULET]] | O heavens! O wife, look how our daughter bleeds! This dagger hath mista’en, for lo, his [[house]] Is empty on the back of Montague, And it mis-sheathèd in my daughter’s bosom. |
-| [[Capulet|CAPULET]]’S WIFE | O me, this sight of [[Death|death]] is as a bell 205 That warns my old age to a sepulchre. Enter Montague |
-| PRINCE | Come, Montague, for thou art early up To see thy son and heir more early down. |
-| MONTAGUE | Alas, my liege, my wife is dead tonight. Grief of my son’s [[Exile|exile]] hath stopped her breath. 210 What further woe conspires against mine age? |
-| PRINCE | Look, and thou shalt see. |
-| MONTAGUE | (seeing [[Romeo]]’s [[Body|body]]) O thou untaught! What manners is in this, To press before thy father to a [[Grave|grave]]? |
-| PRINCE | Seal up the mouth of outrage for a while, 215 Till we can clear these ambiguities And know their [[Spring|spring]], their head, their true descent; And then will I be general of your woes, And lead you even to [[Death|death]]. Meantime, forbear, And let mischance be slave to patience. 220 Bring forth the parties of suspicion. |
-| [[Friar Laurence|FRIAR LAURENCE]] | I am the greatest, able to do least, Yet most suspected, as the [[Time|time]] and place Doth make against me, of this direful murder; And here I stand, both to impeach and purge Myself condemned and myself excused. |
-| PRINCE | Then say at once what thou dost know in this. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--06_monologue_friar_laurence" data-title="Romeo and Juliet — Act V, Scene 3 — monologue (FRIAR LAURENCE) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Friar Laurence|FRIAR LAURENCE]] | I will be brief, for my short date of breath Is not so long as is a tedious tale. [[Romeo]], there dead, was husband to that [[Juliet]], And she, there dead, that [[Romeo]]’s faithful wife. I married them, and their stol’n [[Marriage|marriage]] day Was [[Tybalt]]’s doomsday, whose untimely [[Death|death]] Banished the new-made bridegroom from this [[City|city]], For whom, and not for [[Tybalt]], [[Juliet]] pined. You, to remove that siege of grief from her, Betrothed and would have married her perforce To County [[Paris]]. Then comes she to me, And with wild looks bid me devise some mean To rid her from this second [[Marriage|marriage]], Or in my cell there would she kill herself. Then gave I her—so tutored by my art— A sleeping potion, which so took effect As I intended, for it wrought on her The form of [[Death|death]]. Meantime I writ to [[Romeo]] That he should hither come as this dire [[Night|night]] To help to take her from her borrowed [[Grave|grave]], Being the [[Time|time]] the potion’s force should cease. But he which bore my letter, Friar John, Was stayed by accident, and yesternight 250 Returned my letter back. Then all [[Alone|alone]], At the prefixèd hour of her waking, Came I to take her from her kindred’s vault, Meaning to keep her closely at my cell Till I conveniently could send to [[Romeo]]. But when I came, some minute ere the [[Time|time]] Of her awakening, here untimely lay The noble [[Paris]] and true [[Romeo]] dead. She wakes, and I entreated her come forth And bear this work of heaven with patience. 260 But then a noise did scare me from the tomb, And she, too desperate, would not go with me, But, as it seems, did violence on herself. All this I know, and to the [[Marriage|marriage]] Her [[Nurse|nurse]] is privy; and if aught in this Miscarried by my fault, let my old life Be sacrificed, some hour before his [[Time|time]], Unto the rigour of severest law. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--07_exchange_prince" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (PRINCE) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PRINCE | We still have known thee for a holy man. Where’s [[Romeo]]’s man? What can he say to this? 270 |
-| BALTHASAR | I brought my master news of [[Juliet]]’s [[Death|death]], And then in post he came from Mantua To this same place, to this same monument. This letter he early bid me give his father, And threatened me with [[Death|death]], going in the vault, If I departed not and left him there. |
-| PRINCE | Give me the letter. I will look on it. He takes the letter Where is the County’s page that raised the watch? Sirrah, what made your master in this place? |
-| PAGE | He came with [[Flowers|flowers]] to strew his lady’s [[Grave|grave]], And bid me stand aloof, and so I did. Anon comes one with light to ope the tomb, And by and by my master drew on him, And then I ran away to call the watch. |
-| PRINCE | This letter doth make good the friar’s words, Their course of [[Love|love]], the tidings of her [[Death|death]]; And here he writes that he did buy a [[Poison|poison]] Of a poor ’pothecary, and therewithal Came to this vault to die, and lie with [[Juliet]]. Where be these enemies? [[Capulet]], Montague, 290 See what a scourge is laid upon your hate, That heaven finds means to kill your joys with [[Love|love]]. And I, for winking at your discords, too Have lost a brace of kinsmen. All are punished. |
-| [[Capulet|CAPULET]] | O brother Montague, give me thy hand. 295 This is my daughter’s jointure, for no more Can I demand. |
-| MONTAGUE | But I can give thee more, For I will raise her statue in pure gold, That whiles [[Verona]] by that name is known There shall no figure at such rate be set 300 As that of true and faithful [[Juliet]]. |
-| [[Capulet|CAPULET]] | As rich shall [[Romeo]]’s by his lady’s lie, Poor sacrifices of our enmity. |
-| PRINCE | A glooming peace this morning with it brings. The sun for sorrow will not show his head. 305 Go hence, to have more talk of these sad things. Some shall be pardoned, and some punishèd; For never was a story of more woe Than this of [[Juliet]] and her [[Romeo]]. The tomb is closed. Exeunt |
-| *(didascalia)* | A |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--08_monologue_francis_meres" data-title="Romeo and Juliet — Act V, Scene 3 — monologue (FRANCIS MERES) [8]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FRANCIS MERES | mentions A Midsummer [[Night]]’s Dream in his Palladis Tamia, of 1598, and it was first printed in 1600. The Folio (1623) version offers significant variations apparently deriving from performance, and is followed in the present edition. It has often been thought that Shakespeare wrote the play for an aristocratic wedding, but there is no evidence to support this speculation, and the 1600 title-page states that it had been ’sundry times publicly acted’ by the Lord Chamberlain’s Men. In stylistic variation it resembles [[Love]]’s Labour’s Lost: both plays employ a wide variety of verse measures and rhyme schemes, along with prose that is sometimes (as in [[Bottom]]’s account of his dream, 4.1.202―15) rhetorically patterned. Probably it was written in 1594 or 1595, either just before or just after [[Romeo]] and [[Juliet]]. Shakespeare built his own plot from diverse elements of literature, drama, legend, and folklore, supplemented by his [[Imagination|imagination]] and observation. There are four main strands. One, which forms the basis of the action, shows the preparations for the [[Marriage|marriage]] of [[Theseus]], Duke of Athens, to [[Hippolyta]], [[Queen]] of the Amazons, and (in the last act) its celebration. This is indebted to Chaucer’s Knight’s Tale, as is the play’s second strand, the [[Love|love]] story of [[Lysander]] and [[Hermia]] (who elope to escape her father’s opposition) and of [[Demetrius]]. In Chaucer, two young men fall in [[Love|love]] with the same girl and quarrel over her; Shakespeare adds the comic complication of another girl ([[Helena]]) jilted by, but still loving, one of the young men. A third strand shows the efforts of a group of Athenian workmen—the ‘mechanicals’—led by [[Bottom]] the Weaver to prepare a play, Pyramus and Thisbe (based mainly on [[arthur|Arthur]] Golding’s [[Translation|translation]] of Ovid’s Metamorphoses) for performance at the Duke’s wedding. The mechanicals themselves belong rather to [[Elizabethan England]] than to [[Ancient Greece|ancient Greece]]. [[Bottom]]’s partial transformation into an ass has many literary precedents. Fourthly, Shakespeare depicts a quarrel between [[Oberon]] and [[Titania]], [[King]] and [[Queen]] of the Fairies. [[Oberon]]’s attendant, Robin Goodfellow, a [[Puck|puck]] (or pixie), interferes mischievously in the workmen’s rehearsals and the affairs of the [[lovers]]. The fairy part of the play owes something to both folklore and literature; Robin Goodfellow was a [[Well|well]]-known figure about whom Shakespeare could have read in Reginald Scot’s Discovery of Witchcraft (1586). A Midsummer [[Night]]’s Dream offers a glorious celebration of the powers of the human [[Imagination|imagination]] while also making comic capital out of its limitations. It is one of Shakespeare’s most polished achievements, a poetic drama of exquisite grace, wit, and humanity. In performance, its imaginative [[unity]] has sometimes been violated, but it has become one of Shakespeare’s most popular plays, with a special appeal for the young. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--09_exchange_the_persons_of_the_play" data-title="Romeo and Juliet — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [9]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY [[Theseus|THESEUS]], Duke of Athens [[Hippolyta|HIPPOLYTA]], [[Queen]] of the Amazons, betrothed to [[Theseus]] PHILOSTRATE, Master of the Revels to [[Theseus]] EGEUS, father of [[Hermia]] [[Hermia|HERMIA]], daughter of Egeus, in [[Love|love]] with [[Lysander]] [[Lysander|LYSANDER]], loved by [[Hermia]] [[Demetrius|DEMETRIUS]], suitor to [[Hermia]] [[Helena|HELENA]], in [[Love|love]] with [[Demetrius]] |
-| THE PERSONS OF THE | [[Oberon|OBERON]], [[King]] of Fairies [[Titania|TITANIA]], [[Queen]] of Fairies |
-| ROBIN | GOODFELLOW, a [[Puck|puck]] Peter QUINCE, a carpenter Nick [[Bottom|BOTTOM]], a weaver Francis FLUTE, a bellows-mender Tom SNOUT, a tinker SNUG, a joiner Robin STARVELING, a tailor |
-| ROBIN | Attendant lords and fairies |
 
 
 

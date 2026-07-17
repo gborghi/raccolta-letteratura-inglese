@@ -2253,6 +2253,168 @@ Why on earth this last little band — there are not a couple of dozen of them t
 
 
 
+<span class="atom-split" data-atom="story_10_the_pleasant_place--part_01" data-title="This and That and the Other — THE PLEASANT PLACE (part 1)" data-chapter="THE PLEASANT PLACE" data-kind="excerpt"></span>
+
+
+IX THE PLEASANT PLACE
+
+A GENTLEMAN OF my acquaintance came to me the other day for sympathy.... But first I must describe him: —
+
+He is a man of careful, not neat, dress: I would call it sober rather than neat. He is always clean-shaven and his scanty hair is kept short-cut. He is occupied in letters; he is, to put it bluntly, a litteratoor; none the less he is possessed of scholarship and is a minor authority upon English pottery.
+
+He is a very good writer of verse; he is not exactly a poet, but still, his verse is remarkable. Two of his pieces have been publicly praised by political peers and at least half a dozen of them have been praised in private by the ladies of that world. He is a man fifty-four years of age, and, if I may say so without betraying him, a little disappointed.
+
+He came to me, I say, for sympathy. I was sitting in my study watching the pouring rain falling upon the already soaked and drenched and drowned clay lands of my county. The leafless trees (which are in our part of a low but thick sort) were standing against a dead grey sky with a sort of ghost of movement in it, when he came in, opened his umbrella carefully so that it might not drip, and left it in the stone-floored passage — which is, to be accurate, six hundred years old — kicked off his galoshes and begged my hospitality; also (let me say it for the third time) my sympathy.
+
+He said he had suffered greatly and that he desired to tell me the whole tale. I was very willing, and his tale was this:
+
+It seems that my friend (according to his account) found himself recently in a country of a very delightful character.
+
+This country lay up and heavenly upon a sort of table-land. One went up a road which led continually higher and higher through the ravines of the mountains, until, passing through a natural gate of rock, one saw before one a wide plain bounded upon the further side by the highest crests of the range. Through this upland plain ran a broad and noble [[River|river]] whose reaches he could see in glimpses for miles, and upon the further bank of it in a direction opposite that which the gate of rock regarded, was a very delightful city.
+
+The walls of this city were old in their texture, venerable and majestic in their lines. Within their circumference could be discerned sacred buildings of a similar antiquity, but also modern and convenient houses of a kind which my friend had not come across before, but which were evidently suited to the genial, sunlit climate, as also to the habits of leisured men. Their roofs were flat, covered in places by awnings, in other places by tiled verandas, and these roofs were often disposed in the form of little gardens.
+
+Trees were numerous in the city and showed their tops above the lower buildings, while the lines of their foliage indicated the direction of the streets.
+
+My friend was passing down the road which led to this plain — and as it descended it took on an ampler and more majestic character — when he came upon a traveller who appeared to be walking in the direction of the town.
+
+This traveller asked him courteously in the English tongue whether he were bound for the city. My friend was constrained to reply that he could not pretend to any definite plan, but certainly the prospect all round him was so pleasant and the aspect of the town so inviting, that he would rather visit the capital of this delightful land at once than linger in its outskirts.
+
+“Come with me, then,” said the Traveller, “and if I may make so bold upon so short an acquaintance, accept my hospitality. I have a good house upon the wall of the town and my rank among the citizens of it is that of a merchant; — I am glad to say a prosperous one.”
+
+He spoke without affectation and with so much kindness, that my friend was ravished to discover such a companion, and they proceeded in leisurely company over the few miles that separated them from their goal.
+
+The road was now paved in every part with small square slabs, quite smooth and apparently constructed of some sort of marble. Upon either side there ran canalised in the shining stone a little stream of perfectly clear water. From time to time they would pass a lovely shrine or statue which the country people had adorned with garlands. As they approached the city they discovered a noble bridge in the manner, my friend believed, of the Italian Renaissance, with strong elliptical arches and built, like all the rest of the way, of marble, while the balustrade upon either side of it was so disposed in short symmetrical columns as to be particularly grateful to the eye. Over this bridge there went to and fro a great concourse of people, all smiling, eager, happy and busy, largely acquainted, apparently, each with the others, nodding, exchanging news, and in a word forming a most blessed company.
+
+As they entered the city my friend’s companion, who had talked of many things upon their way and had seemed to unite the most perfect courtesy and modesty with the widest knowledge, asked him whether there was any food or drink to which he was particularly attached.
+
+“For,” said he, “I make a point whenever I entertain a guest — and that,” he put in with a laugh, “is, I am glad to say, a thing that happens frequently — I make a point, I say, of asking him what he really prefers. It makes such a difference!”
+
+My friend began his reply with those conventional phrases to which we are all accustomed, “That he would be only too happy to take whatever was set before him,” “That the prospect of his hospitality was a sufficient guarantee of his satisfaction,” and so forth: but his host would take no denial.
+
+“No, no!” said he. “Do please say just what you prefer! It is so easy to arrange — if you only knew!... Come, I know the place better than you,” he added, smiling again; “you have no conception of its resources. Pray tell me quite simply before we leave this street” — for they were now in a street of sumptuous and well-appointed shops— “exactly what shall be commissioned.”
+
+
+
+
+<span class="atom-split" data-atom="story_10_the_pleasant_place--part_02" data-title="This and That and the Other — THE PLEASANT PLACE (part 2)" data-chapter="THE PLEASANT PLACE" data-kind="excerpt"></span>
+
+
+Moved by I know not what freedom of expression, and expansive in a degree which he had never yet known, my friend smiled back and said: “Well, to tell you the [[Truth|truth]], some such meal as this would appeal to me: First two dozen green-bearded oysters of the Arcachon kind, opened upon the deep shell with all their juices preserved, and each exquisitely cleaned. These set upon pounded ice and served in that sort of dish which is contrived for each oyster to repose in its own little recess with a sort of side arrangement for the reception of the empty shells.”
+
+His host nodded gravely, as one who takes in all that is said to him.
+
+“Next,” said my friend, in an enthusiastic manner, “real and good Russian caviar, cold but not frozen, and so touched with lemon — only just so touched — as to be perfect. With this I think a little of the wine called Barsac should be drunk, and that cooled to about thirty-eight degrees — (Fahrenheit). After this a True Bouillon, and by a True Bouillon,” said my friend with earnestness, “I mean a Bouillon that has long simmered in the pot and has been properly skimmed, and has been seasoned not only with the customary herbs but also with a suspicion of carrot and of onion, and a mere breath of tarragon.”
+
+“Right!” said his host. “Right!” nodding with real appreciation.
+
+“And next,” said my friend, halting in the street to continue his list, “I think there should be eggs.”
+
+“Right,” said his host once more approvingly; “and shall we say — —”
+
+“No,” interrupted my friend eagerly, “let me speak. Eggs sur-le-plat, frizzled to the exact degree.”
+
+“Just what I was about to suggest,” answered his delighted entertainer, “and black pepper, I hope, ground large upon them in fresh granules from a proper wooden mill.”
+
+“Yes! Yes!” said my friend, now lyric, “and with sea salt in large crystals.”
+
+On saying which both of them fell into a sort of ecstasy which my friend broke by adding:
+
+“Something quite light to follow ... preferably a sugar-cured Ham braised in white wine. Then, I think, spinach, not with the ham but after it; and that spinach cooked perfectly dry. We will conclude with some of the cheese called Brie. And for wine during all these latter courses we will drink the wine of Chinon: Chinon Grillé. What they call,” he added slyly, “the Fausse maigre; for it is a wine thin at sight but full in the drinking of it.”
+
+“Good! Excellent!” said his host, clapping his hands together once with a gesture of finality. “And then after the lot you shall have coffee.”
+
+“Yes, coffee roasted during the meal and ground immediately before its concoction. And for liqueur....”
+
+My friend was suddenly taken with a little doubt. “I dare not ask,” said he, “for the liqueur called Aquebus? Once only did I taste it. A monk gave it me on Christmas Eve four years ago and I think it is not known!”
+
+“Oh, ask for it by all means!” said his host. “Why, we know it and love it in this place as though it were a member of the family!”
+
+My friend could hardly believe his ears on hearing such things, and said nothing of cigars. But to his astonishment his host, putting his left hand on my friend’s shoulder, looked him full in the face and said:
+
+“And now shall I tell you about cigars?”
+
+“I confess they were in my mind,” said my friend.
+
+“Why then,” said his host with an expression of profound happiness, “there is a cigar in this town which is full of flavour, black in colour, which does not bite the tongue, and which none the less satisfies whatever tobacco does satisfy in man. When you smoke it you really dream.”
+
+“Why,” said my friend humbly, “very well then, let us mention these cigars as the completion of our little feast.”
+
+“Little feast, indeed!” said his host, “why it is but a most humble meal. Anyhow, I am glad to have had from you a proper schedule of your pleasures of the table. In time to come when we know each other better, we will arrange other large and really satisfactory meals; but this will do very well for our initiatory lunch as it were.” And he laughed merrily.
+
+“But have I not given you great trouble?” said my friend.
+
+“How little you will easily perceive,” said his companion, “for in this town we have but to order and all is at once promptly and intelligently done.” With that he turned into a small office where a commissary at once took down his order. “And now,” said he emerging, “let us be home.”
+
+They went together down the turnings of a couple of broad streets lined with great private palaces and public temples until they came to a garden which had no boundaries to it but which was open, and apparently the property of the city. But the people who wandered here were at once so few, so discreet and so courteous, my friend could not discover whether they were (as their salutes seemed to indicate) the dependents of his host, or merely acquaintances who recognized him upon their way.
+
+This garden, as they proceeded, became more private and more domestic; it led by narrowing paths through high, diversified trees, until, beyond the screen of a great beech hedge, he saw the house ... and it was all that a house should be!
+
+Its clear, well set stone walls were in such perfect harmony with the climate and with the sky, its roof garden from which a child was greeting them upon their approach, so unexpected and so suitable, its arched open gallery was of so august a sort, and yet the domestic ornaments of its colonnade so familiar, that nothing could be conceived more appropriate for the residence of man.
+
+The mere passage into this Home out of the warm morning daylight into the inner domestic cool, was a benediction, and in the courtyard which they thus entered a lazy fountain leaped and babbled to itself in a manner that filled the heart with ease.
+
+“I do not know,” said his host in a gentle whisper as they crossed the courtyard, “whether it is your custom to bathe before the morning meal or in the middle of the afternoon?”
+
+“Why, sir,” said my friend, “if I may tell the whole [[Truth|truth]], I have no custom in the matter; but perhaps the middle of the afternoon would suit me best.”
+
+
+
+
+<span class="atom-split" data-atom="story_10_the_pleasant_place--part_03" data-title="This and That and the Other — THE PLEASANT PLACE (part 3)" data-chapter="THE PLEASANT PLACE" data-kind="excerpt"></span>
+
+
+“By all means,” said his host in a satisfied tone. “And I think you have chosen wisely, for the meal you have ordered will very shortly be prepared. But, for your refreshment at least, one of my friends shall put you in order, cool your hands and forehead, see to your face and hair, put comfortable sandals upon your feet and give you a change of raiment.”
+
+All of this was done. My friend’s host did well to call the servant who attended upon his guest a “friend,” for there was in this man’s manner no trace of servility or of dependence, and yet an eager willingness for service coupled with a perfect reticence which was admirable to behold and feel.
+
+When my friend had been thus refreshed he was conducted to a most exceptional little room. Four pictures were set in the walls of it, mosaics, they seemed — but he did not examine their medium closely. The room itself in its perfect lightness and harmony, with its view out through a large round arch upon the countryside beyond the walls (the old turrets of which made a framework for the view), exactly prepared him for the meal that was prepared.
+
+While the oysters (delightful things!) were entering upon their tray and were being put upon the table, the host, taking my friend aside with an exquisite gesture of courteous privacy, led him through the window-arch on to a balcony without, and said, as they gazed upon the wall and the plain and the mountains beyond (and what a sight they were!):
+
+“There is one thing, my dear sir, that I should like to say to you before you eat ... it is rather a delicate matter.... You will not mind my being perfectly frank?”
+
+“Speak on, speak on,” said my friend, who by this time would have confided any interests whatsoever into the hands of such a host.
+
+“Well,” said that host, continuing a little carefully, “it is this: as you can see we are very careful in this city to make men as happy as may be. We are happy ourselves, and we love to confer happiness upon others, strangers and travellers who honour us with their presence. But we find — I am very sorry to say we find ... that is, we find from time to time that their complete happiness, no matter with what we may provide them, is dashed by certain forms of anxiety, the chief of which is anxiety with regard to their future receipts of money.”
+
+My friend started.
+
+“Nay,” said his host hastily, “do not misunderstand me. I do not mean that preoccupations of business are alone so alarming. What I mean is that sometimes, yes, and I may say often (horrible as it seems to us!), our guests are in an active preoccupation about the petty business of finance. Some few have debts, it seems, in the wretched society from which they come, and of which, frankly, I know nothing. Others, though not indebted, feel insecure about the future. Others though wealthy are oppressed by their responsibilities. Now,” he continued firmly, “I must tell you once and for all that we have a custom here upon which we take no denial: no denial whatsoever. Every man who enters this city, who honours us by entering this city, is made free of that sort of nonsense, thank God!” And as he said this, my friend’s host breathed a great sigh of relief. “It would be intolerable to us to think,” he continued, “that our welcome and dear companions were suffering from such a tawdry thing as money-worry in our presence. So the matter is plainly this: whether you like it or whether you do not, the sum of £10,000 is already set down to your credit in the public bank of the city; whether you use it or not is your business; if you do not it is our custom to melt down an equivalent sum of gold and to cast it into the depths of the [[River|river]], for we have of this metal an unfailing supply, and I confess we do not find it easy to understand the exaggerated value which other men place upon it.”
+
+“I do not know that I shall have occasion to use so magnificent a custom,” said my friend with an extraordinary relief in his heart, “but I certainly thank you very kindly for its intention, and I shall not hesitate to use any sum that may be necessary for my continuing the great happiness which this city appears to afford.”
+
+“You have spoken well,” said his host, seizing both his hands, “and your frankness compels me to another confession: We have at our disposal a means of discovering exactly how any one of our guests may stand: the responsibilities of the rich, the indebtedness of the embarrassed, the anxiety of those whose future may be precarious. May I tell you without discourtesy, that your own case is known to me and to two trustees, who are public officials — absolutely reliable — and whom, for that matter, you will not meet.”
+
+My friend must have looked incredulous, but his host continued firmly: “It is so, we have settled your whole matter, I am glad to say, on terms that settle all your liabilities and leave a further £50,000 to your credit in the public bank. But the size of the sum is in this city really of no importance. You may demand whatever you will, and enjoy, I hope, a complete security during your habitation here. And that habitation, both the Town Council and the National Government, beg you, through me, to extend to the whole of your life.”
+
+* * * * *
+
+“Imagine,” said my friend, “how I felt.... The oysters were now upon the table, and before them, ready for consumption, the caviar. The Barsac in its original bottle, cooled (need I say!) to exactly thirty-eight degrees, stood ready....”
+
+At this point he stopped and gazed into the fire.
+
+“But, my dear fellow,” said I, “if you are coming to me for sympathy and simply succeed in making me hungry and cross....”
+
+“No,” said my friend with a sob, “you don’t understand!” And he continued to gaze at the fire.
+
+“Well, go on,” said I angrily.
+
+“There isn’t any on,” he said; “I woke!”
+
+We both looked into the fire together for perhaps three minutes before I spoke and said:
+
+“Will you have some wine?”
+
+“No thank you,” he answered sadly, “not that wine.” Then he got up uneasily and moved for his umbrella and his galoshes, and the passage and the door. I thought he muttered, “You might have helped me.”
+
+“How could I help you?” I said savagely.
+
+“Well,” he sighed, “I thought you could ... it was a bitter disappointment. Good night!” And he went out again into the rain and over the clay.
+
+
+
+
 <span class="atom-split" data-atom="story_11_on_omens" data-title="This and That and the Other — ON OMENS" data-chapter="ON OMENS" data-kind="story"></span>
 
 
@@ -2285,6 +2447,108 @@ The old layman, finding himself well rid of a bad business, shook himself togeth
 Of the same sturdy sense was Isaac Newton, when a lady came to him who had heard he was an astrologer, and asked him where she had dropped her purse, somewhere between Shooter’s Hill and London Bridge. She would not believe that the Baronet (or knight, I forget which) could be ignorant of such things, and she came about fourteen times. So to be rid of her Newton, on the occasion of her last visit, put on an old flowered dressing-gown, and made himself a conical paper hat, and put on great blue goggles, and drew a circle on the floor, and said “Abracadabra!” “The front of Greenwich Hospital, the third great window from the southern end. On the grass just beneath it I see a short devil crouched upon a purse of gold.” Off went the female, and sure enough under that window she found her purse. Whereat, instead of hearing the explanation (there was none) she thought it was an Omen.
 
 Remember this parable. It is enormously illuminating.
+
+
+
+
+<span class="atom-split" data-atom="story_12_the_book--part_01" data-title="This and That and the Other — THE BOOK (part 1)" data-chapter="THE BOOK" data-kind="excerpt"></span>
+
+
+XI THE BOOK
+
+THIS IS WRITTEN to dissuade all rich men from queering the pitch of us poor litteratoors, who have to write or starve. It is about a Mr. Foley: a Mr. Charles Foley, a banker and the son of a banker, who in middle life, that is at forty, saw no more use in coming to his office every day, but began to lead the life of a man of leisure. Next, being exceedingly rich he was prompted, of course, to write a book. The thing that prompted him to write a book was a thought, an idea. It took him suddenly as ideas will, one Saturday evening as he was walking home from his Club. It was a fine night and the idea seemed to come upon him out of the sky. This was the idea: that men produce such and such art in architecture and society and so forth, on account of the kind of climate they live in. Such a thought had never come to him before and very probably to no other man. It was simple like a seed — and yet, as he turned it over, what enormous possibilities.
+
+He lay awake half the night examining it. It spread out like a great tree and explained every human thing on earth; at least if to climate one added one or two other things, such as height above the sea and consequent rarity of the air and so forth — but perhaps all these could be included in climate.
+
+Hitherto every one had imagined that nations and civilisations had each their temperament and tendency or genius, but those words were only ways of saying that one did not know what it was. He knew: Charles Foley did. He had caught the inspiration suddenly as it passed. He slept the few last hours of the night in a profound repose, and next day he was at it. He was writing that book.
+
+He was a business-man — luckily for him. He did not speak of the great task until it was done. He was in no need of money — luckily for him. He could afford to wait until the last pages had satisfied him. Life had taught him that one could do nothing in business unless one had something in one’s hands. He would come to the publisher with something in his hands, to wit, with this MSS. He had no doubt about the title. He would call it “Man and Nature.” The title had come to him in a sort of flash after the idea. Anyhow, that was the title, and he felt it to be a very part of his being.
+
+He had fixed upon his publisher. He rang him up to make an appointment. The publisher received him with charming courtesy. It was the publisher himself who received him; not the manager, not the secretary, nor any one like that, but the real person, the one who had the overdraft at the Bank.
+
+He treated Mr. Charles Foley so well that Mr. Foley tasted a new joy which was the joy of sincere praise received. He was in the liberal arts now. He had come into a second world. His mere wealth had never given him this. When the publisher had heard what Mr. Charles Foley had to say, he scratched the tip of his nose with his forefinger, and suggested that Mr. Foley should pay for the printing and the binding of the book, and that then the publisher should advertise it and sell it, and give Mr. Foley so much.
+
+But Mr. Foley would have none of this. He was a business man and he could see through a brick wall as well as any one. So the publisher made this suggestion and that suggestion and talked all round about it. He was evidently keen to have the book. Mr. Foley could see that. At last the publisher made what Mr. Foley thought for the first time a sound business proposition, which was that he should publish the book in the ordinary way and then that he and Mr. Foley should share and share alike. If there was a loss they would divide it, but if there was a profit they would divide that. Mr. Foley was glad that he came to a sensible business decision at last, and closed with him. The date of publication also was agreed upon: it was to be the 15th of April. “In order,” said the publisher, “that we may catch the London season.” Mr. Charles Foley suggested August, but the publisher assured him that August was a rotten time for books.
+
+Only the very next day Mr. Foley entered upon the responsibilities which are inseparable from the joys of an author. He received a letter from the publisher, saying that it seemed that another book had been written under the title “Man and Nature,” that he dared not publish under that title lest the publishers of the other volume should apply for an injunction.
+
+Mr. Foley suffered acutely. He left his breakfast half finished; ran into town in his motor, as agonized in every block of the traffic as though he had to catch a train; was kept waiting half an hour in the publisher’s office because the principal had not yet arrived, and, when he did arrive, was persuaded that there was nothing to be done. The Courts wouldn’t allow “Man and Nature,” the publisher was sure of that. He kept on shaking his great big silly head until it got on Mr. Foley’s nerves. But there was no way out of it, so Mr. Foley changed the title to “Art and Environment” — it was the publisher’s secretary who suggested this new title.
+
+He got home to luncheon, to which he now remembered he had asked a friend — a man who played golf. Mr. Foley did not want to make a fool of himself, so he led up very cautiously at luncheon to his great question, which was this: “How does the title ‘Art and Environment’ sound?” He had a friend, he said, who wanted to know. On hearing this Mr. Foley’s golfing friend gave a loud guffaw, and said it sounded all right; so did the Origin of Species. It would come out about the same time, and then he spent three or four minutes trying to remember who the old johnny was who wrote it, but Mr. Foley was already at the telephone in the hall. He was not happy; he had rung up the publisher. The publisher was at luncheon. Mr. Foley damned the publisher. Could he speak to the manager? To the secretary? To one of the clerks? To the little dog? In his anger he was pleased to be facetious. He heard the manager’s voice:
+
+“Yes, is that Mr. Foley?”
+
+“Yes, about that title.”
+
+“Oh, yes, I thought you’ld ring up. It’s impossible, you know, it’s been used before; and there’s no doubt at all that the University printers would apply for an injunction.”
+
+
+
+
+<span class="atom-split" data-atom="story_12_the_book--part_02" data-title="This and That and the Other — THE BOOK (part 2)" data-chapter="THE BOOK" data-kind="excerpt"></span>
+
+
+“Well, I can’t wait,” shouted Mr. Foley into the receiver.
+
+“You can’t what?” said the manager. “I can’t hear you, you are talking too loud.”
+
+“I can’t wait,” said Mr. Foley in a lower tone and strenuously. “Suggest something quick.”
+
+The manager could be heard thinking at the end of the live wire. At last he said, “Oh, anything.” Mr. Foley used a horrible word and put back the receiver.
+
+He went back to his golfing friend who was drinking some port steadily with cheese, and said: “Look here, that friend of mine I have just been telephoning to says he wants another title.”
+
+“What for?” said the golfing friend, his mouth full of cheese.
+
+“Oh, for his book of course,” said Mr. Foley sharply.
+
+“Sorry, I thought it was politics,” answered his friend, his mouth rather less full. Then a bright thought struck him.
+
+“What’s the book about?”
+
+“Well, it’s about art and ... climate, you know.”
+
+“Why, then,” said the friend stolidly, “why not call it ‘Art and Climate’?”
+
+“That’s a good idea,” said Mr. Foley, stroking his chin.
+
+He hurried indecently, turned the poor golfing friend out, hurried up to town in his motor in order to make them call the book “Art and Climate.” When he got there he found the real publisher, who hummed and hawed and said: “All this changing of titles will be very expensive, you know.” Mr. Foley could not help that, it had to be done, so the book was called “Art and Climate,” and then it was printed, and seventy copies were sent out to the Press and it was reviewed by three papers.
+
+One of the papers said:
+
+“Mr. Charles Foley has written an interesting essay upon the effect of climate upon art, upon such conditions as will affect it whether adversely or the contrary. The point of view is an original one and gives food for thought.”
+
+Mr. Foley thought this notice quite too short and imperfect.
+
+The second paper had a column about it, nearly all of which was made out of bits cut right out of the book, but without acknowledgment or in inverted commas. In between the bits cut out there were phrases like, “Are we however to believe that ...” and “Some in this connection would decide that....” But all the rest were bits cut out of his book.
+
+The third review was in The Times, and in very small type between brackets. All it did was to give a list of the chapters and a sentence out of the preface.
+
+Mr. Foley sold thirty copies of his book, gave away seventy-four and lent two. The publisher assured him that books like that did not have a large immediate sale as a novel did; they had a slow, steady sale.
+
+It was about the middle of May that the publisher assured him of this. In June the solicitors of a Professor at Yale acting for the learned man in this country, threatened an action concerning a passage in the book which was based entirely upon the Professor’s copyright work. Mr. Foley admitted his high indebtedness to the Professor, and wore a troubled look for days. He had always thought it quite legitimate in the world of art to use another person’s work if one acknowledged it. At last the thing was settled out of court for quite a small sum, £150 or £200, or something like that.
+
+Then everything was quiet and the sales went very slowly. He only sold a half-dozen all the rest of the summer.
+
+In the autumn the publisher wrote him a note asking whether he might act upon Clause 15 of the contract. Mr. Foley was a business man. He looked up the contract and there he saw these words:
+
+“If after due time has elapsed in the opinion of the publisher, a book shall not be warrantable at its existing price, change of price shall be made in it at the discretion of the publisher or of the author, or both, or each, subject to the conditions of Clause 9.”
+
+Turning to Clause 9, Mr. Foley discovered the words:
+
+“All questions of price, advertisements, binding, paper, printing, etc., shall be vested in Messrs. Towkem Bingo and Platt, hereinafter called the Publishers.”
+
+He puzzled a great deal about these two clauses, and at last he thought, “Oh, well, they know more than I do about it,” so he just telegraphed back, “Yes.”
+
+On the first of the New Year Mr. Foley got a most astonishing document. It was a printed sheet with a lot of lines written in red ink and an account. On the one side there was “By sales £18,” then there was a long red line drawn down like a Z, and at the bottom, “£241 17s. 4½d.,” and in front of this the word “Balance,” then the two were added together and made £259 17s. 4½d. Under this sum there were two lines drawn.
+
+On the other side of the document there was a whole regiment of items, one treading upon another’s heels. There was paper, and printing, and corrections, binding, warehousing, storage, cataloguing, advertising, travelling, circularizing, packing, and what I may call with due respect to the reader, “the devil and all.” The whole of which added up to no less than the monstrous sum of £519 14s. 9d. Under this was written in small letters in red ink, “Less 50% as per agreement,” and then at the bottom that nasty figure, “£259 17s. 4½d.,” and there was a little request in a round hand that the balance of £241 17s. 4½d. should be paid at Mr. Foley’s convenience.
+
+Mr. Foley, white with rage, acted as a business man always should. He wrote a short note refusing to pay a penny, and demanding the rest of the unsold copies. He got a lengthier and stronger note from Messrs. Towkem and Thingummebob, referring to his letter, to Clause 9 and to Clause 15, informing him that the remainder of the stock had been sold at a penny each to a firm of papermakers in the North of England, and respectfully pressing for immediate payment.
+
+Mr. Foley put the matter in the hands of his solicitors and they ran him up a bill for £37 odd, but it was well worth it because they persuaded him not to go into court, so in the long run he had to pay no more than £278 17s. 4½d., unless you count the postage and the travelling.
+
+Now you know what happened to Mr. Foley and his book, and what will happen to you if you are a rich man and poach on my preserves.
 
 
 
@@ -3721,267 +3985,3 @@ The fair-way into that haven shall lie behind a pleasant little beach of shingle
 Then with what pleasure shall I put my small boat round, just round the point of that shingle beach, noting the shoal water by the eddies and the deeps by the blue colour of them where the channel runs from the main into the fair-way. Up that fair-way shall I go, up into the cove, and the gates of it shall shut behind me, headland against headland, so that I shall not see the open sea any more, though I shall still hear its distant noise. But all around me, save for that distant echo of the surf from the high hills, will be silence; and the evening will be gathering already.
 
 Under that falling light, all alone in such a place, I shall let go the anchor chain, and let it rattle for the last time. My anchor will go down into the clear salt water with a run, and when it touches I shall pay out four lengths or more so that she may swing easily and not drag, and then I shall tie up my canvas and fasten all for the night, and get me ready for sleep. And that will be the end of my sailing.
-
-
-
-
-<span class="atom-split" data-atom="story_10_the_pleasant_place--part_01" data-title="This and That and the Other — THE PLEASANT PLACE (part 1)" data-chapter="THE PLEASANT PLACE" data-kind="excerpt"></span>
-
-
-IX THE PLEASANT PLACE
-
-A GENTLEMAN OF my acquaintance came to me the other day for sympathy.... But first I must describe him: —
-
-He is a man of careful, not neat, dress: I would call it sober rather than neat. He is always clean-shaven and his scanty hair is kept short-cut. He is occupied in letters; he is, to put it bluntly, a litteratoor; none the less he is possessed of scholarship and is a minor authority upon English pottery.
-
-He is a very good writer of verse; he is not exactly a poet, but still, his verse is remarkable. Two of his pieces have been publicly praised by political peers and at least half a dozen of them have been praised in private by the ladies of that world. He is a man fifty-four years of age, and, if I may say so without betraying him, a little disappointed.
-
-He came to me, I say, for sympathy. I was sitting in my study watching the pouring rain falling upon the already soaked and drenched and drowned clay lands of my county. The leafless trees (which are in our part of a low but thick sort) were standing against a dead grey sky with a sort of ghost of movement in it, when he came in, opened his umbrella carefully so that it might not drip, and left it in the stone-floored passage — which is, to be accurate, six hundred years old — kicked off his galoshes and begged my hospitality; also (let me say it for the third time) my sympathy.
-
-He said he had suffered greatly and that he desired to tell me the whole tale. I was very willing, and his tale was this:
-
-It seems that my friend (according to his account) found himself recently in a country of a very delightful character.
-
-This country lay up and heavenly upon a sort of table-land. One went up a road which led continually higher and higher through the ravines of the mountains, until, passing through a natural gate of rock, one saw before one a wide plain bounded upon the further side by the highest crests of the range. Through this upland plain ran a broad and noble [[River|river]] whose reaches he could see in glimpses for miles, and upon the further bank of it in a direction opposite that which the gate of rock regarded, was a very delightful city.
-
-The walls of this city were old in their texture, venerable and majestic in their lines. Within their circumference could be discerned sacred buildings of a similar antiquity, but also modern and convenient houses of a kind which my friend had not come across before, but which were evidently suited to the genial, sunlit climate, as also to the habits of leisured men. Their roofs were flat, covered in places by awnings, in other places by tiled verandas, and these roofs were often disposed in the form of little gardens.
-
-Trees were numerous in the city and showed their tops above the lower buildings, while the lines of their foliage indicated the direction of the streets.
-
-My friend was passing down the road which led to this plain — and as it descended it took on an ampler and more majestic character — when he came upon a traveller who appeared to be walking in the direction of the town.
-
-This traveller asked him courteously in the English tongue whether he were bound for the city. My friend was constrained to reply that he could not pretend to any definite plan, but certainly the prospect all round him was so pleasant and the aspect of the town so inviting, that he would rather visit the capital of this delightful land at once than linger in its outskirts.
-
-“Come with me, then,” said the Traveller, “and if I may make so bold upon so short an acquaintance, accept my hospitality. I have a good house upon the wall of the town and my rank among the citizens of it is that of a merchant; — I am glad to say a prosperous one.”
-
-He spoke without affectation and with so much kindness, that my friend was ravished to discover such a companion, and they proceeded in leisurely company over the few miles that separated them from their goal.
-
-The road was now paved in every part with small square slabs, quite smooth and apparently constructed of some sort of marble. Upon either side there ran canalised in the shining stone a little stream of perfectly clear water. From time to time they would pass a lovely shrine or statue which the country people had adorned with garlands. As they approached the city they discovered a noble bridge in the manner, my friend believed, of the Italian Renaissance, with strong elliptical arches and built, like all the rest of the way, of marble, while the balustrade upon either side of it was so disposed in short symmetrical columns as to be particularly grateful to the eye. Over this bridge there went to and fro a great concourse of people, all smiling, eager, happy and busy, largely acquainted, apparently, each with the others, nodding, exchanging news, and in a word forming a most blessed company.
-
-As they entered the city my friend’s companion, who had talked of many things upon their way and had seemed to unite the most perfect courtesy and modesty with the widest knowledge, asked him whether there was any food or drink to which he was particularly attached.
-
-“For,” said he, “I make a point whenever I entertain a guest — and that,” he put in with a laugh, “is, I am glad to say, a thing that happens frequently — I make a point, I say, of asking him what he really prefers. It makes such a difference!”
-
-My friend began his reply with those conventional phrases to which we are all accustomed, “That he would be only too happy to take whatever was set before him,” “That the prospect of his hospitality was a sufficient guarantee of his satisfaction,” and so forth: but his host would take no denial.
-
-“No, no!” said he. “Do please say just what you prefer! It is so easy to arrange — if you only knew!... Come, I know the place better than you,” he added, smiling again; “you have no conception of its resources. Pray tell me quite simply before we leave this street” — for they were now in a street of sumptuous and well-appointed shops— “exactly what shall be commissioned.”
-
-
-
-
-<span class="atom-split" data-atom="story_10_the_pleasant_place--part_02" data-title="This and That and the Other — THE PLEASANT PLACE (part 2)" data-chapter="THE PLEASANT PLACE" data-kind="excerpt"></span>
-
-
-Moved by I know not what freedom of expression, and expansive in a degree which he had never yet known, my friend smiled back and said: “Well, to tell you the [[Truth|truth]], some such meal as this would appeal to me: First two dozen green-bearded oysters of the Arcachon kind, opened upon the deep shell with all their juices preserved, and each exquisitely cleaned. These set upon pounded ice and served in that sort of dish which is contrived for each oyster to repose in its own little recess with a sort of side arrangement for the reception of the empty shells.”
-
-His host nodded gravely, as one who takes in all that is said to him.
-
-“Next,” said my friend, in an enthusiastic manner, “real and good Russian caviar, cold but not frozen, and so touched with lemon — only just so touched — as to be perfect. With this I think a little of the wine called Barsac should be drunk, and that cooled to about thirty-eight degrees — (Fahrenheit). After this a True Bouillon, and by a True Bouillon,” said my friend with earnestness, “I mean a Bouillon that has long simmered in the pot and has been properly skimmed, and has been seasoned not only with the customary herbs but also with a suspicion of carrot and of onion, and a mere breath of tarragon.”
-
-“Right!” said his host. “Right!” nodding with real appreciation.
-
-“And next,” said my friend, halting in the street to continue his list, “I think there should be eggs.”
-
-“Right,” said his host once more approvingly; “and shall we say — —”
-
-“No,” interrupted my friend eagerly, “let me speak. Eggs sur-le-plat, frizzled to the exact degree.”
-
-“Just what I was about to suggest,” answered his delighted entertainer, “and black pepper, I hope, ground large upon them in fresh granules from a proper wooden mill.”
-
-“Yes! Yes!” said my friend, now lyric, “and with sea salt in large crystals.”
-
-On saying which both of them fell into a sort of ecstasy which my friend broke by adding:
-
-“Something quite light to follow ... preferably a sugar-cured Ham braised in white wine. Then, I think, spinach, not with the ham but after it; and that spinach cooked perfectly dry. We will conclude with some of the cheese called Brie. And for wine during all these latter courses we will drink the wine of Chinon: Chinon Grillé. What they call,” he added slyly, “the Fausse maigre; for it is a wine thin at sight but full in the drinking of it.”
-
-“Good! Excellent!” said his host, clapping his hands together once with a gesture of finality. “And then after the lot you shall have coffee.”
-
-“Yes, coffee roasted during the meal and ground immediately before its concoction. And for liqueur....”
-
-My friend was suddenly taken with a little doubt. “I dare not ask,” said he, “for the liqueur called Aquebus? Once only did I taste it. A monk gave it me on Christmas Eve four years ago and I think it is not known!”
-
-“Oh, ask for it by all means!” said his host. “Why, we know it and love it in this place as though it were a member of the family!”
-
-My friend could hardly believe his ears on hearing such things, and said nothing of cigars. But to his astonishment his host, putting his left hand on my friend’s shoulder, looked him full in the face and said:
-
-“And now shall I tell you about cigars?”
-
-“I confess they were in my mind,” said my friend.
-
-“Why then,” said his host with an expression of profound happiness, “there is a cigar in this town which is full of flavour, black in colour, which does not bite the tongue, and which none the less satisfies whatever tobacco does satisfy in man. When you smoke it you really dream.”
-
-“Why,” said my friend humbly, “very well then, let us mention these cigars as the completion of our little feast.”
-
-“Little feast, indeed!” said his host, “why it is but a most humble meal. Anyhow, I am glad to have had from you a proper schedule of your pleasures of the table. In time to come when we know each other better, we will arrange other large and really satisfactory meals; but this will do very well for our initiatory lunch as it were.” And he laughed merrily.
-
-“But have I not given you great trouble?” said my friend.
-
-“How little you will easily perceive,” said his companion, “for in this town we have but to order and all is at once promptly and intelligently done.” With that he turned into a small office where a commissary at once took down his order. “And now,” said he emerging, “let us be home.”
-
-They went together down the turnings of a couple of broad streets lined with great private palaces and public temples until they came to a garden which had no boundaries to it but which was open, and apparently the property of the city. But the people who wandered here were at once so few, so discreet and so courteous, my friend could not discover whether they were (as their salutes seemed to indicate) the dependents of his host, or merely acquaintances who recognized him upon their way.
-
-This garden, as they proceeded, became more private and more domestic; it led by narrowing paths through high, diversified trees, until, beyond the screen of a great beech hedge, he saw the house ... and it was all that a house should be!
-
-Its clear, well set stone walls were in such perfect harmony with the climate and with the sky, its roof garden from which a child was greeting them upon their approach, so unexpected and so suitable, its arched open gallery was of so august a sort, and yet the domestic ornaments of its colonnade so familiar, that nothing could be conceived more appropriate for the residence of man.
-
-The mere passage into this Home out of the warm morning daylight into the inner domestic cool, was a benediction, and in the courtyard which they thus entered a lazy fountain leaped and babbled to itself in a manner that filled the heart with ease.
-
-“I do not know,” said his host in a gentle whisper as they crossed the courtyard, “whether it is your custom to bathe before the morning meal or in the middle of the afternoon?”
-
-“Why, sir,” said my friend, “if I may tell the whole [[Truth|truth]], I have no custom in the matter; but perhaps the middle of the afternoon would suit me best.”
-
-
-
-
-<span class="atom-split" data-atom="story_10_the_pleasant_place--part_03" data-title="This and That and the Other — THE PLEASANT PLACE (part 3)" data-chapter="THE PLEASANT PLACE" data-kind="excerpt"></span>
-
-
-“By all means,” said his host in a satisfied tone. “And I think you have chosen wisely, for the meal you have ordered will very shortly be prepared. But, for your refreshment at least, one of my friends shall put you in order, cool your hands and forehead, see to your face and hair, put comfortable sandals upon your feet and give you a change of raiment.”
-
-All of this was done. My friend’s host did well to call the servant who attended upon his guest a “friend,” for there was in this man’s manner no trace of servility or of dependence, and yet an eager willingness for service coupled with a perfect reticence which was admirable to behold and feel.
-
-When my friend had been thus refreshed he was conducted to a most exceptional little room. Four pictures were set in the walls of it, mosaics, they seemed — but he did not examine their medium closely. The room itself in its perfect lightness and harmony, with its view out through a large round arch upon the countryside beyond the walls (the old turrets of which made a framework for the view), exactly prepared him for the meal that was prepared.
-
-While the oysters (delightful things!) were entering upon their tray and were being put upon the table, the host, taking my friend aside with an exquisite gesture of courteous privacy, led him through the window-arch on to a balcony without, and said, as they gazed upon the wall and the plain and the mountains beyond (and what a sight they were!):
-
-“There is one thing, my dear sir, that I should like to say to you before you eat ... it is rather a delicate matter.... You will not mind my being perfectly frank?”
-
-“Speak on, speak on,” said my friend, who by this time would have confided any interests whatsoever into the hands of such a host.
-
-“Well,” said that host, continuing a little carefully, “it is this: as you can see we are very careful in this city to make men as happy as may be. We are happy ourselves, and we love to confer happiness upon others, strangers and travellers who honour us with their presence. But we find — I am very sorry to say we find ... that is, we find from time to time that their complete happiness, no matter with what we may provide them, is dashed by certain forms of anxiety, the chief of which is anxiety with regard to their future receipts of money.”
-
-My friend started.
-
-“Nay,” said his host hastily, “do not misunderstand me. I do not mean that preoccupations of business are alone so alarming. What I mean is that sometimes, yes, and I may say often (horrible as it seems to us!), our guests are in an active preoccupation about the petty business of finance. Some few have debts, it seems, in the wretched society from which they come, and of which, frankly, I know nothing. Others, though not indebted, feel insecure about the future. Others though wealthy are oppressed by their responsibilities. Now,” he continued firmly, “I must tell you once and for all that we have a custom here upon which we take no denial: no denial whatsoever. Every man who enters this city, who honours us by entering this city, is made free of that sort of nonsense, thank God!” And as he said this, my friend’s host breathed a great sigh of relief. “It would be intolerable to us to think,” he continued, “that our welcome and dear companions were suffering from such a tawdry thing as money-worry in our presence. So the matter is plainly this: whether you like it or whether you do not, the sum of £10,000 is already set down to your credit in the public bank of the city; whether you use it or not is your business; if you do not it is our custom to melt down an equivalent sum of gold and to cast it into the depths of the [[River|river]], for we have of this metal an unfailing supply, and I confess we do not find it easy to understand the exaggerated value which other men place upon it.”
-
-“I do not know that I shall have occasion to use so magnificent a custom,” said my friend with an extraordinary relief in his heart, “but I certainly thank you very kindly for its intention, and I shall not hesitate to use any sum that may be necessary for my continuing the great happiness which this city appears to afford.”
-
-“You have spoken well,” said his host, seizing both his hands, “and your frankness compels me to another confession: We have at our disposal a means of discovering exactly how any one of our guests may stand: the responsibilities of the rich, the indebtedness of the embarrassed, the anxiety of those whose future may be precarious. May I tell you without discourtesy, that your own case is known to me and to two trustees, who are public officials — absolutely reliable — and whom, for that matter, you will not meet.”
-
-My friend must have looked incredulous, but his host continued firmly: “It is so, we have settled your whole matter, I am glad to say, on terms that settle all your liabilities and leave a further £50,000 to your credit in the public bank. But the size of the sum is in this city really of no importance. You may demand whatever you will, and enjoy, I hope, a complete security during your habitation here. And that habitation, both the Town Council and the National Government, beg you, through me, to extend to the whole of your life.”
-
-* * * * *
-
-“Imagine,” said my friend, “how I felt.... The oysters were now upon the table, and before them, ready for consumption, the caviar. The Barsac in its original bottle, cooled (need I say!) to exactly thirty-eight degrees, stood ready....”
-
-At this point he stopped and gazed into the fire.
-
-“But, my dear fellow,” said I, “if you are coming to me for sympathy and simply succeed in making me hungry and cross....”
-
-“No,” said my friend with a sob, “you don’t understand!” And he continued to gaze at the fire.
-
-“Well, go on,” said I angrily.
-
-“There isn’t any on,” he said; “I woke!”
-
-We both looked into the fire together for perhaps three minutes before I spoke and said:
-
-“Will you have some wine?”
-
-“No thank you,” he answered sadly, “not that wine.” Then he got up uneasily and moved for his umbrella and his galoshes, and the passage and the door. I thought he muttered, “You might have helped me.”
-
-“How could I help you?” I said savagely.
-
-“Well,” he sighed, “I thought you could ... it was a bitter disappointment. Good night!” And he went out again into the rain and over the clay.
-
-
-
-
-<span class="atom-split" data-atom="story_12_the_book--part_01" data-title="This and That and the Other — THE BOOK (part 1)" data-chapter="THE BOOK" data-kind="excerpt"></span>
-
-
-XI THE BOOK
-
-THIS IS WRITTEN to dissuade all rich men from queering the pitch of us poor litteratoors, who have to write or starve. It is about a Mr. Foley: a Mr. Charles Foley, a banker and the son of a banker, who in middle life, that is at forty, saw no more use in coming to his office every day, but began to lead the life of a man of leisure. Next, being exceedingly rich he was prompted, of course, to write a book. The thing that prompted him to write a book was a thought, an idea. It took him suddenly as ideas will, one Saturday evening as he was walking home from his Club. It was a fine night and the idea seemed to come upon him out of the sky. This was the idea: that men produce such and such art in architecture and society and so forth, on account of the kind of climate they live in. Such a thought had never come to him before and very probably to no other man. It was simple like a seed — and yet, as he turned it over, what enormous possibilities.
-
-He lay awake half the night examining it. It spread out like a great tree and explained every human thing on earth; at least if to climate one added one or two other things, such as height above the sea and consequent rarity of the air and so forth — but perhaps all these could be included in climate.
-
-Hitherto every one had imagined that nations and civilisations had each their temperament and tendency or genius, but those words were only ways of saying that one did not know what it was. He knew: Charles Foley did. He had caught the inspiration suddenly as it passed. He slept the few last hours of the night in a profound repose, and next day he was at it. He was writing that book.
-
-He was a business-man — luckily for him. He did not speak of the great task until it was done. He was in no need of money — luckily for him. He could afford to wait until the last pages had satisfied him. Life had taught him that one could do nothing in business unless one had something in one’s hands. He would come to the publisher with something in his hands, to wit, with this MSS. He had no doubt about the title. He would call it “Man and Nature.” The title had come to him in a sort of flash after the idea. Anyhow, that was the title, and he felt it to be a very part of his being.
-
-He had fixed upon his publisher. He rang him up to make an appointment. The publisher received him with charming courtesy. It was the publisher himself who received him; not the manager, not the secretary, nor any one like that, but the real person, the one who had the overdraft at the Bank.
-
-He treated Mr. Charles Foley so well that Mr. Foley tasted a new joy which was the joy of sincere praise received. He was in the liberal arts now. He had come into a second world. His mere wealth had never given him this. When the publisher had heard what Mr. Charles Foley had to say, he scratched the tip of his nose with his forefinger, and suggested that Mr. Foley should pay for the printing and the binding of the book, and that then the publisher should advertise it and sell it, and give Mr. Foley so much.
-
-But Mr. Foley would have none of this. He was a business man and he could see through a brick wall as well as any one. So the publisher made this suggestion and that suggestion and talked all round about it. He was evidently keen to have the book. Mr. Foley could see that. At last the publisher made what Mr. Foley thought for the first time a sound business proposition, which was that he should publish the book in the ordinary way and then that he and Mr. Foley should share and share alike. If there was a loss they would divide it, but if there was a profit they would divide that. Mr. Foley was glad that he came to a sensible business decision at last, and closed with him. The date of publication also was agreed upon: it was to be the 15th of April. “In order,” said the publisher, “that we may catch the London season.” Mr. Charles Foley suggested August, but the publisher assured him that August was a rotten time for books.
-
-Only the very next day Mr. Foley entered upon the responsibilities which are inseparable from the joys of an author. He received a letter from the publisher, saying that it seemed that another book had been written under the title “Man and Nature,” that he dared not publish under that title lest the publishers of the other volume should apply for an injunction.
-
-Mr. Foley suffered acutely. He left his breakfast half finished; ran into town in his motor, as agonized in every block of the traffic as though he had to catch a train; was kept waiting half an hour in the publisher’s office because the principal had not yet arrived, and, when he did arrive, was persuaded that there was nothing to be done. The Courts wouldn’t allow “Man and Nature,” the publisher was sure of that. He kept on shaking his great big silly head until it got on Mr. Foley’s nerves. But there was no way out of it, so Mr. Foley changed the title to “Art and Environment” — it was the publisher’s secretary who suggested this new title.
-
-He got home to luncheon, to which he now remembered he had asked a friend — a man who played golf. Mr. Foley did not want to make a fool of himself, so he led up very cautiously at luncheon to his great question, which was this: “How does the title ‘Art and Environment’ sound?” He had a friend, he said, who wanted to know. On hearing this Mr. Foley’s golfing friend gave a loud guffaw, and said it sounded all right; so did the Origin of Species. It would come out about the same time, and then he spent three or four minutes trying to remember who the old johnny was who wrote it, but Mr. Foley was already at the telephone in the hall. He was not happy; he had rung up the publisher. The publisher was at luncheon. Mr. Foley damned the publisher. Could he speak to the manager? To the secretary? To one of the clerks? To the little dog? In his anger he was pleased to be facetious. He heard the manager’s voice:
-
-“Yes, is that Mr. Foley?”
-
-“Yes, about that title.”
-
-“Oh, yes, I thought you’ld ring up. It’s impossible, you know, it’s been used before; and there’s no doubt at all that the University printers would apply for an injunction.”
-
-
-
-
-<span class="atom-split" data-atom="story_12_the_book--part_02" data-title="This and That and the Other — THE BOOK (part 2)" data-chapter="THE BOOK" data-kind="excerpt"></span>
-
-
-“Well, I can’t wait,” shouted Mr. Foley into the receiver.
-
-“You can’t what?” said the manager. “I can’t hear you, you are talking too loud.”
-
-“I can’t wait,” said Mr. Foley in a lower tone and strenuously. “Suggest something quick.”
-
-The manager could be heard thinking at the end of the live wire. At last he said, “Oh, anything.” Mr. Foley used a horrible word and put back the receiver.
-
-He went back to his golfing friend who was drinking some port steadily with cheese, and said: “Look here, that friend of mine I have just been telephoning to says he wants another title.”
-
-“What for?” said the golfing friend, his mouth full of cheese.
-
-“Oh, for his book of course,” said Mr. Foley sharply.
-
-“Sorry, I thought it was politics,” answered his friend, his mouth rather less full. Then a bright thought struck him.
-
-“What’s the book about?”
-
-“Well, it’s about art and ... climate, you know.”
-
-“Why, then,” said the friend stolidly, “why not call it ‘Art and Climate’?”
-
-“That’s a good idea,” said Mr. Foley, stroking his chin.
-
-He hurried indecently, turned the poor golfing friend out, hurried up to town in his motor in order to make them call the book “Art and Climate.” When he got there he found the real publisher, who hummed and hawed and said: “All this changing of titles will be very expensive, you know.” Mr. Foley could not help that, it had to be done, so the book was called “Art and Climate,” and then it was printed, and seventy copies were sent out to the Press and it was reviewed by three papers.
-
-One of the papers said:
-
-“Mr. Charles Foley has written an interesting essay upon the effect of climate upon art, upon such conditions as will affect it whether adversely or the contrary. The point of view is an original one and gives food for thought.”
-
-Mr. Foley thought this notice quite too short and imperfect.
-
-The second paper had a column about it, nearly all of which was made out of bits cut right out of the book, but without acknowledgment or in inverted commas. In between the bits cut out there were phrases like, “Are we however to believe that ...” and “Some in this connection would decide that....” But all the rest were bits cut out of his book.
-
-The third review was in The Times, and in very small type between brackets. All it did was to give a list of the chapters and a sentence out of the preface.
-
-Mr. Foley sold thirty copies of his book, gave away seventy-four and lent two. The publisher assured him that books like that did not have a large immediate sale as a novel did; they had a slow, steady sale.
-
-It was about the middle of May that the publisher assured him of this. In June the solicitors of a Professor at Yale acting for the learned man in this country, threatened an action concerning a passage in the book which was based entirely upon the Professor’s copyright work. Mr. Foley admitted his high indebtedness to the Professor, and wore a troubled look for days. He had always thought it quite legitimate in the world of art to use another person’s work if one acknowledged it. At last the thing was settled out of court for quite a small sum, £150 or £200, or something like that.
-
-Then everything was quiet and the sales went very slowly. He only sold a half-dozen all the rest of the summer.
-
-In the autumn the publisher wrote him a note asking whether he might act upon Clause 15 of the contract. Mr. Foley was a business man. He looked up the contract and there he saw these words:
-
-“If after due time has elapsed in the opinion of the publisher, a book shall not be warrantable at its existing price, change of price shall be made in it at the discretion of the publisher or of the author, or both, or each, subject to the conditions of Clause 9.”
-
-Turning to Clause 9, Mr. Foley discovered the words:
-
-“All questions of price, advertisements, binding, paper, printing, etc., shall be vested in Messrs. Towkem Bingo and Platt, hereinafter called the Publishers.”
-
-He puzzled a great deal about these two clauses, and at last he thought, “Oh, well, they know more than I do about it,” so he just telegraphed back, “Yes.”
-
-On the first of the New Year Mr. Foley got a most astonishing document. It was a printed sheet with a lot of lines written in red ink and an account. On the one side there was “By sales £18,” then there was a long red line drawn down like a Z, and at the bottom, “£241 17s. 4½d.,” and in front of this the word “Balance,” then the two were added together and made £259 17s. 4½d. Under this sum there were two lines drawn.
-
-On the other side of the document there was a whole regiment of items, one treading upon another’s heels. There was paper, and printing, and corrections, binding, warehousing, storage, cataloguing, advertising, travelling, circularizing, packing, and what I may call with due respect to the reader, “the devil and all.” The whole of which added up to no less than the monstrous sum of £519 14s. 9d. Under this was written in small letters in red ink, “Less 50% as per agreement,” and then at the bottom that nasty figure, “£259 17s. 4½d.,” and there was a little request in a round hand that the balance of £241 17s. 4½d. should be paid at Mr. Foley’s convenience.
-
-Mr. Foley, white with rage, acted as a business man always should. He wrote a short note refusing to pay a penny, and demanding the rest of the unsold copies. He got a lengthier and stronger note from Messrs. Towkem and Thingummebob, referring to his letter, to Clause 9 and to Clause 15, informing him that the remainder of the stock had been sold at a penny each to a firm of papermakers in the North of England, and respectfully pressing for immediate payment.
-
-Mr. Foley put the matter in the hands of his solicitors and they ran him up a bill for £37 odd, but it was well worth it because they persuaded him not to go into court, so in the long run he had to pay no more than £278 17s. 4½d., unless you count the postage and the travelling.
-
-Now you know what happened to Mr. Foley and his book, and what will happen to you if you are a rich man and poach on my preserves.

@@ -1,5 +1,5 @@
 ---
-title: "Coriolanus — Act V, Scene 6 — exchange (THE PERSONS OF THE PLAY) [5]"
+title: "CORIOLANUS"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/coriolanus-(shakespeare)"
@@ -9,6 +9,1341 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/coriolanus" data-author="Shakespeare" data-workhref="works/coriolanus-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Coriolanus — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter a company of mutinous Citizens with staves, clubs, and other weapons |
+| FIRST CITIZEN | Before we proceed any further, hear me speak. |
+| ALL | Speak, speak. |
+| FIRST CITIZEN | You are all resolved rather to die than to famish? ALL Resolved, resolved. |
+| FIRST CITIZEN | First, you know Caius Martius is chief enemy to the people. |
+| ALL | We know’t, we know’t. |
+| FIRST CITIZEN | Let us kill him, and we’ll have corn at our own price. Is’t a verdict? |
+| ALL | No more talking on’t, let it be done. Away, away. SECOND CITIZEN One word, good citizens. |
+| FIRST CITIZEN | We are accounted poor citizens, the patricians good. What authority surfeits on would relieve us. If they would yield us but the superfluity while it were wholesome we might guess they relieved us humanely, but they think we are too dear. The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them. Let us [[Revenge|revenge]] this with our pikes ere we become rakes; for the gods know I speak this in hunger for bread, not in thirst for [[Revenge|revenge]]. |
+| SECOND CITIZEN | Would you proceed especially against Caius Martius? THIRD CITIZEN Against him first. FOURTH CITIZEN He’s a very dog to the commonalty. |
+| SECOND CITIZEN | Consider you what services he has done for his country? |
+| FIRST CITIZEN | Very [[Well|well]], and could be content to give him good report for’t, but that he pays himself with being proud. FIFTH CITIZEN Nay, but speak not maliciously. |
+| FIRST CITIZEN | I say unto you, what he hath done famously, he did it to that end—though soft-conscienced men can be content to say ‘it was for his country’, ‘he did it to please his mother, and to be partly proud’—which he is even to the altitude of his virtue. |
+| SECOND CITIZEN | What he cannot help in his [[Nature|nature]] you account a vice in him. You must in no way say he is covetous. |
+| FIRST CITIZEN | If I must not, I need not be barren of accusations. He hath faults, with surplus, to tire in repetition. Shouts within What shouts are these? The other side o’th’ [[City|city]] is risen. Why stay we prating here? To th’ Capitol! |
+| ALL | Come, come. Enter [[Menenius]] |
+| FIRST CITIZEN | Soft, who comes here? |
+| SECOND CITIZEN | Worthy [[Menenius]] Agrippa, one that hath always loved the people. |
+| FIRST CITIZEN | He’s one honest enough. Would all the rest were so! |
+| [[Menenius|MENENIUS]] | What work’s, my countrymen, in hand? Where go you With bats and clubs? The matter. Speak, I pray you. FIRST CITIZEN Our business is not unknown to th’ senate. They have had inkling this fortnight what we intend to do, which now we’ll show ’em in deeds. They say poor suitors have strong breaths; they shall know we have strong arms, too. |
+| [[Menenius|MENENIUS]] | Why, masters, my good friends, mine honest neighbours, Will you undo yourselves? FIRST CITIZEN We cannot, sir. We are undone already. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--02_monologue_menenius" data-title="Coriolanus — Act I, Scene 1 — monologue (MENENIUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | I tell you, friends, most charitable care Have the patricians of you. For your wants, Your [[Suffering|suffering]] in this dearth, you may as [[Well|well]] Strike at the heaven with your staves as lift them Against the Roman state, whose course will on The way it takes, cracking ten thousand curbs Of more strong link asunder than can ever Appear in your impediment. For the dearth, The gods, not the patricians, make it, and Your knees to them, not arms, must help. Alack, You are transported by calamity Thither where more attends you, and you slander The helms o’th’ state, who care for you like fathers, When you curse them as enemies. FIRST CITIZEN Care for us? True, indeed! They ne’er cared for us yet: suffer us to famish, and their store-houses crammed with grain; make edicts for usury to support usurers; repeal daily any wholesome act established against the rich; and provide more piercing statutes daily to chain up and restrain the poor. If the wars eat us not up, they will; and there’s all the [[Love|love]] they bear us. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--03_exchange_menenius" data-title="Coriolanus — Act I, Scene 1 — exchange (MENENIUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | Either you must Confess yourselves wondrous malicious Or be accused of folly. I shall tell you A pretty tale. It may be you have heard it, But since it serves my purpose, I will venture To stale’t a little more. FIRST CITIZEN [[Well]], I’ll hear it, sir. Yet you must not think to fob off our disgrace with a tale. But an’t please you, deliver. |
+| [[Menenius|MENENIUS]] | There was a [[Time|time]] when all the [[Body|body]]’s members, Rebelled against the belly, thus accused it: That only like a gulf it did remain I‘th’ midst o’th’ [[Body|body]], idle and unactive, Still cupboarding the viand, never bearing Like labour with the rest; where th’other instruments Did see and hear, devise, instruct, walk, feel, And, mutually participate, did minister Unto the appetite and affection common Of the whole [[Body|body]]. The belly answered— FIRST CITIZEN [[Well]], sir, what answer made the belly? |
+| [[Menenius|MENENIUS]] | Sir, I shall tell you. With a kind of smile, Which ne’er came from the lungs, but even thus— For look you, I may make the belly smile As [[Well|well]] as speak—it tauntingly replied To th’ discontented members, the mutinous parts That envied his receipt; even so most fitly As you malign our senators for that They are not such as you. FIRST CITIZEN Your belly’s answer—what? The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps In this our fabric, if that they— |
+| [[Menenius|MENENIUS]] | What then? Fore me, this fellow speaks! What then? What then? FIRST CITIZEN Should by the cormorant belly be restrained, Who is the sink o’th’ [[Body|body]]— |
+| [[Menenius|MENENIUS]] | [[Well]], what then? FIRST CITIZEN The former agents, if they did complain, What could the belly answer? |
+| [[Menenius|MENENIUS]] | I will tell you, If you’ll bestow a small of what you have tittle— Patience—a while, you’st hear the belly’s answer. FIRST CITIZEN You’re long about it. |
+| [[Menenius|MENENIUS]] | Note me this, good friend: Your most [[Grave|grave]] belly was deliberate, Not rash like his accusers, and thus answered: ‘True is it, my incorporate friends,’ quoth he, ‘That I receive the general food at first Which you do live upon, and fit it is, Because I am the storehouse and the shop Of the whole [[Body|body]]. But, if you do remember, I send it through the rivers of your [[Blood|blood]] Even to the [[Court|court]], the heart, to th’ seat o’th’ brain; And through the cranks and offices of man The strongest nerves and small inferior veins From me receive that natural competency Whereby they live. And though that all at once’— You my good friends, this says the belly, mark me— FIRST CITIZEN Ay, sir, [[Well|well]], [[Well|well]]. |
+| [[Menenius|MENENIUS]] | ’Though all at once cannot See what I do deliver out to each, Yet I can make my audit up that all From me do back receive the flour of all And leave me but the bran.’ What say you to’t? FIRST CITIZEN It was an answer. How apply you this? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--04_exchange_menenius" data-title="Coriolanus — Act I, Scene 1 — exchange (MENENIUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | The senators of Rome are this good belly, And you the mutinous members. For examine Their counsels and their cares, digest things rightly Touching the weal o’th’ common, you shall find No public benefit which you receive But it proceeds or comes from them to you, And no way from yourselves. What do you think, You, the great toe of this assembly? FIRST CITIZEN I the great toe? Why the great toe? |
+| [[Menenius|MENENIUS]] | For that, being one o‘th’ lowest, basest, poorest Of this most wise rebellion, thou goest foremost. Thou rascal, that art worst in [[Blood|blood]] to run, Lead’st first to win some vantage. But make you ready your stiff bats and clubs. Rome and her rats are at the point of battle. The one side must have bale. Enter Martius Hail, noble Martius! |
+| MARTIUS | Thanks.—What’s the matter, you dissentious rogues, That, rubbing the poor itch of your opinion, Make yourselves scabs? FIRST CITIZEN We have ever your good word. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--05_monologue_martius" data-title="Coriolanus — Act I, Scene 1 — monologue (MARTIUS) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MARTIUS | He that will give good words to thee will flatter Beneath abhorring. What would you have, you curs That like nor peace nor war? The one affrights you, The other makes you proud. He that trusts to you, Where he should find you lions finds you hares, Where foxes, geese. You are no surer, no, Than is the coal of [[Fire|fire]] upon the ice, Or hailstone in the sun. Your virtue is To make him worthy whose offence subdues him, And curse that justice did it. Who deserves [[Greatness|greatness]] Deserves your hate, and your affections are A sick man’s appetite, who desires most that Which would increase his evil. He that depends Upon your favours swims with fins of lead, And hews down oaks with rushes. Hang ye! Trust ye? With every minute you do change a mind, And call him noble that was now your hate, Him vile that was your garland. What’s the matter, That in these several places of the [[City|city]] You cry against the noble senate, who, Under the gods, keep you in awe, which else Would feed on one another? (To [[Menenius]]) What’s their seeking? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--06_exchange_menenius" data-title="Coriolanus — Act I, Scene 1 — exchange (MENENIUS) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | For corn at their own rates, whereof they say The [[City|city]] is [[Well|well]] stored. |
+| MARTIUS | Hang ’em! They say? They’ll sit by th’ [[Fire|fire]] and presume to know What’s done i’th’ Capitol, who’s like to rise, Who thrives and who declines; side factions and give out Conjectural marriages, making parties strong And feebling such as stand not in their liking Below their cobbled shoes. They say there’s grain enough! Would the nobility lay aside their ruth And let me use my [[Sword|sword]], I’d make a quarry With thousands of these quartered slaves as high As I could pitch my lance. |
+| [[Menenius|MENENIUS]] | Nay, these are all most thoroughly persuaded, For though abundantly they lack discretion, Yet are they passing cowardly. But I beseech you, What says the other troop? |
+| MARTIUS | They are dissolved. Hang ’em. They said they were an-hungry, sighed forth proverbs— That hunger broke stone walls, that [[dogs]] must eat, That meat was made for mouths, that the gods sent not Corn for the rich men only. With these shreds They vented their complainings, which being answered, And a petition granted them—a strange one, To break the heart of generosity And make bold power look pale—they threw their caps As they would hang them on the horns o’th’ [[Moon|moon]], Shouting their emulation. |
+| [[Menenius|MENENIUS]] | What is granted them? |
+| MARTIUS | Five tribunes to defend their vulgar wisdoms, Of their own choice. One’s Junius [[Brutus]], [[Sicinius]] Velutus, and I know not. ’Sdeath, The rabble should have first unroofed the [[City|city]] Ere so prevailed with me! It will in [[Time|time]] Win upon power and throw forth greater themes For insurrection’s arguing. |
+| [[Menenius|MENENIUS]] | This is strange. |
+| MARTIUS | (to the Citizens) Go get you [[Home|home]], you fragments. Enter a Messenger hastily |
+| MESSENGER | Where’s Caius Martius? |
+| MARTIUS | Here. What’s the matter? |
+| MESSENGER | The news is, sir, the Volsces are in arms. |
+| MARTIUS | I am glad on’t. Then we shall ha’ means to vent Our musty superfluity. Enter [[Sicinius]], [[Brutus]], [[Cominius]], Lartius, with other Senators See, our best elders. |
+| FIRST SENATOR | Martius, ’tis true that you have lately told us. The Volsces are in arms. |
+| MARTIUS | They have a leader, Tullus [[Aufidius]], that will put you to’t. I sin in envying his nobility, And were I anything but what I am, I would wish me only he. |
+| [[Cominius|COMINIUS]] | You have fought together! |
+| MARTIUS | Were half to half the world by th’ ears and he Upon my party, I’d revolt to make Only my wars with him. He is a [[Lion|lion]] That I am proud to hunt. |
+| FIRST SENATOR | Then, worthy Martius, Attend upon [[Cominius]] to these wars. |
+| [[Cominius|COMINIUS]] | (to Martius) It is your former promise. |
+| MARTIUS | Sir, it is, And I am constant. Titus Lartius, thou Shalt see me once more strike at Tullus’ face. What, art thou stiff? Stand’st out? |
+| LARTIUS | No, Caius Martius. I’ll lean upon one crutch and fight with th’other Ere stay behind this business. |
+| [[Menenius|MENENIUS]] | O true bred! FIRST SENATOR Your company to th’ Capitol, where I know Our greatest friends attend us. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--07_exchange_lartius" data-title="Coriolanus — Act I, Scene 1 — exchange (LARTIUS) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LARTIUS | (to [[Cominius]]) Lead you on. (To Martius) Follow [[Cominius]]. We must follow you, Right worthy your priority. |
+| [[Cominius|COMINIUS]] | Noble Martius. FIRST SENATOR (to the Citizens) Hence to your homes, be gone. |
+| MARTIUS | Nay, let them follow. The Volsces have much corn. Take these rats thither To gnaw their garners. Citizens steal away Worshipful mutineers, Your valour puts [[Well|well]] forth. (To the Senators) Pray follow. Exeunt all but [[Sicinius]] and [[Brutus]] |
+| [[Sicinius|SICINIUS]] | Was ever man so proud as is this Martius? |
+| [[Brutus|BRUTUS]] | He has no equal. |
+| [[Sicinius|SICINIUS]] | When we were chosen tribunes for the people— |
+| [[Brutus|BRUTUS]] | Marked you his lip and eyes? |
+| [[Sicinius|SICINIUS]] | Nay, but his taunts. |
+| [[Brutus|BRUTUS]] | Being moved, he will not spare to gird the gods. |
+| [[Sicinius|SICINIUS]] | Bemock the modest [[Moon|moon]]. |
+| BRUTES | The present wars devour him! He is grown Too proud to be so valiant. |
+| [[Sicinius|SICINIUS]] | Such a [[Nature|nature]], Tickled with good [[success]], disdains the [[Shadow|shadow]] Which he treads on at [[Noon|noon]]. But I do [[Wonder|wonder]] His insolence can brook to be commanded Under [[Cominius]]. |
+| [[Brutus|BRUTUS]] | Fame, at the which he aims— In whom already he’s [[Well|well]] graced—cannot Better be held nor more attained than by A place below the first; for what miscarries Shall be the general’s fault, though he perform To th’ utmost of a man, and giddy censure Will then cry out of Martius ‘O, if he Had borne the business!’ |
+| [[Sicinius|SICINIUS]] | Besides, if things go [[Well|well]], Opinion, that so sticks on Martius, shall Of his demerits rob [[Cominius]]. |
+| [[Brutus|BRUTUS]] | Come, Half all [[Cominius]]’ honours are to Martius, Though Martius earned them not; and all his faults To Martius shall be honours, though indeed In aught he merit not. |
+| [[Sicinius|SICINIUS]] | Let’s hence and hear How the dispatch is made, and in what fashion, More than his singularity, he goes Upon this present action. |
+| [[Brutus|BRUTUS]] | Let’s along. Exeunt |
+| [[Brutus|BRUTUS]] | 1.2 Enter [[Aufidius]], with Senators of Corioles |
+| FIRST SENATOR | So, your opinion is, [[Aufidius]], That they of Rome are entered in our counsels And know how we proceed. |
+| [[Aufidius|AUFIDIUS]] | Is it not yours? What ever have been thought on in this state That could be brought to bodily act ere Rome Had circumvention? ’Tis not four days gone Since I heard thence. These are the words. I think I have the letter here—yes, here it is. He reads the letter ‘They have pressed a power, but it is not known Whether for east or west. The dearth is great, The people mutinous, and it is rumoured [[Cominius]], Martius your old enemy, Who is of Rome worse hated than of you, And Titus Lartius, a most valiant Roman, These three lead on this preparation Whither ’tis bent. Most likely ‘tis for you. Consider of it.’ |
+| FIRST SENATOR | Our army’s in the field. We never yet made [[Doubt|doubt]] but Rome was ready To answer us. |
+| [[Aufidius|AUFIDIUS]] | Nor did you think it folly To keep your great pretences veiled till when They needs must show themselves, which in the hatching, It seemed, appeared to Rome. By the discovery We shall be shortened in our aim, which was To take in many towns ere, almost, Rome Should know we were afoot. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--08_exchange_second_senator" data-title="Coriolanus — Act I, Scene 1 — exchange (SECOND SENATOR) [8]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SECOND SENATOR | Noble [[Aufidius]], Take your commission, hie you to your bands. Let us [[Alone|alone]] to guard Corioles. If they set down before’s, for the remove Bring up your army, but I think you’ll find They’ve not prepared for us. |
+| [[Aufidius|AUFIDIUS]] | O, [[Doubt|doubt]] not that. I speak from certainties. Nay, more, Some parcels of their power are forth already, And only hitherward. I leave your honours. If we and Caius Martius chance to meet, ’Tis sworn between us we shall ever strike Till one can do no more. |
+| ALL THE SENATORS | The gods assist you! |
+| [[Aufidius|AUFIDIUS]] | And keep your honours safe. |
+| FIRST SENATOR | Farewell. |
+| SECOND SENATOR | Farewell. |
+| ALL | Farewell. Exeunt, [[Aufidius]] at one door, Senators at another door |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Coriolanus — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Menenius]] with the two tribunes of the people, [[Sicinius]] and [[Brutus]] |
+| [[Menenius|MENENIUS]] | The augurer tells me we shall have news tonight. |
+| [[Brutus|BRUTUS]] | Good or bad? |
+| [[Menenius|MENENIUS]] | Not according to the [[Prayer|prayer]] of the people, for they [[Love|love]] not Martius. |
+| [[Sicinius|SICINIUS]] | [[Nature]] teaches beasts to know their friends. |
+| [[Menenius|MENENIUS]] | Pray you, who does the wolf [[Love|love]]? |
+| [[Sicinius|SICINIUS]] | The [[Lamb|lamb]]. |
+| [[Menenius|MENENIUS]] | Ay, to devour him, as the hungry plebeians would the noble Martius. |
+| [[Brutus|BRUTUS]] | He’s a [[Lamb|lamb]] indeed that baas like a bear. |
+| [[Menenius|MENENIUS]] | He’s a bear indeed that lives like a [[Lamb|lamb]]. You two are old men. Tell me one thing that I shall ask you. |
+| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] [[Well]], sir? |
+| [[Menenius|MENENIUS]] | In what enormity is Martius poor in that you two have not in abundance? |
+| [[Brutus|BRUTUS]] | He’s poor in no one fault, but stored with all. [[Sicinius|SICINIUS]] Especially in [[Pride|pride]]. |
+| [[Brutus|BRUTUS]] | And topping all others in boasting. |
+| [[Menenius|MENENIUS]] | This is strange now. Do you two know how you are censured here in the [[City|city]]—I mean of us o’th’ right-hand file. Do you? |
+| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] Why, how are we censured? |
+| [[Menenius|MENENIUS]] | Because—you talk of [[Pride|pride]] now—will you not be angry? |
+| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] [[Well]], [[Well|well]], sir, [[Well|well]]? |
+| [[Menenius|MENENIUS]] | Why, ’tis no great matter, for a very little thief of occasion will rob you of a great deal of patience. Give your dispositions the reins, and be angry at your pleasures—at the least, if you take it as a pleasure to you in being so. You blame Martius for being proud? |
+| [[Brutus|BRUTUS]] | We do it not [[Alone|alone]], sir. |
+| [[Menenius|MENENIUS]] | I know you can do very little [[Alone|alone]], for your helps are many, or else your actions would grow wondrous single. Your abilities are too infant-like for doing much [[Alone|alone]]. You talk of [[Pride|pride]]. O that you could turn your eyes toward the napes of your necks, and make but an interior survey of your good selves! O that you could! |
+| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] What then, sir? |
+| [[Menenius|MENENIUS]] | Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates, alias fools, as any in Rome. |
+| [[Sicinius|SICINIUS]] | [[Menenius]], you are known [[Well|well]] enough too. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--02_monologue_menenius_i" data-title="Coriolanus — Act II, Scene 1 — monologue (MENENIUS I) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | I am known to be a humorous patrician, and one that loves a cup of hot wine with not a drop of allaying Tiber in’t; said to be something imperfect in favouring the first complaint, hasty and tinder-like upon too trivial motion; one that converses more with the buttock of the [[Night|night]] than with the forehead of the morning. What I think, I utter, and spend my malice in my breath. Meeting two such wealsmen as you are—I cannot call you Lycurguses—if the drink you give me touch my palate adversely, I make a crooked face at it. I cannot say your worships have delivered the matter [[Well|well]], when I find the ass in compound with the major part of your syllables. And though I must be content to bear with those that say you are reverend [[Grave|grave]] men, yet they lie deadly that tell you have good faces. If you see this in the map of my microcosm, follows it that I am known [[Well|well]] enough too? What harm can your bisson conspectuities glean out of this character, if I be known [[Well|well]] enough too? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--03_exchange_brutus" data-title="Coriolanus — Act II, Scene 1 — exchange (BRUTUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Brutus|BRUTUS]] | Come, sir, come, we know you [[Well|well]] enough. |
+| [[Menenius|MENENIUS]] | You know neither me, yourselves, nor anything. You are ambitious for poor knaves’ caps and legs. You wear out a good wholesome forenoon in hearing a cause between an orange-wife and a faucet-seller, and then rejourn the controversy of threepence to a second day of audience. When you are hearing a matter between party and party, if you chance to be pinched with the colic, you make faces like mummers, set up the bloody [[Flag|flag]] against all patience, and in roaring for a chamber-pot, dismiss the controversy bleeding, the more entangled by your hearing. All the peace you make in their cause is calling both the parties knaves. You are a pair of strange ones. |
+| [[Brutus|BRUTUS]] | Come, come, you are [[Well|well]] understood to be a perfecter giber for the table than a necessary bencher in the Capitol. |
+| [[Menenius|MENENIUS]] | Our very priests must become mockers if they shall encounter such ridiculous subjects as you are. When you speak best unto the purpose it is not worth the wagging of your beards, and your beards deserve not so honourable a [[Grave|grave]] as to stuff a botcher’s cushion or to be entombed in an ass’s pack-saddle. Yet you must be saying ‘Martius is proud’, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ‘em were hereditary hangmen. Good e’en to your worships. More of your conversation would infect my brain, being the herdsmen of the beastly plebeians. I will be bold to take my leave of you. He [[Leaves|leaves]] [[Brutus]] and [[Sicinius]], who stand aside. Enter in haste [[Volumnia]], [[Virgilia]], and Valeria How now, my as fair as noble ladies—and the [[Moon|moon]], were she earthly, no nobler—whither do you follow your eyes so fast? |
+| [[Volumnia|VOLUMNIA]] | Honourable [[Menenius]], my boy Martius approaches. For the [[Love|love]] of Juno, let’s go. |
+| [[Menenius|MENENIUS]] | Ha, Martius coming [[Home|home]]? 100 |
+| [[Volumnia|VOLUMNIA]] | Ay, worthy [[Menenius]], and with most prosperous approbation. |
+| [[Menenius|MENENIUS]] | throwing up his cap Take my cap, Jupiter, and I thank thee! Hoo, Martius coming [[Home|home]]? |
+| [[Virgilia|VIRGILIA]] | and VALERIA Nay, ’tis true. |
+| [[Volumnia|VOLUMNIA]] | Look, here’s a letter from him. The state hath another, his wife another, and I think there’s one at [[Home|home]] for you. |
+| [[Menenius|MENENIUS]] | I will make my very [[house]] reel tonight. A letter for me? |
+| [[Virgilia|VIRGILIA]] | Yes, certain, there’s a letter for you; I saw’t. |
+| [[Menenius|MENENIUS]] | A letter for me? It gives me an estate of seven years’ health, in which [[Time|time]] I will make a lip at the physician. The most sovereign prescription in Galen is but empiricutic and, to this preservative, of no better report than a [[Horse|horse]]-drench. Is he not wounded? He was wont to come [[Home|home]] wounded. |
+| [[Virgilia|VIRGILIA]] | O, no, no, no! |
+| [[Volumnia|VOLUMNIA]] | O, he is wounded, I thank the gods for’t! |
+| [[Menenius|MENENIUS]] | So do I, too, if it be not too much. Brings a victory in his pocket, the wounds become him. |
+| [[Volumnia|VOLUMNIA]] | On’s brows, [[Menenius]]. He comes the third [[Time|time]] [[Home|home]] with the oaken garland. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--04_exchange_menenius" data-title="Coriolanus — Act II, Scene 1 — exchange (MENENIUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | Has he disciplined [[Aufidius]] soundly? 124 |
+| [[Volumnia|VOLUMNIA]] | Titus Lartius writes they fought together, but [[Aufidius]] got off. |
+| [[Menenius|MENENIUS]] | And ’twas [[Time|time]] for him too, I’ll warrant him that. An he had stayed by him, I would not have been so fidiussed for all the chests in Corioles and the gold that’s in them. Is the senate possessed of this? |
+| [[Volumnia|VOLUMNIA]] | Good ladies, let’s go. Yes, yes, yes. The senate has letters from the general, wherein he gives my son the whole name of the war. He hath in this action outdone his former deeds doubly. |
+| VALERIA | In [[Truth|truth]], there’s wondrous things spoke of him. |
+| [[Menenius|MENENIUS]] | Wondrous, ay, I warrant you; and not without his true purchasing. |
+| [[Virgilia|VIRGILIA]] | The gods grant them true. |
+| [[Volumnia|VOLUMNIA]] | True? Pooh-whoo! |
+| [[Menenius|MENENIUS]] | True? I’ll be sworn they are true. Where is he wounded? (To the tribunes) God save your good worships. Martius is coming [[Home|home]]. He has more cause to be proud. (To [[Volumnia]]) Where is he wounded? |
+| [[Volumnia|VOLUMNIA]] | I‘th’ shoulder and i’th’ left arm. There will be large cicatrices to show the people when he shall stand for his place. He received in the repulse of [[Tarquin]] seven hurts i’th’ [[Body|body]]. |
+| [[Menenius|MENENIUS]] | One i‘th’ neck and two i’th’ thigh—there’s nine that I know. |
+| [[Volumnia|VOLUMNIA]] | He had before this last expedition twenty-five wounds upon him. |
+| [[Menenius|MENENIUS]] | Now it’s twenty-seven. Every gash was an enemy’s [[Grave|grave]]. A shout and flourish Hark, the trumpets. |
+| [[Volumnia|VOLUMNIA]] | These are the ushers of Martius. Before him he carries noise, and behind him he [[Leaves|leaves]] [[Tears|tears]]. [[Death]], that dark spirit, in’s nervy arm doth lie, Which being advanced, declines; and then men die. Trumpets sound a sennet. Enter in state [[Cominius]] the general and Lartius, between them [[Coriolanus]], crowned with an oaken garland, with captains and soldiers and a Herald |
+| HERALD | Know, Rome, that all [[Alone|alone]] Martius did fight Within Corioles’ gates, where he hath won 160 With fame a name to ‘Martius Caius’; these In [[Honour|honour]] follows ‘[[Coriolanus]]’. Welcome to Rome, renowned [[Coriolanus]]! A flourish sounds |
+| ALL | Welcome to Rome, renowned [[Coriolanus]]! |
+| [[Coriolanus|CORIOLANUS]] | No more of this, it does offend my heart. Pray now, no more. |
+| [[Cominius|COMINIUS]] | Look, sir, your mother. |
+| [[Coriolanus|CORIOLANUS]] | (to [[Volumnia]]) O, You have, I know, petitioned all the gods For my prosperity! He kneels |
+| [[Volumnia|VOLUMNIA]] | Nay, my good soldier, up, My gentle Martius, worthy Caius, He rises And, by deed-achieving [[Honour|honour]] newly named— What is it?—’[[Coriolanus]]’ must I call thee? But O, thy wife! |
+| [[Coriolanus|CORIOLANUS]] | (to [[Virgilia]]) My gracious [[Silence|silence]], hail. Wouldst thou have laughed had I come coffined [[Home|home]], That weep’st to see me triumph? Ah, my dear, Such eyes the widows in Corioles wear, And mothers that lack sons. |
+| [[Menenius|MENENIUS]] | Now the gods [[Crown|crown]] thee! [[Coriolanus|CORIOLANUS]] to Valeria) And live you yet? O my sweet lady, pardon. |
+| [[Volumnia|VOLUMNIA]] | I know not where to turn. O, welcome [[Home|home]]! And welcome, general, and you’re welcome all! |
+| [[Menenius|MENENIUS]] | A hundred thousand welcomes! I could weep And I could laugh, I am light and heavy. Welcome! A curse begnaw at very root on’s heart That is not glad to see thee. You are three That Rome should dote on. Yet, by the [[Faith|faith]] of men, We have some old crab-trees here at [[Home|home]] that will not Be grafted to your relish. Yet welcome, warriors! We call a nettle but a nettle, and The faults of fools but folly. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--05_exchange_cominius" data-title="Coriolanus — Act II, Scene 1 — exchange (COMINIUS) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Cominius|COMINIUS]] | Ever right. |
+| [[Coriolanus|CORIOLANUS]] | [[Menenius]], ever, ever. |
+| HERALD | Give way there, and go on. |
+| [[Coriolanus|CORIOLANUS]] | to [[Volumnia]] and [[Virgilia]] Your hand, and yours. Ere in our own [[house]] I do shade my head The good patricians must be visited, From whom I have received not only greetings, But with them change of honours. |
+| [[Volumnia|VOLUMNIA]] | I have lived To see inherited my very wishes, And the buildings of my fancy. Only There’s one thing wanting, which I [[Doubt|doubt]] not but Our Rome will cast upon thee. |
+| [[Coriolanus|CORIOLANUS]] | Know, good mother, I had rather be their servant in my way Than sway with them in theirs. |
+| [[Cominius|COMINIUS]] | On, to the Capitol. A flourish of cornetts. Exeunt in state, as before, all but [[Brutus]] and [[Sicinius]], who come forward |
+| [[Brutus|BRUTUS]] | All tongues speak of him, and the blearèd sights Are spectacled to see him. Your prattling [[Nurse|nurse]] Into a rapture lets her baby cry While she chats him; the kitchen malkin pins Her richest lockram ‘bout her reechy neck, Clamb’ring the walls to eye him. Stalls, bulks, windows Are smothered up, leads filled and ridges horsed With variable complexions, all agreeing In earnestness to see him. Seld-shown flamens Do press among the popular throngs, and puff To win a vulgar station. Our veiled dames Commit the war of white and damask in Their nicely guarded cheeks to th’ wanton spoil Of Phoebus’ burning kisses. Such a pother As if that whatsoever god who leads him Were slily crept into his human powers And gave him graceful posture. |
+| [[Sicinius|SICINIUS]] | On the sudden I warrant him consul. |
+| [[Brutus|BRUTUS]] | Then our office may During his power go [[Sleep|sleep]]. |
+| [[Sicinius|SICINIUS]] | He cannot temp’rately transport his honours From where he should begin and end, but will Lose those he hath won. |
+| [[Brutus|BRUTUS]] | In that there’s comfort. |
+| [[Sicinius|SICINIUS]] | [[Doubt]] not The commoners, for whom we stand, but they Upon their ancient malice will forget With the least cause these his new honours, which That he will give them make I as little question As he is proud to do’t. |
+| [[Brutus|BRUTUS]] | I heard him swear, Were he to stand for consul, never would he Appear i’th’ market-place nor on him put The napless vesture of [[Humility|humility]], Nor, showing, as the manner is, his wounds To th’ people, beg their stinking breaths. |
+| [[Sicinius|SICINIUS]] | ’Tis right. |
+| [[Brutus|BRUTUS]] | It was his word. O, he would miss it rather Than carry it, but by the suit of the gentry to him, And the [[Desire|desire]] of the nobles. |
+| [[Sicinius|SICINIUS]] | I wish no better Than have him hold that purpose, and to put it In execution. |
+| [[Brutus|BRUTUS]] | ’Tis most like he will. |
+| [[Sicinius|SICINIUS]] | It shall be to him then, as our good wills, A sure destruction. |
+| [[Brutus|BRUTUS]] | So it must fall out To him, or our authority’s for an end. We must suggest the people in what hatred He still hath held them; that to’s power he would Have made them mules, silenced their pleaders, And dispropertied their freedoms, holding them In human action and capacity Of no more [[Soul|soul]] nor fitness for the world Than camels in their war, who have their provand Only for bearing burdens, and sore blows For sinking under them. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--06_exchange_sicinius" data-title="Coriolanus — Act II, Scene 1 — exchange (SICINIUS) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Sicinius|SICINIUS]] | This, as you say, suggested At some [[Time|time]] when his soaring insolence Shall touch the people—which [[Time|time]] shall not want If he be put upon’t, and that’s as easy As to set [[dogs]] on sheep—will be his [[Fire|fire]] To kindle their dry stubble, and their blaze Shall darken him for ever. Enter a Messenger |
+| [[Brutus|BRUTUS]] | What’s the matter? |
+| MESSENGER | You are sent for to the Capitol. ’Tis thought That Martius shall be consul. I have seen The dumb men throng to see him, and the blind To hear him speak. Matrons flung gloves, Ladies and maids their scarves and handkerchiefs, Upon him as he passed. The nobles bended As to Jove’s statue, and the commons made A shower and thunder with their caps and shouts. I never saw the like. |
+| [[Brutus|BRUTUS]] | Let’s to the Capitol, And carry with us ears and eyes for th’ [[Time|time]], But hearts for the event. |
+| [[Sicinius|SICINIUS]] | Have with you. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="Coriolanus — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter two Officers, to lay cushions, as it were in the Capitol |
+| FIRST OFFICER | Come, come, they are almost here. How many stand for consulships? |
+| SECOND OFFICER | Three, they say, but ’tis thought of everyone [[Coriolanus]] will carry it. |
+| FIRST OFFICER | That’s a brave fellow, but he’s vengeance proud and loves not the common people. |
+| SECOND OFFICER | [[Faith]], there hath been many great men that have flattered the people who ne’er loved them; and there be many that they have loved they know not wherefore, so that if they [[Love|love]] they know not why, they hate upon no better a ground. Therefore for [[Coriolanus]] neither to care whether they [[Love|love]] or hate him manifests the true knowledge he has in their disposition, and out of his noble carelessness lets them plainly see’t. |
+| FIRST OFFICER | If he did not care whether he had their [[Love|love]] or no he waved indifferently ’twixt doing them neither good nor harm; but he seeks their hate with greater devotion than they can render it him, and [[Leaves|leaves]] nothing undone that may fully discover him their opposite. Now to seem to affect the malice and displeasure of the people is as bad as that which he dislikes, to flatter them for their [[Love|love]]. |
+| SECOND OFFICER | He hath deserved worthily of his country, and his ascent is not by such easy degrees as those who, having been supple and courteous to the people, bonneted, without any further deed to have them at all into their estimation and report. But he hath so planted his honours in their eyes and his actions in their hearts that for their tongues to be silent and not confess so much were a kind of ingrateful injury. To report otherwise were a malice that, giving itself the lie, would pluck reproof and rebuke from every ear that heard it. |
+| FIRST OFFICER | No more of him. He’s a worthy man. Make way, they are coming. A sennet. Enter the Patricians, and [[Sicinius]] and [[Brutus]], the tribunes of the people, lictors before them; [[Coriolanus]], [[Menenius]], [[Cominius]] the consul. The Patricians take their places and sit. [[Sicinius]] and [[Brutus]] take their places by themselves. [[Coriolanus]] stands |
+| [[Menenius|MENENIUS]] | Having determined of the Volsces, and To send for Titus Lartius, it remains As the main point of this our after-meeting To gratify his noble service that Hath thus stood for his country. Therefore please you, Most reverend and [[Grave|grave]] elders, to [[Desire|desire]] The present consul and last general In our [[Well|well]]-found successes to report A little of that worthy work performed By Martius Caius [[Coriolanus]], whom We met here both to thank and to remember With honours like himself. [[Coriolanus]] sits |
+| FIRST SENATOR | Speak, good [[Cominius]]. Leave nothing out for length, and make us think Rather our state’s defective for requital Than we to stretch it out. (To the tribunes) Masters o’th’ people, We do request your kindest ears and, after, Your loving motion toward the common [[Body|body]] To yield what passes here. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--02_exchange_sicinius" data-title="Coriolanus — Act II, Scene 2 — exchange (SICINIUS) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Sicinius|SICINIUS]] | We are convented Upon a pleasing treaty, and have hearts Inclinable to [[Honour|honour]] and advance The theme of our assembly. |
+| [[Brutus|BRUTUS]] | Which the rather We shall be blessed to do if he remember A kinder value of the people than He hath hereto prized them at. |
+| [[Menenius|MENENIUS]] | That’s off, that’s off. I would you rather had been silent. Please you To hear [[Cominius]] speak? |
+| [[Brutus|BRUTUS]] | Most willingly, But yet my caution was more pertinent Than the rebuke you give it. |
+| [[Menenius|MENENIUS]] | He loves your people, But tie him not to be their bedfellow. Worthy [[Cominius]], speak. [[Coriolanus]] rises and offers to go away (To [[Coriolanus]]) Nay, keep your place. FIRST SENATOR Sit, [[Coriolanus]]. Never shame to hear What you have nobly done. |
+| [[Coriolanus|CORIOLANUS]] | Your honours’ pardon, I had rather have my wounds to heal again Than hear say how I got them. |
+| [[Brutus|BRUTUS]] | Sir, I [[Hope|hope]] My words disbenched you not? |
+| [[Coriolanus|CORIOLANUS]] | No, sir, yet oft When blows have made me stay I fled from words. You soothed not, therefore hurt not; but your people, I [[Love|love]] them as they weigh— |
+| [[Menenius|MENENIUS]] | Pray now, sit down. |
+| [[Coriolanus|CORIOLANUS]] | I had rather have one scratch my head i’th’ sun When the alarum were struck than idly sit To hear my nothings monstered. Exit |
+| [[Menenius|MENENIUS]] | Masters of the people, Your multiplying spawn how can he flatter— That’s thousand to one good one—when you now see He had rather venture all his limbs for [[Honour|honour]] Than one on’s ears to hear it? Proceed, [[Cominius]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--03_monologue_cominius" data-title="Coriolanus — Act II, Scene 2 — monologue (COMINIUS) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Cominius|COMINIUS]] | I shall lack voice; the deeds of [[Coriolanus]] Should not be uttered feebly. It is held That valour is the chiefest virtue, and Most dignifies the haver. If it be, The man I speak of cannot in the world Be singly counterpoised. At sixteen years, When [[Tarquin]] made a head for Rome, he fought Beyond the mark of others. Our then dictator, Whom with all praise I point at, saw him fight When with his Amazonian chin he drove The bristled lips before him. He bestrid An o‘erpressed Roman, and, i’th’ consul’s view, Slew three opposers. [[Tarquin]]’s [[Self|self]] he met, And struck him on his knee. In that day’s feats, When he might act the woman in the scene, He proved best man i‘th’ field, and for his meed Was brow-bound with the oak. His pupil age Man-entered thus, he waxed like a sea, And in the brunt of seventeen battles since He lurched all swords of the garland. For this last Before and in Corioles, let me say I cannot speak him [[Home|home]]. He stopped the fliers, And by his rare example made the coward Turn terror into sport. As weeds before A vessel under sail, so men obeyed And fell below his stem. His [[Sword|sword]], [[Death|death]]’s stamp, Where it did mark, it took. From face to foot He was a thing of [[Blood|blood]], whose every motion Was timed with dying cries. [[Alone]] he entered The mortal gate of th’ [[City|city]], which he, painted With shunless destiny, aidless came off, And with a sudden reinforcement struck Corioles like a planet. Now all’s his. When by and by the din of war gan pierce His ready sense, then straight his doubled spirit Requickened what in flesh was fatigate, And to the battle came he, where he did Run reeking o’er the lives of men as if ’Twere a perpetual spoil; and till we called Both field and [[City|city]] ours he never stood To ease his breast with panting. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--04_exchange_menenius" data-title="Coriolanus — Act II, Scene 2 — exchange (MENENIUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | Worthy man. FIRST SENATOR He cannot but with measure fit the honours Which we devise him. |
+| [[Cominius|COMINIUS]] | Our spoils he kicked at, And looked upon things precious as they were The common muck of the world. He covets less Than misery itself would give, rewards His deeds with doing them, and is content To spend the [[Time|time]] to end it. |
+| [[Menenius|MENENIUS]] | He’s right noble. Let him be called for. FIRST SENATOR Call [[Coriolanus]]. |
+| OFFICER | He doth appear. Enter [[Coriolanus]] |
+| [[Menenius|MENENIUS]] | The senate, [[Coriolanus]], are [[Well|well]] pleased To make thee consul. |
+| [[Coriolanus|CORIOLANUS]] | I do owe them still My life and services. |
+| [[Menenius|MENENIUS]] | It then remains That you do speak to the people. |
+| [[Coriolanus|CORIOLANUS]] | I do beseech you, Let me o’erleap that custom, for I cannot Put on the gown, stand naked, and entreat them For my wounds’ sake to give their suffrage. Please you that I may pass this doing. |
+| [[Sicinius|SICINIUS]] | Sir, the people Must have their voices, neither will they bate One jot of ceremony. |
+| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) Put them not to’t. Pray you, go fit you to the custom and Take to you, as your predecessors have, Your [[Honour|honour]] with your form. |
+| [[Coriolanus|CORIOLANUS]] | It is a part That I shall blush in acting, and might [[Well|well]] Be taken from the people. |
+| [[Brutus|BRUTUS]] | (to [[Sicinius]]) Mark you that? |
+| [[Coriolanus|CORIOLANUS]] | To brag unto them ‘Thus I did, and thus’, Show them th’unaching scars, which I should hide, As if I had received them for the hire Of their breath only! |
+| [[Menenius|MENENIUS]] | Do not stand upon’t.— We recommend to you, tribunes of the people, Our purpose to them; and to our noble consul Wish we all joy and [[Honour|honour]]. |
+| SENATORS | To [[Coriolanus]] come all joy and [[Honour|honour]]! A flourish of cornetts, then exeunt all but [[Sicinius]] and [[Brutus]] |
+| [[Brutus|BRUTUS]] | You see how he intends to use the people. |
+| [[Sicinius|SICINIUS]] | May they perceive’s intent! He will require them As if he did contemn what he requested Should be in them to give. |
+| [[Brutus|BRUTUS]] | Come, we’ll inform them Of our proceedings here. On th’ market-place I know they do attend us. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Coriolanus — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter seven or eight Citizens |
+| FIRST CITIZEN | Once, if he do require our voices we ought not to deny him. |
+| SECOND CITIZEN | We may, sir, if we will. |
+| THIRD CITIZEN | We have power in ourselves to do it, but it is a power that we have no power to do. For if he show us his wounds and tell us his deeds, we are to put our tongues into those wounds and speak for them; so if he tell us his noble deeds we must also tell him our noble acceptance of them. Ingratitude is monstrous, and for the multitude to be ingrateful were to make a [[Monster|monster]] of the multitude, of the which we, being members, should bring ourselves to be monstrous members. |
+| FIRST CITIZEN | And to make us no better thought of, a little help will serve; for once we stood up about the corn, he himself stuck not to call us the many-headed multitude. |
+| THIRD CITIZEN | We have been called so of many, not that our heads are some brown, some black, some abram, some bald, but that our wits are so diversely coloured; and truly I think if all our wits were to issue out of one skull, they would fly east, west, north, south, and their consent of one direct way should be at once to all the points o’th’ compass. |
+| SECOND CITIZEN | Think you so? Which way do you judge my wit would fly? |
+| THIRD CITIZEN | Nay, your wit will not so soon out as another man’s will, ‘tis strongly wedged up in a blockhead. But if it were at liberty, ’twould sure southward. SECOND CITIZEN Why that way? |
+| THIRD CITIZEN | To lose itself in a fog where, being three parts melted away with rotten dews, the fourth would return for [[Conscience|conscience]]’ sake, to help to get thee a wife. |
+| SECOND CITIZEN | You are never without your tricks. You may, you may. |
+| THIRD CITIZEN | Are you all resolved to give your voices? But that’s no matter, the greater part carries it. I say, if he would incline to the people there was never a worthier man. Enter [[Coriolanus]] in a gown of [[Humility|humility]], with [[Menenius]] Here he comes, and in the gown of [[Humility|humility]]. Mark his behaviour. We are not to stay all together, but to come by him where he stands by ones, by twos, and by threes. He’s to make his requests by particulars, wherein every one of us has a single [[Honour|honour]] in giving him our own voices with our own tongues. Therefore follow me, and I’ll direct you how you shall go by him. ALL THE CITIZENS Content, content. Exeunt Citizens |
+| [[Menenius|MENENIUS]] | O sir, you are not right. Have you not known The worthiest men have done’t? |
+| [[Coriolanus|CORIOLANUS]] | What must I say? ‘I pray, sir’? Plague upon‘t, I cannot bring My tongue to such a pace. ‘Look, sir, my wounds. I got them in my country’s service, when Some certain of your brethren roared and ran From th’ noise of our own drums’? |
+| [[Menenius|MENENIUS]] | O me, the gods! 55 You must not speak of that, you must [[Desire|desire]] them To think upon you. |
+| [[Coriolanus|CORIOLANUS]] | Think upon me? Hang ’em. I would they would forget me like the virtues Which our divines lose by ’em. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--02_exchange_menenius" data-title="Coriolanus — Act II, Scene 3 — exchange (MENENIUS) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | You’ll mar all. I’ll leave you. Pray you, speak to ’em, I pray you, 60 In wholesome manner. |
+| [[Coriolanus|CORIOLANUS]] | Bid them wash their faces And keep their teeth clean. Exit [[Menenius]] Enter three of the Citizens So, here comes a brace. You know the cause, sir, of my standing here. |
+| THIRD CITIZEN | We do, sir. Tell us what hath brought you to’t. |
+| [[Coriolanus|CORIOLANUS]] | Mine own [[Desert|desert]]. |
+| SECOND CITIZEN | Your own [[Desert|desert]]? |
+| [[Coriolanus|CORIOLANUS]] | Ay, but not mine own [[Desire|desire]]. |
+| THIRD CITIZEN | How not your own [[Desire|desire]]? |
+| [[Coriolanus|CORIOLANUS]] | No, sir, ’twas never my [[Desire|desire]] yet to trouble the poor with begging. |
+| THIRD CITIZEN | You must think if we give you anything we [[Hope|hope]] to gain by you. |
+| [[Coriolanus|CORIOLANUS]] | [[Well]] then, I pray, your price o’th’ consulship? |
+| FIRST CITIZEN | The price is to ask it kindly. |
+| [[Coriolanus|CORIOLANUS]] | Kindly, sir, I pray let me ha’t. I have wounds to show you which shall be yours in private. (To Second Citizen) Your good voice, sir. What say you? |
+| SECOND CITIZEN | You shall ha’t, worthy sir. |
+| [[Coriolanus|CORIOLANUS]] | A match, sir. There’s in all two worthy voices begged. I have your alms. Adieu. |
+| THIRD CITIZEN | (to the other Citizens) But this is something odd. |
+| SECOND CITIZEN | An ‘twere to give again—but ’tis no matter. Exeunt Citizens Enter two other Citizens |
+| [[Coriolanus|CORIOLANUS]] | Pray you now, if it may stand with the tune of your voices that I may be consul, I have here the customary gown. FOURTH CITIZEN You have deserved nobly of your country, and you have not deserved nobly. |
+| [[Coriolanus|CORIOLANUS]] | Your enigma? FOURTH CITIZEN You have been a scourge to her enemies, you have been a rod to her friends. You have not, indeed, loved the common people. |
+| [[Coriolanus|CORIOLANUS]] | You should account me the more virtuous that I have not been common in my [[Love|love]]. I will, sir, flatter my sworn brother the people to earn a dearer estimation of them. ’Tis a condition they account gentle. And since the wisdom of their choice is rather to have my hat than my heart, I will practise the insinuating nod and be off to them most counterfeitly; that is, sir, I will counterfeit the bewitchment of some popular man, and give it bountiful to the desirers. Therefore, beseech you I may be consul. FIFTH CITIZEN We [[Hope|hope]] to find you our friend, and therefore give you our voices heartily. FOURTH CITIZEN You have received many wounds for your country. |
+| [[Coriolanus|CORIOLANUS]] | I will not seal your knowledge with showing them. I will make much of your voices, and so trouble you no farther. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--03_monologue_both_citizens" data-title="Coriolanus — Act II, Scene 3 — monologue (BOTH CITIZENS) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| BOTH CITIZENS | The gods give you joy, sir, heartily. [[Coriolanus|CORIOLANUS]] Most sweet voices. Exeunt Citizens Better it is to die, better to starve, Than crave the hire which first we do deserve. Why in this womanish toge should I stand here To beg of Hob and Dick that does appear Their needless vouches? Custom calls me to’t. What custom wills, in all things should we do‘t, The [[Dust|dust]] on antique [[Time|time]] would lie unswept, And mountainous error be too highly heaped For [[Truth|truth]] to o’erpeer. Rather than [[Fool|fool]] it so, Let the high office and the [[Honour|honour]] go To one that would do thus. I am half through. The one part suffered, the other will I do. Enter three Citizens more Here come more voices. Your voices! For your voices I have fought, Watched for your voices, for your voices bear Of wounds two dozen odd; battles thrice six I have seen and heard of for your voices, have Done many things, some less, some more. Your voices! Indeed I would be consul. SIXTH CITIZEN He has done nobly, and cannot go without any honest man’s voice. SEVENTH CITIZEN Therefore let him be consul. The gods give him joy and make him good friend to the people! |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--04_exchange_all_the_citizens" data-title="Coriolanus — Act II, Scene 3 — exchange (ALL THE CITIZENS) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| ALL THE CITIZENS | Amen, amen. God save thee, noble consul! |
+| [[Coriolanus|CORIOLANUS]] | Worthy voices. Exeunt Citizens Enter [[Menenius]] with [[Brutus]] and [[Sicinius]] |
+| [[Menenius|MENENIUS]] | You have stood your limitation, and the tribunes Endue you with the people’s voice. Remains That in th’ official marks invested, you Anon do meet the senate. |
+| [[Coriolanus|CORIOLANUS]] | Is this done? |
+| [[Sicinius|SICINIUS]] | The custom of request you have discharged. The people do admit you, and are summoned To meet anon upon your approbation. |
+| [[Coriolanus|CORIOLANUS]] | Where, at the senate-[[house]]? |
+| [[Sicinius|SICINIUS]] | There, [[Coriolanus]]. |
+| [[Coriolanus|CORIOLANUS]] | May I change these garments? |
+| [[Sicinius|SICINIUS]] | You may, sir. |
+| [[Coriolanus|CORIOLANUS]] | That I’ll straight do, and, knowing myself again, Repair to th’ senate-[[house]]. |
+| [[Menenius|MENENIUS]] | I’ll keep you company. (To the tribunes) Will you along? |
+| [[Brutus|BRUTUS]] | We stay here for the people. |
+| [[Sicinius|SICINIUS]] | Fare you [[Well|well]]. Exeunt [[Coriolanus]] and [[Menenius]] He has it now, and by his looks methinks ’Tis warm at’s heart. |
+| [[Brutus|BRUTUS]] | With a proud heart he wore His humble weeds. Will you dismiss the people? Enter the Plebeians |
+| [[Sicinius|SICINIUS]] | How now, my masters, have you chose this man? |
+| FIRST CITIZEN | He has our voices, sir. |
+| [[Brutus|BRUTUS]] | We pray the gods he may deserve your loves. |
+| SECOND CITIZEN | Amen, sir. To my poor unworthy notice He mocked us when he begged our voices. |
+| THIRD CITIZEN | Certainly. He flouted us downright. |
+| FIRST CITIZEN | No, ’tis his kind of speech. He did not mock us. |
+| SECOND CITIZEN | Not one amongst us save yourself but says He used us scornfully. He should have showed us His marks of merit, wounds received for’s country. |
+| [[Sicinius|SICINIUS]] | Why, so he did, I am sure. |
+| ALL THE CITIZENS | No, no; no man saw ’em. |
+| THIRD CITIZEN | He said he had wounds which he could show in private, And with his hat, thus waving it in scorn, ‘I would be consul,’ says he. ‘Agèd custom But by your voices will not so permit me. Your voices therefore.’ When we granted that, Here was ‘I thank you for your voices, thank you. Your most sweet voices. Now you have left your voices I have no further with you.’ Was not this mockery? |
+| [[Sicinius|SICINIUS]] | Why either were you ignorant to see’t, Or, seeing it, of such childish friendliness To yield your voices? |
+| [[Brutus|BRUTUS]] | (to the Citizens) Could you not have told him As you were lessoned: when he had no power But was a petty servant to the state, He was your enemy, ever spake against Your liberties and the charters that you bear I‘th’ [[Body|body]] of the weal; and now arriving A place of potency and sway o’th’ state, If he should still malignantly remain Fast foe to th’ plebeii, your voices might Be curses to yourselves. You should have said That as his worthy deeds did claim no less Than what he stood for, so his gracious [[Nature|nature]] Would think upon you for your voices and Translate his malice towards you into [[Love|love]], Standing your friendly lord. |
+| [[Sicinius|SICINIUS]] | (to the Citizens) Thus to have said As you were fore-advised had touched his spirit And tried his inclination, from him plucked Either his gracious promise which you might, As cause had called you up, have held him to, Or else it would have galled his surly [[Nature|nature]], Which easily endures not article Tying him to aught. So putting him to rage, You should have ta‘en th’advantage of his choler And passed him unelected. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--05_exchange_brutus" data-title="Coriolanus — Act II, Scene 3 — exchange (BRUTUS) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Brutus|BRUTUS]] | (to the Citizens) Did you perceive He did solicit you in free contempt When he did need your loves, and do you think That his contempt shall not be bruising to you When he hath power to crush? Why, had your bodies No heart among you? Or had you tongues to cry Against the rectorship of judgement? |
+| [[Sicinius|SICINIUS]] | (to the Citizens) Have you Ere now denied the asker, and now again, Of him that did not ask but mock, bestow Your sued-for tongues? |
+| THIRD CITIZEN | He’s not confirmed, we may deny him yet. |
+| SECOND CITIZEN | And will deny him. I’ll have five hundred voices of that sound. |
+| FIRST CITIZEN | I twice five hundred, and their friends to piece ’em. |
+| [[Brutus|BRUTUS]] | Get you hence instantly, and tell those friends They have chose a consul that will from them take Their liberties, make them of no more voice Than [[dogs]] that are as often beat for barking, As therefor kept to do so. |
+| [[Sicinius|SICINIUS]] | (to the Citizens) Let them assemble, And on a safer judgement all revoke Your ignorant election. Enforce his [[Pride|pride]] And his old hate unto you. Besides, forget not With what contempt he wore the humble weed, How in his suit he scorned you; but your loves, Thinking upon his services, took from you Th’apprehension of his present portance, Which most gibingly, ungravely he did fashion After the inveterate hate he bears you. |
+| [[Brutus|BRUTUS]] | (to the Citizens) Lay A fault on us your tribunes, that we laboured No impediment between, but that you must Cast your election on him. |
+| [[Sicinius|SICINIUS]] | (to the Citizens) Say you chose him More after our commandment than as guided By your own true affections, and that your minds, Preoccupied with what you rather must do Than what you should, made you against the grain To voice him consul. Lay the fault on us. |
+| [[Brutus|BRUTUS]] | (to the Citizens) Ay, spare us not. Say we read lectures to you, How youngly he began to serve his country, How long continued, and what stock he springs of, The noble [[house]] o’th’ Martians, from whence came That Ancus Martius, Numa’s daughter’s son, Who after great Hostilius here was [[King|king]]; Of the same [[house]] Publius and Quintus were, That our best [[Water|water]] brought by conduits hither; And Censorinus that was so surnamed, And nobly named so, twice being censor, Was his great ancestor. |
+| [[Sicinius|SICINIUS]] | (to the Citizens) One thus descended, That hath beside [[Well|well]] in his person wrought To be set high in place, we did commend To your remembrances, but you have found, Scaling his present bearing with his past, That he’s your fixed enemy, and revoke Your sudden approbation. |
+| [[Brutus|BRUTUS]] | (to the Citizens) Say you ne‘er had done’t— Harp on that still—but by our putting on; And presently when you have drawn your number, Repair to th’ Capitol. A CITIZEN We will so. ANOTHER CITIZEN Almost all Repent in their election. Exeunt Citizens |
+| [[Brutus|BRUTUS]] | Let them go on. This mutiny were better put in hazard Than stay, past [[Doubt|doubt]], for greater. If, as his [[Nature|nature]] is, he fall in rage With their refusal, both observe and answer The vantage of his anger. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--06_exchange_sicinius" data-title="Coriolanus — Act II, Scene 3 — exchange (SICINIUS) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Sicinius|SICINIUS]] | To th’ Capitol, come. We will be there before the stream o‘th’ people, And this shall seem, as partly ’tis, their own, Which we have goaded onward. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Coriolanus — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Cornetts. Enter [[Coriolanus]], [[Menenius]], all the gentry; [[Cominius]], Lartius, and other Senators |
+| [[Coriolanus|CORIOLANUS]] | Tullus [[Aufidius]] then had made new head? |
+| LARTIUS | He had, my lord, and that it was which caused Our swifter composition. |
+| [[Coriolanus|CORIOLANUS]] | So then the Volsces stand but as at first, Ready when [[Time|time]] shall prompt them to make raid Upon’s again. |
+| [[Cominius|COMINIUS]] | They are worn, lord consul, so That we shall hardly in our ages see Their banners wave again. |
+| [[Coriolanus|CORIOLANUS]] | (to Lartius) Saw you [[Aufidius]]? |
+| LARTIUS | On safeguard he came to me, and did curse Against the Volsces for they had so vilely Yielded the town. He is retired to Antium. |
+| [[Coriolanus|CORIOLANUS]] | Spoke he of me? |
+| LARTIUS | He did, my lord. |
+| [[Coriolanus|CORIOLANUS]] | How? What? |
+| LARTIUS | How often he had met you [[Sword|sword]] to [[Sword|sword]]; That of all things upon the earth he hated Your person most; that he would pawn his fortunes To hopeless restitution, so he might Be called your vanquisher. |
+| [[Coriolanus|CORIOLANUS]] | At Antium lives he? |
+| LARTIUS | At Antium. |
+| [[Coriolanus|CORIOLANUS]] | I wish I had a cause to seek him there, To oppose his hatred fully. Welcome [[Home|home]]. Enter [[Sicinius]] and [[Brutus]] Behold, these are the tribunes of the people, The tongues o’th’ common mouth. I do despise them, For they do prank them in authority Against all noble sufferance. |
+| [[Sicinius|SICINIUS]] | Pass no further. |
+| [[Coriolanus|CORIOLANUS]] | Ha, what is that? |
+| [[Brutus|BRUTUS]] | It will be dangerous to go on. No further. |
+| [[Coriolanus|CORIOLANUS]] | What makes this change? |
+| [[Menenius|MENENIUS]] | The matter? |
+| [[Cominius|COMINIUS]] | Hath he not passed the noble and the common? |
+| [[Brutus|BRUTUS]] | [[Cominius]], no. |
+| [[Coriolanus|CORIOLANUS]] | Have I had children’s voices? FIRST SENATOR Tribunes, give way. He shall to th’ market-place. |
+| [[Brutus|BRUTUS]] | The people are incensed against him. |
+| [[Sicinius|SICINIUS]] | Stop, Or all will fall in broil. |
+| [[Coriolanus|CORIOLANUS]] | Are these your herd? Must these have voices, that can yield them now And straight disclaim their tongues? What are your offices? You being their mouths, why rule you not their teeth? Have you not set them on? |
+| [[Menenius|MENENIUS]] | Be calm, be calm. |
+| [[Coriolanus|CORIOLANUS]] | It is a purposed thing, and grows by plot To curb the will of the nobility. Suffer’t, and live with such as cannot rule Nor ever will be ruled. |
+| [[Brutus|BRUTUS]] | Call’t not a plot. The people cry you mocked them, and of late When corn was given them gratis, you repined, Scandalled the suppliants for the people, called them [[Time]]-pleasers, flatterers, foes to nobleness. |
+| [[Coriolanus|CORIOLANUS]] | Why, this was known before. |
+| [[Brutus|BRUTUS]] | Not to them all. |
+| [[Coriolanus|CORIOLANUS]] | Have you informed them sithence? |
+| [[Brutus|BRUTUS]] | How, I inform them? [[Coriolanus|CORIOLANUS]] You are like to do such business. |
+| [[Brutus|BRUTUS]] | Not unlike Each way to better yours. |
+| [[Coriolanus|CORIOLANUS]] | Why then should I be consul? By yon clouds, Let me deserve so ill as you, and make me Your fellow tribune. |
+| [[Sicinius|SICINIUS]] | You show too much of that For which the people stir. If you will pass To where you are bound, you must enquire your way, Which you are out of, with a gentler spirit, Or never be so noble as a consul, Nor yoke with him for tribune. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--02_exchange_menenius" data-title="Coriolanus — Act III, Scene 1 — exchange (MENENIUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | Let’s be calm. |
+| [[Cominius|COMINIUS]] | The people are abused, set on. This palt‘ring Becomes not Rome, nor has [[Coriolanus]] Deserved this so dishonoured rub, laid falsely I’th’ plain way of his merit. |
+| [[Coriolanus|CORIOLANUS]] | Tell me of corn? This was my speech, and I will speak’t again. |
+| [[Menenius|MENENIUS]] | Not now, not now. FIRST SENATOR Not in this heat, sir, now. |
+| [[Coriolanus|CORIOLANUS]] | Now as I live, I will. My nobler friends, I crave their pardons. For the mutable rank-scented meinie, Let them regard me, as I do not flatter, And therein behold themselves. I say again, In soothing them we nourish ’gainst our Senate The cockle of rebellion, insolence, sedition, Which we ourselves have ploughed for, sowed, and scattered By mingling them with us, the honoured number Who lack not virtue, no, nor power, but that Which they have given to beggars. |
+| [[Menenius|MENENIUS]] | [[Well]], no more. FIRST SENATOR No more words, we beseech you. |
+| [[Coriolanus|CORIOLANUS]] | How, no more? As for my country I have shed my [[Blood|blood]], Not fearing outward force, so shall my lungs Coin words till their [[Decay|decay]] against those measles Which we disdain should tetter us, yet sought The very way to catch them. |
+| [[Brutus|BRUTUS]] | You speak o’th’ people as if you were a god To punish, not a man of their infirmity. |
+| [[Sicinius|SICINIUS]] | ’Twere [[Well|well]] we let the people know’t. |
+| [[Menenius|MENENIUS]] | What, what, his choler? |
+| [[Coriolanus|CORIOLANUS]] | Choler? Were I as patient as the midnight [[Sleep|sleep]], By Jove, ’twould be my mind. |
+| [[Sicinius|SICINIUS]] | It is a mind That shall remain a [[Poison|poison]] where it is, Not [[Poison|poison]] any further. |
+| [[Coriolanus|CORIOLANUS]] | ‘Shall remain’? Hear you this Triton of the minnows? Mark you His absolute ‘shall’? |
+| [[Cominius|COMINIUS]] | ’Twas from the canon. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--03_monologue_coriolanus" data-title="Coriolanus — Act III, Scene 1 — monologue (CORIOLANUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Coriolanus|CORIOLANUS]] | ‘Shall’? O good but most unwise patricians, why, You [[Grave|grave]] but reckless senators, have you thus Given Hydra here to choose an officer That, with his peremptory ‘shall’, being but The horn and noise o‘th’ [[Monster|monster]]’s, wants not spirit To say he’ll turn your current in a ditch And make your channel his? If he have power, Then vail your impotence; if none, awake Your dangerous lenity. If you are learned, Be not as common fools; if you are not, Let them have cushions by you. You are plebeians If they be senators, and they are no less When, both your voices blended, the great‘st taste Most palates theirs. They choose their magistrate, And such a one as he, who puts his ‘shall’, His popular ‘shall’, against a graver bench Than ever frowned in Greece. By Jove himself, no It makes the consuls base, and my [[Soul|soul]] aches To know, when two authorities are up, Neither supreme, how soon confusion May enter ’twixt the gap of both and take The one by th’ other. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--04_exchange_cominius" data-title="Coriolanus — Act III, Scene 1 — exchange (COMINIUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Cominius|COMINIUS]] | [[Well]], on to th’ market-place. |
+| [[Coriolanus|CORIOLANUS]] | Whoever gave that counsel to give forth The corn o‘th’ storehouse gratis, as ’twas used Sometime in Greece— |
+| [[Menenius|MENENIUS]] | [[Well]], [[Well|well]], no more of that. |
+| [[Coriolanus|CORIOLANUS]] | Though there the people had more absolute power— I say they nourished disobedience, fed The ruin of the state. |
+| [[Brutus|BRUTUS]] | Why shall the people give One that speaks thus their voice? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--05_monologue_coriolanus" data-title="Coriolanus — Act III, Scene 1 — monologue (CORIOLANUS) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Coriolanus|CORIOLANUS]] | I’ll give my reasons, More worthier than their voices. They know the corn Was not our recompense, resting [[Well|well]] assured They ne‘er did service for’t. Being pressed to th’ war, Even when the navel of the state was touched, They would not thread the gates. This kind of service Did not deserve corn gratis. Being i’th’ war, Their mutinies and revolts, wherein they showed Most valour, spoke not for them. Th‘accusation Which they have often made against the senate, All cause [[unborn]], could never be the native Of our so frank donation. [[Well]], what then? How shall this bosom multiplied digest The senate’s courtesy? Let deeds express What’s like to be their words: ‘We did request it, We are the greater poll, and in true [[Fear|fear]] They gave us our demands.’ Thus we debase The [[Nature|nature]] of our seats, and make the rabble Call our cares fears, which will in [[Time|time]] Break ope the locks o’th’ senate and bring in The crows to peck the eagles. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--06_exchange_menenius" data-title="Coriolanus — Act III, Scene 1 — exchange (MENENIUS) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | Come, enough. |
+| [[Brutus|BRUTUS]] | Enough with over-measure. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--07_monologue_coriolanus" data-title="Coriolanus — Act III, Scene 1 — monologue (CORIOLANUS) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Coriolanus|CORIOLANUS]] | No, take more. What may be sworn by, both divine and human, Seal what I end withal! This [[Double|double]] worship, Where one part does disdain with cause, the other Insult without all reason, where gentry, title, wisdom Cannot conclude but by the yea and no Of general ignorance, it must omit Real necessities, and give way the while To unstable slightness. Purpose so barred, it follows Nothing is done to purpose. Therefore beseech you— You that will be less fearful than discreet, That [[Love|love]] the fundamental part of state More than you [[Doubt|doubt]] the change on‘t, that prefer A noble life before a long, and wish To jump a [[Body|body]] with a dangerous physic That’s sure of [[Death|death]] without it—at once pluck out The multitudinous tongue; let them not lick The sweet which is their [[Poison|poison]]. Your dishonour Mangles true judgement, and bereaves the state Of that integrity which should become’t, Not having the power to do the good it would For th’ill which doth control’t. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--08_exchange_brutus" data-title="Coriolanus — Act III, Scene 1 — exchange (BRUTUS) [8]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Brutus|BRUTUS]] | He’s said enough. |
+| [[Sicinius|SICINIUS]] | He’s spoken like a traitor, and shall answer As traitors do. |
+| [[Coriolanus|CORIOLANUS]] | Thou wretch, despite o’erwhelm thee! What should the people do with these bald tribunes, On whom depending, their obedience fails To th’ greater bench? In a rebellion, When what’s not meet but what must be was law, Then were they chosen. In a better hour Let what is meet be said it must be meet, And throw their power i’th’ [[Dust|dust]]. |
+| [[Brutus|BRUTUS]] | Manifest treason. |
+| [[Sicinius|SICINIUS]] | This a consul? No. |
+| [[Brutus|BRUTUS]] | The aediles, hot Enter an Aedile Let him be apprehended. |
+| [[Sicinius|SICINIUS]] | Go call the people, Exit Aedile (To [[Coriolanus]]) in whose name myself Attach thee as a traitorous innovator, A foe to th’ public weal. Obey, I charge thee, And follow to thine answer. |
+| [[Coriolanus|CORIOLANUS]] | Hence, old goat! |
+| ALL | THE PATRICIANS We’ll surety him. |
+| [[Cominius|COMINIUS]] | (to [[Sicinius]]) Aged sir, hands off. |
+| [[Coriolanus|CORIOLANUS]] | (to [[Sicinius]]) Hence, rotten thing, or I shall shake thy bones Out of thy garments. |
+| [[Sicinius|SICINIUS]] | Help, ye citizens! Enter a rabble of Plebeians, with the Aediles |
+| [[Menenius|MENENIUS]] | On both sides more respect. |
+| [[Sicinius|SICINIUS]] | Here’s he That would take from you all your power. |
+| [[Brutus|BRUTUS]] | Seize him, aediles. |
+| ALL | THE CITIZENS Down with him, down with him! |
+| SECOND SENATOR | Weapons, weapons, weapons! They all bustle about [[Coriolanus]] CITIZENS and PATRICIANS in dispersed cries Tribunes! Patricians! Citizens! What ho! Siciniusl [[Brutus]]! Coriolanusl Citizens! SOME CITIZENS and PATRICIANS Peace, peace, peace! Stay! Hold! Peace! |
+| [[Menenius|MENENIUS]] | What is about to be? I am out of breath. Confusion’s near; I cannot speak. You tribunes To th’ people, [[Coriolanus]], patience! Speak, good [[Sicinius]]. |
+| [[Sicinius|SICINIUS]] | Hear me, people, peace. |
+| ALL | THE CITIZENS Let’s hear our tribune! Peace! Speak, speak, speak! |
+| [[Sicinius|SICINIUS]] | You are at point to lose your liberties. Martius would have all from you—Martius Whom late you have named for consul. |
+| [[Menenius|MENENIUS]] | Fie, fie, fie, This is the way to kindle, not to quench. FIRST SENATOR To unbuild the [[City|city]], and to lay all flat. |
+| [[Sicinius|SICINIUS]] | What is the [[City|city]] but the people? |
+| ALL | THE CITIZENS True, The people are the [[City|city]]. |
+| [[Brutus|BRUTUS]] | By the consent of all We were established the people’s magistrates. |
+| ALL | THE CITIZENS You so remain. |
+| [[Menenius|MENENIUS]] | And so are like to do. [[Coriolanus|CORIOLANUS]] That is the way to lay the [[City|city]] flat, To bring the roof to the foundation, And bury all which yet distinctly ranges In heaps and piles of ruin. |
+| [[Sicinius|SICINIUS]] | This deserves [[Death|death]]. |
+| [[Brutus|BRUTUS]] | Or let us stand to our authority, Or let us lose it. We do here pronounce, Upon the part o’th’ people in whose power We were elected theirs, Martius is worthy Of present [[Death|death]]. |
+| [[Sicinius|SICINIUS]] | Therefore lay hold of him, Bear him to th’ rock Tarpeian; and from thence Into destruction cast him. |
+| [[Brutus|BRUTUS]] | Aediles, seize him. |
+| ALL THE CITIZENS | Yield, Martius, yield. |
+| [[Menenius|MENENIUS]] | Hear me one word. Beseech you, tribunes, hear me but a word. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--09_exchange_aediles" data-title="Coriolanus — Act III, Scene 1 — exchange (AEDILES) [9]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| AEDILES | Peace, peace! |
+| [[Menenius|MENENIUS]] | (to the tribunes) Be that you seem, truly your country’s friend, And temp’rately proceed to what you would Thus violently redress. |
+| [[Brutus|BRUTUS]] | Sir, those cold ways That seem like prudent helps are very poisons Where the disease is violent. Lay hands upon him, And bear him to the rock. [[Coriolanus]] draws his [[Sword|sword]] |
+| [[Coriolanus|CORIOLANUS]] | No, I’ll die here. There’s some among you have beheld me fighting. Come, try upon yourselves what you have seen me. |
+| [[Menenius|MENENIUS]] | Down with that [[Sword|sword]]. Tribunes, withdraw a while. |
+| [[Brutus|BRUTUS]] | Lay hands upon him. |
+| [[Menenius|MENENIUS]] | Help Martius, help! You that be noble, help him, young and old. |
+| ALL | THE CITIZENS Down with him, down with him! In this mutiny the tribunes, the Aediles, and the people are beat in |
+| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) Go get you to your [[house]]. Be gone, away! All will be naught else. |
+| SECOND SENATOR | (to [[Coriolanus]]) Get you gone. [[Coriolanus|CORIOLANUS]] Stand fast; we have as many friends as enemies. |
+| [[Menenius|MENENIUS]] | Shall it be put to that? FIRST SENATOR The gods forbid! (To [[Coriolanus]]) I prithee, noble friend, [[Home|home]] to thy [[house]]. Leave us to cure this cause. |
+| [[Menenius|MENENIUS]] | For ’tis a sore upon us You cannot tent yourself. Be gone, beseech you. [[Cominius|COMINIUS]] Come, sir, along with us. [[Coriolanus|CORIOLANUS]] I would they were barbarians, as they are, Though in Rome littered; not Romans, as they are not, Though calved i‘th’ porch o’th’ Capitol. [[Menenius|MENENIUS]] Be gone. Put not your worthy rage into your tongue. One [[Time|time]] will owe another. |
+| [[Coriolanus|CORIOLANUS]] | On fair ground I could beat forty of them. |
+| [[Menenius|MENENIUS]] | I could myself Take up a brace o’th’ best of them, yea, the two tribunes. |
+| [[Cominius|COMINIUS]] | But now ‘tis odds beyond arithmetic, And manhood is called foolery when it stands Against a falling fabric. (To [[Coriolanus]]) Will you hence Before the tag return, whose rage doth rend Like interrupted waters, and o’erbear What they are used to bear? |
+| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) Pray you be gone. I’ll try whether my old wit be in request With those that have but little. This must be patched With cloth of any colour. |
+| [[Cominius|COMINIUS]] | Nay, come away. Exeunt [[Coriolanus]] and [[Cominius]] |
+| *(didascalia)* | A |
+| PATRICIAN | This man has marred his fortune. |
+| [[Menenius|MENENIUS]] | His [[Nature|nature]] is too noble for the world. He would not flatter Neptune for his trident Or Jove for’s power to thunder. His heart’s his mouth. What his breast forges, that his tongue must vent, And, being angry, does forget that ever He heard the name of [[Death|death]]. A noise within Here’s goodly work. |
+| *(didascalia)* | A |
+| PATRICIAN | I would they were abed. |
+| [[Menenius|MENENIUS]] | I would they were in Tiber. What the vengeance, could he not speak ’em fair? Enter [[Brutus]] and [[Sicinius]], with the rabble again |
+| [[Sicinius|SICINIUS]] | Where is this viper That would depopulate the [[City|city]] and Be every man himself? |
+| [[Menenius|MENENIUS]] | You worthy tribunes— |
+| [[Sicinius|SICINIUS]] | He shall be thrown down the Tarpeian rock With rigorous hands. He hath resisted law, And therefore law shall scorn him further trial Than the severity of the public power, Which he so sets at naught. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--10_exchange_first_citizen" data-title="Coriolanus — Act III, Scene 1 — exchange (FIRST CITIZEN) [10]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FIRST CITIZEN | He shall [[Well|well]] know The noble tribunes are the people’s mouths, And we their hands. |
+| ALL | THE CITIZENS He shall, sure on’t. |
+| [[Menenius|MENENIUS]] | Sir, sir. |
+| [[Sicinius|SICINIUS]] | Peace! |
+| [[Menenius|MENENIUS]] | Do not cry havoc where you should but hunt With modest warrant. |
+| [[Sicinius|SICINIUS]] | Sir, how comes’t that you Have holp to make this rescue? |
+| [[Menenius|MENENIUS]] | Hear me speak. As I do know the consul’s worthiness, So can I name his faults. |
+| [[Sicinius|SICINIUS]] | Consul? What consul? |
+| [[Menenius|MENENIUS]] | The consul [[Coriolanus]]. |
+| [[Brutus|BRUTUS]] | He consul? |
+| ALL | THE CITIZENS No, no, no, no, no! |
+| [[Menenius|MENENIUS]] | If, by the tribunes’ leave and yours, good people, I may be heard, I would crave a word or two, The which shall turn you to no further harm Than so much loss of [[Time|time]]. |
+| [[Sicinius|SICINIUS]] | Speak briefly, then, For we are peremptory to dispatch This viperous traitor. To eject him hence Were but our danger, and to keep him here Our certain [[Death|death]]. Therefore it is decreed He dies tonight. |
+| [[Menenius|MENENIUS]] | Now the good gods forbid That our renowned Rome, whose gratitude Towards her deserved children is enrolled In Jove’s own book, like an unnatural dam Should now eat up her own! |
+| [[Sicinius|SICINIUS]] | He’s a disease that must be cut away. |
+| [[Menenius|MENENIUS]] | O, he’s a limb that has but a disease— Mortal to cut it off, to cure it easy. What has he done to Rome that’s worthy [[Death|death]]? Killing our enemies, the [[Blood|blood]] he hath lost— Which I dare vouch is more than that he hath By many an ounce—he dropped it for his country; And what is left, to lose it by his country Were to us all that do’t and suffer it A brand to th’ end o’th’ world. |
+| [[Sicinius|SICINIUS]] | This is clean cam. |
+| [[Brutus|BRUTUS]] | Merely awry. When he did [[Love|love]] his country It honoured him. [[Sicinius|SICINIUS]] S The service of the foot, Being once gangrened, is not then respected For what before it was. |
+| [[Brutus|BRUTUS]] | We’ll hear no more. Pursue him to his [[house]] and pluck him thence, Lest his infection, being of catching [[Nature|nature]], Spread further. |
+| [[Menenius|MENENIUS]] | One word more, one word! This tiger-footed rage, when it shall find The harm of unscanned swiftness, will too late Tie leaden pounds to’s heels. Proceed by process, Lest parties—as he is beloved—break out And sack great Rome with Romans. |
+| [[Brutus|BRUTUS]] | If it were so? |
+| [[Sicinius|SICINIUS]] | (to [[Menenius]]) What do ye talk? Have we not had a taste of his obedience: Our aediles smote, ourselves resisted? Come. |
+| [[Menenius|MENENIUS]] | Consider this: he has been bred i’th’ wars Since a could draw a [[Sword|sword]], and is ill-schooled In bolted language. Meal and bran together He throws without distinction. Give me leave, I’ll go to him and undertake to bring him Where he shall answer by a lawful form, In peace, to his utmost peril. |
+| FIRST SENATOR | Noble tribunes, It is the humane way. The other course Will prove too bloody, and the end of it Unknown to the beginning. |
+| [[Sicinius|SICINIUS]] | Noble [[Menenius]], Be you then as the people’s officer. (To the Citizens) Masters, lay down your weapons. |
+| [[Brutus|BRUTUS]] | Go not [[Home|home]]. |
+| [[Sicinius|SICINIUS]] | Meet on the market-place. (To [[Menenius]]) We’ll attend you there, Where if you bring not Martius, we’ll proceed In our first way. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--11_exchange_menenius" data-title="Coriolanus — Act III, Scene 1 — exchange (MENENIUS) [11]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | I’ll bring him to you. (To the Senators) Let me [[Desire|desire]] your company. He must come, Or what is worst will follow. FIRST SENATOR Pray you, let’s to him. Exeunt tribunes and Citizens at one door, Patricians at another door |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="Coriolanus — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Coriolanus]], with Nobles |
+| [[Coriolanus|CORIOLANUS]] | Let them pull all about mine ears, present me [[Death]] on the [[Wheel|wheel]] or at wild horses’ heels, Or pile ten hills on the Tarpeian rock, That the precipitation might down stretch Below the beam of sight, yet will I still Be thus to them. Enter [[Volumnia]] |
+| *(didascalia)* | A |
+| PATRICIAN | You do the nobler. |
+| [[Coriolanus|CORIOLANUS]] | I muse my mother Does not approve me further, who was wont To call them woollen vassals, things created To buy and sell with groats, to show bare heads In congregations, to yawn, be still, and [[Wonder|wonder]], When one but of my ordinance stood up To speak of peace or war. (To [[Volumnia]]) I talk of you. Why did you wish me milder? Would you have me False to my [[Nature|nature]]? Rather say I play The man I am. |
+| [[Volumnia|VOLUMNIA]] | O, sir, sir, sir, I would have had you put your power [[Well|well]] on Before you had worn it out. |
+| [[Coriolanus|CORIOLANUS]] | Let go. |
+| [[Volumnia|VOLUMNIA]] | You might have been enough the man you are With striving less to be so. Lesser had been The taxings of your dispositions if You had not showed them how ye were disposed Ere they lacked power to [[Cross|cross]] you. |
+| [[Coriolanus|CORIOLANUS]] | Let them hang. |
+| [[Volumnia|VOLUMNIA]] | Ay, and burn too. Enter [[Menenius]], with the Senators |
+| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) Come, come, you have been too rough, something too rough. You must return and mend it. FIRST SENATOR There’s no remedy Unless, by not so doing, our good [[City|city]] Cleave in the midst and perish. |
+| [[Volumnia|VOLUMNIA]] | (to [[Coriolanus]]) Pray be counselled. I have a heart as little apt as yours, But yet a brain that leads my use of anger To better vantage. |
+| [[Menenius|MENENIUS]] | [[Well]] said, noble woman. Before he should thus stoop to th’ herd, but that The violent fit o’th’ [[Time|time]] craves it as physic For the whole state, I would put mine armour on, Which I can scarcely bear. |
+| [[Coriolanus|CORIOLANUS]] | What must I do? |
+| [[Menenius|MENENIUS]] | Return to th’ tribunes. |
+| [[Coriolanus|CORIOLANUS]] | [[Well]], what then, what then? |
+| [[Menenius|MENENIUS]] | Repent what you have spoke. |
+| [[Coriolanus|CORIOLANUS]] | For them? I cannot do it to the gods. Must I then do’t to them? |
+| [[Volumnia|VOLUMNIA]] | You are too absolute, Though therein you can never be too noble, But when extremities speak. I have heard you say, [[Honour]] and policy, like unsevered friends, I’th’ war do grow together. Grant that, and tell me In peace what each of them by th’ other lose That they combine not there. |
+| [[Coriolanus|CORIOLANUS]] | Tush, tush! |
+| [[Menenius|MENENIUS]] | A good demand. |
+| [[Volumnia|VOLUMNIA]] | If it be [[Honour|honour]] in your wars to seem The same you are not, which for your best ends You adopt your policy, how is it less or worse That it shall hold companionship in peace With [[Honour|honour]], as in war, since that to both It stands in like request? |
+| [[Coriolanus|CORIOLANUS]] | Why force you this? |
+| [[Volumnia|VOLUMNIA]] | Because that now it lies you on to speak to th’ people, Not by your own instruction, nor by th’ matter Which your heart prompts you, but with such words That are but roted in your tongue, though but Bastards and syllables of no allowance To your bosom’s [[Truth|truth]]. Now this no more Dishonours you at all than to take in A town with gentle words, which else would put you To your fortune and the hazard of much [[Blood|blood]]. I would dissemble with my [[Nature|nature]] where My fortunes and my friends at stake required I should do so in [[Honour|honour]]. I am in this Your wife, your son, these senators, the nobles; And you will rather show our general louts How you can frown than spend a fawn upon ’em For the inheritance of their loves and safeguard Of what that want might ruin. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--02_exchange_menenius" data-title="Coriolanus — Act III, Scene 2 — exchange (MENENIUS) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | Noble lady! (To [[Coriolanus]]) Come, go with us, speak fair. You may salve so, Not what is dangerous present, but the loss Of what is past. |
+| [[Volumnia|VOLUMNIA]] | I prithee now, my son, She takes his bonnet Go to them with this bonnet in thy hand, And thus far having stretched it—here be with them— Thy knee bussing the stones—for in such business Action is eloquence, and the eyes of th’ ignorant More learnèd than the ears—waving thy head, With often, thus, correcting thy stout heart, Now humble as the ripest mulberry That will not hold the handling; or say to them Thou art their soldier and, being bred in broils, Hast not the soft way which, thou dost confess, Were fit for thee to use as they to claim, In asking their good loves; but thou wilt frame Thyself, forsooth, hereafter theirs so far As thou hast power and person. |
+| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) This but done Even as she speaks, why, their hearts were yours; For they have pardons, being asked, as free As words to little purpose. |
+| [[Volumnia|VOLUMNIA]] | (to [[Coriolanus]]) Prithee now, Go, and be ruled, although I know thou hadst rather Follow thine enemy in a fiery gulf Than flatter him in a bower. Enter [[Cominius]] Here is [[Cominius]]. |
+| [[Cominius|COMINIUS]] | I have been i‘th’ market-place; and, sir, ’tis fit You make strong party, or defend yourself By calmness or by absence. All’s in anger. |
+| [[Menenius|MENENIUS]] | Only fair speech. |
+| [[Cominius|COMINIUS]] | I think ’twill serve, if he Can thereto frame his spirit. |
+| [[Volumnia|VOLUMNIA]] | He must, and will. Prithee now, say you will, and go about it. |
+| [[Coriolanus|CORIOLANUS]] | Must I go show them my unbarbèd sconce? Must I with my base tongue give to my noble heart A lie that it must bear? [[Well]], I will do’t. Yet were there but this single plot to lose, This mould of Martius they to [[Dust|dust]] should grind it And throw’t against the [[Wind|wind]]. To th’ market-place. You have put me now to such a part which never I shall discharge to th’ life. |
+| [[Cominius|COMINIUS]] | Come, come, we’ll prompt you. |
+| [[Volumnia|VOLUMNIA]] | I prithee now, sweet son, as thou hast said My praises made thee first a soldier, so, To have my praise for this, perform a part Thou hast not done before. |
+| [[Coriolanus|CORIOLANUS]] | [[Well]], I must do’t. Away, my disposition; and possess me Some harlot’s spirit! My throat of war be turned, Which choired with my drum, into a pipe Small as an eunuch or the virgin voice That babies lull asleep! The smiles of knaves Tent in my cheeks, and schoolboys’ [[Tears|tears]] take up The glasses of my sight! A beggar’s tongue Make motion through my lips, and my armed knees, Who bowed but in my stirrup, bend like his That hath received an alms! I will not do’t, Lest I surcease to [[Honour|honour]] mine own [[Truth|truth]], And by my [[Body|body]]’s action teach my mind A most inherent baseness. |
+| [[Volumnia|VOLUMNIA]] | At thy choice, then. To beg of thee it is my more dishonour Than thou of them. Come all to ruin. Let Thy mother rather feel thy [[Pride|pride]] than [[Fear|fear]] Thy dangerous stoutness, for I mock at [[Death|death]] With as big heart as thou. Do as thou list. Thy valiantness was mine, thou sucked’st it from me, But owe thy [[Pride|pride]] thyself. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--03_exchange_coriolanus" data-title="Coriolanus — Act III, Scene 2 — exchange (CORIOLANUS) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Coriolanus|CORIOLANUS]] | Pray be content. Mother, I am going to the market-place. Chide me no more. I’ll mountebank their loves, Cog their hearts from them, and come [[Home|home]] beloved Of all the trades in Rome. Look, I am going. Commend me to my wife. I’ll return consul, Or never trust to what my tongue can do I’th’ way of flattery further. |
+| [[Volumnia|VOLUMNIA]] | Do your will. Exit [[Volumnia]] |
+| [[Cominius|COMINIUS]] | Away! The tribunes do attend you. Arm yourself To answer mildly, for they are prepared With accusations, as I hear, more strong Than are upon you yet. |
+| [[Coriolanus|CORIOLANUS]] | The word is ‘mildly’. Pray you let us go. Let them accuse me by invention, I Will answer in mine [[Honour|honour]]. |
+| [[Menenius|MENENIUS]] | Ay, but mildly. |
+| [[Coriolanus|CORIOLANUS]] | [[Well]], mildly be it, then—mitd)y. Exeunt |
+| [[Coriolanus|CORIOLANUS]] | 3.3 Enter [[Sicinius]] and [[Brutus]] |
+| [[Brutus|BRUTUS]] | In this point charge him [[Home|home]]: that he affects Tyrannical power. If he evade us there, Enforce him with his envy to the people, And that the spoil got on the Antiats Was ne’er distributed. Enter an Aedile What, will he come? |
+| AEDILE | He’s coming. |
+| [[Brutus|BRUTUS]] | How accompanied? |
+| AEDILE | With old [[Menenius]], and those senators That always favoured him. |
+| [[Sicinius|SICINIUS]] | Have you a catalogue Of all the voices that we have procured, Set down by th’ poll? |
+| AEDILE | I have, ’tis ready. |
+| [[Sicinius|SICINIUS]] | Have you collected them by tribes? |
+| AEDILE | I have. |
+| [[Sicinius|SICINIUS]] | Assemble presently the people hither, And when they hear me say ‘It shall be so I’th’ right and strength o‘th’ commons’, be it either For [[Death|death]], for fine, or banishment, then let them, If I say ‘Fine’, cry ‘Fine!’, if ‘[[Death]]’, cry ‘[[Death]]!’, Insisting on the old prerogative And power i‘th’ [[Truth|truth]] o’th’ cause. |
+| AEDILE | I shall inform them. |
+| [[Brutus|BRUTUS]] | And when such [[Time|time]] they have begun to cry, Let them not cease, but with a din confused Enforce the present execution Of what we chance to sentence. |
+| AEDILE | Very [[Well|well]]. |
+| [[Sicinius|SICINIUS]] | Make them be strong, and ready for this hint When we shall hap to give’t them. |
+| [[Brutus|BRUTUS]] | to the Aedile Go about it. Exit Aedile Put him to choler straight. He hath been used Ever to conquer and to have his worth Of contradiction. Being once chafed, he cannot Be reined again to temperance. Then he speaks What’s in his heart, and that is there which looks With us to break his neck. Enter [[Coriolanus]], [[Menenius]], and [[Cominius]], with other Senators and Patricians |
+| [[Sicinius|SICINIUS]] | [[Well]], here he comes. |
+| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) Calmly, I do beseech you. |
+| [[Coriolanus|CORIOLANUS]] | Ay, as an hostler that for th’ poorest piece Will bear the knave by th’ volume.—Th‘honoured gods Keep Rome in safety and the chairs of justice Supplied with worthy men, plant [[Love|love]] among’s, Throng our large temples with the shows of peace, And not our streets with war! |
+| FIRST SENATOR | Amen, amen. |
+| [[Menenius|MENENIUS]] | A noble wish. Enter the Aedile with the Citizens |
+| [[Sicinius|SICINIUS]] | Draw near, ye people. |
+| AEDILE | List to your tribunes. Audience! Peace, I say. |
+| [[Coriolanus|CORIOLANUS]] | First, hear me speak. |
+| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] [[Well]], say.—Peace ho! |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--04_exchange_coriolanus" data-title="Coriolanus — Act III, Scene 2 — exchange (CORIOLANUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Coriolanus|CORIOLANUS]] | Shall I be charged no further than this present? Must all determine here? |
+| [[Sicinius|SICINIUS]] | I do demand If you submit you to the people’s voices, Allow their officers, and are content To suffer lawful censure for such faults As shall be proved upon you. |
+| [[Coriolanus|CORIOLANUS]] | I am content. |
+| [[Menenius|MENENIUS]] | Lo, citizens, he says he is content. The warlike service he has done, consider. Think Upon the wounds his [[Body|body]] bears, which show Like graves i’th’ holy churchyard. |
+| [[Coriolanus|CORIOLANUS]] | Scratches with briers, Scars to move laughter only. |
+| [[Menenius|MENENIUS]] | Consider further That when he speaks not like a citizen, You find him like a soldier. Do not take His rougher accents for malicious sounds, But, as I say, such as become a soldier Rather than envy you. |
+| [[Cominius|COMINIUS]] | [[Well]], [[Well|well]], no more. |
+| [[Coriolanus|CORIOLANUS]] | What is the matter That, being passed for consul with full voice, I am so dishonoured that the very hour You take it off again? |
+| SICINUS | Answer to us. |
+| [[Coriolanus|CORIOLANUS]] | Say, then. ’Tis true I ought so. |
+| [[Sicinius|SICINIUS]] | We charge you that you have contrived to take From Rome all seasoned office, and to [[Wind|wind]] Yourself into a power tyrannical, For which you are a traitor to the people. |
+| [[Coriolanus|CORIOLANUS]] | How, traitor? |
+| [[Menenius|MENENIUS]] | Nay, temperatety—your promise. |
+| [[Coriolanus|CORIOLANUS]] | The fires i‘th’ lowest hell fold in the people! Call me their traitor, thou injurious tribune? Within thine eyes sat twenty thousand deaths, In thy hands clutched as many millions, in Thy lying tongue both numbers, I would say ‘Thou liest’ unto thee with a voice as free As I do pray the gods. |
+| [[Sicinius|SICINIUS]] | Mark you this, people? |
+| ALL | THE CITIZENS  To th’ rock, to th’ rock with him! |
+| [[Sicinius|SICINIUS]] | Peace! We need not put new matter to his charge. What you have seen him do and heard him speak, Beating your officers, cursing yourselves, Opposing laws with strokes, and here defying Those whose great power must try him— Even this, so criminal and in such capital kind, Deserves th’extremest [[Death|death]]. |
+| [[Brutus|BRUTUS]] | But since he hath Served [[Well|well]] for Rome— |
+| [[Coriolanus|CORIOLANUS]] | What do you prate of service? |
+| [[Brutus|BRUTUS]] | I talk of that that know it. |
+| [[Coriolanus|CORIOLANUS]] | You? |
+| [[Menenius|MENENIUS]] | Is this the promise that you made your mother? |
+| [[Cominius|COMINIUS]] | Know, I pray you— |
+| [[Coriolanus|CORIOLANUS]] | I’ll know no further. Let them pronounce the steep Tarpeian [[Death|death]], Vagabond [[Exile|exile]], flaying, pent to linger But with a grain a day, I would not buy Their [[Mercy|mercy]] at the price of one fair word, Nor check my [[Courage|courage]] for what they can give To have’t with saying ‘Good morrow’. |
+| [[Sicinius|SICINIUS]] | For that he has, As much as in him lies, from [[Time|time]] to [[Time|time]] Inveighed against the people, seeking means To pluck away their power, as now at last Given hostile strokes, and that not in the presence Of dreaded justice, but on the ministers That doth distribute it, in the name o‘th’ people, And in the power of us the tribunes, we E’en from this instant banish him our [[City|city]] In peril of precipitation From off the rock Tarpeian, never more To enter our Rome gates. I’th’ people’s name I say it shall be so. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--05_exchange_all" data-title="Coriolanus — Act III, Scene 2 — exchange (ALL) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| ALL | THE CITIZENS It shall be so, It shall be so. Let him away. He’s banished, And it shall be so. |
+| [[Cominius|COMINIUS]] | Hear me, my masters and my common friends. |
+| [[Sicinius|SICINIUS]] | He’s sentenced. No more hearing. |
+| [[Cominius|COMINIUS]] | Let me speak. I have been consul, and can show for Rome Her enemies’ marks upon me. I do [[Love|love]] My country’s good with a respect more tender, More holy and profound, than mine own life, My dear wife’s estimate, her womb’s increase, And treasure of my loins. Then if I would Speak that— |
+| [[Sicinius|SICINIUS]] | We know your drift. Speak what? |
+| [[Brutus|BRUTUS]] | There’s no more to be said, but he is banished, As enemy to the people and his country. It shall be so. |
+| ALL | THE CITIZENS It shall be so, it shall be so. |
+| [[Coriolanus|CORIOLANUS]] | You common cry of curs, whose breath I hate As reek o’th’ rotten fens, whose loves I prize As the dead carcasses of unburied men That do corrupt my air: I banish you. And here remain with your uncertainty. Let every feeble rumour shake your hearts; Your enemies, with nodding of their plumes, Fan you into [[Despair|despair]]! Have the power still To banish your defenders, till at length Your ignorance—which finds not till it feels— Making but reservation of yourselves, Still your own foes, deliver you As most abated captives to some nation That won you without blows! Despising For you the [[City|city]], thus I turn my back. There is a world elsewhere. Exeunt [[Coriolanus]], [[Cominius]], and [[Menenius]], with the rest of the Patricians. The Citizens all shout, and throw up their caps |
+| AEDILE | The people’s enemy is gone, is gone. |
+| ALL THE CITIZENS | Our enemy is banished, he is gone. Hoo-oo! |
+| [[Sicinius|SICINIUS]] | Go see him out at gates, and follow him As he hath followed you, with all despite. Give him deserved vexation. Let a guard Attend us through the [[City|city]]. |
+| ALL THE CITIZENS | Come, come, let’s see him out at gates. Come. The gods preserve our noble tribunes! Come. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--01_exchange_dialogue" data-title="Coriolanus — Act IV, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Music plays. Enter a Servingman |
+| FIRST SERVINGMAN | Wine, wine, wine! What service is here? I think our fellows are asleep. Exit Enter a Second Servingman |
+| SECOND SERVINGMAN | Where’s Cotus? My master calls for him. Cotus! Exit Enter [[Coriolanus]], as before |
+| [[Coriolanus|CORIOLANUS]] | A goodly [[house]]. The feast Smells [[Well|well]], but I appear not like a guest. Enter the First Servingman |
+| FIRST SERVINGMAN | What would you have, friend? Whence are you? Here’s no place for you. Pray go to the door. Exit |
+| [[Coriolanus|CORIOLANUS]] | I have deserved no better entertainment In being [[Coriolanus]]. Enter Second Servingman |
+| SECOND SERVINGMAN | Whence are you, sir? Has the porter his eyes in his head, that he gives entrance to such companions? Pray get you out. |
+| [[Coriolanus|CORIOLANUS]] | Away! |
+| SECOND SERVINGMAN | Away? Get you away. |
+| [[Coriolanus|CORIOLANUS]] | Now thou’rt troublesome. |
+| SECOND SERVINGMAN | Are you so brave? I’ll have you talked with anon. Enter Third Servingman. The First meets him |
+| THIRD SERVINGMAN | What fellow’s this? |
+| FIRST SERVINGMAN | A strange one as ever I looked on. I cannot get him out o’th’ [[house]]. Prithee, call my master to him. |
+| THIRD SERVINGMAN | (to [[Coriolanus]]) What have you to do here, fellow? Pray you, avoid the [[house]]. |
+| [[Coriolanus|CORIOLANUS]] | Let me but stand. I will not hurt your hearth. |
+| THIRD SERVINGMAN | What are you? |
+| [[Coriolanus|CORIOLANUS]] | A gentleman. |
+| THIRD SERVINGMAN | A marvellous poor one. |
+| [[Coriolanus|CORIOLANUS]] | True, so I am. |
+| THIRD SERVINGMAN | Pray you, poor gentleman, take up some other station. Here’s no place for you. Pray you, avoid. Come. |
+| [[Coriolanus|CORIOLANUS]] | Follow your function. Go and batten on cold bits. He pushes him away from him |
+| THIRD SERVINGMAN | What, you will not?—Prithee tell my master what a strange guest he has here. |
+| SECOND SERVINGMAN | And I shall. Exit Second Servingman |
+| THIRD SERVINGMAN | Where dwell’st thou? |
+| [[Coriolanus|CORIOLANUS]] | Under the canopy. |
+| THIRD SERVINGMAN | Under the canopy? |
+| [[Coriolanus|CORIOLANUS]] | Ay. |
+| THIRD SERVINGMAN | Where’s that? |
+| [[Coriolanus|CORIOLANUS]] | I’th’ [[City|city]] of kites and crows. |
+| THIRD SERVINGMAN | I‘th’ [[City|city]] of kites and crows? What an ass it is! Then thou dwell’st with daws, too? |
+| [[Coriolanus|CORIOLANUS]] | No, I serve not thy master. |
+| THIRD SERVINGMAN | How, sir? Do you meddle with my master? |
+| [[Coriolanus|CORIOLANUS]] | Ay, ‘tis an honester service than to meddle with thy mistress. Thou prat’st and prat’st. Serve with thy trencher. Hence! He beats him away. Enter [[Aufidius]], with the Second Servingman |
+| [[Aufidius|AUFIDIUS]] | Where is this fellow? |
+| SECOND SERVINGMAN | Here, sir. I’d have beaten him like a dog but for disturbing the lords within. The Servingmen stand aside |
+| [[Aufidius|AUFIDIUS]] | Whence com‘st thou? What wouldst thou? Thy name? Why speak’st not? Speak, man. What’s thy name? |
+| [[Coriolanus|CORIOLANUS]] | unmuffling his head If, Tullus, Not yet thou know’st me, and seeing me dost not Think me for the man I am, necessity Commands me name myself. |
+| [[Aufidius|AUFIDIUS]] | What is thy name? |
+| [[Coriolanus|CORIOLANUS]] | A name unmusical to the Volscians’ ears And harsh in sound to thine. |
+| [[Aufidius|AUFIDIUS]] | Say, what’s thy name? Thou hast a grim appearance, and thy face Bears a command in’t. Though thy tackle’s torn, Thou show’st a noble vessel. What’s thy name? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--02_exchange_coriolanus" data-title="Coriolanus — Act IV, Scene 5 — exchange (CORIOLANUS) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Coriolanus|CORIOLANUS]] | Prepare thy brow to frown. Know’st thou me yet? |
+| [[Aufidius|AUFIDIUS]] | I know thee not. Thy name? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--03_monologue_coriolanus" data-title="Coriolanus — Act IV, Scene 5 — monologue (CORIOLANUS) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Coriolanus|CORIOLANUS]] | My name is Caius Martius, who hath done To thee particularly, and to all the Volsces, Great hurt and mischief. Thereto witness may My surname [[Coriolanus]]. The painful service, The extreme dangers, and the drops of [[Blood|blood]] Shed for my thankless country, are requited But with that surname—a good [[Memory|memory]] And witness of the malice and displeasure Which thou shouldst bear me. Only that name remains. The cruelty and envy of the people, Permitted by our dastard nobles, who Have all forsook me, hath devoured the rest, And suffered me by th’ voice of slaves to be Whooped out of Rome. Now this extremity Hath brought me to thy hearth. Not out of [[Hope|hope]]— Mistake me not—to save my life, for if I had feared [[Death|death]], of all the men i‘th’ world I would have ’voided thee, but in mere spite To be full quit of those my banishers Stand I before thee here. Then if thou hast A heart of wreak in thee, that wilt [[Revenge|revenge]] Thine own particular wrongs and stop those maims Of shame seen through thy country, [[Speed|speed]] thee straight, And make my misery serve thy turn. So use it That my revengeful services may prove As benefits to thee; for I will fight Against my cankered country with the spleen Of all the under-fiends. But if so be Thou dar‘st not this, and that to prove more fortunes Thou’rt tired, then, in a word, I also am Longer to live most weary, and present My throat to thee and to thy ancient malice, Which not to cut would show thee but a [[Fool|fool]], Since I have ever followed thee with hate, Drawn tuns of [[Blood|blood]] out of thy country’s breast, And cannot live but to thy shame unless It be to do thee service. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--04_monologue_aufidius_o" data-title="Coriolanus — Act IV, Scene 5 — monologue (AUFIDIUS O) [4]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Aufidius|AUFIDIUS]] | O Martius, Martius! Each word thou hast spoke hath weeded from my heart A root of ancient envy. If Jupiter Should from yon cloud speak divine things And say “Tis true’, I’d not believe them more Than thee, all-noble Martius. Let me twine Mine arms about that [[Body|body]] whereagainst My grained ash an hundred times hath broke, And scarred the [[Moon|moon]] with splinters. (He embraces [[Coriolanus]]) Here I clip The anvil of my [[Sword|sword]], and do contest As hotly and as nobly with thy [[Love|love]] As ever in ambitious strength I did Contend against thy valour. Know thou first, I loved the maid I married; never man Sighed truer breath. But that I see thee here, Thou noble thing, more dances my rapt heart Than when I first my wedded mistress saw Bestride my threshold. Why, thou Mars, I tell thee We have a power on foot, and I had purpose Once more to hew thy target from thy brawn, Or lose mine arm for’t. Thou hast beat me out Twelve several times, and I have nightly since Dreamt of encounters ‘twixt thyself and me— We have been down together in my [[Sleep|sleep]], Unbuckling helms, fisting each other’s throat— And waked half dead with nothing. Worthy Martius, Had we no other quarrel else to Rome but that Thou art thence banished, we would muster all From twelve to seventy, and, pouring war Into the bowels of ungrateful Rome, Like a bold flood o’erbear’t. O, come, go in, And take our friendly senators by th’ hands Who now are here taking their [[Leaves|leaves]] of me, Who am prepared against your territories, Though not for Rome itself. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--05_exchange_coriolanus" data-title="Coriolanus — Act IV, Scene 5 — exchange (CORIOLANUS) [5]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Coriolanus|CORIOLANUS]] | You bless me, gods. |
+| [[Aufidius|AUFIDIUS]] | Therefore, most absolute sir, if thou wilt have The leading of thine own revenges, take Th‘one half of my commission and set down— As best thou art experienced, since thou know’st Thy country’s strength and weakness—thine own ways: Whether to knock against the gates of Rome, Or rudely visit them in parts remote To fright them ere destroy. But come in. Let me commend thee first to those that shall Say yea to thy desires. A thousand welcomes! And more a friend than ere an enemy; Yet, Martius, that was much. Your hand. Most welcome! Exeunt The two Servingmen come forward |
+| FIRST SERVINGMAN | Here’s a strange alteration! |
+| SECOND SERVINGMAN | By my hand, I had thought to have strucken him with a cudgel, and yet my mind gave me his clothes made a false report of him. |
+| FIRST SERVINGMAN | What an arm he has! He turned me about with his finger and his thumb as one would set up a top. |
+| SECOND SERVINGMAN | Nay, I knew by his face that there was something in him. He had, sir, a kind of face, methought—I cannot tell how to term it. |
+| FIRST SERVINGMAN | He had so, looking, as it were—wou)d I were hanged but I thought there was more in him than I could think. |
+| SECOND SERVINGMAN | So did I, I’ll be sworn. He is simply the rarest man i’th’ world. |
+| FIRST SERVINGMAN | I think he is yet a greater soldier than he you wot on. |
+| SECOND SERVINGMAN | Who, my master? |
+| FIRST SERVINGMAN | Nay, it’s no matter for that. |
+| SECOND SERVINGMAN | Worth six on him. |
+| FIRST SERVINGMAN | Nay, not so, neither; but I take him to be the greater soldier. |
+| SECOND SERVINGMAN | [[Faith]], look you, one cannot tell how to say that. For the defence of a town our general is excellent. |
+| FIRST SERVINGMAN | Ay, and for an assault too. Enter the Third Servingman |
+| THIRD SERVINGMAN | O, slaves, I can tell you news—news, you rascals! |
+| FIRST | and SECOND SERVINGMEN What, what, what? Let’s partake. |
+| THIRD SERVINGMAN | I would not be a Roman of all nations. I had as lief be a condemned man. |
+| FIRST | and SECOND SERVINGMEN Wherefore? Wherefore? |
+| THIRD SERVINGMAN | Why, here’s he that was wont to thwack our general, Caius Martius. |
+| FIRST SERVINGMAN | Why do you say ‘thwack our general’? |
+| THIRD SERVINGMAN | I do not say ‘thwack our general’; but he was always good enough for him. |
+| SECOND SERVINGMAN | Come, we are fellows and friends. He was ever too hard for him. I have heard him say so himself. |
+| FIRST SERVINGMAN | He was too hard for him directly. To say the [[Truth|truth]] on’t, before Corioles he scotched him and notched him like a carbonado. |
+| SECOND SERVINGMAN | An he had been cannibally given, he might have broiled and eaten him too. |
+| FIRST SERVINGMAN | But more of thy news! |
+| THIRD SERVINGMAN | Why, he is so made on here within as if he were son and heir to Mars; set at upper end o‘th’ table, no question asked him by any of the senators but they stand bald before him. Our general’ himself makes a mistress of him, sanctifies himself with’s hand, and turns up the white o’th’ eye to his discourse. But the [[Bottom|bottom]] of the news is, our general is cut i’th’ middle, and but one half of what he was yesterday, for the other has half by the entreaty and grant of the whole table. He’ll go, he says, and sowl the porter of Rome gates by th’ ears. He will mow all down before him, and leave his passage polled. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--06_exchange_second_servingman" data-title="Coriolanus — Act IV, Scene 5 — exchange (SECOND SERVINGMAN) [6]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SECOND SERVINGMAN | And he’s as like to do’t as any man I can imagine. |
+| THIRD SERVINGMAN | Do’t? He will do’t; for look you, sir, he has as many friends as enemies; which friends, sir, as it were durst not—look you, sir—show themselves, as we term it, his friends whilst he’s in dejectitude. |
+| FIRST SERVINGMAN | Dejectitude? What’s that? |
+| THIRD SERVINGMAN | But when they shall see, sir, his crest up again and the man in [[Blood|blood]], they will out of their burrows like conies after rain, and revel all with him. |
+| FIRST SERVINGMAN | But when goes this forward? |
+| THIRD SERVINGMAN | Tomorrow, today, presently. You shall have the drum struck up this afternoon. ’Tis as it were a parcel of their feast, and to be executed ere they wipe their lips. |
+| SECOND SERVINGMAN | Why, then we shall have a stirring world again. This peace is nothing but to rust iron, increase tailors, and breed ballad-makers. |
+| FIRST SERVINGMAN | Let me have war, say I. It exceeds peace as far as day does [[Night|night]]. It’s sprightly walking, audible and full of vent. Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men. |
+| SECOND SERVINGMAN | ’Tis so, and as war in some sort may be said to be a ravisher, so it cannot be denied but peace is a great maker of cuckolds. |
+| FIRST SERVINGMAN | Ay, and it makes men hate one another. |
+| THIRD SERVINGMAN | Reason; because they then less need one another. The wars for my money. I [[Hope|hope]] to see Romans as cheap as Volscians. A sound within  They are rising, they are rising. |
+| FIRST | and SECOND SERVINGMEN In, in, in, in. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_6--01_exchange_dialogue" data-title="Coriolanus — Act IV, Scene 6 — exchange (dialogue) [1]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the two tribunes, [[Sicinius]] and [[Brutus]] |
+| [[Sicinius|SICINIUS]] | We hear not of him, neither need we [[Fear|fear]] him. His remedies are tame—the present peace And quietness of the people, which before Were in wild hurry. Here do we make his friends Blush that the world goes [[Well|well]], who rather had, Though they themselves did suffer by‘t, behold Dissentious numbers pest’ring streets than see Our tradesmen singing in their shops and going About their functions friendly. Enter [[Menenius]] |
+| [[Brutus|BRUTUS]] | We stood to’t in good [[Time|time]]. Is this [[Menenius]]? |
+| [[Sicinius|SICINIUS]] | ‘Tis he, ’tis he. O, he is grown most kind of late. Hail, sir. |
+| [[Menenius|MENENIUS]] | Hail to you both. |
+| [[Sicinius|SICINIUS]] | Your [[Coriolanus]] is not much missed But with his friends. The commonwealth doth stand, And so would do were he more angry at it. |
+| [[Menenius|MENENIUS]] | All’s [[Well|well]], and might have been much better if He could have temporized. |
+| [[Sicinius|SICINIUS]] | Where is he, hear you? |
+| [[Menenius|MENENIUS]] | Nay, I hear nothing. His mother and his wife hear nothing from him. Enter three or four Citizens |
+| ALL THE CITIZENS | (to the tribunes) The gods preserve you both. |
+| [[Sicinius|SICINIUS]] | Good e’en, our neighbours. |
+| [[Brutus|BRUTUS]] | Good e‘en to you all, good e’en to you all. |
+| FIRST CITIZEN | Ourselves, our wives and children, on our knees Are bound to pray for you both. |
+| [[Sicinius|SICINIUS]] | Live and thrive. |
+| [[Brutus|BRUTUS]] | Farewell, kind neighbours. We wished [[Coriolanus]] had loved you as we did. |
+| ALL THE CITIZENS | Now the gods keep you! |
+| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] Farewell, farewell. Exeunt Citizens |
+| [[Sicinius|SICINIUS]] | This is a happier and more comely [[Time|time]] Than when these fellows ran about the streets Crying confusion. |
+| [[Brutus|BRUTUS]] | Caius Martius was A worthy officer i‘th’ war, but insolent, O’ercome with [[Pride|pride]], ambitious past all thinking, [[Self]]-loving— |
+| [[Sicinius|SICINIUS]] | And affecting one sole throne Without assistance. |
+| [[Menenius|MENENIUS]] | I think not so. |
+| [[Sicinius|SICINIUS]] | We should by this, to all our lamentation, If he had gone forth consul found it so. |
+| [[Brutus|BRUTUS]] | The gods have [[Well|well]] prevented it, and Rome Sits safe and still without him. Enter an Aedile |
+| AEDILE | Worthy tribunes, There is a slave whom we have put in [[Prison|prison]] Reports the Volsces, with two several powers, Are entered in the Roman territories, And with the deepest malice of the war Destroy what lies before ’em. |
+| [[Menenius|MENENIUS]] | ’Tis [[Aufidius]], Who, hearing of our Martius’ banishment, Thrusts forth his horns again into the world, Which were inshelled when Martius stood for Rome, And durst not once peep out. |
+| [[Sicinius|SICINIUS]] | Come, what talk you of Martius? [[Brutus|BRUTUS]] (to the Aedile) Go see this rumourer whipped. It cannot be The Volsces dare break with us. |
+| [[Menenius|MENENIUS]] | Cannot be? We have record that very [[Well|well]] it can, And three examples of the like hath been Within my age. But reason with the fellow, Before you punish him, where he heard this, Lest you shall chance to whip your information And beat the messenger who bids beware Of what is to be dreaded. |
+| [[Sicinius|SICINIUS]] | Tell not me. I know this cannot be. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_6--02_exchange_brutus" data-title="Coriolanus — Act IV, Scene 6 — exchange (BRUTUS) [2]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Brutus|BRUTUS]] | Not possible. Enter a Messenger |
+| MESSENGER | The nobles in great earnestness are going All to the senate-[[house]]. Some news is come That turns their countenances. |
+| [[Sicinius|SICINIUS]] | ’Tis this slave. (To the Aedile) Go whip him fore the people’s eyes.— His raising, Nothing but his report. Exit Aedile |
+| MESSENGER | Yes, worthy sir, The slave’s report is seconded, and more, More fearful, is delivered. |
+| [[Sicinius|SICINIUS]] | What more fearful? |
+| MESSENGER | It is spoke freely out of many mouths— How probable I do not know—that Martius, Joined with [[Aufidius]], leads a power ‘gainst Rome, And vows [[Revenge|revenge]] as spacious as between The young’st and oldest thing. |
+| [[Sicinius|SICINIUS]] | This is most likely! |
+| [[Brutus|BRUTUS]] | Raised only that the weaker sort may wish Good Martius [[Home|home]] again. |
+| [[Sicinius|SICINIUS]] | The very trick on’t. |
+| [[Menenius|MENENIUS]] | This is unlikely. He and [[Aufidius]] can no more atone Than violent’st contrariety. Enter another Messenger |
+| SECOND MESSENGER | You are sent for to the senate. A fearful army, led by Caius Martius Associated with [[Aufidius]], rages Upon our territories, and have already O’erborne their way, consumed with [[Fire|fire]] and took What lay before them. Enter [[Cominius]] |
+| [[Cominius|COMINIUS]] | O, you have made good work! |
+| [[Menenius|MENENIUS]] | What news? What news? |
+| [[Cominius|COMINIUS]] | You have holp to ravish your own daughters and To melt the [[City|city]] leads upon your pates, To see your wives dishonoured to your noses. |
+| [[Menenius|MENENIUS]] | What’s the news? What’s the news? |
+| [[Cominius|COMINIUS]] | Your temples burned in their cement, and Your franchises, whereon you stood, confined Into an auger’s bore. |
+| [[Menenius|MENENIUS]] | Pray now, your news? (To the tribunes) You have made fair work, I [[Fear|fear]] me. (To [[Cominius]]) Pray, your news. If Martius should be joined wi’th’ Volscians— |
+| [[Cominius|COMINIUS]] | If? He is their god. He leads them like a thing Made by some other deity than [[Nature|nature]], That shapes man better, and they follow him Against us brats with no less confidence Than boys pursuing [[Summer|summer]] butterflies, Or butchers killing flies. |
+| [[Menenius|MENENIUS]] | (to the tribunes) You have made good work, You and your apron-men, you that stood so much Upon the voice of occupation and The breath of garlic-eaters! |
+| [[Cominius|COMINIUS]] | (to the tribunes) He’ll shake your Rome about your ears. |
+| [[Menenius|MENENIUS]] | As Hercules did shake down mellow fruit. (To the tribunes) You have made fair work. |
+| [[Brutus|BRUTUS]] | But is this true, sir? |
+| [[Cominius|COMINIUS]] | Ay, and you’ll look pale Before you find it other. All the regions Do smilingly revolt, and who resists Are mocked for valiant ignorance, And perish constant fools. Who is’t can blame him? Your enemies and his find something in him. |
+| MENENIVS | We are all undone unless The noble man have [[Mercy|mercy]]. |
+| [[Cominius|COMINIUS]] | Who shall ask it? The tribunes cannot do‘t, for shame; the people Deserve such pity of him as the wolf Does of the shepherds. For his best friends, if they Should say ‘Be good to Rome’, they charged him even As those should do that had deserved his hate, And therein showed like enemies. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_6--03_exchange_menenius" data-title="Coriolanus — Act IV, Scene 6 — exchange (MENENIUS) [3]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Menenius|MENENIUS]] | ’Tis true. If he were putting to my [[house]] the brand That should consume it, I have not the face To say ‘Beseech you, cease.’ (To the tribunes) You have made fair hands, You and your crafts! You have crafted fair! |
+| [[Cominius|COMINIUS]] | (to the tribunes) You have brought A trembling upon Rome such as was never S’incapable of help. |
+| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] Say not we brought it. |
+| [[Menenius|MENENIUS]] | How? Was’t we? We loved him, but like beasts and cowardly nobles Gave way unto your clusters, who did hoot Him out o’th’ [[City|city]]. |
+| [[Cominius|COMINIUS]] | But I [[Fear|fear]] They’ll roar him in again. Tullus [[Aufidius]], The second name of men, obeys his points As if he were his officer. Desperation Is all the policy, strength, and defence That Rome can make against them. Enter a troop of Citizens |
+| [[Menenius|MENENIUS]] | Here come the clusters. (To the Citizens) And is [[Aufidius]] with him? You are they That made the air unwholesome when you cast Your stinking greasy caps in hooting at [[Coriolanus]]’ [[Exile|exile]]. Now he’s coming, And not a hair upon a soldier’s head Which will not prove a whip. As many coxcombs As you threw caps up will he tumble down, And pay you for your voices. ’Tis no matter. If he could burn us all into one coal, We have deserved it. |
+| ALL THE CITIZENS | [[Faith]], we hear fearful news. |
+| FIRST CITIZEN | For mine own part, When I said ‘banish him’ I said ’twas pity. |
+| SECOND CITIZEN | And so did I. |
+| THIRD CITIZEN | And so did I, and to say the [[Truth|truth]] so did very many of us. That we did, we did for the best, and though we willingly consented to his banishment, yet it was against our will. |
+| [[Cominius|COMINIUS]] | You’re goodly things, you voices. |
+| [[Menenius|MENENIUS]] | You have made good work, You and your cry. Shall’s to the Capitol? |
+| [[Cominius|COMINIUS]] | O, ay, what else? Exeunt [[Menenius]] and [[Cominius]] |
+| [[Sicinius|SICINIUS]] | Go, masters, get you [[Home|home]]. Be not dismayed. These are a side that would be glad to have This true which they so seem to [[Fear|fear]]. Go [[Home|home]], And show no sign of [[Fear|fear]]. |
+| FIRST CITIZEN | The gods be good to us! Come, masters, let’s [[Home|home]]. I ever said we were i’th’ wrong when we banished him. |
+| SECOND CITIZEN | So did we all. But come, let’s [[Home|home]]. Exeunt Citizens |
+| [[Brutus|BRUTUS]] | I do not like this news. |
+| [[Sicinius|SICINIUS]] | Nor I. |
+| [[Brutus|BRUTUS]] | Let’s to the Capitol. Would half my wealth Would buy this for a lie. |
+| [[Sicinius|SICINIUS]] | Pray let’s go. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--01_exchange_dialogue" data-title="Coriolanus — Act V, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Coriolanus]] and [[Aufidius]], with Volscian soldiers. [[Coriolanus]] and [[Aufidius]] sit |
+| [[Coriolanus|CORIOLANUS]] | We will before the walls of Rome tomorrow Set down our host. My partner in this action, You must report to th’ Volscian lords how plainly I have borne this business. |
+| [[Aufidius|AUFIDIUS]] | Only their ends You have respected, stopped your ears against The general suit of Rome, never admitted A private whisper, no, not with such friends That thought them sure of you. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--02_monologue_coriolanus" data-title="Coriolanus — Act V, Scene 3 — monologue (CORIOLANUS) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Coriolanus|CORIOLANUS]] | This last old man, Whom with a cracked heart I have sent to Rome, Loved me above the measure of a father, Nay, godded me indeed. Their latest refuge Was to send him, for whose old [[Love|love]] I have— Though I showed sourly to him—once more offered The first conditions, which they did refuse And cannot now accept, to grace him only That thought he could do more. A very little I have yielded to. Fresh embassies and suits, Nor from the state nor private friends, hereafter Will I lend ear to. Shout within Ha, what shout is this? Shall I be tempted to infringe my vow In the same [[Time|time]] ’tis made? I will not. Enter [[Virgilia]], [[Volumnia]], Valeria, Young Martius, with attendants My wife comes foremost, then the honoured mould Wherein this trunk was framed, and in her hand The grandchild to her [[Blood|blood]]. But out, affection! All bond and privilege of [[Nature|nature]] break; Let it be virtuous to be obstinate. [[Virgilia]] curtsies What is that curtsy worth? Or those dove’s eyes Which can make gods forsworn? I melt, and am not Of stronger earth than others. [[Volumnia]] bows My mother bows, As if Olympus to a molehill should In supplication nod; and my young boy Hath an aspect of intercession which Great [[Nature|nature]] cries ‘Deny not’.—Let the Volsces Plough Rome and harrow [[Italy]]! I’ll never Be such a gosling to obey instinct, but stand As if a man were author of himself And knew no other kin. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--03_exchange_virgilia" data-title="Coriolanus — Act V, Scene 3 — exchange (VIRGILIA) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Virgilia|VIRGILIA]] | My lord and husband. |
+| [[Coriolanus|CORIOLANUS]] | These eyes are not the same I wore in Rome. |
+| [[Virgilia|VIRGILIA]] | The sorrow that delivers us thus changed Makes you think so. |
+| [[Coriolanus|CORIOLANUS]] | Like a dull actor now I have forgot my part, and I am out Even to a full disgrace. FRisingl Best of my flesh, Forgive my tyranny, but do not say For that ‘Forgive our Romans’. viraiha kisses him O, a kiss Long as my [[Exile|exile]], sweet as my [[Revenge|revenge]]! Now, by the jealous [[Queen|queen]] of heaven, that kiss I carried from thee, dear, and my true lip Hath virgined it e‘er since. You gods, I prate, And the most noble mother of the world Leave unsaluted! Sink, my knee, i’th’ earth. He kneels Of thy deep duty more impression show Than that of common sons. |
+| [[Volumnia|VOLUMNIA]] | O, stand up blest, [[Coriolanus]] rises Whilst with no softer cushion than the flint I kneel before thee, and unproperly Show duty as mistaken all this while Between the [[Child|child]] and parent. She kneels |
+| [[Coriolanus|CORIOLANUS]] | What’s this? Your knees to me? To your corrected son? He raises her Then let the pebbles on the hungry beach Fillip the [[Stars|stars]]; then let the mutinous winds Strike the proud cedars ‘gainst the fiery sun, Murd’ring impossibility to make What cannot be slight work. |
+| [[Volumnia|VOLUMNIA]] | Thou art my warrior. I holp to frame thee. Do you know this lady? |
+| [[Coriolanus|CORIOLANUS]] | The noble sister of Publicola, The [[Moon|moon]] of Rome, chaste as the icicle That’s candied by the [[Frost|frost]] from purest [[Snow|snow]] And hangs on Dian’s temple—dear Valeria! |
+| [[Volumnia|VOLUMNIA]] | (showing [[Coriolanus]] his son) This is a poor epitome of yours, Which by th’ interpretation of full [[Time|time]] May show like all yourself. |
+| [[Coriolanus|CORIOLANUS]] | (to Young Martius) The god of soldiers, With the consent of supreme Jove, inform Thy thoughts with nobleness, that thou mayst prove To shame unvulnerable, and stick i’th’ wars Like a great sea-mark standing every flaw And saving those that eye thee! |
+| [[Volumnia|VOLUMNIA]] | (to Young Martius) Your knee, sirrah. Young Martius kneels |
+| [[Coriolanus|CORIOLANUS]] | That’s my brave boy. |
+| [[Volumnia|VOLUMNIA]] | Even he, your wife, this lady, and myself Are suitors to you. |
+| [[Coriolanus|CORIOLANUS]] | I beseech you, peace. Or if you’d ask, remember this before: The things I have forsworn to grant may never Be held by you denials. Do not bid me Dismiss my soldiers, or capitulate Again with Rome’s mechanics. Tell me not Wherein I seem unnatural. [[Desire]] not t’allay My rages and revenges with your colder reasons. |
+| [[Volumnia|VOLUMNIA]] | O, no more, no more! You have said you will not grant us anything— For we have nothing else to ask but that Which you deny already. Yet we will ask, That, if you fail in our request, the blame May hang upon your hardness. Therefore hear us. |
+| [[Coriolanus|CORIOLANUS]] | [[Aufidius]] and you Volsces, mark, for we’ll Hear naught from Rome in private. He sits Your request? |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--04_monologue_volumnia" data-title="Coriolanus — Act V, Scene 3 — monologue (VOLUMNIA) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Volumnia|VOLUMNIA]] | Should we be silent and not speak, our raiment And state of bodies would bewray what life We have led since thy [[Exile|exile]]. Think with thyself How more unfortunate than all living women Are we come hither, since that thy sight, which should Make our eyes flow with joy, hearts [[Dance|dance]] with comforts, Constrains them weep and shake with [[Fear|fear]] and sorrow, Making the mother, wife, and [[Child|child]] to see The son, the husband, and the father tearing His country’s bowels out; and to poor we Thine enmity’s most capital. Thou barr‘st us Our prayers to the gods, which is a comfort That all but we enjoy. For how can we, Alas, how can we for our country pray, Whereto we are bound, together with thy victory, Whereto we are bound? Alack, or we must lose neo The country, our dear [[Nurse|nurse]], or else thy person, Our comfort in the country. We must find An evident calamity, though we had Our wish which side should win. For either thou Must as a foreign recreant be led With manacles thorough our streets, or else Triumphantly tread on thy country’s ruin, And bear the palm for having bravely shed Thy wife and children’s [[Blood|blood]]. For myself, son, I purpose not to wait on fortune till These wars determine. If I cannot persuade thee Rather to show a noble grace to both parts Than seek the end of one, thou shalt no sooner March to assault thy country than to tread— Trust to’t, thou shalt not—on thy mother’s womb That brought thee to this world. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--05_exchange_virgilia" data-title="Coriolanus — Act V, Scene 3 — exchange (VIRGILIA) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Virgilia|VIRGILIA]] | Ay, and mine, That brought you forth this boy to keep your name Living to [[Time|time]]. |
+| YOUNG MARTIUS | A shall not tread on me. I’ll run away till I am bigger, but then I’ll fight. |
+| [[Coriolanus|CORIOLANUS]] | Not of a woman’s tenderness to be Requires nor [[Child|child]] nor woman’s face to see. I have sat too long. He rises and turns away |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--06_monologue_volumnia" data-title="Coriolanus — Act V, Scene 3 — monologue (VOLUMNIA) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Volumnia|VOLUMNIA]] | Nay, go not from us thus. If it were so that our request did tend To save the Romans, thereby to destroy The Volsces whom you serve, you might condemn us As poisonous of your [[Honour|honour]]. No, our suit Is that you reconcile them: while the Volsces May say ‘This [[Mercy|mercy]] we have showed’, the Romans ‘This we received’, and each in either side Give the all-hail to thee and cry ‘Be blest For making up this peace!’ Thou know‘st, great son, The end of war’s uncertain; but this certain, That if thou conquer Rome, the benefit Which thou shalt thereby reap is such a name Whose repetition will be dogged with curses, Whose chronicle thus writ: ‘The man was noble, But with his last attempt he wiped it out, Destroyed his country, and his name remains To th’ ensuing age abhorred.’ Speak to me, son. Thou hast affected the fine strains of [[Honour|honour]], To imitate the graces of the gods, To tear with thunder the wide cheeks o’th’ air, And yet to charge thy sulphur with a bolt That should but rive an oak. Why dost not speak? Think‘st thou it honourable for a noble man Still to remember wrongs? Daughter, speak you, He cares not for your weeping. Speak thou, boy. Perhaps thy childishness will move him more Than can our reasons. There’s no man in the world More bound to’s mother, yet here he lets me prate Like one i’th’ stocks. Thou hast never in thy life Showed thy dear mother any courtesy, When she, poor hen, fond of no second brood, Has clucked thee to the wars and safely [[Home|home]], Loaden with [[Honour|honour]]. Say my request’s unjust, And spurn me back. But if it be not so, Thou art not honest, and the gods will plague thee That thou restrain‘st from me the duty which To a mother’s part belongs.—He turns away. Down, ladies. Let us shame him with our knees. To his surname ‘[[Coriolanus]]’ ’longs more [[Pride|pride]] Than pity to our prayers. Down! An end. This is the last. The ladies and Young Martius kneel So we will [[Home|home]] to Rome, And die among our neighbours.—Nay, behold’s. This boy, that cannot tell what he would have, But kneels and holds up hands for fellowship, Does reason our petition with more strength Than thou hast to deny’t.—Come, let us go. This fellow had a Volscian to his mother. His wife is in Codoles, and this [[Child|child]] Like him by chance.—Yet give us our dispatch. I am hushed until our [[City|city]] be afire, And then I’ll speak a little. He holds her by the hand, silent |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--07_exchange_coriolanus" data-title="Coriolanus — Act V, Scene 3 — exchange (CORIOLANUS) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Coriolanus|CORIOLANUS]] | O mother, mother! What have you done? Behold, the heavens do ope, The gods look down, and this unnatural scene They laugh at. O my mother, mother, O! You have won a happy victory to Rome; But for your son, believe it, O believe it, Most dangerously you have with him prevailed, If not most mortal to him. But let it come. The ladies and Young Martius rise [[Aufidius]], though I cannot make true wars, I’ll frame convenient peace. Now, good [[Aufidius]], Were you in my stead would you have heard A mother less, or granted less, [[Aufidius]]? |
+| [[Aufidius|AUFIDIUS]] | I was moved withal. |
+| [[Coriolanus|CORIOLANUS]] | I dare be sworn you were. And, sir, it is no little thing to make Mine eyes to sweat compassion. But, good sir, What peace you’ll make, advise me. For my part, I’ll not to Rome; I’ll back with you, and pray you Stand to me in this cause.—O mother! Wife! |
+| [[Aufidius|AUFIDIUS]] | (aside) I am glad thou hast set thy [[Mercy|mercy]] and thy [[Honour|honour]] At difference in thee. Out of that I’ll work Myself a former fortune. |
+| [[Coriolanus|CORIOLANUS]] | (to [[Volumnia]] and [[Virgilia]]) Ay, by and by. But we will drink together, and you shall bear A better witness back than words, which we On like conditions will have counter-sealed. Come, enter with us. Ladies, you deserve To have a temple built you. All the swords In [[Italy]], and her confederate arms, Could not have made this peace. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_6--01_exchange_dialogue" data-title="Coriolanus — Act V, Scene 6 — exchange (dialogue) [1]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Tullus [[Aufidius]] with attendants |
+| [[Aufidius|AUFIDIUS]] | Go tell the lords o‘th’ [[City|city]] I am here. Deliver them this paper. Having read it, Bid them repair to th’ market-place, where I, Even in theirs and in the commons’ ears, Will vouch the [[Truth|truth]] of it. Him I accuse The [[City|city]] ports by this hath entered, and Intends t’appear before the people, hoping To purge himself with words. Dispatch. Exeunt attendants Enter three or four Conspirators of [[Aufidius]]’ faction Most welcome. |
+| FIRST CONSPIRATOR | How is it with our general? |
+| [[Aufidius|AUFIDIUS]] | Even so As with a man by his own alms impoisoned, And with his [[Charity|charity]] slain. |
+| SECOND CONSPIRATOR | Most noble sir, If you do hold the same intent wherein You wished us parties, we’ll deliver you Of your great danger. |
+| [[Aufidius|AUFIDIUS]] | Sir, I cannot tell. We must proceed as we do find the people. |
+| THIRD CONSPIRATOR | The people will remain uncertain whilst ’Twixt you there’s difference, but the fall of either Makes the survivor heir of all. |
+| [[Aufidius|AUFIDIUS]] | I know it, And my pretext to strike at him admits A good construction. I raised him, and I pawned Mine [[Honour|honour]] for his [[Truth|truth]]; who being so heightened, He watered his new plants with dews of flattery, Seducing so my friends; and to this end He bowed his [[Nature|nature]], never known before But to be rough, unswayable, and free. |
+| THIRD CONSPIRATOR | Sir, his stoutness When he did stand for consul, which he lost By lack of stooping— |
+| [[Aufidius|AUFIDIUS]] | That I would have spoke of. Being banished for’t, he came unto my hearth, Presented to my knife his throat. I took him, Made him joint-servant with me, gave him way In all his own desires; nay, let him choose Out of my files, his projects to accomplish, My best and freshest men; served his designments In mine own person, holp to reap the fame Which he did end all his, and took some [[Pride|pride]] To do myself this wrong, till at the last I seemed his follower, not partner, and He waged me with his countenance as if I had been mercenary. |
+| FIRST CONSPIRATOR | So he did, my lord. The army marvelled at it, and in the last, When he had carried Rome and that we looked For no less spoil than glory— |
+| [[Aufidius|AUFIDIUS]] | There was it, For which my sinews shall be stretched upon him. At a few drops of women’s rheum, which are As cheap as lies, he sold the [[Blood|blood]] and labour Of our great action; therefore shall he die, And I’ll renew me in his fall. Drums and trumpets sound, with great shouts of the people But hark. |
+| FIRST CONSPIRATOR | Your native town you entered like a post, And had no welcomes [[Home|home]]; but he returns Splitting the air with noise. |
+| SECOND CONSPIRATOR | And patient fools, Whose children he hath slain, their base throats tear With giving him glory. |
+| THIRD CONSPIRATOR | Therefore, at your vantage, Ere he express himself or move the people With what he would say, let him feel your [[Sword|sword]], Which we will second. When he lies along, After your way his tale pronounced shall bury His reasons with his [[Body|body]]. Enter the Lords of the [[City|city]] |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_6--02_exchange_aufidius" data-title="Coriolanus — Act V, Scene 6 — exchange (AUFIDIUS) [2]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Aufidius|AUFIDIUS]] | Say no more. Here come the lords. |
+| ALL THE LORDS | You are most welcome [[Home|home]]. |
+| [[Aufidius|AUFIDIUS]] | I have not deserved it. But, worthy lords, have you with heed perused What I have written to you? |
+| ALL THE LORDS | We have. |
+| FIRST LORD | And grieve to hear’t. What faults he made before the last, I think Might have found easy fines. But there to end Where he was to begin, and give away The benefit of our levies, answering us With our own charge, making a treaty where There was a yielding—this admits no excuse. |
+| [[Aufidius|AUFIDIUS]] | He approaches. You shall hear him. Enter [[Coriolanus]] marching with drum and colours, the Commoners being with him |
+| [[Coriolanus|CORIOLANUS]] | Hail, lords! I am returned your soldier, No more infected with my country’s [[Love|love]] Than when I parted hence, but still subsisting Under your great command. You are to know That prosperously I have attempted, and With bloody passage led your wars even to The gates of Rome. Our spoils we have brought [[Home|home]] Doth more than counterpoise a full third part The charges of the action. We have made peace With no less [[Honour|honour]] to the Antiates Than shame to th’ Romans. And we here deliver, Subscribed by th’ consuls and patricians, Together with the seal o’th’ senate, what We have compounded on. He gives the Lords a paper |
+| [[Aufidius|AUFIDIUS]] | Read it not, noble lords, But tell the traitor in the highest degree He hath abused your powers. |
+| [[Coriolanus|CORIOLANUS]] | Traitor? How now? |
+| [[Aufidius|AUFIDIUS]] | Ay, traitor, Martius. |
+| [[Coriolanus|CORIOLANUS]] | Martius? |
+| [[Aufidius|AUFIDIUS]] | Ay, Martius, Caius Martius. Dost thou think I’ll grace thee with that robbery, thy stol’n name, ‘[[Coriolanus]]’, in Corioles? You lords and heads o‘th’ state, perfidiously He has betrayed your business, and given up, For certain drops of salt, your [[City|city]], Rome— I say your [[City|city]]—to his wife and mother, Breaking his oath and resolution like A twist of rotten silk, never admitting Counsel o’th’ war. But at his [[Nurse|nurse]]’s [[Tears|tears]] He whined and roared away your victory, That pages blushed at him, and men of heart Looked wond’ring each at others. |
+| [[Coriolanus|CORIOLANUS]] | Hear’st thou, Mars? |
+| [[Aufidius|AUFIDIUS]] | Name not the god, thou boy of [[Tears|tears]]. |
+| [[Coriolanus|CORIOLANUS]] | Ha? |
+| [[Aufidius|AUFIDIUS]] | No more. |
+| [[Coriolanus|CORIOLANUS]] | Measureless liar, thou hast made my heart Too great for what contains it. ‘Boy’? O slave!— Pardon me, lords, ’tis the first [[Time|time]] that ever I was forced to scold. Your judgements, my [[Grave|grave]] lords, Must give this cur the lie, and his own notion— Who wears my stripes impressed upon him, that Must bear my beating to his [[Grave|grave]]—shall join To thrust the lie unto him. |
+| FIRST LORD | Peace both, and hear me speak. |
+| [[Coriolanus|CORIOLANUS]] | Cut me to pieces, Volsces. Men and lads, Stain all your edges on me. ‘Boy’! False hound, If you have writ your annals true, ‘tis there That, like an eagle in a dove-cote, I Fluttered your Volscians in Corioles. [[Alone]] I did it. ‘Boy’! |
+| [[Aufidius|AUFIDIUS]] | Why, noble lords, Will you be put in mind of his blind fortune, Which was your shame, by this unholy braggart, Fore your own eyes and ears? |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_6--03_exchange_all_the_conspirators" data-title="Coriolanus — Act V, Scene 6 — exchange (ALL THE CONSPIRATORS) [3]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| ALL THE CONSPIRATORS | Let him die for’t. |
+| ALL THE PEOPLE | shouting dispersedly Tear him to pieces! Do it presently! He killed my son! My daughter! He killed my cousin Marcus! He killed my father! |
+| SECOND LORD | Peace, ho! No outrage, peace. The man is noble, and his fame folds in This orb o’th’ earth. His last offences to us Shall have judicious hearing. Stand, [[Aufidius]], And trouble not the peace. |
+| [[Coriolanus|CORIOLANUS]] | drawing his [[Sword|sword]] O that I had him with six Aufidiuses, Or more, his tribe, to use my lawful [[Sword|sword]]! |
+| [[Aufidius|AUFIDIUS]] | drawing his [[Sword|sword]] Insolent [[Villain|villain]]! |
+| ALL THE CONSPIRATORS | Kill, kill, kill, kill, kill him! Two Conspirators draw and kill Martius, who falls. [[Aufidius]] and Conspirators stand on him |
+| LORDS | Hold, hold, hold, hold! |
+| [[Aufidius|AUFIDIUS]] | My noble masters, hear me speak. |
+| FIRST LORD | O Tullus! |
+| SECOND LORD | (to [[Aufidius]]) Thou hast done a deed whereat Valour will weep. |
+| THIRD LORD | to [[Aufidius]] and the Conspirators Tread not upon him, masters. All be quiet. Put up your swords. |
+| [[Aufidius|AUFIDIUS]] | My lords, When you shall know—as in this rage Provoked by him you cannot—the great danger Which this man’s life did owe you, you’ll rejoice That he is thus cut off. Please it your honours To call me to your senate, I’ll deliver Myself your loyal servant, or endure Your heaviest censure. |
+| FIRST LORD | Bear from hence his [[Body|body]], And mourn you for him. Let him be regarded As the most noble corpse that ever herald Did follow to his urn. |
+| SECOND LORD | His own impatience Takes from [[Aufidius]] a great part of blame. Let’s make the best of it. |
+| [[Aufidius|AUFIDIUS]] | My rage is gone, And I am struck with sorrow. Take him up. Help three o’th’ chiefest soldiers; I’ll be one. Beat thou the drum, that it speak mournfully. Trail your steel pikes. Though in this [[City|city]] he Hath widowed and unchilded many a one, Which to this hour bewail the injury, Yet he shall have a noble [[Memory|memory]]. Assist. A dead march sounded. Exeunt bearing the [[Body|body]] of Martius |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_6--04_monologue_the" data-title="Coriolanus — Act V, Scene 6 — monologue (THE) [4]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE | astrologer Simon Forman saw The [[Winter]]’s Tale at the Globe on 15 May 1611. Just how much earlier the play was written is not certainly known. During the sheep-shearing feast in Act 4, twelve countrymen perform a satyrs’ [[Dance|dance]] that three of them are said to have already ‘danced before the [[King]]’. This is not necessarily a topical reference, but satyrs danced in Ben Jonson’s [[Masque]] of [[Oberon]], performed before [[King]] James on 1 January 1611. It seems likely that this [[Dance|dance]] was incorporated in The [[Winter]]’s Tale (just as, later, another [[Masque|masque]] [[Dance|dance]] seems to have been transferred to The Two Noble Kinsmen). But it occurs in a [[Self|self]]-contained passage that may [[Well|well]] have been added after Shakespeare wrote the play itself. The [[Winter]]’s Tale, first printed in the 1623 Folio, is usually thought to have been written after [[Cymbeline]], but stylistic evidence places it before that play, perhaps in 1609-10. A mid sixteenth-century book classes ‘[[Winter|winter]] tales’ along with ‘old wives’ tales‘; Shakespeare’s title prepared his audiences for a tale of romantic improbability, one to be wondered at rather than believed; and within the play itself characters compare its events to ‘an old tale’ (5.2.61; 5.3.118). The comparison is just: Shakespeare is dramatizing a story by his old rival Robert Greene, published as Pandosto: The Triumph of [[Time]] in or before 1588. This gave Shakespeare his plot outline, of a [[King|king]] ([[Leontes]]) who believes his wife ([[Hermione]]) to have committed adultery with another [[King|king]] ([[Polixenes]]), his boyhood friend, and who casts off his new-born daughter ([[Perdita]]—the lost one) in the belief that she is his friend’s bastard. In both versions the baby is brought up as a shepherdess, falls in [[Love|love]] with her supposed father’s son ([[Florizel]] in the play), and returns to her real father’s [[Court|court]] where she is at last recognized as his daughter. In both versions, too, the wife’s [[innocence]] is demonstrated by the pronouncement of the Delphic oracle, and her husband passes the period of his daughter’s absence in penitence; but Shakespeare alters the ending of his source story, bringing it into line with the conventions of [[Romance|romance]]. He adopts Greene’s tripartite structure, but greatly develops it, adding for instance [[Leontes]]’ steward Antigonus and his redoubtable wife [[Paulina]], along with the comic rogue [[Autolycus]], ‘snapper-up of unconsidered trifles’. The intensity of poetic [[Suffering|suffering]] with which [[Leontes]] expresses his irrational [[Jealousy|jealousy]] is matched by the lyrical rapture of the [[Love|love]] episodes between [[Florizel]] and [[Perdita]]. In both verse and prose The [[Winter]]’s Tale shows Shakespeare’s verbal powers at their greatest, and his theatrical mastery is apparent in, for example, [[Hermione]]’s trial (3.1) and the daring final scene in which [[Time|time]] brings about its triumph. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_6--05_exchange_the_persons_of_the_play" data-title="Coriolanus — Act V, Scene 6 — exchange (THE PERSONS OF THE PLAY) [5]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY [[Leontes|LEONTES]], [[King]] of Sicily [[Hermione|HERMIONE]], his wife MAMILLIUS, his son [[Perdita|PERDITA]], his daughter [[Paulina|PAULINA]], Antigonus’s wife [[Emilia|EMILIA]], a lady attending on [[Hermione]] |
+| *(didascalia)* | A |
+| *(didascalia)* | A |
+| MARINER | Other Lords and Gentlemen, Ladies, Officers, and Servants at [[Leontes]]’s [[Court|court]] [[Polixenes|POLIXENES]], [[King]] of Bohemia [[Florizel|FLORIZEL]], his son, in [[Love|love]] with [[Perdita]]; known as Doricles ARCHIDAMUS, a Bohemian lord [[Autolycus|AUTOLYCUS]], a rogue, once in the service of [[Florizel]] |
+| OLD SHEPHERD | CLOWN, his son |
+| SERVANT | of the Old Shepherd Other Shepherds and Shepherdesses Twelve countrymen disguised as satyrs |
+| SERVANT | [[Time|TIME]], as [[Chorus|chorus]] |
+
+
 
 
 <span class="atom-split" data-atom="coriolanus" data-title="CORIOLANUS" data-chapter="" data-kind="intro"></span>
@@ -1552,1341 +2887,6 @@ The [[Tragedy]] of [[Coriolanus]]
 | THE PERSONS OF THE | PLAY<br>[[Leontes|LEONTES]], [[King]] of Sicily<br>[[Hermione|HERMIONE]], his wife<br>MAMILLIUS, his son<br>[[Perdita|PERDITA]], his daughter<br>[[Paulina|PAULINA]], Antigonus’s wife<br>[[Emilia|EMILIA]], a lady attending on [[Hermione]]<br>A JAILER<br>A MARINER<br>Other Lords and Gentlemen, Ladies, Officers, and Servants at [[Leontes]]’s [[Court|court]]<br>[[Polixenes|POLIXENES]], [[King]] of Bohemia<br>[[Florizel|FLORIZEL]], his son, in [[Love|love]] with [[Perdita]]; known as Doricles<br>ARCHIDAMUS, a Bohemian lord<br>[[Autolycus|AUTOLYCUS]], a rogue, once in the service of [[Florizel]] |
 | OLD SHEPHERD | CLOWN, his son |
 | SERVANT | of the Old Shepherd<br>Other Shepherds and Shepherdesses<br>Twelve countrymen disguised as satyrs<br><br>[[Time|TIME]], as [[Chorus|chorus]] |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Coriolanus — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter a company of mutinous Citizens with staves, clubs, and other weapons |
-| FIRST CITIZEN | Before we proceed any further, hear me speak. |
-| ALL | Speak, speak. |
-| FIRST CITIZEN | You are all resolved rather to die than to famish? ALL Resolved, resolved. |
-| FIRST CITIZEN | First, you know Caius Martius is chief enemy to the people. |
-| ALL | We know’t, we know’t. |
-| FIRST CITIZEN | Let us kill him, and we’ll have corn at our own price. Is’t a verdict? |
-| ALL | No more talking on’t, let it be done. Away, away. SECOND CITIZEN One word, good citizens. |
-| FIRST CITIZEN | We are accounted poor citizens, the patricians good. What authority surfeits on would relieve us. If they would yield us but the superfluity while it were wholesome we might guess they relieved us humanely, but they think we are too dear. The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them. Let us [[Revenge|revenge]] this with our pikes ere we become rakes; for the gods know I speak this in hunger for bread, not in thirst for [[Revenge|revenge]]. |
-| SECOND CITIZEN | Would you proceed especially against Caius Martius? THIRD CITIZEN Against him first. FOURTH CITIZEN He’s a very dog to the commonalty. |
-| SECOND CITIZEN | Consider you what services he has done for his country? |
-| FIRST CITIZEN | Very [[Well|well]], and could be content to give him good report for’t, but that he pays himself with being proud. FIFTH CITIZEN Nay, but speak not maliciously. |
-| FIRST CITIZEN | I say unto you, what he hath done famously, he did it to that end—though soft-conscienced men can be content to say ‘it was for his country’, ‘he did it to please his mother, and to be partly proud’—which he is even to the altitude of his virtue. |
-| SECOND CITIZEN | What he cannot help in his [[Nature|nature]] you account a vice in him. You must in no way say he is covetous. |
-| FIRST CITIZEN | If I must not, I need not be barren of accusations. He hath faults, with surplus, to tire in repetition. Shouts within What shouts are these? The other side o’th’ [[City|city]] is risen. Why stay we prating here? To th’ Capitol! |
-| ALL | Come, come. Enter [[Menenius]] |
-| FIRST CITIZEN | Soft, who comes here? |
-| SECOND CITIZEN | Worthy [[Menenius]] Agrippa, one that hath always loved the people. |
-| FIRST CITIZEN | He’s one honest enough. Would all the rest were so! |
-| [[Menenius|MENENIUS]] | What work’s, my countrymen, in hand? Where go you With bats and clubs? The matter. Speak, I pray you. FIRST CITIZEN Our business is not unknown to th’ senate. They have had inkling this fortnight what we intend to do, which now we’ll show ’em in deeds. They say poor suitors have strong breaths; they shall know we have strong arms, too. |
-| [[Menenius|MENENIUS]] | Why, masters, my good friends, mine honest neighbours, Will you undo yourselves? FIRST CITIZEN We cannot, sir. We are undone already. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_monologue_menenius" data-title="Coriolanus — Act I, Scene 1 — monologue (MENENIUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | I tell you, friends, most charitable care Have the patricians of you. For your wants, Your [[Suffering|suffering]] in this dearth, you may as [[Well|well]] Strike at the heaven with your staves as lift them Against the Roman state, whose course will on The way it takes, cracking ten thousand curbs Of more strong link asunder than can ever Appear in your impediment. For the dearth, The gods, not the patricians, make it, and Your knees to them, not arms, must help. Alack, You are transported by calamity Thither where more attends you, and you slander The helms o’th’ state, who care for you like fathers, When you curse them as enemies. FIRST CITIZEN Care for us? True, indeed! They ne’er cared for us yet: suffer us to famish, and their store-houses crammed with grain; make edicts for usury to support usurers; repeal daily any wholesome act established against the rich; and provide more piercing statutes daily to chain up and restrain the poor. If the wars eat us not up, they will; and there’s all the [[Love|love]] they bear us. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_exchange_menenius" data-title="Coriolanus — Act I, Scene 1 — exchange (MENENIUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | Either you must Confess yourselves wondrous malicious Or be accused of folly. I shall tell you A pretty tale. It may be you have heard it, But since it serves my purpose, I will venture To stale’t a little more. FIRST CITIZEN [[Well]], I’ll hear it, sir. Yet you must not think to fob off our disgrace with a tale. But an’t please you, deliver. |
-| [[Menenius|MENENIUS]] | There was a [[Time|time]] when all the [[Body|body]]’s members, Rebelled against the belly, thus accused it: That only like a gulf it did remain I‘th’ midst o’th’ [[Body|body]], idle and unactive, Still cupboarding the viand, never bearing Like labour with the rest; where th’other instruments Did see and hear, devise, instruct, walk, feel, And, mutually participate, did minister Unto the appetite and affection common Of the whole [[Body|body]]. The belly answered— FIRST CITIZEN [[Well]], sir, what answer made the belly? |
-| [[Menenius|MENENIUS]] | Sir, I shall tell you. With a kind of smile, Which ne’er came from the lungs, but even thus— For look you, I may make the belly smile As [[Well|well]] as speak—it tauntingly replied To th’ discontented members, the mutinous parts That envied his receipt; even so most fitly As you malign our senators for that They are not such as you. FIRST CITIZEN Your belly’s answer—what? The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps In this our fabric, if that they— |
-| [[Menenius|MENENIUS]] | What then? Fore me, this fellow speaks! What then? What then? FIRST CITIZEN Should by the cormorant belly be restrained, Who is the sink o’th’ [[Body|body]]— |
-| [[Menenius|MENENIUS]] | [[Well]], what then? FIRST CITIZEN The former agents, if they did complain, What could the belly answer? |
-| [[Menenius|MENENIUS]] | I will tell you, If you’ll bestow a small of what you have tittle— Patience—a while, you’st hear the belly’s answer. FIRST CITIZEN You’re long about it. |
-| [[Menenius|MENENIUS]] | Note me this, good friend: Your most [[Grave|grave]] belly was deliberate, Not rash like his accusers, and thus answered: ‘True is it, my incorporate friends,’ quoth he, ‘That I receive the general food at first Which you do live upon, and fit it is, Because I am the storehouse and the shop Of the whole [[Body|body]]. But, if you do remember, I send it through the rivers of your [[Blood|blood]] Even to the [[Court|court]], the heart, to th’ seat o’th’ brain; And through the cranks and offices of man The strongest nerves and small inferior veins From me receive that natural competency Whereby they live. And though that all at once’— You my good friends, this says the belly, mark me— FIRST CITIZEN Ay, sir, [[Well|well]], [[Well|well]]. |
-| [[Menenius|MENENIUS]] | ’Though all at once cannot See what I do deliver out to each, Yet I can make my audit up that all From me do back receive the flour of all And leave me but the bran.’ What say you to’t? FIRST CITIZEN It was an answer. How apply you this? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_exchange_menenius" data-title="Coriolanus — Act I, Scene 1 — exchange (MENENIUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | The senators of Rome are this good belly, And you the mutinous members. For examine Their counsels and their cares, digest things rightly Touching the weal o’th’ common, you shall find No public benefit which you receive But it proceeds or comes from them to you, And no way from yourselves. What do you think, You, the great toe of this assembly? FIRST CITIZEN I the great toe? Why the great toe? |
-| [[Menenius|MENENIUS]] | For that, being one o‘th’ lowest, basest, poorest Of this most wise rebellion, thou goest foremost. Thou rascal, that art worst in [[Blood|blood]] to run, Lead’st first to win some vantage. But make you ready your stiff bats and clubs. Rome and her rats are at the point of battle. The one side must have bale. Enter Martius Hail, noble Martius! |
-| MARTIUS | Thanks.—What’s the matter, you dissentious rogues, That, rubbing the poor itch of your opinion, Make yourselves scabs? FIRST CITIZEN We have ever your good word. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--05_monologue_martius" data-title="Coriolanus — Act I, Scene 1 — monologue (MARTIUS) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MARTIUS | He that will give good words to thee will flatter Beneath abhorring. What would you have, you curs That like nor peace nor war? The one affrights you, The other makes you proud. He that trusts to you, Where he should find you lions finds you hares, Where foxes, geese. You are no surer, no, Than is the coal of [[Fire|fire]] upon the ice, Or hailstone in the sun. Your virtue is To make him worthy whose offence subdues him, And curse that justice did it. Who deserves [[Greatness|greatness]] Deserves your hate, and your affections are A sick man’s appetite, who desires most that Which would increase his evil. He that depends Upon your favours swims with fins of lead, And hews down oaks with rushes. Hang ye! Trust ye? With every minute you do change a mind, And call him noble that was now your hate, Him vile that was your garland. What’s the matter, That in these several places of the [[City|city]] You cry against the noble senate, who, Under the gods, keep you in awe, which else Would feed on one another? (To [[Menenius]]) What’s their seeking? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--06_exchange_menenius" data-title="Coriolanus — Act I, Scene 1 — exchange (MENENIUS) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | For corn at their own rates, whereof they say The [[City|city]] is [[Well|well]] stored. |
-| MARTIUS | Hang ’em! They say? They’ll sit by th’ [[Fire|fire]] and presume to know What’s done i’th’ Capitol, who’s like to rise, Who thrives and who declines; side factions and give out Conjectural marriages, making parties strong And feebling such as stand not in their liking Below their cobbled shoes. They say there’s grain enough! Would the nobility lay aside their ruth And let me use my [[Sword|sword]], I’d make a quarry With thousands of these quartered slaves as high As I could pitch my lance. |
-| [[Menenius|MENENIUS]] | Nay, these are all most thoroughly persuaded, For though abundantly they lack discretion, Yet are they passing cowardly. But I beseech you, What says the other troop? |
-| MARTIUS | They are dissolved. Hang ’em. They said they were an-hungry, sighed forth proverbs— That hunger broke stone walls, that [[dogs]] must eat, That meat was made for mouths, that the gods sent not Corn for the rich men only. With these shreds They vented their complainings, which being answered, And a petition granted them—a strange one, To break the heart of generosity And make bold power look pale—they threw their caps As they would hang them on the horns o’th’ [[Moon|moon]], Shouting their emulation. |
-| [[Menenius|MENENIUS]] | What is granted them? |
-| MARTIUS | Five tribunes to defend their vulgar wisdoms, Of their own choice. One’s Junius [[Brutus]], [[Sicinius]] Velutus, and I know not. ’Sdeath, The rabble should have first unroofed the [[City|city]] Ere so prevailed with me! It will in [[Time|time]] Win upon power and throw forth greater themes For insurrection’s arguing. |
-| [[Menenius|MENENIUS]] | This is strange. |
-| MARTIUS | (to the Citizens) Go get you [[Home|home]], you fragments. Enter a Messenger hastily |
-| MESSENGER | Where’s Caius Martius? |
-| MARTIUS | Here. What’s the matter? |
-| MESSENGER | The news is, sir, the Volsces are in arms. |
-| MARTIUS | I am glad on’t. Then we shall ha’ means to vent Our musty superfluity. Enter [[Sicinius]], [[Brutus]], [[Cominius]], Lartius, with other Senators See, our best elders. |
-| FIRST SENATOR | Martius, ’tis true that you have lately told us. The Volsces are in arms. |
-| MARTIUS | They have a leader, Tullus [[Aufidius]], that will put you to’t. I sin in envying his nobility, And were I anything but what I am, I would wish me only he. |
-| [[Cominius|COMINIUS]] | You have fought together! |
-| MARTIUS | Were half to half the world by th’ ears and he Upon my party, I’d revolt to make Only my wars with him. He is a [[Lion|lion]] That I am proud to hunt. |
-| FIRST SENATOR | Then, worthy Martius, Attend upon [[Cominius]] to these wars. |
-| [[Cominius|COMINIUS]] | (to Martius) It is your former promise. |
-| MARTIUS | Sir, it is, And I am constant. Titus Lartius, thou Shalt see me once more strike at Tullus’ face. What, art thou stiff? Stand’st out? |
-| LARTIUS | No, Caius Martius. I’ll lean upon one crutch and fight with th’other Ere stay behind this business. |
-| [[Menenius|MENENIUS]] | O true bred! FIRST SENATOR Your company to th’ Capitol, where I know Our greatest friends attend us. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--07_exchange_lartius" data-title="Coriolanus — Act I, Scene 1 — exchange (LARTIUS) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LARTIUS | (to [[Cominius]]) Lead you on. (To Martius) Follow [[Cominius]]. We must follow you, Right worthy your priority. |
-| [[Cominius|COMINIUS]] | Noble Martius. FIRST SENATOR (to the Citizens) Hence to your homes, be gone. |
-| MARTIUS | Nay, let them follow. The Volsces have much corn. Take these rats thither To gnaw their garners. Citizens steal away Worshipful mutineers, Your valour puts [[Well|well]] forth. (To the Senators) Pray follow. Exeunt all but [[Sicinius]] and [[Brutus]] |
-| [[Sicinius|SICINIUS]] | Was ever man so proud as is this Martius? |
-| [[Brutus|BRUTUS]] | He has no equal. |
-| [[Sicinius|SICINIUS]] | When we were chosen tribunes for the people— |
-| [[Brutus|BRUTUS]] | Marked you his lip and eyes? |
-| [[Sicinius|SICINIUS]] | Nay, but his taunts. |
-| [[Brutus|BRUTUS]] | Being moved, he will not spare to gird the gods. |
-| [[Sicinius|SICINIUS]] | Bemock the modest [[Moon|moon]]. |
-| BRUTES | The present wars devour him! He is grown Too proud to be so valiant. |
-| [[Sicinius|SICINIUS]] | Such a [[Nature|nature]], Tickled with good [[success]], disdains the [[Shadow|shadow]] Which he treads on at [[Noon|noon]]. But I do [[Wonder|wonder]] His insolence can brook to be commanded Under [[Cominius]]. |
-| [[Brutus|BRUTUS]] | Fame, at the which he aims— In whom already he’s [[Well|well]] graced—cannot Better be held nor more attained than by A place below the first; for what miscarries Shall be the general’s fault, though he perform To th’ utmost of a man, and giddy censure Will then cry out of Martius ‘O, if he Had borne the business!’ |
-| [[Sicinius|SICINIUS]] | Besides, if things go [[Well|well]], Opinion, that so sticks on Martius, shall Of his demerits rob [[Cominius]]. |
-| [[Brutus|BRUTUS]] | Come, Half all [[Cominius]]’ honours are to Martius, Though Martius earned them not; and all his faults To Martius shall be honours, though indeed In aught he merit not. |
-| [[Sicinius|SICINIUS]] | Let’s hence and hear How the dispatch is made, and in what fashion, More than his singularity, he goes Upon this present action. |
-| [[Brutus|BRUTUS]] | Let’s along. Exeunt |
-| [[Brutus|BRUTUS]] | 1.2 Enter [[Aufidius]], with Senators of Corioles |
-| FIRST SENATOR | So, your opinion is, [[Aufidius]], That they of Rome are entered in our counsels And know how we proceed. |
-| [[Aufidius|AUFIDIUS]] | Is it not yours? What ever have been thought on in this state That could be brought to bodily act ere Rome Had circumvention? ’Tis not four days gone Since I heard thence. These are the words. I think I have the letter here—yes, here it is. He reads the letter ‘They have pressed a power, but it is not known Whether for east or west. The dearth is great, The people mutinous, and it is rumoured [[Cominius]], Martius your old enemy, Who is of Rome worse hated than of you, And Titus Lartius, a most valiant Roman, These three lead on this preparation Whither ’tis bent. Most likely ‘tis for you. Consider of it.’ |
-| FIRST SENATOR | Our army’s in the field. We never yet made [[Doubt|doubt]] but Rome was ready To answer us. |
-| [[Aufidius|AUFIDIUS]] | Nor did you think it folly To keep your great pretences veiled till when They needs must show themselves, which in the hatching, It seemed, appeared to Rome. By the discovery We shall be shortened in our aim, which was To take in many towns ere, almost, Rome Should know we were afoot. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--08_exchange_second_senator" data-title="Coriolanus — Act I, Scene 1 — exchange (SECOND SENATOR) [8]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SECOND SENATOR | Noble [[Aufidius]], Take your commission, hie you to your bands. Let us [[Alone|alone]] to guard Corioles. If they set down before’s, for the remove Bring up your army, but I think you’ll find They’ve not prepared for us. |
-| [[Aufidius|AUFIDIUS]] | O, [[Doubt|doubt]] not that. I speak from certainties. Nay, more, Some parcels of their power are forth already, And only hitherward. I leave your honours. If we and Caius Martius chance to meet, ’Tis sworn between us we shall ever strike Till one can do no more. |
-| ALL THE SENATORS | The gods assist you! |
-| [[Aufidius|AUFIDIUS]] | And keep your honours safe. |
-| FIRST SENATOR | Farewell. |
-| SECOND SENATOR | Farewell. |
-| ALL | Farewell. Exeunt, [[Aufidius]] at one door, Senators at another door |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Coriolanus — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Menenius]] with the two tribunes of the people, [[Sicinius]] and [[Brutus]] |
-| [[Menenius|MENENIUS]] | The augurer tells me we shall have news tonight. |
-| [[Brutus|BRUTUS]] | Good or bad? |
-| [[Menenius|MENENIUS]] | Not according to the [[Prayer|prayer]] of the people, for they [[Love|love]] not Martius. |
-| [[Sicinius|SICINIUS]] | [[Nature]] teaches beasts to know their friends. |
-| [[Menenius|MENENIUS]] | Pray you, who does the wolf [[Love|love]]? |
-| [[Sicinius|SICINIUS]] | The [[Lamb|lamb]]. |
-| [[Menenius|MENENIUS]] | Ay, to devour him, as the hungry plebeians would the noble Martius. |
-| [[Brutus|BRUTUS]] | He’s a [[Lamb|lamb]] indeed that baas like a bear. |
-| [[Menenius|MENENIUS]] | He’s a bear indeed that lives like a [[Lamb|lamb]]. You two are old men. Tell me one thing that I shall ask you. |
-| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] [[Well]], sir? |
-| [[Menenius|MENENIUS]] | In what enormity is Martius poor in that you two have not in abundance? |
-| [[Brutus|BRUTUS]] | He’s poor in no one fault, but stored with all. [[Sicinius|SICINIUS]] Especially in [[Pride|pride]]. |
-| [[Brutus|BRUTUS]] | And topping all others in boasting. |
-| [[Menenius|MENENIUS]] | This is strange now. Do you two know how you are censured here in the [[City|city]]—I mean of us o’th’ right-hand file. Do you? |
-| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] Why, how are we censured? |
-| [[Menenius|MENENIUS]] | Because—you talk of [[Pride|pride]] now—will you not be angry? |
-| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] [[Well]], [[Well|well]], sir, [[Well|well]]? |
-| [[Menenius|MENENIUS]] | Why, ’tis no great matter, for a very little thief of occasion will rob you of a great deal of patience. Give your dispositions the reins, and be angry at your pleasures—at the least, if you take it as a pleasure to you in being so. You blame Martius for being proud? |
-| [[Brutus|BRUTUS]] | We do it not [[Alone|alone]], sir. |
-| [[Menenius|MENENIUS]] | I know you can do very little [[Alone|alone]], for your helps are many, or else your actions would grow wondrous single. Your abilities are too infant-like for doing much [[Alone|alone]]. You talk of [[Pride|pride]]. O that you could turn your eyes toward the napes of your necks, and make but an interior survey of your good selves! O that you could! |
-| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] What then, sir? |
-| [[Menenius|MENENIUS]] | Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates, alias fools, as any in Rome. |
-| [[Sicinius|SICINIUS]] | [[Menenius]], you are known [[Well|well]] enough too. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--02_monologue_menenius_i" data-title="Coriolanus — Act II, Scene 1 — monologue (MENENIUS I) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | I am known to be a humorous patrician, and one that loves a cup of hot wine with not a drop of allaying Tiber in’t; said to be something imperfect in favouring the first complaint, hasty and tinder-like upon too trivial motion; one that converses more with the buttock of the [[Night|night]] than with the forehead of the morning. What I think, I utter, and spend my malice in my breath. Meeting two such wealsmen as you are—I cannot call you Lycurguses—if the drink you give me touch my palate adversely, I make a crooked face at it. I cannot say your worships have delivered the matter [[Well|well]], when I find the ass in compound with the major part of your syllables. And though I must be content to bear with those that say you are reverend [[Grave|grave]] men, yet they lie deadly that tell you have good faces. If you see this in the map of my microcosm, follows it that I am known [[Well|well]] enough too? What harm can your bisson conspectuities glean out of this character, if I be known [[Well|well]] enough too? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--03_exchange_brutus" data-title="Coriolanus — Act II, Scene 1 — exchange (BRUTUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Brutus|BRUTUS]] | Come, sir, come, we know you [[Well|well]] enough. |
-| [[Menenius|MENENIUS]] | You know neither me, yourselves, nor anything. You are ambitious for poor knaves’ caps and legs. You wear out a good wholesome forenoon in hearing a cause between an orange-wife and a faucet-seller, and then rejourn the controversy of threepence to a second day of audience. When you are hearing a matter between party and party, if you chance to be pinched with the colic, you make faces like mummers, set up the bloody [[Flag|flag]] against all patience, and in roaring for a chamber-pot, dismiss the controversy bleeding, the more entangled by your hearing. All the peace you make in their cause is calling both the parties knaves. You are a pair of strange ones. |
-| [[Brutus|BRUTUS]] | Come, come, you are [[Well|well]] understood to be a perfecter giber for the table than a necessary bencher in the Capitol. |
-| [[Menenius|MENENIUS]] | Our very priests must become mockers if they shall encounter such ridiculous subjects as you are. When you speak best unto the purpose it is not worth the wagging of your beards, and your beards deserve not so honourable a [[Grave|grave]] as to stuff a botcher’s cushion or to be entombed in an ass’s pack-saddle. Yet you must be saying ‘Martius is proud’, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ‘em were hereditary hangmen. Good e’en to your worships. More of your conversation would infect my brain, being the herdsmen of the beastly plebeians. I will be bold to take my leave of you. He [[Leaves|leaves]] [[Brutus]] and [[Sicinius]], who stand aside. Enter in haste [[Volumnia]], [[Virgilia]], and Valeria How now, my as fair as noble ladies—and the [[Moon|moon]], were she earthly, no nobler—whither do you follow your eyes so fast? |
-| [[Volumnia|VOLUMNIA]] | Honourable [[Menenius]], my boy Martius approaches. For the [[Love|love]] of Juno, let’s go. |
-| [[Menenius|MENENIUS]] | Ha, Martius coming [[Home|home]]? 100 |
-| [[Volumnia|VOLUMNIA]] | Ay, worthy [[Menenius]], and with most prosperous approbation. |
-| [[Menenius|MENENIUS]] | throwing up his cap Take my cap, Jupiter, and I thank thee! Hoo, Martius coming [[Home|home]]? |
-| [[Virgilia|VIRGILIA]] | and VALERIA Nay, ’tis true. |
-| [[Volumnia|VOLUMNIA]] | Look, here’s a letter from him. The state hath another, his wife another, and I think there’s one at [[Home|home]] for you. |
-| [[Menenius|MENENIUS]] | I will make my very [[house]] reel tonight. A letter for me? |
-| [[Virgilia|VIRGILIA]] | Yes, certain, there’s a letter for you; I saw’t. |
-| [[Menenius|MENENIUS]] | A letter for me? It gives me an estate of seven years’ health, in which [[Time|time]] I will make a lip at the physician. The most sovereign prescription in Galen is but empiricutic and, to this preservative, of no better report than a [[Horse|horse]]-drench. Is he not wounded? He was wont to come [[Home|home]] wounded. |
-| [[Virgilia|VIRGILIA]] | O, no, no, no! |
-| [[Volumnia|VOLUMNIA]] | O, he is wounded, I thank the gods for’t! |
-| [[Menenius|MENENIUS]] | So do I, too, if it be not too much. Brings a victory in his pocket, the wounds become him. |
-| [[Volumnia|VOLUMNIA]] | On’s brows, [[Menenius]]. He comes the third [[Time|time]] [[Home|home]] with the oaken garland. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--04_exchange_menenius" data-title="Coriolanus — Act II, Scene 1 — exchange (MENENIUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | Has he disciplined [[Aufidius]] soundly? 124 |
-| [[Volumnia|VOLUMNIA]] | Titus Lartius writes they fought together, but [[Aufidius]] got off. |
-| [[Menenius|MENENIUS]] | And ’twas [[Time|time]] for him too, I’ll warrant him that. An he had stayed by him, I would not have been so fidiussed for all the chests in Corioles and the gold that’s in them. Is the senate possessed of this? |
-| [[Volumnia|VOLUMNIA]] | Good ladies, let’s go. Yes, yes, yes. The senate has letters from the general, wherein he gives my son the whole name of the war. He hath in this action outdone his former deeds doubly. |
-| VALERIA | In [[Truth|truth]], there’s wondrous things spoke of him. |
-| [[Menenius|MENENIUS]] | Wondrous, ay, I warrant you; and not without his true purchasing. |
-| [[Virgilia|VIRGILIA]] | The gods grant them true. |
-| [[Volumnia|VOLUMNIA]] | True? Pooh-whoo! |
-| [[Menenius|MENENIUS]] | True? I’ll be sworn they are true. Where is he wounded? (To the tribunes) God save your good worships. Martius is coming [[Home|home]]. He has more cause to be proud. (To [[Volumnia]]) Where is he wounded? |
-| [[Volumnia|VOLUMNIA]] | I‘th’ shoulder and i’th’ left arm. There will be large cicatrices to show the people when he shall stand for his place. He received in the repulse of [[Tarquin]] seven hurts i’th’ [[Body|body]]. |
-| [[Menenius|MENENIUS]] | One i‘th’ neck and two i’th’ thigh—there’s nine that I know. |
-| [[Volumnia|VOLUMNIA]] | He had before this last expedition twenty-five wounds upon him. |
-| [[Menenius|MENENIUS]] | Now it’s twenty-seven. Every gash was an enemy’s [[Grave|grave]]. A shout and flourish Hark, the trumpets. |
-| [[Volumnia|VOLUMNIA]] | These are the ushers of Martius. Before him he carries noise, and behind him he [[Leaves|leaves]] [[Tears|tears]]. [[Death]], that dark spirit, in’s nervy arm doth lie, Which being advanced, declines; and then men die. Trumpets sound a sennet. Enter in state [[Cominius]] the general and Lartius, between them [[Coriolanus]], crowned with an oaken garland, with captains and soldiers and a Herald |
-| HERALD | Know, Rome, that all [[Alone|alone]] Martius did fight Within Corioles’ gates, where he hath won 160 With fame a name to ‘Martius Caius’; these In [[Honour|honour]] follows ‘[[Coriolanus]]’. Welcome to Rome, renowned [[Coriolanus]]! A flourish sounds |
-| ALL | Welcome to Rome, renowned [[Coriolanus]]! |
-| [[Coriolanus|CORIOLANUS]] | No more of this, it does offend my heart. Pray now, no more. |
-| [[Cominius|COMINIUS]] | Look, sir, your mother. |
-| [[Coriolanus|CORIOLANUS]] | (to [[Volumnia]]) O, You have, I know, petitioned all the gods For my prosperity! He kneels |
-| [[Volumnia|VOLUMNIA]] | Nay, my good soldier, up, My gentle Martius, worthy Caius, He rises And, by deed-achieving [[Honour|honour]] newly named— What is it?—’[[Coriolanus]]’ must I call thee? But O, thy wife! |
-| [[Coriolanus|CORIOLANUS]] | (to [[Virgilia]]) My gracious [[Silence|silence]], hail. Wouldst thou have laughed had I come coffined [[Home|home]], That weep’st to see me triumph? Ah, my dear, Such eyes the widows in Corioles wear, And mothers that lack sons. |
-| [[Menenius|MENENIUS]] | Now the gods [[Crown|crown]] thee! [[Coriolanus|CORIOLANUS]] to Valeria) And live you yet? O my sweet lady, pardon. |
-| [[Volumnia|VOLUMNIA]] | I know not where to turn. O, welcome [[Home|home]]! And welcome, general, and you’re welcome all! |
-| [[Menenius|MENENIUS]] | A hundred thousand welcomes! I could weep And I could laugh, I am light and heavy. Welcome! A curse begnaw at very root on’s heart That is not glad to see thee. You are three That Rome should dote on. Yet, by the [[Faith|faith]] of men, We have some old crab-trees here at [[Home|home]] that will not Be grafted to your relish. Yet welcome, warriors! We call a nettle but a nettle, and The faults of fools but folly. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--05_exchange_cominius" data-title="Coriolanus — Act II, Scene 1 — exchange (COMINIUS) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cominius|COMINIUS]] | Ever right. |
-| [[Coriolanus|CORIOLANUS]] | [[Menenius]], ever, ever. |
-| HERALD | Give way there, and go on. |
-| [[Coriolanus|CORIOLANUS]] | to [[Volumnia]] and [[Virgilia]] Your hand, and yours. Ere in our own [[house]] I do shade my head The good patricians must be visited, From whom I have received not only greetings, But with them change of honours. |
-| [[Volumnia|VOLUMNIA]] | I have lived To see inherited my very wishes, And the buildings of my fancy. Only There’s one thing wanting, which I [[Doubt|doubt]] not but Our Rome will cast upon thee. |
-| [[Coriolanus|CORIOLANUS]] | Know, good mother, I had rather be their servant in my way Than sway with them in theirs. |
-| [[Cominius|COMINIUS]] | On, to the Capitol. A flourish of cornetts. Exeunt in state, as before, all but [[Brutus]] and [[Sicinius]], who come forward |
-| [[Brutus|BRUTUS]] | All tongues speak of him, and the blearèd sights Are spectacled to see him. Your prattling [[Nurse|nurse]] Into a rapture lets her baby cry While she chats him; the kitchen malkin pins Her richest lockram ‘bout her reechy neck, Clamb’ring the walls to eye him. Stalls, bulks, windows Are smothered up, leads filled and ridges horsed With variable complexions, all agreeing In earnestness to see him. Seld-shown flamens Do press among the popular throngs, and puff To win a vulgar station. Our veiled dames Commit the war of white and damask in Their nicely guarded cheeks to th’ wanton spoil Of Phoebus’ burning kisses. Such a pother As if that whatsoever god who leads him Were slily crept into his human powers And gave him graceful posture. |
-| [[Sicinius|SICINIUS]] | On the sudden I warrant him consul. |
-| [[Brutus|BRUTUS]] | Then our office may During his power go [[Sleep|sleep]]. |
-| [[Sicinius|SICINIUS]] | He cannot temp’rately transport his honours From where he should begin and end, but will Lose those he hath won. |
-| [[Brutus|BRUTUS]] | In that there’s comfort. |
-| [[Sicinius|SICINIUS]] | [[Doubt]] not The commoners, for whom we stand, but they Upon their ancient malice will forget With the least cause these his new honours, which That he will give them make I as little question As he is proud to do’t. |
-| [[Brutus|BRUTUS]] | I heard him swear, Were he to stand for consul, never would he Appear i’th’ market-place nor on him put The napless vesture of [[Humility|humility]], Nor, showing, as the manner is, his wounds To th’ people, beg their stinking breaths. |
-| [[Sicinius|SICINIUS]] | ’Tis right. |
-| [[Brutus|BRUTUS]] | It was his word. O, he would miss it rather Than carry it, but by the suit of the gentry to him, And the [[Desire|desire]] of the nobles. |
-| [[Sicinius|SICINIUS]] | I wish no better Than have him hold that purpose, and to put it In execution. |
-| [[Brutus|BRUTUS]] | ’Tis most like he will. |
-| [[Sicinius|SICINIUS]] | It shall be to him then, as our good wills, A sure destruction. |
-| [[Brutus|BRUTUS]] | So it must fall out To him, or our authority’s for an end. We must suggest the people in what hatred He still hath held them; that to’s power he would Have made them mules, silenced their pleaders, And dispropertied their freedoms, holding them In human action and capacity Of no more [[Soul|soul]] nor fitness for the world Than camels in their war, who have their provand Only for bearing burdens, and sore blows For sinking under them. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--06_exchange_sicinius" data-title="Coriolanus — Act II, Scene 1 — exchange (SICINIUS) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Sicinius|SICINIUS]] | This, as you say, suggested At some [[Time|time]] when his soaring insolence Shall touch the people—which [[Time|time]] shall not want If he be put upon’t, and that’s as easy As to set [[dogs]] on sheep—will be his [[Fire|fire]] To kindle their dry stubble, and their blaze Shall darken him for ever. Enter a Messenger |
-| [[Brutus|BRUTUS]] | What’s the matter? |
-| MESSENGER | You are sent for to the Capitol. ’Tis thought That Martius shall be consul. I have seen The dumb men throng to see him, and the blind To hear him speak. Matrons flung gloves, Ladies and maids their scarves and handkerchiefs, Upon him as he passed. The nobles bended As to Jove’s statue, and the commons made A shower and thunder with their caps and shouts. I never saw the like. |
-| [[Brutus|BRUTUS]] | Let’s to the Capitol, And carry with us ears and eyes for th’ [[Time|time]], But hearts for the event. |
-| [[Sicinius|SICINIUS]] | Have with you. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="Coriolanus — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter two Officers, to lay cushions, as it were in the Capitol |
-| FIRST OFFICER | Come, come, they are almost here. How many stand for consulships? |
-| SECOND OFFICER | Three, they say, but ’tis thought of everyone [[Coriolanus]] will carry it. |
-| FIRST OFFICER | That’s a brave fellow, but he’s vengeance proud and loves not the common people. |
-| SECOND OFFICER | [[Faith]], there hath been many great men that have flattered the people who ne’er loved them; and there be many that they have loved they know not wherefore, so that if they [[Love|love]] they know not why, they hate upon no better a ground. Therefore for [[Coriolanus]] neither to care whether they [[Love|love]] or hate him manifests the true knowledge he has in their disposition, and out of his noble carelessness lets them plainly see’t. |
-| FIRST OFFICER | If he did not care whether he had their [[Love|love]] or no he waved indifferently ’twixt doing them neither good nor harm; but he seeks their hate with greater devotion than they can render it him, and [[Leaves|leaves]] nothing undone that may fully discover him their opposite. Now to seem to affect the malice and displeasure of the people is as bad as that which he dislikes, to flatter them for their [[Love|love]]. |
-| SECOND OFFICER | He hath deserved worthily of his country, and his ascent is not by such easy degrees as those who, having been supple and courteous to the people, bonneted, without any further deed to have them at all into their estimation and report. But he hath so planted his honours in their eyes and his actions in their hearts that for their tongues to be silent and not confess so much were a kind of ingrateful injury. To report otherwise were a malice that, giving itself the lie, would pluck reproof and rebuke from every ear that heard it. |
-| FIRST OFFICER | No more of him. He’s a worthy man. Make way, they are coming. A sennet. Enter the Patricians, and [[Sicinius]] and [[Brutus]], the tribunes of the people, lictors before them; [[Coriolanus]], [[Menenius]], [[Cominius]] the consul. The Patricians take their places and sit. [[Sicinius]] and [[Brutus]] take their places by themselves. [[Coriolanus]] stands |
-| [[Menenius|MENENIUS]] | Having determined of the Volsces, and To send for Titus Lartius, it remains As the main point of this our after-meeting To gratify his noble service that Hath thus stood for his country. Therefore please you, Most reverend and [[Grave|grave]] elders, to [[Desire|desire]] The present consul and last general In our [[Well|well]]-found successes to report A little of that worthy work performed By Martius Caius [[Coriolanus]], whom We met here both to thank and to remember With honours like himself. [[Coriolanus]] sits |
-| FIRST SENATOR | Speak, good [[Cominius]]. Leave nothing out for length, and make us think Rather our state’s defective for requital Than we to stretch it out. (To the tribunes) Masters o’th’ people, We do request your kindest ears and, after, Your loving motion toward the common [[Body|body]] To yield what passes here. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--02_exchange_sicinius" data-title="Coriolanus — Act II, Scene 2 — exchange (SICINIUS) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Sicinius|SICINIUS]] | We are convented Upon a pleasing treaty, and have hearts Inclinable to [[Honour|honour]] and advance The theme of our assembly. |
-| [[Brutus|BRUTUS]] | Which the rather We shall be blessed to do if he remember A kinder value of the people than He hath hereto prized them at. |
-| [[Menenius|MENENIUS]] | That’s off, that’s off. I would you rather had been silent. Please you To hear [[Cominius]] speak? |
-| [[Brutus|BRUTUS]] | Most willingly, But yet my caution was more pertinent Than the rebuke you give it. |
-| [[Menenius|MENENIUS]] | He loves your people, But tie him not to be their bedfellow. Worthy [[Cominius]], speak. [[Coriolanus]] rises and offers to go away (To [[Coriolanus]]) Nay, keep your place. FIRST SENATOR Sit, [[Coriolanus]]. Never shame to hear What you have nobly done. |
-| [[Coriolanus|CORIOLANUS]] | Your honours’ pardon, I had rather have my wounds to heal again Than hear say how I got them. |
-| [[Brutus|BRUTUS]] | Sir, I [[Hope|hope]] My words disbenched you not? |
-| [[Coriolanus|CORIOLANUS]] | No, sir, yet oft When blows have made me stay I fled from words. You soothed not, therefore hurt not; but your people, I [[Love|love]] them as they weigh— |
-| [[Menenius|MENENIUS]] | Pray now, sit down. |
-| [[Coriolanus|CORIOLANUS]] | I had rather have one scratch my head i’th’ sun When the alarum were struck than idly sit To hear my nothings monstered. Exit |
-| [[Menenius|MENENIUS]] | Masters of the people, Your multiplying spawn how can he flatter— That’s thousand to one good one—when you now see He had rather venture all his limbs for [[Honour|honour]] Than one on’s ears to hear it? Proceed, [[Cominius]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--03_monologue_cominius" data-title="Coriolanus — Act II, Scene 2 — monologue (COMINIUS) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cominius|COMINIUS]] | I shall lack voice; the deeds of [[Coriolanus]] Should not be uttered feebly. It is held That valour is the chiefest virtue, and Most dignifies the haver. If it be, The man I speak of cannot in the world Be singly counterpoised. At sixteen years, When [[Tarquin]] made a head for Rome, he fought Beyond the mark of others. Our then dictator, Whom with all praise I point at, saw him fight When with his Amazonian chin he drove The bristled lips before him. He bestrid An o‘erpressed Roman, and, i’th’ consul’s view, Slew three opposers. [[Tarquin]]’s [[Self|self]] he met, And struck him on his knee. In that day’s feats, When he might act the woman in the scene, He proved best man i‘th’ field, and for his meed Was brow-bound with the oak. His pupil age Man-entered thus, he waxed like a sea, And in the brunt of seventeen battles since He lurched all swords of the garland. For this last Before and in Corioles, let me say I cannot speak him [[Home|home]]. He stopped the fliers, And by his rare example made the coward Turn terror into sport. As weeds before A vessel under sail, so men obeyed And fell below his stem. His [[Sword|sword]], [[Death|death]]’s stamp, Where it did mark, it took. From face to foot He was a thing of [[Blood|blood]], whose every motion Was timed with dying cries. [[Alone]] he entered The mortal gate of th’ [[City|city]], which he, painted With shunless destiny, aidless came off, And with a sudden reinforcement struck Corioles like a planet. Now all’s his. When by and by the din of war gan pierce His ready sense, then straight his doubled spirit Requickened what in flesh was fatigate, And to the battle came he, where he did Run reeking o’er the lives of men as if ’Twere a perpetual spoil; and till we called Both field and [[City|city]] ours he never stood To ease his breast with panting. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--04_exchange_menenius" data-title="Coriolanus — Act II, Scene 2 — exchange (MENENIUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | Worthy man. FIRST SENATOR He cannot but with measure fit the honours Which we devise him. |
-| [[Cominius|COMINIUS]] | Our spoils he kicked at, And looked upon things precious as they were The common muck of the world. He covets less Than misery itself would give, rewards His deeds with doing them, and is content To spend the [[Time|time]] to end it. |
-| [[Menenius|MENENIUS]] | He’s right noble. Let him be called for. FIRST SENATOR Call [[Coriolanus]]. |
-| OFFICER | He doth appear. Enter [[Coriolanus]] |
-| [[Menenius|MENENIUS]] | The senate, [[Coriolanus]], are [[Well|well]] pleased To make thee consul. |
-| [[Coriolanus|CORIOLANUS]] | I do owe them still My life and services. |
-| [[Menenius|MENENIUS]] | It then remains That you do speak to the people. |
-| [[Coriolanus|CORIOLANUS]] | I do beseech you, Let me o’erleap that custom, for I cannot Put on the gown, stand naked, and entreat them For my wounds’ sake to give their suffrage. Please you that I may pass this doing. |
-| [[Sicinius|SICINIUS]] | Sir, the people Must have their voices, neither will they bate One jot of ceremony. |
-| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) Put them not to’t. Pray you, go fit you to the custom and Take to you, as your predecessors have, Your [[Honour|honour]] with your form. |
-| [[Coriolanus|CORIOLANUS]] | It is a part That I shall blush in acting, and might [[Well|well]] Be taken from the people. |
-| [[Brutus|BRUTUS]] | (to [[Sicinius]]) Mark you that? |
-| [[Coriolanus|CORIOLANUS]] | To brag unto them ‘Thus I did, and thus’, Show them th’unaching scars, which I should hide, As if I had received them for the hire Of their breath only! |
-| [[Menenius|MENENIUS]] | Do not stand upon’t.— We recommend to you, tribunes of the people, Our purpose to them; and to our noble consul Wish we all joy and [[Honour|honour]]. |
-| SENATORS | To [[Coriolanus]] come all joy and [[Honour|honour]]! A flourish of cornetts, then exeunt all but [[Sicinius]] and [[Brutus]] |
-| [[Brutus|BRUTUS]] | You see how he intends to use the people. |
-| [[Sicinius|SICINIUS]] | May they perceive’s intent! He will require them As if he did contemn what he requested Should be in them to give. |
-| [[Brutus|BRUTUS]] | Come, we’ll inform them Of our proceedings here. On th’ market-place I know they do attend us. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Coriolanus — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter seven or eight Citizens |
-| FIRST CITIZEN | Once, if he do require our voices we ought not to deny him. |
-| SECOND CITIZEN | We may, sir, if we will. |
-| THIRD CITIZEN | We have power in ourselves to do it, but it is a power that we have no power to do. For if he show us his wounds and tell us his deeds, we are to put our tongues into those wounds and speak for them; so if he tell us his noble deeds we must also tell him our noble acceptance of them. Ingratitude is monstrous, and for the multitude to be ingrateful were to make a [[Monster|monster]] of the multitude, of the which we, being members, should bring ourselves to be monstrous members. |
-| FIRST CITIZEN | And to make us no better thought of, a little help will serve; for once we stood up about the corn, he himself stuck not to call us the many-headed multitude. |
-| THIRD CITIZEN | We have been called so of many, not that our heads are some brown, some black, some abram, some bald, but that our wits are so diversely coloured; and truly I think if all our wits were to issue out of one skull, they would fly east, west, north, south, and their consent of one direct way should be at once to all the points o’th’ compass. |
-| SECOND CITIZEN | Think you so? Which way do you judge my wit would fly? |
-| THIRD CITIZEN | Nay, your wit will not so soon out as another man’s will, ‘tis strongly wedged up in a blockhead. But if it were at liberty, ’twould sure southward. SECOND CITIZEN Why that way? |
-| THIRD CITIZEN | To lose itself in a fog where, being three parts melted away with rotten dews, the fourth would return for [[Conscience|conscience]]’ sake, to help to get thee a wife. |
-| SECOND CITIZEN | You are never without your tricks. You may, you may. |
-| THIRD CITIZEN | Are you all resolved to give your voices? But that’s no matter, the greater part carries it. I say, if he would incline to the people there was never a worthier man. Enter [[Coriolanus]] in a gown of [[Humility|humility]], with [[Menenius]] Here he comes, and in the gown of [[Humility|humility]]. Mark his behaviour. We are not to stay all together, but to come by him where he stands by ones, by twos, and by threes. He’s to make his requests by particulars, wherein every one of us has a single [[Honour|honour]] in giving him our own voices with our own tongues. Therefore follow me, and I’ll direct you how you shall go by him. ALL THE CITIZENS Content, content. Exeunt Citizens |
-| [[Menenius|MENENIUS]] | O sir, you are not right. Have you not known The worthiest men have done’t? |
-| [[Coriolanus|CORIOLANUS]] | What must I say? ‘I pray, sir’? Plague upon‘t, I cannot bring My tongue to such a pace. ‘Look, sir, my wounds. I got them in my country’s service, when Some certain of your brethren roared and ran From th’ noise of our own drums’? |
-| [[Menenius|MENENIUS]] | O me, the gods! 55 You must not speak of that, you must [[Desire|desire]] them To think upon you. |
-| [[Coriolanus|CORIOLANUS]] | Think upon me? Hang ’em. I would they would forget me like the virtues Which our divines lose by ’em. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--02_exchange_menenius" data-title="Coriolanus — Act II, Scene 3 — exchange (MENENIUS) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | You’ll mar all. I’ll leave you. Pray you, speak to ’em, I pray you, 60 In wholesome manner. |
-| [[Coriolanus|CORIOLANUS]] | Bid them wash their faces And keep their teeth clean. Exit [[Menenius]] Enter three of the Citizens So, here comes a brace. You know the cause, sir, of my standing here. |
-| THIRD CITIZEN | We do, sir. Tell us what hath brought you to’t. |
-| [[Coriolanus|CORIOLANUS]] | Mine own [[Desert|desert]]. |
-| SECOND CITIZEN | Your own [[Desert|desert]]? |
-| [[Coriolanus|CORIOLANUS]] | Ay, but not mine own [[Desire|desire]]. |
-| THIRD CITIZEN | How not your own [[Desire|desire]]? |
-| [[Coriolanus|CORIOLANUS]] | No, sir, ’twas never my [[Desire|desire]] yet to trouble the poor with begging. |
-| THIRD CITIZEN | You must think if we give you anything we [[Hope|hope]] to gain by you. |
-| [[Coriolanus|CORIOLANUS]] | [[Well]] then, I pray, your price o’th’ consulship? |
-| FIRST CITIZEN | The price is to ask it kindly. |
-| [[Coriolanus|CORIOLANUS]] | Kindly, sir, I pray let me ha’t. I have wounds to show you which shall be yours in private. (To Second Citizen) Your good voice, sir. What say you? |
-| SECOND CITIZEN | You shall ha’t, worthy sir. |
-| [[Coriolanus|CORIOLANUS]] | A match, sir. There’s in all two worthy voices begged. I have your alms. Adieu. |
-| THIRD CITIZEN | (to the other Citizens) But this is something odd. |
-| SECOND CITIZEN | An ‘twere to give again—but ’tis no matter. Exeunt Citizens Enter two other Citizens |
-| [[Coriolanus|CORIOLANUS]] | Pray you now, if it may stand with the tune of your voices that I may be consul, I have here the customary gown. FOURTH CITIZEN You have deserved nobly of your country, and you have not deserved nobly. |
-| [[Coriolanus|CORIOLANUS]] | Your enigma? FOURTH CITIZEN You have been a scourge to her enemies, you have been a rod to her friends. You have not, indeed, loved the common people. |
-| [[Coriolanus|CORIOLANUS]] | You should account me the more virtuous that I have not been common in my [[Love|love]]. I will, sir, flatter my sworn brother the people to earn a dearer estimation of them. ’Tis a condition they account gentle. And since the wisdom of their choice is rather to have my hat than my heart, I will practise the insinuating nod and be off to them most counterfeitly; that is, sir, I will counterfeit the bewitchment of some popular man, and give it bountiful to the desirers. Therefore, beseech you I may be consul. FIFTH CITIZEN We [[Hope|hope]] to find you our friend, and therefore give you our voices heartily. FOURTH CITIZEN You have received many wounds for your country. |
-| [[Coriolanus|CORIOLANUS]] | I will not seal your knowledge with showing them. I will make much of your voices, and so trouble you no farther. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--03_monologue_both_citizens" data-title="Coriolanus — Act II, Scene 3 — monologue (BOTH CITIZENS) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| BOTH CITIZENS | The gods give you joy, sir, heartily. [[Coriolanus|CORIOLANUS]] Most sweet voices. Exeunt Citizens Better it is to die, better to starve, Than crave the hire which first we do deserve. Why in this womanish toge should I stand here To beg of Hob and Dick that does appear Their needless vouches? Custom calls me to’t. What custom wills, in all things should we do‘t, The [[Dust|dust]] on antique [[Time|time]] would lie unswept, And mountainous error be too highly heaped For [[Truth|truth]] to o’erpeer. Rather than [[Fool|fool]] it so, Let the high office and the [[Honour|honour]] go To one that would do thus. I am half through. The one part suffered, the other will I do. Enter three Citizens more Here come more voices. Your voices! For your voices I have fought, Watched for your voices, for your voices bear Of wounds two dozen odd; battles thrice six I have seen and heard of for your voices, have Done many things, some less, some more. Your voices! Indeed I would be consul. SIXTH CITIZEN He has done nobly, and cannot go without any honest man’s voice. SEVENTH CITIZEN Therefore let him be consul. The gods give him joy and make him good friend to the people! |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--04_exchange_all_the_citizens" data-title="Coriolanus — Act II, Scene 3 — exchange (ALL THE CITIZENS) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| ALL THE CITIZENS | Amen, amen. God save thee, noble consul! |
-| [[Coriolanus|CORIOLANUS]] | Worthy voices. Exeunt Citizens Enter [[Menenius]] with [[Brutus]] and [[Sicinius]] |
-| [[Menenius|MENENIUS]] | You have stood your limitation, and the tribunes Endue you with the people’s voice. Remains That in th’ official marks invested, you Anon do meet the senate. |
-| [[Coriolanus|CORIOLANUS]] | Is this done? |
-| [[Sicinius|SICINIUS]] | The custom of request you have discharged. The people do admit you, and are summoned To meet anon upon your approbation. |
-| [[Coriolanus|CORIOLANUS]] | Where, at the senate-[[house]]? |
-| [[Sicinius|SICINIUS]] | There, [[Coriolanus]]. |
-| [[Coriolanus|CORIOLANUS]] | May I change these garments? |
-| [[Sicinius|SICINIUS]] | You may, sir. |
-| [[Coriolanus|CORIOLANUS]] | That I’ll straight do, and, knowing myself again, Repair to th’ senate-[[house]]. |
-| [[Menenius|MENENIUS]] | I’ll keep you company. (To the tribunes) Will you along? |
-| [[Brutus|BRUTUS]] | We stay here for the people. |
-| [[Sicinius|SICINIUS]] | Fare you [[Well|well]]. Exeunt [[Coriolanus]] and [[Menenius]] He has it now, and by his looks methinks ’Tis warm at’s heart. |
-| [[Brutus|BRUTUS]] | With a proud heart he wore His humble weeds. Will you dismiss the people? Enter the Plebeians |
-| [[Sicinius|SICINIUS]] | How now, my masters, have you chose this man? |
-| FIRST CITIZEN | He has our voices, sir. |
-| [[Brutus|BRUTUS]] | We pray the gods he may deserve your loves. |
-| SECOND CITIZEN | Amen, sir. To my poor unworthy notice He mocked us when he begged our voices. |
-| THIRD CITIZEN | Certainly. He flouted us downright. |
-| FIRST CITIZEN | No, ’tis his kind of speech. He did not mock us. |
-| SECOND CITIZEN | Not one amongst us save yourself but says He used us scornfully. He should have showed us His marks of merit, wounds received for’s country. |
-| [[Sicinius|SICINIUS]] | Why, so he did, I am sure. |
-| ALL THE CITIZENS | No, no; no man saw ’em. |
-| THIRD CITIZEN | He said he had wounds which he could show in private, And with his hat, thus waving it in scorn, ‘I would be consul,’ says he. ‘Agèd custom But by your voices will not so permit me. Your voices therefore.’ When we granted that, Here was ‘I thank you for your voices, thank you. Your most sweet voices. Now you have left your voices I have no further with you.’ Was not this mockery? |
-| [[Sicinius|SICINIUS]] | Why either were you ignorant to see’t, Or, seeing it, of such childish friendliness To yield your voices? |
-| [[Brutus|BRUTUS]] | (to the Citizens) Could you not have told him As you were lessoned: when he had no power But was a petty servant to the state, He was your enemy, ever spake against Your liberties and the charters that you bear I‘th’ [[Body|body]] of the weal; and now arriving A place of potency and sway o’th’ state, If he should still malignantly remain Fast foe to th’ plebeii, your voices might Be curses to yourselves. You should have said That as his worthy deeds did claim no less Than what he stood for, so his gracious [[Nature|nature]] Would think upon you for your voices and Translate his malice towards you into [[Love|love]], Standing your friendly lord. |
-| [[Sicinius|SICINIUS]] | (to the Citizens) Thus to have said As you were fore-advised had touched his spirit And tried his inclination, from him plucked Either his gracious promise which you might, As cause had called you up, have held him to, Or else it would have galled his surly [[Nature|nature]], Which easily endures not article Tying him to aught. So putting him to rage, You should have ta‘en th’advantage of his choler And passed him unelected. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--05_exchange_brutus" data-title="Coriolanus — Act II, Scene 3 — exchange (BRUTUS) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Brutus|BRUTUS]] | (to the Citizens) Did you perceive He did solicit you in free contempt When he did need your loves, and do you think That his contempt shall not be bruising to you When he hath power to crush? Why, had your bodies No heart among you? Or had you tongues to cry Against the rectorship of judgement? |
-| [[Sicinius|SICINIUS]] | (to the Citizens) Have you Ere now denied the asker, and now again, Of him that did not ask but mock, bestow Your sued-for tongues? |
-| THIRD CITIZEN | He’s not confirmed, we may deny him yet. |
-| SECOND CITIZEN | And will deny him. I’ll have five hundred voices of that sound. |
-| FIRST CITIZEN | I twice five hundred, and their friends to piece ’em. |
-| [[Brutus|BRUTUS]] | Get you hence instantly, and tell those friends They have chose a consul that will from them take Their liberties, make them of no more voice Than [[dogs]] that are as often beat for barking, As therefor kept to do so. |
-| [[Sicinius|SICINIUS]] | (to the Citizens) Let them assemble, And on a safer judgement all revoke Your ignorant election. Enforce his [[Pride|pride]] And his old hate unto you. Besides, forget not With what contempt he wore the humble weed, How in his suit he scorned you; but your loves, Thinking upon his services, took from you Th’apprehension of his present portance, Which most gibingly, ungravely he did fashion After the inveterate hate he bears you. |
-| [[Brutus|BRUTUS]] | (to the Citizens) Lay A fault on us your tribunes, that we laboured No impediment between, but that you must Cast your election on him. |
-| [[Sicinius|SICINIUS]] | (to the Citizens) Say you chose him More after our commandment than as guided By your own true affections, and that your minds, Preoccupied with what you rather must do Than what you should, made you against the grain To voice him consul. Lay the fault on us. |
-| [[Brutus|BRUTUS]] | (to the Citizens) Ay, spare us not. Say we read lectures to you, How youngly he began to serve his country, How long continued, and what stock he springs of, The noble [[house]] o’th’ Martians, from whence came That Ancus Martius, Numa’s daughter’s son, Who after great Hostilius here was [[King|king]]; Of the same [[house]] Publius and Quintus were, That our best [[Water|water]] brought by conduits hither; And Censorinus that was so surnamed, And nobly named so, twice being censor, Was his great ancestor. |
-| [[Sicinius|SICINIUS]] | (to the Citizens) One thus descended, That hath beside [[Well|well]] in his person wrought To be set high in place, we did commend To your remembrances, but you have found, Scaling his present bearing with his past, That he’s your fixed enemy, and revoke Your sudden approbation. |
-| [[Brutus|BRUTUS]] | (to the Citizens) Say you ne‘er had done’t— Harp on that still—but by our putting on; And presently when you have drawn your number, Repair to th’ Capitol. A CITIZEN We will so. ANOTHER CITIZEN Almost all Repent in their election. Exeunt Citizens |
-| [[Brutus|BRUTUS]] | Let them go on. This mutiny were better put in hazard Than stay, past [[Doubt|doubt]], for greater. If, as his [[Nature|nature]] is, he fall in rage With their refusal, both observe and answer The vantage of his anger. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--06_exchange_sicinius" data-title="Coriolanus — Act II, Scene 3 — exchange (SICINIUS) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Sicinius|SICINIUS]] | To th’ Capitol, come. We will be there before the stream o‘th’ people, And this shall seem, as partly ’tis, their own, Which we have goaded onward. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Coriolanus — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Cornetts. Enter [[Coriolanus]], [[Menenius]], all the gentry; [[Cominius]], Lartius, and other Senators |
-| [[Coriolanus|CORIOLANUS]] | Tullus [[Aufidius]] then had made new head? |
-| LARTIUS | He had, my lord, and that it was which caused Our swifter composition. |
-| [[Coriolanus|CORIOLANUS]] | So then the Volsces stand but as at first, Ready when [[Time|time]] shall prompt them to make raid Upon’s again. |
-| [[Cominius|COMINIUS]] | They are worn, lord consul, so That we shall hardly in our ages see Their banners wave again. |
-| [[Coriolanus|CORIOLANUS]] | (to Lartius) Saw you [[Aufidius]]? |
-| LARTIUS | On safeguard he came to me, and did curse Against the Volsces for they had so vilely Yielded the town. He is retired to Antium. |
-| [[Coriolanus|CORIOLANUS]] | Spoke he of me? |
-| LARTIUS | He did, my lord. |
-| [[Coriolanus|CORIOLANUS]] | How? What? |
-| LARTIUS | How often he had met you [[Sword|sword]] to [[Sword|sword]]; That of all things upon the earth he hated Your person most; that he would pawn his fortunes To hopeless restitution, so he might Be called your vanquisher. |
-| [[Coriolanus|CORIOLANUS]] | At Antium lives he? |
-| LARTIUS | At Antium. |
-| [[Coriolanus|CORIOLANUS]] | I wish I had a cause to seek him there, To oppose his hatred fully. Welcome [[Home|home]]. Enter [[Sicinius]] and [[Brutus]] Behold, these are the tribunes of the people, The tongues o’th’ common mouth. I do despise them, For they do prank them in authority Against all noble sufferance. |
-| [[Sicinius|SICINIUS]] | Pass no further. |
-| [[Coriolanus|CORIOLANUS]] | Ha, what is that? |
-| [[Brutus|BRUTUS]] | It will be dangerous to go on. No further. |
-| [[Coriolanus|CORIOLANUS]] | What makes this change? |
-| [[Menenius|MENENIUS]] | The matter? |
-| [[Cominius|COMINIUS]] | Hath he not passed the noble and the common? |
-| [[Brutus|BRUTUS]] | [[Cominius]], no. |
-| [[Coriolanus|CORIOLANUS]] | Have I had children’s voices? FIRST SENATOR Tribunes, give way. He shall to th’ market-place. |
-| [[Brutus|BRUTUS]] | The people are incensed against him. |
-| [[Sicinius|SICINIUS]] | Stop, Or all will fall in broil. |
-| [[Coriolanus|CORIOLANUS]] | Are these your herd? Must these have voices, that can yield them now And straight disclaim their tongues? What are your offices? You being their mouths, why rule you not their teeth? Have you not set them on? |
-| [[Menenius|MENENIUS]] | Be calm, be calm. |
-| [[Coriolanus|CORIOLANUS]] | It is a purposed thing, and grows by plot To curb the will of the nobility. Suffer’t, and live with such as cannot rule Nor ever will be ruled. |
-| [[Brutus|BRUTUS]] | Call’t not a plot. The people cry you mocked them, and of late When corn was given them gratis, you repined, Scandalled the suppliants for the people, called them [[Time]]-pleasers, flatterers, foes to nobleness. |
-| [[Coriolanus|CORIOLANUS]] | Why, this was known before. |
-| [[Brutus|BRUTUS]] | Not to them all. |
-| [[Coriolanus|CORIOLANUS]] | Have you informed them sithence? |
-| [[Brutus|BRUTUS]] | How, I inform them? [[Coriolanus|CORIOLANUS]] You are like to do such business. |
-| [[Brutus|BRUTUS]] | Not unlike Each way to better yours. |
-| [[Coriolanus|CORIOLANUS]] | Why then should I be consul? By yon clouds, Let me deserve so ill as you, and make me Your fellow tribune. |
-| [[Sicinius|SICINIUS]] | You show too much of that For which the people stir. If you will pass To where you are bound, you must enquire your way, Which you are out of, with a gentler spirit, Or never be so noble as a consul, Nor yoke with him for tribune. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--02_exchange_menenius" data-title="Coriolanus — Act III, Scene 1 — exchange (MENENIUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | Let’s be calm. |
-| [[Cominius|COMINIUS]] | The people are abused, set on. This palt‘ring Becomes not Rome, nor has [[Coriolanus]] Deserved this so dishonoured rub, laid falsely I’th’ plain way of his merit. |
-| [[Coriolanus|CORIOLANUS]] | Tell me of corn? This was my speech, and I will speak’t again. |
-| [[Menenius|MENENIUS]] | Not now, not now. FIRST SENATOR Not in this heat, sir, now. |
-| [[Coriolanus|CORIOLANUS]] | Now as I live, I will. My nobler friends, I crave their pardons. For the mutable rank-scented meinie, Let them regard me, as I do not flatter, And therein behold themselves. I say again, In soothing them we nourish ’gainst our Senate The cockle of rebellion, insolence, sedition, Which we ourselves have ploughed for, sowed, and scattered By mingling them with us, the honoured number Who lack not virtue, no, nor power, but that Which they have given to beggars. |
-| [[Menenius|MENENIUS]] | [[Well]], no more. FIRST SENATOR No more words, we beseech you. |
-| [[Coriolanus|CORIOLANUS]] | How, no more? As for my country I have shed my [[Blood|blood]], Not fearing outward force, so shall my lungs Coin words till their [[Decay|decay]] against those measles Which we disdain should tetter us, yet sought The very way to catch them. |
-| [[Brutus|BRUTUS]] | You speak o’th’ people as if you were a god To punish, not a man of their infirmity. |
-| [[Sicinius|SICINIUS]] | ’Twere [[Well|well]] we let the people know’t. |
-| [[Menenius|MENENIUS]] | What, what, his choler? |
-| [[Coriolanus|CORIOLANUS]] | Choler? Were I as patient as the midnight [[Sleep|sleep]], By Jove, ’twould be my mind. |
-| [[Sicinius|SICINIUS]] | It is a mind That shall remain a [[Poison|poison]] where it is, Not [[Poison|poison]] any further. |
-| [[Coriolanus|CORIOLANUS]] | ‘Shall remain’? Hear you this Triton of the minnows? Mark you His absolute ‘shall’? |
-| [[Cominius|COMINIUS]] | ’Twas from the canon. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--03_monologue_coriolanus" data-title="Coriolanus — Act III, Scene 1 — monologue (CORIOLANUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Coriolanus|CORIOLANUS]] | ‘Shall’? O good but most unwise patricians, why, You [[Grave|grave]] but reckless senators, have you thus Given Hydra here to choose an officer That, with his peremptory ‘shall’, being but The horn and noise o‘th’ [[Monster|monster]]’s, wants not spirit To say he’ll turn your current in a ditch And make your channel his? If he have power, Then vail your impotence; if none, awake Your dangerous lenity. If you are learned, Be not as common fools; if you are not, Let them have cushions by you. You are plebeians If they be senators, and they are no less When, both your voices blended, the great‘st taste Most palates theirs. They choose their magistrate, And such a one as he, who puts his ‘shall’, His popular ‘shall’, against a graver bench Than ever frowned in Greece. By Jove himself, no It makes the consuls base, and my [[Soul|soul]] aches To know, when two authorities are up, Neither supreme, how soon confusion May enter ’twixt the gap of both and take The one by th’ other. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--04_exchange_cominius" data-title="Coriolanus — Act III, Scene 1 — exchange (COMINIUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cominius|COMINIUS]] | [[Well]], on to th’ market-place. |
-| [[Coriolanus|CORIOLANUS]] | Whoever gave that counsel to give forth The corn o‘th’ storehouse gratis, as ’twas used Sometime in Greece— |
-| [[Menenius|MENENIUS]] | [[Well]], [[Well|well]], no more of that. |
-| [[Coriolanus|CORIOLANUS]] | Though there the people had more absolute power— I say they nourished disobedience, fed The ruin of the state. |
-| [[Brutus|BRUTUS]] | Why shall the people give One that speaks thus their voice? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--05_monologue_coriolanus" data-title="Coriolanus — Act III, Scene 1 — monologue (CORIOLANUS) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Coriolanus|CORIOLANUS]] | I’ll give my reasons, More worthier than their voices. They know the corn Was not our recompense, resting [[Well|well]] assured They ne‘er did service for’t. Being pressed to th’ war, Even when the navel of the state was touched, They would not thread the gates. This kind of service Did not deserve corn gratis. Being i’th’ war, Their mutinies and revolts, wherein they showed Most valour, spoke not for them. Th‘accusation Which they have often made against the senate, All cause [[unborn]], could never be the native Of our so frank donation. [[Well]], what then? How shall this bosom multiplied digest The senate’s courtesy? Let deeds express What’s like to be their words: ‘We did request it, We are the greater poll, and in true [[Fear|fear]] They gave us our demands.’ Thus we debase The [[Nature|nature]] of our seats, and make the rabble Call our cares fears, which will in [[Time|time]] Break ope the locks o’th’ senate and bring in The crows to peck the eagles. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--06_exchange_menenius" data-title="Coriolanus — Act III, Scene 1 — exchange (MENENIUS) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | Come, enough. |
-| [[Brutus|BRUTUS]] | Enough with over-measure. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--07_monologue_coriolanus" data-title="Coriolanus — Act III, Scene 1 — monologue (CORIOLANUS) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Coriolanus|CORIOLANUS]] | No, take more. What may be sworn by, both divine and human, Seal what I end withal! This [[Double|double]] worship, Where one part does disdain with cause, the other Insult without all reason, where gentry, title, wisdom Cannot conclude but by the yea and no Of general ignorance, it must omit Real necessities, and give way the while To unstable slightness. Purpose so barred, it follows Nothing is done to purpose. Therefore beseech you— You that will be less fearful than discreet, That [[Love|love]] the fundamental part of state More than you [[Doubt|doubt]] the change on‘t, that prefer A noble life before a long, and wish To jump a [[Body|body]] with a dangerous physic That’s sure of [[Death|death]] without it—at once pluck out The multitudinous tongue; let them not lick The sweet which is their [[Poison|poison]]. Your dishonour Mangles true judgement, and bereaves the state Of that integrity which should become’t, Not having the power to do the good it would For th’ill which doth control’t. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--08_exchange_brutus" data-title="Coriolanus — Act III, Scene 1 — exchange (BRUTUS) [8]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Brutus|BRUTUS]] | He’s said enough. |
-| [[Sicinius|SICINIUS]] | He’s spoken like a traitor, and shall answer As traitors do. |
-| [[Coriolanus|CORIOLANUS]] | Thou wretch, despite o’erwhelm thee! What should the people do with these bald tribunes, On whom depending, their obedience fails To th’ greater bench? In a rebellion, When what’s not meet but what must be was law, Then were they chosen. In a better hour Let what is meet be said it must be meet, And throw their power i’th’ [[Dust|dust]]. |
-| [[Brutus|BRUTUS]] | Manifest treason. |
-| [[Sicinius|SICINIUS]] | This a consul? No. |
-| [[Brutus|BRUTUS]] | The aediles, hot Enter an Aedile Let him be apprehended. |
-| [[Sicinius|SICINIUS]] | Go call the people, Exit Aedile (To [[Coriolanus]]) in whose name myself Attach thee as a traitorous innovator, A foe to th’ public weal. Obey, I charge thee, And follow to thine answer. |
-| [[Coriolanus|CORIOLANUS]] | Hence, old goat! |
-| ALL | THE PATRICIANS We’ll surety him. |
-| [[Cominius|COMINIUS]] | (to [[Sicinius]]) Aged sir, hands off. |
-| [[Coriolanus|CORIOLANUS]] | (to [[Sicinius]]) Hence, rotten thing, or I shall shake thy bones Out of thy garments. |
-| [[Sicinius|SICINIUS]] | Help, ye citizens! Enter a rabble of Plebeians, with the Aediles |
-| [[Menenius|MENENIUS]] | On both sides more respect. |
-| [[Sicinius|SICINIUS]] | Here’s he That would take from you all your power. |
-| [[Brutus|BRUTUS]] | Seize him, aediles. |
-| ALL | THE CITIZENS Down with him, down with him! |
-| SECOND SENATOR | Weapons, weapons, weapons! They all bustle about [[Coriolanus]] CITIZENS and PATRICIANS in dispersed cries Tribunes! Patricians! Citizens! What ho! Siciniusl [[Brutus]]! Coriolanusl Citizens! SOME CITIZENS and PATRICIANS Peace, peace, peace! Stay! Hold! Peace! |
-| [[Menenius|MENENIUS]] | What is about to be? I am out of breath. Confusion’s near; I cannot speak. You tribunes To th’ people, [[Coriolanus]], patience! Speak, good [[Sicinius]]. |
-| [[Sicinius|SICINIUS]] | Hear me, people, peace. |
-| ALL | THE CITIZENS Let’s hear our tribune! Peace! Speak, speak, speak! |
-| [[Sicinius|SICINIUS]] | You are at point to lose your liberties. Martius would have all from you—Martius Whom late you have named for consul. |
-| [[Menenius|MENENIUS]] | Fie, fie, fie, This is the way to kindle, not to quench. FIRST SENATOR To unbuild the [[City|city]], and to lay all flat. |
-| [[Sicinius|SICINIUS]] | What is the [[City|city]] but the people? |
-| ALL | THE CITIZENS True, The people are the [[City|city]]. |
-| [[Brutus|BRUTUS]] | By the consent of all We were established the people’s magistrates. |
-| ALL | THE CITIZENS You so remain. |
-| [[Menenius|MENENIUS]] | And so are like to do. [[Coriolanus|CORIOLANUS]] That is the way to lay the [[City|city]] flat, To bring the roof to the foundation, And bury all which yet distinctly ranges In heaps and piles of ruin. |
-| [[Sicinius|SICINIUS]] | This deserves [[Death|death]]. |
-| [[Brutus|BRUTUS]] | Or let us stand to our authority, Or let us lose it. We do here pronounce, Upon the part o’th’ people in whose power We were elected theirs, Martius is worthy Of present [[Death|death]]. |
-| [[Sicinius|SICINIUS]] | Therefore lay hold of him, Bear him to th’ rock Tarpeian; and from thence Into destruction cast him. |
-| [[Brutus|BRUTUS]] | Aediles, seize him. |
-| ALL THE CITIZENS | Yield, Martius, yield. |
-| [[Menenius|MENENIUS]] | Hear me one word. Beseech you, tribunes, hear me but a word. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--09_exchange_aediles" data-title="Coriolanus — Act III, Scene 1 — exchange (AEDILES) [9]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| AEDILES | Peace, peace! |
-| [[Menenius|MENENIUS]] | (to the tribunes) Be that you seem, truly your country’s friend, And temp’rately proceed to what you would Thus violently redress. |
-| [[Brutus|BRUTUS]] | Sir, those cold ways That seem like prudent helps are very poisons Where the disease is violent. Lay hands upon him, And bear him to the rock. [[Coriolanus]] draws his [[Sword|sword]] |
-| [[Coriolanus|CORIOLANUS]] | No, I’ll die here. There’s some among you have beheld me fighting. Come, try upon yourselves what you have seen me. |
-| [[Menenius|MENENIUS]] | Down with that [[Sword|sword]]. Tribunes, withdraw a while. |
-| [[Brutus|BRUTUS]] | Lay hands upon him. |
-| [[Menenius|MENENIUS]] | Help Martius, help! You that be noble, help him, young and old. |
-| ALL | THE CITIZENS Down with him, down with him! In this mutiny the tribunes, the Aediles, and the people are beat in |
-| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) Go get you to your [[house]]. Be gone, away! All will be naught else. |
-| SECOND SENATOR | (to [[Coriolanus]]) Get you gone. [[Coriolanus|CORIOLANUS]] Stand fast; we have as many friends as enemies. |
-| [[Menenius|MENENIUS]] | Shall it be put to that? FIRST SENATOR The gods forbid! (To [[Coriolanus]]) I prithee, noble friend, [[Home|home]] to thy [[house]]. Leave us to cure this cause. |
-| [[Menenius|MENENIUS]] | For ’tis a sore upon us You cannot tent yourself. Be gone, beseech you. [[Cominius|COMINIUS]] Come, sir, along with us. [[Coriolanus|CORIOLANUS]] I would they were barbarians, as they are, Though in Rome littered; not Romans, as they are not, Though calved i‘th’ porch o’th’ Capitol. [[Menenius|MENENIUS]] Be gone. Put not your worthy rage into your tongue. One [[Time|time]] will owe another. |
-| [[Coriolanus|CORIOLANUS]] | On fair ground I could beat forty of them. |
-| [[Menenius|MENENIUS]] | I could myself Take up a brace o’th’ best of them, yea, the two tribunes. |
-| [[Cominius|COMINIUS]] | But now ‘tis odds beyond arithmetic, And manhood is called foolery when it stands Against a falling fabric. (To [[Coriolanus]]) Will you hence Before the tag return, whose rage doth rend Like interrupted waters, and o’erbear What they are used to bear? |
-| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) Pray you be gone. I’ll try whether my old wit be in request With those that have but little. This must be patched With cloth of any colour. |
-| [[Cominius|COMINIUS]] | Nay, come away. Exeunt [[Coriolanus]] and [[Cominius]] |
-| *(didascalia)* | A |
-| PATRICIAN | This man has marred his fortune. |
-| [[Menenius|MENENIUS]] | His [[Nature|nature]] is too noble for the world. He would not flatter Neptune for his trident Or Jove for’s power to thunder. His heart’s his mouth. What his breast forges, that his tongue must vent, And, being angry, does forget that ever He heard the name of [[Death|death]]. A noise within Here’s goodly work. |
-| *(didascalia)* | A |
-| PATRICIAN | I would they were abed. |
-| [[Menenius|MENENIUS]] | I would they were in Tiber. What the vengeance, could he not speak ’em fair? Enter [[Brutus]] and [[Sicinius]], with the rabble again |
-| [[Sicinius|SICINIUS]] | Where is this viper That would depopulate the [[City|city]] and Be every man himself? |
-| [[Menenius|MENENIUS]] | You worthy tribunes— |
-| [[Sicinius|SICINIUS]] | He shall be thrown down the Tarpeian rock With rigorous hands. He hath resisted law, And therefore law shall scorn him further trial Than the severity of the public power, Which he so sets at naught. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--10_exchange_first_citizen" data-title="Coriolanus — Act III, Scene 1 — exchange (FIRST CITIZEN) [10]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FIRST CITIZEN | He shall [[Well|well]] know The noble tribunes are the people’s mouths, And we their hands. |
-| ALL | THE CITIZENS He shall, sure on’t. |
-| [[Menenius|MENENIUS]] | Sir, sir. |
-| [[Sicinius|SICINIUS]] | Peace! |
-| [[Menenius|MENENIUS]] | Do not cry havoc where you should but hunt With modest warrant. |
-| [[Sicinius|SICINIUS]] | Sir, how comes’t that you Have holp to make this rescue? |
-| [[Menenius|MENENIUS]] | Hear me speak. As I do know the consul’s worthiness, So can I name his faults. |
-| [[Sicinius|SICINIUS]] | Consul? What consul? |
-| [[Menenius|MENENIUS]] | The consul [[Coriolanus]]. |
-| [[Brutus|BRUTUS]] | He consul? |
-| ALL | THE CITIZENS No, no, no, no, no! |
-| [[Menenius|MENENIUS]] | If, by the tribunes’ leave and yours, good people, I may be heard, I would crave a word or two, The which shall turn you to no further harm Than so much loss of [[Time|time]]. |
-| [[Sicinius|SICINIUS]] | Speak briefly, then, For we are peremptory to dispatch This viperous traitor. To eject him hence Were but our danger, and to keep him here Our certain [[Death|death]]. Therefore it is decreed He dies tonight. |
-| [[Menenius|MENENIUS]] | Now the good gods forbid That our renowned Rome, whose gratitude Towards her deserved children is enrolled In Jove’s own book, like an unnatural dam Should now eat up her own! |
-| [[Sicinius|SICINIUS]] | He’s a disease that must be cut away. |
-| [[Menenius|MENENIUS]] | O, he’s a limb that has but a disease— Mortal to cut it off, to cure it easy. What has he done to Rome that’s worthy [[Death|death]]? Killing our enemies, the [[Blood|blood]] he hath lost— Which I dare vouch is more than that he hath By many an ounce—he dropped it for his country; And what is left, to lose it by his country Were to us all that do’t and suffer it A brand to th’ end o’th’ world. |
-| [[Sicinius|SICINIUS]] | This is clean cam. |
-| [[Brutus|BRUTUS]] | Merely awry. When he did [[Love|love]] his country It honoured him. [[Sicinius|SICINIUS]] S The service of the foot, Being once gangrened, is not then respected For what before it was. |
-| [[Brutus|BRUTUS]] | We’ll hear no more. Pursue him to his [[house]] and pluck him thence, Lest his infection, being of catching [[Nature|nature]], Spread further. |
-| [[Menenius|MENENIUS]] | One word more, one word! This tiger-footed rage, when it shall find The harm of unscanned swiftness, will too late Tie leaden pounds to’s heels. Proceed by process, Lest parties—as he is beloved—break out And sack great Rome with Romans. |
-| [[Brutus|BRUTUS]] | If it were so? |
-| [[Sicinius|SICINIUS]] | (to [[Menenius]]) What do ye talk? Have we not had a taste of his obedience: Our aediles smote, ourselves resisted? Come. |
-| [[Menenius|MENENIUS]] | Consider this: he has been bred i’th’ wars Since a could draw a [[Sword|sword]], and is ill-schooled In bolted language. Meal and bran together He throws without distinction. Give me leave, I’ll go to him and undertake to bring him Where he shall answer by a lawful form, In peace, to his utmost peril. |
-| FIRST SENATOR | Noble tribunes, It is the humane way. The other course Will prove too bloody, and the end of it Unknown to the beginning. |
-| [[Sicinius|SICINIUS]] | Noble [[Menenius]], Be you then as the people’s officer. (To the Citizens) Masters, lay down your weapons. |
-| [[Brutus|BRUTUS]] | Go not [[Home|home]]. |
-| [[Sicinius|SICINIUS]] | Meet on the market-place. (To [[Menenius]]) We’ll attend you there, Where if you bring not Martius, we’ll proceed In our first way. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--11_exchange_menenius" data-title="Coriolanus — Act III, Scene 1 — exchange (MENENIUS) [11]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | I’ll bring him to you. (To the Senators) Let me [[Desire|desire]] your company. He must come, Or what is worst will follow. FIRST SENATOR Pray you, let’s to him. Exeunt tribunes and Citizens at one door, Patricians at another door |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="Coriolanus — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Coriolanus]], with Nobles |
-| [[Coriolanus|CORIOLANUS]] | Let them pull all about mine ears, present me [[Death]] on the [[Wheel|wheel]] or at wild horses’ heels, Or pile ten hills on the Tarpeian rock, That the precipitation might down stretch Below the beam of sight, yet will I still Be thus to them. Enter [[Volumnia]] |
-| *(didascalia)* | A |
-| PATRICIAN | You do the nobler. |
-| [[Coriolanus|CORIOLANUS]] | I muse my mother Does not approve me further, who was wont To call them woollen vassals, things created To buy and sell with groats, to show bare heads In congregations, to yawn, be still, and [[Wonder|wonder]], When one but of my ordinance stood up To speak of peace or war. (To [[Volumnia]]) I talk of you. Why did you wish me milder? Would you have me False to my [[Nature|nature]]? Rather say I play The man I am. |
-| [[Volumnia|VOLUMNIA]] | O, sir, sir, sir, I would have had you put your power [[Well|well]] on Before you had worn it out. |
-| [[Coriolanus|CORIOLANUS]] | Let go. |
-| [[Volumnia|VOLUMNIA]] | You might have been enough the man you are With striving less to be so. Lesser had been The taxings of your dispositions if You had not showed them how ye were disposed Ere they lacked power to [[Cross|cross]] you. |
-| [[Coriolanus|CORIOLANUS]] | Let them hang. |
-| [[Volumnia|VOLUMNIA]] | Ay, and burn too. Enter [[Menenius]], with the Senators |
-| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) Come, come, you have been too rough, something too rough. You must return and mend it. FIRST SENATOR There’s no remedy Unless, by not so doing, our good [[City|city]] Cleave in the midst and perish. |
-| [[Volumnia|VOLUMNIA]] | (to [[Coriolanus]]) Pray be counselled. I have a heart as little apt as yours, But yet a brain that leads my use of anger To better vantage. |
-| [[Menenius|MENENIUS]] | [[Well]] said, noble woman. Before he should thus stoop to th’ herd, but that The violent fit o’th’ [[Time|time]] craves it as physic For the whole state, I would put mine armour on, Which I can scarcely bear. |
-| [[Coriolanus|CORIOLANUS]] | What must I do? |
-| [[Menenius|MENENIUS]] | Return to th’ tribunes. |
-| [[Coriolanus|CORIOLANUS]] | [[Well]], what then, what then? |
-| [[Menenius|MENENIUS]] | Repent what you have spoke. |
-| [[Coriolanus|CORIOLANUS]] | For them? I cannot do it to the gods. Must I then do’t to them? |
-| [[Volumnia|VOLUMNIA]] | You are too absolute, Though therein you can never be too noble, But when extremities speak. I have heard you say, [[Honour]] and policy, like unsevered friends, I’th’ war do grow together. Grant that, and tell me In peace what each of them by th’ other lose That they combine not there. |
-| [[Coriolanus|CORIOLANUS]] | Tush, tush! |
-| [[Menenius|MENENIUS]] | A good demand. |
-| [[Volumnia|VOLUMNIA]] | If it be [[Honour|honour]] in your wars to seem The same you are not, which for your best ends You adopt your policy, how is it less or worse That it shall hold companionship in peace With [[Honour|honour]], as in war, since that to both It stands in like request? |
-| [[Coriolanus|CORIOLANUS]] | Why force you this? |
-| [[Volumnia|VOLUMNIA]] | Because that now it lies you on to speak to th’ people, Not by your own instruction, nor by th’ matter Which your heart prompts you, but with such words That are but roted in your tongue, though but Bastards and syllables of no allowance To your bosom’s [[Truth|truth]]. Now this no more Dishonours you at all than to take in A town with gentle words, which else would put you To your fortune and the hazard of much [[Blood|blood]]. I would dissemble with my [[Nature|nature]] where My fortunes and my friends at stake required I should do so in [[Honour|honour]]. I am in this Your wife, your son, these senators, the nobles; And you will rather show our general louts How you can frown than spend a fawn upon ’em For the inheritance of their loves and safeguard Of what that want might ruin. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--02_exchange_menenius" data-title="Coriolanus — Act III, Scene 2 — exchange (MENENIUS) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | Noble lady! (To [[Coriolanus]]) Come, go with us, speak fair. You may salve so, Not what is dangerous present, but the loss Of what is past. |
-| [[Volumnia|VOLUMNIA]] | I prithee now, my son, She takes his bonnet Go to them with this bonnet in thy hand, And thus far having stretched it—here be with them— Thy knee bussing the stones—for in such business Action is eloquence, and the eyes of th’ ignorant More learnèd than the ears—waving thy head, With often, thus, correcting thy stout heart, Now humble as the ripest mulberry That will not hold the handling; or say to them Thou art their soldier and, being bred in broils, Hast not the soft way which, thou dost confess, Were fit for thee to use as they to claim, In asking their good loves; but thou wilt frame Thyself, forsooth, hereafter theirs so far As thou hast power and person. |
-| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) This but done Even as she speaks, why, their hearts were yours; For they have pardons, being asked, as free As words to little purpose. |
-| [[Volumnia|VOLUMNIA]] | (to [[Coriolanus]]) Prithee now, Go, and be ruled, although I know thou hadst rather Follow thine enemy in a fiery gulf Than flatter him in a bower. Enter [[Cominius]] Here is [[Cominius]]. |
-| [[Cominius|COMINIUS]] | I have been i‘th’ market-place; and, sir, ’tis fit You make strong party, or defend yourself By calmness or by absence. All’s in anger. |
-| [[Menenius|MENENIUS]] | Only fair speech. |
-| [[Cominius|COMINIUS]] | I think ’twill serve, if he Can thereto frame his spirit. |
-| [[Volumnia|VOLUMNIA]] | He must, and will. Prithee now, say you will, and go about it. |
-| [[Coriolanus|CORIOLANUS]] | Must I go show them my unbarbèd sconce? Must I with my base tongue give to my noble heart A lie that it must bear? [[Well]], I will do’t. Yet were there but this single plot to lose, This mould of Martius they to [[Dust|dust]] should grind it And throw’t against the [[Wind|wind]]. To th’ market-place. You have put me now to such a part which never I shall discharge to th’ life. |
-| [[Cominius|COMINIUS]] | Come, come, we’ll prompt you. |
-| [[Volumnia|VOLUMNIA]] | I prithee now, sweet son, as thou hast said My praises made thee first a soldier, so, To have my praise for this, perform a part Thou hast not done before. |
-| [[Coriolanus|CORIOLANUS]] | [[Well]], I must do’t. Away, my disposition; and possess me Some harlot’s spirit! My throat of war be turned, Which choired with my drum, into a pipe Small as an eunuch or the virgin voice That babies lull asleep! The smiles of knaves Tent in my cheeks, and schoolboys’ [[Tears|tears]] take up The glasses of my sight! A beggar’s tongue Make motion through my lips, and my armed knees, Who bowed but in my stirrup, bend like his That hath received an alms! I will not do’t, Lest I surcease to [[Honour|honour]] mine own [[Truth|truth]], And by my [[Body|body]]’s action teach my mind A most inherent baseness. |
-| [[Volumnia|VOLUMNIA]] | At thy choice, then. To beg of thee it is my more dishonour Than thou of them. Come all to ruin. Let Thy mother rather feel thy [[Pride|pride]] than [[Fear|fear]] Thy dangerous stoutness, for I mock at [[Death|death]] With as big heart as thou. Do as thou list. Thy valiantness was mine, thou sucked’st it from me, But owe thy [[Pride|pride]] thyself. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--03_exchange_coriolanus" data-title="Coriolanus — Act III, Scene 2 — exchange (CORIOLANUS) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Coriolanus|CORIOLANUS]] | Pray be content. Mother, I am going to the market-place. Chide me no more. I’ll mountebank their loves, Cog their hearts from them, and come [[Home|home]] beloved Of all the trades in Rome. Look, I am going. Commend me to my wife. I’ll return consul, Or never trust to what my tongue can do I’th’ way of flattery further. |
-| [[Volumnia|VOLUMNIA]] | Do your will. Exit [[Volumnia]] |
-| [[Cominius|COMINIUS]] | Away! The tribunes do attend you. Arm yourself To answer mildly, for they are prepared With accusations, as I hear, more strong Than are upon you yet. |
-| [[Coriolanus|CORIOLANUS]] | The word is ‘mildly’. Pray you let us go. Let them accuse me by invention, I Will answer in mine [[Honour|honour]]. |
-| [[Menenius|MENENIUS]] | Ay, but mildly. |
-| [[Coriolanus|CORIOLANUS]] | [[Well]], mildly be it, then—mitd)y. Exeunt |
-| [[Coriolanus|CORIOLANUS]] | 3.3 Enter [[Sicinius]] and [[Brutus]] |
-| [[Brutus|BRUTUS]] | In this point charge him [[Home|home]]: that he affects Tyrannical power. If he evade us there, Enforce him with his envy to the people, And that the spoil got on the Antiats Was ne’er distributed. Enter an Aedile What, will he come? |
-| AEDILE | He’s coming. |
-| [[Brutus|BRUTUS]] | How accompanied? |
-| AEDILE | With old [[Menenius]], and those senators That always favoured him. |
-| [[Sicinius|SICINIUS]] | Have you a catalogue Of all the voices that we have procured, Set down by th’ poll? |
-| AEDILE | I have, ’tis ready. |
-| [[Sicinius|SICINIUS]] | Have you collected them by tribes? |
-| AEDILE | I have. |
-| [[Sicinius|SICINIUS]] | Assemble presently the people hither, And when they hear me say ‘It shall be so I’th’ right and strength o‘th’ commons’, be it either For [[Death|death]], for fine, or banishment, then let them, If I say ‘Fine’, cry ‘Fine!’, if ‘[[Death]]’, cry ‘[[Death]]!’, Insisting on the old prerogative And power i‘th’ [[Truth|truth]] o’th’ cause. |
-| AEDILE | I shall inform them. |
-| [[Brutus|BRUTUS]] | And when such [[Time|time]] they have begun to cry, Let them not cease, but with a din confused Enforce the present execution Of what we chance to sentence. |
-| AEDILE | Very [[Well|well]]. |
-| [[Sicinius|SICINIUS]] | Make them be strong, and ready for this hint When we shall hap to give’t them. |
-| [[Brutus|BRUTUS]] | to the Aedile Go about it. Exit Aedile Put him to choler straight. He hath been used Ever to conquer and to have his worth Of contradiction. Being once chafed, he cannot Be reined again to temperance. Then he speaks What’s in his heart, and that is there which looks With us to break his neck. Enter [[Coriolanus]], [[Menenius]], and [[Cominius]], with other Senators and Patricians |
-| [[Sicinius|SICINIUS]] | [[Well]], here he comes. |
-| [[Menenius|MENENIUS]] | (to [[Coriolanus]]) Calmly, I do beseech you. |
-| [[Coriolanus|CORIOLANUS]] | Ay, as an hostler that for th’ poorest piece Will bear the knave by th’ volume.—Th‘honoured gods Keep Rome in safety and the chairs of justice Supplied with worthy men, plant [[Love|love]] among’s, Throng our large temples with the shows of peace, And not our streets with war! |
-| FIRST SENATOR | Amen, amen. |
-| [[Menenius|MENENIUS]] | A noble wish. Enter the Aedile with the Citizens |
-| [[Sicinius|SICINIUS]] | Draw near, ye people. |
-| AEDILE | List to your tribunes. Audience! Peace, I say. |
-| [[Coriolanus|CORIOLANUS]] | First, hear me speak. |
-| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] [[Well]], say.—Peace ho! |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--04_exchange_coriolanus" data-title="Coriolanus — Act III, Scene 2 — exchange (CORIOLANUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Coriolanus|CORIOLANUS]] | Shall I be charged no further than this present? Must all determine here? |
-| [[Sicinius|SICINIUS]] | I do demand If you submit you to the people’s voices, Allow their officers, and are content To suffer lawful censure for such faults As shall be proved upon you. |
-| [[Coriolanus|CORIOLANUS]] | I am content. |
-| [[Menenius|MENENIUS]] | Lo, citizens, he says he is content. The warlike service he has done, consider. Think Upon the wounds his [[Body|body]] bears, which show Like graves i’th’ holy churchyard. |
-| [[Coriolanus|CORIOLANUS]] | Scratches with briers, Scars to move laughter only. |
-| [[Menenius|MENENIUS]] | Consider further That when he speaks not like a citizen, You find him like a soldier. Do not take His rougher accents for malicious sounds, But, as I say, such as become a soldier Rather than envy you. |
-| [[Cominius|COMINIUS]] | [[Well]], [[Well|well]], no more. |
-| [[Coriolanus|CORIOLANUS]] | What is the matter That, being passed for consul with full voice, I am so dishonoured that the very hour You take it off again? |
-| SICINUS | Answer to us. |
-| [[Coriolanus|CORIOLANUS]] | Say, then. ’Tis true I ought so. |
-| [[Sicinius|SICINIUS]] | We charge you that you have contrived to take From Rome all seasoned office, and to [[Wind|wind]] Yourself into a power tyrannical, For which you are a traitor to the people. |
-| [[Coriolanus|CORIOLANUS]] | How, traitor? |
-| [[Menenius|MENENIUS]] | Nay, temperatety—your promise. |
-| [[Coriolanus|CORIOLANUS]] | The fires i‘th’ lowest hell fold in the people! Call me their traitor, thou injurious tribune? Within thine eyes sat twenty thousand deaths, In thy hands clutched as many millions, in Thy lying tongue both numbers, I would say ‘Thou liest’ unto thee with a voice as free As I do pray the gods. |
-| [[Sicinius|SICINIUS]] | Mark you this, people? |
-| ALL | THE CITIZENS  To th’ rock, to th’ rock with him! |
-| [[Sicinius|SICINIUS]] | Peace! We need not put new matter to his charge. What you have seen him do and heard him speak, Beating your officers, cursing yourselves, Opposing laws with strokes, and here defying Those whose great power must try him— Even this, so criminal and in such capital kind, Deserves th’extremest [[Death|death]]. |
-| [[Brutus|BRUTUS]] | But since he hath Served [[Well|well]] for Rome— |
-| [[Coriolanus|CORIOLANUS]] | What do you prate of service? |
-| [[Brutus|BRUTUS]] | I talk of that that know it. |
-| [[Coriolanus|CORIOLANUS]] | You? |
-| [[Menenius|MENENIUS]] | Is this the promise that you made your mother? |
-| [[Cominius|COMINIUS]] | Know, I pray you— |
-| [[Coriolanus|CORIOLANUS]] | I’ll know no further. Let them pronounce the steep Tarpeian [[Death|death]], Vagabond [[Exile|exile]], flaying, pent to linger But with a grain a day, I would not buy Their [[Mercy|mercy]] at the price of one fair word, Nor check my [[Courage|courage]] for what they can give To have’t with saying ‘Good morrow’. |
-| [[Sicinius|SICINIUS]] | For that he has, As much as in him lies, from [[Time|time]] to [[Time|time]] Inveighed against the people, seeking means To pluck away their power, as now at last Given hostile strokes, and that not in the presence Of dreaded justice, but on the ministers That doth distribute it, in the name o‘th’ people, And in the power of us the tribunes, we E’en from this instant banish him our [[City|city]] In peril of precipitation From off the rock Tarpeian, never more To enter our Rome gates. I’th’ people’s name I say it shall be so. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--05_exchange_all" data-title="Coriolanus — Act III, Scene 2 — exchange (ALL) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| ALL | THE CITIZENS It shall be so, It shall be so. Let him away. He’s banished, And it shall be so. |
-| [[Cominius|COMINIUS]] | Hear me, my masters and my common friends. |
-| [[Sicinius|SICINIUS]] | He’s sentenced. No more hearing. |
-| [[Cominius|COMINIUS]] | Let me speak. I have been consul, and can show for Rome Her enemies’ marks upon me. I do [[Love|love]] My country’s good with a respect more tender, More holy and profound, than mine own life, My dear wife’s estimate, her womb’s increase, And treasure of my loins. Then if I would Speak that— |
-| [[Sicinius|SICINIUS]] | We know your drift. Speak what? |
-| [[Brutus|BRUTUS]] | There’s no more to be said, but he is banished, As enemy to the people and his country. It shall be so. |
-| ALL | THE CITIZENS It shall be so, it shall be so. |
-| [[Coriolanus|CORIOLANUS]] | You common cry of curs, whose breath I hate As reek o’th’ rotten fens, whose loves I prize As the dead carcasses of unburied men That do corrupt my air: I banish you. And here remain with your uncertainty. Let every feeble rumour shake your hearts; Your enemies, with nodding of their plumes, Fan you into [[Despair|despair]]! Have the power still To banish your defenders, till at length Your ignorance—which finds not till it feels— Making but reservation of yourselves, Still your own foes, deliver you As most abated captives to some nation That won you without blows! Despising For you the [[City|city]], thus I turn my back. There is a world elsewhere. Exeunt [[Coriolanus]], [[Cominius]], and [[Menenius]], with the rest of the Patricians. The Citizens all shout, and throw up their caps |
-| AEDILE | The people’s enemy is gone, is gone. |
-| ALL THE CITIZENS | Our enemy is banished, he is gone. Hoo-oo! |
-| [[Sicinius|SICINIUS]] | Go see him out at gates, and follow him As he hath followed you, with all despite. Give him deserved vexation. Let a guard Attend us through the [[City|city]]. |
-| ALL THE CITIZENS | Come, come, let’s see him out at gates. Come. The gods preserve our noble tribunes! Come. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--01_exchange_dialogue" data-title="Coriolanus — Act IV, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Music plays. Enter a Servingman |
-| FIRST SERVINGMAN | Wine, wine, wine! What service is here? I think our fellows are asleep. Exit Enter a Second Servingman |
-| SECOND SERVINGMAN | Where’s Cotus? My master calls for him. Cotus! Exit Enter [[Coriolanus]], as before |
-| [[Coriolanus|CORIOLANUS]] | A goodly [[house]]. The feast Smells [[Well|well]], but I appear not like a guest. Enter the First Servingman |
-| FIRST SERVINGMAN | What would you have, friend? Whence are you? Here’s no place for you. Pray go to the door. Exit |
-| [[Coriolanus|CORIOLANUS]] | I have deserved no better entertainment In being [[Coriolanus]]. Enter Second Servingman |
-| SECOND SERVINGMAN | Whence are you, sir? Has the porter his eyes in his head, that he gives entrance to such companions? Pray get you out. |
-| [[Coriolanus|CORIOLANUS]] | Away! |
-| SECOND SERVINGMAN | Away? Get you away. |
-| [[Coriolanus|CORIOLANUS]] | Now thou’rt troublesome. |
-| SECOND SERVINGMAN | Are you so brave? I’ll have you talked with anon. Enter Third Servingman. The First meets him |
-| THIRD SERVINGMAN | What fellow’s this? |
-| FIRST SERVINGMAN | A strange one as ever I looked on. I cannot get him out o’th’ [[house]]. Prithee, call my master to him. |
-| THIRD SERVINGMAN | (to [[Coriolanus]]) What have you to do here, fellow? Pray you, avoid the [[house]]. |
-| [[Coriolanus|CORIOLANUS]] | Let me but stand. I will not hurt your hearth. |
-| THIRD SERVINGMAN | What are you? |
-| [[Coriolanus|CORIOLANUS]] | A gentleman. |
-| THIRD SERVINGMAN | A marvellous poor one. |
-| [[Coriolanus|CORIOLANUS]] | True, so I am. |
-| THIRD SERVINGMAN | Pray you, poor gentleman, take up some other station. Here’s no place for you. Pray you, avoid. Come. |
-| [[Coriolanus|CORIOLANUS]] | Follow your function. Go and batten on cold bits. He pushes him away from him |
-| THIRD SERVINGMAN | What, you will not?—Prithee tell my master what a strange guest he has here. |
-| SECOND SERVINGMAN | And I shall. Exit Second Servingman |
-| THIRD SERVINGMAN | Where dwell’st thou? |
-| [[Coriolanus|CORIOLANUS]] | Under the canopy. |
-| THIRD SERVINGMAN | Under the canopy? |
-| [[Coriolanus|CORIOLANUS]] | Ay. |
-| THIRD SERVINGMAN | Where’s that? |
-| [[Coriolanus|CORIOLANUS]] | I’th’ [[City|city]] of kites and crows. |
-| THIRD SERVINGMAN | I‘th’ [[City|city]] of kites and crows? What an ass it is! Then thou dwell’st with daws, too? |
-| [[Coriolanus|CORIOLANUS]] | No, I serve not thy master. |
-| THIRD SERVINGMAN | How, sir? Do you meddle with my master? |
-| [[Coriolanus|CORIOLANUS]] | Ay, ‘tis an honester service than to meddle with thy mistress. Thou prat’st and prat’st. Serve with thy trencher. Hence! He beats him away. Enter [[Aufidius]], with the Second Servingman |
-| [[Aufidius|AUFIDIUS]] | Where is this fellow? |
-| SECOND SERVINGMAN | Here, sir. I’d have beaten him like a dog but for disturbing the lords within. The Servingmen stand aside |
-| [[Aufidius|AUFIDIUS]] | Whence com‘st thou? What wouldst thou? Thy name? Why speak’st not? Speak, man. What’s thy name? |
-| [[Coriolanus|CORIOLANUS]] | unmuffling his head If, Tullus, Not yet thou know’st me, and seeing me dost not Think me for the man I am, necessity Commands me name myself. |
-| [[Aufidius|AUFIDIUS]] | What is thy name? |
-| [[Coriolanus|CORIOLANUS]] | A name unmusical to the Volscians’ ears And harsh in sound to thine. |
-| [[Aufidius|AUFIDIUS]] | Say, what’s thy name? Thou hast a grim appearance, and thy face Bears a command in’t. Though thy tackle’s torn, Thou show’st a noble vessel. What’s thy name? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--02_exchange_coriolanus" data-title="Coriolanus — Act IV, Scene 5 — exchange (CORIOLANUS) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Coriolanus|CORIOLANUS]] | Prepare thy brow to frown. Know’st thou me yet? |
-| [[Aufidius|AUFIDIUS]] | I know thee not. Thy name? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--03_monologue_coriolanus" data-title="Coriolanus — Act IV, Scene 5 — monologue (CORIOLANUS) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Coriolanus|CORIOLANUS]] | My name is Caius Martius, who hath done To thee particularly, and to all the Volsces, Great hurt and mischief. Thereto witness may My surname [[Coriolanus]]. The painful service, The extreme dangers, and the drops of [[Blood|blood]] Shed for my thankless country, are requited But with that surname—a good [[Memory|memory]] And witness of the malice and displeasure Which thou shouldst bear me. Only that name remains. The cruelty and envy of the people, Permitted by our dastard nobles, who Have all forsook me, hath devoured the rest, And suffered me by th’ voice of slaves to be Whooped out of Rome. Now this extremity Hath brought me to thy hearth. Not out of [[Hope|hope]]— Mistake me not—to save my life, for if I had feared [[Death|death]], of all the men i‘th’ world I would have ’voided thee, but in mere spite To be full quit of those my banishers Stand I before thee here. Then if thou hast A heart of wreak in thee, that wilt [[Revenge|revenge]] Thine own particular wrongs and stop those maims Of shame seen through thy country, [[Speed|speed]] thee straight, And make my misery serve thy turn. So use it That my revengeful services may prove As benefits to thee; for I will fight Against my cankered country with the spleen Of all the under-fiends. But if so be Thou dar‘st not this, and that to prove more fortunes Thou’rt tired, then, in a word, I also am Longer to live most weary, and present My throat to thee and to thy ancient malice, Which not to cut would show thee but a [[Fool|fool]], Since I have ever followed thee with hate, Drawn tuns of [[Blood|blood]] out of thy country’s breast, And cannot live but to thy shame unless It be to do thee service. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--04_monologue_aufidius_o" data-title="Coriolanus — Act IV, Scene 5 — monologue (AUFIDIUS O) [4]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Aufidius|AUFIDIUS]] | O Martius, Martius! Each word thou hast spoke hath weeded from my heart A root of ancient envy. If Jupiter Should from yon cloud speak divine things And say “Tis true’, I’d not believe them more Than thee, all-noble Martius. Let me twine Mine arms about that [[Body|body]] whereagainst My grained ash an hundred times hath broke, And scarred the [[Moon|moon]] with splinters. (He embraces [[Coriolanus]]) Here I clip The anvil of my [[Sword|sword]], and do contest As hotly and as nobly with thy [[Love|love]] As ever in ambitious strength I did Contend against thy valour. Know thou first, I loved the maid I married; never man Sighed truer breath. But that I see thee here, Thou noble thing, more dances my rapt heart Than when I first my wedded mistress saw Bestride my threshold. Why, thou Mars, I tell thee We have a power on foot, and I had purpose Once more to hew thy target from thy brawn, Or lose mine arm for’t. Thou hast beat me out Twelve several times, and I have nightly since Dreamt of encounters ‘twixt thyself and me— We have been down together in my [[Sleep|sleep]], Unbuckling helms, fisting each other’s throat— And waked half dead with nothing. Worthy Martius, Had we no other quarrel else to Rome but that Thou art thence banished, we would muster all From twelve to seventy, and, pouring war Into the bowels of ungrateful Rome, Like a bold flood o’erbear’t. O, come, go in, And take our friendly senators by th’ hands Who now are here taking their [[Leaves|leaves]] of me, Who am prepared against your territories, Though not for Rome itself. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--05_exchange_coriolanus" data-title="Coriolanus — Act IV, Scene 5 — exchange (CORIOLANUS) [5]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Coriolanus|CORIOLANUS]] | You bless me, gods. |
-| [[Aufidius|AUFIDIUS]] | Therefore, most absolute sir, if thou wilt have The leading of thine own revenges, take Th‘one half of my commission and set down— As best thou art experienced, since thou know’st Thy country’s strength and weakness—thine own ways: Whether to knock against the gates of Rome, Or rudely visit them in parts remote To fright them ere destroy. But come in. Let me commend thee first to those that shall Say yea to thy desires. A thousand welcomes! And more a friend than ere an enemy; Yet, Martius, that was much. Your hand. Most welcome! Exeunt The two Servingmen come forward |
-| FIRST SERVINGMAN | Here’s a strange alteration! |
-| SECOND SERVINGMAN | By my hand, I had thought to have strucken him with a cudgel, and yet my mind gave me his clothes made a false report of him. |
-| FIRST SERVINGMAN | What an arm he has! He turned me about with his finger and his thumb as one would set up a top. |
-| SECOND SERVINGMAN | Nay, I knew by his face that there was something in him. He had, sir, a kind of face, methought—I cannot tell how to term it. |
-| FIRST SERVINGMAN | He had so, looking, as it were—wou)d I were hanged but I thought there was more in him than I could think. |
-| SECOND SERVINGMAN | So did I, I’ll be sworn. He is simply the rarest man i’th’ world. |
-| FIRST SERVINGMAN | I think he is yet a greater soldier than he you wot on. |
-| SECOND SERVINGMAN | Who, my master? |
-| FIRST SERVINGMAN | Nay, it’s no matter for that. |
-| SECOND SERVINGMAN | Worth six on him. |
-| FIRST SERVINGMAN | Nay, not so, neither; but I take him to be the greater soldier. |
-| SECOND SERVINGMAN | [[Faith]], look you, one cannot tell how to say that. For the defence of a town our general is excellent. |
-| FIRST SERVINGMAN | Ay, and for an assault too. Enter the Third Servingman |
-| THIRD SERVINGMAN | O, slaves, I can tell you news—news, you rascals! |
-| FIRST | and SECOND SERVINGMEN What, what, what? Let’s partake. |
-| THIRD SERVINGMAN | I would not be a Roman of all nations. I had as lief be a condemned man. |
-| FIRST | and SECOND SERVINGMEN Wherefore? Wherefore? |
-| THIRD SERVINGMAN | Why, here’s he that was wont to thwack our general, Caius Martius. |
-| FIRST SERVINGMAN | Why do you say ‘thwack our general’? |
-| THIRD SERVINGMAN | I do not say ‘thwack our general’; but he was always good enough for him. |
-| SECOND SERVINGMAN | Come, we are fellows and friends. He was ever too hard for him. I have heard him say so himself. |
-| FIRST SERVINGMAN | He was too hard for him directly. To say the [[Truth|truth]] on’t, before Corioles he scotched him and notched him like a carbonado. |
-| SECOND SERVINGMAN | An he had been cannibally given, he might have broiled and eaten him too. |
-| FIRST SERVINGMAN | But more of thy news! |
-| THIRD SERVINGMAN | Why, he is so made on here within as if he were son and heir to Mars; set at upper end o‘th’ table, no question asked him by any of the senators but they stand bald before him. Our general’ himself makes a mistress of him, sanctifies himself with’s hand, and turns up the white o’th’ eye to his discourse. But the [[Bottom|bottom]] of the news is, our general is cut i’th’ middle, and but one half of what he was yesterday, for the other has half by the entreaty and grant of the whole table. He’ll go, he says, and sowl the porter of Rome gates by th’ ears. He will mow all down before him, and leave his passage polled. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--06_exchange_second_servingman" data-title="Coriolanus — Act IV, Scene 5 — exchange (SECOND SERVINGMAN) [6]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SECOND SERVINGMAN | And he’s as like to do’t as any man I can imagine. |
-| THIRD SERVINGMAN | Do’t? He will do’t; for look you, sir, he has as many friends as enemies; which friends, sir, as it were durst not—look you, sir—show themselves, as we term it, his friends whilst he’s in dejectitude. |
-| FIRST SERVINGMAN | Dejectitude? What’s that? |
-| THIRD SERVINGMAN | But when they shall see, sir, his crest up again and the man in [[Blood|blood]], they will out of their burrows like conies after rain, and revel all with him. |
-| FIRST SERVINGMAN | But when goes this forward? |
-| THIRD SERVINGMAN | Tomorrow, today, presently. You shall have the drum struck up this afternoon. ’Tis as it were a parcel of their feast, and to be executed ere they wipe their lips. |
-| SECOND SERVINGMAN | Why, then we shall have a stirring world again. This peace is nothing but to rust iron, increase tailors, and breed ballad-makers. |
-| FIRST SERVINGMAN | Let me have war, say I. It exceeds peace as far as day does [[Night|night]]. It’s sprightly walking, audible and full of vent. Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men. |
-| SECOND SERVINGMAN | ’Tis so, and as war in some sort may be said to be a ravisher, so it cannot be denied but peace is a great maker of cuckolds. |
-| FIRST SERVINGMAN | Ay, and it makes men hate one another. |
-| THIRD SERVINGMAN | Reason; because they then less need one another. The wars for my money. I [[Hope|hope]] to see Romans as cheap as Volscians. A sound within  They are rising, they are rising. |
-| FIRST | and SECOND SERVINGMEN In, in, in, in. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_6--01_exchange_dialogue" data-title="Coriolanus — Act IV, Scene 6 — exchange (dialogue) [1]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the two tribunes, [[Sicinius]] and [[Brutus]] |
-| [[Sicinius|SICINIUS]] | We hear not of him, neither need we [[Fear|fear]] him. His remedies are tame—the present peace And quietness of the people, which before Were in wild hurry. Here do we make his friends Blush that the world goes [[Well|well]], who rather had, Though they themselves did suffer by‘t, behold Dissentious numbers pest’ring streets than see Our tradesmen singing in their shops and going About their functions friendly. Enter [[Menenius]] |
-| [[Brutus|BRUTUS]] | We stood to’t in good [[Time|time]]. Is this [[Menenius]]? |
-| [[Sicinius|SICINIUS]] | ‘Tis he, ’tis he. O, he is grown most kind of late. Hail, sir. |
-| [[Menenius|MENENIUS]] | Hail to you both. |
-| [[Sicinius|SICINIUS]] | Your [[Coriolanus]] is not much missed But with his friends. The commonwealth doth stand, And so would do were he more angry at it. |
-| [[Menenius|MENENIUS]] | All’s [[Well|well]], and might have been much better if He could have temporized. |
-| [[Sicinius|SICINIUS]] | Where is he, hear you? |
-| [[Menenius|MENENIUS]] | Nay, I hear nothing. His mother and his wife hear nothing from him. Enter three or four Citizens |
-| ALL THE CITIZENS | (to the tribunes) The gods preserve you both. |
-| [[Sicinius|SICINIUS]] | Good e’en, our neighbours. |
-| [[Brutus|BRUTUS]] | Good e‘en to you all, good e’en to you all. |
-| FIRST CITIZEN | Ourselves, our wives and children, on our knees Are bound to pray for you both. |
-| [[Sicinius|SICINIUS]] | Live and thrive. |
-| [[Brutus|BRUTUS]] | Farewell, kind neighbours. We wished [[Coriolanus]] had loved you as we did. |
-| ALL THE CITIZENS | Now the gods keep you! |
-| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] Farewell, farewell. Exeunt Citizens |
-| [[Sicinius|SICINIUS]] | This is a happier and more comely [[Time|time]] Than when these fellows ran about the streets Crying confusion. |
-| [[Brutus|BRUTUS]] | Caius Martius was A worthy officer i‘th’ war, but insolent, O’ercome with [[Pride|pride]], ambitious past all thinking, [[Self]]-loving— |
-| [[Sicinius|SICINIUS]] | And affecting one sole throne Without assistance. |
-| [[Menenius|MENENIUS]] | I think not so. |
-| [[Sicinius|SICINIUS]] | We should by this, to all our lamentation, If he had gone forth consul found it so. |
-| [[Brutus|BRUTUS]] | The gods have [[Well|well]] prevented it, and Rome Sits safe and still without him. Enter an Aedile |
-| AEDILE | Worthy tribunes, There is a slave whom we have put in [[Prison|prison]] Reports the Volsces, with two several powers, Are entered in the Roman territories, And with the deepest malice of the war Destroy what lies before ’em. |
-| [[Menenius|MENENIUS]] | ’Tis [[Aufidius]], Who, hearing of our Martius’ banishment, Thrusts forth his horns again into the world, Which were inshelled when Martius stood for Rome, And durst not once peep out. |
-| [[Sicinius|SICINIUS]] | Come, what talk you of Martius? [[Brutus|BRUTUS]] (to the Aedile) Go see this rumourer whipped. It cannot be The Volsces dare break with us. |
-| [[Menenius|MENENIUS]] | Cannot be? We have record that very [[Well|well]] it can, And three examples of the like hath been Within my age. But reason with the fellow, Before you punish him, where he heard this, Lest you shall chance to whip your information And beat the messenger who bids beware Of what is to be dreaded. |
-| [[Sicinius|SICINIUS]] | Tell not me. I know this cannot be. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_6--02_exchange_brutus" data-title="Coriolanus — Act IV, Scene 6 — exchange (BRUTUS) [2]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Brutus|BRUTUS]] | Not possible. Enter a Messenger |
-| MESSENGER | The nobles in great earnestness are going All to the senate-[[house]]. Some news is come That turns their countenances. |
-| [[Sicinius|SICINIUS]] | ’Tis this slave. (To the Aedile) Go whip him fore the people’s eyes.— His raising, Nothing but his report. Exit Aedile |
-| MESSENGER | Yes, worthy sir, The slave’s report is seconded, and more, More fearful, is delivered. |
-| [[Sicinius|SICINIUS]] | What more fearful? |
-| MESSENGER | It is spoke freely out of many mouths— How probable I do not know—that Martius, Joined with [[Aufidius]], leads a power ‘gainst Rome, And vows [[Revenge|revenge]] as spacious as between The young’st and oldest thing. |
-| [[Sicinius|SICINIUS]] | This is most likely! |
-| [[Brutus|BRUTUS]] | Raised only that the weaker sort may wish Good Martius [[Home|home]] again. |
-| [[Sicinius|SICINIUS]] | The very trick on’t. |
-| [[Menenius|MENENIUS]] | This is unlikely. He and [[Aufidius]] can no more atone Than violent’st contrariety. Enter another Messenger |
-| SECOND MESSENGER | You are sent for to the senate. A fearful army, led by Caius Martius Associated with [[Aufidius]], rages Upon our territories, and have already O’erborne their way, consumed with [[Fire|fire]] and took What lay before them. Enter [[Cominius]] |
-| [[Cominius|COMINIUS]] | O, you have made good work! |
-| [[Menenius|MENENIUS]] | What news? What news? |
-| [[Cominius|COMINIUS]] | You have holp to ravish your own daughters and To melt the [[City|city]] leads upon your pates, To see your wives dishonoured to your noses. |
-| [[Menenius|MENENIUS]] | What’s the news? What’s the news? |
-| [[Cominius|COMINIUS]] | Your temples burned in their cement, and Your franchises, whereon you stood, confined Into an auger’s bore. |
-| [[Menenius|MENENIUS]] | Pray now, your news? (To the tribunes) You have made fair work, I [[Fear|fear]] me. (To [[Cominius]]) Pray, your news. If Martius should be joined wi’th’ Volscians— |
-| [[Cominius|COMINIUS]] | If? He is their god. He leads them like a thing Made by some other deity than [[Nature|nature]], That shapes man better, and they follow him Against us brats with no less confidence Than boys pursuing [[Summer|summer]] butterflies, Or butchers killing flies. |
-| [[Menenius|MENENIUS]] | (to the tribunes) You have made good work, You and your apron-men, you that stood so much Upon the voice of occupation and The breath of garlic-eaters! |
-| [[Cominius|COMINIUS]] | (to the tribunes) He’ll shake your Rome about your ears. |
-| [[Menenius|MENENIUS]] | As Hercules did shake down mellow fruit. (To the tribunes) You have made fair work. |
-| [[Brutus|BRUTUS]] | But is this true, sir? |
-| [[Cominius|COMINIUS]] | Ay, and you’ll look pale Before you find it other. All the regions Do smilingly revolt, and who resists Are mocked for valiant ignorance, And perish constant fools. Who is’t can blame him? Your enemies and his find something in him. |
-| MENENIVS | We are all undone unless The noble man have [[Mercy|mercy]]. |
-| [[Cominius|COMINIUS]] | Who shall ask it? The tribunes cannot do‘t, for shame; the people Deserve such pity of him as the wolf Does of the shepherds. For his best friends, if they Should say ‘Be good to Rome’, they charged him even As those should do that had deserved his hate, And therein showed like enemies. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_6--03_exchange_menenius" data-title="Coriolanus — Act IV, Scene 6 — exchange (MENENIUS) [3]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Menenius|MENENIUS]] | ’Tis true. If he were putting to my [[house]] the brand That should consume it, I have not the face To say ‘Beseech you, cease.’ (To the tribunes) You have made fair hands, You and your crafts! You have crafted fair! |
-| [[Cominius|COMINIUS]] | (to the tribunes) You have brought A trembling upon Rome such as was never S’incapable of help. |
-| [[Sicinius|SICINIUS]] | and [[Brutus|BRUTUS]] Say not we brought it. |
-| [[Menenius|MENENIUS]] | How? Was’t we? We loved him, but like beasts and cowardly nobles Gave way unto your clusters, who did hoot Him out o’th’ [[City|city]]. |
-| [[Cominius|COMINIUS]] | But I [[Fear|fear]] They’ll roar him in again. Tullus [[Aufidius]], The second name of men, obeys his points As if he were his officer. Desperation Is all the policy, strength, and defence That Rome can make against them. Enter a troop of Citizens |
-| [[Menenius|MENENIUS]] | Here come the clusters. (To the Citizens) And is [[Aufidius]] with him? You are they That made the air unwholesome when you cast Your stinking greasy caps in hooting at [[Coriolanus]]’ [[Exile|exile]]. Now he’s coming, And not a hair upon a soldier’s head Which will not prove a whip. As many coxcombs As you threw caps up will he tumble down, And pay you for your voices. ’Tis no matter. If he could burn us all into one coal, We have deserved it. |
-| ALL THE CITIZENS | [[Faith]], we hear fearful news. |
-| FIRST CITIZEN | For mine own part, When I said ‘banish him’ I said ’twas pity. |
-| SECOND CITIZEN | And so did I. |
-| THIRD CITIZEN | And so did I, and to say the [[Truth|truth]] so did very many of us. That we did, we did for the best, and though we willingly consented to his banishment, yet it was against our will. |
-| [[Cominius|COMINIUS]] | You’re goodly things, you voices. |
-| [[Menenius|MENENIUS]] | You have made good work, You and your cry. Shall’s to the Capitol? |
-| [[Cominius|COMINIUS]] | O, ay, what else? Exeunt [[Menenius]] and [[Cominius]] |
-| [[Sicinius|SICINIUS]] | Go, masters, get you [[Home|home]]. Be not dismayed. These are a side that would be glad to have This true which they so seem to [[Fear|fear]]. Go [[Home|home]], And show no sign of [[Fear|fear]]. |
-| FIRST CITIZEN | The gods be good to us! Come, masters, let’s [[Home|home]]. I ever said we were i’th’ wrong when we banished him. |
-| SECOND CITIZEN | So did we all. But come, let’s [[Home|home]]. Exeunt Citizens |
-| [[Brutus|BRUTUS]] | I do not like this news. |
-| [[Sicinius|SICINIUS]] | Nor I. |
-| [[Brutus|BRUTUS]] | Let’s to the Capitol. Would half my wealth Would buy this for a lie. |
-| [[Sicinius|SICINIUS]] | Pray let’s go. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--01_exchange_dialogue" data-title="Coriolanus — Act V, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Coriolanus]] and [[Aufidius]], with Volscian soldiers. [[Coriolanus]] and [[Aufidius]] sit |
-| [[Coriolanus|CORIOLANUS]] | We will before the walls of Rome tomorrow Set down our host. My partner in this action, You must report to th’ Volscian lords how plainly I have borne this business. |
-| [[Aufidius|AUFIDIUS]] | Only their ends You have respected, stopped your ears against The general suit of Rome, never admitted A private whisper, no, not with such friends That thought them sure of you. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--02_monologue_coriolanus" data-title="Coriolanus — Act V, Scene 3 — monologue (CORIOLANUS) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Coriolanus|CORIOLANUS]] | This last old man, Whom with a cracked heart I have sent to Rome, Loved me above the measure of a father, Nay, godded me indeed. Their latest refuge Was to send him, for whose old [[Love|love]] I have— Though I showed sourly to him—once more offered The first conditions, which they did refuse And cannot now accept, to grace him only That thought he could do more. A very little I have yielded to. Fresh embassies and suits, Nor from the state nor private friends, hereafter Will I lend ear to. Shout within Ha, what shout is this? Shall I be tempted to infringe my vow In the same [[Time|time]] ’tis made? I will not. Enter [[Virgilia]], [[Volumnia]], Valeria, Young Martius, with attendants My wife comes foremost, then the honoured mould Wherein this trunk was framed, and in her hand The grandchild to her [[Blood|blood]]. But out, affection! All bond and privilege of [[Nature|nature]] break; Let it be virtuous to be obstinate. [[Virgilia]] curtsies What is that curtsy worth? Or those dove’s eyes Which can make gods forsworn? I melt, and am not Of stronger earth than others. [[Volumnia]] bows My mother bows, As if Olympus to a molehill should In supplication nod; and my young boy Hath an aspect of intercession which Great [[Nature|nature]] cries ‘Deny not’.—Let the Volsces Plough Rome and harrow [[Italy]]! I’ll never Be such a gosling to obey instinct, but stand As if a man were author of himself And knew no other kin. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--03_exchange_virgilia" data-title="Coriolanus — Act V, Scene 3 — exchange (VIRGILIA) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Virgilia|VIRGILIA]] | My lord and husband. |
-| [[Coriolanus|CORIOLANUS]] | These eyes are not the same I wore in Rome. |
-| [[Virgilia|VIRGILIA]] | The sorrow that delivers us thus changed Makes you think so. |
-| [[Coriolanus|CORIOLANUS]] | Like a dull actor now I have forgot my part, and I am out Even to a full disgrace. FRisingl Best of my flesh, Forgive my tyranny, but do not say For that ‘Forgive our Romans’. viraiha kisses him O, a kiss Long as my [[Exile|exile]], sweet as my [[Revenge|revenge]]! Now, by the jealous [[Queen|queen]] of heaven, that kiss I carried from thee, dear, and my true lip Hath virgined it e‘er since. You gods, I prate, And the most noble mother of the world Leave unsaluted! Sink, my knee, i’th’ earth. He kneels Of thy deep duty more impression show Than that of common sons. |
-| [[Volumnia|VOLUMNIA]] | O, stand up blest, [[Coriolanus]] rises Whilst with no softer cushion than the flint I kneel before thee, and unproperly Show duty as mistaken all this while Between the [[Child|child]] and parent. She kneels |
-| [[Coriolanus|CORIOLANUS]] | What’s this? Your knees to me? To your corrected son? He raises her Then let the pebbles on the hungry beach Fillip the [[Stars|stars]]; then let the mutinous winds Strike the proud cedars ‘gainst the fiery sun, Murd’ring impossibility to make What cannot be slight work. |
-| [[Volumnia|VOLUMNIA]] | Thou art my warrior. I holp to frame thee. Do you know this lady? |
-| [[Coriolanus|CORIOLANUS]] | The noble sister of Publicola, The [[Moon|moon]] of Rome, chaste as the icicle That’s candied by the [[Frost|frost]] from purest [[Snow|snow]] And hangs on Dian’s temple—dear Valeria! |
-| [[Volumnia|VOLUMNIA]] | (showing [[Coriolanus]] his son) This is a poor epitome of yours, Which by th’ interpretation of full [[Time|time]] May show like all yourself. |
-| [[Coriolanus|CORIOLANUS]] | (to Young Martius) The god of soldiers, With the consent of supreme Jove, inform Thy thoughts with nobleness, that thou mayst prove To shame unvulnerable, and stick i’th’ wars Like a great sea-mark standing every flaw And saving those that eye thee! |
-| [[Volumnia|VOLUMNIA]] | (to Young Martius) Your knee, sirrah. Young Martius kneels |
-| [[Coriolanus|CORIOLANUS]] | That’s my brave boy. |
-| [[Volumnia|VOLUMNIA]] | Even he, your wife, this lady, and myself Are suitors to you. |
-| [[Coriolanus|CORIOLANUS]] | I beseech you, peace. Or if you’d ask, remember this before: The things I have forsworn to grant may never Be held by you denials. Do not bid me Dismiss my soldiers, or capitulate Again with Rome’s mechanics. Tell me not Wherein I seem unnatural. [[Desire]] not t’allay My rages and revenges with your colder reasons. |
-| [[Volumnia|VOLUMNIA]] | O, no more, no more! You have said you will not grant us anything— For we have nothing else to ask but that Which you deny already. Yet we will ask, That, if you fail in our request, the blame May hang upon your hardness. Therefore hear us. |
-| [[Coriolanus|CORIOLANUS]] | [[Aufidius]] and you Volsces, mark, for we’ll Hear naught from Rome in private. He sits Your request? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--04_monologue_volumnia" data-title="Coriolanus — Act V, Scene 3 — monologue (VOLUMNIA) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Volumnia|VOLUMNIA]] | Should we be silent and not speak, our raiment And state of bodies would bewray what life We have led since thy [[Exile|exile]]. Think with thyself How more unfortunate than all living women Are we come hither, since that thy sight, which should Make our eyes flow with joy, hearts [[Dance|dance]] with comforts, Constrains them weep and shake with [[Fear|fear]] and sorrow, Making the mother, wife, and [[Child|child]] to see The son, the husband, and the father tearing His country’s bowels out; and to poor we Thine enmity’s most capital. Thou barr‘st us Our prayers to the gods, which is a comfort That all but we enjoy. For how can we, Alas, how can we for our country pray, Whereto we are bound, together with thy victory, Whereto we are bound? Alack, or we must lose neo The country, our dear [[Nurse|nurse]], or else thy person, Our comfort in the country. We must find An evident calamity, though we had Our wish which side should win. For either thou Must as a foreign recreant be led With manacles thorough our streets, or else Triumphantly tread on thy country’s ruin, And bear the palm for having bravely shed Thy wife and children’s [[Blood|blood]]. For myself, son, I purpose not to wait on fortune till These wars determine. If I cannot persuade thee Rather to show a noble grace to both parts Than seek the end of one, thou shalt no sooner March to assault thy country than to tread— Trust to’t, thou shalt not—on thy mother’s womb That brought thee to this world. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--05_exchange_virgilia" data-title="Coriolanus — Act V, Scene 3 — exchange (VIRGILIA) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Virgilia|VIRGILIA]] | Ay, and mine, That brought you forth this boy to keep your name Living to [[Time|time]]. |
-| YOUNG MARTIUS | A shall not tread on me. I’ll run away till I am bigger, but then I’ll fight. |
-| [[Coriolanus|CORIOLANUS]] | Not of a woman’s tenderness to be Requires nor [[Child|child]] nor woman’s face to see. I have sat too long. He rises and turns away |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--06_monologue_volumnia" data-title="Coriolanus — Act V, Scene 3 — monologue (VOLUMNIA) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Volumnia|VOLUMNIA]] | Nay, go not from us thus. If it were so that our request did tend To save the Romans, thereby to destroy The Volsces whom you serve, you might condemn us As poisonous of your [[Honour|honour]]. No, our suit Is that you reconcile them: while the Volsces May say ‘This [[Mercy|mercy]] we have showed’, the Romans ‘This we received’, and each in either side Give the all-hail to thee and cry ‘Be blest For making up this peace!’ Thou know‘st, great son, The end of war’s uncertain; but this certain, That if thou conquer Rome, the benefit Which thou shalt thereby reap is such a name Whose repetition will be dogged with curses, Whose chronicle thus writ: ‘The man was noble, But with his last attempt he wiped it out, Destroyed his country, and his name remains To th’ ensuing age abhorred.’ Speak to me, son. Thou hast affected the fine strains of [[Honour|honour]], To imitate the graces of the gods, To tear with thunder the wide cheeks o’th’ air, And yet to charge thy sulphur with a bolt That should but rive an oak. Why dost not speak? Think‘st thou it honourable for a noble man Still to remember wrongs? Daughter, speak you, He cares not for your weeping. Speak thou, boy. Perhaps thy childishness will move him more Than can our reasons. There’s no man in the world More bound to’s mother, yet here he lets me prate Like one i’th’ stocks. Thou hast never in thy life Showed thy dear mother any courtesy, When she, poor hen, fond of no second brood, Has clucked thee to the wars and safely [[Home|home]], Loaden with [[Honour|honour]]. Say my request’s unjust, And spurn me back. But if it be not so, Thou art not honest, and the gods will plague thee That thou restrain‘st from me the duty which To a mother’s part belongs.—He turns away. Down, ladies. Let us shame him with our knees. To his surname ‘[[Coriolanus]]’ ’longs more [[Pride|pride]] Than pity to our prayers. Down! An end. This is the last. The ladies and Young Martius kneel So we will [[Home|home]] to Rome, And die among our neighbours.—Nay, behold’s. This boy, that cannot tell what he would have, But kneels and holds up hands for fellowship, Does reason our petition with more strength Than thou hast to deny’t.—Come, let us go. This fellow had a Volscian to his mother. His wife is in Codoles, and this [[Child|child]] Like him by chance.—Yet give us our dispatch. I am hushed until our [[City|city]] be afire, And then I’ll speak a little. He holds her by the hand, silent |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--07_exchange_coriolanus" data-title="Coriolanus — Act V, Scene 3 — exchange (CORIOLANUS) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Coriolanus|CORIOLANUS]] | O mother, mother! What have you done? Behold, the heavens do ope, The gods look down, and this unnatural scene They laugh at. O my mother, mother, O! You have won a happy victory to Rome; But for your son, believe it, O believe it, Most dangerously you have with him prevailed, If not most mortal to him. But let it come. The ladies and Young Martius rise [[Aufidius]], though I cannot make true wars, I’ll frame convenient peace. Now, good [[Aufidius]], Were you in my stead would you have heard A mother less, or granted less, [[Aufidius]]? |
-| [[Aufidius|AUFIDIUS]] | I was moved withal. |
-| [[Coriolanus|CORIOLANUS]] | I dare be sworn you were. And, sir, it is no little thing to make Mine eyes to sweat compassion. But, good sir, What peace you’ll make, advise me. For my part, I’ll not to Rome; I’ll back with you, and pray you Stand to me in this cause.—O mother! Wife! |
-| [[Aufidius|AUFIDIUS]] | (aside) I am glad thou hast set thy [[Mercy|mercy]] and thy [[Honour|honour]] At difference in thee. Out of that I’ll work Myself a former fortune. |
-| [[Coriolanus|CORIOLANUS]] | (to [[Volumnia]] and [[Virgilia]]) Ay, by and by. But we will drink together, and you shall bear A better witness back than words, which we On like conditions will have counter-sealed. Come, enter with us. Ladies, you deserve To have a temple built you. All the swords In [[Italy]], and her confederate arms, Could not have made this peace. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_6--01_exchange_dialogue" data-title="Coriolanus — Act V, Scene 6 — exchange (dialogue) [1]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Tullus [[Aufidius]] with attendants |
-| [[Aufidius|AUFIDIUS]] | Go tell the lords o‘th’ [[City|city]] I am here. Deliver them this paper. Having read it, Bid them repair to th’ market-place, where I, Even in theirs and in the commons’ ears, Will vouch the [[Truth|truth]] of it. Him I accuse The [[City|city]] ports by this hath entered, and Intends t’appear before the people, hoping To purge himself with words. Dispatch. Exeunt attendants Enter three or four Conspirators of [[Aufidius]]’ faction Most welcome. |
-| FIRST CONSPIRATOR | How is it with our general? |
-| [[Aufidius|AUFIDIUS]] | Even so As with a man by his own alms impoisoned, And with his [[Charity|charity]] slain. |
-| SECOND CONSPIRATOR | Most noble sir, If you do hold the same intent wherein You wished us parties, we’ll deliver you Of your great danger. |
-| [[Aufidius|AUFIDIUS]] | Sir, I cannot tell. We must proceed as we do find the people. |
-| THIRD CONSPIRATOR | The people will remain uncertain whilst ’Twixt you there’s difference, but the fall of either Makes the survivor heir of all. |
-| [[Aufidius|AUFIDIUS]] | I know it, And my pretext to strike at him admits A good construction. I raised him, and I pawned Mine [[Honour|honour]] for his [[Truth|truth]]; who being so heightened, He watered his new plants with dews of flattery, Seducing so my friends; and to this end He bowed his [[Nature|nature]], never known before But to be rough, unswayable, and free. |
-| THIRD CONSPIRATOR | Sir, his stoutness When he did stand for consul, which he lost By lack of stooping— |
-| [[Aufidius|AUFIDIUS]] | That I would have spoke of. Being banished for’t, he came unto my hearth, Presented to my knife his throat. I took him, Made him joint-servant with me, gave him way In all his own desires; nay, let him choose Out of my files, his projects to accomplish, My best and freshest men; served his designments In mine own person, holp to reap the fame Which he did end all his, and took some [[Pride|pride]] To do myself this wrong, till at the last I seemed his follower, not partner, and He waged me with his countenance as if I had been mercenary. |
-| FIRST CONSPIRATOR | So he did, my lord. The army marvelled at it, and in the last, When he had carried Rome and that we looked For no less spoil than glory— |
-| [[Aufidius|AUFIDIUS]] | There was it, For which my sinews shall be stretched upon him. At a few drops of women’s rheum, which are As cheap as lies, he sold the [[Blood|blood]] and labour Of our great action; therefore shall he die, And I’ll renew me in his fall. Drums and trumpets sound, with great shouts of the people But hark. |
-| FIRST CONSPIRATOR | Your native town you entered like a post, And had no welcomes [[Home|home]]; but he returns Splitting the air with noise. |
-| SECOND CONSPIRATOR | And patient fools, Whose children he hath slain, their base throats tear With giving him glory. |
-| THIRD CONSPIRATOR | Therefore, at your vantage, Ere he express himself or move the people With what he would say, let him feel your [[Sword|sword]], Which we will second. When he lies along, After your way his tale pronounced shall bury His reasons with his [[Body|body]]. Enter the Lords of the [[City|city]] |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_6--02_exchange_aufidius" data-title="Coriolanus — Act V, Scene 6 — exchange (AUFIDIUS) [2]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Aufidius|AUFIDIUS]] | Say no more. Here come the lords. |
-| ALL THE LORDS | You are most welcome [[Home|home]]. |
-| [[Aufidius|AUFIDIUS]] | I have not deserved it. But, worthy lords, have you with heed perused What I have written to you? |
-| ALL THE LORDS | We have. |
-| FIRST LORD | And grieve to hear’t. What faults he made before the last, I think Might have found easy fines. But there to end Where he was to begin, and give away The benefit of our levies, answering us With our own charge, making a treaty where There was a yielding—this admits no excuse. |
-| [[Aufidius|AUFIDIUS]] | He approaches. You shall hear him. Enter [[Coriolanus]] marching with drum and colours, the Commoners being with him |
-| [[Coriolanus|CORIOLANUS]] | Hail, lords! I am returned your soldier, No more infected with my country’s [[Love|love]] Than when I parted hence, but still subsisting Under your great command. You are to know That prosperously I have attempted, and With bloody passage led your wars even to The gates of Rome. Our spoils we have brought [[Home|home]] Doth more than counterpoise a full third part The charges of the action. We have made peace With no less [[Honour|honour]] to the Antiates Than shame to th’ Romans. And we here deliver, Subscribed by th’ consuls and patricians, Together with the seal o’th’ senate, what We have compounded on. He gives the Lords a paper |
-| [[Aufidius|AUFIDIUS]] | Read it not, noble lords, But tell the traitor in the highest degree He hath abused your powers. |
-| [[Coriolanus|CORIOLANUS]] | Traitor? How now? |
-| [[Aufidius|AUFIDIUS]] | Ay, traitor, Martius. |
-| [[Coriolanus|CORIOLANUS]] | Martius? |
-| [[Aufidius|AUFIDIUS]] | Ay, Martius, Caius Martius. Dost thou think I’ll grace thee with that robbery, thy stol’n name, ‘[[Coriolanus]]’, in Corioles? You lords and heads o‘th’ state, perfidiously He has betrayed your business, and given up, For certain drops of salt, your [[City|city]], Rome— I say your [[City|city]]—to his wife and mother, Breaking his oath and resolution like A twist of rotten silk, never admitting Counsel o’th’ war. But at his [[Nurse|nurse]]’s [[Tears|tears]] He whined and roared away your victory, That pages blushed at him, and men of heart Looked wond’ring each at others. |
-| [[Coriolanus|CORIOLANUS]] | Hear’st thou, Mars? |
-| [[Aufidius|AUFIDIUS]] | Name not the god, thou boy of [[Tears|tears]]. |
-| [[Coriolanus|CORIOLANUS]] | Ha? |
-| [[Aufidius|AUFIDIUS]] | No more. |
-| [[Coriolanus|CORIOLANUS]] | Measureless liar, thou hast made my heart Too great for what contains it. ‘Boy’? O slave!— Pardon me, lords, ’tis the first [[Time|time]] that ever I was forced to scold. Your judgements, my [[Grave|grave]] lords, Must give this cur the lie, and his own notion— Who wears my stripes impressed upon him, that Must bear my beating to his [[Grave|grave]]—shall join To thrust the lie unto him. |
-| FIRST LORD | Peace both, and hear me speak. |
-| [[Coriolanus|CORIOLANUS]] | Cut me to pieces, Volsces. Men and lads, Stain all your edges on me. ‘Boy’! False hound, If you have writ your annals true, ‘tis there That, like an eagle in a dove-cote, I Fluttered your Volscians in Corioles. [[Alone]] I did it. ‘Boy’! |
-| [[Aufidius|AUFIDIUS]] | Why, noble lords, Will you be put in mind of his blind fortune, Which was your shame, by this unholy braggart, Fore your own eyes and ears? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_6--03_exchange_all_the_conspirators" data-title="Coriolanus — Act V, Scene 6 — exchange (ALL THE CONSPIRATORS) [3]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| ALL THE CONSPIRATORS | Let him die for’t. |
-| ALL THE PEOPLE | shouting dispersedly Tear him to pieces! Do it presently! He killed my son! My daughter! He killed my cousin Marcus! He killed my father! |
-| SECOND LORD | Peace, ho! No outrage, peace. The man is noble, and his fame folds in This orb o’th’ earth. His last offences to us Shall have judicious hearing. Stand, [[Aufidius]], And trouble not the peace. |
-| [[Coriolanus|CORIOLANUS]] | drawing his [[Sword|sword]] O that I had him with six Aufidiuses, Or more, his tribe, to use my lawful [[Sword|sword]]! |
-| [[Aufidius|AUFIDIUS]] | drawing his [[Sword|sword]] Insolent [[Villain|villain]]! |
-| ALL THE CONSPIRATORS | Kill, kill, kill, kill, kill him! Two Conspirators draw and kill Martius, who falls. [[Aufidius]] and Conspirators stand on him |
-| LORDS | Hold, hold, hold, hold! |
-| [[Aufidius|AUFIDIUS]] | My noble masters, hear me speak. |
-| FIRST LORD | O Tullus! |
-| SECOND LORD | (to [[Aufidius]]) Thou hast done a deed whereat Valour will weep. |
-| THIRD LORD | to [[Aufidius]] and the Conspirators Tread not upon him, masters. All be quiet. Put up your swords. |
-| [[Aufidius|AUFIDIUS]] | My lords, When you shall know—as in this rage Provoked by him you cannot—the great danger Which this man’s life did owe you, you’ll rejoice That he is thus cut off. Please it your honours To call me to your senate, I’ll deliver Myself your loyal servant, or endure Your heaviest censure. |
-| FIRST LORD | Bear from hence his [[Body|body]], And mourn you for him. Let him be regarded As the most noble corpse that ever herald Did follow to his urn. |
-| SECOND LORD | His own impatience Takes from [[Aufidius]] a great part of blame. Let’s make the best of it. |
-| [[Aufidius|AUFIDIUS]] | My rage is gone, And I am struck with sorrow. Take him up. Help three o’th’ chiefest soldiers; I’ll be one. Beat thou the drum, that it speak mournfully. Trail your steel pikes. Though in this [[City|city]] he Hath widowed and unchilded many a one, Which to this hour bewail the injury, Yet he shall have a noble [[Memory|memory]]. Assist. A dead march sounded. Exeunt bearing the [[Body|body]] of Martius |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_6--04_monologue_the" data-title="Coriolanus — Act V, Scene 6 — monologue (THE) [4]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE | astrologer Simon Forman saw The [[Winter]]’s Tale at the Globe on 15 May 1611. Just how much earlier the play was written is not certainly known. During the sheep-shearing feast in Act 4, twelve countrymen perform a satyrs’ [[Dance|dance]] that three of them are said to have already ‘danced before the [[King]]’. This is not necessarily a topical reference, but satyrs danced in Ben Jonson’s [[Masque]] of [[Oberon]], performed before [[King]] James on 1 January 1611. It seems likely that this [[Dance|dance]] was incorporated in The [[Winter]]’s Tale (just as, later, another [[Masque|masque]] [[Dance|dance]] seems to have been transferred to The Two Noble Kinsmen). But it occurs in a [[Self|self]]-contained passage that may [[Well|well]] have been added after Shakespeare wrote the play itself. The [[Winter]]’s Tale, first printed in the 1623 Folio, is usually thought to have been written after [[Cymbeline]], but stylistic evidence places it before that play, perhaps in 1609-10. A mid sixteenth-century book classes ‘[[Winter|winter]] tales’ along with ‘old wives’ tales‘; Shakespeare’s title prepared his audiences for a tale of romantic improbability, one to be wondered at rather than believed; and within the play itself characters compare its events to ‘an old tale’ (5.2.61; 5.3.118). The comparison is just: Shakespeare is dramatizing a story by his old rival Robert Greene, published as Pandosto: The Triumph of [[Time]] in or before 1588. This gave Shakespeare his plot outline, of a [[King|king]] ([[Leontes]]) who believes his wife ([[Hermione]]) to have committed adultery with another [[King|king]] ([[Polixenes]]), his boyhood friend, and who casts off his new-born daughter ([[Perdita]]—the lost one) in the belief that she is his friend’s bastard. In both versions the baby is brought up as a shepherdess, falls in [[Love|love]] with her supposed father’s son ([[Florizel]] in the play), and returns to her real father’s [[Court|court]] where she is at last recognized as his daughter. In both versions, too, the wife’s [[innocence]] is demonstrated by the pronouncement of the Delphic oracle, and her husband passes the period of his daughter’s absence in penitence; but Shakespeare alters the ending of his source story, bringing it into line with the conventions of [[Romance|romance]]. He adopts Greene’s tripartite structure, but greatly develops it, adding for instance [[Leontes]]’ steward Antigonus and his redoubtable wife [[Paulina]], along with the comic rogue [[Autolycus]], ‘snapper-up of unconsidered trifles’. The intensity of poetic [[Suffering|suffering]] with which [[Leontes]] expresses his irrational [[Jealousy|jealousy]] is matched by the lyrical rapture of the [[Love|love]] episodes between [[Florizel]] and [[Perdita]]. In both verse and prose The [[Winter]]’s Tale shows Shakespeare’s verbal powers at their greatest, and his theatrical mastery is apparent in, for example, [[Hermione]]’s trial (3.1) and the daring final scene in which [[Time|time]] brings about its triumph. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_6--05_exchange_the_persons_of_the_play" data-title="Coriolanus — Act V, Scene 6 — exchange (THE PERSONS OF THE PLAY) [5]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY [[Leontes|LEONTES]], [[King]] of Sicily [[Hermione|HERMIONE]], his wife MAMILLIUS, his son [[Perdita|PERDITA]], his daughter [[Paulina|PAULINA]], Antigonus’s wife [[Emilia|EMILIA]], a lady attending on [[Hermione]] |
-| *(didascalia)* | A |
-| *(didascalia)* | A |
-| MARINER | Other Lords and Gentlemen, Ladies, Officers, and Servants at [[Leontes]]’s [[Court|court]] [[Polixenes|POLIXENES]], [[King]] of Bohemia [[Florizel|FLORIZEL]], his son, in [[Love|love]] with [[Perdita]]; known as Doricles ARCHIDAMUS, a Bohemian lord [[Autolycus|AUTOLYCUS]], a rogue, once in the service of [[Florizel]] |
-| OLD SHEPHERD | CLOWN, his son |
-| SERVANT | of the Old Shepherd Other Shepherds and Shepherdesses Twelve countrymen disguised as satyrs |
-| SERVANT | [[Time|TIME]], as [[Chorus|chorus]] |
 
 
 

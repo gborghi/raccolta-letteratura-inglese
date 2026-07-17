@@ -28175,6 +28175,446 @@ spraining of ankles.”
 
 
 
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Sense and Sensibility — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+
+
+CHAPTER X.
+
+
+
+
+
+Marianne’s preserver, as Margaret, with more elegance than precision,
+
+styled Willoughby, called at the cottage early the next morning to make
+
+his personal enquiries. He was received by Mrs. Dashwood with more than
+
+politeness; with a kindness which Sir John’s account of him and her own
+
+gratitude prompted; and every thing that passed during the visit tended
+
+to assure him of the sense, elegance, mutual affection, and domestic
+
+comfort of the family to whom accident had now introduced him. Of their
+
+personal charms he had not required a second interview to be convinced.
+
+
+
+Miss Dashwood had a delicate complexion, regular features, and a
+
+remarkably pretty figure. Marianne was still handsomer. Her form,
+
+though not so correct as her sister’s, in having the advantage of
+
+height, was more striking; and her face was so lovely, that when in the
+
+common cant of praise, she was called a beautiful girl, [[Truth|truth]] was less
+
+violently outraged than usually happens. Her skin was very brown, but,
+
+from its transparency, her complexion was uncommonly brilliant; her
+
+features were all good; her smile was sweet and attractive; and in her
+
+eyes, which were very dark, there was a life, a spirit, an eagerness,
+
+which could hardly be seen without delight. From Willoughby their
+
+expression was at first held back, by the embarrassment which the
+
+remembrance of his assistance created. But when this passed away, when
+
+her spirits became collected, when she saw that to the perfect
+
+good-breeding of the gentleman, he united frankness and vivacity, and
+
+above all, when she heard him declare, that of music and dancing he was
+
+passionately fond, she gave him such a look of approbation as secured
+
+the largest share of his discourse to herself for the rest of his stay.
+
+
+
+It was only necessary to mention any favourite amusement to engage her
+
+to talk. She could not be silent when such points were introduced, and
+
+she had neither shyness nor reserve in their discussion. They speedily
+
+discovered that their enjoyment of dancing and music was mutual, and
+
+that it arose from a general conformity of judgment in all that related
+
+to either. Encouraged by this to a further examination of his opinions,
+
+she proceeded to question him on the subject of books; her favourite
+
+authors were brought forward and dwelt upon with so rapturous a
+
+delight, that any young man of five and twenty must have been
+
+insensible indeed, not to become an immediate [[convert]] to the excellence
+
+of such works, however disregarded before. Their taste was strikingly
+
+alike. The same books, the same passages were idolized by each—or if
+
+any difference appeared, any objection arose, it lasted no longer than
+
+till the force of her arguments and the brightness of her eyes could be
+
+displayed. He acquiesced in all her decisions, caught all her
+
+enthusiasm; and long before his visit concluded, they conversed with
+
+the familiarity of a long-established acquaintance.
+
+
+
+“[[Well]], Marianne,” said Elinor, as soon as he had left them, “for _one_
+
+morning I think you have done pretty [[Well|well]]. You have already ascertained
+
+Mr. Willoughby’s opinion in almost every matter of importance. You know
+
+what he thinks of Cowper and Scott; you are certain of his estimating
+
+their beauties as he ought, and you have received every assurance of
+
+his admiring Pope no more than is proper. But how is your acquaintance
+
+to be long supported, under such extraordinary despatch of every
+
+subject for discourse? You will soon have exhausted each favourite
+
+topic. Another meeting will suffice to explain his sentiments on
+
+picturesque [[Beauty|beauty]], and second marriages, and then you can have nothing
+
+farther to ask.”
+
+
+
+“Elinor,” cried Marianne, “is this fair? is this just? are my ideas so
+
+scanty? But I see what you mean. I have been too much at my ease, too
+
+happy, too frank. I have erred against every common-place notion of
+
+decorum; I have been open and sincere where I ought to have been
+
+reserved, spiritless, dull, and deceitful—had I talked only of the
+
+weather and the roads, and had I spoken only once in ten minutes, this
+
+reproach would have been spared.”
+
+
+
+“My [[Love|love]],” said her mother, “you must not be offended with Elinor—she
+
+was only in jest. I should scold her myself, if she were capable of
+
+wishing to check the delight of your conversation with our new friend.”
+
+Marianne was softened in a moment.
+
+
+
+Willoughby, on his side, gave every proof of his pleasure in their
+
+acquaintance, which an evident wish of improving it could offer. He
+
+came to them every day. To enquire after Marianne was at first his
+
+excuse; but the encouragement of his reception, to which every day gave
+
+greater kindness, made such an excuse unnecessary before it had ceased
+
+to be possible, by Marianne’s perfect recovery. She was confined for
+
+some days to the [[house]]; but never had any confinement been less
+
+irksome. Willoughby was a young man of good abilities, quick
+
+[[Imagination|imagination]], lively spirits, and open, affectionate manners. He was
+
+exactly formed to engage Marianne’s heart, for with all this, he joined
+
+not only a captivating person, but a natural ardour of mind which was
+
+now roused and increased by the example of her own, and which
+
+recommended him to her affection beyond every thing else.
+
+
+
+His society became gradually her most exquisite enjoyment. They read,
+
+they talked, they sang together; his musical talents were considerable;
+
+and he read with all the sensibility and spirit which Edward had
+
+unfortunately wanted.
+
+
+
+In Mrs. Dashwood’s estimation he was as faultless as in Marianne’s; and
+
+Elinor saw nothing to censure in him but a propensity, in which he
+
+strongly resembled and peculiarly delighted her sister, of saying too
+
+much what he thought on every occasion, without attention to persons or
+
+circumstances. In hastily forming and giving his opinion of other
+
+people, in sacrificing general politeness to the enjoyment of undivided
+
+
+
+
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Sense and Sensibility — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+
+
+attention where his heart was engaged, and in slighting too easily the
+
+forms of worldly propriety, he displayed a want of caution which Elinor
+
+could not approve, in spite of all that he and Marianne could say in
+
+its support.
+
+
+
+Marianne began now to perceive that the desperation which had seized
+
+her at sixteen and a half, of ever seeing a man who could satisfy her
+
+ideas of perfection, had been rash and unjustifiable. Willoughby was
+
+all that her fancy had delineated in that unhappy hour and in every
+
+brighter period, as capable of attaching her; and his behaviour
+
+declared his wishes to be in that respect as earnest, as his abilities
+
+were strong.
+
+
+
+Her mother too, in whose mind not one speculative thought of their
+
+[[Marriage|marriage]] had been raised, by his prospect of riches, was led before the
+
+end of a week to [[Hope|hope]] and expect it; and secretly to congratulate
+
+herself on having gained two such sons-in-law as Edward and Willoughby.
+
+
+
+[[Colonel Brandon]]’s partiality for Marianne, which had so early been
+
+discovered by his friends, now first became perceptible to Elinor, when
+
+it ceased to be noticed by them. Their attention and wit were drawn off
+
+to his more fortunate rival; and the raillery which the other had
+
+incurred before any partiality arose, was removed when his feelings
+
+began really to call for the ridicule so justly annexed to sensibility.
+
+Elinor was obliged, though unwillingly, to believe that the sentiments
+
+which Mrs. Jennings had assigned him for her own satisfaction, were now
+
+actually excited by her sister; and that however a general resemblance
+
+of disposition between the parties might forward the affection of Mr.
+
+Willoughby, an equally striking opposition of character was no
+
+hindrance to the regard of [[Colonel Brandon]]. She saw it with concern;
+
+for what could a silent man of five and thirty [[Hope|hope]], when opposed to a
+
+very lively one of five and twenty? and as she could not even wish him
+
+successful, she heartily wished him indifferent. She liked him—in spite
+
+of his gravity and reserve, she beheld in him an object of interest.
+
+His manners, though serious, were mild; and his reserve appeared rather
+
+the result of some oppression of spirits than of any natural gloominess
+
+of temper. Sir John had dropped hints of past injuries and
+
+disappointments, which justified her belief of his being an unfortunate
+
+man, and she regarded him with respect and compassion.
+
+
+
+Perhaps she pitied and esteemed him the more because he was slighted by
+
+Willoughby and Marianne, who, prejudiced against him for being neither
+
+lively nor young, seemed resolved to undervalue his merits.
+
+
+
+“Brandon is just the kind of man,” said Willoughby one day, when they
+
+were talking of him together, “whom every [[Body|body]] speaks [[Well|well]] of, and
+
+nobody cares about; whom all are delighted to see, and nobody remembers
+
+to talk to.”
+
+
+
+“That is exactly what I think of him,” cried Marianne.
+
+
+
+“Do not boast of it, however,” said Elinor, “for it is injustice in
+
+both of you. He is highly esteemed by all the family at the park, and I
+
+never see him myself without taking pains to converse with him.”
+
+
+
+“That he is patronised by _you_,” replied Willoughby, “is certainly in
+
+his favour; but as for the esteem of the others, it is a reproach in
+
+itself. Who would submit to the indignity of being approved by such a
+
+woman as Lady Middleton and Mrs. Jennings, that could command the
+
+indifference of any [[Body|body]] else?”
+
+
+
+“But perhaps the abuse of such people as yourself and Marianne will
+
+make amends for the regard of Lady Middleton and her mother. If their
+
+praise is censure, your censure may be praise, for they are not more
+
+undiscerning, than you are prejudiced and unjust.”
+
+
+
+“In defence of your _protégé_ you can even be saucy.”
+
+
+
+“My _protégé_, as you call him, is a sensible man; and sense will
+
+always have attractions for me. Yes, Marianne, even in a man between
+
+thirty and forty. He has seen a great deal of the world; has been
+
+abroad, has read, and has a thinking mind. I have found him capable of
+
+giving me much information on various subjects; and he has always
+
+answered my inquiries with readiness of good-breeding and good [[Nature|nature]].”
+
+
+
+“That is to say,” cried Marianne contemptuously, “he has told you, that
+
+in the East Indies the climate is hot, and the mosquitoes are
+
+troublesome.”
+
+
+
+“He _would_ have told me so, I [[Doubt|doubt]] not, had I made any such
+
+inquiries, but they happened to be points on which I had been
+
+previously informed.”
+
+
+
+“Perhaps,” said Willoughby, “his observations may have extended to the
+
+existence of nabobs, gold mohrs, and palanquins.”
+
+
+
+“I may venture to say that _his_ observations have stretched much
+
+further than _your_ candour. But why should you dislike him?”
+
+
+
+“I do not dislike him. I consider him, on the contrary, as a very
+
+respectable man, who has every [[Body|body]]’s good word, and nobody’s notice;
+
+who has more money than he can spend, more [[Time|time]] than he knows how to
+
+employ, and two new coats every year.”
+
+
+
+“Add to which,” cried Marianne, “that he has neither genius, taste, nor
+
+spirit. That his understanding has no brilliancy, his feelings no
+
+ardour, and his voice no expression.”
+
+
+
+“You decide on his imperfections so much in the mass,” replied Elinor,
+
+“and so much on the strength of your own [[Imagination|imagination]], that the
+
+commendation _I_ am able to give of him is comparatively cold and
+
+insipid. I can only pronounce him to be a sensible man, [[Well|well]]-bred,
+
+[[Well|well]]-informed, of gentle address, and, I believe, possessing an amiable
+
+heart.”
+
+
+
+“Miss Dashwood,” cried Willoughby, “you are now using me unkindly. You
+
+are endeavouring to disarm me by reason, and to convince me against my
+
+will. But it will not do. You shall find me as stubborn as you can be
+
+artful. I have three unanswerable reasons for disliking Colonel
+
+Brandon; he threatened me with rain when I wanted it to be fine; he has
+
+found fault with the hanging of my curricle, and I cannot persuade him
+
+to buy my brown mare. If it will be any satisfaction to you, however,
+
+to be told, that I believe his character to be in other respects
+
+irreproachable, I am ready to confess it. And in return for an
+
+acknowledgment, which must give me some [[Pain|pain]], you cannot deny me the
+
+privilege of disliking him as much as ever.”
+
+
+
+
 <span class="atom-split" data-atom="chapter_11" data-title="Sense and Sensibility — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
 
 
@@ -28835,6 +29275,578 @@ persuaded by Elinor to stay at [[Home|home]].
 
 
 
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Sense and Sensibility — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+
+
+CHAPTER XIII.
+
+
+
+
+
+Their intended excursion to Whitwell turned out very different from
+
+what Elinor had expected. She was prepared to be wet through, fatigued,
+
+and frightened; but the event was still more unfortunate, for they did
+
+not go at all.
+
+
+
+By ten o’[[Clock|clock]] the whole party was assembled at the park, where they
+
+were to breakfast. The morning was rather favourable, though it had
+
+rained all [[Night|night]], as the clouds were then dispersing across the sky,
+
+and the sun frequently appeared. They were all in high spirits and good
+
+[[Humour|humour]], eager to be happy, and determined to submit to the greatest
+
+inconveniences and hardships rather than be otherwise.
+
+
+
+While they were at breakfast the letters were brought in. Among the
+
+rest there was one for [[Colonel Brandon]];—he took it, looked at the
+
+direction, changed colour, and immediately left the room.
+
+
+
+“What is the matter with Brandon?” said Sir John.
+
+
+
+Nobody could tell.
+
+
+
+“I [[Hope|hope]] he has had no bad news,” said Lady Middleton. “It must be
+
+something extraordinary that could make [[Colonel Brandon]] leave my
+
+breakfast table so suddenly.”
+
+
+
+In about five minutes he returned.
+
+
+
+“No bad news, Colonel, I [[Hope|hope]];” said Mrs. Jennings, as soon as he
+
+entered the room.
+
+
+
+“None at all, ma’am, I thank you.”
+
+
+
+“Was it from Avignon? I [[Hope|hope]] it is not to say that your sister is
+
+worse.”
+
+
+
+“No, ma’am. It came from town, and is merely a letter of business.”
+
+
+
+“But how came the hand to discompose you so much, if it was only a
+
+letter of business? Come, come, this won’t do, Colonel; so let us hear
+
+the [[Truth|truth]] of it.”
+
+
+
+“My dear madam,” said Lady Middleton, “recollect what you are saying.”
+
+
+
+“Perhaps it is to tell you that your cousin Fanny is married?” said
+
+Mrs. Jennings, without attending to her daughter’s reproof.
+
+
+
+“No, indeed, it is not.”
+
+
+
+“[[Well]], then, I know who it is from, Colonel. And I [[Hope|hope]] she is [[Well|well]].”
+
+
+
+“Whom do you mean, ma’am?” said he, colouring a little.
+
+
+
+“Oh! you know who I mean.”
+
+
+
+“I am particularly sorry, ma’am,” said he, addressing Lady Middleton,
+
+“that I should receive this letter today, for it is on business which
+
+requires my immediate attendance in town.”
+
+
+
+“In town!” cried Mrs. Jennings. “What can you have to do in town at
+
+this [[Time|time]] of year?”
+
+
+
+“My own loss is great,” he continued, “in being obliged to leave so
+
+agreeable a party; but I am the more concerned, as I [[Fear|fear]] my presence
+
+is necessary to gain your admittance at Whitwell.”
+
+
+
+What a blow upon them all was this!
+
+
+
+“But if you write a note to the housekeeper, Mr. Brandon,” said
+
+Marianne, eagerly, “will it not be sufficient?”
+
+
+
+He shook his head.
+
+
+
+“We must go,” said Sir John.—“It shall not be put off when we are so
+
+near it. You cannot go to town till tomorrow, Brandon, that is all.”
+
+
+
+“I wish it could be so easily settled. But it is not in my power to
+
+delay my [[Journey|journey]] for one day!”
+
+
+
+“If you would but let us know what your business is,” said Mrs.
+
+Jennings, “we might see whether it could be put off or not.”
+
+
+
+“You would not be six hours later,” said Willoughby, “if you were to
+
+defer your [[Journey|journey]] till our return.”
+
+
+
+“I cannot afford to lose _one_ hour.”
+
+
+
+Elinor then heard Willoughby say, in a low voice to Marianne, “There
+
+are some people who cannot bear a party of pleasure. Brandon is one of
+
+them. He was afraid of catching cold I dare say, and invented this
+
+trick for getting out of it. I would lay fifty guineas the letter was
+
+of his own writing.”
+
+
+
+“I have no [[Doubt|doubt]] of it,” replied Marianne.
+
+
+
+“There is no persuading you to change your mind, Brandon, I know of
+
+old,” said Sir John, “when once you are determined on anything. But,
+
+however, I [[Hope|hope]] you will think better of it. Consider, here are the two
+
+Miss Careys come over from Newton, the three Miss Dashwoods walked up
+
+from the cottage, and Mr. Willoughby got up two hours before his usual
+
+[[Time|time]], on purpose to go to Whitwell.”
+
+
+
+[[Colonel Brandon]] again repeated his sorrow at being the cause of
+
+disappointing the party; but at the same [[Time|time]] declared it to be
+
+unavoidable.
+
+
+
+“[[Well]], then, when will you come back again?”
+
+
+
+“I [[Hope|hope]] we shall see you at Barton,” added her ladyship, “as soon as
+
+you can conveniently leave town; and we must put off the party to
+
+Whitwell till you return.”
+
+
+
+“You are very obliging. But it is so uncertain, when I may have it in
+
+my power to return, that I dare not engage for it at all.”
+
+
+
+“Oh! he must and shall come back,” cried Sir John. “If he is not here
+
+by the end of the week, I shall go after him.”
+
+
+
+“Ay, so do, Sir John,” cried Mrs. Jennings, “and then perhaps you may
+
+find out what his business is.”
+
+
+
+“I do not want to pry into other men’s concerns. I suppose it is
+
+something he is ashamed of.”
+
+
+
+[[Colonel Brandon]]’s horses were announced.
+
+
+
+“You do not go to town on horseback, do you?” added Sir John.
+
+
+
+“No. Only to Honiton. I shall then go post.”
+
+
+
+“[[Well]], as you are resolved to go, I wish you a good [[Journey|journey]]. But you
+
+had better change your mind.”
+
+
+
+“I assure you it is not in my power.”
+
+
+
+He then took leave of the whole party.
+
+
+
+“Is there no chance of my seeing you and your sisters in town this
+
+[[Winter|winter]], Miss Dashwood?”
+
+
+
+“I am afraid, none at all.”
+
+
+
+“Then I must bid you farewell for a longer [[Time|time]] than I should wish to
+
+do.”
+
+
+
+To Marianne, he merely bowed and said nothing.
+
+
+
+“Come Colonel,” said Mrs. Jennings, “before you go, do let us know what
+
+you are going about.”
+
+
+
+He wished her a good morning, and, attended by Sir John, left the room.
+
+
+
+The complaints and lamentations which politeness had hitherto
+
+restrained, now burst forth universally; and they all agreed again and
+
+again how provoking it was to be so disappointed.
+
+
+
+“I can guess what his business is, however,” said Mrs. Jennings
+
+exultingly.
+
+
+
+“Can you, ma’am?” said almost every [[Body|body]].
+
+
+
+
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Sense and Sensibility — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+
+
+“Yes; it is about Miss Williams, I am sure.”
+
+
+
+“And who is Miss Williams?” asked Marianne.
+
+
+
+“What! do not you know who Miss Williams is? I am sure you must have
+
+heard of her before. She is a relation of the Colonel’s, my dear; a
+
+very near relation. We will not say how near, for [[Fear|fear]] of shocking the
+
+young ladies.” Then, lowering her voice a little, she said to Elinor,
+
+“She is his natural daughter.”
+
+
+
+“Indeed!”
+
+
+
+“Oh, yes; and as like him as she can stare. I dare say the Colonel will
+
+leave her all his fortune.”
+
+
+
+When Sir John returned, he joined most heartily in the general regret
+
+on so unfortunate an event; concluding however by observing, that as
+
+they were all got together, they must do something by way of being
+
+happy; and after some consultation it was agreed, that although
+
+happiness could only be enjoyed at Whitwell, they might procure a
+
+tolerable composure of mind by driving about the country. The carriages
+
+were then ordered; Willoughby’s was first, and Marianne never looked
+
+happier than when she got into it. He drove through the park very fast,
+
+and they were soon out of sight; and nothing more of them was seen till
+
+their return, which did not happen till after the return of all the
+
+rest. They both seemed delighted with their drive; but said only in
+
+general terms that they had kept in the lanes, while the others went on
+
+the downs.
+
+
+
+It was settled that there should be a [[Dance|dance]] in the evening, and that
+
+every [[Body|body]] should be extremely merry all day long. Some more of the
+
+Careys came to dinner, and they had the pleasure of sitting down nearly
+
+twenty to table, which Sir John observed with great contentment.
+
+Willoughby took his usual place between the two elder Miss Dashwoods.
+
+Mrs. Jennings sat on Elinor’s right hand; and they had not been long
+
+seated, before she leant behind her and Willoughby, and said to
+
+Marianne, loud enough for them both to hear, “I have found you out in
+
+spite of all your tricks. I know where you spent the morning.”
+
+
+
+Marianne coloured, and replied very hastily, “Where, pray?”
+
+
+
+“Did not you know,” said Willoughby, “that we had been out in my
+
+curricle?”
+
+
+
+“Yes, yes, Mr. Impudence, I know that very [[Well|well]], and I was determined
+
+to find out _where_ you had been to. I [[Hope|hope]] you like your [[house]], Miss
+
+Marianne. It is a very large one, I know; and when I come to see you, I
+
+[[Hope|hope]] you will have new-furnished it, for it wanted it very much when I
+
+was there six years ago.”
+
+
+
+Marianne turned away in great confusion. Mrs. Jennings laughed
+
+heartily; and Elinor found that in her resolution to know where they
+
+had been, she had actually made her own woman enquire of Mr.
+
+Willoughby’s groom; and that she had by that method been informed that
+
+they had gone to Allenham, and spent a considerable [[Time|time]] there in
+
+walking about the [[Garden|garden]] and going all over the [[house]].
+
+
+
+Elinor could hardly believe this to be true, as it seemed very unlikely
+
+that Willoughby should propose, or Marianne consent, to enter the [[house]]
+
+while Mrs. [[smith|Smith]] was in it, with whom Marianne had not the smallest
+
+acquaintance.
+
+
+
+As soon as they left the dining-room, Elinor enquired of her about it;
+
+and great was her surprise when she found that every circumstance
+
+related by Mrs. Jennings was perfectly true. Marianne was quite angry
+
+with her for doubting it.
+
+
+
+“Why should you imagine, Elinor, that we did not go there, or that we
+
+did not see the [[house]]? Is not it what you have often wished to do
+
+yourself?”
+
+
+
+“Yes, Marianne, but I would not go while Mrs. [[smith|Smith]] was there, and with
+
+no other companion than Mr. Willoughby.”
+
+
+
+“Mr. Willoughby however is the only person who can have a right to show
+
+that [[house]]; and as he went in an open carriage, it was impossible to
+
+have any other companion. I never spent a pleasanter morning in my
+
+life.”
+
+
+
+“I am afraid,” replied Elinor, “that the pleasantness of an employment
+
+does not always evince its propriety.”
+
+
+
+“On the contrary, nothing can be a stronger proof of it, Elinor; for if
+
+there had been any real impropriety in what I did, I should have been
+
+sensible of it at the [[Time|time]], for we always know when we are acting
+
+wrong, and with such a conviction I could have had no pleasure.”
+
+
+
+“But, my dear Marianne, as it has already exposed you to some very
+
+impertinent remarks, do you not now begin to [[Doubt|doubt]] the discretion of
+
+your own conduct?”
+
+
+
+“If the impertinent remarks of Mrs. Jennings are to be the proof of
+
+impropriety in conduct, we are all offending every moment of our lives.
+
+I value not her censure any more than I should do her commendation. I
+
+am not sensible of having done anything wrong in walking over Mrs.
+
+[[smith|Smith]]’s grounds, or in seeing her [[house]]. They will one day be Mr.
+
+Willoughby’s, and—”
+
+
+
+“If they were one day to be your own, Marianne, you would not be
+
+justified in what you have done.”
+
+
+
+She blushed at this hint; but it was even visibly gratifying to her;
+
+and after a ten minutes’ interval of earnest thought, she came to her
+
+sister again, and said with great good [[Humour|humour]], “Perhaps, Elinor, it
+
+_was_ rather ill-judged in me to go to Allenham; but Mr. Willoughby
+
+wanted particularly to show me the place; and it is a charming [[house]], I
+
+assure you.—There is one remarkably pretty sitting room up stairs; of a
+
+nice comfortable size for constant use, and with modern furniture it
+
+would be delightful. It is a corner room, and has windows on two sides.
+
+On one side you look across the bowling-green, behind the [[house]], to a
+
+beautiful hanging wood, and on the other you have a view of the church
+
+and village, and, beyond them, of those fine bold hills that we have so
+
+often admired. I did not see it to advantage, for nothing could be more
+
+forlorn than the furniture,—but if it were newly fitted up—a couple of
+
+hundred pounds, Willoughby says, would make it one of the pleasantest
+
+[[Summer|summer]]-rooms in England.”
+
+
+
+Could Elinor have listened to her without interruption from the others,
+
+she would have described every room in the [[house]] with equal delight.
+
+
+
+
 <span class="atom-split" data-atom="chapter_14" data-title="Sense and Sensibility — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
 
 
@@ -29149,6 +30161,574 @@ walk to the park, to call on Lady Middleton.”
 
 
 He engaged to be with them by four o’[[Clock|clock]].
+
+
+
+
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Sense and Sensibility — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+
+
+CHAPTER XV.
+
+
+
+
+
+Mrs. Dashwood’s visit to Lady Middleton took place the next day, and
+
+two of her daughters went with her; but Marianne excused herself from
+
+being of the party, under some trifling pretext of employment; and her
+
+mother, who concluded that a promise had been made by Willoughby the
+
+[[Night|night]] before of calling on her while they were absent, was perfectly
+
+satisfied with her remaining at [[Home|home]].
+
+
+
+On their return from the park they found Willoughby’s curricle and
+
+servant in waiting at the cottage, and Mrs. Dashwood was convinced that
+
+her conjecture had been just. So far it was all as she had foreseen;
+
+but on entering the [[house]] she beheld what no foresight had taught her
+
+to expect. They were no sooner in the passage than Marianne came
+
+hastily out of the parlour apparently in violent affliction, with her
+
+handkerchief at her eyes; and without noticing them ran up stairs.
+
+Surprised and alarmed they proceeded directly into the room she had
+
+just quitted, where they found only Willoughby, who was leaning against
+
+the mantel-piece with his back towards them. He turned round on their
+
+coming in, and his countenance showed that he strongly partook of the
+
+emotion which over-powered Marianne.
+
+
+
+“Is anything the matter with her?” cried Mrs. Dashwood as she
+
+entered—“is she ill?”
+
+
+
+“I [[Hope|hope]] not,” he replied, trying to look cheerful; and with a forced
+
+smile presently added, “It is I who may rather expect to be ill—for I
+
+am now [[Suffering|suffering]] under a very heavy disappointment!”
+
+
+
+“Disappointment?”
+
+
+
+“Yes, for I am unable to keep my engagement with you. Mrs. [[smith|Smith]] has
+
+this morning exercised the privilege of riches upon a poor dependent
+
+cousin, by sending me on business to [[London]]. I have just received my
+
+dispatches, and taken my farewell of Allenham; and by way of
+
+exhilaration I am now come to take my farewell of you.”
+
+
+
+“To [[London]]!—and are you going this morning?”
+
+
+
+“Almost this moment.”
+
+
+
+“This is very unfortunate. But Mrs. [[smith|Smith]] must be obliged;—and her
+
+business will not detain you from us long I [[Hope|hope]].”
+
+
+
+He coloured as he replied, “You are very kind, but I have no idea of
+
+returning into Devonshire immediately. My visits to Mrs. [[smith|Smith]] are
+
+never repeated within the twelvemonth.”
+
+
+
+“And is Mrs. [[smith|Smith]] your only friend? Is Allenham the only [[house]] in the
+
+neighbourhood to which you will be welcome? For shame, Willoughby, can
+
+you wait for an invitation here?”
+
+
+
+His colour increased; and with his eyes fixed on the ground he only
+
+replied, “You are too good.”
+
+
+
+Mrs. Dashwood looked at Elinor with surprise. Elinor felt equal
+
+amazement. For a few moments every one was silent. Mrs. Dashwood first
+
+spoke.
+
+
+
+“I have only to add, my dear Willoughby, that at Barton cottage you
+
+will always be welcome; for I will not press you to return here
+
+immediately, because you only can judge how far _that_ might be
+
+pleasing to Mrs. [[smith|Smith]]; and on this head I shall be no more disposed to
+
+question your judgment than to [[Doubt|doubt]] your inclination.”
+
+
+
+“My engagements at present,” replied Willoughby, confusedly, “are of
+
+such a [[Nature|nature]]—that—I dare not flatter myself—”
+
+
+
+He stopped. Mrs. Dashwood was too much astonished to speak, and another
+
+pause succeeded. This was broken by Willoughby, who said with a faint
+
+smile, “It is folly to linger in this manner. I will not torment myself
+
+any longer by remaining among friends whose society it is impossible
+
+for me now to enjoy.”
+
+
+
+He then hastily took leave of them all and left the room. They saw him
+
+step into his carriage, and in a minute it was out of sight.
+
+
+
+Mrs. Dashwood felt too much for speech, and instantly quitted the
+
+parlour to give way in [[Solitude|solitude]] to the concern and alarm which this
+
+sudden departure occasioned.
+
+
+
+Elinor’s uneasiness was at least equal to her mother’s. She thought of
+
+what had just passed with anxiety and distrust. Willoughby’s behaviour
+
+in taking leave of them, his embarrassment, and affectation of
+
+cheerfulness, and, above all, his unwillingness to accept her mother’s
+
+invitation, a backwardness so unlike a [[Lover|lover]], so unlike himself,
+
+greatly disturbed her. One moment she feared that no serious design had
+
+ever been formed on his side; and the next that some unfortunate
+
+quarrel had taken place between him and her sister;—the distress in
+
+which Marianne had quitted the room was such as a serious quarrel could
+
+most reasonably account for, though when she considered what Marianne’s
+
+[[Love|love]] for him was, a quarrel seemed almost impossible.
+
+
+
+But whatever might be the particulars of their separation, her sister’s
+
+affliction was indubitable; and she thought with the tenderest
+
+compassion of that violent sorrow which Marianne was in all probability
+
+not merely giving way to as a relief, but feeding and encouraging as a
+
+duty.
+
+
+
+In about half an hour her mother returned, and though her eyes were
+
+red, her countenance was not uncheerful.
+
+
+
+“Our dear Willoughby is now some miles from Barton, Elinor,” said she,
+
+as she sat down to work, “and with how heavy a heart does he travel?”
+
+
+
+“It is all very strange. So suddenly to be gone! It seems but the work
+
+of a moment. And last [[Night|night]] he was with us so happy, so cheerful, so
+
+affectionate? And now, after only ten minutes notice—Gone too without
+
+intending to return!—Something more than what he owned to us must have
+
+happened. He did not speak, he did not behave like himself. _You_ must
+
+have seen the difference as [[Well|well]] as I. What can it be? Can they have
+
+quarrelled? Why else should he have shown such unwillingness to accept
+
+your invitation here?”
+
+
+
+“It was not inclination that he wanted, Elinor; I could plainly see
+
+_that_. He had not the power of accepting it. I have thought it all
+
+over I assure you, and I can perfectly account for every thing that at
+
+first seemed strange to me as [[Well|well]] as to you.”
+
+
+
+
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Sense and Sensibility — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+
+
+“Can you, indeed!”
+
+
+
+“Yes. I have explained it to myself in the most satisfactory way;—but
+
+you, Elinor, who [[Love|love]] to [[Doubt|doubt]] where you can—it will not satisfy _you_,
+
+I know; but you shall not talk _me_ out of my trust in it. I am
+
+persuaded that Mrs. [[smith|Smith]] suspects his regard for Marianne, disapproves
+
+of it, (perhaps because she has other views for him,) and on that
+
+account is eager to get him away;—and that the business which she sends
+
+him off to transact is invented as an excuse to dismiss him. This is
+
+what I believe to have happened. He is, moreover, aware that she _does_
+
+disapprove the connection, he dares not therefore at present confess to
+
+her his engagement with Marianne, and he feels himself obliged, from
+
+his dependent situation, to give into her schemes, and absent himself
+
+from Devonshire for a while. You will tell me, I know, that this may or
+
+may _not_ have happened; but I will listen to no cavil, unless you can
+
+point out any other method of understanding the affair as satisfactory
+
+at this. And now, Elinor, what have you to say?”
+
+
+
+“Nothing, for you have anticipated my answer.”
+
+
+
+“Then you would have told me, that it might or might not have happened.
+
+Oh, Elinor, how incomprehensible are your feelings! You had rather take
+
+evil upon credit than good. You had rather look out for misery for
+
+Marianne, and [[Guilt|guilt]] for poor Willoughby, than an apology for the
+
+latter. You are resolved to think him blameable, because he took leave
+
+of us with less affection than his usual behaviour has shown. And is no
+
+allowance to be made for inadvertence, or for spirits depressed by
+
+recent disappointment? Are no probabilities to be accepted, merely
+
+because they are not certainties? Is nothing due to the man whom we
+
+have all such reason to [[Love|love]], and no reason in the world to think ill
+
+of? To the possibility of motives unanswerable in themselves, though
+
+unavoidably secret for a while? And, after all, what is it you suspect
+
+him of?”
+
+
+
+“I can hardly tell myself. But suspicion of something unpleasant is the
+
+inevitable consequence of such an alteration as we just witnessed in
+
+him. There is great [[Truth|truth]], however, in what you have now urged of the
+
+allowances which ought to be made for him, and it is my wish to be
+
+candid in my judgment of every [[Body|body]]. Willoughby may undoubtedly have
+
+very sufficient reasons for his conduct, and I will [[Hope|hope]] that he has.
+
+But it would have been more like Willoughby to acknowledge them at
+
+once. Secrecy may be advisable; but still I cannot help wondering at
+
+its being practiced by him.”
+
+
+
+“Do not blame him, however, for departing from his character, where the
+
+deviation is necessary. But you really do admit the justice of what I
+
+have said in his defence?—I am happy—and he is acquitted.”
+
+
+
+“Not entirely. It may be proper to conceal their engagement (if they
+
+_are_ engaged) from Mrs. [[smith|Smith]]—and if that is the case, it must be
+
+highly expedient for Willoughby to be but little in Devonshire at
+
+present. But this is no excuse for their concealing it from us.”
+
+
+
+“Concealing it from us! my dear [[Child|child]], do you accuse Willoughby and
+
+Marianne of concealment? This is strange indeed, when your eyes have
+
+been reproaching them every day for incautiousness.”
+
+
+
+“I want no proof of their affection,” said Elinor; “but of their
+
+engagement I do.”
+
+
+
+“I am perfectly satisfied of both.”
+
+
+
+“Yet not a syllable has been said to you on the subject, by either of
+
+them.”
+
+
+
+“I have not wanted syllables where actions have spoken so plainly. Has
+
+not his behaviour to Marianne and to all of us, for at least the last
+
+fortnight, declared that he loved and considered her as his future
+
+wife, and that he felt for us the attachment of the nearest relation?
+
+Have we not perfectly understood each other? Has not my consent been
+
+daily asked by his looks, his manner, his attentive and affectionate
+
+respect? My Elinor, is it possible to [[Doubt|doubt]] their engagement? How could
+
+such a thought occur to you? How is it to be supposed that Willoughby,
+
+persuaded as he must be of your sister’s [[Love|love]], should leave her, and
+
+leave her perhaps for months, without telling her of his
+
+affection;—that they should part without a mutual exchange of
+
+confidence?”
+
+
+
+“I confess,” replied Elinor, “that every circumstance except _one_ is
+
+in favour of their engagement; but that _one_ is the total [[Silence|silence]] of
+
+both on the subject, and with me it almost outweighs every other.”
+
+
+
+“How strange this is! You must think wretchedly indeed of Willoughby,
+
+if, after all that has openly passed between them, you can [[Doubt|doubt]] the
+
+[[Nature|nature]] of the terms on which they are together. Has he been acting a
+
+part in his behaviour to your sister all this [[Time|time]]? Do you suppose him
+
+really indifferent to her?”
+
+
+
+“No, I cannot think that. He must and does [[Love|love]] her I am sure.”
+
+
+
+“But with a strange kind of tenderness, if he can leave her with such
+
+indifference, such carelessness of the future, as you attribute to
+
+him.”
+
+
+
+“You must remember, my dear mother, that I have never considered this
+
+matter as certain. I have had my doubts, I confess; but they are
+
+fainter than they were, and they may soon be entirely done away. If we
+
+find they correspond, every [[Fear|fear]] of mine will be removed.”
+
+
+
+“A mighty concession indeed! If you were to see them at the altar, you
+
+would suppose they were going to be married. Ungracious girl! But _I_
+
+require no such proof. Nothing in my opinion has ever passed to justify
+
+[[Doubt|doubt]]; no secrecy has been attempted; all has been uniformly open and
+
+unreserved. You cannot [[Doubt|doubt]] your sister’s wishes. It must be
+
+Willoughby therefore whom you suspect. But why? Is he not a man of
+
+[[Honour|honour]] and feeling? Has there been any inconsistency on his side to
+
+create alarm? can he be deceitful?”
+
+
+
+“I [[Hope|hope]] not, I believe not,” cried Elinor. “I [[Love|love]] Willoughby,
+
+
+
+
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Sense and Sensibility — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+
+
+sincerely [[Love|love]] him; and suspicion of his integrity cannot be more
+
+painful to yourself than to me. It has been involuntary, and I will not
+
+encourage it. I was startled, I confess, by the alteration in his
+
+manners this morning;—he did not speak like himself, and did not return
+
+your kindness with any cordiality. But all this may be explained by
+
+such a situation of his affairs as you have supposed. He had just
+
+parted from my sister, had seen her leave him in the greatest
+
+affliction; and if he felt obliged, from a [[Fear|fear]] of offending Mrs.
+
+[[smith|Smith]], to resist the [[Temptation|temptation]] of returning here soon, and yet aware
+
+that by declining your invitation, by saying that he was going away for
+
+some [[Time|time]], he should seem to act an ungenerous, a suspicious part by
+
+our family, he might [[Well|well]] be embarrassed and disturbed. In such a case,
+
+a plain and open avowal of his difficulties would have been more to his
+
+[[Honour|honour]] I think, as [[Well|well]] as more consistent with his general
+
+character;—but I will not raise objections against any one’s conduct on
+
+so illiberal a foundation, as a difference in judgment from myself, or
+
+a deviation from what I may think right and consistent.”
+
+
+
+“You speak very properly. Willoughby certainly does not deserve to be
+
+suspected. Though _we_ have not known him long, he is no stranger in
+
+this part of the world; and who has ever spoken to his disadvantage?
+
+Had he been in a situation to act independently and marry immediately,
+
+it might have been odd that he should leave us without acknowledging
+
+everything to me at once: but this is not the case. It is an engagement
+
+in some respects not prosperously begun, for their [[Marriage|marriage]] must be at
+
+a very uncertain distance; and even secrecy, as far as it can be
+
+observed, may now be very advisable.”
+
+
+
+They were interrupted by the entrance of Margaret; and Elinor was then
+
+at liberty to think over the representations of her mother, to
+
+acknowledge the probability of many, and [[Hope|hope]] for the justice of all.
+
+
+
+They saw nothing of Marianne till dinner [[Time|time]], when she entered the
+
+room and took her place at the table without saying a word. Her eyes
+
+were red and swollen; and it seemed as if her [[Tears|tears]] were even then
+
+restrained with difficulty. She avoided the looks of them all, could
+
+neither eat nor speak, and after some [[Time|time]], on her mother’s silently
+
+pressing her hand with tender compassion, her small degree of fortitude
+
+was quite overcome, she burst into [[Tears|tears]] and left the room.
+
+
+
+This violent oppression of spirits continued the whole evening. She was
+
+without any power, because she was without any [[Desire|desire]] of command over
+
+herself. The slightest mention of anything relative to Willoughby
+
+overpowered her in an instant; and though her family were most
+
+anxiously attentive to her comfort, it was impossible for them, if they
+
+spoke at all, to keep clear of every subject which her feelings
+
+connected with him.
 
 
 
@@ -30367,3336 +31947,6 @@ acquaintance in general, founded only on a something or a nothing
 between Mr. Willoughby and herself, he would not have ventured to
 
 mention it.
-
-
-
-
-<span class="atom-split" data-atom="chapter_25" data-title="Sense and Sensibility — Chapter 25" data-chapter="Chapter 25" data-kind="chapter"></span>
-
-
-CHAPTER XXV.
-
-
-
-
-
-Though Mrs. Jennings was in the habit of spending a large portion of
-
-the year at the houses of her children and friends, she was not without
-
-a settled habitation of her own. Since the [[Death|death]] of her husband, who
-
-had traded with [[success]] in a less elegant part of the town, she had
-
-resided every [[Winter|winter]] in a [[house]] in one of the streets near Portman
-
-Square. Towards this [[Home|home]], she began on the approach of January to turn
-
-her thoughts, and thither she one day abruptly, and very unexpectedly
-
-by them, asked the elder Misses Dashwood to accompany her. Elinor,
-
-without observing the varying complexion of her sister, and the
-
-animated look which spoke no indifference to the plan, immediately gave
-
-a grateful but absolute denial for both, in which she believed herself
-
-to be speaking their united inclinations. The reason alleged was their
-
-determined resolution of not leaving their mother at that [[Time|time]] of the
-
-year. Mrs. Jennings received the refusal with some surprise, and
-
-repeated her invitation immediately.
-
-
-
-“Oh, Lord! I am sure your mother can spare you very [[Well|well]], and I _do_
-
-beg you will favour me with your company, for I’ve quite set my heart
-
-upon it. Don’t fancy that you will be any inconvenience to me, for I
-
-shan’t put myself at all out of my way for you. It will only be sending
-
-Betty by the coach, and I [[Hope|hope]] I can afford _that_. We three shall be
-
-able to go very [[Well|well]] in my chaise; and when we are in town, if you do
-
-not like to go wherever I do, [[Well|well]] and good, you may always go with one
-
-of my daughters. I am sure your mother will not object to it; for I
-
-have had such good luck in getting my own children off my hands that
-
-she will think me a very fit person to have the charge of you; and if I
-
-don’t get one of you at least [[Well|well]] married before I have done with you,
-
-it shall not be my fault. I shall speak a good word for you to all the
-
-young men, you may depend upon it.”
-
-
-
-“I have a notion,” said Sir John, “that Miss Marianne would not object
-
-to such a scheme, if her elder sister would come into it. It is very
-
-hard indeed that she should not have a little pleasure, because Miss
-
-Dashwood does not wish it. So I would advise you two, to set off for
-
-town, when you are tired of Barton, without saying a word to Miss
-
-Dashwood about it.”
-
-
-
-“Nay,” cried Mrs. Jennings, “I am sure I shall be monstrous glad of
-
-Miss Marianne’s company, whether Miss Dashwood will go or not, only the
-
-more the merrier say I, and I thought it would be more comfortable for
-
-them to be together; because, if they got tired of me, they might talk
-
-to one another, and laugh at my odd ways behind my back. But one or the
-
-other, if not both of them, I must have. Lord bless me! how do you
-
-think I can live poking by myself, I who have been always used till
-
-this [[Winter|winter]] to have Charlotte with me. Come, Miss Marianne, let us
-
-strike hands upon the bargain, and if Miss Dashwood will change her
-
-mind by and bye, why so much the better.”
-
-
-
-“I thank you, ma’am, sincerely thank you,” said Marianne, with warmth:
-
-“your invitation has insured my gratitude for ever, and it would give
-
-me such happiness, yes, almost the greatest happiness I am capable of,
-
-to be able to accept it. But my mother, my dearest, kindest mother,—I
-
-feel the justice of what Elinor has urged, and if she were to be made
-
-less happy, less comfortable by our absence—Oh! no, nothing should
-
-tempt me to leave her. It should not, must not be a struggle.”
-
-
-
-Mrs. Jennings repeated her assurance that Mrs. Dashwood could spare
-
-them perfectly [[Well|well]]; and Elinor, who now understood her sister, and saw
-
-to what indifference to almost every thing else she was carried by her
-
-eagerness to be with Willoughby again, made no farther direct
-
-opposition to the plan, and merely referred it to her mother’s
-
-decision, from whom however she scarcely expected to receive any
-
-support in her endeavour to prevent a visit, which she could not
-
-approve of for Marianne, and which on her own account she had
-
-particular reasons to avoid. Whatever Marianne was desirous of, her
-
-mother would be eager to promote—she could not expect to influence the
-
-latter to cautiousness of conduct in an affair respecting which she had
-
-never been able to inspire her with distrust; and she dared not explain
-
-the motive of her own disinclination for going to [[London]]. That
-
-Marianne, fastidious as she was, thoroughly acquainted with Mrs.
-
-Jennings’ manners, and invariably disgusted by them, should overlook
-
-every inconvenience of that kind, should disregard whatever must be
-
-most wounding to her irritable feelings, in her pursuit of one object,
-
-was such a proof, so strong, so full, of the importance of that object
-
-to her, as Elinor, in spite of all that had passed, was not prepared to
-
-witness.
-
-
-
-On being informed of the invitation, Mrs. Dashwood, persuaded that such
-
-an excursion would be productive of much amusement to both her
-
-daughters, and perceiving through all her affectionate attention to
-
-herself, how much the heart of Marianne was in it, would not hear of
-
-their declining the offer upon _her_ account; insisted on their both
-
-accepting it directly; and then began to foresee, with her usual
-
-cheerfulness, a variety of advantages that would accrue to them all,
-
-from this separation.
-
-
-
-“I am delighted with the plan,” she cried, “it is exactly what I could
-
-wish. Margaret and I shall be as much benefited by it as yourselves.
-
-When you and the Middletons are gone, we shall go on so quietly and
-
-happily together with our books and our music! You will find Margaret
-
-so improved when you come back again! I have a little plan of
-
-alteration for your bedrooms too, which may now be performed without
-
-any inconvenience to any one. It is very right that you _should_ go to
-
-town; I would have every young woman of your condition in life
-
-acquainted with the manners and amusements of [[London]]. You will be under
-
-the care of a motherly good sort of woman, of whose kindness to you I
-
-can have no [[Doubt|doubt]]. And in all probability you will see your brother,
-
-and whatever may be his faults, or the faults of his wife, when I
-
-consider whose son he is, I cannot bear to have you so wholly estranged
-
-from each other.”
-
-
-
-“Though with your usual anxiety for our happiness,” said Elinor, “you
-
-have been obviating every impediment to the present scheme which
-
-occurred to you, there is still one objection which, in my opinion,
-
-cannot be so easily removed.”
-
-
-
-Marianne’s countenance sunk.
-
-
-
-“And what,” said Mrs. Dashwood, “is my dear prudent Elinor going to
-
-suggest? What formidable obstacle is she now to bring forward? Do not
-
-let me hear a word about the expense of it.”
-
-
-
-“My objection is this; though I think very [[Well|well]] of Mrs. Jennings’s
-
-heart, she is not a woman whose society can afford us pleasure, or
-
-whose protection will give us consequence.”
-
-
-
-“That is very true,” replied her mother, “but of her society,
-
-separately from that of other people, you will scarcely have any thing
-
-at all, and you will almost always appear in public with Lady
-
-Middleton.”
-
-
-
-“If Elinor is frightened away by her dislike of Mrs. Jennings,” said
-
-Marianne, “at least it need not prevent MY accepting her invitation. I
-
-have no such scruples, and I am sure I could put up with every
-
-unpleasantness of that kind with very little effort.”
-
-
-
-Elinor could not help smiling at this display of indifference towards
-
-the manners of a person, to whom she had often had difficulty in
-
-persuading Marianne to behave with tolerable politeness; and resolved
-
-within herself, that if her sister persisted in going, she would go
-
-likewise, as she did not think it proper that Marianne should be left
-
-to the sole guidance of her own judgment, or that Mrs. Jennings should
-
-be abandoned to the [[Mercy|mercy]] of Marianne for all the comfort of her
-
-domestic hours. To this determination she was the more easily
-
-reconciled, by recollecting that [[Edward Ferrars]], by Lucy’s account, was
-
-not to be in town before February; and that their visit, without any
-
-unreasonable abridgement, might be previously finished.
-
-
-
-“I will have you _both_ go,” said Mrs. Dashwood; “these objections are
-
-nonsensical. You will have much pleasure in being in [[London]], and
-
-especially in being together; and if Elinor would ever condescend to
-
-anticipate enjoyment, she would foresee it there from a variety of
-
-sources; she would, perhaps, expect some from improving her
-
-acquaintance with her sister-in-law’s family.”
-
-
-
-Elinor had often wished for an opportunity of attempting to weaken her
-
-mother’s dependence on the attachment of Edward and herself, that the
-
-shock might be less when the whole [[Truth|truth]] were revealed, and now on this
-
-attack, though almost hopeless of [[success]], she forced herself to begin
-
-her design by saying, as calmly as she could, “I like [[Edward Ferrars]]
-
-very much, and shall always be glad to see him; but as to the rest of
-
-the family, it is a matter of perfect indifference to me, whether I am
-
-ever known to them or not.”
-
-
-
-Mrs. Dashwood smiled, and said nothing. Marianne lifted up her eyes in
-
-astonishment, and Elinor conjectured that she might as [[Well|well]] have held
-
-her tongue.
-
-
-
-After very little farther discourse, it was finally settled that the
-
-invitation should be fully accepted. Mrs. Jennings received the
-
-information with a great deal of joy, and many assurances of kindness
-
-and care; nor was it a matter of pleasure merely to her. Sir John was
-
-delighted; for to a man, whose prevailing anxiety was the dread of
-
-being [[Alone|alone]], the acquisition of two, to the number of inhabitants in
-
-[[London]], was something. Even Lady Middleton took the trouble of being
-
-delighted, which was putting herself rather out of her way; and as for
-
-the Miss Steeles, especially Lucy, they had never been so happy in
-
-their lives as this intelligence made them.
-
-
-
-Elinor submitted to the arrangement which counteracted her wishes with
-
-less reluctance than she had expected to feel. With regard to herself,
-
-it was now a matter of unconcern whether she went to town or not, and
-
-when she saw her mother so thoroughly pleased with the plan, and her
-
-sister exhilarated by it in look, voice, and manner, restored to all
-
-her usual animation, and elevated to more than her usual gaiety, she
-
-could not be dissatisfied with the cause, and would hardly allow
-
-herself to distrust the consequence.
-
-
-
-Marianne’s joy was almost a degree beyond happiness, so great was the
-
-perturbation of her spirits and her impatience to be gone. Her
-
-unwillingness to quit her mother was her only restorative to calmness;
-
-and at the moment of parting her grief on that score was excessive. Her
-
-mother’s affliction was hardly less, and Elinor was the only one of the
-
-three, who seemed to consider the separation as any thing short of
-
-eternal.
-
-
-
-Their departure took place in the first week in January. The Middletons
-
-were to follow in about a week. The Miss Steeles kept their station at
-
-the park, and were to quit it only with the rest of the family.
-
-
-
-
-<span class="atom-split" data-atom="chapter_28" data-title="Sense and Sensibility — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
-
-
-CHAPTER XXVIII.
-
-
-
-
-
-Nothing occurred during the next three or four days, to make Elinor
-
-regret what she had done, in applying to her mother; for Willoughby
-
-neither came nor wrote. They were engaged about the end of that [[Time|time]] to
-
-attend Lady Middleton to a party, from which Mrs. Jennings was kept
-
-away by the indisposition of her youngest daughter; and for this party,
-
-Marianne, wholly dispirited, careless of her appearance, and seeming
-
-equally indifferent whether she went or staid, prepared, without one
-
-look of [[Hope|hope]] or one expression of pleasure. She sat by the drawing-room
-
-[[Fire|fire]] after tea, till the moment of Lady Middleton’s arrival, without
-
-once stirring from her seat, or altering her attitude, lost in her own
-
-thoughts, and insensible of her sister’s presence; and when at last
-
-they were told that Lady Middleton waited for them at the door, she
-
-started as if she had forgotten that any one was expected.
-
-
-
-They arrived in due [[Time|time]] at the place of destination, and as soon as
-
-the string of carriages before them would allow, alighted, ascended the
-
-stairs, heard their names announced from one landing-place to another
-
-in an audible voice, and entered a room splendidly lit up, quite full
-
-of company, and insufferably hot. When they had paid their tribute of
-
-politeness by curtsying to the lady of the [[house]], they were permitted
-
-to mingle in the crowd, and take their share of the heat and
-
-inconvenience, to which their arrival must necessarily add. After some
-
-[[Time|time]] spent in saying little or doing less, Lady Middleton sat down to
-
-Cassino, and as Marianne was not in spirits for moving about, she and
-
-Elinor luckily succeeding to chairs, placed themselves at no great
-
-distance from the table.
-
-
-
-They had not remained in this manner long, before Elinor perceived
-
-Willoughby, standing within a few yards of them, in earnest
-
-conversation with a very fashionable looking young woman. She soon
-
-caught his eye, and he immediately bowed, but without attempting to
-
-speak to her, or to approach Marianne, though he could not but see her;
-
-and then continued his discourse with the same lady. Elinor turned
-
-involuntarily to Marianne, to see whether it could be unobserved by
-
-her. At that moment she first perceived him, and her whole countenance
-
-glowing with sudden delight, she would have moved towards him
-
-instantly, had not her sister caught hold of her.
-
-
-
-“Good heavens!” she exclaimed, “he is there—he is there—Oh! why does he
-
-not look at me? why cannot I speak to him?”
-
-
-
-“Pray, pray be composed,” cried Elinor, “and do not betray what you
-
-feel to every [[Body|body]] present. Perhaps he has not observed you yet.”
-
-
-
-This however was more than she could believe herself; and to be
-
-composed at such a moment was not only beyond the reach of Marianne, it
-
-was beyond her wish. She sat in an agony of impatience which affected
-
-every feature.
-
-
-
-At last he turned round again, and regarded them both; she started up,
-
-and pronouncing his name in a tone of affection, held out her hand to
-
-him. He approached, and addressing himself rather to Elinor than
-
-Marianne, as if wishing to avoid her eye, and determined not to observe
-
-her attitude, inquired in a hurried manner after Mrs. Dashwood, and
-
-asked how long they had been in town. Elinor was robbed of all presence
-
-of mind by such an address, and was unable to say a word. But the
-
-feelings of her sister were instantly expressed. Her face was crimsoned
-
-over, and she exclaimed, in a voice of the greatest emotion, “Good God!
-
-Willoughby, what is the meaning of this? Have you not received my
-
-letters? Will you not shake hands with me?”
-
-
-
-He could not then avoid it, but her touch seemed painful to him, and he
-
-held her hand only for a moment. During all this [[Time|time]] he was evidently
-
-struggling for composure. Elinor watched his countenance and saw its
-
-expression becoming more tranquil. After a moment’s pause, he spoke
-
-with calmness.
-
-
-
-“I did myself the [[Honour|honour]] of calling in Berkeley Street last Tuesday,
-
-and very much regretted that I was not fortunate enough to find
-
-yourselves and Mrs. Jennings at [[Home|home]]. My card was not lost, I [[Hope|hope]].”
-
-
-
-“But have you not received my notes?” cried Marianne in the wildest
-
-anxiety. “Here is some mistake I am sure—some dreadful mistake. What
-
-can be the meaning of it? Tell me, Willoughby; for heaven’s sake tell
-
-me, what is the matter?”
-
-
-
-He made no reply; his complexion changed and all his embarrassment
-
-returned; but as if, on catching the eye of the young lady with whom he
-
-had been previously talking, he felt the necessity of instant exertion,
-
-he recovered himself again, and after saying, “Yes, I had the pleasure
-
-of receiving the information of your arrival in town, which you were so
-
-good as to send me,” turned hastily away with a slight bow and joined
-
-his friend.
-
-
-
-Marianne, now looking dreadfully white, and unable to stand, sunk into
-
-her chair, and Elinor, expecting every moment to see her faint, tried
-
-to screen her from the observation of others, while reviving her with
-
-lavender [[Water|water]].
-
-
-
-“Go to him, Elinor,” she cried, as soon as she could speak, “and force
-
-him to come to me. Tell him I must see him again—must speak to him
-
-instantly.—I cannot rest—I shall not have a moment’s peace till this is
-
-explained—some dreadful misapprehension or other. Oh, go to him this
-
-moment.”
-
-
-
-“How can that be done? No, my dearest Marianne, you must wait. This is
-
-not the place for explanations. Wait only till tomorrow.”
-
-
-
-With difficulty however could she prevent her from following him
-
-herself; and to persuade her to check her agitation, to wait, at least,
-
-with the appearance of composure, till she might speak to him with more
-
-privacy and more effect, was impossible; for Marianne continued
-
-incessantly to give way in a low voice to the misery of her feelings,
-
-by exclamations of wretchedness. In a short [[Time|time]] Elinor saw Willoughby
-
-quit the room by the door towards the staircase, and telling Marianne
-
-that he was gone, urged the impossibility of speaking to him again that
-
-evening, as a fresh argument for her to be calm. She instantly begged
-
-her sister would entreat Lady Middleton to take them [[Home|home]], as she was
-
-too miserable to stay a minute longer.
-
-
-
-Lady Middleton, though in the middle of a rubber, on being informed
-
-that Marianne was unwell, was too polite to object for a moment to her
-
-wish of going away, and making over her cards to a friend, they
-
-departed as soon as the carriage could be found. Scarcely a word was
-
-spoken during their return to Berkeley Street. Marianne was in a silent
-
-agony, too much oppressed even for [[Tears|tears]]; but as Mrs. Jennings was
-
-luckily not come [[Home|home]], they could go directly to their own room, where
-
-hartshorn restored her a little to herself. She was soon undressed and
-
-in bed, and as she seemed desirous of being [[Alone|alone]], her sister then left
-
-her, and while she waited the return of Mrs. Jennings, had leisure
-
-enough for thinking over the past.
-
-
-
-That some kind of engagement had subsisted between Willoughby and
-
-Marianne she could not [[Doubt|doubt]], and that Willoughby was weary of it,
-
-seemed equally clear; for however Marianne might still feed her own
-
-wishes, _she_ could not attribute such behaviour to mistake or
-
-misapprehension of any kind. Nothing but a thorough change of sentiment
-
-could account for it. Her indignation would have been still stronger
-
-than it was, had she not witnessed that embarrassment which seemed to
-
-speak a consciousness of his own misconduct, and prevented her from
-
-believing him so unprincipled as to have been sporting with the
-
-affections of her sister from the first, without any design that would
-
-bear investigation. Absence might have weakened his regard, and
-
-convenience might have determined him to overcome it, but that such a
-
-regard had formerly existed she could not bring herself to [[Doubt|doubt]].
-
-
-
-As for Marianne, on the pangs which so unhappy a meeting must already
-
-have given her, and on those still more severe which might await her in
-
-its probable consequence, she could not reflect without the deepest
-
-concern. Her own situation gained in the comparison; for while she
-
-could _esteem_ Edward as much as ever, however they might be divided in
-
-future, her mind might be always supported. But every circumstance that
-
-could embitter such an evil seemed uniting to heighten the misery of
-
-Marianne in a final separation from Willoughby—in an immediate and
-
-irreconcilable rupture with him.
-
-
-
-
-<span class="atom-split" data-atom="chapter_39" data-title="Sense and Sensibility — Chapter 39" data-chapter="Chapter 39" data-kind="chapter"></span>
-
-
-CHAPTER XXXIX.
-
-
-
-
-
-The Miss Dashwoods had now been rather more than two months in town,
-
-and Marianne’s impatience to be gone increased every day. She sighed
-
-for the air, the liberty, the quiet of the country; and fancied that if
-
-any place could give her ease, Barton must do it. Elinor was hardly
-
-less anxious than herself for their removal, and only so much less bent
-
-on its being effected immediately, as that she was conscious of the
-
-difficulties of so long a [[Journey|journey]], which Marianne could not be brought
-
-to acknowledge. She began, however, seriously to turn her thoughts
-
-towards its accomplishment, and had already mentioned their wishes to
-
-their kind hostess, who resisted them with all the eloquence of her
-
-good-will, when a plan was suggested, which, though detaining them from
-
-[[Home|home]] yet a few weeks longer, appeared to Elinor altogether much more
-
-eligible than any other. The Palmers were to remove to Cleveland about
-
-the end of March, for the Easter holidays; and Mrs. Jennings, with both
-
-her friends, received a very warm invitation from Charlotte to go with
-
-them. This would not, in itself, have been sufficient for the delicacy
-
-of Miss Dashwood;—but it was inforced with so much real politeness by
-
-Mr. Palmer himself, as, joined to the very great amendment of his
-
-manners towards them since her sister had been known to be unhappy,
-
-induced her to accept it with pleasure.
-
-
-
-When she told Marianne what she had done, however, her first reply was
-
-not very auspicious.
-
-
-
-“Cleveland!”—she cried, with great agitation. “No, I cannot go to
-
-Cleveland.”
-
-
-
-“You forget,” said Elinor gently, “that its situation is not—that it is
-
-not in the neighbourhood of—”
-
-
-
-“But it is in Somersetshire.—I cannot go into Somersetshire.—There,
-
-where I looked forward to going...No, Elinor, you cannot expect me to
-
-go there.”
-
-
-
-Elinor would not argue upon the propriety of overcoming such
-
-feelings;—she only endeavoured to counteract them by working on
-
-others;—represented it, therefore, as a measure which would fix the
-
-[[Time|time]] of her returning to that dear mother, whom she so much wished to
-
-see, in a more eligible, more comfortable manner, than any other plan
-
-could do, and perhaps without any greater delay. From Cleveland, which
-
-was within a few miles of Bristol, the distance to Barton was not
-
-beyond one day, though a long day’s [[Journey|journey]]; and their mother’s servant
-
-might easily come there to attend them down; and as there could be no
-
-occasion of their staying above a week at Cleveland, they might now be
-
-at [[Home|home]] in little more than three weeks’ [[Time|time]]. As Marianne’s affection
-
-for her mother was sincere, it must triumph with little difficulty,
-
-over the imaginary evils she had started.
-
-
-
-Mrs. Jennings was so far from being weary of her guests, that she
-
-pressed them very earnestly to return with her again from Cleveland.
-
-Elinor was grateful for the attention, but it could not alter her
-
-design; and their mother’s concurrence being readily gained, every
-
-thing relative to their return was arranged as far as it could be;—and
-
-Marianne found some relief in drawing up a statement of the hours that
-
-were yet to divide her from Barton.
-
-
-
-“Ah! Colonel, I do not know what you and I shall do without the Miss
-
-Dashwoods;”—was Mrs. Jennings’s address to him when he first called on
-
-her, after their leaving her was settled—“for they are quite resolved
-
-upon going [[Home|home]] from the Palmers;—and how forlorn we shall be, when I
-
-come back!—Lord! we shall sit and gape at one another as dull as two
-
-cats.”
-
-
-
-Perhaps Mrs. Jennings was in hopes, by this vigorous [[Sketch|sketch]] of their
-
-future ennui, to provoke him to make that offer, which might give
-
-himself an escape from it; and if so, she had soon afterwards good
-
-reason to think her object gained; for, on Elinor’s moving to the
-
-[[Window|window]] to take more expeditiously the dimensions of a print, which she
-
-was going to copy for her friend, he followed her to it with a look of
-
-particular meaning, and conversed with her there for several minutes.
-
-The effect of his discourse on the lady too, could not escape her
-
-observation, for though she was too honorable to listen, and had even
-
-changed her seat, on purpose that she might _not_ hear, to one close by
-
-the piano forte on which Marianne was playing, she could not keep
-
-herself from seeing that Elinor changed colour, attended with
-
-agitation, and was too intent on what he said to pursue her employment.
-
-Still farther in confirmation of her hopes, in the interval of
-
-Marianne’s turning from one lesson to another, some words of the
-
-Colonel’s inevitably reached her ear, in which he seemed to be
-
-apologising for the badness of his [[house]]. This set the matter beyond a
-
-[[Doubt|doubt]]. She wondered, indeed, at his thinking it necessary to do so; but
-
-supposed it to be the proper etiquette. What Elinor said in reply she
-
-could not distinguish, but judged from the motion of her lips, that she
-
-did not think _that_ any material objection; and Mrs. Jennings
-
-commended her in her heart for being so honest. They then talked on for
-
-a few minutes longer without her catching a syllable, when another
-
-lucky stop in Marianne’s performance brought her these words in the
-
-Colonel’s calm voice,—
-
-
-
-“I am afraid it cannot take place very soon.”
-
-
-
-Astonished and shocked at so unlover-like a speech, she was almost
-
-ready to cry out, “Lord! what should hinder it?”—but checking her
-
-[[Desire|desire]], confined herself to this silent ejaculation.
-
-
-
-“This is very strange!—sure he need not wait to be older.”
-
-
-
-This delay on the Colonel’s side, however, did not seem to offend or
-
-mortify his fair companion in the least, for on their breaking up the
-
-conference soon afterwards, and moving different ways, Mrs. Jennings
-
-very plainly heard Elinor say, and with a voice which showed her to
-
-feel what she said,
-
-
-
-“I shall always think myself very much obliged to you.”
-
-
-
-Mrs. Jennings was delighted with her gratitude, and only wondered that
-
-after hearing such a sentence, the Colonel should be able to take leave
-
-of them, as he immediately did, with the utmost _sang-froid_, and go
-
-away without making her any reply! She had not thought her old friend
-
-could have made so indifferent a suitor.
-
-
-
-What had really passed between them was to this effect.
-
-
-
-“I have heard,” said he, with great compassion, “of the injustice your
-
-friend Mr. Ferrars has suffered from his family; for if I understand
-
-the matter right, he has been entirely cast off by them for persevering
-
-in his engagement with a very deserving young woman. Have I been
-
-rightly informed? Is it so?;”
-
-
-
-Elinor told him that it was.
-
-
-
-“The cruelty, the impolitic cruelty,” he replied, with great feeling,
-
-“of dividing, or attempting to divide, two young people long attached
-
-to each other, is terrible. Mrs. Ferrars does not know what she may be
-
-doing—what she may drive her son to. I have seen Mr. Ferrars two or
-
-three times in Harley Street, and am much pleased with him. He is not a
-
-young man with whom one can be intimately acquainted in a short [[Time|time]],
-
-but I have seen enough of him to wish him [[Well|well]] for his own sake, and as
-
-a friend of yours, I wish it still more. I understand that he intends
-
-to take orders. Will you be so good as to tell him that the living of
-
-Delaford, now just vacant, as I am informed by this day’s post, is his,
-
-if he think it worth his acceptance; but _that_, perhaps, so
-
-unfortunately circumstanced as he is now, it may be nonsense to appear
-
-to [[Doubt|doubt]]; I only wish it were more valuable. It is a rectory, but a
-
-small one; the late incumbent, I believe, did not make more than 200£
-
-per annum, and though it is certainly capable of improvement, I [[Fear|fear]],
-
-not to such an amount as to afford him a very comfortable income. Such
-
-as it is, however, my pleasure in presenting it to him, will be very
-
-great. Pray assure him of it.”
-
-
-
-Elinor’s astonishment at this commission could hardly have been
-
-greater, had the Colonel been really making her an offer of his hand.
-
-The preferment, which only two days before she had considered as
-
-hopeless for Edward, was already provided to enable him to marry; and
-
-_she_, of all people in the world, was fixed on to bestow it! Her
-
-emotion was such as Mrs. Jennings had attributed to a very different
-
-cause; but whatever minor feelings less pure, less pleasing, might have
-
-a share in that emotion, her esteem for the general benevolence, and
-
-her gratitude for the particular [[Friendship|friendship]], which together prompted
-
-[[Colonel Brandon]] to this act, were strongly felt, and warmly expressed.
-
-She thanked him for it with all her heart, spoke of Edward’s principles
-
-and disposition with that praise which she knew them to deserve; and
-
-promised to undertake the commission with pleasure, if it were really
-
-his wish to put off so agreeable an office to another. But at the same
-
-[[Time|time]], she could not help thinking that no one could so [[Well|well]] perform it
-
-as himself. It was an office in short, from which, unwilling to give
-
-Edward the [[Pain|pain]] of receiving an obligation from _her_, she would have
-
-been very glad to be spared herself; but [[Colonel Brandon]], on motives of
-
-equal delicacy, declining it likewise, still seemed so desirous of its
-
-being given through her means, that she would not on any account make
-
-farther opposition. Edward, she believed, was still in town, and
-
-fortunately she had heard his address from Miss Steele. She could
-
-undertake therefore to inform him of it, in the course of the day.
-
-After this had been settled, [[Colonel Brandon]] began to talk of his own
-
-advantage in securing so respectable and agreeable a neighbour, and
-
-_then_ it was that he mentioned with regret, that the [[house]] was small
-
-and indifferent; an evil which Elinor, as Mrs. Jennings had supposed
-
-her to do, made very light of, at least as far as regarded its size.
-
-
-
-“The smallness of the [[house]],” said she, “I cannot imagine any
-
-inconvenience to them, for it will be in proportion to their family and
-
-income.”
-
-
-
-By which the Colonel was surprised to find that _she_ was considering
-
-Mr. Ferrars’s [[Marriage|marriage]] as the certain consequence of the presentation;
-
-for he did not suppose it possible that Delaford living could supply
-
-such an income, as anybody in his style of life would venture to settle
-
-on, and he said so.
-
-
-
-“This little rectory _can_ do no more than make Mr. Ferrars comfortable
-
-as a bachelor; it cannot enable him to marry. I am sorry to say that my
-
-patronage ends with this; and my interest is hardly more extensive. If,
-
-however, by an unforeseen chance it should be in my power to serve him
-
-farther, I must think very differently of him from what I now do, if I
-
-am not as ready to be useful to him then as I sincerely wish I could be
-
-at present. What I am now doing indeed, seems nothing at all, since it
-
-can advance him so little towards what must be his principal, his only
-
-object of happiness. His [[Marriage|marriage]] must still be a distant good; at
-
-least, I am afraid it cannot take place very soon.”
-
-
-
-Such was the sentence which, when misunderstood, so justly offended the
-
-delicate feelings of Mrs. Jennings; but after this narration of what
-
-really passed between [[Colonel Brandon]] and Elinor, while they stood at
-
-the [[Window|window]], the gratitude expressed by the latter on their parting, may
-
-perhaps appear in general, not less reasonably excited, nor less
-
-properly worded than if it had arisen from an offer of [[Marriage|marriage]].
-
-
-
-
-<span class="atom-split" data-atom="chapter_42" data-title="Sense and Sensibility — Chapter 42" data-chapter="Chapter 42" data-kind="chapter"></span>
-
-
-CHAPTER XLII.
-
-
-
-
-
-One other short call in Harley Street, in which Elinor received her
-
-brother’s congratulations on their travelling so far towards Barton
-
-without any expense, and on [[Colonel Brandon]]’s being to follow them to
-
-Cleveland in a day or two, completed the intercourse of the brother and
-
-sisters in town;—and a faint invitation from Fanny, to come to Norland
-
-whenever it should happen to be in their way, which of all things was
-
-the most unlikely to occur, with a more warm, though less public,
-
-assurance, from John to Elinor, of the promptitude with which he should
-
-come to see her at Delaford, was all that foretold any meeting in the
-
-country.
-
-
-
-It amused her to observe that all her friends seemed determined to send
-
-her to Delaford;—a place, in which, of all others, she would now least
-
-chuse to visit, or wish to reside; for not only was it considered as
-
-her future [[Home|home]] by her brother and Mrs. Jennings, but even Lucy, when
-
-they parted, gave her a pressing invitation to visit her there.
-
-
-
-Very early in April, and tolerably early in the day, the two parties
-
-from Hanover Square and Berkeley Street set out from their respective
-
-homes, to meet, by appointment, on the [[Road|road]]. For the convenience of
-
-Charlotte and her [[Child|child]], they were to be more than two days on their
-
-[[Journey|journey]], and Mr. Palmer, travelling more expeditiously with Colonel
-
-Brandon, was to join them at Cleveland soon after their arrival.
-
-
-
-Marianne, few as had been her hours of comfort in [[London]], and eager as
-
-she had long been to quit it, could not, when it came to the point, bid
-
-adieu to the [[house]] in which she had for the last [[Time|time]] enjoyed those
-
-hopes, and that confidence, in Willoughby, which were now extinguished
-
-for ever, without great [[Pain|pain]]. Nor could she leave the place in which
-
-Willoughby remained, busy in new engagements, and new schemes, in which
-
-_she_ could have no share, without shedding many [[Tears|tears]].
-
-
-
-Elinor’s satisfaction, at the moment of removal, was more positive. She
-
-had no such object for her lingering thoughts to fix on, she left no
-
-creature behind, from whom it would give her a moment’s regret to be
-
-divided for ever, she was pleased to be free herself from the
-
-persecution of Lucy’s [[Friendship|friendship]], she was grateful for bringing her
-
-sister away unseen by Willoughby since his [[Marriage|marriage]], and she looked
-
-forward with [[Hope|hope]] to what a few months of tranquility at Barton might
-
-do towards restoring Marianne’s peace of mind, and confirming her own.
-
-
-
-Their [[Journey|journey]] was safely performed. The second day brought them into
-
-the cherished, or the prohibited, county of Somerset, for as such was
-
-it dwelt on by turns in Marianne’s [[Imagination|imagination]]; and in the forenoon of
-
-the third they drove up to Cleveland.
-
-
-
-Cleveland was a spacious, modern-built [[house]], situated on a sloping
-
-lawn. It had no park, but the pleasure-grounds were tolerably
-
-extensive; and like every other place of the same degree of importance,
-
-it had its open shrubbery, and closer wood walk, a [[Road|road]] of smooth
-
-gravel winding round a plantation, led to the front, the lawn was
-
-dotted over with timber, the [[house]] itself was under the guardianship of
-
-the fir, the mountain-ash, and the acacia, and a thick screen of them
-
-altogether, interspersed with tall Lombardy poplars, shut out the
-
-offices.
-
-
-
-Marianne entered the [[house]] with a heart swelling with emotion from the
-
-consciousness of being only eighty miles from Barton, and not thirty
-
-from Combe Magna; and before she had been five minutes within its
-
-walls, while the others were busily helping Charlotte to show her [[Child|child]]
-
-to the housekeeper, she quitted it again, stealing away through the
-
-winding shrubberies, now just beginning to be in [[Beauty|beauty]], to gain a
-
-distant eminence; where, from its Grecian temple, her eye, wandering
-
-over a wide tract of country to the south-east, could fondly rest on
-
-the farthest ridge of hills in the horizon, and fancy that from their
-
-summits Combe Magna might be seen.
-
-
-
-In such moments of precious, invaluable misery, she rejoiced in [[Tears|tears]]
-
-of agony to be at Cleveland; and as she returned by a different circuit
-
-to the [[house]], feeling all the happy privilege of country liberty, of
-
-wandering from place to place in free and luxurious [[Solitude|solitude]], she
-
-resolved to spend almost every hour of every day while she remained
-
-with the Palmers, in the indulgence of such solitary rambles.
-
-
-
-She returned just in [[Time|time]] to join the others as they quitted the [[house]],
-
-on an excursion through its more immediate premises; and the rest of
-
-the morning was easily whiled away, in lounging round the kitchen
-
-[[Garden|garden]], examining the bloom upon its walls, and listening to the
-
-gardener’s lamentations upon blights, in dawdling through the
-
-green-[[house]], where the loss of her favourite plants, unwarily exposed,
-
-and nipped by the lingering [[Frost|frost]], raised the laughter of
-
-Charlotte,—and in visiting her poultry-yard, where, in the disappointed
-
-hopes of her dairy-maid, by hens forsaking their nests, or being stolen
-
-by a fox, or in the rapid decrease of a promising young brood, she
-
-found fresh sources of merriment.
-
-
-
-The morning was fine and dry, and Marianne, in her plan of employment
-
-abroad, had not calculated for any change of weather during their stay
-
-at Cleveland. With great surprise therefore, did she find herself
-
-prevented by a settled rain from going out again after dinner. She had
-
-depended on a twilight walk to the Grecian temple, and perhaps all over
-
-the grounds, and an evening merely cold or damp would not have deterred
-
-her from it; but a heavy and settled rain even _she_ could not fancy
-
-dry or pleasant weather for walking.
-
-
-
-Their party was small, and the hours passed quietly away. Mrs. Palmer
-
-had her [[Child|child]], and Mrs. Jennings her carpet-work; they talked of the
-
-friends they had left behind, arranged Lady Middleton’s engagements,
-
-and wondered whether Mr. Palmer and [[Colonel Brandon]] would get farther
-
-than Reading that [[Night|night]]. Elinor, however little concerned in it, joined
-
-in their discourse; and Marianne, who had the knack of finding her way
-
-in every [[house]] to the library, however it might be avoided by the
-
-family in general, soon procured herself a book.
-
-
-
-Nothing was wanting on Mrs. Palmer’s side that constant and friendly
-
-good [[Humour|humour]] could do, to make them feel themselves welcome. The
-
-openness and heartiness of her manner more than atoned for that want of
-
-recollection and elegance which made her often deficient in the forms
-
-of politeness; her kindness, recommended by so pretty a face, was
-
-engaging; her folly, though evident was not disgusting, because it was
-
-not conceited; and Elinor could have forgiven every thing but her
-
-laugh.
-
-
-
-The two gentlemen arrived the next day to a very late dinner, affording
-
-a pleasant enlargement of the party, and a very welcome variety to
-
-their conversation, which a long morning of the same continued rain had
-
-reduced very low.
-
-
-
-Elinor had seen so little of Mr. Palmer, and in that little had seen so
-
-much variety in his address to her sister and herself, that she knew
-
-not what to expect to find him in his own family. She found him,
-
-however, perfectly the gentleman in his behaviour to all his visitors,
-
-and only occasionally rude to his wife and her mother; she found him
-
-very capable of being a pleasant companion, and only prevented from
-
-being so always, by too great an aptitude to fancy himself as much
-
-superior to people in general, as he must feel himself to be to Mrs.
-
-Jennings and Charlotte. For the rest of his character and habits, they
-
-were marked, as far as Elinor could perceive, with no traits at all
-
-unusual in his sex and [[Time|time]] of life. He was nice in his eating,
-
-uncertain in his hours; fond of his [[Child|child]], though affecting to slight
-
-it; and idled away the mornings at billiards, which ought to have been
-
-devoted to business. She liked him, however, upon the whole, much
-
-better than she had expected, and in her heart was not sorry that she
-
-could like him no more;—not sorry to be driven by the observation of
-
-his Epicurism, his selfishness, and his conceit, to rest with
-
-complacency on the remembrance of Edward’s generous temper, simple
-
-taste, and diffident feelings.
-
-
-
-Of Edward, or at least of some of his concerns, she now received
-
-intelligence from [[Colonel Brandon]], who had been into Dorsetshire
-
-lately; and who, treating her at once as the disinterested friend of
-
-Mr. Ferrars, and the kind confidante of himself, talked to her a great
-
-deal of the parsonage at Delaford, described its deficiencies, and told
-
-her what he meant to do himself towards removing them.—His behaviour to
-
-her in this, as [[Well|well]] as in every other particular, his open pleasure in
-
-meeting her after an absence of only ten days, his readiness to
-
-converse with her, and his deference for her opinion, might very [[Well|well]]
-
-justify Mrs. Jennings’s [[Persuasion|persuasion]] of his attachment, and would have
-
-been enough, perhaps, had not Elinor still, as from the first, believed
-
-Marianne his real favourite, to make her suspect it herself. But as it
-
-was, such a notion had scarcely ever entered her head, except by Mrs.
-
-Jennings’s suggestion; and she could not help believing herself the
-
-nicest observer of the two;—she watched his eyes, while Mrs. Jennings
-
-thought only of his behaviour;—and while his looks of anxious
-
-solicitude on Marianne’s feeling, in her head and throat, the beginning
-
-of a heavy cold, because unexpressed by words, entirely escaped the
-
-latter lady’s observation;—_she_ could discover in them the quick
-
-feelings, and needless alarm of a [[Lover|lover]].
-
-
-
-Two delightful twilight walks on the third and fourth evenings of her
-
-being there, not merely on the dry gravel of the shrubbery, but all
-
-over the grounds, and especially in the most distant parts of them,
-
-where there was something more of wildness than in the rest, where the
-
-trees were the oldest, and the grass was the longest and wettest,
-
-had—assisted by the still greater imprudence of sitting in her wet
-
-shoes and stockings—given Marianne a cold so violent as, though for a
-
-day or two trifled with or denied, would force itself by increasing
-
-ailments on the concern of every [[Body|body]], and the notice of herself.
-
-Prescriptions poured in from all quarters, and as usual, were all
-
-declined. Though heavy and feverish, with a [[Pain|pain]] in her limbs, and a
-
-cough, and a sore throat, a good [[Night|night]]’s rest was to cure her entirely;
-
-and it was with difficulty that Elinor prevailed on her, when she went
-
-to bed, to try one or two of the simplest of the remedies.
-
-
-
-
-<span class="atom-split" data-atom="chapter_48" data-title="Sense and Sensibility — Chapter 48" data-chapter="Chapter 48" data-kind="chapter"></span>
-
-
-CHAPTER XLVIII.
-
-
-
-
-
-Elinor now found the difference between the expectation of an
-
-unpleasant event, however certain the mind may be told to consider it,
-
-and certainty itself. She now found, that in spite of herself, she had
-
-always admitted a [[Hope|hope]], while Edward remained single, that something
-
-would occur to prevent his marrying Lucy; that some resolution of his
-
-own, some mediation of friends, or some more eligible opportunity of
-
-establishment for the lady, would arise to assist the happiness of all.
-
-But he was now married; and she condemned her heart for the lurking
-
-flattery, which so much heightened the [[Pain|pain]] of the intelligence.
-
-
-
-That he should be married soon, before (as she imagined) he could be in
-
-orders, and consequently before he could be in possession of the
-
-living, surprised her a little at first. But she soon saw how likely it
-
-was that Lucy, in her [[Self|self]]-provident care, in her haste to secure him,
-
-should overlook every thing but the risk of delay. They were married,
-
-married in town, and now hastening down to her uncle’s. What had Edward
-
-felt on being within four miles from Barton, on seeing her mother’s
-
-servant, on hearing Lucy’s message!
-
-
-
-They would soon, she supposed, be settled at Delaford.—Delaford,—that
-
-place in which so much conspired to give her an interest; which she
-
-wished to be acquainted with, and yet desired to avoid. She saw them in
-
-an instant in their parsonage-[[house]]; saw in Lucy, the active,
-
-contriving manager, uniting at once a [[Desire|desire]] of smart appearance with
-
-the utmost frugality, and ashamed to be suspected of half her
-
-economical practices;—pursuing her own interest in every thought,
-
-courting the favour of [[Colonel Brandon]], of Mrs. Jennings, and of every
-
-wealthy friend. In Edward—she knew not what she saw, nor what she
-
-wished to see;—happy or unhappy,—nothing pleased her; she turned away
-
-her head from every [[Sketch|sketch]] of him.
-
-
-
-Elinor flattered herself that some one of their connections in [[London]]
-
-would write to them to announce the event, and give farther
-
-particulars,—but day after day passed off, and brought no letter, no
-
-tidings. Though uncertain that any one were to blame, she found fault
-
-with every absent friend. They were all thoughtless or indolent.
-
-
-
-“When do you write to [[Colonel Brandon]], ma’am?” was an inquiry which
-
-sprung from the impatience of her mind to have something going on.
-
-
-
-“I wrote to him, my [[Love|love]], last week, and rather expect to see, than to
-
-hear from him again. I earnestly pressed his coming to us, and should
-
-not be surprised to see him walk in today or tomorrow, or any day.”
-
-
-
-This was gaining something, something to look forward to. Colonel
-
-Brandon _must_ have some information to give.
-
-
-
-Scarcely had she so determined it, when the figure of a man on
-
-horseback drew her eyes to the [[Window|window]]. He stopt at their gate. It was a
-
-gentleman, it was [[Colonel Brandon]] himself. Now she could hear more; and
-
-she trembled in expectation of it. But it was _not_ [[Colonel Brandon]];
-
-neither his air, nor his height. Were it possible, she must say it must
-
-be Edward. She looked again. He had just dismounted: she could not be
-
-mistaken,—it _was_ Edward. She moved away and sat down. “He comes from
-
-Mr. Pratt’s purposely to see us. I _will_ be calm; I _will_ be mistress
-
-of myself.”
-
-
-
-In a moment she perceived that the others were likewise aware of the
-
-mistake. She saw her mother and Marianne change colour; saw them look
-
-at herself, and whisper a few sentences to each other. She would have
-
-given the world to be able to speak—and to make them understand that
-
-she hoped no coolness, no slight, would appear in their behaviour to
-
-him;—but she had no utterance, and was obliged to leave all to their
-
-own discretion.
-
-
-
-Not a syllable passed aloud. They all waited in [[Silence|silence]] for the
-
-appearance of their visitor. His footsteps were heard along the gravel
-
-path; in a moment he was in the passage, and in another he was before
-
-them.
-
-
-
-His countenance, as he entered the room, was not too happy, even for
-
-Elinor. His complexion was white with agitation, and he looked as if
-
-fearful of his reception, and conscious that he merited no kind one.
-
-Mrs. Dashwood, however, conforming, as she trusted, to the wishes of
-
-that daughter, by whom she then meant in the warmth of her heart to be
-
-guided in every thing, met him with a look of forced complacency, gave
-
-him her hand, and wished him joy.
-
-
-
-He coloured, and stammered out an unintelligible reply. Elinor’s lips
-
-had moved with her mother’s, and, when the moment of action was over,
-
-she wished that she had shaken hands with him too. But it was then too
-
-late, and with a countenance meaning to be open, she sat down again and
-
-talked of the weather.
-
-
-
-Marianne had retreated as much as possible out of sight, to conceal her
-
-distress; and Margaret, understanding some part, but not the whole of
-
-the case, thought it incumbent on her to be dignified, and therefore
-
-took a seat as far from him as she could, and maintained a strict
-
-[[Silence|silence]].
-
-
-
-When Elinor had ceased to rejoice in the dryness of the season, a very
-
-awful pause took place. It was put an end to by Mrs. Dashwood, who felt
-
-obliged to [[Hope|hope]] that he had left Mrs. Ferrars very [[Well|well]]. In a hurried
-
-manner, he replied in the affirmative.
-
-
-
-Another pause.
-
-
-
-Elinor resolving to exert herself, though fearing the sound of her own
-
-voice, now said,
-
-
-
-“Is Mrs. Ferrars at Longstaple?”
-
-
-
-“At Longstaple!” he replied, with an air of surprise. “No, my mother is
-
-in town.”
-
-
-
-“I meant,” said Elinor, taking up some work from the table, “to enquire
-
-for Mrs. _Edward_ Ferrars.”
-
-
-
-She dared not look up;—but her mother and Marianne both turned their
-
-eyes on him. He coloured, seemed perplexed, looked doubtingly, and,
-
-after some hesitation, said,—
-
-
-
-“Perhaps you mean—my brother—you mean Mrs.—Mrs. _Robert_ Ferrars.”
-
-
-
-“Mrs. Robert Ferrars!” was repeated by Marianne and her mother in an
-
-accent of the utmost amazement; and though Elinor could not speak, even
-
-_her_ eyes were fixed on him with the same impatient [[Wonder|wonder]]. He [[Rose|rose]]
-
-from his seat, and walked to the [[Window|window]], apparently from not knowing
-
-what to do; took up a pair of scissors that lay there, and while
-
-spoiling both them and their sheath by cutting the latter to pieces as
-
-he spoke, said, in a hurried voice,—
-
-
-
-“Perhaps you do not know: you may not have heard that my brother is
-
-lately married to—to the youngest—to Miss [[Lucy Steele]].”
-
-
-
-His words were echoed with unspeakable astonishment by all but Elinor,
-
-who sat with her head leaning over her work, in a state of such
-
-agitation as made her hardly know where she was.
-
-
-
-“Yes,” said he, “they were married last week, and are now at Dawlish.”
-
-
-
-Elinor could sit it no longer. She almost ran out of the room, and as
-
-soon as the door was closed, burst into [[Tears|tears]] of joy, which at first
-
-she thought would never cease. Edward, who had till then looked any
-
-where, rather than at her, saw her hurry away, and perhaps saw—or even
-
-heard, her emotion; for immediately afterwards he fell into a reverie,
-
-which no remarks, no inquiries, no affectionate address of Mrs.
-
-Dashwood could penetrate, and at last, without saying a word, quitted
-
-the room, and walked out towards the village—leaving the others in the
-
-greatest astonishment and perplexity on a change in his situation, so
-
-wonderful and so sudden;—a perplexity which they had no means of
-
-lessening but by their own conjectures.
-
-
-
-
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Sense and Sensibility — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
-
-
-CHAPTER X.
-
-
-
-
-
-Marianne’s preserver, as Margaret, with more elegance than precision,
-
-styled Willoughby, called at the cottage early the next morning to make
-
-his personal enquiries. He was received by Mrs. Dashwood with more than
-
-politeness; with a kindness which Sir John’s account of him and her own
-
-gratitude prompted; and every thing that passed during the visit tended
-
-to assure him of the sense, elegance, mutual affection, and domestic
-
-comfort of the family to whom accident had now introduced him. Of their
-
-personal charms he had not required a second interview to be convinced.
-
-
-
-Miss Dashwood had a delicate complexion, regular features, and a
-
-remarkably pretty figure. Marianne was still handsomer. Her form,
-
-though not so correct as her sister’s, in having the advantage of
-
-height, was more striking; and her face was so lovely, that when in the
-
-common cant of praise, she was called a beautiful girl, [[Truth|truth]] was less
-
-violently outraged than usually happens. Her skin was very brown, but,
-
-from its transparency, her complexion was uncommonly brilliant; her
-
-features were all good; her smile was sweet and attractive; and in her
-
-eyes, which were very dark, there was a life, a spirit, an eagerness,
-
-which could hardly be seen without delight. From Willoughby their
-
-expression was at first held back, by the embarrassment which the
-
-remembrance of his assistance created. But when this passed away, when
-
-her spirits became collected, when she saw that to the perfect
-
-good-breeding of the gentleman, he united frankness and vivacity, and
-
-above all, when she heard him declare, that of music and dancing he was
-
-passionately fond, she gave him such a look of approbation as secured
-
-the largest share of his discourse to herself for the rest of his stay.
-
-
-
-It was only necessary to mention any favourite amusement to engage her
-
-to talk. She could not be silent when such points were introduced, and
-
-she had neither shyness nor reserve in their discussion. They speedily
-
-discovered that their enjoyment of dancing and music was mutual, and
-
-that it arose from a general conformity of judgment in all that related
-
-to either. Encouraged by this to a further examination of his opinions,
-
-she proceeded to question him on the subject of books; her favourite
-
-authors were brought forward and dwelt upon with so rapturous a
-
-delight, that any young man of five and twenty must have been
-
-insensible indeed, not to become an immediate [[convert]] to the excellence
-
-of such works, however disregarded before. Their taste was strikingly
-
-alike. The same books, the same passages were idolized by each—or if
-
-any difference appeared, any objection arose, it lasted no longer than
-
-till the force of her arguments and the brightness of her eyes could be
-
-displayed. He acquiesced in all her decisions, caught all her
-
-enthusiasm; and long before his visit concluded, they conversed with
-
-the familiarity of a long-established acquaintance.
-
-
-
-“[[Well]], Marianne,” said Elinor, as soon as he had left them, “for _one_
-
-morning I think you have done pretty [[Well|well]]. You have already ascertained
-
-Mr. Willoughby’s opinion in almost every matter of importance. You know
-
-what he thinks of Cowper and Scott; you are certain of his estimating
-
-their beauties as he ought, and you have received every assurance of
-
-his admiring Pope no more than is proper. But how is your acquaintance
-
-to be long supported, under such extraordinary despatch of every
-
-subject for discourse? You will soon have exhausted each favourite
-
-topic. Another meeting will suffice to explain his sentiments on
-
-picturesque [[Beauty|beauty]], and second marriages, and then you can have nothing
-
-farther to ask.”
-
-
-
-“Elinor,” cried Marianne, “is this fair? is this just? are my ideas so
-
-scanty? But I see what you mean. I have been too much at my ease, too
-
-happy, too frank. I have erred against every common-place notion of
-
-decorum; I have been open and sincere where I ought to have been
-
-reserved, spiritless, dull, and deceitful—had I talked only of the
-
-weather and the roads, and had I spoken only once in ten minutes, this
-
-reproach would have been spared.”
-
-
-
-“My [[Love|love]],” said her mother, “you must not be offended with Elinor—she
-
-was only in jest. I should scold her myself, if she were capable of
-
-wishing to check the delight of your conversation with our new friend.”
-
-Marianne was softened in a moment.
-
-
-
-Willoughby, on his side, gave every proof of his pleasure in their
-
-acquaintance, which an evident wish of improving it could offer. He
-
-came to them every day. To enquire after Marianne was at first his
-
-excuse; but the encouragement of his reception, to which every day gave
-
-greater kindness, made such an excuse unnecessary before it had ceased
-
-to be possible, by Marianne’s perfect recovery. She was confined for
-
-some days to the [[house]]; but never had any confinement been less
-
-irksome. Willoughby was a young man of good abilities, quick
-
-[[Imagination|imagination]], lively spirits, and open, affectionate manners. He was
-
-exactly formed to engage Marianne’s heart, for with all this, he joined
-
-not only a captivating person, but a natural ardour of mind which was
-
-now roused and increased by the example of her own, and which
-
-recommended him to her affection beyond every thing else.
-
-
-
-His society became gradually her most exquisite enjoyment. They read,
-
-they talked, they sang together; his musical talents were considerable;
-
-and he read with all the sensibility and spirit which Edward had
-
-unfortunately wanted.
-
-
-
-In Mrs. Dashwood’s estimation he was as faultless as in Marianne’s; and
-
-Elinor saw nothing to censure in him but a propensity, in which he
-
-strongly resembled and peculiarly delighted her sister, of saying too
-
-much what he thought on every occasion, without attention to persons or
-
-circumstances. In hastily forming and giving his opinion of other
-
-people, in sacrificing general politeness to the enjoyment of undivided
-
-
-
-
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Sense and Sensibility — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
-
-
-attention where his heart was engaged, and in slighting too easily the
-
-forms of worldly propriety, he displayed a want of caution which Elinor
-
-could not approve, in spite of all that he and Marianne could say in
-
-its support.
-
-
-
-Marianne began now to perceive that the desperation which had seized
-
-her at sixteen and a half, of ever seeing a man who could satisfy her
-
-ideas of perfection, had been rash and unjustifiable. Willoughby was
-
-all that her fancy had delineated in that unhappy hour and in every
-
-brighter period, as capable of attaching her; and his behaviour
-
-declared his wishes to be in that respect as earnest, as his abilities
-
-were strong.
-
-
-
-Her mother too, in whose mind not one speculative thought of their
-
-[[Marriage|marriage]] had been raised, by his prospect of riches, was led before the
-
-end of a week to [[Hope|hope]] and expect it; and secretly to congratulate
-
-herself on having gained two such sons-in-law as Edward and Willoughby.
-
-
-
-[[Colonel Brandon]]’s partiality for Marianne, which had so early been
-
-discovered by his friends, now first became perceptible to Elinor, when
-
-it ceased to be noticed by them. Their attention and wit were drawn off
-
-to his more fortunate rival; and the raillery which the other had
-
-incurred before any partiality arose, was removed when his feelings
-
-began really to call for the ridicule so justly annexed to sensibility.
-
-Elinor was obliged, though unwillingly, to believe that the sentiments
-
-which Mrs. Jennings had assigned him for her own satisfaction, were now
-
-actually excited by her sister; and that however a general resemblance
-
-of disposition between the parties might forward the affection of Mr.
-
-Willoughby, an equally striking opposition of character was no
-
-hindrance to the regard of [[Colonel Brandon]]. She saw it with concern;
-
-for what could a silent man of five and thirty [[Hope|hope]], when opposed to a
-
-very lively one of five and twenty? and as she could not even wish him
-
-successful, she heartily wished him indifferent. She liked him—in spite
-
-of his gravity and reserve, she beheld in him an object of interest.
-
-His manners, though serious, were mild; and his reserve appeared rather
-
-the result of some oppression of spirits than of any natural gloominess
-
-of temper. Sir John had dropped hints of past injuries and
-
-disappointments, which justified her belief of his being an unfortunate
-
-man, and she regarded him with respect and compassion.
-
-
-
-Perhaps she pitied and esteemed him the more because he was slighted by
-
-Willoughby and Marianne, who, prejudiced against him for being neither
-
-lively nor young, seemed resolved to undervalue his merits.
-
-
-
-“Brandon is just the kind of man,” said Willoughby one day, when they
-
-were talking of him together, “whom every [[Body|body]] speaks [[Well|well]] of, and
-
-nobody cares about; whom all are delighted to see, and nobody remembers
-
-to talk to.”
-
-
-
-“That is exactly what I think of him,” cried Marianne.
-
-
-
-“Do not boast of it, however,” said Elinor, “for it is injustice in
-
-both of you. He is highly esteemed by all the family at the park, and I
-
-never see him myself without taking pains to converse with him.”
-
-
-
-“That he is patronised by _you_,” replied Willoughby, “is certainly in
-
-his favour; but as for the esteem of the others, it is a reproach in
-
-itself. Who would submit to the indignity of being approved by such a
-
-woman as Lady Middleton and Mrs. Jennings, that could command the
-
-indifference of any [[Body|body]] else?”
-
-
-
-“But perhaps the abuse of such people as yourself and Marianne will
-
-make amends for the regard of Lady Middleton and her mother. If their
-
-praise is censure, your censure may be praise, for they are not more
-
-undiscerning, than you are prejudiced and unjust.”
-
-
-
-“In defence of your _protégé_ you can even be saucy.”
-
-
-
-“My _protégé_, as you call him, is a sensible man; and sense will
-
-always have attractions for me. Yes, Marianne, even in a man between
-
-thirty and forty. He has seen a great deal of the world; has been
-
-abroad, has read, and has a thinking mind. I have found him capable of
-
-giving me much information on various subjects; and he has always
-
-answered my inquiries with readiness of good-breeding and good [[Nature|nature]].”
-
-
-
-“That is to say,” cried Marianne contemptuously, “he has told you, that
-
-in the East Indies the climate is hot, and the mosquitoes are
-
-troublesome.”
-
-
-
-“He _would_ have told me so, I [[Doubt|doubt]] not, had I made any such
-
-inquiries, but they happened to be points on which I had been
-
-previously informed.”
-
-
-
-“Perhaps,” said Willoughby, “his observations may have extended to the
-
-existence of nabobs, gold mohrs, and palanquins.”
-
-
-
-“I may venture to say that _his_ observations have stretched much
-
-further than _your_ candour. But why should you dislike him?”
-
-
-
-“I do not dislike him. I consider him, on the contrary, as a very
-
-respectable man, who has every [[Body|body]]’s good word, and nobody’s notice;
-
-who has more money than he can spend, more [[Time|time]] than he knows how to
-
-employ, and two new coats every year.”
-
-
-
-“Add to which,” cried Marianne, “that he has neither genius, taste, nor
-
-spirit. That his understanding has no brilliancy, his feelings no
-
-ardour, and his voice no expression.”
-
-
-
-“You decide on his imperfections so much in the mass,” replied Elinor,
-
-“and so much on the strength of your own [[Imagination|imagination]], that the
-
-commendation _I_ am able to give of him is comparatively cold and
-
-insipid. I can only pronounce him to be a sensible man, [[Well|well]]-bred,
-
-[[Well|well]]-informed, of gentle address, and, I believe, possessing an amiable
-
-heart.”
-
-
-
-“Miss Dashwood,” cried Willoughby, “you are now using me unkindly. You
-
-are endeavouring to disarm me by reason, and to convince me against my
-
-will. But it will not do. You shall find me as stubborn as you can be
-
-artful. I have three unanswerable reasons for disliking Colonel
-
-Brandon; he threatened me with rain when I wanted it to be fine; he has
-
-found fault with the hanging of my curricle, and I cannot persuade him
-
-to buy my brown mare. If it will be any satisfaction to you, however,
-
-to be told, that I believe his character to be in other respects
-
-irreproachable, I am ready to confess it. And in return for an
-
-acknowledgment, which must give me some [[Pain|pain]], you cannot deny me the
-
-privilege of disliking him as much as ever.”
-
-
-
-
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Sense and Sensibility — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
-
-
-CHAPTER XIII.
-
-
-
-
-
-Their intended excursion to Whitwell turned out very different from
-
-what Elinor had expected. She was prepared to be wet through, fatigued,
-
-and frightened; but the event was still more unfortunate, for they did
-
-not go at all.
-
-
-
-By ten o’[[Clock|clock]] the whole party was assembled at the park, where they
-
-were to breakfast. The morning was rather favourable, though it had
-
-rained all [[Night|night]], as the clouds were then dispersing across the sky,
-
-and the sun frequently appeared. They were all in high spirits and good
-
-[[Humour|humour]], eager to be happy, and determined to submit to the greatest
-
-inconveniences and hardships rather than be otherwise.
-
-
-
-While they were at breakfast the letters were brought in. Among the
-
-rest there was one for [[Colonel Brandon]];—he took it, looked at the
-
-direction, changed colour, and immediately left the room.
-
-
-
-“What is the matter with Brandon?” said Sir John.
-
-
-
-Nobody could tell.
-
-
-
-“I [[Hope|hope]] he has had no bad news,” said Lady Middleton. “It must be
-
-something extraordinary that could make [[Colonel Brandon]] leave my
-
-breakfast table so suddenly.”
-
-
-
-In about five minutes he returned.
-
-
-
-“No bad news, Colonel, I [[Hope|hope]];” said Mrs. Jennings, as soon as he
-
-entered the room.
-
-
-
-“None at all, ma’am, I thank you.”
-
-
-
-“Was it from Avignon? I [[Hope|hope]] it is not to say that your sister is
-
-worse.”
-
-
-
-“No, ma’am. It came from town, and is merely a letter of business.”
-
-
-
-“But how came the hand to discompose you so much, if it was only a
-
-letter of business? Come, come, this won’t do, Colonel; so let us hear
-
-the [[Truth|truth]] of it.”
-
-
-
-“My dear madam,” said Lady Middleton, “recollect what you are saying.”
-
-
-
-“Perhaps it is to tell you that your cousin Fanny is married?” said
-
-Mrs. Jennings, without attending to her daughter’s reproof.
-
-
-
-“No, indeed, it is not.”
-
-
-
-“[[Well]], then, I know who it is from, Colonel. And I [[Hope|hope]] she is [[Well|well]].”
-
-
-
-“Whom do you mean, ma’am?” said he, colouring a little.
-
-
-
-“Oh! you know who I mean.”
-
-
-
-“I am particularly sorry, ma’am,” said he, addressing Lady Middleton,
-
-“that I should receive this letter today, for it is on business which
-
-requires my immediate attendance in town.”
-
-
-
-“In town!” cried Mrs. Jennings. “What can you have to do in town at
-
-this [[Time|time]] of year?”
-
-
-
-“My own loss is great,” he continued, “in being obliged to leave so
-
-agreeable a party; but I am the more concerned, as I [[Fear|fear]] my presence
-
-is necessary to gain your admittance at Whitwell.”
-
-
-
-What a blow upon them all was this!
-
-
-
-“But if you write a note to the housekeeper, Mr. Brandon,” said
-
-Marianne, eagerly, “will it not be sufficient?”
-
-
-
-He shook his head.
-
-
-
-“We must go,” said Sir John.—“It shall not be put off when we are so
-
-near it. You cannot go to town till tomorrow, Brandon, that is all.”
-
-
-
-“I wish it could be so easily settled. But it is not in my power to
-
-delay my [[Journey|journey]] for one day!”
-
-
-
-“If you would but let us know what your business is,” said Mrs.
-
-Jennings, “we might see whether it could be put off or not.”
-
-
-
-“You would not be six hours later,” said Willoughby, “if you were to
-
-defer your [[Journey|journey]] till our return.”
-
-
-
-“I cannot afford to lose _one_ hour.”
-
-
-
-Elinor then heard Willoughby say, in a low voice to Marianne, “There
-
-are some people who cannot bear a party of pleasure. Brandon is one of
-
-them. He was afraid of catching cold I dare say, and invented this
-
-trick for getting out of it. I would lay fifty guineas the letter was
-
-of his own writing.”
-
-
-
-“I have no [[Doubt|doubt]] of it,” replied Marianne.
-
-
-
-“There is no persuading you to change your mind, Brandon, I know of
-
-old,” said Sir John, “when once you are determined on anything. But,
-
-however, I [[Hope|hope]] you will think better of it. Consider, here are the two
-
-Miss Careys come over from Newton, the three Miss Dashwoods walked up
-
-from the cottage, and Mr. Willoughby got up two hours before his usual
-
-[[Time|time]], on purpose to go to Whitwell.”
-
-
-
-[[Colonel Brandon]] again repeated his sorrow at being the cause of
-
-disappointing the party; but at the same [[Time|time]] declared it to be
-
-unavoidable.
-
-
-
-“[[Well]], then, when will you come back again?”
-
-
-
-“I [[Hope|hope]] we shall see you at Barton,” added her ladyship, “as soon as
-
-you can conveniently leave town; and we must put off the party to
-
-Whitwell till you return.”
-
-
-
-“You are very obliging. But it is so uncertain, when I may have it in
-
-my power to return, that I dare not engage for it at all.”
-
-
-
-“Oh! he must and shall come back,” cried Sir John. “If he is not here
-
-by the end of the week, I shall go after him.”
-
-
-
-“Ay, so do, Sir John,” cried Mrs. Jennings, “and then perhaps you may
-
-find out what his business is.”
-
-
-
-“I do not want to pry into other men’s concerns. I suppose it is
-
-something he is ashamed of.”
-
-
-
-[[Colonel Brandon]]’s horses were announced.
-
-
-
-“You do not go to town on horseback, do you?” added Sir John.
-
-
-
-“No. Only to Honiton. I shall then go post.”
-
-
-
-“[[Well]], as you are resolved to go, I wish you a good [[Journey|journey]]. But you
-
-had better change your mind.”
-
-
-
-“I assure you it is not in my power.”
-
-
-
-He then took leave of the whole party.
-
-
-
-“Is there no chance of my seeing you and your sisters in town this
-
-[[Winter|winter]], Miss Dashwood?”
-
-
-
-“I am afraid, none at all.”
-
-
-
-“Then I must bid you farewell for a longer [[Time|time]] than I should wish to
-
-do.”
-
-
-
-To Marianne, he merely bowed and said nothing.
-
-
-
-“Come Colonel,” said Mrs. Jennings, “before you go, do let us know what
-
-you are going about.”
-
-
-
-He wished her a good morning, and, attended by Sir John, left the room.
-
-
-
-The complaints and lamentations which politeness had hitherto
-
-restrained, now burst forth universally; and they all agreed again and
-
-again how provoking it was to be so disappointed.
-
-
-
-“I can guess what his business is, however,” said Mrs. Jennings
-
-exultingly.
-
-
-
-“Can you, ma’am?” said almost every [[Body|body]].
-
-
-
-
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Sense and Sensibility — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
-
-
-“Yes; it is about Miss Williams, I am sure.”
-
-
-
-“And who is Miss Williams?” asked Marianne.
-
-
-
-“What! do not you know who Miss Williams is? I am sure you must have
-
-heard of her before. She is a relation of the Colonel’s, my dear; a
-
-very near relation. We will not say how near, for [[Fear|fear]] of shocking the
-
-young ladies.” Then, lowering her voice a little, she said to Elinor,
-
-“She is his natural daughter.”
-
-
-
-“Indeed!”
-
-
-
-“Oh, yes; and as like him as she can stare. I dare say the Colonel will
-
-leave her all his fortune.”
-
-
-
-When Sir John returned, he joined most heartily in the general regret
-
-on so unfortunate an event; concluding however by observing, that as
-
-they were all got together, they must do something by way of being
-
-happy; and after some consultation it was agreed, that although
-
-happiness could only be enjoyed at Whitwell, they might procure a
-
-tolerable composure of mind by driving about the country. The carriages
-
-were then ordered; Willoughby’s was first, and Marianne never looked
-
-happier than when she got into it. He drove through the park very fast,
-
-and they were soon out of sight; and nothing more of them was seen till
-
-their return, which did not happen till after the return of all the
-
-rest. They both seemed delighted with their drive; but said only in
-
-general terms that they had kept in the lanes, while the others went on
-
-the downs.
-
-
-
-It was settled that there should be a [[Dance|dance]] in the evening, and that
-
-every [[Body|body]] should be extremely merry all day long. Some more of the
-
-Careys came to dinner, and they had the pleasure of sitting down nearly
-
-twenty to table, which Sir John observed with great contentment.
-
-Willoughby took his usual place between the two elder Miss Dashwoods.
-
-Mrs. Jennings sat on Elinor’s right hand; and they had not been long
-
-seated, before she leant behind her and Willoughby, and said to
-
-Marianne, loud enough for them both to hear, “I have found you out in
-
-spite of all your tricks. I know where you spent the morning.”
-
-
-
-Marianne coloured, and replied very hastily, “Where, pray?”
-
-
-
-“Did not you know,” said Willoughby, “that we had been out in my
-
-curricle?”
-
-
-
-“Yes, yes, Mr. Impudence, I know that very [[Well|well]], and I was determined
-
-to find out _where_ you had been to. I [[Hope|hope]] you like your [[house]], Miss
-
-Marianne. It is a very large one, I know; and when I come to see you, I
-
-[[Hope|hope]] you will have new-furnished it, for it wanted it very much when I
-
-was there six years ago.”
-
-
-
-Marianne turned away in great confusion. Mrs. Jennings laughed
-
-heartily; and Elinor found that in her resolution to know where they
-
-had been, she had actually made her own woman enquire of Mr.
-
-Willoughby’s groom; and that she had by that method been informed that
-
-they had gone to Allenham, and spent a considerable [[Time|time]] there in
-
-walking about the [[Garden|garden]] and going all over the [[house]].
-
-
-
-Elinor could hardly believe this to be true, as it seemed very unlikely
-
-that Willoughby should propose, or Marianne consent, to enter the [[house]]
-
-while Mrs. [[smith|Smith]] was in it, with whom Marianne had not the smallest
-
-acquaintance.
-
-
-
-As soon as they left the dining-room, Elinor enquired of her about it;
-
-and great was her surprise when she found that every circumstance
-
-related by Mrs. Jennings was perfectly true. Marianne was quite angry
-
-with her for doubting it.
-
-
-
-“Why should you imagine, Elinor, that we did not go there, or that we
-
-did not see the [[house]]? Is not it what you have often wished to do
-
-yourself?”
-
-
-
-“Yes, Marianne, but I would not go while Mrs. [[smith|Smith]] was there, and with
-
-no other companion than Mr. Willoughby.”
-
-
-
-“Mr. Willoughby however is the only person who can have a right to show
-
-that [[house]]; and as he went in an open carriage, it was impossible to
-
-have any other companion. I never spent a pleasanter morning in my
-
-life.”
-
-
-
-“I am afraid,” replied Elinor, “that the pleasantness of an employment
-
-does not always evince its propriety.”
-
-
-
-“On the contrary, nothing can be a stronger proof of it, Elinor; for if
-
-there had been any real impropriety in what I did, I should have been
-
-sensible of it at the [[Time|time]], for we always know when we are acting
-
-wrong, and with such a conviction I could have had no pleasure.”
-
-
-
-“But, my dear Marianne, as it has already exposed you to some very
-
-impertinent remarks, do you not now begin to [[Doubt|doubt]] the discretion of
-
-your own conduct?”
-
-
-
-“If the impertinent remarks of Mrs. Jennings are to be the proof of
-
-impropriety in conduct, we are all offending every moment of our lives.
-
-I value not her censure any more than I should do her commendation. I
-
-am not sensible of having done anything wrong in walking over Mrs.
-
-[[smith|Smith]]’s grounds, or in seeing her [[house]]. They will one day be Mr.
-
-Willoughby’s, and—”
-
-
-
-“If they were one day to be your own, Marianne, you would not be
-
-justified in what you have done.”
-
-
-
-She blushed at this hint; but it was even visibly gratifying to her;
-
-and after a ten minutes’ interval of earnest thought, she came to her
-
-sister again, and said with great good [[Humour|humour]], “Perhaps, Elinor, it
-
-_was_ rather ill-judged in me to go to Allenham; but Mr. Willoughby
-
-wanted particularly to show me the place; and it is a charming [[house]], I
-
-assure you.—There is one remarkably pretty sitting room up stairs; of a
-
-nice comfortable size for constant use, and with modern furniture it
-
-would be delightful. It is a corner room, and has windows on two sides.
-
-On one side you look across the bowling-green, behind the [[house]], to a
-
-beautiful hanging wood, and on the other you have a view of the church
-
-and village, and, beyond them, of those fine bold hills that we have so
-
-often admired. I did not see it to advantage, for nothing could be more
-
-forlorn than the furniture,—but if it were newly fitted up—a couple of
-
-hundred pounds, Willoughby says, would make it one of the pleasantest
-
-[[Summer|summer]]-rooms in England.”
-
-
-
-Could Elinor have listened to her without interruption from the others,
-
-she would have described every room in the [[house]] with equal delight.
-
-
-
-
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Sense and Sensibility — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
-
-
-CHAPTER XV.
-
-
-
-
-
-Mrs. Dashwood’s visit to Lady Middleton took place the next day, and
-
-two of her daughters went with her; but Marianne excused herself from
-
-being of the party, under some trifling pretext of employment; and her
-
-mother, who concluded that a promise had been made by Willoughby the
-
-[[Night|night]] before of calling on her while they were absent, was perfectly
-
-satisfied with her remaining at [[Home|home]].
-
-
-
-On their return from the park they found Willoughby’s curricle and
-
-servant in waiting at the cottage, and Mrs. Dashwood was convinced that
-
-her conjecture had been just. So far it was all as she had foreseen;
-
-but on entering the [[house]] she beheld what no foresight had taught her
-
-to expect. They were no sooner in the passage than Marianne came
-
-hastily out of the parlour apparently in violent affliction, with her
-
-handkerchief at her eyes; and without noticing them ran up stairs.
-
-Surprised and alarmed they proceeded directly into the room she had
-
-just quitted, where they found only Willoughby, who was leaning against
-
-the mantel-piece with his back towards them. He turned round on their
-
-coming in, and his countenance showed that he strongly partook of the
-
-emotion which over-powered Marianne.
-
-
-
-“Is anything the matter with her?” cried Mrs. Dashwood as she
-
-entered—“is she ill?”
-
-
-
-“I [[Hope|hope]] not,” he replied, trying to look cheerful; and with a forced
-
-smile presently added, “It is I who may rather expect to be ill—for I
-
-am now [[Suffering|suffering]] under a very heavy disappointment!”
-
-
-
-“Disappointment?”
-
-
-
-“Yes, for I am unable to keep my engagement with you. Mrs. [[smith|Smith]] has
-
-this morning exercised the privilege of riches upon a poor dependent
-
-cousin, by sending me on business to [[London]]. I have just received my
-
-dispatches, and taken my farewell of Allenham; and by way of
-
-exhilaration I am now come to take my farewell of you.”
-
-
-
-“To [[London]]!—and are you going this morning?”
-
-
-
-“Almost this moment.”
-
-
-
-“This is very unfortunate. But Mrs. [[smith|Smith]] must be obliged;—and her
-
-business will not detain you from us long I [[Hope|hope]].”
-
-
-
-He coloured as he replied, “You are very kind, but I have no idea of
-
-returning into Devonshire immediately. My visits to Mrs. [[smith|Smith]] are
-
-never repeated within the twelvemonth.”
-
-
-
-“And is Mrs. [[smith|Smith]] your only friend? Is Allenham the only [[house]] in the
-
-neighbourhood to which you will be welcome? For shame, Willoughby, can
-
-you wait for an invitation here?”
-
-
-
-His colour increased; and with his eyes fixed on the ground he only
-
-replied, “You are too good.”
-
-
-
-Mrs. Dashwood looked at Elinor with surprise. Elinor felt equal
-
-amazement. For a few moments every one was silent. Mrs. Dashwood first
-
-spoke.
-
-
-
-“I have only to add, my dear Willoughby, that at Barton cottage you
-
-will always be welcome; for I will not press you to return here
-
-immediately, because you only can judge how far _that_ might be
-
-pleasing to Mrs. [[smith|Smith]]; and on this head I shall be no more disposed to
-
-question your judgment than to [[Doubt|doubt]] your inclination.”
-
-
-
-“My engagements at present,” replied Willoughby, confusedly, “are of
-
-such a [[Nature|nature]]—that—I dare not flatter myself—”
-
-
-
-He stopped. Mrs. Dashwood was too much astonished to speak, and another
-
-pause succeeded. This was broken by Willoughby, who said with a faint
-
-smile, “It is folly to linger in this manner. I will not torment myself
-
-any longer by remaining among friends whose society it is impossible
-
-for me now to enjoy.”
-
-
-
-He then hastily took leave of them all and left the room. They saw him
-
-step into his carriage, and in a minute it was out of sight.
-
-
-
-Mrs. Dashwood felt too much for speech, and instantly quitted the
-
-parlour to give way in [[Solitude|solitude]] to the concern and alarm which this
-
-sudden departure occasioned.
-
-
-
-Elinor’s uneasiness was at least equal to her mother’s. She thought of
-
-what had just passed with anxiety and distrust. Willoughby’s behaviour
-
-in taking leave of them, his embarrassment, and affectation of
-
-cheerfulness, and, above all, his unwillingness to accept her mother’s
-
-invitation, a backwardness so unlike a [[Lover|lover]], so unlike himself,
-
-greatly disturbed her. One moment she feared that no serious design had
-
-ever been formed on his side; and the next that some unfortunate
-
-quarrel had taken place between him and her sister;—the distress in
-
-which Marianne had quitted the room was such as a serious quarrel could
-
-most reasonably account for, though when she considered what Marianne’s
-
-[[Love|love]] for him was, a quarrel seemed almost impossible.
-
-
-
-But whatever might be the particulars of their separation, her sister’s
-
-affliction was indubitable; and she thought with the tenderest
-
-compassion of that violent sorrow which Marianne was in all probability
-
-not merely giving way to as a relief, but feeding and encouraging as a
-
-duty.
-
-
-
-In about half an hour her mother returned, and though her eyes were
-
-red, her countenance was not uncheerful.
-
-
-
-“Our dear Willoughby is now some miles from Barton, Elinor,” said she,
-
-as she sat down to work, “and with how heavy a heart does he travel?”
-
-
-
-“It is all very strange. So suddenly to be gone! It seems but the work
-
-of a moment. And last [[Night|night]] he was with us so happy, so cheerful, so
-
-affectionate? And now, after only ten minutes notice—Gone too without
-
-intending to return!—Something more than what he owned to us must have
-
-happened. He did not speak, he did not behave like himself. _You_ must
-
-have seen the difference as [[Well|well]] as I. What can it be? Can they have
-
-quarrelled? Why else should he have shown such unwillingness to accept
-
-your invitation here?”
-
-
-
-“It was not inclination that he wanted, Elinor; I could plainly see
-
-_that_. He had not the power of accepting it. I have thought it all
-
-over I assure you, and I can perfectly account for every thing that at
-
-first seemed strange to me as [[Well|well]] as to you.”
-
-
-
-
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Sense and Sensibility — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
-
-
-“Can you, indeed!”
-
-
-
-“Yes. I have explained it to myself in the most satisfactory way;—but
-
-you, Elinor, who [[Love|love]] to [[Doubt|doubt]] where you can—it will not satisfy _you_,
-
-I know; but you shall not talk _me_ out of my trust in it. I am
-
-persuaded that Mrs. [[smith|Smith]] suspects his regard for Marianne, disapproves
-
-of it, (perhaps because she has other views for him,) and on that
-
-account is eager to get him away;—and that the business which she sends
-
-him off to transact is invented as an excuse to dismiss him. This is
-
-what I believe to have happened. He is, moreover, aware that she _does_
-
-disapprove the connection, he dares not therefore at present confess to
-
-her his engagement with Marianne, and he feels himself obliged, from
-
-his dependent situation, to give into her schemes, and absent himself
-
-from Devonshire for a while. You will tell me, I know, that this may or
-
-may _not_ have happened; but I will listen to no cavil, unless you can
-
-point out any other method of understanding the affair as satisfactory
-
-at this. And now, Elinor, what have you to say?”
-
-
-
-“Nothing, for you have anticipated my answer.”
-
-
-
-“Then you would have told me, that it might or might not have happened.
-
-Oh, Elinor, how incomprehensible are your feelings! You had rather take
-
-evil upon credit than good. You had rather look out for misery for
-
-Marianne, and [[Guilt|guilt]] for poor Willoughby, than an apology for the
-
-latter. You are resolved to think him blameable, because he took leave
-
-of us with less affection than his usual behaviour has shown. And is no
-
-allowance to be made for inadvertence, or for spirits depressed by
-
-recent disappointment? Are no probabilities to be accepted, merely
-
-because they are not certainties? Is nothing due to the man whom we
-
-have all such reason to [[Love|love]], and no reason in the world to think ill
-
-of? To the possibility of motives unanswerable in themselves, though
-
-unavoidably secret for a while? And, after all, what is it you suspect
-
-him of?”
-
-
-
-“I can hardly tell myself. But suspicion of something unpleasant is the
-
-inevitable consequence of such an alteration as we just witnessed in
-
-him. There is great [[Truth|truth]], however, in what you have now urged of the
-
-allowances which ought to be made for him, and it is my wish to be
-
-candid in my judgment of every [[Body|body]]. Willoughby may undoubtedly have
-
-very sufficient reasons for his conduct, and I will [[Hope|hope]] that he has.
-
-But it would have been more like Willoughby to acknowledge them at
-
-once. Secrecy may be advisable; but still I cannot help wondering at
-
-its being practiced by him.”
-
-
-
-“Do not blame him, however, for departing from his character, where the
-
-deviation is necessary. But you really do admit the justice of what I
-
-have said in his defence?—I am happy—and he is acquitted.”
-
-
-
-“Not entirely. It may be proper to conceal their engagement (if they
-
-_are_ engaged) from Mrs. [[smith|Smith]]—and if that is the case, it must be
-
-highly expedient for Willoughby to be but little in Devonshire at
-
-present. But this is no excuse for their concealing it from us.”
-
-
-
-“Concealing it from us! my dear [[Child|child]], do you accuse Willoughby and
-
-Marianne of concealment? This is strange indeed, when your eyes have
-
-been reproaching them every day for incautiousness.”
-
-
-
-“I want no proof of their affection,” said Elinor; “but of their
-
-engagement I do.”
-
-
-
-“I am perfectly satisfied of both.”
-
-
-
-“Yet not a syllable has been said to you on the subject, by either of
-
-them.”
-
-
-
-“I have not wanted syllables where actions have spoken so plainly. Has
-
-not his behaviour to Marianne and to all of us, for at least the last
-
-fortnight, declared that he loved and considered her as his future
-
-wife, and that he felt for us the attachment of the nearest relation?
-
-Have we not perfectly understood each other? Has not my consent been
-
-daily asked by his looks, his manner, his attentive and affectionate
-
-respect? My Elinor, is it possible to [[Doubt|doubt]] their engagement? How could
-
-such a thought occur to you? How is it to be supposed that Willoughby,
-
-persuaded as he must be of your sister’s [[Love|love]], should leave her, and
-
-leave her perhaps for months, without telling her of his
-
-affection;—that they should part without a mutual exchange of
-
-confidence?”
-
-
-
-“I confess,” replied Elinor, “that every circumstance except _one_ is
-
-in favour of their engagement; but that _one_ is the total [[Silence|silence]] of
-
-both on the subject, and with me it almost outweighs every other.”
-
-
-
-“How strange this is! You must think wretchedly indeed of Willoughby,
-
-if, after all that has openly passed between them, you can [[Doubt|doubt]] the
-
-[[Nature|nature]] of the terms on which they are together. Has he been acting a
-
-part in his behaviour to your sister all this [[Time|time]]? Do you suppose him
-
-really indifferent to her?”
-
-
-
-“No, I cannot think that. He must and does [[Love|love]] her I am sure.”
-
-
-
-“But with a strange kind of tenderness, if he can leave her with such
-
-indifference, such carelessness of the future, as you attribute to
-
-him.”
-
-
-
-“You must remember, my dear mother, that I have never considered this
-
-matter as certain. I have had my doubts, I confess; but they are
-
-fainter than they were, and they may soon be entirely done away. If we
-
-find they correspond, every [[Fear|fear]] of mine will be removed.”
-
-
-
-“A mighty concession indeed! If you were to see them at the altar, you
-
-would suppose they were going to be married. Ungracious girl! But _I_
-
-require no such proof. Nothing in my opinion has ever passed to justify
-
-[[Doubt|doubt]]; no secrecy has been attempted; all has been uniformly open and
-
-unreserved. You cannot [[Doubt|doubt]] your sister’s wishes. It must be
-
-Willoughby therefore whom you suspect. But why? Is he not a man of
-
-[[Honour|honour]] and feeling? Has there been any inconsistency on his side to
-
-create alarm? can he be deceitful?”
-
-
-
-“I [[Hope|hope]] not, I believe not,” cried Elinor. “I [[Love|love]] Willoughby,
-
-
-
-
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Sense and Sensibility — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
-
-
-sincerely [[Love|love]] him; and suspicion of his integrity cannot be more
-
-painful to yourself than to me. It has been involuntary, and I will not
-
-encourage it. I was startled, I confess, by the alteration in his
-
-manners this morning;—he did not speak like himself, and did not return
-
-your kindness with any cordiality. But all this may be explained by
-
-such a situation of his affairs as you have supposed. He had just
-
-parted from my sister, had seen her leave him in the greatest
-
-affliction; and if he felt obliged, from a [[Fear|fear]] of offending Mrs.
-
-[[smith|Smith]], to resist the [[Temptation|temptation]] of returning here soon, and yet aware
-
-that by declining your invitation, by saying that he was going away for
-
-some [[Time|time]], he should seem to act an ungenerous, a suspicious part by
-
-our family, he might [[Well|well]] be embarrassed and disturbed. In such a case,
-
-a plain and open avowal of his difficulties would have been more to his
-
-[[Honour|honour]] I think, as [[Well|well]] as more consistent with his general
-
-character;—but I will not raise objections against any one’s conduct on
-
-so illiberal a foundation, as a difference in judgment from myself, or
-
-a deviation from what I may think right and consistent.”
-
-
-
-“You speak very properly. Willoughby certainly does not deserve to be
-
-suspected. Though _we_ have not known him long, he is no stranger in
-
-this part of the world; and who has ever spoken to his disadvantage?
-
-Had he been in a situation to act independently and marry immediately,
-
-it might have been odd that he should leave us without acknowledging
-
-everything to me at once: but this is not the case. It is an engagement
-
-in some respects not prosperously begun, for their [[Marriage|marriage]] must be at
-
-a very uncertain distance; and even secrecy, as far as it can be
-
-observed, may now be very advisable.”
-
-
-
-They were interrupted by the entrance of Margaret; and Elinor was then
-
-at liberty to think over the representations of her mother, to
-
-acknowledge the probability of many, and [[Hope|hope]] for the justice of all.
-
-
-
-They saw nothing of Marianne till dinner [[Time|time]], when she entered the
-
-room and took her place at the table without saying a word. Her eyes
-
-were red and swollen; and it seemed as if her [[Tears|tears]] were even then
-
-restrained with difficulty. She avoided the looks of them all, could
-
-neither eat nor speak, and after some [[Time|time]], on her mother’s silently
-
-pressing her hand with tender compassion, her small degree of fortitude
-
-was quite overcome, she burst into [[Tears|tears]] and left the room.
-
-
-
-This violent oppression of spirits continued the whole evening. She was
-
-without any power, because she was without any [[Desire|desire]] of command over
-
-herself. The slightest mention of anything relative to Willoughby
-
-overpowered her in an instant; and though her family were most
-
-anxiously attentive to her comfort, it was impossible for them, if they
-
-spoke at all, to keep clear of every subject which her feelings
-
-connected with him.
 
 
 
@@ -37081,6 +35331,396 @@ balls and large dinners to proclaim its importance.
 
 
 
+<span class="atom-split" data-atom="chapter_25" data-title="Sense and Sensibility — Chapter 25" data-chapter="Chapter 25" data-kind="chapter"></span>
+
+
+CHAPTER XXV.
+
+
+
+
+
+Though Mrs. Jennings was in the habit of spending a large portion of
+
+the year at the houses of her children and friends, she was not without
+
+a settled habitation of her own. Since the [[Death|death]] of her husband, who
+
+had traded with [[success]] in a less elegant part of the town, she had
+
+resided every [[Winter|winter]] in a [[house]] in one of the streets near Portman
+
+Square. Towards this [[Home|home]], she began on the approach of January to turn
+
+her thoughts, and thither she one day abruptly, and very unexpectedly
+
+by them, asked the elder Misses Dashwood to accompany her. Elinor,
+
+without observing the varying complexion of her sister, and the
+
+animated look which spoke no indifference to the plan, immediately gave
+
+a grateful but absolute denial for both, in which she believed herself
+
+to be speaking their united inclinations. The reason alleged was their
+
+determined resolution of not leaving their mother at that [[Time|time]] of the
+
+year. Mrs. Jennings received the refusal with some surprise, and
+
+repeated her invitation immediately.
+
+
+
+“Oh, Lord! I am sure your mother can spare you very [[Well|well]], and I _do_
+
+beg you will favour me with your company, for I’ve quite set my heart
+
+upon it. Don’t fancy that you will be any inconvenience to me, for I
+
+shan’t put myself at all out of my way for you. It will only be sending
+
+Betty by the coach, and I [[Hope|hope]] I can afford _that_. We three shall be
+
+able to go very [[Well|well]] in my chaise; and when we are in town, if you do
+
+not like to go wherever I do, [[Well|well]] and good, you may always go with one
+
+of my daughters. I am sure your mother will not object to it; for I
+
+have had such good luck in getting my own children off my hands that
+
+she will think me a very fit person to have the charge of you; and if I
+
+don’t get one of you at least [[Well|well]] married before I have done with you,
+
+it shall not be my fault. I shall speak a good word for you to all the
+
+young men, you may depend upon it.”
+
+
+
+“I have a notion,” said Sir John, “that Miss Marianne would not object
+
+to such a scheme, if her elder sister would come into it. It is very
+
+hard indeed that she should not have a little pleasure, because Miss
+
+Dashwood does not wish it. So I would advise you two, to set off for
+
+town, when you are tired of Barton, without saying a word to Miss
+
+Dashwood about it.”
+
+
+
+“Nay,” cried Mrs. Jennings, “I am sure I shall be monstrous glad of
+
+Miss Marianne’s company, whether Miss Dashwood will go or not, only the
+
+more the merrier say I, and I thought it would be more comfortable for
+
+them to be together; because, if they got tired of me, they might talk
+
+to one another, and laugh at my odd ways behind my back. But one or the
+
+other, if not both of them, I must have. Lord bless me! how do you
+
+think I can live poking by myself, I who have been always used till
+
+this [[Winter|winter]] to have Charlotte with me. Come, Miss Marianne, let us
+
+strike hands upon the bargain, and if Miss Dashwood will change her
+
+mind by and bye, why so much the better.”
+
+
+
+“I thank you, ma’am, sincerely thank you,” said Marianne, with warmth:
+
+“your invitation has insured my gratitude for ever, and it would give
+
+me such happiness, yes, almost the greatest happiness I am capable of,
+
+to be able to accept it. But my mother, my dearest, kindest mother,—I
+
+feel the justice of what Elinor has urged, and if she were to be made
+
+less happy, less comfortable by our absence—Oh! no, nothing should
+
+tempt me to leave her. It should not, must not be a struggle.”
+
+
+
+Mrs. Jennings repeated her assurance that Mrs. Dashwood could spare
+
+them perfectly [[Well|well]]; and Elinor, who now understood her sister, and saw
+
+to what indifference to almost every thing else she was carried by her
+
+eagerness to be with Willoughby again, made no farther direct
+
+opposition to the plan, and merely referred it to her mother’s
+
+decision, from whom however she scarcely expected to receive any
+
+support in her endeavour to prevent a visit, which she could not
+
+approve of for Marianne, and which on her own account she had
+
+particular reasons to avoid. Whatever Marianne was desirous of, her
+
+mother would be eager to promote—she could not expect to influence the
+
+latter to cautiousness of conduct in an affair respecting which she had
+
+never been able to inspire her with distrust; and she dared not explain
+
+the motive of her own disinclination for going to [[London]]. That
+
+Marianne, fastidious as she was, thoroughly acquainted with Mrs.
+
+Jennings’ manners, and invariably disgusted by them, should overlook
+
+every inconvenience of that kind, should disregard whatever must be
+
+most wounding to her irritable feelings, in her pursuit of one object,
+
+was such a proof, so strong, so full, of the importance of that object
+
+to her, as Elinor, in spite of all that had passed, was not prepared to
+
+witness.
+
+
+
+On being informed of the invitation, Mrs. Dashwood, persuaded that such
+
+an excursion would be productive of much amusement to both her
+
+daughters, and perceiving through all her affectionate attention to
+
+herself, how much the heart of Marianne was in it, would not hear of
+
+their declining the offer upon _her_ account; insisted on their both
+
+accepting it directly; and then began to foresee, with her usual
+
+cheerfulness, a variety of advantages that would accrue to them all,
+
+from this separation.
+
+
+
+“I am delighted with the plan,” she cried, “it is exactly what I could
+
+wish. Margaret and I shall be as much benefited by it as yourselves.
+
+When you and the Middletons are gone, we shall go on so quietly and
+
+happily together with our books and our music! You will find Margaret
+
+so improved when you come back again! I have a little plan of
+
+alteration for your bedrooms too, which may now be performed without
+
+any inconvenience to any one. It is very right that you _should_ go to
+
+town; I would have every young woman of your condition in life
+
+acquainted with the manners and amusements of [[London]]. You will be under
+
+the care of a motherly good sort of woman, of whose kindness to you I
+
+can have no [[Doubt|doubt]]. And in all probability you will see your brother,
+
+and whatever may be his faults, or the faults of his wife, when I
+
+consider whose son he is, I cannot bear to have you so wholly estranged
+
+from each other.”
+
+
+
+“Though with your usual anxiety for our happiness,” said Elinor, “you
+
+have been obviating every impediment to the present scheme which
+
+occurred to you, there is still one objection which, in my opinion,
+
+cannot be so easily removed.”
+
+
+
+Marianne’s countenance sunk.
+
+
+
+“And what,” said Mrs. Dashwood, “is my dear prudent Elinor going to
+
+suggest? What formidable obstacle is she now to bring forward? Do not
+
+let me hear a word about the expense of it.”
+
+
+
+“My objection is this; though I think very [[Well|well]] of Mrs. Jennings’s
+
+heart, she is not a woman whose society can afford us pleasure, or
+
+whose protection will give us consequence.”
+
+
+
+“That is very true,” replied her mother, “but of her society,
+
+separately from that of other people, you will scarcely have any thing
+
+at all, and you will almost always appear in public with Lady
+
+Middleton.”
+
+
+
+“If Elinor is frightened away by her dislike of Mrs. Jennings,” said
+
+Marianne, “at least it need not prevent MY accepting her invitation. I
+
+have no such scruples, and I am sure I could put up with every
+
+unpleasantness of that kind with very little effort.”
+
+
+
+Elinor could not help smiling at this display of indifference towards
+
+the manners of a person, to whom she had often had difficulty in
+
+persuading Marianne to behave with tolerable politeness; and resolved
+
+within herself, that if her sister persisted in going, she would go
+
+likewise, as she did not think it proper that Marianne should be left
+
+to the sole guidance of her own judgment, or that Mrs. Jennings should
+
+be abandoned to the [[Mercy|mercy]] of Marianne for all the comfort of her
+
+domestic hours. To this determination she was the more easily
+
+reconciled, by recollecting that [[Edward Ferrars]], by Lucy’s account, was
+
+not to be in town before February; and that their visit, without any
+
+unreasonable abridgement, might be previously finished.
+
+
+
+“I will have you _both_ go,” said Mrs. Dashwood; “these objections are
+
+nonsensical. You will have much pleasure in being in [[London]], and
+
+especially in being together; and if Elinor would ever condescend to
+
+anticipate enjoyment, she would foresee it there from a variety of
+
+sources; she would, perhaps, expect some from improving her
+
+acquaintance with her sister-in-law’s family.”
+
+
+
+Elinor had often wished for an opportunity of attempting to weaken her
+
+mother’s dependence on the attachment of Edward and herself, that the
+
+shock might be less when the whole [[Truth|truth]] were revealed, and now on this
+
+attack, though almost hopeless of [[success]], she forced herself to begin
+
+her design by saying, as calmly as she could, “I like [[Edward Ferrars]]
+
+very much, and shall always be glad to see him; but as to the rest of
+
+the family, it is a matter of perfect indifference to me, whether I am
+
+ever known to them or not.”
+
+
+
+Mrs. Dashwood smiled, and said nothing. Marianne lifted up her eyes in
+
+astonishment, and Elinor conjectured that she might as [[Well|well]] have held
+
+her tongue.
+
+
+
+After very little farther discourse, it was finally settled that the
+
+invitation should be fully accepted. Mrs. Jennings received the
+
+information with a great deal of joy, and many assurances of kindness
+
+and care; nor was it a matter of pleasure merely to her. Sir John was
+
+delighted; for to a man, whose prevailing anxiety was the dread of
+
+being [[Alone|alone]], the acquisition of two, to the number of inhabitants in
+
+[[London]], was something. Even Lady Middleton took the trouble of being
+
+delighted, which was putting herself rather out of her way; and as for
+
+the Miss Steeles, especially Lucy, they had never been so happy in
+
+their lives as this intelligence made them.
+
+
+
+Elinor submitted to the arrangement which counteracted her wishes with
+
+less reluctance than she had expected to feel. With regard to herself,
+
+it was now a matter of unconcern whether she went to town or not, and
+
+when she saw her mother so thoroughly pleased with the plan, and her
+
+sister exhilarated by it in look, voice, and manner, restored to all
+
+her usual animation, and elevated to more than her usual gaiety, she
+
+could not be dissatisfied with the cause, and would hardly allow
+
+herself to distrust the consequence.
+
+
+
+Marianne’s joy was almost a degree beyond happiness, so great was the
+
+perturbation of her spirits and her impatience to be gone. Her
+
+unwillingness to quit her mother was her only restorative to calmness;
+
+and at the moment of parting her grief on that score was excessive. Her
+
+mother’s affliction was hardly less, and Elinor was the only one of the
+
+three, who seemed to consider the separation as any thing short of
+
+eternal.
+
+
+
+Their departure took place in the first week in January. The Middletons
+
+were to follow in about a week. The Miss Steeles kept their station at
+
+the park, and were to quit it only with the rest of the family.
+
+
+
+
 <span class="atom-split" data-atom="chapter_26--part_01" data-title="Sense and Sensibility — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
 
 
@@ -38173,6 +36813,308 @@ contrary, with a [[Melancholy|melancholy]] impression of [[Colonel Brandon]]’s
 unhappiness, and was prevented even from wishing it removed, by her
 
 anxiety for the very event that must confirm it.
+
+
+
+
+<span class="atom-split" data-atom="chapter_28" data-title="Sense and Sensibility — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
+
+
+CHAPTER XXVIII.
+
+
+
+
+
+Nothing occurred during the next three or four days, to make Elinor
+
+regret what she had done, in applying to her mother; for Willoughby
+
+neither came nor wrote. They were engaged about the end of that [[Time|time]] to
+
+attend Lady Middleton to a party, from which Mrs. Jennings was kept
+
+away by the indisposition of her youngest daughter; and for this party,
+
+Marianne, wholly dispirited, careless of her appearance, and seeming
+
+equally indifferent whether she went or staid, prepared, without one
+
+look of [[Hope|hope]] or one expression of pleasure. She sat by the drawing-room
+
+[[Fire|fire]] after tea, till the moment of Lady Middleton’s arrival, without
+
+once stirring from her seat, or altering her attitude, lost in her own
+
+thoughts, and insensible of her sister’s presence; and when at last
+
+they were told that Lady Middleton waited for them at the door, she
+
+started as if she had forgotten that any one was expected.
+
+
+
+They arrived in due [[Time|time]] at the place of destination, and as soon as
+
+the string of carriages before them would allow, alighted, ascended the
+
+stairs, heard their names announced from one landing-place to another
+
+in an audible voice, and entered a room splendidly lit up, quite full
+
+of company, and insufferably hot. When they had paid their tribute of
+
+politeness by curtsying to the lady of the [[house]], they were permitted
+
+to mingle in the crowd, and take their share of the heat and
+
+inconvenience, to which their arrival must necessarily add. After some
+
+[[Time|time]] spent in saying little or doing less, Lady Middleton sat down to
+
+Cassino, and as Marianne was not in spirits for moving about, she and
+
+Elinor luckily succeeding to chairs, placed themselves at no great
+
+distance from the table.
+
+
+
+They had not remained in this manner long, before Elinor perceived
+
+Willoughby, standing within a few yards of them, in earnest
+
+conversation with a very fashionable looking young woman. She soon
+
+caught his eye, and he immediately bowed, but without attempting to
+
+speak to her, or to approach Marianne, though he could not but see her;
+
+and then continued his discourse with the same lady. Elinor turned
+
+involuntarily to Marianne, to see whether it could be unobserved by
+
+her. At that moment she first perceived him, and her whole countenance
+
+glowing with sudden delight, she would have moved towards him
+
+instantly, had not her sister caught hold of her.
+
+
+
+“Good heavens!” she exclaimed, “he is there—he is there—Oh! why does he
+
+not look at me? why cannot I speak to him?”
+
+
+
+“Pray, pray be composed,” cried Elinor, “and do not betray what you
+
+feel to every [[Body|body]] present. Perhaps he has not observed you yet.”
+
+
+
+This however was more than she could believe herself; and to be
+
+composed at such a moment was not only beyond the reach of Marianne, it
+
+was beyond her wish. She sat in an agony of impatience which affected
+
+every feature.
+
+
+
+At last he turned round again, and regarded them both; she started up,
+
+and pronouncing his name in a tone of affection, held out her hand to
+
+him. He approached, and addressing himself rather to Elinor than
+
+Marianne, as if wishing to avoid her eye, and determined not to observe
+
+her attitude, inquired in a hurried manner after Mrs. Dashwood, and
+
+asked how long they had been in town. Elinor was robbed of all presence
+
+of mind by such an address, and was unable to say a word. But the
+
+feelings of her sister were instantly expressed. Her face was crimsoned
+
+over, and she exclaimed, in a voice of the greatest emotion, “Good God!
+
+Willoughby, what is the meaning of this? Have you not received my
+
+letters? Will you not shake hands with me?”
+
+
+
+He could not then avoid it, but her touch seemed painful to him, and he
+
+held her hand only for a moment. During all this [[Time|time]] he was evidently
+
+struggling for composure. Elinor watched his countenance and saw its
+
+expression becoming more tranquil. After a moment’s pause, he spoke
+
+with calmness.
+
+
+
+“I did myself the [[Honour|honour]] of calling in Berkeley Street last Tuesday,
+
+and very much regretted that I was not fortunate enough to find
+
+yourselves and Mrs. Jennings at [[Home|home]]. My card was not lost, I [[Hope|hope]].”
+
+
+
+“But have you not received my notes?” cried Marianne in the wildest
+
+anxiety. “Here is some mistake I am sure—some dreadful mistake. What
+
+can be the meaning of it? Tell me, Willoughby; for heaven’s sake tell
+
+me, what is the matter?”
+
+
+
+He made no reply; his complexion changed and all his embarrassment
+
+returned; but as if, on catching the eye of the young lady with whom he
+
+had been previously talking, he felt the necessity of instant exertion,
+
+he recovered himself again, and after saying, “Yes, I had the pleasure
+
+of receiving the information of your arrival in town, which you were so
+
+good as to send me,” turned hastily away with a slight bow and joined
+
+his friend.
+
+
+
+Marianne, now looking dreadfully white, and unable to stand, sunk into
+
+her chair, and Elinor, expecting every moment to see her faint, tried
+
+to screen her from the observation of others, while reviving her with
+
+lavender [[Water|water]].
+
+
+
+“Go to him, Elinor,” she cried, as soon as she could speak, “and force
+
+him to come to me. Tell him I must see him again—must speak to him
+
+instantly.—I cannot rest—I shall not have a moment’s peace till this is
+
+explained—some dreadful misapprehension or other. Oh, go to him this
+
+moment.”
+
+
+
+“How can that be done? No, my dearest Marianne, you must wait. This is
+
+not the place for explanations. Wait only till tomorrow.”
+
+
+
+With difficulty however could she prevent her from following him
+
+herself; and to persuade her to check her agitation, to wait, at least,
+
+with the appearance of composure, till she might speak to him with more
+
+privacy and more effect, was impossible; for Marianne continued
+
+incessantly to give way in a low voice to the misery of her feelings,
+
+by exclamations of wretchedness. In a short [[Time|time]] Elinor saw Willoughby
+
+quit the room by the door towards the staircase, and telling Marianne
+
+that he was gone, urged the impossibility of speaking to him again that
+
+evening, as a fresh argument for her to be calm. She instantly begged
+
+her sister would entreat Lady Middleton to take them [[Home|home]], as she was
+
+too miserable to stay a minute longer.
+
+
+
+Lady Middleton, though in the middle of a rubber, on being informed
+
+that Marianne was unwell, was too polite to object for a moment to her
+
+wish of going away, and making over her cards to a friend, they
+
+departed as soon as the carriage could be found. Scarcely a word was
+
+spoken during their return to Berkeley Street. Marianne was in a silent
+
+agony, too much oppressed even for [[Tears|tears]]; but as Mrs. Jennings was
+
+luckily not come [[Home|home]], they could go directly to their own room, where
+
+hartshorn restored her a little to herself. She was soon undressed and
+
+in bed, and as she seemed desirous of being [[Alone|alone]], her sister then left
+
+her, and while she waited the return of Mrs. Jennings, had leisure
+
+enough for thinking over the past.
+
+
+
+That some kind of engagement had subsisted between Willoughby and
+
+Marianne she could not [[Doubt|doubt]], and that Willoughby was weary of it,
+
+seemed equally clear; for however Marianne might still feed her own
+
+wishes, _she_ could not attribute such behaviour to mistake or
+
+misapprehension of any kind. Nothing but a thorough change of sentiment
+
+could account for it. Her indignation would have been still stronger
+
+than it was, had she not witnessed that embarrassment which seemed to
+
+speak a consciousness of his own misconduct, and prevented her from
+
+believing him so unprincipled as to have been sporting with the
+
+affections of her sister from the first, without any design that would
+
+bear investigation. Absence might have weakened his regard, and
+
+convenience might have determined him to overcome it, but that such a
+
+regard had formerly existed she could not bring herself to [[Doubt|doubt]].
+
+
+
+As for Marianne, on the pangs which so unhappy a meeting must already
+
+have given her, and on those still more severe which might await her in
+
+its probable consequence, she could not reflect without the deepest
+
+concern. Her own situation gained in the comparison; for while she
+
+could _esteem_ Edward as much as ever, however they might be divided in
+
+future, her mind might be always supported. But every circumstance that
+
+could embitter such an evil seemed uniting to heighten the misery of
+
+Marianne in a final separation from Willoughby—in an immediate and
+
+irreconcilable rupture with him.
 
 
 
@@ -44887,6 +43829,410 @@ letter as ever I saw, and does Lucy’s head and heart great credit.”
 
 
 
+<span class="atom-split" data-atom="chapter_39" data-title="Sense and Sensibility — Chapter 39" data-chapter="Chapter 39" data-kind="chapter"></span>
+
+
+CHAPTER XXXIX.
+
+
+
+
+
+The Miss Dashwoods had now been rather more than two months in town,
+
+and Marianne’s impatience to be gone increased every day. She sighed
+
+for the air, the liberty, the quiet of the country; and fancied that if
+
+any place could give her ease, Barton must do it. Elinor was hardly
+
+less anxious than herself for their removal, and only so much less bent
+
+on its being effected immediately, as that she was conscious of the
+
+difficulties of so long a [[Journey|journey]], which Marianne could not be brought
+
+to acknowledge. She began, however, seriously to turn her thoughts
+
+towards its accomplishment, and had already mentioned their wishes to
+
+their kind hostess, who resisted them with all the eloquence of her
+
+good-will, when a plan was suggested, which, though detaining them from
+
+[[Home|home]] yet a few weeks longer, appeared to Elinor altogether much more
+
+eligible than any other. The Palmers were to remove to Cleveland about
+
+the end of March, for the Easter holidays; and Mrs. Jennings, with both
+
+her friends, received a very warm invitation from Charlotte to go with
+
+them. This would not, in itself, have been sufficient for the delicacy
+
+of Miss Dashwood;—but it was inforced with so much real politeness by
+
+Mr. Palmer himself, as, joined to the very great amendment of his
+
+manners towards them since her sister had been known to be unhappy,
+
+induced her to accept it with pleasure.
+
+
+
+When she told Marianne what she had done, however, her first reply was
+
+not very auspicious.
+
+
+
+“Cleveland!”—she cried, with great agitation. “No, I cannot go to
+
+Cleveland.”
+
+
+
+“You forget,” said Elinor gently, “that its situation is not—that it is
+
+not in the neighbourhood of—”
+
+
+
+“But it is in Somersetshire.—I cannot go into Somersetshire.—There,
+
+where I looked forward to going...No, Elinor, you cannot expect me to
+
+go there.”
+
+
+
+Elinor would not argue upon the propriety of overcoming such
+
+feelings;—she only endeavoured to counteract them by working on
+
+others;—represented it, therefore, as a measure which would fix the
+
+[[Time|time]] of her returning to that dear mother, whom she so much wished to
+
+see, in a more eligible, more comfortable manner, than any other plan
+
+could do, and perhaps without any greater delay. From Cleveland, which
+
+was within a few miles of Bristol, the distance to Barton was not
+
+beyond one day, though a long day’s [[Journey|journey]]; and their mother’s servant
+
+might easily come there to attend them down; and as there could be no
+
+occasion of their staying above a week at Cleveland, they might now be
+
+at [[Home|home]] in little more than three weeks’ [[Time|time]]. As Marianne’s affection
+
+for her mother was sincere, it must triumph with little difficulty,
+
+over the imaginary evils she had started.
+
+
+
+Mrs. Jennings was so far from being weary of her guests, that she
+
+pressed them very earnestly to return with her again from Cleveland.
+
+Elinor was grateful for the attention, but it could not alter her
+
+design; and their mother’s concurrence being readily gained, every
+
+thing relative to their return was arranged as far as it could be;—and
+
+Marianne found some relief in drawing up a statement of the hours that
+
+were yet to divide her from Barton.
+
+
+
+“Ah! Colonel, I do not know what you and I shall do without the Miss
+
+Dashwoods;”—was Mrs. Jennings’s address to him when he first called on
+
+her, after their leaving her was settled—“for they are quite resolved
+
+upon going [[Home|home]] from the Palmers;—and how forlorn we shall be, when I
+
+come back!—Lord! we shall sit and gape at one another as dull as two
+
+cats.”
+
+
+
+Perhaps Mrs. Jennings was in hopes, by this vigorous [[Sketch|sketch]] of their
+
+future ennui, to provoke him to make that offer, which might give
+
+himself an escape from it; and if so, she had soon afterwards good
+
+reason to think her object gained; for, on Elinor’s moving to the
+
+[[Window|window]] to take more expeditiously the dimensions of a print, which she
+
+was going to copy for her friend, he followed her to it with a look of
+
+particular meaning, and conversed with her there for several minutes.
+
+The effect of his discourse on the lady too, could not escape her
+
+observation, for though she was too honorable to listen, and had even
+
+changed her seat, on purpose that she might _not_ hear, to one close by
+
+the piano forte on which Marianne was playing, she could not keep
+
+herself from seeing that Elinor changed colour, attended with
+
+agitation, and was too intent on what he said to pursue her employment.
+
+Still farther in confirmation of her hopes, in the interval of
+
+Marianne’s turning from one lesson to another, some words of the
+
+Colonel’s inevitably reached her ear, in which he seemed to be
+
+apologising for the badness of his [[house]]. This set the matter beyond a
+
+[[Doubt|doubt]]. She wondered, indeed, at his thinking it necessary to do so; but
+
+supposed it to be the proper etiquette. What Elinor said in reply she
+
+could not distinguish, but judged from the motion of her lips, that she
+
+did not think _that_ any material objection; and Mrs. Jennings
+
+commended her in her heart for being so honest. They then talked on for
+
+a few minutes longer without her catching a syllable, when another
+
+lucky stop in Marianne’s performance brought her these words in the
+
+Colonel’s calm voice,—
+
+
+
+“I am afraid it cannot take place very soon.”
+
+
+
+Astonished and shocked at so unlover-like a speech, she was almost
+
+ready to cry out, “Lord! what should hinder it?”—but checking her
+
+[[Desire|desire]], confined herself to this silent ejaculation.
+
+
+
+“This is very strange!—sure he need not wait to be older.”
+
+
+
+This delay on the Colonel’s side, however, did not seem to offend or
+
+mortify his fair companion in the least, for on their breaking up the
+
+conference soon afterwards, and moving different ways, Mrs. Jennings
+
+very plainly heard Elinor say, and with a voice which showed her to
+
+feel what she said,
+
+
+
+“I shall always think myself very much obliged to you.”
+
+
+
+Mrs. Jennings was delighted with her gratitude, and only wondered that
+
+after hearing such a sentence, the Colonel should be able to take leave
+
+of them, as he immediately did, with the utmost _sang-froid_, and go
+
+away without making her any reply! She had not thought her old friend
+
+could have made so indifferent a suitor.
+
+
+
+What had really passed between them was to this effect.
+
+
+
+“I have heard,” said he, with great compassion, “of the injustice your
+
+friend Mr. Ferrars has suffered from his family; for if I understand
+
+the matter right, he has been entirely cast off by them for persevering
+
+in his engagement with a very deserving young woman. Have I been
+
+rightly informed? Is it so?;”
+
+
+
+Elinor told him that it was.
+
+
+
+“The cruelty, the impolitic cruelty,” he replied, with great feeling,
+
+“of dividing, or attempting to divide, two young people long attached
+
+to each other, is terrible. Mrs. Ferrars does not know what she may be
+
+doing—what she may drive her son to. I have seen Mr. Ferrars two or
+
+three times in Harley Street, and am much pleased with him. He is not a
+
+young man with whom one can be intimately acquainted in a short [[Time|time]],
+
+but I have seen enough of him to wish him [[Well|well]] for his own sake, and as
+
+a friend of yours, I wish it still more. I understand that he intends
+
+to take orders. Will you be so good as to tell him that the living of
+
+Delaford, now just vacant, as I am informed by this day’s post, is his,
+
+if he think it worth his acceptance; but _that_, perhaps, so
+
+unfortunately circumstanced as he is now, it may be nonsense to appear
+
+to [[Doubt|doubt]]; I only wish it were more valuable. It is a rectory, but a
+
+small one; the late incumbent, I believe, did not make more than 200£
+
+per annum, and though it is certainly capable of improvement, I [[Fear|fear]],
+
+not to such an amount as to afford him a very comfortable income. Such
+
+as it is, however, my pleasure in presenting it to him, will be very
+
+great. Pray assure him of it.”
+
+
+
+Elinor’s astonishment at this commission could hardly have been
+
+greater, had the Colonel been really making her an offer of his hand.
+
+The preferment, which only two days before she had considered as
+
+hopeless for Edward, was already provided to enable him to marry; and
+
+_she_, of all people in the world, was fixed on to bestow it! Her
+
+emotion was such as Mrs. Jennings had attributed to a very different
+
+cause; but whatever minor feelings less pure, less pleasing, might have
+
+a share in that emotion, her esteem for the general benevolence, and
+
+her gratitude for the particular [[Friendship|friendship]], which together prompted
+
+[[Colonel Brandon]] to this act, were strongly felt, and warmly expressed.
+
+She thanked him for it with all her heart, spoke of Edward’s principles
+
+and disposition with that praise which she knew them to deserve; and
+
+promised to undertake the commission with pleasure, if it were really
+
+his wish to put off so agreeable an office to another. But at the same
+
+[[Time|time]], she could not help thinking that no one could so [[Well|well]] perform it
+
+as himself. It was an office in short, from which, unwilling to give
+
+Edward the [[Pain|pain]] of receiving an obligation from _her_, she would have
+
+been very glad to be spared herself; but [[Colonel Brandon]], on motives of
+
+equal delicacy, declining it likewise, still seemed so desirous of its
+
+being given through her means, that she would not on any account make
+
+farther opposition. Edward, she believed, was still in town, and
+
+fortunately she had heard his address from Miss Steele. She could
+
+undertake therefore to inform him of it, in the course of the day.
+
+After this had been settled, [[Colonel Brandon]] began to talk of his own
+
+advantage in securing so respectable and agreeable a neighbour, and
+
+_then_ it was that he mentioned with regret, that the [[house]] was small
+
+and indifferent; an evil which Elinor, as Mrs. Jennings had supposed
+
+her to do, made very light of, at least as far as regarded its size.
+
+
+
+“The smallness of the [[house]],” said she, “I cannot imagine any
+
+inconvenience to them, for it will be in proportion to their family and
+
+income.”
+
+
+
+By which the Colonel was surprised to find that _she_ was considering
+
+Mr. Ferrars’s [[Marriage|marriage]] as the certain consequence of the presentation;
+
+for he did not suppose it possible that Delaford living could supply
+
+such an income, as anybody in his style of life would venture to settle
+
+on, and he said so.
+
+
+
+“This little rectory _can_ do no more than make Mr. Ferrars comfortable
+
+as a bachelor; it cannot enable him to marry. I am sorry to say that my
+
+patronage ends with this; and my interest is hardly more extensive. If,
+
+however, by an unforeseen chance it should be in my power to serve him
+
+farther, I must think very differently of him from what I now do, if I
+
+am not as ready to be useful to him then as I sincerely wish I could be
+
+at present. What I am now doing indeed, seems nothing at all, since it
+
+can advance him so little towards what must be his principal, his only
+
+object of happiness. His [[Marriage|marriage]] must still be a distant good; at
+
+least, I am afraid it cannot take place very soon.”
+
+
+
+Such was the sentence which, when misunderstood, so justly offended the
+
+delicate feelings of Mrs. Jennings; but after this narration of what
+
+really passed between [[Colonel Brandon]] and Elinor, while they stood at
+
+the [[Window|window]], the gratitude expressed by the latter on their parting, may
+
+perhaps appear in general, not less reasonably excited, nor less
+
+properly worded than if it had arisen from an offer of [[Marriage|marriage]].
+
+
+
+
 <span class="atom-split" data-atom="chapter_40--part_01" data-title="Sense and Sensibility — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
 
 
@@ -46043,6 +45389,364 @@ them;—an exertion in which her husband, who attended her into the room,
 and hung enamoured over her accents, seemed to distinguish every thing
 
 that was most affectionate and graceful.
+
+
+
+
+<span class="atom-split" data-atom="chapter_42" data-title="Sense and Sensibility — Chapter 42" data-chapter="Chapter 42" data-kind="chapter"></span>
+
+
+CHAPTER XLII.
+
+
+
+
+
+One other short call in Harley Street, in which Elinor received her
+
+brother’s congratulations on their travelling so far towards Barton
+
+without any expense, and on [[Colonel Brandon]]’s being to follow them to
+
+Cleveland in a day or two, completed the intercourse of the brother and
+
+sisters in town;—and a faint invitation from Fanny, to come to Norland
+
+whenever it should happen to be in their way, which of all things was
+
+the most unlikely to occur, with a more warm, though less public,
+
+assurance, from John to Elinor, of the promptitude with which he should
+
+come to see her at Delaford, was all that foretold any meeting in the
+
+country.
+
+
+
+It amused her to observe that all her friends seemed determined to send
+
+her to Delaford;—a place, in which, of all others, she would now least
+
+chuse to visit, or wish to reside; for not only was it considered as
+
+her future [[Home|home]] by her brother and Mrs. Jennings, but even Lucy, when
+
+they parted, gave her a pressing invitation to visit her there.
+
+
+
+Very early in April, and tolerably early in the day, the two parties
+
+from Hanover Square and Berkeley Street set out from their respective
+
+homes, to meet, by appointment, on the [[Road|road]]. For the convenience of
+
+Charlotte and her [[Child|child]], they were to be more than two days on their
+
+[[Journey|journey]], and Mr. Palmer, travelling more expeditiously with Colonel
+
+Brandon, was to join them at Cleveland soon after their arrival.
+
+
+
+Marianne, few as had been her hours of comfort in [[London]], and eager as
+
+she had long been to quit it, could not, when it came to the point, bid
+
+adieu to the [[house]] in which she had for the last [[Time|time]] enjoyed those
+
+hopes, and that confidence, in Willoughby, which were now extinguished
+
+for ever, without great [[Pain|pain]]. Nor could she leave the place in which
+
+Willoughby remained, busy in new engagements, and new schemes, in which
+
+_she_ could have no share, without shedding many [[Tears|tears]].
+
+
+
+Elinor’s satisfaction, at the moment of removal, was more positive. She
+
+had no such object for her lingering thoughts to fix on, she left no
+
+creature behind, from whom it would give her a moment’s regret to be
+
+divided for ever, she was pleased to be free herself from the
+
+persecution of Lucy’s [[Friendship|friendship]], she was grateful for bringing her
+
+sister away unseen by Willoughby since his [[Marriage|marriage]], and she looked
+
+forward with [[Hope|hope]] to what a few months of tranquility at Barton might
+
+do towards restoring Marianne’s peace of mind, and confirming her own.
+
+
+
+Their [[Journey|journey]] was safely performed. The second day brought them into
+
+the cherished, or the prohibited, county of Somerset, for as such was
+
+it dwelt on by turns in Marianne’s [[Imagination|imagination]]; and in the forenoon of
+
+the third they drove up to Cleveland.
+
+
+
+Cleveland was a spacious, modern-built [[house]], situated on a sloping
+
+lawn. It had no park, but the pleasure-grounds were tolerably
+
+extensive; and like every other place of the same degree of importance,
+
+it had its open shrubbery, and closer wood walk, a [[Road|road]] of smooth
+
+gravel winding round a plantation, led to the front, the lawn was
+
+dotted over with timber, the [[house]] itself was under the guardianship of
+
+the fir, the mountain-ash, and the acacia, and a thick screen of them
+
+altogether, interspersed with tall Lombardy poplars, shut out the
+
+offices.
+
+
+
+Marianne entered the [[house]] with a heart swelling with emotion from the
+
+consciousness of being only eighty miles from Barton, and not thirty
+
+from Combe Magna; and before she had been five minutes within its
+
+walls, while the others were busily helping Charlotte to show her [[Child|child]]
+
+to the housekeeper, she quitted it again, stealing away through the
+
+winding shrubberies, now just beginning to be in [[Beauty|beauty]], to gain a
+
+distant eminence; where, from its Grecian temple, her eye, wandering
+
+over a wide tract of country to the south-east, could fondly rest on
+
+the farthest ridge of hills in the horizon, and fancy that from their
+
+summits Combe Magna might be seen.
+
+
+
+In such moments of precious, invaluable misery, she rejoiced in [[Tears|tears]]
+
+of agony to be at Cleveland; and as she returned by a different circuit
+
+to the [[house]], feeling all the happy privilege of country liberty, of
+
+wandering from place to place in free and luxurious [[Solitude|solitude]], she
+
+resolved to spend almost every hour of every day while she remained
+
+with the Palmers, in the indulgence of such solitary rambles.
+
+
+
+She returned just in [[Time|time]] to join the others as they quitted the [[house]],
+
+on an excursion through its more immediate premises; and the rest of
+
+the morning was easily whiled away, in lounging round the kitchen
+
+[[Garden|garden]], examining the bloom upon its walls, and listening to the
+
+gardener’s lamentations upon blights, in dawdling through the
+
+green-[[house]], where the loss of her favourite plants, unwarily exposed,
+
+and nipped by the lingering [[Frost|frost]], raised the laughter of
+
+Charlotte,—and in visiting her poultry-yard, where, in the disappointed
+
+hopes of her dairy-maid, by hens forsaking their nests, or being stolen
+
+by a fox, or in the rapid decrease of a promising young brood, she
+
+found fresh sources of merriment.
+
+
+
+The morning was fine and dry, and Marianne, in her plan of employment
+
+abroad, had not calculated for any change of weather during their stay
+
+at Cleveland. With great surprise therefore, did she find herself
+
+prevented by a settled rain from going out again after dinner. She had
+
+depended on a twilight walk to the Grecian temple, and perhaps all over
+
+the grounds, and an evening merely cold or damp would not have deterred
+
+her from it; but a heavy and settled rain even _she_ could not fancy
+
+dry or pleasant weather for walking.
+
+
+
+Their party was small, and the hours passed quietly away. Mrs. Palmer
+
+had her [[Child|child]], and Mrs. Jennings her carpet-work; they talked of the
+
+friends they had left behind, arranged Lady Middleton’s engagements,
+
+and wondered whether Mr. Palmer and [[Colonel Brandon]] would get farther
+
+than Reading that [[Night|night]]. Elinor, however little concerned in it, joined
+
+in their discourse; and Marianne, who had the knack of finding her way
+
+in every [[house]] to the library, however it might be avoided by the
+
+family in general, soon procured herself a book.
+
+
+
+Nothing was wanting on Mrs. Palmer’s side that constant and friendly
+
+good [[Humour|humour]] could do, to make them feel themselves welcome. The
+
+openness and heartiness of her manner more than atoned for that want of
+
+recollection and elegance which made her often deficient in the forms
+
+of politeness; her kindness, recommended by so pretty a face, was
+
+engaging; her folly, though evident was not disgusting, because it was
+
+not conceited; and Elinor could have forgiven every thing but her
+
+laugh.
+
+
+
+The two gentlemen arrived the next day to a very late dinner, affording
+
+a pleasant enlargement of the party, and a very welcome variety to
+
+their conversation, which a long morning of the same continued rain had
+
+reduced very low.
+
+
+
+Elinor had seen so little of Mr. Palmer, and in that little had seen so
+
+much variety in his address to her sister and herself, that she knew
+
+not what to expect to find him in his own family. She found him,
+
+however, perfectly the gentleman in his behaviour to all his visitors,
+
+and only occasionally rude to his wife and her mother; she found him
+
+very capable of being a pleasant companion, and only prevented from
+
+being so always, by too great an aptitude to fancy himself as much
+
+superior to people in general, as he must feel himself to be to Mrs.
+
+Jennings and Charlotte. For the rest of his character and habits, they
+
+were marked, as far as Elinor could perceive, with no traits at all
+
+unusual in his sex and [[Time|time]] of life. He was nice in his eating,
+
+uncertain in his hours; fond of his [[Child|child]], though affecting to slight
+
+it; and idled away the mornings at billiards, which ought to have been
+
+devoted to business. She liked him, however, upon the whole, much
+
+better than she had expected, and in her heart was not sorry that she
+
+could like him no more;—not sorry to be driven by the observation of
+
+his Epicurism, his selfishness, and his conceit, to rest with
+
+complacency on the remembrance of Edward’s generous temper, simple
+
+taste, and diffident feelings.
+
+
+
+Of Edward, or at least of some of his concerns, she now received
+
+intelligence from [[Colonel Brandon]], who had been into Dorsetshire
+
+lately; and who, treating her at once as the disinterested friend of
+
+Mr. Ferrars, and the kind confidante of himself, talked to her a great
+
+deal of the parsonage at Delaford, described its deficiencies, and told
+
+her what he meant to do himself towards removing them.—His behaviour to
+
+her in this, as [[Well|well]] as in every other particular, his open pleasure in
+
+meeting her after an absence of only ten days, his readiness to
+
+converse with her, and his deference for her opinion, might very [[Well|well]]
+
+justify Mrs. Jennings’s [[Persuasion|persuasion]] of his attachment, and would have
+
+been enough, perhaps, had not Elinor still, as from the first, believed
+
+Marianne his real favourite, to make her suspect it herself. But as it
+
+was, such a notion had scarcely ever entered her head, except by Mrs.
+
+Jennings’s suggestion; and she could not help believing herself the
+
+nicest observer of the two;—she watched his eyes, while Mrs. Jennings
+
+thought only of his behaviour;—and while his looks of anxious
+
+solicitude on Marianne’s feeling, in her head and throat, the beginning
+
+of a heavy cold, because unexpressed by words, entirely escaped the
+
+latter lady’s observation;—_she_ could discover in them the quick
+
+feelings, and needless alarm of a [[Lover|lover]].
+
+
+
+Two delightful twilight walks on the third and fourth evenings of her
+
+being there, not merely on the dry gravel of the shrubbery, but all
+
+over the grounds, and especially in the most distant parts of them,
+
+where there was something more of wildness than in the rest, where the
+
+trees were the oldest, and the grass was the longest and wettest,
+
+had—assisted by the still greater imprudence of sitting in her wet
+
+shoes and stockings—given Marianne a cold so violent as, though for a
+
+day or two trifled with or denied, would force itself by increasing
+
+ailments on the concern of every [[Body|body]], and the notice of herself.
+
+Prescriptions poured in from all quarters, and as usual, were all
+
+declined. Though heavy and feverish, with a [[Pain|pain]] in her limbs, and a
+
+cough, and a sore throat, a good [[Night|night]]’s rest was to cure her entirely;
+
+and it was with difficulty that Elinor prevailed on her, when she went
+
+to bed, to try one or two of the simplest of the remedies.
 
 
 
@@ -49451,6 +49155,302 @@ too much engrossed her tenderness, and led her away to forget that in
 Elinor she might have a daughter [[Suffering|suffering]] almost as much, certainly
 
 with less [[Self|self]]-provocation, and greater fortitude.
+
+
+
+
+<span class="atom-split" data-atom="chapter_48" data-title="Sense and Sensibility — Chapter 48" data-chapter="Chapter 48" data-kind="chapter"></span>
+
+
+CHAPTER XLVIII.
+
+
+
+
+
+Elinor now found the difference between the expectation of an
+
+unpleasant event, however certain the mind may be told to consider it,
+
+and certainty itself. She now found, that in spite of herself, she had
+
+always admitted a [[Hope|hope]], while Edward remained single, that something
+
+would occur to prevent his marrying Lucy; that some resolution of his
+
+own, some mediation of friends, or some more eligible opportunity of
+
+establishment for the lady, would arise to assist the happiness of all.
+
+But he was now married; and she condemned her heart for the lurking
+
+flattery, which so much heightened the [[Pain|pain]] of the intelligence.
+
+
+
+That he should be married soon, before (as she imagined) he could be in
+
+orders, and consequently before he could be in possession of the
+
+living, surprised her a little at first. But she soon saw how likely it
+
+was that Lucy, in her [[Self|self]]-provident care, in her haste to secure him,
+
+should overlook every thing but the risk of delay. They were married,
+
+married in town, and now hastening down to her uncle’s. What had Edward
+
+felt on being within four miles from Barton, on seeing her mother’s
+
+servant, on hearing Lucy’s message!
+
+
+
+They would soon, she supposed, be settled at Delaford.—Delaford,—that
+
+place in which so much conspired to give her an interest; which she
+
+wished to be acquainted with, and yet desired to avoid. She saw them in
+
+an instant in their parsonage-[[house]]; saw in Lucy, the active,
+
+contriving manager, uniting at once a [[Desire|desire]] of smart appearance with
+
+the utmost frugality, and ashamed to be suspected of half her
+
+economical practices;—pursuing her own interest in every thought,
+
+courting the favour of [[Colonel Brandon]], of Mrs. Jennings, and of every
+
+wealthy friend. In Edward—she knew not what she saw, nor what she
+
+wished to see;—happy or unhappy,—nothing pleased her; she turned away
+
+her head from every [[Sketch|sketch]] of him.
+
+
+
+Elinor flattered herself that some one of their connections in [[London]]
+
+would write to them to announce the event, and give farther
+
+particulars,—but day after day passed off, and brought no letter, no
+
+tidings. Though uncertain that any one were to blame, she found fault
+
+with every absent friend. They were all thoughtless or indolent.
+
+
+
+“When do you write to [[Colonel Brandon]], ma’am?” was an inquiry which
+
+sprung from the impatience of her mind to have something going on.
+
+
+
+“I wrote to him, my [[Love|love]], last week, and rather expect to see, than to
+
+hear from him again. I earnestly pressed his coming to us, and should
+
+not be surprised to see him walk in today or tomorrow, or any day.”
+
+
+
+This was gaining something, something to look forward to. Colonel
+
+Brandon _must_ have some information to give.
+
+
+
+Scarcely had she so determined it, when the figure of a man on
+
+horseback drew her eyes to the [[Window|window]]. He stopt at their gate. It was a
+
+gentleman, it was [[Colonel Brandon]] himself. Now she could hear more; and
+
+she trembled in expectation of it. But it was _not_ [[Colonel Brandon]];
+
+neither his air, nor his height. Were it possible, she must say it must
+
+be Edward. She looked again. He had just dismounted: she could not be
+
+mistaken,—it _was_ Edward. She moved away and sat down. “He comes from
+
+Mr. Pratt’s purposely to see us. I _will_ be calm; I _will_ be mistress
+
+of myself.”
+
+
+
+In a moment she perceived that the others were likewise aware of the
+
+mistake. She saw her mother and Marianne change colour; saw them look
+
+at herself, and whisper a few sentences to each other. She would have
+
+given the world to be able to speak—and to make them understand that
+
+she hoped no coolness, no slight, would appear in their behaviour to
+
+him;—but she had no utterance, and was obliged to leave all to their
+
+own discretion.
+
+
+
+Not a syllable passed aloud. They all waited in [[Silence|silence]] for the
+
+appearance of their visitor. His footsteps were heard along the gravel
+
+path; in a moment he was in the passage, and in another he was before
+
+them.
+
+
+
+His countenance, as he entered the room, was not too happy, even for
+
+Elinor. His complexion was white with agitation, and he looked as if
+
+fearful of his reception, and conscious that he merited no kind one.
+
+Mrs. Dashwood, however, conforming, as she trusted, to the wishes of
+
+that daughter, by whom she then meant in the warmth of her heart to be
+
+guided in every thing, met him with a look of forced complacency, gave
+
+him her hand, and wished him joy.
+
+
+
+He coloured, and stammered out an unintelligible reply. Elinor’s lips
+
+had moved with her mother’s, and, when the moment of action was over,
+
+she wished that she had shaken hands with him too. But it was then too
+
+late, and with a countenance meaning to be open, she sat down again and
+
+talked of the weather.
+
+
+
+Marianne had retreated as much as possible out of sight, to conceal her
+
+distress; and Margaret, understanding some part, but not the whole of
+
+the case, thought it incumbent on her to be dignified, and therefore
+
+took a seat as far from him as she could, and maintained a strict
+
+[[Silence|silence]].
+
+
+
+When Elinor had ceased to rejoice in the dryness of the season, a very
+
+awful pause took place. It was put an end to by Mrs. Dashwood, who felt
+
+obliged to [[Hope|hope]] that he had left Mrs. Ferrars very [[Well|well]]. In a hurried
+
+manner, he replied in the affirmative.
+
+
+
+Another pause.
+
+
+
+Elinor resolving to exert herself, though fearing the sound of her own
+
+voice, now said,
+
+
+
+“Is Mrs. Ferrars at Longstaple?”
+
+
+
+“At Longstaple!” he replied, with an air of surprise. “No, my mother is
+
+in town.”
+
+
+
+“I meant,” said Elinor, taking up some work from the table, “to enquire
+
+for Mrs. _Edward_ Ferrars.”
+
+
+
+She dared not look up;—but her mother and Marianne both turned their
+
+eyes on him. He coloured, seemed perplexed, looked doubtingly, and,
+
+after some hesitation, said,—
+
+
+
+“Perhaps you mean—my brother—you mean Mrs.—Mrs. _Robert_ Ferrars.”
+
+
+
+“Mrs. Robert Ferrars!” was repeated by Marianne and her mother in an
+
+accent of the utmost amazement; and though Elinor could not speak, even
+
+_her_ eyes were fixed on him with the same impatient [[Wonder|wonder]]. He [[Rose|rose]]
+
+from his seat, and walked to the [[Window|window]], apparently from not knowing
+
+what to do; took up a pair of scissors that lay there, and while
+
+spoiling both them and their sheath by cutting the latter to pieces as
+
+he spoke, said, in a hurried voice,—
+
+
+
+“Perhaps you do not know: you may not have heard that my brother is
+
+lately married to—to the youngest—to Miss [[Lucy Steele]].”
+
+
+
+His words were echoed with unspeakable astonishment by all but Elinor,
+
+who sat with her head leaning over her work, in a state of such
+
+agitation as made her hardly know where she was.
+
+
+
+“Yes,” said he, “they were married last week, and are now at Dawlish.”
+
+
+
+Elinor could sit it no longer. She almost ran out of the room, and as
+
+soon as the door was closed, burst into [[Tears|tears]] of joy, which at first
+
+she thought would never cease. Edward, who had till then looked any
+
+where, rather than at her, saw her hurry away, and perhaps saw—or even
+
+heard, her emotion; for immediately afterwards he fell into a reverie,
+
+which no remarks, no inquiries, no affectionate address of Mrs.
+
+Dashwood could penetrate, and at last, without saying a word, quitted
+
+the room, and walked out towards the village—leaving the others in the
+
+greatest astonishment and perplexity on a change in his situation, so
+
+wonderful and so sudden;—a perplexity which they had no means of
+
+lessening but by their own conjectures.
 
 
 

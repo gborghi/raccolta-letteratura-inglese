@@ -39855,360 +39855,6 @@ supposing—.
 
 
 
-<span class="atom-split" data-atom="chapter_66" data-title="Bleak House — Chapter 66" data-chapter="Chapter 66" data-kind="chapter"></span>
-
-
-CHAPTER LXVI
-
-Down in Lincolnshire
-
-
-There is a hush upon Chesney Wold in these altered days, as there is
-upon a portion of the family [[history]]. The story goes that Sir
-Leicester paid some who could have spoken out to hold their peace;
-but it is a lame story, feebly whispering and creeping about, and any
-brighter spark of life it shows soon dies away. It is known for
-certain that the handsome [[Lady Dedlock]] lies in the mausoleum in the
-park, where the trees arch darkly overhead, and the owl is heard at
-[[Night|night]] making the woods ring; but whence she was brought [[Home|home]] to be
-laid among the echoes of that solitary place, or how she died, is all
-mystery. Some of her old friends, principally to be found among the
-peachy-cheeked charmers with the [[skeleton]] throats, did once
-occasionally say, as they toyed in a ghastly manner with large
-fans—like charmers reduced to flirting with grim [[Death|death]], after losing
-all their other beaux—did once occasionally say, when the world
-assembled together, that they wondered the ashes of the Dedlocks,
-entombed in the mausoleum, never [[Rose|rose]] against the profanation of her
-company. But the dead-and-gone Dedlocks take it very calmly and have
-never been known to object.
-
-Up from among the fern in the hollow, and winding by the bridle-[[Road|road]]
-among the trees, comes sometimes to this lonely spot the sound of
-horses’ hoofs. Then may be seen Sir Leicester—invalided, bent, and
-almost blind, but of worthy presence yet—riding with a stalwart man
-beside him, constant to his bridle-rein. When they come to a certain
-spot before the mausoleum-door, Sir Leicester’s accustomed [[Horse|horse]]
-stops of his own accord, and Sir Leicester, pulling off his hat, is
-still for a few moments before they ride away.
-
-War rages yet with the audacious Boythorn, though at uncertain
-intervals, and now hotly, and now coolly, flickering like an unsteady
-[[Fire|fire]]. The [[Truth|truth]] is said to be that when Sir Leicester came down to
-Lincolnshire for good, Mr. Boythorn showed a manifest [[Desire|desire]] to
-abandon his right of way and do whatever Sir Leicester would, which
-Sir Leicester, conceiving to be a condescension to his illness or
-misfortune, took in such high dudgeon, and was so magnificently
-aggrieved by, that Mr. Boythorn found himself under the necessity of
-committing a flagrant trespass to restore his neighbour to himself.
-Similarly, Mr. Boythorn continues to post tremendous placards on the
-disputed thoroughfare and (with his bird upon his head) to hold forth
-vehemently against Sir Leicester in the sanctuary of his own [[Home|home]];
-similarly, also, he defies him as of old in the little church by
-testifying a bland unconsciousness of his existence. But it is
-whispered that when he is most ferocious towards his old foe, he is
-really most considerate, and that Sir Leicester, in the dignity of
-being implacable, little supposes how much he is humoured. As little
-does he think how near together he and his antagonist have suffered
-in the fortunes of two sisters, and his antagonist, who knows it now,
-is not the man to tell him. So the quarrel goes on to the
-satisfaction of both.
-
-In one of the lodges of the park—that lodge within sight of the
-[[house]] where, once upon a [[Time|time]], when the waters were out down in
-Lincolnshire, my Lady used to see the keeper’s [[Child|child]]—the stalwart
-man, the trooper formerly, is housed. Some relics of his old calling
-hang upon the walls, and these it is the chosen recreation of a
-little lame man about the stable-yard to keep gleaming bright. A busy
-little man he always is, in the polishing at harness-[[house]] doors, of
-stirrup-irons, bits, curb-[[Chains|chains]], harness bosses, anything in the way
-of a stable-yard that will take a polish, leading a life of friction.
-A shaggy little damaged man, withal, not unlike an old dog of some
-mongrel breed, who has been considerably knocked about. He answers to
-the name of Phil.
-
-A goodly sight it is to see the grand old housekeeper (harder of
-hearing now) going to church on the arm of her son and to
-observe—which few do, for the [[house]] is scant of company in these
-times—the relations of both towards Sir Leicester, and his towards
-them. They have visitors in the high [[Summer|summer]] weather, when a grey
-cloak and umbrella, unknown to Chesney Wold at other periods, are
-seen among the [[Leaves|leaves]]; when two young ladies are occasionally found
-gambolling in sequestered saw-pits and such nooks of the park; and
-when the smoke of two pipes wreathes away into the fragrant evening
-air from the trooper’s door. Then is a fife heard trolling within the
-lodge on the inspiring topic of the “British Grenadiers”; and as the
-evening closes in, a gruff inflexible voice is heard to say, while
-two men pace together up and down, “But I never own to it before the
-old girl. Discipline must be maintained.”
-
-The greater part of the [[house]] is shut up, and it is a show-[[house]] no
-longer; yet Sir Leicester holds his shrunken state in the long
-drawing-room for all that, and reposes in his old place before my
-Lady’s picture. Closed in by [[Night|night]] with broad screens, and illumined
-only in that part, the light of the drawing-room seems gradually
-contracting and dwindling until it shall be no more. A little more,
-in [[Truth|truth]], and it will be all extinguished for Sir Leicester; and the
-damp door in the mausoleum which shuts so tight, and looks so
-obdurate, will have opened and received him.
-
-[[Volumnia]], growing with the flight of [[Time|time]] pinker as to the red in her
-face, and yellower as to the white, reads to Sir Leicester in the
-long evenings and is driven to various artifices to conceal her
-yawns, of which the chief and most efficacious is the insertion of
-the pearl necklace between her rosy lips. Long-winded treatises on
-the Buffy and Boodle question, showing how Buffy is immaculate and
-Boodle villainous, and how the country is lost by being all Boodle
-and no Buffy, or saved by being all Buffy and no Boodle (it must be
-one of the two, and cannot be anything else), are the staple of her
-reading. Sir Leicester is not particular what it is and does not
-appear to follow it very closely, further than that he always comes
-broad awake the moment [[Volumnia]] ventures to leave off, and sonorously
-repeating her last words, begs with some displeasure to know if she
-finds herself fatigued. However, [[Volumnia]], in the course of her
-bird-like hopping about and pecking at papers, has alighted on a
-memorandum concerning herself in the event of “anything happening” to
-her kinsman, which is handsome compensation for an extensive course
-of reading and holds even the dragon Boredom at bay.
-
-The cousins generally are rather shy of Chesney Wold in its dullness,
-but take to it a little in the shooting season, when guns are heard
-in the plantations, and a few scattered beaters and keepers wait at
-the old places of appointment for low-spirited twos and threes of
-cousins. The debilitated cousin, more debilitated by the dreariness
-of the place, gets into a fearful state of depression, groaning under
-penitential sofa-pillows in his gunless hours and protesting that
-such fernal old jail’s—nough t’sew fler up—frever.
-
-The only great occasions for [[Volumnia]] in this changed aspect of the
-place in Lincolnshire are those occasions, rare and widely separated,
-when something is to be done for the county or the country in the way
-of gracing a public ball. Then, indeed, does the tuckered sylph come
-out in fairy form and proceed with joy under cousinly escort to the
-exhausted old assembly-room, fourteen heavy miles off, which, during
-three hundred and sixty-four days and nights of every ordinary year,
-is a kind of antipodean lumber-room full of old chairs and tables
-upside down. Then, indeed, does she captivate all hearts by her
-condescension, by her girlish vivacity, and by her skipping about as
-in the days when the hideous old general with the mouth too full of
-teeth had not cut one of them at two guineas each. Then does she
-twirl and twine, a [[Pastoral|pastoral]] nymph of good family, through the mazes
-of the [[Dance|dance]]. Then do the swains appear with tea, with lemonade, with
-sandwiches, with homage. Then is she kind and cruel, stately and
-unassuming, various, beautifully wilful. Then is there a singular
-kind of parallel between her and the little glass chandeliers of
-another age embellishing that assembly-room, which, with their meagre
-stems, their spare little drops, their disappointing knobs where no
-drops are, their bare little stalks from which knobs and drops have
-both departed, and their little feeble prismatic twinkling, all seem
-Volumnias.
-
-For the rest, Lincolnshire life to [[Volumnia]] is a vast blank of
-overgrown [[house]] looking out upon trees, sighing, wringing their
-hands, bowing their heads, and casting their [[Tears|tears]] upon the
-[[Window|window]]-panes in monotonous depressions. A labyrinth of grandeur, less
-the property of an old family of human beings and their ghostly
-likenesses than of an old family of echoings and thunderings which
-start out of their hundred graves at every sound and go resounding
-through the building. A waste of unused passages and staircases in
-which to drop a comb upon a bedroom floor at [[Night|night]] is to send a
-stealthy footfall on an errand through the [[house]]. A place where few
-people care to go about [[Alone|alone]], where a maid screams if an ash drops
-from the [[Fire|fire]], takes to crying at all times and [[Seasons|seasons]], becomes the
-victim of a low disorder of the spirits, and gives warning and
-departs.
-
-Thus Chesney Wold. With so much of itself abandoned to darkness and
-vacancy; with so little change under the [[Summer|summer]] shining or the wintry
-lowering; so sombre and motionless always—no [[Flag|flag]] flying now by day,
-no rows of lights sparkling by [[Night|night]]; with no family to come and go,
-no visitors to be the souls of pale cold shapes of rooms, no stir of
-life about it—passion and [[Pride|pride]], even to the stranger’s eye, have
-died away from the place in Lincolnshire and yielded it to dull
-repose.
-
-
-
-
-<span class="atom-split" data-atom="chapter_67" data-title="Bleak House — Chapter 67" data-chapter="Chapter 67" data-kind="chapter"></span>
-
-
-CHAPTER LXVII
-
-The Close of Esther’s Narrative
-
-
-Full seven happy years I have been the mistress of Bleak [[house|House]]. The
-few words that I have to add to what I have written are soon penned;
-then I and the unknown friend to whom I write will part for ever. Not
-without much dear remembrance on my side. Not without some, I [[Hope|hope]],
-on his or hers.
-
-They gave my darling into my arms, and through many weeks I never
-left her. The little [[Child|child]] who was to have done so much was born
-before the turf was planted on its father’s [[Grave|grave]]. It was a boy; and
-I, my husband, and my guardian gave him his father’s name.
-
-The help that my dear counted on did come to her, though it came, in
-the eternal wisdom, for another purpose. Though to bless and restore
-his mother, not his father, was the errand of this baby, its power
-was mighty to do it. When I saw the strength of the weak little hand
-and how its touch could heal my darling’s heart and raised [[Hope|hope]]
-within her, I felt a new sense of the goodness and the tenderness of
-God.
-
-They throve, and by degrees I saw my dear girl pass into my country
-[[Garden|garden]] and walk there with her infant in her arms. I was married
-then. I was the happiest of the happy.
-
-It was at this [[Time|time]] that my guardian joined us and asked Ada when she
-would come [[Home|home]].
-
-“Both houses are your [[Home|home]], my dear,” said he, “but the older Bleak
-[[house|House]] claims priority. When you and my boy are strong enough to do
-it, come and take possession of your [[Home|home]].”
-
-Ada called him “her dearest cousin, John.” But he said, no, it must
-be guardian now. He was her guardian henceforth, and the boy’s; and
-he had an old association with the name. So she called him guardian,
-and has called him guardian ever since. The children know him by no
-other name. I say the children; I have two little daughters.
-
-It is difficult to believe that Charley (round-eyed still, and not at
-all grammatical) is married to a miller in our neighbourhood; yet so
-it is; and even now, looking up from my desk as I write early in the
-morning at my [[Summer|summer]] [[Window|window]], I see the very mill beginning to go
-round. I [[Hope|hope]] the miller will not spoil Charley; but he is very fond
-of her, and Charley is rather vain of such a match, for he is [[Well|well]] to
-do and was in great request. So far as my small maid is concerned, I
-might suppose [[Time|time]] to have stood for seven years as still as the mill
-did half an hour ago, since little [[Emma]], Charley’s sister, is exactly
-what Charley used to be. As to Tom, Charley’s brother, I am really
-afraid to say what he did at school in ciphering, but I think it was
-decimals. He is apprenticed to the miller, whatever it was, and is a
-good bashful fellow, always falling in [[Love|love]] with somebody and being
-ashamed of it.
-
-Caddy Jellyby passed her very last holidays with us and was a dearer
-creature than ever, perpetually dancing in and out of the [[house]] with
-the children as if she had never given a dancing-lesson in her life.
-Caddy keeps her own little carriage now instead of hiring one, and
-lives full two miles further westward than Newman Street. She works
-very hard, her husband (an excellent one) being lame and able to do
-very little. Still, she is more than contented and does all she has
-to do with all her heart. Mr. Jellyby spends his evenings at her new
-[[house]] with his head against the wall as he used to do in her old one.
-I have heard that Mrs. Jellyby was understood to suffer great
-mortification from her daughter’s ignoble [[Marriage|marriage]] and pursuits, but
-I [[Hope|hope]] she got over it in [[Time|time]]. She has been disappointed in
-Borrioboola-Gha, which turned out a failure in consequence of the
-[[King|king]] of Borrioboola wanting to sell everybody—who survived the
-climate—for rum, but she has taken up with the rights of women to
-sit in Parliament, and Caddy tells me it is a mission involving more
-correspondence than the old one. I had almost forgotten Caddy’s poor
-little girl. She is not such a mite now, but she is deaf and dumb. I
-believe there never was a better mother than Caddy, who learns, in
-her scanty intervals of leisure, innumerable deaf and dumb arts to
-soften the affliction of her [[Child|child]].
-
-As if I were never to have done with Caddy, I am reminded here of
-Peepy and old Mr. Turveydrop. Peepy is in the Custom [[house|House]], and doing
-extremely [[Well|well]]. Old Mr. Turveydrop, very apoplectic, still exhibits
-his deportment about town, still enjoys himself in the old manner, is
-still believed in in the old way. He is constant in his patronage of
-Peepy and is understood to have bequeathed him a favourite French
-[[Clock|clock]] in his dressing-room—which is not his property.
-
-With the first money we saved at [[Home|home]], we added to our pretty [[house]]
-by throwing out a little growlery expressly for my guardian, which we
-inaugurated with great splendour the next [[Time|time]] he came down to see
-us. I try to write all this lightly, because my heart is full in
-drawing to an end, but when I write of him, my [[Tears|tears]] will have their
-way.
-
-I never look at him but I hear our poor dear [[Richard]] calling him a
-good man. To Ada and her pretty boy, he is the fondest father; to me
-he is what he has ever been, and what name can I give to that? He is
-my husband’s best and dearest friend, he is our children’s darling,
-he is the object of our deepest [[Love|love]] and veneration. Yet while I feel
-towards him as if he were a superior being, I am so familiar with him
-and so easy with him that I almost [[Wonder|wonder]] at myself. I have never
-lost my old names, nor has he lost his; nor do I ever, when he is
-with us, sit in any other place than in my old chair at his side,
-Dame Trot, Dame Durden, Little Woman—all just the same as ever; and
-I answer, “Yes, dear guardian!” just the same.
-
-I have never known the [[Wind|wind]] to be in the east for a single moment
-since the day when he took me to the porch to read the name. I
-remarked to him once that the [[Wind|wind]] seemed never in the east now, and
-he said, no, truly; it had finally departed from that quarter on that
-very day.
-
-I think my darling girl is more beautiful than ever. The sorrow that
-has been in her face—for it is not there now—seems to have purified
-even its [[Innocent|innocent]] expression and to have given it a diviner quality.
-Sometimes when I raise my eyes and see her in the black dress that
-she still wears, teaching my [[Richard]], I feel—it is difficult to
-express—as if it were so good to know that she remembers her dear
-Esther in her prayers.
-
-I call him my [[Richard]]! But he says that he has two mamas, and I am
-one.
-
-We are not rich in the bank, but we have always prospered, and we
-have quite enough. I never walk out with my husband but I hear the
-people bless him. I never go into a [[house]] of any degree but I hear
-his praises or see them in grateful eyes. I never lie down at [[Night|night]]
-but I know that in the course of that day he has alleviated [[Pain|pain]] and
-soothed some fellow-creature in the [[Time|time]] of need. I know that from
-the beds of those who were past recovery, thanks have often, often
-gone up, in the last hour, for his patient ministration. Is not this
-to be rich?
-
-The people even praise me as the doctor’s wife. The people even like
-me as I go about, and make so much of me that I am quite abashed. I
-owe it all to him, my [[Love|love]], my [[Pride|pride]]! They like me for his sake, as I
-do everything I do in life for his sake.
-
-A [[Night|night]] or two ago, after bustling about preparing for my darling and
-my guardian and little [[Richard]], who are coming to-morrow, I was
-sitting out in the porch of all places, that dearly memorable porch,
-when Allan came [[Home|home]]. So he said, “My precious little woman, what are
-you doing here?” And I said, “The [[Moon|moon]] is shining so brightly, Allan,
-and the [[Night|night]] is so delicious, that I have been sitting here
-thinking.”
-
-“What have you been thinking about, my dear?” said Allan then.
-
-“How curious you are!” said I. “I am almost ashamed to tell you, but
-I will. I have been thinking about my old looks—such as they were.”
-
-“And what have you been thinking about THEM, my busy bee?” said
-Allan.
-
-“I have been thinking that I thought it was impossible that you COULD
-have loved me any better, even if I had retained them.”
-
-“‘Such as they were’?” said Allan, laughing.
-
-“Such as they were, of course.”
-
-“My dear Dame Durden,” said Allan, drawing my arm through his, “do
-you ever look in the glass?”
-
-“You know I do; you see me do it.”
-
-“And don’t you know that you are prettier than you ever were?”
-
-I did not know that; I am not certain that I know it now. But I know
-that my dearest little pets are very pretty, and that my darling is
-very beautiful, and that my husband is very handsome, and that my
-guardian has the brightest and most benevolent face that ever was
-seen, and that they can very [[Well|well]] do without much [[Beauty|beauty]] in me—even
-supposing—.
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Bleak House — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -81263,3 +80909,357 @@ this! The world that sets this right.
 
 When all was still, at a late hour, poor crazed Miss Flite came
 weeping to me and told me she had given her [[Birds|birds]] their liberty.
+
+
+
+
+<span class="atom-split" data-atom="chapter_66" data-title="Bleak House — Chapter 66" data-chapter="Chapter 66" data-kind="chapter"></span>
+
+
+CHAPTER LXVI
+
+Down in Lincolnshire
+
+
+There is a hush upon Chesney Wold in these altered days, as there is
+upon a portion of the family [[history]]. The story goes that Sir
+Leicester paid some who could have spoken out to hold their peace;
+but it is a lame story, feebly whispering and creeping about, and any
+brighter spark of life it shows soon dies away. It is known for
+certain that the handsome [[Lady Dedlock]] lies in the mausoleum in the
+park, where the trees arch darkly overhead, and the owl is heard at
+[[Night|night]] making the woods ring; but whence she was brought [[Home|home]] to be
+laid among the echoes of that solitary place, or how she died, is all
+mystery. Some of her old friends, principally to be found among the
+peachy-cheeked charmers with the [[skeleton]] throats, did once
+occasionally say, as they toyed in a ghastly manner with large
+fans—like charmers reduced to flirting with grim [[Death|death]], after losing
+all their other beaux—did once occasionally say, when the world
+assembled together, that they wondered the ashes of the Dedlocks,
+entombed in the mausoleum, never [[Rose|rose]] against the profanation of her
+company. But the dead-and-gone Dedlocks take it very calmly and have
+never been known to object.
+
+Up from among the fern in the hollow, and winding by the bridle-[[Road|road]]
+among the trees, comes sometimes to this lonely spot the sound of
+horses’ hoofs. Then may be seen Sir Leicester—invalided, bent, and
+almost blind, but of worthy presence yet—riding with a stalwart man
+beside him, constant to his bridle-rein. When they come to a certain
+spot before the mausoleum-door, Sir Leicester’s accustomed [[Horse|horse]]
+stops of his own accord, and Sir Leicester, pulling off his hat, is
+still for a few moments before they ride away.
+
+War rages yet with the audacious Boythorn, though at uncertain
+intervals, and now hotly, and now coolly, flickering like an unsteady
+[[Fire|fire]]. The [[Truth|truth]] is said to be that when Sir Leicester came down to
+Lincolnshire for good, Mr. Boythorn showed a manifest [[Desire|desire]] to
+abandon his right of way and do whatever Sir Leicester would, which
+Sir Leicester, conceiving to be a condescension to his illness or
+misfortune, took in such high dudgeon, and was so magnificently
+aggrieved by, that Mr. Boythorn found himself under the necessity of
+committing a flagrant trespass to restore his neighbour to himself.
+Similarly, Mr. Boythorn continues to post tremendous placards on the
+disputed thoroughfare and (with his bird upon his head) to hold forth
+vehemently against Sir Leicester in the sanctuary of his own [[Home|home]];
+similarly, also, he defies him as of old in the little church by
+testifying a bland unconsciousness of his existence. But it is
+whispered that when he is most ferocious towards his old foe, he is
+really most considerate, and that Sir Leicester, in the dignity of
+being implacable, little supposes how much he is humoured. As little
+does he think how near together he and his antagonist have suffered
+in the fortunes of two sisters, and his antagonist, who knows it now,
+is not the man to tell him. So the quarrel goes on to the
+satisfaction of both.
+
+In one of the lodges of the park—that lodge within sight of the
+[[house]] where, once upon a [[Time|time]], when the waters were out down in
+Lincolnshire, my Lady used to see the keeper’s [[Child|child]]—the stalwart
+man, the trooper formerly, is housed. Some relics of his old calling
+hang upon the walls, and these it is the chosen recreation of a
+little lame man about the stable-yard to keep gleaming bright. A busy
+little man he always is, in the polishing at harness-[[house]] doors, of
+stirrup-irons, bits, curb-[[Chains|chains]], harness bosses, anything in the way
+of a stable-yard that will take a polish, leading a life of friction.
+A shaggy little damaged man, withal, not unlike an old dog of some
+mongrel breed, who has been considerably knocked about. He answers to
+the name of Phil.
+
+A goodly sight it is to see the grand old housekeeper (harder of
+hearing now) going to church on the arm of her son and to
+observe—which few do, for the [[house]] is scant of company in these
+times—the relations of both towards Sir Leicester, and his towards
+them. They have visitors in the high [[Summer|summer]] weather, when a grey
+cloak and umbrella, unknown to Chesney Wold at other periods, are
+seen among the [[Leaves|leaves]]; when two young ladies are occasionally found
+gambolling in sequestered saw-pits and such nooks of the park; and
+when the smoke of two pipes wreathes away into the fragrant evening
+air from the trooper’s door. Then is a fife heard trolling within the
+lodge on the inspiring topic of the “British Grenadiers”; and as the
+evening closes in, a gruff inflexible voice is heard to say, while
+two men pace together up and down, “But I never own to it before the
+old girl. Discipline must be maintained.”
+
+The greater part of the [[house]] is shut up, and it is a show-[[house]] no
+longer; yet Sir Leicester holds his shrunken state in the long
+drawing-room for all that, and reposes in his old place before my
+Lady’s picture. Closed in by [[Night|night]] with broad screens, and illumined
+only in that part, the light of the drawing-room seems gradually
+contracting and dwindling until it shall be no more. A little more,
+in [[Truth|truth]], and it will be all extinguished for Sir Leicester; and the
+damp door in the mausoleum which shuts so tight, and looks so
+obdurate, will have opened and received him.
+
+[[Volumnia]], growing with the flight of [[Time|time]] pinker as to the red in her
+face, and yellower as to the white, reads to Sir Leicester in the
+long evenings and is driven to various artifices to conceal her
+yawns, of which the chief and most efficacious is the insertion of
+the pearl necklace between her rosy lips. Long-winded treatises on
+the Buffy and Boodle question, showing how Buffy is immaculate and
+Boodle villainous, and how the country is lost by being all Boodle
+and no Buffy, or saved by being all Buffy and no Boodle (it must be
+one of the two, and cannot be anything else), are the staple of her
+reading. Sir Leicester is not particular what it is and does not
+appear to follow it very closely, further than that he always comes
+broad awake the moment [[Volumnia]] ventures to leave off, and sonorously
+repeating her last words, begs with some displeasure to know if she
+finds herself fatigued. However, [[Volumnia]], in the course of her
+bird-like hopping about and pecking at papers, has alighted on a
+memorandum concerning herself in the event of “anything happening” to
+her kinsman, which is handsome compensation for an extensive course
+of reading and holds even the dragon Boredom at bay.
+
+The cousins generally are rather shy of Chesney Wold in its dullness,
+but take to it a little in the shooting season, when guns are heard
+in the plantations, and a few scattered beaters and keepers wait at
+the old places of appointment for low-spirited twos and threes of
+cousins. The debilitated cousin, more debilitated by the dreariness
+of the place, gets into a fearful state of depression, groaning under
+penitential sofa-pillows in his gunless hours and protesting that
+such fernal old jail’s—nough t’sew fler up—frever.
+
+The only great occasions for [[Volumnia]] in this changed aspect of the
+place in Lincolnshire are those occasions, rare and widely separated,
+when something is to be done for the county or the country in the way
+of gracing a public ball. Then, indeed, does the tuckered sylph come
+out in fairy form and proceed with joy under cousinly escort to the
+exhausted old assembly-room, fourteen heavy miles off, which, during
+three hundred and sixty-four days and nights of every ordinary year,
+is a kind of antipodean lumber-room full of old chairs and tables
+upside down. Then, indeed, does she captivate all hearts by her
+condescension, by her girlish vivacity, and by her skipping about as
+in the days when the hideous old general with the mouth too full of
+teeth had not cut one of them at two guineas each. Then does she
+twirl and twine, a [[Pastoral|pastoral]] nymph of good family, through the mazes
+of the [[Dance|dance]]. Then do the swains appear with tea, with lemonade, with
+sandwiches, with homage. Then is she kind and cruel, stately and
+unassuming, various, beautifully wilful. Then is there a singular
+kind of parallel between her and the little glass chandeliers of
+another age embellishing that assembly-room, which, with their meagre
+stems, their spare little drops, their disappointing knobs where no
+drops are, their bare little stalks from which knobs and drops have
+both departed, and their little feeble prismatic twinkling, all seem
+Volumnias.
+
+For the rest, Lincolnshire life to [[Volumnia]] is a vast blank of
+overgrown [[house]] looking out upon trees, sighing, wringing their
+hands, bowing their heads, and casting their [[Tears|tears]] upon the
+[[Window|window]]-panes in monotonous depressions. A labyrinth of grandeur, less
+the property of an old family of human beings and their ghostly
+likenesses than of an old family of echoings and thunderings which
+start out of their hundred graves at every sound and go resounding
+through the building. A waste of unused passages and staircases in
+which to drop a comb upon a bedroom floor at [[Night|night]] is to send a
+stealthy footfall on an errand through the [[house]]. A place where few
+people care to go about [[Alone|alone]], where a maid screams if an ash drops
+from the [[Fire|fire]], takes to crying at all times and [[Seasons|seasons]], becomes the
+victim of a low disorder of the spirits, and gives warning and
+departs.
+
+Thus Chesney Wold. With so much of itself abandoned to darkness and
+vacancy; with so little change under the [[Summer|summer]] shining or the wintry
+lowering; so sombre and motionless always—no [[Flag|flag]] flying now by day,
+no rows of lights sparkling by [[Night|night]]; with no family to come and go,
+no visitors to be the souls of pale cold shapes of rooms, no stir of
+life about it—passion and [[Pride|pride]], even to the stranger’s eye, have
+died away from the place in Lincolnshire and yielded it to dull
+repose.
+
+
+
+
+<span class="atom-split" data-atom="chapter_67" data-title="Bleak House — Chapter 67" data-chapter="Chapter 67" data-kind="chapter"></span>
+
+
+CHAPTER LXVII
+
+The Close of Esther’s Narrative
+
+
+Full seven happy years I have been the mistress of Bleak [[house|House]]. The
+few words that I have to add to what I have written are soon penned;
+then I and the unknown friend to whom I write will part for ever. Not
+without much dear remembrance on my side. Not without some, I [[Hope|hope]],
+on his or hers.
+
+They gave my darling into my arms, and through many weeks I never
+left her. The little [[Child|child]] who was to have done so much was born
+before the turf was planted on its father’s [[Grave|grave]]. It was a boy; and
+I, my husband, and my guardian gave him his father’s name.
+
+The help that my dear counted on did come to her, though it came, in
+the eternal wisdom, for another purpose. Though to bless and restore
+his mother, not his father, was the errand of this baby, its power
+was mighty to do it. When I saw the strength of the weak little hand
+and how its touch could heal my darling’s heart and raised [[Hope|hope]]
+within her, I felt a new sense of the goodness and the tenderness of
+God.
+
+They throve, and by degrees I saw my dear girl pass into my country
+[[Garden|garden]] and walk there with her infant in her arms. I was married
+then. I was the happiest of the happy.
+
+It was at this [[Time|time]] that my guardian joined us and asked Ada when she
+would come [[Home|home]].
+
+“Both houses are your [[Home|home]], my dear,” said he, “but the older Bleak
+[[house|House]] claims priority. When you and my boy are strong enough to do
+it, come and take possession of your [[Home|home]].”
+
+Ada called him “her dearest cousin, John.” But he said, no, it must
+be guardian now. He was her guardian henceforth, and the boy’s; and
+he had an old association with the name. So she called him guardian,
+and has called him guardian ever since. The children know him by no
+other name. I say the children; I have two little daughters.
+
+It is difficult to believe that Charley (round-eyed still, and not at
+all grammatical) is married to a miller in our neighbourhood; yet so
+it is; and even now, looking up from my desk as I write early in the
+morning at my [[Summer|summer]] [[Window|window]], I see the very mill beginning to go
+round. I [[Hope|hope]] the miller will not spoil Charley; but he is very fond
+of her, and Charley is rather vain of such a match, for he is [[Well|well]] to
+do and was in great request. So far as my small maid is concerned, I
+might suppose [[Time|time]] to have stood for seven years as still as the mill
+did half an hour ago, since little [[Emma]], Charley’s sister, is exactly
+what Charley used to be. As to Tom, Charley’s brother, I am really
+afraid to say what he did at school in ciphering, but I think it was
+decimals. He is apprenticed to the miller, whatever it was, and is a
+good bashful fellow, always falling in [[Love|love]] with somebody and being
+ashamed of it.
+
+Caddy Jellyby passed her very last holidays with us and was a dearer
+creature than ever, perpetually dancing in and out of the [[house]] with
+the children as if she had never given a dancing-lesson in her life.
+Caddy keeps her own little carriage now instead of hiring one, and
+lives full two miles further westward than Newman Street. She works
+very hard, her husband (an excellent one) being lame and able to do
+very little. Still, she is more than contented and does all she has
+to do with all her heart. Mr. Jellyby spends his evenings at her new
+[[house]] with his head against the wall as he used to do in her old one.
+I have heard that Mrs. Jellyby was understood to suffer great
+mortification from her daughter’s ignoble [[Marriage|marriage]] and pursuits, but
+I [[Hope|hope]] she got over it in [[Time|time]]. She has been disappointed in
+Borrioboola-Gha, which turned out a failure in consequence of the
+[[King|king]] of Borrioboola wanting to sell everybody—who survived the
+climate—for rum, but she has taken up with the rights of women to
+sit in Parliament, and Caddy tells me it is a mission involving more
+correspondence than the old one. I had almost forgotten Caddy’s poor
+little girl. She is not such a mite now, but she is deaf and dumb. I
+believe there never was a better mother than Caddy, who learns, in
+her scanty intervals of leisure, innumerable deaf and dumb arts to
+soften the affliction of her [[Child|child]].
+
+As if I were never to have done with Caddy, I am reminded here of
+Peepy and old Mr. Turveydrop. Peepy is in the Custom [[house|House]], and doing
+extremely [[Well|well]]. Old Mr. Turveydrop, very apoplectic, still exhibits
+his deportment about town, still enjoys himself in the old manner, is
+still believed in in the old way. He is constant in his patronage of
+Peepy and is understood to have bequeathed him a favourite French
+[[Clock|clock]] in his dressing-room—which is not his property.
+
+With the first money we saved at [[Home|home]], we added to our pretty [[house]]
+by throwing out a little growlery expressly for my guardian, which we
+inaugurated with great splendour the next [[Time|time]] he came down to see
+us. I try to write all this lightly, because my heart is full in
+drawing to an end, but when I write of him, my [[Tears|tears]] will have their
+way.
+
+I never look at him but I hear our poor dear [[Richard]] calling him a
+good man. To Ada and her pretty boy, he is the fondest father; to me
+he is what he has ever been, and what name can I give to that? He is
+my husband’s best and dearest friend, he is our children’s darling,
+he is the object of our deepest [[Love|love]] and veneration. Yet while I feel
+towards him as if he were a superior being, I am so familiar with him
+and so easy with him that I almost [[Wonder|wonder]] at myself. I have never
+lost my old names, nor has he lost his; nor do I ever, when he is
+with us, sit in any other place than in my old chair at his side,
+Dame Trot, Dame Durden, Little Woman—all just the same as ever; and
+I answer, “Yes, dear guardian!” just the same.
+
+I have never known the [[Wind|wind]] to be in the east for a single moment
+since the day when he took me to the porch to read the name. I
+remarked to him once that the [[Wind|wind]] seemed never in the east now, and
+he said, no, truly; it had finally departed from that quarter on that
+very day.
+
+I think my darling girl is more beautiful than ever. The sorrow that
+has been in her face—for it is not there now—seems to have purified
+even its [[Innocent|innocent]] expression and to have given it a diviner quality.
+Sometimes when I raise my eyes and see her in the black dress that
+she still wears, teaching my [[Richard]], I feel—it is difficult to
+express—as if it were so good to know that she remembers her dear
+Esther in her prayers.
+
+I call him my [[Richard]]! But he says that he has two mamas, and I am
+one.
+
+We are not rich in the bank, but we have always prospered, and we
+have quite enough. I never walk out with my husband but I hear the
+people bless him. I never go into a [[house]] of any degree but I hear
+his praises or see them in grateful eyes. I never lie down at [[Night|night]]
+but I know that in the course of that day he has alleviated [[Pain|pain]] and
+soothed some fellow-creature in the [[Time|time]] of need. I know that from
+the beds of those who were past recovery, thanks have often, often
+gone up, in the last hour, for his patient ministration. Is not this
+to be rich?
+
+The people even praise me as the doctor’s wife. The people even like
+me as I go about, and make so much of me that I am quite abashed. I
+owe it all to him, my [[Love|love]], my [[Pride|pride]]! They like me for his sake, as I
+do everything I do in life for his sake.
+
+A [[Night|night]] or two ago, after bustling about preparing for my darling and
+my guardian and little [[Richard]], who are coming to-morrow, I was
+sitting out in the porch of all places, that dearly memorable porch,
+when Allan came [[Home|home]]. So he said, “My precious little woman, what are
+you doing here?” And I said, “The [[Moon|moon]] is shining so brightly, Allan,
+and the [[Night|night]] is so delicious, that I have been sitting here
+thinking.”
+
+“What have you been thinking about, my dear?” said Allan then.
+
+“How curious you are!” said I. “I am almost ashamed to tell you, but
+I will. I have been thinking about my old looks—such as they were.”
+
+“And what have you been thinking about THEM, my busy bee?” said
+Allan.
+
+“I have been thinking that I thought it was impossible that you COULD
+have loved me any better, even if I had retained them.”
+
+“‘Such as they were’?” said Allan, laughing.
+
+“Such as they were, of course.”
+
+“My dear Dame Durden,” said Allan, drawing my arm through his, “do
+you ever look in the glass?”
+
+“You know I do; you see me do it.”
+
+“And don’t you know that you are prettier than you ever were?”
+
+I did not know that; I am not certain that I know it now. But I know
+that my dearest little pets are very pretty, and that my darling is
+very beautiful, and that my husband is very handsome, and that my
+guardian has the brightest and most benevolent face that ever was
+seen, and that they can very [[Well|well]] do without much [[Beauty|beauty]] in me—even
+supposing—.

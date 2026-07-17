@@ -7386,3202 +7386,6 @@ cuore di tutte le cose e la fine del viaggio.
 
 
 
-<span class="atom-split" data-atom="story_06_rostand" data-title="VariedTypes — Rostand" data-chapter="Rostand" data-kind="story"></span>
-
-
-ROSTAND
-
-When "Cyrano de Bergerac" was published, it bore the subordinate title
-
-of a heroic [[Comedy|comedy]]. We have no tradition in English literature which
-
-would justify us in calling a [[Comedy|comedy]] heroic, though there was once a
-
-poet who called a [[Comedy|comedy]] divine. By the current modern conception, the
-
-[[Hero|hero]] has his place in a [[Tragedy|tragedy]], and the one kind of strength which is
-
-systematically denied to him is the strength to succeed. That the power
-
-of a man's spirit might possibly go to the length of turning a [[Tragedy|tragedy]]
-
-into a [[Comedy|comedy]] is not admitted; nevertheless, almost all the primitive
-
-legends of the world are comedies, not only in the sense that they have
-
-a happy ending, but in the sense that they are based upon a certain
-
-optimistic assumption that the [[Hero|hero]] is destined to be the destroyer of
-
-the [[Monster|monster]]. Singularly enough, this modern idea of the essential
-
-disastrous character of life, when seriously considered, connects itself
-
-with a hyper-æsthetic view of [[Tragedy|tragedy]] and [[Comedy|comedy]] which is largely due
-
-to the influence of modern France, from which the great heroic comedies
-
-of Monsieur Rostand have come. The French genius has an instinct for
-
-remedying its own evil work, and France gives always the best cure for
-
-"Frenchiness." The idea of [[Comedy|comedy]] which is held in England by the school
-
-which pays most attention to the technical niceties of art is a view
-
-which renders such an idea as that of heroic [[Comedy|comedy]] quite impossible.
-
-The fundamental conception in the minds of the majority of our younger
-
-writers is that [[Comedy|comedy]] is, _par excellence_, a fragile thing. It is
-
-conceived to be a conventional world of the most absolutely delicate and
-
-gimcrack description. Such stories as Mr. Max Beerbohm's "Happy
-
-Hypocrite" are conceptions which would vanish or fall into utter
-
-nonsense if viewed by one single degree too seriously. But great [[Comedy|comedy]],
-
-the [[Comedy|comedy]] of Shakespeare or Sterne, not only can be, but must be, taken
-
-seriously. There is nothing to which a man must give himself up with
-
-more [[Faith|faith]] and [[Self|self]]-abandonment than to genuine laughter. In such
-
-comedies one laughs with the heroes, and not at them. The [[Humour|humour]] which
-
-steeps the stories of [[Falstaff]] and Uncle Toby is a cosmic and
-
-philosophic [[Humour|humour]], a geniality which goes down to the depths. It is not
-
-superficial reading, it is not even, strictly speaking, light reading.
-
-Our sympathies are as much committed to the characters as if they were
-
-the predestined victims in a [[Greek Tragedy|Greek tragedy]]. The modern writer of
-
-comedies may be said to boast of the brittleness of his characters. He
-
-seems always on the eve of knocking his puppets to pieces. When John
-
-[[Oliver]] Hobbes wrote for the first [[Time|time]] a [[Comedy|comedy]] of serious emotions, she
-
-named it, with a thinly-disguised contempt for her own work, "A
-
-Sentimental [[Comedy]]." The ground of this conception of the artificiality
-
-of [[Comedy|comedy]] is a profound pessimism. Life in the eyes of these mournful
-
-buffoons is itself an utterly tragic thing; [[Comedy|comedy]] must be as hollow as
-
-a grinning mask. It is a refuge from the world, and not even, properly
-
-speaking, a part of it. Their wit is a thin sheet of shining ice over
-
-the eternal waters of bitterness.
-
-"Cyrano de Bergerac" came to us as the new decoration of an old [[Truth|truth]],
-
-that merriment was one of the world's natural [[Flowers|flowers]], and not one of
-
-its exotics. The gigantesque levity, the flamboyant eloquence, the
-
-Rabelaisian puns and digressions were seen to be once more what they had
-
-been in Rabelais, the mere outbursts of a human sympathy and bravado as
-
-old and solid as the [[Stars|stars]]. The human spirit demanded wit as headlong
-
-and haughty as its will. All was expressed in the words of Cyrano at his
-
-highest moment of happiness, _Il me faut des géants_. An essential
-
-aspect of this question of heroic [[Comedy|comedy]] is the question of drama in
-
-rhyme. There is nothing that affords so easy a point of attack for the
-
-dramatic realist as the conduct of a play in verse. According to his
-
-canons, it is indeed absurd to represent a number of characters facing
-
-some terrible crisis in their lives by capping rhymes like a party
-
-playing _bouts rimés_. In his eyes it must appear somewhat ridiculous
-
-that two enemies taunting each other with insupportable insults should
-
-obligingly provide each other with metrical spacing and neat and
-
-convenient rhymes. But the whole of this view rests finally upon the
-
-fact that few persons, if any, to-day understand what is meant by a
-
-poetical play. It is a singular thing that those poetical plays which
-
-are now written in England by the most advanced students of the drama
-
-follow exclusively the lines of Maeterlinck, and use verse and rhyme for
-
-the adornment of a profoundly tragic theme. But rhyme has a supreme
-
-appropriateness for the treatment of the higher [[Comedy|comedy]]. The land of
-
-heroic [[Comedy|comedy]] is, as it were, a paradise of [[lovers]], in which it is not
-
-difficult to imagine that men could talk poetry all day long. It is far
-
-more conceivable that men's speech should flower naturally into these
-
-harmonious forms, when they are filled with the essential spirit of
-
-youth, than when they are sitting gloomily in the presence of immemorial
-
-destiny. The great error consists in supposing that poetry is an
-
-unnatural form of language. We should all like to speak poetry at the
-
-moment when we truly live, and if we do not speak, it is because we have
-
-an impediment in our speech. It is not [[Song|song]] that is the narrow or
-
-artificial thing, it is conversation that is a broken and stammering
-
-attempt at [[Song|song]]. When we see men in a spiritual extravaganza, like
-
-"Cyrano de Bergerac," speaking in rhyme, it is not our language
-
-disguised or distorted, but our language rounded and made whole. Rhymes
-
-answer each other as the sexes in [[Flowers|flowers]] and in humanity answer each
-
-other. Men do not speak so, it is true. Even when they are inspired or
-
-in [[Love|love]] they talk inanities. But the poetic [[Comedy|comedy]] does not misrepresent
-
-the speech one half so much as the speech misrepresents the [[Soul|soul]].
-
-Monsieur Rostand showed even more than his usual insight when he called
-
-"Cyrano de Bergerac" a [[Comedy|comedy]], despite the fact that, strictly speaking,
-
-it ends with disappointment and [[Death|death]]. The essence of [[Tragedy|tragedy]] is a
-
-spiritual breakdown or decline, and in the great French play the
-
-spiritual sentiment mounts unceasingly until the last line. It is not
-
-the facts themselves, but our feeling about them, that makes [[Tragedy|tragedy]] and
-
-[[Comedy|comedy]], and [[Death|death]] is more joyful in Rostand than life in Maeterlinck.
-
-The same apparent contradiction holds good in the case of the drama of
-
-"L'Aiglon," now being performed with so much [[success]]. Although the [[Hero|hero]]
-
-is a weakling, the subject a fiasco, the end a premature [[Death|death]] and a
-
-personal [[Disillusionment|disillusionment]], yet, in spite of this theme, which might have
-
-been chosen for its depressing qualities, the unconquerable pæan of the
-
-praise of things, the ungovernable gaiety of the poet's [[Song|song]] swells so
-
-high that at the end it seems to drown all the weak voices of the
-
-characters in one crashing [[Chorus|chorus]] of great things and great men. A
-
-multitude of mottoes might be taken from the play to indicate and
-
-illustrate, not only its own spirit, but much of the spirit of modern
-
-life. When in the vision of the field of Wagram the horrible voices of
-
-the wounded cry out, _Les corbeaux, les corbeaux_, the Duke, overwhelmed
-
-with a [[nightmare]] of hideous trivialities, cries out, _Où, où, sont les
-
-aigles?_ That antithesis might stand [[Alone|alone]] as an invocation at the
-
-beginning of the twentieth century to the spirit of heroic [[Comedy|comedy]]. When
-
-an ex-General of Napoleon is asked his reason for having betrayed the
-
-Emperor, he replies, _La fatigue_, and at that a veteran private of the
-
-Great Army rushes forward, and crying passionately, _Et nous?_ pours out
-
-a terrible description of the life lived by the commoner soldier.
-
-To-day, when pessimism is almost as much a symbol of wealth and fashion
-
-as jewels or cigars, when the pampered heirs of the ages can sum up life
-
-in few other words but _la fatigue_, there might surely come a cry from
-
-the vast mass of common humanity from the beginning--_et nous?_ It is
-
-this potentiality for enthusiasm among the mass of men that makes the
-
-function of [[Comedy|comedy]] at once common and [[Sublime|sublime]]. Shakespeare's "Much Ado
-
-About Nothing" is a great [[Comedy|comedy]], because behind it is the whole
-
-pressure of that [[Love|love]] of [[Love|love]] which is the youth of the world, which is
-
-common to all the young, especially to those who swear they will die
-
-bachelors and old maids. "[[Love's Labour's Lost]]" is filled with the same
-
-energy, and there it falls even more definitely into the scope of our
-
-subject, since it is a [[Comedy|comedy]] in rhyme in which all men speak lyrically
-
-as naturally as the [[Birds|birds]] sing in pairing [[Time|time]]. What the [[Love|love]] of [[Love|love]]
-
-is to the Shakespearean comedies, that other and more mysterious human
-
-passion, the [[Love|love]] of [[Death|death]], is to "L'Aiglon." Whether we shall ever have
-
-in England a new tradition of poetic [[Comedy|comedy]] it is difficult at present
-
-to say, but we shall assuredly never have it until we realise that
-
-[[Comedy|comedy]] is built upon everlasting foundations in the [[Nature|nature]] of things,
-
-that it is not a thing too light to capture, but too deep to plumb.
-
-Monsieur Rostand, in his description of the Battle of Wagram, does not
-
-shrink from bringing about the Duke's ears the frightful voices of
-
-actual battle, of men torn by crows, and suffocated with [[Blood|blood]], but when
-
-the Duke, terrified at these dreadful appeals, asks them for their final
-
-word, they all cry together _Vive l'Empereur!_ Monsieur Rostand,
-
-perhaps, did not know that he was writing an [[Allegory|allegory]]. To me that field
-
-of Wagram is the field of the modern war of literature. We hear nothing
-
-but the voices of [[Pain|pain]]; the whole is one phonograph of horror. It is
-
-right that we should hear these things, it is right that not one of
-
-them should be silenced; but these cries of distress are not in life, as
-
-they are in modern art, the only voices; they are the voices of men, but
-
-not the voice of man. When questioned finally and seriously as to their
-
-conception of their destiny, men have from the beginning of [[Time|time]]
-
-answered in a thousand philosophies and religions with a single voice
-
-and in a sense most sacred and tremendous, _Vive l'Empereur_.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-ROSTAND
-
-Quando fu pubblicato il «Cyrano de Bergerac», recava il sottotitolo
-
-di [[Comedy|commedia]] eroica. Non abbiamo alcuna tradizione, nella letteratura inglese, che
-
-ci autorizzi a chiamare eroica una [[Comedy|commedia]], benché vi fosse una volta un
-
-poeta che chiamò divina una [[Comedy|commedia]]. Secondo la concezione moderna corrente, l'
-
-[[Hero|eroe]] ha il suo posto in una [[Tragedy|tragedia]], e l'unica specie di forza che gli è
-
-sistematicamente negata è la forza di riuscire. Che la potenza
-
-dello spirito di un uomo possa spingersi fino a mutare una [[Tragedy|tragedia]]
-
-in [[Comedy|commedia]] non è ammesso; nondimeno, quasi tutte le primitive
-
-leggende del mondo sono commedie, non solo nel senso che hanno
-
-un lieto fine, ma nel senso che si fondano su una certa
-
-ottimistica assunzione che l'[[Hero|eroe]] sia destinato a essere il distruttore del
-
-[[Monster|mostro]]. Cosa abbastanza singolare, questa idea moderna dell'essenziale
-
-carattere disastroso della vita, se seriamente considerata, si collega
-
-a una visione iperestetica della [[Tragedy|tragedia]] e della [[Comedy|commedia]] che si deve in gran parte
-
-all'influenza della Francia moderna, da cui sono venute le grandi commedie eroiche
-
-di Monsieur Rostand. Il genio francese ha un istinto per
-
-rimediare alla propria opera malvagia, e la Francia offre sempre il miglior rimedio alla
-
-«francesità». L'idea di [[Comedy|commedia]] sostenuta in Inghilterra dalla scuola
-
-che presta la massima attenzione alle finezze tecniche dell'arte è una veduta
-
-che rende del tutto impossibile un'idea come quella della [[Comedy|commedia]] eroica.
-
-La concezione fondamentale nella mente della maggioranza dei nostri più giovani
-
-scrittori è che la [[Comedy|commedia]] sia, _par excellence_, una cosa fragile. È
-
-concepita come un mondo convenzionale della più assolutamente delicata e
-
-cianfrusagliosa fattura. Storie come l'«Ipocrita felice» del signor Max
-
-Beerbohm sono concezioni che svanirebbero o precipiterebbero nel più totale
-
-assurdità se guardati con un solo grado di troppa serietà. Ma la grande [[Comedy|commedia]],
-
-la [[Comedy|commedia]] di Shakespeare o di Sterne, non solo può, ma deve essere presa
-
-sul serio. Non vi è nulla a cui un uomo debba abbandonarsi con
-
-più [[Faith|fede]] e [[Self|auto]]-abbandono che alla genuina risata. In tali
-
-commedie si ride con gli eroi, e non di loro. L'[[Humour|umorismo]] che
-
-impregna le storie di [[Falstaff]] e dello Zio Toby è un umorismo cosmico e
-
-filosofico [[Humour|umorismo]], una giovialità che scende fino agli abissi. Non è
-
-una lettura superficiale, non è nemmeno, a rigore, una lettura leggera.
-
-Le nostre simpatie sono coinvolte nei personaggi tanto quanto se fossero
-
-le vittime predestinate di una [[Greek Tragedy|tragedia greca]]. Il moderno scrittore di
-
-commedie si può dire che si vanti della fragilità dei suoi personaggi. Egli
-
-sembra sempre sul punto di ridurre in pezzi i suoi burattini. Quando John
-
-[[Oliver]] Hobbes scrisse per la prima [[Time|volta]] una [[Comedy|commedia]] di serie emozioni, ella
-
-intitolò, con un disprezzo malamente celato per la propria opera, «Una
-
-[[Comedy|commedia]] sentimentale». Il fondamento di questa concezione dell'artificiosità
-
-della [[Comedy|commedia]] è un profondo pessimismo. La vita, agli occhi di questi lugubri
-
-buffoni, è essa stessa cosa del tutto tragica; la [[Comedy|commedia]] dev'essere vuota come
-
-una maschera ghignante. È un rifugio dal mondo, e nemmeno, a rigor di
-
-termini, una parte di esso. Il loro spirito è una sottile lastra di ghiaccio splendente sopra
-
-le eterne acque dell'amarezza.
-
-«Cyrano de Bergerac» ci giunse come il nuovo ornamento di una vecchia [[Truth|verità]],
-
-che l'allegria fosse uno dei naturali [[Flowers|fiori]] del mondo, e non una delle
-
-sue piante esotiche. La leggerezza gigantesca, l'eloquenza fiammeggiante, i
-
-giochi di parole e le digressioni rabelaisiane si videro essere ancora una volta ciò che erano
-
-stati in Rabelais, i meri prorompimenti di una simpatia umana e di una spavalderia tanto
-
-antiche e solide quanto le [[Stars|stelle]]. Lo spirito umano esigeva uno spirito impetuoso
-
-e altero quanto la sua volontà. Tutto era espresso nelle parole di Cyrano nel suo
-
-più alto momento di felicità, _Il me faut des géants_. Un aspetto essenziale
-
-di questa questione della [[Comedy|commedia]] eroica è la questione del dramma in
-
-rima. Non vi è nulla che offra un punto d'attacco così facile al
-
-realista drammatico quanto la condotta di un'opera in versi. Secondo i suoi
-
-canoni, è davvero assurdo rappresentare una serie di personaggi che affrontano
-
-qualche terribile crisi della loro vita rincorrendo rime come una brigata
-
-che gioca ai _bouts rimés_. Ai suoi occhi deve apparire alquanto ridicolo
-
-che due nemici, schernendosi a vicenda con insulti insopportabili, debbano
-
-cortesemente fornirsi l'un l'altro spaziature metriche e rime nette e
-
-convenienti. Ma tutta questa veduta poggia in ultimo sul
-
-fatto che poche persone, se pur alcune, comprendono oggi cosa s'intenda per un'
-
-opera poetica. È cosa singolare che quelle opere poetiche che
-
-sono oggi scritte in Inghilterra dai più avanzati studiosi del dramma
-
-seguano esclusivamente le linee di Maeterlinck, e usino il verso e la rima per
-
-l'ornamento di un tema profondamente tragico. Ma la rima ha una suprema
-
-appropriatezza per il trattamento della [[Comedy|commedia]] più alta. La terra della
-
-[[Comedy|commedia]] eroica è, per così dire, un paradiso di [[lovers|amanti]], in cui non è
-
-difficile immaginare che gli uomini possano parlare in poesia tutto il giorno. È assai
-
-più concepibile che il linguaggio degli uomini fiorisca naturalmente in queste
-
-forme armoniose, quando sono colmi dell'essenziale spirito della
-
-giovinezza, che quando siedono cupamente al cospetto dell'immemoriale
-
-destino. Il grande errore consiste nel supporre che la poesia sia una
-
-forma innaturale di linguaggio. A tutti noi piacerebbe parlare in poesia nel
-
-momento in cui viviamo davvero, e se non parliamo, è perché abbiamo
-
-un impedimento nella parola. Non è il [[Song|canto]] la cosa angusta o
-
-artificiale, è la conversazione a essere un tentativo spezzato e balbettante
-
-di [[Song|canto]]. Quando vediamo uomini in una stravaganza spirituale, come
-
-«Cyrano de Bergerac», parlare in rima, non è la nostra lingua
-
-travestita o distorta, ma la nostra lingua arrotondata e resa intera. Le rime
-
-si rispondono a vicenda come i sessi nei [[Flowers|fiori]] e nell'umanità si rispondono a
-
-vicenda. Gli uomini non parlano così, è vero. Persino quando sono ispirati o
-
-in [[Love|amore]] dicono inezie. Ma la [[Comedy|commedia]] poetica non travisa
-
-il discorso neppure la metà di quanto il discorso travisa l'[[Soul|anima]].
-
-Monsieur Rostand mostrò ancor più della sua consueta acutezza quando chiamò
-
-«Cyrano de Bergerac» una [[Comedy|commedia]], nonostante il fatto che, a rigore,
-
-esso finisca con la delusione e la [[Death|morte]]. L'essenza della [[Tragedy|tragedia]] è un
-
-crollo o declino spirituale, e nel grande dramma francese il
-
-sentimento spirituale sale senza sosta fino all'ultima riga. Non sono
-
-i fatti stessi, ma il nostro sentimento verso di essi, a fare la [[Tragedy|tragedia]] e la
-
-[[Comedy|commedia]], e la [[Death|morte]] è più gioiosa in Rostand di quanto lo sia la vita in Maeterlinck.
-
-La stessa apparente contraddizione vale nel caso del dramma di
-
-«L'Aiglon», ora rappresentato con tanto [[success|successo]]. Benché l'[[Hero|eroe]]
-
-sia un debole, il soggetto un fiasco, il finale una [[Death|morte]] prematura e una
-
-[[Disillusionment|disillusione]] personale, tuttavia, a dispetto di questo tema, che avrebbe potuto
-
-essere scelto per le sue qualità deprimenti, l'invincibile peana di
-
-lode delle cose, l'ingovernabile gaiezza del [[Song|canto]] del poeta si gonfia così
-
-alta che alla fine sembra sommergere tutte le deboli voci dei
-
-personaggi in un unico fragoroso [[Chorus|coro]] di grandi cose e grandi uomini. Una
-
-moltitudine di motti potrebbe trarsi dall'opera per indicare e
-
-illustrare, non solo il suo spirito, ma molto dello spirito della vita
-
-moderna. Quando, nella visione del campo di Wagram, le orribili voci dei
-
-feriti gridano, _Les corbeaux, les corbeaux_, il Duca, sopraffatto
-
-da un [[nightmare|incubo]] di orrende banalità, grida, _Où, où, sont les
-
-aigles?_ Quell'antitesi potrebbe reggersi [[Alone|da sola]] come un'invocazione all'
-
-inizio del ventesimo secolo allo spirito della [[Comedy|commedia]] eroica. Quando
-
-a un ex-generale di Napoleone si chiede la ragione per cui tradì l'
-
-Imperatore, egli risponde, _La fatigue_, e a ciò un veterano soldato semplice della
-
-Grande Armata si slancia avanti, e gridando appassionatamente, _Et nous?_ riversa
-
-una terribile descrizione della vita vissuta dal soldato più umile.
-
-Oggi, quando il pessimismo è quasi tanto un simbolo di ricchezza e di moda
-
-quanto i gioielli o i sigari, quando i viziati eredi dei secoli sanno riassumere la vita
-
-con poche altre parole se non _la fatigue_, potrebbe di certo levarsi un grido dalla
-
-vasta massa dell'umanità comune fin dagli inizi — _et nous?_ È
-
-questa potenzialità di entusiasmo tra la massa degli uomini che rende la
-
-funzione della [[Comedy|commedia]] al tempo stesso comune e [[Sublime|sublime]]. «Molto rumore
-
-per nulla» di Shakespeare è una grande [[Comedy|commedia]], perché dietro di essa c'è tutta la
-
-pressione di quell'[[Love|amore]] dell'[[Love|amore]] che è la giovinezza del mondo, che è
-
-comune a tutti i giovani, specie a coloro che giurano che moriranno
-
-scapoli e zitelle. «[[Love's Labour's Lost|Pene d'amor perdute]]» è colmo della stessa
-
-energia, e lì rientra ancor più decisamente nell'ambito del nostro
-
-soggetto, poiché è una [[Comedy|commedia]] in rima in cui tutti gli uomini parlano liricamente
-
-con la stessa naturalezza con cui gli [[Birds|uccelli]] cantano nella [[Time|stagione]] degli amori. Ciò che l'[[Love|amore]] dell'[[Love|amore]]
-
-è per le commedie shakespeariane, quell'altra e più misteriosa umana
-
-passione, l'[[Love|amore]] della [[Death|morte]], lo è per «L'Aiglon». Se mai avremo
-
-in Inghilterra una nuova tradizione di [[Comedy|commedia]] poetica è difficile al presente
-
-dirlo, ma di certo non l'avremo mai finché non comprenderemo che la
-
-[[Comedy|commedia]] è edificata su eterne fondamenta nella [[Nature|natura]] delle cose,
-
-che non è cosa troppo lieve da afferrare, ma troppo profonda da scandagliare.
-
-Il signor Rostand, nella sua descrizione della Battaglia di Wagram, non
-
-esita a portare alle orecchie del Duca le spaventose voci della
-
-battaglia reale, di uomini dilaniati dai corvi, e soffocati nel [[Blood|sangue]], ma quando
-
-il Duca, atterrito da questi terribili richiami, chiede loro la loro ultima
-
-finale, tutti gridano insieme _Vive l'Empereur!_ Monsieur Rostand,
-
-forse, non sapeva di scrivere un'[[Allegory|allegoria]]. Per me quel campo
-
-di Wagram è il campo della moderna guerra della letteratura. Non udiamo nulla
-
-se non le voci del [[Pain|dolore]]; il tutto è un unico fonografo d'orrore. È
-
-giusto che udiamo queste cose, è giusto che nessuna di
-
-esse sia messa a tacere; ma questi gridi d'angoscia non sono, nella vita, come
-
-lo sono nell'arte moderna, le uniche voci; sono le voci degli uomini, ma
-
-non la voce dell'uomo. Interrogati infine e seriamente sulla loro
-
-concezione del proprio destino, gli uomini hanno fin dal principio del [[Time|tempo]]
-
-risposto in mille filosofie e religioni con una sola voce
-
-e in un senso sacratissimo e tremendo, _Vive l'Empereur_.
-
-
-
-<span class="atom-split" data-atom="story_09_savonarola" data-title="VariedTypes — Savonarola" data-chapter="Savonarola" data-kind="story"></span>
-
-
-SAVONAROLA
-
-Savonarola is a man whom we shall probably never understand until we
-
-know what horror may lie at the heart of civilisation. This we shall not
-
-know until we are civilised. It may be hoped, in one sense, that we may
-
-never understand Savonarola.
-
-The great deliverers of men have, for the most part, saved them from
-
-calamities which we all recognise as evil, from calamities which are the
-
-ancient enemies of humanity. The great law-givers saved us from anarchy:
-
-the great physicians saved us from pestilence: the great reformers saved
-
-us from starvation. But there is a huge and bottomless evil compared
-
-with which all these are fleabites, the most desolating curse that can
-
-fall upon men or nations, and it has no name except we call it
-
-satisfaction. Savonarola did not save men from anarchy, but from order;
-
-not from pestilence, but from paralysis; not from starvation, but from
-
-luxury. Men like Savonarola are the witnesses to the tremendous
-
-psychological fact at the back of all our brains, but for which no name
-
-has ever been found, that ease is the worst enemy of happiness, and
-
-civilisation potentially the end of man.
-
-For I fancy that Savonarola's thrilling challenge to the luxury of his
-
-day went far deeper than the mere question of sin. The modern
-
-rationalistic admirers of Savonarola, from George Eliot downwards,
-
-dwell, truly enough, upon the sound ethical justification of
-
-Savonarola's anger, upon the hideous and extravagant character of the
-
-crimes which polluted the palaces of the [[Renaissance]]. But they need not
-
-be so anxious to show that Savonarola was no [[ascetic]], that he merely
-
-picked out the black specks of wickedness with the priggish
-
-enlightenment of a member of an Ethical Society. Probably he did hate
-
-the civilisation of his [[Time|time]], and not merely its sins; and that is
-
-precisely where he was infinitely more profound than a modern moralist.
-
-He saw, that the actual crimes were not the only evils: that stolen
-
-jewels and poisoned wine and obscene pictures were merely the symptoms;
-
-that the disease was the complete dependence upon jewels and wine and
-
-pictures. This is a thing constantly forgotten in judging of ascetics
-
-and Puritans in old times. A denunciation of harmless sports did not
-
-always mean an ignorant hatred of what no one but a narrow moralist
-
-would call harmful. Sometimes it meant an exceedingly enlightened hatred
-
-of what no one but a narrow moralist would call harmless. Ascetics are
-
-sometimes more advanced than the average man, as [[Well|well]] as less.
-
-Such, at least, was the hatred in the heart of Savonarola. He was making
-
-war against no trivial human sins, but against godless and thankless
-
-quiescence, against getting used to happiness, the mystic sin by which
-
-all creation fell. He was preaching that severity which is the
-
-sign-manual of youth and [[Hope|hope]]. He was preaching that alertness, that
-
-clean agility and vigilance, which is as necessary to gain pleasure as
-
-to gain holiness, as indispensable in a [[Lover|lover]] as in a monk. A critic has
-
-truly pointed out that Savonarola could not have been fundamentally
-
-anti-æsthetic, since he had such friends as [[Michael]] [[Angelo]], Botticelli,
-
-and Luca della Robbia. The fact is that this [[Purification|purification]] and austerity
-
-are even more necessary for the appreciation of life and laughter than
-
-for anything else. To let no bird fly past unnoticed, to spell patiently
-
-the stones and weeds, to have the mind a storehouse of sunset, requires
-
-a discipline in pleasure, and an [[Education|education]] in gratitude.
-
-The civilisation which surrounded Savonarola on every side was a
-
-civilisation which had already taken the wrong turn, the turn that leads
-
-to endless inventions and no discoveries, in which new things grow old
-
-with confounding rapidity, but in which no old things ever grow new. The
-
-monstrosity of the crimes of the [[Renaissance]] was not a mark of
-
-[[Imagination|imagination]]; it was a mark, as all monstrosity is, of the loss of
-
-[[Imagination|imagination]]. It is only when a man has really ceased to see a [[Horse|horse]] as
-
-it is, that he invents a centaur, only when he can no longer be
-
-surprised at an ox, that he worships the devil. Diablerie is the
-
-stimulant of the jaded fancy; it is the dram-drinking of the [[artist]].
-
-Savonarola addressed himself to the hardest of all earthly tasks, that
-
-of making men turn back and [[Wonder|wonder]] at the simplicities they had learnt
-
-to ignore. It is strange that the most unpopular of all doctrines is the
-
-doctrine which declares the common life divine. [[democracy|Democracy]], of which
-
-Savonarola was so fiery an exponent, is the hardest of gospels; there is
-
-nothing that so terrifies men as the decree that they are all kings.
-
-[[Christianity]], in Savonarola's mind, identical with [[democracy]], is the
-
-hardest of gospels; there is nothing that so strikes men with [[Fear|fear]] as
-
-the saying that they are all the sons of God.
-
-Savonarola and his republic fell. The drug of despotism was administered
-
-to the people, and they forgot what they had been. There are some at the
-
-present day who have so strange a respect for art and letters, and for
-
-mere men of genius, that they conceive the reign of the Medici to be an
-
-improvement on that of the great Florentine republican. It is such men
-
-as these and their civilisation that we have at the present day to
-
-[[Fear|fear]]. We are surrounded on many sides by the same symptoms as those
-
-which awoke the unquenchable wrath of Savonarola--a hedonism that is
-
-more sick of happiness than an invalid is sick of [[Pain|pain]], an art sense
-
-that seeks the assistance of crime since it has exhausted [[Nature|nature]]. In
-
-many modern works we find veiled and horrible hints of a truly
-
-[[Renaissance]] sense of the [[Beauty|beauty]] of [[Blood|blood]], the poetry of murder. The
-
-bankrupt and depraved [[Imagination|imagination]] does not see that a living man is far
-
-more dramatic than a dead one. Along with this, as in the [[Time|time]] of the
-
-Medici, goes the falling back into the arms of despotism, the hunger for
-
-the strong man which is unknown among strong men. The masterful [[Hero|hero]] is
-
-worshipped as he is worshipped by the readers of the "Bow [[Bells]]
-
-Novelettes," and for the same reason--a profound sense of personal
-
-weakness. That tendency to devolve our duties descends on us, which is
-
-the [[Soul|soul]] of [[Slavery|slavery]], alike whether for its menial tasks it employs serfs
-
-or emperors. Against all this the great clerical republican stands in
-
-everlasting protest, preferring his failure to his rival's [[success]]. The
-
-issue is still between him and [[Lorenzo]], between the responsibilities of
-
-liberty and the license of [[Slavery|slavery]], between the perils of [[Truth|truth]] and the
-
-security of [[Silence|silence]], between the pleasure of toil and the toil of
-
-pleasure. The supporters of [[Lorenzo]] the Magnificent are assuredly among
-
-us, men for whom even nations and empires only exist to satisfy the
-
-moment, men to whom the last hot hour of [[Summer|summer]] is better than a sharp
-
-and wintry [[spring]]. They have an art, a literature, a political
-
-[[philosophy]], which are all alike valued for their immediate effect upon
-
-the taste, not for what they promise of the destiny of the spirit. Their
-
-statuettes and sonnets are rounded and perfect, while "[[Macbeth]]" is in
-
-comparison a [[Fragment|fragment]], and the Moses of [[Michael]] [[Angelo]] a hint. Their
-
-campaigns and battles are always called triumphant, while Cæsar and
-
-Cromwell wept for many humiliations. And the end of it all is the hell
-
-of no resistance, the hell of an unfathomable softness, until the whole
-
-[[Nature|nature]] recoils into [[Madness|madness]] and the chamber of civilisation is no longer
-
-merely a cushioned apartment, but a padded cell.
-
-This last and worst of human miseries Savonarola saw afar off, and bent
-
-his whole gigantic energies to turning the chariot into another course.
-
-Few men understood his object; some called him a madman, some a
-
-charlatan, some an enemy of human joy. They would not even have
-
-understood if he had told them, if he had said that he was saving them
-
-from a calamity of contentment which should be the end of joys and
-
-sorrows alike. But there are those to-day who feel the same silent
-
-danger, and who bend themselves to the same silent resistance. They also
-
-are supposed to be contending for some trivial political scruple.
-
-Mr. M'Hardy says, in defending Savonarola, that the number of fine works
-
-of art destroyed in the Burning of the Vanities has been much
-
-exaggerated. I confess that I [[Hope|hope]] the pile contained stacks of
-
-incomparable masterpieces if the sacrifice made that one real moment
-
-more real. Of one thing I am sure, that Savonarola's friend [[Michael]]
-
-[[Angelo]] would have piled all his own statues one on top of the other,
-
-and burnt them to ashes, if only he had been certain that the glow
-
-transfiguring the sky was the [[Dawn|dawn]] of a younger and wiser world.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-SAVONAROLA
-
-Savonarola è un uomo che probabilmente non comprenderemo mai finché non
-
-sapremo quale orrore possa annidarsi nel cuore della civiltà. E questo non lo
-
-sapremo finché non saremo civilizzati. Si può sperare, in un certo senso, di non
-
-comprendere mai Savonarola.
-
-I grandi liberatori degli uomini li hanno, per lo più, salvati da
-
-calamità che tutti riconosciamo come mali, da calamità che sono gli
-
-antichi nemici dell'umanità. I grandi legislatori ci salvarono dall'anarchia:
-
-i grandi medici ci salvarono dalla pestilenza: i grandi riformatori ci salvarono
-
-dalla fame. Ma esiste un male immenso e senza fondo al cui confronto
-
-tutti questi sono punture di pulce, la più desolante maledizione che possa
-
-abbattersi su uomini o nazioni, e non ha nome se non lo chiamiamo
-
-appagamento. Savonarola non salvò gli uomini dall'anarchia, ma dall'ordine;
-
-non dalla pestilenza, ma dalla paralisi; non dalla fame, ma dal
-
-lusso. Uomini come Savonarola sono i testimoni del tremendo
-
-fatto psicologico che sta in fondo a tutti i nostri cervelli, ma per il quale nessun nome
-
-è mai stato trovato, che l'agio è il peggior nemico della felicità, e
-
-la civiltà potenzialmente la fine dell'uomo.
-
-Poiché immagino che l'elettrizzante sfida di Savonarola al lusso del suo
-
-tempo andasse assai più a fondo della semplice questione del peccato. I moderni
-
-ammiratori razionalisti di Savonarola, da George Eliot in giù,
-
-insistono, abbastanza giustamente, sulla solida giustificazione etica
-
-dell'ira di Savonarola, sul carattere orribile ed eccessivo dei
-
-crimini che contaminavano i palazzi del [[Renaissance|Rinascimento]]. Ma non è necessario che
-
-siano tanto ansiosi di dimostrare che Savonarola non fu affatto un [[ascetic|asceta]], che egli si limitò a
-
-spuntare le nere macchie della malvagità con il pedante
-
-illuminismo di un membro di una Società Etica. Probabilmente egli odiava davvero
-
-la civiltà del suo [[Time|tempo]], e non semplicemente i suoi peccati; ed è
-
-esattamente in questo che fu infinitamente più profondo di un moralista moderno.
-
-Vedeva che i delitti effettivi non erano gli unici mali: che i gioielli
-
-e vino avvelenato e immagini oscene erano soltanto i sintomi;
-
-che la malattia era la completa dipendenza dai gioielli e dal vino e dalle
-
-immagini. Questa è una cosa costantemente dimenticata nel giudicare gli asceti
-
-e i puritani dei tempi antichi. Una denuncia di svaghi innocui non
-
-significava sempre un ignorante odio verso ciò che nessuno se non un gretto moralista
-
-chiamerebbe dannoso. Talvolta significava un odio straordinariamente illuminato
-
-verso ciò che nessuno se non un gretto moralista chiamerebbe innocuo. Gli asceti sono
-
-talvolta più avanti dell'uomo medio, così [[Well|come]] meno.
-
-Tale, almeno, era l'odio nel cuore di Savonarola. Egli muoveva
-
-guerra non contro banali peccati umani, ma contro un empio e ingrato
-
-quietismo, contro l'abituarsi alla felicità, il peccato mistico per cui
-
-tutta la creazione cadde. Egli predicava quella severità che è il
-
-segno distintivo della giovinezza e della [[Hope|speranza]]. Predicava quella prontezza, quella
-
-limpida agilità e vigilanza, che è necessaria per conquistare il piacere tanto quanto
-
-per conquistare la santità, tanto indispensabile in un [[Lover|amante]] quanto in un monaco. Un critico ha
-
-giustamente osservato che Savonarola non poteva essere fondamentalmente
-
-anti-estetico, dal momento che aveva amici quali [[Michael]] [[Angelo]], Botticelli
-
-e Luca della Robbia. Il fatto è che questa [[Purification|purificazione]] e austerità
-
-sono ancor più necessarie all'apprezzamento della vita e del riso che
-
-a qualsiasi altra cosa. Non lasciar passare inosservato alcun uccello, compitare con pazienza
-
-le pietre e le erbacce, avere la mente come un magazzino di tramonti, richiede
-
-una disciplina nel piacere, e un'[[Education|educazione]] alla gratitudine.
-
-La civiltà che circondava Savonarola da ogni lato era una
-
-civiltà che aveva già preso la strada sbagliata, la svolta che conduce
-
-a invenzioni senza fine e a nessuna scoperta, in cui le cose nuove invecchiano
-
-con sconcertante rapidità, ma in cui nessuna cosa vecchia torna mai nuova. La
-
-mostruosità dei delitti del [[Renaissance|Rinascimento]] non era un segno di
-
-[[Imagination|immaginazione]]; era un segno, come lo è ogni mostruosità, della perdita dell'
-
-[[Imagination|immaginazione]]. È solo quando un uomo ha davvero cessato di vedere un [[Horse|cavallo]] per
-
-ciò che è, che inventa un centauro, solo quando non riesce più a
-
-stupirsi di un bue, che adora il diavolo. La diavoleria è lo
-
-stimolante della fantasia stanca; è il bere d'acquavite dell'[[artist|artista]].
-
-Savonarola si dedicò al più arduo di tutti i compiti terreni, quello
-
-di far sì che gli uomini si volgessero indietro e si [[Wonder|meravigliassero]] delle semplicità che avevano imparato
-
-a ignorare. È strano che la più impopolare di tutte le dottrine sia la
-
-dottrina che dichiara divina la vita comune. La [[democracy|Democrazia]], di cui
-
-Savonarola fu un così focoso esponente, è il più arduo dei vangeli; non c'è
-
-nulla che tanto atterrisca gli uomini quanto il decreto che essi sono tutti re.
-
-Il [[Christianity|Cristianesimo]], nella mente di Savonarola, identico alla [[democracy|democrazia]], è il
-
-più arduo dei vangeli; non c'è nulla che colpisca gli uomini con tanta [[Fear|paura]] quanto
-
-il detto che essi sono tutti figli di Dio.
-
-Savonarola e la sua repubblica caddero. La droga del dispotismo fu somministrata
-
-al popolo, ed esso dimenticò ciò che era stato. Vi sono alcuni ai
-
-giorni nostri che nutrono un così strano rispetto per l'arte e le lettere, e per
-
-i meri uomini di genio, da concepire il regno dei Medici come un
-
-miglioramento rispetto a quello del grande repubblicano fiorentino. Sono uomini
-
-come questi e la loro civiltà che oggi dobbiamo
-
-[[Fear|temere]]. Siamo circondati da molti lati dagli stessi sintomi di quelli
-
-che destarono l'inestinguibile ira di Savonarola: un edonismo che è
-
-più stanco della felicità di quanto un malato sia stanco del [[Pain|dolore]], un senso dell'arte
-
-che cerca il soccorso del delitto perché ha esaurito la [[Nature|natura]]. In
-
-molte opere moderne troviamo velati e orribili accenni a un senso davvero
-
-[[Renaissance|rinascimentale]] della [[Beauty|bellezza]] del [[Blood|sangue]], della poesia dell'omicidio. La
-
-[[Imagination|immaginazione]] fallita e depravata non vede che un uomo vivo è ben
-
-più drammatico di uno morto. Insieme a questo, come al [[Time|tempo]] dei
-
-Medici, va il ricadere fra le braccia del dispotismo, la fame
-
-dell'uomo forte che è ignota fra gli uomini forti. L'[[Hero|eroe]] imperioso è
-
-adorato come è adorato dai lettori delle "Bow [[Bells]]
-
-Novelettes", e per la stessa ragione: un profondo senso di personale
-
-debolezza. Scende su di noi quella tendenza a demandare i nostri doveri, che è
-
-l'[[Soul|anima]] della [[Slavery|schiavitù]], sia che per i suoi compiti servili impieghi servi
-
-o imperatori. Contro tutto questo il grande repubblicano in tonaca si erge in
-
-eterna protesta, preferendo il proprio fallimento al [[success|successo]] del rivale. La
-
-contesa è ancora tra lui e [[Lorenzo]], tra le responsabilità della
-
-libertà e la licenza della [[Slavery|schiavitù]], tra i pericoli della [[Truth|verità]] e la
-
-sicurezza del [[Silence|silenzio]], tra il piacere della fatica e la fatica del
-
-piacere. I sostenitori di [[Lorenzo]] il Magnifico sono di certo tra
-
-noi, uomini per i quali persino nazioni e imperi esistono solo per soddisfare l'
-
-attimo, uomini per i quali l'ultima ora calda dell'[[Summer|estate]] è migliore di un'aspra
-
-e invernale [[spring|primavera]]. Hanno un'arte, una letteratura, una
-
-[[philosophy|filosofia]] politica, tutte ugualmente apprezzate per il loro effetto immediato sul
-
-gusto, non per ciò che promettono del destino dello spirito. Le loro
-
-statuette e i loro sonetti sono tondi e perfetti, mentre il "[[Macbeth]]" è in
-
-confronto un [[Fragment|frammento]], e il Mosè di [[Michael]] [[Angelo]] un accenno. Le loro
-
-campagne e battaglie sono sempre dette trionfanti, mentre Cesare e
-
-Cromwell piansero per molte umiliazioni. E la fine di tutto ciò è l'inferno
-
-della non resistenza, l'inferno di un'insondabile mollezza, finché l'intera
-
-[[Nature|natura]] non rincula nella [[Madness|follia]] e la camera della civiltà non è più
-
-soltanto un appartamento ovattato, ma una cella imbottita.
-
-Quest'ultima e peggiore delle miserie umane Savonarola la scorse da lontano, e piegò
-
-tutte le sue gigantesche energie a volgere il carro su un altro corso.
-
-Pochi compresero il suo scopo; alcuni lo chiamarono pazzo, altri
-
-ciarlatano, altri un nemico della gioia umana. Non avrebbero nemmeno
-
-compreso se egli lo avesse detto loro, se avesse detto che li stava salvando
-
-da una calamità di contentezza che avrebbe dovuto essere la fine tanto delle gioie quanto dei
-
-dolori. Ma vi sono oggi coloro che avvertono lo stesso silenzioso
-
-pericolo, e che si piegano alla stessa silenziosa resistenza. Anche di loro
-
-si suppone che stiano contendendo per qualche banale scrupolo politico.
-
-Il signor M'Hardy dice, in difesa di Savonarola, che il numero di belle opere
-
-d'arte distrutte nel Rogo delle Vanità è stato molto
-
-esagerato. Confesso che [[Hope|spero]] che la pira contenesse cataste di
-
-incomparabili capolavori, se il sacrificio rese quell'unico momento reale
-
-più reale. Di una cosa sono certo, che l'amico di Savonarola, [[Michael]]
-
-[[Angelo]], avrebbe ammucchiato tutte le proprie statue una sull'altra,
-
-e le avrebbe ridotte in cenere, se solo fosse stato certo che il bagliore
-
-che trasfigurava il cielo era l'[[Dawn|alba]] di un mondo più giovane e più saggio.
-
-
-
-<span class="atom-split" data-atom="story_12_alfred_the_great" data-title="VariedTypes — Alfred The Great" data-chapter="Alfred The Great" data-kind="story"></span>
-
-
-ALFRED THE GREAT
-
-The celebrations in connection with the millenary of [[King Alfred]] struck
-
-a note of sympathy in the midst of much that was unsympathetic, because,
-
-altogether apart from any peculiar historical opinions, all men feel the
-
-sanctifying character of that which is at once strong and remote; the
-
-ancient thing is always the most homely, and the distant thing the most
-
-near. The only possible peacemaker is a dead man, ever since by the
-
-[[Sublime|sublime]] religious story a dead man only could reconcile heaven and
-
-earth. In a certain sense we always feel the past ages as human, and our
-
-own age as strangely and even weirdly dehumanised. In our own [[Time|time]] the
-
-details overpower us; men's badges and buttons seem to grow larger and
-
-larger as in a horrible dream. To study humanity in the present is like
-
-studying a mountain with a magnifying glass; to study it in the past is
-
-like studying it through a telescope.
-
-For this reason England, like every other great and historic nation, has
-
-sought its typical [[Hero|hero]] in remote and ill-recorded times. The personal
-
-and moral [[Greatness|greatness]] of Alfred is, indeed, beyond question. It does not
-
-depend any more than the [[Greatness|greatness]] of any other human [[Hero|hero]] upon the
-
-accuracy of any or all of the stories that are told about him. Alfred
-
-may not have done one of the things which are reported of him, but it is
-
-immeasurably easier to do every one of those things than to be the man
-
-of whom such things are reported falsely. [[Fable]] is, generally speaking,
-
-far more accurate than fact, for [[Fable|fable]] describes a man as he was to his
-
-own age, fact describes him as he is to a handful of inconsiderable
-
-antiquarians many centuries after. Whether Alfred watched the cakes for
-
-the neat-herd's wife, whether he sang [[songs]] in the Danish camp, is of no
-
-interest to anyone except those who set out to prove under considerable
-
-disadvantages that they are genealogically descended from him. But the
-
-man is better pictured in these stories than in any number of modern
-
-realistic trivialities about his favourite breakfast and his favourite
-
-musical composer. [[Fable]] is more historical than fact, because fact tells
-
-us about one man and [[Fable|fable]] tells us about a million men. If we read of a
-
-man who could make green grass red and turn the sun into the [[Moon|moon]], we
-
-may not believe these particular details about him, but we learn
-
-something infinitely more important than such trivialities, the fact
-
-that men could look into his face and believe it possible. The glory and
-
-[[Greatness|greatness]] of Alfred, therefore, is like that of all the heroes of the
-
-morning of the world, set far beyond the chance of that strange and
-
-sudden dethronement which may arise from the unsealing of a manuscript
-
-or the turning over of a stone. Men may have told lies when they said
-
-that he first entrapped the Danes with his [[Song|song]] and then overcame them
-
-with his armies, but we know very [[Well|well]] that it is not of us that such
-
-lies are told. There may be myths clustering about each of our
-
-personalities; local saga-men and chroniclers have very likely
-
-circulated the story that we are addicted to drink, or that we
-
-ferociously ill-use our wives. But they do not commonly lie to the
-
-effect that we have shed our [[Blood|blood]] to save all the inhabitants of the
-
-street. A story grows easily, but a heroic story is not a very easy
-
-thing to evoke. Wherever that exists we may be pretty certain that we
-
-are in the presence of a dark but powerful historic personality. We are
-
-in the presence of a thousand lies all pointing with their fantastic
-
-fingers to one undiscovered [[Truth|truth]].
-
-Upon this ground [[Alone|alone]] every encouragement is due to the cult of Alfred.
-
-Every nation requires to have behind it some historic personality, the
-
-validity of which is proved, as the validity of a gun is proved, by its
-
-long range. It is wonderful and splendid that we treasure, not the
-
-[[Truth|truth]], but the very gossip about a man who died a thousand years ago. We
-
-may say to him, as M. Rostand says to the Austrian Prince:
-
-"Dors, ce n'est pas toujours la Légende qui ment:
-
-Une rêve est parfois moins trompeur qu'un document."
-
-To have a man so simple and so honourable to represent us in the
-
-darkness of primeval [[history]], binds all the intervening centuries
-
-together, and mollifies all their monstrosities. It makes all [[history]]
-
-more comforting and intelligible; it makes the desolate temple of the
-
-ages as human as an inn parlour.
-
-But whether it come through reliable facts or through more reliable
-
-falsehoods the personality of Alfred has its own unmistakable colour and
-
-stature. Lord Rosebery uttered a profound [[Truth|truth]] when he said that that
-
-personality was peculiarly English. The great magnificence of the
-
-English character is expressed in the word "service." There is, perhaps,
-
-no nation so vitally theocratical as the English; no nation in which the
-
-strong men have so consistently preferred the instrumental to the
-
-despotic attitude, the pleasures of the loyal to the pleasures of the
-
-royal position. We have had tyrants like Edward I. and [[Queen Elizabeth]],
-
-but even our tyrants have had the worried and responsible air of
-
-stewards of a great estate. Our typical [[Hero|hero]] is such a man as the Duke
-
-of Wellington, who had every kind of traditional and external arrogance,
-
-but at the back of all that the strange [[Humility|humility]] which made it
-
-physically possible for him without a gleam of [[Humour|humour]] or discomfort to
-
-go on his knees to a preposterous bounder like George IV. Across the
-
-infinite wastes of [[Time|time]] and through all the mists of legend we still
-
-feel the presence in Alfred of this strange and unconscious
-
-[[Self|self]]-effacement. After the fullest estimate of our misdeeds we can still
-
-say that our very despots have been less [[Self|self]]-assertive than many
-
-popular patriots. As we consider these things we grow more and more
-
-impatient of any modern tendencies towards the enthronement of a more
-
-[[Self|self]]-conscious and theatrical ideal. Lord Rosebery called up before our
-
-imaginations the picture of what Alfred would have thought of the vast
-
-modern developments of his nation, its immense fleet, its widespread
-
-Empire, its enormous contribution to the mechanical civilisation of the
-
-world. It cannot be anything but profitable to conceive Alfred as full
-
-of astonishment and admiration at these things; it cannot be anything
-
-but good for us that we should realise that to the childlike eyes of a
-
-great man of old [[Time|time]] our inventions and appliances have not the
-
-vulgarity and ugliness that we see in them. To Alfred a steamboat would
-
-be a new and sensational sea-dragon, and the penny postage a miracle
-
-achieved by the despotism of a demi-god.
-
-But when we have realised all this there is something more to be said in
-
-connection with Lord Rosebery's vision. What would [[King Alfred]] have said
-
-if he had been asked to expend the money which he devoted to the health
-
-and [[Education|education]] of his people upon a struggle with some race of Visigoths
-
-or Parthians inhabiting a small section of a distant continent? What
-
-would he have said if he had known that that science of letters which he
-
-taught to England would eventually be used not to spread [[Truth|truth]], but to
-
-drug the people with political assurances as imbecile in themselves as
-
-the assurance that [[Fire|fire]] does not burn and [[Water|water]] does not drown? What
-
-would he have said if the same people who, in obedience to that ideal of
-
-service and [[Sanity|sanity]] of which he was the example, had borne every
-
-privation in order to defeat Napoleon, should come at last to find no
-
-better compliment to one of their heroes than to call him the Napoleon
-
-of South Africa? What would he have said if that nation for which he had
-
-inaugurated a long line of incomparable men of principle should forget
-
-all its traditions and coquette with the immoral mysticism of the man of
-
-destiny?
-
-Let us follow these things by all means if we find them good, and can
-
-see nothing better. But to pretend that Alfred would have admired them
-
-is like pretending that St. Dominic would have seen eye to eye with Mr.
-
-Bradlaugh, or that Fra Angelico would have revelled in the posters of
-
-Mr. Aubrey Beardsley. Let us follow them if we will, but let us take
-
-honestly all the disadvantages of our change; in the wildest moment of
-
-triumph let us feel the [[Shadow|shadow]] upon our glories of the shame of the
-
-great [[King|king]].
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-ALFREDO IL GRANDE
-
-Le celebrazioni per il millenario di [[King Alfred|Re Alfredo]] toccarono
-
-una nota di simpatia in mezzo a molto che era privo di simpatia, perché,
-
-del tutto a prescindere da qualsiasi peculiare opinione storica, tutti gli uomini avvertono il
-
-carattere santificante di ciò che è al tempo stesso forte e remoto; la
-
-cosa antica è sempre la più familiare, e la cosa distante la più
-
-vicina. L'unico paciere possibile è un uomo morto, da quando, per la
-
-[[Sublime|sublime]] vicenda religiosa, solo un uomo morto poté riconciliare cielo e
-
-terra. In un certo senso avvertiamo sempre le epoche passate come umane, e la nostra
-
-stessa epoca come stranamente e persino inquietantemente disumanizzata. Nel nostro [[Time|tempo]] i
-
-dettagli ci sopraffanno; i distintivi e i bottoni degli uomini sembrano farsi sempre più grandi e
-
-più grandi come in un sogno orribile. Studiare l'umanità nel presente è come
-
-studiare una montagna con una lente d'ingrandimento; studiarla nel passato è
-
-come studiarla attraverso un telescopio.
-
-Per questa ragione l'Inghilterra, come ogni altra grande e storica nazione, ha
-
-cercato il suo [[Hero|eroe]] tipico in tempi remoti e mal documentati. La personale
-
-e morale [[Greatness|grandezza]] di Alfredo è, in verità, fuori discussione. Non
-
-dipende, non più di quanto la [[Greatness|grandezza]] di qualsiasi altro [[Hero|eroe]] umano dipenda dall'
-
-esattezza di alcuna o di tutte le storie che si raccontano su di lui. Alfredo
-
-può non aver fatto una sola delle cose che gli si attribuiscono, ma è
-
-incommensurabilmente più facile fare ognuna di quelle cose che essere l'uomo
-
-di cui tali cose si raccontano falsamente. La [[Fable|favola]] è, in generale,
-
-assai più accurata del fatto, poiché la [[Fable|favola]] descrive un uomo come egli era per la sua
-
-stessa epoca, il fatto lo descrive come è per un pugno di trascurabili
-
-antiquari molti secoli dopo. Che Alfredo sorvegliasse le focacce per
-
-la moglie del mandriano, che cantasse [[songs|canzoni]] nell'accampamento danese, non ha alcun
-
-interesse per nessuno tranne coloro che si accingono a dimostrare, con notevole
-
-svantaggio, di discendere genealogicamente da lui. Ma l'
-
-uomo è ritratto meglio in queste storie che in qualsiasi quantità di moderne
-
-banalità realistiche sulla sua colazione preferita e sul suo
-
-compositore musicale preferito. La [[Fable|favola]] è più storica del fatto, perché il fatto ci
-
-parla di un solo uomo e la [[Fable|favola]] ci parla di un milione di uomini. Se leggiamo di un
-
-uomo capace di rendere rossa l'erba verde e di mutare il sole nella [[Moon|luna]], possiamo
-
-non credere a questi particolari dettagli su di lui, ma apprendiamo
-
-qualcosa di infinitamente più importante di simili banalità, il fatto
-
-che gli uomini potessero guardarlo in volto e crederlo possibile. La gloria e la
-
-[[Greatness|grandezza]] di Alfredo, dunque, è come quella di tutti gli eroi del
-
-mattino del mondo, posti ben oltre il rischio di quello strano e
-
-improvviso detronizzamento che può sorgere dal dissuggellamento di un manoscritto
-
-o dal rivoltamento di una pietra. Gli uomini possono aver mentito quando dissero
-
-che egli dapprima irretì i Danesi con il suo [[Song|canto]] e poi li soggiogò
-
-con i suoi eserciti, ma sappiamo molto [[Well|bene]] che non è di noi che simili
-
-menzogne si raccontano. Possono esservi miti che si addensano attorno a ciascuna delle nostre
-
-personalità; narratori di saghe e cronisti locali hanno con ogni probabilità
-
-messo in giro la storia che siamo dediti al bere, o che
-
-maltrattiamo ferocemente le nostre mogli. Ma non mentono comunemente nel
-
-senso che abbiamo versato il nostro [[Blood|sangue]] per salvare tutti gli abitanti della
-
-strada. Una storia cresce facilmente, ma una storia eroica non è cosa molto facile
-
-da evocare. Ovunque essa esista possiamo essere abbastanza certi di
-
-trovarci al cospetto di una personalità storica oscura ma potente. Ci troviamo
-
-al cospetto di mille menzogne che tutte puntano con le loro fantastiche
-
-dita verso una sola [[Truth|verità]] non scoperta.
-
-Su questo fondamento [[Alone|soltanto]] ogni incoraggiamento è dovuto al culto di Alfredo.
-
-Ogni nazione ha bisogno di avere alle spalle una qualche personalità storica, la
-
-cui validità si prova, come si prova la validità di un cannone, dalla sua
-
-lunga gittata. È meraviglioso e splendido che noi facciamo tesoro, non della
-
-[[Truth|verità]], ma delle chiacchiere stesse su un uomo morto mille anni fa. Possiamo
-
-dirgli, come M. Rostand dice al Principe austriaco:
-
-"Dors, ce n'est pas toujours la Légende qui ment:
-
-Une rêve est parfois moins trompeur qu'un document."
-
-Avere un uomo così semplice e così onorevole a rappresentarci nelle
-
-tenebre della [[history|storia]] primordiale lega insieme tutti i secoli intercorsi
-
-insieme, e ne addolcisce tutte le mostruosità. Rende tutta la [[history|storia]]
-
-più consolante e intelligibile; rende il desolato tempio delle
-
-epoche umano come la sala di una locanda.
-
-Ma sia che ci giunga attraverso fatti attendibili o attraverso più attendibili
-
-menzogne, la personalità di Alfredo ha un suo inconfondibile colore e
-
-statura. Lord Rosebery pronunciò una profonda [[Truth|verità]] quando disse che quella
-
-personalità era peculiarmente inglese. La grande magnificenza del
-
-carattere inglese si esprime nella parola "servizio". Non v'è, forse,
-
-nazione tanto vitalmente teocratica quanto l'inglese; nessuna nazione in cui gli
-
-uomini forti abbiano così costantemente preferito l'atteggiamento strumentale a quello
-
-dispotico, i piaceri della posizione leale ai piaceri della posizione
-
-regale. Abbiamo avuto tiranni come Edoardo I e [[Queen Elizabeth|la Regina Elisabetta]],
-
-ma persino i nostri tiranni hanno avuto l'aria preoccupata e responsabile di
-
-amministratori di una grande tenuta. Il nostro [[Hero|eroe]] tipico è un uomo come il Duca
-
-di Wellington, che aveva ogni sorta di arroganza tradizionale ed esteriore,
-
-ma dietro tutto ciò quella strana [[Humility|umiltà]] che rese
-
-fisicamente possibile a lui, senza un barlume di [[Humour|umorismo]] o di disagio,
-
-inginocchiarsi davanti a un assurdo villano come Giorgio IV. Attraverso le
-
-infinite distese del [[Time|tempo]] e attraverso tutte le nebbie della leggenda avvertiamo ancora
-
-in Alfredo la presenza di questa strana e inconsapevole
-
-[[Self|auto]]-cancellazione. Dopo la più completa stima dei nostri misfatti possiamo ancora
-
-dire che i nostri stessi despoti sono stati meno inclini all'[[Self|auto]]affermazione di molti
-
-patrioti popolari. Mentre consideriamo queste cose diveniamo sempre più
-
-impazienti di qualsiasi tendenza moderna verso l'intronizzazione di un ideale più
-
-[[Self|auto]]cosciente e teatrale. Lord Rosebery evocò dinanzi alla nostra
-
-immaginazione il quadro di ciò che Alfredo avrebbe pensato dei vasti
-
-sviluppi moderni della sua nazione, della sua immensa flotta, del suo esteso
-
-Impero, del suo enorme contributo alla civiltà meccanica del
-
-mondo. Non può che essere proficuo concepire Alfredo come colmo
-
-di stupore e ammirazione dinanzi a queste cose; non può che essere
-
-un bene per noi renderci conto che agli occhi fanciulleschi di un
-
-grand'uomo di [[Time|tempo]] antico le nostre invenzioni e i nostri congegni non hanno la
-
-volgarità e la bruttezza che noi vi scorgiamo. Per Alfredo un battello a vapore sarebbe
-
-un nuovo e sensazionale drago marino, e la posta a un penny un miracolo
-
-compiuto dal dispotismo di un semidio.
-
-Ma quando avremo compreso tutto questo, c'è qualcosa di più da dire in
-
-merito alla visione di Lord Rosebery. Che cosa avrebbe detto [[King Alfred|Re Alfredo]]
-
-se gli fosse stato chiesto di spendere il denaro che egli dedicò alla salute
-
-e all'[[Education|istruzione]] del suo popolo in una lotta contro qualche stirpe di Visigoti
-
-o di Parti che abitano una piccola porzione di un continente lontano? Che cosa
-
-avrebbe detto se avesse saputo che quella scienza delle lettere che egli
-
-insegnò all'Inghilterra sarebbe stata infine usata non per diffondere la [[Truth|verità]], ma per
-
-drogare il popolo con rassicurazioni politiche in sé tanto imbecilli quanto
-
-la rassicurazione che il [[Fire|fuoco]] non brucia e l'[[Water|acqua]] non annega? Che cosa
-
-avrebbe detto se lo stesso popolo che, in obbedienza a quell'ideale di
-
-servizio e [[Sanity|assennatezza]] di cui egli fu l'esempio, aveva sopportato ogni
-
-privazione pur di sconfiggere Napoleone, giungesse infine a non trovare
-
-complimento migliore per uno dei suoi eroi che chiamarlo il Napoleone
-
-del Sudafrica? Che cosa avrebbe detto se quella nazione per la quale egli aveva
-
-inaugurato una lunga schiera di incomparabili uomini di principio dimenticasse
-
-tutte le sue tradizioni e civettasse con il misticismo immorale dell'uomo del
-
-destino?
-
-Seguiamo pure queste cose, se le troviamo buone e non sappiamo
-
-vedere nulla di meglio. Ma pretendere che Alfredo le avrebbe ammirate
-
-è come pretendere che San Domenico si sarebbe trovato d'accordo con il signor
-
-Bradlaugh, o che il Beato Angelico si sarebbe deliziato dei manifesti del
-
-signor Aubrey Beardsley. Seguiamole pure se vogliamo, ma prendiamoci
-
-onestamente tutti gli svantaggi del nostro cambiamento; nel momento più sfrenato del
-
-trionfo sentiamo cadere sulle nostre glorie l'[[Shadow|ombra]] della vergogna del
-
-grande [[King|re]].
-
-
-
-<span class="atom-split" data-atom="story_14_the_german_emperor" data-title="VariedTypes — The German Emperor" data-chapter="The German Emperor" data-kind="story"></span>
-
-
-THE GERMAN EMPEROR
-
-The list of the really serious, the really convinced, the really
-
-important and comprehensible people now alive includes, as most
-
-Englishmen would now be prepared to admit, the German Emperor. He is a
-
-practical man and a poet. I do not know whether there are still people
-
-in existence who think there is some kind of faint antithesis between
-
-these two characters; but I incline to think there must be, because of
-
-the surprise which the career of the German Emperor has generally
-
-evoked. When he came to the throne it became at once apparent that he
-
-was poetical; people assumed in consequence that he was unpractical;
-
-that he would plunge Europe into war, that he would try to annex France,
-
-that he would say he was the Emperor of [[Russia]], that he would stand on
-
-his head in the Reichstag, that he would become a pirate on the Spanish
-
-Main. Years upon years have passed; he has gone on making speeches, he
-
-has gone on talking about God and his [[Sword|sword]], he has poured out an ever
-
-increased rhetoric and æstheticism. And yet all the [[Time|time]] people have
-
-slowly and surely realised that he knows what he is about, that he is
-
-one of the best friends of peace, that his influence on Europe is not
-
-only successful, but in many ways good, that he knows what world he is
-
-living in better than a score of materialists.
-
-The explanation never comes to them--he is a poet; therefore, a
-
-practical man. The affinity of the two words, merely as words, is much
-
-nearer than many people suppose, for the matter of that. There is one
-
-Greek word for "I do" from which we get the word practical, and another
-
-Greek word for "I do" from which we get the word poet. I was doubtless
-
-once informed of a profound difference between the two, but I have
-
-forgotten it. The two words practical and poetical may mean two subtly
-
-different things in that old and subtle language, but they mean the same
-
-in English and the same in the long run. It is ridiculous to suppose
-
-that the man who can understand the inmost intricacies of a human being
-
-who has never existed at all cannot make a guess at the conduct of man
-
-who lives next door. It is idle to say that a man who has himself felt
-
-the mad [[Longing|longing]] under the mad [[Moon|moon]] for a vagabond life cannot know why
-
-his son runs away to sea. It is idle to say that a man who has himself
-
-felt the hunger for any kind of exhilaration, from angel or devil,
-
-cannot know why his butler takes to drink. It is idle to say that a man
-
-who has been fascinated with the wild fastidiousness of destiny does not
-
-know why stockbrokers gamble, to say that a man who has been knocked
-
-into the middle of eternal life by a face in a crowd does not know why
-
-the poor marry young; that a man who found his path to all things kindly
-
-and pleasant blackened and barred suddenly by the [[Body|body]] of a man does not
-
-know what it is to [[Desire|desire]] murder. It is idle, in short, for a man who
-
-has created men to say that he does not understand them. A man who is a
-
-poet may, of course, easily make mistakes in these personal and
-
-practical relations; such mistakes and similar ones have been made by
-
-poets; such mistakes and greater ones have been made by soldiers and
-
-statesmen and men of business. But in so far as a poet is in these
-
-things less of a practical man he is also less of a poet.
-
-If Shakespeare really married a bad wife when he had conceived the
-
-character of [[Beatrice]] he ought to have been ashamed of himself: he had
-
-failed not only in his life, he had failed in his art. If Balzac got
-
-into rows with his publishers he ought to be rebuked and not
-
-commiserated, having evolved so many consistent business men from his
-
-own inside. The German Emperor is a poet, and therefore he succeeds,
-
-because poetry is so much nearer to reality than all the other human
-
-occupations. He is a poet, and succeeds because the majority of men are
-
-poets. It is true, if that matter is at all important, that the German
-
-Emperor is not a good poet. The majority of men are poets, only they
-
-happen to be bad poets. The German Emperor fails ridiculously, if that
-
-is all that is in question, in almost every one of the artistic
-
-occupations to which he addresses himself: he is neither a first-rate
-
-critic, nor a first-rate musician, nor a first-rate painter, nor a
-
-first-rate poet. He is a twelfth-rate poet, but because he is a poet at
-
-all he knocks to pieces all the first-rate politicians in the war of
-
-politics.
-
-Having made clear my position so far, I discover with a certain amount
-
-of interest that I have not yet got to the subject of these remarks. The
-
-German Emperor is a poet, and although, as far as I know, every line he
-
-ever wrote may be nonsense, he is a poet in this real sense, that he has
-
-realised the meaning of every function he has performed. Why should we
-
-jeer at him because he has a great many uniforms, for instance? The very
-
-essence of the really imaginative man is that he realises the various
-
-types or capacities in which he can appear. Every one of us, or almost
-
-every one of us, does in reality fulfil almost as many offices as
-
-Pooh-Bah. Almost every one of us is a ratepayer, an immortal [[Soul|soul]], an
-
-Englishman, a baptised person, a mammal, a minor poet, a juryman, a
-
-married man, a bicyclist, a Christian, a purchaser of newspapers, and a
-
-critic of Mr. Alfred Austin. We ought to have uniforms for all these
-
-things. How beautiful it would be if we appeared to-morrow in the
-
-uniform of a ratepayer, in brown and green, with buttons made in the
-
-shape of coins, and a blue income-tax paper tastefully arranged as a
-
-favour; or, again, if we appeared dressed as immortal souls, in a blue
-
-uniform with [[Stars|stars]]. It would be very exciting to dress up as Englishmen,
-
-or to go to a fancy dress ball as Christians.
-
-Some of the costumes I have suggested might appear a little more
-
-difficult to carry out. The dress of a person who purchases newspapers
-
-(though it mostly consists of coloured evening editions arranged in a
-
-stiff skirt, like that of a saltatrice, round the waist of the wearer)
-
-has many mysterious points. The attire of a person prepared to criticise
-
-the Poet Laureate is something so awful and striking that I dare not
-
-even begin to describe it; the one fact which I am willing to reveal,
-
-and to state seriously and responsibly, is that it buttons up behind.
-
-But most assuredly we ought not to abuse the Kaiser because he is fond
-
-of putting on all his uniforms; he does so because he has a large number
-
-of established and involuntary incarnations. He tries to do his duty in
-
-that state of life to which it shall please God to call him; and it so
-
-happens that he has been called to as many different estates as there
-
-are regiments in the German Army. He is a huntsman and proud of being a
-
-huntsman, an engineer and proud of being an engineer, an infantry
-
-soldier and proud of being so, a light horseman and proud of being so.
-
-There is nothing wrong in all this; the only wrong thing is that it
-
-should be confined to the merely destructive arts of war. The sight of
-
-the German Kaiser in the most magnificent of the uniforms in which he
-
-had led armies to victory is not in itself so splendid or delightful as
-
-that of many other sights which might come before us without a whisper
-
-of the alarms of war. It is not so splendid or delightful as the sight
-
-of an ordinary householder showing himself in that magnificent uniform
-
-of purple and silver which should signalise the father of three
-
-children. It is not so splendid or delightful as the appearance of a
-
-young clerk in an insurance office decorated with those three long
-
-crimson plumes which are the [[Well|well]]-known insignia of a gentleman who is
-
-just engaged to be married. Nor can it compare with the look of a man
-
-wearing the magnificent green and silver armour by which we know one who
-
-has induced an acquaintance to give up getting drunk, or the blue and
-
-gold which is only accorded to persons who have prevented fights in the
-
-street. We belong to quite as many regiments as the German Kaiser. Our
-
-regiments are regiments that are embattled everywhere; they fight an
-
-unending fight against all that is hopeless and rapacious and of evil
-
-report. The only difference is that we have the regiments, but not the
-
-uniforms.
-
-Only one obvious point occurs to me to add. If the Kaiser has more than
-
-any other man the sense of the poetry of the ancient things, the [[Sword|sword]],
-
-the [[Crown|crown]], the [[Ship|ship]], the nation, he has the sense of the poetry of
-
-modern things also. He has one sense, and it is even a joke against
-
-him. He feels the poetry of one thing that is more poetic than [[Sword|sword]] or
-
-[[Crown|crown]] or [[Ship|ship]] or nation, the poetry of the telegram. No one ever sent a
-
-telegram who did not feel like a god. He is a god, for he is a minor
-
-poet; a minor poet, but a poet still.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'IMPERATORE TEDESCO
-
-L'elenco delle persone davvero serie, davvero convinte, davvero
-
-importanti e comprensibili oggi in vita comprende, come la maggior parte
-
-degli inglesi sarebbe ora disposta ad ammettere, l'Imperatore tedesco. Egli è un
-
-uomo pratico e un poeta. Non so se vi siano ancora persone
-
-al mondo che pensino vi sia una qualche debole antitesi tra
-
-questi due caratteri; ma sono propenso a credere che ve ne sia, a causa della
-
-sorpresa che la carriera dell'Imperatore tedesco ha generalmente
-
-suscitato. Quando salì al trono divenne subito evidente che egli
-
-era poetico; la gente ne dedusse di conseguenza che fosse poco pratico;
-
-che avrebbe precipitato l'Europa nella guerra, che avrebbe tentato di annettere la Francia,
-
-che si sarebbe proclamato Imperatore di [[Russia]], che si sarebbe messo a testa
-
-in giù nel Reichstag, che sarebbe divenuto un pirata sul Mare
-
-di Spagna. Anni su anni sono trascorsi; ha continuato a tenere discorsi, ha
-
-continuato a parlare di Dio e della sua [[Sword|spada]], ha riversato una
-
-retorica e un estetismo sempre crescenti. Eppure per tutto il [[Time|tempo]] la gente ha
-
-lentamente e sicuramente compreso che egli sa quel che fa, che è
-
-uno dei migliori amici della pace, che il suo influsso sull'Europa non è
-
-soltanto efficace, ma per molti versi buono, che sa in quale mondo
-
-vive meglio di una ventina di materialisti.
-
-La spiegazione non viene loro mai in mente--egli è un poeta; perciò, un
-
-uomo pratico. L'affinità delle due parole, semplicemente come parole, è assai
-
-più stretta di quanto molti suppongano, del resto. C'è una
-
-parola greca per "io faccio" da cui deriva la parola pratico, e un'altra
-
-parola greca per "io faccio" da cui deriva la parola poeta. Senza dubbio un tempo mi fu
-
-spiegata una profonda differenza tra le due, ma l'ho
-
-dimenticata. Le due parole pratico e poetico possono significare due cose sottilmente
-
-diverse in quell'antica e sottile lingua, ma significano la stessa cosa
-
-in inglese e la stessa alla lunga. È ridicolo supporre
-
-che l'uomo capace di comprendere le più intime complessità di un essere umano
-
-che non è mai affatto esistito non sappia indovinare la condotta dell'uomo
-
-che abita nella porta accanto. È vano dire che un uomo il quale abbia egli stesso provato
-
-la folle [[Longing|brama]] sotto la folle [[Moon|luna]] di una vita vagabonda non possa sapere perché
-
-suo figlio fugge per imbarcarsi. È vano dire che un uomo il quale abbia egli stesso
-
-provato la fame di qualsiasi genere di ebbrezza, da angelo o da diavolo,
-
-non possa sapere perché il suo maggiordomo si dà al bere. È vano dire che un uomo
-
-che sia stato affascinato dalla selvaggia ritrosia del destino non
-
-sappia perché gli agenti di borsa giocano d'azzardo, dire che un uomo che sia stato scaraventato
-
-nel bel mezzo della vita eterna da un volto tra la folla non sappia perché
-
-i poveri si sposano giovani; che un uomo il quale abbia trovato il suo cammino verso ogni cosa buona
-
-e gradevole d'improvviso oscurato e sbarrato dal [[Body|corpo]] di un uomo non
-
-sappia cosa significhi [[Desire|desiderare]] l'omicidio. È vano, insomma, per un uomo che
-
-abbia creato uomini dire che egli non li comprende. Un uomo che sia
-
-poeta può, certo, facilmente commettere errori in questi rapporti personali e
-
-pratici; errori simili a questi sono stati commessi da
-
-poeti; errori simili e maggiori sono stati commessi da soldati e
-
-statisti e uomini d'affari. Ma nella misura in cui un poeta è in queste
-
-cose meno un uomo pratico, egli è anche meno un poeta.
-
-Se Shakespeare sposò davvero una cattiva moglie dopo aver concepito il
-
-personaggio di [[Beatrice]] avrebbe dovuto vergognarsi di sé: aveva
-
-fallito non solo nella sua vita, aveva fallito nella sua arte. Se Balzac si
-
-azzuffava con i suoi editori dovrebbe essere rimproverato e non
-
-compianto, avendo tratto tanti coerenti uomini d'affari dal proprio
-
-intimo. L'Imperatore tedesco è un poeta, e perciò riesce,
-
-perché la poesia è tanto più vicina alla realtà di tutte le altre umane
-
-occupazioni. È un poeta, e riesce perché la maggioranza degli uomini sono
-
-poeti. È vero, se la cosa ha una qualche importanza, che l'Imperatore
-
-tedesco non è un buon poeta. La maggioranza degli uomini sono poeti, solo che
-
-si dà il caso che siano cattivi poeti. L'Imperatore tedesco fallisce ridicolmente, se è
-
-questo tutto ciò di cui si discute, in quasi ognuna delle
-
-occupazioni artistiche a cui si dedica: non è né un critico di
-
-prim'ordine, né un musicista di prim'ordine, né un pittore di prim'ordine, né un
-
-poeta di prim'ordine. È un poeta di dodicesim'ordine, ma proprio perché è un poeta
-
-del tutto, fa a pezzi tutti i politici di prim'ordine nella guerra della
-
-politica.
-
-Avendo chiarito fin qui la mia posizione, scopro con una certa
-
-dose d'interesse di non essere ancora giunto al soggetto di queste osservazioni. L'
-
-Imperatore tedesco è un poeta e, benché, per quanto ne so, ogni verso che
-
-abbia mai scritto possa essere un'assurdità, egli è un poeta in questo senso reale, che ha
-
-compreso il significato di ogni funzione che ha esercitato. Perché dovremmo
-
-deriderlo perché ha moltissime uniformi, per esempio? La vera
-
-essenza dell'uomo davvero dotato d'immaginazione è che egli comprende i vari
-
-tipi o le varie vesti in cui può presentarsi. Ognuno di noi, o quasi
-
-ognuno di noi, in realtà ricopre quasi altrettante cariche quante
-
-Pooh-Bah. Quasi ognuno di noi è un contribuente, un'[[Soul|anima]] immortale, un
-
-inglese, un battezzato, un mammifero, un poeta minore, un giurato, un
-
-uomo sposato, un ciclista, un cristiano, un acquirente di giornali, e un
-
-critico del signor Alfred Austin. Dovremmo avere uniformi per tutte queste
-
-cose. Come sarebbe bello se domani comparissimo nell'
-
-uniforme del contribuente, in marrone e verde, con bottoni foggiati a
-
-forma di monete, e un azzurro modulo delle imposte sul reddito graziosamente disposto come
-
-coccarda; o, ancora, se comparissimo vestiti da anime immortali, in un'azzurra
-
-uniforme con [[Stars|stelle]]. Sarebbe assai emozionante travestirsi da inglesi,
-
-o andare a un ballo in maschera da cristiani.
-
-Alcuni dei costumi che ho suggerito potrebbero apparire un poco più
-
-difficili da realizzare. L'abito di una persona che acquista giornali
-
-(per quanto consista per lo più di colorate edizioni della sera disposte in una
-
-gonna rigida, come quella di una saltatrice, attorno alla vita di chi lo indossa)
-
-presenta molti punti misteriosi. L'abbigliamento di una persona pronta a criticare
-
-il Poeta Laureato è cosa tanto tremenda e vistosa che non oso
-
-nemmeno cominciare a descriverlo; l'unico fatto che sono disposto a rivelare,
-
-e ad affermare seriamente e responsabilmente, è che si abbottona sul dietro.
-
-Ma di certo non dovremmo maltrattare il Kaiser perché ama
-
-indossare tutte le sue uniformi; lo fa perché ha un gran numero
-
-di consolidate e involontarie incarnazioni. Cerca di compiere il proprio dovere in
-
-quello stato di vita al quale piacerà a Dio chiamarlo; e si dà
-
-il caso che egli sia stato chiamato ad altrettanti diversi stati quanti sono i
-
-reggimenti dell'Esercito tedesco. È un cacciatore ed è fiero di essere un
-
-cacciatore, un ingegnere ed è fiero di essere un ingegnere, un soldato di
-
-fanteria ed è fiero di esserlo, un cavalleggero ed è fiero di esserlo.
-
-Non c'è nulla di male in tutto ciò; l'unica cosa sbagliata è che essa
-
-sia confinata alle arti meramente distruttive della guerra. La vista
-
-del Kaiser tedesco nella più magnifica delle uniformi con cui
-
-aveva condotto eserciti alla vittoria non è in sé tanto splendida o deliziosa quanto
-
-quella di molte altre viste che potrebbero presentarsi a noi senza un sussurro
-
-degli allarmi di guerra. Non è tanto splendida o deliziosa quanto la vista
-
-di un comune capofamiglia che si mostri in quella magnifica uniforme
-
-di porpora e argento che dovrebbe contraddistinguere il padre di tre
-
-figli. Non è tanto splendida o deliziosa quanto la comparsa di un
-
-giovane impiegato di una compagnia d'assicurazioni ornato di quei tre lunghi
-
-pennacchi cremisi che sono le [[Well|ben]] note insegne di un gentiluomo che si è
-
-appena fidanzato per sposarsi. Né può paragonarsi all'aspetto di un uomo
-
-che indossi la magnifica armatura verde e argento da cui riconosciamo colui che
-
-ha indotto un conoscente a smettere di ubriacarsi, o l'azzurro e
-
-oro che è concesso soltanto a quanti hanno impedito risse per la
-
-strada. Noi apparteniamo ad altrettanti reggimenti quanti il Kaiser tedesco. I nostri
-
-reggimenti sono reggimenti schierati a battaglia ovunque; combattono una
-
-lotta senza fine contro tutto ciò che è disperato e rapace e di cattiva
-
-fama. L'unica differenza è che noi abbiamo i reggimenti, ma non le
-
-uniformi.
-
-Un solo punto ovvio mi viene in mente di aggiungere. Se il Kaiser ha più di
-
-ogni altro uomo il senso della poesia delle cose antiche, la [[Sword|spada]],
-
-la [[Crown|corona]], la [[Ship|nave]], la nazione, egli ha il senso della poesia delle
-
-cose moderne del pari. Ha un senso, ed è persino motivo di scherno contro di
-
-lui. Egli sente la poesia di una cosa che è più poetica della [[Sword|spada]] o della
-
-[[Crown|corona]] o della [[Ship|nave]] o della nazione, la poesia del telegramma. Nessuno ha mai inviato un
-
-telegramma senza sentirsi come un dio. Egli è un dio, perché è un poeta
-
-minore; un poeta minore, ma pur sempre un poeta.
-
-
-
-<span class="atom-split" data-atom="story_15_tennyson" data-title="VariedTypes — Tennyson" data-chapter="Tennyson" data-kind="story"></span>
-
-
-TENNYSON
-
-Mr. Morton Luce has written a short study of Tennyson which has
-
-considerable cultivation and suggestiveness, which will be sufficient to
-
-serve as a notebook for Tennyson's admirers, but scarcely sufficient,
-
-perhaps, to serve as a pamphlet against his opponents. If a critic has,
-
-as he ought to have, any of the functions anciently attributed to a
-
-[[Prophet|prophet]], it ought not to be difficult for him to prophesy that Tennyson
-
-will pass through a period of facile condemnation and neglect before we
-
-arrive at the true appreciation of his work. The same thing has happened
-
-to the most vigorous of essayists, Macaulay, and the most vigorous of
-
-romancers, Dickens, because we live in a [[Time|time]] when mere vigour is
-
-considered a vulgar thing. The same idle and frigid reaction will almost
-
-certainly discredit the stateliness and care of Tennyson, as it has
-
-discredited the recklessness and inventiveness of Dickens. It is only
-
-necessary to remember that no action can be discredited by a reaction.
-
-The attempts which have been made to discredit the poetical position of
-
-Tennyson are in the main dictated by an entire misunderstanding of the
-
-[[Nature|nature]] of poetry. When critics like Matthew Arnold, for example, suggest
-
-that his poetry is deficient in elaborate thought, they only prove, as
-
-Matthew Arnold proved, that they themselves could never be great poets.
-
-It is no valid accusation against a poet that the sentiment he expresses
-
-is commonplace. Poetry is always commonplace; it is vulgar in the
-
-noblest sense of that noble word. Unless a man can make the same kind of
-
-ringing appeal to absolute and admitted sentiments that is made by a
-
-popular orator, he has lost touch with emotional literature. Unless he
-
-is to some extent a demagogue, he cannot be a poet. A man who expresses
-
-in poetry new and strange and undiscovered emotions is not a poet; he is
-
-a brain specialist. Tennyson can never be discredited before any serious
-
-tribunal of criticism because the sentiments and thoughts to which he
-
-dedicates himself are those sentiments and thoughts which occur to
-
-anyone. These are the peculiar province of poetry; poetry, like
-
-religion, is always a democratic thing, even if it pretends the
-
-contrary. The faults of Tennyson, so far as they existed, were not half
-
-so much in the common character of his sentiments as in the arrogant
-
-perfection of his workmanship. He was not by any means so wrong in his
-
-faults as he was in his perfections.
-
-Men are very much too ready to speak of men's work being ordinary, when
-
-we consider that, properly considered, every man is extraordinary. The
-
-average man is a tribal [[Fable|fable]], like the Man-Wolf or the Wise Man of the
-
-Stoics. In every man's heart there is a revolution; how much more in
-
-every poet's? The supreme business of criticism is to discover that part
-
-of a man's work which is his and to ignore that part which belongs to
-
-others. Why should any critic of poetry spend [[Time|time]] and attention on that
-
-part of a man's work which is unpoetical? Why should any man be
-
-interested in aspects which are uninteresting? The business of a critic
-
-is to discover the importance of men and not their crimes. It is true
-
-that the Greek word critic carries with it the meaning of a judge, and
-
-up to this point of [[history]] judges have had to do with the valuation of
-
-men's sins, and not with the valuation of their virtues.
-
-Tennyson's work, disencumbered of all that uninteresting accretion which
-
-he had inherited or copied, resolves itself, like that of any other man
-
-of genius, into those things which he really inaugurated. Underneath all
-
-his exterior of polished and polite rectitude there was in him a genuine
-
-[[Fire|fire]] of novelty; only that, like all the able men of his period, he
-
-disguised revolution under the name of evolution. He is only a very
-
-shallow critic who cannot see an eternal [[Rebel|rebel]] in the heart of the
-
-Conservative.
-
-Tennyson had certain absolutely personal ideas, as much his own as the
-
-ideas of Browning or Meredith, though they were fewer in number. One of
-
-these, for example, was the fact that he was the first of all poets (and
-
-perhaps the last) to attempt to treat poetically that vast and monstrous
-
-vision of fact which science had recently revealed to mankind.
-
-Scientific discoveries seem commonly fables as fantastic in the ears of
-
-poets as [[Poems|poems]] in the ears of men of science. The poet is always a
-
-Ptolemaist; for him the sun still rises and the earth stands still.
-
-Tennyson really worked the essence of modern science into his poetical
-
-constitution, so that its appalling [[Birds|birds]] and frightful [[Flowers|flowers]] were
-
-really part of his literary imagery. To him blind and brutal monsters,
-
-the products of the wild babyhood of the Universe, were as the daisies
-
-and the nightingales were to Keats; he absolutely realised the great
-
-literary [[Paradox|paradox]] mentioned in the Book of Job: "He saw Behemoth, and he
-
-played with him as with a bird."
-
-Instances of this would not be difficult to find. But the tests of
-
-poetry are those instances in which this outrageous scientific
-
-phraseology becomes natural and unconscious. Tennyson wrote one of his
-
-own exquisite lyrics describing the exultation of a [[Lover|lover]] on the evening
-
-before his bridal day. This would be an occasion, if ever there was one,
-
-for falling back on those ancient and assured falsehoods of the domed
-
-heaven and the flat earth in which generations of poets have made us
-
-feel at [[Home|home]]. We can imagine the poet in such a [[Lyric|lyric]] saluting the
-
-setting sun and prophesying the sun's [[Resurrection|resurrection]]. There is something
-
-extraordinarily typical of Tennyson's scientific [[Faith|faith]] in the fact that
-
-this, one of the most sentimental and elemental of his [[Poems|poems]], opens with
-
-the two lines:
-
-"Move eastward, happy earth, and leave
-
-Yon orange sunset waning slow."
-
-Rivers had often been commanded to flow by poets, and [[Flowers|flowers]] to blossom
-
-in their season, and both were doubtless grateful for the permission.
-
-But the terrestrial globe of science has only twice, so far as we know,
-
-been encouraged in poetry to continue its course, one instance being
-
-that of this poem, and the other the incomparable "Address to the
-
-Terrestrial Globe" in the "Bab Ballads."
-
-There was, again, another poetic element entirely peculiar to Tennyson,
-
-which his critics have, in many cases, ridiculously confused with a
-
-fault. This was the fact that Tennyson stood [[Alone|alone]] among modern poets
-
-in the attempt to give a poetic character to the conception of Liberal
-
-Conservatism, of splendid compromise. The carping critics who have
-
-abused Tennyson for this do not see that it was far more daring and
-
-original for a poet to defend conventionality than to defend a cart-load
-
-of revolutions. His really sound and essential conception of Liberty,
-
-"Turning to scorn with lips divine
-
-The falsehood of extremes,"
-
-is as good a definition of Liberalism as has been uttered in poetry in
-
-the Liberal century. Moderation is _not_ a compromise; moderation is a
-
-passion; the passion of great judges. That Tennyson felt that lyrical
-
-enthusiasm could be devoted to established customs, to indefensible and
-
-ineradicable national constitutions, to the dignity of [[Time|time]] and the
-
-empire of unutterable common sense, all this did not make him a tamer
-
-poet, but an infinitely more original one. Any poetaster can describe a
-
-thunderstorm; it requires a poet to describe the ancient and quiet sky.
-
-I cannot, indeed, fall in with Mr. Morton Luce in his somewhat frigid
-
-and patrician theory of poetry. "Dialect," he says, "mostly falls below
-
-the dignity of art." I cannot feel myself that art has any dignity
-
-higher than the indwelling and divine dignity of human [[Nature|nature]]. Great
-
-poets like Burns were far more undignified when they clothed their
-
-thoughts in what Mr. Morton Luce calls "the seemly raiment of cultured
-
-speech" than when they clothed them in the headlong and flexible patois
-
-in which they thought and prayed and quarrelled and made [[Love|love]]. If
-
-Tennyson failed (which I do not admit) in such [[Poems|poems]] as "The Northern
-
-Farmer," it was not because he used too much of the spirit of the
-
-dialect, but because he used too little.
-
-Tennyson belonged undoubtedly to a period from which we are divided; the
-
-period in which men had queer ideas of the antagonism of science and
-
-religion; the period in which the Missing Link was really missing. But
-
-his hold upon the old realities of existence never wavered; he was the
-
-apostle of the sanctity of laws, of the sanctity of customs; above all,
-
-like every poet, he was the apostle of the sanctity of words.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-TENNYSON
-
-Il signor Morton Luce ha scritto un breve studio su Tennyson che ha
-
-notevole raffinatezza e capacità di suggestione, il quale basterà a
-
-servire da taccuino per gli ammiratori di Tennyson, ma a stento basterà,
-
-forse, a servire da libello contro i suoi avversari. Se un critico ha,
-
-come dovrebbe avere, una qualche delle funzioni anticamente attribuite a un
-
-[[Prophet|profeta]], non gli dovrebbe essere difficile profetizzare che Tennyson
-
-attraverserà un periodo di facile condanna e oblio prima che si
-
-giunga alla vera valutazione della sua opera. La stessa cosa è accaduta
-
-al più vigoroso dei saggisti, Macaulay, e al più vigoroso dei
-
-romanzieri, Dickens, perché viviamo in un [[Time|tempo]] in cui il mero vigore è
-
-considerato cosa volgare. La stessa oziosa e gelida reazione quasi
-
-certamente screditerà la solennità e la cura di Tennyson, come ha
-
-screditato la temerarietà e l'inventiva di Dickens. Basta soltanto
-
-ricordare che nessuna azione può essere screditata da una reazione.
-
-I tentativi che sono stati fatti per screditare la posizione poetica di
-
-Tennyson sono per lo più dettati da un totale fraintendimento della
-
-[[Nature|natura]] della poesia. Quando critici come Matthew Arnold, per esempio, insinuano
-
-che la sua poesia è carente di pensiero elaborato, non fanno che dimostrare, come
-
-dimostrò Matthew Arnold, che essi stessi non potrebbero mai essere grandi poeti.
-
-Non è una valida accusa contro un poeta che il sentimento da lui espresso
-
-sia comune. La poesia è sempre comune; è volgare nel
-
-senso più nobile di quella nobile parola. Se un uomo non sa lanciare lo stesso genere di
-
-squillante appello a sentimenti assoluti e riconosciuti che lancia un
-
-oratore popolare, ha perso il contatto con la letteratura delle emozioni. Se non è
-
-in qualche misura un demagogo, non può essere un poeta. Un uomo che esprima
-
-in poesia emozioni nuove e strane e non scoperte non è un poeta; è uno
-
-specialista del cervello. Tennyson non potrà mai essere screditato dinanzi a un serio
-
-tribunale di critica, perché i sentimenti e i pensieri ai quali egli
-
-si dedica sono quei sentimenti e pensieri che vengono in mente a
-
-chiunque. Questi sono il campo peculiare della poesia; la poesia, come la
-
-religione, è sempre cosa democratica, anche se finge il
-
-contrario. I difetti di Tennyson, per quanto esistessero, non erano neppure la metà
-
-nel carattere comune dei suoi sentimenti quanto nell'arrogante
-
-perfezione della sua fattura. Non era affatto tanto in errore nei suoi
-
-difetti quanto lo era nelle sue perfezioni.
-
-Gli uomini sono fin troppo pronti a definire ordinaria l'opera degli uomini, quando
-
-si consideri che, a ben considerare, ogni uomo è straordinario. L'
-
-uomo medio è una [[Fable|favola]] tribale, come l'Uomo-Lupo o il Saggio degli
-
-Stoici. Nel cuore di ogni uomo c'è una rivoluzione; quanto più in
-
-quello di ogni poeta? Il supremo compito della critica è scoprire quella parte
-
-dell'opera di un uomo che è sua e ignorare quella parte che appartiene ad
-
-altri. Perché mai un critico di poesia dovrebbe spendere [[Time|tempo]] e attenzione su quella
-
-parte dell'opera di un uomo che è impoetica? Perché mai un uomo dovrebbe essere
-
-interessato ad aspetti che sono privi d'interesse? Il compito di un critico
-
-è scoprire l'importanza degli uomini e non i loro delitti. È vero
-
-che la parola greca critico porta con sé il significato di giudice, e
-
-fino a questo punto della [[history|storia]] i giudici hanno avuto a che fare con la valutazione dei
-
-peccati degli uomini, e non con la valutazione delle loro virtù.
-
-L'opera di Tennyson, sgombrata di tutta quell'incrostazione priva d'interesse che
-
-egli aveva ereditato o copiato, si risolve, come quella di ogni altro uomo
-
-di genio, in quelle cose che egli davvero inaugurò. Sotto tutta la
-
-sua esteriorità di levigata e cortese rettitudine c'era in lui un genuino
-
-[[Fire|fuoco]] di novità; solo che, come tutti gli uomini capaci del suo periodo, egli
-
-travestiva la rivoluzione sotto il nome di evoluzione. È solo un ben
-
-superficiale critico colui che non sa scorgere un eterno [[Rebel|ribelle]] nel cuore del
-
-conservatore.
-
-Tennyson aveva certe idee assolutamente personali, sue proprie quanto le
-
-idee di Browning o di Meredith, benché fossero minori di numero. Una di
-
-queste, per esempio, era il fatto che egli fu il primo di tutti i poeti (e
-
-forse l'ultimo) a tentare di trattare poeticamente quella vasta e mostruosa
-
-visione di fatto che la scienza aveva da poco rivelato al genere umano.
-
-Le scoperte scientifiche appaiono comunemente favole tanto fantastiche alle orecchie dei
-
-poeti quanto le [[Poems|poesie]] alle orecchie degli uomini di scienza. Il poeta è sempre un
-
-tolemaico; per lui il sole sorge ancora e la terra sta ferma.
-
-Tennyson intessé davvero l'essenza della scienza moderna nella propria
-
-costituzione poetica, sicché i suoi spaventosi [[Birds|uccelli]] e i suoi terribili [[Flowers|fiori]] erano
-
-davvero parte della sua immaginazione letteraria. Per lui i mostri ciechi e brutali,
-
-i prodotti della selvaggia infanzia dell'Universo, erano come le margherite
-
-e gli usignoli erano per Keats; egli realizzò appieno il grande
-
-[[Paradox|paradosso]] letterario menzionato nel Libro di Giobbe: "Egli vide Behemoth, e
-
-giocò con lui come con un uccello".
-
-Esempi di ciò non sarebbe difficile trovarne. Ma le prove della
-
-poesia sono quei casi in cui questa oltraggiosa fraseologia
-
-scientifica diviene naturale e inconsapevole. Tennyson scrisse una delle sue
-
-squisite liriche descrivendo l'esultanza di un [[Lover|amante]] la sera
-
-prima del giorno delle sue nozze. Questa sarebbe un'occasione, se mai ve ne fu una,
-
-per ripiegare su quelle antiche e sicure menzogne della cupola
-
-del cielo e della terra piatta in cui generazioni di poeti ci hanno fatto
-
-sentire a [[Home|casa]]. Possiamo immaginare il poeta in una tale [[Lyric|lirica]] salutare il
-
-sole al tramonto e profetizzare la [[Resurrection|resurrezione]] del sole. C'è qualcosa
-
-di straordinariamente tipico della [[Faith|fede]] scientifica di Tennyson nel fatto che
-
-questa, una delle più sentimentali ed elementari delle sue [[Poems|poesie]], si apra con
-
-i due versi:
-
-"Muoviti verso oriente, terra felice, e lascia
-
-Quell'arancione tramonto che lento declina."
-
-Ai fiumi era stato spesso comandato dai poeti di scorrere, e ai [[Flowers|fiori]] di sbocciare
-
-nella loro stagione, ed entrambi erano senza dubbio grati del permesso.
-
-Ma il globo terrestre della scienza solo due volte, per quanto ne sappiamo,
-
-è stato incoraggiato in poesia a proseguire il suo corso, un caso essendo
-
-quello di questa poesia, e l'altro l'incomparabile "Address to the
-
-Terrestrial Globe" nelle "Bab Ballads".
-
-C'era, di nuovo, un altro elemento poetico interamente peculiare di Tennyson,
-
-che i suoi critici hanno, in molti casi, ridicolmente confuso con un
-
-difetto. Era il fatto che Tennyson era [[Alone|solo]] tra i poeti moderni
-
-nel tentativo di dare carattere poetico alla concezione del conservatorismo
-
-liberale, dello splendido compromesso. I critici cavillosi che hanno
-
-strapazzato Tennyson per questo non vedono che fu assai più ardito e
-
-originale, per un poeta, difendere la convenzionalità che difendere una carrettata
-
-di rivoluzioni. La sua concezione davvero sana ed essenziale della Libertà,
-
-"Volgendo a scherno con labbra divine
-
-la falsità degli estremi",
-
-è una definizione del liberalismo buona quanto ogni altra sia stata pronunciata in poesia nel
-
-secolo liberale. La moderazione _non_ è un compromesso; la moderazione è una
-
-passione; la passione dei grandi giudici. Che Tennyson sentisse che l'entusiasmo
-
-lirico potesse essere dedicato a costumi consolidati, a indifendibili e
-
-inestirpabili costituzioni nazionali, alla dignità del [[Time|tempo]] e all'
-
-impero dell'ineffabile buon senso, tutto ciò non lo rendeva un poeta più
-
-dimesso, ma infinitamente più originale. Qualsiasi poetastro sa descrivere un
-
-temporale; ci vuole un poeta per descrivere l'antico e quieto cielo.
-
-Non posso, in verità, concordare con il signor Morton Luce nella sua alquanto gelida
-
-e patrizia teoria della poesia. "Il dialetto," egli dice, "per lo più scende al di sotto
-
-della dignità dell'arte". Non posso sentire da me che l'arte abbia una dignità
-
-più alta dell'intrinseca e divina dignità della [[Nature|natura]] umana. I grandi
-
-poeti come Burns furono assai più privi di dignità quando rivestirono i loro
-
-pensieri di ciò che il signor Morton Luce chiama "la decorosa veste della lingua
-
-colta" che quando li rivestirono dell'impetuoso e flessibile patois
-
-in cui pensavano e pregavano e litigavano e facevano l'[[Love|amore]]. Se
-
-Tennyson fallì (cosa che non ammetto) in [[Poems|poesie]] come "The Northern
-
-Farmer", non fu perché usò troppo lo spirito del
-
-dialetto, ma perché ne usò troppo poco.
-
-Tennyson apparteneva senza dubbio a un periodo dal quale siamo divisi; il
-
-periodo in cui gli uomini avevano bizzarre idee sull'antagonismo tra scienza e
-
-religione; il periodo in cui l'Anello Mancante era davvero mancante. Ma
-
-la sua presa sulle antiche realtà dell'esistenza non vacillò mai; egli fu l'
-
-apostolo della santità delle leggi, della santità dei costumi; soprattutto,
-
-come ogni poeta, egli fu l'apostolo della santità delle parole.
-
-
-
-<span class="atom-split" data-atom="story_16_elizabeth_barrett_browning" data-title="VariedTypes — Elizabeth Barrett Browning" data-chapter="Elizabeth Barrett Browning" data-kind="story"></span>
-
-
-ELIZABETH BARRETT BROWNING
-
-The delightful new edition of Mrs. Browning's "Casa Guidi Windows" which
-
-Mr. John Lane has just issued ought certainly to serve as an opportunity
-
-for the serious criticism and inevitable admiration to which a great
-
-poet is entitled. For Mrs. Browning was a great poet, and not, as is
-
-idly and vulgarly supposed, only a great poetess. The word poetess is
-
-bad English, and it conveys a particularly bad compliment. Nothing is
-
-more remarkable about Mrs. Browning's work than the absence of that
-
-trite and namby-pamby elegance which the last two centuries demanded
-
-from lady writers. Wherever her verse is bad it is bad from some
-
-extravagance of imagery, some violence of comparison, some kind of
-
-debauch of cleverness. Her nonsense never arises from weakness, but from
-
-a confusion of powers. If the phrase explain itself, she is far more a
-
-great poet than she is a good one.
-
-Mrs. Browning often appears more luscious and sentimental than many
-
-other literary women, but this was because she was stronger. It requires
-
-a certain amount of internal force to break down. A complete
-
-[[Self|self]]-humiliation requires enormous strength, more strength than most of
-
-us possess. When she was writing the poetry of [[Self|self]]-abandonment she
-
-really abandoned herself with the valour and decision of an anchorite
-
-abandoning the world. Such a couplet as:
-
-"Our Euripides, the human,
-
-With his dropping of warm [[Tears|tears]],"
-
-gives to most of us a sickly and nauseous sensation. Nothing can be [[Well|well]]
-
-conceived more ridiculous than Euripides going about dropping [[Tears|tears]] with
-
-a loud splash, and Mrs. Browning coming after him with a thermometer.
-
-But the one emphatic point about this idiotic couplet is that Mrs.
-
-Hemans would never have written it. She would have written something
-
-perfectly dignified, perfectly harmless, perfectly inconsiderable. Mrs.
-
-Browning was in a great and serious difficulty. She really meant
-
-something. She aimed at a vivid and curious image, and she missed it.
-
-She had that catastrophic and public failure which is, as much as a
-
-medal or a testimonial, the badge of the brave.
-
-In spite of the tiresome half-[[Truth|truth]] that art is unmoral, the arts
-
-require a certain considerable number of moral qualities, and more
-
-especially all the arts require [[Courage|courage]]. The art of drawing, for
-
-example, requires even a kind of physical [[Courage|courage]]. Anyone who has tried
-
-to draw a straight line and failed knows that he fails chiefly in nerve,
-
-as he might fail to jump off a cliff. And similarly all great literary
-
-art involves the element of risk, and the greatest literary artists have
-
-commonly been those who have run the greatest risk of talking nonsense.
-
-Almost all great poets rant, from Shakespeare downwards. Mrs. Browning
-
-was Elizabethan in her luxuriance and her audacity, and the gigantic
-
-scale of her wit. We often feel with her as we feel with Shakespeare,
-
-that she would have done better with half as much talent. The great
-
-curse of the Elizabethans is upon her, that she cannot leave anything
-
-[[Alone|alone]], she cannot write a single line without a conceit:
-
-"And the eyes of the peacock fans
-
-Winked at the alien glory,"
-
-she said of the Papal fans in the presence of the Italian tricolour:
-
-"And a royal [[Blood|blood]] sends glances up her princely eye to trouble,
-
-And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,"
-
-is her description of a beautiful and aristocratic lady. The notion of
-
-peacock feathers winking like so many [[London]] urchins is perhaps one of
-
-her rather aggressive and outrageous figures of speech. The image of a
-
-woman's hair as the softened [[Shadow|shadow]] of a [[Crown|crown]] is a singularly vivid and
-
-perfect one. But both have the same quality of intellectual fancy and
-
-intellectual concentration. They are both instances of a sort of
-
-ethereal [[Epigram|epigram]]. This is the great and dominant characteristic of Mrs.
-
-Browning, that she was significant alike in failure and [[success]]. Just as
-
-every [[Marriage|marriage]] in the world, good or bad, is a [[Marriage|marriage]], dramatic,
-
-irrevocable, and big with coming events, so every one of her wild
-
-weddings between alien ideas is an accomplished fact which produces a
-
-certain effect on the [[Imagination|imagination]], which has for good or evil become
-
-part and parcel of our mental vision forever. She gives the reader the
-
-impression that she never declined a fancy, just as some gentlemen of
-
-the eighteenth century never declined a duel. When she fell it was
-
-always because she missed the foothold, never because she funked the
-
-leap.
-
-"Casa Guidi Windows" is, in one aspect, a poem very typical of its
-
-author. Mrs. Browning may fairly be called the peculiar poet of
-
-Liberalism, of that great movement of the first half of the nineteenth
-
-century towards the emancipation of men from ancient institutions which
-
-had gradually changed their [[Nature|nature]], from the houses of refuge which had
-
-turned into dungeons, and the mystic jewels which remained only as
-
-fetters. It was not what we ordinarily understand by revolt. It had no
-
-hatred in its heart for ancient and essentially human institutions. It
-
-had that deeply conservative belief in the most ancient of institutions,
-
-the average man, which goes by the name of [[democracy]]. It had none of
-
-the spirit of modern Imperialism which is kicking a man because he is
-
-down. But, on the other hand, it had none of the spirit of modern
-
-Anarchism and scepticism which is kicking a man merely because he is up.
-
-It was based fundamentally on a belief in the destiny of humanity,
-
-whether that belief took an irreligious form, as in Swinburne, or a
-
-religious form, as in Mrs. Browning. It had that rooted and natural
-
-conviction that the Millennium was coming to-morrow which has been the
-
-conviction of all iconoclasts and reformers, and for which some
-
-rationalists have been absurd enough to blame the early Christians. But
-
-they had none of that disposition to pin their whole [[Faith|faith]] to some
-
-black-and-white scientific system which afterwards became the curse of
-
-philosophical Radicalism. They were not like the sociologists who lay
-
-down a final rectification of things, amounting to nothing except an end
-
-of the world, a great deal more depressing than would be the case if it
-
-were knocked to pieces by a comet. Their ideal, like the ideal of all
-
-sensible people, was a chaotic and confused notion of goodness made up
-
-of English primroses and Greek statues, [[Birds|birds]] singing in April, and
-
-regiments being cut to pieces for a [[Flag|flag]]. They were neither Radicals nor
-
-Socialists, but Liberals, and a Liberal is a noble and indispensable
-
-lunatic who tries to make a cosmos of his own head.
-
-Mrs. Browning and her husband were more liberal than most Liberals.
-
-Theirs was the hospitality of the intellect and the hospitality of the
-
-heart, which is the best definition of the term. They never fell into
-
-the habit of the idle revolutionists of supposing that the past was bad
-
-because the future was good, which amounted to asserting that because
-
-humanity had never made anything but mistakes it was now quite certain
-
-to be right. Browning possessed in a greater degree than any other man
-
-the power of realising that all conventions were only victorious
-
-revolutions. He could follow the mediæval logicians in all their sowing
-
-of the [[Wind|wind]] and reaping of the whirlwind with all that generous ardour
-
-which is due to abstract ideas. He could study the ancients with the
-
-young eyes of the [[Renaissance]] and read a Greek grammar like a book of
-
-[[Love|love]] lyrics. This immense and almost confounding Liberalism of Browning
-
-doubtless had some effect upon his wife. In her vision of New [[Italy]] she
-
-went back to the image of Ancient [[Italy]] like an honest and true
-
-revolutionist; for does not the very word "revolution" mean a [[rolling]]
-
-backward. All true revolutions are reversions to the natural and the
-
-normal. A revolutionist who breaks with the past is a notion fit for an
-
-idiot. For how could a man even wish for something which he had never
-
-heard of? Mrs. Browning's inexhaustible sympathy with all the ancient
-
-and essential passions of humanity was nowhere more in evidence than in
-
-her conception of patriotism. For some dark reason, which it is
-
-difficult indeed to fathom, belief in patriotism in our day is held to
-
-mean principally a belief in every other nation abandoning its patriotic
-
-feelings. In the case of no other passion does this weird contradiction
-
-exist. Men whose lives are mainly based upon [[Friendship|friendship]] sympathise with
-
-the friendships of others. The interest of engaged couples in each other
-
-is a proverb, and like many other proverbs sometimes a nuisance. In
-
-patriotism [[Alone|alone]] it is considered correct just now to assume that the
-
-sentiment does not exist in other people. It was not so with the great
-
-Liberals of Mrs. Browning's [[Time|time]]. The Brownings had, so to speak, a
-
-disembodied talent for patriotism. They loved England and they loved
-
-[[Italy]]; yet they were the very reverse of cosmopolitans. They loved the
-
-two countries as countries, not as arbitrary divisions of the globe.
-
-They had hold of the root and essence of patriotism. They knew how
-
-certain [[Flowers|flowers]] and [[Birds|birds]] and rivers pass into the mills of the brain
-
-and come out as wars and discoveries, and how some triumphant adventure
-
-or some staggering crime wrought in a remote continent may bear about it
-
-the colour of an Italian [[City|city]] or the [[Soul|soul]] of a silent village of Surrey.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-ELIZABETH BARRETT BROWNING
-
-La deliziosa nuova edizione delle "Casa Guidi Windows" della signora Browning, che
-
-il signor John Lane ha appena dato alle stampe, dovrebbe certamente offrire l'occasione
-
-per quella seria critica e quell'inevitabile ammirazione cui un grande
-
-poeta ha diritto. Poiché la signora Browning fu una grande poeta, e non, come
-
-oziosamente e volgarmente si suppone, soltanto una grande poetessa. La parola poetessa è
-
-cattivo inglese, e reca un complimento particolarmente cattivo. Nulla è
-
-più notevole nell'opera della signora Browning quanto l'assenza di quella
-
-eleganza trita e sdolcinata che gli ultimi due secoli esigevano
-
-dalle scrittrici. Ovunque il suo verso è cattivo, lo è per qualche
-
-stravaganza d'immagine, qualche violenza di paragone, una sorta di
-
-dissolutezza dell'ingegno. Le sue assurdità non nascono mai dalla debolezza, ma da
-
-una confusione di poteri. Se la frase spiega se stessa, ella è assai più una
-
-grande poeta che non una buona.
-
-La signora Browning spesso appare più languida e sentimentale di molte
-
-altre donne di lettere, ma ciò accadeva perché era più forte. Occorre
-
-una certa quantità di forza interiore per crollare. Una completa
-
-[[Self|auto]]-umiliazione richiede una forza enorme, più forza di quanta la maggior parte di
-
-noi ne possieda. Quando scriveva la poesia dell'[[Self|abbandono]] di sé, ella
-
-si abbandonava davvero con il valore e la decisione di un anacoreta
-
-che abbandona il mondo. Un distico come:
-
-"Il nostro Euripide, l'umano,
-
-Con il suo stillare di calde [[Tears|lacrime]],"
-
-dà ai più di noi una sensazione stucchevole e nauseante. Nulla si può [[Well|bene]]
-
-concepire di più ridicolo di Euripide che se ne va stillando [[Tears|lacrime]] con
-
-un sonoro tonfo, e la signora Browning che gli va dietro con un termometro.
-
-Ma il punto essenziale di questo distico idiota è che la signora
-
-Hemans non l'avrebbe mai scritto. Avrebbe scritto qualcosa
-
-di perfettamente dignitoso, perfettamente innocuo, perfettamente trascurabile. La signora
-
-Browning si trovava in una grande e seria difficoltà. Voleva dire davvero
-
-qualcosa. Mirava a un'immagine viva e curiosa, e la mancava.
-
-Ebbe quel fallimento catastrofico e pubblico che è, non meno di una
-
-medaglia o di un attestato, il distintivo dei coraggiosi.
-
-Nonostante la tediosa mezza [[Truth|verità]] che l'arte sia amorale, le arti
-
-richiedono un certo considerevole numero di qualità morali, e più
-
-specialmente tutte le arti richiedono [[Courage|coraggio]]. L'arte del disegno, per
-
-esempio, richiede persino una sorta di [[Courage|coraggio]] fisico. Chiunque abbia tentato
-
-di tracciare una linea retta e abbia fallito sa che fallisce soprattutto nel nervo,
-
-come potrebbe fallire nel gettarsi da una rupe. E allo stesso modo ogni grande arte
-
-letteraria comporta l'elemento del rischio, e i più grandi artisti letterari sono
-
-comunemente stati coloro che hanno corso il maggior rischio di dire sciocchezze.
-
-Quasi tutti i grandi poeti declamano, da Shakespeare in giù. La signora Browning
-
-era elisabettiana nella sua esuberanza e nella sua audacia, e nella scala
-
-gigantesca del suo ingegno. Spesso sentiamo con lei ciò che sentiamo con Shakespeare,
-
-che avrebbe fatto meglio con la metà del talento. La grande
-
-maledizione degli elisabettiani grava su di lei: non sa lasciare nulla
-
-[[Alone|in pace]], non sa scrivere un solo verso senza un concetto arguto:
-
-"E gli occhi dei ventagli di pavone
-
-Ammiccarono all'estranea gloria,"
-
-disse dei ventagli papali in presenza del tricolore italiano:
-
-"E un regale [[Blood|sangue]] manda sguardi a turbare il suo occhio principesco,
-
-E l'[[Shadow|ombra]] della [[Crown|corona]] d'un monarca s'addolcisce nei suoi capelli,"
-
-è la sua descrizione di una bella e aristocratica dama. L'idea di
-
-penne di pavone che ammiccano come tanti monelli di [[London|Londra]] è forse una
-
-delle sue figure retoriche piuttosto aggressive e oltraggiose. L'immagine dei
-
-capelli d'una donna come l'[[Shadow|ombra]] addolcita d'una [[Crown|corona]] è singolarmente viva e
-
-perfetta. Ma entrambe hanno la stessa qualità di fantasia intellettuale e di
-
-concentrazione intellettuale. Sono entrambe esempi di una sorta di
-
-[[Epigram|epigramma]] etereo. Questa è la grande e dominante caratteristica della signora
-
-Browning: che ella fu significativa tanto nel fallimento quanto nel [[success|successo]]. Proprio come
-
-ogni [[Marriage|matrimonio]] al mondo, buono o cattivo, è un [[Marriage|matrimonio]], drammatico,
-
-irrevocabile e gravido di eventi futuri, così ogni suo selvaggio
-
-sposalizio tra idee estranee è un fatto compiuto che produce un
-
-certo effetto sull'[[Imagination|immaginazione]], che nel bene o nel male è divenuto
-
-parte integrante della nostra visione mentale per sempre. Ella dà al lettore
-
-l'impressione di non aver mai rifiutato un capriccio, proprio come certi gentiluomini
-
-del Settecento non rifiutavano mai un duello. Quando cadeva, era
-
-sempre perché mancava l'appiglio, mai perché si tirava indietro dal
-
-salto.
-
-"Casa Guidi Windows" è, sotto un aspetto, un poema molto tipico della sua
-
-autrice. La signora Browning può a buon diritto esser detta la poeta peculiare del
-
-Liberalismo, di quel grande movimento della prima metà del secolo
-
-diciannovesimo verso l'emancipazione degli uomini dalle antiche istituzioni che
-
-avevano gradualmente mutato la loro [[Nature|natura]], dalle case di rifugio che si erano
-
-trasformate in prigioni, e dai mistici gioielli rimasti ormai soltanto come
-
-catene. Non era ciò che ordinariamente intendiamo per rivolta. Non aveva alcun
-
-odio nel cuore per le antiche ed essenzialmente umane istituzioni. Aveva
-
-quella credenza profondamente conservatrice nella più antica delle istituzioni,
-
-l'uomo comune, che va sotto il nome di [[democracy|democrazia]]. Non aveva nulla
-
-dello spirito del moderno Imperialismo, che prende a calci un uomo perché è
-
-a terra. Ma, d'altra parte, non aveva nulla dello spirito del moderno
-
-Anarchismo e scetticismo, che prende a calci un uomo solo perché è in alto.
-
-Si fondava fondamentalmente su una fede nel destino dell'umanità,
-
-sia che tale fede assumesse una forma irreligiosa, come in Swinburne, sia una
-
-forma religiosa, come nella signora Browning. Aveva quella radicata e naturale
-
-convinzione che il Millennio sarebbe giunto l'indomani, che è stata la
-
-convinzione di tutti gli iconoclasti e riformatori, e per la quale alcuni
-
-razionalisti sono stati tanto assurdi da biasimare i primi cristiani. Ma
-
-essi non avevano quella disposizione ad appuntare tutta la loro [[Faith|fede]] su qualche
-
-sistema scientifico in bianco e nero che divenne poi la maledizione del
-
-Radicalismo filosofico. Non erano come i sociologi che stabiliscono
-
-una rettifica finale delle cose, che non equivale a nulla se non a una fine
-
-del mondo, assai più deprimente di quanto sarebbe se essa
-
-venisse fatta a pezzi da una cometa. Il loro ideale, come l'ideale di tutte
-
-le persone assennate, era una nozione caotica e confusa di bontà fatta
-
-di primule inglesi e statue greche, [[Birds|uccelli]] che cantano in aprile, e
-
-reggimenti fatti a pezzi per una [[Flag|bandiera]]. Non erano né Radicali né
-
-Socialisti, ma Liberali, e un Liberale è un nobile e indispensabile
-
-folle che tenta di fare un cosmo della propria testa.
-
-La signora Browning e suo marito erano più liberali della maggior parte dei Liberali.
-
-La loro era l'ospitalità dell'intelletto e l'ospitalità del
-
-cuore, che è la migliore definizione del termine. Non caddero mai
-
-nell'abitudine degli oziosi rivoluzionari di supporre che il passato fosse cattivo
-
-perché il futuro era buono, il che equivaleva ad affermare che, poiché
-
-l'umanità non aveva mai fatto altro che errori, era ormai del tutto certo
-
-che avesse ragione. Browning possedeva in grado maggiore di ogni altro uomo
-
-il potere di comprendere che tutte le convenzioni non erano che rivoluzioni
-
-vittoriose. Sapeva seguire i logici medievali in tutto il loro seminare
-
-il [[Wind|vento]] e mietere la tempesta con tutto quel generoso ardore
-
-che è dovuto alle idee astratte. Sapeva studiare gli antichi con i
-
-giovani occhi del [[Renaissance|Rinascimento]] e leggere una grammatica greca come un libro di
-
-liriche d'[[Love|amore]]. Questo immenso e quasi sconcertante Liberalismo di Browning
-
-ebbe senza dubbio qualche effetto sulla moglie. Nella sua visione della Nuova [[Italy|Italia]] ella
-
-tornava all'immagine dell'Antica [[Italy|Italia]] come un'onesta e vera
-
-rivoluzionaria; poiché la parola stessa "rivoluzione" non significa forse un [[rolling|rotolare]]
-
-all'indietro? Tutte le vere rivoluzioni sono ritorni al naturale e al
-
-normale. Un rivoluzionario che rompe col passato è un'idea degna di un
-
-idiota. Poiché come potrebbe un uomo desiderare qualcosa di cui non aveva mai
-
-sentito parlare? L'inesauribile simpatia della signora Browning per tutte le antiche
-
-ed essenziali passioni dell'umanità in nessun luogo si manifestava più che nella
-
-sua concezione del patriottismo. Per qualche oscura ragione, che è
-
-davvero difficile scandagliare, la fede nel patriottismo ai nostri giorni si ritiene
-
-significhi principalmente la fede che ogni altra nazione abbandoni i propri sentimenti
-
-patriottici. Nel caso di nessun'altra passione esiste questa strana
-
-contraddizione. Gli uomini la cui vita si fonda principalmente sull'[[Friendship|amicizia]] simpatizzano con
-
-le amicizie altrui. L'interesse delle coppie di fidanzati l'uno per l'altro
-
-è proverbiale, e come molti altri proverbi talora una seccatura. Nel
-
-patriottismo [[Alone|solo]] si ritiene corretto proprio ora supporre che il
-
-sentimento non esista negli altri. Non era così per i grandi
-
-Liberali del [[Time|tempo]] della signora Browning. I Browning avevano, per così dire, un
-
-talento disincarnato per il patriottismo. Amavano l'Inghilterra e amavano
-
-l'[[Italy|Italia]]; eppure erano l'esatto opposto dei cosmopoliti. Amavano i
-
-due paesi come paesi, non come arbitrarie divisioni del globo.
-
-Coglievano la radice e l'essenza del patriottismo. Sapevano come
-
-certi [[Flowers|fiori]] e [[Birds|uccelli]] e fiumi passino nei mulini del cervello
-
-e ne escano come guerre e scoperte, e come qualche trionfante avventura
-
-o qualche sconvolgente delitto compiuto in un continente remoto possa recare in sé
-
-il colore di una [[City|città]] italiana o l'[[Soul|anima]] di un silenzioso villaggio del Surrey.
-
-
-
 <span class="atom-split" data-atom="story_03_william_morris_and_his_school--part_01" data-title="VariedTypes — William Morris And His School (part 1)" data-chapter="William Morris And His School" data-kind="excerpt"></span>
 
 
@@ -13491,6 +10295,598 @@ tanti parenti. Se lo aveste condotto alla stella più solitaria che
 la [[Madness|follia]] di un astronomo possa concepire, egli vi avrebbe scorto soltanto
 
 i lineamenti di un nuovo amico.
+
+
+
+<span class="atom-split" data-atom="story_06_rostand" data-title="VariedTypes — Rostand" data-chapter="Rostand" data-kind="story"></span>
+
+
+ROSTAND
+
+When "Cyrano de Bergerac" was published, it bore the subordinate title
+
+of a heroic [[Comedy|comedy]]. We have no tradition in English literature which
+
+would justify us in calling a [[Comedy|comedy]] heroic, though there was once a
+
+poet who called a [[Comedy|comedy]] divine. By the current modern conception, the
+
+[[Hero|hero]] has his place in a [[Tragedy|tragedy]], and the one kind of strength which is
+
+systematically denied to him is the strength to succeed. That the power
+
+of a man's spirit might possibly go to the length of turning a [[Tragedy|tragedy]]
+
+into a [[Comedy|comedy]] is not admitted; nevertheless, almost all the primitive
+
+legends of the world are comedies, not only in the sense that they have
+
+a happy ending, but in the sense that they are based upon a certain
+
+optimistic assumption that the [[Hero|hero]] is destined to be the destroyer of
+
+the [[Monster|monster]]. Singularly enough, this modern idea of the essential
+
+disastrous character of life, when seriously considered, connects itself
+
+with a hyper-æsthetic view of [[Tragedy|tragedy]] and [[Comedy|comedy]] which is largely due
+
+to the influence of modern France, from which the great heroic comedies
+
+of Monsieur Rostand have come. The French genius has an instinct for
+
+remedying its own evil work, and France gives always the best cure for
+
+"Frenchiness." The idea of [[Comedy|comedy]] which is held in England by the school
+
+which pays most attention to the technical niceties of art is a view
+
+which renders such an idea as that of heroic [[Comedy|comedy]] quite impossible.
+
+The fundamental conception in the minds of the majority of our younger
+
+writers is that [[Comedy|comedy]] is, _par excellence_, a fragile thing. It is
+
+conceived to be a conventional world of the most absolutely delicate and
+
+gimcrack description. Such stories as Mr. Max Beerbohm's "Happy
+
+Hypocrite" are conceptions which would vanish or fall into utter
+
+nonsense if viewed by one single degree too seriously. But great [[Comedy|comedy]],
+
+the [[Comedy|comedy]] of Shakespeare or Sterne, not only can be, but must be, taken
+
+seriously. There is nothing to which a man must give himself up with
+
+more [[Faith|faith]] and [[Self|self]]-abandonment than to genuine laughter. In such
+
+comedies one laughs with the heroes, and not at them. The [[Humour|humour]] which
+
+steeps the stories of [[Falstaff]] and Uncle Toby is a cosmic and
+
+philosophic [[Humour|humour]], a geniality which goes down to the depths. It is not
+
+superficial reading, it is not even, strictly speaking, light reading.
+
+Our sympathies are as much committed to the characters as if they were
+
+the predestined victims in a [[Greek Tragedy|Greek tragedy]]. The modern writer of
+
+comedies may be said to boast of the brittleness of his characters. He
+
+seems always on the eve of knocking his puppets to pieces. When John
+
+[[Oliver]] Hobbes wrote for the first [[Time|time]] a [[Comedy|comedy]] of serious emotions, she
+
+named it, with a thinly-disguised contempt for her own work, "A
+
+Sentimental [[Comedy]]." The ground of this conception of the artificiality
+
+of [[Comedy|comedy]] is a profound pessimism. Life in the eyes of these mournful
+
+buffoons is itself an utterly tragic thing; [[Comedy|comedy]] must be as hollow as
+
+a grinning mask. It is a refuge from the world, and not even, properly
+
+speaking, a part of it. Their wit is a thin sheet of shining ice over
+
+the eternal waters of bitterness.
+
+"Cyrano de Bergerac" came to us as the new decoration of an old [[Truth|truth]],
+
+that merriment was one of the world's natural [[Flowers|flowers]], and not one of
+
+its exotics. The gigantesque levity, the flamboyant eloquence, the
+
+Rabelaisian puns and digressions were seen to be once more what they had
+
+been in Rabelais, the mere outbursts of a human sympathy and bravado as
+
+old and solid as the [[Stars|stars]]. The human spirit demanded wit as headlong
+
+and haughty as its will. All was expressed in the words of Cyrano at his
+
+highest moment of happiness, _Il me faut des géants_. An essential
+
+aspect of this question of heroic [[Comedy|comedy]] is the question of drama in
+
+rhyme. There is nothing that affords so easy a point of attack for the
+
+dramatic realist as the conduct of a play in verse. According to his
+
+canons, it is indeed absurd to represent a number of characters facing
+
+some terrible crisis in their lives by capping rhymes like a party
+
+playing _bouts rimés_. In his eyes it must appear somewhat ridiculous
+
+that two enemies taunting each other with insupportable insults should
+
+obligingly provide each other with metrical spacing and neat and
+
+convenient rhymes. But the whole of this view rests finally upon the
+
+fact that few persons, if any, to-day understand what is meant by a
+
+poetical play. It is a singular thing that those poetical plays which
+
+are now written in England by the most advanced students of the drama
+
+follow exclusively the lines of Maeterlinck, and use verse and rhyme for
+
+the adornment of a profoundly tragic theme. But rhyme has a supreme
+
+appropriateness for the treatment of the higher [[Comedy|comedy]]. The land of
+
+heroic [[Comedy|comedy]] is, as it were, a paradise of [[lovers]], in which it is not
+
+difficult to imagine that men could talk poetry all day long. It is far
+
+more conceivable that men's speech should flower naturally into these
+
+harmonious forms, when they are filled with the essential spirit of
+
+youth, than when they are sitting gloomily in the presence of immemorial
+
+destiny. The great error consists in supposing that poetry is an
+
+unnatural form of language. We should all like to speak poetry at the
+
+moment when we truly live, and if we do not speak, it is because we have
+
+an impediment in our speech. It is not [[Song|song]] that is the narrow or
+
+artificial thing, it is conversation that is a broken and stammering
+
+attempt at [[Song|song]]. When we see men in a spiritual extravaganza, like
+
+"Cyrano de Bergerac," speaking in rhyme, it is not our language
+
+disguised or distorted, but our language rounded and made whole. Rhymes
+
+answer each other as the sexes in [[Flowers|flowers]] and in humanity answer each
+
+other. Men do not speak so, it is true. Even when they are inspired or
+
+in [[Love|love]] they talk inanities. But the poetic [[Comedy|comedy]] does not misrepresent
+
+the speech one half so much as the speech misrepresents the [[Soul|soul]].
+
+Monsieur Rostand showed even more than his usual insight when he called
+
+"Cyrano de Bergerac" a [[Comedy|comedy]], despite the fact that, strictly speaking,
+
+it ends with disappointment and [[Death|death]]. The essence of [[Tragedy|tragedy]] is a
+
+spiritual breakdown or decline, and in the great French play the
+
+spiritual sentiment mounts unceasingly until the last line. It is not
+
+the facts themselves, but our feeling about them, that makes [[Tragedy|tragedy]] and
+
+[[Comedy|comedy]], and [[Death|death]] is more joyful in Rostand than life in Maeterlinck.
+
+The same apparent contradiction holds good in the case of the drama of
+
+"L'Aiglon," now being performed with so much [[success]]. Although the [[Hero|hero]]
+
+is a weakling, the subject a fiasco, the end a premature [[Death|death]] and a
+
+personal [[Disillusionment|disillusionment]], yet, in spite of this theme, which might have
+
+been chosen for its depressing qualities, the unconquerable pæan of the
+
+praise of things, the ungovernable gaiety of the poet's [[Song|song]] swells so
+
+high that at the end it seems to drown all the weak voices of the
+
+characters in one crashing [[Chorus|chorus]] of great things and great men. A
+
+multitude of mottoes might be taken from the play to indicate and
+
+illustrate, not only its own spirit, but much of the spirit of modern
+
+life. When in the vision of the field of Wagram the horrible voices of
+
+the wounded cry out, _Les corbeaux, les corbeaux_, the Duke, overwhelmed
+
+with a [[nightmare]] of hideous trivialities, cries out, _Où, où, sont les
+
+aigles?_ That antithesis might stand [[Alone|alone]] as an invocation at the
+
+beginning of the twentieth century to the spirit of heroic [[Comedy|comedy]]. When
+
+an ex-General of Napoleon is asked his reason for having betrayed the
+
+Emperor, he replies, _La fatigue_, and at that a veteran private of the
+
+Great Army rushes forward, and crying passionately, _Et nous?_ pours out
+
+a terrible description of the life lived by the commoner soldier.
+
+To-day, when pessimism is almost as much a symbol of wealth and fashion
+
+as jewels or cigars, when the pampered heirs of the ages can sum up life
+
+in few other words but _la fatigue_, there might surely come a cry from
+
+the vast mass of common humanity from the beginning--_et nous?_ It is
+
+this potentiality for enthusiasm among the mass of men that makes the
+
+function of [[Comedy|comedy]] at once common and [[Sublime|sublime]]. Shakespeare's "Much Ado
+
+About Nothing" is a great [[Comedy|comedy]], because behind it is the whole
+
+pressure of that [[Love|love]] of [[Love|love]] which is the youth of the world, which is
+
+common to all the young, especially to those who swear they will die
+
+bachelors and old maids. "[[Love's Labour's Lost]]" is filled with the same
+
+energy, and there it falls even more definitely into the scope of our
+
+subject, since it is a [[Comedy|comedy]] in rhyme in which all men speak lyrically
+
+as naturally as the [[Birds|birds]] sing in pairing [[Time|time]]. What the [[Love|love]] of [[Love|love]]
+
+is to the Shakespearean comedies, that other and more mysterious human
+
+passion, the [[Love|love]] of [[Death|death]], is to "L'Aiglon." Whether we shall ever have
+
+in England a new tradition of poetic [[Comedy|comedy]] it is difficult at present
+
+to say, but we shall assuredly never have it until we realise that
+
+[[Comedy|comedy]] is built upon everlasting foundations in the [[Nature|nature]] of things,
+
+that it is not a thing too light to capture, but too deep to plumb.
+
+Monsieur Rostand, in his description of the Battle of Wagram, does not
+
+shrink from bringing about the Duke's ears the frightful voices of
+
+actual battle, of men torn by crows, and suffocated with [[Blood|blood]], but when
+
+the Duke, terrified at these dreadful appeals, asks them for their final
+
+word, they all cry together _Vive l'Empereur!_ Monsieur Rostand,
+
+perhaps, did not know that he was writing an [[Allegory|allegory]]. To me that field
+
+of Wagram is the field of the modern war of literature. We hear nothing
+
+but the voices of [[Pain|pain]]; the whole is one phonograph of horror. It is
+
+right that we should hear these things, it is right that not one of
+
+them should be silenced; but these cries of distress are not in life, as
+
+they are in modern art, the only voices; they are the voices of men, but
+
+not the voice of man. When questioned finally and seriously as to their
+
+conception of their destiny, men have from the beginning of [[Time|time]]
+
+answered in a thousand philosophies and religions with a single voice
+
+and in a sense most sacred and tremendous, _Vive l'Empereur_.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+ROSTAND
+
+Quando fu pubblicato il «Cyrano de Bergerac», recava il sottotitolo
+
+di [[Comedy|commedia]] eroica. Non abbiamo alcuna tradizione, nella letteratura inglese, che
+
+ci autorizzi a chiamare eroica una [[Comedy|commedia]], benché vi fosse una volta un
+
+poeta che chiamò divina una [[Comedy|commedia]]. Secondo la concezione moderna corrente, l'
+
+[[Hero|eroe]] ha il suo posto in una [[Tragedy|tragedia]], e l'unica specie di forza che gli è
+
+sistematicamente negata è la forza di riuscire. Che la potenza
+
+dello spirito di un uomo possa spingersi fino a mutare una [[Tragedy|tragedia]]
+
+in [[Comedy|commedia]] non è ammesso; nondimeno, quasi tutte le primitive
+
+leggende del mondo sono commedie, non solo nel senso che hanno
+
+un lieto fine, ma nel senso che si fondano su una certa
+
+ottimistica assunzione che l'[[Hero|eroe]] sia destinato a essere il distruttore del
+
+[[Monster|mostro]]. Cosa abbastanza singolare, questa idea moderna dell'essenziale
+
+carattere disastroso della vita, se seriamente considerata, si collega
+
+a una visione iperestetica della [[Tragedy|tragedia]] e della [[Comedy|commedia]] che si deve in gran parte
+
+all'influenza della Francia moderna, da cui sono venute le grandi commedie eroiche
+
+di Monsieur Rostand. Il genio francese ha un istinto per
+
+rimediare alla propria opera malvagia, e la Francia offre sempre il miglior rimedio alla
+
+«francesità». L'idea di [[Comedy|commedia]] sostenuta in Inghilterra dalla scuola
+
+che presta la massima attenzione alle finezze tecniche dell'arte è una veduta
+
+che rende del tutto impossibile un'idea come quella della [[Comedy|commedia]] eroica.
+
+La concezione fondamentale nella mente della maggioranza dei nostri più giovani
+
+scrittori è che la [[Comedy|commedia]] sia, _par excellence_, una cosa fragile. È
+
+concepita come un mondo convenzionale della più assolutamente delicata e
+
+cianfrusagliosa fattura. Storie come l'«Ipocrita felice» del signor Max
+
+Beerbohm sono concezioni che svanirebbero o precipiterebbero nel più totale
+
+assurdità se guardati con un solo grado di troppa serietà. Ma la grande [[Comedy|commedia]],
+
+la [[Comedy|commedia]] di Shakespeare o di Sterne, non solo può, ma deve essere presa
+
+sul serio. Non vi è nulla a cui un uomo debba abbandonarsi con
+
+più [[Faith|fede]] e [[Self|auto]]-abbandono che alla genuina risata. In tali
+
+commedie si ride con gli eroi, e non di loro. L'[[Humour|umorismo]] che
+
+impregna le storie di [[Falstaff]] e dello Zio Toby è un umorismo cosmico e
+
+filosofico [[Humour|umorismo]], una giovialità che scende fino agli abissi. Non è
+
+una lettura superficiale, non è nemmeno, a rigore, una lettura leggera.
+
+Le nostre simpatie sono coinvolte nei personaggi tanto quanto se fossero
+
+le vittime predestinate di una [[Greek Tragedy|tragedia greca]]. Il moderno scrittore di
+
+commedie si può dire che si vanti della fragilità dei suoi personaggi. Egli
+
+sembra sempre sul punto di ridurre in pezzi i suoi burattini. Quando John
+
+[[Oliver]] Hobbes scrisse per la prima [[Time|volta]] una [[Comedy|commedia]] di serie emozioni, ella
+
+intitolò, con un disprezzo malamente celato per la propria opera, «Una
+
+[[Comedy|commedia]] sentimentale». Il fondamento di questa concezione dell'artificiosità
+
+della [[Comedy|commedia]] è un profondo pessimismo. La vita, agli occhi di questi lugubri
+
+buffoni, è essa stessa cosa del tutto tragica; la [[Comedy|commedia]] dev'essere vuota come
+
+una maschera ghignante. È un rifugio dal mondo, e nemmeno, a rigor di
+
+termini, una parte di esso. Il loro spirito è una sottile lastra di ghiaccio splendente sopra
+
+le eterne acque dell'amarezza.
+
+«Cyrano de Bergerac» ci giunse come il nuovo ornamento di una vecchia [[Truth|verità]],
+
+che l'allegria fosse uno dei naturali [[Flowers|fiori]] del mondo, e non una delle
+
+sue piante esotiche. La leggerezza gigantesca, l'eloquenza fiammeggiante, i
+
+giochi di parole e le digressioni rabelaisiane si videro essere ancora una volta ciò che erano
+
+stati in Rabelais, i meri prorompimenti di una simpatia umana e di una spavalderia tanto
+
+antiche e solide quanto le [[Stars|stelle]]. Lo spirito umano esigeva uno spirito impetuoso
+
+e altero quanto la sua volontà. Tutto era espresso nelle parole di Cyrano nel suo
+
+più alto momento di felicità, _Il me faut des géants_. Un aspetto essenziale
+
+di questa questione della [[Comedy|commedia]] eroica è la questione del dramma in
+
+rima. Non vi è nulla che offra un punto d'attacco così facile al
+
+realista drammatico quanto la condotta di un'opera in versi. Secondo i suoi
+
+canoni, è davvero assurdo rappresentare una serie di personaggi che affrontano
+
+qualche terribile crisi della loro vita rincorrendo rime come una brigata
+
+che gioca ai _bouts rimés_. Ai suoi occhi deve apparire alquanto ridicolo
+
+che due nemici, schernendosi a vicenda con insulti insopportabili, debbano
+
+cortesemente fornirsi l'un l'altro spaziature metriche e rime nette e
+
+convenienti. Ma tutta questa veduta poggia in ultimo sul
+
+fatto che poche persone, se pur alcune, comprendono oggi cosa s'intenda per un'
+
+opera poetica. È cosa singolare che quelle opere poetiche che
+
+sono oggi scritte in Inghilterra dai più avanzati studiosi del dramma
+
+seguano esclusivamente le linee di Maeterlinck, e usino il verso e la rima per
+
+l'ornamento di un tema profondamente tragico. Ma la rima ha una suprema
+
+appropriatezza per il trattamento della [[Comedy|commedia]] più alta. La terra della
+
+[[Comedy|commedia]] eroica è, per così dire, un paradiso di [[lovers|amanti]], in cui non è
+
+difficile immaginare che gli uomini possano parlare in poesia tutto il giorno. È assai
+
+più concepibile che il linguaggio degli uomini fiorisca naturalmente in queste
+
+forme armoniose, quando sono colmi dell'essenziale spirito della
+
+giovinezza, che quando siedono cupamente al cospetto dell'immemoriale
+
+destino. Il grande errore consiste nel supporre che la poesia sia una
+
+forma innaturale di linguaggio. A tutti noi piacerebbe parlare in poesia nel
+
+momento in cui viviamo davvero, e se non parliamo, è perché abbiamo
+
+un impedimento nella parola. Non è il [[Song|canto]] la cosa angusta o
+
+artificiale, è la conversazione a essere un tentativo spezzato e balbettante
+
+di [[Song|canto]]. Quando vediamo uomini in una stravaganza spirituale, come
+
+«Cyrano de Bergerac», parlare in rima, non è la nostra lingua
+
+travestita o distorta, ma la nostra lingua arrotondata e resa intera. Le rime
+
+si rispondono a vicenda come i sessi nei [[Flowers|fiori]] e nell'umanità si rispondono a
+
+vicenda. Gli uomini non parlano così, è vero. Persino quando sono ispirati o
+
+in [[Love|amore]] dicono inezie. Ma la [[Comedy|commedia]] poetica non travisa
+
+il discorso neppure la metà di quanto il discorso travisa l'[[Soul|anima]].
+
+Monsieur Rostand mostrò ancor più della sua consueta acutezza quando chiamò
+
+«Cyrano de Bergerac» una [[Comedy|commedia]], nonostante il fatto che, a rigore,
+
+esso finisca con la delusione e la [[Death|morte]]. L'essenza della [[Tragedy|tragedia]] è un
+
+crollo o declino spirituale, e nel grande dramma francese il
+
+sentimento spirituale sale senza sosta fino all'ultima riga. Non sono
+
+i fatti stessi, ma il nostro sentimento verso di essi, a fare la [[Tragedy|tragedia]] e la
+
+[[Comedy|commedia]], e la [[Death|morte]] è più gioiosa in Rostand di quanto lo sia la vita in Maeterlinck.
+
+La stessa apparente contraddizione vale nel caso del dramma di
+
+«L'Aiglon», ora rappresentato con tanto [[success|successo]]. Benché l'[[Hero|eroe]]
+
+sia un debole, il soggetto un fiasco, il finale una [[Death|morte]] prematura e una
+
+[[Disillusionment|disillusione]] personale, tuttavia, a dispetto di questo tema, che avrebbe potuto
+
+essere scelto per le sue qualità deprimenti, l'invincibile peana di
+
+lode delle cose, l'ingovernabile gaiezza del [[Song|canto]] del poeta si gonfia così
+
+alta che alla fine sembra sommergere tutte le deboli voci dei
+
+personaggi in un unico fragoroso [[Chorus|coro]] di grandi cose e grandi uomini. Una
+
+moltitudine di motti potrebbe trarsi dall'opera per indicare e
+
+illustrare, non solo il suo spirito, ma molto dello spirito della vita
+
+moderna. Quando, nella visione del campo di Wagram, le orribili voci dei
+
+feriti gridano, _Les corbeaux, les corbeaux_, il Duca, sopraffatto
+
+da un [[nightmare|incubo]] di orrende banalità, grida, _Où, où, sont les
+
+aigles?_ Quell'antitesi potrebbe reggersi [[Alone|da sola]] come un'invocazione all'
+
+inizio del ventesimo secolo allo spirito della [[Comedy|commedia]] eroica. Quando
+
+a un ex-generale di Napoleone si chiede la ragione per cui tradì l'
+
+Imperatore, egli risponde, _La fatigue_, e a ciò un veterano soldato semplice della
+
+Grande Armata si slancia avanti, e gridando appassionatamente, _Et nous?_ riversa
+
+una terribile descrizione della vita vissuta dal soldato più umile.
+
+Oggi, quando il pessimismo è quasi tanto un simbolo di ricchezza e di moda
+
+quanto i gioielli o i sigari, quando i viziati eredi dei secoli sanno riassumere la vita
+
+con poche altre parole se non _la fatigue_, potrebbe di certo levarsi un grido dalla
+
+vasta massa dell'umanità comune fin dagli inizi — _et nous?_ È
+
+questa potenzialità di entusiasmo tra la massa degli uomini che rende la
+
+funzione della [[Comedy|commedia]] al tempo stesso comune e [[Sublime|sublime]]. «Molto rumore
+
+per nulla» di Shakespeare è una grande [[Comedy|commedia]], perché dietro di essa c'è tutta la
+
+pressione di quell'[[Love|amore]] dell'[[Love|amore]] che è la giovinezza del mondo, che è
+
+comune a tutti i giovani, specie a coloro che giurano che moriranno
+
+scapoli e zitelle. «[[Love's Labour's Lost|Pene d'amor perdute]]» è colmo della stessa
+
+energia, e lì rientra ancor più decisamente nell'ambito del nostro
+
+soggetto, poiché è una [[Comedy|commedia]] in rima in cui tutti gli uomini parlano liricamente
+
+con la stessa naturalezza con cui gli [[Birds|uccelli]] cantano nella [[Time|stagione]] degli amori. Ciò che l'[[Love|amore]] dell'[[Love|amore]]
+
+è per le commedie shakespeariane, quell'altra e più misteriosa umana
+
+passione, l'[[Love|amore]] della [[Death|morte]], lo è per «L'Aiglon». Se mai avremo
+
+in Inghilterra una nuova tradizione di [[Comedy|commedia]] poetica è difficile al presente
+
+dirlo, ma di certo non l'avremo mai finché non comprenderemo che la
+
+[[Comedy|commedia]] è edificata su eterne fondamenta nella [[Nature|natura]] delle cose,
+
+che non è cosa troppo lieve da afferrare, ma troppo profonda da scandagliare.
+
+Il signor Rostand, nella sua descrizione della Battaglia di Wagram, non
+
+esita a portare alle orecchie del Duca le spaventose voci della
+
+battaglia reale, di uomini dilaniati dai corvi, e soffocati nel [[Blood|sangue]], ma quando
+
+il Duca, atterrito da questi terribili richiami, chiede loro la loro ultima
+
+finale, tutti gridano insieme _Vive l'Empereur!_ Monsieur Rostand,
+
+forse, non sapeva di scrivere un'[[Allegory|allegoria]]. Per me quel campo
+
+di Wagram è il campo della moderna guerra della letteratura. Non udiamo nulla
+
+se non le voci del [[Pain|dolore]]; il tutto è un unico fonografo d'orrore. È
+
+giusto che udiamo queste cose, è giusto che nessuna di
+
+esse sia messa a tacere; ma questi gridi d'angoscia non sono, nella vita, come
+
+lo sono nell'arte moderna, le uniche voci; sono le voci degli uomini, ma
+
+non la voce dell'uomo. Interrogati infine e seriamente sulla loro
+
+concezione del proprio destino, gli uomini hanno fin dal principio del [[Time|tempo]]
+
+risposto in mille filosofie e religioni con una sola voce
+
+e in un senso sacratissimo e tremendo, _Vive l'Empereur_.
 
 
 
@@ -16644,6 +14040,518 @@ sole si oscurò in pieno mezzogiorno.
 
 
 
+<span class="atom-split" data-atom="story_09_savonarola" data-title="VariedTypes — Savonarola" data-chapter="Savonarola" data-kind="story"></span>
+
+
+SAVONAROLA
+
+Savonarola is a man whom we shall probably never understand until we
+
+know what horror may lie at the heart of civilisation. This we shall not
+
+know until we are civilised. It may be hoped, in one sense, that we may
+
+never understand Savonarola.
+
+The great deliverers of men have, for the most part, saved them from
+
+calamities which we all recognise as evil, from calamities which are the
+
+ancient enemies of humanity. The great law-givers saved us from anarchy:
+
+the great physicians saved us from pestilence: the great reformers saved
+
+us from starvation. But there is a huge and bottomless evil compared
+
+with which all these are fleabites, the most desolating curse that can
+
+fall upon men or nations, and it has no name except we call it
+
+satisfaction. Savonarola did not save men from anarchy, but from order;
+
+not from pestilence, but from paralysis; not from starvation, but from
+
+luxury. Men like Savonarola are the witnesses to the tremendous
+
+psychological fact at the back of all our brains, but for which no name
+
+has ever been found, that ease is the worst enemy of happiness, and
+
+civilisation potentially the end of man.
+
+For I fancy that Savonarola's thrilling challenge to the luxury of his
+
+day went far deeper than the mere question of sin. The modern
+
+rationalistic admirers of Savonarola, from George Eliot downwards,
+
+dwell, truly enough, upon the sound ethical justification of
+
+Savonarola's anger, upon the hideous and extravagant character of the
+
+crimes which polluted the palaces of the [[Renaissance]]. But they need not
+
+be so anxious to show that Savonarola was no [[ascetic]], that he merely
+
+picked out the black specks of wickedness with the priggish
+
+enlightenment of a member of an Ethical Society. Probably he did hate
+
+the civilisation of his [[Time|time]], and not merely its sins; and that is
+
+precisely where he was infinitely more profound than a modern moralist.
+
+He saw, that the actual crimes were not the only evils: that stolen
+
+jewels and poisoned wine and obscene pictures were merely the symptoms;
+
+that the disease was the complete dependence upon jewels and wine and
+
+pictures. This is a thing constantly forgotten in judging of ascetics
+
+and Puritans in old times. A denunciation of harmless sports did not
+
+always mean an ignorant hatred of what no one but a narrow moralist
+
+would call harmful. Sometimes it meant an exceedingly enlightened hatred
+
+of what no one but a narrow moralist would call harmless. Ascetics are
+
+sometimes more advanced than the average man, as [[Well|well]] as less.
+
+Such, at least, was the hatred in the heart of Savonarola. He was making
+
+war against no trivial human sins, but against godless and thankless
+
+quiescence, against getting used to happiness, the mystic sin by which
+
+all creation fell. He was preaching that severity which is the
+
+sign-manual of youth and [[Hope|hope]]. He was preaching that alertness, that
+
+clean agility and vigilance, which is as necessary to gain pleasure as
+
+to gain holiness, as indispensable in a [[Lover|lover]] as in a monk. A critic has
+
+truly pointed out that Savonarola could not have been fundamentally
+
+anti-æsthetic, since he had such friends as [[Michael]] [[Angelo]], Botticelli,
+
+and Luca della Robbia. The fact is that this [[Purification|purification]] and austerity
+
+are even more necessary for the appreciation of life and laughter than
+
+for anything else. To let no bird fly past unnoticed, to spell patiently
+
+the stones and weeds, to have the mind a storehouse of sunset, requires
+
+a discipline in pleasure, and an [[Education|education]] in gratitude.
+
+The civilisation which surrounded Savonarola on every side was a
+
+civilisation which had already taken the wrong turn, the turn that leads
+
+to endless inventions and no discoveries, in which new things grow old
+
+with confounding rapidity, but in which no old things ever grow new. The
+
+monstrosity of the crimes of the [[Renaissance]] was not a mark of
+
+[[Imagination|imagination]]; it was a mark, as all monstrosity is, of the loss of
+
+[[Imagination|imagination]]. It is only when a man has really ceased to see a [[Horse|horse]] as
+
+it is, that he invents a centaur, only when he can no longer be
+
+surprised at an ox, that he worships the devil. Diablerie is the
+
+stimulant of the jaded fancy; it is the dram-drinking of the [[artist]].
+
+Savonarola addressed himself to the hardest of all earthly tasks, that
+
+of making men turn back and [[Wonder|wonder]] at the simplicities they had learnt
+
+to ignore. It is strange that the most unpopular of all doctrines is the
+
+doctrine which declares the common life divine. [[democracy|Democracy]], of which
+
+Savonarola was so fiery an exponent, is the hardest of gospels; there is
+
+nothing that so terrifies men as the decree that they are all kings.
+
+[[Christianity]], in Savonarola's mind, identical with [[democracy]], is the
+
+hardest of gospels; there is nothing that so strikes men with [[Fear|fear]] as
+
+the saying that they are all the sons of God.
+
+Savonarola and his republic fell. The drug of despotism was administered
+
+to the people, and they forgot what they had been. There are some at the
+
+present day who have so strange a respect for art and letters, and for
+
+mere men of genius, that they conceive the reign of the Medici to be an
+
+improvement on that of the great Florentine republican. It is such men
+
+as these and their civilisation that we have at the present day to
+
+[[Fear|fear]]. We are surrounded on many sides by the same symptoms as those
+
+which awoke the unquenchable wrath of Savonarola--a hedonism that is
+
+more sick of happiness than an invalid is sick of [[Pain|pain]], an art sense
+
+that seeks the assistance of crime since it has exhausted [[Nature|nature]]. In
+
+many modern works we find veiled and horrible hints of a truly
+
+[[Renaissance]] sense of the [[Beauty|beauty]] of [[Blood|blood]], the poetry of murder. The
+
+bankrupt and depraved [[Imagination|imagination]] does not see that a living man is far
+
+more dramatic than a dead one. Along with this, as in the [[Time|time]] of the
+
+Medici, goes the falling back into the arms of despotism, the hunger for
+
+the strong man which is unknown among strong men. The masterful [[Hero|hero]] is
+
+worshipped as he is worshipped by the readers of the "Bow [[Bells]]
+
+Novelettes," and for the same reason--a profound sense of personal
+
+weakness. That tendency to devolve our duties descends on us, which is
+
+the [[Soul|soul]] of [[Slavery|slavery]], alike whether for its menial tasks it employs serfs
+
+or emperors. Against all this the great clerical republican stands in
+
+everlasting protest, preferring his failure to his rival's [[success]]. The
+
+issue is still between him and [[Lorenzo]], between the responsibilities of
+
+liberty and the license of [[Slavery|slavery]], between the perils of [[Truth|truth]] and the
+
+security of [[Silence|silence]], between the pleasure of toil and the toil of
+
+pleasure. The supporters of [[Lorenzo]] the Magnificent are assuredly among
+
+us, men for whom even nations and empires only exist to satisfy the
+
+moment, men to whom the last hot hour of [[Summer|summer]] is better than a sharp
+
+and wintry [[spring]]. They have an art, a literature, a political
+
+[[philosophy]], which are all alike valued for their immediate effect upon
+
+the taste, not for what they promise of the destiny of the spirit. Their
+
+statuettes and sonnets are rounded and perfect, while "[[Macbeth]]" is in
+
+comparison a [[Fragment|fragment]], and the Moses of [[Michael]] [[Angelo]] a hint. Their
+
+campaigns and battles are always called triumphant, while Cæsar and
+
+Cromwell wept for many humiliations. And the end of it all is the hell
+
+of no resistance, the hell of an unfathomable softness, until the whole
+
+[[Nature|nature]] recoils into [[Madness|madness]] and the chamber of civilisation is no longer
+
+merely a cushioned apartment, but a padded cell.
+
+This last and worst of human miseries Savonarola saw afar off, and bent
+
+his whole gigantic energies to turning the chariot into another course.
+
+Few men understood his object; some called him a madman, some a
+
+charlatan, some an enemy of human joy. They would not even have
+
+understood if he had told them, if he had said that he was saving them
+
+from a calamity of contentment which should be the end of joys and
+
+sorrows alike. But there are those to-day who feel the same silent
+
+danger, and who bend themselves to the same silent resistance. They also
+
+are supposed to be contending for some trivial political scruple.
+
+Mr. M'Hardy says, in defending Savonarola, that the number of fine works
+
+of art destroyed in the Burning of the Vanities has been much
+
+exaggerated. I confess that I [[Hope|hope]] the pile contained stacks of
+
+incomparable masterpieces if the sacrifice made that one real moment
+
+more real. Of one thing I am sure, that Savonarola's friend [[Michael]]
+
+[[Angelo]] would have piled all his own statues one on top of the other,
+
+and burnt them to ashes, if only he had been certain that the glow
+
+transfiguring the sky was the [[Dawn|dawn]] of a younger and wiser world.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+SAVONAROLA
+
+Savonarola è un uomo che probabilmente non comprenderemo mai finché non
+
+sapremo quale orrore possa annidarsi nel cuore della civiltà. E questo non lo
+
+sapremo finché non saremo civilizzati. Si può sperare, in un certo senso, di non
+
+comprendere mai Savonarola.
+
+I grandi liberatori degli uomini li hanno, per lo più, salvati da
+
+calamità che tutti riconosciamo come mali, da calamità che sono gli
+
+antichi nemici dell'umanità. I grandi legislatori ci salvarono dall'anarchia:
+
+i grandi medici ci salvarono dalla pestilenza: i grandi riformatori ci salvarono
+
+dalla fame. Ma esiste un male immenso e senza fondo al cui confronto
+
+tutti questi sono punture di pulce, la più desolante maledizione che possa
+
+abbattersi su uomini o nazioni, e non ha nome se non lo chiamiamo
+
+appagamento. Savonarola non salvò gli uomini dall'anarchia, ma dall'ordine;
+
+non dalla pestilenza, ma dalla paralisi; non dalla fame, ma dal
+
+lusso. Uomini come Savonarola sono i testimoni del tremendo
+
+fatto psicologico che sta in fondo a tutti i nostri cervelli, ma per il quale nessun nome
+
+è mai stato trovato, che l'agio è il peggior nemico della felicità, e
+
+la civiltà potenzialmente la fine dell'uomo.
+
+Poiché immagino che l'elettrizzante sfida di Savonarola al lusso del suo
+
+tempo andasse assai più a fondo della semplice questione del peccato. I moderni
+
+ammiratori razionalisti di Savonarola, da George Eliot in giù,
+
+insistono, abbastanza giustamente, sulla solida giustificazione etica
+
+dell'ira di Savonarola, sul carattere orribile ed eccessivo dei
+
+crimini che contaminavano i palazzi del [[Renaissance|Rinascimento]]. Ma non è necessario che
+
+siano tanto ansiosi di dimostrare che Savonarola non fu affatto un [[ascetic|asceta]], che egli si limitò a
+
+spuntare le nere macchie della malvagità con il pedante
+
+illuminismo di un membro di una Società Etica. Probabilmente egli odiava davvero
+
+la civiltà del suo [[Time|tempo]], e non semplicemente i suoi peccati; ed è
+
+esattamente in questo che fu infinitamente più profondo di un moralista moderno.
+
+Vedeva che i delitti effettivi non erano gli unici mali: che i gioielli
+
+e vino avvelenato e immagini oscene erano soltanto i sintomi;
+
+che la malattia era la completa dipendenza dai gioielli e dal vino e dalle
+
+immagini. Questa è una cosa costantemente dimenticata nel giudicare gli asceti
+
+e i puritani dei tempi antichi. Una denuncia di svaghi innocui non
+
+significava sempre un ignorante odio verso ciò che nessuno se non un gretto moralista
+
+chiamerebbe dannoso. Talvolta significava un odio straordinariamente illuminato
+
+verso ciò che nessuno se non un gretto moralista chiamerebbe innocuo. Gli asceti sono
+
+talvolta più avanti dell'uomo medio, così [[Well|come]] meno.
+
+Tale, almeno, era l'odio nel cuore di Savonarola. Egli muoveva
+
+guerra non contro banali peccati umani, ma contro un empio e ingrato
+
+quietismo, contro l'abituarsi alla felicità, il peccato mistico per cui
+
+tutta la creazione cadde. Egli predicava quella severità che è il
+
+segno distintivo della giovinezza e della [[Hope|speranza]]. Predicava quella prontezza, quella
+
+limpida agilità e vigilanza, che è necessaria per conquistare il piacere tanto quanto
+
+per conquistare la santità, tanto indispensabile in un [[Lover|amante]] quanto in un monaco. Un critico ha
+
+giustamente osservato che Savonarola non poteva essere fondamentalmente
+
+anti-estetico, dal momento che aveva amici quali [[Michael]] [[Angelo]], Botticelli
+
+e Luca della Robbia. Il fatto è che questa [[Purification|purificazione]] e austerità
+
+sono ancor più necessarie all'apprezzamento della vita e del riso che
+
+a qualsiasi altra cosa. Non lasciar passare inosservato alcun uccello, compitare con pazienza
+
+le pietre e le erbacce, avere la mente come un magazzino di tramonti, richiede
+
+una disciplina nel piacere, e un'[[Education|educazione]] alla gratitudine.
+
+La civiltà che circondava Savonarola da ogni lato era una
+
+civiltà che aveva già preso la strada sbagliata, la svolta che conduce
+
+a invenzioni senza fine e a nessuna scoperta, in cui le cose nuove invecchiano
+
+con sconcertante rapidità, ma in cui nessuna cosa vecchia torna mai nuova. La
+
+mostruosità dei delitti del [[Renaissance|Rinascimento]] non era un segno di
+
+[[Imagination|immaginazione]]; era un segno, come lo è ogni mostruosità, della perdita dell'
+
+[[Imagination|immaginazione]]. È solo quando un uomo ha davvero cessato di vedere un [[Horse|cavallo]] per
+
+ciò che è, che inventa un centauro, solo quando non riesce più a
+
+stupirsi di un bue, che adora il diavolo. La diavoleria è lo
+
+stimolante della fantasia stanca; è il bere d'acquavite dell'[[artist|artista]].
+
+Savonarola si dedicò al più arduo di tutti i compiti terreni, quello
+
+di far sì che gli uomini si volgessero indietro e si [[Wonder|meravigliassero]] delle semplicità che avevano imparato
+
+a ignorare. È strano che la più impopolare di tutte le dottrine sia la
+
+dottrina che dichiara divina la vita comune. La [[democracy|Democrazia]], di cui
+
+Savonarola fu un così focoso esponente, è il più arduo dei vangeli; non c'è
+
+nulla che tanto atterrisca gli uomini quanto il decreto che essi sono tutti re.
+
+Il [[Christianity|Cristianesimo]], nella mente di Savonarola, identico alla [[democracy|democrazia]], è il
+
+più arduo dei vangeli; non c'è nulla che colpisca gli uomini con tanta [[Fear|paura]] quanto
+
+il detto che essi sono tutti figli di Dio.
+
+Savonarola e la sua repubblica caddero. La droga del dispotismo fu somministrata
+
+al popolo, ed esso dimenticò ciò che era stato. Vi sono alcuni ai
+
+giorni nostri che nutrono un così strano rispetto per l'arte e le lettere, e per
+
+i meri uomini di genio, da concepire il regno dei Medici come un
+
+miglioramento rispetto a quello del grande repubblicano fiorentino. Sono uomini
+
+come questi e la loro civiltà che oggi dobbiamo
+
+[[Fear|temere]]. Siamo circondati da molti lati dagli stessi sintomi di quelli
+
+che destarono l'inestinguibile ira di Savonarola: un edonismo che è
+
+più stanco della felicità di quanto un malato sia stanco del [[Pain|dolore]], un senso dell'arte
+
+che cerca il soccorso del delitto perché ha esaurito la [[Nature|natura]]. In
+
+molte opere moderne troviamo velati e orribili accenni a un senso davvero
+
+[[Renaissance|rinascimentale]] della [[Beauty|bellezza]] del [[Blood|sangue]], della poesia dell'omicidio. La
+
+[[Imagination|immaginazione]] fallita e depravata non vede che un uomo vivo è ben
+
+più drammatico di uno morto. Insieme a questo, come al [[Time|tempo]] dei
+
+Medici, va il ricadere fra le braccia del dispotismo, la fame
+
+dell'uomo forte che è ignota fra gli uomini forti. L'[[Hero|eroe]] imperioso è
+
+adorato come è adorato dai lettori delle "Bow [[Bells]]
+
+Novelettes", e per la stessa ragione: un profondo senso di personale
+
+debolezza. Scende su di noi quella tendenza a demandare i nostri doveri, che è
+
+l'[[Soul|anima]] della [[Slavery|schiavitù]], sia che per i suoi compiti servili impieghi servi
+
+o imperatori. Contro tutto questo il grande repubblicano in tonaca si erge in
+
+eterna protesta, preferendo il proprio fallimento al [[success|successo]] del rivale. La
+
+contesa è ancora tra lui e [[Lorenzo]], tra le responsabilità della
+
+libertà e la licenza della [[Slavery|schiavitù]], tra i pericoli della [[Truth|verità]] e la
+
+sicurezza del [[Silence|silenzio]], tra il piacere della fatica e la fatica del
+
+piacere. I sostenitori di [[Lorenzo]] il Magnifico sono di certo tra
+
+noi, uomini per i quali persino nazioni e imperi esistono solo per soddisfare l'
+
+attimo, uomini per i quali l'ultima ora calda dell'[[Summer|estate]] è migliore di un'aspra
+
+e invernale [[spring|primavera]]. Hanno un'arte, una letteratura, una
+
+[[philosophy|filosofia]] politica, tutte ugualmente apprezzate per il loro effetto immediato sul
+
+gusto, non per ciò che promettono del destino dello spirito. Le loro
+
+statuette e i loro sonetti sono tondi e perfetti, mentre il "[[Macbeth]]" è in
+
+confronto un [[Fragment|frammento]], e il Mosè di [[Michael]] [[Angelo]] un accenno. Le loro
+
+campagne e battaglie sono sempre dette trionfanti, mentre Cesare e
+
+Cromwell piansero per molte umiliazioni. E la fine di tutto ciò è l'inferno
+
+della non resistenza, l'inferno di un'insondabile mollezza, finché l'intera
+
+[[Nature|natura]] non rincula nella [[Madness|follia]] e la camera della civiltà non è più
+
+soltanto un appartamento ovattato, ma una cella imbottita.
+
+Quest'ultima e peggiore delle miserie umane Savonarola la scorse da lontano, e piegò
+
+tutte le sue gigantesche energie a volgere il carro su un altro corso.
+
+Pochi compresero il suo scopo; alcuni lo chiamarono pazzo, altri
+
+ciarlatano, altri un nemico della gioia umana. Non avrebbero nemmeno
+
+compreso se egli lo avesse detto loro, se avesse detto che li stava salvando
+
+da una calamità di contentezza che avrebbe dovuto essere la fine tanto delle gioie quanto dei
+
+dolori. Ma vi sono oggi coloro che avvertono lo stesso silenzioso
+
+pericolo, e che si piegano alla stessa silenziosa resistenza. Anche di loro
+
+si suppone che stiano contendendo per qualche banale scrupolo politico.
+
+Il signor M'Hardy dice, in difesa di Savonarola, che il numero di belle opere
+
+d'arte distrutte nel Rogo delle Vanità è stato molto
+
+esagerato. Confesso che [[Hope|spero]] che la pira contenesse cataste di
+
+incomparabili capolavori, se il sacrificio rese quell'unico momento reale
+
+più reale. Di una cosa sono certo, che l'amico di Savonarola, [[Michael]]
+
+[[Angelo]], avrebbe ammucchiato tutte le proprie statue una sull'altra,
+
+e le avrebbe ridotte in cenere, se solo fosse stato certo che il bagliore
+
+che trasfigurava il cielo era l'[[Dawn|alba]] di un mondo più giovane e più saggio.
+
+
+
 <span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_01" data-title="VariedTypes — The Position Of Sir Walter Scott (part 1)" data-chapter="The Position Of Sir Walter Scott" data-kind="excerpt"></span>
 
 
@@ -18792,6 +16700,502 @@ ancora più raro, raro fino alla mostruosità, trovare un uomo che non
 
 
 
+<span class="atom-split" data-atom="story_12_alfred_the_great" data-title="VariedTypes — Alfred The Great" data-chapter="Alfred The Great" data-kind="story"></span>
+
+
+ALFRED THE GREAT
+
+The celebrations in connection with the millenary of [[King Alfred]] struck
+
+a note of sympathy in the midst of much that was unsympathetic, because,
+
+altogether apart from any peculiar historical opinions, all men feel the
+
+sanctifying character of that which is at once strong and remote; the
+
+ancient thing is always the most homely, and the distant thing the most
+
+near. The only possible peacemaker is a dead man, ever since by the
+
+[[Sublime|sublime]] religious story a dead man only could reconcile heaven and
+
+earth. In a certain sense we always feel the past ages as human, and our
+
+own age as strangely and even weirdly dehumanised. In our own [[Time|time]] the
+
+details overpower us; men's badges and buttons seem to grow larger and
+
+larger as in a horrible dream. To study humanity in the present is like
+
+studying a mountain with a magnifying glass; to study it in the past is
+
+like studying it through a telescope.
+
+For this reason England, like every other great and historic nation, has
+
+sought its typical [[Hero|hero]] in remote and ill-recorded times. The personal
+
+and moral [[Greatness|greatness]] of Alfred is, indeed, beyond question. It does not
+
+depend any more than the [[Greatness|greatness]] of any other human [[Hero|hero]] upon the
+
+accuracy of any or all of the stories that are told about him. Alfred
+
+may not have done one of the things which are reported of him, but it is
+
+immeasurably easier to do every one of those things than to be the man
+
+of whom such things are reported falsely. [[Fable]] is, generally speaking,
+
+far more accurate than fact, for [[Fable|fable]] describes a man as he was to his
+
+own age, fact describes him as he is to a handful of inconsiderable
+
+antiquarians many centuries after. Whether Alfred watched the cakes for
+
+the neat-herd's wife, whether he sang [[songs]] in the Danish camp, is of no
+
+interest to anyone except those who set out to prove under considerable
+
+disadvantages that they are genealogically descended from him. But the
+
+man is better pictured in these stories than in any number of modern
+
+realistic trivialities about his favourite breakfast and his favourite
+
+musical composer. [[Fable]] is more historical than fact, because fact tells
+
+us about one man and [[Fable|fable]] tells us about a million men. If we read of a
+
+man who could make green grass red and turn the sun into the [[Moon|moon]], we
+
+may not believe these particular details about him, but we learn
+
+something infinitely more important than such trivialities, the fact
+
+that men could look into his face and believe it possible. The glory and
+
+[[Greatness|greatness]] of Alfred, therefore, is like that of all the heroes of the
+
+morning of the world, set far beyond the chance of that strange and
+
+sudden dethronement which may arise from the unsealing of a manuscript
+
+or the turning over of a stone. Men may have told lies when they said
+
+that he first entrapped the Danes with his [[Song|song]] and then overcame them
+
+with his armies, but we know very [[Well|well]] that it is not of us that such
+
+lies are told. There may be myths clustering about each of our
+
+personalities; local saga-men and chroniclers have very likely
+
+circulated the story that we are addicted to drink, or that we
+
+ferociously ill-use our wives. But they do not commonly lie to the
+
+effect that we have shed our [[Blood|blood]] to save all the inhabitants of the
+
+street. A story grows easily, but a heroic story is not a very easy
+
+thing to evoke. Wherever that exists we may be pretty certain that we
+
+are in the presence of a dark but powerful historic personality. We are
+
+in the presence of a thousand lies all pointing with their fantastic
+
+fingers to one undiscovered [[Truth|truth]].
+
+Upon this ground [[Alone|alone]] every encouragement is due to the cult of Alfred.
+
+Every nation requires to have behind it some historic personality, the
+
+validity of which is proved, as the validity of a gun is proved, by its
+
+long range. It is wonderful and splendid that we treasure, not the
+
+[[Truth|truth]], but the very gossip about a man who died a thousand years ago. We
+
+may say to him, as M. Rostand says to the Austrian Prince:
+
+"Dors, ce n'est pas toujours la Légende qui ment:
+
+Une rêve est parfois moins trompeur qu'un document."
+
+To have a man so simple and so honourable to represent us in the
+
+darkness of primeval [[history]], binds all the intervening centuries
+
+together, and mollifies all their monstrosities. It makes all [[history]]
+
+more comforting and intelligible; it makes the desolate temple of the
+
+ages as human as an inn parlour.
+
+But whether it come through reliable facts or through more reliable
+
+falsehoods the personality of Alfred has its own unmistakable colour and
+
+stature. Lord Rosebery uttered a profound [[Truth|truth]] when he said that that
+
+personality was peculiarly English. The great magnificence of the
+
+English character is expressed in the word "service." There is, perhaps,
+
+no nation so vitally theocratical as the English; no nation in which the
+
+strong men have so consistently preferred the instrumental to the
+
+despotic attitude, the pleasures of the loyal to the pleasures of the
+
+royal position. We have had tyrants like Edward I. and [[Queen Elizabeth]],
+
+but even our tyrants have had the worried and responsible air of
+
+stewards of a great estate. Our typical [[Hero|hero]] is such a man as the Duke
+
+of Wellington, who had every kind of traditional and external arrogance,
+
+but at the back of all that the strange [[Humility|humility]] which made it
+
+physically possible for him without a gleam of [[Humour|humour]] or discomfort to
+
+go on his knees to a preposterous bounder like George IV. Across the
+
+infinite wastes of [[Time|time]] and through all the mists of legend we still
+
+feel the presence in Alfred of this strange and unconscious
+
+[[Self|self]]-effacement. After the fullest estimate of our misdeeds we can still
+
+say that our very despots have been less [[Self|self]]-assertive than many
+
+popular patriots. As we consider these things we grow more and more
+
+impatient of any modern tendencies towards the enthronement of a more
+
+[[Self|self]]-conscious and theatrical ideal. Lord Rosebery called up before our
+
+imaginations the picture of what Alfred would have thought of the vast
+
+modern developments of his nation, its immense fleet, its widespread
+
+Empire, its enormous contribution to the mechanical civilisation of the
+
+world. It cannot be anything but profitable to conceive Alfred as full
+
+of astonishment and admiration at these things; it cannot be anything
+
+but good for us that we should realise that to the childlike eyes of a
+
+great man of old [[Time|time]] our inventions and appliances have not the
+
+vulgarity and ugliness that we see in them. To Alfred a steamboat would
+
+be a new and sensational sea-dragon, and the penny postage a miracle
+
+achieved by the despotism of a demi-god.
+
+But when we have realised all this there is something more to be said in
+
+connection with Lord Rosebery's vision. What would [[King Alfred]] have said
+
+if he had been asked to expend the money which he devoted to the health
+
+and [[Education|education]] of his people upon a struggle with some race of Visigoths
+
+or Parthians inhabiting a small section of a distant continent? What
+
+would he have said if he had known that that science of letters which he
+
+taught to England would eventually be used not to spread [[Truth|truth]], but to
+
+drug the people with political assurances as imbecile in themselves as
+
+the assurance that [[Fire|fire]] does not burn and [[Water|water]] does not drown? What
+
+would he have said if the same people who, in obedience to that ideal of
+
+service and [[Sanity|sanity]] of which he was the example, had borne every
+
+privation in order to defeat Napoleon, should come at last to find no
+
+better compliment to one of their heroes than to call him the Napoleon
+
+of South Africa? What would he have said if that nation for which he had
+
+inaugurated a long line of incomparable men of principle should forget
+
+all its traditions and coquette with the immoral mysticism of the man of
+
+destiny?
+
+Let us follow these things by all means if we find them good, and can
+
+see nothing better. But to pretend that Alfred would have admired them
+
+is like pretending that St. Dominic would have seen eye to eye with Mr.
+
+Bradlaugh, or that Fra Angelico would have revelled in the posters of
+
+Mr. Aubrey Beardsley. Let us follow them if we will, but let us take
+
+honestly all the disadvantages of our change; in the wildest moment of
+
+triumph let us feel the [[Shadow|shadow]] upon our glories of the shame of the
+
+great [[King|king]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+ALFREDO IL GRANDE
+
+Le celebrazioni per il millenario di [[King Alfred|Re Alfredo]] toccarono
+
+una nota di simpatia in mezzo a molto che era privo di simpatia, perché,
+
+del tutto a prescindere da qualsiasi peculiare opinione storica, tutti gli uomini avvertono il
+
+carattere santificante di ciò che è al tempo stesso forte e remoto; la
+
+cosa antica è sempre la più familiare, e la cosa distante la più
+
+vicina. L'unico paciere possibile è un uomo morto, da quando, per la
+
+[[Sublime|sublime]] vicenda religiosa, solo un uomo morto poté riconciliare cielo e
+
+terra. In un certo senso avvertiamo sempre le epoche passate come umane, e la nostra
+
+stessa epoca come stranamente e persino inquietantemente disumanizzata. Nel nostro [[Time|tempo]] i
+
+dettagli ci sopraffanno; i distintivi e i bottoni degli uomini sembrano farsi sempre più grandi e
+
+più grandi come in un sogno orribile. Studiare l'umanità nel presente è come
+
+studiare una montagna con una lente d'ingrandimento; studiarla nel passato è
+
+come studiarla attraverso un telescopio.
+
+Per questa ragione l'Inghilterra, come ogni altra grande e storica nazione, ha
+
+cercato il suo [[Hero|eroe]] tipico in tempi remoti e mal documentati. La personale
+
+e morale [[Greatness|grandezza]] di Alfredo è, in verità, fuori discussione. Non
+
+dipende, non più di quanto la [[Greatness|grandezza]] di qualsiasi altro [[Hero|eroe]] umano dipenda dall'
+
+esattezza di alcuna o di tutte le storie che si raccontano su di lui. Alfredo
+
+può non aver fatto una sola delle cose che gli si attribuiscono, ma è
+
+incommensurabilmente più facile fare ognuna di quelle cose che essere l'uomo
+
+di cui tali cose si raccontano falsamente. La [[Fable|favola]] è, in generale,
+
+assai più accurata del fatto, poiché la [[Fable|favola]] descrive un uomo come egli era per la sua
+
+stessa epoca, il fatto lo descrive come è per un pugno di trascurabili
+
+antiquari molti secoli dopo. Che Alfredo sorvegliasse le focacce per
+
+la moglie del mandriano, che cantasse [[songs|canzoni]] nell'accampamento danese, non ha alcun
+
+interesse per nessuno tranne coloro che si accingono a dimostrare, con notevole
+
+svantaggio, di discendere genealogicamente da lui. Ma l'
+
+uomo è ritratto meglio in queste storie che in qualsiasi quantità di moderne
+
+banalità realistiche sulla sua colazione preferita e sul suo
+
+compositore musicale preferito. La [[Fable|favola]] è più storica del fatto, perché il fatto ci
+
+parla di un solo uomo e la [[Fable|favola]] ci parla di un milione di uomini. Se leggiamo di un
+
+uomo capace di rendere rossa l'erba verde e di mutare il sole nella [[Moon|luna]], possiamo
+
+non credere a questi particolari dettagli su di lui, ma apprendiamo
+
+qualcosa di infinitamente più importante di simili banalità, il fatto
+
+che gli uomini potessero guardarlo in volto e crederlo possibile. La gloria e la
+
+[[Greatness|grandezza]] di Alfredo, dunque, è come quella di tutti gli eroi del
+
+mattino del mondo, posti ben oltre il rischio di quello strano e
+
+improvviso detronizzamento che può sorgere dal dissuggellamento di un manoscritto
+
+o dal rivoltamento di una pietra. Gli uomini possono aver mentito quando dissero
+
+che egli dapprima irretì i Danesi con il suo [[Song|canto]] e poi li soggiogò
+
+con i suoi eserciti, ma sappiamo molto [[Well|bene]] che non è di noi che simili
+
+menzogne si raccontano. Possono esservi miti che si addensano attorno a ciascuna delle nostre
+
+personalità; narratori di saghe e cronisti locali hanno con ogni probabilità
+
+messo in giro la storia che siamo dediti al bere, o che
+
+maltrattiamo ferocemente le nostre mogli. Ma non mentono comunemente nel
+
+senso che abbiamo versato il nostro [[Blood|sangue]] per salvare tutti gli abitanti della
+
+strada. Una storia cresce facilmente, ma una storia eroica non è cosa molto facile
+
+da evocare. Ovunque essa esista possiamo essere abbastanza certi di
+
+trovarci al cospetto di una personalità storica oscura ma potente. Ci troviamo
+
+al cospetto di mille menzogne che tutte puntano con le loro fantastiche
+
+dita verso una sola [[Truth|verità]] non scoperta.
+
+Su questo fondamento [[Alone|soltanto]] ogni incoraggiamento è dovuto al culto di Alfredo.
+
+Ogni nazione ha bisogno di avere alle spalle una qualche personalità storica, la
+
+cui validità si prova, come si prova la validità di un cannone, dalla sua
+
+lunga gittata. È meraviglioso e splendido che noi facciamo tesoro, non della
+
+[[Truth|verità]], ma delle chiacchiere stesse su un uomo morto mille anni fa. Possiamo
+
+dirgli, come M. Rostand dice al Principe austriaco:
+
+"Dors, ce n'est pas toujours la Légende qui ment:
+
+Une rêve est parfois moins trompeur qu'un document."
+
+Avere un uomo così semplice e così onorevole a rappresentarci nelle
+
+tenebre della [[history|storia]] primordiale lega insieme tutti i secoli intercorsi
+
+insieme, e ne addolcisce tutte le mostruosità. Rende tutta la [[history|storia]]
+
+più consolante e intelligibile; rende il desolato tempio delle
+
+epoche umano come la sala di una locanda.
+
+Ma sia che ci giunga attraverso fatti attendibili o attraverso più attendibili
+
+menzogne, la personalità di Alfredo ha un suo inconfondibile colore e
+
+statura. Lord Rosebery pronunciò una profonda [[Truth|verità]] quando disse che quella
+
+personalità era peculiarmente inglese. La grande magnificenza del
+
+carattere inglese si esprime nella parola "servizio". Non v'è, forse,
+
+nazione tanto vitalmente teocratica quanto l'inglese; nessuna nazione in cui gli
+
+uomini forti abbiano così costantemente preferito l'atteggiamento strumentale a quello
+
+dispotico, i piaceri della posizione leale ai piaceri della posizione
+
+regale. Abbiamo avuto tiranni come Edoardo I e [[Queen Elizabeth|la Regina Elisabetta]],
+
+ma persino i nostri tiranni hanno avuto l'aria preoccupata e responsabile di
+
+amministratori di una grande tenuta. Il nostro [[Hero|eroe]] tipico è un uomo come il Duca
+
+di Wellington, che aveva ogni sorta di arroganza tradizionale ed esteriore,
+
+ma dietro tutto ciò quella strana [[Humility|umiltà]] che rese
+
+fisicamente possibile a lui, senza un barlume di [[Humour|umorismo]] o di disagio,
+
+inginocchiarsi davanti a un assurdo villano come Giorgio IV. Attraverso le
+
+infinite distese del [[Time|tempo]] e attraverso tutte le nebbie della leggenda avvertiamo ancora
+
+in Alfredo la presenza di questa strana e inconsapevole
+
+[[Self|auto]]-cancellazione. Dopo la più completa stima dei nostri misfatti possiamo ancora
+
+dire che i nostri stessi despoti sono stati meno inclini all'[[Self|auto]]affermazione di molti
+
+patrioti popolari. Mentre consideriamo queste cose diveniamo sempre più
+
+impazienti di qualsiasi tendenza moderna verso l'intronizzazione di un ideale più
+
+[[Self|auto]]cosciente e teatrale. Lord Rosebery evocò dinanzi alla nostra
+
+immaginazione il quadro di ciò che Alfredo avrebbe pensato dei vasti
+
+sviluppi moderni della sua nazione, della sua immensa flotta, del suo esteso
+
+Impero, del suo enorme contributo alla civiltà meccanica del
+
+mondo. Non può che essere proficuo concepire Alfredo come colmo
+
+di stupore e ammirazione dinanzi a queste cose; non può che essere
+
+un bene per noi renderci conto che agli occhi fanciulleschi di un
+
+grand'uomo di [[Time|tempo]] antico le nostre invenzioni e i nostri congegni non hanno la
+
+volgarità e la bruttezza che noi vi scorgiamo. Per Alfredo un battello a vapore sarebbe
+
+un nuovo e sensazionale drago marino, e la posta a un penny un miracolo
+
+compiuto dal dispotismo di un semidio.
+
+Ma quando avremo compreso tutto questo, c'è qualcosa di più da dire in
+
+merito alla visione di Lord Rosebery. Che cosa avrebbe detto [[King Alfred|Re Alfredo]]
+
+se gli fosse stato chiesto di spendere il denaro che egli dedicò alla salute
+
+e all'[[Education|istruzione]] del suo popolo in una lotta contro qualche stirpe di Visigoti
+
+o di Parti che abitano una piccola porzione di un continente lontano? Che cosa
+
+avrebbe detto se avesse saputo che quella scienza delle lettere che egli
+
+insegnò all'Inghilterra sarebbe stata infine usata non per diffondere la [[Truth|verità]], ma per
+
+drogare il popolo con rassicurazioni politiche in sé tanto imbecilli quanto
+
+la rassicurazione che il [[Fire|fuoco]] non brucia e l'[[Water|acqua]] non annega? Che cosa
+
+avrebbe detto se lo stesso popolo che, in obbedienza a quell'ideale di
+
+servizio e [[Sanity|assennatezza]] di cui egli fu l'esempio, aveva sopportato ogni
+
+privazione pur di sconfiggere Napoleone, giungesse infine a non trovare
+
+complimento migliore per uno dei suoi eroi che chiamarlo il Napoleone
+
+del Sudafrica? Che cosa avrebbe detto se quella nazione per la quale egli aveva
+
+inaugurato una lunga schiera di incomparabili uomini di principio dimenticasse
+
+tutte le sue tradizioni e civettasse con il misticismo immorale dell'uomo del
+
+destino?
+
+Seguiamo pure queste cose, se le troviamo buone e non sappiamo
+
+vedere nulla di meglio. Ma pretendere che Alfredo le avrebbe ammirate
+
+è come pretendere che San Domenico si sarebbe trovato d'accordo con il signor
+
+Bradlaugh, o che il Beato Angelico si sarebbe deliziato dei manifesti del
+
+signor Aubrey Beardsley. Seguiamole pure se vogliamo, ma prendiamoci
+
+onestamente tutti gli svantaggi del nostro cambiamento; nel momento più sfrenato del
+
+trionfo sentiamo cadere sulle nostre glorie l'[[Shadow|ombra]] della vergogna del
+
+grande [[King|re]].
+
+
+
 <span class="atom-split" data-atom="story_13_maeterlinck--part_01" data-title="VariedTypes — Maeterlinck (part 1)" data-chapter="Maeterlinck" data-kind="excerpt"></span>
 
 
@@ -20073,3 +18477,1599 @@ il più umile, il più breve e il più indistruttibile dei vangeli umani,
 ossia che quando tutti i guai e i seminatori di guai hanno detto la loro, il nostro lavoro
 
 può essere compiuto fino al tramonto, la nostra vita può essere vissuta fino alla [[Death|morte]].
+
+
+
+<span class="atom-split" data-atom="story_14_the_german_emperor" data-title="VariedTypes — The German Emperor" data-chapter="The German Emperor" data-kind="story"></span>
+
+
+THE GERMAN EMPEROR
+
+The list of the really serious, the really convinced, the really
+
+important and comprehensible people now alive includes, as most
+
+Englishmen would now be prepared to admit, the German Emperor. He is a
+
+practical man and a poet. I do not know whether there are still people
+
+in existence who think there is some kind of faint antithesis between
+
+these two characters; but I incline to think there must be, because of
+
+the surprise which the career of the German Emperor has generally
+
+evoked. When he came to the throne it became at once apparent that he
+
+was poetical; people assumed in consequence that he was unpractical;
+
+that he would plunge Europe into war, that he would try to annex France,
+
+that he would say he was the Emperor of [[Russia]], that he would stand on
+
+his head in the Reichstag, that he would become a pirate on the Spanish
+
+Main. Years upon years have passed; he has gone on making speeches, he
+
+has gone on talking about God and his [[Sword|sword]], he has poured out an ever
+
+increased rhetoric and æstheticism. And yet all the [[Time|time]] people have
+
+slowly and surely realised that he knows what he is about, that he is
+
+one of the best friends of peace, that his influence on Europe is not
+
+only successful, but in many ways good, that he knows what world he is
+
+living in better than a score of materialists.
+
+The explanation never comes to them--he is a poet; therefore, a
+
+practical man. The affinity of the two words, merely as words, is much
+
+nearer than many people suppose, for the matter of that. There is one
+
+Greek word for "I do" from which we get the word practical, and another
+
+Greek word for "I do" from which we get the word poet. I was doubtless
+
+once informed of a profound difference between the two, but I have
+
+forgotten it. The two words practical and poetical may mean two subtly
+
+different things in that old and subtle language, but they mean the same
+
+in English and the same in the long run. It is ridiculous to suppose
+
+that the man who can understand the inmost intricacies of a human being
+
+who has never existed at all cannot make a guess at the conduct of man
+
+who lives next door. It is idle to say that a man who has himself felt
+
+the mad [[Longing|longing]] under the mad [[Moon|moon]] for a vagabond life cannot know why
+
+his son runs away to sea. It is idle to say that a man who has himself
+
+felt the hunger for any kind of exhilaration, from angel or devil,
+
+cannot know why his butler takes to drink. It is idle to say that a man
+
+who has been fascinated with the wild fastidiousness of destiny does not
+
+know why stockbrokers gamble, to say that a man who has been knocked
+
+into the middle of eternal life by a face in a crowd does not know why
+
+the poor marry young; that a man who found his path to all things kindly
+
+and pleasant blackened and barred suddenly by the [[Body|body]] of a man does not
+
+know what it is to [[Desire|desire]] murder. It is idle, in short, for a man who
+
+has created men to say that he does not understand them. A man who is a
+
+poet may, of course, easily make mistakes in these personal and
+
+practical relations; such mistakes and similar ones have been made by
+
+poets; such mistakes and greater ones have been made by soldiers and
+
+statesmen and men of business. But in so far as a poet is in these
+
+things less of a practical man he is also less of a poet.
+
+If Shakespeare really married a bad wife when he had conceived the
+
+character of [[Beatrice]] he ought to have been ashamed of himself: he had
+
+failed not only in his life, he had failed in his art. If Balzac got
+
+into rows with his publishers he ought to be rebuked and not
+
+commiserated, having evolved so many consistent business men from his
+
+own inside. The German Emperor is a poet, and therefore he succeeds,
+
+because poetry is so much nearer to reality than all the other human
+
+occupations. He is a poet, and succeeds because the majority of men are
+
+poets. It is true, if that matter is at all important, that the German
+
+Emperor is not a good poet. The majority of men are poets, only they
+
+happen to be bad poets. The German Emperor fails ridiculously, if that
+
+is all that is in question, in almost every one of the artistic
+
+occupations to which he addresses himself: he is neither a first-rate
+
+critic, nor a first-rate musician, nor a first-rate painter, nor a
+
+first-rate poet. He is a twelfth-rate poet, but because he is a poet at
+
+all he knocks to pieces all the first-rate politicians in the war of
+
+politics.
+
+Having made clear my position so far, I discover with a certain amount
+
+of interest that I have not yet got to the subject of these remarks. The
+
+German Emperor is a poet, and although, as far as I know, every line he
+
+ever wrote may be nonsense, he is a poet in this real sense, that he has
+
+realised the meaning of every function he has performed. Why should we
+
+jeer at him because he has a great many uniforms, for instance? The very
+
+essence of the really imaginative man is that he realises the various
+
+types or capacities in which he can appear. Every one of us, or almost
+
+every one of us, does in reality fulfil almost as many offices as
+
+Pooh-Bah. Almost every one of us is a ratepayer, an immortal [[Soul|soul]], an
+
+Englishman, a baptised person, a mammal, a minor poet, a juryman, a
+
+married man, a bicyclist, a Christian, a purchaser of newspapers, and a
+
+critic of Mr. Alfred Austin. We ought to have uniforms for all these
+
+things. How beautiful it would be if we appeared to-morrow in the
+
+uniform of a ratepayer, in brown and green, with buttons made in the
+
+shape of coins, and a blue income-tax paper tastefully arranged as a
+
+favour; or, again, if we appeared dressed as immortal souls, in a blue
+
+uniform with [[Stars|stars]]. It would be very exciting to dress up as Englishmen,
+
+or to go to a fancy dress ball as Christians.
+
+Some of the costumes I have suggested might appear a little more
+
+difficult to carry out. The dress of a person who purchases newspapers
+
+(though it mostly consists of coloured evening editions arranged in a
+
+stiff skirt, like that of a saltatrice, round the waist of the wearer)
+
+has many mysterious points. The attire of a person prepared to criticise
+
+the Poet Laureate is something so awful and striking that I dare not
+
+even begin to describe it; the one fact which I am willing to reveal,
+
+and to state seriously and responsibly, is that it buttons up behind.
+
+But most assuredly we ought not to abuse the Kaiser because he is fond
+
+of putting on all his uniforms; he does so because he has a large number
+
+of established and involuntary incarnations. He tries to do his duty in
+
+that state of life to which it shall please God to call him; and it so
+
+happens that he has been called to as many different estates as there
+
+are regiments in the German Army. He is a huntsman and proud of being a
+
+huntsman, an engineer and proud of being an engineer, an infantry
+
+soldier and proud of being so, a light horseman and proud of being so.
+
+There is nothing wrong in all this; the only wrong thing is that it
+
+should be confined to the merely destructive arts of war. The sight of
+
+the German Kaiser in the most magnificent of the uniforms in which he
+
+had led armies to victory is not in itself so splendid or delightful as
+
+that of many other sights which might come before us without a whisper
+
+of the alarms of war. It is not so splendid or delightful as the sight
+
+of an ordinary householder showing himself in that magnificent uniform
+
+of purple and silver which should signalise the father of three
+
+children. It is not so splendid or delightful as the appearance of a
+
+young clerk in an insurance office decorated with those three long
+
+crimson plumes which are the [[Well|well]]-known insignia of a gentleman who is
+
+just engaged to be married. Nor can it compare with the look of a man
+
+wearing the magnificent green and silver armour by which we know one who
+
+has induced an acquaintance to give up getting drunk, or the blue and
+
+gold which is only accorded to persons who have prevented fights in the
+
+street. We belong to quite as many regiments as the German Kaiser. Our
+
+regiments are regiments that are embattled everywhere; they fight an
+
+unending fight against all that is hopeless and rapacious and of evil
+
+report. The only difference is that we have the regiments, but not the
+
+uniforms.
+
+Only one obvious point occurs to me to add. If the Kaiser has more than
+
+any other man the sense of the poetry of the ancient things, the [[Sword|sword]],
+
+the [[Crown|crown]], the [[Ship|ship]], the nation, he has the sense of the poetry of
+
+modern things also. He has one sense, and it is even a joke against
+
+him. He feels the poetry of one thing that is more poetic than [[Sword|sword]] or
+
+[[Crown|crown]] or [[Ship|ship]] or nation, the poetry of the telegram. No one ever sent a
+
+telegram who did not feel like a god. He is a god, for he is a minor
+
+poet; a minor poet, but a poet still.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'IMPERATORE TEDESCO
+
+L'elenco delle persone davvero serie, davvero convinte, davvero
+
+importanti e comprensibili oggi in vita comprende, come la maggior parte
+
+degli inglesi sarebbe ora disposta ad ammettere, l'Imperatore tedesco. Egli è un
+
+uomo pratico e un poeta. Non so se vi siano ancora persone
+
+al mondo che pensino vi sia una qualche debole antitesi tra
+
+questi due caratteri; ma sono propenso a credere che ve ne sia, a causa della
+
+sorpresa che la carriera dell'Imperatore tedesco ha generalmente
+
+suscitato. Quando salì al trono divenne subito evidente che egli
+
+era poetico; la gente ne dedusse di conseguenza che fosse poco pratico;
+
+che avrebbe precipitato l'Europa nella guerra, che avrebbe tentato di annettere la Francia,
+
+che si sarebbe proclamato Imperatore di [[Russia]], che si sarebbe messo a testa
+
+in giù nel Reichstag, che sarebbe divenuto un pirata sul Mare
+
+di Spagna. Anni su anni sono trascorsi; ha continuato a tenere discorsi, ha
+
+continuato a parlare di Dio e della sua [[Sword|spada]], ha riversato una
+
+retorica e un estetismo sempre crescenti. Eppure per tutto il [[Time|tempo]] la gente ha
+
+lentamente e sicuramente compreso che egli sa quel che fa, che è
+
+uno dei migliori amici della pace, che il suo influsso sull'Europa non è
+
+soltanto efficace, ma per molti versi buono, che sa in quale mondo
+
+vive meglio di una ventina di materialisti.
+
+La spiegazione non viene loro mai in mente--egli è un poeta; perciò, un
+
+uomo pratico. L'affinità delle due parole, semplicemente come parole, è assai
+
+più stretta di quanto molti suppongano, del resto. C'è una
+
+parola greca per "io faccio" da cui deriva la parola pratico, e un'altra
+
+parola greca per "io faccio" da cui deriva la parola poeta. Senza dubbio un tempo mi fu
+
+spiegata una profonda differenza tra le due, ma l'ho
+
+dimenticata. Le due parole pratico e poetico possono significare due cose sottilmente
+
+diverse in quell'antica e sottile lingua, ma significano la stessa cosa
+
+in inglese e la stessa alla lunga. È ridicolo supporre
+
+che l'uomo capace di comprendere le più intime complessità di un essere umano
+
+che non è mai affatto esistito non sappia indovinare la condotta dell'uomo
+
+che abita nella porta accanto. È vano dire che un uomo il quale abbia egli stesso provato
+
+la folle [[Longing|brama]] sotto la folle [[Moon|luna]] di una vita vagabonda non possa sapere perché
+
+suo figlio fugge per imbarcarsi. È vano dire che un uomo il quale abbia egli stesso
+
+provato la fame di qualsiasi genere di ebbrezza, da angelo o da diavolo,
+
+non possa sapere perché il suo maggiordomo si dà al bere. È vano dire che un uomo
+
+che sia stato affascinato dalla selvaggia ritrosia del destino non
+
+sappia perché gli agenti di borsa giocano d'azzardo, dire che un uomo che sia stato scaraventato
+
+nel bel mezzo della vita eterna da un volto tra la folla non sappia perché
+
+i poveri si sposano giovani; che un uomo il quale abbia trovato il suo cammino verso ogni cosa buona
+
+e gradevole d'improvviso oscurato e sbarrato dal [[Body|corpo]] di un uomo non
+
+sappia cosa significhi [[Desire|desiderare]] l'omicidio. È vano, insomma, per un uomo che
+
+abbia creato uomini dire che egli non li comprende. Un uomo che sia
+
+poeta può, certo, facilmente commettere errori in questi rapporti personali e
+
+pratici; errori simili a questi sono stati commessi da
+
+poeti; errori simili e maggiori sono stati commessi da soldati e
+
+statisti e uomini d'affari. Ma nella misura in cui un poeta è in queste
+
+cose meno un uomo pratico, egli è anche meno un poeta.
+
+Se Shakespeare sposò davvero una cattiva moglie dopo aver concepito il
+
+personaggio di [[Beatrice]] avrebbe dovuto vergognarsi di sé: aveva
+
+fallito non solo nella sua vita, aveva fallito nella sua arte. Se Balzac si
+
+azzuffava con i suoi editori dovrebbe essere rimproverato e non
+
+compianto, avendo tratto tanti coerenti uomini d'affari dal proprio
+
+intimo. L'Imperatore tedesco è un poeta, e perciò riesce,
+
+perché la poesia è tanto più vicina alla realtà di tutte le altre umane
+
+occupazioni. È un poeta, e riesce perché la maggioranza degli uomini sono
+
+poeti. È vero, se la cosa ha una qualche importanza, che l'Imperatore
+
+tedesco non è un buon poeta. La maggioranza degli uomini sono poeti, solo che
+
+si dà il caso che siano cattivi poeti. L'Imperatore tedesco fallisce ridicolmente, se è
+
+questo tutto ciò di cui si discute, in quasi ognuna delle
+
+occupazioni artistiche a cui si dedica: non è né un critico di
+
+prim'ordine, né un musicista di prim'ordine, né un pittore di prim'ordine, né un
+
+poeta di prim'ordine. È un poeta di dodicesim'ordine, ma proprio perché è un poeta
+
+del tutto, fa a pezzi tutti i politici di prim'ordine nella guerra della
+
+politica.
+
+Avendo chiarito fin qui la mia posizione, scopro con una certa
+
+dose d'interesse di non essere ancora giunto al soggetto di queste osservazioni. L'
+
+Imperatore tedesco è un poeta e, benché, per quanto ne so, ogni verso che
+
+abbia mai scritto possa essere un'assurdità, egli è un poeta in questo senso reale, che ha
+
+compreso il significato di ogni funzione che ha esercitato. Perché dovremmo
+
+deriderlo perché ha moltissime uniformi, per esempio? La vera
+
+essenza dell'uomo davvero dotato d'immaginazione è che egli comprende i vari
+
+tipi o le varie vesti in cui può presentarsi. Ognuno di noi, o quasi
+
+ognuno di noi, in realtà ricopre quasi altrettante cariche quante
+
+Pooh-Bah. Quasi ognuno di noi è un contribuente, un'[[Soul|anima]] immortale, un
+
+inglese, un battezzato, un mammifero, un poeta minore, un giurato, un
+
+uomo sposato, un ciclista, un cristiano, un acquirente di giornali, e un
+
+critico del signor Alfred Austin. Dovremmo avere uniformi per tutte queste
+
+cose. Come sarebbe bello se domani comparissimo nell'
+
+uniforme del contribuente, in marrone e verde, con bottoni foggiati a
+
+forma di monete, e un azzurro modulo delle imposte sul reddito graziosamente disposto come
+
+coccarda; o, ancora, se comparissimo vestiti da anime immortali, in un'azzurra
+
+uniforme con [[Stars|stelle]]. Sarebbe assai emozionante travestirsi da inglesi,
+
+o andare a un ballo in maschera da cristiani.
+
+Alcuni dei costumi che ho suggerito potrebbero apparire un poco più
+
+difficili da realizzare. L'abito di una persona che acquista giornali
+
+(per quanto consista per lo più di colorate edizioni della sera disposte in una
+
+gonna rigida, come quella di una saltatrice, attorno alla vita di chi lo indossa)
+
+presenta molti punti misteriosi. L'abbigliamento di una persona pronta a criticare
+
+il Poeta Laureato è cosa tanto tremenda e vistosa che non oso
+
+nemmeno cominciare a descriverlo; l'unico fatto che sono disposto a rivelare,
+
+e ad affermare seriamente e responsabilmente, è che si abbottona sul dietro.
+
+Ma di certo non dovremmo maltrattare il Kaiser perché ama
+
+indossare tutte le sue uniformi; lo fa perché ha un gran numero
+
+di consolidate e involontarie incarnazioni. Cerca di compiere il proprio dovere in
+
+quello stato di vita al quale piacerà a Dio chiamarlo; e si dà
+
+il caso che egli sia stato chiamato ad altrettanti diversi stati quanti sono i
+
+reggimenti dell'Esercito tedesco. È un cacciatore ed è fiero di essere un
+
+cacciatore, un ingegnere ed è fiero di essere un ingegnere, un soldato di
+
+fanteria ed è fiero di esserlo, un cavalleggero ed è fiero di esserlo.
+
+Non c'è nulla di male in tutto ciò; l'unica cosa sbagliata è che essa
+
+sia confinata alle arti meramente distruttive della guerra. La vista
+
+del Kaiser tedesco nella più magnifica delle uniformi con cui
+
+aveva condotto eserciti alla vittoria non è in sé tanto splendida o deliziosa quanto
+
+quella di molte altre viste che potrebbero presentarsi a noi senza un sussurro
+
+degli allarmi di guerra. Non è tanto splendida o deliziosa quanto la vista
+
+di un comune capofamiglia che si mostri in quella magnifica uniforme
+
+di porpora e argento che dovrebbe contraddistinguere il padre di tre
+
+figli. Non è tanto splendida o deliziosa quanto la comparsa di un
+
+giovane impiegato di una compagnia d'assicurazioni ornato di quei tre lunghi
+
+pennacchi cremisi che sono le [[Well|ben]] note insegne di un gentiluomo che si è
+
+appena fidanzato per sposarsi. Né può paragonarsi all'aspetto di un uomo
+
+che indossi la magnifica armatura verde e argento da cui riconosciamo colui che
+
+ha indotto un conoscente a smettere di ubriacarsi, o l'azzurro e
+
+oro che è concesso soltanto a quanti hanno impedito risse per la
+
+strada. Noi apparteniamo ad altrettanti reggimenti quanti il Kaiser tedesco. I nostri
+
+reggimenti sono reggimenti schierati a battaglia ovunque; combattono una
+
+lotta senza fine contro tutto ciò che è disperato e rapace e di cattiva
+
+fama. L'unica differenza è che noi abbiamo i reggimenti, ma non le
+
+uniformi.
+
+Un solo punto ovvio mi viene in mente di aggiungere. Se il Kaiser ha più di
+
+ogni altro uomo il senso della poesia delle cose antiche, la [[Sword|spada]],
+
+la [[Crown|corona]], la [[Ship|nave]], la nazione, egli ha il senso della poesia delle
+
+cose moderne del pari. Ha un senso, ed è persino motivo di scherno contro di
+
+lui. Egli sente la poesia di una cosa che è più poetica della [[Sword|spada]] o della
+
+[[Crown|corona]] o della [[Ship|nave]] o della nazione, la poesia del telegramma. Nessuno ha mai inviato un
+
+telegramma senza sentirsi come un dio. Egli è un dio, perché è un poeta
+
+minore; un poeta minore, ma pur sempre un poeta.
+
+
+
+<span class="atom-split" data-atom="story_15_tennyson" data-title="VariedTypes — Tennyson" data-chapter="Tennyson" data-kind="story"></span>
+
+
+TENNYSON
+
+Mr. Morton Luce has written a short study of Tennyson which has
+
+considerable cultivation and suggestiveness, which will be sufficient to
+
+serve as a notebook for Tennyson's admirers, but scarcely sufficient,
+
+perhaps, to serve as a pamphlet against his opponents. If a critic has,
+
+as he ought to have, any of the functions anciently attributed to a
+
+[[Prophet|prophet]], it ought not to be difficult for him to prophesy that Tennyson
+
+will pass through a period of facile condemnation and neglect before we
+
+arrive at the true appreciation of his work. The same thing has happened
+
+to the most vigorous of essayists, Macaulay, and the most vigorous of
+
+romancers, Dickens, because we live in a [[Time|time]] when mere vigour is
+
+considered a vulgar thing. The same idle and frigid reaction will almost
+
+certainly discredit the stateliness and care of Tennyson, as it has
+
+discredited the recklessness and inventiveness of Dickens. It is only
+
+necessary to remember that no action can be discredited by a reaction.
+
+The attempts which have been made to discredit the poetical position of
+
+Tennyson are in the main dictated by an entire misunderstanding of the
+
+[[Nature|nature]] of poetry. When critics like Matthew Arnold, for example, suggest
+
+that his poetry is deficient in elaborate thought, they only prove, as
+
+Matthew Arnold proved, that they themselves could never be great poets.
+
+It is no valid accusation against a poet that the sentiment he expresses
+
+is commonplace. Poetry is always commonplace; it is vulgar in the
+
+noblest sense of that noble word. Unless a man can make the same kind of
+
+ringing appeal to absolute and admitted sentiments that is made by a
+
+popular orator, he has lost touch with emotional literature. Unless he
+
+is to some extent a demagogue, he cannot be a poet. A man who expresses
+
+in poetry new and strange and undiscovered emotions is not a poet; he is
+
+a brain specialist. Tennyson can never be discredited before any serious
+
+tribunal of criticism because the sentiments and thoughts to which he
+
+dedicates himself are those sentiments and thoughts which occur to
+
+anyone. These are the peculiar province of poetry; poetry, like
+
+religion, is always a democratic thing, even if it pretends the
+
+contrary. The faults of Tennyson, so far as they existed, were not half
+
+so much in the common character of his sentiments as in the arrogant
+
+perfection of his workmanship. He was not by any means so wrong in his
+
+faults as he was in his perfections.
+
+Men are very much too ready to speak of men's work being ordinary, when
+
+we consider that, properly considered, every man is extraordinary. The
+
+average man is a tribal [[Fable|fable]], like the Man-Wolf or the Wise Man of the
+
+Stoics. In every man's heart there is a revolution; how much more in
+
+every poet's? The supreme business of criticism is to discover that part
+
+of a man's work which is his and to ignore that part which belongs to
+
+others. Why should any critic of poetry spend [[Time|time]] and attention on that
+
+part of a man's work which is unpoetical? Why should any man be
+
+interested in aspects which are uninteresting? The business of a critic
+
+is to discover the importance of men and not their crimes. It is true
+
+that the Greek word critic carries with it the meaning of a judge, and
+
+up to this point of [[history]] judges have had to do with the valuation of
+
+men's sins, and not with the valuation of their virtues.
+
+Tennyson's work, disencumbered of all that uninteresting accretion which
+
+he had inherited or copied, resolves itself, like that of any other man
+
+of genius, into those things which he really inaugurated. Underneath all
+
+his exterior of polished and polite rectitude there was in him a genuine
+
+[[Fire|fire]] of novelty; only that, like all the able men of his period, he
+
+disguised revolution under the name of evolution. He is only a very
+
+shallow critic who cannot see an eternal [[Rebel|rebel]] in the heart of the
+
+Conservative.
+
+Tennyson had certain absolutely personal ideas, as much his own as the
+
+ideas of Browning or Meredith, though they were fewer in number. One of
+
+these, for example, was the fact that he was the first of all poets (and
+
+perhaps the last) to attempt to treat poetically that vast and monstrous
+
+vision of fact which science had recently revealed to mankind.
+
+Scientific discoveries seem commonly fables as fantastic in the ears of
+
+poets as [[Poems|poems]] in the ears of men of science. The poet is always a
+
+Ptolemaist; for him the sun still rises and the earth stands still.
+
+Tennyson really worked the essence of modern science into his poetical
+
+constitution, so that its appalling [[Birds|birds]] and frightful [[Flowers|flowers]] were
+
+really part of his literary imagery. To him blind and brutal monsters,
+
+the products of the wild babyhood of the Universe, were as the daisies
+
+and the nightingales were to Keats; he absolutely realised the great
+
+literary [[Paradox|paradox]] mentioned in the Book of Job: "He saw Behemoth, and he
+
+played with him as with a bird."
+
+Instances of this would not be difficult to find. But the tests of
+
+poetry are those instances in which this outrageous scientific
+
+phraseology becomes natural and unconscious. Tennyson wrote one of his
+
+own exquisite lyrics describing the exultation of a [[Lover|lover]] on the evening
+
+before his bridal day. This would be an occasion, if ever there was one,
+
+for falling back on those ancient and assured falsehoods of the domed
+
+heaven and the flat earth in which generations of poets have made us
+
+feel at [[Home|home]]. We can imagine the poet in such a [[Lyric|lyric]] saluting the
+
+setting sun and prophesying the sun's [[Resurrection|resurrection]]. There is something
+
+extraordinarily typical of Tennyson's scientific [[Faith|faith]] in the fact that
+
+this, one of the most sentimental and elemental of his [[Poems|poems]], opens with
+
+the two lines:
+
+"Move eastward, happy earth, and leave
+
+Yon orange sunset waning slow."
+
+Rivers had often been commanded to flow by poets, and [[Flowers|flowers]] to blossom
+
+in their season, and both were doubtless grateful for the permission.
+
+But the terrestrial globe of science has only twice, so far as we know,
+
+been encouraged in poetry to continue its course, one instance being
+
+that of this poem, and the other the incomparable "Address to the
+
+Terrestrial Globe" in the "Bab Ballads."
+
+There was, again, another poetic element entirely peculiar to Tennyson,
+
+which his critics have, in many cases, ridiculously confused with a
+
+fault. This was the fact that Tennyson stood [[Alone|alone]] among modern poets
+
+in the attempt to give a poetic character to the conception of Liberal
+
+Conservatism, of splendid compromise. The carping critics who have
+
+abused Tennyson for this do not see that it was far more daring and
+
+original for a poet to defend conventionality than to defend a cart-load
+
+of revolutions. His really sound and essential conception of Liberty,
+
+"Turning to scorn with lips divine
+
+The falsehood of extremes,"
+
+is as good a definition of Liberalism as has been uttered in poetry in
+
+the Liberal century. Moderation is _not_ a compromise; moderation is a
+
+passion; the passion of great judges. That Tennyson felt that lyrical
+
+enthusiasm could be devoted to established customs, to indefensible and
+
+ineradicable national constitutions, to the dignity of [[Time|time]] and the
+
+empire of unutterable common sense, all this did not make him a tamer
+
+poet, but an infinitely more original one. Any poetaster can describe a
+
+thunderstorm; it requires a poet to describe the ancient and quiet sky.
+
+I cannot, indeed, fall in with Mr. Morton Luce in his somewhat frigid
+
+and patrician theory of poetry. "Dialect," he says, "mostly falls below
+
+the dignity of art." I cannot feel myself that art has any dignity
+
+higher than the indwelling and divine dignity of human [[Nature|nature]]. Great
+
+poets like Burns were far more undignified when they clothed their
+
+thoughts in what Mr. Morton Luce calls "the seemly raiment of cultured
+
+speech" than when they clothed them in the headlong and flexible patois
+
+in which they thought and prayed and quarrelled and made [[Love|love]]. If
+
+Tennyson failed (which I do not admit) in such [[Poems|poems]] as "The Northern
+
+Farmer," it was not because he used too much of the spirit of the
+
+dialect, but because he used too little.
+
+Tennyson belonged undoubtedly to a period from which we are divided; the
+
+period in which men had queer ideas of the antagonism of science and
+
+religion; the period in which the Missing Link was really missing. But
+
+his hold upon the old realities of existence never wavered; he was the
+
+apostle of the sanctity of laws, of the sanctity of customs; above all,
+
+like every poet, he was the apostle of the sanctity of words.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+TENNYSON
+
+Il signor Morton Luce ha scritto un breve studio su Tennyson che ha
+
+notevole raffinatezza e capacità di suggestione, il quale basterà a
+
+servire da taccuino per gli ammiratori di Tennyson, ma a stento basterà,
+
+forse, a servire da libello contro i suoi avversari. Se un critico ha,
+
+come dovrebbe avere, una qualche delle funzioni anticamente attribuite a un
+
+[[Prophet|profeta]], non gli dovrebbe essere difficile profetizzare che Tennyson
+
+attraverserà un periodo di facile condanna e oblio prima che si
+
+giunga alla vera valutazione della sua opera. La stessa cosa è accaduta
+
+al più vigoroso dei saggisti, Macaulay, e al più vigoroso dei
+
+romanzieri, Dickens, perché viviamo in un [[Time|tempo]] in cui il mero vigore è
+
+considerato cosa volgare. La stessa oziosa e gelida reazione quasi
+
+certamente screditerà la solennità e la cura di Tennyson, come ha
+
+screditato la temerarietà e l'inventiva di Dickens. Basta soltanto
+
+ricordare che nessuna azione può essere screditata da una reazione.
+
+I tentativi che sono stati fatti per screditare la posizione poetica di
+
+Tennyson sono per lo più dettati da un totale fraintendimento della
+
+[[Nature|natura]] della poesia. Quando critici come Matthew Arnold, per esempio, insinuano
+
+che la sua poesia è carente di pensiero elaborato, non fanno che dimostrare, come
+
+dimostrò Matthew Arnold, che essi stessi non potrebbero mai essere grandi poeti.
+
+Non è una valida accusa contro un poeta che il sentimento da lui espresso
+
+sia comune. La poesia è sempre comune; è volgare nel
+
+senso più nobile di quella nobile parola. Se un uomo non sa lanciare lo stesso genere di
+
+squillante appello a sentimenti assoluti e riconosciuti che lancia un
+
+oratore popolare, ha perso il contatto con la letteratura delle emozioni. Se non è
+
+in qualche misura un demagogo, non può essere un poeta. Un uomo che esprima
+
+in poesia emozioni nuove e strane e non scoperte non è un poeta; è uno
+
+specialista del cervello. Tennyson non potrà mai essere screditato dinanzi a un serio
+
+tribunale di critica, perché i sentimenti e i pensieri ai quali egli
+
+si dedica sono quei sentimenti e pensieri che vengono in mente a
+
+chiunque. Questi sono il campo peculiare della poesia; la poesia, come la
+
+religione, è sempre cosa democratica, anche se finge il
+
+contrario. I difetti di Tennyson, per quanto esistessero, non erano neppure la metà
+
+nel carattere comune dei suoi sentimenti quanto nell'arrogante
+
+perfezione della sua fattura. Non era affatto tanto in errore nei suoi
+
+difetti quanto lo era nelle sue perfezioni.
+
+Gli uomini sono fin troppo pronti a definire ordinaria l'opera degli uomini, quando
+
+si consideri che, a ben considerare, ogni uomo è straordinario. L'
+
+uomo medio è una [[Fable|favola]] tribale, come l'Uomo-Lupo o il Saggio degli
+
+Stoici. Nel cuore di ogni uomo c'è una rivoluzione; quanto più in
+
+quello di ogni poeta? Il supremo compito della critica è scoprire quella parte
+
+dell'opera di un uomo che è sua e ignorare quella parte che appartiene ad
+
+altri. Perché mai un critico di poesia dovrebbe spendere [[Time|tempo]] e attenzione su quella
+
+parte dell'opera di un uomo che è impoetica? Perché mai un uomo dovrebbe essere
+
+interessato ad aspetti che sono privi d'interesse? Il compito di un critico
+
+è scoprire l'importanza degli uomini e non i loro delitti. È vero
+
+che la parola greca critico porta con sé il significato di giudice, e
+
+fino a questo punto della [[history|storia]] i giudici hanno avuto a che fare con la valutazione dei
+
+peccati degli uomini, e non con la valutazione delle loro virtù.
+
+L'opera di Tennyson, sgombrata di tutta quell'incrostazione priva d'interesse che
+
+egli aveva ereditato o copiato, si risolve, come quella di ogni altro uomo
+
+di genio, in quelle cose che egli davvero inaugurò. Sotto tutta la
+
+sua esteriorità di levigata e cortese rettitudine c'era in lui un genuino
+
+[[Fire|fuoco]] di novità; solo che, come tutti gli uomini capaci del suo periodo, egli
+
+travestiva la rivoluzione sotto il nome di evoluzione. È solo un ben
+
+superficiale critico colui che non sa scorgere un eterno [[Rebel|ribelle]] nel cuore del
+
+conservatore.
+
+Tennyson aveva certe idee assolutamente personali, sue proprie quanto le
+
+idee di Browning o di Meredith, benché fossero minori di numero. Una di
+
+queste, per esempio, era il fatto che egli fu il primo di tutti i poeti (e
+
+forse l'ultimo) a tentare di trattare poeticamente quella vasta e mostruosa
+
+visione di fatto che la scienza aveva da poco rivelato al genere umano.
+
+Le scoperte scientifiche appaiono comunemente favole tanto fantastiche alle orecchie dei
+
+poeti quanto le [[Poems|poesie]] alle orecchie degli uomini di scienza. Il poeta è sempre un
+
+tolemaico; per lui il sole sorge ancora e la terra sta ferma.
+
+Tennyson intessé davvero l'essenza della scienza moderna nella propria
+
+costituzione poetica, sicché i suoi spaventosi [[Birds|uccelli]] e i suoi terribili [[Flowers|fiori]] erano
+
+davvero parte della sua immaginazione letteraria. Per lui i mostri ciechi e brutali,
+
+i prodotti della selvaggia infanzia dell'Universo, erano come le margherite
+
+e gli usignoli erano per Keats; egli realizzò appieno il grande
+
+[[Paradox|paradosso]] letterario menzionato nel Libro di Giobbe: "Egli vide Behemoth, e
+
+giocò con lui come con un uccello".
+
+Esempi di ciò non sarebbe difficile trovarne. Ma le prove della
+
+poesia sono quei casi in cui questa oltraggiosa fraseologia
+
+scientifica diviene naturale e inconsapevole. Tennyson scrisse una delle sue
+
+squisite liriche descrivendo l'esultanza di un [[Lover|amante]] la sera
+
+prima del giorno delle sue nozze. Questa sarebbe un'occasione, se mai ve ne fu una,
+
+per ripiegare su quelle antiche e sicure menzogne della cupola
+
+del cielo e della terra piatta in cui generazioni di poeti ci hanno fatto
+
+sentire a [[Home|casa]]. Possiamo immaginare il poeta in una tale [[Lyric|lirica]] salutare il
+
+sole al tramonto e profetizzare la [[Resurrection|resurrezione]] del sole. C'è qualcosa
+
+di straordinariamente tipico della [[Faith|fede]] scientifica di Tennyson nel fatto che
+
+questa, una delle più sentimentali ed elementari delle sue [[Poems|poesie]], si apra con
+
+i due versi:
+
+"Muoviti verso oriente, terra felice, e lascia
+
+Quell'arancione tramonto che lento declina."
+
+Ai fiumi era stato spesso comandato dai poeti di scorrere, e ai [[Flowers|fiori]] di sbocciare
+
+nella loro stagione, ed entrambi erano senza dubbio grati del permesso.
+
+Ma il globo terrestre della scienza solo due volte, per quanto ne sappiamo,
+
+è stato incoraggiato in poesia a proseguire il suo corso, un caso essendo
+
+quello di questa poesia, e l'altro l'incomparabile "Address to the
+
+Terrestrial Globe" nelle "Bab Ballads".
+
+C'era, di nuovo, un altro elemento poetico interamente peculiare di Tennyson,
+
+che i suoi critici hanno, in molti casi, ridicolmente confuso con un
+
+difetto. Era il fatto che Tennyson era [[Alone|solo]] tra i poeti moderni
+
+nel tentativo di dare carattere poetico alla concezione del conservatorismo
+
+liberale, dello splendido compromesso. I critici cavillosi che hanno
+
+strapazzato Tennyson per questo non vedono che fu assai più ardito e
+
+originale, per un poeta, difendere la convenzionalità che difendere una carrettata
+
+di rivoluzioni. La sua concezione davvero sana ed essenziale della Libertà,
+
+"Volgendo a scherno con labbra divine
+
+la falsità degli estremi",
+
+è una definizione del liberalismo buona quanto ogni altra sia stata pronunciata in poesia nel
+
+secolo liberale. La moderazione _non_ è un compromesso; la moderazione è una
+
+passione; la passione dei grandi giudici. Che Tennyson sentisse che l'entusiasmo
+
+lirico potesse essere dedicato a costumi consolidati, a indifendibili e
+
+inestirpabili costituzioni nazionali, alla dignità del [[Time|tempo]] e all'
+
+impero dell'ineffabile buon senso, tutto ciò non lo rendeva un poeta più
+
+dimesso, ma infinitamente più originale. Qualsiasi poetastro sa descrivere un
+
+temporale; ci vuole un poeta per descrivere l'antico e quieto cielo.
+
+Non posso, in verità, concordare con il signor Morton Luce nella sua alquanto gelida
+
+e patrizia teoria della poesia. "Il dialetto," egli dice, "per lo più scende al di sotto
+
+della dignità dell'arte". Non posso sentire da me che l'arte abbia una dignità
+
+più alta dell'intrinseca e divina dignità della [[Nature|natura]] umana. I grandi
+
+poeti come Burns furono assai più privi di dignità quando rivestirono i loro
+
+pensieri di ciò che il signor Morton Luce chiama "la decorosa veste della lingua
+
+colta" che quando li rivestirono dell'impetuoso e flessibile patois
+
+in cui pensavano e pregavano e litigavano e facevano l'[[Love|amore]]. Se
+
+Tennyson fallì (cosa che non ammetto) in [[Poems|poesie]] come "The Northern
+
+Farmer", non fu perché usò troppo lo spirito del
+
+dialetto, ma perché ne usò troppo poco.
+
+Tennyson apparteneva senza dubbio a un periodo dal quale siamo divisi; il
+
+periodo in cui gli uomini avevano bizzarre idee sull'antagonismo tra scienza e
+
+religione; il periodo in cui l'Anello Mancante era davvero mancante. Ma
+
+la sua presa sulle antiche realtà dell'esistenza non vacillò mai; egli fu l'
+
+apostolo della santità delle leggi, della santità dei costumi; soprattutto,
+
+come ogni poeta, egli fu l'apostolo della santità delle parole.
+
+
+
+<span class="atom-split" data-atom="story_16_elizabeth_barrett_browning" data-title="VariedTypes — Elizabeth Barrett Browning" data-chapter="Elizabeth Barrett Browning" data-kind="story"></span>
+
+
+ELIZABETH BARRETT BROWNING
+
+The delightful new edition of Mrs. Browning's "Casa Guidi Windows" which
+
+Mr. John Lane has just issued ought certainly to serve as an opportunity
+
+for the serious criticism and inevitable admiration to which a great
+
+poet is entitled. For Mrs. Browning was a great poet, and not, as is
+
+idly and vulgarly supposed, only a great poetess. The word poetess is
+
+bad English, and it conveys a particularly bad compliment. Nothing is
+
+more remarkable about Mrs. Browning's work than the absence of that
+
+trite and namby-pamby elegance which the last two centuries demanded
+
+from lady writers. Wherever her verse is bad it is bad from some
+
+extravagance of imagery, some violence of comparison, some kind of
+
+debauch of cleverness. Her nonsense never arises from weakness, but from
+
+a confusion of powers. If the phrase explain itself, she is far more a
+
+great poet than she is a good one.
+
+Mrs. Browning often appears more luscious and sentimental than many
+
+other literary women, but this was because she was stronger. It requires
+
+a certain amount of internal force to break down. A complete
+
+[[Self|self]]-humiliation requires enormous strength, more strength than most of
+
+us possess. When she was writing the poetry of [[Self|self]]-abandonment she
+
+really abandoned herself with the valour and decision of an anchorite
+
+abandoning the world. Such a couplet as:
+
+"Our Euripides, the human,
+
+With his dropping of warm [[Tears|tears]],"
+
+gives to most of us a sickly and nauseous sensation. Nothing can be [[Well|well]]
+
+conceived more ridiculous than Euripides going about dropping [[Tears|tears]] with
+
+a loud splash, and Mrs. Browning coming after him with a thermometer.
+
+But the one emphatic point about this idiotic couplet is that Mrs.
+
+Hemans would never have written it. She would have written something
+
+perfectly dignified, perfectly harmless, perfectly inconsiderable. Mrs.
+
+Browning was in a great and serious difficulty. She really meant
+
+something. She aimed at a vivid and curious image, and she missed it.
+
+She had that catastrophic and public failure which is, as much as a
+
+medal or a testimonial, the badge of the brave.
+
+In spite of the tiresome half-[[Truth|truth]] that art is unmoral, the arts
+
+require a certain considerable number of moral qualities, and more
+
+especially all the arts require [[Courage|courage]]. The art of drawing, for
+
+example, requires even a kind of physical [[Courage|courage]]. Anyone who has tried
+
+to draw a straight line and failed knows that he fails chiefly in nerve,
+
+as he might fail to jump off a cliff. And similarly all great literary
+
+art involves the element of risk, and the greatest literary artists have
+
+commonly been those who have run the greatest risk of talking nonsense.
+
+Almost all great poets rant, from Shakespeare downwards. Mrs. Browning
+
+was Elizabethan in her luxuriance and her audacity, and the gigantic
+
+scale of her wit. We often feel with her as we feel with Shakespeare,
+
+that she would have done better with half as much talent. The great
+
+curse of the Elizabethans is upon her, that she cannot leave anything
+
+[[Alone|alone]], she cannot write a single line without a conceit:
+
+"And the eyes of the peacock fans
+
+Winked at the alien glory,"
+
+she said of the Papal fans in the presence of the Italian tricolour:
+
+"And a royal [[Blood|blood]] sends glances up her princely eye to trouble,
+
+And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,"
+
+is her description of a beautiful and aristocratic lady. The notion of
+
+peacock feathers winking like so many [[London]] urchins is perhaps one of
+
+her rather aggressive and outrageous figures of speech. The image of a
+
+woman's hair as the softened [[Shadow|shadow]] of a [[Crown|crown]] is a singularly vivid and
+
+perfect one. But both have the same quality of intellectual fancy and
+
+intellectual concentration. They are both instances of a sort of
+
+ethereal [[Epigram|epigram]]. This is the great and dominant characteristic of Mrs.
+
+Browning, that she was significant alike in failure and [[success]]. Just as
+
+every [[Marriage|marriage]] in the world, good or bad, is a [[Marriage|marriage]], dramatic,
+
+irrevocable, and big with coming events, so every one of her wild
+
+weddings between alien ideas is an accomplished fact which produces a
+
+certain effect on the [[Imagination|imagination]], which has for good or evil become
+
+part and parcel of our mental vision forever. She gives the reader the
+
+impression that she never declined a fancy, just as some gentlemen of
+
+the eighteenth century never declined a duel. When she fell it was
+
+always because she missed the foothold, never because she funked the
+
+leap.
+
+"Casa Guidi Windows" is, in one aspect, a poem very typical of its
+
+author. Mrs. Browning may fairly be called the peculiar poet of
+
+Liberalism, of that great movement of the first half of the nineteenth
+
+century towards the emancipation of men from ancient institutions which
+
+had gradually changed their [[Nature|nature]], from the houses of refuge which had
+
+turned into dungeons, and the mystic jewels which remained only as
+
+fetters. It was not what we ordinarily understand by revolt. It had no
+
+hatred in its heart for ancient and essentially human institutions. It
+
+had that deeply conservative belief in the most ancient of institutions,
+
+the average man, which goes by the name of [[democracy]]. It had none of
+
+the spirit of modern Imperialism which is kicking a man because he is
+
+down. But, on the other hand, it had none of the spirit of modern
+
+Anarchism and scepticism which is kicking a man merely because he is up.
+
+It was based fundamentally on a belief in the destiny of humanity,
+
+whether that belief took an irreligious form, as in Swinburne, or a
+
+religious form, as in Mrs. Browning. It had that rooted and natural
+
+conviction that the Millennium was coming to-morrow which has been the
+
+conviction of all iconoclasts and reformers, and for which some
+
+rationalists have been absurd enough to blame the early Christians. But
+
+they had none of that disposition to pin their whole [[Faith|faith]] to some
+
+black-and-white scientific system which afterwards became the curse of
+
+philosophical Radicalism. They were not like the sociologists who lay
+
+down a final rectification of things, amounting to nothing except an end
+
+of the world, a great deal more depressing than would be the case if it
+
+were knocked to pieces by a comet. Their ideal, like the ideal of all
+
+sensible people, was a chaotic and confused notion of goodness made up
+
+of English primroses and Greek statues, [[Birds|birds]] singing in April, and
+
+regiments being cut to pieces for a [[Flag|flag]]. They were neither Radicals nor
+
+Socialists, but Liberals, and a Liberal is a noble and indispensable
+
+lunatic who tries to make a cosmos of his own head.
+
+Mrs. Browning and her husband were more liberal than most Liberals.
+
+Theirs was the hospitality of the intellect and the hospitality of the
+
+heart, which is the best definition of the term. They never fell into
+
+the habit of the idle revolutionists of supposing that the past was bad
+
+because the future was good, which amounted to asserting that because
+
+humanity had never made anything but mistakes it was now quite certain
+
+to be right. Browning possessed in a greater degree than any other man
+
+the power of realising that all conventions were only victorious
+
+revolutions. He could follow the mediæval logicians in all their sowing
+
+of the [[Wind|wind]] and reaping of the whirlwind with all that generous ardour
+
+which is due to abstract ideas. He could study the ancients with the
+
+young eyes of the [[Renaissance]] and read a Greek grammar like a book of
+
+[[Love|love]] lyrics. This immense and almost confounding Liberalism of Browning
+
+doubtless had some effect upon his wife. In her vision of New [[Italy]] she
+
+went back to the image of Ancient [[Italy]] like an honest and true
+
+revolutionist; for does not the very word "revolution" mean a [[rolling]]
+
+backward. All true revolutions are reversions to the natural and the
+
+normal. A revolutionist who breaks with the past is a notion fit for an
+
+idiot. For how could a man even wish for something which he had never
+
+heard of? Mrs. Browning's inexhaustible sympathy with all the ancient
+
+and essential passions of humanity was nowhere more in evidence than in
+
+her conception of patriotism. For some dark reason, which it is
+
+difficult indeed to fathom, belief in patriotism in our day is held to
+
+mean principally a belief in every other nation abandoning its patriotic
+
+feelings. In the case of no other passion does this weird contradiction
+
+exist. Men whose lives are mainly based upon [[Friendship|friendship]] sympathise with
+
+the friendships of others. The interest of engaged couples in each other
+
+is a proverb, and like many other proverbs sometimes a nuisance. In
+
+patriotism [[Alone|alone]] it is considered correct just now to assume that the
+
+sentiment does not exist in other people. It was not so with the great
+
+Liberals of Mrs. Browning's [[Time|time]]. The Brownings had, so to speak, a
+
+disembodied talent for patriotism. They loved England and they loved
+
+[[Italy]]; yet they were the very reverse of cosmopolitans. They loved the
+
+two countries as countries, not as arbitrary divisions of the globe.
+
+They had hold of the root and essence of patriotism. They knew how
+
+certain [[Flowers|flowers]] and [[Birds|birds]] and rivers pass into the mills of the brain
+
+and come out as wars and discoveries, and how some triumphant adventure
+
+or some staggering crime wrought in a remote continent may bear about it
+
+the colour of an Italian [[City|city]] or the [[Soul|soul]] of a silent village of Surrey.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+ELIZABETH BARRETT BROWNING
+
+La deliziosa nuova edizione delle "Casa Guidi Windows" della signora Browning, che
+
+il signor John Lane ha appena dato alle stampe, dovrebbe certamente offrire l'occasione
+
+per quella seria critica e quell'inevitabile ammirazione cui un grande
+
+poeta ha diritto. Poiché la signora Browning fu una grande poeta, e non, come
+
+oziosamente e volgarmente si suppone, soltanto una grande poetessa. La parola poetessa è
+
+cattivo inglese, e reca un complimento particolarmente cattivo. Nulla è
+
+più notevole nell'opera della signora Browning quanto l'assenza di quella
+
+eleganza trita e sdolcinata che gli ultimi due secoli esigevano
+
+dalle scrittrici. Ovunque il suo verso è cattivo, lo è per qualche
+
+stravaganza d'immagine, qualche violenza di paragone, una sorta di
+
+dissolutezza dell'ingegno. Le sue assurdità non nascono mai dalla debolezza, ma da
+
+una confusione di poteri. Se la frase spiega se stessa, ella è assai più una
+
+grande poeta che non una buona.
+
+La signora Browning spesso appare più languida e sentimentale di molte
+
+altre donne di lettere, ma ciò accadeva perché era più forte. Occorre
+
+una certa quantità di forza interiore per crollare. Una completa
+
+[[Self|auto]]-umiliazione richiede una forza enorme, più forza di quanta la maggior parte di
+
+noi ne possieda. Quando scriveva la poesia dell'[[Self|abbandono]] di sé, ella
+
+si abbandonava davvero con il valore e la decisione di un anacoreta
+
+che abbandona il mondo. Un distico come:
+
+"Il nostro Euripide, l'umano,
+
+Con il suo stillare di calde [[Tears|lacrime]],"
+
+dà ai più di noi una sensazione stucchevole e nauseante. Nulla si può [[Well|bene]]
+
+concepire di più ridicolo di Euripide che se ne va stillando [[Tears|lacrime]] con
+
+un sonoro tonfo, e la signora Browning che gli va dietro con un termometro.
+
+Ma il punto essenziale di questo distico idiota è che la signora
+
+Hemans non l'avrebbe mai scritto. Avrebbe scritto qualcosa
+
+di perfettamente dignitoso, perfettamente innocuo, perfettamente trascurabile. La signora
+
+Browning si trovava in una grande e seria difficoltà. Voleva dire davvero
+
+qualcosa. Mirava a un'immagine viva e curiosa, e la mancava.
+
+Ebbe quel fallimento catastrofico e pubblico che è, non meno di una
+
+medaglia o di un attestato, il distintivo dei coraggiosi.
+
+Nonostante la tediosa mezza [[Truth|verità]] che l'arte sia amorale, le arti
+
+richiedono un certo considerevole numero di qualità morali, e più
+
+specialmente tutte le arti richiedono [[Courage|coraggio]]. L'arte del disegno, per
+
+esempio, richiede persino una sorta di [[Courage|coraggio]] fisico. Chiunque abbia tentato
+
+di tracciare una linea retta e abbia fallito sa che fallisce soprattutto nel nervo,
+
+come potrebbe fallire nel gettarsi da una rupe. E allo stesso modo ogni grande arte
+
+letteraria comporta l'elemento del rischio, e i più grandi artisti letterari sono
+
+comunemente stati coloro che hanno corso il maggior rischio di dire sciocchezze.
+
+Quasi tutti i grandi poeti declamano, da Shakespeare in giù. La signora Browning
+
+era elisabettiana nella sua esuberanza e nella sua audacia, e nella scala
+
+gigantesca del suo ingegno. Spesso sentiamo con lei ciò che sentiamo con Shakespeare,
+
+che avrebbe fatto meglio con la metà del talento. La grande
+
+maledizione degli elisabettiani grava su di lei: non sa lasciare nulla
+
+[[Alone|in pace]], non sa scrivere un solo verso senza un concetto arguto:
+
+"E gli occhi dei ventagli di pavone
+
+Ammiccarono all'estranea gloria,"
+
+disse dei ventagli papali in presenza del tricolore italiano:
+
+"E un regale [[Blood|sangue]] manda sguardi a turbare il suo occhio principesco,
+
+E l'[[Shadow|ombra]] della [[Crown|corona]] d'un monarca s'addolcisce nei suoi capelli,"
+
+è la sua descrizione di una bella e aristocratica dama. L'idea di
+
+penne di pavone che ammiccano come tanti monelli di [[London|Londra]] è forse una
+
+delle sue figure retoriche piuttosto aggressive e oltraggiose. L'immagine dei
+
+capelli d'una donna come l'[[Shadow|ombra]] addolcita d'una [[Crown|corona]] è singolarmente viva e
+
+perfetta. Ma entrambe hanno la stessa qualità di fantasia intellettuale e di
+
+concentrazione intellettuale. Sono entrambe esempi di una sorta di
+
+[[Epigram|epigramma]] etereo. Questa è la grande e dominante caratteristica della signora
+
+Browning: che ella fu significativa tanto nel fallimento quanto nel [[success|successo]]. Proprio come
+
+ogni [[Marriage|matrimonio]] al mondo, buono o cattivo, è un [[Marriage|matrimonio]], drammatico,
+
+irrevocabile e gravido di eventi futuri, così ogni suo selvaggio
+
+sposalizio tra idee estranee è un fatto compiuto che produce un
+
+certo effetto sull'[[Imagination|immaginazione]], che nel bene o nel male è divenuto
+
+parte integrante della nostra visione mentale per sempre. Ella dà al lettore
+
+l'impressione di non aver mai rifiutato un capriccio, proprio come certi gentiluomini
+
+del Settecento non rifiutavano mai un duello. Quando cadeva, era
+
+sempre perché mancava l'appiglio, mai perché si tirava indietro dal
+
+salto.
+
+"Casa Guidi Windows" è, sotto un aspetto, un poema molto tipico della sua
+
+autrice. La signora Browning può a buon diritto esser detta la poeta peculiare del
+
+Liberalismo, di quel grande movimento della prima metà del secolo
+
+diciannovesimo verso l'emancipazione degli uomini dalle antiche istituzioni che
+
+avevano gradualmente mutato la loro [[Nature|natura]], dalle case di rifugio che si erano
+
+trasformate in prigioni, e dai mistici gioielli rimasti ormai soltanto come
+
+catene. Non era ciò che ordinariamente intendiamo per rivolta. Non aveva alcun
+
+odio nel cuore per le antiche ed essenzialmente umane istituzioni. Aveva
+
+quella credenza profondamente conservatrice nella più antica delle istituzioni,
+
+l'uomo comune, che va sotto il nome di [[democracy|democrazia]]. Non aveva nulla
+
+dello spirito del moderno Imperialismo, che prende a calci un uomo perché è
+
+a terra. Ma, d'altra parte, non aveva nulla dello spirito del moderno
+
+Anarchismo e scetticismo, che prende a calci un uomo solo perché è in alto.
+
+Si fondava fondamentalmente su una fede nel destino dell'umanità,
+
+sia che tale fede assumesse una forma irreligiosa, come in Swinburne, sia una
+
+forma religiosa, come nella signora Browning. Aveva quella radicata e naturale
+
+convinzione che il Millennio sarebbe giunto l'indomani, che è stata la
+
+convinzione di tutti gli iconoclasti e riformatori, e per la quale alcuni
+
+razionalisti sono stati tanto assurdi da biasimare i primi cristiani. Ma
+
+essi non avevano quella disposizione ad appuntare tutta la loro [[Faith|fede]] su qualche
+
+sistema scientifico in bianco e nero che divenne poi la maledizione del
+
+Radicalismo filosofico. Non erano come i sociologi che stabiliscono
+
+una rettifica finale delle cose, che non equivale a nulla se non a una fine
+
+del mondo, assai più deprimente di quanto sarebbe se essa
+
+venisse fatta a pezzi da una cometa. Il loro ideale, come l'ideale di tutte
+
+le persone assennate, era una nozione caotica e confusa di bontà fatta
+
+di primule inglesi e statue greche, [[Birds|uccelli]] che cantano in aprile, e
+
+reggimenti fatti a pezzi per una [[Flag|bandiera]]. Non erano né Radicali né
+
+Socialisti, ma Liberali, e un Liberale è un nobile e indispensabile
+
+folle che tenta di fare un cosmo della propria testa.
+
+La signora Browning e suo marito erano più liberali della maggior parte dei Liberali.
+
+La loro era l'ospitalità dell'intelletto e l'ospitalità del
+
+cuore, che è la migliore definizione del termine. Non caddero mai
+
+nell'abitudine degli oziosi rivoluzionari di supporre che il passato fosse cattivo
+
+perché il futuro era buono, il che equivaleva ad affermare che, poiché
+
+l'umanità non aveva mai fatto altro che errori, era ormai del tutto certo
+
+che avesse ragione. Browning possedeva in grado maggiore di ogni altro uomo
+
+il potere di comprendere che tutte le convenzioni non erano che rivoluzioni
+
+vittoriose. Sapeva seguire i logici medievali in tutto il loro seminare
+
+il [[Wind|vento]] e mietere la tempesta con tutto quel generoso ardore
+
+che è dovuto alle idee astratte. Sapeva studiare gli antichi con i
+
+giovani occhi del [[Renaissance|Rinascimento]] e leggere una grammatica greca come un libro di
+
+liriche d'[[Love|amore]]. Questo immenso e quasi sconcertante Liberalismo di Browning
+
+ebbe senza dubbio qualche effetto sulla moglie. Nella sua visione della Nuova [[Italy|Italia]] ella
+
+tornava all'immagine dell'Antica [[Italy|Italia]] come un'onesta e vera
+
+rivoluzionaria; poiché la parola stessa "rivoluzione" non significa forse un [[rolling|rotolare]]
+
+all'indietro? Tutte le vere rivoluzioni sono ritorni al naturale e al
+
+normale. Un rivoluzionario che rompe col passato è un'idea degna di un
+
+idiota. Poiché come potrebbe un uomo desiderare qualcosa di cui non aveva mai
+
+sentito parlare? L'inesauribile simpatia della signora Browning per tutte le antiche
+
+ed essenziali passioni dell'umanità in nessun luogo si manifestava più che nella
+
+sua concezione del patriottismo. Per qualche oscura ragione, che è
+
+davvero difficile scandagliare, la fede nel patriottismo ai nostri giorni si ritiene
+
+significhi principalmente la fede che ogni altra nazione abbandoni i propri sentimenti
+
+patriottici. Nel caso di nessun'altra passione esiste questa strana
+
+contraddizione. Gli uomini la cui vita si fonda principalmente sull'[[Friendship|amicizia]] simpatizzano con
+
+le amicizie altrui. L'interesse delle coppie di fidanzati l'uno per l'altro
+
+è proverbiale, e come molti altri proverbi talora una seccatura. Nel
+
+patriottismo [[Alone|solo]] si ritiene corretto proprio ora supporre che il
+
+sentimento non esista negli altri. Non era così per i grandi
+
+Liberali del [[Time|tempo]] della signora Browning. I Browning avevano, per così dire, un
+
+talento disincarnato per il patriottismo. Amavano l'Inghilterra e amavano
+
+l'[[Italy|Italia]]; eppure erano l'esatto opposto dei cosmopoliti. Amavano i
+
+due paesi come paesi, non come arbitrarie divisioni del globo.
+
+Coglievano la radice e l'essenza del patriottismo. Sapevano come
+
+certi [[Flowers|fiori]] e [[Birds|uccelli]] e fiumi passino nei mulini del cervello
+
+e ne escano come guerre e scoperte, e come qualche trionfante avventura
+
+o qualche sconvolgente delitto compiuto in un continente remoto possa recare in sé
+
+il colore di una [[City|città]] italiana o l'[[Soul|anima]] di un silenzioso villaggio del Surrey.

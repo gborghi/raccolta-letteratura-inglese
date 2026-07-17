@@ -7243,4079 +7243,6 @@ al mondo.
 
 
 
-<span class="atom-split" data-atom="story_04_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
-
-
-MY SIX CONVERSIONS
-I. THE RELIGION OF FOSSILS
-
-AT least six times during the last few years, I have found
-myself in a situation in which I should certainly have become
-a Catholic, if I had not been restrained from that rash step
-by the fortunate accident that I was one already.  The point
-is not merely personal but has some representative interest,
-because our critics constantly expect the [[convert]] to suffer some
-sort of reaction, ending in disappointment and perhaps desertion.
-As a rule, the most that they will concede to us is that we have
-found peace by the surrender of reason; which generally means
-in practice that we pass the rest of our lives in interminable
-controversies with a perpetual appeal to [[logic]].  But, as a fact,
-it is in a rather peculiar sense, the other way about.
-The strongest sort of confirmation often comes to the [[convert]]
-after he has received enough to establish conviction.
-In these articles I propose to discuss some examples
-of this singular sort of post-[[Conversion|conversion]] [[Conversion|conversion]].
-I mean that things have happened, since I was received
-into the Church, which would in any case have rendered
-impossible any intellectual position outside the Church,
-and especially the position in which I originally found myself.
-One occasion was the Parliamentary settlement of the controversy on
-the [[Prayer]]-Book--or [[Prayer]]-Books. Another was the Lambeth decision,
-or indecision, about Birth-Control. But I will take first
-the example of the latest turn of political events in Europe.
-I take it first because it is both typical and topical;
-that is, it gives perhaps the clearest and simplest example
-of the sort of thing I mean, and it is a thing of which the facts
-are fresh and familiar to everybody, even those who live
-only from day to day with the assistance of the daily Press;
-that very synthetic substitute for daily bread.
-But in order to explain what I think has really happened,
-rather more lucidly than the daily Press explains it, it is
-necessary to say a preliminary word about the Protestant [[Reformation]]
-and the sense in which its consequences, rather than itself,
-continue to bewilder and mislead Christendom.
-
-Men of the type or school of Bishop Barnes or Dean Inge are,
-as we know, very fond of appealing to the discoveries of science;
-generally the not very recent discoveries of nineteenth-century science.
-They delight in dealing with what my grandfather would have called
-the Testimony of the Rocks; the geological record of natural development;
-and they often treat fossils and similar traces as if they were
-sacred hieroglyphics, by which some priesthood had symbolised the secret
-of the universe.  And yet it is doubtful, it is more than doubtful,
-whether one of the Broad Church ecclesiastics would be soothed
-and flattered if I addressed him personally as an Old Fossil.
-Nor indeed should I dream of indulging in this playful form of
-social address; since there are truths, or half-truths, that cannot
-be coarsely stated without giving rise to misunderstanding even
-about their true meaning.
-
-In one sense these liberal theologians are interested in fossils.
-They continue to demonstrate the Darwinian theory from
-the geological record, by means of all the fossils that ought
-to be found in it.  They will even explain luminously why
-the geological evidence does not apparently exist; and they seem
-to think that this is quite as convincing as if it did exist.
-But I [[Doubt|doubt]] whether they have really thought profoundly and
-delicately about what a fossil is, or there would be no danger
-of their resenting so [[Innocent|innocent]] and inoffensive a comparison.
-For a fossil is really a very curious thing.  A fossil is not
-a dead animal, or a decayed organism, or in essence even an
-antiquated object.  The whole point of a fossil is that it is
-the form of an animal or organism, from which all its own animal
-or organic substance has entirely disappeared; but which has
-kept its shape, because it has been filled up by some totally
-different substance by some process of distillation or secretion,
-so that we might almost say, as in the medieval metaphysics,
-that its substance has vanished and only its accidents remain.
-And that is perhaps the very nearest figure of speech
-we can find for the [[Truth|truth]] about the New Religions,
-which were started only three or four hundred years ago.
-They are Fossils.
-
-It is easy to see the sense in which they are now dying.
-But in a much deeper sense, they have long been dead.
-The extraordinary thing about them was that they really
-died almost as soon as they were born.  And this was due
-to a fact not always emphasised, but which always strikes
-me as the most outstanding fact of the mysterious business;
-the incredible clumsiness of the Reformers.  The real
-Protestant theologians were such very bad theologians.
-They had an amazing opportunity; the old Church had been
-swept out of their way, along with many things that were
-really unpopular, and some things that were deservedly unpopular.
-One would suppose it was easy enough to set up something
-that would at least look a little more popular.  When they
-tried to do it, they made every mistake that they could make.
-They waged an insane war against everything in the old [[Faith|faith]]
-that is most normal and sympathetic to human [[Nature|nature]]; such as
-prayers for the dead or the gracious image of a Mother of Men.
-They hardened and fixed themselves upon fads which anybody
-could see would pass like fashions.  Luther lashed himself
-into a sort of general fury, which obviously could not last;
-Calvin was logical, but used his [[logic]] for a scheme
-which humanity manifestly would not long find endurable.
-Perhaps the most successful were those who really had no ideas
-to offer at all; like the founders of the Anglican Church.
-They at least did not exasperate human [[Nature|nature]]; but even they
-showed the same blindness, in binding themselves instantly
-to the Divine Right of Kings, which was almost immediately
-to break down.
-
-For this reason, there is really no historical [[Doubt|doubt]]
-about what Protestantism did; it died.  It did not die
-because the Protestants were wrong; Mahomet, for instance,
-was a far shrewder person, and his heresy has not died.
-The creed of the Protestants died, not because they were wrong,
-but because they were wrong-headed. They did not really think
-what they were doing; and this was chiefly because the real driving
-force behind them was the impatient insolence and avarice of new
-nobles and rebellious princes.  But, anyhow, the theological and
-theoretical part of their work withered with extraordinary rapidity;
-and the void that was left was almost as rapidly filled
-with other things.  What those things were is clear enough
-in many cases, including cases much more apparently harmless;
-but it is clearest of all in what is confronting us to-day;
-the Race Religion of the Germans.
-
-Needless to say, there was no such nonsense talked in Luther's [[Time|time]],
-or for long after his [[Time|time]]; and, least of all, to do him justice,
-by Luther.  Germans were turbulent and a little barbaric,
-as he was himself; but it is only fair to him to say that he was
-a Christian, in the sense that he believed that nothing could be
-done except in the strength of [[Christ]].  A superbly typical story
-reaches me from [[Germany]]; that some of the Nazis started out to sing
-the great reformer's famous [[Hymn|hymn]], "A strong fortress is our God"
-(which sounds quite promisingly militaristic), but found
-themselves unable to articulate the very words at the beginning
-of the next verse, which ran, "Of ourselves we can do nothing."
-Luther did, in his own mad way, believe in [[Humility|humility]];
-but modern [[Germany]] believes simply, solely and entirely in [[Pride|pride]].
-That is an example of what I mean by a void being filled up, not only
-by another substance, but actually by an antagonistic substance.
-
-Luther was subject to irrational convulsions of rage, in one
-of which he tore out the Epistle of St. James from the [[Bible]],
-because St. James exalts the importance of good works.
-But I shudder to imagine into what sort of epileptic convulsion
-he would have fallen if anybody had told him to tear out
-the Epistles of St. Paul, because St. Paul was not an Aryan.
-Luther, if possible, rather exaggerated the weakness of humanity,
-but at least it was the weakness of all humanity.  John Knox achieved
-that queer Puritan [[Paradox|paradox]], of combining the same concentrated
-invocation of [[Christ]] with an inhuman horror and loathing for all
-the signs and forms and traditions generally characteristic
-of Christians.  He combined, in the way that puzzles us so much,
-the adoration of the [[Cross]] with the abomination of the Crucifix.
-But at least John Knox would have exploded like dynamite,
-if anybody had asked him to adore the Swastika.  All this new
-Nordic nonsense would seem to have nothing whatever to do with
-Protestant theology; or rather to be completely contrary to it.
-No one is more sincerely glad than we are to know that some
-of the German Protestants are still most consistent and
-courageous Christians; and that a definite number of the Lutherans
-still have some sort of remote connection with Luther.
-But, taking the development simply as an historical development,
-as a part of the science and [[philosophy]] of [[history]], it is obvious
-by this [[Time|time]] that the hollow places that were once tilled with
-the foaming [[Fanaticism|fanaticism]] of the first [[Reformation]] doctrines are now
-filled with a foaming [[Fanaticism|fanaticism]] of a totally different kind.
-Those who are rebelling like Luther are rebelling against Luther.
-
-The main moral of this is so large and simple and striking,
-that it will soon be impossible to conceal it from the world.
-It is the simple fact that the moment men began to contradict
-the Church with their own private judgment, everything they
-did was incredibly ill-judged; that those who broke away from
-the Church's basis almost immediately broke down on their own basis;
-that those who tried to stand apart from Authority could
-not in fact stand at all.  [[Islam]] stood by being stagnant;
-it is not unfair to say it stood up by lying down.
-But Protestantism could not stand in the staggering rush of the West;
-it could only maintain itself by ceasing to be itself,
-and announcing its readiness to turn into anything else.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LE MIE SEI CONVERSIONI
-I. LA RELIGIONE DEI FOSSILI
-
-ALMENO sei volte durante gli ultimi anni, mi sono trovato
-in una situazione in cui sarei certamente diventato
-cattolico, se non fossi stato trattenuto da quel passo avventato
-dal fortunato accidente di esserlo già. Il punto
-non è meramente personale ma ha un certo interesse rappresentativo,
-perché i nostri critici si aspettano costantemente che il [[convert|convertito]] soffra una qualche
-sorta di reazione, che finisce nella disillusione e forse nella diserzione.
-Di regola, il massimo che ci concederanno è che abbiamo
-trovato la pace mediante la resa della ragione; il che generalmente significa
-in pratica che passiamo il resto della vita in interminabili
-controversie con un perpetuo appello alla [[logic|logica]]. Ma, di fatto,
-è in un senso piuttosto peculiare, il contrario.
-Il più forte genere di conferma giunge spesso al [[convert|convertito]]
-dopo che egli ha ricevuto abbastanza da stabilire la convinzione.
-In questi articoli mi propongo di discutere alcuni esempi
-di questo singolare genere di [[Conversion|conversione]] post-[[Conversion|conversione]].
-Intendo che sono accadute cose, da quando fui accolto
-nella Chiesa, che avrebbero in ogni caso reso
-impossibile qualsiasi posizione intellettuale al di fuori della Chiesa,
-e specialmente la posizione in cui originariamente mi trovavo.
-Un'occasione fu la definizione parlamentare della controversia sul
-Libro delle [[Prayer|Preghiere]] — o Libri delle [[Prayer|Preghiere]]. Un'altra fu la decisione di Lambeth,
-o indecisione, sul Controllo delle Nascite. Ma prenderò per prima
-l'esempio dell'ultima svolta degli eventi politici in Europa.
-La prendo per prima perché è insieme tipica e attuale;
-cioè, offre forse l'esempio più chiaro e semplice del genere di cosa
-che intendo, ed è una cosa i cui fatti
-sono freschi e familiari a tutti, persino a coloro che vivono
-solo alla giornata con l'assistenza della stampa quotidiana;
-quel surrogato assai sintetico del pane quotidiano.
-Ma per spiegare ciò che penso sia realmente accaduto,
-in modo un po' più lucido di quanto lo spieghi la stampa quotidiana, è
-necessario dire una parola preliminare sulla [[Reformation|Riforma]] protestante
-e sul senso in cui le sue conseguenze, piuttosto che essa stessa,
-continuano a sconcertare e fuorviare la cristianità.
-
-Uomini del tipo o della scuola del vescovo Barnes o del decano Inge sono,
-come sappiamo, assai inclini ad appellarsi alle scoperte della scienza;
-generalmente le non molto recenti scoperte della scienza ottocentesca.
-Si dilettano nel trattare ciò che mio nonno avrebbe chiamato
-la Testimonianza delle Rocce; il documento geologico dello sviluppo naturale;
-e trattano spesso i fossili e tracce simili come se fossero
-sacri geroglifici, con cui qualche sacerdozio avesse simboleggiato il segreto
-dell'universo. Eppure è dubbio, è più che dubbio,
-che uno degli ecclesiastici della Broad Church sarebbe placato
-e lusingato se mi rivolgessi a lui personalmente chiamandolo un Vecchio Fossile.
-Né, invero, sognerei di indulgere in questa giocosa forma di
-appellativo sociale; poiché ci sono verità, o mezze verità, che non possono
-essere rozzamente enunciate senza dare origine a malintesi persino
-sul loro vero significato.
-
-In un senso questi teologi liberali sono interessati ai fossili.
-Continuano a dimostrare la teoria darwiniana a partire dal
-documento geologico, per mezzo di tutti i fossili che dovrebbero
-trovarvisi. Spiegheranno persino luminosamente perché
-l'evidenza geologica apparentemente non esiste; e sembrano
-pensare che ciò sia altrettanto convincente che se esistesse.
-Ma [[Doubt|dubito]] che abbiano davvero riflettuto profondamente e
-delicatamente su che cosa sia un fossile, altrimenti non ci sarebbe pericolo
-che si risentissero di un paragone così [[Innocent|innocente]] e inoffensivo.
-Poiché un fossile è davvero una cosa curiosissima. Un fossile non è
-un animale morto, o un organismo decaduto, o in essenza persino un
-oggetto antiquato. Tutto il punto di un fossile è che è
-la forma di un animale o organismo, da cui tutta la sua propria sostanza animale
-o organica è interamente scomparsa; ma che ne ha
-conservato la sagoma, perché è stato riempito da qualche totalmente
-diversa sostanza mediante qualche processo di distillazione o secrezione,
-sicché potremmo quasi dire, come nella metafisica medievale,
-che la sua sostanza è svanita e solo i suoi accidenti rimangono.
-E questa è forse la più prossima figura retorica
-che possiamo trovare per la [[Truth|verità]] sulle Nuove Religioni,
-che furono avviate solo tre o quattrocento anni fa.
-Esse sono Fossili.
-
-È facile vedere il senso in cui esse ora stanno morendo.
-Ma in un senso assai più profondo, sono morte da tempo.
-La cosa straordinaria a loro riguardo era che davvero
-morirono quasi appena nate. E ciò era dovuto
-a un fatto non sempre sottolineato, ma che mi colpisce sempre
-come il fatto più cospicuo di questa misteriosa faccenda;
-l'incredibile goffaggine dei Riformatori. I veri
-teologi protestanti erano teologi pessimi.
-Avevano un'occasione stupefacente; la vecchia Chiesa era stata
-spazzata via dal loro cammino, insieme a molte cose che erano
-davvero impopolari, e ad alcune cose che erano meritatamente impopolari.
-Si supporrebbe fosse abbastanza facile erigere qualcosa
-che almeno apparisse un po' più popolare. Quando
-tentarono di farlo, commisero ogni errore che potessero commettere.
-Mossero una guerra insensata contro tutto ciò che nella vecchia [[Faith|Fede]]
-è più normale e simpatico alla [[Nature|natura]] umana; come
-le preghiere per i morti o la graziosa immagine di una Madre degli uomini.
-Si irrigidirono e si fissarono su fisime che chiunque
-poteva vedere sarebbero passate come mode. Lutero si frustò
-in una sorta di furia generale, che ovviamente non poteva durare;
-Calvino era logico, ma usò la sua [[logic|logica]] per uno schema
-che l'umanità manifestamente non avrebbe a lungo trovato sopportabile.
-Forse i più riusciti furono quelli che davvero non avevano idee
-da offrire affatto; come i fondatori della Chiesa anglicana.
-Essi almeno non esasperarono la [[Nature|natura]] umana; ma persino loro
-mostrarono la stessa cecità, legandosi istantaneamente
-al Diritto Divino dei Re, che stava quasi immediatamente
-per crollare.
-
-Per questa ragione, non c'è davvero alcun [[Doubt|dubbio]] storico
-su ciò che il protestantesimo fece; morì. Non morì
-perché i protestanti avessero torto; Maometto, per esempio,
-era una persona assai più accorta, e la sua eresia non è morta.
-Il credo dei protestanti morì, non perché avessero torto,
-ma perché erano di testa sbagliata. Non pensavano davvero
-a ciò che facevano; e ciò era principalmente perché la vera forza
-motrice dietro di loro era l'impaziente insolenza e l'avarizia di nuovi
-nobili e di principi ribelli. Ma, comunque, la parte teologica e
-teorica della loro opera avvizzì con straordinaria rapidità;
-e il vuoto che restò fu quasi altrettanto rapidamente riempito
-di altre cose. Che cosa fossero quelle cose è abbastanza chiaro
-in molti casi, inclusi casi assai più apparentemente innocui;
-ma è più chiaro di tutto in ciò che oggi ci sta di fronte;
-la Religione della Razza dei tedeschi.
-
-Inutile dire che nessuna simile assurdità fu detta al [[Time|tempo]] di Lutero,
-o per lungo tempo dopo il suo [[Time|tempo]]; e, meno di tutti, per rendergli giustizia,
-da Lutero. I tedeschi erano turbolenti e un po' barbari,
-come lo era egli stesso; ma è solo giusto verso di lui dire che era
-un cristiano, nel senso che credeva che nulla potesse essere
-fatto se non nella forza di [[Christ|Cristo]]. Una storia superbamente tipica
-mi giunge dalla [[Germany|Germania]]; che alcuni dei nazisti si misero a cantare
-il famoso [[Hymn|inno]] del grande riformatore, «Forte rocca è il nostro Dio»
-(che suona in modo assai promettentemente militaristico), ma si trovarono
-incapaci di articolare le parole stesse all'inizio
-della strofa successiva, che diceva: «Da noi stessi nulla possiamo».
-Lutero, a suo modo folle, credeva nell'[[Humility|umiltà]];
-ma la [[Germany|Germania]] moderna crede semplicemente, unicamente e interamente nell'[[Pride|orgoglio]].
-Questo è un esempio di ciò che intendo per un vuoto riempito, non solo
-da un'altra sostanza, ma effettivamente da una sostanza antagonistica.
-
-Lutero era soggetto a irrazionali convulsioni di rabbia, in una
-delle quali strappò l'Epistola di San Giacomo dalla [[Bible|Bibbia]],
-perché San Giacomo esalta l'importanza delle buone opere.
-Ma rabbrividisco a immaginare in quale sorta di convulsione epilettica
-sarebbe caduto se qualcuno gli avesse detto di strappare
-le Epistole di San Paolo, perché San Paolo non era ariano.
-Lutero, semmai, esagerava piuttosto la debolezza dell'umanità,
-ma almeno era la debolezza di tutta l'umanità. John Knox conseguì
-quel bizzarro [[Paradox|paradosso]] puritano, di combinare la stessa concentrata
-invocazione di [[Christ|Cristo]] con un orrore e un ribrezzo inumani per tutti
-i segni e le forme e le tradizioni generalmente caratteristici
-dei cristiani. Combinava, nel modo che tanto ci sconcerta,
-l'adorazione della [[Cross|Croce]] con l'abominio del Crocifisso.
-Ma almeno John Knox sarebbe esploso come dinamite,
-se qualcuno gli avesse chiesto di adorare la Svastica. Tutta questa nuova
-assurdità nordica sembrerebbe non avere nulla a che fare con
-la teologia protestante; o piuttosto esserle completamente contraria.
-Nessuno è più sinceramente lieto di noi di sapere che alcuni
-dei protestanti tedeschi sono ancora cristiani coerentissimi e
-coraggiosissimi; e che un certo numero di luterani
-ha ancora una qualche sorta di remota connessione con Lutero.
-Ma, prendendo lo sviluppo semplicemente come uno sviluppo storico,
-come parte della scienza e della [[philosophy|filosofia]] della [[history|storia]], è ovvio
-ormai a questo [[Time|punto]] che i luoghi cavi un tempo coltivati con
-lo spumeggiante [[Fanaticism|fanatismo]] delle prime dottrine della [[Reformation|Riforma]] sono ora
-riempiti da uno spumeggiante [[Fanaticism|fanatismo]] di genere totalmente diverso.
-Coloro che si ribellano come Lutero si ribellano contro Lutero.
-
-La principale morale di questo è così grande e semplice e sorprendente,
-che presto sarà impossibile celarla al mondo.
-È il semplice fatto che nel momento in cui gli uomini cominciarono a contraddire
-la Chiesa con il proprio giudizio privato, tutto ciò che essi
-fecero fu incredibilmente mal giudicato; che coloro che si staccarono dalla
-base della Chiesa quasi immediatamente crollarono sulla propria base;
-che coloro che tentarono di stare a parte dall'Autorità non poterono
-di fatto stare affatto in piedi. L'[[Islam]] stette in piedi restando stagnante;
-non è ingiusto dire che si tenne ritto sdraiandosi.
-Ma il protestantesimo non poté reggere nella vertiginosa corsa dell'Occidente;
-poté mantenersi solo cessando di essere se stesso,
-e annunciando la propria prontezza a trasformarsi in qualsiasi altra cosa.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_05_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
-
-
-MY SIX CONVERSIONS
-II.  WHEN THE WORLD TURNED BACK
-
-FOR the first forty years of my life, practically no man in the world,
-and certainly no man of the world, had any [[Doubt|doubt]] whatever
-about what Matthew Arnold called, "the way the world is going."
-A man did not necessarily agree with Matthew Arnold, who seemed
-to think that he must necessarily go the way the world was going.
-Some regretted ages that were gone; some again were prepared
-to go farther than others, some to go faster than others;
-some almost passionately desired to go slow.  But all agreed that
-it was, in the vulgar phrase, going it; and still going strong.
-It was, very broadly, the demand for [[Freedom|freedom]] and fraternity
-flowing from the [[French Revolution]] and the American Revolution,
-making towards an ideal of [[Democracy|democracy]].  Elements were indeed mixed
-in it, which logically had very little to do with each other.
-There was a tendency to materialism, to monism or to scepticism,
-which I rejected long before I was a Catholic.  There was an
-element of equal justice, and the dignity of all citizens, which I
-accepted long after I was a Catholic; and which I accept still.
-But I assumed, like everybody else, that the main movement
-was still moving; and would presumably go on moving.
-There were three ways in which it could be recognised
-by a Catholic, or a man of increasingly Catholic sympathies,
-(1) He could say that this was the way the world was going;
-and so much the worse for the world.  He could say the world
-would certainly go further and fare worse.  (2) He could say,
-with considerable [[Truth|truth]], that no such movement that was purely
-secular really touched the question that was purely spiritual.
-To take a simple example, the most ideal Republicans could
-not somehow get out of the human habit of dying; and generally
-of wondering whether dying meant being completely dead.
-[[Democracy]] could not satisfy all desires, even if it could
-purge itself enough to satisfy all democratic desires.
-(3) He could look forward, with some historical justification,
-to a [[Time|time]] when any temporal quarrel between the Church and
-the Republic should end in a real and reasonable [[Reconciliation|reconciliation]]
-of the truths in both; as St. Thomas reconciled the [[philosophy]]
-of Aristotle with the religion of Augustine.  Something like
-this has largely been done, in recent Papal pronouncements;
-but the point is here that whether or no the Church could close
-this particular quarrel with the world, every one was certain
-that a quarrel with [[Democracy|democracy]] was a quarrel with the world.
-In short, a Catholic might reject the present progress;
-or say his creed was independent of the present progress;
-or say his creed would find a place for the present progress.
-But everybody believed that the progress of the present would
-be the progress of the future.
-
-Then came the astounding judgments; the strange signs of [[Apocalypse]].
-First the Great War; then the [[Paradox|paradox]] of Fascism in [[Italy]]; then the [[Parody|parody]]
-of Fascism in [[Germany]].  Now these things have left in the minds
-of all thinking men (as the Rationalist Press Association would say)
-an enormous overturn or reversal of thought, which has nothing
-whatever to do with thinking any of these movements right or wrong.
-It is very vital to realise that the change is something more
-fundamental than agreement or disagreement with the factions concerned.
-A man may think the war waged by the Allies justifiable, as I did and do;
-he may think that the stroke of Mussolini had considerable justification,
-or even that the stroke of Hitler achieved many things that were just.
-Or he may think exactly the opposite, and regard the whole militant
-epoch as a relapse into [[Blood|blood]] and barbarism, from the first recruit
-of Kitchener's Army to the last ruffian dripping with the [[Blood|blood]]
-of Dollfuss.  But there is a changed landscape at the back of all
-these fighting figures; and it is a landscape like an earthquake.
-What a man knows, now, is that the whole march of mankind can turn
-and tramp backwards in its tracks; that progress can start progressing,
-or feeling as if it were progressing, in precisely the contrary
-course from that which has been called progress for centuries.
-It can not only lose but fling away all that its fathers fought for and
-valued most; it can not only restore but restore exclusively all that its
-grandfathers were forced to abandon, or felt themselves unable to defend.
-The whole world is moving again; but it is moving the other way.
-
-To-day this is the way the world is going, if there
-is any such thing.  But in fact there is no such thing.
-A Catholic perhaps should have seen it from the first;
-but many a Catholic has only seen it in a flash at the last.
-There is no way the world is going.  There never was.
-The world is not going anywhere, in the sense of the old
-optimist progressives, or even of the old pessimist reactionaries.
-It is not going to the Brave New World which Mr. Aldous Huxley
-described with detestation, any more than to the New Utopia
-which Mr. H. G. Wells described with delight.
-The world is what the saints and the prophets saw it was;
-it is not merely getting better or merely getting worse;
-there is one thing that the world does; it wobbles.
-Left to itself, it does not get anywhere; though if helped by real
-reformers of the right religion and [[philosophy]], it may get better
-in many respects, and sometimes for considerable periods.
-But in itself it is not a progress; it is not even a process;
-it is the fashion of this world that passeth away.
-Life in itself is not a ladder; it is a see-saw.
-
-Now that is fundamentally what the Church has always said; and for
-about four hundred years has been more and more despised for saying.
-The Church never said that wrongs could not or should not be righted;
-or that commonwealths could not or should not be made happier; or that
-it was not worth while to help them in secular and material things;
-or that it is not a good thing if manners become milder, or comforts
-more common, or cruelties more rare.  But she did say that we must
-not count on the certainty even of comforts becoming more common
-or cruelties more rare; as if this were an inevitable social trend
-towards a sinless humanity; instead of being as it was a mood of man,
-and perhaps a better mood, possibly to be followed by a worse one.
-We must not hate humanity, or despise humanity, or refuse to
-help humanity; but we must not trust humanity; in the sense of trusting
-a trend in human [[Nature|nature]] which cannot turn back to bad things.
-"Put not your trust in princes; nor in any [[Child|child]] of man."
-That is the precise point of this very practical sort of politics.
-Be a Royalist if you like (and there is a vast amount to be said,
-and a vast amount being said, just now, for more personal and
-responsible rule); try a Monarchy if you think it will be better;
-but do not trust a Monarchy, in the sense of expecting that a
-monarch will be anything but a man.  Be a Democrat if you like
-(and I shall always think it the most generous and the most
-fundamentally Christian ideal in politics); express your sense
-of human dignity in manhood suffrage or any other form of equality;
-but put not your trust in manhood suffrage or in any [[Child|child]] of man.
-There is one little defect about Man, the image of God, the [[Wonder|wonder]]
-of the world and the paragon of [[Animals|animals]]; that he is not to be trusted.
-If you identify him with some ideal, which you choose to think is
-his inmost [[Nature|nature]] or his only goal, the day will come when he will
-suddenly seem to you a traitor.
-
-He seems a traitor to-day to all that world of liberal and
-enlightened opinion, which had made up its mind about the way
-the world was going, in the path of progress and of peace;
-the world of Wells and Webb and the Pacifists of [[America]] and the social
-reformers of Cambridge.  Most of them are reduced to muttering,
-like the [[Villain|villain]] in the old [[Melodrama|melodrama]], "a [[Time|time]] will come."
-But it is in a very different tone from that in which they were crying
-quite lately, like the man in the comic [[Song|song]], "Now we shan't be long!"
-The most hopeful of them admit that we shall probably be very long,
-in reversing all that the reaction in Europe has done already.
-If, that is, it is ever reversed; and these people really have nothing
-except a purely mystical [[Faith|faith]] to suggest that it ever will be reversed.
-I am really more hopeful in being what they would call more hopeless;
-for I suspect that pretty nearly everything is eventually reversed.
-But it was exactly because they would not see this, that they
-were startled when their own [[Reform|reform]] or revolution was reversed
-before their own eyes.  The point here, however, is that if there
-is something stable and not subject to reversal, it is not like
-anything that they imagine.  Its habitation is not in the future
-or necessarily in any development of ideas peculiar to the present;
-we are not at the beginning of any endless and expanding [[Dawn|dawn]],
-but only of the ordinary daily dawns each followed by its own darkness;
-and the [[Faith]], as Mr. Belloc said, "is the only beacon in this [[Night|night]],
-if beacon there be."
-
-In the heart of Christendom, in the head of the Church, in the centre
-of the civilisation called Catholic, there and in no movement
-and in no future, is found that crystallisation of commonsense
-and true traditions and rational reforms, for which the modern
-man mistakenly looked to the whole trend of the modern age.
-From this will come the reminders that [[Mercy|mercy]] is being neglected or [[Memory|memory]]
-cast away, and not from the men who happen to make the next batch
-of rulers on this restless and distracted earth.  That is the fact
-that we have all found at last; and that is why I have put it first.
-It is not the first in order, but it is the first in importance,
-of the facts I have discovered after I had discovered the [[Truth|truth]];
-and if I had still been out in the darkness, it would in this dark
-hour have brought me to the door.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LE MIE SEI CONVERSIONI
-II. QUANDO IL MONDO TORNÒ INDIETRO
-
-PER i primi quarant'anni della mia vita, praticamente nessun uomo al mondo,
-e certamente nessun uomo di mondo, ebbe il minimo [[Doubt|dubbio]]
-su ciò che Matthew Arnold chiamava «la direzione in cui il mondo sta andando».
-Un uomo non concordava necessariamente con Matthew Arnold, il quale sembrava
-pensare di dover necessariamente andare nella direzione in cui il mondo andava.
-Alcuni rimpiangevano epoche ormai trascorse; altri ancora erano pronti
-ad andare più lontano di altri, alcuni ad andare più veloci di altri;
-alcuni desideravano quasi appassionatamente andare adagio. Ma tutti concordavano che
-esso stava, nella frase volgare, andando alla grande; e ancora andando forte.
-Era, assai in generale, la domanda di [[Freedom|libertà]] e fraternità
-che fluiva dalla [[French Revolution|Rivoluzione francese]] e dalla Rivoluzione americana,
-tendendo verso un ideale di [[Democracy|democrazia]]. Vi erano invero mescolati
-elementi che logicamente avevano assai poco a che fare l'uno con l'altro.
-Vi era una tendenza al materialismo, al monismo o allo scetticismo,
-che rifiutai molto prima di essere cattolico. Vi era un
-elemento di uguale giustizia, e la dignità di tutti i cittadini, che
-accettai molto tempo dopo essere diventato cattolico; e che accetto tuttora.
-Ma davo per scontato, come tutti gli altri, che il movimento principale
-si muovesse ancora; e presumibilmente avrebbe continuato a muoversi.
-C'erano tre modi in cui esso poteva essere riconosciuto
-da un cattolico, o da un uomo di simpatie sempre più cattoliche.
-(1) Poteva dire che questa era la direzione in cui il mondo stava andando;
-e tanto peggio per il mondo. Poteva dire che il mondo
-sarebbe certamente andato oltre per andare peggio. (2) Poteva dire,
-con considerevole [[Truth|verità]], che nessun simile movimento puramente
-secolare toccava davvero la questione che era puramente spirituale.
-Per prendere un semplice esempio, i più ideali repubblicani non
-riuscivano in qualche modo a uscire dall'umana abitudine di morire; e generalmente
-di chiedersi se morire significasse essere completamente morti.
-La [[Democracy|Democrazia]] non poteva soddisfare tutti i desideri, anche se potesse
-purgarsi abbastanza da soddisfare tutti i desideri democratici.
-(3) Poteva guardare avanti, con una certa giustificazione storica,
-a un [[Time|tempo]] in cui ogni contesa temporale tra la Chiesa e
-la Repubblica sarebbe finita in una reale e ragionevole [[Reconciliation|riconciliazione]]
-delle verità in entrambe; come San Tommaso riconciliò la [[philosophy|filosofia]]
-di Aristotele con la religione di Agostino. Qualcosa di
-simile è stato in gran parte compiuto, in recenti pronunciamenti papali;
-ma il punto qui è che, sia o no che la Chiesa potesse chiudere
-questa particolare contesa con il mondo, ognuno era certo
-che una contesa con la [[Democracy|democrazia]] fosse una contesa con il mondo.
-In breve, un cattolico poteva rifiutare il presente progresso;
-o dire che il suo credo era indipendente dal presente progresso;
-o dire che il suo credo avrebbe trovato un posto per il presente progresso.
-Ma tutti credevano che il progresso del presente sarebbe stato
-il progresso del futuro.
-
-Poi vennero gli sbalorditivi giudizi; gli strani segni dell'[[Apocalypse|Apocalisse]].
-Prima la Grande Guerra; poi il [[Paradox|paradosso]] del fascismo in [[Italy|Italia]]; poi la [[Parody|parodia]]
-del fascismo in [[Germany|Germania]]. Ora queste cose hanno lasciato nelle menti
-di tutti gli uomini pensanti (come direbbe la Rationalist Press Association)
-un enorme ribaltamento o rovesciamento del pensiero, che non ha nulla
-affatto a che fare con il ritenere giusto o sbagliato alcuno di questi movimenti.
-È assai vitale rendersi conto che il cambiamento è qualcosa di più
-fondamentale dell'accordo o del disaccordo con le fazioni in questione.
-Un uomo può ritenere giustificabile la guerra combattuta dagli Alleati, come io la ritenevo e la ritengo;
-può ritenere che il colpo di Mussolini avesse considerevole giustificazione,
-o persino che il colpo di Hitler abbia conseguito molte cose che erano giuste.
-Oppure può ritenere esattamente l'opposto, e considerare l'intera militante
-epoca come una ricaduta nel [[Blood|sangue]] e nella barbarie, dalla prima recluta
-dell'Esercito di Kitchener all'ultimo furfante grondante del [[Blood|sangue]]
-di Dollfuss. Ma c'è un paesaggio mutato sullo sfondo di tutte
-queste figure combattenti; ed è un paesaggio come un terremoto.
-Ciò che un uomo sa, ora, è che l'intera marcia dell'umanità può voltarsi
-e ricalpestare all'indietro le proprie orme; che il progresso può mettersi a progredire,
-o a sentirsi come se progredisse, in una direzione precisamente contraria
-a quella che è stata chiamata progresso per secoli.
-Esso può non solo perdere ma gettar via tutto ciò per cui i suoi padri combatterono e
-che più apprezzarono; può non solo ripristinare ma ripristinare esclusivamente tutto ciò che i suoi
-nonni furono costretti ad abbandonare, o si sentirono incapaci di difendere.
-L'intero mondo si sta muovendo di nuovo; ma si sta muovendo nell'altra direzione.
-
-Oggi questa è la direzione in cui il mondo sta andando, se una
-simile cosa esiste. Ma di fatto una simile cosa non esiste.
-Un cattolico forse avrebbe dovuto vederlo fin dal principio;
-ma molti cattolici l'hanno visto solo in un lampo alla fine.
-Non c'è alcuna direzione in cui il mondo stia andando. Non c'è mai stata.
-Il mondo non sta andando da nessuna parte, nel senso dei vecchi
-progressisti ottimisti, o persino dei vecchi reazionari pessimisti.
-Non sta andando verso il Mondo Nuovo che il signor Aldous Huxley
-descrisse con detestazione, più di quanto vada verso la Nuova Utopia
-che il signor H. G. Wells descrisse con delizia.
-Il mondo è ciò che i santi e i profeti videro che era;
-non sta semplicemente migliorando né semplicemente peggiorando;
-c'è una cosa che il mondo fa; oscilla.
-Lasciato a se stesso, non arriva da nessuna parte; sebbene, se aiutato da veri
-riformatori della giusta religione e [[philosophy|filosofia]], possa migliorare
-sotto molti aspetti, e talvolta per periodi considerevoli.
-Ma in sé non è un progresso; non è nemmeno un processo;
-è la foggia di questo mondo che passa.
-La vita in sé non è una scala; è un'altalena.
-
-Ora questo è fondamentalmente ciò che la Chiesa ha sempre detto; e per
-circa quattrocento anni è stata sempre più disprezzata per averlo detto.
-La Chiesa non ha mai detto che i torti non potessero o non dovessero essere raddrizzati;
-o che gli Stati non potessero o non dovessero essere resi più felici; o che
-non valesse la pena aiutarli nelle cose secolari e materiali;
-o che non sia una buona cosa se i costumi divengono più miti, o le comodità
-più comuni, o le crudeltà più rare. Ma essa disse che non dobbiamo
-contare sulla certezza che persino le comodità divengano più comuni
-o le crudeltà più rare; come se ciò fosse un'inevitabile tendenza sociale
-verso un'umanità senza peccato; invece di essere, come era, uno stato d'animo dell'uomo,
-e forse uno stato d'animo migliore, possibilmente seguito da uno peggiore.
-Non dobbiamo odiare l'umanità, o disprezzare l'umanità, o rifiutarci di
-aiutare l'umanità; ma non dobbiamo fidarci dell'umanità; nel senso di fidarci
-di una tendenza nella [[Nature|natura]] umana che non possa tornare indietro verso cose cattive.
-«Non riponete la vostra fiducia nei principi; né in alcun [[Child|figlio]] d'uomo».
-Questo è il punto preciso di questo genere assai pratico di politica.
-Sii pure realista, se ti piace (e c'è una vasta quantità di cose da dire,
-e una vasta quantità di cose che si stanno dicendo, proprio ora, per un governo più personale e
-responsabile); prova una Monarchia se pensi che sarà migliore;
-ma non fidarti di una Monarchia, nel senso di aspettarti che un
-monarca sarà qualcosa di diverso da un uomo. Sii pure democratico, se ti piace
-(e penserò sempre che sia l'ideale più generoso e più
-fondamentalmente cristiano in politica); esprimi il tuo senso
-della dignità umana nel suffragio universale maschile o in qualsiasi altra forma di uguaglianza;
-ma non riporre la tua fiducia nel suffragio universale maschile o in alcun [[Child|figlio]] d'uomo.
-C'è un piccolo difetto nell'Uomo, l'immagine di Dio, la [[Wonder|meraviglia]]
-del mondo e il paragone degli [[Animals|animali]]; che non ci si può fidare di lui.
-Se lo identifichi con qualche ideale, che tu scegli di ritenere
-la sua più intima [[Nature|natura]] o il suo unico fine, verrà il giorno in cui egli
-d'improvviso ti apparirà un traditore.
-
-Egli appare oggi un traditore a tutto quel mondo di opinione liberale e
-illuminata, che si era formato un'idea sulla direzione in cui
-il mondo stava andando, sul sentiero del progresso e della pace;
-il mondo di Wells e Webb e dei Pacifisti d'[[America]] e dei riformatori sociali
-di Cambridge. La maggior parte di loro è ridotta a borbottare,
-come il [[Villain|cattivo]] nel vecchio [[Melodrama|melodramma]], «verrà un [[Time|tempo]]».
-Ma è in un tono assai diverso da quello con cui gridavano
-proprio di recente, come l'uomo nella [[Song|canzone]] comica, «Ora non ci vorrà molto!».
-I più speranzosi tra loro ammettono che probabilmente ci vorrà moltissimo,
-a rovesciare tutto ciò che la reazione in Europa ha già fatto.
-Se, cioè, sarà mai rovesciato; e questa gente non ha davvero nulla
-eccetto una [[Faith|fede]] puramente mistica a suggerire che sarà mai rovesciato.
-Io sono davvero più speranzoso nell'essere ciò che loro chiamerebbero più disperato;
-poiché sospetto che pressoché ogni cosa venga alla fine rovesciata.
-Ma fu esattamente perché non volevano vedere questo, che essi
-rimasero sbalorditi quando la loro stessa [[Reform|riforma]] o rivoluzione fu rovesciata
-davanti ai loro stessi occhi. Il punto qui, tuttavia, è che se c'è
-qualcosa di stabile e non soggetto a rovesciamento, esso non è affatto simile a
-nulla di ciò che essi immaginano. La sua dimora non è nel futuro
-o necessariamente in alcuno sviluppo di idee peculiari del presente;
-non siamo all'inizio di alcuna sconfinata e dilatantesi [[Dawn|alba]],
-ma solo delle ordinarie albe quotidiane, ciascuna seguita dalla propria oscurità;
-e la [[Faith|Fede]], come disse il signor Belloc, «è l'unico faro in questa [[Night|notte]],
-se faro vi è».
-
-Nel cuore della cristianità, nel capo della Chiesa, nel centro
-della civiltà chiamata cattolica, lì e in nessun movimento
-e in nessun futuro, si trova quella cristallizzazione del buonsenso
-e delle vere tradizioni e delle riforme razionali, per cui l'uomo moderno
-erroneamente guardava all'intera tendenza dell'età moderna.
-Da questo verranno i richiami che la [[Mercy|misericordia]] è trascurata o la [[Memory|memoria]]
-gettata via, e non dagli uomini che si trovano a comporre la prossima infornata
-di governanti su questa irrequieta e distratta terra. Questo è il fatto
-che tutti abbiamo trovato alla fine; ed è per questo che l'ho messo per primo.
-Non è il primo in ordine, ma è il primo in importanza,
-dei fatti che ho scoperto dopo aver scoperto la [[Truth|verità]];
-e se fossi ancora là fuori nell'oscurità, in questa buia
-ora mi avrebbe condotto alla porta.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_07_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
-
-
-MY SIX CONVERSIONS
-
-IV.  THE [[Prayer|PRAYER]]-BOOK PROBLEM
-
-ONE of the events which would have made me a Catholic, if I had not
-already been a Catholic, was the curious affair of the New [[Prayer]]-Book.
-It revealed to me a reality I had not hitherto realised.
-There really was a Church of England; or rather there really was an
-England which largely imagined that it possessed and controlled a Church.
-But this Church was not the Church I thought I had belonged to;
-the keen, cultivated and sincere group of men who claimed to be Catholic.
-It was a much vaster and vaguer background of men; who did not
-believe in anything in particular, but who claimed to be Protestant.
-But the vital point was that, whether they claimed to be Protestants
-or clamorously bragged of being atheists, they all seemed to have this
-fixed idea; that they owned the Church of England; and could turn
-it into a Mormon temple if they liked.  I could not, in any case,
-have gone on being owned in that way.
-
-But in order to understand all that was involved, it is
-necessary to say a word about the Anglican [[Prayer]]-Book itself.
-The Book of Common [[Prayer]] is the masterpiece of Protestantism.
-It is more so than the work of [[Milton]].  It is the one positive
-possession and attraction; the one magnet and talisman
-for people even outside the Anglican Church, as are the great
-Gothic cathedrals for people outside the [[Catholic Church]].
-I can speak, I think, for many other converts, when I say
-that the only thing that can produce any sort of [[Nostalgia|nostalgia]]
-or romantic regret, any [[Shadow|shadow]] of homesickness in one who has
-in [[Truth|truth]] come [[Home|home]], is the rhythm of [[Cranmer]]'s prose.
-All the other supposed superiorities of any sort of Protestantism
-are quite fictitious.  Tell a Catholic [[convert]] that he has
-lost his liberty, and he will laugh.  A distinguished literary
-lady wrote recently that I had entered the most restricted
-of all Christian communions, and I was monstrously amused.
-A Catholic has fifty times more feeling of being free than a man
-caught in the net of the nervous compromises of Anglicanism;
-just as a man considering all England feels more free
-than a man obeying the Whips of one particular party.
-He has the range of two thousand years full of twelve-hundred
-thousand controversies, thrashed out by thinker against thinker,
-school against school, guild against guild, nation against nation,
-with no limit except the fundamental logical fact that the things
-were worth arguing, because they could be ultimately solved
-and settled.  As for Reason, our monopoly is practically
-admitted in the modern world.  Except for one or two dingy old
-atheists in Fleet Street (for whom I have great sympathy),
-nothing except Rome now defends the reliability of Reason.
-Much stronger is the appeal of unreason; or of that [[Beauty|beauty]]
-which perhaps is beyond reason.  The English [[litany|Litany]],
-the music and the [[Magic|magic]] of the great sixteenth-century style--
-that does call a man backwards like the [[Song|song]] of the sirens;
-as Virgil and the poets might have called to a Pagan who had
-entered the Early Church.  Only, being a Romanist and therefore
-a Rationalist, he does not go back; he naturally does not forget
-everything else, because his opponents four hundred years ago
-had a stylistic knack which they have now entirely lost.
-For the Anglicans cannot do the trick now, any more than
-anybody else.  Modern prayers, and theirs perhaps more than any,
-seem to be perfectly incapable of avoiding journalese.
-And the [[Prayer]]-Book prose seems to follow them like a derisive echo.
-Lambeth or Convocation will publish a [[Prayer|prayer]] saying something like,
-"Guide us, 0 Lord, to the solution of our social problems";
-and the great organ of old will groan in the background.
-... "All who are desolate and oppressed."  The first Anglicans
-asked for peace and happiness, [[Truth|truth]] and justice; but nothing
-can stop the latest Anglicans, and many others, from the horrid
-habit of asking for improvement in international relations.
-
-But why has the old Protestant [[Prayer]]-Book a power
-like that of great poetry upon the spirit and the heart?
-The reason is much deeper than the mere avoidance of journalese.
-It might be put in a sentence; it has style; it has tradition;
-it has religion; it was written by apostate Catholics.
-It is strong, not in so far as it is the first Protestant book,
-but in so far as it was the last Catholic book.
-As it happens, this can be proved in the most practical
-manner from the actual details of the prose.  The most
-moving passages in the old Anglican [[Prayer]]-Book are exactly
-those that are least like the atmosphere of the Anglicans.
-They are moving, or indeed thrilling, precisely because they
-say the things which Protestants have long left off saying;
-and which only Catholics still say.  Anybody who knows anything
-of literature knows when a style lifts itself to its loftiest efforts;
-and in these cases it is always to say strongly what we still
-endeavour to say, however weakly; but which nobody else ever
-endeavours to say at all.  Let anyone recall for himself
-the very finest passages in the Book of Common [[Prayer]],
-and he will soon see that they are concerned specially with
-spiritual thoughts and themes that now seem strange and terrible;
-but anyhow, the reverse of common; " ... in the hour of [[Death|death]]
-and in the day of Judgment."  Who talks about the hour of [[Death|death]]?
-Who talks about the Day of Judgment?  Only a litter of shabby
-little priests from the Italian Mission.  Not certainly
-the popular and eloquent Dean of Bumblebury, who is so Broad
-and yet so High.  Certainly not the charming and fashionable
-Vicar of St. Ethelbald's, who is so High and yet so Broad.
-Still less the clergyman helping in the same parish, who is
-frankly Low.  It is the same on every page, where that spirit
-inspires that style.  "Suffer us not, for any pains of [[Death|death]],
-to fall from Thee."... "Ah, that's what gets you" (or words
-to that effect), as Lord Peter Wimsey truly said of this phrase,
-in the [[Detective|detective]] tale of Miss Dorothy Sayers; who, like Lord Peter,
-knows a good deal about other things besides poisons;
-and understands her [[Hero|hero]]'s historical traditions very [[Well|well]].
-But did you ever hear the curate fresh from the cricket-field,
-or the vicar smiling under the [[Union]] Jacks of the
-Conservative Rally, dwell upon that penultimate peril;
-or the danger of falling from God amid the pains of [[Death|death]]?
-Very morbid.  Just like those Dago devotional books.
-So very Roman.
-
-I do not think the old Anglo-Catholics who were my friends,
-or the many who are still my friends, would deny that there
-has been a modern vulgarisation of religion, largely through
-the spread of this official optimism.  But though they themselves
-are often quite free from the vulgar form of it, they could
-hardly deny that it is largely official and very widely spread.
-Yet it came as a great shock to me to discover how official
-and widespread it was.  I had exaggerated the importance
-of an intelligent minority, because it was important to me.
-But the public and the world without were given up to Arian
-and Pelagian demagogues like Dean Inge and Dr. Barnes;
-and a sort of negative Protestantism could still sweep the field.
-It swept the whole field in the matter of the [[Prayer]]-Book.
-The proposal of an amended [[Prayer]]-Book, or rather two
-alternative [[Prayer]]-Books, was not decided for the Church
-by the Churchy or by the communicants; or by the congregation.
-It was settled by a mob of politicians, atheists, agnostics,
-dissenters, Parsees; avowed enemies of that Church or of
-any Church, who happened to have M.P. after their names.
-If the whole thing had any historic motto, or deserved
-anything higher than a headline, what was written across all
-that Anglican story was not Ecclesia Anglicana, or Via Media,
-or anything of the sort; it was Cujus Regio Ejus Religio;
-or rendering unto Caesar the things that are God's.
-
-I add one incident to contrast Style, among men who had
-been Catholics for fourteen-hundred years, with that among
-men who have been Protestants for four-hundred years.
-A Protestant organisation presented all the atheists, etc., who had
-voted Protestant, with a big black [[Bible]] or [[Prayer]]-Book, or both,
-decorated outside with a picture of the Houses of Parliament.
-In hoc signo vinces.  It would be very idolatrous to put
-a [[Cross|cross]] or crucifix outside a book; but a picture of Parliament
-where the Party Funds are kept, and the peerages sold--.
-That is the temple where dwell the gods of Israel... We know
-the world progresses, and [[Education|education]] is certainly extended,
-and there are fewer illiterates; and I suppose it is all right.
-But those four strong centuries of Protestant England begin
-with a Book of Common-[[Prayer]], in which, even amid the treachery
-and panic of [[Cranmer]], and in the very moment of men rending
-themselves from Rome and Christendom, they could lift in
-such [[Sublime|sublime]] language so authentic a cry of Christian men:
-"By Thy precious [[Death|death]] and burial; by Thy glorious [[Resurrection|resurrection]]
-and ascension; and by the coming of the Holy [[Ghost]]."
-Those centuries begin with that speech of men still by instinct
-and habit of mind Catholic; and the Protestant civilization
-evolves and the [[Education|education]] spreads, and widens in wealth
-and power and towns and colleges; until at last the ripe
-and final fruit of its culture is produced, in the form of a
-fat black book of a cushiony sort, with a real photo-view,
-a view of one of the Sights, nicely tucked in to its neat black
-padded binding or frame... A Present from Ramsgate... anyhow,
-four-hundred years march from Rome.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LE MIE SEI CONVERSIONI
-
-IV. IL PROBLEMA DEL [[Prayer|PRAYER]]-BOOK
-
-Uno degli eventi che mi avrebbero fatto cattolico, se non fossi già stato cattolico, fu la curiosa vicenda del nuovo [[Prayer]]-Book. Mi rivelò una realtà che fino ad allora non avevo colto. Esisteva davvero una Chiesa d'Inghilterra; o meglio, esisteva davvero un'Inghilterra che in larga misura immaginava di possedere e controllare una Chiesa. Ma questa Chiesa non era la Chiesa alla quale credevo di essere appartenuto; l'acuto, colto e sincero gruppo di uomini che rivendicavano di essere cattolici. Era uno sfondo di uomini assai più vasto e più vago; che non credevano in nulla di particolare, ma che rivendicavano di essere protestanti. Ma il punto vitale era che, sia che rivendicassero di essere protestanti, sia che si vantassero rumorosamente di essere atei, sembravano avere tutti questa idea fissa: che possedevano la Chiesa d'Inghilterra; e potevano trasformarla in un tempio mormone, se ne avevano voglia. Non avrei potuto, in ogni caso, continuare a essere posseduto a quel modo.
-
-Ma per comprendere tutto ciò che era in gioco, è necessario dire una parola sullo stesso [[Prayer]]-Book anglicano. Il Book of Common [[Prayer]] è il capolavoro del protestantesimo. Lo è più ancora dell'opera di [[Milton|Milton]]. È l'unico possesso e l'unica attrattiva positiva; l'unica calamita e talismano per gente perfino esterna alla Chiesa anglicana, come lo sono le grandi cattedrali gotiche per gente esterna alla [[Catholic Church|Chiesa Cattolica]]. Posso parlare, credo, per molti altri convertiti, quando dico che l'unica cosa capace di produrre una qualche sorta di [[Nostalgia|nostalgia]] o di rimpianto romantico, una qualsiasi [[Shadow|ombra]] di struggimento in chi è in [[Truth|verità]] tornato a [[Home|casa]], è il ritmo della prosa di [[Cranmer]]. Tutte le altre supposte superiorità di qualunque forma di protestantesimo sono del tutto fittizie. Dite a un [[convert|convertito]] cattolico che ha perduto la sua libertà, e riderà. Una distinta signora di lettere ha scritto di recente che io ero entrato nella più ristretta di tutte le comunioni cristiane, e me ne sono divertito mostruosamente. Un cattolico ha cinquanta volte più la sensazione di essere libero di un uomo preso nella rete dei nervosi compromessi dell'anglicanesimo; proprio come un uomo che considera tutta l'Inghilterra si sente più libero di un uomo che obbedisce ai Whip di un particolare partito. Egli ha a disposizione la portata di duemila anni pieni di un milione e duecentomila controversie, sviscerate da pensatore contro pensatore, scuola contro scuola, corporazione contro corporazione, nazione contro nazione, senza altro limite che il fondamentale fatto logico che quelle cose valeva la pena di discuterle, perché potevano in ultimo essere risolte e definite. Quanto alla Ragione, il nostro monopolio è praticamente ammesso nel mondo moderno. Salvo uno o due squallidi vecchi atei di Fleet Street (per i quali nutro grande simpatia), nulla tranne Roma difende ormai l'affidabilità della Ragione. Assai più forte è il richiamo dell'irragionevolezza; o di quella [[Beauty|bellezza]] che forse è oltre la ragione. La [[litany|Litania]] inglese, la musica e la [[Magic|magia]] del grande stile cinquecentesco — ecco ciò che richiama un uomo all'indietro come il [[Song|canto]] delle sirene; così come Virgilio e i poeti avrebbero potuto richiamare un pagano entrato nella Chiesa primitiva. Solo che, essendo un romanista e perciò un razionalista, egli non torna indietro; naturalmente non dimentica tutto il resto, per il fatto che i suoi avversari quattrocento anni fa possedevano un artificio stilistico che ora hanno interamente perduto. Poiché gli anglicani non sanno più fare il trucco, non più di chiunque altro. Le preghiere moderne, e le loro forse più di ogni altra, paiono perfettamente incapaci di evitare il gergo giornalistico. E la prosa del [[Prayer]]-Book pare seguirle come un'eco derisoria. Lambeth o il Convocation pubblicherà una [[Prayer|preghiera]] che dice qualcosa come: «Guidaci, o Signore, alla soluzione dei nostri problemi sociali»; e il grande organo di un tempo gemerà sullo sfondo. ... «Tutti coloro che sono desolati e oppressi». I primi anglicani chiedevano pace e felicità, [[Truth|verità]] e giustizia; ma nulla può impedire agli ultimi anglicani, e a molti altri, l'orrida abitudine di chiedere un miglioramento nelle relazioni internazionali.
-
-Ma perché il vecchio [[Prayer]]-Book protestante possiede un potere pari a quello della grande poesia sullo spirito e sul cuore? La ragione è assai più profonda del mero evitare il gergo giornalistico. La si potrebbe esprimere in una frase; ha stile; ha tradizione; ha religione; fu scritto da cattolici apostati. È forte, non in quanto è il primo libro protestante, ma in quanto fu l'ultimo libro cattolico. Si dà il caso che ciò si possa provare nel modo più pratico a partire dai dettagli concreti della prosa. I passi più commoventi del vecchio [[Prayer]]-Book anglicano sono esattamente quelli meno simili all'atmosfera degli anglicani. Sono commoventi, anzi entusiasmanti, proprio perché dicono le cose che i protestanti hanno da tempo smesso di dire; e che soltanto i cattolici dicono ancora. Chiunque conosca qualcosa di letteratura sa quando uno stile si solleva ai suoi sforzi più alti; e in questi casi è sempre per dire con forza ciò che noi ancora ci sforziamo di dire, per quanto debolmente; ma che nessun altro si sforza mai di dire affatto. Chiunque richiami a sé i passi più belli in assoluto del Book of Common [[Prayer]], vedrà presto che riguardano in particolare pensieri e temi spirituali che ora sembrano strani e terribili; ma comunque, l'opposto di comuni; «... nell'ora della [[Death|morte]] e nel giorno del Giudizio». Chi parla dell'ora della [[Death|morte]]? Chi parla del Giorno del Giudizio? Solo una nidiata di poveri pretucoli della Missione italiana. Non certo il popolare ed eloquente Decano di Bumblebury, che è tanto Broad e insieme tanto High. Certamente non l'affascinante e alla moda Vicario di St. Ethelbald, che è tanto High e insieme tanto Broad. Ancor meno il chierico che aiuta nella stessa parrocchia, che è francamente Low. È lo stesso in ogni pagina in cui quello spirito ispira quello stile. «Non permettere che, per alcun dolore della [[Death|morte]], noi cadiamo lontano da Te». ... «Ah, ecco ciò che ti afferra» (o parole a quell'effetto), come disse giustamente Lord Peter Wimsey di questa frase, nel racconto [[Detective|poliziesco]] della signorina Dorothy Sayers; la quale, come Lord Peter, sa parecchie cose oltre che di veleni; e comprende assai [[Well|bene]] le tradizioni storiche del suo [[Hero|eroe]]. Ma avete mai udito il curato fresco di campo da cricket, o il vicario sorridente sotto le [[Union|Union Jack]] del Comizio conservatore, indugiare su quel penultimo pericolo; ovvero sul rischio di cadere lontano da Dio tra i dolori della [[Death|morte]]? Molto morboso. Proprio come quei libri devozionali da Dago. Così tanto Romano.
-
-Non credo che i vecchi anglo-cattolici che erano miei amici, o i molti che sono ancora miei amici, negherebbero che vi è stata una moderna volgarizzazione della religione, in gran parte attraverso la diffusione di questo ottimismo ufficiale. Ma per quanto essi stessi ne siano spesso del tutto immuni nella sua forma volgare, difficilmente potrebbero negare che esso è in larga misura ufficiale e assai largamente diffuso. Eppure fu per me un grande shock scoprire quanto fosse ufficiale e diffuso. Io avevo esagerato l'importanza di una minoranza intelligente, perché essa era importante per me. Ma il pubblico e il mondo là fuori erano in balìa di demagoghi ariani e pelagiani come il Decano Inge e il Dr. Barnes; e una sorta di protestantesimo negativo poteva ancora spazzare il campo. Spazzò l'intero campo nella questione del [[Prayer]]-Book. La proposta di un [[Prayer]]-Book emendato, o piuttosto di due [[Prayer]]-Book alternativi, non fu decisa per la Chiesa dalla Chiesa, né dai comunicanti; né dalla congregazione. Fu stabilita da una folla di politici, atei, agnostici, dissidenti, Parsi; nemici dichiarati di quella Chiesa o di qualunque Chiesa, che si trovavano ad avere le lettere M.P. dopo il proprio nome. Se tutta la faccenda aveva un qualche motto storico, o meritava qualcosa di più alto di un titolo di giornale, ciò che era scritto attraverso tutta quella vicenda anglicana non era Ecclesia Anglicana, né Via Media, né alcunché del genere; era Cujus Regio Ejus Religio; ovvero rendere a Cesare le cose che sono di Dio.
-
-Aggiungo un episodio per contrapporre lo Stile, tra uomini che erano stati cattolici per millequattrocento anni, a quello tra uomini che sono stati protestanti per quattrocento anni. Un'organizzazione protestante regalò a tutti gli atei, ecc., che avevano votato protestante, una grande [[Bible|Bibbia]] nera o un [[Prayer]]-Book, o entrambi, decorati all'esterno con un'immagine delle Houses of Parliament. In hoc signo vinces. Sarebbe cosa molto idolatra mettere una [[Cross|croce]] o un crocifisso all'esterno di un libro; ma un'immagine del Parlamento, dove si custodiscono i Fondi di Partito, e si vendono i titoli nobiliari —. Ecco il tempio dove dimorano gli dèi d'Israele... Sappiamo che il mondo progredisce, e l'[[Education|istruzione]] è certamente più estesa, e vi sono meno analfabeti; e suppongo vada tutto bene. Ma quei quattro forti secoli d'Inghilterra protestante cominciano con un Book of Common-[[Prayer]], nel quale, perfino tra il tradimento e il panico di [[Cranmer]], e nel momento stesso in cui gli uomini si strappavano da Roma e dalla Cristianità, essi seppero levare in un linguaggio così [[Sublime|sublime]] un grido tanto autentico di uomini cristiani: «Per la Tua preziosa [[Death|morte]] e sepoltura; per la Tua gloriosa [[Resurrection|resurrezione]] e ascensione; e per la venuta dello [[Ghost|Spirito]] Santo». Quei secoli cominciano con quel discorso di uomini ancora per istinto e per abito mentale cattolici; e la civiltà protestante si evolve e l'[[Education|istruzione]] si diffonde, e si allarga in ricchezza e potere e città e collegi; finché infine il frutto maturo e ultimo della sua cultura viene prodotto, nella forma di un grasso libro nero di tipo imbottito, con una vera veduta fotografica, la veduta di una delle Attrazioni, ben infilata nella sua bella rilegatura o cornice nera imbottita... Un Ricordo da Ramsgate... comunque, quattrocento anni di marcia lontano da Roma.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_08_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
-
-
-MY SIX CONVERSIONS
-V. THE COLLAPSE OF MATERIALISM
-
-SOME little [[Time|time]] ago Dr. David Forsyth delivered to the Section
-of Psychiatry (Royal Society of Medicine) an address which
-was certainly a psychological curiosity; of considerable
-interest to psychologists, pathologists, alienists and all
-other students of the mental breakdown in the modern world.
-It was a perfect and compact illustration of the very common
-combination of a superiority complex with arrested development,
-and inhibitions on almost all forms of intelligent curiosity.
-But I mention it here, not because of its narrowness, but of its
-direct negation of all that is really new in scientific discovery.
-It is no news to us that a materialist can be bigoted;
-but we do not always come upon so startling an example
-of his being antiquated.
-
-It is not worth while to take any particular notice of all the diseased
-stuff about sadism and masochism being the sources of religion.
-We may note in passing, with a rather dreary amusement,
-that this sort of writer can never sustain a connected train
-of thought; and that he gets even these dismal technical
-terms hopelessly entangled; for he declares that [[Islam]] stands
-for sadism and Christendom for masochism, having just argued
-that the Christian persecution of heretics was typically sadistic.
-But all this judgment of great human events, good or bad,
-in terms of some obscure streak of lunacy, is itself an amusement
-for lunatics.  It is exactly as if a man were to argue:
-"There is a special sort of madman who thinks he is made
-of glass; I will call this disease Vitreosity; and I
-will then show that anybody anywhere, who for any reason
-had anything to do with glass was a victim of vitreosity.
-The [[Desert|desert]] merchants who were said to have invented glass,
-the medieval craftsmen who so successfully coloured glass,
-the early astronomers who first fitted telescopes with lenses
-of glass, all showed Vitreosity in various stages of that disease;
-it is akin to subconscious libido because Peeping Tom
-looked through a [[Window|window]], which may have been made of glass;
-it is the root impulse of alcoholism, because people drink
-out of glasses; and Prince Albert and [[Queen]] Victoria were
-obviously stricken with raving and uncontrolled Vitreosity;
-because they built the Crystal Palace."  The slight defect
-in this theory (which is quite as scientific as Dr. Forsyth's)
-is that in order to theorise, it is sometimes useful to think.
-It is obvious that all these people had a thousand other
-reasons for doing all they did, besides being mad on glass;
-and it is equally obvious that the great religions, true or false,
-had a thousand reasons for doing all they did, without being
-mad on masochism or sadism.
-
-Only, as I say, we may [[Well|well]] emerge from this slime and consider the real
-case of Dr. Forsyth, and his strange ignorance of the very elements
-of modern thought, and even rather specially of modern science.
-Now on the larger matter, his thesis was essentially this; that science
-and religion, so far from being reconciled or even reconcilable,
-were divided by the vital contradiction that science belongs
-to what he called "reality-thinking," or we call objective [[Truth|truth]];
-while religion belonged to what he called "pleasure-thinking,"
-or what most people call [[Imagination|imagination]].  I need not mention the hundred
-obvious objections to this crude division; as, for instance,
-that religion has not confined itself to imagining pleasurable things,
-but has often been blamed by people like Dr. Forsyth for imagining
-unpleasant ones; or that it is arguing in a circle to prove
-at the end that religion is inconsistent with science merely
-by assuming at the beginning that it is inconsistent with [[Truth|truth]].
-I am only concerned here to insist, not merely that the view is
-the reverse of the [[Truth|truth]], but that the view is actually the very
-reverse of the modern view.
-
-If there are two staring and outstanding facts about science
-and religion at this particular moment, they are these.
-First, that science is claiming much less than it did to show
-us a solid and objective reality.  And second, that religion
-is claiming much more than it did (at least for centuries past)
-that its miracles and marvels of mystical experience can
-be proved to exist as a solid and objective reality.
-On the one side, the Atom has entirely lost the objective
-solidity it had for the nineteenth-century materialists.
-On the other side, the Ascension is accepted as a case of
-Levitation by many who would not accept it as an Ascension.
-On the one hand, the science of physics has almost become
-a science of metaphysics.  For it is not merely, as is often said,
-that the Atom has become an abstract mathematical formula; it is
-almost as true to say that it has become a mere algebraic symbol.
-For the new physicists tell us frankly that what they describe
-is not the objective reality of the thing they observe;
-that they are not examining an object as the nineteenth
-century materialists thought they were examining an object.
-Some of them tell us that they are only observing certain
-disturbances or distortions, actually created by their own attempt
-to observe.  Eddington is more agnostic about the material
-world than Huxley ever was about the spiritual world.
-A very unfortunate moment at which to say that science deals
-directly with reality and objective [[Truth|truth]].
-
-On the other hand, on the other plane, the plane of historical
-and practical argument, it is the very moment at which
-religion really is appealing to reality and objective [[Truth|truth]].
-The Church throws down the unanswered challenge of Lourdes;
-the Spiritualists positively claim to prove their new religion
-by experiments, like a thesis in chemistry or electricity;
-and a vast number of independent intellectuals, who are neither
-Catholics nor Spiritualists, have begun to show an entirely
-new interest in the logical, or even the legal case for some
-of the great historic miracles.  For instance, there have been
-two or three books following on the line of the brilliant
-but strictly scientific book called Who Moved The Stone;
-and the tendency of the most detached writers is to admit more
-and more that the evidence for such events has been underrated.
-The youngest school of Catholic apologists, such as Father Knox
-and Mr. Christopher Hollis and Mr. Arnold Lunn, attack almost
-entirely with the weapons of proof and practical evidence;
-and it is no longer pretended that they always have the worst of it.
-A very unfortunate moment at which to say that religion deals
-only with pleasant fancies and imaginations.
-
-Dr. Forsyth's antiquated style of thought interests me here, however,
-only as drawing attention to the familiar modern facts of which
-he seems never to have heard.  And most relevant here is the fact
-of that extraordinary scientific change in the attitude to facts.
-It has its place in this series, because it is one of the great
-changes which had not developed in any full and public fashion,
-even by the [[Time|time]] that I finally sought admission to the Church;
-and, at the much earlier [[Time|time]] when I had already begun to think
-about it, all the popular science that a layman heard of was dominated
-by the now dead materialism of Haeckel.  It is, therefore, true to say
-that this huge revolution in the [[philosophy]] of physical science
-was one of the world events which came after my [[Conversion|conversion]];
-but would have hugely hastened it, if it had come before my [[Conversion|conversion]].
-Only the exact [[Nature|nature]] of the effect, of this scientific revolution
-upon personal religion, is often misstated and widely misunderstood.
-
-It is not, as some seem to fancy, that we think there is
-anything particularly Christian about electrons, any more
-than there is anything essentially atheistic about atoms.
-It is not that we propose to base our [[philosophy]] on their physics;
-any more than to base our ancient theology on their most
-recent biology.  We are not "going to the country" with a set
-of slogans or party-cries, like Electrons for the Elect,
-or For Priest and Proton.  The catastrophic importance for Catholics,
-of this collapse of materialism, is simply the fact that
-the most confident cosmic statements of science can collapse.
-If fifty years hence the electron is as entirely exploded
-as the atom, it will not affect us; for we have never founded
-our [[philosophy]] on the electron any more than on the atom.
-But the materialists did found their [[philosophy]] on the atom.
-And it is quite likely that some spiritual fad or other
-is at this moment being founded on the electron.
-To a man of my generation, the importance of the change does
-not consist in its destroying the dogma (which was after all
-a detail, though a very dogmatic dogma), "Matter consists
-of indivisible atoms."  But it does consist in its destroying
-the accepted, universal and proclaimed and popularised dogma:
-"You must accept the conclusions of science."
-Scores and hundreds of times I have heard, through my youth
-and early manhood, the repetition of that ultimatum:
-"You must accept the conclusions of science."  And it is that notion
-or experience that has now been concluded; or rather excluded.
-Whatever else is questionable, there is henceforth no
-question of anybody "accepting" the conclusions of science.
-The new scientists themselves do not ask us to accept
-the conclusions of science.  The new scientists themselves
-do not accept the conclusions of the new science.
-To do them justice, they deny vigorously that science
-has concluded; or that it has, in that sense, any conclusion.
-The finest intellects among them repeat, again and again,
-that science is inconclusive.
-
-Which is all very [[Well|well]], and all very wise, and all very true
-to the gradual adjustment of truths on their own plane.
-But meanwhile-there is such a thing as human life.  The Victorian
-agnostics waited hopefully for science to give them a working
-certainty about life.  The new physicist philosophers are in no
-way different, except that they wait hopelessly instead of hopefully.
-For they know very [[Well|well]] the real meaning of relativity; that their own
-views may pass from being relatively right to being relatively wrong.
-And meanwhile, as I say, there is such a thing as wanting a working
-rule as to whether we should pay our debts or murder our enemies.
-We would not wait for a nineteenth-century enlightenment that might come.
-We certainly will not wait for a twentieth-century enlightenment
-that cannot come.  If we want a guide to life, it seems that we
-must look elsewhere.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LE MIE SEI CONVERSIONI
-V. IL CROLLO DEL MATERIALISMO
-
-Qualche [[Time|tempo]] fa il Dr. David Forsyth tenne alla Sezione di Psichiatria (Royal Society of Medicine) un discorso che era certamente una curiosità psicologica; di notevole interesse per psicologi, patologi, alienisti e ogni altro studioso del crollo mentale nel mondo moderno. Era una perfetta e compatta illustrazione della assai comune combinazione di un complesso di superiorità con uno sviluppo arrestato, e con inibizioni su quasi tutte le forme di intelligente curiosità. Ma lo menziono qui, non per la sua ristrettezza, bensì per la sua diretta negazione di tutto ciò che è realmente nuovo nella scoperta scientifica. Non è una novità per noi che un materialista possa essere bigotto; ma non sempre ci imbattiamo in un esempio così sorprendente del suo essere antiquato.
-
-Non vale la pena di prestare particolare attenzione a tutta la roba malata sul sadismo e il masochismo come fonti della religione. Possiamo notare di sfuggita, con un divertimento piuttosto tetro, che questo genere di scrittore non riesce mai a sostenere una connessa catena di pensiero; e che imbroglia irrimediabilmente perfino questi lugubri termini tecnici; poiché dichiara che l'[[Islam]] sta per il sadismo e la Cristianità per il masochismo, avendo appena sostenuto che la persecuzione cristiana degli eretici era tipicamente sadica. Ma tutto questo giudicare i grandi eventi umani, buoni o cattivi, in termini di qualche oscura vena di follia, è esso stesso un divertimento per pazzi. È esattamente come se un uomo argomentasse: «Esiste una particolare specie di pazzo che crede di essere fatto di vetro; chiamerò questa malattia Vitreosità; e mostrerò poi che chiunque, in qualunque luogo, per qualsiasi ragione abbia avuto a che fare con il vetro era vittima della vitreosità. I mercanti del [[Desert|deserto]] che si dice abbiano inventato il vetro, gli artigiani medievali che con tanto successo colorarono il vetro, i primi astronomi che per primi dotarono i telescopi di lenti di vetro, tutti mostrarono la Vitreosità nei vari stadi di quella malattia; essa è affine alla libido subconscia perché Peeping Tom guardò attraverso una [[Window|finestra]], che può essere stata fatta di vetro; è l'impulso radicale dell'alcolismo, perché la gente beve da bicchieri di vetro; e il Principe Alberto e la [[Queen|Regina]] Vittoria erano evidentemente colpiti da una delirante e incontrollata Vitreosità; perché costruirono il Crystal Palace». Il lieve difetto di questa teoria (che è del tutto scientifica quanto quella del Dr. Forsyth) è che, per teorizzare, talvolta è utile pensare. È ovvio che tutte queste persone avevano un migliaio di altre ragioni per fare tutto ciò che fecero, oltre a essere pazze per il vetro; ed è del pari ovvio che le grandi religioni, vere o false, avevano un migliaio di ragioni per fare tutto ciò che fecero, senza essere pazze per il masochismo o il sadismo.
-
-Solo che, come dico, possiamo [[Well|bene]] emergere da questo fango e considerare il caso reale del Dr. Forsyth, e la sua strana ignoranza degli stessi elementi del pensiero moderno, e perfino, in modo piuttosto particolare, della scienza moderna. Ora, sulla questione più ampia, la sua tesi era essenzialmente questa; che la scienza e la religione, lungi dall'essere riconciliate o anche solo riconciliabili, erano divise dalla contraddizione vitale per cui la scienza appartiene a ciò che egli chiamava «pensiero-di-realtà», o come diciamo noi la [[Truth|verità]] oggettiva; mentre la religione apparteneva a ciò che egli chiamava «pensiero-di-piacere», ovvero ciò che la maggior parte della gente chiama [[Imagination|immaginazione]]. Non ho bisogno di menzionare le cento ovvie obiezioni a questa rozza divisione; come, per esempio, che la religione non si è limitata a immaginare cose piacevoli, ma è spesso stata biasimata da gente come il Dr. Forsyth per averne immaginate di spiacevoli; o che è un ragionare in cerchio provare alla fine che la religione è incompatibile con la scienza semplicemente assumendo al principio che essa è incompatibile con la [[Truth|verità]]. Qui mi preme soltanto insistere non solo sul fatto che tale veduta è l'opposto della [[Truth|verità]], ma che essa è in realtà proprio l'opposto della veduta moderna.
-
-Se vi sono due fatti evidenti e cospicui riguardo alla scienza e alla religione in questo particolare momento, sono questi. Primo, che la scienza pretende molto meno di quanto pretendesse di mostrarci una realtà solida e oggettiva. E secondo, che la religione pretende molto più di quanto pretendesse (almeno da secoli a questa parte) che i suoi miracoli e prodigi di esperienza mistica possano essere provati come esistenti in quanto realtà solida e oggettiva. Da un lato, l'Atomo ha interamente perduto la solidità oggettiva che aveva per i materialisti del diciannovesimo secolo. Dall'altro lato, l'Ascensione è accettata come un caso di Levitazione da molti che non la accetterebbero come Ascensione. Da un lato, la scienza della fisica è quasi divenuta una scienza della metafisica. Poiché non è soltanto, come spesso si dice, che l'Atomo è divenuto un'astratta formula matematica; è quasi altrettanto vero dire che è divenuto un mero simbolo algebrico. Poiché i nuovi fisici ci dicono francamente che ciò che descrivono non è la realtà oggettiva della cosa che osservano; che non stanno esaminando un oggetto come i materialisti del diciannovesimo secolo credevano di esaminare un oggetto. Alcuni di essi ci dicono che stanno soltanto osservando certe perturbazioni o distorsioni, in realtà create dal loro stesso tentativo di osservare. Eddington è più agnostico riguardo al mondo materiale di quanto Huxley sia mai stato riguardo al mondo spirituale. Un momento assai infelice in cui dire che la scienza tratta direttamente con la realtà e la [[Truth|verità]] oggettiva.
-
-Dall'altro lato, sull'altro piano, il piano dell'argomentazione storica e pratica, è proprio il momento in cui la religione appella davvero alla realtà e alla [[Truth|verità]] oggettiva. La Chiesa getta la sfida senza risposta di Lourdes; gli Spiritisti pretendono positivamente di provare la loro nuova religione con esperimenti, come una tesi di chimica o di elettricità; e un vasto numero di intellettuali indipendenti, che non sono né cattolici né spiritisti, hanno cominciato a mostrare un interesse del tutto nuovo per il caso logico, o perfino legale, di alcuni dei grandi miracoli storici. Per esempio, vi sono stati due o tre libri sulla scia di quel brillante ma rigorosamente scientifico libro intitolato Who Moved The Stone; e la tendenza degli scrittori più distaccati è di ammettere sempre più che le prove di tali eventi sono state sottovalutate. La più giovane scuola di apologisti cattolici, come Padre Knox e il signor Christopher Hollis e il signor Arnold Lunn, attaccano quasi interamente con le armi della prova e dell'evidenza pratica; e non si pretende più che abbiano sempre la peggio. Un momento assai infelice in cui dire che la religione tratta soltanto di piacevoli fantasie e immaginazioni.
-
-Lo stile di pensiero antiquato del Dr. Forsyth mi interessa qui, tuttavia, soltanto in quanto richiama l'attenzione sui familiari fatti moderni di cui egli sembra non aver mai udito. E il più rilevante qui è il fatto di quello straordinario mutamento scientifico nell'atteggiamento verso i fatti. Ha il suo posto in questa serie, perché è uno dei grandi mutamenti che non si erano sviluppati in alcuna forma piena e pubblica, nemmeno al [[Time|tempo]] in cui infine chiesi l'ammissione alla Chiesa; e, al [[Time|tempo]] assai più remoto in cui avevo già cominciato a rifletterci, tutta la scienza divulgativa di cui un profano sentiva parlare era dominata dall'ormai defunto materialismo di Haeckel. È dunque vero dire che questa enorme rivoluzione nella [[philosophy|filosofia]] della scienza fisica fu uno degli eventi mondiali che vennero dopo la mia [[Conversion|conversione]]; ma che l'avrebbe enormemente affrettata, se fosse venuta prima della mia [[Conversion|conversione]]. Solo che l'esatta [[Nature|natura]] dell'effetto di questa rivoluzione scientifica sulla religione personale è spesso esposta in modo errato e largamente fraintesa.
-
-Non è, come alcuni paiono immaginare, che noi pensiamo vi sia qualcosa di particolarmente cristiano negli elettroni, non più di quanto vi sia qualcosa di essenzialmente ateo negli atomi. Non è che ci proponiamo di fondare la nostra [[philosophy|filosofia]] sulla loro fisica; non più che di fondare la nostra antica teologia sulla loro più recente biologia. Non ci presentiamo «alle urne» con un corredo di slogan o di grida di partito, come Elettroni per gli Eletti, o Per il Prete e il Protone. La catastrofica importanza, per i cattolici, di questo crollo del materialismo, è semplicemente il fatto che le più sicure affermazioni cosmiche della scienza possono crollare. Se fra cinquant'anni l'elettrone sarà interamente demolito come l'atomo, ciò non ci toccherà; poiché non abbiamo mai fondato la nostra [[philosophy|filosofia]] sull'elettrone più che sull'atomo. Ma i materialisti sì che fondarono la loro [[philosophy|filosofia]] sull'atomo. Ed è del tutto probabile che qualche moda spirituale o l'altra stia in questo momento venendo fondata sull'elettrone. Per un uomo della mia generazione, l'importanza del mutamento non consiste nel suo distruggere il dogma (che era dopo tutto un dettaglio, per quanto un dogma assai dogmatico), «La materia consiste di atomi indivisibili». Ma consiste bensì nel suo distruggere il dogma accettato, universale, proclamato e divulgato: «Dovete accettare le conclusioni della scienza». Decine e centinaia di volte ho udito, per tutta la mia giovinezza e la mia prima età adulta, la ripetizione di quell'ultimatum: «Dovete accettare le conclusioni della scienza». Ed è quella nozione o esperienza che ora è stata conclusa; o piuttosto esclusa. Qualunque altra cosa sia discutibile, d'ora innanzi non si dà più questione di qualcuno che «accetti» le conclusioni della scienza. Gli stessi nuovi scienziati non ci chiedono di accettare le conclusioni della scienza. Gli stessi nuovi scienziati non accettano le conclusioni della nuova scienza. Per rendere loro giustizia, negano vigorosamente che la scienza abbia concluso; o che essa abbia, in quel senso, alcuna conclusione. I più fini intelletti fra loro ripetono, ancora e ancora, che la scienza è inconcludente.
-
-Il che è tutto assai [[Well|bene]], e tutto assai saggio, e tutto assai vero rispetto al graduale aggiustamento delle verità sul loro proprio piano. Ma nel frattempo — esiste una cosa come la vita umana. Gli agnostici vittoriani attendevano con speranza che la scienza desse loro una certezza operativa riguardo alla vita. I nuovi fisici filosofi non sono in alcun modo diversi, salvo che attendono senza speranza invece che con speranza. Poiché sanno assai [[Well|bene]] il vero significato della relatività; che le loro stesse vedute possono passare dall'essere relativamente giuste all'essere relativamente sbagliate. E nel frattempo, come dico, esiste una cosa come il volere una regola operativa quanto al se dovremmo pagare i nostri debiti o assassinare i nostri nemici. Non attenderemmo un illuminismo del diciannovesimo secolo che potrebbe venire. Certamente non attenderemo un illuminismo del ventesimo secolo che non può venire. Se vogliamo una guida per la vita, pare che dobbiamo cercare altrove.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_09_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
-
-
-MY SIX CONVERSIONS
-VI.  THE CASE OF SPAIN
-
-The point of the recent political story in Spain
-has never been put clearly in the English papers;
-perhaps not quite clearly even in the Catholic papers.
-It is a very striking example of how the world has really moved,
-since my own most important change of conviction occurred.
-There is a [[Paradox|paradox]] in every story of [[Conversion|conversion]]; which is
-perhaps the reason why the records of it are never ideally
-satisfactory It is in its very [[Nature|nature]] the extinction of egoism:
-and yet every account of it must sound egoistic.
-It means, at least in the case of the Religion in question,
-a recognition of reality which has nothing to do with relativity.
-It is as if a man said, "This inn really exists, even if I
-have never found it"; or, "My [[Home|home]] is actually in this village;
-and would be there, if I had never reached it."
-It is the recognition that the [[Truth|truth]] is true, apart from
-the [[Truth|truth]]-seeker; and yet the description must be the autobiography
-of a [[Truth|truth]]-seeker; generally a rather depressing sort of person.
-It will therefore sound egotistical, if I preface these remarks
-by saying that I was for a long [[Time|time]] a Liberal in the sense
-of belonging to the Liberal Party.  I am still a Liberal;
-it is only the Liberal Party that has disappeared.
-I understood its ideal to be that of equal citizenship and
-personal [[Freedom|freedom]]; and they are my own political ideals to this day.
-The point here, however, is that I worked for a long [[Time|time]]
-with the practical organization of Liberalism; I wrote
-for a great part of my life for the old Daily News;
-and I knew of course that it identified political liberty,
-rightly or wrongly, with representative [[government]].
-Then came the breach, on which I need not insist;
-except by saying that I became quite convinced of two facts.
-First, that representative [[government]] had ceased to
-be representative.  Second, that Parliament was in fact gravely
-menaced by political corruption.  Politicians did not represent
-the populace, even the most noisy and vulgar of the populace.
-Politicians did not deserve the dignified name of demagogues.
-They deserved no name except perhaps the name of bagmen;
-they were travelling for private firms.  If they represented anything,
-it was vested interests, vulgar but not even popular.
-
-For this reason, when the Fascists' revolt appeared
-in [[Italy]], I could not be entirely hostile to it; for I knew
-the hypocritical plutocracy against which it rebelled.
-But neither could I be entirely friendly to it; for I believed
-in the civic equality in which the politicians pretended to believe.
-For the present purpose, the problem can be put very briefly.
-The whole of the real case for Fascism can be put in two
-words never printed in our newspapers:  secret societies.
-The whole case against Fascism could be put in one word now
-never used and almost forgotten:  legitimacy.  For the first,
-the Fascist was justified in smashing the politicians;
-for their contract with the people was secretly contradicted
-by their secret contracts with gangs and conspiracies.
-For the second, Fascism could never be quite satisfactory;
-for it did not rest on authority but only on power; which is
-the weakest thing in the world.  The Fascists said in effect,
-"We may not be the majority, but we are the most vigorous
-and intelligent minority."  Which is simply challenging any
-other intelligent minority to show that it is more vigorous.
-It may [[Well|well]] end in the very anarchy it attempted to avoid.
-Compared with this, despotism and [[Democracy|democracy]] are legitimate.
-I mean there is no [[Doubt|doubt]] about who is the [[King]]'s eldest son
-or about who has most votes in the most mechanical election.
-But a mere competition of intelligent minorities is a rather
-dreadful prospect.  That, it seems to me, is a fair
-statement of the case for and against the Fascist movement.
-And now I should like to apply it to the curious case of Spain;
-and note how Liberalism met the issue.
-
-For weeks and months on end my old organ the Daily News
-(now the News-Chronicle) had warned the public of all
-these doubtful and dangerous implications of Fascism.
-It had reviled Fascism for its vices; and rather more virulently
-for its virtues.  But anyhow it had furiously denounced the notion
-of a minority imposing its will by mere violence, by weapons
-or military training, in contempt of the constitutional [[Democracy|democracy]]
-in which the people expressed its will through Parliament.
-I think there is a great deal to be said for that view;
-especially in England, where Parliament is really normal
-and national as it never was in [[Italy]] or [[Germany]].
-I could write much for and much against the Liberal theory
-as enunciated in the News-Chronicle, And then, suddenly,
-the whole case was thrown over, and turned upside down,
-in face of the simple situation in Spain.
-
-First it must be remembered that the Church is always in advance of
-the world.  That is why it is said to be behind the times.  It discussed
-everything so long ago that people have forgotten the discussion.
-St. Thomas was an internationalist before all our internationalists;
-St. Joan was a nationalist almost before there were nations;
-Blessed Robert Bellarmine said all there is to be said for [[Democracy|democracy]]
-before any ordinary worldling dared to be a democrat; and (what is
-to the purpose here) the Christian social [[Reform|reform]] was in full activity
-before any of these quarrels of Fascists and Bolshevists appeared.
-The Popular Party was working out the ideas of Leo XIII before a single
-Blackshirt had been seen in [[Italy]].  The same popular ideals had been
-moving in Spain; with the result that they had really become popular.
-There were other complications, of course; the [[Court]] had never been
-quite popular; the Dictatorship had not, I think, been imaginative
-about the curious problem of Catalonia; but all this did not effect
-the profound and popular Catholic change.  The Pope particularly
-insisted that he had no objection to the Republic as such;
-there was no opposition to anything but to certain inhuman ideals,
-by which men would lose humanity in losing personal liberty and property.
-[[Well]], in the perfectly fair and open intellectual interchange,
-in which all Liberals are supposed to believe, the Catholic ideals won.
-At an entirely peaceful and legal election, exactly like any
-English election, a vast majority voted in various degrees for
-the traditional truths, which had been normal to the Nation for much
-more than a thousand years.  Spain spoke; if indeed elections do speak;
-and declared constitutionally against Communism, against Atheism,
-against the negation that starved normality in our [[Time|time]].
-Nobody said that this majority had been achieved by military violence.
-Nobody pretended that an armed minority had imposed it on the State.
-If the Liberal theory of Parliamentary majorities was just,
-this was just.  If the Parliamentary system was a popular system, this
-was popular.  And then the Socialists suddenly jumped up and did exactly
-everything that the Fascists have been blamed for doing.  They used
-bombs and guns and instruments of violence to prevent the fulfilment
-of the will of the people, or at least of the will of the Parliament.
-Having lost the game by the rules of [[Democracy|democracy]], they tried to win it
-after all entirely by the rules of war; in this case of Civil War.
-They tried to overthrow a pacific Parliament by a militarist coup
-d'état. In short, they behaved exactly like Mussolini; or rather
-they did the very worst that has ever been attributed to Mussolini;
-and without a rag of his theoretical excuse.
-
-And what did Liberalism say?  What did my dear old friends
-of liberty and peaceful citizenship say?  Naturally, I assumed
-on opening the paper that it would rally to the defence of
-Parliament and peaceful representative [[government]] and rebuke
-the attempt to make a minority dominant by mere military violence.
-Judge of my astonishment, when I found Liberals lamenting aloud
-over the unfortunate failure of these Socialistic Fascists
-to reverse the result of a General Election.  I had been
-a Liberal in the old Liberal days; we were not unacquainted
-with Tory and Unionist victories at the polls; we had often gone
-contentedly into Opposition.  It had never been suggested that
-when Balfour or Baldwin constitutionally became Prime Ministers,
-all the Nonconformists should go out with guns and bayonets
-to reverse the popular vote; or the Leader of the Opposition
-begin to throw dynamite at the elected Leader of the [[house|House]].
-The only inference was that Liberalism was only opposed
-to militarists when they were Fascists; and entirely approved
-of Fascists so long as they were Socialists.
-
-Now that is a small and purely political point.
-But to me it was very awakening.  It showed me quite clearly
-the fundamental [[Truth|truth]] of the modern world.  And that is this:
-there are no Fascists; there are no Socialists;
-there are no Liberals; there are no Parliamentarians.
-There is the one supremely inspiring and irritating
-institution in the world; and there are its enemies.
-Its enemies are ready to be for violence or against violence,
-for liberty or against liberty, for representation or
-against representation; and even for peace or against peace.
-It gave me an entirely new certainty, even in the practical
-and political sense, that I had chosen [[Well|well]].
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LE MIE SEI CONVERSIONI
-VI. IL CASO DELLA SPAGNA
-
-Il punto della recente vicenda politica in Spagna non è mai stato esposto con chiarezza nei giornali inglesi; forse nemmeno del tutto chiaramente nei giornali cattolici. È un esempio assai notevole di quanto il mondo si sia realmente mosso, da quando avvenne il mio più importante mutamento di convinzione. Vi è un [[Paradox|paradosso]] in ogni storia di [[Conversion|conversione]]; il che è forse la ragione per cui i suoi resoconti non sono mai idealmente soddisfacenti. Essa è per sua stessa [[Nature|natura]] l'estinzione dell'egoismo: eppure ogni resoconto di essa deve suonare egoistico. Significa, almeno nel caso della Religione in questione, un riconoscimento della realtà che nulla ha a che fare con la relatività. È come se un uomo dicesse: «Questa locanda esiste davvero, anche se non l'ho mai trovata»; oppure: «La mia [[Home|casa]] è realmente in questo villaggio; e vi sarebbe, anche se non l'avessi mai raggiunta». È il riconoscimento che la [[Truth|verità]] è vera, indipendentemente dal cercatore di [[Truth|verità]]; eppure la descrizione dev'essere l'autobiografia di un cercatore di [[Truth|verità]]; in genere una persona piuttosto deprimente. Suonerà dunque egotistico, se premetto a queste osservazioni che per lungo [[Time|tempo]] fui un Liberale nel senso di appartenere al Partito Liberale. Sono ancora un Liberale; è soltanto il Partito Liberale a essere scomparso. Intendevo il suo ideale come quello della pari cittadinanza e della [[Freedom|libertà]] personale; e sono i miei propri ideali politici ancora oggi. Il punto qui, tuttavia, è che lavorai per lungo [[Time|tempo]] con l'organizzazione pratica del Liberalismo; scrissi per gran parte della mia vita per il vecchio Daily News; e sapevo naturalmente che esso identificava la libertà politica, a torto o a ragione, con il [[government|governo]] rappresentativo. Poi venne la rottura, sulla quale non ho bisogno di insistere; salvo che col dire che divenni del tutto convinto di due fatti. Primo, che il [[government|governo]] rappresentativo aveva cessato di essere rappresentativo. Secondo, che il Parlamento era di fatto gravemente minacciato dalla corruzione politica. I politici non rappresentavano il popolo, nemmeno la parte più chiassosa e volgare del popolo. I politici non meritavano il dignitoso nome di demagoghi. Non meritavano altro nome se non forse quello di piazzisti; viaggiavano per ditte private. Se rappresentavano qualcosa, erano gli interessi costituiti, volgari ma nemmeno popolari.
-
-Per questa ragione, quando la rivolta dei Fascisti apparve in [[Italy|Italia]], non potevo esserle interamente ostile; poiché conoscevo l'ipocrita plutocrazia contro cui essa si ribellava. Ma nemmeno potevo esserle interamente amico; poiché credevo nell'uguaglianza civica in cui i politici fingevano di credere. Per il presente scopo, il problema può essere esposto assai brevemente. L'intero vero argomento a favore del Fascismo può essere espresso in due parole mai stampate nei nostri giornali: società segrete. L'intero argomento contro il Fascismo potrebbe essere espresso in una sola parola ora mai usata e quasi dimenticata: legittimità. Per il primo, il Fascista era giustificato nello schiacciare i politici; poiché il loro contratto con il popolo era segretamente contraddetto dai loro contratti segreti con bande e cospirazioni. Per il secondo, il Fascismo non potrebbe mai essere del tutto soddisfacente; poiché non poggiava sull'autorità ma soltanto sul potere; che è la cosa più debole del mondo. I Fascisti dicevano in sostanza: «Potremo non essere la maggioranza, ma siamo la minoranza più vigorosa e intelligente». Il che è semplicemente sfidare qualunque altra minoranza intelligente a mostrare di essere più vigorosa. Ciò può [[Well|ben]] finire nella stessa anarchia che tentava di evitare. In confronto a questo, il dispotismo e la [[Democracy|democrazia]] sono legittimi. Voglio dire che non vi è alcun [[Doubt|dubbio]] su chi sia il figlio primogenito del [[King|Re]], o su chi abbia più voti nella più meccanica delle elezioni. Ma una mera competizione di minoranze intelligenti è una prospettiva piuttosto terribile. Questo, mi pare, è un giusto enunciato del caso a favore e contro il movimento fascista. E ora vorrei applicarlo al curioso caso della Spagna; e notare come il Liberalismo affrontò la questione.
-
-Per settimane e mesi di seguito il mio vecchio organo, il Daily News (ora il News-Chronicle), aveva messo in guardia il pubblico da tutte queste dubbie e pericolose implicazioni del Fascismo. Aveva vituperato il Fascismo per i suoi vizi; e piuttosto più virulentemente per le sue virtù. Ma comunque aveva furiosamente denunciato l'idea di una minoranza che imponesse la propria volontà con la mera violenza, con le armi o l'addestramento militare, in disprezzo della [[Democracy|democrazia]] costituzionale in cui il popolo esprimeva la sua volontà attraverso il Parlamento. Credo che vi sia molto da dire a favore di quella veduta; specialmente in Inghilterra, dove il Parlamento è davvero normale e nazionale come non lo fu mai in [[Italy|Italia]] o in [[Germany|Germania]]. Potrei scrivere molto a favore e molto contro la teoria liberale enunciata nel News-Chronicle. E poi, d'improvviso, l'intero argomento fu gettato via, e capovolto, di fronte alla semplice situazione in Spagna.
-
-Anzitutto bisogna ricordare che la Chiesa è sempre in anticipo sul mondo. Ecco perché si dice che sia indietro rispetto ai tempi. Ha discusso ogni cosa tanto tempo fa che la gente ha dimenticato la discussione. San Tommaso fu un internazionalista prima di tutti i nostri internazionalisti; Santa Giovanna fu una nazionalista quasi prima che vi fossero le nazioni; il Beato Roberto Bellarmino disse tutto ciò che vi è da dire a favore della [[Democracy|democrazia]] prima che qualunque ordinario mondano osasse essere un democratico; e (ciò che qui rileva) la [[Reform|riforma]] sociale cristiana era in piena attività prima che apparisse alcuna di queste liti tra Fascisti e Bolscevichi. Il Partito Popolare stava elaborando le idee di Leone XIII prima che una sola Camicia Nera fosse stata vista in [[Italy|Italia]]. Gli stessi ideali popolari si erano mossi in Spagna; con il risultato che erano davvero divenuti popolari. Vi erano altre complicazioni, naturalmente; la [[Court|Corte]] non era mai stata del tutto popolare; la Dittatura non era stata, credo, fantasiosa riguardo al curioso problema della Catalogna; ma tutto ciò non intaccava il profondo e popolare mutamento cattolico. Il Papa insistette in particolare di non avere obiezione alla Repubblica in quanto tale; non vi era opposizione ad alcunché se non a certi ideali disumani, per i quali gli uomini perderebbero l'umanità nel perdere la libertà e la proprietà personali. [[Well|Ebbene]], nel perfettamente equo e aperto scambio intellettuale, nel quale tutti i Liberali dovrebbero credere, gli ideali cattolici vinsero. In un'elezione del tutto pacifica e legale, esattamente come qualunque elezione inglese, una vasta maggioranza votò in vari gradi per le verità tradizionali, che erano state normali per la Nazione per assai più di mille anni. La Spagna parlò; se davvero le elezioni parlano; e si dichiarò costituzionalmente contro il Comunismo, contro l'Ateismo, contro la negazione che affamava la normalità nel nostro [[Time|tempo]]. Nessuno disse che questa maggioranza fosse stata ottenuta con la violenza militare. Nessuno pretese che una minoranza armata l'avesse imposta allo Stato. Se la teoria liberale delle maggioranze parlamentari era giusta, questa era giusta. Se il sistema parlamentare era un sistema popolare, questo era popolare. E poi i Socialisti d'improvviso balzarono in piedi e fecero esattamente tutto ciò di cui i Fascisti erano stati biasimati. Usarono bombe e fucili e strumenti di violenza per impedire l'adempimento della volontà del popolo, o almeno della volontà del Parlamento. Avendo perduto la partita secondo le regole della [[Democracy|democrazia]], tentarono di vincerla dopotutto interamente secondo le regole della guerra; in questo caso della Guerra Civile. Tentarono di rovesciare un Parlamento pacifico con un colpo di Stato militarista. In breve, si comportarono esattamente come Mussolini; o piuttosto fecero il peggio in assoluto che sia mai stato attribuito a Mussolini; e senza uno straccio della sua scusa teorica.
-
-E che cosa disse il Liberalismo? Che cosa dissero i miei cari vecchi amici della libertà e della pacifica cittadinanza? Naturalmente, aprendo il giornale, supposi che si sarebbe schierato in difesa del Parlamento e del pacifico [[government|governo]] rappresentativo e avrebbe rimproverato il tentativo di rendere dominante una minoranza con la mera violenza militare. Si giudichi il mio stupore, quando trovai i Liberali che si lamentavano ad alta voce dello sfortunato fallimento di questi Fascisti socialisti nel rovesciare il risultato di un'Elezione Generale. Io ero stato un Liberale nei vecchi giorni liberali; non eravamo estranei alle vittorie Tory e Unioniste alle urne; eravamo spesso passati all'Opposizione senza scomporci. Non era mai stato suggerito che, quando Balfour o Baldwin divenivano costituzionalmente Primi Ministri, tutti i Nonconformisti dovessero uscire con fucili e baionette a rovesciare il voto popolare; o che il Leader dell'Opposizione cominciasse a lanciare dinamite contro il Leader eletto della [[house|Camera]]. L'unica inferenza era che il Liberalismo era contrario ai militaristi soltanto quando erano Fascisti; e approvava interamente i Fascisti fintanto che erano Socialisti.
-
-Ora, questo è un punto piccolo e puramente politico. Ma per me fu assai illuminante. Mi mostrò con tutta chiarezza la fondamentale [[Truth|verità]] del mondo moderno. Ed essa è questa: non vi sono Fascisti; non vi sono Socialisti; non vi sono Liberali; non vi sono Parlamentaristi. Vi è la sola istituzione supremamente ispiratrice e irritante del mondo; e vi sono i suoi nemici. I suoi nemici sono pronti a essere per la violenza o contro la violenza, per la libertà o contro la libertà, per la rappresentanza o contro la rappresentanza; e perfino per la pace o contro la pace. Ciò mi diede una certezza del tutto nuova, anche nel senso pratico e politico, di avere scelto [[Well|bene]].
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_10_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
-
-
-MY SIX CONVERSIONS
-
-VII.  THE [[Well|WELL]] AND THE SHALLOWS
-
-IN numberless novels and newspaper articles, we have all read
-about a process which is still apparently regarded as [[Novel|novel]]
-or new; though it has been described in almost exactly
-the same terms for nearly a hundred years; and in slightly
-different terms for hundreds of years before that.  I mean
-what is called the growth of [[Doubt|doubt]] or the disturbance of [[Faith|faith]];
-and the only point about it which is pertinent here is this;
-that it is always described as a revolt of the deeper parts
-of the mind against something that is comparatively superficial.
-We need not deny that modern [[Doubt|doubt]], like ancient [[Doubt|doubt]],
-does ask deep questions; we only deny that, as compared
-with our own [[philosophy]], it gives any deeper answers.
-And it is a general rule, touching what is called modern thought,
-that while the questions are often really deep, the answers
-are often decidedly shallow.  And it is perhaps even more
-important to remark that, while the questions are in a
-sense eternal, the answers are in every sense [[ephemeral]].
-The world is still asking the questions that were asked by Job.
-The world will not long be contented with the answers that are
-given by Joad.
-
-The chances of the Book of Joad being as permanent as the Book
-of Job are limited by certain perfectly practical calculations.
-Mr. Joad is an able and sincere man; and nobody doubts
-that his opinions are the product of his own mind;
-but they are very unmistakably the product of his own age.
-In this case it would be more correct to say, of his own generation.
-For the sceptics throughout the ages inherit nothing
-except a negation.  Their positive policy or ideal varies,
-not only from century to century, but even from father to son.
-A free-thinker like Bradlaugh, coming out of the individualistic
-nineteenth century and the mercantile spirit of the Midlands,
-was careful to explain that he was an Individualist.
-A free-thinker of the next generation, like Mr. Joseph McCabe,
-was careful to explain that he was a Socialist.
-A free-thinker wanting to make a splash to-day would almost
-certainly insist that he was not a Socialist; which has
-come to mean something as mild as Mr. Ramsay MacDonald.
-For those who can believe in each of these social moves in turn,
-as they happen to turn up, the matter may be irrelevant.
-But some of us will simply draw the moral which determines
-the whole question of this issue between the traditions
-of [[Truth|truth]] and [[Doubt|doubt]].  Those who leave the tradition of [[Truth|truth]]
-do not escape into something which we call [[Freedom]].
-They only escape into something else, which we call Fashion.
-
-That is really the crux of the controversy between the two views
-of [[history]] and [[philosophy]].  If it were true that by leaving the temple
-we walked out into a world of truths, the question would be answered;
-but it is not true.  By leaving the temple, we walk out into
-a world of idols; and the idols of the marketplace are more
-perishable and passing than the gods of the temple we have left.
-If we wished to test rationally the case of rationalism, we should
-follow the career of the sceptic and ask how far he remained
-sceptical about the idols or ideals of the world into which he went.
-There are very few sceptics in [[history]] who cannot be proved to
-have been instantly swallowed by some swollen convention or some
-hungry humbug of the hour, so that all their utterances about
-contemporary things now look to us almost pathetically contemporary.
-The little group of Atheists, who still run their paper in Fleet Street
-and frequently [[Honour|honour]] me with hearty but somewhat hasty denunciation,
-began their agitation in the old Victorian days, and selected
-for themselves a terribly appropriate title.  They did not call
-themselves Atheists, they called themselves Secularists.  Never was
-a more bitter and blighting confession made in the form of a boast.
-For the word "secular" does not mean anything so sensible as "worldly."
-It does not even mean anything so spirited as "irreligious."
-To be secular simply means to be of the age; that is, of the age
-which is passing; of the age which, in their case, is already passed.
-There is one tolerably correct [[Translation|translation]] of the Latin word which
-they have chosen as their motto.  There is one adequate equivalent
-of the word "secular"; and it is the word "dated."
-
-In the essays in this series, I have considered some of the effects
-of this continuous process of [[Time|time]] and change, as it has
-affected the world, even after I myself ceased to look to its
-changes for essential guidance.  I have noted that the changes,
-which continue to occur, point more and more to the [[Truth|truth]]
-of the unchanging [[philosophy]] which stands apart from them.
-I could add, of course, a long list of other examples
-of exactly the same [[Truth|truth]].  I could point, for instance,
-to the collapse of Prohibition; not so much in the narrow sense
-of Prohibition as in the general sense of Prohibitionism.
-For what failed with the American experiment was not merely a
-particular chemical experiment with some alleged chemical constituent,
-which they chose to call alcohol.  It was a whole attitude
-towards all the complex uses and abuses of human things.
-The great outstanding principle of the modern materialistic
-world has been Prohibition; even Prohibition in the abstract.
-Where we say that a social element is dangerous or doubtful,
-that it must be watched, that it may on due occasion be restrained,
-the thing that was called the Modern Mind always cried aloud with
-a voice of thunder that it must be forbidden.  The Prohibitionist
-declares that there must be no wine; the Pacifist that there must
-be no war; the Communist that there must be no private property;
-the Secularist that there must be no religious worship.
-The failure of Prohibition in the one country in which it
-was a favourite, in which it was a popular ideal in so far
-as anything so inhuman can be popular, was the collapse
-of the whole conception of wiping out entirely the temptations
-of man and the trials of mortal life.  After that, it is tacitly
-agreed that there is no such simple way out of moral problems;
-it is almost admitted that they must be referred to the moral sense.
-We were actually driven back on the desperate and tragic duty
-of our fathers, of deciding for ourselves whether we were
-drinking too much, or whether we were fighting in a just quarrel,
-or whether we were only defending our own lawful property,
-or getting other people's property by lawless usury.
-Such a demand was naturally a great strain on the Modern Mind.
-For the Modern Mind is not at all accustomed to making up its mind.
-It finds the task almost as unfamiliar as working its own farm
-or practising its own craft; or doing a hundred other things,
-that human beings had done from the foundations of the world.
-In short, it would not accept the Catholic doctrine that human
-life is a battle; it only wanted to have it announced,
-from [[Time|time]] to [[Time|time]] in the newsapers, that it was a victory.
-
-There are, I say, a number of other more general defeats of the
-attack on the [[Faith]], on each of which it would be easy to write
-a long [[Essay|essay]]; the longer as the essential [[Truth|truth]] in the matter
-was more subtle and more universal.  But I will close this series
-with the examples which I have given, because I think they suffice
-to show the general trend of the [[Truth|truth]] which I [[Desire|desire]] to suggest.
-The simplest summary of my meaning is to throw my mind back
-to all the things that seemed in my youth to be the rivals or
-reasonable alternatives to my religious conviction, and consider
-whether they could still play even the part which they did.
-The answer is that not one of them could now even remotely
-resemble a rival; or be even reasonable as an alternative.
-There was a [[Time|time]] when men of my sympathies felt even tragically
-the quarrel between the Republic and the Church; the apparent
-misunderstanding between political equality and mystical authority.
-It is a commonplace to-day that the world has reacted much more
-against equality than against authority.  But that in itself would
-not have disposed of the democratic ideals of any sincere democrat.
-It is the thing called [[Democracy|democracy]] that has itself disappointed
-the democrat.  However much I might hate the Fascists, heartily as I
-do indeed despise the Hitlerites, that would never restore the mere
-abstract [[Faith|faith]] in the Republicans.  If I lost my religion to-morrow,
-I could not again believe that the mere fact of turning Kamchatka
-from a Monarchy to a Republic would solve all its social sins.
-I have seen too many Republicans, with their greasy platform
-promises and their guzzling secret societies.  I can remember
-when being a Socialist was a real inspiration to youth; but anybody
-who thinks it could be an inspiration to the more elderly phase
-of maturity, has only to look at the more elderly Socialists.
-In short, the point I mentioned at the beginning of this article
-is the point of the whole matter; that while the questions
-are still deep and tragic enough, the recent answers
-have not really been revolutionary, but only superficial.
-I could not abandon the [[Faith|faith]], without falling back on something
-more shallow than the [[Faith|faith]].  I could not cease to be a Catholic,
-except by becoming something more narrow than a Catholic.
-A man must narrow his mind in order to lose the universal [[philosophy]];
-everything that has happened up to.  this very day has confirmed
-this conviction; and whatever happens to-morrow will confirm it anew.
-We have come out of the shallows and the dry places to the one
-deep [[Well|well]]; and the [[Truth]] is at the [[Bottom|bottom]] of it.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LE MIE SEI CONVERSIONI
-
-VII. IL [[Well|POZZO]] E LE SECCHE
-
-In innumerevoli romanzi e articoli di giornale, tutti abbiamo letto di un processo che è ancora, a quanto pare, considerato [[Novel|nuovo]] o inedito; benché sia stato descritto in termini quasi esattamente identici da quasi cento anni; e in termini leggermente diversi per centinaia di anni prima ancora. Intendo ciò che si chiama la crescita del [[Doubt|dubbio]] o il turbamento della [[Faith|fede]]; e l'unico punto al riguardo che qui rilevi è questo: che esso è sempre descritto come una rivolta delle parti più profonde della mente contro qualcosa di comparativamente superficiale. Non abbiamo bisogno di negare che il [[Doubt|dubbio]] moderno, come il [[Doubt|dubbio]] antico, ponga davvero domande profonde; neghiamo soltanto che, in confronto alla nostra propria [[philosophy|filosofia]], esso dia risposte più profonde. Ed è una regola generale, riguardo a ciò che si chiama pensiero moderno, che, mentre le domande sono spesso realmente profonde, le risposte sono spesso decisamente superficiali. Ed è forse ancora più importante osservare che, mentre le domande sono in un certo senso eterne, le risposte sono in ogni senso [[ephemeral|effimere]]. Il mondo pone ancora le domande che furono poste da Giobbe. Il mondo non si accontenterà a lungo delle risposte che sono date da Joad.
-
-Le probabilità che il Libro di Joad sia altrettanto permanente del Libro di Giobbe sono limitate da certi calcoli perfettamente pratici. Il signor Joad è un uomo capace e sincero; e nessuno dubita che le sue opinioni siano il prodotto della sua propria mente; ma esse sono assai inequivocabilmente il prodotto della sua propria epoca. In questo caso sarebbe più corretto dire, della sua propria generazione. Poiché gli scettici attraverso i secoli non ereditano nulla se non una negazione. La loro politica o il loro ideale positivo varia, non solo di secolo in secolo, ma perfino di padre in figlio. Un libero pensatore come Bradlaugh, uscito dall'individualistico diciannovesimo secolo e dallo spirito mercantile delle Midlands, aveva cura di spiegare che era un Individualista. Un libero pensatore della generazione successiva, come il signor Joseph McCabe, aveva cura di spiegare che era un Socialista. Un libero pensatore che oggi volesse fare scalpore insisterebbe quasi certamente di non essere un Socialista; il che è arrivato a significare qualcosa di mite come il signor Ramsay MacDonald. Per coloro che sanno credere in ciascuna di queste mosse sociali a turno, via via che si presentano, la questione può essere irrilevante. Ma alcuni di noi trarranno semplicemente la morale che determina l'intera questione di questa contesa tra le tradizioni della [[Truth|verità]] e del [[Doubt|dubbio]]. Coloro che lasciano la tradizione della [[Truth|verità]] non evadono in qualcosa che noi chiamiamo [[Freedom|Libertà]]. Evadono soltanto in qualcos'altro, che noi chiamiamo Moda.
-
-Ecco davvero il nodo della controversia tra le due vedute della [[history|storia]] e della [[philosophy|filosofia]]. Se fosse vero che, lasciando il tempio, uscissimo in un mondo di verità, la questione sarebbe risolta; ma non è vero. Lasciando il tempio, usciamo in un mondo di idoli; e gli idoli del mercato sono più deperibili e passeggeri degli dèi del tempio che abbiamo lasciato. Se volessimo mettere alla prova razionalmente il caso del razionalismo, dovremmo seguire la carriera dello scettico e chiederci fino a che punto egli rimase scettico verso gli idoli o gli ideali del mondo in cui entrò. Vi sono pochissimi scettici nella [[history|storia]] di cui non si possa provare che furono all'istante inghiottiti da qualche gonfia convenzione o da qualche affamata impostura dell'ora, sicché tutte le loro affermazioni sulle cose contemporanee ora ci appaiono quasi pateticamente contemporanee. Il piccolo gruppo di Atei, che ancora manda avanti il proprio giornale in Fleet Street e frequentemente mi [[Honour|onora]] di cordiale ma alquanto affrettata denuncia, cominciò la propria agitazione nei vecchi giorni vittoriani, e scelse per sé un titolo terribilmente appropriato. Non si chiamavano Atei, si chiamavano Secolaristi. Mai una confessione più amara e funesta fu fatta nella forma di un vanto. Poiché la parola «secolare» non significa nulla di così sensato come «mondano». Non significa nemmeno nulla di così spiritoso come «irreligioso». Essere secolare significa semplicemente essere dell'epoca; cioè, dell'epoca che sta passando; dell'epoca che, nel loro caso, è già passata. Vi è una tollerabilmente corretta [[Translation|traduzione]] della parola latina che essi hanno scelto come proprio motto. Vi è un adeguato equivalente della parola «secolare»; ed è la parola «datato».
-
-Nei saggi di questa serie, ho considerato alcuni degli effetti di questo continuo processo di [[Time|tempo]] e di mutamento, così come ha influito sul mondo, anche dopo che io stesso cessai di guardare ai suoi mutamenti per una guida essenziale. Ho notato che i mutamenti, che continuano a verificarsi, indicano sempre più la [[Truth|verità]] dell'immutabile [[philosophy|filosofia]] che sta in disparte da essi. Potrei aggiungere, naturalmente, un lungo elenco di altri esempi esattamente della stessa [[Truth|verità]]. Potrei indicare, per esempio, il crollo del Proibizionismo; non tanto nel senso ristretto del Proibizionismo quanto nel senso generale del proibizionismo. Poiché ciò che fallì con l'esperimento americano non fu semplicemente un particolare esperimento chimico con qualche presunto costituente chimico, che essi scelsero di chiamare alcol. Fu un intero atteggiamento verso tutti i complessi usi e abusi delle cose umane. Il grande principio dominante del moderno mondo materialistico è stato il Proibizionismo; perfino il Proibizionismo in astratto. Dove noi diciamo che un elemento sociale è pericoloso o dubbio, che deve essere sorvegliato, che può alla dovuta occasione essere frenato, ciò che veniva chiamato la Mente Moderna gridava sempre a gran voce, con voce di tuono, che esso doveva essere proibito. Il Proibizionista dichiara che non vi dev'essere vino; il Pacifista che non vi dev'essere guerra; il Comunista che non vi dev'essere proprietà privata; il Secolarista che non vi dev'essere culto religioso. Il fallimento del Proibizionismo nell'unico paese in cui era prediletto, in cui era un ideale popolare per quanto qualcosa di così disumano possa essere popolare, fu il crollo dell'intera concezione di cancellare interamente le tentazioni dell'uomo e le prove della vita mortale. Dopo di ciò, è tacitamente convenuto che non vi è una così semplice via d'uscita dai problemi morali; è quasi ammesso che essi debbano essere rimessi al senso morale. Fummo effettivamente ricacciati sul disperato e tragico dovere dei nostri padri, di decidere da noi stessi se stessimo bevendo troppo, o se stessimo combattendo in una giusta contesa, o se stessimo soltanto difendendo la nostra propria legittima proprietà, o ottenendo la proprietà altrui con illegale usura. Una simile richiesta era naturalmente un grande sforzo per la Mente Moderna. Poiché la Mente Moderna non è affatto avvezza a decidere. Trova il compito quasi tanto insolito quanto il coltivare la propria fattoria o l'esercitare il proprio mestiere; o il fare cento altre cose che gli esseri umani avevano fatto fin dalle fondamenta del mondo. In breve, non voleva accettare la dottrina cattolica che la vita umana è una battaglia; voleva soltanto che si annunciasse, di [[Time|tempo]] in [[Time|tempo]] nei giornali, che essa era una vittoria.
-
-Vi sono, dico, un certo numero di altre più generali sconfitte dell'attacco alla [[Faith|Fede]], su ciascuna delle quali sarebbe facile scrivere un lungo [[Essay|saggio]]; tanto più lungo quanto la [[Truth|verità]] essenziale nella questione era più sottile e più universale. Ma chiuderò questa serie con gli esempi che ho dato, perché credo che bastino a mostrare la tendenza generale della [[Truth|verità]] che [[Desire|desidero]] suggerire. Il più semplice riassunto del mio significato è rivolgere la mia mente a tutte le cose che nella mia giovinezza parevano essere le rivali o le ragionevoli alternative alla mia convinzione religiosa, e considerare se esse potrebbero ancora recitare anche solo la parte che recitarono. La risposta è che nemmeno una di esse potrebbe ora nemmeno lontanamente somigliare a una rivale; o essere anche solo ragionevole come alternativa. Vi fu un [[Time|tempo]] in cui gli uomini delle mie simpatie sentivano perfino tragicamente la contesa tra la Repubblica e la Chiesa; l'apparente malinteso tra l'uguaglianza politica e l'autorità mistica. È un luogo comune oggi che il mondo abbia reagito assai più contro l'uguaglianza che contro l'autorità. Ma ciò di per sé non avrebbe liquidato gli ideali democratici di alcun sincero democratico. È la cosa chiamata [[Democracy|democrazia]] che ha essa stessa deluso il democratico. Per quanto io possa odiare i Fascisti, per quanto cordialmente io in effetti disprezzi gli Hitleriani, ciò non ripristinerebbe mai la mera astratta [[Faith|fede]] nei Repubblicani. Se domani perdessi la mia religione, non potrei di nuovo credere che il mero fatto di trasformare il Kamchatka da Monarchia in Repubblica risolverebbe tutti i suoi peccati sociali. Ho visto troppi Repubblicani, con le loro untuose promesse da comizio e le loro ingorde società segrete. Posso ricordare quando essere Socialista era una vera ispirazione per la giovinezza; ma chiunque pensi che possa essere un'ispirazione per la più anziana fase della maturità, non ha che da guardare i Socialisti più anziani. In breve, il punto che ho menzionato all'inizio di questo articolo è il punto dell'intera faccenda; che, mentre le domande sono ancora abbastanza profonde e tragiche, le recenti risposte non sono state realmente rivoluzionarie, ma soltanto superficiali. Non potrei abbandonare la [[Faith|Fede]], senza ripiegare su qualcosa di più superficiale della [[Faith|Fede]]. Non potrei cessare di essere cattolico, se non divenendo qualcosa di più angusto di un cattolico. Un uomo deve restringere la propria mente per perdere l'universale [[philosophy|filosofia]]; tutto ciò che è accaduto fino a questo giorno stesso ha confermato questa convinzione; e qualunque cosa accada domani la confermerà di nuovo. Siamo usciti dalle secche e dai luoghi aridi verso l'unico profondo [[Well|pozzo]]; e la [[Truth|Verità]] è sul [[Bottom|fondo]] di esso.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_13_levity_or_levitation" data-title="Well And Shallows — Levity--Or Levitation" data-chapter="Levity Or Levitation" data-kind="story"></span>
-
-
-LEVITY--OR LEVITATION
-
-I DO not see why a man should not sometimes have a holiday, even while
-he is doing his work, and write about something merely because it
-amuses him.  I know I should be doing my duty as a Distributist,
-doing it dismally with the pen when others are already doing it more
-nobly with the plough.  But, for once in a way, I am going to write
-merely for fun; and about something only because it is funny.
-And the funniest thing I can find for miles round is in a paper
-called the Psychic News, a past issue of which was adorned with
-a portrait of me, accompanied with the extraordinary and rather
-mysterious caption, "G.K.C., the Catholic who goes up in the air."
-Believing as I do in miracles, I have never claimed levitation
-as a power particularly likely to be manifested in my own case.
-But though not at present drawn irresistibly towards levitation, I am
-much tempted to levity.  The charges are rather vague, except that they
-all seem to be equally unfortunate in relation to the facts of the case.
-The writer seemed to take it for granted that an article quite
-plainly signed by somebody else must really have been written by me,
-and written by me from no other motive but a fanatical Catholicism,
-although the man who really wrote is not a Catholic at all
-and said nothing whatever to suggest in any way that he was.
-He, however, is supremely capable of looking after himself,
-and the mere facts about this absurd muddle I have dealt with elsewhere.
-At the moment I only wish to wallow in sheer shameless enjoyment
-of the way in which the Psychic News attacks the [[Catholic Church]]
-and attacks me.  I admit that this is mere [[Self|self]]-indulgence on my part.
-I know that numbers of judicious friends will tell me that I
-ought not to take any notice of such an article.  But nothing
-that can be called human is uninteresting, and this involves,
-to begin with, one puzzle which always interests me very much.
-And that is why people who fly into a rage with the [[Catholic Church]]
-always use an extraordinary diction, or verbal style, in which
-all sorts of incommensurate things are jumbled up together,
-so that the very order of the words is a joke.  "Spiritualism depends
-only on the evidence which people receive in their own homes.
-It does not require priests.  Neither do enquirers have to buy
-rosaries or beads, or crucifixes, or pay for candles or masses."
-It must be a dreadful moment of indecision for the enquirers, when they
-have to make up their minds whether they will buy rosaries or beads.
-But the last term is the best; and here the order of words is
-especially significant.  Apparently the first object of a Catholic
-is to get a candle.  If once he can get hold of a candle,
-and walk about everywhere clasping his candle, he is all right.
-But if he cannot get a candle, he has the alternative of purchasing
-a mass; an instrument that is a sort of substitute for a candle.
-
-Now I did not, as it happens, launch any grand persecuting personal
-spiritual attack on Spiritualism, as this writer imaginatively described.
-But if I did, as of course I might, I do think I could make a better
-job of attacking Spiritualism than he does of attacking Catholicism.
-I should not talk as if a Spiritualist hung suspended between the two
-divine dogmas of the Sacredness of Tambourines and the Return
-of the Dead.  I should not talk as if men chose between a planchette
-and a Ouija-board. I should not talk about "tables or furniture,"
-or imply that a trumpet was the same sort of thing as a seance.
-But I never read an attack on Catholicism without finding this ignorant
-gabble of terms all topsy-turvy. There is always some such medley
-of misused words, in which mitres, misereres, nones, albs, croziers,
-virgins and viaticums tumble over each other without the wildest
-[[Hope|hope]] that anybody could possibly know what any of them mean.
-That is the first curiosity about this kind of writing.
-We can now go back to the only sentence in the paragraph in which
-anything like a meaning is apparent.  It is that passage in which,
-we are told, Spiritualism does without a priesthood.
-
-It does not require priests.  It only requires a spiritual
-aristocracy really much more exclusive and privileged
-than priests; seeing they have direct access to new revelations,
-and their superiority is in their personal spiritual structure;
-they are abnormal as priests are not necessarily abnormal.
-But, however that may be, the paper in question reveals some
-remarkable impressions about spiritual functions and degrees.
-There is an astonishing caption under a picture of St. Joan
-of Arc; saying that she did not care whether she was a saint
-or a [[Witch|witch]], because "she had a job to do and did it."
-How refreshing this language is.  How full of the
-fifteenth century!  Joan was just all out to get that job.
-She reckoned she could hold down that job.  Gee!  Joan wasn't
-the sort of skirt to bother about whether it came from God
-or the Devil, when there was a good job to hold down.
-The paper informs us that its religion is entirely founded on facts;
-but it seems possible to manufacture a good deal of abstract
-vulgarity without employing them.  It were vain, I suppose,
-to point out the historical fact that Joan debated desperately
-for days and days to prove she was not a [[Witch|witch]], long after it
-was obvious that her job, as a job, was either done or done for.
-But might not the suggestion, that it does not matter whether
-one is a [[Witch|witch]] or a saint, explain something of the distrust
-that some of us feel about Spiritualism?
-
-As I am writing this for fun, I would not say very much about the central
-mystery of my own religion, or the laboriously offensive terms in which
-the writer asks me to "prove" Transubstantiation, as he apparently
-claims to "prove" Spiritualism.  To him I am content to say one thing.
-Suppose the Church had tried to give such proofs, and with such results.
-Suppose Pope after Pope, and Priest after Priest, had stood up at
-the altar rails promising on the spot to prove Transubstantiation.
-And suppose Pope after Pope, and Priest after Priest, had been exposed
-as proving it by a faked apparatus in the Communion Table, by hidden
-wires in the [[Cross|cross]] and candles, and all the apparatus of fraud.
-Suppose, while many priests were doubtless honest men and perhaps
-honest dupes, it was a plain, palpable historical fact that the miracle
-had again and again been a mere conjuring trick, and the most famous
-Catholic saints had been caught and exposed doing the trick.
-If that had happened, I venture to say that the Eucharistic Congress
-would not now be so much respected by the whole civilised world;
-or by everybody except the hooligans of Portadown and journalists
-of the Psychic News.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LEVITÀ, OVVERO LEVITAZIONE
-
-Non vedo perché un uomo non debba talvolta concedersi una vacanza, pur mentre attende al proprio lavoro, e scrivere di qualcosa unicamente perché lo diverte. So bene che dovrei compiere il mio dovere di distributista, compiendolo tetramente con la penna mentre altri già lo compiono più nobilmente con l'aratro. Ma, per una volta tanto, scriverò soltanto per divertimento; e di qualcosa solo perché è buffo. E la cosa più buffa che riesca a trovare nel raggio di miglia si trova in un giornale chiamato «Psychic News», un cui numero passato era ornato di un mio ritratto, accompagnato dalla straordinaria e piuttosto misteriosa didascalia: «G.K.C., il cattolico che si leva in aria». Pur credendo, come credo, nei miracoli, non ho mai rivendicato la levitazione come un potere particolarmente propenso a manifestarsi nel mio caso. Ma, per quanto al presente non sia irresistibilmente attratto verso la levitazione, sono assai tentato dalla levità. Le accuse sono piuttosto vaghe, salvo che paiono tutte egualmente sfortunate rispetto ai fatti del caso. Lo scrittore sembrava dare per scontato che un articolo firmato in modo del tutto chiaro da qualcun altro dovesse in realtà essere stato scritto da me, e scritto da me per nessun altro motivo se non un fanatico cattolicesimo, sebbene l'uomo che davvero lo scrisse non sia affatto cattolico e non abbia detto nulla che in alcun modo suggerisse di esserlo. Egli, tuttavia, è sommamente capace di badare a sé stesso, e i meri fatti circa questo assurdo pasticcio li ho trattati altrove. Per il momento desidero soltanto crogiolarmi nel puro e svergognato piacere del modo in cui la «Psychic News» attacca la [[Catholic Church|Chiesa cattolica]] e attacca me. Ammetto che questa è mera [[Self|autoindulgenza]] da parte mia. So che parecchi amici assennati mi diranno che non dovrei prestare alcuna attenzione a un simile articolo. Ma nulla che possa dirsi umano è privo d'interesse, e ciò comporta, tanto per cominciare, un enigma che sempre m'interessa moltissimo. Ed è il motivo per cui le persone che vanno su tutte le furie contro la [[Catholic Church|Chiesa cattolica]] usano sempre una dizione straordinaria, o stile verbale, in cui ogni sorta di cose incommensurabili sono ammucchiate insieme, tanto che il solo ordine delle parole è uno scherzo. «Lo spiritismo si fonda soltanto sulle prove che le persone ricevono nelle proprie case. Non richiede sacerdoti. Né gli indagatori devono comprare rosari o grani, o crocifissi, o pagare per candele o messe.» Dev'essere un terribile momento d'indecisione per gli indagatori, quando devono risolversi se comprare rosari o grani. Ma l'ultimo termine è il migliore; e qui l'ordine delle parole è particolarmente significativo. A quanto pare il primo scopo di un cattolico è procurarsi una candela. Se solo riesce a mettere le mani su una candela, e ad andare in giro dovunque stringendo la sua candela, è a posto. Ma se non riesce a procurarsi una candela, ha l'alternativa di acquistare una messa; uno strumento che è una sorta di succedaneo della candela.
-
-Ora, per come stanno le cose, io non ho affatto lanciato alcun grande attacco spirituale personale e persecutorio contro lo spiritismo, come questo scrittore ha immaginosamente descritto. Ma se l'avessi fatto, come di certo potrei, credo davvero che saprei fare un lavoro migliore nell'attaccare lo spiritismo di quanto egli non ne faccia nell'attaccare il cattolicesimo. Non parlerei come se uno spiritista pendesse sospeso tra i due dogmi divini della Sacralità dei Tamburelli e del Ritorno dei Morti. Non parlerei come se gli uomini scegliessero tra una planchette e una tavola Ouija. Non parlerei di «tavoli o mobilio», né lascerei intendere che una tromba fosse la stessa cosa di una seduta spiritica. Ma non ho mai letto un attacco al cattolicesimo senza trovarvi questo ignorante blaterare di termini tutti sottosopra. C'è sempre un qualche simile guazzabuglio di parole malmesse, in cui mitre, misereri, none, camici, pastorali, vergini e viatici si accavallano l'uno sull'altro senza la più sfrenata [[Hope|speranza]] che qualcuno possa mai sapere che cosa alcuno di essi significhi. Questa è la prima curiosità di questo genere di scrittura. Possiamo ora tornare all'unica frase del paragrafo in cui affiora qualcosa come un significato. È quel passo in cui, ci viene detto, lo spiritismo fa a meno di un sacerdozio.
-
-Non richiede sacerdoti. Richiede soltanto un'aristocrazia spirituale in realtà assai più esclusiva e privilegiata dei sacerdoti; giacché costoro hanno accesso diretto a nuove rivelazioni, e la loro superiorità sta nella loro personale struttura spirituale; essi sono anormali come i sacerdoti non sono necessariamente anormali. Ma, comunque stiano le cose, il giornale in questione rivela alcune notevoli impressioni circa le funzioni e i gradi spirituali. C'è una stupefacente didascalia sotto un'immagine di Santa Giovanna d'Arco; che dice come a lei non importasse d'essere una santa o una [[Witch|strega]], perché «aveva un lavoro da fare e lo fece». Com'è ristoratore questo linguaggio. Com'è pieno del quindicesimo secolo! Giovanna puntava dritta ad accaparrarsi quel lavoro. Riteneva di poter tenere ben saldo quel lavoro. Perbacco! Giovanna non era il tipo di gonnella da preoccuparsi se esso venisse da Dio o dal Diavolo, quando c'era un buon lavoro da tenersi stretto. Il giornale ci informa che la sua religione è interamente fondata sui fatti; ma pare possibile fabbricare una buona dose di volgarità astratta senza impiegarli. Sarebbe vano, suppongo, far notare il fatto storico che Giovanna disputò disperatamente per giorni e giorni per provare di non essere una [[Witch|strega]], molto dopo che era ovvio che il suo lavoro, come lavoro, era o compiuto o spacciato. Ma non potrebbe il suggerimento, che non importa se si è una [[Witch|strega]] o una santa, spiegare qualcosa della diffidenza che alcuni di noi provano verso lo spiritismo?
-
-Poiché scrivo questo per divertimento, non direi gran che circa il mistero centrale della mia religione, o i termini laboriosamente offensivi con cui lo scrittore mi chiede di «provare» la Transustanziazione, così come egli apparentemente pretende di «provare» lo spiritismo. A lui mi accontento di dire una cosa. Supponiamo che la Chiesa avesse tentato di dare simili prove, e con simili risultati. Supponiamo che Papa dopo Papa, e Sacerdote dopo Sacerdote, si fossero levati in piedi alla balaustra dell'altare promettendo lì per lì di provare la Transustanziazione. E supponiamo che Papa dopo Papa, e Sacerdote dopo Sacerdote, fossero stati smascherati mentre la provavano mediante un apparato truccato nella Mensa della Comunione, mediante fili nascosti nella [[Cross|croce]] e nelle candele, e tutto l'apparato della frode. Supponiamo che, mentre molti sacerdoti erano senza dubbio uomini onesti e forse onesti gabbati, fosse un chiaro, palpabile fatto storico che il miracolo era stato ancora e ancora un mero gioco di prestigio, e che i più famosi santi cattolici fossero stati colti e smascherati mentre facevano il trucco. Se ciò fosse accaduto, mi arrischio a dire che il Congresso Eucaristico non sarebbe ora tanto rispettato dall'intero mondo civile; o da chiunque tranne i teppisti di Portadown e i giornalisti della «Psychic News».
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_14_the_case_for_hermits" data-title="Well And Shallows — The Case For Hermits" data-chapter="The Case For Hermits" data-kind="story"></span>
-
-
-THE CASE FOR HERMITS
-
-ANYONE who has ever protected a little boy from being bullied at school,
-or a little girl from some childish persecution at a party, or any natural
-person from any minor nuisance, knows that the being thus badgered tends
-to cry out, in a simple but singular English idiom, "Let me [[Alone|alone]]!"
-It is seldom that the [[Child|child]] of [[Nature|nature]] breaks into the cry, "Let me enjoy
-the fraternal solidarity of a more socially organised group-life."
-It is rare even for the protest to leap to the lips in the form,
-"Let me run around with some crowd that has got dough enough to hit
-the high spots."  Not one of these positive modern ideals presents
-itself to that untutored mind; but only the ideal of being "let [[Alone|alone]]."
-It is rather interesting that so spontaneous, instinctive, almost animal
-an ejaculation contains the word [[Alone|alone]].
-
-There are now a great many boys and girls, both old and young,
-who are really in that state of mind; not only through being teased,
-but also through being petted.  Most of them will fiercely deny it,
-since it contradicts the conventions of their new generation;
-just as a [[Child|child]] kept up too late at [[Night|night]] will more and more
-indignantly deny the [[Desire|desire]] to go to bed.  Indeed I am always expecting
-to hear that a scientific campaign has been opened against [[Sleep]].
-Sooner or later the Prohibitionists will turn their attention to the old
-tribal traditional superstition of [[Sleep]]; and they will say that the
-sluggard is merely encouraged by the cowardice of the moderate sleeper.
-There will be tables of statistics, showing how many hours of output
-are lost by miners, smelters, plumbers, plasterers, and every trade
-in which (it will be noted) men have contracted the habit of [[Sleep|sleep]];
-tables showing the shortage of aconite, alum, apples, beef, beetroot,
-bootlaces, etc., and other statistics carefully demonstrating that
-work of this kind can only rarely be performed by [[Sleep|sleep]]-walkers.
-There will be all the scientific facts, except one scientific fact.
-And that is the fact that if men do not have [[Sleep]], they go mad.
-It is also a fact that if men do not have [[Solitude]], they go mad.
-You can see that, by the way they go on, when the poor miserable
-devils only have Society.
-
-The incident of Miss Fitzpatrick, the lady who really liked
-to be [[Alone|alone]], challenges all recent fashions, which are
-all for Society without [[Solitude]].  We must Get Together;
-as the gunman said when he ran his [[Machine|machine]]-gun into two other
-[[Machine|machine]]-guns and killed all the children caught between them.
-And we know that this sociability and communal organisation has
-already produced in fashionable society all that sweetness and light,
-all that courtesy and [[Charity|charity]], all that True [[Christianity]] of pardon
-and patience, which we see in the modern organisers of gangs
-or "group-life." In contrast with this happy mood now pervading
-our literature and conversation, it is customary to point
-to hermits and solitaries as if they were savages and man-haters.
-
-But it is not true.  It is not true in [[history|History]] or human fact.
-The line that ran, "Turn, gentle hermit of the Vale," was truer
-to the real tradition about the real hermits.  They were doubtless,
-from a modern standpoint, lunatics; but they were nice lunatics.
-Twenty touches could illustrate what I mean; for instance, the fact that
-they could make pets of the wild [[Animals|animals]] that came naturally to them.
-But many of them really had [[Charity|charity]]--even to human beings.
-They felt more kindly about men than men in the Forum or the Mart felt
-about each other.  Doubtless there have been merely sulky solitaries;
-unquestionably there have been sham cynics and cabotins, like Diogenes.
-But he and his sort are very careful not to be really solitary;
-careful to hang about the market-place like any demagogue.
-Diogenes was a tub-thumper, as [[Well|well]] as a tub-dweller. And that sort
-of professional sulks remains; but it is sulks without [[Solitude|solitude]].
-We all know there are geniuses, who must go out into polite society
-in order to be impolite.  We all know there are hostesses who collect
-lions and find they have got bears.  I [[Fear|fear]] there was a touch of that
-in the social legend of Thomas Carlyle and perhaps of Tennyson.
-But these men must have a society in which to be unsociable.
-The hermits, especially the saints, had a [[Solitude|solitude]] in which
-to be sociable.
-
-St. Jerome lived with a real [[Lion|lion]]; a good way to avoid being lionised.
-But he was very sociable with the [[Lion|lion]].  In his [[Time|time]], as in ours,
-sociability of the conventional sort had become social suffocation.
-In the decline of the Roman Empire, people got together in amphitheatres
-and public festivals, just as they now get together in trams and tubes.
-And there were the same feelings of mutual [[Love|love]] and tenderness,
-between two men trying to get a seat in the Colosseum, as there
-are now between two men trying to get the one remaining seat
-on a Tooting tram.  Consequently, in that last Roman phase,
-all the most amiable people rushed away into the [[Desert|desert]], to find
-what is called a hermitage; but might almost be called a holiday.
-The man was a hermit because he was more of a human being; not less.
-It was not merely that he felt he could get on better with a [[Lion|lion]]
-than with the sort of men who would throw him to the lions.
-It was also that he actually liked men better when they let him [[Alone|alone]].
-Now nobody expects anybody, except a very exceptional person, to become
-a complete solitary.  But there is a strong case for more [[Solitude]];
-especially now that there is really no [[Solitude]].
-
-The reason why even the normal human being should be half
-a hermit is that it is the only way in which his mind can have a
-half-holiday. It is the only way to get any fun even out of the facts
-of life; yes, even if the facts are games and dances and operas.
-It bears most resemblance to the unpacking of luggage.  It has been said
-that we live on a railway station; many of us live in a luggage van;
-or wander about the world with luggage that we never unpack at all.
-For the best things that happen to us are those we get out of what has
-already happened.  If men were honest with themselves, they would
-agree that actual social engagements, even with those they [[Love|love]],
-often seem strangely brief, breathless, thwarted or inconclusive.
-Mere society is a way of turning friends into acquaintances,
-rhe real profit is not in meeting our friends, but in having met them.
-Now when people merely plunge from crush to crush, and from
-crowd to crowd, they never discover the positive joy of life.
-They are like men always hungry, because their food never digests;
-also, like those men, they are [[Cross|cross]].  There is surely something the
-matter with modern life when all the literature of the young is so [[Cross|cross]].
-That is something of the secret of the saints who went into the [[Desert|desert]].
-It is in society that men quarrel with their friends; it is in [[Solitude|solitude]]
-that they forgive them.  And before the society-man criticises the saint,
-let him remember that the man in the [[Desert|desert]] often had a [[Soul|soul]] that was
-like a honey-pot of human kindness, though no man came near to taste it;
-and the man in the modern salon, in his intellectual hospitality,
-generally serves out wormwood for wine.
-
-In conclusion, I will take one very modern and even topical case.
-I do not believe in Communism, certainly not in compulsory Communism.
-And it is typical of this acrid age that what we all discuss
-is compulsory Communism.  I often sympathise with Communists,
-which is quite a different thing; but even these I respect rather
-as bold or honest or logical than as particularly genial or kindly.
-Nobody will claim that modern Communism is a specially
-sweet-tempered or amiable thing.  But if you will look up
-the legends of the earliest Hermits, you will find a very
-charming anecdote, about two [[Monks|monks]] who really were Communists.
-And one of them tried to explain to the other how it was
-that quarrels arose about private property.  So he thumped
-down a stone and observed theatrically, "This stone is mine."
-The other, slightly wondering at his taste, said, "All right;
-take it."  Then the teacher of economics became quite vexed
-and said, "No, no; you mustn't say that.  You must say it is yours;
-and then we can fight."  So the second hermit said it was his;
-whereupon the first hermit mechanically gave it up; and the whole
-lesson in Business Methods seems to have broken down.
-Now you may agree or disagree with the Communist ideal, of cutting
-oneself off from commerce, which those two ascetics followed.
-But is there not something to suggest that they were rather nicer
-people than the Communists we now meet in Society?  Somehow as
-if [[Solitude]] improved the temper?
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IN DIFESA DEGLI EREMITI
-
-CHIUNQUE abbia mai protetto un ragazzino dai soprusi a scuola, o una bambina da qualche puerile persecuzione a una festa, o una qualunque persona naturale da un qualsiasi piccolo fastidio, sa che l'essere così tormentato tende a gridare, in un'espressione inglese semplice ma singolare: «Lasciatemi [[Alone|solo]]!» È raro che il [[Child|figlio]] della [[Nature|natura]] prorompa nel grido: «Lasciatemi godere la solidarietà fraterna di una vita di gruppo socialmente più organizzata». È raro persino che la protesta balzi alle labbra nella forma: «Lasciatemi scorrazzare con qualche compagnia che abbia grana a sufficienza per spassarsela alla grande». Nessuno di questi positivi ideali moderni si presenta a quella mente non educata; ma soltanto l'ideale di essere «lasciato [[Alone|solo]]». È piuttosto interessante che un'esclamazione così spontanea, istintiva, quasi animale, contenga la parola [[Alone|solo]].
-
-Vi sono oggi moltissimi ragazzi e ragazze, vecchi e giovani insieme, che si trovano davvero in quello stato d'animo; non solo perché stuzzicati, ma anche perché vezzeggiati. La maggior parte di loro lo negherà con veemenza, poiché contraddice le convenzioni della loro nuova generazione; proprio come un [[Child|bambino]] tenuto alzato troppo tardi la [[Night|notte]] negherà con crescente indignazione il [[Desire|desiderio]] di andare a letto. In effetti mi aspetto sempre di sentire che è stata aperta una campagna scientifica contro il [[Sleep|Sonno]]. Prima o poi i Proibizionisti rivolgeranno la loro attenzione alla vecchia superstizione tribale e tradizionale del [[Sleep|Sonno]]; e diranno che il poltrone è semplicemente incoraggiato dalla codardia del dormitore moderato. Vi saranno tabelle di statistiche, che mostreranno quante ore di produzione vengano perdute da minatori, fonditori, idraulici, intonacatori, e ogni mestiere in cui (si noterà) gli uomini hanno contratto l'abitudine del [[Sleep|sonno]]; tabelle che mostreranno la penuria di aconito, allume, mele, manzo, barbabietole, stringhe da scarpe, ecc., e altre statistiche che dimostreranno accuratamente come un lavoro di questo genere possa solo di rado essere svolto da [[Sleep|sonnambuli]]. Vi saranno tutti i fatti scientifici, tranne un fatto scientifico. Ed è il fatto che se gli uomini non hanno il [[Sleep|Sonno]], impazziscono. È anche un fatto che se gli uomini non hanno la [[Solitude|Solitudine]], impazziscono. Lo si può vedere, dal modo in cui si comportano, quando i poveri disgraziati hanno soltanto la Società.
-
-L'episodio di Miss Fitzpatrick, la dama a cui piaceva davvero stare [[Alone|sola]], sfida tutte le mode recenti, tutte a favore della Società senza [[Solitude|Solitudine]]. Dobbiamo Fare Gruppo; come disse il pistolero quando scagliò la sua [[Machine|mitragliatrice]] contro altre due [[Machine|mitragliatrici]] e uccise tutti i bambini rimasti in mezzo a esse. E sappiamo che questa socievolezza e organizzazione comunitaria ha già prodotto nella società alla moda tutta quella dolcezza e luce, tutta quella cortesia e [[Charity|carità]], tutto quel vero [[Christianity|Cristianesimo]] di perdono e pazienza, che vediamo nei moderni organizzatori di bande o di «vita di gruppo». In contrasto con questo lieto umore che ora pervade la nostra letteratura e conversazione, è consuetudine additare gli eremiti e i solitari come se fossero selvaggi e misantropi.
-
-Ma non è vero. Non è vero né nella [[history|Storia]] né nei fatti umani. Il verso che diceva: «Volgiti, gentile eremita della Valle», era più fedele alla vera tradizione sui veri eremiti. Erano senza dubbio, da un punto di vista moderno, dei pazzi; ma erano simpatici pazzi. Venti tocchi potrebbero illustrare ciò che intendo; per esempio, il fatto che sapevano rendere domestici gli [[Animals|animali]] selvatici che spontaneamente venivano a loro. Ma molti di essi avevano davvero [[Charity|carità]]--persino verso gli esseri umani. Provavano più benevolenza per gli uomini di quanta ne provassero gli uni per gli altri gli uomini del Foro o del Mercato. Senza dubbio vi sono stati solitari meramente scontrosi; indubitabilmente vi sono stati falsi cinici e istrioni, come Diogene. Ma lui e i suoi pari hanno gran cura di non essere davvero solitari; cura di gironzolare per la piazza del mercato come qualsiasi demagogo. Diogene era un agitatore da botte, [[Well|oltre che]] un abitante della botte. E quel genere di broncio professionale permane; ma è broncio senza [[Solitude|solitudine]]. Sappiamo tutti che vi sono geni i quali devono uscire nella buona società per poter essere scortesi. Sappiamo tutti che vi sono padrone di casa che collezionano leoni e scoprono di aver preso orsi. [[Fear|Temo]] che vi fosse un tocco di questo nella leggenda mondana di Thomas Carlyle e forse di Tennyson. Ma questi uomini devono avere una società in cui essere asociali. Gli eremiti, specialmente i santi, avevano una [[Solitude|solitudine]] in cui essere socievoli.
-
-San Girolamo viveva con un vero [[Lion|leone]]; un buon modo per evitare di essere trattato da leone di società. Ma era molto socievole con il [[Lion|leone]]. Ai suoi [[Time|tempi]], come ai nostri, la socievolezza di tipo convenzionale era divenuta soffocazione sociale. Nel declino dell'Impero Romano, la gente si radunava negli anfiteatri e nelle feste pubbliche, proprio come oggi si raduna nei tram e nelle metropolitane. E vi erano gli stessi sentimenti di reciproco [[Love|amore]] e tenerezza, tra due uomini che cercavano di conquistare un posto nel Colosseo, di quanti ve ne siano ora tra due uomini che cercano di conquistare l'unico posto rimasto su un tram di Tooting. Di conseguenza, in quell'ultima fase romana, tutte le persone più amabili fuggivano nel [[Desert|deserto]], per trovare ciò che si chiama un eremo; ma che si potrebbe quasi chiamare una vacanza. L'uomo era eremita perché era più uomo; non meno. Non era soltanto che sentiva di poter andare più d'accordo con un [[Lion|leone]] che con il genere di uomini che l'avrebbero gettato ai leoni. Era anche che gli uomini gli piacevano davvero di più quando lo lasciavano [[Alone|solo]]. Ora nessuno si aspetta che qualcuno, tranne una persona eccezionalissima, diventi un solitario completo. Ma vi sono validi argomenti a favore di maggiore [[Solitude|Solitudine]]; specialmente ora che di [[Solitude|Solitudine]] non ve n'è davvero più.
-
-La ragione per cui persino il normale essere umano dovrebbe essere per metà eremita è che questo è l'unico modo in cui la sua mente può avere una mezza vacanza. È l'unico modo per trarre un po' di gioia perfino dai fatti della vita; sì, anche se i fatti sono giochi e balli e opere liriche. Assomiglia moltissimo al disfare i bagagli. È stato detto che viviamo in una stazione ferroviaria; molti di noi vivono in un vagone bagagli; o vagano per il mondo con bagagli che non disfano mai. Perché le cose migliori che ci accadono sono quelle che ricaviamo da ciò che è già accaduto. Se gli uomini fossero onesti con se stessi, converrebbero che gli effettivi impegni mondani, persino con coloro che [[Love|amano]], sembrano spesso stranamente brevi, affannosi, frustrati o inconcludenti. La mera società è un modo di trasformare gli amici in conoscenti; il vero profitto non sta nell'incontrare i nostri amici, ma nell'averli incontrati. Ora, quando la gente si limita a tuffarsi da calca a calca, e da folla a folla, non scopre mai la gioia positiva della vita. Sono come uomini sempre affamati, perché il loro cibo non si digerisce mai; e, come quegli uomini, sono [[Cross|di malumore]]. C'è certamente qualcosa che non va nella vita moderna quando tutta la letteratura dei giovani è così [[Cross|di malumore]]. Questo è in parte il segreto dei santi che andarono nel [[Desert|deserto]]. È nella società che gli uomini litigano con i loro amici; è nella [[Solitude|solitudine]] che li perdonano. E prima che l'uomo di mondo critichi il santo, si ricordi che l'uomo nel [[Desert|deserto]] aveva spesso un'[[Soul|anima]] simile a un vaso di miele di umana bontà, benché nessuno si avvicinasse ad assaggiarla; e l'uomo del moderno salotto, nella sua ospitalità intellettuale, generalmente mesce assenzio invece di vino.
-
-In conclusione, prenderò un caso molto moderno e persino d'attualità. Non credo nel Comunismo, certamente non nel Comunismo obbligatorio. Ed è tipico di questa età acre che ciò di cui tutti discutiamo sia il Comunismo obbligatorio. Spesso simpatizzo con i Comunisti, il che è cosa ben diversa; ma perfino costoro li rispetto più in quanto audaci o onesti o logici che in quanto particolarmente cordiali o benevoli. Nessuno sosterrà che il Comunismo moderno sia una cosa particolarmente amabile o di buon carattere. Ma se andrete a cercare le leggende dei primi Eremiti, troverete un aneddoto assai delizioso, su due [[Monks|monaci]] che erano davvero Comunisti. E uno di essi cercò di spiegare all'altro come nascessero le liti a proposito della proprietà privata. Così scagliò a terra una pietra e osservò teatralmente: «Questa pietra è mia». L'altro, un po' meravigliato di quel gusto, disse: «Va bene; prendila». Allora il maestro di economia si spazientì alquanto e disse: «No, no; non devi dire così. Devi dire che è tua; e allora possiamo litigare». Così il secondo eremita disse che era sua; al che il primo eremita gliela cedette meccanicamente; e l'intera lezione di Metodi Commerciali sembra essere fallita. Ora, potrete essere d'accordo o in disaccordo con l'ideale comunista, di tagliarsi fuori dal commercio, che quei due asceti seguivano. Ma non v'è forse qualcosa a suggerire che fossero persone piuttosto più simpatiche dei Comunisti che ora incontriamo in Società? Quasi come se la [[Solitude|Solitudine]] migliorasse il carattere?
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_15_killing_the_nerve" data-title="Well And Shallows — Killing The Nerve" data-chapter="Killing The Nerve" data-kind="story"></span>
-
-
-KILLING THE NERVE
-
-IT is now generally agreed, with great cheerfulness and good temper,
-that one of the chief features of the state of Peace we now enjoy
-is the killing of a considerable number of harmless human beings.
-We are not wild and reckless and pugnacious in such things,
-even as these Latins.  Relatively, we seem almost reconciled
-to the general notion of killing; so long as we can feel a real
-assurance that it is aimless and purposeless and fruitless.
-If an old woman is knocked down dead in the quiet village street
-where she played as a [[Child|child]], if a gutter-boy is not quite quick
-enough in getting out of the gutter and suffers the [[Death|death]] penalty
-for his negligence, we all agree that it is very regrettable.
-But it does not withdraw the attention of some of us from a quite
-exclusive concentration upon the horrors of war, because nobody
-could confuse an old woman crossing the [[Road|road]] with an old-world
-[[Romance|romance]] in any way connected with adventure or valour;
-and the boy has not ventured into the [[Road|road]] (thank God) under any
-delusion that he is sacrificing himself for his native land.
-If [[Death|death]] strikes down suddenly somebody who does not expect to die,
-and is not deceived by any nonsense about being faithful unto
-[[Death|death]] ... 0 [[Death|death]], where is thy sting?  If a tramp is taken
-to a pauper's [[Grave|grave]] unstained by any hopes or [[Dreams|dreams]] of war
-or revolution, or any vision of justice victorious.  ... 0 [[Grave|grave]],
-where is thy victory?  It is obvious that [[Death|death]] is a very different
-thing when it is the product of such peaceful surroundings.
-The modern version of Killing No Murder is that only militarism
-is murder; and there is nothing wrong with killing when it
-is not military.
-
-But I have here introduced the word killing in a lighter sense;
-even lighter than that in which some progressives take the killing
-in the streets.  For there are other things, though they are things
-less vivid and less sacred, which are killed in the streets.
-Even as it is we use the word "kill" in a more metaphorical sense.
-For instance, we talk of colours killing each other.
-And, as one example out of many, it may be noted that we do live
-in a scheme of social life in which colours kill each other.
-That is, we live in a world which gives us a vast
-exhibition of that vividness which is symbolised by colour,
-but which is wholly without that concerted [[unity]] of rule
-or tradition which is symbolised by harmony in colour.
-The illuminated advertisements of a big [[City|city]] like [[London]],
-which is now in this respect almost indistinguishable from [[New York]],
-exhibit exactly that contradiction between colour and design.
-The design, even in the sense of the purpose, is patchy and personal
-and not only vulgar but essentially venal.  The colour is often
-the best and most beautiful experience given to the senses
-of man, if only man were in a position to make the best of it.
-The psychological effect produced by random commercial
-illumination is something which is to the real possibilities
-of colour what a drunken slumber is to the divine gift of wine.
-Or rather, it should be compared to that habit, which springs up
-so easily in Prohibitionist or semi-Prohibitionist countries,
-of trying to get the best out of the divine gift of wine by
-preceding it with excessive quantities of whisky, following it
-by equally excessive quantities of beer, or possibly beginning
-the whole banquet with liqueurs and ending it with cocktails.
-In short, Prohibitionists get drunk because they have never
-been taught to drink; and commercial advertising wastes its
-artistic materials, even when it possesses them, because it
-has never been taught to colour or even to enjoy colours.
-Colours are being killed; and they are being killed by being
-worked to [[Death|death]].  The nerve is being killed; and it is being
-killed by being overstimulated and therefore stunted and stunned.
-
-When I was a [[Child|child]], I had a toy-theatre, illuminated in those days
-by candles (to which perhaps the psycho-analyst will trace my
-subsequent downfall into ecclesiastical crypts and cloisters)
-and in the ordinary way I was quite content with this type
-of illumination, the candles seeming to my barbarous mind to be
-themselves like a forest of fairy trees, with flames for [[Flowers|flowers]].
-There were also yet more rich and rare delights, which were sufficiently
-rare to those not sufficiently rich.  It was sometimes possible
-to purchase a sort of dark red powder, which when ignited burst
-into a rich red light.  [[Fire]] was wonderful enough--but red [[Fire|fire]]!
-But then I was only a dull Victorian infant somewhere between five
-and seven; and I only used red [[Fire|fire]] rarely; when it was effective.
-Living under such limitations, my immature brain perceived that it
-was more suitable to some things than to others; as, for instance,
-to a goblin coming up through a trap-door out of the cavern of the [[King]]
-of the Copper Mines, or to the final conflagration that made a crimson
-halo round the dark mill and [[Castle|castle]] of the execrable Mad Miller.
-I should not even then have used red [[Fire|fire]] in a scene showing
-the shepherd (doubtless a prince in disguise) piping to his lambs
-in the pale green meadows of [[spring]]; or in a scene in which glassy
-gauzes of green and blue waved in the manner of waves round
-the cold weeds and fishes at the entrance to Davy [[Jones]]'s Locker.
-Science and progress and practical [[Education|education]] and knowledge of
-the world are necessary before people can make blunders like that.
-Therefore, that red [[Fire|fire]] of the nursery still glows in my [[Memory|memory]] as an
-inward imaginative revelation, in spite of years, in spite of [[Time|time]],
-in spite even of passing through the streets of modern [[London]].
-
-In the [[London]] streets to-day, in what Mr. Cuthbert Baines
-has so vividly called, "the floodlit, bloodlit street,"
-the rare effect of red [[Fire|fire]] is wholly wasted and ruined,
-by the loss of its rarity and by the loss of its suitability.
-The [[Child|child]] who has been made too familiar with all that redhot
-lettering will probably never have the [[Romance|romance]] that I
-remember in my [[Childhood|childhood]]; and it is perhaps strictly true
-to say that he will never see red [[Fire|fire]] in his life.
-First, of course, because he has seen too much of it.
-For this is not the decorative process of using red in a scheme
-of colour; it is simply the dull process of painting the town red.
-But second, also, because the toy-theatre showed him little
-pictures of large things; and the town signs show him large
-pictures of little things.  He will very soon discover that
-the ideas associated with these signs, the motives of the men
-who put them up, the mood of the men who accept them, are things
-connected entirely with dreary money-grubbing or shoddy luxury.
-He will be unable to get any great vista or vision out
-of a glimpse; he will know nothing but a glaring wilderness
-of proclamations that have emphasis without significance;
-and will grow up without any poetical associations with a colour
-he has only seen used to sell a cosmetic or a quack medicine.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-UCCIDERE IL NERVO
-
-È ormai opinione generalmente condivisa, con grande allegria e buon umore, che uno dei tratti principali dello stato di Pace di cui ora godiamo sia l'uccisione di un considerevole numero di innocui esseri umani. Non siamo selvaggi, temerari e bellicosi in tali faccende, come invece questi Latini. In termini relativi, sembriamo quasi rassegnati all'idea generale dell'uccidere; purché possiamo avere la reale certezza che essa sia senza scopo, senza fine e senza frutto. Se una vecchia viene abbattuta e uccisa nella quieta via del villaggio dove giocava da [[Child|bambina]], se un monello di strada non è abbastanza svelto a togliersi dal rigagnolo e sconta la pena di [[Death|morte]] per la sua negligenza, tutti conveniamo che è cosa assai deplorevole. Ma ciò non distoglie l'attenzione di alcuni di noi da una concentrazione del tutto esclusiva sugli orrori della guerra, poiché nessuno potrebbe confondere una vecchia che attraversa la [[Road|strada]] con un [[Romance|romanzo]] d'altri tempi in qualche modo legato all'avventura o al valore; e il ragazzo non si è avventurato nella [[Road|strada]] (grazie a Dio) sotto l'illusione di sacrificarsi per la propria terra natia. Se la [[Death|morte]] abbatte all'improvviso qualcuno che non si aspetta di morire, e non è ingannato da alcuna sciocchezza sull'essere fedele fino alla [[Death|morte]]... 0 [[Death|morte]], dov'è il tuo pungiglione? Se un vagabondo viene portato alla [[Grave|fossa]] di un povero, non macchiata da alcuna speranza o [[Dreams|sogno]] di guerra o di rivoluzione, né da alcuna visione di giustizia vittoriosa... 0 [[Grave|fossa]], dov'è la tua vittoria? È ovvio che la [[Death|morte]] sia cosa assai diversa quando è il prodotto di simili circostanze pacifiche. La versione moderna del Uccidere Non è Assassinare è che soltanto il militarismo è assassinio; e non c'è nulla di male nell'uccidere quando non è cosa militare.
-
-Ma io ho qui introdotto la parola uccidere in un senso più leggero; persino più leggero di quello in cui certi progressisti prendono l'uccisione nelle strade. Poiché vi sono altre cose, benché siano cose meno vivide e meno sacre, che vengono uccise nelle strade. Anche così come stanno le cose, noi usiamo la parola «uccidere» in un senso più metaforico. Per esempio, diciamo che i colori si uccidono a vicenda. E, come uno fra i tanti esempi, si può notare che noi viviamo davvero in un ordinamento di vita sociale in cui i colori si uccidono a vicenda. Vale a dire, viviamo in un mondo che ci offre una vasta esibizione di quella vividezza che è simboleggiata dal colore, ma che è del tutto priva di quella concertata [[unity]] di regola o di tradizione che è simboleggiata dall'armonia nel colore. Le insegne pubblicitarie luminose di una grande [[City|città]] come [[London|Londra]], che sotto questo riguardo è ormai quasi indistinguibile da [[New York]], esibiscono esattamente quella contraddizione tra colore e disegno. Il disegno, persino nel senso dell'intento, è disordinato e personale e non solo volgare ma essenzialmente venale. Il colore è spesso l'esperienza migliore e più bella data ai sensi dell'uomo, se solo l'uomo fosse in condizione di trarne il meglio. L'effetto psicologico prodotto dall'illuminazione commerciale casuale è, rispetto alle reali possibilità del colore, ciò che un sonno da ubriaco è al dono divino del vino. O piuttosto, andrebbe paragonato a quell'abitudine, che nasce così facilmente nei paesi proibizionisti o semi-proibizionisti, di cercare di trarre il meglio dal dono divino del vino facendolo precedere da quantità eccessive di whisky, seguire da quantità altrettanto eccessive di birra, o magari cominciando l'intero banchetto con liquori e concludendolo con cocktail. In breve, i proibizionisti si ubriacano perché non hanno mai imparato a bere; e la pubblicità commerciale sperpera i propri materiali artistici, persino quando li possiede, perché non ha mai imparato a colorare né tantomeno a godere dei colori. I colori vengono uccisi; e vengono uccisi facendoli lavorare fino alla [[Death|morte]]. Il nervo viene ucciso; e viene ucciso venendo iperstimolato e perciò atrofizzato e stordito.
-
-Quando ero [[Child|bambino]], avevo un teatrino di cartone, illuminato a quei tempi da candele (alle quali forse lo psicanalista farà risalire la mia successiva rovinosa caduta nelle cripte e nei chiostri ecclesiastici) e nel modo consueto ero del tutto pago di questo tipo di illuminazione, poiché le candele parevano alla mia mente barbara come una foresta di alberi fatati, con fiamme in luogo di [[Flowers|fiori]]. Vi erano anche delizie ancor più ricche e rare, che erano abbastanza rare per chi non era abbastanza ricco. A volte era possibile acquistare una sorta di polvere rosso scuro, che accesa divampava in una ricca luce rossa. Il [[Fire|fuoco]] era già di per sé meraviglioso—ma il [[Fire|fuoco]] rosso! Ma allora io ero soltanto un ottuso bimbo vittoriano fra i cinque e i sette anni; e usavo il [[Fire|fuoco]] rosso soltanto di rado; quando faceva effetto. Vivendo entro tali limitazioni, il mio cervello immaturo intuiva che esso si adattava ad alcune cose più che ad altre; come, per esempio, a un folletto che sbucava da una botola dalla caverna del [[King|Re]] delle Miniere di Rame, o alla conflagrazione finale che cingeva d'un alone cremisi il tetro mulino e [[Castle|castello]] dell'esecrabile Mugnaio Pazzo. Non avrei usato, neppure allora, il [[Fire|fuoco]] rosso in una scena che mostrava il pastore (senza dubbio un principe travestito) intento a suonare il flauto ai suoi agnelli nei pallidi verdi prati di [[spring]]; o in una scena in cui garze vitree di verde e d'azzurro ondeggiavano a mo' di onde attorno alle fredde alghe e ai pesci all'ingresso dello Scrigno di Davy [[Jones]]. Occorrono la scienza e il progresso e l'[[Education|istruzione]] pratica e la conoscenza del mondo prima che la gente possa commettere sbagli simili. Perciò, quel [[Fire|fuoco]] rosso della stanza dei bambini ancora arde nella mia [[Memory|memoria]] come un'interiore rivelazione immaginativa, a dispetto degli anni, a dispetto del [[Time|tempo]], a dispetto persino dell'attraversare le strade della moderna [[London|Londra]].
-
-Nelle strade di [[London|Londra]] d'oggi, in ciò che il signor Cuthbert Baines ha così vividamente chiamato «la strada inondata di luce, inondata di sangue», il raro effetto del [[Fire|fuoco]] rosso è del tutto sprecato e rovinato, per la perdita della sua rarità e per la perdita della sua idoneità. Il [[Child|bambino]] che è stato reso troppo familiare con tutte quelle scritte incandescenti probabilmente non avrà mai il [[Romance|fascino]] che io ricordo nella mia [[Childhood|fanciullezza]]; ed è forse rigorosamente vero dire che egli non vedrà mai il [[Fire|fuoco]] rosso in vita sua. In primo luogo, naturalmente, perché ne ha visto troppo. Poiché questo non è il decorativo procedimento di usare il rosso in uno schema di colore; è semplicemente l'ottuso procedimento di dipingere la città di rosso. Ma, in secondo luogo, anche perché il teatrino di cartone gli mostrava piccole immagini di grandi cose; e le insegne cittadine gli mostrano grandi immagini di piccole cose. Egli scoprirà ben presto che le idee associate a queste insegne, i moventi degli uomini che le hanno affisse, l'animo degli uomini che le accettano, sono cose interamente connesse con squallida avidità di denaro o con lusso dozzinale. Egli non riuscirà a trarre alcuna grande prospettiva o visione da un barlume; non conoscerà nulla se non uno sfolgorante deserto di proclami che hanno enfasi senza significato; e crescerà senza alcuna associazione poetica con un colore che ha visto usare soltanto per vendere un cosmetico o una medicina da ciarlatano.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_16_the_case_of_claudel" data-title="Well And Shallows — The Case Of Claudel" data-chapter="The Case Of Claudel" data-kind="story"></span>
-
-
-THE CASE OF CLAUDEL
-
-I HAVE heard a story, which I have never verified either
-by [[history]] or topography, otherwise known as being on the spot,
-to the effect that the French Academy accepted the accident of
-the absence of Molière from its records with a magnificent gesture.
-It may have been only a tradition about something that somebody
-planned to do; it may even have been only a tale of somebody
-about what ought to be done; but it is exactly the sort of
-tradition that would represent the nation; and it is exactly
-the sort of thing that Frenchmen would or could have done.
-The French Academy, founded by Richelieu for the establishment
-of classical literature in the country, naturally passed over
-a wandering play-actor and playwright like Molière; just as [[Oxford]]
-and Cambridge would have passed over a wandering play-actor
-and playwright like Shakespeare.  But here the story, even if it
-is only a story, strikes the note that only the French can strike.
-For it was said that the French Academy erected in its inner
-courts a special statue of Molière, with the [[Inscription|inscription]] "Rien
-ne manque à sa gloire; il manque à la notre" ... and if you
-want to know what is the difference between the atmosphere
-of France and England, both of them very jolly atmospheres
-in their way, you have only to imagine anybody making, or even
-anybody suggesting, a public apology of that sort to Shakespeare.
-Can you imagine a huge statue of Shakespeare in Balliol Quod,
-inscribed with the statement, "Shakespeare never went to Balliol."
-Can you conceive even Cambridge rearing a colossal monument to Dickens,
-to celebrate the fact that he never had a University [[Education|education]]--
-or indeed any other [[Education|education]]?  If that story about Molière
-is true, or even if it is a true [[Parable|parable]] or [[Fable|fable]], there is an
-obvious moral to the [[Fable|fable]].  The English rather ignore defeats;
-the French rather exaggerate defeats; but the French do sometimes
-have the talent of snatching victories out of defeats.
-
-A little while ago, to my great regret, the French Academy
-suffered a very serious defeat.  It was when it preferred
-a clever writer of rather decadent verse to Paul Claudel;
-but nobody supposes, I [[Hope|hope]], that it was M. Claudel who was defeated.
-If we are to talk about anybody really great being defeated,
-let us say that Richelieu was defeated.  A man of the first rank
-of French Letters, which the great Cardinal loved, and the Catholic
-culture which he also loved, with all his diplomatic and even
-unscrupulous encouragement of those who hated it, has been met
-with a sort of mute resistance; presumably by those who hated
-more than the most unscrupulous Cardinal could ever do.
-Without presuming to pronounce upon the literary comparison,
-it is enough to say that even if the Academy were right, it would
-here prove itself entirely academic.  It would be proved in the fact
-that nobody in the literary world has heard of Claudel's rival;
-and everybody in the literary world, has heard of Claudel.
-He is recognised as standing for something quite literally
-from China to Peru; at least from Japan to Washington.
-It looks as if the Academy has made one of its rather rare mistakes;
-and without the obvious excuses which applied to the case of
-Molière. And it looks as if there might some day be another statue,
-with another [[Inscription|inscription]]:  "Nothing is wanting to his glory;
-but he is wanting to ours."
-
-There is no space here even to suggest the sumptuous
-wealth of images and ideas in the work of Paul Glaudel.
-It is only important to note the fact, as a fact of [[history]]
-rather than of literature, that it is on his side, and not on
-the other side, that the wealth of ideas can now be found.
-It might very [[Well|well]] happen, at one [[Time|time]] it probably did happen,
-that the historic culture he represents had dwindled down to
-narrow channels and rare and isolated notes; like the last pipe
-of the [[Pastoral|pastoral]] poets that sounded from the eighteenth-century
-clerics imitating the [[innocence]] of the Georgics; or that Irish
-harp of which a single string snapped whenever a heart had
-broken for liberty.  But to-day it is exactly the other way.
-It is the rationalistic tradition of the nineteenth
-century that has narrowed into monotony and repetition.
-It is the [[artist]] who is an atheist who has taken refuge in
-a [[Garden|garden]], to escape from the cry of all the ancient Christian
-civilization for the ploughing of all the fields of the earth.
-It is the musical instrument of the modernist that has broken
-all its strings but one, like the lute in the agnostic
-picture of [[Hope]]; and continues to strike the same few chords
-of [[Truth|truth]] remaining to it, but drearily and all on one note.
-Nobody denies, and certainly I do not deny, that the truths
-of the emancipated epoch are still true, even when thus
-isolated and irrelevant; just as the spiritual truths were
-still true, even when repeated mechanically by the [[Court|court]]
-chaplains or stale preachers of the eighteenth century.
-But in the matter of fullness, of richness, and of variety,
-the whole advantage is now with the ancient cause.
-The thoughts that throng in a sort of hubbub, in a work
-like The Satin Slipper, are like a crowd of living men
-bursting the barriers of a deserted fortress.  It is Claudel
-or the same type of man who is now storming the Bastille;
-a [[Prison|prison]] with all the harshness and inhumanity of a [[Prison|prison]],
-except that it now contains fewer and fewer prisoners.
-An empty [[Prison|prison]] may be almost more depressing than a full [[Prison|prison]];
-and such an empty [[Prison|prison]] is the tradition of academic
-scepticism to-day. Prejudice, the very spirit of a [[Prison|prison]],
-[[Alone|alone]] shuts out the new generation from the full realization of
-the greater fruitfulness promised by the revival of Christendom.
-In one sense we may agree with all the old and weary
-journalists who say that the age is to be the age of Youth;
-but its most youthful manifestation is in something that renews
-its youth like the eagle.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IL CASO CLAUDEL
-
-HO udito una storia, che non ho mai verificato né mediante la [[history|storia]] né mediante la topografia, altrimenti nota come l'essere sul posto, secondo cui l'Accademia di Francia accolse con un gesto magnifico il fatto accidentale dell'assenza di Molière dai suoi registri. Può darsi che fosse soltanto una tradizione riguardo a qualcosa che qualcuno progettò di fare; può persino darsi che fosse soltanto un racconto di qualcuno su ciò che si sarebbe dovuto fare; ma è esattamente il genere di tradizione che rappresenterebbe la nazione; ed è esattamente il genere di cosa che i francesi avrebbero fatto o avrebbero potuto fare. L'Accademia di Francia, fondata da Richelieu per l'affermazione della letteratura classica nel paese, naturalmente sorvolò su un attore girovago e commediografo come Molière; proprio come [[Oxford]] e Cambridge avrebbero sorvolato su un attore girovago e commediografo come Shakespeare. Ma qui la storia, anche se è soltanto una storia, coglie quella nota che solo i francesi sanno cogliere. Poiché si diceva che l'Accademia di Francia avesse eretto nei suoi cortili interni una statua speciale di Molière, con l'[[Inscription|iscrizione]] «Rien ne manque à sa gloire; il manque à la notre»... e se volete sapere qual è la differenza tra l'atmosfera della Francia e quella dell'Inghilterra, entrambe atmosfere assai gioviali a modo loro, non avete che da immaginare qualcuno che rivolga, o anche solo che proponga, una pubblica scusa di quel genere a Shakespeare. Potete immaginare un'enorme statua di Shakespeare nel cortile del Balliol, incisa con la dichiarazione «Shakespeare non frequentò mai il Balliol». Potete concepire persino Cambridge che erige un colossale monumento a Dickens, per celebrare il fatto che egli non ebbe mai un'[[Education|istruzione]] universitaria — o invero alcuna altra [[Education|istruzione]]? Se quella storia su Molière è vera, o anche se è una vera [[Parable|parabola]] o [[Fable|favola]], vi è un'ovvia morale nella [[Fable|favola]]. Gli inglesi tendono piuttosto a ignorare le sconfitte; i francesi tendono piuttosto a esagerare le sconfitte; ma i francesi hanno talvolta il talento di strappare vittorie alle sconfitte.
-
-Poco tempo fa, con mio grande rammarico, l'Accademia di Francia subì una sconfitta assai grave. Fu quando preferì un abile scrittore di versi alquanto decadenti a Paul Claudel; ma nessuno suppone, lo [[Hope|spero]], che sia stato il signor Claudel a essere sconfitto. Se dobbiamo parlare di qualcuno veramente grande che è stato sconfitto, diciamo che fu Richelieu a essere sconfitto. Un uomo del primo rango delle Lettere francesi, che il grande Cardinale amava, e la cultura cattolica che egli parimenti amava, con tutto il suo diplomatico e persino spregiudicato incoraggiamento di coloro che la odiavano, si è visto opporre una sorta di muta resistenza; presumibilmente da parte di coloro che la odiavano più di quanto il più spregiudicato dei Cardinali potesse mai fare. Senza presumere di pronunciarmi sul confronto letterario, basti dire che, anche se l'Accademia avesse ragione, essa si dimostrerebbe qui interamente accademica. Lo si proverebbe nel fatto che nessuno nel mondo letterario ha sentito parlare del rivale di Claudel; e tutti nel mondo letterario hanno sentito parlare di Claudel. Egli è riconosciuto come rappresentante di qualcosa, letteralmente, dalla Cina al Perù; o almeno dal Giappone a Washington. Sembra che l'Accademia abbia commesso uno dei suoi errori piuttosto rari; e senza le ovvie scusanti che si applicavano al caso di Molière. E sembra che un giorno possa esservi un'altra statua, con un'altra [[Inscription|iscrizione]]: «Nulla manca alla sua gloria; ma egli manca alla nostra».
-
-Non v'è qui spazio nemmeno per suggerire la sontuosa ricchezza di immagini e di idee nell'opera di Paul Claudel. È soltanto importante notare il fatto, come un fatto di [[history|storia]] più che di letteratura, che è dalla sua parte, e non dall'altra parte, che la ricchezza delle idee può ora essere trovata. Potrebbe assai [[Well|bene]] accadere, e in un certo [[Time|tempo]] probabilmente accadde, che la cultura storica che egli rappresenta si fosse ridotta a canali angusti e a note rare e isolate; come l'ultimo zufolo dei poeti [[Pastoral|pastorali]] che risuonava dagli ecclesiastici del Settecento che imitavano l'[[innocence|innocenza]] delle Georgiche; o come quell'arpa irlandese di cui una singola corda si spezzava ogni volta che un cuore si era infranto per la libertà. Ma oggi è esattamente il contrario. È la tradizione razionalistica dell'Ottocento che si è ristretta nella monotonia e nella ripetizione. È l'[[artist|artista]] ateo che si è rifugiato in un [[Garden|giardino]], per sfuggire al grido di tutta l'antica civiltà cristiana che reclamava l'aratura di tutti i campi della terra. È lo strumento musicale del modernista che ha spezzato tutte le sue corde tranne una, come il liuto nel quadro agnostico della [[Hope|Speranza]]; e continua a percuotere i pochi accordi di [[Truth|verità]] che gli restano, ma tetramente e tutti su una sola nota. Nessuno nega, e certo io non nego, che le verità dell'epoca emancipata siano ancora vere, anche quando così isolate e irrilevanti; proprio come le verità spirituali erano ancora vere, anche quando ripetute meccanicamente dai cappellani di [[Court|corte]] o dai predicatori stantii del Settecento. Ma in materia di pienezza, di ricchezza e di varietà, tutto il vantaggio è ora dalla parte dell'antica causa. I pensieri che si accalcano in una sorta di tumulto, in un'opera come La scarpina di raso, sono come una folla di uomini vivi che sfondano le barriere di una fortezza deserta. È Claudel, o lo stesso tipo d'uomo, che ora prende d'assalto la Bastiglia; una [[Prison|prigione]] con tutta la durezza e l'inumanità di una [[Prison|prigione]], salvo che ora contiene sempre meno prigionieri. Una [[Prison|prigione]] vuota può essere quasi più deprimente di una [[Prison|prigione]] piena; e tale [[Prison|prigione]] vuota è oggi la tradizione dello scetticismo accademico. Il Pregiudizio, il vero spirito di una [[Prison|prigione]], da [[Alone|solo]] esclude la nuova generazione dalla piena realizzazione della maggiore fecondità promessa dal risveglio della Cristianità. In un senso possiamo convenire con tutti i vecchi e stanchi giornalisti che dicono che l'età dev'essere l'età della Giovinezza; ma la sua manifestazione più giovanile è in qualcosa che rinnova la propria giovinezza come l'aquila.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_18_the_backward_bolshie" data-title="Well And Shallows — The Backward Bolshie" data-chapter="The Backward Bolshie" data-kind="story"></span>
-
-
-THE BACKWARD BOLSHIE
-
-AFTER all, the Bolshevist is really a Victorian.  His is a
-nineteenth-century dream, even if it be a twentieth-century reality.
-It is notably so in the aspect which now makes the dream a [[nightmare]];
-I mean the mad optimism about the advantages of machinery.
-What was offered to us as a Five Years Hence Plan ought really to have
-been called a Fifty Years Ago Plan.  For they are only trying to do
-with [[Russia]] exactly what the Victorians did actually do with England;
-turn it into the workshop of the world and fill it with dirty tools
-and dismal mechanics.  Marx was much more of a Victorian than Morris.
-He may not have been technically a subject of [[Queen]] Victoria, though it
-is quite likely that he was.  By geographical extraction I suppose
-he was a German--like [[Queen]] Victoria's husband and more remotely,
-[[Queen]] Victoria herself.  By real or racial extraction he was a Jew;
-like [[Queen]] Victoria's favourite Prime Minister and a good many other
-persons unnecessary to mention.  But the late Victorian period was
-the very period at which the Jews, and especially the German Jews,
-were at the very top of their power and influence.  From the [[Time|time]]
-when they forced the Egyptian War to the [[Time|time]] when they forced
-the South African War, they were imperial and immune.  Certainly much
-more so than they are now; for the Jews are now being jumped on very
-unjustly in [[Germany]] itself, and old Victorians like Mr. Belloc and myself,
-who began in the days of Jewish omnipotence by attacking the Jews,
-will now probably die defending them.  Anyhow, Karl Marx did not
-differ from any number of Victorian Jews in type or externals.
-He lived mostly in England, and launched his world religion from
-something more British than the British Empire:  the British Museum.
-The Beard which moves Mr. Wells to impatience was simply the beard
-of Victorian [[Romance|romance]]; the beard of Tennyson and Longfellow and Trollope.
-And though his plan has been very imperfectly applied in the one place
-in the world where he would have said it could not be applied at all
-(for this true Victorian saw the great commercial cities of Western Europe
-as the only possible battlefields of the future) it has all the character
-of a new and rather barbaric people imitating something that is
-already stale, not to say stinking, for civilised people.  It was exactly
-like the very Victorian incident of the industrialising of Japan.
-That is, it was and is something essentially behind the times.
-The Japanese wear billycock hats presumably under the impression that we
-admire billycock hats.  But, whatever just vengeance may fall upon
-our hats, this is to do an injustice to our heads.  Now, as a matter
-of fact, our heads have in many ways advanced a little, since the days
-when our own Five Year Plan filled England with filth and smoke.
-Some rather deeper questions have arisen; questions about the individual,
-about the purpose of life, about religion in [[history]], and so on.
-[[philosophy|Philosophy]], even Thomist [[philosophy]], is heard again in [[Paris]] and [[Oxford]].
-
-Now Marx had no more [[philosophy]] than Macaulay.  The Marxians
-therefore have no more [[philosophy]] than the Manchester School.
-It was enough for Macaulay to rejoice in the mere excitement
-of extension, in the [[Hope|hope]] that "the roofs and chimneys of a new
-Manchester may rise in the wilds of Connemara."  Similarly, it is
-enough for the Moscow Marxians to [[Hope|hope]] that the roofs and
-chimneys of a new Manchester may rise in the wilds of Siberia.
-It is true that the original Manchester men desired competition
-while the Marxians [[Desire|desire]] combination; or the Combine
-of All Combines.  But the competition ended in a Combine
-and the Combine has not really ended in a Communist State.
-For it seems clear that grades of unequal wages do exist in
-Bolshevist [[Russia]], and the Bolshevist rulers can only explain
-that it is a temporary necessity at this political stage and
-that true, pure, perfect Communism will come in the future.
-It might be the Labour Party, mightn't it?
-
-But to carry competition to any lengths, because it is the fashion,
-or to carry combination to any lengths because it is the fashion,
-is not a [[philosophy|Philosophy]].  A [[philosophy]] begins with Being; with the end
-and value of a living thing; and it is manifest that a materialism
-that only considers economic ethics, cannot cover the question at all.
-If the problem of happiness were so solved by economic comfort,
-the classes who are now comfortable would be happy, which is absurd.
-This humourless hammering on one note is like the worst Victorian fads;
-Temperance or Feminism.  It is especially like that very old-fashioned
-Feminism that hated to be feminine.  I am told that in [[Russia]] men
-and women dress roughly alike.  But, mark you, that does not mean
-that men wear [[Flowers|flowers]] in their hair or trail about in those noble
-pontifical robes with which tradition clothed every woman like a [[Queen|queen]].
-It means that women dress like men; not that men dress like women.
-Now that is sheer stark, stale, dead Victorianism.
-That is the only original Woman's Rights Woman, who deliberately made
-herself hideous with bloomers and goggles.  By the following reigns,
-even the Suffragettes had learned better than that; but while
-the Suffragettes are things of the past for us, they are still
-far in the rosy future for the backward and belated Bolshevist.
-He is still plodding through that foggy factory twilight that was
-supposed to be the enlightened daylight of the nineteenth century;
-and it is truer now than in the [[Time|time]] of the Czars to say that [[Russia]]
-is the most backward of the nations.
-
--/-
-
-
-
-
-<span class="atom-split" data-atom="story_19_the_last_turn" data-title="Well And Shallows — The Last Turn" data-chapter="The Last Turn" data-kind="story"></span>
-
-
-THE LAST TURN
-
-THE only difficulty about the evident reawakening of Catholicism in
-modern England, is that [[Conversion|conversion]] calls on a man to stretch his mind,
-as a man awakening from a [[Sleep|sleep]] may stretch his arms and legs.
-It calls on the [[Imagination|imagination]] to stretch itself, for instance, over a
-wider area than England, and a longer period than English [[history]].
-And, for certain rather curious reasons, the stretching
-of the mind generally stops short of anything like a complete
-comprehension of any great historical or philosophical process.
-This is what Bernard [[Shaw]] meant when he said that the world will never
-really progress, until every man lives for three hundred years.
-I remember remarking at the [[Time|time]] that there was a sort of [[Truth|truth]]
-symbolised in this; and that, most certainly, if Bernard [[Shaw]]
-had lived for three hundred years he would be a Catholic.
-
-This preliminary point can be quite sufficiently proved
-even from this particular case.  Three hundred years would
-mean that he would remember, as part of the positive
-poetry of [[Childhood|childhood]], the first phase of the [[Reformation]].
-The first phase of the [[Reformation]] in England was the Divine Right
-of Kings.  It was a romantic enthusiasm for Royalty itself,
-and the duty of an utterly prostrate passive obedience to it.
-This was the first effect of the New Religion; but before the [[Child|child]]
-was barely a boy it would be overthrown by another New Religion.
-The Calvinist killed the sacred [[King]], who had been sacred
-enough to kill the Church; and darkened the land with a creed
-of Total Depravity and the Scottish Sabbath.  By the [[Time|time]] Mr. [[Shaw]]
-was a growing lad of only a hundred years old, the world would
-have rebelled against this tyranny in turn.  The Scottish Mr. Hume
-would soon be preparing to burst up the Scottish Sabbath.
-The ingenious Mr. Rousseau would be denying Total Depravity
-and asserting Total [[innocence|Innocence]], Naturalness and Niceness.
-Out of this, as he grew to maturity, nearing a century
-and a half, there would grow gradually the most pleasant
-and plausible, the most happy, healthy and exhilarating
-of all the purely human visions:  the vision of Liberty.
-Let men be only free from their feudal [[Chains|chains]] and theological gags;
-let them speak as they like, write as they like, buy and sell
-as they like, trade and travel and enquire as they like;
-and the race will waken from the [[nightmare]] of ages into the broad
-brotherhood of reason and justice.  About the [[Time|time]] when Mr. [[Shaw]]'s
-first grey hair appeared, in the year 1832, when he was barely
-two hundred, there was much talk about a [[Reform]] Bill in England;
-but I do not think Mr. [[Shaw]] would have been taken in, even then.
-Already, for a long [[Time|time]], men had been buying and selling
-as they liked, and trading and travelling as they liked.
-And already the result stood up solid and enormous,
-in the thing called Capitalism:  that is the dispossession
-of the populace of all forms of real productive property;
-all instruments of production in the hands of the few;
-all the millions merely the servants of the few, working for a wage,
-always an insecure wage, generally a mean and inhuman wage.
-It was when this process had gone even further that the real
-historical Mr. Bernard [[Shaw]] was born; with the natural
-consequence that Mr. Bernard [[Shaw]] has devoted his life to making
-war on Capitalism.  He has done so because the special evil
-of his own lifetime was Capitalism.  But shall we not guess
-that he would have done it rather differently, if he had already
-spent two or three lifetimes warring against Divine Right,
-and then against the Calvinism that attacked Divine Right,
-and then against the Rousseauan prostration before Liberty,
-which destroyed Calvinism--and produced Capitalism.
-Would he not conclude that the whole State had been staggering
-about in a most extraordinary and irrational manner, ever since
-he was first born under the Elizabethan Settlement?  Would it
-not be obvious that the mind of man had been filled with
-nothing but frantic exaggerations, crude simplifications,
-provincial panaceas and quack medicines and sheer raving monomania,
-ever since it had broken away from the central civilisation
-and the [[philosophy]] which the Saints had handed down from
-the Ancients?  Would it not interest him to find that,
-all the [[Time|time]], there had been written in the open books
-of [[aquinas|Aquinas]] or Bellarmine or Suarez, a perfectly reasonable
-apportionment of the authority of princes, the claims of peoples,
-the possibilities of [[Democracy|democracy]], the use and abuse of property,
-and the right function of [[Freedom|freedom]]?
-
-Three hundred years felt with their full weight, really measured
-out in [[Time|time]] and experience, endured as a man actually endures
-the passage of his days, would prove the whole Protestant story
-to have been the most preposterous and disproportionate detour,
-or straggling a chapter of accidents, that ever set out
-in the wrong direction and came back to the same place.
-For we have in a hundred ways come back to the same place;
-even to the detail of an exaggerated reaction, like that of
-the Action Française, renewing the absolute appeal to The [[King]].
-And nothing is more amusing than to note the way in which
-those who regard themselves as the most advanced leaders,
-of the most modern groups, are already rearing and bucking
-against the whole tendency of liberal and humanitarian progress,
-which the last revolutionary leaders marked out for them.
-Nobody is less in the spirit of Walt Whitman than Wyndham Lewis
-or T. S. Eliot; nobody less a real heir of H. G. Wells than
-Aldous Huxley; nobody less disposed to follow the humanitarian
-paths of Mr. Nevinson the adventurous journalist, than his son
-Mr. Nevinson the Futurist painter.  All these of the most
-recent school of rebels are rebelling against rebellion;
-that is, against the Revolution and all its heritage of liberty,
-equality and fraternity.  Mr. Eliot, though an American,
-is an avowed Royalist.  Mr. Nevinson has become a quite ferocious
-Kiplingite Imperialist.  Mr. Wyndham Lewis seems to prefer
-a Dictatorship, in so far as he may be said to prefer anything.
-All this last turn of the twisting [[Road|road]] of progress is pointing
-back towards what we have called for a hundred years reaction.
-It is apparent in the Fascists; in the Hitlerites; and even
-in the open anti-[[Democracy|democracy]] of the Bolshevists.
-
-Now the great danger of the moment is that young men will go on
-being content with these revolts against revolt, these reactions
-against reactions; so that we have nothing but an everlasting
-seesaw of the Old Young and the New Young; the last always
-content with its fleeting triumph over the last but one.
-And the only way to avoid that result is to teach men to stretch
-their minds and inhabit a larger period of [[Time|time]].  It is to insist,
-not that we now feel inclined to stress this or stress that,
-in mere fashion or mere fatigue, but that there really does
-exist somewhere a reasonable plan of the proportions of things,
-which, at least in its general outline, is true all the [[Time|time]].
-The moment men, so intelligent as those I have named,
-begin to realise that this permanent plan is necessary,
-they will certainly realise that the only existing plan,
-that has any plausible claim to look like it, is the plan
-of the Catholic [[Faith]].  For the present, they seem to be quite
-content to continue the old squabble of fathers and sons;
-even if the fathers are very young fathers, or the sons actually
-appeal to the grandfathers against them.  But this merely
-modern squabble is after all local and therefore provincial;
-it can never satisfy the thirst of thinking people for the reality
-of things.  Nevertheless, as I stated at the beginning,
-the great difficulty is whether a man can stretch his mind, or
-(as the moderns would say) can broaden his mind, enough to see
-the need for an eternal Church.
-
-And yet surely this is only the last lap in the long race
-in which the ancient [[Truth|truth]], so heavily handicapped, has one
-by one outdistanced all the runners who prided themselves on
-their youth or their advance positions.  If a man could have
-learned it by a process of elimination, merely by living through
-the last three hundred years, he would learn the same lesson
-even more clearly by living through the next three hundred years.
-By that [[Time|time]] it will be more apparent than ever that these jerks
-of novelty do not create either a progress or an equilibrium.
-The very newest of the intellectuals have already learnt not
-to trust to mere progress, in the sense of a process of change;
-they already know that they have sometimes more in common with
-some antique authority than with some merely modern rebellion.
-Some of them would set up Dictators to enforce obedience;
-it is hard if we may not obey willingly, when they would have
-men obey even unwillingly.  They would set up violent authority
-in the hands of individuals; they can hardly complain if we
-recognise merely moral authority in a merely mystical office.
-For that mystical office contains all the liberties and all
-the philosophies, and judges only upon their right balance
-and proportion; and every other thing that the moderns call
-a movement is only securing for a monomania the brief life
-of a sect.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'ULTIMA SVOLTA
-
-L'unica difficoltà riguardo all'evidente risveglio del cattolicesimo nell'Inghilterra moderna è che la [[Conversion|conversione]] chiede a un uomo di distendere la propria mente, come un uomo che si desta da un [[Sleep|sonno]] può distendere le braccia e le gambe. Chiede all'[[Imagination|immaginazione]] di distendersi, per esempio, su un'area più vasta dell'Inghilterra e su un periodo più lungo della [[history|storia]] inglese. E, per certe ragioni piuttosto curiose, la distensione della mente generalmente si arresta prima di giungere a qualcosa come una completa comprensione di un qualsiasi grande processo storico o filosofico. È questo che intendeva Bernard [[Shaw]] quando disse che il mondo non progredirà mai davvero finché ogni uomo non vivrà trecento anni. Ricordo di aver osservato al [[Time|tempo]] che vi era una sorta di [[Truth|verità]] simboleggiata in ciò; e che, molto certamente, se Bernard [[Shaw]] fosse vissuto trecento anni sarebbe stato cattolico.
-
-Questo punto preliminare può essere provato in modo del tutto sufficiente proprio a partire da questo caso particolare. Trecento anni significherebbero che egli ricorderebbe, come parte della positiva poesia dell'[[Childhood|infanzia]], la prima fase della [[Reformation|Riforma]]. La prima fase della [[Reformation|Riforma]] in Inghilterra fu il Diritto Divino dei Re. Fu un entusiasmo romantico per la Regalità stessa, e per il dovere di un'obbedienza passiva del tutto prostrata verso di essa. Questo fu il primo effetto della Nuova Religione; ma prima che il [[Child|fanciullo]] fosse appena un ragazzo, esso sarebbe stato rovesciato da un'altra Nuova Religione. Il calvinista uccise il sacro [[King|Re]], che era stato abbastanza sacro da uccidere la Chiesa; e oscurò il paese con un credo di Totale Depravazione e con il Sabato scozzese. Al [[Time|tempo]] in cui il signor [[Shaw]] fosse stato un ragazzo in crescita di soli cent'anni, il mondo si sarebbe a sua volta ribellato contro questa tirannia. Lo scozzese signor Hume si sarebbe presto preparato a far saltare il Sabato scozzese. L'ingegnoso signor Rousseau avrebbe negato la Totale Depravazione e affermato la Totale [[innocence|Innocenza]], la Naturalezza e la Gradevolezza. Da ciò, man mano che egli giungeva alla maturità, avvicinandosi al secolo e mezzo, sarebbe cresciuta gradualmente la più piacevole e plausibile, la più felice, sana ed esaltante di tutte le visioni puramente umane: la visione della Libertà. Che gli uomini siano soltanto liberi dalle loro [[Chains|catene]] feudali e dai bavagli teologici; che parlino come vogliono, scrivano come vogliono, comprino e vendano come vogliono, commercino e viaggino e indaghino come vogliono; e la razza si desterà dall'[[nightmare|incubo]] dei secoli nella vasta fratellanza della ragione e della giustizia. Intorno al [[Time|tempo]] in cui apparve il primo capello grigio del signor [[Shaw]], nell'anno 1832, quando egli aveva appena duecento anni, si parlava molto di una legge di [[Reform|Riforma]] in Inghilterra; ma non credo che il signor [[Shaw]] si sarebbe lasciato ingannare, neppure allora. Già da lungo [[Time|tempo]] gli uomini compravano e vendevano come volevano, e commerciavano e viaggiavano come volevano. E già il risultato si ergeva solido ed enorme, nella cosa chiamata Capitalismo: cioè la spoliazione della popolazione di ogni forma di reale proprietà produttiva; tutti gli strumenti di produzione nelle mani dei pochi; tutti i milioni di uomini meri servitori dei pochi, che lavorano per un salario, sempre un salario insicuro, generalmente un salario meschino e disumano. Fu quando questo processo era andato ancora più avanti che nacque il vero, storico signor Bernard [[Shaw]]; con la naturale conseguenza che il signor Bernard [[Shaw]] ha dedicato la propria vita a far guerra al Capitalismo. Lo ha fatto perché il male speciale della sua stessa epoca era il Capitalismo. Ma non dovremmo forse supporre che lo avrebbe fatto piuttosto diversamente, se avesse già trascorso due o tre esistenze a guerreggiare contro il Diritto Divino, e poi contro il Calvinismo che attaccò il Diritto Divino, e poi contro la prostrazione rousseauiana dinanzi alla Libertà, che distrusse il Calvinismo — e produsse il Capitalismo? Non concluderebbe forse che l'intero Stato aveva barcollato qua e là nel modo più straordinario e irrazionale, sin da quando egli nacque per la prima volta sotto il Compromesso elisabettiano? Non sarebbe evidente che la mente dell'uomo era stata riempita di nient'altro che frenetiche esagerazioni, rozze semplificazioni, panacee provinciali e medicine ciarlatanesche e pura vaneggiante monomania, sin da quando si era staccata dalla civiltà centrale e dalla [[philosophy|filosofia]] che i Santi avevano tramandato dagli Antichi? Non gli interesserebbe scoprire che, per tutto il [[Time|tempo]], era stata scritta nei libri aperti di [[aquinas|Aquino]] o di Bellarmino o di Suárez una ripartizione perfettamente ragionevole dell'autorità dei principi, delle rivendicazioni dei popoli, delle possibilità della [[Democracy|democrazia]], dell'uso e dell'abuso della proprietà, e della retta funzione della [[Freedom|libertà]]?
-
-Trecento anni sentiti con tutto il loro peso, realmente misurati in [[Time|tempo]] ed esperienza, sopportati come un uomo effettivamente sopporta il passaggio dei suoi giorni, proverebbero che l'intera vicenda protestante è stata la più assurda e sproporzionata deviazione, o il più disordinato capitolo di accidenti, che mai si sia messo in cammino nella direzione sbagliata per tornare poi allo stesso luogo. Poiché in cento modi siamo tornati allo stesso luogo; perfino nel dettaglio di una reazione esagerata, come quella dell'Action Française, che rinnova l'appello assoluto al [[King|Re]]. E nulla è più divertente che notare il modo in cui coloro che si considerano i capi più avanzati, dei gruppi più moderni, già s'impennano e scalciano contro l'intera tendenza del progresso liberale e umanitario, che gli ultimi capi rivoluzionari avevano tracciato per loro. Nessuno è meno nello spirito di Walt Whitman di Wyndham Lewis o T. S. Eliot; nessuno è meno un vero erede di H. G. Wells di Aldous Huxley; nessuno è meno disposto a seguire i sentieri umanitari del signor Nevinson, l'avventuroso giornalista, di suo figlio, il signor Nevinson, il pittore futurista. Tutti costoro, della più recente scuola di ribelli, si ribellano contro la ribellione; ossia contro la Rivoluzione e tutta la sua eredità di libertà, uguaglianza e fraternità. Il signor Eliot, benché americano, è un dichiarato monarchico. Il signor Nevinson è divenuto un imperialista kiplinghiano assai feroce. Il signor Wyndham Lewis sembra preferire una Dittatura, nella misura in cui si possa dire che egli preferisca qualcosa. Tutta quest'ultima svolta della tortuosa [[Road|strada]] del progresso punta indietro verso ciò che da cent'anni abbiamo chiamato reazione. Essa è manifesta nei fascisti; negli hitleriani; e perfino nell'aperta anti-[[Democracy|democrazia]] dei bolscevichi.
-
-Ora, il grande pericolo del momento è che i giovani continuino ad accontentarsi di queste rivolte contro la rivolta, di queste reazioni contro le reazioni; sicché non abbiamo nient'altro che un eterno altalenare dei Vecchi Giovani e dei Nuovi Giovani; l'ultimo sempre pago del suo fugace trionfo sul penultimo. E l'unico modo per evitare questo esito è insegnare agli uomini a distendere la propria mente e ad abitare un periodo di [[Time|tempo]] più ampio. Si tratta di insistere non sul fatto che ora ci sentiamo inclini a dare rilievo a questo o a quello, per mera moda o mera stanchezza, ma sul fatto che esiste davvero da qualche parte un ragionevole disegno delle proporzioni delle cose, il quale, almeno nel suo tratto generale, è vero per tutto il [[Time|tempo]]. Nel momento in cui uomini così intelligenti come quelli che ho nominato cominceranno a rendersi conto che questo disegno permanente è necessario, si renderanno certamente conto che l'unico disegno esistente che abbia una qualche plausibile pretesa di somigliargli è il disegno della [[Faith|Fede]] cattolica. Per il momento, essi sembrano del tutto contenti di continuare la vecchia baruffa tra padri e figli; anche se i padri sono padri molto giovani, o i figli si appellano addirittura ai nonni contro di loro. Ma questa baruffa meramente moderna è dopo tutto locale, e perciò provinciale; non potrà mai saziare la sete che le persone pensanti hanno della realtà delle cose. Nondimeno, come ho affermato all'inizio, la grande difficoltà è se un uomo possa distendere la propria mente, o (come direbbero i moderni) possa allargare la propria mente, abbastanza da vedere la necessità di una Chiesa eterna.
-
-E tuttavia, sicuramente, questo è soltanto l'ultimo giro nella lunga corsa in cui l'antica [[Truth|verità]], così pesantemente svantaggiata, ha a una a una distanziato tutti i corridori che si vantavano della propria giovinezza o delle proprie posizioni di vantaggio. Se un uomo potesse impararlo per un processo di eliminazione, semplicemente vivendo attraverso gli ultimi trecento anni, imparerebbe la stessa lezione ancora più chiaramente vivendo attraverso i prossimi trecento anni. Per quel [[Time|tempo]] sarà più evidente che mai che questi scatti di novità non creano né un progresso né un equilibrio. I più recentissimi tra gli intellettuali hanno già imparato a non affidarsi al mero progresso, nel senso di un processo di mutamento; sanno già di avere talvolta più in comune con qualche antica autorità che con qualche ribellione meramente moderna. Alcuni di loro erigerebbero Dittatori per imporre l'obbedienza; sarebbe duro che non ci fosse concesso di obbedire volentieri, quando essi vorrebbero che gli uomini obbedissero perfino contro voglia. Essi erigerebbero un'autorità violenta nelle mani di individui; ben poco possono lamentarsi se noi riconosciamo un'autorità meramente morale in un ufficio meramente mistico. Poiché quell'ufficio mistico contiene tutte le libertà e tutte le filosofie, e giudica soltanto del loro giusto equilibrio e della loro giusta proporzione; e ogni altra cosa che i moderni chiamano un movimento non fa che assicurare a una monomania la breve vita di una setta.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_21_three_foes_of_the_family" data-title="Well And Shallows — Three Foes Of The Family" data-chapter="Three Foes Of The Family" data-kind="story"></span>
-
-
-THREE FOES OF THE FAMILY
-
-IT was certainly a very brilliant [[Lightning|lightning]]-flash of irony
-by which Mr. Aldous Huxley lit up the whole loathsome landscape
-of his satirical Utopia, of synthetic humanity and manufactured men
-and women, by the old romantic quotation of "Brave New World".
-The quotation comes, of course, from that supreme moment of the [[Magic|magic]]
-of youth, nourished by the [[Magic|magic]] of old age, when [[Miranda]] the marvellous
-becomes [[Miranda]] the marvelling, at the unique [[Wonder|wonder]] of first [[Love|love]].
-To use it for the very motto of a system which, having lost all [[innocence]],
-would necessarily lose all [[Wonder|wonder]], was a touch of very withering wit.
-And yet it will be [[Well|well]] to remember that, in comparison with some
-other worlds, where the same work is done more weakly and quite
-as wickedly, the Utopia of the extremists really has something of
-the intellectual integrity which belongs to extremes, even of [[Madness|madness]].
-In that sense the two ironical adjectives are not merely ironical.
-The horrible human, or inhuman, hive described in Mr. Huxley's
-[[Romance|romance]] is certainly a base world, and a filthy world, and a
-fundamentally unhappy world.  But it is in one sense a new world;
-and it is in one sense a brave world.  At least a certain amount
-of bravery, as [[Well|well]] as brutality, would have to be shown before
-anything of the sort could be established in the world of fact.
-It would need some [[Courage|courage]], and even some [[Self-Sacrifice|self-sacrifice]], to establish
-anything so utterly disgusting as that.
-
-But the same work is being done in other worlds that
-are not particularly new, and not in the least brave.
-There are people of another sort, much more common and conventional,
-who are not only working to create such a paradise of cowardice,
-but who actually try to work for it through a conspiracy of cowards.
-The attitude of these people towards the Family and the tradition
-of its Christian virtues is the attitude of men willing to wound
-and yet afraid to strike; or ready to sap and mine so long
-as they are not called upon to [[Fire|fire]] or fight in the open.
-And those who do this cover much more than half, or nearly two-thirds,
-of the people who write in the most respectable and conventional
-Capitalist newspapers.  It cannot be too often repeated that
-what destroyed the Family in the modern world was Capitalism.
-No [[Doubt|doubt]] it might have been Communism, if Communism had ever
-had a chance, outside that semi-Mongolian wilderness where it
-actually flourishes.  But, so far as we are concerned,
-what has broken up households and encouraged divorces,
-and treated the old domestic virtues with more and more
-open contempt, is the epoch and Power of Capitalism.
-It is Capitalism that has forced a moral feud and a commercial
-competition between the sexes; that has destroyed the influence
-of the parent in favour of the influence of the employer;
-that has driven men from their homes to look for jobs;
-that has forced them to live near their factories or their
-firms instead of near their families; and, above all,
-that has encouraged, for commercial reasons, a parade of publicity
-and garish novelty, which is in its [[Nature|nature]] the [[Death|death]] of all
-that was called dignity and modesty by our mothers and fathers.
-It is not the Bolshevist but the Boss, the publicity man,
-the salesman and the commercial advertiser who have, like a rush
-and riot of barbarians, thrown down and trampled under foot
-the ancient Roman statue of Verecundia.  But because the thing
-is done by men of this sort, of course it is done in their
-own muggy and muddle-headed way; by all the irresponsible
-tricks of their foul Suggestion and their filthy Psychology.
-It is done, for instance, by perpetually guying the old Victorian
-virtues or limitations which, as they are no longer there,
-are not likely to retaliate.  It is done more by pictures than
-by printed words; because printed words are supposed to make
-a some sense and a man may be answerable for printing a them.
-Stiff and hideous effigies of women in crinolines or bonnets
-are paraded, as if that could possibly be all there was to see
-when Maud came into the [[Garden|garden]], and was saluted by such a [[Song|song]].
-Fortunately, Maud's friends, who would have challenged
-the pressman and photographer to a duel, are all dead;
-and these satirists of Victorianism are very careful to find
-out that all their enemies are dead.  Some of their bold
-caricaturists have been known to charge an old-fashioned
-bathing-[[Machine|machine]] as courageously as if it were a [[Machine|machine]]-gun.
-It is convenient thus courageously to attack bathing-machines,
-because there are no bathing-machines to attack.
-Then they balance these things by photographs of the Modern Girl
-at various stages of the nudist movement; and trust that
-any thing so obviously vulgar is bound to be popular.
-For the rest, the Modern Girl is floated on a sea of
-sentimental sloppiness; a continuous gush about her frankness
-and freshness, the perfect naturalness of her painting her
-face or the unprecedented [[Courage|courage]] of her having no children.
-The whole is diluted with a dreary hypocrisy about [[Comradeship|comradeship]],
-far more sentimental than the old-fashioned sentiment.
-When I see the Family sinking in these swamps of amorphous
-amorous futility, I feel inclined to say, "Give me the Communists."
-Better Bolshevist battles and the Brave New World than the ancient
-[[house]] of man rotted away silently by such worms of secret sensuality
-and individual appetite.  "The coward does it with a kiss;
-the brave man with a [[Sword|sword]]."
-
-But there is, curiously enough, a third thing of the kind, which I am
-really inclined to think that I dislike even more than the other two.
-It is not the Communist attacking the family or the Capitalist
-betraying the family; it is the vast and very astonishing vision
-of the Hitlerite defending the family.  Hitler's way of defending
-the independence of the family is to make every family dependent
-on him and his semi-Socialist State; and to preserve the authority
-of parents by authoritatively telling all the parents what to do.
-His notion of keeping sacred the dignity of domestic life is to issue
-peremptory orders that the grandfather is to get up at five in the morning
-and do dumb-bell exercises, or the grand mother to march twenty miles
-to a camp to procure a Swastika [[Flag|flag]].  In other words, he appears
-to interfere with family life more even than the Bolshevists do;
-and to do it in the name of the sacredness of the family.
-It is not much more encouraging than the other two social manifestations;
-but at least it is more entertaining.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-TRE NEMICI DELLA FAMIGLIA
-
-Fu certamente un brillantissimo [[Lightning|lampo]] d'ironia quello con cui il signor Aldous Huxley illuminò l'intero ripugnante paesaggio della sua Utopia satirica, fatta di umanità sintetica e di uomini e donne fabbricati, con l'antica citazione romantica di «Brave New World». La citazione proviene, naturalmente, da quel momento supremo della [[Magic|magia]] della giovinezza, nutrita dalla [[Magic|magia]] della vecchiaia, quando [[Miranda]] la meravigliosa diventa [[Miranda]] la meravigliata, dinanzi all'unica [[Wonder|meraviglia]] del primo [[Love|amore]]. Usarla come motto stesso di un sistema che, avendo perduto ogni [[innocence|innocenza]], perderebbe necessariamente ogni [[Wonder|meraviglia]], fu un tocco di arguzia assai fulminante. E tuttavia sarà [[Well|bene]] ricordare che, in confronto ad altri mondi, dove la medesima opera è compiuta più debolmente e altrettanto malvagiamente, l'Utopia degli estremisti possiede realmente qualcosa dell'integrità intellettuale che appartiene agli estremi, perfino a quelli della [[Madness|follia]]. In tal senso i due aggettivi ironici non sono soltanto ironici. L'orribile alveare umano, o disumano, descritto nel [[Romance|romanzo]] del signor Huxley è certamente un mondo abietto, un mondo lurido e un mondo fondamentalmente infelice. Ma in un certo senso è un mondo nuovo; e in un certo senso è un mondo coraggioso. Quantomeno un certo grado di coraggio, [[Well|oltre]] che di brutalità, dovrebbe essere dimostrato prima che qualcosa del genere potesse instaurarsi nel mondo dei fatti. Occorrerebbe un po' di [[Courage|coraggio]], e perfino un po' di [[Self-Sacrifice|sacrificio di sé]], per instaurare qualcosa di tanto assolutamente disgustoso.
-
-Ma la medesima opera viene compiuta in altri mondi che non sono particolarmente nuovi, né minimamente coraggiosi. Vi è gente di un'altra specie, assai più comune e convenzionale, che non solo si adopera per creare un simile paradiso di viltà, ma cerca effettivamente di realizzarlo mediante una congiura di codardi. L'atteggiamento di costoro verso la Famiglia e la tradizione delle sue virtù cristiane è quello di uomini disposti a ferire eppure timorosi di colpire; o pronti a scavare mine e trincee finché non siano chiamati a [[Fire|sparare]] o a combattere allo scoperto. E coloro che fanno questo costituiscono ben più della metà, o quasi i due terzi, di quanti scrivono sui più rispettabili e convenzionali giornali capitalisti. Non si ripeterà mai abbastanza che ciò che distrusse la Famiglia nel mondo moderno fu il Capitalismo. Senza [[Doubt|dubbio]] avrebbe potuto essere il Comunismo, se il Comunismo avesse mai avuto un'occasione, fuori da quella landa semi-mongola dove effettivamente prospera. Ma, per quanto ci riguarda, ciò che ha disgregato i focolari e incoraggiato i divorzi, e trattato le antiche virtù domestiche con disprezzo sempre più aperto, è l'epoca e la Potenza del Capitalismo. È il Capitalismo ad aver imposto una faida morale e una concorrenza commerciale tra i sessi; ad aver distrutto l'influenza del genitore a favore dell'influenza del datore di lavoro; ad aver cacciato gli uomini dalle loro case in cerca di lavoro; ad averli costretti a vivere presso le loro fabbriche o le loro ditte anziché presso le loro famiglie; e, soprattutto, ad aver incoraggiato, per ragioni commerciali, una sfilata di pubblicità e di sgargiante novità, che è per sua [[Nature|natura]] la [[Death|morte]] di tutto ciò che le nostre madri e i nostri padri chiamavano dignità e pudore. Non è il bolscevico ma il Padrone, l'uomo della pubblicità, il venditore e il pubblicitario commerciale ad avere, come un'ondata tumultuosa di barbari, abbattuto e calpestato l'antica statua romana della Verecundia. Ma poiché la cosa è compiuta da uomini di questa risma, naturalmente è compiuta a modo loro, afoso e confuso; con tutti gli espedienti irresponsabili della loro turpe Suggestione e della loro lurida Psicologia. La si compie, per esempio, mettendo perpetuamente in ridicolo le antiche virtù o limitazioni vittoriane che, non essendo più presenti, difficilmente potranno reagire. La si compie più con le immagini che con le parole stampate; perché si suppone che le parole stampate abbiano un qualche senso e che un uomo possa esser chiamato a rispondere di averle stampate. Si esibiscono rigide e orride effigi di donne in crinolina o in cuffia, come se quello potesse mai essere tutto ciò che v'era da vedere quando Maud entrava nel [[Garden|giardino]], ed era salutata da un tal [[Song|canto]]. Per fortuna, gli amici di Maud, che avrebbero sfidato a duello il giornalista e il fotografo, sono tutti morti; e questi satirici del vittorianesimo hanno gran cura di accertarsi che tutti i loro nemici siano morti. Si è saputo di certi loro arditi caricaturisti che hanno caricato una [[Machine|macchina]] da bagno all'antica con lo stesso coraggio con cui avrebbero assalito una [[Machine|mitragliatrice]]. È comodo attaccare così coraggiosamente le macchine da bagno, perché non vi sono macchine da bagno da attaccare. Poi bilanciano queste cose con fotografie della Ragazza Moderna a vari stadi del movimento nudista; e confidano che qualcosa di così palesemente volgare non possa che essere popolare. Per il resto, la Ragazza Moderna è tenuta a galla su un mare di sdolcinatezza sentimentale; un continuo profluvio sulla sua franchezza e freschezza, sulla perfetta naturalezza del suo dipingersi il volto o sull'inaudito [[Courage|coraggio]] del suo non aver figli. Il tutto è diluito con una tetra ipocrisia sul [[Comradeship|cameratismo]], assai più sentimentale del sentimento all'antica. Quando vedo la Famiglia sprofondare in queste paludi di amorfa e amorosa futilità, mi sento incline a dire: «Datemi i Comunisti». Meglio le battaglie bolsceviche e il Mondo Nuovo che l'antica [[house|casa]] dell'uomo corrosa silenziosamente da simili vermi di segreta sensualità e di appetito individuale. «Il codardo lo fa con un bacio; l'uomo coraggioso con una [[Sword|spada]]».
-
-Ma vi è, per quanto curioso, una terza cosa del genere, che sono davvero incline a credere di detestare persino più delle altre due. Non è il Comunista che attacca la famiglia né il Capitalista che tradisce la famiglia; è la vasta e sbalorditiva visione dell'Hitleriano che difende la famiglia. Il modo di Hitler di difendere l'indipendenza della famiglia consiste nel rendere ogni famiglia dipendente da lui e dal suo Stato semi-socialista; e nel preservare l'autorità dei genitori dicendo autoritariamente a tutti i genitori che cosa devono fare. La sua idea di mantenere sacra la dignità della vita domestica è di emanare ordini perentori che il nonno debba alzarsi alle cinque del mattino e fare esercizi con i manubri, o la nonna marciare per venti miglia fino a un campo per procurarsi una [[Flag|bandiera]] con la svastica. In altre parole, egli sembra interferire nella vita familiare ancor più di quanto facciano i bolscevichi; e farlo nel nome della sacralità della famiglia. Non è molto più incoraggiante delle altre due manifestazioni sociali; ma almeno è più divertente.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_23_the_church_and_agoraphobia" data-title="Well And Shallows — The Church And Agoraphobia" data-chapter="The Church And Agoraphobia" data-kind="story"></span>
-
-
-THE CHURCH AND AGORAPHOBIA
-
-THE erection of a great [[Cathedral|cathedral]] in a great [[City|city]], and especially
-in a great port, that is a [[City|city]] that is also a wide gate of
-the world, recalls certain truths that are curiously forgotten,
-or sometimes still more astonishingly contradicted or reversed.
-Before we come to count the million mistakes and
-misunderstandings which separate men from the [[Catholic Church]],
-there is one enormous and elementary mistake, which has
-to do with this question of scale and position in the world.
-To put it shortly; the man who fears to enter the Church commonly
-fancies that what he feels is a sort of claustrophobia.
-As a fact, what he really feels, is rather a sort of agoraphobia.
-Some silly little historical accidents, almost entirely peculiar
-to the particular way in which Catholicism survived in England,
-have given many Englishmen an extraordinary notion that it
-is a sort of hole and corner affair.  These honest Protestants,
-like the imaginary nuns in the impossible romances, walk about
-in perpetual [[Fear|fear]] of being "walled up."  For them the typical
-Catholic act is not going into a great thing like a church,
-but into a small thing like a confessional box.  And to their
-[[nightmare]] fancy a confessional box is a sort of man-trap; and presents
-in its very appearance some combination of a coffin and a cage.
-The same notion is reinforced by the use of the word "cells,"
-which in a Protestant community means [[Prison|prison]]-cells, and not
-monastic cells.  The same is suggested by the word "crypt,"
-about which there must obviously be something cryptic.
-These and many other tags of tradition have preserved in this
-country the custom of talking as if the danger of being
-a Catholic was the danger of being buried in a deep dark hole.
-And yet even the tradition was, not only a legend, but very
-nearly a pretence.  Even the man who said these things knew
-in his heart, or at least had a vague knowledge at the back
-of his mind, that his [[Fear|fear]] was really a [[Fear|fear]] of something larger
-than himself and his tribal traditions; that he was really,
-as it was sometimes stated from both points of view,
-leaving a national for an international church.  As I have said,
-it was not claustrophobia, the [[Fear|fear]] of the crypt or the cell;
-it was agoraphobia, or the [[Fear|fear]] of the forum, of the market-place,
-of the open spaces and the colossal public buildings.
-To the really insular and individualistic type of sectarian,
-even the [[Fear|fear]] of the Church was also partly a [[Fear|fear]] of the world.
-It can be seen in the terror which some of the English Tories,
-in the old times, felt towards the cosmopolitan culture of the Jesuits;
-who honestly seemed to them a sort of universal anarchists.
-It can be seen in the exaggerated revulsion from the very
-varied experiments, failures and successes of the Baroque.
-Of nearly all the non-Catholic types of our [[Time|time]] we can truly say,
-that any such type must broaden his mind to become a Catholic.
-He must grow more used than he is at present to the long avenues
-and the large spaces.  This is really what is meant by the Puritans
-who say that the Church is Pagan; that it does open a very long avenue,
-which is the only avenue left connecting us with Pagan antiquity.
-That is largely what is meant by insisting that the Church
-covers all sorts of dubious or disreputable people;
-all the motley mobs of tramps and pedlars and beggars, who do make
-up the life of an open market-place. Quicquid agunt homines;
-which even Matthew Arnold wisely saw was the true motto
-of the practical life of the Roman [[Catholic Church]].
-
-Now a great deal has been said by Protestants, naturally enough,
-and not a little even by Catholics, about the danger of displaying
-before the world a pomp and triumph that may easily be called worldly.
-Undoubtedly some harm was done, and some misunderstandings did arise,
-when the Popes of the [[Renaissance]] filled Rome with trophies that might
-have marked the triumphs of the Caesars, and permitted the slander
-that the father of Christian man had usurped the title of [[King]]
-of Kings and forgotten his own actual title of Servant of Servants.
-But, taking human [[Nature|nature]] as a whole, the method is justified; because it
-is some sort of proclamation of the profound [[Truth|truth]] mentioned above;
-that the [[Faith]] belongs to the heights and the open spaces,
-and the circle of the whole world, and is not the one thing
-which its enemies go on desperately calling it; a conspiracy.
-There could not be a better way of suggesting the very reverse
-of that suggestion, than by the continual use in public
-buildings of what is large in design and hospitable in gesture.
-Art, and especially architecture, can here express actualities
-that are at once too large and too elusive to be expressed in words.
-St. Mark's [[Cathedral]] at [[Venice]] is in some ways a very curious building,
-and to some northern eyes does not look like a [[Cathedral|cathedral]] at all;
-but it does look like a thing coloured with the sunrise and the sunset,
-in touch with the very ends of the earth; open like a harbour and full
-of popular poetry like a fairy-palace. That is, it does express
-the first essential fact that Catholicism is not a narrow thing;
-that it knows more than the world knows about the potentialities
-and creative possibilities of the world, and that it will outlast
-all the worldly and temporary expressions of the same culture.
-[[Christianity]] has gone northward and established richer ports
-in colder seas; it has been changed and chilled for a [[Time|time]]
-by colder heresies; but the same principle still stands for its
-expansion and exaltation; that which is expressed in the expansion
-and exaltation of great buildings; in the breadth of great gates
-declaring the brotherhood of men or the lifting of great domes pointing
-the way of their destiny.  To-day another such building is being reared
-in what Mr. Belloc's fantasy once called a Harbour in the North;
-and its scope and scale would indeed be idle things, if they did
-not remind us of the two essential truths:  first, that even within
-the world the boundaries of the [[Faith]] are being enlarged; and second,
-and much more important, that the [[Faith]] itself enlarges the world;
-which would be a small thing without it.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LA CHIESA E L'AGORAFOBIA
-
-L'erezione di una grande [[Cathedral|cattedrale]] in una grande [[City|città]], e specialmente in un grande porto, cioè una [[City|città]] che è anche un'ampia porta del mondo, richiama alla mente certe verità curiosamente dimenticate, o talvolta, in modo ancora più stupefacente, contraddette o rovesciate. Prima di giungere a contare il milione di errori e di malintesi che separano gli uomini dalla [[Catholic Church|Chiesa cattolica]], vi è un errore enorme ed elementare, che ha a che fare con questa questione di scala e di posizione nel mondo. Per dirla in breve: l'uomo che teme di entrare nella Chiesa immagina comunemente che ciò che prova sia una sorta di claustrofobia. In realtà, ciò che egli prova davvero è piuttosto una sorta di agorafobia. Alcuni piccoli e sciocchi accidenti storici, quasi interamente peculiari al modo particolare in cui il cattolicesimo sopravvisse in Inghilterra, hanno dato a molti inglesi la straordinaria idea che esso sia una sorta di faccenda clandestina e rintanata. Questi onesti protestanti, come le monache immaginarie degli impossibili romanzi, se ne vanno in giro nel perpetuo [[Fear|timore]] di essere «murati vivi». Per loro l'atto cattolico tipico non è entrare in qualcosa di grande come una chiesa, bensì in qualcosa di piccolo come un confessionale. E alla loro fantasia da [[nightmare|incubo]] un confessionale è una sorta di trappola per uomini; e presenta nel suo stesso aspetto una qualche combinazione di bara e di gabbia. La medesima idea è rafforzata dall'uso della parola «celle», che in una comunità protestante significa celle di [[Prison|prigione]], e non celle monastiche. Lo stesso è suggerito dalla parola «cripta», intorno alla quale deve ovviamente esservi qualcosa di criptico. Questi e molti altri stralci di tradizione hanno conservato in questo paese l'abitudine di parlare come se il pericolo di essere cattolico fosse il pericolo di essere sepolto in una fossa profonda e oscura. E tuttavia perfino la tradizione era non solo una leggenda, ma quasi una finzione. Perfino l'uomo che diceva queste cose sapeva in cuor suo, o almeno aveva una vaga consapevolezza in fondo alla mente, che il suo [[Fear|timore]] era in realtà un [[Fear|timore]] di qualcosa di più grande di lui e delle sue tradizioni tribali; che egli stava in realtà, come talvolta si affermava da entrambi i punti di vista, lasciando una chiesa nazionale per una internazionale. Come ho detto, non era claustrofobia, il [[Fear|timore]] della cripta o della cella; era agorafobia, ovvero il [[Fear|timore]] del foro, della piazza del mercato, degli spazi aperti e dei colossali edifici pubblici. Per il tipo di settario davvero insulare e individualista, perfino il [[Fear|timore]] della Chiesa era anche in parte un [[Fear|timore]] del mondo. Lo si può vedere nel terrore che alcuni dei Tory inglesi, nei tempi antichi, provavano verso la cultura cosmopolita dei gesuiti; i quali sinceramente sembravano loro una sorta di anarchici universali. Lo si può vedere nell'esagerata repulsione verso i variatissimi esperimenti, fallimenti e successi del Barocco. Di quasi tutti i tipi non cattolici del nostro [[Time|tempo]] possiamo dire con verità che qualsiasi tipo simile deve allargare la propria mente per divenire cattolico. Deve abituarsi più di quanto lo sia attualmente ai lunghi viali e ai grandi spazi. È questo in realtà ciò che intendono i puritani quando dicono che la Chiesa è pagana; che essa apre un viale assai lungo, il quale è l'unico viale rimasto che ci colleghi con l'antichità pagana. È in gran parte ciò che si intende insistendo sul fatto che la Chiesa accoglie ogni sorta di gente dubbia o malfamata; tutte le variopinte folle di vagabondi e ambulanti e mendicanti, che compongono la vita di una piazza di mercato aperta. Quicquid agunt homines; che perfino Matthew Arnold saggiamente vide essere il vero motto della vita pratica della [[Catholic Church|Chiesa cattolica]] romana.
-
-Ora molto è stato detto dai protestanti, com'è naturale, e non poco perfino dai cattolici, circa il pericolo di ostentare davanti al mondo una pompa e un trionfo che facilmente possono essere definiti mondani. Indubbiamente qualche danno fu fatto, e sorsero alcuni malintesi, quando i papi del [[Renaissance|Rinascimento]] riempirono Roma di trofei che avrebbero potuto contrassegnare i trionfi dei Cesari, e permisero la calunnia secondo cui il padre dell'uomo cristiano avesse usurpato il titolo di [[King|Re]] dei Re e dimenticato il proprio effettivo titolo di Servo dei Servi. Ma, considerando la [[Nature|natura]] umana nel suo insieme, il metodo è giustificato; perché è una sorta di proclamazione della profonda [[Truth|verità]] menzionata sopra; che la [[Faith|Fede]] appartiene alle altezze e agli spazi aperti, e al cerchio del mondo intero, e non è quell'unica cosa che i suoi nemici continuano disperatamente a chiamarla: una cospirazione. Non potrebbe esservi modo migliore di suggerire l'esatto contrario di quel suggerimento, che l'uso continuo, negli edifici pubblici, di ciò che è ampio nel disegno e ospitale nel gesto. L'arte, e specialmente l'architettura, può qui esprimere realtà che sono al contempo troppo vaste e troppo sfuggenti per essere espresse a parole. La [[Cathedral|Cattedrale]] di San Marco a [[Venice|Venezia]] è per certi versi un edificio assai curioso, e a certi occhi nordici non sembra affatto una [[Cathedral|cattedrale]]; ma sembra proprio una cosa colorata dall'alba e dal tramonto, in contatto con i confini estremi della terra; aperta come un porto e colma di poesia popolare come un palazzo delle fate. Cioè, essa esprime il primo fatto essenziale, che il cattolicesimo non è una cosa angusta; che esso sa più di quanto il mondo sappia riguardo alle potenzialità e alle possibilità creative del mondo, e che sopravvivrà a tutte le espressioni mondane e temporanee della medesima cultura. Il [[Christianity|cristianesimo]] è andato verso nord e ha stabilito porti più ricchi in mari più freddi; è stato mutato e raffreddato per un [[Time|tempo]] da eresie più fredde; ma il medesimo principio vale ancora per la sua espansione ed esaltazione; ciò che si esprime nell'espansione ed esaltazione dei grandi edifici; nell'ampiezza di grandi portali che proclamano la fratellanza degli uomini o nell'innalzamento di grandi cupole che indicano la via del loro destino. Oggi un altro edificio simile viene innalzato in quello che la fantasia del signor Belloc chiamò un tempo un Porto nel Nord; e la sua portata e la sua scala sarebbero davvero cose vane, se non ci rammentassero le due verità essenziali: primo, che perfino entro il mondo i confini della [[Faith|Fede]] vengono ampliati; e secondo, e assai più importante, che la [[Faith|Fede]] stessa amplia il mondo; il quale senza di essa sarebbe cosa piccola.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_26_trade_terms" data-title="Well And Shallows — Trade Terms" data-chapter="Trade Terms" data-kind="story"></span>
-
-
-TRADE TERMS
-
-IT is grimly significant that the Organ of Empire has already begun
-to call its Imperial policy by the cheerful name of "The Empire Merger."
-The sort of combine, which all free peoples have punished as a conspiracy,
-is now so fashionable that it is considered quite a compliment
-to apply this commercial term instead of a political title.
-Courtiers in the future, instead of saying "Your Majesty"
-will say "Your Monopoly"; especially when addressing Moritz IV,
-of the historic [[house|House]] of Mond, by that [[Time|time]] Emperor of the World State.
-But indeed we rather [[Doubt|doubt]] whether there will be even so much
-dignity as this in such a despotism as that.  The man who prefers
-to say, "Imperial Merger" rather than Imperial Protection or
-Imperial Free Trade, is already in this curious modern mood which
-actually thinks mercantile terms higher than moral or social ones.
-The whole system of a great nation will be remodelled on
-the habits of a big business.  The national envoy in [[Paris]],
-instead of being called, "His Excellency the British Ambassador,"
-will be called "Our Mr. Honey-bubble," and he will travel with
-samples and be proud of being called a commercial traveller.
-The monopolist newspapers never weary of telling us that the world
-ought to have outgrown the stilted and pompous language of the old
-Protocols and Ultimatums, and all the formal statements of the
-treaties which have so often been denounced as Secret Diplomacy.
-Doubtless the great statesmen of the great states, the heirs
-of Richelieu and Canning, will correspond in a brighter and
-brisker English, running "Yrs. rcd.  and conts:  noted," when indeed
-it is necessary to put the arrangements into writing at all.
-After all, it will be even more business-like to make the international
-arrangements in a husky and confidential voice, in the intervals
-of observing "What's yours?" and "Say when."  That is the great
-advantage of the New Diplomacy over the old Secret Diplomacy.
-The old was so very secret as to write down all its [[Secrets|secrets]]
-in laborious documents and send them round to about fifty people
-in [[government|Government]] offices.  The New Diplomacy need never be written
-down at all; indeed, it is better not.
-
-We are prepared, of course, to be told that all this ugly and
-undignified school of manners is very practical, and that the old
-stately or stilted school of manners was very unpractical.
-After all, the old theory of dignity did only trivial
-and incidental things, such as creating the Roman Empire,
-creating the French Monarchy and the [[French Revolution]],
-founding the American Republic and establishing by
-personal adventure that very Empire, which our hustlers
-and hucksters can only help by impersonal advertisement.
-These are slight achievements compared with that of insuring
-that the same bad ginger-beer shall be sold everywhere,
-to the exclusion and extinction of good ginger-beer, or that
-over some thousand square miles of God's green earth nobody
-shall have anything but one kind of hat or one kind of [[house]].
-But though these arguments are undoubtedly cogent and persuasive,
-and bear a certain appearance of practicality and realism, we are
-disposed to supplement them by a suggestion or reminder; the hint
-of something which even thinkers so lucid seem to have overlooked.
-Nowadays, it is considered very horrible to mention it;
-and it is indeed very horrible to test it or experience it.
-Nevertheless, it is a thing that may be tested or experienced;
-and, even to be avoided, had much better be mentioned.
-
-Authority ruling men must be respected; it must even be loved.
-Men must in the last resort [[Love|love]] it; for the simple reason that men
-must in the last resort die for it.  No community or constitution can
-survive and retain its [[Identity|identity]] at all, that has not in the minds
-of its subjects enough of an ideal [[Identity|identity]], to appear to them
-in certain extremes of peril as the vision of something to be saved.
-It is on that ideal, inhering in the reality, that every state
-will depend when there is a struggle of life and [[Death|death]].
-Men must feel something more about England than that she
-is commercial, something more about France than that Frenchmen
-are practical and careful about money, something more about [[America]]
-than that she happens at the moment to be monstrously rich[1],
-before any healthy and humorous human being will kill somebody else
-or be killed himself, and go out from the sunlight and the sane
-loves of this world, for the sake of any such abstraction.
-It will be found, therefore, that the practical theory fails
-at the most practical moment.  It is useful while there is
-question of whether the commonwealth shall continue to be rich,
-or continue to be imperial, or continue to be monopolist.
-It is useless when there is question of whether the commonwealth
-shall continue to be.  The materialistic state, cemented only
-with money as with mud, will fall apart under the blow of any
-people who have [[Love|love]] or loyalty to their leaders or their cause;
-for the simple reason that those who care most for money care
-more for life.  One may like or dislike the Fascism of [[Italy]],
-the fiery nationalism of the Poles, the deep Catholicism of the Irish;
-but there is no [[Doubt|doubt]] that their ideals can be idealised.
-They are conceptions for which real men can be worked up into a real
-rapture of sacrifice.  The images under which they are presented
-to the world, and especially the world of their worshippers,
-the golden or the silver eagle, the breastplate of St. Patrick,
-the Roman salute, are things that do in fact lift up the heart,
-and were made by the mind so that they should uplift the heart.
-In short there is in them poetry; and that poetry is the most
-practical thing in the world.
-
-[1] But easier to die for, now she is poor.
-
-Now if the new Imperialists insist on talking of everything
-in terms of the counter and the commercial room, if they insist
-on calling Imperial Preference a Merger, as Lord Beaverbrook did,
-if they insist on comparing a General Election to a Company Flotation,
-as Mr. Amery did, they will make men familiar indeed with
-their [[government]], and in a sense at [[Home|home]] with it, but no more
-capable of loving it than of loving any unlucky investment.
-The [[Time|time]] will come when its existence will depend on its
-power on the [[Imagination|imagination]]; and it will be dignity or [[Death|death]].
-Nor will that dignity come solely from an Imperial Isolation;
-which seems merely to mean, "How we may think in continents
-without thinking of the Continents."
-
------
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-TERMINI COMMERCIALI
-
-È cupamente significativo che l'Organo dell'Impero abbia già cominciato a chiamare la propria politica imperiale con l'allegro nome di «Fusione dell'Impero». Il genere di combine che tutti i popoli liberi hanno punito come una cospirazione è oggi tanto di moda che si ritiene addirittura un complimento applicare questo termine commerciale invece di un titolo politico. In futuro i cortigiani, anziché dire «Vostra Maestà», diranno «Vostro Monopolio»; specialmente rivolgendosi a Moritz IV, della storica [[house|casata]] di Mond, ormai a quel [[Time|tempo]] Imperatore dello Stato Mondiale. Ma in verità [[Doubt|dubitiamo]] piuttosto che vi sarà anche solo tanta dignità quanta questa in un dispotismo simile a quello. L'uomo che preferisce dire «Fusione Imperiale» anziché Protezione Imperiale o Libero Scambio Imperiale è già in questo curioso stato d'animo moderno che in realtà ritiene i termini mercantili più alti di quelli morali o sociali. L'intero sistema di una grande nazione sarà rimodellato sulle abitudini di un grande affare. L'inviato nazionale a [[Paris|Parigi]], anziché essere chiamato «Sua Eccellenza l'Ambasciatore Britannico», sarà chiamato «Il nostro signor Miele-frizzante», e viaggerà con i campioni e sarà fiero di essere chiamato commesso viaggiatore. I giornali monopolisti non si stancano mai di dirci che il mondo avrebbe ormai dovuto superare il linguaggio artificioso e pomposo dei vecchi Protocolli e Ultimatum, e tutte le formali dichiarazioni dei trattati che così spesso sono stati denunciati come Diplomazia Segreta. Senza dubbio i grandi statisti dei grandi Stati, gli eredi di Richelieu e di Canning, corrisponderanno in un inglese più brillante e spedito, buttando giù «Vs. ric. e cont: annotato», quando davvero sia necessario mettere per iscritto gli accordi. Dopotutto, sarà ancora più sbrigativo concludere gli accordi internazionali con voce roca e confidenziale, negli intervalli fra un «Tu cosa prendi?» e un «Dimmi quando». Questo è il grande vantaggio della Nuova Diplomazia sulla vecchia Diplomazia Segreta. La vecchia era così segreta da mettere per iscritto tutti i suoi [[Secrets|segreti]] in laboriosi documenti e spedirli in giro a una cinquantina di persone negli uffici del [[government|Governo]]. La Nuova Diplomazia non ha mai bisogno di essere messa per iscritto; anzi, è meglio di no.
-
-Siamo pronti, naturalmente, a sentirci dire che tutta questa brutta e indecorosa scuola di maniere è molto pratica, e che la vecchia scuola di maniere solenne o artificiosa era molto poco pratica. Dopotutto, la vecchia teoria della dignità fece soltanto cose banali e accessorie, come creare l'Impero Romano, creare la Monarchia Francese e la [[French Revolution|Rivoluzione Francese]], fondare la Repubblica Americana e stabilire mediante avventura personale quello stesso Impero che i nostri affaristi e mercanteggiatori possono soltanto aiutare con l'impersonale réclame. Sono conquiste da poco, in confronto a quella di assicurare che la stessa cattiva gassosa allo zenzero sia venduta ovunque, a esclusione ed estinzione della buona gassosa allo zenzero, oppure che su qualche migliaio di miglia quadrate della verde terra di Dio nessuno abbia altro che un solo tipo di cappello o un solo tipo di [[house|casa]]. Ma per quanto questi argomenti siano indubbiamente stringenti e persuasivi, e rechino una certa apparenza di concretezza e realismo, siamo propensi a integrarli con un suggerimento o un promemoria; l'accenno a qualcosa che perfino pensatori così lucidi paiono aver trascurato. Oggigiorno si considera cosa assai orribile menzionarlo; ed è in effetti cosa assai orribile metterlo alla prova o farne esperienza. Nondimeno è una cosa che può essere messa alla prova o sperimentata; e, anche solo per evitarla, sarebbe molto meglio menzionarla.
-
-L'autorità che governa gli uomini deve essere rispettata; deve persino essere amata. Gli uomini devono in ultima istanza [[Love|amarla]]; per la semplice ragione che gli uomini devono in ultima istanza morire per essa. Nessuna comunità o costituzione può sopravvivere e conservare in alcun modo la propria [[Identity|identità]] se non possiede, nelle menti dei suoi sudditi, abbastanza di un'ideale [[Identity|identità]] da apparire loro, in certi estremi di pericolo, come la visione di qualcosa da salvare. È su quell'ideale, insito nella realtà, che ogni Stato farà affidamento quando vi sarà una lotta di vita e di [[Death|morte]]. Gli uomini devono sentire qualcosa di più intorno all'Inghilterra che non il suo essere commerciale, qualcosa di più intorno alla Francia che non il fatto che i francesi siano pratici e attenti al denaro, qualcosa di più intorno all'[[America]] che non il suo trovarsi in questo momento mostruosamente ricca[1], prima che un qualsiasi essere umano sano e faceto uccida qualcun altro o venga ucciso egli stesso, e abbandoni la luce del sole e gli affetti sereni di questo mondo, per amore di una simile astrazione. Si scoprirà, dunque, che la teoria pratica fallisce nel momento più pratico. Essa è utile finché si tratta di stabilire se lo Stato debba continuare a essere ricco, o continuare a essere imperiale, o continuare a essere monopolista. È inutile quando si tratta di stabilire se lo Stato debba continuare a essere. Lo Stato materialistico, cementato soltanto col denaro come col fango, cadrà a pezzi sotto il colpo di un qualsiasi popolo che nutra [[Love|amore]] o lealtà verso i propri capi o la propria causa; per la semplice ragione che coloro che più tengono al denaro tengono di più alla vita. Si può amare o detestare il Fascismo d'[[Italy|Italia]], l'ardente nazionalismo dei polacchi, il profondo cattolicesimo degli irlandesi; ma non v'è [[Doubt|dubbio]] che i loro ideali possano essere idealizzati. Sono concezioni per le quali uomini reali possono essere trascinati in un reale rapimento di sacrificio. Le immagini sotto le quali essi vengono presentati al mondo, e specialmente al mondo dei loro adoratori — l'aquila d'oro o d'argento, la corazza di San Patrizio, il saluto romano — sono cose che di fatto sollevano il cuore, e furono foggiate dalla mente affinché sollevassero il cuore. Insomma, in esse vi è poesia; e quella poesia è la cosa più pratica del mondo.
-
-[1] Ma più facile morire per lei, ora che è povera.
-
-Ora, se i nuovi Imperialisti insistono nel parlare di ogni cosa in termini di bancone e di sala di commercio, se insistono nel chiamare Fusione la Preferenza Imperiale, come fece Lord Beaverbrook, se insistono nel paragonare un'Elezione Generale al Collocamento di una Società, come fece il signor Amery, renderanno gli uomini davvero familiari col loro [[government|governo]], e in un certo senso a proprio [[Home|agio]] con esso, ma non più capaci di amarlo di quanto lo siano di amare un qualsiasi sfortunato investimento. Verrà il [[Time|tempo]] in cui la sua esistenza dipenderà dal suo potere sull'[[Imagination|immaginazione]]; e sarà dignità o [[Death|morte]]. Né quella dignità verrà unicamente da un Isolamento Imperiale; il che sembra significare soltanto: «Come possiamo pensare in continenti senza pensare ai Continenti».
-
------
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_28_shocking_the_modernists" data-title="Well And Shallows — Shocking The Modernists" data-chapter="Shocking The Modernists" data-kind="story"></span>
-
-
-SHOCKING THE MODERNISTS
-
-How do we manage to stagger on blinded by the blaze of wit
-and starry brilliancy, that is showered upon us like everlasting
-fireworks every day in the daily papers?  The writers in those
-papers who so often remind us, with never-failing freshness,
-that things that were once rare luxuries are now multiplied
-and minutely and exactly imitated everywhere, surely will not fail
-to apply this same striking [[Truth|truth]] to the intellectual world.
-They will doubtless point out that those perfect and pointed epigrams,
-which were once heard only from exceptional individuals,
-like Voltaire and Talleyrand, are now invented by the hundred
-in every column of every newspaper, and it is hardly possible
-to find a single dull sentence wedged between the witty repartees
-and immortal jests, which can now, like everything else of any value,
-be produced in any quantity by mass production.
-
-However this may be, there can be no [[Doubt|doubt]] that our journalism,
-and the world it describes, has reached an acute sensibility
-to wit and verbal brilliance, which has never been known before;
-and is so vividly alert and alive to any such ringing and
-rapier-like logical fencing as to cry "a hit! a palpable hit!"
-in circumstances in which it is only too likely that our
-duller forefathers would have remained deaf or indifferent.
-I once read a paragraph in a daily paper, about a notable outburst
-among the most advanced intellects in the Church of England,
-which bears witness to the promptitude with which such triumphs
-are appreciated.  Under the two headlines of "Youth Finds Church
-a Bore," and "A Girl Tells Clergy," the paragraph, or rather
-series of paragraphs was arranged in a suitably sensational
-way as follows:-
-
-"Youth finds church a bore--and stays away from it.
-This contention, put forward by a girl of eighteen from the platform
-at Girton College, Cambridge, yesterday, made the elderly
-delegates to the Modern Churchman's Conference sit up sharply
-in their seats.
-
-"The speaker was the attractive daughter of a Portsmouth
-naval chaplain.  Her most telling passage was this:  'I don't
-think public worship has any attraction whatsoever for the young.
-Religion is supposed to express God through [[Truth|truth]] and [[Beauty|beauty]],
-we are told, but in this age of specialisation people turn
-to science, art and [[philosophy]] to satisfy those needs'."
-
-I [[Wonder|wonder]] what her least telling passage was.
-
-Of course the fun really begins with the astounding and staggering
-effect produced by the original thunderbolt of thought
-"Youth Finds Church a Bore," on all those admittedly elderly delegates
-who were sufficiently ancient to be described as Modern Churchmen.
-Dr. Major leapt to his feet with a howl; Dean Inge bounced up
-to the ceiling like a ball.  Dr. Rashdall uttered one piercing
-shriek and fainted; for not one of these venerable doctors,
-in all their long experience of the Modernist Movement,
-had ever heard one human being articulate with human lips
-the star-staggering blasphemy that youth finds church a bore.
-Not one of them had ever heard so much as a rumour of young
-people yawning during a sermon; to none had any voice dared
-to whisper that little boys have been known to catch flies or dig
-penknives into pews during Divine service; not one of them
-had ever in his life heard a baby begin to squeal in church;
-none had ever listened to the hideous slander that youths and maidens
-in church had been known to look at each other instead of keeping
-their eyes fixed rigidly on the lectern (for nobody in the church
-of a Modern Churchman would condescend to look at the altar);
-none of them ever knew before that there had ever been any friction
-between the fits and moods of youth and the routine of religion.
-Never, until the attractive daughter of a Portsmouth naval
-chaplain made this stupendous discovery in modern psychology,
-had they even thought of the possibility that a long religious
-service might be rather a bore to a boy.
-
-But yet, even about that discovery, it seems as if there might
-be more to be said.  Some of the elderly Modern Churchmen have
-been schoolmasters.  It seems just possible that some of them had
-discovered that the Sixth Book of the AEneid can be a bore to a boy.
-But in those cases it was not invariably assumed that the boy was
-right and the poet was wrong.  It was not taken for granted that
-the boredom of the boy in itself proves that Virgil is a bad poet;
-still less did anyone ever propose that a simplified and modernised
-version of Virgil must be substituted for the old one.
-Nobody proposed that passages from Kipling about the British Empire
-should be substituted for the more austere salutations of
-Virgil to the Roman Empire, because such [[Education|education]] would be
-more modern, compact and convenient to a truly National Church.
-Nobody proposed that a really smart and snappy up-to-date description
-of the Derby, taken from an evening paper, should be regarded
-as a complete substitute for that thundering line in which
-the very earth shakes with the horsehoofs of the charioteers.
-And, if I may venture to hint a disagreement with the Prophetess
-of Girton College, Cambridge, I think it will be found that the same
-argument applies even to the substitutes that she herself proposes.
-She says that people turn to science, art and [[philosophy]].
-Will she swear by the [[Death]] of Nelson, or whatever oath binds
-the daughter of a Portsmouth naval chaplain, that no science
-student ever shirks or plays truant in a science school?
-It will be vain for her to swear any such thing in the case
-of an art school; for I have been to an art school myself,
-and I can assure her that there were quite as many art
-students who found application to art a bore as there could
-possibly be divinity students who found divinity a bore.
-As for young philosophers, I have known a good many of them;
-at an age when nearly all of them were much more fond of philosophising
-than of learning [[philosophy]].  And I might hint that there
-are other young agitators, of the sort that seem to agitate
-so strangely the Modern Churchmen and the modern newspapers,
-who seem to have a certain spirited and spontaneous preference
-for saying things rather than for thinking what they are saying.
-Is it really necessary that we should toil through all this tiresome
-repetition about the perfectly obvious difficulty of getting young
-people to work when they naturally want to play, before we even begin
-to discuss the mature problem of the relation of doctrine to the mind?
-It is perfectly natural that the boy should find the church a bore.
-But why are we bound to treat what is natural as something actually
-superior to what is [[Supernatural|supernatural]]; as something which is not even
-merely [[Supernatural|supernatural]], but is in the exact sense super-[[Supernatural|supernatural]]?
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-SCANDALIZZARE I MODERNISTI
-
-Come riusciamo a barcollare avanti, accecati dal bagliore di arguzia
-e di stellare brillantezza, che ci viene riversato addosso come eterni
-fuochi d'artificio ogni giorno sui quotidiani? Gli scrittori di quei
-giornali che tanto spesso ci ricordano, con mai spenta freschezza,
-che le cose un tempo rare e lussuose sono ora moltiplicate
-e minutamente ed esattamente imitate ovunque, non mancheranno di certo
-di applicare questa stessa lampante [[Truth|verità]] al mondo intellettuale.
-Ci faranno senza dubbio notare che quegli epigrammi perfetti e taglienti,
-un tempo uditi soltanto da individui eccezionali,
-come Voltaire e Talleyrand, sono ora inventati a centinaia
-in ogni colonna di ogni giornale, ed è a stento possibile
-trovare una sola frase scialba incastrata tra le argute repliche
-e le immortali facezie, che ora, come ogni altra cosa di qualche valore,
-si possono produrre in qualsiasi quantità mediante la produzione di massa.
-
-Comunque stiano le cose, non vi può essere alcun [[Doubt|dubbio]] che il nostro giornalismo,
-e il mondo che esso descrive, abbia raggiunto un'acuta sensibilità
-all'arguzia e alla brillantezza verbale, quale mai si era conosciuta prima;
-ed è così vivacemente vigile e desto a ogni squillante e
-affilata schermaglia logica da gridare «un colpo! un colpo evidente!»
-in circostanze nelle quali è fin troppo probabile che i nostri
-più ottusi antenati sarebbero rimasti sordi o indifferenti.
-Lessi una volta un paragrafo su un quotidiano, riguardo a un notevole scoppio
-tra gli intelletti più avanzati della Chiesa d'Inghilterra,
-che rende testimonianza della prontezza con cui simili trionfi
-vengono apprezzati. Sotto i due titoli «I giovani trovano la Chiesa
-noiosa» e «Una ragazza lo dice al clero», il paragrafo, o piuttosto
-la serie di paragrafi, era disposto in modo opportunamente sensazionalistico
-come segue:—
-
-«I giovani trovano la Chiesa noiosa—e se ne stanno alla larga.
-Questa tesi, avanzata da una ragazza di diciotto anni dal podio
-del Girton College, a Cambridge, ieri, fece sobbalzare bruscamente
-gli attempati delegati della Conferenza dei Chierici Moderni
-sui loro seggi.
-
-«L'oratrice era l'avvenente figlia di un cappellano
-navale di Portsmouth. Il suo passo più incisivo fu questo: "Non
-credo che il culto pubblico abbia la benché minima attrattiva per i giovani.
-La religione dovrebbe esprimere Dio attraverso la [[Truth|verità]] e la [[Beauty|bellezza]],
-così ci si dice, ma in quest'epoca di specializzazione la gente si rivolge
-alla scienza, all'arte e alla [[philosophy|filosofia]] per soddisfare quei bisogni".»
-
-Mi [[Wonder|domando]] quale fosse il suo passo meno incisivo.
-
-Naturalmente il divertimento comincia davvero con l'effetto sbalorditivo
-e sconvolgente prodotto dall'originale fulmine di pensiero
-«I giovani trovano la Chiesa noiosa», su tutti quei delegati notoriamente attempati
-abbastanza antichi da poter essere definiti Chierici Moderni.
-Il dottor Major balzò in piedi con un urlo; il decano Inge rimbalzò
-fino al soffitto come una palla. Il dottor Rashdall lanciò un solo penetrante
-strillo e svenne; poiché nessuno di questi venerabili dottori,
-in tutta la loro lunga esperienza del Movimento Modernista,
-aveva mai udito un solo essere umano articolare con labbra umane
-la blasfemia sconvolgente come un astro secondo cui i giovani trovano la Chiesa noiosa.
-Nessuno di loro aveva mai udito neppure una voce di giovani
-che sbadigliavano durante un sermone; a nessuno una voce aveva mai osato
-sussurrare che si sa di ragazzini che acchiappano mosche o piantano
-temperini nei banchi durante il servizio divino; nessuno di loro
-aveva mai in vita sua udito un bimbo mettersi a strillare in chiesa;
-nessuno aveva mai prestato ascolto all'orrenda calunnia che giovani e fanciulle
-in chiesa si sapesse guardarsi l'un l'altra invece di tenere
-gli occhi rigidamente fissi sul leggìo (poiché nessuno nella chiesa
-di un Chierico Moderno si degnerebbe di guardare l'altare);
-nessuno di loro aveva mai saputo prima che vi fosse mai stato alcun attrito
-tra gli slanci e gli umori della gioventù e la routine della religione.
-Mai, prima che l'avvenente figlia di un cappellano navale di
-Portsmouth facesse questa stupenda scoperta nella psicologia moderna,
-avevano anche solo pensato alla possibilità che un lungo servizio
-religioso potesse riuscire piuttosto noioso a un ragazzo.
-
-Eppure, anche su quella scoperta, pare che vi sia
-qualcosa di più da dire. Alcuni degli attempati Chierici Moderni sono
-stati maestri di scuola. Pare appena possibile che qualcuno di loro avesse
-scoperto che il Sesto Libro dell'Eneide può riuscire noioso a un ragazzo.
-Ma in quei casi non si dava invariabilmente per scontato che il ragazzo avesse
-ragione e il poeta torto. Non si dava per certo che
-la noia del ragazzo dimostri di per sé che Virgilio è un cattivo poeta;
-ancor meno mai qualcuno propose che si dovesse sostituire una versione
-semplificata e modernizzata di Virgilio a quella antica.
-Nessuno propose che passi di Kipling sull'Impero britannico
-si dovessero sostituire ai più austeri saluti di
-Virgilio all'Impero romano, perché tale [[Education|istruzione]] sarebbe
-più moderna, compatta e comoda per una Chiesa davvero Nazionale.
-Nessuno propose che una descrizione davvero brillante, spiccia e aggiornata
-del Derby, tratta da un giornale della sera, dovesse essere considerata
-un completo sostituto di quel tonante verso in cui
-la terra stessa trema sotto gli zoccoli dei cavalli degli aurighi.
-E, se posso azzardarmi ad accennare un dissenso con la Profetessa
-del Girton College, a Cambridge, credo si scoprirà che il medesimo
-argomento vale anche per i sostituti che ella stessa propone.
-Ella dice che la gente si rivolge alla scienza, all'arte e alla [[philosophy|filosofia]].
-Giurerà, sulla [[Death|morte]] di Nelson, o su qualunque giuramento vincoli
-la figlia di un cappellano navale di Portsmouth, che nessuno studente
-di scienze mai marina o fa forca in una scuola di scienze?
-Sarà vano per lei giurare alcunché di simile nel caso
-di una scuola d'arte; poiché io stesso sono stato a una scuola d'arte,
-e posso assicurarle che c'erano ben altrettanti studenti d'arte
-che trovavano noioso applicarsi all'arte, quanti potrebbero
-mai esservi studenti di teologia che trovano noiosa la teologia.
-Quanto ai giovani filosofi, ne ho conosciuti parecchi;
-a un'età in cui quasi tutti erano assai più amanti del filosofeggiare
-che dell'imparare la [[philosophy|filosofia]]. E potrei accennare che vi
-sono altri giovani agitatori, del genere che pare agitare
-così stranamente i Chierici Moderni e i moderni giornali,
-i quali paiono avere una certa vivace e spontanea preferenza
-per il dire le cose piuttosto che per il pensare ciò che stanno dicendo.
-È proprio necessario che si debba faticare attraverso tutta questa tediosa
-ripetizione sulla perfettamente ovvia difficoltà di indurre i giovani
-a lavorare quando naturalmente vogliono giocare, prima ancora di cominciare
-a discutere il maturo problema del rapporto tra dottrina e mente?
-È perfettamente naturale che il ragazzo trovi la Chiesa noiosa.
-Ma perché siamo tenuti a trattare ciò che è naturale come qualcosa di realmente
-superiore a ciò che è [[Supernatural|soprannaturale]]; come qualcosa che non è nemmeno
-meramente [[Supernatural|soprannaturale]], ma è nel senso esatto super-[[Supernatural|soprannaturale]]?
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_29_a_grammar_of_knighthood" data-title="Well And Shallows — A Grammar Of Knighthood" data-chapter="A Grammar Of Knighthood" data-kind="story"></span>
-
-
-A GRAMMAR OF KNIGHTHOOD
-
-I THINK it very likely that many have never even heard
-of The Broadstone of [[Honour]], the manual of chivalry written
-by Kenelm Digby early in the nineteenth century; unless they
-remember one contemptuous reference to it in Macaulay's Essays.
-The reference is not much of a criticism on the Broadstone of [[Honour]],
-but it is a very damaging criticism of Macaulay's Essays.
-It illustrates, not only his spirited superficiality,
-but that considerable element of ignorance that went along
-with his remarkable reputation for omniscience.  Just as his
-celebrated sneer at Spenser shows that he had not read Spenser,
-so his less famous sneer at Kenelm Digby shows that he had not
-read Kenelm Digby.  He set himself to belittle certain old tales
-of courtesy, which is the wedding of [[Humility|humility]] with dignity.
-He scoffed at such stories as that of the Black Prince waiting
-like a servant on his helpless captive; and he thought he could
-not scoff at them more effectively than by saying they would be
-suitable to Kenelm Digby; or, as he put it, to "those who think,
-like the author of The Broadstone of [[Honour]], that God made
-the world for the use of gentlemen."  One is tempted to reply,
-in some moods, that there will always be enough bounders,
-even among the learned, to redress the balance.
-
-Now Kenelm Henry Digby was, as his name implies, a member of an old
-Catholic family, established in Ireland; and, as with the other
-branches of such old families established in England, it would not be
-very unnatural if he did attach some importance to being a gentleman.
-If the weakness has sometimes been too apparent in the old Catholics
-of England, it is at least pardonable and rather pathetic.
-When you are an honest and perfectly patriotic squire, and all
-your countrymen regard you as a liar, a traitor, a poisoner
-and a devil-worshipper, it must be something of a sentimental
-comfort to you that they cannot deny you are a gentleman.
-Poor human [[Nature|nature]] being what it is, you may be excused if you come
-to think a little too much of it.  And Kenelm Digby might have
-been excused if he really had thought too much of it; and talked
-nonsense about gentlemen, as if God had made the world for them.
-But as a simple fact, it was not Digby who talked nonsense
-about gentlemen, but Macaulay who talked nonsense about Digby.
-
-What would Macaulay have said if after writing his [[Epigram|epigram]]
-about a universe created for the gentry, he had made the bold
-experiment of opening the book at random, as I did, and reading
-a paragraph like this:
-
-"The noble Italian Arnigio shows how truly generous and heroic
-peasants and men of the lowest rank of life may become."
-"The glorious nativity of the Redeemer of the world," he observes,
-"was revealed to shepherds, as to men pure, just and vigilant.
-When our adorable Saviour was to be born blessed Mary and
-the devout Joseph were so little possessed of worldly grandeur
-that the stable of an inn was their only place of refuge.
-For mark, says a holy man, the evangelists do not say that there
-was no room in the inn, but there was no room for them.
-Oh what a noble school is [[Poverty|poverty]]!  What a temple of sovereign [[Honour|honour]]!
-Pope Urban IV was so little ashamed of being the son of a
-shoemaker that he ordered the pulpit of the church of St. Urban,
-at Troyes, his native [[City|city]], to be adorned on great festivals
-with tapestry representing his father's stall.  There is even
-an example of legislation, on the principles of the romances,
-which places Chivalry before nobility, for the state of Pistoja,
-in the thirteenth century ennobled men as a punishment
-for their crimes."
-
-Do you think that perhaps even Macaulay would have felt slightly
-ashamed of himself?
-
-Anyhow the author of The Broadstone of [[Honour]] did not think
-the world was made only for gentlemen He thought in his simplicity
-that it was made for man; and he could not escape from a prejudice
-in favour of brave men and honest men and (I am so antiquated
-as to add) men who felt a special consideration for women.
-The book has some of the faults of its type and [[Time|time]]; in that
-sense it is now rather dated; nearly as much dated as Macaulay.
-We must read it, or at least parts of it, rather as we read
-a [[Song|song]] of Tom Moore or a patriotic poem of Thomas Davis,
-or all that rather rhetorical yet very red-blooded tradition
-ot talking and writing that derived from the mishty [[Melodrama|melodrama]]
-of Byron or was sympathetically satirised in Micawber.
-But when we have allowed for variations in the taste for
-purple patches, a matter entirely relative in our taste as in his,
-the book is sustained from first to last by what can only be called
-a sustained energy of virtue.  It does anybody good to meet
-a man so little ashamed of an enthusiasm for mere goodness.
-Many of his gestures are as noble as any of those that
-make the decisive moments in the Chansons de Geste.
-Many of his concessions are as graceful as any that he himself
-praises in the chronicles of the tournament or the tented field.
-But he was very far from being merely an amiable old antiquary
-haunting Melrose by moonlight; or even a dazed [[Don Quixote]]
-with his head hidden in folios about [[arthur|Arthur]] and Amadis of Gaul.
-I cannot resist making another quotation which will serve
-to show that Kenelm Digby was not by any means unconscious
-of what was going on in his own [[Time|time]]--and, I will add,
-is still going on in ours.
-
-After speaking of St. Francis and of many knights who would
-feed the poor and eat with them and carry their coffins,
-he says, "Oh! is it for the rich of the nineteenth century
-to talk of the inhumanity of the Middle Ages?  To give alms,
-with them, is to encourage idleness.  He is hungry, he is naked?
-Let him work.  But he is old?  There are employments for all.
-But he is a [[Child|child]]?  Do not teach him to beg.  It is the mother
-of a large family?  Perhaps she does not tell the [[Truth|truth]].
-We have institutions on a new system.  Yes truly, and woe
-to the unhappy ones who are doomed to receive relief from them!
-In order that the children of pleasure may not be incommoded
-by the sight of [[Poverty|poverty]] the poor are shut up within high walls
-and condemned to confinement for the crime of being poor
-and miserable.  When they are thus secluded from the enjoyment
-of [[Nature|nature]] an odious Board of Governors takes care that they
-should be provided with what is sufficient to support life.
-And then they have to endure the countenances of ferocious barbarians
-who are the officers to administer this horrible humanity."
-
-That is the testimony of Digby, as it is the testimony of Dickens,
-who did not presumably labour under the illusion that God made
-the world only for gentlemen.  That is also the testimony of Cobbett,
-of Carlyle, of Hood, of Ruskin, of everybody who actually watched
-the modern industrial movement with his eyes open; but the fact
-that Digby wrote that paragraph may [[Alone|alone]] be my apology for writing
-this note on his neglected name.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-UNA GRAMMATICA DELLA CAVALLERIA
-
-CREDO assai probabile che molti non abbiano mai neppure sentito nominare
-The Broadstone of [[Honour]], il manuale di cavalleria scritto
-da Kenelm Digby all'inizio dell'Ottocento; a meno che non
-ricordino un unico sprezzante accenno a esso nei Saggi di Macaulay.
-L'accenno non è una gran critica al Broadstone of [[Honour]],
-ma è una critica assai dannosa ai Saggi di Macaulay.
-Esso illustra non solo la sua brillante superficialità,
-ma quel considerevole elemento d'ignoranza che accompagnava
-la sua notevole fama di onniscienza. Proprio come il suo
-celebre sarcasmo verso Spenser mostra che non aveva letto Spenser,
-così il suo meno famoso sarcasmo verso Kenelm Digby mostra che non aveva
-letto Kenelm Digby. Egli si accinse a sminuire certe vecchie storie
-di cortesia, che è lo sposalizio dell'[[Humility|umiltà]] con la dignità.
-Schernì storie come quella del Principe Nero che serviva
-al pari di un domestico il suo inerme prigioniero; e pensò di non poterle
-schernire più efficacemente che dicendo che sarebbero
-adatte a Kenelm Digby; o, come ebbe a dire, a «coloro che pensano,
-come l'autore del Broadstone of [[Honour]], che Dio abbia fatto
-il mondo per uso dei gentiluomini». Si è tentati di replicare,
-in certi stati d'animo, che vi saranno sempre zoticoni a sufficienza,
-persino tra i dotti, a raddrizzare la bilancia.
-
-Ora, Kenelm Henry Digby era, come il suo nome implica, membro di un'antica
-famiglia cattolica, stabilitasi in Irlanda; e, come per gli altri
-rami di simili antiche famiglie stabilitesi in Inghilterra, non sarebbe
-molto innaturale se egli attribuisse qualche importanza all'essere un gentiluomo.
-Se la debolezza è talvolta stata fin troppo evidente negli antichi cattolici
-d'Inghilterra, essa è per lo meno scusabile e piuttosto commovente.
-Quando sei un onesto e perfettamente patriottico possidente, e tutti
-i tuoi compatrioti ti considerano un bugiardo, un traditore, un avvelenatore
-e un adoratore del diavolo, dev'essere per te un certo sentimentale
-conforto il fatto che non possano negarti d'essere un gentiluomo.
-Essendo la povera [[Nature|natura]] umana ciò che è, ti si può scusare se arrivi
-a farne un po' troppo caso. E Kenelm Digby avrebbe potuto
-essere scusato se davvero ne avesse fatto troppo caso; e avesse detto
-sciocchezze sui gentiluomini, come se Dio avesse fatto il mondo per loro.
-Ma, come semplice dato di fatto, non fu Digby a dire sciocchezze
-sui gentiluomini, bensì Macaulay a dire sciocchezze su Digby.
-
-Cosa avrebbe detto Macaulay se, dopo aver scritto il suo [[Epigram|epigramma]]
-su un universo creato per la nobiltà, avesse fatto l'ardito
-esperimento di aprire il libro a caso, come feci io, e di leggere
-un paragrafo come questo:
-
-«Il nobile italiano Arnigio mostra quanto veramente generosi ed eroici
-possano diventare i contadini e gli uomini del più umile rango della vita.»
-«La gloriosa natività del Redentore del mondo», egli osserva,
-«fu rivelata ai pastori, in quanto uomini puri, giusti e vigilanti.
-Quando il nostro adorabile Salvatore stava per nascere, la beata Maria e
-il devoto Giuseppe erano così poco provvisti di grandezza mondana
-che la stalla di una locanda fu il loro unico luogo di rifugio.
-Poiché, osserva un sant'uomo, gli evangelisti non dicono che non vi
-fosse posto nella locanda, ma che non vi fosse posto per loro.
-Oh, che nobile scuola è la [[Poverty|povertà]]! Che tempio del sovrano [[Honour|onore]]!
-Papa Urbano IV si vergognava così poco d'essere figlio di un
-calzolaio, che ordinò che il pulpito della chiesa di Sant'Urbano,
-a Troyes, sua [[City|città]] natale, fosse adornato nelle grandi festività
-con un arazzo raffigurante il banchetto di suo padre. Vi è persino
-un esempio di legislazione, secondo i principi dei romanzi cavallereschi,
-che pone la Cavalleria al di sopra della nobiltà, giacché lo stato di Pistoia,
-nel tredicesimo secolo, nobilitava gli uomini come punizione
-per i loro delitti.»
-
-Non pensate che forse persino Macaulay avrebbe provato una leggera
-vergogna di sé stesso?
-
-Comunque, l'autore del Broadstone of [[Honour]] non pensava
-che il mondo fosse fatto solo per i gentiluomini. Egli pensava, nella sua semplicità,
-che fosse fatto per l'uomo; e non poteva sfuggire a un pregiudizio
-in favore degli uomini coraggiosi e degli uomini onesti e (sono così antiquato
-da aggiungerlo) degli uomini che nutrivano un particolare riguardo per le donne.
-Il libro ha alcuni dei difetti del suo genere e della sua [[Time|epoca]]; in tal
-senso è ormai piuttosto datato; datato quasi quanto Macaulay.
-Dobbiamo leggerlo, o almeno certe sue parti, piuttosto come leggiamo
-una [[Song|canzone]] di Tom Moore o un poema patriottico di Thomas Davis,
-o tutta quella tradizione piuttosto retorica eppure assai focosa
-di parlare e scrivere che derivava dal possente [[Melodrama|melodramma]]
-di Byron o veniva bonariamente satireggiata in Micawber.
-Ma quando abbiamo tenuto conto delle variazioni nel gusto per
-le tirate purpuree, faccenda del tutto relativa al nostro gusto come al suo,
-il libro è sorretto dal principio alla fine da ciò che si può solo chiamare
-una sostenuta energia della virtù. Fa bene a chiunque incontrare
-un uomo così poco imbarazzato di un entusiasmo per la mera bontà.
-Molti dei suoi gesti sono nobili quanto qualsiasi di quelli che
-segnano i momenti decisivi nelle Chansons de Geste.
-Molte delle sue concessioni sono aggraziate quanto qualsiasi egli stesso
-ne lodi nelle cronache del torneo o del campo attendato.
-Ma egli era assai lontano dall'essere un mero amabile vecchio antiquario
-che aleggia intorno a Melrose al chiaro di luna; o anche un frastornato [[Don Quixote|Don Chisciotte]]
-con la testa nascosta in folianti su [[arthur|Artù]] e Amadigi di Gaula.
-Non posso resistere dal fare un'altra citazione che servirà
-a mostrare che Kenelm Digby non era affatto inconsapevole
-di ciò che accadeva ai suoi [[Time|tempi]]—e, aggiungerò,
-accade ancora ai nostri.
-
-Dopo aver parlato di san Francesco e di molti cavalieri che
-nutrivano i poveri e mangiavano con loro e ne portavano le bare,
-egli dice: «Oh! spetta forse ai ricchi dell'Ottocento
-parlare dell'inumanità del Medioevo? Fare l'elemosina,
-per loro, è incoraggiare l'ozio. Ha fame, è nudo?
-Lavori. Ma è vecchio? Vi sono occupazioni per tutti.
-Ma è un [[Child|bambino]]? Non insegnargli a mendicare. È la madre
-di una famiglia numerosa? Forse non dice la [[Truth|verità]].
-Abbiamo istituzioni fondate su un nuovo sistema. Sì, davvero, e guai
-agli infelici che sono condannati a ricevere soccorso da esse!
-Affinché i figli del piacere non siano molestati
-dalla vista della [[Poverty|povertà]], i poveri vengono rinchiusi entro alte mura
-e condannati alla reclusione per il delitto di essere poveri
-e miserabili. Quando così sono segregati dal godimento
-della [[Nature|natura]], un odioso Consiglio di Governatori si cura che
-siano provvisti di quanto basta a sostenere la vita.
-E poi devono sopportare i volti di feroci barbari
-che sono i funzionari incaricati di amministrare questa orribile umanità.»
-
-Questa è la testimonianza di Digby, come è la testimonianza di Dickens,
-il quale presumibilmente non pativa l'illusione che Dio avesse fatto
-il mondo solo per i gentiluomini. Questa è anche la testimonianza di Cobbett,
-di Carlyle, di Hood, di Ruskin, di chiunque abbia davvero osservato
-il moderno movimento industriale a occhi aperti; ma il fatto
-che Digby abbia scritto quel paragrafo può da [[Alone|solo]] essere la mia scusa per scrivere
-questa nota sul suo trascurato nome.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_31_sex_and_property" data-title="Well And Shallows — Sex And Property" data-chapter="Sex And Property" data-kind="story"></span>
-
-
-SEX AND PROPERTY
-
-IN the dull, dusty, stale, stiff-jointed and lumbering language,
-to which most modern discussion is limited, it is necessary
-to say that there is at this moment the same fashionable fallacy
-about Sex and about Property.  In the older and freer language,
-in which men could both speak and sing, it is truer to say that
-the same evil spirit has blasted the two great powers that make
-the poetry of life; the [[Love]] of Woman and the [[Love]] of the Land.
-It is important to observe, to start with, that these two things
-were closely connected so long as humanity was human, even when it
-was heathen.  Nay, they were still closely connected, even when it
-was a decadent heathenism.  But even the stink of decaying heathenism
-has not been so bad as the stink of decaying [[Christianity]].
-The corruption of the best....
-
-For instance, there were throughout antiquity, both in its first stage
-and its last, modes of idolatry and imagery of which Christian men
-can hardly speak.  "Let them not be so much as named among you."
-Men wallowed in the mere [[Sexuality|sexuality]] of a mythology of sex; they organised
-prostitution like priesthood, for the service of their temples;
-they made pornography their only poetry; they paraded emblems that turned
-even architecture into a sort of cold and colossal exhibitionism.
-Many learned books have been written of all these phallic cults;
-and anybody can go to them for the details, for all I care.
-But what interests me is this:
-
-In one way all this ancient sin was infinitely superior,
-immeasurably superior, to the modern sin.  All those who write
-of it at least agree on one fact; that it was the cult
-of Fruitfulness.  It was unfortunately too often interwoven,
-very closely, with the cult of the fruitfulness of the land.
-It was at least on the side of [[Nature]].  It was at least on
-the side of Life.  It has been left to the last Christians,
-or rather to the first Christians fully committed to
-blaspheming and denying [[Christianity]], to invent a new kind
-of worship of Sex, which is not even a worship of Life.
-It has been left to the very latest Modernists to proclaim an
-erotic religion which at once exalts lust and forbids fertility.
-The new Paganism literally merits the reproach of Swinburne,
-when mourning for the old Paganism:  "and rears not the bountiful
-token and spreads not the fatherly feast."  The new priests
-abolish the fatherhood and keep the feast-to themselves.
-They are worse than Swinburne's Pagans.  The priests of Priapus
-and Cotytto go into the kingdom of heaven before them.
-
-Now it is not unnatural that this unnatural separation,
-between sex and fruitfulness, which even the Pagans would
-have thought a perversion, has been accompanied with a similar
-separation and perversion about the [[Nature|nature]] of the [[Love|love]] of the land.
-In both departments there is precisely the same fallacy;
-which it is quite possible to state precisely.  The reason
-why our contemporary countrymen do not understand what we
-mean by Property is that they only think of it in the sense
-of Money; in the sense of salary; in the sense of something
-which is immediately consumed, enjoyed and expended;
-something which gives momentary pleasure and disappears.
-They do not understand that we mean by Property something
-that includes that pleasure incidentally; but begins and ends
-with something far more grand and worthy and creative.
-The man who makes an orchard where there has been a field,
-who owns the orchard and decides to whom it shall descend,
-does also enjoy the taste of apples; and let us [[Hope|hope]], also,
-the taste of cider.  But he is doing something very much grander,
-and ultimately more gratifying, than merely eating an apple.
-He is imposing his will upon the world in the manner of the charter
-given him by the will of God; he is asserting that his [[Soul|soul]] is
-his own, and does not belong to the Orchard Survey Department,
-or the chief Trust in the Apple Trade.  But he is also doing
-something which was implicit in all the most ancient religions
-of the earth; in those great panoramas of pageantry and ritual
-that followed the order of the [[Seasons|seasons]] in China or Babylonia;
-he is worshipping the fruitfulness of the world.  Now the notion
-of narrowing property merely to enjoying money is exactly
-like the notion of narrowing [[Love|love]] merely to enjoying sex.
-In both cases an incidental, isolated, servile and even secretive
-pleasure is substituted for participation in a great creative process;
-even in the everlasting Creation of the world.
-
-The two sinister things can be seen side by side in the system
-of Bolshevist [[Russia]]; for Communism is the only complete
-and logical working model of Capitalism.  The sins are there
-a system which are everywhere else a sort of repeated blunder.
-From the first, it is admitted, that the whole system
-was directed towards encouraging or driving the worker
-to spend his wages; to have nothing left on the next pay day;
-to enjoy everything and consume everything and efface everything;
-in short, to shudder at the thought of only one crime;
-the creative crime of thrift.  It was a tame extravagance;
-a sort of disciplined dissipation; a meek and submissive prodigality.
-For the moment the slave left off drinking all his wages,
-the moment he began to hoard or hide any property, he would be
-saving up something which might ultimately purchase his liberty.
-He might begin to count for something in the State; that is,
-he might become less of a slave and more of a citizen.
-Morally considered, there has been nothing quite so unspeakably
-mean as this Bolshevist generosity.  But it will be noted
-that exactly the same spirit and tone pervades the manner
-of dealing with the other matter.  Sex also is to come to
-the slave merely as a pleasure; that it may never be a power.
-He is to know as little as possible, or at least to think
-as little as possible, of the pleasure as anything else except
-a pleasure; to think or know nothing of where it comes from
-or where it will go to, when once the soiled object has passed
-through his own hands.  He is not to trouble about its origin
-in the purposes of God or its sequel in the posterity of man.
-In every department he is not a possessor, but only a consumer;
-even if it be of the first elements of life and [[Fire|fire]]
-in so far as they are consumable; he is to have no notion
-of the sort of Burning Bush that burns and is not consumed.
-For that bush only grows on the soil, on the real land
-where human beings can behold it; and the spot on which they
-stand is holy ground.  Thus there is an exact parallel between
-the two modern moral, or immoral, ideas of social [[Reform|reform]].
-The world has forgotten simultaneously that the making of a Farm
-is something much larger than the making of a profit, or even
-a product, in the sense of liking the taste of beetroot sugar;
-and that the founding of a Family is something much larger
-than sex in the limited sense of.current literature; which was
-anticipated in one bleak and blinding flash in a single line
-of George Meredith; "And eat our pot of honey on the [[Grave|grave]]."
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-SESSO E PROPRIETÀ
-
-NEL linguaggio ottuso, polveroso, stantio, rigido nelle giunture e pesante,
-a cui è limitata gran parte della discussione moderna, è necessario
-dire che vi è in questo momento la medesima fallacia di moda
-riguardo al Sesso e riguardo alla Proprietà. Nel linguaggio più antico e più libero,
-in cui gli uomini sapevano insieme parlare e cantare, è più vero dire che
-il medesimo spirito maligno ha inaridito le due grandi potenze che fanno
-la poesia della vita; l'[[Love|Amore]] della Donna e l'[[Love|Amore]] della Terra.
-È importante osservare, per cominciare, che queste due cose
-erano strettamente connesse finché l'umanità fu umana, persino quando fu
-pagana. Anzi, esse erano ancora strettamente connesse, persino quando fu
-un paganesimo decadente. Ma persino il fetore del paganesimo in decomposizione
-non è stato così pessimo come il fetore del [[Christianity|Cristianesimo]] in decomposizione.
-La corruzione del migliore....
-
-Per esempio, vi furono attraverso tutta l'antichità, sia nel suo primo stadio
-sia nell'ultimo, forme d'idolatria e immagini di cui gli uomini cristiani
-possono a stento parlare. «Non siano neppure nominate fra voi.»
-Gli uomini si rotolavano nella mera [[Sexuality|sessualità]] di una mitologia del sesso; organizzavano
-la prostituzione come un sacerdozio, per il servizio dei loro templi;
-facevano della pornografia la loro unica poesia; ostentavano emblemi che trasformavano
-persino l'architettura in una sorta di freddo e colossale esibizionismo.
-Molti dotti libri sono stati scritti su tutti questi culti fallici;
-e chiunque può ricorrervi per i dettagli, per quel che me ne importa.
-Ma ciò che mi interessa è questo:
-
-Per un verso tutto questo antico peccato era infinitamente superiore,
-incommensurabilmente superiore, al peccato moderno. Tutti coloro che ne
-scrivono concordano almeno su un fatto: che esso era il culto
-della Fecondità. Era purtroppo troppo spesso intrecciato,
-assai strettamente, col culto della fecondità della terra.
-Era per lo meno dalla parte della [[Nature|Natura]]. Era per lo meno dalla
-parte della Vita. È toccato agli ultimi cristiani,
-o piuttosto ai primi cristiani interamente votati a
-bestemmiare e a rinnegare il [[Christianity|Cristianesimo]], inventare un nuovo genere
-di culto del Sesso, che non è neppure un culto della Vita.
-È toccato ai più recenti Modernisti proclamare una
-religione erotica che al contempo esalta la lussuria e proibisce la fertilità.
-Il nuovo Paganesimo merita alla lettera il rimprovero di Swinburne,
-quando piange l'antico Paganesimo: «e non erge il generoso
-segno e non imbandisce il paterno banchetto». I nuovi sacerdoti
-aboliscono la paternità e si tengono il banchetto—per sé stessi.
-Sono peggiori dei Pagani di Swinburne. I sacerdoti di Priapo
-e di Cotitto li precedono nel regno dei cieli.
-
-Ora, non è innaturale che questa innaturale separazione,
-tra sesso e fecondità, che persino i Pagani avrebbero
-ritenuto una perversione, si sia accompagnata a una simile
-separazione e perversione riguardo alla [[Nature|natura]] dell'[[Love|amore]] della terra.
-In entrambi gli ambiti vi è precisamente la medesima fallacia;
-che è del tutto possibile enunciare con precisione. La ragione
-per cui i nostri contemporanei compatrioti non capiscono cosa
-intendiamo per Proprietà è che essi la pensano soltanto nel senso
-del Denaro; nel senso dello stipendio; nel senso di qualcosa
-che è immediatamente consumato, goduto e speso;
-qualcosa che dà un piacere momentaneo e scompare.
-Non capiscono che noi intendiamo per Proprietà qualcosa
-che include quel piacere per incidenza; ma comincia e finisce
-con qualcosa di assai più grande e degno e creativo.
-L'uomo che fa un frutteto dove c'era stato un campo,
-che possiede il frutteto e decide a chi debba passare,
-gode anch'egli del sapore delle mele; e, [[Hope|speriamo]], anche
-del sapore del sidro. Ma sta facendo qualcosa di assai più grande,
-e in ultima analisi più gratificante, che il semplice mangiare una mela.
-Egli sta imponendo la propria volontà al mondo secondo la carta
-concessagli dalla volontà di Dio; sta affermando che la sua [[Soul|anima]] è
-sua propria, e non appartiene al Dipartimento del Catasto dei Frutteti,
-o al principale Trust del Commercio delle Mele. Ma sta anche facendo
-qualcosa che era implicito in tutte le più antiche religioni
-della terra; in quei grandi panorami di sfarzo e di rito
-che seguivano l'ordine delle [[Seasons|stagioni]] in Cina o in Babilonia;
-egli sta adorando la fecondità del mondo. Ora, la nozione
-di restringere la proprietà al mero godimento del denaro è esattamente
-come la nozione di restringere l'[[Love|amore]] al mero godimento del sesso.
-In entrambi i casi un piacere incidentale, isolato, servile e persino segreto
-è sostituito alla partecipazione a un grande processo creativo;
-persino nell'eterna Creazione del mondo.
-
-Le due sinistre cose si possono vedere fianco a fianco nel sistema
-della [[Russia]] bolscevica; poiché il Comunismo è l'unico completo
-e logico modello funzionante del Capitalismo. I peccati sono là
-un sistema che ovunque altrove sono una sorta di errore ripetuto.
-Fin dal principio, è ammesso, l'intero sistema
-era diretto a incoraggiare o a spingere il lavoratore
-a spendere il proprio salario; a non aver più nulla il giorno di paga successivo;
-a godere ogni cosa e a consumare ogni cosa e a cancellare ogni cosa;
-in breve, a rabbrividire al pensiero di un solo delitto;
-il delitto creativo della parsimonia. Era una docile stravaganza;
-una sorta di dissipazione disciplinata; una mite e sottomessa prodigalità.
-Poiché nel momento in cui lo schiavo smetteva di bere tutto il suo salario,
-nel momento in cui cominciava ad accumulare o a nascondere qualche proprietà, egli avrebbe
-messo da parte qualcosa che poteva alla fine acquistargli la libertà.
-Egli poteva cominciare a contare per qualcosa nello Stato; cioè,
-poteva diventare meno uno schiavo e più un cittadino.
-Considerata moralmente, non vi è stata cosa così indicibilmente
-meschina come questa generosità bolscevica. Ma si noterà
-che esattamente il medesimo spirito e tono pervade il modo
-di trattare l'altra faccenda. Anche il sesso deve giungere allo
-schiavo meramente come un piacere; cosicché non possa mai essere una potenza.
-Egli deve sapere il meno possibile, o almeno pensare
-il meno possibile, del piacere come di qualcosa d'altro che
-un piacere; deve pensare o sapere nulla di dove esso venga
-o di dove andrà, una volta che l'oggetto insozzato è passato
-per le sue proprie mani. Egli non deve preoccuparsi della sua origine
-nei disegni di Dio o del suo seguito nella posterità dell'uomo.
-In ogni ambito egli non è un possessore, ma soltanto un consumatore;
-foss'anche dei primi elementi della vita e del [[Fire|fuoco]]
-in quanto essi sono consumabili; egli non deve avere alcuna nozione
-di quella sorta di Roveto Ardente che brucia e non si consuma.
-Poiché quel roveto cresce soltanto sul suolo, sulla terra reale
-dove gli esseri umani possono contemplarlo; e il luogo su cui essi
-stanno è terra santa. Vi è dunque un esatto parallelo tra
-le due moderne idee morali, o immorali, di [[Reform|riforma]] sociale.
-Il mondo ha dimenticato simultaneamente che il fare una Fattoria
-è qualcosa di assai più grande del fare un profitto, o persino
-un prodotto, nel senso di gradire il sapore dello zucchero di barbabietola;
-e che il fondare una Famiglia è qualcosa di assai più grande
-del sesso nel senso limitato della letteratura corrente; il che fu
-anticipato in un cupo e accecante lampo in un solo verso
-di George Meredith: «E mangiamo il nostro vasetto di miele sulla [[Grave|tomba]]».
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_32_st_thomas_more" data-title="Well And Shallows — St.  Thomas More" data-chapter="St Thomas More" data-kind="story"></span>
-
-
-ST.  THOMAS MORE
-
-MOST would understand the phrase that the mind of More was like a
-diamond that a [[Tyrant|tyrant]] threw away into a ditch, because he could
-not break it.  It is but a metaphor; but it does sometimes
-happen that the metaphor is many-sided, like the diamond.
-What moved the [[Tyrant|tyrant]] to a sort of terror of that mind was
-its clarity; it was the very reverse of a cloudy crystal
-filled only with opalescent [[Dreams|dreams]] or visions of the past.
-The [[King]] and his great Chancellor had been companions as [[Well|well]]
-as contemporaries; in many ways, both were [[Renaissance]] men;
-but in some ways, the man who was the more Catholic was
-the less medieval.  That is, there was perhaps more in the Tudor
-of that mere musty fag-end of decayed medievalism, which the real
-[[Renaissance]] reformers felt to be the corruption of the [[Time|time]].
-In More's mind there was nothing but clarity; in Henry's mind,
-though he was no [[Fool|fool]] and certainly no Protestant, there was
-something of confused conservatism.  Like many a better man
-who is an Anglo-Catholic, he had a touch of the antiquary.
-Thomas More was a better rationalist, which was why there was
-nothing in his religion that was merely local, or in that sense
-merely loyal.  More's mind was like a diamond also in a power
-like that of cutting glass; of cutting through things that seemed
-equally transparent, but were at once less solid and less
-many-sided. For the true consistent heresies generally look
-very clear indeed; like Calvinism then or Communism now.
-They sometimes even look very true; they sometimes even are very true,
-in the limited sense of a [[Truth|truth]] that is less than the [[Truth]].
-They are at once more thin and more brittle than the diamond.
-For a heresy is not often a mere lie; as Thomas More
-himself said, "Never was there a heretic that spoke all false."
-A heresy is a [[Truth|truth]] that hides all the other truths.
-A mind like More's was full of light like a [[house]] made of windows;
-but the windows looked out on all sides and in all directions.
-We might say that, as the [[Jewel|jewel]] has many facets, so the man
-had many faces; only none of them were masks.
-
-Thus there are so many aspects of this great story, that the
-difficulty of dealing with it in an article is one of selection,
-and even more of proportion.  I might attempt and fail to do justice
-to its highest aspect; to that holiness which now stands beyond
-even Beatitude; I might equally fill the whole space with the homeliest
-of the jokes in which the great humorist delighted in daily life;
-perhaps the biggest joke of all being the book called Utopia.
-The nineteenth century Utopians imitated the book without seeing
-the joke.  But among a bewildering complexity of such different
-aspects or angles, I have decided to deal only with two points;
-not because they were the most important truths about Thomas More,
-though their importance is very great; but because they are two of
-the most important truths about the world at this present moment.
-One appears most clearly in his [[Death|death]] and the other in his life;
-one, perhaps we should rather say, concerns his public life and
-the other his private life; one is far beyond any adequate admiration
-and the other may seem in comparison an almost comic bathos;
-but one hits exactly the right nail on the head in our present
-discussions about the State; and the other about the Family.
-
-Thomas More died the [[Death|death]] of a traitor for defying absolute monarchy;
-in the strict sense of treating monarchy as an absolute.
-He was willing, and even eager, to respect it as a relative thing,
-but not as an absolute thing.  The heresy that had just raised its head
-in his own [[Time|time]] was the heresy called the Divine Right of Kings.
-In that form it is now regarded as an old superstition; but it has
-already reappeared as a very new superstition, in the form of the
-Divine Right of Dictators.  But most people still vaguely think of it
-as old; and nearly all of them think it is much older than it is.
-One of the chief difficulties to-day is to explain to people
-that this idea was not native to medieval or many older times.
-People know that the constitutional checks on kings have been
-increasing for a century or two; they do not realize that any
-other kind of checks could ever have operated; and in the changed
-conditions those other checks are hard to describe or imagine.
-But most certainly medieval men thought of the [[King|king]] as ruling
-sub deo et lege; rightly translated, "under God and the law,"
-but also involving something atmospheric that might more vaguely
-be called, "under the [[morality]] implied in all our institutions."
-Kings were excommunicated, were deposed, were assassinated,
-were dealt with in all sorts of defensible and indefensible ways;
-but nobody thought the whole commonwealth fell with the [[King|king]],
-or that he [[Alone|alone]] had ultimate authority there.  The State did not own
-men so entirely, even when it could send them to the stake, as it
-sometimes does now where it can send them to the elementary school.
-There was an idea of refuge, which was generally an idea of sanctuary.
-In short, in a hundred strange and subtle ways, as we should think them,
-there was a sort of escape upwards.  There were limits to Caesar;
-and there was liberty with God.
-
-The highest voice of the Church has pronounced that this [[Hero|hero]]
-was in the true and traditional sense a Saint and Martyr.
-And it is appropriate to remember that he does indeed stand,
-for a rather special reason, with those first Martyrs whose [[Blood|blood]]
-was the seed of the Church in the very earliest pagan persecutions.
-For most of them died; as he did, for refusing to extend a civil
-loyalty into a religious idolatry.  Most of them did not die for
-refusing to worship Mercury or [[Venus]], or fabulous figures who might
-be supposed not to exist; or others like Moloch or Priapus whom
-we might [[Well|well]] [[Hope|hope]] do not exist.  Most of them died for refusing
-to worship somebody who certainly did exist; and even somebody
-whom they were quite prepared to obey but not to worship.
-The typical [[Martyrdom|martyrdom]] generally turned on the business of burning
-incense before the statue of Divus Augustus; the sacred image
-of the Emperor.  He was not necessarily a demon to be destroyed;
-he was simply a despot who must not be turned into a deity.
-That is where their case came so very close to the practical problem
-of Thomas More; and so very near to the practical problem of mere
-State-worship to-day. And it is typical of all Catholic thought
-that men died in torments, not because their foes "spoke all false";
-but simply because they would not give an unreasonable reverence
-where they were perfectly prepared to give a reasonable respect.
-For us the problem of Progress is always a problem of Proportion:
-improvement is reaching a right proportion, not merely moving
-in one direction.  And our doubts about most modern developments,
-about the Socialists in the last generation, or the Fascists in
-this generation, do not arise from our having any doubts at all about
-the desirability of economic justice, or of national order, any more
-than Thomas More bothered his head to object to a hereditary monarchy.
-He objected to the Divine Right of Kings.
-
-In the very deepest sense he is thus the champion of Liberty
-in his public life and his still more public [[Death|death]].  In his private
-life he is the type of a [[Truth|truth]] even less understood to-day;
-the [[Truth|truth]] that the real habitation of Liberty is the [[Home|home]].
-Modern novels and newspapers and problem plays have been
-piled up in one huge rubbish-heap to hide this simple fact;
-yet it is a fact that can be proved quite simply.
-Public life must be rather more regimented than private life;
-just as a man cannot wander about in the traffic of Piccadilly
-exactly as he could wander about in his own [[Garden|garden]].
-Where there is traffic there will be regulation of traffic;
-and this is quite as true, or even more true, where it is
-what we should call an illicit traffic; where the most modern
-governments organize sterilization to-day and may organize
-infanticide to-morrow. Those who hold the modern superstition
-that the State can do no wrong will be bound to accept such
-a thing as right.  If individuals have any [[Hope|hope]] of protecting
-their [[Freedom|freedom]], they must protect their family life.
-At the worst there will be rather more personal adaptation
-in a household than in a concentration camp; at the best there
-will be rather less routine in a family than in a factory.
-In any tolerably healthy [[Home|home]] the rules are at least partly
-affected by things that cannot possibly affect fixed laws;
-for instance, the thing we call a sense of [[Humour|humour]].
-
-Therefore More is vividly important as the Humorist;
-as representing that special phase of the Humanist.
-Behind his public life, which was so grand a [[Tragedy|tragedy]],
-there was a private life that was a perpetual [[Comedy|comedy]].
-He was, as Mr. Christopher Hollis says in his excellent study,
-"an incorrigible leg-puller." Everybody knows, of course,
-that the [[Comedy|comedy]] and the [[Tragedy|tragedy]] met as they meet in Shakespeare,
-on that last high wooden stage where his drama ended.
-In that terrible moment he realized and relished the grand
-joke of the human [[Body|body]], as of a sort of lovable lumber;
-gravely discussed whether his beard had committed treason;
-and said in hoisting himself up the ladder, "See me safely up;
-coming down I can take care of myself."
-
-But Thomas More never came down that ladder.  He had done
-with all descents and downward goings, and what had been
-himself vanished from men's eyes almost in the manner of
-his Master, who being lifted up shall draw all men after Him.
-And the dark closed over him and the clouds came between;
-until long afterwards the wisdom that can a read such [[Secrets|secrets]]
-saw him fixed far above our heads like a returning star;
-and established his station in the skies.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-SAN TOMMASO MORO
-
-I più comprenderebbero la frase secondo cui la mente di Moro era come un diamante che un [[Tyrant|tiranno]] gettò via in un fosso, perché non riusciva a spezzarlo. È solo una metafora; ma talvolta accade che la metafora sia sfaccettata, come il diamante. Ciò che mosse il [[Tyrant|tiranno]] a una sorta di terrore di fronte a quella mente era la sua limpidezza; era l'esatto contrario di un cristallo torbido, colmo soltanto di [[Dreams|sogni]] opalescenti o di visioni del passato. Il [[King]] e il suo grande Cancelliere erano stati compagni [[Well|come]] pure contemporanei; per molti versi entrambi erano uomini del [[Renaissance]]; ma per certi versi colui che era il più cattolico era il meno medievale. Vale a dire, forse c'era di più nel Tudor di quel misero e ammuffito rimasuglio di un medievalismo decaduto, che i veri riformatori del [[Renaissance]] sentivano come la corruzione del loro [[Time|tempo]]. Nella mente di Moro non c'era altro che limpidezza; nella mente di Enrico, benché non fosse uno [[Fool|sciocco]] e certamente non un protestante, c'era qualcosa di un confuso conservatorismo. Come tanti uomini migliori che sono anglo-cattolici, aveva un pizzico dell'antiquario. Tommaso Moro era un razionalista migliore, ed è per questo che nella sua religione non c'era nulla di meramente locale, o in quel senso meramente leale. La mente di Moro era simile a un diamante anche in una potenza pari a quella di tagliare il vetro; di tagliare attraverso cose che parevano ugualmente trasparenti, ma che erano insieme meno solide e meno sfaccettate. Poiché le vere eresie coerenti in genere appaiono davvero molto chiare; come il calvinismo allora o il comunismo oggi. A volte sembrano perfino verissime; a volte sono perfino verissime, nel senso limitato di una [[Truth|verità]] che è meno della [[Truth|Verità]]. Sono al tempo stesso più esili e più fragili del diamante. Perché un'eresia non è spesso una mera menzogna; come disse lo stesso Tommaso Moro: «Non vi fu mai eretico che dicesse tutto il falso». Un'eresia è una [[Truth|verità]] che nasconde tutte le altre verità. Una mente come quella di Moro era piena di luce come una [[house|casa]] fatta di finestre; ma le finestre guardavano da ogni lato e in ogni direzione. Potremmo dire che, come il [[Jewel|gioiello]] ha molte facce, così l'uomo aveva molti volti; solo che nessuno di essi era una maschera.
-
-Vi sono dunque tanti aspetti di questa grande storia, che la difficoltà di trattarla in un articolo è una difficoltà di scelta, e ancor più di proporzione. Potrei tentare, e fallire, di rendere giustizia al suo aspetto più alto; a quella santità che ora sta al di là perfino della Beatitudine; potrei allo stesso modo riempire l'intero spazio con le più casalinghe delle facezie di cui il grande umorista si dilettava nella vita quotidiana; e forse la più grande facezia di tutte è il libro chiamato Utopia. Gli utopisti dell'Ottocento imitarono il libro senza cogliere lo scherzo. Ma tra una sconcertante complessità di aspetti o angolazioni tanto diverse, ho deciso di trattare soltanto due punti; non perché fossero le verità più importanti su Tommaso Moro, benché la loro importanza sia grandissima; ma perché sono due delle verità più importanti sul mondo in questo preciso momento. Uno appare più chiaramente nella sua [[Death|morte]] e l'altro nella sua vita; l'uno, forse dovremmo piuttosto dire, riguarda la sua vita pubblica e l'altro la sua vita privata; l'uno è ben oltre ogni adeguata ammirazione e l'altro può sembrare, al confronto, un bathos quasi comico; ma l'uno colpisce esattamente il chiodo giusto nelle nostre attuali discussioni intorno allo Stato; e l'altro intorno alla Famiglia.
-
-Tommaso Moro morì la [[Death|morte]] di un traditore per aver sfidato la monarchia assoluta; nel senso stretto di trattare la monarchia come un assoluto. Era disposto, e perfino desideroso, di rispettarla come cosa relativa, ma non come cosa assoluta. L'eresia che aveva appena levato il capo ai suoi [[Time|tempi]] era l'eresia detta del Diritto Divino dei Re. In quella forma essa è oggi considerata una vecchia superstizione; ma è già riapparsa come una nuovissima superstizione, nella forma del Diritto Divino dei Dittatori. Eppure la maggior parte della gente la pensa ancora vagamente come antica; e quasi tutti la credono molto più antica di quanto sia. Una delle principali difficoltà odierne è spiegare alla gente che quest'idea non era propria dei tempi medievali o di tempi ancora più antichi. La gente sa che i freni costituzionali ai re sono andati crescendo da un secolo o due; ma non si rende conto che potesse mai operare qualche altra specie di freno; e nelle mutate condizioni quegli altri freni sono difficili da descrivere o da immaginare. Ma certissimamente gli uomini medievali pensavano al [[King|re]] come a colui che governava sub deo et lege; rettamente tradotto, «sotto Dio e la legge», ma implicando anche qualcosa di atmosferico che si potrebbe più vagamente chiamare «sotto la [[morality|moralità]] implicita in tutte le nostre istituzioni». I re venivano scomunicati, deposti, assassinati, trattati in ogni sorta di modo difendibile e indifendibile; ma nessuno pensava che l'intera comunità cadesse con il [[King|re]], o che egli [[Alone|solo]] vi avesse un'autorità ultima. Lo Stato non possedeva gli uomini tanto interamente, anche quando poteva mandarli al rogo, quanto talvolta li possiede ora, dove può mandarli alla scuola elementare. C'era un'idea di rifugio, che era generalmente un'idea di asilo. In breve, in cento modi strani e sottili, come li giudicheremmo noi, c'era una sorta di via di scampo verso l'alto. C'erano limiti a Cesare; e c'era libertà con Dio.
-
-La voce più alta della Chiesa ha proclamato che questo [[Hero|eroe]] fu, nel senso vero e tradizionale, un Santo e un Martire. Ed è opportuno ricordare che egli sta davvero, per una ragione piuttosto speciale, con quei primi Martiri il cui [[Blood|sangue]] fu il seme della Chiesa nelle primissime persecuzioni pagane. Poiché la maggior parte di essi morì, come lui, per essersi rifiutata di estendere una lealtà civile in un'idolatria religiosa. La maggior parte di essi non morì per essersi rifiutata di adorare Mercurio o [[Venus|Venere]], o figure favolose che si potevano supporre inesistenti; o altre come Moloch o Priapo che potremmo [[Well|ben]] [[Hope|sperare]] non esistano. La maggior parte di essi morì per essersi rifiutata di adorare qualcuno che di certo esisteva; e persino qualcuno cui erano del tutto disposti a obbedire, ma non ad adorare. Il tipico [[Martyrdom|martirio]] verteva in genere sulla questione di bruciare incenso davanti alla statua di Divus Augustus; la sacra immagine dell'Imperatore. Egli non era necessariamente un demone da distruggere; era semplicemente un despota che non doveva essere trasformato in una divinità. È qui che il loro caso giungeva tanto vicino al problema pratico di Tommaso Moro; e tanto prossimo al problema pratico del mero culto dello Stato d'oggi. Ed è tipico di tutto il pensiero cattolico che gli uomini morissero fra i tormenti, non perché i loro nemici «dicessero tutto il falso»; ma semplicemente perché non volevano tributare una riverenza irragionevole là dove erano perfettamente disposti a tributare un rispetto ragionevole. Per noi il problema del Progresso è sempre un problema di Proporzione: migliorare è raggiungere una giusta proporzione, non semplicemente muoversi in una sola direzione. E i nostri dubbi sulla maggior parte degli sviluppi moderni, sui Socialisti della scorsa generazione, o sui Fascisti di questa generazione, non nascono dall'avere il minimo dubbio sulla desiderabilità della giustizia economica, o dell'ordine nazionale, non più di quanto Tommaso Moro si desse pensiero di opporsi a una monarchia ereditaria. Egli si opponeva al Diritto Divino dei Re.
-
-Nel senso più profondo egli è dunque il campione della Libertà nella sua vita pubblica e nella sua ancor più pubblica [[Death|morte]]. Nella sua vita privata egli è il tipo di una [[Truth|verità]] ancor meno compresa oggi; la [[Truth|verità]] che la vera dimora della Libertà è la [[Home|casa]]. I romanzi e i giornali e i drammi a tesi moderni sono stati ammucchiati in un unico enorme mucchio di rifiuti per nascondere questo semplice fatto; eppure è un fatto che può essere provato assai semplicemente. La vita pubblica dev'essere per forza un po' più regimentata della vita privata; proprio come un uomo non può vagare nel traffico di Piccadilly esattamente come potrebbe vagare nel suo proprio [[Garden|giardino]]. Dove c'è traffico ci sarà una regolamentazione del traffico; e ciò è altrettanto vero, o anche più vero, dove si tratta di quel che chiameremmo un traffico illecito; dove i governi più moderni organizzano oggi la sterilizzazione e potranno organizzare domani l'infanticidio. Coloro che nutrono la moderna superstizione secondo cui lo Stato non può fare torto saranno costretti ad accettare una cosa simile come giusta. Se gli individui hanno una qualche [[Hope|speranza]] di proteggere la propria [[Freedom|libertà]], devono proteggere la loro vita familiare. Nel peggiore dei casi vi sarà un po' più di adattamento personale in una famiglia che in un campo di concentramento; nel migliore dei casi vi sarà un po' meno di routine in una famiglia che in una fabbrica. In ogni [[Home|casa]] tollerabilmente sana le regole sono almeno in parte influenzate da cose che non possono in alcun modo influire su leggi fisse; per esempio, quella cosa che chiamiamo senso dell'[[Humour|umorismo]].
-
-Perciò Moro è vividamente importante come l'Umorista; come rappresentante di quella fase speciale dell'Umanista. Dietro la sua vita pubblica, che fu una così grande [[Tragedy|tragedia]], c'era una vita privata che fu una perpetua [[Comedy|commedia]]. Egli era, come dice il signor Christopher Hollis nel suo eccellente studio, «un incorreggibile burlone». Tutti sanno, naturalmente, che la [[Comedy|commedia]] e la [[Tragedy|tragedia]] si incontrarono come si incontrano in Shakespeare, su quell'ultimo alto palco di legno dove terminò il suo dramma. In quel momento terribile egli comprese e gustò il grande scherzo del [[Body|corpo]] umano, come di una sorta di amabile ciarpame; discusse gravemente se la sua barba avesse commesso tradimento; e disse, issandosi su per la scala: «Aiutatemi a salire sano e salvo; a scendere saprò badare a me stesso».
-
-Ma Tommaso Moro non discese mai quella scala. Aveva finito con tutte le discese e con ogni andare verso il basso, e ciò che era stato lui stesso svanì dagli occhi degli uomini quasi alla maniera del suo Maestro, il quale, essendo innalzato, trarrà a Sé tutti gli uomini. E le tenebre si chiusero su di lui e le nubi si frapposero; finché, molto tempo dopo, la sapienza che sa leggere tali [[Secrets|segreti]] lo vide fisso alto sopra le nostre teste come una stella che ritorna; e stabilì la sua stazione nei cieli.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_33_the_return_of_caesar" data-title="Well And Shallows — The Return Of Caesar" data-chapter="The Return Of Caesar" data-kind="story"></span>
-
-
-THE RETURN OF CAESAR
-
-WHETHER or no it be an example of first and second [[Childhood|childhood]],
-I sometimes have a whimsical fancy that I shall end as I began,
-trying to make some sense out of what is called Liberalism in politics.
-There is a Fleet Street story about me, which may be a fact
-though I have entirely forgotten it, that when I was asked if I
-was a Liberal, I answered, "I am the only Liberal."  It will be
-agreed that, in these days, I should be very nearly the only Liberal.
-But I [[Hope|hope]] nobody will accuse me of wanting to be a Liberal leader.
-The Liberal Party now consists entirely of leaders--or rather
-mis-leaders. And all they want, all they have left to pray for,
-is one single simple solitary human being who is willing to be misled.
-On second thoughts, I rather [[Doubt|doubt]] whether I will offer myself
-even to fulfil this humble office; whatever may be my qualifications
-for filling all the seats at a public meeting, and constituting
-the whole audience, while my five leaders address me from the platform,
-urging me to five urgent but incompatible courses of action.
-No, the sense in which I have again become conscious of the existence
-of purely political Liberalism is not so much due to what remains
-of it, as to what has vanished from it; not to what the Liberals say
-as to what they do not say.  In the face of fashionable Fascism,
-and the toppling simplifications of the Totalitarian State,
-there really is a great deal that ought to be said for Liberalism;
-or, in clearer language, for Liberty.
-
-Many things return; and thank God we live now in a [[Time|time]] when we
-can talk once more about Church and State; though nowadays it
-generally means the [[Catholic Church]] and the Totalitarian State.
-But at least we have abolished the most illiberal of the illiberal
-limitations of Liberalism.  We can recognise religion in [[history]]
-at the back of European ideas, including modern ideas; and in this
-connection the story of Church and State is very strange indeed.
-Of course, the one thing that has really confused the story
-of Church and State is the thing called the State Church.
-But that is a mere illogical interlude; in which God holds his
-authority from Caesar; instead of Caesar holding it from God.
-The normal relation between Church and State, through most of
-the varied phases of [[history]], has not been exactly an establishment,
-but something more like what we have seen reappear in [[Germany]].
-When there was not a conflict, there was a Concordat.
-It will be noted that the Church generally had a Concordat
-with her enemies rather than her friends.  There was
-a dispute with Napoleon and a Concordat with Napoleon:
-a dispute with Mussolini and a Concordat with Mussolini;
-a dispute with Hitler and a Concordat with Hitler.
-And though the word would not perhaps have been used,
-and would not perhaps have been correct, something of the
-same [[Paradox|paradox]] broods like a suspended [[Storm|storm]] over the State
-and Church in their relations in even earlier times.
-It marks the Church in her relation with the Roman Emperors;
-in her relation witn tne Greek Emperors; in her relation with
-the German Emperors.  There was always some sort of Concordat,
-and there was never any complete concord.
-
-It needs nearly a lifetime to trace the curve or orbit
-of the Church, and the rhythm of things returning.
-But to one growing up as a Liberal, and in many ways still
-a Liberal, the chief interest of the last days is in this.
-The Church, roughly speaking, almost always remains at about
-the same distance from the State and its experiments.
-There are exceptions, of course; when an Emperor persecutes
-the Church or the Church excommunicates an Emperor.
-The Church could hardly be expected to concord very much, even in
-the coldest manner, with Nero or the No-God Movement in Moscow.
-But it is most often found at about the same distance from
-the State as it is now from the Totalitarian State.  Leo XIII
-stood at about that distance from the French Republican State.
-Few Catholics need originally have stood at any much greater
-distance even from the [[French Revolution]].  But the very names
-will serve to remind us of the vital point at issue.
-It is the State that changes; it is the State that destroys;
-it is nearly always the State that persecutes.
-The Totalitarian State is now making a clean sweep of all our
-old notions of liberty, even more than the [[French Revolution]]
-made a clean sweep of all the old ideas of loyalty.
-It is the Church that excommunicates; but, in that very word,
-implies that a communion stands open for a restored communicant.
-It is the State that exterminates; it is the State that abolishes
-absolutely and altogether; whether it is the American State
-abolishing beer, or the Fascist State abolishing parties,
-or the Hitlerite State abolishing almost everything but itself.
-
-Now suppose, for the sake of argument, that I did
-become again merely an ordinary Liberal, as the term
-was understood when I was active in Liberal politics.
-Suppose I thought the [[Time|time]] had come to remind men that there
-really is an intellectual advantage in hearing all sides;
-a help to order in a measure of liberty; a healthy irritation
-in [[government]] by [[debate]].  Suppose I said (as I do say)
-that every [[government]] ought to be checked by an opposition;
-suppose I said (as I do not say) that free international exchange
-is demonstrably better than all this economic nationalism.
-Suppose I said that recognised majority rule is better than
-random minority rule; suppose I said that [[Democracy]] as a failure
-is better than Dictatorship as a [[success]].  I could say all this,
-and much more, and remain a quite ordinary and orthodox member
-of the ancient Church.  But I could not say it, over a great part
-of the modern world, without being punished by the modern State.
-Rome with its religious authority would not [[Silence|silence]] me.
-But Fascism with its secular authority would [[Silence|silence]] me.
-Bolshevism with its secular authority would [[Silence|silence]] me.
-Hitlerism with its secular authority would [[Silence|silence]] me.
-When I began to live and (alas) to write, all the other Liberals
-had inherited a huge legend that all persecution had come
-from the Church.  Some of them still mumble old memories about
-the [[Spanish Inquisition]] (a thing started strictly by the State);
-with the fact staring them in the face that the actual
-persecution now going on in Spain is the spoliation of Spaniards,
-simply because they are Catholic priests and schoolmasters.
-But anyhow, it was supposed that what was called
-superstition was somehow the mother of persecution.
-I appeal to all my fellow-Liberals to admit that the facts
-have flatly contradicted this idea.  Every Catholic enjoys
-much more [[Freedom|freedom]] in Catholicism than any Liberal does under
-Bolshevism or Fascism.  I might have been a Liberal and belonged
-to the Centrum in [[Germany]] or the Parti to Populare in [[Italy]];
-it is not the Church but the State that would stop me.
-For the State has returned with all its ancient terrors out
-of antiquity; with the Gods of the [[City]] thundering from the sky and,
-marching with the pageant in iron panoply the [[Ghosts|ghosts]] of a
-hundred tyrants; and we have begun to understand in what wide
-fields and playgrounds of liberty, the [[Faith]] that made us free
-has so long allowed us to wander and to play.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IL RITORNO DI CESARE
-
-Che sia o no un esempio di prima e seconda [[Childhood|infanzia]], talvolta accarezzo la bizzarra fantasia che finirò come ho cominciato, cercando di cavare un qualche senso da ciò che in politica si chiama Liberalismo. Circola su di me una storia di Fleet Street, che può essere un fatto, benché io l'abbia interamente dimenticata: che, quando mi fu chiesto se ero un Liberale, risposi: «Sono l'unico Liberale». Si converrà che, di questi tempi, sarei quasi l'unico Liberale. Ma [[Hope|spero]] che nessuno mi accusi di voler essere un capo liberale. Il Partito Liberale ora consiste interamente di capi — o meglio di sviatori. E tutto ciò che vogliono, tutto ciò che resta loro da implorare, è un unico, semplice, solitario essere umano che sia disposto a lasciarsi sviare. A pensarci meglio, [[Doubt|dubito]] piuttosto che io mi offra anche solo ad adempiere quest'umile ufficio; quali che siano le mie qualifiche per riempire tutti i posti di una pubblica assemblea, e costituire per intero l'uditorio, mentre i miei cinque capi mi arringano dal palco, esortandomi a cinque urgenti ma incompatibili linee d'azione. No, il senso in cui sono di nuovo divenuto consapevole dell'esistenza di un Liberalismo puramente politico non è dovuto tanto a ciò che ne rimane, quanto a ciò che ne è svanito; non a ciò che i Liberali dicono, ma a ciò che non dicono. Di fronte al Fascismo di moda, e alle vacillanti semplificazioni dello Stato Totalitario, c'è davvero moltissimo che andrebbe detto in favore del Liberalismo; o, in linguaggio più chiaro, in favore della Libertà.
-
-Molte cose ritornano; e grazie a Dio viviamo ora in un [[Time|tempo]] in cui possiamo tornare a parlare di Chiesa e Stato; benché oggigiorno ciò significhi in genere la [[Catholic Church|Chiesa Cattolica]] e lo Stato Totalitario. Ma abbiamo almeno abolito la più illiberale delle illiberali limitazioni del Liberalismo. Possiamo riconoscere la religione nella [[history|storia]], alle spalle delle idee europee, comprese quelle moderne; e sotto questo aspetto la vicenda di Chiesa e Stato è davvero assai strana. Certo, l'unica cosa che ha davvero confuso la vicenda di Chiesa e Stato è quella cosa chiamata Chiesa di Stato. Ma quello è un mero interludio illogico; in cui Dio detiene la sua autorità da Cesare, invece che Cesare detenerla da Dio. Il normale rapporto tra Chiesa e Stato, attraverso la maggior parte delle varie fasi della [[history|storia]], non è stato propriamente un'istituzione ecclesiastica di Stato, ma qualcosa di più simile a ciò che abbiamo visto riapparire in [[Germany|Germania]]. Quando non c'era un conflitto, c'era un Concordato. Si noterà che la Chiesa ebbe in genere un Concordato con i suoi nemici piuttosto che con i suoi amici. Ci fu una disputa con Napoleone e un Concordato con Napoleone: una disputa con Mussolini e un Concordato con Mussolini; una disputa con Hitler e un Concordato con Hitler. E benché la parola forse non sarebbe stata usata, e forse non sarebbe stata corretta, qualcosa dello stesso [[Paradox|paradosso]] incombe come una [[Storm|tempesta]] sospesa sullo Stato e sulla Chiesa nei loro rapporti anche in tempi ben più antichi. Segna la Chiesa nel suo rapporto con gli Imperatori Romani; nel suo rapporto con gli Imperatori Greci; nel suo rapporto con gli Imperatori Germanici. Ci fu sempre una qualche sorta di Concordato, e non ci fu mai una piena concordia.
-
-Ci vuole quasi una vita intera per tracciare la curva o l'orbita della Chiesa, e il ritmo delle cose che ritornano. Ma per chi cresce come un Liberale, e per molti versi è ancora un Liberale, il principale interesse degli ultimi tempi sta in questo. La Chiesa, grosso modo, resta quasi sempre all'incirca alla stessa distanza dallo Stato e dai suoi esperimenti. Vi sono eccezioni, naturalmente; quando un Imperatore perseguita la Chiesa o la Chiesa scomunica un Imperatore. Difficilmente ci si potrebbe aspettare che la Chiesa concordasse gran che, anche nel modo più freddo, con Nerone o con il Movimento del Non-Dio a Mosca. Ma il più delle volte la si trova all'incirca alla stessa distanza dallo Stato in cui è ora dallo Stato Totalitario. Leone XIII stava all'incirca a quella distanza dallo Stato Repubblicano francese. Pochi cattolici avrebbero dovuto in origine stare a una distanza molto maggiore perfino dalla [[French Revolution|Rivoluzione francese]]. Ma i nomi stessi serviranno a rammentarci il punto vitale in questione. È lo Stato che muta; è lo Stato che distrugge; è quasi sempre lo Stato che perseguita. Lo Stato Totalitario sta ora facendo tabula rasa di tutte le nostre vecchie nozioni di libertà, ancor più di quanto la [[French Revolution|Rivoluzione francese]] fece tabula rasa di tutte le vecchie idee di lealtà. È la Chiesa che scomunica; ma, in quella stessa parola, implica che una comunione resta aperta a un comunicante ristabilito. È lo Stato che stermina; è lo Stato che abolisce assolutamente e del tutto; sia che si tratti dello Stato americano che abolisce la birra, o dello Stato fascista che abolisce i partiti, o dello Stato hitleriano che abolisce quasi tutto tranne se stesso.
-
-Ora, supponiamo, per amor di discussione, che io divenissi di nuovo un semplice Liberale ordinario, come il termine era inteso quando ero attivo nella politica liberale. Supponiamo che io ritenessi giunto il [[Time|tempo]] di rammentare agli uomini che c'è davvero un vantaggio intellettuale nell'ascoltare tutte le parti; un aiuto all'ordine in una certa misura di libertà; una salutare irritazione nel [[government|governo]] per mezzo del [[debate|dibattito]]. Supponiamo che io dicessi (come dico) che ogni [[government|governo]] dovrebbe essere frenato da un'opposizione; supponiamo che io dicessi (come non dico) che il libero scambio internazionale è dimostrabilmente migliore di tutto questo nazionalismo economico. Supponiamo che io dicessi che il riconosciuto governo della maggioranza è migliore del casuale governo di una minoranza; supponiamo che io dicessi che la [[Democracy|Democrazia]] come fallimento è migliore della Dittatura come [[success|successo]]. Potrei dire tutto questo, e molto di più, e restare un membro del tutto ordinario e ortodosso dell'antica Chiesa. Ma non potrei dirlo, in gran parte del mondo moderno, senza essere punito dallo Stato moderno. Roma, con la sua autorità religiosa, non mi ridurrebbe al [[Silence|silenzio]]. Ma il Fascismo, con la sua autorità secolare, mi ridurrebbe al [[Silence|silenzio]]. Il Bolscevismo, con la sua autorità secolare, mi ridurrebbe al [[Silence|silenzio]]. L'Hitlerismo, con la sua autorità secolare, mi ridurrebbe al [[Silence|silenzio]]. Quando cominciai a vivere e (ahimè) a scrivere, tutti gli altri Liberali avevano ereditato un'enorme leggenda: che ogni persecuzione fosse venuta dalla Chiesa. Alcuni di essi ancora borbottano vecchi ricordi sull'[[Spanish Inquisition|Inquisizione spagnola]] (una cosa avviata rigorosamente dallo Stato); con il fatto che li fissa in faccia, cioè che l'effettiva persecuzione ora in corso in Spagna è la spoliazione di Spagnoli, semplicemente perché sono preti e maestri cattolici. Ma comunque, si supponeva che ciò che si chiamava superstizione fosse in qualche modo la madre della persecuzione. Faccio appello a tutti i miei compagni Liberali affinché ammettano che i fatti hanno nettamente contraddetto quest'idea. Ogni cattolico gode di molta più [[Freedom|libertà]] nel Cattolicesimo di quanta ne goda un qualsiasi Liberale sotto il Bolscevismo o il Fascismo. Avrei potuto essere un Liberale e appartenere allo Zentrum in [[Germany|Germania]] o al Partito Popolare in [[Italy|Italia]]; non è la Chiesa ma lo Stato che mi fermerebbe. Poiché lo Stato è tornato con tutti i suoi antichi terrori usciti dall'antichità; con gli Dèi della [[City|Città]] che tuonano dal cielo e, in marcia con il corteo in armatura di ferro, i [[Ghosts|fantasmi]] di cento tiranni; e abbiamo cominciato a comprendere in quali ampi campi e prati di libertà la [[Faith|Fede]] che ci ha resi liberi ci abbia così a lungo permesso di vagare e di giocare.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_34_austria" data-title="Well And Shallows — Austria" data-chapter="Austria" data-kind="story"></span>
-
-
-AUSTRIA
-
-LAST year, the representative of all that remains of
-the Holy Roman Empire was murdered by the barbarians.
-As an atrocity it has been adequately denounced;
-and it breeds in some of us rather a dumb sort of disgust,
-almost as if it had been done not by barbarians but by beasts.
-Perhaps the only further fact to be noted, on that side,
-is the fact that this is the only kind of effort in which
-these clumsy people are not merely clumsy.  The Nordic man of
-the Nazi type in [[Germany]] is a very slow thinker, and incredibly
-backward and behind the times in science and [[philosophy]].
-That is why, for instance, he clings to the word "Aryan,"
-as if he were his own great-grandfather laboriously poring
-over the first pages of Max Muller, under the concentrated
-stare of the astounded ethnologists of later days.
-He is slow in a great many things; as, for instance,
-in releasing prisoners who are admittedly [[Innocent|innocent]]; or in
-answering questions put by foreign critics or Catholic bishops.
-We have good reason to know that he is slow in paying his debts;
-to the point of ceasing to pay them.  He is very slow in bringing
-about the Utopia that he promised to the German people;
-the complete financial stability and the total disappearance
-of unemployment.  He is slow in a thousand things, from the
-length of his meals to the lengthiness of his metaphysics.
-But in one thing he is not slow but almost slick.  He is swift
-to shed [[Innocent|innocent]] [[Blood|blood]]; he really has a certain technique in
-the matter of murdering other people; and the prospect of this
-sport [[Alone|alone]] can move him to an animation that is almost human.
-Hitler really killed quite a creditable number of people
-for one week-end holiday; and the assassination of Dollfuss
-did show some touch of that efficiency, which the Nazis once
-promised to display in other fields of activity.
-
-But it is much more important to insist on the large human and historic
-matters mentioned at the beginning of this article.  Dollfuss died
-like a loyal and courageous man, asking [[Forgiveness|forgiveness]] for his murderers;
-and the souls of the just are in the hands of God, however much
-their enemies (with that mark of mere mud that is stamped over all
-they do) take a pleasure in denying them the help of their religion.
-But Dollfuss dead, even more than Dollfuss living, is also a symbol
-of something of immense moment to mankind, which is practically
-never mentioned by our politicians or our papers.  We call it for
-convenience Austria; in a sense we might more truly call it Europe;
-but, above all (for this is the vital and quite neglected fact), it would
-be strictly correct and consistent with [[history]] to call it [[Germany]].
-The very fact that the name of "[[Germany]]" has been taken from the Austrians
-and given to the Prussians sums up the [[Tragedy|tragedy]] of three hundred years.
-It was the tale of the war waged by the barbarians against the Empire;
-the real original German Empire.  It began with the first Prussian
-shot in the [[Thirty Years' War]]; it ended with the shot that killed
-the Austrian Chancellor.
-
-Whether we call it the Empire, or the Old [[Germany]] or the culture
-of the Danube, what Austria meant and means is this.
-That it is normal for Europeans, even for Germans, to be civilised;
-that it is normal for Europeans, even for Germans, to be Christians;
-and, we must in historic honesty add, normal for them to be Catholics.
-This culture always incurred the hatred of the barbarians to
-the north-east; and in the nineteenth century a barbarian of genius,
-named Bismarck, actually managed to transfer to Prussia the prestige
-that had always normally belonged to Austria.  That is the broad
-fact which is always left out in all modern enlightened discussion;
-for it involves two things; an elementary knowledge of [[history]],
-which is rare, and an elementary knowledge of recent [[history]],
-which is much rarer than a knowledge of ancient [[history]].
-There is always a chance that about six politicians have heard
-of the Roman Empire; and perhaps two and a half politicians have even
-heard of the Holy Roman Empire.  Among the scholarly leader-writers
-who have hitherto hardly noticed the existence of the Austrians,
-there are some who have read something about the Ostro-Goths
-or perhaps (if they are very scholarly) really do know much more
-about Austrasians than about Austrians.  It is sometimes possible
-to arouse faint interest in anything remotely historic and always
-possible to arouse a fashionable fuss about anything prehistoric.
-But the facts which led up to the facts which stare us in the face,
-those are known practically to nobody in the age of newspapers.
-And perhaps next to nobody among our rulers will know what is
-meant by saying that the filthy butchery at Vienna was but the
-continuation of a policy, expressed in the invasion of Silesia
-and the victory of Sadowa.
-
-We have at least learned one lesson to-day; that old things return.
-This is simply that very old remembrance of our race;
-the barbarian invasion.  This is not the Corporative State;
-or the Fascist Theory; or the thousand theories, including our own,
-for improving our ancient civilisation.  This is the Turks
-besieging Vienna.  If indeed it be not an injustice to the stately,
-the stable and the reverent religion of Mahomet to compare it
-with the feverish fads and fallacies that chase each other across
-the half-baked and half-baptized Teutonism of the North.
-This is, at least, what all men meant by the Turks besieging Vienna.
-It is the centre of our civilisation in peril; it is the blow
-of the barbarian when for once, in his blindness, he happens
-to aim at the heart.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-AUSTRIA
-
-L'anno scorso il rappresentante di tutto ciò che rimane del Sacro Romano Impero fu assassinato dai barbari. Come atrocità è stata adeguatamente denunciata; e suscita in alcuni di noi piuttosto una sorta di muto disgusto, quasi come se fosse stata compiuta non da barbari ma da bestie. Forse l'unico ulteriore fatto da rilevare, da quel lato, è che questo è l'unico genere di impresa in cui questa goffa gente non è meramente goffa. L'uomo nordico di tipo nazista in [[Germany|Germania]] è un pensatore assai lento, e incredibilmente arretrato e indietro coi tempi nella scienza e nella [[philosophy|filosofia]]. È per questo, ad esempio, che si aggrappa alla parola «ariano», come se fosse il suo bisnonno che si china laboriosamente sulle prime pagine di Max Müller, sotto lo sguardo fisso e concentrato degli sbalorditi etnologi di epoche successive. È lento in moltissime cose; come, ad esempio, nel rilasciare prigionieri riconosciuti [[Innocent|innocenti]]; o nel rispondere alle domande poste da critici stranieri o da vescovi cattolici. Abbiamo buoni motivi per sapere che è lento nel pagare i suoi debiti; al punto di cessare di pagarli. È molto lento nel realizzare l'Utopia che promise al popolo tedesco; la completa stabilità finanziaria e la totale scomparsa della disoccupazione. È lento in mille cose, dalla durata dei suoi pasti alla prolissità della sua metafisica. Ma in una cosa non è lento, bensì quasi svelto. È rapido nello spargere [[Blood|sangue]] [[Innocent|innocente]]; ha davvero una certa tecnica nella faccenda di assassinare gli altri; e la prospettiva di questo sport, da [[Alone|sola]], può muoverlo a un'animazione che è quasi umana. Hitler uccise davvero un numero piuttosto notevole di persone per un solo fine settimana di vacanza; e l'assassinio di Dollfuss mostrò davvero un certo tocco di quell'efficienza che i nazisti un tempo promisero di dispiegare in altri campi d'attività.
-
-Ma è assai più importante insistere sulle grandi questioni umane e storiche menzionate all'inizio di questo articolo. Dollfuss morì da uomo leale e coraggioso, chiedendo [[Forgiveness|perdono]] per i suoi assassini; e le anime dei giusti sono nelle mani di Dio, per quanto i loro nemici (con quel marchio di puro fango che è impresso su tutto ciò che fanno) provino piacere nel negare loro il soccorso della propria religione. Ma Dollfuss morto, ancor più di Dollfuss vivo, è anche il simbolo di qualcosa di immenso momento per l'umanità, che non viene praticamente mai menzionato dai nostri politici o dai nostri giornali. Per comodità lo chiamiamo Austria; in un certo senso potremmo più veracemente chiamarlo Europa; ma, soprattutto (poiché questo è il fatto vitale e del tutto trascurato), sarebbe rigorosamente corretto e coerente con la [[history|storia]] chiamarlo [[Germany|Germania]]. Il fatto stesso che il nome di «[[Germany|Germania]]» sia stato tolto agli Austriaci e dato ai Prussiani riassume la [[Tragedy|tragedia]] di trecento anni. Fu la storia della guerra mossa dai barbari contro l'Impero; il vero, originario Impero germanico. Cominciò col primo colpo prussiano nella [[Thirty Years' War|Guerra dei Trent'anni]]; si concluse col colpo che uccise il Cancelliere austriaco.
-
-Sia che lo chiamiamo l'Impero, o la Vecchia [[Germany|Germania]], o la cultura del Danubio, ciò che l'Austria significò e significa è questo. Che è normale per gli Europei, perfino per i Tedeschi, essere civili; che è normale per gli Europei, perfino per i Tedeschi, essere cristiani; e, dobbiamo aggiungere per onestà storica, normale per loro essere cattolici. Questa cultura suscitò sempre l'odio dei barbari a nord-est; e nell'Ottocento un barbaro di genio, di nome Bismarck, riuscì effettivamente a trasferire alla Prussia il prestigio che era sempre normalmente appartenuto all'Austria. Questo è il fatto generale che viene sempre tralasciato in ogni moderna e illuminata discussione; poiché implica due cose: una conoscenza elementare della [[history|storia]], che è rara, e una conoscenza elementare della [[history|storia]] recente, che è assai più rara di una conoscenza della [[history|storia]] antica. C'è sempre la possibilità che una mezza dozzina di politici abbiano sentito parlare dell'Impero Romano; e forse due politici e mezzo hanno persino sentito parlare del Sacro Romano Impero. Tra gli eruditi articolisti di fondo che finora hanno a malapena notato l'esistenza degli Austriaci, ve ne sono alcuni che hanno letto qualcosa sugli Ostrogoti o forse (se sono molto eruditi) sanno davvero assai più sugli Austrasiani che sugli Austriaci. È talvolta possibile suscitare un debole interesse per qualcosa di remotamente storico ed è sempre possibile suscitare un chiasso alla moda intorno a qualcosa di preistorico. Ma i fatti che condussero ai fatti che ci fissano in faccia, quelli sono noti praticamente a nessuno nell'età dei giornali. E forse quasi nessuno tra i nostri governanti saprà che cosa si intenda dicendo che l'immonda carneficina di Vienna non fu che la continuazione di una politica, espressa nell'invasione della Slesia e nella vittoria di Sadowa.
-
-Abbiamo almeno appreso una lezione oggi: che le cose antiche ritornano. Non è che il rammemorare antichissimo della nostra razza; l'invasione barbarica. Questo non è lo Stato Corporativo; o la Teoria Fascista; o le mille teorie, compresa la nostra, per migliorare la nostra antica civiltà. Questo sono i Turchi che assediano Vienna. Se pure non sia un'ingiustizia verso la solenne, la stabile e la reverente religione di Maometto paragonarla alle febbrili manie e fallacie che si rincorrono l'un l'altra attraverso il Teutonismo del Nord, mezzo crudo e mezzo battezzato. Questo è, almeno, ciò che tutti gli uomini intendevano per i Turchi che assediano Vienna. È il centro della nostra civiltà in pericolo; è il colpo del barbaro quando, per una volta, nella sua cecità, gli capita di mirare al cuore.
-
--/-
-
-
-
-<span class="atom-split" data-atom="story_35_the_scripture_reader" data-title="Well And Shallows — The Scripture Reader" data-chapter="The Scripture Reader" data-kind="story"></span>
-
-
-THE SCRIPTURE READER
-
-MR.  BERNARD [[Shaw|SHAW]] has written a very Protestant tract, on the paramount
-duty of reading the [[Bible]], and especially of re-reading the [[Bible]];
-of course in the light of Private Judgment.  For Private Judgment
-is never wrong, just as Private Property is never right.
-It is something of a triumph to have carried principles so entangled
-and contradictory, unchanged, untroubled and unenlightened,
-through a long and valuable life.  Some technical difficulties
-may still prevent Mr. [[Shaw]]'s [[Bible]] tract from being included
-in the literature of the British and Foreign [[Bible]] Society;
-but I should imagine that they would soon be overcome; now that
-the old stuff that calls itself the Modern Mind has become such
-a muddy amalgam of [[Puritanism]] and Modernism that it does not matter,
-so long as a man reads his [[Bible]], whether he denies his God.
-But I, who [[Love|love]] and admire Bernard [[Shaw]], cannot help being sorry
-that he should have returned from the land of the Boers so completely
-transformed into a Baptist missionary beginning to have doubts
-about Habakkuk.  Perhaps it is a judgment on him for having
-supported the Imperialists in the Boer War; because the Webbs
-had the truly wonderful notion that it was "practical."
-
-Of course, like every other sectarian "Scripture-reader," Mr. [[Shaw]]
-re-reads the [[Bible]] and finds something different from what
-the last sectarian found.  That is the whole fun and futility
-of this "[[Sunday]] game," which has now been played for nearly four
-hundred years, and is about played out.  But the old sectaries,
-who discovered Calvinism or Quakerism or [[Mormonism]] in the [[Bible]],
-at least had the tenacity to keep hold of what they found;
-and finish their programme logically.  But, alas, Mr. [[Shaw]] is a true
-Modernist in the fact that he cannot complete even his own argument,
-for [[Fear|fear]] it should end by proving something.  His new theory
-of Holy Scripture is broadly this; that the Old Testament Prophets
-were each of them dealing with a different God; though they seem
-to have been under the impression that it was the same God.
-Thus the God of Job is better than the God of Noah; the God of Micah
-is better than the God of Job and therefore ... therefore what?
-The obvious logical conclusion of the argument would be that the God-Man
-of the Christians, the Second Person of the Trinity, was better than
-the God of Micah; and rightly replaced him on progressive principles.
-But here, of course, Mr. [[Shaw]] goes all to pieces; wildly reverses
-the whole of his own theory of theistic improvement, and collapses,
-muttering some nonsense about the psychological misfortunes of Jesus.
-That is only one part of the book; but it is typical of the whole
-of this jointless inconsequent modern way of writing.
-Pages upon pages are devoted to showing that primitive gods
-were leading up to something greater and more splendid;
-and it is perfectly obvious what they did actually lead up to.
-But the moment the Modernist sees it, he runs away from it.
-
-The actual story of the Black Girl seems to be modelled on Candide;
-indeed much of it takes place in the famous [[Garden|garden]] of Voltaire.
-It was not really a very wide [[Garden|garden]]; indeed, it was a narrow [[Garden|garden]],
-but it was a neat [[Garden|garden]], according to the Dutch gardening of the period:
-and it is almost a relief after the jungle of journalese that is now
-called modern thought.  Voltaire, unlike [[Shaw]], had a straightforward
-and logical plan for his story.  Candide is a youth brought up by a
-German professor in a very nonsensical [[philosophy]] called Optimism;
-like many nonsensical philosophies taught by German professors.
-It was to the effect that everything in this world fits in with our
-peace and comfort; whatever else it was, it was almost the opposite
-of Catholicism, or even Protestantism; for Christians had, if anything,
-rather exaggerated the [[Truth|truth]] that life is a vale of [[Tears|tears]] and a place
-of trial; that peace could only be found in the monastery or justice
-on the Day of Judgment.  But Voltaire has no difficulty in showing
-how real life knocked this Teutonic heresy of Optimism to pieces.
-But it marks the more muddled modern mentality that we do not really know,
-at the end of Mr. [[Shaw]]'s [[Parable|parable]], what it is that has been knocked
-to pieces; or whether the Black Girl has found God, or failed
-to find God, or found that there is no God to find.  Anyhow, she has
-found Mr. Bernard [[Shaw]], who is acting as Voltaire's gardener,
-but has not yet learnt the lucid style and thought of his employer.
-It must be a comfort to Mr. [[Shaw]] at least to know that he is truly
-a Proletarian.  Voltaire said that a man should cultivate his [[Garden|garden]].
-It is the measure of Progress that he has since apparently become
-a servant cultivating his master's [[Garden|garden]].
-
-For the rest, I know there are many simple people who will console
-and gratify my old friend by being duly shocked at various passages
-in his book.  It would be almost cruel to deprive him of such comfort;
-but I confess that I myself remained cold, and could not get
-anything resembling a decent shock out of the whole business.
-It always seems to me that we must face the question
-of whether we are dealing with believers or unbelievers;
-and only a believer can be a blasphemer.  We Catholics must
-realise that by this [[Time|time]] we are living in pagan lands;
-and that the barbarians around us know not what they do.
-Of course, those who think Jesus was an ordinary man will
-talk of Him in an ordinary way.  What I complain of is that,
-even then, they cannot talk of Him in a sensible way.
-For instance, Mr. [[Shaw]] has a long dialogue in which his
-imaginary Jesus feebly implies the idea that everything
-can be solved by [[Love|love]], and apparently [[Love|love]] of any kind.
-Now there is not a grain of evidence that the historical
-Jesus of Nazareth ever said that any such emotion,
-selfish or sensual or sentimental, must be a substitute
-for everything else everywhere.  Rousseau and the Romantics,
-in the [[Time|time]] of Voltaire, sometimes said something a little
-like it; and the Church resisted it from the beginning,
-just as Bernard [[Shaw]] wakes up to resist it in the end.
-It is much more important for us to point out that the attack
-on the [[Faith]] breaks down, by its own folly on its own ground,
-than to express our own feelings about some of the random
-results of its invincible ignorance, when it stumbles upon
-ground more sacred.
-
--/-
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IL LETTORE DELLE SCRITTURE
-
-Il SIG. BERNARD [[Shaw|SHAW]] ha scritto un opuscolo assai protestante, sul dovere supremo di leggere la [[Bible|Bibbia]], e specialmente di rileggere la [[Bible|Bibbia]]; naturalmente alla luce del Libero Esame. Poiché il Libero Esame non sbaglia mai, così come la Proprietà Privata non ha mai ragione. È qualcosa di un trionfo aver portato principii tanto ingarbugliati e contraddittori, immutati, imperturbati e non illuminati, attraverso una vita lunga e preziosa. Alcune difficoltà tecniche potrebbero ancora impedire che l'opuscolo [[Bible|biblico]] del sig. [[Shaw]] sia incluso nella letteratura della British and Foreign [[Bible]] Society; ma immagino che sarebbero presto superate; ora che quella vecchia roba che si autodefinisce la Mente Moderna è divenuta un amalgama tanto fangoso di [[Puritanism|Puritanesimo]] e Modernismo che non importa, purché un uomo legga la sua [[Bible|Bibbia]], se rinneghi il suo Dio. Ma io, che [[Love|amo]] e ammiro Bernard [[Shaw]], non posso fare a meno di rammaricarmi che egli sia tornato dalla terra dei Boeri così completamente trasformato in un missionario battista che comincia ad avere dubbi su Abacuc. Forse è un castigo per lui, per aver appoggiato gli Imperialisti nella Guerra Boera; perché i Webb ebbero la davvero mirabile idea che essa fosse «pratica».
-
-Naturalmente, come ogni altro settario «lettore delle Scritture», il sig. [[Shaw]] rilegge la [[Bible|Bibbia]] e vi trova qualcosa di diverso da ciò che vi trovò l'ultimo settario. È tutto qui il divertimento e la futilità di questo «gioco della [[Sunday|domenica]]», che si è ormai giocato per quasi quattrocento anni, ed è quasi esaurito. Ma i vecchi settari, che scoprirono il Calvinismo o il Quaccherismo o il [[Mormonism|Mormonismo]] nella [[Bible|Bibbia]], ebbero almeno la tenacia di tenersi stretti a ciò che avevano trovato; e di portare a compimento il loro programma con logica. Ma, ahimè, il sig. [[Shaw]] è un vero Modernista nel fatto che non riesce a completare nemmeno il proprio argomento, per [[Fear|paura]] che finisca col dimostrare qualcosa. La sua nuova teoria della Sacra Scrittura è in sostanza questa: che i Profeti dell'Antico Testamento avevano ciascuno a che fare con un Dio diverso; benché sembrino essere stati nell'impressione che fosse lo stesso Dio. Così il Dio di Giobbe è migliore del Dio di Noè; il Dio di Michea è migliore del Dio di Giobbe e perciò... perciò che cosa? L'ovvia conclusione logica dell'argomento sarebbe che il Dio-Uomo dei Cristiani, la Seconda Persona della Trinità, era migliore del Dio di Michea; e rettamente lo sostituì secondo principii progressivi. Ma qui, naturalmente, il sig. [[Shaw]] va tutto in pezzi; capovolge selvaggiamente l'intera sua teoria del miglioramento teistico, e crolla, borbottando qualche sciocchezza sulle sventure psicologiche di Gesù. Questa è solo una parte del libro; ma è tipica dell'intero, sconnesso e inconseguente modo moderno di scrivere. Pagine su pagine sono dedicate a mostrare che gli dèi primitivi conducevano verso qualcosa di più grande e di più splendido; ed è perfettamente ovvio a che cosa effettivamente condussero. Ma nel momento stesso in cui il Modernista lo vede, fugge da esso.
-
-La vicenda vera e propria della Ragazza Nera pare modellata sul Candide; e anzi buona parte di essa si svolge nel famoso [[Garden|giardino]] di Voltaire. Non era in realtà un [[Garden|giardino]] molto ampio; anzi, era un [[Garden|giardino]] angusto, ma era un [[Garden|giardino]] ordinato, secondo il giardinaggio olandese dell'epoca: ed è quasi un sollievo dopo la giungla del giornalese che ora si chiama pensiero moderno. Voltaire, a differenza di [[Shaw]], aveva un piano schietto e logico per la sua storia. Candide è un giovane allevato da un professore tedesco in una [[philosophy|filosofia]] assai insensata chiamata Ottimismo; come molte insensate filosofie insegnate da professori tedeschi. Essa sosteneva che ogni cosa in questo mondo si accorda con la nostra pace e il nostro conforto; qualunque altra cosa fosse, era quasi l'opposto del Cattolicesimo, o perfino del Protestantesimo; poiché i Cristiani avevano semmai piuttosto esagerato la [[Truth|verità]] che la vita è una valle di [[Tears|lacrime]] e un luogo di prova; che la pace poteva trovarsi solo nel monastero e la giustizia solo nel Giorno del Giudizio. Ma Voltaire non ha alcuna difficoltà a mostrare come la vita reale mandasse in pezzi questa eresia teutonica dell'Ottimismo. Ma segna la mentalità moderna più confusa il fatto che noi non sappiamo davvero, alla fine della [[Parable|parabola]] del sig. [[Shaw]], che cosa sia stato mandato in pezzi; o se la Ragazza Nera abbia trovato Dio, o non sia riuscita a trovare Dio, o abbia scoperto che non c'è alcun Dio da trovare. Comunque sia, ha trovato il sig. Bernard [[Shaw]], che fa da giardiniere di Voltaire, ma non ha ancora appreso lo stile e il pensiero lucido del suo datore di lavoro. Dev'essere un conforto per il sig. [[Shaw]] almeno sapere di essere davvero un Proletario. Voltaire disse che un uomo dovrebbe coltivare il proprio [[Garden|giardino]]. È la misura del Progresso che egli sia da allora apparentemente divenuto un servo che coltiva il [[Garden|giardino]] del suo padrone.
-
-Per il resto, so che vi sono molte persone semplici che consoleranno e gratificheranno il mio vecchio amico scandalizzandosi debitamente di vari passi del suo libro. Sarebbe quasi crudele privarlo di un tale conforto; ma confesso che io stesso sono rimasto freddo, e non sono riuscito a ricavare qualcosa che somigliasse a un decente turbamento da tutta la faccenda. Mi pare sempre che dobbiamo affrontare la questione se abbiamo a che fare con credenti o non credenti; e solo un credente può essere un bestemmiatore. Noi cattolici dobbiamo renderci conto che a questo [[Time|punto]] viviamo in terre pagane; e che i barbari intorno a noi non sanno quello che fanno. Naturalmente, coloro che ritengono che Gesù fosse un uomo ordinario ne parleranno in modo ordinario. Ciò di cui mi lamento è che, anche allora, non riescono a parlare di Lui in modo sensato. Per esempio, il sig. [[Shaw]] ha un lungo dialogo in cui il suo Gesù immaginario insinua fiaccamente l'idea che tutto possa risolversi con l'[[Love|amore]], e apparentemente con l'[[Love|amore]] di qualunque specie. Ora, non c'è un grano di prova che il Gesù storico di Nazaret abbia mai detto che una qualsiasi emozione simile, egoistica o sensuale o sentimentale, debba fungere da sostituto di ogni altra cosa ovunque. Rousseau e i Romantici, ai [[Time|tempi]] di Voltaire, dissero talvolta qualcosa di un po' simile; e la Chiesa vi resistette fin dal principio, proprio come Bernard [[Shaw]] si desta a resistervi alla fine. È assai più importante per noi far notare che l'attacco alla [[Faith|Fede]] crolla, per la propria stoltezza sul proprio terreno, piuttosto che esprimere i nostri sentimenti su alcuni dei casuali risultati della sua invincibile ignoranza, quando essa inciampa su un terreno più sacro.
-
--/-
-
-
-
 <span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_01" data-title="Well And Shallows — An Apology For Buffoons (part 1)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
 
 
@@ -12435,6 +8362,716 @@ richiamo del buffone.
 
 
 
+<span class="atom-split" data-atom="story_04_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+
+
+MY SIX CONVERSIONS
+I. THE RELIGION OF FOSSILS
+
+AT least six times during the last few years, I have found
+myself in a situation in which I should certainly have become
+a Catholic, if I had not been restrained from that rash step
+by the fortunate accident that I was one already.  The point
+is not merely personal but has some representative interest,
+because our critics constantly expect the [[convert]] to suffer some
+sort of reaction, ending in disappointment and perhaps desertion.
+As a rule, the most that they will concede to us is that we have
+found peace by the surrender of reason; which generally means
+in practice that we pass the rest of our lives in interminable
+controversies with a perpetual appeal to [[logic]].  But, as a fact,
+it is in a rather peculiar sense, the other way about.
+The strongest sort of confirmation often comes to the [[convert]]
+after he has received enough to establish conviction.
+In these articles I propose to discuss some examples
+of this singular sort of post-[[Conversion|conversion]] [[Conversion|conversion]].
+I mean that things have happened, since I was received
+into the Church, which would in any case have rendered
+impossible any intellectual position outside the Church,
+and especially the position in which I originally found myself.
+One occasion was the Parliamentary settlement of the controversy on
+the [[Prayer]]-Book--or [[Prayer]]-Books. Another was the Lambeth decision,
+or indecision, about Birth-Control. But I will take first
+the example of the latest turn of political events in Europe.
+I take it first because it is both typical and topical;
+that is, it gives perhaps the clearest and simplest example
+of the sort of thing I mean, and it is a thing of which the facts
+are fresh and familiar to everybody, even those who live
+only from day to day with the assistance of the daily Press;
+that very synthetic substitute for daily bread.
+But in order to explain what I think has really happened,
+rather more lucidly than the daily Press explains it, it is
+necessary to say a preliminary word about the Protestant [[Reformation]]
+and the sense in which its consequences, rather than itself,
+continue to bewilder and mislead Christendom.
+
+Men of the type or school of Bishop Barnes or Dean Inge are,
+as we know, very fond of appealing to the discoveries of science;
+generally the not very recent discoveries of nineteenth-century science.
+They delight in dealing with what my grandfather would have called
+the Testimony of the Rocks; the geological record of natural development;
+and they often treat fossils and similar traces as if they were
+sacred hieroglyphics, by which some priesthood had symbolised the secret
+of the universe.  And yet it is doubtful, it is more than doubtful,
+whether one of the Broad Church ecclesiastics would be soothed
+and flattered if I addressed him personally as an Old Fossil.
+Nor indeed should I dream of indulging in this playful form of
+social address; since there are truths, or half-truths, that cannot
+be coarsely stated without giving rise to misunderstanding even
+about their true meaning.
+
+In one sense these liberal theologians are interested in fossils.
+They continue to demonstrate the Darwinian theory from
+the geological record, by means of all the fossils that ought
+to be found in it.  They will even explain luminously why
+the geological evidence does not apparently exist; and they seem
+to think that this is quite as convincing as if it did exist.
+But I [[Doubt|doubt]] whether they have really thought profoundly and
+delicately about what a fossil is, or there would be no danger
+of their resenting so [[Innocent|innocent]] and inoffensive a comparison.
+For a fossil is really a very curious thing.  A fossil is not
+a dead animal, or a decayed organism, or in essence even an
+antiquated object.  The whole point of a fossil is that it is
+the form of an animal or organism, from which all its own animal
+or organic substance has entirely disappeared; but which has
+kept its shape, because it has been filled up by some totally
+different substance by some process of distillation or secretion,
+so that we might almost say, as in the medieval metaphysics,
+that its substance has vanished and only its accidents remain.
+And that is perhaps the very nearest figure of speech
+we can find for the [[Truth|truth]] about the New Religions,
+which were started only three or four hundred years ago.
+They are Fossils.
+
+It is easy to see the sense in which they are now dying.
+But in a much deeper sense, they have long been dead.
+The extraordinary thing about them was that they really
+died almost as soon as they were born.  And this was due
+to a fact not always emphasised, but which always strikes
+me as the most outstanding fact of the mysterious business;
+the incredible clumsiness of the Reformers.  The real
+Protestant theologians were such very bad theologians.
+They had an amazing opportunity; the old Church had been
+swept out of their way, along with many things that were
+really unpopular, and some things that were deservedly unpopular.
+One would suppose it was easy enough to set up something
+that would at least look a little more popular.  When they
+tried to do it, they made every mistake that they could make.
+They waged an insane war against everything in the old [[Faith|faith]]
+that is most normal and sympathetic to human [[Nature|nature]]; such as
+prayers for the dead or the gracious image of a Mother of Men.
+They hardened and fixed themselves upon fads which anybody
+could see would pass like fashions.  Luther lashed himself
+into a sort of general fury, which obviously could not last;
+Calvin was logical, but used his [[logic]] for a scheme
+which humanity manifestly would not long find endurable.
+Perhaps the most successful were those who really had no ideas
+to offer at all; like the founders of the Anglican Church.
+They at least did not exasperate human [[Nature|nature]]; but even they
+showed the same blindness, in binding themselves instantly
+to the Divine Right of Kings, which was almost immediately
+to break down.
+
+For this reason, there is really no historical [[Doubt|doubt]]
+about what Protestantism did; it died.  It did not die
+because the Protestants were wrong; Mahomet, for instance,
+was a far shrewder person, and his heresy has not died.
+The creed of the Protestants died, not because they were wrong,
+but because they were wrong-headed. They did not really think
+what they were doing; and this was chiefly because the real driving
+force behind them was the impatient insolence and avarice of new
+nobles and rebellious princes.  But, anyhow, the theological and
+theoretical part of their work withered with extraordinary rapidity;
+and the void that was left was almost as rapidly filled
+with other things.  What those things were is clear enough
+in many cases, including cases much more apparently harmless;
+but it is clearest of all in what is confronting us to-day;
+the Race Religion of the Germans.
+
+Needless to say, there was no such nonsense talked in Luther's [[Time|time]],
+or for long after his [[Time|time]]; and, least of all, to do him justice,
+by Luther.  Germans were turbulent and a little barbaric,
+as he was himself; but it is only fair to him to say that he was
+a Christian, in the sense that he believed that nothing could be
+done except in the strength of [[Christ]].  A superbly typical story
+reaches me from [[Germany]]; that some of the Nazis started out to sing
+the great reformer's famous [[Hymn|hymn]], "A strong fortress is our God"
+(which sounds quite promisingly militaristic), but found
+themselves unable to articulate the very words at the beginning
+of the next verse, which ran, "Of ourselves we can do nothing."
+Luther did, in his own mad way, believe in [[Humility|humility]];
+but modern [[Germany]] believes simply, solely and entirely in [[Pride|pride]].
+That is an example of what I mean by a void being filled up, not only
+by another substance, but actually by an antagonistic substance.
+
+Luther was subject to irrational convulsions of rage, in one
+of which he tore out the Epistle of St. James from the [[Bible]],
+because St. James exalts the importance of good works.
+But I shudder to imagine into what sort of epileptic convulsion
+he would have fallen if anybody had told him to tear out
+the Epistles of St. Paul, because St. Paul was not an Aryan.
+Luther, if possible, rather exaggerated the weakness of humanity,
+but at least it was the weakness of all humanity.  John Knox achieved
+that queer Puritan [[Paradox|paradox]], of combining the same concentrated
+invocation of [[Christ]] with an inhuman horror and loathing for all
+the signs and forms and traditions generally characteristic
+of Christians.  He combined, in the way that puzzles us so much,
+the adoration of the [[Cross]] with the abomination of the Crucifix.
+But at least John Knox would have exploded like dynamite,
+if anybody had asked him to adore the Swastika.  All this new
+Nordic nonsense would seem to have nothing whatever to do with
+Protestant theology; or rather to be completely contrary to it.
+No one is more sincerely glad than we are to know that some
+of the German Protestants are still most consistent and
+courageous Christians; and that a definite number of the Lutherans
+still have some sort of remote connection with Luther.
+But, taking the development simply as an historical development,
+as a part of the science and [[philosophy]] of [[history]], it is obvious
+by this [[Time|time]] that the hollow places that were once tilled with
+the foaming [[Fanaticism|fanaticism]] of the first [[Reformation]] doctrines are now
+filled with a foaming [[Fanaticism|fanaticism]] of a totally different kind.
+Those who are rebelling like Luther are rebelling against Luther.
+
+The main moral of this is so large and simple and striking,
+that it will soon be impossible to conceal it from the world.
+It is the simple fact that the moment men began to contradict
+the Church with their own private judgment, everything they
+did was incredibly ill-judged; that those who broke away from
+the Church's basis almost immediately broke down on their own basis;
+that those who tried to stand apart from Authority could
+not in fact stand at all.  [[Islam]] stood by being stagnant;
+it is not unfair to say it stood up by lying down.
+But Protestantism could not stand in the staggering rush of the West;
+it could only maintain itself by ceasing to be itself,
+and announcing its readiness to turn into anything else.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LE MIE SEI CONVERSIONI
+I. LA RELIGIONE DEI FOSSILI
+
+ALMENO sei volte durante gli ultimi anni, mi sono trovato
+in una situazione in cui sarei certamente diventato
+cattolico, se non fossi stato trattenuto da quel passo avventato
+dal fortunato accidente di esserlo già. Il punto
+non è meramente personale ma ha un certo interesse rappresentativo,
+perché i nostri critici si aspettano costantemente che il [[convert|convertito]] soffra una qualche
+sorta di reazione, che finisce nella disillusione e forse nella diserzione.
+Di regola, il massimo che ci concederanno è che abbiamo
+trovato la pace mediante la resa della ragione; il che generalmente significa
+in pratica che passiamo il resto della vita in interminabili
+controversie con un perpetuo appello alla [[logic|logica]]. Ma, di fatto,
+è in un senso piuttosto peculiare, il contrario.
+Il più forte genere di conferma giunge spesso al [[convert|convertito]]
+dopo che egli ha ricevuto abbastanza da stabilire la convinzione.
+In questi articoli mi propongo di discutere alcuni esempi
+di questo singolare genere di [[Conversion|conversione]] post-[[Conversion|conversione]].
+Intendo che sono accadute cose, da quando fui accolto
+nella Chiesa, che avrebbero in ogni caso reso
+impossibile qualsiasi posizione intellettuale al di fuori della Chiesa,
+e specialmente la posizione in cui originariamente mi trovavo.
+Un'occasione fu la definizione parlamentare della controversia sul
+Libro delle [[Prayer|Preghiere]] — o Libri delle [[Prayer|Preghiere]]. Un'altra fu la decisione di Lambeth,
+o indecisione, sul Controllo delle Nascite. Ma prenderò per prima
+l'esempio dell'ultima svolta degli eventi politici in Europa.
+La prendo per prima perché è insieme tipica e attuale;
+cioè, offre forse l'esempio più chiaro e semplice del genere di cosa
+che intendo, ed è una cosa i cui fatti
+sono freschi e familiari a tutti, persino a coloro che vivono
+solo alla giornata con l'assistenza della stampa quotidiana;
+quel surrogato assai sintetico del pane quotidiano.
+Ma per spiegare ciò che penso sia realmente accaduto,
+in modo un po' più lucido di quanto lo spieghi la stampa quotidiana, è
+necessario dire una parola preliminare sulla [[Reformation|Riforma]] protestante
+e sul senso in cui le sue conseguenze, piuttosto che essa stessa,
+continuano a sconcertare e fuorviare la cristianità.
+
+Uomini del tipo o della scuola del vescovo Barnes o del decano Inge sono,
+come sappiamo, assai inclini ad appellarsi alle scoperte della scienza;
+generalmente le non molto recenti scoperte della scienza ottocentesca.
+Si dilettano nel trattare ciò che mio nonno avrebbe chiamato
+la Testimonianza delle Rocce; il documento geologico dello sviluppo naturale;
+e trattano spesso i fossili e tracce simili come se fossero
+sacri geroglifici, con cui qualche sacerdozio avesse simboleggiato il segreto
+dell'universo. Eppure è dubbio, è più che dubbio,
+che uno degli ecclesiastici della Broad Church sarebbe placato
+e lusingato se mi rivolgessi a lui personalmente chiamandolo un Vecchio Fossile.
+Né, invero, sognerei di indulgere in questa giocosa forma di
+appellativo sociale; poiché ci sono verità, o mezze verità, che non possono
+essere rozzamente enunciate senza dare origine a malintesi persino
+sul loro vero significato.
+
+In un senso questi teologi liberali sono interessati ai fossili.
+Continuano a dimostrare la teoria darwiniana a partire dal
+documento geologico, per mezzo di tutti i fossili che dovrebbero
+trovarvisi. Spiegheranno persino luminosamente perché
+l'evidenza geologica apparentemente non esiste; e sembrano
+pensare che ciò sia altrettanto convincente che se esistesse.
+Ma [[Doubt|dubito]] che abbiano davvero riflettuto profondamente e
+delicatamente su che cosa sia un fossile, altrimenti non ci sarebbe pericolo
+che si risentissero di un paragone così [[Innocent|innocente]] e inoffensivo.
+Poiché un fossile è davvero una cosa curiosissima. Un fossile non è
+un animale morto, o un organismo decaduto, o in essenza persino un
+oggetto antiquato. Tutto il punto di un fossile è che è
+la forma di un animale o organismo, da cui tutta la sua propria sostanza animale
+o organica è interamente scomparsa; ma che ne ha
+conservato la sagoma, perché è stato riempito da qualche totalmente
+diversa sostanza mediante qualche processo di distillazione o secrezione,
+sicché potremmo quasi dire, come nella metafisica medievale,
+che la sua sostanza è svanita e solo i suoi accidenti rimangono.
+E questa è forse la più prossima figura retorica
+che possiamo trovare per la [[Truth|verità]] sulle Nuove Religioni,
+che furono avviate solo tre o quattrocento anni fa.
+Esse sono Fossili.
+
+È facile vedere il senso in cui esse ora stanno morendo.
+Ma in un senso assai più profondo, sono morte da tempo.
+La cosa straordinaria a loro riguardo era che davvero
+morirono quasi appena nate. E ciò era dovuto
+a un fatto non sempre sottolineato, ma che mi colpisce sempre
+come il fatto più cospicuo di questa misteriosa faccenda;
+l'incredibile goffaggine dei Riformatori. I veri
+teologi protestanti erano teologi pessimi.
+Avevano un'occasione stupefacente; la vecchia Chiesa era stata
+spazzata via dal loro cammino, insieme a molte cose che erano
+davvero impopolari, e ad alcune cose che erano meritatamente impopolari.
+Si supporrebbe fosse abbastanza facile erigere qualcosa
+che almeno apparisse un po' più popolare. Quando
+tentarono di farlo, commisero ogni errore che potessero commettere.
+Mossero una guerra insensata contro tutto ciò che nella vecchia [[Faith|Fede]]
+è più normale e simpatico alla [[Nature|natura]] umana; come
+le preghiere per i morti o la graziosa immagine di una Madre degli uomini.
+Si irrigidirono e si fissarono su fisime che chiunque
+poteva vedere sarebbero passate come mode. Lutero si frustò
+in una sorta di furia generale, che ovviamente non poteva durare;
+Calvino era logico, ma usò la sua [[logic|logica]] per uno schema
+che l'umanità manifestamente non avrebbe a lungo trovato sopportabile.
+Forse i più riusciti furono quelli che davvero non avevano idee
+da offrire affatto; come i fondatori della Chiesa anglicana.
+Essi almeno non esasperarono la [[Nature|natura]] umana; ma persino loro
+mostrarono la stessa cecità, legandosi istantaneamente
+al Diritto Divino dei Re, che stava quasi immediatamente
+per crollare.
+
+Per questa ragione, non c'è davvero alcun [[Doubt|dubbio]] storico
+su ciò che il protestantesimo fece; morì. Non morì
+perché i protestanti avessero torto; Maometto, per esempio,
+era una persona assai più accorta, e la sua eresia non è morta.
+Il credo dei protestanti morì, non perché avessero torto,
+ma perché erano di testa sbagliata. Non pensavano davvero
+a ciò che facevano; e ciò era principalmente perché la vera forza
+motrice dietro di loro era l'impaziente insolenza e l'avarizia di nuovi
+nobili e di principi ribelli. Ma, comunque, la parte teologica e
+teorica della loro opera avvizzì con straordinaria rapidità;
+e il vuoto che restò fu quasi altrettanto rapidamente riempito
+di altre cose. Che cosa fossero quelle cose è abbastanza chiaro
+in molti casi, inclusi casi assai più apparentemente innocui;
+ma è più chiaro di tutto in ciò che oggi ci sta di fronte;
+la Religione della Razza dei tedeschi.
+
+Inutile dire che nessuna simile assurdità fu detta al [[Time|tempo]] di Lutero,
+o per lungo tempo dopo il suo [[Time|tempo]]; e, meno di tutti, per rendergli giustizia,
+da Lutero. I tedeschi erano turbolenti e un po' barbari,
+come lo era egli stesso; ma è solo giusto verso di lui dire che era
+un cristiano, nel senso che credeva che nulla potesse essere
+fatto se non nella forza di [[Christ|Cristo]]. Una storia superbamente tipica
+mi giunge dalla [[Germany|Germania]]; che alcuni dei nazisti si misero a cantare
+il famoso [[Hymn|inno]] del grande riformatore, «Forte rocca è il nostro Dio»
+(che suona in modo assai promettentemente militaristico), ma si trovarono
+incapaci di articolare le parole stesse all'inizio
+della strofa successiva, che diceva: «Da noi stessi nulla possiamo».
+Lutero, a suo modo folle, credeva nell'[[Humility|umiltà]];
+ma la [[Germany|Germania]] moderna crede semplicemente, unicamente e interamente nell'[[Pride|orgoglio]].
+Questo è un esempio di ciò che intendo per un vuoto riempito, non solo
+da un'altra sostanza, ma effettivamente da una sostanza antagonistica.
+
+Lutero era soggetto a irrazionali convulsioni di rabbia, in una
+delle quali strappò l'Epistola di San Giacomo dalla [[Bible|Bibbia]],
+perché San Giacomo esalta l'importanza delle buone opere.
+Ma rabbrividisco a immaginare in quale sorta di convulsione epilettica
+sarebbe caduto se qualcuno gli avesse detto di strappare
+le Epistole di San Paolo, perché San Paolo non era ariano.
+Lutero, semmai, esagerava piuttosto la debolezza dell'umanità,
+ma almeno era la debolezza di tutta l'umanità. John Knox conseguì
+quel bizzarro [[Paradox|paradosso]] puritano, di combinare la stessa concentrata
+invocazione di [[Christ|Cristo]] con un orrore e un ribrezzo inumani per tutti
+i segni e le forme e le tradizioni generalmente caratteristici
+dei cristiani. Combinava, nel modo che tanto ci sconcerta,
+l'adorazione della [[Cross|Croce]] con l'abominio del Crocifisso.
+Ma almeno John Knox sarebbe esploso come dinamite,
+se qualcuno gli avesse chiesto di adorare la Svastica. Tutta questa nuova
+assurdità nordica sembrerebbe non avere nulla a che fare con
+la teologia protestante; o piuttosto esserle completamente contraria.
+Nessuno è più sinceramente lieto di noi di sapere che alcuni
+dei protestanti tedeschi sono ancora cristiani coerentissimi e
+coraggiosissimi; e che un certo numero di luterani
+ha ancora una qualche sorta di remota connessione con Lutero.
+Ma, prendendo lo sviluppo semplicemente come uno sviluppo storico,
+come parte della scienza e della [[philosophy|filosofia]] della [[history|storia]], è ovvio
+ormai a questo [[Time|punto]] che i luoghi cavi un tempo coltivati con
+lo spumeggiante [[Fanaticism|fanatismo]] delle prime dottrine della [[Reformation|Riforma]] sono ora
+riempiti da uno spumeggiante [[Fanaticism|fanatismo]] di genere totalmente diverso.
+Coloro che si ribellano come Lutero si ribellano contro Lutero.
+
+La principale morale di questo è così grande e semplice e sorprendente,
+che presto sarà impossibile celarla al mondo.
+È il semplice fatto che nel momento in cui gli uomini cominciarono a contraddire
+la Chiesa con il proprio giudizio privato, tutto ciò che essi
+fecero fu incredibilmente mal giudicato; che coloro che si staccarono dalla
+base della Chiesa quasi immediatamente crollarono sulla propria base;
+che coloro che tentarono di stare a parte dall'Autorità non poterono
+di fatto stare affatto in piedi. L'[[Islam]] stette in piedi restando stagnante;
+non è ingiusto dire che si tenne ritto sdraiandosi.
+Ma il protestantesimo non poté reggere nella vertiginosa corsa dell'Occidente;
+poté mantenersi solo cessando di essere se stesso,
+e annunciando la propria prontezza a trasformarsi in qualsiasi altra cosa.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_05_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+
+
+MY SIX CONVERSIONS
+II.  WHEN THE WORLD TURNED BACK
+
+FOR the first forty years of my life, practically no man in the world,
+and certainly no man of the world, had any [[Doubt|doubt]] whatever
+about what Matthew Arnold called, "the way the world is going."
+A man did not necessarily agree with Matthew Arnold, who seemed
+to think that he must necessarily go the way the world was going.
+Some regretted ages that were gone; some again were prepared
+to go farther than others, some to go faster than others;
+some almost passionately desired to go slow.  But all agreed that
+it was, in the vulgar phrase, going it; and still going strong.
+It was, very broadly, the demand for [[Freedom|freedom]] and fraternity
+flowing from the [[French Revolution]] and the American Revolution,
+making towards an ideal of [[Democracy|democracy]].  Elements were indeed mixed
+in it, which logically had very little to do with each other.
+There was a tendency to materialism, to monism or to scepticism,
+which I rejected long before I was a Catholic.  There was an
+element of equal justice, and the dignity of all citizens, which I
+accepted long after I was a Catholic; and which I accept still.
+But I assumed, like everybody else, that the main movement
+was still moving; and would presumably go on moving.
+There were three ways in which it could be recognised
+by a Catholic, or a man of increasingly Catholic sympathies,
+(1) He could say that this was the way the world was going;
+and so much the worse for the world.  He could say the world
+would certainly go further and fare worse.  (2) He could say,
+with considerable [[Truth|truth]], that no such movement that was purely
+secular really touched the question that was purely spiritual.
+To take a simple example, the most ideal Republicans could
+not somehow get out of the human habit of dying; and generally
+of wondering whether dying meant being completely dead.
+[[Democracy]] could not satisfy all desires, even if it could
+purge itself enough to satisfy all democratic desires.
+(3) He could look forward, with some historical justification,
+to a [[Time|time]] when any temporal quarrel between the Church and
+the Republic should end in a real and reasonable [[Reconciliation|reconciliation]]
+of the truths in both; as St. Thomas reconciled the [[philosophy]]
+of Aristotle with the religion of Augustine.  Something like
+this has largely been done, in recent Papal pronouncements;
+but the point is here that whether or no the Church could close
+this particular quarrel with the world, every one was certain
+that a quarrel with [[Democracy|democracy]] was a quarrel with the world.
+In short, a Catholic might reject the present progress;
+or say his creed was independent of the present progress;
+or say his creed would find a place for the present progress.
+But everybody believed that the progress of the present would
+be the progress of the future.
+
+Then came the astounding judgments; the strange signs of [[Apocalypse]].
+First the Great War; then the [[Paradox|paradox]] of Fascism in [[Italy]]; then the [[Parody|parody]]
+of Fascism in [[Germany]].  Now these things have left in the minds
+of all thinking men (as the Rationalist Press Association would say)
+an enormous overturn or reversal of thought, which has nothing
+whatever to do with thinking any of these movements right or wrong.
+It is very vital to realise that the change is something more
+fundamental than agreement or disagreement with the factions concerned.
+A man may think the war waged by the Allies justifiable, as I did and do;
+he may think that the stroke of Mussolini had considerable justification,
+or even that the stroke of Hitler achieved many things that were just.
+Or he may think exactly the opposite, and regard the whole militant
+epoch as a relapse into [[Blood|blood]] and barbarism, from the first recruit
+of Kitchener's Army to the last ruffian dripping with the [[Blood|blood]]
+of Dollfuss.  But there is a changed landscape at the back of all
+these fighting figures; and it is a landscape like an earthquake.
+What a man knows, now, is that the whole march of mankind can turn
+and tramp backwards in its tracks; that progress can start progressing,
+or feeling as if it were progressing, in precisely the contrary
+course from that which has been called progress for centuries.
+It can not only lose but fling away all that its fathers fought for and
+valued most; it can not only restore but restore exclusively all that its
+grandfathers were forced to abandon, or felt themselves unable to defend.
+The whole world is moving again; but it is moving the other way.
+
+To-day this is the way the world is going, if there
+is any such thing.  But in fact there is no such thing.
+A Catholic perhaps should have seen it from the first;
+but many a Catholic has only seen it in a flash at the last.
+There is no way the world is going.  There never was.
+The world is not going anywhere, in the sense of the old
+optimist progressives, or even of the old pessimist reactionaries.
+It is not going to the Brave New World which Mr. Aldous Huxley
+described with detestation, any more than to the New Utopia
+which Mr. H. G. Wells described with delight.
+The world is what the saints and the prophets saw it was;
+it is not merely getting better or merely getting worse;
+there is one thing that the world does; it wobbles.
+Left to itself, it does not get anywhere; though if helped by real
+reformers of the right religion and [[philosophy]], it may get better
+in many respects, and sometimes for considerable periods.
+But in itself it is not a progress; it is not even a process;
+it is the fashion of this world that passeth away.
+Life in itself is not a ladder; it is a see-saw.
+
+Now that is fundamentally what the Church has always said; and for
+about four hundred years has been more and more despised for saying.
+The Church never said that wrongs could not or should not be righted;
+or that commonwealths could not or should not be made happier; or that
+it was not worth while to help them in secular and material things;
+or that it is not a good thing if manners become milder, or comforts
+more common, or cruelties more rare.  But she did say that we must
+not count on the certainty even of comforts becoming more common
+or cruelties more rare; as if this were an inevitable social trend
+towards a sinless humanity; instead of being as it was a mood of man,
+and perhaps a better mood, possibly to be followed by a worse one.
+We must not hate humanity, or despise humanity, or refuse to
+help humanity; but we must not trust humanity; in the sense of trusting
+a trend in human [[Nature|nature]] which cannot turn back to bad things.
+"Put not your trust in princes; nor in any [[Child|child]] of man."
+That is the precise point of this very practical sort of politics.
+Be a Royalist if you like (and there is a vast amount to be said,
+and a vast amount being said, just now, for more personal and
+responsible rule); try a Monarchy if you think it will be better;
+but do not trust a Monarchy, in the sense of expecting that a
+monarch will be anything but a man.  Be a Democrat if you like
+(and I shall always think it the most generous and the most
+fundamentally Christian ideal in politics); express your sense
+of human dignity in manhood suffrage or any other form of equality;
+but put not your trust in manhood suffrage or in any [[Child|child]] of man.
+There is one little defect about Man, the image of God, the [[Wonder|wonder]]
+of the world and the paragon of [[Animals|animals]]; that he is not to be trusted.
+If you identify him with some ideal, which you choose to think is
+his inmost [[Nature|nature]] or his only goal, the day will come when he will
+suddenly seem to you a traitor.
+
+He seems a traitor to-day to all that world of liberal and
+enlightened opinion, which had made up its mind about the way
+the world was going, in the path of progress and of peace;
+the world of Wells and Webb and the Pacifists of [[America]] and the social
+reformers of Cambridge.  Most of them are reduced to muttering,
+like the [[Villain|villain]] in the old [[Melodrama|melodrama]], "a [[Time|time]] will come."
+But it is in a very different tone from that in which they were crying
+quite lately, like the man in the comic [[Song|song]], "Now we shan't be long!"
+The most hopeful of them admit that we shall probably be very long,
+in reversing all that the reaction in Europe has done already.
+If, that is, it is ever reversed; and these people really have nothing
+except a purely mystical [[Faith|faith]] to suggest that it ever will be reversed.
+I am really more hopeful in being what they would call more hopeless;
+for I suspect that pretty nearly everything is eventually reversed.
+But it was exactly because they would not see this, that they
+were startled when their own [[Reform|reform]] or revolution was reversed
+before their own eyes.  The point here, however, is that if there
+is something stable and not subject to reversal, it is not like
+anything that they imagine.  Its habitation is not in the future
+or necessarily in any development of ideas peculiar to the present;
+we are not at the beginning of any endless and expanding [[Dawn|dawn]],
+but only of the ordinary daily dawns each followed by its own darkness;
+and the [[Faith]], as Mr. Belloc said, "is the only beacon in this [[Night|night]],
+if beacon there be."
+
+In the heart of Christendom, in the head of the Church, in the centre
+of the civilisation called Catholic, there and in no movement
+and in no future, is found that crystallisation of commonsense
+and true traditions and rational reforms, for which the modern
+man mistakenly looked to the whole trend of the modern age.
+From this will come the reminders that [[Mercy|mercy]] is being neglected or [[Memory|memory]]
+cast away, and not from the men who happen to make the next batch
+of rulers on this restless and distracted earth.  That is the fact
+that we have all found at last; and that is why I have put it first.
+It is not the first in order, but it is the first in importance,
+of the facts I have discovered after I had discovered the [[Truth|truth]];
+and if I had still been out in the darkness, it would in this dark
+hour have brought me to the door.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LE MIE SEI CONVERSIONI
+II. QUANDO IL MONDO TORNÒ INDIETRO
+
+PER i primi quarant'anni della mia vita, praticamente nessun uomo al mondo,
+e certamente nessun uomo di mondo, ebbe il minimo [[Doubt|dubbio]]
+su ciò che Matthew Arnold chiamava «la direzione in cui il mondo sta andando».
+Un uomo non concordava necessariamente con Matthew Arnold, il quale sembrava
+pensare di dover necessariamente andare nella direzione in cui il mondo andava.
+Alcuni rimpiangevano epoche ormai trascorse; altri ancora erano pronti
+ad andare più lontano di altri, alcuni ad andare più veloci di altri;
+alcuni desideravano quasi appassionatamente andare adagio. Ma tutti concordavano che
+esso stava, nella frase volgare, andando alla grande; e ancora andando forte.
+Era, assai in generale, la domanda di [[Freedom|libertà]] e fraternità
+che fluiva dalla [[French Revolution|Rivoluzione francese]] e dalla Rivoluzione americana,
+tendendo verso un ideale di [[Democracy|democrazia]]. Vi erano invero mescolati
+elementi che logicamente avevano assai poco a che fare l'uno con l'altro.
+Vi era una tendenza al materialismo, al monismo o allo scetticismo,
+che rifiutai molto prima di essere cattolico. Vi era un
+elemento di uguale giustizia, e la dignità di tutti i cittadini, che
+accettai molto tempo dopo essere diventato cattolico; e che accetto tuttora.
+Ma davo per scontato, come tutti gli altri, che il movimento principale
+si muovesse ancora; e presumibilmente avrebbe continuato a muoversi.
+C'erano tre modi in cui esso poteva essere riconosciuto
+da un cattolico, o da un uomo di simpatie sempre più cattoliche.
+(1) Poteva dire che questa era la direzione in cui il mondo stava andando;
+e tanto peggio per il mondo. Poteva dire che il mondo
+sarebbe certamente andato oltre per andare peggio. (2) Poteva dire,
+con considerevole [[Truth|verità]], che nessun simile movimento puramente
+secolare toccava davvero la questione che era puramente spirituale.
+Per prendere un semplice esempio, i più ideali repubblicani non
+riuscivano in qualche modo a uscire dall'umana abitudine di morire; e generalmente
+di chiedersi se morire significasse essere completamente morti.
+La [[Democracy|Democrazia]] non poteva soddisfare tutti i desideri, anche se potesse
+purgarsi abbastanza da soddisfare tutti i desideri democratici.
+(3) Poteva guardare avanti, con una certa giustificazione storica,
+a un [[Time|tempo]] in cui ogni contesa temporale tra la Chiesa e
+la Repubblica sarebbe finita in una reale e ragionevole [[Reconciliation|riconciliazione]]
+delle verità in entrambe; come San Tommaso riconciliò la [[philosophy|filosofia]]
+di Aristotele con la religione di Agostino. Qualcosa di
+simile è stato in gran parte compiuto, in recenti pronunciamenti papali;
+ma il punto qui è che, sia o no che la Chiesa potesse chiudere
+questa particolare contesa con il mondo, ognuno era certo
+che una contesa con la [[Democracy|democrazia]] fosse una contesa con il mondo.
+In breve, un cattolico poteva rifiutare il presente progresso;
+o dire che il suo credo era indipendente dal presente progresso;
+o dire che il suo credo avrebbe trovato un posto per il presente progresso.
+Ma tutti credevano che il progresso del presente sarebbe stato
+il progresso del futuro.
+
+Poi vennero gli sbalorditivi giudizi; gli strani segni dell'[[Apocalypse|Apocalisse]].
+Prima la Grande Guerra; poi il [[Paradox|paradosso]] del fascismo in [[Italy|Italia]]; poi la [[Parody|parodia]]
+del fascismo in [[Germany|Germania]]. Ora queste cose hanno lasciato nelle menti
+di tutti gli uomini pensanti (come direbbe la Rationalist Press Association)
+un enorme ribaltamento o rovesciamento del pensiero, che non ha nulla
+affatto a che fare con il ritenere giusto o sbagliato alcuno di questi movimenti.
+È assai vitale rendersi conto che il cambiamento è qualcosa di più
+fondamentale dell'accordo o del disaccordo con le fazioni in questione.
+Un uomo può ritenere giustificabile la guerra combattuta dagli Alleati, come io la ritenevo e la ritengo;
+può ritenere che il colpo di Mussolini avesse considerevole giustificazione,
+o persino che il colpo di Hitler abbia conseguito molte cose che erano giuste.
+Oppure può ritenere esattamente l'opposto, e considerare l'intera militante
+epoca come una ricaduta nel [[Blood|sangue]] e nella barbarie, dalla prima recluta
+dell'Esercito di Kitchener all'ultimo furfante grondante del [[Blood|sangue]]
+di Dollfuss. Ma c'è un paesaggio mutato sullo sfondo di tutte
+queste figure combattenti; ed è un paesaggio come un terremoto.
+Ciò che un uomo sa, ora, è che l'intera marcia dell'umanità può voltarsi
+e ricalpestare all'indietro le proprie orme; che il progresso può mettersi a progredire,
+o a sentirsi come se progredisse, in una direzione precisamente contraria
+a quella che è stata chiamata progresso per secoli.
+Esso può non solo perdere ma gettar via tutto ciò per cui i suoi padri combatterono e
+che più apprezzarono; può non solo ripristinare ma ripristinare esclusivamente tutto ciò che i suoi
+nonni furono costretti ad abbandonare, o si sentirono incapaci di difendere.
+L'intero mondo si sta muovendo di nuovo; ma si sta muovendo nell'altra direzione.
+
+Oggi questa è la direzione in cui il mondo sta andando, se una
+simile cosa esiste. Ma di fatto una simile cosa non esiste.
+Un cattolico forse avrebbe dovuto vederlo fin dal principio;
+ma molti cattolici l'hanno visto solo in un lampo alla fine.
+Non c'è alcuna direzione in cui il mondo stia andando. Non c'è mai stata.
+Il mondo non sta andando da nessuna parte, nel senso dei vecchi
+progressisti ottimisti, o persino dei vecchi reazionari pessimisti.
+Non sta andando verso il Mondo Nuovo che il signor Aldous Huxley
+descrisse con detestazione, più di quanto vada verso la Nuova Utopia
+che il signor H. G. Wells descrisse con delizia.
+Il mondo è ciò che i santi e i profeti videro che era;
+non sta semplicemente migliorando né semplicemente peggiorando;
+c'è una cosa che il mondo fa; oscilla.
+Lasciato a se stesso, non arriva da nessuna parte; sebbene, se aiutato da veri
+riformatori della giusta religione e [[philosophy|filosofia]], possa migliorare
+sotto molti aspetti, e talvolta per periodi considerevoli.
+Ma in sé non è un progresso; non è nemmeno un processo;
+è la foggia di questo mondo che passa.
+La vita in sé non è una scala; è un'altalena.
+
+Ora questo è fondamentalmente ciò che la Chiesa ha sempre detto; e per
+circa quattrocento anni è stata sempre più disprezzata per averlo detto.
+La Chiesa non ha mai detto che i torti non potessero o non dovessero essere raddrizzati;
+o che gli Stati non potessero o non dovessero essere resi più felici; o che
+non valesse la pena aiutarli nelle cose secolari e materiali;
+o che non sia una buona cosa se i costumi divengono più miti, o le comodità
+più comuni, o le crudeltà più rare. Ma essa disse che non dobbiamo
+contare sulla certezza che persino le comodità divengano più comuni
+o le crudeltà più rare; come se ciò fosse un'inevitabile tendenza sociale
+verso un'umanità senza peccato; invece di essere, come era, uno stato d'animo dell'uomo,
+e forse uno stato d'animo migliore, possibilmente seguito da uno peggiore.
+Non dobbiamo odiare l'umanità, o disprezzare l'umanità, o rifiutarci di
+aiutare l'umanità; ma non dobbiamo fidarci dell'umanità; nel senso di fidarci
+di una tendenza nella [[Nature|natura]] umana che non possa tornare indietro verso cose cattive.
+«Non riponete la vostra fiducia nei principi; né in alcun [[Child|figlio]] d'uomo».
+Questo è il punto preciso di questo genere assai pratico di politica.
+Sii pure realista, se ti piace (e c'è una vasta quantità di cose da dire,
+e una vasta quantità di cose che si stanno dicendo, proprio ora, per un governo più personale e
+responsabile); prova una Monarchia se pensi che sarà migliore;
+ma non fidarti di una Monarchia, nel senso di aspettarti che un
+monarca sarà qualcosa di diverso da un uomo. Sii pure democratico, se ti piace
+(e penserò sempre che sia l'ideale più generoso e più
+fondamentalmente cristiano in politica); esprimi il tuo senso
+della dignità umana nel suffragio universale maschile o in qualsiasi altra forma di uguaglianza;
+ma non riporre la tua fiducia nel suffragio universale maschile o in alcun [[Child|figlio]] d'uomo.
+C'è un piccolo difetto nell'Uomo, l'immagine di Dio, la [[Wonder|meraviglia]]
+del mondo e il paragone degli [[Animals|animali]]; che non ci si può fidare di lui.
+Se lo identifichi con qualche ideale, che tu scegli di ritenere
+la sua più intima [[Nature|natura]] o il suo unico fine, verrà il giorno in cui egli
+d'improvviso ti apparirà un traditore.
+
+Egli appare oggi un traditore a tutto quel mondo di opinione liberale e
+illuminata, che si era formato un'idea sulla direzione in cui
+il mondo stava andando, sul sentiero del progresso e della pace;
+il mondo di Wells e Webb e dei Pacifisti d'[[America]] e dei riformatori sociali
+di Cambridge. La maggior parte di loro è ridotta a borbottare,
+come il [[Villain|cattivo]] nel vecchio [[Melodrama|melodramma]], «verrà un [[Time|tempo]]».
+Ma è in un tono assai diverso da quello con cui gridavano
+proprio di recente, come l'uomo nella [[Song|canzone]] comica, «Ora non ci vorrà molto!».
+I più speranzosi tra loro ammettono che probabilmente ci vorrà moltissimo,
+a rovesciare tutto ciò che la reazione in Europa ha già fatto.
+Se, cioè, sarà mai rovesciato; e questa gente non ha davvero nulla
+eccetto una [[Faith|fede]] puramente mistica a suggerire che sarà mai rovesciato.
+Io sono davvero più speranzoso nell'essere ciò che loro chiamerebbero più disperato;
+poiché sospetto che pressoché ogni cosa venga alla fine rovesciata.
+Ma fu esattamente perché non volevano vedere questo, che essi
+rimasero sbalorditi quando la loro stessa [[Reform|riforma]] o rivoluzione fu rovesciata
+davanti ai loro stessi occhi. Il punto qui, tuttavia, è che se c'è
+qualcosa di stabile e non soggetto a rovesciamento, esso non è affatto simile a
+nulla di ciò che essi immaginano. La sua dimora non è nel futuro
+o necessariamente in alcuno sviluppo di idee peculiari del presente;
+non siamo all'inizio di alcuna sconfinata e dilatantesi [[Dawn|alba]],
+ma solo delle ordinarie albe quotidiane, ciascuna seguita dalla propria oscurità;
+e la [[Faith|Fede]], come disse il signor Belloc, «è l'unico faro in questa [[Night|notte]],
+se faro vi è».
+
+Nel cuore della cristianità, nel capo della Chiesa, nel centro
+della civiltà chiamata cattolica, lì e in nessun movimento
+e in nessun futuro, si trova quella cristallizzazione del buonsenso
+e delle vere tradizioni e delle riforme razionali, per cui l'uomo moderno
+erroneamente guardava all'intera tendenza dell'età moderna.
+Da questo verranno i richiami che la [[Mercy|misericordia]] è trascurata o la [[Memory|memoria]]
+gettata via, e non dagli uomini che si trovano a comporre la prossima infornata
+di governanti su questa irrequieta e distratta terra. Questo è il fatto
+che tutti abbiamo trovato alla fine; ed è per questo che l'ho messo per primo.
+Non è il primo in ordine, ma è il primo in importanza,
+dei fatti che ho scoperto dopo aver scoperto la [[Truth|verità]];
+e se fossi ancora là fuori nell'oscurità, in questa buia
+ora mi avrebbe condotto alla porta.
+
+-/-
+
+
+
 <span class="atom-split" data-atom="story_06_my_six_conversions--part_01" data-title="Well And Shallows — My Six Conversions (part 1)" data-chapter="My Six Conversions" data-kind="excerpt"></span>
 
 
@@ -12852,6 +9489,789 @@ guardare perché difendessero la patria degli altari cristiani.
 Costoro dovrebbero certo sapere che il nemico ora alle frontiere non offre
 alcun termine di compromesso; ma minaccia una completa distruzione.
 Ed essi hanno tradito il passo.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_07_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+
+
+MY SIX CONVERSIONS
+
+IV.  THE [[Prayer|PRAYER]]-BOOK PROBLEM
+
+ONE of the events which would have made me a Catholic, if I had not
+already been a Catholic, was the curious affair of the New [[Prayer]]-Book.
+It revealed to me a reality I had not hitherto realised.
+There really was a Church of England; or rather there really was an
+England which largely imagined that it possessed and controlled a Church.
+But this Church was not the Church I thought I had belonged to;
+the keen, cultivated and sincere group of men who claimed to be Catholic.
+It was a much vaster and vaguer background of men; who did not
+believe in anything in particular, but who claimed to be Protestant.
+But the vital point was that, whether they claimed to be Protestants
+or clamorously bragged of being atheists, they all seemed to have this
+fixed idea; that they owned the Church of England; and could turn
+it into a Mormon temple if they liked.  I could not, in any case,
+have gone on being owned in that way.
+
+But in order to understand all that was involved, it is
+necessary to say a word about the Anglican [[Prayer]]-Book itself.
+The Book of Common [[Prayer]] is the masterpiece of Protestantism.
+It is more so than the work of [[Milton]].  It is the one positive
+possession and attraction; the one magnet and talisman
+for people even outside the Anglican Church, as are the great
+Gothic cathedrals for people outside the [[Catholic Church]].
+I can speak, I think, for many other converts, when I say
+that the only thing that can produce any sort of [[Nostalgia|nostalgia]]
+or romantic regret, any [[Shadow|shadow]] of homesickness in one who has
+in [[Truth|truth]] come [[Home|home]], is the rhythm of [[Cranmer]]'s prose.
+All the other supposed superiorities of any sort of Protestantism
+are quite fictitious.  Tell a Catholic [[convert]] that he has
+lost his liberty, and he will laugh.  A distinguished literary
+lady wrote recently that I had entered the most restricted
+of all Christian communions, and I was monstrously amused.
+A Catholic has fifty times more feeling of being free than a man
+caught in the net of the nervous compromises of Anglicanism;
+just as a man considering all England feels more free
+than a man obeying the Whips of one particular party.
+He has the range of two thousand years full of twelve-hundred
+thousand controversies, thrashed out by thinker against thinker,
+school against school, guild against guild, nation against nation,
+with no limit except the fundamental logical fact that the things
+were worth arguing, because they could be ultimately solved
+and settled.  As for Reason, our monopoly is practically
+admitted in the modern world.  Except for one or two dingy old
+atheists in Fleet Street (for whom I have great sympathy),
+nothing except Rome now defends the reliability of Reason.
+Much stronger is the appeal of unreason; or of that [[Beauty|beauty]]
+which perhaps is beyond reason.  The English [[litany|Litany]],
+the music and the [[Magic|magic]] of the great sixteenth-century style--
+that does call a man backwards like the [[Song|song]] of the sirens;
+as Virgil and the poets might have called to a Pagan who had
+entered the Early Church.  Only, being a Romanist and therefore
+a Rationalist, he does not go back; he naturally does not forget
+everything else, because his opponents four hundred years ago
+had a stylistic knack which they have now entirely lost.
+For the Anglicans cannot do the trick now, any more than
+anybody else.  Modern prayers, and theirs perhaps more than any,
+seem to be perfectly incapable of avoiding journalese.
+And the [[Prayer]]-Book prose seems to follow them like a derisive echo.
+Lambeth or Convocation will publish a [[Prayer|prayer]] saying something like,
+"Guide us, 0 Lord, to the solution of our social problems";
+and the great organ of old will groan in the background.
+... "All who are desolate and oppressed."  The first Anglicans
+asked for peace and happiness, [[Truth|truth]] and justice; but nothing
+can stop the latest Anglicans, and many others, from the horrid
+habit of asking for improvement in international relations.
+
+But why has the old Protestant [[Prayer]]-Book a power
+like that of great poetry upon the spirit and the heart?
+The reason is much deeper than the mere avoidance of journalese.
+It might be put in a sentence; it has style; it has tradition;
+it has religion; it was written by apostate Catholics.
+It is strong, not in so far as it is the first Protestant book,
+but in so far as it was the last Catholic book.
+As it happens, this can be proved in the most practical
+manner from the actual details of the prose.  The most
+moving passages in the old Anglican [[Prayer]]-Book are exactly
+those that are least like the atmosphere of the Anglicans.
+They are moving, or indeed thrilling, precisely because they
+say the things which Protestants have long left off saying;
+and which only Catholics still say.  Anybody who knows anything
+of literature knows when a style lifts itself to its loftiest efforts;
+and in these cases it is always to say strongly what we still
+endeavour to say, however weakly; but which nobody else ever
+endeavours to say at all.  Let anyone recall for himself
+the very finest passages in the Book of Common [[Prayer]],
+and he will soon see that they are concerned specially with
+spiritual thoughts and themes that now seem strange and terrible;
+but anyhow, the reverse of common; " ... in the hour of [[Death|death]]
+and in the day of Judgment."  Who talks about the hour of [[Death|death]]?
+Who talks about the Day of Judgment?  Only a litter of shabby
+little priests from the Italian Mission.  Not certainly
+the popular and eloquent Dean of Bumblebury, who is so Broad
+and yet so High.  Certainly not the charming and fashionable
+Vicar of St. Ethelbald's, who is so High and yet so Broad.
+Still less the clergyman helping in the same parish, who is
+frankly Low.  It is the same on every page, where that spirit
+inspires that style.  "Suffer us not, for any pains of [[Death|death]],
+to fall from Thee."... "Ah, that's what gets you" (or words
+to that effect), as Lord Peter Wimsey truly said of this phrase,
+in the [[Detective|detective]] tale of Miss Dorothy Sayers; who, like Lord Peter,
+knows a good deal about other things besides poisons;
+and understands her [[Hero|hero]]'s historical traditions very [[Well|well]].
+But did you ever hear the curate fresh from the cricket-field,
+or the vicar smiling under the [[Union]] Jacks of the
+Conservative Rally, dwell upon that penultimate peril;
+or the danger of falling from God amid the pains of [[Death|death]]?
+Very morbid.  Just like those Dago devotional books.
+So very Roman.
+
+I do not think the old Anglo-Catholics who were my friends,
+or the many who are still my friends, would deny that there
+has been a modern vulgarisation of religion, largely through
+the spread of this official optimism.  But though they themselves
+are often quite free from the vulgar form of it, they could
+hardly deny that it is largely official and very widely spread.
+Yet it came as a great shock to me to discover how official
+and widespread it was.  I had exaggerated the importance
+of an intelligent minority, because it was important to me.
+But the public and the world without were given up to Arian
+and Pelagian demagogues like Dean Inge and Dr. Barnes;
+and a sort of negative Protestantism could still sweep the field.
+It swept the whole field in the matter of the [[Prayer]]-Book.
+The proposal of an amended [[Prayer]]-Book, or rather two
+alternative [[Prayer]]-Books, was not decided for the Church
+by the Churchy or by the communicants; or by the congregation.
+It was settled by a mob of politicians, atheists, agnostics,
+dissenters, Parsees; avowed enemies of that Church or of
+any Church, who happened to have M.P. after their names.
+If the whole thing had any historic motto, or deserved
+anything higher than a headline, what was written across all
+that Anglican story was not Ecclesia Anglicana, or Via Media,
+or anything of the sort; it was Cujus Regio Ejus Religio;
+or rendering unto Caesar the things that are God's.
+
+I add one incident to contrast Style, among men who had
+been Catholics for fourteen-hundred years, with that among
+men who have been Protestants for four-hundred years.
+A Protestant organisation presented all the atheists, etc., who had
+voted Protestant, with a big black [[Bible]] or [[Prayer]]-Book, or both,
+decorated outside with a picture of the Houses of Parliament.
+In hoc signo vinces.  It would be very idolatrous to put
+a [[Cross|cross]] or crucifix outside a book; but a picture of Parliament
+where the Party Funds are kept, and the peerages sold--.
+That is the temple where dwell the gods of Israel... We know
+the world progresses, and [[Education|education]] is certainly extended,
+and there are fewer illiterates; and I suppose it is all right.
+But those four strong centuries of Protestant England begin
+with a Book of Common-[[Prayer]], in which, even amid the treachery
+and panic of [[Cranmer]], and in the very moment of men rending
+themselves from Rome and Christendom, they could lift in
+such [[Sublime|sublime]] language so authentic a cry of Christian men:
+"By Thy precious [[Death|death]] and burial; by Thy glorious [[Resurrection|resurrection]]
+and ascension; and by the coming of the Holy [[Ghost]]."
+Those centuries begin with that speech of men still by instinct
+and habit of mind Catholic; and the Protestant civilization
+evolves and the [[Education|education]] spreads, and widens in wealth
+and power and towns and colleges; until at last the ripe
+and final fruit of its culture is produced, in the form of a
+fat black book of a cushiony sort, with a real photo-view,
+a view of one of the Sights, nicely tucked in to its neat black
+padded binding or frame... A Present from Ramsgate... anyhow,
+four-hundred years march from Rome.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LE MIE SEI CONVERSIONI
+
+IV. IL PROBLEMA DEL [[Prayer|PRAYER]]-BOOK
+
+Uno degli eventi che mi avrebbero fatto cattolico, se non fossi già stato cattolico, fu la curiosa vicenda del nuovo [[Prayer]]-Book. Mi rivelò una realtà che fino ad allora non avevo colto. Esisteva davvero una Chiesa d'Inghilterra; o meglio, esisteva davvero un'Inghilterra che in larga misura immaginava di possedere e controllare una Chiesa. Ma questa Chiesa non era la Chiesa alla quale credevo di essere appartenuto; l'acuto, colto e sincero gruppo di uomini che rivendicavano di essere cattolici. Era uno sfondo di uomini assai più vasto e più vago; che non credevano in nulla di particolare, ma che rivendicavano di essere protestanti. Ma il punto vitale era che, sia che rivendicassero di essere protestanti, sia che si vantassero rumorosamente di essere atei, sembravano avere tutti questa idea fissa: che possedevano la Chiesa d'Inghilterra; e potevano trasformarla in un tempio mormone, se ne avevano voglia. Non avrei potuto, in ogni caso, continuare a essere posseduto a quel modo.
+
+Ma per comprendere tutto ciò che era in gioco, è necessario dire una parola sullo stesso [[Prayer]]-Book anglicano. Il Book of Common [[Prayer]] è il capolavoro del protestantesimo. Lo è più ancora dell'opera di [[Milton|Milton]]. È l'unico possesso e l'unica attrattiva positiva; l'unica calamita e talismano per gente perfino esterna alla Chiesa anglicana, come lo sono le grandi cattedrali gotiche per gente esterna alla [[Catholic Church|Chiesa Cattolica]]. Posso parlare, credo, per molti altri convertiti, quando dico che l'unica cosa capace di produrre una qualche sorta di [[Nostalgia|nostalgia]] o di rimpianto romantico, una qualsiasi [[Shadow|ombra]] di struggimento in chi è in [[Truth|verità]] tornato a [[Home|casa]], è il ritmo della prosa di [[Cranmer]]. Tutte le altre supposte superiorità di qualunque forma di protestantesimo sono del tutto fittizie. Dite a un [[convert|convertito]] cattolico che ha perduto la sua libertà, e riderà. Una distinta signora di lettere ha scritto di recente che io ero entrato nella più ristretta di tutte le comunioni cristiane, e me ne sono divertito mostruosamente. Un cattolico ha cinquanta volte più la sensazione di essere libero di un uomo preso nella rete dei nervosi compromessi dell'anglicanesimo; proprio come un uomo che considera tutta l'Inghilterra si sente più libero di un uomo che obbedisce ai Whip di un particolare partito. Egli ha a disposizione la portata di duemila anni pieni di un milione e duecentomila controversie, sviscerate da pensatore contro pensatore, scuola contro scuola, corporazione contro corporazione, nazione contro nazione, senza altro limite che il fondamentale fatto logico che quelle cose valeva la pena di discuterle, perché potevano in ultimo essere risolte e definite. Quanto alla Ragione, il nostro monopolio è praticamente ammesso nel mondo moderno. Salvo uno o due squallidi vecchi atei di Fleet Street (per i quali nutro grande simpatia), nulla tranne Roma difende ormai l'affidabilità della Ragione. Assai più forte è il richiamo dell'irragionevolezza; o di quella [[Beauty|bellezza]] che forse è oltre la ragione. La [[litany|Litania]] inglese, la musica e la [[Magic|magia]] del grande stile cinquecentesco — ecco ciò che richiama un uomo all'indietro come il [[Song|canto]] delle sirene; così come Virgilio e i poeti avrebbero potuto richiamare un pagano entrato nella Chiesa primitiva. Solo che, essendo un romanista e perciò un razionalista, egli non torna indietro; naturalmente non dimentica tutto il resto, per il fatto che i suoi avversari quattrocento anni fa possedevano un artificio stilistico che ora hanno interamente perduto. Poiché gli anglicani non sanno più fare il trucco, non più di chiunque altro. Le preghiere moderne, e le loro forse più di ogni altra, paiono perfettamente incapaci di evitare il gergo giornalistico. E la prosa del [[Prayer]]-Book pare seguirle come un'eco derisoria. Lambeth o il Convocation pubblicherà una [[Prayer|preghiera]] che dice qualcosa come: «Guidaci, o Signore, alla soluzione dei nostri problemi sociali»; e il grande organo di un tempo gemerà sullo sfondo. ... «Tutti coloro che sono desolati e oppressi». I primi anglicani chiedevano pace e felicità, [[Truth|verità]] e giustizia; ma nulla può impedire agli ultimi anglicani, e a molti altri, l'orrida abitudine di chiedere un miglioramento nelle relazioni internazionali.
+
+Ma perché il vecchio [[Prayer]]-Book protestante possiede un potere pari a quello della grande poesia sullo spirito e sul cuore? La ragione è assai più profonda del mero evitare il gergo giornalistico. La si potrebbe esprimere in una frase; ha stile; ha tradizione; ha religione; fu scritto da cattolici apostati. È forte, non in quanto è il primo libro protestante, ma in quanto fu l'ultimo libro cattolico. Si dà il caso che ciò si possa provare nel modo più pratico a partire dai dettagli concreti della prosa. I passi più commoventi del vecchio [[Prayer]]-Book anglicano sono esattamente quelli meno simili all'atmosfera degli anglicani. Sono commoventi, anzi entusiasmanti, proprio perché dicono le cose che i protestanti hanno da tempo smesso di dire; e che soltanto i cattolici dicono ancora. Chiunque conosca qualcosa di letteratura sa quando uno stile si solleva ai suoi sforzi più alti; e in questi casi è sempre per dire con forza ciò che noi ancora ci sforziamo di dire, per quanto debolmente; ma che nessun altro si sforza mai di dire affatto. Chiunque richiami a sé i passi più belli in assoluto del Book of Common [[Prayer]], vedrà presto che riguardano in particolare pensieri e temi spirituali che ora sembrano strani e terribili; ma comunque, l'opposto di comuni; «... nell'ora della [[Death|morte]] e nel giorno del Giudizio». Chi parla dell'ora della [[Death|morte]]? Chi parla del Giorno del Giudizio? Solo una nidiata di poveri pretucoli della Missione italiana. Non certo il popolare ed eloquente Decano di Bumblebury, che è tanto Broad e insieme tanto High. Certamente non l'affascinante e alla moda Vicario di St. Ethelbald, che è tanto High e insieme tanto Broad. Ancor meno il chierico che aiuta nella stessa parrocchia, che è francamente Low. È lo stesso in ogni pagina in cui quello spirito ispira quello stile. «Non permettere che, per alcun dolore della [[Death|morte]], noi cadiamo lontano da Te». ... «Ah, ecco ciò che ti afferra» (o parole a quell'effetto), come disse giustamente Lord Peter Wimsey di questa frase, nel racconto [[Detective|poliziesco]] della signorina Dorothy Sayers; la quale, come Lord Peter, sa parecchie cose oltre che di veleni; e comprende assai [[Well|bene]] le tradizioni storiche del suo [[Hero|eroe]]. Ma avete mai udito il curato fresco di campo da cricket, o il vicario sorridente sotto le [[Union|Union Jack]] del Comizio conservatore, indugiare su quel penultimo pericolo; ovvero sul rischio di cadere lontano da Dio tra i dolori della [[Death|morte]]? Molto morboso. Proprio come quei libri devozionali da Dago. Così tanto Romano.
+
+Non credo che i vecchi anglo-cattolici che erano miei amici, o i molti che sono ancora miei amici, negherebbero che vi è stata una moderna volgarizzazione della religione, in gran parte attraverso la diffusione di questo ottimismo ufficiale. Ma per quanto essi stessi ne siano spesso del tutto immuni nella sua forma volgare, difficilmente potrebbero negare che esso è in larga misura ufficiale e assai largamente diffuso. Eppure fu per me un grande shock scoprire quanto fosse ufficiale e diffuso. Io avevo esagerato l'importanza di una minoranza intelligente, perché essa era importante per me. Ma il pubblico e il mondo là fuori erano in balìa di demagoghi ariani e pelagiani come il Decano Inge e il Dr. Barnes; e una sorta di protestantesimo negativo poteva ancora spazzare il campo. Spazzò l'intero campo nella questione del [[Prayer]]-Book. La proposta di un [[Prayer]]-Book emendato, o piuttosto di due [[Prayer]]-Book alternativi, non fu decisa per la Chiesa dalla Chiesa, né dai comunicanti; né dalla congregazione. Fu stabilita da una folla di politici, atei, agnostici, dissidenti, Parsi; nemici dichiarati di quella Chiesa o di qualunque Chiesa, che si trovavano ad avere le lettere M.P. dopo il proprio nome. Se tutta la faccenda aveva un qualche motto storico, o meritava qualcosa di più alto di un titolo di giornale, ciò che era scritto attraverso tutta quella vicenda anglicana non era Ecclesia Anglicana, né Via Media, né alcunché del genere; era Cujus Regio Ejus Religio; ovvero rendere a Cesare le cose che sono di Dio.
+
+Aggiungo un episodio per contrapporre lo Stile, tra uomini che erano stati cattolici per millequattrocento anni, a quello tra uomini che sono stati protestanti per quattrocento anni. Un'organizzazione protestante regalò a tutti gli atei, ecc., che avevano votato protestante, una grande [[Bible|Bibbia]] nera o un [[Prayer]]-Book, o entrambi, decorati all'esterno con un'immagine delle Houses of Parliament. In hoc signo vinces. Sarebbe cosa molto idolatra mettere una [[Cross|croce]] o un crocifisso all'esterno di un libro; ma un'immagine del Parlamento, dove si custodiscono i Fondi di Partito, e si vendono i titoli nobiliari —. Ecco il tempio dove dimorano gli dèi d'Israele... Sappiamo che il mondo progredisce, e l'[[Education|istruzione]] è certamente più estesa, e vi sono meno analfabeti; e suppongo vada tutto bene. Ma quei quattro forti secoli d'Inghilterra protestante cominciano con un Book of Common-[[Prayer]], nel quale, perfino tra il tradimento e il panico di [[Cranmer]], e nel momento stesso in cui gli uomini si strappavano da Roma e dalla Cristianità, essi seppero levare in un linguaggio così [[Sublime|sublime]] un grido tanto autentico di uomini cristiani: «Per la Tua preziosa [[Death|morte]] e sepoltura; per la Tua gloriosa [[Resurrection|resurrezione]] e ascensione; e per la venuta dello [[Ghost|Spirito]] Santo». Quei secoli cominciano con quel discorso di uomini ancora per istinto e per abito mentale cattolici; e la civiltà protestante si evolve e l'[[Education|istruzione]] si diffonde, e si allarga in ricchezza e potere e città e collegi; finché infine il frutto maturo e ultimo della sua cultura viene prodotto, nella forma di un grasso libro nero di tipo imbottito, con una vera veduta fotografica, la veduta di una delle Attrazioni, ben infilata nella sua bella rilegatura o cornice nera imbottita... Un Ricordo da Ramsgate... comunque, quattrocento anni di marcia lontano da Roma.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_08_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+
+
+MY SIX CONVERSIONS
+V. THE COLLAPSE OF MATERIALISM
+
+SOME little [[Time|time]] ago Dr. David Forsyth delivered to the Section
+of Psychiatry (Royal Society of Medicine) an address which
+was certainly a psychological curiosity; of considerable
+interest to psychologists, pathologists, alienists and all
+other students of the mental breakdown in the modern world.
+It was a perfect and compact illustration of the very common
+combination of a superiority complex with arrested development,
+and inhibitions on almost all forms of intelligent curiosity.
+But I mention it here, not because of its narrowness, but of its
+direct negation of all that is really new in scientific discovery.
+It is no news to us that a materialist can be bigoted;
+but we do not always come upon so startling an example
+of his being antiquated.
+
+It is not worth while to take any particular notice of all the diseased
+stuff about sadism and masochism being the sources of religion.
+We may note in passing, with a rather dreary amusement,
+that this sort of writer can never sustain a connected train
+of thought; and that he gets even these dismal technical
+terms hopelessly entangled; for he declares that [[Islam]] stands
+for sadism and Christendom for masochism, having just argued
+that the Christian persecution of heretics was typically sadistic.
+But all this judgment of great human events, good or bad,
+in terms of some obscure streak of lunacy, is itself an amusement
+for lunatics.  It is exactly as if a man were to argue:
+"There is a special sort of madman who thinks he is made
+of glass; I will call this disease Vitreosity; and I
+will then show that anybody anywhere, who for any reason
+had anything to do with glass was a victim of vitreosity.
+The [[Desert|desert]] merchants who were said to have invented glass,
+the medieval craftsmen who so successfully coloured glass,
+the early astronomers who first fitted telescopes with lenses
+of glass, all showed Vitreosity in various stages of that disease;
+it is akin to subconscious libido because Peeping Tom
+looked through a [[Window|window]], which may have been made of glass;
+it is the root impulse of alcoholism, because people drink
+out of glasses; and Prince Albert and [[Queen]] Victoria were
+obviously stricken with raving and uncontrolled Vitreosity;
+because they built the Crystal Palace."  The slight defect
+in this theory (which is quite as scientific as Dr. Forsyth's)
+is that in order to theorise, it is sometimes useful to think.
+It is obvious that all these people had a thousand other
+reasons for doing all they did, besides being mad on glass;
+and it is equally obvious that the great religions, true or false,
+had a thousand reasons for doing all they did, without being
+mad on masochism or sadism.
+
+Only, as I say, we may [[Well|well]] emerge from this slime and consider the real
+case of Dr. Forsyth, and his strange ignorance of the very elements
+of modern thought, and even rather specially of modern science.
+Now on the larger matter, his thesis was essentially this; that science
+and religion, so far from being reconciled or even reconcilable,
+were divided by the vital contradiction that science belongs
+to what he called "reality-thinking," or we call objective [[Truth|truth]];
+while religion belonged to what he called "pleasure-thinking,"
+or what most people call [[Imagination|imagination]].  I need not mention the hundred
+obvious objections to this crude division; as, for instance,
+that religion has not confined itself to imagining pleasurable things,
+but has often been blamed by people like Dr. Forsyth for imagining
+unpleasant ones; or that it is arguing in a circle to prove
+at the end that religion is inconsistent with science merely
+by assuming at the beginning that it is inconsistent with [[Truth|truth]].
+I am only concerned here to insist, not merely that the view is
+the reverse of the [[Truth|truth]], but that the view is actually the very
+reverse of the modern view.
+
+If there are two staring and outstanding facts about science
+and religion at this particular moment, they are these.
+First, that science is claiming much less than it did to show
+us a solid and objective reality.  And second, that religion
+is claiming much more than it did (at least for centuries past)
+that its miracles and marvels of mystical experience can
+be proved to exist as a solid and objective reality.
+On the one side, the Atom has entirely lost the objective
+solidity it had for the nineteenth-century materialists.
+On the other side, the Ascension is accepted as a case of
+Levitation by many who would not accept it as an Ascension.
+On the one hand, the science of physics has almost become
+a science of metaphysics.  For it is not merely, as is often said,
+that the Atom has become an abstract mathematical formula; it is
+almost as true to say that it has become a mere algebraic symbol.
+For the new physicists tell us frankly that what they describe
+is not the objective reality of the thing they observe;
+that they are not examining an object as the nineteenth
+century materialists thought they were examining an object.
+Some of them tell us that they are only observing certain
+disturbances or distortions, actually created by their own attempt
+to observe.  Eddington is more agnostic about the material
+world than Huxley ever was about the spiritual world.
+A very unfortunate moment at which to say that science deals
+directly with reality and objective [[Truth|truth]].
+
+On the other hand, on the other plane, the plane of historical
+and practical argument, it is the very moment at which
+religion really is appealing to reality and objective [[Truth|truth]].
+The Church throws down the unanswered challenge of Lourdes;
+the Spiritualists positively claim to prove their new religion
+by experiments, like a thesis in chemistry or electricity;
+and a vast number of independent intellectuals, who are neither
+Catholics nor Spiritualists, have begun to show an entirely
+new interest in the logical, or even the legal case for some
+of the great historic miracles.  For instance, there have been
+two or three books following on the line of the brilliant
+but strictly scientific book called Who Moved The Stone;
+and the tendency of the most detached writers is to admit more
+and more that the evidence for such events has been underrated.
+The youngest school of Catholic apologists, such as Father Knox
+and Mr. Christopher Hollis and Mr. Arnold Lunn, attack almost
+entirely with the weapons of proof and practical evidence;
+and it is no longer pretended that they always have the worst of it.
+A very unfortunate moment at which to say that religion deals
+only with pleasant fancies and imaginations.
+
+Dr. Forsyth's antiquated style of thought interests me here, however,
+only as drawing attention to the familiar modern facts of which
+he seems never to have heard.  And most relevant here is the fact
+of that extraordinary scientific change in the attitude to facts.
+It has its place in this series, because it is one of the great
+changes which had not developed in any full and public fashion,
+even by the [[Time|time]] that I finally sought admission to the Church;
+and, at the much earlier [[Time|time]] when I had already begun to think
+about it, all the popular science that a layman heard of was dominated
+by the now dead materialism of Haeckel.  It is, therefore, true to say
+that this huge revolution in the [[philosophy]] of physical science
+was one of the world events which came after my [[Conversion|conversion]];
+but would have hugely hastened it, if it had come before my [[Conversion|conversion]].
+Only the exact [[Nature|nature]] of the effect, of this scientific revolution
+upon personal religion, is often misstated and widely misunderstood.
+
+It is not, as some seem to fancy, that we think there is
+anything particularly Christian about electrons, any more
+than there is anything essentially atheistic about atoms.
+It is not that we propose to base our [[philosophy]] on their physics;
+any more than to base our ancient theology on their most
+recent biology.  We are not "going to the country" with a set
+of slogans or party-cries, like Electrons for the Elect,
+or For Priest and Proton.  The catastrophic importance for Catholics,
+of this collapse of materialism, is simply the fact that
+the most confident cosmic statements of science can collapse.
+If fifty years hence the electron is as entirely exploded
+as the atom, it will not affect us; for we have never founded
+our [[philosophy]] on the electron any more than on the atom.
+But the materialists did found their [[philosophy]] on the atom.
+And it is quite likely that some spiritual fad or other
+is at this moment being founded on the electron.
+To a man of my generation, the importance of the change does
+not consist in its destroying the dogma (which was after all
+a detail, though a very dogmatic dogma), "Matter consists
+of indivisible atoms."  But it does consist in its destroying
+the accepted, universal and proclaimed and popularised dogma:
+"You must accept the conclusions of science."
+Scores and hundreds of times I have heard, through my youth
+and early manhood, the repetition of that ultimatum:
+"You must accept the conclusions of science."  And it is that notion
+or experience that has now been concluded; or rather excluded.
+Whatever else is questionable, there is henceforth no
+question of anybody "accepting" the conclusions of science.
+The new scientists themselves do not ask us to accept
+the conclusions of science.  The new scientists themselves
+do not accept the conclusions of the new science.
+To do them justice, they deny vigorously that science
+has concluded; or that it has, in that sense, any conclusion.
+The finest intellects among them repeat, again and again,
+that science is inconclusive.
+
+Which is all very [[Well|well]], and all very wise, and all very true
+to the gradual adjustment of truths on their own plane.
+But meanwhile-there is such a thing as human life.  The Victorian
+agnostics waited hopefully for science to give them a working
+certainty about life.  The new physicist philosophers are in no
+way different, except that they wait hopelessly instead of hopefully.
+For they know very [[Well|well]] the real meaning of relativity; that their own
+views may pass from being relatively right to being relatively wrong.
+And meanwhile, as I say, there is such a thing as wanting a working
+rule as to whether we should pay our debts or murder our enemies.
+We would not wait for a nineteenth-century enlightenment that might come.
+We certainly will not wait for a twentieth-century enlightenment
+that cannot come.  If we want a guide to life, it seems that we
+must look elsewhere.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LE MIE SEI CONVERSIONI
+V. IL CROLLO DEL MATERIALISMO
+
+Qualche [[Time|tempo]] fa il Dr. David Forsyth tenne alla Sezione di Psichiatria (Royal Society of Medicine) un discorso che era certamente una curiosità psicologica; di notevole interesse per psicologi, patologi, alienisti e ogni altro studioso del crollo mentale nel mondo moderno. Era una perfetta e compatta illustrazione della assai comune combinazione di un complesso di superiorità con uno sviluppo arrestato, e con inibizioni su quasi tutte le forme di intelligente curiosità. Ma lo menziono qui, non per la sua ristrettezza, bensì per la sua diretta negazione di tutto ciò che è realmente nuovo nella scoperta scientifica. Non è una novità per noi che un materialista possa essere bigotto; ma non sempre ci imbattiamo in un esempio così sorprendente del suo essere antiquato.
+
+Non vale la pena di prestare particolare attenzione a tutta la roba malata sul sadismo e il masochismo come fonti della religione. Possiamo notare di sfuggita, con un divertimento piuttosto tetro, che questo genere di scrittore non riesce mai a sostenere una connessa catena di pensiero; e che imbroglia irrimediabilmente perfino questi lugubri termini tecnici; poiché dichiara che l'[[Islam]] sta per il sadismo e la Cristianità per il masochismo, avendo appena sostenuto che la persecuzione cristiana degli eretici era tipicamente sadica. Ma tutto questo giudicare i grandi eventi umani, buoni o cattivi, in termini di qualche oscura vena di follia, è esso stesso un divertimento per pazzi. È esattamente come se un uomo argomentasse: «Esiste una particolare specie di pazzo che crede di essere fatto di vetro; chiamerò questa malattia Vitreosità; e mostrerò poi che chiunque, in qualunque luogo, per qualsiasi ragione abbia avuto a che fare con il vetro era vittima della vitreosità. I mercanti del [[Desert|deserto]] che si dice abbiano inventato il vetro, gli artigiani medievali che con tanto successo colorarono il vetro, i primi astronomi che per primi dotarono i telescopi di lenti di vetro, tutti mostrarono la Vitreosità nei vari stadi di quella malattia; essa è affine alla libido subconscia perché Peeping Tom guardò attraverso una [[Window|finestra]], che può essere stata fatta di vetro; è l'impulso radicale dell'alcolismo, perché la gente beve da bicchieri di vetro; e il Principe Alberto e la [[Queen|Regina]] Vittoria erano evidentemente colpiti da una delirante e incontrollata Vitreosità; perché costruirono il Crystal Palace». Il lieve difetto di questa teoria (che è del tutto scientifica quanto quella del Dr. Forsyth) è che, per teorizzare, talvolta è utile pensare. È ovvio che tutte queste persone avevano un migliaio di altre ragioni per fare tutto ciò che fecero, oltre a essere pazze per il vetro; ed è del pari ovvio che le grandi religioni, vere o false, avevano un migliaio di ragioni per fare tutto ciò che fecero, senza essere pazze per il masochismo o il sadismo.
+
+Solo che, come dico, possiamo [[Well|bene]] emergere da questo fango e considerare il caso reale del Dr. Forsyth, e la sua strana ignoranza degli stessi elementi del pensiero moderno, e perfino, in modo piuttosto particolare, della scienza moderna. Ora, sulla questione più ampia, la sua tesi era essenzialmente questa; che la scienza e la religione, lungi dall'essere riconciliate o anche solo riconciliabili, erano divise dalla contraddizione vitale per cui la scienza appartiene a ciò che egli chiamava «pensiero-di-realtà», o come diciamo noi la [[Truth|verità]] oggettiva; mentre la religione apparteneva a ciò che egli chiamava «pensiero-di-piacere», ovvero ciò che la maggior parte della gente chiama [[Imagination|immaginazione]]. Non ho bisogno di menzionare le cento ovvie obiezioni a questa rozza divisione; come, per esempio, che la religione non si è limitata a immaginare cose piacevoli, ma è spesso stata biasimata da gente come il Dr. Forsyth per averne immaginate di spiacevoli; o che è un ragionare in cerchio provare alla fine che la religione è incompatibile con la scienza semplicemente assumendo al principio che essa è incompatibile con la [[Truth|verità]]. Qui mi preme soltanto insistere non solo sul fatto che tale veduta è l'opposto della [[Truth|verità]], ma che essa è in realtà proprio l'opposto della veduta moderna.
+
+Se vi sono due fatti evidenti e cospicui riguardo alla scienza e alla religione in questo particolare momento, sono questi. Primo, che la scienza pretende molto meno di quanto pretendesse di mostrarci una realtà solida e oggettiva. E secondo, che la religione pretende molto più di quanto pretendesse (almeno da secoli a questa parte) che i suoi miracoli e prodigi di esperienza mistica possano essere provati come esistenti in quanto realtà solida e oggettiva. Da un lato, l'Atomo ha interamente perduto la solidità oggettiva che aveva per i materialisti del diciannovesimo secolo. Dall'altro lato, l'Ascensione è accettata come un caso di Levitazione da molti che non la accetterebbero come Ascensione. Da un lato, la scienza della fisica è quasi divenuta una scienza della metafisica. Poiché non è soltanto, come spesso si dice, che l'Atomo è divenuto un'astratta formula matematica; è quasi altrettanto vero dire che è divenuto un mero simbolo algebrico. Poiché i nuovi fisici ci dicono francamente che ciò che descrivono non è la realtà oggettiva della cosa che osservano; che non stanno esaminando un oggetto come i materialisti del diciannovesimo secolo credevano di esaminare un oggetto. Alcuni di essi ci dicono che stanno soltanto osservando certe perturbazioni o distorsioni, in realtà create dal loro stesso tentativo di osservare. Eddington è più agnostico riguardo al mondo materiale di quanto Huxley sia mai stato riguardo al mondo spirituale. Un momento assai infelice in cui dire che la scienza tratta direttamente con la realtà e la [[Truth|verità]] oggettiva.
+
+Dall'altro lato, sull'altro piano, il piano dell'argomentazione storica e pratica, è proprio il momento in cui la religione appella davvero alla realtà e alla [[Truth|verità]] oggettiva. La Chiesa getta la sfida senza risposta di Lourdes; gli Spiritisti pretendono positivamente di provare la loro nuova religione con esperimenti, come una tesi di chimica o di elettricità; e un vasto numero di intellettuali indipendenti, che non sono né cattolici né spiritisti, hanno cominciato a mostrare un interesse del tutto nuovo per il caso logico, o perfino legale, di alcuni dei grandi miracoli storici. Per esempio, vi sono stati due o tre libri sulla scia di quel brillante ma rigorosamente scientifico libro intitolato Who Moved The Stone; e la tendenza degli scrittori più distaccati è di ammettere sempre più che le prove di tali eventi sono state sottovalutate. La più giovane scuola di apologisti cattolici, come Padre Knox e il signor Christopher Hollis e il signor Arnold Lunn, attaccano quasi interamente con le armi della prova e dell'evidenza pratica; e non si pretende più che abbiano sempre la peggio. Un momento assai infelice in cui dire che la religione tratta soltanto di piacevoli fantasie e immaginazioni.
+
+Lo stile di pensiero antiquato del Dr. Forsyth mi interessa qui, tuttavia, soltanto in quanto richiama l'attenzione sui familiari fatti moderni di cui egli sembra non aver mai udito. E il più rilevante qui è il fatto di quello straordinario mutamento scientifico nell'atteggiamento verso i fatti. Ha il suo posto in questa serie, perché è uno dei grandi mutamenti che non si erano sviluppati in alcuna forma piena e pubblica, nemmeno al [[Time|tempo]] in cui infine chiesi l'ammissione alla Chiesa; e, al [[Time|tempo]] assai più remoto in cui avevo già cominciato a rifletterci, tutta la scienza divulgativa di cui un profano sentiva parlare era dominata dall'ormai defunto materialismo di Haeckel. È dunque vero dire che questa enorme rivoluzione nella [[philosophy|filosofia]] della scienza fisica fu uno degli eventi mondiali che vennero dopo la mia [[Conversion|conversione]]; ma che l'avrebbe enormemente affrettata, se fosse venuta prima della mia [[Conversion|conversione]]. Solo che l'esatta [[Nature|natura]] dell'effetto di questa rivoluzione scientifica sulla religione personale è spesso esposta in modo errato e largamente fraintesa.
+
+Non è, come alcuni paiono immaginare, che noi pensiamo vi sia qualcosa di particolarmente cristiano negli elettroni, non più di quanto vi sia qualcosa di essenzialmente ateo negli atomi. Non è che ci proponiamo di fondare la nostra [[philosophy|filosofia]] sulla loro fisica; non più che di fondare la nostra antica teologia sulla loro più recente biologia. Non ci presentiamo «alle urne» con un corredo di slogan o di grida di partito, come Elettroni per gli Eletti, o Per il Prete e il Protone. La catastrofica importanza, per i cattolici, di questo crollo del materialismo, è semplicemente il fatto che le più sicure affermazioni cosmiche della scienza possono crollare. Se fra cinquant'anni l'elettrone sarà interamente demolito come l'atomo, ciò non ci toccherà; poiché non abbiamo mai fondato la nostra [[philosophy|filosofia]] sull'elettrone più che sull'atomo. Ma i materialisti sì che fondarono la loro [[philosophy|filosofia]] sull'atomo. Ed è del tutto probabile che qualche moda spirituale o l'altra stia in questo momento venendo fondata sull'elettrone. Per un uomo della mia generazione, l'importanza del mutamento non consiste nel suo distruggere il dogma (che era dopo tutto un dettaglio, per quanto un dogma assai dogmatico), «La materia consiste di atomi indivisibili». Ma consiste bensì nel suo distruggere il dogma accettato, universale, proclamato e divulgato: «Dovete accettare le conclusioni della scienza». Decine e centinaia di volte ho udito, per tutta la mia giovinezza e la mia prima età adulta, la ripetizione di quell'ultimatum: «Dovete accettare le conclusioni della scienza». Ed è quella nozione o esperienza che ora è stata conclusa; o piuttosto esclusa. Qualunque altra cosa sia discutibile, d'ora innanzi non si dà più questione di qualcuno che «accetti» le conclusioni della scienza. Gli stessi nuovi scienziati non ci chiedono di accettare le conclusioni della scienza. Gli stessi nuovi scienziati non accettano le conclusioni della nuova scienza. Per rendere loro giustizia, negano vigorosamente che la scienza abbia concluso; o che essa abbia, in quel senso, alcuna conclusione. I più fini intelletti fra loro ripetono, ancora e ancora, che la scienza è inconcludente.
+
+Il che è tutto assai [[Well|bene]], e tutto assai saggio, e tutto assai vero rispetto al graduale aggiustamento delle verità sul loro proprio piano. Ma nel frattempo — esiste una cosa come la vita umana. Gli agnostici vittoriani attendevano con speranza che la scienza desse loro una certezza operativa riguardo alla vita. I nuovi fisici filosofi non sono in alcun modo diversi, salvo che attendono senza speranza invece che con speranza. Poiché sanno assai [[Well|bene]] il vero significato della relatività; che le loro stesse vedute possono passare dall'essere relativamente giuste all'essere relativamente sbagliate. E nel frattempo, come dico, esiste una cosa come il volere una regola operativa quanto al se dovremmo pagare i nostri debiti o assassinare i nostri nemici. Non attenderemmo un illuminismo del diciannovesimo secolo che potrebbe venire. Certamente non attenderemo un illuminismo del ventesimo secolo che non può venire. Se vogliamo una guida per la vita, pare che dobbiamo cercare altrove.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_09_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+
+
+MY SIX CONVERSIONS
+VI.  THE CASE OF SPAIN
+
+The point of the recent political story in Spain
+has never been put clearly in the English papers;
+perhaps not quite clearly even in the Catholic papers.
+It is a very striking example of how the world has really moved,
+since my own most important change of conviction occurred.
+There is a [[Paradox|paradox]] in every story of [[Conversion|conversion]]; which is
+perhaps the reason why the records of it are never ideally
+satisfactory It is in its very [[Nature|nature]] the extinction of egoism:
+and yet every account of it must sound egoistic.
+It means, at least in the case of the Religion in question,
+a recognition of reality which has nothing to do with relativity.
+It is as if a man said, "This inn really exists, even if I
+have never found it"; or, "My [[Home|home]] is actually in this village;
+and would be there, if I had never reached it."
+It is the recognition that the [[Truth|truth]] is true, apart from
+the [[Truth|truth]]-seeker; and yet the description must be the autobiography
+of a [[Truth|truth]]-seeker; generally a rather depressing sort of person.
+It will therefore sound egotistical, if I preface these remarks
+by saying that I was for a long [[Time|time]] a Liberal in the sense
+of belonging to the Liberal Party.  I am still a Liberal;
+it is only the Liberal Party that has disappeared.
+I understood its ideal to be that of equal citizenship and
+personal [[Freedom|freedom]]; and they are my own political ideals to this day.
+The point here, however, is that I worked for a long [[Time|time]]
+with the practical organization of Liberalism; I wrote
+for a great part of my life for the old Daily News;
+and I knew of course that it identified political liberty,
+rightly or wrongly, with representative [[government]].
+Then came the breach, on which I need not insist;
+except by saying that I became quite convinced of two facts.
+First, that representative [[government]] had ceased to
+be representative.  Second, that Parliament was in fact gravely
+menaced by political corruption.  Politicians did not represent
+the populace, even the most noisy and vulgar of the populace.
+Politicians did not deserve the dignified name of demagogues.
+They deserved no name except perhaps the name of bagmen;
+they were travelling for private firms.  If they represented anything,
+it was vested interests, vulgar but not even popular.
+
+For this reason, when the Fascists' revolt appeared
+in [[Italy]], I could not be entirely hostile to it; for I knew
+the hypocritical plutocracy against which it rebelled.
+But neither could I be entirely friendly to it; for I believed
+in the civic equality in which the politicians pretended to believe.
+For the present purpose, the problem can be put very briefly.
+The whole of the real case for Fascism can be put in two
+words never printed in our newspapers:  secret societies.
+The whole case against Fascism could be put in one word now
+never used and almost forgotten:  legitimacy.  For the first,
+the Fascist was justified in smashing the politicians;
+for their contract with the people was secretly contradicted
+by their secret contracts with gangs and conspiracies.
+For the second, Fascism could never be quite satisfactory;
+for it did not rest on authority but only on power; which is
+the weakest thing in the world.  The Fascists said in effect,
+"We may not be the majority, but we are the most vigorous
+and intelligent minority."  Which is simply challenging any
+other intelligent minority to show that it is more vigorous.
+It may [[Well|well]] end in the very anarchy it attempted to avoid.
+Compared with this, despotism and [[Democracy|democracy]] are legitimate.
+I mean there is no [[Doubt|doubt]] about who is the [[King]]'s eldest son
+or about who has most votes in the most mechanical election.
+But a mere competition of intelligent minorities is a rather
+dreadful prospect.  That, it seems to me, is a fair
+statement of the case for and against the Fascist movement.
+And now I should like to apply it to the curious case of Spain;
+and note how Liberalism met the issue.
+
+For weeks and months on end my old organ the Daily News
+(now the News-Chronicle) had warned the public of all
+these doubtful and dangerous implications of Fascism.
+It had reviled Fascism for its vices; and rather more virulently
+for its virtues.  But anyhow it had furiously denounced the notion
+of a minority imposing its will by mere violence, by weapons
+or military training, in contempt of the constitutional [[Democracy|democracy]]
+in which the people expressed its will through Parliament.
+I think there is a great deal to be said for that view;
+especially in England, where Parliament is really normal
+and national as it never was in [[Italy]] or [[Germany]].
+I could write much for and much against the Liberal theory
+as enunciated in the News-Chronicle, And then, suddenly,
+the whole case was thrown over, and turned upside down,
+in face of the simple situation in Spain.
+
+First it must be remembered that the Church is always in advance of
+the world.  That is why it is said to be behind the times.  It discussed
+everything so long ago that people have forgotten the discussion.
+St. Thomas was an internationalist before all our internationalists;
+St. Joan was a nationalist almost before there were nations;
+Blessed Robert Bellarmine said all there is to be said for [[Democracy|democracy]]
+before any ordinary worldling dared to be a democrat; and (what is
+to the purpose here) the Christian social [[Reform|reform]] was in full activity
+before any of these quarrels of Fascists and Bolshevists appeared.
+The Popular Party was working out the ideas of Leo XIII before a single
+Blackshirt had been seen in [[Italy]].  The same popular ideals had been
+moving in Spain; with the result that they had really become popular.
+There were other complications, of course; the [[Court]] had never been
+quite popular; the Dictatorship had not, I think, been imaginative
+about the curious problem of Catalonia; but all this did not effect
+the profound and popular Catholic change.  The Pope particularly
+insisted that he had no objection to the Republic as such;
+there was no opposition to anything but to certain inhuman ideals,
+by which men would lose humanity in losing personal liberty and property.
+[[Well]], in the perfectly fair and open intellectual interchange,
+in which all Liberals are supposed to believe, the Catholic ideals won.
+At an entirely peaceful and legal election, exactly like any
+English election, a vast majority voted in various degrees for
+the traditional truths, which had been normal to the Nation for much
+more than a thousand years.  Spain spoke; if indeed elections do speak;
+and declared constitutionally against Communism, against Atheism,
+against the negation that starved normality in our [[Time|time]].
+Nobody said that this majority had been achieved by military violence.
+Nobody pretended that an armed minority had imposed it on the State.
+If the Liberal theory of Parliamentary majorities was just,
+this was just.  If the Parliamentary system was a popular system, this
+was popular.  And then the Socialists suddenly jumped up and did exactly
+everything that the Fascists have been blamed for doing.  They used
+bombs and guns and instruments of violence to prevent the fulfilment
+of the will of the people, or at least of the will of the Parliament.
+Having lost the game by the rules of [[Democracy|democracy]], they tried to win it
+after all entirely by the rules of war; in this case of Civil War.
+They tried to overthrow a pacific Parliament by a militarist coup
+d'état. In short, they behaved exactly like Mussolini; or rather
+they did the very worst that has ever been attributed to Mussolini;
+and without a rag of his theoretical excuse.
+
+And what did Liberalism say?  What did my dear old friends
+of liberty and peaceful citizenship say?  Naturally, I assumed
+on opening the paper that it would rally to the defence of
+Parliament and peaceful representative [[government]] and rebuke
+the attempt to make a minority dominant by mere military violence.
+Judge of my astonishment, when I found Liberals lamenting aloud
+over the unfortunate failure of these Socialistic Fascists
+to reverse the result of a General Election.  I had been
+a Liberal in the old Liberal days; we were not unacquainted
+with Tory and Unionist victories at the polls; we had often gone
+contentedly into Opposition.  It had never been suggested that
+when Balfour or Baldwin constitutionally became Prime Ministers,
+all the Nonconformists should go out with guns and bayonets
+to reverse the popular vote; or the Leader of the Opposition
+begin to throw dynamite at the elected Leader of the [[house|House]].
+The only inference was that Liberalism was only opposed
+to militarists when they were Fascists; and entirely approved
+of Fascists so long as they were Socialists.
+
+Now that is a small and purely political point.
+But to me it was very awakening.  It showed me quite clearly
+the fundamental [[Truth|truth]] of the modern world.  And that is this:
+there are no Fascists; there are no Socialists;
+there are no Liberals; there are no Parliamentarians.
+There is the one supremely inspiring and irritating
+institution in the world; and there are its enemies.
+Its enemies are ready to be for violence or against violence,
+for liberty or against liberty, for representation or
+against representation; and even for peace or against peace.
+It gave me an entirely new certainty, even in the practical
+and political sense, that I had chosen [[Well|well]].
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LE MIE SEI CONVERSIONI
+VI. IL CASO DELLA SPAGNA
+
+Il punto della recente vicenda politica in Spagna non è mai stato esposto con chiarezza nei giornali inglesi; forse nemmeno del tutto chiaramente nei giornali cattolici. È un esempio assai notevole di quanto il mondo si sia realmente mosso, da quando avvenne il mio più importante mutamento di convinzione. Vi è un [[Paradox|paradosso]] in ogni storia di [[Conversion|conversione]]; il che è forse la ragione per cui i suoi resoconti non sono mai idealmente soddisfacenti. Essa è per sua stessa [[Nature|natura]] l'estinzione dell'egoismo: eppure ogni resoconto di essa deve suonare egoistico. Significa, almeno nel caso della Religione in questione, un riconoscimento della realtà che nulla ha a che fare con la relatività. È come se un uomo dicesse: «Questa locanda esiste davvero, anche se non l'ho mai trovata»; oppure: «La mia [[Home|casa]] è realmente in questo villaggio; e vi sarebbe, anche se non l'avessi mai raggiunta». È il riconoscimento che la [[Truth|verità]] è vera, indipendentemente dal cercatore di [[Truth|verità]]; eppure la descrizione dev'essere l'autobiografia di un cercatore di [[Truth|verità]]; in genere una persona piuttosto deprimente. Suonerà dunque egotistico, se premetto a queste osservazioni che per lungo [[Time|tempo]] fui un Liberale nel senso di appartenere al Partito Liberale. Sono ancora un Liberale; è soltanto il Partito Liberale a essere scomparso. Intendevo il suo ideale come quello della pari cittadinanza e della [[Freedom|libertà]] personale; e sono i miei propri ideali politici ancora oggi. Il punto qui, tuttavia, è che lavorai per lungo [[Time|tempo]] con l'organizzazione pratica del Liberalismo; scrissi per gran parte della mia vita per il vecchio Daily News; e sapevo naturalmente che esso identificava la libertà politica, a torto o a ragione, con il [[government|governo]] rappresentativo. Poi venne la rottura, sulla quale non ho bisogno di insistere; salvo che col dire che divenni del tutto convinto di due fatti. Primo, che il [[government|governo]] rappresentativo aveva cessato di essere rappresentativo. Secondo, che il Parlamento era di fatto gravemente minacciato dalla corruzione politica. I politici non rappresentavano il popolo, nemmeno la parte più chiassosa e volgare del popolo. I politici non meritavano il dignitoso nome di demagoghi. Non meritavano altro nome se non forse quello di piazzisti; viaggiavano per ditte private. Se rappresentavano qualcosa, erano gli interessi costituiti, volgari ma nemmeno popolari.
+
+Per questa ragione, quando la rivolta dei Fascisti apparve in [[Italy|Italia]], non potevo esserle interamente ostile; poiché conoscevo l'ipocrita plutocrazia contro cui essa si ribellava. Ma nemmeno potevo esserle interamente amico; poiché credevo nell'uguaglianza civica in cui i politici fingevano di credere. Per il presente scopo, il problema può essere esposto assai brevemente. L'intero vero argomento a favore del Fascismo può essere espresso in due parole mai stampate nei nostri giornali: società segrete. L'intero argomento contro il Fascismo potrebbe essere espresso in una sola parola ora mai usata e quasi dimenticata: legittimità. Per il primo, il Fascista era giustificato nello schiacciare i politici; poiché il loro contratto con il popolo era segretamente contraddetto dai loro contratti segreti con bande e cospirazioni. Per il secondo, il Fascismo non potrebbe mai essere del tutto soddisfacente; poiché non poggiava sull'autorità ma soltanto sul potere; che è la cosa più debole del mondo. I Fascisti dicevano in sostanza: «Potremo non essere la maggioranza, ma siamo la minoranza più vigorosa e intelligente». Il che è semplicemente sfidare qualunque altra minoranza intelligente a mostrare di essere più vigorosa. Ciò può [[Well|ben]] finire nella stessa anarchia che tentava di evitare. In confronto a questo, il dispotismo e la [[Democracy|democrazia]] sono legittimi. Voglio dire che non vi è alcun [[Doubt|dubbio]] su chi sia il figlio primogenito del [[King|Re]], o su chi abbia più voti nella più meccanica delle elezioni. Ma una mera competizione di minoranze intelligenti è una prospettiva piuttosto terribile. Questo, mi pare, è un giusto enunciato del caso a favore e contro il movimento fascista. E ora vorrei applicarlo al curioso caso della Spagna; e notare come il Liberalismo affrontò la questione.
+
+Per settimane e mesi di seguito il mio vecchio organo, il Daily News (ora il News-Chronicle), aveva messo in guardia il pubblico da tutte queste dubbie e pericolose implicazioni del Fascismo. Aveva vituperato il Fascismo per i suoi vizi; e piuttosto più virulentemente per le sue virtù. Ma comunque aveva furiosamente denunciato l'idea di una minoranza che imponesse la propria volontà con la mera violenza, con le armi o l'addestramento militare, in disprezzo della [[Democracy|democrazia]] costituzionale in cui il popolo esprimeva la sua volontà attraverso il Parlamento. Credo che vi sia molto da dire a favore di quella veduta; specialmente in Inghilterra, dove il Parlamento è davvero normale e nazionale come non lo fu mai in [[Italy|Italia]] o in [[Germany|Germania]]. Potrei scrivere molto a favore e molto contro la teoria liberale enunciata nel News-Chronicle. E poi, d'improvviso, l'intero argomento fu gettato via, e capovolto, di fronte alla semplice situazione in Spagna.
+
+Anzitutto bisogna ricordare che la Chiesa è sempre in anticipo sul mondo. Ecco perché si dice che sia indietro rispetto ai tempi. Ha discusso ogni cosa tanto tempo fa che la gente ha dimenticato la discussione. San Tommaso fu un internazionalista prima di tutti i nostri internazionalisti; Santa Giovanna fu una nazionalista quasi prima che vi fossero le nazioni; il Beato Roberto Bellarmino disse tutto ciò che vi è da dire a favore della [[Democracy|democrazia]] prima che qualunque ordinario mondano osasse essere un democratico; e (ciò che qui rileva) la [[Reform|riforma]] sociale cristiana era in piena attività prima che apparisse alcuna di queste liti tra Fascisti e Bolscevichi. Il Partito Popolare stava elaborando le idee di Leone XIII prima che una sola Camicia Nera fosse stata vista in [[Italy|Italia]]. Gli stessi ideali popolari si erano mossi in Spagna; con il risultato che erano davvero divenuti popolari. Vi erano altre complicazioni, naturalmente; la [[Court|Corte]] non era mai stata del tutto popolare; la Dittatura non era stata, credo, fantasiosa riguardo al curioso problema della Catalogna; ma tutto ciò non intaccava il profondo e popolare mutamento cattolico. Il Papa insistette in particolare di non avere obiezione alla Repubblica in quanto tale; non vi era opposizione ad alcunché se non a certi ideali disumani, per i quali gli uomini perderebbero l'umanità nel perdere la libertà e la proprietà personali. [[Well|Ebbene]], nel perfettamente equo e aperto scambio intellettuale, nel quale tutti i Liberali dovrebbero credere, gli ideali cattolici vinsero. In un'elezione del tutto pacifica e legale, esattamente come qualunque elezione inglese, una vasta maggioranza votò in vari gradi per le verità tradizionali, che erano state normali per la Nazione per assai più di mille anni. La Spagna parlò; se davvero le elezioni parlano; e si dichiarò costituzionalmente contro il Comunismo, contro l'Ateismo, contro la negazione che affamava la normalità nel nostro [[Time|tempo]]. Nessuno disse che questa maggioranza fosse stata ottenuta con la violenza militare. Nessuno pretese che una minoranza armata l'avesse imposta allo Stato. Se la teoria liberale delle maggioranze parlamentari era giusta, questa era giusta. Se il sistema parlamentare era un sistema popolare, questo era popolare. E poi i Socialisti d'improvviso balzarono in piedi e fecero esattamente tutto ciò di cui i Fascisti erano stati biasimati. Usarono bombe e fucili e strumenti di violenza per impedire l'adempimento della volontà del popolo, o almeno della volontà del Parlamento. Avendo perduto la partita secondo le regole della [[Democracy|democrazia]], tentarono di vincerla dopotutto interamente secondo le regole della guerra; in questo caso della Guerra Civile. Tentarono di rovesciare un Parlamento pacifico con un colpo di Stato militarista. In breve, si comportarono esattamente come Mussolini; o piuttosto fecero il peggio in assoluto che sia mai stato attribuito a Mussolini; e senza uno straccio della sua scusa teorica.
+
+E che cosa disse il Liberalismo? Che cosa dissero i miei cari vecchi amici della libertà e della pacifica cittadinanza? Naturalmente, aprendo il giornale, supposi che si sarebbe schierato in difesa del Parlamento e del pacifico [[government|governo]] rappresentativo e avrebbe rimproverato il tentativo di rendere dominante una minoranza con la mera violenza militare. Si giudichi il mio stupore, quando trovai i Liberali che si lamentavano ad alta voce dello sfortunato fallimento di questi Fascisti socialisti nel rovesciare il risultato di un'Elezione Generale. Io ero stato un Liberale nei vecchi giorni liberali; non eravamo estranei alle vittorie Tory e Unioniste alle urne; eravamo spesso passati all'Opposizione senza scomporci. Non era mai stato suggerito che, quando Balfour o Baldwin divenivano costituzionalmente Primi Ministri, tutti i Nonconformisti dovessero uscire con fucili e baionette a rovesciare il voto popolare; o che il Leader dell'Opposizione cominciasse a lanciare dinamite contro il Leader eletto della [[house|Camera]]. L'unica inferenza era che il Liberalismo era contrario ai militaristi soltanto quando erano Fascisti; e approvava interamente i Fascisti fintanto che erano Socialisti.
+
+Ora, questo è un punto piccolo e puramente politico. Ma per me fu assai illuminante. Mi mostrò con tutta chiarezza la fondamentale [[Truth|verità]] del mondo moderno. Ed essa è questa: non vi sono Fascisti; non vi sono Socialisti; non vi sono Liberali; non vi sono Parlamentaristi. Vi è la sola istituzione supremamente ispiratrice e irritante del mondo; e vi sono i suoi nemici. I suoi nemici sono pronti a essere per la violenza o contro la violenza, per la libertà o contro la libertà, per la rappresentanza o contro la rappresentanza; e perfino per la pace o contro la pace. Ciò mi diede una certezza del tutto nuova, anche nel senso pratico e politico, di avere scelto [[Well|bene]].
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_10_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+
+
+MY SIX CONVERSIONS
+
+VII.  THE [[Well|WELL]] AND THE SHALLOWS
+
+IN numberless novels and newspaper articles, we have all read
+about a process which is still apparently regarded as [[Novel|novel]]
+or new; though it has been described in almost exactly
+the same terms for nearly a hundred years; and in slightly
+different terms for hundreds of years before that.  I mean
+what is called the growth of [[Doubt|doubt]] or the disturbance of [[Faith|faith]];
+and the only point about it which is pertinent here is this;
+that it is always described as a revolt of the deeper parts
+of the mind against something that is comparatively superficial.
+We need not deny that modern [[Doubt|doubt]], like ancient [[Doubt|doubt]],
+does ask deep questions; we only deny that, as compared
+with our own [[philosophy]], it gives any deeper answers.
+And it is a general rule, touching what is called modern thought,
+that while the questions are often really deep, the answers
+are often decidedly shallow.  And it is perhaps even more
+important to remark that, while the questions are in a
+sense eternal, the answers are in every sense [[ephemeral]].
+The world is still asking the questions that were asked by Job.
+The world will not long be contented with the answers that are
+given by Joad.
+
+The chances of the Book of Joad being as permanent as the Book
+of Job are limited by certain perfectly practical calculations.
+Mr. Joad is an able and sincere man; and nobody doubts
+that his opinions are the product of his own mind;
+but they are very unmistakably the product of his own age.
+In this case it would be more correct to say, of his own generation.
+For the sceptics throughout the ages inherit nothing
+except a negation.  Their positive policy or ideal varies,
+not only from century to century, but even from father to son.
+A free-thinker like Bradlaugh, coming out of the individualistic
+nineteenth century and the mercantile spirit of the Midlands,
+was careful to explain that he was an Individualist.
+A free-thinker of the next generation, like Mr. Joseph McCabe,
+was careful to explain that he was a Socialist.
+A free-thinker wanting to make a splash to-day would almost
+certainly insist that he was not a Socialist; which has
+come to mean something as mild as Mr. Ramsay MacDonald.
+For those who can believe in each of these social moves in turn,
+as they happen to turn up, the matter may be irrelevant.
+But some of us will simply draw the moral which determines
+the whole question of this issue between the traditions
+of [[Truth|truth]] and [[Doubt|doubt]].  Those who leave the tradition of [[Truth|truth]]
+do not escape into something which we call [[Freedom]].
+They only escape into something else, which we call Fashion.
+
+That is really the crux of the controversy between the two views
+of [[history]] and [[philosophy]].  If it were true that by leaving the temple
+we walked out into a world of truths, the question would be answered;
+but it is not true.  By leaving the temple, we walk out into
+a world of idols; and the idols of the marketplace are more
+perishable and passing than the gods of the temple we have left.
+If we wished to test rationally the case of rationalism, we should
+follow the career of the sceptic and ask how far he remained
+sceptical about the idols or ideals of the world into which he went.
+There are very few sceptics in [[history]] who cannot be proved to
+have been instantly swallowed by some swollen convention or some
+hungry humbug of the hour, so that all their utterances about
+contemporary things now look to us almost pathetically contemporary.
+The little group of Atheists, who still run their paper in Fleet Street
+and frequently [[Honour|honour]] me with hearty but somewhat hasty denunciation,
+began their agitation in the old Victorian days, and selected
+for themselves a terribly appropriate title.  They did not call
+themselves Atheists, they called themselves Secularists.  Never was
+a more bitter and blighting confession made in the form of a boast.
+For the word "secular" does not mean anything so sensible as "worldly."
+It does not even mean anything so spirited as "irreligious."
+To be secular simply means to be of the age; that is, of the age
+which is passing; of the age which, in their case, is already passed.
+There is one tolerably correct [[Translation|translation]] of the Latin word which
+they have chosen as their motto.  There is one adequate equivalent
+of the word "secular"; and it is the word "dated."
+
+In the essays in this series, I have considered some of the effects
+of this continuous process of [[Time|time]] and change, as it has
+affected the world, even after I myself ceased to look to its
+changes for essential guidance.  I have noted that the changes,
+which continue to occur, point more and more to the [[Truth|truth]]
+of the unchanging [[philosophy]] which stands apart from them.
+I could add, of course, a long list of other examples
+of exactly the same [[Truth|truth]].  I could point, for instance,
+to the collapse of Prohibition; not so much in the narrow sense
+of Prohibition as in the general sense of Prohibitionism.
+For what failed with the American experiment was not merely a
+particular chemical experiment with some alleged chemical constituent,
+which they chose to call alcohol.  It was a whole attitude
+towards all the complex uses and abuses of human things.
+The great outstanding principle of the modern materialistic
+world has been Prohibition; even Prohibition in the abstract.
+Where we say that a social element is dangerous or doubtful,
+that it must be watched, that it may on due occasion be restrained,
+the thing that was called the Modern Mind always cried aloud with
+a voice of thunder that it must be forbidden.  The Prohibitionist
+declares that there must be no wine; the Pacifist that there must
+be no war; the Communist that there must be no private property;
+the Secularist that there must be no religious worship.
+The failure of Prohibition in the one country in which it
+was a favourite, in which it was a popular ideal in so far
+as anything so inhuman can be popular, was the collapse
+of the whole conception of wiping out entirely the temptations
+of man and the trials of mortal life.  After that, it is tacitly
+agreed that there is no such simple way out of moral problems;
+it is almost admitted that they must be referred to the moral sense.
+We were actually driven back on the desperate and tragic duty
+of our fathers, of deciding for ourselves whether we were
+drinking too much, or whether we were fighting in a just quarrel,
+or whether we were only defending our own lawful property,
+or getting other people's property by lawless usury.
+Such a demand was naturally a great strain on the Modern Mind.
+For the Modern Mind is not at all accustomed to making up its mind.
+It finds the task almost as unfamiliar as working its own farm
+or practising its own craft; or doing a hundred other things,
+that human beings had done from the foundations of the world.
+In short, it would not accept the Catholic doctrine that human
+life is a battle; it only wanted to have it announced,
+from [[Time|time]] to [[Time|time]] in the newsapers, that it was a victory.
+
+There are, I say, a number of other more general defeats of the
+attack on the [[Faith]], on each of which it would be easy to write
+a long [[Essay|essay]]; the longer as the essential [[Truth|truth]] in the matter
+was more subtle and more universal.  But I will close this series
+with the examples which I have given, because I think they suffice
+to show the general trend of the [[Truth|truth]] which I [[Desire|desire]] to suggest.
+The simplest summary of my meaning is to throw my mind back
+to all the things that seemed in my youth to be the rivals or
+reasonable alternatives to my religious conviction, and consider
+whether they could still play even the part which they did.
+The answer is that not one of them could now even remotely
+resemble a rival; or be even reasonable as an alternative.
+There was a [[Time|time]] when men of my sympathies felt even tragically
+the quarrel between the Republic and the Church; the apparent
+misunderstanding between political equality and mystical authority.
+It is a commonplace to-day that the world has reacted much more
+against equality than against authority.  But that in itself would
+not have disposed of the democratic ideals of any sincere democrat.
+It is the thing called [[Democracy|democracy]] that has itself disappointed
+the democrat.  However much I might hate the Fascists, heartily as I
+do indeed despise the Hitlerites, that would never restore the mere
+abstract [[Faith|faith]] in the Republicans.  If I lost my religion to-morrow,
+I could not again believe that the mere fact of turning Kamchatka
+from a Monarchy to a Republic would solve all its social sins.
+I have seen too many Republicans, with their greasy platform
+promises and their guzzling secret societies.  I can remember
+when being a Socialist was a real inspiration to youth; but anybody
+who thinks it could be an inspiration to the more elderly phase
+of maturity, has only to look at the more elderly Socialists.
+In short, the point I mentioned at the beginning of this article
+is the point of the whole matter; that while the questions
+are still deep and tragic enough, the recent answers
+have not really been revolutionary, but only superficial.
+I could not abandon the [[Faith|faith]], without falling back on something
+more shallow than the [[Faith|faith]].  I could not cease to be a Catholic,
+except by becoming something more narrow than a Catholic.
+A man must narrow his mind in order to lose the universal [[philosophy]];
+everything that has happened up to.  this very day has confirmed
+this conviction; and whatever happens to-morrow will confirm it anew.
+We have come out of the shallows and the dry places to the one
+deep [[Well|well]]; and the [[Truth]] is at the [[Bottom|bottom]] of it.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LE MIE SEI CONVERSIONI
+
+VII. IL [[Well|POZZO]] E LE SECCHE
+
+In innumerevoli romanzi e articoli di giornale, tutti abbiamo letto di un processo che è ancora, a quanto pare, considerato [[Novel|nuovo]] o inedito; benché sia stato descritto in termini quasi esattamente identici da quasi cento anni; e in termini leggermente diversi per centinaia di anni prima ancora. Intendo ciò che si chiama la crescita del [[Doubt|dubbio]] o il turbamento della [[Faith|fede]]; e l'unico punto al riguardo che qui rilevi è questo: che esso è sempre descritto come una rivolta delle parti più profonde della mente contro qualcosa di comparativamente superficiale. Non abbiamo bisogno di negare che il [[Doubt|dubbio]] moderno, come il [[Doubt|dubbio]] antico, ponga davvero domande profonde; neghiamo soltanto che, in confronto alla nostra propria [[philosophy|filosofia]], esso dia risposte più profonde. Ed è una regola generale, riguardo a ciò che si chiama pensiero moderno, che, mentre le domande sono spesso realmente profonde, le risposte sono spesso decisamente superficiali. Ed è forse ancora più importante osservare che, mentre le domande sono in un certo senso eterne, le risposte sono in ogni senso [[ephemeral|effimere]]. Il mondo pone ancora le domande che furono poste da Giobbe. Il mondo non si accontenterà a lungo delle risposte che sono date da Joad.
+
+Le probabilità che il Libro di Joad sia altrettanto permanente del Libro di Giobbe sono limitate da certi calcoli perfettamente pratici. Il signor Joad è un uomo capace e sincero; e nessuno dubita che le sue opinioni siano il prodotto della sua propria mente; ma esse sono assai inequivocabilmente il prodotto della sua propria epoca. In questo caso sarebbe più corretto dire, della sua propria generazione. Poiché gli scettici attraverso i secoli non ereditano nulla se non una negazione. La loro politica o il loro ideale positivo varia, non solo di secolo in secolo, ma perfino di padre in figlio. Un libero pensatore come Bradlaugh, uscito dall'individualistico diciannovesimo secolo e dallo spirito mercantile delle Midlands, aveva cura di spiegare che era un Individualista. Un libero pensatore della generazione successiva, come il signor Joseph McCabe, aveva cura di spiegare che era un Socialista. Un libero pensatore che oggi volesse fare scalpore insisterebbe quasi certamente di non essere un Socialista; il che è arrivato a significare qualcosa di mite come il signor Ramsay MacDonald. Per coloro che sanno credere in ciascuna di queste mosse sociali a turno, via via che si presentano, la questione può essere irrilevante. Ma alcuni di noi trarranno semplicemente la morale che determina l'intera questione di questa contesa tra le tradizioni della [[Truth|verità]] e del [[Doubt|dubbio]]. Coloro che lasciano la tradizione della [[Truth|verità]] non evadono in qualcosa che noi chiamiamo [[Freedom|Libertà]]. Evadono soltanto in qualcos'altro, che noi chiamiamo Moda.
+
+Ecco davvero il nodo della controversia tra le due vedute della [[history|storia]] e della [[philosophy|filosofia]]. Se fosse vero che, lasciando il tempio, uscissimo in un mondo di verità, la questione sarebbe risolta; ma non è vero. Lasciando il tempio, usciamo in un mondo di idoli; e gli idoli del mercato sono più deperibili e passeggeri degli dèi del tempio che abbiamo lasciato. Se volessimo mettere alla prova razionalmente il caso del razionalismo, dovremmo seguire la carriera dello scettico e chiederci fino a che punto egli rimase scettico verso gli idoli o gli ideali del mondo in cui entrò. Vi sono pochissimi scettici nella [[history|storia]] di cui non si possa provare che furono all'istante inghiottiti da qualche gonfia convenzione o da qualche affamata impostura dell'ora, sicché tutte le loro affermazioni sulle cose contemporanee ora ci appaiono quasi pateticamente contemporanee. Il piccolo gruppo di Atei, che ancora manda avanti il proprio giornale in Fleet Street e frequentemente mi [[Honour|onora]] di cordiale ma alquanto affrettata denuncia, cominciò la propria agitazione nei vecchi giorni vittoriani, e scelse per sé un titolo terribilmente appropriato. Non si chiamavano Atei, si chiamavano Secolaristi. Mai una confessione più amara e funesta fu fatta nella forma di un vanto. Poiché la parola «secolare» non significa nulla di così sensato come «mondano». Non significa nemmeno nulla di così spiritoso come «irreligioso». Essere secolare significa semplicemente essere dell'epoca; cioè, dell'epoca che sta passando; dell'epoca che, nel loro caso, è già passata. Vi è una tollerabilmente corretta [[Translation|traduzione]] della parola latina che essi hanno scelto come proprio motto. Vi è un adeguato equivalente della parola «secolare»; ed è la parola «datato».
+
+Nei saggi di questa serie, ho considerato alcuni degli effetti di questo continuo processo di [[Time|tempo]] e di mutamento, così come ha influito sul mondo, anche dopo che io stesso cessai di guardare ai suoi mutamenti per una guida essenziale. Ho notato che i mutamenti, che continuano a verificarsi, indicano sempre più la [[Truth|verità]] dell'immutabile [[philosophy|filosofia]] che sta in disparte da essi. Potrei aggiungere, naturalmente, un lungo elenco di altri esempi esattamente della stessa [[Truth|verità]]. Potrei indicare, per esempio, il crollo del Proibizionismo; non tanto nel senso ristretto del Proibizionismo quanto nel senso generale del proibizionismo. Poiché ciò che fallì con l'esperimento americano non fu semplicemente un particolare esperimento chimico con qualche presunto costituente chimico, che essi scelsero di chiamare alcol. Fu un intero atteggiamento verso tutti i complessi usi e abusi delle cose umane. Il grande principio dominante del moderno mondo materialistico è stato il Proibizionismo; perfino il Proibizionismo in astratto. Dove noi diciamo che un elemento sociale è pericoloso o dubbio, che deve essere sorvegliato, che può alla dovuta occasione essere frenato, ciò che veniva chiamato la Mente Moderna gridava sempre a gran voce, con voce di tuono, che esso doveva essere proibito. Il Proibizionista dichiara che non vi dev'essere vino; il Pacifista che non vi dev'essere guerra; il Comunista che non vi dev'essere proprietà privata; il Secolarista che non vi dev'essere culto religioso. Il fallimento del Proibizionismo nell'unico paese in cui era prediletto, in cui era un ideale popolare per quanto qualcosa di così disumano possa essere popolare, fu il crollo dell'intera concezione di cancellare interamente le tentazioni dell'uomo e le prove della vita mortale. Dopo di ciò, è tacitamente convenuto che non vi è una così semplice via d'uscita dai problemi morali; è quasi ammesso che essi debbano essere rimessi al senso morale. Fummo effettivamente ricacciati sul disperato e tragico dovere dei nostri padri, di decidere da noi stessi se stessimo bevendo troppo, o se stessimo combattendo in una giusta contesa, o se stessimo soltanto difendendo la nostra propria legittima proprietà, o ottenendo la proprietà altrui con illegale usura. Una simile richiesta era naturalmente un grande sforzo per la Mente Moderna. Poiché la Mente Moderna non è affatto avvezza a decidere. Trova il compito quasi tanto insolito quanto il coltivare la propria fattoria o l'esercitare il proprio mestiere; o il fare cento altre cose che gli esseri umani avevano fatto fin dalle fondamenta del mondo. In breve, non voleva accettare la dottrina cattolica che la vita umana è una battaglia; voleva soltanto che si annunciasse, di [[Time|tempo]] in [[Time|tempo]] nei giornali, che essa era una vittoria.
+
+Vi sono, dico, un certo numero di altre più generali sconfitte dell'attacco alla [[Faith|Fede]], su ciascuna delle quali sarebbe facile scrivere un lungo [[Essay|saggio]]; tanto più lungo quanto la [[Truth|verità]] essenziale nella questione era più sottile e più universale. Ma chiuderò questa serie con gli esempi che ho dato, perché credo che bastino a mostrare la tendenza generale della [[Truth|verità]] che [[Desire|desidero]] suggerire. Il più semplice riassunto del mio significato è rivolgere la mia mente a tutte le cose che nella mia giovinezza parevano essere le rivali o le ragionevoli alternative alla mia convinzione religiosa, e considerare se esse potrebbero ancora recitare anche solo la parte che recitarono. La risposta è che nemmeno una di esse potrebbe ora nemmeno lontanamente somigliare a una rivale; o essere anche solo ragionevole come alternativa. Vi fu un [[Time|tempo]] in cui gli uomini delle mie simpatie sentivano perfino tragicamente la contesa tra la Repubblica e la Chiesa; l'apparente malinteso tra l'uguaglianza politica e l'autorità mistica. È un luogo comune oggi che il mondo abbia reagito assai più contro l'uguaglianza che contro l'autorità. Ma ciò di per sé non avrebbe liquidato gli ideali democratici di alcun sincero democratico. È la cosa chiamata [[Democracy|democrazia]] che ha essa stessa deluso il democratico. Per quanto io possa odiare i Fascisti, per quanto cordialmente io in effetti disprezzi gli Hitleriani, ciò non ripristinerebbe mai la mera astratta [[Faith|fede]] nei Repubblicani. Se domani perdessi la mia religione, non potrei di nuovo credere che il mero fatto di trasformare il Kamchatka da Monarchia in Repubblica risolverebbe tutti i suoi peccati sociali. Ho visto troppi Repubblicani, con le loro untuose promesse da comizio e le loro ingorde società segrete. Posso ricordare quando essere Socialista era una vera ispirazione per la giovinezza; ma chiunque pensi che possa essere un'ispirazione per la più anziana fase della maturità, non ha che da guardare i Socialisti più anziani. In breve, il punto che ho menzionato all'inizio di questo articolo è il punto dell'intera faccenda; che, mentre le domande sono ancora abbastanza profonde e tragiche, le recenti risposte non sono state realmente rivoluzionarie, ma soltanto superficiali. Non potrei abbandonare la [[Faith|Fede]], senza ripiegare su qualcosa di più superficiale della [[Faith|Fede]]. Non potrei cessare di essere cattolico, se non divenendo qualcosa di più angusto di un cattolico. Un uomo deve restringere la propria mente per perdere l'universale [[philosophy|filosofia]]; tutto ciò che è accaduto fino a questo giorno stesso ha confermato questa convinzione; e qualunque cosa accada domani la confermerà di nuovo. Siamo usciti dalle secche e dai luoghi aridi verso l'unico profondo [[Well|pozzo]]; e la [[Truth|Verità]] è sul [[Bottom|fondo]] di esso.
 
 -/-
 
@@ -13760,6 +11180,569 @@ di nome Pan è morto.
 
 
 
+<span class="atom-split" data-atom="story_13_levity_or_levitation" data-title="Well And Shallows — Levity--Or Levitation" data-chapter="Levity Or Levitation" data-kind="story"></span>
+
+
+LEVITY--OR LEVITATION
+
+I DO not see why a man should not sometimes have a holiday, even while
+he is doing his work, and write about something merely because it
+amuses him.  I know I should be doing my duty as a Distributist,
+doing it dismally with the pen when others are already doing it more
+nobly with the plough.  But, for once in a way, I am going to write
+merely for fun; and about something only because it is funny.
+And the funniest thing I can find for miles round is in a paper
+called the Psychic News, a past issue of which was adorned with
+a portrait of me, accompanied with the extraordinary and rather
+mysterious caption, "G.K.C., the Catholic who goes up in the air."
+Believing as I do in miracles, I have never claimed levitation
+as a power particularly likely to be manifested in my own case.
+But though not at present drawn irresistibly towards levitation, I am
+much tempted to levity.  The charges are rather vague, except that they
+all seem to be equally unfortunate in relation to the facts of the case.
+The writer seemed to take it for granted that an article quite
+plainly signed by somebody else must really have been written by me,
+and written by me from no other motive but a fanatical Catholicism,
+although the man who really wrote is not a Catholic at all
+and said nothing whatever to suggest in any way that he was.
+He, however, is supremely capable of looking after himself,
+and the mere facts about this absurd muddle I have dealt with elsewhere.
+At the moment I only wish to wallow in sheer shameless enjoyment
+of the way in which the Psychic News attacks the [[Catholic Church]]
+and attacks me.  I admit that this is mere [[Self|self]]-indulgence on my part.
+I know that numbers of judicious friends will tell me that I
+ought not to take any notice of such an article.  But nothing
+that can be called human is uninteresting, and this involves,
+to begin with, one puzzle which always interests me very much.
+And that is why people who fly into a rage with the [[Catholic Church]]
+always use an extraordinary diction, or verbal style, in which
+all sorts of incommensurate things are jumbled up together,
+so that the very order of the words is a joke.  "Spiritualism depends
+only on the evidence which people receive in their own homes.
+It does not require priests.  Neither do enquirers have to buy
+rosaries or beads, or crucifixes, or pay for candles or masses."
+It must be a dreadful moment of indecision for the enquirers, when they
+have to make up their minds whether they will buy rosaries or beads.
+But the last term is the best; and here the order of words is
+especially significant.  Apparently the first object of a Catholic
+is to get a candle.  If once he can get hold of a candle,
+and walk about everywhere clasping his candle, he is all right.
+But if he cannot get a candle, he has the alternative of purchasing
+a mass; an instrument that is a sort of substitute for a candle.
+
+Now I did not, as it happens, launch any grand persecuting personal
+spiritual attack on Spiritualism, as this writer imaginatively described.
+But if I did, as of course I might, I do think I could make a better
+job of attacking Spiritualism than he does of attacking Catholicism.
+I should not talk as if a Spiritualist hung suspended between the two
+divine dogmas of the Sacredness of Tambourines and the Return
+of the Dead.  I should not talk as if men chose between a planchette
+and a Ouija-board. I should not talk about "tables or furniture,"
+or imply that a trumpet was the same sort of thing as a seance.
+But I never read an attack on Catholicism without finding this ignorant
+gabble of terms all topsy-turvy. There is always some such medley
+of misused words, in which mitres, misereres, nones, albs, croziers,
+virgins and viaticums tumble over each other without the wildest
+[[Hope|hope]] that anybody could possibly know what any of them mean.
+That is the first curiosity about this kind of writing.
+We can now go back to the only sentence in the paragraph in which
+anything like a meaning is apparent.  It is that passage in which,
+we are told, Spiritualism does without a priesthood.
+
+It does not require priests.  It only requires a spiritual
+aristocracy really much more exclusive and privileged
+than priests; seeing they have direct access to new revelations,
+and their superiority is in their personal spiritual structure;
+they are abnormal as priests are not necessarily abnormal.
+But, however that may be, the paper in question reveals some
+remarkable impressions about spiritual functions and degrees.
+There is an astonishing caption under a picture of St. Joan
+of Arc; saying that she did not care whether she was a saint
+or a [[Witch|witch]], because "she had a job to do and did it."
+How refreshing this language is.  How full of the
+fifteenth century!  Joan was just all out to get that job.
+She reckoned she could hold down that job.  Gee!  Joan wasn't
+the sort of skirt to bother about whether it came from God
+or the Devil, when there was a good job to hold down.
+The paper informs us that its religion is entirely founded on facts;
+but it seems possible to manufacture a good deal of abstract
+vulgarity without employing them.  It were vain, I suppose,
+to point out the historical fact that Joan debated desperately
+for days and days to prove she was not a [[Witch|witch]], long after it
+was obvious that her job, as a job, was either done or done for.
+But might not the suggestion, that it does not matter whether
+one is a [[Witch|witch]] or a saint, explain something of the distrust
+that some of us feel about Spiritualism?
+
+As I am writing this for fun, I would not say very much about the central
+mystery of my own religion, or the laboriously offensive terms in which
+the writer asks me to "prove" Transubstantiation, as he apparently
+claims to "prove" Spiritualism.  To him I am content to say one thing.
+Suppose the Church had tried to give such proofs, and with such results.
+Suppose Pope after Pope, and Priest after Priest, had stood up at
+the altar rails promising on the spot to prove Transubstantiation.
+And suppose Pope after Pope, and Priest after Priest, had been exposed
+as proving it by a faked apparatus in the Communion Table, by hidden
+wires in the [[Cross|cross]] and candles, and all the apparatus of fraud.
+Suppose, while many priests were doubtless honest men and perhaps
+honest dupes, it was a plain, palpable historical fact that the miracle
+had again and again been a mere conjuring trick, and the most famous
+Catholic saints had been caught and exposed doing the trick.
+If that had happened, I venture to say that the Eucharistic Congress
+would not now be so much respected by the whole civilised world;
+or by everybody except the hooligans of Portadown and journalists
+of the Psychic News.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LEVITÀ, OVVERO LEVITAZIONE
+
+Non vedo perché un uomo non debba talvolta concedersi una vacanza, pur mentre attende al proprio lavoro, e scrivere di qualcosa unicamente perché lo diverte. So bene che dovrei compiere il mio dovere di distributista, compiendolo tetramente con la penna mentre altri già lo compiono più nobilmente con l'aratro. Ma, per una volta tanto, scriverò soltanto per divertimento; e di qualcosa solo perché è buffo. E la cosa più buffa che riesca a trovare nel raggio di miglia si trova in un giornale chiamato «Psychic News», un cui numero passato era ornato di un mio ritratto, accompagnato dalla straordinaria e piuttosto misteriosa didascalia: «G.K.C., il cattolico che si leva in aria». Pur credendo, come credo, nei miracoli, non ho mai rivendicato la levitazione come un potere particolarmente propenso a manifestarsi nel mio caso. Ma, per quanto al presente non sia irresistibilmente attratto verso la levitazione, sono assai tentato dalla levità. Le accuse sono piuttosto vaghe, salvo che paiono tutte egualmente sfortunate rispetto ai fatti del caso. Lo scrittore sembrava dare per scontato che un articolo firmato in modo del tutto chiaro da qualcun altro dovesse in realtà essere stato scritto da me, e scritto da me per nessun altro motivo se non un fanatico cattolicesimo, sebbene l'uomo che davvero lo scrisse non sia affatto cattolico e non abbia detto nulla che in alcun modo suggerisse di esserlo. Egli, tuttavia, è sommamente capace di badare a sé stesso, e i meri fatti circa questo assurdo pasticcio li ho trattati altrove. Per il momento desidero soltanto crogiolarmi nel puro e svergognato piacere del modo in cui la «Psychic News» attacca la [[Catholic Church|Chiesa cattolica]] e attacca me. Ammetto che questa è mera [[Self|autoindulgenza]] da parte mia. So che parecchi amici assennati mi diranno che non dovrei prestare alcuna attenzione a un simile articolo. Ma nulla che possa dirsi umano è privo d'interesse, e ciò comporta, tanto per cominciare, un enigma che sempre m'interessa moltissimo. Ed è il motivo per cui le persone che vanno su tutte le furie contro la [[Catholic Church|Chiesa cattolica]] usano sempre una dizione straordinaria, o stile verbale, in cui ogni sorta di cose incommensurabili sono ammucchiate insieme, tanto che il solo ordine delle parole è uno scherzo. «Lo spiritismo si fonda soltanto sulle prove che le persone ricevono nelle proprie case. Non richiede sacerdoti. Né gli indagatori devono comprare rosari o grani, o crocifissi, o pagare per candele o messe.» Dev'essere un terribile momento d'indecisione per gli indagatori, quando devono risolversi se comprare rosari o grani. Ma l'ultimo termine è il migliore; e qui l'ordine delle parole è particolarmente significativo. A quanto pare il primo scopo di un cattolico è procurarsi una candela. Se solo riesce a mettere le mani su una candela, e ad andare in giro dovunque stringendo la sua candela, è a posto. Ma se non riesce a procurarsi una candela, ha l'alternativa di acquistare una messa; uno strumento che è una sorta di succedaneo della candela.
+
+Ora, per come stanno le cose, io non ho affatto lanciato alcun grande attacco spirituale personale e persecutorio contro lo spiritismo, come questo scrittore ha immaginosamente descritto. Ma se l'avessi fatto, come di certo potrei, credo davvero che saprei fare un lavoro migliore nell'attaccare lo spiritismo di quanto egli non ne faccia nell'attaccare il cattolicesimo. Non parlerei come se uno spiritista pendesse sospeso tra i due dogmi divini della Sacralità dei Tamburelli e del Ritorno dei Morti. Non parlerei come se gli uomini scegliessero tra una planchette e una tavola Ouija. Non parlerei di «tavoli o mobilio», né lascerei intendere che una tromba fosse la stessa cosa di una seduta spiritica. Ma non ho mai letto un attacco al cattolicesimo senza trovarvi questo ignorante blaterare di termini tutti sottosopra. C'è sempre un qualche simile guazzabuglio di parole malmesse, in cui mitre, misereri, none, camici, pastorali, vergini e viatici si accavallano l'uno sull'altro senza la più sfrenata [[Hope|speranza]] che qualcuno possa mai sapere che cosa alcuno di essi significhi. Questa è la prima curiosità di questo genere di scrittura. Possiamo ora tornare all'unica frase del paragrafo in cui affiora qualcosa come un significato. È quel passo in cui, ci viene detto, lo spiritismo fa a meno di un sacerdozio.
+
+Non richiede sacerdoti. Richiede soltanto un'aristocrazia spirituale in realtà assai più esclusiva e privilegiata dei sacerdoti; giacché costoro hanno accesso diretto a nuove rivelazioni, e la loro superiorità sta nella loro personale struttura spirituale; essi sono anormali come i sacerdoti non sono necessariamente anormali. Ma, comunque stiano le cose, il giornale in questione rivela alcune notevoli impressioni circa le funzioni e i gradi spirituali. C'è una stupefacente didascalia sotto un'immagine di Santa Giovanna d'Arco; che dice come a lei non importasse d'essere una santa o una [[Witch|strega]], perché «aveva un lavoro da fare e lo fece». Com'è ristoratore questo linguaggio. Com'è pieno del quindicesimo secolo! Giovanna puntava dritta ad accaparrarsi quel lavoro. Riteneva di poter tenere ben saldo quel lavoro. Perbacco! Giovanna non era il tipo di gonnella da preoccuparsi se esso venisse da Dio o dal Diavolo, quando c'era un buon lavoro da tenersi stretto. Il giornale ci informa che la sua religione è interamente fondata sui fatti; ma pare possibile fabbricare una buona dose di volgarità astratta senza impiegarli. Sarebbe vano, suppongo, far notare il fatto storico che Giovanna disputò disperatamente per giorni e giorni per provare di non essere una [[Witch|strega]], molto dopo che era ovvio che il suo lavoro, come lavoro, era o compiuto o spacciato. Ma non potrebbe il suggerimento, che non importa se si è una [[Witch|strega]] o una santa, spiegare qualcosa della diffidenza che alcuni di noi provano verso lo spiritismo?
+
+Poiché scrivo questo per divertimento, non direi gran che circa il mistero centrale della mia religione, o i termini laboriosamente offensivi con cui lo scrittore mi chiede di «provare» la Transustanziazione, così come egli apparentemente pretende di «provare» lo spiritismo. A lui mi accontento di dire una cosa. Supponiamo che la Chiesa avesse tentato di dare simili prove, e con simili risultati. Supponiamo che Papa dopo Papa, e Sacerdote dopo Sacerdote, si fossero levati in piedi alla balaustra dell'altare promettendo lì per lì di provare la Transustanziazione. E supponiamo che Papa dopo Papa, e Sacerdote dopo Sacerdote, fossero stati smascherati mentre la provavano mediante un apparato truccato nella Mensa della Comunione, mediante fili nascosti nella [[Cross|croce]] e nelle candele, e tutto l'apparato della frode. Supponiamo che, mentre molti sacerdoti erano senza dubbio uomini onesti e forse onesti gabbati, fosse un chiaro, palpabile fatto storico che il miracolo era stato ancora e ancora un mero gioco di prestigio, e che i più famosi santi cattolici fossero stati colti e smascherati mentre facevano il trucco. Se ciò fosse accaduto, mi arrischio a dire che il Congresso Eucaristico non sarebbe ora tanto rispettato dall'intero mondo civile; o da chiunque tranne i teppisti di Portadown e i giornalisti della «Psychic News».
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_14_the_case_for_hermits" data-title="Well And Shallows — The Case For Hermits" data-chapter="The Case For Hermits" data-kind="story"></span>
+
+
+THE CASE FOR HERMITS
+
+ANYONE who has ever protected a little boy from being bullied at school,
+or a little girl from some childish persecution at a party, or any natural
+person from any minor nuisance, knows that the being thus badgered tends
+to cry out, in a simple but singular English idiom, "Let me [[Alone|alone]]!"
+It is seldom that the [[Child|child]] of [[Nature|nature]] breaks into the cry, "Let me enjoy
+the fraternal solidarity of a more socially organised group-life."
+It is rare even for the protest to leap to the lips in the form,
+"Let me run around with some crowd that has got dough enough to hit
+the high spots."  Not one of these positive modern ideals presents
+itself to that untutored mind; but only the ideal of being "let [[Alone|alone]]."
+It is rather interesting that so spontaneous, instinctive, almost animal
+an ejaculation contains the word [[Alone|alone]].
+
+There are now a great many boys and girls, both old and young,
+who are really in that state of mind; not only through being teased,
+but also through being petted.  Most of them will fiercely deny it,
+since it contradicts the conventions of their new generation;
+just as a [[Child|child]] kept up too late at [[Night|night]] will more and more
+indignantly deny the [[Desire|desire]] to go to bed.  Indeed I am always expecting
+to hear that a scientific campaign has been opened against [[Sleep]].
+Sooner or later the Prohibitionists will turn their attention to the old
+tribal traditional superstition of [[Sleep]]; and they will say that the
+sluggard is merely encouraged by the cowardice of the moderate sleeper.
+There will be tables of statistics, showing how many hours of output
+are lost by miners, smelters, plumbers, plasterers, and every trade
+in which (it will be noted) men have contracted the habit of [[Sleep|sleep]];
+tables showing the shortage of aconite, alum, apples, beef, beetroot,
+bootlaces, etc., and other statistics carefully demonstrating that
+work of this kind can only rarely be performed by [[Sleep|sleep]]-walkers.
+There will be all the scientific facts, except one scientific fact.
+And that is the fact that if men do not have [[Sleep]], they go mad.
+It is also a fact that if men do not have [[Solitude]], they go mad.
+You can see that, by the way they go on, when the poor miserable
+devils only have Society.
+
+The incident of Miss Fitzpatrick, the lady who really liked
+to be [[Alone|alone]], challenges all recent fashions, which are
+all for Society without [[Solitude]].  We must Get Together;
+as the gunman said when he ran his [[Machine|machine]]-gun into two other
+[[Machine|machine]]-guns and killed all the children caught between them.
+And we know that this sociability and communal organisation has
+already produced in fashionable society all that sweetness and light,
+all that courtesy and [[Charity|charity]], all that True [[Christianity]] of pardon
+and patience, which we see in the modern organisers of gangs
+or "group-life." In contrast with this happy mood now pervading
+our literature and conversation, it is customary to point
+to hermits and solitaries as if they were savages and man-haters.
+
+But it is not true.  It is not true in [[history|History]] or human fact.
+The line that ran, "Turn, gentle hermit of the Vale," was truer
+to the real tradition about the real hermits.  They were doubtless,
+from a modern standpoint, lunatics; but they were nice lunatics.
+Twenty touches could illustrate what I mean; for instance, the fact that
+they could make pets of the wild [[Animals|animals]] that came naturally to them.
+But many of them really had [[Charity|charity]]--even to human beings.
+They felt more kindly about men than men in the Forum or the Mart felt
+about each other.  Doubtless there have been merely sulky solitaries;
+unquestionably there have been sham cynics and cabotins, like Diogenes.
+But he and his sort are very careful not to be really solitary;
+careful to hang about the market-place like any demagogue.
+Diogenes was a tub-thumper, as [[Well|well]] as a tub-dweller. And that sort
+of professional sulks remains; but it is sulks without [[Solitude|solitude]].
+We all know there are geniuses, who must go out into polite society
+in order to be impolite.  We all know there are hostesses who collect
+lions and find they have got bears.  I [[Fear|fear]] there was a touch of that
+in the social legend of Thomas Carlyle and perhaps of Tennyson.
+But these men must have a society in which to be unsociable.
+The hermits, especially the saints, had a [[Solitude|solitude]] in which
+to be sociable.
+
+St. Jerome lived with a real [[Lion|lion]]; a good way to avoid being lionised.
+But he was very sociable with the [[Lion|lion]].  In his [[Time|time]], as in ours,
+sociability of the conventional sort had become social suffocation.
+In the decline of the Roman Empire, people got together in amphitheatres
+and public festivals, just as they now get together in trams and tubes.
+And there were the same feelings of mutual [[Love|love]] and tenderness,
+between two men trying to get a seat in the Colosseum, as there
+are now between two men trying to get the one remaining seat
+on a Tooting tram.  Consequently, in that last Roman phase,
+all the most amiable people rushed away into the [[Desert|desert]], to find
+what is called a hermitage; but might almost be called a holiday.
+The man was a hermit because he was more of a human being; not less.
+It was not merely that he felt he could get on better with a [[Lion|lion]]
+than with the sort of men who would throw him to the lions.
+It was also that he actually liked men better when they let him [[Alone|alone]].
+Now nobody expects anybody, except a very exceptional person, to become
+a complete solitary.  But there is a strong case for more [[Solitude]];
+especially now that there is really no [[Solitude]].
+
+The reason why even the normal human being should be half
+a hermit is that it is the only way in which his mind can have a
+half-holiday. It is the only way to get any fun even out of the facts
+of life; yes, even if the facts are games and dances and operas.
+It bears most resemblance to the unpacking of luggage.  It has been said
+that we live on a railway station; many of us live in a luggage van;
+or wander about the world with luggage that we never unpack at all.
+For the best things that happen to us are those we get out of what has
+already happened.  If men were honest with themselves, they would
+agree that actual social engagements, even with those they [[Love|love]],
+often seem strangely brief, breathless, thwarted or inconclusive.
+Mere society is a way of turning friends into acquaintances,
+rhe real profit is not in meeting our friends, but in having met them.
+Now when people merely plunge from crush to crush, and from
+crowd to crowd, they never discover the positive joy of life.
+They are like men always hungry, because their food never digests;
+also, like those men, they are [[Cross|cross]].  There is surely something the
+matter with modern life when all the literature of the young is so [[Cross|cross]].
+That is something of the secret of the saints who went into the [[Desert|desert]].
+It is in society that men quarrel with their friends; it is in [[Solitude|solitude]]
+that they forgive them.  And before the society-man criticises the saint,
+let him remember that the man in the [[Desert|desert]] often had a [[Soul|soul]] that was
+like a honey-pot of human kindness, though no man came near to taste it;
+and the man in the modern salon, in his intellectual hospitality,
+generally serves out wormwood for wine.
+
+In conclusion, I will take one very modern and even topical case.
+I do not believe in Communism, certainly not in compulsory Communism.
+And it is typical of this acrid age that what we all discuss
+is compulsory Communism.  I often sympathise with Communists,
+which is quite a different thing; but even these I respect rather
+as bold or honest or logical than as particularly genial or kindly.
+Nobody will claim that modern Communism is a specially
+sweet-tempered or amiable thing.  But if you will look up
+the legends of the earliest Hermits, you will find a very
+charming anecdote, about two [[Monks|monks]] who really were Communists.
+And one of them tried to explain to the other how it was
+that quarrels arose about private property.  So he thumped
+down a stone and observed theatrically, "This stone is mine."
+The other, slightly wondering at his taste, said, "All right;
+take it."  Then the teacher of economics became quite vexed
+and said, "No, no; you mustn't say that.  You must say it is yours;
+and then we can fight."  So the second hermit said it was his;
+whereupon the first hermit mechanically gave it up; and the whole
+lesson in Business Methods seems to have broken down.
+Now you may agree or disagree with the Communist ideal, of cutting
+oneself off from commerce, which those two ascetics followed.
+But is there not something to suggest that they were rather nicer
+people than the Communists we now meet in Society?  Somehow as
+if [[Solitude]] improved the temper?
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IN DIFESA DEGLI EREMITI
+
+CHIUNQUE abbia mai protetto un ragazzino dai soprusi a scuola, o una bambina da qualche puerile persecuzione a una festa, o una qualunque persona naturale da un qualsiasi piccolo fastidio, sa che l'essere così tormentato tende a gridare, in un'espressione inglese semplice ma singolare: «Lasciatemi [[Alone|solo]]!» È raro che il [[Child|figlio]] della [[Nature|natura]] prorompa nel grido: «Lasciatemi godere la solidarietà fraterna di una vita di gruppo socialmente più organizzata». È raro persino che la protesta balzi alle labbra nella forma: «Lasciatemi scorrazzare con qualche compagnia che abbia grana a sufficienza per spassarsela alla grande». Nessuno di questi positivi ideali moderni si presenta a quella mente non educata; ma soltanto l'ideale di essere «lasciato [[Alone|solo]]». È piuttosto interessante che un'esclamazione così spontanea, istintiva, quasi animale, contenga la parola [[Alone|solo]].
+
+Vi sono oggi moltissimi ragazzi e ragazze, vecchi e giovani insieme, che si trovano davvero in quello stato d'animo; non solo perché stuzzicati, ma anche perché vezzeggiati. La maggior parte di loro lo negherà con veemenza, poiché contraddice le convenzioni della loro nuova generazione; proprio come un [[Child|bambino]] tenuto alzato troppo tardi la [[Night|notte]] negherà con crescente indignazione il [[Desire|desiderio]] di andare a letto. In effetti mi aspetto sempre di sentire che è stata aperta una campagna scientifica contro il [[Sleep|Sonno]]. Prima o poi i Proibizionisti rivolgeranno la loro attenzione alla vecchia superstizione tribale e tradizionale del [[Sleep|Sonno]]; e diranno che il poltrone è semplicemente incoraggiato dalla codardia del dormitore moderato. Vi saranno tabelle di statistiche, che mostreranno quante ore di produzione vengano perdute da minatori, fonditori, idraulici, intonacatori, e ogni mestiere in cui (si noterà) gli uomini hanno contratto l'abitudine del [[Sleep|sonno]]; tabelle che mostreranno la penuria di aconito, allume, mele, manzo, barbabietole, stringhe da scarpe, ecc., e altre statistiche che dimostreranno accuratamente come un lavoro di questo genere possa solo di rado essere svolto da [[Sleep|sonnambuli]]. Vi saranno tutti i fatti scientifici, tranne un fatto scientifico. Ed è il fatto che se gli uomini non hanno il [[Sleep|Sonno]], impazziscono. È anche un fatto che se gli uomini non hanno la [[Solitude|Solitudine]], impazziscono. Lo si può vedere, dal modo in cui si comportano, quando i poveri disgraziati hanno soltanto la Società.
+
+L'episodio di Miss Fitzpatrick, la dama a cui piaceva davvero stare [[Alone|sola]], sfida tutte le mode recenti, tutte a favore della Società senza [[Solitude|Solitudine]]. Dobbiamo Fare Gruppo; come disse il pistolero quando scagliò la sua [[Machine|mitragliatrice]] contro altre due [[Machine|mitragliatrici]] e uccise tutti i bambini rimasti in mezzo a esse. E sappiamo che questa socievolezza e organizzazione comunitaria ha già prodotto nella società alla moda tutta quella dolcezza e luce, tutta quella cortesia e [[Charity|carità]], tutto quel vero [[Christianity|Cristianesimo]] di perdono e pazienza, che vediamo nei moderni organizzatori di bande o di «vita di gruppo». In contrasto con questo lieto umore che ora pervade la nostra letteratura e conversazione, è consuetudine additare gli eremiti e i solitari come se fossero selvaggi e misantropi.
+
+Ma non è vero. Non è vero né nella [[history|Storia]] né nei fatti umani. Il verso che diceva: «Volgiti, gentile eremita della Valle», era più fedele alla vera tradizione sui veri eremiti. Erano senza dubbio, da un punto di vista moderno, dei pazzi; ma erano simpatici pazzi. Venti tocchi potrebbero illustrare ciò che intendo; per esempio, il fatto che sapevano rendere domestici gli [[Animals|animali]] selvatici che spontaneamente venivano a loro. Ma molti di essi avevano davvero [[Charity|carità]]--persino verso gli esseri umani. Provavano più benevolenza per gli uomini di quanta ne provassero gli uni per gli altri gli uomini del Foro o del Mercato. Senza dubbio vi sono stati solitari meramente scontrosi; indubitabilmente vi sono stati falsi cinici e istrioni, come Diogene. Ma lui e i suoi pari hanno gran cura di non essere davvero solitari; cura di gironzolare per la piazza del mercato come qualsiasi demagogo. Diogene era un agitatore da botte, [[Well|oltre che]] un abitante della botte. E quel genere di broncio professionale permane; ma è broncio senza [[Solitude|solitudine]]. Sappiamo tutti che vi sono geni i quali devono uscire nella buona società per poter essere scortesi. Sappiamo tutti che vi sono padrone di casa che collezionano leoni e scoprono di aver preso orsi. [[Fear|Temo]] che vi fosse un tocco di questo nella leggenda mondana di Thomas Carlyle e forse di Tennyson. Ma questi uomini devono avere una società in cui essere asociali. Gli eremiti, specialmente i santi, avevano una [[Solitude|solitudine]] in cui essere socievoli.
+
+San Girolamo viveva con un vero [[Lion|leone]]; un buon modo per evitare di essere trattato da leone di società. Ma era molto socievole con il [[Lion|leone]]. Ai suoi [[Time|tempi]], come ai nostri, la socievolezza di tipo convenzionale era divenuta soffocazione sociale. Nel declino dell'Impero Romano, la gente si radunava negli anfiteatri e nelle feste pubbliche, proprio come oggi si raduna nei tram e nelle metropolitane. E vi erano gli stessi sentimenti di reciproco [[Love|amore]] e tenerezza, tra due uomini che cercavano di conquistare un posto nel Colosseo, di quanti ve ne siano ora tra due uomini che cercano di conquistare l'unico posto rimasto su un tram di Tooting. Di conseguenza, in quell'ultima fase romana, tutte le persone più amabili fuggivano nel [[Desert|deserto]], per trovare ciò che si chiama un eremo; ma che si potrebbe quasi chiamare una vacanza. L'uomo era eremita perché era più uomo; non meno. Non era soltanto che sentiva di poter andare più d'accordo con un [[Lion|leone]] che con il genere di uomini che l'avrebbero gettato ai leoni. Era anche che gli uomini gli piacevano davvero di più quando lo lasciavano [[Alone|solo]]. Ora nessuno si aspetta che qualcuno, tranne una persona eccezionalissima, diventi un solitario completo. Ma vi sono validi argomenti a favore di maggiore [[Solitude|Solitudine]]; specialmente ora che di [[Solitude|Solitudine]] non ve n'è davvero più.
+
+La ragione per cui persino il normale essere umano dovrebbe essere per metà eremita è che questo è l'unico modo in cui la sua mente può avere una mezza vacanza. È l'unico modo per trarre un po' di gioia perfino dai fatti della vita; sì, anche se i fatti sono giochi e balli e opere liriche. Assomiglia moltissimo al disfare i bagagli. È stato detto che viviamo in una stazione ferroviaria; molti di noi vivono in un vagone bagagli; o vagano per il mondo con bagagli che non disfano mai. Perché le cose migliori che ci accadono sono quelle che ricaviamo da ciò che è già accaduto. Se gli uomini fossero onesti con se stessi, converrebbero che gli effettivi impegni mondani, persino con coloro che [[Love|amano]], sembrano spesso stranamente brevi, affannosi, frustrati o inconcludenti. La mera società è un modo di trasformare gli amici in conoscenti; il vero profitto non sta nell'incontrare i nostri amici, ma nell'averli incontrati. Ora, quando la gente si limita a tuffarsi da calca a calca, e da folla a folla, non scopre mai la gioia positiva della vita. Sono come uomini sempre affamati, perché il loro cibo non si digerisce mai; e, come quegli uomini, sono [[Cross|di malumore]]. C'è certamente qualcosa che non va nella vita moderna quando tutta la letteratura dei giovani è così [[Cross|di malumore]]. Questo è in parte il segreto dei santi che andarono nel [[Desert|deserto]]. È nella società che gli uomini litigano con i loro amici; è nella [[Solitude|solitudine]] che li perdonano. E prima che l'uomo di mondo critichi il santo, si ricordi che l'uomo nel [[Desert|deserto]] aveva spesso un'[[Soul|anima]] simile a un vaso di miele di umana bontà, benché nessuno si avvicinasse ad assaggiarla; e l'uomo del moderno salotto, nella sua ospitalità intellettuale, generalmente mesce assenzio invece di vino.
+
+In conclusione, prenderò un caso molto moderno e persino d'attualità. Non credo nel Comunismo, certamente non nel Comunismo obbligatorio. Ed è tipico di questa età acre che ciò di cui tutti discutiamo sia il Comunismo obbligatorio. Spesso simpatizzo con i Comunisti, il che è cosa ben diversa; ma perfino costoro li rispetto più in quanto audaci o onesti o logici che in quanto particolarmente cordiali o benevoli. Nessuno sosterrà che il Comunismo moderno sia una cosa particolarmente amabile o di buon carattere. Ma se andrete a cercare le leggende dei primi Eremiti, troverete un aneddoto assai delizioso, su due [[Monks|monaci]] che erano davvero Comunisti. E uno di essi cercò di spiegare all'altro come nascessero le liti a proposito della proprietà privata. Così scagliò a terra una pietra e osservò teatralmente: «Questa pietra è mia». L'altro, un po' meravigliato di quel gusto, disse: «Va bene; prendila». Allora il maestro di economia si spazientì alquanto e disse: «No, no; non devi dire così. Devi dire che è tua; e allora possiamo litigare». Così il secondo eremita disse che era sua; al che il primo eremita gliela cedette meccanicamente; e l'intera lezione di Metodi Commerciali sembra essere fallita. Ora, potrete essere d'accordo o in disaccordo con l'ideale comunista, di tagliarsi fuori dal commercio, che quei due asceti seguivano. Ma non v'è forse qualcosa a suggerire che fossero persone piuttosto più simpatiche dei Comunisti che ora incontriamo in Società? Quasi come se la [[Solitude|Solitudine]] migliorasse il carattere?
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_15_killing_the_nerve" data-title="Well And Shallows — Killing The Nerve" data-chapter="Killing The Nerve" data-kind="story"></span>
+
+
+KILLING THE NERVE
+
+IT is now generally agreed, with great cheerfulness and good temper,
+that one of the chief features of the state of Peace we now enjoy
+is the killing of a considerable number of harmless human beings.
+We are not wild and reckless and pugnacious in such things,
+even as these Latins.  Relatively, we seem almost reconciled
+to the general notion of killing; so long as we can feel a real
+assurance that it is aimless and purposeless and fruitless.
+If an old woman is knocked down dead in the quiet village street
+where she played as a [[Child|child]], if a gutter-boy is not quite quick
+enough in getting out of the gutter and suffers the [[Death|death]] penalty
+for his negligence, we all agree that it is very regrettable.
+But it does not withdraw the attention of some of us from a quite
+exclusive concentration upon the horrors of war, because nobody
+could confuse an old woman crossing the [[Road|road]] with an old-world
+[[Romance|romance]] in any way connected with adventure or valour;
+and the boy has not ventured into the [[Road|road]] (thank God) under any
+delusion that he is sacrificing himself for his native land.
+If [[Death|death]] strikes down suddenly somebody who does not expect to die,
+and is not deceived by any nonsense about being faithful unto
+[[Death|death]] ... 0 [[Death|death]], where is thy sting?  If a tramp is taken
+to a pauper's [[Grave|grave]] unstained by any hopes or [[Dreams|dreams]] of war
+or revolution, or any vision of justice victorious.  ... 0 [[Grave|grave]],
+where is thy victory?  It is obvious that [[Death|death]] is a very different
+thing when it is the product of such peaceful surroundings.
+The modern version of Killing No Murder is that only militarism
+is murder; and there is nothing wrong with killing when it
+is not military.
+
+But I have here introduced the word killing in a lighter sense;
+even lighter than that in which some progressives take the killing
+in the streets.  For there are other things, though they are things
+less vivid and less sacred, which are killed in the streets.
+Even as it is we use the word "kill" in a more metaphorical sense.
+For instance, we talk of colours killing each other.
+And, as one example out of many, it may be noted that we do live
+in a scheme of social life in which colours kill each other.
+That is, we live in a world which gives us a vast
+exhibition of that vividness which is symbolised by colour,
+but which is wholly without that concerted [[unity]] of rule
+or tradition which is symbolised by harmony in colour.
+The illuminated advertisements of a big [[City|city]] like [[London]],
+which is now in this respect almost indistinguishable from [[New York]],
+exhibit exactly that contradiction between colour and design.
+The design, even in the sense of the purpose, is patchy and personal
+and not only vulgar but essentially venal.  The colour is often
+the best and most beautiful experience given to the senses
+of man, if only man were in a position to make the best of it.
+The psychological effect produced by random commercial
+illumination is something which is to the real possibilities
+of colour what a drunken slumber is to the divine gift of wine.
+Or rather, it should be compared to that habit, which springs up
+so easily in Prohibitionist or semi-Prohibitionist countries,
+of trying to get the best out of the divine gift of wine by
+preceding it with excessive quantities of whisky, following it
+by equally excessive quantities of beer, or possibly beginning
+the whole banquet with liqueurs and ending it with cocktails.
+In short, Prohibitionists get drunk because they have never
+been taught to drink; and commercial advertising wastes its
+artistic materials, even when it possesses them, because it
+has never been taught to colour or even to enjoy colours.
+Colours are being killed; and they are being killed by being
+worked to [[Death|death]].  The nerve is being killed; and it is being
+killed by being overstimulated and therefore stunted and stunned.
+
+When I was a [[Child|child]], I had a toy-theatre, illuminated in those days
+by candles (to which perhaps the psycho-analyst will trace my
+subsequent downfall into ecclesiastical crypts and cloisters)
+and in the ordinary way I was quite content with this type
+of illumination, the candles seeming to my barbarous mind to be
+themselves like a forest of fairy trees, with flames for [[Flowers|flowers]].
+There were also yet more rich and rare delights, which were sufficiently
+rare to those not sufficiently rich.  It was sometimes possible
+to purchase a sort of dark red powder, which when ignited burst
+into a rich red light.  [[Fire]] was wonderful enough--but red [[Fire|fire]]!
+But then I was only a dull Victorian infant somewhere between five
+and seven; and I only used red [[Fire|fire]] rarely; when it was effective.
+Living under such limitations, my immature brain perceived that it
+was more suitable to some things than to others; as, for instance,
+to a goblin coming up through a trap-door out of the cavern of the [[King]]
+of the Copper Mines, or to the final conflagration that made a crimson
+halo round the dark mill and [[Castle|castle]] of the execrable Mad Miller.
+I should not even then have used red [[Fire|fire]] in a scene showing
+the shepherd (doubtless a prince in disguise) piping to his lambs
+in the pale green meadows of [[spring]]; or in a scene in which glassy
+gauzes of green and blue waved in the manner of waves round
+the cold weeds and fishes at the entrance to Davy [[Jones]]'s Locker.
+Science and progress and practical [[Education|education]] and knowledge of
+the world are necessary before people can make blunders like that.
+Therefore, that red [[Fire|fire]] of the nursery still glows in my [[Memory|memory]] as an
+inward imaginative revelation, in spite of years, in spite of [[Time|time]],
+in spite even of passing through the streets of modern [[London]].
+
+In the [[London]] streets to-day, in what Mr. Cuthbert Baines
+has so vividly called, "the floodlit, bloodlit street,"
+the rare effect of red [[Fire|fire]] is wholly wasted and ruined,
+by the loss of its rarity and by the loss of its suitability.
+The [[Child|child]] who has been made too familiar with all that redhot
+lettering will probably never have the [[Romance|romance]] that I
+remember in my [[Childhood|childhood]]; and it is perhaps strictly true
+to say that he will never see red [[Fire|fire]] in his life.
+First, of course, because he has seen too much of it.
+For this is not the decorative process of using red in a scheme
+of colour; it is simply the dull process of painting the town red.
+But second, also, because the toy-theatre showed him little
+pictures of large things; and the town signs show him large
+pictures of little things.  He will very soon discover that
+the ideas associated with these signs, the motives of the men
+who put them up, the mood of the men who accept them, are things
+connected entirely with dreary money-grubbing or shoddy luxury.
+He will be unable to get any great vista or vision out
+of a glimpse; he will know nothing but a glaring wilderness
+of proclamations that have emphasis without significance;
+and will grow up without any poetical associations with a colour
+he has only seen used to sell a cosmetic or a quack medicine.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+UCCIDERE IL NERVO
+
+È ormai opinione generalmente condivisa, con grande allegria e buon umore, che uno dei tratti principali dello stato di Pace di cui ora godiamo sia l'uccisione di un considerevole numero di innocui esseri umani. Non siamo selvaggi, temerari e bellicosi in tali faccende, come invece questi Latini. In termini relativi, sembriamo quasi rassegnati all'idea generale dell'uccidere; purché possiamo avere la reale certezza che essa sia senza scopo, senza fine e senza frutto. Se una vecchia viene abbattuta e uccisa nella quieta via del villaggio dove giocava da [[Child|bambina]], se un monello di strada non è abbastanza svelto a togliersi dal rigagnolo e sconta la pena di [[Death|morte]] per la sua negligenza, tutti conveniamo che è cosa assai deplorevole. Ma ciò non distoglie l'attenzione di alcuni di noi da una concentrazione del tutto esclusiva sugli orrori della guerra, poiché nessuno potrebbe confondere una vecchia che attraversa la [[Road|strada]] con un [[Romance|romanzo]] d'altri tempi in qualche modo legato all'avventura o al valore; e il ragazzo non si è avventurato nella [[Road|strada]] (grazie a Dio) sotto l'illusione di sacrificarsi per la propria terra natia. Se la [[Death|morte]] abbatte all'improvviso qualcuno che non si aspetta di morire, e non è ingannato da alcuna sciocchezza sull'essere fedele fino alla [[Death|morte]]... 0 [[Death|morte]], dov'è il tuo pungiglione? Se un vagabondo viene portato alla [[Grave|fossa]] di un povero, non macchiata da alcuna speranza o [[Dreams|sogno]] di guerra o di rivoluzione, né da alcuna visione di giustizia vittoriosa... 0 [[Grave|fossa]], dov'è la tua vittoria? È ovvio che la [[Death|morte]] sia cosa assai diversa quando è il prodotto di simili circostanze pacifiche. La versione moderna del Uccidere Non è Assassinare è che soltanto il militarismo è assassinio; e non c'è nulla di male nell'uccidere quando non è cosa militare.
+
+Ma io ho qui introdotto la parola uccidere in un senso più leggero; persino più leggero di quello in cui certi progressisti prendono l'uccisione nelle strade. Poiché vi sono altre cose, benché siano cose meno vivide e meno sacre, che vengono uccise nelle strade. Anche così come stanno le cose, noi usiamo la parola «uccidere» in un senso più metaforico. Per esempio, diciamo che i colori si uccidono a vicenda. E, come uno fra i tanti esempi, si può notare che noi viviamo davvero in un ordinamento di vita sociale in cui i colori si uccidono a vicenda. Vale a dire, viviamo in un mondo che ci offre una vasta esibizione di quella vividezza che è simboleggiata dal colore, ma che è del tutto priva di quella concertata [[unity]] di regola o di tradizione che è simboleggiata dall'armonia nel colore. Le insegne pubblicitarie luminose di una grande [[City|città]] come [[London|Londra]], che sotto questo riguardo è ormai quasi indistinguibile da [[New York]], esibiscono esattamente quella contraddizione tra colore e disegno. Il disegno, persino nel senso dell'intento, è disordinato e personale e non solo volgare ma essenzialmente venale. Il colore è spesso l'esperienza migliore e più bella data ai sensi dell'uomo, se solo l'uomo fosse in condizione di trarne il meglio. L'effetto psicologico prodotto dall'illuminazione commerciale casuale è, rispetto alle reali possibilità del colore, ciò che un sonno da ubriaco è al dono divino del vino. O piuttosto, andrebbe paragonato a quell'abitudine, che nasce così facilmente nei paesi proibizionisti o semi-proibizionisti, di cercare di trarre il meglio dal dono divino del vino facendolo precedere da quantità eccessive di whisky, seguire da quantità altrettanto eccessive di birra, o magari cominciando l'intero banchetto con liquori e concludendolo con cocktail. In breve, i proibizionisti si ubriacano perché non hanno mai imparato a bere; e la pubblicità commerciale sperpera i propri materiali artistici, persino quando li possiede, perché non ha mai imparato a colorare né tantomeno a godere dei colori. I colori vengono uccisi; e vengono uccisi facendoli lavorare fino alla [[Death|morte]]. Il nervo viene ucciso; e viene ucciso venendo iperstimolato e perciò atrofizzato e stordito.
+
+Quando ero [[Child|bambino]], avevo un teatrino di cartone, illuminato a quei tempi da candele (alle quali forse lo psicanalista farà risalire la mia successiva rovinosa caduta nelle cripte e nei chiostri ecclesiastici) e nel modo consueto ero del tutto pago di questo tipo di illuminazione, poiché le candele parevano alla mia mente barbara come una foresta di alberi fatati, con fiamme in luogo di [[Flowers|fiori]]. Vi erano anche delizie ancor più ricche e rare, che erano abbastanza rare per chi non era abbastanza ricco. A volte era possibile acquistare una sorta di polvere rosso scuro, che accesa divampava in una ricca luce rossa. Il [[Fire|fuoco]] era già di per sé meraviglioso—ma il [[Fire|fuoco]] rosso! Ma allora io ero soltanto un ottuso bimbo vittoriano fra i cinque e i sette anni; e usavo il [[Fire|fuoco]] rosso soltanto di rado; quando faceva effetto. Vivendo entro tali limitazioni, il mio cervello immaturo intuiva che esso si adattava ad alcune cose più che ad altre; come, per esempio, a un folletto che sbucava da una botola dalla caverna del [[King|Re]] delle Miniere di Rame, o alla conflagrazione finale che cingeva d'un alone cremisi il tetro mulino e [[Castle|castello]] dell'esecrabile Mugnaio Pazzo. Non avrei usato, neppure allora, il [[Fire|fuoco]] rosso in una scena che mostrava il pastore (senza dubbio un principe travestito) intento a suonare il flauto ai suoi agnelli nei pallidi verdi prati di [[spring]]; o in una scena in cui garze vitree di verde e d'azzurro ondeggiavano a mo' di onde attorno alle fredde alghe e ai pesci all'ingresso dello Scrigno di Davy [[Jones]]. Occorrono la scienza e il progresso e l'[[Education|istruzione]] pratica e la conoscenza del mondo prima che la gente possa commettere sbagli simili. Perciò, quel [[Fire|fuoco]] rosso della stanza dei bambini ancora arde nella mia [[Memory|memoria]] come un'interiore rivelazione immaginativa, a dispetto degli anni, a dispetto del [[Time|tempo]], a dispetto persino dell'attraversare le strade della moderna [[London|Londra]].
+
+Nelle strade di [[London|Londra]] d'oggi, in ciò che il signor Cuthbert Baines ha così vividamente chiamato «la strada inondata di luce, inondata di sangue», il raro effetto del [[Fire|fuoco]] rosso è del tutto sprecato e rovinato, per la perdita della sua rarità e per la perdita della sua idoneità. Il [[Child|bambino]] che è stato reso troppo familiare con tutte quelle scritte incandescenti probabilmente non avrà mai il [[Romance|fascino]] che io ricordo nella mia [[Childhood|fanciullezza]]; ed è forse rigorosamente vero dire che egli non vedrà mai il [[Fire|fuoco]] rosso in vita sua. In primo luogo, naturalmente, perché ne ha visto troppo. Poiché questo non è il decorativo procedimento di usare il rosso in uno schema di colore; è semplicemente l'ottuso procedimento di dipingere la città di rosso. Ma, in secondo luogo, anche perché il teatrino di cartone gli mostrava piccole immagini di grandi cose; e le insegne cittadine gli mostrano grandi immagini di piccole cose. Egli scoprirà ben presto che le idee associate a queste insegne, i moventi degli uomini che le hanno affisse, l'animo degli uomini che le accettano, sono cose interamente connesse con squallida avidità di denaro o con lusso dozzinale. Egli non riuscirà a trarre alcuna grande prospettiva o visione da un barlume; non conoscerà nulla se non uno sfolgorante deserto di proclami che hanno enfasi senza significato; e crescerà senza alcuna associazione poetica con un colore che ha visto usare soltanto per vendere un cosmetico o una medicina da ciarlatano.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_16_the_case_of_claudel" data-title="Well And Shallows — The Case Of Claudel" data-chapter="The Case Of Claudel" data-kind="story"></span>
+
+
+THE CASE OF CLAUDEL
+
+I HAVE heard a story, which I have never verified either
+by [[history]] or topography, otherwise known as being on the spot,
+to the effect that the French Academy accepted the accident of
+the absence of Molière from its records with a magnificent gesture.
+It may have been only a tradition about something that somebody
+planned to do; it may even have been only a tale of somebody
+about what ought to be done; but it is exactly the sort of
+tradition that would represent the nation; and it is exactly
+the sort of thing that Frenchmen would or could have done.
+The French Academy, founded by Richelieu for the establishment
+of classical literature in the country, naturally passed over
+a wandering play-actor and playwright like Molière; just as [[Oxford]]
+and Cambridge would have passed over a wandering play-actor
+and playwright like Shakespeare.  But here the story, even if it
+is only a story, strikes the note that only the French can strike.
+For it was said that the French Academy erected in its inner
+courts a special statue of Molière, with the [[Inscription|inscription]] "Rien
+ne manque à sa gloire; il manque à la notre" ... and if you
+want to know what is the difference between the atmosphere
+of France and England, both of them very jolly atmospheres
+in their way, you have only to imagine anybody making, or even
+anybody suggesting, a public apology of that sort to Shakespeare.
+Can you imagine a huge statue of Shakespeare in Balliol Quod,
+inscribed with the statement, "Shakespeare never went to Balliol."
+Can you conceive even Cambridge rearing a colossal monument to Dickens,
+to celebrate the fact that he never had a University [[Education|education]]--
+or indeed any other [[Education|education]]?  If that story about Molière
+is true, or even if it is a true [[Parable|parable]] or [[Fable|fable]], there is an
+obvious moral to the [[Fable|fable]].  The English rather ignore defeats;
+the French rather exaggerate defeats; but the French do sometimes
+have the talent of snatching victories out of defeats.
+
+A little while ago, to my great regret, the French Academy
+suffered a very serious defeat.  It was when it preferred
+a clever writer of rather decadent verse to Paul Claudel;
+but nobody supposes, I [[Hope|hope]], that it was M. Claudel who was defeated.
+If we are to talk about anybody really great being defeated,
+let us say that Richelieu was defeated.  A man of the first rank
+of French Letters, which the great Cardinal loved, and the Catholic
+culture which he also loved, with all his diplomatic and even
+unscrupulous encouragement of those who hated it, has been met
+with a sort of mute resistance; presumably by those who hated
+more than the most unscrupulous Cardinal could ever do.
+Without presuming to pronounce upon the literary comparison,
+it is enough to say that even if the Academy were right, it would
+here prove itself entirely academic.  It would be proved in the fact
+that nobody in the literary world has heard of Claudel's rival;
+and everybody in the literary world, has heard of Claudel.
+He is recognised as standing for something quite literally
+from China to Peru; at least from Japan to Washington.
+It looks as if the Academy has made one of its rather rare mistakes;
+and without the obvious excuses which applied to the case of
+Molière. And it looks as if there might some day be another statue,
+with another [[Inscription|inscription]]:  "Nothing is wanting to his glory;
+but he is wanting to ours."
+
+There is no space here even to suggest the sumptuous
+wealth of images and ideas in the work of Paul Glaudel.
+It is only important to note the fact, as a fact of [[history]]
+rather than of literature, that it is on his side, and not on
+the other side, that the wealth of ideas can now be found.
+It might very [[Well|well]] happen, at one [[Time|time]] it probably did happen,
+that the historic culture he represents had dwindled down to
+narrow channels and rare and isolated notes; like the last pipe
+of the [[Pastoral|pastoral]] poets that sounded from the eighteenth-century
+clerics imitating the [[innocence]] of the Georgics; or that Irish
+harp of which a single string snapped whenever a heart had
+broken for liberty.  But to-day it is exactly the other way.
+It is the rationalistic tradition of the nineteenth
+century that has narrowed into monotony and repetition.
+It is the [[artist]] who is an atheist who has taken refuge in
+a [[Garden|garden]], to escape from the cry of all the ancient Christian
+civilization for the ploughing of all the fields of the earth.
+It is the musical instrument of the modernist that has broken
+all its strings but one, like the lute in the agnostic
+picture of [[Hope]]; and continues to strike the same few chords
+of [[Truth|truth]] remaining to it, but drearily and all on one note.
+Nobody denies, and certainly I do not deny, that the truths
+of the emancipated epoch are still true, even when thus
+isolated and irrelevant; just as the spiritual truths were
+still true, even when repeated mechanically by the [[Court|court]]
+chaplains or stale preachers of the eighteenth century.
+But in the matter of fullness, of richness, and of variety,
+the whole advantage is now with the ancient cause.
+The thoughts that throng in a sort of hubbub, in a work
+like The Satin Slipper, are like a crowd of living men
+bursting the barriers of a deserted fortress.  It is Claudel
+or the same type of man who is now storming the Bastille;
+a [[Prison|prison]] with all the harshness and inhumanity of a [[Prison|prison]],
+except that it now contains fewer and fewer prisoners.
+An empty [[Prison|prison]] may be almost more depressing than a full [[Prison|prison]];
+and such an empty [[Prison|prison]] is the tradition of academic
+scepticism to-day. Prejudice, the very spirit of a [[Prison|prison]],
+[[Alone|alone]] shuts out the new generation from the full realization of
+the greater fruitfulness promised by the revival of Christendom.
+In one sense we may agree with all the old and weary
+journalists who say that the age is to be the age of Youth;
+but its most youthful manifestation is in something that renews
+its youth like the eagle.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL CASO CLAUDEL
+
+HO udito una storia, che non ho mai verificato né mediante la [[history|storia]] né mediante la topografia, altrimenti nota come l'essere sul posto, secondo cui l'Accademia di Francia accolse con un gesto magnifico il fatto accidentale dell'assenza di Molière dai suoi registri. Può darsi che fosse soltanto una tradizione riguardo a qualcosa che qualcuno progettò di fare; può persino darsi che fosse soltanto un racconto di qualcuno su ciò che si sarebbe dovuto fare; ma è esattamente il genere di tradizione che rappresenterebbe la nazione; ed è esattamente il genere di cosa che i francesi avrebbero fatto o avrebbero potuto fare. L'Accademia di Francia, fondata da Richelieu per l'affermazione della letteratura classica nel paese, naturalmente sorvolò su un attore girovago e commediografo come Molière; proprio come [[Oxford]] e Cambridge avrebbero sorvolato su un attore girovago e commediografo come Shakespeare. Ma qui la storia, anche se è soltanto una storia, coglie quella nota che solo i francesi sanno cogliere. Poiché si diceva che l'Accademia di Francia avesse eretto nei suoi cortili interni una statua speciale di Molière, con l'[[Inscription|iscrizione]] «Rien ne manque à sa gloire; il manque à la notre»... e se volete sapere qual è la differenza tra l'atmosfera della Francia e quella dell'Inghilterra, entrambe atmosfere assai gioviali a modo loro, non avete che da immaginare qualcuno che rivolga, o anche solo che proponga, una pubblica scusa di quel genere a Shakespeare. Potete immaginare un'enorme statua di Shakespeare nel cortile del Balliol, incisa con la dichiarazione «Shakespeare non frequentò mai il Balliol». Potete concepire persino Cambridge che erige un colossale monumento a Dickens, per celebrare il fatto che egli non ebbe mai un'[[Education|istruzione]] universitaria — o invero alcuna altra [[Education|istruzione]]? Se quella storia su Molière è vera, o anche se è una vera [[Parable|parabola]] o [[Fable|favola]], vi è un'ovvia morale nella [[Fable|favola]]. Gli inglesi tendono piuttosto a ignorare le sconfitte; i francesi tendono piuttosto a esagerare le sconfitte; ma i francesi hanno talvolta il talento di strappare vittorie alle sconfitte.
+
+Poco tempo fa, con mio grande rammarico, l'Accademia di Francia subì una sconfitta assai grave. Fu quando preferì un abile scrittore di versi alquanto decadenti a Paul Claudel; ma nessuno suppone, lo [[Hope|spero]], che sia stato il signor Claudel a essere sconfitto. Se dobbiamo parlare di qualcuno veramente grande che è stato sconfitto, diciamo che fu Richelieu a essere sconfitto. Un uomo del primo rango delle Lettere francesi, che il grande Cardinale amava, e la cultura cattolica che egli parimenti amava, con tutto il suo diplomatico e persino spregiudicato incoraggiamento di coloro che la odiavano, si è visto opporre una sorta di muta resistenza; presumibilmente da parte di coloro che la odiavano più di quanto il più spregiudicato dei Cardinali potesse mai fare. Senza presumere di pronunciarmi sul confronto letterario, basti dire che, anche se l'Accademia avesse ragione, essa si dimostrerebbe qui interamente accademica. Lo si proverebbe nel fatto che nessuno nel mondo letterario ha sentito parlare del rivale di Claudel; e tutti nel mondo letterario hanno sentito parlare di Claudel. Egli è riconosciuto come rappresentante di qualcosa, letteralmente, dalla Cina al Perù; o almeno dal Giappone a Washington. Sembra che l'Accademia abbia commesso uno dei suoi errori piuttosto rari; e senza le ovvie scusanti che si applicavano al caso di Molière. E sembra che un giorno possa esservi un'altra statua, con un'altra [[Inscription|iscrizione]]: «Nulla manca alla sua gloria; ma egli manca alla nostra».
+
+Non v'è qui spazio nemmeno per suggerire la sontuosa ricchezza di immagini e di idee nell'opera di Paul Claudel. È soltanto importante notare il fatto, come un fatto di [[history|storia]] più che di letteratura, che è dalla sua parte, e non dall'altra parte, che la ricchezza delle idee può ora essere trovata. Potrebbe assai [[Well|bene]] accadere, e in un certo [[Time|tempo]] probabilmente accadde, che la cultura storica che egli rappresenta si fosse ridotta a canali angusti e a note rare e isolate; come l'ultimo zufolo dei poeti [[Pastoral|pastorali]] che risuonava dagli ecclesiastici del Settecento che imitavano l'[[innocence|innocenza]] delle Georgiche; o come quell'arpa irlandese di cui una singola corda si spezzava ogni volta che un cuore si era infranto per la libertà. Ma oggi è esattamente il contrario. È la tradizione razionalistica dell'Ottocento che si è ristretta nella monotonia e nella ripetizione. È l'[[artist|artista]] ateo che si è rifugiato in un [[Garden|giardino]], per sfuggire al grido di tutta l'antica civiltà cristiana che reclamava l'aratura di tutti i campi della terra. È lo strumento musicale del modernista che ha spezzato tutte le sue corde tranne una, come il liuto nel quadro agnostico della [[Hope|Speranza]]; e continua a percuotere i pochi accordi di [[Truth|verità]] che gli restano, ma tetramente e tutti su una sola nota. Nessuno nega, e certo io non nego, che le verità dell'epoca emancipata siano ancora vere, anche quando così isolate e irrilevanti; proprio come le verità spirituali erano ancora vere, anche quando ripetute meccanicamente dai cappellani di [[Court|corte]] o dai predicatori stantii del Settecento. Ma in materia di pienezza, di ricchezza e di varietà, tutto il vantaggio è ora dalla parte dell'antica causa. I pensieri che si accalcano in una sorta di tumulto, in un'opera come La scarpina di raso, sono come una folla di uomini vivi che sfondano le barriere di una fortezza deserta. È Claudel, o lo stesso tipo d'uomo, che ora prende d'assalto la Bastiglia; una [[Prison|prigione]] con tutta la durezza e l'inumanità di una [[Prison|prigione]], salvo che ora contiene sempre meno prigionieri. Una [[Prison|prigione]] vuota può essere quasi più deprimente di una [[Prison|prigione]] piena; e tale [[Prison|prigione]] vuota è oggi la tradizione dello scetticismo accademico. Il Pregiudizio, il vero spirito di una [[Prison|prigione]], da [[Alone|solo]] esclude la nuova generazione dalla piena realizzazione della maggiore fecondità promessa dal risveglio della Cristianità. In un senso possiamo convenire con tutti i vecchi e stanchi giornalisti che dicono che l'età dev'essere l'età della Giovinezza; ma la sua manifestazione più giovanile è in qualcosa che rinnova la propria giovinezza come l'aquila.
+
+-/-
+
+
+
 <span class="atom-split" data-atom="story_17_the_higher_nihilism--part_01" data-title="Well And Shallows — The Higher Nihilism (part 1)" data-chapter="The Higher Nihilism" data-kind="excerpt"></span>
 
 
@@ -14014,6 +11997,285 @@ In teoria, o almeno in questa parte della sua teoria, il signor Middleton Murry 
 Ora, io sono altrettanto irremovibile contro il signor Murry in questa idea di mutilare la nostra intera cultura in una frenesia di [[Renunciation|rinuncia]] morale. Ammetto che un santo possa tagliarsi la mano ed entrare in cielo, e avervi un posto più alto del resto di noi. Ma un'invocazione all'amputazione delle mani di tutti gli esseri umani, la visione di un'Umanità Senza Mani come prossimo stadio evolutivo dopo quello della scimmia senza coda, mi [[Leaves|lascia]] freddo, per quanto la si esalti come splendido [[Self-Sacrifice|autosacrificio]] collettivo. Queste cose sono un'[[Allegory|allegoria]], in più di un senso. Possiamo dire in verità che l'era industriale disumana abolì davvero la Mano, giacché abolì l'artigianato. Ammetto che i [[Monks|monaci]] hanno le loro ragioni per radersi il capo, o le monache per tagliarsi i capelli; ma il mio consiglio all'umanità, al di fuori di simili estasi, sarebbe di restare calma e di tenersi i capelli in testa. Che un uomo rinunci al proprio lusso è una cosa; che l'umanità rinunci alla propria libertà di affrontare il problema del lusso è tutt'altra. Una cosa è impoverire se stessi; ben altra responsabilità è privare un intero sistema culturale della sua cultura. Io potrei o non potrei star meglio rinunciando al vino; sono assolutamente certo che il mondo non starebbe meglio rinunciando al vino. Il signor Middleton Murry può essere mosso da un nobile impulso a rinunciare alla proprietà privata, ma non credo per un solo istante che l'umanità sarebbe più felice rinunciando alla proprietà privata.
 
 Di fatto, è proprio questa sorta di distruzione radicale che l'ha resa infelice. Il mondo capitalista moderno, che ci uniamo a maledire, nacque in realtà proprio da quell'idea di abbandonare totalmente il vecchio per la promessa del nuovo. Gli uomini dicevano, a proposito dell'impresa di sfregiare le colline inglesi con le rotaie o di [[rolling|avvolgere]] i villaggi inglesi nel fumo, esattamente ciò che il signor Murry va ora dicendo a proposito del sacrificare l'antica [[Faith|fede]] o l'antica [[Freedom|libertà]] e del tassare la proprietà moderata fino a farla sparire. Dicevano, come fa lui, che era triste, che era duro, che esigeva un eroico sacrificio; ma che non dovevamo essere sentimentali aggrappati al passato, bensì guardare al futuro più luminoso e più ampio. E il futuro più luminoso fu l'epoca del signor Carnegie e del signor Ford. Il capitalismo fu in realtà fondato sollecitando un nuovo realismo contro un vecchio romanticismo. La risposta è che non era necessario che un'intera società rinunciasse alla [[Beauty|bellezza]]; e non è necessario che un'intera società rinunci alla libertà. E se guardiamo indietro alla [[history|storia]], vedremo che queste radicali rinunce sociali non hanno fatto che danno. Su tutta l'[[America]] giace come un incubo il freddo cadavere del [[Puritanism|puritanesimo]], perché una generazione fervida pensò che l'uomo dovesse dire addio per sempre ai sacerdoti [[Well|come pure]] ai commedianti, ai sacramenti [[Well|come pure]] ai banchetti. In breve, si chiese agli uomini di sacrificare tutto per il calvinismo, come ora si chiede loro di sacrificare tutto per il comunismo. Ma benché l'uomo possa sacrificare qualsiasi cosa, Ognuno non deve sacrificare ogni cosa. I singoli uomini devono sacrificare le proprie libertà, ma soltanto per restaurare la libertà. Ed è una grande ironia che, mentre il colto comunista (con tutto il rispetto per lui) straccia le vesti di tutti gli altri e sparge cenere sul capo altrui, lontano, in molti luoghi tranquilli, sulle colline di Lanark o nel folto dei miei propri boschi di faggio del [[Buckingham]], sacerdoti e frati che hanno essi stessi rinunciato alla proprietà privata stanno ricostruendo le fattorie e le famiglie del [[Distributism|distributismo]].
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_18_the_backward_bolshie" data-title="Well And Shallows — The Backward Bolshie" data-chapter="The Backward Bolshie" data-kind="story"></span>
+
+
+THE BACKWARD BOLSHIE
+
+AFTER all, the Bolshevist is really a Victorian.  His is a
+nineteenth-century dream, even if it be a twentieth-century reality.
+It is notably so in the aspect which now makes the dream a [[nightmare]];
+I mean the mad optimism about the advantages of machinery.
+What was offered to us as a Five Years Hence Plan ought really to have
+been called a Fifty Years Ago Plan.  For they are only trying to do
+with [[Russia]] exactly what the Victorians did actually do with England;
+turn it into the workshop of the world and fill it with dirty tools
+and dismal mechanics.  Marx was much more of a Victorian than Morris.
+He may not have been technically a subject of [[Queen]] Victoria, though it
+is quite likely that he was.  By geographical extraction I suppose
+he was a German--like [[Queen]] Victoria's husband and more remotely,
+[[Queen]] Victoria herself.  By real or racial extraction he was a Jew;
+like [[Queen]] Victoria's favourite Prime Minister and a good many other
+persons unnecessary to mention.  But the late Victorian period was
+the very period at which the Jews, and especially the German Jews,
+were at the very top of their power and influence.  From the [[Time|time]]
+when they forced the Egyptian War to the [[Time|time]] when they forced
+the South African War, they were imperial and immune.  Certainly much
+more so than they are now; for the Jews are now being jumped on very
+unjustly in [[Germany]] itself, and old Victorians like Mr. Belloc and myself,
+who began in the days of Jewish omnipotence by attacking the Jews,
+will now probably die defending them.  Anyhow, Karl Marx did not
+differ from any number of Victorian Jews in type or externals.
+He lived mostly in England, and launched his world religion from
+something more British than the British Empire:  the British Museum.
+The Beard which moves Mr. Wells to impatience was simply the beard
+of Victorian [[Romance|romance]]; the beard of Tennyson and Longfellow and Trollope.
+And though his plan has been very imperfectly applied in the one place
+in the world where he would have said it could not be applied at all
+(for this true Victorian saw the great commercial cities of Western Europe
+as the only possible battlefields of the future) it has all the character
+of a new and rather barbaric people imitating something that is
+already stale, not to say stinking, for civilised people.  It was exactly
+like the very Victorian incident of the industrialising of Japan.
+That is, it was and is something essentially behind the times.
+The Japanese wear billycock hats presumably under the impression that we
+admire billycock hats.  But, whatever just vengeance may fall upon
+our hats, this is to do an injustice to our heads.  Now, as a matter
+of fact, our heads have in many ways advanced a little, since the days
+when our own Five Year Plan filled England with filth and smoke.
+Some rather deeper questions have arisen; questions about the individual,
+about the purpose of life, about religion in [[history]], and so on.
+[[philosophy|Philosophy]], even Thomist [[philosophy]], is heard again in [[Paris]] and [[Oxford]].
+
+Now Marx had no more [[philosophy]] than Macaulay.  The Marxians
+therefore have no more [[philosophy]] than the Manchester School.
+It was enough for Macaulay to rejoice in the mere excitement
+of extension, in the [[Hope|hope]] that "the roofs and chimneys of a new
+Manchester may rise in the wilds of Connemara."  Similarly, it is
+enough for the Moscow Marxians to [[Hope|hope]] that the roofs and
+chimneys of a new Manchester may rise in the wilds of Siberia.
+It is true that the original Manchester men desired competition
+while the Marxians [[Desire|desire]] combination; or the Combine
+of All Combines.  But the competition ended in a Combine
+and the Combine has not really ended in a Communist State.
+For it seems clear that grades of unequal wages do exist in
+Bolshevist [[Russia]], and the Bolshevist rulers can only explain
+that it is a temporary necessity at this political stage and
+that true, pure, perfect Communism will come in the future.
+It might be the Labour Party, mightn't it?
+
+But to carry competition to any lengths, because it is the fashion,
+or to carry combination to any lengths because it is the fashion,
+is not a [[philosophy|Philosophy]].  A [[philosophy]] begins with Being; with the end
+and value of a living thing; and it is manifest that a materialism
+that only considers economic ethics, cannot cover the question at all.
+If the problem of happiness were so solved by economic comfort,
+the classes who are now comfortable would be happy, which is absurd.
+This humourless hammering on one note is like the worst Victorian fads;
+Temperance or Feminism.  It is especially like that very old-fashioned
+Feminism that hated to be feminine.  I am told that in [[Russia]] men
+and women dress roughly alike.  But, mark you, that does not mean
+that men wear [[Flowers|flowers]] in their hair or trail about in those noble
+pontifical robes with which tradition clothed every woman like a [[Queen|queen]].
+It means that women dress like men; not that men dress like women.
+Now that is sheer stark, stale, dead Victorianism.
+That is the only original Woman's Rights Woman, who deliberately made
+herself hideous with bloomers and goggles.  By the following reigns,
+even the Suffragettes had learned better than that; but while
+the Suffragettes are things of the past for us, they are still
+far in the rosy future for the backward and belated Bolshevist.
+He is still plodding through that foggy factory twilight that was
+supposed to be the enlightened daylight of the nineteenth century;
+and it is truer now than in the [[Time|time]] of the Czars to say that [[Russia]]
+is the most backward of the nations.
+
+-/-
+
+
+
+
+<span class="atom-split" data-atom="story_19_the_last_turn" data-title="Well And Shallows — The Last Turn" data-chapter="The Last Turn" data-kind="story"></span>
+
+
+THE LAST TURN
+
+THE only difficulty about the evident reawakening of Catholicism in
+modern England, is that [[Conversion|conversion]] calls on a man to stretch his mind,
+as a man awakening from a [[Sleep|sleep]] may stretch his arms and legs.
+It calls on the [[Imagination|imagination]] to stretch itself, for instance, over a
+wider area than England, and a longer period than English [[history]].
+And, for certain rather curious reasons, the stretching
+of the mind generally stops short of anything like a complete
+comprehension of any great historical or philosophical process.
+This is what Bernard [[Shaw]] meant when he said that the world will never
+really progress, until every man lives for three hundred years.
+I remember remarking at the [[Time|time]] that there was a sort of [[Truth|truth]]
+symbolised in this; and that, most certainly, if Bernard [[Shaw]]
+had lived for three hundred years he would be a Catholic.
+
+This preliminary point can be quite sufficiently proved
+even from this particular case.  Three hundred years would
+mean that he would remember, as part of the positive
+poetry of [[Childhood|childhood]], the first phase of the [[Reformation]].
+The first phase of the [[Reformation]] in England was the Divine Right
+of Kings.  It was a romantic enthusiasm for Royalty itself,
+and the duty of an utterly prostrate passive obedience to it.
+This was the first effect of the New Religion; but before the [[Child|child]]
+was barely a boy it would be overthrown by another New Religion.
+The Calvinist killed the sacred [[King]], who had been sacred
+enough to kill the Church; and darkened the land with a creed
+of Total Depravity and the Scottish Sabbath.  By the [[Time|time]] Mr. [[Shaw]]
+was a growing lad of only a hundred years old, the world would
+have rebelled against this tyranny in turn.  The Scottish Mr. Hume
+would soon be preparing to burst up the Scottish Sabbath.
+The ingenious Mr. Rousseau would be denying Total Depravity
+and asserting Total [[innocence|Innocence]], Naturalness and Niceness.
+Out of this, as he grew to maturity, nearing a century
+and a half, there would grow gradually the most pleasant
+and plausible, the most happy, healthy and exhilarating
+of all the purely human visions:  the vision of Liberty.
+Let men be only free from their feudal [[Chains|chains]] and theological gags;
+let them speak as they like, write as they like, buy and sell
+as they like, trade and travel and enquire as they like;
+and the race will waken from the [[nightmare]] of ages into the broad
+brotherhood of reason and justice.  About the [[Time|time]] when Mr. [[Shaw]]'s
+first grey hair appeared, in the year 1832, when he was barely
+two hundred, there was much talk about a [[Reform]] Bill in England;
+but I do not think Mr. [[Shaw]] would have been taken in, even then.
+Already, for a long [[Time|time]], men had been buying and selling
+as they liked, and trading and travelling as they liked.
+And already the result stood up solid and enormous,
+in the thing called Capitalism:  that is the dispossession
+of the populace of all forms of real productive property;
+all instruments of production in the hands of the few;
+all the millions merely the servants of the few, working for a wage,
+always an insecure wage, generally a mean and inhuman wage.
+It was when this process had gone even further that the real
+historical Mr. Bernard [[Shaw]] was born; with the natural
+consequence that Mr. Bernard [[Shaw]] has devoted his life to making
+war on Capitalism.  He has done so because the special evil
+of his own lifetime was Capitalism.  But shall we not guess
+that he would have done it rather differently, if he had already
+spent two or three lifetimes warring against Divine Right,
+and then against the Calvinism that attacked Divine Right,
+and then against the Rousseauan prostration before Liberty,
+which destroyed Calvinism--and produced Capitalism.
+Would he not conclude that the whole State had been staggering
+about in a most extraordinary and irrational manner, ever since
+he was first born under the Elizabethan Settlement?  Would it
+not be obvious that the mind of man had been filled with
+nothing but frantic exaggerations, crude simplifications,
+provincial panaceas and quack medicines and sheer raving monomania,
+ever since it had broken away from the central civilisation
+and the [[philosophy]] which the Saints had handed down from
+the Ancients?  Would it not interest him to find that,
+all the [[Time|time]], there had been written in the open books
+of [[aquinas|Aquinas]] or Bellarmine or Suarez, a perfectly reasonable
+apportionment of the authority of princes, the claims of peoples,
+the possibilities of [[Democracy|democracy]], the use and abuse of property,
+and the right function of [[Freedom|freedom]]?
+
+Three hundred years felt with their full weight, really measured
+out in [[Time|time]] and experience, endured as a man actually endures
+the passage of his days, would prove the whole Protestant story
+to have been the most preposterous and disproportionate detour,
+or straggling a chapter of accidents, that ever set out
+in the wrong direction and came back to the same place.
+For we have in a hundred ways come back to the same place;
+even to the detail of an exaggerated reaction, like that of
+the Action Française, renewing the absolute appeal to The [[King]].
+And nothing is more amusing than to note the way in which
+those who regard themselves as the most advanced leaders,
+of the most modern groups, are already rearing and bucking
+against the whole tendency of liberal and humanitarian progress,
+which the last revolutionary leaders marked out for them.
+Nobody is less in the spirit of Walt Whitman than Wyndham Lewis
+or T. S. Eliot; nobody less a real heir of H. G. Wells than
+Aldous Huxley; nobody less disposed to follow the humanitarian
+paths of Mr. Nevinson the adventurous journalist, than his son
+Mr. Nevinson the Futurist painter.  All these of the most
+recent school of rebels are rebelling against rebellion;
+that is, against the Revolution and all its heritage of liberty,
+equality and fraternity.  Mr. Eliot, though an American,
+is an avowed Royalist.  Mr. Nevinson has become a quite ferocious
+Kiplingite Imperialist.  Mr. Wyndham Lewis seems to prefer
+a Dictatorship, in so far as he may be said to prefer anything.
+All this last turn of the twisting [[Road|road]] of progress is pointing
+back towards what we have called for a hundred years reaction.
+It is apparent in the Fascists; in the Hitlerites; and even
+in the open anti-[[Democracy|democracy]] of the Bolshevists.
+
+Now the great danger of the moment is that young men will go on
+being content with these revolts against revolt, these reactions
+against reactions; so that we have nothing but an everlasting
+seesaw of the Old Young and the New Young; the last always
+content with its fleeting triumph over the last but one.
+And the only way to avoid that result is to teach men to stretch
+their minds and inhabit a larger period of [[Time|time]].  It is to insist,
+not that we now feel inclined to stress this or stress that,
+in mere fashion or mere fatigue, but that there really does
+exist somewhere a reasonable plan of the proportions of things,
+which, at least in its general outline, is true all the [[Time|time]].
+The moment men, so intelligent as those I have named,
+begin to realise that this permanent plan is necessary,
+they will certainly realise that the only existing plan,
+that has any plausible claim to look like it, is the plan
+of the Catholic [[Faith]].  For the present, they seem to be quite
+content to continue the old squabble of fathers and sons;
+even if the fathers are very young fathers, or the sons actually
+appeal to the grandfathers against them.  But this merely
+modern squabble is after all local and therefore provincial;
+it can never satisfy the thirst of thinking people for the reality
+of things.  Nevertheless, as I stated at the beginning,
+the great difficulty is whether a man can stretch his mind, or
+(as the moderns would say) can broaden his mind, enough to see
+the need for an eternal Church.
+
+And yet surely this is only the last lap in the long race
+in which the ancient [[Truth|truth]], so heavily handicapped, has one
+by one outdistanced all the runners who prided themselves on
+their youth or their advance positions.  If a man could have
+learned it by a process of elimination, merely by living through
+the last three hundred years, he would learn the same lesson
+even more clearly by living through the next three hundred years.
+By that [[Time|time]] it will be more apparent than ever that these jerks
+of novelty do not create either a progress or an equilibrium.
+The very newest of the intellectuals have already learnt not
+to trust to mere progress, in the sense of a process of change;
+they already know that they have sometimes more in common with
+some antique authority than with some merely modern rebellion.
+Some of them would set up Dictators to enforce obedience;
+it is hard if we may not obey willingly, when they would have
+men obey even unwillingly.  They would set up violent authority
+in the hands of individuals; they can hardly complain if we
+recognise merely moral authority in a merely mystical office.
+For that mystical office contains all the liberties and all
+the philosophies, and judges only upon their right balance
+and proportion; and every other thing that the moderns call
+a movement is only securing for a monomania the brief life
+of a sect.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'ULTIMA SVOLTA
+
+L'unica difficoltà riguardo all'evidente risveglio del cattolicesimo nell'Inghilterra moderna è che la [[Conversion|conversione]] chiede a un uomo di distendere la propria mente, come un uomo che si desta da un [[Sleep|sonno]] può distendere le braccia e le gambe. Chiede all'[[Imagination|immaginazione]] di distendersi, per esempio, su un'area più vasta dell'Inghilterra e su un periodo più lungo della [[history|storia]] inglese. E, per certe ragioni piuttosto curiose, la distensione della mente generalmente si arresta prima di giungere a qualcosa come una completa comprensione di un qualsiasi grande processo storico o filosofico. È questo che intendeva Bernard [[Shaw]] quando disse che il mondo non progredirà mai davvero finché ogni uomo non vivrà trecento anni. Ricordo di aver osservato al [[Time|tempo]] che vi era una sorta di [[Truth|verità]] simboleggiata in ciò; e che, molto certamente, se Bernard [[Shaw]] fosse vissuto trecento anni sarebbe stato cattolico.
+
+Questo punto preliminare può essere provato in modo del tutto sufficiente proprio a partire da questo caso particolare. Trecento anni significherebbero che egli ricorderebbe, come parte della positiva poesia dell'[[Childhood|infanzia]], la prima fase della [[Reformation|Riforma]]. La prima fase della [[Reformation|Riforma]] in Inghilterra fu il Diritto Divino dei Re. Fu un entusiasmo romantico per la Regalità stessa, e per il dovere di un'obbedienza passiva del tutto prostrata verso di essa. Questo fu il primo effetto della Nuova Religione; ma prima che il [[Child|fanciullo]] fosse appena un ragazzo, esso sarebbe stato rovesciato da un'altra Nuova Religione. Il calvinista uccise il sacro [[King|Re]], che era stato abbastanza sacro da uccidere la Chiesa; e oscurò il paese con un credo di Totale Depravazione e con il Sabato scozzese. Al [[Time|tempo]] in cui il signor [[Shaw]] fosse stato un ragazzo in crescita di soli cent'anni, il mondo si sarebbe a sua volta ribellato contro questa tirannia. Lo scozzese signor Hume si sarebbe presto preparato a far saltare il Sabato scozzese. L'ingegnoso signor Rousseau avrebbe negato la Totale Depravazione e affermato la Totale [[innocence|Innocenza]], la Naturalezza e la Gradevolezza. Da ciò, man mano che egli giungeva alla maturità, avvicinandosi al secolo e mezzo, sarebbe cresciuta gradualmente la più piacevole e plausibile, la più felice, sana ed esaltante di tutte le visioni puramente umane: la visione della Libertà. Che gli uomini siano soltanto liberi dalle loro [[Chains|catene]] feudali e dai bavagli teologici; che parlino come vogliono, scrivano come vogliono, comprino e vendano come vogliono, commercino e viaggino e indaghino come vogliono; e la razza si desterà dall'[[nightmare|incubo]] dei secoli nella vasta fratellanza della ragione e della giustizia. Intorno al [[Time|tempo]] in cui apparve il primo capello grigio del signor [[Shaw]], nell'anno 1832, quando egli aveva appena duecento anni, si parlava molto di una legge di [[Reform|Riforma]] in Inghilterra; ma non credo che il signor [[Shaw]] si sarebbe lasciato ingannare, neppure allora. Già da lungo [[Time|tempo]] gli uomini compravano e vendevano come volevano, e commerciavano e viaggiavano come volevano. E già il risultato si ergeva solido ed enorme, nella cosa chiamata Capitalismo: cioè la spoliazione della popolazione di ogni forma di reale proprietà produttiva; tutti gli strumenti di produzione nelle mani dei pochi; tutti i milioni di uomini meri servitori dei pochi, che lavorano per un salario, sempre un salario insicuro, generalmente un salario meschino e disumano. Fu quando questo processo era andato ancora più avanti che nacque il vero, storico signor Bernard [[Shaw]]; con la naturale conseguenza che il signor Bernard [[Shaw]] ha dedicato la propria vita a far guerra al Capitalismo. Lo ha fatto perché il male speciale della sua stessa epoca era il Capitalismo. Ma non dovremmo forse supporre che lo avrebbe fatto piuttosto diversamente, se avesse già trascorso due o tre esistenze a guerreggiare contro il Diritto Divino, e poi contro il Calvinismo che attaccò il Diritto Divino, e poi contro la prostrazione rousseauiana dinanzi alla Libertà, che distrusse il Calvinismo — e produsse il Capitalismo? Non concluderebbe forse che l'intero Stato aveva barcollato qua e là nel modo più straordinario e irrazionale, sin da quando egli nacque per la prima volta sotto il Compromesso elisabettiano? Non sarebbe evidente che la mente dell'uomo era stata riempita di nient'altro che frenetiche esagerazioni, rozze semplificazioni, panacee provinciali e medicine ciarlatanesche e pura vaneggiante monomania, sin da quando si era staccata dalla civiltà centrale e dalla [[philosophy|filosofia]] che i Santi avevano tramandato dagli Antichi? Non gli interesserebbe scoprire che, per tutto il [[Time|tempo]], era stata scritta nei libri aperti di [[aquinas|Aquino]] o di Bellarmino o di Suárez una ripartizione perfettamente ragionevole dell'autorità dei principi, delle rivendicazioni dei popoli, delle possibilità della [[Democracy|democrazia]], dell'uso e dell'abuso della proprietà, e della retta funzione della [[Freedom|libertà]]?
+
+Trecento anni sentiti con tutto il loro peso, realmente misurati in [[Time|tempo]] ed esperienza, sopportati come un uomo effettivamente sopporta il passaggio dei suoi giorni, proverebbero che l'intera vicenda protestante è stata la più assurda e sproporzionata deviazione, o il più disordinato capitolo di accidenti, che mai si sia messo in cammino nella direzione sbagliata per tornare poi allo stesso luogo. Poiché in cento modi siamo tornati allo stesso luogo; perfino nel dettaglio di una reazione esagerata, come quella dell'Action Française, che rinnova l'appello assoluto al [[King|Re]]. E nulla è più divertente che notare il modo in cui coloro che si considerano i capi più avanzati, dei gruppi più moderni, già s'impennano e scalciano contro l'intera tendenza del progresso liberale e umanitario, che gli ultimi capi rivoluzionari avevano tracciato per loro. Nessuno è meno nello spirito di Walt Whitman di Wyndham Lewis o T. S. Eliot; nessuno è meno un vero erede di H. G. Wells di Aldous Huxley; nessuno è meno disposto a seguire i sentieri umanitari del signor Nevinson, l'avventuroso giornalista, di suo figlio, il signor Nevinson, il pittore futurista. Tutti costoro, della più recente scuola di ribelli, si ribellano contro la ribellione; ossia contro la Rivoluzione e tutta la sua eredità di libertà, uguaglianza e fraternità. Il signor Eliot, benché americano, è un dichiarato monarchico. Il signor Nevinson è divenuto un imperialista kiplinghiano assai feroce. Il signor Wyndham Lewis sembra preferire una Dittatura, nella misura in cui si possa dire che egli preferisca qualcosa. Tutta quest'ultima svolta della tortuosa [[Road|strada]] del progresso punta indietro verso ciò che da cent'anni abbiamo chiamato reazione. Essa è manifesta nei fascisti; negli hitleriani; e perfino nell'aperta anti-[[Democracy|democrazia]] dei bolscevichi.
+
+Ora, il grande pericolo del momento è che i giovani continuino ad accontentarsi di queste rivolte contro la rivolta, di queste reazioni contro le reazioni; sicché non abbiamo nient'altro che un eterno altalenare dei Vecchi Giovani e dei Nuovi Giovani; l'ultimo sempre pago del suo fugace trionfo sul penultimo. E l'unico modo per evitare questo esito è insegnare agli uomini a distendere la propria mente e ad abitare un periodo di [[Time|tempo]] più ampio. Si tratta di insistere non sul fatto che ora ci sentiamo inclini a dare rilievo a questo o a quello, per mera moda o mera stanchezza, ma sul fatto che esiste davvero da qualche parte un ragionevole disegno delle proporzioni delle cose, il quale, almeno nel suo tratto generale, è vero per tutto il [[Time|tempo]]. Nel momento in cui uomini così intelligenti come quelli che ho nominato cominceranno a rendersi conto che questo disegno permanente è necessario, si renderanno certamente conto che l'unico disegno esistente che abbia una qualche plausibile pretesa di somigliargli è il disegno della [[Faith|Fede]] cattolica. Per il momento, essi sembrano del tutto contenti di continuare la vecchia baruffa tra padri e figli; anche se i padri sono padri molto giovani, o i figli si appellano addirittura ai nonni contro di loro. Ma questa baruffa meramente moderna è dopo tutto locale, e perciò provinciale; non potrà mai saziare la sete che le persone pensanti hanno della realtà delle cose. Nondimeno, come ho affermato all'inizio, la grande difficoltà è se un uomo possa distendere la propria mente, o (come direbbero i moderni) possa allargare la propria mente, abbastanza da vedere la necessità di una Chiesa eterna.
+
+E tuttavia, sicuramente, questo è soltanto l'ultimo giro nella lunga corsa in cui l'antica [[Truth|verità]], così pesantemente svantaggiata, ha a una a una distanziato tutti i corridori che si vantavano della propria giovinezza o delle proprie posizioni di vantaggio. Se un uomo potesse impararlo per un processo di eliminazione, semplicemente vivendo attraverso gli ultimi trecento anni, imparerebbe la stessa lezione ancora più chiaramente vivendo attraverso i prossimi trecento anni. Per quel [[Time|tempo]] sarà più evidente che mai che questi scatti di novità non creano né un progresso né un equilibrio. I più recentissimi tra gli intellettuali hanno già imparato a non affidarsi al mero progresso, nel senso di un processo di mutamento; sanno già di avere talvolta più in comune con qualche antica autorità che con qualche ribellione meramente moderna. Alcuni di loro erigerebbero Dittatori per imporre l'obbedienza; sarebbe duro che non ci fosse concesso di obbedire volentieri, quando essi vorrebbero che gli uomini obbedissero perfino contro voglia. Essi erigerebbero un'autorità violenta nelle mani di individui; ben poco possono lamentarsi se noi riconosciamo un'autorità meramente morale in un ufficio meramente mistico. Poiché quell'ufficio mistico contiene tutte le libertà e tutte le filosofie, e giudica soltanto del loro giusto equilibrio e della loro giusta proporzione; e ogni altra cosa che i moderni chiamano un movimento non fa che assicurare a una monomania la breve vita di una setta.
 
 -/-
 
@@ -14290,6 +12552,135 @@ In secondo luogo, disprezzo il Controllo delle Nascite perché è una cosa debol
 Ma vi è una terza ragione per il mio disprezzo, assai più profonda e perciò assai più difficile da esprimere; in cui affondano le radici tutte le mie ragioni per essere qualunque cosa io sia o cerchi di essere; e soprattutto per essere un Distributista. Forse ciò che più si avvicina a descriverla è dire questo: che il mio disprezzo trabocca in cattive maniere quando odo la comune insinuazione che si eviti una nascita perché si vuole essere «liberi» di andare al cinema o di comprare un grammofono o un altoparlante. Ciò che mi fa venir voglia di calpestare simili persone come zerbini è che usano la parola «libero». Con ogni atto di quella sorta si incatenano al sistema più servile e meccanico finora tollerato dagli uomini. Il cinema è una [[Machine|macchina]] per srotolare certi disegni regolari chiamati immagini; che esprimono la più volgare idea dei milionari intorno al gusto dei più volgari milioni. Il grammofono è una [[Machine|macchina]] per registrare quelle arie che certi negozi e altre organizzazioni scelgono di vendere. La radio è meglio; ma persino essa è segnata dal marchio moderno di tutte e tre: l'impotenza della parte ricevente. Il dilettante non può sfidare l'attore; il padrone di casa troverà vano andare a gridare dentro il grammofono; la folla non può prendere a sassate l'oratore moderno, specie quando è un altoparlante. È tutto un meccanismo centrale che dispensa agli uomini esattamente ciò che i loro padroni pensano essi debbano avere.
 
 Ora, un [[Child|bambino]] è il segno e il sacramento stesso della [[Freedom|libertà]] personale. Egli è una nuova volontà libera aggiunta alle volontà del mondo; è qualcosa che i suoi genitori hanno liberamente scelto di produrre e che liberamente convengono di proteggere. Possono sentire che ogni divertimento che egli offre (spesso considerevole) proviene davvero da lui e da loro, e da nessun altro. È venuto al mondo senza l'intervento di alcun padrone o signore. È una creazione e un contributo; è il loro proprio contributo creativo alla creazione. È inoltre una cosa assai più bella, meravigliosa, divertente e stupefacente di qualsiasi vieta storiella o strimpellante aria di jazz sfornata dalle macchine. Quando gli uomini non sentono più che sia così, hanno perduto l'apprezzamento delle cose primarie, e quindi ogni senso della proporzione riguardo al mondo. Le persone che preferiscono i piaceri meccanici a un simile miracolo sono spossate e asservite. Preferiscono le vere fecce della vita alle prime fonti della vita. Preferiscono le ultime cose, storte, indirette, prese in prestito, ripetute ed esauste della nostra morente civiltà capitalista, alla realtà che è l'unico ringiovanimento di ogni civiltà. Sono loro che stringono a sé le [[Chains|catene]] della loro vecchia [[Slavery|schiavitù]]; è il [[Child|bambino]] a essere pronto per il mondo nuovo.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_21_three_foes_of_the_family" data-title="Well And Shallows — Three Foes Of The Family" data-chapter="Three Foes Of The Family" data-kind="story"></span>
+
+
+THREE FOES OF THE FAMILY
+
+IT was certainly a very brilliant [[Lightning|lightning]]-flash of irony
+by which Mr. Aldous Huxley lit up the whole loathsome landscape
+of his satirical Utopia, of synthetic humanity and manufactured men
+and women, by the old romantic quotation of "Brave New World".
+The quotation comes, of course, from that supreme moment of the [[Magic|magic]]
+of youth, nourished by the [[Magic|magic]] of old age, when [[Miranda]] the marvellous
+becomes [[Miranda]] the marvelling, at the unique [[Wonder|wonder]] of first [[Love|love]].
+To use it for the very motto of a system which, having lost all [[innocence]],
+would necessarily lose all [[Wonder|wonder]], was a touch of very withering wit.
+And yet it will be [[Well|well]] to remember that, in comparison with some
+other worlds, where the same work is done more weakly and quite
+as wickedly, the Utopia of the extremists really has something of
+the intellectual integrity which belongs to extremes, even of [[Madness|madness]].
+In that sense the two ironical adjectives are not merely ironical.
+The horrible human, or inhuman, hive described in Mr. Huxley's
+[[Romance|romance]] is certainly a base world, and a filthy world, and a
+fundamentally unhappy world.  But it is in one sense a new world;
+and it is in one sense a brave world.  At least a certain amount
+of bravery, as [[Well|well]] as brutality, would have to be shown before
+anything of the sort could be established in the world of fact.
+It would need some [[Courage|courage]], and even some [[Self-Sacrifice|self-sacrifice]], to establish
+anything so utterly disgusting as that.
+
+But the same work is being done in other worlds that
+are not particularly new, and not in the least brave.
+There are people of another sort, much more common and conventional,
+who are not only working to create such a paradise of cowardice,
+but who actually try to work for it through a conspiracy of cowards.
+The attitude of these people towards the Family and the tradition
+of its Christian virtues is the attitude of men willing to wound
+and yet afraid to strike; or ready to sap and mine so long
+as they are not called upon to [[Fire|fire]] or fight in the open.
+And those who do this cover much more than half, or nearly two-thirds,
+of the people who write in the most respectable and conventional
+Capitalist newspapers.  It cannot be too often repeated that
+what destroyed the Family in the modern world was Capitalism.
+No [[Doubt|doubt]] it might have been Communism, if Communism had ever
+had a chance, outside that semi-Mongolian wilderness where it
+actually flourishes.  But, so far as we are concerned,
+what has broken up households and encouraged divorces,
+and treated the old domestic virtues with more and more
+open contempt, is the epoch and Power of Capitalism.
+It is Capitalism that has forced a moral feud and a commercial
+competition between the sexes; that has destroyed the influence
+of the parent in favour of the influence of the employer;
+that has driven men from their homes to look for jobs;
+that has forced them to live near their factories or their
+firms instead of near their families; and, above all,
+that has encouraged, for commercial reasons, a parade of publicity
+and garish novelty, which is in its [[Nature|nature]] the [[Death|death]] of all
+that was called dignity and modesty by our mothers and fathers.
+It is not the Bolshevist but the Boss, the publicity man,
+the salesman and the commercial advertiser who have, like a rush
+and riot of barbarians, thrown down and trampled under foot
+the ancient Roman statue of Verecundia.  But because the thing
+is done by men of this sort, of course it is done in their
+own muggy and muddle-headed way; by all the irresponsible
+tricks of their foul Suggestion and their filthy Psychology.
+It is done, for instance, by perpetually guying the old Victorian
+virtues or limitations which, as they are no longer there,
+are not likely to retaliate.  It is done more by pictures than
+by printed words; because printed words are supposed to make
+a some sense and a man may be answerable for printing a them.
+Stiff and hideous effigies of women in crinolines or bonnets
+are paraded, as if that could possibly be all there was to see
+when Maud came into the [[Garden|garden]], and was saluted by such a [[Song|song]].
+Fortunately, Maud's friends, who would have challenged
+the pressman and photographer to a duel, are all dead;
+and these satirists of Victorianism are very careful to find
+out that all their enemies are dead.  Some of their bold
+caricaturists have been known to charge an old-fashioned
+bathing-[[Machine|machine]] as courageously as if it were a [[Machine|machine]]-gun.
+It is convenient thus courageously to attack bathing-machines,
+because there are no bathing-machines to attack.
+Then they balance these things by photographs of the Modern Girl
+at various stages of the nudist movement; and trust that
+any thing so obviously vulgar is bound to be popular.
+For the rest, the Modern Girl is floated on a sea of
+sentimental sloppiness; a continuous gush about her frankness
+and freshness, the perfect naturalness of her painting her
+face or the unprecedented [[Courage|courage]] of her having no children.
+The whole is diluted with a dreary hypocrisy about [[Comradeship|comradeship]],
+far more sentimental than the old-fashioned sentiment.
+When I see the Family sinking in these swamps of amorphous
+amorous futility, I feel inclined to say, "Give me the Communists."
+Better Bolshevist battles and the Brave New World than the ancient
+[[house]] of man rotted away silently by such worms of secret sensuality
+and individual appetite.  "The coward does it with a kiss;
+the brave man with a [[Sword|sword]]."
+
+But there is, curiously enough, a third thing of the kind, which I am
+really inclined to think that I dislike even more than the other two.
+It is not the Communist attacking the family or the Capitalist
+betraying the family; it is the vast and very astonishing vision
+of the Hitlerite defending the family.  Hitler's way of defending
+the independence of the family is to make every family dependent
+on him and his semi-Socialist State; and to preserve the authority
+of parents by authoritatively telling all the parents what to do.
+His notion of keeping sacred the dignity of domestic life is to issue
+peremptory orders that the grandfather is to get up at five in the morning
+and do dumb-bell exercises, or the grand mother to march twenty miles
+to a camp to procure a Swastika [[Flag|flag]].  In other words, he appears
+to interfere with family life more even than the Bolshevists do;
+and to do it in the name of the sacredness of the family.
+It is not much more encouraging than the other two social manifestations;
+but at least it is more entertaining.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+TRE NEMICI DELLA FAMIGLIA
+
+Fu certamente un brillantissimo [[Lightning|lampo]] d'ironia quello con cui il signor Aldous Huxley illuminò l'intero ripugnante paesaggio della sua Utopia satirica, fatta di umanità sintetica e di uomini e donne fabbricati, con l'antica citazione romantica di «Brave New World». La citazione proviene, naturalmente, da quel momento supremo della [[Magic|magia]] della giovinezza, nutrita dalla [[Magic|magia]] della vecchiaia, quando [[Miranda]] la meravigliosa diventa [[Miranda]] la meravigliata, dinanzi all'unica [[Wonder|meraviglia]] del primo [[Love|amore]]. Usarla come motto stesso di un sistema che, avendo perduto ogni [[innocence|innocenza]], perderebbe necessariamente ogni [[Wonder|meraviglia]], fu un tocco di arguzia assai fulminante. E tuttavia sarà [[Well|bene]] ricordare che, in confronto ad altri mondi, dove la medesima opera è compiuta più debolmente e altrettanto malvagiamente, l'Utopia degli estremisti possiede realmente qualcosa dell'integrità intellettuale che appartiene agli estremi, perfino a quelli della [[Madness|follia]]. In tal senso i due aggettivi ironici non sono soltanto ironici. L'orribile alveare umano, o disumano, descritto nel [[Romance|romanzo]] del signor Huxley è certamente un mondo abietto, un mondo lurido e un mondo fondamentalmente infelice. Ma in un certo senso è un mondo nuovo; e in un certo senso è un mondo coraggioso. Quantomeno un certo grado di coraggio, [[Well|oltre]] che di brutalità, dovrebbe essere dimostrato prima che qualcosa del genere potesse instaurarsi nel mondo dei fatti. Occorrerebbe un po' di [[Courage|coraggio]], e perfino un po' di [[Self-Sacrifice|sacrificio di sé]], per instaurare qualcosa di tanto assolutamente disgustoso.
+
+Ma la medesima opera viene compiuta in altri mondi che non sono particolarmente nuovi, né minimamente coraggiosi. Vi è gente di un'altra specie, assai più comune e convenzionale, che non solo si adopera per creare un simile paradiso di viltà, ma cerca effettivamente di realizzarlo mediante una congiura di codardi. L'atteggiamento di costoro verso la Famiglia e la tradizione delle sue virtù cristiane è quello di uomini disposti a ferire eppure timorosi di colpire; o pronti a scavare mine e trincee finché non siano chiamati a [[Fire|sparare]] o a combattere allo scoperto. E coloro che fanno questo costituiscono ben più della metà, o quasi i due terzi, di quanti scrivono sui più rispettabili e convenzionali giornali capitalisti. Non si ripeterà mai abbastanza che ciò che distrusse la Famiglia nel mondo moderno fu il Capitalismo. Senza [[Doubt|dubbio]] avrebbe potuto essere il Comunismo, se il Comunismo avesse mai avuto un'occasione, fuori da quella landa semi-mongola dove effettivamente prospera. Ma, per quanto ci riguarda, ciò che ha disgregato i focolari e incoraggiato i divorzi, e trattato le antiche virtù domestiche con disprezzo sempre più aperto, è l'epoca e la Potenza del Capitalismo. È il Capitalismo ad aver imposto una faida morale e una concorrenza commerciale tra i sessi; ad aver distrutto l'influenza del genitore a favore dell'influenza del datore di lavoro; ad aver cacciato gli uomini dalle loro case in cerca di lavoro; ad averli costretti a vivere presso le loro fabbriche o le loro ditte anziché presso le loro famiglie; e, soprattutto, ad aver incoraggiato, per ragioni commerciali, una sfilata di pubblicità e di sgargiante novità, che è per sua [[Nature|natura]] la [[Death|morte]] di tutto ciò che le nostre madri e i nostri padri chiamavano dignità e pudore. Non è il bolscevico ma il Padrone, l'uomo della pubblicità, il venditore e il pubblicitario commerciale ad avere, come un'ondata tumultuosa di barbari, abbattuto e calpestato l'antica statua romana della Verecundia. Ma poiché la cosa è compiuta da uomini di questa risma, naturalmente è compiuta a modo loro, afoso e confuso; con tutti gli espedienti irresponsabili della loro turpe Suggestione e della loro lurida Psicologia. La si compie, per esempio, mettendo perpetuamente in ridicolo le antiche virtù o limitazioni vittoriane che, non essendo più presenti, difficilmente potranno reagire. La si compie più con le immagini che con le parole stampate; perché si suppone che le parole stampate abbiano un qualche senso e che un uomo possa esser chiamato a rispondere di averle stampate. Si esibiscono rigide e orride effigi di donne in crinolina o in cuffia, come se quello potesse mai essere tutto ciò che v'era da vedere quando Maud entrava nel [[Garden|giardino]], ed era salutata da un tal [[Song|canto]]. Per fortuna, gli amici di Maud, che avrebbero sfidato a duello il giornalista e il fotografo, sono tutti morti; e questi satirici del vittorianesimo hanno gran cura di accertarsi che tutti i loro nemici siano morti. Si è saputo di certi loro arditi caricaturisti che hanno caricato una [[Machine|macchina]] da bagno all'antica con lo stesso coraggio con cui avrebbero assalito una [[Machine|mitragliatrice]]. È comodo attaccare così coraggiosamente le macchine da bagno, perché non vi sono macchine da bagno da attaccare. Poi bilanciano queste cose con fotografie della Ragazza Moderna a vari stadi del movimento nudista; e confidano che qualcosa di così palesemente volgare non possa che essere popolare. Per il resto, la Ragazza Moderna è tenuta a galla su un mare di sdolcinatezza sentimentale; un continuo profluvio sulla sua franchezza e freschezza, sulla perfetta naturalezza del suo dipingersi il volto o sull'inaudito [[Courage|coraggio]] del suo non aver figli. Il tutto è diluito con una tetra ipocrisia sul [[Comradeship|cameratismo]], assai più sentimentale del sentimento all'antica. Quando vedo la Famiglia sprofondare in queste paludi di amorfa e amorosa futilità, mi sento incline a dire: «Datemi i Comunisti». Meglio le battaglie bolsceviche e il Mondo Nuovo che l'antica [[house|casa]] dell'uomo corrosa silenziosamente da simili vermi di segreta sensualità e di appetito individuale. «Il codardo lo fa con un bacio; l'uomo coraggioso con una [[Sword|spada]]».
+
+Ma vi è, per quanto curioso, una terza cosa del genere, che sono davvero incline a credere di detestare persino più delle altre due. Non è il Comunista che attacca la famiglia né il Capitalista che tradisce la famiglia; è la vasta e sbalorditiva visione dell'Hitleriano che difende la famiglia. Il modo di Hitler di difendere l'indipendenza della famiglia consiste nel rendere ogni famiglia dipendente da lui e dal suo Stato semi-socialista; e nel preservare l'autorità dei genitori dicendo autoritariamente a tutti i genitori che cosa devono fare. La sua idea di mantenere sacra la dignità della vita domestica è di emanare ordini perentori che il nonno debba alzarsi alle cinque del mattino e fare esercizi con i manubri, o la nonna marciare per venti miglia fino a un campo per procurarsi una [[Flag|bandiera]] con la svastica. In altre parole, egli sembra interferire nella vita familiare ancor più di quanto facciano i bolscevichi; e farlo nel nome della sacralità della famiglia. Non è molto più incoraggiante delle altre due manifestazioni sociali; ma almeno è più divertente.
 
 -/-
 
@@ -14644,6 +13035,125 @@ Naturalmente possiamo sempre cominciare adoperando il primitivo strumento della 
 Mentre il mondo è andato parlando di rimuovere i tabù vittoriani, io ero risoluto fin dal principio a rimuovere quell'unico tabù vittoriano; che era davvero un tabù insensato e soffocante: il tabù sull'argomento della religione vera, e del suo posto reale e inevitabile nella vita pratica. La maggior parte delle cose che i Moderni chiamano tabù vittoriani sono vittoriane press'a poco quanto i Dieci Comandamenti o le massime di Confucio. Ma questo era davvero vittoriano, nel senso di essere sorto di recente in un sistema sociale volgare, commerciale e codardo. Non è l'idea che sia giusto o sbagliato essere musulmano; è l'idea che non possa davvero importare nemmeno a un musulmano di essere musulmano. Ciò che è totalmente intollerabile è l'idea che tutti debbano fingere, per amore della pace e del decoro, che l'ispirazione morale provenga soltanto da cose secolari come il [[Distributism|Distributismo]], e non possa in alcun modo provenire da cose spirituali come il cattolicesimo. Questa è l'idea fissa simile a un fossile che giace sotto tutti i labirintici involucri o le spire di convenzioni contraddittorie, nella mente del recensore le cui parole cito.
 
 Non ha nulla a che vedere con ciò che egli chiamerebbe essere religiosi; o con l'imporre la religione a lui o a chiunque altro. Nessun cattolico si crede un buon cattolico; o, con quel pensiero, diverrebbe un cattivo cattolico. Io, per parte mia, non sono nemmeno tentato da alcuna illusione in tale materia; [[Fear|temo]] che molto spesso, quando mi sono alzato presto per andare a Messa, abbia detto con un gemito: Tantum religio potuit suadere malorum, il che, posso spiegarlo al musulmano, non è una citazione dalla Messa. Ma il critico qui in questione non dice, alla grande maniera lucreziana: «La religione [[Alone|sola]] può persuadere gli uomini a simili mali». Egli dice: «La religione [[Alone|sola]] non può in realtà aver persuaso nessuno a nulla». Egli rappresenta uno stupido intermezzo della [[history|storia]] intellettuale, in cui gli uomini non volevano riconoscere la religione né come amica né come nemica, e che supponeva che un grande uomo dovesse essere grande non solo a dispetto di essa, ma persino senza alcun riferimento ad essa. Quell'intermezzo intellettuale non fu mai molto intellettuale; e comunque, è finito.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_23_the_church_and_agoraphobia" data-title="Well And Shallows — The Church And Agoraphobia" data-chapter="The Church And Agoraphobia" data-kind="story"></span>
+
+
+THE CHURCH AND AGORAPHOBIA
+
+THE erection of a great [[Cathedral|cathedral]] in a great [[City|city]], and especially
+in a great port, that is a [[City|city]] that is also a wide gate of
+the world, recalls certain truths that are curiously forgotten,
+or sometimes still more astonishingly contradicted or reversed.
+Before we come to count the million mistakes and
+misunderstandings which separate men from the [[Catholic Church]],
+there is one enormous and elementary mistake, which has
+to do with this question of scale and position in the world.
+To put it shortly; the man who fears to enter the Church commonly
+fancies that what he feels is a sort of claustrophobia.
+As a fact, what he really feels, is rather a sort of agoraphobia.
+Some silly little historical accidents, almost entirely peculiar
+to the particular way in which Catholicism survived in England,
+have given many Englishmen an extraordinary notion that it
+is a sort of hole and corner affair.  These honest Protestants,
+like the imaginary nuns in the impossible romances, walk about
+in perpetual [[Fear|fear]] of being "walled up."  For them the typical
+Catholic act is not going into a great thing like a church,
+but into a small thing like a confessional box.  And to their
+[[nightmare]] fancy a confessional box is a sort of man-trap; and presents
+in its very appearance some combination of a coffin and a cage.
+The same notion is reinforced by the use of the word "cells,"
+which in a Protestant community means [[Prison|prison]]-cells, and not
+monastic cells.  The same is suggested by the word "crypt,"
+about which there must obviously be something cryptic.
+These and many other tags of tradition have preserved in this
+country the custom of talking as if the danger of being
+a Catholic was the danger of being buried in a deep dark hole.
+And yet even the tradition was, not only a legend, but very
+nearly a pretence.  Even the man who said these things knew
+in his heart, or at least had a vague knowledge at the back
+of his mind, that his [[Fear|fear]] was really a [[Fear|fear]] of something larger
+than himself and his tribal traditions; that he was really,
+as it was sometimes stated from both points of view,
+leaving a national for an international church.  As I have said,
+it was not claustrophobia, the [[Fear|fear]] of the crypt or the cell;
+it was agoraphobia, or the [[Fear|fear]] of the forum, of the market-place,
+of the open spaces and the colossal public buildings.
+To the really insular and individualistic type of sectarian,
+even the [[Fear|fear]] of the Church was also partly a [[Fear|fear]] of the world.
+It can be seen in the terror which some of the English Tories,
+in the old times, felt towards the cosmopolitan culture of the Jesuits;
+who honestly seemed to them a sort of universal anarchists.
+It can be seen in the exaggerated revulsion from the very
+varied experiments, failures and successes of the Baroque.
+Of nearly all the non-Catholic types of our [[Time|time]] we can truly say,
+that any such type must broaden his mind to become a Catholic.
+He must grow more used than he is at present to the long avenues
+and the large spaces.  This is really what is meant by the Puritans
+who say that the Church is Pagan; that it does open a very long avenue,
+which is the only avenue left connecting us with Pagan antiquity.
+That is largely what is meant by insisting that the Church
+covers all sorts of dubious or disreputable people;
+all the motley mobs of tramps and pedlars and beggars, who do make
+up the life of an open market-place. Quicquid agunt homines;
+which even Matthew Arnold wisely saw was the true motto
+of the practical life of the Roman [[Catholic Church]].
+
+Now a great deal has been said by Protestants, naturally enough,
+and not a little even by Catholics, about the danger of displaying
+before the world a pomp and triumph that may easily be called worldly.
+Undoubtedly some harm was done, and some misunderstandings did arise,
+when the Popes of the [[Renaissance]] filled Rome with trophies that might
+have marked the triumphs of the Caesars, and permitted the slander
+that the father of Christian man had usurped the title of [[King]]
+of Kings and forgotten his own actual title of Servant of Servants.
+But, taking human [[Nature|nature]] as a whole, the method is justified; because it
+is some sort of proclamation of the profound [[Truth|truth]] mentioned above;
+that the [[Faith]] belongs to the heights and the open spaces,
+and the circle of the whole world, and is not the one thing
+which its enemies go on desperately calling it; a conspiracy.
+There could not be a better way of suggesting the very reverse
+of that suggestion, than by the continual use in public
+buildings of what is large in design and hospitable in gesture.
+Art, and especially architecture, can here express actualities
+that are at once too large and too elusive to be expressed in words.
+St. Mark's [[Cathedral]] at [[Venice]] is in some ways a very curious building,
+and to some northern eyes does not look like a [[Cathedral|cathedral]] at all;
+but it does look like a thing coloured with the sunrise and the sunset,
+in touch with the very ends of the earth; open like a harbour and full
+of popular poetry like a fairy-palace. That is, it does express
+the first essential fact that Catholicism is not a narrow thing;
+that it knows more than the world knows about the potentialities
+and creative possibilities of the world, and that it will outlast
+all the worldly and temporary expressions of the same culture.
+[[Christianity]] has gone northward and established richer ports
+in colder seas; it has been changed and chilled for a [[Time|time]]
+by colder heresies; but the same principle still stands for its
+expansion and exaltation; that which is expressed in the expansion
+and exaltation of great buildings; in the breadth of great gates
+declaring the brotherhood of men or the lifting of great domes pointing
+the way of their destiny.  To-day another such building is being reared
+in what Mr. Belloc's fantasy once called a Harbour in the North;
+and its scope and scale would indeed be idle things, if they did
+not remind us of the two essential truths:  first, that even within
+the world the boundaries of the [[Faith]] are being enlarged; and second,
+and much more important, that the [[Faith]] itself enlarges the world;
+which would be a small thing without it.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LA CHIESA E L'AGORAFOBIA
+
+L'erezione di una grande [[Cathedral|cattedrale]] in una grande [[City|città]], e specialmente in un grande porto, cioè una [[City|città]] che è anche un'ampia porta del mondo, richiama alla mente certe verità curiosamente dimenticate, o talvolta, in modo ancora più stupefacente, contraddette o rovesciate. Prima di giungere a contare il milione di errori e di malintesi che separano gli uomini dalla [[Catholic Church|Chiesa cattolica]], vi è un errore enorme ed elementare, che ha a che fare con questa questione di scala e di posizione nel mondo. Per dirla in breve: l'uomo che teme di entrare nella Chiesa immagina comunemente che ciò che prova sia una sorta di claustrofobia. In realtà, ciò che egli prova davvero è piuttosto una sorta di agorafobia. Alcuni piccoli e sciocchi accidenti storici, quasi interamente peculiari al modo particolare in cui il cattolicesimo sopravvisse in Inghilterra, hanno dato a molti inglesi la straordinaria idea che esso sia una sorta di faccenda clandestina e rintanata. Questi onesti protestanti, come le monache immaginarie degli impossibili romanzi, se ne vanno in giro nel perpetuo [[Fear|timore]] di essere «murati vivi». Per loro l'atto cattolico tipico non è entrare in qualcosa di grande come una chiesa, bensì in qualcosa di piccolo come un confessionale. E alla loro fantasia da [[nightmare|incubo]] un confessionale è una sorta di trappola per uomini; e presenta nel suo stesso aspetto una qualche combinazione di bara e di gabbia. La medesima idea è rafforzata dall'uso della parola «celle», che in una comunità protestante significa celle di [[Prison|prigione]], e non celle monastiche. Lo stesso è suggerito dalla parola «cripta», intorno alla quale deve ovviamente esservi qualcosa di criptico. Questi e molti altri stralci di tradizione hanno conservato in questo paese l'abitudine di parlare come se il pericolo di essere cattolico fosse il pericolo di essere sepolto in una fossa profonda e oscura. E tuttavia perfino la tradizione era non solo una leggenda, ma quasi una finzione. Perfino l'uomo che diceva queste cose sapeva in cuor suo, o almeno aveva una vaga consapevolezza in fondo alla mente, che il suo [[Fear|timore]] era in realtà un [[Fear|timore]] di qualcosa di più grande di lui e delle sue tradizioni tribali; che egli stava in realtà, come talvolta si affermava da entrambi i punti di vista, lasciando una chiesa nazionale per una internazionale. Come ho detto, non era claustrofobia, il [[Fear|timore]] della cripta o della cella; era agorafobia, ovvero il [[Fear|timore]] del foro, della piazza del mercato, degli spazi aperti e dei colossali edifici pubblici. Per il tipo di settario davvero insulare e individualista, perfino il [[Fear|timore]] della Chiesa era anche in parte un [[Fear|timore]] del mondo. Lo si può vedere nel terrore che alcuni dei Tory inglesi, nei tempi antichi, provavano verso la cultura cosmopolita dei gesuiti; i quali sinceramente sembravano loro una sorta di anarchici universali. Lo si può vedere nell'esagerata repulsione verso i variatissimi esperimenti, fallimenti e successi del Barocco. Di quasi tutti i tipi non cattolici del nostro [[Time|tempo]] possiamo dire con verità che qualsiasi tipo simile deve allargare la propria mente per divenire cattolico. Deve abituarsi più di quanto lo sia attualmente ai lunghi viali e ai grandi spazi. È questo in realtà ciò che intendono i puritani quando dicono che la Chiesa è pagana; che essa apre un viale assai lungo, il quale è l'unico viale rimasto che ci colleghi con l'antichità pagana. È in gran parte ciò che si intende insistendo sul fatto che la Chiesa accoglie ogni sorta di gente dubbia o malfamata; tutte le variopinte folle di vagabondi e ambulanti e mendicanti, che compongono la vita di una piazza di mercato aperta. Quicquid agunt homines; che perfino Matthew Arnold saggiamente vide essere il vero motto della vita pratica della [[Catholic Church|Chiesa cattolica]] romana.
+
+Ora molto è stato detto dai protestanti, com'è naturale, e non poco perfino dai cattolici, circa il pericolo di ostentare davanti al mondo una pompa e un trionfo che facilmente possono essere definiti mondani. Indubbiamente qualche danno fu fatto, e sorsero alcuni malintesi, quando i papi del [[Renaissance|Rinascimento]] riempirono Roma di trofei che avrebbero potuto contrassegnare i trionfi dei Cesari, e permisero la calunnia secondo cui il padre dell'uomo cristiano avesse usurpato il titolo di [[King|Re]] dei Re e dimenticato il proprio effettivo titolo di Servo dei Servi. Ma, considerando la [[Nature|natura]] umana nel suo insieme, il metodo è giustificato; perché è una sorta di proclamazione della profonda [[Truth|verità]] menzionata sopra; che la [[Faith|Fede]] appartiene alle altezze e agli spazi aperti, e al cerchio del mondo intero, e non è quell'unica cosa che i suoi nemici continuano disperatamente a chiamarla: una cospirazione. Non potrebbe esservi modo migliore di suggerire l'esatto contrario di quel suggerimento, che l'uso continuo, negli edifici pubblici, di ciò che è ampio nel disegno e ospitale nel gesto. L'arte, e specialmente l'architettura, può qui esprimere realtà che sono al contempo troppo vaste e troppo sfuggenti per essere espresse a parole. La [[Cathedral|Cattedrale]] di San Marco a [[Venice|Venezia]] è per certi versi un edificio assai curioso, e a certi occhi nordici non sembra affatto una [[Cathedral|cattedrale]]; ma sembra proprio una cosa colorata dall'alba e dal tramonto, in contatto con i confini estremi della terra; aperta come un porto e colma di poesia popolare come un palazzo delle fate. Cioè, essa esprime il primo fatto essenziale, che il cattolicesimo non è una cosa angusta; che esso sa più di quanto il mondo sappia riguardo alle potenzialità e alle possibilità creative del mondo, e che sopravvivrà a tutte le espressioni mondane e temporanee della medesima cultura. Il [[Christianity|cristianesimo]] è andato verso nord e ha stabilito porti più ricchi in mari più freddi; è stato mutato e raffreddato per un [[Time|tempo]] da eresie più fredde; ma il medesimo principio vale ancora per la sua espansione ed esaltazione; ciò che si esprime nell'espansione ed esaltazione dei grandi edifici; nell'ampiezza di grandi portali che proclamano la fratellanza degli uomini o nell'innalzamento di grandi cupole che indicano la via del loro destino. Oggi un altro edificio simile viene innalzato in quello che la fantasia del signor Belloc chiamò un tempo un Porto nel Nord; e la sua portata e la sua scala sarebbero davvero cose vane, se non ci rammentassero le due verità essenziali: primo, che perfino entro il mondo i confini della [[Faith|Fede]] vengono ampliati; e secondo, e assai più importante, che la [[Faith|Fede]] stessa amplia il mondo; il quale senza di essa sarebbe cosa piccola.
 
 -/-
 
@@ -15565,6 +14075,145 @@ Vi è, per esempio, un influsso che si fa più forte ogni giorno, mai menzionato
 
 
 
+<span class="atom-split" data-atom="story_26_trade_terms" data-title="Well And Shallows — Trade Terms" data-chapter="Trade Terms" data-kind="story"></span>
+
+
+TRADE TERMS
+
+IT is grimly significant that the Organ of Empire has already begun
+to call its Imperial policy by the cheerful name of "The Empire Merger."
+The sort of combine, which all free peoples have punished as a conspiracy,
+is now so fashionable that it is considered quite a compliment
+to apply this commercial term instead of a political title.
+Courtiers in the future, instead of saying "Your Majesty"
+will say "Your Monopoly"; especially when addressing Moritz IV,
+of the historic [[house|House]] of Mond, by that [[Time|time]] Emperor of the World State.
+But indeed we rather [[Doubt|doubt]] whether there will be even so much
+dignity as this in such a despotism as that.  The man who prefers
+to say, "Imperial Merger" rather than Imperial Protection or
+Imperial Free Trade, is already in this curious modern mood which
+actually thinks mercantile terms higher than moral or social ones.
+The whole system of a great nation will be remodelled on
+the habits of a big business.  The national envoy in [[Paris]],
+instead of being called, "His Excellency the British Ambassador,"
+will be called "Our Mr. Honey-bubble," and he will travel with
+samples and be proud of being called a commercial traveller.
+The monopolist newspapers never weary of telling us that the world
+ought to have outgrown the stilted and pompous language of the old
+Protocols and Ultimatums, and all the formal statements of the
+treaties which have so often been denounced as Secret Diplomacy.
+Doubtless the great statesmen of the great states, the heirs
+of Richelieu and Canning, will correspond in a brighter and
+brisker English, running "Yrs. rcd.  and conts:  noted," when indeed
+it is necessary to put the arrangements into writing at all.
+After all, it will be even more business-like to make the international
+arrangements in a husky and confidential voice, in the intervals
+of observing "What's yours?" and "Say when."  That is the great
+advantage of the New Diplomacy over the old Secret Diplomacy.
+The old was so very secret as to write down all its [[Secrets|secrets]]
+in laborious documents and send them round to about fifty people
+in [[government|Government]] offices.  The New Diplomacy need never be written
+down at all; indeed, it is better not.
+
+We are prepared, of course, to be told that all this ugly and
+undignified school of manners is very practical, and that the old
+stately or stilted school of manners was very unpractical.
+After all, the old theory of dignity did only trivial
+and incidental things, such as creating the Roman Empire,
+creating the French Monarchy and the [[French Revolution]],
+founding the American Republic and establishing by
+personal adventure that very Empire, which our hustlers
+and hucksters can only help by impersonal advertisement.
+These are slight achievements compared with that of insuring
+that the same bad ginger-beer shall be sold everywhere,
+to the exclusion and extinction of good ginger-beer, or that
+over some thousand square miles of God's green earth nobody
+shall have anything but one kind of hat or one kind of [[house]].
+But though these arguments are undoubtedly cogent and persuasive,
+and bear a certain appearance of practicality and realism, we are
+disposed to supplement them by a suggestion or reminder; the hint
+of something which even thinkers so lucid seem to have overlooked.
+Nowadays, it is considered very horrible to mention it;
+and it is indeed very horrible to test it or experience it.
+Nevertheless, it is a thing that may be tested or experienced;
+and, even to be avoided, had much better be mentioned.
+
+Authority ruling men must be respected; it must even be loved.
+Men must in the last resort [[Love|love]] it; for the simple reason that men
+must in the last resort die for it.  No community or constitution can
+survive and retain its [[Identity|identity]] at all, that has not in the minds
+of its subjects enough of an ideal [[Identity|identity]], to appear to them
+in certain extremes of peril as the vision of something to be saved.
+It is on that ideal, inhering in the reality, that every state
+will depend when there is a struggle of life and [[Death|death]].
+Men must feel something more about England than that she
+is commercial, something more about France than that Frenchmen
+are practical and careful about money, something more about [[America]]
+than that she happens at the moment to be monstrously rich[1],
+before any healthy and humorous human being will kill somebody else
+or be killed himself, and go out from the sunlight and the sane
+loves of this world, for the sake of any such abstraction.
+It will be found, therefore, that the practical theory fails
+at the most practical moment.  It is useful while there is
+question of whether the commonwealth shall continue to be rich,
+or continue to be imperial, or continue to be monopolist.
+It is useless when there is question of whether the commonwealth
+shall continue to be.  The materialistic state, cemented only
+with money as with mud, will fall apart under the blow of any
+people who have [[Love|love]] or loyalty to their leaders or their cause;
+for the simple reason that those who care most for money care
+more for life.  One may like or dislike the Fascism of [[Italy]],
+the fiery nationalism of the Poles, the deep Catholicism of the Irish;
+but there is no [[Doubt|doubt]] that their ideals can be idealised.
+They are conceptions for which real men can be worked up into a real
+rapture of sacrifice.  The images under which they are presented
+to the world, and especially the world of their worshippers,
+the golden or the silver eagle, the breastplate of St. Patrick,
+the Roman salute, are things that do in fact lift up the heart,
+and were made by the mind so that they should uplift the heart.
+In short there is in them poetry; and that poetry is the most
+practical thing in the world.
+
+[1] But easier to die for, now she is poor.
+
+Now if the new Imperialists insist on talking of everything
+in terms of the counter and the commercial room, if they insist
+on calling Imperial Preference a Merger, as Lord Beaverbrook did,
+if they insist on comparing a General Election to a Company Flotation,
+as Mr. Amery did, they will make men familiar indeed with
+their [[government]], and in a sense at [[Home|home]] with it, but no more
+capable of loving it than of loving any unlucky investment.
+The [[Time|time]] will come when its existence will depend on its
+power on the [[Imagination|imagination]]; and it will be dignity or [[Death|death]].
+Nor will that dignity come solely from an Imperial Isolation;
+which seems merely to mean, "How we may think in continents
+without thinking of the Continents."
+
+-----
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+TERMINI COMMERCIALI
+
+È cupamente significativo che l'Organo dell'Impero abbia già cominciato a chiamare la propria politica imperiale con l'allegro nome di «Fusione dell'Impero». Il genere di combine che tutti i popoli liberi hanno punito come una cospirazione è oggi tanto di moda che si ritiene addirittura un complimento applicare questo termine commerciale invece di un titolo politico. In futuro i cortigiani, anziché dire «Vostra Maestà», diranno «Vostro Monopolio»; specialmente rivolgendosi a Moritz IV, della storica [[house|casata]] di Mond, ormai a quel [[Time|tempo]] Imperatore dello Stato Mondiale. Ma in verità [[Doubt|dubitiamo]] piuttosto che vi sarà anche solo tanta dignità quanta questa in un dispotismo simile a quello. L'uomo che preferisce dire «Fusione Imperiale» anziché Protezione Imperiale o Libero Scambio Imperiale è già in questo curioso stato d'animo moderno che in realtà ritiene i termini mercantili più alti di quelli morali o sociali. L'intero sistema di una grande nazione sarà rimodellato sulle abitudini di un grande affare. L'inviato nazionale a [[Paris|Parigi]], anziché essere chiamato «Sua Eccellenza l'Ambasciatore Britannico», sarà chiamato «Il nostro signor Miele-frizzante», e viaggerà con i campioni e sarà fiero di essere chiamato commesso viaggiatore. I giornali monopolisti non si stancano mai di dirci che il mondo avrebbe ormai dovuto superare il linguaggio artificioso e pomposo dei vecchi Protocolli e Ultimatum, e tutte le formali dichiarazioni dei trattati che così spesso sono stati denunciati come Diplomazia Segreta. Senza dubbio i grandi statisti dei grandi Stati, gli eredi di Richelieu e di Canning, corrisponderanno in un inglese più brillante e spedito, buttando giù «Vs. ric. e cont: annotato», quando davvero sia necessario mettere per iscritto gli accordi. Dopotutto, sarà ancora più sbrigativo concludere gli accordi internazionali con voce roca e confidenziale, negli intervalli fra un «Tu cosa prendi?» e un «Dimmi quando». Questo è il grande vantaggio della Nuova Diplomazia sulla vecchia Diplomazia Segreta. La vecchia era così segreta da mettere per iscritto tutti i suoi [[Secrets|segreti]] in laboriosi documenti e spedirli in giro a una cinquantina di persone negli uffici del [[government|Governo]]. La Nuova Diplomazia non ha mai bisogno di essere messa per iscritto; anzi, è meglio di no.
+
+Siamo pronti, naturalmente, a sentirci dire che tutta questa brutta e indecorosa scuola di maniere è molto pratica, e che la vecchia scuola di maniere solenne o artificiosa era molto poco pratica. Dopotutto, la vecchia teoria della dignità fece soltanto cose banali e accessorie, come creare l'Impero Romano, creare la Monarchia Francese e la [[French Revolution|Rivoluzione Francese]], fondare la Repubblica Americana e stabilire mediante avventura personale quello stesso Impero che i nostri affaristi e mercanteggiatori possono soltanto aiutare con l'impersonale réclame. Sono conquiste da poco, in confronto a quella di assicurare che la stessa cattiva gassosa allo zenzero sia venduta ovunque, a esclusione ed estinzione della buona gassosa allo zenzero, oppure che su qualche migliaio di miglia quadrate della verde terra di Dio nessuno abbia altro che un solo tipo di cappello o un solo tipo di [[house|casa]]. Ma per quanto questi argomenti siano indubbiamente stringenti e persuasivi, e rechino una certa apparenza di concretezza e realismo, siamo propensi a integrarli con un suggerimento o un promemoria; l'accenno a qualcosa che perfino pensatori così lucidi paiono aver trascurato. Oggigiorno si considera cosa assai orribile menzionarlo; ed è in effetti cosa assai orribile metterlo alla prova o farne esperienza. Nondimeno è una cosa che può essere messa alla prova o sperimentata; e, anche solo per evitarla, sarebbe molto meglio menzionarla.
+
+L'autorità che governa gli uomini deve essere rispettata; deve persino essere amata. Gli uomini devono in ultima istanza [[Love|amarla]]; per la semplice ragione che gli uomini devono in ultima istanza morire per essa. Nessuna comunità o costituzione può sopravvivere e conservare in alcun modo la propria [[Identity|identità]] se non possiede, nelle menti dei suoi sudditi, abbastanza di un'ideale [[Identity|identità]] da apparire loro, in certi estremi di pericolo, come la visione di qualcosa da salvare. È su quell'ideale, insito nella realtà, che ogni Stato farà affidamento quando vi sarà una lotta di vita e di [[Death|morte]]. Gli uomini devono sentire qualcosa di più intorno all'Inghilterra che non il suo essere commerciale, qualcosa di più intorno alla Francia che non il fatto che i francesi siano pratici e attenti al denaro, qualcosa di più intorno all'[[America]] che non il suo trovarsi in questo momento mostruosamente ricca[1], prima che un qualsiasi essere umano sano e faceto uccida qualcun altro o venga ucciso egli stesso, e abbandoni la luce del sole e gli affetti sereni di questo mondo, per amore di una simile astrazione. Si scoprirà, dunque, che la teoria pratica fallisce nel momento più pratico. Essa è utile finché si tratta di stabilire se lo Stato debba continuare a essere ricco, o continuare a essere imperiale, o continuare a essere monopolista. È inutile quando si tratta di stabilire se lo Stato debba continuare a essere. Lo Stato materialistico, cementato soltanto col denaro come col fango, cadrà a pezzi sotto il colpo di un qualsiasi popolo che nutra [[Love|amore]] o lealtà verso i propri capi o la propria causa; per la semplice ragione che coloro che più tengono al denaro tengono di più alla vita. Si può amare o detestare il Fascismo d'[[Italy|Italia]], l'ardente nazionalismo dei polacchi, il profondo cattolicesimo degli irlandesi; ma non v'è [[Doubt|dubbio]] che i loro ideali possano essere idealizzati. Sono concezioni per le quali uomini reali possono essere trascinati in un reale rapimento di sacrificio. Le immagini sotto le quali essi vengono presentati al mondo, e specialmente al mondo dei loro adoratori — l'aquila d'oro o d'argento, la corazza di San Patrizio, il saluto romano — sono cose che di fatto sollevano il cuore, e furono foggiate dalla mente affinché sollevassero il cuore. Insomma, in esse vi è poesia; e quella poesia è la cosa più pratica del mondo.
+
+[1] Ma più facile morire per lei, ora che è povera.
+
+Ora, se i nuovi Imperialisti insistono nel parlare di ogni cosa in termini di bancone e di sala di commercio, se insistono nel chiamare Fusione la Preferenza Imperiale, come fece Lord Beaverbrook, se insistono nel paragonare un'Elezione Generale al Collocamento di una Società, come fece il signor Amery, renderanno gli uomini davvero familiari col loro [[government|governo]], e in un certo senso a proprio [[Home|agio]] con esso, ma non più capaci di amarlo di quanto lo siano di amare un qualsiasi sfortunato investimento. Verrà il [[Time|tempo]] in cui la sua esistenza dipenderà dal suo potere sull'[[Imagination|immaginazione]]; e sarà dignità o [[Death|morte]]. Né quella dignità verrà unicamente da un Isolamento Imperiale; il che sembra significare soltanto: «Come possiamo pensare in continenti senza pensare ai Continenti».
+
+-----
+
+-/-
+
+
+
 <span class="atom-split" data-atom="story_27_frozen_free_thought--part_01" data-title="Well And Shallows — Frozen Free Thought (part 1)" data-chapter="Frozen Free Thought" data-kind="excerpt"></span>
 
 
@@ -15940,6 +14589,514 @@ Ma io voglio sapere perché il cattolico romano sia lasciato a fare il lavoro
 del Razionalista; e ad attaccare il davvero recente sollevamento
 della Non-Ragione nel mondo, e perché il Razionalista in realtà
 lo attacchi per averlo attaccato.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_28_shocking_the_modernists" data-title="Well And Shallows — Shocking The Modernists" data-chapter="Shocking The Modernists" data-kind="story"></span>
+
+
+SHOCKING THE MODERNISTS
+
+How do we manage to stagger on blinded by the blaze of wit
+and starry brilliancy, that is showered upon us like everlasting
+fireworks every day in the daily papers?  The writers in those
+papers who so often remind us, with never-failing freshness,
+that things that were once rare luxuries are now multiplied
+and minutely and exactly imitated everywhere, surely will not fail
+to apply this same striking [[Truth|truth]] to the intellectual world.
+They will doubtless point out that those perfect and pointed epigrams,
+which were once heard only from exceptional individuals,
+like Voltaire and Talleyrand, are now invented by the hundred
+in every column of every newspaper, and it is hardly possible
+to find a single dull sentence wedged between the witty repartees
+and immortal jests, which can now, like everything else of any value,
+be produced in any quantity by mass production.
+
+However this may be, there can be no [[Doubt|doubt]] that our journalism,
+and the world it describes, has reached an acute sensibility
+to wit and verbal brilliance, which has never been known before;
+and is so vividly alert and alive to any such ringing and
+rapier-like logical fencing as to cry "a hit! a palpable hit!"
+in circumstances in which it is only too likely that our
+duller forefathers would have remained deaf or indifferent.
+I once read a paragraph in a daily paper, about a notable outburst
+among the most advanced intellects in the Church of England,
+which bears witness to the promptitude with which such triumphs
+are appreciated.  Under the two headlines of "Youth Finds Church
+a Bore," and "A Girl Tells Clergy," the paragraph, or rather
+series of paragraphs was arranged in a suitably sensational
+way as follows:-
+
+"Youth finds church a bore--and stays away from it.
+This contention, put forward by a girl of eighteen from the platform
+at Girton College, Cambridge, yesterday, made the elderly
+delegates to the Modern Churchman's Conference sit up sharply
+in their seats.
+
+"The speaker was the attractive daughter of a Portsmouth
+naval chaplain.  Her most telling passage was this:  'I don't
+think public worship has any attraction whatsoever for the young.
+Religion is supposed to express God through [[Truth|truth]] and [[Beauty|beauty]],
+we are told, but in this age of specialisation people turn
+to science, art and [[philosophy]] to satisfy those needs'."
+
+I [[Wonder|wonder]] what her least telling passage was.
+
+Of course the fun really begins with the astounding and staggering
+effect produced by the original thunderbolt of thought
+"Youth Finds Church a Bore," on all those admittedly elderly delegates
+who were sufficiently ancient to be described as Modern Churchmen.
+Dr. Major leapt to his feet with a howl; Dean Inge bounced up
+to the ceiling like a ball.  Dr. Rashdall uttered one piercing
+shriek and fainted; for not one of these venerable doctors,
+in all their long experience of the Modernist Movement,
+had ever heard one human being articulate with human lips
+the star-staggering blasphemy that youth finds church a bore.
+Not one of them had ever heard so much as a rumour of young
+people yawning during a sermon; to none had any voice dared
+to whisper that little boys have been known to catch flies or dig
+penknives into pews during Divine service; not one of them
+had ever in his life heard a baby begin to squeal in church;
+none had ever listened to the hideous slander that youths and maidens
+in church had been known to look at each other instead of keeping
+their eyes fixed rigidly on the lectern (for nobody in the church
+of a Modern Churchman would condescend to look at the altar);
+none of them ever knew before that there had ever been any friction
+between the fits and moods of youth and the routine of religion.
+Never, until the attractive daughter of a Portsmouth naval
+chaplain made this stupendous discovery in modern psychology,
+had they even thought of the possibility that a long religious
+service might be rather a bore to a boy.
+
+But yet, even about that discovery, it seems as if there might
+be more to be said.  Some of the elderly Modern Churchmen have
+been schoolmasters.  It seems just possible that some of them had
+discovered that the Sixth Book of the AEneid can be a bore to a boy.
+But in those cases it was not invariably assumed that the boy was
+right and the poet was wrong.  It was not taken for granted that
+the boredom of the boy in itself proves that Virgil is a bad poet;
+still less did anyone ever propose that a simplified and modernised
+version of Virgil must be substituted for the old one.
+Nobody proposed that passages from Kipling about the British Empire
+should be substituted for the more austere salutations of
+Virgil to the Roman Empire, because such [[Education|education]] would be
+more modern, compact and convenient to a truly National Church.
+Nobody proposed that a really smart and snappy up-to-date description
+of the Derby, taken from an evening paper, should be regarded
+as a complete substitute for that thundering line in which
+the very earth shakes with the horsehoofs of the charioteers.
+And, if I may venture to hint a disagreement with the Prophetess
+of Girton College, Cambridge, I think it will be found that the same
+argument applies even to the substitutes that she herself proposes.
+She says that people turn to science, art and [[philosophy]].
+Will she swear by the [[Death]] of Nelson, or whatever oath binds
+the daughter of a Portsmouth naval chaplain, that no science
+student ever shirks or plays truant in a science school?
+It will be vain for her to swear any such thing in the case
+of an art school; for I have been to an art school myself,
+and I can assure her that there were quite as many art
+students who found application to art a bore as there could
+possibly be divinity students who found divinity a bore.
+As for young philosophers, I have known a good many of them;
+at an age when nearly all of them were much more fond of philosophising
+than of learning [[philosophy]].  And I might hint that there
+are other young agitators, of the sort that seem to agitate
+so strangely the Modern Churchmen and the modern newspapers,
+who seem to have a certain spirited and spontaneous preference
+for saying things rather than for thinking what they are saying.
+Is it really necessary that we should toil through all this tiresome
+repetition about the perfectly obvious difficulty of getting young
+people to work when they naturally want to play, before we even begin
+to discuss the mature problem of the relation of doctrine to the mind?
+It is perfectly natural that the boy should find the church a bore.
+But why are we bound to treat what is natural as something actually
+superior to what is [[Supernatural|supernatural]]; as something which is not even
+merely [[Supernatural|supernatural]], but is in the exact sense super-[[Supernatural|supernatural]]?
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+SCANDALIZZARE I MODERNISTI
+
+Come riusciamo a barcollare avanti, accecati dal bagliore di arguzia
+e di stellare brillantezza, che ci viene riversato addosso come eterni
+fuochi d'artificio ogni giorno sui quotidiani? Gli scrittori di quei
+giornali che tanto spesso ci ricordano, con mai spenta freschezza,
+che le cose un tempo rare e lussuose sono ora moltiplicate
+e minutamente ed esattamente imitate ovunque, non mancheranno di certo
+di applicare questa stessa lampante [[Truth|verità]] al mondo intellettuale.
+Ci faranno senza dubbio notare che quegli epigrammi perfetti e taglienti,
+un tempo uditi soltanto da individui eccezionali,
+come Voltaire e Talleyrand, sono ora inventati a centinaia
+in ogni colonna di ogni giornale, ed è a stento possibile
+trovare una sola frase scialba incastrata tra le argute repliche
+e le immortali facezie, che ora, come ogni altra cosa di qualche valore,
+si possono produrre in qualsiasi quantità mediante la produzione di massa.
+
+Comunque stiano le cose, non vi può essere alcun [[Doubt|dubbio]] che il nostro giornalismo,
+e il mondo che esso descrive, abbia raggiunto un'acuta sensibilità
+all'arguzia e alla brillantezza verbale, quale mai si era conosciuta prima;
+ed è così vivacemente vigile e desto a ogni squillante e
+affilata schermaglia logica da gridare «un colpo! un colpo evidente!»
+in circostanze nelle quali è fin troppo probabile che i nostri
+più ottusi antenati sarebbero rimasti sordi o indifferenti.
+Lessi una volta un paragrafo su un quotidiano, riguardo a un notevole scoppio
+tra gli intelletti più avanzati della Chiesa d'Inghilterra,
+che rende testimonianza della prontezza con cui simili trionfi
+vengono apprezzati. Sotto i due titoli «I giovani trovano la Chiesa
+noiosa» e «Una ragazza lo dice al clero», il paragrafo, o piuttosto
+la serie di paragrafi, era disposto in modo opportunamente sensazionalistico
+come segue:—
+
+«I giovani trovano la Chiesa noiosa—e se ne stanno alla larga.
+Questa tesi, avanzata da una ragazza di diciotto anni dal podio
+del Girton College, a Cambridge, ieri, fece sobbalzare bruscamente
+gli attempati delegati della Conferenza dei Chierici Moderni
+sui loro seggi.
+
+«L'oratrice era l'avvenente figlia di un cappellano
+navale di Portsmouth. Il suo passo più incisivo fu questo: "Non
+credo che il culto pubblico abbia la benché minima attrattiva per i giovani.
+La religione dovrebbe esprimere Dio attraverso la [[Truth|verità]] e la [[Beauty|bellezza]],
+così ci si dice, ma in quest'epoca di specializzazione la gente si rivolge
+alla scienza, all'arte e alla [[philosophy|filosofia]] per soddisfare quei bisogni".»
+
+Mi [[Wonder|domando]] quale fosse il suo passo meno incisivo.
+
+Naturalmente il divertimento comincia davvero con l'effetto sbalorditivo
+e sconvolgente prodotto dall'originale fulmine di pensiero
+«I giovani trovano la Chiesa noiosa», su tutti quei delegati notoriamente attempati
+abbastanza antichi da poter essere definiti Chierici Moderni.
+Il dottor Major balzò in piedi con un urlo; il decano Inge rimbalzò
+fino al soffitto come una palla. Il dottor Rashdall lanciò un solo penetrante
+strillo e svenne; poiché nessuno di questi venerabili dottori,
+in tutta la loro lunga esperienza del Movimento Modernista,
+aveva mai udito un solo essere umano articolare con labbra umane
+la blasfemia sconvolgente come un astro secondo cui i giovani trovano la Chiesa noiosa.
+Nessuno di loro aveva mai udito neppure una voce di giovani
+che sbadigliavano durante un sermone; a nessuno una voce aveva mai osato
+sussurrare che si sa di ragazzini che acchiappano mosche o piantano
+temperini nei banchi durante il servizio divino; nessuno di loro
+aveva mai in vita sua udito un bimbo mettersi a strillare in chiesa;
+nessuno aveva mai prestato ascolto all'orrenda calunnia che giovani e fanciulle
+in chiesa si sapesse guardarsi l'un l'altra invece di tenere
+gli occhi rigidamente fissi sul leggìo (poiché nessuno nella chiesa
+di un Chierico Moderno si degnerebbe di guardare l'altare);
+nessuno di loro aveva mai saputo prima che vi fosse mai stato alcun attrito
+tra gli slanci e gli umori della gioventù e la routine della religione.
+Mai, prima che l'avvenente figlia di un cappellano navale di
+Portsmouth facesse questa stupenda scoperta nella psicologia moderna,
+avevano anche solo pensato alla possibilità che un lungo servizio
+religioso potesse riuscire piuttosto noioso a un ragazzo.
+
+Eppure, anche su quella scoperta, pare che vi sia
+qualcosa di più da dire. Alcuni degli attempati Chierici Moderni sono
+stati maestri di scuola. Pare appena possibile che qualcuno di loro avesse
+scoperto che il Sesto Libro dell'Eneide può riuscire noioso a un ragazzo.
+Ma in quei casi non si dava invariabilmente per scontato che il ragazzo avesse
+ragione e il poeta torto. Non si dava per certo che
+la noia del ragazzo dimostri di per sé che Virgilio è un cattivo poeta;
+ancor meno mai qualcuno propose che si dovesse sostituire una versione
+semplificata e modernizzata di Virgilio a quella antica.
+Nessuno propose che passi di Kipling sull'Impero britannico
+si dovessero sostituire ai più austeri saluti di
+Virgilio all'Impero romano, perché tale [[Education|istruzione]] sarebbe
+più moderna, compatta e comoda per una Chiesa davvero Nazionale.
+Nessuno propose che una descrizione davvero brillante, spiccia e aggiornata
+del Derby, tratta da un giornale della sera, dovesse essere considerata
+un completo sostituto di quel tonante verso in cui
+la terra stessa trema sotto gli zoccoli dei cavalli degli aurighi.
+E, se posso azzardarmi ad accennare un dissenso con la Profetessa
+del Girton College, a Cambridge, credo si scoprirà che il medesimo
+argomento vale anche per i sostituti che ella stessa propone.
+Ella dice che la gente si rivolge alla scienza, all'arte e alla [[philosophy|filosofia]].
+Giurerà, sulla [[Death|morte]] di Nelson, o su qualunque giuramento vincoli
+la figlia di un cappellano navale di Portsmouth, che nessuno studente
+di scienze mai marina o fa forca in una scuola di scienze?
+Sarà vano per lei giurare alcunché di simile nel caso
+di una scuola d'arte; poiché io stesso sono stato a una scuola d'arte,
+e posso assicurarle che c'erano ben altrettanti studenti d'arte
+che trovavano noioso applicarsi all'arte, quanti potrebbero
+mai esservi studenti di teologia che trovano noiosa la teologia.
+Quanto ai giovani filosofi, ne ho conosciuti parecchi;
+a un'età in cui quasi tutti erano assai più amanti del filosofeggiare
+che dell'imparare la [[philosophy|filosofia]]. E potrei accennare che vi
+sono altri giovani agitatori, del genere che pare agitare
+così stranamente i Chierici Moderni e i moderni giornali,
+i quali paiono avere una certa vivace e spontanea preferenza
+per il dire le cose piuttosto che per il pensare ciò che stanno dicendo.
+È proprio necessario che si debba faticare attraverso tutta questa tediosa
+ripetizione sulla perfettamente ovvia difficoltà di indurre i giovani
+a lavorare quando naturalmente vogliono giocare, prima ancora di cominciare
+a discutere il maturo problema del rapporto tra dottrina e mente?
+È perfettamente naturale che il ragazzo trovi la Chiesa noiosa.
+Ma perché siamo tenuti a trattare ciò che è naturale come qualcosa di realmente
+superiore a ciò che è [[Supernatural|soprannaturale]]; come qualcosa che non è nemmeno
+meramente [[Supernatural|soprannaturale]], ma è nel senso esatto super-[[Supernatural|soprannaturale]]?
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_29_a_grammar_of_knighthood" data-title="Well And Shallows — A Grammar Of Knighthood" data-chapter="A Grammar Of Knighthood" data-kind="story"></span>
+
+
+A GRAMMAR OF KNIGHTHOOD
+
+I THINK it very likely that many have never even heard
+of The Broadstone of [[Honour]], the manual of chivalry written
+by Kenelm Digby early in the nineteenth century; unless they
+remember one contemptuous reference to it in Macaulay's Essays.
+The reference is not much of a criticism on the Broadstone of [[Honour]],
+but it is a very damaging criticism of Macaulay's Essays.
+It illustrates, not only his spirited superficiality,
+but that considerable element of ignorance that went along
+with his remarkable reputation for omniscience.  Just as his
+celebrated sneer at Spenser shows that he had not read Spenser,
+so his less famous sneer at Kenelm Digby shows that he had not
+read Kenelm Digby.  He set himself to belittle certain old tales
+of courtesy, which is the wedding of [[Humility|humility]] with dignity.
+He scoffed at such stories as that of the Black Prince waiting
+like a servant on his helpless captive; and he thought he could
+not scoff at them more effectively than by saying they would be
+suitable to Kenelm Digby; or, as he put it, to "those who think,
+like the author of The Broadstone of [[Honour]], that God made
+the world for the use of gentlemen."  One is tempted to reply,
+in some moods, that there will always be enough bounders,
+even among the learned, to redress the balance.
+
+Now Kenelm Henry Digby was, as his name implies, a member of an old
+Catholic family, established in Ireland; and, as with the other
+branches of such old families established in England, it would not be
+very unnatural if he did attach some importance to being a gentleman.
+If the weakness has sometimes been too apparent in the old Catholics
+of England, it is at least pardonable and rather pathetic.
+When you are an honest and perfectly patriotic squire, and all
+your countrymen regard you as a liar, a traitor, a poisoner
+and a devil-worshipper, it must be something of a sentimental
+comfort to you that they cannot deny you are a gentleman.
+Poor human [[Nature|nature]] being what it is, you may be excused if you come
+to think a little too much of it.  And Kenelm Digby might have
+been excused if he really had thought too much of it; and talked
+nonsense about gentlemen, as if God had made the world for them.
+But as a simple fact, it was not Digby who talked nonsense
+about gentlemen, but Macaulay who talked nonsense about Digby.
+
+What would Macaulay have said if after writing his [[Epigram|epigram]]
+about a universe created for the gentry, he had made the bold
+experiment of opening the book at random, as I did, and reading
+a paragraph like this:
+
+"The noble Italian Arnigio shows how truly generous and heroic
+peasants and men of the lowest rank of life may become."
+"The glorious nativity of the Redeemer of the world," he observes,
+"was revealed to shepherds, as to men pure, just and vigilant.
+When our adorable Saviour was to be born blessed Mary and
+the devout Joseph were so little possessed of worldly grandeur
+that the stable of an inn was their only place of refuge.
+For mark, says a holy man, the evangelists do not say that there
+was no room in the inn, but there was no room for them.
+Oh what a noble school is [[Poverty|poverty]]!  What a temple of sovereign [[Honour|honour]]!
+Pope Urban IV was so little ashamed of being the son of a
+shoemaker that he ordered the pulpit of the church of St. Urban,
+at Troyes, his native [[City|city]], to be adorned on great festivals
+with tapestry representing his father's stall.  There is even
+an example of legislation, on the principles of the romances,
+which places Chivalry before nobility, for the state of Pistoja,
+in the thirteenth century ennobled men as a punishment
+for their crimes."
+
+Do you think that perhaps even Macaulay would have felt slightly
+ashamed of himself?
+
+Anyhow the author of The Broadstone of [[Honour]] did not think
+the world was made only for gentlemen He thought in his simplicity
+that it was made for man; and he could not escape from a prejudice
+in favour of brave men and honest men and (I am so antiquated
+as to add) men who felt a special consideration for women.
+The book has some of the faults of its type and [[Time|time]]; in that
+sense it is now rather dated; nearly as much dated as Macaulay.
+We must read it, or at least parts of it, rather as we read
+a [[Song|song]] of Tom Moore or a patriotic poem of Thomas Davis,
+or all that rather rhetorical yet very red-blooded tradition
+ot talking and writing that derived from the mishty [[Melodrama|melodrama]]
+of Byron or was sympathetically satirised in Micawber.
+But when we have allowed for variations in the taste for
+purple patches, a matter entirely relative in our taste as in his,
+the book is sustained from first to last by what can only be called
+a sustained energy of virtue.  It does anybody good to meet
+a man so little ashamed of an enthusiasm for mere goodness.
+Many of his gestures are as noble as any of those that
+make the decisive moments in the Chansons de Geste.
+Many of his concessions are as graceful as any that he himself
+praises in the chronicles of the tournament or the tented field.
+But he was very far from being merely an amiable old antiquary
+haunting Melrose by moonlight; or even a dazed [[Don Quixote]]
+with his head hidden in folios about [[arthur|Arthur]] and Amadis of Gaul.
+I cannot resist making another quotation which will serve
+to show that Kenelm Digby was not by any means unconscious
+of what was going on in his own [[Time|time]]--and, I will add,
+is still going on in ours.
+
+After speaking of St. Francis and of many knights who would
+feed the poor and eat with them and carry their coffins,
+he says, "Oh! is it for the rich of the nineteenth century
+to talk of the inhumanity of the Middle Ages?  To give alms,
+with them, is to encourage idleness.  He is hungry, he is naked?
+Let him work.  But he is old?  There are employments for all.
+But he is a [[Child|child]]?  Do not teach him to beg.  It is the mother
+of a large family?  Perhaps she does not tell the [[Truth|truth]].
+We have institutions on a new system.  Yes truly, and woe
+to the unhappy ones who are doomed to receive relief from them!
+In order that the children of pleasure may not be incommoded
+by the sight of [[Poverty|poverty]] the poor are shut up within high walls
+and condemned to confinement for the crime of being poor
+and miserable.  When they are thus secluded from the enjoyment
+of [[Nature|nature]] an odious Board of Governors takes care that they
+should be provided with what is sufficient to support life.
+And then they have to endure the countenances of ferocious barbarians
+who are the officers to administer this horrible humanity."
+
+That is the testimony of Digby, as it is the testimony of Dickens,
+who did not presumably labour under the illusion that God made
+the world only for gentlemen.  That is also the testimony of Cobbett,
+of Carlyle, of Hood, of Ruskin, of everybody who actually watched
+the modern industrial movement with his eyes open; but the fact
+that Digby wrote that paragraph may [[Alone|alone]] be my apology for writing
+this note on his neglected name.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+UNA GRAMMATICA DELLA CAVALLERIA
+
+CREDO assai probabile che molti non abbiano mai neppure sentito nominare
+The Broadstone of [[Honour]], il manuale di cavalleria scritto
+da Kenelm Digby all'inizio dell'Ottocento; a meno che non
+ricordino un unico sprezzante accenno a esso nei Saggi di Macaulay.
+L'accenno non è una gran critica al Broadstone of [[Honour]],
+ma è una critica assai dannosa ai Saggi di Macaulay.
+Esso illustra non solo la sua brillante superficialità,
+ma quel considerevole elemento d'ignoranza che accompagnava
+la sua notevole fama di onniscienza. Proprio come il suo
+celebre sarcasmo verso Spenser mostra che non aveva letto Spenser,
+così il suo meno famoso sarcasmo verso Kenelm Digby mostra che non aveva
+letto Kenelm Digby. Egli si accinse a sminuire certe vecchie storie
+di cortesia, che è lo sposalizio dell'[[Humility|umiltà]] con la dignità.
+Schernì storie come quella del Principe Nero che serviva
+al pari di un domestico il suo inerme prigioniero; e pensò di non poterle
+schernire più efficacemente che dicendo che sarebbero
+adatte a Kenelm Digby; o, come ebbe a dire, a «coloro che pensano,
+come l'autore del Broadstone of [[Honour]], che Dio abbia fatto
+il mondo per uso dei gentiluomini». Si è tentati di replicare,
+in certi stati d'animo, che vi saranno sempre zoticoni a sufficienza,
+persino tra i dotti, a raddrizzare la bilancia.
+
+Ora, Kenelm Henry Digby era, come il suo nome implica, membro di un'antica
+famiglia cattolica, stabilitasi in Irlanda; e, come per gli altri
+rami di simili antiche famiglie stabilitesi in Inghilterra, non sarebbe
+molto innaturale se egli attribuisse qualche importanza all'essere un gentiluomo.
+Se la debolezza è talvolta stata fin troppo evidente negli antichi cattolici
+d'Inghilterra, essa è per lo meno scusabile e piuttosto commovente.
+Quando sei un onesto e perfettamente patriottico possidente, e tutti
+i tuoi compatrioti ti considerano un bugiardo, un traditore, un avvelenatore
+e un adoratore del diavolo, dev'essere per te un certo sentimentale
+conforto il fatto che non possano negarti d'essere un gentiluomo.
+Essendo la povera [[Nature|natura]] umana ciò che è, ti si può scusare se arrivi
+a farne un po' troppo caso. E Kenelm Digby avrebbe potuto
+essere scusato se davvero ne avesse fatto troppo caso; e avesse detto
+sciocchezze sui gentiluomini, come se Dio avesse fatto il mondo per loro.
+Ma, come semplice dato di fatto, non fu Digby a dire sciocchezze
+sui gentiluomini, bensì Macaulay a dire sciocchezze su Digby.
+
+Cosa avrebbe detto Macaulay se, dopo aver scritto il suo [[Epigram|epigramma]]
+su un universo creato per la nobiltà, avesse fatto l'ardito
+esperimento di aprire il libro a caso, come feci io, e di leggere
+un paragrafo come questo:
+
+«Il nobile italiano Arnigio mostra quanto veramente generosi ed eroici
+possano diventare i contadini e gli uomini del più umile rango della vita.»
+«La gloriosa natività del Redentore del mondo», egli osserva,
+«fu rivelata ai pastori, in quanto uomini puri, giusti e vigilanti.
+Quando il nostro adorabile Salvatore stava per nascere, la beata Maria e
+il devoto Giuseppe erano così poco provvisti di grandezza mondana
+che la stalla di una locanda fu il loro unico luogo di rifugio.
+Poiché, osserva un sant'uomo, gli evangelisti non dicono che non vi
+fosse posto nella locanda, ma che non vi fosse posto per loro.
+Oh, che nobile scuola è la [[Poverty|povertà]]! Che tempio del sovrano [[Honour|onore]]!
+Papa Urbano IV si vergognava così poco d'essere figlio di un
+calzolaio, che ordinò che il pulpito della chiesa di Sant'Urbano,
+a Troyes, sua [[City|città]] natale, fosse adornato nelle grandi festività
+con un arazzo raffigurante il banchetto di suo padre. Vi è persino
+un esempio di legislazione, secondo i principi dei romanzi cavallereschi,
+che pone la Cavalleria al di sopra della nobiltà, giacché lo stato di Pistoia,
+nel tredicesimo secolo, nobilitava gli uomini come punizione
+per i loro delitti.»
+
+Non pensate che forse persino Macaulay avrebbe provato una leggera
+vergogna di sé stesso?
+
+Comunque, l'autore del Broadstone of [[Honour]] non pensava
+che il mondo fosse fatto solo per i gentiluomini. Egli pensava, nella sua semplicità,
+che fosse fatto per l'uomo; e non poteva sfuggire a un pregiudizio
+in favore degli uomini coraggiosi e degli uomini onesti e (sono così antiquato
+da aggiungerlo) degli uomini che nutrivano un particolare riguardo per le donne.
+Il libro ha alcuni dei difetti del suo genere e della sua [[Time|epoca]]; in tal
+senso è ormai piuttosto datato; datato quasi quanto Macaulay.
+Dobbiamo leggerlo, o almeno certe sue parti, piuttosto come leggiamo
+una [[Song|canzone]] di Tom Moore o un poema patriottico di Thomas Davis,
+o tutta quella tradizione piuttosto retorica eppure assai focosa
+di parlare e scrivere che derivava dal possente [[Melodrama|melodramma]]
+di Byron o veniva bonariamente satireggiata in Micawber.
+Ma quando abbiamo tenuto conto delle variazioni nel gusto per
+le tirate purpuree, faccenda del tutto relativa al nostro gusto come al suo,
+il libro è sorretto dal principio alla fine da ciò che si può solo chiamare
+una sostenuta energia della virtù. Fa bene a chiunque incontrare
+un uomo così poco imbarazzato di un entusiasmo per la mera bontà.
+Molti dei suoi gesti sono nobili quanto qualsiasi di quelli che
+segnano i momenti decisivi nelle Chansons de Geste.
+Molte delle sue concessioni sono aggraziate quanto qualsiasi egli stesso
+ne lodi nelle cronache del torneo o del campo attendato.
+Ma egli era assai lontano dall'essere un mero amabile vecchio antiquario
+che aleggia intorno a Melrose al chiaro di luna; o anche un frastornato [[Don Quixote|Don Chisciotte]]
+con la testa nascosta in folianti su [[arthur|Artù]] e Amadigi di Gaula.
+Non posso resistere dal fare un'altra citazione che servirà
+a mostrare che Kenelm Digby non era affatto inconsapevole
+di ciò che accadeva ai suoi [[Time|tempi]]—e, aggiungerò,
+accade ancora ai nostri.
+
+Dopo aver parlato di san Francesco e di molti cavalieri che
+nutrivano i poveri e mangiavano con loro e ne portavano le bare,
+egli dice: «Oh! spetta forse ai ricchi dell'Ottocento
+parlare dell'inumanità del Medioevo? Fare l'elemosina,
+per loro, è incoraggiare l'ozio. Ha fame, è nudo?
+Lavori. Ma è vecchio? Vi sono occupazioni per tutti.
+Ma è un [[Child|bambino]]? Non insegnargli a mendicare. È la madre
+di una famiglia numerosa? Forse non dice la [[Truth|verità]].
+Abbiamo istituzioni fondate su un nuovo sistema. Sì, davvero, e guai
+agli infelici che sono condannati a ricevere soccorso da esse!
+Affinché i figli del piacere non siano molestati
+dalla vista della [[Poverty|povertà]], i poveri vengono rinchiusi entro alte mura
+e condannati alla reclusione per il delitto di essere poveri
+e miserabili. Quando così sono segregati dal godimento
+della [[Nature|natura]], un odioso Consiglio di Governatori si cura che
+siano provvisti di quanto basta a sostenere la vita.
+E poi devono sopportare i volti di feroci barbari
+che sono i funzionari incaricati di amministrare questa orribile umanità.»
+
+Questa è la testimonianza di Digby, come è la testimonianza di Dickens,
+il quale presumibilmente non pativa l'illusione che Dio avesse fatto
+il mondo solo per i gentiluomini. Questa è anche la testimonianza di Cobbett,
+di Carlyle, di Hood, di Ruskin, di chiunque abbia davvero osservato
+il moderno movimento industriale a occhi aperti; ma il fatto
+che Digby abbia scritto quel paragrafo può da [[Alone|solo]] essere la mia scusa per scrivere
+questa nota sul suo trascurato nome.
 
 -/-
 
@@ -16564,6 +15721,849 @@ malamente affinché lo rompa e s'immagini di volerlo di nuovo;
 del tenere il ciarpame in rapida circolazione come una tempesta di [[Dust|polvere]] e [[Storm|sabbia]] in un [[Desert|deserto]];
 e del fingere che si stia insegnando agli uomini a [[Hope|sperare]], perché non si
 lascia loro un solo intelligente istante in cui [[Despair|disperare]].
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_31_sex_and_property" data-title="Well And Shallows — Sex And Property" data-chapter="Sex And Property" data-kind="story"></span>
+
+
+SEX AND PROPERTY
+
+IN the dull, dusty, stale, stiff-jointed and lumbering language,
+to which most modern discussion is limited, it is necessary
+to say that there is at this moment the same fashionable fallacy
+about Sex and about Property.  In the older and freer language,
+in which men could both speak and sing, it is truer to say that
+the same evil spirit has blasted the two great powers that make
+the poetry of life; the [[Love]] of Woman and the [[Love]] of the Land.
+It is important to observe, to start with, that these two things
+were closely connected so long as humanity was human, even when it
+was heathen.  Nay, they were still closely connected, even when it
+was a decadent heathenism.  But even the stink of decaying heathenism
+has not been so bad as the stink of decaying [[Christianity]].
+The corruption of the best....
+
+For instance, there were throughout antiquity, both in its first stage
+and its last, modes of idolatry and imagery of which Christian men
+can hardly speak.  "Let them not be so much as named among you."
+Men wallowed in the mere [[Sexuality|sexuality]] of a mythology of sex; they organised
+prostitution like priesthood, for the service of their temples;
+they made pornography their only poetry; they paraded emblems that turned
+even architecture into a sort of cold and colossal exhibitionism.
+Many learned books have been written of all these phallic cults;
+and anybody can go to them for the details, for all I care.
+But what interests me is this:
+
+In one way all this ancient sin was infinitely superior,
+immeasurably superior, to the modern sin.  All those who write
+of it at least agree on one fact; that it was the cult
+of Fruitfulness.  It was unfortunately too often interwoven,
+very closely, with the cult of the fruitfulness of the land.
+It was at least on the side of [[Nature]].  It was at least on
+the side of Life.  It has been left to the last Christians,
+or rather to the first Christians fully committed to
+blaspheming and denying [[Christianity]], to invent a new kind
+of worship of Sex, which is not even a worship of Life.
+It has been left to the very latest Modernists to proclaim an
+erotic religion which at once exalts lust and forbids fertility.
+The new Paganism literally merits the reproach of Swinburne,
+when mourning for the old Paganism:  "and rears not the bountiful
+token and spreads not the fatherly feast."  The new priests
+abolish the fatherhood and keep the feast-to themselves.
+They are worse than Swinburne's Pagans.  The priests of Priapus
+and Cotytto go into the kingdom of heaven before them.
+
+Now it is not unnatural that this unnatural separation,
+between sex and fruitfulness, which even the Pagans would
+have thought a perversion, has been accompanied with a similar
+separation and perversion about the [[Nature|nature]] of the [[Love|love]] of the land.
+In both departments there is precisely the same fallacy;
+which it is quite possible to state precisely.  The reason
+why our contemporary countrymen do not understand what we
+mean by Property is that they only think of it in the sense
+of Money; in the sense of salary; in the sense of something
+which is immediately consumed, enjoyed and expended;
+something which gives momentary pleasure and disappears.
+They do not understand that we mean by Property something
+that includes that pleasure incidentally; but begins and ends
+with something far more grand and worthy and creative.
+The man who makes an orchard where there has been a field,
+who owns the orchard and decides to whom it shall descend,
+does also enjoy the taste of apples; and let us [[Hope|hope]], also,
+the taste of cider.  But he is doing something very much grander,
+and ultimately more gratifying, than merely eating an apple.
+He is imposing his will upon the world in the manner of the charter
+given him by the will of God; he is asserting that his [[Soul|soul]] is
+his own, and does not belong to the Orchard Survey Department,
+or the chief Trust in the Apple Trade.  But he is also doing
+something which was implicit in all the most ancient religions
+of the earth; in those great panoramas of pageantry and ritual
+that followed the order of the [[Seasons|seasons]] in China or Babylonia;
+he is worshipping the fruitfulness of the world.  Now the notion
+of narrowing property merely to enjoying money is exactly
+like the notion of narrowing [[Love|love]] merely to enjoying sex.
+In both cases an incidental, isolated, servile and even secretive
+pleasure is substituted for participation in a great creative process;
+even in the everlasting Creation of the world.
+
+The two sinister things can be seen side by side in the system
+of Bolshevist [[Russia]]; for Communism is the only complete
+and logical working model of Capitalism.  The sins are there
+a system which are everywhere else a sort of repeated blunder.
+From the first, it is admitted, that the whole system
+was directed towards encouraging or driving the worker
+to spend his wages; to have nothing left on the next pay day;
+to enjoy everything and consume everything and efface everything;
+in short, to shudder at the thought of only one crime;
+the creative crime of thrift.  It was a tame extravagance;
+a sort of disciplined dissipation; a meek and submissive prodigality.
+For the moment the slave left off drinking all his wages,
+the moment he began to hoard or hide any property, he would be
+saving up something which might ultimately purchase his liberty.
+He might begin to count for something in the State; that is,
+he might become less of a slave and more of a citizen.
+Morally considered, there has been nothing quite so unspeakably
+mean as this Bolshevist generosity.  But it will be noted
+that exactly the same spirit and tone pervades the manner
+of dealing with the other matter.  Sex also is to come to
+the slave merely as a pleasure; that it may never be a power.
+He is to know as little as possible, or at least to think
+as little as possible, of the pleasure as anything else except
+a pleasure; to think or know nothing of where it comes from
+or where it will go to, when once the soiled object has passed
+through his own hands.  He is not to trouble about its origin
+in the purposes of God or its sequel in the posterity of man.
+In every department he is not a possessor, but only a consumer;
+even if it be of the first elements of life and [[Fire|fire]]
+in so far as they are consumable; he is to have no notion
+of the sort of Burning Bush that burns and is not consumed.
+For that bush only grows on the soil, on the real land
+where human beings can behold it; and the spot on which they
+stand is holy ground.  Thus there is an exact parallel between
+the two modern moral, or immoral, ideas of social [[Reform|reform]].
+The world has forgotten simultaneously that the making of a Farm
+is something much larger than the making of a profit, or even
+a product, in the sense of liking the taste of beetroot sugar;
+and that the founding of a Family is something much larger
+than sex in the limited sense of.current literature; which was
+anticipated in one bleak and blinding flash in a single line
+of George Meredith; "And eat our pot of honey on the [[Grave|grave]]."
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+SESSO E PROPRIETÀ
+
+NEL linguaggio ottuso, polveroso, stantio, rigido nelle giunture e pesante,
+a cui è limitata gran parte della discussione moderna, è necessario
+dire che vi è in questo momento la medesima fallacia di moda
+riguardo al Sesso e riguardo alla Proprietà. Nel linguaggio più antico e più libero,
+in cui gli uomini sapevano insieme parlare e cantare, è più vero dire che
+il medesimo spirito maligno ha inaridito le due grandi potenze che fanno
+la poesia della vita; l'[[Love|Amore]] della Donna e l'[[Love|Amore]] della Terra.
+È importante osservare, per cominciare, che queste due cose
+erano strettamente connesse finché l'umanità fu umana, persino quando fu
+pagana. Anzi, esse erano ancora strettamente connesse, persino quando fu
+un paganesimo decadente. Ma persino il fetore del paganesimo in decomposizione
+non è stato così pessimo come il fetore del [[Christianity|Cristianesimo]] in decomposizione.
+La corruzione del migliore....
+
+Per esempio, vi furono attraverso tutta l'antichità, sia nel suo primo stadio
+sia nell'ultimo, forme d'idolatria e immagini di cui gli uomini cristiani
+possono a stento parlare. «Non siano neppure nominate fra voi.»
+Gli uomini si rotolavano nella mera [[Sexuality|sessualità]] di una mitologia del sesso; organizzavano
+la prostituzione come un sacerdozio, per il servizio dei loro templi;
+facevano della pornografia la loro unica poesia; ostentavano emblemi che trasformavano
+persino l'architettura in una sorta di freddo e colossale esibizionismo.
+Molti dotti libri sono stati scritti su tutti questi culti fallici;
+e chiunque può ricorrervi per i dettagli, per quel che me ne importa.
+Ma ciò che mi interessa è questo:
+
+Per un verso tutto questo antico peccato era infinitamente superiore,
+incommensurabilmente superiore, al peccato moderno. Tutti coloro che ne
+scrivono concordano almeno su un fatto: che esso era il culto
+della Fecondità. Era purtroppo troppo spesso intrecciato,
+assai strettamente, col culto della fecondità della terra.
+Era per lo meno dalla parte della [[Nature|Natura]]. Era per lo meno dalla
+parte della Vita. È toccato agli ultimi cristiani,
+o piuttosto ai primi cristiani interamente votati a
+bestemmiare e a rinnegare il [[Christianity|Cristianesimo]], inventare un nuovo genere
+di culto del Sesso, che non è neppure un culto della Vita.
+È toccato ai più recenti Modernisti proclamare una
+religione erotica che al contempo esalta la lussuria e proibisce la fertilità.
+Il nuovo Paganesimo merita alla lettera il rimprovero di Swinburne,
+quando piange l'antico Paganesimo: «e non erge il generoso
+segno e non imbandisce il paterno banchetto». I nuovi sacerdoti
+aboliscono la paternità e si tengono il banchetto—per sé stessi.
+Sono peggiori dei Pagani di Swinburne. I sacerdoti di Priapo
+e di Cotitto li precedono nel regno dei cieli.
+
+Ora, non è innaturale che questa innaturale separazione,
+tra sesso e fecondità, che persino i Pagani avrebbero
+ritenuto una perversione, si sia accompagnata a una simile
+separazione e perversione riguardo alla [[Nature|natura]] dell'[[Love|amore]] della terra.
+In entrambi gli ambiti vi è precisamente la medesima fallacia;
+che è del tutto possibile enunciare con precisione. La ragione
+per cui i nostri contemporanei compatrioti non capiscono cosa
+intendiamo per Proprietà è che essi la pensano soltanto nel senso
+del Denaro; nel senso dello stipendio; nel senso di qualcosa
+che è immediatamente consumato, goduto e speso;
+qualcosa che dà un piacere momentaneo e scompare.
+Non capiscono che noi intendiamo per Proprietà qualcosa
+che include quel piacere per incidenza; ma comincia e finisce
+con qualcosa di assai più grande e degno e creativo.
+L'uomo che fa un frutteto dove c'era stato un campo,
+che possiede il frutteto e decide a chi debba passare,
+gode anch'egli del sapore delle mele; e, [[Hope|speriamo]], anche
+del sapore del sidro. Ma sta facendo qualcosa di assai più grande,
+e in ultima analisi più gratificante, che il semplice mangiare una mela.
+Egli sta imponendo la propria volontà al mondo secondo la carta
+concessagli dalla volontà di Dio; sta affermando che la sua [[Soul|anima]] è
+sua propria, e non appartiene al Dipartimento del Catasto dei Frutteti,
+o al principale Trust del Commercio delle Mele. Ma sta anche facendo
+qualcosa che era implicito in tutte le più antiche religioni
+della terra; in quei grandi panorami di sfarzo e di rito
+che seguivano l'ordine delle [[Seasons|stagioni]] in Cina o in Babilonia;
+egli sta adorando la fecondità del mondo. Ora, la nozione
+di restringere la proprietà al mero godimento del denaro è esattamente
+come la nozione di restringere l'[[Love|amore]] al mero godimento del sesso.
+In entrambi i casi un piacere incidentale, isolato, servile e persino segreto
+è sostituito alla partecipazione a un grande processo creativo;
+persino nell'eterna Creazione del mondo.
+
+Le due sinistre cose si possono vedere fianco a fianco nel sistema
+della [[Russia]] bolscevica; poiché il Comunismo è l'unico completo
+e logico modello funzionante del Capitalismo. I peccati sono là
+un sistema che ovunque altrove sono una sorta di errore ripetuto.
+Fin dal principio, è ammesso, l'intero sistema
+era diretto a incoraggiare o a spingere il lavoratore
+a spendere il proprio salario; a non aver più nulla il giorno di paga successivo;
+a godere ogni cosa e a consumare ogni cosa e a cancellare ogni cosa;
+in breve, a rabbrividire al pensiero di un solo delitto;
+il delitto creativo della parsimonia. Era una docile stravaganza;
+una sorta di dissipazione disciplinata; una mite e sottomessa prodigalità.
+Poiché nel momento in cui lo schiavo smetteva di bere tutto il suo salario,
+nel momento in cui cominciava ad accumulare o a nascondere qualche proprietà, egli avrebbe
+messo da parte qualcosa che poteva alla fine acquistargli la libertà.
+Egli poteva cominciare a contare per qualcosa nello Stato; cioè,
+poteva diventare meno uno schiavo e più un cittadino.
+Considerata moralmente, non vi è stata cosa così indicibilmente
+meschina come questa generosità bolscevica. Ma si noterà
+che esattamente il medesimo spirito e tono pervade il modo
+di trattare l'altra faccenda. Anche il sesso deve giungere allo
+schiavo meramente come un piacere; cosicché non possa mai essere una potenza.
+Egli deve sapere il meno possibile, o almeno pensare
+il meno possibile, del piacere come di qualcosa d'altro che
+un piacere; deve pensare o sapere nulla di dove esso venga
+o di dove andrà, una volta che l'oggetto insozzato è passato
+per le sue proprie mani. Egli non deve preoccuparsi della sua origine
+nei disegni di Dio o del suo seguito nella posterità dell'uomo.
+In ogni ambito egli non è un possessore, ma soltanto un consumatore;
+foss'anche dei primi elementi della vita e del [[Fire|fuoco]]
+in quanto essi sono consumabili; egli non deve avere alcuna nozione
+di quella sorta di Roveto Ardente che brucia e non si consuma.
+Poiché quel roveto cresce soltanto sul suolo, sulla terra reale
+dove gli esseri umani possono contemplarlo; e il luogo su cui essi
+stanno è terra santa. Vi è dunque un esatto parallelo tra
+le due moderne idee morali, o immorali, di [[Reform|riforma]] sociale.
+Il mondo ha dimenticato simultaneamente che il fare una Fattoria
+è qualcosa di assai più grande del fare un profitto, o persino
+un prodotto, nel senso di gradire il sapore dello zucchero di barbabietola;
+e che il fondare una Famiglia è qualcosa di assai più grande
+del sesso nel senso limitato della letteratura corrente; il che fu
+anticipato in un cupo e accecante lampo in un solo verso
+di George Meredith: «E mangiamo il nostro vasetto di miele sulla [[Grave|tomba]]».
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_32_st_thomas_more" data-title="Well And Shallows — St.  Thomas More" data-chapter="St Thomas More" data-kind="story"></span>
+
+
+ST.  THOMAS MORE
+
+MOST would understand the phrase that the mind of More was like a
+diamond that a [[Tyrant|tyrant]] threw away into a ditch, because he could
+not break it.  It is but a metaphor; but it does sometimes
+happen that the metaphor is many-sided, like the diamond.
+What moved the [[Tyrant|tyrant]] to a sort of terror of that mind was
+its clarity; it was the very reverse of a cloudy crystal
+filled only with opalescent [[Dreams|dreams]] or visions of the past.
+The [[King]] and his great Chancellor had been companions as [[Well|well]]
+as contemporaries; in many ways, both were [[Renaissance]] men;
+but in some ways, the man who was the more Catholic was
+the less medieval.  That is, there was perhaps more in the Tudor
+of that mere musty fag-end of decayed medievalism, which the real
+[[Renaissance]] reformers felt to be the corruption of the [[Time|time]].
+In More's mind there was nothing but clarity; in Henry's mind,
+though he was no [[Fool|fool]] and certainly no Protestant, there was
+something of confused conservatism.  Like many a better man
+who is an Anglo-Catholic, he had a touch of the antiquary.
+Thomas More was a better rationalist, which was why there was
+nothing in his religion that was merely local, or in that sense
+merely loyal.  More's mind was like a diamond also in a power
+like that of cutting glass; of cutting through things that seemed
+equally transparent, but were at once less solid and less
+many-sided. For the true consistent heresies generally look
+very clear indeed; like Calvinism then or Communism now.
+They sometimes even look very true; they sometimes even are very true,
+in the limited sense of a [[Truth|truth]] that is less than the [[Truth]].
+They are at once more thin and more brittle than the diamond.
+For a heresy is not often a mere lie; as Thomas More
+himself said, "Never was there a heretic that spoke all false."
+A heresy is a [[Truth|truth]] that hides all the other truths.
+A mind like More's was full of light like a [[house]] made of windows;
+but the windows looked out on all sides and in all directions.
+We might say that, as the [[Jewel|jewel]] has many facets, so the man
+had many faces; only none of them were masks.
+
+Thus there are so many aspects of this great story, that the
+difficulty of dealing with it in an article is one of selection,
+and even more of proportion.  I might attempt and fail to do justice
+to its highest aspect; to that holiness which now stands beyond
+even Beatitude; I might equally fill the whole space with the homeliest
+of the jokes in which the great humorist delighted in daily life;
+perhaps the biggest joke of all being the book called Utopia.
+The nineteenth century Utopians imitated the book without seeing
+the joke.  But among a bewildering complexity of such different
+aspects or angles, I have decided to deal only with two points;
+not because they were the most important truths about Thomas More,
+though their importance is very great; but because they are two of
+the most important truths about the world at this present moment.
+One appears most clearly in his [[Death|death]] and the other in his life;
+one, perhaps we should rather say, concerns his public life and
+the other his private life; one is far beyond any adequate admiration
+and the other may seem in comparison an almost comic bathos;
+but one hits exactly the right nail on the head in our present
+discussions about the State; and the other about the Family.
+
+Thomas More died the [[Death|death]] of a traitor for defying absolute monarchy;
+in the strict sense of treating monarchy as an absolute.
+He was willing, and even eager, to respect it as a relative thing,
+but not as an absolute thing.  The heresy that had just raised its head
+in his own [[Time|time]] was the heresy called the Divine Right of Kings.
+In that form it is now regarded as an old superstition; but it has
+already reappeared as a very new superstition, in the form of the
+Divine Right of Dictators.  But most people still vaguely think of it
+as old; and nearly all of them think it is much older than it is.
+One of the chief difficulties to-day is to explain to people
+that this idea was not native to medieval or many older times.
+People know that the constitutional checks on kings have been
+increasing for a century or two; they do not realize that any
+other kind of checks could ever have operated; and in the changed
+conditions those other checks are hard to describe or imagine.
+But most certainly medieval men thought of the [[King|king]] as ruling
+sub deo et lege; rightly translated, "under God and the law,"
+but also involving something atmospheric that might more vaguely
+be called, "under the [[morality]] implied in all our institutions."
+Kings were excommunicated, were deposed, were assassinated,
+were dealt with in all sorts of defensible and indefensible ways;
+but nobody thought the whole commonwealth fell with the [[King|king]],
+or that he [[Alone|alone]] had ultimate authority there.  The State did not own
+men so entirely, even when it could send them to the stake, as it
+sometimes does now where it can send them to the elementary school.
+There was an idea of refuge, which was generally an idea of sanctuary.
+In short, in a hundred strange and subtle ways, as we should think them,
+there was a sort of escape upwards.  There were limits to Caesar;
+and there was liberty with God.
+
+The highest voice of the Church has pronounced that this [[Hero|hero]]
+was in the true and traditional sense a Saint and Martyr.
+And it is appropriate to remember that he does indeed stand,
+for a rather special reason, with those first Martyrs whose [[Blood|blood]]
+was the seed of the Church in the very earliest pagan persecutions.
+For most of them died; as he did, for refusing to extend a civil
+loyalty into a religious idolatry.  Most of them did not die for
+refusing to worship Mercury or [[Venus]], or fabulous figures who might
+be supposed not to exist; or others like Moloch or Priapus whom
+we might [[Well|well]] [[Hope|hope]] do not exist.  Most of them died for refusing
+to worship somebody who certainly did exist; and even somebody
+whom they were quite prepared to obey but not to worship.
+The typical [[Martyrdom|martyrdom]] generally turned on the business of burning
+incense before the statue of Divus Augustus; the sacred image
+of the Emperor.  He was not necessarily a demon to be destroyed;
+he was simply a despot who must not be turned into a deity.
+That is where their case came so very close to the practical problem
+of Thomas More; and so very near to the practical problem of mere
+State-worship to-day. And it is typical of all Catholic thought
+that men died in torments, not because their foes "spoke all false";
+but simply because they would not give an unreasonable reverence
+where they were perfectly prepared to give a reasonable respect.
+For us the problem of Progress is always a problem of Proportion:
+improvement is reaching a right proportion, not merely moving
+in one direction.  And our doubts about most modern developments,
+about the Socialists in the last generation, or the Fascists in
+this generation, do not arise from our having any doubts at all about
+the desirability of economic justice, or of national order, any more
+than Thomas More bothered his head to object to a hereditary monarchy.
+He objected to the Divine Right of Kings.
+
+In the very deepest sense he is thus the champion of Liberty
+in his public life and his still more public [[Death|death]].  In his private
+life he is the type of a [[Truth|truth]] even less understood to-day;
+the [[Truth|truth]] that the real habitation of Liberty is the [[Home|home]].
+Modern novels and newspapers and problem plays have been
+piled up in one huge rubbish-heap to hide this simple fact;
+yet it is a fact that can be proved quite simply.
+Public life must be rather more regimented than private life;
+just as a man cannot wander about in the traffic of Piccadilly
+exactly as he could wander about in his own [[Garden|garden]].
+Where there is traffic there will be regulation of traffic;
+and this is quite as true, or even more true, where it is
+what we should call an illicit traffic; where the most modern
+governments organize sterilization to-day and may organize
+infanticide to-morrow. Those who hold the modern superstition
+that the State can do no wrong will be bound to accept such
+a thing as right.  If individuals have any [[Hope|hope]] of protecting
+their [[Freedom|freedom]], they must protect their family life.
+At the worst there will be rather more personal adaptation
+in a household than in a concentration camp; at the best there
+will be rather less routine in a family than in a factory.
+In any tolerably healthy [[Home|home]] the rules are at least partly
+affected by things that cannot possibly affect fixed laws;
+for instance, the thing we call a sense of [[Humour|humour]].
+
+Therefore More is vividly important as the Humorist;
+as representing that special phase of the Humanist.
+Behind his public life, which was so grand a [[Tragedy|tragedy]],
+there was a private life that was a perpetual [[Comedy|comedy]].
+He was, as Mr. Christopher Hollis says in his excellent study,
+"an incorrigible leg-puller." Everybody knows, of course,
+that the [[Comedy|comedy]] and the [[Tragedy|tragedy]] met as they meet in Shakespeare,
+on that last high wooden stage where his drama ended.
+In that terrible moment he realized and relished the grand
+joke of the human [[Body|body]], as of a sort of lovable lumber;
+gravely discussed whether his beard had committed treason;
+and said in hoisting himself up the ladder, "See me safely up;
+coming down I can take care of myself."
+
+But Thomas More never came down that ladder.  He had done
+with all descents and downward goings, and what had been
+himself vanished from men's eyes almost in the manner of
+his Master, who being lifted up shall draw all men after Him.
+And the dark closed over him and the clouds came between;
+until long afterwards the wisdom that can a read such [[Secrets|secrets]]
+saw him fixed far above our heads like a returning star;
+and established his station in the skies.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+SAN TOMMASO MORO
+
+I più comprenderebbero la frase secondo cui la mente di Moro era come un diamante che un [[Tyrant|tiranno]] gettò via in un fosso, perché non riusciva a spezzarlo. È solo una metafora; ma talvolta accade che la metafora sia sfaccettata, come il diamante. Ciò che mosse il [[Tyrant|tiranno]] a una sorta di terrore di fronte a quella mente era la sua limpidezza; era l'esatto contrario di un cristallo torbido, colmo soltanto di [[Dreams|sogni]] opalescenti o di visioni del passato. Il [[King]] e il suo grande Cancelliere erano stati compagni [[Well|come]] pure contemporanei; per molti versi entrambi erano uomini del [[Renaissance]]; ma per certi versi colui che era il più cattolico era il meno medievale. Vale a dire, forse c'era di più nel Tudor di quel misero e ammuffito rimasuglio di un medievalismo decaduto, che i veri riformatori del [[Renaissance]] sentivano come la corruzione del loro [[Time|tempo]]. Nella mente di Moro non c'era altro che limpidezza; nella mente di Enrico, benché non fosse uno [[Fool|sciocco]] e certamente non un protestante, c'era qualcosa di un confuso conservatorismo. Come tanti uomini migliori che sono anglo-cattolici, aveva un pizzico dell'antiquario. Tommaso Moro era un razionalista migliore, ed è per questo che nella sua religione non c'era nulla di meramente locale, o in quel senso meramente leale. La mente di Moro era simile a un diamante anche in una potenza pari a quella di tagliare il vetro; di tagliare attraverso cose che parevano ugualmente trasparenti, ma che erano insieme meno solide e meno sfaccettate. Poiché le vere eresie coerenti in genere appaiono davvero molto chiare; come il calvinismo allora o il comunismo oggi. A volte sembrano perfino verissime; a volte sono perfino verissime, nel senso limitato di una [[Truth|verità]] che è meno della [[Truth|Verità]]. Sono al tempo stesso più esili e più fragili del diamante. Perché un'eresia non è spesso una mera menzogna; come disse lo stesso Tommaso Moro: «Non vi fu mai eretico che dicesse tutto il falso». Un'eresia è una [[Truth|verità]] che nasconde tutte le altre verità. Una mente come quella di Moro era piena di luce come una [[house|casa]] fatta di finestre; ma le finestre guardavano da ogni lato e in ogni direzione. Potremmo dire che, come il [[Jewel|gioiello]] ha molte facce, così l'uomo aveva molti volti; solo che nessuno di essi era una maschera.
+
+Vi sono dunque tanti aspetti di questa grande storia, che la difficoltà di trattarla in un articolo è una difficoltà di scelta, e ancor più di proporzione. Potrei tentare, e fallire, di rendere giustizia al suo aspetto più alto; a quella santità che ora sta al di là perfino della Beatitudine; potrei allo stesso modo riempire l'intero spazio con le più casalinghe delle facezie di cui il grande umorista si dilettava nella vita quotidiana; e forse la più grande facezia di tutte è il libro chiamato Utopia. Gli utopisti dell'Ottocento imitarono il libro senza cogliere lo scherzo. Ma tra una sconcertante complessità di aspetti o angolazioni tanto diverse, ho deciso di trattare soltanto due punti; non perché fossero le verità più importanti su Tommaso Moro, benché la loro importanza sia grandissima; ma perché sono due delle verità più importanti sul mondo in questo preciso momento. Uno appare più chiaramente nella sua [[Death|morte]] e l'altro nella sua vita; l'uno, forse dovremmo piuttosto dire, riguarda la sua vita pubblica e l'altro la sua vita privata; l'uno è ben oltre ogni adeguata ammirazione e l'altro può sembrare, al confronto, un bathos quasi comico; ma l'uno colpisce esattamente il chiodo giusto nelle nostre attuali discussioni intorno allo Stato; e l'altro intorno alla Famiglia.
+
+Tommaso Moro morì la [[Death|morte]] di un traditore per aver sfidato la monarchia assoluta; nel senso stretto di trattare la monarchia come un assoluto. Era disposto, e perfino desideroso, di rispettarla come cosa relativa, ma non come cosa assoluta. L'eresia che aveva appena levato il capo ai suoi [[Time|tempi]] era l'eresia detta del Diritto Divino dei Re. In quella forma essa è oggi considerata una vecchia superstizione; ma è già riapparsa come una nuovissima superstizione, nella forma del Diritto Divino dei Dittatori. Eppure la maggior parte della gente la pensa ancora vagamente come antica; e quasi tutti la credono molto più antica di quanto sia. Una delle principali difficoltà odierne è spiegare alla gente che quest'idea non era propria dei tempi medievali o di tempi ancora più antichi. La gente sa che i freni costituzionali ai re sono andati crescendo da un secolo o due; ma non si rende conto che potesse mai operare qualche altra specie di freno; e nelle mutate condizioni quegli altri freni sono difficili da descrivere o da immaginare. Ma certissimamente gli uomini medievali pensavano al [[King|re]] come a colui che governava sub deo et lege; rettamente tradotto, «sotto Dio e la legge», ma implicando anche qualcosa di atmosferico che si potrebbe più vagamente chiamare «sotto la [[morality|moralità]] implicita in tutte le nostre istituzioni». I re venivano scomunicati, deposti, assassinati, trattati in ogni sorta di modo difendibile e indifendibile; ma nessuno pensava che l'intera comunità cadesse con il [[King|re]], o che egli [[Alone|solo]] vi avesse un'autorità ultima. Lo Stato non possedeva gli uomini tanto interamente, anche quando poteva mandarli al rogo, quanto talvolta li possiede ora, dove può mandarli alla scuola elementare. C'era un'idea di rifugio, che era generalmente un'idea di asilo. In breve, in cento modi strani e sottili, come li giudicheremmo noi, c'era una sorta di via di scampo verso l'alto. C'erano limiti a Cesare; e c'era libertà con Dio.
+
+La voce più alta della Chiesa ha proclamato che questo [[Hero|eroe]] fu, nel senso vero e tradizionale, un Santo e un Martire. Ed è opportuno ricordare che egli sta davvero, per una ragione piuttosto speciale, con quei primi Martiri il cui [[Blood|sangue]] fu il seme della Chiesa nelle primissime persecuzioni pagane. Poiché la maggior parte di essi morì, come lui, per essersi rifiutata di estendere una lealtà civile in un'idolatria religiosa. La maggior parte di essi non morì per essersi rifiutata di adorare Mercurio o [[Venus|Venere]], o figure favolose che si potevano supporre inesistenti; o altre come Moloch o Priapo che potremmo [[Well|ben]] [[Hope|sperare]] non esistano. La maggior parte di essi morì per essersi rifiutata di adorare qualcuno che di certo esisteva; e persino qualcuno cui erano del tutto disposti a obbedire, ma non ad adorare. Il tipico [[Martyrdom|martirio]] verteva in genere sulla questione di bruciare incenso davanti alla statua di Divus Augustus; la sacra immagine dell'Imperatore. Egli non era necessariamente un demone da distruggere; era semplicemente un despota che non doveva essere trasformato in una divinità. È qui che il loro caso giungeva tanto vicino al problema pratico di Tommaso Moro; e tanto prossimo al problema pratico del mero culto dello Stato d'oggi. Ed è tipico di tutto il pensiero cattolico che gli uomini morissero fra i tormenti, non perché i loro nemici «dicessero tutto il falso»; ma semplicemente perché non volevano tributare una riverenza irragionevole là dove erano perfettamente disposti a tributare un rispetto ragionevole. Per noi il problema del Progresso è sempre un problema di Proporzione: migliorare è raggiungere una giusta proporzione, non semplicemente muoversi in una sola direzione. E i nostri dubbi sulla maggior parte degli sviluppi moderni, sui Socialisti della scorsa generazione, o sui Fascisti di questa generazione, non nascono dall'avere il minimo dubbio sulla desiderabilità della giustizia economica, o dell'ordine nazionale, non più di quanto Tommaso Moro si desse pensiero di opporsi a una monarchia ereditaria. Egli si opponeva al Diritto Divino dei Re.
+
+Nel senso più profondo egli è dunque il campione della Libertà nella sua vita pubblica e nella sua ancor più pubblica [[Death|morte]]. Nella sua vita privata egli è il tipo di una [[Truth|verità]] ancor meno compresa oggi; la [[Truth|verità]] che la vera dimora della Libertà è la [[Home|casa]]. I romanzi e i giornali e i drammi a tesi moderni sono stati ammucchiati in un unico enorme mucchio di rifiuti per nascondere questo semplice fatto; eppure è un fatto che può essere provato assai semplicemente. La vita pubblica dev'essere per forza un po' più regimentata della vita privata; proprio come un uomo non può vagare nel traffico di Piccadilly esattamente come potrebbe vagare nel suo proprio [[Garden|giardino]]. Dove c'è traffico ci sarà una regolamentazione del traffico; e ciò è altrettanto vero, o anche più vero, dove si tratta di quel che chiameremmo un traffico illecito; dove i governi più moderni organizzano oggi la sterilizzazione e potranno organizzare domani l'infanticidio. Coloro che nutrono la moderna superstizione secondo cui lo Stato non può fare torto saranno costretti ad accettare una cosa simile come giusta. Se gli individui hanno una qualche [[Hope|speranza]] di proteggere la propria [[Freedom|libertà]], devono proteggere la loro vita familiare. Nel peggiore dei casi vi sarà un po' più di adattamento personale in una famiglia che in un campo di concentramento; nel migliore dei casi vi sarà un po' meno di routine in una famiglia che in una fabbrica. In ogni [[Home|casa]] tollerabilmente sana le regole sono almeno in parte influenzate da cose che non possono in alcun modo influire su leggi fisse; per esempio, quella cosa che chiamiamo senso dell'[[Humour|umorismo]].
+
+Perciò Moro è vividamente importante come l'Umorista; come rappresentante di quella fase speciale dell'Umanista. Dietro la sua vita pubblica, che fu una così grande [[Tragedy|tragedia]], c'era una vita privata che fu una perpetua [[Comedy|commedia]]. Egli era, come dice il signor Christopher Hollis nel suo eccellente studio, «un incorreggibile burlone». Tutti sanno, naturalmente, che la [[Comedy|commedia]] e la [[Tragedy|tragedia]] si incontrarono come si incontrano in Shakespeare, su quell'ultimo alto palco di legno dove terminò il suo dramma. In quel momento terribile egli comprese e gustò il grande scherzo del [[Body|corpo]] umano, come di una sorta di amabile ciarpame; discusse gravemente se la sua barba avesse commesso tradimento; e disse, issandosi su per la scala: «Aiutatemi a salire sano e salvo; a scendere saprò badare a me stesso».
+
+Ma Tommaso Moro non discese mai quella scala. Aveva finito con tutte le discese e con ogni andare verso il basso, e ciò che era stato lui stesso svanì dagli occhi degli uomini quasi alla maniera del suo Maestro, il quale, essendo innalzato, trarrà a Sé tutti gli uomini. E le tenebre si chiusero su di lui e le nubi si frapposero; finché, molto tempo dopo, la sapienza che sa leggere tali [[Secrets|segreti]] lo vide fisso alto sopra le nostre teste come una stella che ritorna; e stabilì la sua stazione nei cieli.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_33_the_return_of_caesar" data-title="Well And Shallows — The Return Of Caesar" data-chapter="The Return Of Caesar" data-kind="story"></span>
+
+
+THE RETURN OF CAESAR
+
+WHETHER or no it be an example of first and second [[Childhood|childhood]],
+I sometimes have a whimsical fancy that I shall end as I began,
+trying to make some sense out of what is called Liberalism in politics.
+There is a Fleet Street story about me, which may be a fact
+though I have entirely forgotten it, that when I was asked if I
+was a Liberal, I answered, "I am the only Liberal."  It will be
+agreed that, in these days, I should be very nearly the only Liberal.
+But I [[Hope|hope]] nobody will accuse me of wanting to be a Liberal leader.
+The Liberal Party now consists entirely of leaders--or rather
+mis-leaders. And all they want, all they have left to pray for,
+is one single simple solitary human being who is willing to be misled.
+On second thoughts, I rather [[Doubt|doubt]] whether I will offer myself
+even to fulfil this humble office; whatever may be my qualifications
+for filling all the seats at a public meeting, and constituting
+the whole audience, while my five leaders address me from the platform,
+urging me to five urgent but incompatible courses of action.
+No, the sense in which I have again become conscious of the existence
+of purely political Liberalism is not so much due to what remains
+of it, as to what has vanished from it; not to what the Liberals say
+as to what they do not say.  In the face of fashionable Fascism,
+and the toppling simplifications of the Totalitarian State,
+there really is a great deal that ought to be said for Liberalism;
+or, in clearer language, for Liberty.
+
+Many things return; and thank God we live now in a [[Time|time]] when we
+can talk once more about Church and State; though nowadays it
+generally means the [[Catholic Church]] and the Totalitarian State.
+But at least we have abolished the most illiberal of the illiberal
+limitations of Liberalism.  We can recognise religion in [[history]]
+at the back of European ideas, including modern ideas; and in this
+connection the story of Church and State is very strange indeed.
+Of course, the one thing that has really confused the story
+of Church and State is the thing called the State Church.
+But that is a mere illogical interlude; in which God holds his
+authority from Caesar; instead of Caesar holding it from God.
+The normal relation between Church and State, through most of
+the varied phases of [[history]], has not been exactly an establishment,
+but something more like what we have seen reappear in [[Germany]].
+When there was not a conflict, there was a Concordat.
+It will be noted that the Church generally had a Concordat
+with her enemies rather than her friends.  There was
+a dispute with Napoleon and a Concordat with Napoleon:
+a dispute with Mussolini and a Concordat with Mussolini;
+a dispute with Hitler and a Concordat with Hitler.
+And though the word would not perhaps have been used,
+and would not perhaps have been correct, something of the
+same [[Paradox|paradox]] broods like a suspended [[Storm|storm]] over the State
+and Church in their relations in even earlier times.
+It marks the Church in her relation with the Roman Emperors;
+in her relation witn tne Greek Emperors; in her relation with
+the German Emperors.  There was always some sort of Concordat,
+and there was never any complete concord.
+
+It needs nearly a lifetime to trace the curve or orbit
+of the Church, and the rhythm of things returning.
+But to one growing up as a Liberal, and in many ways still
+a Liberal, the chief interest of the last days is in this.
+The Church, roughly speaking, almost always remains at about
+the same distance from the State and its experiments.
+There are exceptions, of course; when an Emperor persecutes
+the Church or the Church excommunicates an Emperor.
+The Church could hardly be expected to concord very much, even in
+the coldest manner, with Nero or the No-God Movement in Moscow.
+But it is most often found at about the same distance from
+the State as it is now from the Totalitarian State.  Leo XIII
+stood at about that distance from the French Republican State.
+Few Catholics need originally have stood at any much greater
+distance even from the [[French Revolution]].  But the very names
+will serve to remind us of the vital point at issue.
+It is the State that changes; it is the State that destroys;
+it is nearly always the State that persecutes.
+The Totalitarian State is now making a clean sweep of all our
+old notions of liberty, even more than the [[French Revolution]]
+made a clean sweep of all the old ideas of loyalty.
+It is the Church that excommunicates; but, in that very word,
+implies that a communion stands open for a restored communicant.
+It is the State that exterminates; it is the State that abolishes
+absolutely and altogether; whether it is the American State
+abolishing beer, or the Fascist State abolishing parties,
+or the Hitlerite State abolishing almost everything but itself.
+
+Now suppose, for the sake of argument, that I did
+become again merely an ordinary Liberal, as the term
+was understood when I was active in Liberal politics.
+Suppose I thought the [[Time|time]] had come to remind men that there
+really is an intellectual advantage in hearing all sides;
+a help to order in a measure of liberty; a healthy irritation
+in [[government]] by [[debate]].  Suppose I said (as I do say)
+that every [[government]] ought to be checked by an opposition;
+suppose I said (as I do not say) that free international exchange
+is demonstrably better than all this economic nationalism.
+Suppose I said that recognised majority rule is better than
+random minority rule; suppose I said that [[Democracy]] as a failure
+is better than Dictatorship as a [[success]].  I could say all this,
+and much more, and remain a quite ordinary and orthodox member
+of the ancient Church.  But I could not say it, over a great part
+of the modern world, without being punished by the modern State.
+Rome with its religious authority would not [[Silence|silence]] me.
+But Fascism with its secular authority would [[Silence|silence]] me.
+Bolshevism with its secular authority would [[Silence|silence]] me.
+Hitlerism with its secular authority would [[Silence|silence]] me.
+When I began to live and (alas) to write, all the other Liberals
+had inherited a huge legend that all persecution had come
+from the Church.  Some of them still mumble old memories about
+the [[Spanish Inquisition]] (a thing started strictly by the State);
+with the fact staring them in the face that the actual
+persecution now going on in Spain is the spoliation of Spaniards,
+simply because they are Catholic priests and schoolmasters.
+But anyhow, it was supposed that what was called
+superstition was somehow the mother of persecution.
+I appeal to all my fellow-Liberals to admit that the facts
+have flatly contradicted this idea.  Every Catholic enjoys
+much more [[Freedom|freedom]] in Catholicism than any Liberal does under
+Bolshevism or Fascism.  I might have been a Liberal and belonged
+to the Centrum in [[Germany]] or the Parti to Populare in [[Italy]];
+it is not the Church but the State that would stop me.
+For the State has returned with all its ancient terrors out
+of antiquity; with the Gods of the [[City]] thundering from the sky and,
+marching with the pageant in iron panoply the [[Ghosts|ghosts]] of a
+hundred tyrants; and we have begun to understand in what wide
+fields and playgrounds of liberty, the [[Faith]] that made us free
+has so long allowed us to wander and to play.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL RITORNO DI CESARE
+
+Che sia o no un esempio di prima e seconda [[Childhood|infanzia]], talvolta accarezzo la bizzarra fantasia che finirò come ho cominciato, cercando di cavare un qualche senso da ciò che in politica si chiama Liberalismo. Circola su di me una storia di Fleet Street, che può essere un fatto, benché io l'abbia interamente dimenticata: che, quando mi fu chiesto se ero un Liberale, risposi: «Sono l'unico Liberale». Si converrà che, di questi tempi, sarei quasi l'unico Liberale. Ma [[Hope|spero]] che nessuno mi accusi di voler essere un capo liberale. Il Partito Liberale ora consiste interamente di capi — o meglio di sviatori. E tutto ciò che vogliono, tutto ciò che resta loro da implorare, è un unico, semplice, solitario essere umano che sia disposto a lasciarsi sviare. A pensarci meglio, [[Doubt|dubito]] piuttosto che io mi offra anche solo ad adempiere quest'umile ufficio; quali che siano le mie qualifiche per riempire tutti i posti di una pubblica assemblea, e costituire per intero l'uditorio, mentre i miei cinque capi mi arringano dal palco, esortandomi a cinque urgenti ma incompatibili linee d'azione. No, il senso in cui sono di nuovo divenuto consapevole dell'esistenza di un Liberalismo puramente politico non è dovuto tanto a ciò che ne rimane, quanto a ciò che ne è svanito; non a ciò che i Liberali dicono, ma a ciò che non dicono. Di fronte al Fascismo di moda, e alle vacillanti semplificazioni dello Stato Totalitario, c'è davvero moltissimo che andrebbe detto in favore del Liberalismo; o, in linguaggio più chiaro, in favore della Libertà.
+
+Molte cose ritornano; e grazie a Dio viviamo ora in un [[Time|tempo]] in cui possiamo tornare a parlare di Chiesa e Stato; benché oggigiorno ciò significhi in genere la [[Catholic Church|Chiesa Cattolica]] e lo Stato Totalitario. Ma abbiamo almeno abolito la più illiberale delle illiberali limitazioni del Liberalismo. Possiamo riconoscere la religione nella [[history|storia]], alle spalle delle idee europee, comprese quelle moderne; e sotto questo aspetto la vicenda di Chiesa e Stato è davvero assai strana. Certo, l'unica cosa che ha davvero confuso la vicenda di Chiesa e Stato è quella cosa chiamata Chiesa di Stato. Ma quello è un mero interludio illogico; in cui Dio detiene la sua autorità da Cesare, invece che Cesare detenerla da Dio. Il normale rapporto tra Chiesa e Stato, attraverso la maggior parte delle varie fasi della [[history|storia]], non è stato propriamente un'istituzione ecclesiastica di Stato, ma qualcosa di più simile a ciò che abbiamo visto riapparire in [[Germany|Germania]]. Quando non c'era un conflitto, c'era un Concordato. Si noterà che la Chiesa ebbe in genere un Concordato con i suoi nemici piuttosto che con i suoi amici. Ci fu una disputa con Napoleone e un Concordato con Napoleone: una disputa con Mussolini e un Concordato con Mussolini; una disputa con Hitler e un Concordato con Hitler. E benché la parola forse non sarebbe stata usata, e forse non sarebbe stata corretta, qualcosa dello stesso [[Paradox|paradosso]] incombe come una [[Storm|tempesta]] sospesa sullo Stato e sulla Chiesa nei loro rapporti anche in tempi ben più antichi. Segna la Chiesa nel suo rapporto con gli Imperatori Romani; nel suo rapporto con gli Imperatori Greci; nel suo rapporto con gli Imperatori Germanici. Ci fu sempre una qualche sorta di Concordato, e non ci fu mai una piena concordia.
+
+Ci vuole quasi una vita intera per tracciare la curva o l'orbita della Chiesa, e il ritmo delle cose che ritornano. Ma per chi cresce come un Liberale, e per molti versi è ancora un Liberale, il principale interesse degli ultimi tempi sta in questo. La Chiesa, grosso modo, resta quasi sempre all'incirca alla stessa distanza dallo Stato e dai suoi esperimenti. Vi sono eccezioni, naturalmente; quando un Imperatore perseguita la Chiesa o la Chiesa scomunica un Imperatore. Difficilmente ci si potrebbe aspettare che la Chiesa concordasse gran che, anche nel modo più freddo, con Nerone o con il Movimento del Non-Dio a Mosca. Ma il più delle volte la si trova all'incirca alla stessa distanza dallo Stato in cui è ora dallo Stato Totalitario. Leone XIII stava all'incirca a quella distanza dallo Stato Repubblicano francese. Pochi cattolici avrebbero dovuto in origine stare a una distanza molto maggiore perfino dalla [[French Revolution|Rivoluzione francese]]. Ma i nomi stessi serviranno a rammentarci il punto vitale in questione. È lo Stato che muta; è lo Stato che distrugge; è quasi sempre lo Stato che perseguita. Lo Stato Totalitario sta ora facendo tabula rasa di tutte le nostre vecchie nozioni di libertà, ancor più di quanto la [[French Revolution|Rivoluzione francese]] fece tabula rasa di tutte le vecchie idee di lealtà. È la Chiesa che scomunica; ma, in quella stessa parola, implica che una comunione resta aperta a un comunicante ristabilito. È lo Stato che stermina; è lo Stato che abolisce assolutamente e del tutto; sia che si tratti dello Stato americano che abolisce la birra, o dello Stato fascista che abolisce i partiti, o dello Stato hitleriano che abolisce quasi tutto tranne se stesso.
+
+Ora, supponiamo, per amor di discussione, che io divenissi di nuovo un semplice Liberale ordinario, come il termine era inteso quando ero attivo nella politica liberale. Supponiamo che io ritenessi giunto il [[Time|tempo]] di rammentare agli uomini che c'è davvero un vantaggio intellettuale nell'ascoltare tutte le parti; un aiuto all'ordine in una certa misura di libertà; una salutare irritazione nel [[government|governo]] per mezzo del [[debate|dibattito]]. Supponiamo che io dicessi (come dico) che ogni [[government|governo]] dovrebbe essere frenato da un'opposizione; supponiamo che io dicessi (come non dico) che il libero scambio internazionale è dimostrabilmente migliore di tutto questo nazionalismo economico. Supponiamo che io dicessi che il riconosciuto governo della maggioranza è migliore del casuale governo di una minoranza; supponiamo che io dicessi che la [[Democracy|Democrazia]] come fallimento è migliore della Dittatura come [[success|successo]]. Potrei dire tutto questo, e molto di più, e restare un membro del tutto ordinario e ortodosso dell'antica Chiesa. Ma non potrei dirlo, in gran parte del mondo moderno, senza essere punito dallo Stato moderno. Roma, con la sua autorità religiosa, non mi ridurrebbe al [[Silence|silenzio]]. Ma il Fascismo, con la sua autorità secolare, mi ridurrebbe al [[Silence|silenzio]]. Il Bolscevismo, con la sua autorità secolare, mi ridurrebbe al [[Silence|silenzio]]. L'Hitlerismo, con la sua autorità secolare, mi ridurrebbe al [[Silence|silenzio]]. Quando cominciai a vivere e (ahimè) a scrivere, tutti gli altri Liberali avevano ereditato un'enorme leggenda: che ogni persecuzione fosse venuta dalla Chiesa. Alcuni di essi ancora borbottano vecchi ricordi sull'[[Spanish Inquisition|Inquisizione spagnola]] (una cosa avviata rigorosamente dallo Stato); con il fatto che li fissa in faccia, cioè che l'effettiva persecuzione ora in corso in Spagna è la spoliazione di Spagnoli, semplicemente perché sono preti e maestri cattolici. Ma comunque, si supponeva che ciò che si chiamava superstizione fosse in qualche modo la madre della persecuzione. Faccio appello a tutti i miei compagni Liberali affinché ammettano che i fatti hanno nettamente contraddetto quest'idea. Ogni cattolico gode di molta più [[Freedom|libertà]] nel Cattolicesimo di quanta ne goda un qualsiasi Liberale sotto il Bolscevismo o il Fascismo. Avrei potuto essere un Liberale e appartenere allo Zentrum in [[Germany|Germania]] o al Partito Popolare in [[Italy|Italia]]; non è la Chiesa ma lo Stato che mi fermerebbe. Poiché lo Stato è tornato con tutti i suoi antichi terrori usciti dall'antichità; con gli Dèi della [[City|Città]] che tuonano dal cielo e, in marcia con il corteo in armatura di ferro, i [[Ghosts|fantasmi]] di cento tiranni; e abbiamo cominciato a comprendere in quali ampi campi e prati di libertà la [[Faith|Fede]] che ci ha resi liberi ci abbia così a lungo permesso di vagare e di giocare.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_34_austria" data-title="Well And Shallows — Austria" data-chapter="Austria" data-kind="story"></span>
+
+
+AUSTRIA
+
+LAST year, the representative of all that remains of
+the Holy Roman Empire was murdered by the barbarians.
+As an atrocity it has been adequately denounced;
+and it breeds in some of us rather a dumb sort of disgust,
+almost as if it had been done not by barbarians but by beasts.
+Perhaps the only further fact to be noted, on that side,
+is the fact that this is the only kind of effort in which
+these clumsy people are not merely clumsy.  The Nordic man of
+the Nazi type in [[Germany]] is a very slow thinker, and incredibly
+backward and behind the times in science and [[philosophy]].
+That is why, for instance, he clings to the word "Aryan,"
+as if he were his own great-grandfather laboriously poring
+over the first pages of Max Muller, under the concentrated
+stare of the astounded ethnologists of later days.
+He is slow in a great many things; as, for instance,
+in releasing prisoners who are admittedly [[Innocent|innocent]]; or in
+answering questions put by foreign critics or Catholic bishops.
+We have good reason to know that he is slow in paying his debts;
+to the point of ceasing to pay them.  He is very slow in bringing
+about the Utopia that he promised to the German people;
+the complete financial stability and the total disappearance
+of unemployment.  He is slow in a thousand things, from the
+length of his meals to the lengthiness of his metaphysics.
+But in one thing he is not slow but almost slick.  He is swift
+to shed [[Innocent|innocent]] [[Blood|blood]]; he really has a certain technique in
+the matter of murdering other people; and the prospect of this
+sport [[Alone|alone]] can move him to an animation that is almost human.
+Hitler really killed quite a creditable number of people
+for one week-end holiday; and the assassination of Dollfuss
+did show some touch of that efficiency, which the Nazis once
+promised to display in other fields of activity.
+
+But it is much more important to insist on the large human and historic
+matters mentioned at the beginning of this article.  Dollfuss died
+like a loyal and courageous man, asking [[Forgiveness|forgiveness]] for his murderers;
+and the souls of the just are in the hands of God, however much
+their enemies (with that mark of mere mud that is stamped over all
+they do) take a pleasure in denying them the help of their religion.
+But Dollfuss dead, even more than Dollfuss living, is also a symbol
+of something of immense moment to mankind, which is practically
+never mentioned by our politicians or our papers.  We call it for
+convenience Austria; in a sense we might more truly call it Europe;
+but, above all (for this is the vital and quite neglected fact), it would
+be strictly correct and consistent with [[history]] to call it [[Germany]].
+The very fact that the name of "[[Germany]]" has been taken from the Austrians
+and given to the Prussians sums up the [[Tragedy|tragedy]] of three hundred years.
+It was the tale of the war waged by the barbarians against the Empire;
+the real original German Empire.  It began with the first Prussian
+shot in the [[Thirty Years' War]]; it ended with the shot that killed
+the Austrian Chancellor.
+
+Whether we call it the Empire, or the Old [[Germany]] or the culture
+of the Danube, what Austria meant and means is this.
+That it is normal for Europeans, even for Germans, to be civilised;
+that it is normal for Europeans, even for Germans, to be Christians;
+and, we must in historic honesty add, normal for them to be Catholics.
+This culture always incurred the hatred of the barbarians to
+the north-east; and in the nineteenth century a barbarian of genius,
+named Bismarck, actually managed to transfer to Prussia the prestige
+that had always normally belonged to Austria.  That is the broad
+fact which is always left out in all modern enlightened discussion;
+for it involves two things; an elementary knowledge of [[history]],
+which is rare, and an elementary knowledge of recent [[history]],
+which is much rarer than a knowledge of ancient [[history]].
+There is always a chance that about six politicians have heard
+of the Roman Empire; and perhaps two and a half politicians have even
+heard of the Holy Roman Empire.  Among the scholarly leader-writers
+who have hitherto hardly noticed the existence of the Austrians,
+there are some who have read something about the Ostro-Goths
+or perhaps (if they are very scholarly) really do know much more
+about Austrasians than about Austrians.  It is sometimes possible
+to arouse faint interest in anything remotely historic and always
+possible to arouse a fashionable fuss about anything prehistoric.
+But the facts which led up to the facts which stare us in the face,
+those are known practically to nobody in the age of newspapers.
+And perhaps next to nobody among our rulers will know what is
+meant by saying that the filthy butchery at Vienna was but the
+continuation of a policy, expressed in the invasion of Silesia
+and the victory of Sadowa.
+
+We have at least learned one lesson to-day; that old things return.
+This is simply that very old remembrance of our race;
+the barbarian invasion.  This is not the Corporative State;
+or the Fascist Theory; or the thousand theories, including our own,
+for improving our ancient civilisation.  This is the Turks
+besieging Vienna.  If indeed it be not an injustice to the stately,
+the stable and the reverent religion of Mahomet to compare it
+with the feverish fads and fallacies that chase each other across
+the half-baked and half-baptized Teutonism of the North.
+This is, at least, what all men meant by the Turks besieging Vienna.
+It is the centre of our civilisation in peril; it is the blow
+of the barbarian when for once, in his blindness, he happens
+to aim at the heart.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+AUSTRIA
+
+L'anno scorso il rappresentante di tutto ciò che rimane del Sacro Romano Impero fu assassinato dai barbari. Come atrocità è stata adeguatamente denunciata; e suscita in alcuni di noi piuttosto una sorta di muto disgusto, quasi come se fosse stata compiuta non da barbari ma da bestie. Forse l'unico ulteriore fatto da rilevare, da quel lato, è che questo è l'unico genere di impresa in cui questa goffa gente non è meramente goffa. L'uomo nordico di tipo nazista in [[Germany|Germania]] è un pensatore assai lento, e incredibilmente arretrato e indietro coi tempi nella scienza e nella [[philosophy|filosofia]]. È per questo, ad esempio, che si aggrappa alla parola «ariano», come se fosse il suo bisnonno che si china laboriosamente sulle prime pagine di Max Müller, sotto lo sguardo fisso e concentrato degli sbalorditi etnologi di epoche successive. È lento in moltissime cose; come, ad esempio, nel rilasciare prigionieri riconosciuti [[Innocent|innocenti]]; o nel rispondere alle domande poste da critici stranieri o da vescovi cattolici. Abbiamo buoni motivi per sapere che è lento nel pagare i suoi debiti; al punto di cessare di pagarli. È molto lento nel realizzare l'Utopia che promise al popolo tedesco; la completa stabilità finanziaria e la totale scomparsa della disoccupazione. È lento in mille cose, dalla durata dei suoi pasti alla prolissità della sua metafisica. Ma in una cosa non è lento, bensì quasi svelto. È rapido nello spargere [[Blood|sangue]] [[Innocent|innocente]]; ha davvero una certa tecnica nella faccenda di assassinare gli altri; e la prospettiva di questo sport, da [[Alone|sola]], può muoverlo a un'animazione che è quasi umana. Hitler uccise davvero un numero piuttosto notevole di persone per un solo fine settimana di vacanza; e l'assassinio di Dollfuss mostrò davvero un certo tocco di quell'efficienza che i nazisti un tempo promisero di dispiegare in altri campi d'attività.
+
+Ma è assai più importante insistere sulle grandi questioni umane e storiche menzionate all'inizio di questo articolo. Dollfuss morì da uomo leale e coraggioso, chiedendo [[Forgiveness|perdono]] per i suoi assassini; e le anime dei giusti sono nelle mani di Dio, per quanto i loro nemici (con quel marchio di puro fango che è impresso su tutto ciò che fanno) provino piacere nel negare loro il soccorso della propria religione. Ma Dollfuss morto, ancor più di Dollfuss vivo, è anche il simbolo di qualcosa di immenso momento per l'umanità, che non viene praticamente mai menzionato dai nostri politici o dai nostri giornali. Per comodità lo chiamiamo Austria; in un certo senso potremmo più veracemente chiamarlo Europa; ma, soprattutto (poiché questo è il fatto vitale e del tutto trascurato), sarebbe rigorosamente corretto e coerente con la [[history|storia]] chiamarlo [[Germany|Germania]]. Il fatto stesso che il nome di «[[Germany|Germania]]» sia stato tolto agli Austriaci e dato ai Prussiani riassume la [[Tragedy|tragedia]] di trecento anni. Fu la storia della guerra mossa dai barbari contro l'Impero; il vero, originario Impero germanico. Cominciò col primo colpo prussiano nella [[Thirty Years' War|Guerra dei Trent'anni]]; si concluse col colpo che uccise il Cancelliere austriaco.
+
+Sia che lo chiamiamo l'Impero, o la Vecchia [[Germany|Germania]], o la cultura del Danubio, ciò che l'Austria significò e significa è questo. Che è normale per gli Europei, perfino per i Tedeschi, essere civili; che è normale per gli Europei, perfino per i Tedeschi, essere cristiani; e, dobbiamo aggiungere per onestà storica, normale per loro essere cattolici. Questa cultura suscitò sempre l'odio dei barbari a nord-est; e nell'Ottocento un barbaro di genio, di nome Bismarck, riuscì effettivamente a trasferire alla Prussia il prestigio che era sempre normalmente appartenuto all'Austria. Questo è il fatto generale che viene sempre tralasciato in ogni moderna e illuminata discussione; poiché implica due cose: una conoscenza elementare della [[history|storia]], che è rara, e una conoscenza elementare della [[history|storia]] recente, che è assai più rara di una conoscenza della [[history|storia]] antica. C'è sempre la possibilità che una mezza dozzina di politici abbiano sentito parlare dell'Impero Romano; e forse due politici e mezzo hanno persino sentito parlare del Sacro Romano Impero. Tra gli eruditi articolisti di fondo che finora hanno a malapena notato l'esistenza degli Austriaci, ve ne sono alcuni che hanno letto qualcosa sugli Ostrogoti o forse (se sono molto eruditi) sanno davvero assai più sugli Austrasiani che sugli Austriaci. È talvolta possibile suscitare un debole interesse per qualcosa di remotamente storico ed è sempre possibile suscitare un chiasso alla moda intorno a qualcosa di preistorico. Ma i fatti che condussero ai fatti che ci fissano in faccia, quelli sono noti praticamente a nessuno nell'età dei giornali. E forse quasi nessuno tra i nostri governanti saprà che cosa si intenda dicendo che l'immonda carneficina di Vienna non fu che la continuazione di una politica, espressa nell'invasione della Slesia e nella vittoria di Sadowa.
+
+Abbiamo almeno appreso una lezione oggi: che le cose antiche ritornano. Non è che il rammemorare antichissimo della nostra razza; l'invasione barbarica. Questo non è lo Stato Corporativo; o la Teoria Fascista; o le mille teorie, compresa la nostra, per migliorare la nostra antica civiltà. Questo sono i Turchi che assediano Vienna. Se pure non sia un'ingiustizia verso la solenne, la stabile e la reverente religione di Maometto paragonarla alle febbrili manie e fallacie che si rincorrono l'un l'altra attraverso il Teutonismo del Nord, mezzo crudo e mezzo battezzato. Questo è, almeno, ciò che tutti gli uomini intendevano per i Turchi che assediano Vienna. È il centro della nostra civiltà in pericolo; è il colpo del barbaro quando, per una volta, nella sua cecità, gli capita di mirare al cuore.
+
+-/-
+
+
+
+<span class="atom-split" data-atom="story_35_the_scripture_reader" data-title="Well And Shallows — The Scripture Reader" data-chapter="The Scripture Reader" data-kind="story"></span>
+
+
+THE SCRIPTURE READER
+
+MR.  BERNARD [[Shaw|SHAW]] has written a very Protestant tract, on the paramount
+duty of reading the [[Bible]], and especially of re-reading the [[Bible]];
+of course in the light of Private Judgment.  For Private Judgment
+is never wrong, just as Private Property is never right.
+It is something of a triumph to have carried principles so entangled
+and contradictory, unchanged, untroubled and unenlightened,
+through a long and valuable life.  Some technical difficulties
+may still prevent Mr. [[Shaw]]'s [[Bible]] tract from being included
+in the literature of the British and Foreign [[Bible]] Society;
+but I should imagine that they would soon be overcome; now that
+the old stuff that calls itself the Modern Mind has become such
+a muddy amalgam of [[Puritanism]] and Modernism that it does not matter,
+so long as a man reads his [[Bible]], whether he denies his God.
+But I, who [[Love|love]] and admire Bernard [[Shaw]], cannot help being sorry
+that he should have returned from the land of the Boers so completely
+transformed into a Baptist missionary beginning to have doubts
+about Habakkuk.  Perhaps it is a judgment on him for having
+supported the Imperialists in the Boer War; because the Webbs
+had the truly wonderful notion that it was "practical."
+
+Of course, like every other sectarian "Scripture-reader," Mr. [[Shaw]]
+re-reads the [[Bible]] and finds something different from what
+the last sectarian found.  That is the whole fun and futility
+of this "[[Sunday]] game," which has now been played for nearly four
+hundred years, and is about played out.  But the old sectaries,
+who discovered Calvinism or Quakerism or [[Mormonism]] in the [[Bible]],
+at least had the tenacity to keep hold of what they found;
+and finish their programme logically.  But, alas, Mr. [[Shaw]] is a true
+Modernist in the fact that he cannot complete even his own argument,
+for [[Fear|fear]] it should end by proving something.  His new theory
+of Holy Scripture is broadly this; that the Old Testament Prophets
+were each of them dealing with a different God; though they seem
+to have been under the impression that it was the same God.
+Thus the God of Job is better than the God of Noah; the God of Micah
+is better than the God of Job and therefore ... therefore what?
+The obvious logical conclusion of the argument would be that the God-Man
+of the Christians, the Second Person of the Trinity, was better than
+the God of Micah; and rightly replaced him on progressive principles.
+But here, of course, Mr. [[Shaw]] goes all to pieces; wildly reverses
+the whole of his own theory of theistic improvement, and collapses,
+muttering some nonsense about the psychological misfortunes of Jesus.
+That is only one part of the book; but it is typical of the whole
+of this jointless inconsequent modern way of writing.
+Pages upon pages are devoted to showing that primitive gods
+were leading up to something greater and more splendid;
+and it is perfectly obvious what they did actually lead up to.
+But the moment the Modernist sees it, he runs away from it.
+
+The actual story of the Black Girl seems to be modelled on Candide;
+indeed much of it takes place in the famous [[Garden|garden]] of Voltaire.
+It was not really a very wide [[Garden|garden]]; indeed, it was a narrow [[Garden|garden]],
+but it was a neat [[Garden|garden]], according to the Dutch gardening of the period:
+and it is almost a relief after the jungle of journalese that is now
+called modern thought.  Voltaire, unlike [[Shaw]], had a straightforward
+and logical plan for his story.  Candide is a youth brought up by a
+German professor in a very nonsensical [[philosophy]] called Optimism;
+like many nonsensical philosophies taught by German professors.
+It was to the effect that everything in this world fits in with our
+peace and comfort; whatever else it was, it was almost the opposite
+of Catholicism, or even Protestantism; for Christians had, if anything,
+rather exaggerated the [[Truth|truth]] that life is a vale of [[Tears|tears]] and a place
+of trial; that peace could only be found in the monastery or justice
+on the Day of Judgment.  But Voltaire has no difficulty in showing
+how real life knocked this Teutonic heresy of Optimism to pieces.
+But it marks the more muddled modern mentality that we do not really know,
+at the end of Mr. [[Shaw]]'s [[Parable|parable]], what it is that has been knocked
+to pieces; or whether the Black Girl has found God, or failed
+to find God, or found that there is no God to find.  Anyhow, she has
+found Mr. Bernard [[Shaw]], who is acting as Voltaire's gardener,
+but has not yet learnt the lucid style and thought of his employer.
+It must be a comfort to Mr. [[Shaw]] at least to know that he is truly
+a Proletarian.  Voltaire said that a man should cultivate his [[Garden|garden]].
+It is the measure of Progress that he has since apparently become
+a servant cultivating his master's [[Garden|garden]].
+
+For the rest, I know there are many simple people who will console
+and gratify my old friend by being duly shocked at various passages
+in his book.  It would be almost cruel to deprive him of such comfort;
+but I confess that I myself remained cold, and could not get
+anything resembling a decent shock out of the whole business.
+It always seems to me that we must face the question
+of whether we are dealing with believers or unbelievers;
+and only a believer can be a blasphemer.  We Catholics must
+realise that by this [[Time|time]] we are living in pagan lands;
+and that the barbarians around us know not what they do.
+Of course, those who think Jesus was an ordinary man will
+talk of Him in an ordinary way.  What I complain of is that,
+even then, they cannot talk of Him in a sensible way.
+For instance, Mr. [[Shaw]] has a long dialogue in which his
+imaginary Jesus feebly implies the idea that everything
+can be solved by [[Love|love]], and apparently [[Love|love]] of any kind.
+Now there is not a grain of evidence that the historical
+Jesus of Nazareth ever said that any such emotion,
+selfish or sensual or sentimental, must be a substitute
+for everything else everywhere.  Rousseau and the Romantics,
+in the [[Time|time]] of Voltaire, sometimes said something a little
+like it; and the Church resisted it from the beginning,
+just as Bernard [[Shaw]] wakes up to resist it in the end.
+It is much more important for us to point out that the attack
+on the [[Faith]] breaks down, by its own folly on its own ground,
+than to express our own feelings about some of the random
+results of its invincible ignorance, when it stumbles upon
+ground more sacred.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL LETTORE DELLE SCRITTURE
+
+Il SIG. BERNARD [[Shaw|SHAW]] ha scritto un opuscolo assai protestante, sul dovere supremo di leggere la [[Bible|Bibbia]], e specialmente di rileggere la [[Bible|Bibbia]]; naturalmente alla luce del Libero Esame. Poiché il Libero Esame non sbaglia mai, così come la Proprietà Privata non ha mai ragione. È qualcosa di un trionfo aver portato principii tanto ingarbugliati e contraddittori, immutati, imperturbati e non illuminati, attraverso una vita lunga e preziosa. Alcune difficoltà tecniche potrebbero ancora impedire che l'opuscolo [[Bible|biblico]] del sig. [[Shaw]] sia incluso nella letteratura della British and Foreign [[Bible]] Society; ma immagino che sarebbero presto superate; ora che quella vecchia roba che si autodefinisce la Mente Moderna è divenuta un amalgama tanto fangoso di [[Puritanism|Puritanesimo]] e Modernismo che non importa, purché un uomo legga la sua [[Bible|Bibbia]], se rinneghi il suo Dio. Ma io, che [[Love|amo]] e ammiro Bernard [[Shaw]], non posso fare a meno di rammaricarmi che egli sia tornato dalla terra dei Boeri così completamente trasformato in un missionario battista che comincia ad avere dubbi su Abacuc. Forse è un castigo per lui, per aver appoggiato gli Imperialisti nella Guerra Boera; perché i Webb ebbero la davvero mirabile idea che essa fosse «pratica».
+
+Naturalmente, come ogni altro settario «lettore delle Scritture», il sig. [[Shaw]] rilegge la [[Bible|Bibbia]] e vi trova qualcosa di diverso da ciò che vi trovò l'ultimo settario. È tutto qui il divertimento e la futilità di questo «gioco della [[Sunday|domenica]]», che si è ormai giocato per quasi quattrocento anni, ed è quasi esaurito. Ma i vecchi settari, che scoprirono il Calvinismo o il Quaccherismo o il [[Mormonism|Mormonismo]] nella [[Bible|Bibbia]], ebbero almeno la tenacia di tenersi stretti a ciò che avevano trovato; e di portare a compimento il loro programma con logica. Ma, ahimè, il sig. [[Shaw]] è un vero Modernista nel fatto che non riesce a completare nemmeno il proprio argomento, per [[Fear|paura]] che finisca col dimostrare qualcosa. La sua nuova teoria della Sacra Scrittura è in sostanza questa: che i Profeti dell'Antico Testamento avevano ciascuno a che fare con un Dio diverso; benché sembrino essere stati nell'impressione che fosse lo stesso Dio. Così il Dio di Giobbe è migliore del Dio di Noè; il Dio di Michea è migliore del Dio di Giobbe e perciò... perciò che cosa? L'ovvia conclusione logica dell'argomento sarebbe che il Dio-Uomo dei Cristiani, la Seconda Persona della Trinità, era migliore del Dio di Michea; e rettamente lo sostituì secondo principii progressivi. Ma qui, naturalmente, il sig. [[Shaw]] va tutto in pezzi; capovolge selvaggiamente l'intera sua teoria del miglioramento teistico, e crolla, borbottando qualche sciocchezza sulle sventure psicologiche di Gesù. Questa è solo una parte del libro; ma è tipica dell'intero, sconnesso e inconseguente modo moderno di scrivere. Pagine su pagine sono dedicate a mostrare che gli dèi primitivi conducevano verso qualcosa di più grande e di più splendido; ed è perfettamente ovvio a che cosa effettivamente condussero. Ma nel momento stesso in cui il Modernista lo vede, fugge da esso.
+
+La vicenda vera e propria della Ragazza Nera pare modellata sul Candide; e anzi buona parte di essa si svolge nel famoso [[Garden|giardino]] di Voltaire. Non era in realtà un [[Garden|giardino]] molto ampio; anzi, era un [[Garden|giardino]] angusto, ma era un [[Garden|giardino]] ordinato, secondo il giardinaggio olandese dell'epoca: ed è quasi un sollievo dopo la giungla del giornalese che ora si chiama pensiero moderno. Voltaire, a differenza di [[Shaw]], aveva un piano schietto e logico per la sua storia. Candide è un giovane allevato da un professore tedesco in una [[philosophy|filosofia]] assai insensata chiamata Ottimismo; come molte insensate filosofie insegnate da professori tedeschi. Essa sosteneva che ogni cosa in questo mondo si accorda con la nostra pace e il nostro conforto; qualunque altra cosa fosse, era quasi l'opposto del Cattolicesimo, o perfino del Protestantesimo; poiché i Cristiani avevano semmai piuttosto esagerato la [[Truth|verità]] che la vita è una valle di [[Tears|lacrime]] e un luogo di prova; che la pace poteva trovarsi solo nel monastero e la giustizia solo nel Giorno del Giudizio. Ma Voltaire non ha alcuna difficoltà a mostrare come la vita reale mandasse in pezzi questa eresia teutonica dell'Ottimismo. Ma segna la mentalità moderna più confusa il fatto che noi non sappiamo davvero, alla fine della [[Parable|parabola]] del sig. [[Shaw]], che cosa sia stato mandato in pezzi; o se la Ragazza Nera abbia trovato Dio, o non sia riuscita a trovare Dio, o abbia scoperto che non c'è alcun Dio da trovare. Comunque sia, ha trovato il sig. Bernard [[Shaw]], che fa da giardiniere di Voltaire, ma non ha ancora appreso lo stile e il pensiero lucido del suo datore di lavoro. Dev'essere un conforto per il sig. [[Shaw]] almeno sapere di essere davvero un Proletario. Voltaire disse che un uomo dovrebbe coltivare il proprio [[Garden|giardino]]. È la misura del Progresso che egli sia da allora apparentemente divenuto un servo che coltiva il [[Garden|giardino]] del suo padrone.
+
+Per il resto, so che vi sono molte persone semplici che consoleranno e gratificheranno il mio vecchio amico scandalizzandosi debitamente di vari passi del suo libro. Sarebbe quasi crudele privarlo di un tale conforto; ma confesso che io stesso sono rimasto freddo, e non sono riuscito a ricavare qualcosa che somigliasse a un decente turbamento da tutta la faccenda. Mi pare sempre che dobbiamo affrontare la questione se abbiamo a che fare con credenti o non credenti; e solo un credente può essere un bestemmiatore. Noi cattolici dobbiamo renderci conto che a questo [[Time|punto]] viviamo in terre pagane; e che i barbari intorno a noi non sanno quello che fanno. Naturalmente, coloro che ritengono che Gesù fosse un uomo ordinario ne parleranno in modo ordinario. Ciò di cui mi lamento è che, anche allora, non riescono a parlare di Lui in modo sensato. Per esempio, il sig. [[Shaw]] ha un lungo dialogo in cui il suo Gesù immaginario insinua fiaccamente l'idea che tutto possa risolversi con l'[[Love|amore]], e apparentemente con l'[[Love|amore]] di qualunque specie. Ora, non c'è un grano di prova che il Gesù storico di Nazaret abbia mai detto che una qualsiasi emozione simile, egoistica o sensuale o sentimentale, debba fungere da sostituto di ogni altra cosa ovunque. Rousseau e i Romantici, ai [[Time|tempi]] di Voltaire, dissero talvolta qualcosa di un po' simile; e la Chiesa vi resistette fin dal principio, proprio come Bernard [[Shaw]] si desta a resistervi alla fine. È assai più importante per noi far notare che l'attacco alla [[Faith|Fede]] crolla, per la propria stoltezza sul proprio terreno, piuttosto che esprimere i nostri sentimenti su alcuni dei casuali risultati della sua invincibile ignoranza, quando essa inciampa su un terreno più sacro.
 
 -/-
 

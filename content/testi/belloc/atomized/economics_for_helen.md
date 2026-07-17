@@ -5436,1128 +5436,6 @@ exchange.=
 
 
 
-<span class="atom-split" data-atom="story_03_the_process_of_production" data-title="Economics for Helen — THE PROCESS OF PRODUCTION" data-chapter="THE PROCESS OF PRODUCTION" data-kind="story"></span>
-
-
-THE PROCESS OF PRODUCTION
-
-You have seen how the production of wealth takes place through the
-combination of these three things, LAND, LABOUR AND CAPITAL, and you
-have also seen how the wealth so produced consists not in the objects
-themselves, but in the economic values attached to the objects.
-
-Now we will take a particular instance of wealth and show how this
-works out in practice and what various forms the production of wealth
-takes.
-
-Wealth, as we have seen, arises from the transposing of things around
-us from a condition where they are less to a condition where they are
-more useful to our needs.
-
-Let us take a ton of coal lying a thousand feet down under the earth
-and no way provided of getting at it. A man possessing that ton of
-coal would not possess any wealth. The coal lying in the earth has no
-economic value attaching to it whatsoever. It has not yet entered the
-process whereby it ultimately satisfies a human need.
-
-A shaft is sunk to get at that coal, and once the coal is reached a
-first economic value begins to attach to it. Next, further labour,
-capital and natural forces are applied to the task of hewing the coal
-out and raising it to the surface. This means that yet more economic
-values are attached to the ton of coal. These we express by saying that
-the ton of coal at the [[Bottom|bottom]] of the mine, just hewed out, is worth so
-much--say 15/-; and later at the pit head is worth so much more--say
-£1. But the process of production of wealth is not yet completed. The
-coal is needed to warm you in your [[house]], and your [[house]] is a long way
-from the pit head. It must be taken from the pit head to your [[house]],
-and for this transport further labour, natural forces and capital must
-be used, and these add yet another economic value to the coal.
-
-We express this by saying that the ton of coal delivered (that is, at
-your [[house]]) is worth not £1, which it was at the pit head, but £1 10s.;
-and in this example we see that transport is as much a part of the
-production of wealth as other work. We also see a further example of
-the [[Truth|truth]] originally stated that wealth does not consist in the object
-itself but in the values attached to it. The ton of coal is there in
-your cellar exactly the same (except that it is broken up) as it was
-when it lay a thousand feet under the earth with no way of getting
-to it. In your cellar it represents wealth. In possessing it you are
-possessing wealth to the amount of 30s. You could exchange it against
-30s. worth of some other thing, such as wheat. But the wealth you thus
-possess is not the actual coal, but the values attaching to the coal.
-These economic values are being piled up from the very beginning of the
-process of production until the process of consumption begins.
-
-Here is another case which shows how the process of production will add
-values to a thing without necessarily changing the thing itself.
-
-Suppose an [[Island|island]] where there is a lot of salt in mines near the
-surface, but with very poor pasture and very little of it; most of the
-soil barren and the climate bad. On the main-land, a day’s [[Journey|journey]] from
-the [[Island|island]], there is good soil and pasture and a good climate, but
-there is no salt. Salt is a prime necessity of life, and it comes into
-a lot of things besides necessaries. To the people of the main land,
-therefore, salt, which they lack, is of high value. To the people of
-the [[Island|island]] it is of low value, for they can get as much of it as they
-want, with very little trouble. Meanwhile, meat is of very high value
-to the people of the [[Island|island]], who can grow little of it on their own
-soil, while it is of much less value to the people of the main-land,
-who have plenty of it through their good pastures and climate. Here we
-have, let us say, 100 tons of salt in the [[Island|island]] and 100 tons of meat
-on the main-land. A boat takes the 100 tons of salt from the [[Island|island]]
-to the main-land and brings back the meat from the main-land to the
-[[Island|island]]. Here wealth has been created on both sides, although no change
-has taken place in the articles themselves except a change in position.
-Both parties, the islanders and the main-land people, are wealthier
-through the transaction, and this is a case where exchange is a
-direct creator of wealth, and the transport effecting the exchange is a
-creator of wealth.
-
-Strictly speaking, everything done to increase the usefulness of an
-object right up to the moment when consumption begins is part of the
-production of wealth. For instance, wealth is being produced from the
-moment that wheat is sowed in the ground to the moment when the baked
-loaf is ready for eating, and the wealth expressed by the loaf, that
-is, the values attaching to it, are made up by all the processes of
-adding values from the first moment the seed was sown. When you eat a
-sixpenny loaf you are beginning to consume values created by the sowing
-of the wheat and its culture and its harvesting and grinding, and the
-working of the flour into dough, and the baking, and created by every
-piece of transport in the process, the carting of the sheaf into the
-rick, the carting thrashed wheat to the mill, the taking of the flour
-to the baker, the taking of the baked loaf to your [[house]], and even the
-bringing of the loaf from the larder to your table. Every one of these
-actions is part of the production of wealth.
-
-There is attaching to the process of the production of wealth a certain
-character which we appreciate easily in some cases, but with much more
-difficulty in others. We have already come across it in discussing
-Capital. It is this:
-
-All wealth is consumed.
-
-This is universally true of all wealth whatsoever, though the rate of
-consumption is very different in different cases.
-
-The purpose of [[Nature|nature]] is not the purpose of man. Man only creates
-wealth by a perpetual effort against the purpose of [[Nature|nature]], and the
-moment his effort ceases [[Nature|nature]] tends to drag back man’s creation from
-a condition where it is more to a condition where it is less useful to
-himself.
-
-For some sorts of wealth the process is very rapid, as, for instance,
-in the consumption of fuel, or in the wasting of ice on a hot day.
-Man with an expenditure of his energy and brains applied to natural
-forces, and by the use of capital, has caused ice to be present under
-conditions where [[Nature|nature]] meant there to be no ice--a hot [[Summer|summer]]’s day.
-
-He has brought it from a high, cold place far away; or he has kept it
-from the [[Winter|winter]] onwards stored in an ice [[house]] which he had to make and
-to which he had to transport it; or he has made it with engine power.
-But the force of [[Nature|nature]] is always ready to melt the ice when man’s
-effort ceases.
-
-The moment man’s effort ceases, deterioration, that is, _the
-consumption of the wealth present_, at once begins. And this [[Truth|truth]]
-applies at the other end of the scale. You may make a building of
-granite, but it will not last for ever. The consumption is exceedingly
-slow, but it is there all the same. And whether the consumption takes
-place in the service of man (as when fuel is burnt on a hearth) or
-by neglect (as when a derelict [[house]] decays) it is always _economic
-consumption_.
-
-We may sum up in the following Formulæ:--
-
-1. =Transport and Exchange, quite as much as actual work on the
-original material, form part of the Production of Wealth.=
-
-2. =All Wealth is ultimately consumed: that is, matter having been
-transposed by man from a condition where it is less to a condition
-where it is more useful to himself, is dragged back from a condition
-where it is more to a condition where it is less useful to himself.=
-
-
-
-
-<span class="atom-split" data-atom="story_05_exchange" data-title="Economics for Helen — EXCHANGE" data-chapter="EXCHANGE" data-kind="story"></span>
-
-
-EXCHANGE
-
-EXCHANGE is really only a form of production, as we saw in the
-illustration of the [[Island|island]] with salt and the main-land with meat. When
-the exchange of the things is of advantage to both parties it creates
-wealth for both, and profitable exchange is, therefore, when it takes
-place, only the last step in a general chain of production.
-
-But Exchange is so separate an action that students of [[Economics]] have
-agreed to treat it as a sort of chapter by itself, and we will do so
-here.
-
-The characteristic of Exchange is that you take a thing from a place
-where it has less value to a place where it has more value, thus adding
-an economic value to the thing moved and so creating wealth. In the
-same transaction you bring back something else against it, which has
-more value in your own place than it had in the place from which you
-took it, that is again adding an economic value and therefore creating
-wealth. We saw how this was in the case of the salt and the meat, and
-so it is with thousands upon thousands of exchanges going on all over
-the world.
-
-For instance, we in [[England]] have grown fond of drinking tea in the last
-200 years. But our climate will not allow us to grow tea. Tea can only
-grow in a very hot country.
-
-Now in very hot countries specially heavy labour upon metal work is not
-to be expected. Men are not fit for it. But in this cool climate men
-are fit for it, and also men here have through long practice become
-very skilful at working metal: smelting iron, for instance, and making
-it up into machines.
-
-Therefore, there is a [[Double|double]] advantage to us and to the people who live
-in the hot countries where tea is grown if we exchange. We send them
-metal things that we have made and which are useful to them, and which
-they could hardly make themselves, or only with very great difficulty
-(and, therefore, at a great expense of energy), and we get from them
-tea, which we could not grow here except in hot houses: that is, at
-much more expense of energy than is needed in the countries where tea
-grows naturally out of doors.
-
-When there are present two or more objects of this kind, such that the
-exchange of them between two places will benefit both parties, we may
-speak of “a potential of exchange,” stronger or weaker according to
-the amount of mutual advantage derived.
-
-This word “potential” you will not find yet in many books, but it is
-coming in, for it is a very useful word. It is taken by way of metaphor
-from Physical Science. When there is a head of [[Water|water]] over a dam, or a
-current of electricity of such and such an intensity, we talk of the
-“potential” and measure it. For instance, we say this electrical
-current is [[Double|double]] the potential of that, or the head of [[Water|water]] working
-such and such turbines is at [[Double|double]] the potential of another head of
-[[Water|water]] in the neighbourhood. In the same way we talk of a “potential” of
-exchange, meaning a tendency for exchange to arise between two places
-or people because it is of mutual benefit to both.
-
-Potentials of exchange come into existence not only through difference
-of climate or differences of habit, but also through what is called
-the Differentiation of Employment, which is also called Division of
-Labour.
-
-Thus two countries may be both equally able to produce, say, metal work
-and silk fabrics, and yet if one of them concentrates on getting better
-and better at metal work and the other on getting better and better
-at silk fabrics, it may [[Well|well]] be that both will benefit by separating
-their jobs and exchanging the results. And this is true not only of two
-countries, but of individuals and groups.
-
-The cobbler does not make his own clothes. He makes boots, and by
-learning his trade and getting used to it makes them much better and in
-a much shorter [[Time|time]] than other men could, and therefore makes a pair
-of boots with less expense of energy, that is, cheaper, than another
-man would. The tailor can say the same thing about making clothes.
-So it is to the advantage of the cobbler to exchange his extra boots
-against the extra clothes the tailor has made.
-
-In general: intelligent societies always tend to build up a very
-wide-spread system of exchange, because intelligent people tend to
-concentrate each on the job that suits him best, and also because
-intelligent people discover differences of climate and soil and the
-rest which may make exchange between two places a mutual advantage for
-both.
-
-It is indeed a great mistake to do as some modern people do, and put
-Exchange in front of Production. Thus you hear people talking as
-though the trade a country does, the total amount of its exports and
-imports, were the test of its prosperity, whereas the real test of its
-prosperity is what it has the power to consume, not what it manages to
-exchange.
-
-But still, though it comes at the end of Production and must never be
-made more important than the whole process of Production, Exchange is
-present universally wherever there is active production of Wealth. Thus
-the group of people who build ships are really exchanging what they
-make against the produce of other people who make clothes and grow food
-and build houses, and the rest of it; and in a highly-civilised country
-like ours much the greater part of the wealth you see consumed around
-you has gone through many processes of exchange.
-
-There are a few elementary Formulæ concerning Exchange which it is
-important to remember.
-
-1. =There is a Potential of Exchange, that is, exchange tends to take
-place, when of two objects the proportionate values are different in
-two different communities.=
-
-It is not very easy to understand the meaning of this until one is
-given an example. Supposing a ton of coal from [[England]] to be worth £2
-by the [[Time|time]] it is delivered in Cadiz, and supposing that making a dozen
-bottles of wine in [[England]], with all the apparatus of hot-[[house]] grapes
-and the rest of it, came to £5 of expense. Supposing that in Cadiz,
-from the small coal mines near by, they can produce coal at only £1 a
-ton, but on account of their climate they can produce a dozen of wine
-for a shilling. Then you get this curious situation:
-
-It pays the exporting country, [[England]], to sell coal in Cadiz _at less
-than its English economic value_, and to import the wine from Cadiz.
-It pays your English owner of coal, although the values attaching to
-it by the [[Time|time]] it has got to Cadiz are £2 a ton, to sell a ton of coal
-there for only £1, and to exchange that against the wine of Cadiz, and
-bring that back to [[England]]. At first sight it sounds absurd to say that
-selling thus at a lower value than the cost of production and transport
-can possibly be profitable. But if you will look at it closely you
-will see that it is so.
-
-If the Englishman had tried to make his wine at [[Home|home]] it would have cost
-him £100 to make twenty dozen bottles, but when he has sold his coal
-at Cadiz for £1 he can with that £1 buy twenty dozen of wine and bring
-it back to [[England]]. He is much the wealthier by the transaction, and
-so is the man at Cadiz. The Cadiz man could have spent his energies in
-digging out a ton of coal near Cadiz instead of importing it, but the
-same energies used in making wine produce enough wine to get him rather
-more coal from [[England]].
-
-2. The second Formula to remember about Exchange is this: =Goods do not
-directly exchange always one against the other, but usually in a much
-more complicated way, by what may be called= Multiple Exchange.
-
-Of course, the vehicle by which this is done is a currency, or money,
-which I will explain in a moment; but the point to seize here is that
-exchange is just as truly taking place when there is no direct barter
-of two things but a much longer and complicated process.
-
-For instance, a group of people called a Railway Company in the
-Argentine want a locomotive. A locomotive can be produced cheaper and
-better, that is, with less expenditure of energy for the result, in
-[[England]] than in the Argentine. But on the other hand, [[England]] wants
-to import tea. Now the Argentine grows no tea. What happens? How does
-[[England]] get the tea? That locomotive goes out to the Argentine. An
-amount of wheat sufficient to exchange against the locomotive goes
-against it, not to [[England]], but to Holland, a country which, like us,
-has to import a lot of wheat. As against the wheat sent to Holland,
-the people in Holland send, say, the cheeses which they make so [[Well|well]],
-on account of their special conditions, and the consignment goes to
-[[Germany]]. The Germans send out a number of rails equivalent to the
-number of cheeses and of the wheat and of the locomotive, as they are
-very good at making rails, and have specialised on it. But they do not
-send the rails to Holland. They send them to some Railway Company which
-has asked for them in [[Egypt]]. The Egyptian people send out an equivalent
-amount of cotton, which they can grow easily in their climate, and this
-cotton goes to mills in India, and against it there comes an equivalent
-amount of tea, but the tea does not go back to [[Egypt]]. It goes to
-[[England]].
-
-There you have a circle of Multiple Exchange in which everybody profits
-by the exchange going on, although it is indirect. In the same way,
-of course, it is true that all of our domestic exchanges at [[Home|home]] are
-multiple. If I write a book which people want to read, whereas I want
-not books but several other things, boots and fuel and furniture, I
-do not take my books round to the man who provides boots and to the
-one who provides fuel and to the one who provides furniture. I go
-through the process of selling my book to a publisher, and through an
-instrument he gives me, called a cheque (I will explain this when we
-come to the point of money), I can obtain boots and fuel and furniture
-to the amount of the value of the books of mine which my publisher will
-sell. Yet when exchange is thus highly indirect and multiple it is just
-as much exchange as though I went and bartered one book for one pair of
-boots with the cobbler.
-
-3. The third thing to remember about Exchange is of the utmost
-importance, because it has given rise to one of the biggest discussions
-of our English politics. The Formula runs thus:--
-
-=Other things being equal, the greatest [[Freedom|freedom]] of exchange in any
-given area makes for the greatest amount of wealth in that area.=
-
-It ought to be [[Self|self]] evident, but it is astonishing how muddled people
-get about it, when they become confused over details and cannot see
-the wood for the trees. It ought, I say, to be [[Self|self]]-evident that if
-you leave Exchange quite free, anybody being at [[Liberty|liberty]] to produce
-what he can produce best, and exchange it for things which other men
-can produce better than he, both parties will tend to be the richer by
-such [[Freedom|freedom]] and the wealth of the whole country will be greatest when
-all exchanges in it are thus left free to be worked by the sense of
-advantage.
-
-If there were a law, for instance, preventing me from buying etchings,
-or preventing [[Jones]], the etcher, from buying books, [[Jones]] would have to
-write his own books (or do without them, which is what he would do),
-and I should have to etch my own etchings, which would be exceedingly
-poor compared with the wonderful etchings of [[Jones]]. We are obviously
-both of us better off if we are left free to exchange what we can each
-make best. And so it is with all the countless things made in a State.
-
-This principle applies not only to a particular nation but to the whole
-world. If you left the whole world free to exchange the whole world
-would be the richer for it. And any interference with exchange between
-one nation and another lessens the total possible amount of wealth
-there might be in the world.
-
-So far so good; and, as I have said, such a [[Truth|truth]] ought to be
-[[Self|self]]-evident. But here there comes in a misunderstanding of its
-application, and that misunderstanding has made any amount of trouble.
-It is so important that I must give it a separate division to itself.
-
-
-
-
-<span class="atom-split" data-atom="story_06_free_trade_and_protection" data-title="Economics for Helen — FREE TRADE AND PROTECTION" data-chapter="FREE TRADE AND PROTECTION" data-kind="story"></span>
-
-
-FREE TRADE AND PROTECTION
-
-Nations, as we know, put up tariffs against goods which come from
-abroad: That is, their Governments tax imports of certain goods and
-thereby interfere with the [[Freedom|freedom]] of exchange. For instance, the
-French have a tax of this kind upon wheat. Wheat grown in [[France]] will
-cost, let us say, £1 a sack, but the Argentine can send wheat to [[France]]
-at an expense of only 10s. a sack, because the land there is new, and
-for various other causes. If the wheat from the Argentine were allowed
-to come in freely, and the French to export against it things which
-they can make more easily than wheat they would have more wheat at a
-less total expense; but they prefer to put a tax of ten shillings upon
-every sack, that is, to put up a barrier against the import of wheat
-from abroad, and so keep up the price artificially at [[Home|home]].
-
-When a nation does this with regard to any object that may be imported,
-if the object can also be produced within the nation (which it nearly
-always can) it is said to protect that object, and the system of so
-doing is called Protection. The word arose from the demand of certain
-trades to be “protected” by their Governments without considering
-whether it was for the good of the whole nation or not. It obviously
-would be a very nice thing for people who breed sheep, for instance, in
-this country, if all mutton coming from the Colonies were taxed at the
-Ports, while the mutton grown inside the country were not taxed; for in
-this way the value of the mutton would rise in [[England]], and the rise
-would benefit the sheep owners. But it would be at the expense of all
-the other people who did not grow sheep, and who would have to pay more
-for their mutton.
-
-As opposed to this system of Protection, and interfering with
-international exchange by a tariff, intelligent people a long lifetime
-ago began to agitate for what they called “FREE TRADE,” that is the
-putting of no tariff on to an import, or at least no tariff high enough
-to give an artificial price to the producer of the same thing at [[Home|home]].
-Thus, when [[England]] was completely Free Trading (which it was until the
-war) there was a tariff on tea; but that was not Protection, for those
-who would try to grow tea here would have to grow it in hot houses and
-at an enormous expense, and the tax on tea, though heavy, did not make
-it anything like so dear as to make it worth while to produce tea here.
-
-Another principle of Free Trade was that if it was thought advisable
-to put a tariff on to anything coming into the country which could be
-produced in the country, then you would have to put what was called
-“an equivalent excise” on the thing produced at [[Home|home]]. For instance,
-in order to get revenue, one might put a tax of a 1d. on the pound
-on sugar coming from [[Germany]], but, according to the doctrine of Free
-Trade, you must put a similar excise (that is, a [[Home|home]] tax of 1d. on the
-pound) upon any sugar produced in [[England]]. If you did not do that you
-would be benefiting the sugar manufacturer in [[England]] at the expense
-of all other Englishmen, which would be unjust and also make [[England]]
-less wealthy because it would be inducing Englishmen to make sugar by
-offering them a reward and so take them away from some production for
-which they were better fitted.
-
-This idea, that Free Trade must necessarily be of advantage to
-everybody, and that it was only stupidity or private avarice which
-supported Protection, was very strong in [[England]], and, in the form you
-have just read, it seems beyond contradiction.
-
-But if you will look closely at Formula No. 3 written in the last
-division on page 59 you will see that there is a fallacy hidden in this
-universal Free Trade theory. It is perfectly true that free exchange
-over any area tends to make the wealth of all that area greater, and
-if the area include the whole world, then free exchange all over the
-whole world, that is, complete Free Trade, would make the world as a
-whole richer.
-
-But it does not follow that EACH PART _of the area thus made richer
-is itself enriched_. That is the important point which the Free Trade
-people missed, and it is this which supports, in some cases, the
-argument for Protection.
-
-If we allow free exchange everywhere throughout [[England]], [[England]] as a
-whole will, of course, be the richer for it; but it is quite possible
-that Essex will be the poorer. If we allow Free Trade throughout all
-[[Europe]], [[Europe]] will be the richer for it; but it is quite possible that
-some particular part of [[Europe]], [[Italy]] or [[Spain]], may be made poorer by
-the general process, and as they don’t want to be poorer they will
-by Protection and tariffs cut themselves off from the area of free
-exchange.
-
-=There are conditions where an interference with free exchange over
-the boundaries of a particular area make that area richer: when those
-conditions exist, there is what is called an Economic Reason for
-Protection.=
-
-So we may sum up and say that the theory of universal Free Trade being
-of benefit to the world as a whole is perfectly true. If we are only
-considering the world, and do not mind what happens to some particular
-area of the world, then the case for Free Trade is absolute. But if
-we mind a hurt being done to some particular area, such as our own
-country, more than we mind the hurt done to the world as a whole,
-then we should look at our particular conditions and see whether our
-country may not be one of those parts which will be drained of wealth
-by Free Trade and will be benefited by artificially fostering internal
-exchanges.
-
-In the second part of this book I will go into this again, and show
-how the discussion arose in [[England]] and what the arguments are for and
-against Universal Free Trade, and how true it is that a sound economic
-argument for Protection exists.
-
-
-
-
-<span class="atom-split" data-atom="story_08_introduction" data-title="Economics for Helen — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
-
-
-INTRODUCTION
-
-So far I have been putting down the elements of [[Economics]] just as one
-might put down the elements of Arithmetic. But [[Economics]] have, just
-like Arithmetic, a practical application: if it were not for this,
-there would be no real use in studying [[Economics]] at all.
-
-For instance: we find out, when we do the elements of Arithmetic, that
-solid bodies vary with the cube of their linear measurements. That is
-the general abstract principle; but the use of it is in real life
-when we come (for instance) to measuring boats. We learn there from
-Arithmetic that, with boats of similar shape, a boat twice as long as
-another will be eight times as big; it is also by using the elements of
-Arithmetic that we can keep household accounts and do all the rest of
-our work.
-
-It is precisely the same with [[Economics]]. We are perpetually coming upon
-political problems which [[Economics]] illustrate and to which economic
-science furnishes the answer--or part of the answer--and that is where
-the theoretical elements of [[Economics]] have practical importance.
-
-For instance: once we know the elementary economic principle that
-rent is a surplus, we appreciate that it does not enter into cost
-of production. We do not try to make things cheaper by compulsorily
-lowering rent. Or, again, when we have learned the [[Nature|nature]] of money we
-can appreciate the dangers that come from using false money.
-
-In these political applications of [[Economics]] we also come upon what
-is much more important than mere politics, and that is the question
-of right and wrong. We see that such and such a thing ought to be so
-as a matter of justice; but we may blunder, as many great reformers
-have blundered, in trying to do the right thing and failing to do it,
-because we have not made a proper application of our economic science.
-And the opposite is also true: that is, a knowledge of [[Economics]]
-prevents their being wrongly applied by those who [[Desire|desire]] evil. Many
-men take refuge in the excuse that, with the best will in the world,
-they cannot work such and such a social [[Reform|reform]] because economic science
-prevents their doing what they know to be right. If we know our
-[[Economics]] properly we can refute these false arguments, to the great
-advantage of our own souls and of our fellow-men.
-
-For instance: it is clearly our duty to-day to alleviate the fearful
-[[Poverty|poverty]] in which most Englishmen live. A great many people who ought to
-know better say, or pretend, that economic laws prevent our doing this
-act of justice. Economic laws have no such effect; and an understanding
-of [[Economics]] clears us in this matter, as we shall see later on.
-
-We have hitherto been following the statement and examination of
-economic laws: that is, the theoretical part of our study and its
-necessary foundation. Now we go on to the practical part, or “Applied
-[[Economics]],” which is the effect of those laws on the lives of men.
-
-Before leaving this Introduction I think it is important to get quite
-clear the difference between what is called “theoretical” study
-and the practical application of such study. People are very often
-muddle-headed about this, and the more clearly we think about it the
-better.
-
-A theoretical statement is a statement following necessarily and
-logically from some one or more known first principles. Thus, we know
-that two sides of a triangle are longer than the third, so we say it
-follows theoretically that a straight [[Road|road]] from [[London]] to Brighton
-is quicker motoring than going round by Lewes. But the number of first
-principles at work in the actual world is indefinitely large. Therefore
-one must test any one theoretical conclusion by practice: by seeing how
-it works. Because, side by side with the one or two first principles
-upon which our theory is built, there are an indefinitely large number
-of other first principles which come into play in the real world.
-Thus there is, in motoring, the principle that [[Speed|speed]] varies with [[Road|road]]
-surface. So the way round by Lewes may be quicker than the straight
-[[Road|road]] if it has a better surface. There is yet another principle that
-[[Speed|speed]] is checked by turnings in the [[Road|road]], and it may prove that on
-trial the two ways are about equal.
-
-Or again: we know that the tidal wave is raised on either side of the
-earth, and that there is, therefore, about twelve hours of even ebb and
-flow, six hours each on the average and taking the world as a whole:
-because the earth takes twenty-four hours to go round.
-
-But if you were to act upon that first principle only in any one
-part of the world, and to say without testing the thing in practice,
-“I can calculate the tide theoretically,” you would very often wreck
-your [[Ship|ship]]. For many other principles come into play in the matter of
-the tide besides this twelve-hour period. In one case the tide will be
-delayed by shoals or by the current of a [[River|river]]. In another there may be
-two or three tides meeting. In a third the sea will be so locked that
-there will be hardly any tide for many hours, and then a rush at the
-end--and so on.
-
-Now it is just the same with [[Economics]]. Your economic first principle
-makes you come to such and such a theoretical conclusion. But there
-are a lot of other first principles at work, and they may modify the
-effect in practice to any extent. When people object to “theoretical
-dreaming,” as they call it, they mean the bad habit of thinking
-that one conclusion from one particular set of first principles is
-sufficient and will apply to any set of circumstances. It never does.
-One has always to watch the thing in practice, and see what other
-forces come in.
-
-In the political applications of economic science we have to deal with
-the effect of human society upon economic law. For instance: economic
-law tells us that, given a certain standard of living for labour--the
-“worth while” of labour--and a certain minimum profit without which
-capital will not accumulate--the “worth while” of capital--there is, as
-we have seen, a lowest limit of production; a set of conditions below
-which production will not take place. Land which is below a certain
-standard of fertility will not be farmed; a vein of metal below a
-certain standard of yield will not be mined under such and such social
-conditions. But all circumstances in which production has greater
-advantages than this lowest limit produce a surplus value called
-“Rent.” That is an economic law, and it is always true.
-
-But it does not follow that the owner of the land, for instance,
-will get the full economic rent of the land. There may be customs in
-society, or laws, by which he is compelled to share with the tenant.
-The theoretical economic rent is there all right, but one cannot deduce
-from this [[Truth|truth]] that the landlord will necessarily and always get the
-whole of it. And so it is with every other political application.
-
-*       *       *       *       *
-
-Having said so much by way of Preface, let us turn to the particular
-problems, and first of all consider the idea which underlies all
-practical economic conclusions, the idea of Property.
-
-The very first governing condition of economic production and
-distribution in the real world is the condition of control. Who
-controls the process of production in any particular Society? Who
-in it owns (that is, has the right and power to use or leave idle, to
-distribute or withhold) the means of production, the stores of food
-and clothing, and houses and machinery? On the answer to that question
-depends the economic structure of a society. This control is called
-Property, and as the first thing we have to study in practical
-[[Economics]] is the character of Property, we will make that the first
-division of our political applications.
-
-
-
-
-<span class="atom-split" data-atom="story_10_the_servile_state" data-title="Economics for Helen — THE SERVILE STATE" data-chapter="THE SERVILE STATE" data-kind="story"></span>
-
-
-THE SERVILE STATE
-
-The Servile State is that which was found among our forefathers
-everywhere. It is the Servile State in which we Europeans all lived
-when we were pagan two thousand years ago. For instance: In old pagan
-[[Italy]] before it became Christian, or in old pagan Greece--both of them
-the best countries in the world of their [[Time|time]] and both of them, as you
-know, the origins of our own civilisation--most of the people you would
-have seen working at anything were slaves, and above the slaves were
-the owners: the free men.
-
-Since we are talking of the political applications of political
-economy, we have to consider human happiness, which is the object of
-all human living; and when we talk of “advantage” or “disadvantage” in
-any particular economic state we mean its greater or less effect on
-human happiness.
-
-The great disadvantage of the slave-owning state is clearly apparent:
-in it the mass of men are degraded: they are not citizens: they cannot
-exercise their own wills. This is so evident and great an evil that it
-must be set against all the advantages we are about to notice. [[Slavery]]
-is a most unhappy condition in so far as it wounds human [[Honour|honour]] and
-offends human dignity; and that is why the Christian religion gradually
-dissolved [[Slavery|slavery]] in the process of many centuries: [[Slavery|slavery]] is not
-sufficiently consistent with the idea of man’s being made in the image
-of God. [[Slavery]] can also be materially unhappy, if the masters are
-cruel or negligent. The great mass of slaves in such a society might
-be, at the caprice of their masters, very unhappy; and under bad phases
-of those societies they were very unhappy.
-
-But we must not be misled by the ideas that have grown up around the
-word “slave” in the modern mind. Because we have no one in [[England]]
-to-day who is called a slave and bought or sold as a slave, and no
-one is yet compelled by law to work for another man, therefore we
-regard [[Slavery|slavery]] as something odd and alien; and because it is natural
-to dislike things which are odd and alien, unaccustomed, we think of
-[[Slavery|slavery]] as something simply bad.
-
-That is a great mistake. The Servile State had--and, if it comes back,
-will have again--two great advantages: which were personal security
-and general stability.
-
-Personal security means a condition in which everybody, master and
-man, is free from [[Grave|grave]] anxiety upon the future: can expect regular
-food and lodging and a continuance of his regular way of life.
-
-General stability means the continuance of all society in one
-fashion, without the violent ups and downs of competition and without
-the friction of unwilling, constantly interrupted labour--as in strikes
-and lock-outs.
-
-In the Servile State work always got done and was done regularly. The
-owners knew “where they were.” With so much land and so many slaves
-they were sure of a certain average annual produce. On the whole it was
-to the advantage of a man to keep his slaves alive and fairly [[Well|well]] fed
-and housed. Also, the human relation came in, and a man and his slave,
-in the better and simpler forms of the Servile State, would often be
-friends and were usually in the same relation as people are to-day with
-their dependents. For instance: in [[Well|well]]-to-do houses of the Servile
-State we know from [[history]] that certain slaves were often the tutors of
-the children, and thus had a very important and respectable position,
-and there were other slaves who acted as good musicians and architects
-and artists. There was always the feeling of a fixed social difference
-between slave and free, but this did not necessarily nor perhaps
-usually lead to great unhappiness.
-
-This stability and security which slave-owning gave to all society (to
-the owned to some extent, and to the owners altogether) also produced
-a very valuable effect, which is, the presence of leisure. Because
-revenue was fairly certain, because this kind of arrangement prevented
-violent fluctuation of fortune, competition in excess, and the rest
-of it, therefore was there a considerable proportion of people at any
-[[Time|time]] who had ample opportunity for study, for cultivating good tastes,
-for writing and building [[Well|well]], and judging [[Well|well]], and--what is very
-important--for conducting the affairs of the State without haste or the
-panic and folly of haste.
-
-One alleged economic disadvantage of slave-owning must be looked at
-narrowly before we leave this description of the Servile State.
-
-One often hears it said that slave labour is less productive than
-free labour, that is, labour working at a wage under [[Capitalism]].
-People sometimes point to modern examples of this contrast, saying
-that places like the Southern States of [[America]], where slave labour
-was used a lifetime ago, were less productive than the Northern
-States, where labour was free. But though this is true of particular
-moments in [[history]], it is not generally true. Free labour working at
-a wage under the first institution of [[Capitalism|capitalism]]--when, for instance,
-a [[Body|body]] of capitalists are beginning to develop a new country with
-hired free men to work for them--will be full of energy and highly
-productive. But when what is called “free labour”--that is, men
-without property working by contract for a wage--gets into routine
-and habit, it is doubtful whether it is more productive than slave
-labour. It is accompanied by a great deal of ill-will. There is
-perpetual interruption by strikes, and lock-outs, and the process of
-production cannot be as minutely and absolutely directed by the small
-and leisured class as can slave labour. _There is no reason why a free
-man working for another’s profit should do his best._ On the contrary,
-he has every reason to work as little as possible, while a slave can be
-compelled to work hard.
-
-But whether slave labour be more or less productive is not so important
-as the two points mentioned above, of advantage and disadvantage. The
-disadvantages, as we have seen, are (1) that it offends our human
-[[Love|love]] of [[Honour|honour]] and independence, degrading the mass of men, and (2)
-that it is so terribly liable to abuse in the hands of cruel or stupid
-owners, or in conditions where great gangs of slaves grow up under
-one owner who can know nothing about them personally and is therefore
-indifferent to their fate. The advantages are security and stability,
-running as a note throughout society and showing themselves especially
-in the leisure of the owning classes, with all the good fruits of
-leisure in taste, literary and artistic. It was a society based on
-[[Slavery|slavery]] which produced what is perhaps the best fruit of leisure, and
-that is the profound and fruitful thinking out of the great human
-problems. All the great [[philosophy]] and art of the ancients was worked
-out by the free owners in the slave-owning states, and so was the best
-literature ever made.
-
-
-
-
-<span class="atom-split" data-atom="story_12_the_distributive_state" data-title="Economics for Helen — THE DISTRIBUTIVE STATE" data-chapter="THE DISTRIBUTIVE STATE" data-kind="story"></span>
-
-
-THE DISTRIBUTIVE STATE
-
-A state of society in which the families composing it are, in a
-determining number, owners of the land and the means of production
-as [[Well|well]] as themselves the human agents of production (that is, the
-people who by their human energy produce wealth with those means of
-production), is probably the oldest, and certainly the most commonly
-found of all states of society. It is a state of society which you
-get all through the East, all through Asia, and in all the primitive
-states we know. It is the state to which men try to return, as a rule,
-after they have blundered into any other, though the first state we
-described--the Servile State--runs it very close as a thing suitable
-to human [[Nature|nature]]; for we know that the Servile State did also last for
-centuries quite normally and stably in the Pagan past.
-
-The reason men commonly adopt the Distributive form of society, and
-tend to return to it if they can, is that the advantages it presents
-seem greater in most men’s eyes than its disadvantages.
-
-The advantages are these:--
-
-It gives [[Freedom|freedom]]: that is, the exercise of one’s will. A [[Family|family]]
-possessed of the means of production--the simplest form of which is
-the possession of land and of the implements and capital for working
-the land--cannot be controlled by others. Of course, various producers
-specialise, and through exchange one with the other they become more or
-less interdependent, but still, each one can live “on his own”: each
-one can stand out, if necessary, from pressure exercised against him by
-another. He can say: “If you will not take my surplus as against your
-surplus I shall be the poorer; but at least I can live.”
-
-Societies of this kind are not only free, but also, what goes with
-[[Freedom|freedom]], elastic--that is, they mould themselves easily to changed
-conditions. The individual, or the [[Family|family]], controlling his or its own
-means of production, can choose what he will do best, and can exercise
-his faculties, if he has sufficient knowledge, to the best advantage.
-
-This arrangement also gives security, though not as much security
-as the Servile State. Men in this position of ownership are not in
-dread of the immediate future. They can carry on. They may, if they
-choose, make a reserve of their produce to carry them over moments
-of difficulty. For instance, they will probably have each a reserve
-of food to carry them over a bad harvest or some natural disaster.
-Further, it is found in practice that societies of this kind continue
-for centuries without much change. They go on for generations with a
-property [[Well|well]] divided among them and everybody free, so far as economic
-situation is concerned. No such society has ever been destroyed except
-by some great shock; and so long as every shock can be warded off,
-this system of having the land and the means of production controlled
-by the mass of the citizens as private owners is enduring. There are
-districts of [[Europe]] to-day where the system has continued from beyond
-the [[Memory|memory]] of man. Such a little state as Andorra is an example,
-and many of the Swiss valleys. Further, when the system has been
-laboriously reconstructed, when the mass of families who used to be
-dispossessed have been again put into possession of land and the means
-of production, we find that the state arrived at is [[Stable|stable]].
-
-The best example of that sort of reconstruction to-day is to be found
-in [[Denmark]], but you have it also in a less marked fashion in most
-parts of [[France]] and in most of the Valley of the Rhine, in Belgium and
-Holland, in Norway, and in many other places. Wherever it has been
-settled it has taken root firmly.
-
-The disadvantages of such a system are, first, that though in practice
-it is found usually [[Stable|stable]], yet in theory it is not necessarily [[Stable|stable]],
-and in practice also there are some communities the social character of
-which is such that the system cannot be established permanently.
-
-It is obvious that, with land and the means of production [[Well|well]]
-distributed among the various families, a few may by luck or special
-perseverance and cunning, tend to buy up the land and implements of
-their less fortunate neighbours, and nothing will prevent this but a
-set of laws backed up by strong public opinion. In other words, people
-must [[Desire|desire]] this state of society, and [[Desire|desire]] it strongly in order to
-maintain it; and if the [[Desire|desire]] for ownership and [[Freedom|freedom]] is weak this
-distributive arrangement will not last.
-
-In the absence of special laws, and a public opinion to back them,
-the idler or the least competent or least lucky of the owners will
-gradually lose their ownership to the more industrious or the more
-cunning or more fortunate.
-
-Another disadvantage which has often been pointed out is that a state
-of society of this sort, though usually [[Stable|stable]] and enduring, falls
-into a routine (that is, into a traditional way of doing things),
-which it is very difficult to change. The small owner will not have
-the same opportunities for travel and for wide experience as the rich
-man has, and he will tend to go on as his fathers did, and therefore
-when some new invention arises outside his society he will be slow to
-adopt it. In this way his society becomes less able to defend itself
-from predatory neighbours and goes under in war. For a society of this
-kind is unfitted to the discovery of new things. Contented men feel no
-special spur to discover or to act on such discovery. That is why we
-find societies in which land and all the other means of production are
-[[Well|well]] distributed among the greater part of the families of the State
-becoming too conservative--that is, unwilling to change even for their
-own advantage.
-
-This, of course, is not universally true. For instance: no society in
-[[Europe]] has made more progress in agriculture than the Danish society
-of small owners. But, take the world all over, this kind of state is
-usually backward, that is, slow to take up improvements in production
-and to avail itself of new discoveries in physical science.
-
-There is also another disadvantage which the Distributive State has
-when it is in competition with a Capitalist State, or even a Servile
-State, and that is _the difficulty of getting a very large number of
-small owners to put their money together for any great purpose_. The
-small owner will probably have less opportunities for instruction and
-judgment than the few directing rich men of a Capitalist or Servile
-State, and even if he is, on the average, as [[Well|well]] educated as these
-rich men in neighbouring states, it will be more difficult to get a
-great number of small owners to act together than to persuade a few
-large owners to act together. Therefore highly Capitalist States, such
-as [[England]], will be found more enterprising than less Capitalist States
-in their investments and commerce. They will open up new countries
-more rapidly, and will get possession of the best markets.
-
-Lastly, this disadvantage attaches to the Distributive State--that it
-is not so easy in it to collect great funds for war or for national
-defence, or for any other purpose, as it is in a Capitalist or Servile
-State. You cannot tax a Distributive State as highly as you can tax a
-Capitalist State. The reason is obvious enough. A [[Family|family]] with, say,
-£400 a year finds it terribly difficult--almost impossible--to pay out
-£100 a year in taxation. They live on a certain modest scale to which
-all their lives are fitted, and which does not leave very much margin
-for taxation. If you have a million such families with a total income
-of £400 millions you may collect from them, say, a tenth of their
-wealth in a year--£40 millions--but you will hardly be able to collect
-a quarter--£100 millions.
-
-But another society with exactly the same amount of total wealth, £400
-millions a year, only divided into very rich and very poor, a society
-in which there are, say, 1,000 very rich families with £300,000 a year
-each, and a million families with rather less than £100 a year each,
-is in quite a different situation. You need not tax at all the million
-people with a hundred a year each, but the rich people, who between
-them have £300,000,000 a year, can easily be taxed a quarter of their
-whole wealth; for a rich man always has a much larger margin, the loss
-of which he does not really feel.
-
-By a very curious [[Paradox|paradox]], which it would take much too long to go
-into in detail, but which it is amusing to notice, this power of
-taxing a very highly capitalist community is one of the things which
-is beginning to handicap our Capitalist societies to-day against the
-Distributive societies. It used to be all the other way, and it seemed
-common sense that countries where you could levy large sums for State
-purposes of war or peace would win against countries where you could
-not levy such sums for public purposes. But the fact that you can tax
-so very highly a society of a few rich and many poor has been shown in
-the last few years to have most unexpected results. The very rich men
-pay all right; but the drain on the total resources of the wealth of
-the State weakens it.
-
-The money raised by taxation is spent on State servants--many of them
-inefficient and idle.
-
-Since it is so easy to raise large sums, there is a [[Temptation|temptation]] to
-indulge in all sorts of expensive State schemes, many of which come to
-nothing. And this power of easy taxation, which was a strength, becomes
-a weakness.
-
-No one suspected this until taxation [[Rose|rose]] to its present height, but
-now it is clearly apparent; and we in [[England]] might perhaps be in
-a better way later on if there had been as much resistance to high
-taxation here as there has been in countries where property is better
-distributed.
-
-
-
-
-<span class="atom-split" data-atom="story_13_socialism" data-title="Economics for Helen — SOCIALISM" data-chapter="SOCIALISM" data-kind="story"></span>
-
-
-[[Socialism|SOCIALISM]]
-
-It remains to deal with a certain remedy which some people have
-imagined would get rid of all the disadvantages of [[Capitalism]] once and
-for all. This remedy is called [[Socialism]], and [[Socialism]], as we shall
-see in a moment, must mean ultimately [[Communism]].
-
-No one has ever succeeded in putting this remedy for the evils of
-[[Capitalism]] into practice, and (though the matter is still very much
-disputed) it looks more and more as though no one would ever be able to
-put it into practice.
-
-We have seen what the evils of [[Capitalism]] were and how they have
-exasperated nearly everyone who has become subject to a capitalist
-state of society. There is the increasing insecurity which everybody
-feels--all the Proletariat and many of the Capitalists as [[Well|well]]--whilst
-there is the necessary tendency of [[Capitalism]] to leave a larger and
-larger proportion of people unproductive, not making the wealth which
-is necessary for their support, and therefore either kept in idleness
-by Doles out of the wealth which is still produced (a process which
-cannot go on for ever) or starving. Pretty [[Well|well]] everyone wants to get
-rid of these evils and to get out of the Capitalist system, and this
-idea of [[Socialism]] which we are going to examine seemed, when it was
-first put forward, an easy and obvious shortcut out of the Capitalist
-muddle. When we have looked into it, we shall see how and why [[Socialism]]
-does not, in practice, turn out to be a shortcut at all, but a blind
-alley.
-
-*       *       *       *       *
-
-Ever since men began to live in societies and to leave records, you
-will find the poorer people, when their [[Poverty|poverty]] became intolerable,
-clamouring for a division of the wealth which the more fortunate enjoy.
-
-That is the main, obvious remedy to inequality of wealth; to divide it
-up again. But such a scheme has nothing to do with [[Socialism]], and must
-not be mistaken for [[Socialism]].
-
-The Socialist theory was invented, or at any rate was first put
-clearly, by a man of genius, Louis Blanc, who was Scotch on his
-father’s side and French on his mother’s. He lived rather less than a
-hundred years ago and the scheme which he and those around him started
-was this:--
-
-The Officers of the State were to own all the Means of
-Production--machinery and land and stores of food, etc.--and they [[Alone|alone]]
-should be allowed to own it. Individuals and families and corporations
-might consume that portion of produced wealth allotted them by the
-State after it had been produced, _but they might not use it for making
-future wealth_. ANY WEALTH USED FOR THE MAKING OF FUTURE WEALTH, THAT
-IS, CAPITAL IN ANY FORM, WAS TO BE HANDED OVER TO THE OFFICERS OF THE
-STATE; AND ALL LAND AND NATURAL FORCES WERE TO BE OWNED FOR EVER BY THE
-STATE. That scheme is [[Socialism]], and from that principle all Socialist
-ideas flow.
-
-In this way, it was claimed, there would be no division of society
-into Capitalists and Proletarians, no chaos of competition with its
-alternating riches and ruin; insecurity would be done away with, and
-insufficiency as [[Well|well]]. Everyone in the country would be a worker, the
-State itself would be the Universal Capitalist. So there would be no
-struggle of capitalists going up and down one against the other, and no
-unemployment or lack of necessaries for anyone.
-
-Among the energetic and keen set of men who surrounded Blanc in [[Paris]]
-was a certain Mordecai, who wrote under the name his father had
-assumed, that of “Marx.” He wrote (in German) a very long and detailed
-book describing the whole scheme, as [[Well|well]] as describing the evils of
-[[Capitalism]], and showing how this scheme would remedy those evils. His
-book was pushed forward by the people who were converted to the idea,
-and that is why the theory of [[Socialism]] is now often called “Marxism.”
-
-For instance: the coal-mines and all the machinery of the coal-mines
-and the houses in which the miners live and the stores of food and
-the clothing, etc., which keep the miners alive while the coal is
-being mined, that is during the process of production--all these,
-which now belong to capitalists who make a profit out of the miners’
-labour, would then belong to the State, which would allot the coal
-produced to all who needed it. So it would be with all farms, farming
-implements, and cattle and horses and the stores of food and clothing
-and houses necessary to the labourers on the land during the process of
-production. So it would be with all stone-quarrying and timber-felling,
-and carpentry and brick-making for the continued production of the
-houses necessary to the producers during production. So it would be
-with all corresponding material for making cloth for clothing. So it
-would be with everything which was made in the whole country. The
-officers of the State would share out the wealth produced, so that it
-would be consumed by all the citizens, and there would be an end to the
-exploitation of one man by another and to the uncertainty of living.
-
-[[Communism]] is simply that form of [[Socialism]] in which all that is thus
-shared out by the State would be shared equally, the State giving every
-[[Family|family]] an equal share in proportion to the numbers of people which had
-to be supported in the [[Family|family]], from one upwards.
-
-The reason I have called [[Communism]] the logical and only possible
-ultimate form of [[Socialism]] is that there could be under [[Socialism]] no
-reason for any other form of distribution.
-
-Some [[Time|time]] ago certain Socialists used to try to get out of this
-necessity for [[Communism]], so as not to frighten rich people with their
-proposals for [[Reform|reform]]. They would say to a man who was making, say,
-£5,000 a year because he owned a lot of capital and land and had rents
-and profits coming to him from the work of his labourers: “You will
-have just as much under [[Socialism]], for we recognise what a superior
-kind of person you are, and when the State shares out its wealth among
-its citizens it will give you as much as you have now, leaving the
-same difference between rich and poor, only seeing to it that the poor
-always at least have enough to live on. Where we give one ticket to the
-labourer to claim out of the common stores what he wants for a week we
-will give you fifty tickets, so that you will get fifty times as much
-if you like.” But of course this was [[Nonsense|nonsense]], and was soon discovered
-to be [[Nonsense|nonsense]]. With everybody working for the State under orders all
-would naturally claim equality, and there would be no way of preventing
-their getting an equal share except force. In justice, supposing a
-Socialist state to arise, there could be only the Communist form of it.
-
-This scheme has never been put into practice, and when we look closely
-at it we shall discover, I think, why it never will be put into
-practice.
-
-The reason it cannot be put into practice is this: Although we use the
-words “the State” this mere idea means in practice real men who act
-as officials to represent the State. Actual men with their varying
-characters, good and bad, lazy and industrious, just and unjust, have
-got to undertake the enormous business first of running production
-in the interest of all, next of distributing the resultant wealth
-equally to all.
-
-Now there are two qualities in man which make action of this sort
-break down. The first is that men [[Love|love]] independence--they like to feel
-themselves their own masters. They like therefore to own, so that
-they may do what they like with material things. The next is that men
-like to get as much as possible of good things. Both these feelings
-are universally true of the human race. You will find exceptional
-people, of course, who are just as contented with a little as with
-a great deal, and you will find exceptional people who do not care
-about independence or about owning, and who are quite willing to be
-run by other people, or to give up all possession for the sake of some
-special way of living: that is, there is a comparatively small number
-of men and women who, in order to live free from responsibility, or in
-order to devote themselves to religion or to some form of study and
-contemplation, will give up all property and have the material side of
-their lives administered for them. But men and women in general will
-both want to get all they can of good things with the least possible
-exertion in the getting of them, and they will also [[Desire|desire]] [[Freedom|freedom]] to
-exercise their own wills and deal with material objects as they choose.
-
-Now the Socialist scheme requires both these very strong emotions,
-common to all mankind, to be suppressed. The people who run the
-State--that is the politicians--are to be absolutely just (although
-there is no one to force them to be just), they are to forget all
-personal wishes and to think of nothing but the good of those whose
-labour they direct and among whom they share out the wealth that is
-produced. We know by experience that politicians are not angels of this
-sort. It is absurd to imagine that men coveting public office (and
-living the life of intrigue necessary to get it) would suddenly turn
-into unselfish and devoted beings of this ideal kind. You cannot give
-this enormous power to men without their abusing it.
-
-The second force making against the establishment of [[Socialism]] is still
-stronger. You will never get the run of men and women contented to
-live their whole lives entirely under orders. In exceptional moments a
-large part of individual [[Freedom|freedom]] will be given up to the necessity of
-the State--as during the Great War; for if the State did not survive
-the individual’s life and that of his children would not be worth
-living. The individual in abnormal crises goes through a great deal
-of [[Suffering|suffering]] for a moment in order that he and his should have less
-[[Pain|pain]] in the long run. But even in such crises a large part of [[Liberty|liberty]]
-remains to him. Under [[Socialism]] he would have none. He would have
-to do what he was told by his task-masters, much more than even the
-poorest labourers now have to do what they are told by task-masters.
-And there would also be this difference: that everyone would be in
-that situation and there would be no way out. Not a part of life, nor
-so many hours a day, but the whole of life, would be subject to orders
-given by others. This, humanity would certainly find intolerable.
-
-That is why, I think, [[Socialism]] has never been put into practice
-and never can be put into practice. There have been attempts at it,
-but even when they are sincere and not the mere product of alien
-despotism they break down. As in [[Russia]] to-day, where, whether the Jew
-adventurers who seized power were sincere or mere tyrants, they have,
-in spite of their attempt at seizing all the soil and keeping the
-peasants dependent on them, been compelled at last to let nearly all
-the nation live as owners tilling their own land.
-
-It is no reply to this to say that the State always has owned, and
-actually can and does own, some part of the means of Production (such
-as the Post Office and certain forests and lands here in [[England]], and,
-abroad, most mountain land, all mines and much else) and direct them
-with [[success]]. The point of [[Socialism]]--the one condition necessary
-to its existence--is that the State should own all the means of
-Production that really count. Between the normal exercise of a partial
-function and the abnormal exercise of a universal function is all
-the difference between plus and minus. A partial State ownership
-working in a society the determining character of which is private
-ownership is an utterly different thing, even an opposite thing
-to general State ownership determining the character of Society and
-allowing only exceptional private ownership. [[Socialism]] can only be
-(a) good (b) possible when men [[Desire|desire]], and are at ease in, the
-latter kind of state; that is, [[Desire|desire]] and are at ease in complete
-forgetfulness of [[Self|self]] coupled with justice as men ruling, and complete
-surrender of personal [[Honour|honour]] and [[Freedom|freedom]] and appetite as men ruled.
-
-
-
-
 <span class="atom-split" data-atom="story_02_the_three_things_necessary_to_the_produc--part_01" data-title="Economics for Helen — THE THREE THINGS NECESSARY TO THE PRODUCTION OF WEALTH (part 1)" data-chapter="THE THREE THINGS NECESSARY TO THE PRODUC" data-kind="excerpt"></span>
 
 
@@ -6865,6 +5743,149 @@ past and used up in future production.=
 3. =The last, Capital, (a) depends for its character on the intention
 of the user, (b) is consumed in production, (c) is always the
 result of saving.=
+
+
+
+
+<span class="atom-split" data-atom="story_03_the_process_of_production" data-title="Economics for Helen — THE PROCESS OF PRODUCTION" data-chapter="THE PROCESS OF PRODUCTION" data-kind="story"></span>
+
+
+THE PROCESS OF PRODUCTION
+
+You have seen how the production of wealth takes place through the
+combination of these three things, LAND, LABOUR AND CAPITAL, and you
+have also seen how the wealth so produced consists not in the objects
+themselves, but in the economic values attached to the objects.
+
+Now we will take a particular instance of wealth and show how this
+works out in practice and what various forms the production of wealth
+takes.
+
+Wealth, as we have seen, arises from the transposing of things around
+us from a condition where they are less to a condition where they are
+more useful to our needs.
+
+Let us take a ton of coal lying a thousand feet down under the earth
+and no way provided of getting at it. A man possessing that ton of
+coal would not possess any wealth. The coal lying in the earth has no
+economic value attaching to it whatsoever. It has not yet entered the
+process whereby it ultimately satisfies a human need.
+
+A shaft is sunk to get at that coal, and once the coal is reached a
+first economic value begins to attach to it. Next, further labour,
+capital and natural forces are applied to the task of hewing the coal
+out and raising it to the surface. This means that yet more economic
+values are attached to the ton of coal. These we express by saying that
+the ton of coal at the [[Bottom|bottom]] of the mine, just hewed out, is worth so
+much--say 15/-; and later at the pit head is worth so much more--say
+£1. But the process of production of wealth is not yet completed. The
+coal is needed to warm you in your [[house]], and your [[house]] is a long way
+from the pit head. It must be taken from the pit head to your [[house]],
+and for this transport further labour, natural forces and capital must
+be used, and these add yet another economic value to the coal.
+
+We express this by saying that the ton of coal delivered (that is, at
+your [[house]]) is worth not £1, which it was at the pit head, but £1 10s.;
+and in this example we see that transport is as much a part of the
+production of wealth as other work. We also see a further example of
+the [[Truth|truth]] originally stated that wealth does not consist in the object
+itself but in the values attached to it. The ton of coal is there in
+your cellar exactly the same (except that it is broken up) as it was
+when it lay a thousand feet under the earth with no way of getting
+to it. In your cellar it represents wealth. In possessing it you are
+possessing wealth to the amount of 30s. You could exchange it against
+30s. worth of some other thing, such as wheat. But the wealth you thus
+possess is not the actual coal, but the values attaching to the coal.
+These economic values are being piled up from the very beginning of the
+process of production until the process of consumption begins.
+
+Here is another case which shows how the process of production will add
+values to a thing without necessarily changing the thing itself.
+
+Suppose an [[Island|island]] where there is a lot of salt in mines near the
+surface, but with very poor pasture and very little of it; most of the
+soil barren and the climate bad. On the main-land, a day’s [[Journey|journey]] from
+the [[Island|island]], there is good soil and pasture and a good climate, but
+there is no salt. Salt is a prime necessity of life, and it comes into
+a lot of things besides necessaries. To the people of the main land,
+therefore, salt, which they lack, is of high value. To the people of
+the [[Island|island]] it is of low value, for they can get as much of it as they
+want, with very little trouble. Meanwhile, meat is of very high value
+to the people of the [[Island|island]], who can grow little of it on their own
+soil, while it is of much less value to the people of the main-land,
+who have plenty of it through their good pastures and climate. Here we
+have, let us say, 100 tons of salt in the [[Island|island]] and 100 tons of meat
+on the main-land. A boat takes the 100 tons of salt from the [[Island|island]]
+to the main-land and brings back the meat from the main-land to the
+[[Island|island]]. Here wealth has been created on both sides, although no change
+has taken place in the articles themselves except a change in position.
+Both parties, the islanders and the main-land people, are wealthier
+through the transaction, and this is a case where exchange is a
+direct creator of wealth, and the transport effecting the exchange is a
+creator of wealth.
+
+Strictly speaking, everything done to increase the usefulness of an
+object right up to the moment when consumption begins is part of the
+production of wealth. For instance, wealth is being produced from the
+moment that wheat is sowed in the ground to the moment when the baked
+loaf is ready for eating, and the wealth expressed by the loaf, that
+is, the values attaching to it, are made up by all the processes of
+adding values from the first moment the seed was sown. When you eat a
+sixpenny loaf you are beginning to consume values created by the sowing
+of the wheat and its culture and its harvesting and grinding, and the
+working of the flour into dough, and the baking, and created by every
+piece of transport in the process, the carting of the sheaf into the
+rick, the carting thrashed wheat to the mill, the taking of the flour
+to the baker, the taking of the baked loaf to your [[house]], and even the
+bringing of the loaf from the larder to your table. Every one of these
+actions is part of the production of wealth.
+
+There is attaching to the process of the production of wealth a certain
+character which we appreciate easily in some cases, but with much more
+difficulty in others. We have already come across it in discussing
+Capital. It is this:
+
+All wealth is consumed.
+
+This is universally true of all wealth whatsoever, though the rate of
+consumption is very different in different cases.
+
+The purpose of [[Nature|nature]] is not the purpose of man. Man only creates
+wealth by a perpetual effort against the purpose of [[Nature|nature]], and the
+moment his effort ceases [[Nature|nature]] tends to drag back man’s creation from
+a condition where it is more to a condition where it is less useful to
+himself.
+
+For some sorts of wealth the process is very rapid, as, for instance,
+in the consumption of fuel, or in the wasting of ice on a hot day.
+Man with an expenditure of his energy and brains applied to natural
+forces, and by the use of capital, has caused ice to be present under
+conditions where [[Nature|nature]] meant there to be no ice--a hot [[Summer|summer]]’s day.
+
+He has brought it from a high, cold place far away; or he has kept it
+from the [[Winter|winter]] onwards stored in an ice [[house]] which he had to make and
+to which he had to transport it; or he has made it with engine power.
+But the force of [[Nature|nature]] is always ready to melt the ice when man’s
+effort ceases.
+
+The moment man’s effort ceases, deterioration, that is, _the
+consumption of the wealth present_, at once begins. And this [[Truth|truth]]
+applies at the other end of the scale. You may make a building of
+granite, but it will not last for ever. The consumption is exceedingly
+slow, but it is there all the same. And whether the consumption takes
+place in the service of man (as when fuel is burnt on a hearth) or
+by neglect (as when a derelict [[house]] decays) it is always _economic
+consumption_.
+
+We may sum up in the following Formulæ:--
+
+1. =Transport and Exchange, quite as much as actual work on the
+original material, form part of the Production of Wealth.=
+
+2. =All Wealth is ultimately consumed: that is, matter having been
+transposed by man from a condition where it is less to a condition
+where it is more useful to himself, is dragged back from a condition
+where it is more to a condition where it is less useful to himself.=
 
 
 
@@ -7352,6 +6373,336 @@ confine ourselves to the Elements of economic law [[Alone|alone]].
 
 
 
+<span class="atom-split" data-atom="story_05_exchange" data-title="Economics for Helen — EXCHANGE" data-chapter="EXCHANGE" data-kind="story"></span>
+
+
+EXCHANGE
+
+EXCHANGE is really only a form of production, as we saw in the
+illustration of the [[Island|island]] with salt and the main-land with meat. When
+the exchange of the things is of advantage to both parties it creates
+wealth for both, and profitable exchange is, therefore, when it takes
+place, only the last step in a general chain of production.
+
+But Exchange is so separate an action that students of [[Economics]] have
+agreed to treat it as a sort of chapter by itself, and we will do so
+here.
+
+The characteristic of Exchange is that you take a thing from a place
+where it has less value to a place where it has more value, thus adding
+an economic value to the thing moved and so creating wealth. In the
+same transaction you bring back something else against it, which has
+more value in your own place than it had in the place from which you
+took it, that is again adding an economic value and therefore creating
+wealth. We saw how this was in the case of the salt and the meat, and
+so it is with thousands upon thousands of exchanges going on all over
+the world.
+
+For instance, we in [[England]] have grown fond of drinking tea in the last
+200 years. But our climate will not allow us to grow tea. Tea can only
+grow in a very hot country.
+
+Now in very hot countries specially heavy labour upon metal work is not
+to be expected. Men are not fit for it. But in this cool climate men
+are fit for it, and also men here have through long practice become
+very skilful at working metal: smelting iron, for instance, and making
+it up into machines.
+
+Therefore, there is a [[Double|double]] advantage to us and to the people who live
+in the hot countries where tea is grown if we exchange. We send them
+metal things that we have made and which are useful to them, and which
+they could hardly make themselves, or only with very great difficulty
+(and, therefore, at a great expense of energy), and we get from them
+tea, which we could not grow here except in hot houses: that is, at
+much more expense of energy than is needed in the countries where tea
+grows naturally out of doors.
+
+When there are present two or more objects of this kind, such that the
+exchange of them between two places will benefit both parties, we may
+speak of “a potential of exchange,” stronger or weaker according to
+the amount of mutual advantage derived.
+
+This word “potential” you will not find yet in many books, but it is
+coming in, for it is a very useful word. It is taken by way of metaphor
+from Physical Science. When there is a head of [[Water|water]] over a dam, or a
+current of electricity of such and such an intensity, we talk of the
+“potential” and measure it. For instance, we say this electrical
+current is [[Double|double]] the potential of that, or the head of [[Water|water]] working
+such and such turbines is at [[Double|double]] the potential of another head of
+[[Water|water]] in the neighbourhood. In the same way we talk of a “potential” of
+exchange, meaning a tendency for exchange to arise between two places
+or people because it is of mutual benefit to both.
+
+Potentials of exchange come into existence not only through difference
+of climate or differences of habit, but also through what is called
+the Differentiation of Employment, which is also called Division of
+Labour.
+
+Thus two countries may be both equally able to produce, say, metal work
+and silk fabrics, and yet if one of them concentrates on getting better
+and better at metal work and the other on getting better and better
+at silk fabrics, it may [[Well|well]] be that both will benefit by separating
+their jobs and exchanging the results. And this is true not only of two
+countries, but of individuals and groups.
+
+The cobbler does not make his own clothes. He makes boots, and by
+learning his trade and getting used to it makes them much better and in
+a much shorter [[Time|time]] than other men could, and therefore makes a pair
+of boots with less expense of energy, that is, cheaper, than another
+man would. The tailor can say the same thing about making clothes.
+So it is to the advantage of the cobbler to exchange his extra boots
+against the extra clothes the tailor has made.
+
+In general: intelligent societies always tend to build up a very
+wide-spread system of exchange, because intelligent people tend to
+concentrate each on the job that suits him best, and also because
+intelligent people discover differences of climate and soil and the
+rest which may make exchange between two places a mutual advantage for
+both.
+
+It is indeed a great mistake to do as some modern people do, and put
+Exchange in front of Production. Thus you hear people talking as
+though the trade a country does, the total amount of its exports and
+imports, were the test of its prosperity, whereas the real test of its
+prosperity is what it has the power to consume, not what it manages to
+exchange.
+
+But still, though it comes at the end of Production and must never be
+made more important than the whole process of Production, Exchange is
+present universally wherever there is active production of Wealth. Thus
+the group of people who build ships are really exchanging what they
+make against the produce of other people who make clothes and grow food
+and build houses, and the rest of it; and in a highly-civilised country
+like ours much the greater part of the wealth you see consumed around
+you has gone through many processes of exchange.
+
+There are a few elementary Formulæ concerning Exchange which it is
+important to remember.
+
+1. =There is a Potential of Exchange, that is, exchange tends to take
+place, when of two objects the proportionate values are different in
+two different communities.=
+
+It is not very easy to understand the meaning of this until one is
+given an example. Supposing a ton of coal from [[England]] to be worth £2
+by the [[Time|time]] it is delivered in Cadiz, and supposing that making a dozen
+bottles of wine in [[England]], with all the apparatus of hot-[[house]] grapes
+and the rest of it, came to £5 of expense. Supposing that in Cadiz,
+from the small coal mines near by, they can produce coal at only £1 a
+ton, but on account of their climate they can produce a dozen of wine
+for a shilling. Then you get this curious situation:
+
+It pays the exporting country, [[England]], to sell coal in Cadiz _at less
+than its English economic value_, and to import the wine from Cadiz.
+It pays your English owner of coal, although the values attaching to
+it by the [[Time|time]] it has got to Cadiz are £2 a ton, to sell a ton of coal
+there for only £1, and to exchange that against the wine of Cadiz, and
+bring that back to [[England]]. At first sight it sounds absurd to say that
+selling thus at a lower value than the cost of production and transport
+can possibly be profitable. But if you will look at it closely you
+will see that it is so.
+
+If the Englishman had tried to make his wine at [[Home|home]] it would have cost
+him £100 to make twenty dozen bottles, but when he has sold his coal
+at Cadiz for £1 he can with that £1 buy twenty dozen of wine and bring
+it back to [[England]]. He is much the wealthier by the transaction, and
+so is the man at Cadiz. The Cadiz man could have spent his energies in
+digging out a ton of coal near Cadiz instead of importing it, but the
+same energies used in making wine produce enough wine to get him rather
+more coal from [[England]].
+
+2. The second Formula to remember about Exchange is this: =Goods do not
+directly exchange always one against the other, but usually in a much
+more complicated way, by what may be called= Multiple Exchange.
+
+Of course, the vehicle by which this is done is a currency, or money,
+which I will explain in a moment; but the point to seize here is that
+exchange is just as truly taking place when there is no direct barter
+of two things but a much longer and complicated process.
+
+For instance, a group of people called a Railway Company in the
+Argentine want a locomotive. A locomotive can be produced cheaper and
+better, that is, with less expenditure of energy for the result, in
+[[England]] than in the Argentine. But on the other hand, [[England]] wants
+to import tea. Now the Argentine grows no tea. What happens? How does
+[[England]] get the tea? That locomotive goes out to the Argentine. An
+amount of wheat sufficient to exchange against the locomotive goes
+against it, not to [[England]], but to Holland, a country which, like us,
+has to import a lot of wheat. As against the wheat sent to Holland,
+the people in Holland send, say, the cheeses which they make so [[Well|well]],
+on account of their special conditions, and the consignment goes to
+[[Germany]]. The Germans send out a number of rails equivalent to the
+number of cheeses and of the wheat and of the locomotive, as they are
+very good at making rails, and have specialised on it. But they do not
+send the rails to Holland. They send them to some Railway Company which
+has asked for them in [[Egypt]]. The Egyptian people send out an equivalent
+amount of cotton, which they can grow easily in their climate, and this
+cotton goes to mills in India, and against it there comes an equivalent
+amount of tea, but the tea does not go back to [[Egypt]]. It goes to
+[[England]].
+
+There you have a circle of Multiple Exchange in which everybody profits
+by the exchange going on, although it is indirect. In the same way,
+of course, it is true that all of our domestic exchanges at [[Home|home]] are
+multiple. If I write a book which people want to read, whereas I want
+not books but several other things, boots and fuel and furniture, I
+do not take my books round to the man who provides boots and to the
+one who provides fuel and to the one who provides furniture. I go
+through the process of selling my book to a publisher, and through an
+instrument he gives me, called a cheque (I will explain this when we
+come to the point of money), I can obtain boots and fuel and furniture
+to the amount of the value of the books of mine which my publisher will
+sell. Yet when exchange is thus highly indirect and multiple it is just
+as much exchange as though I went and bartered one book for one pair of
+boots with the cobbler.
+
+3. The third thing to remember about Exchange is of the utmost
+importance, because it has given rise to one of the biggest discussions
+of our English politics. The Formula runs thus:--
+
+=Other things being equal, the greatest [[Freedom|freedom]] of exchange in any
+given area makes for the greatest amount of wealth in that area.=
+
+It ought to be [[Self|self]] evident, but it is astonishing how muddled people
+get about it, when they become confused over details and cannot see
+the wood for the trees. It ought, I say, to be [[Self|self]]-evident that if
+you leave Exchange quite free, anybody being at [[Liberty|liberty]] to produce
+what he can produce best, and exchange it for things which other men
+can produce better than he, both parties will tend to be the richer by
+such [[Freedom|freedom]] and the wealth of the whole country will be greatest when
+all exchanges in it are thus left free to be worked by the sense of
+advantage.
+
+If there were a law, for instance, preventing me from buying etchings,
+or preventing [[Jones]], the etcher, from buying books, [[Jones]] would have to
+write his own books (or do without them, which is what he would do),
+and I should have to etch my own etchings, which would be exceedingly
+poor compared with the wonderful etchings of [[Jones]]. We are obviously
+both of us better off if we are left free to exchange what we can each
+make best. And so it is with all the countless things made in a State.
+
+This principle applies not only to a particular nation but to the whole
+world. If you left the whole world free to exchange the whole world
+would be the richer for it. And any interference with exchange between
+one nation and another lessens the total possible amount of wealth
+there might be in the world.
+
+So far so good; and, as I have said, such a [[Truth|truth]] ought to be
+[[Self|self]]-evident. But here there comes in a misunderstanding of its
+application, and that misunderstanding has made any amount of trouble.
+It is so important that I must give it a separate division to itself.
+
+
+
+
+<span class="atom-split" data-atom="story_06_free_trade_and_protection" data-title="Economics for Helen — FREE TRADE AND PROTECTION" data-chapter="FREE TRADE AND PROTECTION" data-kind="story"></span>
+
+
+FREE TRADE AND PROTECTION
+
+Nations, as we know, put up tariffs against goods which come from
+abroad: That is, their Governments tax imports of certain goods and
+thereby interfere with the [[Freedom|freedom]] of exchange. For instance, the
+French have a tax of this kind upon wheat. Wheat grown in [[France]] will
+cost, let us say, £1 a sack, but the Argentine can send wheat to [[France]]
+at an expense of only 10s. a sack, because the land there is new, and
+for various other causes. If the wheat from the Argentine were allowed
+to come in freely, and the French to export against it things which
+they can make more easily than wheat they would have more wheat at a
+less total expense; but they prefer to put a tax of ten shillings upon
+every sack, that is, to put up a barrier against the import of wheat
+from abroad, and so keep up the price artificially at [[Home|home]].
+
+When a nation does this with regard to any object that may be imported,
+if the object can also be produced within the nation (which it nearly
+always can) it is said to protect that object, and the system of so
+doing is called Protection. The word arose from the demand of certain
+trades to be “protected” by their Governments without considering
+whether it was for the good of the whole nation or not. It obviously
+would be a very nice thing for people who breed sheep, for instance, in
+this country, if all mutton coming from the Colonies were taxed at the
+Ports, while the mutton grown inside the country were not taxed; for in
+this way the value of the mutton would rise in [[England]], and the rise
+would benefit the sheep owners. But it would be at the expense of all
+the other people who did not grow sheep, and who would have to pay more
+for their mutton.
+
+As opposed to this system of Protection, and interfering with
+international exchange by a tariff, intelligent people a long lifetime
+ago began to agitate for what they called “FREE TRADE,” that is the
+putting of no tariff on to an import, or at least no tariff high enough
+to give an artificial price to the producer of the same thing at [[Home|home]].
+Thus, when [[England]] was completely Free Trading (which it was until the
+war) there was a tariff on tea; but that was not Protection, for those
+who would try to grow tea here would have to grow it in hot houses and
+at an enormous expense, and the tax on tea, though heavy, did not make
+it anything like so dear as to make it worth while to produce tea here.
+
+Another principle of Free Trade was that if it was thought advisable
+to put a tariff on to anything coming into the country which could be
+produced in the country, then you would have to put what was called
+“an equivalent excise” on the thing produced at [[Home|home]]. For instance,
+in order to get revenue, one might put a tax of a 1d. on the pound
+on sugar coming from [[Germany]], but, according to the doctrine of Free
+Trade, you must put a similar excise (that is, a [[Home|home]] tax of 1d. on the
+pound) upon any sugar produced in [[England]]. If you did not do that you
+would be benefiting the sugar manufacturer in [[England]] at the expense
+of all other Englishmen, which would be unjust and also make [[England]]
+less wealthy because it would be inducing Englishmen to make sugar by
+offering them a reward and so take them away from some production for
+which they were better fitted.
+
+This idea, that Free Trade must necessarily be of advantage to
+everybody, and that it was only stupidity or private avarice which
+supported Protection, was very strong in [[England]], and, in the form you
+have just read, it seems beyond contradiction.
+
+But if you will look closely at Formula No. 3 written in the last
+division on page 59 you will see that there is a fallacy hidden in this
+universal Free Trade theory. It is perfectly true that free exchange
+over any area tends to make the wealth of all that area greater, and
+if the area include the whole world, then free exchange all over the
+whole world, that is, complete Free Trade, would make the world as a
+whole richer.
+
+But it does not follow that EACH PART _of the area thus made richer
+is itself enriched_. That is the important point which the Free Trade
+people missed, and it is this which supports, in some cases, the
+argument for Protection.
+
+If we allow free exchange everywhere throughout [[England]], [[England]] as a
+whole will, of course, be the richer for it; but it is quite possible
+that Essex will be the poorer. If we allow Free Trade throughout all
+[[Europe]], [[Europe]] will be the richer for it; but it is quite possible that
+some particular part of [[Europe]], [[Italy]] or [[Spain]], may be made poorer by
+the general process, and as they don’t want to be poorer they will
+by Protection and tariffs cut themselves off from the area of free
+exchange.
+
+=There are conditions where an interference with free exchange over
+the boundaries of a particular area make that area richer: when those
+conditions exist, there is what is called an Economic Reason for
+Protection.=
+
+So we may sum up and say that the theory of universal Free Trade being
+of benefit to the world as a whole is perfectly true. If we are only
+considering the world, and do not mind what happens to some particular
+area of the world, then the case for Free Trade is absolute. But if
+we mind a hurt being done to some particular area, such as our own
+country, more than we mind the hurt done to the world as a whole,
+then we should look at our particular conditions and see whether our
+country may not be one of those parts which will be drained of wealth
+by Free Trade and will be benefited by artificially fostering internal
+exchanges.
+
+In the second part of this book I will go into this again, and show
+how the discussion arose in [[England]] and what the arguments are for and
+against Universal Free Trade, and how true it is that a sound economic
+argument for Protection exists.
+
+
+
+
 <span class="atom-split" data-atom="story_07_money--part_01" data-title="Economics for Helen — MONEY (part 1)" data-chapter="MONEY" data-kind="excerpt"></span>
 
 
@@ -7796,6 +7147,148 @@ knowledge.
 
 
 
+<span class="atom-split" data-atom="story_08_introduction" data-title="Economics for Helen — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
+
+
+INTRODUCTION
+
+So far I have been putting down the elements of [[Economics]] just as one
+might put down the elements of Arithmetic. But [[Economics]] have, just
+like Arithmetic, a practical application: if it were not for this,
+there would be no real use in studying [[Economics]] at all.
+
+For instance: we find out, when we do the elements of Arithmetic, that
+solid bodies vary with the cube of their linear measurements. That is
+the general abstract principle; but the use of it is in real life
+when we come (for instance) to measuring boats. We learn there from
+Arithmetic that, with boats of similar shape, a boat twice as long as
+another will be eight times as big; it is also by using the elements of
+Arithmetic that we can keep household accounts and do all the rest of
+our work.
+
+It is precisely the same with [[Economics]]. We are perpetually coming upon
+political problems which [[Economics]] illustrate and to which economic
+science furnishes the answer--or part of the answer--and that is where
+the theoretical elements of [[Economics]] have practical importance.
+
+For instance: once we know the elementary economic principle that
+rent is a surplus, we appreciate that it does not enter into cost
+of production. We do not try to make things cheaper by compulsorily
+lowering rent. Or, again, when we have learned the [[Nature|nature]] of money we
+can appreciate the dangers that come from using false money.
+
+In these political applications of [[Economics]] we also come upon what
+is much more important than mere politics, and that is the question
+of right and wrong. We see that such and such a thing ought to be so
+as a matter of justice; but we may blunder, as many great reformers
+have blundered, in trying to do the right thing and failing to do it,
+because we have not made a proper application of our economic science.
+And the opposite is also true: that is, a knowledge of [[Economics]]
+prevents their being wrongly applied by those who [[Desire|desire]] evil. Many
+men take refuge in the excuse that, with the best will in the world,
+they cannot work such and such a social [[Reform|reform]] because economic science
+prevents their doing what they know to be right. If we know our
+[[Economics]] properly we can refute these false arguments, to the great
+advantage of our own souls and of our fellow-men.
+
+For instance: it is clearly our duty to-day to alleviate the fearful
+[[Poverty|poverty]] in which most Englishmen live. A great many people who ought to
+know better say, or pretend, that economic laws prevent our doing this
+act of justice. Economic laws have no such effect; and an understanding
+of [[Economics]] clears us in this matter, as we shall see later on.
+
+We have hitherto been following the statement and examination of
+economic laws: that is, the theoretical part of our study and its
+necessary foundation. Now we go on to the practical part, or “Applied
+[[Economics]],” which is the effect of those laws on the lives of men.
+
+Before leaving this Introduction I think it is important to get quite
+clear the difference between what is called “theoretical” study
+and the practical application of such study. People are very often
+muddle-headed about this, and the more clearly we think about it the
+better.
+
+A theoretical statement is a statement following necessarily and
+logically from some one or more known first principles. Thus, we know
+that two sides of a triangle are longer than the third, so we say it
+follows theoretically that a straight [[Road|road]] from [[London]] to Brighton
+is quicker motoring than going round by Lewes. But the number of first
+principles at work in the actual world is indefinitely large. Therefore
+one must test any one theoretical conclusion by practice: by seeing how
+it works. Because, side by side with the one or two first principles
+upon which our theory is built, there are an indefinitely large number
+of other first principles which come into play in the real world.
+Thus there is, in motoring, the principle that [[Speed|speed]] varies with [[Road|road]]
+surface. So the way round by Lewes may be quicker than the straight
+[[Road|road]] if it has a better surface. There is yet another principle that
+[[Speed|speed]] is checked by turnings in the [[Road|road]], and it may prove that on
+trial the two ways are about equal.
+
+Or again: we know that the tidal wave is raised on either side of the
+earth, and that there is, therefore, about twelve hours of even ebb and
+flow, six hours each on the average and taking the world as a whole:
+because the earth takes twenty-four hours to go round.
+
+But if you were to act upon that first principle only in any one
+part of the world, and to say without testing the thing in practice,
+“I can calculate the tide theoretically,” you would very often wreck
+your [[Ship|ship]]. For many other principles come into play in the matter of
+the tide besides this twelve-hour period. In one case the tide will be
+delayed by shoals or by the current of a [[River|river]]. In another there may be
+two or three tides meeting. In a third the sea will be so locked that
+there will be hardly any tide for many hours, and then a rush at the
+end--and so on.
+
+Now it is just the same with [[Economics]]. Your economic first principle
+makes you come to such and such a theoretical conclusion. But there
+are a lot of other first principles at work, and they may modify the
+effect in practice to any extent. When people object to “theoretical
+dreaming,” as they call it, they mean the bad habit of thinking
+that one conclusion from one particular set of first principles is
+sufficient and will apply to any set of circumstances. It never does.
+One has always to watch the thing in practice, and see what other
+forces come in.
+
+In the political applications of economic science we have to deal with
+the effect of human society upon economic law. For instance: economic
+law tells us that, given a certain standard of living for labour--the
+“worth while” of labour--and a certain minimum profit without which
+capital will not accumulate--the “worth while” of capital--there is, as
+we have seen, a lowest limit of production; a set of conditions below
+which production will not take place. Land which is below a certain
+standard of fertility will not be farmed; a vein of metal below a
+certain standard of yield will not be mined under such and such social
+conditions. But all circumstances in which production has greater
+advantages than this lowest limit produce a surplus value called
+“Rent.” That is an economic law, and it is always true.
+
+But it does not follow that the owner of the land, for instance,
+will get the full economic rent of the land. There may be customs in
+society, or laws, by which he is compelled to share with the tenant.
+The theoretical economic rent is there all right, but one cannot deduce
+from this [[Truth|truth]] that the landlord will necessarily and always get the
+whole of it. And so it is with every other political application.
+
+*       *       *       *       *
+
+Having said so much by way of Preface, let us turn to the particular
+problems, and first of all consider the idea which underlies all
+practical economic conclusions, the idea of Property.
+
+The very first governing condition of economic production and
+distribution in the real world is the condition of control. Who
+controls the process of production in any particular Society? Who
+in it owns (that is, has the right and power to use or leave idle, to
+distribute or withhold) the means of production, the stores of food
+and clothing, and houses and machinery? On the answer to that question
+depends the economic structure of a society. This control is called
+Property, and as the first thing we have to study in practical
+[[Economics]] is the character of Property, we will make that the first
+division of our political applications.
+
+
+
+
 <span class="atom-split" data-atom="story_09_property_the_control_of_wealth--part_01" data-title="Economics for Helen — PROPERTY: THE CONTROL OF WEALTH (part 1)" data-chapter="PROPERTY THE CONTROL OF WEALTH" data-kind="excerpt"></span>
 
 
@@ -8135,6 +7628,130 @@ the good and evil of them and what the consequences of them are.
 
 
 
+<span class="atom-split" data-atom="story_10_the_servile_state" data-title="Economics for Helen — THE SERVILE STATE" data-chapter="THE SERVILE STATE" data-kind="story"></span>
+
+
+THE SERVILE STATE
+
+The Servile State is that which was found among our forefathers
+everywhere. It is the Servile State in which we Europeans all lived
+when we were pagan two thousand years ago. For instance: In old pagan
+[[Italy]] before it became Christian, or in old pagan Greece--both of them
+the best countries in the world of their [[Time|time]] and both of them, as you
+know, the origins of our own civilisation--most of the people you would
+have seen working at anything were slaves, and above the slaves were
+the owners: the free men.
+
+Since we are talking of the political applications of political
+economy, we have to consider human happiness, which is the object of
+all human living; and when we talk of “advantage” or “disadvantage” in
+any particular economic state we mean its greater or less effect on
+human happiness.
+
+The great disadvantage of the slave-owning state is clearly apparent:
+in it the mass of men are degraded: they are not citizens: they cannot
+exercise their own wills. This is so evident and great an evil that it
+must be set against all the advantages we are about to notice. [[Slavery]]
+is a most unhappy condition in so far as it wounds human [[Honour|honour]] and
+offends human dignity; and that is why the Christian religion gradually
+dissolved [[Slavery|slavery]] in the process of many centuries: [[Slavery|slavery]] is not
+sufficiently consistent with the idea of man’s being made in the image
+of God. [[Slavery]] can also be materially unhappy, if the masters are
+cruel or negligent. The great mass of slaves in such a society might
+be, at the caprice of their masters, very unhappy; and under bad phases
+of those societies they were very unhappy.
+
+But we must not be misled by the ideas that have grown up around the
+word “slave” in the modern mind. Because we have no one in [[England]]
+to-day who is called a slave and bought or sold as a slave, and no
+one is yet compelled by law to work for another man, therefore we
+regard [[Slavery|slavery]] as something odd and alien; and because it is natural
+to dislike things which are odd and alien, unaccustomed, we think of
+[[Slavery|slavery]] as something simply bad.
+
+That is a great mistake. The Servile State had--and, if it comes back,
+will have again--two great advantages: which were personal security
+and general stability.
+
+Personal security means a condition in which everybody, master and
+man, is free from [[Grave|grave]] anxiety upon the future: can expect regular
+food and lodging and a continuance of his regular way of life.
+
+General stability means the continuance of all society in one
+fashion, without the violent ups and downs of competition and without
+the friction of unwilling, constantly interrupted labour--as in strikes
+and lock-outs.
+
+In the Servile State work always got done and was done regularly. The
+owners knew “where they were.” With so much land and so many slaves
+they were sure of a certain average annual produce. On the whole it was
+to the advantage of a man to keep his slaves alive and fairly [[Well|well]] fed
+and housed. Also, the human relation came in, and a man and his slave,
+in the better and simpler forms of the Servile State, would often be
+friends and were usually in the same relation as people are to-day with
+their dependents. For instance: in [[Well|well]]-to-do houses of the Servile
+State we know from [[history]] that certain slaves were often the tutors of
+the children, and thus had a very important and respectable position,
+and there were other slaves who acted as good musicians and architects
+and artists. There was always the feeling of a fixed social difference
+between slave and free, but this did not necessarily nor perhaps
+usually lead to great unhappiness.
+
+This stability and security which slave-owning gave to all society (to
+the owned to some extent, and to the owners altogether) also produced
+a very valuable effect, which is, the presence of leisure. Because
+revenue was fairly certain, because this kind of arrangement prevented
+violent fluctuation of fortune, competition in excess, and the rest
+of it, therefore was there a considerable proportion of people at any
+[[Time|time]] who had ample opportunity for study, for cultivating good tastes,
+for writing and building [[Well|well]], and judging [[Well|well]], and--what is very
+important--for conducting the affairs of the State without haste or the
+panic and folly of haste.
+
+One alleged economic disadvantage of slave-owning must be looked at
+narrowly before we leave this description of the Servile State.
+
+One often hears it said that slave labour is less productive than
+free labour, that is, labour working at a wage under [[Capitalism]].
+People sometimes point to modern examples of this contrast, saying
+that places like the Southern States of [[America]], where slave labour
+was used a lifetime ago, were less productive than the Northern
+States, where labour was free. But though this is true of particular
+moments in [[history]], it is not generally true. Free labour working at
+a wage under the first institution of [[Capitalism|capitalism]]--when, for instance,
+a [[Body|body]] of capitalists are beginning to develop a new country with
+hired free men to work for them--will be full of energy and highly
+productive. But when what is called “free labour”--that is, men
+without property working by contract for a wage--gets into routine
+and habit, it is doubtful whether it is more productive than slave
+labour. It is accompanied by a great deal of ill-will. There is
+perpetual interruption by strikes, and lock-outs, and the process of
+production cannot be as minutely and absolutely directed by the small
+and leisured class as can slave labour. _There is no reason why a free
+man working for another’s profit should do his best._ On the contrary,
+he has every reason to work as little as possible, while a slave can be
+compelled to work hard.
+
+But whether slave labour be more or less productive is not so important
+as the two points mentioned above, of advantage and disadvantage. The
+disadvantages, as we have seen, are (1) that it offends our human
+[[Love|love]] of [[Honour|honour]] and independence, degrading the mass of men, and (2)
+that it is so terribly liable to abuse in the hands of cruel or stupid
+owners, or in conditions where great gangs of slaves grow up under
+one owner who can know nothing about them personally and is therefore
+indifferent to their fate. The advantages are security and stability,
+running as a note throughout society and showing themselves especially
+in the leisure of the owning classes, with all the good fruits of
+leisure in taste, literary and artistic. It was a society based on
+[[Slavery|slavery]] which produced what is perhaps the best fruit of leisure, and
+that is the profound and fruitful thinking out of the great human
+problems. All the great [[philosophy]] and art of the ancients was worked
+out by the free owners in the slave-owning states, and so was the best
+literature ever made.
+
+
+
+
 <span class="atom-split" data-atom="story_11_the_capitalist_state--part_01" data-title="Economics for Helen — THE CAPITALIST STATE (part 1)" data-chapter="THE CAPITALIST STATE" data-kind="excerpt"></span>
 
 
@@ -8352,6 +7969,389 @@ developed form, [[Communism]].
 But before we talk of this supposed remedy, which has never been put
 into practice (it is an imaginary state of things) we must describe the
 third form of state--the Distributive State.
+
+
+
+
+<span class="atom-split" data-atom="story_12_the_distributive_state" data-title="Economics for Helen — THE DISTRIBUTIVE STATE" data-chapter="THE DISTRIBUTIVE STATE" data-kind="story"></span>
+
+
+THE DISTRIBUTIVE STATE
+
+A state of society in which the families composing it are, in a
+determining number, owners of the land and the means of production
+as [[Well|well]] as themselves the human agents of production (that is, the
+people who by their human energy produce wealth with those means of
+production), is probably the oldest, and certainly the most commonly
+found of all states of society. It is a state of society which you
+get all through the East, all through Asia, and in all the primitive
+states we know. It is the state to which men try to return, as a rule,
+after they have blundered into any other, though the first state we
+described--the Servile State--runs it very close as a thing suitable
+to human [[Nature|nature]]; for we know that the Servile State did also last for
+centuries quite normally and stably in the Pagan past.
+
+The reason men commonly adopt the Distributive form of society, and
+tend to return to it if they can, is that the advantages it presents
+seem greater in most men’s eyes than its disadvantages.
+
+The advantages are these:--
+
+It gives [[Freedom|freedom]]: that is, the exercise of one’s will. A [[Family|family]]
+possessed of the means of production--the simplest form of which is
+the possession of land and of the implements and capital for working
+the land--cannot be controlled by others. Of course, various producers
+specialise, and through exchange one with the other they become more or
+less interdependent, but still, each one can live “on his own”: each
+one can stand out, if necessary, from pressure exercised against him by
+another. He can say: “If you will not take my surplus as against your
+surplus I shall be the poorer; but at least I can live.”
+
+Societies of this kind are not only free, but also, what goes with
+[[Freedom|freedom]], elastic--that is, they mould themselves easily to changed
+conditions. The individual, or the [[Family|family]], controlling his or its own
+means of production, can choose what he will do best, and can exercise
+his faculties, if he has sufficient knowledge, to the best advantage.
+
+This arrangement also gives security, though not as much security
+as the Servile State. Men in this position of ownership are not in
+dread of the immediate future. They can carry on. They may, if they
+choose, make a reserve of their produce to carry them over moments
+of difficulty. For instance, they will probably have each a reserve
+of food to carry them over a bad harvest or some natural disaster.
+Further, it is found in practice that societies of this kind continue
+for centuries without much change. They go on for generations with a
+property [[Well|well]] divided among them and everybody free, so far as economic
+situation is concerned. No such society has ever been destroyed except
+by some great shock; and so long as every shock can be warded off,
+this system of having the land and the means of production controlled
+by the mass of the citizens as private owners is enduring. There are
+districts of [[Europe]] to-day where the system has continued from beyond
+the [[Memory|memory]] of man. Such a little state as Andorra is an example,
+and many of the Swiss valleys. Further, when the system has been
+laboriously reconstructed, when the mass of families who used to be
+dispossessed have been again put into possession of land and the means
+of production, we find that the state arrived at is [[Stable|stable]].
+
+The best example of that sort of reconstruction to-day is to be found
+in [[Denmark]], but you have it also in a less marked fashion in most
+parts of [[France]] and in most of the Valley of the Rhine, in Belgium and
+Holland, in Norway, and in many other places. Wherever it has been
+settled it has taken root firmly.
+
+The disadvantages of such a system are, first, that though in practice
+it is found usually [[Stable|stable]], yet in theory it is not necessarily [[Stable|stable]],
+and in practice also there are some communities the social character of
+which is such that the system cannot be established permanently.
+
+It is obvious that, with land and the means of production [[Well|well]]
+distributed among the various families, a few may by luck or special
+perseverance and cunning, tend to buy up the land and implements of
+their less fortunate neighbours, and nothing will prevent this but a
+set of laws backed up by strong public opinion. In other words, people
+must [[Desire|desire]] this state of society, and [[Desire|desire]] it strongly in order to
+maintain it; and if the [[Desire|desire]] for ownership and [[Freedom|freedom]] is weak this
+distributive arrangement will not last.
+
+In the absence of special laws, and a public opinion to back them,
+the idler or the least competent or least lucky of the owners will
+gradually lose their ownership to the more industrious or the more
+cunning or more fortunate.
+
+Another disadvantage which has often been pointed out is that a state
+of society of this sort, though usually [[Stable|stable]] and enduring, falls
+into a routine (that is, into a traditional way of doing things),
+which it is very difficult to change. The small owner will not have
+the same opportunities for travel and for wide experience as the rich
+man has, and he will tend to go on as his fathers did, and therefore
+when some new invention arises outside his society he will be slow to
+adopt it. In this way his society becomes less able to defend itself
+from predatory neighbours and goes under in war. For a society of this
+kind is unfitted to the discovery of new things. Contented men feel no
+special spur to discover or to act on such discovery. That is why we
+find societies in which land and all the other means of production are
+[[Well|well]] distributed among the greater part of the families of the State
+becoming too conservative--that is, unwilling to change even for their
+own advantage.
+
+This, of course, is not universally true. For instance: no society in
+[[Europe]] has made more progress in agriculture than the Danish society
+of small owners. But, take the world all over, this kind of state is
+usually backward, that is, slow to take up improvements in production
+and to avail itself of new discoveries in physical science.
+
+There is also another disadvantage which the Distributive State has
+when it is in competition with a Capitalist State, or even a Servile
+State, and that is _the difficulty of getting a very large number of
+small owners to put their money together for any great purpose_. The
+small owner will probably have less opportunities for instruction and
+judgment than the few directing rich men of a Capitalist or Servile
+State, and even if he is, on the average, as [[Well|well]] educated as these
+rich men in neighbouring states, it will be more difficult to get a
+great number of small owners to act together than to persuade a few
+large owners to act together. Therefore highly Capitalist States, such
+as [[England]], will be found more enterprising than less Capitalist States
+in their investments and commerce. They will open up new countries
+more rapidly, and will get possession of the best markets.
+
+Lastly, this disadvantage attaches to the Distributive State--that it
+is not so easy in it to collect great funds for war or for national
+defence, or for any other purpose, as it is in a Capitalist or Servile
+State. You cannot tax a Distributive State as highly as you can tax a
+Capitalist State. The reason is obvious enough. A [[Family|family]] with, say,
+£400 a year finds it terribly difficult--almost impossible--to pay out
+£100 a year in taxation. They live on a certain modest scale to which
+all their lives are fitted, and which does not leave very much margin
+for taxation. If you have a million such families with a total income
+of £400 millions you may collect from them, say, a tenth of their
+wealth in a year--£40 millions--but you will hardly be able to collect
+a quarter--£100 millions.
+
+But another society with exactly the same amount of total wealth, £400
+millions a year, only divided into very rich and very poor, a society
+in which there are, say, 1,000 very rich families with £300,000 a year
+each, and a million families with rather less than £100 a year each,
+is in quite a different situation. You need not tax at all the million
+people with a hundred a year each, but the rich people, who between
+them have £300,000,000 a year, can easily be taxed a quarter of their
+whole wealth; for a rich man always has a much larger margin, the loss
+of which he does not really feel.
+
+By a very curious [[Paradox|paradox]], which it would take much too long to go
+into in detail, but which it is amusing to notice, this power of
+taxing a very highly capitalist community is one of the things which
+is beginning to handicap our Capitalist societies to-day against the
+Distributive societies. It used to be all the other way, and it seemed
+common sense that countries where you could levy large sums for State
+purposes of war or peace would win against countries where you could
+not levy such sums for public purposes. But the fact that you can tax
+so very highly a society of a few rich and many poor has been shown in
+the last few years to have most unexpected results. The very rich men
+pay all right; but the drain on the total resources of the wealth of
+the State weakens it.
+
+The money raised by taxation is spent on State servants--many of them
+inefficient and idle.
+
+Since it is so easy to raise large sums, there is a [[Temptation|temptation]] to
+indulge in all sorts of expensive State schemes, many of which come to
+nothing. And this power of easy taxation, which was a strength, becomes
+a weakness.
+
+No one suspected this until taxation [[Rose|rose]] to its present height, but
+now it is clearly apparent; and we in [[England]] might perhaps be in
+a better way later on if there had been as much resistance to high
+taxation here as there has been in countries where property is better
+distributed.
+
+
+
+
+<span class="atom-split" data-atom="story_13_socialism" data-title="Economics for Helen — SOCIALISM" data-chapter="SOCIALISM" data-kind="story"></span>
+
+
+[[Socialism|SOCIALISM]]
+
+It remains to deal with a certain remedy which some people have
+imagined would get rid of all the disadvantages of [[Capitalism]] once and
+for all. This remedy is called [[Socialism]], and [[Socialism]], as we shall
+see in a moment, must mean ultimately [[Communism]].
+
+No one has ever succeeded in putting this remedy for the evils of
+[[Capitalism]] into practice, and (though the matter is still very much
+disputed) it looks more and more as though no one would ever be able to
+put it into practice.
+
+We have seen what the evils of [[Capitalism]] were and how they have
+exasperated nearly everyone who has become subject to a capitalist
+state of society. There is the increasing insecurity which everybody
+feels--all the Proletariat and many of the Capitalists as [[Well|well]]--whilst
+there is the necessary tendency of [[Capitalism]] to leave a larger and
+larger proportion of people unproductive, not making the wealth which
+is necessary for their support, and therefore either kept in idleness
+by Doles out of the wealth which is still produced (a process which
+cannot go on for ever) or starving. Pretty [[Well|well]] everyone wants to get
+rid of these evils and to get out of the Capitalist system, and this
+idea of [[Socialism]] which we are going to examine seemed, when it was
+first put forward, an easy and obvious shortcut out of the Capitalist
+muddle. When we have looked into it, we shall see how and why [[Socialism]]
+does not, in practice, turn out to be a shortcut at all, but a blind
+alley.
+
+*       *       *       *       *
+
+Ever since men began to live in societies and to leave records, you
+will find the poorer people, when their [[Poverty|poverty]] became intolerable,
+clamouring for a division of the wealth which the more fortunate enjoy.
+
+That is the main, obvious remedy to inequality of wealth; to divide it
+up again. But such a scheme has nothing to do with [[Socialism]], and must
+not be mistaken for [[Socialism]].
+
+The Socialist theory was invented, or at any rate was first put
+clearly, by a man of genius, Louis Blanc, who was Scotch on his
+father’s side and French on his mother’s. He lived rather less than a
+hundred years ago and the scheme which he and those around him started
+was this:--
+
+The Officers of the State were to own all the Means of
+Production--machinery and land and stores of food, etc.--and they [[Alone|alone]]
+should be allowed to own it. Individuals and families and corporations
+might consume that portion of produced wealth allotted them by the
+State after it had been produced, _but they might not use it for making
+future wealth_. ANY WEALTH USED FOR THE MAKING OF FUTURE WEALTH, THAT
+IS, CAPITAL IN ANY FORM, WAS TO BE HANDED OVER TO THE OFFICERS OF THE
+STATE; AND ALL LAND AND NATURAL FORCES WERE TO BE OWNED FOR EVER BY THE
+STATE. That scheme is [[Socialism]], and from that principle all Socialist
+ideas flow.
+
+In this way, it was claimed, there would be no division of society
+into Capitalists and Proletarians, no chaos of competition with its
+alternating riches and ruin; insecurity would be done away with, and
+insufficiency as [[Well|well]]. Everyone in the country would be a worker, the
+State itself would be the Universal Capitalist. So there would be no
+struggle of capitalists going up and down one against the other, and no
+unemployment or lack of necessaries for anyone.
+
+Among the energetic and keen set of men who surrounded Blanc in [[Paris]]
+was a certain Mordecai, who wrote under the name his father had
+assumed, that of “Marx.” He wrote (in German) a very long and detailed
+book describing the whole scheme, as [[Well|well]] as describing the evils of
+[[Capitalism]], and showing how this scheme would remedy those evils. His
+book was pushed forward by the people who were converted to the idea,
+and that is why the theory of [[Socialism]] is now often called “Marxism.”
+
+For instance: the coal-mines and all the machinery of the coal-mines
+and the houses in which the miners live and the stores of food and
+the clothing, etc., which keep the miners alive while the coal is
+being mined, that is during the process of production--all these,
+which now belong to capitalists who make a profit out of the miners’
+labour, would then belong to the State, which would allot the coal
+produced to all who needed it. So it would be with all farms, farming
+implements, and cattle and horses and the stores of food and clothing
+and houses necessary to the labourers on the land during the process of
+production. So it would be with all stone-quarrying and timber-felling,
+and carpentry and brick-making for the continued production of the
+houses necessary to the producers during production. So it would be
+with all corresponding material for making cloth for clothing. So it
+would be with everything which was made in the whole country. The
+officers of the State would share out the wealth produced, so that it
+would be consumed by all the citizens, and there would be an end to the
+exploitation of one man by another and to the uncertainty of living.
+
+[[Communism]] is simply that form of [[Socialism]] in which all that is thus
+shared out by the State would be shared equally, the State giving every
+[[Family|family]] an equal share in proportion to the numbers of people which had
+to be supported in the [[Family|family]], from one upwards.
+
+The reason I have called [[Communism]] the logical and only possible
+ultimate form of [[Socialism]] is that there could be under [[Socialism]] no
+reason for any other form of distribution.
+
+Some [[Time|time]] ago certain Socialists used to try to get out of this
+necessity for [[Communism]], so as not to frighten rich people with their
+proposals for [[Reform|reform]]. They would say to a man who was making, say,
+£5,000 a year because he owned a lot of capital and land and had rents
+and profits coming to him from the work of his labourers: “You will
+have just as much under [[Socialism]], for we recognise what a superior
+kind of person you are, and when the State shares out its wealth among
+its citizens it will give you as much as you have now, leaving the
+same difference between rich and poor, only seeing to it that the poor
+always at least have enough to live on. Where we give one ticket to the
+labourer to claim out of the common stores what he wants for a week we
+will give you fifty tickets, so that you will get fifty times as much
+if you like.” But of course this was [[Nonsense|nonsense]], and was soon discovered
+to be [[Nonsense|nonsense]]. With everybody working for the State under orders all
+would naturally claim equality, and there would be no way of preventing
+their getting an equal share except force. In justice, supposing a
+Socialist state to arise, there could be only the Communist form of it.
+
+This scheme has never been put into practice, and when we look closely
+at it we shall discover, I think, why it never will be put into
+practice.
+
+The reason it cannot be put into practice is this: Although we use the
+words “the State” this mere idea means in practice real men who act
+as officials to represent the State. Actual men with their varying
+characters, good and bad, lazy and industrious, just and unjust, have
+got to undertake the enormous business first of running production
+in the interest of all, next of distributing the resultant wealth
+equally to all.
+
+Now there are two qualities in man which make action of this sort
+break down. The first is that men [[Love|love]] independence--they like to feel
+themselves their own masters. They like therefore to own, so that
+they may do what they like with material things. The next is that men
+like to get as much as possible of good things. Both these feelings
+are universally true of the human race. You will find exceptional
+people, of course, who are just as contented with a little as with
+a great deal, and you will find exceptional people who do not care
+about independence or about owning, and who are quite willing to be
+run by other people, or to give up all possession for the sake of some
+special way of living: that is, there is a comparatively small number
+of men and women who, in order to live free from responsibility, or in
+order to devote themselves to religion or to some form of study and
+contemplation, will give up all property and have the material side of
+their lives administered for them. But men and women in general will
+both want to get all they can of good things with the least possible
+exertion in the getting of them, and they will also [[Desire|desire]] [[Freedom|freedom]] to
+exercise their own wills and deal with material objects as they choose.
+
+Now the Socialist scheme requires both these very strong emotions,
+common to all mankind, to be suppressed. The people who run the
+State--that is the politicians--are to be absolutely just (although
+there is no one to force them to be just), they are to forget all
+personal wishes and to think of nothing but the good of those whose
+labour they direct and among whom they share out the wealth that is
+produced. We know by experience that politicians are not angels of this
+sort. It is absurd to imagine that men coveting public office (and
+living the life of intrigue necessary to get it) would suddenly turn
+into unselfish and devoted beings of this ideal kind. You cannot give
+this enormous power to men without their abusing it.
+
+The second force making against the establishment of [[Socialism]] is still
+stronger. You will never get the run of men and women contented to
+live their whole lives entirely under orders. In exceptional moments a
+large part of individual [[Freedom|freedom]] will be given up to the necessity of
+the State--as during the Great War; for if the State did not survive
+the individual’s life and that of his children would not be worth
+living. The individual in abnormal crises goes through a great deal
+of [[Suffering|suffering]] for a moment in order that he and his should have less
+[[Pain|pain]] in the long run. But even in such crises a large part of [[Liberty|liberty]]
+remains to him. Under [[Socialism]] he would have none. He would have
+to do what he was told by his task-masters, much more than even the
+poorest labourers now have to do what they are told by task-masters.
+And there would also be this difference: that everyone would be in
+that situation and there would be no way out. Not a part of life, nor
+so many hours a day, but the whole of life, would be subject to orders
+given by others. This, humanity would certainly find intolerable.
+
+That is why, I think, [[Socialism]] has never been put into practice
+and never can be put into practice. There have been attempts at it,
+but even when they are sincere and not the mere product of alien
+despotism they break down. As in [[Russia]] to-day, where, whether the Jew
+adventurers who seized power were sincere or mere tyrants, they have,
+in spite of their attempt at seizing all the soil and keeping the
+peasants dependent on them, been compelled at last to let nearly all
+the nation live as owners tilling their own land.
+
+It is no reply to this to say that the State always has owned, and
+actually can and does own, some part of the means of Production (such
+as the Post Office and certain forests and lands here in [[England]], and,
+abroad, most mountain land, all mines and much else) and direct them
+with [[success]]. The point of [[Socialism]]--the one condition necessary
+to its existence--is that the State should own all the means of
+Production that really count. Between the normal exercise of a partial
+function and the abnormal exercise of a universal function is all
+the difference between plus and minus. A partial State ownership
+working in a society the determining character of which is private
+ownership is an utterly different thing, even an opposite thing
+to general State ownership determining the character of Society and
+allowing only exceptional private ownership. [[Socialism]] can only be
+(a) good (b) possible when men [[Desire|desire]], and are at ease in, the
+latter kind of state; that is, [[Desire|desire]] and are at ease in complete
+forgetfulness of [[Self|self]] coupled with justice as men ruling, and complete
+surrender of personal [[Honour|honour]] and [[Freedom|freedom]] and appetite as men ruled.
 
 
 

@@ -2699,406 +2699,6 @@ FAREWELL!
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="The Missing Masterpiece — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
-
-
-CHAPTER II
-
-OVER NORTH MERTON a year passed, as over the rest of the world. The unfortunate, crippled heir had had his coming of age, which had seemed to his father so hollow a festivity. The younger son was leaving school. John Delgairn kept more and more to himself and fell more and more as invalids and isolated souls will do, into the companionship of his hobby. He developed his amazing secret talent for reproduction.
-
-That talent had been revealed to him by an accident. One day, when he had been making a sketch of the distant elm trees which he could see from his window on the edge of the park, he remembered Harding’s pencilled studies of trees, and what a lot one could learn from them. Harding had taught his Father’s Grandmother drawing in that very house a century ago, and if he looked through the portfolio he could doubtless find something to help him. He was not long in finding it, and with a close exactitude he faithfully reproduced the very touch of the Master, and there was the very mirror of it before him. He was astonished himself at the uncanny exactitude of the replica.
-
-He thought it so exceptional that he got up to fetch an empty frame with which to try the experiment, whether each framed would give the same effect. Meanwhile he propped up Harding’s original drawing against a pile of books, and his own side by side with it, like a pair of twins. He poked about among the frames in his cupboard in the next room. It took him some little time to find one that would fit. When he did, and as he came back to where he had been drawing and caught sight of the pencilled pieces of paper those few yards off awaiting him, it gave him a curious little shock to notice that, at such a distance, he was not sure which was Harding’s and which was his own. It is true he was rather short-sighted, as are most very exact copyists. Still, it was startling. Of course, when he got closer he recognized at once which was which by the age of the paper; but the incident impressed him profoundly. He had found a congenial occupation for his lonely life. He would make replicas of this and of that, with the sole aim of exact reproduction. It was of no practical use in these days of photography and mechanism; it would lead to no reputation — but then, he desired none. All that he desired was something that would take him away from himself and fill his mind.
-
-He deliberately chose the most diverse models, and as deliberately chose them without regard for beauty, or any other quality, save difficulty in creating an illusion of the original.
-
-He began with an old faded water-colour of North Merton House as it had been two generations before; a small picture of no value except for its interest to the family. He took it from the wall of the schoolroom where it hung, propped it up, and studied his work. It was a full week’s business, and it came to grip him so — he found his success so remarkable — that he could not leave it, but all day long, hour after hour, worked on at the strange task, interrupted only by two visits to London to get certain materials for the full result. The old water-colour was fox-marked; the plain gilt composition frame faded and slightly chipped, showing patches of dirty white. All that had to be identically reproduced; nothing else would serve him. And when he had made the last touch, he felt a kind of triumph. He had discovered an odd talent which he seemed to possess to the degree of genius. He remembered how Piazza years and years before, when he was a child, had come to reproduce certain MSS. for his father, and how, to show his skill, the famous engraver had taken two large cushions up from the sofa, hidden the original behind one and the copy behind the other, and then asked Mr. Delgairn to take them up and to tell him which was the original and which was the copy. It was like a conjuring trick, and he remembered how he had looked wide eyed on its success. Perhaps that was because he was only a child at the time, and now the test would fail.
-
-It did not fail. No mortal could have told which was the original little picture that had hung on the schoolroom wall and which was the one proceeding from his own hand. He was so pleased that he thought he might for once attract his father’s attention and interest to his work; but when he showed it him, he got no more sympathy than a conventional kindness. It was clear that he must keep his hobby to himself. It made him somewhat more remote than ever, in his father’s eyes, from the part he would have to play when he came into the property.
-
-When Harry came home for the holidays, his older brother told him nothing of the new interest he had. He was afraid of being laughed at, and, gentle as he was, he felt a little bitter envy of the gladness his father showed at the strong athletic young fellow who surely ought by rights to have had the inheritance of all that good land.
-
-So young John Delgairn, with health continually failing, passed his time attempting all manner of reproduction, each specially chosen for the difficulty of the theme, until he recalled the Bourrot hanging in its dark corner of the billiard-room.
-
-John knew nothing about the picture (for he troubled his father as little as possible in these last days). Even the name of the man who had painted it was only known to him by that one signature. But it was odd and absurd, and meant nothing, and would be therefore a greater test of skill. And after a very laborious effort he produced a result so perfect that it excelled anything he had previously attempted.
-
-It occurred to him to force himself to a further test. He felt more ill than ever before. The more determined was he to prove to himself what he could do. The test he had proposed for his own satisfaction was this: he would make yet another exact replica of this monstrous absurdity. To add to the test he would make the second replica not from the first, but from the original. Then he would compare that second replica with the original, and see whether in the double process he had not lost some detail.
-
-But no! In that very drastic test he succeeded as thoroughly as ever. He took the original Bourrot down again from its wall; propped it up in the full light by his window, with the two replicas on either side; and peering at them closely, and scanning every mark, smudge, and touch, not only on the painted surface, but on the back of the canvas, even down to the name of the man who had supplied that canvas, and even down to the used colour of the frame-wedges, even down to a tiny chip of wood missing from the back of the top of the frame — there was nothing whatever, to indicate which had come from the foreigner and which from his own hand: only the central position of the original, as he had arranged it. He took it up, went back, and hung it again on its place in the dark corner of the billiard-room where no one ever went; the two replicas he lovingly folded in thick wads of paper and put away.
-
-His success had given him an odd feeling of completion, as of a whole life-task accomplished. And so it was; for he never drew again. The rest which he had postponed too long could not set him right; and at the end of the summer, before the opening of the University term and Harry’s going up to Magdalen, the sickly heir of North Merton was dead.
-
-It is a cruel thing to say, but it is true, that Delgairn felt a half - conscious relief. When he looked at his remaining son, and thought how admirably he would fill the place which was now his by right, his whole mind was changed, and for the first time in twenty years the old squire felt content. In that content, four years later, when Harry was twenty-two, had taken his Schools, and was going down for the last time, Mr. Delgairn died.
-
-As for the elder brother’s poor toys and instruments, no one remembered them or cared for them, except one pensioned old lady who had been nurse to both the children and who alone mourned him at all. She had taken care to put the poor lad’s things, his brushes and pencils, and his colours, and his two or three dozen sketches and parcels into an old oak chest, unlocked, which stood with sundry other derelict furniture and certain dusty and forgotten bundles of old papers, in the small lumber room under the roof which no one ever visited from one year’s end to another. Then she in her turn died, when young Delgairn, for six years master of the place, was nearing twenty-eight.
-
-The Masterpiece was ten years old.
-
-
-
-
-<span class="atom-split" data-atom="chapter_03" data-title="The Missing Masterpiece — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
-
-
-CHAPTER III
-
-SIR HENRY BENSINGTON was one of those men who make England what they are.
-
-He had just that kind of strength of which we seem to possess the secret, and which is the despair of our jealous rivals. It was a strength which appeared in the rather heavy features, the well-poised head, and steady glance; but which was expressed much more thoroughly in the unfailing judgment. It was characteristic of such a man that, having undertaken one kind of business, he did not dissipate his energy by attempting anything outside that business. At the age of twenty-three — and he was now just over fifty — he had begun to deal in pictures. Nothing about him would have made you suspect the critic, still less the expert. Perhaps it was rather his strong will, determined energy, continuity of action, which had gradually taught him his own trade. But he had come in less than thirty years of labour to the very top of it, and was the chief man in England, and perhaps in the world, in his own department.
-
-In discovery, in purchase, and in sale, even in manipulation, he was admittedly the master; and he had admittedly deserved and earned that very great fortune which none dared to estimate, but which ran into a larger seven figures than his greatest admirers would have guessed.
-
-He had not risen from nothing. He had had the advantage of a certain capital to begin with, provided by his parents in Germany, and by an aged aunt in Milan; and, what is invaluable to activities of his kind, a considerable experience of the continent of Europe. He had been born at Cologne, where his parents happened to be resident, and had received his early education in that town, which gave him from early youth the inestimable advantage of acquaintance with the German tongue. But he came over to London at the early age I have mentioned, and started the famous little shop which was the nucleus of the business in King Street. It was characteristic of the man that he should thus face the world single-handed and unsupported at a time of life when most of those who were to be his competitors were still wasting their opportunities in amusement.
-
-From the first moment of his taking to the trade he showed, over and above exceptional powers of working and exceptional lucidity in the estimation of values, that he had one much rarer gift, a gift almost unique. This was a miraculous power of varying — quite suddenly — his aesthetic mood and appreciations. Nothing marks off the born dealer more sharply from the dull herd than this faculty. The many sink into a rut of affection and habit for such painters as they first knew. The exceptional brain which furnishes such purchasers with their needs can despise at a moment’s notice what it formerly admired, admire what it despised, according as fashion changes or the making of a new market demands.
-
-During the Fragonard boom, at the very beginning of his career, he felt Fragonard deeply. When Fragonard slumped, Henry Bensington felt, by a strange sympathy with the unseen forces about him, a lessening interest in Fragonard. During the much later Romney boom it was the same. But perhaps the most astonishing detail in this unique gift was his sudden wave of admiration for any great modern [[Artist|artist]] immediately upon death of same.
-
-It was just when the public and the Press were fullest of the name that Henry Bensington was most inspired by it.
-
-And all this was not owing to the effect of other men’s minds upon his own: it was rather the other way. He had the mysterious powers of a forerunner. He would be found buying the work of half-forgotten dead masters, only singing their praises when he had acquired a considerable body of their work; but then filling the papers and therefore the minds of the Elite with their glory. He was the better able to do this from a longstanding friendship with two of the few men who control our organs of opinion, Lord Borstal and Sir Charles Holloway. It would be difficult to say with which of the two he was the more intimate. And though they followed the high tradition of our national leaders in not allowing public rivalry to interfere with private friendship, their common affection for Henry Bensington certainly formed a bond between them, which was further strengthened by the fact that the more acute of the two splendid intellects (that of Sir Charles) had managed to acquire, under various names, fifty-one per cent, of the shares in Lord Borstal’s principal journal.
-
-For the first ten years of his business career Henry Bensington, though steadily accumulating, did not approach the very high position which he now occupies. There came to him a turning-point, as there does in the life of every genius.
-
-Until that turning-point his reputation, though high, depended upon little more than the common talents for finding good work in unworthy hands, purchasing it with skill from those who could not estimate its value, and discovering the right purchaser among those who, whether on his recommendation or (more rarely) on their own choice, desired to buy.
-
-He had also a growing reputation for his skill in procuring the exportation of Italian XVth Century and early XVIth century work, in spite of the law forbidding such export. But what made the great change in his fortunes, and put him on the summit where he has since stood, was the famous incident of the New York Customs, which stamped him at once for a man quite different from his kind.
-
-It was a ruse worthy of a Napoleon or a Washington.
-
-The Rembrandt which Meyer had discovered in Budapest passed through his hands (only as agent — he had not then sufficient capital to advance for the purchase of it), on its way to cross the Atlantic to the collection of Mr. Fagdon, the President of the Mannawatta Corporation. While it was still in Henry Bensington’s hands he caused the original signature to be painted over, and the name “Chas. Biggs” to be superimposed in clear and striking letters of a fresh vermilion. When this incongruous signature had thoroughly dried, he had it painted over again with the utmost skill (and behind locked doors) and from his photograph of the original signature had the famous “R” painted on again — and all this for reasons that will appear.
-
-His next act was to advise in private fashion Mr. Carlos G. Pucker, the Hot-Dog King, what he had done, and to add to his letter certain recommendations, the reasons for which will also be apparent.
-
-When the picture reached New York, and was in the hands of the Customs Authorities, they received an anonymous letter arriving by the same packet — and Bensington was its author. It warned them that the supposed Rembrandt was no Rembrandt at all. If they would assure themselves, let them not hesitate to scrape the signature, and they would find that it was a fraud, due to a well-known hack on the European side of the water, who turned out such things by the dozen — one Chas. Biggs. Those incorruptible officials took the risk; they scraped off the top signature; they discovered beneath it the fine bold red letters of Chas. Biggs’s name. And all America had a good laugh.
-
-When the picture reached Mr. Fagdon it was already almost worthless, and he sold it at a very heavy sacrifice to Mr. Carlos G. Pucker, the Hot-Dog King. That captain of industry had it scraped for the second time, and behold, on the departure of Chas. Biggs’s name, the original Rembrandt signature appeared! The picture is the gem of Mr. Pucker’s collection to this day. Mr. Fagdon cursed the bad judgment of Bensington as Agent, and Bensington apologised generously; but Mr. Pucker was the better client.
-
-Mr. Pucker was really grateful, for it is rich men who best understand the value of money; he rewarded the European agent with new commissions, and by recommendation throughout all his world. Henry Bensington was made.
-
-From that moment, as the saying goes, he never looked back.
-
-He was knighted at the age of thirty-five — three years later — purchased the Longworth Collection after its owner’s death by suicide. He advised continually for purchase to the National Gallery. In that capacity came a second notable action, far more subtle, which made such an impression upon his contemporaries.
-
-He proved quietly but with insistence that the recently-acquired Gelée (whom our ignorant ancestors knew only as Claude Lorraine) was a fraud. He convinced not only the authorities, but the Press; and I must admit that the Press helped him nobly in his effort. It was unworthy of England that a spurious picture, however beautiful, should hang in the great National collection.
-
-He did more. He approached those authorities, admitted that by his conscientious act he had gravely lowered the value of what had been thought a masterpiece, and himself generously stepped into the breach and paid for it no less than £250, although now that the fraud had been exposed it would not have fetched two hundred and fifty shillings. He went farther still in his almost Quixotic action. He begged that it might remain on the walls for some weeks, so that the public, which had been greatly interested in the controversy, should be able to satisfy their curiosity.
-
-Strangely enough, in the course of these weeks an obscure friend of Sir Henry’s, while protesting that he wished to do nothing disloyal to that great man, brought forward hitherto neglected proofs that the picture was genuine. They were proofs even more conclusive than those which Bensington himself had produced of its being spurious.
-
-Bensington was not the man to stick to a wrong opinion from a false sense of honour. He frankly admitted that he had been wrong. The picture was a Claude after all (I mean, a Gelée), and he advised that it should be bought again for the Nation: a process that was the easier as it had not yet been taken from the walls. He himself, of course, refused to touch anything beyond the reimbursement of his original payment of £250. But he thought it only fair that the man who had triumphantly re-established the value of the picture should be offered a substantial sum. It was paid. (The amount was Five thousand pounds.) The obscure friend testified to his gratitude in no uncertain fashion, and the transaction was at an end.
-
-The incident may seem a slight one, but it is characteristic of the man, and caused one of the Directors, himself well acquainted with the great business world, to remark that Henry Bensington would probably end in the House of Lords. A striking prophecy! For I understand, even as I read the proofs of this book, that he has been recommended for a peerage.
-
-Such was the man to whose powerful mind that early Bourrot, the “A me Bourgeoise,” was to owe its perils, its high fame, its incredible career, its final refuge in the noblest of London’s private collections.
-
-
-
-
-<span class="atom-split" data-atom="chapter_06" data-title="The Missing Masterpiece — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
-
-
-CHAPTER VI
-
-VERECUNDIA, FIFTEENTH MARCHIONESS, etc., κ.τ.λ, derived, as her name implies, from the exotic regions. She was mainly of the Blood indeed; she was of the Nordic breed and of the island race, for all she knew or I know or anyone else knows. For her late father’s name — or that by which he had been last known in life — was Wugg. Her mother’s origin is forgotten, but from the daughter’s appearance some maintain that the forgotten lady must have had in her some rich southern strain. Yet was Verecundia not of British training. This father of hers had acquired his colossal fortune through the exploitation, rather than the discovery, of the Manium deposits in the Paramooka Islands of the Pacific, at a moment when he was passing under the name of Wonks, though there were earlier friends who gave him another name sounding more like. Malchedo. But the world in which he continued to move is not in the way of asking questions.
-
-It is enough for you to know that after he had died worth twenty millions, and after his energetic sole daughter and heiress had burst upon London, [[Paris]], the Riviera, and Deauville, no questions were asked either. She had the only two things needful, the second of which is a masterful mind, though perhaps I ought to add a third — for a woman of her age — which is good health. She was as strong as a horse.
-
-As to the Marquis, we need not trouble about him. He went off the mortal stage ten years ago, and his son and heir was still at Eton. Managing though she was, and energetic though she was, and even over-bearing, the great strapping woman was not unkind, and she deserved her friends quite as much as she purchased them.
-
-Her two constant friends, the Supporters (as it were) of her Coat of Arms, had reason to know that kindness. It only took the form of capricious gifts; there were no settlements and no capital sums; but they were very well paid for what they did, and she had the sense to choose them from her late husband’s immediate world.
-
-The youngest, a child of thirty-three at the most, and girlish at that, was known among her equals — that is, among the rich — though she hadn’t a bob — as Ardee. She had derived that loving pet name from a simple jest — she had given a cheque at a bridge party once, just before Lady Norbolt had appeared on the scene, or indeed had come to England at all, and when she had only just come out: and the cheque had been returned—” Refer to Drawer.” However, it was all right. She became attached to the great fortune within a year, and was able to pay the money back. It must be admitted that Verecundia was glad of Ardee’s support, for Ardee’s grandfather, the Bishop, had been the younger brother of Lord Norbolt’s father, and Ardee was allowed to call the Dowager, the Dead Peer’s surviving mother, Grannie, which was a great privilege, for really she was only grand-aunt. She was, however, of the authentic Norbolt, or rather Walburton, blood (for I need not inform a lady with your knowledge of the world, dear reader, that the family name of the Norbolts is Walburton).
-
-The elder companion had been known as Elless for many years by the same said equals, the One of Us, or whatever you like to call the rich world. She also had not a bob, and that was where the simple jest in her case came in. An elderly, angular woman, she had spent the better part of a bitter youth talking so much of L.S.D. that they nicknamed her after that fashion, but called her L.S., or Elless, because she hadn’t a penny. It was a shame, for she was a genuine Bailey, being the niece of that same old and still vital dowager Lady Norbolt who had survived her elderly son these ten years, and bade fair to survive him for fifteen more. The Baileys, excellent in blood, had never been rich, and poor Elless had started with nothing but a lump sum of £10,000, which she had promptly lost in Rotheim Deeps, on Billy Dagg’s advice during the South African rush, in the days before the flood.
-
-So there she was supporting Verecundia, Fifteenth Marchioness, etcetera, and being supported in turn; and so was little Ardee, and between them they were called the Two Dees; and they followed Verecundia about whithersoever she went, and did all the donkey work, each in her own way.
-
-The life of Verecundia, Fifteenth Thingumbob, should have been perfect. At least twenty millions of money (some people called it twelve, but they were wrong), health, as I have said, plenty of guts (if you will excuse the expression), not a bad heart, and full of a zest in living which made her run after things like a hound. But there was a fly in her ointment. The fly was a bitter one; and yet to hear his name you would never have guessed that there was anything troublesome about him. He was (stand by for it) Hardham, Duque de Emonsillado y Palomar y Manuada y Bo. He lived disgracefully in the worst world of Under-[[Paris]], Under-Monte Carlo, Under-Biarritz — drenched in the air of Whisky, Fizz, New Packs of Cards every night, touts, horses and the Very Bad.
-
-And how did he come to have anything to do with Verecundia, or Verecundia with him?
-
-Alas! it is but too simple! His father, of whom so little is known that I cannot even tell you his name (but at any rate he was of the English-speaking world, and presumably an emigrant from somewhere in it to the Pacific) had been the partner of Verecundia’s father, the deceased Wugg (alias, etc., etc.) in their bold adventures, first in the South Seas, later in share shuffling, later still in the grave, and now for all I know in whatever place receives financiers so great and above all so sudden.
-
-And why, you ask, did the son of this other half of the millions bear that high-sounding name?
-
-I will introduce you to something which perhaps you do not know, but which is perfectly true. If you are a man, and you marry a woman with a Spanish title, you become of the rank and of the privileges of the same. If you marry a Spanish Duchess, you become a Spanish Duke. And that was exactly what Hardham had done. Hardham what? Well, as I’ve told you, no one ever knew: but Hardham son of the Partner of Wugg and playmate as a boy of Verecundia as a girl, in the Coral Islands of the western seas.
-
-When the old lady met him (it was in a gambling hell rather than a casino) she had seen fit to make the match. In England we should have called it a Romance of the Peerage. For Hardham, then not thirty and throwing his millions away, still had the furtive look acquired during his dead father’s earlier, less luxurious days, while the Duquessa was seventy-two. She died and left him in lonely state, Grandee of Spain and hereditary Introducer of Ambassadors to the Presence.
-
-With us, I say, that marriage would have been a Romance of the Peerage, but in Spain, where they are more old-fashioned, it had the singular effect of preventing her going back home. They made it too hot for her — and for him. So there he was, twenty years before this admirable story opens, and already Duque de Emonsillado etcetera, with the right to wear his hat before the King of the Two Worlds in the Palace or even in the Escorial; but under this unfortunate drawback, that there were orders to arrest him should he pass the frontier — for the Court would stand no nonsense, and they had a record against the poor fellow.
-
-However, they could not touch his money, and that was the principal thing. Thus he had all that he wanted, by way of a splendid Hotel in [[Paris]], and by way of a little marble palace on the right side of Nice, and away from the noise; and a huge big house in Belgrave Square. But to this last he hardly ever went, for when he came to London he preferred to take a whole great string of rooms in whatever was the noisiest and most expensive hotel of the moment.
-
-And the reason that he growled about coming to London, and that when he went there he stayed defiantly in hotels, was this:
-
-Verecundia, or Vurry, as he obstinately called her, had given him away. It was abominable of her, and it rankled to the depths of his heart.
-
-Hadn’t they known each other since they were kids? Weren’t it his own poor old dad had helped Vurry’s old bonehead of a father over the stile when he had come out of jail, and saved him from being put away again? Even if she didn’t want to meet him, she might let him alone. But she had been pitiless, and, as human beings will, she excused herself to herself until she almost made her heartlessness a virtue. The man was impossible. If she once recognized him simply because they had been together in their teens, he would make her life intolerable He might have come straight out of a low dive. He had a crust on him that thick — and Verecundia, in her intimacy, would express the thickness of the crust by a gesture of an indignant finger and thumb.
-
-He ought to have climbed into the London rich through Vurry; instead of that, Vurry had thrust him off the ladder, and he was justly embittered. The reader will perhaps hardly believe me unless she has as much acquaintance with the corrupt heart of man as I have, but it is heaven’s own truth that there are some men who, however rich, cannot get through the gates in London. They are just too much for the stomach. I am afraid the Duque de Emonsillado was one. I assure you there really are such men. I could name you a living one now whom you have all heard of, only I daren’t do it for fear of going to prison. Yet I am not sure that in the sight of his Maker poor Hardham’s soul was not a notch or two above Vurry’s — though of course, being a man, he had not trained his accent as well as she had (somewhat imperfectly) done. He did not pretend to refinement. He did not pretend to anything, expect anything, but to look after his money — and also to knowing when he had been ill-treated. And if ever one fortune could be used against another, his should be used against the adamantine Vurry.
-
-There was one phrase of hers which had been repeated to him when first he had tried to mix with London, and which he had never forgotten. It was that in which she had warned the world of him by the title of Rastaquouère. Oh! It had hurt! It was one of the few dago words he knew — and there was dreadful truth in it. He had retorted (to his intimates) by applying the title Canaille to the lady, but it had cut no ice. The only way he knew the word was that his defunct wife had applied it to him once a little before her death when she threw a plate at him — and so he thought it must mean something unpleasant.
-
-At any rate, there things stood; and Verecundia queened it over London, while poor Hardham roamed in the outer darkness, trailing his millions among jockeys and croupiers, and card experts, and the exiles of this world. But still, all the time, with a dull revenge in his heart.
-
-
-
-
-<span class="atom-split" data-atom="chapter_09" data-title="The Missing Masterpiece — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
-
-
-CHAPTER IX
-
-YOU WILL REMEMBER, reader, if that charming shingled head of yours is not a Tête Linotte, how, on that evening when Verecundia was consulting with her Two devoted Dees, Chas. Goatcher had gone out into the evening under the threatening orders to look cheerful, to whistle, and even to hum.
-
-Whether or no he looked cheerful his master would never know. But he did whistle a mournful note or two, and he hummed, till he was round the corner. Once he was round the corner, and free, one single thought possessed him, to get back to his miserable garret; deposit the sealed thing that he had under his arm, and then, for the love of God, a drink! He remembered (for his brain was clear) that by five o’clock of the next day he was to telephone and reassure his master that all was safely under lock and key.
-
-It was a great shame of Bensington to have kept him so late! It was a breach of an implied contract between them — a contract not openly made but taken for granted — that he should always be released before the pubs opened. Yet here he was, with the pubs open this half hour and more, and he still waiting in anguish. He hurried on.
-
-The parcel under his arm was not much, but it seemed heavier with every step — and by this time he had got east of St. Martin’s Lane. His control lasted for a little way up Long Acre — then it broke down. It was Bensington’s fault, anyhow... he would have just One, One wouldn’t hurt him! Then he would faithfully go and lock the beastly thing up, and then go out again and get his regular whack....
-
-But why should he wait for that Just One?... He was fainting... besides, he absolutely must have it. He turned into the first common bar he came to, and took it — with a splash.... There, that was better! He must have another. No, he must not linger. It was all right, one made no difference. He looked at the parcel under his arm, and then felt it, foolishly, to make certain that it was there, and he hurried on....
-
-But the trouble was that that first one had been quite insufficient; indeed he would have done better, he thought, not to have had it at all, than to compromise like that.... He must have a proper drink — and then he would go on with his orders, and lock the abomination up (his arm was beginning to ache, and his shoulder had always hurt him since that rheumatic fever of years ago....). Yes, he would have one more, a good one.... And then he would not feel the need of one for some time.... In that way he could be certain of locking it up safe, and having the evening free, and that was what he wanted.
-
-He went to the next one that appeared, and he had two quite satisfactory doubles, and then two more. He sat down to it. It made him feel more respectable and solid. And then again, it hadn’t done him any harm.... The truth was (said Chas. Goatcher to himself) this kind of thing didn’t ever do him any harm. He could carry it, he could... and he was feeling altogether more himself... come on.
-
-He stretched, he pulled out his whiskers a little on each side, he pushed his billycock slightly towards one ear... it was grand to feel oneself again! He was a little uncertain as to why he had felt not himself, but he remembered Bensington in the rough, and how he had been bullied.
-
-Then his mind jumped back suddenly to his orders. He clutched nervously at the parcel under his arm and assured himself it was still there.... What had he to do with it? Why, to take it back to his room, of course, and lock it up. He remembered all that. And then there was plenty of time. He had to do something or other the next day.... He couldn’t quite remember what it was — but it would come back to him after he had slept it off. Anyhow, the parcel was safe, but it was damned heavy.... And all he had got to do was to take it to his room... his room, you know... yes, his room. Those were the orders. Lock it up... for fear it should run away. He laughed to himself boisterously at the jocular idea... a parcel running away! Ha! Ha!
-
-He was a devil of a fellow by the time he came out of this second pub, and took the road again.
-
-He thought a little mews down to the right might be a short cut. He found it was a no-thoroughfare. He came back, and took another turning. He got fairly lost. He leaned against some iron railings and stupidly considered his parcel. He had to take it to his room. — . — . the address of his room? He knew that — 5 Munning’s Rents, top floor, under the roof — which leaked. But it wasn’t raining, so that was all right. He must find out how to get to Munning’s Rents. They couldn’t be very far off.
-
-A small but well-appointed public house stood under a brilliant arc lamp opposite the entry of the narrow alley from which he issued out into the main street. On it in fine flaming letters was the title of that hospitable house, The Butcher’s Arms. Surely in so magnificent a place they would know all about their London, and they could direct him easily to Munning’s Rents — or someone inside could.... Anyhow, he would go inside... and inside he went.
-
-There was a pretty thick crowd in the common bar, and it was many years since Chas. Goatcher’s finances had allowed him any other department. He squeezed in by the edges of it, and had the luck to find a bench right at the corner of the bar. They were all standing up, and that bench was neglected. Hence his good fortune.
-
-Down went the burden from under his arm — and how relieved that arm was at the loss of its burden! He rubbed his shoulder. Then a great necessity came upon him. He staggered to his feet, wormed his way through the press of drinking men and a few women talking much too loudly, lurched to the bar, and conveyed the order for a double. He had to say it twice. It disgusted him to observe that the woman appeared to be deaf. He got it at last and began to sip it sombrely. It was the habit of the unfortunate Goatcher, while still he was Maltaine, to pass, in the curve of his inebrieties, from elation to some doubts upon the goodness of the world, and he was now at the doubt stage. He was doubting man’s virtue. He was beginning to dislike his fellow-beings. It was usually the last phase but one with him before sleeping it off. The intermediate phase was either maudlin tears or gentle kindliness. But he was now in the thick of the have-at-you phase, and the “Why is the world my foe?”
-
-His uncertain and watery eyes fixed themselves on a man with a squarish parcel under his arm, done up in newspaper. The man was haranguing. He was a man of words.
-
-Mr. Goatcher watched him with vague distrust. Sometimes he doubled into two men and then came together again. That alone was suspicious!
-
-The man with the parcel under his arm was addressing his own group indeed, but also the universe at large, and fatal words issued from his lips. They were these:
-
-“An’ wot if a man ‘as done time? I don’t say as there ain’t those ‘oo do time as deserve it or those as do time an don’t deserve it. Wot I ask is, wot if a man ‘as done time?”
-
-The question was rhetorical and emphasized by a wave of the unoccupied hand in the air. A deeper suspicion arose fuming in the muddled brain of Sir Henry’s Personal Agent. He glanced darkly at the orator, and sidled up towards him.
-
-Fate, ever on the alert, added another little element to her drama. She caused the rhetorician to glance vaguely at Mr. Goatcher, and as he did so, he asked once more of universal justice and the Gods below: “Wot if a man ‘as done time?”
-
-Mr. Goatcher was on the tremble; He had enough sense left to remember that this was his third public-house. He also remembered, enormously, a charge, a commission, a parcel, done up in newspaper. It ought to be under his own arm, a square parcel. It was not under his arm.... And somebody was insulting him. He pressed his elbow against his ribs and made certain that there was nothing under his arm. He tapped his arm on the outer side, and made doubly certain. He lurched forward and noticed the parcel under the arm of the abomination who had talked about doing time: and he said, suddenly and surprisingly loudly: “You’ve got my Thing.”
-
-“Your wot?” cried the startled orator.
-
-“Mine. Don’ know name of it. That thing under your arm. It’sh mine.” And Mr. Goatcher made a grab at it.
-
-“’Ere! You leave that alone!”
-
-“Yus, you leave it alone! D’y’ear?” said a third party, who had nothing to do with the trouble.
-
-“Don’t yer stand it, Bill,” said a fourth, who wanted to see sport.
-
-Chas. Goatcher tipped his hat a little more to one side and was swollen with the love of justice.
-
-“All ask ish... is... my own back,” he shouted. “’Tishn’t your callor my call. It’sh my own. I want m’own back. I have have it. Under ordersh. Hand bloody over!”
-
-A great fear occupied his opponent’s spirit. For to tell you the pure truth (and there is no reason why I should not) that parcel which he carried under his arm done up in newspaper was a silver tray, neatly conveyed from a shelf near an open window which he had had the good fortune to pass earlier in the evening. Bill, the orator, a man who in a higher station of life would have adorned the first ranks of finance, on seeing that tray had acted at once and with decision. He had copped it before you could say Knife! He had wrapped round it a random piece of newspaper which was lying in the street. He had walked off, not too rapidly, yet at pressure. He had bought another newspaper and made the whole thing secure. Now you must know that Bill was in a favourable situation for dealing with silver trays. He was privileged. His brother-in-law, to whom he was greatly attached (and the esteem was mutual) was a Smasher, and had a private crucible. That tray would fetch Bill five florins, and five florins was a fine day out.
-
-But he had no desire to have that tray examined just now. He gave Chas. Goatcher a push.
-
-“Don’t you push me,” said Chas. Goatcher fiercely. “Give me back parcel!”
-
-By way of answer Bill suddenly dived through the crowd, shot through the swing doors with his paper parcel under his arm and fled down the street.
-
-Chas. Goatcher (so strange are the effects of the Lenean God) would have had difficulty in following him before that last drink, but now he had none. He pounded along heartily. An eager man went first, but a still more eager man came after. In vain did the quarry double and turn, the hunt followed every move; when, just as the burdened man felt the weight beginning to tell, and the pursuer’s outstretched hand almost grasped the collar of the fugitive, Chas. Goatcher tripped and fell smack down upon the unfeeling stones of London.
-
-He staggered to his feet, noticed blood coming from his nose, much on his clothes, and some drops of it on the pavement, He leaned against the wall and began to cry softly; for the maudlin stage had come. He blubbered to himself inaudibly. “Murder this time! Murder! There’s no end to it!”
-
-He glared with glassy eyes for a full minute as he leant thus, propped up against the wall, at a large advertisement under an electric arc, which implored him to subscribe to the Duchess’s fund for the unemployed. That advertisement was vaguely familiar. Hooray! He was at the corner of Munning’s Rents.
-
-Bruised, weeping, in the last stages, he staggered up those dirty stone stairs, gripping the iron rail and remembering dully that it was his bounden duty to lock his door. He snapped the key, fell upon his dishevelled bed, and fell into oblivion. In that best of states I leave him, to return to a wealthier and therefore a better world.
-
-
-
-
-<span class="atom-split" data-atom="chapter_10" data-title="The Missing Masterpiece — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
-
-
-CHAPTER X
-
-THE DAY AFTER his orders to Mr. Goatcher and his sad disappointment of Lady Norbolt Sir Henry Bensington came in to his office very late, after lunching too long with Lord Birmingham at the Ritz. Already had Lord Birmingham heard the news, for little Ardee had told Elless, who had told the Dowager, who had told Smithson, who had told the chauffeur, who had told Lord Birmingham’s chauffeur, who had told Lord Birmingham, because Lord Birmingham always liked to hear these amusing little things. Indeed he had begun:
-
-“Strange thing that, m’lord, about Sir Henry’s picture!” And Lord Birmingham had been heartily tickled, and had muttered:— “Clever devil!” He wondered as he drove back from his lunch whether he might not have to try the case, and he was more amused than ever.
-
-But with Sir Henry Bensington he was sympathetic and charming. He went off to an afternoon appointment, and Bensington went back to his business, buying on the way Holloway’s evening paper.
-
-Holloway had been very good. He had done as they had arranged. It was all right. There was the warning (as had also been arranged) the big type about there being unfortunately no photograph of the picture, which made it doubly difficult to trace it. He stopped his car a moment to buy Borstal’s evening paper. Borstal had been even kinder. He had made it look like a European war or a murder case. And since there could be no photograph of the picture, there was a photograph of Sir Henry Bensington instead, taken thirty years ago, and doing him proud.
-
-He waited at his office until five o’clock. Everything was going well, and everything would continue to go well. With a punctuality which only well-trained unfortunates are capable of, Chas. Goatcher would come up to the mark. He had never failed him yet. It was five past... ten past... no telephone. Henry Bensington began to turn over possibilities. Suppose Goatcher had been attacked? Kidnapped? Suppose he had madly gone off with the treasure? No he couldn’t be so silly! They’d have him at once!
-
-* * * * *
-
-Half-past five and no message. This was serious. In all these years Chas. Goatcher had never missed. He was always absolutely certain in his hours, before his licensed moment of debauch. Still, one never knew.
-
-Henry Bensington waited till six o’clock struck, and half-past. Then his mind was made up. There was no question of the motor this time. He put on a soft hat, well pulled over his eyes, turned up his coat collar, walked to the Dover Street tube station, walked again form the Holborn station at the other end, and so came to Munning’s Rents. He went up those filthy stone stairs — he knew the way; he had done this once or twice before. On the sixth, top, landing, outside Goatcher’s open door, through which the miserable bed could be seen, unmade, stood that angry woman the caretaker.
-
-“If you’re looking for that man Goatcher, ‘e’s gawne,” was all she said.
-
-“How do you mean — gone?”
-
-“What I say — gawne. I don’t know oo you may be — I aven’t seen you round ’ere afore.”
-
-“I’m the man who sends you the rent,” said Henry Bensington quietly. “Poor Mr. Goatcher is a dependant of mine.”
-
-It did not mollify her much.
-
-“Well, you can give me the rent now,” she said defiantly. “For ‘e’s taken everything he had — not as that were much! E’ musta made a bundle of it. There was a shirt, and two pair of socks, to my knowledge, and one pair o’ shoes. Ow e’s gawn right enough! But e’s not taken nothing as wasn’t ’is own.”
-
-Henry Bensington produced the rent money without a word.
-
-“You can give me no idea at all?” he said, fixing her with his strong eyes. “Don’t you know his habits? Don’t you know where one might look for him?”
-
-She shook her head as she wrapped the few shillings carefully in a horrid handkerchief, and thrust the packet into the pocket of her apron.
-
-Henry Bensington instinctively took out his pocketbook — and then with quick thought put it back. It would never do!
-
-“Well,” he said, “I don’t ask you to tell the police or anything.”
-
-“I don’t want to ‘ave nothing to do with the perlice!” said the woman sullenly.
-
-Henry Bensington turned without a further word, and went down those stone stairs in silence, she watching him and divided between the danger of crossing a man who seemed so well-to-do, and the danger of finding herself subject to police inquiries. She decided to do nothing. She waited till she heard his steps go out through the archway of the dingy court and then went back to her own den.
-
-* * * *
-
-It was about a hundred and fifty yards from Munning’s Rents, and perhaps two hundred from the Tube station, that the working of Sir Henry Bensington’s brain reached its conclusion.
-
-The whole thing was clear to him, now! It was Delgairn!
-
-There was only one human being who hungered and thirsted for the personal picture in itself; not to show it, not to sell it, but to possess it. There was only one person who would want to hold it in secret possession for a while. And Bensington knew enough about the human heart to understand with what violence the grievance rankled.
-
-His opinion of Delgairn went up. He hadn’t thought the young fellow had it in him. By God! He must have had them all watched! In spite of his grievous perturbation the picture dealer actually chuckled. His kind likes an opponent worthy of its steel.
-
-Well, now that he had solved the enigma — and how simple it was — the answer always IS simple when one has found it — he’d always said that — his path was clear. He must not hurry too much. He must think out his approaches. He must plan everything carefully.
-
-Instead of taking the Tube he walked all the way back, slowly, though the evening, thoroughly discussing within himself every detail of the next moves.
-
-He must discover in some way the details of North Merton House, or he must discover in what place there Delgairn was likely to have put it. There might be a choice of hiding-holes — there probably was more than one place. It might even not be in North Merton House at all — it might be with a devoted relative, or friend who was in the plot.
-
-Then another point occurred to Bensington. If the thing was to be done in reasonable time, the more brains at work on it the better, and yet the more brains at work the greater chance of being betrayed.
-
-He had two agents upon whom he could seriously rely for such research; he would put them to work, and they should approach North Merton after a fashion he would lay out for them.
-
-There was Appleton, whom he had got from the Regular Force at a very good salary, and who only six months ago had done that excellent piece of work in the case of the Russian Miniature. He had been well paid then, over and above his regular salary, and he would offer him a good bonus now. It would be his business to deal with the village and find out by that admirable approach what might have been done with the Masterpiece.
-
-Then there was Ranford, not quite so able, but better at dealing with the domestic side of a house. He had taken service twice, and each time successfully. Indeed, he had played the footman so well that Henry Bensington would not have wondered if he had started his career as a footman before rising to the higher professional work in which he was now engaged.
-
-Yes, that was it! Ranford should get into the house, and Appleton should stay at the inn. Appleton should be a painter, putting up at the inn and Ranford somehow or other should take a place under the young Squire’s roof. It could be done. What he would do at once was to get Appleton and Ranford round that very night and put the plan of campaign before them.
-
-And so he did: — Appleton, quiet, gentlemanly, a man with a nice accent and with a refined, reserved manner; Ranford, smart, upright, well groomed — were given their orders and told the whole thing frankly and fully. They were given ample funds, for Henry Bensington knew by long experience how well he could trust them both. When he had dined at North Merton he had marked a handy man whom they sometimes put into livery when there were guests. They called him Joseph — though his real name was Joe. He must be bribed to have a relative fall ill suddenly, and to recommend Ranford for a few days to do the work in his place, Ranford being vouched for by the honest Joseph as a very old and well-known friend.
-
-Appleton would take with him the same painter’s kit as he had taken last time, when he had been working the affair in Huntingdonshire, and he would secure rooms at the Delgairn Arms the moment he heard from Ranford that his arrangements for taking the handy-man’s place were completed. To avoid suspicion he had better get to the Delgairn Arms after Ranford was fairly installed in the big House.
-
-It was a good plan of campaign. I can’t remember whether I have said it before, but if I did I can say it again — it will do no one any harm. There was something Napoleonic about Henry Bensington, and, as you shall hear, he brought it off; but like his great prototype the Corsican, not quite in the fashion he had intended.
-
-
-
-
-<span class="atom-split" data-atom="chapter_16" data-title="The Missing Masterpiece — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
-
-
-CHAPTER XVI
-
-WHEN THE DUQUE de Emonsillado received Sir Henry Bensington’s curt but familiar and sufficient note, even before he had read it, from the moment he cut the envelope and caught sight of the pink of the returned cheque within, his perturbation was extreme. When he had read it his perturbation increased. And he asked himself, as he was entitled to do after his experience of mankind in various climates and different forms of practice, what the great idea might be.
-
-It would be flattery to pretend that the Duke had any knowledge of pictures in any school whatsoever, let alone of modern symbolism. He took out the canvas from its locked security, put it in a strong light before the window, gazed at it intently with his head cocked to one side; and it told him nothing. And curse it all! Even if Bensington did not believe the thing to be genuine, what possible motive could he have for refusing twenty thousand pounds?... Perhaps someone had offered more? If one may throw a sprat to catch a whale, one may throw a whale to catch the great sea serpent.... No, that wouldn’t wash. If someone else was biting, he wouldn’t have repudiated the picture — just the other way....
-
-The Duke frowned a puzzled frown. He could make nothing of it. Anyhow, there was one thing he could do. He could clinch his own position right down good and hard. He spent between half and three quarters of an hour in getting hold of Borstal, whose voice he heard at last on the other end of the wire — in not too good a temper; but Hardy soothed him. For as between millionaires of the same type, Borstal could not but be moved by the familiar “one of us” feeling. Yes, Borstal would see to it. It should go into the social column. The Duke thanked him sincerely, and offered to give a little extra tip to the poor devil who wrote the paragraphs. But Borstal would have none of that. “It spoils them,” he said. And so it does. What on earth would happen to Borstal if the snake Self-respect should raise its poisonous head among his staff?
-
-Therefore it was that on the very next day, the moment the pubs, opened in Fleet Street, the more Bohemian half of Lothario entered The Green Monkey and the saloon bar thereof, quaffed the first honest beer of the day from a huge tankard, and smudged his Par. down on a particularly dirty block.
-
-“I met the Duque de Emonsillado the other day; he told me he had run over to London to see his numerous English friends, and to take advantage of the Season, as he does every year — for he is at heart an Englishman, in spite of his high rank in a friendly foreign country.
-
-“He told me, by the way, that he had just purchased Bourrot’s famous Masterpiece, the ‘A me Bourgeoise’ which we have all been hearing about since its recent loss. How it was recovered he was not free to tell me. But it is good news for every lover of Art. And I think I may respectfully add, for every friend of His Grace — and they are legion.”
-
-He read it over. It read fine. He had another pint on the strength of it. The barmaid asked him with haughty kindness what lie he was telling now, and he answered, “Never you mind, duckie, it’s not about you!” Nor did that goddess resent the address, such a favourite with the ladies was the genial fellow in the world which he adorned.
-
-* * * * * * *
-
-Meanwhile, in far Golders Green, in that very respectable villa, and sipping the first of his third cup of coffee that morning, the other half of Lothario was searching his poor little brain for something to write. A suggestion came (as it often did) with the entry of his formidable spouse.
-
-“Not finished yet?” she snapped, “and I’ve left you half an hour!”
-
-“Oh, my dear — not twenty minutes!” murmured the poor little fellow.
-
-“Well, upon my word! Archibald, it’s a wonder I bear with you! I’m sure if I’ve been away a minute I’ve been away the better part of an hour — doing work you ought to be doing. Trying to get that wretched girl to... I declare, you’ve got not a word down on that paper!”
-
-“Well, my dear, I’ve been thinking....”
-
-“Thinking?” shot out the hard, thin voice with dreadful menace. “Thinking? Really, Archibald, I don’t know how I manage to bear with you at all!...”
-
-“Well, my dear, I can’t think of anything to think of.”
-
-But he was interrupted.
-
-“Well, for one thing, the Marchioness of Norbolt” (the lady pronounced it in a fine rotund fashion, as though she had some property in it) “she’s bought that picture — they’ve found it. She got it yesterday. You knew that, I suppose?”
-
-“Oh, my dear,” answered the unoffending spouse, “we can’t be sure of that, you know. We only heard it from the curate, and he himself said he wasn’t sure, as he had only heard it from Mrs. Gatwick, and he himself said he didn’t know how she got hold of news like that, because... well, you know, it’s not her world.”
-
-“Don’t talk rubbish, Archibald,” snapped his commander-in-chief. “Write that paragraph down at once. It’ll be almost too late as it is — do you know what the time is?”
-
-“Oh, dear, yes,” said poor Archibald. “There! All right — I’ll do it.”
-
-“I’ll be back in ten minutes,” tapped out the inexorable tongue. “And I’ll take it down myself, to make certain that you don’t lose it with some of your drunken companions!”
-
-“Oh, my dear,” said the shocked and maligned master of the house, “my dear!”
-
-“Don’t you ‘my dear’ me!” said the lady. “You get to your work!”
-
-Archibald got to his work. He sighed pitifully — he was a scrupulous little man, besides which, getting wrong things in a Par. was dangerous. However, there was one course much more dangerous, and that was to disobey — so down it went:
-
-“I dined with the Marchioness of Norbolt yesterday (what a hostess she is!), and she told me a bit of news which will bring gladness not only to her innumerable friends, but to every lover of Art at home and abroad. Bourrot’s Masterpiece has been found, and as might have been expected, this greatest of Art judges and Art lovers has become the possessor of it. I am afraid I committed an indiscretion when I asked her the conditions under which she had obtained it, but she, tapped me archly with her lorgnette” (was it Lorgnette or Lorgnon? — he wasted, three minutes in an agony of doubt: looked it up first in the Etiquette Book and then in Boulter’s Dictionary of Universal Information, and couldn’t find it in either. He was still hesitating when a too-well-known step as of marching Fate was heard upon the stair, and he hurriedly concluded:) “She told me I must not ask questions, but I was very proud when she added that I might go and see the Masterpiece at an early date. And I shall certainly avail myself of that invitation. I hope you envy me.”
-
-“Have you finished it, Archibald?” came the Voice from the door.
-
-“Yes, my dear,” his own voice humbly replied.
-
-“Well, give it me. Can’t you see I can’t open the door? I’ve got my hands full.... Thanks to having to do all the housework!”
-
-He dutifully went and deposited the bit of copy in an envelope upon the tray which the lady was holding, filled with crockery for the luncheon-table.
-
-“It’s killing me having to do three women’s work every day,” she said. “If you were a man you wouldn’t stand by and see your wife slave herself to death while you idled away your time with that dirty Fleet Street crowd!”
-
-“Oh, my dear!” he protested again. But she could bear no more of it. Her cup was full — which was also true of his, by the way, for he had had no time to finish his coffee. He allowed time for the apparelling of that majestic though somewhat angular form, heard the door slam with a profound sensation of relief, and was confident of this at least in a difficult and perilous world, that Olivia (for such was the name of his life’s companion and stay) would not be the woman to lose a thing or to fail to deliver it. He only hoped the news in it was all right!
-
-All these paragraphs went in! Golders Green and Bohemia, both halves of “Lothario” hobnobbing with the great. They contradicted themselves and didn’t make sense. They gave the same picture to two separate people. But the sub-editor, who was sleepy drunk and short of copy, passed them. He got the sack; and the 2 and a half million readers of The Howl learnt that not’ only had the Duke of Emonsillado bought the Masterpiece, but Lady Norbolt as well!
-
-* * * * * * *
-
-The next morning the Duke’s friend Mr. Capstan, that well-known figure at Tattersall’s, was sitting at the Duke’s breakfast-table in the Plantagenet prior to a walk around among the gee-gees. His host was reading with à smile the first two Paragraphs about himself and the Bourrot, when Capstan looked up, startled by a sudden exclamation. Hardham, Duque de Emonsillado in the Barony of Castile, and of Manuada and be in that of Aragon, had The Howl clenched in his left hand and was viciously slapping it down before him. His right fist menaced the air, his face was working with passion, and from a mouth opened very wide indeed were pouring the strangest howls of rage.
-
-“Aw! Ter Hell with her! May she burn! Aw, that’s it, is it? Aw, my Gawd, when Ah get her! Thet man Borstal’s crazy!” And with that the grasping fingers actually tore through the strong fine paper of Lord Borstal’s organ of public opinion. Then, dealing with it as though it were the unfortunate Verecundia, he savagely tore it in two, still roaring his anathemas of rage.
-
-“Ah’ll prorsecoot!” he shouted. “Ah’ll heve her jailed! Ah’ll...” He ground his teeth with savage snarls; and then, at the end of the orgasm, choked.
-
-Capstan deferentially patted him on the back. That only made him worse. He recovered his breath and began a universal commination service, extending to Capstan himself, and all the peoples of these islands, to goddurned French painting fools and bloody Mayfair robbers, and all those gutterhags who thought themselves so grand; he raved on in reminiscences of various indignities connected with their common youth, his and Vurry’s by the far Pacific Seas, and then took to blaspheming at large till he was quite exhausted.
-
-“Ah’ll prorsecoot!” he repeated. “Ah’ll prorsecoot! The word seemed to relieve him somewhat, as though he was actively engaged in the squeezing to destruction the abominated Vurry. “Ah’ll teach her! Ah’ll larn her!” And then, by way of finale, he stamped his foot on that mighty voice of England for which Lord Borstal was responsible, stopped, snatched it up, crumpled it with his strong hands into a ball as hard as wood, and hurled it through the open window: whence it fell too violently upon the astounded head of a godly Lady Missionary who was descending the narrow side street upon an errand of mercy, to nobble a poor and wicked man of whom the police had need.
-
-* * * *
-
-At last, but not till fully twenty minutes had passed, the great amateur of modern art, had so far recovered himself (and exhaustion took no small part in that recovery) that he was able to answer consecutively the questions Mr. Capstan thought it only decent to put, in a voice full of sympathy and old friendship.
-
-Yes, Capstan had guessed right. It was the picture. It was thet bitch, thet... but I will not sully your ears, radiant reader, with the further epithet he applied to so distinguished a member of your sex. She had had the gall to get in front, had she? Wall, she’d soon find she wouldn’t stay there! She’d gotten the Bourrot? — Naw! He’d gotten it! All she’d gotten was a bloody fake! He’d show her up, he would! Naw, he was in no mood for durned horses, blast ’em! He was going to his lawyer, he was. Pretty darn quick, too. And Capstan might come with him.
-
-Very pleased was Capstan to note that this essential friend was so far mollified. Eagerly did he accept. Clapping on their hats, and seizing their walking-sticks, the one with a deferential gesture, the other with a military grasp, as though to slay with it the arch-villainess of the Peerage, they strode forth on their way to Lincoln’s Inn.
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Missing Masterpiece — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -3215,6 +2815,102 @@ She answered: “We shall never forget his name!” And then added, pensively, �
 * * * * *
 
 Thus was it that Mr. Delgairn found himself saddled with something which seemed to him very astonishing, but which he did not like to leave behind — it would have been a caddish thing to do. Besides which, it reminded him of a happy and amusing hour. Therefore it was that, a few days later, the Masterpiece, the Bourgeois Soul, was in North Merton House, trying to get hung; but in his heart Mr. Delgairn did not know what to do with it. He did not even know which way up to put it — it was in a plain white frame, with nothing on earth to show whether it ought to hang sideways or lengthways nor whether the famous Eye (which might be that of God’s Justice or of Bourgeois Avarice, or a mere Eye, pur et simple) should menace from the top left-hand corner (if the picture were hung up lengthwise) or shoot glances upwards from the bottom left-hand corner (if the picture were hung sideways). He could not decide. He hung it lengthwise, and then for very shame slung it from a nail of a dark corner of the billiard-room, where a screen near the door cast a shadow over it and where it could disturb no one. There it awaited its day of glory.
+
+
+
+
+<span class="atom-split" data-atom="chapter_02" data-title="The Missing Masterpiece — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+
+
+CHAPTER II
+
+OVER NORTH MERTON a year passed, as over the rest of the world. The unfortunate, crippled heir had had his coming of age, which had seemed to his father so hollow a festivity. The younger son was leaving school. John Delgairn kept more and more to himself and fell more and more as invalids and isolated souls will do, into the companionship of his hobby. He developed his amazing secret talent for reproduction.
+
+That talent had been revealed to him by an accident. One day, when he had been making a sketch of the distant elm trees which he could see from his window on the edge of the park, he remembered Harding’s pencilled studies of trees, and what a lot one could learn from them. Harding had taught his Father’s Grandmother drawing in that very house a century ago, and if he looked through the portfolio he could doubtless find something to help him. He was not long in finding it, and with a close exactitude he faithfully reproduced the very touch of the Master, and there was the very mirror of it before him. He was astonished himself at the uncanny exactitude of the replica.
+
+He thought it so exceptional that he got up to fetch an empty frame with which to try the experiment, whether each framed would give the same effect. Meanwhile he propped up Harding’s original drawing against a pile of books, and his own side by side with it, like a pair of twins. He poked about among the frames in his cupboard in the next room. It took him some little time to find one that would fit. When he did, and as he came back to where he had been drawing and caught sight of the pencilled pieces of paper those few yards off awaiting him, it gave him a curious little shock to notice that, at such a distance, he was not sure which was Harding’s and which was his own. It is true he was rather short-sighted, as are most very exact copyists. Still, it was startling. Of course, when he got closer he recognized at once which was which by the age of the paper; but the incident impressed him profoundly. He had found a congenial occupation for his lonely life. He would make replicas of this and of that, with the sole aim of exact reproduction. It was of no practical use in these days of photography and mechanism; it would lead to no reputation — but then, he desired none. All that he desired was something that would take him away from himself and fill his mind.
+
+He deliberately chose the most diverse models, and as deliberately chose them without regard for beauty, or any other quality, save difficulty in creating an illusion of the original.
+
+He began with an old faded water-colour of North Merton House as it had been two generations before; a small picture of no value except for its interest to the family. He took it from the wall of the schoolroom where it hung, propped it up, and studied his work. It was a full week’s business, and it came to grip him so — he found his success so remarkable — that he could not leave it, but all day long, hour after hour, worked on at the strange task, interrupted only by two visits to London to get certain materials for the full result. The old water-colour was fox-marked; the plain gilt composition frame faded and slightly chipped, showing patches of dirty white. All that had to be identically reproduced; nothing else would serve him. And when he had made the last touch, he felt a kind of triumph. He had discovered an odd talent which he seemed to possess to the degree of genius. He remembered how Piazza years and years before, when he was a child, had come to reproduce certain MSS. for his father, and how, to show his skill, the famous engraver had taken two large cushions up from the sofa, hidden the original behind one and the copy behind the other, and then asked Mr. Delgairn to take them up and to tell him which was the original and which was the copy. It was like a conjuring trick, and he remembered how he had looked wide eyed on its success. Perhaps that was because he was only a child at the time, and now the test would fail.
+
+It did not fail. No mortal could have told which was the original little picture that had hung on the schoolroom wall and which was the one proceeding from his own hand. He was so pleased that he thought he might for once attract his father’s attention and interest to his work; but when he showed it him, he got no more sympathy than a conventional kindness. It was clear that he must keep his hobby to himself. It made him somewhat more remote than ever, in his father’s eyes, from the part he would have to play when he came into the property.
+
+When Harry came home for the holidays, his older brother told him nothing of the new interest he had. He was afraid of being laughed at, and, gentle as he was, he felt a little bitter envy of the gladness his father showed at the strong athletic young fellow who surely ought by rights to have had the inheritance of all that good land.
+
+So young John Delgairn, with health continually failing, passed his time attempting all manner of reproduction, each specially chosen for the difficulty of the theme, until he recalled the Bourrot hanging in its dark corner of the billiard-room.
+
+John knew nothing about the picture (for he troubled his father as little as possible in these last days). Even the name of the man who had painted it was only known to him by that one signature. But it was odd and absurd, and meant nothing, and would be therefore a greater test of skill. And after a very laborious effort he produced a result so perfect that it excelled anything he had previously attempted.
+
+It occurred to him to force himself to a further test. He felt more ill than ever before. The more determined was he to prove to himself what he could do. The test he had proposed for his own satisfaction was this: he would make yet another exact replica of this monstrous absurdity. To add to the test he would make the second replica not from the first, but from the original. Then he would compare that second replica with the original, and see whether in the double process he had not lost some detail.
+
+But no! In that very drastic test he succeeded as thoroughly as ever. He took the original Bourrot down again from its wall; propped it up in the full light by his window, with the two replicas on either side; and peering at them closely, and scanning every mark, smudge, and touch, not only on the painted surface, but on the back of the canvas, even down to the name of the man who had supplied that canvas, and even down to the used colour of the frame-wedges, even down to a tiny chip of wood missing from the back of the top of the frame — there was nothing whatever, to indicate which had come from the foreigner and which from his own hand: only the central position of the original, as he had arranged it. He took it up, went back, and hung it again on its place in the dark corner of the billiard-room where no one ever went; the two replicas he lovingly folded in thick wads of paper and put away.
+
+His success had given him an odd feeling of completion, as of a whole life-task accomplished. And so it was; for he never drew again. The rest which he had postponed too long could not set him right; and at the end of the summer, before the opening of the University term and Harry’s going up to Magdalen, the sickly heir of North Merton was dead.
+
+It is a cruel thing to say, but it is true, that Delgairn felt a half - conscious relief. When he looked at his remaining son, and thought how admirably he would fill the place which was now his by right, his whole mind was changed, and for the first time in twenty years the old squire felt content. In that content, four years later, when Harry was twenty-two, had taken his Schools, and was going down for the last time, Mr. Delgairn died.
+
+As for the elder brother’s poor toys and instruments, no one remembered them or cared for them, except one pensioned old lady who had been nurse to both the children and who alone mourned him at all. She had taken care to put the poor lad’s things, his brushes and pencils, and his colours, and his two or three dozen sketches and parcels into an old oak chest, unlocked, which stood with sundry other derelict furniture and certain dusty and forgotten bundles of old papers, in the small lumber room under the roof which no one ever visited from one year’s end to another. Then she in her turn died, when young Delgairn, for six years master of the place, was nearing twenty-eight.
+
+The Masterpiece was ten years old.
+
+
+
+
+<span class="atom-split" data-atom="chapter_03" data-title="The Missing Masterpiece — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+
+
+CHAPTER III
+
+SIR HENRY BENSINGTON was one of those men who make England what they are.
+
+He had just that kind of strength of which we seem to possess the secret, and which is the despair of our jealous rivals. It was a strength which appeared in the rather heavy features, the well-poised head, and steady glance; but which was expressed much more thoroughly in the unfailing judgment. It was characteristic of such a man that, having undertaken one kind of business, he did not dissipate his energy by attempting anything outside that business. At the age of twenty-three — and he was now just over fifty — he had begun to deal in pictures. Nothing about him would have made you suspect the critic, still less the expert. Perhaps it was rather his strong will, determined energy, continuity of action, which had gradually taught him his own trade. But he had come in less than thirty years of labour to the very top of it, and was the chief man in England, and perhaps in the world, in his own department.
+
+In discovery, in purchase, and in sale, even in manipulation, he was admittedly the master; and he had admittedly deserved and earned that very great fortune which none dared to estimate, but which ran into a larger seven figures than his greatest admirers would have guessed.
+
+He had not risen from nothing. He had had the advantage of a certain capital to begin with, provided by his parents in Germany, and by an aged aunt in Milan; and, what is invaluable to activities of his kind, a considerable experience of the continent of Europe. He had been born at Cologne, where his parents happened to be resident, and had received his early education in that town, which gave him from early youth the inestimable advantage of acquaintance with the German tongue. But he came over to London at the early age I have mentioned, and started the famous little shop which was the nucleus of the business in King Street. It was characteristic of the man that he should thus face the world single-handed and unsupported at a time of life when most of those who were to be his competitors were still wasting their opportunities in amusement.
+
+From the first moment of his taking to the trade he showed, over and above exceptional powers of working and exceptional lucidity in the estimation of values, that he had one much rarer gift, a gift almost unique. This was a miraculous power of varying — quite suddenly — his aesthetic mood and appreciations. Nothing marks off the born dealer more sharply from the dull herd than this faculty. The many sink into a rut of affection and habit for such painters as they first knew. The exceptional brain which furnishes such purchasers with their needs can despise at a moment’s notice what it formerly admired, admire what it despised, according as fashion changes or the making of a new market demands.
+
+During the Fragonard boom, at the very beginning of his career, he felt Fragonard deeply. When Fragonard slumped, Henry Bensington felt, by a strange sympathy with the unseen forces about him, a lessening interest in Fragonard. During the much later Romney boom it was the same. But perhaps the most astonishing detail in this unique gift was his sudden wave of admiration for any great modern [[Artist|artist]] immediately upon death of same.
+
+It was just when the public and the Press were fullest of the name that Henry Bensington was most inspired by it.
+
+And all this was not owing to the effect of other men’s minds upon his own: it was rather the other way. He had the mysterious powers of a forerunner. He would be found buying the work of half-forgotten dead masters, only singing their praises when he had acquired a considerable body of their work; but then filling the papers and therefore the minds of the Elite with their glory. He was the better able to do this from a longstanding friendship with two of the few men who control our organs of opinion, Lord Borstal and Sir Charles Holloway. It would be difficult to say with which of the two he was the more intimate. And though they followed the high tradition of our national leaders in not allowing public rivalry to interfere with private friendship, their common affection for Henry Bensington certainly formed a bond between them, which was further strengthened by the fact that the more acute of the two splendid intellects (that of Sir Charles) had managed to acquire, under various names, fifty-one per cent, of the shares in Lord Borstal’s principal journal.
+
+For the first ten years of his business career Henry Bensington, though steadily accumulating, did not approach the very high position which he now occupies. There came to him a turning-point, as there does in the life of every genius.
+
+Until that turning-point his reputation, though high, depended upon little more than the common talents for finding good work in unworthy hands, purchasing it with skill from those who could not estimate its value, and discovering the right purchaser among those who, whether on his recommendation or (more rarely) on their own choice, desired to buy.
+
+He had also a growing reputation for his skill in procuring the exportation of Italian XVth Century and early XVIth century work, in spite of the law forbidding such export. But what made the great change in his fortunes, and put him on the summit where he has since stood, was the famous incident of the New York Customs, which stamped him at once for a man quite different from his kind.
+
+It was a ruse worthy of a Napoleon or a Washington.
+
+The Rembrandt which Meyer had discovered in Budapest passed through his hands (only as agent — he had not then sufficient capital to advance for the purchase of it), on its way to cross the Atlantic to the collection of Mr. Fagdon, the President of the Mannawatta Corporation. While it was still in Henry Bensington’s hands he caused the original signature to be painted over, and the name “Chas. Biggs” to be superimposed in clear and striking letters of a fresh vermilion. When this incongruous signature had thoroughly dried, he had it painted over again with the utmost skill (and behind locked doors) and from his photograph of the original signature had the famous “R” painted on again — and all this for reasons that will appear.
+
+His next act was to advise in private fashion Mr. Carlos G. Pucker, the Hot-Dog King, what he had done, and to add to his letter certain recommendations, the reasons for which will also be apparent.
+
+When the picture reached New York, and was in the hands of the Customs Authorities, they received an anonymous letter arriving by the same packet — and Bensington was its author. It warned them that the supposed Rembrandt was no Rembrandt at all. If they would assure themselves, let them not hesitate to scrape the signature, and they would find that it was a fraud, due to a well-known hack on the European side of the water, who turned out such things by the dozen — one Chas. Biggs. Those incorruptible officials took the risk; they scraped off the top signature; they discovered beneath it the fine bold red letters of Chas. Biggs’s name. And all America had a good laugh.
+
+When the picture reached Mr. Fagdon it was already almost worthless, and he sold it at a very heavy sacrifice to Mr. Carlos G. Pucker, the Hot-Dog King. That captain of industry had it scraped for the second time, and behold, on the departure of Chas. Biggs’s name, the original Rembrandt signature appeared! The picture is the gem of Mr. Pucker’s collection to this day. Mr. Fagdon cursed the bad judgment of Bensington as Agent, and Bensington apologised generously; but Mr. Pucker was the better client.
+
+Mr. Pucker was really grateful, for it is rich men who best understand the value of money; he rewarded the European agent with new commissions, and by recommendation throughout all his world. Henry Bensington was made.
+
+From that moment, as the saying goes, he never looked back.
+
+He was knighted at the age of thirty-five — three years later — purchased the Longworth Collection after its owner’s death by suicide. He advised continually for purchase to the National Gallery. In that capacity came a second notable action, far more subtle, which made such an impression upon his contemporaries.
+
+He proved quietly but with insistence that the recently-acquired Gelée (whom our ignorant ancestors knew only as Claude Lorraine) was a fraud. He convinced not only the authorities, but the Press; and I must admit that the Press helped him nobly in his effort. It was unworthy of England that a spurious picture, however beautiful, should hang in the great National collection.
+
+He did more. He approached those authorities, admitted that by his conscientious act he had gravely lowered the value of what had been thought a masterpiece, and himself generously stepped into the breach and paid for it no less than £250, although now that the fraud had been exposed it would not have fetched two hundred and fifty shillings. He went farther still in his almost Quixotic action. He begged that it might remain on the walls for some weeks, so that the public, which had been greatly interested in the controversy, should be able to satisfy their curiosity.
+
+Strangely enough, in the course of these weeks an obscure friend of Sir Henry’s, while protesting that he wished to do nothing disloyal to that great man, brought forward hitherto neglected proofs that the picture was genuine. They were proofs even more conclusive than those which Bensington himself had produced of its being spurious.
+
+Bensington was not the man to stick to a wrong opinion from a false sense of honour. He frankly admitted that he had been wrong. The picture was a Claude after all (I mean, a Gelée), and he advised that it should be bought again for the Nation: a process that was the easier as it had not yet been taken from the walls. He himself, of course, refused to touch anything beyond the reimbursement of his original payment of £250. But he thought it only fair that the man who had triumphantly re-established the value of the picture should be offered a substantial sum. It was paid. (The amount was Five thousand pounds.) The obscure friend testified to his gratitude in no uncertain fashion, and the transaction was at an end.
+
+The incident may seem a slight one, but it is characteristic of the man, and caused one of the Directors, himself well acquainted with the great business world, to remark that Henry Bensington would probably end in the House of Lords. A striking prophecy! For I understand, even as I read the proofs of this book, that he has been recommended for a peerage.
+
+Such was the man to whose powerful mind that early Bourrot, the “A me Bourgeoise,” was to owe its perils, its high fame, its incredible career, its final refuge in the noblest of London’s private collections.
 
 
 
@@ -3527,6 +3223,56 @@ Verecundia, Fifteenth Marchioness of Norbolt, Twenty-first Countess of Pulboroug
 In vain do you tell me that ladies do not announce themselves as the nth Marchioness, umpthy-umpthth Countess, and so on, but that only the male of the species enjoys that privilege of ticking off that series upon his fingers. All I can tell you is, that is the way in which Verecundia described herself. She revelled in it.
 
 But Verecundia merits a full introduction, and I will proceed to give it you.
+
+
+
+
+<span class="atom-split" data-atom="chapter_06" data-title="The Missing Masterpiece — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+
+
+CHAPTER VI
+
+VERECUNDIA, FIFTEENTH MARCHIONESS, etc., κ.τ.λ, derived, as her name implies, from the exotic regions. She was mainly of the Blood indeed; she was of the Nordic breed and of the island race, for all she knew or I know or anyone else knows. For her late father’s name — or that by which he had been last known in life — was Wugg. Her mother’s origin is forgotten, but from the daughter’s appearance some maintain that the forgotten lady must have had in her some rich southern strain. Yet was Verecundia not of British training. This father of hers had acquired his colossal fortune through the exploitation, rather than the discovery, of the Manium deposits in the Paramooka Islands of the Pacific, at a moment when he was passing under the name of Wonks, though there were earlier friends who gave him another name sounding more like. Malchedo. But the world in which he continued to move is not in the way of asking questions.
+
+It is enough for you to know that after he had died worth twenty millions, and after his energetic sole daughter and heiress had burst upon London, [[Paris]], the Riviera, and Deauville, no questions were asked either. She had the only two things needful, the second of which is a masterful mind, though perhaps I ought to add a third — for a woman of her age — which is good health. She was as strong as a horse.
+
+As to the Marquis, we need not trouble about him. He went off the mortal stage ten years ago, and his son and heir was still at Eton. Managing though she was, and energetic though she was, and even over-bearing, the great strapping woman was not unkind, and she deserved her friends quite as much as she purchased them.
+
+Her two constant friends, the Supporters (as it were) of her Coat of Arms, had reason to know that kindness. It only took the form of capricious gifts; there were no settlements and no capital sums; but they were very well paid for what they did, and she had the sense to choose them from her late husband’s immediate world.
+
+The youngest, a child of thirty-three at the most, and girlish at that, was known among her equals — that is, among the rich — though she hadn’t a bob — as Ardee. She had derived that loving pet name from a simple jest — she had given a cheque at a bridge party once, just before Lady Norbolt had appeared on the scene, or indeed had come to England at all, and when she had only just come out: and the cheque had been returned—” Refer to Drawer.” However, it was all right. She became attached to the great fortune within a year, and was able to pay the money back. It must be admitted that Verecundia was glad of Ardee’s support, for Ardee’s grandfather, the Bishop, had been the younger brother of Lord Norbolt’s father, and Ardee was allowed to call the Dowager, the Dead Peer’s surviving mother, Grannie, which was a great privilege, for really she was only grand-aunt. She was, however, of the authentic Norbolt, or rather Walburton, blood (for I need not inform a lady with your knowledge of the world, dear reader, that the family name of the Norbolts is Walburton).
+
+The elder companion had been known as Elless for many years by the same said equals, the One of Us, or whatever you like to call the rich world. She also had not a bob, and that was where the simple jest in her case came in. An elderly, angular woman, she had spent the better part of a bitter youth talking so much of L.S.D. that they nicknamed her after that fashion, but called her L.S., or Elless, because she hadn’t a penny. It was a shame, for she was a genuine Bailey, being the niece of that same old and still vital dowager Lady Norbolt who had survived her elderly son these ten years, and bade fair to survive him for fifteen more. The Baileys, excellent in blood, had never been rich, and poor Elless had started with nothing but a lump sum of £10,000, which she had promptly lost in Rotheim Deeps, on Billy Dagg’s advice during the South African rush, in the days before the flood.
+
+So there she was supporting Verecundia, Fifteenth Marchioness, etcetera, and being supported in turn; and so was little Ardee, and between them they were called the Two Dees; and they followed Verecundia about whithersoever she went, and did all the donkey work, each in her own way.
+
+The life of Verecundia, Fifteenth Thingumbob, should have been perfect. At least twenty millions of money (some people called it twelve, but they were wrong), health, as I have said, plenty of guts (if you will excuse the expression), not a bad heart, and full of a zest in living which made her run after things like a hound. But there was a fly in her ointment. The fly was a bitter one; and yet to hear his name you would never have guessed that there was anything troublesome about him. He was (stand by for it) Hardham, Duque de Emonsillado y Palomar y Manuada y Bo. He lived disgracefully in the worst world of Under-[[Paris]], Under-Monte Carlo, Under-Biarritz — drenched in the air of Whisky, Fizz, New Packs of Cards every night, touts, horses and the Very Bad.
+
+And how did he come to have anything to do with Verecundia, or Verecundia with him?
+
+Alas! it is but too simple! His father, of whom so little is known that I cannot even tell you his name (but at any rate he was of the English-speaking world, and presumably an emigrant from somewhere in it to the Pacific) had been the partner of Verecundia’s father, the deceased Wugg (alias, etc., etc.) in their bold adventures, first in the South Seas, later in share shuffling, later still in the grave, and now for all I know in whatever place receives financiers so great and above all so sudden.
+
+And why, you ask, did the son of this other half of the millions bear that high-sounding name?
+
+I will introduce you to something which perhaps you do not know, but which is perfectly true. If you are a man, and you marry a woman with a Spanish title, you become of the rank and of the privileges of the same. If you marry a Spanish Duchess, you become a Spanish Duke. And that was exactly what Hardham had done. Hardham what? Well, as I’ve told you, no one ever knew: but Hardham son of the Partner of Wugg and playmate as a boy of Verecundia as a girl, in the Coral Islands of the western seas.
+
+When the old lady met him (it was in a gambling hell rather than a casino) she had seen fit to make the match. In England we should have called it a Romance of the Peerage. For Hardham, then not thirty and throwing his millions away, still had the furtive look acquired during his dead father’s earlier, less luxurious days, while the Duquessa was seventy-two. She died and left him in lonely state, Grandee of Spain and hereditary Introducer of Ambassadors to the Presence.
+
+With us, I say, that marriage would have been a Romance of the Peerage, but in Spain, where they are more old-fashioned, it had the singular effect of preventing her going back home. They made it too hot for her — and for him. So there he was, twenty years before this admirable story opens, and already Duque de Emonsillado etcetera, with the right to wear his hat before the King of the Two Worlds in the Palace or even in the Escorial; but under this unfortunate drawback, that there were orders to arrest him should he pass the frontier — for the Court would stand no nonsense, and they had a record against the poor fellow.
+
+However, they could not touch his money, and that was the principal thing. Thus he had all that he wanted, by way of a splendid Hotel in [[Paris]], and by way of a little marble palace on the right side of Nice, and away from the noise; and a huge big house in Belgrave Square. But to this last he hardly ever went, for when he came to London he preferred to take a whole great string of rooms in whatever was the noisiest and most expensive hotel of the moment.
+
+And the reason that he growled about coming to London, and that when he went there he stayed defiantly in hotels, was this:
+
+Verecundia, or Vurry, as he obstinately called her, had given him away. It was abominable of her, and it rankled to the depths of his heart.
+
+Hadn’t they known each other since they were kids? Weren’t it his own poor old dad had helped Vurry’s old bonehead of a father over the stile when he had come out of jail, and saved him from being put away again? Even if she didn’t want to meet him, she might let him alone. But she had been pitiless, and, as human beings will, she excused herself to herself until she almost made her heartlessness a virtue. The man was impossible. If she once recognized him simply because they had been together in their teens, he would make her life intolerable He might have come straight out of a low dive. He had a crust on him that thick — and Verecundia, in her intimacy, would express the thickness of the crust by a gesture of an indignant finger and thumb.
+
+He ought to have climbed into the London rich through Vurry; instead of that, Vurry had thrust him off the ladder, and he was justly embittered. The reader will perhaps hardly believe me unless she has as much acquaintance with the corrupt heart of man as I have, but it is heaven’s own truth that there are some men who, however rich, cannot get through the gates in London. They are just too much for the stomach. I am afraid the Duque de Emonsillado was one. I assure you there really are such men. I could name you a living one now whom you have all heard of, only I daren’t do it for fear of going to prison. Yet I am not sure that in the sight of his Maker poor Hardham’s soul was not a notch or two above Vurry’s — though of course, being a man, he had not trained his accent as well as she had (somewhat imperfectly) done. He did not pretend to refinement. He did not pretend to anything, expect anything, but to look after his money — and also to knowing when he had been ill-treated. And if ever one fortune could be used against another, his should be used against the adamantine Vurry.
+
+There was one phrase of hers which had been repeated to him when first he had tried to mix with London, and which he had never forgotten. It was that in which she had warned the world of him by the title of Rastaquouère. Oh! It had hurt! It was one of the few dago words he knew — and there was dreadful truth in it. He had retorted (to his intimates) by applying the title Canaille to the lady, but it had cut no ice. The only way he knew the word was that his defunct wife had applied it to him once a little before her death when she threw a plate at him — and so he thought it must mean something unpleasant.
+
+At any rate, there things stood; and Verecundia queened it over London, while poor Hardham roamed in the outer darkness, trailing his millions among jockeys and croupiers, and card experts, and the exiles of this world. But still, all the time, with a dull revenge in his heart.
 
 
 
@@ -3919,6 +3665,168 @@ Then he rose, not too rapidly, came over to where they were, and helped to lift 
 It was a good half hour before Verecundia could be handed, with infinite pains, Ardee on the one flank, Henry Bensington on the other, the Housekeeper supporting the rear, down the rather steep steps of the famous little house, through the passage, avoiding the shop, into her motor with its nice little crest. Thereinto was she decanted with all the ceremony due to her rank, and the very much more it was necessary to add for her millions, and the transaction was at an end.
 
 After the long rest which such violent emotions needed, she did at last receive a note from Bensington which helped to support her spirit. It was very well put. It did not commit him, and it was friendly. It even went so far as to apologize for his apparent lack of sympathy: “He had trained himself not to show such things, but she must understand that he had been terribly hard hit. He had a devotion for that picture which went to the very roots of his soul — and she must remember that he had known Bourrot, and had sat by him while he was dying.” The missive ended with the assurance that if ever it were recovered, he would remember her figure, and discuss it with her. And he oddly used the words: “respectful assurances” before he signed.
+
+
+
+
+<span class="atom-split" data-atom="chapter_09" data-title="The Missing Masterpiece — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+
+
+CHAPTER IX
+
+YOU WILL REMEMBER, reader, if that charming shingled head of yours is not a Tête Linotte, how, on that evening when Verecundia was consulting with her Two devoted Dees, Chas. Goatcher had gone out into the evening under the threatening orders to look cheerful, to whistle, and even to hum.
+
+Whether or no he looked cheerful his master would never know. But he did whistle a mournful note or two, and he hummed, till he was round the corner. Once he was round the corner, and free, one single thought possessed him, to get back to his miserable garret; deposit the sealed thing that he had under his arm, and then, for the love of God, a drink! He remembered (for his brain was clear) that by five o’clock of the next day he was to telephone and reassure his master that all was safely under lock and key.
+
+It was a great shame of Bensington to have kept him so late! It was a breach of an implied contract between them — a contract not openly made but taken for granted — that he should always be released before the pubs opened. Yet here he was, with the pubs open this half hour and more, and he still waiting in anguish. He hurried on.
+
+The parcel under his arm was not much, but it seemed heavier with every step — and by this time he had got east of St. Martin’s Lane. His control lasted for a little way up Long Acre — then it broke down. It was Bensington’s fault, anyhow... he would have just One, One wouldn’t hurt him! Then he would faithfully go and lock the beastly thing up, and then go out again and get his regular whack....
+
+But why should he wait for that Just One?... He was fainting... besides, he absolutely must have it. He turned into the first common bar he came to, and took it — with a splash.... There, that was better! He must have another. No, he must not linger. It was all right, one made no difference. He looked at the parcel under his arm, and then felt it, foolishly, to make certain that it was there, and he hurried on....
+
+But the trouble was that that first one had been quite insufficient; indeed he would have done better, he thought, not to have had it at all, than to compromise like that.... He must have a proper drink — and then he would go on with his orders, and lock the abomination up (his arm was beginning to ache, and his shoulder had always hurt him since that rheumatic fever of years ago....). Yes, he would have one more, a good one.... And then he would not feel the need of one for some time.... In that way he could be certain of locking it up safe, and having the evening free, and that was what he wanted.
+
+He went to the next one that appeared, and he had two quite satisfactory doubles, and then two more. He sat down to it. It made him feel more respectable and solid. And then again, it hadn’t done him any harm.... The truth was (said Chas. Goatcher to himself) this kind of thing didn’t ever do him any harm. He could carry it, he could... and he was feeling altogether more himself... come on.
+
+He stretched, he pulled out his whiskers a little on each side, he pushed his billycock slightly towards one ear... it was grand to feel oneself again! He was a little uncertain as to why he had felt not himself, but he remembered Bensington in the rough, and how he had been bullied.
+
+Then his mind jumped back suddenly to his orders. He clutched nervously at the parcel under his arm and assured himself it was still there.... What had he to do with it? Why, to take it back to his room, of course, and lock it up. He remembered all that. And then there was plenty of time. He had to do something or other the next day.... He couldn’t quite remember what it was — but it would come back to him after he had slept it off. Anyhow, the parcel was safe, but it was damned heavy.... And all he had got to do was to take it to his room... his room, you know... yes, his room. Those were the orders. Lock it up... for fear it should run away. He laughed to himself boisterously at the jocular idea... a parcel running away! Ha! Ha!
+
+He was a devil of a fellow by the time he came out of this second pub, and took the road again.
+
+He thought a little mews down to the right might be a short cut. He found it was a no-thoroughfare. He came back, and took another turning. He got fairly lost. He leaned against some iron railings and stupidly considered his parcel. He had to take it to his room. — . — . the address of his room? He knew that — 5 Munning’s Rents, top floor, under the roof — which leaked. But it wasn’t raining, so that was all right. He must find out how to get to Munning’s Rents. They couldn’t be very far off.
+
+A small but well-appointed public house stood under a brilliant arc lamp opposite the entry of the narrow alley from which he issued out into the main street. On it in fine flaming letters was the title of that hospitable house, The Butcher’s Arms. Surely in so magnificent a place they would know all about their London, and they could direct him easily to Munning’s Rents — or someone inside could.... Anyhow, he would go inside... and inside he went.
+
+There was a pretty thick crowd in the common bar, and it was many years since Chas. Goatcher’s finances had allowed him any other department. He squeezed in by the edges of it, and had the luck to find a bench right at the corner of the bar. They were all standing up, and that bench was neglected. Hence his good fortune.
+
+Down went the burden from under his arm — and how relieved that arm was at the loss of its burden! He rubbed his shoulder. Then a great necessity came upon him. He staggered to his feet, wormed his way through the press of drinking men and a few women talking much too loudly, lurched to the bar, and conveyed the order for a double. He had to say it twice. It disgusted him to observe that the woman appeared to be deaf. He got it at last and began to sip it sombrely. It was the habit of the unfortunate Goatcher, while still he was Maltaine, to pass, in the curve of his inebrieties, from elation to some doubts upon the goodness of the world, and he was now at the doubt stage. He was doubting man’s virtue. He was beginning to dislike his fellow-beings. It was usually the last phase but one with him before sleeping it off. The intermediate phase was either maudlin tears or gentle kindliness. But he was now in the thick of the have-at-you phase, and the “Why is the world my foe?”
+
+His uncertain and watery eyes fixed themselves on a man with a squarish parcel under his arm, done up in newspaper. The man was haranguing. He was a man of words.
+
+Mr. Goatcher watched him with vague distrust. Sometimes he doubled into two men and then came together again. That alone was suspicious!
+
+The man with the parcel under his arm was addressing his own group indeed, but also the universe at large, and fatal words issued from his lips. They were these:
+
+“An’ wot if a man ‘as done time? I don’t say as there ain’t those ‘oo do time as deserve it or those as do time an don’t deserve it. Wot I ask is, wot if a man ‘as done time?”
+
+The question was rhetorical and emphasized by a wave of the unoccupied hand in the air. A deeper suspicion arose fuming in the muddled brain of Sir Henry’s Personal Agent. He glanced darkly at the orator, and sidled up towards him.
+
+Fate, ever on the alert, added another little element to her drama. She caused the rhetorician to glance vaguely at Mr. Goatcher, and as he did so, he asked once more of universal justice and the Gods below: “Wot if a man ‘as done time?”
+
+Mr. Goatcher was on the tremble; He had enough sense left to remember that this was his third public-house. He also remembered, enormously, a charge, a commission, a parcel, done up in newspaper. It ought to be under his own arm, a square parcel. It was not under his arm.... And somebody was insulting him. He pressed his elbow against his ribs and made certain that there was nothing under his arm. He tapped his arm on the outer side, and made doubly certain. He lurched forward and noticed the parcel under the arm of the abomination who had talked about doing time: and he said, suddenly and surprisingly loudly: “You’ve got my Thing.”
+
+“Your wot?” cried the startled orator.
+
+“Mine. Don’ know name of it. That thing under your arm. It’sh mine.” And Mr. Goatcher made a grab at it.
+
+“’Ere! You leave that alone!”
+
+“Yus, you leave it alone! D’y’ear?” said a third party, who had nothing to do with the trouble.
+
+“Don’t yer stand it, Bill,” said a fourth, who wanted to see sport.
+
+Chas. Goatcher tipped his hat a little more to one side and was swollen with the love of justice.
+
+“All ask ish... is... my own back,” he shouted. “’Tishn’t your callor my call. It’sh my own. I want m’own back. I have have it. Under ordersh. Hand bloody over!”
+
+A great fear occupied his opponent’s spirit. For to tell you the pure truth (and there is no reason why I should not) that parcel which he carried under his arm done up in newspaper was a silver tray, neatly conveyed from a shelf near an open window which he had had the good fortune to pass earlier in the evening. Bill, the orator, a man who in a higher station of life would have adorned the first ranks of finance, on seeing that tray had acted at once and with decision. He had copped it before you could say Knife! He had wrapped round it a random piece of newspaper which was lying in the street. He had walked off, not too rapidly, yet at pressure. He had bought another newspaper and made the whole thing secure. Now you must know that Bill was in a favourable situation for dealing with silver trays. He was privileged. His brother-in-law, to whom he was greatly attached (and the esteem was mutual) was a Smasher, and had a private crucible. That tray would fetch Bill five florins, and five florins was a fine day out.
+
+But he had no desire to have that tray examined just now. He gave Chas. Goatcher a push.
+
+“Don’t you push me,” said Chas. Goatcher fiercely. “Give me back parcel!”
+
+By way of answer Bill suddenly dived through the crowd, shot through the swing doors with his paper parcel under his arm and fled down the street.
+
+Chas. Goatcher (so strange are the effects of the Lenean God) would have had difficulty in following him before that last drink, but now he had none. He pounded along heartily. An eager man went first, but a still more eager man came after. In vain did the quarry double and turn, the hunt followed every move; when, just as the burdened man felt the weight beginning to tell, and the pursuer’s outstretched hand almost grasped the collar of the fugitive, Chas. Goatcher tripped and fell smack down upon the unfeeling stones of London.
+
+He staggered to his feet, noticed blood coming from his nose, much on his clothes, and some drops of it on the pavement, He leaned against the wall and began to cry softly; for the maudlin stage had come. He blubbered to himself inaudibly. “Murder this time! Murder! There’s no end to it!”
+
+He glared with glassy eyes for a full minute as he leant thus, propped up against the wall, at a large advertisement under an electric arc, which implored him to subscribe to the Duchess’s fund for the unemployed. That advertisement was vaguely familiar. Hooray! He was at the corner of Munning’s Rents.
+
+Bruised, weeping, in the last stages, he staggered up those dirty stone stairs, gripping the iron rail and remembering dully that it was his bounden duty to lock his door. He snapped the key, fell upon his dishevelled bed, and fell into oblivion. In that best of states I leave him, to return to a wealthier and therefore a better world.
+
+
+
+
+<span class="atom-split" data-atom="chapter_10" data-title="The Missing Masterpiece — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+
+
+CHAPTER X
+
+THE DAY AFTER his orders to Mr. Goatcher and his sad disappointment of Lady Norbolt Sir Henry Bensington came in to his office very late, after lunching too long with Lord Birmingham at the Ritz. Already had Lord Birmingham heard the news, for little Ardee had told Elless, who had told the Dowager, who had told Smithson, who had told the chauffeur, who had told Lord Birmingham’s chauffeur, who had told Lord Birmingham, because Lord Birmingham always liked to hear these amusing little things. Indeed he had begun:
+
+“Strange thing that, m’lord, about Sir Henry’s picture!” And Lord Birmingham had been heartily tickled, and had muttered:— “Clever devil!” He wondered as he drove back from his lunch whether he might not have to try the case, and he was more amused than ever.
+
+But with Sir Henry Bensington he was sympathetic and charming. He went off to an afternoon appointment, and Bensington went back to his business, buying on the way Holloway’s evening paper.
+
+Holloway had been very good. He had done as they had arranged. It was all right. There was the warning (as had also been arranged) the big type about there being unfortunately no photograph of the picture, which made it doubly difficult to trace it. He stopped his car a moment to buy Borstal’s evening paper. Borstal had been even kinder. He had made it look like a European war or a murder case. And since there could be no photograph of the picture, there was a photograph of Sir Henry Bensington instead, taken thirty years ago, and doing him proud.
+
+He waited at his office until five o’clock. Everything was going well, and everything would continue to go well. With a punctuality which only well-trained unfortunates are capable of, Chas. Goatcher would come up to the mark. He had never failed him yet. It was five past... ten past... no telephone. Henry Bensington began to turn over possibilities. Suppose Goatcher had been attacked? Kidnapped? Suppose he had madly gone off with the treasure? No he couldn’t be so silly! They’d have him at once!
+
+* * * * *
+
+Half-past five and no message. This was serious. In all these years Chas. Goatcher had never missed. He was always absolutely certain in his hours, before his licensed moment of debauch. Still, one never knew.
+
+Henry Bensington waited till six o’clock struck, and half-past. Then his mind was made up. There was no question of the motor this time. He put on a soft hat, well pulled over his eyes, turned up his coat collar, walked to the Dover Street tube station, walked again form the Holborn station at the other end, and so came to Munning’s Rents. He went up those filthy stone stairs — he knew the way; he had done this once or twice before. On the sixth, top, landing, outside Goatcher’s open door, through which the miserable bed could be seen, unmade, stood that angry woman the caretaker.
+
+“If you’re looking for that man Goatcher, ‘e’s gawne,” was all she said.
+
+“How do you mean — gone?”
+
+“What I say — gawne. I don’t know oo you may be — I aven’t seen you round ’ere afore.”
+
+“I’m the man who sends you the rent,” said Henry Bensington quietly. “Poor Mr. Goatcher is a dependant of mine.”
+
+It did not mollify her much.
+
+“Well, you can give me the rent now,” she said defiantly. “For ‘e’s taken everything he had — not as that were much! E’ musta made a bundle of it. There was a shirt, and two pair of socks, to my knowledge, and one pair o’ shoes. Ow e’s gawn right enough! But e’s not taken nothing as wasn’t ’is own.”
+
+Henry Bensington produced the rent money without a word.
+
+“You can give me no idea at all?” he said, fixing her with his strong eyes. “Don’t you know his habits? Don’t you know where one might look for him?”
+
+She shook her head as she wrapped the few shillings carefully in a horrid handkerchief, and thrust the packet into the pocket of her apron.
+
+Henry Bensington instinctively took out his pocketbook — and then with quick thought put it back. It would never do!
+
+“Well,” he said, “I don’t ask you to tell the police or anything.”
+
+“I don’t want to ‘ave nothing to do with the perlice!” said the woman sullenly.
+
+Henry Bensington turned without a further word, and went down those stone stairs in silence, she watching him and divided between the danger of crossing a man who seemed so well-to-do, and the danger of finding herself subject to police inquiries. She decided to do nothing. She waited till she heard his steps go out through the archway of the dingy court and then went back to her own den.
+
+* * * *
+
+It was about a hundred and fifty yards from Munning’s Rents, and perhaps two hundred from the Tube station, that the working of Sir Henry Bensington’s brain reached its conclusion.
+
+The whole thing was clear to him, now! It was Delgairn!
+
+There was only one human being who hungered and thirsted for the personal picture in itself; not to show it, not to sell it, but to possess it. There was only one person who would want to hold it in secret possession for a while. And Bensington knew enough about the human heart to understand with what violence the grievance rankled.
+
+His opinion of Delgairn went up. He hadn’t thought the young fellow had it in him. By God! He must have had them all watched! In spite of his grievous perturbation the picture dealer actually chuckled. His kind likes an opponent worthy of its steel.
+
+Well, now that he had solved the enigma — and how simple it was — the answer always IS simple when one has found it — he’d always said that — his path was clear. He must not hurry too much. He must think out his approaches. He must plan everything carefully.
+
+Instead of taking the Tube he walked all the way back, slowly, though the evening, thoroughly discussing within himself every detail of the next moves.
+
+He must discover in some way the details of North Merton House, or he must discover in what place there Delgairn was likely to have put it. There might be a choice of hiding-holes — there probably was more than one place. It might even not be in North Merton House at all — it might be with a devoted relative, or friend who was in the plot.
+
+Then another point occurred to Bensington. If the thing was to be done in reasonable time, the more brains at work on it the better, and yet the more brains at work the greater chance of being betrayed.
+
+He had two agents upon whom he could seriously rely for such research; he would put them to work, and they should approach North Merton after a fashion he would lay out for them.
+
+There was Appleton, whom he had got from the Regular Force at a very good salary, and who only six months ago had done that excellent piece of work in the case of the Russian Miniature. He had been well paid then, over and above his regular salary, and he would offer him a good bonus now. It would be his business to deal with the village and find out by that admirable approach what might have been done with the Masterpiece.
+
+Then there was Ranford, not quite so able, but better at dealing with the domestic side of a house. He had taken service twice, and each time successfully. Indeed, he had played the footman so well that Henry Bensington would not have wondered if he had started his career as a footman before rising to the higher professional work in which he was now engaged.
+
+Yes, that was it! Ranford should get into the house, and Appleton should stay at the inn. Appleton should be a painter, putting up at the inn and Ranford somehow or other should take a place under the young Squire’s roof. It could be done. What he would do at once was to get Appleton and Ranford round that very night and put the plan of campaign before them.
+
+And so he did: — Appleton, quiet, gentlemanly, a man with a nice accent and with a refined, reserved manner; Ranford, smart, upright, well groomed — were given their orders and told the whole thing frankly and fully. They were given ample funds, for Henry Bensington knew by long experience how well he could trust them both. When he had dined at North Merton he had marked a handy man whom they sometimes put into livery when there were guests. They called him Joseph — though his real name was Joe. He must be bribed to have a relative fall ill suddenly, and to recommend Ranford for a few days to do the work in his place, Ranford being vouched for by the honest Joseph as a very old and well-known friend.
+
+Appleton would take with him the same painter’s kit as he had taken last time, when he had been working the affair in Huntingdonshire, and he would secure rooms at the Delgairn Arms the moment he heard from Ranford that his arrangements for taking the handy-man’s place were completed. To avoid suspicion he had better get to the Delgairn Arms after Ranford was fairly installed in the big House.
+
+It was a good plan of campaign. I can’t remember whether I have said it before, but if I did I can say it again — it will do no one any harm. There was something Napoleonic about Henry Bensington, and, as you shall hear, he brought it off; but like his great prototype the Corsican, not quite in the fashion he had intended.
 
 
 
@@ -4891,6 +4799,98 @@ And they were at Henry Bensington’s door.
 The interview was short — shorter than Bensington himself had anticipated. She wrote out the cheque then and there, and received the Picture with due solemnity. She graciously extended her hand. Sir Henry accepted it with an almost equal if less obvious grace. He was a difficult man to patronize.
 
 And so the thing ended, and you may think that with Verecundia in possession, my story also is coming to an end — if you do, you are wrong.
+
+
+
+
+<span class="atom-split" data-atom="chapter_16" data-title="The Missing Masterpiece — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+
+
+CHAPTER XVI
+
+WHEN THE DUQUE de Emonsillado received Sir Henry Bensington’s curt but familiar and sufficient note, even before he had read it, from the moment he cut the envelope and caught sight of the pink of the returned cheque within, his perturbation was extreme. When he had read it his perturbation increased. And he asked himself, as he was entitled to do after his experience of mankind in various climates and different forms of practice, what the great idea might be.
+
+It would be flattery to pretend that the Duke had any knowledge of pictures in any school whatsoever, let alone of modern symbolism. He took out the canvas from its locked security, put it in a strong light before the window, gazed at it intently with his head cocked to one side; and it told him nothing. And curse it all! Even if Bensington did not believe the thing to be genuine, what possible motive could he have for refusing twenty thousand pounds?... Perhaps someone had offered more? If one may throw a sprat to catch a whale, one may throw a whale to catch the great sea serpent.... No, that wouldn’t wash. If someone else was biting, he wouldn’t have repudiated the picture — just the other way....
+
+The Duke frowned a puzzled frown. He could make nothing of it. Anyhow, there was one thing he could do. He could clinch his own position right down good and hard. He spent between half and three quarters of an hour in getting hold of Borstal, whose voice he heard at last on the other end of the wire — in not too good a temper; but Hardy soothed him. For as between millionaires of the same type, Borstal could not but be moved by the familiar “one of us” feeling. Yes, Borstal would see to it. It should go into the social column. The Duke thanked him sincerely, and offered to give a little extra tip to the poor devil who wrote the paragraphs. But Borstal would have none of that. “It spoils them,” he said. And so it does. What on earth would happen to Borstal if the snake Self-respect should raise its poisonous head among his staff?
+
+Therefore it was that on the very next day, the moment the pubs, opened in Fleet Street, the more Bohemian half of Lothario entered The Green Monkey and the saloon bar thereof, quaffed the first honest beer of the day from a huge tankard, and smudged his Par. down on a particularly dirty block.
+
+“I met the Duque de Emonsillado the other day; he told me he had run over to London to see his numerous English friends, and to take advantage of the Season, as he does every year — for he is at heart an Englishman, in spite of his high rank in a friendly foreign country.
+
+“He told me, by the way, that he had just purchased Bourrot’s famous Masterpiece, the ‘A me Bourgeoise’ which we have all been hearing about since its recent loss. How it was recovered he was not free to tell me. But it is good news for every lover of Art. And I think I may respectfully add, for every friend of His Grace — and they are legion.”
+
+He read it over. It read fine. He had another pint on the strength of it. The barmaid asked him with haughty kindness what lie he was telling now, and he answered, “Never you mind, duckie, it’s not about you!” Nor did that goddess resent the address, such a favourite with the ladies was the genial fellow in the world which he adorned.
+
+* * * * * * *
+
+Meanwhile, in far Golders Green, in that very respectable villa, and sipping the first of his third cup of coffee that morning, the other half of Lothario was searching his poor little brain for something to write. A suggestion came (as it often did) with the entry of his formidable spouse.
+
+“Not finished yet?” she snapped, “and I’ve left you half an hour!”
+
+“Oh, my dear — not twenty minutes!” murmured the poor little fellow.
+
+“Well, upon my word! Archibald, it’s a wonder I bear with you! I’m sure if I’ve been away a minute I’ve been away the better part of an hour — doing work you ought to be doing. Trying to get that wretched girl to... I declare, you’ve got not a word down on that paper!”
+
+“Well, my dear, I’ve been thinking....”
+
+“Thinking?” shot out the hard, thin voice with dreadful menace. “Thinking? Really, Archibald, I don’t know how I manage to bear with you at all!...”
+
+“Well, my dear, I can’t think of anything to think of.”
+
+But he was interrupted.
+
+“Well, for one thing, the Marchioness of Norbolt” (the lady pronounced it in a fine rotund fashion, as though she had some property in it) “she’s bought that picture — they’ve found it. She got it yesterday. You knew that, I suppose?”
+
+“Oh, my dear,” answered the unoffending spouse, “we can’t be sure of that, you know. We only heard it from the curate, and he himself said he wasn’t sure, as he had only heard it from Mrs. Gatwick, and he himself said he didn’t know how she got hold of news like that, because... well, you know, it’s not her world.”
+
+“Don’t talk rubbish, Archibald,” snapped his commander-in-chief. “Write that paragraph down at once. It’ll be almost too late as it is — do you know what the time is?”
+
+“Oh, dear, yes,” said poor Archibald. “There! All right — I’ll do it.”
+
+“I’ll be back in ten minutes,” tapped out the inexorable tongue. “And I’ll take it down myself, to make certain that you don’t lose it with some of your drunken companions!”
+
+“Oh, my dear,” said the shocked and maligned master of the house, “my dear!”
+
+“Don’t you ‘my dear’ me!” said the lady. “You get to your work!”
+
+Archibald got to his work. He sighed pitifully — he was a scrupulous little man, besides which, getting wrong things in a Par. was dangerous. However, there was one course much more dangerous, and that was to disobey — so down it went:
+
+“I dined with the Marchioness of Norbolt yesterday (what a hostess she is!), and she told me a bit of news which will bring gladness not only to her innumerable friends, but to every lover of Art at home and abroad. Bourrot’s Masterpiece has been found, and as might have been expected, this greatest of Art judges and Art lovers has become the possessor of it. I am afraid I committed an indiscretion when I asked her the conditions under which she had obtained it, but she, tapped me archly with her lorgnette” (was it Lorgnette or Lorgnon? — he wasted, three minutes in an agony of doubt: looked it up first in the Etiquette Book and then in Boulter’s Dictionary of Universal Information, and couldn’t find it in either. He was still hesitating when a too-well-known step as of marching Fate was heard upon the stair, and he hurriedly concluded:) “She told me I must not ask questions, but I was very proud when she added that I might go and see the Masterpiece at an early date. And I shall certainly avail myself of that invitation. I hope you envy me.”
+
+“Have you finished it, Archibald?” came the Voice from the door.
+
+“Yes, my dear,” his own voice humbly replied.
+
+“Well, give it me. Can’t you see I can’t open the door? I’ve got my hands full.... Thanks to having to do all the housework!”
+
+He dutifully went and deposited the bit of copy in an envelope upon the tray which the lady was holding, filled with crockery for the luncheon-table.
+
+“It’s killing me having to do three women’s work every day,” she said. “If you were a man you wouldn’t stand by and see your wife slave herself to death while you idled away your time with that dirty Fleet Street crowd!”
+
+“Oh, my dear!” he protested again. But she could bear no more of it. Her cup was full — which was also true of his, by the way, for he had had no time to finish his coffee. He allowed time for the apparelling of that majestic though somewhat angular form, heard the door slam with a profound sensation of relief, and was confident of this at least in a difficult and perilous world, that Olivia (for such was the name of his life’s companion and stay) would not be the woman to lose a thing or to fail to deliver it. He only hoped the news in it was all right!
+
+All these paragraphs went in! Golders Green and Bohemia, both halves of “Lothario” hobnobbing with the great. They contradicted themselves and didn’t make sense. They gave the same picture to two separate people. But the sub-editor, who was sleepy drunk and short of copy, passed them. He got the sack; and the 2 and a half million readers of The Howl learnt that not’ only had the Duke of Emonsillado bought the Masterpiece, but Lady Norbolt as well!
+
+* * * * * * *
+
+The next morning the Duke’s friend Mr. Capstan, that well-known figure at Tattersall’s, was sitting at the Duke’s breakfast-table in the Plantagenet prior to a walk around among the gee-gees. His host was reading with à smile the first two Paragraphs about himself and the Bourrot, when Capstan looked up, startled by a sudden exclamation. Hardham, Duque de Emonsillado in the Barony of Castile, and of Manuada and be in that of Aragon, had The Howl clenched in his left hand and was viciously slapping it down before him. His right fist menaced the air, his face was working with passion, and from a mouth opened very wide indeed were pouring the strangest howls of rage.
+
+“Aw! Ter Hell with her! May she burn! Aw, that’s it, is it? Aw, my Gawd, when Ah get her! Thet man Borstal’s crazy!” And with that the grasping fingers actually tore through the strong fine paper of Lord Borstal’s organ of public opinion. Then, dealing with it as though it were the unfortunate Verecundia, he savagely tore it in two, still roaring his anathemas of rage.
+
+“Ah’ll prorsecoot!” he shouted. “Ah’ll heve her jailed! Ah’ll...” He ground his teeth with savage snarls; and then, at the end of the orgasm, choked.
+
+Capstan deferentially patted him on the back. That only made him worse. He recovered his breath and began a universal commination service, extending to Capstan himself, and all the peoples of these islands, to goddurned French painting fools and bloody Mayfair robbers, and all those gutterhags who thought themselves so grand; he raved on in reminiscences of various indignities connected with their common youth, his and Vurry’s by the far Pacific Seas, and then took to blaspheming at large till he was quite exhausted.
+
+“Ah’ll prorsecoot!” he repeated. “Ah’ll prorsecoot! The word seemed to relieve him somewhat, as though he was actively engaged in the squeezing to destruction the abominated Vurry. “Ah’ll teach her! Ah’ll larn her!” And then, by way of finale, he stamped his foot on that mighty voice of England for which Lord Borstal was responsible, stopped, snatched it up, crumpled it with his strong hands into a ball as hard as wood, and hurled it through the open window: whence it fell too violently upon the astounded head of a godly Lady Missionary who was descending the narrow side street upon an errand of mercy, to nobble a poor and wicked man of whom the police had need.
+
+* * * *
+
+At last, but not till fully twenty minutes had passed, the great amateur of modern art, had so far recovered himself (and exhaustion took no small part in that recovery) that he was able to answer consecutively the questions Mr. Capstan thought it only decent to put, in a voice full of sympathy and old friendship.
+
+Yes, Capstan had guessed right. It was the picture. It was thet bitch, thet... but I will not sully your ears, radiant reader, with the further epithet he applied to so distinguished a member of your sex. She had had the gall to get in front, had she? Wall, she’d soon find she wouldn’t stay there! She’d gotten the Bourrot? — Naw! He’d gotten it! All she’d gotten was a bloody fake! He’d show her up, he would! Naw, he was in no mood for durned horses, blast ’em! He was going to his lawyer, he was. Pretty darn quick, too. And Capstan might come with him.
+
+Very pleased was Capstan to note that this essential friend was so far mollified. Eagerly did he accept. Clapping on their hats, and seizing their walking-sticks, the one with a deferential gesture, the other with a military grasp, as though to slay with it the arch-villainess of the Peerage, they strode forth on their way to Lincoln’s Inn.
 
 
 

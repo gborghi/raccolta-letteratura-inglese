@@ -2103,902 +2103,6 @@ Or words to that effect. And to think that you can get to a place like that for 
 
 
 
-<span class="atom-split" data-atom="story_11_the_election" data-title="Hills and the Sea — THE ELECTION" data-chapter="THE ELECTION" data-kind="story"></span>
-
-
-THE ELECTION
-
-THE OTHER DAY as I was going out upon my travels, I came upon a plain so broad that it greatly wearied me. This plain was grown in parts with barley, but as it stood high in foreign [[Mountains|mountains]] and was arid, very little was grown. Small runnels, long run dry under the heat, made the place look like a desert — almost like Africa; nor was there anything to relieve my gaze except a huddle of small grey houses far away; but when I reached them I found, to my inexpressible joy, a railway running by and a station to receive me.
-
-For those who complain of railways talk folly, and prove themselves either rich or, more probably, the hangers-on of the rich. A railway is an excellent thing; it takes one quickly through the world for next to nothing, and if in many countries the people it takes are brutes, and disfigure all they visit, that is not the fault of the railway, but of the Government and religion of these people, which, between them, have ruined the citizens of the State.
-
-So was it not in this place of which I speak, for all the people were industrious, wealthy, kind, amenable, and free.
-
-I took a ticket for the only town on the railway list whose history I knew, and then in a third-class carriage made entirely of wood I settled down to a conversation with my kind; for though these people were not of my blood — indeed, I am certain that for some hundreds of years not a drop of their blood has mingled with my own — yet we understood each other by a common tongue called Lingua Franca, of which I have spoken in another place and am a past master.
-
-As all the people round began their talk of cattle, land, and weather, two men next me, or rather the one next me and the other opposite me, began to talk of the election which had been held in that delightful plain: by which, as I learnt, a dealer in herds had been defeated by a somewhat usurious and perhaps insignificant attorney. In this election more than half the voters — that is, a good third of the families in the plain — had gone up to the little huts of wood and had made a mark upon a bit of paper, some on one part, some on the other. About a sixth of the families had desired the dealer in herds to make their laws, and about a sixth the attorney. Of the rest some could not, some would not, go and make the little mark of which I speak. Many more could by law make it, and would have made it, if they had thought it useful to any possible purpose under the sun. One-sixth, I say, had made their mark for the aged and money-lending attorney, and one-sixth for the venerable but avaricious dealer in herds, and since the first sixth was imperceptibly larger than the second it was the lawyer, not the merchant, who stood to make the laws for the people. But not only to make laws: he was also in some mystic way the Persona and Representative of all the plain. The long sun-lit fields; the infinite past — Carolingian, enormous; the delicate fronds of young trees; the distant sight of the [[Mountains|mountains]], which is the note of all that land; the invasions it had suffered, the conquests it might yet achieve; its soul and its material self, were all summed up in the solicitor, not in the farmer, and he was to vote on peace or war, on wine or water, on God or no God in the schools. For the people of the plain were self-governing; they had no lords.
-
-Of my two companions, the one had voted for the cow-buyer, but the other for the scribbler upon parchment, and they discussed their action without heat, gently and with many reasons.
-
-The one said: “It cannot be doubted that the solidarity of society demands that the homogeneity of economic interests should be recognised by the magistrate.” The other said: “The first need is rather that the historic continuity of society should be affirmed by the momentary depositaries of the executive.”
-
-For these two men were of some education, and saw things from a higher standpoint than the peasants around us, who continued to discourse, now angrily, now merrily, but always loudly and rapidly, upon the insignificant matter of their lives: that is, strong, red, bubbling wine, healthy and well-fed beef, rich land and housing, the marriage of daughters, and the putting forward of sons.
-
-Then one of the two, who had long guessed by my dress and face from what country I came, said to me: “And you, how is it in your country?” I told him we met from time to time, upon occasions not less often than seven years apart, and did just as they had done. That one-sixth of us voted one way and one-sixth the other; the first, let us say, for a moneylender, and the second for a man remarkable for motor-cars or famous for the wealth of his mother; and whichever sixth was imperceptibly larger than the other, that sixth carried its man, and he stood for the flats of the Wash or for the clear hills of Cumberland, or for Devon, which is all one great and lonely hill.
-
-“This man,” said I, “in some very mystic way is Ourselves — he is our past and our great national memory. By his vote he decides what shall be done; but he is controlled.”
-
-“By what is he controlled?” said my companions eagerly. Evidently they had a sneaking love of seeing representatives controlled.
-
-“By a committee of the rich,” said I promptly.
-
-At this they shrugged their shoulders and said: “It is a bad system!”
-
-“And by what are yours?” said I.
-
-At this the gravest and oldest of them, looking as it were far away with his eyes, answered: “By the name of our country and a wholesome terror of the people.”
-
-“Your system,” said I, shrugging my shoulders in turn, but a little awkwardly, “is different from ours.”
-
-After this, we were silent all three. We remembered, all three of us, the times when no such things were done in Europe, and yet men hung well together, and a nation was vaguer and yet more instinctive and ready. We remembered also — for it was in our common [[Faith|faith]] — the gross, permanent, and irremediable imperfection of human affairs. There arose perhaps in their minds a sight of the man they had sent to be the spirit and spokesman, or rather the very self, of that golden plateau which the train was crawling through, and certainly in my mind there rose the picture of a man — small, false, and vile — who was, by some fiction, the voice of a certain valley in my own land.
-
-Then I said to them as I left the train at the town I spoke of: “Days, knights!” — for so one addresses strangers in that country. And they answered: “Your grace, we commend you to God.”
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_12_arles" data-title="Hills and the Sea — ARLES" data-chapter="ARLES" data-kind="story"></span>
-
-
-ARLES
-
-THE USE AND the pleasure of travel are closely mingled, because the use of it is fulfilment, and in fulfilling oneself a great pleasure is enjoyed. Every man bears within him not only his own direct experience, but all the past of his blood: the things his own race has done are part of himself, and in him also is what his race will do when he is dead. This is why men will always read records, and why, even when letters are at their lowest, records still remain. Thus, if a diary be known to be true, then it seems vivid and becomes famous where if it were fiction no one would find any merit in it. History, therefore, once a man has begun to know it, becomes a necessary food for the mind, without which it cannot sustain its new dimension. It is an aggregate of universal experience, nor, other things being equal, is any man’s judgment so thin and weak as the judgment of a man who knows nothing of the past. But history, if it is to be kept just and true and not to become a set of airy scenes, fantastically coloured by our later time, must be continually corrected and moderated by the seeing and handling of things.
-
-If the West of Europe be one place and one people separate from all the rest of the world, then that unity is of the last importance to us; and that it is so, the wider our learning the more certain we are. All our religion and custom and mode of thought are European. A European State is only a State because it is a State of Europe; and the demarcations between the ever-shifting States of Europe are only dotted lines, but between the Christian and the non-Christian the boundary is hard and full.
-
-Now, a man who recognises this truth will ask, “Where could I find a model of the past of that Europe? In what place could I find the best single collection of all the forms which European energy has created, and of all the outward symbols in which its soul has been made manifest? To such a man the answer should be given, ‘You will find these things better in the town of Arles than in any other place.’” A man asking such a question would mean to travel. He ought to travel to Arles.
-
-Long before men could write, this hill (which was the first dry land at the head of the Rhone delta, beyond the early mud-flats which the river was pushing out into the sea) was inhabited by our ancestors. Their barbaric huts were grouped round the shelving shore; their axes and their spindles remain.
-
-When thousands of years later the Greeks pushed northward from Massilia, Arles was the first great corner in their road and the first halting-place after the useless deserts that separated their port from the highway of the Rhone valley.
-
-At the close of Antiquity Rome came to Arles in the beginning of her expansion, and the strong memories of Rome which Arles still holds are famous. Every traveller has heard of the vast unbroken amphitheatre and the ruined temple in a market square that is still called the Forum; they are famous — but when you see them it seems to you that they should be more famous still. They have something about them so familiar and yet so unexpected that the centuries in which they were built come actively before you.
-
-* * *
-
-The city of Arles is small and packed. A man may spend an hour in it instead of a day or a year, but in that hour he can receive full communion with antiquity. For as you walk along the tortuous lane between high houses, passing on either hand as you go the ornaments of every age, you turn some dirty little corner or other and come suddenly upon the titanic arches of Rome. There are the huge stones which appal you with the Roman weight and perpetuate in their arrangement an order that has modelled the world. They lie exact and mighty; they are unmoved, clamped with metal, a little worn, enduring. They are none the less a domestic and native part of the living town in which they stand. You pass from the garden of a house that was built in your grandfather’s time, and you see familiarly before you in the street a pedestal and a column. They are two thousand years old. You read a placard idly upon the wall; the placard interests you; it deals with the politics of the place or with the army, but the wall might be meaningless. You look more closely, and you see that that wall was raised in a fashion that has been forgotten since the Antonines, and these realities still press upon you, revealed and lost again with every few steps you walk within the limited circuit of the town.
-
-Rome slowly fell asleep. The sculpture lost its power; something barbaric returned. You may see that decline in capitals and masks still embedded in buildings of the fifth century. The sleep grew deeper. There came five hundred years of which so little is left in Europe that Paris has but one doubtful tower and London nothing. Arles still preserves its relics. When Charlemagne was dead and Christendom almost extinguished the barbarian and the Saracen alternately built, and broke against, a keep that still stands and that is still so strong that one might still defend it. It is unlit. It is a dungeon; a ponderous menace above the main street of the city, blind and enormous. It is the very time it comes from.
-
-When all that fear and anarchy of the mind had passed, and when it was discovered that the West still lived, a dawn broke. The medieval civilisation began to sprout vigorously through the eleventh and twelfth centuries, as an old tree sprouts before March is out. The memorials of that transition are common enough. We have them here in England in great quantity; we call them the “Norman” architecture. A peculiarly vivid relic of that springtime remains at Arles. It is the door of what was then the cathedral — the door of St. Trophimus. It perpetuates the beginning of the civilisation of the Middle Ages. And of that civilisation an accident which has all the force of a particular design has preserved here, attached to this same church, another complete type. The cloisters of this same Church of St. Trophimus are not only the Middle Ages caught and made eternal, they are also a progression of that great experiment from its youth to its sharp close.
-
-You come into these cloisters from a little side street and a neglected yard, which give you no hint of what you are going to see. You find yourself cut off at once and put separately by. Silence inhabits the place; you see nothing but the sky beyond the border of the low roofs. One old man there, who cannot read or write and is all but blind, will talk to you of the Rhone. Then as you go round the arches, “withershins” against the sun (in which way lucky progression has always been made in sacred places), there pass you one after the other the epochs of the Middle Ages. For each group of arches come later than the last in the order of sculpture, and the sculptors during those 300 years went withershins as should you.
-
-You have first the solemn purpose of the early work. This takes on neatness of detail, then fineness; a great maturity dignifies all the northern side. Upon the western you already see that spell beneath which the Middle Ages died. The mystery of the fifteenth century; none of its wickedness but all its final vitality is there. You see in fifty details the last attempt of our race to grasp and permanently to retain the beautiful.
-
-When the circuit is completed the series ends abruptly — as the medieval story itself ended.
-
-There is no way of writing or of telling history which could be so true as these visions are. Arles, at a corner of the great main road of the Empire, never so strong as to destroy nor so insignificant as to cease from building, catching the earliest Roman march into the north, the Christian advance, the full experience of the invasions; retaining in a vague legend the memory of St. Paul; drawing in, after the long trouble, the new life that followed the Crusades, can show such visions better, I think, than Rome herself can show them.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_13_the_griffin" data-title="Hills and the Sea — THE GRIFFIN" data-chapter="THE GRIFFIN" data-kind="story"></span>
-
-
-THE GRIFFIN
-
-A SPECIALIST TOLD me once in Ealing that no inn could compare with the Griffin, a Fenland inn. “It is painted green” he said, “and stands in the town of March. If you would enjoy the Griffin, you must ask your way to that town, and as you go ask also for the Griffin, for many who may not have heard of March will certainly have heard of the Griffin.”
-
-So I set out at once for the Fens and came at the very beginning of them to a great ditch, which barred all further progress. I wandered up and down the banks for an hour thinking of the inn, when I met a man who was sadder and more silent even than the vast level and lonely land in which he lived. I asked him how I should cross the great dyke. He shook his head, and said he did not know. I asked him if he had heard of the Griffin, but he said no. I broke away from him and went for miles along the bank eastward, seeing the rare trees of the marshes dwindling in the distance, and up against the horizon a distant spire, which I thought might be the Spire of March. For March and the Griffin were not twenty miles away. And still the great ditch stood between me and my pilgrimage.
-
-* * *
-
-These dykes of the Fens are accursed things: they are the separation of friends and lovers. Here is a man whose crony would come and sit by his fireside at evening and drink with him, a custom perhaps of twenty years’ standing, when there comes another man from another part armed with public power, and digs between them a trench too wide to leap and too soft to ford. The Fens are full of such tragedies.
-
-One may march up and down the banks all day without finding a boat, and as for bridges there are none, except, indeed, the bridges which the railway makes; for the railways have grown to be as powerful as the landlords or the brewers, and can go across this country where they choose. And here the Fens are typical, for it may be said that these three monopolies — the landlords, the railways, and the brewers — govern England.
-
-* * *
-
-But at last, at a place called Oxlode, I found a boat, and the news that just beyond lay another dyke. I asked where that could be crossed, but the ferryman of Oxlode did not know. He pointed two houses out, however, standing close together out of the plain, and said they were called “Purles’ Bridge,” and that I would do well to try there. But when I reached them I found that the water was between me and them and, what is more, that there was no bridge there and never had been one since the beginning of time. Of these jests the Fens are full.
-
-In half an hour a man came out of one of the houses and ferried me across in silence. I asked him also if he had heard of the Griffin. He laughed and shook his head as the first one had done, but he showed me a little way off the village of Monea, saying that the people of that place knew every house for a day’s walk around. So I trudged to Monea, which is a village on one of the old dry islands of the marsh; but no one at Monea knew. There was, none the less, one old man who told me he had heard the name, and his advice to me was to go to the cross roads and past them towards March, and then to ask again. So I went outwards to the cross roads, and from the cross roads outward again it seemed without end, a similar land repeating itself for ever. There was the same silence, the same completely even soil, the same deep little trenches, the same rare distant and regular rows of trees.
-
-* * *
-
-Since it was useless to continue thus for you — one yard was as good as twenty miles — and since you could know nothing more of these silences, even if I were to give you every inch of the road, I will pass at once to the moment in which I saw a baker’s cart catching me up at great speed. The man inside had an expression of irritable poverty. I did not promise him money, but gave it him. Then he took me aboard and rattled on, with me by his side.
-
-I had by this time a suspicion that the Griffin was a claustral thing and a mystery not to be blurted out. I knew that all the secrets of Hermes may be reached by careful and long-drawn words, and that the simplest of things will not be told one if one asks too precipitately; so I began to lay siege to his mind by the method of dialogue. The words were these: —
-
-MYSELF: This land wanted draining, didn’t it?
-
-THE OTHER MAN: Ah!
-
-MYSELF: It seems to be pretty well drained now.
-
-THE OTHER MAN: Ugh!
-
-MYSELF: I mean it seems dry enough.
-
-THE OTHER MAN: It was drownded only last winter.
-
-MYSELF: It looks to be good land.
-
-THE OTHER MAN: It’s lousy land; it’s worth nowt.
-
-MYSELF: Still, there are dark bits — black, you may say — and thereabouts it will be good.
-
-THE OTHER MAN: That’s where you’re wrong; the lighter it is the better it is ... ah! that’s where many of ’em go wrong. (Short silence.)
-
-MYSELF: (cheerfully): A sort of loam?
-
-THE OTHER MAN (calvinistically): Ugh! — sand!... (shaking his head). It blaws away with a blast of [[Wind|wind]]. (A longer silence.)
-
-MYSELF (as though full of interest): Then you set your drills to sow deep about here?
-
-THE OTHER MAN (with a gesture of fatigue): Shoal. (Here he sighed deeply.)
-
-After this we ceased to speak to each other for several miles. Then:
-
-MYSELF: Who owns the land about here?
-
-THE OTHER MAN: Some owns parts and some others.
-
-MYSELF (angrily pointing to an enormous field with a little new house in the middle): Who owns that?
-
-THE OTHER MAN (startled by my tone): A Frenchman. He grows onions.
-
-Now if you know little of England and of the temper of the English (I mean of 0.999 of the English people and not of the 0.001 with which you associate), if, I say, you know little or nothing of your fellow-countrymen, you may imagine that all this conversation was wasted. “It was not to the point,” you say. “You got no nearer the Griffin.” You are wrong. Such conversation is like the kneading of dough or the mixing of mortar; it mollifies and makes ready; it is three-quarters of the work; for if you will let your fellow-citizen curse you and grunt at you, and if you will but talk to him on matters which he knows far better than you, then you have him ready at the end.
-
-So had I this man, for I asked him point-blank at the end of all this: “What about the Griffin?” He looked at me for a moment almost with intelligence, and told me that he would hand me over in the next village to a man who was going through March. So he did, and the horse of this second man was even faster than that of the baker. The horses of the Fens are like no horses in the world for speed.
-
-* * *
-
-This horse was twenty-three years old, yet it went as fast as though all that tomfoolery men talk about progress were true, and as though things got better by the process of time. It went so fast that one might imagine it at forty-six winning many races, and at eighty standing beyond all comparison or competition; and because it went so fast I went hammering right through the town of March before I had time to learn its name or to know whither I was driving; it whirled me past the houses and out into the country beyond; only when I had pulled up two miles beyond did I know what I had done and did I realise that I had missed for ever one of those pleasures which, fleeting as they are, are all that is to be discovered in human life. It went so fast, that before I knew what had happened the Griffin had flashed by me and was gone.
-
-* * *
-
-Yet I will affirm with the tongue of [[Faith|faith]] that it is the noblest house of call in the Fens.
-
-* * *
-
-It is better to believe than to handle or to see. I will affirm with the tongue of [[Faith|faith]] that the Griffin is, as it were, the captain and chief of these plains, and has just managed to touch perfection in all the qualities that an inn should achieve. I am speaking not of what I know by the doubtful light of physical experience, but of what I have seen with the inward eye and felt by something that transcends gross taste and touch.
-
-Low rooms of my repose! Beams of comfort and great age; drowsy and inhabiting fires; ingle-nooks made for companionship. You also, beer much better, much more soft, than the beer of lesser towns; beans, bacon, and chicken cooked to the very limit of excellence; port drawn from barrels which the simple Portuguese had sent to Lynn over the cloud-shadowed sea, and honourable Lynn without admixture had sent upon a cart to you, port undefined, port homogeneous, entirely made of wine: you also beds! Wooden beds with curtains around them, feathers for sleeping on, and every decent thing which the accursed would attempt to destroy; candles (I trust) — and trust is more perfect than proof — bread made (if it be possible) out of English wheat; milk drawn most certainly from English cows, and butter worthy of the pastures of England all around. Oh, glory to the Fens, Griffin, it shall not be said that I have not enjoyed you!
-
-* * *
-
-There is a modern habit, I know, of gloom, and men without [[Faith|faith]] upon every side recount the things that they have not enjoyed. For my part I will yield to no such habit. I will consider that I have more perfectly tasted in the mind that which may have been denied to my mere body, and I will produce for myself and others a greater pleasure than any pleasure of the sense. I will do what the poets and the prophets have always done, and satisfy myself with vision, and (who knows?) perhaps by this the Griffin of the Idea has been made a better thing (if that were possible!) than the Griffin as it is — as it materially stands in this evil and uncertain world.
-
-So let the old horse go by and snatch me from this chance of joy: he has not taken everything in his flight, and there remains something in spite of time, which eats us all up.
-
-And yet ... what is that in me which makes me regret the Griffin, the real Griffin at which they would not let me stay? The Griffin painted green: the real rooms, the real fire ... the material beer? Alas for mortality! Something in me still clings to affections temporal and mundane. England, my desire, what have you not refused me!
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_16_the_cerdagne" data-title="Hills and the Sea — THE CERDAGNE" data-chapter="THE CERDAGNE" data-kind="story"></span>
-
-
-THE CERDAGNE
-
-THERE IS A part of Europe of which for the moment most people have not heard, but which in a few years everybody will know; so it is well worth telling before it is changed what it is like to-day. It is called the Cerdagne. It is a very broad valley, stretching out between hills whose height is so incredible — or at least, whose appearance of height is so incredible — that when they are properly painted no one will believe them to be true. Indeed, I know a man who painted them just as they are, and those who saw the picture said it was fantastic and out of Nature, like Turner’s drawings. But those who had been with him and had seen the place, said that somehow he had just missed the effect of height.
-
-It is remarkable that in any country, even if one does not know that country well, what is unusual to the country strikes the traveller at once. And so it is with the Cerdagne. For all the valleys of the Pyrenees except this one are built upon the same plan. They are deep gorges, narrowing in two places to gates or profound corridors, one of these places being near the crest and one near the plain; and down these valleys fall violent torrents, and in them there is only room for tiny villages or very little towns, squeezed in between the sheer surfaces of the rock or the steep forests.
-
-So it is with the Valley of Laruns, and with that of Meuléon, and with that of Luz, and with those of the two Bagnères, and with the Val d’Aran, and with the Val d’Esera, and with the very famous Valley of Andorra.
-
-With valleys so made the [[Mountains|mountains]] are indeed more awful than they might be in the Alps: but you never see them standing out and apart, and the mastering elevation of the Pyrenees is not apprehended until you come to the cirque or hollow at the end of each valley just underneath the main ridge; by that time you have climbed so far that you have halved the height of the barrier.
-
-But the Cerdagne, unlike all the other valleys, is as broad as half a county, and is full of towns and fields and men and mules and slow rivulets and corn; so, standing upon either side and looking to the other, you see all together and in the large its mountain boundaries. It is like the sight of the Grampians from beyond Strathmore, but very much more grand. Moreover, as no one has written sufficiently about it to prepare the traveller for what he is to see (and in attempting to do so here I am probably doing wrong, but a man must write down what he has seen), the Cerdagne breaks upon him quite unexpectedly, and his descent into that wealthy plain is the entry into a new world. He may have learnt the [[Mountains|mountains]] by heart, as we had, in many stumbling marches and many nights slept out beneath the trees, and many crossings of the main chain by those precipitous cols which make the ridge of the Pyrenees more like a paling than a mountain crest, but though he should know them thoroughly all the way from the Atlantic for two hundred miles, the Cerdagne will only appear to him the more astonishing. It renews in any man however familiar he may be with great [[Mountains|mountains]], the impressions of that day when he first saw the distant summits and thought them to be clouds.
-
-Apart from all this, the Cerdagne is full of a lively interest, because it preserves far better than any other Pyrenean valley those two Pyrenean things — the memory of European history and the intense local spirit of the Vals.
-
-The memory of European history is to be seen in the odd tricks which the frontier plays. It was laid down by the commissioners of Mazarin two hundred and fifty years ago, and instead of following the watershed (which would leave the Cerdagne all Spanish politically as it is Catalan by language and position) it crosses the valley from one side to another, leaving the top end of it and the sources of its rivers under French control.
-
-That endless debate as to whether race or government will most affect a people can here be tested, though hardly decided. The villages are Spanish, the hour of meals is Spanish, and the wine is Spanish wine. But the clocks keep time, and the streets are swept, and, oddest of all, the cooking is French cooking. The people are Spanish in that they are slow to serve you or to find you a mount or to show you the way, but they are French in that they are punctual in the hour at which they have promised to do these things; and they are Spanish in the shapes of their ricks and the nature of their implements, but French in the aspect of their fields. One might also discuss — it would be most profitable of all — where they are Spanish and where they are French in their observance of religion.
-
-This freak which the frontier plays in cutting so united a countryside into two by an imaginary line is further emphasised by an island of Spanish territory which has been left stranded, as it were, in the midst of the valley. It is called Llivia, and is about as large as a large English country parish, with a small country town in the middle.
-
-One comes across the fields from villages where the signs and villagers and the very look of the surface of the road are French; one suddenly notices Spanish soldiers, Spanish signs, and Spanish prices in the streets of the little place; one leaves it, and in five minutes one is in [[France]] again. It is connected with its own country by a neutral road, but it is an island of territory all the same, and the reason that it was so left isolated is very typical of the old regime, with its solemn legal pedantry, which we in England alone preserve in all Western Europe. For the treaty which marked the limits here ceded to the French “the valley and all its villages.” The Spaniards pleaded that Llivia was not a village but a town, and their plea was admitted.
-
-I began by saying that this wide basin of land, with its strong people and its isolated traditions, though it was so little known to-day, would soon be too well known. So it will be, and the reason is this, that the very low pass at one end of it will soon be crossed by a railway. It is the only low pass in the Pyrenees, and it is so gradual and even (upon the Spanish side) that the railway will everywhere be above ground. Within perhaps five years it will be for the Pyrenees what the Brenner is for the Alps, and when that is done any one who has read this may go and see for himself whether it is not true that from that plain at evening the frontier ridge of Andorra seems to be the highest thing in the world.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_17_carcassonne" data-title="Hills and the Sea — CARCASSONNE" data-chapter="CARCASSONNE" data-kind="story"></span>
-
-
-CARCASSONNE
-
-CARCASSONNE DIFFERS FROM other monumental towns in this: that it preserves exactly the aspect of many centuries up to a certain moment, and from that moment has “set,” and has suffered no further change. You see and touch, as you walk along its ramparts, all the generations from that crisis in the fifth century when the public power was finally despaired of — and after which each group of the Western Empire began to see to its own preservation — down to that last achievement of the thirteenth, when medieval civilisation had reached its full flower and was ready for the decline that followed the death of St. Louis and the extinction of the German phantasy of empire.
-
-No other town can present so vivid and clean-cut a fossil of the seven hundred years into which poured and melted all the dissolution of antiquity, and out of which was formed or chrystallised the highly specialised diversity of our modern Europe.
-
-In the fascination of extreme age many English sites are richer; Winchester and Canterbury may be quoted from among a hundred. In the superimposition of age upon age of human history, Arles and Rome are far more surprising. In historic continuity most European towns surpass it, from Paris, whose public justice, worship, and market have kept to the same site for quite sixteen centuries, to London, of which the city at least preserves upon three sides the Roman limit. But no town can of its nature give as does Carcassonne this overwhelming impression of survival or resurrection.
-
-* * *
-
-The attitude and position of Carcassonne enforce its character. Up above the river, but a little set back from the valley, right against the dawn as you come to it from Toulouse through the morning, stands a long, steep, and isolated rock, the whole summit of which from the sharp cliff on the north to that other on the south is doubled in height by what seems one vast wall — and more than twenty towers. Indeed, it is at such a time, in early morning, and best in winter when the frost defines and chisels every outline, that Carcassonne should be drawn. You then see it in a band of dark blue-grey, all even in texture, serrated and battlemented and towered, with the metallic shining of the dawn behind it.
-
-So to have seen it makes it very difficult to write of it or even to paint; what one wishes to do is rather to work it out in enamel upon a surface of bronze. This rock, wholly covered with the works of the city, stands looking at the Pyrenees and holding the only level valley between the Mediterranean and the Garonne, and even if one had read nothing concerning it one would understand why it has filled all the legends of the return of armies from Spain, why Victor Hugo could not rest from the memory of it, and why it is so strongly woven in with the story of Charlemagne.
-
-There is another and better reason for the quality of Carcassonne, and that is the act, to which I can recall no perfect parallel in Christian history, by which St. Louis turned what had been a living town into a mere stronghold. Every inhabitant of Carcassonne was transferred, not to suburbs, but right beyond the river, a mile and more away, to the site of that delightful town which is the Carcassonne of maps and railways, the place where the seventeenth century meets you in graceful ornaments, and where is, to my certain knowledge, the best inn south of parallel 45. St. Louis turned the rock into a mere stronghold, strengthened it, built new towers, and curtained them into that unsurpassable masonry of the central Middle Ages which you may yet admire in Aigues-Mortes and in Carnarvon.
-
-This political act, the removal of a whole city, may have been accomplished in many other places; it is certainly recorded of many: but, for the moment at least, I can remember none except Carcassonne in which its consequences have remained. To this many causes have contributed, but chiefly this, that the new town was transferred to the open plain from the trammels of a narrow plateau, just at the moment when all the towns of Western Europe were growing and breaking their bonds; just after the principal cities of north-western Europe had got their charters, and when Paris (the typical municipality of that age as of our own) was trebling its area and its population.
-
-The transference of the population once accomplished, the rock and towers of Carcassonne ceased to change and to grow. Humanity was gone. The fortress was still of great value in war; the Black Prince attempted its destruction, and it is only within living memory that it ceased to be set down on maps (and in Government offices!) as a fortified place: but the necessity for immediate defence, and the labour which would have remodelled it, had disappeared. There had disappeared also that eager and destructive activity which accompanies any permanent gathering of French families. The new town on the plain changed perpetually, and is changing still. It has lost almost everything of the Middle Ages; it carries, by a sort of momentum, a flavour of Louis XIV, but the masons are at it as they are everywhere, from the Channel to the Mediterranean; for to pull down and rebuild is the permanent recreation of the French. The rock remains. It is put in order whenever a stone falls out of place — no one of weight has talked nonsense here against restoration, for the sense of the past is too strong — but though it is minutely and continually repaired, Old Carcassonne does not change. There is no other set of walls in Europe of which this is true.
-
-* * *
-
-Walking round the circuit of these walls and watching from their height the long line of the [[Mountains|mountains]], one is first held by that modern subject, the landscape, or that still more modern fascination of great hills. Next one feels what the Middle Ages designed of mass and weight and height, and wonders by what accident of the mind they so succeeded in suggesting infinity: one remembers Beauvais, which is infinitely high at evening, and the tower of Portrut, which seems bigger than any hill.
-
-But when these commoner emotions are passed, one comes upon a very different thing. A little tower there, jutting out perilously from the wall, shows three courses of a small red brick set in a mortar-like stone. When I saw this kind of building I went close up and touched it with my hand. It was Roman. I knew the signal well. I had seen that brick, and picked it loose from an Arab stable on the edge of the Sahara, and I had seen it jutting through moss on the high moors of Northumberland. I know a man who reverently brought home to Sussex such another, which he had found unbroken far beyond Damascus upon the Syrian sand.
-
-It is easy to speak of the Empire and to say that it established its order from the Tyne to the Euphrates; but when one has travelled alone and on foot up and down the world and seen its vastness and its complexity, and yet everywhere the unity even of bricks in their courses, then one begins to understand the name of Rome.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_18_lynn" data-title="Hills and the Sea — LYNN" data-chapter="LYNN" data-kind="story"></span>
-
-
-LYNN
-
-EVERY MAN THAT lands in Lynn feels all through him the antiquity and the call of the town; but especially if he comes, as I came in with another man in springtime, from the miles and miles of emptiness and miles of bending grass and the shouting of the [[Wind|wind]]. After that morning, in which one had been a little point on an immense plane, with the gale not only above one, as it commonly is, but all around one as it is at sea; and after having steeped one’s mind in the peculiar loneliness which haunts a stretch of ill-defined and wasted shore, the narrow, varied, and unordered streets of the port enhance the creations of man and emphasise his presence.
-
-Words so few are necessarily obscure. Let me expand them. I mean that the unexpected turning of the ways in such a port is perpetually revealing something new; that the little spaces frame, as it were, each unexpected sight: thus at the end of a street one will catch a patch of the Fens beyond the river, a great moving sail, a cloud, or the sculptured corner of an excellent house.
-
-The same history also that permitted continual encroachment upon the public thoroughfares and that built up a gradual High Street upon the line of some cow-track leading from the fields to the ferry, the spirit that everywhere permitted the powerful or the cunning to withstand authority — that history (which is the history of all our little English towns) has endowed Lynn with an endless diversity.
-
-It is not only that the separate things in such towns are delightful, nor only that one comes upon them suddenly, but also that these separate things are so many. They have characters as men have. There is nothing of that repetition which must accompany the love of order and the presence of strong laws. The similar insistent forms which go with a strong civilisation, as they give it majesty, so they give it also gloom, and a heavy feeling of finality: these are quite lacking here in England, where the poor have for so long submitted to the domination of the rich, and the rich have dreaded and refused a central government. Everything that goes with the power of individuals has added peculiarity and meaning to all the stones of Lynn. Moreover, a quality whose absence all men now deplore was once higher in England than anywhere else, save, perhaps, in the northern Italian hills. I mean ownership, and what comes from ownership — the love of home.
-
-You can see the past effect of ownership and individuality in Lynn as clearly as you can catch affection or menace in a human voice. The outward expression is most manifest, and to pass in and out along the lanes in front of the old houses inspires in one precisely those emotions which are aroused by a human crowd.
-
-All the roofs of Lynn and all its pavements are worthy (as though they were living beings) of individual names.
-
-Along the river shore, from the race of the ebb that had so nearly drowned me many years before, I watched the walls that mark the edge of the town against the Ouse, and especially that group towards which the ferry-boat was struggling against the eddy and tumble of the tide.
-
-They were walls of every age, not high, brick of a dozen harmonious tones, with the accidents, corners, and breaches of perhaps seven hundred years. Beyond, to the left, down the river, stood the masts in the new docks that were built to preserve the trade of this difficult port. Up-river, great new works of I know not what kind stood like a bastion against the plain; and in between ran these oldest bits of Lynn, somnolescent and refreshing — permanent.
-
-The lanes up from the Ouse when I landed I found to be of a slow and natural growth, with that slight bend to them that comes, I believe, from the drying of fishing-nets. For it is said that courts of this kind grew up in our sea-towns all round our eastern and the southern coast in such a manner. It happened thus.
-
-The town would begin upon the highest of the bank, for it was flatter for building, drier and easier to defend than that part next to the water. Down from the town to the shore the fishermen would lay out their nets to dry. How nets look when they are so laid, their narrowness and the curve they take, everybody knows. Then on the spaces between the nets shanties would be built, or old boats turned upside down for shelter, so that the curing of fish and the boiling of tar and the serving and parcelling of ropes could be done under cover. Then as the number of people grew, the squatters’ land got value, and houses were raised (you will find many small freeholds in such rows to this day), but the lines of the net remained in the alley-ways between the houses.
-
-All this I was once told by an old man who helped me to take my boat down Breydon. He wore trousers of a brick red, and the stuff of them as thick as boards, and had on also a very thick jersey and a cap of fur. He was shaved upon his lips and chin, but all round the rest of his face was a beard. He smoked a tiny pipe, quite black, and upon matters within his own experience he was a great liar; but upon matters of tradition I was willing to believe him.
-
-Within the town, when I had gained it from that lane which has been the ferry-lane, I suppose, since the ferry began, age and distinction were everywhere.
-
-Where else, thought I, in England could you say that nine years would make no change? Whether, indeed, the Globe had that same wine of the nineties I could not tell, for the hour was not congenial to wine; but if it has some store of its Burgundy left from those days it must be better still by now, for Burgundy wine takes nine years to mature, for nine years remains in the plenitude of its powers, and for nine years more declines into an honourable age; and this is also true of claret, but in claret it goes by sevens.
-
-* * *
-
-The open square of the town, which one looks at from the Globe, gives one a mingled pleasure of reminiscence and discovery. It breaks on one abruptly. It is as wide as the pasture field, and all the houses are ample and largely founded. Indeed, throughout this country, elbow-room — the sense that there is space enough and to spare in such flats and under an open sky — has filled the minds of builders. You may see it in all the inland towns of the Fens; and one found it again here upon the further bank, upon the edge of the Fens; for though Lynn is just off the Fens, yet it looks upon their horizon and their sky, and belongs to them in spirit.
-
-In this large and comfortable square a very steadfast and most considerable English bank is to be discovered. It is of honest brown brick! its architecture is of the plainest; its appearance is such that its credit could never fail, and that the house alone by its presence could conduct a dignified business for ever. The rooms in it are so many and so great that the owners of such a bank (having become princes by its success) could inhabit them with a majesty worthy of their new title. But who lives above his shop since Richardson died? And did old Richardson? Lord knows!... Anyhow, the bank is glorious, and it is but one of the fifty houses that I saw in Lynn.
-
-Thus, in the same street as the Globe, was a façade of stone. If it was Georgian, it was very early Georgian, for it was relieved with ornaments of a delicate and accurate sort, and the proportions were exactly satisfying to the eye that looked on it. The stone also was of that kind (Portland stone, I think) which goes black and white with age, and which is better suited than any other to the English climate.
-
-In another house near the church I saw a roof that might have been a roof for a town. It covered the living part and the stables, and the outhouse and the brewhouse, and the barns, and for all I know the pig-pens and the pigeons’ as well. It was a benediction of a roof — a roof traditional, a roof patriarchal, a roof customary, a roof of permanence and unity, a roof that physically sheltered and spiritually sustained, a roof majestic, a roof eternal. In a word, it was a roof catholic.
-
-And what, thought I, is paid yearly in this town for such a roof as that? I do not know; but I know of another roof at Goudhurst, in Kent, which would have cost me less than £100 a year, only I could not get it for love or money.
-
-Then is also in Lynn a Custom House not very English, but very beautiful. The faces carved upon it were so vivid that I could not but believe them to have been carved in the Netherlands, and from this Custom House looks down the pinched, unhappy face of that narrow gentleman whom the great families destroyed — James II.
-
-There is also in Lynn what I did not know was to be seen out of Sussex — a Tudor building of chipped flints, and on it the mouldering arms of Elizabeth.
-
-The last Gothic of this Bishop’s borough which the King seized from the Church clings to chance houses in little carven masks and occasional ogives: there is everywhere a feast for whatever in the mind is curious, searching, and reverent, and over the town, as over all the failing ports of our silting eastern seaboard, hangs the air of a great past time, the influence of the Baltic and the Lowlands.
-
-* * *
-
-For these ancient places do not change, they permit themselves to stand apart and to repose and — by paying that price — almost alone of all things in England they preserve some historic continuity, and satisfy the memories in one’s blood.
-
-* * *
-
-So having come round to the Ouse again, and to the edge of the Fens at Lynn, I went off at random whither next it pleased me to go.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_20_the_looe_stream" data-title="Hills and the Sea — THE LOOE STREAM" data-chapter="THE LOOE STREAM" data-kind="story"></span>
-
-
-THE LOOE STREAM
-
-OF THE COMPLEXITY of the sea, and of how it is manifold, and of how it mixes up with a man, and may broaden or perfect him, it would be very tempting to write; but if one once began on this, one would be immeshed and drowned in the metaphysic, which never yet did good to man nor beast. For no one can eat or drink the metaphysic, or take any sustenance out of it, and it has no movement or colour, and it does not give one joy or sorrow; one cannot paint it or hear it, and it is too thin to swim about in. Leaving, then, all these general things, though they haunt me and tempt me, at least I can deal little by little and picture by picture with that sea which is perpetually in my mind, and let those who will draw what philosophies they choose. And the first thing I would like to describe is that of a place called the Looe Stream, through which in a boat only the other day I sailed for the first time, noticing many things. When St. Wilfrid went through those bare heaths and coppices, which were called the forest of Anderida, and which lay all along under the Surrey Downs, and through which there was a long, deserted Roman road, and on this road a number of little brutish farms and settlements (for this was twelve hundred years ago), he came out into the open under the South Downs, and crossed my hills and came to the sea plain, and there he found a kind of Englishman more savage than the rest, though Heaven knows there were none of them particularly refined or gay. From these Englishmen the noble people of Sussex are descended.
-
-Already the rest of England had been Christian a hundred years when St. Wilfrid came down into the sea plain, and found, to his astonishment, this sparse and ignorant tribe. They were living in the ruins of the Roman palaces; they were too stupid to be able to use any one of the Roman things they had destroyed. They had kept, perhaps, some few of the Roman women, certainly all the Roman slaves. They had, therefore, vague memories of how the Romans tilled the land.
-
-But those memories were getting worse and worse, for it was nearly two hundred years since the ships of Aella had sailed into Shoreham (which showed him to be a man of immense determination, for it is a most difficult harbour, and there were then no piers and lights) — it was nearly two hundred years, and there was only the least little glimmering twilight left of the old day. These barbarians were going utterly to pieces, as barbarians ever will when they are cut off from the life and splendour of the south. They had become so cretinous and idiotic, that when St. Wilfrid came wandering among them they did not know how to get food. There was a famine, and as their miserable religion, such as it was (probably it was very like these little twopenny-halfpenny modern heresies of their cousins, the German pessimists) — their religion, I say, not giving them the jolly energy which all decent Western religion gives a man, they being also by the wrath of God deprived of the use of wine (though tuns upon tuns of it were waiting for them over the sea a little way off, but probably they thought their horizon was the end of the world) — their religion, I say, being of this nature, they had determined, under the pressure of that famine which drove them so hard, to put an end to themselves, and St. Wilfrid saw them tying themselves together in bands (which shows that they knew at least how to make rope) and jumping off the cliffs into the sea. This practice he determined to oppose.
-
-He went to their King — who lived in Chichester, I suppose, or possibly at Bramber — and asked him why the people were going on in this fashion, who said to him: “It is because of the famine.”
-
-St. Wilfrid, shrugging his shoulders, said: “Why do they not eat fish?”
-
-“Because,” said the King, “fish, swimming about in the water, are almost impossible to catch. We have tried it in our hunger a hundred times, but even when we had the good luck to grasp one of them, the slippery thing would glide from our fingers.”
-
-St. Wilfrid then in some contempt said again:
-
-“Why do you not make nets?”
-
-And he explained the use of nets to the whole Court, preaching, as it were, a sermon upon nets to them, and craftily introducing St. Peter and that great net which they hang outside his tomb in Rome upon his feast day — which is the 29th of June. The King and his Court made a net and threw it into the sea, and brought out a great mass of fish. They were so pleased that they told St. Wilfrid they would do anything he asked. He baptised them and they made him their first bishop; and he took up his residence in Selsey, and since then the people of Sussex have gone steadily forward, increasing in every good thing, until they are now by far the first and most noble of all the people in the world.
-
-There is I know not what in history, or in the way in which it is taught, which makes people imagine that it is something separate from the life they are living, and because of this modern error, you may very well be wondering what on earth this true story of the foundation of our country has to do with the Looe Stream. It has everything to do with it. The sea, being governed by a pagan god, made war at once, and began eating up all those fields which had specially been consecrated to the Church, civilisation, common sense, and human happiness. It is still doing so, and I know an old man who can remember a forty-acre field all along by Clymping having been eaten up by the sea; and out along past Rustington there is, about a quarter of a mile from the shore, a rock, called the Church Rock, the remains of a church which quite a little time ago people used for all the ordinary purposes of a church.
-
-The sea then began to eat up Selsey. Before the Conquest — though I cannot remember exactly when — the whole town had gone, and they had to remove the cathedral to Chichester. In Henry VIII’s time there was still a park left out of the old estates, a park with trees in it; but this also the sea has eaten up; and here it is that I come to the Looe Stream. The Looe Stream is a little dell that used to run through the park, and which to-day, — right out at sea, furnishes the only gate by which ships can pass through the great maze of banks and rocks which go right out to sea from Selsey Bill, miles and miles, and are called the Owers.
-
-On the chart that district is still called “The Park,” and at very low tides stumps of the old trees can be seen; and for myself I believe, though I don’t think it can be proved, that in among the masses of sand and shingle which go together to make the confused dangers of the Owers, you would find the walls of Roman palaces, and heads of bronze and marble, and fragments of mosaic and coins of gold.
-
-The tide coming up from the Channel finds, rising straight out of the bottom of the sea, the shelf of this old land, and it has no avenue by which to pour through save this Looe Stream, which therefore bubbles and runs like a mill-race, though it is in the middle of the sea.
-
-If you did not know what was underneath you, you could not understand why this river should run separate from the sea all round, but when you have noticed the depths on the chart, you see a kind of picture in your mind: the wall of that old mass of land standing feet above the floor of the Channel, and the top of what was once its fields and its villas, and its great church almost awash at low tides, and through it a cleft, which was, I say, a dell in the old park, but is now that Looe Stream buoyed up on either side, and making a river by itself running in the sea.
-
-Sailing over it, and remembering all these things at evening, I got out of the boil and tumble into deep water. It got darker, and the light on the Nab [[Ship|ship]] showed clearly a long way off, and purple against the west stood the solemn height of the island. I set a course for this light, being alone at the tiller, while my two companions slept down below. When the night was full the little variable air freshened into a breeze from the south-east; it grew stronger and stronger, and lifted little hearty following seas, and blowing on my quarter drove me quickly to the west, whither I was bound. The night was very warm and very silent, although little patches of foam murmured perpetually, and though the [[Wind|wind]] could be heard lightly in the weather shrouds.
-
-The star Jupiter shone brightly just above my wake, and over Selsey Bill, through a flat band of mist, the red moon rose slowly, enormous.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_21_roncesvalles" data-title="Hills and the Sea — RONCESVALLES" data-chapter="RONCESVALLES" data-kind="story"></span>
-
-
-RONCESVALLES
-
-SITTING ONE DAY in Pampeluna, which occupies the plain just below the southern and Spanish escarpment of the Pyrenees, I and another remembered with an equal desire that we had all our lives desired to see Roncesvalles and the place where Roland died. This town (we said) was that which Charlemagne destroyed upon his march to the Pass, and I, for my part, desired here, as in every other part of Europe where I had been able to find his footsteps, to follow them, and so to re-create his time.
-
-The road leads slantwise through the upper valleys of Navarre, crossing by passes the various spurs of the [[Mountains|mountains]], but each pass higher than the last and less frequented, for each is nearer the main range. As you leave Pampeluna the road grows more and more deserted, and the country through which it cuts more wild. The advantages of wealth which are conferred by the neighbourhood of the capital of Navarre are rapidly lost as one proceeds; the houses grow rarer, the shrines more ruinous and more aged, until one comes at last upon the bleak valley which introduces the final approach to Roncesvalles.
-
-The wealth and order everywhere associated with the Basque blood have wholly disappeared. This people is not receding — it holds its own, as it deserves to do; but as there are new fields which it has occupied within the present century upon the more western hills, so there are others to the east, and this valley among them, from whence it has disappeared. The Basque names remain, but the people are no longer of the Basque type, and the tongue is forgotten.
-
-So gradual is the ascent and so continual the little cols which have to be surmounted, that a man does not notice how much upward he is being led towards the crest of the ridge. And when he comes at last upon the grove from which he sees the plateau of Roncesvalles spread before him, he wonders that the chain of the Pyrenees (which here lie out along in cliffs like sharp sunward walls, stretching in a strict perspective to the distant horizon) should seem so low. The reason that this white wall of cliffs seems so low is that the traveller is standing upon the last of a series of great steps which have led him up towards the frontier, much as the prairie leads one up towards the Rockies in Colorado. When he has passed through the very pleasant wood which lies directly beneath the cliffs, and reaches the little village of Roncesvalles itself, he wonders still more that so famous a pass should be so small a thing. The pass from this side is so broad, with so low a saddle of grass, that it seems more like the crossing of the Sussex Downs than the crossing of an awful range of [[Mountains|mountains]]. It is a rounded gap, up to which there lifts a pretty little wooded combe; and no one could be certain, during the half-hour spent in climbing such a petty summit, that he was, in so climbing, conquering Los Altos, the high Pyrenees.
-
-But when the summit is reached, then the meaning of the “Imus Pyrenaeus,” and the place that passage has taken in history, is comprehended in a moment. One sees at what a height one was in that plain of Roncesvalles, and one sees how the main range dominates the world; for down below one an enormous cleft into the stuff of the [[Mountains|mountains]] falls suddenly and almost sheer, and you see unexpectedly beneath you the approach from [[France]] into Spain. The gulf at its narrowest is tremendous; but, more than that, when the floor of the valley is reached, that floor itself slopes away down and down by runs and by cascades towards the very distant plains of the north, upon which the funnel debouches. Moreover, it was up this gulf, and from the north, that the armies came; it was this vision of a precipice that seized them when their leaders had determined to invade the Peninsula. This also was what, for so many generations, so many wanderers must have seen who came to [[Wonder|wonder]] at the place where the rearguard of Charlemagne had been destroyed.
-
-The whole of the slope is covered with an ancient wood, and this wood is so steep that it would be impossible or dangerous to venture down it. The old Carolingian road skirts the mountain-side with difficulty, clinging well up upon its flank; the great modern road, which is excellent and made for artillery, has to go even nearer the summit; below them there falls away a slant or edge to which the huge beech trees cling almost parallel to the steep earth, running their perpendicular lines so high and close against the hill that they look like pines. As you peer down in among the trunks, you see the darkness increasing until the eye can penetrate no more, and dead, enormous trees that have lived their centuries, and have fallen perhaps for decades, lie across the aisles of the wood, propped up against their living fellows; for, by one of those political accidents which are common throughout the whole length of the Pyrenees, both sides of the watershed belong to Spain, so that no Government or modern energy has come to disturb the silence. One would swear that the last to order this wood were the Romans.
-
-I had thought to find so famous a valley peopled, or at least visited. I found it utterly alone, and even free from travellers, as though the wealthier part of Europe had forgotten the most famous of Christian epics. I saw no motor-cars, nor any women — only at last, in the very depths of the valley, a boy cutting grass in a tiny patch of open land. And it was hereabouts, so far as I could make out, that the Peers were killed.
-
-The song, of course, makes them fall on the far side of the summit, upon the fields of Roncesvalles, with the sun setting right at them along the hills. And that is as it should be, for it is evident that (in a poem) the hero fighting among hills should die upon the enemy’s side of the hills. But that is not the place where Roland really died. The place where he really died, he and Oliver and Turpin and all the others, was here in the very recess of the Northern Valley. It was here only that rocks could have been rolled down upon an army, and here is that narrow, strangling gorge where the line of march could most easily have been cut in two by the fury of the mountaineers. Also Eginhard says very clearly that they had already passed the hills and seen [[France]], and that is final. It was from these cliffs, then, that such an echo was made by the horn of Roland, and it was down that funnel of a valley that the noise grew until it filled Christendom; and it was up that gorge that there came, as it says in the song —
-
-The host in a tide returning:
-
-Charles the King and his Barony.
-
-This was the place. And any man who may yet believe (I know such a discussion is pedantry) — any man who may yet believe the song of Roland to have been a Northern legend had better come to this place and drink the mountains in. For whoever to-day
-
-High are the hills and huge and dim with cloud,
-
-Down in the deeps, the living streams are loud,
-
-had certainly himself stood in the silence and majesty of this valley.
-
-It was already nearly dark when we two men had clambered down to that place, and up between the walls of the valley we had already seen the early stars. We pushed on to the French frontier in an eager appetite for cleanliness and human food.
-
-The last Spanish town is called Val Carlos, as it ought to be, considering that Charlemagne himself had once come roaring by. When we reached it in the darkness we had completed a forced march of forty-two miles, going light, it is true, and carrying nothing each of us but a gourd of wine and a sack, but we were very tired. There, at the goal of our effort, one faint sign of Government and of men at last appeared. It was in character with all the rest. One might not cross the frontier upon the road without a written leave. The written leave was given us, and in half an hour Spain was free.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_22_the_slant_off_the_land" data-title="Hills and the Sea — THE SLANT OFF THE LAND" data-chapter="THE SLANT OFF THE LAND" data-kind="story"></span>
-
-
-THE SLANT OFF THE LAND
-
-WE LIVE A very little time. Before we have reached the middle of our time perhaps, but not long before, we discover the magnitude of our inheritance. Consider England. How many men, I should like to know, have discovered before thirty what treasures they may work in her air? She magnifies us inwards and outwards; her fields can lead the mind down towards the subtle beginning of things; the tiny irridescence of insects; the play of light upon the facets of a blade of grass. Her skies can lead the mind up infinitely into regions where it seems to expand and fill, no matter what immensities.
-
-It was the [[Wind|wind]] off the land that made me think of all this possession in which I am to enjoy so short a usufruct. I sat in my boat holding that tiller of mine, which is not over firm, and is but a rough bar of iron. There was no breeze in the air, and the little deep vessel swung slightly to the breathing of the sea. Her great mainsail and her baloon-jib came over lazily as she swung, and filled themselves with the cheating semblance of a [[Wind|wind]]. The boom creaked in the goose-neck, and at every roll the slack of the mainsheet tautened with a kind of little thud which thrilled the deck behind me. I saw under the curve of my headsail the long and hazy line, which is the only frontier of England; the plain that rather marries with than defies her peculiar seas. For it was in the Channel, and not ten miles from the coastline of my own country, that these thoughts rose in me during the calm at the end of winter, and the boat was drifting down more swiftly than I knew upon the ebb of the outer tide. Far off to the south sunlight played upon the water, and was gone again. The great ships did not pass near me, and so I sat under a hazy sky restraining the slight vibration of the helm and waiting for the [[Wind|wind]].
-
-In whatever place a man may be the spring will come to him. I have heard of men in prison who would note the day when its influence passed through the narrow window that was their only communion with their kind. It comes even to men in cities; men of the stupid political sort, who think in maps and whose interest is in the addition of numbers. Indeed, I have heard such men in London itself expressing pleasure when a south-west gale came up in April from over the pines of Hampshire and of Surrey and mixed the Atlantic with the air of the fields. To me this year the spring came suddenly, like a voice speaking, though a low one — the voice of a person subtle, remembered, little known, and always desired. For a wind blew off the land.
-
-The surface of the sea northward between me and the coast of Sussex had been for so many hours elastic, smooth, and dull, that I had come to forget the indications of a change. But here and there, a long way off, little lines began to show, which were indeed broad spaces of ruffled water, seen edgeways from the low free-board of my boat. These joined and made a surface all the way out towards me, but a surface not yet revealed for what it was, nor showing the movement and life and grace of waves. For no light shone upon it, and it was not yet near enough to be distinguished. It grew rapidly, but the haze and silence had put me into so dreamy a state that I had forgotten the ordinary anxiety and irritation of a calm, nor had I at the moment that eager expectancy of movement which should accompany the sight of that dark line upon the sea.
-
-Other things possessed me, the memory of home and of the Downs. There went before this breeze, as it were, attendant servants, outriders who brought with them the scent of those first flowers in the North Wood or beyond Gumber Corner, and the fragrance of our grass, the savour which the sheep know at least, however much the visitors to my dear home ignore it. A deeper sympathy even than that of the senses came with those messengers and brought me the beeches and the yew trees also, although I was so far out at sea, for the loneliness of this great water recalled the loneliness of the woods, and both those solitudes — the real and the imaginary — mixed in my mind together as they might in the mind of a sleeping man.
-
-Before this wind as it approached, the sky also cleared: not of clouds, for there were none, but of that impalpable and warm mist which seems to us, who know the south country and the Channel, to be so often part of the sky, and to shroud without obscuring the empty distances of our seas. There was a hard clear light to the north; and even over the Downs, low as they were upon the horizon, there was a sharp belt of blue. I saw the sun strike the white walls of Lady Newburgh’s Folly, and I saw, what had hitherto been all confused, the long line of the Arundel Woods contrasting with the plain. Then the boom went over to port, the jib filled, I felt the helm pulling steadily for the first time in so many hours, and the boat responded. The wind was on me; and though it was from the north, that wind was warm, for it came from the sheltered hills.
-
-Then, indeed, I quite forgot those first few moments, which had so little to do with the art of sailing, and which were perhaps unworthy of the full life that goes with the governing of sails and rudders. For one thing, I was no longer alone; a man is never alone with the wind — and the boat made three. There was work to be done in pressing against the tiller and in bringing her up to meet the seas, small though they were, for my boat was also small. Life came into everything; the Channel leapt and (because the wind was across the tide) the little waves broke in small white tips: in their movement and my own, in the dance of the boat and the noise of the shrouds, in the curtsy of the long sprit that caught the ridges of foam and lifted them in spray, even in the free streaming of that loose untidy end of line which played in the air from the leach, as young things play from wantonness, in the rush of the water, just up to and sometimes through the lee scuppers, and in the humming tautness of the sheet, in everything about me there was exuberance and joy. The sun upon the twenty million faces of the waves made, music rather than laughter, and the energy which this first warmth of the year had spread all over the Channel and shore, while it made life one, seemed also to make it innumerable. We were now not only three, the wind and my boat and I; we were all part (and masters for the moment) of a great throng. I knew them all by their names, which I had learnt a long time ago, and had sung of them in the North Sea. I have often written them down. I will not be ashamed to repeat them here, for good things never grow old. There was the Wave that brings good tidings, and the Wave that breaks on the shore, and the Wave of the island, and the Wave that helps, and the Wave that lifts forrard, the kindly Wave and the youngest Wave, and Amathea the Wave with bright hair, all the waves that come up round Thetis in her train when she rises from the side of the old man, her father, where he sits on his throne in the depth of the sea; when she comes up cleaving the water and appears to her sons in the upper world.
-
-The Wight showed clear before me. I was certain with the tide of making the Horse Buoy and Spithead while it was yet afternoon, and before the plenitude of that light and movement should have left me. I settled down to so much and such exalted delight as to a settled task. I lit my pipe for a further companion (since it was good to add even to so many). I kept my right shoulder only against the tiller, for the pressure was now steady and sound. I felt the wind grow heavy and equable, and I caught over my shoulder the merry wake of this very honest moving home of mine as she breasted and hissed through the sea.
-
-Here, then, was the proper end of a long cruise. It was springtime, and the season for work on land. I had been told so by the heartening wind. And as I went still westward, remembering the duties of the land, the sails still held full, the sheets and the weather shrouds still stood taut and straining, and the little clatter of the broken water spoke along the lee rail. And so the [[Ship|ship]] sailed on.
-
-[Greek: ‘En d thnemos prêsen mxson istion, thmphi de kuma]
-
-[Greek: Sseirê porphureon megal’ iache, nêos iousês.]
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_23_the_canigou" data-title="Hills and the Sea — THE CANIGOU" data-chapter="THE CANIGOU" data-kind="story"></span>
-
-
-THE CANIGOU
-
-A MAN MIGHT discuss with himself what it was that made certain great sights of the world famous, and what it is that keeps others hidden. This would be especially interesting in the case of [[Mountains|mountains]]. For there is no doubt that there is a modern attraction in [[Mountains|mountains]] which may not endure, but which is almost as intense in our generation as it was in that of our fathers. The emotion produced by great height and by the something unique and inspiring which distinguishes a mountain from a hill has bitten deeply into the modern mind. Yet there are some of the most astounding visions of this sort in Europe which are, and will probably remain, unemphasised for travellers.
-
-The vision of the Berenese Oberland when it breaks upon one from the crest of Jura has been impressed — upon English people, at least — in two fine passages: the one written by Ruskin, the other, if I remember right, in a book called A Cruise upon Wheels. The French have, I believe, no classical presentment of that view, nor perhaps have the Germans. The line of the Alps as one sees it upon very clear days from the last of the Apennines — this, I think, has never been properly praised in any modern book — not even an Italian. The great red mountain-face which St. Bruno called “the desert” I do not remember to have read of anywhere nor to have heard described; for it stands above an unfrequented valley, and the regular approach to the Chartreuse is from the other side. Yet it is something which remains as vivid to those few who have suddenly caught sight of it from a turn of the Old Lyons road as though they had seen it in a fantastic dream. That astonishing circle of cliffs which surrounds Bourg d’Oisans, though it has been written of now and then, has not, so to speak, taken root in people’s imagination.
-
-Even in this country there are twenty great effects which, though they have, of course, suffered record, are still secure from general praise; for instance, that awful trench which opens under your feet, as it were, up north and beyond Plynlimmon. It is a valley as unexpected and as incredible in its steepness and complete isolation as any one may see in the drawings of the romantic generation of English water-colour, yet perhaps no one has drawn it; there is certainly no familiar picture of it anywhere.
-
-When one comes to think of it, the reason of such exceptions to fame as are these is usually that such and such an unknown but great sight lies off the few general roads of travel. It is a vulgar reason, but the true one. Unless men go to a mountain to climb because it is difficult to climb, or unless it often appears before them along one of their main journeys, it will remain quiet. Among such masses is the Canigou.
-
-Here is a mountain which may be compared to Etna. It is lower, indeed, in the proportion of nine to eleven; but when great isolated heights of this sort are in question, such a difference hardly counts. It can be seen, as Etna can, from the sea, though it stands a good deal more inland; it dominates, as Etna does, a very famous plain, but modern travel does nothing to bring it into the general consciousness of the world. If Spain were wealthy, or if the Spanish harbours naturally led to any place which all the rich desired to visit, the name of the Canigou would begin to grow. Where the railway skirts the sea from Narbonne to Barcelona, it is your permanent companion for a good hour in the express, and for any time you like in the ordinary trains. During at least three months in the year, its isolation is peculiarly relieved and marked by the snow, which lies above an even line all along its vast bulk. It is also one of those [[Mountains|mountains]] in which one can recognise the curious regularity of the “belts” which text-books talk of. There are great forests at the base of it, just above the hot Mediterranean plain; the beech comes higher than the olive, the pines last of all; after them the pastures and the rocks. In the end of February a man climbs up from a spring that is as southern as Africa to a winter that is as northern as the highlands of Scotland, and all the while he feels that he is climbing nothing confused or vague, but one individual peak which is the genius of the whole countryside.
-
-This countryside is the Roussillon, a lordship as united as the Cerdagne; it speaks one language, shows one type of face, and is approached by but a small group of roads, and each road passes through a mountain gap. For centuries it went with Barcelona. It needed the Revolution to make it French, and it is full of Spanish memories to this day.
-
-For the Roussillon depends upon the Canigou just as the Bay of Syracuse depends upon Etna, or that of Naples upon Vesuvius, and its familiar presence has sunk into the patriotism of the Roussillon people, as those more famous mountains have into the art and legends of their neighbours. There are I know not how many monographs upon the Canigou, but not one has been translated, I would wager, into any foreign language.
-
-Yet it is the mountain which very many men who have hardly heard its name have been looking for all their lives. It gives as good camping as is to be had in the whole of the Pyrenees. I believe there is fishing, and perhaps one can shoot. Properly speaking, there is no climbing in it; at least, one can walk up it all the way if one chooses the right path, but there is everything else men look for when they escape from cities. It is so big that you would never learn it in any number of camps, and the change of its impressions is perpetual. From the summit the view has two interests — of colour and of the past. You have below you a plain like an inlaid work of chosen stones: the whole field is an arrangement of different culture and of bright rocks and sand; and below you, also, in a curve, is all that coast which at the close of the Roman Empire was, perhaps, the wealthiest in Europe. In the extreme north a man might make out upon a clear day the bulk of Narbonne. Perpignan is close by; the little rock harbour of Venus, Port Vendres, is to the south. From the plain below one, which has always been crammed with riches, sprang the chief influences of Southern Gaul. It was here that the family of Charlemagne took its origin, and it was perhaps from here that he saw, through the windows of a palace, that fleet of pirates which moved him to his sad prophecy. That plain, moreover, will re-arise; it is still rich, and all the Catalan province of Spain below it, of which it is the highway and the approach, must increase in value before Europe from year to year. The vast development of the French African territory is reacting upon that coast: all it needs is a central harbour, and if that harbour were formed it would do what Narbo did for the Romans at the end of their occupation; — it would tap, much better than does Cette, the wealth of Gascony, perhaps, also, an Atlantic trade, and its exchanges towards Africa and the Levant. The Mediterranean, which is perpetually increasing in wealth and in importance to-day, would have a second Marseilles, and should such a port arise — then, when our ships and our travellers are familiar with it, the Canigou (if it cares for that sort of thing) will be as happy as the Matterhorn. For the present it is all alone.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_24_the_man_and_his_wood" data-title="Hills and the Sea — THE MAN AND HIS WOOD" data-chapter="THE MAN AND HIS WOOD" data-kind="story"></span>
-
-
-THE MAN AND HIS WOOD
-
-I KNEW A man once that was a territorial magnate and had an estate in the county of Berkshire. I will not conceal his name. It was William Frederick Charles Hermann-Postlethwaite.
-
-On his estate was a large family mansion, surrounded by tasteful gardens of a charming old kind, and next outside these a great park, well timbered. But the thing I am going to talk about was a certain wood of which he was rightly very proud. It stood on the slope of a grass down, just above the valley, and beneath it was a clean white road, and a little way along that a town, part of which belonged to Mr. Hermann-Postlethwaite, part to a local solicitor and moneylender, several bits to a brewer in Reading, and a few houses to the inhabitants. The people in the town were also fond of the wood, and called it “The Old Wood.” It was not very large, but, as I have said before, it was very beautiful, and contained all manner of trees, but especially beeches, under which nothing will grow — as the poet puts it in Sussex:
-
-Unner t’ beech and t’ yow Nowt ‘ll grow.
-
-Well, as years passed, Mr. Hermann-Postlethwaite became fonder and fonder of the wood. He began towards 1885 to think it the nicest thing on his estate — which it was; and he would often ride out to look at it of a morning on his grey mare “Betsy.” When he rode out like this of a morning his mount was well groomed, and so was he, however early it might be, and he would carry a little cane to hit the mare with and also as a symbol of authority. The people who met him would touch their foreheads, and he would wave his hand genially in reply. He was a good fellow. But the principal thing about him was his care for the old wood; and when he rode out to look at it, as I say, he would speak to any one around so early — his bailiff, as might be, or sometimes his agent, or even the foreman of the workshop or the carpenter, or any hedger or ditcher that might be there, and point out bits of the wood, and say, “That branch looks pretty dicky. No harm to cut that off short and parcel and serve the end and cap it with a zinc cap;” or, “Better be cutting the Yartle Bush for the next fallow, it chokes the gammon-rings, and I don’t like to see so much standard ivy about, it’s the death of trees.” I am not sure that I have got the technical words right, but at any rate they were more or less like that, for I have heard him myself time and again. I often used to go out with him on another horse, called Sultan, which he lent me to ride upon.
-
-Well, he got fonder and fonder of this wood, and kept on asking people what he should do, and how one could make most use of it, and he worried a good deal about it. He reads books about woods, and in the opening of 1891 he had down to stay with him for a few days a man called Churt, who had made a great success with woods on the Warra-Warra. But Churt was a vulgar fellow, and so Hermann-Postlethwaite’s wife, Lady Gywnnys Hermann-Postlethwaite, would not have him in the house again, which was a bother. Her husband then rode over to see another man, and the upshot of it was that he put up a great board saying “Trespassers in this wood will be prosecuted,” and it might as well not have been put up, for no one ever went into the wood, not even from the little town, because it was too far for them to walk, and, anyhow, they did not care for walking. And as for the doctor’s son, a boy of thirteen, who went in there with an air-gun to shoot things, he paid no attention to the board.
-
-The next thing my friend did was to have a fine strong paling put all round the wood in March, 1894. This paling was of oak; it was seven feet high; it had iron spikes along the top. There were six gates in it, and stout posts at intervals of ten yards. The boards overlapped very exactly. It was as good a bit of work as ever I saw. He had it varnished, and it looked splendid. All this took two years.
-
-Just then he was elected to Parliament, not for Berkshire, as you might have imagined, but for a slum division of Birmingham. He was very proud of this, and quite rightly too. He said: “I am the one Conservative member in the Midlands.” It almost made him forget about his wood. He shut up the Berkshire place and took a house in town, and as he could not afford Mayfair, and did not understand such things very well, the house he took was an enormous empty house in Bayswater, and he had no peace until he gave it up for a set of rooms off Piccadilly; and then his mother thought that looked so odd that he did the right thing, and got into a nice old-fashioned furnished house in Westminster, overlooking the Green Park.
-
-But all this cost him a mint of money, and politics made him angrier and angrier. They never let him speak, and they made him vote for things he thought perfectly detestable. Then he did speak, and as he was an honest English gentleman the papers called him ridiculous names and said he had no brains. So he just jolly well threw the whole thing up and went back to Berkshire, and everybody welcomed him, and he did a thing he had never done before: he put a flag up over his house to show he was at home. Then he began to think of his wood again.
-
-The very first time he rode out to look at it he found the paling had given way in places from the fall of trees, and that some leaned inwards and some outwards, and that one of the gates was off its hinges. There were also two cows walking about in the wood, and what annoyed him most of all, the iron spikes were rusty and the varnish had all gone rotten and white and streaky on the palings. He spoke to the bailiff about this, and hauled him out to look at it. The bailiff rubbed the varnish with his finger, smelt it, and said that it had perished. He also said there was no such thing as good varnish nowadays, and he added there wasn’t any varnish, not the very best, but wouldn’t go like that with rain and all. Mr. Hermann-Postlethwaite grumbled a good deal, but he supposed the bailiff knew best; so he told him to see what could be done, and for several weeks he heard no more about it.
-
-I forgot to tell you that about this time the South African War had broken out, and as things were getting pretty tangled, Hermann-Postlethwaite went out with his regiment, the eighth battalion, not of the Berkshire, but of the Orkney regiment. While he was out there, his brother, in Dr. Charlbury’s home, died, and he succeeded to the baronetcy. As he already had a V.C. and was now given a D.S.O., as well as being one of the people mentioned in dispatches, he was pretty important by the time he came home, when the war was over, just before the elections of 1900.
-
-When he got home he had a splendid welcome, both from his tenants in Berkshire in passing through and from those of his late brother in the big place in Worcestershire. He preferred his Berkshire place, however, and, letting the big place to an American of the name of Hendrik K. Boulge, he went back to his first home. When he got there he thought of the old wood, and went out to look at it. The palings were mended, but they were covered all over with tar! He was exceedingly angry, and ordered them to be painted at once; but the bailiff assured him one could not paint over tar, and so did the carpenter and the foreman. At this he had a fit of rage, and ordered the whole damned thing to be pulled down, and swore he would be damned if he ever had a damned stick or a rail round the damned wood again. He was no longer young; he was getting stout and rather puffy; he was not so reasonable as of old. Anyhow, he had the whole thing pulled down. Next year (that is, in 1901) his wife died.
-
-I wish I had the space to tell you all the other things he did to the wood. How a friend of his having sold a similar wood on the Thames in building lots at £500 an acre, he put up the whole wood at the same rate. How, the whole wood being 200 acres in extent, he hoped to make £100,000 out of it. How he thought this a tidy sum. How he got no offers at this price, nor at £100, nor at £50. How an artist offered him £20 for half an acre to put up a red tin bungalow upon. How he lost his temper with the artist. How at last he left the whole thing alone and tried to forget all about it.
-
-* * *
-
-The old wood to-day is just like what it was when I wandered in it as a boy. The doctor’s son is a man now, and is keeping a bar in Sydney; so he is gone. The townspeople don’t come any more than before. I am the only person who goes near the place. The trees are a trifle grander. I happen now and then, when I visit this Berkshire parish, upon a stump of a post or an old spike in the grass of this wood, but otherwise it is as though all this had not been.
-
-A solemn thought: How enduring are the works of Nature — how perishable those of Man!
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_25_the_channel" data-title="Hills and the Sea — THE CHANNEL" data-chapter="THE CHANNEL" data-kind="story"></span>
-
-
-THE CHANNEL
-
-FRIENDS OF MINE, friends all, and you also, publishers, colonials and critics, do you know that particular experience for which I am trying to find words? Do you know that glamour in the mind which arises and transforms our thought when we see the things that the men who made us saw — the things of a long time ago, the origins? I think everybody knows that glamour, but very few people know where to find it.
-
-Every man knows that he has in him the power for such revelations, and every man wonders in what strange place he may come upon them. There are men also (very rich) who have considered all the world and wandered over it, seeking those first experiences and trying to feel as felt the earlier men in a happier time — yet these few rich men have not felt and have not so found the things which they desire. I have known men who have thought to find them in the [[Mountains|mountains]], but would not climb them simply enough and refused to leave their luxuries behind, and so lost everything, and might as well have been walking in a dirty town at home for all the little good that the [[Mountains|mountains]] did to them. And I know men who have thought to find this memory and desire in foreign countries, in Africa, hunting great beasts such as our fathers hunted; yet even these have not relit those old embers, which if they lie dead and dark in a man make his whole soul dusty and useless, but which if they be once rekindled can make him part of all the centuries.
-
-Yet there is a simple and an easy way to find what the men who made us found, and to see the world as they saw it, and to take a bath, as it were, in the freshness of beginnings; and that is to go to work as cheaply and as hardly as you can, and only as much away from men as they were away from men, and not to read or to write or to think, but to eat and drink and use the body in many immediate ways, which are at the feet of every man. Every man who will walk for some days carelessly, sleeping, rough when he must, or in poor inns, and making for some one place direct because he desires to see it, will know the thing I mean. And there is a better way still of which I shall now speak: I mean, to try the seas in a little boat not more than twenty-five feet long, preferably decked, of shallow draught, such as can enter into all creeks and havens, and so simply rigged that by oneself, or with a friend at most, one can wander all over the world.
-
-Certainly every man that goes to sea in a little boat of this kind learns terror and salvation, happy living, air, danger, exultation, glory, and repose at the end; and they are not words to him, but, on the contrary, realities which will afterwards throughout his life give the mere words a full meaning. And for this experiment there lies at our feet, I say, the Channel.
-
-It is the most marvellous sea in the world — the most suited for these little adventures; it is crammed with strange towns, differing one from the other; it has two opposite people upon either side, and hills and varying climates, and the hundred shapes and colours of the earth, here rocks, there sand, there cliffs, and there marshy shores. It is a little world. And what is more, it is a kind of inland sea.
-
-People will not understand how narrow it is, crossing it hurriedly in great steamships; nor will they make it a home for pleasure unless they are rich and can have great boats; yet they should, for on its water lies the best stage for playing out the old drama by which the soul of a healthy man is kept alive. For instance, listen to this story: —
-
-The sea being calm, and the [[Wind|wind]] hot, uncertain, and light from the east, leaving oily gaps on the water, and continually dying down, I drifted one morning in the strong ebb to the South Goodwin Lightship, wondering what to do. There was a haze over the land and over the sea, and through the haze great ships a long way off showed, one or two of them, like oblong targets which one fires at with guns. They hardly moved in spite of all their canvas set, there was so little breeze. So I drifted in the slow ebb past the South Goodwin, and I thought: “What is all this drifting and doing nothing? Let us play the fool, and see if there are no adventures left.”
-
-So I put my little boat about until the [[Wind|wind]] took her from forward, such as it was, and she crawled out to sea.
-
-It was a dull, uneasy morning, hot and silent, and the [[Wind|wind]], I say, was hardly a wind, and most of the time the sails flapped uselessly.
-
-But after eleven o’clock the wind first rose, and then shifted a little, and then blew light but steady; and then at last she heeled and the water spoke under her bows, and still she heeled and ran, until in the haze I could see no more land; but ever so far out there were no seas, for the light full breeze was with the tide, the tide ebbing out as a strong, and silent as a man in anger, down the hidden parallel valleys of the narrow sea. And I held this little wind till about two o’clock, when I drank wine and ate bread and meat at the tiller, for I had them by me, and just afterwards, still through a thick haze of heat, I saw Gris-nez, a huge ghost, right up against and above me; and I wondered, for I had crossed the Channel, now for the first time, and knew now what it felt like to see new land.
-
-Though I knew nothing of the place, I had this much sense, that I said to myself: “The tide is right-down Channel, racing through the hidden valleys under the narrow sea, so it will all go down together and all come up together, and the flood will come on this foreign side much at the same hour that it does on the home side.” My boat lay to the east and the ebb tide held her down, and I lit a pipe and looked at the French hills and thought about them and the people in them, and England which I had left behind, and I was delighted with the loneliness of the sea; and still I waited for the flood.
-
-But in a little while the chain made a rattling noise, and she lay quite slack and swung oddly; and then there were little boiling and eddying places in the water, and the water seemed to come up from underneath sometimes, and altogether it behaved very strangely, and this was the turn of the tide. Then the wind dropped also, and for a moment she lollopped about, till at last, after I had gone below and straightened things, I came on deck to see that she had turned completely round, and that the tide at last was making up my way, towards Calais, and her chain was taut and her nose pointed down Channel, and a little westerly breeze, a little draught of air, came up cool along the tide.
-
-When this came I was very glad, for I saw that I could end my adventure before night. So I pulled up the anchor and fished it, and then turned with the tide under me, and the slight half-felt breeze just barely filling the mainsail (the sheet was slack, so powerless was the wind), and I ran up along that high coast, watching eagerly every new thing; but I kept some way out for fear of shoals, till after three good hours under the reclining sun of afternoon, which glorified the mist, I saw, far off, the roofs and spires of a town, and a low pier running well out to sea, and I knew that it must be Calais. And I ran for these piers, careless of how I went, for it was already half of the spring flood tide, and everything was surely well covered for so small a boat, and I ran up the fairway in between the piers, and saw Frenchmen walking about and a great gun peeping up over its earthwork, and plenty of clean new masonry. And a man came along and showed me where I could lie; but I was so strange to the place that I would not take a berth, but lay that night moored to an English [[Ship|ship]].
-
-And when I had eaten and drunk and everything was stowed away and darkness had fallen, I went on deck, and for a long time sat silent, smoking a pipe and watching the enormous lighthouse of Calais, which is built right in the town, and which turns round and round above one all night long.
-
-And I thought: “Here is a wonderful thing! I have crossed the Channel in this little boat, and I know now what the sea means that separates [[France]] from England. I have strained my eyes for shore through a haze. I have seen new lands, and I feel as men do who have dreamt dreams.”
-
-But in reality I had had very great luck indeed, and had had no right to cross, for my coming back was to be far more difficult and dreadful, and I was to suffer many things before again I could see tall England, close by me, out of the sea.
-
-But how I came back, and of the [[Storm|storm]], and of its majesty, and of how the boat and I survived, I will tell you another time, only imploring you to do the same; not to tell of it, I mean, but to sail it in a little boat.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_27_the_roman_road" data-title="Hills and the Sea — THE ROMAN ROAD" data-chapter="THE ROMAN ROAD" data-kind="story"></span>
-
-
-THE ROMAN ROAD
-
-THE OTHER DAY (it was Wednesday, and the air was very pure) I went into the stable upon my way toward the wood, and there I saw my horse Monster standing by himself, regarding nothingness. And when I had considered what a shame it was to take one’s pleasure in a wood and leave one’s helpless horse at home, I bridled him and saddled him and took him out, and rode him the way that I had meant to go alone. So we went together along the Stene under the North Wood until we got to the edge of the forest, and then we took the green Ride to the right, for it was my intention to go and look at the Roman road.
-
-Behind my house, behind my little farm, there are as many miles of turf as one cares to count, and then behind it also, but the other way, there goes this deep and lonely forest. It is principally of beech, which is the tree of the chalk, and no one has cut it or fenced it or thought about it (except to love it), since the parts about my village took their names: Gumber and Fairmile Bay Combe, the Nore, and the stretch called No Man’s Land.
-
-Into the darkness of these trees I rode very quietly with Monster, my horse, but whether the autumn air were pleasanter to him or to me neither of us could decide, for there is no bridge between two souls. That is, if horses have a soul, which I suppose they have, for they are both stupid and kindly, and they fear death as though a part, and but a part, of them were immortal. Also they see things in the dark and are cognisant of evil.
-
-When I had gone some hundred yards towards the Roman road I saw, bending lower than the rest on the tree from which it hung, a golden bough, and I said to myself that I had had good luck, for such a thing has always been the sign of an unusual experience and of a voyage among the dead. All the other leaves of the tree were green, but the turn of the year, which sends out foragers just as the spring does, marking the way it is to go, had come and touched this bough and changed it, so that it shone out by itself in the recesses of the forest and gleamed before and behind. I did not ask what way it led me, for I knew; and so I went onwards, riding my horse, until I came to that long bank of earth which runs like a sort of challenge through this ancient land to prove what our origins were, and who first brought us merry people into the circuit of the world.
-
-When I saw the Roman road the sharper influence which it had had upon my boyhood returned to me, and I got off my horse and took his bit out of his mouth so that he could play the fool with the grass and leaves (which are bad for him), and I hitched the snaffle to a little broken peg of bough so that he could not wander. And then I looked up and down along the boles of the great North Wood, taking in the straight line of the way.
-
-I have heard it said that certain professors, the most learned of their day, did once deny that this was a Roman road. I can well believe it, and it is delightful to believe that they did. For this road startles and controls a true man, presenting an eternal example of what Rome could do. The peasants around have always called it the “Street.” It leads from what was certainly one Roman town to what was certainly another. That sign of Roman occupation, the modern word “Cold Harbour,” is scattered up and down it. There are Roman pavements on it. It goes plumb straight for miles, and at times, wherever it crosses undisturbed land, it is three or four feet above the level of the down. Here, then, was a feast for the learned: since certainly the more obvious a thing is, the more glory there must be in denying it. And deny it they did (or at least, so I am told), just as they will deny that Thomas à Becket was a Papist, or that Austerlitz was fought in spite of Trafalgar, or that the Gospel of St. John is the Gospel of St. John.
-
-Here then, sitting upon this Roman road I considered the nature of such men, and when I had thought out carefully where the nearest Don might be at that moment, I decided that he was at least twenty-three miles away, and I was very glad: for it permitted me to contemplate the road with common sense and with [[Faith]], which is Common Sense transfigured; and I could see the Legionaries climbing the hill. I remembered also what a sight there was upon the down above, and I got upon my horse again to go and see it.
-
-When one has pushed one’s way through the brambles and the rounded great roots which have grown upon this street — where no man has walked perhaps for about a thousand years — one gets to the place where it tops the hill, and here one sees the way in which the line of it was first struck out. From where one stands, right away like a beam, leading from rise to rise, it runs to the cathedral town. You see the spot where it enters the eastern gate of the Roman walls; you see at the end of it, like the dot upon an “i,” the mass of the cathedral. Then, if you turn and look northward, you see from point to point its taut stretch across the weald to where, at the very limit of the horizon, there is a gap in the chain of hills that bars your view.
-
-The strict design of such a thing weighs upon one as might weigh upon one four great lines of Virgil, or the sight of those enormous stones which one comes upon, Roman also, in the Algerian sands. The plan of such an avenue by which to lead great armies and along which to drive commands argues a mixture of unity and of power as intimate as the lime and the sand of which these conquerors welded their imperishable cement. And it does more than this. It suggests swiftness and certitude of aim and a sort of eager determination which we are slow to connect with Government, but which certainly underlay the triumph of this people. A road will give one less trouble if it winds about and feels the contours of the land. It will pay better if it is of earth and broken stones instead of being paved, nor would any one aiming at wealth or comfort alone laboriously raise its level, as the level of this road is raised. But in all that the Romans did there was something of a monument. Where they might have taken pipes down a valley and up the opposing side they preferred the broad shoulders of an arcade, and where a seven-foot door would have done well enough to enter their houses by they were content with nothing less than an arch of fifty. In all their work they were conscious of some business other than that immediately to hand, and therefore it is possible that their ruins will survive the establishment of our own time as they have survived that of the Middle Ages. In this wild place, at least, nothing remained of all that was done between their time and ours.
-
-These things did the sight on either side of the summit suggest to me, but chiefly there returned as I gazed the delicious thought that learned men, laborious and heavily endowed, had denied the existence of this Roman road.
-
-See with what manifold uses every accident of human life is crammed! Here was a piece of pedantry and scepticism, which might make some men weep and some men stamp with irritation, and some men, from sheer boredom, fall asleep, but which fed in my own spirit a fountain of pure joy, as I considered carefully what kind of man it is who denies these things; the kind of way he walks; the kind of face he has; the kind of book he writes; the kind of publisher who chisels him; and the kind of way in which his works are bound. With every moment my elation grew greater and more impetuous, until at last I could not bear to sit any longer still, even upon so admirable a beast, nor to look down even at so rich a plain (though that was seen through the air of Southern England), but turning over the downs I galloped home, and came in straight from the turf to my own ground — for what man would live upon a high road who could go through a gate right off the turf to his own steading and let the world go hang?
-
-And so did I. But as they brought me beer and bacon at evening, and I toasted the memory of things past, I said to myself: “Oxford, Cambridge, Dublin, Durham — you four great universities — you terrors of Europe — that road is older than you: and meanwhile I drink to your continued healths, but let us have a little room ... air, there, give us air, good people. I stifle when I think of you.”
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_28_the_onion_eater" data-title="Hills and the Sea — THE ONION-EATER" data-chapter="THE ONION EATER" data-kind="story"></span>
-
-
-THE ONION-EATER
-
-THERE IS A hill not far from my home whence it is possible to see northward and southward such a stretch of land as is not to be seen from any eminence among those I know in Western Europe. Southward the sea-plain and the sea standing up in a belt of light against the sky, and northward all the weald.
-
-From this summit the eye is disturbed by no great cities of the modern sort, but a dozen at least of those small market towns which are the delight of South England hold the view from point to point, from the pale blue downs of the island over, eastward, to the Kentish hills.
-
-A very long way off, and near the sea-line, the high faint spire of that cathedral which was once the mother of all my county goes up without weight into the air and gathers round it the delicate and distant outlines of the landscape — as, indeed, its builders meant that it should do. In such a spot, on such a high watch-tower of England, I met, three days ago, a man.
-
-I had been riding my kind and honourable horse for two hours, broken, indeed, by a long rest in a deserted barn.
-
-I had been his companion, I say, for two hours, and had told him a hundred interesting things — to which he had answered nothing at all — when I took him along a path that neither of us yet had trod. I had not, I know; he had not (I think), for he went snorting and doubtfully. This path broke up from the kennels near Waltham, and made for the High Wood between Gumber and No Man’s Land. It went over dead leaves and quite lonely to the thick of the forest; there it died out into a vaguer and a vaguer trail. At last it ceased altogether, and for half an hour or so I pushed carefully, always climbing upwards, through the branches, and picked my way along the bramble-shoots, until at last I came out upon that open space of which I had spoken, and which I have known since my childhood. As I came out of the wood the south-west [[Wind|wind]] met me, full of the Atlantic, and it seemed to me to blow from Paradise.
-
-I remembered, as I halted and so gazed north and south to the weald below me, and then again to the sea, the story of that Sultan who publicly proclaimed that he had possessed all power on earth, and had numbered on a tablet with his own hand each of his happy days, and had found them, when he came to die, to be seventeen. I knew what that heathen had meant, and I looked into my heart as I remembered the story, but I came back from the examination satisfied, for “So far,” I said to myself, “this day is among my number, and the light is falling. I will count it for one.” It was then that I saw before me, going easily and slowly across the downs, the figure of a man.
-
-He was powerful, full of health and easy; his clothes were rags; his face was open and bronzed. I came at once off my horse to speak with him, and, holding my horse by the bridle, I led it forward till we met. Then I asked him whither he was going, and whether, as I knew these open hills by heart, I could not help him on his way.
-
-He answered me that he was in no need of help, for he was bound nowhere, but that he had come up off the high road on to the hills in order to get his pleasure and also to see what there was on the other side. He said to me also, with evident enjoyment (and in the accent of a lettered man), “This is indeed a day to be alive!”
-
-I saw that I had here some chance of an adventure, since it is not every day that one meets upon a lonely down a man of culture, in rags and happy. I therefore took the bridle right off my horse and let him nibble, and I sat down on the bank of the Roman road holding the leather of the bridle in my hand, and wiping the bit with plucked grass. The stranger sat down beside me, and drew from his pocket a piece of bread and a large onion. We then talked of those things which should chiefly occupy mankind: I mean, of happiness and of the destiny of the soul. Upon these matters I found him to be exact, thoughtful, and just.
-
-First, then, I said to him: “I also have been full of gladness all this day, and, what is more, as I came up the hill from Waltham I was inspired to verse, and wrote it inside my mind, completing a passage I had been working at for two years, upon joy. But it was easy for me to be happy, since I was on a horse and warm and well fed; yet even for me such days are capricious. I have known but few in my life. They are each of them distinct and clear, so rare are they, and (what is more) so different are they in their very quality from all other days.”
-
-“You are right,” he said, “in this last phrase of yours.... They are indeed quite other from all the common days of our lives. But you were wrong, I think, in saying that your horse and clothes and good feeding and the rest had to do with these curious intervals of content. Wealth makes the run of our days somewhat more easy, poverty makes them more hard — or very hard. But no poverty has ever yet brought of itself despair into the soul — the men who kill themselves are neither rich nor poor. Still less has wealth ever purchased those peculiar hours. I also am filled with their spirit to-day, and God knows,” said he, cutting his onion in two, so that it gave out a strong savour, “God knows I can purchase nothing.”
-
-“Then tell me,” I said, “whence do you believe these moments come? And will you give me half your onion?”
-
-“With pleasure,” he replied, “for no man can eat a whole onion; and as for that other matter, why I think the door of heaven is ajar from time to time, and that light shines out upon us for a moment between its opening and closing.” He said this in a merry, sober manner; his black eyes sparkled, and his large beard was blown about a little by the [[Wind|wind]]. Then he added: “If a man is a slave to the rich in the great cities (the most miserable of mankind), yet these days come to him. To the vicious wealthy and privileged men, whose faces are stamped hard with degradation, these days come; they come to you, you say, working (I suppose) in anxiety like most of men. They come to me who neither work nor am anxious so long as South England may freely import onions.”
-
-“I believe you are right,” I said. “And I especially commend you for eating onions; they contain all health; they induce sleep; they may be called the apples of content, or, again, the companion fruits of mankind.”
-
-“I have always said,” he answered gravely, “that when the couple of them left Eden they hid and took away with them an onion. I am moved in my soul to have known a man who reveres and loves them in the due measure, for such men are rare.”
-
-Then he asked, with evident anxiety: “Is there no inn about here where a man like me will be taken in?”
-
-“Yes,” I told him. “Down under the Combe at Duncton is a very good inn. Have you money to pay? Will you take some of my money?”
-
-“I will take all you can possibly afford me,” he answered in a cheerful, manly fashion. I counted out my money and found I had on me but 3s.7d. “Here is 3s. 7d.,” I said.
-
-“Thank you, indeed,” he answered, taking the coins and wrapping them in a little rag (for he had no pockets, but only holes).
-
-“I wish,” I said with regret, “we might meet and talk more often of many things. So much do we agree, and men like you and me are often lonely.”
-
-He shrugged his shoulders and put his head on one side, quizzing at me with his eyes. Then he shook his head decidedly, and said: “No, no — it is certain that we shall never meet again.” And thanking me with great fervour, but briefly, he went largely and strongly down the escarpment of the Combe to Duncton and the weald; and I shall never see him again till the Great Day....
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_29_the_return_to_england" data-title="Hills and the Sea — THE RETURN TO ENGLAND" data-chapter="THE RETURN TO ENGLAND" data-kind="story"></span>
-
-
-THE RETURN TO ENGLAND
-
-IN CALAIS HARBOUR, it being still very early in the morning, about half-past five, I peered out to see how things were looking, for if that coast corresponded at all to ours, the tide should be making westerly by six o’clock that day — the ebb tide — and it was on the first of that tide that I should make the passage to England, for at sea you never can tell. At sea you never can tell, and you must take every inch the gods allow you. You will need that and more very often before evening. Now, as I put my head out I saw that I could not yet start, for there was a thick white mist over everything, so that I could not even see the bowsprit of my own boat. Everything was damp: the decks smelt of fog, and from the shore came sounds whose cause I could not see. Looking over the iron bulwarks of the big English cargo [[Ship|ship]], alongside of which I was moored, was a man with his head upon his folded arms. He told me that he thought the fog would lift; and so I waited, seeking no more sleep, but sitting up there in the drifting fog, and taking pleasure in a bugle call which the French call “La Diane,” and which they play to wake the soldiers. But in summer it wakes nobody, for all the world is waking long before.
-
-Towards six the mist blew clean away before a little air from the north-east; it had come sharp over those miles and miles of sand dunes and flats which stretched away from Gris-nez on to Denmark. From Gris-nez all the way to the Sound there is no other hill; but coarse grass, [[Wind|wind]]-swept and flying sand. Finding this [[Wind|wind]], I very quickly set sail, and as I did not know the harbour I let down the peak of the mainsail that she might sail slowly, and crept along close to the eastern pier, for fear that when I got to the open work the westerly tide should drive me against the western pier; but there was no need for all this caution, since the tide was not yet making strongly. Yet was I wise to beware, for if you give the strange gods of the sea one little chance they will take a hundred, and drown you for their pleasure. And sailing, if you sail in all weathers, is a perpetual game of skill against them, the heartiest and most hazardous game in the world.
-
-So then, when I had got well outside, I found what is called “a lump.” The sea was jumbling up and down irregularly, as though great animals had just stopped fighting there. But whatever was the cause of it, this lump made it difficult to manage the boat I was in, for the air was still light and somewhat unsteady; sometimes within a point of north, and then again dropping and rising free within a point of east: on the whole, north-east. To windward the sea was very clear, but down towards the land there was a haze, and when I got to the black buoy which is three miles from Calais, and marks the place where you should turn to go into the harbour, I could barely see the high land glooming through the weather, and Calais belfry and lighthouse tower I could not see at all. I looked at my watch and saw it was seven, and immediately afterwards the [[Wind|wind]] became steady and true, and somewhat stronger, and work began.
-
-She would point very nearly north, and so I laid her for that course, though that would have taken me right outside the Goodwins, for I knew that the tide was making westerly down the Channel, ebbing away faster and faster, and that, like a man crossing a rapid river in a ferry-boat, I had to point up far above where I wanted to land, which was at Dover, the nearest harbour. I sailed her, therefore, I say, as close as she would lie, and the wind rose.
-
-The wind rose, and for half an hour I kept her to it. She had no more sail than she needed; she heeled beautifully and strongly to the wind; she took the seas, as they ran more regular, with a motion of mastery. It was like the gesture of a horse when he bends his head back to his chest, arching his neck with pride as he springs upon our Downs at morning. So set had the surging of the sea become that she rose and fell to it with rhythm, and the helm could be kept quite steady, and the regular splash of the rising bows and the little wisps of foam came in ceaseless exactitude like the marching of men, and in all this one mixed with the life of the sea.
-
-But before it was eight o’clock (and I had eaten nothing) the wind got stronger still, and I was anxious and gazed continuously into it, up to windward, seeing the white caps beginning on the tops of the seas, although the wind and tide were together. She heeled also much more, and my anxiety hardened with the wind, for the wind had strengthened by about half-past eight, so that it was very strong indeed, and she was plainly over-canvased, her lee rail under all the time and all the cordage humming; there it stood, and by the grace and mercy of God the wind increased no more, for its caprice might have been very different.
-
-Then began that excellent game which it is so hard to play, but so good to remember, and in which all men, whether they admit it or not, are full of fear, but it is a fear so steeped in exhilaration that one would think the personal spirit of the sea was mingled with the noise of the air.
-
-For a whole great hour she roared and lifted through it still, taking the larger seas grandly, with disdain, as she had taken the smaller, and still over the buried lee rail the stream of the sea went by rejoicing and pouring, and the sheets and the weather runner trembled with the vigour of the charge, and on she went, and on. I was weary of the seas ahead (for each and individually they struck my soul as they came, even more strongly than they struck the bows — steep, curling, unintermittent, rank upon rank upon rank, as innumerable cavalry); still watching them, I say, I groped round with my hand behind the cabin door and pulled out brandy and bread, and drank brandy and ate bread, still watching the seas. And, as men are proud of their companions in danger, so I was proud to see the admirable lift and swing of that good boat, and to note how, if she slowed for a moment under the pounding, she recovered with a stride, rejoicing; and as for my fears, which were now fixed and considerable, I found this argument against them: that, though I could see nothing round me but the sea, yet soon I should be under the lee of the Goodwins, for, though I could not exactly calculate my speed, and though in the haze beyond nothing appeared, it was certain that I was roaring very quickly towards the further shore.
-
-When, later, the sea grew confused and full of swirls and boiling, I said to myself: “This must be the tail of the Goodwins.” But it was, not. For, though I did not know it, the ebb of the great spring tide had carried me right away down Channel, and there was not twelve feet of water under the keel, for the seething of the sea that I noticed came from the Varne — the Varne, that curious, long, steep hill, with its twin ridge close by, the Colbert; they stand right up in the Channel between [[France]] and England; they very nearly lift their heads above the waves. I passed over the crest of them, unknowing, into the deep beyond, and still the [[Ship|ship]] raced on. Then, somewhat suddenly, so suddenly that I gave a cry, I saw right up above me, through what was now a thick haze, the cliffs of England, perhaps two miles away, and showing very faintly indeed, a bare outline upon the white weather. A thought ran into my mind with violence, how, one behind the other, beyond known things, beyond history, the men from whom I came had greeted this sight after winds like these and danger and the crossing of the narrow seas. I looked at my watch; it was ten o’clock, so that this crossing had taken three hours, and to see the land again like that was better than any harbour, and I knew that all those hours my mind had been at strain. I looked again at the vague cliffs narrowly, thinking them the South Foreland, but as they cleared I saw to my astonishment that I had blown all down the Straits, and that Folkestone and the last walls of the chalk were before me.’
-
-The wind dropped; the sea went on uneasily, tumbling and rolling, but within a very little while — before eleven, I think — there was no breeze at all; and there I lay, with Folkestone harbour not a mile away, but never any chance of getting there; and I whistled, but no wind came. I sat idle and admired the loneliness of the sea. Till, towards one, a little draught of air blew slantwise from the land, and under it I crept to the smooth water within the stone arm of the breakwater, and here I let the anchor go, and settling everything, I slept.
-
-It is pleasant to remember these things.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_30_the_valley_of_the_rother" data-title="Hills and the Sea — THE VALLEY OF THE ROTHER" data-chapter="THE VALLEY OF THE ROTHER" data-kind="story"></span>
-
-
-THE VALLEY OF THE ROTHER
-
-THERE IS IN that part of England which is very properly called her Eden (that centre of all good things and home of happy men, the county of Sussex), there is, I say, in that exalted county a valley which I shall praise for your greater pleasure, because I know that it is too jealously guarded for any run of strangers to make it common, and because I am very sure that you may go and only make it the more delightful by your presence. It is the valley of the River Rother; the sacred and fruitful river between the downs and the weald.
-
-Now, here many travelling men, bicyclists even and some who visit for a livelihood, will think I mean the famous River Rother that almost reaches the sea. The Rother into which the foreigners sailed for so many hundred years, the River of the Marshes, the river on which stands Rye; the easy Rother along whose deep meadows are the sloping kilns, the bright-tilted towns and the steep roads; the red Rother that is fed by streams from the ironstone. This Rother also all good men know and love, both those that come in for pleasure, strangers of Kent, and those that have a distant birthright in East Sussex, being born beyond Ouse in the Rape of Bramber.
-
-But it is not this Rother that I am telling of, though I would love to tell of it also — as indeed I would love to tell at length of all the rivers of Sussex — the Brede, the Ouse, the Adur, the Cuckmere; all the streams that cut the chalk hills. But for this I have no space and you no patience. Neither can I tell you of a thousand adventures and wonderful hazards along the hills and valley of this eastern Rother; of how I once through a telescope on Brightling Hill saw the meet at Battle, and of how it looked quite near; of how I leapt the River Rother once, landing on the far side safely (which argues the river narrow or the leap tremendous); of how I poached in the wood of a friend who is still my friend; of how I rode a horse into Robertsbridge; of the inn. All these things could I tell with growing fervour, and to all these would you listen with an increasing delight. But I must write of the River Rother under Petworth, the other Rother in the West. Why? Because I started out so to do, and no man should let himself be led away by a word, or by any such little thing.
-
-Let me therefore have done with this eastern river, far away from my home, a river at the end of long journeys, and speak of that other noble Rother, the Rother of quiet men, the valley that is like a shrine in England.
-
-Many famous towns and villages stand in the valley of this river and even (some of them) upon its very banks. Thus there are the three principal towns of this part, Midhurst and Petworth and Pulborough: but these have been dealt with and written of in so many great books and by such a swarm of new men that I have no business further to describe their merits and antiquity. But this I will add to all that is known of them. Midhurst takes its name from standing in the middle, for it is half-way between the open downs and the thick woods on the borders of Surrey. Petworth has a steeple that slopes to one side; not so much as Chesterfield, but somewhat more than most steeples. Pulborough stands upon a hill, and is famous for its corn-market, to which people come from far and near, from as far off as Burpham or as close by as Bury. All these noble towns have (as I said before) been written of in books, only no book that I know puts them all together and calls them “the Valley of the Rother.” That is the title that such a book should have if it is to treat of the heart of West Sussex, and I make no doubt that such a book would be read lovingly by many men.
-
-For the Valley of the Rother breeds men and is the cause of many delightful villages, all the homes of men. I know that Cobden was born there, the last of the yeomen: I hope that Cobbett lived here too. Manning was here in his short married life; he lived at Barlton (which foolish men call Barlavington), under the old Downs, where the steep woods make a hollow. In this valley also are Fittleworth (the only place in England that rhymes with Little Worth); Duncton, about which there is nothing to be said; Burton, which is very old and has its church right in the grounds of the house; Westburton, where the racehorses were; Graffham, Bignor, Sutton, and I know not how many delightful hamlets.
-
-In the Valley of the River Rother no hurried men ever come, for it leads nowhere. They cross it now and then, and they forget it; but who, unless he be a son or a lover, has really known that plain? It leads nowhere: to the no man’s land, the broken country by Liss. It has in it no curious sight, but only beauty. The rich men in it (and thank Heaven they are few) are of a reticent and homing kind, or (when the worst comes to the worst) they have estates elsewhere, and go north for their pleasure.
-
-Foxes are hunted in the Valley of the Rother, but there are not very many. Pheasants and partridges are shot, but I never heard of great bags; one animal indeed there is in profusion. The rabbit swarms and exults in this life of Southern England. Do you stalk him? He sits and watches you. Do you hunt him with dogs? He thinks it a vast bother about a very little matter. Do you ferret him? He dies, and rejoices to know that so many more will take his place. The rabbit is the sacred emblem of my river, and when we have a symbol, he shall be our symbol. He loves men and eats the things they plant, especially the tender shoots of young trees, wheat, and the choice roots in gardens. He only remains, and is happy all his little life in the valley from which we depart when our boyhood ends.
-
-The Valley of the Rother is made of many parts. There is the chalk of the Southern Down-land, the belt of the loam beneath it; then the curious country of sand, full of dells and dark with pine woods; then the luxurious meadows, which are open and full of cattle, colts, and even sheep; then the woods. It is, in a few miles, a little England. There are also large heaths — larger, you would think, than such a corner of the earth could contain; old elms and oaks; many wide parks; fish ponds; one trout stream and half a score of mills. There are men of many characters, but all happy, honest, good, witty, and hale. And when I have said all I could say of this delightful place (which indeed I think is set apart for the reward of virtue) I should not have given you a tithe of its prosperity and peace and beneficence. There is the picture of the Valley of the River Rother. It flows in a short and happy murmur from the confined hills by Hindhead to the Arun itself; but of the Arun no one could write with any justice except at the expense of far more space and time than I have given me.
-
-If ever again we have a religion in the South Country, we will have a temple to my darling valley. It shall be round, with columns and a wall, and there I will hang a wreath in thanksgiving for having known the river.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_31_the_coronation" data-title="Hills and the Sea — THE CORONATION" data-chapter="THE CORONATION" data-kind="story"></span>
-
-
-THE CORONATION
-
-MY COMPANION SAID to me that there was a doom over the day and the reign and the times, and that the turn of the nation had come. He felt it in the sky.
-
-The day had been troubled: from the forest ridge to the sea there was neither [[Wind|wind]] nor sun, but a dull, even heat oppressed the fields and the high downs under the uncertain, half-luminous confusion of grey clouds. It was as though a relief was being denied, and as though something inexorable had come into that air which is normally the softest and most tender in the world. The hours of the low tide were too silent. The little inland river was quite dead, the reeds beside it dry and motionless; even in the trees about it no leaves stirred.
-
-In the late afternoon, as the heat grew more masterful, a slight [[Wind|wind]] came out of the east. It was so faint and doubtful in quantity that one could not be certain, as one stood on the deserted shore, whether it blew from just off the land or from the sullen level of the sea. It followed along the line of the coast without refreshment and without vigour, even hotter than had been the still air out of which it was engendered. It did not do more than ruffle here and there the uneasy surface of our sea; that surface moved a little, but with a motion borrowed from nothing so living or so natural as the [[Wind|wind]]. It was a dull memory of past storms, or perhaps that mysterious heaving from the lower sands which sailors know, but which no silence has yet explained.
-
-In such an influence of expectation and of presage — an influence having in it that quality which seemed to the ancients only Fate, but to us moderns a something evil — in the strained attention for necessary and immovable things that cannot hear and cannot pity — the hour came for me to reascend the valley to my home. Already upon the far and confused horizon two or three motionless sails that had been invisible began to show white against a rising cloud. This cloud had not the definition of sudden conquering storms, proper to the summer, and leaving a blessing behind their fury. The edge of it against the misty and brooding sky had all the vagueness of smoke, and as it rose up out of the sea its growth was so methodical and regular as to disconnect it wholly in one’s mind from the little fainting breeze that still blew, from rain, or from any daily thing. It advanced with the fall of the evening till it held half the sky. There it seemed halted for a while, and lent by contrast an unnatural brightness to the parched hills beneath it; for now the sun having set, we had come north of the gap, and were looking southward upon that spectacle as upon the climax of a tragedy. But there was nothing of movement or of sound. No lightning, no thunder; and soon the hot breath of the afternoon had itself disappeared before the advance of this silent pall. The night of June to the north was brighter than twilight, and still southward, a deliberate spectacle, stood this great range of vague and menacing cloud, shutting off the sky and towering above the downs, so that it seemed permissible to ascribe to those protecting gods of our valley a burden of fear.
-
-Just when all that scene had been arranged to an adjustment that no art could have attained, the first great fire blazed out miles and miles to the west, somewhere above Midhurst: I think near No Man’s Land. Then we saw, miles to the east again, a glare over Mount Harry, the signal of Lewes, and one after another all the heights took it up in a chain — above Bramber, above Poynings, above Wiston, on Amberley Mount (I think), certainly on the noble sweep of Bury. Even in those greater distances which the horizon concealed they were burning and answering each other into Hampshire: perhaps on the beaten grass of the high forts above Portsmouth, and to the left away to the flat Rye level, and to the eastern Rother; for we saw the line of red angry upon that cloud which had come to receive it, an endless line which suddenly called up what one had heard old men say of the prairie fires.
-
-It was easy, without covering the face and without abstracting the mind from the whirl of modern circumstance, it was easy, merely looking at the thing, to be seized with an impression of disaster. The stars were so pale on the lingering white light of the pure north, the smoky cloud so deep and heavy and steadfast and low above the hills, the fire so near to it, so sharp against it, and so huge, that the awe and sinister meaning of conflagrations dominated the impression of all the scene. There arose in the mind that memory which associates such a glare and the rising and falling fury of flames with sacrifice or with vengeance, or with the warning of an enemy’s approach, or with the mark of his conquest; for with such things our race (for how many thousand years!) has watched the fires upon the hills far off. It touched one as does the reiterated note of a chaunt; if not with an impression of doom, at least with that of calamity.
-
-When the fires had died down to a sullen glow, and the men watching them had gone home under the weight of what they had seen, the [[Storm|storm]] broke and occupied the whole sky. A very low wind rose and a furious rain fell. It became suddenly cold; there was thunder all over the weald, and the lightning along the unseen crest of the downs answered the lightning above the forest.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_33_the_departure" data-title="Hills and the Sea — THE DEPARTURE" data-chapter="THE DEPARTURE" data-kind="story"></span>
-
-
-THE DEPARTURE
-
-ONCE, IN BARBARY, I grew tired of unusual things, especially of palms, and desired to return to Europe and the things I knew; so I went down from the hills to the sea coast, and when after two days I had reached the railway, I took a train for Algiers and reached that port at evening.
-
-From Algiers it is possible to go at once and for almost any sum one chooses to any part of the world. The town is on a sharp slope of a theatre of hills, and in the quiet harbour below it there are all sorts of ships, but mostly steamships, moored with their sterns towards the quay. For there is no tide here, and the ships can lie quite still.
-
-I sat upon a wall of the upper town and considered how each of these ships were going to some different place, and how pleasant it was to roam about the world. Behind the ships, along the stone quays, were a great number of wooden huts, of offices built, into archways, of little houses, booths, and dens, in each of which you could take your passage to some place or other.
-
-“Now,” said I to myself, “now is the time to be free.” For one never feels master of oneself unless one is obeying no law, plan, custom, trend, or necessity, but simply spreading out at ease and occupying the world. In this also Aristotle was misled by fashion, or was ill-informed by some friend of his, or was, perhaps, lying for money when he said that liberty was obedience to a self-made law; for the most distant hint of law is odious to liberty. True, it is more free to obey a law of one’s own making than of some one else’s; just as if a man should give himself a punch in the eye it would be less hurtful and far less angering than one given by a passer-by; yet to suffer either would not be a benefit of freedom. Liberty cannot breathe where the faintest odour of regulation is to be discovered, but only in that ether whose very nature is largeness. Oh! Diviner Air! how few have drunk you, and in what deep draughts have I!
-
-I had a great weight of coined, golden, metallic money all loose in my pocket. There was no call upon me nor any purpose before me. I spent an hour looking down upon the sea and the steamships, and taking my pick out of all the world.
-
-One thing, however, guided me, which was this: that desire, to be satisfied at all, must be satisfied at once; and of the many new countries I might seek that would most attract me whose [[Ship|ship]] was starting soonest. So I looked round for mooring cables in the place of anchor chains, for Blue Peter, for smoke from funnels, for little boats coming and going, and for all that shows a steamboat to be off; when I saw, just behind a large new boat in such a condition of bustle, a sign in huge yellow letters staring on a bright black ground, which said, “To the Balearic Islands, eight shillings”; underneath, in smaller yellow letters, was written: “Gentlemen The Honourable Travellers are warned that they must pay for any food they consume.” When I had read this notice I said to myself: “I will go to the Balearic Islands, of which the rich have never heard. I, poor and unencumbered, will go and visit these remote places, which have in their time received all the influences of the world, and which yet have no history; for I am tired of this Africa, where so many men are different from me.” As I said this to myself I saw a little picture in my mind of three small islands standing in the middle of the sea, quite alone, and inhabited by happy men; but this picture, as it always is with such pictures, was not at all the same as what I saw when next morning the islands rose along the north to which we steered.
-
-I went down to the quay by some large stone steps which an Englishman had built many years ago, and I entered the office above which this great sign was raised. Within was a tall man of doubtful race, smoking a cigarette made of loose paper, and gazing kindly at the air. He was full of reveries. Of this man I asked when the boat would be starting. He told me it started in half an hour, a little before the setting of the sun. So I bought a ticket for eight shillings, upon which it was clearly printed in two languages that I had bound myself to all manner of things by the purchase, and especially that I might not go below, but must sit upon deck all night; nevertheless, I was glad to hold that little bit of printed prose, for it would enable me to reach the Balearic Islands, which for all other men are names in a dream. I then went up into the town of Algiers, and was careful to buy some ham from a Jew, some wine from a Mohammedan, and some bread and chocolate from a very indifferent Christian. After that I got aboard. As I came over the side I heard the sailors, stokers, and people all talking to each other in low tones, and I at once recognised the tongue called Catalan.
-
-I had heard this sort of Latin in many places, some lonely and some populous. I had heard it once from a chemist at Perpignan who dressed a wound of mine, and this was the first time I heard it. Very often after in the valleys of the Pyrenees, in the Cerdagne, and especially in Andorra, hundreds of men had spoken to me in Catalan. At Urgel, that notable city where there is only one shop and where the streets are quite narrow and Moorish, a woman and six or seven men had spoken Catalan to me for nearly one hour: it was in a cellar surrounded by great barrels, and I remember it well. So, also, on the River Noguera, coming up again into the hills, a girl who took the toll at the wooden bridge had spoken Catalan to me. But none of these had I ever answered so that they could understand, and on this account I was very grieved to hear the Catalan tongue, though I remembered that if I spoke to them with ordinary Spanish words or in French with a strong Southern accent they would usually have some idea of what I was saying.
-
-As the evening fell the cables were slipped without songs, and with great dignity, rapidity, and order the [[Ship|ship]] was got away.
-
-I knew a man once, a seafaring man, a Scotchman, with whom I travelled on a very slow old boat in the Atlantic, who told me that the Northern people of Europe were bravest in a unexpected danger, but the Southern in a danger long foreseen. He said he had known many of both kinds, and had served under them and commanded them. He said that in sudden accident the Northerner was the more reliable man, but that if an act of great danger had to be planned and coolly achieved, then the Southerner was strongest in doing what he had to do. He said that in taking the ground he would rather have a Northern, but in bringing in a short [[Ship|ship]] a Southern crew.
-
-He was a man who observed closely, and never said a thing because he had read it. Indeed, he did not read, and he had in a little hanging shelf above his bunk only four or five tattered books, and even these were magazines. I remembered his testimony now as I watched these Catalans letting the ship go free, and I believed it, comparing it with history and the things I had myself seen. They did everything with such regularity and so silently that it was a different deck from what one would have had in the heave of the Channel. With Normans or Bretons, or Cornishmen or men of Kent, but especially with men from London river, there would have been all sorts of cursing and bellowing, and they could not have touched a rope without throwing themselves into attitudes of violence. But these men took the sea quite quietly, nor could you tell from their faces which was rich and which was poor.
-
-It was not till the ship was out throbbing swiftly Over the smooth sea and darkness had fallen that they began to sing. Then those of them who were not working gathered together with a stringed instrument forward and sang of pity and of death. One of them said to me, “Knight, can your grace sing?” I told him that I could sing, certainly, but that my singing was unpleasing, and that I only knew foreign songs. He said that singing was a great solace, and desired to hear a song of my own country. So I sang them a song out of Sussex, to which they listened in deep silence, and when it was concluded their leader snapped and twanged at the strings again and began another song about the riding of horses in the hills.
-
-So we passed the short night until the sky upon our quarter grew faintly pale and the little [[Wind|wind]] that rises before morning awakened the sea.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_34_the_idea_of_a_pilgrimage" data-title="Hills and the Sea — THE IDEA OF A PILGRIMAGE" data-chapter="THE IDEA OF A PILGRIMAGE" data-kind="story"></span>
-
-
-THE IDEA OF A PILGRIMAGE
-
-A PILGRIMAGE IS, of course, an expedition to some venerated place to which a vivid memory of sacred things experienced, or a long and wonderful history of human experience in divine matters, or a personal attraction affecting the soul impels one. This is, I say, its essence. So a pilgrimage may be made to the tomb of Descartes, in Paris, or it may be a little walk uphill to a neighbouring and beloved grave, or a modern travel, even in luxury, on the impulse to see something that greatly calls one.
-
-But there has always hung round the idea of a pilgrimage, with all people and at all times — I except those very rare and highly decadent generations of history in which no pilgrimages are made, nor any journeys, save for curiosity or greed — there has always hung round it, I say, something more than the mere objective. Just as in general worship you will have noble gowns, vivid colour, and majestic music (symbols, but necessary symbols of the great business you are at); so, in this particular case of worship, clothes, as it were, and accoutrements, gather round one’s principal action. I will visit the grave of a saint or of a man whom I venerate privately for his virtues and deeds, but on my way I wish to do something a little difficult to show at what a price I hold communion with his resting-place, and also on toy way I will see all I can of men and things; for anything great and worthy is but an ordinary thing transfigured, and if I am about to venerate a humanity absorbed into the divine, so it behoves me on my [[Journey|journey]] to it to enter into and delight in the divine that is hidden in everything. Thus I may go upon a pilgrimage with no pack and nothing but a stick and my clothes, but I must get myself into the frame of mind that carries an invisible burden, an eye for happiness and suffering, humour, gladness at the beauty of the world, a readiness for raising the heart at the vastness of a wide view, and especially a readiness to give multitudinous praise to God; for a man that goes on a pilgrimage does best of all if he starts out (I say it of his temporal object only) with the heart of a wanderer, eager for the world as it is, forgetful of maps or descriptions, but hungry for real colours and men and the seeming of things. This desire for reality and contact is a kind of humility, this pleasure in it a kind of charity.
-
-It is surely in the essence of a pilgrimage that all vain imaginations are controlled by the greatness of our object. Thus, if a man should go to see the place where (as they say) St. Peter met our Lord on the Appian Way at dawn, he will not care very much for the niggling of pedants about this or that building, or for the rhetoric of posers about this or that beautiful picture. If a thing in his way seem to him frankly ugly he will easily treat it as a neutral, forget it and pass it by. If, on the contrary, he find a beautiful thing, whether done by God or by man, he will remember and love it. This is what children do, and to get the heart of a child is the end surely of any act of religion. In such a temper he will observe rather than read, and though on his way he cannot do other than remember the names of places, saying, “Why, these are the Alps of which I have read! Here is Florence, of which I have heard so many rich women talk!” yet he will never let himself argue and decide or put himself, so to speak, before an audience in his own mind — for that is pride which all of us moderns always fall into. He will, on the contrary, go into everything with curiosity and pleasure, and be a brother to the streets and trees and to all the new world he finds. The Alps that he sees with his eyes will be as much more than the names he reads about, the Florence of his desires as much more than the Florence of sickly-drawing-rooms; as beauty loved is more than beauty heard of, or as our own taste, smell, hearing, touch and sight are more than the vague relations of others. Nor does religion exercise in our common life any function more temporarily valuable than this, that it makes us be sure at least of realities, and look very much askance at philosophies and imaginaries and academic whimsies.
-
-Look, then, how a pilgrimage ought to be nothing but a nobler kind of travel, in which, according to our age and inclination, we tell our tales, or draw our pictures, or compose our songs. It is a very great error, and one unknown before our most recent corruptions, that the religious spirit should be so superficial and so self-conscious as to dominate our method of action at special times and to be absent at others. It is better occasionally to travel in one way or another to some beloved place (or to some place wonderful and desired for its associations), haunted by our mission, yet falling into every ordinary levity, than to go about a common voyage in a chastened and devout spirit. I fear this is bad theology, and I propound it subject to authority. But, surely, if a man should say, “I will go to Redditch to buy needles cheap,” and all the way take care to speak no evil of his neighbour, to keep very sober, to be punctual in his accounts, and to say his regular prayers with exactitude, though that would be a good work, yet if he is to be a [[Pilgrim|pilgrim]] (and the Church has a hundred gates), I would rather for the moment that he went off in a gay, tramping spirit, not oversure of his expenses, not very careful of all he said or did, but illuminated and increasingly informed by the great object of his voyage, which is here not to buy or sell needles, or what not, but to loose the mind and purge it in the ultimate contemplation of something divine.
-
-There is, indeed, that kind of pilgrimage which some few sad men undertake because their minds are overburdened by a sin or tortured with some great care that is not of their own fault. These are excepted from the general rule, though even to these a very human spirit comes by the way, and the adventures of inns and foreign conversations broaden the world for them and lighten their burden. But this kind of pilgrimage is rare and special, having its peculiar virtues. The common sort (which how many men undertake under another name!) is a separate and human satisfaction of a need, the fulfilling of an instinct in us, the realisation of imagined horizons, the reaching of a goal. For whoever yet that was alive reached an end and could say he was satisfied? Yet who has not desired so to reach an end and to be satisfied? Well, pilgrimage is for the most a sort of prefiguring or rehearsal. A man says: “I will play in show (but a show stiffened with a real and just object) at that great part which is all we can ever play. Here I start from home, and there I reach a goal, and on the way I laugh and watch, sing and work. Now I am at ease and again hampered; now poor, now rich, weary towards the end and at last arrived at that end. So my great life is, and so this little chapter shall be.” Thus he packs up the meaning of life into a little space to be able to look at it closely, as men carry with them small locket portraits of their birthplace or of those they love.
-
-If a pilgrimage is all this, it is evident that however careless, it must not be untroublesome. It would be a contradiction of pilgrimage to seek to make the [[Journey|journey]] short and rapid, merely consuming the mind for nothing, as is our modern habit; for they seem to think nowadays that to remain as near as possible to what one was at starting, and to one’s usual rut, is the great good of travel (as though a man should run through the Iliad only to note the barbarous absurdity of the Greek characters, or through Catullus for the sake of discovering such words as were like enough to English). That is not the spirit of a pilgrimage at all. The [[Pilgrim|pilgrim]] is humble and devout, and human and charitable, and ready to smile and admire; therefore he should comprehend the whole of his way, the people in it, and the hills and the clouds, and the habits of the various cities. And as to the method of doing this, we may go bicycling (though that is a little flurried) or driving (though that is luxurious and dangerous, because it brings us constantly against servants and flattery); but the best way of all is on foot, where one is a man like any other man, with the sky above one, and the road beneath, and the world on every side, and time to see all.
-
-So also I designed to walk, and did, when I visited the tombs of the Apostles.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_37_the_autumn_and_the_fall_of_leaves" data-title="Hills and the Sea — THE AUTUMN AND THE FALL OF LEAVES" data-chapter="THE AUTUMN AND THE FALL OF LEAVES" data-kind="story"></span>
-
-
-THE AUTUMN AND THE FALL OF LEAVES
-
-IT IS NOT true that the close of a life which ends in a natural fashion — life which is permitted to put on the pomp of death and to go out in glory — inclines the mind to repose. It is not true of a day ending nor the passing of the year, nor of the fall of leaves. Whatever permanent, uneasy question is native to men, comes forward most insistent and most loud at such times.
-
-There is a house in my own county which is built of stone, whose gardens are fitted to the autumn. It has level alleys standing high and banked with stone. Their ornaments were carved under the influence of that restraint which marked the Stuarts. They stand above old ponds, and are strewn at this moment with the leaves of elms. These walks are like the Mailles of the Flemish cities, the walls of the French towns or the terraces of the Loire. They are enjoyed to-day by whoever has seen all our time go racing by; they are the proper resting-places of the aged, and their spirit is felt especially in the fall of leaves.
-
-At this season a sky which is of so delicate and faint a blue as to contain something of gentle mockery, and certainly more of tenderness, presides at the fall of leaves. There is no air, no breath at all. The leaves are so light that they sidle on their going downward, hesitating in that which is not void to them, and touching at last so imperceptibly the earth with which they are to mingle, that the gesture is much gentler than a salutation, and even more discreet than a discreet caress.
-
-They make a little sound, less than the least of sounds. No bird at night in the marshes rustles so slightly; no man, though men are the subtlest of living beings, put so evanescent a stress upon their sacred whispers or their prayers. The leaves are hardly heard, but they are heard just so much that men also, who are destined at the end to grow glorious and to die, look up and hear them falling.
-
-* * *
-
-With what a pageantry of every sort is not that troubling symbol surrounded! The scent of life is never fuller in the woods than now, for the ground is yielding up its memories. The spring when it comes will not restore this fullness, nor these deep and ample recollections of the earth. For the earth seems now to remember the drive of the ploughshare and its harrying; the seed, and the full bursting of it, the swelling and the completion of the harvest. Up to the edge of the woods throughout the weald the earth has borne fruit; the barns are full, and the wheat is standing stacked in the fields, and there are orchards all around. It is upon such a mood of parentage and of fruition that the dead leaves fall.
-
-The colour is not a mere splendour: it is intricate. The same unbounded power, never at fault and never in calculation, which comprehends all the landscape, and which has made the woods, has worked in each one separate leaf as well; they are inconceivably varied. Take up one leaf and see. How many kinds of boundary are there here between the stain which ends in a sharp edge against the gold, and the sweep in which the purple and red mingle more evenly than they do in shot-silk or in flames? Nor are the boundaries to be measured only by degrees of definition. They have also their characters of line. Here in this leaf are boundaries intermittent, boundaries rugged, boundaries curved, and boundaries broken. Nor do shape and definition ever begin to exhaust the list. For there are softness and hardness too: the agreement and disagreement with the scheme of veins; the grotesque and the simple in line; the sharp and the broad, the smooth, and raised in boundaries. So in this one matter of boundaries might you discover for ever new things; there is no end to them. Their qualities are infinite. And beside boundaries you have hues and tints, shades also, varying thicknesses of stuff, and endless choice of surface; that list also is infinite, and the divisions of each item in it are infinite; nor is it of any use to analyse the thing, for everywhere the depth and the meaning of so much creation are beyond our powers. And all this is true of but one dead leaf; and yet every dead leaf will differ from its fellow.
-
-That which has delighted to excel in boundlessness within the bounds of this one leaf, has also transformed the whole forest. There is no number to the particular colour of the one leaf. The forest is like a thing so changeful of its nature that change clings to it as a quality, apparent even during the glance of a moment. This forest makes a picture which is designed, but not seizable. It is a scheme, but a scheme you cannot set down. It is of those things which can best be retained by mere copying with a pencil or a brush. It is of those things which a man cannot fully receive, and which he cannot fully re-express to other men.
-
-It is no [[Wonder|wonder]], then, that at this peculiar time, this week (or moment) of the year, the desires which if they do not prove at least demand — perhaps remember — our destiny, come strongest. They are proper to the time of autumn, and all men feel them. The air is at once new and old; the morning (if one rises early enough to welcome its leisurely advance) contains something in it of profound reminiscence. The evenings hardly yet suggest (as they soon will) friends and security, and the fires of home. The thoughts awakened in us by their bands of light fading along the downs are thoughts which go with loneliness and prepare me for the isolation of the soul.
-
-It is on this account that tradition has set, at the entering of autumn, for a watch at the gate of the season, the Archangel; and at its close the day and the night of All-Hallows on which the dead return.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_38_the_good_woman" data-title="Hills and the Sea — THE GOOD WOMAN" data-chapter="THE GOOD WOMAN" data-kind="story"></span>
-
-
-THE GOOD WOMAN
-
-UPON A HILL that overlooks a western plain and is conspicuous at the approach of evening, there still stands a house of faded brick faced with cornerings of stone. It is quite empty, but yet not deserted. In each room some little furniture remains; all the pictures are upon the walls; the deep red damask of the panels is not faded, or if faded, shows no contrast of brighter patches, for nothing has been removed from the walls. Here it is possible to linger for many hours alone, and to watch the slope of the hill under the level light as the sun descends. Here passes a woman of such nobility that, though she is dead, the landscape and the vines are hers.
-
-It was in September, during a silence of the air, that I first saw her as she moved among her possessions; she was smiling to herself as though at a memory, but her smile was so slight and so dignified, so genial, and yet so restrained, that you would have thought it part of everything around and married (as she was) to the land which was now her own. She wandered down the garden paths ruling the flowers upon either side, and receiving as she went autumn and the fruition of her fields; plenitude and completion surrounded her; the benediction of Almighty God must have been upon her, for she was the fulfilment of her world.
-
-Three fountains played in that garden — two, next to the northern and the southern walls, were small and low; they rather flowed than rose. Two cones of marble received their fall, and over these they spread in an even sheet with little noise, making (as it were) a sheath of water which covered all the stone; but the third sprang into the air with delicate triumph, fine and high, satisfied, tenuous and exultant. This one tossed its summit into the light, and, alone of the things in the garden, the plash of its waters recalled and suggested activity — though that in so discreet a way that it was to be heard rather than regarded. The birds flew off in circles over the roofs of the town below us. Very soon they went to their rest.
-
-The slow transfiguration of the light by which the air became full of colours and every outline merged into the evening, made of all I saw, as I came up towards her, a soft and united vision wherein her advancing figure stood up central and gave a meaning to the whole. I will not swear that she did not as she came bestow as well as receive an influence of the sunset. It was said by the ancients that virtue is active, an agent, and has power to control created things; for, they said, it is in a direct relation with whatever orders and has ordained the general scheme. Such power, perhaps, resided in her hands. It would have awed me but hardly astonished if, as the twilight deepened, the inclination of the stems had obeyed her gesture and she had put the place to sleep.
-
-As I came near I saw her plainly. Her face was young although she was so wise, but its youth had the aspect of a divine survival. Time adorned it.
-
-Music survives. Whatever is eternal in the grace of simple airs or in the Christian innocence of Mozart was apparent, nay, had increased, in her features as the days in passing had added to them not only experience but also revelation and security. She was serene. The posture of her head was high, and her body, which was visibly informed by an immortal spirit, had in its carriage a large, a regal, an uplifted bearing which even now as I write of it, after so many years, turns common every other sight that has encountered me. This was the way in which I first saw her upon her own hillside at evening.
-
-With every season I returned. And with every season she greeted my coming with a more generous and a more vivacious air. I think the years slipped off and did not add themselves upon her mind: the common doom of mortality escaped her until, perhaps, its sign was imposed upon her hair — for this at last was touched all through with that appearance or gleam which might be morning or which might be snow.
-
-She was able to conjure all evil. Those desperate enemies of mankind which lie in siege of us all around grew feeble and were silent when she came. Nor has any other force than hers dared to enter the rooms where she had lived: it is her influence alone which inhabits them to-day. There is a vessel of copper, enamelled in green and gilded, which she gave with her own hands to a friend overseas. I have twice touched it in an evil hour.
-
-Strength, sustenance, and a sacramental justice are permanent in such lives, and such lives also attain before their close to so general a survey of the world that their appreciations are at once accurate and universal.
-
-On this account she did not fail in any human conversation, nor was she ever for a moment less than herself; but always and throughout her moods her laughter was unexpected and full, her fear natural, her indignation glorious.
-
-Above all, her charity extended like a breeze: it enveloped everything she knew. The sense of destiny faded from me as the warmth of that charity fell upon my soul; the foreknowledge of death retreated, as did every other unworthy panic.
-
-She drew the objects of her [[Friendship|friendship]] into something new; they breathed an air from another country, so that those whom she deigned to regard were, compared with other men, like the living compared with the dead; or, better still, they were like men awake while the rest were tortured by dreams and haunted of the unreal. Indeed, she had a word given to her which saved all the souls of her acquaintance.
-
-It is not true that influence of this sort decays or passes into vaguer and vaguer depths of memory. It does not dissipate. It is not dissolved. It does not only spread and broaden: it also increases with the passage of time. The musicians bequeath their spirit, notably those who have loved delightful themes and easy melodies. The poets are read for ever; but those who resemble her do more, for they grow out upon the centuries — they themselves and not their arts continue. There is stuff in their legend. They are a tangible inheritance for the hurrying generations of men.
-
-She was of this kind. She was certainly of this kind. She died upon this day[] in the year 1892. In these lines I perpetuate her memory.
-
-The 22nd of December.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="story_39_the_harbour_in_the_north" data-title="Hills and the Sea — THE HARBOUR IN THE NORTH" data-chapter="THE HARBOUR IN THE NORTH" data-kind="story"></span>
-
-
-THE HARBOUR IN THE NORTH
-
-UPON THAT SHORE of Europe which looks out towards no further shore, I came once by accident upon a certain man.
-
-The day had been warm and almost calm, but a little breeze from the south-east had all day long given life to the sea. The seas had run very small and brilliant, yet without violence, before the [[Wind|wind]], and had broken upon the granite cliffs to leeward, not in spouts of foam, but in a white even line that was thin, and from which one heard no sound of surge. Moreover, as I was running dead north along the coast, the noise about the bows was very slight and pleasant. The regular and gentle [[Wind|wind]] came upon the quarter without change, and the heel of the boat was steady. No calm came with the late sunset; the breeze still held, and so till nearly midnight I could hold a course and hardly feel the pulling of the helm. Meanwhile the arch of the sunset endured, for I was far to the northward, and all those colours which belong to June above the Arctic Sea shone and changed in the slow progress of that arch as it advanced before me and mingled at last with the dawn. Throughout the hours of that [[Journey|journey]] I could see clearly the seams of the deck forward, the texture of the canvas and the natural hues of the woodwork and the rigging, the glint of the brasswork, and even the letters painted round the little capstain-head, so continually did the light endure. The silence which properly belongs to darkness, and which accompanies the sleep of birds upon the sea, appeared to be the more intense because of such a continuance of the light, and what with a long vigil and new water, it was as though I had passed the edge of all known maps and had crossed the boundary of new land.
-
-In such a mood I saw before me the dark band of a stone jetty running some miles off from the shore into the sea, and at the end of it a fixed beacon whose gleam showed against the translucent sky (and its broken reflection in the pale sea) as a candle shows when one pulls the curtains of one’s room and lets in the beginnings of the day.
-
-For this point I ran, and as I turned it I discovered a little harbour quite silent under the growing light; there was not a man upon its wharves, and there was no smoke rising from its slate roofs. It was absolutely still. The boat swung easily round in the calm water, the pier-head slipped by, the screen of the pier-head beacon suddenly cut off its glare, and she went slowly with no air in her canvas towards the patch of darkness under the quay. There, as I did not know the place, I would not pick up moorings which another man might own and need, but as my boat still crept along with what was left of her way I let go the little anchor, for it was within an hour of low tide, and I was sure of water.
-
-When I had done this she soon tugged at the chain and I slackened all the halyards. I put the cover on the mainsail, and as I did so, looking aft, I noted the high mountain-side behind the town standing clear in the dawn. I turned eastward to receive it. The light still lifted, and though I had not slept I could not but stay up and watch the glory growing over heaven. It was just then, when I had stowed everything away, that I heard to the right of me the crooning of a man.
-
-A few moments before I should not have seen him under the darkness of the sea-wall, but the light was so largely advanced (it was nearly two o’clock) that I now clearly made out both his craft and him.
-
-She was sturdy and high, and I should think of slight draught. She was of great beam. She carried but one sail, and that was brown. He had it loose, with the peak dipped ready for hoisting, and he himself was busy at some work upon the floor, stowing and fitting his bundles, and as he worked he crooned gently to himself. It was then that I hailed him, but in a low voice, so much did the silence of that place impress itself upon all living beings who were strange to it. He looked up and told me that he had not seen me come in nor heard the rattling of the chain. I asked him what he would do so early, whether he was off fishing at that hour or whether he was taking parcels down the coast for hire or goods to sell at some other port. He answered me that he was doing none of those things.
-
-“What cruise, then, are you about to take?” I said.
-
-“I am off,” he answered in a low and happy voice, “to find what is beyond the sea.”
-
-“And to what shore,” said I, “do you mean to sail?”
-
-He answered: “I am out upon this sea northward to where they say there is no further shore.”
-
-As he spoke he looked towards that horizon which now stood quite clean and clear between the pier-heads: his eyes were full of the broad daylight, and he breathed the rising [[Wind|wind]] as though it were a promise of new life and of unexpected things. I asked him then what his security was and had he formed a plan, and why he was setting out from this small place, unless, perhaps, it was his home, of which he might be tired.
-
-“No,” he answered, and smiled; “this is not my home; and I have come to it as you may have come to it, for the first time; and, like you, I came in after the whole place slept; but as I neared I noticed certain shore marks and signs which had been given me, and then I knew that I had come to the starting-place of a long voyage.”
-
-“Of what voyage?” I asked.
-
-He answered:
-
-“This is that harbour in the North of which a Breton priest once told me that I should reach it, and when I had moored in it and laid my stores on board in order, I should set sail before morning and reach at last a complete repose.” Then he went on with eagerness, though still talking low: “The voyage which I was born to make in the end, and to which my desire has driven me, is towards a place in which everything we have known is forgotten, except those things which, as we knew them, reminded us of an original joy. In that place I shall discover again such full moments of content as I have known, and I shall preserve them without failing. It is in some country beyond this sea, and it has a harbour like this harbour, only set towards the South, as this is towards the North; but like this harbour it looks out over an unknown sea, and like this harbour it enjoys a perpetual light. Of what the happy people in this country are, or of how they speak, no one has told me, but they will receive me well, for I am of one kind with themselves. But as to how I shall know this harbour, I can tell you: there is a range of hills, broken by a valley through which one sees a further and a higher range, and steering for this hollow in the hills one sees a tower out to sea upon a rock, and high up inland a white quarry on a hill-top; and these two in line are the leading marks by which one gets clear into the mouth of the river, and so to the wharves of the town. And there,” he ended, “I shall come off the sea for ever, and every one will call me by my name.”
-
-The sun was now near the horizon, but not yet risen, and for a little time he said nothing to me nor I to him, for he was at work sweating up the halyard and setting the peak. He let go the mooring knot also, but he held the end of the rope in his hand and paid it out, standing and looking upward, as the sail slowly filled and his craft drifted towards me. He pressed the tiller with his knee to keep her full.
-
-I now knew by his eyes and voice that he was from the West, and I could not see him leave me without asking him from what place he came that he should set out for such another place. So I asked him: “Are you from Ireland, or from Brittany, or from the Islands?” He answered me: “I am from none of these, but from Cornwall.” And as he answered me thus shortly he still watched the sail and still pressed the tiller with his knee, and still paid out the mooring rope without turning round.
-
-“You cannot make the harbour,” I said to him. “It is not of this world.”
-
-Just at that moment the breeze caught the peak of his jolly brown sail; he dropped the tail of the rope: it slipped and splashed into the harbour slime. His large boat heeled, shot up, just missed my cable; and then he let her go free, and she ran clear away. As she ran he looked over his shoulder and laughed most cheerily; he greeted me with his eyes, and he waved his hand to me in the morning light.
-
-He held her well. A clean wake ran behind her. He put her straight for the harbour-mouth and passed the pier-heads and took the sea outside.
-
-Whether in honest truth he was a fisherman out for fishes who chose to fence with me, or whether in that cruise of his he landed up in a Norwegian bay, or thought better of it in Orkney, or went through the sea and through death to the place he desired, I have never known.
-
-I watched him holding on, and certainly he kept a course. The sun rose, the town awoke, but I would not cease from watching him. His sail still showed a smaller and a smaller point upon the sea; he did not waver. For an hour I caught it and lost it, and caught it again, as it dwindled; for half another hour I could not swear to it in the blaze. Before I had wearied it was gone.
-
-* * *
-
-Oh! my companions, both you to whom I dedicate this book and you who have accompanied me over other hills and across other waters or before the guns in Burgundy, or you others who were with me when I seemed alone — that ulterior shore was the place we were seeking in every cruise and march and the place we thought at last to see. We, too, had in mind that Town of which this man spoke to me in the Scottish harbour before he sailed out northward to find what he could find. But I did not follow him, for even if I had followed him I should not have found the Town.
-
-
-
-
 <span class="atom-split" data-atom="story_07_the_wing_of_dalua--part_01" data-title="Hills and the Sea — THE WING OF DALUA (part 1)" data-chapter="THE WING OF DALUA" data-kind="excerpt"></span>
 
 
@@ -3349,6 +2453,186 @@ It was precisely a century since the Family had set out in its quest for that hu
 
 
 
+<span class="atom-split" data-atom="story_11_the_election" data-title="Hills and the Sea — THE ELECTION" data-chapter="THE ELECTION" data-kind="story"></span>
+
+
+THE ELECTION
+
+THE OTHER DAY as I was going out upon my travels, I came upon a plain so broad that it greatly wearied me. This plain was grown in parts with barley, but as it stood high in foreign [[Mountains|mountains]] and was arid, very little was grown. Small runnels, long run dry under the heat, made the place look like a desert — almost like Africa; nor was there anything to relieve my gaze except a huddle of small grey houses far away; but when I reached them I found, to my inexpressible joy, a railway running by and a station to receive me.
+
+For those who complain of railways talk folly, and prove themselves either rich or, more probably, the hangers-on of the rich. A railway is an excellent thing; it takes one quickly through the world for next to nothing, and if in many countries the people it takes are brutes, and disfigure all they visit, that is not the fault of the railway, but of the Government and religion of these people, which, between them, have ruined the citizens of the State.
+
+So was it not in this place of which I speak, for all the people were industrious, wealthy, kind, amenable, and free.
+
+I took a ticket for the only town on the railway list whose history I knew, and then in a third-class carriage made entirely of wood I settled down to a conversation with my kind; for though these people were not of my blood — indeed, I am certain that for some hundreds of years not a drop of their blood has mingled with my own — yet we understood each other by a common tongue called Lingua Franca, of which I have spoken in another place and am a past master.
+
+As all the people round began their talk of cattle, land, and weather, two men next me, or rather the one next me and the other opposite me, began to talk of the election which had been held in that delightful plain: by which, as I learnt, a dealer in herds had been defeated by a somewhat usurious and perhaps insignificant attorney. In this election more than half the voters — that is, a good third of the families in the plain — had gone up to the little huts of wood and had made a mark upon a bit of paper, some on one part, some on the other. About a sixth of the families had desired the dealer in herds to make their laws, and about a sixth the attorney. Of the rest some could not, some would not, go and make the little mark of which I speak. Many more could by law make it, and would have made it, if they had thought it useful to any possible purpose under the sun. One-sixth, I say, had made their mark for the aged and money-lending attorney, and one-sixth for the venerable but avaricious dealer in herds, and since the first sixth was imperceptibly larger than the second it was the lawyer, not the merchant, who stood to make the laws for the people. But not only to make laws: he was also in some mystic way the Persona and Representative of all the plain. The long sun-lit fields; the infinite past — Carolingian, enormous; the delicate fronds of young trees; the distant sight of the [[Mountains|mountains]], which is the note of all that land; the invasions it had suffered, the conquests it might yet achieve; its soul and its material self, were all summed up in the solicitor, not in the farmer, and he was to vote on peace or war, on wine or water, on God or no God in the schools. For the people of the plain were self-governing; they had no lords.
+
+Of my two companions, the one had voted for the cow-buyer, but the other for the scribbler upon parchment, and they discussed their action without heat, gently and with many reasons.
+
+The one said: “It cannot be doubted that the solidarity of society demands that the homogeneity of economic interests should be recognised by the magistrate.” The other said: “The first need is rather that the historic continuity of society should be affirmed by the momentary depositaries of the executive.”
+
+For these two men were of some education, and saw things from a higher standpoint than the peasants around us, who continued to discourse, now angrily, now merrily, but always loudly and rapidly, upon the insignificant matter of their lives: that is, strong, red, bubbling wine, healthy and well-fed beef, rich land and housing, the marriage of daughters, and the putting forward of sons.
+
+Then one of the two, who had long guessed by my dress and face from what country I came, said to me: “And you, how is it in your country?” I told him we met from time to time, upon occasions not less often than seven years apart, and did just as they had done. That one-sixth of us voted one way and one-sixth the other; the first, let us say, for a moneylender, and the second for a man remarkable for motor-cars or famous for the wealth of his mother; and whichever sixth was imperceptibly larger than the other, that sixth carried its man, and he stood for the flats of the Wash or for the clear hills of Cumberland, or for Devon, which is all one great and lonely hill.
+
+“This man,” said I, “in some very mystic way is Ourselves — he is our past and our great national memory. By his vote he decides what shall be done; but he is controlled.”
+
+“By what is he controlled?” said my companions eagerly. Evidently they had a sneaking love of seeing representatives controlled.
+
+“By a committee of the rich,” said I promptly.
+
+At this they shrugged their shoulders and said: “It is a bad system!”
+
+“And by what are yours?” said I.
+
+At this the gravest and oldest of them, looking as it were far away with his eyes, answered: “By the name of our country and a wholesome terror of the people.”
+
+“Your system,” said I, shrugging my shoulders in turn, but a little awkwardly, “is different from ours.”
+
+After this, we were silent all three. We remembered, all three of us, the times when no such things were done in Europe, and yet men hung well together, and a nation was vaguer and yet more instinctive and ready. We remembered also — for it was in our common [[Faith|faith]] — the gross, permanent, and irremediable imperfection of human affairs. There arose perhaps in their minds a sight of the man they had sent to be the spirit and spokesman, or rather the very self, of that golden plateau which the train was crawling through, and certainly in my mind there rose the picture of a man — small, false, and vile — who was, by some fiction, the voice of a certain valley in my own land.
+
+Then I said to them as I left the train at the town I spoke of: “Days, knights!” — for so one addresses strangers in that country. And they answered: “Your grace, we commend you to God.”
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_12_arles" data-title="Hills and the Sea — ARLES" data-chapter="ARLES" data-kind="story"></span>
+
+
+ARLES
+
+THE USE AND the pleasure of travel are closely mingled, because the use of it is fulfilment, and in fulfilling oneself a great pleasure is enjoyed. Every man bears within him not only his own direct experience, but all the past of his blood: the things his own race has done are part of himself, and in him also is what his race will do when he is dead. This is why men will always read records, and why, even when letters are at their lowest, records still remain. Thus, if a diary be known to be true, then it seems vivid and becomes famous where if it were fiction no one would find any merit in it. History, therefore, once a man has begun to know it, becomes a necessary food for the mind, without which it cannot sustain its new dimension. It is an aggregate of universal experience, nor, other things being equal, is any man’s judgment so thin and weak as the judgment of a man who knows nothing of the past. But history, if it is to be kept just and true and not to become a set of airy scenes, fantastically coloured by our later time, must be continually corrected and moderated by the seeing and handling of things.
+
+If the West of Europe be one place and one people separate from all the rest of the world, then that unity is of the last importance to us; and that it is so, the wider our learning the more certain we are. All our religion and custom and mode of thought are European. A European State is only a State because it is a State of Europe; and the demarcations between the ever-shifting States of Europe are only dotted lines, but between the Christian and the non-Christian the boundary is hard and full.
+
+Now, a man who recognises this truth will ask, “Where could I find a model of the past of that Europe? In what place could I find the best single collection of all the forms which European energy has created, and of all the outward symbols in which its soul has been made manifest? To such a man the answer should be given, ‘You will find these things better in the town of Arles than in any other place.’” A man asking such a question would mean to travel. He ought to travel to Arles.
+
+Long before men could write, this hill (which was the first dry land at the head of the Rhone delta, beyond the early mud-flats which the river was pushing out into the sea) was inhabited by our ancestors. Their barbaric huts were grouped round the shelving shore; their axes and their spindles remain.
+
+When thousands of years later the Greeks pushed northward from Massilia, Arles was the first great corner in their road and the first halting-place after the useless deserts that separated their port from the highway of the Rhone valley.
+
+At the close of Antiquity Rome came to Arles in the beginning of her expansion, and the strong memories of Rome which Arles still holds are famous. Every traveller has heard of the vast unbroken amphitheatre and the ruined temple in a market square that is still called the Forum; they are famous — but when you see them it seems to you that they should be more famous still. They have something about them so familiar and yet so unexpected that the centuries in which they were built come actively before you.
+
+* * *
+
+The city of Arles is small and packed. A man may spend an hour in it instead of a day or a year, but in that hour he can receive full communion with antiquity. For as you walk along the tortuous lane between high houses, passing on either hand as you go the ornaments of every age, you turn some dirty little corner or other and come suddenly upon the titanic arches of Rome. There are the huge stones which appal you with the Roman weight and perpetuate in their arrangement an order that has modelled the world. They lie exact and mighty; they are unmoved, clamped with metal, a little worn, enduring. They are none the less a domestic and native part of the living town in which they stand. You pass from the garden of a house that was built in your grandfather’s time, and you see familiarly before you in the street a pedestal and a column. They are two thousand years old. You read a placard idly upon the wall; the placard interests you; it deals with the politics of the place or with the army, but the wall might be meaningless. You look more closely, and you see that that wall was raised in a fashion that has been forgotten since the Antonines, and these realities still press upon you, revealed and lost again with every few steps you walk within the limited circuit of the town.
+
+Rome slowly fell asleep. The sculpture lost its power; something barbaric returned. You may see that decline in capitals and masks still embedded in buildings of the fifth century. The sleep grew deeper. There came five hundred years of which so little is left in Europe that Paris has but one doubtful tower and London nothing. Arles still preserves its relics. When Charlemagne was dead and Christendom almost extinguished the barbarian and the Saracen alternately built, and broke against, a keep that still stands and that is still so strong that one might still defend it. It is unlit. It is a dungeon; a ponderous menace above the main street of the city, blind and enormous. It is the very time it comes from.
+
+When all that fear and anarchy of the mind had passed, and when it was discovered that the West still lived, a dawn broke. The medieval civilisation began to sprout vigorously through the eleventh and twelfth centuries, as an old tree sprouts before March is out. The memorials of that transition are common enough. We have them here in England in great quantity; we call them the “Norman” architecture. A peculiarly vivid relic of that springtime remains at Arles. It is the door of what was then the cathedral — the door of St. Trophimus. It perpetuates the beginning of the civilisation of the Middle Ages. And of that civilisation an accident which has all the force of a particular design has preserved here, attached to this same church, another complete type. The cloisters of this same Church of St. Trophimus are not only the Middle Ages caught and made eternal, they are also a progression of that great experiment from its youth to its sharp close.
+
+You come into these cloisters from a little side street and a neglected yard, which give you no hint of what you are going to see. You find yourself cut off at once and put separately by. Silence inhabits the place; you see nothing but the sky beyond the border of the low roofs. One old man there, who cannot read or write and is all but blind, will talk to you of the Rhone. Then as you go round the arches, “withershins” against the sun (in which way lucky progression has always been made in sacred places), there pass you one after the other the epochs of the Middle Ages. For each group of arches come later than the last in the order of sculpture, and the sculptors during those 300 years went withershins as should you.
+
+You have first the solemn purpose of the early work. This takes on neatness of detail, then fineness; a great maturity dignifies all the northern side. Upon the western you already see that spell beneath which the Middle Ages died. The mystery of the fifteenth century; none of its wickedness but all its final vitality is there. You see in fifty details the last attempt of our race to grasp and permanently to retain the beautiful.
+
+When the circuit is completed the series ends abruptly — as the medieval story itself ended.
+
+There is no way of writing or of telling history which could be so true as these visions are. Arles, at a corner of the great main road of the Empire, never so strong as to destroy nor so insignificant as to cease from building, catching the earliest Roman march into the north, the Christian advance, the full experience of the invasions; retaining in a vague legend the memory of St. Paul; drawing in, after the long trouble, the new life that followed the Crusades, can show such visions better, I think, than Rome herself can show them.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_13_the_griffin" data-title="Hills and the Sea — THE GRIFFIN" data-chapter="THE GRIFFIN" data-kind="story"></span>
+
+
+THE GRIFFIN
+
+A SPECIALIST TOLD me once in Ealing that no inn could compare with the Griffin, a Fenland inn. “It is painted green” he said, “and stands in the town of March. If you would enjoy the Griffin, you must ask your way to that town, and as you go ask also for the Griffin, for many who may not have heard of March will certainly have heard of the Griffin.”
+
+So I set out at once for the Fens and came at the very beginning of them to a great ditch, which barred all further progress. I wandered up and down the banks for an hour thinking of the inn, when I met a man who was sadder and more silent even than the vast level and lonely land in which he lived. I asked him how I should cross the great dyke. He shook his head, and said he did not know. I asked him if he had heard of the Griffin, but he said no. I broke away from him and went for miles along the bank eastward, seeing the rare trees of the marshes dwindling in the distance, and up against the horizon a distant spire, which I thought might be the Spire of March. For March and the Griffin were not twenty miles away. And still the great ditch stood between me and my pilgrimage.
+
+* * *
+
+These dykes of the Fens are accursed things: they are the separation of friends and lovers. Here is a man whose crony would come and sit by his fireside at evening and drink with him, a custom perhaps of twenty years’ standing, when there comes another man from another part armed with public power, and digs between them a trench too wide to leap and too soft to ford. The Fens are full of such tragedies.
+
+One may march up and down the banks all day without finding a boat, and as for bridges there are none, except, indeed, the bridges which the railway makes; for the railways have grown to be as powerful as the landlords or the brewers, and can go across this country where they choose. And here the Fens are typical, for it may be said that these three monopolies — the landlords, the railways, and the brewers — govern England.
+
+* * *
+
+But at last, at a place called Oxlode, I found a boat, and the news that just beyond lay another dyke. I asked where that could be crossed, but the ferryman of Oxlode did not know. He pointed two houses out, however, standing close together out of the plain, and said they were called “Purles’ Bridge,” and that I would do well to try there. But when I reached them I found that the water was between me and them and, what is more, that there was no bridge there and never had been one since the beginning of time. Of these jests the Fens are full.
+
+In half an hour a man came out of one of the houses and ferried me across in silence. I asked him also if he had heard of the Griffin. He laughed and shook his head as the first one had done, but he showed me a little way off the village of Monea, saying that the people of that place knew every house for a day’s walk around. So I trudged to Monea, which is a village on one of the old dry islands of the marsh; but no one at Monea knew. There was, none the less, one old man who told me he had heard the name, and his advice to me was to go to the cross roads and past them towards March, and then to ask again. So I went outwards to the cross roads, and from the cross roads outward again it seemed without end, a similar land repeating itself for ever. There was the same silence, the same completely even soil, the same deep little trenches, the same rare distant and regular rows of trees.
+
+* * *
+
+Since it was useless to continue thus for you — one yard was as good as twenty miles — and since you could know nothing more of these silences, even if I were to give you every inch of the road, I will pass at once to the moment in which I saw a baker’s cart catching me up at great speed. The man inside had an expression of irritable poverty. I did not promise him money, but gave it him. Then he took me aboard and rattled on, with me by his side.
+
+I had by this time a suspicion that the Griffin was a claustral thing and a mystery not to be blurted out. I knew that all the secrets of Hermes may be reached by careful and long-drawn words, and that the simplest of things will not be told one if one asks too precipitately; so I began to lay siege to his mind by the method of dialogue. The words were these: —
+
+MYSELF: This land wanted draining, didn’t it?
+
+THE OTHER MAN: Ah!
+
+MYSELF: It seems to be pretty well drained now.
+
+THE OTHER MAN: Ugh!
+
+MYSELF: I mean it seems dry enough.
+
+THE OTHER MAN: It was drownded only last winter.
+
+MYSELF: It looks to be good land.
+
+THE OTHER MAN: It’s lousy land; it’s worth nowt.
+
+MYSELF: Still, there are dark bits — black, you may say — and thereabouts it will be good.
+
+THE OTHER MAN: That’s where you’re wrong; the lighter it is the better it is ... ah! that’s where many of ’em go wrong. (Short silence.)
+
+MYSELF: (cheerfully): A sort of loam?
+
+THE OTHER MAN (calvinistically): Ugh! — sand!... (shaking his head). It blaws away with a blast of [[Wind|wind]]. (A longer silence.)
+
+MYSELF (as though full of interest): Then you set your drills to sow deep about here?
+
+THE OTHER MAN (with a gesture of fatigue): Shoal. (Here he sighed deeply.)
+
+After this we ceased to speak to each other for several miles. Then:
+
+MYSELF: Who owns the land about here?
+
+THE OTHER MAN: Some owns parts and some others.
+
+MYSELF (angrily pointing to an enormous field with a little new house in the middle): Who owns that?
+
+THE OTHER MAN (startled by my tone): A Frenchman. He grows onions.
+
+Now if you know little of England and of the temper of the English (I mean of 0.999 of the English people and not of the 0.001 with which you associate), if, I say, you know little or nothing of your fellow-countrymen, you may imagine that all this conversation was wasted. “It was not to the point,” you say. “You got no nearer the Griffin.” You are wrong. Such conversation is like the kneading of dough or the mixing of mortar; it mollifies and makes ready; it is three-quarters of the work; for if you will let your fellow-citizen curse you and grunt at you, and if you will but talk to him on matters which he knows far better than you, then you have him ready at the end.
+
+So had I this man, for I asked him point-blank at the end of all this: “What about the Griffin?” He looked at me for a moment almost with intelligence, and told me that he would hand me over in the next village to a man who was going through March. So he did, and the horse of this second man was even faster than that of the baker. The horses of the Fens are like no horses in the world for speed.
+
+* * *
+
+This horse was twenty-three years old, yet it went as fast as though all that tomfoolery men talk about progress were true, and as though things got better by the process of time. It went so fast that one might imagine it at forty-six winning many races, and at eighty standing beyond all comparison or competition; and because it went so fast I went hammering right through the town of March before I had time to learn its name or to know whither I was driving; it whirled me past the houses and out into the country beyond; only when I had pulled up two miles beyond did I know what I had done and did I realise that I had missed for ever one of those pleasures which, fleeting as they are, are all that is to be discovered in human life. It went so fast, that before I knew what had happened the Griffin had flashed by me and was gone.
+
+* * *
+
+Yet I will affirm with the tongue of [[Faith|faith]] that it is the noblest house of call in the Fens.
+
+* * *
+
+It is better to believe than to handle or to see. I will affirm with the tongue of [[Faith|faith]] that the Griffin is, as it were, the captain and chief of these plains, and has just managed to touch perfection in all the qualities that an inn should achieve. I am speaking not of what I know by the doubtful light of physical experience, but of what I have seen with the inward eye and felt by something that transcends gross taste and touch.
+
+Low rooms of my repose! Beams of comfort and great age; drowsy and inhabiting fires; ingle-nooks made for companionship. You also, beer much better, much more soft, than the beer of lesser towns; beans, bacon, and chicken cooked to the very limit of excellence; port drawn from barrels which the simple Portuguese had sent to Lynn over the cloud-shadowed sea, and honourable Lynn without admixture had sent upon a cart to you, port undefined, port homogeneous, entirely made of wine: you also beds! Wooden beds with curtains around them, feathers for sleeping on, and every decent thing which the accursed would attempt to destroy; candles (I trust) — and trust is more perfect than proof — bread made (if it be possible) out of English wheat; milk drawn most certainly from English cows, and butter worthy of the pastures of England all around. Oh, glory to the Fens, Griffin, it shall not be said that I have not enjoyed you!
+
+* * *
+
+There is a modern habit, I know, of gloom, and men without [[Faith|faith]] upon every side recount the things that they have not enjoyed. For my part I will yield to no such habit. I will consider that I have more perfectly tasted in the mind that which may have been denied to my mere body, and I will produce for myself and others a greater pleasure than any pleasure of the sense. I will do what the poets and the prophets have always done, and satisfy myself with vision, and (who knows?) perhaps by this the Griffin of the Idea has been made a better thing (if that were possible!) than the Griffin as it is — as it materially stands in this evil and uncertain world.
+
+So let the old horse go by and snatch me from this chance of joy: he has not taken everything in his flight, and there remains something in spite of time, which eats us all up.
+
+And yet ... what is that in me which makes me regret the Griffin, the real Griffin at which they would not let me stay? The Griffin painted green: the real rooms, the real fire ... the material beer? Alas for mortality! Something in me still clings to affections temporal and mundane. England, my desire, what have you not refused me!
+
+* * *
+
+
+
+
 <span class="atom-split" data-atom="story_14_the_first_days_march--part_01" data-title="Hills and the Sea — THE FIRST DAY’S MARCH (part 1)" data-chapter="THE FIRST DAYS MARCH" data-kind="excerpt"></span>
 
 
@@ -3525,6 +2809,136 @@ But for the birds and this landmark, which never left us, all the length of the 
 
 
 
+<span class="atom-split" data-atom="story_16_the_cerdagne" data-title="Hills and the Sea — THE CERDAGNE" data-chapter="THE CERDAGNE" data-kind="story"></span>
+
+
+THE CERDAGNE
+
+THERE IS A part of Europe of which for the moment most people have not heard, but which in a few years everybody will know; so it is well worth telling before it is changed what it is like to-day. It is called the Cerdagne. It is a very broad valley, stretching out between hills whose height is so incredible — or at least, whose appearance of height is so incredible — that when they are properly painted no one will believe them to be true. Indeed, I know a man who painted them just as they are, and those who saw the picture said it was fantastic and out of Nature, like Turner’s drawings. But those who had been with him and had seen the place, said that somehow he had just missed the effect of height.
+
+It is remarkable that in any country, even if one does not know that country well, what is unusual to the country strikes the traveller at once. And so it is with the Cerdagne. For all the valleys of the Pyrenees except this one are built upon the same plan. They are deep gorges, narrowing in two places to gates or profound corridors, one of these places being near the crest and one near the plain; and down these valleys fall violent torrents, and in them there is only room for tiny villages or very little towns, squeezed in between the sheer surfaces of the rock or the steep forests.
+
+So it is with the Valley of Laruns, and with that of Meuléon, and with that of Luz, and with those of the two Bagnères, and with the Val d’Aran, and with the Val d’Esera, and with the very famous Valley of Andorra.
+
+With valleys so made the [[Mountains|mountains]] are indeed more awful than they might be in the Alps: but you never see them standing out and apart, and the mastering elevation of the Pyrenees is not apprehended until you come to the cirque or hollow at the end of each valley just underneath the main ridge; by that time you have climbed so far that you have halved the height of the barrier.
+
+But the Cerdagne, unlike all the other valleys, is as broad as half a county, and is full of towns and fields and men and mules and slow rivulets and corn; so, standing upon either side and looking to the other, you see all together and in the large its mountain boundaries. It is like the sight of the Grampians from beyond Strathmore, but very much more grand. Moreover, as no one has written sufficiently about it to prepare the traveller for what he is to see (and in attempting to do so here I am probably doing wrong, but a man must write down what he has seen), the Cerdagne breaks upon him quite unexpectedly, and his descent into that wealthy plain is the entry into a new world. He may have learnt the [[Mountains|mountains]] by heart, as we had, in many stumbling marches and many nights slept out beneath the trees, and many crossings of the main chain by those precipitous cols which make the ridge of the Pyrenees more like a paling than a mountain crest, but though he should know them thoroughly all the way from the Atlantic for two hundred miles, the Cerdagne will only appear to him the more astonishing. It renews in any man however familiar he may be with great [[Mountains|mountains]], the impressions of that day when he first saw the distant summits and thought them to be clouds.
+
+Apart from all this, the Cerdagne is full of a lively interest, because it preserves far better than any other Pyrenean valley those two Pyrenean things — the memory of European history and the intense local spirit of the Vals.
+
+The memory of European history is to be seen in the odd tricks which the frontier plays. It was laid down by the commissioners of Mazarin two hundred and fifty years ago, and instead of following the watershed (which would leave the Cerdagne all Spanish politically as it is Catalan by language and position) it crosses the valley from one side to another, leaving the top end of it and the sources of its rivers under French control.
+
+That endless debate as to whether race or government will most affect a people can here be tested, though hardly decided. The villages are Spanish, the hour of meals is Spanish, and the wine is Spanish wine. But the clocks keep time, and the streets are swept, and, oddest of all, the cooking is French cooking. The people are Spanish in that they are slow to serve you or to find you a mount or to show you the way, but they are French in that they are punctual in the hour at which they have promised to do these things; and they are Spanish in the shapes of their ricks and the nature of their implements, but French in the aspect of their fields. One might also discuss — it would be most profitable of all — where they are Spanish and where they are French in their observance of religion.
+
+This freak which the frontier plays in cutting so united a countryside into two by an imaginary line is further emphasised by an island of Spanish territory which has been left stranded, as it were, in the midst of the valley. It is called Llivia, and is about as large as a large English country parish, with a small country town in the middle.
+
+One comes across the fields from villages where the signs and villagers and the very look of the surface of the road are French; one suddenly notices Spanish soldiers, Spanish signs, and Spanish prices in the streets of the little place; one leaves it, and in five minutes one is in [[France]] again. It is connected with its own country by a neutral road, but it is an island of territory all the same, and the reason that it was so left isolated is very typical of the old regime, with its solemn legal pedantry, which we in England alone preserve in all Western Europe. For the treaty which marked the limits here ceded to the French “the valley and all its villages.” The Spaniards pleaded that Llivia was not a village but a town, and their plea was admitted.
+
+I began by saying that this wide basin of land, with its strong people and its isolated traditions, though it was so little known to-day, would soon be too well known. So it will be, and the reason is this, that the very low pass at one end of it will soon be crossed by a railway. It is the only low pass in the Pyrenees, and it is so gradual and even (upon the Spanish side) that the railway will everywhere be above ground. Within perhaps five years it will be for the Pyrenees what the Brenner is for the Alps, and when that is done any one who has read this may go and see for himself whether it is not true that from that plain at evening the frontier ridge of Andorra seems to be the highest thing in the world.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_17_carcassonne" data-title="Hills and the Sea — CARCASSONNE" data-chapter="CARCASSONNE" data-kind="story"></span>
+
+
+CARCASSONNE
+
+CARCASSONNE DIFFERS FROM other monumental towns in this: that it preserves exactly the aspect of many centuries up to a certain moment, and from that moment has “set,” and has suffered no further change. You see and touch, as you walk along its ramparts, all the generations from that crisis in the fifth century when the public power was finally despaired of — and after which each group of the Western Empire began to see to its own preservation — down to that last achievement of the thirteenth, when medieval civilisation had reached its full flower and was ready for the decline that followed the death of St. Louis and the extinction of the German phantasy of empire.
+
+No other town can present so vivid and clean-cut a fossil of the seven hundred years into which poured and melted all the dissolution of antiquity, and out of which was formed or chrystallised the highly specialised diversity of our modern Europe.
+
+In the fascination of extreme age many English sites are richer; Winchester and Canterbury may be quoted from among a hundred. In the superimposition of age upon age of human history, Arles and Rome are far more surprising. In historic continuity most European towns surpass it, from Paris, whose public justice, worship, and market have kept to the same site for quite sixteen centuries, to London, of which the city at least preserves upon three sides the Roman limit. But no town can of its nature give as does Carcassonne this overwhelming impression of survival or resurrection.
+
+* * *
+
+The attitude and position of Carcassonne enforce its character. Up above the river, but a little set back from the valley, right against the dawn as you come to it from Toulouse through the morning, stands a long, steep, and isolated rock, the whole summit of which from the sharp cliff on the north to that other on the south is doubled in height by what seems one vast wall — and more than twenty towers. Indeed, it is at such a time, in early morning, and best in winter when the frost defines and chisels every outline, that Carcassonne should be drawn. You then see it in a band of dark blue-grey, all even in texture, serrated and battlemented and towered, with the metallic shining of the dawn behind it.
+
+So to have seen it makes it very difficult to write of it or even to paint; what one wishes to do is rather to work it out in enamel upon a surface of bronze. This rock, wholly covered with the works of the city, stands looking at the Pyrenees and holding the only level valley between the Mediterranean and the Garonne, and even if one had read nothing concerning it one would understand why it has filled all the legends of the return of armies from Spain, why Victor Hugo could not rest from the memory of it, and why it is so strongly woven in with the story of Charlemagne.
+
+There is another and better reason for the quality of Carcassonne, and that is the act, to which I can recall no perfect parallel in Christian history, by which St. Louis turned what had been a living town into a mere stronghold. Every inhabitant of Carcassonne was transferred, not to suburbs, but right beyond the river, a mile and more away, to the site of that delightful town which is the Carcassonne of maps and railways, the place where the seventeenth century meets you in graceful ornaments, and where is, to my certain knowledge, the best inn south of parallel 45. St. Louis turned the rock into a mere stronghold, strengthened it, built new towers, and curtained them into that unsurpassable masonry of the central Middle Ages which you may yet admire in Aigues-Mortes and in Carnarvon.
+
+This political act, the removal of a whole city, may have been accomplished in many other places; it is certainly recorded of many: but, for the moment at least, I can remember none except Carcassonne in which its consequences have remained. To this many causes have contributed, but chiefly this, that the new town was transferred to the open plain from the trammels of a narrow plateau, just at the moment when all the towns of Western Europe were growing and breaking their bonds; just after the principal cities of north-western Europe had got their charters, and when Paris (the typical municipality of that age as of our own) was trebling its area and its population.
+
+The transference of the population once accomplished, the rock and towers of Carcassonne ceased to change and to grow. Humanity was gone. The fortress was still of great value in war; the Black Prince attempted its destruction, and it is only within living memory that it ceased to be set down on maps (and in Government offices!) as a fortified place: but the necessity for immediate defence, and the labour which would have remodelled it, had disappeared. There had disappeared also that eager and destructive activity which accompanies any permanent gathering of French families. The new town on the plain changed perpetually, and is changing still. It has lost almost everything of the Middle Ages; it carries, by a sort of momentum, a flavour of Louis XIV, but the masons are at it as they are everywhere, from the Channel to the Mediterranean; for to pull down and rebuild is the permanent recreation of the French. The rock remains. It is put in order whenever a stone falls out of place — no one of weight has talked nonsense here against restoration, for the sense of the past is too strong — but though it is minutely and continually repaired, Old Carcassonne does not change. There is no other set of walls in Europe of which this is true.
+
+* * *
+
+Walking round the circuit of these walls and watching from their height the long line of the [[Mountains|mountains]], one is first held by that modern subject, the landscape, or that still more modern fascination of great hills. Next one feels what the Middle Ages designed of mass and weight and height, and wonders by what accident of the mind they so succeeded in suggesting infinity: one remembers Beauvais, which is infinitely high at evening, and the tower of Portrut, which seems bigger than any hill.
+
+But when these commoner emotions are passed, one comes upon a very different thing. A little tower there, jutting out perilously from the wall, shows three courses of a small red brick set in a mortar-like stone. When I saw this kind of building I went close up and touched it with my hand. It was Roman. I knew the signal well. I had seen that brick, and picked it loose from an Arab stable on the edge of the Sahara, and I had seen it jutting through moss on the high moors of Northumberland. I know a man who reverently brought home to Sussex such another, which he had found unbroken far beyond Damascus upon the Syrian sand.
+
+It is easy to speak of the Empire and to say that it established its order from the Tyne to the Euphrates; but when one has travelled alone and on foot up and down the world and seen its vastness and its complexity, and yet everywhere the unity even of bricks in their courses, then one begins to understand the name of Rome.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_18_lynn" data-title="Hills and the Sea — LYNN" data-chapter="LYNN" data-kind="story"></span>
+
+
+LYNN
+
+EVERY MAN THAT lands in Lynn feels all through him the antiquity and the call of the town; but especially if he comes, as I came in with another man in springtime, from the miles and miles of emptiness and miles of bending grass and the shouting of the [[Wind|wind]]. After that morning, in which one had been a little point on an immense plane, with the gale not only above one, as it commonly is, but all around one as it is at sea; and after having steeped one’s mind in the peculiar loneliness which haunts a stretch of ill-defined and wasted shore, the narrow, varied, and unordered streets of the port enhance the creations of man and emphasise his presence.
+
+Words so few are necessarily obscure. Let me expand them. I mean that the unexpected turning of the ways in such a port is perpetually revealing something new; that the little spaces frame, as it were, each unexpected sight: thus at the end of a street one will catch a patch of the Fens beyond the river, a great moving sail, a cloud, or the sculptured corner of an excellent house.
+
+The same history also that permitted continual encroachment upon the public thoroughfares and that built up a gradual High Street upon the line of some cow-track leading from the fields to the ferry, the spirit that everywhere permitted the powerful or the cunning to withstand authority — that history (which is the history of all our little English towns) has endowed Lynn with an endless diversity.
+
+It is not only that the separate things in such towns are delightful, nor only that one comes upon them suddenly, but also that these separate things are so many. They have characters as men have. There is nothing of that repetition which must accompany the love of order and the presence of strong laws. The similar insistent forms which go with a strong civilisation, as they give it majesty, so they give it also gloom, and a heavy feeling of finality: these are quite lacking here in England, where the poor have for so long submitted to the domination of the rich, and the rich have dreaded and refused a central government. Everything that goes with the power of individuals has added peculiarity and meaning to all the stones of Lynn. Moreover, a quality whose absence all men now deplore was once higher in England than anywhere else, save, perhaps, in the northern Italian hills. I mean ownership, and what comes from ownership — the love of home.
+
+You can see the past effect of ownership and individuality in Lynn as clearly as you can catch affection or menace in a human voice. The outward expression is most manifest, and to pass in and out along the lanes in front of the old houses inspires in one precisely those emotions which are aroused by a human crowd.
+
+All the roofs of Lynn and all its pavements are worthy (as though they were living beings) of individual names.
+
+Along the river shore, from the race of the ebb that had so nearly drowned me many years before, I watched the walls that mark the edge of the town against the Ouse, and especially that group towards which the ferry-boat was struggling against the eddy and tumble of the tide.
+
+They were walls of every age, not high, brick of a dozen harmonious tones, with the accidents, corners, and breaches of perhaps seven hundred years. Beyond, to the left, down the river, stood the masts in the new docks that were built to preserve the trade of this difficult port. Up-river, great new works of I know not what kind stood like a bastion against the plain; and in between ran these oldest bits of Lynn, somnolescent and refreshing — permanent.
+
+The lanes up from the Ouse when I landed I found to be of a slow and natural growth, with that slight bend to them that comes, I believe, from the drying of fishing-nets. For it is said that courts of this kind grew up in our sea-towns all round our eastern and the southern coast in such a manner. It happened thus.
+
+The town would begin upon the highest of the bank, for it was flatter for building, drier and easier to defend than that part next to the water. Down from the town to the shore the fishermen would lay out their nets to dry. How nets look when they are so laid, their narrowness and the curve they take, everybody knows. Then on the spaces between the nets shanties would be built, or old boats turned upside down for shelter, so that the curing of fish and the boiling of tar and the serving and parcelling of ropes could be done under cover. Then as the number of people grew, the squatters’ land got value, and houses were raised (you will find many small freeholds in such rows to this day), but the lines of the net remained in the alley-ways between the houses.
+
+All this I was once told by an old man who helped me to take my boat down Breydon. He wore trousers of a brick red, and the stuff of them as thick as boards, and had on also a very thick jersey and a cap of fur. He was shaved upon his lips and chin, but all round the rest of his face was a beard. He smoked a tiny pipe, quite black, and upon matters within his own experience he was a great liar; but upon matters of tradition I was willing to believe him.
+
+Within the town, when I had gained it from that lane which has been the ferry-lane, I suppose, since the ferry began, age and distinction were everywhere.
+
+Where else, thought I, in England could you say that nine years would make no change? Whether, indeed, the Globe had that same wine of the nineties I could not tell, for the hour was not congenial to wine; but if it has some store of its Burgundy left from those days it must be better still by now, for Burgundy wine takes nine years to mature, for nine years remains in the plenitude of its powers, and for nine years more declines into an honourable age; and this is also true of claret, but in claret it goes by sevens.
+
+* * *
+
+The open square of the town, which one looks at from the Globe, gives one a mingled pleasure of reminiscence and discovery. It breaks on one abruptly. It is as wide as the pasture field, and all the houses are ample and largely founded. Indeed, throughout this country, elbow-room — the sense that there is space enough and to spare in such flats and under an open sky — has filled the minds of builders. You may see it in all the inland towns of the Fens; and one found it again here upon the further bank, upon the edge of the Fens; for though Lynn is just off the Fens, yet it looks upon their horizon and their sky, and belongs to them in spirit.
+
+In this large and comfortable square a very steadfast and most considerable English bank is to be discovered. It is of honest brown brick! its architecture is of the plainest; its appearance is such that its credit could never fail, and that the house alone by its presence could conduct a dignified business for ever. The rooms in it are so many and so great that the owners of such a bank (having become princes by its success) could inhabit them with a majesty worthy of their new title. But who lives above his shop since Richardson died? And did old Richardson? Lord knows!... Anyhow, the bank is glorious, and it is but one of the fifty houses that I saw in Lynn.
+
+Thus, in the same street as the Globe, was a façade of stone. If it was Georgian, it was very early Georgian, for it was relieved with ornaments of a delicate and accurate sort, and the proportions were exactly satisfying to the eye that looked on it. The stone also was of that kind (Portland stone, I think) which goes black and white with age, and which is better suited than any other to the English climate.
+
+In another house near the church I saw a roof that might have been a roof for a town. It covered the living part and the stables, and the outhouse and the brewhouse, and the barns, and for all I know the pig-pens and the pigeons’ as well. It was a benediction of a roof — a roof traditional, a roof patriarchal, a roof customary, a roof of permanence and unity, a roof that physically sheltered and spiritually sustained, a roof majestic, a roof eternal. In a word, it was a roof catholic.
+
+And what, thought I, is paid yearly in this town for such a roof as that? I do not know; but I know of another roof at Goudhurst, in Kent, which would have cost me less than £100 a year, only I could not get it for love or money.
+
+Then is also in Lynn a Custom House not very English, but very beautiful. The faces carved upon it were so vivid that I could not but believe them to have been carved in the Netherlands, and from this Custom House looks down the pinched, unhappy face of that narrow gentleman whom the great families destroyed — James II.
+
+There is also in Lynn what I did not know was to be seen out of Sussex — a Tudor building of chipped flints, and on it the mouldering arms of Elizabeth.
+
+The last Gothic of this Bishop’s borough which the King seized from the Church clings to chance houses in little carven masks and occasional ogives: there is everywhere a feast for whatever in the mind is curious, searching, and reverent, and over the town, as over all the failing ports of our silting eastern seaboard, hangs the air of a great past time, the influence of the Baltic and the Lowlands.
+
+* * *
+
+For these ancient places do not change, they permit themselves to stand apart and to repose and — by paying that price — almost alone of all things in England they preserve some historic continuity, and satisfy the memories in one’s blood.
+
+* * *
+
+So having come round to the Ouse again, and to the edge of the Fens at Lynn, I went off at random whither next it pleased me to go.
+
+* * *
+
+
+
+
 <span class="atom-split" data-atom="story_19_the_guns--part_01" data-title="Hills and the Sea — THE GUNS (part 1)" data-chapter="THE GUNS" data-kind="excerpt"></span>
 
 
@@ -3597,6 +3011,232 @@ The seventh battery, with which we had little to do (for in quarters they belong
 As the ninth battery passed us we were given the order to mount, and knew that our place came next. The long-drawn Ha-a-lte! and the lifted swords down the road contained for a while the batteries that were to follow, and we filed out of our side road into the long gap they had left us. Then, taking up the trot, ourselves, we heard the order passing down infinitely till it was lost in the length of the road; the trumpets galloped past us and formed at the head of the column; a much more triumphant noise of brass than we had yet heard heralded us with a kind of insolence, and the whole train with its two miles and more of noisy power gloried into the old town of Bar-le-Duc, to the great joy of its young men and women at the windows, to the annoyance of the householders, to the stupefaction of the old, and doubtless to the ultimate advantage of the Republic.
 
 When we had formed park in the grey market-square, ridden our horses off to water at the river and to their quarters, cleaned kit and harness, and at last were free — that is, when it was already evening — Matthieu, a friend of mine who had come by another road with his battery, met me strolling on the bridge. Matthieu was of my kind, he had such a lineage as I had and such an education. We were glad to meet. He told me of his last halting-place — Pagny — hidden on the upper river. It is the place where the houses of Luxembourg were buried, and some also of the great men who fell when Henry V of England was fighting in the North, and when on this flank the Eastern dukes were waging the Burgundian wars. It was not the first time that the tumult of men in arms had made echoes along the valley. Matthieu and I went off together to dine. He lent me a pin of his, a pin with a worked head, to pin my tunic with where it was torn, and he begged me to give it back to him. But I have it still, for I have never seen him since; nor shall I see him, nor he me, till the Great Day.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_20_the_looe_stream" data-title="Hills and the Sea — THE LOOE STREAM" data-chapter="THE LOOE STREAM" data-kind="story"></span>
+
+
+THE LOOE STREAM
+
+OF THE COMPLEXITY of the sea, and of how it is manifold, and of how it mixes up with a man, and may broaden or perfect him, it would be very tempting to write; but if one once began on this, one would be immeshed and drowned in the metaphysic, which never yet did good to man nor beast. For no one can eat or drink the metaphysic, or take any sustenance out of it, and it has no movement or colour, and it does not give one joy or sorrow; one cannot paint it or hear it, and it is too thin to swim about in. Leaving, then, all these general things, though they haunt me and tempt me, at least I can deal little by little and picture by picture with that sea which is perpetually in my mind, and let those who will draw what philosophies they choose. And the first thing I would like to describe is that of a place called the Looe Stream, through which in a boat only the other day I sailed for the first time, noticing many things. When St. Wilfrid went through those bare heaths and coppices, which were called the forest of Anderida, and which lay all along under the Surrey Downs, and through which there was a long, deserted Roman road, and on this road a number of little brutish farms and settlements (for this was twelve hundred years ago), he came out into the open under the South Downs, and crossed my hills and came to the sea plain, and there he found a kind of Englishman more savage than the rest, though Heaven knows there were none of them particularly refined or gay. From these Englishmen the noble people of Sussex are descended.
+
+Already the rest of England had been Christian a hundred years when St. Wilfrid came down into the sea plain, and found, to his astonishment, this sparse and ignorant tribe. They were living in the ruins of the Roman palaces; they were too stupid to be able to use any one of the Roman things they had destroyed. They had kept, perhaps, some few of the Roman women, certainly all the Roman slaves. They had, therefore, vague memories of how the Romans tilled the land.
+
+But those memories were getting worse and worse, for it was nearly two hundred years since the ships of Aella had sailed into Shoreham (which showed him to be a man of immense determination, for it is a most difficult harbour, and there were then no piers and lights) — it was nearly two hundred years, and there was only the least little glimmering twilight left of the old day. These barbarians were going utterly to pieces, as barbarians ever will when they are cut off from the life and splendour of the south. They had become so cretinous and idiotic, that when St. Wilfrid came wandering among them they did not know how to get food. There was a famine, and as their miserable religion, such as it was (probably it was very like these little twopenny-halfpenny modern heresies of their cousins, the German pessimists) — their religion, I say, not giving them the jolly energy which all decent Western religion gives a man, they being also by the wrath of God deprived of the use of wine (though tuns upon tuns of it were waiting for them over the sea a little way off, but probably they thought their horizon was the end of the world) — their religion, I say, being of this nature, they had determined, under the pressure of that famine which drove them so hard, to put an end to themselves, and St. Wilfrid saw them tying themselves together in bands (which shows that they knew at least how to make rope) and jumping off the cliffs into the sea. This practice he determined to oppose.
+
+He went to their King — who lived in Chichester, I suppose, or possibly at Bramber — and asked him why the people were going on in this fashion, who said to him: “It is because of the famine.”
+
+St. Wilfrid, shrugging his shoulders, said: “Why do they not eat fish?”
+
+“Because,” said the King, “fish, swimming about in the water, are almost impossible to catch. We have tried it in our hunger a hundred times, but even when we had the good luck to grasp one of them, the slippery thing would glide from our fingers.”
+
+St. Wilfrid then in some contempt said again:
+
+“Why do you not make nets?”
+
+And he explained the use of nets to the whole Court, preaching, as it were, a sermon upon nets to them, and craftily introducing St. Peter and that great net which they hang outside his tomb in Rome upon his feast day — which is the 29th of June. The King and his Court made a net and threw it into the sea, and brought out a great mass of fish. They were so pleased that they told St. Wilfrid they would do anything he asked. He baptised them and they made him their first bishop; and he took up his residence in Selsey, and since then the people of Sussex have gone steadily forward, increasing in every good thing, until they are now by far the first and most noble of all the people in the world.
+
+There is I know not what in history, or in the way in which it is taught, which makes people imagine that it is something separate from the life they are living, and because of this modern error, you may very well be wondering what on earth this true story of the foundation of our country has to do with the Looe Stream. It has everything to do with it. The sea, being governed by a pagan god, made war at once, and began eating up all those fields which had specially been consecrated to the Church, civilisation, common sense, and human happiness. It is still doing so, and I know an old man who can remember a forty-acre field all along by Clymping having been eaten up by the sea; and out along past Rustington there is, about a quarter of a mile from the shore, a rock, called the Church Rock, the remains of a church which quite a little time ago people used for all the ordinary purposes of a church.
+
+The sea then began to eat up Selsey. Before the Conquest — though I cannot remember exactly when — the whole town had gone, and they had to remove the cathedral to Chichester. In Henry VIII’s time there was still a park left out of the old estates, a park with trees in it; but this also the sea has eaten up; and here it is that I come to the Looe Stream. The Looe Stream is a little dell that used to run through the park, and which to-day, — right out at sea, furnishes the only gate by which ships can pass through the great maze of banks and rocks which go right out to sea from Selsey Bill, miles and miles, and are called the Owers.
+
+On the chart that district is still called “The Park,” and at very low tides stumps of the old trees can be seen; and for myself I believe, though I don’t think it can be proved, that in among the masses of sand and shingle which go together to make the confused dangers of the Owers, you would find the walls of Roman palaces, and heads of bronze and marble, and fragments of mosaic and coins of gold.
+
+The tide coming up from the Channel finds, rising straight out of the bottom of the sea, the shelf of this old land, and it has no avenue by which to pour through save this Looe Stream, which therefore bubbles and runs like a mill-race, though it is in the middle of the sea.
+
+If you did not know what was underneath you, you could not understand why this river should run separate from the sea all round, but when you have noticed the depths on the chart, you see a kind of picture in your mind: the wall of that old mass of land standing feet above the floor of the Channel, and the top of what was once its fields and its villas, and its great church almost awash at low tides, and through it a cleft, which was, I say, a dell in the old park, but is now that Looe Stream buoyed up on either side, and making a river by itself running in the sea.
+
+Sailing over it, and remembering all these things at evening, I got out of the boil and tumble into deep water. It got darker, and the light on the Nab [[Ship|ship]] showed clearly a long way off, and purple against the west stood the solemn height of the island. I set a course for this light, being alone at the tiller, while my two companions slept down below. When the night was full the little variable air freshened into a breeze from the south-east; it grew stronger and stronger, and lifted little hearty following seas, and blowing on my quarter drove me quickly to the west, whither I was bound. The night was very warm and very silent, although little patches of foam murmured perpetually, and though the [[Wind|wind]] could be heard lightly in the weather shrouds.
+
+The star Jupiter shone brightly just above my wake, and over Selsey Bill, through a flat band of mist, the red moon rose slowly, enormous.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_21_roncesvalles" data-title="Hills and the Sea — RONCESVALLES" data-chapter="RONCESVALLES" data-kind="story"></span>
+
+
+RONCESVALLES
+
+SITTING ONE DAY in Pampeluna, which occupies the plain just below the southern and Spanish escarpment of the Pyrenees, I and another remembered with an equal desire that we had all our lives desired to see Roncesvalles and the place where Roland died. This town (we said) was that which Charlemagne destroyed upon his march to the Pass, and I, for my part, desired here, as in every other part of Europe where I had been able to find his footsteps, to follow them, and so to re-create his time.
+
+The road leads slantwise through the upper valleys of Navarre, crossing by passes the various spurs of the [[Mountains|mountains]], but each pass higher than the last and less frequented, for each is nearer the main range. As you leave Pampeluna the road grows more and more deserted, and the country through which it cuts more wild. The advantages of wealth which are conferred by the neighbourhood of the capital of Navarre are rapidly lost as one proceeds; the houses grow rarer, the shrines more ruinous and more aged, until one comes at last upon the bleak valley which introduces the final approach to Roncesvalles.
+
+The wealth and order everywhere associated with the Basque blood have wholly disappeared. This people is not receding — it holds its own, as it deserves to do; but as there are new fields which it has occupied within the present century upon the more western hills, so there are others to the east, and this valley among them, from whence it has disappeared. The Basque names remain, but the people are no longer of the Basque type, and the tongue is forgotten.
+
+So gradual is the ascent and so continual the little cols which have to be surmounted, that a man does not notice how much upward he is being led towards the crest of the ridge. And when he comes at last upon the grove from which he sees the plateau of Roncesvalles spread before him, he wonders that the chain of the Pyrenees (which here lie out along in cliffs like sharp sunward walls, stretching in a strict perspective to the distant horizon) should seem so low. The reason that this white wall of cliffs seems so low is that the traveller is standing upon the last of a series of great steps which have led him up towards the frontier, much as the prairie leads one up towards the Rockies in Colorado. When he has passed through the very pleasant wood which lies directly beneath the cliffs, and reaches the little village of Roncesvalles itself, he wonders still more that so famous a pass should be so small a thing. The pass from this side is so broad, with so low a saddle of grass, that it seems more like the crossing of the Sussex Downs than the crossing of an awful range of [[Mountains|mountains]]. It is a rounded gap, up to which there lifts a pretty little wooded combe; and no one could be certain, during the half-hour spent in climbing such a petty summit, that he was, in so climbing, conquering Los Altos, the high Pyrenees.
+
+But when the summit is reached, then the meaning of the “Imus Pyrenaeus,” and the place that passage has taken in history, is comprehended in a moment. One sees at what a height one was in that plain of Roncesvalles, and one sees how the main range dominates the world; for down below one an enormous cleft into the stuff of the [[Mountains|mountains]] falls suddenly and almost sheer, and you see unexpectedly beneath you the approach from [[France]] into Spain. The gulf at its narrowest is tremendous; but, more than that, when the floor of the valley is reached, that floor itself slopes away down and down by runs and by cascades towards the very distant plains of the north, upon which the funnel debouches. Moreover, it was up this gulf, and from the north, that the armies came; it was this vision of a precipice that seized them when their leaders had determined to invade the Peninsula. This also was what, for so many generations, so many wanderers must have seen who came to [[Wonder|wonder]] at the place where the rearguard of Charlemagne had been destroyed.
+
+The whole of the slope is covered with an ancient wood, and this wood is so steep that it would be impossible or dangerous to venture down it. The old Carolingian road skirts the mountain-side with difficulty, clinging well up upon its flank; the great modern road, which is excellent and made for artillery, has to go even nearer the summit; below them there falls away a slant or edge to which the huge beech trees cling almost parallel to the steep earth, running their perpendicular lines so high and close against the hill that they look like pines. As you peer down in among the trunks, you see the darkness increasing until the eye can penetrate no more, and dead, enormous trees that have lived their centuries, and have fallen perhaps for decades, lie across the aisles of the wood, propped up against their living fellows; for, by one of those political accidents which are common throughout the whole length of the Pyrenees, both sides of the watershed belong to Spain, so that no Government or modern energy has come to disturb the silence. One would swear that the last to order this wood were the Romans.
+
+I had thought to find so famous a valley peopled, or at least visited. I found it utterly alone, and even free from travellers, as though the wealthier part of Europe had forgotten the most famous of Christian epics. I saw no motor-cars, nor any women — only at last, in the very depths of the valley, a boy cutting grass in a tiny patch of open land. And it was hereabouts, so far as I could make out, that the Peers were killed.
+
+The song, of course, makes them fall on the far side of the summit, upon the fields of Roncesvalles, with the sun setting right at them along the hills. And that is as it should be, for it is evident that (in a poem) the hero fighting among hills should die upon the enemy’s side of the hills. But that is not the place where Roland really died. The place where he really died, he and Oliver and Turpin and all the others, was here in the very recess of the Northern Valley. It was here only that rocks could have been rolled down upon an army, and here is that narrow, strangling gorge where the line of march could most easily have been cut in two by the fury of the mountaineers. Also Eginhard says very clearly that they had already passed the hills and seen [[France]], and that is final. It was from these cliffs, then, that such an echo was made by the horn of Roland, and it was down that funnel of a valley that the noise grew until it filled Christendom; and it was up that gorge that there came, as it says in the song —
+
+The host in a tide returning:
+
+Charles the King and his Barony.
+
+This was the place. And any man who may yet believe (I know such a discussion is pedantry) — any man who may yet believe the song of Roland to have been a Northern legend had better come to this place and drink the mountains in. For whoever to-day
+
+High are the hills and huge and dim with cloud,
+
+Down in the deeps, the living streams are loud,
+
+had certainly himself stood in the silence and majesty of this valley.
+
+It was already nearly dark when we two men had clambered down to that place, and up between the walls of the valley we had already seen the early stars. We pushed on to the French frontier in an eager appetite for cleanliness and human food.
+
+The last Spanish town is called Val Carlos, as it ought to be, considering that Charlemagne himself had once come roaring by. When we reached it in the darkness we had completed a forced march of forty-two miles, going light, it is true, and carrying nothing each of us but a gourd of wine and a sack, but we were very tired. There, at the goal of our effort, one faint sign of Government and of men at last appeared. It was in character with all the rest. One might not cross the frontier upon the road without a written leave. The written leave was given us, and in half an hour Spain was free.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_22_the_slant_off_the_land" data-title="Hills and the Sea — THE SLANT OFF THE LAND" data-chapter="THE SLANT OFF THE LAND" data-kind="story"></span>
+
+
+THE SLANT OFF THE LAND
+
+WE LIVE A very little time. Before we have reached the middle of our time perhaps, but not long before, we discover the magnitude of our inheritance. Consider England. How many men, I should like to know, have discovered before thirty what treasures they may work in her air? She magnifies us inwards and outwards; her fields can lead the mind down towards the subtle beginning of things; the tiny irridescence of insects; the play of light upon the facets of a blade of grass. Her skies can lead the mind up infinitely into regions where it seems to expand and fill, no matter what immensities.
+
+It was the [[Wind|wind]] off the land that made me think of all this possession in which I am to enjoy so short a usufruct. I sat in my boat holding that tiller of mine, which is not over firm, and is but a rough bar of iron. There was no breeze in the air, and the little deep vessel swung slightly to the breathing of the sea. Her great mainsail and her baloon-jib came over lazily as she swung, and filled themselves with the cheating semblance of a [[Wind|wind]]. The boom creaked in the goose-neck, and at every roll the slack of the mainsheet tautened with a kind of little thud which thrilled the deck behind me. I saw under the curve of my headsail the long and hazy line, which is the only frontier of England; the plain that rather marries with than defies her peculiar seas. For it was in the Channel, and not ten miles from the coastline of my own country, that these thoughts rose in me during the calm at the end of winter, and the boat was drifting down more swiftly than I knew upon the ebb of the outer tide. Far off to the south sunlight played upon the water, and was gone again. The great ships did not pass near me, and so I sat under a hazy sky restraining the slight vibration of the helm and waiting for the [[Wind|wind]].
+
+In whatever place a man may be the spring will come to him. I have heard of men in prison who would note the day when its influence passed through the narrow window that was their only communion with their kind. It comes even to men in cities; men of the stupid political sort, who think in maps and whose interest is in the addition of numbers. Indeed, I have heard such men in London itself expressing pleasure when a south-west gale came up in April from over the pines of Hampshire and of Surrey and mixed the Atlantic with the air of the fields. To me this year the spring came suddenly, like a voice speaking, though a low one — the voice of a person subtle, remembered, little known, and always desired. For a wind blew off the land.
+
+The surface of the sea northward between me and the coast of Sussex had been for so many hours elastic, smooth, and dull, that I had come to forget the indications of a change. But here and there, a long way off, little lines began to show, which were indeed broad spaces of ruffled water, seen edgeways from the low free-board of my boat. These joined and made a surface all the way out towards me, but a surface not yet revealed for what it was, nor showing the movement and life and grace of waves. For no light shone upon it, and it was not yet near enough to be distinguished. It grew rapidly, but the haze and silence had put me into so dreamy a state that I had forgotten the ordinary anxiety and irritation of a calm, nor had I at the moment that eager expectancy of movement which should accompany the sight of that dark line upon the sea.
+
+Other things possessed me, the memory of home and of the Downs. There went before this breeze, as it were, attendant servants, outriders who brought with them the scent of those first flowers in the North Wood or beyond Gumber Corner, and the fragrance of our grass, the savour which the sheep know at least, however much the visitors to my dear home ignore it. A deeper sympathy even than that of the senses came with those messengers and brought me the beeches and the yew trees also, although I was so far out at sea, for the loneliness of this great water recalled the loneliness of the woods, and both those solitudes — the real and the imaginary — mixed in my mind together as they might in the mind of a sleeping man.
+
+Before this wind as it approached, the sky also cleared: not of clouds, for there were none, but of that impalpable and warm mist which seems to us, who know the south country and the Channel, to be so often part of the sky, and to shroud without obscuring the empty distances of our seas. There was a hard clear light to the north; and even over the Downs, low as they were upon the horizon, there was a sharp belt of blue. I saw the sun strike the white walls of Lady Newburgh’s Folly, and I saw, what had hitherto been all confused, the long line of the Arundel Woods contrasting with the plain. Then the boom went over to port, the jib filled, I felt the helm pulling steadily for the first time in so many hours, and the boat responded. The wind was on me; and though it was from the north, that wind was warm, for it came from the sheltered hills.
+
+Then, indeed, I quite forgot those first few moments, which had so little to do with the art of sailing, and which were perhaps unworthy of the full life that goes with the governing of sails and rudders. For one thing, I was no longer alone; a man is never alone with the wind — and the boat made three. There was work to be done in pressing against the tiller and in bringing her up to meet the seas, small though they were, for my boat was also small. Life came into everything; the Channel leapt and (because the wind was across the tide) the little waves broke in small white tips: in their movement and my own, in the dance of the boat and the noise of the shrouds, in the curtsy of the long sprit that caught the ridges of foam and lifted them in spray, even in the free streaming of that loose untidy end of line which played in the air from the leach, as young things play from wantonness, in the rush of the water, just up to and sometimes through the lee scuppers, and in the humming tautness of the sheet, in everything about me there was exuberance and joy. The sun upon the twenty million faces of the waves made, music rather than laughter, and the energy which this first warmth of the year had spread all over the Channel and shore, while it made life one, seemed also to make it innumerable. We were now not only three, the wind and my boat and I; we were all part (and masters for the moment) of a great throng. I knew them all by their names, which I had learnt a long time ago, and had sung of them in the North Sea. I have often written them down. I will not be ashamed to repeat them here, for good things never grow old. There was the Wave that brings good tidings, and the Wave that breaks on the shore, and the Wave of the island, and the Wave that helps, and the Wave that lifts forrard, the kindly Wave and the youngest Wave, and Amathea the Wave with bright hair, all the waves that come up round Thetis in her train when she rises from the side of the old man, her father, where he sits on his throne in the depth of the sea; when she comes up cleaving the water and appears to her sons in the upper world.
+
+The Wight showed clear before me. I was certain with the tide of making the Horse Buoy and Spithead while it was yet afternoon, and before the plenitude of that light and movement should have left me. I settled down to so much and such exalted delight as to a settled task. I lit my pipe for a further companion (since it was good to add even to so many). I kept my right shoulder only against the tiller, for the pressure was now steady and sound. I felt the wind grow heavy and equable, and I caught over my shoulder the merry wake of this very honest moving home of mine as she breasted and hissed through the sea.
+
+Here, then, was the proper end of a long cruise. It was springtime, and the season for work on land. I had been told so by the heartening wind. And as I went still westward, remembering the duties of the land, the sails still held full, the sheets and the weather shrouds still stood taut and straining, and the little clatter of the broken water spoke along the lee rail. And so the [[Ship|ship]] sailed on.
+
+[Greek: ‘En d thnemos prêsen mxson istion, thmphi de kuma]
+
+[Greek: Sseirê porphureon megal’ iache, nêos iousês.]
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_23_the_canigou" data-title="Hills and the Sea — THE CANIGOU" data-chapter="THE CANIGOU" data-kind="story"></span>
+
+
+THE CANIGOU
+
+A MAN MIGHT discuss with himself what it was that made certain great sights of the world famous, and what it is that keeps others hidden. This would be especially interesting in the case of [[Mountains|mountains]]. For there is no doubt that there is a modern attraction in [[Mountains|mountains]] which may not endure, but which is almost as intense in our generation as it was in that of our fathers. The emotion produced by great height and by the something unique and inspiring which distinguishes a mountain from a hill has bitten deeply into the modern mind. Yet there are some of the most astounding visions of this sort in Europe which are, and will probably remain, unemphasised for travellers.
+
+The vision of the Berenese Oberland when it breaks upon one from the crest of Jura has been impressed — upon English people, at least — in two fine passages: the one written by Ruskin, the other, if I remember right, in a book called A Cruise upon Wheels. The French have, I believe, no classical presentment of that view, nor perhaps have the Germans. The line of the Alps as one sees it upon very clear days from the last of the Apennines — this, I think, has never been properly praised in any modern book — not even an Italian. The great red mountain-face which St. Bruno called “the desert” I do not remember to have read of anywhere nor to have heard described; for it stands above an unfrequented valley, and the regular approach to the Chartreuse is from the other side. Yet it is something which remains as vivid to those few who have suddenly caught sight of it from a turn of the Old Lyons road as though they had seen it in a fantastic dream. That astonishing circle of cliffs which surrounds Bourg d’Oisans, though it has been written of now and then, has not, so to speak, taken root in people’s imagination.
+
+Even in this country there are twenty great effects which, though they have, of course, suffered record, are still secure from general praise; for instance, that awful trench which opens under your feet, as it were, up north and beyond Plynlimmon. It is a valley as unexpected and as incredible in its steepness and complete isolation as any one may see in the drawings of the romantic generation of English water-colour, yet perhaps no one has drawn it; there is certainly no familiar picture of it anywhere.
+
+When one comes to think of it, the reason of such exceptions to fame as are these is usually that such and such an unknown but great sight lies off the few general roads of travel. It is a vulgar reason, but the true one. Unless men go to a mountain to climb because it is difficult to climb, or unless it often appears before them along one of their main journeys, it will remain quiet. Among such masses is the Canigou.
+
+Here is a mountain which may be compared to Etna. It is lower, indeed, in the proportion of nine to eleven; but when great isolated heights of this sort are in question, such a difference hardly counts. It can be seen, as Etna can, from the sea, though it stands a good deal more inland; it dominates, as Etna does, a very famous plain, but modern travel does nothing to bring it into the general consciousness of the world. If Spain were wealthy, or if the Spanish harbours naturally led to any place which all the rich desired to visit, the name of the Canigou would begin to grow. Where the railway skirts the sea from Narbonne to Barcelona, it is your permanent companion for a good hour in the express, and for any time you like in the ordinary trains. During at least three months in the year, its isolation is peculiarly relieved and marked by the snow, which lies above an even line all along its vast bulk. It is also one of those [[Mountains|mountains]] in which one can recognise the curious regularity of the “belts” which text-books talk of. There are great forests at the base of it, just above the hot Mediterranean plain; the beech comes higher than the olive, the pines last of all; after them the pastures and the rocks. In the end of February a man climbs up from a spring that is as southern as Africa to a winter that is as northern as the highlands of Scotland, and all the while he feels that he is climbing nothing confused or vague, but one individual peak which is the genius of the whole countryside.
+
+This countryside is the Roussillon, a lordship as united as the Cerdagne; it speaks one language, shows one type of face, and is approached by but a small group of roads, and each road passes through a mountain gap. For centuries it went with Barcelona. It needed the Revolution to make it French, and it is full of Spanish memories to this day.
+
+For the Roussillon depends upon the Canigou just as the Bay of Syracuse depends upon Etna, or that of Naples upon Vesuvius, and its familiar presence has sunk into the patriotism of the Roussillon people, as those more famous mountains have into the art and legends of their neighbours. There are I know not how many monographs upon the Canigou, but not one has been translated, I would wager, into any foreign language.
+
+Yet it is the mountain which very many men who have hardly heard its name have been looking for all their lives. It gives as good camping as is to be had in the whole of the Pyrenees. I believe there is fishing, and perhaps one can shoot. Properly speaking, there is no climbing in it; at least, one can walk up it all the way if one chooses the right path, but there is everything else men look for when they escape from cities. It is so big that you would never learn it in any number of camps, and the change of its impressions is perpetual. From the summit the view has two interests — of colour and of the past. You have below you a plain like an inlaid work of chosen stones: the whole field is an arrangement of different culture and of bright rocks and sand; and below you, also, in a curve, is all that coast which at the close of the Roman Empire was, perhaps, the wealthiest in Europe. In the extreme north a man might make out upon a clear day the bulk of Narbonne. Perpignan is close by; the little rock harbour of Venus, Port Vendres, is to the south. From the plain below one, which has always been crammed with riches, sprang the chief influences of Southern Gaul. It was here that the family of Charlemagne took its origin, and it was perhaps from here that he saw, through the windows of a palace, that fleet of pirates which moved him to his sad prophecy. That plain, moreover, will re-arise; it is still rich, and all the Catalan province of Spain below it, of which it is the highway and the approach, must increase in value before Europe from year to year. The vast development of the French African territory is reacting upon that coast: all it needs is a central harbour, and if that harbour were formed it would do what Narbo did for the Romans at the end of their occupation; — it would tap, much better than does Cette, the wealth of Gascony, perhaps, also, an Atlantic trade, and its exchanges towards Africa and the Levant. The Mediterranean, which is perpetually increasing in wealth and in importance to-day, would have a second Marseilles, and should such a port arise — then, when our ships and our travellers are familiar with it, the Canigou (if it cares for that sort of thing) will be as happy as the Matterhorn. For the present it is all alone.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_24_the_man_and_his_wood" data-title="Hills and the Sea — THE MAN AND HIS WOOD" data-chapter="THE MAN AND HIS WOOD" data-kind="story"></span>
+
+
+THE MAN AND HIS WOOD
+
+I KNEW A man once that was a territorial magnate and had an estate in the county of Berkshire. I will not conceal his name. It was William Frederick Charles Hermann-Postlethwaite.
+
+On his estate was a large family mansion, surrounded by tasteful gardens of a charming old kind, and next outside these a great park, well timbered. But the thing I am going to talk about was a certain wood of which he was rightly very proud. It stood on the slope of a grass down, just above the valley, and beneath it was a clean white road, and a little way along that a town, part of which belonged to Mr. Hermann-Postlethwaite, part to a local solicitor and moneylender, several bits to a brewer in Reading, and a few houses to the inhabitants. The people in the town were also fond of the wood, and called it “The Old Wood.” It was not very large, but, as I have said before, it was very beautiful, and contained all manner of trees, but especially beeches, under which nothing will grow — as the poet puts it in Sussex:
+
+Unner t’ beech and t’ yow Nowt ‘ll grow.
+
+Well, as years passed, Mr. Hermann-Postlethwaite became fonder and fonder of the wood. He began towards 1885 to think it the nicest thing on his estate — which it was; and he would often ride out to look at it of a morning on his grey mare “Betsy.” When he rode out like this of a morning his mount was well groomed, and so was he, however early it might be, and he would carry a little cane to hit the mare with and also as a symbol of authority. The people who met him would touch their foreheads, and he would wave his hand genially in reply. He was a good fellow. But the principal thing about him was his care for the old wood; and when he rode out to look at it, as I say, he would speak to any one around so early — his bailiff, as might be, or sometimes his agent, or even the foreman of the workshop or the carpenter, or any hedger or ditcher that might be there, and point out bits of the wood, and say, “That branch looks pretty dicky. No harm to cut that off short and parcel and serve the end and cap it with a zinc cap;” or, “Better be cutting the Yartle Bush for the next fallow, it chokes the gammon-rings, and I don’t like to see so much standard ivy about, it’s the death of trees.” I am not sure that I have got the technical words right, but at any rate they were more or less like that, for I have heard him myself time and again. I often used to go out with him on another horse, called Sultan, which he lent me to ride upon.
+
+Well, he got fonder and fonder of this wood, and kept on asking people what he should do, and how one could make most use of it, and he worried a good deal about it. He reads books about woods, and in the opening of 1891 he had down to stay with him for a few days a man called Churt, who had made a great success with woods on the Warra-Warra. But Churt was a vulgar fellow, and so Hermann-Postlethwaite’s wife, Lady Gywnnys Hermann-Postlethwaite, would not have him in the house again, which was a bother. Her husband then rode over to see another man, and the upshot of it was that he put up a great board saying “Trespassers in this wood will be prosecuted,” and it might as well not have been put up, for no one ever went into the wood, not even from the little town, because it was too far for them to walk, and, anyhow, they did not care for walking. And as for the doctor’s son, a boy of thirteen, who went in there with an air-gun to shoot things, he paid no attention to the board.
+
+The next thing my friend did was to have a fine strong paling put all round the wood in March, 1894. This paling was of oak; it was seven feet high; it had iron spikes along the top. There were six gates in it, and stout posts at intervals of ten yards. The boards overlapped very exactly. It was as good a bit of work as ever I saw. He had it varnished, and it looked splendid. All this took two years.
+
+Just then he was elected to Parliament, not for Berkshire, as you might have imagined, but for a slum division of Birmingham. He was very proud of this, and quite rightly too. He said: “I am the one Conservative member in the Midlands.” It almost made him forget about his wood. He shut up the Berkshire place and took a house in town, and as he could not afford Mayfair, and did not understand such things very well, the house he took was an enormous empty house in Bayswater, and he had no peace until he gave it up for a set of rooms off Piccadilly; and then his mother thought that looked so odd that he did the right thing, and got into a nice old-fashioned furnished house in Westminster, overlooking the Green Park.
+
+But all this cost him a mint of money, and politics made him angrier and angrier. They never let him speak, and they made him vote for things he thought perfectly detestable. Then he did speak, and as he was an honest English gentleman the papers called him ridiculous names and said he had no brains. So he just jolly well threw the whole thing up and went back to Berkshire, and everybody welcomed him, and he did a thing he had never done before: he put a flag up over his house to show he was at home. Then he began to think of his wood again.
+
+The very first time he rode out to look at it he found the paling had given way in places from the fall of trees, and that some leaned inwards and some outwards, and that one of the gates was off its hinges. There were also two cows walking about in the wood, and what annoyed him most of all, the iron spikes were rusty and the varnish had all gone rotten and white and streaky on the palings. He spoke to the bailiff about this, and hauled him out to look at it. The bailiff rubbed the varnish with his finger, smelt it, and said that it had perished. He also said there was no such thing as good varnish nowadays, and he added there wasn’t any varnish, not the very best, but wouldn’t go like that with rain and all. Mr. Hermann-Postlethwaite grumbled a good deal, but he supposed the bailiff knew best; so he told him to see what could be done, and for several weeks he heard no more about it.
+
+I forgot to tell you that about this time the South African War had broken out, and as things were getting pretty tangled, Hermann-Postlethwaite went out with his regiment, the eighth battalion, not of the Berkshire, but of the Orkney regiment. While he was out there, his brother, in Dr. Charlbury’s home, died, and he succeeded to the baronetcy. As he already had a V.C. and was now given a D.S.O., as well as being one of the people mentioned in dispatches, he was pretty important by the time he came home, when the war was over, just before the elections of 1900.
+
+When he got home he had a splendid welcome, both from his tenants in Berkshire in passing through and from those of his late brother in the big place in Worcestershire. He preferred his Berkshire place, however, and, letting the big place to an American of the name of Hendrik K. Boulge, he went back to his first home. When he got there he thought of the old wood, and went out to look at it. The palings were mended, but they were covered all over with tar! He was exceedingly angry, and ordered them to be painted at once; but the bailiff assured him one could not paint over tar, and so did the carpenter and the foreman. At this he had a fit of rage, and ordered the whole damned thing to be pulled down, and swore he would be damned if he ever had a damned stick or a rail round the damned wood again. He was no longer young; he was getting stout and rather puffy; he was not so reasonable as of old. Anyhow, he had the whole thing pulled down. Next year (that is, in 1901) his wife died.
+
+I wish I had the space to tell you all the other things he did to the wood. How a friend of his having sold a similar wood on the Thames in building lots at £500 an acre, he put up the whole wood at the same rate. How, the whole wood being 200 acres in extent, he hoped to make £100,000 out of it. How he thought this a tidy sum. How he got no offers at this price, nor at £100, nor at £50. How an artist offered him £20 for half an acre to put up a red tin bungalow upon. How he lost his temper with the artist. How at last he left the whole thing alone and tried to forget all about it.
+
+* * *
+
+The old wood to-day is just like what it was when I wandered in it as a boy. The doctor’s son is a man now, and is keeping a bar in Sydney; so he is gone. The townspeople don’t come any more than before. I am the only person who goes near the place. The trees are a trifle grander. I happen now and then, when I visit this Berkshire parish, upon a stump of a post or an old spike in the grass of this wood, but otherwise it is as though all this had not been.
+
+A solemn thought: How enduring are the works of Nature — how perishable those of Man!
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_25_the_channel" data-title="Hills and the Sea — THE CHANNEL" data-chapter="THE CHANNEL" data-kind="story"></span>
+
+
+THE CHANNEL
+
+FRIENDS OF MINE, friends all, and you also, publishers, colonials and critics, do you know that particular experience for which I am trying to find words? Do you know that glamour in the mind which arises and transforms our thought when we see the things that the men who made us saw — the things of a long time ago, the origins? I think everybody knows that glamour, but very few people know where to find it.
+
+Every man knows that he has in him the power for such revelations, and every man wonders in what strange place he may come upon them. There are men also (very rich) who have considered all the world and wandered over it, seeking those first experiences and trying to feel as felt the earlier men in a happier time — yet these few rich men have not felt and have not so found the things which they desire. I have known men who have thought to find them in the [[Mountains|mountains]], but would not climb them simply enough and refused to leave their luxuries behind, and so lost everything, and might as well have been walking in a dirty town at home for all the little good that the [[Mountains|mountains]] did to them. And I know men who have thought to find this memory and desire in foreign countries, in Africa, hunting great beasts such as our fathers hunted; yet even these have not relit those old embers, which if they lie dead and dark in a man make his whole soul dusty and useless, but which if they be once rekindled can make him part of all the centuries.
+
+Yet there is a simple and an easy way to find what the men who made us found, and to see the world as they saw it, and to take a bath, as it were, in the freshness of beginnings; and that is to go to work as cheaply and as hardly as you can, and only as much away from men as they were away from men, and not to read or to write or to think, but to eat and drink and use the body in many immediate ways, which are at the feet of every man. Every man who will walk for some days carelessly, sleeping, rough when he must, or in poor inns, and making for some one place direct because he desires to see it, will know the thing I mean. And there is a better way still of which I shall now speak: I mean, to try the seas in a little boat not more than twenty-five feet long, preferably decked, of shallow draught, such as can enter into all creeks and havens, and so simply rigged that by oneself, or with a friend at most, one can wander all over the world.
+
+Certainly every man that goes to sea in a little boat of this kind learns terror and salvation, happy living, air, danger, exultation, glory, and repose at the end; and they are not words to him, but, on the contrary, realities which will afterwards throughout his life give the mere words a full meaning. And for this experiment there lies at our feet, I say, the Channel.
+
+It is the most marvellous sea in the world — the most suited for these little adventures; it is crammed with strange towns, differing one from the other; it has two opposite people upon either side, and hills and varying climates, and the hundred shapes and colours of the earth, here rocks, there sand, there cliffs, and there marshy shores. It is a little world. And what is more, it is a kind of inland sea.
+
+People will not understand how narrow it is, crossing it hurriedly in great steamships; nor will they make it a home for pleasure unless they are rich and can have great boats; yet they should, for on its water lies the best stage for playing out the old drama by which the soul of a healthy man is kept alive. For instance, listen to this story: —
+
+The sea being calm, and the [[Wind|wind]] hot, uncertain, and light from the east, leaving oily gaps on the water, and continually dying down, I drifted one morning in the strong ebb to the South Goodwin Lightship, wondering what to do. There was a haze over the land and over the sea, and through the haze great ships a long way off showed, one or two of them, like oblong targets which one fires at with guns. They hardly moved in spite of all their canvas set, there was so little breeze. So I drifted in the slow ebb past the South Goodwin, and I thought: “What is all this drifting and doing nothing? Let us play the fool, and see if there are no adventures left.”
+
+So I put my little boat about until the [[Wind|wind]] took her from forward, such as it was, and she crawled out to sea.
+
+It was a dull, uneasy morning, hot and silent, and the [[Wind|wind]], I say, was hardly a wind, and most of the time the sails flapped uselessly.
+
+But after eleven o’clock the wind first rose, and then shifted a little, and then blew light but steady; and then at last she heeled and the water spoke under her bows, and still she heeled and ran, until in the haze I could see no more land; but ever so far out there were no seas, for the light full breeze was with the tide, the tide ebbing out as a strong, and silent as a man in anger, down the hidden parallel valleys of the narrow sea. And I held this little wind till about two o’clock, when I drank wine and ate bread and meat at the tiller, for I had them by me, and just afterwards, still through a thick haze of heat, I saw Gris-nez, a huge ghost, right up against and above me; and I wondered, for I had crossed the Channel, now for the first time, and knew now what it felt like to see new land.
+
+Though I knew nothing of the place, I had this much sense, that I said to myself: “The tide is right-down Channel, racing through the hidden valleys under the narrow sea, so it will all go down together and all come up together, and the flood will come on this foreign side much at the same hour that it does on the home side.” My boat lay to the east and the ebb tide held her down, and I lit a pipe and looked at the French hills and thought about them and the people in them, and England which I had left behind, and I was delighted with the loneliness of the sea; and still I waited for the flood.
+
+But in a little while the chain made a rattling noise, and she lay quite slack and swung oddly; and then there were little boiling and eddying places in the water, and the water seemed to come up from underneath sometimes, and altogether it behaved very strangely, and this was the turn of the tide. Then the wind dropped also, and for a moment she lollopped about, till at last, after I had gone below and straightened things, I came on deck to see that she had turned completely round, and that the tide at last was making up my way, towards Calais, and her chain was taut and her nose pointed down Channel, and a little westerly breeze, a little draught of air, came up cool along the tide.
+
+When this came I was very glad, for I saw that I could end my adventure before night. So I pulled up the anchor and fished it, and then turned with the tide under me, and the slight half-felt breeze just barely filling the mainsail (the sheet was slack, so powerless was the wind), and I ran up along that high coast, watching eagerly every new thing; but I kept some way out for fear of shoals, till after three good hours under the reclining sun of afternoon, which glorified the mist, I saw, far off, the roofs and spires of a town, and a low pier running well out to sea, and I knew that it must be Calais. And I ran for these piers, careless of how I went, for it was already half of the spring flood tide, and everything was surely well covered for so small a boat, and I ran up the fairway in between the piers, and saw Frenchmen walking about and a great gun peeping up over its earthwork, and plenty of clean new masonry. And a man came along and showed me where I could lie; but I was so strange to the place that I would not take a berth, but lay that night moored to an English [[Ship|ship]].
+
+And when I had eaten and drunk and everything was stowed away and darkness had fallen, I went on deck, and for a long time sat silent, smoking a pipe and watching the enormous lighthouse of Calais, which is built right in the town, and which turns round and round above one all night long.
+
+And I thought: “Here is a wonderful thing! I have crossed the Channel in this little boat, and I know now what the sea means that separates [[France]] from England. I have strained my eyes for shore through a haze. I have seen new lands, and I feel as men do who have dreamt dreams.”
+
+But in reality I had had very great luck indeed, and had had no right to cross, for my coming back was to be far more difficult and dreadful, and I was to suffer many things before again I could see tall England, close by me, out of the sea.
+
+But how I came back, and of the [[Storm|storm]], and of its majesty, and of how the boat and I survived, I will tell you another time, only imploring you to do the same; not to tell of it, I mean, but to sail it in a little boat.
 
 * * *
 
@@ -3691,6 +3331,178 @@ He went off with a slow and steady progress, as all our peasants do, making thei
 
 
 
+<span class="atom-split" data-atom="story_27_the_roman_road" data-title="Hills and the Sea — THE ROMAN ROAD" data-chapter="THE ROMAN ROAD" data-kind="story"></span>
+
+
+THE ROMAN ROAD
+
+THE OTHER DAY (it was Wednesday, and the air was very pure) I went into the stable upon my way toward the wood, and there I saw my horse Monster standing by himself, regarding nothingness. And when I had considered what a shame it was to take one’s pleasure in a wood and leave one’s helpless horse at home, I bridled him and saddled him and took him out, and rode him the way that I had meant to go alone. So we went together along the Stene under the North Wood until we got to the edge of the forest, and then we took the green Ride to the right, for it was my intention to go and look at the Roman road.
+
+Behind my house, behind my little farm, there are as many miles of turf as one cares to count, and then behind it also, but the other way, there goes this deep and lonely forest. It is principally of beech, which is the tree of the chalk, and no one has cut it or fenced it or thought about it (except to love it), since the parts about my village took their names: Gumber and Fairmile Bay Combe, the Nore, and the stretch called No Man’s Land.
+
+Into the darkness of these trees I rode very quietly with Monster, my horse, but whether the autumn air were pleasanter to him or to me neither of us could decide, for there is no bridge between two souls. That is, if horses have a soul, which I suppose they have, for they are both stupid and kindly, and they fear death as though a part, and but a part, of them were immortal. Also they see things in the dark and are cognisant of evil.
+
+When I had gone some hundred yards towards the Roman road I saw, bending lower than the rest on the tree from which it hung, a golden bough, and I said to myself that I had had good luck, for such a thing has always been the sign of an unusual experience and of a voyage among the dead. All the other leaves of the tree were green, but the turn of the year, which sends out foragers just as the spring does, marking the way it is to go, had come and touched this bough and changed it, so that it shone out by itself in the recesses of the forest and gleamed before and behind. I did not ask what way it led me, for I knew; and so I went onwards, riding my horse, until I came to that long bank of earth which runs like a sort of challenge through this ancient land to prove what our origins were, and who first brought us merry people into the circuit of the world.
+
+When I saw the Roman road the sharper influence which it had had upon my boyhood returned to me, and I got off my horse and took his bit out of his mouth so that he could play the fool with the grass and leaves (which are bad for him), and I hitched the snaffle to a little broken peg of bough so that he could not wander. And then I looked up and down along the boles of the great North Wood, taking in the straight line of the way.
+
+I have heard it said that certain professors, the most learned of their day, did once deny that this was a Roman road. I can well believe it, and it is delightful to believe that they did. For this road startles and controls a true man, presenting an eternal example of what Rome could do. The peasants around have always called it the “Street.” It leads from what was certainly one Roman town to what was certainly another. That sign of Roman occupation, the modern word “Cold Harbour,” is scattered up and down it. There are Roman pavements on it. It goes plumb straight for miles, and at times, wherever it crosses undisturbed land, it is three or four feet above the level of the down. Here, then, was a feast for the learned: since certainly the more obvious a thing is, the more glory there must be in denying it. And deny it they did (or at least, so I am told), just as they will deny that Thomas à Becket was a Papist, or that Austerlitz was fought in spite of Trafalgar, or that the Gospel of St. John is the Gospel of St. John.
+
+Here then, sitting upon this Roman road I considered the nature of such men, and when I had thought out carefully where the nearest Don might be at that moment, I decided that he was at least twenty-three miles away, and I was very glad: for it permitted me to contemplate the road with common sense and with [[Faith]], which is Common Sense transfigured; and I could see the Legionaries climbing the hill. I remembered also what a sight there was upon the down above, and I got upon my horse again to go and see it.
+
+When one has pushed one’s way through the brambles and the rounded great roots which have grown upon this street — where no man has walked perhaps for about a thousand years — one gets to the place where it tops the hill, and here one sees the way in which the line of it was first struck out. From where one stands, right away like a beam, leading from rise to rise, it runs to the cathedral town. You see the spot where it enters the eastern gate of the Roman walls; you see at the end of it, like the dot upon an “i,” the mass of the cathedral. Then, if you turn and look northward, you see from point to point its taut stretch across the weald to where, at the very limit of the horizon, there is a gap in the chain of hills that bars your view.
+
+The strict design of such a thing weighs upon one as might weigh upon one four great lines of Virgil, or the sight of those enormous stones which one comes upon, Roman also, in the Algerian sands. The plan of such an avenue by which to lead great armies and along which to drive commands argues a mixture of unity and of power as intimate as the lime and the sand of which these conquerors welded their imperishable cement. And it does more than this. It suggests swiftness and certitude of aim and a sort of eager determination which we are slow to connect with Government, but which certainly underlay the triumph of this people. A road will give one less trouble if it winds about and feels the contours of the land. It will pay better if it is of earth and broken stones instead of being paved, nor would any one aiming at wealth or comfort alone laboriously raise its level, as the level of this road is raised. But in all that the Romans did there was something of a monument. Where they might have taken pipes down a valley and up the opposing side they preferred the broad shoulders of an arcade, and where a seven-foot door would have done well enough to enter their houses by they were content with nothing less than an arch of fifty. In all their work they were conscious of some business other than that immediately to hand, and therefore it is possible that their ruins will survive the establishment of our own time as they have survived that of the Middle Ages. In this wild place, at least, nothing remained of all that was done between their time and ours.
+
+These things did the sight on either side of the summit suggest to me, but chiefly there returned as I gazed the delicious thought that learned men, laborious and heavily endowed, had denied the existence of this Roman road.
+
+See with what manifold uses every accident of human life is crammed! Here was a piece of pedantry and scepticism, which might make some men weep and some men stamp with irritation, and some men, from sheer boredom, fall asleep, but which fed in my own spirit a fountain of pure joy, as I considered carefully what kind of man it is who denies these things; the kind of way he walks; the kind of face he has; the kind of book he writes; the kind of publisher who chisels him; and the kind of way in which his works are bound. With every moment my elation grew greater and more impetuous, until at last I could not bear to sit any longer still, even upon so admirable a beast, nor to look down even at so rich a plain (though that was seen through the air of Southern England), but turning over the downs I galloped home, and came in straight from the turf to my own ground — for what man would live upon a high road who could go through a gate right off the turf to his own steading and let the world go hang?
+
+And so did I. But as they brought me beer and bacon at evening, and I toasted the memory of things past, I said to myself: “Oxford, Cambridge, Dublin, Durham — you four great universities — you terrors of Europe — that road is older than you: and meanwhile I drink to your continued healths, but let us have a little room ... air, there, give us air, good people. I stifle when I think of you.”
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_28_the_onion_eater" data-title="Hills and the Sea — THE ONION-EATER" data-chapter="THE ONION EATER" data-kind="story"></span>
+
+
+THE ONION-EATER
+
+THERE IS A hill not far from my home whence it is possible to see northward and southward such a stretch of land as is not to be seen from any eminence among those I know in Western Europe. Southward the sea-plain and the sea standing up in a belt of light against the sky, and northward all the weald.
+
+From this summit the eye is disturbed by no great cities of the modern sort, but a dozen at least of those small market towns which are the delight of South England hold the view from point to point, from the pale blue downs of the island over, eastward, to the Kentish hills.
+
+A very long way off, and near the sea-line, the high faint spire of that cathedral which was once the mother of all my county goes up without weight into the air and gathers round it the delicate and distant outlines of the landscape — as, indeed, its builders meant that it should do. In such a spot, on such a high watch-tower of England, I met, three days ago, a man.
+
+I had been riding my kind and honourable horse for two hours, broken, indeed, by a long rest in a deserted barn.
+
+I had been his companion, I say, for two hours, and had told him a hundred interesting things — to which he had answered nothing at all — when I took him along a path that neither of us yet had trod. I had not, I know; he had not (I think), for he went snorting and doubtfully. This path broke up from the kennels near Waltham, and made for the High Wood between Gumber and No Man’s Land. It went over dead leaves and quite lonely to the thick of the forest; there it died out into a vaguer and a vaguer trail. At last it ceased altogether, and for half an hour or so I pushed carefully, always climbing upwards, through the branches, and picked my way along the bramble-shoots, until at last I came out upon that open space of which I had spoken, and which I have known since my childhood. As I came out of the wood the south-west [[Wind|wind]] met me, full of the Atlantic, and it seemed to me to blow from Paradise.
+
+I remembered, as I halted and so gazed north and south to the weald below me, and then again to the sea, the story of that Sultan who publicly proclaimed that he had possessed all power on earth, and had numbered on a tablet with his own hand each of his happy days, and had found them, when he came to die, to be seventeen. I knew what that heathen had meant, and I looked into my heart as I remembered the story, but I came back from the examination satisfied, for “So far,” I said to myself, “this day is among my number, and the light is falling. I will count it for one.” It was then that I saw before me, going easily and slowly across the downs, the figure of a man.
+
+He was powerful, full of health and easy; his clothes were rags; his face was open and bronzed. I came at once off my horse to speak with him, and, holding my horse by the bridle, I led it forward till we met. Then I asked him whither he was going, and whether, as I knew these open hills by heart, I could not help him on his way.
+
+He answered me that he was in no need of help, for he was bound nowhere, but that he had come up off the high road on to the hills in order to get his pleasure and also to see what there was on the other side. He said to me also, with evident enjoyment (and in the accent of a lettered man), “This is indeed a day to be alive!”
+
+I saw that I had here some chance of an adventure, since it is not every day that one meets upon a lonely down a man of culture, in rags and happy. I therefore took the bridle right off my horse and let him nibble, and I sat down on the bank of the Roman road holding the leather of the bridle in my hand, and wiping the bit with plucked grass. The stranger sat down beside me, and drew from his pocket a piece of bread and a large onion. We then talked of those things which should chiefly occupy mankind: I mean, of happiness and of the destiny of the soul. Upon these matters I found him to be exact, thoughtful, and just.
+
+First, then, I said to him: “I also have been full of gladness all this day, and, what is more, as I came up the hill from Waltham I was inspired to verse, and wrote it inside my mind, completing a passage I had been working at for two years, upon joy. But it was easy for me to be happy, since I was on a horse and warm and well fed; yet even for me such days are capricious. I have known but few in my life. They are each of them distinct and clear, so rare are they, and (what is more) so different are they in their very quality from all other days.”
+
+“You are right,” he said, “in this last phrase of yours.... They are indeed quite other from all the common days of our lives. But you were wrong, I think, in saying that your horse and clothes and good feeding and the rest had to do with these curious intervals of content. Wealth makes the run of our days somewhat more easy, poverty makes them more hard — or very hard. But no poverty has ever yet brought of itself despair into the soul — the men who kill themselves are neither rich nor poor. Still less has wealth ever purchased those peculiar hours. I also am filled with their spirit to-day, and God knows,” said he, cutting his onion in two, so that it gave out a strong savour, “God knows I can purchase nothing.”
+
+“Then tell me,” I said, “whence do you believe these moments come? And will you give me half your onion?”
+
+“With pleasure,” he replied, “for no man can eat a whole onion; and as for that other matter, why I think the door of heaven is ajar from time to time, and that light shines out upon us for a moment between its opening and closing.” He said this in a merry, sober manner; his black eyes sparkled, and his large beard was blown about a little by the [[Wind|wind]]. Then he added: “If a man is a slave to the rich in the great cities (the most miserable of mankind), yet these days come to him. To the vicious wealthy and privileged men, whose faces are stamped hard with degradation, these days come; they come to you, you say, working (I suppose) in anxiety like most of men. They come to me who neither work nor am anxious so long as South England may freely import onions.”
+
+“I believe you are right,” I said. “And I especially commend you for eating onions; they contain all health; they induce sleep; they may be called the apples of content, or, again, the companion fruits of mankind.”
+
+“I have always said,” he answered gravely, “that when the couple of them left Eden they hid and took away with them an onion. I am moved in my soul to have known a man who reveres and loves them in the due measure, for such men are rare.”
+
+Then he asked, with evident anxiety: “Is there no inn about here where a man like me will be taken in?”
+
+“Yes,” I told him. “Down under the Combe at Duncton is a very good inn. Have you money to pay? Will you take some of my money?”
+
+“I will take all you can possibly afford me,” he answered in a cheerful, manly fashion. I counted out my money and found I had on me but 3s.7d. “Here is 3s. 7d.,” I said.
+
+“Thank you, indeed,” he answered, taking the coins and wrapping them in a little rag (for he had no pockets, but only holes).
+
+“I wish,” I said with regret, “we might meet and talk more often of many things. So much do we agree, and men like you and me are often lonely.”
+
+He shrugged his shoulders and put his head on one side, quizzing at me with his eyes. Then he shook his head decidedly, and said: “No, no — it is certain that we shall never meet again.” And thanking me with great fervour, but briefly, he went largely and strongly down the escarpment of the Combe to Duncton and the weald; and I shall never see him again till the Great Day....
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_29_the_return_to_england" data-title="Hills and the Sea — THE RETURN TO ENGLAND" data-chapter="THE RETURN TO ENGLAND" data-kind="story"></span>
+
+
+THE RETURN TO ENGLAND
+
+IN CALAIS HARBOUR, it being still very early in the morning, about half-past five, I peered out to see how things were looking, for if that coast corresponded at all to ours, the tide should be making westerly by six o’clock that day — the ebb tide — and it was on the first of that tide that I should make the passage to England, for at sea you never can tell. At sea you never can tell, and you must take every inch the gods allow you. You will need that and more very often before evening. Now, as I put my head out I saw that I could not yet start, for there was a thick white mist over everything, so that I could not even see the bowsprit of my own boat. Everything was damp: the decks smelt of fog, and from the shore came sounds whose cause I could not see. Looking over the iron bulwarks of the big English cargo [[Ship|ship]], alongside of which I was moored, was a man with his head upon his folded arms. He told me that he thought the fog would lift; and so I waited, seeking no more sleep, but sitting up there in the drifting fog, and taking pleasure in a bugle call which the French call “La Diane,” and which they play to wake the soldiers. But in summer it wakes nobody, for all the world is waking long before.
+
+Towards six the mist blew clean away before a little air from the north-east; it had come sharp over those miles and miles of sand dunes and flats which stretched away from Gris-nez on to Denmark. From Gris-nez all the way to the Sound there is no other hill; but coarse grass, [[Wind|wind]]-swept and flying sand. Finding this [[Wind|wind]], I very quickly set sail, and as I did not know the harbour I let down the peak of the mainsail that she might sail slowly, and crept along close to the eastern pier, for fear that when I got to the open work the westerly tide should drive me against the western pier; but there was no need for all this caution, since the tide was not yet making strongly. Yet was I wise to beware, for if you give the strange gods of the sea one little chance they will take a hundred, and drown you for their pleasure. And sailing, if you sail in all weathers, is a perpetual game of skill against them, the heartiest and most hazardous game in the world.
+
+So then, when I had got well outside, I found what is called “a lump.” The sea was jumbling up and down irregularly, as though great animals had just stopped fighting there. But whatever was the cause of it, this lump made it difficult to manage the boat I was in, for the air was still light and somewhat unsteady; sometimes within a point of north, and then again dropping and rising free within a point of east: on the whole, north-east. To windward the sea was very clear, but down towards the land there was a haze, and when I got to the black buoy which is three miles from Calais, and marks the place where you should turn to go into the harbour, I could barely see the high land glooming through the weather, and Calais belfry and lighthouse tower I could not see at all. I looked at my watch and saw it was seven, and immediately afterwards the [[Wind|wind]] became steady and true, and somewhat stronger, and work began.
+
+She would point very nearly north, and so I laid her for that course, though that would have taken me right outside the Goodwins, for I knew that the tide was making westerly down the Channel, ebbing away faster and faster, and that, like a man crossing a rapid river in a ferry-boat, I had to point up far above where I wanted to land, which was at Dover, the nearest harbour. I sailed her, therefore, I say, as close as she would lie, and the wind rose.
+
+The wind rose, and for half an hour I kept her to it. She had no more sail than she needed; she heeled beautifully and strongly to the wind; she took the seas, as they ran more regular, with a motion of mastery. It was like the gesture of a horse when he bends his head back to his chest, arching his neck with pride as he springs upon our Downs at morning. So set had the surging of the sea become that she rose and fell to it with rhythm, and the helm could be kept quite steady, and the regular splash of the rising bows and the little wisps of foam came in ceaseless exactitude like the marching of men, and in all this one mixed with the life of the sea.
+
+But before it was eight o’clock (and I had eaten nothing) the wind got stronger still, and I was anxious and gazed continuously into it, up to windward, seeing the white caps beginning on the tops of the seas, although the wind and tide were together. She heeled also much more, and my anxiety hardened with the wind, for the wind had strengthened by about half-past eight, so that it was very strong indeed, and she was plainly over-canvased, her lee rail under all the time and all the cordage humming; there it stood, and by the grace and mercy of God the wind increased no more, for its caprice might have been very different.
+
+Then began that excellent game which it is so hard to play, but so good to remember, and in which all men, whether they admit it or not, are full of fear, but it is a fear so steeped in exhilaration that one would think the personal spirit of the sea was mingled with the noise of the air.
+
+For a whole great hour she roared and lifted through it still, taking the larger seas grandly, with disdain, as she had taken the smaller, and still over the buried lee rail the stream of the sea went by rejoicing and pouring, and the sheets and the weather runner trembled with the vigour of the charge, and on she went, and on. I was weary of the seas ahead (for each and individually they struck my soul as they came, even more strongly than they struck the bows — steep, curling, unintermittent, rank upon rank upon rank, as innumerable cavalry); still watching them, I say, I groped round with my hand behind the cabin door and pulled out brandy and bread, and drank brandy and ate bread, still watching the seas. And, as men are proud of their companions in danger, so I was proud to see the admirable lift and swing of that good boat, and to note how, if she slowed for a moment under the pounding, she recovered with a stride, rejoicing; and as for my fears, which were now fixed and considerable, I found this argument against them: that, though I could see nothing round me but the sea, yet soon I should be under the lee of the Goodwins, for, though I could not exactly calculate my speed, and though in the haze beyond nothing appeared, it was certain that I was roaring very quickly towards the further shore.
+
+When, later, the sea grew confused and full of swirls and boiling, I said to myself: “This must be the tail of the Goodwins.” But it was, not. For, though I did not know it, the ebb of the great spring tide had carried me right away down Channel, and there was not twelve feet of water under the keel, for the seething of the sea that I noticed came from the Varne — the Varne, that curious, long, steep hill, with its twin ridge close by, the Colbert; they stand right up in the Channel between [[France]] and England; they very nearly lift their heads above the waves. I passed over the crest of them, unknowing, into the deep beyond, and still the [[Ship|ship]] raced on. Then, somewhat suddenly, so suddenly that I gave a cry, I saw right up above me, through what was now a thick haze, the cliffs of England, perhaps two miles away, and showing very faintly indeed, a bare outline upon the white weather. A thought ran into my mind with violence, how, one behind the other, beyond known things, beyond history, the men from whom I came had greeted this sight after winds like these and danger and the crossing of the narrow seas. I looked at my watch; it was ten o’clock, so that this crossing had taken three hours, and to see the land again like that was better than any harbour, and I knew that all those hours my mind had been at strain. I looked again at the vague cliffs narrowly, thinking them the South Foreland, but as they cleared I saw to my astonishment that I had blown all down the Straits, and that Folkestone and the last walls of the chalk were before me.’
+
+The wind dropped; the sea went on uneasily, tumbling and rolling, but within a very little while — before eleven, I think — there was no breeze at all; and there I lay, with Folkestone harbour not a mile away, but never any chance of getting there; and I whistled, but no wind came. I sat idle and admired the loneliness of the sea. Till, towards one, a little draught of air blew slantwise from the land, and under it I crept to the smooth water within the stone arm of the breakwater, and here I let the anchor go, and settling everything, I slept.
+
+It is pleasant to remember these things.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_30_the_valley_of_the_rother" data-title="Hills and the Sea — THE VALLEY OF THE ROTHER" data-chapter="THE VALLEY OF THE ROTHER" data-kind="story"></span>
+
+
+THE VALLEY OF THE ROTHER
+
+THERE IS IN that part of England which is very properly called her Eden (that centre of all good things and home of happy men, the county of Sussex), there is, I say, in that exalted county a valley which I shall praise for your greater pleasure, because I know that it is too jealously guarded for any run of strangers to make it common, and because I am very sure that you may go and only make it the more delightful by your presence. It is the valley of the River Rother; the sacred and fruitful river between the downs and the weald.
+
+Now, here many travelling men, bicyclists even and some who visit for a livelihood, will think I mean the famous River Rother that almost reaches the sea. The Rother into which the foreigners sailed for so many hundred years, the River of the Marshes, the river on which stands Rye; the easy Rother along whose deep meadows are the sloping kilns, the bright-tilted towns and the steep roads; the red Rother that is fed by streams from the ironstone. This Rother also all good men know and love, both those that come in for pleasure, strangers of Kent, and those that have a distant birthright in East Sussex, being born beyond Ouse in the Rape of Bramber.
+
+But it is not this Rother that I am telling of, though I would love to tell of it also — as indeed I would love to tell at length of all the rivers of Sussex — the Brede, the Ouse, the Adur, the Cuckmere; all the streams that cut the chalk hills. But for this I have no space and you no patience. Neither can I tell you of a thousand adventures and wonderful hazards along the hills and valley of this eastern Rother; of how I once through a telescope on Brightling Hill saw the meet at Battle, and of how it looked quite near; of how I leapt the River Rother once, landing on the far side safely (which argues the river narrow or the leap tremendous); of how I poached in the wood of a friend who is still my friend; of how I rode a horse into Robertsbridge; of the inn. All these things could I tell with growing fervour, and to all these would you listen with an increasing delight. But I must write of the River Rother under Petworth, the other Rother in the West. Why? Because I started out so to do, and no man should let himself be led away by a word, or by any such little thing.
+
+Let me therefore have done with this eastern river, far away from my home, a river at the end of long journeys, and speak of that other noble Rother, the Rother of quiet men, the valley that is like a shrine in England.
+
+Many famous towns and villages stand in the valley of this river and even (some of them) upon its very banks. Thus there are the three principal towns of this part, Midhurst and Petworth and Pulborough: but these have been dealt with and written of in so many great books and by such a swarm of new men that I have no business further to describe their merits and antiquity. But this I will add to all that is known of them. Midhurst takes its name from standing in the middle, for it is half-way between the open downs and the thick woods on the borders of Surrey. Petworth has a steeple that slopes to one side; not so much as Chesterfield, but somewhat more than most steeples. Pulborough stands upon a hill, and is famous for its corn-market, to which people come from far and near, from as far off as Burpham or as close by as Bury. All these noble towns have (as I said before) been written of in books, only no book that I know puts them all together and calls them “the Valley of the Rother.” That is the title that such a book should have if it is to treat of the heart of West Sussex, and I make no doubt that such a book would be read lovingly by many men.
+
+For the Valley of the Rother breeds men and is the cause of many delightful villages, all the homes of men. I know that Cobden was born there, the last of the yeomen: I hope that Cobbett lived here too. Manning was here in his short married life; he lived at Barlton (which foolish men call Barlavington), under the old Downs, where the steep woods make a hollow. In this valley also are Fittleworth (the only place in England that rhymes with Little Worth); Duncton, about which there is nothing to be said; Burton, which is very old and has its church right in the grounds of the house; Westburton, where the racehorses were; Graffham, Bignor, Sutton, and I know not how many delightful hamlets.
+
+In the Valley of the River Rother no hurried men ever come, for it leads nowhere. They cross it now and then, and they forget it; but who, unless he be a son or a lover, has really known that plain? It leads nowhere: to the no man’s land, the broken country by Liss. It has in it no curious sight, but only beauty. The rich men in it (and thank Heaven they are few) are of a reticent and homing kind, or (when the worst comes to the worst) they have estates elsewhere, and go north for their pleasure.
+
+Foxes are hunted in the Valley of the Rother, but there are not very many. Pheasants and partridges are shot, but I never heard of great bags; one animal indeed there is in profusion. The rabbit swarms and exults in this life of Southern England. Do you stalk him? He sits and watches you. Do you hunt him with dogs? He thinks it a vast bother about a very little matter. Do you ferret him? He dies, and rejoices to know that so many more will take his place. The rabbit is the sacred emblem of my river, and when we have a symbol, he shall be our symbol. He loves men and eats the things they plant, especially the tender shoots of young trees, wheat, and the choice roots in gardens. He only remains, and is happy all his little life in the valley from which we depart when our boyhood ends.
+
+The Valley of the Rother is made of many parts. There is the chalk of the Southern Down-land, the belt of the loam beneath it; then the curious country of sand, full of dells and dark with pine woods; then the luxurious meadows, which are open and full of cattle, colts, and even sheep; then the woods. It is, in a few miles, a little England. There are also large heaths — larger, you would think, than such a corner of the earth could contain; old elms and oaks; many wide parks; fish ponds; one trout stream and half a score of mills. There are men of many characters, but all happy, honest, good, witty, and hale. And when I have said all I could say of this delightful place (which indeed I think is set apart for the reward of virtue) I should not have given you a tithe of its prosperity and peace and beneficence. There is the picture of the Valley of the River Rother. It flows in a short and happy murmur from the confined hills by Hindhead to the Arun itself; but of the Arun no one could write with any justice except at the expense of far more space and time than I have given me.
+
+If ever again we have a religion in the South Country, we will have a temple to my darling valley. It shall be round, with columns and a wall, and there I will hang a wreath in thanksgiving for having known the river.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_31_the_coronation" data-title="Hills and the Sea — THE CORONATION" data-chapter="THE CORONATION" data-kind="story"></span>
+
+
+THE CORONATION
+
+MY COMPANION SAID to me that there was a doom over the day and the reign and the times, and that the turn of the nation had come. He felt it in the sky.
+
+The day had been troubled: from the forest ridge to the sea there was neither [[Wind|wind]] nor sun, but a dull, even heat oppressed the fields and the high downs under the uncertain, half-luminous confusion of grey clouds. It was as though a relief was being denied, and as though something inexorable had come into that air which is normally the softest and most tender in the world. The hours of the low tide were too silent. The little inland river was quite dead, the reeds beside it dry and motionless; even in the trees about it no leaves stirred.
+
+In the late afternoon, as the heat grew more masterful, a slight [[Wind|wind]] came out of the east. It was so faint and doubtful in quantity that one could not be certain, as one stood on the deserted shore, whether it blew from just off the land or from the sullen level of the sea. It followed along the line of the coast without refreshment and without vigour, even hotter than had been the still air out of which it was engendered. It did not do more than ruffle here and there the uneasy surface of our sea; that surface moved a little, but with a motion borrowed from nothing so living or so natural as the [[Wind|wind]]. It was a dull memory of past storms, or perhaps that mysterious heaving from the lower sands which sailors know, but which no silence has yet explained.
+
+In such an influence of expectation and of presage — an influence having in it that quality which seemed to the ancients only Fate, but to us moderns a something evil — in the strained attention for necessary and immovable things that cannot hear and cannot pity — the hour came for me to reascend the valley to my home. Already upon the far and confused horizon two or three motionless sails that had been invisible began to show white against a rising cloud. This cloud had not the definition of sudden conquering storms, proper to the summer, and leaving a blessing behind their fury. The edge of it against the misty and brooding sky had all the vagueness of smoke, and as it rose up out of the sea its growth was so methodical and regular as to disconnect it wholly in one’s mind from the little fainting breeze that still blew, from rain, or from any daily thing. It advanced with the fall of the evening till it held half the sky. There it seemed halted for a while, and lent by contrast an unnatural brightness to the parched hills beneath it; for now the sun having set, we had come north of the gap, and were looking southward upon that spectacle as upon the climax of a tragedy. But there was nothing of movement or of sound. No lightning, no thunder; and soon the hot breath of the afternoon had itself disappeared before the advance of this silent pall. The night of June to the north was brighter than twilight, and still southward, a deliberate spectacle, stood this great range of vague and menacing cloud, shutting off the sky and towering above the downs, so that it seemed permissible to ascribe to those protecting gods of our valley a burden of fear.
+
+Just when all that scene had been arranged to an adjustment that no art could have attained, the first great fire blazed out miles and miles to the west, somewhere above Midhurst: I think near No Man’s Land. Then we saw, miles to the east again, a glare over Mount Harry, the signal of Lewes, and one after another all the heights took it up in a chain — above Bramber, above Poynings, above Wiston, on Amberley Mount (I think), certainly on the noble sweep of Bury. Even in those greater distances which the horizon concealed they were burning and answering each other into Hampshire: perhaps on the beaten grass of the high forts above Portsmouth, and to the left away to the flat Rye level, and to the eastern Rother; for we saw the line of red angry upon that cloud which had come to receive it, an endless line which suddenly called up what one had heard old men say of the prairie fires.
+
+It was easy, without covering the face and without abstracting the mind from the whirl of modern circumstance, it was easy, merely looking at the thing, to be seized with an impression of disaster. The stars were so pale on the lingering white light of the pure north, the smoky cloud so deep and heavy and steadfast and low above the hills, the fire so near to it, so sharp against it, and so huge, that the awe and sinister meaning of conflagrations dominated the impression of all the scene. There arose in the mind that memory which associates such a glare and the rising and falling fury of flames with sacrifice or with vengeance, or with the warning of an enemy’s approach, or with the mark of his conquest; for with such things our race (for how many thousand years!) has watched the fires upon the hills far off. It touched one as does the reiterated note of a chaunt; if not with an impression of doom, at least with that of calamity.
+
+When the fires had died down to a sullen glow, and the men watching them had gone home under the weight of what they had seen, the [[Storm|storm]] broke and occupied the whole sky. A very low wind rose and a furious rain fell. It became suddenly cold; there was thunder all over the weald, and the lightning along the unseen crest of the downs answered the lightning above the forest.
+
+* * *
+
+
+
+
 <span class="atom-split" data-atom="story_32_the_man_of_the_desert--part_01" data-title="Hills and the Sea — THE MAN OF THE DESERT (part 1)" data-chapter="THE MAN OF THE DESERT" data-kind="excerpt"></span>
 
 
@@ -3743,6 +3555,66 @@ The men of the Desert do not understand these things. They are by compulsion nom
 As I looked from the mountain I thought the Desert which I had come so far to see had explained to me what hitherto I had not understood in the mischances of Europe. I remained for a long while looking out upon the glare.
 
 But when I came down again, northward from the high sandstone hill, and was in the fields again near running water, and drinking wine from a cup carved with Roman emblems, I began to [[Wonder|wonder]] whether the Desert had not put before my mind, as they say it can do before the eye of the traveller, a mirage. Is there such an influence? Are there such men?
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_33_the_departure" data-title="Hills and the Sea — THE DEPARTURE" data-chapter="THE DEPARTURE" data-kind="story"></span>
+
+
+THE DEPARTURE
+
+ONCE, IN BARBARY, I grew tired of unusual things, especially of palms, and desired to return to Europe and the things I knew; so I went down from the hills to the sea coast, and when after two days I had reached the railway, I took a train for Algiers and reached that port at evening.
+
+From Algiers it is possible to go at once and for almost any sum one chooses to any part of the world. The town is on a sharp slope of a theatre of hills, and in the quiet harbour below it there are all sorts of ships, but mostly steamships, moored with their sterns towards the quay. For there is no tide here, and the ships can lie quite still.
+
+I sat upon a wall of the upper town and considered how each of these ships were going to some different place, and how pleasant it was to roam about the world. Behind the ships, along the stone quays, were a great number of wooden huts, of offices built, into archways, of little houses, booths, and dens, in each of which you could take your passage to some place or other.
+
+“Now,” said I to myself, “now is the time to be free.” For one never feels master of oneself unless one is obeying no law, plan, custom, trend, or necessity, but simply spreading out at ease and occupying the world. In this also Aristotle was misled by fashion, or was ill-informed by some friend of his, or was, perhaps, lying for money when he said that liberty was obedience to a self-made law; for the most distant hint of law is odious to liberty. True, it is more free to obey a law of one’s own making than of some one else’s; just as if a man should give himself a punch in the eye it would be less hurtful and far less angering than one given by a passer-by; yet to suffer either would not be a benefit of freedom. Liberty cannot breathe where the faintest odour of regulation is to be discovered, but only in that ether whose very nature is largeness. Oh! Diviner Air! how few have drunk you, and in what deep draughts have I!
+
+I had a great weight of coined, golden, metallic money all loose in my pocket. There was no call upon me nor any purpose before me. I spent an hour looking down upon the sea and the steamships, and taking my pick out of all the world.
+
+One thing, however, guided me, which was this: that desire, to be satisfied at all, must be satisfied at once; and of the many new countries I might seek that would most attract me whose [[Ship|ship]] was starting soonest. So I looked round for mooring cables in the place of anchor chains, for Blue Peter, for smoke from funnels, for little boats coming and going, and for all that shows a steamboat to be off; when I saw, just behind a large new boat in such a condition of bustle, a sign in huge yellow letters staring on a bright black ground, which said, “To the Balearic Islands, eight shillings”; underneath, in smaller yellow letters, was written: “Gentlemen The Honourable Travellers are warned that they must pay for any food they consume.” When I had read this notice I said to myself: “I will go to the Balearic Islands, of which the rich have never heard. I, poor and unencumbered, will go and visit these remote places, which have in their time received all the influences of the world, and which yet have no history; for I am tired of this Africa, where so many men are different from me.” As I said this to myself I saw a little picture in my mind of three small islands standing in the middle of the sea, quite alone, and inhabited by happy men; but this picture, as it always is with such pictures, was not at all the same as what I saw when next morning the islands rose along the north to which we steered.
+
+I went down to the quay by some large stone steps which an Englishman had built many years ago, and I entered the office above which this great sign was raised. Within was a tall man of doubtful race, smoking a cigarette made of loose paper, and gazing kindly at the air. He was full of reveries. Of this man I asked when the boat would be starting. He told me it started in half an hour, a little before the setting of the sun. So I bought a ticket for eight shillings, upon which it was clearly printed in two languages that I had bound myself to all manner of things by the purchase, and especially that I might not go below, but must sit upon deck all night; nevertheless, I was glad to hold that little bit of printed prose, for it would enable me to reach the Balearic Islands, which for all other men are names in a dream. I then went up into the town of Algiers, and was careful to buy some ham from a Jew, some wine from a Mohammedan, and some bread and chocolate from a very indifferent Christian. After that I got aboard. As I came over the side I heard the sailors, stokers, and people all talking to each other in low tones, and I at once recognised the tongue called Catalan.
+
+I had heard this sort of Latin in many places, some lonely and some populous. I had heard it once from a chemist at Perpignan who dressed a wound of mine, and this was the first time I heard it. Very often after in the valleys of the Pyrenees, in the Cerdagne, and especially in Andorra, hundreds of men had spoken to me in Catalan. At Urgel, that notable city where there is only one shop and where the streets are quite narrow and Moorish, a woman and six or seven men had spoken Catalan to me for nearly one hour: it was in a cellar surrounded by great barrels, and I remember it well. So, also, on the River Noguera, coming up again into the hills, a girl who took the toll at the wooden bridge had spoken Catalan to me. But none of these had I ever answered so that they could understand, and on this account I was very grieved to hear the Catalan tongue, though I remembered that if I spoke to them with ordinary Spanish words or in French with a strong Southern accent they would usually have some idea of what I was saying.
+
+As the evening fell the cables were slipped without songs, and with great dignity, rapidity, and order the [[Ship|ship]] was got away.
+
+I knew a man once, a seafaring man, a Scotchman, with whom I travelled on a very slow old boat in the Atlantic, who told me that the Northern people of Europe were bravest in a unexpected danger, but the Southern in a danger long foreseen. He said he had known many of both kinds, and had served under them and commanded them. He said that in sudden accident the Northerner was the more reliable man, but that if an act of great danger had to be planned and coolly achieved, then the Southerner was strongest in doing what he had to do. He said that in taking the ground he would rather have a Northern, but in bringing in a short [[Ship|ship]] a Southern crew.
+
+He was a man who observed closely, and never said a thing because he had read it. Indeed, he did not read, and he had in a little hanging shelf above his bunk only four or five tattered books, and even these were magazines. I remembered his testimony now as I watched these Catalans letting the ship go free, and I believed it, comparing it with history and the things I had myself seen. They did everything with such regularity and so silently that it was a different deck from what one would have had in the heave of the Channel. With Normans or Bretons, or Cornishmen or men of Kent, but especially with men from London river, there would have been all sorts of cursing and bellowing, and they could not have touched a rope without throwing themselves into attitudes of violence. But these men took the sea quite quietly, nor could you tell from their faces which was rich and which was poor.
+
+It was not till the ship was out throbbing swiftly Over the smooth sea and darkness had fallen that they began to sing. Then those of them who were not working gathered together with a stringed instrument forward and sang of pity and of death. One of them said to me, “Knight, can your grace sing?” I told him that I could sing, certainly, but that my singing was unpleasing, and that I only knew foreign songs. He said that singing was a great solace, and desired to hear a song of my own country. So I sang them a song out of Sussex, to which they listened in deep silence, and when it was concluded their leader snapped and twanged at the strings again and began another song about the riding of horses in the hills.
+
+So we passed the short night until the sky upon our quarter grew faintly pale and the little [[Wind|wind]] that rises before morning awakened the sea.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_34_the_idea_of_a_pilgrimage" data-title="Hills and the Sea — THE IDEA OF A PILGRIMAGE" data-chapter="THE IDEA OF A PILGRIMAGE" data-kind="story"></span>
+
+
+THE IDEA OF A PILGRIMAGE
+
+A PILGRIMAGE IS, of course, an expedition to some venerated place to which a vivid memory of sacred things experienced, or a long and wonderful history of human experience in divine matters, or a personal attraction affecting the soul impels one. This is, I say, its essence. So a pilgrimage may be made to the tomb of Descartes, in Paris, or it may be a little walk uphill to a neighbouring and beloved grave, or a modern travel, even in luxury, on the impulse to see something that greatly calls one.
+
+But there has always hung round the idea of a pilgrimage, with all people and at all times — I except those very rare and highly decadent generations of history in which no pilgrimages are made, nor any journeys, save for curiosity or greed — there has always hung round it, I say, something more than the mere objective. Just as in general worship you will have noble gowns, vivid colour, and majestic music (symbols, but necessary symbols of the great business you are at); so, in this particular case of worship, clothes, as it were, and accoutrements, gather round one’s principal action. I will visit the grave of a saint or of a man whom I venerate privately for his virtues and deeds, but on my way I wish to do something a little difficult to show at what a price I hold communion with his resting-place, and also on toy way I will see all I can of men and things; for anything great and worthy is but an ordinary thing transfigured, and if I am about to venerate a humanity absorbed into the divine, so it behoves me on my [[Journey|journey]] to it to enter into and delight in the divine that is hidden in everything. Thus I may go upon a pilgrimage with no pack and nothing but a stick and my clothes, but I must get myself into the frame of mind that carries an invisible burden, an eye for happiness and suffering, humour, gladness at the beauty of the world, a readiness for raising the heart at the vastness of a wide view, and especially a readiness to give multitudinous praise to God; for a man that goes on a pilgrimage does best of all if he starts out (I say it of his temporal object only) with the heart of a wanderer, eager for the world as it is, forgetful of maps or descriptions, but hungry for real colours and men and the seeming of things. This desire for reality and contact is a kind of humility, this pleasure in it a kind of charity.
+
+It is surely in the essence of a pilgrimage that all vain imaginations are controlled by the greatness of our object. Thus, if a man should go to see the place where (as they say) St. Peter met our Lord on the Appian Way at dawn, he will not care very much for the niggling of pedants about this or that building, or for the rhetoric of posers about this or that beautiful picture. If a thing in his way seem to him frankly ugly he will easily treat it as a neutral, forget it and pass it by. If, on the contrary, he find a beautiful thing, whether done by God or by man, he will remember and love it. This is what children do, and to get the heart of a child is the end surely of any act of religion. In such a temper he will observe rather than read, and though on his way he cannot do other than remember the names of places, saying, “Why, these are the Alps of which I have read! Here is Florence, of which I have heard so many rich women talk!” yet he will never let himself argue and decide or put himself, so to speak, before an audience in his own mind — for that is pride which all of us moderns always fall into. He will, on the contrary, go into everything with curiosity and pleasure, and be a brother to the streets and trees and to all the new world he finds. The Alps that he sees with his eyes will be as much more than the names he reads about, the Florence of his desires as much more than the Florence of sickly-drawing-rooms; as beauty loved is more than beauty heard of, or as our own taste, smell, hearing, touch and sight are more than the vague relations of others. Nor does religion exercise in our common life any function more temporarily valuable than this, that it makes us be sure at least of realities, and look very much askance at philosophies and imaginaries and academic whimsies.
+
+Look, then, how a pilgrimage ought to be nothing but a nobler kind of travel, in which, according to our age and inclination, we tell our tales, or draw our pictures, or compose our songs. It is a very great error, and one unknown before our most recent corruptions, that the religious spirit should be so superficial and so self-conscious as to dominate our method of action at special times and to be absent at others. It is better occasionally to travel in one way or another to some beloved place (or to some place wonderful and desired for its associations), haunted by our mission, yet falling into every ordinary levity, than to go about a common voyage in a chastened and devout spirit. I fear this is bad theology, and I propound it subject to authority. But, surely, if a man should say, “I will go to Redditch to buy needles cheap,” and all the way take care to speak no evil of his neighbour, to keep very sober, to be punctual in his accounts, and to say his regular prayers with exactitude, though that would be a good work, yet if he is to be a [[Pilgrim|pilgrim]] (and the Church has a hundred gates), I would rather for the moment that he went off in a gay, tramping spirit, not oversure of his expenses, not very careful of all he said or did, but illuminated and increasingly informed by the great object of his voyage, which is here not to buy or sell needles, or what not, but to loose the mind and purge it in the ultimate contemplation of something divine.
+
+There is, indeed, that kind of pilgrimage which some few sad men undertake because their minds are overburdened by a sin or tortured with some great care that is not of their own fault. These are excepted from the general rule, though even to these a very human spirit comes by the way, and the adventures of inns and foreign conversations broaden the world for them and lighten their burden. But this kind of pilgrimage is rare and special, having its peculiar virtues. The common sort (which how many men undertake under another name!) is a separate and human satisfaction of a need, the fulfilling of an instinct in us, the realisation of imagined horizons, the reaching of a goal. For whoever yet that was alive reached an end and could say he was satisfied? Yet who has not desired so to reach an end and to be satisfied? Well, pilgrimage is for the most a sort of prefiguring or rehearsal. A man says: “I will play in show (but a show stiffened with a real and just object) at that great part which is all we can ever play. Here I start from home, and there I reach a goal, and on the way I laugh and watch, sing and work. Now I am at ease and again hampered; now poor, now rich, weary towards the end and at last arrived at that end. So my great life is, and so this little chapter shall be.” Thus he packs up the meaning of life into a little space to be able to look at it closely, as men carry with them small locket portraits of their birthplace or of those they love.
+
+If a pilgrimage is all this, it is evident that however careless, it must not be untroublesome. It would be a contradiction of pilgrimage to seek to make the [[Journey|journey]] short and rapid, merely consuming the mind for nothing, as is our modern habit; for they seem to think nowadays that to remain as near as possible to what one was at starting, and to one’s usual rut, is the great good of travel (as though a man should run through the Iliad only to note the barbarous absurdity of the Greek characters, or through Catullus for the sake of discovering such words as were like enough to English). That is not the spirit of a pilgrimage at all. The [[Pilgrim|pilgrim]] is humble and devout, and human and charitable, and ready to smile and admire; therefore he should comprehend the whole of his way, the people in it, and the hills and the clouds, and the habits of the various cities. And as to the method of doing this, we may go bicycling (though that is a little flurried) or driving (though that is luxurious and dangerous, because it brings us constantly against servants and flattery); but the best way of all is on foot, where one is a man like any other man, with the sky above one, and the road beneath, and the world on every side, and time to see all.
+
+So also I designed to walk, and did, when I visited the tombs of the Apostles.
 
 * * *
 
@@ -3907,3 +3779,131 @@ Then he continued and said: “I have too long considered these matters for any 
 The fire had fallen. Flames no longer leapt from the beech logs; but on their under side, where a glow still lingered, embers fell.
 
 * * *
+
+
+
+
+<span class="atom-split" data-atom="story_37_the_autumn_and_the_fall_of_leaves" data-title="Hills and the Sea — THE AUTUMN AND THE FALL OF LEAVES" data-chapter="THE AUTUMN AND THE FALL OF LEAVES" data-kind="story"></span>
+
+
+THE AUTUMN AND THE FALL OF LEAVES
+
+IT IS NOT true that the close of a life which ends in a natural fashion — life which is permitted to put on the pomp of death and to go out in glory — inclines the mind to repose. It is not true of a day ending nor the passing of the year, nor of the fall of leaves. Whatever permanent, uneasy question is native to men, comes forward most insistent and most loud at such times.
+
+There is a house in my own county which is built of stone, whose gardens are fitted to the autumn. It has level alleys standing high and banked with stone. Their ornaments were carved under the influence of that restraint which marked the Stuarts. They stand above old ponds, and are strewn at this moment with the leaves of elms. These walks are like the Mailles of the Flemish cities, the walls of the French towns or the terraces of the Loire. They are enjoyed to-day by whoever has seen all our time go racing by; they are the proper resting-places of the aged, and their spirit is felt especially in the fall of leaves.
+
+At this season a sky which is of so delicate and faint a blue as to contain something of gentle mockery, and certainly more of tenderness, presides at the fall of leaves. There is no air, no breath at all. The leaves are so light that they sidle on their going downward, hesitating in that which is not void to them, and touching at last so imperceptibly the earth with which they are to mingle, that the gesture is much gentler than a salutation, and even more discreet than a discreet caress.
+
+They make a little sound, less than the least of sounds. No bird at night in the marshes rustles so slightly; no man, though men are the subtlest of living beings, put so evanescent a stress upon their sacred whispers or their prayers. The leaves are hardly heard, but they are heard just so much that men also, who are destined at the end to grow glorious and to die, look up and hear them falling.
+
+* * *
+
+With what a pageantry of every sort is not that troubling symbol surrounded! The scent of life is never fuller in the woods than now, for the ground is yielding up its memories. The spring when it comes will not restore this fullness, nor these deep and ample recollections of the earth. For the earth seems now to remember the drive of the ploughshare and its harrying; the seed, and the full bursting of it, the swelling and the completion of the harvest. Up to the edge of the woods throughout the weald the earth has borne fruit; the barns are full, and the wheat is standing stacked in the fields, and there are orchards all around. It is upon such a mood of parentage and of fruition that the dead leaves fall.
+
+The colour is not a mere splendour: it is intricate. The same unbounded power, never at fault and never in calculation, which comprehends all the landscape, and which has made the woods, has worked in each one separate leaf as well; they are inconceivably varied. Take up one leaf and see. How many kinds of boundary are there here between the stain which ends in a sharp edge against the gold, and the sweep in which the purple and red mingle more evenly than they do in shot-silk or in flames? Nor are the boundaries to be measured only by degrees of definition. They have also their characters of line. Here in this leaf are boundaries intermittent, boundaries rugged, boundaries curved, and boundaries broken. Nor do shape and definition ever begin to exhaust the list. For there are softness and hardness too: the agreement and disagreement with the scheme of veins; the grotesque and the simple in line; the sharp and the broad, the smooth, and raised in boundaries. So in this one matter of boundaries might you discover for ever new things; there is no end to them. Their qualities are infinite. And beside boundaries you have hues and tints, shades also, varying thicknesses of stuff, and endless choice of surface; that list also is infinite, and the divisions of each item in it are infinite; nor is it of any use to analyse the thing, for everywhere the depth and the meaning of so much creation are beyond our powers. And all this is true of but one dead leaf; and yet every dead leaf will differ from its fellow.
+
+That which has delighted to excel in boundlessness within the bounds of this one leaf, has also transformed the whole forest. There is no number to the particular colour of the one leaf. The forest is like a thing so changeful of its nature that change clings to it as a quality, apparent even during the glance of a moment. This forest makes a picture which is designed, but not seizable. It is a scheme, but a scheme you cannot set down. It is of those things which can best be retained by mere copying with a pencil or a brush. It is of those things which a man cannot fully receive, and which he cannot fully re-express to other men.
+
+It is no [[Wonder|wonder]], then, that at this peculiar time, this week (or moment) of the year, the desires which if they do not prove at least demand — perhaps remember — our destiny, come strongest. They are proper to the time of autumn, and all men feel them. The air is at once new and old; the morning (if one rises early enough to welcome its leisurely advance) contains something in it of profound reminiscence. The evenings hardly yet suggest (as they soon will) friends and security, and the fires of home. The thoughts awakened in us by their bands of light fading along the downs are thoughts which go with loneliness and prepare me for the isolation of the soul.
+
+It is on this account that tradition has set, at the entering of autumn, for a watch at the gate of the season, the Archangel; and at its close the day and the night of All-Hallows on which the dead return.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_38_the_good_woman" data-title="Hills and the Sea — THE GOOD WOMAN" data-chapter="THE GOOD WOMAN" data-kind="story"></span>
+
+
+THE GOOD WOMAN
+
+UPON A HILL that overlooks a western plain and is conspicuous at the approach of evening, there still stands a house of faded brick faced with cornerings of stone. It is quite empty, but yet not deserted. In each room some little furniture remains; all the pictures are upon the walls; the deep red damask of the panels is not faded, or if faded, shows no contrast of brighter patches, for nothing has been removed from the walls. Here it is possible to linger for many hours alone, and to watch the slope of the hill under the level light as the sun descends. Here passes a woman of such nobility that, though she is dead, the landscape and the vines are hers.
+
+It was in September, during a silence of the air, that I first saw her as she moved among her possessions; she was smiling to herself as though at a memory, but her smile was so slight and so dignified, so genial, and yet so restrained, that you would have thought it part of everything around and married (as she was) to the land which was now her own. She wandered down the garden paths ruling the flowers upon either side, and receiving as she went autumn and the fruition of her fields; plenitude and completion surrounded her; the benediction of Almighty God must have been upon her, for she was the fulfilment of her world.
+
+Three fountains played in that garden — two, next to the northern and the southern walls, were small and low; they rather flowed than rose. Two cones of marble received their fall, and over these they spread in an even sheet with little noise, making (as it were) a sheath of water which covered all the stone; but the third sprang into the air with delicate triumph, fine and high, satisfied, tenuous and exultant. This one tossed its summit into the light, and, alone of the things in the garden, the plash of its waters recalled and suggested activity — though that in so discreet a way that it was to be heard rather than regarded. The birds flew off in circles over the roofs of the town below us. Very soon they went to their rest.
+
+The slow transfiguration of the light by which the air became full of colours and every outline merged into the evening, made of all I saw, as I came up towards her, a soft and united vision wherein her advancing figure stood up central and gave a meaning to the whole. I will not swear that she did not as she came bestow as well as receive an influence of the sunset. It was said by the ancients that virtue is active, an agent, and has power to control created things; for, they said, it is in a direct relation with whatever orders and has ordained the general scheme. Such power, perhaps, resided in her hands. It would have awed me but hardly astonished if, as the twilight deepened, the inclination of the stems had obeyed her gesture and she had put the place to sleep.
+
+As I came near I saw her plainly. Her face was young although she was so wise, but its youth had the aspect of a divine survival. Time adorned it.
+
+Music survives. Whatever is eternal in the grace of simple airs or in the Christian innocence of Mozart was apparent, nay, had increased, in her features as the days in passing had added to them not only experience but also revelation and security. She was serene. The posture of her head was high, and her body, which was visibly informed by an immortal spirit, had in its carriage a large, a regal, an uplifted bearing which even now as I write of it, after so many years, turns common every other sight that has encountered me. This was the way in which I first saw her upon her own hillside at evening.
+
+With every season I returned. And with every season she greeted my coming with a more generous and a more vivacious air. I think the years slipped off and did not add themselves upon her mind: the common doom of mortality escaped her until, perhaps, its sign was imposed upon her hair — for this at last was touched all through with that appearance or gleam which might be morning or which might be snow.
+
+She was able to conjure all evil. Those desperate enemies of mankind which lie in siege of us all around grew feeble and were silent when she came. Nor has any other force than hers dared to enter the rooms where she had lived: it is her influence alone which inhabits them to-day. There is a vessel of copper, enamelled in green and gilded, which she gave with her own hands to a friend overseas. I have twice touched it in an evil hour.
+
+Strength, sustenance, and a sacramental justice are permanent in such lives, and such lives also attain before their close to so general a survey of the world that their appreciations are at once accurate and universal.
+
+On this account she did not fail in any human conversation, nor was she ever for a moment less than herself; but always and throughout her moods her laughter was unexpected and full, her fear natural, her indignation glorious.
+
+Above all, her charity extended like a breeze: it enveloped everything she knew. The sense of destiny faded from me as the warmth of that charity fell upon my soul; the foreknowledge of death retreated, as did every other unworthy panic.
+
+She drew the objects of her [[Friendship|friendship]] into something new; they breathed an air from another country, so that those whom she deigned to regard were, compared with other men, like the living compared with the dead; or, better still, they were like men awake while the rest were tortured by dreams and haunted of the unreal. Indeed, she had a word given to her which saved all the souls of her acquaintance.
+
+It is not true that influence of this sort decays or passes into vaguer and vaguer depths of memory. It does not dissipate. It is not dissolved. It does not only spread and broaden: it also increases with the passage of time. The musicians bequeath their spirit, notably those who have loved delightful themes and easy melodies. The poets are read for ever; but those who resemble her do more, for they grow out upon the centuries — they themselves and not their arts continue. There is stuff in their legend. They are a tangible inheritance for the hurrying generations of men.
+
+She was of this kind. She was certainly of this kind. She died upon this day[] in the year 1892. In these lines I perpetuate her memory.
+
+The 22nd of December.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="story_39_the_harbour_in_the_north" data-title="Hills and the Sea — THE HARBOUR IN THE NORTH" data-chapter="THE HARBOUR IN THE NORTH" data-kind="story"></span>
+
+
+THE HARBOUR IN THE NORTH
+
+UPON THAT SHORE of Europe which looks out towards no further shore, I came once by accident upon a certain man.
+
+The day had been warm and almost calm, but a little breeze from the south-east had all day long given life to the sea. The seas had run very small and brilliant, yet without violence, before the [[Wind|wind]], and had broken upon the granite cliffs to leeward, not in spouts of foam, but in a white even line that was thin, and from which one heard no sound of surge. Moreover, as I was running dead north along the coast, the noise about the bows was very slight and pleasant. The regular and gentle [[Wind|wind]] came upon the quarter without change, and the heel of the boat was steady. No calm came with the late sunset; the breeze still held, and so till nearly midnight I could hold a course and hardly feel the pulling of the helm. Meanwhile the arch of the sunset endured, for I was far to the northward, and all those colours which belong to June above the Arctic Sea shone and changed in the slow progress of that arch as it advanced before me and mingled at last with the dawn. Throughout the hours of that [[Journey|journey]] I could see clearly the seams of the deck forward, the texture of the canvas and the natural hues of the woodwork and the rigging, the glint of the brasswork, and even the letters painted round the little capstain-head, so continually did the light endure. The silence which properly belongs to darkness, and which accompanies the sleep of birds upon the sea, appeared to be the more intense because of such a continuance of the light, and what with a long vigil and new water, it was as though I had passed the edge of all known maps and had crossed the boundary of new land.
+
+In such a mood I saw before me the dark band of a stone jetty running some miles off from the shore into the sea, and at the end of it a fixed beacon whose gleam showed against the translucent sky (and its broken reflection in the pale sea) as a candle shows when one pulls the curtains of one’s room and lets in the beginnings of the day.
+
+For this point I ran, and as I turned it I discovered a little harbour quite silent under the growing light; there was not a man upon its wharves, and there was no smoke rising from its slate roofs. It was absolutely still. The boat swung easily round in the calm water, the pier-head slipped by, the screen of the pier-head beacon suddenly cut off its glare, and she went slowly with no air in her canvas towards the patch of darkness under the quay. There, as I did not know the place, I would not pick up moorings which another man might own and need, but as my boat still crept along with what was left of her way I let go the little anchor, for it was within an hour of low tide, and I was sure of water.
+
+When I had done this she soon tugged at the chain and I slackened all the halyards. I put the cover on the mainsail, and as I did so, looking aft, I noted the high mountain-side behind the town standing clear in the dawn. I turned eastward to receive it. The light still lifted, and though I had not slept I could not but stay up and watch the glory growing over heaven. It was just then, when I had stowed everything away, that I heard to the right of me the crooning of a man.
+
+A few moments before I should not have seen him under the darkness of the sea-wall, but the light was so largely advanced (it was nearly two o’clock) that I now clearly made out both his craft and him.
+
+She was sturdy and high, and I should think of slight draught. She was of great beam. She carried but one sail, and that was brown. He had it loose, with the peak dipped ready for hoisting, and he himself was busy at some work upon the floor, stowing and fitting his bundles, and as he worked he crooned gently to himself. It was then that I hailed him, but in a low voice, so much did the silence of that place impress itself upon all living beings who were strange to it. He looked up and told me that he had not seen me come in nor heard the rattling of the chain. I asked him what he would do so early, whether he was off fishing at that hour or whether he was taking parcels down the coast for hire or goods to sell at some other port. He answered me that he was doing none of those things.
+
+“What cruise, then, are you about to take?” I said.
+
+“I am off,” he answered in a low and happy voice, “to find what is beyond the sea.”
+
+“And to what shore,” said I, “do you mean to sail?”
+
+He answered: “I am out upon this sea northward to where they say there is no further shore.”
+
+As he spoke he looked towards that horizon which now stood quite clean and clear between the pier-heads: his eyes were full of the broad daylight, and he breathed the rising [[Wind|wind]] as though it were a promise of new life and of unexpected things. I asked him then what his security was and had he formed a plan, and why he was setting out from this small place, unless, perhaps, it was his home, of which he might be tired.
+
+“No,” he answered, and smiled; “this is not my home; and I have come to it as you may have come to it, for the first time; and, like you, I came in after the whole place slept; but as I neared I noticed certain shore marks and signs which had been given me, and then I knew that I had come to the starting-place of a long voyage.”
+
+“Of what voyage?” I asked.
+
+He answered:
+
+“This is that harbour in the North of which a Breton priest once told me that I should reach it, and when I had moored in it and laid my stores on board in order, I should set sail before morning and reach at last a complete repose.” Then he went on with eagerness, though still talking low: “The voyage which I was born to make in the end, and to which my desire has driven me, is towards a place in which everything we have known is forgotten, except those things which, as we knew them, reminded us of an original joy. In that place I shall discover again such full moments of content as I have known, and I shall preserve them without failing. It is in some country beyond this sea, and it has a harbour like this harbour, only set towards the South, as this is towards the North; but like this harbour it looks out over an unknown sea, and like this harbour it enjoys a perpetual light. Of what the happy people in this country are, or of how they speak, no one has told me, but they will receive me well, for I am of one kind with themselves. But as to how I shall know this harbour, I can tell you: there is a range of hills, broken by a valley through which one sees a further and a higher range, and steering for this hollow in the hills one sees a tower out to sea upon a rock, and high up inland a white quarry on a hill-top; and these two in line are the leading marks by which one gets clear into the mouth of the river, and so to the wharves of the town. And there,” he ended, “I shall come off the sea for ever, and every one will call me by my name.”
+
+The sun was now near the horizon, but not yet risen, and for a little time he said nothing to me nor I to him, for he was at work sweating up the halyard and setting the peak. He let go the mooring knot also, but he held the end of the rope in his hand and paid it out, standing and looking upward, as the sail slowly filled and his craft drifted towards me. He pressed the tiller with his knee to keep her full.
+
+I now knew by his eyes and voice that he was from the West, and I could not see him leave me without asking him from what place he came that he should set out for such another place. So I asked him: “Are you from Ireland, or from Brittany, or from the Islands?” He answered me: “I am from none of these, but from Cornwall.” And as he answered me thus shortly he still watched the sail and still pressed the tiller with his knee, and still paid out the mooring rope without turning round.
+
+“You cannot make the harbour,” I said to him. “It is not of this world.”
+
+Just at that moment the breeze caught the peak of his jolly brown sail; he dropped the tail of the rope: it slipped and splashed into the harbour slime. His large boat heeled, shot up, just missed my cable; and then he let her go free, and she ran clear away. As she ran he looked over his shoulder and laughed most cheerily; he greeted me with his eyes, and he waved his hand to me in the morning light.
+
+He held her well. A clean wake ran behind her. He put her straight for the harbour-mouth and passed the pier-heads and took the sea outside.
+
+Whether in honest truth he was a fisherman out for fishes who chose to fence with me, or whether in that cruise of his he landed up in a Norwegian bay, or thought better of it in Orkney, or went through the sea and through death to the place he desired, I have never known.
+
+I watched him holding on, and certainly he kept a course. The sun rose, the town awoke, but I would not cease from watching him. His sail still showed a smaller and a smaller point upon the sea; he did not waver. For an hour I caught it and lost it, and caught it again, as it dwindled; for half another hour I could not swear to it in the blaze. Before I had wearied it was gone.
+
+* * *
+
+Oh! my companions, both you to whom I dedicate this book and you who have accompanied me over other hills and across other waters or before the guns in Burgundy, or you others who were with me when I seemed alone — that ulterior shore was the place we were seeking in every cruise and march and the place we thought at last to see. We, too, had in mind that Town of which this man spoke to me in the Scottish harbour before he sailed out northward to find what he could find. But I did not follow him, for even if I had followed him I should not have found the Town.

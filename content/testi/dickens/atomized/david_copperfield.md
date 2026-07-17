@@ -38284,432 +38284,6 @@ which I now dismiss, still find thee near me, pointing upward!
 
 
 
-<span class="atom-split" data-atom="chapter_53_another_retrospect" data-title="David Copperfield — Chapter 53: ANOTHER RETROSPECT" data-chapter="ANOTHER RETROSPECT" data-kind="chapter"></span>
-
-
-CHAPTER 53. ANOTHER RETROSPECT
-
-
-I must pause yet once again. O, my [[Child|child]]-wife, there is a figure in the
-moving crowd before my [[Memory|memory]], quiet and still, saying in its [[Innocent|innocent]]
-[[Love|love]] and childish [[Beauty|beauty]], Stop to think of me--turn to look upon the
-Little Blossom, as it flutters to the ground!
-
-I do. All else grows dim, and fades away. I am again with Dora, in our
-cottage. I do not know how long she has been ill. I am so used to it in
-feeling, that I cannot count the [[Time|time]]. It is not really long, in weeks
-or months; but, in my usage and experience, it is a weary, weary while.
-
-They have left off telling me to ‘wait a few days more’. I have begun
-to [[Fear|fear]], remotely, that the day may never shine, when I shall see my
-[[Child|child]]-wife running in the sunlight with her old friend Jip.
-
-He is, as it were suddenly, grown very old. It may be that he misses in
-his mistress, something that enlivened him and made him younger; but he
-mopes, and his sight is weak, and his limbs are feeble, and my aunt is
-sorry that he objects to her no more, but creeps near her as he lies on
-Dora’s bed--she sitting at the bedside--and mildly licks her hand.
-
-Dora lies smiling on us, and is beautiful, and utters no hasty or
-complaining word. She says that we are very good to her; that her dear
-old careful boy is tiring himself out, she knows; that my aunt has no
-[[Sleep|sleep]], yet is always wakeful, active, and kind. Sometimes, the
-little bird-like ladies come to see her; and then we talk about our
-wedding-day, and all that happy [[Time|time]].
-
-What a strange rest and pause in my life there seems to be--and in all
-life, within doors and without--when I sit in the quiet, shaded, orderly
-room, with the blue eyes of my [[Child|child]]-wife turned towards me, and her
-little fingers twining round my hand! Many and many an hour I sit thus;
-but, of all those times, three times come the freshest on my mind.
-
-
-It is morning; and Dora, made so trim by my aunt’s hands, shows me how
-her pretty hair will curl upon the pillow yet, an how long and bright it
-is, and how she likes to have it loosely gathered in that net she wears.
-
-‘Not that I am vain of it, now, you mocking boy,’ she says, when I
-smile; ‘but because you used to say you thought it so beautiful; and
-because, when I first began to think about you, I used to peep in the
-glass, and [[Wonder|wonder]] whether you would like very much to have a lock of it.
-Oh what a foolish fellow you were, Doady, when I gave you one!’
-
-‘That was on the day when you were painting the [[Flowers|flowers]] I had given you,
-Dora, and when I told you how much in [[Love|love]] I was.’
-
-‘Ah! but I didn’t like to tell you,’ says Dora, ‘then, how I had cried
-over them, because I believed you really liked me! When I can run about
-again as I used to do, Doady, let us go and see those places where we
-were such a silly couple, shall we? And take some of the old walks? And
-not forget poor papa?’
-
-‘Yes, we will, and have some happy days. So you must make haste to get
-[[Well|well]], my dear.’
-
-‘Oh, I shall soon do that! I am so much better, you don’t know!’
-
-
-It is evening; and I sit in the same chair, by the same bed, with the
-same face turned towards me. We have been silent, and there is a smile
-upon her face. I have ceased to carry my light burden up and down stairs
-now. She lies here all the day.
-
-‘Doady!’
-
-‘My dear Dora!’
-
-‘You won’t think what I am going to say, unreasonable, after what you
-told me, such a little while ago, of Mr. Wickfield’s not being [[Well|well]]? I
-want to see Agnes. Very much I want to see her.’
-
-‘I will write to her, my dear.’
-
-‘Will you?’
-
-‘Directly.’
-
-‘What a good, kind boy! Doady, take me on your arm. Indeed, my dear,
-it’s not a whim. It’s not a foolish fancy. I want, very much indeed, to
-see her!’
-
-‘I am certain of it. I have only to tell her so, and she is sure to
-come.’
-
-‘You are very lonely when you go downstairs, now?’ Dora whispers, with
-her arm about my neck.
-
-‘How can I be otherwise, my own [[Love|love]], when I see your empty chair?’
-
-‘My empty chair!’ She clings to me for a little while, in [[Silence|silence]]. ‘And
-you really miss me, Doady?’ looking up, and brightly smiling. ‘Even
-poor, giddy, stupid me?’
-
-‘My heart, who is there upon earth that I could miss so much?’
-
-‘Oh, husband! I am so glad, yet so sorry!’ creeping closer to me, and
-folding me in both her arms. She laughs and sobs, and then is quiet, and
-quite happy.
-
-‘Quite!’ she says. ‘Only give Agnes my dear [[Love|love]], and tell her that I
-want very, very, much to see her; and I have nothing left to wish for.’
-
-‘Except to get [[Well|well]] again, Dora.’
-
-‘Ah, Doady! Sometimes I think--you know I always was a silly little
-thing!--that that will never be!’
-
-‘Don’t say so, Dora! Dearest [[Love|love]], don’t think so!’
-
-‘I won’t, if I can help it, Doady. But I am very happy; though my dear
-boy is so lonely by himself, before his [[Child|child]]-wife’s empty chair!’
-
-
-It is [[Night|night]]; and I am with her still. Agnes has arrived; has been among
-us for a whole day and an evening. She, my aunt, and I, have sat with
-Dora since the morning, all together. We have not talked much, but Dora
-has been perfectly contented and cheerful. We are now [[Alone|alone]].
-
-Do I know, now, that my [[Child|child]]-wife will soon leave me? They have told me
-so; they have told me nothing new to my thoughts--but I am far from
-sure that I have taken that [[Truth|truth]] to heart. I cannot master it. I have
-withdrawn by myself, many times today, to weep. I have remembered Who
-wept for a parting between the living and the dead. I have bethought me
-of all that gracious and compassionate [[history]]. I have tried to resign
-myself, and to console myself; and that, I [[Hope|hope]], I may have done
-imperfectly; but what I cannot firmly settle in my mind is, that the end
-will absolutely come. I hold her hand in mine, I hold her heart in mine,
-I see her [[Love|love]] for me, alive in all its strength. I cannot shut out a
-pale lingering [[Shadow|shadow]] of belief that she will be spared.
-
-‘I am going to speak to you, Doady. I am going to say something I have
-often thought of saying, lately. You won’t mind?’ with a gentle look.
-
-‘Mind, my darling?’
-
-‘Because I don’t know what you will think, or what you may have thought
-sometimes. Perhaps you have often thought the same. Doady, dear, I am
-afraid I was too young.’
-
-I lay my face upon the pillow by her, and she looks into my eyes, and
-speaks very softly. Gradually, as she goes on, I feel, with a stricken
-heart, that she is speaking of herself as past.
-
-‘I am afraid, dear, I was too young. I don’t mean in years only, but
-in experience, and thoughts, and everything. I was such a silly little
-creature! I am afraid it would have been better, if we had only loved
-each other as a boy and girl, and forgotten it. I have begun to think I
-was not fit to be a wife.’
-
-I try to stay my [[Tears|tears]], and to reply, ‘Oh, Dora, [[Love|love]], as fit as I to be
-a husband!’
-
-‘I don’t know,’ with the old shake of her curls. ‘Perhaps! But if I had
-been more fit to be married I might have made you more so, too. Besides,
-you are very clever, and I never was.’
-
-‘We have been very happy, my sweet Dora.’
-
-‘I was very happy, very. But, as years went on, my dear boy would have
-wearied of his [[Child|child]]-wife. She would have been less and less a companion
-for him. He would have been more and more sensible of what was wanting
-in his [[Home|home]]. She wouldn’t have improved. It is better as it is.’
-
-‘Oh, Dora, dearest, dearest, do not speak to me so. Every word seems a
-reproach!’
-
-‘No, not a syllable!’ she answers, kissing me. ‘Oh, my dear, you never
-deserved it, and I loved you far too [[Well|well]] to say a reproachful word to
-you, in earnest--it was all the merit I had, except being pretty--or you
-thought me so. Is it lonely, down-stairs, Doady?’
-
-‘Very! Very!’
-
-‘Don’t cry! Is my chair there?’
-
-‘In its old place.’
-
-‘Oh, how my poor boy cries! Hush, hush! Now, make me one promise. I want
-to speak to Agnes. When you go downstairs, tell Agnes so, and send her
-up to me; and while I speak to her, let no one come--not even aunt.
-I want to speak to Agnes by herself. I want to speak to Agnes, quite
-[[Alone|alone]].’
-
-I promise that she shall, immediately; but I cannot leave her, for my
-grief.
-
-‘I said that it was better as it is!’ she whispers, as she holds me in
-her arms. ‘Oh, Doady, after more years, you never could have loved your
-[[Child|child]]-wife better than you do; and, after more years, she would so have
-tried and disappointed you, that you might not have been able to [[Love|love]]
-her half so [[Well|well]]! I know I was too young and foolish. It is much better
-as it is!’
-
-Agnes is downstairs, when I go into the parlour; and I give her the
-message. She disappears, leaving me [[Alone|alone]] with Jip.
-
-His Chinese [[house]] is by the [[Fire|fire]]; and he lies within it, on his bed of
-flannel, querulously trying to [[Sleep|sleep]]. The bright [[Moon|moon]] is high and clear.
-As I look out on the [[Night|night]], my [[Tears|tears]] fall fast, and my undisciplined
-heart is chastened heavily--heavily.
-
-I sit down by the [[Fire|fire]], thinking with a blind remorse of all those
-secret feelings I have nourished since my [[Marriage|marriage]]. I think of every
-little trifle between me and Dora, and feel the [[Truth|truth]], that trifles
-make the sum of life. Ever rising from the sea of my remembrance, is the
-image of the dear [[Child|child]] as I knew her first, graced by my young [[Love|love]],
-and by her own, with every fascination wherein such [[Love|love]] is rich. Would
-it, indeed, have been better if we had loved each other as a boy and a
-girl, and forgotten it? Undisciplined heart, reply!
-
-How the [[Time|time]] wears, I know not; until I am recalled by my [[Child|child]]-wife’s
-old companion. More restless than he was, he crawls out of his [[house]],
-and looks at me, and wanders to the door, and whines to go upstairs.
-
-‘Not tonight, Jip! Not tonight!’
-
-He comes very slowly back to me, licks my hand, and lifts his dim eyes
-to my face.
-
-‘Oh, Jip! It may be, never again!’
-
-He lies down at my feet, stretches himself out as if to [[Sleep|sleep]], and with
-a plaintive cry, is dead.
-
-‘Oh, Agnes! Look, look, here!’ --That face, so full of pity, and of
-grief, that rain of [[Tears|tears]], that awful mute appeal to me, that solemn
-hand upraised towards Heaven!
-
-‘Agnes?’
-
-It is over. Darkness comes before my eyes; and, for a [[Time|time]], all things
-are blotted out of my remembrance.
-
-
-
-
-<span class="atom-split" data-atom="chapter_64_a_last_retrospect" data-title="David Copperfield — Chapter 64: A LAST RETROSPECT" data-chapter="A LAST RETROSPECT" data-kind="chapter"></span>
-
-
-CHAPTER 64. A LAST RETROSPECT
-
-
-And now my written story ends. I look back, once more--for the last
-[[Time|time]]--before I close these [[Leaves|leaves]].
-
-I see myself, with Agnes at my side, journeying along the [[Road|road]] of life.
-I see our children and our friends around us; and I hear the roar of
-many voices, not indifferent to me as I travel on.
-
-What faces are the most distinct to me in the fleeting crowd? Lo, these;
-all turning to me as I ask my thoughts the question!
-
-Here is my aunt, in stronger spectacles, an old woman of four-score
-years and more, but upright yet, and a steady walker of six miles at a
-stretch in [[Winter|winter]] weather.
-
-Always with her, here comes Peggotty, my good old [[Nurse|nurse]], likewise in
-spectacles, accustomed to do needle-work at [[Night|night]] very close to the
-lamp, but never sitting down to it without a bit of wax candle, a
-yard-measure in a little [[house]], and a work-box with a picture of St.
-Paul’s upon the lid.
-
-The cheeks and arms of Peggotty, so hard and red in my childish days,
-when I wondered why the [[Birds|birds]] didn’t peck her in preference to apples,
-are shrivelled now; and her eyes, that used to darken their whole
-neighbourhood in her face, are fainter (though they glitter still);
-but her rough forefinger, which I once associated with a pocket
-nutmeg-grater, is just the same, and when I see my least [[Child|child]] catching
-at it as it totters from my aunt to her, I think of our little parlour
-at [[Home|home]], when I could scarcely walk. My aunt’s old disappointment is set
-right, now. She is godmother to a real living [[Betsey Trotwood]]; and Dora
-(the next in order) says she spoils her.
-
-There is something bulky in Peggotty’s pocket. It is nothing smaller
-than the Crocodile Book, which is in rather a dilapidated condition by
-this [[Time|time]], with divers of the [[Leaves|leaves]] torn and stitched across, but which
-Peggotty exhibits to the children as a precious relic. I find it very
-curious to see my own infant face, looking up at me from the Crocodile
-stories; and to be reminded by it of my old acquaintance Brooks of
-Sheffield.
-
-Among my boys, this [[Summer|summer]] holiday [[Time|time]], I see an old man making giant
-kites, and gazing at them in the air, with a delight for which there
-are no words. He greets me rapturously, and whispers, with many nods
-and winks, ‘Trotwood, you will be glad to hear that I shall finish the
-Memorial when I have nothing else to do, and that your aunt’s the most
-extraordinary woman in the world, sir!’
-
-Who is this bent lady, supporting herself by a stick, and showing me
-a countenance in which there are some traces of old [[Pride|pride]] and [[Beauty|beauty]],
-feebly contending with a querulous, imbecile, fretful wandering of the
-mind? She is in a [[Garden|garden]]; and near her stands a sharp, dark, withered
-woman, with a white scar on her lip. Let me hear what they say.
-
-‘Rosa, I have forgotten this gentleman’s name.’
-
-Rosa bends over her, and calls to her, ‘Mr. Copperfield.’
-
-‘I am glad to see you, sir. I am sorry to observe you are in mourning. I
-[[Hope|hope]] [[Time]] will be good to you.’
-
-Her impatient attendant scolds her, tells her I am not in mourning, bids
-her look again, tries to rouse her.
-
-‘You have seen my son, sir,’ says the elder lady. ‘Are you reconciled?’
-
-Looking fixedly at me, she puts her hand to her forehead, and moans.
-Suddenly, she cries, in a terrible voice, ‘Rosa, come to me. He is
-dead!’ Rosa kneeling at her feet, by turns caresses her, and quarrels
-with her; now fiercely telling her, ‘I loved him better than you ever
-did!’--now soothing her to [[Sleep|sleep]] on her breast, like a sick [[Child|child]]. Thus
-I leave them; thus I always find them; thus they wear their [[Time|time]] away,
-from year to year.
-
-What [[Ship|ship]] comes sailing [[Home|home]] from India, and what English lady is this,
-married to a growling old Scotch Croesus with great flaps of ears? Can
-this be [[Julia]] Mills?
-
-Indeed it is [[Julia]] Mills, peevish and fine, with a black man to carry
-cards and letters to her on a golden salver, and a copper-coloured woman
-in linen, with a bright handkerchief round her head, to serve her Tiffin
-in her dressing-room. But [[Julia]] keeps no diary in these days; never
-sings Affection’s [[Dirge]]; eternally quarrels with the old Scotch Croesus,
-who is a sort of yellow bear with a tanned hide. [[Julia]] is steeped in
-money to the throat, and talks and thinks of nothing else. I liked her
-better in the [[Desert]] of Sahara.
-
-Or perhaps this IS the [[Desert]] of Sahara! For, though [[Julia]] has a stately
-[[house]], and mighty company, and sumptuous dinners every day, I see no
-green growth near her; nothing that can ever come to fruit or flower.
-What [[Julia]] calls ‘society’, I see; among it Mr. Jack Maldon, from his
-Patent Place, sneering at the hand that gave it him, and speaking to me
-of the Doctor as ‘so charmingly antique’. But when society is the name
-for such hollow gentlemen and ladies, [[Julia]], and when its breeding is
-professed indifference to everything that can advance or can retard
-mankind, I think we must have lost ourselves in that same [[Desert]] of
-Sahara, and had better find the way out.
-
-And lo, the Doctor, always our good friend, labouring at his Dictionary
-(somewhere about the letter D), and happy in his [[Home|home]] and wife. Also
-the Old Soldier, on a considerably reduced footing, and by no means so
-influential as in days of yore!
-
-Working at his chambers in the Temple, with a busy aspect, and his hair
-(where he is not bald) made more rebellious than ever by the constant
-friction of his lawyer’s-wig, I come, in a later [[Time|time]], upon my dear old
-Traddles. His table is covered with thick piles of papers; and I say, as
-I look around me:
-
-‘If Sophy were your clerk, now, Traddles, she would have enough to do!’
-
-‘You may say that, my dear Copperfield! But those were capital days,
-too, in Holborn [[Court]]! Were they not?’
-
-‘When she told you you would be a judge? But it was not the town talk
-then!’
-
-‘At all events,’ says Traddles, ‘if I ever am one--’ ‘Why, you know you
-will be.’
-
-‘[[Well]], my dear Copperfield, WHEN I am one, I shall tell the story, as I
-said I would.’
-
-We walk away, arm in arm. I am going to have a family dinner with
-Traddles. It is Sophy’s birthday; and, on our [[Road|road]], Traddles discourses
-to me of the good fortune he has enjoyed.
-
-‘I really have been able, my dear Copperfield, to do all that I had most
-at heart. There’s the Reverend Horace promoted to that living at four
-hundred and fifty pounds a year; there are our two boys receiving the
-very best [[Education|education]], and distinguishing themselves as steady scholars
-and good fellows; there are three of the girls married very comfortably;
-there are three more living with us; there are three more keeping [[house]]
-for the Reverend Horace since Mrs. Crewler’s decease; and all of them
-happy.’
-
-‘Except--’ I suggest.
-
-‘Except the [[Beauty]],’ says Traddles. ‘Yes. It was very unfortunate that
-she should marry such a vagabond. But there was a certain dash and glare
-about him that caught her. However, now we have got her safe at our
-[[house]], and got rid of him, we must cheer her up again.’
-
-Traddles’s [[house]] is one of the very houses--or it easily may have
-been--which he and Sophy used to parcel out, in their evening walks. It
-is a large [[house]]; but Traddles keeps his papers in his dressing-room
-and his boots with his papers; and he and Sophy squeeze themselves into
-upper rooms, reserving the best bedrooms for the [[Beauty]] and the girls.
-There is no room to spare in the [[house]]; for more of ‘the girls’ are
-here, and always are here, by some accident or other, than I know how
-to count. Here, when we go in, is a crowd of them, running down to
-the door, and handing Traddles about to be kissed, until he is out of
-breath. Here, established in perpetuity, is the poor [[Beauty]], a widow
-with a little girl; here, at dinner on Sophy’s birthday, are the three
-married girls with their three husbands, and one of the husband’s
-brothers, and another husband’s cousin, and another husband’s sister,
-who appears to me to be engaged to the cousin. Traddles, exactly the
-same simple, unaffected fellow as he ever was, sits at the foot of the
-large table like a Patriarch; and Sophy beams upon him, from the head,
-across a cheerful space that is certainly not glittering with Britannia
-metal.
-
-And now, as I close my task, subduing my [[Desire|desire]] to linger yet, these
-faces fade away. But one face, shining on me like a Heavenly light by
-which I see all other objects, is above them and beyond them all. And
-that remains.
-
-I turn my head, and see it, in its beautiful serenity, beside me.
-
-My lamp burns low, and I have written far into the [[Night|night]]; but the dear
-presence, without which I were nothing, bears me company.
-
-O Agnes, O my [[Soul|soul]], so may thy face be by me when I close my life
-indeed; so may I, when realities are melting from me, like the shadows
-which I now dismiss, still find thee near me, pointing upward!
-
-
-
-
 <span class="atom-split" data-atom="chapter_01_i_am_born--part_01" data-title="David Copperfield — Chapter 1: I AM BORN (part 1)" data-chapter="I AM BORN" data-kind="excerpt"></span>
 
 
@@ -73343,6 +72917,249 @@ the bullocks, as they came by, with the eye of an Australian farmer!
 
 
 
+<span class="atom-split" data-atom="chapter_53_another_retrospect" data-title="David Copperfield — Chapter 53: ANOTHER RETROSPECT" data-chapter="ANOTHER RETROSPECT" data-kind="chapter"></span>
+
+
+CHAPTER 53. ANOTHER RETROSPECT
+
+
+I must pause yet once again. O, my [[Child|child]]-wife, there is a figure in the
+moving crowd before my [[Memory|memory]], quiet and still, saying in its [[Innocent|innocent]]
+[[Love|love]] and childish [[Beauty|beauty]], Stop to think of me--turn to look upon the
+Little Blossom, as it flutters to the ground!
+
+I do. All else grows dim, and fades away. I am again with Dora, in our
+cottage. I do not know how long she has been ill. I am so used to it in
+feeling, that I cannot count the [[Time|time]]. It is not really long, in weeks
+or months; but, in my usage and experience, it is a weary, weary while.
+
+They have left off telling me to ‘wait a few days more’. I have begun
+to [[Fear|fear]], remotely, that the day may never shine, when I shall see my
+[[Child|child]]-wife running in the sunlight with her old friend Jip.
+
+He is, as it were suddenly, grown very old. It may be that he misses in
+his mistress, something that enlivened him and made him younger; but he
+mopes, and his sight is weak, and his limbs are feeble, and my aunt is
+sorry that he objects to her no more, but creeps near her as he lies on
+Dora’s bed--she sitting at the bedside--and mildly licks her hand.
+
+Dora lies smiling on us, and is beautiful, and utters no hasty or
+complaining word. She says that we are very good to her; that her dear
+old careful boy is tiring himself out, she knows; that my aunt has no
+[[Sleep|sleep]], yet is always wakeful, active, and kind. Sometimes, the
+little bird-like ladies come to see her; and then we talk about our
+wedding-day, and all that happy [[Time|time]].
+
+What a strange rest and pause in my life there seems to be--and in all
+life, within doors and without--when I sit in the quiet, shaded, orderly
+room, with the blue eyes of my [[Child|child]]-wife turned towards me, and her
+little fingers twining round my hand! Many and many an hour I sit thus;
+but, of all those times, three times come the freshest on my mind.
+
+
+It is morning; and Dora, made so trim by my aunt’s hands, shows me how
+her pretty hair will curl upon the pillow yet, an how long and bright it
+is, and how she likes to have it loosely gathered in that net she wears.
+
+‘Not that I am vain of it, now, you mocking boy,’ she says, when I
+smile; ‘but because you used to say you thought it so beautiful; and
+because, when I first began to think about you, I used to peep in the
+glass, and [[Wonder|wonder]] whether you would like very much to have a lock of it.
+Oh what a foolish fellow you were, Doady, when I gave you one!’
+
+‘That was on the day when you were painting the [[Flowers|flowers]] I had given you,
+Dora, and when I told you how much in [[Love|love]] I was.’
+
+‘Ah! but I didn’t like to tell you,’ says Dora, ‘then, how I had cried
+over them, because I believed you really liked me! When I can run about
+again as I used to do, Doady, let us go and see those places where we
+were such a silly couple, shall we? And take some of the old walks? And
+not forget poor papa?’
+
+‘Yes, we will, and have some happy days. So you must make haste to get
+[[Well|well]], my dear.’
+
+‘Oh, I shall soon do that! I am so much better, you don’t know!’
+
+
+It is evening; and I sit in the same chair, by the same bed, with the
+same face turned towards me. We have been silent, and there is a smile
+upon her face. I have ceased to carry my light burden up and down stairs
+now. She lies here all the day.
+
+‘Doady!’
+
+‘My dear Dora!’
+
+‘You won’t think what I am going to say, unreasonable, after what you
+told me, such a little while ago, of Mr. Wickfield’s not being [[Well|well]]? I
+want to see Agnes. Very much I want to see her.’
+
+‘I will write to her, my dear.’
+
+‘Will you?’
+
+‘Directly.’
+
+‘What a good, kind boy! Doady, take me on your arm. Indeed, my dear,
+it’s not a whim. It’s not a foolish fancy. I want, very much indeed, to
+see her!’
+
+‘I am certain of it. I have only to tell her so, and she is sure to
+come.’
+
+‘You are very lonely when you go downstairs, now?’ Dora whispers, with
+her arm about my neck.
+
+‘How can I be otherwise, my own [[Love|love]], when I see your empty chair?’
+
+‘My empty chair!’ She clings to me for a little while, in [[Silence|silence]]. ‘And
+you really miss me, Doady?’ looking up, and brightly smiling. ‘Even
+poor, giddy, stupid me?’
+
+‘My heart, who is there upon earth that I could miss so much?’
+
+‘Oh, husband! I am so glad, yet so sorry!’ creeping closer to me, and
+folding me in both her arms. She laughs and sobs, and then is quiet, and
+quite happy.
+
+‘Quite!’ she says. ‘Only give Agnes my dear [[Love|love]], and tell her that I
+want very, very, much to see her; and I have nothing left to wish for.’
+
+‘Except to get [[Well|well]] again, Dora.’
+
+‘Ah, Doady! Sometimes I think--you know I always was a silly little
+thing!--that that will never be!’
+
+‘Don’t say so, Dora! Dearest [[Love|love]], don’t think so!’
+
+‘I won’t, if I can help it, Doady. But I am very happy; though my dear
+boy is so lonely by himself, before his [[Child|child]]-wife’s empty chair!’
+
+
+It is [[Night|night]]; and I am with her still. Agnes has arrived; has been among
+us for a whole day and an evening. She, my aunt, and I, have sat with
+Dora since the morning, all together. We have not talked much, but Dora
+has been perfectly contented and cheerful. We are now [[Alone|alone]].
+
+Do I know, now, that my [[Child|child]]-wife will soon leave me? They have told me
+so; they have told me nothing new to my thoughts--but I am far from
+sure that I have taken that [[Truth|truth]] to heart. I cannot master it. I have
+withdrawn by myself, many times today, to weep. I have remembered Who
+wept for a parting between the living and the dead. I have bethought me
+of all that gracious and compassionate [[history]]. I have tried to resign
+myself, and to console myself; and that, I [[Hope|hope]], I may have done
+imperfectly; but what I cannot firmly settle in my mind is, that the end
+will absolutely come. I hold her hand in mine, I hold her heart in mine,
+I see her [[Love|love]] for me, alive in all its strength. I cannot shut out a
+pale lingering [[Shadow|shadow]] of belief that she will be spared.
+
+‘I am going to speak to you, Doady. I am going to say something I have
+often thought of saying, lately. You won’t mind?’ with a gentle look.
+
+‘Mind, my darling?’
+
+‘Because I don’t know what you will think, or what you may have thought
+sometimes. Perhaps you have often thought the same. Doady, dear, I am
+afraid I was too young.’
+
+I lay my face upon the pillow by her, and she looks into my eyes, and
+speaks very softly. Gradually, as she goes on, I feel, with a stricken
+heart, that she is speaking of herself as past.
+
+‘I am afraid, dear, I was too young. I don’t mean in years only, but
+in experience, and thoughts, and everything. I was such a silly little
+creature! I am afraid it would have been better, if we had only loved
+each other as a boy and girl, and forgotten it. I have begun to think I
+was not fit to be a wife.’
+
+I try to stay my [[Tears|tears]], and to reply, ‘Oh, Dora, [[Love|love]], as fit as I to be
+a husband!’
+
+‘I don’t know,’ with the old shake of her curls. ‘Perhaps! But if I had
+been more fit to be married I might have made you more so, too. Besides,
+you are very clever, and I never was.’
+
+‘We have been very happy, my sweet Dora.’
+
+‘I was very happy, very. But, as years went on, my dear boy would have
+wearied of his [[Child|child]]-wife. She would have been less and less a companion
+for him. He would have been more and more sensible of what was wanting
+in his [[Home|home]]. She wouldn’t have improved. It is better as it is.’
+
+‘Oh, Dora, dearest, dearest, do not speak to me so. Every word seems a
+reproach!’
+
+‘No, not a syllable!’ she answers, kissing me. ‘Oh, my dear, you never
+deserved it, and I loved you far too [[Well|well]] to say a reproachful word to
+you, in earnest--it was all the merit I had, except being pretty--or you
+thought me so. Is it lonely, down-stairs, Doady?’
+
+‘Very! Very!’
+
+‘Don’t cry! Is my chair there?’
+
+‘In its old place.’
+
+‘Oh, how my poor boy cries! Hush, hush! Now, make me one promise. I want
+to speak to Agnes. When you go downstairs, tell Agnes so, and send her
+up to me; and while I speak to her, let no one come--not even aunt.
+I want to speak to Agnes by herself. I want to speak to Agnes, quite
+[[Alone|alone]].’
+
+I promise that she shall, immediately; but I cannot leave her, for my
+grief.
+
+‘I said that it was better as it is!’ she whispers, as she holds me in
+her arms. ‘Oh, Doady, after more years, you never could have loved your
+[[Child|child]]-wife better than you do; and, after more years, she would so have
+tried and disappointed you, that you might not have been able to [[Love|love]]
+her half so [[Well|well]]! I know I was too young and foolish. It is much better
+as it is!’
+
+Agnes is downstairs, when I go into the parlour; and I give her the
+message. She disappears, leaving me [[Alone|alone]] with Jip.
+
+His Chinese [[house]] is by the [[Fire|fire]]; and he lies within it, on his bed of
+flannel, querulously trying to [[Sleep|sleep]]. The bright [[Moon|moon]] is high and clear.
+As I look out on the [[Night|night]], my [[Tears|tears]] fall fast, and my undisciplined
+heart is chastened heavily--heavily.
+
+I sit down by the [[Fire|fire]], thinking with a blind remorse of all those
+secret feelings I have nourished since my [[Marriage|marriage]]. I think of every
+little trifle between me and Dora, and feel the [[Truth|truth]], that trifles
+make the sum of life. Ever rising from the sea of my remembrance, is the
+image of the dear [[Child|child]] as I knew her first, graced by my young [[Love|love]],
+and by her own, with every fascination wherein such [[Love|love]] is rich. Would
+it, indeed, have been better if we had loved each other as a boy and a
+girl, and forgotten it? Undisciplined heart, reply!
+
+How the [[Time|time]] wears, I know not; until I am recalled by my [[Child|child]]-wife’s
+old companion. More restless than he was, he crawls out of his [[house]],
+and looks at me, and wanders to the door, and whines to go upstairs.
+
+‘Not tonight, Jip! Not tonight!’
+
+He comes very slowly back to me, licks my hand, and lifts his dim eyes
+to my face.
+
+‘Oh, Jip! It may be, never again!’
+
+He lies down at my feet, stretches himself out as if to [[Sleep|sleep]], and with
+a plaintive cry, is dead.
+
+‘Oh, Agnes! Look, look, here!’ --That face, so full of pity, and of
+grief, that rain of [[Tears|tears]], that awful mute appeal to me, that solemn
+hand upraised towards Heaven!
+
+‘Agnes?’
+
+It is over. Darkness comes before my eyes; and, for a [[Time|time]], all things
+are blotted out of my remembrance.
+
+
+
+
 <span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_01" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 1)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt"></span>
 
 
@@ -78128,3 +77945,186 @@ gather a tuft of grass from the [[Grave|grave]] and a little earth.
 
 ‘For Em’ly,’ he said, as he put it in his breast. ‘I promised, Mas’r
 Davy.’
+
+
+
+
+<span class="atom-split" data-atom="chapter_64_a_last_retrospect" data-title="David Copperfield — Chapter 64: A LAST RETROSPECT" data-chapter="A LAST RETROSPECT" data-kind="chapter"></span>
+
+
+CHAPTER 64. A LAST RETROSPECT
+
+
+And now my written story ends. I look back, once more--for the last
+[[Time|time]]--before I close these [[Leaves|leaves]].
+
+I see myself, with Agnes at my side, journeying along the [[Road|road]] of life.
+I see our children and our friends around us; and I hear the roar of
+many voices, not indifferent to me as I travel on.
+
+What faces are the most distinct to me in the fleeting crowd? Lo, these;
+all turning to me as I ask my thoughts the question!
+
+Here is my aunt, in stronger spectacles, an old woman of four-score
+years and more, but upright yet, and a steady walker of six miles at a
+stretch in [[Winter|winter]] weather.
+
+Always with her, here comes Peggotty, my good old [[Nurse|nurse]], likewise in
+spectacles, accustomed to do needle-work at [[Night|night]] very close to the
+lamp, but never sitting down to it without a bit of wax candle, a
+yard-measure in a little [[house]], and a work-box with a picture of St.
+Paul’s upon the lid.
+
+The cheeks and arms of Peggotty, so hard and red in my childish days,
+when I wondered why the [[Birds|birds]] didn’t peck her in preference to apples,
+are shrivelled now; and her eyes, that used to darken their whole
+neighbourhood in her face, are fainter (though they glitter still);
+but her rough forefinger, which I once associated with a pocket
+nutmeg-grater, is just the same, and when I see my least [[Child|child]] catching
+at it as it totters from my aunt to her, I think of our little parlour
+at [[Home|home]], when I could scarcely walk. My aunt’s old disappointment is set
+right, now. She is godmother to a real living [[Betsey Trotwood]]; and Dora
+(the next in order) says she spoils her.
+
+There is something bulky in Peggotty’s pocket. It is nothing smaller
+than the Crocodile Book, which is in rather a dilapidated condition by
+this [[Time|time]], with divers of the [[Leaves|leaves]] torn and stitched across, but which
+Peggotty exhibits to the children as a precious relic. I find it very
+curious to see my own infant face, looking up at me from the Crocodile
+stories; and to be reminded by it of my old acquaintance Brooks of
+Sheffield.
+
+Among my boys, this [[Summer|summer]] holiday [[Time|time]], I see an old man making giant
+kites, and gazing at them in the air, with a delight for which there
+are no words. He greets me rapturously, and whispers, with many nods
+and winks, ‘Trotwood, you will be glad to hear that I shall finish the
+Memorial when I have nothing else to do, and that your aunt’s the most
+extraordinary woman in the world, sir!’
+
+Who is this bent lady, supporting herself by a stick, and showing me
+a countenance in which there are some traces of old [[Pride|pride]] and [[Beauty|beauty]],
+feebly contending with a querulous, imbecile, fretful wandering of the
+mind? She is in a [[Garden|garden]]; and near her stands a sharp, dark, withered
+woman, with a white scar on her lip. Let me hear what they say.
+
+‘Rosa, I have forgotten this gentleman’s name.’
+
+Rosa bends over her, and calls to her, ‘Mr. Copperfield.’
+
+‘I am glad to see you, sir. I am sorry to observe you are in mourning. I
+[[Hope|hope]] [[Time]] will be good to you.’
+
+Her impatient attendant scolds her, tells her I am not in mourning, bids
+her look again, tries to rouse her.
+
+‘You have seen my son, sir,’ says the elder lady. ‘Are you reconciled?’
+
+Looking fixedly at me, she puts her hand to her forehead, and moans.
+Suddenly, she cries, in a terrible voice, ‘Rosa, come to me. He is
+dead!’ Rosa kneeling at her feet, by turns caresses her, and quarrels
+with her; now fiercely telling her, ‘I loved him better than you ever
+did!’--now soothing her to [[Sleep|sleep]] on her breast, like a sick [[Child|child]]. Thus
+I leave them; thus I always find them; thus they wear their [[Time|time]] away,
+from year to year.
+
+What [[Ship|ship]] comes sailing [[Home|home]] from India, and what English lady is this,
+married to a growling old Scotch Croesus with great flaps of ears? Can
+this be [[Julia]] Mills?
+
+Indeed it is [[Julia]] Mills, peevish and fine, with a black man to carry
+cards and letters to her on a golden salver, and a copper-coloured woman
+in linen, with a bright handkerchief round her head, to serve her Tiffin
+in her dressing-room. But [[Julia]] keeps no diary in these days; never
+sings Affection’s [[Dirge]]; eternally quarrels with the old Scotch Croesus,
+who is a sort of yellow bear with a tanned hide. [[Julia]] is steeped in
+money to the throat, and talks and thinks of nothing else. I liked her
+better in the [[Desert]] of Sahara.
+
+Or perhaps this IS the [[Desert]] of Sahara! For, though [[Julia]] has a stately
+[[house]], and mighty company, and sumptuous dinners every day, I see no
+green growth near her; nothing that can ever come to fruit or flower.
+What [[Julia]] calls ‘society’, I see; among it Mr. Jack Maldon, from his
+Patent Place, sneering at the hand that gave it him, and speaking to me
+of the Doctor as ‘so charmingly antique’. But when society is the name
+for such hollow gentlemen and ladies, [[Julia]], and when its breeding is
+professed indifference to everything that can advance or can retard
+mankind, I think we must have lost ourselves in that same [[Desert]] of
+Sahara, and had better find the way out.
+
+And lo, the Doctor, always our good friend, labouring at his Dictionary
+(somewhere about the letter D), and happy in his [[Home|home]] and wife. Also
+the Old Soldier, on a considerably reduced footing, and by no means so
+influential as in days of yore!
+
+Working at his chambers in the Temple, with a busy aspect, and his hair
+(where he is not bald) made more rebellious than ever by the constant
+friction of his lawyer’s-wig, I come, in a later [[Time|time]], upon my dear old
+Traddles. His table is covered with thick piles of papers; and I say, as
+I look around me:
+
+‘If Sophy were your clerk, now, Traddles, she would have enough to do!’
+
+‘You may say that, my dear Copperfield! But those were capital days,
+too, in Holborn [[Court]]! Were they not?’
+
+‘When she told you you would be a judge? But it was not the town talk
+then!’
+
+‘At all events,’ says Traddles, ‘if I ever am one--’ ‘Why, you know you
+will be.’
+
+‘[[Well]], my dear Copperfield, WHEN I am one, I shall tell the story, as I
+said I would.’
+
+We walk away, arm in arm. I am going to have a family dinner with
+Traddles. It is Sophy’s birthday; and, on our [[Road|road]], Traddles discourses
+to me of the good fortune he has enjoyed.
+
+‘I really have been able, my dear Copperfield, to do all that I had most
+at heart. There’s the Reverend Horace promoted to that living at four
+hundred and fifty pounds a year; there are our two boys receiving the
+very best [[Education|education]], and distinguishing themselves as steady scholars
+and good fellows; there are three of the girls married very comfortably;
+there are three more living with us; there are three more keeping [[house]]
+for the Reverend Horace since Mrs. Crewler’s decease; and all of them
+happy.’
+
+‘Except--’ I suggest.
+
+‘Except the [[Beauty]],’ says Traddles. ‘Yes. It was very unfortunate that
+she should marry such a vagabond. But there was a certain dash and glare
+about him that caught her. However, now we have got her safe at our
+[[house]], and got rid of him, we must cheer her up again.’
+
+Traddles’s [[house]] is one of the very houses--or it easily may have
+been--which he and Sophy used to parcel out, in their evening walks. It
+is a large [[house]]; but Traddles keeps his papers in his dressing-room
+and his boots with his papers; and he and Sophy squeeze themselves into
+upper rooms, reserving the best bedrooms for the [[Beauty]] and the girls.
+There is no room to spare in the [[house]]; for more of ‘the girls’ are
+here, and always are here, by some accident or other, than I know how
+to count. Here, when we go in, is a crowd of them, running down to
+the door, and handing Traddles about to be kissed, until he is out of
+breath. Here, established in perpetuity, is the poor [[Beauty]], a widow
+with a little girl; here, at dinner on Sophy’s birthday, are the three
+married girls with their three husbands, and one of the husband’s
+brothers, and another husband’s cousin, and another husband’s sister,
+who appears to me to be engaged to the cousin. Traddles, exactly the
+same simple, unaffected fellow as he ever was, sits at the foot of the
+large table like a Patriarch; and Sophy beams upon him, from the head,
+across a cheerful space that is certainly not glittering with Britannia
+metal.
+
+And now, as I close my task, subduing my [[Desire|desire]] to linger yet, these
+faces fade away. But one face, shining on me like a Heavenly light by
+which I see all other objects, is above them and beyond them all. And
+that remains.
+
+I turn my head, and see it, in its beautiful serenity, beside me.
+
+My lamp burns low, and I have written far into the [[Night|night]]; but the dear
+presence, without which I were nothing, bears me company.
+
+O Agnes, O my [[Soul|soul]], so may thy face be by me when I close my life
+indeed; so may I, when realities are melting from me, like the shadows
+which I now dismiss, still find thee near me, pointing upward!

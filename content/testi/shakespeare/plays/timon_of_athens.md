@@ -1,5 +1,5 @@
 ---
-title: "Timon of Athens — Act V, Scene 5 — exchange (THE PERSONS OF THE PLAY) [4]"
+title: "TIMON OF ATHENS"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/timon-of-athens-(shakespeare)"
@@ -9,6 +9,855 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/timon_of_athens" data-author="Shakespeare" data-workhref="works/timon-of-athens-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Timon of Athens — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Poet at one door, Painter carrying a picture [at another door], [followed by] Jeweller, Merchant, and Mercer, at several doors |
+| POET | Good day, sir. |
+| PAINTER | I am glad you’re [[Well|well]]. |
+| POET | I have not seen you long. How goes the world? |
+| PAINTER | It wears, sir, as it grows. |
+| POET | Ay, that’s [[Well|well]] known. But what particular rarity, what strange, Which manifold record not matches?—See, [[Magic]] of bounty, all these spirits thy power Hath conjured to attend. Merchant and Jeweller meet. Mercer passes over |
+| *(didascalia)* | the stage, and exits I know the merchant. |
+| PAINTER | I know them both. Th’other’s a jeweller. |
+| MERCHANT | (to Jeweller) O, ’tis a worthy lord! |
+| JEWELLER | Nay, that’s most fixed. |
+| MERCHANT | A most incomparable man, breathed, as it were, To an untirable and continuate goodness. He passes. |
+| JEWELLER | (showing a [[Jewel|jewel]]) I have a [[Jewel|jewel]] here. |
+| MERCHANT | O, pray, let’s see’t. For the Lord [[Timon]], sir? |
+| JEWELLER | If he will touch the estimate. But for that— |
+| POET | (to himself) ‘When we for recompense have praised the vile, It stains the glory in that happy verse Which aptly sings the good.’ |
+| MERCHANT | (to Jeweller) ’Tis a good form. |
+| JEWELLER | And rich. Here is a [[Water|water]], look ye. |
+| PAINTER | (to Poet) You are rapt, sir, in some work, some dedication To the great lord. |
+| POET | A thing slipped idly from me. Our poesy is as a gum which oozes From whence ‘tis nourished. The [[Fire|fire]] i’th’ flint Shows not till it be struck; our gentle flame Provokes itself, and like the current flies Each bound it chafes. What have you there? |
+| PAINTER | A picture, sir. When comes your book forth? |
+| POET | Upon the heels of my presentment, sir. Let’s see your piece. |
+| PAINTER | (showing the picture) ’Tis a good piece. |
+| POET | So ’tis. This comes off [[Well|well]] and excellent. |
+| PAINTER | Indifferent. |
+| POET | Admirable. How this grace Speaks his own standing! What a mental power This eye shoots forth! How big [[Imagination|imagination]] Moves in this lip! To th’ dumbness of the gesture One might interpret. |
+| PAINTER | It is a pretty mocking of the life. Here is a touch; is’t good? |
+| POET | I will say of it, It tutors [[Nature|nature]]. Artificial strife Lives in these touches livelier than life. Enter certain Senators |
+| PAINTER | How this lord is followed! |
+| POET | The senators of Athens. Happy man! |
+| PAINTER | Look, more. The Senators pass over the stage, and exeunt] |
+| POET | You see this confluence, this great flood of visitors. I have in this rough work shaped out a man Whom this beneath world doth embrace and hug With amplest entertainment. My free drift Halts not particularly, but moves itself In a wide sea of tax. No levelled malice Infects one comma in the course I hold, But flies an eagle flight, bold and forth on, Leaving no tract behind. |
+| PAINTER | How shall I understand you? |
+| POET | I will unbolt to you. You see how all conditions, how all minds, As [[Well|well]] of glib and slipp’ry creatures as Of [[Grave|grave]] and austere quality, tender down Their service to Lord [[Timon]]. His large fortune, Upon his good and gracious [[Nature|nature]] hanging, Subdues and properties to his [[Love|love]] and tendance All sorts of hearts; yea, from the glass-faced flatterer To [[Apemantus]], that few things loves better Than to abhor himself; even he drops down The knee before him, and returns in peace, Most rich in [[Timon]]’s nod. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--02_exchange_painter_i" data-title="Timon of Athens — Act I, Scene 1 — exchange (PAINTER I) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PAINTER | I saw them speak together. |
+| POET | Sir, I have upon a high and pleasant [[Hill|hill]] Feigned Fortune to be throned. The base o’th’ mount Is ranked with all deserts, all kind of natures That labour on the bosom of this sphere To propagate their states. Amongst them all Whose eyes are on this sovereign lady fixed One do I personate of Lord [[Timon]]’s frame, Whom Fortune with her ivory hand wafts to her, Whose present grace to present slaves and servants Translates his rivals. |
+| PAINTER | ’Tis conceived to scope. This throne, this Fortune, and this [[Hill|hill]], methinks, With one man beckoned from the rest below, Bowing his head against the steepy mount To climb his happiness, would be [[Well|well]] expressed In our condition. |
+| POET | Nay, sir, but hear me on. All those which were his fellows but of late, Some better than his value, on the moment Follow his strides, his lobbies fill with tendance, Rain sacrificial whisperings in his ear, Make sacred even his stirrup, and through him Drink the free air. |
+| PAINTER | Ay, marry, what of these? |
+| POET | When Fortune in her shift and change of mood Spurns down her late beloved, all his dependants, Which laboured after him to the mountain’s top Even on their knees and hands, let him fall down, Not one accompanying his declining foot. |
+| PAINTER | ’Tis common. A thousand moral paintings I can show That shall demonstrate these quick blows of Fortune’s More pregnantly than words. Yet you do [[Well|well]] To show Lord [[Timon]] that mean eyes have seen The foot above the head. Trumpets sound. Enter [[Timon]] [wearing a rich |
+| PAINTER | jewell, with a Messenger from Ventidius; Lucilius |
+| *(didascalia)* | and other Servants] attending. [[Timon]] addresses |
+| PAINTER | himself courteously to every suitor, then speaks to |
+| PAINTER | the Messenger |
+| [[Timon|TIMON]] | Imprisoned is he, say you? |
+| MESSENGER | Ay, my good lord. Five talents is his debt, His means most short, his creditors most strait. Your honourable letter he desires To those have shut him up, which failing, Periods his comfort. |
+| [[Timon|TIMON]] | Noble Ventidius! [[Well]], I am not of that feather to shake off My friend when he must need me. I do know him A gentleman that [[Well|well]] deserves a help, Which he shall have. I’ll pay the debt and free him. |
+| MESSENGER | Your lordship ever binds him. |
+| [[Timon|TIMON]] | Commend me to him. I will send his ransom; And, being enfranchised, bid him come to me. ’Tis not enough to help the feeble up, But to support him after. Fare you [[Well|well]]. |
+| MESSENGER | All happiness to your [[Honour|honour]]. Exit Enter an Old Athenian |
+| OLD ATHENIAN | Lord [[Timon]], hear me speak. |
+| [[Timon|TIMON]] | Freely, good father. |
+| OLD ATHENIAN | Thou hast a servant named Lucilius. |
+| [[Timon|TIMON]] | I have so. What of him? |
+| OLD ATHENIAN | Most noble [[Timon]], call the man before thee. |
+| [[Timon|TIMON]] | Attends he here or no? Lucilius! |
+| LUCILIUS | (coming forward) Here at your lordship’s service. |
+| OLD ATHENIAN | This fellow here, Lord [[Timon]], this thy creature, By [[Night|night]] frequents my [[house]]. I am a man That from my first have been inclined to thrift, And my estate deserves an heir more raised Than one which holds a trencher. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--03_exchange_timon" data-title="Timon of Athens — Act I, Scene 1 — exchange (TIMON) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Timon|TIMON]] | [[Well]], what further? |
+| OLD ATHENIAN | One only daughter have I, no kin else On whom I may confer what I have got. The maid is fair, o’th’ youngest for a bride, And I have bred her at my dearest cost In qualities of the best. This man of thine Attempts her [[Love|love]]. I prithee, noble lord, Join with me to forbid him her resort. Myself have spoke in vain. |
+| [[Timon|TIMON]] | The man is honest. |
+| OLD ATHENIAN | Therefore he will be, [[Timon]]. His honesty rewards him in itself; It must not bear my daughter. |
+| [[Timon|TIMON]] | Does she [[Love|love]] him? |
+| OLD ATHENIAN | She is young and apt. Our own precedent passions do instruct us What levity’s in youth. |
+| [[Timon|TIMON]] | (to Lucilius) [[Love]] you the maid? |
+| LUCILIUS | Ay, my good lord, and she accepts of it. |
+| OLD ATHENIAN | If in her [[Marriage|marriage]] my consent be missing, I call the gods to witness, I will choose Mine heir from forth the beggars of the world, And dispossess her all. |
+| [[Timon|TIMON]] | How shall she be endowed If she be mated with an equal husband? |
+| OLD ATHENIAN | Three talents on the present; in future, all. |
+| [[Timon|TIMON]] | This gentleman of mine hath served me long. To build his fortune I will strain a little, For ’tis a bond in men. Give him thy daughter. What you bestow in him I’ll counterpoise, And make him weigh with her. |
+| OLD ATHENIAN | Most noble lord, Pawn me to this your [[Honour|honour]], she is his. |
+| [[Timon|TIMON]] | My hand to thee; mine [[Honour|honour]] on my promise. |
+| LUCILIUS | Humbly I thank your lordship. Never may That state or fortune fall into my keeping Which is not owed to you. Exeunt Lucilius and Old Athenian |
+| POET | (presenting a poem to [[Timon]]) Vouchsafe my labour, and long live your lordship! |
+| [[Timon|TIMON]] | I thank you. You shall hear from me anon. Go not away. (To Painter) What have you there, my friend? |
+| PAINTER | A piece of painting, which I do beseech Your lordship to accept. |
+| [[Timon|TIMON]] | Painting is welcome. The painting is almost the natural man; For since dishonour traffics with man’s [[Nature|nature]], He is but outside; these pencilled figures are Even such as they give out. I like your work, And you shall find I like it. Wait attendance Till you hear further from me. |
+| PAINTER | The gods preserve ye! |
+| [[Timon|TIMON]] | [[Well]] fare you, gentleman. Give me your hand. We must needs dine together. (To Jeweller) Sir, your [[Jewel|jewel]] Hath suffered under praise. |
+| JEWELLER | What, my lord, dispraise? |
+| [[Timon|TIMON]] | A mere satiety of commendations. If I should pay you for’t as ’tis extolled It would unclew me quite. |
+| JEWELLER | My lord, ’tis rated As those which sell would give; but you [[Well|well]] know Things of like value differing in the owners Are prized by their masters. Believe’t, dear lord, You mend the [[Jewel|jewel]] by the wearing it. |
+| [[Timon|TIMON]] | [[Well]] mocked. |
+| MERCHANT | No, my good lord, he speaks the common tongue Which all men speak with him. Enter [[Apemantus]] |
+| [[Timon|TIMON]] | Look who comes here. Will you be chid? |
+| JEWELLER | We will bear, with your lordship. |
+| MERCHANT | He’ll spare none. |
+| [[Timon|TIMON]] | Good morrow to thee, gentle [[Apemantus]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--04_exchange_apemantus" data-title="Timon of Athens — Act I, Scene 1 — exchange (APEMANTUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Apemantus|APEMANTUS]] | Till I be gentle, stay thou for thy good morrow— When thou art [[Timon]]’s dog, and these knaves honest. |
+| [[Timon|TIMON]] | Why dost thou call them knaves? Thou know’st them not. |
+| [[Apemantus|APEMANTUS]] | Are they not Athenians? |
+| [[Timon|TIMON]] | Yes. |
+| [[Apemantus|APEMANTUS]] | Then I repent not. |
+| JEWELLER | You know me, [[Apemantus]]? |
+| [[Apemantus|APEMANTUS]] | Thou know’st I do. I called thee by thy name. |
+| [[Timon|TIMON]] | Thou art proud, [[Apemantus]]! |
+| [[Apemantus|APEMANTUS]] | Of nothing so much as that I am not like [[Timon]]. |
+| [[Timon|TIMON]] | Whither art going? |
+| [[Apemantus|APEMANTUS]] | To knock out an honest Athenian’s brains. |
+| [[Timon|TIMON]] | That’s a deed thou’It die for. |
+| [[Apemantus|APEMANTUS]] | Right, if doing nothing be [[Death|death]] by th’ law. |
+| [[Timon|TIMON]] | How likest thou this picture, [[Apemantus]]? |
+| [[Apemantus|APEMANTUS]] | The best for the [[innocence]]. |
+| [[Timon|TIMON]] | Wrought he not [[Well|well]] that painted it? |
+| [[Apemantus|APEMANTUS]] | He wrought better that made the painter, and yet he’s but a filthy piece of work. |
+| PAINTER | You’re a dog. |
+| [[Apemantus|APEMANTUS]] | Thy mother’s of my generation. What’s she, if I be a dog? |
+| [[Timon|TIMON]] | Wilt dine with me, [[Apemantus]]? |
+| [[Apemantus|APEMANTUS]] | No, I eat not lords. |
+| [[Timon|TIMON]] | An thou shouldst, thou’dst anger ladies. |
+| [[Apemantus|APEMANTUS]] | O, they eat lords. So they come by great bellies. |
+| [[Timon|TIMON]] | That’s a lascivious apprehension. |
+| [[Apemantus|APEMANTUS]] | So thou apprehend’st it; take it for thy labour. |
+| [[Timon|TIMON]] | How dost thou like this [[Jewel|jewel]], [[Apemantus]]? |
+| [[Apemantus|APEMANTUS]] | Not so [[Well|well]] as plain dealing, which will not cost a man a doit. |
+| [[Timon|TIMON]] | What dost thou think ’tis worth? |
+| [[Apemantus|APEMANTUS]] | Not worth my thinking. How now, poet? |
+| POET | How now, philosopher? |
+| [[Apemantus|APEMANTUS]] | Thou liest. |
+| POET | Art not one? |
+| [[Apemantus|APEMANTUS]] | Yes. |
+| POET | Then I lie not. |
+| [[Apemantus|APEMANTUS]] | Art not a poet? |
+| POET | Yes. |
+| [[Apemantus|APEMANTUS]] | Then thou liest. Look in thy last work, where thou hast feigned him a worthy fellow. |
+| POET | That’s not feigned, he is so. |
+| [[Apemantus|APEMANTUS]] | Yes, he is worthy of thee, and to pay thee for thy labour. He that loves to be flattered is worthy o’th’ flatterer. Heavens, that I were a lord! |
+| [[Timon|TIMON]] | What wouldst do then, [[Apemantus]]? |
+| [[Apemantus|APEMANTUS]] | E’en as [[Apemantus]] does now: hate a lord with my heart. |
+| [[Timon|TIMON]] | What, thyself? |
+| [[Apemantus|APEMANTUS]] | Ay. |
+| [[Timon|TIMON]] | Wherefore? |
+| [[Apemantus|APEMANTUS]] | That I had no augury but to be a lord.-Art not thou a merchant? |
+| MERCHANT | Ay, [[Apemantus]]. |
+| [[Apemantus|APEMANTUS]] | Traffic confound thee, if the gods will not! |
+| MERCHANT | If traffic do it, the gods do it. |
+| [[Apemantus|APEMANTUS]] | Traffic’s thy god, and thy god confound thee! Trumpet sounds. Enter a Messenger |
+| [[Timon|TIMON]] | What trumpet’s that? |
+| MESSENGER | ’Tis [[Alcibiades]], and some twenty [[Horse|horse]] All of companionship. |
+| [[Timon|TIMON]] | (to Servants) Pray entertain them. Give them guide to us. [Exit one or more Servants] [To Jeweller] You must needs dine with me. [To Poet] Go not you hence Till I have thanked you. [To Painter] When dinner’s done Show me this piece. [To all] I am joyful of your sights. Enter [[Alcibiades]] with [his horsemen] Most welcome, sir! |
+| [[Apemantus|APEMANTUS]] | [aside] So, so, there. Aches contract and starve your supple joints! That there should be small [[Love|love]] ’mongst these sweet knaves, And all this courtesy! The strain of man’s bred out Into baboon and monkey. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--05_exchange_alcibiades" data-title="Timon of Athens — Act I, Scene 1 — exchange (ALCIBIADES) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Alcibiades|ALCIBIADES]] | (to [[Timon]]) Sir, you have saved my [[Longing|longing]], and I feed Most hungrily on your sight. |
+| [[Timon|TIMON]] | Right welcome, sir! Ere we depart, we’ll share a bounteous [[Time|time]] In different pleasures. Pray you, let us in. Exeunt all but [[Apemantus]] Enter two Lords |
+| FIRST LORD | What [[Time|time]] o’ day is’t, [[Apemantus]]? |
+| [[Apemantus|APEMANTUS]] | [[Time]] to be honest. |
+| FIRST LORD | That [[Time|time]] serves still. |
+| [[Apemantus|APEMANTUS]] | The most accursed thou, that still omitt’st it. |
+| SECOND LORD | Thou art going to Lord [[Timon]]’s feast? |
+| [[Apemantus|APEMANTUS]] | Ay, to see meat fill knaves, and wine heat fools. |
+| SECOND LORD | Fare thee [[Well|well]], fare thee [[Well|well]]. |
+| [[Apemantus|APEMANTUS]] | Thou art a [[Fool|fool]] to bid me farewell twice. |
+| SECOND LORD | Why, [[Apemantus]]? |
+| [[Apemantus|APEMANTUS]] | Shouldst have kept one to thyself, for I mean to give thee none. |
+| FIRST LORD | Hang thyself |
+| [[Apemantus|APEMANTUS]] | No, I will do nothing at thy bidding. Make thy requests to thy friend. |
+| SECOND LORD | Away, unpeaceable dog, or I’ll spurn thee hence. |
+| [[Apemantus|APEMANTUS]] | I will fly, like a dog, the heels o’th’ ass. Exit |
+| FIRST LORD | He’s opposite to humanity. Come, shall we in, And taste Lord [[Timon]]’s bounty? He outgoes The very heart of kindness. |
+| SECOND LORD | He pours it out. Plutus the god of gold Is but his steward; no meed but he repays Sevenfold above itself; no gift to him But breeds the giver a return exceeding All use of quittance. |
+| FIRST LORD | The noblest mind he carries That ever governed man. |
+| SECOND LORD | Long may he live in fortunes! Shall we in? FIRST LORD I’ll keep you company. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="Timon of Athens — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Hautboys playing loud music. A great banquet served in, [[Flavius]] and Servants attending; and then enter [[Timon]], [[Alcibiades]], the Senators, the Athenian Lords, and Ventidius which [[Timon]] redeemed from [[Prison|prison]]. Then comes, dropping after all, [[Apemantus]], discontentedly, like himself |
+| VENTIDIUS | Most honoured [[Timon]], it hath pleased the gods to remember My father’s age and call him to long peace. He is gone happy, and has left me rich. Then, as in grateful virtue I am bound To your free heart, I do return those talents, Doubled with thanks and service, from whose help I derived liberty. |
+| [[Timon|TIMON]] | O, by no means, Honest Ventidius. You mistake my [[Love|love]]. I gave it freely ever, and there’s none Can truly say he gives if he receives. If our betters play at that game, we must not dare To imitate them. Faults that are rich are fair. |
+| VENTIDIUS | A noble spirit! The Lords stand with ceremony |
+| [[Timon|TIMON]] | Nay, my lords, Ceremony was but devised at first To set a gloss on faint deeds, hollow welcomes, Recanting goodness, sorry ere ’tis shown; But where there is true [[Friendship|friendship]], there needs none. Pray sit. More welcome are ye to my fortunes Than my fortunes to me. They sit |
+| FIRST LORD | My lord, we always have confessed it. |
+| [[Apemantus|APEMANTUS]] | Ho, ho, confessed it? Hanged it, have you not? |
+| [[Timon|TIMON]] | O, [[Apemantus]]! You are welcome. |
+| [[Apemantus|APEMANTUS]] | No, You shall not make me welcome. I come to have thee thrust me out of doors. |
+| [[Timon|TIMON]] | Fie, thou‘rt a churl. Ye’ve got a [[Humour|humour]] there Does not become a man; ’tis much to blame. They say, my lords, Ira furor brevis est, |
+| [[Timon|TIMON]] | But yon man is ever angry. Go, let him have a table by himself, For he does neither affect company Nor is he fit for’t, indeed. |
+| [[Apemantus|APEMANTUS]] | Let me stay at thine apperil, [[Timon]]. I come to observe, I give thee warning on’t. |
+| [[Timon|TIMON]] | I take no heed of thee; thou’rt an Athenian, Therefore welcome. I myself would have no power: Prithee, let my meat make thee silent. |
+| [[Apemantus|APEMANTUS]] | I scorn thy meat. ‘Twould choke me, for I should ne’er flatter thee. O you gods, what a number of men eats [[Timon]], and he sees ‘em not! It grieves me to see so many dip their meat in one man’s [[Blood|blood]]; and all the [[Madness|madness]] is, he cheers them up, too. I [[Wonder|wonder]] men dare trust themselves with men. Methinks they should invite them without knives: Good for their meat, and safer for their lives. There’s much example for’t. The fellow that sits next him, now parts bread with him, pledges the breath of him in a divided draught, is the readiest man to kill him. ’T’as been proved. If I were a huge man, I should [[Fear|fear]] to drink at meals, Lest they should spy my windpipe’s dangerous notes. Great men should drink with harness on their throats. |
+| [[Timon|TIMON]] | (drinking to a Lord) My lord, in heart; and let the health go round. |
+| SECOND LORD | Let it flow this way, my good lord. |
+| [[Apemantus|APEMANTUS]] | ‘Flow this way’? A brave fellow; he keeps his tides [[Well|well]]. Those healths will make thee and thy state look ill, [[Timon]]. Here’s that which is too weak to be a sinner: Honest [[Water|water]], which ne‘er left man i’th’ mire. This and my food are equals; there’s no odds. Feasts are too proud to give thanks to the gods. [[Apemantus]]’ grace |
+| *(didascalia)* | Immortal gods, I crave no pelf. I pray for no man but myself. Grant I may never prove so fond To trust man on his oath or bond, Or a harlot for her weeping, Or a dog that seems a-sleeping, Or a keeper with my [[Freedom|freedom]], Or my friends if I should need ’em. Amen. So fall to’t. Rich men sin, and I eat root. He eats Much good dich thy good heart, [[Apemantus]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--02_exchange_timon" data-title="Timon of Athens — Act I, Scene 2 — exchange (TIMON) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Timon|TIMON]] | Captain [[Alcibiades]], your heart’s in the field now. |
+| [[Alcibiades|ALCIBIADES]] | My heart is ever at your service, my lord. |
+| [[Timon|TIMON]] | You had rather be at a breakfast of enemies than a dinner of friends. |
+| ALCISIADES | So they were bleeding new, my lord; there’s no meat like ’em. I could wish my best friend at such a feast. |
+| [[Apemantus|APEMANTUS]] | Would all those flatterers were thine enemies then, That thou mightst kill ‘em and bid me to ’em. |
+| FIRST LORD | (to [[Timon]]) Might we but have that happiness, my lord, that you would once use our hearts, whereby we might express some part of our zeals, we should think ourselves for ever perfect. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--03_monologue_timon" data-title="Timon of Athens — Act I, Scene 2 — monologue (TIMON) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Timon|TIMON]] | O, no [[Doubt|doubt]], my good friends, but the gods themselves have provided that I shall have much help from you. How had you been my friends else? Why have you that charitable title from thousands, did not you chiefly belong to my heart? I have told more of you to myself than you can with modesty speak in your own behalf; and thus far I confirm you. ‘O you gods,’ think I, ‘what need we have any friends if we should ne’er have need of ‘em? They were the most needless creatures living, should we ne’er have use for ‘em, and would most resemble sweet instruments hung up in cases, that keeps their sounds to themselves.’ Why, I have often wished myself poorer, that I might come nearer to you. We are born to do benefits; and what better or properer can we call our own than the riches of our friends? O, what a precious comfort ‘tis to have so many like brothers commanding one another’s fortunes! O, joy’s e’en made away ere’t can be born: mine eyes cannot hold out [[Water|water]], methinks. To forget their faults, I drink to you. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--04_exchange_apemantus" data-title="Timon of Athens — Act I, Scene 2 — exchange (APEMANTUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Apemantus|APEMANTUS]] | Thou weep’st to make them drink, [[Timon]]. |
+| SECOND LORD | (to [[Timon]]) Joy had the like conception in our eyes, And at that instant like a babe sprung up. |
+| [[Apemantus|APEMANTUS]] | Ho, ho, I laugh to think that babe a bastard. |
+| THIRD LORD | (to [[Timon]]) I promise you, my lord, you moved me much. |
+| [[Apemantus|APEMANTUS]] | Much! A tucket sounds within |
+| [[Timon|TIMON]] | What means that trump? Enter a Servant How now? |
+| SERVANT | Please you, my lord, there are certain ladies most desirous of admittance. |
+| [[Timon|TIMON]] | Ladies? What are their wills? |
+| SERVANT | There comes with them a forerunner, my lord, which bears that office to signify their pleasures. |
+| [[Timon|TIMON]] | I pray let them be admitted. Enter one as Cupid |
+| CUPID | Hail to thee, worthy [[Timon]], and to all That of his bounties taste! The five best senses Acknowledge thee their patron, and come freely To gratulate thy plenteous bosom. Th’ear, Taste, touch, smell, all, pleased from thy table rise. They only now come but to feast thine eyes. |
+| [[Timon|TIMON]] | They’re welcome all. Let ’em have kind admittance. Music make their welcome! Exit Cupid FIRST LORD You see, my lord, how ample you’re beloved. Music. Enter a [[Masque|masque]] of Ladies as Amazons, with lutes in their hands, dancing and playing |
+| [[Apemantus|APEMANTUS]] | Hey-day, what a sweep of [[Vanity|vanity]] comes this way! They [[Dance|dance]]? They are madwomen. Like [[Madness|madness]] is the glory of this life As this pomp shows to a little oil and root. We make ourselves fools to disport ourselves, And spend our flatteries to drink those men Upon whose age we void it up again With poisonous spite and envy. Who lives that’s not depraved or depraves? Who dies that bears not one spurn to their graves Of their friends’ gift? I should [[Fear|fear]] those that [[Dance|dance]] before me now Would one day stamp upon me. ’T’as been done. Men shut their doors against a setting sun. The Lords rise from table with much adoring of |
+| [[Apemantus|APEMANTUS]] | [[Timon]]; and to show their loves each singles out an |
+| [[Apemantus|APEMANTUS]] | Amazon, and all [[Dance|dance]], men with women, a lofty |
+| [[Apemantus|APEMANTUS]] | strain or two to the hautboys; and cease |
+| [[Timon|TIMON]] | You have done our pleasures much grace, fair ladies, Set a fair fashion on our entertainment, Which was not half so beautiful and kind. You have added worth unto’t and lustre, And entertained me with mine own device. I am to thank you for’t. |
+| FIRST | LADY My lord, you take us even at the best. |
+| [[Apemantus|APEMANTUS]] | [[Faith]]; for the worst is filthy, and would not hold taking, I [[Doubt|doubt]] me. |
+| [[Timon|TIMON]] | Ladies, there is an idle banquet ’tends you. Please you to dispose yourselves. |
+| ALL LADIES | Most thankfully, my lord. Exeunt Ladies |
+| [[Timon|TIMON]] | [[Flavius]]. |
+| [[Flavius|FLAVIUS]] | My lord. |
+| [[Timon|TIMON]] | The little casket bring me hither. |
+| [[Flavius|FLAVIUS]] | Yes, my lord. (Aside) More jewels yet? There is no crossing him in’s [[Humour|humour]], Else I should tell him [[Well|well]], i‘[[Faith|faith]] I should. When all’s spent, he’d be crossed then, an he could. ’Tis pity bounty had not eyes behind, That man might ne’er be wretched for his mind. Exit |
+| FIRST LORD | Where be our men? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--05_exchange_servant" data-title="Timon of Athens — Act I, Scene 2 — exchange (SERVANT) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SERVANT | Here, my lord, in readiness. |
+| SECOND LORD | Our horses. Exit Servant Enter [[Flavius]] with the casket. He gives it to [[Timon]], and exits |
+| [[Timon|TIMON]] | O my friends, I have one word to say to you. Look you, my good lord, I must entreat you [[Honour|honour]] me so much As to advance this [[Jewel|jewel]]. Accept and wear it, Kind my lord. |
+| FIRST LORD | I am so far already in your gifts. |
+| ALL LORDS | So are we all. [[Timon]] gives them jewels. Enter a Servant |
+| FIRST SERVANT | My lord, there are certain nobles of the senate newly alighted and come to visit you. |
+| [[Timon|TIMON]] | They are fairly welcome. Exit Servant Enter [[Flavius]] |
+| [[Flavius|FLAVIUS]] | I beseech your [[Honour|honour]], vouchsafe me a word; it does concern you near. |
+| [[Timon|TIMON]] | Near? Why then, another [[Time|time]] I’ll hear thee. I prithee, let’s be provided to show them entertainment. |
+| [[Flavius|FLAVIUS]] | I scarce know how. Enter a Second Servant |
+| SECOND SERVANT | May it please your [[Honour|honour]], Lord [[Lucius]] Out of his free [[Love|love]] hath presented to you Four milk-white horses trapped in silver. |
+| [[Timon|TIMON]] | I shall accept them fairly. Let the presents Be worthily entertained. Exit Servant Enter a Third Servant How now, what news? |
+| THIRD SERVANT | Please you, my lord, that honourable gentleman Lord [[Lucullus]] entreats your company tomorrow to hunt with him, and has sent your [[Honour|honour]] two brace of greyhounds. |
+| [[Timon|TIMON]] | I’ll hunt with him, and let them be received Not without fair reward. Exit Servant |
+| [[Flavius|FLAVIUS]] | (aside) What will this come to? He commands us to provide and give great gifts, And all out of an empty coffer; Nor will he know his purse, or yield me this: To show him what a beggar his heart is, Being of no power to make his wishes good. His promises fly so beyond his state That what he speaks is all in debt, he owes For every word. He is so kind that he now Pays interest for’t. His land’s put to their books. [[Well]], would I were gently put out of office Before I were forced out. Happier is he that has no friend to feed Than such that do e’en enemies exceed. I bleed inwardly for my lord. Exit |
+| [[Timon|TIMON]] | (to the Lords) You do yourselves Much wrong, you bate too much of your own merits. (To Second Lord) Here, my lord, a trifle of our [[Love|love]]. |
+| SECOND LORD | With more than common thanks I will receive it. |
+| THIRD LORD | O, he’s the very [[Soul|soul]] of bounty! |
+| [[Timon|TIMON]] | (to First Lord) And now I remember, my lord, you gave good words the other day of a bay courser I rode on. ’Tis yours, because you liked it. |
+| FIRST LORD | O I beseech you pardon me, my lord, in that. |
+| [[Timon|TIMON]] | You may take my word, my lord, I know no man Can justly praise but what he does affect. I weigh my friends’ affection with mine own. I’ll tell you true, I’ll call to you. |
+| ALL LORDS | O, none so welcome. |
+| [[Timon|TIMON]] | I take all and your several visitations So kind to heart, ‘tis not enough to give. Methinks I could deal kingdoms to my friends, And ne’er be weary. [[Alcibiades]], Thou art a soldier, therefore seldom rich. Giving a present It comes in [[Charity|charity]] to thee, for all thy living Is ’mongst the dead, and all the lands thou hast Lie in a pitched field. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--06_exchange_alcibiades" data-title="Timon of Athens — Act I, Scene 2 — exchange (ALCIBIADES) [6]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Alcibiades|ALCIBIADES]] | Ay, defiled land, my lord. |
+| FIRST LORD | We are so virtuously bound— |
+| [[Timon|TIMON]] | And so am I to you. |
+| SECOND LORD | So infinitely endeared— |
+| [[Timon|TIMON]] | All to you. Lights, more lights! |
+| FIRST LORD | The best of happiness, [[Honour|honour]], and fortunes Keep with you, Lord [[Timon]]. |
+| [[Timon|TIMON]] | Ready for his friends. Exeunt all but [[Timon]] and [[Apemantus]] |
+| [[Apemantus|APEMANTUS]] | What a coil’s here, Serving of becks and jutting-out of bums! I [[Doubt|doubt]] whether their legs be worth the sums That are given for ’em. [[Friendship]]’s full of dregs. Methinks false hearts should never have sound legs. Thus honest fools lay out their wealth on curtseys. |
+| [[Timon|TIMON]] | Now, [[Apemantus]], if thou wert not sullen I would be good to thee. |
+| [[Apemantus|APEMANTUS]] | No, I’ll nothing; for if I should be bribed too, there would be none left to rail upon thee, and then thou wouldst sin the faster. Thou giv’st so long, [[Timon]], I [[Fear|fear]] me thou wilt give away thyself in paper shortly. What needs these feasts, pomps, and vainglories? |
+| [[Timon|TIMON]] | Nay, an you begin to rail on society once, I am sworn not to give regard to you. Farewell, and come with better music. Exit |
+| [[Apemantus|APEMANTUS]] SO. | Thou wilt not hear me now, thou shalt not then. I’ll lock thy heaven from thee. O, that men’s ears should be To counsel deaf, but not to flattery! Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="Timon of Athens — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Flavius]], with many bills in his hand |
+| [[Flavius|FLAVIUS]] | No care, no stop; so senseless of expense That he will neither know how to maintain it Nor cease his flow of riot, takes no account How things go from him, nor resumes no care Of what is to continue. Never mind Was to be so unwise to be so kind. What shall be done? He will not hear till feel. A sound of horns within I must be round with him, now he comes from hunting. Fie, fie, fie, fie! Enter Caphis at one door and Servants of Isidore and Varro at another door |
+| CAPHIS | Good even, Varro. What, you come for money? |
+| VARRO’S SERVANT | Is’t not your business too? |
+| CAPHIS | It is; and yours too, Isidore? |
+| ISIDORE’S SERVANT | It is SO. |
+| CAPHIS | Would we were all discharged. |
+| VARRO’S SERVANT | I [[Fear|fear]] it. |
+| CAPHIS | Here comes the lord. Enter [[Timon]] and his train, amongst them [[Alcibiades]], as from hunting |
+| [[Timon|TIMON]] | So soon as dinner’s done we’ll forth again, My [[Alcibiades]]. Caphis meets [[Timon]] With me? What is your will? |
+| CAPHIS | My lord, here is a note of certain dues. |
+| [[Timon|TIMON]] | Dues? Whence are you? |
+| CAPHIS | Of Athens here, my lord. |
+| [[Timon|TIMON]] | Go to my steward. |
+| CAPHIS | Please it your lordship, he hath put me off, To the succession of new days, this month. My master is awaked by great occasion To call upon his own, and humbly prays you That with your other noble parts you’ll suit In giving him his right. |
+| [[Timon|TIMON]] | Mine honest friend, I prithee but repair to me next morning. |
+| CAPHIS | Nay, good my lord. |
+| [[Timon|TIMON]] | Contain thyself, good friend. |
+| VARRO’S SERVANT | One Varro’s servant, my good lord. |
+| ISIDORE’S SERVANT | (to [[Timon]]) From Isidore. He humbly prays your speedy payment. |
+| CAPHIS | (to [[Timon]]) If you did know, my lord, my master’s wants— |
+| VARRO’S SERVANT | (to [[Timon]]) ’Twas due on forfeiture, my lord, six weeks and past. |
+| ISIDORE’S SERVANT | (to [[Timon]]) Your steward puts me off, my lord, and I Am sent expressly to your lordship. |
+| [[Timon|TIMON]] | Give me breath.— I do beseech you, good my lords, keep on. I’ll wait upon you instantly. Exeunt [[Alcibiades]] and [[Timon]]’s train (To [[Flavius]]) Come hither. Pray you, How goes the world, that I am thus encountered With clamorous demands of broken bonds And the detention of long-since-due debts, Against my [[Honour|honour]]? |
+| [[Flavius|FLAVIUS]] | (to Servants) Please you, gentlemen, The [[Time|time]] is unagreeable to this business; Your importunacy cease till after dinner, That I may make his lordship understand Wherefore you are not paid. |
+| [[Timon|TIMON]] | (to Servants) Do so, my friends. (To [[Flavius]]) See them [[Well|well]] entertained. Exit |
+| [[Flavius|FLAVIUS]] | Pray draw near. Exit Enter [[Apemantus]] and [[Fool]] |
+| CAPHIS | Stay, stay, here comes the [[Fool|fool]] with [[Apemantus]]. Let’s ha’ some sport with ’em. |
+| VARRO’S SERVANT | Hang him, he’ll abuse us. |
+| ISIDORE’S SERVANT | A plague upon him, dog! |
+| VARRO’S SERVANT | How dost, [[Fool|fool]]? |
+| [[Apemantus|APEMANTUS]] | Dost dialogue with thy [[Shadow|shadow]]? |
+| VARRO’S SERVANT | I speak not to thee. |
+| [[Apemantus|APEMANTUS]] | No, ’tis to thyself, (To [[Fool]]) Come away. |
+| ISIDORE’S SERVANT | (to Varro’s Servant) There’s the [[Fool|fool]] hangs on your back already. [[Apemantus|APEMANTUs]] No, thou stand‘st single: thou’rt not on him yet. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--02_exchange_caphis" data-title="Timon of Athens — Act II, Scene 2 — exchange (CAPHIS) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| CAPHIS | (to Isidore’s Servant) Where’s the [[Fool|fool]] now? |
+| [[Apemantus|APEMANTUS]] | He last asked the question. Poor rogues’ and usurers’ men, bawds between gold and want. |
+| ALL SERVANTS | What are we, [[Apemantus]]? 6 |
+| [[Apemantus|APEMANTUS]] | Asses. |
+| ALL SERVANTS | Why? |
+| [[Apemantus|APEMANTUS]] | That you ask me what you are, and do not know yourselves. Speak to ’em, [[Fool|fool]]. |
+| [[Fool|FOOL]] | How do you, gentlemen? |
+| ALL SERVANTS | Gramercies, good [[Fool|fool]]. How does your mistress? |
+| [[Fool|FOOL]] | She’s e’en setting on [[Water|water]] to scald such chickens as you are. Would we could see you at Corinth. |
+| [[Apemantus|APEMANTUS]] | Good; gramercy. Enter Page with two letters |
+| [[Fool|FOOL]] | Look you, here comes my mistress’ page. |
+| PAGE | Why, how now, captain? What do you in this wise company? How dost thou, [[Apemantus]]? |
+| [[Apemantus|APEMANTUS]] | Would I had a rod in my mouth, that I might answer thee profitably. |
+| PAGE | Prithee, [[Apemantus]], read me the superscription of these letters. I know not which is which. |
+| [[Apemantus|APEMANTUS]] | Canst not read? |
+| PAGE | No. |
+| [[Apemantus|APEMANTUS]] | There will little learning die then that day thou art hanged. This is to Lord [[Timon]], this to [[Alcibiades]]. Go, thou wast born a bastard, and thou’lt die a bawd. |
+| PAGE | Thou wast whelped a dog, and thou shalt famish a dog’s [[Death|death]]. Answer not; I am gone. Exit |
+| [[Apemantus|APEMANTUS]] | E‘en so thou outrunn’st grace. [[Fool]], I will go with you to Lord [[Timon]]’s. |
+| [[Fool|FOOL]] | Will you leave me there? |
+| [[Apemantus|APEMANTUS]] | If [[Timon]] stay at [[Home|home]]. (To Servants) You three serve three usurers? |
+| ALL SERVANTS | Ay. Would they served us. |
+| [[Apemantus|APEMANTUS]] | So would I: as good a trick as ever hangman served thief. |
+| [[Fool|FOOL]] | Are you three usurers’ men? |
+| ALL SERVANTS | Ay, [[Fool|fool]]. 95 |
+| [[Fool|FOOL]] | I think no usurer but has a [[Fool|fool]] to his servant. My mistress is one, and I am her [[Fool|fool]]. When men come to borrow of your masters they approach sadly and go away merry, but they enter my mistress’s [[house]] merrily and go away sadly. The reason of this? |
+| VARRO’S SERVANT | I could render one. |
+| [[Apemantus|APEMANTUS]] | Do it then, that we may account thee a whoremaster and a knave, which notwithstanding thou shalt be no less esteemed. |
+| VARRO’S SERVANT | What is a whoremaster, [[Fool|fool]]? |
+| [[Fool|FOOL]] | A [[Fool|fool]] in good clothes, and something like thee. ’Tis a spirit; sometime ’t appears like a lord, sometime like a lawyer, sometime like a philosopher with two stones more than’s artificial one. He is very often like a knight; and generally in all shapes that man goes up and down in from fourscore to thirteen, this spirit walks in. |
+| VARRO’S SERVANT | Thou art not altogether a [[Fool|fool]]. |
+| [[Fool|FOOL]] | Nor thou altogether a wise man. As much foolery as I have, so much wit thou lack ’st. |
+| [[Apemantus|APEMANTUS]] | That answer might have become [[Apemantus]]. Enter [[Timon]] and [[Flavius]] |
+| ALL SERVANTS | Aside, aside, here comes Lord [[Timon]]. |
+| [[Apemantus|APEMANTUS]] | Come with me, [[Fool|fool]], come. |
+| [[Fool|FOOL]] | I do not always follow [[Lover|lover]], elder brother, and woman: sometime the philosopher. Exeunt [[Apemantus]] and [[Fool]] |
+| [[Flavius|FLAVIUS]] | (to Servants) Pray you, walk near. I’ll speak with you anon. Exeunt Servants |
+| [[Timon|TIMON]] | You make me marvel wherefore ere this [[Time|time]] Had you not fully laid my state before me, That I might so have rated my expense As I had leave of means. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--03_exchange_flavius" data-title="Timon of Athens — Act II, Scene 2 — exchange (FLAVIUS) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Flavius|FLAVIUS]] | You would not hear me. At many leisures I proposed— |
+| [[Timon|TIMON]] | Go to. Perchance some single vantages you took, When my indisposition put you back, And that unaptness made your minister Thus to excuse yourself. |
+| [[Flavius|FLAVIUS]] | O my good lord, At many times I brought in my accounts, Laid them before you; you would throw them off And say you summed them in mine honesty. When for some trifling present you have bid me Return so much, I have shook my head and wept, Yea, ‘gainst th’authority of manners prayed you To hold your hand more close. I did endure Not seldom nor no slight checks when I have Prompted you in the ebb of your estate And your great flow of debts. My lovèd lord— Though you hear now too late, yet now’s a [[Time|time]]— The greatest of your having lacks a half To pay your present debts. |
+| [[Timon|TIMON]] | Let all my land be sold. |
+| [[Flavius|FLAVIUS]] | ‘Tis all engaged, some forfeited and gone, And what remains will hardly stop the mouth Of present dues. The future comes apace. What shall defend the interim, and at length How goes our reck’ning? |
+| [[Timon|TIMON]] | To Lacedaemon did my land extend. |
+| [[Flavius|FLAVIUS]] | O my good lord, the world is but a word. Were it all yours to give it in a breath, How quickly were it gone. |
+| [[Timon|TIMON]] | You tell me true. |
+| [[Flavius|FLAVIUS]] | If you suspect my husbandry or falsehood, Call me before th’exactest auditors And set me on the proof. So the gods bless me, When all our offices have been oppressed With riotous feeders, when our vaults have wept With drunken spilth of wine, when every room Hath blazed with lights and brayed with minstrelsy, I have retired me to a wasteful cock, And set mine eyes at flow. |
+| [[Timon|TIMON]] | Prithee, no more. |
+| [[Flavius|FLAVIUS]] | ‘Heavens,’ have I said, ‘the bounty of this lord! How many prodigal bits have slaves and peasants This [[Night|night]] englutted! Who is not [[Timon]]’s? What heart, head, [[Sword|sword]], force, means, but is Lord [[Timon]]’s? Great [[Timon]], noble, worthy, royal [[Timon]]! Ah, when the means are gone that buy this praise, The breath is gone whereof this praise is made. Feast won, fast lost; one cloud of [[Winter|winter]] show’rs, These flies are couched.’ |
+| [[Timon|TIMON]] | Come, sermon me no further. No villainous bounty yet hath passed my heart. Unwisely, not ignobly, have I given. Why dost thou weep? Canst thou the [[Conscience|conscience]] lack To think I shall lack friends? Secure thy heart. If I would broach the vessels of my [[Love|love]] And try the argument of hearts by borrowing, Men and men’s fortunes could I frankly use As I can bid thee speak. |
+| [[Flavius|FLAVIUS]] | Assurance bless your thoughts! |
+| [[Timon|TIMON]] | And in some sort these wants of mine are crowned That I account them blessings, for by these Shall I try friends. You shall perceive how you Mistake my fortunes. I am wealthy in my friends.— Within there, Flaminius, Servilius! Enter Flaminius, Servilius, and a Third Servant |
+| ALL SERVANTS | My lord, my lord. |
+| [[Timon|TIMON]] | I will dispatch you severally, (To Servilius) You to Lord [[Lucius]], (To Flaminius) to Lord [[Lucullus]] you— I hunted with his [[Honour|honour]] today— (To Third Servant) You to [[Sempronius]]. Commend me to their loves, And I am proud, say, that my occasions have Found [[Time|time]] to use ’em toward a supply of money. Let the request be fifty talents. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--04_exchange_flaminius" data-title="Timon of Athens — Act II, Scene 2 — exchange (FLAMINIUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FLAMINIUS | As you have said, my lord. Exeunt Servants |
+| [[Flavius|FLAVIUS]] | Lord [[Lucius]] and [[Lucullus]]? Hmh! |
+| [[Timon|TIMON]] | Go you, sir, to the senators, Of whom, even to the state’s best health, I have Deserved this hearing. Bid ‘em send o’th’ instant A thousand talents to me. |
+| [[Flavius|FLAVIUS]] | I have been bold, For that I knew it the most general way, To them, to use your signet and your name; But they do shake their heads, and I am here No richer in return. |
+| [[Timon|TIMON]] | Is’t true? Can’t be? |
+| [[Flavius|FLAVIUS]] | They answer in a joint and corporate voice That now they are at fall, want treasure, cannot Do what they would, are sorry, you are honourable, But yet they could have wished—they know not— Something hath been amiss—a noble [[Nature|nature]] May catch a wrench—would all were [[Well|well]]—’tis pity; And so, intending other serious matters, After distasteful looks and these hard fractions, With certain half-caps and cold moving nods They froze me into [[Silence|silence]]. |
+| [[Timon|TIMON]] | You gods reward them! Prithee, man, look cheerly. These old fellows Have their ingratitude in them hereditary. Their [[Blood|blood]] is caked, ‘tis cold, it seldom flows. ’Tis lack of kindly warmth they are not kind; And [[Nature|nature]] as it grows again toward earth Is fashioned for the [[Journey|journey]] dull and heavy. Go to Ventidius. Prithee, be not sad. Thou art true and honest—ingenuously I speak— No blame belongs to thee. Ventidius lately Buried his father, by whose [[Death|death]] he’s stepped Into a great estate. When he was poor, Imprisoned, and in scarcity of friends, I cleared him with five talents. Greet him from me. Bid him suppose some good necessity Touches his friend, which craves to be remembered With those five talents. That had, give’t these fellows To whom ‘tis instant due. Ne’er speak or think That [[Timon]]’s fortunes ’mong his friends can sink. |
+| [[Flavius|FLAVIUS]] | I would I could not think it. That thought is bounty’s foe: Being free itself, it thinks all others so. Exeunt severally |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--01_exchange_dialogue" data-title="Timon of Athens — Act IV, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Timon]] from his [[Cave|cave]] in the woods, half naked, and with a spade |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--02_monologue_timon" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Timon|TIMON]] | O blessèd breeding sun, draw from the earth Rotten humidity; below thy sister’s orb Infect the air. Twinned brothers of one womb, Whose [[Procreation|procreation]], residence, and birth Scarce is dividant, touch them with several fortunes, The greater scorns the lesser. Not [[Nature|nature]], To whom all sores lay siege, can bear great fortune But by contempt of [[Nature|nature]]. It is the pasture lards the brother’s sides, The want that makes him lean. Raise me this beggar and demit that lord, The senator shall bear contempt hereditary, The beggar native [[Honour|honour]]. Who dares, who dares In purity of manhood stand upright And say ‘This man’s a flatterer’? If one be, So are they all, for every grece of fortune Is smoothed by that below. The learnèd pate Ducks to the golden [[Fool|fool]]. All’s obliquy; There’s nothing level in our cursed natures But direct villainy. Therefore be abhorred All feasts, societies, and throngs of men. His semblable, yea, himself, [[Timon]] disdains. Destruction fang mankind. Earth, yield me roots. He digs Who seeks for better of thee, sauce his palate With thy most operant [[Poison|poison]]. He finds gold What is here? Gold? Yellow, glittering, precious gold? No, gods, I am no idle votarist: Roots, you clear heavens. Thus much of this will make Black white, foul fair, wrong right, Base noble, old young, coward valiant. Ha, you gods! Why this, what, this, you gods? Why, this Will lug your priests and servants from your sides, Pluck stout men’s pillows from below their heads. This yellow slave Will knit and break religions, bless th’accursed, Make the hoar leprosy adored, place thieves, And give them title, knee, and approbation With senators on the bench. This is it That makes the wappered widow wed again. She whom the spittle [[house]] and ulcerous sores Would cast the gorge at, this embalms and spices To th’ April day again. Come, damned earth, Thou common whore of mankind, that puts odds Among the rout of nations; I will make thee Do thy right [[Nature|nature]]. March afar off Ha, a drum! Thou’rt quick; But yet I’ll bury thee. He buries gold Thou’lt go, strong thief, When gouty keepers of thee cannot stand. He keeps some gold Nay, stay thou out for earnest. Enter [[Alcibiades]], with soldiers playing drum and |
+| [[Timon|TIMON]] | fife, in warlike manner; and Phrynia and Timandra |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--03_exchange_alcibiades" data-title="Timon of Athens — Act IV, Scene 3 — exchange (ALCIBIADES) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Alcibiades|ALCIBIADES]] | What art thou there? Speak. |
+| [[Timon|TIMON]] | A beast, as thou art. The canker gnaw thy heart For showing me again the eyes of man. |
+| [[Alcibiades|ALCIBIADES]] | What is thy name? Is man so hateful to thee That art thyself a man? |
+| [[Timon|TIMON]] | I am Misanthropos, and hate mankind. For thy part, I do wish thou wert a dog, That I might [[Love|love]] thee something. |
+| [[Alcibiades|ALCIBIADES]] | I know thee [[Well|well]], But in thy fortunes am unlearned and strange. |
+| [[Timon|TIMON]] | I know thee too, and more than that I know thee I not [[Desire|desire]] to know. Follow thy drum. With man’s [[Blood|blood]] paint the ground gules, gules. Religious canons, civil laws, are cruel; Then what should war be? This fell whore of thine Hath in her more destruction than thy [[Sword|sword]], For all her cherubin look. |
+| PHRYNIA | Thy lips rot off! |
+| [[Timon|TIMON]] | I will not kiss thee; then the rot returns To thine own lips again. |
+| [[Alcibiades|ALCIBIADES]] | How came the noble [[Timon]] to this change? |
+| [[Timon|TIMON]] | As the [[Moon|moon]] does, by wanting light to give. But then renew I could not like the [[Moon|moon]]; There were no suns to borrow of. |
+| [[Alcibiades|ALCIBIADES]] | Noble [[Timon]], what [[Friendship|friendship]] may I do thee? |
+| [[Timon|TIMON]] | None but to maintain my opinion. |
+| [[Alcibiades|ALCIBIADES]] | What is it, [[Timon]]? |
+| [[Timon|TIMON]] | Promise me [[Friendship|friendship]], but perform none. If thou wilt promise, the gods plague thee, for thou art a man. If thou dost not perform, confound thee, for thou art a man. |
+| [[Alcibiades|ALCIBIADES]] | I have heard in some sort of thy miseries. |
+| [[Timon|TIMON]] | Thou saw’st them when I had prosperity. |
+| [[Alcibiades|ALCIBIADES]] | I see them now; then was a blessèd [[Time|time]]. |
+| [[Timon|TIMON]] | As thine is now, held with a brace of harlots. |
+| TIMANDRA | Is this th’Athenian minion, whom the world Voiced so regardfully? |
+| SIMON | Art thou Timandra? |
+| TIMANDRA | Yes. |
+| [[Timon|TIMON]] | Be a whore still. They [[Love|love]] thee not that use thee. Give them diseases, leaving with thee their lust. Make use of thy salt hours: season the slaves For tubs and baths, bring down [[Rose|rose]]-cheeked youth To the tub-fast and the diet. |
+| TIMANDRA | Hang thee, [[Monster|monster]]! |
+| [[Alcibiades|ALCIBIADES]] | Pardon him, sweet Timandra, for his wits Are drowned and lost in his calamities. I have but little gold of late, brave [[Timon]], The want whereof doth daily make revolt In my penurious band. I have heard and grieved How cursed Athens, mindless of thy worth, Forgetting thy great deeds, when neighbour states But for thy [[Sword|sword]] and fortune trod upon them— |
+| [[Timon|TIMON]] | I prithee, beat thy drum and get thee gone. |
+| [[Alcibiades|ALCIBIADES]] | I am thy friend, and pity thee, dear [[Timon]]. |
+| [[Timon|TIMON]] | How dost thou pity him whom thou dost trouble? I had rather be [[Alone|alone]]. |
+| [[Alcibiades|ALCIBIADES]] | Why, fare thee [[Well|well]]. Here is some gold for thee. |
+| [[Timon|TIMON]] | Keep it. I cannot eat it. |
+| [[Alcibiades|ALCIBIADES]] | When I have laid proud Athens on a heap— |
+| [[Timon|TIMON]] | Warr‘st thou ’gainst Athens? |
+| [[Alcibiades|ALCIBIADES]] | Ay, [[Timon]], and have cause. |
+| [[Timon|TIMON]] | The gods confound them all in thy conquest, And thee after, when thou hast conquered. |
+| [[Alcibiades|ALCIBIADES]] | Why me, [[Timon]]? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--04_monologue_timon" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Timon|TIMON]] | That by killing of villains Thou wast born to conquer my country. Put up thy gold. He gives [[Alcibiades]] gold Go on; here’s gold; go on. Be as a planetary plague when Jove Will o’er some high-viced [[City|city]] hang his [[Poison|poison]] In the sick air. Let not thy [[Sword|sword]] skip one. Pity not honoured age for his white beard; He is an usurer. Strike me the counterfeit matron; It is her habit only that is honest, Herself’s a bawd. Let not the virgin’s cheek Make soft thy trenchant [[Sword|sword]]; for those milk paps That through the [[Window|window]]-bars bore at men’s eyes Are not within the leaf of pity writ; But set them down horrible traitors. Spare not the babe Whose dimpled smiles from fools exhaust their [[Mercy|mercy]]. Think it a bastard whom the oracle Hath doubtfully pronounced thy throat shall cut, And mince it sans remorse. Swear against objects. Put armour on thine ears and on thine eyes Whose proof nor yells of mothers, maids, nor babes, Nor sight of priests in holy vestments bleeding, Shall pierce a jot. There’s gold to pay thy soldiers. Make large confusion, and, thy fury spent, Confounded be thyself. Speak not. Be gone. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--05_exchange_alcibiades" data-title="Timon of Athens — Act IV, Scene 3 — exchange (ALCIBIADES) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Alcibiades|ALCIBIADES]] | Hast thou gold yet? I’ll take the gold thou giv’st me, Not all thy counsel. |
+| [[Timon|TIMON]] | Dost thou or dost thou not, heaven’s curse upon thee! |
+| PHRYNIA | and TIMANDRA Give us some gold, good [[Timon]]. Hast thou more? |
+| [[Timon|TIMON]] | Enough to make a whore forswear her trade, And to make wholesomeness a bawd. Hold up, you sluts, Your aprons mountant. He throws gold into their aprons You are not oathable, Although I know you’ll swear, terribly swear, Into strong shudders and to heavenly agues Th’immortal gods that hear you. Spare your oaths; I’ll trust to your conditions. Be whores still, And he whose pious breath seeks to [[convert]] you, Be strong in whore, allure him, burn him up. Let your close [[Fire|fire]] predominate his smoke; And be no turncoats. Yet may your [[Pain|pain]]-sick months Be quite contrary, and thatch your poor thin roofs With burdens of the dead—some that were hanged, No matter. Wear them, betray with them; whore still; Paint till a [[Horse|horse]] may mire upon your face. A pox of wrinkles! |
+| PHRYNIA | and TIMANDRA [[Well]], more gold; what then? Believe’t that we’ll do anything for gold. |
+| [[Timon|TIMON]] | Consumptions sow In hollow bones of man, strike their sharp shins, And mar men’s spurring. Crack the lawyer’s voice, That he may never more false title plead Nor sound his quillets shrilly. Hoar the flamen That scolds against the quality of flesh And not believes himself. Down with the nose, Down with it flat; take the bridge quite away Of him that his particular to foresee Smells from the general weal. Make curled-pate ruffians bald, And let the unscarred braggarts of the war Derive some [[Pain|pain]] from you. Plague all, That your activity may defeat and quell The source of all erection. There’s more gold. Do you damn others, and let this damn you; And ditches [[Grave|grave]] you all! |
+| PHRYNIA | and TIMANDRA More counsel with more money, bounteous [[Timon]]. |
+| [[Timon|TIMON]] | More whore, more mischief first; I have given you earnest. |
+| [[Alcibiades|ALCIBIADES]] | Strike up the drum towards Athens. Farewell, [[Timon]]. If I thrive [[Well|well]], I’ll visit thee again. |
+| [[Timon|TIMON]] | If I [[Hope|hope]] [[Well|well]], I’ll never see thee more. |
+| [[Alcibiades|ALCIBIADES]] | I never did thee harm. |
+| [[Timon|TIMON]] | Yes, thou spok’st [[Well|well]] of me. |
+| [[Alcibiades|ALCIBIADES]] | Call’st thou that harm? |
+| [[Timon|TIMON]] | Men daily find it. Get thee away, And take thy beagles with thee. |
+| [[Alcibiades|ALCIBIADES]] | We but offend him. Strike! Exeunt to drum and fife all but [[Timon]] |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--06_monologue_timon" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Timon|TIMON]] | That [[Nature|nature]], being sick of man’s unkindness, Should yet be hungry! He digs the earth Common mother—thou Whose womb unmeasurable and infinite breast Teems and feeds all, whose selfsame mettle Whereof thy proud [[Child|child]], arrogant man, is puffed Engenders the black toad and adder blue, The gilded newt and eyeless venomed worm, With all th‘abhorrèd births below crisp heaven Whereon [[Hyperion]]’s quick’ning [[Fire|fire]] doth shine— Yield him who all thy human sons do hate From forth thy plenteous bosom, one poor root. Ensear thy fertile and conceptions womb; Let it no more bring out ingrateful man. Go great with tigers, dragons, wolves, and bears; Teem with new monsters whom thy upward face Hath to the marbled mansion all above Never presented. He finds a root O, a root! Dear thanks. Dry up thy marrows, vines, and plough-torn leas, Whereof ingrateful man with liquorish draughts And morsels unctuous greases his pure mind, That from it all consideration slips!— Enter [[Apemantus]] More man? Plague, plague! |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--07_exchange_apemantus" data-title="Timon of Athens — Act IV, Scene 3 — exchange (APEMANTUS) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Apemantus|APEMANTUS]] | I was directed hither. Men report Thou dost affect my manners, and dost use them. |
+| [[Timon|TIMON]] | ’Tis then because thou dost not keep a dog Whom I would imitate. Consumption catch thee! |
+| [[Apemantus|APEMANTUS]] | This is in thee a [[Nature|nature]] but infected, A poor unmanly [[Melancholy|melancholy]], sprung From change of fortune. Why this spade, this place, This slave-like habit, and these looks of care? Thy flatterers yet wear silk, drink wine, lie soft, Hug their diseased perfumes, and have forgot That ever [[Timon]] was. Shame not these woods By putting on the cunning of a carper. Be thou a flatterer now, and seek to thrive By that which has undone thee. Hinge thy knee, And let his very breath whom thou‘lt observe Blow off thy cap. Praise his most vicious strain, And call it excellent. Thou wast told thus. Thou gav’st thine ears like tapsters that bade welcome To knaves and all approachers. ’Tis most just That thou turn rascal. Hadst thou wealth again, Rascals should have’t. Do not assume my likeness. |
+| [[Timon|TIMON]] | Were I like thee, I’d throw away myself. |
+| [[Apemantus|APEMANTUS]] | Thou hast cast away thyself being like thyself— A madman so long, now a [[Fool|fool]]. What, think‘st That the bleak air, thy boisterous chamberlain, Will put thy shirt on warm? Will these mossed trees That have outlived the eagle page thy heels And skip when thou point’st out? Will the cold brook, Candied with ice, caudle thy morning taste To cure thy o’ernight’s surfeit? Call the creatures Whose naked natures live in all the spite Of wreakful heaven, whose bare unhousèd trunks To the conflicting elements exposed Answer mere [[Nature|nature]]; bid them flatter thee. O, thou shalt find— |
+| [[Timon|TIMON]] | A [[Fool|fool]] of thee! Depart. |
+| [[Apemantus|APEMANTUS]] | I [[Love|love]] thee better now than e’er I did. |
+| [[Timon|TIMON]] | I hate thee worse. |
+| [[Apemantus|APEMANTUS]] | Why? |
+| [[Timon|TIMON]] | Thou flatter’st misery. |
+| [[Apemantus|APEMANTUS]] | I flatter not, but say thou art a caitiff. |
+| [[Timon|TIMON]] | Why dost thou seek me out? |
+| [[Apemantus|APEMANTUS]] | To vex thee. |
+| [[Timon|TIMON]] | Always a [[Villain|villain]]’s office, or a [[Fool|fool]]’s. Dost please thyself in’t? |
+| [[Apemantus|APEMANTUS]] | Ay. |
+| [[Timon|TIMON]] | What, a knave too? |
+| [[Apemantus|APEMANTUS]] | If thou didst put this sour cold habit on To castigate thy [[Pride|pride]], ‘twere [[Well|well]]; but thou Dost it enforcèdly. Thou’dst courtier be again Wert thou not beggar. Willing misery Outlives incertain pomp, is crowned before. The one is filling still, never complete; The other at high wish. Best state, contentless, Hath a distracted and most wretched being, Worse than the worst, content. Thou shouldst [[Desire|desire]] to die, being miserable. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--08_monologue_timon" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON) [8]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Timon|TIMON]] | Not by his breath that is more miserable. Thou art a slave whom fortune’s tender arm With favour never clasped, but bred a dog. Hadst thou like us from our first swathe proceeded The sweet degrees that this brief world affords To such as may the passive drudges of it Freely command, thou wouldst have plunged thyself In general riot, melted down thy youth In different beds of lust, and never learned The icy precepts of respect, but followed The sugared game before thee. But myself, Who had the world as my confectionary, The mouths, the tongues, the eyes and hearts of men At duty, more than I could frame employment, That numberless upon me stuck, as [[Leaves|leaves]] Do on the oak, have with one [[Winter|winter]]’s brush Fell from their boughs, and left me open, bare For every [[Storm|storm]] that blows—I to bear this, That never knew but better, is some burden. Thy [[Nature|nature]] did commence in sufferance, [[Time|time]] Hath made thee hard in’t. Why shouldst thou hate men? They never flattered thee. What hast thou given? If thou wilt curse, thy father, that poor rag, Must be thy subject, who in spite put stuff To some she-beggar and compounded thee Poor rogue hereditary. Hence, be gone. If thou hadst not been born the worst of men Thou hadst been a knave and flatterer. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--09_exchange_apemantus" data-title="Timon of Athens — Act IV, Scene 3 — exchange (APEMANTUS) [9]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Apemantus|APEMANTUS]] | Art thou proud yet? |
+| [[Timon|TIMON]] | Ay, that I am not thee. |
+| [[Apemantus|APEMANTUS]] | I that I was No prodigal. |
+| [[Timon|TIMON]] | I that I am one now. Were all the wealth I have shut up in thee I’d give thee leave to hang it. Get thee gone. That the whole life of Athens were in this! Thus would I eat it. He bites the root |
+| [[Apemantus|APEMANTUS]] | offering food Here, I will mend thy feast. |
+| [[Timon|TIMON]] | First mend my company: take away thyself. |
+| [[Apemantus|APEMANTUS]] | So I shall mend mine own by th’ lack of thine. |
+| [[Timon|TIMON]] | ’Tis not [[Well|well]] mended so, it is but botched; If not, I would it were. |
+| [[Apemantus|APEMANTUS]] | What wouldst thou have to Athens? |
+| [[Timon|TIMON]] | Thee thither in a whirlwind. If thou wilt, Tell them there I have gold. Look, so I have. |
+| [[Apemantus|APEMANTUS]] | Here is no use for gold. |
+| [[Timon|TIMON]] | The best and truest, For here it sleeps and does no hired harm. |
+| [[Apemantus|APEMANTUS]] | Where liest a-nights, [[Timon]]? |
+| [[Timon|TIMON]] | Under that’s above me. Where feed’st thou a-days, [[Apemantus]]? |
+| [[Apemantus|APEMANTUS]] | Where my stomach finds meat; or rather, where I eat it. |
+| [[Timon|TIMON]] | Would [[Poison|poison]] were obedient, and knew my mind! |
+| [[Apemantus|APEMANTUS]] | Where wouldst thou send it? |
+| [[Timon|TIMON]] | To sauce thy dishes. |
+| [[Apemantus|APEMANTUS]] | The middle of humanity thou never knewest, but the extremity of both ends. When thou wast in thy gilt and thy perfume, they mocked thee for too much curiosity; in thy rags thou know’st none, but art despised for the contrary. There’s a medlar for thee; eat it. |
+| [[Timon|TIMON]] | On what I hate I feed not. |
+| [[Apemantus|APEMANTUS]] | Dost hate a medlar? |
+| [[Timon|TIMON]] | Ay, though it look like thee. |
+| [[Apemantus|APEMANTUS]] | An thou’dst hated meddlers sooner, thou shouldst have loved thyself better now. What man didst thou ever know unthrift that was beloved after his means? |
+| [[Timon|TIMON]] | Who, without those means thou talk’st of, didst thou ever know beloved? |
+| [[Apemantus|APEMANTUS]] | Myself. |
+| [[Timon|TIMON]] | I understand thee: thou hadst some means to keep a dog. |
+| [[Apemantus|APEMANTUS]] | What things in the world canst thou nearest compare to thy flatterers? |
+| [[Timon|TIMON]] | Women nearest; but men, men are the things themselves. What wouldst thou do with the world, [[Apemantus]], if it lay in thy power? |
+| [[Apemantus|APEMANTUS]] | Give it the beasts, to be rid of the men. |
+| [[Timon|TIMON]] | Wouldst thou have thyself fall in the confusion of men, and remain a beast with the beasts? |
+| [[Apemantus|APEMANTUS]] | Ay, [[Timon]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--10_monologue_timon_a" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON A) [10]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Timon|TIMON]] | A beastly [[Ambition|ambition]], which the gods grant thee t‘attain to. If thou wert the [[Lion|lion]], the fox would beguile thee. If thou wert the [[Lamb|lamb]], the fox would eat thee. If thou wert the fox, the [[Lion|lion]] would suspect thee when peradventure thou wert accused by the ass. If thou wert the ass, thy dullness would torment thee, and still thou lived’st but as a breakfast to the wolf. If thou wert the wolf, thy greediness would afflict thee, and oft thou shouldst hazard thy life for thy dinner. Wert thou the unicorn, [[Pride|pride]] and wrath would confound thee, and make thine own [[Self|self]] the conquest of thy fury. Wert thou a bear, thou wouldst be killed by the [[Horse|horse]]. Wert thou a [[Horse|horse]], thou wouldst be seized by the leopard. Wert thou a leopard, thou wert german to the [[Lion|lion]], and the spots of thy kindred were jurors on thy life; all thy safety were remotion, and thy defence absence. What beast couldst thou be that were not subject to a beast? And what a beast art thou already, that seest not thy loss in transformation! |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--11_exchange_apemantus" data-title="Timon of Athens — Act IV, Scene 3 — exchange (APEMANTUS) [11]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Apemantus|APEMANTUS]] | If thou couldst please me with speaking to me, thou mightst have hit upon it here. The commonwealth of Athens is become a forest of beasts. |
+| [[Timon|TIMON]] | How, has the ass broke the wall, that thou art out of the [[City|city]]? |
+| [[Apemantus|APEMANTUS]] | Yonder comes a poet and a painter. The plague of company light upon thee! I will [[Fear|fear]] to catch it, and give way. When I know not what else to do, I’ll see thee again. 356 |
+| [[Timon|TIMON]] | When there is nothing living but thee, thou shalt be welcome. I had rather be a beggar’s dog than [[Apemantus]]. |
+| [[Apemantus|APEMANTUS]] | Thou art the cap of all the fools alive. |
+| [[Timon|TIMON]] | Would thou wert clean enough to spit upon. |
+| [[Apemantus|APEMANTUS]] | A plague on thee! Thou art too bad to curse. |
+| [[Timon|TIMON]] | All villains that do stand by thee are pure. |
+| [[Apemantus|APEMANTUS]] | There is no leprosy but what thou speak’st. |
+| [[Timon|TIMON]] | If I name thee. I’d beat thee, but I should infect my hands. |
+| [[Apemantus|APEMANTUS]] | I would my tongue could rot them off. |
+| [[Timon|TIMON]] | Away, thou issue of a mangy dog! Choler does kill me that thou art alive. I swoon to see thee. |
+| [[Apemantus|APEMANTUS]] | Would thou wouldst burst! |
+| [[Timon|TIMON]] | Away, thou tedious rogue! He throws a stone at [[Apemantus]] I am sorry I shall lose a stone by thee. |
+| [[Apemantus|APEMANTUS]] | Beast! |
+| [[Timon|TIMON]] | Slave! |
+| [[Apemantus|APEMANTUS]] | Toad! |
+| [[Timon|TIMON]] | Rogue, rogue, rogue! I am sick of this false world, and will [[Love|love]] naught But even the mere necessities upon’t. Then, [[Timon]], presently prepare thy [[Grave|grave]]. Lie where the light foam of the sea may beat Thy gravestone daily. Make thine epitaph, That [[Death|death]] in me at others’ lives may laugh. He looks on the gold O, thou sweet [[King|king]]-killer, and dear [[divorce]] ‘Twixt natural son and sire; thou bright defiler Of Hymen’s purest bed; thou valiant Mars; Thou ever young, fresh, loved, and delicate wooer, Whose blush doth thaw the consecrated [[Snow|snow]] That lies on Dian’s lap; thou visible god, That sold’rest close impossibilities And mak‘st them kiss, that speak’st with every tongue To every purpose; O thou touch of hearts: Think thy slave man rebels, and by thy virtue Set them into confounding odds, that beasts May have the world in empire. |
+| [[Apemantus|APEMANTUS]] | Would ’twere so, But not till I am dead. I’ll say thou’st gold. Thou wilt be thronged to shortly. |
+| [[Timon|TIMON]] | Thronged to? |
+| [[Apemantus|APEMANTUS]] | Ay. |
+| [[Timon|TIMON]] | Thy back, I prithee. |
+| [[Apemantus|APEMANTUS]] | Live, and [[Love|love]] thy misery. |
+| [[Timon|TIMON]] | Long live so, and so die. I am quit. Enter the Banditti, thieves |
+| [[Apemantus|APEMANTUS]] | More things like men. Eat, [[Timon]], and abhor them. Exit |
+| FIRST THIEF | Where should he have this gold? It is some poor [[Fragment|fragment]], some slender ort of his remainder. The mere want of gold and the falling-from of his friends drove him into this [[Melancholy|melancholy]]. |
+| SECOND THIEF | It is noised he hath a mass of treasure. |
+| THIRD THIEF | Let us make the assay upon him. If he care not for’t, he will supply us easily. If he covetously reserve it, how shall ’s get it? |
+| SECOND THIEF | True, for he bears it not about him; ’tis hid. |
+| FIRST THIEF | Is not this he? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--12_exchange_other_thieves" data-title="Timon of Athens — Act IV, Scene 3 — exchange (OTHER THIEVES) [12]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| OTHER THIEVES | Where? |
+| SECOND THIEF | ’Tis his description. |
+| THIRD THIEF | He, I know him. |
+| ALL THIEVES | (coming forward) Save thee, [[Timon]]. |
+| [[Timon|TIMON]] | Now, thieves. |
+| ALL THIEVES | Soldiers, not thieves. |
+| [[Timon|TIMON]] | Both, too, and women’s sons. |
+| ALL THIEVES | We are not thieves, but men that much do want. |
+| [[Timon|TIMON]] | Your greatest want is, you want much of meat. Why should you want? Behold, the earth hath roots. Within this mile break forth a hundred springs. The oaks bear mast, the briars scarlet hips. The bounteous housewife [[Nature|nature]] on each bush Lays her full mess before you. Want? Why want? |
+| FIRST THIEF | We cannot live on grass, on berries, [[Water|water]], As beasts and [[Birds|birds]] and fishes. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--13_monologue_timon" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON) [13]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Timon|TIMON]] | Nor on the beasts themselves, the [[Birds|birds]] and fishes; You must eat men. Yet thanks I must you con That you are thieves professed, that you work not In holier shapes; for there is boundless theft In limited professions. (Giving gold) Rascal thieves, Here’s gold. Go suck the subtle [[Blood|blood]] o‘th’ grape Till the high fever seethe your [[Blood|blood]] to froth, And so scape hanging. Trust not the physician: His antidotes are [[Poison|poison]], and he slays More than you rob. Take wealth and lives together. Do villainy; do, since you protest to do’t, Like workmen. I’ll example you with thievery. The sun’s a thief, and with his great attraction Robs the vast sea. The [[Moon|moon]]’s an arrant thief, And her pale [[Fire|fire]] she snatches from the sun. The sea’s a thief, whose liquid surge resolves The [[Moon|moon]] into salt [[Tears|tears]]. The earth’s a thief, That feeds and breeds by a composture stol’n From gen‘ral excrement. Each thing’s a thief. The laws, your curb and whip, in their rough power Has unchecked theft. [[Love]] not yourselves. Away, Rob one another. There’s more gold. Cut throats; All that you meet are thieves. To Athens go, Break open shops; nothing can you steal But thieves do lose it. Steal no less for this I give you, And gold confound you howsoe’er. Amen. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--14_exchange_third_thief" data-title="Timon of Athens — Act IV, Scene 3 — exchange (THIRD THIEF) [14]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THIRD THIEF | He’s almost charmed me from my profession by persuading me to it. |
+| FIRST THIEF | ’Tis in the malice of mankind that he thus advises us, not to have us thrive in our mystery. |
+| SECOND THIEF | I’ll believe him as an enemy, and give over my trade. |
+| FIRST THIEF | Let us first see peace in Athens. There is no [[Time|time]] so miserable but a man may be true. Exeunt Thieves Enter [[Flavius]] to [[Timon]] |
+| [[Flavius|FLAVIUS]] | O you gods! Is yon despised and ruinous man my lord, Full of [[Decay|decay]] and failing? O monument And [[Wonder|wonder]] of good deeds evilly bestowed! What an alteration of [[Honour|honour]] has desp’rate want made! What viler thing upon the earth than friends, Who can bring noblest minds to basest ends! How rarely does it meet with this [[Time|time]]’s guise, When man was wished to [[Love|love]] his enemies! Grant I may ever [[Love|love]] and rather woo Those that would mischief me than those that do! [[Timon]] sees him He’s caught me in his eye. I will present My honest grief unto him, and as my lord Still serve him with my life.—My dearest master. |
+| [[Timon|TIMON]] | Away! What art thou? |
+| [[Flavius|FLAVIUS]] | Have you forgot me, sir? |
+| [[Timon|TIMON]] | Why dost ask that? I have forgot all men; Then if thou grant‘st thou’rt man, I have forgot thee. |
+| [[Flavius|FLAVIUS]] | An honest poor servant of yours. |
+| [[Timon|TIMON]] | Then I know thee not. I never had Honest man about me; ay, all I kept were knaves, To serve in meat to villains. |
+| [[Flavius|FLAVIUS]] | The gods are witness, Ne’er did poor steward wear a truer grief For his undone lord than mine eyes for you. |
+| [[Timon|TIMON]] | What, dost thou weep? Come. nearer then; I [[Love|love]] thee Because thou art a woman, and disclaim’st Flinty mankind whose eyes do never give But thorough lust and laughter. Pity’s sleeping. Strange times, that weep with laughing, not with weeping! |
+| [[Flavius|FLAVIUS]] | I beg of you to know me, good my lord, T’accept my grief, He offers his money and whilst this poor wealth lasts To entertain me as your steward still. |
+| [[Timon|TIMON]] | Had I a steward So true, so just, and now so comfortable? It almost turns my dangerous [[Nature|nature]] mild. Let me behold thy face. Surely this man Was born of woman. Forgive my general and exceptless rashness, You perpetual sober gods! I do proclaim One honest man—mistake me not, but one, No more, I pray—and he’s a steward. How fain would I have hated all mankind, And thou redeem‘st thyself! But all save thee I fell with curses. Methinks thou art more honest now than wise, For by oppressing and betraying me Thou mightst have sooner got another service; For many so arrive at second masters Upon their first lord’s neck. But tell me true— For I must ever [[Doubt|doubt]], though ne’er so sure— Is not thy kindness subtle, covetous, A usuring kindness, and, as rich men deal gifts, Expecting in return twenty for one? |
+| [[Flavius|FLAVIUS]] | No, my most worthy master, in whose breast [[Doubt]] and suspect, alas, are placed too late. You should have feared false times when you did feast. Suspect still comes where an estate is least. That which I show, heaven knows, is merely [[Love|love]], Duty and zeal to your unmatched mind, Care of your food and living; and, believe it, My most honoured lord, For any benefit that points to me, Either in [[Hope|hope]] or present, I’d exchange For this one wish: that you had power and wealth To requite me by making rich yourself. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--15_exchange_timon" data-title="Timon of Athens — Act IV, Scene 3 — exchange (TIMON) [15]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Timon|TIMON]] | Look thee, ’tis so. Thou singly honest man, He gives [[Flavius]] gold Here, take. The gods, out of my misery, Has sent thee treasure. Go, live rich and happy, But thus conditioned: thou shalt build from men, Hate all, curse all, show [[Charity|charity]] to none, But let the famished flesh slide from the bone Ere thou relieve the beggar. Give to [[dogs]] What thou deniest to men. Let prisons [[Swallow|swallow]] ‘em, Debts wither ’em to nothing; be men like blasted woods, And may diseases lick up their false bloods. And so farewell, and thrive. |
+| [[Flavius|FLAVIUS]] | O, let me stay And comfort you, my master. |
+| [[Timon|TIMON]] | If thou hat’st curses, Stay not. Fly whilst thou art blest and free. Ne’er see thou man, and let me ne’er see thee. Exeunt [[Timon]] into his [[Cave|cave]], [[Flavius]] another way |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--01_exchange_dialogue" data-title="Timon of Athens — Act V, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Trumpets sound. Enter [[Alcibiades]] with his powers, before Athens |
+| [[Alcibiades|ALCIBIADES]] | Sound to this coward and lascivious town Our terrible approach. A parley sounds. The Senators appear upon the walls |
+| [[Alcibiades|ALCIBIADES]] | Till now you have gone on and filled the [[Time|time]] |
+| [[Alcibiades|ALCIBIADES]] | With all licentious measure, making your wills The scope of justice. Till now myself and such As slept within the [[Shadow|shadow]] of your power Have wandered with our traversed arms, and breathed Our sufferance vainly. Now the [[Time|time]] is flush When crouching marrow, in the bearer strong, Cries of itself ‘No more’; now breathless wrong Shall sit and pant in your great chairs of ease, And pursy insolence shall break his [[Wind|wind]] With [[Fear|fear]] and horrid flight. |
+| FIRST SENATOR | Noble and young, When thy first griefs were but a mere conceit, Ere thou hadst power or we had cause of [[Fear|fear]], We sent to thee to give thy rages balm, To wipe out our ingratitude with loves Above their quantity. |
+| SECOND SENATOR | So did we woo Transformed [[Timon]] to our [[City|city]]’s [[Love|love]] By humble message and by promised means. We were not all unkind, nor all deserve The common stroke of war. |
+| FIRST SENATOR | These walls of ours Were not erected by their hands from whom You have received your grief; nor are they such That these great tow’rs, trophies, and schools should fall For private faults in them. |
+| SECOND SENATOR | Nor are they living Who were the motives that you first went out. Shame that they wanted cunning, in excess, Hath broke their hearts. March, noble lord, Into our [[City|city]] with thy banners spread. By decimation and a tithed [[Death|death]], If thy revenges hunger for that food Which [[Nature|nature]] loathes, take thou the destined tenth, And by the hazard of the spotted die Let die the spotted. |
+| FIRST SENATOR | All have not offended. For those that were, it is not square to take, On those that are, revenges. Crimes like lands Are not inherited. Then, dear countryman, Bring in thy ranks, but leave without thy rage. Spare thy Athenian cradle and those kin Which, in the bluster of thy wrath, must fall With those that have offended. Like a shepherd Approach the fold and cull th’infected forth, But kill not all together. |
+| SECOND SENATOR | What thou wilt, Thou rather shalt enforce it with thy smile Than hew to’t with thy [[Sword|sword]]. |
+| FIRST SENATOR | Set but thy foot Against our rampired gates and they shall ope, So thou wilt send thy gentle heart before To say thou’lt enter friendly. |
+| SECOND SENATOR | Throw thy glove, Or any token of thine [[Honour|honour]] else, That thou wilt use the wars as thy redress, And not as our confusion. All thy powers Shall make their harbour in our town till we Have sealed thy full [[Desire|desire]]. |
+| [[Alcibiades|ALCIBIADES]] | throwing up a glove Then there’s my glove. Descend, and open your uncharged ports. Those enemies of [[Timon]]’s and mine own Whom you yourselves shall set out for reproof Fall, and no more; and to atone your fears With my more noble meaning, not a man Shall pass his quarter or offend the stream Of regular justice in your [[City|city]]’s bounds But shall be remedied to your public laws At heaviest answer. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--02_exchange_both_senators" data-title="Timon of Athens — Act V, Scene 5 — exchange (BOTH SENATORS) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| BOTH SENATORS | ’Tis most nobly spoken. |
+| [[Alcibiades|ALCIBIADES]] | Descend, and keep your words. Trumpets sound. Exeunt Senators from the walls. Enter Soldier, with a tablet of wax |
+| SOLDIER | My noble general, [[Timon]] is dead, Entombed upon the very hem o’th’ sea; And on his gravestone this insculpture, which With wax I brought away, whose soft impression Interprets for my poor ignorance. [[Alcibiades]] reads the epitaph |
+| [[Alcibiades|ALCIBIADES]] | ‘Here lies a wretched corpse, Of wretched [[Soul|soul]] bereft. Seek not my name. A plague consume You wicked caitiffs left! Here lie I, [[Timon]], who alive All living men did hate. Pass by and curse thy fill, but pass And stay not here thy gait.’ These [[Well|well]] express in thee thy latter spirits. Though thou abhorred‘st in us our human griefs, Scorned’st our brains’ flow and those our droplets which From niggard [[Nature|nature]] fall, yet rich conceit Taught thee to make vast Neptune weep for aye On thy low [[Grave|grave]], on faults forgiven. Dead Is noble [[Timon]], of whose [[Memory|memory]] Hereafter more. Enter Senators through the gates Bring me into your [[City|city]], And I will use the olive with my [[Sword|sword]], Make war breed peace, make peace stint war, make each Prescribe to other as each other’s leech. Let our drums strike. Drums. Exeunt through the gates |
+| BY WILLIAM SHAKESPEARE | (ADAPTED BY THOMAS MIDDLETON) |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--03_monologue_shortly" data-title="Timon of Athens — Act V, Scene 5 — monologue (SHORTLY) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SHORTLY | after James VI of Scotland succeeded to the English throne, in 1603, he gave his patronage to Shakespeare’s company; the Lord Chamberlain’s Men became the [[King]]’s Men, entering into a special relationship with their sovereign. [[Macbeth]] is the play of Shakespeare’s that most clearly reflects this relationship. James regarded the virtuous and noble [[Banquo]], [[Macbeth]]’s comrade at the start of the action, as his direct ancestor; eight Stuart kings were said to have preceded James, just as, in the play, [[Banquo]] points to ‘a show of eight kings’ as his descendants (4.1.127.1-140); and in the play the English [[King|king]] (historically Edward the Confessor) is praised for the capacity, on which James also prided himself, to cure ’the [[King|king]]’s evil’ (scrofula). [[Macbeth]] is obviously a Jacobean play, composed probably in 1606. But the first printed text, in the 1623 Folio, shows signs of having been adapted at a later date. It is exceptionally short by comparison with Shakespeare’s other tragedies; and it includes episodes which there is good reason to believe are not by Shakespeare. Most conspicuous are Act 3, Scene 5 and parts of Act 4, Scene I: 38.I-60 and 141-8.1. These episodes feature Hecate, who does not appear elsewhere in the play; they are composed largely in octosyllabic couplets in a style conspicuously different from the rest of the play; and they call for the performance of two [[songs]] that are found in The [[Witch]], a play of uncertain date by Thomas Middleton. Probably Middleton himself adapted Shakespeare’s play some years after its first performance, adding these and more localized details, and cutting the play elsewhere. We do not attempt to excise passages most clearly written by Middleton, because the adapter’s hand almost certainly affected the text at other, less determinable points. The Folio text of [[Macbeth]] cites only the opening words of the [[songs]]; drawing on The [[Witch]], we attempt a reconstruction of their staging in [[Macbeth]]. Shakespeare took materials for his story from the account in Raphael Holinshed’s Chronicle of the reigns of [[Duncan]] and [[Macbeth]] (AD 1034-57). Occasionally (especially in the English episodes of Act 4, Scene 2) he closely followed Holinshed’s wording, but essentially the play’s structure is his own. He invented the framework of the [[Three Witches|three witches]] who tempted both [[Macbeth]] and [[Banquo]] with prophecies of [[Greatness|greatness]]. His [[Macbeth]] is both more introspective and more intensely evil than the competent warrior-[[King|king]] portrayed by Holinshed; conversely, Shakespeare made [[Duncan]], the [[King|king]] whom [[Macbeth]] murders, far more venerable and saintly. Some of the play’s features, notably the character of [[Lady Macbeth]], originate in Holinshed’s account of the murder of an earlier Scottish [[King|king]], Duff; he was killed in his [[Castle|castle]] at Forres by Donwald, who had been ‘set on’ by his wife. [[Macbeth]] is an exciting story of witchcraft, murder, and retribution that can also be seen as a study in the [[philosophy]] and psychology of evil. The witches are not easily made credible in modern performances, and Shakespeare seems deliberately to have drained colour away from some parts of his composition in order to concentrate attention on [[Macbeth]] and his Lady. It is [[Macbeth]]’s neurotic [[Self|self]]-absorption, his [[Fear|fear]], his anger, and his [[Despair|despair]], along with his wife’s steely determination, her invoking of the powers of evil, and her eventual revelation in [[Sleep|sleep]] of her repressed humanity, that have given the play its long-proven power to fascinate readers and to challenge performers. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--04_exchange_the_persons_of_the_play" data-title="Timon of Athens — Act V, Scene 5 — exchange (THE PERSONS OF THE PLAY) [4]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY |
+| [[King|KING]] [[Duncan|DUNCAN]] | of Scotland |
+| *(didascalia)* | A |
+| CAPTAIN | in [[Duncan]]’s army [[Macbeth|MACBETH]], Thane of Glamis, later Thane of Cawdor, then [[King]] of Scotland |
+| *(didascalia)* | A |
+| PORTER | at [[Macbeth]]’s [[Castle|castle]] Three MURDERERS attending on [[Macbeth]] SEYTON, servant of [[Macbeth]] |
+| LADY | [[Macbeth|MACBETH]], [[Macbeth]]’s wife [[Banquo|BANQUO]], a Scottish thane FLEANCE, his son [[Macduff|MACDUFF]], Thane of Fife |
+| LADY | [[Macduff|MACDUFF]], his wife |
+| [[Macduff|MACDUFF]]’S SON | SIWARD, [[Earl of Northumberland]] |
+| YOUNG | SIWARD, his son An English DOCTOR |
+| *(didascalia)* | HECATE, [[Queen]] of the Witches Six |
+| WITCHES | Three APPARITIONS, one an armed head, one a bloody [[Child|child]], one a [[Child|child]] crowned |
+| *(didascalia)* | A |
+| SPIRIT LIKE | A CAT Other SPIRITS |
+| *(didascalia)* | An |
+| *(didascalia)* | A |
+| SERVANTS | A show of eight kings; Lords and Thanes, attendants, soldiers, drummers |
+
+
 
 
 <span class="atom-split" data-atom="timon_of_athens" data-title="TIMON OF ATHENS" data-chapter="" data-kind="intro"></span>
@@ -1100,855 +1949,6 @@ The Life of [[Timon]] of Athens
 | LADY | [[Macduff|MACDUFF]], his wife |
 | [[Macduff|MACDUFF]]’S SON | SIWARD, [[Earl of Northumberland]] |
 | YOUNG | SIWARD, his son<br>An English DOCTOR<br><br>HECATE, [[Queen]] of the Witches<br>Six WITCHES<br>Three APPARITIONS, one an armed head, one a bloody [[Child|child]], one<br>a [[Child|child]] crowned<br>A SPIRIT LIKE A CAT<br>Other SPIRITS<br><br>An OLD MAN<br>A MESSENGER |
-| SERVANTS | A show of eight kings; Lords and Thanes, attendants, soldiers, drummers |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Timon of Athens — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Poet at one door, Painter carrying a picture [at another door], [followed by] Jeweller, Merchant, and Mercer, at several doors |
-| POET | Good day, sir. |
-| PAINTER | I am glad you’re [[Well|well]]. |
-| POET | I have not seen you long. How goes the world? |
-| PAINTER | It wears, sir, as it grows. |
-| POET | Ay, that’s [[Well|well]] known. But what particular rarity, what strange, Which manifold record not matches?—See, [[Magic]] of bounty, all these spirits thy power Hath conjured to attend. Merchant and Jeweller meet. Mercer passes over |
-| *(didascalia)* | the stage, and exits I know the merchant. |
-| PAINTER | I know them both. Th’other’s a jeweller. |
-| MERCHANT | (to Jeweller) O, ’tis a worthy lord! |
-| JEWELLER | Nay, that’s most fixed. |
-| MERCHANT | A most incomparable man, breathed, as it were, To an untirable and continuate goodness. He passes. |
-| JEWELLER | (showing a [[Jewel|jewel]]) I have a [[Jewel|jewel]] here. |
-| MERCHANT | O, pray, let’s see’t. For the Lord [[Timon]], sir? |
-| JEWELLER | If he will touch the estimate. But for that— |
-| POET | (to himself) ‘When we for recompense have praised the vile, It stains the glory in that happy verse Which aptly sings the good.’ |
-| MERCHANT | (to Jeweller) ’Tis a good form. |
-| JEWELLER | And rich. Here is a [[Water|water]], look ye. |
-| PAINTER | (to Poet) You are rapt, sir, in some work, some dedication To the great lord. |
-| POET | A thing slipped idly from me. Our poesy is as a gum which oozes From whence ‘tis nourished. The [[Fire|fire]] i’th’ flint Shows not till it be struck; our gentle flame Provokes itself, and like the current flies Each bound it chafes. What have you there? |
-| PAINTER | A picture, sir. When comes your book forth? |
-| POET | Upon the heels of my presentment, sir. Let’s see your piece. |
-| PAINTER | (showing the picture) ’Tis a good piece. |
-| POET | So ’tis. This comes off [[Well|well]] and excellent. |
-| PAINTER | Indifferent. |
-| POET | Admirable. How this grace Speaks his own standing! What a mental power This eye shoots forth! How big [[Imagination|imagination]] Moves in this lip! To th’ dumbness of the gesture One might interpret. |
-| PAINTER | It is a pretty mocking of the life. Here is a touch; is’t good? |
-| POET | I will say of it, It tutors [[Nature|nature]]. Artificial strife Lives in these touches livelier than life. Enter certain Senators |
-| PAINTER | How this lord is followed! |
-| POET | The senators of Athens. Happy man! |
-| PAINTER | Look, more. The Senators pass over the stage, and exeunt] |
-| POET | You see this confluence, this great flood of visitors. I have in this rough work shaped out a man Whom this beneath world doth embrace and hug With amplest entertainment. My free drift Halts not particularly, but moves itself In a wide sea of tax. No levelled malice Infects one comma in the course I hold, But flies an eagle flight, bold and forth on, Leaving no tract behind. |
-| PAINTER | How shall I understand you? |
-| POET | I will unbolt to you. You see how all conditions, how all minds, As [[Well|well]] of glib and slipp’ry creatures as Of [[Grave|grave]] and austere quality, tender down Their service to Lord [[Timon]]. His large fortune, Upon his good and gracious [[Nature|nature]] hanging, Subdues and properties to his [[Love|love]] and tendance All sorts of hearts; yea, from the glass-faced flatterer To [[Apemantus]], that few things loves better Than to abhor himself; even he drops down The knee before him, and returns in peace, Most rich in [[Timon]]’s nod. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_exchange_painter_i" data-title="Timon of Athens — Act I, Scene 1 — exchange (PAINTER I) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PAINTER | I saw them speak together. |
-| POET | Sir, I have upon a high and pleasant [[Hill|hill]] Feigned Fortune to be throned. The base o’th’ mount Is ranked with all deserts, all kind of natures That labour on the bosom of this sphere To propagate their states. Amongst them all Whose eyes are on this sovereign lady fixed One do I personate of Lord [[Timon]]’s frame, Whom Fortune with her ivory hand wafts to her, Whose present grace to present slaves and servants Translates his rivals. |
-| PAINTER | ’Tis conceived to scope. This throne, this Fortune, and this [[Hill|hill]], methinks, With one man beckoned from the rest below, Bowing his head against the steepy mount To climb his happiness, would be [[Well|well]] expressed In our condition. |
-| POET | Nay, sir, but hear me on. All those which were his fellows but of late, Some better than his value, on the moment Follow his strides, his lobbies fill with tendance, Rain sacrificial whisperings in his ear, Make sacred even his stirrup, and through him Drink the free air. |
-| PAINTER | Ay, marry, what of these? |
-| POET | When Fortune in her shift and change of mood Spurns down her late beloved, all his dependants, Which laboured after him to the mountain’s top Even on their knees and hands, let him fall down, Not one accompanying his declining foot. |
-| PAINTER | ’Tis common. A thousand moral paintings I can show That shall demonstrate these quick blows of Fortune’s More pregnantly than words. Yet you do [[Well|well]] To show Lord [[Timon]] that mean eyes have seen The foot above the head. Trumpets sound. Enter [[Timon]] [wearing a rich |
-| PAINTER | jewell, with a Messenger from Ventidius; Lucilius |
-| *(didascalia)* | and other Servants] attending. [[Timon]] addresses |
-| PAINTER | himself courteously to every suitor, then speaks to |
-| PAINTER | the Messenger |
-| [[Timon|TIMON]] | Imprisoned is he, say you? |
-| MESSENGER | Ay, my good lord. Five talents is his debt, His means most short, his creditors most strait. Your honourable letter he desires To those have shut him up, which failing, Periods his comfort. |
-| [[Timon|TIMON]] | Noble Ventidius! [[Well]], I am not of that feather to shake off My friend when he must need me. I do know him A gentleman that [[Well|well]] deserves a help, Which he shall have. I’ll pay the debt and free him. |
-| MESSENGER | Your lordship ever binds him. |
-| [[Timon|TIMON]] | Commend me to him. I will send his ransom; And, being enfranchised, bid him come to me. ’Tis not enough to help the feeble up, But to support him after. Fare you [[Well|well]]. |
-| MESSENGER | All happiness to your [[Honour|honour]]. Exit Enter an Old Athenian |
-| OLD ATHENIAN | Lord [[Timon]], hear me speak. |
-| [[Timon|TIMON]] | Freely, good father. |
-| OLD ATHENIAN | Thou hast a servant named Lucilius. |
-| [[Timon|TIMON]] | I have so. What of him? |
-| OLD ATHENIAN | Most noble [[Timon]], call the man before thee. |
-| [[Timon|TIMON]] | Attends he here or no? Lucilius! |
-| LUCILIUS | (coming forward) Here at your lordship’s service. |
-| OLD ATHENIAN | This fellow here, Lord [[Timon]], this thy creature, By [[Night|night]] frequents my [[house]]. I am a man That from my first have been inclined to thrift, And my estate deserves an heir more raised Than one which holds a trencher. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_exchange_timon" data-title="Timon of Athens — Act I, Scene 1 — exchange (TIMON) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Timon|TIMON]] | [[Well]], what further? |
-| OLD ATHENIAN | One only daughter have I, no kin else On whom I may confer what I have got. The maid is fair, o’th’ youngest for a bride, And I have bred her at my dearest cost In qualities of the best. This man of thine Attempts her [[Love|love]]. I prithee, noble lord, Join with me to forbid him her resort. Myself have spoke in vain. |
-| [[Timon|TIMON]] | The man is honest. |
-| OLD ATHENIAN | Therefore he will be, [[Timon]]. His honesty rewards him in itself; It must not bear my daughter. |
-| [[Timon|TIMON]] | Does she [[Love|love]] him? |
-| OLD ATHENIAN | She is young and apt. Our own precedent passions do instruct us What levity’s in youth. |
-| [[Timon|TIMON]] | (to Lucilius) [[Love]] you the maid? |
-| LUCILIUS | Ay, my good lord, and she accepts of it. |
-| OLD ATHENIAN | If in her [[Marriage|marriage]] my consent be missing, I call the gods to witness, I will choose Mine heir from forth the beggars of the world, And dispossess her all. |
-| [[Timon|TIMON]] | How shall she be endowed If she be mated with an equal husband? |
-| OLD ATHENIAN | Three talents on the present; in future, all. |
-| [[Timon|TIMON]] | This gentleman of mine hath served me long. To build his fortune I will strain a little, For ’tis a bond in men. Give him thy daughter. What you bestow in him I’ll counterpoise, And make him weigh with her. |
-| OLD ATHENIAN | Most noble lord, Pawn me to this your [[Honour|honour]], she is his. |
-| [[Timon|TIMON]] | My hand to thee; mine [[Honour|honour]] on my promise. |
-| LUCILIUS | Humbly I thank your lordship. Never may That state or fortune fall into my keeping Which is not owed to you. Exeunt Lucilius and Old Athenian |
-| POET | (presenting a poem to [[Timon]]) Vouchsafe my labour, and long live your lordship! |
-| [[Timon|TIMON]] | I thank you. You shall hear from me anon. Go not away. (To Painter) What have you there, my friend? |
-| PAINTER | A piece of painting, which I do beseech Your lordship to accept. |
-| [[Timon|TIMON]] | Painting is welcome. The painting is almost the natural man; For since dishonour traffics with man’s [[Nature|nature]], He is but outside; these pencilled figures are Even such as they give out. I like your work, And you shall find I like it. Wait attendance Till you hear further from me. |
-| PAINTER | The gods preserve ye! |
-| [[Timon|TIMON]] | [[Well]] fare you, gentleman. Give me your hand. We must needs dine together. (To Jeweller) Sir, your [[Jewel|jewel]] Hath suffered under praise. |
-| JEWELLER | What, my lord, dispraise? |
-| [[Timon|TIMON]] | A mere satiety of commendations. If I should pay you for’t as ’tis extolled It would unclew me quite. |
-| JEWELLER | My lord, ’tis rated As those which sell would give; but you [[Well|well]] know Things of like value differing in the owners Are prized by their masters. Believe’t, dear lord, You mend the [[Jewel|jewel]] by the wearing it. |
-| [[Timon|TIMON]] | [[Well]] mocked. |
-| MERCHANT | No, my good lord, he speaks the common tongue Which all men speak with him. Enter [[Apemantus]] |
-| [[Timon|TIMON]] | Look who comes here. Will you be chid? |
-| JEWELLER | We will bear, with your lordship. |
-| MERCHANT | He’ll spare none. |
-| [[Timon|TIMON]] | Good morrow to thee, gentle [[Apemantus]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_exchange_apemantus" data-title="Timon of Athens — Act I, Scene 1 — exchange (APEMANTUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Apemantus|APEMANTUS]] | Till I be gentle, stay thou for thy good morrow— When thou art [[Timon]]’s dog, and these knaves honest. |
-| [[Timon|TIMON]] | Why dost thou call them knaves? Thou know’st them not. |
-| [[Apemantus|APEMANTUS]] | Are they not Athenians? |
-| [[Timon|TIMON]] | Yes. |
-| [[Apemantus|APEMANTUS]] | Then I repent not. |
-| JEWELLER | You know me, [[Apemantus]]? |
-| [[Apemantus|APEMANTUS]] | Thou know’st I do. I called thee by thy name. |
-| [[Timon|TIMON]] | Thou art proud, [[Apemantus]]! |
-| [[Apemantus|APEMANTUS]] | Of nothing so much as that I am not like [[Timon]]. |
-| [[Timon|TIMON]] | Whither art going? |
-| [[Apemantus|APEMANTUS]] | To knock out an honest Athenian’s brains. |
-| [[Timon|TIMON]] | That’s a deed thou’It die for. |
-| [[Apemantus|APEMANTUS]] | Right, if doing nothing be [[Death|death]] by th’ law. |
-| [[Timon|TIMON]] | How likest thou this picture, [[Apemantus]]? |
-| [[Apemantus|APEMANTUS]] | The best for the [[innocence]]. |
-| [[Timon|TIMON]] | Wrought he not [[Well|well]] that painted it? |
-| [[Apemantus|APEMANTUS]] | He wrought better that made the painter, and yet he’s but a filthy piece of work. |
-| PAINTER | You’re a dog. |
-| [[Apemantus|APEMANTUS]] | Thy mother’s of my generation. What’s she, if I be a dog? |
-| [[Timon|TIMON]] | Wilt dine with me, [[Apemantus]]? |
-| [[Apemantus|APEMANTUS]] | No, I eat not lords. |
-| [[Timon|TIMON]] | An thou shouldst, thou’dst anger ladies. |
-| [[Apemantus|APEMANTUS]] | O, they eat lords. So they come by great bellies. |
-| [[Timon|TIMON]] | That’s a lascivious apprehension. |
-| [[Apemantus|APEMANTUS]] | So thou apprehend’st it; take it for thy labour. |
-| [[Timon|TIMON]] | How dost thou like this [[Jewel|jewel]], [[Apemantus]]? |
-| [[Apemantus|APEMANTUS]] | Not so [[Well|well]] as plain dealing, which will not cost a man a doit. |
-| [[Timon|TIMON]] | What dost thou think ’tis worth? |
-| [[Apemantus|APEMANTUS]] | Not worth my thinking. How now, poet? |
-| POET | How now, philosopher? |
-| [[Apemantus|APEMANTUS]] | Thou liest. |
-| POET | Art not one? |
-| [[Apemantus|APEMANTUS]] | Yes. |
-| POET | Then I lie not. |
-| [[Apemantus|APEMANTUS]] | Art not a poet? |
-| POET | Yes. |
-| [[Apemantus|APEMANTUS]] | Then thou liest. Look in thy last work, where thou hast feigned him a worthy fellow. |
-| POET | That’s not feigned, he is so. |
-| [[Apemantus|APEMANTUS]] | Yes, he is worthy of thee, and to pay thee for thy labour. He that loves to be flattered is worthy o’th’ flatterer. Heavens, that I were a lord! |
-| [[Timon|TIMON]] | What wouldst do then, [[Apemantus]]? |
-| [[Apemantus|APEMANTUS]] | E’en as [[Apemantus]] does now: hate a lord with my heart. |
-| [[Timon|TIMON]] | What, thyself? |
-| [[Apemantus|APEMANTUS]] | Ay. |
-| [[Timon|TIMON]] | Wherefore? |
-| [[Apemantus|APEMANTUS]] | That I had no augury but to be a lord.-Art not thou a merchant? |
-| MERCHANT | Ay, [[Apemantus]]. |
-| [[Apemantus|APEMANTUS]] | Traffic confound thee, if the gods will not! |
-| MERCHANT | If traffic do it, the gods do it. |
-| [[Apemantus|APEMANTUS]] | Traffic’s thy god, and thy god confound thee! Trumpet sounds. Enter a Messenger |
-| [[Timon|TIMON]] | What trumpet’s that? |
-| MESSENGER | ’Tis [[Alcibiades]], and some twenty [[Horse|horse]] All of companionship. |
-| [[Timon|TIMON]] | (to Servants) Pray entertain them. Give them guide to us. [Exit one or more Servants] [To Jeweller] You must needs dine with me. [To Poet] Go not you hence Till I have thanked you. [To Painter] When dinner’s done Show me this piece. [To all] I am joyful of your sights. Enter [[Alcibiades]] with [his horsemen] Most welcome, sir! |
-| [[Apemantus|APEMANTUS]] | [aside] So, so, there. Aches contract and starve your supple joints! That there should be small [[Love|love]] ’mongst these sweet knaves, And all this courtesy! The strain of man’s bred out Into baboon and monkey. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--05_exchange_alcibiades" data-title="Timon of Athens — Act I, Scene 1 — exchange (ALCIBIADES) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Alcibiades|ALCIBIADES]] | (to [[Timon]]) Sir, you have saved my [[Longing|longing]], and I feed Most hungrily on your sight. |
-| [[Timon|TIMON]] | Right welcome, sir! Ere we depart, we’ll share a bounteous [[Time|time]] In different pleasures. Pray you, let us in. Exeunt all but [[Apemantus]] Enter two Lords |
-| FIRST LORD | What [[Time|time]] o’ day is’t, [[Apemantus]]? |
-| [[Apemantus|APEMANTUS]] | [[Time]] to be honest. |
-| FIRST LORD | That [[Time|time]] serves still. |
-| [[Apemantus|APEMANTUS]] | The most accursed thou, that still omitt’st it. |
-| SECOND LORD | Thou art going to Lord [[Timon]]’s feast? |
-| [[Apemantus|APEMANTUS]] | Ay, to see meat fill knaves, and wine heat fools. |
-| SECOND LORD | Fare thee [[Well|well]], fare thee [[Well|well]]. |
-| [[Apemantus|APEMANTUS]] | Thou art a [[Fool|fool]] to bid me farewell twice. |
-| SECOND LORD | Why, [[Apemantus]]? |
-| [[Apemantus|APEMANTUS]] | Shouldst have kept one to thyself, for I mean to give thee none. |
-| FIRST LORD | Hang thyself |
-| [[Apemantus|APEMANTUS]] | No, I will do nothing at thy bidding. Make thy requests to thy friend. |
-| SECOND LORD | Away, unpeaceable dog, or I’ll spurn thee hence. |
-| [[Apemantus|APEMANTUS]] | I will fly, like a dog, the heels o’th’ ass. Exit |
-| FIRST LORD | He’s opposite to humanity. Come, shall we in, And taste Lord [[Timon]]’s bounty? He outgoes The very heart of kindness. |
-| SECOND LORD | He pours it out. Plutus the god of gold Is but his steward; no meed but he repays Sevenfold above itself; no gift to him But breeds the giver a return exceeding All use of quittance. |
-| FIRST LORD | The noblest mind he carries That ever governed man. |
-| SECOND LORD | Long may he live in fortunes! Shall we in? FIRST LORD I’ll keep you company. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="Timon of Athens — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Hautboys playing loud music. A great banquet served in, [[Flavius]] and Servants attending; and then enter [[Timon]], [[Alcibiades]], the Senators, the Athenian Lords, and Ventidius which [[Timon]] redeemed from [[Prison|prison]]. Then comes, dropping after all, [[Apemantus]], discontentedly, like himself |
-| VENTIDIUS | Most honoured [[Timon]], it hath pleased the gods to remember My father’s age and call him to long peace. He is gone happy, and has left me rich. Then, as in grateful virtue I am bound To your free heart, I do return those talents, Doubled with thanks and service, from whose help I derived liberty. |
-| [[Timon|TIMON]] | O, by no means, Honest Ventidius. You mistake my [[Love|love]]. I gave it freely ever, and there’s none Can truly say he gives if he receives. If our betters play at that game, we must not dare To imitate them. Faults that are rich are fair. |
-| VENTIDIUS | A noble spirit! The Lords stand with ceremony |
-| [[Timon|TIMON]] | Nay, my lords, Ceremony was but devised at first To set a gloss on faint deeds, hollow welcomes, Recanting goodness, sorry ere ’tis shown; But where there is true [[Friendship|friendship]], there needs none. Pray sit. More welcome are ye to my fortunes Than my fortunes to me. They sit |
-| FIRST LORD | My lord, we always have confessed it. |
-| [[Apemantus|APEMANTUS]] | Ho, ho, confessed it? Hanged it, have you not? |
-| [[Timon|TIMON]] | O, [[Apemantus]]! You are welcome. |
-| [[Apemantus|APEMANTUS]] | No, You shall not make me welcome. I come to have thee thrust me out of doors. |
-| [[Timon|TIMON]] | Fie, thou‘rt a churl. Ye’ve got a [[Humour|humour]] there Does not become a man; ’tis much to blame. They say, my lords, Ira furor brevis est, |
-| [[Timon|TIMON]] | But yon man is ever angry. Go, let him have a table by himself, For he does neither affect company Nor is he fit for’t, indeed. |
-| [[Apemantus|APEMANTUS]] | Let me stay at thine apperil, [[Timon]]. I come to observe, I give thee warning on’t. |
-| [[Timon|TIMON]] | I take no heed of thee; thou’rt an Athenian, Therefore welcome. I myself would have no power: Prithee, let my meat make thee silent. |
-| [[Apemantus|APEMANTUS]] | I scorn thy meat. ‘Twould choke me, for I should ne’er flatter thee. O you gods, what a number of men eats [[Timon]], and he sees ‘em not! It grieves me to see so many dip their meat in one man’s [[Blood|blood]]; and all the [[Madness|madness]] is, he cheers them up, too. I [[Wonder|wonder]] men dare trust themselves with men. Methinks they should invite them without knives: Good for their meat, and safer for their lives. There’s much example for’t. The fellow that sits next him, now parts bread with him, pledges the breath of him in a divided draught, is the readiest man to kill him. ’T’as been proved. If I were a huge man, I should [[Fear|fear]] to drink at meals, Lest they should spy my windpipe’s dangerous notes. Great men should drink with harness on their throats. |
-| [[Timon|TIMON]] | (drinking to a Lord) My lord, in heart; and let the health go round. |
-| SECOND LORD | Let it flow this way, my good lord. |
-| [[Apemantus|APEMANTUS]] | ‘Flow this way’? A brave fellow; he keeps his tides [[Well|well]]. Those healths will make thee and thy state look ill, [[Timon]]. Here’s that which is too weak to be a sinner: Honest [[Water|water]], which ne‘er left man i’th’ mire. This and my food are equals; there’s no odds. Feasts are too proud to give thanks to the gods. [[Apemantus]]’ grace |
-| *(didascalia)* | Immortal gods, I crave no pelf. I pray for no man but myself. Grant I may never prove so fond To trust man on his oath or bond, Or a harlot for her weeping, Or a dog that seems a-sleeping, Or a keeper with my [[Freedom|freedom]], Or my friends if I should need ’em. Amen. So fall to’t. Rich men sin, and I eat root. He eats Much good dich thy good heart, [[Apemantus]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--02_exchange_timon" data-title="Timon of Athens — Act I, Scene 2 — exchange (TIMON) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Timon|TIMON]] | Captain [[Alcibiades]], your heart’s in the field now. |
-| [[Alcibiades|ALCIBIADES]] | My heart is ever at your service, my lord. |
-| [[Timon|TIMON]] | You had rather be at a breakfast of enemies than a dinner of friends. |
-| ALCISIADES | So they were bleeding new, my lord; there’s no meat like ’em. I could wish my best friend at such a feast. |
-| [[Apemantus|APEMANTUS]] | Would all those flatterers were thine enemies then, That thou mightst kill ‘em and bid me to ’em. |
-| FIRST LORD | (to [[Timon]]) Might we but have that happiness, my lord, that you would once use our hearts, whereby we might express some part of our zeals, we should think ourselves for ever perfect. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--03_monologue_timon" data-title="Timon of Athens — Act I, Scene 2 — monologue (TIMON) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Timon|TIMON]] | O, no [[Doubt|doubt]], my good friends, but the gods themselves have provided that I shall have much help from you. How had you been my friends else? Why have you that charitable title from thousands, did not you chiefly belong to my heart? I have told more of you to myself than you can with modesty speak in your own behalf; and thus far I confirm you. ‘O you gods,’ think I, ‘what need we have any friends if we should ne’er have need of ‘em? They were the most needless creatures living, should we ne’er have use for ‘em, and would most resemble sweet instruments hung up in cases, that keeps their sounds to themselves.’ Why, I have often wished myself poorer, that I might come nearer to you. We are born to do benefits; and what better or properer can we call our own than the riches of our friends? O, what a precious comfort ‘tis to have so many like brothers commanding one another’s fortunes! O, joy’s e’en made away ere’t can be born: mine eyes cannot hold out [[Water|water]], methinks. To forget their faults, I drink to you. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--04_exchange_apemantus" data-title="Timon of Athens — Act I, Scene 2 — exchange (APEMANTUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Apemantus|APEMANTUS]] | Thou weep’st to make them drink, [[Timon]]. |
-| SECOND LORD | (to [[Timon]]) Joy had the like conception in our eyes, And at that instant like a babe sprung up. |
-| [[Apemantus|APEMANTUS]] | Ho, ho, I laugh to think that babe a bastard. |
-| THIRD LORD | (to [[Timon]]) I promise you, my lord, you moved me much. |
-| [[Apemantus|APEMANTUS]] | Much! A tucket sounds within |
-| [[Timon|TIMON]] | What means that trump? Enter a Servant How now? |
-| SERVANT | Please you, my lord, there are certain ladies most desirous of admittance. |
-| [[Timon|TIMON]] | Ladies? What are their wills? |
-| SERVANT | There comes with them a forerunner, my lord, which bears that office to signify their pleasures. |
-| [[Timon|TIMON]] | I pray let them be admitted. Enter one as Cupid |
-| CUPID | Hail to thee, worthy [[Timon]], and to all That of his bounties taste! The five best senses Acknowledge thee their patron, and come freely To gratulate thy plenteous bosom. Th’ear, Taste, touch, smell, all, pleased from thy table rise. They only now come but to feast thine eyes. |
-| [[Timon|TIMON]] | They’re welcome all. Let ’em have kind admittance. Music make their welcome! Exit Cupid FIRST LORD You see, my lord, how ample you’re beloved. Music. Enter a [[Masque|masque]] of Ladies as Amazons, with lutes in their hands, dancing and playing |
-| [[Apemantus|APEMANTUS]] | Hey-day, what a sweep of [[Vanity|vanity]] comes this way! They [[Dance|dance]]? They are madwomen. Like [[Madness|madness]] is the glory of this life As this pomp shows to a little oil and root. We make ourselves fools to disport ourselves, And spend our flatteries to drink those men Upon whose age we void it up again With poisonous spite and envy. Who lives that’s not depraved or depraves? Who dies that bears not one spurn to their graves Of their friends’ gift? I should [[Fear|fear]] those that [[Dance|dance]] before me now Would one day stamp upon me. ’T’as been done. Men shut their doors against a setting sun. The Lords rise from table with much adoring of |
-| [[Apemantus|APEMANTUS]] | [[Timon]]; and to show their loves each singles out an |
-| [[Apemantus|APEMANTUS]] | Amazon, and all [[Dance|dance]], men with women, a lofty |
-| [[Apemantus|APEMANTUS]] | strain or two to the hautboys; and cease |
-| [[Timon|TIMON]] | You have done our pleasures much grace, fair ladies, Set a fair fashion on our entertainment, Which was not half so beautiful and kind. You have added worth unto’t and lustre, And entertained me with mine own device. I am to thank you for’t. |
-| FIRST | LADY My lord, you take us even at the best. |
-| [[Apemantus|APEMANTUS]] | [[Faith]]; for the worst is filthy, and would not hold taking, I [[Doubt|doubt]] me. |
-| [[Timon|TIMON]] | Ladies, there is an idle banquet ’tends you. Please you to dispose yourselves. |
-| ALL LADIES | Most thankfully, my lord. Exeunt Ladies |
-| [[Timon|TIMON]] | [[Flavius]]. |
-| [[Flavius|FLAVIUS]] | My lord. |
-| [[Timon|TIMON]] | The little casket bring me hither. |
-| [[Flavius|FLAVIUS]] | Yes, my lord. (Aside) More jewels yet? There is no crossing him in’s [[Humour|humour]], Else I should tell him [[Well|well]], i‘[[Faith|faith]] I should. When all’s spent, he’d be crossed then, an he could. ’Tis pity bounty had not eyes behind, That man might ne’er be wretched for his mind. Exit |
-| FIRST LORD | Where be our men? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--05_exchange_servant" data-title="Timon of Athens — Act I, Scene 2 — exchange (SERVANT) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SERVANT | Here, my lord, in readiness. |
-| SECOND LORD | Our horses. Exit Servant Enter [[Flavius]] with the casket. He gives it to [[Timon]], and exits |
-| [[Timon|TIMON]] | O my friends, I have one word to say to you. Look you, my good lord, I must entreat you [[Honour|honour]] me so much As to advance this [[Jewel|jewel]]. Accept and wear it, Kind my lord. |
-| FIRST LORD | I am so far already in your gifts. |
-| ALL LORDS | So are we all. [[Timon]] gives them jewels. Enter a Servant |
-| FIRST SERVANT | My lord, there are certain nobles of the senate newly alighted and come to visit you. |
-| [[Timon|TIMON]] | They are fairly welcome. Exit Servant Enter [[Flavius]] |
-| [[Flavius|FLAVIUS]] | I beseech your [[Honour|honour]], vouchsafe me a word; it does concern you near. |
-| [[Timon|TIMON]] | Near? Why then, another [[Time|time]] I’ll hear thee. I prithee, let’s be provided to show them entertainment. |
-| [[Flavius|FLAVIUS]] | I scarce know how. Enter a Second Servant |
-| SECOND SERVANT | May it please your [[Honour|honour]], Lord [[Lucius]] Out of his free [[Love|love]] hath presented to you Four milk-white horses trapped in silver. |
-| [[Timon|TIMON]] | I shall accept them fairly. Let the presents Be worthily entertained. Exit Servant Enter a Third Servant How now, what news? |
-| THIRD SERVANT | Please you, my lord, that honourable gentleman Lord [[Lucullus]] entreats your company tomorrow to hunt with him, and has sent your [[Honour|honour]] two brace of greyhounds. |
-| [[Timon|TIMON]] | I’ll hunt with him, and let them be received Not without fair reward. Exit Servant |
-| [[Flavius|FLAVIUS]] | (aside) What will this come to? He commands us to provide and give great gifts, And all out of an empty coffer; Nor will he know his purse, or yield me this: To show him what a beggar his heart is, Being of no power to make his wishes good. His promises fly so beyond his state That what he speaks is all in debt, he owes For every word. He is so kind that he now Pays interest for’t. His land’s put to their books. [[Well]], would I were gently put out of office Before I were forced out. Happier is he that has no friend to feed Than such that do e’en enemies exceed. I bleed inwardly for my lord. Exit |
-| [[Timon|TIMON]] | (to the Lords) You do yourselves Much wrong, you bate too much of your own merits. (To Second Lord) Here, my lord, a trifle of our [[Love|love]]. |
-| SECOND LORD | With more than common thanks I will receive it. |
-| THIRD LORD | O, he’s the very [[Soul|soul]] of bounty! |
-| [[Timon|TIMON]] | (to First Lord) And now I remember, my lord, you gave good words the other day of a bay courser I rode on. ’Tis yours, because you liked it. |
-| FIRST LORD | O I beseech you pardon me, my lord, in that. |
-| [[Timon|TIMON]] | You may take my word, my lord, I know no man Can justly praise but what he does affect. I weigh my friends’ affection with mine own. I’ll tell you true, I’ll call to you. |
-| ALL LORDS | O, none so welcome. |
-| [[Timon|TIMON]] | I take all and your several visitations So kind to heart, ‘tis not enough to give. Methinks I could deal kingdoms to my friends, And ne’er be weary. [[Alcibiades]], Thou art a soldier, therefore seldom rich. Giving a present It comes in [[Charity|charity]] to thee, for all thy living Is ’mongst the dead, and all the lands thou hast Lie in a pitched field. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--06_exchange_alcibiades" data-title="Timon of Athens — Act I, Scene 2 — exchange (ALCIBIADES) [6]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Alcibiades|ALCIBIADES]] | Ay, defiled land, my lord. |
-| FIRST LORD | We are so virtuously bound— |
-| [[Timon|TIMON]] | And so am I to you. |
-| SECOND LORD | So infinitely endeared— |
-| [[Timon|TIMON]] | All to you. Lights, more lights! |
-| FIRST LORD | The best of happiness, [[Honour|honour]], and fortunes Keep with you, Lord [[Timon]]. |
-| [[Timon|TIMON]] | Ready for his friends. Exeunt all but [[Timon]] and [[Apemantus]] |
-| [[Apemantus|APEMANTUS]] | What a coil’s here, Serving of becks and jutting-out of bums! I [[Doubt|doubt]] whether their legs be worth the sums That are given for ’em. [[Friendship]]’s full of dregs. Methinks false hearts should never have sound legs. Thus honest fools lay out their wealth on curtseys. |
-| [[Timon|TIMON]] | Now, [[Apemantus]], if thou wert not sullen I would be good to thee. |
-| [[Apemantus|APEMANTUS]] | No, I’ll nothing; for if I should be bribed too, there would be none left to rail upon thee, and then thou wouldst sin the faster. Thou giv’st so long, [[Timon]], I [[Fear|fear]] me thou wilt give away thyself in paper shortly. What needs these feasts, pomps, and vainglories? |
-| [[Timon|TIMON]] | Nay, an you begin to rail on society once, I am sworn not to give regard to you. Farewell, and come with better music. Exit |
-| [[Apemantus|APEMANTUS]] SO. | Thou wilt not hear me now, thou shalt not then. I’ll lock thy heaven from thee. O, that men’s ears should be To counsel deaf, but not to flattery! Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="Timon of Athens — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Flavius]], with many bills in his hand |
-| [[Flavius|FLAVIUS]] | No care, no stop; so senseless of expense That he will neither know how to maintain it Nor cease his flow of riot, takes no account How things go from him, nor resumes no care Of what is to continue. Never mind Was to be so unwise to be so kind. What shall be done? He will not hear till feel. A sound of horns within I must be round with him, now he comes from hunting. Fie, fie, fie, fie! Enter Caphis at one door and Servants of Isidore and Varro at another door |
-| CAPHIS | Good even, Varro. What, you come for money? |
-| VARRO’S SERVANT | Is’t not your business too? |
-| CAPHIS | It is; and yours too, Isidore? |
-| ISIDORE’S SERVANT | It is SO. |
-| CAPHIS | Would we were all discharged. |
-| VARRO’S SERVANT | I [[Fear|fear]] it. |
-| CAPHIS | Here comes the lord. Enter [[Timon]] and his train, amongst them [[Alcibiades]], as from hunting |
-| [[Timon|TIMON]] | So soon as dinner’s done we’ll forth again, My [[Alcibiades]]. Caphis meets [[Timon]] With me? What is your will? |
-| CAPHIS | My lord, here is a note of certain dues. |
-| [[Timon|TIMON]] | Dues? Whence are you? |
-| CAPHIS | Of Athens here, my lord. |
-| [[Timon|TIMON]] | Go to my steward. |
-| CAPHIS | Please it your lordship, he hath put me off, To the succession of new days, this month. My master is awaked by great occasion To call upon his own, and humbly prays you That with your other noble parts you’ll suit In giving him his right. |
-| [[Timon|TIMON]] | Mine honest friend, I prithee but repair to me next morning. |
-| CAPHIS | Nay, good my lord. |
-| [[Timon|TIMON]] | Contain thyself, good friend. |
-| VARRO’S SERVANT | One Varro’s servant, my good lord. |
-| ISIDORE’S SERVANT | (to [[Timon]]) From Isidore. He humbly prays your speedy payment. |
-| CAPHIS | (to [[Timon]]) If you did know, my lord, my master’s wants— |
-| VARRO’S SERVANT | (to [[Timon]]) ’Twas due on forfeiture, my lord, six weeks and past. |
-| ISIDORE’S SERVANT | (to [[Timon]]) Your steward puts me off, my lord, and I Am sent expressly to your lordship. |
-| [[Timon|TIMON]] | Give me breath.— I do beseech you, good my lords, keep on. I’ll wait upon you instantly. Exeunt [[Alcibiades]] and [[Timon]]’s train (To [[Flavius]]) Come hither. Pray you, How goes the world, that I am thus encountered With clamorous demands of broken bonds And the detention of long-since-due debts, Against my [[Honour|honour]]? |
-| [[Flavius|FLAVIUS]] | (to Servants) Please you, gentlemen, The [[Time|time]] is unagreeable to this business; Your importunacy cease till after dinner, That I may make his lordship understand Wherefore you are not paid. |
-| [[Timon|TIMON]] | (to Servants) Do so, my friends. (To [[Flavius]]) See them [[Well|well]] entertained. Exit |
-| [[Flavius|FLAVIUS]] | Pray draw near. Exit Enter [[Apemantus]] and [[Fool]] |
-| CAPHIS | Stay, stay, here comes the [[Fool|fool]] with [[Apemantus]]. Let’s ha’ some sport with ’em. |
-| VARRO’S SERVANT | Hang him, he’ll abuse us. |
-| ISIDORE’S SERVANT | A plague upon him, dog! |
-| VARRO’S SERVANT | How dost, [[Fool|fool]]? |
-| [[Apemantus|APEMANTUS]] | Dost dialogue with thy [[Shadow|shadow]]? |
-| VARRO’S SERVANT | I speak not to thee. |
-| [[Apemantus|APEMANTUS]] | No, ’tis to thyself, (To [[Fool]]) Come away. |
-| ISIDORE’S SERVANT | (to Varro’s Servant) There’s the [[Fool|fool]] hangs on your back already. [[Apemantus|APEMANTUs]] No, thou stand‘st single: thou’rt not on him yet. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--02_exchange_caphis" data-title="Timon of Athens — Act II, Scene 2 — exchange (CAPHIS) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CAPHIS | (to Isidore’s Servant) Where’s the [[Fool|fool]] now? |
-| [[Apemantus|APEMANTUS]] | He last asked the question. Poor rogues’ and usurers’ men, bawds between gold and want. |
-| ALL SERVANTS | What are we, [[Apemantus]]? 6 |
-| [[Apemantus|APEMANTUS]] | Asses. |
-| ALL SERVANTS | Why? |
-| [[Apemantus|APEMANTUS]] | That you ask me what you are, and do not know yourselves. Speak to ’em, [[Fool|fool]]. |
-| [[Fool|FOOL]] | How do you, gentlemen? |
-| ALL SERVANTS | Gramercies, good [[Fool|fool]]. How does your mistress? |
-| [[Fool|FOOL]] | She’s e’en setting on [[Water|water]] to scald such chickens as you are. Would we could see you at Corinth. |
-| [[Apemantus|APEMANTUS]] | Good; gramercy. Enter Page with two letters |
-| [[Fool|FOOL]] | Look you, here comes my mistress’ page. |
-| PAGE | Why, how now, captain? What do you in this wise company? How dost thou, [[Apemantus]]? |
-| [[Apemantus|APEMANTUS]] | Would I had a rod in my mouth, that I might answer thee profitably. |
-| PAGE | Prithee, [[Apemantus]], read me the superscription of these letters. I know not which is which. |
-| [[Apemantus|APEMANTUS]] | Canst not read? |
-| PAGE | No. |
-| [[Apemantus|APEMANTUS]] | There will little learning die then that day thou art hanged. This is to Lord [[Timon]], this to [[Alcibiades]]. Go, thou wast born a bastard, and thou’lt die a bawd. |
-| PAGE | Thou wast whelped a dog, and thou shalt famish a dog’s [[Death|death]]. Answer not; I am gone. Exit |
-| [[Apemantus|APEMANTUS]] | E‘en so thou outrunn’st grace. [[Fool]], I will go with you to Lord [[Timon]]’s. |
-| [[Fool|FOOL]] | Will you leave me there? |
-| [[Apemantus|APEMANTUS]] | If [[Timon]] stay at [[Home|home]]. (To Servants) You three serve three usurers? |
-| ALL SERVANTS | Ay. Would they served us. |
-| [[Apemantus|APEMANTUS]] | So would I: as good a trick as ever hangman served thief. |
-| [[Fool|FOOL]] | Are you three usurers’ men? |
-| ALL SERVANTS | Ay, [[Fool|fool]]. 95 |
-| [[Fool|FOOL]] | I think no usurer but has a [[Fool|fool]] to his servant. My mistress is one, and I am her [[Fool|fool]]. When men come to borrow of your masters they approach sadly and go away merry, but they enter my mistress’s [[house]] merrily and go away sadly. The reason of this? |
-| VARRO’S SERVANT | I could render one. |
-| [[Apemantus|APEMANTUS]] | Do it then, that we may account thee a whoremaster and a knave, which notwithstanding thou shalt be no less esteemed. |
-| VARRO’S SERVANT | What is a whoremaster, [[Fool|fool]]? |
-| [[Fool|FOOL]] | A [[Fool|fool]] in good clothes, and something like thee. ’Tis a spirit; sometime ’t appears like a lord, sometime like a lawyer, sometime like a philosopher with two stones more than’s artificial one. He is very often like a knight; and generally in all shapes that man goes up and down in from fourscore to thirteen, this spirit walks in. |
-| VARRO’S SERVANT | Thou art not altogether a [[Fool|fool]]. |
-| [[Fool|FOOL]] | Nor thou altogether a wise man. As much foolery as I have, so much wit thou lack ’st. |
-| [[Apemantus|APEMANTUS]] | That answer might have become [[Apemantus]]. Enter [[Timon]] and [[Flavius]] |
-| ALL SERVANTS | Aside, aside, here comes Lord [[Timon]]. |
-| [[Apemantus|APEMANTUS]] | Come with me, [[Fool|fool]], come. |
-| [[Fool|FOOL]] | I do not always follow [[Lover|lover]], elder brother, and woman: sometime the philosopher. Exeunt [[Apemantus]] and [[Fool]] |
-| [[Flavius|FLAVIUS]] | (to Servants) Pray you, walk near. I’ll speak with you anon. Exeunt Servants |
-| [[Timon|TIMON]] | You make me marvel wherefore ere this [[Time|time]] Had you not fully laid my state before me, That I might so have rated my expense As I had leave of means. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--03_exchange_flavius" data-title="Timon of Athens — Act II, Scene 2 — exchange (FLAVIUS) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Flavius|FLAVIUS]] | You would not hear me. At many leisures I proposed— |
-| [[Timon|TIMON]] | Go to. Perchance some single vantages you took, When my indisposition put you back, And that unaptness made your minister Thus to excuse yourself. |
-| [[Flavius|FLAVIUS]] | O my good lord, At many times I brought in my accounts, Laid them before you; you would throw them off And say you summed them in mine honesty. When for some trifling present you have bid me Return so much, I have shook my head and wept, Yea, ‘gainst th’authority of manners prayed you To hold your hand more close. I did endure Not seldom nor no slight checks when I have Prompted you in the ebb of your estate And your great flow of debts. My lovèd lord— Though you hear now too late, yet now’s a [[Time|time]]— The greatest of your having lacks a half To pay your present debts. |
-| [[Timon|TIMON]] | Let all my land be sold. |
-| [[Flavius|FLAVIUS]] | ‘Tis all engaged, some forfeited and gone, And what remains will hardly stop the mouth Of present dues. The future comes apace. What shall defend the interim, and at length How goes our reck’ning? |
-| [[Timon|TIMON]] | To Lacedaemon did my land extend. |
-| [[Flavius|FLAVIUS]] | O my good lord, the world is but a word. Were it all yours to give it in a breath, How quickly were it gone. |
-| [[Timon|TIMON]] | You tell me true. |
-| [[Flavius|FLAVIUS]] | If you suspect my husbandry or falsehood, Call me before th’exactest auditors And set me on the proof. So the gods bless me, When all our offices have been oppressed With riotous feeders, when our vaults have wept With drunken spilth of wine, when every room Hath blazed with lights and brayed with minstrelsy, I have retired me to a wasteful cock, And set mine eyes at flow. |
-| [[Timon|TIMON]] | Prithee, no more. |
-| [[Flavius|FLAVIUS]] | ‘Heavens,’ have I said, ‘the bounty of this lord! How many prodigal bits have slaves and peasants This [[Night|night]] englutted! Who is not [[Timon]]’s? What heart, head, [[Sword|sword]], force, means, but is Lord [[Timon]]’s? Great [[Timon]], noble, worthy, royal [[Timon]]! Ah, when the means are gone that buy this praise, The breath is gone whereof this praise is made. Feast won, fast lost; one cloud of [[Winter|winter]] show’rs, These flies are couched.’ |
-| [[Timon|TIMON]] | Come, sermon me no further. No villainous bounty yet hath passed my heart. Unwisely, not ignobly, have I given. Why dost thou weep? Canst thou the [[Conscience|conscience]] lack To think I shall lack friends? Secure thy heart. If I would broach the vessels of my [[Love|love]] And try the argument of hearts by borrowing, Men and men’s fortunes could I frankly use As I can bid thee speak. |
-| [[Flavius|FLAVIUS]] | Assurance bless your thoughts! |
-| [[Timon|TIMON]] | And in some sort these wants of mine are crowned That I account them blessings, for by these Shall I try friends. You shall perceive how you Mistake my fortunes. I am wealthy in my friends.— Within there, Flaminius, Servilius! Enter Flaminius, Servilius, and a Third Servant |
-| ALL SERVANTS | My lord, my lord. |
-| [[Timon|TIMON]] | I will dispatch you severally, (To Servilius) You to Lord [[Lucius]], (To Flaminius) to Lord [[Lucullus]] you— I hunted with his [[Honour|honour]] today— (To Third Servant) You to [[Sempronius]]. Commend me to their loves, And I am proud, say, that my occasions have Found [[Time|time]] to use ’em toward a supply of money. Let the request be fifty talents. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--04_exchange_flaminius" data-title="Timon of Athens — Act II, Scene 2 — exchange (FLAMINIUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FLAMINIUS | As you have said, my lord. Exeunt Servants |
-| [[Flavius|FLAVIUS]] | Lord [[Lucius]] and [[Lucullus]]? Hmh! |
-| [[Timon|TIMON]] | Go you, sir, to the senators, Of whom, even to the state’s best health, I have Deserved this hearing. Bid ‘em send o’th’ instant A thousand talents to me. |
-| [[Flavius|FLAVIUS]] | I have been bold, For that I knew it the most general way, To them, to use your signet and your name; But they do shake their heads, and I am here No richer in return. |
-| [[Timon|TIMON]] | Is’t true? Can’t be? |
-| [[Flavius|FLAVIUS]] | They answer in a joint and corporate voice That now they are at fall, want treasure, cannot Do what they would, are sorry, you are honourable, But yet they could have wished—they know not— Something hath been amiss—a noble [[Nature|nature]] May catch a wrench—would all were [[Well|well]]—’tis pity; And so, intending other serious matters, After distasteful looks and these hard fractions, With certain half-caps and cold moving nods They froze me into [[Silence|silence]]. |
-| [[Timon|TIMON]] | You gods reward them! Prithee, man, look cheerly. These old fellows Have their ingratitude in them hereditary. Their [[Blood|blood]] is caked, ‘tis cold, it seldom flows. ’Tis lack of kindly warmth they are not kind; And [[Nature|nature]] as it grows again toward earth Is fashioned for the [[Journey|journey]] dull and heavy. Go to Ventidius. Prithee, be not sad. Thou art true and honest—ingenuously I speak— No blame belongs to thee. Ventidius lately Buried his father, by whose [[Death|death]] he’s stepped Into a great estate. When he was poor, Imprisoned, and in scarcity of friends, I cleared him with five talents. Greet him from me. Bid him suppose some good necessity Touches his friend, which craves to be remembered With those five talents. That had, give’t these fellows To whom ‘tis instant due. Ne’er speak or think That [[Timon]]’s fortunes ’mong his friends can sink. |
-| [[Flavius|FLAVIUS]] | I would I could not think it. That thought is bounty’s foe: Being free itself, it thinks all others so. Exeunt severally |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--01_exchange_dialogue" data-title="Timon of Athens — Act IV, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Timon]] from his [[Cave|cave]] in the woods, half naked, and with a spade |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--02_monologue_timon" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Timon|TIMON]] | O blessèd breeding sun, draw from the earth Rotten humidity; below thy sister’s orb Infect the air. Twinned brothers of one womb, Whose [[Procreation|procreation]], residence, and birth Scarce is dividant, touch them with several fortunes, The greater scorns the lesser. Not [[Nature|nature]], To whom all sores lay siege, can bear great fortune But by contempt of [[Nature|nature]]. It is the pasture lards the brother’s sides, The want that makes him lean. Raise me this beggar and demit that lord, The senator shall bear contempt hereditary, The beggar native [[Honour|honour]]. Who dares, who dares In purity of manhood stand upright And say ‘This man’s a flatterer’? If one be, So are they all, for every grece of fortune Is smoothed by that below. The learnèd pate Ducks to the golden [[Fool|fool]]. All’s obliquy; There’s nothing level in our cursed natures But direct villainy. Therefore be abhorred All feasts, societies, and throngs of men. His semblable, yea, himself, [[Timon]] disdains. Destruction fang mankind. Earth, yield me roots. He digs Who seeks for better of thee, sauce his palate With thy most operant [[Poison|poison]]. He finds gold What is here? Gold? Yellow, glittering, precious gold? No, gods, I am no idle votarist: Roots, you clear heavens. Thus much of this will make Black white, foul fair, wrong right, Base noble, old young, coward valiant. Ha, you gods! Why this, what, this, you gods? Why, this Will lug your priests and servants from your sides, Pluck stout men’s pillows from below their heads. This yellow slave Will knit and break religions, bless th’accursed, Make the hoar leprosy adored, place thieves, And give them title, knee, and approbation With senators on the bench. This is it That makes the wappered widow wed again. She whom the spittle [[house]] and ulcerous sores Would cast the gorge at, this embalms and spices To th’ April day again. Come, damned earth, Thou common whore of mankind, that puts odds Among the rout of nations; I will make thee Do thy right [[Nature|nature]]. March afar off Ha, a drum! Thou’rt quick; But yet I’ll bury thee. He buries gold Thou’lt go, strong thief, When gouty keepers of thee cannot stand. He keeps some gold Nay, stay thou out for earnest. Enter [[Alcibiades]], with soldiers playing drum and |
-| [[Timon|TIMON]] | fife, in warlike manner; and Phrynia and Timandra |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--03_exchange_alcibiades" data-title="Timon of Athens — Act IV, Scene 3 — exchange (ALCIBIADES) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Alcibiades|ALCIBIADES]] | What art thou there? Speak. |
-| [[Timon|TIMON]] | A beast, as thou art. The canker gnaw thy heart For showing me again the eyes of man. |
-| [[Alcibiades|ALCIBIADES]] | What is thy name? Is man so hateful to thee That art thyself a man? |
-| [[Timon|TIMON]] | I am Misanthropos, and hate mankind. For thy part, I do wish thou wert a dog, That I might [[Love|love]] thee something. |
-| [[Alcibiades|ALCIBIADES]] | I know thee [[Well|well]], But in thy fortunes am unlearned and strange. |
-| [[Timon|TIMON]] | I know thee too, and more than that I know thee I not [[Desire|desire]] to know. Follow thy drum. With man’s [[Blood|blood]] paint the ground gules, gules. Religious canons, civil laws, are cruel; Then what should war be? This fell whore of thine Hath in her more destruction than thy [[Sword|sword]], For all her cherubin look. |
-| PHRYNIA | Thy lips rot off! |
-| [[Timon|TIMON]] | I will not kiss thee; then the rot returns To thine own lips again. |
-| [[Alcibiades|ALCIBIADES]] | How came the noble [[Timon]] to this change? |
-| [[Timon|TIMON]] | As the [[Moon|moon]] does, by wanting light to give. But then renew I could not like the [[Moon|moon]]; There were no suns to borrow of. |
-| [[Alcibiades|ALCIBIADES]] | Noble [[Timon]], what [[Friendship|friendship]] may I do thee? |
-| [[Timon|TIMON]] | None but to maintain my opinion. |
-| [[Alcibiades|ALCIBIADES]] | What is it, [[Timon]]? |
-| [[Timon|TIMON]] | Promise me [[Friendship|friendship]], but perform none. If thou wilt promise, the gods plague thee, for thou art a man. If thou dost not perform, confound thee, for thou art a man. |
-| [[Alcibiades|ALCIBIADES]] | I have heard in some sort of thy miseries. |
-| [[Timon|TIMON]] | Thou saw’st them when I had prosperity. |
-| [[Alcibiades|ALCIBIADES]] | I see them now; then was a blessèd [[Time|time]]. |
-| [[Timon|TIMON]] | As thine is now, held with a brace of harlots. |
-| TIMANDRA | Is this th’Athenian minion, whom the world Voiced so regardfully? |
-| SIMON | Art thou Timandra? |
-| TIMANDRA | Yes. |
-| [[Timon|TIMON]] | Be a whore still. They [[Love|love]] thee not that use thee. Give them diseases, leaving with thee their lust. Make use of thy salt hours: season the slaves For tubs and baths, bring down [[Rose|rose]]-cheeked youth To the tub-fast and the diet. |
-| TIMANDRA | Hang thee, [[Monster|monster]]! |
-| [[Alcibiades|ALCIBIADES]] | Pardon him, sweet Timandra, for his wits Are drowned and lost in his calamities. I have but little gold of late, brave [[Timon]], The want whereof doth daily make revolt In my penurious band. I have heard and grieved How cursed Athens, mindless of thy worth, Forgetting thy great deeds, when neighbour states But for thy [[Sword|sword]] and fortune trod upon them— |
-| [[Timon|TIMON]] | I prithee, beat thy drum and get thee gone. |
-| [[Alcibiades|ALCIBIADES]] | I am thy friend, and pity thee, dear [[Timon]]. |
-| [[Timon|TIMON]] | How dost thou pity him whom thou dost trouble? I had rather be [[Alone|alone]]. |
-| [[Alcibiades|ALCIBIADES]] | Why, fare thee [[Well|well]]. Here is some gold for thee. |
-| [[Timon|TIMON]] | Keep it. I cannot eat it. |
-| [[Alcibiades|ALCIBIADES]] | When I have laid proud Athens on a heap— |
-| [[Timon|TIMON]] | Warr‘st thou ’gainst Athens? |
-| [[Alcibiades|ALCIBIADES]] | Ay, [[Timon]], and have cause. |
-| [[Timon|TIMON]] | The gods confound them all in thy conquest, And thee after, when thou hast conquered. |
-| [[Alcibiades|ALCIBIADES]] | Why me, [[Timon]]? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--04_monologue_timon" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Timon|TIMON]] | That by killing of villains Thou wast born to conquer my country. Put up thy gold. He gives [[Alcibiades]] gold Go on; here’s gold; go on. Be as a planetary plague when Jove Will o’er some high-viced [[City|city]] hang his [[Poison|poison]] In the sick air. Let not thy [[Sword|sword]] skip one. Pity not honoured age for his white beard; He is an usurer. Strike me the counterfeit matron; It is her habit only that is honest, Herself’s a bawd. Let not the virgin’s cheek Make soft thy trenchant [[Sword|sword]]; for those milk paps That through the [[Window|window]]-bars bore at men’s eyes Are not within the leaf of pity writ; But set them down horrible traitors. Spare not the babe Whose dimpled smiles from fools exhaust their [[Mercy|mercy]]. Think it a bastard whom the oracle Hath doubtfully pronounced thy throat shall cut, And mince it sans remorse. Swear against objects. Put armour on thine ears and on thine eyes Whose proof nor yells of mothers, maids, nor babes, Nor sight of priests in holy vestments bleeding, Shall pierce a jot. There’s gold to pay thy soldiers. Make large confusion, and, thy fury spent, Confounded be thyself. Speak not. Be gone. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--05_exchange_alcibiades" data-title="Timon of Athens — Act IV, Scene 3 — exchange (ALCIBIADES) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Alcibiades|ALCIBIADES]] | Hast thou gold yet? I’ll take the gold thou giv’st me, Not all thy counsel. |
-| [[Timon|TIMON]] | Dost thou or dost thou not, heaven’s curse upon thee! |
-| PHRYNIA | and TIMANDRA Give us some gold, good [[Timon]]. Hast thou more? |
-| [[Timon|TIMON]] | Enough to make a whore forswear her trade, And to make wholesomeness a bawd. Hold up, you sluts, Your aprons mountant. He throws gold into their aprons You are not oathable, Although I know you’ll swear, terribly swear, Into strong shudders and to heavenly agues Th’immortal gods that hear you. Spare your oaths; I’ll trust to your conditions. Be whores still, And he whose pious breath seeks to [[convert]] you, Be strong in whore, allure him, burn him up. Let your close [[Fire|fire]] predominate his smoke; And be no turncoats. Yet may your [[Pain|pain]]-sick months Be quite contrary, and thatch your poor thin roofs With burdens of the dead—some that were hanged, No matter. Wear them, betray with them; whore still; Paint till a [[Horse|horse]] may mire upon your face. A pox of wrinkles! |
-| PHRYNIA | and TIMANDRA [[Well]], more gold; what then? Believe’t that we’ll do anything for gold. |
-| [[Timon|TIMON]] | Consumptions sow In hollow bones of man, strike their sharp shins, And mar men’s spurring. Crack the lawyer’s voice, That he may never more false title plead Nor sound his quillets shrilly. Hoar the flamen That scolds against the quality of flesh And not believes himself. Down with the nose, Down with it flat; take the bridge quite away Of him that his particular to foresee Smells from the general weal. Make curled-pate ruffians bald, And let the unscarred braggarts of the war Derive some [[Pain|pain]] from you. Plague all, That your activity may defeat and quell The source of all erection. There’s more gold. Do you damn others, and let this damn you; And ditches [[Grave|grave]] you all! |
-| PHRYNIA | and TIMANDRA More counsel with more money, bounteous [[Timon]]. |
-| [[Timon|TIMON]] | More whore, more mischief first; I have given you earnest. |
-| [[Alcibiades|ALCIBIADES]] | Strike up the drum towards Athens. Farewell, [[Timon]]. If I thrive [[Well|well]], I’ll visit thee again. |
-| [[Timon|TIMON]] | If I [[Hope|hope]] [[Well|well]], I’ll never see thee more. |
-| [[Alcibiades|ALCIBIADES]] | I never did thee harm. |
-| [[Timon|TIMON]] | Yes, thou spok’st [[Well|well]] of me. |
-| [[Alcibiades|ALCIBIADES]] | Call’st thou that harm? |
-| [[Timon|TIMON]] | Men daily find it. Get thee away, And take thy beagles with thee. |
-| [[Alcibiades|ALCIBIADES]] | We but offend him. Strike! Exeunt to drum and fife all but [[Timon]] |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--06_monologue_timon" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Timon|TIMON]] | That [[Nature|nature]], being sick of man’s unkindness, Should yet be hungry! He digs the earth Common mother—thou Whose womb unmeasurable and infinite breast Teems and feeds all, whose selfsame mettle Whereof thy proud [[Child|child]], arrogant man, is puffed Engenders the black toad and adder blue, The gilded newt and eyeless venomed worm, With all th‘abhorrèd births below crisp heaven Whereon [[Hyperion]]’s quick’ning [[Fire|fire]] doth shine— Yield him who all thy human sons do hate From forth thy plenteous bosom, one poor root. Ensear thy fertile and conceptions womb; Let it no more bring out ingrateful man. Go great with tigers, dragons, wolves, and bears; Teem with new monsters whom thy upward face Hath to the marbled mansion all above Never presented. He finds a root O, a root! Dear thanks. Dry up thy marrows, vines, and plough-torn leas, Whereof ingrateful man with liquorish draughts And morsels unctuous greases his pure mind, That from it all consideration slips!— Enter [[Apemantus]] More man? Plague, plague! |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--07_exchange_apemantus" data-title="Timon of Athens — Act IV, Scene 3 — exchange (APEMANTUS) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Apemantus|APEMANTUS]] | I was directed hither. Men report Thou dost affect my manners, and dost use them. |
-| [[Timon|TIMON]] | ’Tis then because thou dost not keep a dog Whom I would imitate. Consumption catch thee! |
-| [[Apemantus|APEMANTUS]] | This is in thee a [[Nature|nature]] but infected, A poor unmanly [[Melancholy|melancholy]], sprung From change of fortune. Why this spade, this place, This slave-like habit, and these looks of care? Thy flatterers yet wear silk, drink wine, lie soft, Hug their diseased perfumes, and have forgot That ever [[Timon]] was. Shame not these woods By putting on the cunning of a carper. Be thou a flatterer now, and seek to thrive By that which has undone thee. Hinge thy knee, And let his very breath whom thou‘lt observe Blow off thy cap. Praise his most vicious strain, And call it excellent. Thou wast told thus. Thou gav’st thine ears like tapsters that bade welcome To knaves and all approachers. ’Tis most just That thou turn rascal. Hadst thou wealth again, Rascals should have’t. Do not assume my likeness. |
-| [[Timon|TIMON]] | Were I like thee, I’d throw away myself. |
-| [[Apemantus|APEMANTUS]] | Thou hast cast away thyself being like thyself— A madman so long, now a [[Fool|fool]]. What, think‘st That the bleak air, thy boisterous chamberlain, Will put thy shirt on warm? Will these mossed trees That have outlived the eagle page thy heels And skip when thou point’st out? Will the cold brook, Candied with ice, caudle thy morning taste To cure thy o’ernight’s surfeit? Call the creatures Whose naked natures live in all the spite Of wreakful heaven, whose bare unhousèd trunks To the conflicting elements exposed Answer mere [[Nature|nature]]; bid them flatter thee. O, thou shalt find— |
-| [[Timon|TIMON]] | A [[Fool|fool]] of thee! Depart. |
-| [[Apemantus|APEMANTUS]] | I [[Love|love]] thee better now than e’er I did. |
-| [[Timon|TIMON]] | I hate thee worse. |
-| [[Apemantus|APEMANTUS]] | Why? |
-| [[Timon|TIMON]] | Thou flatter’st misery. |
-| [[Apemantus|APEMANTUS]] | I flatter not, but say thou art a caitiff. |
-| [[Timon|TIMON]] | Why dost thou seek me out? |
-| [[Apemantus|APEMANTUS]] | To vex thee. |
-| [[Timon|TIMON]] | Always a [[Villain|villain]]’s office, or a [[Fool|fool]]’s. Dost please thyself in’t? |
-| [[Apemantus|APEMANTUS]] | Ay. |
-| [[Timon|TIMON]] | What, a knave too? |
-| [[Apemantus|APEMANTUS]] | If thou didst put this sour cold habit on To castigate thy [[Pride|pride]], ‘twere [[Well|well]]; but thou Dost it enforcèdly. Thou’dst courtier be again Wert thou not beggar. Willing misery Outlives incertain pomp, is crowned before. The one is filling still, never complete; The other at high wish. Best state, contentless, Hath a distracted and most wretched being, Worse than the worst, content. Thou shouldst [[Desire|desire]] to die, being miserable. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--08_monologue_timon" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON) [8]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Timon|TIMON]] | Not by his breath that is more miserable. Thou art a slave whom fortune’s tender arm With favour never clasped, but bred a dog. Hadst thou like us from our first swathe proceeded The sweet degrees that this brief world affords To such as may the passive drudges of it Freely command, thou wouldst have plunged thyself In general riot, melted down thy youth In different beds of lust, and never learned The icy precepts of respect, but followed The sugared game before thee. But myself, Who had the world as my confectionary, The mouths, the tongues, the eyes and hearts of men At duty, more than I could frame employment, That numberless upon me stuck, as [[Leaves|leaves]] Do on the oak, have with one [[Winter|winter]]’s brush Fell from their boughs, and left me open, bare For every [[Storm|storm]] that blows—I to bear this, That never knew but better, is some burden. Thy [[Nature|nature]] did commence in sufferance, [[Time|time]] Hath made thee hard in’t. Why shouldst thou hate men? They never flattered thee. What hast thou given? If thou wilt curse, thy father, that poor rag, Must be thy subject, who in spite put stuff To some she-beggar and compounded thee Poor rogue hereditary. Hence, be gone. If thou hadst not been born the worst of men Thou hadst been a knave and flatterer. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--09_exchange_apemantus" data-title="Timon of Athens — Act IV, Scene 3 — exchange (APEMANTUS) [9]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Apemantus|APEMANTUS]] | Art thou proud yet? |
-| [[Timon|TIMON]] | Ay, that I am not thee. |
-| [[Apemantus|APEMANTUS]] | I that I was No prodigal. |
-| [[Timon|TIMON]] | I that I am one now. Were all the wealth I have shut up in thee I’d give thee leave to hang it. Get thee gone. That the whole life of Athens were in this! Thus would I eat it. He bites the root |
-| [[Apemantus|APEMANTUS]] | offering food Here, I will mend thy feast. |
-| [[Timon|TIMON]] | First mend my company: take away thyself. |
-| [[Apemantus|APEMANTUS]] | So I shall mend mine own by th’ lack of thine. |
-| [[Timon|TIMON]] | ’Tis not [[Well|well]] mended so, it is but botched; If not, I would it were. |
-| [[Apemantus|APEMANTUS]] | What wouldst thou have to Athens? |
-| [[Timon|TIMON]] | Thee thither in a whirlwind. If thou wilt, Tell them there I have gold. Look, so I have. |
-| [[Apemantus|APEMANTUS]] | Here is no use for gold. |
-| [[Timon|TIMON]] | The best and truest, For here it sleeps and does no hired harm. |
-| [[Apemantus|APEMANTUS]] | Where liest a-nights, [[Timon]]? |
-| [[Timon|TIMON]] | Under that’s above me. Where feed’st thou a-days, [[Apemantus]]? |
-| [[Apemantus|APEMANTUS]] | Where my stomach finds meat; or rather, where I eat it. |
-| [[Timon|TIMON]] | Would [[Poison|poison]] were obedient, and knew my mind! |
-| [[Apemantus|APEMANTUS]] | Where wouldst thou send it? |
-| [[Timon|TIMON]] | To sauce thy dishes. |
-| [[Apemantus|APEMANTUS]] | The middle of humanity thou never knewest, but the extremity of both ends. When thou wast in thy gilt and thy perfume, they mocked thee for too much curiosity; in thy rags thou know’st none, but art despised for the contrary. There’s a medlar for thee; eat it. |
-| [[Timon|TIMON]] | On what I hate I feed not. |
-| [[Apemantus|APEMANTUS]] | Dost hate a medlar? |
-| [[Timon|TIMON]] | Ay, though it look like thee. |
-| [[Apemantus|APEMANTUS]] | An thou’dst hated meddlers sooner, thou shouldst have loved thyself better now. What man didst thou ever know unthrift that was beloved after his means? |
-| [[Timon|TIMON]] | Who, without those means thou talk’st of, didst thou ever know beloved? |
-| [[Apemantus|APEMANTUS]] | Myself. |
-| [[Timon|TIMON]] | I understand thee: thou hadst some means to keep a dog. |
-| [[Apemantus|APEMANTUS]] | What things in the world canst thou nearest compare to thy flatterers? |
-| [[Timon|TIMON]] | Women nearest; but men, men are the things themselves. What wouldst thou do with the world, [[Apemantus]], if it lay in thy power? |
-| [[Apemantus|APEMANTUS]] | Give it the beasts, to be rid of the men. |
-| [[Timon|TIMON]] | Wouldst thou have thyself fall in the confusion of men, and remain a beast with the beasts? |
-| [[Apemantus|APEMANTUS]] | Ay, [[Timon]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--10_monologue_timon_a" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON A) [10]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Timon|TIMON]] | A beastly [[Ambition|ambition]], which the gods grant thee t‘attain to. If thou wert the [[Lion|lion]], the fox would beguile thee. If thou wert the [[Lamb|lamb]], the fox would eat thee. If thou wert the fox, the [[Lion|lion]] would suspect thee when peradventure thou wert accused by the ass. If thou wert the ass, thy dullness would torment thee, and still thou lived’st but as a breakfast to the wolf. If thou wert the wolf, thy greediness would afflict thee, and oft thou shouldst hazard thy life for thy dinner. Wert thou the unicorn, [[Pride|pride]] and wrath would confound thee, and make thine own [[Self|self]] the conquest of thy fury. Wert thou a bear, thou wouldst be killed by the [[Horse|horse]]. Wert thou a [[Horse|horse]], thou wouldst be seized by the leopard. Wert thou a leopard, thou wert german to the [[Lion|lion]], and the spots of thy kindred were jurors on thy life; all thy safety were remotion, and thy defence absence. What beast couldst thou be that were not subject to a beast? And what a beast art thou already, that seest not thy loss in transformation! |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--11_exchange_apemantus" data-title="Timon of Athens — Act IV, Scene 3 — exchange (APEMANTUS) [11]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Apemantus|APEMANTUS]] | If thou couldst please me with speaking to me, thou mightst have hit upon it here. The commonwealth of Athens is become a forest of beasts. |
-| [[Timon|TIMON]] | How, has the ass broke the wall, that thou art out of the [[City|city]]? |
-| [[Apemantus|APEMANTUS]] | Yonder comes a poet and a painter. The plague of company light upon thee! I will [[Fear|fear]] to catch it, and give way. When I know not what else to do, I’ll see thee again. 356 |
-| [[Timon|TIMON]] | When there is nothing living but thee, thou shalt be welcome. I had rather be a beggar’s dog than [[Apemantus]]. |
-| [[Apemantus|APEMANTUS]] | Thou art the cap of all the fools alive. |
-| [[Timon|TIMON]] | Would thou wert clean enough to spit upon. |
-| [[Apemantus|APEMANTUS]] | A plague on thee! Thou art too bad to curse. |
-| [[Timon|TIMON]] | All villains that do stand by thee are pure. |
-| [[Apemantus|APEMANTUS]] | There is no leprosy but what thou speak’st. |
-| [[Timon|TIMON]] | If I name thee. I’d beat thee, but I should infect my hands. |
-| [[Apemantus|APEMANTUS]] | I would my tongue could rot them off. |
-| [[Timon|TIMON]] | Away, thou issue of a mangy dog! Choler does kill me that thou art alive. I swoon to see thee. |
-| [[Apemantus|APEMANTUS]] | Would thou wouldst burst! |
-| [[Timon|TIMON]] | Away, thou tedious rogue! He throws a stone at [[Apemantus]] I am sorry I shall lose a stone by thee. |
-| [[Apemantus|APEMANTUS]] | Beast! |
-| [[Timon|TIMON]] | Slave! |
-| [[Apemantus|APEMANTUS]] | Toad! |
-| [[Timon|TIMON]] | Rogue, rogue, rogue! I am sick of this false world, and will [[Love|love]] naught But even the mere necessities upon’t. Then, [[Timon]], presently prepare thy [[Grave|grave]]. Lie where the light foam of the sea may beat Thy gravestone daily. Make thine epitaph, That [[Death|death]] in me at others’ lives may laugh. He looks on the gold O, thou sweet [[King|king]]-killer, and dear [[divorce]] ‘Twixt natural son and sire; thou bright defiler Of Hymen’s purest bed; thou valiant Mars; Thou ever young, fresh, loved, and delicate wooer, Whose blush doth thaw the consecrated [[Snow|snow]] That lies on Dian’s lap; thou visible god, That sold’rest close impossibilities And mak‘st them kiss, that speak’st with every tongue To every purpose; O thou touch of hearts: Think thy slave man rebels, and by thy virtue Set them into confounding odds, that beasts May have the world in empire. |
-| [[Apemantus|APEMANTUS]] | Would ’twere so, But not till I am dead. I’ll say thou’st gold. Thou wilt be thronged to shortly. |
-| [[Timon|TIMON]] | Thronged to? |
-| [[Apemantus|APEMANTUS]] | Ay. |
-| [[Timon|TIMON]] | Thy back, I prithee. |
-| [[Apemantus|APEMANTUS]] | Live, and [[Love|love]] thy misery. |
-| [[Timon|TIMON]] | Long live so, and so die. I am quit. Enter the Banditti, thieves |
-| [[Apemantus|APEMANTUS]] | More things like men. Eat, [[Timon]], and abhor them. Exit |
-| FIRST THIEF | Where should he have this gold? It is some poor [[Fragment|fragment]], some slender ort of his remainder. The mere want of gold and the falling-from of his friends drove him into this [[Melancholy|melancholy]]. |
-| SECOND THIEF | It is noised he hath a mass of treasure. |
-| THIRD THIEF | Let us make the assay upon him. If he care not for’t, he will supply us easily. If he covetously reserve it, how shall ’s get it? |
-| SECOND THIEF | True, for he bears it not about him; ’tis hid. |
-| FIRST THIEF | Is not this he? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--12_exchange_other_thieves" data-title="Timon of Athens — Act IV, Scene 3 — exchange (OTHER THIEVES) [12]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| OTHER THIEVES | Where? |
-| SECOND THIEF | ’Tis his description. |
-| THIRD THIEF | He, I know him. |
-| ALL THIEVES | (coming forward) Save thee, [[Timon]]. |
-| [[Timon|TIMON]] | Now, thieves. |
-| ALL THIEVES | Soldiers, not thieves. |
-| [[Timon|TIMON]] | Both, too, and women’s sons. |
-| ALL THIEVES | We are not thieves, but men that much do want. |
-| [[Timon|TIMON]] | Your greatest want is, you want much of meat. Why should you want? Behold, the earth hath roots. Within this mile break forth a hundred springs. The oaks bear mast, the briars scarlet hips. The bounteous housewife [[Nature|nature]] on each bush Lays her full mess before you. Want? Why want? |
-| FIRST THIEF | We cannot live on grass, on berries, [[Water|water]], As beasts and [[Birds|birds]] and fishes. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--13_monologue_timon" data-title="Timon of Athens — Act IV, Scene 3 — monologue (TIMON) [13]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Timon|TIMON]] | Nor on the beasts themselves, the [[Birds|birds]] and fishes; You must eat men. Yet thanks I must you con That you are thieves professed, that you work not In holier shapes; for there is boundless theft In limited professions. (Giving gold) Rascal thieves, Here’s gold. Go suck the subtle [[Blood|blood]] o‘th’ grape Till the high fever seethe your [[Blood|blood]] to froth, And so scape hanging. Trust not the physician: His antidotes are [[Poison|poison]], and he slays More than you rob. Take wealth and lives together. Do villainy; do, since you protest to do’t, Like workmen. I’ll example you with thievery. The sun’s a thief, and with his great attraction Robs the vast sea. The [[Moon|moon]]’s an arrant thief, And her pale [[Fire|fire]] she snatches from the sun. The sea’s a thief, whose liquid surge resolves The [[Moon|moon]] into salt [[Tears|tears]]. The earth’s a thief, That feeds and breeds by a composture stol’n From gen‘ral excrement. Each thing’s a thief. The laws, your curb and whip, in their rough power Has unchecked theft. [[Love]] not yourselves. Away, Rob one another. There’s more gold. Cut throats; All that you meet are thieves. To Athens go, Break open shops; nothing can you steal But thieves do lose it. Steal no less for this I give you, And gold confound you howsoe’er. Amen. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--14_exchange_third_thief" data-title="Timon of Athens — Act IV, Scene 3 — exchange (THIRD THIEF) [14]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THIRD THIEF | He’s almost charmed me from my profession by persuading me to it. |
-| FIRST THIEF | ’Tis in the malice of mankind that he thus advises us, not to have us thrive in our mystery. |
-| SECOND THIEF | I’ll believe him as an enemy, and give over my trade. |
-| FIRST THIEF | Let us first see peace in Athens. There is no [[Time|time]] so miserable but a man may be true. Exeunt Thieves Enter [[Flavius]] to [[Timon]] |
-| [[Flavius|FLAVIUS]] | O you gods! Is yon despised and ruinous man my lord, Full of [[Decay|decay]] and failing? O monument And [[Wonder|wonder]] of good deeds evilly bestowed! What an alteration of [[Honour|honour]] has desp’rate want made! What viler thing upon the earth than friends, Who can bring noblest minds to basest ends! How rarely does it meet with this [[Time|time]]’s guise, When man was wished to [[Love|love]] his enemies! Grant I may ever [[Love|love]] and rather woo Those that would mischief me than those that do! [[Timon]] sees him He’s caught me in his eye. I will present My honest grief unto him, and as my lord Still serve him with my life.—My dearest master. |
-| [[Timon|TIMON]] | Away! What art thou? |
-| [[Flavius|FLAVIUS]] | Have you forgot me, sir? |
-| [[Timon|TIMON]] | Why dost ask that? I have forgot all men; Then if thou grant‘st thou’rt man, I have forgot thee. |
-| [[Flavius|FLAVIUS]] | An honest poor servant of yours. |
-| [[Timon|TIMON]] | Then I know thee not. I never had Honest man about me; ay, all I kept were knaves, To serve in meat to villains. |
-| [[Flavius|FLAVIUS]] | The gods are witness, Ne’er did poor steward wear a truer grief For his undone lord than mine eyes for you. |
-| [[Timon|TIMON]] | What, dost thou weep? Come. nearer then; I [[Love|love]] thee Because thou art a woman, and disclaim’st Flinty mankind whose eyes do never give But thorough lust and laughter. Pity’s sleeping. Strange times, that weep with laughing, not with weeping! |
-| [[Flavius|FLAVIUS]] | I beg of you to know me, good my lord, T’accept my grief, He offers his money and whilst this poor wealth lasts To entertain me as your steward still. |
-| [[Timon|TIMON]] | Had I a steward So true, so just, and now so comfortable? It almost turns my dangerous [[Nature|nature]] mild. Let me behold thy face. Surely this man Was born of woman. Forgive my general and exceptless rashness, You perpetual sober gods! I do proclaim One honest man—mistake me not, but one, No more, I pray—and he’s a steward. How fain would I have hated all mankind, And thou redeem‘st thyself! But all save thee I fell with curses. Methinks thou art more honest now than wise, For by oppressing and betraying me Thou mightst have sooner got another service; For many so arrive at second masters Upon their first lord’s neck. But tell me true— For I must ever [[Doubt|doubt]], though ne’er so sure— Is not thy kindness subtle, covetous, A usuring kindness, and, as rich men deal gifts, Expecting in return twenty for one? |
-| [[Flavius|FLAVIUS]] | No, my most worthy master, in whose breast [[Doubt]] and suspect, alas, are placed too late. You should have feared false times when you did feast. Suspect still comes where an estate is least. That which I show, heaven knows, is merely [[Love|love]], Duty and zeal to your unmatched mind, Care of your food and living; and, believe it, My most honoured lord, For any benefit that points to me, Either in [[Hope|hope]] or present, I’d exchange For this one wish: that you had power and wealth To requite me by making rich yourself. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--15_exchange_timon" data-title="Timon of Athens — Act IV, Scene 3 — exchange (TIMON) [15]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Timon|TIMON]] | Look thee, ’tis so. Thou singly honest man, He gives [[Flavius]] gold Here, take. The gods, out of my misery, Has sent thee treasure. Go, live rich and happy, But thus conditioned: thou shalt build from men, Hate all, curse all, show [[Charity|charity]] to none, But let the famished flesh slide from the bone Ere thou relieve the beggar. Give to [[dogs]] What thou deniest to men. Let prisons [[Swallow|swallow]] ‘em, Debts wither ’em to nothing; be men like blasted woods, And may diseases lick up their false bloods. And so farewell, and thrive. |
-| [[Flavius|FLAVIUS]] | O, let me stay And comfort you, my master. |
-| [[Timon|TIMON]] | If thou hat’st curses, Stay not. Fly whilst thou art blest and free. Ne’er see thou man, and let me ne’er see thee. Exeunt [[Timon]] into his [[Cave|cave]], [[Flavius]] another way |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--01_exchange_dialogue" data-title="Timon of Athens — Act V, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Trumpets sound. Enter [[Alcibiades]] with his powers, before Athens |
-| [[Alcibiades|ALCIBIADES]] | Sound to this coward and lascivious town Our terrible approach. A parley sounds. The Senators appear upon the walls |
-| [[Alcibiades|ALCIBIADES]] | Till now you have gone on and filled the [[Time|time]] |
-| [[Alcibiades|ALCIBIADES]] | With all licentious measure, making your wills The scope of justice. Till now myself and such As slept within the [[Shadow|shadow]] of your power Have wandered with our traversed arms, and breathed Our sufferance vainly. Now the [[Time|time]] is flush When crouching marrow, in the bearer strong, Cries of itself ‘No more’; now breathless wrong Shall sit and pant in your great chairs of ease, And pursy insolence shall break his [[Wind|wind]] With [[Fear|fear]] and horrid flight. |
-| FIRST SENATOR | Noble and young, When thy first griefs were but a mere conceit, Ere thou hadst power or we had cause of [[Fear|fear]], We sent to thee to give thy rages balm, To wipe out our ingratitude with loves Above their quantity. |
-| SECOND SENATOR | So did we woo Transformed [[Timon]] to our [[City|city]]’s [[Love|love]] By humble message and by promised means. We were not all unkind, nor all deserve The common stroke of war. |
-| FIRST SENATOR | These walls of ours Were not erected by their hands from whom You have received your grief; nor are they such That these great tow’rs, trophies, and schools should fall For private faults in them. |
-| SECOND SENATOR | Nor are they living Who were the motives that you first went out. Shame that they wanted cunning, in excess, Hath broke their hearts. March, noble lord, Into our [[City|city]] with thy banners spread. By decimation and a tithed [[Death|death]], If thy revenges hunger for that food Which [[Nature|nature]] loathes, take thou the destined tenth, And by the hazard of the spotted die Let die the spotted. |
-| FIRST SENATOR | All have not offended. For those that were, it is not square to take, On those that are, revenges. Crimes like lands Are not inherited. Then, dear countryman, Bring in thy ranks, but leave without thy rage. Spare thy Athenian cradle and those kin Which, in the bluster of thy wrath, must fall With those that have offended. Like a shepherd Approach the fold and cull th’infected forth, But kill not all together. |
-| SECOND SENATOR | What thou wilt, Thou rather shalt enforce it with thy smile Than hew to’t with thy [[Sword|sword]]. |
-| FIRST SENATOR | Set but thy foot Against our rampired gates and they shall ope, So thou wilt send thy gentle heart before To say thou’lt enter friendly. |
-| SECOND SENATOR | Throw thy glove, Or any token of thine [[Honour|honour]] else, That thou wilt use the wars as thy redress, And not as our confusion. All thy powers Shall make their harbour in our town till we Have sealed thy full [[Desire|desire]]. |
-| [[Alcibiades|ALCIBIADES]] | throwing up a glove Then there’s my glove. Descend, and open your uncharged ports. Those enemies of [[Timon]]’s and mine own Whom you yourselves shall set out for reproof Fall, and no more; and to atone your fears With my more noble meaning, not a man Shall pass his quarter or offend the stream Of regular justice in your [[City|city]]’s bounds But shall be remedied to your public laws At heaviest answer. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--02_exchange_both_senators" data-title="Timon of Athens — Act V, Scene 5 — exchange (BOTH SENATORS) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| BOTH SENATORS | ’Tis most nobly spoken. |
-| [[Alcibiades|ALCIBIADES]] | Descend, and keep your words. Trumpets sound. Exeunt Senators from the walls. Enter Soldier, with a tablet of wax |
-| SOLDIER | My noble general, [[Timon]] is dead, Entombed upon the very hem o’th’ sea; And on his gravestone this insculpture, which With wax I brought away, whose soft impression Interprets for my poor ignorance. [[Alcibiades]] reads the epitaph |
-| [[Alcibiades|ALCIBIADES]] | ‘Here lies a wretched corpse, Of wretched [[Soul|soul]] bereft. Seek not my name. A plague consume You wicked caitiffs left! Here lie I, [[Timon]], who alive All living men did hate. Pass by and curse thy fill, but pass And stay not here thy gait.’ These [[Well|well]] express in thee thy latter spirits. Though thou abhorred‘st in us our human griefs, Scorned’st our brains’ flow and those our droplets which From niggard [[Nature|nature]] fall, yet rich conceit Taught thee to make vast Neptune weep for aye On thy low [[Grave|grave]], on faults forgiven. Dead Is noble [[Timon]], of whose [[Memory|memory]] Hereafter more. Enter Senators through the gates Bring me into your [[City|city]], And I will use the olive with my [[Sword|sword]], Make war breed peace, make peace stint war, make each Prescribe to other as each other’s leech. Let our drums strike. Drums. Exeunt through the gates |
-| BY WILLIAM SHAKESPEARE | (ADAPTED BY THOMAS MIDDLETON) |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--03_monologue_shortly" data-title="Timon of Athens — Act V, Scene 5 — monologue (SHORTLY) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SHORTLY | after James VI of Scotland succeeded to the English throne, in 1603, he gave his patronage to Shakespeare’s company; the Lord Chamberlain’s Men became the [[King]]’s Men, entering into a special relationship with their sovereign. [[Macbeth]] is the play of Shakespeare’s that most clearly reflects this relationship. James regarded the virtuous and noble [[Banquo]], [[Macbeth]]’s comrade at the start of the action, as his direct ancestor; eight Stuart kings were said to have preceded James, just as, in the play, [[Banquo]] points to ‘a show of eight kings’ as his descendants (4.1.127.1-140); and in the play the English [[King|king]] (historically Edward the Confessor) is praised for the capacity, on which James also prided himself, to cure ’the [[King|king]]’s evil’ (scrofula). [[Macbeth]] is obviously a Jacobean play, composed probably in 1606. But the first printed text, in the 1623 Folio, shows signs of having been adapted at a later date. It is exceptionally short by comparison with Shakespeare’s other tragedies; and it includes episodes which there is good reason to believe are not by Shakespeare. Most conspicuous are Act 3, Scene 5 and parts of Act 4, Scene I: 38.I-60 and 141-8.1. These episodes feature Hecate, who does not appear elsewhere in the play; they are composed largely in octosyllabic couplets in a style conspicuously different from the rest of the play; and they call for the performance of two [[songs]] that are found in The [[Witch]], a play of uncertain date by Thomas Middleton. Probably Middleton himself adapted Shakespeare’s play some years after its first performance, adding these and more localized details, and cutting the play elsewhere. We do not attempt to excise passages most clearly written by Middleton, because the adapter’s hand almost certainly affected the text at other, less determinable points. The Folio text of [[Macbeth]] cites only the opening words of the [[songs]]; drawing on The [[Witch]], we attempt a reconstruction of their staging in [[Macbeth]]. Shakespeare took materials for his story from the account in Raphael Holinshed’s Chronicle of the reigns of [[Duncan]] and [[Macbeth]] (AD 1034-57). Occasionally (especially in the English episodes of Act 4, Scene 2) he closely followed Holinshed’s wording, but essentially the play’s structure is his own. He invented the framework of the [[Three Witches|three witches]] who tempted both [[Macbeth]] and [[Banquo]] with prophecies of [[Greatness|greatness]]. His [[Macbeth]] is both more introspective and more intensely evil than the competent warrior-[[King|king]] portrayed by Holinshed; conversely, Shakespeare made [[Duncan]], the [[King|king]] whom [[Macbeth]] murders, far more venerable and saintly. Some of the play’s features, notably the character of [[Lady Macbeth]], originate in Holinshed’s account of the murder of an earlier Scottish [[King|king]], Duff; he was killed in his [[Castle|castle]] at Forres by Donwald, who had been ‘set on’ by his wife. [[Macbeth]] is an exciting story of witchcraft, murder, and retribution that can also be seen as a study in the [[philosophy]] and psychology of evil. The witches are not easily made credible in modern performances, and Shakespeare seems deliberately to have drained colour away from some parts of his composition in order to concentrate attention on [[Macbeth]] and his Lady. It is [[Macbeth]]’s neurotic [[Self|self]]-absorption, his [[Fear|fear]], his anger, and his [[Despair|despair]], along with his wife’s steely determination, her invoking of the powers of evil, and her eventual revelation in [[Sleep|sleep]] of her repressed humanity, that have given the play its long-proven power to fascinate readers and to challenge performers. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--04_exchange_the_persons_of_the_play" data-title="Timon of Athens — Act V, Scene 5 — exchange (THE PERSONS OF THE PLAY) [4]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY |
-| [[King|KING]] [[Duncan|DUNCAN]] | of Scotland |
-| *(didascalia)* | A |
-| CAPTAIN | in [[Duncan]]’s army [[Macbeth|MACBETH]], Thane of Glamis, later Thane of Cawdor, then [[King]] of Scotland |
-| *(didascalia)* | A |
-| PORTER | at [[Macbeth]]’s [[Castle|castle]] Three MURDERERS attending on [[Macbeth]] SEYTON, servant of [[Macbeth]] |
-| LADY | [[Macbeth|MACBETH]], [[Macbeth]]’s wife [[Banquo|BANQUO]], a Scottish thane FLEANCE, his son [[Macduff|MACDUFF]], Thane of Fife |
-| LADY | [[Macduff|MACDUFF]], his wife |
-| [[Macduff|MACDUFF]]’S SON | SIWARD, [[Earl of Northumberland]] |
-| YOUNG | SIWARD, his son An English DOCTOR |
-| *(didascalia)* | HECATE, [[Queen]] of the Witches Six |
-| WITCHES | Three APPARITIONS, one an armed head, one a bloody [[Child|child]], one a [[Child|child]] crowned |
-| *(didascalia)* | A |
-| SPIRIT LIKE | A CAT Other SPIRITS |
-| *(didascalia)* | An |
-| *(didascalia)* | A |
 | SERVANTS | A show of eight kings; Lords and Thanes, attendants, soldiers, drummers |
 
 

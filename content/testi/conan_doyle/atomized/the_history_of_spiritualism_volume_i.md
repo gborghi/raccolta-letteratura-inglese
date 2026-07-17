@@ -2036,92 +2036,6 @@ Such an exposure, coming from so sure a source, arouses a feeling of disgust whi
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 1" data-chapter="Chapter 16" data-kind="chapter"></span>
-
-
-CHAPTER I
-THE CAREER OF EUSAPIA PALLADINO
-
-
-
-
-<span class="atom-split" data-atom="chapter_17" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 2" data-chapter="Chapter 17" data-kind="chapter"></span>
-
-
-CHAPTER II
-GREAT MEDIUMS FROM 1870 TO 1900: CHARLES H. FOSTER-MADAME D’ESPERANCE-WILLIAM EGLINTON-STAINTON MOSES
-
-
-
-
-<span class="atom-split" data-atom="chapter_18" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 3" data-chapter="Chapter 18" data-kind="chapter"></span>
-
-
-CHAPTER III
-THE SOCIETY FOR PSYCHICAL RESEARCH
-
-
-
-
-<span class="atom-split" data-atom="chapter_19" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 5" data-chapter="Chapter 19" data-kind="chapter"></span>
-
-
-CHAPTER IV
-ECTOPLASM
-CHAPTER V
-SPIRIT PHOTOGRAPHY
-
-
-
-
-<span class="atom-split" data-atom="chapter_20" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 6" data-chapter="Chapter 20" data-kind="chapter"></span>
-
-
-CHAPTER VI
-VOICE MEDIUMSHIP AND MOULDS
-
-
-
-
-<span class="atom-split" data-atom="chapter_21" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 7" data-chapter="Chapter 21" data-kind="chapter"></span>
-
-
-CHAPTER VII
-FRENCH, GERMAN, AND ITALIAN [[Spiritualism|SPIRITUALISM]]
-
-
-
-
-<span class="atom-split" data-atom="chapter_22" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 8" data-chapter="Chapter 22" data-kind="chapter"></span>
-
-
-CHAPTER VIII
-SOME GREAT MODERN MEDIUMS
-
-
-
-
-<span class="atom-split" data-atom="chapter_23" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 10" data-chapter="Chapter 23" data-kind="chapter"></span>
-
-
-CHAPTER IX
-[[Spiritualism|SPIRITUALISM]] AND THE WAR
-CHAPTER X
-THE RELIGIOUS ASPECT OF [[Spiritualism|SPIRITUALISM]]
-
-
-
-
-<span class="atom-split" data-atom="chapter_24" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 11" data-chapter="Chapter 24" data-kind="chapter"></span>
-
-
-CHAPTER XI
-THE AFTER-LIFE AS SEEN BY SPIRITUALISTS
-APPENDIX
-
-
-
-
 <span class="atom-split" data-atom="chapter_15--part_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
 
 
@@ -2266,3 +2180,89 @@ END OF VOL. I
 THE HISTORY OF SPIRITUALISM VOLUME
 II
 CONTENTS
+
+
+
+
+<span class="atom-split" data-atom="chapter_16" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 1" data-chapter="Chapter 16" data-kind="chapter"></span>
+
+
+CHAPTER I
+THE CAREER OF EUSAPIA PALLADINO
+
+
+
+
+<span class="atom-split" data-atom="chapter_17" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 2" data-chapter="Chapter 17" data-kind="chapter"></span>
+
+
+CHAPTER II
+GREAT MEDIUMS FROM 1870 TO 1900: CHARLES H. FOSTER-MADAME D’ESPERANCE-WILLIAM EGLINTON-STAINTON MOSES
+
+
+
+
+<span class="atom-split" data-atom="chapter_18" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 3" data-chapter="Chapter 18" data-kind="chapter"></span>
+
+
+CHAPTER III
+THE SOCIETY FOR PSYCHICAL RESEARCH
+
+
+
+
+<span class="atom-split" data-atom="chapter_19" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 5" data-chapter="Chapter 19" data-kind="chapter"></span>
+
+
+CHAPTER IV
+ECTOPLASM
+CHAPTER V
+SPIRIT PHOTOGRAPHY
+
+
+
+
+<span class="atom-split" data-atom="chapter_20" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 6" data-chapter="Chapter 20" data-kind="chapter"></span>
+
+
+CHAPTER VI
+VOICE MEDIUMSHIP AND MOULDS
+
+
+
+
+<span class="atom-split" data-atom="chapter_21" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 7" data-chapter="Chapter 21" data-kind="chapter"></span>
+
+
+CHAPTER VII
+FRENCH, GERMAN, AND ITALIAN [[Spiritualism|SPIRITUALISM]]
+
+
+
+
+<span class="atom-split" data-atom="chapter_22" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 8" data-chapter="Chapter 22" data-kind="chapter"></span>
+
+
+CHAPTER VIII
+SOME GREAT MODERN MEDIUMS
+
+
+
+
+<span class="atom-split" data-atom="chapter_23" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 10" data-chapter="Chapter 23" data-kind="chapter"></span>
+
+
+CHAPTER IX
+[[Spiritualism|SPIRITUALISM]] AND THE WAR
+CHAPTER X
+THE RELIGIOUS ASPECT OF [[Spiritualism|SPIRITUALISM]]
+
+
+
+
+<span class="atom-split" data-atom="chapter_24" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 11" data-chapter="Chapter 24" data-kind="chapter"></span>
+
+
+CHAPTER XI
+THE AFTER-LIFE AS SEEN BY SPIRITUALISTS
+APPENDIX

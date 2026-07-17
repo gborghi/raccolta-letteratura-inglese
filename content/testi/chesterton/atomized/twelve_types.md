@@ -5056,1738 +5056,6 @@ queste case sta al centro del mondo. Non v'è una sola
 
 
 
-<span class="atom-split" data-atom="story_03_the_optimism_of_byron" data-title="Twelve Types — THE OPTIMISM OF BYRON" data-chapter="THE OPTIMISM OF BYRON" data-kind="story"></span>
-
-
-THE OPTIMISM OF BYRON
-
-Everything is against our appreciating the spirit and the age of Byron.
-
-The age that has just passed from us is always like [[A Dream|a dream]] when we wake
-
-in the morning, a thing incredible and centuries away. And the world of
-
-Byron seems a sad and faded world, a weird and inhuman world, where men
-
-were romantic in whiskers, ladies lived, apparently, in bowers, and the
-
-very word has the sound of a piece of stage scenery. Roses and
-
-nightingales recur in their poetry with the monotonous elegance of a
-
-wall-paper pattern. The whole is like a revel of dead men, a revel with
-
-splendid vesture and half-witted faces.
-
-But the more shrewdly and earnestly we study the histories of men, the
-
-less ready shall we be to make use of the word "artificial." Nothing in
-
-the world has ever been artificial. Many customs, many dresses, many
-
-works of art are branded with artificiality because they exhibit [[Vanity|vanity]]
-
-and [[Self|self]]-consciousness: as if [[Vanity|vanity]] were not a deep and elemental
-
-thing, like [[Love|love]] and hate and the [[Fear|fear]] of [[Death|death]]. [[Vanity]] may be found in
-
-darkling deserts, in the hermit and in the wild beasts that crawl around
-
-him. It may be good or evil, but assuredly it is not artificial: [[Vanity|vanity]]
-
-is a voice out of the abyss.
-
-The remarkable fact is, however, and it bears strongly on the present
-
-position of Byron, that when a thing is unfamiliar to us, when it is
-
-remote and the product of some other age or spirit, we think it not
-
-savage or terrible, but merely artificial. There are many instances of
-
-this: a fair one is the case of tropical plants and [[Birds|birds]]. When we see
-
-some of the monstrous and flamboyant blossoms that enrich the equatorial
-
-woods, we do not feel that they are conflagrations of [[Nature|nature]]; silent
-
-explosions of her frightful energy. We simply find it hard to believe
-
-that they are not wax [[Flowers|flowers]] grown under a glass case. When we see some
-
-of the tropic [[Birds|birds]], with their tiny bodies attached to gigantic beaks,
-
-we do not feel that they are freaks of the fierce [[Humour|humour]] of Creation. We
-
-almost believe that they are toys out of a [[Child|child]]'s play-box,
-
-artificially carved and artificially coloured. So it is with the great
-
-convulsion of [[Nature]] which was known as Byronism. The volcano is not an
-
-extinct volcano now; it is the dead stick of a rocket. It is the remains
-
-not of a natural but of an artificial [[Fire|fire]].
-
-But Byron and Byronism were something immeasurably greater than anything
-
-that is represented by such a view as this: their real value and meaning
-
-are indeed little understood. The first of the mistakes about Byron lies
-
-in the fact that he is treated as a pessimist. True, he treated himself
-
-as such, but a critic can hardly have even a slight knowledge of Byron
-
-without knowing that he had the smallest amount of knowledge of himself
-
-that ever fell to the lot of an intelligent man. The real character of
-
-what is known as Byron's pessimism is better worth study than any real
-
-pessimism could ever be.
-
-It is the standing peculiarity of this curious world of ours that almost
-
-everything in it has been extolled enthusiastically and invariably
-
-extolled to the disadvantage of everything else.
-
-One after another almost every one of the phenomena of the universe has
-
-been declared to be [[Alone|alone]] capable of making life worth living. Books,
-
-[[Love|love]], business, religion, alcohol, abstract [[Truth|truth]], private emotion,
-
-money, simplicity, mysticism, hard work, a life close to [[Nature|nature]], a life
-
-close to Belgrave Square are every one of them passionately maintained
-
-by somebody to be so good that they redeem the evil of an otherwise
-
-indefensible world. Thus while the world is almost always condemned in
-
-summary, it is always justified, and indeed extolled, in detail after
-
-detail.
-
-Existence has been praised and absolved by a [[Chorus|chorus]] of pessimists. The
-
-work of giving thanks to Heaven is, as it were, divided ingeniously
-
-among them. Schopenhauer is told off as a kind of librarian in the [[house|House]]
-
-of God, to sing the praises of the austere pleasures of the mind.
-
-Carlyle, as steward, undertakes the working department and eulogises a
-
-life of labour in the fields. Omar Khayyam is established in the cellar
-
-and swears that it is the only room in the [[house]]. Even the blackest of
-
-pessimistic artists enjoys his art. At the precise moment that he has
-
-written some shameless and terrible indictment of Creation, his one pang
-
-of joy in the achievement joins the universal [[Chorus|chorus]] of gratitude, with
-
-the scent of the wild flower and the [[Song|song]] of the bird.
-
-Now Byron had a sensational popularity, and that popularity was, as far
-
-as words and explanations go, founded upon his pessimism. He was adored
-
-by an overwhelming majority, almost every individual of which despised
-
-the majority of mankind. But when we come to regard the matter a little
-
-more deeply we tend in some degree to cease to believe in this
-
-popularity of the pessimist. The popularity of pure and unadulterated
-
-pessimism is an oddity; it is almost a contradiction in terms. Men would
-
-no more receive the news of the failure of existence or of the
-
-harmonious hostility of the [[Stars|stars]] with ardour or popular rejoicing than
-
-they would light bonfires for the arrival of cholera or [[Dance|dance]] a
-
-breakdown when they were condemned to be hanged. When the pessimist is
-
-popular it must always be not because he shows all things to be bad, but
-
-because he shows some things to be good. Men can only join in a [[Chorus|chorus]]
-
-of praise even if it is the praise of denunciation. The man who is
-
-popular must be optimistic about something even if he is only optimistic
-
-about pessimism. And this was emphatically the case with Byron and the
-
-Byronists. Their real popularity was founded not upon the fact that they
-
-blamed everything, but upon the fact that they praised something. They
-
-heaped curses upon man, but they used man merely as a foil. The things
-
-they wished to praise by comparison were the energies of [[Nature]]. Man was
-
-to them what talk and fashion were to Carlyle, what philosophical and
-
-religious quarrels were to Omar, what the whole race after practical
-
-happiness was to Schopenhauer, the thing which must be censured in order
-
-that somebody else may be exalted. It was merely a recognition of the
-
-fact that one cannot write in white [[chalk]] except on a blackboard.
-
-Surely it is ridiculous to maintain seriously that Byron's [[Love|love]] of the
-
-desolate and inhuman in [[Nature|nature]] was the mark of vital scepticism and
-
-depression. When a young man can elect deliberately to walk [[Alone|alone]] in
-
-[[Winter|winter]] by the side of the shattering sea, when he takes pleasure in
-
-storms and stricken peaks, and the lawless [[Melancholy|melancholy]] of the older
-
-earth, we may deduce with the certainty of [[logic]] that he is very young
-
-and very happy. There is a certain darkness which we see in wine when
-
-seen in [[Shadow|shadow]]; we see it again in the [[Night|night]] that has just buried a
-
-gorgeous sunset. The wine seems black, and yet at the same [[Time|time]]
-
-powerfully and almost impossibly red; the sky seems black, and yet at
-
-the same [[Time|time]] to be only too dense a blend of purple and green. Such was
-
-the darkness which lay around the Byronic school. Darkness with them was
-
-only too dense a purple. They would prefer the sullen hostility of the
-
-earth because amid all the cold and darkness their own hearts were
-
-flaming like their own firesides.
-
-Matters are very different with the more modern school of [[Doubt|doubt]] and
-
-lamentation. The last movement of pessimism is perhaps expressed in Mr
-
-Aubrey Beardsley's allegorical designs. Here we have to deal with a
-
-pessimism which tends naturally not towards the oldest elements of the
-
-cosmos, but towards the last and most fantastic fripperies of artificial
-
-life. Byronism tended towards the [[Desert|desert]]; the new pessimism towards the
-
-restaurant. Byronism was a revolt against artificiality; the new
-
-pessimism is a revolt in its favour. The Byronic young man had an
-
-affectation of sincerity; the decadent, going a step deeper into the
-
-avenues of the unreal, has positively an affectation of affectation. And
-
-it is by their fopperies and their frivolities that we know that their
-
-sinister [[philosophy]] is sincere; in their lights and garlands and ribbons
-
-we read their indwelling [[Despair|despair]]. It was so, indeed, with Byron himself;
-
-his really bitter moments were his frivolous moments. He went on year
-
-after year calling down [[Fire|fire]] upon mankind, summoning the [[deluge]] and the
-
-destructive sea and all the ultimate energies of [[Nature|nature]] to sweep away
-
-the cities of the spawn of man. But through all this his sub-conscious
-
-mind was not that of a despairer; on the contrary, there is something of
-
-a kind of lawless [[Faith|faith]] in thus parleying with such immense and
-
-immemorial brutalities. It was not until the [[Time|time]] in which he wrote 'Don
-
-Juan' that he really lost this inward warmth and geniality, and a sudden
-
-shout of hilarious laughter announced to the world that Lord Byron had
-
-really become a pessimist.
-
-One of the best tests in the world of what a poet really means is his
-
-metre. He may be a hypocrite in his metaphysics, but he cannot be a
-
-hypocrite in his prosody. And all the [[Time|time]] that Byron's language is of
-
-horror and emptiness, his metre is a bounding 'pas de quatre.' He may
-
-arraign existence on the most deadly charges, he may condemn it with the
-
-most desolating verdict, but he cannot alter the fact that on some walk
-
-in a [[spring]] morning when all the limbs are swinging and all the [[Blood|blood]]
-
-alive in the [[Body|body]], the lips may be caught repeating:
-
-'Oh, there's not a joy the world can give like that it takes away,
-
-When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
-
-'Tis not upon the cheek of youth the blush that fades so fast,
-
-But the tender bloom of heart is gone ere youth itself be past.'
-
-That automatic recitation is the answer to the whole pessimism of Byron.
-
-The [[Truth|truth]] is that Byron was one of a class who may be called the
-
-unconscious optimists, who are very often, indeed, the most
-
-uncompromising conscious pessimists, because the exuberance of their
-
-[[Nature|nature]] demands for an adversary a dragon as big as the world. But the
-
-whole of his essential and unconscious being was spirited and confident,
-
-and that unconscious being, long disguised and buried under emotional
-
-artifices, suddenly sprang into prominence in the face of a cold, hard,
-
-political necessity. In Greece he heard the cry of reality, and at the
-
-[[Time|time]] that he was dying, he began to live. He heard suddenly the call of
-
-that buried and sub-conscious happiness which is in all of us, and which
-
-may emerge suddenly at the sight of the grass of a meadow or the spears
-
-of the enemy.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'OTTIMISMO DI BYRON
-
-Tutto congiura contro il nostro apprezzamento dello spirito e dell'età di Byron.
-
-L'età che ci è appena trascorsa è sempre come [[A Dream|un sogno]] quando ci destiamo
-
-al mattino, cosa incredibile e lontana secoli. E il mondo di
-
-Byron pare un mondo triste e sbiadito, un mondo strano e inumano, dove gli uomini
-
-erano romantici in favoriti, le dame vivevano, a quanto pare, in pergolati, e la
-
-parola stessa ha il suono d'un pezzo di scenografia teatrale. Rose e
-
-usignoli ricorrono nella loro poesia con la monotona eleganza d'un
-
-motivo di carta da parati. Il tutto è come un baccanale di morti, un baccanale con
-
-splendide vesti e volti ebeti.
-
-Ma quanto più acutamente e seriamente studiamo le storie degli uomini, tanto
-
-meno saremo pronti a servirci della parola «artificiale». Nulla al
-
-mondo è mai stato artificiale. Molti costumi, molte vesti, molte
-
-opere d'arte sono bollate d'artificiosità perché esibiscono [[Vanity|vanità]]
-
-e [[Self|autocoscienza]]: come se la [[Vanity|vanità]] non fosse cosa profonda ed elementare,
-
-come l'[[Love|amore]] e l'odio e la [[Fear|paura]] della [[Death|morte]]. La [[Vanity|vanità]] si può trovare nei
-
-deserti tenebrosi, nell'eremita e nelle fiere selvagge che strisciano attorno
-
-a lui. Può essere buona o cattiva, ma di certo non è artificiale: la [[Vanity|vanità]]
-
-è una voce che sale dall'abisso.
-
-Il fatto notevole è, tuttavia, e incide fortemente sull'attuale
-
-posizione di Byron, che quando una cosa ci è estranea, quando è
-
-remota e prodotto di qualche altra età o spirito, la riteniamo non
-
-selvaggia o terribile, ma soltanto artificiale. Vi sono molti esempi di
-
-ciò: uno calzante è il caso delle piante tropicali e degli [[Birds|uccelli]]. Quando vediamo
-
-alcune delle fioriture mostruose e sgargianti che arricchiscono le foreste
-
-equatoriali, non sentiamo che siano conflagrazioni della [[Nature|natura]]; silenziose
-
-esplosioni della sua energia spaventosa. Semplicemente stentiamo a credere
-
-che non siano [[Flowers|fiori]] di cera cresciuti sotto una campana di vetro. Quando vediamo alcuni
-
-degli [[Birds|uccelli]] tropicali, coi loro corpi minuti attaccati a becchi giganteschi,
-
-non sentiamo che siano bizzarrie del feroce [[Humour|umorismo]] della Creazione. Quasi
-
-crediamo che siano giocattoli usciti dalla scatola dei balocchi d'un [[Child|bambino]],
-
-artificiosamente intagliati e artificiosamente colorati. Così è per la grande
-
-convulsione della [[Nature|natura]] che fu nota come byronismo. Il vulcano non è ormai un
-
-vulcano spento; è il bastone morto d'un razzo. È ciò che resta
-
-non d'un [[Fire|fuoco]] naturale ma artificiale.
-
-Ma Byron e il byronismo furono qualcosa d'incommensurabilmente più grande di quanto
-
-sia rappresentato da una veduta come questa: il loro valore e significato reale
-
-sono davvero poco compresi. Il primo degli errori su Byron sta
-
-nel fatto che è trattato come un pessimista. Vero, egli trattava sé stesso
-
-come tale, ma un critico difficilmente può avere anche una lieve conoscenza di Byron
-
-senza sapere che egli aveva la minima misura di conoscenza di sé
-
-che mai sia toccata in sorte a un uomo intelligente. Il vero carattere di
-
-ciò che è noto come il pessimismo di Byron merita più studio di quanto ne meriterebbe
-
-qualsiasi pessimismo reale.
-
-È la costante peculiarità di questo nostro curioso mondo che quasi
-
-ogni cosa in esso è stata esaltata entusiasticamente e invariabilmente
-
-esaltata a scapito di tutto il resto.
-
-Uno dopo l'altro quasi ognuno dei fenomeni dell'universo è stato
-
-dichiarato [[Alone|il solo]] capace di rendere la vita degna d'essere vissuta. Libri,
-
-[[Love|amore]], affari, religione, alcol, [[Truth|verità]] astratta, emozione privata,
-
-denaro, semplicità, misticismo, duro lavoro, una vita vicina alla [[Nature|natura]], una vita
-
-vicina a Belgrave Square: ciascuna di esse è appassionatamente sostenuta
-
-da qualcuno come tanto buona da redimere il male d'un mondo altrimenti
-
-indifendibile. Così, mentre il mondo è quasi sempre condannato in
-
-sommario, è sempre giustificato, anzi esaltato, in un dettaglio dopo
-
-l'altro.
-
-L'esistenza è stata lodata e assolta da un [[Chorus|coro]] di pessimisti. L'
-
-opera di rendere grazie al Cielo è, per così dire, ripartita ingegnosamente
-
-fra loro. Schopenhauer è assegnato come una sorta di bibliotecario nella [[house|Casa]]
-
-di Dio, per cantare le lodi degli austeri piaceri della mente.
-
-Carlyle, come castaldo, assume il reparto del lavoro ed elogia una
-
-vita di fatica nei campi. Omar Khayyam è insediato nella cantina
-
-e giura che è l'unica stanza della [[house|casa]]. Persino il più nero dei
-
-pessimisti artisti gode della sua arte. Nel preciso istante in cui ha
-
-scritto qualche spudorata e terribile requisitoria contro la Creazione, il suo unico fremito
-
-di gioia per l'impresa si unisce al [[Chorus|coro]] universale di gratitudine, con
-
-il profumo del fiore selvatico e il [[Song|canto]] dell'uccello.
-
-Ora Byron ebbe una popolarità sensazionale, e quella popolarità era, per quanto
-
-riguarda parole e spiegazioni, fondata sul suo pessimismo. Era adorato
-
-da una schiacciante maggioranza, quasi ogni individuo della quale disprezzava
-
-la maggioranza del genere umano. Ma quando veniamo a considerare la questione un po'
-
-più a fondo, tendiamo in qualche misura a cessare di credere in questa
-
-popolarità del pessimista. La popolarità d'un pessimismo puro e non adulterato
-
-è una stranezza; è quasi una contraddizione in termini. Gli uomini
-
-non accoglierebbero la notizia del fallimento dell'esistenza o della
-
-armoniosa ostilità delle [[Stars|stelle]] con ardore o giubilo popolare più di quanto
-
-accenderebbero falò per l'arrivo del colera o [[Dance|danzerebbero]] un
-
-breakdown quando fossero condannati a essere impiccati. Quando il pessimista è
-
-popolare dev'essere sempre non perché mostra che tutte le cose sono cattive, ma
-
-perché mostra che alcune cose sono buone. Gli uomini possono unirsi solo a un [[Chorus|coro]]
-
-di lode, anche se è la lode della denuncia. L'uomo che è
-
-popolare dev'essere ottimista su qualcosa, anche se è ottimista soltanto
-
-riguardo al pessimismo. E questo era enfaticamente il caso di Byron e dei
-
-byronisti. La loro reale popolarità era fondata non sul fatto che
-
-biasimavano tutto, ma sul fatto che lodavano qualcosa. Essi
-
-ammucchiavano maledizioni sull'uomo, ma usavano l'uomo soltanto come contrasto. Le cose
-
-che volevano lodare per confronto erano le energie della [[Nature|natura]]. L'uomo era
-
-per loro ciò che le chiacchiere e la moda erano per Carlyle, ciò che le dispute filosofiche e
-
-religiose erano per Omar, ciò che l'intera corsa alla felicità pratica
-
-era per Schopenhauer: la cosa che dev'essere censurata affinché
-
-qualcun altro possa essere esaltato. Era soltanto un riconoscimento del
-
-fatto che non si può scrivere in [[chalk|gesso]] bianco se non su una lavagna.
-
-Certo è ridicolo sostenere seriamente che l'[[Love|amore]] di Byron per il
-
-desolato e l'inumano nella [[Nature|natura]] fosse il segno d'uno scetticismo vitale e d'una
-
-depressione. Quando un giovane può scegliere deliberatamente di passeggiare [[Alone|solo]] in
-
-[[Winter|inverno]] lungo il mare fragoroso, quando prova piacere nelle
-
-tempeste e nelle vette percosse, e nella sregolata [[Melancholy|malinconia]] della più antica
-
-terra, possiamo dedurre con la certezza della [[logic|logica]] che egli è molto giovane
-
-e molto felice. Vi è una certa oscurità che scorgiamo nel vino quando
-
-è visto nell'[[Shadow|ombra]]; la scorgiamo di nuovo nella [[Night|notte]] che ha appena sepolto un
-
-sfarzoso tramonto. Il vino pare nero, eppure al [[Time|tempo]] stesso
-
-potentemente e quasi impossibilmente rosso; il cielo pare nero, eppure al
-
-[[Time|tempo]] stesso una mescolanza fin troppo densa di porpora e verde. Tale era
-
-l'oscurità che avvolgeva la scuola byronica. L'oscurità per loro era
-
-una porpora fin troppo densa. Preferivano l'arcigna ostilità della
-
-terra perché in mezzo a tutto il freddo e l'oscurità i loro cuori
-
-fiammeggiavano come i loro stessi focolari.
-
-Le cose sono ben diverse con la più moderna scuola del [[Doubt|dubbio]] e del
-
-lamento. L'ultimo movimento del pessimismo è forse espresso nei disegni
-
-allegorici del signor Aubrey Beardsley. Qui abbiamo a che fare con un
-
-pessimismo che tende naturalmente non verso gli elementi più antichi del
-
-cosmo, ma verso le ultime e più fantastiche frivolezze della vita
-
-artificiale. Il byronismo tendeva verso il [[Desert|deserto]]; il nuovo pessimismo verso il
-
-ristorante. Il byronismo era una rivolta contro l'artificiosità; il nuovo
-
-pessimismo è una rivolta a suo favore. Il giovane byronico aveva
-
-un'affettazione di sincerità; il decadente, spingendosi un passo più a fondo nei
-
-viali dell'irreale, ha addirittura un'affettazione dell'affettazione. Ed
-
-è dalle loro leziosaggini e frivolezze che sappiamo che la loro
-
-sinistra [[philosophy|filosofia]] è sincera; nelle loro luci e ghirlande e nastri
-
-leggiamo la [[Despair|disperazione]] che li abita. Fu così, davvero, con Byron stesso;
-
-i suoi momenti davvero amari erano i suoi momenti frivoli. Continuò anno
-
-dopo anno a invocare il [[Fire|fuoco]] sul genere umano, chiamando il [[deluge|diluvio]] e il
-
-mare distruttore e tutte le ultime energie della [[Nature|natura]] a spazzar via
-
-le città della progenie dell'uomo. Ma per tutto questo la sua mente
-
-subconscia non era quella d'un disperato; al contrario, vi è qualcosa
-
-d'una sorta di sregolata [[Faith|fede]] in questo parlamentare con brutalità così immense e
-
-immemorabili. Non fu che nel [[Time|tempo]] in cui scrisse il «Don
-
-Juan» che egli perse davvero questo calore e questa giovialità interiori, e un improvviso
-
-grido d'ilare riso annunciò al mondo che Lord Byron era
-
-davvero diventato un pessimista.
-
-Una delle migliori prove al mondo di ciò che un poeta intende davvero è il suo
-
-metro. Può essere un ipocrita nella sua metafisica, ma non può essere un
-
-ipocrita nella sua prosodia. E per tutto il [[Time|tempo]] in cui il linguaggio di Byron è di
-
-orrore e vuoto, il suo metro è un balzante «pas de quatre». Può
-
-imputare all'esistenza le accuse più mortali, può condannarla col
-
-verdetto più desolante, ma non può mutare il fatto che in qualche passeggiata
-
-in un mattino di [[spring|primavera]], quando tutte le membra oscillano e tutto il [[Blood|sangue]]
-
-è vivo nel [[Body|corpo]], le labbra possono essere colte a ripetere:
-
-«Oh, non v'è gioia che il mondo possa dare pari a quella che toglie,
-
-quando il fulgore della prima giovinezza declina, della [[Beauty|bellezza]] nel greve [[Decay|disfacimento]];
-
-non è sulla guancia della giovinezza il rossore che sì presto svanisce,
-
-ma il tenero fiore del cuore è svanito prima che la giovinezza stessa sia trascorsa.»
-
-Quella recitazione automatica è la risposta all'intero pessimismo di Byron.
-
-La [[Truth|verità]] è che Byron apparteneva a una classe che si può chiamare degli
-
-ottimisti inconsapevoli, i quali sono spessissimo, in realtà, i più
-
-intransigenti pessimisti consapevoli, perché l'esuberanza della loro
-
-[[Nature|natura]] esige per avversario un drago grande quanto il mondo. Ma
-
-l'intero suo essere essenziale e inconsapevole era animoso e fiducioso,
-
-e quell'essere inconsapevole, a lungo mascherato e sepolto sotto artifici
-
-emotivi, balzò d'un tratto in primo piano di fronte a una fredda, dura
-
-necessità politica. In Grecia udì il grido della realtà, e nel
-
-[[Time|tempo]] in cui stava morendo, cominciò a vivere. Udì d'un tratto il richiamo di
-
-quella sepolta e subconscia felicità che è in tutti noi, e che
-
-può emergere d'un tratto alla vista dell'erba d'un prato o delle lance
-
-del nemico.
-
-
-
-<span class="atom-split" data-atom="story_06_rostand" data-title="Twelve Types — ROSTAND" data-chapter="ROSTAND" data-kind="story"></span>
-
-
-ROSTAND
-
-When 'Cyrano de Bergerac' was published, it bore the subordinate title
-
-of a heroic [[Comedy|comedy]]. We have no tradition in English literature which
-
-would justify us in calling a [[Comedy|comedy]] heroic, though there was once a
-
-poet who called a [[Comedy|comedy]] divine. By the current modern conception, the
-
-[[Hero|hero]] has his place in a [[Tragedy|tragedy]], and the one kind of strength which is
-
-systematically denied to him is the strength to succeed. That the power
-
-of a man's spirit might possibly go to the length of turning a [[Tragedy|tragedy]]
-
-into a [[Comedy|comedy]] is not admitted; nevertheless, almost all the primitive
-
-legends of the world are comedies, not only in the sense that they have
-
-a happy ending, but in the sense that they are based upon a certain
-
-optimistic assumption that the [[Hero|hero]] is destined to be the destroyer of
-
-the [[Monster|monster]]. Singularly enough, this modern idea of the essential
-
-disastrous character of life, when seriously considered, connects itself
-
-with a hyper-aesthetic view of [[Tragedy|tragedy]] and [[Comedy|comedy]] which is largely due to
-
-the influence of modern France, from which the great heroic comedies of
-
-Monsieur Rostand have come. The French genius has an instinct for
-
-remedying its own evil work, and France gives always the best cure for
-
-'Frenchiness.' The idea of [[Comedy|comedy]] which is held in England by the school
-
-which pays most attention to the technical niceties of art is a view
-
-which renders such an idea as that of heroic [[Comedy|comedy]] quite impossible.
-
-The fundamental conception in the minds of the majority of our younger
-
-writers is that [[Comedy|comedy]] is, 'par excellence,' a fragile thing. It is
-
-conceived to be a conventional world of the most absolutely delicate and
-
-gimcrack description. Such stories as Mr Max Beerbohm's 'Happy
-
-Hypocrite' are conceptions which would vanish or fall into utter
-
-nonsense if viewed by one single degree too seriously. But great [[Comedy|comedy]],
-
-the [[Comedy|comedy]] of Shakespeare or Sterne, not only can be, but must be, taken
-
-seriously. There is nothing to which a man must give himself up with
-
-more [[Faith|faith]] and [[Self|self]]-abandonment than to genuine laughter. In such
-
-comedies one laughs with the heroes and not at them. The [[Humour|humour]] which
-
-steeps the stories of [[Falstaff]] and Uncle Toby is a cosmic and
-
-philosophic [[Humour|humour]], a geniality which goes down to the depths. It is not
-
-superficial reading, it is not even, strictly speaking, light reading.
-
-Our sympathies are as much committed to the characters as if they were
-
-the predestined victims in a [[Greek Tragedy|Greek tragedy]]. The modern writer of
-
-comedies may be said to boast of the brittleness of his characters. He
-
-seems always on the eve of knocking his puppets to pieces. When John
-
-[[Oliver]] Hobbes wrote for the first [[Time|time]] a [[Comedy|comedy]] of serious emotions, she
-
-named it, with a thinly-disguised contempt for her own work, 'A
-
-Sentimental [[Comedy]].' The ground of this conception of the artificiality
-
-of [[Comedy|comedy]] is a profound pessimism. Life in the eyes of these mournful
-
-buffoons is itself an utterly tragic thing; [[Comedy|comedy]] must be as hollow as
-
-a grinning mask. It is a refuge from the world, and not even, properly
-
-speaking, a part of it. Their wit is a thin sheet of shining ice over
-
-the eternal waters of bitterness.
-
-'Cyrano de Bergerac' came to us as the new decoration of an old [[Truth|truth]],
-
-that merriment was one of the world's natural [[Flowers|flowers]], and not one of
-
-its exotics. The gigantesque levity, the flamboyant eloquence, the
-
-Rabelaisian puns and digressions were seen to be once more what they had
-
-been in Rabelais, the mere outbursts of a human sympathy and bravado as
-
-old and solid as the [[Stars|stars]]. The human spirit demanded wit as headlong
-
-and haughty as its will. All was expressed in the words of Cyrano at
-
-his highest moment of happiness. 'Il me faut des geants.' An essential
-
-aspect of this question of heroic [[Comedy|comedy]] is the question of drama in
-
-rhyme. There is nothing that affords so easy a point of attack for the
-
-dramatic realist as the conduct of a play in verse. According to his
-
-canons, it is indeed absurd to represent a number of characters facing
-
-some terrible crisis in their lives by capping rhymes like a party
-
-playing 'bouts rimes.' In his eyes it must appear somewhat ridiculous
-
-that two enemies taunting each other with insupportable insults should
-
-obligingly provide each other with metrical spacing and neat and
-
-convenient rhymes. But the whole of this view rests finally upon the
-
-fact that few persons, if any, to-day understand what is meant by a
-
-poetical play. It is a singular thing that those poetical plays which
-
-are now written in England by the most advanced students of the drama
-
-follow exclusively the lines of Maeterlinck, and use verse and rhyme for
-
-the adornment of a profoundly tragic theme. But rhyme has a supreme
-
-appropriateness for the treatment of the higher [[Comedy|comedy]]. The land of
-
-heroic [[Comedy|comedy]] is, as it were, a paradise of [[lovers]], in which it is not
-
-difficult to imagine that men could talk poetry all day long. It is far
-
-more conceivable that men's speech should flower naturally into these
-
-harmonious forms, when they are filled with the essential spirit of
-
-youth, than when they are sitting gloomily in the presence of immemorial
-
-destiny. The great error consists in supposing that poetry is an
-
-unnatural form of language. We should all like to speak poetry at the
-
-moment when we truly live, and if we do not speak it, it is because we
-
-have an impediment in our speech. It is not [[Song|song]] that is the narrow or
-
-artificial thing, it is conversation that is a broken and stammering
-
-attempt at [[Song|song]]. When we see men in a spiritual extravaganza, like
-
-Cyrano de Bergerac, speaking in rhyme, it is not our language disguised
-
-or distorted, but our language rounded and made whole. Rhymes answer
-
-each other as the sexes in [[Flowers|flowers]] and in humanity answer each other.
-
-Men do not speak so, it is true. Even when they are inspired or in [[Love|love]]
-
-they talk inanities. But the poetic [[Comedy|comedy]] does not misrepresent the
-
-speech one half so much, as the speech misrepresents the [[Soul|soul]]. Monsieur
-
-Rostand showed even more than his usual insight when he called 'Cyrano
-
-de Bergerac' a [[Comedy|comedy]], despite the fact that, strictly speaking, it ends
-
-with disappointment and [[Death|death]]. The essence of [[Tragedy|tragedy]] is a spiritual
-
-breakdown or decline, and in the great French play the spiritual
-
-sentiment mounts unceasingly until the last line. It is not the facts
-
-themselves, but our feeling about them, that makes [[Tragedy|tragedy]] and [[Comedy|comedy]],
-
-and [[Death|death]] is more joyful in Rostand than life in Maeterlinck. The same
-
-apparent contradiction holds good in the case of the drama of
-
-'L'Aiglon,' now being performed with so much [[success]]. Although the [[Hero|hero]]
-
-is a weakling, the subject a fiasco, the end a premature [[Death|death]] and a
-
-personal [[Disillusionment|disillusionment]], yet, in spite of this theme, which might have
-
-been chosen for its depressing qualities, the unconquerable paean of the
-
-praise of things, the ungovernable gaiety of the poet's [[Song|song]] swells so
-
-high that at the end it seems to drown all the weak voices of the
-
-characters in one crashing [[Chorus|chorus]] of great things and great men. A
-
-multitude of mottoes might be taken from the play to indicate and
-
-illustrate, not only its own spirit, but much of the spirit of modern
-
-life. When in the vision of the field of Wagram the horrible voices of
-
-the wounded cry out, 'Les corbeaux, les corbeaux,' the Duke, overwhelmed
-
-with a [[nightmare]] of hideous trivialities, cries out, 'Ou, ou sont les
-
-aigles?' That antithesis might stand [[Alone|alone]] as an invocation at the
-
-beginning of the twentieth century to the spirit of heroic [[Comedy|comedy]]. When
-
-an ex-General of Napoleon is asked his reason for having betrayed the
-
-Emperor, he replies, 'La fatigue,' and at that a veteran private of the
-
-Great Army rushes forward, and crying passionately, 'Et nous?' pours out
-
-a terrible description of the life lived by the common soldier. To-day
-
-when pessimism is almost as much a symbol of wealth and fashion as
-
-jewels or cigars, when the pampered heirs of the ages can sum up life in
-
-few other words but 'la fatigue,' there might surely come a cry from the
-
-vast mass of common humanity from the beginning 'et nous?' It is this
-
-potentiality for enthusiasm among the mass of men that makes the
-
-function of [[Comedy|comedy]] at once common and [[Sublime|sublime]]. Shakespeare's 'Much Ado
-
-about Nothing' is a great [[Comedy|comedy]], because behind it is the whole
-
-pressure of that [[Love|love]] of [[Love|love]] which is the youth of the world, which is
-
-common to all the young, especially to those who swear they will die
-
-bachelors and old maids. '[[Love]]'s Labour Lost' is filled with the same
-
-energy, and there it falls even more definitely into the scope of our
-
-subject since it is a [[Comedy|comedy]] in rhyme in which all men speak lyrically
-
-as naturally as the [[Birds|birds]] sing in pairing [[Time|time]]. What the [[Love|love]] of [[Love|love]] is
-
-to the Shakespearian comedies, that other and more mysterious human
-
-passion, the [[Love|love]] of [[Death|death]], is to 'L'Aiglon.' Whether we shall ever have
-
-in England a new tradition of poetic [[Comedy|comedy]] it is difficult at present
-
-to say, but we shall assuredly never have it until we realise that
-
-[[Comedy|comedy]] is built upon everlasting foundations in the [[Nature|nature]] of things,
-
-that it is not a thing too light to capture, but too deep to plumb.
-
-Monsieur Rostand, in his description of the Battle of Wagram, does not
-
-shrink from bringing about the Duke's ears the frightful voices of
-
-actual battle, of men torn by crows, and suffocated with [[Blood|blood]], but when
-
-the Duke, terrified at these dreadful appeals, asks them for their final
-
-word, they all cry together 'Vive l'Empereur!' Monsieur Rostand,
-
-perhaps, did not know that he was writing an [[Allegory|allegory]]. To me that field
-
-of Wagram is the field of the modern war of literature. We hear nothing
-
-but the voices of [[Pain|pain]]; the whole is one phonograph of horror. It is
-
-right that we should hear these things, it is right that not one of them
-
-should be silenced; but these cries of distress are not in life as they
-
-are in modern art the only voices, they are the voices of men, but not
-
-the voice of man. When questioned finally and seriously as to their
-
-conception of their destiny, men have from the beginning of [[Time|time]]
-
-answered in a thousand philosophies and religions with a single voice
-
-and in a sense most sacred and tremendous, 'Vive l'Empereur.'
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-ROSTAND
-
-Quando fu pubblicato il 'Cyrano de Bergerac', esso portava il titolo subordinato
-
-di [[Comedy|commedia]] eroica. Non abbiamo alcuna tradizione, nella letteratura inglese, che
-
-ci autorizzi a chiamare eroica una [[Comedy|commedia]], benché vi fosse una volta un
-
-poeta che chiamò divina una [[Comedy|commedia]]. Secondo la concezione moderna corrente, l'
-
-[[Hero|eroe]] ha il suo posto in una [[Tragedy|tragedia]], e l'unica specie di forza che gli è
-
-sistematicamente negata è la forza di riuscire. Che la potenza
-
-dello spirito di un uomo possa spingersi fino a mutare una [[Tragedy|tragedia]]
-
-in [[Comedy|commedia]] non è ammesso; nondimeno, quasi tutte le primitive
-
-leggende del mondo sono commedie, non solo nel senso che hanno
-
-un lieto fine, ma nel senso che si fondano su una certa
-
-ottimistica assunzione che l'[[Hero|eroe]] sia destinato a essere il distruttore del
-
-[[Monster|mostro]]. Cosa abbastanza singolare, questa idea moderna dell'essenziale
-
-carattere disastroso della vita, se seriamente considerata, si collega
-
-a una visione iper-estetica della [[Tragedy|tragedia]] e della [[Comedy|commedia]] dovuta in larga parte all'
-
-influenza della Francia moderna, da cui sono venute le grandi commedie eroiche del
-
-signor Rostand. Il genio francese ha un istinto per
-
-rimediare alla propria opera malvagia, e la Francia offre sempre il miglior rimedio alla
-
-'francesità'. L'idea di [[Comedy|commedia]] sostenuta in Inghilterra dalla scuola
-
-che presta la massima attenzione alle finezze tecniche dell'arte è una veduta
-
-che rende del tutto impossibile un'idea come quella della [[Comedy|commedia]] eroica.
-
-La concezione fondamentale nella mente della maggioranza dei nostri più giovani
-
-scrittori è che la [[Comedy|commedia]] sia, 'par excellence', una cosa fragile. È
-
-concepita come un mondo convenzionale della più assolutamente delicata e
-
-pacchiana fattura. Racconti come l''Happy
-
-Hypocrite' del signor Max Beerbohm sono concezioni che svanirebbero o cadrebbero in pura
-
-assurdità se guardati con un solo grado di troppa serietà. Ma la grande [[Comedy|commedia]],
-
-la [[Comedy|commedia]] di Shakespeare o di Sterne, non solo può, ma deve essere presa
-
-sul serio. Non vi è nulla a cui un uomo debba abbandonarsi con
-
-più [[Faith|fede]] e [[Self|auto]]-abbandono che alla genuina risata. In tali
-
-commedie si ride con gli eroi e non di loro. L'[[Humour|umorismo]] che
-
-impregna le storie di [[Falstaff]] e dello Zio Toby è un umorismo cosmico e
-
-filosofico [[Humour|umorismo]], una giovialità che scende fino agli abissi. Non è
-
-una lettura superficiale, non è nemmeno, a rigore, una lettura leggera.
-
-Le nostre simpatie sono coinvolte nei personaggi tanto quanto se fossero
-
-le vittime predestinate di una [[Greek Tragedy|tragedia greca]]. Il moderno scrittore di
-
-commedie si può dire che si vanti della fragilità dei suoi personaggi. Egli
-
-sembra sempre sul punto di ridurre in pezzi i suoi burattini. Quando John
-
-[[Oliver]] Hobbes scrisse per la prima [[Time|volta]] una [[Comedy|commedia]] di serie emozioni, ella
-
-la intitolò, con un disprezzo malamente celato per la propria opera, 'Una
-
-[[Comedy|commedia]] sentimentale.' Il fondamento di questa concezione dell'artificiosità
-
-della [[Comedy|commedia]] è un profondo pessimismo. La vita, agli occhi di questi lugubri
-
-buffoni, è essa stessa cosa del tutto tragica; la [[Comedy|commedia]] dev'essere vuota come
-
-una maschera ghignante. È un rifugio dal mondo, e nemmeno, a rigor di
-
-termini, una parte di esso. Il loro spirito è una sottile lastra di ghiaccio splendente sopra
-
-le eterne acque dell'amarezza.
-
-Il 'Cyrano de Bergerac' ci giunse come il nuovo ornamento di una vecchia [[Truth|verità]],
-
-che l'allegria fosse uno dei naturali [[Flowers|fiori]] del mondo, e non una delle
-
-sue piante esotiche. La leggerezza gigantesca, l'eloquenza fiammeggiante, i
-
-giochi di parole e le digressioni rabelaisiane si videro essere ancora una volta ciò che erano
-
-stati in Rabelais, i meri prorompimenti di una simpatia umana e di una spavalderia tanto
-
-antiche e solide quanto le [[Stars|stelle]]. Lo spirito umano esigeva uno spirito impetuoso
-
-e altero quanto la sua volontà. Tutto era espresso nelle parole di Cyrano nel
-
-suo più alto momento di felicità. 'Il me faut des géants.' Un aspetto essenziale
-
-di questa questione della [[Comedy|commedia]] eroica è la questione del dramma in
-
-rima. Non vi è nulla che offra un punto d'attacco così facile al
-
-realista drammatico quanto la condotta di un'opera in versi. Secondo i suoi
-
-canoni, è davvero assurdo rappresentare una serie di personaggi che affrontano
-
-qualche terribile crisi della loro vita rincorrendo rime come una brigata
-
-che gioca ai 'bouts-rimés'. Ai suoi occhi deve apparire alquanto ridicolo
-
-che due nemici, schernendosi a vicenda con insulti insopportabili, debbano
-
-cortesemente fornirsi l'un l'altro spaziature metriche e rime nette e
-
-convenienti. Ma tutta questa veduta poggia in ultimo sul
-
-fatto che poche persone, se pur alcune, comprendono oggi cosa s'intenda per un'
-
-opera poetica. È cosa singolare che quelle opere poetiche che
-
-sono oggi scritte in Inghilterra dai più avanzati studiosi del dramma
-
-seguano esclusivamente le linee di Maeterlinck, e usino il verso e la rima per
-
-l'ornamento di un tema profondamente tragico. Ma la rima ha una suprema
-
-appropriatezza per il trattamento della [[Comedy|commedia]] più alta. La terra della
-
-[[Comedy|commedia]] eroica è, per così dire, un paradiso di [[lovers|amanti]], in cui non è
-
-difficile immaginare che gli uomini possano parlare in poesia tutto il giorno. È assai
-
-più concepibile che il linguaggio degli uomini fiorisca naturalmente in queste
-
-forme armoniose, quando sono colmi dell'essenziale spirito della
-
-giovinezza, che quando siedono cupamente al cospetto dell'immemoriale
-
-destino. Il grande errore consiste nel supporre che la poesia sia una
-
-forma innaturale di linguaggio. A tutti noi piacerebbe parlare in poesia nel
-
-momento in cui viviamo davvero, e se non la parliamo, è perché
-
-abbiamo un impedimento nella parola. Non è il [[Song|canto]] la cosa angusta o
-
-artificiale, è la conversazione a essere un tentativo spezzato e balbettante
-
-di [[Song|canto]]. Quando vediamo uomini in una stravaganza spirituale, come
-
-Cyrano de Bergerac, parlare in rima, non è il nostro linguaggio travestito
-
-o distorto, ma il nostro linguaggio arrotondato e reso intero. Le rime si rispondono
-
-l'un l'altra come i sessi nei [[Flowers|fiori]] e nell'umanità si rispondono l'un l'altro.
-
-Gli uomini non parlano così, è vero. Anche quando sono ispirati o [[Love|innamorati]]
-
-dicono inezie. Ma la [[Comedy|commedia]] poetica non travisa il
-
-linguaggio neppure la metà di quanto il linguaggio travisi l'[[Soul|anima]]. Il signor
-
-Rostand mostrò ancor più della sua consueta perspicacia quando chiamò il 'Cyrano
-
-de Bergerac' una [[Comedy|commedia]], nonostante il fatto che, a rigore, finisca
-
-con la delusione e la [[Death|morte]]. L'essenza della [[Tragedy|tragedia]] è un crollo
-
-spirituale o un declino, e nella grande opera francese il sentimento
-
-spirituale sale incessantemente fino all'ultimo verso. Non sono i fatti
-
-in sé, ma il nostro sentire verso di essi, a fare la [[Tragedy|tragedia]] e la [[Comedy|commedia]],
-
-e la [[Death|morte]] è più gioiosa in Rostand della vita in Maeterlinck. La stessa
-
-apparente contraddizione vale nel caso del dramma
-
-'L'Aiglon', ora rappresentato con tanto [[success|successo]]. Benché l'[[Hero|eroe]]
-
-sia un debole, il soggetto un fiasco, il finale una [[Death|morte]] prematura e una
-
-[[Disillusionment|disillusione]] personale, tuttavia, a dispetto di questo tema, che avrebbe potuto
-
-essere scelto per le sue qualità deprimenti, l'inconquistabile peana della
-
-lode delle cose, l'ingovernabile gaiezza del [[Song|canto]] del poeta si gonfia così
-
-alta che alla fine sembra sommergere tutte le deboli voci dei
-
-personaggi in un unico fragoroso [[Chorus|coro]] di grandi cose e grandi uomini. Una
-
-moltitudine di motti potrebbe trarsi dall'opera per indicare e
-
-illustrare, non solo il suo spirito, ma molto dello spirito della vita
-
-moderna. Quando, nella visione del campo di Wagram, le orribili voci dei
-
-feriti gridano, 'Les corbeaux, les corbeaux,' il Duca, sopraffatto
-
-da un [[nightmare|incubo]] di orrende banalità, grida, 'Où, où sont les
-
-aigles?' Quell'antitesi potrebbe reggersi da [[Alone|sola]] come un'invocazione all'
-
-inizio del ventesimo secolo allo spirito della [[Comedy|commedia]] eroica. Quando
-
-a un ex-generale di Napoleone si chiede la ragione per cui tradì l'
-
-Imperatore, egli risponde, 'La fatigue,' e a ciò un veterano soldato semplice della
-
-Grande Armata si fa avanti, e gridando appassionatamente, 'Et nous?' riversa
-
-una terribile descrizione della vita vissuta dal soldato comune. Oggi
-
-quando il pessimismo è quasi altrettanto simbolo di ricchezza e moda quanto
-
-i gioielli o i sigari, quando i viziati eredi delle epoche sanno riassumere la vita in
-
-poche altre parole se non 'la fatigue,' potrebbe certo levarsi un grido dalla
-
-vasta massa dell'umanità comune fin dal principio 'et nous?' È questa
-
-potenzialità di entusiasmo tra la massa degli uomini a rendere la
-
-funzione della [[Comedy|commedia]] insieme comune e [[Sublime|sublime]]. 'Much Ado
-
-about Nothing' di Shakespeare è una grande [[Comedy|commedia]], perché dietro di essa è tutta la
-
-pressione di quell'[[Love|amore]] dell'[[Love|amore]] che è la giovinezza del mondo, che è
-
-comune a tutti i giovani, specie a coloro che giurano che moriranno
-
-scapoli e zitelle. '[[Love|Pene]] d'amor perdute' è colmo della stessa
-
-energia, e lì rientra ancor più decisamente nell'ambito del nostro
-
-soggetto, poiché è una [[Comedy|commedia]] in rima in cui tutti gli uomini parlano liricamente
-
-naturalmente come gli [[Birds|uccelli]] cantano nella [[Time|stagione]] degli amori. Ciò che l'[[Love|amore]] dell'[[Love|amore]] è
-
-per le commedie shakespeariane, quell'altra e più misteriosa umana
-
-passione, l'[[Love|amore]] della [[Death|morte]], è per 'L'Aiglon'. Se mai avremo
-
-in Inghilterra una nuova tradizione di [[Comedy|commedia]] poetica è difficile al presente
-
-dirlo, ma di certo non l'avremo mai finché non comprenderemo che la
-
-[[Comedy|commedia]] è edificata su eterne fondamenta nella [[Nature|natura]] delle cose,
-
-che non è cosa troppo lieve da afferrare, ma troppo profonda da scandagliare.
-
-Il signor Rostand, nella sua descrizione della Battaglia di Wagram, non
-
-esita a portare alle orecchie del Duca le spaventose voci della
-
-battaglia reale, di uomini dilaniati dai corvi, e soffocati nel [[Blood|sangue]], ma quando
-
-il Duca, atterrito da questi terribili richiami, chiede loro la loro ultima
-
-parola, tutti gridano insieme 'Vive l'Empereur!' Il signor Rostand,
-
-forse, non sapeva di scrivere un'[[Allegory|allegoria]]. Per me quel campo
-
-di Wagram è il campo della moderna guerra della letteratura. Non udiamo nulla
-
-se non le voci del [[Pain|dolore]]; il tutto è un unico fonografo d'orrore. È
-
-giusto che udiamo queste cose, è giusto che non una di esse
-
-sia messa a tacere; ma questi gridi d'angoscia non sono nella vita, come
-
-sono nell'arte moderna, le sole voci, sono le voci degli uomini, ma non
-
-la voce dell'uomo. Interrogati infine e seriamente sulla loro
-
-concezione del proprio destino, gli uomini hanno fin dal principio del [[Time|tempo]]
-
-risposto in mille filosofie e religioni con una sola voce
-
-e in un senso sacratissimo e tremendo, 'Vive l'Empereur.'
-
-
-
-<span class="atom-split" data-atom="story_10_savonarola" data-title="Twelve Types — SAVONAROLA" data-chapter="SAVONAROLA" data-kind="story"></span>
-
-
-SAVONAROLA
-
-Savonarola is a man whom we shall probably never understand until we
-
-know what horror may lie at the heart of civilisation. This we shall not
-
-know until we are civilised. It may be hoped, in one sense, that we may
-
-never understand Savonarola.
-
-The great deliverers of men have, for the most part, saved them from
-
-calamities which we all recognise as evil, from calamities which are the
-
-ancient enemies of humanity. The great law-givers saved us from anarchy:
-
-the great physicians saved us from pestilence: the great reformers
-
-saved us from starvation. But there is a huge and bottomless evil
-
-compared with which all these are flea-bites, the most desolating curse
-
-that can fall upon men or nations, and it has no name, except we call it
-
-satisfaction. Savonarola did not save men from anarchy, but from order;
-
-not from pestilence, but from paralysis; not from starvation, but from
-
-luxury. Men like Savonarola are the witnesses to the tremendous
-
-psychological fact at the back of all our brains, but for which no name
-
-has ever been found, that ease is the worst enemy of happiness, and
-
-civilisation potentially the end of man.
-
-For I fancy that Savonarola's thrilling challenge to the luxury of his
-
-day went far deeper than the mere question of sin. The modern
-
-rationalistic admirers of Savonarola, from George Eliot downwards,
-
-dwell, truly enough, upon the sound ethical justification of
-
-Savonarola's anger, upon the hideous and extravagant character of the
-
-crimes which polluted the palaces of the [[Renaissance]]. But they need not
-
-be so anxious to show that Savonarola was no [[ascetic]], that he merely
-
-picked out the black specks of wickedness with the priggish
-
-enlightenment of a member of an Ethical Society. Probably he did hate
-
-the civilisation of his [[Time|time]], and not merely its sins; and that is
-
-precisely where he was infinitely more profound than a modern moralist.
-
-He saw that the actual crimes were not the only evils: that stolen
-
-jewels and poisoned wine and obscene pictures were merely the symptoms;
-
-that the disease was the complete dependence upon jewels and wine and
-
-pictures. This is a thing constantly forgotten in judging of ascetics
-
-and Puritans in old times. A denunciation of harmless sports did not
-
-always mean an ignorant hatred of what no one but a narrow moralist
-
-would call harmful. Sometimes it meant an exceedingly enlightened hatred
-
-of what no one but a narrow moralist would call harmless. Ascetics are
-
-sometimes more advanced than the average man, as [[Well|well]] as less.
-
-Such, at least, was the hatred in the heart of Savonarola. He was making
-
-war against no trivial human sins, but against godless and thankless
-
-quiescence, against getting used to happiness, the mystic sin by which
-
-all creation fell. He was preaching that severity which is the
-
-sign-manual of youth and [[Hope|hope]]. He was preaching that alertness, that
-
-clean agility and vigilance, which is as necessary to gain pleasure as
-
-to gain holiness, as indispensable in a [[Lover|lover]] as in a monk. A critic has
-
-truly pointed out that Savonarola could not have been fundamentally
-
-anti-aesthetic, since he had such friends as [[Michael]] [[Angelo]], Botticelli,
-
-and Luca della Robbia. The fact is that this [[Purification|purification]] and austerity
-
-are even more necessary for the appreciation of life and laughter than
-
-for anything else. To let no bird fly past unnoticed, to spell patiently
-
-the stones and weeds, to have the mind a storehouse of sunset, requires
-
-a discipline in pleasure, and an [[Education|education]] in gratitude.
-
-The civilisation which surrounded Savonarola on every side was a
-
-civilisation which had already taken the wrong turn, the turn that
-
-leads to endless inventions and no discoveries, in which new things grow
-
-old with confounding rapidity, but in which no old things ever grow new.
-
-The monstrosity of the crimes of the [[Renaissance]] was not a mark of
-
-[[Imagination|imagination]]; it was a mark, as all monstrosity is, of the loss of
-
-[[Imagination|imagination]]. It is only when a man has really ceased to see a [[Horse|horse]] as
-
-it is, that he invents a centaur, only when he can no longer be
-
-surprised at an ox, that he worships the devil. Diablerie is the
-
-stimulant of the jaded fancy; it is the dram-drinking of the [[artist]].
-
-Savonarola addressed himself to the hardest of all earthly tasks, that
-
-of making men turn back and [[Wonder|wonder]] at the simplicities they had learnt
-
-to ignore. It is strange that the most unpopular of all doctrines is
-
-the doctrine which declares the common life divine. [[democracy|Democracy]], of which
-
-Savonarola was so fiery an exponent, is the hardest of gospels; there is
-
-nothing that so terrifies men as the decree that they are all kings.
-
-[[Christianity]], in Savonarola's mind, identical with [[democracy]], is the
-
-hardest of gospels; there is nothing that so strikes men with [[Fear|fear]] as
-
-the saying that they are all the sons of God.
-
-Savonarola and his republic fell. The drug of despotism was administered
-
-to the people, and they forgot what they had been. There are some at the
-
-present day who have so strange a respect for art and letters, and for
-
-mere men of genius, that they conceive the reign of the Medici to be an
-
-improvement on that of the great Florentine republican. It is such men
-
-as these and their civilisation that we have at the present day to [[Fear|fear]].
-
-We are surrounded on many sides by the same symptoms as those which
-
-awoke the unquenchable wrath of Savonarola--a hedonism that is more sick
-
-of happiness than an invalid is sick of [[Pain|pain]], an art sense that seeks
-
-the assistance of crime since it has exhausted [[Nature|nature]]. In many modern
-
-works we find veiled and horrible hints of a truly [[Renaissance]] sense of
-
-the [[Beauty|beauty]] of [[Blood|blood]], the poetry of murder. The bankrupt and depraved
-
-[[Imagination|imagination]] does not see that a living man is far more dramatic than a
-
-dead one. Along with this, as in the [[Time|time]] of the Medici, goes the
-
-falling back into the arms of despotism, the hunger for the strong man
-
-which is unknown among strong men. The masterful [[Hero|hero]] is worshipped as
-
-he is worshipped by the readers of the 'Bow [[Bells]] Novelettes,' and for
-
-the same reason--a profound sense of personal weakness. That tendency to
-
-devolve our duties descends on us, which is the [[Soul|soul]] of [[Slavery|slavery]], alike
-
-whether for its menial tasks it employs serfs or emperors. Against all
-
-this the great clerical republican stands in everlasting protest,
-
-preferring his failure to his rival's [[success]]. The issue is still
-
-between him and [[Lorenzo]], between the responsibilities of liberty and the
-
-licence of [[Slavery|slavery]], between the perils of [[Truth|truth]] and the security of
-
-[[Silence|silence]], between the pleasure of toil and the toil of pleasure. The
-
-supporters of [[Lorenzo]] the Magnificent are assuredly among us, men for
-
-whom even nations and empires only exist to satisfy the moment, men to
-
-whom the last hot hour of [[Summer|summer]] is better than a sharp and wintry
-
-[[spring]]. They have an art, a literature, a political [[philosophy]], which
-
-are all alike valued for their immediate effect upon the taste, not for
-
-what they promise of the destiny of the spirit. Their statuettes and
-
-sonnets are rounded and perfect, while '[[Macbeth]]' is in comparison a
-
-[[Fragment|fragment]], and the Moses of [[Michael]] [[Angelo]] a hint. Their campaigns and
-
-battles are always called triumphant, while Caesar and Cromwell wept for
-
-many humiliations. And the end of it all is the hell of no resistance,
-
-the hell of an unfathomable softness, until the whole [[Nature|nature]] recoils
-
-into [[Madness|madness]] and the chamber of civilisation is no longer merely a
-
-cushioned apartment, but a padded cell.
-
-This last and worst of human miseries Savonarola saw afar off, and bent
-
-his whole gigantic energies to turning the chariot into another course.
-
-Few men understood his object; some called him a madman, some a
-
-charlatan, some an enemy of human joy. They would not even have
-
-understood if he had told them, if he had said that he was saving them
-
-from a calamity of contentment which should be the end of joys and
-
-sorrows alike. But there are those to-day who feel the same silent
-
-danger, and who bend themselves to the same silent resistance. They also
-
-are supposed to be contending for some trivial political scruple.
-
-Mr M'Hardy says, in defending Savonarola, that the number of fine works
-
-of art destroyed in the Burning of the Vanities has been much
-
-exaggerated. I confess that I [[Hope|hope]] the pile contained stacks of
-
-incomparable masterpieces if the sacrifice made that one real moment
-
-more real. Of one thing I am sure, that Savonarola's friend [[Michael]]
-
-[[Angelo]] would have piled all his own statues one on top of the other, and
-
-burnt them to ashes, if only he had been certain that the glow
-
-transfiguring the sky was the [[Dawn|dawn]] of a younger and wiser world.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-SAVONAROLA
-
-Savonarola è un uomo che probabilmente non comprenderemo mai finché non
-
-sapremo quale orrore possa annidarsi nel cuore della civiltà. E questo non lo
-
-sapremo finché non saremo civilizzati. Si può sperare, in un certo senso, di non
-
-comprendere mai Savonarola.
-
-I grandi liberatori degli uomini li hanno, per lo più, salvati da
-
-calamità che tutti riconosciamo come mali, da calamità che sono gli
-
-antichi nemici dell'umanità. I grandi legislatori ci salvarono dall'anarchia:
-
-i grandi medici ci salvarono dalla pestilenza: i grandi riformatori
-
-ci salvarono dalla fame. Ma esiste un male immenso e senza fondo
-
-al cui confronto tutti questi sono punture di pulce, la più desolante maledizione
-
-che possa abbattersi su uomini o nazioni, e non ha nome, se non lo chiamiamo
-
-appagamento. Savonarola non salvò gli uomini dall'anarchia, ma dall'ordine;
-
-non dalla pestilenza, ma dalla paralisi; non dalla fame, ma dal
-
-lusso. Uomini come Savonarola sono i testimoni del tremendo
-
-fatto psicologico che sta in fondo a tutti i nostri cervelli, ma per il quale nessun nome
-
-è mai stato trovato, che l'agio è il peggior nemico della felicità, e
-
-la civiltà potenzialmente la fine dell'uomo.
-
-Poiché immagino che l'elettrizzante sfida di Savonarola al lusso del suo
-
-tempo andasse assai più a fondo della semplice questione del peccato. I moderni
-
-ammiratori razionalisti di Savonarola, da George Eliot in giù,
-
-insistono, abbastanza giustamente, sulla solida giustificazione etica
-
-dell'ira di Savonarola, sul carattere orribile ed eccessivo dei
-
-crimini che contaminavano i palazzi del [[Renaissance|Rinascimento]]. Ma non è necessario che
-
-siano tanto ansiosi di dimostrare che Savonarola non fu affatto un [[ascetic|asceta]], che egli si limitò a
-
-spuntare le nere macchie della malvagità con il pedante
-
-illuminismo di un membro di una Società Etica. Probabilmente egli odiava davvero
-
-la civiltà del suo [[Time|tempo]], e non semplicemente i suoi peccati; ed è
-
-esattamente in questo che fu infinitamente più profondo di un moralista moderno.
-
-Egli vide che i crimini effettivi non erano i soli mali: che gioielli rubati
-
-e vino avvelenato e immagini oscene erano soltanto i sintomi;
-
-che la malattia era la completa dipendenza dai gioielli e dal vino e dalle
-
-immagini. Questa è una cosa costantemente dimenticata nel giudicare gli asceti
-
-e i puritani dei tempi antichi. Una denuncia di svaghi innocui non
-
-significava sempre un ignorante odio verso ciò che nessuno se non un gretto moralista
-
-chiamerebbe dannoso. Talvolta significava un odio straordinariamente illuminato
-
-verso ciò che nessuno se non un gretto moralista chiamerebbe innocuo. Gli asceti sono
-
-talvolta più avanti dell'uomo medio, così [[Well|come]] meno.
-
-Tale, almeno, era l'odio nel cuore di Savonarola. Egli muoveva
-
-guerra non contro banali peccati umani, ma contro un empio e ingrato
-
-quietismo, contro l'abituarsi alla felicità, il peccato mistico per cui
-
-tutta la creazione cadde. Egli predicava quella severità che è il
-
-segno distintivo della giovinezza e della [[Hope|speranza]]. Predicava quella prontezza, quella
-
-limpida agilità e vigilanza, che è necessaria per conquistare il piacere tanto quanto
-
-per conquistare la santità, tanto indispensabile in un [[Lover|amante]] quanto in un monaco. Un critico ha
-
-giustamente osservato che Savonarola non poteva essere fondamentalmente
-
-anti-estetico, dato che aveva amici quali [[Michael]] [[Angelo]], Botticelli,
-
-e Luca della Robbia. Il fatto è che questa [[Purification|purificazione]] e austerità
-
-sono ancor più necessarie all'apprezzamento della vita e del riso che
-
-a qualsiasi altra cosa. Non lasciar passare inosservato alcun uccello, compitare con pazienza
-
-le pietre e le erbacce, avere la mente come un magazzino di tramonti, richiede
-
-una disciplina nel piacere, e un'[[Education|educazione]] alla gratitudine.
-
-La civiltà che circondava Savonarola da ogni lato era una
-
-civiltà che aveva già preso la svolta sbagliata, la svolta che
-
-conduce a infinite invenzioni e a nessuna scoperta, in cui le cose nuove diventano
-
-vecchie con sconcertante rapidità, ma in cui nessuna cosa vecchia diventa mai nuova.
-
-La mostruosità dei crimini del [[Renaissance|Rinascimento]] non era un segno di
-
-[[Imagination|immaginazione]]; era un segno, come lo è ogni mostruosità, della perdita dell'
-
-[[Imagination|immaginazione]]. È solo quando un uomo ha davvero cessato di vedere un [[Horse|cavallo]] per
-
-ciò che è, che inventa un centauro, solo quando non riesce più a
-
-stupirsi di un bue, che adora il diavolo. La diavoleria è lo
-
-stimolante della fantasia stanca; è il bere d'acquavite dell'[[artist|artista]].
-
-Savonarola si dedicò al più arduo di tutti i compiti terreni, quello
-
-di far sì che gli uomini si volgessero indietro e si [[Wonder|meravigliassero]] delle semplicità che avevano imparato
-
-a ignorare. È strano che la più impopolare di tutte le dottrine sia
-
-la dottrina che dichiara divina la vita comune. La [[democracy|Democrazia]], di cui
-
-Savonarola fu un così focoso esponente, è il più arduo dei vangeli; non c'è
-
-nulla che tanto atterrisca gli uomini quanto il decreto che essi sono tutti re.
-
-Il [[Christianity|Cristianesimo]], nella mente di Savonarola, identico alla [[democracy|democrazia]], è il
-
-più arduo dei vangeli; non c'è nulla che colpisca gli uomini con tanta [[Fear|paura]] quanto
-
-il detto che essi sono tutti figli di Dio.
-
-Savonarola e la sua repubblica caddero. La droga del dispotismo fu somministrata
-
-al popolo, ed esso dimenticò ciò che era stato. Vi sono alcuni ai
-
-giorni nostri che nutrono un così strano rispetto per l'arte e le lettere, e per
-
-i meri uomini di genio, da concepire il regno dei Medici come un
-
-miglioramento rispetto a quello del grande repubblicano fiorentino. Sono uomini
-
-come questi e la loro civiltà che oggi dobbiamo [[Fear|temere]].
-
-Siamo circondati da molti lati dagli stessi sintomi di quelli che
-
-destarono l'inestinguibile ira di Savonarola: un edonismo più stanco
-
-della felicità di quanto un infermo sia stanco del [[Pain|dolore]], un senso artistico che cerca
-
-l'assistenza del crimine poiché ha esaurito la [[Nature|natura]]. In molte opere moderne
-
-troviamo accenni velati e orribili a un senso autenticamente [[Renaissance|rinascimentale]] della
-
-[[Beauty|bellezza]] del [[Blood|sangue]], la poesia dell'omicidio. La fallita e depravata
-
-[[Imagination|immaginazione]] non vede che un uomo vivo è assai più drammatico di uno
-
-morto. Insieme a ciò, come al [[Time|tempo]] dei Medici, va il
-
-ricadere tra le braccia del dispotismo, la fame dell'uomo forte
-
-che è ignota tra gli uomini forti. L'imperioso [[Hero|eroe]] è venerato come
-
-è venerato dai lettori delle 'Bow [[Bells]] Novelettes,' e per
-
-la stessa ragione: un profondo senso di debolezza personale. Quella tendenza a
-
-demandare i nostri doveri discende su di noi, ed è l'[[Soul|anima]] della [[Slavery|schiavitù]], tanto
-
-se per i suoi compiti servili impiega servi quanto imperatori. Contro tutto
-
-questo il grande repubblicano clericale si erge in eterna protesta,
-
-preferendo il proprio fallimento al [[success|successo]] del suo rivale. La contesa è ancora
-
-tra lui e [[Lorenzo]], tra le responsabilità della libertà e la
-
-licenza della [[Slavery|schiavitù]], tra i pericoli della [[Truth|verità]] e la sicurezza del
-
-[[Silence|silenzio]], tra il piacere della fatica e la fatica del piacere. I
-
-sostenitori di [[Lorenzo]] il Magnifico sono sicuramente tra noi, uomini per
-
-i quali persino nazioni e imperi esistono solo per soddisfare l'attimo, uomini per
-
-i quali l'ultima calda ora dell'[[Summer|estate]] vale più di una pungente e invernale
-
-[[spring|primavera]]. Essi hanno un'arte, una letteratura, una [[philosophy|filosofia]] politica, che
-
-sono tutte parimenti apprezzate per il loro effetto immediato sul gusto, non per
-
-ciò che promettono del destino dello spirito. Le loro statuette e
-
-i loro sonetti sono tondi e perfetti, mentre il '[[Macbeth]]' è al confronto un
-
-[[Fragment|frammento]], e il Mosè di [[Michael]] [[Angelo]] un accenno. Le loro campagne e
-
-battaglie sono sempre dette trionfanti, mentre Cesare e Cromwell piansero per
-
-molte umiliazioni. E la fine di tutto ciò è l'inferno della non-resistenza,
-
-l'inferno di un'insondabile mollezza, finché l'intera [[Nature|natura]] rincula
-
-nella [[Madness|follia]] e la camera della civiltà non è più soltanto un
-
-appartamento imbottito, ma una cella imbottita.
-
-Quest'ultima e peggiore delle miserie umane Savonarola la scorse da lontano, e piegò
-
-tutte le sue gigantesche energie a volgere il carro su un altro corso.
-
-Pochi compresero il suo scopo; alcuni lo chiamarono pazzo, altri
-
-ciarlatano, altri un nemico della gioia umana. Non avrebbero nemmeno
-
-compreso se egli lo avesse detto loro, se avesse detto che li stava salvando
-
-da una calamità di contentezza che avrebbe dovuto essere la fine tanto delle gioie quanto dei
-
-dolori. Ma vi sono oggi coloro che avvertono lo stesso silenzioso
-
-pericolo, e che si piegano alla stessa silenziosa resistenza. Anche di loro
-
-si suppone che stiano contendendo per qualche banale scrupolo politico.
-
-Il signor M'Hardy afferma, in difesa di Savonarola, che il numero di belle opere
-
-d'arte distrutte nel Rogo delle Vanità è stato molto
-
-esagerato. Confesso che [[Hope|spero]] che la pira contenesse cataste di
-
-incomparabili capolavori, se il sacrificio rese quell'unico momento reale
-
-più reale. Di una cosa sono certo, che l'amico di Savonarola, [[Michael]]
-
-[[Angelo]], avrebbe ammucchiato tutte le proprie statue una sopra l'altra, e
-
-le avrebbe ridotte in cenere, se solo fosse stato certo che il bagliore
-
-che trasfigurava il cielo era l'[[Dawn|alba]] di un mondo più giovane e più saggio.
-
-
-
 <span class="atom-split" data-atom="story_02_william_morris_and_his_school--part_01" data-title="Twelve Types — WILLIAM MORRIS AND HIS SCHOOL (part 1)" data-chapter="WILLIAM MORRIS AND HIS SCHOOL" data-kind="excerpt"></span>
 
 
@@ -7493,6 +5761,634 @@ dimostrato che questo doloroso grigio verdastro del crepuscolo estetico in cui
 ora viviamo non è, a dispetto di tutti i pessimisti, il grigiore della
 
 [[Death|morte]], ma il grigiore dell'[[Dawn|alba]].
+
+
+
+<span class="atom-split" data-atom="story_03_the_optimism_of_byron" data-title="Twelve Types — THE OPTIMISM OF BYRON" data-chapter="THE OPTIMISM OF BYRON" data-kind="story"></span>
+
+
+THE OPTIMISM OF BYRON
+
+Everything is against our appreciating the spirit and the age of Byron.
+
+The age that has just passed from us is always like [[A Dream|a dream]] when we wake
+
+in the morning, a thing incredible and centuries away. And the world of
+
+Byron seems a sad and faded world, a weird and inhuman world, where men
+
+were romantic in whiskers, ladies lived, apparently, in bowers, and the
+
+very word has the sound of a piece of stage scenery. Roses and
+
+nightingales recur in their poetry with the monotonous elegance of a
+
+wall-paper pattern. The whole is like a revel of dead men, a revel with
+
+splendid vesture and half-witted faces.
+
+But the more shrewdly and earnestly we study the histories of men, the
+
+less ready shall we be to make use of the word "artificial." Nothing in
+
+the world has ever been artificial. Many customs, many dresses, many
+
+works of art are branded with artificiality because they exhibit [[Vanity|vanity]]
+
+and [[Self|self]]-consciousness: as if [[Vanity|vanity]] were not a deep and elemental
+
+thing, like [[Love|love]] and hate and the [[Fear|fear]] of [[Death|death]]. [[Vanity]] may be found in
+
+darkling deserts, in the hermit and in the wild beasts that crawl around
+
+him. It may be good or evil, but assuredly it is not artificial: [[Vanity|vanity]]
+
+is a voice out of the abyss.
+
+The remarkable fact is, however, and it bears strongly on the present
+
+position of Byron, that when a thing is unfamiliar to us, when it is
+
+remote and the product of some other age or spirit, we think it not
+
+savage or terrible, but merely artificial. There are many instances of
+
+this: a fair one is the case of tropical plants and [[Birds|birds]]. When we see
+
+some of the monstrous and flamboyant blossoms that enrich the equatorial
+
+woods, we do not feel that they are conflagrations of [[Nature|nature]]; silent
+
+explosions of her frightful energy. We simply find it hard to believe
+
+that they are not wax [[Flowers|flowers]] grown under a glass case. When we see some
+
+of the tropic [[Birds|birds]], with their tiny bodies attached to gigantic beaks,
+
+we do not feel that they are freaks of the fierce [[Humour|humour]] of Creation. We
+
+almost believe that they are toys out of a [[Child|child]]'s play-box,
+
+artificially carved and artificially coloured. So it is with the great
+
+convulsion of [[Nature]] which was known as Byronism. The volcano is not an
+
+extinct volcano now; it is the dead stick of a rocket. It is the remains
+
+not of a natural but of an artificial [[Fire|fire]].
+
+But Byron and Byronism were something immeasurably greater than anything
+
+that is represented by such a view as this: their real value and meaning
+
+are indeed little understood. The first of the mistakes about Byron lies
+
+in the fact that he is treated as a pessimist. True, he treated himself
+
+as such, but a critic can hardly have even a slight knowledge of Byron
+
+without knowing that he had the smallest amount of knowledge of himself
+
+that ever fell to the lot of an intelligent man. The real character of
+
+what is known as Byron's pessimism is better worth study than any real
+
+pessimism could ever be.
+
+It is the standing peculiarity of this curious world of ours that almost
+
+everything in it has been extolled enthusiastically and invariably
+
+extolled to the disadvantage of everything else.
+
+One after another almost every one of the phenomena of the universe has
+
+been declared to be [[Alone|alone]] capable of making life worth living. Books,
+
+[[Love|love]], business, religion, alcohol, abstract [[Truth|truth]], private emotion,
+
+money, simplicity, mysticism, hard work, a life close to [[Nature|nature]], a life
+
+close to Belgrave Square are every one of them passionately maintained
+
+by somebody to be so good that they redeem the evil of an otherwise
+
+indefensible world. Thus while the world is almost always condemned in
+
+summary, it is always justified, and indeed extolled, in detail after
+
+detail.
+
+Existence has been praised and absolved by a [[Chorus|chorus]] of pessimists. The
+
+work of giving thanks to Heaven is, as it were, divided ingeniously
+
+among them. Schopenhauer is told off as a kind of librarian in the [[house|House]]
+
+of God, to sing the praises of the austere pleasures of the mind.
+
+Carlyle, as steward, undertakes the working department and eulogises a
+
+life of labour in the fields. Omar Khayyam is established in the cellar
+
+and swears that it is the only room in the [[house]]. Even the blackest of
+
+pessimistic artists enjoys his art. At the precise moment that he has
+
+written some shameless and terrible indictment of Creation, his one pang
+
+of joy in the achievement joins the universal [[Chorus|chorus]] of gratitude, with
+
+the scent of the wild flower and the [[Song|song]] of the bird.
+
+Now Byron had a sensational popularity, and that popularity was, as far
+
+as words and explanations go, founded upon his pessimism. He was adored
+
+by an overwhelming majority, almost every individual of which despised
+
+the majority of mankind. But when we come to regard the matter a little
+
+more deeply we tend in some degree to cease to believe in this
+
+popularity of the pessimist. The popularity of pure and unadulterated
+
+pessimism is an oddity; it is almost a contradiction in terms. Men would
+
+no more receive the news of the failure of existence or of the
+
+harmonious hostility of the [[Stars|stars]] with ardour or popular rejoicing than
+
+they would light bonfires for the arrival of cholera or [[Dance|dance]] a
+
+breakdown when they were condemned to be hanged. When the pessimist is
+
+popular it must always be not because he shows all things to be bad, but
+
+because he shows some things to be good. Men can only join in a [[Chorus|chorus]]
+
+of praise even if it is the praise of denunciation. The man who is
+
+popular must be optimistic about something even if he is only optimistic
+
+about pessimism. And this was emphatically the case with Byron and the
+
+Byronists. Their real popularity was founded not upon the fact that they
+
+blamed everything, but upon the fact that they praised something. They
+
+heaped curses upon man, but they used man merely as a foil. The things
+
+they wished to praise by comparison were the energies of [[Nature]]. Man was
+
+to them what talk and fashion were to Carlyle, what philosophical and
+
+religious quarrels were to Omar, what the whole race after practical
+
+happiness was to Schopenhauer, the thing which must be censured in order
+
+that somebody else may be exalted. It was merely a recognition of the
+
+fact that one cannot write in white [[chalk]] except on a blackboard.
+
+Surely it is ridiculous to maintain seriously that Byron's [[Love|love]] of the
+
+desolate and inhuman in [[Nature|nature]] was the mark of vital scepticism and
+
+depression. When a young man can elect deliberately to walk [[Alone|alone]] in
+
+[[Winter|winter]] by the side of the shattering sea, when he takes pleasure in
+
+storms and stricken peaks, and the lawless [[Melancholy|melancholy]] of the older
+
+earth, we may deduce with the certainty of [[logic]] that he is very young
+
+and very happy. There is a certain darkness which we see in wine when
+
+seen in [[Shadow|shadow]]; we see it again in the [[Night|night]] that has just buried a
+
+gorgeous sunset. The wine seems black, and yet at the same [[Time|time]]
+
+powerfully and almost impossibly red; the sky seems black, and yet at
+
+the same [[Time|time]] to be only too dense a blend of purple and green. Such was
+
+the darkness which lay around the Byronic school. Darkness with them was
+
+only too dense a purple. They would prefer the sullen hostility of the
+
+earth because amid all the cold and darkness their own hearts were
+
+flaming like their own firesides.
+
+Matters are very different with the more modern school of [[Doubt|doubt]] and
+
+lamentation. The last movement of pessimism is perhaps expressed in Mr
+
+Aubrey Beardsley's allegorical designs. Here we have to deal with a
+
+pessimism which tends naturally not towards the oldest elements of the
+
+cosmos, but towards the last and most fantastic fripperies of artificial
+
+life. Byronism tended towards the [[Desert|desert]]; the new pessimism towards the
+
+restaurant. Byronism was a revolt against artificiality; the new
+
+pessimism is a revolt in its favour. The Byronic young man had an
+
+affectation of sincerity; the decadent, going a step deeper into the
+
+avenues of the unreal, has positively an affectation of affectation. And
+
+it is by their fopperies and their frivolities that we know that their
+
+sinister [[philosophy]] is sincere; in their lights and garlands and ribbons
+
+we read their indwelling [[Despair|despair]]. It was so, indeed, with Byron himself;
+
+his really bitter moments were his frivolous moments. He went on year
+
+after year calling down [[Fire|fire]] upon mankind, summoning the [[deluge]] and the
+
+destructive sea and all the ultimate energies of [[Nature|nature]] to sweep away
+
+the cities of the spawn of man. But through all this his sub-conscious
+
+mind was not that of a despairer; on the contrary, there is something of
+
+a kind of lawless [[Faith|faith]] in thus parleying with such immense and
+
+immemorial brutalities. It was not until the [[Time|time]] in which he wrote 'Don
+
+Juan' that he really lost this inward warmth and geniality, and a sudden
+
+shout of hilarious laughter announced to the world that Lord Byron had
+
+really become a pessimist.
+
+One of the best tests in the world of what a poet really means is his
+
+metre. He may be a hypocrite in his metaphysics, but he cannot be a
+
+hypocrite in his prosody. And all the [[Time|time]] that Byron's language is of
+
+horror and emptiness, his metre is a bounding 'pas de quatre.' He may
+
+arraign existence on the most deadly charges, he may condemn it with the
+
+most desolating verdict, but he cannot alter the fact that on some walk
+
+in a [[spring]] morning when all the limbs are swinging and all the [[Blood|blood]]
+
+alive in the [[Body|body]], the lips may be caught repeating:
+
+'Oh, there's not a joy the world can give like that it takes away,
+
+When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
+
+'Tis not upon the cheek of youth the blush that fades so fast,
+
+But the tender bloom of heart is gone ere youth itself be past.'
+
+That automatic recitation is the answer to the whole pessimism of Byron.
+
+The [[Truth|truth]] is that Byron was one of a class who may be called the
+
+unconscious optimists, who are very often, indeed, the most
+
+uncompromising conscious pessimists, because the exuberance of their
+
+[[Nature|nature]] demands for an adversary a dragon as big as the world. But the
+
+whole of his essential and unconscious being was spirited and confident,
+
+and that unconscious being, long disguised and buried under emotional
+
+artifices, suddenly sprang into prominence in the face of a cold, hard,
+
+political necessity. In Greece he heard the cry of reality, and at the
+
+[[Time|time]] that he was dying, he began to live. He heard suddenly the call of
+
+that buried and sub-conscious happiness which is in all of us, and which
+
+may emerge suddenly at the sight of the grass of a meadow or the spears
+
+of the enemy.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'OTTIMISMO DI BYRON
+
+Tutto congiura contro il nostro apprezzamento dello spirito e dell'età di Byron.
+
+L'età che ci è appena trascorsa è sempre come [[A Dream|un sogno]] quando ci destiamo
+
+al mattino, cosa incredibile e lontana secoli. E il mondo di
+
+Byron pare un mondo triste e sbiadito, un mondo strano e inumano, dove gli uomini
+
+erano romantici in favoriti, le dame vivevano, a quanto pare, in pergolati, e la
+
+parola stessa ha il suono d'un pezzo di scenografia teatrale. Rose e
+
+usignoli ricorrono nella loro poesia con la monotona eleganza d'un
+
+motivo di carta da parati. Il tutto è come un baccanale di morti, un baccanale con
+
+splendide vesti e volti ebeti.
+
+Ma quanto più acutamente e seriamente studiamo le storie degli uomini, tanto
+
+meno saremo pronti a servirci della parola «artificiale». Nulla al
+
+mondo è mai stato artificiale. Molti costumi, molte vesti, molte
+
+opere d'arte sono bollate d'artificiosità perché esibiscono [[Vanity|vanità]]
+
+e [[Self|autocoscienza]]: come se la [[Vanity|vanità]] non fosse cosa profonda ed elementare,
+
+come l'[[Love|amore]] e l'odio e la [[Fear|paura]] della [[Death|morte]]. La [[Vanity|vanità]] si può trovare nei
+
+deserti tenebrosi, nell'eremita e nelle fiere selvagge che strisciano attorno
+
+a lui. Può essere buona o cattiva, ma di certo non è artificiale: la [[Vanity|vanità]]
+
+è una voce che sale dall'abisso.
+
+Il fatto notevole è, tuttavia, e incide fortemente sull'attuale
+
+posizione di Byron, che quando una cosa ci è estranea, quando è
+
+remota e prodotto di qualche altra età o spirito, la riteniamo non
+
+selvaggia o terribile, ma soltanto artificiale. Vi sono molti esempi di
+
+ciò: uno calzante è il caso delle piante tropicali e degli [[Birds|uccelli]]. Quando vediamo
+
+alcune delle fioriture mostruose e sgargianti che arricchiscono le foreste
+
+equatoriali, non sentiamo che siano conflagrazioni della [[Nature|natura]]; silenziose
+
+esplosioni della sua energia spaventosa. Semplicemente stentiamo a credere
+
+che non siano [[Flowers|fiori]] di cera cresciuti sotto una campana di vetro. Quando vediamo alcuni
+
+degli [[Birds|uccelli]] tropicali, coi loro corpi minuti attaccati a becchi giganteschi,
+
+non sentiamo che siano bizzarrie del feroce [[Humour|umorismo]] della Creazione. Quasi
+
+crediamo che siano giocattoli usciti dalla scatola dei balocchi d'un [[Child|bambino]],
+
+artificiosamente intagliati e artificiosamente colorati. Così è per la grande
+
+convulsione della [[Nature|natura]] che fu nota come byronismo. Il vulcano non è ormai un
+
+vulcano spento; è il bastone morto d'un razzo. È ciò che resta
+
+non d'un [[Fire|fuoco]] naturale ma artificiale.
+
+Ma Byron e il byronismo furono qualcosa d'incommensurabilmente più grande di quanto
+
+sia rappresentato da una veduta come questa: il loro valore e significato reale
+
+sono davvero poco compresi. Il primo degli errori su Byron sta
+
+nel fatto che è trattato come un pessimista. Vero, egli trattava sé stesso
+
+come tale, ma un critico difficilmente può avere anche una lieve conoscenza di Byron
+
+senza sapere che egli aveva la minima misura di conoscenza di sé
+
+che mai sia toccata in sorte a un uomo intelligente. Il vero carattere di
+
+ciò che è noto come il pessimismo di Byron merita più studio di quanto ne meriterebbe
+
+qualsiasi pessimismo reale.
+
+È la costante peculiarità di questo nostro curioso mondo che quasi
+
+ogni cosa in esso è stata esaltata entusiasticamente e invariabilmente
+
+esaltata a scapito di tutto il resto.
+
+Uno dopo l'altro quasi ognuno dei fenomeni dell'universo è stato
+
+dichiarato [[Alone|il solo]] capace di rendere la vita degna d'essere vissuta. Libri,
+
+[[Love|amore]], affari, religione, alcol, [[Truth|verità]] astratta, emozione privata,
+
+denaro, semplicità, misticismo, duro lavoro, una vita vicina alla [[Nature|natura]], una vita
+
+vicina a Belgrave Square: ciascuna di esse è appassionatamente sostenuta
+
+da qualcuno come tanto buona da redimere il male d'un mondo altrimenti
+
+indifendibile. Così, mentre il mondo è quasi sempre condannato in
+
+sommario, è sempre giustificato, anzi esaltato, in un dettaglio dopo
+
+l'altro.
+
+L'esistenza è stata lodata e assolta da un [[Chorus|coro]] di pessimisti. L'
+
+opera di rendere grazie al Cielo è, per così dire, ripartita ingegnosamente
+
+fra loro. Schopenhauer è assegnato come una sorta di bibliotecario nella [[house|Casa]]
+
+di Dio, per cantare le lodi degli austeri piaceri della mente.
+
+Carlyle, come castaldo, assume il reparto del lavoro ed elogia una
+
+vita di fatica nei campi. Omar Khayyam è insediato nella cantina
+
+e giura che è l'unica stanza della [[house|casa]]. Persino il più nero dei
+
+pessimisti artisti gode della sua arte. Nel preciso istante in cui ha
+
+scritto qualche spudorata e terribile requisitoria contro la Creazione, il suo unico fremito
+
+di gioia per l'impresa si unisce al [[Chorus|coro]] universale di gratitudine, con
+
+il profumo del fiore selvatico e il [[Song|canto]] dell'uccello.
+
+Ora Byron ebbe una popolarità sensazionale, e quella popolarità era, per quanto
+
+riguarda parole e spiegazioni, fondata sul suo pessimismo. Era adorato
+
+da una schiacciante maggioranza, quasi ogni individuo della quale disprezzava
+
+la maggioranza del genere umano. Ma quando veniamo a considerare la questione un po'
+
+più a fondo, tendiamo in qualche misura a cessare di credere in questa
+
+popolarità del pessimista. La popolarità d'un pessimismo puro e non adulterato
+
+è una stranezza; è quasi una contraddizione in termini. Gli uomini
+
+non accoglierebbero la notizia del fallimento dell'esistenza o della
+
+armoniosa ostilità delle [[Stars|stelle]] con ardore o giubilo popolare più di quanto
+
+accenderebbero falò per l'arrivo del colera o [[Dance|danzerebbero]] un
+
+breakdown quando fossero condannati a essere impiccati. Quando il pessimista è
+
+popolare dev'essere sempre non perché mostra che tutte le cose sono cattive, ma
+
+perché mostra che alcune cose sono buone. Gli uomini possono unirsi solo a un [[Chorus|coro]]
+
+di lode, anche se è la lode della denuncia. L'uomo che è
+
+popolare dev'essere ottimista su qualcosa, anche se è ottimista soltanto
+
+riguardo al pessimismo. E questo era enfaticamente il caso di Byron e dei
+
+byronisti. La loro reale popolarità era fondata non sul fatto che
+
+biasimavano tutto, ma sul fatto che lodavano qualcosa. Essi
+
+ammucchiavano maledizioni sull'uomo, ma usavano l'uomo soltanto come contrasto. Le cose
+
+che volevano lodare per confronto erano le energie della [[Nature|natura]]. L'uomo era
+
+per loro ciò che le chiacchiere e la moda erano per Carlyle, ciò che le dispute filosofiche e
+
+religiose erano per Omar, ciò che l'intera corsa alla felicità pratica
+
+era per Schopenhauer: la cosa che dev'essere censurata affinché
+
+qualcun altro possa essere esaltato. Era soltanto un riconoscimento del
+
+fatto che non si può scrivere in [[chalk|gesso]] bianco se non su una lavagna.
+
+Certo è ridicolo sostenere seriamente che l'[[Love|amore]] di Byron per il
+
+desolato e l'inumano nella [[Nature|natura]] fosse il segno d'uno scetticismo vitale e d'una
+
+depressione. Quando un giovane può scegliere deliberatamente di passeggiare [[Alone|solo]] in
+
+[[Winter|inverno]] lungo il mare fragoroso, quando prova piacere nelle
+
+tempeste e nelle vette percosse, e nella sregolata [[Melancholy|malinconia]] della più antica
+
+terra, possiamo dedurre con la certezza della [[logic|logica]] che egli è molto giovane
+
+e molto felice. Vi è una certa oscurità che scorgiamo nel vino quando
+
+è visto nell'[[Shadow|ombra]]; la scorgiamo di nuovo nella [[Night|notte]] che ha appena sepolto un
+
+sfarzoso tramonto. Il vino pare nero, eppure al [[Time|tempo]] stesso
+
+potentemente e quasi impossibilmente rosso; il cielo pare nero, eppure al
+
+[[Time|tempo]] stesso una mescolanza fin troppo densa di porpora e verde. Tale era
+
+l'oscurità che avvolgeva la scuola byronica. L'oscurità per loro era
+
+una porpora fin troppo densa. Preferivano l'arcigna ostilità della
+
+terra perché in mezzo a tutto il freddo e l'oscurità i loro cuori
+
+fiammeggiavano come i loro stessi focolari.
+
+Le cose sono ben diverse con la più moderna scuola del [[Doubt|dubbio]] e del
+
+lamento. L'ultimo movimento del pessimismo è forse espresso nei disegni
+
+allegorici del signor Aubrey Beardsley. Qui abbiamo a che fare con un
+
+pessimismo che tende naturalmente non verso gli elementi più antichi del
+
+cosmo, ma verso le ultime e più fantastiche frivolezze della vita
+
+artificiale. Il byronismo tendeva verso il [[Desert|deserto]]; il nuovo pessimismo verso il
+
+ristorante. Il byronismo era una rivolta contro l'artificiosità; il nuovo
+
+pessimismo è una rivolta a suo favore. Il giovane byronico aveva
+
+un'affettazione di sincerità; il decadente, spingendosi un passo più a fondo nei
+
+viali dell'irreale, ha addirittura un'affettazione dell'affettazione. Ed
+
+è dalle loro leziosaggini e frivolezze che sappiamo che la loro
+
+sinistra [[philosophy|filosofia]] è sincera; nelle loro luci e ghirlande e nastri
+
+leggiamo la [[Despair|disperazione]] che li abita. Fu così, davvero, con Byron stesso;
+
+i suoi momenti davvero amari erano i suoi momenti frivoli. Continuò anno
+
+dopo anno a invocare il [[Fire|fuoco]] sul genere umano, chiamando il [[deluge|diluvio]] e il
+
+mare distruttore e tutte le ultime energie della [[Nature|natura]] a spazzar via
+
+le città della progenie dell'uomo. Ma per tutto questo la sua mente
+
+subconscia non era quella d'un disperato; al contrario, vi è qualcosa
+
+d'una sorta di sregolata [[Faith|fede]] in questo parlamentare con brutalità così immense e
+
+immemorabili. Non fu che nel [[Time|tempo]] in cui scrisse il «Don
+
+Juan» che egli perse davvero questo calore e questa giovialità interiori, e un improvviso
+
+grido d'ilare riso annunciò al mondo che Lord Byron era
+
+davvero diventato un pessimista.
+
+Una delle migliori prove al mondo di ciò che un poeta intende davvero è il suo
+
+metro. Può essere un ipocrita nella sua metafisica, ma non può essere un
+
+ipocrita nella sua prosodia. E per tutto il [[Time|tempo]] in cui il linguaggio di Byron è di
+
+orrore e vuoto, il suo metro è un balzante «pas de quatre». Può
+
+imputare all'esistenza le accuse più mortali, può condannarla col
+
+verdetto più desolante, ma non può mutare il fatto che in qualche passeggiata
+
+in un mattino di [[spring|primavera]], quando tutte le membra oscillano e tutto il [[Blood|sangue]]
+
+è vivo nel [[Body|corpo]], le labbra possono essere colte a ripetere:
+
+«Oh, non v'è gioia che il mondo possa dare pari a quella che toglie,
+
+quando il fulgore della prima giovinezza declina, della [[Beauty|bellezza]] nel greve [[Decay|disfacimento]];
+
+non è sulla guancia della giovinezza il rossore che sì presto svanisce,
+
+ma il tenero fiore del cuore è svanito prima che la giovinezza stessa sia trascorsa.»
+
+Quella recitazione automatica è la risposta all'intero pessimismo di Byron.
+
+La [[Truth|verità]] è che Byron apparteneva a una classe che si può chiamare degli
+
+ottimisti inconsapevoli, i quali sono spessissimo, in realtà, i più
+
+intransigenti pessimisti consapevoli, perché l'esuberanza della loro
+
+[[Nature|natura]] esige per avversario un drago grande quanto il mondo. Ma
+
+l'intero suo essere essenziale e inconsapevole era animoso e fiducioso,
+
+e quell'essere inconsapevole, a lungo mascherato e sepolto sotto artifici
+
+emotivi, balzò d'un tratto in primo piano di fronte a una fredda, dura
+
+necessità politica. In Grecia udì il grido della realtà, e nel
+
+[[Time|tempo]] in cui stava morendo, cominciò a vivere. Udì d'un tratto il richiamo di
+
+quella sepolta e subconscia felicità che è in tutti noi, e che
+
+può emergere d'un tratto alla vista dell'erba d'un prato o delle lance
+
+del nemico.
 
 
 
@@ -9041,6 +7937,598 @@ parenti. Se lo aveste condotto alla stella più solitaria che la
 [[Madness|follia]] di un astronomo possa concepire, egli vi avrebbe scorto soltanto
 
 i lineamenti di un nuovo amico.
+
+
+
+<span class="atom-split" data-atom="story_06_rostand" data-title="Twelve Types — ROSTAND" data-chapter="ROSTAND" data-kind="story"></span>
+
+
+ROSTAND
+
+When 'Cyrano de Bergerac' was published, it bore the subordinate title
+
+of a heroic [[Comedy|comedy]]. We have no tradition in English literature which
+
+would justify us in calling a [[Comedy|comedy]] heroic, though there was once a
+
+poet who called a [[Comedy|comedy]] divine. By the current modern conception, the
+
+[[Hero|hero]] has his place in a [[Tragedy|tragedy]], and the one kind of strength which is
+
+systematically denied to him is the strength to succeed. That the power
+
+of a man's spirit might possibly go to the length of turning a [[Tragedy|tragedy]]
+
+into a [[Comedy|comedy]] is not admitted; nevertheless, almost all the primitive
+
+legends of the world are comedies, not only in the sense that they have
+
+a happy ending, but in the sense that they are based upon a certain
+
+optimistic assumption that the [[Hero|hero]] is destined to be the destroyer of
+
+the [[Monster|monster]]. Singularly enough, this modern idea of the essential
+
+disastrous character of life, when seriously considered, connects itself
+
+with a hyper-aesthetic view of [[Tragedy|tragedy]] and [[Comedy|comedy]] which is largely due to
+
+the influence of modern France, from which the great heroic comedies of
+
+Monsieur Rostand have come. The French genius has an instinct for
+
+remedying its own evil work, and France gives always the best cure for
+
+'Frenchiness.' The idea of [[Comedy|comedy]] which is held in England by the school
+
+which pays most attention to the technical niceties of art is a view
+
+which renders such an idea as that of heroic [[Comedy|comedy]] quite impossible.
+
+The fundamental conception in the minds of the majority of our younger
+
+writers is that [[Comedy|comedy]] is, 'par excellence,' a fragile thing. It is
+
+conceived to be a conventional world of the most absolutely delicate and
+
+gimcrack description. Such stories as Mr Max Beerbohm's 'Happy
+
+Hypocrite' are conceptions which would vanish or fall into utter
+
+nonsense if viewed by one single degree too seriously. But great [[Comedy|comedy]],
+
+the [[Comedy|comedy]] of Shakespeare or Sterne, not only can be, but must be, taken
+
+seriously. There is nothing to which a man must give himself up with
+
+more [[Faith|faith]] and [[Self|self]]-abandonment than to genuine laughter. In such
+
+comedies one laughs with the heroes and not at them. The [[Humour|humour]] which
+
+steeps the stories of [[Falstaff]] and Uncle Toby is a cosmic and
+
+philosophic [[Humour|humour]], a geniality which goes down to the depths. It is not
+
+superficial reading, it is not even, strictly speaking, light reading.
+
+Our sympathies are as much committed to the characters as if they were
+
+the predestined victims in a [[Greek Tragedy|Greek tragedy]]. The modern writer of
+
+comedies may be said to boast of the brittleness of his characters. He
+
+seems always on the eve of knocking his puppets to pieces. When John
+
+[[Oliver]] Hobbes wrote for the first [[Time|time]] a [[Comedy|comedy]] of serious emotions, she
+
+named it, with a thinly-disguised contempt for her own work, 'A
+
+Sentimental [[Comedy]].' The ground of this conception of the artificiality
+
+of [[Comedy|comedy]] is a profound pessimism. Life in the eyes of these mournful
+
+buffoons is itself an utterly tragic thing; [[Comedy|comedy]] must be as hollow as
+
+a grinning mask. It is a refuge from the world, and not even, properly
+
+speaking, a part of it. Their wit is a thin sheet of shining ice over
+
+the eternal waters of bitterness.
+
+'Cyrano de Bergerac' came to us as the new decoration of an old [[Truth|truth]],
+
+that merriment was one of the world's natural [[Flowers|flowers]], and not one of
+
+its exotics. The gigantesque levity, the flamboyant eloquence, the
+
+Rabelaisian puns and digressions were seen to be once more what they had
+
+been in Rabelais, the mere outbursts of a human sympathy and bravado as
+
+old and solid as the [[Stars|stars]]. The human spirit demanded wit as headlong
+
+and haughty as its will. All was expressed in the words of Cyrano at
+
+his highest moment of happiness. 'Il me faut des geants.' An essential
+
+aspect of this question of heroic [[Comedy|comedy]] is the question of drama in
+
+rhyme. There is nothing that affords so easy a point of attack for the
+
+dramatic realist as the conduct of a play in verse. According to his
+
+canons, it is indeed absurd to represent a number of characters facing
+
+some terrible crisis in their lives by capping rhymes like a party
+
+playing 'bouts rimes.' In his eyes it must appear somewhat ridiculous
+
+that two enemies taunting each other with insupportable insults should
+
+obligingly provide each other with metrical spacing and neat and
+
+convenient rhymes. But the whole of this view rests finally upon the
+
+fact that few persons, if any, to-day understand what is meant by a
+
+poetical play. It is a singular thing that those poetical plays which
+
+are now written in England by the most advanced students of the drama
+
+follow exclusively the lines of Maeterlinck, and use verse and rhyme for
+
+the adornment of a profoundly tragic theme. But rhyme has a supreme
+
+appropriateness for the treatment of the higher [[Comedy|comedy]]. The land of
+
+heroic [[Comedy|comedy]] is, as it were, a paradise of [[lovers]], in which it is not
+
+difficult to imagine that men could talk poetry all day long. It is far
+
+more conceivable that men's speech should flower naturally into these
+
+harmonious forms, when they are filled with the essential spirit of
+
+youth, than when they are sitting gloomily in the presence of immemorial
+
+destiny. The great error consists in supposing that poetry is an
+
+unnatural form of language. We should all like to speak poetry at the
+
+moment when we truly live, and if we do not speak it, it is because we
+
+have an impediment in our speech. It is not [[Song|song]] that is the narrow or
+
+artificial thing, it is conversation that is a broken and stammering
+
+attempt at [[Song|song]]. When we see men in a spiritual extravaganza, like
+
+Cyrano de Bergerac, speaking in rhyme, it is not our language disguised
+
+or distorted, but our language rounded and made whole. Rhymes answer
+
+each other as the sexes in [[Flowers|flowers]] and in humanity answer each other.
+
+Men do not speak so, it is true. Even when they are inspired or in [[Love|love]]
+
+they talk inanities. But the poetic [[Comedy|comedy]] does not misrepresent the
+
+speech one half so much, as the speech misrepresents the [[Soul|soul]]. Monsieur
+
+Rostand showed even more than his usual insight when he called 'Cyrano
+
+de Bergerac' a [[Comedy|comedy]], despite the fact that, strictly speaking, it ends
+
+with disappointment and [[Death|death]]. The essence of [[Tragedy|tragedy]] is a spiritual
+
+breakdown or decline, and in the great French play the spiritual
+
+sentiment mounts unceasingly until the last line. It is not the facts
+
+themselves, but our feeling about them, that makes [[Tragedy|tragedy]] and [[Comedy|comedy]],
+
+and [[Death|death]] is more joyful in Rostand than life in Maeterlinck. The same
+
+apparent contradiction holds good in the case of the drama of
+
+'L'Aiglon,' now being performed with so much [[success]]. Although the [[Hero|hero]]
+
+is a weakling, the subject a fiasco, the end a premature [[Death|death]] and a
+
+personal [[Disillusionment|disillusionment]], yet, in spite of this theme, which might have
+
+been chosen for its depressing qualities, the unconquerable paean of the
+
+praise of things, the ungovernable gaiety of the poet's [[Song|song]] swells so
+
+high that at the end it seems to drown all the weak voices of the
+
+characters in one crashing [[Chorus|chorus]] of great things and great men. A
+
+multitude of mottoes might be taken from the play to indicate and
+
+illustrate, not only its own spirit, but much of the spirit of modern
+
+life. When in the vision of the field of Wagram the horrible voices of
+
+the wounded cry out, 'Les corbeaux, les corbeaux,' the Duke, overwhelmed
+
+with a [[nightmare]] of hideous trivialities, cries out, 'Ou, ou sont les
+
+aigles?' That antithesis might stand [[Alone|alone]] as an invocation at the
+
+beginning of the twentieth century to the spirit of heroic [[Comedy|comedy]]. When
+
+an ex-General of Napoleon is asked his reason for having betrayed the
+
+Emperor, he replies, 'La fatigue,' and at that a veteran private of the
+
+Great Army rushes forward, and crying passionately, 'Et nous?' pours out
+
+a terrible description of the life lived by the common soldier. To-day
+
+when pessimism is almost as much a symbol of wealth and fashion as
+
+jewels or cigars, when the pampered heirs of the ages can sum up life in
+
+few other words but 'la fatigue,' there might surely come a cry from the
+
+vast mass of common humanity from the beginning 'et nous?' It is this
+
+potentiality for enthusiasm among the mass of men that makes the
+
+function of [[Comedy|comedy]] at once common and [[Sublime|sublime]]. Shakespeare's 'Much Ado
+
+about Nothing' is a great [[Comedy|comedy]], because behind it is the whole
+
+pressure of that [[Love|love]] of [[Love|love]] which is the youth of the world, which is
+
+common to all the young, especially to those who swear they will die
+
+bachelors and old maids. '[[Love]]'s Labour Lost' is filled with the same
+
+energy, and there it falls even more definitely into the scope of our
+
+subject since it is a [[Comedy|comedy]] in rhyme in which all men speak lyrically
+
+as naturally as the [[Birds|birds]] sing in pairing [[Time|time]]. What the [[Love|love]] of [[Love|love]] is
+
+to the Shakespearian comedies, that other and more mysterious human
+
+passion, the [[Love|love]] of [[Death|death]], is to 'L'Aiglon.' Whether we shall ever have
+
+in England a new tradition of poetic [[Comedy|comedy]] it is difficult at present
+
+to say, but we shall assuredly never have it until we realise that
+
+[[Comedy|comedy]] is built upon everlasting foundations in the [[Nature|nature]] of things,
+
+that it is not a thing too light to capture, but too deep to plumb.
+
+Monsieur Rostand, in his description of the Battle of Wagram, does not
+
+shrink from bringing about the Duke's ears the frightful voices of
+
+actual battle, of men torn by crows, and suffocated with [[Blood|blood]], but when
+
+the Duke, terrified at these dreadful appeals, asks them for their final
+
+word, they all cry together 'Vive l'Empereur!' Monsieur Rostand,
+
+perhaps, did not know that he was writing an [[Allegory|allegory]]. To me that field
+
+of Wagram is the field of the modern war of literature. We hear nothing
+
+but the voices of [[Pain|pain]]; the whole is one phonograph of horror. It is
+
+right that we should hear these things, it is right that not one of them
+
+should be silenced; but these cries of distress are not in life as they
+
+are in modern art the only voices, they are the voices of men, but not
+
+the voice of man. When questioned finally and seriously as to their
+
+conception of their destiny, men have from the beginning of [[Time|time]]
+
+answered in a thousand philosophies and religions with a single voice
+
+and in a sense most sacred and tremendous, 'Vive l'Empereur.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+ROSTAND
+
+Quando fu pubblicato il 'Cyrano de Bergerac', esso portava il titolo subordinato
+
+di [[Comedy|commedia]] eroica. Non abbiamo alcuna tradizione, nella letteratura inglese, che
+
+ci autorizzi a chiamare eroica una [[Comedy|commedia]], benché vi fosse una volta un
+
+poeta che chiamò divina una [[Comedy|commedia]]. Secondo la concezione moderna corrente, l'
+
+[[Hero|eroe]] ha il suo posto in una [[Tragedy|tragedia]], e l'unica specie di forza che gli è
+
+sistematicamente negata è la forza di riuscire. Che la potenza
+
+dello spirito di un uomo possa spingersi fino a mutare una [[Tragedy|tragedia]]
+
+in [[Comedy|commedia]] non è ammesso; nondimeno, quasi tutte le primitive
+
+leggende del mondo sono commedie, non solo nel senso che hanno
+
+un lieto fine, ma nel senso che si fondano su una certa
+
+ottimistica assunzione che l'[[Hero|eroe]] sia destinato a essere il distruttore del
+
+[[Monster|mostro]]. Cosa abbastanza singolare, questa idea moderna dell'essenziale
+
+carattere disastroso della vita, se seriamente considerata, si collega
+
+a una visione iper-estetica della [[Tragedy|tragedia]] e della [[Comedy|commedia]] dovuta in larga parte all'
+
+influenza della Francia moderna, da cui sono venute le grandi commedie eroiche del
+
+signor Rostand. Il genio francese ha un istinto per
+
+rimediare alla propria opera malvagia, e la Francia offre sempre il miglior rimedio alla
+
+'francesità'. L'idea di [[Comedy|commedia]] sostenuta in Inghilterra dalla scuola
+
+che presta la massima attenzione alle finezze tecniche dell'arte è una veduta
+
+che rende del tutto impossibile un'idea come quella della [[Comedy|commedia]] eroica.
+
+La concezione fondamentale nella mente della maggioranza dei nostri più giovani
+
+scrittori è che la [[Comedy|commedia]] sia, 'par excellence', una cosa fragile. È
+
+concepita come un mondo convenzionale della più assolutamente delicata e
+
+pacchiana fattura. Racconti come l''Happy
+
+Hypocrite' del signor Max Beerbohm sono concezioni che svanirebbero o cadrebbero in pura
+
+assurdità se guardati con un solo grado di troppa serietà. Ma la grande [[Comedy|commedia]],
+
+la [[Comedy|commedia]] di Shakespeare o di Sterne, non solo può, ma deve essere presa
+
+sul serio. Non vi è nulla a cui un uomo debba abbandonarsi con
+
+più [[Faith|fede]] e [[Self|auto]]-abbandono che alla genuina risata. In tali
+
+commedie si ride con gli eroi e non di loro. L'[[Humour|umorismo]] che
+
+impregna le storie di [[Falstaff]] e dello Zio Toby è un umorismo cosmico e
+
+filosofico [[Humour|umorismo]], una giovialità che scende fino agli abissi. Non è
+
+una lettura superficiale, non è nemmeno, a rigore, una lettura leggera.
+
+Le nostre simpatie sono coinvolte nei personaggi tanto quanto se fossero
+
+le vittime predestinate di una [[Greek Tragedy|tragedia greca]]. Il moderno scrittore di
+
+commedie si può dire che si vanti della fragilità dei suoi personaggi. Egli
+
+sembra sempre sul punto di ridurre in pezzi i suoi burattini. Quando John
+
+[[Oliver]] Hobbes scrisse per la prima [[Time|volta]] una [[Comedy|commedia]] di serie emozioni, ella
+
+la intitolò, con un disprezzo malamente celato per la propria opera, 'Una
+
+[[Comedy|commedia]] sentimentale.' Il fondamento di questa concezione dell'artificiosità
+
+della [[Comedy|commedia]] è un profondo pessimismo. La vita, agli occhi di questi lugubri
+
+buffoni, è essa stessa cosa del tutto tragica; la [[Comedy|commedia]] dev'essere vuota come
+
+una maschera ghignante. È un rifugio dal mondo, e nemmeno, a rigor di
+
+termini, una parte di esso. Il loro spirito è una sottile lastra di ghiaccio splendente sopra
+
+le eterne acque dell'amarezza.
+
+Il 'Cyrano de Bergerac' ci giunse come il nuovo ornamento di una vecchia [[Truth|verità]],
+
+che l'allegria fosse uno dei naturali [[Flowers|fiori]] del mondo, e non una delle
+
+sue piante esotiche. La leggerezza gigantesca, l'eloquenza fiammeggiante, i
+
+giochi di parole e le digressioni rabelaisiane si videro essere ancora una volta ciò che erano
+
+stati in Rabelais, i meri prorompimenti di una simpatia umana e di una spavalderia tanto
+
+antiche e solide quanto le [[Stars|stelle]]. Lo spirito umano esigeva uno spirito impetuoso
+
+e altero quanto la sua volontà. Tutto era espresso nelle parole di Cyrano nel
+
+suo più alto momento di felicità. 'Il me faut des géants.' Un aspetto essenziale
+
+di questa questione della [[Comedy|commedia]] eroica è la questione del dramma in
+
+rima. Non vi è nulla che offra un punto d'attacco così facile al
+
+realista drammatico quanto la condotta di un'opera in versi. Secondo i suoi
+
+canoni, è davvero assurdo rappresentare una serie di personaggi che affrontano
+
+qualche terribile crisi della loro vita rincorrendo rime come una brigata
+
+che gioca ai 'bouts-rimés'. Ai suoi occhi deve apparire alquanto ridicolo
+
+che due nemici, schernendosi a vicenda con insulti insopportabili, debbano
+
+cortesemente fornirsi l'un l'altro spaziature metriche e rime nette e
+
+convenienti. Ma tutta questa veduta poggia in ultimo sul
+
+fatto che poche persone, se pur alcune, comprendono oggi cosa s'intenda per un'
+
+opera poetica. È cosa singolare che quelle opere poetiche che
+
+sono oggi scritte in Inghilterra dai più avanzati studiosi del dramma
+
+seguano esclusivamente le linee di Maeterlinck, e usino il verso e la rima per
+
+l'ornamento di un tema profondamente tragico. Ma la rima ha una suprema
+
+appropriatezza per il trattamento della [[Comedy|commedia]] più alta. La terra della
+
+[[Comedy|commedia]] eroica è, per così dire, un paradiso di [[lovers|amanti]], in cui non è
+
+difficile immaginare che gli uomini possano parlare in poesia tutto il giorno. È assai
+
+più concepibile che il linguaggio degli uomini fiorisca naturalmente in queste
+
+forme armoniose, quando sono colmi dell'essenziale spirito della
+
+giovinezza, che quando siedono cupamente al cospetto dell'immemoriale
+
+destino. Il grande errore consiste nel supporre che la poesia sia una
+
+forma innaturale di linguaggio. A tutti noi piacerebbe parlare in poesia nel
+
+momento in cui viviamo davvero, e se non la parliamo, è perché
+
+abbiamo un impedimento nella parola. Non è il [[Song|canto]] la cosa angusta o
+
+artificiale, è la conversazione a essere un tentativo spezzato e balbettante
+
+di [[Song|canto]]. Quando vediamo uomini in una stravaganza spirituale, come
+
+Cyrano de Bergerac, parlare in rima, non è il nostro linguaggio travestito
+
+o distorto, ma il nostro linguaggio arrotondato e reso intero. Le rime si rispondono
+
+l'un l'altra come i sessi nei [[Flowers|fiori]] e nell'umanità si rispondono l'un l'altro.
+
+Gli uomini non parlano così, è vero. Anche quando sono ispirati o [[Love|innamorati]]
+
+dicono inezie. Ma la [[Comedy|commedia]] poetica non travisa il
+
+linguaggio neppure la metà di quanto il linguaggio travisi l'[[Soul|anima]]. Il signor
+
+Rostand mostrò ancor più della sua consueta perspicacia quando chiamò il 'Cyrano
+
+de Bergerac' una [[Comedy|commedia]], nonostante il fatto che, a rigore, finisca
+
+con la delusione e la [[Death|morte]]. L'essenza della [[Tragedy|tragedia]] è un crollo
+
+spirituale o un declino, e nella grande opera francese il sentimento
+
+spirituale sale incessantemente fino all'ultimo verso. Non sono i fatti
+
+in sé, ma il nostro sentire verso di essi, a fare la [[Tragedy|tragedia]] e la [[Comedy|commedia]],
+
+e la [[Death|morte]] è più gioiosa in Rostand della vita in Maeterlinck. La stessa
+
+apparente contraddizione vale nel caso del dramma
+
+'L'Aiglon', ora rappresentato con tanto [[success|successo]]. Benché l'[[Hero|eroe]]
+
+sia un debole, il soggetto un fiasco, il finale una [[Death|morte]] prematura e una
+
+[[Disillusionment|disillusione]] personale, tuttavia, a dispetto di questo tema, che avrebbe potuto
+
+essere scelto per le sue qualità deprimenti, l'inconquistabile peana della
+
+lode delle cose, l'ingovernabile gaiezza del [[Song|canto]] del poeta si gonfia così
+
+alta che alla fine sembra sommergere tutte le deboli voci dei
+
+personaggi in un unico fragoroso [[Chorus|coro]] di grandi cose e grandi uomini. Una
+
+moltitudine di motti potrebbe trarsi dall'opera per indicare e
+
+illustrare, non solo il suo spirito, ma molto dello spirito della vita
+
+moderna. Quando, nella visione del campo di Wagram, le orribili voci dei
+
+feriti gridano, 'Les corbeaux, les corbeaux,' il Duca, sopraffatto
+
+da un [[nightmare|incubo]] di orrende banalità, grida, 'Où, où sont les
+
+aigles?' Quell'antitesi potrebbe reggersi da [[Alone|sola]] come un'invocazione all'
+
+inizio del ventesimo secolo allo spirito della [[Comedy|commedia]] eroica. Quando
+
+a un ex-generale di Napoleone si chiede la ragione per cui tradì l'
+
+Imperatore, egli risponde, 'La fatigue,' e a ciò un veterano soldato semplice della
+
+Grande Armata si fa avanti, e gridando appassionatamente, 'Et nous?' riversa
+
+una terribile descrizione della vita vissuta dal soldato comune. Oggi
+
+quando il pessimismo è quasi altrettanto simbolo di ricchezza e moda quanto
+
+i gioielli o i sigari, quando i viziati eredi delle epoche sanno riassumere la vita in
+
+poche altre parole se non 'la fatigue,' potrebbe certo levarsi un grido dalla
+
+vasta massa dell'umanità comune fin dal principio 'et nous?' È questa
+
+potenzialità di entusiasmo tra la massa degli uomini a rendere la
+
+funzione della [[Comedy|commedia]] insieme comune e [[Sublime|sublime]]. 'Much Ado
+
+about Nothing' di Shakespeare è una grande [[Comedy|commedia]], perché dietro di essa è tutta la
+
+pressione di quell'[[Love|amore]] dell'[[Love|amore]] che è la giovinezza del mondo, che è
+
+comune a tutti i giovani, specie a coloro che giurano che moriranno
+
+scapoli e zitelle. '[[Love|Pene]] d'amor perdute' è colmo della stessa
+
+energia, e lì rientra ancor più decisamente nell'ambito del nostro
+
+soggetto, poiché è una [[Comedy|commedia]] in rima in cui tutti gli uomini parlano liricamente
+
+naturalmente come gli [[Birds|uccelli]] cantano nella [[Time|stagione]] degli amori. Ciò che l'[[Love|amore]] dell'[[Love|amore]] è
+
+per le commedie shakespeariane, quell'altra e più misteriosa umana
+
+passione, l'[[Love|amore]] della [[Death|morte]], è per 'L'Aiglon'. Se mai avremo
+
+in Inghilterra una nuova tradizione di [[Comedy|commedia]] poetica è difficile al presente
+
+dirlo, ma di certo non l'avremo mai finché non comprenderemo che la
+
+[[Comedy|commedia]] è edificata su eterne fondamenta nella [[Nature|natura]] delle cose,
+
+che non è cosa troppo lieve da afferrare, ma troppo profonda da scandagliare.
+
+Il signor Rostand, nella sua descrizione della Battaglia di Wagram, non
+
+esita a portare alle orecchie del Duca le spaventose voci della
+
+battaglia reale, di uomini dilaniati dai corvi, e soffocati nel [[Blood|sangue]], ma quando
+
+il Duca, atterrito da questi terribili richiami, chiede loro la loro ultima
+
+parola, tutti gridano insieme 'Vive l'Empereur!' Il signor Rostand,
+
+forse, non sapeva di scrivere un'[[Allegory|allegoria]]. Per me quel campo
+
+di Wagram è il campo della moderna guerra della letteratura. Non udiamo nulla
+
+se non le voci del [[Pain|dolore]]; il tutto è un unico fonografo d'orrore. È
+
+giusto che udiamo queste cose, è giusto che non una di esse
+
+sia messa a tacere; ma questi gridi d'angoscia non sono nella vita, come
+
+sono nell'arte moderna, le sole voci, sono le voci degli uomini, ma non
+
+la voce dell'uomo. Interrogati infine e seriamente sulla loro
+
+concezione del proprio destino, gli uomini hanno fin dal principio del [[Time|tempo]]
+
+risposto in mille filosofie e religioni con una sola voce
+
+e in un senso sacratissimo e tremendo, 'Vive l'Empereur.'
 
 
 
@@ -11855,6 +11343,518 @@ elaborata produzione di volumi stampati; fu per poche parole splendide e oziose
 che la [[Cross|croce]] fu innalzata sul Calvario, e la terra si spalancò, e il
 
 sole si oscurò in pieno mezzogiorno.
+
+
+
+<span class="atom-split" data-atom="story_10_savonarola" data-title="Twelve Types — SAVONAROLA" data-chapter="SAVONAROLA" data-kind="story"></span>
+
+
+SAVONAROLA
+
+Savonarola is a man whom we shall probably never understand until we
+
+know what horror may lie at the heart of civilisation. This we shall not
+
+know until we are civilised. It may be hoped, in one sense, that we may
+
+never understand Savonarola.
+
+The great deliverers of men have, for the most part, saved them from
+
+calamities which we all recognise as evil, from calamities which are the
+
+ancient enemies of humanity. The great law-givers saved us from anarchy:
+
+the great physicians saved us from pestilence: the great reformers
+
+saved us from starvation. But there is a huge and bottomless evil
+
+compared with which all these are flea-bites, the most desolating curse
+
+that can fall upon men or nations, and it has no name, except we call it
+
+satisfaction. Savonarola did not save men from anarchy, but from order;
+
+not from pestilence, but from paralysis; not from starvation, but from
+
+luxury. Men like Savonarola are the witnesses to the tremendous
+
+psychological fact at the back of all our brains, but for which no name
+
+has ever been found, that ease is the worst enemy of happiness, and
+
+civilisation potentially the end of man.
+
+For I fancy that Savonarola's thrilling challenge to the luxury of his
+
+day went far deeper than the mere question of sin. The modern
+
+rationalistic admirers of Savonarola, from George Eliot downwards,
+
+dwell, truly enough, upon the sound ethical justification of
+
+Savonarola's anger, upon the hideous and extravagant character of the
+
+crimes which polluted the palaces of the [[Renaissance]]. But they need not
+
+be so anxious to show that Savonarola was no [[ascetic]], that he merely
+
+picked out the black specks of wickedness with the priggish
+
+enlightenment of a member of an Ethical Society. Probably he did hate
+
+the civilisation of his [[Time|time]], and not merely its sins; and that is
+
+precisely where he was infinitely more profound than a modern moralist.
+
+He saw that the actual crimes were not the only evils: that stolen
+
+jewels and poisoned wine and obscene pictures were merely the symptoms;
+
+that the disease was the complete dependence upon jewels and wine and
+
+pictures. This is a thing constantly forgotten in judging of ascetics
+
+and Puritans in old times. A denunciation of harmless sports did not
+
+always mean an ignorant hatred of what no one but a narrow moralist
+
+would call harmful. Sometimes it meant an exceedingly enlightened hatred
+
+of what no one but a narrow moralist would call harmless. Ascetics are
+
+sometimes more advanced than the average man, as [[Well|well]] as less.
+
+Such, at least, was the hatred in the heart of Savonarola. He was making
+
+war against no trivial human sins, but against godless and thankless
+
+quiescence, against getting used to happiness, the mystic sin by which
+
+all creation fell. He was preaching that severity which is the
+
+sign-manual of youth and [[Hope|hope]]. He was preaching that alertness, that
+
+clean agility and vigilance, which is as necessary to gain pleasure as
+
+to gain holiness, as indispensable in a [[Lover|lover]] as in a monk. A critic has
+
+truly pointed out that Savonarola could not have been fundamentally
+
+anti-aesthetic, since he had such friends as [[Michael]] [[Angelo]], Botticelli,
+
+and Luca della Robbia. The fact is that this [[Purification|purification]] and austerity
+
+are even more necessary for the appreciation of life and laughter than
+
+for anything else. To let no bird fly past unnoticed, to spell patiently
+
+the stones and weeds, to have the mind a storehouse of sunset, requires
+
+a discipline in pleasure, and an [[Education|education]] in gratitude.
+
+The civilisation which surrounded Savonarola on every side was a
+
+civilisation which had already taken the wrong turn, the turn that
+
+leads to endless inventions and no discoveries, in which new things grow
+
+old with confounding rapidity, but in which no old things ever grow new.
+
+The monstrosity of the crimes of the [[Renaissance]] was not a mark of
+
+[[Imagination|imagination]]; it was a mark, as all monstrosity is, of the loss of
+
+[[Imagination|imagination]]. It is only when a man has really ceased to see a [[Horse|horse]] as
+
+it is, that he invents a centaur, only when he can no longer be
+
+surprised at an ox, that he worships the devil. Diablerie is the
+
+stimulant of the jaded fancy; it is the dram-drinking of the [[artist]].
+
+Savonarola addressed himself to the hardest of all earthly tasks, that
+
+of making men turn back and [[Wonder|wonder]] at the simplicities they had learnt
+
+to ignore. It is strange that the most unpopular of all doctrines is
+
+the doctrine which declares the common life divine. [[democracy|Democracy]], of which
+
+Savonarola was so fiery an exponent, is the hardest of gospels; there is
+
+nothing that so terrifies men as the decree that they are all kings.
+
+[[Christianity]], in Savonarola's mind, identical with [[democracy]], is the
+
+hardest of gospels; there is nothing that so strikes men with [[Fear|fear]] as
+
+the saying that they are all the sons of God.
+
+Savonarola and his republic fell. The drug of despotism was administered
+
+to the people, and they forgot what they had been. There are some at the
+
+present day who have so strange a respect for art and letters, and for
+
+mere men of genius, that they conceive the reign of the Medici to be an
+
+improvement on that of the great Florentine republican. It is such men
+
+as these and their civilisation that we have at the present day to [[Fear|fear]].
+
+We are surrounded on many sides by the same symptoms as those which
+
+awoke the unquenchable wrath of Savonarola--a hedonism that is more sick
+
+of happiness than an invalid is sick of [[Pain|pain]], an art sense that seeks
+
+the assistance of crime since it has exhausted [[Nature|nature]]. In many modern
+
+works we find veiled and horrible hints of a truly [[Renaissance]] sense of
+
+the [[Beauty|beauty]] of [[Blood|blood]], the poetry of murder. The bankrupt and depraved
+
+[[Imagination|imagination]] does not see that a living man is far more dramatic than a
+
+dead one. Along with this, as in the [[Time|time]] of the Medici, goes the
+
+falling back into the arms of despotism, the hunger for the strong man
+
+which is unknown among strong men. The masterful [[Hero|hero]] is worshipped as
+
+he is worshipped by the readers of the 'Bow [[Bells]] Novelettes,' and for
+
+the same reason--a profound sense of personal weakness. That tendency to
+
+devolve our duties descends on us, which is the [[Soul|soul]] of [[Slavery|slavery]], alike
+
+whether for its menial tasks it employs serfs or emperors. Against all
+
+this the great clerical republican stands in everlasting protest,
+
+preferring his failure to his rival's [[success]]. The issue is still
+
+between him and [[Lorenzo]], between the responsibilities of liberty and the
+
+licence of [[Slavery|slavery]], between the perils of [[Truth|truth]] and the security of
+
+[[Silence|silence]], between the pleasure of toil and the toil of pleasure. The
+
+supporters of [[Lorenzo]] the Magnificent are assuredly among us, men for
+
+whom even nations and empires only exist to satisfy the moment, men to
+
+whom the last hot hour of [[Summer|summer]] is better than a sharp and wintry
+
+[[spring]]. They have an art, a literature, a political [[philosophy]], which
+
+are all alike valued for their immediate effect upon the taste, not for
+
+what they promise of the destiny of the spirit. Their statuettes and
+
+sonnets are rounded and perfect, while '[[Macbeth]]' is in comparison a
+
+[[Fragment|fragment]], and the Moses of [[Michael]] [[Angelo]] a hint. Their campaigns and
+
+battles are always called triumphant, while Caesar and Cromwell wept for
+
+many humiliations. And the end of it all is the hell of no resistance,
+
+the hell of an unfathomable softness, until the whole [[Nature|nature]] recoils
+
+into [[Madness|madness]] and the chamber of civilisation is no longer merely a
+
+cushioned apartment, but a padded cell.
+
+This last and worst of human miseries Savonarola saw afar off, and bent
+
+his whole gigantic energies to turning the chariot into another course.
+
+Few men understood his object; some called him a madman, some a
+
+charlatan, some an enemy of human joy. They would not even have
+
+understood if he had told them, if he had said that he was saving them
+
+from a calamity of contentment which should be the end of joys and
+
+sorrows alike. But there are those to-day who feel the same silent
+
+danger, and who bend themselves to the same silent resistance. They also
+
+are supposed to be contending for some trivial political scruple.
+
+Mr M'Hardy says, in defending Savonarola, that the number of fine works
+
+of art destroyed in the Burning of the Vanities has been much
+
+exaggerated. I confess that I [[Hope|hope]] the pile contained stacks of
+
+incomparable masterpieces if the sacrifice made that one real moment
+
+more real. Of one thing I am sure, that Savonarola's friend [[Michael]]
+
+[[Angelo]] would have piled all his own statues one on top of the other, and
+
+burnt them to ashes, if only he had been certain that the glow
+
+transfiguring the sky was the [[Dawn|dawn]] of a younger and wiser world.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+SAVONAROLA
+
+Savonarola è un uomo che probabilmente non comprenderemo mai finché non
+
+sapremo quale orrore possa annidarsi nel cuore della civiltà. E questo non lo
+
+sapremo finché non saremo civilizzati. Si può sperare, in un certo senso, di non
+
+comprendere mai Savonarola.
+
+I grandi liberatori degli uomini li hanno, per lo più, salvati da
+
+calamità che tutti riconosciamo come mali, da calamità che sono gli
+
+antichi nemici dell'umanità. I grandi legislatori ci salvarono dall'anarchia:
+
+i grandi medici ci salvarono dalla pestilenza: i grandi riformatori
+
+ci salvarono dalla fame. Ma esiste un male immenso e senza fondo
+
+al cui confronto tutti questi sono punture di pulce, la più desolante maledizione
+
+che possa abbattersi su uomini o nazioni, e non ha nome, se non lo chiamiamo
+
+appagamento. Savonarola non salvò gli uomini dall'anarchia, ma dall'ordine;
+
+non dalla pestilenza, ma dalla paralisi; non dalla fame, ma dal
+
+lusso. Uomini come Savonarola sono i testimoni del tremendo
+
+fatto psicologico che sta in fondo a tutti i nostri cervelli, ma per il quale nessun nome
+
+è mai stato trovato, che l'agio è il peggior nemico della felicità, e
+
+la civiltà potenzialmente la fine dell'uomo.
+
+Poiché immagino che l'elettrizzante sfida di Savonarola al lusso del suo
+
+tempo andasse assai più a fondo della semplice questione del peccato. I moderni
+
+ammiratori razionalisti di Savonarola, da George Eliot in giù,
+
+insistono, abbastanza giustamente, sulla solida giustificazione etica
+
+dell'ira di Savonarola, sul carattere orribile ed eccessivo dei
+
+crimini che contaminavano i palazzi del [[Renaissance|Rinascimento]]. Ma non è necessario che
+
+siano tanto ansiosi di dimostrare che Savonarola non fu affatto un [[ascetic|asceta]], che egli si limitò a
+
+spuntare le nere macchie della malvagità con il pedante
+
+illuminismo di un membro di una Società Etica. Probabilmente egli odiava davvero
+
+la civiltà del suo [[Time|tempo]], e non semplicemente i suoi peccati; ed è
+
+esattamente in questo che fu infinitamente più profondo di un moralista moderno.
+
+Egli vide che i crimini effettivi non erano i soli mali: che gioielli rubati
+
+e vino avvelenato e immagini oscene erano soltanto i sintomi;
+
+che la malattia era la completa dipendenza dai gioielli e dal vino e dalle
+
+immagini. Questa è una cosa costantemente dimenticata nel giudicare gli asceti
+
+e i puritani dei tempi antichi. Una denuncia di svaghi innocui non
+
+significava sempre un ignorante odio verso ciò che nessuno se non un gretto moralista
+
+chiamerebbe dannoso. Talvolta significava un odio straordinariamente illuminato
+
+verso ciò che nessuno se non un gretto moralista chiamerebbe innocuo. Gli asceti sono
+
+talvolta più avanti dell'uomo medio, così [[Well|come]] meno.
+
+Tale, almeno, era l'odio nel cuore di Savonarola. Egli muoveva
+
+guerra non contro banali peccati umani, ma contro un empio e ingrato
+
+quietismo, contro l'abituarsi alla felicità, il peccato mistico per cui
+
+tutta la creazione cadde. Egli predicava quella severità che è il
+
+segno distintivo della giovinezza e della [[Hope|speranza]]. Predicava quella prontezza, quella
+
+limpida agilità e vigilanza, che è necessaria per conquistare il piacere tanto quanto
+
+per conquistare la santità, tanto indispensabile in un [[Lover|amante]] quanto in un monaco. Un critico ha
+
+giustamente osservato che Savonarola non poteva essere fondamentalmente
+
+anti-estetico, dato che aveva amici quali [[Michael]] [[Angelo]], Botticelli,
+
+e Luca della Robbia. Il fatto è che questa [[Purification|purificazione]] e austerità
+
+sono ancor più necessarie all'apprezzamento della vita e del riso che
+
+a qualsiasi altra cosa. Non lasciar passare inosservato alcun uccello, compitare con pazienza
+
+le pietre e le erbacce, avere la mente come un magazzino di tramonti, richiede
+
+una disciplina nel piacere, e un'[[Education|educazione]] alla gratitudine.
+
+La civiltà che circondava Savonarola da ogni lato era una
+
+civiltà che aveva già preso la svolta sbagliata, la svolta che
+
+conduce a infinite invenzioni e a nessuna scoperta, in cui le cose nuove diventano
+
+vecchie con sconcertante rapidità, ma in cui nessuna cosa vecchia diventa mai nuova.
+
+La mostruosità dei crimini del [[Renaissance|Rinascimento]] non era un segno di
+
+[[Imagination|immaginazione]]; era un segno, come lo è ogni mostruosità, della perdita dell'
+
+[[Imagination|immaginazione]]. È solo quando un uomo ha davvero cessato di vedere un [[Horse|cavallo]] per
+
+ciò che è, che inventa un centauro, solo quando non riesce più a
+
+stupirsi di un bue, che adora il diavolo. La diavoleria è lo
+
+stimolante della fantasia stanca; è il bere d'acquavite dell'[[artist|artista]].
+
+Savonarola si dedicò al più arduo di tutti i compiti terreni, quello
+
+di far sì che gli uomini si volgessero indietro e si [[Wonder|meravigliassero]] delle semplicità che avevano imparato
+
+a ignorare. È strano che la più impopolare di tutte le dottrine sia
+
+la dottrina che dichiara divina la vita comune. La [[democracy|Democrazia]], di cui
+
+Savonarola fu un così focoso esponente, è il più arduo dei vangeli; non c'è
+
+nulla che tanto atterrisca gli uomini quanto il decreto che essi sono tutti re.
+
+Il [[Christianity|Cristianesimo]], nella mente di Savonarola, identico alla [[democracy|democrazia]], è il
+
+più arduo dei vangeli; non c'è nulla che colpisca gli uomini con tanta [[Fear|paura]] quanto
+
+il detto che essi sono tutti figli di Dio.
+
+Savonarola e la sua repubblica caddero. La droga del dispotismo fu somministrata
+
+al popolo, ed esso dimenticò ciò che era stato. Vi sono alcuni ai
+
+giorni nostri che nutrono un così strano rispetto per l'arte e le lettere, e per
+
+i meri uomini di genio, da concepire il regno dei Medici come un
+
+miglioramento rispetto a quello del grande repubblicano fiorentino. Sono uomini
+
+come questi e la loro civiltà che oggi dobbiamo [[Fear|temere]].
+
+Siamo circondati da molti lati dagli stessi sintomi di quelli che
+
+destarono l'inestinguibile ira di Savonarola: un edonismo più stanco
+
+della felicità di quanto un infermo sia stanco del [[Pain|dolore]], un senso artistico che cerca
+
+l'assistenza del crimine poiché ha esaurito la [[Nature|natura]]. In molte opere moderne
+
+troviamo accenni velati e orribili a un senso autenticamente [[Renaissance|rinascimentale]] della
+
+[[Beauty|bellezza]] del [[Blood|sangue]], la poesia dell'omicidio. La fallita e depravata
+
+[[Imagination|immaginazione]] non vede che un uomo vivo è assai più drammatico di uno
+
+morto. Insieme a ciò, come al [[Time|tempo]] dei Medici, va il
+
+ricadere tra le braccia del dispotismo, la fame dell'uomo forte
+
+che è ignota tra gli uomini forti. L'imperioso [[Hero|eroe]] è venerato come
+
+è venerato dai lettori delle 'Bow [[Bells]] Novelettes,' e per
+
+la stessa ragione: un profondo senso di debolezza personale. Quella tendenza a
+
+demandare i nostri doveri discende su di noi, ed è l'[[Soul|anima]] della [[Slavery|schiavitù]], tanto
+
+se per i suoi compiti servili impiega servi quanto imperatori. Contro tutto
+
+questo il grande repubblicano clericale si erge in eterna protesta,
+
+preferendo il proprio fallimento al [[success|successo]] del suo rivale. La contesa è ancora
+
+tra lui e [[Lorenzo]], tra le responsabilità della libertà e la
+
+licenza della [[Slavery|schiavitù]], tra i pericoli della [[Truth|verità]] e la sicurezza del
+
+[[Silence|silenzio]], tra il piacere della fatica e la fatica del piacere. I
+
+sostenitori di [[Lorenzo]] il Magnifico sono sicuramente tra noi, uomini per
+
+i quali persino nazioni e imperi esistono solo per soddisfare l'attimo, uomini per
+
+i quali l'ultima calda ora dell'[[Summer|estate]] vale più di una pungente e invernale
+
+[[spring|primavera]]. Essi hanno un'arte, una letteratura, una [[philosophy|filosofia]] politica, che
+
+sono tutte parimenti apprezzate per il loro effetto immediato sul gusto, non per
+
+ciò che promettono del destino dello spirito. Le loro statuette e
+
+i loro sonetti sono tondi e perfetti, mentre il '[[Macbeth]]' è al confronto un
+
+[[Fragment|frammento]], e il Mosè di [[Michael]] [[Angelo]] un accenno. Le loro campagne e
+
+battaglie sono sempre dette trionfanti, mentre Cesare e Cromwell piansero per
+
+molte umiliazioni. E la fine di tutto ciò è l'inferno della non-resistenza,
+
+l'inferno di un'insondabile mollezza, finché l'intera [[Nature|natura]] rincula
+
+nella [[Madness|follia]] e la camera della civiltà non è più soltanto un
+
+appartamento imbottito, ma una cella imbottita.
+
+Quest'ultima e peggiore delle miserie umane Savonarola la scorse da lontano, e piegò
+
+tutte le sue gigantesche energie a volgere il carro su un altro corso.
+
+Pochi compresero il suo scopo; alcuni lo chiamarono pazzo, altri
+
+ciarlatano, altri un nemico della gioia umana. Non avrebbero nemmeno
+
+compreso se egli lo avesse detto loro, se avesse detto che li stava salvando
+
+da una calamità di contentezza che avrebbe dovuto essere la fine tanto delle gioie quanto dei
+
+dolori. Ma vi sono oggi coloro che avvertono lo stesso silenzioso
+
+pericolo, e che si piegano alla stessa silenziosa resistenza. Anche di loro
+
+si suppone che stiano contendendo per qualche banale scrupolo politico.
+
+Il signor M'Hardy afferma, in difesa di Savonarola, che il numero di belle opere
+
+d'arte distrutte nel Rogo delle Vanità è stato molto
+
+esagerato. Confesso che [[Hope|spero]] che la pira contenesse cataste di
+
+incomparabili capolavori, se il sacrificio rese quell'unico momento reale
+
+più reale. Di una cosa sono certo, che l'amico di Savonarola, [[Michael]]
+
+[[Angelo]], avrebbe ammucchiato tutte le proprie statue una sopra l'altra, e
+
+le avrebbe ridotte in cenere, se solo fosse stato certo che il bagliore
+
+che trasfigurava il cielo era l'[[Dawn|alba]] di un mondo più giovane e più saggio.
 
 
 

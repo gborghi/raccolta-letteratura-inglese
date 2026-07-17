@@ -1,5 +1,5 @@
 ---
-title: "Much Ado About Nothing — Act V, Scene 4 — exchange (THE PERSONS OF THE PLAY) [5]"
+title: "MUCH ADO ABOUT NOTHING"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/much-ado-about-nothing-(shakespeare)"
@@ -9,6 +9,1073 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/much_ado_about_nothing" data-author="Shakespeare" data-workhref="works/much-ado-about-nothing-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Much Ado About Nothing — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Leonato]], governor of Messina, [[Hero]] his daughter, and [[Beatrice]] his niece, with a Messenger |
+| [[Leonato|LEONATO]] | I learn in this letter that [[Don Pedro]] of Aragon comes this [[Night|night]] to Messina. |
+| MESSENGER | He is very near by this. He was not three leagues off when I left him. |
+| [[Leonato|LEONATO]] | How many gentlemen have you lost in this action? |
+| MESSENGER | But few of any sort, and none of name. |
+| [[Leonato|LEONATO]] | A victory is twice itself when the achiever brings [[Home|home]] full numbers. I find here that [[Don Pedro]] hath bestowed much [[Honour|honour]] on a young Florentine called [[Claudio]]. |
+| MESSENGER | Much deserved on his part, and equally remembered by [[Don Pedro]]. He hath borne himself beyond the promise of his age, doing in the figure of a [[Lamb|lamb]] the feats of a [[Lion|lion]]. He hath indeed better bettered expectation than you must expect of me to tell you how. |
+| [[Leonato|LEONATO]] | He hath an uncle here in Messina will be very much glad of it. |
+| MESSENGER | I have already delivered him letters, and there appears much joy in him—even so much that joy could not show itself modest enough without a badge of bitterness. |
+| [[Leonato|LEONATO]] | Did he break out into [[Tears|tears]]? |
+| MESSENGER | In great measure. |
+| [[Leonato|LEONATO]] | A kind overflow of kindness, there are no faces truer than those that are so washed. How much better is it to weep at joy than to joy at weeping! |
+| [[Beatrice|BEATRICE]] | I pray you, is Signor Montanto returned from the wars, or no? |
+| MESSENGER | I know none of that name, lady. There was none such in the army, of any sort. |
+| [[Leonato|LEONATO]] | What is he that you ask for, niece? |
+| [[Hero|HERO]] | My cousin means Signor [[Benedick]] of Padua. |
+| MESSENGER | O, he’s returned, and as pleasant as ever he was. |
+| [[Beatrice|BEATRICE]] | He set up his bills here in Messina, and challenged Cupid at the flight; and my uncle’s [[Fool|fool]], reading the challenge, subscribed for Cupid and challenged him at the bird-bolt. I pray you, how many hath he killed and eaten in these wars? But how many hath he killed? For indeed I promised to eat all of his killing. |
+| [[Leonato|LEONATO]] | [[Faith]], niece, you tax Signor [[Benedick]] too much. But he’ll be meet with you, I [[Doubt|doubt]] it not. |
+| MESSENGER | He hath done good service, lady, in these wars. |
+| [[Beatrice|BEATRICE]] | You had musty victual, and he hath holp to eat it. He is a very valiant trencherman, he hath an excellent stomach. |
+| MESSENGER | And a good soldier too, lady. |
+| [[Beatrice|BEATRICE]] | And a good soldier to a lady, but what is he to a lord? |
+| MESSENGER | A lord to a lord, a man to a man, stuffed with all honourable virtues. |
+| [[Beatrice|BEATRICE]] | It is so, indeed. He is no less than a stuffed man. But for the stuffing—[[Well|well]], we are all mortal. |
+| [[Leonato|LEONATO]] | You must not, sir, mistake my niece. There is a kind of merry war betwixt Signor [[Benedick]] and her. They never meet but there’s a skirmish of wit between them. 61 |
+| [[Beatrice|BEATRICE]] | Alas, he gets nothing by that. In our last conflict four of his five wits went halting off, and now is the whole man governed with one, so that if he have wit enough to keep himself warm, let him bear it for a difference between himself and his [[Horse|horse]], for it is all the wealth that he hath left to be known a reasonable creature. Who is his companion now? He hath every month a new sworn brother. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--02_exchange_messenger" data-title="Much Ado About Nothing — Act I, Scene 1 — exchange (MESSENGER) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MESSENGER | Is’t possible? |
+| [[Beatrice|BEATRICE]] | Very easily possible. He wears his [[Faith|faith]] but as the fashion of his hat, it ever changes with the next block. |
+| MESSENGER | I see, lady, the gentleman is not in your books. |
+| [[Beatrice|BEATRICE]] | No. An he were, I would burn my study. But I pray you, who is his companion? Is there no young squarer now that will make a voyage with him to the devil? |
+| MESSENGER | He is most in the company of the right noble [[Claudio]]. |
+| [[Beatrice|BEATRICE]] | O Lord, he will hang upon him like a disease. He is sooner caught than the pestilence, and the taker runs presently mad. God help the noble [[Claudio]]. If he have caught the [[Benedick]], it will cost him a thousand pound ere a be cured. |
+| MESSENGER | I will hold friends with you, lady. |
+| [[Beatrice|BEATRICE]] | Do, good friend. |
+| [[Leonato|LEONATO]] | You will never run mad, niece. |
+| [[Beatrice|BEATRICE]] | No, not till a hot January. |
+| MESSENGER | [[Don Pedro]] is approached. Enter [[Don Pedro]], [[Claudio]], [[Benedick]], Balthasar, and [[Don John]] the bastard |
+| [[Don Pedro|DON PEDRO]] | Good Signor [[Leonato]], are you come to meet your trouble? The fashion of the world is to avoid cost, and you encounter it. |
+| [[Leonato|LEONATO]] | Never came trouble to my [[house]] in the likeness of your grace; for trouble being gone, comfort should remain, but when you depart from me, sorrow abides and happiness takes his leave. |
+| [[Don Pedro|DON PEDRO]] | You embrace your charge too willingly. I think this is your daughter. |
+| [[Leonato|LEONATO]] | Her mother hath many times told me so. |
+| [[Benedick|BENEDICK]] | Were you in [[Doubt|doubt]], sir, that you asked her? |
+| [[Leonato|LEONATO]] | Signor [[Benedick]], no, for then were you a [[Child|child]]. |
+| [[Don Pedro|DON PEDRO]] | You have it full, [[Benedick]]. We may guess by this what you are, being a man. Truly, the lady fathers herself. Be happy, lady, for you are like an honourable father. |
+| [[Benedick|BENEDICK]] | If Signor [[Leonato]] be her father, she would not have his head on her shoulders for all Messina, as like him as she is. |
+| [[Beatrice|BEATRICE]] | I [[Wonder|wonder]] that you will still be talking, Signor [[Benedick]]. Nobody marks you. |
+| [[Benedick|BENEDICK]] | What, my dear Lady Disdain! Are you yet living? |
+| [[Beatrice|BEATRICE]] | Is it possible disdain should die while she hath such meet food to feed it as Signor [[Benedick]]? Courtesy itself must [[convert]] to disdain if you come in her presence. |
+| [[Benedick|BENEDICK]] | Then is courtesy a turncoat. But it is certain I am loved of all ladies, only you excepted. And I would I could find in my heart that I had not a hard heart, for truly I [[Love|love]] none. |
+| [[Beatrice|BEATRICE]] | A dear happiness to women. They would else have been troubled with a pernicious suitor. I thank God and my cold [[Blood|blood]] I am of your [[Humour|humour]] for that. I had rather hear my dog bark at a crow than a man swear he loves me. |
+| [[Benedick|BENEDICK]] | God keep your ladyship still in that mind. So some gentleman or other shall scape a predestinate scratched face. |
+| [[Beatrice|BEATRICE]] | Scratching could not make it worse an ’twere such a face as yours were. [[Benedick|BENEDICK]] [[Well]], you are a rare parrot-teacher. |
+| [[Beatrice|BEATRICE]] | A bird of my tongue is better than a beast of yours. |
+| [[Benedick|BENEDICK]] | I would my [[Horse|horse]] had the [[Speed|speed]] of your tongue, and so good a continuer. But keep your way, o’ God’s name. I have done. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--03_exchange_beatrice" data-title="Much Ado About Nothing — Act I, Scene 1 — exchange (BEATRICE) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Beatrice|BEATRICE]] | You always end with a jade’s trick. I know you of old. |
+| [[Don Pedro|DON PEDRO]] | That is the sum of all, [[Leonato]]. Signor [[Claudio]] and Signor [[Benedick]], my dear friend [[Leonato]] hath invited you all. I tell him we shall stay here at the least a month, and he heartily prays some occasion may detain us longer. I dare swear he is no hypocrite, but prays from his heart. |
+| [[Leonato|LEONATO]] | If you swear, my lord, you shall not be forsworn. (To [[Don John]]) Let me bid you welcome, my lord. Being reconciled to the Prince your brother, I owe you all duty. |
+| [[Don John|DON JOHN]] | I thank you. I am not of many words, but I thank you. |
+| [[Leonato|LEONATO]] | (to [[Don Pedro]]) Please it your grace lead on? |
+| [[Don Pedro|DON PEDRO]] | Your hand, [[Leonato]]. We will go together. Exeunt all but [[Benedick]] and [[Claudio]] |
+| [[Claudio|CLAUDIO]] | [[Benedick]], didst thou note the daughter of Signor [[Leonato]]? |
+| [[Benedick|BENEDICK]] | I noted her not, but I looked on her. |
+| [[Claudio|CLAUDIO]] | Is she not a modest young lady? |
+| [[Benedick|BENEDICK]] | Do you question me as an honest man should do, for my simple true judgement, or would you have me speak after my custom, as being a professed [[Tyrant|tyrant]] to their sex? |
+| [[Claudio|CLAUDIO]] | No, I pray thee speak in sober judgement. |
+| [[Benedick|BENEDICK]] | Why, i’[[Faith|faith]], methinks she’s too low for a high praise, too brown for a fair praise, and too little for a great praise. Only this commendation I can afford her, that were she other than she is she were unhandsome, and being no other but as she is, I do not like her. |
+| [[Claudio|CLAUDIO]] | Thou thinkest I am in sport. I pray thee tell me truly how thou likest her. |
+| [[Benedick|BENEDICK]] | Would you buy her, that you enquire after her? |
+| [[Claudio|CLAUDIO]] | Can the world buy such a [[Jewel|jewel]]? |
+| [[Benedick|BENEDICK]] | Yea, and a case to put it into. But speak you this with a sad brow, or do you play the flouting jack, to tell us Cupid is a good hare-finder and Vulcan a rare carpenter? Come, in what key shall a man take you to go in the [[Song|song]]? |
+| [[Claudio|CLAUDIO]] | In mine eye she is the sweetest lady that ever I looked on. |
+| [[Benedick|BENEDICK]] | I can see yet without spectacles, and I see no such matter. There’s her cousin, an she were not possessed with a fury, exceeds her as much in [[Beauty|beauty]] as the first of May doth the last of December. But I [[Hope|hope]] you have no intent to turn husband, have you? |
+| [[Claudio|CLAUDIO]] | I would scarce trust myself though I had sworn the contrary, if [[Hero]] would be my wife. |
+| [[Benedick|BENEDICK]] | Is’t come to this? In [[Faith|faith]], hath not the world one man but he will wear his cap with suspicion? Shall I never see a bachelor of three-score again? Go to, i’[[Faith|faith]], an thou wilt needs thrust thy neck into a yoke, wear the print of it, and sigh away Sundays. Look, [[Don Pedro]] is returned to seek you. Enter [[Don Pedro]] |
+| [[Don Pedro|DON PEDRO]] | What secret hath held you here that you followed not to [[Leonato]]’s? |
+| [[Benedick|BENEDICK]] | I would your grace would constrain me to tell. |
+| [[Don Pedro|DON PEDRO]] | I charge thee on thy allegiance. |
+| [[Benedick|BENEDICK]] | You hear, Count [[Claudio]]? I can be secret as a dumb man, I would have you think so. But on my allegiance, mark you this, on my allegiance! He is in [[Love|love]]. With who? Now that is your grace’s part. Mark how short his answer is: with [[Hero]], [[Leonato]]’s short daughter. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--04_exchange_claudio" data-title="Much Ado About Nothing — Act I, Scene 1 — exchange (CLAUDIO) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Claudio|CLAUDIO]] | If this were so, so were it uttered. |
+| [[Benedick|BENEDICK]] | Like the old tale, my lord—it is not so, nor ’twas not so, but indeed, God forbid it should be so. |
+| [[Claudio|CLAUDIO]] | If my passion change not shortly, God forbid it should be otherwise. |
+| [[Don Pedro|DON PEDRO]] | Amen, if you [[Love|love]] her, for the lady is very [[Well|well]] worthy. |
+| [[Claudio|CLAUDIO]] | You speak this to fetch me in, my lord. |
+| [[Don Pedro|DON PEDRO]] | By my troth, I speak my thought. |
+| [[Claudio|CLAUDIO]] | And in [[Faith|faith]], my lord, I spoke mine. |
+| [[Benedick|BENEDICK]] | And by my two faiths and troths, my lord, I spoke mine. |
+| [[Claudio|CLAUDIO]] | That I [[Love|love]] her, I feel. |
+| [[Don Pedro|DON PEDRO]] | That she is worthy, I know. |
+| [[Benedick|BENEDICK]] | That I neither feel how she should be loved nor know how she should be worthy is the opinion that [[Fire|fire]] cannot melt out of me. I will die in it at the stake. |
+| [[Don Pedro|DON PEDRO]] | Thou wast ever an obstinate heretic in the despite of [[Beauty|beauty]]. |
+| [[Claudio|CLAUDIO]] | And never could maintain his part but in the force of his will. |
+| [[Benedick|BENEDICK]] | That a woman conceived me, I thank her. That she brought me up, I likewise give her most humble thanks. But that I will have a recheat winded in my forehead, or hang my bugle in an invisible baldric, all women shall pardon me. Because I will not do them the wrong to mistrust any, I will do myself the right to trust none. And the fine is—for the which I may go the finer—I will live a bachelor. |
+| [[Don Pedro|DON PEDRO]] | I shall see thee ere I die look pale with [[Love|love]]. |
+| [[Benedick|BENEDICK]] | With anger, with sickness, or with hunger, my lord; not with [[Love|love]]. Prove that ever I lose more [[Blood|blood]] with [[Love|love]] than I will get again with drinking, pick out mine eyes with a ballad-maker’s pen and hang me up at the door of a brothel [[house]] for the sign of blind Cupid. |
+| [[Don Pedro|DON PEDRO]] | [[Well]], if ever thou dost fall from this [[Faith|faith]] thou wilt prove a notable argument. |
+| [[Benedick|BENEDICK]] | If I do, hang me in a bottle like a cat, and shoot at me, and he that hits me, let him be clapped on the shoulder and called Adam. |
+| [[Don Pedro|DON PEDRO]] | [[Well]], as [[Time|time]] shall try. ‘In [[Time|time]] the savage bull doth bear the yoke.’ |
+| [[Benedick|BENEDICK]] | The savage bull may, but if ever the sensible [[Benedick]] bear it, pluck off the bull’s horns and set them in my forehead, and let me be vilely painted, and in such great letters as they write ‘Here is good [[Horse|horse]] to hire’ let them signify under my sign ‘Here you may see [[Benedick]], the married man’. |
+| [[Claudio|CLAUDIO]] | If this should ever happen thou wouldst be horn-mad. |
+| [[Don Pedro|DON PEDRO]] | Nay, if Cupid have not spent all his quiver in [[Venice]] thou wilt quake for this shortly. |
+| [[Benedick|BENEDICK]] | I look for an earthquake too, then. |
+| [[Don Pedro|DON PEDRO]] | [[Well]], you will temporize with the hours. In the mean [[Time|time]], good Signor [[Benedick]], repair to [[Leonato]]’s, commend me to him, and tell him I will not fail him at supper, for indeed he hath made great preparation. |
+| [[Benedick|BENEDICK]] | I have almost matter enough in me for such an embassage. And so I commit you— |
+| [[Claudio|CLAUDIO]] | To the tuition of God, from my [[house]] if I had it— |
+| [[Don Pedro|DON PEDRO]] | The sixth of July, Your loving friend, [[Benedick]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--05_exchange_benedick" data-title="Much Ado About Nothing — Act I, Scene 1 — exchange (BENEDICK) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benedick|BENEDICK]] | Nay, mock not, mock not. The [[Body|body]] of your discourse is sometime guarded with fragments, and the guards are but slightly basted on neither. Ere you flout old ends any further, examine your [[Conscience|conscience]]. And so I leave you. Exit |
+| [[Claudio|CLAUDIO]] | My liege, your highness now may do me good. |
+| [[Don Pedro|DON PEDRO]] | My [[Love|love]] is thine to teach. Teach it but how And thou shalt see how apt it is to learn Any hard lesson that may do thee good. |
+| [[Claudio|CLAUDIO]] | Hath [[Leonato]] any son, my lord? |
+| [[Don Pedro|DON PEDRO]] | No [[Child|child]] but [[Hero]]. She’s his only heir. Dost thou affect her, [[Claudio]]? |
+| [[Claudio|CLAUDIO]] | O my lord, When you went onward on this ended action I looked upon her with a soldier’s eye, That liked, but had a rougher task in hand Than to drive liking to the name of [[Love|love]]. But now I am returned, and that war-thoughts Have left their places vacant, in their rooms Come thronging soft and delicate desires, All prompting me how fair young [[Hero]] is, Saying I liked her ere I went to wars. |
+| [[Don Pedro|DON PEDRO]] | Thou wilt be like a [[Lover|lover]] presently, And tire the hearer with a book of words. If thou dost [[Love|love]] fair [[Hero]], cherish it, And I will break with her, and with her father, And thou shalt have her. Was’t not to this end That thou began’st to twist so fine a story? |
+| [[Claudio|CLAUDIO]] | How sweetly you do minister to [[Love|love]], That know [[Love|love]]’s grief by his complexion! But lest my liking might too sudden seem I would have salved it with a longer treatise. |
+| [[Don Pedro|DON PEDRO]] | What need the bridge much broader than the flood? The fairest grant is the necessity. Look what will serve is fit. ‘Tis once: thou lovest, And I will fit thee with the remedy. I know we shall have revelling tonight. I will assume thy part in some disguise, And tell fair [[Hero]] I am [[Claudio]]. And in her bosom I’ll unclasp my heart And take her hearing prisoner with the force And strong encounter of my amorous tale. Then after to her father will I break, And the conclusion is, she shall be thine. In practice let us put it presently. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Leonato]], [[Antonio]] his brother, [[Hero]] his daughter, [[Beatrice]] his niece, Margaret, and Ursula |
+| [[Leonato|LEONATO]] | Was not Count John here at supper? |
+| [[Antonio|ANTONIO]] | I saw him not. |
+| [[Beatrice|BEATRICE]] | How tartly that gentleman looks. I never can see him but I am heartburned an hour after. |
+| [[Hero|HERO]] | He is of a very [[Melancholy|melancholy]] disposition. |
+| [[Beatrice|BEATRICE]] | He were an excellent man that were made just in the midway between him and [[Benedick]]. The one is too like an image and says nothing, and the other too like my lady’s eldest son, evermore tattling. |
+| [[Leonato|LEONATO]] | Then half Signor [[Benedick]]’s tongue in Count John’s mouth, and half Count John’s [[Melancholy|melancholy]] in Signor [[Benedick]]’s face— |
+| [[Beatrice|BEATRICE]] | With a good leg and a good foot, uncle, and money enough in his purse—such a man would win any woman in the world, if a could get her good will. |
+| [[Leonato|LEONATO]] | By my troth, niece, thou wilt never get thee a husband if thou be so shrewd of thy tongue. |
+| [[Antonio|ANTONIO]] | In [[Faith|faith]], she’s too curst. |
+| [[Beatrice|BEATRICE]] | Too curst is more than curst. I shall lessen God’s sending that way, for it is said God sends a curst cow short horns, but to a cow too curst he sends none. |
+| [[Leonato|LEONATO]] | So, by being too curst, God will send you no horns. |
+| [[Beatrice|BEATRICE]] | just, if he send me no husband, for the which blessing I am at him upon my knees every morning and evening. Lord, I could not endure a husband with a beard on his face. I had rather lie in the woollen. |
+| [[Leonato|LEONATO]] | You may light on a husband that hath no beard. |
+| [[Beatrice|BEATRICE]] | What should I do with him—dress him in my apparel and make him my waiting gentlewoman? He that hath a beard is more than a youth, and he that hath no beard is less than a man; and he that is more than a youth is not for me, and he that is less than a man, I am not for him. Therefore I will even take sixpence in earnest of the bearherd and lead his apes into hell. |
+| [[Leonato|LEONATO]] | [[Well]] then, go you into hell? |
+| [[Beatrice|BEATRICE]] | No, but to the gate, and there will the devil meet me like an old cuckold with horns on his head, and say, ‘Get you to heaven, [[Beatrice]], get you to heaven. Here’s no place for you maids.’ So deliver I up my apes and away to Saint Peter fore the heavens. He shows me where the bachelors sit, and there live we as merry as the day is long. |
+| [[Antonio|ANTONIO]] | (to [[Hero]]) [[Well]], niece, I trust you will be ruled by your father. |
+| [[Beatrice|BEATRICE]] | Yes, [[Faith|faith]], it is my cousin’s duty to make curtsy and say, ‘Father, as it please you.’ But yet for all that, cousin, let him be a handsome fellow, or else make another curtsy and say, ‘Father, as it please me.’ |
+| [[Leonato|LEONATO]] | [[Well]], niece, I [[Hope|hope]] to see you one day fitted with a husband. |
+| [[Beatrice|BEATRICE]] | Not till God make men of some other mettle than earth. Would it not grieve a woman to be overmastered with a piece of valiant [[Dust|dust]]?—to make an account of her life to a clod of wayward marl? No, uncle, I’ll none. Adam’s sons are my brethren, and truly I hold it a sin to match in my kindred. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--02_exchange_leonato" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (LEONATO) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Leonato|LEONATO]] | (to [[Hero]]) Daughter, remember what I told you. If the Prince do solicit you in that kind, you know your answer. |
+| [[Beatrice|BEATRICE]] | The fault will be in the music, cousin, if you be not wooed in good [[Time|time]]. If the Prince be too important, tell him there is measure in everything, and so [[Dance|dance]] out the answer. For hear me, [[Hero]], wooing, wedding, and repenting is as a Scotch jig, a measure, and a cinquepace. The first suit is hot and hasty, like a Scotch jig—and full as fantastical; the wedding mannerly modest, as a measure, full of state and ancientry. And then comes repentance, and with his bad legs falls into the cinquepace faster and faster till he sink into his [[Grave|grave]]. |
+| [[Leonato|LEONATO]] | Cousin, you apprehend passing shrewdly. |
+| [[Beatrice|BEATRICE]] | I have a good eye, uncle. I can see a church by daylight. |
+| [[Leonato|LEONATO]] | The revellers are entering, brother. Make good room. Enter [[Don Pedro]], [[Claudio]], [[Benedick]], and Balthasar, all masked, [[Don John]], and Borachio, with a drummer |
+| [[Don Pedro|DON PEDRO]] | (to [[Hero]]) Lady, will you walk a bout with your friend? |
+| [[Hero|HERO]] | So you walk softly, and look sweetly, and say nothing, I am yours for the walk; and especially when I walk away. |
+| [[Don Pedro|DON PEDRO]] | With me in your company? |
+| [[Hero|HERO]] | I may say so when I please. |
+| [[Don Pedro|DON PEDRO]] | And when please you to say so? |
+| [[Hero|HERO]] | When I like your favour; for God defend the lute should be like the case. |
+| [[Don Pedro|DON PEDRO]] | My visor is Philemon’s roof. Within the [[house]] is Jove. |
+| [[Hero|HERO]] | Why, then, your visor should be thatched. |
+| [[Don Pedro|DON PEDRO]] | Speak low if you speak [[Love|love]]. They move aside BALTHASAR (to Margaret) [[Well]], I would you did like me. |
+| MARGARET | So would not I, for your own sake, for I have many ill qualities. BALTHASAR Which is one? |
+| MARGARET | I say my prayers aloud. BALTHASAR I [[Love|love]] you the better—the hearers may cry amen. |
+| MARGARET | God match me with a good dancer. |
+| BALTHASAR | Amen. |
+| MARGARET | And God keep him. out of my sight when the [[Dance|dance]] is done. Answer, clerk. |
+| BALTHASAR | No more words. The clerk is answered. They move aside |
+| URSULA | (to [[Antonio]]) I know you [[Well|well]] enough, you are Signor [[Antonio]]. |
+| [[Antonio|ANTONIO]] | At a word, I am not. |
+| URSULA | I know you by the waggling of your head. |
+| [[Antonio|ANTONIO]] | To tell you true, I counterfeit him. |
+| URSULA | You could never do him so ill-[[Well|well]] unless you were the very man. Here’s his dry hand up and down. You are he, you are he. |
+| [[Antonio|ANTONIO]] | At a word, I am not. |
+| URSULA | Come, come, do you think I do not know you by your excellent wit? Can virtue hide itself? Go to, mum, you are he. Graces will appear, and there’s an end. They move aside |
+| [[Beatrice|BEATRICE]] | (to [[Benedick]]) Will you not tell me who told you so? 115 [[Benedick|BENEDICK]] No, you shall pardon me. |
+| [[Beatrice|BEATRICE]] | Nor will you not tell me who you are? |
+| [[Benedick|BENEDICK]] | Not now. |
+| [[Beatrice|BEATRICE]] | That I was disdainful, and that I had my good wit out of the Hundred Merry Tales—[[Well|well]], this was Signor [[Benedick]] that said so. [[Benedick|BENEDICK]] What’s he? |
+| [[Beatrice|BEATRICE]] | I am sure you know him [[Well|well]] enough. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--03_exchange_benedick" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (BENEDICK) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benedick|BENEDICK]] | Not I, believe me. |
+| [[Beatrice|BEATRICE]] | Did he never make you laugh? |
+| [[Benedick|BENEDICK]] | I pray you, what is he? |
+| [[Beatrice|BEATRICE]] | Why, he is the Prince’s jester, a very dull [[Fool|fool]]. Only his gift is in devising impossible slanders. None but libertines delight in him, and the commendation is not in his wit but in his villainy, for he both pleases men and angers them, and then they laugh at him, and beat him. I am sure he is in the fleet. I would he had boarded me. |
+| [[Benedick|BENEDICK]] | When I know the gentleman, I’ll tell him what you say. |
+| [[Beatrice|BEATRICE]] | Do, do. He’ll but break a comparison or two on me, which peradventure not marked, or not laughed at, strikes him into [[Melancholy|melancholy]], and then there’s a partridge wing saved, for the [[Fool|fool]] will eat no supper that [[Night|night]]. Music We must follow the leaders. |
+| [[Benedick|BENEDICK]] | In every good thing. |
+| [[Beatrice|BEATRICE]] | Nay, if they lead to any ill I will leave them at the next turning. [[Dance]]. Exeunt all but [[Don John]], Borachio, and [[Claudio]] |
+| [[Don John|DON JOHN]] | (aside to Borachio) Sure my brother is amorous on [[Hero]], and hath withdrawn her father to break with him about it. The ladies follow her, and but one visor remains. |
+| BORACHIO | (aside to [[Don John]]) And that is [[Claudio]]. I know him by his bearing. |
+| [[Don John|DON JOHN]] | Are not you Signor [[Benedick]]? |
+| [[Claudio|CLAUDIO]] | You know me [[Well|well]]. I am he. |
+| [[Don John|DON JOHN]] | Signor, you are very near my brother in his [[Love|love]]. He is enamoured on [[Hero]]. I pray you dissuade him from her. She is no equal for his birth. You may do the part of an honest man in it. |
+| [[Claudio|CLAUDIO]] | How know you he loves her? |
+| [[Don John|DON JOHN]] | I heard him swear his affection. |
+| BORACHIO | So did I, too, and he swore he would marry her tonight. |
+| [[Don John|DON JOHN]] | Come, let us to the banquet. Exeunt all but [[Claudio]] |
+| [[Claudio|CLAUDIO]] | Thus answer I in name of [[Benedick]], But hear these ill news with the ears of [[Claudio]]. ’Tis certain so, the Prince woos for himself. [[Friendship]] is constant in all other things Save in the office and affairs of [[Love|love]]. Therefore all hearts in [[Love|love]] use their own tongues. Let every eye negotiate for itself, And trust no agent; for [[Beauty|beauty]] is a [[Witch|witch]] Against whose charms [[Faith|faith]] melteth into [[Blood|blood]]. This is an accident of hourly proof, Which I mistrusted not. Farewell, therefore, [[Hero]]. Enter [[Benedick]] |
+| [[Benedick|BENEDICK]] | Count [[Claudio]]? |
+| [[Claudio|CLAUDIO]] | Yea, the same. |
+| [[Benedick|BENEDICK]] | Come, will you go with me? |
+| [[Claudio|CLAUDIO]] | Whither? |
+| [[Benedick|BENEDICK]] | Even to the next willow, about your own business, County. What fashion will you wear the garland of? About your neck, like an usurer’s chain? Or under your arm, like a lieutenant’s scarf? You must wear it one way, for the Prince hath got your [[Hero]]. |
+| [[Claudio|CLAUDIO]] | I wish him joy of her. |
+| [[Benedick|BENEDICK]] | Why, that’s spoken like an honest drover; so they sell bullocks. But did you think the Prince would have served you thus? |
+| [[Claudio|CLAUDIO]] | I pray you leave me. |
+| [[Benedick|BENEDICK]] | Ho, now you strike like the blind man—’twas the boy that stole your meat, and you’ll beat the post. |
+| [[Claudio|CLAUDIO]] | If it will not be, I’ll leave you. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--04_exchange_benedick" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (BENEDICK) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benedick|BENEDICK]] | Alas, poor hurt fowl, now will he creep into sedges. But that my Lady [[Beatrice]] should know me, and not know me! The Prince’s [[Fool|fool]]! Ha, it may be I go under that title because I am merry. Yea, but so I am apt to do myself wrong. I am not so reputed. It is the base, though bitter, disposition of [[Beatrice]] that puts the world into her person, and so gives me out. [[Well]], I’ll be revenged as I may. Enter [[Don Pedro]] the Prince |
+| [[Don Pedro|DON PEDRO]] | Now, signor, where’s the Count? Did you see him? |
+| [[Benedick|BENEDICK]] | Troth, my lord, I have played the part of Lady Fame. I found him here as [[Melancholy|melancholy]] as a lodge in a warren. I told him—and I think I told him true—that your grace had got the good will of this young lady, and I offered him my company to a willow tree, either to make him a garland, as being forsaken, or to bind him up a rod, as being worthy to be whipped. |
+| [[Don Pedro|DON PEDRO]] | To be whipped—what’s his fault? |
+| [[Benedick|BENEDICK]] | The flat transgression of a schoolboy who, being overjoyed with finding a bird’s nest, shows it his companion, and he steals it. |
+| [[Don Pedro|DON PEDRO]] | Wilt thou make a trust a transgression? The transgression is in the stealer. |
+| [[Benedick|BENEDICK]] | Yet it had not been amiss the rod had been made, and the garland too, for the garland he might have worn himself, and the rod he might have bestowed on you, who, as I take it, have stolen his bird’s nest. |
+| [[Don Pedro|DON PEDRO]] | I will but teach them to sing, and restore them to the owner. |
+| [[Benedick|BENEDICK]] | If their singing answer your saying, by my [[Faith|faith]] you say honestly. |
+| [[Don Pedro|DON PEDRO]] | The Lady [[Beatrice]] hath a quarrel to you. The gentleman that danced with her told her she is much wronged by you. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--05_monologue_benedick" data-title="Much Ado About Nothing — Act II, Scene 1 — monologue (BENEDICK) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benedick|BENEDICK]] | O, she misused me past the [[Endurance|endurance]] of a block. An oak but with one green leaf on it would have answered her. My very visor began to assume life and scold with her. She told me—not thinking I had been myself—that I was the Prince’s jester, that I was duller than a great thaw, huddling jest upon jest with such impossible conveyance upon me that I stood like a man at a mark, with a whole army shooting at me. She speaks poniards, and every word stabs. If her breath were as terrible as her terminations, there were no living near her, she would infect to the North Star. I would not marry her though she were endowed with all that Adam had left him before he transgressed. She would have made Hercules have turned spit, yea, and have cleft his club to make the [[Fire|fire]], too. Come, talk not of her. You shall find her the infernal Ate in good apparel. I would to God some scholar would conjure her, for certainly, while she is here a man may live as quiet in hell as in a sanctuary, and people sin upon purpose because they would go thither, so indeed all disquiet, horror, and perturbation follows her. Enter [[Claudio]] and [[Beatrice]], and [[Leonato]] with [[Hero]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--06_exchange_don_pedro" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (DON PEDRO) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Don Pedro|DON PEDRO]] | Look, here she comes. |
+| [[Benedick|BENEDICK]] | Will your grace command me any service to the world’s end? I will go on the slightest errand now to the Antipodes that you can devise to send me on. I will fetch you a tooth-picker now from the furthest inch of Asia, bring you the length of Prester John’s foot, fetch you a hair off the Great Cham’s beard, do you any embassage to the pigmies, rather than hold three words’ conference with this harpy. You have no employment for me? |
+| [[Don Pedro|DON PEDRO]] | None but to [[Desire|desire]] your good company. |
+| [[Benedick|BENEDICK]] | O God, sir, here’s a dish I [[Love|love]] not. I cannot endure my Lady Tongue. Exit |
+| [[Don Pedro|DON PEDRO]] | Come, lady, come, you have lost the heart of Signor [[Benedick]]. |
+| [[Beatrice|BEATRICE]] | Indeed, my lord, he lent it me a while, and I gave him use for it, a [[Double|double]] heart for his single one. Marry, once before he won it of me, with false dice. Therefore your grace may [[Well|well]] say I have lost it. |
+| [[Don Pedro|DON PEDRO]] | You have put him down, lady, you have put him down. |
+| [[Beatrice|BEATRICE]] | So I would not he should do me, my lord, lest I should prove the mother of fools. I have brought Count [[Claudio]], whom you sent me to seek. |
+| [[Don Pedro|DON PEDRO]] | Why, how now, Count, wherefore are you sad? |
+| [[Claudio|CLAUDIO]] | Not sad, my lord. |
+| [[Don Pedro|DON PEDRO]] | How then? Sick? |
+| [[Claudio|CLAUDIO]] | Neither, my lord. |
+| [[Beatrice|BEATRICE]] | The Count is neither sad, nor sick, nor merry, nor [[Well|well]], but civil count, civil as an orange, and something of that jealous complexion. |
+| [[Don Pedro|DON PEDRO]] | I’[[Faith|faith]], lady, I think your blazon to be true, though I’ll be sworn, if he be so, his conceit is false. Here, [[Claudio]], I have wooed in thy name, and fair [[Hero]] is won. I have broke with her father and his good will obtained. Name the day of [[Marriage|marriage]], and God give thee joy. |
+| [[Leonato|LEONATO]] | Count, take of me my daughter, and with her my fortunes. His grace hath made the match, and all grace say amen to it. |
+| [[Beatrice|BEATRICE]] | Speak, Count, ’tis your cue. |
+| [[Claudio|CLAUDIO]] | [[Silence]] is the perfectest herald of joy. I were but little happy if I could say how much. (To [[Hero]]) Lady, as you are mine, I am yours. I give away myself for you, and dote upon the exchange. |
+| [[Beatrice|BEATRICE]] | (to [[Hero]]) Speak, cousin. Or, if you cannot, stop his mouth with a kiss, and let not him speak, neither. |
+| [[Don Pedro|DON PEDRO]] | In [[Faith|faith]], lady, you have a merry heart. |
+| [[Beatrice|BEATRICE]] | Yea, my lord, I thank it. Poor [[Fool|fool]], it keeps on the windy side of care.—My cousin tells him in his ear that he is in her heart. |
+| [[Claudio|CLAUDIO]] | And so she doth, cousin. |
+| [[Beatrice|BEATRICE]] | Good Lord, for alliance! Thus goes everyone to the world but I, and I am sunburnt. I may sit in a corner and cry ‘Heigh-ho for a husband’. |
+| [[Don Pedro|DON PEDRO]] | Lady [[Beatrice]], I will get you one. |
+| [[Beatrice|BEATRICE]] | I would rather have one of your father’s getting. Hath your grace ne’er a brother like you? Your father got excellent husbands if a maid could come by them. |
+| [[Don Pedro|DON PEDRO]] | Will you have me, lady? |
+| [[Beatrice|BEATRICE]] | No, my lord, unless I might have another for working days. Your grace is too costly to wear every day. But I beseech your grace, pardon me. I was born to speak all mirth and no matter. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--07_exchange_don_pedro" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (DON PEDRO) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Don Pedro|DON PEDRO]] | Your [[Silence|silence]] most offends me, and to be merry best becomes you; for out o’ question, you were born in a merry hour. |
+| [[Beatrice|BEATRICE]] | No, sure, my lord, my mother cried. But then there was a star danced, and under that was I born. (To [[Hero]] and [[Claudio]]) Cousins, God give you joy. |
+| [[Leonato|LEONATO]] | Niece, will you look to those things I told you of? |
+| [[Beatrice|BEATRICE]] | I cry you [[Mercy|mercy]], uncle. (To [[Don Pedro]]) By your grace’s pardon. Exit [[Beatrice]] |
+| [[Don Pedro|DON PEDRO]] | By my troth, a pleasant-spirited lady. |
+| [[Leonato|LEONATO]] | There’s little of the [[Melancholy|melancholy]] element in her, my lord. She is never sad but when she sleeps, and not ever sad then; for I have heard my daughter say she hath often dreamt of unhappiness and waked herself with laughing. |
+| [[Don Pedro|DON PEDRO]] | She cannot endure to hear tell of a husband. |
+| [[Leonato|LEONATO]] | O, by no means. She mocks all her wooers out of suit. |
+| [[Don Pedro|DON PEDRO]] | She were an excellent wife for [[Benedick]]. |
+| [[Leonato|LEONATO]] | O Lord, my lord, if they were but a week married they would talk themselves mad. |
+| [[Don Pedro|DON PEDRO]] | County [[Claudio]], when mean you to go to church? |
+| [[Claudio|CLAUDIO]] | Tomorrow, my lord. [[Time]] goes on crutches till [[Love|love]] have all his rites. |
+| [[Leonato|LEONATO]] | Not till Monday, my dear son, which is hence a just sevennight, and a [[Time|time]] too brief, too, to have all things answer my mind. |
+| [[Don Pedro|DON PEDRO]] | Come, you shake the head at so long a breathing, but I warrant thee, [[Claudio]], the [[Time|time]] shall not go dully by us. I will in the interim undertake one of Hercules’ labours, which is to bring Signor [[Benedick]] and the Lady [[Beatrice]] into a mountain of affection th‘one with th’other. I would fain have it a match, and I [[Doubt|doubt]] not but to fashion it, if you three will but minister such assistance as I shall give you direction. |
+| [[Leonato|LEONATO]] | My lord, I am for you, though it cost me ten nights’ watchings. |
+| [[Claudio|CLAUDIO]] | And I, my lord. |
+| [[Don Pedro|DON PEDRO]] | And you too, gentle [[Hero]]? |
+| [[Hero|HERO]] | I will do any modest office, my lord, to help my cousin to a good husband. |
+| [[Don Pedro|DON PEDRO]] | And [[Benedick]] is not the unhopefullest husband that I know. Thus far can I praise him: he is of a noble strain, of approved valour and confirmed honesty. I will teach you how to [[Humour|humour]] your cousin that she shall fall in [[Love|love]] with [[Benedick]], and I, with your two helps, will so practise on [[Benedick]] that, in despite of his quick wit and his queasy stomach, he shall fall in [[Love|love]] with [[Beatrice]]. If we can do this, Cupid is no longer an archer; his glory shall be ours, for we are the only [[Love|love]]-gods. Go in with me, and I will tell you my drift. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Much Ado About Nothing — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Benedick]] |
+| [[Benedick|BENEDICK]] | Boy! Enter Boy |
+| BOY | Signor? |
+| [[Benedick|BENEDICK]] | In my chamber [[Window|window]] lies a book. Bring it hither to me in the orchard. |
+| BOY | I am here already, sir. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--02_monologue_benedick_i" data-title="Much Ado About Nothing — Act II, Scene 3 — monologue (BENEDICK I) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benedick|BENEDICK]] | I know that, but I would have thee hence and here again. Exit Boy I do much [[Wonder|wonder]] that one man, seeing how much another man is a [[Fool|fool]] when he dedicates his behaviours to [[Love|love]], will, after he hath laughed at such shallow follies in others, become the argument of his own scorn by falling in [[Love|love]]. And such a man is [[Claudio]]. I have known when there was no music with him but the drum and the fife, and now had he rather hear the tabor and the pipe. I have known when he would have walked ten mile afoot to see a good armour, and now will he lie ten nights awake carving the fashion of a new doublet. He was wont to speak plain and to the purpose, like an honest man and a soldier, and now is he turned orthography. His words are a very fantastical banquet, just so many strange dishes. May I be so converted, and see with these eyes? I cannot tell. I think not. I will not be sworn but [[Love|love]] may transform me to an oyster, but I’ll take my oath on it, till he have made an oyster of me he shall never make me such a [[Fool|fool]]. One woman is fair, yet I am [[Well|well]]. Another is wise, yet I am [[Well|well]]. Another virtuous, yet I am [[Well|well]]. But till all graces be in one woman, one woman shall not come in my grace. Rich she shall be, that’s certain. Wise, or I’ll none. Virtuous, or I’ll never cheapen her. Fair, or I’ll never look on her. Mild, or come not near me. Noble, or not I for an angel. Of good discourse, an excellent musician, and her hair shall be of what colour it please God. Ha! The Prince and Monsieur [[Love]]. I will hide me in the arbour. He hides. Enter [[Don Pedro]] the Prince, [[Leonato]], and [[Claudio]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--03_exchange_don_pedro" data-title="Much Ado About Nothing — Act II, Scene 3 — exchange (DON PEDRO) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Don Pedro|DON PEDRO]] | Come, shall we hear this music? |
+| [[Claudio|CLAUDIO]] | Yea, my good lord. How still the evening is, As hushed on purpose to grace harmony. |
+| [[Don Pedro|DON PEDRO]] | (aside) See you where [[Benedick]] hath hid himself? |
+| [[Claudio|CLAUDIO]] | (aside) O, very [[Well|well]], my lord. The music ended, We’ll fit the hid-fox with a pennyworth. Enter Balthasar with music |
+| [[Don Pedro|DON PEDRO]] | Come, Balthasar, we’ll hear that [[Song|song]] again. |
+| BALTHASAR | O good my lord, tax not so bad a voice To slander music any more than once. |
+| [[Don Pedro|DON PEDRO]] | It is the witness still of excellency To put a strange face on his own perfection. I pray thee sing, and let me woo no more. |
+| BALTHASAR | Because you talk of wooing I will sing, Since many a wooer doth commence his suit To her he thinks not worthy, yet he woos, Yet will he swear he loves. |
+| [[Don Pedro|DON PEDRO]] | Nay pray thee, come; Or if thou wilt hold longer argument, Do it in notes. |
+| BALTHASAR | Note this before my notes: There’s not a note of mine that’s worth the noting. |
+| [[Don Pedro|DON PEDRO]] | Why, these are very crotchets that he speaks— Note notes, forsooth, and nothing! The accompaniment begins |
+| [[Benedick|BENEDICK]] | Now, divine air! Now is his [[Soul|soul]] ravished. Is it not strange that sheep’s guts should hale souls out of men’s bodies? [[Well]], a horn for my money, when all’s done. |
+| BALTHASAR | (sings) Sigh no more, ladies, sigh no more. Men were deceivers ever, One foot in sea, and one on shore, To one thing constant never. Then sigh not so, but let them go, And be you blithe and bonny, Converting all your sounds of woe Into hey nonny, nonny. |
+| BALTHASAR | Sing no more ditties, sing no more Of dumps so dull and heavy. The fraud of men was ever so Since [[Summer|summer]] first was leafy. Then sigh not so, but let them go, And be you blithe and bonny, Converting all your sounds of woe Into hey nonny, nonny. |
+| [[Don Pedro|DON PEDRO]] | By my troth, a good [[Song|song]]. |
+| BALTHASAR | And an ill singer, my lord. |
+| [[Don Pedro|DON PEDRO]] | Ha, no, no, [[Faith|faith]]. Thou singest [[Well|well]] enough for a shift. |
+| [[Benedick|BENEDICK]] | (aside) An he had been a dog that should have howled thus, they would have hanged him; and I pray God his bad voice bode no mischief. I had as lief have heard the [[Night|night]]-raven, come what plague could have come after it. |
+| [[Don Pedro|DON PEDRO]] | Yea, marry, dost thou hear, Balthasar? I pray thee get us some excellent music, for tomorrow [[Night|night]] we would have it at the Lady [[Hero]]’s chamber [[Window|window]]. |
+| BALTHASAR | The best I can, my lord. Exit |
+| [[Don Pedro|DON PEDRO]] | Do so. Farewell. Come hither, [[Leonato]]. What was it you told me of today, that your niece [[Beatrice]] was in [[Love|love]] with Signor [[Benedick]]? |
+| [[Claudio|CLAUDIO]] | (aside) O, ay, stalk on, stalk on. The fowl sits.—I did never think that lady would have loved any man. |
+| [[Leonato|LEONATO]] | No, nor I neither. But most wonderful that she should so dote on Signor [[Benedick]], whom she hath in all outward behaviours seemed ever to abhor. |
+| [[Benedick|BENEDICK]] | (aside) Is’t possible? Sits the [[Wind|wind]] in that corner? |
+| [[Leonato|LEONATO]] | By my troth, my lord, I cannot tell what to think of it. But that she loves him with an enraged affection, it is past the infinite of thought. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--04_exchange_don_pedro" data-title="Much Ado About Nothing — Act II, Scene 3 — exchange (DON PEDRO) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Don Pedro|DON PEDRO]] | Maybe she doth but counterfeit. |
+| [[Claudio|CLAUDIO]] | [[Faith]], like enough. |
+| [[Leonato|LEONATO]] | O God! Counterfeit? There was never counterfeit of passion came so near the life of passion as she discovers it. |
+| [[Don Pedro|DON PEDRO]] | Why, what effects of passion shows she? |
+| [[Claudio|CLAUDIO]] | (aside) Bait the hook [[Well|well]]. This fish will bite. |
+| [[Leonato|LEONATO]] | What effects, my lord? She will sit you—you heard my daughter tell you how. |
+| [[Claudio|CLAUDIO]] | She did indeed. |
+| [[Don Pedro|DON PEDRO]] | How, how, I pray you? You amaze me. I would have thought her spirit had been invincible against all assaults of affection. |
+| [[Leonato|LEONATO]] | I would have sworn it had, my lord, especially against [[Benedick]]. |
+| [[Benedick|BENEDICK]] | (aside) I should think this a gull, but that the white-bearded fellow speaks it. Knavery cannot, sure, hide himself in such reverence. |
+| [[Claudio|CLAUDIO]] | (aside) He hath ta’en th’infection. Hold it up. |
+| [[Don Pedro|DON PEDRO]] | Hath she made her affection known to [[Benedick]]? |
+| [[Leonato|LEONATO]] | No, and swears she never will. That’s her torment. |
+| [[Claudio|CLAUDIO]] | ‘Tis true, indeed, so your daughter says. ‘Shall I,’ says she, ‘that have so oft encountered him with scorn, write to him that I [[Love|love]] him?’ |
+| [[Leonato|LEONATO]] | This says she now when she is beginning to write to him, for she’ll be up twenty times a [[Night|night]], and there will she sit in her smock till she have writ a sheet of paper. My daughter tells us all. |
+| [[Claudio|CLAUDIO]] | Now you talk of a sheet of paper, I remember a pretty jest your daughter told us of. |
+| [[Leonato|LEONATO]] | O, when she had writ it and was reading it over, she found [[Benedick]] and [[Beatrice]] between the sheet. |
+| [[Claudio|CLAUDIO]] | That. |
+| [[Leonato|LEONATO]] | O, she tore the letter into a thousand halfpence, railed at herself that she should be so immodest to write to one that she knew would flout her. ‘I measure him,’ says she, ‘by my own spirit, for I should flout him if he writ to me, yea, though I [[Love|love]] him I should.’ |
+| [[Claudio|CLAUDIO]] | Then down upon her knees she falls, weeps, sobs, beats her heart, [[Tears|tears]] her hair, prays, curses, ‘O sweet [[Benedick]], God give me patience.’ |
+| [[Leonato|LEONATO]] | She doth indeed, my daughter says so, and the ecstasy hath so much overborne her that my daughter is sometime afeard she will do a desperate outrage to herself. It is very true. |
+| [[Don Pedro|DON PEDRO]] | It were good that [[Benedick]] knew of it by some other, if she will not discover it. |
+| [[Claudio|CLAUDIO]] | To what end? He would make but a sport of it and torment the poor lady worse. |
+| [[Don Pedro|DON PEDRO]] | An he should, it were an alms to hang him. She’s an excellent sweet lady, and, out of all suspicion, she is virtuous. |
+| [[Claudio|CLAUDIO]] | And she is exceeding wise. |
+| [[Don Pedro|DON PEDRO]] | In everything but in loving [[Benedick]]. |
+| [[Leonato|LEONATO]] | O my lord, wisdom and [[Blood|blood]] combating in so tender a [[Body|body]], we have ten proofs to one that [[Blood|blood]] hath the victory. I am sorry for her, as I have just cause, being her uncle and her guardian. |
+| [[Don Pedro|DON PEDRO]] | I would she had bestowed this dotage on me. I would have doffed all other respects and made her half myself. I pray you tell [[Benedick]] of it, and hear what a will say. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--05_exchange_leonato" data-title="Much Ado About Nothing — Act II, Scene 3 — exchange (LEONATO) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Leonato|LEONATO]] | Were it good, think you? |
+| [[Claudio|CLAUDIO]] | [[Hero]] thinks surely she will die, for she says she will die if he [[Love|love]] her not, and she will die ere she make her [[Love|love]] known, and she will die if he woo her, rather than she will bate one breath of her accustomed crossness. |
+| [[Don Pedro|DON PEDRO]] | She doth [[Well|well]]. If she should make tender of her [[Love|love]] ’tis very possible he’ll scorn it, for the man, as you know all, hath a contemptible spirit. |
+| [[Claudio|CLAUDIO]] | He is a very proper man. |
+| [[Don Pedro|DON PEDRO]] | He hath indeed a good outward happiness. |
+| [[Claudio|CLAUDIO]] | Before God; and in my mind, very wise. |
+| [[Don Pedro|DON PEDRO]] | He doth indeed show some sparks that are like wit. |
+| [[Claudio|CLAUDIO]] | And I take him to be valiant. |
+| [[Don Pedro|DON PEDRO]] | As [[Hector]], I assure you; and in the managing of quarrels you may say he is wise, for either he avoids them with great discretion or undertakes them with a most Christianlike [[Fear|fear]]. |
+| [[Leonato|LEONATO]] | If he do [[Fear|fear]] God, a must necessarily keep peace. If he break the peace, he ought to enter into a quarrel with [[Fear|fear]] and trembling. |
+| [[Don Pedro|DON PEDRO]] | And so will he do, for the man doth [[Fear|fear]] God, howsoever it seems not in him by some large jests he will make. [[Well]], I am sorry for your niece. Shall we go seek [[Benedick]] and tell him of her [[Love|love]]? |
+| [[Claudio|CLAUDIO]] | Never tell him, my lord. Let her wear it out with good counsel. |
+| [[Leonato|LEONATO]] | Nay, that’s impossible. She may wear her heart out first. |
+| [[Don Pedro|DON PEDRO]] | [[Well]], we will hear further of it by your daughter. Let it cool the while. I [[Love|love]] [[Benedick]] [[Well|well]], and I could wish he would modestly examine himself to see how much he is unworthy so good a lady. |
+| [[Leonato|LEONATO]] | My lord, will you walk? Dinner is ready. |
+| [[Claudio|CLAUDIO]] | (aside) If he do not dote on her upon this, I will never trust my expectation. |
+| [[Don Pedro|DON PEDRO]] | (aside) Let there be the same net spread for her, and that must your daughter and her gentlewomen carry. The sport will be when they hold one an opinion of another’s dotage, and no such matter. That’s the scene that I would see, which will be merely a dumb show. Let us send her to call him in to dinner. Exeunt [[Don Pedro]], [[Claudio]], and [[Leonato]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--06_monologue_benedick" data-title="Much Ado About Nothing — Act II, Scene 3 — monologue (BENEDICK) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benedick|BENEDICK]] | (coming forward) This can be no trick. The conference was sadly borne. They have the [[Truth|truth]] of this from [[Hero]]. They seem to pity the lady. It seems her affections have their full bent. [[Love]] me! Why, it must be requited. I hear how I am censured. They say I will bear myself proudly if I perceive the [[Love|love]] come from her. They say too that she will rather die than give any sign of affection. I did never think to marry. I must not seem proud. Happy are they that hear their detractions and can put them to [[mending]]. They say the lady is fair. ’Tis a [[Truth|truth]], I can bear them witness. And virtuous—’tis so, I cannot reprove it. And wise, but for loving me. By my troth, it is no addition to her wit—nor no great argument of her folly, for I will be horribly in [[Love|love]] with her. I may chance have some odd quirks and remnants of wit broken on me because I have railed so long against [[Marriage|marriage]]; but doth not the appetite alter? A man loves the meat in his youth that he cannot endure in his age. Shall quips and sentences and these paper bullets of the brain awe a man from the career of his [[Humour|humour]]? No. The world must be peopled. When I said I would die a bachelor, I did not think I should live till I were married. Here comes [[Beatrice]]. Enter [[Beatrice]] By this day, she’s a fair lady. I do spy some marks of [[Love|love]] in her. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--07_exchange_beatrice" data-title="Much Ado About Nothing — Act II, Scene 3 — exchange (BEATRICE) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Beatrice|BEATRICE]] | Against my will I am sent to bid you come in to dinner. |
+| [[Benedick|BENEDICK]] | Fair [[Beatrice]], I thank you for your pains. |
+| [[Beatrice|BEATRICE]] | I took no more pains for those thanks than you take pains to thank me. If it had been painful I would not have come. |
+| [[Benedick|BENEDICK]] | You take pleasure, then, in the message? |
+| [[Beatrice|BEATRICE]] | Yea, just so much as you may take upon a knife’s point and choke a daw withal. You have no stomach, signor? Fare you [[Well|well]]. Exit |
+| [[Benedick|BENEDICK]] | Ha! ‘Against my will I am sent to bid you come in to dinner.’ There’s a [[Double|double]] meaning in that. ‘I took no more pains for those thanks than you took pains to thank me.’ That’s as much as to say ‘Any pains that I take for you is as easy as thanks.’—If I do not take pity of her I am a [[Villain|villain]]. If I do not [[Love|love]] her I am a Jew. I will go get her picture. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--01_exchange_dialogue" data-title="Much Ado About Nothing — Act III, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Dogberry]] and his compartner Verges, with the Watch |
+| [[Dogberry|DOGBERRY]] | Are you good men and true? |
+| VERGES | Yea, or else it were pity but they should suffer salvation, [[Body|body]] and [[Soul|soul]]. |
+| [[Dogberry|DOGBERRY]] | Nay, that were a punishment too good for them if they should have any allegiance in them, being chosen for the Prince’s watch. |
+| VERGES | [[Well]], give them their charge, neighbour [[Dogberry]]. |
+| [[Dogberry|DOGBERRY]] | First, who think you the most desertless man to be constable? |
+| SECOND WATCHMAN | Hugh Oatcake, sir, or George Seacoal, for they can write and read. |
+| [[Dogberry|DOGBERRY]] | Come hither, neighbour Seacoal, God hath blest you with a good name. To be a [[Well|well]]-favoured man is the gift of fortune, but to write and read comes by [[Nature|nature]]. |
+| FIRST WATCHMAN | Both which, Master Constable— |
+| [[Dogberry|DOGBERRY]] | You have. I knew it would be your answer. [[Well]], for your favour, sir, why, give God thanks, and make no boast of it. And for your writing and reading, let that appear when there is no need of such [[Vanity|vanity]]. You are thought here to be the most senseless and fit man for the constable of the watch, therefore bear you the lantern. This is your charge: you shall comprehend all vagrom men. You are to bid any man stand, in the Prince’s name. |
+| FIRST WATCHMAN | How if a will not stand? |
+| [[Dogberry|DOGBERRY]] | Why then take no note of him, but let him go, and presently call the rest of the watch together, and thank God you are rid of a knave. |
+| VERGES | If he will not stand when he is bidden he is none of the Prince’s subjects. |
+| [[Dogberry|DOGBERRY]] | True, and they are to meddle with none but the Prince’s subjects.—You shall also make no noise in the streets, for for the watch to babble and to talk is most tolerable and not to be endured. |
+| *(didascalia)* | A |
+| WATCHMAN | We will rather [[Sleep|sleep]] than talk. We know what belongs to a watch. |
+| [[Dogberry|DOGBERRY]] | Why, you speak like an ancient and most quiet watchman, for I cannot see how sleeping should offend. Only have a care that your bills be not stolen. [[Well]], you are to call at all the alehouses and bid those that are drunk get them to bed. |
+| *(didascalia)* | A |
+| WATCHMAN | How if they will not? |
+| [[Dogberry|DOGBERRY]] | Why then, let them [[Alone|alone]] till they are sober. If they make you not then the better answer, you may say they are not the men you took them for. |
+| *(didascalia)* | A |
+| WATCHMAN | [[Well]], sir. |
+| [[Dogberry|DOGBERRY]] | If you meet a thief you may suspect him, by virtue of your office, to be no true man; and for such kind of men, the less you meddle or make with them why, the more is for your honesty. |
+| *(didascalia)* | A |
+| WATCHMAN | If we know him to be a thief, shall we not lay hands on him? |
+| [[Dogberry|DOGBERRY]] | Truly, by your office you may, but I think they that touch pitch will be defiled. The most peaceable way for you if you do take a thief is to let him show himself what he is, and steal out of your company. |
+| VERGES | You have been always called a merciful man, partner. |
+| [[Dogberry|DOGBERRY]] | Truly, I would not hang a dog by my will, much more a man who hath any honesty in him. |
+| VERGES | If you hear a [[Child|child]] cry in the [[Night|night]] you must call to the [[Nurse|nurse]] and bid her still it. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--02_exchange_a_watchman" data-title="Much Ado About Nothing — Act III, Scene 3 — exchange (A WATCHMAN) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A |
+| WATCHMAN | How if the [[Nurse|nurse]] be asleep and will not hear us? |
+| [[Dogberry|DOGBERRY]] | Why then, depart in peace and let the [[Child|child]] wake her with crying, for the ewe that will not hear her [[Lamb|lamb]] when it baes will never answer a calf when he bleats. |
+| VERGES | ’Tis very true. |
+| [[Dogberry|DOGBERRY]] | This is the end of the charge. You, constable, are to present the Prince’s own person. If you meet the Prince in the [[Night|night]] you may stay him. |
+| VERGES | Nay, by’r Lady, that I think a cannot. |
+| [[Dogberry|DOGBERRY]] | Five shillings to one on’t with any man that knows the statutes he may stay him. Marry, not without the Prince be willing, for indeed the watch ought to offend no man, and it is an offence to stay a man against his will. |
+| VERGES | By’r Lady, I think it be so. |
+| [[Dogberry|DOGBERRY]] | Ha ha ha! [[Well]], masters, good [[Night|night]]. An there be any matter of weight chances, call up me. Keep your fellows’ counsels, and your own, and good [[Night|night]]. Come, neighbour. FIRST WATCHMAN [[Well]], masters, we hear our charge. Let us go sit here upon the church bench till two, and then all to bed. |
+| [[Dogberry|DOGBERRY]] | One word more, honest neighbours. I pray you watch about Signor [[Leonato]]’s door, for the wedding being there tomorrow, there is a great coil tonight. Adieu. Be vigitant, I beseech you. Exeunt [[Dogberry]] and Verges. The Watch sit Enter Borachio and Conrad |
+| BORACHIO | What, Conrad! FIRST WATCHMAN (aside) Peace, stir not. |
+| BORACHIO | Conrad, I say. |
+| CONRAD | Here, man, I am at thy elbow. |
+| BORACHIO | Mass, an my elbow itched, I thought there would a scab follow. |
+| CONRAD | I will owe thee an answer for that. And now, forward with thy tale. |
+| BORACHIO | Stand thee close, then, under this penthouse, for it drizzles rain, and I will, like a true drunkard, utter all to thee. |
+| *(didascalia)* | A |
+| WATCHMAN | (aside) Some treason, masters. Yet stand close. |
+| BORACHIO | Therefore, know I have earned of [[Don John]] a thousand ducats. |
+| CONRAD | Is it possible that any villainy should be so dear? |
+| BORACHIO | Thou shouldst rather ask if it were possible any villainy should be so rich. For when rich villains have need of poor ones, poor ones may make what price they will. |
+| CONRAD | I [[Wonder|wonder]] at it. |
+| BORACHIO | That shows thou art unconfirmed. Thou knowest that the fashion of a doublet, or a hat, or a cloak is nothing to a man. |
+| CONRAD | Yes, it is apparel. |
+| BORACHIO | I mean the fashion. |
+| CONRAD | Yes, the fashion is the fashion. |
+| BORACHIO | Tush, I may as [[Well|well]] say the [[Fool|fool]]’s the [[Fool|fool]]. But seest thou not what a deformed thief this fashion is ? |
+| *(didascalia)* | A |
+| WATCHMAN | (aside) I know that Deformed. A has been a vile thief this seven year. A goes up and down like a gentleman. I remember his name. |
+| BORACHIO | Didst thou not hear somebody? |
+| CONRAD | No, ’twas the vane on the [[house]]. |
+| BORACHIO | Seest thou not, I say, what a deformed thief this fashion is, how giddily a turns about all the hot-bloods between fourteen and five-and-thirty, sometimes fashioning them like Pharaoh’s soldiers in the reechy painting, sometime like god Bel’s priests in the old church [[Window|window]], sometime like the shaven Hercules in the smirched, worm-eaten tapestry, where his codpiece seems as massy as his club? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--03_exchange_conrad" data-title="Much Ado About Nothing — Act III, Scene 3 — exchange (CONRAD) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| CONRAD | All this I see, and I see that the fashion wears out more apparel than the man. But art not thou thyself giddy with the fashion, too, that thou hast shifted out of thy tale into telling me of the fashion? |
+| BORACHIO | Not so, neither. But know that I have tonight wooed Margaret, the Lady [[Hero]]’s gentlewoman, by the name of [[Hero]]. She leans me out at her mistress’ chamber [[Window|window]], bids me a thousand times good [[Night|night]]—I tell this tale vilely, I should first tell thee how the Prince, [[Claudio]], and my master, planted and placed and possessed by my master, [[Don John]], saw afar off in the orchard this amiable encounter. |
+| CONRAD | And thought they Margaret was [[Hero]]? |
+| BORACHIO | Two of them did, the Prince and [[Claudio]], but the devil my master knew she was Margaret, and partly by his oaths, which first possessed them, partly by the dark [[Night|night]], which did deceive them, but chiefly by my villainy, which did confirm any slander that [[Don John]] had made, away went [[Claudio]] enraged, swore he would meet her as he was appointed next morning at the temple, and there, before the whole congregation, shame her with what he saw o’ernight, and send her [[Home|home]] again without a husband. FIRST WATCHMAN (coming forward) We charge you in the Prince’s name. Stand. A WATCHMAN Call up the right Master Constable. We have here recovered the most dangerous piece of lechery that ever was known in the commonwealth. FIRST WATCHMAN And one Deformed is one of them. I know him—a wears a lock. |
+| CONRAD | Masters, masters! A WATCHMAN You’ll be made bring Deformed forth, I warrant you. CONRAD Masters— A WATCHMAN Never speak. We charge you. Let us obey you to go with us. |
+| BORACHIO | (to Conrad) We are like to prove a goodly commodity, being taken up of these men’s bills. |
+| CONRAD | A commodity in question, I warrant you. Come, we’ll obey you. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="Much Ado About Nothing — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Don Pedro]] the Prince, [[Don John]] the bastard, [[Leonato]], Friar Francis, [[Claudio]], [[Benedick]], [[Hero]], and [[Beatrice]] |
+| [[Leonato|LEONATO]] | Come, Friar Francis, be brief. Only to the plain form of [[Marriage|marriage]], and you shall recount their particular duties afterwards. |
+| FRIAR | (to [[Claudio]]) You come hither, my lord, to marry this lady? |
+| [[Claudio|CLAUDIO]] | No. |
+| [[Leonato|LEONATO]] | To be married to her. Friar, you come to marry her. |
+| FRIAR | (to [[Hero]]) Lady, you come hither to be married to this count? |
+| [[Hero|HERO]] | I do. |
+| FRIAR | If either of you know any inward impediment why you should not be conjoined, I charge you on your souls to utter it. |
+| [[Claudio|CLAUDIO]] | Know you any, [[Hero]]? |
+| [[Hero|HERO]] | None, my lord. |
+| FRIAR | Know you any, Count? |
+| [[Leonato|LEONATO]] | I dare make his answer—none. |
+| [[Claudio|CLAUDIO]] | O, what men dare do! What men may do! What men daily do, not knowing what they do! |
+| [[Benedick|BENEDICK]] | How now! Interjections ? Why then, some be of laughing, as ‘ah, ha, he!’ |
+| [[Claudio|CLAUDIO]] | Stand thee by, Friar. Father, by your leave, Will you with free and unconstrained [[Soul|soul]] Give me this maid, your daughter? |
+| [[Leonato|LEONATO]] | As freely, son, as God did give her me. |
+| [[Claudio|CLAUDIO]] | And what have I to give you back whose worth May counterpoise this rich and precious gift? |
+| [[Don Pedro|DON PEDRO]] | Nothing, unless you render her again. |
+| [[Claudio|CLAUDIO]] | Sweet Prince, you learn me noble thankfulness. There, [[Leonato]], take her back again. Give not this rotten orange to your friend. She’s but the sign and semblance of her [[Honour|honour]]. Behold how like a maid she blushes here! O, what authority and show of [[Truth|truth]] Can cunning sin cover itself withal ! Comes not that [[Blood|blood]] as modest evidence To witness simple virtue? Would you not swear, All you that see her, that she were a maid, By these exterior shows? But she is none. She knows the heat of a luxurious bed. Her blush is guiltiness, not modesty. |
+| [[Leonato|LEONATO]] | What do you mean, my lord? |
+| [[Claudio|CLAUDIO]] | Not to be married, Not to knit my [[Soul|soul]] to an approved wanton. |
+| [[Leonato|LEONATO]] | Dear my lord, if you in your own proof Have vanquished the resistance of her youth And made defeat of her virginity— |
+| [[Claudio|CLAUDIO]] | I know what you would say. If I have known her, You will say she did embrace me as a husband, And so extenuate the forehand sin. No, [[Leonato]], I never tempted her with word too large, But as a brother to his sister showed Bashful sincerity and comely [[Love|love]]. |
+| [[Hero|HERO]] | And seemed I ever otherwise to you? |
+| [[Claudio|CLAUDIO]] | Out on thee, seeming! I will write against it. You seem to me as Dian in her orb, As chaste as is the bud ere it be blown. But you are more intemperate in your [[Blood|blood]] Than [[Venus]] or those pampered [[Animals|animals]] That rage in savage sensuality. |
+| [[Hero|HERO]] | Is my lord [[Well|well]] that he doth speak so wide? |
+| [[Leonato|LEONATO]] | Sweet Prince, why speak not you? |
+| [[Don Pedro|DON PEDRO]] | What should I speak? I stand dishonoured, that have gone about To link my dear friend to a common stale. |
+| [[Leonato|LEONATO]] | Are these things spoken, or do I but dream? |
+| [[Don John|DON JOHN]] | Sir, they are spoken, and these things are true. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--02_exchange_benedick" data-title="Much Ado About Nothing — Act IV, Scene 1 — exchange (BENEDICK) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benedick|BENEDICK]] | This looks not like a nuptial. |
+| [[Hero|HERO]] | ‘True’! O God ! |
+| [[Claudio|CLAUDIO]] | [[Leonato]], stand I here? Is this the Prince? Is this the Prince’s brother? Is this face [[Hero]]’s? Are our eyes our own? |
+| [[Leonato|LEONATO]] | All this is so. But what of this, my lord? |
+| [[Claudio|CLAUDIO]] | Let me but move one question to your daughter, And by that fatherly and kindly power That you have in her, bid her answer truly. |
+| [[Leonato|LEONATO]] | (to [[Hero]]) I charge thee do so, as thou art my [[Child|child]]. |
+| [[Hero|HERO]] | O God defend me, how am I beset! What kind of catechizing call you this? |
+| [[Claudio|CLAUDIO]] | To make you answer truly to your name. |
+| [[Hero|HERO]] | Is it not [[Hero]]? Who can blot that name With any just reproach? |
+| [[Claudio|CLAUDIO]] | Marry, that can [[Hero]]. [[Hero]] itself can blot out [[Hero]]’s virtue. What man was he talked with you yesternight Out at your [[Window|window]] betwixt twelve and one? Now if you are a maid, answer to this. |
+| [[Hero|HERO]] | I talked with no man at that hour, my lord. |
+| [[Don Pedro|DON PEDRO]] | Why, then are you no maiden. [[Leonato]], I am sorry you must hear. Upon mine [[Honour|honour]], Myself, my brother, and this grieved Count Did see her, hear her, at that hour last [[Night|night]] Talk with a ruffian at her chamber [[Window|window]], Who hath indeed, most like a liberal [[Villain|villain]], Confessed the vile encounters they have had A thousand times in secret. |
+| [[Don John|DON JOHN]] | Fie, fie, they are Not to be named, my lord, not to be spoke of. There is not chastity enough in language Without offence to utter them. Thus, pretty lady, I am sorry for thy much misgovernment. |
+| [[Claudio|CLAUDIO]] | O [[Hero]]! What a [[Hero]] hadst thou been If half thy outward graces had been placed About thy thoughts and counsels of thy heart! But fare thee [[Well|well]], most foul, most fair, farewell Thou pure impiety and impious purity. For thee I’ll lock up all the gates of [[Love|love]], And on my eyelids shall conjecture hang To turn all [[Beauty|beauty]] into thoughts of harm, And never shall it more be gracious. |
+| [[Leonato|LEONATO]] | Hath no man’s dagger here a point for me? [[Hero]] falls to the ground |
+| [[Beatrice|BEATRICE]] | Why, how now, cousin, wherefore sink you down? |
+| [[Don John|DON JOHN]] | Come. Let us go. These things come thus to light Smother her spirits up. Exeunt [[Don Pedro]], [[Don John]], and [[Claudio]] |
+| [[Benedick|BENEDICK]] | How doth the lady? |
+| [[Beatrice|BEATRICE]] | Dead, I think. Help, uncle. [[Hero]], why [[Hero]]! Uncle, Signor [[Benedick]], Friar— |
+| [[Leonato|LEONATO]] | O fate, take not away thy heavy hand. [[Death]] is the fairest cover for her shame That may be wished for. |
+| [[Beatrice|BEATRICE]] | How now, cousin [[Hero]]? |
+| FRIAR | (to [[Hero]]) Have comfort, lady. |
+| [[Leonato|LEONATO]] | (to [[Hero]]) Dost thou look up? |
+| FRIAR | Yea, wherefore should she not? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--03_monologue_leonato" data-title="Much Ado About Nothing — Act IV, Scene 1 — monologue (LEONATO) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Leonato|LEONATO]] | Wherefore? Why, doth not every earthly thing Cry shame upon her? Could she here deny The story that is printed in her [[Blood|blood]]? Do not live, [[Hero]], do not ope thine eyes, For did I think thou wouldst not quickly die, Thought I thy spirits were stronger than thy shames, Myself would on the rearward of reproaches Strike at thy life. Grieved I I had but one? Chid I for that at frugal [[Nature|nature]]’s frame? O one too much by thee! Why had I one? Why ever wast thou lovely in my eyes? Why had I not with charitable hand Took up a beggar’s issue at my gates, Who smirched thus and mired with infamy, I might have said ‘No part of it is mine, This shame derives itself from unknown loins.’ But mine, and mine I loved, and mine I praised, And mine that I was proud on, mine so much That I myself was to myself not mine, Valuing of her—why she, O she is fallen Into a pit of ink, that the wide sea Hath drops too few to wash her clean again, And salt too little which may season give To her foul tainted flesh. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--04_exchange_benedick" data-title="Much Ado About Nothing — Act IV, Scene 1 — exchange (BENEDICK) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benedick|BENEDICK]] | Sir, sir, be patient. For my part, I am so attired in [[Wonder|wonder]] I know not what to say. |
+| [[Beatrice|BEATRICE]] | O, on my [[Soul|soul]], my cousin is belied. |
+| [[Benedick|BENEDICK]] | Lady, were you her bedfellow last [[Night|night]]? |
+| [[Beatrice|BEATRICE]] | No, truly not, although until last [[Night|night]] I have this twelvemonth been her bedfellow. |
+| [[Leonato|LEONATO]] | Confirmed, confirmed. O, that is stronger made Which was before barred up with ribs of iron. Would the two princes lie? And [[Claudio]] lie, Who loved her so that, speaking of her foulness, Washed it with [[Tears|tears]]? Hence from her, let her die. |
+| FRIAR | Hear me a little, For I have only been silent so long And given way unto this course of fortune By noting of the lady. I have marked A thousand blushing apparitions To start into her face, a thousand [[Innocent|innocent]] shames In angel whiteness beat away those blushes, And in her eye there hath appeared a [[Fire|fire]] To burn the errors that these princes hold Against her maiden [[Truth|truth]]. Call me a [[Fool|fool]], Trust not my reading nor my observations, Which with experimental seal doth warrant The tenor of my book. Trust not my age, My reverence, calling, nor divinity, If this sweet lady lie not guiltless here Under some biting error. |
+| [[Leonato|LEONATO]] | Friar, it cannot be. Thou seest that all the grace that she hath left Is that she will not add to her damnation A sin of perjury. She not denies it. Why seek’st thou then to cover with excuse That which appears in proper [[Nakedness|nakedness]]? |
+| FRIAR | (to [[Hero]]) Lady, what man is he you are accused of? |
+| [[Hero|HERO]] | They know that do accuse me. I know none. If I know more of any man alive Than that which maiden modesty doth warrant, Let all my sins lack [[Mercy|mercy]]. O my father, Prove you that any man with me conversed At hours unmeet, or that I yesternight Maintained the change of words with any creature, Refuse me, hate me, torture me to [[Death|death]]. |
+| FRIAR | There is some strange misprision in the princes. |
+| [[Benedick|BENEDICK]] | Two of them have the very bent of [[Honour|honour]], And if their wisdoms be misled in this The practice of it lives in John the bastard, Whose spirits toil in frame of villainies. |
+| [[Leonato|LEONATO]] | I know not. If they speak but [[Truth|truth]] of her These hands shall tear her. If they wrong her [[Honour|honour]] The proudest of them shall [[Well|well]] hear of it. [[Time]] hath not yet so dried this [[Blood|blood]] of mine, Nor age so eat up my invention, Nor fortune made such havoc of my means, Nor my bad life reft me so much of friends, But they shall find awaked in such a kind Both strength of limb and policy of mind, Ability in means, and choice of friends, To quit me of them throughly. |
+| FRIAR | Pause awhile, And let my counsel sway you in this case. Your daughter here the princes left for dead, Let her a while be secretly kept in, And publish it that she is dead indeed. Maintain a mourning ostentation, And on your family’s old monument Hang mournful epitaphs, and do all rites That appertain unto a burial. |
+| [[Leonato|LEONATO]] | What shall become of this? What will this do? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--05_monologue_friar" data-title="Much Ado About Nothing — Act IV, Scene 1 — monologue (FRIAR) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FRIAR | Marry, this, [[Well|well]] carried, shall on her behalf Change slander to remorse. That is some good. But not for that dream I on this strange course, But on this travail look for greater birth. She—dying, as it must be so maintained, Upon the instant that she was accused— Shall be lamented, pitied, and excused Of every hearer. For it so falls out That what we have, we prize not to the worth Whiles we enjoy it, but, being lacked and lost, Why then we rack the value, then we find The virtue that possession would not show us Whiles it was ours. So will it fare with [[Claudio]]. When he shall hear she died upon his words, Th’idea of her life shall sweetly creep Into his study of [[Imagination|imagination]], And every lovely organ of her life Shall come apparelled in more precious habit, More moving-delicate, and full of life, Into the eye and prospect of his [[Soul|soul]] Than when she lived indeed. Then shall he mourn, If ever [[Love|love]] had interest in his liver, And wish he had not so accusèd her, No, though he thought his accusation true. Let this be so, and [[Doubt|doubt]] not but [[success]] Will fashion the event in better shape Than I can lay it down in likelihood. But if all aim but this be levelled false, The supposition of the lady’s [[Death|death]] Will quench the [[Wonder|wonder]] of her infamy. And if it sort not [[Well|well]], you may conceal her, As best befits her wounded reputation, In some reclusive and religious life, Out of all eyes, tongues, minds, and injuries. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--06_exchange_benedick" data-title="Much Ado About Nothing — Act IV, Scene 1 — exchange (BENEDICK) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Benedick|BENEDICK]] | Signor [[Leonato]], let the Friar advise you. And though you know my inwardness and [[Love|love]] Is very much unto the Prince and [[Claudio]], Yet, by mine [[Honour|honour]], I will deal in this As secretly and justly as your [[Soul|soul]] Should with your [[Body|body]]. |
+| [[Leonato|LEONATO]] | Being that I flow in grief, The smallest twine may lead me. |
+| FRIAR | ’Tis [[Well|well]] consented. Presently away, For to strange sores strangely they strain the cure. (To [[Hero]]) Come, lady, die to live. This wedding day Perhaps is but prolonged. Have patience, and endure. Exeunt all but [[Beatrice]] and [[Benedick]] |
+| [[Benedick|BENEDICK]] | Lady [[Beatrice]], have you wept all this while? |
+| [[Beatrice|BEATRICE]] | Yea, and I will weep a while longer. |
+| [[Benedick|BENEDICK]] | I will not [[Desire|desire]] that. |
+| [[Beatrice|BEATRICE]] | You have no reason, I do it freely. |
+| [[Benedick|BENEDICK]] | Surely I do believe your fair cousin is wronged. |
+| [[Beatrice|BEATRICE]] | Ah, how much might the man deserve of me that would right her! |
+| [[Benedick|BENEDICK]] | Is there any way to show such [[Friendship|friendship]]? |
+| [[Beatrice|BEATRICE]] | A very even way, but no such friend. |
+| [[Benedick|BENEDICK]] | May a man do it? |
+| [[Beatrice|BEATRICE]] | It is a man’s office, but not yours. |
+| [[Benedick|BENEDICK]] | I do [[Love|love]] nothing in the world so [[Well|well]] as you. Is not that strange? |
+| [[Beatrice|BEATRICE]] | As strange as the thing I know not. It were as possible for me to say I loved nothing so [[Well|well]] as you, but believe me not, and yet I lie not. I confess nothing nor I deny nothing. I am sorry for my cousin. |
+| [[Benedick|BENEDICK]] | By my [[Sword|sword]], [[Beatrice]], thou lovest me. |
+| [[Beatrice|BEATRICE]] | Do not swear and eat it. |
+| [[Benedick|BENEDICK]] | I will swear by it that you [[Love|love]] me, and I will make him eat it that says I [[Love|love]] not you. |
+| [[Beatrice|BEATRICE]] | Will you not eat your word? |
+| [[Benedick|BENEDICK]] | With no sauce that can be devised to it. I protest I [[Love|love]] thee. |
+| [[Beatrice|BEATRICE]] | Why then, God forgive me. |
+| [[Benedick|BENEDICK]] | What offence, sweet [[Beatrice]]? |
+| [[Beatrice|BEATRICE]] | You have stayed me in a happy hour. I was about to protest I loved you. |
+| [[Benedick|BENEDICK]] | And do it with all thy heart. |
+| [[Beatrice|BEATRICE]] | I [[Love|love]] you with so much of my heart that none is left to protest. |
+| [[Benedick|BENEDICK]] | Come, bid me do anything for thee. |
+| [[Beatrice|BEATRICE]] | Kill [[Claudio]]. |
+| [[Benedick|BENEDICK]] | Ha! Not for the wide world. |
+| [[Beatrice|BEATRICE]] | You kill me to deny it. Farewell. |
+| [[Benedick|BENEDICK]] | Tarry, sweet [[Beatrice]]. |
+| [[Beatrice|BEATRICE]] | I am gone though I am here. There is no [[Love|love]] in you.—Nay, I pray you, let me go. 295 |
+| [[Benedick|BENEDICK]] | [[Beatrice]]. |
+| [[Beatrice|BEATRICE]] | In [[Faith|faith]], I will go. |
+| [[Benedick|BENEDICK]] | We’ll be friends first. |
+| [[Beatrice|BEATRICE]] | You dare easier be friends with me than fight with mine enemy. |
+| [[Benedick|BENEDICK]] | Is [[Claudio]] thine enemy? |
+| [[Beatrice|BEATRICE]] | Is a not approved in the height a [[Villain|villain]], that hath slandered, scorned, dishonoured my kinswoman? O that I were a man! What, bear her in hand until they come to take hands, and then with public accusation, uncovered slander, unmitigated rancour—O God that I were a man! I would eat his heart in the market place. |
+| [[Benedick|BENEDICK]] | Hear me, [[Beatrice]]. |
+| [[Beatrice|BEATRICE]] | Talk with a man out at a [[Window|window]]—a proper saying! |
+| [[Benedick|BENEDICK]] | Nay, but [[Beatrice]]. |
+| [[Beatrice|BEATRICE]] | Sweet [[Hero]], she is wronged, she is slandered, she is undone. |
+| [[Benedick|BENEDICK]] | Beat— |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--07_exchange_beatrice" data-title="Much Ado About Nothing — Act IV, Scene 1 — exchange (BEATRICE) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Beatrice|BEATRICE]] | Princes and counties! Surely a princely testimony, a goodly count, Count Comfit, a sweet gallant, surely. O that I were a man for his sake! Or that I had any friend would be a man for my sake! But manhood is melted into courtesies, valour into compliment, and men are only turned into tongue, and trim ones, too. He is now as valiant as Hercules that only tells a lie and swears it. I cannot be a man with wishing, therefore I will die a woman with grieving. 324 |
+| [[Benedick|BENEDICK]] | Tarry, good [[Beatrice]]. By this hand, I [[Love|love]] thee. |
+| [[Beatrice|BEATRICE]] | Use it for my [[Love|love]] some other way than swearing by it. |
+| [[Benedick|BENEDICK]] | Think you in your [[Soul|soul]] the Count [[Claudio]] hath wronged [[Hero]]? |
+| [[Beatrice|BEATRICE]] | Yea, as sure as I have a thought or a [[Soul|soul]]. |
+| [[Benedick|BENEDICK]] | Enough, I am engaged, I will challenge him. I will kiss your hand, and so I leave you. By this hand, [[Claudio]] shall render me a dear account. As you hear of me, so think of me. Go comfort your cousin. I must say she is dead. And so, farewell. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Leonato]] and [[Antonio]] his brother |
+| [[Antonio|ANTONIO]] | If you go on thus, you will kill yourself, And ’tis not wisdom thus to second grief Against yourself. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--02_monologue_leonato_i" data-title="Much Ado About Nothing — Act V, Scene 1 — monologue (LEONATO I) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Leonato|LEONATO]] | I pray thee cease thy counsel, Which falls into mine ears as profitless As [[Water|water]] in a sieve. Give not me counsel, Nor let no comforter delight mine ear But such a one whose wrongs do suit with mine. Bring me a father that so loved his [[Child|child]], Whose joy of her is overwhelmed like mine, And bid him speak of patience. Measure his woe the length and breadth of mine, And let it answer every strain for strain, As thus for thus, and such a grief for such, In every lineament, branch, shape, and form. If such a one will smile and stroke his beard, Bid sorrow wag, cry ‘hem’ when he should groan, Patch grief with proverbs, make misfortune drunk With candle-wasters, bring him yet to me, And I of him will gather patience. But there is no such man, for, brother, men Can counsel and speak comfort to that grief Which they themselves not feel, but tasting it Their counsel turns to passion, which before Would give preceptial medicine to rage, Fetter strong [[Madness|madness]] in a silken thread, Charm ache with air and agony with words. No, no, ’tis all men’s office to speak patience To those that wring under the load of sorrow, But no man’s virtue nor sufficiency To be so moral when he shall endure The like himself. Therefore give me no counsel. My griefs cry louder than advertisement. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--03_exchange_antonio" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (ANTONIO) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antonio|ANTONIO]] | Therein do men from children nothing differ. |
+| [[Leonato|LEONATO]] | I pray thee peace, I will be flesh and [[Blood|blood]], For there was never yet philosopher That could endure the toothache patiently, However they have writ the style of gods, And made a pish at chance and sufferance. |
+| [[Antonio|ANTONIO]] | Yet bend not all the harm upon yourself. Make those that do offend you suffer, too. |
+| [[Leonato|LEONATO]] | There thou speak’st reason, nay I will do so. My [[Soul|soul]] doth tell me [[Hero]] is belied, And that shall [[Claudio]] know, so shall the Prince, And all of them that thus dishonour her. Enter [[Don Pedro]] the Prince and [[Claudio]] |
+| [[Antonio|ANTONIO]] | Here comes the Prince and [[Claudio]] hastily. |
+| [[Don Pedro|DON PEDRO]] | Good e‘en, good e’en. |
+| [[Claudio|CLAUDIO]] | Good day to both of you. |
+| [[Leonato|LEONATO]] | Hear you, my lords? |
+| [[Don Pedro|DON PEDRO]] | We have some haste, [[Leonato]]. |
+| [[Leonato|LEONATO]] | Some haste, my lord! [[Well]], fare you [[Well|well]], my lord. Are you so hasty now? [[Well]], all is one. |
+| [[Don Pedro|DON PEDRO]] | Nay, do not quarrel with us, good old man. |
+| [[Antonio|ANTONIO]] | If he could right himself with quarrelling, Some of us would lie low. |
+| [[Claudio|CLAUDIO]] | Who wrongs him? |
+| [[Leonato|LEONATO]] | Marry, thou dost wrong me, thou dissembler, thou. Nay, never lay thy hand upon thy [[Sword|sword]], I [[Fear|fear]] thee not. |
+| [[Claudio|CLAUDIO]] | Marry, beshrew my hand If it should give your age such cause of [[Fear|fear]]. In [[Faith|faith]], my hand meant nothing to my [[Sword|sword]]. |
+| [[Leonato|LEONATO]] | Tush, tush, man, never fleer and jest at me. I speak not like a dotard nor a [[Fool|fool]], As under privilege of age to brag What I have done being young, or what would do Were I not old. Know [[Claudio]] to thy head, Thou hast so wronged mine [[Innocent|innocent]] [[Child|child]] and me That I am forced to lay my reverence by And with grey hairs and bruise of many days Do challenge thee to trial of a man. I say thou hast belied mine [[Innocent|innocent]] [[Child|child]]. Thy slander hath gone through and through her heart, And she lies buried with her ancestors, O, in a tomb where never scandal slept Save this of hers, framed by thy villainy. |
+| [[Claudio|CLAUDIO]] | My villainy? |
+| [[Leonato|LEONATO]] | Thine, [[Claudio]], thine I say. |
+| [[Don Pedro|DON PEDRO]] | You say not right, old man. |
+| [[Leonato|LEONATO]] | My lord, my lord, I’ll prove it on his [[Body|body]] if he dare, Despite his nice fence and his active practice, His May of youth and bloom of lustihood. |
+| [[Claudio|CLAUDIO]] | Away, I will not have to do with you. |
+| [[Leonato|LEONATO]] | Canst thou so doff me? Thou hast killed my [[Child|child]]. If thou kill’st me, boy, thou shalt kill a man. |
+| [[Antonio|ANTONIO]] | He shall kill two of us, and men indeed. But that’s no matter, let him kill one first. Win me and wear me. Let him answer me. Come follow me boy, come sir boy, come follow me, Sir boy, I’ll whip you from your foining fence. Nay, as I am a gentleman, I will. |
+| [[Leonato|LEONATO]] | Brother. |
+| [[Antonio|ANTONIO]] | Content yourself. God knows, I loved my niece, And she is dead, slandered to [[Death|death]] by villains That dare as [[Well|well]] answer a man indeed As I dare take a serpent by the tongue. Boys, apes, braggarts, jacks, milksops! |
+| [[Leonato|LEONATO]] | Brother Antony— |
+| [[Antonio|ANTONIO]] | Hold you content. What, man, I know them, yea And what they weigh, even to the utmost scruple. Scambling, outfacing, fashion-monging boys, That lie, and cog, and flout, deprave, and slander, Go anticly, and show an outward hideousness, And speak off half a dozen dangerous words, How they might hurt their enemies, if they durst, And this is all. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--04_exchange_leonato" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (LEONATO) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Leonato|LEONATO]] | But brother Antony— |
+| [[Antonio|ANTONIO]] | Come, ’tis no matter, Do not you meddle, let me deal in this. |
+| [[Don Pedro|DON PEDRO]] | Gentlemen both, we will not wake your patience. My heart is sorry for your daughter’s [[Death|death]], But on my [[Honour|honour]] she was charged with nothing But what was true and very full of proof. |
+| [[Leonato|LEONATO]] | My lord, my lord— |
+| [[Don Pedro|DON PEDRO]] | I will not hear you. |
+| [[Leonato|LEONATO]] | No? Come brother, away. I will be heard. |
+| [[Antonio|ANTONIO]] | And shall, or some of us will smart for it. Exeunt [[Leonato]] and [[Antonio]] Enter [[Benedick]] |
+| [[Don Pedro|DON PEDRO]] | See, see, here comes the man we went to seek. |
+| [[Claudio|CLAUDIO]] | Now signor, what news? |
+| [[Benedick|BENEDICK]] | (to [[Don Pedro]]) Good day, my lord. |
+| [[Don Pedro|DON PEDRO]] | Welcome, signor. You are almost come to part almost a fray. |
+| [[Claudio|CLAUDIO]] | We had liked to have had our two noses snapped off with two old men without teeth. |
+| [[Don Pedro|DON PEDRO]] | [[Leonato]] and his brother. What thinkest thou? Had we fought, I [[Doubt|doubt]] we should have been too young for them. |
+| [[Benedick|BENEDICK]] | In a false quarrel there is no true valour. I came to seek you both. |
+| [[Claudio|CLAUDIO]] | We have been up and down to seek thee, for we are high-proof [[Melancholy|melancholy]] and would fain have it beaten away. Wilt thou use thy wit? |
+| [[Benedick|BENEDICK]] | It is in my scabbard. Shall I draw it? |
+| [[Don Pedro|DON PEDRO]] | Dost thou wear thy wit by thy side? |
+| [[Claudio|CLAUDIO]] | Never any did so, though very many have been beside their wit. I will bid thee draw as we do the minstrels, draw to pleasure us. |
+| [[Don Pedro|DON PEDRO]] | As I am an honest man he looks pale. Art thou sick, or angry? |
+| [[Claudio|CLAUDIO]] | What, [[Courage|courage]], man. What though care killed a cat, thou hast mettle enough in thee to kill care. |
+| [[Benedick|BENEDICK]] | Sir, I shall meet your wit in the career an you charge it against me. I pray you choose another subject. |
+| [[Claudio|CLAUDIO]] | Nay then, give him another staff. This last was broke [[Cross|cross]]. |
+| [[Don Pedro|DON PEDRO]] | By this light, he changes more and more. I think he be angry indeed. |
+| [[Claudio|CLAUDIO]] | If he be, he knows how to turn his girdle. |
+| [[Benedick|BENEDICK]] | (aside to [[Claudio]]) Shall I speak a word in your ear? |
+| [[Claudio|CLAUDIO]] | God bless me from a challenge. |
+| [[Benedick|BENEDICK]] | You are a [[Villain|villain]]. I jest not. I will make it good how you dare, with what you dare, and when you dare. Do me right, or I will protest your cowardice. You have killed a sweet lady, and her [[Death|death]] shall fall heavy on you. Let me hear from you. 149 |
+| [[Claudio|CLAUDIO]] | [[Well]], I will meet you, so I may have good cheer. |
+| [[Don Pedro|DON PEDRO]] | What, a feast, a feast? |
+| [[Claudio|CLAUDIO]] | I’[[Faith|faith]], I thank him, he hath bid me to a calf’s head and a capon, the which if I do not carve most curiously, say my knife’s naught. Shall I not find a woodcock too? 155 |
+| [[Benedick|BENEDICK]] | Sir, your wit ambles [[Well|well]], it goes easily. |
+| [[Don Pedro|DON PEDRO]] | I’ll tell thee how [[Beatrice]] praised thy wit the other day. I said thou hadst a fine wit. ‘True,’ said she, ‘a fine little one.’ ‘No,’ said I, ‘a great wit.’‘Right,’ says she, ‘a great gross one.’ ‘Nay,’ said I, ‘a good wit.’ ‘Just,’ said she, ‘it hurts nobody.’ ‘Nay,’ said I, ‘the gentleman is wise.’ ‘Certain,’ said she, ‘a wise gentleman.’ ‘Nay,’ said I, ‘he hath the tongues.‘ ‘That I believe,’ said she, ‘for he swore a thing to me on Monday [[Night|night]] which he forswore on Tuesday morning. There’s a [[Double|double]] tongue, there’s two tongues.’ Thus did she an hour together trans-shape thy particular virtues, yet at last she concluded with a sigh thou wast the properest man in [[Italy]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--05_exchange_claudio" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (CLAUDIO) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Claudio|CLAUDIO]] | For the which she wept heartily and said she cared not. |
+| [[Don Pedro|DON PEDRO]] | Yea, that she did. But yet for all that, an if she did not hate him deadly she would [[Love|love]] him dearly. The old man’s daughter told us all. |
+| [[Claudio|CLAUDIO]] | All, all. And moreover, God saw him when he was hid in the [[Garden|garden]]. |
+| [[Don Pedro|DON PEDRO]] | But when shall we set the savage bull’s horns on the sensible [[Benedick]]’s head? |
+| [[Claudio|CLAUDIO]] | Yea, and text underneath, ‘Here dwells [[Benedick]] the married man’. |
+| [[Benedick|BENEDICK]] | Fare you [[Well|well]], boy, you know my mind. I will leave you now to your gossip-like [[Humour|humour]]. You break jests as braggarts do their blades which, God be thanked, hurt not. (To [[Don Pedro]]) My lord, for your many courtesies I thank you. I must discontinue your company. Your brother the bastard is fled from Messina. You have among you killed a sweet and [[Innocent|innocent]] lady. For my lord Lackbeard there, he and I shall meet, and till then, peace be with him. Exit |
+| [[Don Pedro|DON PEDRO]] | He is in earnest. |
+| [[Claudio|CLAUDIO]] | In most profound earnest, and, I’ll warrant you, for the [[Love|love]] of [[Beatrice]]. |
+| [[Don Pedro|DON PEDRO]] | And hath challenged thee. |
+| [[Claudio|CLAUDIO]] | Most sincerely. |
+| [[Don Pedro|DON PEDRO]] | What a pretty thing man is when he goes in his doublet and hose and [[Leaves|leaves]] off his wit! 196 Enter [[Dogberry]] and Verges the constables, the Watch, Conrad, and Borachio |
+| [[Claudio|CLAUDIO]] | He is then a giant to an ape. But then is an ape a doctor to such a man. |
+| [[Don Pedro|DON PEDRO]] | But soft you, let me be. Pluck up, my heart, and be sad. Did he not say my brother was fled? |
+| [[Dogberry|DOGBERRY]] | Come you sir, if justice cannot tame you, she shall ne’er weigh more reasons in her balance. Nay, an you be a cursing hypocrite once, you must be looked to. |
+| [[Don Pedro|DON PEDRO]] | How now, two of my brother’s men bound? Borachio one. |
+| [[Claudio|CLAUDIO]] | Hearken after their offence, my lord. |
+| [[Don Pedro|DON PEDRO]] | Officers, what offence have these men done? |
+| [[Dogberry|DOGBERRY]] | Marry, sir, they have committed false report, moreover they have spoken untruths, secondarily they are slanders, sixth and lastly they have belied a lady, thirdly they have verified unjust things, and to conclude, they are lying knaves. |
+| [[Don Pedro|DON PEDRO]] | First I ask thee what they have done, thirdly I ask thee what’s their offence, sixth and lastly why they are committed, and to conclude, what you lay to their charge. |
+| [[Claudio|CLAUDIO]] | Rightly reasoned, and in his own division. And by my troth there’s one meaning [[Well|well]] suited. |
+| [[Don Pedro|DON PEDRO]] | (to Conrad and Borachio) Who have you offended, masters, that you are thus bound to your answer? This learned constable is too cunning to be understood. What’s your offence? |
+| BORACHIO | Sweet Prince, let me go no farther to mine answer. Do you hear me, and let this Count kill me. I have deceived even your very eyes. What your wisdoms could not discover, these shallow fools have brought to light, who in the [[Night|night]] overheard me confessing to this man how [[Don John]] your brother incensed me to slander the Lady [[Hero]], how you were brought into the orchard and saw me [[Court|court]] Margaret in [[Hero]]’s garments, how you disgraced her when you should marry her. My villainy they have upon record, which I had rather seal with my [[Death|death]] than repeat over to my shame. The lady is dead upon mine and my master’s false accusation, and briefly, I [[Desire|desire]] nothing but the reward of a [[Villain|villain]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--06_exchange_don_pedro" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (DON PEDRO) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Don Pedro|DON PEDRO]] | (to [[Claudio]]) Runs not this speech like iron through your [[Blood|blood]]? |
+| [[Claudio|CLAUDIO]] | I have drunk [[Poison|poison]] whiles he uttered it. |
+| [[Don Pedro|DON PEDRO]] | (to Borachio) But did my brother set thee on to this? |
+| BORACHIO | Yea, and paid me richly for the practice of it. |
+| [[Don Pedro|DON PEDRO]] | He is composed and framed of treachery, And fled he is upon this villainy. |
+| [[Claudio|CLAUDIO]] | Sweet [[Hero]], now thy image doth appear In the rare semblance that I loved it first. |
+| [[Dogberry|DOGBERRY]] | Come, bring away the plaintiffs. By this [[Time|time]] our Sexton hath reformed Signor [[Leonato]] of the matter. And masters, do not forget to specify, when [[Time|time]] and place shall serve, that I am an ass. |
+| VERGES | Here, here comes Master Signor [[Leonato]], and the Sexton, too. Enter [[Leonato]], [[Antonio]] his brother, and the Sexton |
+| [[Leonato|LEONATO]] | Which is the [[Villain|villain]]? Let me see his eyes, That when I note another man like him I may avoid him. Which of these is he? |
+| BORACHIO | If you would know your wronger, look on me. |
+| [[Leonato|LEONATO]] | Art thou the slave that with thy breath hast killed Mine [[Innocent|innocent]] [[Child|child]]? |
+| BORACHIO | Yea, even I [[Alone|alone]]. |
+| [[Leonato|LEONATO]] | No, not so, [[Villain|villain]], thou beliest thyself. Here stand a pair of honourable men. A third is fled that had a hand in it. I thank you, Princes, for my daughter’s [[Death|death]]. Record it with your high and worthy deeds. ’Twas bravely done, if you bethink you of it. |
+| [[Claudio|CLAUDIO]] | I know not how to pray your patience, Yet I must speak. Choose your [[Revenge|revenge]] yourself, Impose me to what penance your invention Can lay upon my sin. Yet sinned I not But in mistaking. |
+| [[Don Pedro|DON PEDRO]] | By my [[Soul|soul]], nor I, And yet to satisfy this good old man I would bend under any heavy weight That he’ll enjoin me to. |
+| [[Leonato|LEONATO]] | I cannot bid you bid my daughter live— That were impossible—but I pray you both Possess the people in Messina here How [[Innocent|innocent]] she died, and if your [[Love|love]] Can labour aught in sad invention, Hang her an epitaph upon her tomb And sing it to her bones, sing it tonight. Tomorrow morning come you to my [[house]], And since you could not be my son-in-law, Be yet my nephew. My brother hath a daughter, Almost the copy of my [[Child|child]] that’s dead, And she [[Alone|alone]] is heir to both of us. Give her the right you should have giv’n her cousin, And so dies my [[Revenge|revenge]]. |
+| [[Claudio|CLAUDIO]] | O noble sir! Your overkindness doth wring [[Tears|tears]] from me. I do embrace your offer; and dispose For henceforth of poor [[Claudio]]. |
+| [[Leonato|LEONATO]] | Tomorrow then I will expect your coming. Tonight I take my leave. This naughty man Shall face to face be brought to Margaret, Who I believe was packed in all this wrong, Hired to it by your brother. |
+| BORACHIO | No, by my [[Soul|soul]], she was not, Nor knew not what she did when she spoke to me, But always hath been just and virtuous In anything that I do know by her. |
+| [[Dogberry|DOGBERRY]] | (to [[Leonato]]) Moreover, sir, which indeed is not under white and black, this plaintiff here, the offender, did call me ass. I beseech you let it be remembered in his punishment. And also the watch heard them talk of one Deformed. They say he wears a key in his ear and a lock hanging by it, and borrows money in God’s name, the which he hath used so long and never paid that now men grow hard-hearted and will lend nothing for God’s sake. Pray you examine him upon that point. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--07_exchange_leonato" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (LEONATO) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Leonato|LEONATO]] | I thank thee for thy care and honest pains. |
+| [[Dogberry|DOGBERRY]] | Your worship speaks like a most thankful and reverend youth, and I praise God for you. |
+| [[Leonato|LEONATO]] | (giving him money) There’s for thy pains. |
+| [[Dogberry|DOGBERRY]] | God save the foundation. |
+| [[Leonato|LEONATO]] | Go. I discharge thee of thy prisoner, and I thank thee. |
+| [[Dogberry|DOGBERRY]] | I leave an arrant knave with your worship, which I beseech your worship to correct yourself, for the example of others. God keep your worship, I wish your worship [[Well|well]]. God restore you to health. I humbly give you leave to depart, and if a merry meeting may be wished, God prohibit it. Come, neighbour. Exeunt [[Dogberry]] and Verges |
+| [[Leonato|LEONATO]] | Until tomorrow morning, lords, farewell. |
+| [[Antonio|ANTONIO]] | Farewell, my lords. We look for you tomorrow. |
+| [[Don Pedro|DON PEDRO]] | We will not fail. |
+| [[Claudio|CLAUDIO]] | Tonight I’ll mourn with [[Hero]]. |
+| [[Leonato|LEONATO]] | (to the Watch) Bring you these fellows on.—We’ll talk with Margaret How her acquaintance grew with this lewd fellow. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4--01_exchange_dialogue" data-title="Much Ado About Nothing — Act V, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Leonato]], [[Antonio]], [[Benedick]], [[Beatrice]], Margaret, Ursula, Friar Francis, and [[Hero]] |
+| FRIAR | Did I not tell you she was [[Innocent|innocent]]? |
+| [[Leonato|LEONATO]] | So are the Prince and [[Claudio]] who accused her Upon the error that you heard debated. But Margaret was in some fault for this, Although against her will as it appears In the true course of all the question. |
+| [[Antonio|ANTONIO]] | [[Well]], I am glad that all things sorts so [[Well|well]]. |
+| [[Benedick|BENEDICK]] | And so am I, being else by [[Faith|faith]] enforced To call young [[Claudio]] to a reckoning for it. |
+| [[Leonato|LEONATO]] | [[Well]], daughter, and you gentlewomen all, Withdraw into a chamber by yourselves, And when I send for you come hither masked. Exeunt [[Beatrice]], [[Hero]], Margaret, and Ursula The Prince and [[Claudio]] promised by this hour To visit me. You know your office, brother, You must be father to your brother’s daughter, And give her to young [[Claudio]]. |
+| [[Antonio|ANTONIO]] | Which I will do with confirmed countenance. |
+| [[Benedick|BENEDICK]] | Friar, I must entreat your pains, I think. |
+| FRIAR | To do what, signor? |
+| [[Benedick|BENEDICK]] | To bind me or undo me, one of them. Signor [[Leonato]], [[Truth|truth]] it is, good signor, Your niece regards me with an eye of favour. |
+| [[Leonato|LEONATO]] | That eye my daughter lent her, ’tis most true. |
+| [[Benedick|BENEDICK]] | And I do with an eye of [[Love|love]] requite her. |
+| [[Leonato|LEONATO]] | The sight whereof I think you had from me, From [[Claudio]] and the Prince. But what’s your will? |
+| [[Benedick|BENEDICK]] | Your answer, sir, is enigmatical. But for my will, my will is your good will May stand with ours this day to be conjoined In the state of honourable [[Marriage|marriage]], In which, good Friar, I shall [[Desire|desire]] your help. |
+| [[Leonato|LEONATO]] | My heart is with your liking. |
+| FRIAR | And my help. Here comes the Prince and [[Claudio]]. Enter [[Don Pedro]] and [[Claudio]] with attendants |
+| [[Don Pedro|DON PEDRO]] | Good morrow to this fair assembly. |
+| [[Leonato|LEONATO]] | Good morrow, Prince. Good morrow, [[Claudio]]. We here attend you. Are you yet determined Today to marry with my brother’s daughter? |
+| [[Claudio|CLAUDIO]] | I’ll hold my mind, were she an Ethiope. |
+| [[Leonato|LEONATO]] | Call her forth, brother, here’s the Friar ready. Exit [[Antonio]] |
+| [[Don Pedro|DON PEDRO]] | Good morrow, [[Benedick]]. Why, what’s the matter That you have such a February face, So full of [[Frost|frost]], of [[Storm|storm]] and cloudiness? |
+| [[Claudio|CLAUDIO]] | I think he thinks upon the savage bull. Tush, [[Fear|fear]] not, man, we’ll tip thy horns with gold, And all Europa shall rejoice at thee As once Europa did at lusty Jove When he would play the noble beast in [[Love|love]]. |
+| [[Benedick|BENEDICK]] | Bull Jove, sir, had an amiable low, And some such strange bull leapt your father’s cow And got a calf in that same noble feat Much like to you, for you have just his bleat. Enter [[Antonio]] with [[Hero]], [[Beatrice]], Margaret, and Ursula, masked |
+| [[Claudio|CLAUDIO]] | For this I owe you. Here comes other reck’nings. Which is the lady I must seize upon? [[Antonio|ANTONIO]] This same is she, and I do give you her. |
+| [[Claudio|CLAUDIO]] | Why then, she’s mine. Sweet, let me see your face. 55 |
+| [[Leonato|LEONATO]] | No, that you shall not till you take her hand Before this Friar and swear to marry her. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4--02_exchange_claudio" data-title="Much Ado About Nothing — Act V, Scene 4 — exchange (CLAUDIO) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Claudio|CLAUDIO]] | (to [[Hero]]) Give me your hand before this holy friar. I am your husband if you like of me. |
+| [[Hero|HERO]] | (unmasking) And when I lived I was your other wife; And when you loved, you were my other husband. |
+| [[Claudio|CLAUDIO]] | Another [[Hero]]! |
+| [[Hero|HERO]] | Nothing certainer. One [[Hero]] died defiled, but I do live, And surely as I live, I am a maid. |
+| [[Don Pedro|DON PEDRO]] | The former [[Hero]], [[Hero]] that is dead! |
+| [[Leonato|LEONATO]] | She died, my lord, but whiles her slander lived. |
+| FRIAR | All this amazement can I qualify When after that the holy rites are ended I’ll tell you largely of fair [[Hero]]’s [[Death|death]]. Meantime, let [[Wonder|wonder]] seem familiar, And to the chapel let us presently. |
+| [[Benedick|BENEDICK]] | Soft and fair, Friar, which is [[Beatrice]]? |
+| [[Beatrice|BEATRICE]] | (unmasking) I answer to that name, what is your will? |
+| [[Benedick|BENEDICK]] | Do not you [[Love|love]] me? |
+| [[Beatrice|BEATRICE]] | Why no, no more than reason. |
+| [[Benedick|BENEDICK]] | Why then, your uncle and the Prince and [[Claudio]] Have been deceived. They swore you did. |
+| [[Beatrice|BEATRICE]] | Do not you [[Love|love]] me? |
+| [[Benedick|BENEDICK]] | Troth no, no more than reason. |
+| [[Beatrice|BEATRICE]] | Why then, my cousin, Margaret, and Ursula Are much deceived, for they did swear you did. |
+| [[Benedick|BENEDICK]] | They swore that you were almost sick for me. |
+| [[Beatrice|BEATRICE]] | They swore that you were wellnigh dead for me. |
+| [[Benedick|BENEDICK]] | ’Tis no such matter. Then you do not [[Love|love]] me? |
+| [[Beatrice|BEATRICE]] | No, truly, but in friendly recompense. |
+| [[Leonato|LEONATO]] | Come, cousin, I am sure you [[Love|love]] the gentleman. |
+| [[Claudio|CLAUDIO]] | And I’ll be sworn upon’t that he loves her, For here’s a paper written in his hand, A halting [[Sonnet|sonnet]] of his own pure brain, Fashioned to [[Beatrice]]. |
+| [[Hero|HERO]] | And here’s another, Writ in my cousin’s hand, stol’n from her pocket, Containing her affection unto [[Benedick]]. |
+| [[Benedick|BENEDICK]] | A miracle! Here’s our own hands against our hearts. Come, I will have thee, but by this light, I take thee for pity. |
+| [[Beatrice|BEATRICE]] | I would not deny you, but by this good day, I yield upon great [[Persuasion|persuasion]], and partly to save your life, for I was told you were in a consumption. |
+| [[Benedick|BENEDICK]] | (kissing her) Peace, I will stop your mouth. |
+| [[Don Pedro|DON PEDRO]] | How dost thou, [[Benedick]] the married man? |
+| [[Benedick|BENEDICK]] | I’ll tell thee what, Prince: a college of wit-crackers cannot flout me out of my [[Humour|humour]]. Dost thou think I care for a [[Satire|satire]] or an [[Epigram|epigram]]? No, if a man will be beaten with brains, a shall wear nothing handsome about him. In brief, since I do purpose to marry, I will think nothing to any purpose that the world can say against it, and therefore never flout at me for what I have said against it. For man is a giddy thing, and this is my conclusion. For thy part, [[Claudio]], I did think to have beaten thee, but in that thou art like to be my kinsman, live unbruised, and [[Love|love]] my cousin. |
+| [[Claudio|CLAUDIO]] | I had [[Well|well]] hoped thou wouldst have denied [[Beatrice]], that I might have cudgelled thee out of thy single life to make thee a [[Double|double]] dealer, which out of question thou wilt be, if my cousin do not look exceeding narrowly to thee. |
+| [[Benedick|BENEDICK]] | Come, come, we are friends, let’s have a [[Dance|dance]] ere we are married, that we may lighten our own hearts and our wives’ heels. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4--03_exchange_leonato" data-title="Much Ado About Nothing — Act V, Scene 4 — exchange (LEONATO) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Leonato|LEONATO]] | We’ll have dancing afterward. |
+| [[Benedick|BENEDICK]] | First, of my word. Therefore play, music. (To [[Don Pedro]]) Prince, thou art sad, get thee a wife, get thee a wife. There is no staff more reverend than one tipped with horn. Enter Messenger |
+| MESSENGER | My lord, your brother John is ta’en in flight, And brought with armed men back to Messina. |
+| [[Benedick|BENEDICK]] | Think not on him till tomorrow, I’ll devise thee brave punishments for him. Strike up, pipers. [[Dance]], and exeunt |
+| HENRY | V |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4--04_monologue_the" data-title="Much Ado About Nothing — Act V, Scene 4 — monologue (THE) [4]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE | [[Chorus]] to Act 5 of [[Henry V]] contains an uncharacteristic, direct topical reference: Were now the General of our gracious Empress— As in good [[Time|time]] he may—from Ireland coming, Bringing rebellion broached on his [[Sword|sword]], How many would the peaceful [[City|city]] quit To welcome him! ‘The General’ must be the Earl of Essex, whose ‘Empress’—[[Queen Elizabeth]]—had sent him on an Irish campaign on 27 March 1599; he returned, disgraced, on 28 September. Plans for his campaign had been known at least since the previous November; the idea that he might return in triumph would have been meaningless after September 1599, and it seems likely that Shakespeare completed his play during 1599, probably in the [[spring]]. It appeared in print, in a short and debased text, in (probably) August 1600, when it was said to have ‘been sundry times played by the Right Honourable the Lord Chamberlain his servants’. Although this text (which omits the Choruses) seems to have been put together from [[Memory|memory]] by actors playing in an abbreviated adaptation, the Shakespearian text behind it appears to have been in a later state than the generally superior text printed from Shakespeare’s own papers in the 1623 Folio. Our edition draws on the 1600 quarto in the attempt to represent the play as acted by Shakespeare’s company. The principal difference is the reversion to historical authenticity in the substitution at Agincourt of the Duke of Bourbon for the [[Dauphin]]. As in the two plays about [[Henry IV]], Shakespeare is indebted to The Famous Victories of Henry the Fifth (printed 1598). Other Elizabethan plays about [[Henry V]], now lost, may have influenced him; he certainly used the chronicle histories of Edward Hall (1542) and Holinshed (1577, revised and enlarged in 1587). From the ‘civil broils’ of the earlier [[history]] plays, Shakespeare turns to portray a country united in war against France. Each act is prefaced by a [[Chorus]], speaking some of the play’s finest poetry, and giving it an [[Epic|epic]] quality. [[Henry V]], ‘star of England’, is Shakespeare’s most heroic warrior [[King|king]], but (like his predecessors) has an introspective side, and is aware of the crime by which his father came to the throne. We are reminded of his ‘wilder days’, and see that the transition from ‘madcap prince’ to the ‘[[Mirror|mirror]] of all Christian kings’ involves loss: although the epilogue to 2 [[Henry IV]] had suggested that Sir John would reappear, he is only, though poignantly, an off-stage presence. Yet Shakespeare’s infusion of comic form into historical narrative reaches its natural conclusion in this play. Sir John’s cronies, [[Pistol]], Bardolph, Nim, and [[Mistress Quickly]], reappear to provide a counterpart to the heroic action, and Shakespeare invents comic episodes involving an Englishman ([[Gower]]), a Welshman ([[Fluellen]]), an Irishman (MacMorris), and a Scot (Jamy). The play also has [[Romance|romance]] elements, in the almost incredible extent of the English victory over the French and in the disguised Henry’s comradely mingling with his soldiers, as [[Well|well]] as in his courtship of the French princess. The play’s romantic and heroic aspects have made it popular especially in times of war and have aroused accusations of jingoism, but the horrors of war are vividly depicted, and the [[Chorus]]’s closing speech reminds us that Henry died young, and that his son’s protector ‘lost France and made his England bleed’. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4--05_exchange_the_persons_of_the_play" data-title="Much Ado About Nothing — Act V, Scene 4 — exchange (THE PERSONS OF THE PLAY) [5]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY |
+
+
 
 
 <span class="atom-split" data-atom="much_ado_about_nothing" data-title="MUCH ADO ABOUT NOTHING" data-chapter="" data-kind="intro"></span>
@@ -1134,1073 +2201,6 @@ Much Ado About Nothing
 | [[Benedick|BENEDICK]] | Think not on him till tomorrow, I’ll devise thee brave punishments for him. Strike up, pipers.<br>[[Dance]], and exeunt |
 | HENRY | V |
 | THE | [[Chorus]] to Act 5 of [[Henry V]] contains an uncharacteristic, direct topical reference:<br>Were now the General of our gracious Empress—<br>As in good [[Time|time]] he may—from Ireland coming,<br>Bringing rebellion broached on his [[Sword|sword]],<br>How many would the peaceful [[City|city]] quit<br>To welcome him!<br>‘The General’ must be the Earl of Essex, whose ‘Empress’—[[Queen Elizabeth]]—had sent him on an Irish campaign on 27 March 1599; he returned, disgraced, on 28 September. Plans for his campaign had been known at least since the previous November; the idea that he might return in triumph would have been meaningless after September 1599, and it seems likely that Shakespeare completed his play during 1599, probably in the [[Spring|spring]]. It appeared in print, in a short and debased text, in (probably) August 1600, when it was said to have ‘been sundry times played by the Right Honourable the Lord Chamberlain his servants’. Although this text (which omits the Choruses) seems to have been put together from [[Memory|memory]] by actors playing in an abbreviated adaptation, the Shakespearian text behind it appears to have been in a later state than the generally superior text printed from Shakespeare’s own papers in the 1623 Folio. Our edition draws on the 1600 quarto in the attempt to represent the play as acted by Shakespeare’s company. The principal difference is the reversion to historical authenticity in the substitution at Agincourt of the Duke of Bourbon for the [[Dauphin]].<br>As in the two plays about [[Henry IV]], Shakespeare is indebted to The Famous Victories of Henry the Fifth (printed 1598). Other Elizabethan plays about [[Henry V]], now lost, may have influenced him; he certainly used the chronicle histories of Edward Hall (1542) and Holinshed (1577, revised and enlarged in 1587).<br>From the ‘civil broils’ of the earlier [[history]] plays, Shakespeare turns to portray a country united in war against France. Each act is prefaced by a [[Chorus]], speaking some of the play’s finest poetry, and giving it an [[Epic|epic]] quality. [[Henry V]], ‘star of England’, is Shakespeare’s most heroic warrior [[King|king]], but (like his predecessors) has an introspective side, and is aware of the crime by which his father came to the throne. We are reminded of his ‘wilder days’, and see that the transition from ‘madcap prince’ to the ‘[[Mirror|mirror]] of all Christian kings’ involves loss: although the epilogue to 2 [[Henry IV]] had suggested that Sir John would reappear, he is only, though poignantly, an off-stage presence. Yet Shakespeare’s infusion of comic form into historical narrative reaches its natural conclusion in this play. Sir John’s cronies, [[Pistol]], Bardolph, Nim, and [[Mistress Quickly]], reappear to provide a counterpart to the heroic action, and Shakespeare invents comic episodes involving an Englishman ([[Gower]]), a Welshman ([[Fluellen]]), an Irishman (MacMorris), and a Scot (Jamy). The play also has [[Romance|romance]] elements, in the almost incredible extent of the English victory over the French and in the disguised Henry’s comradely mingling with his soldiers, as [[Well|well]] as in his courtship of the French princess. The play’s romantic and heroic aspects have made it popular especially in times of war and have aroused accusations of jingoism, but the horrors of war are vividly depicted, and the [[Chorus]]’s closing speech reminds us that Henry died young, and that his son’s protector ‘lost France and made his England bleed’. |
-| THE PERSONS OF THE | PLAY |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Much Ado About Nothing — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Leonato]], governor of Messina, [[Hero]] his daughter, and [[Beatrice]] his niece, with a Messenger |
-| [[Leonato|LEONATO]] | I learn in this letter that [[Don Pedro]] of Aragon comes this [[Night|night]] to Messina. |
-| MESSENGER | He is very near by this. He was not three leagues off when I left him. |
-| [[Leonato|LEONATO]] | How many gentlemen have you lost in this action? |
-| MESSENGER | But few of any sort, and none of name. |
-| [[Leonato|LEONATO]] | A victory is twice itself when the achiever brings [[Home|home]] full numbers. I find here that [[Don Pedro]] hath bestowed much [[Honour|honour]] on a young Florentine called [[Claudio]]. |
-| MESSENGER | Much deserved on his part, and equally remembered by [[Don Pedro]]. He hath borne himself beyond the promise of his age, doing in the figure of a [[Lamb|lamb]] the feats of a [[Lion|lion]]. He hath indeed better bettered expectation than you must expect of me to tell you how. |
-| [[Leonato|LEONATO]] | He hath an uncle here in Messina will be very much glad of it. |
-| MESSENGER | I have already delivered him letters, and there appears much joy in him—even so much that joy could not show itself modest enough without a badge of bitterness. |
-| [[Leonato|LEONATO]] | Did he break out into [[Tears|tears]]? |
-| MESSENGER | In great measure. |
-| [[Leonato|LEONATO]] | A kind overflow of kindness, there are no faces truer than those that are so washed. How much better is it to weep at joy than to joy at weeping! |
-| [[Beatrice|BEATRICE]] | I pray you, is Signor Montanto returned from the wars, or no? |
-| MESSENGER | I know none of that name, lady. There was none such in the army, of any sort. |
-| [[Leonato|LEONATO]] | What is he that you ask for, niece? |
-| [[Hero|HERO]] | My cousin means Signor [[Benedick]] of Padua. |
-| MESSENGER | O, he’s returned, and as pleasant as ever he was. |
-| [[Beatrice|BEATRICE]] | He set up his bills here in Messina, and challenged Cupid at the flight; and my uncle’s [[Fool|fool]], reading the challenge, subscribed for Cupid and challenged him at the bird-bolt. I pray you, how many hath he killed and eaten in these wars? But how many hath he killed? For indeed I promised to eat all of his killing. |
-| [[Leonato|LEONATO]] | [[Faith]], niece, you tax Signor [[Benedick]] too much. But he’ll be meet with you, I [[Doubt|doubt]] it not. |
-| MESSENGER | He hath done good service, lady, in these wars. |
-| [[Beatrice|BEATRICE]] | You had musty victual, and he hath holp to eat it. He is a very valiant trencherman, he hath an excellent stomach. |
-| MESSENGER | And a good soldier too, lady. |
-| [[Beatrice|BEATRICE]] | And a good soldier to a lady, but what is he to a lord? |
-| MESSENGER | A lord to a lord, a man to a man, stuffed with all honourable virtues. |
-| [[Beatrice|BEATRICE]] | It is so, indeed. He is no less than a stuffed man. But for the stuffing—[[Well|well]], we are all mortal. |
-| [[Leonato|LEONATO]] | You must not, sir, mistake my niece. There is a kind of merry war betwixt Signor [[Benedick]] and her. They never meet but there’s a skirmish of wit between them. 61 |
-| [[Beatrice|BEATRICE]] | Alas, he gets nothing by that. In our last conflict four of his five wits went halting off, and now is the whole man governed with one, so that if he have wit enough to keep himself warm, let him bear it for a difference between himself and his [[Horse|horse]], for it is all the wealth that he hath left to be known a reasonable creature. Who is his companion now? He hath every month a new sworn brother. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_exchange_messenger" data-title="Much Ado About Nothing — Act I, Scene 1 — exchange (MESSENGER) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MESSENGER | Is’t possible? |
-| [[Beatrice|BEATRICE]] | Very easily possible. He wears his [[Faith|faith]] but as the fashion of his hat, it ever changes with the next block. |
-| MESSENGER | I see, lady, the gentleman is not in your books. |
-| [[Beatrice|BEATRICE]] | No. An he were, I would burn my study. But I pray you, who is his companion? Is there no young squarer now that will make a voyage with him to the devil? |
-| MESSENGER | He is most in the company of the right noble [[Claudio]]. |
-| [[Beatrice|BEATRICE]] | O Lord, he will hang upon him like a disease. He is sooner caught than the pestilence, and the taker runs presently mad. God help the noble [[Claudio]]. If he have caught the [[Benedick]], it will cost him a thousand pound ere a be cured. |
-| MESSENGER | I will hold friends with you, lady. |
-| [[Beatrice|BEATRICE]] | Do, good friend. |
-| [[Leonato|LEONATO]] | You will never run mad, niece. |
-| [[Beatrice|BEATRICE]] | No, not till a hot January. |
-| MESSENGER | [[Don Pedro]] is approached. Enter [[Don Pedro]], [[Claudio]], [[Benedick]], Balthasar, and [[Don John]] the bastard |
-| [[Don Pedro|DON PEDRO]] | Good Signor [[Leonato]], are you come to meet your trouble? The fashion of the world is to avoid cost, and you encounter it. |
-| [[Leonato|LEONATO]] | Never came trouble to my [[house]] in the likeness of your grace; for trouble being gone, comfort should remain, but when you depart from me, sorrow abides and happiness takes his leave. |
-| [[Don Pedro|DON PEDRO]] | You embrace your charge too willingly. I think this is your daughter. |
-| [[Leonato|LEONATO]] | Her mother hath many times told me so. |
-| [[Benedick|BENEDICK]] | Were you in [[Doubt|doubt]], sir, that you asked her? |
-| [[Leonato|LEONATO]] | Signor [[Benedick]], no, for then were you a [[Child|child]]. |
-| [[Don Pedro|DON PEDRO]] | You have it full, [[Benedick]]. We may guess by this what you are, being a man. Truly, the lady fathers herself. Be happy, lady, for you are like an honourable father. |
-| [[Benedick|BENEDICK]] | If Signor [[Leonato]] be her father, she would not have his head on her shoulders for all Messina, as like him as she is. |
-| [[Beatrice|BEATRICE]] | I [[Wonder|wonder]] that you will still be talking, Signor [[Benedick]]. Nobody marks you. |
-| [[Benedick|BENEDICK]] | What, my dear Lady Disdain! Are you yet living? |
-| [[Beatrice|BEATRICE]] | Is it possible disdain should die while she hath such meet food to feed it as Signor [[Benedick]]? Courtesy itself must [[convert]] to disdain if you come in her presence. |
-| [[Benedick|BENEDICK]] | Then is courtesy a turncoat. But it is certain I am loved of all ladies, only you excepted. And I would I could find in my heart that I had not a hard heart, for truly I [[Love|love]] none. |
-| [[Beatrice|BEATRICE]] | A dear happiness to women. They would else have been troubled with a pernicious suitor. I thank God and my cold [[Blood|blood]] I am of your [[Humour|humour]] for that. I had rather hear my dog bark at a crow than a man swear he loves me. |
-| [[Benedick|BENEDICK]] | God keep your ladyship still in that mind. So some gentleman or other shall scape a predestinate scratched face. |
-| [[Beatrice|BEATRICE]] | Scratching could not make it worse an ’twere such a face as yours were. [[Benedick|BENEDICK]] [[Well]], you are a rare parrot-teacher. |
-| [[Beatrice|BEATRICE]] | A bird of my tongue is better than a beast of yours. |
-| [[Benedick|BENEDICK]] | I would my [[Horse|horse]] had the [[Speed|speed]] of your tongue, and so good a continuer. But keep your way, o’ God’s name. I have done. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_exchange_beatrice" data-title="Much Ado About Nothing — Act I, Scene 1 — exchange (BEATRICE) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Beatrice|BEATRICE]] | You always end with a jade’s trick. I know you of old. |
-| [[Don Pedro|DON PEDRO]] | That is the sum of all, [[Leonato]]. Signor [[Claudio]] and Signor [[Benedick]], my dear friend [[Leonato]] hath invited you all. I tell him we shall stay here at the least a month, and he heartily prays some occasion may detain us longer. I dare swear he is no hypocrite, but prays from his heart. |
-| [[Leonato|LEONATO]] | If you swear, my lord, you shall not be forsworn. (To [[Don John]]) Let me bid you welcome, my lord. Being reconciled to the Prince your brother, I owe you all duty. |
-| [[Don John|DON JOHN]] | I thank you. I am not of many words, but I thank you. |
-| [[Leonato|LEONATO]] | (to [[Don Pedro]]) Please it your grace lead on? |
-| [[Don Pedro|DON PEDRO]] | Your hand, [[Leonato]]. We will go together. Exeunt all but [[Benedick]] and [[Claudio]] |
-| [[Claudio|CLAUDIO]] | [[Benedick]], didst thou note the daughter of Signor [[Leonato]]? |
-| [[Benedick|BENEDICK]] | I noted her not, but I looked on her. |
-| [[Claudio|CLAUDIO]] | Is she not a modest young lady? |
-| [[Benedick|BENEDICK]] | Do you question me as an honest man should do, for my simple true judgement, or would you have me speak after my custom, as being a professed [[Tyrant|tyrant]] to their sex? |
-| [[Claudio|CLAUDIO]] | No, I pray thee speak in sober judgement. |
-| [[Benedick|BENEDICK]] | Why, i’[[Faith|faith]], methinks she’s too low for a high praise, too brown for a fair praise, and too little for a great praise. Only this commendation I can afford her, that were she other than she is she were unhandsome, and being no other but as she is, I do not like her. |
-| [[Claudio|CLAUDIO]] | Thou thinkest I am in sport. I pray thee tell me truly how thou likest her. |
-| [[Benedick|BENEDICK]] | Would you buy her, that you enquire after her? |
-| [[Claudio|CLAUDIO]] | Can the world buy such a [[Jewel|jewel]]? |
-| [[Benedick|BENEDICK]] | Yea, and a case to put it into. But speak you this with a sad brow, or do you play the flouting jack, to tell us Cupid is a good hare-finder and Vulcan a rare carpenter? Come, in what key shall a man take you to go in the [[Song|song]]? |
-| [[Claudio|CLAUDIO]] | In mine eye she is the sweetest lady that ever I looked on. |
-| [[Benedick|BENEDICK]] | I can see yet without spectacles, and I see no such matter. There’s her cousin, an she were not possessed with a fury, exceeds her as much in [[Beauty|beauty]] as the first of May doth the last of December. But I [[Hope|hope]] you have no intent to turn husband, have you? |
-| [[Claudio|CLAUDIO]] | I would scarce trust myself though I had sworn the contrary, if [[Hero]] would be my wife. |
-| [[Benedick|BENEDICK]] | Is’t come to this? In [[Faith|faith]], hath not the world one man but he will wear his cap with suspicion? Shall I never see a bachelor of three-score again? Go to, i’[[Faith|faith]], an thou wilt needs thrust thy neck into a yoke, wear the print of it, and sigh away Sundays. Look, [[Don Pedro]] is returned to seek you. Enter [[Don Pedro]] |
-| [[Don Pedro|DON PEDRO]] | What secret hath held you here that you followed not to [[Leonato]]’s? |
-| [[Benedick|BENEDICK]] | I would your grace would constrain me to tell. |
-| [[Don Pedro|DON PEDRO]] | I charge thee on thy allegiance. |
-| [[Benedick|BENEDICK]] | You hear, Count [[Claudio]]? I can be secret as a dumb man, I would have you think so. But on my allegiance, mark you this, on my allegiance! He is in [[Love|love]]. With who? Now that is your grace’s part. Mark how short his answer is: with [[Hero]], [[Leonato]]’s short daughter. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_exchange_claudio" data-title="Much Ado About Nothing — Act I, Scene 1 — exchange (CLAUDIO) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Claudio|CLAUDIO]] | If this were so, so were it uttered. |
-| [[Benedick|BENEDICK]] | Like the old tale, my lord—it is not so, nor ’twas not so, but indeed, God forbid it should be so. |
-| [[Claudio|CLAUDIO]] | If my passion change not shortly, God forbid it should be otherwise. |
-| [[Don Pedro|DON PEDRO]] | Amen, if you [[Love|love]] her, for the lady is very [[Well|well]] worthy. |
-| [[Claudio|CLAUDIO]] | You speak this to fetch me in, my lord. |
-| [[Don Pedro|DON PEDRO]] | By my troth, I speak my thought. |
-| [[Claudio|CLAUDIO]] | And in [[Faith|faith]], my lord, I spoke mine. |
-| [[Benedick|BENEDICK]] | And by my two faiths and troths, my lord, I spoke mine. |
-| [[Claudio|CLAUDIO]] | That I [[Love|love]] her, I feel. |
-| [[Don Pedro|DON PEDRO]] | That she is worthy, I know. |
-| [[Benedick|BENEDICK]] | That I neither feel how she should be loved nor know how she should be worthy is the opinion that [[Fire|fire]] cannot melt out of me. I will die in it at the stake. |
-| [[Don Pedro|DON PEDRO]] | Thou wast ever an obstinate heretic in the despite of [[Beauty|beauty]]. |
-| [[Claudio|CLAUDIO]] | And never could maintain his part but in the force of his will. |
-| [[Benedick|BENEDICK]] | That a woman conceived me, I thank her. That she brought me up, I likewise give her most humble thanks. But that I will have a recheat winded in my forehead, or hang my bugle in an invisible baldric, all women shall pardon me. Because I will not do them the wrong to mistrust any, I will do myself the right to trust none. And the fine is—for the which I may go the finer—I will live a bachelor. |
-| [[Don Pedro|DON PEDRO]] | I shall see thee ere I die look pale with [[Love|love]]. |
-| [[Benedick|BENEDICK]] | With anger, with sickness, or with hunger, my lord; not with [[Love|love]]. Prove that ever I lose more [[Blood|blood]] with [[Love|love]] than I will get again with drinking, pick out mine eyes with a ballad-maker’s pen and hang me up at the door of a brothel [[house]] for the sign of blind Cupid. |
-| [[Don Pedro|DON PEDRO]] | [[Well]], if ever thou dost fall from this [[Faith|faith]] thou wilt prove a notable argument. |
-| [[Benedick|BENEDICK]] | If I do, hang me in a bottle like a cat, and shoot at me, and he that hits me, let him be clapped on the shoulder and called Adam. |
-| [[Don Pedro|DON PEDRO]] | [[Well]], as [[Time|time]] shall try. ‘In [[Time|time]] the savage bull doth bear the yoke.’ |
-| [[Benedick|BENEDICK]] | The savage bull may, but if ever the sensible [[Benedick]] bear it, pluck off the bull’s horns and set them in my forehead, and let me be vilely painted, and in such great letters as they write ‘Here is good [[Horse|horse]] to hire’ let them signify under my sign ‘Here you may see [[Benedick]], the married man’. |
-| [[Claudio|CLAUDIO]] | If this should ever happen thou wouldst be horn-mad. |
-| [[Don Pedro|DON PEDRO]] | Nay, if Cupid have not spent all his quiver in [[Venice]] thou wilt quake for this shortly. |
-| [[Benedick|BENEDICK]] | I look for an earthquake too, then. |
-| [[Don Pedro|DON PEDRO]] | [[Well]], you will temporize with the hours. In the mean [[Time|time]], good Signor [[Benedick]], repair to [[Leonato]]’s, commend me to him, and tell him I will not fail him at supper, for indeed he hath made great preparation. |
-| [[Benedick|BENEDICK]] | I have almost matter enough in me for such an embassage. And so I commit you— |
-| [[Claudio|CLAUDIO]] | To the tuition of God, from my [[house]] if I had it— |
-| [[Don Pedro|DON PEDRO]] | The sixth of July, Your loving friend, [[Benedick]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--05_exchange_benedick" data-title="Much Ado About Nothing — Act I, Scene 1 — exchange (BENEDICK) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benedick|BENEDICK]] | Nay, mock not, mock not. The [[Body|body]] of your discourse is sometime guarded with fragments, and the guards are but slightly basted on neither. Ere you flout old ends any further, examine your [[Conscience|conscience]]. And so I leave you. Exit |
-| [[Claudio|CLAUDIO]] | My liege, your highness now may do me good. |
-| [[Don Pedro|DON PEDRO]] | My [[Love|love]] is thine to teach. Teach it but how And thou shalt see how apt it is to learn Any hard lesson that may do thee good. |
-| [[Claudio|CLAUDIO]] | Hath [[Leonato]] any son, my lord? |
-| [[Don Pedro|DON PEDRO]] | No [[Child|child]] but [[Hero]]. She’s his only heir. Dost thou affect her, [[Claudio]]? |
-| [[Claudio|CLAUDIO]] | O my lord, When you went onward on this ended action I looked upon her with a soldier’s eye, That liked, but had a rougher task in hand Than to drive liking to the name of [[Love|love]]. But now I am returned, and that war-thoughts Have left their places vacant, in their rooms Come thronging soft and delicate desires, All prompting me how fair young [[Hero]] is, Saying I liked her ere I went to wars. |
-| [[Don Pedro|DON PEDRO]] | Thou wilt be like a [[Lover|lover]] presently, And tire the hearer with a book of words. If thou dost [[Love|love]] fair [[Hero]], cherish it, And I will break with her, and with her father, And thou shalt have her. Was’t not to this end That thou began’st to twist so fine a story? |
-| [[Claudio|CLAUDIO]] | How sweetly you do minister to [[Love|love]], That know [[Love|love]]’s grief by his complexion! But lest my liking might too sudden seem I would have salved it with a longer treatise. |
-| [[Don Pedro|DON PEDRO]] | What need the bridge much broader than the flood? The fairest grant is the necessity. Look what will serve is fit. ‘Tis once: thou lovest, And I will fit thee with the remedy. I know we shall have revelling tonight. I will assume thy part in some disguise, And tell fair [[Hero]] I am [[Claudio]]. And in her bosom I’ll unclasp my heart And take her hearing prisoner with the force And strong encounter of my amorous tale. Then after to her father will I break, And the conclusion is, she shall be thine. In practice let us put it presently. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Leonato]], [[Antonio]] his brother, [[Hero]] his daughter, [[Beatrice]] his niece, Margaret, and Ursula |
-| [[Leonato|LEONATO]] | Was not Count John here at supper? |
-| [[Antonio|ANTONIO]] | I saw him not. |
-| [[Beatrice|BEATRICE]] | How tartly that gentleman looks. I never can see him but I am heartburned an hour after. |
-| [[Hero|HERO]] | He is of a very [[Melancholy|melancholy]] disposition. |
-| [[Beatrice|BEATRICE]] | He were an excellent man that were made just in the midway between him and [[Benedick]]. The one is too like an image and says nothing, and the other too like my lady’s eldest son, evermore tattling. |
-| [[Leonato|LEONATO]] | Then half Signor [[Benedick]]’s tongue in Count John’s mouth, and half Count John’s [[Melancholy|melancholy]] in Signor [[Benedick]]’s face— |
-| [[Beatrice|BEATRICE]] | With a good leg and a good foot, uncle, and money enough in his purse—such a man would win any woman in the world, if a could get her good will. |
-| [[Leonato|LEONATO]] | By my troth, niece, thou wilt never get thee a husband if thou be so shrewd of thy tongue. |
-| [[Antonio|ANTONIO]] | In [[Faith|faith]], she’s too curst. |
-| [[Beatrice|BEATRICE]] | Too curst is more than curst. I shall lessen God’s sending that way, for it is said God sends a curst cow short horns, but to a cow too curst he sends none. |
-| [[Leonato|LEONATO]] | So, by being too curst, God will send you no horns. |
-| [[Beatrice|BEATRICE]] | just, if he send me no husband, for the which blessing I am at him upon my knees every morning and evening. Lord, I could not endure a husband with a beard on his face. I had rather lie in the woollen. |
-| [[Leonato|LEONATO]] | You may light on a husband that hath no beard. |
-| [[Beatrice|BEATRICE]] | What should I do with him—dress him in my apparel and make him my waiting gentlewoman? He that hath a beard is more than a youth, and he that hath no beard is less than a man; and he that is more than a youth is not for me, and he that is less than a man, I am not for him. Therefore I will even take sixpence in earnest of the bearherd and lead his apes into hell. |
-| [[Leonato|LEONATO]] | [[Well]] then, go you into hell? |
-| [[Beatrice|BEATRICE]] | No, but to the gate, and there will the devil meet me like an old cuckold with horns on his head, and say, ‘Get you to heaven, [[Beatrice]], get you to heaven. Here’s no place for you maids.’ So deliver I up my apes and away to Saint Peter fore the heavens. He shows me where the bachelors sit, and there live we as merry as the day is long. |
-| [[Antonio|ANTONIO]] | (to [[Hero]]) [[Well]], niece, I trust you will be ruled by your father. |
-| [[Beatrice|BEATRICE]] | Yes, [[Faith|faith]], it is my cousin’s duty to make curtsy and say, ‘Father, as it please you.’ But yet for all that, cousin, let him be a handsome fellow, or else make another curtsy and say, ‘Father, as it please me.’ |
-| [[Leonato|LEONATO]] | [[Well]], niece, I [[Hope|hope]] to see you one day fitted with a husband. |
-| [[Beatrice|BEATRICE]] | Not till God make men of some other mettle than earth. Would it not grieve a woman to be overmastered with a piece of valiant [[Dust|dust]]?—to make an account of her life to a clod of wayward marl? No, uncle, I’ll none. Adam’s sons are my brethren, and truly I hold it a sin to match in my kindred. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--02_exchange_leonato" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (LEONATO) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Leonato|LEONATO]] | (to [[Hero]]) Daughter, remember what I told you. If the Prince do solicit you in that kind, you know your answer. |
-| [[Beatrice|BEATRICE]] | The fault will be in the music, cousin, if you be not wooed in good [[Time|time]]. If the Prince be too important, tell him there is measure in everything, and so [[Dance|dance]] out the answer. For hear me, [[Hero]], wooing, wedding, and repenting is as a Scotch jig, a measure, and a cinquepace. The first suit is hot and hasty, like a Scotch jig—and full as fantastical; the wedding mannerly modest, as a measure, full of state and ancientry. And then comes repentance, and with his bad legs falls into the cinquepace faster and faster till he sink into his [[Grave|grave]]. |
-| [[Leonato|LEONATO]] | Cousin, you apprehend passing shrewdly. |
-| [[Beatrice|BEATRICE]] | I have a good eye, uncle. I can see a church by daylight. |
-| [[Leonato|LEONATO]] | The revellers are entering, brother. Make good room. Enter [[Don Pedro]], [[Claudio]], [[Benedick]], and Balthasar, all masked, [[Don John]], and Borachio, with a drummer |
-| [[Don Pedro|DON PEDRO]] | (to [[Hero]]) Lady, will you walk a bout with your friend? |
-| [[Hero|HERO]] | So you walk softly, and look sweetly, and say nothing, I am yours for the walk; and especially when I walk away. |
-| [[Don Pedro|DON PEDRO]] | With me in your company? |
-| [[Hero|HERO]] | I may say so when I please. |
-| [[Don Pedro|DON PEDRO]] | And when please you to say so? |
-| [[Hero|HERO]] | When I like your favour; for God defend the lute should be like the case. |
-| [[Don Pedro|DON PEDRO]] | My visor is Philemon’s roof. Within the [[house]] is Jove. |
-| [[Hero|HERO]] | Why, then, your visor should be thatched. |
-| [[Don Pedro|DON PEDRO]] | Speak low if you speak [[Love|love]]. They move aside BALTHASAR (to Margaret) [[Well]], I would you did like me. |
-| MARGARET | So would not I, for your own sake, for I have many ill qualities. BALTHASAR Which is one? |
-| MARGARET | I say my prayers aloud. BALTHASAR I [[Love|love]] you the better—the hearers may cry amen. |
-| MARGARET | God match me with a good dancer. |
-| BALTHASAR | Amen. |
-| MARGARET | And God keep him. out of my sight when the [[Dance|dance]] is done. Answer, clerk. |
-| BALTHASAR | No more words. The clerk is answered. They move aside |
-| URSULA | (to [[Antonio]]) I know you [[Well|well]] enough, you are Signor [[Antonio]]. |
-| [[Antonio|ANTONIO]] | At a word, I am not. |
-| URSULA | I know you by the waggling of your head. |
-| [[Antonio|ANTONIO]] | To tell you true, I counterfeit him. |
-| URSULA | You could never do him so ill-[[Well|well]] unless you were the very man. Here’s his dry hand up and down. You are he, you are he. |
-| [[Antonio|ANTONIO]] | At a word, I am not. |
-| URSULA | Come, come, do you think I do not know you by your excellent wit? Can virtue hide itself? Go to, mum, you are he. Graces will appear, and there’s an end. They move aside |
-| [[Beatrice|BEATRICE]] | (to [[Benedick]]) Will you not tell me who told you so? 115 [[Benedick|BENEDICK]] No, you shall pardon me. |
-| [[Beatrice|BEATRICE]] | Nor will you not tell me who you are? |
-| [[Benedick|BENEDICK]] | Not now. |
-| [[Beatrice|BEATRICE]] | That I was disdainful, and that I had my good wit out of the Hundred Merry Tales—[[Well|well]], this was Signor [[Benedick]] that said so. [[Benedick|BENEDICK]] What’s he? |
-| [[Beatrice|BEATRICE]] | I am sure you know him [[Well|well]] enough. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--03_exchange_benedick" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (BENEDICK) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benedick|BENEDICK]] | Not I, believe me. |
-| [[Beatrice|BEATRICE]] | Did he never make you laugh? |
-| [[Benedick|BENEDICK]] | I pray you, what is he? |
-| [[Beatrice|BEATRICE]] | Why, he is the Prince’s jester, a very dull [[Fool|fool]]. Only his gift is in devising impossible slanders. None but libertines delight in him, and the commendation is not in his wit but in his villainy, for he both pleases men and angers them, and then they laugh at him, and beat him. I am sure he is in the fleet. I would he had boarded me. |
-| [[Benedick|BENEDICK]] | When I know the gentleman, I’ll tell him what you say. |
-| [[Beatrice|BEATRICE]] | Do, do. He’ll but break a comparison or two on me, which peradventure not marked, or not laughed at, strikes him into [[Melancholy|melancholy]], and then there’s a partridge wing saved, for the [[Fool|fool]] will eat no supper that [[Night|night]]. Music We must follow the leaders. |
-| [[Benedick|BENEDICK]] | In every good thing. |
-| [[Beatrice|BEATRICE]] | Nay, if they lead to any ill I will leave them at the next turning. [[Dance]]. Exeunt all but [[Don John]], Borachio, and [[Claudio]] |
-| [[Don John|DON JOHN]] | (aside to Borachio) Sure my brother is amorous on [[Hero]], and hath withdrawn her father to break with him about it. The ladies follow her, and but one visor remains. |
-| BORACHIO | (aside to [[Don John]]) And that is [[Claudio]]. I know him by his bearing. |
-| [[Don John|DON JOHN]] | Are not you Signor [[Benedick]]? |
-| [[Claudio|CLAUDIO]] | You know me [[Well|well]]. I am he. |
-| [[Don John|DON JOHN]] | Signor, you are very near my brother in his [[Love|love]]. He is enamoured on [[Hero]]. I pray you dissuade him from her. She is no equal for his birth. You may do the part of an honest man in it. |
-| [[Claudio|CLAUDIO]] | How know you he loves her? |
-| [[Don John|DON JOHN]] | I heard him swear his affection. |
-| BORACHIO | So did I, too, and he swore he would marry her tonight. |
-| [[Don John|DON JOHN]] | Come, let us to the banquet. Exeunt all but [[Claudio]] |
-| [[Claudio|CLAUDIO]] | Thus answer I in name of [[Benedick]], But hear these ill news with the ears of [[Claudio]]. ’Tis certain so, the Prince woos for himself. [[Friendship]] is constant in all other things Save in the office and affairs of [[Love|love]]. Therefore all hearts in [[Love|love]] use their own tongues. Let every eye negotiate for itself, And trust no agent; for [[Beauty|beauty]] is a [[Witch|witch]] Against whose charms [[Faith|faith]] melteth into [[Blood|blood]]. This is an accident of hourly proof, Which I mistrusted not. Farewell, therefore, [[Hero]]. Enter [[Benedick]] |
-| [[Benedick|BENEDICK]] | Count [[Claudio]]? |
-| [[Claudio|CLAUDIO]] | Yea, the same. |
-| [[Benedick|BENEDICK]] | Come, will you go with me? |
-| [[Claudio|CLAUDIO]] | Whither? |
-| [[Benedick|BENEDICK]] | Even to the next willow, about your own business, County. What fashion will you wear the garland of? About your neck, like an usurer’s chain? Or under your arm, like a lieutenant’s scarf? You must wear it one way, for the Prince hath got your [[Hero]]. |
-| [[Claudio|CLAUDIO]] | I wish him joy of her. |
-| [[Benedick|BENEDICK]] | Why, that’s spoken like an honest drover; so they sell bullocks. But did you think the Prince would have served you thus? |
-| [[Claudio|CLAUDIO]] | I pray you leave me. |
-| [[Benedick|BENEDICK]] | Ho, now you strike like the blind man—’twas the boy that stole your meat, and you’ll beat the post. |
-| [[Claudio|CLAUDIO]] | If it will not be, I’ll leave you. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--04_exchange_benedick" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (BENEDICK) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benedick|BENEDICK]] | Alas, poor hurt fowl, now will he creep into sedges. But that my Lady [[Beatrice]] should know me, and not know me! The Prince’s [[Fool|fool]]! Ha, it may be I go under that title because I am merry. Yea, but so I am apt to do myself wrong. I am not so reputed. It is the base, though bitter, disposition of [[Beatrice]] that puts the world into her person, and so gives me out. [[Well]], I’ll be revenged as I may. Enter [[Don Pedro]] the Prince |
-| [[Don Pedro|DON PEDRO]] | Now, signor, where’s the Count? Did you see him? |
-| [[Benedick|BENEDICK]] | Troth, my lord, I have played the part of Lady Fame. I found him here as [[Melancholy|melancholy]] as a lodge in a warren. I told him—and I think I told him true—that your grace had got the good will of this young lady, and I offered him my company to a willow tree, either to make him a garland, as being forsaken, or to bind him up a rod, as being worthy to be whipped. |
-| [[Don Pedro|DON PEDRO]] | To be whipped—what’s his fault? |
-| [[Benedick|BENEDICK]] | The flat transgression of a schoolboy who, being overjoyed with finding a bird’s nest, shows it his companion, and he steals it. |
-| [[Don Pedro|DON PEDRO]] | Wilt thou make a trust a transgression? The transgression is in the stealer. |
-| [[Benedick|BENEDICK]] | Yet it had not been amiss the rod had been made, and the garland too, for the garland he might have worn himself, and the rod he might have bestowed on you, who, as I take it, have stolen his bird’s nest. |
-| [[Don Pedro|DON PEDRO]] | I will but teach them to sing, and restore them to the owner. |
-| [[Benedick|BENEDICK]] | If their singing answer your saying, by my [[Faith|faith]] you say honestly. |
-| [[Don Pedro|DON PEDRO]] | The Lady [[Beatrice]] hath a quarrel to you. The gentleman that danced with her told her she is much wronged by you. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--05_monologue_benedick" data-title="Much Ado About Nothing — Act II, Scene 1 — monologue (BENEDICK) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benedick|BENEDICK]] | O, she misused me past the [[Endurance|endurance]] of a block. An oak but with one green leaf on it would have answered her. My very visor began to assume life and scold with her. She told me—not thinking I had been myself—that I was the Prince’s jester, that I was duller than a great thaw, huddling jest upon jest with such impossible conveyance upon me that I stood like a man at a mark, with a whole army shooting at me. She speaks poniards, and every word stabs. If her breath were as terrible as her terminations, there were no living near her, she would infect to the North Star. I would not marry her though she were endowed with all that Adam had left him before he transgressed. She would have made Hercules have turned spit, yea, and have cleft his club to make the [[Fire|fire]], too. Come, talk not of her. You shall find her the infernal Ate in good apparel. I would to God some scholar would conjure her, for certainly, while she is here a man may live as quiet in hell as in a sanctuary, and people sin upon purpose because they would go thither, so indeed all disquiet, horror, and perturbation follows her. Enter [[Claudio]] and [[Beatrice]], and [[Leonato]] with [[Hero]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--06_exchange_don_pedro" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (DON PEDRO) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Don Pedro|DON PEDRO]] | Look, here she comes. |
-| [[Benedick|BENEDICK]] | Will your grace command me any service to the world’s end? I will go on the slightest errand now to the Antipodes that you can devise to send me on. I will fetch you a tooth-picker now from the furthest inch of Asia, bring you the length of Prester John’s foot, fetch you a hair off the Great Cham’s beard, do you any embassage to the pigmies, rather than hold three words’ conference with this harpy. You have no employment for me? |
-| [[Don Pedro|DON PEDRO]] | None but to [[Desire|desire]] your good company. |
-| [[Benedick|BENEDICK]] | O God, sir, here’s a dish I [[Love|love]] not. I cannot endure my Lady Tongue. Exit |
-| [[Don Pedro|DON PEDRO]] | Come, lady, come, you have lost the heart of Signor [[Benedick]]. |
-| [[Beatrice|BEATRICE]] | Indeed, my lord, he lent it me a while, and I gave him use for it, a [[Double|double]] heart for his single one. Marry, once before he won it of me, with false dice. Therefore your grace may [[Well|well]] say I have lost it. |
-| [[Don Pedro|DON PEDRO]] | You have put him down, lady, you have put him down. |
-| [[Beatrice|BEATRICE]] | So I would not he should do me, my lord, lest I should prove the mother of fools. I have brought Count [[Claudio]], whom you sent me to seek. |
-| [[Don Pedro|DON PEDRO]] | Why, how now, Count, wherefore are you sad? |
-| [[Claudio|CLAUDIO]] | Not sad, my lord. |
-| [[Don Pedro|DON PEDRO]] | How then? Sick? |
-| [[Claudio|CLAUDIO]] | Neither, my lord. |
-| [[Beatrice|BEATRICE]] | The Count is neither sad, nor sick, nor merry, nor [[Well|well]], but civil count, civil as an orange, and something of that jealous complexion. |
-| [[Don Pedro|DON PEDRO]] | I’[[Faith|faith]], lady, I think your blazon to be true, though I’ll be sworn, if he be so, his conceit is false. Here, [[Claudio]], I have wooed in thy name, and fair [[Hero]] is won. I have broke with her father and his good will obtained. Name the day of [[Marriage|marriage]], and God give thee joy. |
-| [[Leonato|LEONATO]] | Count, take of me my daughter, and with her my fortunes. His grace hath made the match, and all grace say amen to it. |
-| [[Beatrice|BEATRICE]] | Speak, Count, ’tis your cue. |
-| [[Claudio|CLAUDIO]] | [[Silence]] is the perfectest herald of joy. I were but little happy if I could say how much. (To [[Hero]]) Lady, as you are mine, I am yours. I give away myself for you, and dote upon the exchange. |
-| [[Beatrice|BEATRICE]] | (to [[Hero]]) Speak, cousin. Or, if you cannot, stop his mouth with a kiss, and let not him speak, neither. |
-| [[Don Pedro|DON PEDRO]] | In [[Faith|faith]], lady, you have a merry heart. |
-| [[Beatrice|BEATRICE]] | Yea, my lord, I thank it. Poor [[Fool|fool]], it keeps on the windy side of care.—My cousin tells him in his ear that he is in her heart. |
-| [[Claudio|CLAUDIO]] | And so she doth, cousin. |
-| [[Beatrice|BEATRICE]] | Good Lord, for alliance! Thus goes everyone to the world but I, and I am sunburnt. I may sit in a corner and cry ‘Heigh-ho for a husband’. |
-| [[Don Pedro|DON PEDRO]] | Lady [[Beatrice]], I will get you one. |
-| [[Beatrice|BEATRICE]] | I would rather have one of your father’s getting. Hath your grace ne’er a brother like you? Your father got excellent husbands if a maid could come by them. |
-| [[Don Pedro|DON PEDRO]] | Will you have me, lady? |
-| [[Beatrice|BEATRICE]] | No, my lord, unless I might have another for working days. Your grace is too costly to wear every day. But I beseech your grace, pardon me. I was born to speak all mirth and no matter. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--07_exchange_don_pedro" data-title="Much Ado About Nothing — Act II, Scene 1 — exchange (DON PEDRO) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Don Pedro|DON PEDRO]] | Your [[Silence|silence]] most offends me, and to be merry best becomes you; for out o’ question, you were born in a merry hour. |
-| [[Beatrice|BEATRICE]] | No, sure, my lord, my mother cried. But then there was a star danced, and under that was I born. (To [[Hero]] and [[Claudio]]) Cousins, God give you joy. |
-| [[Leonato|LEONATO]] | Niece, will you look to those things I told you of? |
-| [[Beatrice|BEATRICE]] | I cry you [[Mercy|mercy]], uncle. (To [[Don Pedro]]) By your grace’s pardon. Exit [[Beatrice]] |
-| [[Don Pedro|DON PEDRO]] | By my troth, a pleasant-spirited lady. |
-| [[Leonato|LEONATO]] | There’s little of the [[Melancholy|melancholy]] element in her, my lord. She is never sad but when she sleeps, and not ever sad then; for I have heard my daughter say she hath often dreamt of unhappiness and waked herself with laughing. |
-| [[Don Pedro|DON PEDRO]] | She cannot endure to hear tell of a husband. |
-| [[Leonato|LEONATO]] | O, by no means. She mocks all her wooers out of suit. |
-| [[Don Pedro|DON PEDRO]] | She were an excellent wife for [[Benedick]]. |
-| [[Leonato|LEONATO]] | O Lord, my lord, if they were but a week married they would talk themselves mad. |
-| [[Don Pedro|DON PEDRO]] | County [[Claudio]], when mean you to go to church? |
-| [[Claudio|CLAUDIO]] | Tomorrow, my lord. [[Time]] goes on crutches till [[Love|love]] have all his rites. |
-| [[Leonato|LEONATO]] | Not till Monday, my dear son, which is hence a just sevennight, and a [[Time|time]] too brief, too, to have all things answer my mind. |
-| [[Don Pedro|DON PEDRO]] | Come, you shake the head at so long a breathing, but I warrant thee, [[Claudio]], the [[Time|time]] shall not go dully by us. I will in the interim undertake one of Hercules’ labours, which is to bring Signor [[Benedick]] and the Lady [[Beatrice]] into a mountain of affection th‘one with th’other. I would fain have it a match, and I [[Doubt|doubt]] not but to fashion it, if you three will but minister such assistance as I shall give you direction. |
-| [[Leonato|LEONATO]] | My lord, I am for you, though it cost me ten nights’ watchings. |
-| [[Claudio|CLAUDIO]] | And I, my lord. |
-| [[Don Pedro|DON PEDRO]] | And you too, gentle [[Hero]]? |
-| [[Hero|HERO]] | I will do any modest office, my lord, to help my cousin to a good husband. |
-| [[Don Pedro|DON PEDRO]] | And [[Benedick]] is not the unhopefullest husband that I know. Thus far can I praise him: he is of a noble strain, of approved valour and confirmed honesty. I will teach you how to [[Humour|humour]] your cousin that she shall fall in [[Love|love]] with [[Benedick]], and I, with your two helps, will so practise on [[Benedick]] that, in despite of his quick wit and his queasy stomach, he shall fall in [[Love|love]] with [[Beatrice]]. If we can do this, Cupid is no longer an archer; his glory shall be ours, for we are the only [[Love|love]]-gods. Go in with me, and I will tell you my drift. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Much Ado About Nothing — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Benedick]] |
-| [[Benedick|BENEDICK]] | Boy! Enter Boy |
-| BOY | Signor? |
-| [[Benedick|BENEDICK]] | In my chamber [[Window|window]] lies a book. Bring it hither to me in the orchard. |
-| BOY | I am here already, sir. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--02_monologue_benedick_i" data-title="Much Ado About Nothing — Act II, Scene 3 — monologue (BENEDICK I) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benedick|BENEDICK]] | I know that, but I would have thee hence and here again. Exit Boy I do much [[Wonder|wonder]] that one man, seeing how much another man is a [[Fool|fool]] when he dedicates his behaviours to [[Love|love]], will, after he hath laughed at such shallow follies in others, become the argument of his own scorn by falling in [[Love|love]]. And such a man is [[Claudio]]. I have known when there was no music with him but the drum and the fife, and now had he rather hear the tabor and the pipe. I have known when he would have walked ten mile afoot to see a good armour, and now will he lie ten nights awake carving the fashion of a new doublet. He was wont to speak plain and to the purpose, like an honest man and a soldier, and now is he turned orthography. His words are a very fantastical banquet, just so many strange dishes. May I be so converted, and see with these eyes? I cannot tell. I think not. I will not be sworn but [[Love|love]] may transform me to an oyster, but I’ll take my oath on it, till he have made an oyster of me he shall never make me such a [[Fool|fool]]. One woman is fair, yet I am [[Well|well]]. Another is wise, yet I am [[Well|well]]. Another virtuous, yet I am [[Well|well]]. But till all graces be in one woman, one woman shall not come in my grace. Rich she shall be, that’s certain. Wise, or I’ll none. Virtuous, or I’ll never cheapen her. Fair, or I’ll never look on her. Mild, or come not near me. Noble, or not I for an angel. Of good discourse, an excellent musician, and her hair shall be of what colour it please God. Ha! The Prince and Monsieur [[Love]]. I will hide me in the arbour. He hides. Enter [[Don Pedro]] the Prince, [[Leonato]], and [[Claudio]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--03_exchange_don_pedro" data-title="Much Ado About Nothing — Act II, Scene 3 — exchange (DON PEDRO) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Don Pedro|DON PEDRO]] | Come, shall we hear this music? |
-| [[Claudio|CLAUDIO]] | Yea, my good lord. How still the evening is, As hushed on purpose to grace harmony. |
-| [[Don Pedro|DON PEDRO]] | (aside) See you where [[Benedick]] hath hid himself? |
-| [[Claudio|CLAUDIO]] | (aside) O, very [[Well|well]], my lord. The music ended, We’ll fit the hid-fox with a pennyworth. Enter Balthasar with music |
-| [[Don Pedro|DON PEDRO]] | Come, Balthasar, we’ll hear that [[Song|song]] again. |
-| BALTHASAR | O good my lord, tax not so bad a voice To slander music any more than once. |
-| [[Don Pedro|DON PEDRO]] | It is the witness still of excellency To put a strange face on his own perfection. I pray thee sing, and let me woo no more. |
-| BALTHASAR | Because you talk of wooing I will sing, Since many a wooer doth commence his suit To her he thinks not worthy, yet he woos, Yet will he swear he loves. |
-| [[Don Pedro|DON PEDRO]] | Nay pray thee, come; Or if thou wilt hold longer argument, Do it in notes. |
-| BALTHASAR | Note this before my notes: There’s not a note of mine that’s worth the noting. |
-| [[Don Pedro|DON PEDRO]] | Why, these are very crotchets that he speaks— Note notes, forsooth, and nothing! The accompaniment begins |
-| [[Benedick|BENEDICK]] | Now, divine air! Now is his [[Soul|soul]] ravished. Is it not strange that sheep’s guts should hale souls out of men’s bodies? [[Well]], a horn for my money, when all’s done. |
-| BALTHASAR | (sings) Sigh no more, ladies, sigh no more. Men were deceivers ever, One foot in sea, and one on shore, To one thing constant never. Then sigh not so, but let them go, And be you blithe and bonny, Converting all your sounds of woe Into hey nonny, nonny. |
-| BALTHASAR | Sing no more ditties, sing no more Of dumps so dull and heavy. The fraud of men was ever so Since [[Summer|summer]] first was leafy. Then sigh not so, but let them go, And be you blithe and bonny, Converting all your sounds of woe Into hey nonny, nonny. |
-| [[Don Pedro|DON PEDRO]] | By my troth, a good [[Song|song]]. |
-| BALTHASAR | And an ill singer, my lord. |
-| [[Don Pedro|DON PEDRO]] | Ha, no, no, [[Faith|faith]]. Thou singest [[Well|well]] enough for a shift. |
-| [[Benedick|BENEDICK]] | (aside) An he had been a dog that should have howled thus, they would have hanged him; and I pray God his bad voice bode no mischief. I had as lief have heard the [[Night|night]]-raven, come what plague could have come after it. |
-| [[Don Pedro|DON PEDRO]] | Yea, marry, dost thou hear, Balthasar? I pray thee get us some excellent music, for tomorrow [[Night|night]] we would have it at the Lady [[Hero]]’s chamber [[Window|window]]. |
-| BALTHASAR | The best I can, my lord. Exit |
-| [[Don Pedro|DON PEDRO]] | Do so. Farewell. Come hither, [[Leonato]]. What was it you told me of today, that your niece [[Beatrice]] was in [[Love|love]] with Signor [[Benedick]]? |
-| [[Claudio|CLAUDIO]] | (aside) O, ay, stalk on, stalk on. The fowl sits.—I did never think that lady would have loved any man. |
-| [[Leonato|LEONATO]] | No, nor I neither. But most wonderful that she should so dote on Signor [[Benedick]], whom she hath in all outward behaviours seemed ever to abhor. |
-| [[Benedick|BENEDICK]] | (aside) Is’t possible? Sits the [[Wind|wind]] in that corner? |
-| [[Leonato|LEONATO]] | By my troth, my lord, I cannot tell what to think of it. But that she loves him with an enraged affection, it is past the infinite of thought. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--04_exchange_don_pedro" data-title="Much Ado About Nothing — Act II, Scene 3 — exchange (DON PEDRO) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Don Pedro|DON PEDRO]] | Maybe she doth but counterfeit. |
-| [[Claudio|CLAUDIO]] | [[Faith]], like enough. |
-| [[Leonato|LEONATO]] | O God! Counterfeit? There was never counterfeit of passion came so near the life of passion as she discovers it. |
-| [[Don Pedro|DON PEDRO]] | Why, what effects of passion shows she? |
-| [[Claudio|CLAUDIO]] | (aside) Bait the hook [[Well|well]]. This fish will bite. |
-| [[Leonato|LEONATO]] | What effects, my lord? She will sit you—you heard my daughter tell you how. |
-| [[Claudio|CLAUDIO]] | She did indeed. |
-| [[Don Pedro|DON PEDRO]] | How, how, I pray you? You amaze me. I would have thought her spirit had been invincible against all assaults of affection. |
-| [[Leonato|LEONATO]] | I would have sworn it had, my lord, especially against [[Benedick]]. |
-| [[Benedick|BENEDICK]] | (aside) I should think this a gull, but that the white-bearded fellow speaks it. Knavery cannot, sure, hide himself in such reverence. |
-| [[Claudio|CLAUDIO]] | (aside) He hath ta’en th’infection. Hold it up. |
-| [[Don Pedro|DON PEDRO]] | Hath she made her affection known to [[Benedick]]? |
-| [[Leonato|LEONATO]] | No, and swears she never will. That’s her torment. |
-| [[Claudio|CLAUDIO]] | ‘Tis true, indeed, so your daughter says. ‘Shall I,’ says she, ‘that have so oft encountered him with scorn, write to him that I [[Love|love]] him?’ |
-| [[Leonato|LEONATO]] | This says she now when she is beginning to write to him, for she’ll be up twenty times a [[Night|night]], and there will she sit in her smock till she have writ a sheet of paper. My daughter tells us all. |
-| [[Claudio|CLAUDIO]] | Now you talk of a sheet of paper, I remember a pretty jest your daughter told us of. |
-| [[Leonato|LEONATO]] | O, when she had writ it and was reading it over, she found [[Benedick]] and [[Beatrice]] between the sheet. |
-| [[Claudio|CLAUDIO]] | That. |
-| [[Leonato|LEONATO]] | O, she tore the letter into a thousand halfpence, railed at herself that she should be so immodest to write to one that she knew would flout her. ‘I measure him,’ says she, ‘by my own spirit, for I should flout him if he writ to me, yea, though I [[Love|love]] him I should.’ |
-| [[Claudio|CLAUDIO]] | Then down upon her knees she falls, weeps, sobs, beats her heart, [[Tears|tears]] her hair, prays, curses, ‘O sweet [[Benedick]], God give me patience.’ |
-| [[Leonato|LEONATO]] | She doth indeed, my daughter says so, and the ecstasy hath so much overborne her that my daughter is sometime afeard she will do a desperate outrage to herself. It is very true. |
-| [[Don Pedro|DON PEDRO]] | It were good that [[Benedick]] knew of it by some other, if she will not discover it. |
-| [[Claudio|CLAUDIO]] | To what end? He would make but a sport of it and torment the poor lady worse. |
-| [[Don Pedro|DON PEDRO]] | An he should, it were an alms to hang him. She’s an excellent sweet lady, and, out of all suspicion, she is virtuous. |
-| [[Claudio|CLAUDIO]] | And she is exceeding wise. |
-| [[Don Pedro|DON PEDRO]] | In everything but in loving [[Benedick]]. |
-| [[Leonato|LEONATO]] | O my lord, wisdom and [[Blood|blood]] combating in so tender a [[Body|body]], we have ten proofs to one that [[Blood|blood]] hath the victory. I am sorry for her, as I have just cause, being her uncle and her guardian. |
-| [[Don Pedro|DON PEDRO]] | I would she had bestowed this dotage on me. I would have doffed all other respects and made her half myself. I pray you tell [[Benedick]] of it, and hear what a will say. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--05_exchange_leonato" data-title="Much Ado About Nothing — Act II, Scene 3 — exchange (LEONATO) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Leonato|LEONATO]] | Were it good, think you? |
-| [[Claudio|CLAUDIO]] | [[Hero]] thinks surely she will die, for she says she will die if he [[Love|love]] her not, and she will die ere she make her [[Love|love]] known, and she will die if he woo her, rather than she will bate one breath of her accustomed crossness. |
-| [[Don Pedro|DON PEDRO]] | She doth [[Well|well]]. If she should make tender of her [[Love|love]] ’tis very possible he’ll scorn it, for the man, as you know all, hath a contemptible spirit. |
-| [[Claudio|CLAUDIO]] | He is a very proper man. |
-| [[Don Pedro|DON PEDRO]] | He hath indeed a good outward happiness. |
-| [[Claudio|CLAUDIO]] | Before God; and in my mind, very wise. |
-| [[Don Pedro|DON PEDRO]] | He doth indeed show some sparks that are like wit. |
-| [[Claudio|CLAUDIO]] | And I take him to be valiant. |
-| [[Don Pedro|DON PEDRO]] | As [[Hector]], I assure you; and in the managing of quarrels you may say he is wise, for either he avoids them with great discretion or undertakes them with a most Christianlike [[Fear|fear]]. |
-| [[Leonato|LEONATO]] | If he do [[Fear|fear]] God, a must necessarily keep peace. If he break the peace, he ought to enter into a quarrel with [[Fear|fear]] and trembling. |
-| [[Don Pedro|DON PEDRO]] | And so will he do, for the man doth [[Fear|fear]] God, howsoever it seems not in him by some large jests he will make. [[Well]], I am sorry for your niece. Shall we go seek [[Benedick]] and tell him of her [[Love|love]]? |
-| [[Claudio|CLAUDIO]] | Never tell him, my lord. Let her wear it out with good counsel. |
-| [[Leonato|LEONATO]] | Nay, that’s impossible. She may wear her heart out first. |
-| [[Don Pedro|DON PEDRO]] | [[Well]], we will hear further of it by your daughter. Let it cool the while. I [[Love|love]] [[Benedick]] [[Well|well]], and I could wish he would modestly examine himself to see how much he is unworthy so good a lady. |
-| [[Leonato|LEONATO]] | My lord, will you walk? Dinner is ready. |
-| [[Claudio|CLAUDIO]] | (aside) If he do not dote on her upon this, I will never trust my expectation. |
-| [[Don Pedro|DON PEDRO]] | (aside) Let there be the same net spread for her, and that must your daughter and her gentlewomen carry. The sport will be when they hold one an opinion of another’s dotage, and no such matter. That’s the scene that I would see, which will be merely a dumb show. Let us send her to call him in to dinner. Exeunt [[Don Pedro]], [[Claudio]], and [[Leonato]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--06_monologue_benedick" data-title="Much Ado About Nothing — Act II, Scene 3 — monologue (BENEDICK) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benedick|BENEDICK]] | (coming forward) This can be no trick. The conference was sadly borne. They have the [[Truth|truth]] of this from [[Hero]]. They seem to pity the lady. It seems her affections have their full bent. [[Love]] me! Why, it must be requited. I hear how I am censured. They say I will bear myself proudly if I perceive the [[Love|love]] come from her. They say too that she will rather die than give any sign of affection. I did never think to marry. I must not seem proud. Happy are they that hear their detractions and can put them to [[mending]]. They say the lady is fair. ’Tis a [[Truth|truth]], I can bear them witness. And virtuous—’tis so, I cannot reprove it. And wise, but for loving me. By my troth, it is no addition to her wit—nor no great argument of her folly, for I will be horribly in [[Love|love]] with her. I may chance have some odd quirks and remnants of wit broken on me because I have railed so long against [[Marriage|marriage]]; but doth not the appetite alter? A man loves the meat in his youth that he cannot endure in his age. Shall quips and sentences and these paper bullets of the brain awe a man from the career of his [[Humour|humour]]? No. The world must be peopled. When I said I would die a bachelor, I did not think I should live till I were married. Here comes [[Beatrice]]. Enter [[Beatrice]] By this day, she’s a fair lady. I do spy some marks of [[Love|love]] in her. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--07_exchange_beatrice" data-title="Much Ado About Nothing — Act II, Scene 3 — exchange (BEATRICE) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Beatrice|BEATRICE]] | Against my will I am sent to bid you come in to dinner. |
-| [[Benedick|BENEDICK]] | Fair [[Beatrice]], I thank you for your pains. |
-| [[Beatrice|BEATRICE]] | I took no more pains for those thanks than you take pains to thank me. If it had been painful I would not have come. |
-| [[Benedick|BENEDICK]] | You take pleasure, then, in the message? |
-| [[Beatrice|BEATRICE]] | Yea, just so much as you may take upon a knife’s point and choke a daw withal. You have no stomach, signor? Fare you [[Well|well]]. Exit |
-| [[Benedick|BENEDICK]] | Ha! ‘Against my will I am sent to bid you come in to dinner.’ There’s a [[Double|double]] meaning in that. ‘I took no more pains for those thanks than you took pains to thank me.’ That’s as much as to say ‘Any pains that I take for you is as easy as thanks.’—If I do not take pity of her I am a [[Villain|villain]]. If I do not [[Love|love]] her I am a Jew. I will go get her picture. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--01_exchange_dialogue" data-title="Much Ado About Nothing — Act III, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Dogberry]] and his compartner Verges, with the Watch |
-| [[Dogberry|DOGBERRY]] | Are you good men and true? |
-| VERGES | Yea, or else it were pity but they should suffer salvation, [[Body|body]] and [[Soul|soul]]. |
-| [[Dogberry|DOGBERRY]] | Nay, that were a punishment too good for them if they should have any allegiance in them, being chosen for the Prince’s watch. |
-| VERGES | [[Well]], give them their charge, neighbour [[Dogberry]]. |
-| [[Dogberry|DOGBERRY]] | First, who think you the most desertless man to be constable? |
-| SECOND WATCHMAN | Hugh Oatcake, sir, or George Seacoal, for they can write and read. |
-| [[Dogberry|DOGBERRY]] | Come hither, neighbour Seacoal, God hath blest you with a good name. To be a [[Well|well]]-favoured man is the gift of fortune, but to write and read comes by [[Nature|nature]]. |
-| FIRST WATCHMAN | Both which, Master Constable— |
-| [[Dogberry|DOGBERRY]] | You have. I knew it would be your answer. [[Well]], for your favour, sir, why, give God thanks, and make no boast of it. And for your writing and reading, let that appear when there is no need of such [[Vanity|vanity]]. You are thought here to be the most senseless and fit man for the constable of the watch, therefore bear you the lantern. This is your charge: you shall comprehend all vagrom men. You are to bid any man stand, in the Prince’s name. |
-| FIRST WATCHMAN | How if a will not stand? |
-| [[Dogberry|DOGBERRY]] | Why then take no note of him, but let him go, and presently call the rest of the watch together, and thank God you are rid of a knave. |
-| VERGES | If he will not stand when he is bidden he is none of the Prince’s subjects. |
-| [[Dogberry|DOGBERRY]] | True, and they are to meddle with none but the Prince’s subjects.—You shall also make no noise in the streets, for for the watch to babble and to talk is most tolerable and not to be endured. |
-| *(didascalia)* | A |
-| WATCHMAN | We will rather [[Sleep|sleep]] than talk. We know what belongs to a watch. |
-| [[Dogberry|DOGBERRY]] | Why, you speak like an ancient and most quiet watchman, for I cannot see how sleeping should offend. Only have a care that your bills be not stolen. [[Well]], you are to call at all the alehouses and bid those that are drunk get them to bed. |
-| *(didascalia)* | A |
-| WATCHMAN | How if they will not? |
-| [[Dogberry|DOGBERRY]] | Why then, let them [[Alone|alone]] till they are sober. If they make you not then the better answer, you may say they are not the men you took them for. |
-| *(didascalia)* | A |
-| WATCHMAN | [[Well]], sir. |
-| [[Dogberry|DOGBERRY]] | If you meet a thief you may suspect him, by virtue of your office, to be no true man; and for such kind of men, the less you meddle or make with them why, the more is for your honesty. |
-| *(didascalia)* | A |
-| WATCHMAN | If we know him to be a thief, shall we not lay hands on him? |
-| [[Dogberry|DOGBERRY]] | Truly, by your office you may, but I think they that touch pitch will be defiled. The most peaceable way for you if you do take a thief is to let him show himself what he is, and steal out of your company. |
-| VERGES | You have been always called a merciful man, partner. |
-| [[Dogberry|DOGBERRY]] | Truly, I would not hang a dog by my will, much more a man who hath any honesty in him. |
-| VERGES | If you hear a [[Child|child]] cry in the [[Night|night]] you must call to the [[Nurse|nurse]] and bid her still it. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--02_exchange_a_watchman" data-title="Much Ado About Nothing — Act III, Scene 3 — exchange (A WATCHMAN) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A |
-| WATCHMAN | How if the [[Nurse|nurse]] be asleep and will not hear us? |
-| [[Dogberry|DOGBERRY]] | Why then, depart in peace and let the [[Child|child]] wake her with crying, for the ewe that will not hear her [[Lamb|lamb]] when it baes will never answer a calf when he bleats. |
-| VERGES | ’Tis very true. |
-| [[Dogberry|DOGBERRY]] | This is the end of the charge. You, constable, are to present the Prince’s own person. If you meet the Prince in the [[Night|night]] you may stay him. |
-| VERGES | Nay, by’r Lady, that I think a cannot. |
-| [[Dogberry|DOGBERRY]] | Five shillings to one on’t with any man that knows the statutes he may stay him. Marry, not without the Prince be willing, for indeed the watch ought to offend no man, and it is an offence to stay a man against his will. |
-| VERGES | By’r Lady, I think it be so. |
-| [[Dogberry|DOGBERRY]] | Ha ha ha! [[Well]], masters, good [[Night|night]]. An there be any matter of weight chances, call up me. Keep your fellows’ counsels, and your own, and good [[Night|night]]. Come, neighbour. FIRST WATCHMAN [[Well]], masters, we hear our charge. Let us go sit here upon the church bench till two, and then all to bed. |
-| [[Dogberry|DOGBERRY]] | One word more, honest neighbours. I pray you watch about Signor [[Leonato]]’s door, for the wedding being there tomorrow, there is a great coil tonight. Adieu. Be vigitant, I beseech you. Exeunt [[Dogberry]] and Verges. The Watch sit Enter Borachio and Conrad |
-| BORACHIO | What, Conrad! FIRST WATCHMAN (aside) Peace, stir not. |
-| BORACHIO | Conrad, I say. |
-| CONRAD | Here, man, I am at thy elbow. |
-| BORACHIO | Mass, an my elbow itched, I thought there would a scab follow. |
-| CONRAD | I will owe thee an answer for that. And now, forward with thy tale. |
-| BORACHIO | Stand thee close, then, under this penthouse, for it drizzles rain, and I will, like a true drunkard, utter all to thee. |
-| *(didascalia)* | A |
-| WATCHMAN | (aside) Some treason, masters. Yet stand close. |
-| BORACHIO | Therefore, know I have earned of [[Don John]] a thousand ducats. |
-| CONRAD | Is it possible that any villainy should be so dear? |
-| BORACHIO | Thou shouldst rather ask if it were possible any villainy should be so rich. For when rich villains have need of poor ones, poor ones may make what price they will. |
-| CONRAD | I [[Wonder|wonder]] at it. |
-| BORACHIO | That shows thou art unconfirmed. Thou knowest that the fashion of a doublet, or a hat, or a cloak is nothing to a man. |
-| CONRAD | Yes, it is apparel. |
-| BORACHIO | I mean the fashion. |
-| CONRAD | Yes, the fashion is the fashion. |
-| BORACHIO | Tush, I may as [[Well|well]] say the [[Fool|fool]]’s the [[Fool|fool]]. But seest thou not what a deformed thief this fashion is ? |
-| *(didascalia)* | A |
-| WATCHMAN | (aside) I know that Deformed. A has been a vile thief this seven year. A goes up and down like a gentleman. I remember his name. |
-| BORACHIO | Didst thou not hear somebody? |
-| CONRAD | No, ’twas the vane on the [[house]]. |
-| BORACHIO | Seest thou not, I say, what a deformed thief this fashion is, how giddily a turns about all the hot-bloods between fourteen and five-and-thirty, sometimes fashioning them like Pharaoh’s soldiers in the reechy painting, sometime like god Bel’s priests in the old church [[Window|window]], sometime like the shaven Hercules in the smirched, worm-eaten tapestry, where his codpiece seems as massy as his club? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--03_exchange_conrad" data-title="Much Ado About Nothing — Act III, Scene 3 — exchange (CONRAD) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CONRAD | All this I see, and I see that the fashion wears out more apparel than the man. But art not thou thyself giddy with the fashion, too, that thou hast shifted out of thy tale into telling me of the fashion? |
-| BORACHIO | Not so, neither. But know that I have tonight wooed Margaret, the Lady [[Hero]]’s gentlewoman, by the name of [[Hero]]. She leans me out at her mistress’ chamber [[Window|window]], bids me a thousand times good [[Night|night]]—I tell this tale vilely, I should first tell thee how the Prince, [[Claudio]], and my master, planted and placed and possessed by my master, [[Don John]], saw afar off in the orchard this amiable encounter. |
-| CONRAD | And thought they Margaret was [[Hero]]? |
-| BORACHIO | Two of them did, the Prince and [[Claudio]], but the devil my master knew she was Margaret, and partly by his oaths, which first possessed them, partly by the dark [[Night|night]], which did deceive them, but chiefly by my villainy, which did confirm any slander that [[Don John]] had made, away went [[Claudio]] enraged, swore he would meet her as he was appointed next morning at the temple, and there, before the whole congregation, shame her with what he saw o’ernight, and send her [[Home|home]] again without a husband. FIRST WATCHMAN (coming forward) We charge you in the Prince’s name. Stand. A WATCHMAN Call up the right Master Constable. We have here recovered the most dangerous piece of lechery that ever was known in the commonwealth. FIRST WATCHMAN And one Deformed is one of them. I know him—a wears a lock. |
-| CONRAD | Masters, masters! A WATCHMAN You’ll be made bring Deformed forth, I warrant you. CONRAD Masters— A WATCHMAN Never speak. We charge you. Let us obey you to go with us. |
-| BORACHIO | (to Conrad) We are like to prove a goodly commodity, being taken up of these men’s bills. |
-| CONRAD | A commodity in question, I warrant you. Come, we’ll obey you. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="Much Ado About Nothing — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Don Pedro]] the Prince, [[Don John]] the bastard, [[Leonato]], Friar Francis, [[Claudio]], [[Benedick]], [[Hero]], and [[Beatrice]] |
-| [[Leonato|LEONATO]] | Come, Friar Francis, be brief. Only to the plain form of [[Marriage|marriage]], and you shall recount their particular duties afterwards. |
-| FRIAR | (to [[Claudio]]) You come hither, my lord, to marry this lady? |
-| [[Claudio|CLAUDIO]] | No. |
-| [[Leonato|LEONATO]] | To be married to her. Friar, you come to marry her. |
-| FRIAR | (to [[Hero]]) Lady, you come hither to be married to this count? |
-| [[Hero|HERO]] | I do. |
-| FRIAR | If either of you know any inward impediment why you should not be conjoined, I charge you on your souls to utter it. |
-| [[Claudio|CLAUDIO]] | Know you any, [[Hero]]? |
-| [[Hero|HERO]] | None, my lord. |
-| FRIAR | Know you any, Count? |
-| [[Leonato|LEONATO]] | I dare make his answer—none. |
-| [[Claudio|CLAUDIO]] | O, what men dare do! What men may do! What men daily do, not knowing what they do! |
-| [[Benedick|BENEDICK]] | How now! Interjections ? Why then, some be of laughing, as ‘ah, ha, he!’ |
-| [[Claudio|CLAUDIO]] | Stand thee by, Friar. Father, by your leave, Will you with free and unconstrained [[Soul|soul]] Give me this maid, your daughter? |
-| [[Leonato|LEONATO]] | As freely, son, as God did give her me. |
-| [[Claudio|CLAUDIO]] | And what have I to give you back whose worth May counterpoise this rich and precious gift? |
-| [[Don Pedro|DON PEDRO]] | Nothing, unless you render her again. |
-| [[Claudio|CLAUDIO]] | Sweet Prince, you learn me noble thankfulness. There, [[Leonato]], take her back again. Give not this rotten orange to your friend. She’s but the sign and semblance of her [[Honour|honour]]. Behold how like a maid she blushes here! O, what authority and show of [[Truth|truth]] Can cunning sin cover itself withal ! Comes not that [[Blood|blood]] as modest evidence To witness simple virtue? Would you not swear, All you that see her, that she were a maid, By these exterior shows? But she is none. She knows the heat of a luxurious bed. Her blush is guiltiness, not modesty. |
-| [[Leonato|LEONATO]] | What do you mean, my lord? |
-| [[Claudio|CLAUDIO]] | Not to be married, Not to knit my [[Soul|soul]] to an approved wanton. |
-| [[Leonato|LEONATO]] | Dear my lord, if you in your own proof Have vanquished the resistance of her youth And made defeat of her virginity— |
-| [[Claudio|CLAUDIO]] | I know what you would say. If I have known her, You will say she did embrace me as a husband, And so extenuate the forehand sin. No, [[Leonato]], I never tempted her with word too large, But as a brother to his sister showed Bashful sincerity and comely [[Love|love]]. |
-| [[Hero|HERO]] | And seemed I ever otherwise to you? |
-| [[Claudio|CLAUDIO]] | Out on thee, seeming! I will write against it. You seem to me as Dian in her orb, As chaste as is the bud ere it be blown. But you are more intemperate in your [[Blood|blood]] Than [[Venus]] or those pampered [[Animals|animals]] That rage in savage sensuality. |
-| [[Hero|HERO]] | Is my lord [[Well|well]] that he doth speak so wide? |
-| [[Leonato|LEONATO]] | Sweet Prince, why speak not you? |
-| [[Don Pedro|DON PEDRO]] | What should I speak? I stand dishonoured, that have gone about To link my dear friend to a common stale. |
-| [[Leonato|LEONATO]] | Are these things spoken, or do I but dream? |
-| [[Don John|DON JOHN]] | Sir, they are spoken, and these things are true. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--02_exchange_benedick" data-title="Much Ado About Nothing — Act IV, Scene 1 — exchange (BENEDICK) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benedick|BENEDICK]] | This looks not like a nuptial. |
-| [[Hero|HERO]] | ‘True’! O God ! |
-| [[Claudio|CLAUDIO]] | [[Leonato]], stand I here? Is this the Prince? Is this the Prince’s brother? Is this face [[Hero]]’s? Are our eyes our own? |
-| [[Leonato|LEONATO]] | All this is so. But what of this, my lord? |
-| [[Claudio|CLAUDIO]] | Let me but move one question to your daughter, And by that fatherly and kindly power That you have in her, bid her answer truly. |
-| [[Leonato|LEONATO]] | (to [[Hero]]) I charge thee do so, as thou art my [[Child|child]]. |
-| [[Hero|HERO]] | O God defend me, how am I beset! What kind of catechizing call you this? |
-| [[Claudio|CLAUDIO]] | To make you answer truly to your name. |
-| [[Hero|HERO]] | Is it not [[Hero]]? Who can blot that name With any just reproach? |
-| [[Claudio|CLAUDIO]] | Marry, that can [[Hero]]. [[Hero]] itself can blot out [[Hero]]’s virtue. What man was he talked with you yesternight Out at your [[Window|window]] betwixt twelve and one? Now if you are a maid, answer to this. |
-| [[Hero|HERO]] | I talked with no man at that hour, my lord. |
-| [[Don Pedro|DON PEDRO]] | Why, then are you no maiden. [[Leonato]], I am sorry you must hear. Upon mine [[Honour|honour]], Myself, my brother, and this grieved Count Did see her, hear her, at that hour last [[Night|night]] Talk with a ruffian at her chamber [[Window|window]], Who hath indeed, most like a liberal [[Villain|villain]], Confessed the vile encounters they have had A thousand times in secret. |
-| [[Don John|DON JOHN]] | Fie, fie, they are Not to be named, my lord, not to be spoke of. There is not chastity enough in language Without offence to utter them. Thus, pretty lady, I am sorry for thy much misgovernment. |
-| [[Claudio|CLAUDIO]] | O [[Hero]]! What a [[Hero]] hadst thou been If half thy outward graces had been placed About thy thoughts and counsels of thy heart! But fare thee [[Well|well]], most foul, most fair, farewell Thou pure impiety and impious purity. For thee I’ll lock up all the gates of [[Love|love]], And on my eyelids shall conjecture hang To turn all [[Beauty|beauty]] into thoughts of harm, And never shall it more be gracious. |
-| [[Leonato|LEONATO]] | Hath no man’s dagger here a point for me? [[Hero]] falls to the ground |
-| [[Beatrice|BEATRICE]] | Why, how now, cousin, wherefore sink you down? |
-| [[Don John|DON JOHN]] | Come. Let us go. These things come thus to light Smother her spirits up. Exeunt [[Don Pedro]], [[Don John]], and [[Claudio]] |
-| [[Benedick|BENEDICK]] | How doth the lady? |
-| [[Beatrice|BEATRICE]] | Dead, I think. Help, uncle. [[Hero]], why [[Hero]]! Uncle, Signor [[Benedick]], Friar— |
-| [[Leonato|LEONATO]] | O fate, take not away thy heavy hand. [[Death]] is the fairest cover for her shame That may be wished for. |
-| [[Beatrice|BEATRICE]] | How now, cousin [[Hero]]? |
-| FRIAR | (to [[Hero]]) Have comfort, lady. |
-| [[Leonato|LEONATO]] | (to [[Hero]]) Dost thou look up? |
-| FRIAR | Yea, wherefore should she not? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--03_monologue_leonato" data-title="Much Ado About Nothing — Act IV, Scene 1 — monologue (LEONATO) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Leonato|LEONATO]] | Wherefore? Why, doth not every earthly thing Cry shame upon her? Could she here deny The story that is printed in her [[Blood|blood]]? Do not live, [[Hero]], do not ope thine eyes, For did I think thou wouldst not quickly die, Thought I thy spirits were stronger than thy shames, Myself would on the rearward of reproaches Strike at thy life. Grieved I I had but one? Chid I for that at frugal [[Nature|nature]]’s frame? O one too much by thee! Why had I one? Why ever wast thou lovely in my eyes? Why had I not with charitable hand Took up a beggar’s issue at my gates, Who smirched thus and mired with infamy, I might have said ‘No part of it is mine, This shame derives itself from unknown loins.’ But mine, and mine I loved, and mine I praised, And mine that I was proud on, mine so much That I myself was to myself not mine, Valuing of her—why she, O she is fallen Into a pit of ink, that the wide sea Hath drops too few to wash her clean again, And salt too little which may season give To her foul tainted flesh. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--04_exchange_benedick" data-title="Much Ado About Nothing — Act IV, Scene 1 — exchange (BENEDICK) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benedick|BENEDICK]] | Sir, sir, be patient. For my part, I am so attired in [[Wonder|wonder]] I know not what to say. |
-| [[Beatrice|BEATRICE]] | O, on my [[Soul|soul]], my cousin is belied. |
-| [[Benedick|BENEDICK]] | Lady, were you her bedfellow last [[Night|night]]? |
-| [[Beatrice|BEATRICE]] | No, truly not, although until last [[Night|night]] I have this twelvemonth been her bedfellow. |
-| [[Leonato|LEONATO]] | Confirmed, confirmed. O, that is stronger made Which was before barred up with ribs of iron. Would the two princes lie? And [[Claudio]] lie, Who loved her so that, speaking of her foulness, Washed it with [[Tears|tears]]? Hence from her, let her die. |
-| FRIAR | Hear me a little, For I have only been silent so long And given way unto this course of fortune By noting of the lady. I have marked A thousand blushing apparitions To start into her face, a thousand [[Innocent|innocent]] shames In angel whiteness beat away those blushes, And in her eye there hath appeared a [[Fire|fire]] To burn the errors that these princes hold Against her maiden [[Truth|truth]]. Call me a [[Fool|fool]], Trust not my reading nor my observations, Which with experimental seal doth warrant The tenor of my book. Trust not my age, My reverence, calling, nor divinity, If this sweet lady lie not guiltless here Under some biting error. |
-| [[Leonato|LEONATO]] | Friar, it cannot be. Thou seest that all the grace that she hath left Is that she will not add to her damnation A sin of perjury. She not denies it. Why seek’st thou then to cover with excuse That which appears in proper [[Nakedness|nakedness]]? |
-| FRIAR | (to [[Hero]]) Lady, what man is he you are accused of? |
-| [[Hero|HERO]] | They know that do accuse me. I know none. If I know more of any man alive Than that which maiden modesty doth warrant, Let all my sins lack [[Mercy|mercy]]. O my father, Prove you that any man with me conversed At hours unmeet, or that I yesternight Maintained the change of words with any creature, Refuse me, hate me, torture me to [[Death|death]]. |
-| FRIAR | There is some strange misprision in the princes. |
-| [[Benedick|BENEDICK]] | Two of them have the very bent of [[Honour|honour]], And if their wisdoms be misled in this The practice of it lives in John the bastard, Whose spirits toil in frame of villainies. |
-| [[Leonato|LEONATO]] | I know not. If they speak but [[Truth|truth]] of her These hands shall tear her. If they wrong her [[Honour|honour]] The proudest of them shall [[Well|well]] hear of it. [[Time]] hath not yet so dried this [[Blood|blood]] of mine, Nor age so eat up my invention, Nor fortune made such havoc of my means, Nor my bad life reft me so much of friends, But they shall find awaked in such a kind Both strength of limb and policy of mind, Ability in means, and choice of friends, To quit me of them throughly. |
-| FRIAR | Pause awhile, And let my counsel sway you in this case. Your daughter here the princes left for dead, Let her a while be secretly kept in, And publish it that she is dead indeed. Maintain a mourning ostentation, And on your family’s old monument Hang mournful epitaphs, and do all rites That appertain unto a burial. |
-| [[Leonato|LEONATO]] | What shall become of this? What will this do? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--05_monologue_friar" data-title="Much Ado About Nothing — Act IV, Scene 1 — monologue (FRIAR) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FRIAR | Marry, this, [[Well|well]] carried, shall on her behalf Change slander to remorse. That is some good. But not for that dream I on this strange course, But on this travail look for greater birth. She—dying, as it must be so maintained, Upon the instant that she was accused— Shall be lamented, pitied, and excused Of every hearer. For it so falls out That what we have, we prize not to the worth Whiles we enjoy it, but, being lacked and lost, Why then we rack the value, then we find The virtue that possession would not show us Whiles it was ours. So will it fare with [[Claudio]]. When he shall hear she died upon his words, Th’idea of her life shall sweetly creep Into his study of [[Imagination|imagination]], And every lovely organ of her life Shall come apparelled in more precious habit, More moving-delicate, and full of life, Into the eye and prospect of his [[Soul|soul]] Than when she lived indeed. Then shall he mourn, If ever [[Love|love]] had interest in his liver, And wish he had not so accusèd her, No, though he thought his accusation true. Let this be so, and [[Doubt|doubt]] not but [[success]] Will fashion the event in better shape Than I can lay it down in likelihood. But if all aim but this be levelled false, The supposition of the lady’s [[Death|death]] Will quench the [[Wonder|wonder]] of her infamy. And if it sort not [[Well|well]], you may conceal her, As best befits her wounded reputation, In some reclusive and religious life, Out of all eyes, tongues, minds, and injuries. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--06_exchange_benedick" data-title="Much Ado About Nothing — Act IV, Scene 1 — exchange (BENEDICK) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Benedick|BENEDICK]] | Signor [[Leonato]], let the Friar advise you. And though you know my inwardness and [[Love|love]] Is very much unto the Prince and [[Claudio]], Yet, by mine [[Honour|honour]], I will deal in this As secretly and justly as your [[Soul|soul]] Should with your [[Body|body]]. |
-| [[Leonato|LEONATO]] | Being that I flow in grief, The smallest twine may lead me. |
-| FRIAR | ’Tis [[Well|well]] consented. Presently away, For to strange sores strangely they strain the cure. (To [[Hero]]) Come, lady, die to live. This wedding day Perhaps is but prolonged. Have patience, and endure. Exeunt all but [[Beatrice]] and [[Benedick]] |
-| [[Benedick|BENEDICK]] | Lady [[Beatrice]], have you wept all this while? |
-| [[Beatrice|BEATRICE]] | Yea, and I will weep a while longer. |
-| [[Benedick|BENEDICK]] | I will not [[Desire|desire]] that. |
-| [[Beatrice|BEATRICE]] | You have no reason, I do it freely. |
-| [[Benedick|BENEDICK]] | Surely I do believe your fair cousin is wronged. |
-| [[Beatrice|BEATRICE]] | Ah, how much might the man deserve of me that would right her! |
-| [[Benedick|BENEDICK]] | Is there any way to show such [[Friendship|friendship]]? |
-| [[Beatrice|BEATRICE]] | A very even way, but no such friend. |
-| [[Benedick|BENEDICK]] | May a man do it? |
-| [[Beatrice|BEATRICE]] | It is a man’s office, but not yours. |
-| [[Benedick|BENEDICK]] | I do [[Love|love]] nothing in the world so [[Well|well]] as you. Is not that strange? |
-| [[Beatrice|BEATRICE]] | As strange as the thing I know not. It were as possible for me to say I loved nothing so [[Well|well]] as you, but believe me not, and yet I lie not. I confess nothing nor I deny nothing. I am sorry for my cousin. |
-| [[Benedick|BENEDICK]] | By my [[Sword|sword]], [[Beatrice]], thou lovest me. |
-| [[Beatrice|BEATRICE]] | Do not swear and eat it. |
-| [[Benedick|BENEDICK]] | I will swear by it that you [[Love|love]] me, and I will make him eat it that says I [[Love|love]] not you. |
-| [[Beatrice|BEATRICE]] | Will you not eat your word? |
-| [[Benedick|BENEDICK]] | With no sauce that can be devised to it. I protest I [[Love|love]] thee. |
-| [[Beatrice|BEATRICE]] | Why then, God forgive me. |
-| [[Benedick|BENEDICK]] | What offence, sweet [[Beatrice]]? |
-| [[Beatrice|BEATRICE]] | You have stayed me in a happy hour. I was about to protest I loved you. |
-| [[Benedick|BENEDICK]] | And do it with all thy heart. |
-| [[Beatrice|BEATRICE]] | I [[Love|love]] you with so much of my heart that none is left to protest. |
-| [[Benedick|BENEDICK]] | Come, bid me do anything for thee. |
-| [[Beatrice|BEATRICE]] | Kill [[Claudio]]. |
-| [[Benedick|BENEDICK]] | Ha! Not for the wide world. |
-| [[Beatrice|BEATRICE]] | You kill me to deny it. Farewell. |
-| [[Benedick|BENEDICK]] | Tarry, sweet [[Beatrice]]. |
-| [[Beatrice|BEATRICE]] | I am gone though I am here. There is no [[Love|love]] in you.—Nay, I pray you, let me go. 295 |
-| [[Benedick|BENEDICK]] | [[Beatrice]]. |
-| [[Beatrice|BEATRICE]] | In [[Faith|faith]], I will go. |
-| [[Benedick|BENEDICK]] | We’ll be friends first. |
-| [[Beatrice|BEATRICE]] | You dare easier be friends with me than fight with mine enemy. |
-| [[Benedick|BENEDICK]] | Is [[Claudio]] thine enemy? |
-| [[Beatrice|BEATRICE]] | Is a not approved in the height a [[Villain|villain]], that hath slandered, scorned, dishonoured my kinswoman? O that I were a man! What, bear her in hand until they come to take hands, and then with public accusation, uncovered slander, unmitigated rancour—O God that I were a man! I would eat his heart in the market place. |
-| [[Benedick|BENEDICK]] | Hear me, [[Beatrice]]. |
-| [[Beatrice|BEATRICE]] | Talk with a man out at a [[Window|window]]—a proper saying! |
-| [[Benedick|BENEDICK]] | Nay, but [[Beatrice]]. |
-| [[Beatrice|BEATRICE]] | Sweet [[Hero]], she is wronged, she is slandered, she is undone. |
-| [[Benedick|BENEDICK]] | Beat— |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--07_exchange_beatrice" data-title="Much Ado About Nothing — Act IV, Scene 1 — exchange (BEATRICE) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Beatrice|BEATRICE]] | Princes and counties! Surely a princely testimony, a goodly count, Count Comfit, a sweet gallant, surely. O that I were a man for his sake! Or that I had any friend would be a man for my sake! But manhood is melted into courtesies, valour into compliment, and men are only turned into tongue, and trim ones, too. He is now as valiant as Hercules that only tells a lie and swears it. I cannot be a man with wishing, therefore I will die a woman with grieving. 324 |
-| [[Benedick|BENEDICK]] | Tarry, good [[Beatrice]]. By this hand, I [[Love|love]] thee. |
-| [[Beatrice|BEATRICE]] | Use it for my [[Love|love]] some other way than swearing by it. |
-| [[Benedick|BENEDICK]] | Think you in your [[Soul|soul]] the Count [[Claudio]] hath wronged [[Hero]]? |
-| [[Beatrice|BEATRICE]] | Yea, as sure as I have a thought or a [[Soul|soul]]. |
-| [[Benedick|BENEDICK]] | Enough, I am engaged, I will challenge him. I will kiss your hand, and so I leave you. By this hand, [[Claudio]] shall render me a dear account. As you hear of me, so think of me. Go comfort your cousin. I must say she is dead. And so, farewell. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Leonato]] and [[Antonio]] his brother |
-| [[Antonio|ANTONIO]] | If you go on thus, you will kill yourself, And ’tis not wisdom thus to second grief Against yourself. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--02_monologue_leonato_i" data-title="Much Ado About Nothing — Act V, Scene 1 — monologue (LEONATO I) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Leonato|LEONATO]] | I pray thee cease thy counsel, Which falls into mine ears as profitless As [[Water|water]] in a sieve. Give not me counsel, Nor let no comforter delight mine ear But such a one whose wrongs do suit with mine. Bring me a father that so loved his [[Child|child]], Whose joy of her is overwhelmed like mine, And bid him speak of patience. Measure his woe the length and breadth of mine, And let it answer every strain for strain, As thus for thus, and such a grief for such, In every lineament, branch, shape, and form. If such a one will smile and stroke his beard, Bid sorrow wag, cry ‘hem’ when he should groan, Patch grief with proverbs, make misfortune drunk With candle-wasters, bring him yet to me, And I of him will gather patience. But there is no such man, for, brother, men Can counsel and speak comfort to that grief Which they themselves not feel, but tasting it Their counsel turns to passion, which before Would give preceptial medicine to rage, Fetter strong [[Madness|madness]] in a silken thread, Charm ache with air and agony with words. No, no, ’tis all men’s office to speak patience To those that wring under the load of sorrow, But no man’s virtue nor sufficiency To be so moral when he shall endure The like himself. Therefore give me no counsel. My griefs cry louder than advertisement. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--03_exchange_antonio" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (ANTONIO) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antonio|ANTONIO]] | Therein do men from children nothing differ. |
-| [[Leonato|LEONATO]] | I pray thee peace, I will be flesh and [[Blood|blood]], For there was never yet philosopher That could endure the toothache patiently, However they have writ the style of gods, And made a pish at chance and sufferance. |
-| [[Antonio|ANTONIO]] | Yet bend not all the harm upon yourself. Make those that do offend you suffer, too. |
-| [[Leonato|LEONATO]] | There thou speak’st reason, nay I will do so. My [[Soul|soul]] doth tell me [[Hero]] is belied, And that shall [[Claudio]] know, so shall the Prince, And all of them that thus dishonour her. Enter [[Don Pedro]] the Prince and [[Claudio]] |
-| [[Antonio|ANTONIO]] | Here comes the Prince and [[Claudio]] hastily. |
-| [[Don Pedro|DON PEDRO]] | Good e‘en, good e’en. |
-| [[Claudio|CLAUDIO]] | Good day to both of you. |
-| [[Leonato|LEONATO]] | Hear you, my lords? |
-| [[Don Pedro|DON PEDRO]] | We have some haste, [[Leonato]]. |
-| [[Leonato|LEONATO]] | Some haste, my lord! [[Well]], fare you [[Well|well]], my lord. Are you so hasty now? [[Well]], all is one. |
-| [[Don Pedro|DON PEDRO]] | Nay, do not quarrel with us, good old man. |
-| [[Antonio|ANTONIO]] | If he could right himself with quarrelling, Some of us would lie low. |
-| [[Claudio|CLAUDIO]] | Who wrongs him? |
-| [[Leonato|LEONATO]] | Marry, thou dost wrong me, thou dissembler, thou. Nay, never lay thy hand upon thy [[Sword|sword]], I [[Fear|fear]] thee not. |
-| [[Claudio|CLAUDIO]] | Marry, beshrew my hand If it should give your age such cause of [[Fear|fear]]. In [[Faith|faith]], my hand meant nothing to my [[Sword|sword]]. |
-| [[Leonato|LEONATO]] | Tush, tush, man, never fleer and jest at me. I speak not like a dotard nor a [[Fool|fool]], As under privilege of age to brag What I have done being young, or what would do Were I not old. Know [[Claudio]] to thy head, Thou hast so wronged mine [[Innocent|innocent]] [[Child|child]] and me That I am forced to lay my reverence by And with grey hairs and bruise of many days Do challenge thee to trial of a man. I say thou hast belied mine [[Innocent|innocent]] [[Child|child]]. Thy slander hath gone through and through her heart, And she lies buried with her ancestors, O, in a tomb where never scandal slept Save this of hers, framed by thy villainy. |
-| [[Claudio|CLAUDIO]] | My villainy? |
-| [[Leonato|LEONATO]] | Thine, [[Claudio]], thine I say. |
-| [[Don Pedro|DON PEDRO]] | You say not right, old man. |
-| [[Leonato|LEONATO]] | My lord, my lord, I’ll prove it on his [[Body|body]] if he dare, Despite his nice fence and his active practice, His May of youth and bloom of lustihood. |
-| [[Claudio|CLAUDIO]] | Away, I will not have to do with you. |
-| [[Leonato|LEONATO]] | Canst thou so doff me? Thou hast killed my [[Child|child]]. If thou kill’st me, boy, thou shalt kill a man. |
-| [[Antonio|ANTONIO]] | He shall kill two of us, and men indeed. But that’s no matter, let him kill one first. Win me and wear me. Let him answer me. Come follow me boy, come sir boy, come follow me, Sir boy, I’ll whip you from your foining fence. Nay, as I am a gentleman, I will. |
-| [[Leonato|LEONATO]] | Brother. |
-| [[Antonio|ANTONIO]] | Content yourself. God knows, I loved my niece, And she is dead, slandered to [[Death|death]] by villains That dare as [[Well|well]] answer a man indeed As I dare take a serpent by the tongue. Boys, apes, braggarts, jacks, milksops! |
-| [[Leonato|LEONATO]] | Brother Antony— |
-| [[Antonio|ANTONIO]] | Hold you content. What, man, I know them, yea And what they weigh, even to the utmost scruple. Scambling, outfacing, fashion-monging boys, That lie, and cog, and flout, deprave, and slander, Go anticly, and show an outward hideousness, And speak off half a dozen dangerous words, How they might hurt their enemies, if they durst, And this is all. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--04_exchange_leonato" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (LEONATO) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Leonato|LEONATO]] | But brother Antony— |
-| [[Antonio|ANTONIO]] | Come, ’tis no matter, Do not you meddle, let me deal in this. |
-| [[Don Pedro|DON PEDRO]] | Gentlemen both, we will not wake your patience. My heart is sorry for your daughter’s [[Death|death]], But on my [[Honour|honour]] she was charged with nothing But what was true and very full of proof. |
-| [[Leonato|LEONATO]] | My lord, my lord— |
-| [[Don Pedro|DON PEDRO]] | I will not hear you. |
-| [[Leonato|LEONATO]] | No? Come brother, away. I will be heard. |
-| [[Antonio|ANTONIO]] | And shall, or some of us will smart for it. Exeunt [[Leonato]] and [[Antonio]] Enter [[Benedick]] |
-| [[Don Pedro|DON PEDRO]] | See, see, here comes the man we went to seek. |
-| [[Claudio|CLAUDIO]] | Now signor, what news? |
-| [[Benedick|BENEDICK]] | (to [[Don Pedro]]) Good day, my lord. |
-| [[Don Pedro|DON PEDRO]] | Welcome, signor. You are almost come to part almost a fray. |
-| [[Claudio|CLAUDIO]] | We had liked to have had our two noses snapped off with two old men without teeth. |
-| [[Don Pedro|DON PEDRO]] | [[Leonato]] and his brother. What thinkest thou? Had we fought, I [[Doubt|doubt]] we should have been too young for them. |
-| [[Benedick|BENEDICK]] | In a false quarrel there is no true valour. I came to seek you both. |
-| [[Claudio|CLAUDIO]] | We have been up and down to seek thee, for we are high-proof [[Melancholy|melancholy]] and would fain have it beaten away. Wilt thou use thy wit? |
-| [[Benedick|BENEDICK]] | It is in my scabbard. Shall I draw it? |
-| [[Don Pedro|DON PEDRO]] | Dost thou wear thy wit by thy side? |
-| [[Claudio|CLAUDIO]] | Never any did so, though very many have been beside their wit. I will bid thee draw as we do the minstrels, draw to pleasure us. |
-| [[Don Pedro|DON PEDRO]] | As I am an honest man he looks pale. Art thou sick, or angry? |
-| [[Claudio|CLAUDIO]] | What, [[Courage|courage]], man. What though care killed a cat, thou hast mettle enough in thee to kill care. |
-| [[Benedick|BENEDICK]] | Sir, I shall meet your wit in the career an you charge it against me. I pray you choose another subject. |
-| [[Claudio|CLAUDIO]] | Nay then, give him another staff. This last was broke [[Cross|cross]]. |
-| [[Don Pedro|DON PEDRO]] | By this light, he changes more and more. I think he be angry indeed. |
-| [[Claudio|CLAUDIO]] | If he be, he knows how to turn his girdle. |
-| [[Benedick|BENEDICK]] | (aside to [[Claudio]]) Shall I speak a word in your ear? |
-| [[Claudio|CLAUDIO]] | God bless me from a challenge. |
-| [[Benedick|BENEDICK]] | You are a [[Villain|villain]]. I jest not. I will make it good how you dare, with what you dare, and when you dare. Do me right, or I will protest your cowardice. You have killed a sweet lady, and her [[Death|death]] shall fall heavy on you. Let me hear from you. 149 |
-| [[Claudio|CLAUDIO]] | [[Well]], I will meet you, so I may have good cheer. |
-| [[Don Pedro|DON PEDRO]] | What, a feast, a feast? |
-| [[Claudio|CLAUDIO]] | I’[[Faith|faith]], I thank him, he hath bid me to a calf’s head and a capon, the which if I do not carve most curiously, say my knife’s naught. Shall I not find a woodcock too? 155 |
-| [[Benedick|BENEDICK]] | Sir, your wit ambles [[Well|well]], it goes easily. |
-| [[Don Pedro|DON PEDRO]] | I’ll tell thee how [[Beatrice]] praised thy wit the other day. I said thou hadst a fine wit. ‘True,’ said she, ‘a fine little one.’ ‘No,’ said I, ‘a great wit.’‘Right,’ says she, ‘a great gross one.’ ‘Nay,’ said I, ‘a good wit.’ ‘Just,’ said she, ‘it hurts nobody.’ ‘Nay,’ said I, ‘the gentleman is wise.’ ‘Certain,’ said she, ‘a wise gentleman.’ ‘Nay,’ said I, ‘he hath the tongues.‘ ‘That I believe,’ said she, ‘for he swore a thing to me on Monday [[Night|night]] which he forswore on Tuesday morning. There’s a [[Double|double]] tongue, there’s two tongues.’ Thus did she an hour together trans-shape thy particular virtues, yet at last she concluded with a sigh thou wast the properest man in [[Italy]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--05_exchange_claudio" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (CLAUDIO) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Claudio|CLAUDIO]] | For the which she wept heartily and said she cared not. |
-| [[Don Pedro|DON PEDRO]] | Yea, that she did. But yet for all that, an if she did not hate him deadly she would [[Love|love]] him dearly. The old man’s daughter told us all. |
-| [[Claudio|CLAUDIO]] | All, all. And moreover, God saw him when he was hid in the [[Garden|garden]]. |
-| [[Don Pedro|DON PEDRO]] | But when shall we set the savage bull’s horns on the sensible [[Benedick]]’s head? |
-| [[Claudio|CLAUDIO]] | Yea, and text underneath, ‘Here dwells [[Benedick]] the married man’. |
-| [[Benedick|BENEDICK]] | Fare you [[Well|well]], boy, you know my mind. I will leave you now to your gossip-like [[Humour|humour]]. You break jests as braggarts do their blades which, God be thanked, hurt not. (To [[Don Pedro]]) My lord, for your many courtesies I thank you. I must discontinue your company. Your brother the bastard is fled from Messina. You have among you killed a sweet and [[Innocent|innocent]] lady. For my lord Lackbeard there, he and I shall meet, and till then, peace be with him. Exit |
-| [[Don Pedro|DON PEDRO]] | He is in earnest. |
-| [[Claudio|CLAUDIO]] | In most profound earnest, and, I’ll warrant you, for the [[Love|love]] of [[Beatrice]]. |
-| [[Don Pedro|DON PEDRO]] | And hath challenged thee. |
-| [[Claudio|CLAUDIO]] | Most sincerely. |
-| [[Don Pedro|DON PEDRO]] | What a pretty thing man is when he goes in his doublet and hose and [[Leaves|leaves]] off his wit! 196 Enter [[Dogberry]] and Verges the constables, the Watch, Conrad, and Borachio |
-| [[Claudio|CLAUDIO]] | He is then a giant to an ape. But then is an ape a doctor to such a man. |
-| [[Don Pedro|DON PEDRO]] | But soft you, let me be. Pluck up, my heart, and be sad. Did he not say my brother was fled? |
-| [[Dogberry|DOGBERRY]] | Come you sir, if justice cannot tame you, she shall ne’er weigh more reasons in her balance. Nay, an you be a cursing hypocrite once, you must be looked to. |
-| [[Don Pedro|DON PEDRO]] | How now, two of my brother’s men bound? Borachio one. |
-| [[Claudio|CLAUDIO]] | Hearken after their offence, my lord. |
-| [[Don Pedro|DON PEDRO]] | Officers, what offence have these men done? |
-| [[Dogberry|DOGBERRY]] | Marry, sir, they have committed false report, moreover they have spoken untruths, secondarily they are slanders, sixth and lastly they have belied a lady, thirdly they have verified unjust things, and to conclude, they are lying knaves. |
-| [[Don Pedro|DON PEDRO]] | First I ask thee what they have done, thirdly I ask thee what’s their offence, sixth and lastly why they are committed, and to conclude, what you lay to their charge. |
-| [[Claudio|CLAUDIO]] | Rightly reasoned, and in his own division. And by my troth there’s one meaning [[Well|well]] suited. |
-| [[Don Pedro|DON PEDRO]] | (to Conrad and Borachio) Who have you offended, masters, that you are thus bound to your answer? This learned constable is too cunning to be understood. What’s your offence? |
-| BORACHIO | Sweet Prince, let me go no farther to mine answer. Do you hear me, and let this Count kill me. I have deceived even your very eyes. What your wisdoms could not discover, these shallow fools have brought to light, who in the [[Night|night]] overheard me confessing to this man how [[Don John]] your brother incensed me to slander the Lady [[Hero]], how you were brought into the orchard and saw me [[Court|court]] Margaret in [[Hero]]’s garments, how you disgraced her when you should marry her. My villainy they have upon record, which I had rather seal with my [[Death|death]] than repeat over to my shame. The lady is dead upon mine and my master’s false accusation, and briefly, I [[Desire|desire]] nothing but the reward of a [[Villain|villain]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--06_exchange_don_pedro" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (DON PEDRO) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Don Pedro|DON PEDRO]] | (to [[Claudio]]) Runs not this speech like iron through your [[Blood|blood]]? |
-| [[Claudio|CLAUDIO]] | I have drunk [[Poison|poison]] whiles he uttered it. |
-| [[Don Pedro|DON PEDRO]] | (to Borachio) But did my brother set thee on to this? |
-| BORACHIO | Yea, and paid me richly for the practice of it. |
-| [[Don Pedro|DON PEDRO]] | He is composed and framed of treachery, And fled he is upon this villainy. |
-| [[Claudio|CLAUDIO]] | Sweet [[Hero]], now thy image doth appear In the rare semblance that I loved it first. |
-| [[Dogberry|DOGBERRY]] | Come, bring away the plaintiffs. By this [[Time|time]] our Sexton hath reformed Signor [[Leonato]] of the matter. And masters, do not forget to specify, when [[Time|time]] and place shall serve, that I am an ass. |
-| VERGES | Here, here comes Master Signor [[Leonato]], and the Sexton, too. Enter [[Leonato]], [[Antonio]] his brother, and the Sexton |
-| [[Leonato|LEONATO]] | Which is the [[Villain|villain]]? Let me see his eyes, That when I note another man like him I may avoid him. Which of these is he? |
-| BORACHIO | If you would know your wronger, look on me. |
-| [[Leonato|LEONATO]] | Art thou the slave that with thy breath hast killed Mine [[Innocent|innocent]] [[Child|child]]? |
-| BORACHIO | Yea, even I [[Alone|alone]]. |
-| [[Leonato|LEONATO]] | No, not so, [[Villain|villain]], thou beliest thyself. Here stand a pair of honourable men. A third is fled that had a hand in it. I thank you, Princes, for my daughter’s [[Death|death]]. Record it with your high and worthy deeds. ’Twas bravely done, if you bethink you of it. |
-| [[Claudio|CLAUDIO]] | I know not how to pray your patience, Yet I must speak. Choose your [[Revenge|revenge]] yourself, Impose me to what penance your invention Can lay upon my sin. Yet sinned I not But in mistaking. |
-| [[Don Pedro|DON PEDRO]] | By my [[Soul|soul]], nor I, And yet to satisfy this good old man I would bend under any heavy weight That he’ll enjoin me to. |
-| [[Leonato|LEONATO]] | I cannot bid you bid my daughter live— That were impossible—but I pray you both Possess the people in Messina here How [[Innocent|innocent]] she died, and if your [[Love|love]] Can labour aught in sad invention, Hang her an epitaph upon her tomb And sing it to her bones, sing it tonight. Tomorrow morning come you to my [[house]], And since you could not be my son-in-law, Be yet my nephew. My brother hath a daughter, Almost the copy of my [[Child|child]] that’s dead, And she [[Alone|alone]] is heir to both of us. Give her the right you should have giv’n her cousin, And so dies my [[Revenge|revenge]]. |
-| [[Claudio|CLAUDIO]] | O noble sir! Your overkindness doth wring [[Tears|tears]] from me. I do embrace your offer; and dispose For henceforth of poor [[Claudio]]. |
-| [[Leonato|LEONATO]] | Tomorrow then I will expect your coming. Tonight I take my leave. This naughty man Shall face to face be brought to Margaret, Who I believe was packed in all this wrong, Hired to it by your brother. |
-| BORACHIO | No, by my [[Soul|soul]], she was not, Nor knew not what she did when she spoke to me, But always hath been just and virtuous In anything that I do know by her. |
-| [[Dogberry|DOGBERRY]] | (to [[Leonato]]) Moreover, sir, which indeed is not under white and black, this plaintiff here, the offender, did call me ass. I beseech you let it be remembered in his punishment. And also the watch heard them talk of one Deformed. They say he wears a key in his ear and a lock hanging by it, and borrows money in God’s name, the which he hath used so long and never paid that now men grow hard-hearted and will lend nothing for God’s sake. Pray you examine him upon that point. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--07_exchange_leonato" data-title="Much Ado About Nothing — Act V, Scene 1 — exchange (LEONATO) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Leonato|LEONATO]] | I thank thee for thy care and honest pains. |
-| [[Dogberry|DOGBERRY]] | Your worship speaks like a most thankful and reverend youth, and I praise God for you. |
-| [[Leonato|LEONATO]] | (giving him money) There’s for thy pains. |
-| [[Dogberry|DOGBERRY]] | God save the foundation. |
-| [[Leonato|LEONATO]] | Go. I discharge thee of thy prisoner, and I thank thee. |
-| [[Dogberry|DOGBERRY]] | I leave an arrant knave with your worship, which I beseech your worship to correct yourself, for the example of others. God keep your worship, I wish your worship [[Well|well]]. God restore you to health. I humbly give you leave to depart, and if a merry meeting may be wished, God prohibit it. Come, neighbour. Exeunt [[Dogberry]] and Verges |
-| [[Leonato|LEONATO]] | Until tomorrow morning, lords, farewell. |
-| [[Antonio|ANTONIO]] | Farewell, my lords. We look for you tomorrow. |
-| [[Don Pedro|DON PEDRO]] | We will not fail. |
-| [[Claudio|CLAUDIO]] | Tonight I’ll mourn with [[Hero]]. |
-| [[Leonato|LEONATO]] | (to the Watch) Bring you these fellows on.—We’ll talk with Margaret How her acquaintance grew with this lewd fellow. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--01_exchange_dialogue" data-title="Much Ado About Nothing — Act V, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Leonato]], [[Antonio]], [[Benedick]], [[Beatrice]], Margaret, Ursula, Friar Francis, and [[Hero]] |
-| FRIAR | Did I not tell you she was [[Innocent|innocent]]? |
-| [[Leonato|LEONATO]] | So are the Prince and [[Claudio]] who accused her Upon the error that you heard debated. But Margaret was in some fault for this, Although against her will as it appears In the true course of all the question. |
-| [[Antonio|ANTONIO]] | [[Well]], I am glad that all things sorts so [[Well|well]]. |
-| [[Benedick|BENEDICK]] | And so am I, being else by [[Faith|faith]] enforced To call young [[Claudio]] to a reckoning for it. |
-| [[Leonato|LEONATO]] | [[Well]], daughter, and you gentlewomen all, Withdraw into a chamber by yourselves, And when I send for you come hither masked. Exeunt [[Beatrice]], [[Hero]], Margaret, and Ursula The Prince and [[Claudio]] promised by this hour To visit me. You know your office, brother, You must be father to your brother’s daughter, And give her to young [[Claudio]]. |
-| [[Antonio|ANTONIO]] | Which I will do with confirmed countenance. |
-| [[Benedick|BENEDICK]] | Friar, I must entreat your pains, I think. |
-| FRIAR | To do what, signor? |
-| [[Benedick|BENEDICK]] | To bind me or undo me, one of them. Signor [[Leonato]], [[Truth|truth]] it is, good signor, Your niece regards me with an eye of favour. |
-| [[Leonato|LEONATO]] | That eye my daughter lent her, ’tis most true. |
-| [[Benedick|BENEDICK]] | And I do with an eye of [[Love|love]] requite her. |
-| [[Leonato|LEONATO]] | The sight whereof I think you had from me, From [[Claudio]] and the Prince. But what’s your will? |
-| [[Benedick|BENEDICK]] | Your answer, sir, is enigmatical. But for my will, my will is your good will May stand with ours this day to be conjoined In the state of honourable [[Marriage|marriage]], In which, good Friar, I shall [[Desire|desire]] your help. |
-| [[Leonato|LEONATO]] | My heart is with your liking. |
-| FRIAR | And my help. Here comes the Prince and [[Claudio]]. Enter [[Don Pedro]] and [[Claudio]] with attendants |
-| [[Don Pedro|DON PEDRO]] | Good morrow to this fair assembly. |
-| [[Leonato|LEONATO]] | Good morrow, Prince. Good morrow, [[Claudio]]. We here attend you. Are you yet determined Today to marry with my brother’s daughter? |
-| [[Claudio|CLAUDIO]] | I’ll hold my mind, were she an Ethiope. |
-| [[Leonato|LEONATO]] | Call her forth, brother, here’s the Friar ready. Exit [[Antonio]] |
-| [[Don Pedro|DON PEDRO]] | Good morrow, [[Benedick]]. Why, what’s the matter That you have such a February face, So full of [[Frost|frost]], of [[Storm|storm]] and cloudiness? |
-| [[Claudio|CLAUDIO]] | I think he thinks upon the savage bull. Tush, [[Fear|fear]] not, man, we’ll tip thy horns with gold, And all Europa shall rejoice at thee As once Europa did at lusty Jove When he would play the noble beast in [[Love|love]]. |
-| [[Benedick|BENEDICK]] | Bull Jove, sir, had an amiable low, And some such strange bull leapt your father’s cow And got a calf in that same noble feat Much like to you, for you have just his bleat. Enter [[Antonio]] with [[Hero]], [[Beatrice]], Margaret, and Ursula, masked |
-| [[Claudio|CLAUDIO]] | For this I owe you. Here comes other reck’nings. Which is the lady I must seize upon? [[Antonio|ANTONIO]] This same is she, and I do give you her. |
-| [[Claudio|CLAUDIO]] | Why then, she’s mine. Sweet, let me see your face. 55 |
-| [[Leonato|LEONATO]] | No, that you shall not till you take her hand Before this Friar and swear to marry her. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--02_exchange_claudio" data-title="Much Ado About Nothing — Act V, Scene 4 — exchange (CLAUDIO) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Claudio|CLAUDIO]] | (to [[Hero]]) Give me your hand before this holy friar. I am your husband if you like of me. |
-| [[Hero|HERO]] | (unmasking) And when I lived I was your other wife; And when you loved, you were my other husband. |
-| [[Claudio|CLAUDIO]] | Another [[Hero]]! |
-| [[Hero|HERO]] | Nothing certainer. One [[Hero]] died defiled, but I do live, And surely as I live, I am a maid. |
-| [[Don Pedro|DON PEDRO]] | The former [[Hero]], [[Hero]] that is dead! |
-| [[Leonato|LEONATO]] | She died, my lord, but whiles her slander lived. |
-| FRIAR | All this amazement can I qualify When after that the holy rites are ended I’ll tell you largely of fair [[Hero]]’s [[Death|death]]. Meantime, let [[Wonder|wonder]] seem familiar, And to the chapel let us presently. |
-| [[Benedick|BENEDICK]] | Soft and fair, Friar, which is [[Beatrice]]? |
-| [[Beatrice|BEATRICE]] | (unmasking) I answer to that name, what is your will? |
-| [[Benedick|BENEDICK]] | Do not you [[Love|love]] me? |
-| [[Beatrice|BEATRICE]] | Why no, no more than reason. |
-| [[Benedick|BENEDICK]] | Why then, your uncle and the Prince and [[Claudio]] Have been deceived. They swore you did. |
-| [[Beatrice|BEATRICE]] | Do not you [[Love|love]] me? |
-| [[Benedick|BENEDICK]] | Troth no, no more than reason. |
-| [[Beatrice|BEATRICE]] | Why then, my cousin, Margaret, and Ursula Are much deceived, for they did swear you did. |
-| [[Benedick|BENEDICK]] | They swore that you were almost sick for me. |
-| [[Beatrice|BEATRICE]] | They swore that you were wellnigh dead for me. |
-| [[Benedick|BENEDICK]] | ’Tis no such matter. Then you do not [[Love|love]] me? |
-| [[Beatrice|BEATRICE]] | No, truly, but in friendly recompense. |
-| [[Leonato|LEONATO]] | Come, cousin, I am sure you [[Love|love]] the gentleman. |
-| [[Claudio|CLAUDIO]] | And I’ll be sworn upon’t that he loves her, For here’s a paper written in his hand, A halting [[Sonnet|sonnet]] of his own pure brain, Fashioned to [[Beatrice]]. |
-| [[Hero|HERO]] | And here’s another, Writ in my cousin’s hand, stol’n from her pocket, Containing her affection unto [[Benedick]]. |
-| [[Benedick|BENEDICK]] | A miracle! Here’s our own hands against our hearts. Come, I will have thee, but by this light, I take thee for pity. |
-| [[Beatrice|BEATRICE]] | I would not deny you, but by this good day, I yield upon great [[Persuasion|persuasion]], and partly to save your life, for I was told you were in a consumption. |
-| [[Benedick|BENEDICK]] | (kissing her) Peace, I will stop your mouth. |
-| [[Don Pedro|DON PEDRO]] | How dost thou, [[Benedick]] the married man? |
-| [[Benedick|BENEDICK]] | I’ll tell thee what, Prince: a college of wit-crackers cannot flout me out of my [[Humour|humour]]. Dost thou think I care for a [[Satire|satire]] or an [[Epigram|epigram]]? No, if a man will be beaten with brains, a shall wear nothing handsome about him. In brief, since I do purpose to marry, I will think nothing to any purpose that the world can say against it, and therefore never flout at me for what I have said against it. For man is a giddy thing, and this is my conclusion. For thy part, [[Claudio]], I did think to have beaten thee, but in that thou art like to be my kinsman, live unbruised, and [[Love|love]] my cousin. |
-| [[Claudio|CLAUDIO]] | I had [[Well|well]] hoped thou wouldst have denied [[Beatrice]], that I might have cudgelled thee out of thy single life to make thee a [[Double|double]] dealer, which out of question thou wilt be, if my cousin do not look exceeding narrowly to thee. |
-| [[Benedick|BENEDICK]] | Come, come, we are friends, let’s have a [[Dance|dance]] ere we are married, that we may lighten our own hearts and our wives’ heels. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--03_exchange_leonato" data-title="Much Ado About Nothing — Act V, Scene 4 — exchange (LEONATO) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Leonato|LEONATO]] | We’ll have dancing afterward. |
-| [[Benedick|BENEDICK]] | First, of my word. Therefore play, music. (To [[Don Pedro]]) Prince, thou art sad, get thee a wife, get thee a wife. There is no staff more reverend than one tipped with horn. Enter Messenger |
-| MESSENGER | My lord, your brother John is ta’en in flight, And brought with armed men back to Messina. |
-| [[Benedick|BENEDICK]] | Think not on him till tomorrow, I’ll devise thee brave punishments for him. Strike up, pipers. [[Dance]], and exeunt |
-| HENRY | V |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--04_monologue_the" data-title="Much Ado About Nothing — Act V, Scene 4 — monologue (THE) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE | [[Chorus]] to Act 5 of [[Henry V]] contains an uncharacteristic, direct topical reference: Were now the General of our gracious Empress— As in good [[Time|time]] he may—from Ireland coming, Bringing rebellion broached on his [[Sword|sword]], How many would the peaceful [[City|city]] quit To welcome him! ‘The General’ must be the Earl of Essex, whose ‘Empress’—[[Queen Elizabeth]]—had sent him on an Irish campaign on 27 March 1599; he returned, disgraced, on 28 September. Plans for his campaign had been known at least since the previous November; the idea that he might return in triumph would have been meaningless after September 1599, and it seems likely that Shakespeare completed his play during 1599, probably in the [[spring]]. It appeared in print, in a short and debased text, in (probably) August 1600, when it was said to have ‘been sundry times played by the Right Honourable the Lord Chamberlain his servants’. Although this text (which omits the Choruses) seems to have been put together from [[Memory|memory]] by actors playing in an abbreviated adaptation, the Shakespearian text behind it appears to have been in a later state than the generally superior text printed from Shakespeare’s own papers in the 1623 Folio. Our edition draws on the 1600 quarto in the attempt to represent the play as acted by Shakespeare’s company. The principal difference is the reversion to historical authenticity in the substitution at Agincourt of the Duke of Bourbon for the [[Dauphin]]. As in the two plays about [[Henry IV]], Shakespeare is indebted to The Famous Victories of Henry the Fifth (printed 1598). Other Elizabethan plays about [[Henry V]], now lost, may have influenced him; he certainly used the chronicle histories of Edward Hall (1542) and Holinshed (1577, revised and enlarged in 1587). From the ‘civil broils’ of the earlier [[history]] plays, Shakespeare turns to portray a country united in war against France. Each act is prefaced by a [[Chorus]], speaking some of the play’s finest poetry, and giving it an [[Epic|epic]] quality. [[Henry V]], ‘star of England’, is Shakespeare’s most heroic warrior [[King|king]], but (like his predecessors) has an introspective side, and is aware of the crime by which his father came to the throne. We are reminded of his ‘wilder days’, and see that the transition from ‘madcap prince’ to the ‘[[Mirror|mirror]] of all Christian kings’ involves loss: although the epilogue to 2 [[Henry IV]] had suggested that Sir John would reappear, he is only, though poignantly, an off-stage presence. Yet Shakespeare’s infusion of comic form into historical narrative reaches its natural conclusion in this play. Sir John’s cronies, [[Pistol]], Bardolph, Nim, and [[Mistress Quickly]], reappear to provide a counterpart to the heroic action, and Shakespeare invents comic episodes involving an Englishman ([[Gower]]), a Welshman ([[Fluellen]]), an Irishman (MacMorris), and a Scot (Jamy). The play also has [[Romance|romance]] elements, in the almost incredible extent of the English victory over the French and in the disguised Henry’s comradely mingling with his soldiers, as [[Well|well]] as in his courtship of the French princess. The play’s romantic and heroic aspects have made it popular especially in times of war and have aroused accusations of jingoism, but the horrors of war are vividly depicted, and the [[Chorus]]’s closing speech reminds us that Henry died young, and that his son’s protector ‘lost France and made his England bleed’. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--05_exchange_the_persons_of_the_play" data-title="Much Ado About Nothing — Act V, Scene 4 — exchange (THE PERSONS OF THE PLAY) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
 | THE PERSONS OF THE | PLAY |
 
 

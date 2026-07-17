@@ -2405,6 +2405,84 @@ Now so it is with any two human minds, not only when they are separated by centu
 
 
 
+<span class="atom-split" data-atom="story_07_on_a_van_tromp--part_01" data-title="On Something — ON A VAN TROMP (part 1)" data-chapter="ON A VAN TROMP" data-kind="excerpt"></span>
+
+
+ON A VAN TROMP
+
+ONCE THERE WAS a man who, having nothing else to do and being fond of that kind of thing, copied with a good deal of care on to a bit of wood the corner of a Dutch picture in one of the public galleries.
+
+This man was not a good artist; indeed he was nothing but a humpbacked and very sensitive little squire with about £3000 a year of his own and great liking for intricate amusements. He was a pretty good mathematician and a tolerable fisherman. He knew an enormous amount about the Mohammedan conquest of Spain, and he is, I believe, writing a book upon that subject. I hope he will, for nearly all history wants to be rewritten. Anyhow, he, as I have just said, did copy a corner of one of the Dutch pictures in one of the galleries. It was a Dutch picture of the seventeenth century; and since the laws of this country are very complicated and the sanctions attached to them very terrible, I will not give the name of the original artist, but I will call him Van Tromp.
+
+Van Tromps have always been recognized, and there was a moment about fifty years after the artist’s death when they had a considerable vogue in the French Court. Monsieur, who was quite ignorant of such things, bought a couple, and there is a whole row of them in the little pavilion at Louveciennes. Van Tromp has something about him at once positive and elusive; he is full of planes and values, and he interprets and renders, and the rest of it. Nay, he transfers!
+
+About thirty years ago Mr. Mayor (of Hildesheim and London) thought it his duty to impress upon the public how great Van Tromp was. This he did after taking thirteen Van Tromps in payment of a bad debt, and he succeeded. But the man I am writing about cared nothing for all this: he simply wanted to see how well he could imitate this corner of the picture, and he did it pretty well. He begrimed it and he rubbed at it, and then he tickled it up again with a knife, and then he smoked it, and then he put in some dirty whites which were vivid, and he played the fool with white of egg, and so forth, until he had the very tone and manner of the original; and as he had done it on an old bit of wood it was exactly right, and he was very proud of the result. He got an old frame from near Long Acre and stuck it in, and then he took the thing [[Home|home]]. He had done several things of this kind, imitating miniatures, and even enamels. It amused him. When he got [[Home|home]] he sat looking at it with great pleasure for an hour or two; he left the little thing on the table of his study and went to bed.
+
+Here begins the story, and here, therefore, I must tell you what the subject of this corner of the picture was.
+
+The subject of this corner of the picture which he had copied was a woman in a brown jacket and a red petticoat with big feet showing underneath, sitting on a tub and cutting up some vegetables. She had her hair bunched up like an onion, a fashion which, as we all know, appealed to the Dutch in the seventeenth century, or at any rate to the plebeian Dutch. I must also tell you the name of this squire before I go any further: his name was Hammer — Paul Hammer. He was unmarried.
+
+He went to bed at eleven o’clock, and when he came down at eight o’clock he had his breakfast. He went into his study at nine o’clock, and was very much annoyed to find that some burglars had come in during the night and had taken away a number of small objects which were not without value; and among-them, what he most regretted, his little pastiche of the corner of the Van Tromp.
+
+For some moments he stood filled with an acute anger and wishing that he knew who the burglars were and how to get at them; but the days passed, and though he asked everybody, and even gave some money to the police, he could not discover this. He put an advertisement into several newspapers, both London newspapers and local ones, saying that money would be given if the thing were restored, and pretty well hinting that no questions would be asked, but nothing came.
+
+Meanwhile the burglars, whose names were Charles and Lothair Femeral, foreigners but English-speaking, had found some of their ill-acquired goods saleable, others unsaleable. They wanted a pound for the little picture in the frame, and this they could not get, and it was a bother haggling it about. Lothair Femeral thought of a good plan: he stopped at an inn on the third day of their peregrinations, had a good dinner with his brother, told the innkeeper that he could not pay the bill, and offered to leave the Old Master in exchange. When people do this it very often comes off, for the alternative is only the pleasure of seeing the man in gaol, whereas a picture is always a picture, and there is a gambler’s chance of its turning up trumps. So the man grumbled and took the little thing. He hung it up in the best room of the inn, where he gave his richer customers food.
+
+Thus it was that a young gentleman who had come down to ride in that neighbourhood, although he did not know any of the rich people round about, saw it one day, and on seeing it exclaimed loudly in an unknown tongue; but he very rapidly repressed his emotion and simply told the innkeeper that he had taken a fancy to the daub and would give him thirty shillings for it.
+
+The innkeeper, who had read in the newspapers of how pictures of the utmost value are sold by fools for a few pence, said boldly that his price was twenty pounds; whereupon the young gentleman went out gloomily, and the innkeeper thought that he must have made a mistake, and was for three hours depressed. But in the fourth hour again he was elated, for the young gentleman came back with twenty pounds, not even in notes but in gold, paid it down, and took away the picture. Then again, in the fifth hour was the innkeeper a little depressed, but not as much as before, for it struck him that the young gentleman must have been very eager to act in such a fashion, and that perhaps he could have got as much as twenty-one pounds by holding out and calling it guineas.
+
+
+
+
+<span class="atom-split" data-atom="story_07_on_a_van_tromp--part_02" data-title="On Something — ON A VAN TROMP (part 2)" data-chapter="ON A VAN TROMP" data-kind="excerpt"></span>
+
+
+The young gentleman telegraphed to his father (who lived in Wimbledon but who did business in Bond Street) saying that he had got hold of a Van Tromp which looked like a study for the big “Eversley” Van Tromp in the Gallery, and he wanted to know what his father would give for it. His father telegraphed back inviting him to spend one whole night under the family roof. This the young man did, and, though it wrung the old father’s heart to have to do it, by the time he had seen the young gentleman’s find (or trouvaille as he called it) he had given his offspring a cheque for five hundred pounds. Whereupon the young gentleman left and went back to do some more riding, an exercise of which he was passionately fond, and to which he had trained several quiet horses.
+
+The father wrote to a certain lord of his acquaintance who was very fond of Van Tromps, and offered him this replica or study, in some ways finer than the original, but he said it must be a matter for private negotiation; so he asked for an appointment, and the lord, who was a tall, red-faced man with a bluff manner, made an appointment for nine o’clock next morning, which was rather early for Bond Street. But money talks, and they met. The lord was very well dressed, and when he talked he folded his hands (which had gloves on them) over the knob of his stick and pressed his stick firmly upon the ground. It was a way he had. But it did not frighten the old gentleman who did business in Bond Street, and the long and short of it was that the lord did not get the picture until he had paid three thousand guineas — not pounds, mind you. For this sum the picture was to be sent round to the lord’s house, and so it was, and there it would have stayed but for a very curious accident. The lord had put the greater part of his money into a company which was developing the resources of the South Shetland Islands, and by some miscalculation or other the expense of this experiment proved larger than the revenues obtainable from it. His policy, as I need hardly tell you, was to hang on, and so he did, because in the long run the property must pay. And so it would if they could have gone on shelling out for ever, but they could not, and so the whole affair was wound up and the lord lost a great deal of money.
+
+Under these circumstances he bethought him of the toiling millions who never see a good picture and who have no more vivid appetite than the hunger for good pictures. He therefore lent his collection of Van Tromps with the least possible delay to a public gallery, and for many years they hung there, while the lord lived in great anxiety, but with a sufficient income for his needs in the delightful scenery of the Pennines at some distance from a railway station, surrounded by his tenants. At last even these — the tenants, I mean — were not sufficient, and a gentleman in the Government who knew the value of Van Tromps proposed that these Van Tromps should be bought for the nation; but a lot of cranks made a frightful row, both in Parliament and out of it, so that the scheme would have fallen through had not one of the Van Tromps — to wit, that little copy of a corner which was obviously a replica of or a study for the best-known of the Van Tromps — been proclaimed false quite suddenly by a gentleman who doubted its authenticity; whereupon everybody said that it was not genuine except three people who really counted, and these included the gentleman who had recommended the purchase of the Van Tromps by the nation. So enormous was the row upon the matter that the picture reached the very pinnacle of fame, and an Australian then travelling in [[England]] was determined to get that Van Tromp for himself, and did.
+
+This Australian was a very simple man, good and kind and childlike, and frightfully rich. When he had got the Van Tromp he carried it about with him, and at the country houses where he stopped he used to pull it out and show it to people. It happened that among other country houses he stopped once at the hunchback squire’s, whose name, as you will remember, was Mr. Hammer, and he showed him the Van Tromp one day after dinner.
+
+Now Mr. Hammer was by this time an old man, and he had ceased to care much for the things of this world. He had suffered greatly, and he had begun to think about religion; also he had made a good deal of money in Egyptians (for all this was before the slump). And he was pretty well ashamed of his pastiches; so, one way and another, the seeing of that picture did not have the effect upon him which you might have expected; for you, the reader, have read this story in five minutes (if you have had the patience to get so far), but he, Mr. Hammer, had been changing and changing for years, and I tell you he did not care a dump what happened to the wretched thing. Only when the Australian, who was good and simple and kind and hearty, showed him the picture and asked him proudly to guess what he had given for it, then Mr. Hammer looked at him with a look in his eyes full of that not mortal sadness which accompanies irremediable despair.
+
+“I do not know,” he answered gently and with a sob in his voice.
+
+“I paid for that picture,” said the Australian, in the accent and language of his native clime, “no less a sum than £7500 … and I’d pay it again to-morrow!” Saying this, the Australian hit the table with the palm, of his hand in a manner so manly that an aged retainer who was putting coals upon the fire allowed the coal-scuttle to drop.
+
+But Mr. Hammer, ruminating in his mind all the accidents and changes and adventures of human life, its complexity, its unfulfilled desires, its fading but not quite perishable ideals, well knowing how men are made happy and how unhappy, ventured on no reply. Two great tears gathered in his eyes, and he would have shed them, perhaps to be profusely followed by more — he was nearly breaking down — when he looked up and saw on the wall opposite him seven pastiches which he had made in the years gone by. There was a Titian and a George Morland, a Chardin, two cows after Cooper, and an impressionist picture after some Frenchman whose name he had forgotten.
+
+“You like pictures?” he said to the Australian, the tears still standing in his eyes.
+
+“I do!” said the Australian with conviction.
+
+“Will you let me give you these?” said Mr. Hammer.
+
+The Australian protested that such things could not be allowed, but he was a simple man, and at last he consented, for he was immensely pleased.
+
+“It is an ungracious thing to make conditions,” said Mr. Hammer, “and I won’t make any, only I should be pleased if, in your island [[Home|home]]….”
+
+“I don’t live on an island,” said the Australian. Mr. Hammer remembered the map of Australia, with the water all round it, but he was too polite to argue.
+
+“No, of course not,” he said; “you live on the mainland; I forgot. But anyhow, I should be so pleased if you would promise me to hang them all together, these pictures with your Van Tromp, all in a line! I really should be so pleased!”
+
+“Why, certainly,” said the Australian, a little bewildered; “I will do so,
+
+Mr. Hammer, if it can give you any pleasure.”
+
+“The fact is,” said Mr. Hammer, in a breaking voice, “I had that picture once, and I intended it to hang side by side with these.”
+
+It was in vain that the Australian, on hearing this, poured out self-reproaches, offered with an expansion of soul to restore it, and then more prudently attempted a negotiation. Mr. Hammer resolutely shook his head.
+
+“I am an old man,” he said, “and I have no heirs; it is not for me to take, but to give, and if you will do what an old man begs of you, and accept what I offer; if you will do more and of your courtesy keep all these things together which were once familiar to me, it will be enough reward.”
+
+The next day, therefore, the Australian sailed off to his distant continental [[Home|home]], carrying with him not only the Chardin, the Titian, the Cooper, the impressionist picture, and the rest, but also the Van Tromp. And three months after they all hung in a row in the great new copper room at Warra-Mugga. What happened to them later on, and how they were all sold together as “the Warra-Mugga Collection,” I will tell you when I have the time and you the patience. Farewell.
+
+
+
+
 <span class="atom-split" data-atom="story_08_his_character" data-title="On Something — HIS CHARACTER" data-chapter="HIS CHARACTER" data-kind="story"></span>
 
 
@@ -2811,126 +2889,6 @@ He ends his book in a phrase from which I think not a word could be taken nor to
 
 
 
-<span class="atom-split" data-atom="story_16_letter_of_advice_and_apology_to_a_young" data-title="On Something — LETTER OF ADVICE AND APOLOGY TO A YOUNG BURGLAR" data-chapter="LETTER OF ADVICE AND APOLOGY TO A YOUNG" data-kind="story"></span>
-
-
-LETTER OF ADVICE AND APOLOGY TO A YOUNG BURGLAR
-
-MY DEAR ORMOND,
-
-Nothing was further from my thoughts. I had imagined you knew me well enough — and, for the matter of that, all your mother’s family — to judge me better. Believe me, no conception of blaming your profession entered my mind for a moment. Whether there be such a thing as “property” in the abstract I should leave it to metaphysicians to decide: in practical affairs everything must be judged in its own surroundings.
-
-It was not upon any musty theological whimsy that I wrote; the definition of stealing or “theft” — I care not by what name you call it — is not for practical men to discuss. Nor was I concerned with the ethical discussion of burglary (to give the matter its old legal and technical title); it was lack of judgment, sudden actions due to nothing but impulse, and what I think I may call “the speculative side” of a burglar’s life.
-
-You have not, as yet, any great responsibilities. No one is dependent upon you — you have but yourself to provide for; but you must remember that such responsibilities will arrive in their natural course, and that if you form habits of rashness or obstinacy now they will cling to you through life. We are all looking forward to a certain event when Anne is free again; in plain English, my boy, we know your loyal heart, and we shall bless the union; but I should feel easier in my mind if I saw you settled into one definite branch of the profession before you undertook the nurture of a family.
-
-Adventure tempts you because you are brave, and something of a poet in you leads you to unusual scenes of action. Well, Youth has a right to its dreams, but beware of letting a dangerous Quixotism spoil your splendid chances.
-
-Take, for example, your breaking into Mr. Cowl’s house. You may say Mr. Cowl was not a journalist, but only a reviewer; the distinction is very thin, but let it pass. You know and I know that the houses of none in any way connected with the daily Press should ever be approached. It is plain common sense. The journalist comes [[Home|home]] at all hours of the night. His servant (if he keeps one) is often up before he is abed. Do you think to enter such houses unobserved?
-
-Again, in one capacity or another, the journalist is dealing with our profession all day long. Some he serves and knows as masters; others he is employed in denouncing at about forty-two shillings the 1600 words; others again it is his business to interview and to pacify or cajole in the lobbies of the House — do you think he would not know what you were if he found you in the kitchen with a dark lantern?
-
-There is another peril — I mean that of alienating friends. Mr. Cowl is an Imperialist — of a very unemphatic type: he wears (as you will say) gold spectacles, and has a nervous cough, but he is an Imperialist. I never said that it was wrong or even foolish to alienate such a man. I said that a great and powerful section of opinion thought it a breach of honour in one of Ours to do it. Do not run away with the first impression my words convey. Believe me, I weigh them all.
-
-There has been so much misunderstanding that I hardly know what to choose. Take those watches. I did not say that watches were “a mere distraction.” You have put the words into my mouth. What I said was that watches, especially watches at a Tariff Reform meeting, were not worth the risk. Of course a hatful of watches, such as your Uncle Robert would bring [[Home|home]] from fires, or better still, such a load as your poor cousin Charles obtained upon Empire Day last year, has value. But how many gold watches are there, off the platform, at a Tariff Reform meeting? And what possible chance have you of getting on the platform? Now church and purses, that is another thing, but your mid-Devon adventure was simple folly.
-
-Who is Lord Darrell? I never heard of him! For Heaven’s sake don’t get caught by a title. Do you know any of the servants? His butler or his secretary? The fellow who catalogues the library is useful. Do recollect that lots of the ornaments in those Mayfair houses are fastened to the wall. That is where your dear father failed over the large Chinese jar in Park Street…. Your mother would never forgive me if you were to get into another of your boyish scrapes.
-
-There is another little matter, my dear Ormond, which I wish you to lay to heart very seriously. Now do take an old man’s advice and do not get up upon your Quixotic hobby-horse the moment you sniff what it is — for I suppose you have guessed it already. Yes, it is what you feared: I want to urge you to follow your mother’s ardent wish and add commission business to your other work. I know very well that young men must dream their dreams, but the world is what it is, and after all there is nothing so very dreadful in the commission side of our profession. You do not come into direct relation with the collectors of curios and church ornaments: there is always an agent to break the crudeness of the connexion. And it is a certain and profitable source of income with none of the risks attached to it that the older branches of the profession unfortunately show. Moreover, it affords excellent opportunities for foreign travel, and gives one a special position very difficult to define, but easily appreciable among one’s colleagues.
-
-George Burton made to my knowledge three thousand pounds last year in a short season; he got this very large commission without the necessity of breaking into a single public-house; he earned it entirely upon objects taken out of churches upon the Continent, and in only three cases had he to pick a pocket. It would have hurt him very much with his knowledge and tastes to have had to break a stained-glass window.
-
-Do consider this, my dear Ormond, for your mother’s sake. Don’t think for a moment that I am advising you to take up any of those forms of work which we both agree in despising, and which are quite unworthy of your traditions, as for instance stealing pictures on commission out of the houses of dealers and then turning detective to recover them again. It is much too easy work for a man of your talents, much too ill-paid, and much too dangerous. It is all very well for the picture dealer to leave the door open, but what if the policeman is not in the know? No, you will always find me on your side in your steady refusal to have anything to do with this kind of business.
-
-Ormond, my dear lad, bear me no ill-will. It is true of every profession, of the Bar and of the City, of homicide, medicine, the Services, even Politics — everything, that success only comes slowly, and that the experience of older men is the key to it.
-
-Tomorrow is Ascension Day, and I am at leisure. Come and dine with me at the Colonial Club at eight for eight-fifteen. I will show you a magnificent littla tanagra I picked up yesterday, and we will talk about the new prospectus.
-
-God bless you! (Dress.)
-
-Your affectionate Uncle
-
-
-
-
-<span class="atom-split" data-atom="story_07_on_a_van_tromp--part_01" data-title="On Something — ON A VAN TROMP (part 1)" data-chapter="ON A VAN TROMP" data-kind="excerpt"></span>
-
-
-ON A VAN TROMP
-
-ONCE THERE WAS a man who, having nothing else to do and being fond of that kind of thing, copied with a good deal of care on to a bit of wood the corner of a Dutch picture in one of the public galleries.
-
-This man was not a good artist; indeed he was nothing but a humpbacked and very sensitive little squire with about £3000 a year of his own and great liking for intricate amusements. He was a pretty good mathematician and a tolerable fisherman. He knew an enormous amount about the Mohammedan conquest of Spain, and he is, I believe, writing a book upon that subject. I hope he will, for nearly all history wants to be rewritten. Anyhow, he, as I have just said, did copy a corner of one of the Dutch pictures in one of the galleries. It was a Dutch picture of the seventeenth century; and since the laws of this country are very complicated and the sanctions attached to them very terrible, I will not give the name of the original artist, but I will call him Van Tromp.
-
-Van Tromps have always been recognized, and there was a moment about fifty years after the artist’s death when they had a considerable vogue in the French Court. Monsieur, who was quite ignorant of such things, bought a couple, and there is a whole row of them in the little pavilion at Louveciennes. Van Tromp has something about him at once positive and elusive; he is full of planes and values, and he interprets and renders, and the rest of it. Nay, he transfers!
-
-About thirty years ago Mr. Mayor (of Hildesheim and London) thought it his duty to impress upon the public how great Van Tromp was. This he did after taking thirteen Van Tromps in payment of a bad debt, and he succeeded. But the man I am writing about cared nothing for all this: he simply wanted to see how well he could imitate this corner of the picture, and he did it pretty well. He begrimed it and he rubbed at it, and then he tickled it up again with a knife, and then he smoked it, and then he put in some dirty whites which were vivid, and he played the fool with white of egg, and so forth, until he had the very tone and manner of the original; and as he had done it on an old bit of wood it was exactly right, and he was very proud of the result. He got an old frame from near Long Acre and stuck it in, and then he took the thing [[Home|home]]. He had done several things of this kind, imitating miniatures, and even enamels. It amused him. When he got [[Home|home]] he sat looking at it with great pleasure for an hour or two; he left the little thing on the table of his study and went to bed.
-
-Here begins the story, and here, therefore, I must tell you what the subject of this corner of the picture was.
-
-The subject of this corner of the picture which he had copied was a woman in a brown jacket and a red petticoat with big feet showing underneath, sitting on a tub and cutting up some vegetables. She had her hair bunched up like an onion, a fashion which, as we all know, appealed to the Dutch in the seventeenth century, or at any rate to the plebeian Dutch. I must also tell you the name of this squire before I go any further: his name was Hammer — Paul Hammer. He was unmarried.
-
-He went to bed at eleven o’clock, and when he came down at eight o’clock he had his breakfast. He went into his study at nine o’clock, and was very much annoyed to find that some burglars had come in during the night and had taken away a number of small objects which were not without value; and among-them, what he most regretted, his little pastiche of the corner of the Van Tromp.
-
-For some moments he stood filled with an acute anger and wishing that he knew who the burglars were and how to get at them; but the days passed, and though he asked everybody, and even gave some money to the police, he could not discover this. He put an advertisement into several newspapers, both London newspapers and local ones, saying that money would be given if the thing were restored, and pretty well hinting that no questions would be asked, but nothing came.
-
-Meanwhile the burglars, whose names were Charles and Lothair Femeral, foreigners but English-speaking, had found some of their ill-acquired goods saleable, others unsaleable. They wanted a pound for the little picture in the frame, and this they could not get, and it was a bother haggling it about. Lothair Femeral thought of a good plan: he stopped at an inn on the third day of their peregrinations, had a good dinner with his brother, told the innkeeper that he could not pay the bill, and offered to leave the Old Master in exchange. When people do this it very often comes off, for the alternative is only the pleasure of seeing the man in gaol, whereas a picture is always a picture, and there is a gambler’s chance of its turning up trumps. So the man grumbled and took the little thing. He hung it up in the best room of the inn, where he gave his richer customers food.
-
-Thus it was that a young gentleman who had come down to ride in that neighbourhood, although he did not know any of the rich people round about, saw it one day, and on seeing it exclaimed loudly in an unknown tongue; but he very rapidly repressed his emotion and simply told the innkeeper that he had taken a fancy to the daub and would give him thirty shillings for it.
-
-The innkeeper, who had read in the newspapers of how pictures of the utmost value are sold by fools for a few pence, said boldly that his price was twenty pounds; whereupon the young gentleman went out gloomily, and the innkeeper thought that he must have made a mistake, and was for three hours depressed. But in the fourth hour again he was elated, for the young gentleman came back with twenty pounds, not even in notes but in gold, paid it down, and took away the picture. Then again, in the fifth hour was the innkeeper a little depressed, but not as much as before, for it struck him that the young gentleman must have been very eager to act in such a fashion, and that perhaps he could have got as much as twenty-one pounds by holding out and calling it guineas.
-
-
-
-
-<span class="atom-split" data-atom="story_07_on_a_van_tromp--part_02" data-title="On Something — ON A VAN TROMP (part 2)" data-chapter="ON A VAN TROMP" data-kind="excerpt"></span>
-
-
-The young gentleman telegraphed to his father (who lived in Wimbledon but who did business in Bond Street) saying that he had got hold of a Van Tromp which looked like a study for the big “Eversley” Van Tromp in the Gallery, and he wanted to know what his father would give for it. His father telegraphed back inviting him to spend one whole night under the family roof. This the young man did, and, though it wrung the old father’s heart to have to do it, by the time he had seen the young gentleman’s find (or trouvaille as he called it) he had given his offspring a cheque for five hundred pounds. Whereupon the young gentleman left and went back to do some more riding, an exercise of which he was passionately fond, and to which he had trained several quiet horses.
-
-The father wrote to a certain lord of his acquaintance who was very fond of Van Tromps, and offered him this replica or study, in some ways finer than the original, but he said it must be a matter for private negotiation; so he asked for an appointment, and the lord, who was a tall, red-faced man with a bluff manner, made an appointment for nine o’clock next morning, which was rather early for Bond Street. But money talks, and they met. The lord was very well dressed, and when he talked he folded his hands (which had gloves on them) over the knob of his stick and pressed his stick firmly upon the ground. It was a way he had. But it did not frighten the old gentleman who did business in Bond Street, and the long and short of it was that the lord did not get the picture until he had paid three thousand guineas — not pounds, mind you. For this sum the picture was to be sent round to the lord’s house, and so it was, and there it would have stayed but for a very curious accident. The lord had put the greater part of his money into a company which was developing the resources of the South Shetland Islands, and by some miscalculation or other the expense of this experiment proved larger than the revenues obtainable from it. His policy, as I need hardly tell you, was to hang on, and so he did, because in the long run the property must pay. And so it would if they could have gone on shelling out for ever, but they could not, and so the whole affair was wound up and the lord lost a great deal of money.
-
-Under these circumstances he bethought him of the toiling millions who never see a good picture and who have no more vivid appetite than the hunger for good pictures. He therefore lent his collection of Van Tromps with the least possible delay to a public gallery, and for many years they hung there, while the lord lived in great anxiety, but with a sufficient income for his needs in the delightful scenery of the Pennines at some distance from a railway station, surrounded by his tenants. At last even these — the tenants, I mean — were not sufficient, and a gentleman in the Government who knew the value of Van Tromps proposed that these Van Tromps should be bought for the nation; but a lot of cranks made a frightful row, both in Parliament and out of it, so that the scheme would have fallen through had not one of the Van Tromps — to wit, that little copy of a corner which was obviously a replica of or a study for the best-known of the Van Tromps — been proclaimed false quite suddenly by a gentleman who doubted its authenticity; whereupon everybody said that it was not genuine except three people who really counted, and these included the gentleman who had recommended the purchase of the Van Tromps by the nation. So enormous was the row upon the matter that the picture reached the very pinnacle of fame, and an Australian then travelling in [[England]] was determined to get that Van Tromp for himself, and did.
-
-This Australian was a very simple man, good and kind and childlike, and frightfully rich. When he had got the Van Tromp he carried it about with him, and at the country houses where he stopped he used to pull it out and show it to people. It happened that among other country houses he stopped once at the hunchback squire’s, whose name, as you will remember, was Mr. Hammer, and he showed him the Van Tromp one day after dinner.
-
-Now Mr. Hammer was by this time an old man, and he had ceased to care much for the things of this world. He had suffered greatly, and he had begun to think about religion; also he had made a good deal of money in Egyptians (for all this was before the slump). And he was pretty well ashamed of his pastiches; so, one way and another, the seeing of that picture did not have the effect upon him which you might have expected; for you, the reader, have read this story in five minutes (if you have had the patience to get so far), but he, Mr. Hammer, had been changing and changing for years, and I tell you he did not care a dump what happened to the wretched thing. Only when the Australian, who was good and simple and kind and hearty, showed him the picture and asked him proudly to guess what he had given for it, then Mr. Hammer looked at him with a look in his eyes full of that not mortal sadness which accompanies irremediable despair.
-
-“I do not know,” he answered gently and with a sob in his voice.
-
-“I paid for that picture,” said the Australian, in the accent and language of his native clime, “no less a sum than £7500 … and I’d pay it again to-morrow!” Saying this, the Australian hit the table with the palm, of his hand in a manner so manly that an aged retainer who was putting coals upon the fire allowed the coal-scuttle to drop.
-
-But Mr. Hammer, ruminating in his mind all the accidents and changes and adventures of human life, its complexity, its unfulfilled desires, its fading but not quite perishable ideals, well knowing how men are made happy and how unhappy, ventured on no reply. Two great tears gathered in his eyes, and he would have shed them, perhaps to be profusely followed by more — he was nearly breaking down — when he looked up and saw on the wall opposite him seven pastiches which he had made in the years gone by. There was a Titian and a George Morland, a Chardin, two cows after Cooper, and an impressionist picture after some Frenchman whose name he had forgotten.
-
-“You like pictures?” he said to the Australian, the tears still standing in his eyes.
-
-“I do!” said the Australian with conviction.
-
-“Will you let me give you these?” said Mr. Hammer.
-
-The Australian protested that such things could not be allowed, but he was a simple man, and at last he consented, for he was immensely pleased.
-
-“It is an ungracious thing to make conditions,” said Mr. Hammer, “and I won’t make any, only I should be pleased if, in your island [[Home|home]]….”
-
-“I don’t live on an island,” said the Australian. Mr. Hammer remembered the map of Australia, with the water all round it, but he was too polite to argue.
-
-“No, of course not,” he said; “you live on the mainland; I forgot. But anyhow, I should be so pleased if you would promise me to hang them all together, these pictures with your Van Tromp, all in a line! I really should be so pleased!”
-
-“Why, certainly,” said the Australian, a little bewildered; “I will do so,
-
-Mr. Hammer, if it can give you any pleasure.”
-
-“The fact is,” said Mr. Hammer, in a breaking voice, “I had that picture once, and I intended it to hang side by side with these.”
-
-It was in vain that the Australian, on hearing this, poured out self-reproaches, offered with an expansion of soul to restore it, and then more prudently attempted a negotiation. Mr. Hammer resolutely shook his head.
-
-“I am an old man,” he said, “and I have no heirs; it is not for me to take, but to give, and if you will do what an old man begs of you, and accept what I offer; if you will do more and of your courtesy keep all these things together which were once familiar to me, it will be enough reward.”
-
-The next day, therefore, the Australian sailed off to his distant continental [[Home|home]], carrying with him not only the Chardin, the Titian, the Cooper, the impressionist picture, and the rest, but also the Van Tromp. And three months after they all hung in a row in the great new copper room at Warra-Mugga. What happened to them later on, and how they were all sold together as “the Warra-Mugga Collection,” I will tell you when I have the time and you the patience. Farewell.
-
-
-
-
 <span class="atom-split" data-atom="story_15_the_odd_people--part_01" data-title="On Something — THE ODD PEOPLE (part 1)" data-chapter="THE ODD PEOPLE" data-kind="excerpt"></span>
 
 
@@ -2989,6 +2947,48 @@ It is on this account that I have said that the Monomotapans regard religion as 
 But, as I have said above, they do not persecute the small minority living in their midst who cling with the tenacity of all starved minds to their fixed ideas; and if a man who professes certitude upon doctrinal matters is useful in other ways, they are very far from refusing his services to the State. I have known more than one, for instance, of this old-fashioned and bigoted lot who, when he offered a sum of money in order to be admitted to the Senate of Monomotapa, found it accepted as readily and cheerfully as though it had been offered by one of the broadest principles and most liberal mind.
 
 Let no one be surprised that I have spoken of their priests, for though the Monomotapans regard religion with due contempt, it does not follow that they will take away the livelihood of a very honest class of people who in an older and barbaric state of affairs were employed to maintain the structure of what was then a public worship. The priesthood, therefore, is very justly and properly retained by the Monomotapans, subject only to a few simple duties and to a sacred intonation of voice very distressing to those not accustomed to it. If I am asked in what occupation they are employed, I answer, the wealthier of them in such sports and futilities as attract the wealthy, and the less wealthy in such futilities and sports as the less wealthy customarily enjoy. Nor is it a rigid law among them that the sons of priests should be priests, but only the custom — so far, at least, as I have been able to discover.
+
+
+
+
+<span class="atom-split" data-atom="story_16_letter_of_advice_and_apology_to_a_young" data-title="On Something — LETTER OF ADVICE AND APOLOGY TO A YOUNG BURGLAR" data-chapter="LETTER OF ADVICE AND APOLOGY TO A YOUNG" data-kind="story"></span>
+
+
+LETTER OF ADVICE AND APOLOGY TO A YOUNG BURGLAR
+
+MY DEAR ORMOND,
+
+Nothing was further from my thoughts. I had imagined you knew me well enough — and, for the matter of that, all your mother’s family — to judge me better. Believe me, no conception of blaming your profession entered my mind for a moment. Whether there be such a thing as “property” in the abstract I should leave it to metaphysicians to decide: in practical affairs everything must be judged in its own surroundings.
+
+It was not upon any musty theological whimsy that I wrote; the definition of stealing or “theft” — I care not by what name you call it — is not for practical men to discuss. Nor was I concerned with the ethical discussion of burglary (to give the matter its old legal and technical title); it was lack of judgment, sudden actions due to nothing but impulse, and what I think I may call “the speculative side” of a burglar’s life.
+
+You have not, as yet, any great responsibilities. No one is dependent upon you — you have but yourself to provide for; but you must remember that such responsibilities will arrive in their natural course, and that if you form habits of rashness or obstinacy now they will cling to you through life. We are all looking forward to a certain event when Anne is free again; in plain English, my boy, we know your loyal heart, and we shall bless the union; but I should feel easier in my mind if I saw you settled into one definite branch of the profession before you undertook the nurture of a family.
+
+Adventure tempts you because you are brave, and something of a poet in you leads you to unusual scenes of action. Well, Youth has a right to its dreams, but beware of letting a dangerous Quixotism spoil your splendid chances.
+
+Take, for example, your breaking into Mr. Cowl’s house. You may say Mr. Cowl was not a journalist, but only a reviewer; the distinction is very thin, but let it pass. You know and I know that the houses of none in any way connected with the daily Press should ever be approached. It is plain common sense. The journalist comes [[Home|home]] at all hours of the night. His servant (if he keeps one) is often up before he is abed. Do you think to enter such houses unobserved?
+
+Again, in one capacity or another, the journalist is dealing with our profession all day long. Some he serves and knows as masters; others he is employed in denouncing at about forty-two shillings the 1600 words; others again it is his business to interview and to pacify or cajole in the lobbies of the House — do you think he would not know what you were if he found you in the kitchen with a dark lantern?
+
+There is another peril — I mean that of alienating friends. Mr. Cowl is an Imperialist — of a very unemphatic type: he wears (as you will say) gold spectacles, and has a nervous cough, but he is an Imperialist. I never said that it was wrong or even foolish to alienate such a man. I said that a great and powerful section of opinion thought it a breach of honour in one of Ours to do it. Do not run away with the first impression my words convey. Believe me, I weigh them all.
+
+There has been so much misunderstanding that I hardly know what to choose. Take those watches. I did not say that watches were “a mere distraction.” You have put the words into my mouth. What I said was that watches, especially watches at a Tariff Reform meeting, were not worth the risk. Of course a hatful of watches, such as your Uncle Robert would bring [[Home|home]] from fires, or better still, such a load as your poor cousin Charles obtained upon Empire Day last year, has value. But how many gold watches are there, off the platform, at a Tariff Reform meeting? And what possible chance have you of getting on the platform? Now church and purses, that is another thing, but your mid-Devon adventure was simple folly.
+
+Who is Lord Darrell? I never heard of him! For Heaven’s sake don’t get caught by a title. Do you know any of the servants? His butler or his secretary? The fellow who catalogues the library is useful. Do recollect that lots of the ornaments in those Mayfair houses are fastened to the wall. That is where your dear father failed over the large Chinese jar in Park Street…. Your mother would never forgive me if you were to get into another of your boyish scrapes.
+
+There is another little matter, my dear Ormond, which I wish you to lay to heart very seriously. Now do take an old man’s advice and do not get up upon your Quixotic hobby-horse the moment you sniff what it is — for I suppose you have guessed it already. Yes, it is what you feared: I want to urge you to follow your mother’s ardent wish and add commission business to your other work. I know very well that young men must dream their dreams, but the world is what it is, and after all there is nothing so very dreadful in the commission side of our profession. You do not come into direct relation with the collectors of curios and church ornaments: there is always an agent to break the crudeness of the connexion. And it is a certain and profitable source of income with none of the risks attached to it that the older branches of the profession unfortunately show. Moreover, it affords excellent opportunities for foreign travel, and gives one a special position very difficult to define, but easily appreciable among one’s colleagues.
+
+George Burton made to my knowledge three thousand pounds last year in a short season; he got this very large commission without the necessity of breaking into a single public-house; he earned it entirely upon objects taken out of churches upon the Continent, and in only three cases had he to pick a pocket. It would have hurt him very much with his knowledge and tastes to have had to break a stained-glass window.
+
+Do consider this, my dear Ormond, for your mother’s sake. Don’t think for a moment that I am advising you to take up any of those forms of work which we both agree in despising, and which are quite unworthy of your traditions, as for instance stealing pictures on commission out of the houses of dealers and then turning detective to recover them again. It is much too easy work for a man of your talents, much too ill-paid, and much too dangerous. It is all very well for the picture dealer to leave the door open, but what if the policeman is not in the know? No, you will always find me on your side in your steady refusal to have anything to do with this kind of business.
+
+Ormond, my dear lad, bear me no ill-will. It is true of every profession, of the Bar and of the City, of homicide, medicine, the Services, even Politics — everything, that success only comes slowly, and that the experience of older men is the key to it.
+
+Tomorrow is Ascension Day, and I am at leisure. Come and dine with me at the Colonial Club at eight for eight-fifteen. I will show you a magnificent littla tanagra I picked up yesterday, and we will talk about the new prospectus.
+
+God bless you! (Dress.)
+
+Your affectionate Uncle
 
 
 

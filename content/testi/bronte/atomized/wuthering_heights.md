@@ -12570,829 +12570,6 @@ compared with him.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Wuthering Heights — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
-
-
-CHAPTER V
-
-
-In the course of [[Time|time]] Mr. Earnshaw began to fail. He had been active
-and healthy, yet his strength left him suddenly; and when he was
-confined to the chimney-corner he grew grievously irritable. A nothing
-vexed him; and suspected slights of his authority nearly threw him into
-fits. This was especially to be remarked if any one attempted to impose
-upon, or domineer over, his favourite: he was painfully jealous lest a
-word should be spoken amiss to him; seeming to have got into his head
-the notion that, because he liked [[Heathcliff]], all hated, and longed to
-do him an ill-turn. It was a disadvantage to the lad; for the kinder
-among us did not wish to fret the master, so we humoured his
-partiality; and that humouring was rich nourishment to the [[Child|child]]’s
-[[Pride|pride]] and black tempers. Still it became in a manner necessary; twice,
-or thrice, Hindley’s manifestation of scorn, while his father was near,
-roused the old man to a fury: he seized his stick to strike him, and
-shook with rage that he could not do it.
-
-At last, our curate (we had a curate then who made the living answer by
-teaching the little Lintons and Earnshaws, and farming his bit of land
-himself) advised that the young man should be sent to college; and Mr.
-Earnshaw agreed, though with a heavy spirit, for he said—“Hindley was
-nought, and would never thrive as where he wandered.”
-
-I hoped heartily we should have peace now. It hurt me to think the
-master should be made uncomfortable by his own good deed. I fancied the
-discontent of age and disease arose from his family disagreements; as
-he would have it that it did: really, you know, sir, it was in his
-sinking frame. We might have got on tolerably, notwithstanding, but for
-two people—Miss Cathy, and Joseph, the servant: you saw him, I daresay,
-up yonder. He was, and is yet most likely, the wearisomest
-[[Self|self]]-righteous Pharisee that ever ransacked a [[Bible]] to rake the
-promises to himself and fling the curses to his neighbours. By his
-knack of sermonising and pious discoursing, he contrived to make a
-great impression on Mr. Earnshaw; and the more feeble the master
-became, the more influence he gained. He was relentless in worrying him
-about his [[Soul|soul]]’s concerns, and about ruling his children rigidly. He
-encouraged him to regard Hindley as a reprobate; and, [[Night|night]] after
-[[Night|night]], he regularly grumbled out a long string of tales against
-[[Heathcliff]] and Catherine: always minding to flatter Earnshaw’s weakness
-by heaping the heaviest blame on the latter.
-
-Certainly she had ways with her such as I never saw a [[Child|child]] take up
-before; and she put all of us past our patience fifty times and oftener
-in a day: from the hour she came downstairs till the hour she went to
-bed, we had not a minute’s security that she wouldn’t be in mischief.
-Her spirits were always at high-[[Water|water]] mark, her tongue always
-going—singing, laughing, and plaguing everybody who would not do the
-same. A wild, wicked slip she was—but she had the bonniest eye, the
-sweetest smile, and lightest foot in the parish: and, after all, I
-believe she meant no harm; for when once she made you cry in good
-earnest, it seldom happened that she would not keep you company, and
-oblige you to be quiet that you might comfort her. She was much too
-fond of [[Heathcliff]]. The greatest punishment we could invent for her was
-to keep her separate from him: yet she got chided more than any of us
-on his account. In play, she liked exceedingly to act the little
-mistress; using her hands freely, and commanding her companions: she
-did so to me, but I would not bear slapping and ordering; and so I let
-her know.
-
-Now, Mr. Earnshaw did not understand jokes from his children: he had
-always been strict and [[Grave|grave]] with them; and Catherine, on her part, had
-no idea why her father should be crosser and less patient in his ailing
-condition than he was in his prime. His peevish reproofs wakened in her
-a naughty delight to provoke him: she was never so happy as when we
-were all scolding her at once, and she defying us with her bold, saucy
-look, and her ready words; turning Joseph’s religious curses into
-ridicule, baiting me, and doing just what her father hated most—showing
-how her pretended insolence, which he thought real, had more power over
-[[Heathcliff]] than his kindness: how the boy would do _her_ bidding in
-anything, and _his_ only when it suited his own inclination. After
-behaving as badly as possible all day, she sometimes came fondling to
-make it up at [[Night|night]]. “Nay, Cathy,” the old man would say, “I cannot
-[[Love|love]] thee, thou’rt worse than thy brother. Go, say thy prayers, [[Child|child]],
-and ask God’s pardon. I [[Doubt|doubt]] thy mother and I must rue that we ever
-reared thee!” That made her cry, at first; and then being repulsed
-continually hardened her, and she laughed if I told her to say she was
-sorry for her faults, and beg to be forgiven.
-
-But the hour came, at last, that ended Mr. Earnshaw’s troubles on
-earth. He died quietly in his chair one October evening, seated by the
-[[Fire|fire]]-side. A high [[Wind|wind]] blustered round the [[house]], and roared in the
-chimney: it sounded wild and stormy, yet it was not cold, and we were
-all together—I, a little removed from the hearth, busy at my knitting,
-and Joseph reading his [[Bible]] near the table (for the servants generally
-sat in the [[house]] then, after their work was done). Miss Cathy had been
-sick, and that made her still; she leant against her father’s knee, and
-[[Heathcliff]] was lying on the floor with his head in her lap. I remember
-the master, before he fell into a doze, stroking her bonny hair—it
-pleased him rarely to see her gentle—and saying, “Why canst thou not
-always be a good lass, Cathy?” And she turned her face up to his, and
-laughed, and answered, “Why cannot you always be a good man, father?”
-But as soon as she saw him vexed again, she kissed his hand, and said
-she would sing him to [[Sleep|sleep]]. She began singing very low, till his
-fingers dropped from hers, and his head sank on his breast. Then I told
-her to hush, and not stir, for [[Fear|fear]] she should wake him. We all kept as
-mute as mice a full half-hour, and should have done so longer, only
-Joseph, having finished his chapter, got up and said that he must rouse
-the master for prayers and bed. He stepped forward, and called him by
-name, and touched his shoulder; but he would not move: so he took the
-candle and looked at him. I thought there was something wrong as he set
-down the light; and seizing the children each by an arm, whispered them
-to “frame upstairs, and make little din—they might pray [[Alone|alone]] that
-evening—he had summut to do.”
-
-“I shall bid father good-[[Night|night]] first,” said Catherine, putting her arms
-round his neck, before we could hinder her. The poor thing discovered
-her loss directly—she screamed out—“Oh, he’s dead, [[Heathcliff]]! he’s
-dead!” And they both set up a heart-breaking cry.
-
-I joined my wail to theirs, loud and bitter; but Joseph asked what we
-could be thinking of to roar in that way over a saint in heaven. He
-told me to put on my cloak and run to Gimmerton for the doctor and the
-parson. I could not guess the use that either would be of, then.
-However, I went, through [[Wind|wind]] and rain, and brought one, the doctor,
-back with me; the other said he would come in the morning. Leaving
-Joseph to explain matters, I ran to the children’s room: their door was
-ajar, I saw they had never lain down, though it was past midnight; but
-they were calmer, and did not need me to console them. The little souls
-were comforting each other with better thoughts than I could have hit
-on: no parson in the world ever pictured heaven so beautifully as they
-did, in their [[Innocent|innocent]] talk; and, while I sobbed and listened, I could
-not help wishing we were all there safe together.
-
-
-
-
-<span class="atom-split" data-atom="chapter_16" data-title="Wuthering Heights — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
-
-
-CHAPTER XVI
-
-
-About twelve o’[[Clock|clock]] that [[Night|night]] was born the Catherine you saw at
-[[Wuthering Heights]]: a puny, seven-months’ [[Child|child]]; and two hours after the
-mother died, having never recovered sufficient consciousness to miss
-[[Heathcliff]], or know [[Edgar]]. The latter’s distraction at his bereavement
-is a subject too painful to be dwelt on; its after-effects showed how
-deep the sorrow sunk. A great addition, in my eyes, was his being left
-without an heir. I bemoaned that, as I gazed on the feeble [[Orphan|orphan]]; and
-I mentally abused old Linton for (what was only natural partiality) the
-securing his estate to his own daughter, instead of his son’s. An
-unwelcomed infant it was, poor thing! It might have wailed out of life,
-and nobody cared a morsel, during those first hours of existence. We
-redeemed the neglect afterwards; but its beginning was as friendless as
-its end is likely to be.
-
-Next morning—bright and cheerful out of doors—stole softened in through
-the blinds of the silent room, and suffused the couch and its occupant
-with a mellow, tender glow. [[Edgar Linton]] had his head laid on the
-pillow, and his eyes shut. His young and fair features were almost as
-deathlike as those of the form beside him, and almost as fixed: but
-_his_ was the hush of exhausted anguish, and _hers_ of perfect peace.
-Her brow smooth, her lids closed, her lips wearing the expression of a
-smile; no angel in heaven could be more beautiful than she appeared.
-And I partook of the infinite calm in which she lay: my mind was never
-in a holier frame than while I gazed on that untroubled image of Divine
-rest. I instinctively echoed the words she had uttered a few hours
-before: “Incomparably beyond and above us all! Whether still on earth
-or now in heaven, her spirit is at [[Home|home]] with God!”
-
-I don’t know if it be a peculiarity in me, but I am seldom otherwise
-than happy while watching in the chamber of [[Death|death]], should no frenzied
-or despairing mourner share the duty with me. I see a repose that
-neither earth nor hell can break, and I feel an assurance of the
-endless and shadowless hereafter—the [[Eternity]] they have entered—where
-life is boundless in its duration, and [[Love|love]] in its sympathy, and joy in
-its fulness. I noticed on that occasion how much selfishness there is
-even in a [[Love|love]] like Mr. Linton’s, when he so regretted Catherine’s
-blessed release! To be sure, one might have doubted, after the wayward
-and impatient existence she had led, whether she merited a haven of
-peace at last. One might [[Doubt|doubt]] in [[Seasons|seasons]] of cold reflection; but not
-then, in the presence of her corpse. It asserted its own tranquillity,
-which seemed a pledge of equal quiet to its former inhabitant.
-
-Do you believe such people _are_ happy in the other world, sir? I’d
-give a great deal to know.
-
-I declined answering Mrs. Dean’s question, which struck me as something
-heterodox. She proceeded:
-
-Retracing the course of Catherine Linton, I [[Fear|fear]] we have no right to
-think she is; but we’ll leave her with her Maker.
-
-The master looked asleep, and I ventured soon after sunrise to quit the
-room and steal out to the pure refreshing air. The servants thought me
-gone to shake off the drowsiness of my protracted watch; in reality, my
-chief motive was seeing Mr. [[Heathcliff]]. If he had remained among the
-larches all [[Night|night]], he would have heard nothing of the stir at the
-Grange; unless, perhaps, he might catch the gallop of the messenger
-going to Gimmerton. If he had come nearer, he would probably be aware,
-from the lights flitting to and fro, and the opening and shutting of
-the outer doors, that all was not right within. I wished, yet feared,
-to find him. I felt the terrible news must be told, and I longed to get
-it over; but _how_ to do it I did not know. He was there—at least, a
-few yards further in the park; leant against an old ash-tree, his hat
-off, and his hair soaked with the dew that had gathered on the budded
-branches, and fell pattering round him. He had been standing a long
-[[Time|time]] in that position, for I saw a pair of ousels passing and repassing
-scarcely three feet from him, busy in building their nest, and
-regarding his proximity no more than that of a piece of timber. They
-flew off at my approach, and he raised his eyes and spoke:—“She’s
-dead!” he said; “I’ve not waited for you to learn that. Put your
-handkerchief away—don’t snivel before me. Damn you all! she wants none
-of _your_ [[Tears|tears]]!”
-
-I was weeping as much for him as her: we do sometimes pity creatures
-that have none of the feeling either for themselves or others. When I
-first looked into his face, I perceived that he had got intelligence of
-the catastrophe; and a foolish notion struck me that his heart was
-quelled and he prayed, because his lips moved and his gaze was bent on
-the ground.
-
-“Yes, she’s dead!” I answered, checking my sobs and drying my cheeks.
-“Gone to heaven, I [[Hope|hope]]; where we may, every one, join her, if we take
-due warning and leave our evil ways to follow good!”
-
-“Did _she_ take due warning, then?” asked [[Heathcliff]], attempting a
-sneer. “Did she die like a saint? Come, give me a true [[history]] of the
-event. How did—?”
-
-He endeavoured to pronounce the name, but could not manage it; and
-compressing his mouth he held a silent combat with his inward agony,
-defying, meanwhile, my sympathy with an unflinching, ferocious stare.
-“How did she die?” he resumed, at last—fain, notwithstanding his
-hardihood, to have a support behind him; for, after the struggle, he
-trembled, in spite of himself, to his very finger-ends.
-
-“Poor wretch!” I thought; “you have a heart and nerves the same as your
-brother men! Why should you be anxious to conceal them? Your [[Pride|pride]]
-cannot blind God! You tempt him to wring them, till he forces a cry of
-humiliation.”
-
-“Quietly as a [[Lamb|lamb]]!” I answered, aloud. “She drew a sigh, and stretched
-herself, like a [[Child|child]] reviving, and sinking again to [[Sleep|sleep]]; and five
-minutes after I felt one little pulse at her heart, and nothing more!”
-
-“And—did she ever mention me?” he asked, hesitating, as if he dreaded
-the answer to his question would introduce details that he could not
-bear to hear.
-
-“Her senses never returned: she recognised nobody from the [[Time|time]] you
-left her,” I said. “She lies with a sweet smile on her face; and her
-latest ideas wandered back to pleasant early days. Her life closed in a
-gentle dream—may she wake as kindly in the other world!”
-
-“May she wake in torment!” he cried, with frightful vehemence, stamping
-his foot, and groaning in a sudden paroxysm of ungovernable passion.
-“Why, she’s a liar to the end! Where is she? Not _there_—not in
-heaven—not perished—where? Oh! you said you cared nothing for my
-sufferings! And I pray one [[prayer]]—I repeat it till my tongue
-stiffens—[[Catherine Earnshaw]], may you not rest as long as I am living;
-you said I killed you—haunt me, then! The murdered _do_ haunt their
-murderers, I believe. I know that [[Ghosts|ghosts]] _have_ wandered on earth. Be
-with me always—take any form—drive me mad! only _do_ not leave me in
-this abyss, where I cannot find you! Oh, God! it is unutterable! I
-_cannot_ live without my life! I _cannot_ live without my [[Soul|soul]]!”
-
-He dashed his head against the knotted trunk; and, lifting up his eyes,
-howled, not like a man, but like a savage beast being goaded to [[Death|death]]
-with knives and spears. I observed several splashes of [[Blood|blood]] about the
-bark of the tree, and his hand and forehead were both stained; probably
-the scene I witnessed was a repetition of others acted during the
-[[Night|night]]. It hardly moved my compassion—it appalled me: still, I felt
-reluctant to quit him so. But the moment he recollected himself enough
-to notice me watching, he thundered a command for me to go, and I
-obeyed. He was beyond my skill to quiet or console!
-
-Mrs. Linton’s funeral was appointed to take place on the Friday
-following her decease; and till then her coffin remained uncovered, and
-strewn with [[Flowers|flowers]] and scented [[Leaves|leaves]], in the great drawing-room.
-Linton spent his days and nights there, a sleepless guardian; and—a
-circumstance concealed from all but me—[[Heathcliff]] spent his nights, at
-least, outside, equally a stranger to repose. I held no communication
-with him; still, I was conscious of his design to enter, if he could;
-and on the Tuesday, a little after dark, when my master, from sheer
-fatigue, had been compelled to retire a couple of hours, I went and
-opened one of the windows; moved by his perseverance to give him a
-chance of bestowing on the faded image of his idol one final adieu. He
-did not omit to avail himself of the opportunity, cautiously and
-briefly; too cautiously to betray his presence by the slightest noise.
-Indeed, I shouldn’t have discovered that he had been there, except for
-the disarrangement of the drapery about the corpse’s face, and for
-observing on the floor a curl of light hair, fastened with a silver
-thread; which, on examination, I ascertained to have been taken from a
-locket hung round Catherine’s neck. [[Heathcliff]] had opened the trinket
-and cast out its contents, replacing them by a black lock of his own. I
-twisted the two, and enclosed them together.
-
-Mr. Earnshaw was, of course, invited to attend the remains of his
-sister to the [[Grave|grave]]; he sent no excuse, but he never came; so that,
-besides her husband, the mourners were wholly composed of tenants and
-servants. [[Isabella]] was not asked.
-
-The place of Catherine’s interment, to the surprise of the villagers,
-was neither in the chapel under the carved monument of the Lintons, nor
-yet by the tombs of her own relations, outside. It was dug on a green
-slope in a corner of the kirkyard, where the wall is so low that heath
-and bilberry-plants have climbed over it from the moor; and peat-mould
-almost buries it. Her husband lies in the same spot now; and they have
-each a simple headstone above, and a plain grey block at their feet, to
-mark the graves.
-
-
-
-
-<span class="atom-split" data-atom="chapter_19" data-title="Wuthering Heights — Chapter 19" data-chapter="Chapter 19" data-kind="chapter"></span>
-
-
-CHAPTER XIX
-
-
-A letter, edged with black, announced the day of my master’s return.
-[[Isabella]] was dead; and he wrote to bid me get mourning for his
-daughter, and arrange a room, and other accommodations, for his
-youthful nephew. Catherine ran wild with joy at the idea of welcoming
-her father back; and indulged most sanguine anticipations of the
-innumerable excellencies of her “real” cousin. The evening of their
-expected arrival came. Since early morning she had been busy ordering
-her own small affairs; and now attired in her new black frock—poor
-thing! her aunt’s [[Death|death]] impressed her with no definite sorrow—she
-obliged me, by constant worrying, to walk with her down through the
-grounds to meet them.
-
-“Linton is just six months younger than I am,” she chattered, as we
-strolled leisurely over the swells and hollows of mossy turf, under
-[[Shadow|shadow]] of the trees. “How delightful it will be to have him for a
-playfellow! Aunt [[Isabella]] sent papa a beautiful lock of his hair; it
-was lighter than mine—more flaxen, and quite as fine. I have it
-carefully preserved in a little glass box; and I’ve often thought what
-a pleasure it would be to see its owner. Oh! I am happy—and papa, dear,
-dear papa! Come, Ellen, let us run! come, run.”
-
-She ran, and returned and ran again, many times before my sober
-footsteps reached the gate, and then she seated herself on the grassy
-bank beside the path, and tried to wait patiently; but that was
-impossible: she couldn’t be still a minute.
-
-“How long they are!” she exclaimed. “Ah, I see some [[Dust|dust]] on the
-[[Road|road]]—they are coming! No! When will they be here? May we not go a
-little way—half a mile, Ellen, only just half a mile? Do say yes, to
-that clump of birches at the turn!”
-
-I refused staunchly. At length her suspense was ended: the travelling
-carriage rolled in sight. Miss Cathy shrieked and stretched out her
-arms as soon as she caught her father’s face looking from the [[Window|window]].
-He descended, nearly as eager as herself; and a considerable interval
-elapsed ere they had a thought to spare for any but themselves. While
-they exchanged caresses I took a peep in to see after Linton. He was
-asleep in a corner, wrapped in a warm, fur-lined cloak, as if it had
-been [[Winter|winter]]. A pale, delicate, effeminate boy, who might have been
-taken for my master’s younger brother, so strong was the resemblance:
-but there was a sickly peevishness in his aspect that [[Edgar Linton]]
-never had. The latter saw me looking; and having shaken hands, advised
-me to close the door, and leave him undisturbed; for the [[Journey|journey]] had
-fatigued him. Cathy would fain have taken one glance, but her father
-told her to come, and they walked together up the park, while I
-hastened before to prepare the servants.
-
-“Now, darling,” said Mr. Linton, addressing his daughter, as they
-halted at the [[Bottom|bottom]] of the front steps: “your cousin is not so strong
-or so merry as you are, and he has lost his mother, remember, a very
-short [[Time|time]] since; therefore, don’t expect him to play and run about
-with you directly. And don’t harass him much by talking: let him be
-quiet this evening, at least, will you?”
-
-“Yes, yes, papa,” answered Catherine: “but I do want to see him; and he
-hasn’t once looked out.”
-
-The carriage stopped; and [[The Sleeper|the sleeper]] being roused, was lifted to the
-ground by his uncle.
-
-“This is your cousin Cathy, Linton,” he said, putting their little
-hands together. “She’s fond of you already; and mind you don’t grieve
-her by crying to-[[Night|night]]. Try to be cheerful now; the travelling is at an
-end, and you have nothing to do but rest and amuse yourself as you
-please.”
-
-“Let me go to bed, then,” answered the boy, shrinking from Catherine’s
-salute; and he put his fingers to his eyes to remove incipient [[Tears|tears]].
-
-“Come, come, there’s a good [[Child|child]],” I whispered, leading him in.
-“You’ll make her weep too—see how sorry she is for you!”
-
-I do not know whether it was sorrow for him, but his cousin put on as
-sad a countenance as himself, and returned to her father. All three
-entered, and mounted to the library, where tea was laid ready. I
-proceeded to remove Linton’s cap and mantle, and placed him on a chair
-by the table; but he was no sooner seated than he began to cry afresh.
-My master inquired what was the matter.
-
-“I can’t sit on a chair,” sobbed the boy.
-
-“Go to the sofa, then, and Ellen shall bring you some tea,” answered
-his uncle patiently.
-
-He had been greatly tried, during the [[Journey|journey]], I felt convinced, by his
-fretful ailing charge. Linton slowly trailed himself off, and lay down.
-Cathy carried a footstool and her cup to his side. At first she sat
-silent; but that could not last: she had resolved to make a pet of her
-little cousin, as she would have him to be; and she commenced stroking
-his curls, and kissing his cheek, and offering him tea in her saucer,
-like a baby. This pleased him, for he was not much better: he dried his
-eyes, and lightened into a faint smile.
-
-“Oh, he’ll do very [[Well|well]],” said the master to me, after watching them a
-minute. “Very [[Well|well]], if we can keep him, Ellen. The company of a [[Child|child]]
-of his own age will instil new spirit into him soon, and by wishing for
-strength he’ll gain it.”
-
-“Ay, if we can keep him!” I mused to myself; and sore misgivings came
-over me that there was slight [[Hope|hope]] of that. And then, I thought, how
-ever will that weakling live at [[Wuthering Heights]]? Between his father
-and Hareton, what playmates and instructors they’ll be. Our doubts were
-presently decided—even earlier than I expected. I had just taken the
-children upstairs, after tea was finished, and seen Linton asleep—he
-would not suffer me to leave him till that was the case—I had come
-down, and was standing by the table in the hall, lighting a bedroom
-candle for Mr. [[Edgar]], when a maid stepped out of the kitchen and
-informed me that Mr. [[Heathcliff]]’s servant Joseph was at the door, and
-wished to speak with the master.
-
-“I shall ask him what he wants first,” I said, in considerable
-trepidation. “A very unlikely hour to be troubling people, and the
-instant they have returned from a long [[Journey|journey]]. I don’t think the
-master can see him.”
-
-Joseph had advanced through the kitchen as I uttered these words, and
-now presented himself in the hall. He was donned in his [[Sunday]]
-garments, with his most sanctimonious and sourest face, and, holding
-his hat in one hand, and his stick in the other, he proceeded to clean
-his shoes on the mat.
-
-“Good-evening, Joseph,” I said, coldly. “What business brings you here
-to-[[Night|night]]?”
-
-“It’s Maister Linton I mun spake to,” he answered, waving me
-disdainfully aside.
-
-“Mr. Linton is going to bed; unless you have something particular to
-say, I’m sure he won’t hear it now,” I continued. “You had better sit
-down in there, and entrust your message to me.”
-
-“Which is his rahm?” pursued the fellow, surveying the range of closed
-doors.
-
-I perceived he was bent on refusing my mediation, so very reluctantly I
-went up to the library, and announced the unseasonable visitor,
-advising that he should be dismissed till next day. Mr. Linton had no
-[[Time|time]] to empower me to do so, for Joseph mounted close at my heels, and,
-pushing into the apartment, planted himself at the far side of the
-table, with his two fists clapped on the head of his stick, and began
-in an elevated tone, as if anticipating opposition—
-
-“Hathecliff has sent me for his lad, and I munn’t goa back ’bout him.”
-
-[[Edgar Linton]] was silent a minute; an expression of exceeding sorrow
-overcast his features: he would have pitied the [[Child|child]] on his own
-account; but, recalling [[Isabella]]’s hopes and fears, and anxious wishes
-for her son, and her commendations of him to his care, he grieved
-bitterly at the prospect of yielding him up, and searched in his heart
-how it might be avoided. No plan offered itself: the very exhibition of
-any [[Desire|desire]] to keep him would have rendered the claimant more
-peremptory: there was nothing left but to resign him. However, he was
-not going to rouse him from his [[Sleep|sleep]].
-
-“Tell Mr. [[Heathcliff]],” he answered calmly, “that his son shall come to
-[[Wuthering Heights]] to-morrow. He is in bed, and too tired to go the
-distance now. You may also tell him that the mother of Linton desired
-him to remain under my guardianship; and, at present, his health is
-very precarious.”
-
-“Noa!” said Joseph, giving a thud with his prop on the floor, and
-assuming an authoritative air. “Noa! that means naught. Hathecliff maks
-noa ’count o’ t’ mother, nor ye norther; but he’ll hev his lad; und I
-mun tak’ him—soa now ye knaw!”
-
-“You shall not to-[[Night|night]]!” answered Linton decisively. “Walk down stairs
-at once, and repeat to your master what I have said. Ellen, show him
-down. Go—”
-
-And, aiding the indignant elder with a lift by the arm, he rid the room
-of him and closed the door.
-
-“Varrah weell!” shouted Joseph, as he slowly drew off. “To-morn, he’s
-come hisseln, and thrust _him_ out, if ye darr!”
-
-
-
-
-<span class="atom-split" data-atom="chapter_25" data-title="Wuthering Heights — Chapter 25" data-chapter="Chapter 25" data-kind="chapter"></span>
-
-
-CHAPTER XXV
-
-
-“These things happened last [[Winter|winter]], sir,” said Mrs. Dean; “hardly more
-than a year ago. Last [[Winter|winter]], I did not think, at another twelve
-months’ end, I should be amusing a stranger to the family with relating
-them! Yet, who knows how long you’ll be a stranger? You’re too young to
-rest always contented, living by yourself; and I some way fancy no one
-could see Catherine Linton and not [[Love|love]] her. You smile; but why do you
-look so lively and interested when I talk about her? and why have you
-asked me to hang her picture over your fireplace? and why—?”
-
-“Stop, my good friend!” I cried. “It may be very possible that _I_
-should [[Love|love]] her; but would she [[Love|love]] me? I [[Doubt|doubt]] it too much to venture
-my tranquillity by running into [[Temptation|temptation]]: and then my [[Home|home]] is not
-here. I’m of the busy world, and to its arms I must return. Go on. Was
-Catherine obedient to her father’s commands?”
-
-“She was,” continued the housekeeper. “Her affection for him was still
-the chief sentiment in her heart; and he spoke without anger: he spoke
-in the deep tenderness of one about to leave his treasure amid perils
-and foes, where his remembered words would be the only aid that he
-could bequeath to guide her. He said to me, a few days afterwards, ‘I
-wish my nephew would write, Ellen, or call. Tell me, sincerely, what
-you think of him: is he changed for the better, or is there a prospect
-of improvement, as he grows a man?’
-
-“‘He’s very delicate, sir,’ I replied; ‘and scarcely likely to reach
-manhood: but this I can say, he does not resemble his father; and if
-Miss Catherine had the misfortune to marry him, he would not be beyond
-her control: unless she were extremely and foolishly indulgent.
-However, master, you’ll have plenty of [[Time|time]] to get acquainted with him
-and see whether he would suit her: it wants four years and more to his
-being of age.’”
-
-[[Edgar]] sighed; and, walking to the [[Window|window]], looked out towards Gimmerton
-Kirk. It was a misty afternoon, but the February sun shone dimly, and
-we could just distinguish the two fir-trees in the yard, and the
-sparely-scattered gravestones.
-
-“I’ve prayed often,” he half soliloquised, “for the approach of what is
-coming; and now I begin to shrink, and [[Fear|fear]] it. I thought the [[Memory|memory]] of
-the hour I came down that glen a bridegroom would be less sweet than
-the anticipation that I was soon, in a few months, or, possibly, weeks,
-to be carried up, and laid in its lonely hollow! Ellen, I’ve been very
-happy with my little Cathy: through [[Winter|winter]] nights and [[Summer|summer]] days she
-was a living [[Hope|hope]] at my side. But I’ve been as happy musing by myself
-among those stones, under that old church: lying, through the long June
-evenings, on the green mound of her mother’s [[Grave|grave]], and
-wishing—yearning for the [[Time|time]] when I might lie beneath it. What can I
-do for Cathy? How must I quit her? I’d not care one moment for Linton
-being [[Heathcliff]]’s son; nor for his taking her from me, if he could
-console her for my loss. I’d not care that [[Heathcliff]] gained his ends,
-and triumphed in robbing me of my last blessing! But should Linton be
-unworthy—only a feeble tool to his father—I cannot abandon her to him!
-And, hard though it be to crush her buoyant spirit, I must persevere in
-making her sad while I live, and leaving her solitary when I die.
-Darling! I’d rather resign her to God, and lay her in the earth before
-me.”
-
-“Resign her to God as it is, sir,” I answered, “and if we should lose
-you—which may He forbid—under His [[Providence|providence]], I’ll stand her friend and
-counsellor to the last. Miss Catherine is a good girl: I don’t [[Fear|fear]]
-that she will go wilfully wrong; and people who do their duty are
-always finally rewarded.”
-
-[[Spring]] advanced; yet my master gathered no real strength, though he
-resumed his walks in the grounds with his daughter. To her
-inexperienced notions, this itself was a sign of convalescence; and
-then his cheek was often flushed, and his eyes were bright; she felt
-sure of his recovering. On her seventeenth birthday, he did not visit
-the churchyard: it was raining, and I observed—
-
-“You’ll surely not go out to-[[Night|night]], sir?”
-
-He answered,—“No, I’ll defer it this year a little longer.”
-
-He wrote again to Linton, expressing his great [[Desire|desire]] to see him; and,
-had the invalid been presentable, I’ve no [[Doubt|doubt]] his father would have
-permitted him to come. As it was, being instructed, he returned an
-answer, intimating that Mr. [[Heathcliff]] objected to his calling at the
-Grange; but his uncle’s kind remembrance delighted him, and he hoped to
-meet him sometimes in his rambles, and personally to petition that his
-cousin and he might not remain long so utterly divided.
-
-That part of his letter was simple, and probably his own. [[Heathcliff]]
-knew he could plead eloquently for Catherine’s company, then.
-
-“I do not ask,” he said, “that she may visit here; but am I never to
-see her, because my father forbids me to go to her [[Home|home]], and you forbid
-her to come to mine? Do, now and then, ride with her towards the
-Heights; and let us exchange a few words, in your presence! We have
-done nothing to deserve this separation; and you are not angry with me:
-you have no reason to dislike me, you allow, yourself. Dear uncle! send
-me a kind note to-morrow, and leave to join you anywhere you please,
-except at Thrushcross Grange. I believe an interview would convince you
-that my father’s character is not mine: he affirms I am more your
-nephew than his son; and though I have faults which render me unworthy
-of Catherine, she has excused them, and for her sake, you should also.
-You inquire after my health—it is better; but while I remain cut off
-from all [[Hope|hope]], and doomed to [[Solitude|solitude]], or the society of those who
-never did and never will like me, how can I be cheerful and [[Well|well]]?”
-
-[[Edgar]], though he felt for the boy, could not consent to grant his
-request; because he could not accompany Catherine. He said, in [[Summer|summer]],
-perhaps, they might meet: meantime, he wished him to continue writing
-at intervals, and engaged to give him what advice and comfort he was
-able by letter; being [[Well|well]] aware of his hard position in his family.
-Linton complied; and had he been unrestrained, would probably have
-spoiled all by filling his epistles with complaints and lamentations:
-but his father kept a sharp watch over him; and, of course, insisted on
-every line that my master sent being shown; so, instead of penning his
-peculiar personal sufferings and distresses, the themes constantly
-uppermost in his thoughts, he harped on the cruel obligation of being
-held asunder from his friend and [[Love|love]]; and gently intimated that Mr.
-Linton must allow an interview soon, or he should [[Fear|fear]] he was purposely
-deceiving him with empty promises.
-
-Cathy was a powerful ally at [[Home|home]]; and between them they at length
-persuaded my master to acquiesce in their having a ride or a walk
-together about once a week, under my guardianship, and on the moors
-nearest the Grange: for June found him still declining. Though he had
-set aside yearly a portion of his income for my young lady’s fortune,
-he had a natural [[Desire|desire]] that she might retain—or at least return in a
-short [[Time|time]] to—the [[house]] of her ancestors; and he considered her only
-prospect of doing that was by a [[Union|union]] with his heir; he had no idea
-that the latter was failing almost as fast as himself; nor had any one,
-I believe: no doctor visited the Heights, and no one saw Master
-[[Heathcliff]] to make report of his condition among us. I, for my part,
-began to fancy my forebodings were false, and that he must be actually
-rallying, when he mentioned riding and walking on the moors, and seemed
-so earnest in pursuing his object. I could not picture a father
-treating a dying [[Child|child]] as tyrannically and wickedly as I afterwards
-learned [[Heathcliff]] had treated him, to compel this apparent eagerness:
-his efforts redoubling the more imminently his avaricious and unfeeling
-plans were threatened with defeat by [[Death|death]].
-
-
-
-
-<span class="atom-split" data-atom="chapter_26" data-title="Wuthering Heights — Chapter 26" data-chapter="Chapter 26" data-kind="chapter"></span>
-
-
-CHAPTER XXVI
-
-
-[[Summer]] was already past its prime, when [[Edgar]] reluctantly yielded his
-assent to their entreaties, and Catherine and I set out on our first
-ride to join her cousin. It was a close, sultry day: devoid of
-sunshine, but with a sky too dappled and hazy to threaten rain: and our
-place of meeting had been fixed at the guide-stone, by the [[Cross|cross]]-roads.
-On arriving there, however, a little herd-boy, despatched as a
-messenger, told us that,—“Maister Linton wer just o’ this side th’
-Heights: and he’d be mitch obleeged to us to gang on a bit further.”
-
-“Then Master Linton has forgot the first injunction of his uncle,” I
-observed: “he bid us keep on the Grange land, and here we are off at
-once.”
-
-“[[Well]], we’ll turn our horses’ heads round when we reach him,” answered
-my companion; “our excursion shall lie towards [[Home|home]].”
-
-But when we reached him, and that was scarcely a quarter of a mile from
-his own door, we found he had no [[Horse|horse]]; and we were forced to dismount,
-and leave ours to graze. He lay on the heath, awaiting our approach,
-and did not rise till we came within a few yards. Then he walked so
-feebly, and looked so pale, that I immediately exclaimed,—“Why, Master
-[[Heathcliff]], you are not fit for enjoying a ramble this morning. How ill
-you do look!”
-
-Catherine surveyed him with grief and astonishment: she changed the
-ejaculation of joy on her lips to one of alarm; and the congratulation
-on their long-postponed meeting to an anxious inquiry, whether he were
-worse than usual?
-
-“No—better—better!” he panted, trembling, and retaining her hand as if
-he needed its support, while his large blue eyes wandered timidly over
-her; the hollowness round them transforming to haggard wildness the
-languid expression they once possessed.
-
-“But you have been worse,” persisted his cousin; “worse than when I saw
-you last; you are thinner, and—”
-
-“I’m tired,” he interrupted, hurriedly. “It is too hot for walking, let
-us rest here. And, in the morning, I often feel sick—papa says I grow
-so fast.”
-
-Badly satisfied, Cathy sat down, and he reclined beside her.
-
-“This is something like your paradise,” said she, making an effort at
-cheerfulness. “You recollect the two days we agreed to spend in the
-place and way each thought pleasantest? This is nearly yours, only
-there are clouds; but then they are so soft and mellow: it is nicer
-than sunshine. Next week, if you can, we’ll ride down to the Grange
-Park, and try mine.”
-
-Linton did not appear to remember what she talked of; and he had
-evidently great difficulty in sustaining any kind of conversation. His
-lack of interest in the subjects she started, and his equal incapacity
-to contribute to her entertainment, were so obvious that she could not
-conceal her disappointment. An indefinite alteration had come over his
-whole person and manner. The pettishness that might be caressed into
-fondness, had yielded to a listless apathy; there was less of the
-peevish temper of a [[Child|child]] which frets and teases on purpose to be
-soothed, and more of the [[Self|self]]-absorbed moroseness of a confirmed
-invalid, repelling consolation, and ready to regard the good-humoured
-mirth of others as an insult. Catherine perceived, as [[Well|well]] as I did,
-that he held it rather a punishment, than a gratification, to endure
-our company; and she made no scruple of proposing, presently, to
-depart. That proposal, unexpectedly, roused Linton from his lethargy,
-and threw him into a strange state of agitation. He glanced fearfully
-towards the Heights, begging she would remain another half-hour, at
-least.
-
-“But I think,” said Cathy, “you’d be more comfortable at [[Home|home]] than
-sitting here; and I cannot amuse you to-day, I see, by my tales, and
-[[songs]], and chatter: you have grown wiser than I, in these six months;
-you have little taste for my diversions now: or else, if I could amuse
-you, I’d willingly stay.”
-
-“Stay to rest yourself,” he replied. “And, Catherine, don’t think or
-say that I’m _very_ unwell: it is the heavy weather and heat that make
-me dull; and I walked about, before you came, a great deal for me. Tell
-uncle I’m in tolerable health, will you?”
-
-“I’ll tell him that _you_ say so, Linton. I couldn’t affirm that you
-are,” observed my young lady, wondering at his pertinacious assertion
-of what was evidently an untruth.
-
-“And be here again next [[thursday|Thursday]],” continued he, shunning her puzzled
-gaze. “And give him my thanks for permitting you to come—my best
-thanks, Catherine. And—and, if you _did_ meet my father, and he asked
-you about me, don’t lead him to suppose that I’ve been extremely silent
-and stupid: don’t look sad and downcast, as you _are_ doing—he’ll be
-angry.”
-
-“I care nothing for his anger,” exclaimed Cathy, imagining she would be
-its object.
-
-“But I do,” said her cousin, shuddering. “_Don’t_ provoke him against
-me, Catherine, for he is very hard.”
-
-“Is he severe to you, Master [[Heathcliff]]?” I inquired. “Has he grown
-weary of indulgence, and passed from passive to active hatred?”
-
-Linton looked at me, but did not answer; and, after keeping her seat by
-his side another ten minutes, during which his head fell drowsily on
-his breast, and he uttered nothing except suppressed moans of
-exhaustion or [[Pain|pain]], Cathy began to seek solace in looking for
-bilberries, and sharing the produce of her researches with me: she did
-not offer them to him, for she saw further notice would only weary and
-annoy.
-
-“Is it half-an-hour now, Ellen?” she whispered in my ear, at last. “I
-can’t tell why we should stay. He’s asleep, and papa will be wanting us
-back.”
-
-“[[Well]], we must not leave him asleep,” I answered; “wait till he wakes,
-and be patient. You were mighty eager to set off, but your [[Longing|longing]] to
-see poor Linton has soon evaporated!”
-
-“Why did _he_ wish to see me?” returned Catherine. “In his crossest
-humours, formerly, I liked him better than I do in his present curious
-mood. It’s just as if it were a task he was compelled to perform—this
-interview—for [[Fear|fear]] his father should scold him. But I’m hardly going to
-come to give Mr. [[Heathcliff]] pleasure; whatever reason he may have for
-ordering Linton to undergo this penance. And, though I’m glad he’s
-better in health, I’m sorry he’s so much less pleasant, and so much
-less affectionate to me.”
-
-“You think _he is_ better in health, then?” I said.
-
-“Yes,” she answered; “because he always made such a great deal of his
-sufferings, you know. He is not tolerably [[Well|well]], as he told me to tell
-papa; but he’s better, very likely.”
-
-“There you differ with me, Miss Cathy,” I remarked; “I should
-conjecture him to be far worse.”
-
-Linton here started from his slumber in bewildered terror, and asked if
-any one had called his name.
-
-“No,” said Catherine; “unless in [[Dreams|dreams]]. I cannot conceive how you
-manage to doze out of doors, in the morning.”
-
-“I thought I heard my father,” he gasped, glancing up to the frowning
-nab above us. “You are sure nobody spoke?”
-
-“Quite sure,” replied his cousin. “Only Ellen and I were disputing
-concerning your health. Are you truly stronger, Linton, than when we
-separated in [[Winter|winter]]? If you be, I’m certain one thing is not
-stronger—your regard for me: speak,—are you?”
-
-The [[Tears|tears]] gushed from Linton’s eyes as he answered, “Yes, yes, I am!”
-And, still under the spell of the imaginary voice, his gaze wandered up
-and down to detect its owner.
-
-Cathy [[Rose|rose]]. “For to-day we must part,” she said. “And I won’t conceal
-that I have been sadly disappointed with our meeting; though I’ll
-mention it to nobody but you: not that I stand in awe of Mr.
-[[Heathcliff]].”
-
-“Hush,” murmured Linton; “for God’s sake, hush! He’s coming.” And he
-clung to Catherine’s arm, striving to detain her; but at that
-announcement she hastily disengaged herself, and whistled to Minny, who
-obeyed her like a dog.
-
-“I’ll be here next [[thursday|Thursday]],” she cried, springing to the saddle.
-“Good-bye. Quick, Ellen!”
-
-And so we left him, scarcely conscious of our departure, so absorbed
-was he in anticipating his father’s approach.
-
-Before we reached [[Home|home]], Catherine’s displeasure softened into a
-perplexed sensation of pity and regret, largely blended with vague,
-uneasy doubts about Linton’s actual circumstances, physical and social:
-in which I partook, though I counselled her not to say much; for a
-second [[Journey|journey]] would make us better judges. My master requested an
-account of our ongoings. His nephew’s offering of thanks was duly
-delivered, Miss Cathy gently touching on the rest: I also threw little
-light on his inquiries, for I hardly knew what to hide and what to
-reveal.
-
-
-
-
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="Wuthering Heights — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
 
@@ -14633,6 +13810,137 @@ blame of his bruises on the [[Horse|horse]]: he minded little what tale was told
 since he had what he wanted. He complained so seldom, indeed, of such
 stirs as these, that I really thought him not vindictive: I was
 deceived completely, as you will hear.
+
+
+
+
+<span class="atom-split" data-atom="chapter_05" data-title="Wuthering Heights — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+
+
+CHAPTER V
+
+
+In the course of [[Time|time]] Mr. Earnshaw began to fail. He had been active
+and healthy, yet his strength left him suddenly; and when he was
+confined to the chimney-corner he grew grievously irritable. A nothing
+vexed him; and suspected slights of his authority nearly threw him into
+fits. This was especially to be remarked if any one attempted to impose
+upon, or domineer over, his favourite: he was painfully jealous lest a
+word should be spoken amiss to him; seeming to have got into his head
+the notion that, because he liked [[Heathcliff]], all hated, and longed to
+do him an ill-turn. It was a disadvantage to the lad; for the kinder
+among us did not wish to fret the master, so we humoured his
+partiality; and that humouring was rich nourishment to the [[Child|child]]’s
+[[Pride|pride]] and black tempers. Still it became in a manner necessary; twice,
+or thrice, Hindley’s manifestation of scorn, while his father was near,
+roused the old man to a fury: he seized his stick to strike him, and
+shook with rage that he could not do it.
+
+At last, our curate (we had a curate then who made the living answer by
+teaching the little Lintons and Earnshaws, and farming his bit of land
+himself) advised that the young man should be sent to college; and Mr.
+Earnshaw agreed, though with a heavy spirit, for he said—“Hindley was
+nought, and would never thrive as where he wandered.”
+
+I hoped heartily we should have peace now. It hurt me to think the
+master should be made uncomfortable by his own good deed. I fancied the
+discontent of age and disease arose from his family disagreements; as
+he would have it that it did: really, you know, sir, it was in his
+sinking frame. We might have got on tolerably, notwithstanding, but for
+two people—Miss Cathy, and Joseph, the servant: you saw him, I daresay,
+up yonder. He was, and is yet most likely, the wearisomest
+[[Self|self]]-righteous Pharisee that ever ransacked a [[Bible]] to rake the
+promises to himself and fling the curses to his neighbours. By his
+knack of sermonising and pious discoursing, he contrived to make a
+great impression on Mr. Earnshaw; and the more feeble the master
+became, the more influence he gained. He was relentless in worrying him
+about his [[Soul|soul]]’s concerns, and about ruling his children rigidly. He
+encouraged him to regard Hindley as a reprobate; and, [[Night|night]] after
+[[Night|night]], he regularly grumbled out a long string of tales against
+[[Heathcliff]] and Catherine: always minding to flatter Earnshaw’s weakness
+by heaping the heaviest blame on the latter.
+
+Certainly she had ways with her such as I never saw a [[Child|child]] take up
+before; and she put all of us past our patience fifty times and oftener
+in a day: from the hour she came downstairs till the hour she went to
+bed, we had not a minute’s security that she wouldn’t be in mischief.
+Her spirits were always at high-[[Water|water]] mark, her tongue always
+going—singing, laughing, and plaguing everybody who would not do the
+same. A wild, wicked slip she was—but she had the bonniest eye, the
+sweetest smile, and lightest foot in the parish: and, after all, I
+believe she meant no harm; for when once she made you cry in good
+earnest, it seldom happened that she would not keep you company, and
+oblige you to be quiet that you might comfort her. She was much too
+fond of [[Heathcliff]]. The greatest punishment we could invent for her was
+to keep her separate from him: yet she got chided more than any of us
+on his account. In play, she liked exceedingly to act the little
+mistress; using her hands freely, and commanding her companions: she
+did so to me, but I would not bear slapping and ordering; and so I let
+her know.
+
+Now, Mr. Earnshaw did not understand jokes from his children: he had
+always been strict and [[Grave|grave]] with them; and Catherine, on her part, had
+no idea why her father should be crosser and less patient in his ailing
+condition than he was in his prime. His peevish reproofs wakened in her
+a naughty delight to provoke him: she was never so happy as when we
+were all scolding her at once, and she defying us with her bold, saucy
+look, and her ready words; turning Joseph’s religious curses into
+ridicule, baiting me, and doing just what her father hated most—showing
+how her pretended insolence, which he thought real, had more power over
+[[Heathcliff]] than his kindness: how the boy would do _her_ bidding in
+anything, and _his_ only when it suited his own inclination. After
+behaving as badly as possible all day, she sometimes came fondling to
+make it up at [[Night|night]]. “Nay, Cathy,” the old man would say, “I cannot
+[[Love|love]] thee, thou’rt worse than thy brother. Go, say thy prayers, [[Child|child]],
+and ask God’s pardon. I [[Doubt|doubt]] thy mother and I must rue that we ever
+reared thee!” That made her cry, at first; and then being repulsed
+continually hardened her, and she laughed if I told her to say she was
+sorry for her faults, and beg to be forgiven.
+
+But the hour came, at last, that ended Mr. Earnshaw’s troubles on
+earth. He died quietly in his chair one October evening, seated by the
+[[Fire|fire]]-side. A high [[Wind|wind]] blustered round the [[house]], and roared in the
+chimney: it sounded wild and stormy, yet it was not cold, and we were
+all together—I, a little removed from the hearth, busy at my knitting,
+and Joseph reading his [[Bible]] near the table (for the servants generally
+sat in the [[house]] then, after their work was done). Miss Cathy had been
+sick, and that made her still; she leant against her father’s knee, and
+[[Heathcliff]] was lying on the floor with his head in her lap. I remember
+the master, before he fell into a doze, stroking her bonny hair—it
+pleased him rarely to see her gentle—and saying, “Why canst thou not
+always be a good lass, Cathy?” And she turned her face up to his, and
+laughed, and answered, “Why cannot you always be a good man, father?”
+But as soon as she saw him vexed again, she kissed his hand, and said
+she would sing him to [[Sleep|sleep]]. She began singing very low, till his
+fingers dropped from hers, and his head sank on his breast. Then I told
+her to hush, and not stir, for [[Fear|fear]] she should wake him. We all kept as
+mute as mice a full half-hour, and should have done so longer, only
+Joseph, having finished his chapter, got up and said that he must rouse
+the master for prayers and bed. He stepped forward, and called him by
+name, and touched his shoulder; but he would not move: so he took the
+candle and looked at him. I thought there was something wrong as he set
+down the light; and seizing the children each by an arm, whispered them
+to “frame upstairs, and make little din—they might pray [[Alone|alone]] that
+evening—he had summut to do.”
+
+“I shall bid father good-[[Night|night]] first,” said Catherine, putting her arms
+round his neck, before we could hinder her. The poor thing discovered
+her loss directly—she screamed out—“Oh, he’s dead, [[Heathcliff]]! he’s
+dead!” And they both set up a heart-breaking cry.
+
+I joined my wail to theirs, loud and bitter; but Joseph asked what we
+could be thinking of to roar in that way over a saint in heaven. He
+told me to put on my cloak and run to Gimmerton for the doctor and the
+parson. I could not guess the use that either would be of, then.
+However, I went, through [[Wind|wind]] and rain, and brought one, the doctor,
+back with me; the other said he would come in the morning. Leaving
+Joseph to explain matters, I ran to the children’s room: their door was
+ajar, I saw they had never lain down, though it was past midnight; but
+they were calmer, and did not need me to console them. The little souls
+were comforting each other with better thoughts than I could have hit
+on: no parson in the world ever pictured heaven so beautifully as they
+did, in their [[Innocent|innocent]] talk; and, while I sobbed and listened, I could
+not help wishing we were all there safe together.
 
 
 
@@ -19283,6 +18591,185 @@ ascertaining that what I stated was apparently true, delivered the
 
 
 
+<span class="atom-split" data-atom="chapter_16" data-title="Wuthering Heights — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+
+
+CHAPTER XVI
+
+
+About twelve o’[[Clock|clock]] that [[Night|night]] was born the Catherine you saw at
+[[Wuthering Heights]]: a puny, seven-months’ [[Child|child]]; and two hours after the
+mother died, having never recovered sufficient consciousness to miss
+[[Heathcliff]], or know [[Edgar]]. The latter’s distraction at his bereavement
+is a subject too painful to be dwelt on; its after-effects showed how
+deep the sorrow sunk. A great addition, in my eyes, was his being left
+without an heir. I bemoaned that, as I gazed on the feeble [[Orphan|orphan]]; and
+I mentally abused old Linton for (what was only natural partiality) the
+securing his estate to his own daughter, instead of his son’s. An
+unwelcomed infant it was, poor thing! It might have wailed out of life,
+and nobody cared a morsel, during those first hours of existence. We
+redeemed the neglect afterwards; but its beginning was as friendless as
+its end is likely to be.
+
+Next morning—bright and cheerful out of doors—stole softened in through
+the blinds of the silent room, and suffused the couch and its occupant
+with a mellow, tender glow. [[Edgar Linton]] had his head laid on the
+pillow, and his eyes shut. His young and fair features were almost as
+deathlike as those of the form beside him, and almost as fixed: but
+_his_ was the hush of exhausted anguish, and _hers_ of perfect peace.
+Her brow smooth, her lids closed, her lips wearing the expression of a
+smile; no angel in heaven could be more beautiful than she appeared.
+And I partook of the infinite calm in which she lay: my mind was never
+in a holier frame than while I gazed on that untroubled image of Divine
+rest. I instinctively echoed the words she had uttered a few hours
+before: “Incomparably beyond and above us all! Whether still on earth
+or now in heaven, her spirit is at [[Home|home]] with God!”
+
+I don’t know if it be a peculiarity in me, but I am seldom otherwise
+than happy while watching in the chamber of [[Death|death]], should no frenzied
+or despairing mourner share the duty with me. I see a repose that
+neither earth nor hell can break, and I feel an assurance of the
+endless and shadowless hereafter—the [[Eternity]] they have entered—where
+life is boundless in its duration, and [[Love|love]] in its sympathy, and joy in
+its fulness. I noticed on that occasion how much selfishness there is
+even in a [[Love|love]] like Mr. Linton’s, when he so regretted Catherine’s
+blessed release! To be sure, one might have doubted, after the wayward
+and impatient existence she had led, whether she merited a haven of
+peace at last. One might [[Doubt|doubt]] in [[Seasons|seasons]] of cold reflection; but not
+then, in the presence of her corpse. It asserted its own tranquillity,
+which seemed a pledge of equal quiet to its former inhabitant.
+
+Do you believe such people _are_ happy in the other world, sir? I’d
+give a great deal to know.
+
+I declined answering Mrs. Dean’s question, which struck me as something
+heterodox. She proceeded:
+
+Retracing the course of Catherine Linton, I [[Fear|fear]] we have no right to
+think she is; but we’ll leave her with her Maker.
+
+The master looked asleep, and I ventured soon after sunrise to quit the
+room and steal out to the pure refreshing air. The servants thought me
+gone to shake off the drowsiness of my protracted watch; in reality, my
+chief motive was seeing Mr. [[Heathcliff]]. If he had remained among the
+larches all [[Night|night]], he would have heard nothing of the stir at the
+Grange; unless, perhaps, he might catch the gallop of the messenger
+going to Gimmerton. If he had come nearer, he would probably be aware,
+from the lights flitting to and fro, and the opening and shutting of
+the outer doors, that all was not right within. I wished, yet feared,
+to find him. I felt the terrible news must be told, and I longed to get
+it over; but _how_ to do it I did not know. He was there—at least, a
+few yards further in the park; leant against an old ash-tree, his hat
+off, and his hair soaked with the dew that had gathered on the budded
+branches, and fell pattering round him. He had been standing a long
+[[Time|time]] in that position, for I saw a pair of ousels passing and repassing
+scarcely three feet from him, busy in building their nest, and
+regarding his proximity no more than that of a piece of timber. They
+flew off at my approach, and he raised his eyes and spoke:—“She’s
+dead!” he said; “I’ve not waited for you to learn that. Put your
+handkerchief away—don’t snivel before me. Damn you all! she wants none
+of _your_ [[Tears|tears]]!”
+
+I was weeping as much for him as her: we do sometimes pity creatures
+that have none of the feeling either for themselves or others. When I
+first looked into his face, I perceived that he had got intelligence of
+the catastrophe; and a foolish notion struck me that his heart was
+quelled and he prayed, because his lips moved and his gaze was bent on
+the ground.
+
+“Yes, she’s dead!” I answered, checking my sobs and drying my cheeks.
+“Gone to heaven, I [[Hope|hope]]; where we may, every one, join her, if we take
+due warning and leave our evil ways to follow good!”
+
+“Did _she_ take due warning, then?” asked [[Heathcliff]], attempting a
+sneer. “Did she die like a saint? Come, give me a true [[history]] of the
+event. How did—?”
+
+He endeavoured to pronounce the name, but could not manage it; and
+compressing his mouth he held a silent combat with his inward agony,
+defying, meanwhile, my sympathy with an unflinching, ferocious stare.
+“How did she die?” he resumed, at last—fain, notwithstanding his
+hardihood, to have a support behind him; for, after the struggle, he
+trembled, in spite of himself, to his very finger-ends.
+
+“Poor wretch!” I thought; “you have a heart and nerves the same as your
+brother men! Why should you be anxious to conceal them? Your [[Pride|pride]]
+cannot blind God! You tempt him to wring them, till he forces a cry of
+humiliation.”
+
+“Quietly as a [[Lamb|lamb]]!” I answered, aloud. “She drew a sigh, and stretched
+herself, like a [[Child|child]] reviving, and sinking again to [[Sleep|sleep]]; and five
+minutes after I felt one little pulse at her heart, and nothing more!”
+
+“And—did she ever mention me?” he asked, hesitating, as if he dreaded
+the answer to his question would introduce details that he could not
+bear to hear.
+
+“Her senses never returned: she recognised nobody from the [[Time|time]] you
+left her,” I said. “She lies with a sweet smile on her face; and her
+latest ideas wandered back to pleasant early days. Her life closed in a
+gentle dream—may she wake as kindly in the other world!”
+
+“May she wake in torment!” he cried, with frightful vehemence, stamping
+his foot, and groaning in a sudden paroxysm of ungovernable passion.
+“Why, she’s a liar to the end! Where is she? Not _there_—not in
+heaven—not perished—where? Oh! you said you cared nothing for my
+sufferings! And I pray one [[prayer]]—I repeat it till my tongue
+stiffens—[[Catherine Earnshaw]], may you not rest as long as I am living;
+you said I killed you—haunt me, then! The murdered _do_ haunt their
+murderers, I believe. I know that [[Ghosts|ghosts]] _have_ wandered on earth. Be
+with me always—take any form—drive me mad! only _do_ not leave me in
+this abyss, where I cannot find you! Oh, God! it is unutterable! I
+_cannot_ live without my life! I _cannot_ live without my [[Soul|soul]]!”
+
+He dashed his head against the knotted trunk; and, lifting up his eyes,
+howled, not like a man, but like a savage beast being goaded to [[Death|death]]
+with knives and spears. I observed several splashes of [[Blood|blood]] about the
+bark of the tree, and his hand and forehead were both stained; probably
+the scene I witnessed was a repetition of others acted during the
+[[Night|night]]. It hardly moved my compassion—it appalled me: still, I felt
+reluctant to quit him so. But the moment he recollected himself enough
+to notice me watching, he thundered a command for me to go, and I
+obeyed. He was beyond my skill to quiet or console!
+
+Mrs. Linton’s funeral was appointed to take place on the Friday
+following her decease; and till then her coffin remained uncovered, and
+strewn with [[Flowers|flowers]] and scented [[Leaves|leaves]], in the great drawing-room.
+Linton spent his days and nights there, a sleepless guardian; and—a
+circumstance concealed from all but me—[[Heathcliff]] spent his nights, at
+least, outside, equally a stranger to repose. I held no communication
+with him; still, I was conscious of his design to enter, if he could;
+and on the Tuesday, a little after dark, when my master, from sheer
+fatigue, had been compelled to retire a couple of hours, I went and
+opened one of the windows; moved by his perseverance to give him a
+chance of bestowing on the faded image of his idol one final adieu. He
+did not omit to avail himself of the opportunity, cautiously and
+briefly; too cautiously to betray his presence by the slightest noise.
+Indeed, I shouldn’t have discovered that he had been there, except for
+the disarrangement of the drapery about the corpse’s face, and for
+observing on the floor a curl of light hair, fastened with a silver
+thread; which, on examination, I ascertained to have been taken from a
+locket hung round Catherine’s neck. [[Heathcliff]] had opened the trinket
+and cast out its contents, replacing them by a black lock of his own. I
+twisted the two, and enclosed them together.
+
+Mr. Earnshaw was, of course, invited to attend the remains of his
+sister to the [[Grave|grave]]; he sent no excuse, but he never came; so that,
+besides her husband, the mourners were wholly composed of tenants and
+servants. [[Isabella]] was not asked.
+
+The place of Catherine’s interment, to the surprise of the villagers,
+was neither in the chapel under the carved monument of the Lintons, nor
+yet by the tombs of her own relations, outside. It was dug on a green
+slope in a corner of the kirkyard, where the wall is so low that heath
+and bilberry-plants have climbed over it from the moor; and peat-mould
+almost buries it. Her husband lies in the same spot now; and they have
+each a simple headstone above, and a plain grey block at their feet, to
+mark the graves.
+
+
+
+
 <span class="atom-split" data-atom="chapter_17--part_01" data-title="Wuthering Heights — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
 
 
@@ -20386,6 +19873,190 @@ been there; but I insisted most on the fact, that if she revealed my
 negligence of his orders, he would perhaps be so angry that I should
 have to leave; and Cathy couldn’t bear that prospect: she pledged her
 word, and kept it for my sake. After all, she was a sweet little girl.
+
+
+
+
+<span class="atom-split" data-atom="chapter_19" data-title="Wuthering Heights — Chapter 19" data-chapter="Chapter 19" data-kind="chapter"></span>
+
+
+CHAPTER XIX
+
+
+A letter, edged with black, announced the day of my master’s return.
+[[Isabella]] was dead; and he wrote to bid me get mourning for his
+daughter, and arrange a room, and other accommodations, for his
+youthful nephew. Catherine ran wild with joy at the idea of welcoming
+her father back; and indulged most sanguine anticipations of the
+innumerable excellencies of her “real” cousin. The evening of their
+expected arrival came. Since early morning she had been busy ordering
+her own small affairs; and now attired in her new black frock—poor
+thing! her aunt’s [[Death|death]] impressed her with no definite sorrow—she
+obliged me, by constant worrying, to walk with her down through the
+grounds to meet them.
+
+“Linton is just six months younger than I am,” she chattered, as we
+strolled leisurely over the swells and hollows of mossy turf, under
+[[Shadow|shadow]] of the trees. “How delightful it will be to have him for a
+playfellow! Aunt [[Isabella]] sent papa a beautiful lock of his hair; it
+was lighter than mine—more flaxen, and quite as fine. I have it
+carefully preserved in a little glass box; and I’ve often thought what
+a pleasure it would be to see its owner. Oh! I am happy—and papa, dear,
+dear papa! Come, Ellen, let us run! come, run.”
+
+She ran, and returned and ran again, many times before my sober
+footsteps reached the gate, and then she seated herself on the grassy
+bank beside the path, and tried to wait patiently; but that was
+impossible: she couldn’t be still a minute.
+
+“How long they are!” she exclaimed. “Ah, I see some [[Dust|dust]] on the
+[[Road|road]]—they are coming! No! When will they be here? May we not go a
+little way—half a mile, Ellen, only just half a mile? Do say yes, to
+that clump of birches at the turn!”
+
+I refused staunchly. At length her suspense was ended: the travelling
+carriage rolled in sight. Miss Cathy shrieked and stretched out her
+arms as soon as she caught her father’s face looking from the [[Window|window]].
+He descended, nearly as eager as herself; and a considerable interval
+elapsed ere they had a thought to spare for any but themselves. While
+they exchanged caresses I took a peep in to see after Linton. He was
+asleep in a corner, wrapped in a warm, fur-lined cloak, as if it had
+been [[Winter|winter]]. A pale, delicate, effeminate boy, who might have been
+taken for my master’s younger brother, so strong was the resemblance:
+but there was a sickly peevishness in his aspect that [[Edgar Linton]]
+never had. The latter saw me looking; and having shaken hands, advised
+me to close the door, and leave him undisturbed; for the [[Journey|journey]] had
+fatigued him. Cathy would fain have taken one glance, but her father
+told her to come, and they walked together up the park, while I
+hastened before to prepare the servants.
+
+“Now, darling,” said Mr. Linton, addressing his daughter, as they
+halted at the [[Bottom|bottom]] of the front steps: “your cousin is not so strong
+or so merry as you are, and he has lost his mother, remember, a very
+short [[Time|time]] since; therefore, don’t expect him to play and run about
+with you directly. And don’t harass him much by talking: let him be
+quiet this evening, at least, will you?”
+
+“Yes, yes, papa,” answered Catherine: “but I do want to see him; and he
+hasn’t once looked out.”
+
+The carriage stopped; and [[The Sleeper|the sleeper]] being roused, was lifted to the
+ground by his uncle.
+
+“This is your cousin Cathy, Linton,” he said, putting their little
+hands together. “She’s fond of you already; and mind you don’t grieve
+her by crying to-[[Night|night]]. Try to be cheerful now; the travelling is at an
+end, and you have nothing to do but rest and amuse yourself as you
+please.”
+
+“Let me go to bed, then,” answered the boy, shrinking from Catherine’s
+salute; and he put his fingers to his eyes to remove incipient [[Tears|tears]].
+
+“Come, come, there’s a good [[Child|child]],” I whispered, leading him in.
+“You’ll make her weep too—see how sorry she is for you!”
+
+I do not know whether it was sorrow for him, but his cousin put on as
+sad a countenance as himself, and returned to her father. All three
+entered, and mounted to the library, where tea was laid ready. I
+proceeded to remove Linton’s cap and mantle, and placed him on a chair
+by the table; but he was no sooner seated than he began to cry afresh.
+My master inquired what was the matter.
+
+“I can’t sit on a chair,” sobbed the boy.
+
+“Go to the sofa, then, and Ellen shall bring you some tea,” answered
+his uncle patiently.
+
+He had been greatly tried, during the [[Journey|journey]], I felt convinced, by his
+fretful ailing charge. Linton slowly trailed himself off, and lay down.
+Cathy carried a footstool and her cup to his side. At first she sat
+silent; but that could not last: she had resolved to make a pet of her
+little cousin, as she would have him to be; and she commenced stroking
+his curls, and kissing his cheek, and offering him tea in her saucer,
+like a baby. This pleased him, for he was not much better: he dried his
+eyes, and lightened into a faint smile.
+
+“Oh, he’ll do very [[Well|well]],” said the master to me, after watching them a
+minute. “Very [[Well|well]], if we can keep him, Ellen. The company of a [[Child|child]]
+of his own age will instil new spirit into him soon, and by wishing for
+strength he’ll gain it.”
+
+“Ay, if we can keep him!” I mused to myself; and sore misgivings came
+over me that there was slight [[Hope|hope]] of that. And then, I thought, how
+ever will that weakling live at [[Wuthering Heights]]? Between his father
+and Hareton, what playmates and instructors they’ll be. Our doubts were
+presently decided—even earlier than I expected. I had just taken the
+children upstairs, after tea was finished, and seen Linton asleep—he
+would not suffer me to leave him till that was the case—I had come
+down, and was standing by the table in the hall, lighting a bedroom
+candle for Mr. [[Edgar]], when a maid stepped out of the kitchen and
+informed me that Mr. [[Heathcliff]]’s servant Joseph was at the door, and
+wished to speak with the master.
+
+“I shall ask him what he wants first,” I said, in considerable
+trepidation. “A very unlikely hour to be troubling people, and the
+instant they have returned from a long [[Journey|journey]]. I don’t think the
+master can see him.”
+
+Joseph had advanced through the kitchen as I uttered these words, and
+now presented himself in the hall. He was donned in his [[Sunday]]
+garments, with his most sanctimonious and sourest face, and, holding
+his hat in one hand, and his stick in the other, he proceeded to clean
+his shoes on the mat.
+
+“Good-evening, Joseph,” I said, coldly. “What business brings you here
+to-[[Night|night]]?”
+
+“It’s Maister Linton I mun spake to,” he answered, waving me
+disdainfully aside.
+
+“Mr. Linton is going to bed; unless you have something particular to
+say, I’m sure he won’t hear it now,” I continued. “You had better sit
+down in there, and entrust your message to me.”
+
+“Which is his rahm?” pursued the fellow, surveying the range of closed
+doors.
+
+I perceived he was bent on refusing my mediation, so very reluctantly I
+went up to the library, and announced the unseasonable visitor,
+advising that he should be dismissed till next day. Mr. Linton had no
+[[Time|time]] to empower me to do so, for Joseph mounted close at my heels, and,
+pushing into the apartment, planted himself at the far side of the
+table, with his two fists clapped on the head of his stick, and began
+in an elevated tone, as if anticipating opposition—
+
+“Hathecliff has sent me for his lad, and I munn’t goa back ’bout him.”
+
+[[Edgar Linton]] was silent a minute; an expression of exceeding sorrow
+overcast his features: he would have pitied the [[Child|child]] on his own
+account; but, recalling [[Isabella]]’s hopes and fears, and anxious wishes
+for her son, and her commendations of him to his care, he grieved
+bitterly at the prospect of yielding him up, and searched in his heart
+how it might be avoided. No plan offered itself: the very exhibition of
+any [[Desire|desire]] to keep him would have rendered the claimant more
+peremptory: there was nothing left but to resign him. However, he was
+not going to rouse him from his [[Sleep|sleep]].
+
+“Tell Mr. [[Heathcliff]],” he answered calmly, “that his son shall come to
+[[Wuthering Heights]] to-morrow. He is in bed, and too tired to go the
+distance now. You may also tell him that the mother of Linton desired
+him to remain under my guardianship; and, at present, his health is
+very precarious.”
+
+“Noa!” said Joseph, giving a thud with his prop on the floor, and
+assuming an authoritative air. “Noa! that means naught. Hathecliff maks
+noa ’count o’ t’ mother, nor ye norther; but he’ll hev his lad; und I
+mun tak’ him—soa now ye knaw!”
+
+“You shall not to-[[Night|night]]!” answered Linton decisively. “Walk down stairs
+at once, and repeat to your master what I have said. Ellen, show him
+down. Go—”
+
+And, aiding the indignant elder with a lift by the arm, he rid the room
+of him and closed the door.
+
+“Varrah weell!” shouted Joseph, as he slowly drew off. “To-morn, he’s
+come hisseln, and thrust _him_ out, if ye darr!”
 
 
 
@@ -22382,6 +22053,335 @@ explaining that he must no longer expect to see Catherine at Wuthering
 Heights. Perhaps, had he been aware of his nephew’s disposition and
 state of health, he would have seen fit to withhold even that slight
 consolation.
+
+
+
+
+<span class="atom-split" data-atom="chapter_25" data-title="Wuthering Heights — Chapter 25" data-chapter="Chapter 25" data-kind="chapter"></span>
+
+
+CHAPTER XXV
+
+
+“These things happened last [[Winter|winter]], sir,” said Mrs. Dean; “hardly more
+than a year ago. Last [[Winter|winter]], I did not think, at another twelve
+months’ end, I should be amusing a stranger to the family with relating
+them! Yet, who knows how long you’ll be a stranger? You’re too young to
+rest always contented, living by yourself; and I some way fancy no one
+could see Catherine Linton and not [[Love|love]] her. You smile; but why do you
+look so lively and interested when I talk about her? and why have you
+asked me to hang her picture over your fireplace? and why—?”
+
+“Stop, my good friend!” I cried. “It may be very possible that _I_
+should [[Love|love]] her; but would she [[Love|love]] me? I [[Doubt|doubt]] it too much to venture
+my tranquillity by running into [[Temptation|temptation]]: and then my [[Home|home]] is not
+here. I’m of the busy world, and to its arms I must return. Go on. Was
+Catherine obedient to her father’s commands?”
+
+“She was,” continued the housekeeper. “Her affection for him was still
+the chief sentiment in her heart; and he spoke without anger: he spoke
+in the deep tenderness of one about to leave his treasure amid perils
+and foes, where his remembered words would be the only aid that he
+could bequeath to guide her. He said to me, a few days afterwards, ‘I
+wish my nephew would write, Ellen, or call. Tell me, sincerely, what
+you think of him: is he changed for the better, or is there a prospect
+of improvement, as he grows a man?’
+
+“‘He’s very delicate, sir,’ I replied; ‘and scarcely likely to reach
+manhood: but this I can say, he does not resemble his father; and if
+Miss Catherine had the misfortune to marry him, he would not be beyond
+her control: unless she were extremely and foolishly indulgent.
+However, master, you’ll have plenty of [[Time|time]] to get acquainted with him
+and see whether he would suit her: it wants four years and more to his
+being of age.’”
+
+[[Edgar]] sighed; and, walking to the [[Window|window]], looked out towards Gimmerton
+Kirk. It was a misty afternoon, but the February sun shone dimly, and
+we could just distinguish the two fir-trees in the yard, and the
+sparely-scattered gravestones.
+
+“I’ve prayed often,” he half soliloquised, “for the approach of what is
+coming; and now I begin to shrink, and [[Fear|fear]] it. I thought the [[Memory|memory]] of
+the hour I came down that glen a bridegroom would be less sweet than
+the anticipation that I was soon, in a few months, or, possibly, weeks,
+to be carried up, and laid in its lonely hollow! Ellen, I’ve been very
+happy with my little Cathy: through [[Winter|winter]] nights and [[Summer|summer]] days she
+was a living [[Hope|hope]] at my side. But I’ve been as happy musing by myself
+among those stones, under that old church: lying, through the long June
+evenings, on the green mound of her mother’s [[Grave|grave]], and
+wishing—yearning for the [[Time|time]] when I might lie beneath it. What can I
+do for Cathy? How must I quit her? I’d not care one moment for Linton
+being [[Heathcliff]]’s son; nor for his taking her from me, if he could
+console her for my loss. I’d not care that [[Heathcliff]] gained his ends,
+and triumphed in robbing me of my last blessing! But should Linton be
+unworthy—only a feeble tool to his father—I cannot abandon her to him!
+And, hard though it be to crush her buoyant spirit, I must persevere in
+making her sad while I live, and leaving her solitary when I die.
+Darling! I’d rather resign her to God, and lay her in the earth before
+me.”
+
+“Resign her to God as it is, sir,” I answered, “and if we should lose
+you—which may He forbid—under His [[Providence|providence]], I’ll stand her friend and
+counsellor to the last. Miss Catherine is a good girl: I don’t [[Fear|fear]]
+that she will go wilfully wrong; and people who do their duty are
+always finally rewarded.”
+
+[[Spring]] advanced; yet my master gathered no real strength, though he
+resumed his walks in the grounds with his daughter. To her
+inexperienced notions, this itself was a sign of convalescence; and
+then his cheek was often flushed, and his eyes were bright; she felt
+sure of his recovering. On her seventeenth birthday, he did not visit
+the churchyard: it was raining, and I observed—
+
+“You’ll surely not go out to-[[Night|night]], sir?”
+
+He answered,—“No, I’ll defer it this year a little longer.”
+
+He wrote again to Linton, expressing his great [[Desire|desire]] to see him; and,
+had the invalid been presentable, I’ve no [[Doubt|doubt]] his father would have
+permitted him to come. As it was, being instructed, he returned an
+answer, intimating that Mr. [[Heathcliff]] objected to his calling at the
+Grange; but his uncle’s kind remembrance delighted him, and he hoped to
+meet him sometimes in his rambles, and personally to petition that his
+cousin and he might not remain long so utterly divided.
+
+That part of his letter was simple, and probably his own. [[Heathcliff]]
+knew he could plead eloquently for Catherine’s company, then.
+
+“I do not ask,” he said, “that she may visit here; but am I never to
+see her, because my father forbids me to go to her [[Home|home]], and you forbid
+her to come to mine? Do, now and then, ride with her towards the
+Heights; and let us exchange a few words, in your presence! We have
+done nothing to deserve this separation; and you are not angry with me:
+you have no reason to dislike me, you allow, yourself. Dear uncle! send
+me a kind note to-morrow, and leave to join you anywhere you please,
+except at Thrushcross Grange. I believe an interview would convince you
+that my father’s character is not mine: he affirms I am more your
+nephew than his son; and though I have faults which render me unworthy
+of Catherine, she has excused them, and for her sake, you should also.
+You inquire after my health—it is better; but while I remain cut off
+from all [[Hope|hope]], and doomed to [[Solitude|solitude]], or the society of those who
+never did and never will like me, how can I be cheerful and [[Well|well]]?”
+
+[[Edgar]], though he felt for the boy, could not consent to grant his
+request; because he could not accompany Catherine. He said, in [[Summer|summer]],
+perhaps, they might meet: meantime, he wished him to continue writing
+at intervals, and engaged to give him what advice and comfort he was
+able by letter; being [[Well|well]] aware of his hard position in his family.
+Linton complied; and had he been unrestrained, would probably have
+spoiled all by filling his epistles with complaints and lamentations:
+but his father kept a sharp watch over him; and, of course, insisted on
+every line that my master sent being shown; so, instead of penning his
+peculiar personal sufferings and distresses, the themes constantly
+uppermost in his thoughts, he harped on the cruel obligation of being
+held asunder from his friend and [[Love|love]]; and gently intimated that Mr.
+Linton must allow an interview soon, or he should [[Fear|fear]] he was purposely
+deceiving him with empty promises.
+
+Cathy was a powerful ally at [[Home|home]]; and between them they at length
+persuaded my master to acquiesce in their having a ride or a walk
+together about once a week, under my guardianship, and on the moors
+nearest the Grange: for June found him still declining. Though he had
+set aside yearly a portion of his income for my young lady’s fortune,
+he had a natural [[Desire|desire]] that she might retain—or at least return in a
+short [[Time|time]] to—the [[house]] of her ancestors; and he considered her only
+prospect of doing that was by a [[Union|union]] with his heir; he had no idea
+that the latter was failing almost as fast as himself; nor had any one,
+I believe: no doctor visited the Heights, and no one saw Master
+[[Heathcliff]] to make report of his condition among us. I, for my part,
+began to fancy my forebodings were false, and that he must be actually
+rallying, when he mentioned riding and walking on the moors, and seemed
+so earnest in pursuing his object. I could not picture a father
+treating a dying [[Child|child]] as tyrannically and wickedly as I afterwards
+learned [[Heathcliff]] had treated him, to compel this apparent eagerness:
+his efforts redoubling the more imminently his avaricious and unfeeling
+plans were threatened with defeat by [[Death|death]].
+
+
+
+
+<span class="atom-split" data-atom="chapter_26" data-title="Wuthering Heights — Chapter 26" data-chapter="Chapter 26" data-kind="chapter"></span>
+
+
+CHAPTER XXVI
+
+
+[[Summer]] was already past its prime, when [[Edgar]] reluctantly yielded his
+assent to their entreaties, and Catherine and I set out on our first
+ride to join her cousin. It was a close, sultry day: devoid of
+sunshine, but with a sky too dappled and hazy to threaten rain: and our
+place of meeting had been fixed at the guide-stone, by the [[Cross|cross]]-roads.
+On arriving there, however, a little herd-boy, despatched as a
+messenger, told us that,—“Maister Linton wer just o’ this side th’
+Heights: and he’d be mitch obleeged to us to gang on a bit further.”
+
+“Then Master Linton has forgot the first injunction of his uncle,” I
+observed: “he bid us keep on the Grange land, and here we are off at
+once.”
+
+“[[Well]], we’ll turn our horses’ heads round when we reach him,” answered
+my companion; “our excursion shall lie towards [[Home|home]].”
+
+But when we reached him, and that was scarcely a quarter of a mile from
+his own door, we found he had no [[Horse|horse]]; and we were forced to dismount,
+and leave ours to graze. He lay on the heath, awaiting our approach,
+and did not rise till we came within a few yards. Then he walked so
+feebly, and looked so pale, that I immediately exclaimed,—“Why, Master
+[[Heathcliff]], you are not fit for enjoying a ramble this morning. How ill
+you do look!”
+
+Catherine surveyed him with grief and astonishment: she changed the
+ejaculation of joy on her lips to one of alarm; and the congratulation
+on their long-postponed meeting to an anxious inquiry, whether he were
+worse than usual?
+
+“No—better—better!” he panted, trembling, and retaining her hand as if
+he needed its support, while his large blue eyes wandered timidly over
+her; the hollowness round them transforming to haggard wildness the
+languid expression they once possessed.
+
+“But you have been worse,” persisted his cousin; “worse than when I saw
+you last; you are thinner, and—”
+
+“I’m tired,” he interrupted, hurriedly. “It is too hot for walking, let
+us rest here. And, in the morning, I often feel sick—papa says I grow
+so fast.”
+
+Badly satisfied, Cathy sat down, and he reclined beside her.
+
+“This is something like your paradise,” said she, making an effort at
+cheerfulness. “You recollect the two days we agreed to spend in the
+place and way each thought pleasantest? This is nearly yours, only
+there are clouds; but then they are so soft and mellow: it is nicer
+than sunshine. Next week, if you can, we’ll ride down to the Grange
+Park, and try mine.”
+
+Linton did not appear to remember what she talked of; and he had
+evidently great difficulty in sustaining any kind of conversation. His
+lack of interest in the subjects she started, and his equal incapacity
+to contribute to her entertainment, were so obvious that she could not
+conceal her disappointment. An indefinite alteration had come over his
+whole person and manner. The pettishness that might be caressed into
+fondness, had yielded to a listless apathy; there was less of the
+peevish temper of a [[Child|child]] which frets and teases on purpose to be
+soothed, and more of the [[Self|self]]-absorbed moroseness of a confirmed
+invalid, repelling consolation, and ready to regard the good-humoured
+mirth of others as an insult. Catherine perceived, as [[Well|well]] as I did,
+that he held it rather a punishment, than a gratification, to endure
+our company; and she made no scruple of proposing, presently, to
+depart. That proposal, unexpectedly, roused Linton from his lethargy,
+and threw him into a strange state of agitation. He glanced fearfully
+towards the Heights, begging she would remain another half-hour, at
+least.
+
+“But I think,” said Cathy, “you’d be more comfortable at [[Home|home]] than
+sitting here; and I cannot amuse you to-day, I see, by my tales, and
+[[songs]], and chatter: you have grown wiser than I, in these six months;
+you have little taste for my diversions now: or else, if I could amuse
+you, I’d willingly stay.”
+
+“Stay to rest yourself,” he replied. “And, Catherine, don’t think or
+say that I’m _very_ unwell: it is the heavy weather and heat that make
+me dull; and I walked about, before you came, a great deal for me. Tell
+uncle I’m in tolerable health, will you?”
+
+“I’ll tell him that _you_ say so, Linton. I couldn’t affirm that you
+are,” observed my young lady, wondering at his pertinacious assertion
+of what was evidently an untruth.
+
+“And be here again next [[thursday|Thursday]],” continued he, shunning her puzzled
+gaze. “And give him my thanks for permitting you to come—my best
+thanks, Catherine. And—and, if you _did_ meet my father, and he asked
+you about me, don’t lead him to suppose that I’ve been extremely silent
+and stupid: don’t look sad and downcast, as you _are_ doing—he’ll be
+angry.”
+
+“I care nothing for his anger,” exclaimed Cathy, imagining she would be
+its object.
+
+“But I do,” said her cousin, shuddering. “_Don’t_ provoke him against
+me, Catherine, for he is very hard.”
+
+“Is he severe to you, Master [[Heathcliff]]?” I inquired. “Has he grown
+weary of indulgence, and passed from passive to active hatred?”
+
+Linton looked at me, but did not answer; and, after keeping her seat by
+his side another ten minutes, during which his head fell drowsily on
+his breast, and he uttered nothing except suppressed moans of
+exhaustion or [[Pain|pain]], Cathy began to seek solace in looking for
+bilberries, and sharing the produce of her researches with me: she did
+not offer them to him, for she saw further notice would only weary and
+annoy.
+
+“Is it half-an-hour now, Ellen?” she whispered in my ear, at last. “I
+can’t tell why we should stay. He’s asleep, and papa will be wanting us
+back.”
+
+“[[Well]], we must not leave him asleep,” I answered; “wait till he wakes,
+and be patient. You were mighty eager to set off, but your [[Longing|longing]] to
+see poor Linton has soon evaporated!”
+
+“Why did _he_ wish to see me?” returned Catherine. “In his crossest
+humours, formerly, I liked him better than I do in his present curious
+mood. It’s just as if it were a task he was compelled to perform—this
+interview—for [[Fear|fear]] his father should scold him. But I’m hardly going to
+come to give Mr. [[Heathcliff]] pleasure; whatever reason he may have for
+ordering Linton to undergo this penance. And, though I’m glad he’s
+better in health, I’m sorry he’s so much less pleasant, and so much
+less affectionate to me.”
+
+“You think _he is_ better in health, then?” I said.
+
+“Yes,” she answered; “because he always made such a great deal of his
+sufferings, you know. He is not tolerably [[Well|well]], as he told me to tell
+papa; but he’s better, very likely.”
+
+“There you differ with me, Miss Cathy,” I remarked; “I should
+conjecture him to be far worse.”
+
+Linton here started from his slumber in bewildered terror, and asked if
+any one had called his name.
+
+“No,” said Catherine; “unless in [[Dreams|dreams]]. I cannot conceive how you
+manage to doze out of doors, in the morning.”
+
+“I thought I heard my father,” he gasped, glancing up to the frowning
+nab above us. “You are sure nobody spoke?”
+
+“Quite sure,” replied his cousin. “Only Ellen and I were disputing
+concerning your health. Are you truly stronger, Linton, than when we
+separated in [[Winter|winter]]? If you be, I’m certain one thing is not
+stronger—your regard for me: speak,—are you?”
+
+The [[Tears|tears]] gushed from Linton’s eyes as he answered, “Yes, yes, I am!”
+And, still under the spell of the imaginary voice, his gaze wandered up
+and down to detect its owner.
+
+Cathy [[Rose|rose]]. “For to-day we must part,” she said. “And I won’t conceal
+that I have been sadly disappointed with our meeting; though I’ll
+mention it to nobody but you: not that I stand in awe of Mr.
+[[Heathcliff]].”
+
+“Hush,” murmured Linton; “for God’s sake, hush! He’s coming.” And he
+clung to Catherine’s arm, striving to detain her; but at that
+announcement she hastily disengaged herself, and whistled to Minny, who
+obeyed her like a dog.
+
+“I’ll be here next [[thursday|Thursday]],” she cried, springing to the saddle.
+“Good-bye. Quick, Ellen!”
+
+And so we left him, scarcely conscious of our departure, so absorbed
+was he in anticipating his father’s approach.
+
+Before we reached [[Home|home]], Catherine’s displeasure softened into a
+perplexed sensation of pity and regret, largely blended with vague,
+uneasy doubts about Linton’s actual circumstances, physical and social:
+in which I partook, though I counselled her not to say much; for a
+second [[Journey|journey]] would make us better judges. My master requested an
+account of our ongoings. His nephew’s offering of thanks was duly
+delivered, Miss Cathy gently touching on the rest: I also threw little
+light on his inquiries, for I hardly knew what to hide and what to
+reveal.
 
 
 

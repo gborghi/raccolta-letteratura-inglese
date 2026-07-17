@@ -3333,572 +3333,6 @@ H. BELLOC.
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="The Green Overcoat — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
-
-
-CHAPTER IX.
-
-In which the Green Overcoat begins to assert itself.
-
-“AND WHAT,” SAY you (very properly), “what of the Green Overcoat all this time? After all, it is the title of the book, and I am entitled to hear more about the title. I did not get this book to hear all about a hotch-potch of human beings, I got it to read about the Green Overcoat. What of the Green Overcoat?”
-
-Softly! I bear it in mind.
-
-The adventures of the Green Overcoat throughout those days, when it had taken vengeance upon the human beings who had separated it from its beloved master, may be simply told.
-
-The police in this country know from hour to hour what we do and how we do it; if they were better educated, they would even be able to know why we do it. The travels of any object not honestly come by — if it remain at least in the hands of the poor — may be traced in good time (by the conscientious historian who has access to Scotland Yard) as unerringly as a North Hants fox who, before entertaining the hunt, has been kept in a motor pit for three days.
-
-When Professor Higginson had charged the Man with the Broken Nose with the task of restoring the Green Overcoat to its owner, and had generously prepaid the proletarian for his services upon that occasion, I regret to say that the citizen entrusted with the fulfilment of such a duty most shamefully neglected it.
-
-He did indeed proceed a certain distance in the direction of Crampton Park under the open morning sun, whistling as he went, with the object of convincing his probably suspicious and certainly jealous comrades in the Shelter of his integrity. But when he had got to cover behind a row of cottages, the strange action to which he descended betrayed the baseness of his moral standard.
-
-He no longer continued in the direction of Crampton Park: not he! He dodged at a brisk pace with the heavy thing upon his arm, zigzagging right and left through the streets of the slum-suburb, and soon left the houses for a deserted field which a blank wall hid from neighbouring windows, and to which I must suppose that he had upon various occasions betaken himself when he desired privacy in some adventure.
-
-Seated upon a rubbish heap which adorned that plot of ground, the Man with the Broken Nose first very carefully felt in either pocket of the bargain, and found nothing but a cheque book.
-
-He pulled it out and held it hesitatingly for a few moments in his stubby right hand.
-
-The Man with the Broken Nose was not without his superstitions — superstitions common, I fear, to his class — and one of these was Cheque Books. He knew indeed that with a Cheque Book great things could be done, but he knew not how. He had not possession of the magic password, or of the trick whereby this powerful instrument governs the modern world. He wondered for a moment a little thickly in his early morning mind whether a price were given for such things. For himself he regretfully concluded it was a mystery. He put it back. But even as he did so something in the heap of rubbish gave way, he slipped, and was suddenly acutely conscious of a warm wet feeling in his right calf: it came from a broken bottle.
-
-His leg in the slipping of the rubble had met the glass, and the glass had won; nor did that great Green Overcoat, all sumptuously lined with fur, give a hint of its dread amusement.
-
-The blood was pouring severely from the wound. The Man with the Broken Nose had suffered accidents before; he knew that this might be serious. He lifted his trouser leg, saw the bad gash, and for a moment gently pressed the lips of the wound together.
-
-“It’s a jedgment!” he said. “It’s a jedgment!” he repeated to himself.
-
-But even so manifest a sign from On High would not deter him from his purpose. He tore from his shirt a strip wherewith to bind his leg, and limped with increasing pain back towards the streets of the town.
-
-He was seeking a house not unknown to him, for it was a place where those who have few friends can always find a friend, the residence of a Mr. Montague, Financier and Master of those mean streets; and as he limped, carrying his booty upon his arm, he cursed.
-
-The morning sun brought him no gladness. The Green Overcoat seemed heavier and heavier with every yard of his way, until at last he stood before a house like any other of those unhappy little houses wherein our industrial cities rot, save that its glass was a little dirtier, its doorstep more neglected, its paint more faded than that of its neighbours.
-
-For a moment the Man with the Broken Nose hesitated. The day was extremely young. Mr. Montague might not care to be aroused. It was important for him and for many like him that he should keep Mr. Montague’s good will. Then he remembered that in a little time the Knocker-up would come his rounds, and that that wretched street of slaves would wake to work for the rich in the city.
-
-The thought decided him. He rapped gently with his knuckles on the ground floor window. There was no response. He rapped a second time. A terse but unpleasant oath assured him that he had aroused whoever slept therein. A minute or two later he heard shuffling slippers moving cautiously across the passage. The door was opened a crack, and a very short man, very old, hump-backed one would almost say, with a beard of prodigious growth and beastliness tucked into a dressing-gown more greasy than the beard, stood in the darkness behind the half-open door.
-
-“I do ‘umbly beg pardon,” began the Man with the Broken Nose, making of the Green Overcoat a sort of shield and offering at once. “I do ‘umbly beg pardon, Mr. Montague, but I thought—”
-
-“Curth what you thought!” said the bearer of that ancient crusading name, in a voice so husky it could hardly be heard. “Curth what you thought! Come in!”
-
-The Man with the Broken Nose slipped in with something of the carriage that a poor trapper might show who should take refuge from a bear in the lair of a snake.
-
-“I ‘umbly beg pardon,” he began again in the darkness of the passage, and the old bearded apparition with the crusading name answered —
-
-“Shut your mouth!”
-
-The Man with the Broken Nose obeyed. The cautious, shuffling slippers led the way. A match was struck. The little dangerous figure reached up on tip-toe and lit a flaring unprotected gas-jet. The only window giving upon that passage was boarded.
-
-“Take it inter the light, Mr. Montague, take it inter the light!” said the visitor eagerly, making as though to open the door of a further room which would be flooded with the morning sun.
-
-His hand was upon the latch. With a curious, hardly audible snarl, Mr. Montague caught that hand a sharp blow on the wrist, and it said much for Mr. Montague’s high standing with the Ormeston poor that the Man with the Broken Nose took no offence.
-
-Under the flaring gas-jet Mr. Montague was turning the Green Overcoat over and over again.
-
-“Give yer a quid,” he said after about three minutes of close inspection.
-
-“Why, Mr. Montague, sir!” the other had just begun, when he heard a hiss which formed the words, “Wish you may die!” and felt upon his shoulder the grip that was not like the grip of a human hand, but like the grip of a talon.
-
-The Man with the Broken Nose was not prepared to argue. There had been one or two things in his full and varied life which if Mr. Montague had mentioned them even in a whisper would have made him less inclined to argue still, and he knew that Mr. Montague had a way of whispering sometimes into the ear of Memory things which a better breeding would have respected.
-
-Mr. Montague knew the value of time.
-
-Far up the line of streets the first strokes of the Knocker-up were heard.
-
-The Man with the Broken Nose found himself a moment later standing in the street with one sovereign in his hand for a twenty-guinea garment, and looking at the shut door and the meaningless, dirty windows which contained his prize.
-
-He wished the new owner joy in Hell, he wished it aloud with that amazing bitterness which the poor of our great cities distil more copiously than any men on earth: for of all men upon all the earth they are the most miserable.
-
-He took out the sovereign he had just received, and his mood changed. He spat on it for luck. He felt himself going curiously lightly, and then he remembered of what a burden he was rid. He walked without difficulty, and only in a hundred yards or two did he remember his wound. It seemed to have healed quickly. It had not opened. He almost felt as though it were healing — and now I am concerned with him no more. The Green Overcoat is out of his keeping, and has no intention of returning to it.
-
-But in the filthy little room of that filthy little house the filthy little bearer of the old crusading name, Mr. Montague, sat huddled upon his bed — a bed he made himself, or rather left unmade from week to week — and examined carefully upon his knee the fur, the cloth, the make of the gorgeous apparel.
-
-He smiled, and as he smiled he sneered. For God had so made Mr. Montague that sneering and smiling were with him one thing.
-
-There was value in that piece of cloth upon his knee, but it was of two kinds: value to anyone who would buy, more value, perhaps, to some owner that would recover. He considered either chance, and even as he considered them and sat staring at the expanse of Green Cloth an odd thing happened; not in the external world, nor within the walls of that room, but within the old man’s mind. He thought suddenly of Death!
-
-A tremor passed over the whole surface of his skin, downwards from his neck to his feet. He coughed and spat — clear of the Green Overcoat — upon the floor; and he cursed for a moment in a language that was not English. Then the thought passed as suddenly as it had come, and he was himself again, but the weaker for that moment. His hand trembled as he set it to do what every hand appeared so prone to do when the Green Overcoat came near it. He put that trembling hand into the left-hand pocket and found nothing. He had expected as much. Was it likely that his visitor would have left anything? For form’s sake he put it into the right hand pocket in turn; and thence, to his amazement, he drew out the Cheque Book!
-
-He looked at it stupidly for a moment, not understanding how such a prize should conceivably have been abandoned. Then he smiled again that! not cheerful smile, and slowly consulted the name of the bank and of the owner, and the counterfoils one by one.
-
-The sums that stood therein called to him like great heralds; they made his puny old chest heave and certain muscles in him grow rigid.
-
-He was in the midst of the tale when his whole being fainted within him, as it were — stopped dead at the noise of a violent [[Rain|rain]] of blows upon his outer door.
-
-
-
-
-<span class="atom-split" data-atom="chapter_12" data-title="The Green Overcoat — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
-
-
-CHAPTER XI.
-
-In which a Pole is less scrupulous.
-
-THE NAME OF the lounger was James. That was his Christian name. What his family name might be it is impossible to discover at this distance of time, for he had been born in 1868, brought up in the workhouse, apprenticed to a ropemaker, passed various terms in jail under various aliases, gone to sea, naturalised as an American citizen, returned to England as valet in the service of a tourist, been dismissed a few years before for theft, and was at this moment a member of the New Bureaucracy, to wit, a Watcher and Checker under the Ormeston Labour Exchange. He was paid (by results, 2s. 6d for each conviction) to see that the poor did not cheat the higher officials of that invaluable Public office, to worm out the true history of applicants at the Exchange and to provide secret evidence against them, that they might be imprisoned and black-listed if they concealed their past from the Secretary — a Valued Servant of the State.
-
-James, then, wandered out into God’s great world upon that happy morning with a bundle under his arm. Two conflicting thoughts disturbed him. First, where he might sell the content at the highest price, and, secondly, where he might sell it with the greatest security. Such divergent issues disturb the great men of our time as well as wandering men bearing alien coats; they are at the root of modern affairs.
-
-The more he thought of it the more did James determine by the feel that the bundle was clothes; why, then, his market was a shop in the Lydgate, an old quarter of the town, now full of slums, wherein dwelt a certain Pole of the name of Lipsky. This man, by common repute, was well with the police, and in our English towns that, with the poor, is everything. Lippy would not give him full value, but he could give him full security. He would give him perhaps but a quarter of the value, but he would at least give him a free run with the money and no awkward questions for the men in blue.
-
-Such an advantage is it to have assured the police of one’s integrity.
-
-Nevertheless, he thought it of advantage to discover of what value the bundle might be. Even if he was to get but a quarter of its value from the Pole, he would like to know what it was that he was to get a quarter of.
-
-He lollopped lazily down the street. His time was his own. He peered through a neglected doorway into an empty yard, stepped into it, behind the screen of a hoarding, looking first up and down to see whether any of the tyrants were about. Seeing no helmet and therefore no tyrant, he untied the parcel and pulled out the coat within. He was agreeably surprised. He had expected slops, but this was not slops. He was no valuer, but he would imperil for ever the true end of man’s soul and suffer the companionship of demons for eternity (such were the rash hazards he took) if it were not two quid, and played properly it might be three.
-
-Wait a moment, there might be something in the pockets. He felt in the left-hand pocket — nothing; in the right-hand pocket, there nothing but that solid, oblong cheque book with four cheques torn out. At first he thought of throwing it away, for it identified the owner of the garment. Then he remembered things called “clues,” and threw far from him the very idea instead of the cheque book. He tried to decipher the name, but could not. James could read and write when he had left school, but that was a long time ago. He had done more useful work since then.
-
-Next he remembered the suspicious haste of Mr. Montague. He began to wonder whether the bundle was quite safe. He determined to hurry; and as for the price, why, he would take what he could get.
-
-He fastened up the parcel again, and in a sobriety of mind which was new to him and not altogether pleasant, he took the road to the Lydgate. Mr. Montague might have spared his fears. The day was early, James had as yet no pence, he could not board a tram. But somehow or other the bundle was unnaturally clumsy or unnaturally heavy.
-
-He felt a distaste for it. The distaste enlarged, something had gone wrong. As he went down that morning street alone, resolutely trudging, he heard within him the echoes of a voice he did not wish to hear. It was the voice of a woman, not sober, but holding to him. He thought he could not have remembered such a thing after ten years, and of a summer morning. It is odd that even the poor should mislike such memories; James misliked them abominably. Perhaps he was more sensitive for the moment than are most of the poor....
-
-Yes! How she did drink, damn her..:. Why the Hell was he thinking of such things? And how clear her voice was... — . Then he saw the name “Lipsky” over the way. He was at the Lydgate already. Could a man be drunk in the flush of morning and without liquor? Nay, drink dulled such things, and he had heard that voice awfully clear within him.
-
-He trudged into the shop, shaking his mind free, and thinking of the sovereign — or two sovereigns at least.
-
-The gentleman in charge — there was but one — exchanged mutual recognitions with James. The one was a Pole and the other an Englishman; but both were human, and therefore brethren. Then James untied the parcel. But when James had untied the parcel it was apparent that though both were human, Lipsky was a Pole and not a man of the Midlands, for he thrust it from him with his palms outward, sliding his wrists upon the counter, and moving his fingers like Small snakes in the air. Lippy was not taking any.
-
-James looked at him, and did not understand.
-
-“I got it straight, I did!” he said.
-
-Lippy didn’t want to look at it.
-
-“I don’t want it, there!” burst out James (he could not for his life have told you why), and Lippy, leaning over familiarly but insolently, told him (in Polish English) that if he tried to sell it he would not long be a free man. James thought this treason, and in his heart he was determined on revenge. What had he done to Lippy to receive such a threat? The whole air about these men as they met, and as this lump of cloth lay between them, was unreal and fantastic. Each felt it, each in his utterly different mind. For such things, if you will excuse me, happen to the poor also, as we all know they do to the rich, whether through drink or what-not I can’t tell, whether for drink or what-not it is for them to determine. There was fate, and there was compulsion, and there was the profound ill-ease of the soul hovering over that dirty counter in the slums as they hover over the tables of politicians when similar bargains are toward in a larger world. James tied his bundle up again and went out without a word.
-
-One beefy part of him suggested that the coppers were too close on the trail and that Lippy knew it; but another part of him, more permanent, more real, deeper, smelt the truth. He himself had suffered dread; he felt vaguely that Lippy knew the cause of that dread, and that for both of them there was something strange about the Thing. The Soul was in trouble.
-
-Oh! James knew it very well. The big bundle under his left arm so weighed upon that primal part of us, which is within, that all the things least desired and most carefully forgotten of his life returned again under its influence and maddened him. With the simplicity of his class, he thought the evil to be attached to the fact that the coat was stolen. Unlike his betters, he had never dreamt that stealing was right. He had always known that it was wrong.... He had a mind to put the Green Overcoat down in the thoroughfare and leave it there. In spite of the risk, he would have done so in another moment had he not heard shuffling footsteps coming up rapidly behind him and felt a soft Polish hand upon his shoulder. It was Lippy.
-
-The Poles when they enter the Second Hand Clothes Trade prove themselves commercial. Their ancient chivalry seems to desert them in this line of business, and something material creeps into their gallant hearts. Lippy had reproached himself, Lippy had been tortured as he had seen the lounger’s figure slowly and doubtfully receding burdened with a thing of so much value.
-
-With the disappearance of the Green Overcoat the supernatural warnings (for which he despised himself) had disappeared, and he remembered only its very mundane value. He could not bear the loss, and he had followed.
-
-The lounger James turned round startled, and instinctively thrust the bundle towards the man who, he instinctively knew, had repented of his first decision. Lippy seized it, guiltily, furtively, violently, and without a word he was on his way back to his shop. But as for James, he went his way noting suddenly the pleasantness of the morning; that excellent Watcher and Checker under the Labour Exchange of Ormeston, that Pillar of Free Labour, that Good Servant of the State, that member of our New Bureaucracy of Social Reform, was himself again. He went forward whistling, and he found it in a few moments quite easy to forget the Thing and all the memories that had cropped up with the Thing. He had passed it on, and Lippy was holding the baby.
-
-In the few steps to his shop the Pole had no time to repent, though his mind was ill at ease. Mr. Montague was a strange man. He had strange wisdom. He could read strange books. And if Mr. Montague had come to warn him, well...
-
-Lippy dismissed the superstitious fear. He opened the bundle, he gazed on the Sacred Green Thing, he felt the pockets (of course), he saw the cheque book and the wealthy name. He shuddered — but he gloried. Then he fastened the whole up again, put the bundle into a great drawer under his counter, sighed a mechanical sigh of mechanical relief, and began to busy himself with the arranging and ticketing of his goods for the day.
-
-But as that day wore on the Pole was not himself. He was too nervous, too snappy with customers, too much affected by slight sounds when the evening came, and all that night he lay but dozing, waking continually in starts from disordered dreams of unaccountable vengeance.
-
-The next day, the Friday, Lippy was very ill. No movement of conscience disturbed him, he had not wronged his own; yet in his fever he suffered dreadfully from some unreasoning sense of evil.
-
-The old woman who chared for him was for calling a doctor. All Monday Lippy, weakening in his sick-bed, fought against the expense. As it was, he had been compelled to pay a doubtful boy — a non-Pole, and therefore ill suited to commerce — to mind the shop, and twice he left his bed, at the risk of his life, and tottered down to see that no harm was coming to his business. On each occasion as he neared that counter with its drawer and its secreted bundle a more violent trouble had returned, and he had had to be helped up dazed and trembling to his wretched bed and room above.
-
-So Monday passed, and what happened on the Tuesday and why, a return to others who had meddled with the Green Overcoat will explain: Why on the morning of Tuesday Lippy woke refreshed in body, but very weak; why he had an odd feeling that things were mending, how he could not tell; why it was that in the early afternoon of that day he heard in the shop below a voice addressing his assistant in an accent very unusual to such shops; why Lippy listened carefully at the door and thought he knew the voice.
-
-The voice you will find, Readerkin, was that of Mr. Kirby, and Mr. Kirby was asking in the most direct fashion possible for the coat, for the Green Overcoat; he made no bones about it, he put it square. Very hurriedly did Lippy dress, and very hurriedly, weak as he was, did he totter down the stairs that Tuesday Morning.
-
-
-
-
-<span class="atom-split" data-atom="chapter_15" data-title="The Green Overcoat — Chapter 14" data-chapter="Chapter 15" data-kind="chapter"></span>
-
-
-CHAPTER XIV.
-
-In which, incredible as it may seem, a non-Pole has the better of a Pole.
-
-ON TUESDAY MORNING Mr. Kirby woke eager for action. Things were fitting in. It was great fun.
-
-Mr. Kirby loved to fit things in — he ought to have been a soldier.
-
-He calculated with a pleasing exactitude. That morning — thanks to the stupid police and the telephone — he would find the Green Overcoat; that afternoon and evening he would invite such other guests as pleased him to dine with him next day, the Wednesday, in London, after Professor Higginson’s great lecture upon the Immortality of the Soul. It was an interesting subject, the Immortality of the Soul.
-
-To make certain that all his guests should be there, he would try to talk to one of them in London over the telephone from Ormeston that night.... One of them called James McAuley. He liked the boy. While he was about it he thought he would get a friend of McAuley’s to come as well. He didn’t know the name of the friend, but no matter; one should always ask one’s friends’ friends.
-
-So deciding, Mr. Kirby, delighted at the brightness of the day, walked merrily towards a quarter of Ormeston which we have already visited, and which is not the choice of the rich. He walked through the dirty, narrow little streets, prim in his excellent kit, well-groomed and flourishing. He was old-fashioned enough to have a flower in his button-hole, and he had been very careful with his hat. He was going to see someone he knew, someone he had known professionally in the past, and with whom a few years ago he had had very interesting business. He was going to see a man who bore a fine old crusading name, but who must have come down somewhat in the world, though doubtless he had kept his family pride. He was going to see a Mr. Montague.
-
-He knocked at the door in a sharp, commanding sort of way. It was opened quickly, and the little old figure appeared within, armed with insolence. When the eyes recognised Mr. Kirby, the face of that little old figure turned in a moment from insolence to servility.
-
-“Good morning, Samuel,” said Mr. Kirby briskly. “No, I won’t come in, thank you. I only want you to tell me something. I’m sorry to trouble you. Where’s that Green Overcoat of Mr. Brassington’s? He lost it a few days ago, and a friend of mine told me that you were quite likely to know.”
-
-I will waste neither my time nor the reader’s in describing Mr. Montague’s face at hearing this question; but I will say this much, that it looked like one of those faces carved in hard stone, which antiquity has left us, quite white, not expressionless, but with an expression concealed, and as one might swear, dumb. But the face spoke. It said in a very unnatural voice, a voice lacking breath —
-
-“I swear to God I don’t know, Mr. Kirby. If I knew, I swear to God I’d tell you.”
-
-“Just tell me what you did with it,” said Mr. Kirby easily and rapidly, looking at his watch. “I’ve got to fit a lot of things in.”
-
-“I swear to God, sir,” said the face, “I gave it away.”
-
-Mr. Kirby’s smile grew stronger, then suddenly ceased. He believed him.
-
-“Was that all, Samuel?” he asked, turning to go. There was a grave suggestion of peril in his voice.
-
-The face said only —
-
-“Well, I had to warn my own lot, Mr. Kirby; I had to warn my nephew, sir. I had to warn Lipsky not to touch it, not touch it on any account, Mr. Kirby!”
-
-“Lipsky in the Lydgate?” said Mr. Kirby. “Then he’s got it! Good morning, Samuel,” and the lawyer strode away.
-
-He was sorry to have gone out of his way by a quarter of a mile, but he was glad to have got the information he desired.
-
-The little closed shop in the Lydgate seemed to have something deserted about it as he came near. Mr. Kirby was familiar with the stack of old suits outside, the big placarded prices, the occasional announcements of a sale. To-day things seemed less promising and less vivacious, as though the master’s hand were not there. Mr. Kirby had known that master also in the past — all in the way of business — and if anything had happened to him he would have regretted it like the passing of a landmark. He walked straight into the shop, and there, instead of the Pole Lipsky, what he saw was an obvious non-Pole, an inept Midland youth with flaxen hair, a stammerer, and a very bad sales man.
-
-Mr. Kirby addressed his young compatriot quickly but courteously.
-
-“Would you be kind enough to give me Mr. Brassington’s Green Overcoat?” he said “Wh-wh-wh-what?” said the non-Pole, utterly at sea.
-
-There is a type in the modern world which is not destined to commercial success, and certain forms of the non-Polish type present extreme examples of the kind.
-
-“Mr. Brassington’s Green Overcoat,” repeated Mr. Kirby steadily and hard.
-
-Upstairs Lipsky, rising from his sick bed, heard. He heard the unusual voice, he heard the name, and, as I have written some pages back, he came down.
-
-There is always a common bond between intelligence and intelligence, though the intelligence of the one man be that of an Englishman and of the other man be that of a Pole; and as Lipsky entered the shop Mr. Kirby and he at once picked up communications, and the assistant at once dropped out of the scheme.
-
-“Oh, Mr. Lipsky,” said Mr. Kirby courteously, “I’m afraid you’ve been ill I’m sorry for that! But the fact is I’m rather in a hurry, and have come for Mr. Brassington’s Green Overcoat.”
-
-“Yes, Mr. Kirby, certainly,” said the shopkeeper.
-
-He did not understand this race which was not his, but he knew perfectly well that Mr. Kirby would not betray him.
-
-“Very glad you’ve called, Mr. Kirby. I just got it done up to send round to Mr. Brassington’s this minute. My assistant took it in, sir.”
-
-“I “ began the non-Pole.
-
-“Silence!” thundered Mr. Kirby to his compatriot, and Mr. Lipsky was very grateful.
-
-Mr. Lipsky continued eagerly —
-
-“You’ll find it all right, Mr. Kirby. There’s the cheque book in the pocket, that’s how I knew it!”
-
-“Yes, of course,” said Mr. Kirby airily, “that’s all right.”
-
-“You won’t take it, Mr. Kirby,” said Mr. Lipsky respectfully; “I’ll have it sent.”
-
-“Yes, certainly,” nodded Mr. Kirby, as he went out of the shop. “No hurry, any time this afternoon — to my private house, not my office, you know.”
-
-Mr. Lipsky came to the door and smiled him out — such a smile! Yes, Mr. Lipsky knew that private house of Mr. Kirby’s! He had been granted two or three interviews there. He knew it extraordinarily well.
-
-The lawyer went back through the sunlit streets at a loose end. He felt unusually leisured, though he was a leisured man. Like the peri in the poem, his task was done.
-
-He basked through that afternoon. He rang up the Rockingham Hotel in London to reserve a room and to order dinner for the next day. He rang up his friend Brassington again, to be sure of the appointment, and to be sure that Brassington was bringing his son. Then, when evening came, he took down the big London telephone book and looked up the number of Sir Alexander McAuley, the great doctor. It was years since Mr. Kirby had seen him; but they had known each other well in the past, and he would not mind the liberty. Besides which, what Mr. Kirby wanted as he called up Trunks after dinner that Tuesday evening was not Sir Alexander, but his son, Mr. James. Time pressed, and Mr. Kirby was very keen on talking to Mr. James McAuley.
-
-He got Sir Alexander’s house. He heard that Mr. James McAuley was out. He got the name of the restaurant where the youth was dining with some friends. He rang up that restaurant, and at last, a little after halfpast nine, he had the pleasure of hearing Jimmy’s fresh voice at the end of the wire.
-
-What that conversation was I must, in my next chapter, take the reader to the other end of the wire to inform him; but hardly had he put down the receiver when the door-bell rang and the non-Pole, carrying a bundle for Mr. Kirby, appeared in the hall. Evidently Mr. Lipsky was a good business man. He would not disturb the routine of his shop; things that did not belong to business hours he did outside business hours, and he knew how to get the most out of his assistant’s time.
-
-There stood in Mr. Kirby’s study a large Ottoman. He lifted the lid of that Victorian piece of furniture, and bid the boy put the bundle in.
-
-Mr. Kirby was wholly devoid of superstition. None the less, he went out of the house shortly after, and during the hour or two at his disposal he took the Midland air. Of course, there was nothing in Mr. Brassington’s private twist about Green Overcoats, but why should a sensible man run any risks at all?
-
-
-
-
-<span class="atom-split" data-atom="chapter_16" data-title="The Green Overcoat — Chapter 15" data-chapter="Chapter 16" data-kind="chapter"></span>
-
-
-CHAPTER XV.
-
-In which three young men eat, and not only eat, but drink.
-
-THERE ARE FEW restaurants left in London where gentlemen may meet with some sort of privacy and with the chance of eating reasonable food. It might be more accurate to say there are none. But whether there are any left or not, I am going to invent one for the purposes of this story, and to inform you that on this same Tuesday night upon which Mr. Kirby was telephoning to Sir Alexander McAuley, Jimmy and Melba were very kindly entertaining Algernon Sawby Leonidas Brassington — Mr. Brassington, Jun., for short — at dinner in a private room at Bolter’s.
-
-Bolter’s, I need hardly inform such a woman of the world as my reader, is the one place left in London where a man can dine well and yet at his ease. It stands in a little street off Regent Street eastward, and by a happy accident has been worthy of its reputation for seventy years. Either it has not paid Bolter’s, or Bolter’s has been too proud, but anyhow the Whelps of the Lion are quite ignorant of Bolter’s, so are the cousins of the noble beast, so certainly are the greater part of such degraded natives of the European Continent as we permit to visit our Metropolis and to stare at our Imperial Populace.
-
-Even the young bloods for the most part have not heard of Bolter’s, and as it never spends a penny on advertisements, its name, on the rare occasions when it appears in an article or a letter, is ruthlessly struck out in proof by the blue pencil of the editor.
-
-Bolter’s is known and loved by perhaps two hundred families. It is a tradition, and as you may well imagine, enormously expensive. If you are two dining at Bolter’s, you may expect to spend £7, and if you are three, £10. If you are very rich, it is worth your while to dine at Bolter’s. If you are only moderately rich, it is worth your while. If you are poor, it is also worth your while to go to prison for not paying — so excellent is the food.
-
-All this I tell the reader in order that he may know how and why Jimmy and Melba were entertaining their friend. That friend, though his father was a very wealthy man, was a little awed by the surroundings. He had heard of Bolter’s — once or twice, not more — from the fringes of that governing world in which some of his University friends lived. He remembered the son of a Cabinet Minister complaining of Bolter’s, and a peer of the realm (a former furniture dealer and picture broker and for that matter moneylender) saying that Bolter’s was filthy. Such praise was praise indeed. He remembered that ladies did not go to Bolter’s. He remembered talk of a dinner at Bolter’s just before a little group of men had gone out in his first year to India, and now that he was sitting in Bolter’s he felt duly impressed. He knew that Jimmy’s people were “in” what he could never be “in.” Melba was more of an enigma to him, but anyhow Melba was thick with Jimmy and Jimmy’s lot. In other words, he knew that Jimmy and Melba were both on the right side of a certain line which runs round very definitely through the core of English society and encloses a very narrow central space; but, on the other hand, he knew — he had the best of reasons for knowing — that they were not exactly flush. He knew they couldn’t be flush because whereas he, Leonidas, had in the past won £1,800 off them at cards — and spent it — they, Jimmy and Melba, had won £2,000 off Mm — and had never got it! For his father (unlike their fathers) had refused to pay. But Mr. Brassington, Jun., was not the man to introduce a subject of that kind. It is a subject of the kind that jars on toffs, unless indeed the toffs themselves introduce it. And on this particular occasion they did.
-
-Mr. Brassington, Jun., had drunk reasonably, Jimmy largely, Melba immoderately. They had come to that one of the many courses which consisted in a very small frozen bird, when Jimmy playfully threw a bone at his guest (who ducked and missed it), and followed his action with the words —
-
-“You didn’t think we should run to this, did you, Booby?”
-
-“Well,” said Algernon Sawby Leonidas Brassington delicately, “of course, I knew that you wanted me to settle, and God knows I tried.”
-
-“That’s all right,” said Melba, in a voice still clear and articulate. “Your father’s paid.”
-
-And having said this, he burst into somewhat unreasoning laughter, choked, and drank a large tumbler of wine to cure his choking.
-
-Booby was bewildered.
-
-“My... father’s... paid?” he said slowly.
-
-Jimmy nodded to confirm the great truth.
-
-“Touched last week, Booby,” he said.
-
-“Where?” wondered the astonished Booby.
-
-“At the bank,” said Melba, and Jimmy added, “Oddly enough.”
-
-“Not the whole thing?” said Booby, his face changing in expression as he said it.
-
-Melba’s mouth being full for the moment, he did no more than lift up his eyes, nod and grunt. Jimmy, who was occupied in a swill, put down the inebriant, drew a breath, and said —
-
-“The whole boodle!”
-
-It was perhaps well for the two young men principally concerned that they were rapidly getting drunk, for in early youth the vice of drunkenness, so fatal to maturer years, will often lead to astonishing virtues. And long before they came to the cheese Jimmy and Melba had discovered that they must talk of the matter seriously. Indeed, Jimmy verged on the sentimental, Melba upon the stupidly pompous, as the ordeal approached. It was over coffee that they faced it, and brandy was their aid.
-
-“Look here, Booby,” said Jimmy, after he and Melba had spent a silent five minutes mentally egging each other on, “you ought to know the truth, it’s only fair. We made your father sign.”
-
-Algernon Sawby Leonidas Brassington had a sudden retrospective vision of his father, and he could make no sense out of the words.
-
-“You made him?” he said, flushing a little. “ Cursed if you did! He’d make you more like!”
-
-An illogical phrase enough, but one sufficiently full of meaning.
-
-“Possibly,” said Jimmy, with the insulted dignity of a person who has dined. “If you don’t want to hear about it you needn’t.”
-
-“Shut up, Jimmy,” said Melba diplomatically.
-
-He tried to make his high and now uncertain voice kind as he went on to the younger Mr. Brassington —
-
-“You see, Booby, it’s like this. Th’ was a lillel comprulsion — y’ know. There was scene, wasn’t there, Jimmy?”
-
-“Oh, yes, scene right ‘nough!” said Jimmy.
-
-“Well, anyhow, he gave us the cheque, and then, you know, we had to prevent its getting out — his getting out, I mean.”
-
-“I don’t understand a word you say,” said Booby.
-
-“No,” said Jimmy too thoughtfully, glaring at the fire. “We were ‘fraid that.”
-
-“If there’s a row, Booby,” said Melba affectionately, “if there’s real row, y’ ought to be warned. That’s what we think.”
-
-“That’s it,” said Jimmy.
-
-Then under the impression that their ordeal was over and their duty done, the two conspirators lapsed into silence. It was a silence which might have lasted some minutes.
-
-It was broken by the ringing of an electric bell in the corridor outside, a sound muffled by the door, and the German reservist whom his unscrupulous Government secretly paid to wait at table at Bolter’s, came in to tell Mr. McAuley that he was wanted at the telephone.
-
-The god Bacchus, when he came out of Asia with those panthers of his, came into Europe the master of many moods, and Jimmy was a young man careless and content as he lifted the receiver. He heard a clear and rather high voice ask him whether he was Mr.
-
-McAuley. It was a voice he seemed to remember. It was the voice of Mr. Kirby.
-
-“I asked them at home where you were,” said the voice, “and they told me I should find you if I rang up Bolter’s.”
-
-“Thank you,” said Jimmy too loudly — but he had no cause for gratitude!
-
-“I am talking from Ormeston,” said the voice; “my name is Kirby.”
-
-Jimmy’s mood began to change.
-
-“I’ve asked for six minutes,” the voice went on, “but I may as well tell you at once. It’s about that house you took — Greystones. Now, Mr. McAuley, in your own interests, would you be good enough to take the 10.15 from King’s Cross. I’ll meet you at Ormeston Station.”
-
-The very brief heroic mood not unknown to the god Bacchus now rushed over Jimmy.
-
-“Upon my word, sir!” he began. Then in the twinkling of an eye another mood — one of alarm — prompted him to add, “Is it anything really urgent?” And his third mood was panic.
-
-Good Lord! He could imagine one or two terribly urgent things in connection with Greystones. What if old Brassington were lying there dead? What if he had exploded, and told the police in spite of his own shame?
-
-“Mr. Kirby!” he cried in a changed voice into the little black cup, “Mr. Kirby!” The wire was dumb, there was only the buzzing and spitting and little fiendish snarls which the marvellous invention has added to modern life. “Mr. Kirby!” said Jimmy still higher and for the third time, but it was a woman’s voice that answered —
-
-“Another three minutes?” it said snappishly, and then the wire went dead.
-
-Twice more and once again did poor Jimmy implore the voice, but Mr. Kirby knew the nature of man, especially of youthful man. He had not attempted to persuade. In the study of his own house at Ormeston he had already replaced the receiver, and was taking down from the book-shelf a volume of Moliere. He loved that author, and there was a good two hours before he need meet the night mail at the station.
-
-After a quarrel with the clerk-in-charge and sundry foolish troubles, Jimmy abandoned the [[Machine|machine]]. He came back to his two companions. They were in the thick of some silly vinous argument or other. They looked up at his entry, and they saw that he was changed.
-
-“What’s matter, Jimmy?” said Melba.
-
-“I — I — I want to talk to you,” said Jimmy nervously, and singularly sober. He looked at Booby.
-
-“Oh, don’t mind me,” said Booby.
-
-“Well, but we do,” said Jimmy ruefully, and he drew Melba into the passage outside.
-
-“There’s a row up,” he said.
-
-“What about?” said Melba.
-
-“Old Brassington,” said Jimmy in a nervous whisper.
-
-“Peached? He wouldn’t dare,” whispered Melba incredulously.
-
-“Why not?” said Jimmy, agonised. “I’ve been called, you know. Called up from Ormeston. Urgently. By the lawyer. There’s a thing in the law, Melba, called ‘duress.’”
-
-“Oh, rats! He can’t prove anything!”
-
-“Damn it all!” said Jimmy, “ we don’t know that.”
-
-“He wouldn’t make a fool of himself,” continued Melba uncomfortably.
-
-“You can’t ever tell with these old jossers. Anyhow, that lawyer chap my father knows, the man we got the house from, has rung me up, and I’ve got to go and see him in Ormeston to-night by the 10.15.”
-
-Melba said nothing.
-
-“Would you go?” continued Jimmy, peeking valiance from his friend.
-
-“No,” said Melba stoutly.
-
-“’Tisn’t you that have got to do it,” said Jimmy bitterly. “’Twas me he called up. I signed, you know, Melba. It’s my name they’ve got.”
-
-“If it was me—” began Melba.
-
-“’Tisn’t you,” said Jimmy rudely, and as he said it Booby came out.
-
-“If you two are going to talk business,” he said suspiciously, “I’m going home to my rooms.”
-
-“Fact is, Booby,” said Jimmy, “I’ve just heard about my aunt; she’s dying.”
-
-Booby was concerned.
-
-“Oh, dear!” he said.
-
-“Yes,” went on Jimmy rapidly, bringing out his watch, and seeing that it lacked only seven minutes of ten, “it’s bad, very bad! I can’t wait.”
-
-He thrust himself into his coat, looked over his shoulder as he ran down the stairs, and with the very disconcerting cry, “Keep Booby!” hurled at his companion, he sought the street and a taxi, and was half-way to King’s Cross before he remembered that Melba must pay for the dinner. But the thought was small comfort compared with the trial that was before him. And for an hour and three-quarters as the train raced up north to the Midlands he comforted himself less and less at the prospect.
-
-
-
-
-<span class="atom-split" data-atom="chapter_17" data-title="The Green Overcoat — Chapter 16" data-chapter="Chapter 17" data-kind="chapter"></span>
-
-
-CHAPTER XVI.
-
-In which cross-examination is conducted “en echelon,” and if you don’t know what that means I can’t help you.
-
-CHEERFUL, MORE THAN cheerful, all smiles, Mr. Kirby was standing at midnight upon the arrival platform of the great station at Ormeston as the night mail came in. He saw the slender figure of a young man whose every gesture betrayed an absurd anxiety coming bewildered up from the end of the train, and looking about him as though seeking a face.
-
-It was a fine cordial welcome that greeted James McAuley, not in the least what he had expected. He was enormously relieved.
-
-“My dear Mr. McAuley,” said the lawyer, with a fine generosity of impulse and in the heartiest of tones, “how very good of you to come! I confess I was very much in doubt whether you would understand the urgency of my message at such short notice. You see,” he added, lying expansively, “they cut us off.”
-
-“Yes,” said Jimmy, thinking that explained all.
-
-“It was a terrible nuisance,” pattered on Mr. Kirby, as he led the boy outside to a cab; “that’s the worst of the telephone. It’s a great help in one way, but.. s Why, you haven’t brought a bag!”
-
-“No,” said Jimmy. “I shall go back by the night mail.”
-
-“As you will, my dear sir,” said the lawyer.
-
-He gave the address of his house, and they drove off.
-
-When they got into the study and were served with drink, Jimmy remembered his anxieties. He considered that imperative message and that hurried journey. The business must be very urgent indeed. He was the more certain of it as he watched Mr. Kirby’s face change to an expression more settled and less familiar. As Mr. Kirby said nothing, Jimmy volunteered another remark.
-
-“I was giving young Brassington a dinner,” he said. “Perhaps you know him? He was at King’s with me.” Mr. Kirby said nothing. “He belongs to this town,” added Jimmy.
-
-Mr. Kirby opened fire in a grave and measured voice.
-
-“Mr. McAuley,” he said, “I know that you know young Mr. Brassington.”
-
-The words seemed to have a little more meaning than Jimmy liked.
-
-“I am an intimate friend of Mr. Brassington, Senior. We think a good deal of him in Ormeston, Mr. McAuley.”
-
-Jimmy crossed his legs, leant back in his chair, sipped his wine, and put on an unconcerned, man-of-the-world visage, not unlike that of a criminal about to be hanged.
-
-Mr. Kirby, with his head thoughtfully poised upon the fingers of his right hand, and looking steadily away from Jimmy’s face, said —
-
-“Yes, we know Mr. Brassington, and we respect him highly.”
-
-Jimmy could bear the tension no longer.
-
-“What is it you want to say to me about Greystones,” he said suddenly.
-
-“Oh, yes, Greystones,” said Mr. Kirby, “of course! But your mention of the Brassingtons made me turn my mind to that sad loss Mr. Brassington has had. I dare say his son told you. I am afraid he can’t recover — but the bank admits it is a forgery.”
-
-“Forgery!” shrieked Jimmy.
-
-It suddenly occurred to him that Booby’s fiendish father had discovered an awfully effective line of attack.
-
-“Well, well,” said Mr. Kirby, “ that’s not business. — Of course, I shouldn’t have troubled you as I have about other people’s business. — But about — Greystones, Mr.
-
-McAuley, the trouble is — of course, I do not blame you, but you will see you are legally responsible — well, the trouble is that after you left the place — painting, weren’t you, I think? — we found the studio in — well, in an odd condition; and, you see,” he went on, shifting his position, and still conversational, “between you and me, the owner of the house is a little — why, almost a little odd.” Mr. Kirby smiled as he proceeded. “It’s not my business to talk about one client to another,” he said, “but you’ll understand me. Fact is, it really sounds too ridiculous, and I did what I could to stop him; but you will understand why I telephoned. He said he’d summons you to-morrow. He says it’s twenty-one pounds.”
-
-Jimmy heard not a word. He was thinking of vastly more important things.
-
-Mr. Kirby continued —
-
-“Of course, I would have paid and communicated with you afterwards. Mr.
-
-McAuley.” Mr. Kirby laughed professionally. “You are legally responsible, whoever it was got in and did the harm. The time isn’t up, you see, and you know the absurdity of the thing is that a man can issue a writ like that! Why, bless you, you can go and buy a pair of boots on credit and find the writ waiting for you when you get home! It’s ridiculous, but it’s the law.”
-
-Jimmy’s face was hot and his eyes were too bright.
-
-“It was not a forgery, Mr. Kirby!” he said. “Not a what?” said Mr. Kirby, looking up with a fine affectation of confusion. “I’m not talking about that, Mr. McAuley. Really, poor Brassington’s loss is none of our business. But if you ‘re interested, and if you ‘re going to see young Brassington, you might tell him that his father’s put the whole thing in my hands, and I am going to have details of the cheque and who it was made out to to-morrow by post at my office.”
-
-“Mr. Kirby,” said Jimmy, in the most agitated of voices, “I solemnly swear to God that that cheque was not forged!”
-
-“Really, Mr. McAuley,” said Mr. Kirby, “I don’t see what you have to do with—”
-
-“Yes, but you will see,” interrupted Jimmy bitterly, “you will see. To-morrow morning!”
-
-“Come, come,” said Mr. Kirby, “I can’t have all this unofficial information. It isn’t fair, you know, not fair to my position as a lawyer. If only you’ll let me know about that little sum for damages at Greystones, since the landlord is so—”
-
-“Mr. Kirby,” burst out the unfortunate James, “ the matter will not brook a moment’s delay! That cheque — Mr. Brassington’s cheque, the cheque you say was forged — was made out to me!”
-
-“What!” shouted Mr. Kirby, springing to his feet.
-
-“That cheque, Mr. Kirby,” went on James firmly, “was made out to me. I passed it through the bank, and I have that money in my bank, at least a good deal of it, and I have paid it away — my part of it — nearly all to my creditors.”
-
-Then he remembered again that Melba would have to pay for the dinner, but it was very small comfort.
-
-Mr. Kirby drew a prolonged breath.
-
-“Really, my dear sir!” he said.
-
-“Yes, Mr. Kirby,” continued Jimmy, “to me. And I have passed it into my account and I have disbursed the money. I am not ashamed of it; and I will answer for it to any man. It was the payment of a just debt, and it was given to me by Mr. Brassington himself, there!”
-
-“My dear Mr. McAuley,” began Kirby again.
-
-“I am telling you the plain truth, and I have witnesses who can go into the box and swear. Not all that wretched, snivelling old fellow can do—”
-
-“An old friend, Mr. McAuley,” said Mr. Kirby suavely, “an old friend!”
-
-“Well,” compromised Jimmy, “I will say Puritan. Not all that old Puritan’s money can get over the plain facts. We can swear to it, both of us. The place and the time. It was the morning after, and it was at Greystones.”
-
-“The morning after what?” said Mr. Kirby.
-
-“Tuesday, the morning after that party, of course. Exactly a week ago. The date’s on the cheque, and what’s more, Mr. Kirby, I have Mr. Brassington’s letter signed by him on that occasion and admitting the debt and his payment of it.”
-
-“Really,” said Mr. Kirby, “indeed! This is most astonishing.”
-
-“He was there,” said Jimmy, “in that ridiculous Green Overcoat of his, and he pulled the cheque book out of his pocket. At least, it was in his pocket,” corrected Jimmy, with a careful fear of tripping up over a verbal inaccuracy where the law was concerned. “He tried to get out of it, but we wouldn’t have it, Mr. Kirby, and so — and so he paid.”
-
-“You are perfectly certain it was Mr. Brassington?” said Mr. Kirby.
-
-“No manner of doubt in the world,” said Jimmy calmly. “ We got him to come with us as he left the party, and we put it before him; and as I tell you, he did hestitate, but he paid at last, and it was a just debt. I may as well tell you, Mr. Kirby, it was his son’s debt. We had lost more than that to our friend in the past, and we paid honourably, and we weren’t going to be welched.”
-
-“After all, Mr. McAuley,” said Mr. Kirby, after a little thought, “I have asked you if you are sure it was Mr. Brassington, and the thing is important. Was he a tall, rather lanky man, with a nervous way with him and loosely dressed? Did he thrust his hands into his pockets? Did he try to talk about Philosophy or his being a Philosopher, or something of that sort? Had he very large feet?”
-
-“Yes, I think,” said Jimmy reminiscently. “Yes, he was tall and spare, and he was nervous, distinctly, even violently you might say. Yes — he had large feet, very, and he said something about being a Philosopher or Philosophy. And at first he had his hands in his pockets — but afterwards you know, well—”
-
-“Well, look here,” said Mr. Kirby thoughtfully, “it was Mr. Brassington as you say — tall and spare and very nervous, and on that Philosophy crank, which is King Charles’s head to him, and in that Green Overcoat of his. Oh, it must have been him all right! But why didn’t you go to his house and ask him for the cash? What’s all this business about Greystones?”
-
-Jimmy kept silent. At last he said —
-
-“That’s his business, Mr. Kirby, and he can tell you that end of the story.”
-
-“Well, look here,” said Mr. Kirby, “I have really no right to get anything of this sort out of you.”
-
-“It’s the truth,” said Jimmy.
-
-“Yes, I know,” said Mr. Kirby; “but you have to be starting for that night mail, and” (he mused) “I tell you what, I’ll stop that ridiculous business about Greystones in the morning. I’ve got to go up to town. Do you think you could see me to-morrow in town? What with your father’s public position and Mr. Brassington’s, Mr. McAuley, it’s much better to have the whole of that other thing out in private. Couldn’t you come early and stay to dine?”
-
-“Yes,” said Jimmy, rising to go, “I could; but wait a minute. I have promised my father to go to a big lecture — he wants me to take my sister.” —
-
-“Where?” said Mr. Kirby carelessly.
-
-“At the Research Club,” said Jimmy. “Don’t know who’s giving it. It’s about ghosts. It’ll be over by six. Where will you be stopping?”
-
-“I shall be at the Rockingham Hotel,” said Mr. Kirby, helping the young man on with his coat as they stood at the door. “It’s close to where the Research Club meets, and I’ll expect you any time from six o’clock onwards. I shan’t go out. Good night,” he said heartily, shaking Jimmy’s hand with all the confidence in the world. “I don’t understand it yet, but you ‘re both honourable men, and I fancy there’s been some mistake.”
-
-Jimmy reserved his opinion and went off to his train.
-
-The lawyer went back into his study, knelt on the floor, lifted the lid of the ottoman with his right hand, put the fingers of his left upon the open under lip of that piece of furniture to steady himself, and gazed quizzically and sadly at the Green Overcoat.
-
-“A beast!” he said. “A fate-bearing, disreputable beast!”
-
-But even as he said it the heavy lid slipped from the palm of his right hand. He had but just time to withdraw his left hand before it crashed down.
-
-Mr. Kirby got up a little shakily. He was a man of imagination, and he winced internally as he thought of crushed fingers.
-
-“Try that on again!” he murmured, wagging his head savagely at the Green Overcoat where it basked hidden within the ottoman; “try that on again, and I’ll rip you up!”
-
-With that he switched off the light and made his way to bed, maturing his plans for tomorrow. But he rather wished he had some outhouse or other in which to hide the garment. He felt a little afraid of all sorts of things — for instance, fire.
-
-
-
-
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="The Green Overcoat — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
 
@@ -5651,6 +5085,100 @@ Thus it was that there fell upon this worthy, stilted and hitherto rather obscur
 
 
 
+<span class="atom-split" data-atom="chapter_10" data-title="The Green Overcoat — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
+
+
+CHAPTER IX.
+
+In which the Green Overcoat begins to assert itself.
+
+“AND WHAT,” SAY you (very properly), “what of the Green Overcoat all this time? After all, it is the title of the book, and I am entitled to hear more about the title. I did not get this book to hear all about a hotch-potch of human beings, I got it to read about the Green Overcoat. What of the Green Overcoat?”
+
+Softly! I bear it in mind.
+
+The adventures of the Green Overcoat throughout those days, when it had taken vengeance upon the human beings who had separated it from its beloved master, may be simply told.
+
+The police in this country know from hour to hour what we do and how we do it; if they were better educated, they would even be able to know why we do it. The travels of any object not honestly come by — if it remain at least in the hands of the poor — may be traced in good time (by the conscientious historian who has access to Scotland Yard) as unerringly as a North Hants fox who, before entertaining the hunt, has been kept in a motor pit for three days.
+
+When Professor Higginson had charged the Man with the Broken Nose with the task of restoring the Green Overcoat to its owner, and had generously prepaid the proletarian for his services upon that occasion, I regret to say that the citizen entrusted with the fulfilment of such a duty most shamefully neglected it.
+
+He did indeed proceed a certain distance in the direction of Crampton Park under the open morning sun, whistling as he went, with the object of convincing his probably suspicious and certainly jealous comrades in the Shelter of his integrity. But when he had got to cover behind a row of cottages, the strange action to which he descended betrayed the baseness of his moral standard.
+
+He no longer continued in the direction of Crampton Park: not he! He dodged at a brisk pace with the heavy thing upon his arm, zigzagging right and left through the streets of the slum-suburb, and soon left the houses for a deserted field which a blank wall hid from neighbouring windows, and to which I must suppose that he had upon various occasions betaken himself when he desired privacy in some adventure.
+
+Seated upon a rubbish heap which adorned that plot of ground, the Man with the Broken Nose first very carefully felt in either pocket of the bargain, and found nothing but a cheque book.
+
+He pulled it out and held it hesitatingly for a few moments in his stubby right hand.
+
+The Man with the Broken Nose was not without his superstitions — superstitions common, I fear, to his class — and one of these was Cheque Books. He knew indeed that with a Cheque Book great things could be done, but he knew not how. He had not possession of the magic password, or of the trick whereby this powerful instrument governs the modern world. He wondered for a moment a little thickly in his early morning mind whether a price were given for such things. For himself he regretfully concluded it was a mystery. He put it back. But even as he did so something in the heap of rubbish gave way, he slipped, and was suddenly acutely conscious of a warm wet feeling in his right calf: it came from a broken bottle.
+
+His leg in the slipping of the rubble had met the glass, and the glass had won; nor did that great Green Overcoat, all sumptuously lined with fur, give a hint of its dread amusement.
+
+The blood was pouring severely from the wound. The Man with the Broken Nose had suffered accidents before; he knew that this might be serious. He lifted his trouser leg, saw the bad gash, and for a moment gently pressed the lips of the wound together.
+
+“It’s a jedgment!” he said. “It’s a jedgment!” he repeated to himself.
+
+But even so manifest a sign from On High would not deter him from his purpose. He tore from his shirt a strip wherewith to bind his leg, and limped with increasing pain back towards the streets of the town.
+
+He was seeking a house not unknown to him, for it was a place where those who have few friends can always find a friend, the residence of a Mr. Montague, Financier and Master of those mean streets; and as he limped, carrying his booty upon his arm, he cursed.
+
+The morning sun brought him no gladness. The Green Overcoat seemed heavier and heavier with every yard of his way, until at last he stood before a house like any other of those unhappy little houses wherein our industrial cities rot, save that its glass was a little dirtier, its doorstep more neglected, its paint more faded than that of its neighbours.
+
+For a moment the Man with the Broken Nose hesitated. The day was extremely young. Mr. Montague might not care to be aroused. It was important for him and for many like him that he should keep Mr. Montague’s good will. Then he remembered that in a little time the Knocker-up would come his rounds, and that that wretched street of slaves would wake to work for the rich in the city.
+
+The thought decided him. He rapped gently with his knuckles on the ground floor window. There was no response. He rapped a second time. A terse but unpleasant oath assured him that he had aroused whoever slept therein. A minute or two later he heard shuffling slippers moving cautiously across the passage. The door was opened a crack, and a very short man, very old, hump-backed one would almost say, with a beard of prodigious growth and beastliness tucked into a dressing-gown more greasy than the beard, stood in the darkness behind the half-open door.
+
+“I do ‘umbly beg pardon,” began the Man with the Broken Nose, making of the Green Overcoat a sort of shield and offering at once. “I do ‘umbly beg pardon, Mr. Montague, but I thought—”
+
+“Curth what you thought!” said the bearer of that ancient crusading name, in a voice so husky it could hardly be heard. “Curth what you thought! Come in!”
+
+The Man with the Broken Nose slipped in with something of the carriage that a poor trapper might show who should take refuge from a bear in the lair of a snake.
+
+“I ‘umbly beg pardon,” he began again in the darkness of the passage, and the old bearded apparition with the crusading name answered —
+
+“Shut your mouth!”
+
+The Man with the Broken Nose obeyed. The cautious, shuffling slippers led the way. A match was struck. The little dangerous figure reached up on tip-toe and lit a flaring unprotected gas-jet. The only window giving upon that passage was boarded.
+
+“Take it inter the light, Mr. Montague, take it inter the light!” said the visitor eagerly, making as though to open the door of a further room which would be flooded with the morning sun.
+
+His hand was upon the latch. With a curious, hardly audible snarl, Mr. Montague caught that hand a sharp blow on the wrist, and it said much for Mr. Montague’s high standing with the Ormeston poor that the Man with the Broken Nose took no offence.
+
+Under the flaring gas-jet Mr. Montague was turning the Green Overcoat over and over again.
+
+“Give yer a quid,” he said after about three minutes of close inspection.
+
+“Why, Mr. Montague, sir!” the other had just begun, when he heard a hiss which formed the words, “Wish you may die!” and felt upon his shoulder the grip that was not like the grip of a human hand, but like the grip of a talon.
+
+The Man with the Broken Nose was not prepared to argue. There had been one or two things in his full and varied life which if Mr. Montague had mentioned them even in a whisper would have made him less inclined to argue still, and he knew that Mr. Montague had a way of whispering sometimes into the ear of Memory things which a better breeding would have respected.
+
+Mr. Montague knew the value of time.
+
+Far up the line of streets the first strokes of the Knocker-up were heard.
+
+The Man with the Broken Nose found himself a moment later standing in the street with one sovereign in his hand for a twenty-guinea garment, and looking at the shut door and the meaningless, dirty windows which contained his prize.
+
+He wished the new owner joy in Hell, he wished it aloud with that amazing bitterness which the poor of our great cities distil more copiously than any men on earth: for of all men upon all the earth they are the most miserable.
+
+He took out the sovereign he had just received, and his mood changed. He spat on it for luck. He felt himself going curiously lightly, and then he remembered of what a burden he was rid. He walked without difficulty, and only in a hundred yards or two did he remember his wound. It seemed to have healed quickly. It had not opened. He almost felt as though it were healing — and now I am concerned with him no more. The Green Overcoat is out of his keeping, and has no intention of returning to it.
+
+But in the filthy little room of that filthy little house the filthy little bearer of the old crusading name, Mr. Montague, sat huddled upon his bed — a bed he made himself, or rather left unmade from week to week — and examined carefully upon his knee the fur, the cloth, the make of the gorgeous apparel.
+
+He smiled, and as he smiled he sneered. For God had so made Mr. Montague that sneering and smiling were with him one thing.
+
+There was value in that piece of cloth upon his knee, but it was of two kinds: value to anyone who would buy, more value, perhaps, to some owner that would recover. He considered either chance, and even as he considered them and sat staring at the expanse of Green Cloth an odd thing happened; not in the external world, nor within the walls of that room, but within the old man’s mind. He thought suddenly of Death!
+
+A tremor passed over the whole surface of his skin, downwards from his neck to his feet. He coughed and spat — clear of the Green Overcoat — upon the floor; and he cursed for a moment in a language that was not English. Then the thought passed as suddenly as it had come, and he was himself again, but the weaker for that moment. His hand trembled as he set it to do what every hand appeared so prone to do when the Green Overcoat came near it. He put that trembling hand into the left-hand pocket and found nothing. He had expected as much. Was it likely that his visitor would have left anything? For form’s sake he put it into the right hand pocket in turn; and thence, to his amazement, he drew out the Cheque Book!
+
+He looked at it stupidly for a moment, not understanding how such a prize should conceivably have been abandoned. Then he smiled again that! not cheerful smile, and slowly consulted the name of the bank and of the owner, and the counterfoils one by one.
+
+The sums that stood therein called to him like great heralds; they made his puny old chest heave and certain muscles in him grow rigid.
+
+He was in the midst of the tale when his whole being fainted within him, as it were — stopped dead at the noise of a violent [[Rain|rain]] of blows upon his outer door.
+
+
+
+
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="The Green Overcoat — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
 
 
@@ -5829,6 +5357,74 @@ Mr. Montague said no more. He had done his duty. Whatever the Pole might suffer 
 He was off, was Mr. Montague, shuffling out of the little shop hurriedly across the tramway line of the Lydgate, and back by devious and narrow ways to his mean house.
 
 An odd relief filled him as he walked, and an odd lightness as he entered. He had got rid of an accursed thing. And it so happened that when he reached that filthy little room of his, as sleep was overpowering him, he knelt and prayed to a God of the Hills, a strange and vengeful but triumphant God, who had saved his servant Montague.
+
+
+
+
+<span class="atom-split" data-atom="chapter_12" data-title="The Green Overcoat — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
+
+
+CHAPTER XI.
+
+In which a Pole is less scrupulous.
+
+THE NAME OF the lounger was James. That was his Christian name. What his family name might be it is impossible to discover at this distance of time, for he had been born in 1868, brought up in the workhouse, apprenticed to a ropemaker, passed various terms in jail under various aliases, gone to sea, naturalised as an American citizen, returned to England as valet in the service of a tourist, been dismissed a few years before for theft, and was at this moment a member of the New Bureaucracy, to wit, a Watcher and Checker under the Ormeston Labour Exchange. He was paid (by results, 2s. 6d for each conviction) to see that the poor did not cheat the higher officials of that invaluable Public office, to worm out the true history of applicants at the Exchange and to provide secret evidence against them, that they might be imprisoned and black-listed if they concealed their past from the Secretary — a Valued Servant of the State.
+
+James, then, wandered out into God’s great world upon that happy morning with a bundle under his arm. Two conflicting thoughts disturbed him. First, where he might sell the content at the highest price, and, secondly, where he might sell it with the greatest security. Such divergent issues disturb the great men of our time as well as wandering men bearing alien coats; they are at the root of modern affairs.
+
+The more he thought of it the more did James determine by the feel that the bundle was clothes; why, then, his market was a shop in the Lydgate, an old quarter of the town, now full of slums, wherein dwelt a certain Pole of the name of Lipsky. This man, by common repute, was well with the police, and in our English towns that, with the poor, is everything. Lippy would not give him full value, but he could give him full security. He would give him perhaps but a quarter of the value, but he would at least give him a free run with the money and no awkward questions for the men in blue.
+
+Such an advantage is it to have assured the police of one’s integrity.
+
+Nevertheless, he thought it of advantage to discover of what value the bundle might be. Even if he was to get but a quarter of its value from the Pole, he would like to know what it was that he was to get a quarter of.
+
+He lollopped lazily down the street. His time was his own. He peered through a neglected doorway into an empty yard, stepped into it, behind the screen of a hoarding, looking first up and down to see whether any of the tyrants were about. Seeing no helmet and therefore no tyrant, he untied the parcel and pulled out the coat within. He was agreeably surprised. He had expected slops, but this was not slops. He was no valuer, but he would imperil for ever the true end of man’s soul and suffer the companionship of demons for eternity (such were the rash hazards he took) if it were not two quid, and played properly it might be three.
+
+Wait a moment, there might be something in the pockets. He felt in the left-hand pocket — nothing; in the right-hand pocket, there nothing but that solid, oblong cheque book with four cheques torn out. At first he thought of throwing it away, for it identified the owner of the garment. Then he remembered things called “clues,” and threw far from him the very idea instead of the cheque book. He tried to decipher the name, but could not. James could read and write when he had left school, but that was a long time ago. He had done more useful work since then.
+
+Next he remembered the suspicious haste of Mr. Montague. He began to wonder whether the bundle was quite safe. He determined to hurry; and as for the price, why, he would take what he could get.
+
+He fastened up the parcel again, and in a sobriety of mind which was new to him and not altogether pleasant, he took the road to the Lydgate. Mr. Montague might have spared his fears. The day was early, James had as yet no pence, he could not board a tram. But somehow or other the bundle was unnaturally clumsy or unnaturally heavy.
+
+He felt a distaste for it. The distaste enlarged, something had gone wrong. As he went down that morning street alone, resolutely trudging, he heard within him the echoes of a voice he did not wish to hear. It was the voice of a woman, not sober, but holding to him. He thought he could not have remembered such a thing after ten years, and of a summer morning. It is odd that even the poor should mislike such memories; James misliked them abominably. Perhaps he was more sensitive for the moment than are most of the poor....
+
+Yes! How she did drink, damn her..:. Why the Hell was he thinking of such things? And how clear her voice was... — . Then he saw the name “Lipsky” over the way. He was at the Lydgate already. Could a man be drunk in the flush of morning and without liquor? Nay, drink dulled such things, and he had heard that voice awfully clear within him.
+
+He trudged into the shop, shaking his mind free, and thinking of the sovereign — or two sovereigns at least.
+
+The gentleman in charge — there was but one — exchanged mutual recognitions with James. The one was a Pole and the other an Englishman; but both were human, and therefore brethren. Then James untied the parcel. But when James had untied the parcel it was apparent that though both were human, Lipsky was a Pole and not a man of the Midlands, for he thrust it from him with his palms outward, sliding his wrists upon the counter, and moving his fingers like Small snakes in the air. Lippy was not taking any.
+
+James looked at him, and did not understand.
+
+“I got it straight, I did!” he said.
+
+Lippy didn’t want to look at it.
+
+“I don’t want it, there!” burst out James (he could not for his life have told you why), and Lippy, leaning over familiarly but insolently, told him (in Polish English) that if he tried to sell it he would not long be a free man. James thought this treason, and in his heart he was determined on revenge. What had he done to Lippy to receive such a threat? The whole air about these men as they met, and as this lump of cloth lay between them, was unreal and fantastic. Each felt it, each in his utterly different mind. For such things, if you will excuse me, happen to the poor also, as we all know they do to the rich, whether through drink or what-not I can’t tell, whether for drink or what-not it is for them to determine. There was fate, and there was compulsion, and there was the profound ill-ease of the soul hovering over that dirty counter in the slums as they hover over the tables of politicians when similar bargains are toward in a larger world. James tied his bundle up again and went out without a word.
+
+One beefy part of him suggested that the coppers were too close on the trail and that Lippy knew it; but another part of him, more permanent, more real, deeper, smelt the truth. He himself had suffered dread; he felt vaguely that Lippy knew the cause of that dread, and that for both of them there was something strange about the Thing. The Soul was in trouble.
+
+Oh! James knew it very well. The big bundle under his left arm so weighed upon that primal part of us, which is within, that all the things least desired and most carefully forgotten of his life returned again under its influence and maddened him. With the simplicity of his class, he thought the evil to be attached to the fact that the coat was stolen. Unlike his betters, he had never dreamt that stealing was right. He had always known that it was wrong.... He had a mind to put the Green Overcoat down in the thoroughfare and leave it there. In spite of the risk, he would have done so in another moment had he not heard shuffling footsteps coming up rapidly behind him and felt a soft Polish hand upon his shoulder. It was Lippy.
+
+The Poles when they enter the Second Hand Clothes Trade prove themselves commercial. Their ancient chivalry seems to desert them in this line of business, and something material creeps into their gallant hearts. Lippy had reproached himself, Lippy had been tortured as he had seen the lounger’s figure slowly and doubtfully receding burdened with a thing of so much value.
+
+With the disappearance of the Green Overcoat the supernatural warnings (for which he despised himself) had disappeared, and he remembered only its very mundane value. He could not bear the loss, and he had followed.
+
+The lounger James turned round startled, and instinctively thrust the bundle towards the man who, he instinctively knew, had repented of his first decision. Lippy seized it, guiltily, furtively, violently, and without a word he was on his way back to his shop. But as for James, he went his way noting suddenly the pleasantness of the morning; that excellent Watcher and Checker under the Labour Exchange of Ormeston, that Pillar of Free Labour, that Good Servant of the State, that member of our New Bureaucracy of Social Reform, was himself again. He went forward whistling, and he found it in a few moments quite easy to forget the Thing and all the memories that had cropped up with the Thing. He had passed it on, and Lippy was holding the baby.
+
+In the few steps to his shop the Pole had no time to repent, though his mind was ill at ease. Mr. Montague was a strange man. He had strange wisdom. He could read strange books. And if Mr. Montague had come to warn him, well...
+
+Lippy dismissed the superstitious fear. He opened the bundle, he gazed on the Sacred Green Thing, he felt the pockets (of course), he saw the cheque book and the wealthy name. He shuddered — but he gloried. Then he fastened the whole up again, put the bundle into a great drawer under his counter, sighed a mechanical sigh of mechanical relief, and began to busy himself with the arranging and ticketing of his goods for the day.
+
+But as that day wore on the Pole was not himself. He was too nervous, too snappy with customers, too much affected by slight sounds when the evening came, and all that night he lay but dozing, waking continually in starts from disordered dreams of unaccountable vengeance.
+
+The next day, the Friday, Lippy was very ill. No movement of conscience disturbed him, he had not wronged his own; yet in his fever he suffered dreadfully from some unreasoning sense of evil.
+
+The old woman who chared for him was for calling a doctor. All Monday Lippy, weakening in his sick-bed, fought against the expense. As it was, he had been compelled to pay a doubtful boy — a non-Pole, and therefore ill suited to commerce — to mind the shop, and twice he left his bed, at the risk of his life, and tottered down to see that no harm was coming to his business. On each occasion as he neared that counter with its drawer and its secreted bundle a more violent trouble had returned, and he had had to be helped up dazed and trembling to his wretched bed and room above.
+
+So Monday passed, and what happened on the Tuesday and why, a return to others who had meddled with the Green Overcoat will explain: Why on the morning of Tuesday Lippy woke refreshed in body, but very weak; why he had an odd feeling that things were mending, how he could not tell; why it was that in the early afternoon of that day he heard in the shop below a voice addressing his assistant in an accent very unusual to such shops; why Lippy listened carefully at the door and thought he knew the voice.
+
+The voice you will find, Readerkin, was that of Mr. Kirby, and Mr. Kirby was asking in the most direct fashion possible for the coat, for the Green Overcoat; he made no bones about it, he put it square. Very hurriedly did Lippy dress, and very hurriedly, weak as he was, did he totter down the stairs that Tuesday Morning.
 
 
 
@@ -6459,6 +6055,410 @@ He was actually at the door, when Mr Kirby added —
 “Well, well,” said Mr. Kirby more cheerfully, and shaking him cordially by the hand, “I won’t keep you; next Wednesday in town! I’ll write!” and he sauntered back into his room.
 
 The great Psychologist slowly paced the street outside, then despair gave him relief, and he went home to bed.
+
+
+
+
+<span class="atom-split" data-atom="chapter_15" data-title="The Green Overcoat — Chapter 14" data-chapter="Chapter 15" data-kind="chapter"></span>
+
+
+CHAPTER XIV.
+
+In which, incredible as it may seem, a non-Pole has the better of a Pole.
+
+ON TUESDAY MORNING Mr. Kirby woke eager for action. Things were fitting in. It was great fun.
+
+Mr. Kirby loved to fit things in — he ought to have been a soldier.
+
+He calculated with a pleasing exactitude. That morning — thanks to the stupid police and the telephone — he would find the Green Overcoat; that afternoon and evening he would invite such other guests as pleased him to dine with him next day, the Wednesday, in London, after Professor Higginson’s great lecture upon the Immortality of the Soul. It was an interesting subject, the Immortality of the Soul.
+
+To make certain that all his guests should be there, he would try to talk to one of them in London over the telephone from Ormeston that night.... One of them called James McAuley. He liked the boy. While he was about it he thought he would get a friend of McAuley’s to come as well. He didn’t know the name of the friend, but no matter; one should always ask one’s friends’ friends.
+
+So deciding, Mr. Kirby, delighted at the brightness of the day, walked merrily towards a quarter of Ormeston which we have already visited, and which is not the choice of the rich. He walked through the dirty, narrow little streets, prim in his excellent kit, well-groomed and flourishing. He was old-fashioned enough to have a flower in his button-hole, and he had been very careful with his hat. He was going to see someone he knew, someone he had known professionally in the past, and with whom a few years ago he had had very interesting business. He was going to see a man who bore a fine old crusading name, but who must have come down somewhat in the world, though doubtless he had kept his family pride. He was going to see a Mr. Montague.
+
+He knocked at the door in a sharp, commanding sort of way. It was opened quickly, and the little old figure appeared within, armed with insolence. When the eyes recognised Mr. Kirby, the face of that little old figure turned in a moment from insolence to servility.
+
+“Good morning, Samuel,” said Mr. Kirby briskly. “No, I won’t come in, thank you. I only want you to tell me something. I’m sorry to trouble you. Where’s that Green Overcoat of Mr. Brassington’s? He lost it a few days ago, and a friend of mine told me that you were quite likely to know.”
+
+I will waste neither my time nor the reader’s in describing Mr. Montague’s face at hearing this question; but I will say this much, that it looked like one of those faces carved in hard stone, which antiquity has left us, quite white, not expressionless, but with an expression concealed, and as one might swear, dumb. But the face spoke. It said in a very unnatural voice, a voice lacking breath —
+
+“I swear to God I don’t know, Mr. Kirby. If I knew, I swear to God I’d tell you.”
+
+“Just tell me what you did with it,” said Mr. Kirby easily and rapidly, looking at his watch. “I’ve got to fit a lot of things in.”
+
+“I swear to God, sir,” said the face, “I gave it away.”
+
+Mr. Kirby’s smile grew stronger, then suddenly ceased. He believed him.
+
+“Was that all, Samuel?” he asked, turning to go. There was a grave suggestion of peril in his voice.
+
+The face said only —
+
+“Well, I had to warn my own lot, Mr. Kirby; I had to warn my nephew, sir. I had to warn Lipsky not to touch it, not touch it on any account, Mr. Kirby!”
+
+“Lipsky in the Lydgate?” said Mr. Kirby. “Then he’s got it! Good morning, Samuel,” and the lawyer strode away.
+
+He was sorry to have gone out of his way by a quarter of a mile, but he was glad to have got the information he desired.
+
+The little closed shop in the Lydgate seemed to have something deserted about it as he came near. Mr. Kirby was familiar with the stack of old suits outside, the big placarded prices, the occasional announcements of a sale. To-day things seemed less promising and less vivacious, as though the master’s hand were not there. Mr. Kirby had known that master also in the past — all in the way of business — and if anything had happened to him he would have regretted it like the passing of a landmark. He walked straight into the shop, and there, instead of the Pole Lipsky, what he saw was an obvious non-Pole, an inept Midland youth with flaxen hair, a stammerer, and a very bad sales man.
+
+Mr. Kirby addressed his young compatriot quickly but courteously.
+
+“Would you be kind enough to give me Mr. Brassington’s Green Overcoat?” he said “Wh-wh-wh-what?” said the non-Pole, utterly at sea.
+
+There is a type in the modern world which is not destined to commercial success, and certain forms of the non-Polish type present extreme examples of the kind.
+
+“Mr. Brassington’s Green Overcoat,” repeated Mr. Kirby steadily and hard.
+
+Upstairs Lipsky, rising from his sick bed, heard. He heard the unusual voice, he heard the name, and, as I have written some pages back, he came down.
+
+There is always a common bond between intelligence and intelligence, though the intelligence of the one man be that of an Englishman and of the other man be that of a Pole; and as Lipsky entered the shop Mr. Kirby and he at once picked up communications, and the assistant at once dropped out of the scheme.
+
+“Oh, Mr. Lipsky,” said Mr. Kirby courteously, “I’m afraid you’ve been ill I’m sorry for that! But the fact is I’m rather in a hurry, and have come for Mr. Brassington’s Green Overcoat.”
+
+“Yes, Mr. Kirby, certainly,” said the shopkeeper.
+
+He did not understand this race which was not his, but he knew perfectly well that Mr. Kirby would not betray him.
+
+“Very glad you’ve called, Mr. Kirby. I just got it done up to send round to Mr. Brassington’s this minute. My assistant took it in, sir.”
+
+“I “ began the non-Pole.
+
+“Silence!” thundered Mr. Kirby to his compatriot, and Mr. Lipsky was very grateful.
+
+Mr. Lipsky continued eagerly —
+
+“You’ll find it all right, Mr. Kirby. There’s the cheque book in the pocket, that’s how I knew it!”
+
+“Yes, of course,” said Mr. Kirby airily, “that’s all right.”
+
+“You won’t take it, Mr. Kirby,” said Mr. Lipsky respectfully; “I’ll have it sent.”
+
+“Yes, certainly,” nodded Mr. Kirby, as he went out of the shop. “No hurry, any time this afternoon — to my private house, not my office, you know.”
+
+Mr. Lipsky came to the door and smiled him out — such a smile! Yes, Mr. Lipsky knew that private house of Mr. Kirby’s! He had been granted two or three interviews there. He knew it extraordinarily well.
+
+The lawyer went back through the sunlit streets at a loose end. He felt unusually leisured, though he was a leisured man. Like the peri in the poem, his task was done.
+
+He basked through that afternoon. He rang up the Rockingham Hotel in London to reserve a room and to order dinner for the next day. He rang up his friend Brassington again, to be sure of the appointment, and to be sure that Brassington was bringing his son. Then, when evening came, he took down the big London telephone book and looked up the number of Sir Alexander McAuley, the great doctor. It was years since Mr. Kirby had seen him; but they had known each other well in the past, and he would not mind the liberty. Besides which, what Mr. Kirby wanted as he called up Trunks after dinner that Tuesday evening was not Sir Alexander, but his son, Mr. James. Time pressed, and Mr. Kirby was very keen on talking to Mr. James McAuley.
+
+He got Sir Alexander’s house. He heard that Mr. James McAuley was out. He got the name of the restaurant where the youth was dining with some friends. He rang up that restaurant, and at last, a little after halfpast nine, he had the pleasure of hearing Jimmy’s fresh voice at the end of the wire.
+
+What that conversation was I must, in my next chapter, take the reader to the other end of the wire to inform him; but hardly had he put down the receiver when the door-bell rang and the non-Pole, carrying a bundle for Mr. Kirby, appeared in the hall. Evidently Mr. Lipsky was a good business man. He would not disturb the routine of his shop; things that did not belong to business hours he did outside business hours, and he knew how to get the most out of his assistant’s time.
+
+There stood in Mr. Kirby’s study a large Ottoman. He lifted the lid of that Victorian piece of furniture, and bid the boy put the bundle in.
+
+Mr. Kirby was wholly devoid of superstition. None the less, he went out of the house shortly after, and during the hour or two at his disposal he took the Midland air. Of course, there was nothing in Mr. Brassington’s private twist about Green Overcoats, but why should a sensible man run any risks at all?
+
+
+
+
+<span class="atom-split" data-atom="chapter_16" data-title="The Green Overcoat — Chapter 15" data-chapter="Chapter 16" data-kind="chapter"></span>
+
+
+CHAPTER XV.
+
+In which three young men eat, and not only eat, but drink.
+
+THERE ARE FEW restaurants left in London where gentlemen may meet with some sort of privacy and with the chance of eating reasonable food. It might be more accurate to say there are none. But whether there are any left or not, I am going to invent one for the purposes of this story, and to inform you that on this same Tuesday night upon which Mr. Kirby was telephoning to Sir Alexander McAuley, Jimmy and Melba were very kindly entertaining Algernon Sawby Leonidas Brassington — Mr. Brassington, Jun., for short — at dinner in a private room at Bolter’s.
+
+Bolter’s, I need hardly inform such a woman of the world as my reader, is the one place left in London where a man can dine well and yet at his ease. It stands in a little street off Regent Street eastward, and by a happy accident has been worthy of its reputation for seventy years. Either it has not paid Bolter’s, or Bolter’s has been too proud, but anyhow the Whelps of the Lion are quite ignorant of Bolter’s, so are the cousins of the noble beast, so certainly are the greater part of such degraded natives of the European Continent as we permit to visit our Metropolis and to stare at our Imperial Populace.
+
+Even the young bloods for the most part have not heard of Bolter’s, and as it never spends a penny on advertisements, its name, on the rare occasions when it appears in an article or a letter, is ruthlessly struck out in proof by the blue pencil of the editor.
+
+Bolter’s is known and loved by perhaps two hundred families. It is a tradition, and as you may well imagine, enormously expensive. If you are two dining at Bolter’s, you may expect to spend £7, and if you are three, £10. If you are very rich, it is worth your while to dine at Bolter’s. If you are only moderately rich, it is worth your while. If you are poor, it is also worth your while to go to prison for not paying — so excellent is the food.
+
+All this I tell the reader in order that he may know how and why Jimmy and Melba were entertaining their friend. That friend, though his father was a very wealthy man, was a little awed by the surroundings. He had heard of Bolter’s — once or twice, not more — from the fringes of that governing world in which some of his University friends lived. He remembered the son of a Cabinet Minister complaining of Bolter’s, and a peer of the realm (a former furniture dealer and picture broker and for that matter moneylender) saying that Bolter’s was filthy. Such praise was praise indeed. He remembered that ladies did not go to Bolter’s. He remembered talk of a dinner at Bolter’s just before a little group of men had gone out in his first year to India, and now that he was sitting in Bolter’s he felt duly impressed. He knew that Jimmy’s people were “in” what he could never be “in.” Melba was more of an enigma to him, but anyhow Melba was thick with Jimmy and Jimmy’s lot. In other words, he knew that Jimmy and Melba were both on the right side of a certain line which runs round very definitely through the core of English society and encloses a very narrow central space; but, on the other hand, he knew — he had the best of reasons for knowing — that they were not exactly flush. He knew they couldn’t be flush because whereas he, Leonidas, had in the past won £1,800 off them at cards — and spent it — they, Jimmy and Melba, had won £2,000 off Mm — and had never got it! For his father (unlike their fathers) had refused to pay. But Mr. Brassington, Jun., was not the man to introduce a subject of that kind. It is a subject of the kind that jars on toffs, unless indeed the toffs themselves introduce it. And on this particular occasion they did.
+
+Mr. Brassington, Jun., had drunk reasonably, Jimmy largely, Melba immoderately. They had come to that one of the many courses which consisted in a very small frozen bird, when Jimmy playfully threw a bone at his guest (who ducked and missed it), and followed his action with the words —
+
+“You didn’t think we should run to this, did you, Booby?”
+
+“Well,” said Algernon Sawby Leonidas Brassington delicately, “of course, I knew that you wanted me to settle, and God knows I tried.”
+
+“That’s all right,” said Melba, in a voice still clear and articulate. “Your father’s paid.”
+
+And having said this, he burst into somewhat unreasoning laughter, choked, and drank a large tumbler of wine to cure his choking.
+
+Booby was bewildered.
+
+“My... father’s... paid?” he said slowly.
+
+Jimmy nodded to confirm the great truth.
+
+“Touched last week, Booby,” he said.
+
+“Where?” wondered the astonished Booby.
+
+“At the bank,” said Melba, and Jimmy added, “Oddly enough.”
+
+“Not the whole thing?” said Booby, his face changing in expression as he said it.
+
+Melba’s mouth being full for the moment, he did no more than lift up his eyes, nod and grunt. Jimmy, who was occupied in a swill, put down the inebriant, drew a breath, and said —
+
+“The whole boodle!”
+
+It was perhaps well for the two young men principally concerned that they were rapidly getting drunk, for in early youth the vice of drunkenness, so fatal to maturer years, will often lead to astonishing virtues. And long before they came to the cheese Jimmy and Melba had discovered that they must talk of the matter seriously. Indeed, Jimmy verged on the sentimental, Melba upon the stupidly pompous, as the ordeal approached. It was over coffee that they faced it, and brandy was their aid.
+
+“Look here, Booby,” said Jimmy, after he and Melba had spent a silent five minutes mentally egging each other on, “you ought to know the truth, it’s only fair. We made your father sign.”
+
+Algernon Sawby Leonidas Brassington had a sudden retrospective vision of his father, and he could make no sense out of the words.
+
+“You made him?” he said, flushing a little. “ Cursed if you did! He’d make you more like!”
+
+An illogical phrase enough, but one sufficiently full of meaning.
+
+“Possibly,” said Jimmy, with the insulted dignity of a person who has dined. “If you don’t want to hear about it you needn’t.”
+
+“Shut up, Jimmy,” said Melba diplomatically.
+
+He tried to make his high and now uncertain voice kind as he went on to the younger Mr. Brassington —
+
+“You see, Booby, it’s like this. Th’ was a lillel comprulsion — y’ know. There was scene, wasn’t there, Jimmy?”
+
+“Oh, yes, scene right ‘nough!” said Jimmy.
+
+“Well, anyhow, he gave us the cheque, and then, you know, we had to prevent its getting out — his getting out, I mean.”
+
+“I don’t understand a word you say,” said Booby.
+
+“No,” said Jimmy too thoughtfully, glaring at the fire. “We were ‘fraid that.”
+
+“If there’s a row, Booby,” said Melba affectionately, “if there’s real row, y’ ought to be warned. That’s what we think.”
+
+“That’s it,” said Jimmy.
+
+Then under the impression that their ordeal was over and their duty done, the two conspirators lapsed into silence. It was a silence which might have lasted some minutes.
+
+It was broken by the ringing of an electric bell in the corridor outside, a sound muffled by the door, and the German reservist whom his unscrupulous Government secretly paid to wait at table at Bolter’s, came in to tell Mr. McAuley that he was wanted at the telephone.
+
+The god Bacchus, when he came out of Asia with those panthers of his, came into Europe the master of many moods, and Jimmy was a young man careless and content as he lifted the receiver. He heard a clear and rather high voice ask him whether he was Mr.
+
+McAuley. It was a voice he seemed to remember. It was the voice of Mr. Kirby.
+
+“I asked them at home where you were,” said the voice, “and they told me I should find you if I rang up Bolter’s.”
+
+“Thank you,” said Jimmy too loudly — but he had no cause for gratitude!
+
+“I am talking from Ormeston,” said the voice; “my name is Kirby.”
+
+Jimmy’s mood began to change.
+
+“I’ve asked for six minutes,” the voice went on, “but I may as well tell you at once. It’s about that house you took — Greystones. Now, Mr. McAuley, in your own interests, would you be good enough to take the 10.15 from King’s Cross. I’ll meet you at Ormeston Station.”
+
+The very brief heroic mood not unknown to the god Bacchus now rushed over Jimmy.
+
+“Upon my word, sir!” he began. Then in the twinkling of an eye another mood — one of alarm — prompted him to add, “Is it anything really urgent?” And his third mood was panic.
+
+Good Lord! He could imagine one or two terribly urgent things in connection with Greystones. What if old Brassington were lying there dead? What if he had exploded, and told the police in spite of his own shame?
+
+“Mr. Kirby!” he cried in a changed voice into the little black cup, “Mr. Kirby!” The wire was dumb, there was only the buzzing and spitting and little fiendish snarls which the marvellous invention has added to modern life. “Mr. Kirby!” said Jimmy still higher and for the third time, but it was a woman’s voice that answered —
+
+“Another three minutes?” it said snappishly, and then the wire went dead.
+
+Twice more and once again did poor Jimmy implore the voice, but Mr. Kirby knew the nature of man, especially of youthful man. He had not attempted to persuade. In the study of his own house at Ormeston he had already replaced the receiver, and was taking down from the book-shelf a volume of Moliere. He loved that author, and there was a good two hours before he need meet the night mail at the station.
+
+After a quarrel with the clerk-in-charge and sundry foolish troubles, Jimmy abandoned the [[Machine|machine]]. He came back to his two companions. They were in the thick of some silly vinous argument or other. They looked up at his entry, and they saw that he was changed.
+
+“What’s matter, Jimmy?” said Melba.
+
+“I — I — I want to talk to you,” said Jimmy nervously, and singularly sober. He looked at Booby.
+
+“Oh, don’t mind me,” said Booby.
+
+“Well, but we do,” said Jimmy ruefully, and he drew Melba into the passage outside.
+
+“There’s a row up,” he said.
+
+“What about?” said Melba.
+
+“Old Brassington,” said Jimmy in a nervous whisper.
+
+“Peached? He wouldn’t dare,” whispered Melba incredulously.
+
+“Why not?” said Jimmy, agonised. “I’ve been called, you know. Called up from Ormeston. Urgently. By the lawyer. There’s a thing in the law, Melba, called ‘duress.’”
+
+“Oh, rats! He can’t prove anything!”
+
+“Damn it all!” said Jimmy, “ we don’t know that.”
+
+“He wouldn’t make a fool of himself,” continued Melba uncomfortably.
+
+“You can’t ever tell with these old jossers. Anyhow, that lawyer chap my father knows, the man we got the house from, has rung me up, and I’ve got to go and see him in Ormeston to-night by the 10.15.”
+
+Melba said nothing.
+
+“Would you go?” continued Jimmy, peeking valiance from his friend.
+
+“No,” said Melba stoutly.
+
+“’Tisn’t you that have got to do it,” said Jimmy bitterly. “’Twas me he called up. I signed, you know, Melba. It’s my name they’ve got.”
+
+“If it was me—” began Melba.
+
+“’Tisn’t you,” said Jimmy rudely, and as he said it Booby came out.
+
+“If you two are going to talk business,” he said suspiciously, “I’m going home to my rooms.”
+
+“Fact is, Booby,” said Jimmy, “I’ve just heard about my aunt; she’s dying.”
+
+Booby was concerned.
+
+“Oh, dear!” he said.
+
+“Yes,” went on Jimmy rapidly, bringing out his watch, and seeing that it lacked only seven minutes of ten, “it’s bad, very bad! I can’t wait.”
+
+He thrust himself into his coat, looked over his shoulder as he ran down the stairs, and with the very disconcerting cry, “Keep Booby!” hurled at his companion, he sought the street and a taxi, and was half-way to King’s Cross before he remembered that Melba must pay for the dinner. But the thought was small comfort compared with the trial that was before him. And for an hour and three-quarters as the train raced up north to the Midlands he comforted himself less and less at the prospect.
+
+
+
+
+<span class="atom-split" data-atom="chapter_17" data-title="The Green Overcoat — Chapter 16" data-chapter="Chapter 17" data-kind="chapter"></span>
+
+
+CHAPTER XVI.
+
+In which cross-examination is conducted “en echelon,” and if you don’t know what that means I can’t help you.
+
+CHEERFUL, MORE THAN cheerful, all smiles, Mr. Kirby was standing at midnight upon the arrival platform of the great station at Ormeston as the night mail came in. He saw the slender figure of a young man whose every gesture betrayed an absurd anxiety coming bewildered up from the end of the train, and looking about him as though seeking a face.
+
+It was a fine cordial welcome that greeted James McAuley, not in the least what he had expected. He was enormously relieved.
+
+“My dear Mr. McAuley,” said the lawyer, with a fine generosity of impulse and in the heartiest of tones, “how very good of you to come! I confess I was very much in doubt whether you would understand the urgency of my message at such short notice. You see,” he added, lying expansively, “they cut us off.”
+
+“Yes,” said Jimmy, thinking that explained all.
+
+“It was a terrible nuisance,” pattered on Mr. Kirby, as he led the boy outside to a cab; “that’s the worst of the telephone. It’s a great help in one way, but.. s Why, you haven’t brought a bag!”
+
+“No,” said Jimmy. “I shall go back by the night mail.”
+
+“As you will, my dear sir,” said the lawyer.
+
+He gave the address of his house, and they drove off.
+
+When they got into the study and were served with drink, Jimmy remembered his anxieties. He considered that imperative message and that hurried journey. The business must be very urgent indeed. He was the more certain of it as he watched Mr. Kirby’s face change to an expression more settled and less familiar. As Mr. Kirby said nothing, Jimmy volunteered another remark.
+
+“I was giving young Brassington a dinner,” he said. “Perhaps you know him? He was at King’s with me.” Mr. Kirby said nothing. “He belongs to this town,” added Jimmy.
+
+Mr. Kirby opened fire in a grave and measured voice.
+
+“Mr. McAuley,” he said, “I know that you know young Mr. Brassington.”
+
+The words seemed to have a little more meaning than Jimmy liked.
+
+“I am an intimate friend of Mr. Brassington, Senior. We think a good deal of him in Ormeston, Mr. McAuley.”
+
+Jimmy crossed his legs, leant back in his chair, sipped his wine, and put on an unconcerned, man-of-the-world visage, not unlike that of a criminal about to be hanged.
+
+Mr. Kirby, with his head thoughtfully poised upon the fingers of his right hand, and looking steadily away from Jimmy’s face, said —
+
+“Yes, we know Mr. Brassington, and we respect him highly.”
+
+Jimmy could bear the tension no longer.
+
+“What is it you want to say to me about Greystones,” he said suddenly.
+
+“Oh, yes, Greystones,” said Mr. Kirby, “of course! But your mention of the Brassingtons made me turn my mind to that sad loss Mr. Brassington has had. I dare say his son told you. I am afraid he can’t recover — but the bank admits it is a forgery.”
+
+“Forgery!” shrieked Jimmy.
+
+It suddenly occurred to him that Booby’s fiendish father had discovered an awfully effective line of attack.
+
+“Well, well,” said Mr. Kirby, “ that’s not business. — Of course, I shouldn’t have troubled you as I have about other people’s business. — But about — Greystones, Mr.
+
+McAuley, the trouble is — of course, I do not blame you, but you will see you are legally responsible — well, the trouble is that after you left the place — painting, weren’t you, I think? — we found the studio in — well, in an odd condition; and, you see,” he went on, shifting his position, and still conversational, “between you and me, the owner of the house is a little — why, almost a little odd.” Mr. Kirby smiled as he proceeded. “It’s not my business to talk about one client to another,” he said, “but you’ll understand me. Fact is, it really sounds too ridiculous, and I did what I could to stop him; but you will understand why I telephoned. He said he’d summons you to-morrow. He says it’s twenty-one pounds.”
+
+Jimmy heard not a word. He was thinking of vastly more important things.
+
+Mr. Kirby continued —
+
+“Of course, I would have paid and communicated with you afterwards. Mr.
+
+McAuley.” Mr. Kirby laughed professionally. “You are legally responsible, whoever it was got in and did the harm. The time isn’t up, you see, and you know the absurdity of the thing is that a man can issue a writ like that! Why, bless you, you can go and buy a pair of boots on credit and find the writ waiting for you when you get home! It’s ridiculous, but it’s the law.”
+
+Jimmy’s face was hot and his eyes were too bright.
+
+“It was not a forgery, Mr. Kirby!” he said. “Not a what?” said Mr. Kirby, looking up with a fine affectation of confusion. “I’m not talking about that, Mr. McAuley. Really, poor Brassington’s loss is none of our business. But if you ‘re interested, and if you ‘re going to see young Brassington, you might tell him that his father’s put the whole thing in my hands, and I am going to have details of the cheque and who it was made out to to-morrow by post at my office.”
+
+“Mr. Kirby,” said Jimmy, in the most agitated of voices, “I solemnly swear to God that that cheque was not forged!”
+
+“Really, Mr. McAuley,” said Mr. Kirby, “I don’t see what you have to do with—”
+
+“Yes, but you will see,” interrupted Jimmy bitterly, “you will see. To-morrow morning!”
+
+“Come, come,” said Mr. Kirby, “I can’t have all this unofficial information. It isn’t fair, you know, not fair to my position as a lawyer. If only you’ll let me know about that little sum for damages at Greystones, since the landlord is so—”
+
+“Mr. Kirby,” burst out the unfortunate James, “ the matter will not brook a moment’s delay! That cheque — Mr. Brassington’s cheque, the cheque you say was forged — was made out to me!”
+
+“What!” shouted Mr. Kirby, springing to his feet.
+
+“That cheque, Mr. Kirby,” went on James firmly, “was made out to me. I passed it through the bank, and I have that money in my bank, at least a good deal of it, and I have paid it away — my part of it — nearly all to my creditors.”
+
+Then he remembered again that Melba would have to pay for the dinner, but it was very small comfort.
+
+Mr. Kirby drew a prolonged breath.
+
+“Really, my dear sir!” he said.
+
+“Yes, Mr. Kirby,” continued Jimmy, “to me. And I have passed it into my account and I have disbursed the money. I am not ashamed of it; and I will answer for it to any man. It was the payment of a just debt, and it was given to me by Mr. Brassington himself, there!”
+
+“My dear Mr. McAuley,” began Kirby again.
+
+“I am telling you the plain truth, and I have witnesses who can go into the box and swear. Not all that wretched, snivelling old fellow can do—”
+
+“An old friend, Mr. McAuley,” said Mr. Kirby suavely, “an old friend!”
+
+“Well,” compromised Jimmy, “I will say Puritan. Not all that old Puritan’s money can get over the plain facts. We can swear to it, both of us. The place and the time. It was the morning after, and it was at Greystones.”
+
+“The morning after what?” said Mr. Kirby.
+
+“Tuesday, the morning after that party, of course. Exactly a week ago. The date’s on the cheque, and what’s more, Mr. Kirby, I have Mr. Brassington’s letter signed by him on that occasion and admitting the debt and his payment of it.”
+
+“Really,” said Mr. Kirby, “indeed! This is most astonishing.”
+
+“He was there,” said Jimmy, “in that ridiculous Green Overcoat of his, and he pulled the cheque book out of his pocket. At least, it was in his pocket,” corrected Jimmy, with a careful fear of tripping up over a verbal inaccuracy where the law was concerned. “He tried to get out of it, but we wouldn’t have it, Mr. Kirby, and so — and so he paid.”
+
+“You are perfectly certain it was Mr. Brassington?” said Mr. Kirby.
+
+“No manner of doubt in the world,” said Jimmy calmly. “ We got him to come with us as he left the party, and we put it before him; and as I tell you, he did hestitate, but he paid at last, and it was a just debt. I may as well tell you, Mr. Kirby, it was his son’s debt. We had lost more than that to our friend in the past, and we paid honourably, and we weren’t going to be welched.”
+
+“After all, Mr. McAuley,” said Mr. Kirby, after a little thought, “I have asked you if you are sure it was Mr. Brassington, and the thing is important. Was he a tall, rather lanky man, with a nervous way with him and loosely dressed? Did he thrust his hands into his pockets? Did he try to talk about Philosophy or his being a Philosopher, or something of that sort? Had he very large feet?”
+
+“Yes, I think,” said Jimmy reminiscently. “Yes, he was tall and spare, and he was nervous, distinctly, even violently you might say. Yes — he had large feet, very, and he said something about being a Philosopher or Philosophy. And at first he had his hands in his pockets — but afterwards you know, well—”
+
+“Well, look here,” said Mr. Kirby thoughtfully, “it was Mr. Brassington as you say — tall and spare and very nervous, and on that Philosophy crank, which is King Charles’s head to him, and in that Green Overcoat of his. Oh, it must have been him all right! But why didn’t you go to his house and ask him for the cash? What’s all this business about Greystones?”
+
+Jimmy kept silent. At last he said —
+
+“That’s his business, Mr. Kirby, and he can tell you that end of the story.”
+
+“Well, look here,” said Mr. Kirby, “I have really no right to get anything of this sort out of you.”
+
+“It’s the truth,” said Jimmy.
+
+“Yes, I know,” said Mr. Kirby; “but you have to be starting for that night mail, and” (he mused) “I tell you what, I’ll stop that ridiculous business about Greystones in the morning. I’ve got to go up to town. Do you think you could see me to-morrow in town? What with your father’s public position and Mr. Brassington’s, Mr. McAuley, it’s much better to have the whole of that other thing out in private. Couldn’t you come early and stay to dine?”
+
+“Yes,” said Jimmy, rising to go, “I could; but wait a minute. I have promised my father to go to a big lecture — he wants me to take my sister.” —
+
+“Where?” said Mr. Kirby carelessly.
+
+“At the Research Club,” said Jimmy. “Don’t know who’s giving it. It’s about ghosts. It’ll be over by six. Where will you be stopping?”
+
+“I shall be at the Rockingham Hotel,” said Mr. Kirby, helping the young man on with his coat as they stood at the door. “It’s close to where the Research Club meets, and I’ll expect you any time from six o’clock onwards. I shan’t go out. Good night,” he said heartily, shaking Jimmy’s hand with all the confidence in the world. “I don’t understand it yet, but you ‘re both honourable men, and I fancy there’s been some mistake.”
+
+Jimmy reserved his opinion and went off to his train.
+
+The lawyer went back into his study, knelt on the floor, lifted the lid of the ottoman with his right hand, put the fingers of his left upon the open under lip of that piece of furniture to steady himself, and gazed quizzically and sadly at the Green Overcoat.
+
+“A beast!” he said. “A fate-bearing, disreputable beast!”
+
+But even as he said it the heavy lid slipped from the palm of his right hand. He had but just time to withdraw his left hand before it crashed down.
+
+Mr. Kirby got up a little shakily. He was a man of imagination, and he winced internally as he thought of crushed fingers.
+
+“Try that on again!” he murmured, wagging his head savagely at the Green Overcoat where it basked hidden within the ottoman; “try that on again, and I’ll rip you up!”
+
+With that he switched off the light and made his way to bed, maturing his plans for tomorrow. But he rather wished he had some outhouse or other in which to hide the garment. He felt a little afraid of all sorts of things — for instance, fire.
 
 
 

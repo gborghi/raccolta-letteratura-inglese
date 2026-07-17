@@ -1,5 +1,5 @@
 ---
-title: "Richard Duke of York (3 Henry VI) — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [6]"
+title: "RICHARD DUKE OF YORK - (3 HENRY VI)"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-duke-of-york---(3-henry-vi)-(shakespeare)"
@@ -9,6 +9,991 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/richard_duke_of_york_3_henry_vi" data-author="Shakespeare" data-workhref="works/richard-duke-of-york---(3-henry-vi)-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A chair of state. Alarum. Enter [[Richard]] Plantagenet, [[Duke of York]], his two sons Edward, Earl of March, and Crookback [[Richard]], the Duke of Norfolk, the Marquis of Montague, and the [[Earl of Warwick]], with drummers and soldiers. They all wear white roses in their hats |
+| WARWICK | I [[Wonder|wonder]] how the [[King]] escaped our hands? |
+| YORK | While we pursued the horsemen of the north, He slyly stole away and left his men; Whereat the great lord of Northumberland, Whose warlike ears could never brook retreat, Cheered up the drooping army; and himself, Lord [[Clifford]], and Lord Stafford, all abreast, Charged our main battle’s front, and, breaking in, Were by the swords of common soldiers slain. |
+| EDWARD | Lord Stafford’s father, [[Duke of Buckingham]], Is either slain or wounded dangerous. I cleft his beaver with a downright blow. That this is true, father, behold his [[Blood|blood]]. He shows a bloody [[Sword|sword]] |
+| MONTAGUE | to York And, brother, here’s the Earl of Wiltshire’s [[Blood|blood]], He shows a bloody [[Sword|sword]] Whom I encountered as the battles joined. |
+| [[Richard|RICHARD]] | (to Somerset’s head, which he shows) Speak thou for me, and tell them what I did. |
+| YORK | [[Richard]] hath best deserved of all my sons. (To the head) But is your grace dead, my lord of Somerset? |
+| NORFOLK | Such hap have all the line of [[John of Gaunt]]. |
+| [[Richard|RICHARD]] | Thus do I [[Hope|hope]] to shake [[King]] Henry’s head. He holds aloft the head, then throws it down |
+| WARWICK | And so do I, victorious prince of York. Before I see thee seated in that throne Which now the [[house]] of Lancaster usurps, I vow by heaven these eyes shall never close. This is the palace of the fearful [[King]], And this (pointing to the chair of state), the regal seat—possess it, York, For this is thine, and not [[King]] Henry’s heirs’. |
+| YORK | Assist me then, sweet Warwick, and I will, For hither we have broken in by force. |
+| NORFOLK | We’ll all assist you—he that flies shall die. |
+| YORK | Thanks, gentle Norfolk. Stay by me, my lords And soidiers—stay, and lodge by me this [[Night|night]]. They go up upon the state |
+| WARWICK | And when the [[King]] comes, offer him no violence Unless he seek to thrust you out perforce. The soldiers withdraw |
+| YORK | The [[Queen]] this day here holds her Parliament, But little thinks we shall be of her council; By words or blows here let us win our right. |
+| [[Richard|RICHARD]] | Armed as we are, let’s stay within this [[house]]. |
+| WARWICK | ‘The Bloody Parliament’ shall this be called, Unless Plantagenet, [[Duke of York]], be [[King|king]], And bashful Henry deposed, whose cowardice Hath made us bywords to our enemies. |
+| YORK | Then leave me not, my lords. Be resolute— I mean to take possession of my right. |
+| WARWICK | Neither the [[King]] nor he that loves him best— The proudest he that holds up Lancaster— Dares stir a wing if Warwick shake his [[Bells|bells]]. I’ll plant Plantagenet, root him up who dares. Resolve thee, [[Richard]]—claim the English [[Crown|crown]]. York sits in the chair. Flourish. Enter [[King]] Henry, Lord [[Clifford]], the Earls |
+| WARWICK | of Northumberland and Westmorland, the Duke of |
+| *(didascalia)* | Exeter, and the rest. They all wear red roses in their hats |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--02_exchange_king_henry" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (KING HENRY) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] HENRY | My lords, look where the sturdy [[Rebel|rebel]] sits— Even in the chair of state! Belike he means, Backed by the power of Warwick, that false peer, To aspire unto the [[Crown|crown]] and reign as [[King|king]]. [[Earl of Northumberland]], he slew thy father— And thine, Lord [[Clifford]]—and you both have vowed [[Revenge|revenge]] On him, his sons, his favourites, and his friends. |
+| NORTHUMBERLAND | If I be not, heavens be revenged on me. |
+| [[Clifford|CLIFFORD]] | The [[Hope|hope]] thereof makes [[Clifford]] mourn in steel. |
+| WESTMORLAND | What, shall we suffer this? Let’s pluck him down. My heart for anger burns—I cannot brook it. |
+| [[King|KING]] HENRY | Be patient, gentle Earl of Westmorland. |
+| [[Clifford|CLIFFORD]] | Patience is for poltroons, such as he (indicating York). He durst not sit there had your father lived. My gracious lord, here in the Parliament Let us assail the family of York. |
+| NORTHUMBERLAND | [[Well]] hast thou spoken, cousin, be it so. |
+| [[King|KING]] HENRY | Ah, know you not the [[City|city]] favours them, And they have troops of soldiers at their beck? |
+| EXETER | But when the Duke is slain, they’ll quickly fly. |
+| [[King|KING]] HENRY | Far be the thought of this from Henry’s heart, To make a shambles of the Parliament [[house|House]]. Cousin of Exeter, frowns, words, and threats Shall be the war that Henry means to use. (To York) Thou factious [[Duke of York]], descend my throne And kneel for grace and [[Mercy|mercy]] at my feet. I am thy sovereign. |
+| YORK | I am thine. |
+| EXETER | For shame, come down—he made thee [[Duke of York]]. |
+| YORK | It was mine inheritance, as the earldom was. |
+| EXETER | Thy father was a traitor to the [[Crown|crown]]. |
+| WARWICK | Exeter, thou art a traitor to the [[Crown|crown]] In following this usurping Henry. |
+| [[Clifford|CLIFFORD]] | Whom should he follow but his natural [[King|king]]? |
+| WARWICK | True, [[Clifford]], and that’s [[Richard]] [[Duke of York]]. |
+| [[King|KING]] HENRY | (to York) And shall I stand and thou sit in my throne? |
+| YORK | It must and shall be so—content thyself. |
+| WARWICK | (to [[King]] Henry) Be Duke of Lancaster, let him be [[King|king]]. |
+| WESTMORLAND | He is both [[King|king]] and Duke of Lancaster— And that, the Lord of Westmorland shall maintain. |
+| WARWICK | And Warwick shall disprove it. You forget That we are those which chased you from the field, And slew your fathers, and, with colours spread, Marched through the [[City|city]] to the palace gates. |
+| NORTHUMBERLAND | Yes, Warwick, I remember it to my grief, And, by his [[Soul|soul]], thou and thy [[house]] shall rue it. |
+| WESTMORLAND | (to York) Plantagenet, of thee, and these thy sons, Thy kinsmen, and thy friends, I’ll have more lives Than drops of [[Blood|blood]] were in my father’s veins. |
+| [[Clifford|CLIFFORD]] | (to Warwick) Urge it no more, lest that, instead of words, I send thee, Warwick, such a messenger As shall [[Revenge|revenge]] his [[Death|death]] before I stir. |
+| WARWICK | to York Poor [[Clifford]], how I scorn his worthless threats. |
+| YORK | to [[King]] Henry Will you we show our title to the [[Crown|crown]]? If not, our swords shall plead it in the field. |
+| [[King|KING]] HENRY | What title hast thou, traitor, to the [[Crown|crown]]? Thy father was, as thou art, [[Duke of York]]; Thy grandfather, Roger Mortimer, Earl of March. I am the son of Henry the Fifth, Who made the [[Dauphin]] and the French to stoop And seized upon their towns and provinces. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--03_exchange_warwick" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (WARWICK) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| WARWICK | Talk not of France, sith thou hast lost it all. |
+| [[King|KING]] HENRY | The Lord Protector lost it, and not I. When I was crowned, I was but nine months old. |
+| [[Richard|RICHARD]] | You are old enough now, and yet, methinks, you lose. (To York) Father, tear the [[Crown|crown]] from the [[Usurper|usurper]]’s head. |
+| EDWARD | (to York) Sweet father, do so—set it on your head. |
+| MONTAGUE | (to York) Good brother, as thou lov‘st and [[Honour|honour]]’st arms, Let’s fight it out and not stand cavilling thus. |
+| [[Richard|RICHARD]] | Sound drums and trumpets, and the [[King]] will fly. |
+| YORK | Sons, peace! NORTHUMBERLAND Peace, thou—and give [[King]] Henry leave to speak. |
+| [[King|KING]] HENRY | Ah, York, why seekest thou to depose me? Are we not both Plantagenets by birth, And from two brothers lineally descent? Suppose by right and equity thou be [[King|king]]— Think’st thou that I will leave my kingly throne, Wherein my grandsire and my father sat? No—first shall war unpeople this my realm; Ay, and their colours, often borne in France, And now in England to our heart’s great sorrow, Shall be my winding-sheet. Why faint you, lords? My title’s good, and better far than his. |
+| WARWICK | Prove it, Henry, and thou shalt be [[King|king]]. |
+| [[King|KING]] HENRY | Henry the Fourth by conquest got the [[Crown|crown]]. |
+| YORK | ’Twas by rebellion against his [[King|king]]. |
+| [[King|KING]] HENRY | aside I know not what to say—my title’s weak. (To York) Tell me, may not a [[King|king]] adopt an heir? |
+| YORK | What then? |
+| [[King|KING]] HENRY | An if he may, then am I lawful [[King|king]]— For [[Richard]], in the view of many lords, Resigned the [[Crown|crown]] to Henry the Fourth, Whose heir my father was, and I am his. |
+| YORK | He [[Rose|rose]] against him, being his sovereign, And made him to resign his [[Crown|crown]] perforce. |
+| WARWICK | Suppose, my lords, he did it unconstrained— Think you ’twere prejudicial to his [[Crown|crown]]? |
+| EXETER | No, for he could not so resign his [[Crown|crown]] But that the next heir should succeed and reign. |
+| [[King|KING]] HENRY | Art thou against us, [[Duke of Exeter]]? |
+| EXETER | His is the right, and therefore pardon me. |
+| YORK | Why whisper you, my lords, and answer not? |
+| EXETER | to [[King]] Henry My [[Conscience|conscience]] tells me he is lawful [[King|king]]. |
+| [[King|KING]] HENRY | aside All will revolt from me and turn to him. |
+| NORTHUMBERLAND | (to York) Plantagenet, for all the claim thou lay’st, Think not that Henry shall be so deposed. |
+| WARWICK | Deposed he shall be, in despite of all. |
+| NORTHUMBERLAND | Thou art deceived—’tis not thy southern power Of Essex, Norfolk, Suffolk, nor of [[Kent]], Which makes thee thus presumptuous and proud, Can set the Duke up in despite of me. |
+| [[Clifford|CLIFFORD]] | [[King]] Henry, be thy title right or wrong, Lord [[Clifford]] vows to fight in thy defence. May that ground gape and [[Swallow|swallow]] me alive Where I shall kneel to him that slew my father. |
+| [[King|KING]] HENRY | O, [[Clifford]], how thy words revive my heart! |
+| YORK | Henry of Lancaster, resign thy [[Crown|crown]]. What mutter you, or what conspire you, lords? |
+| WARWICK | Do right unto this princely [[Duke of York]], Or I will fill the [[house]] with armed men And over the chair of state, where now he sits, Write up his title with usurping [[Blood|blood]]. He stamps with his foot and the soldiers show |
+| WARWICK | themselves |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--04_exchange_king_henry" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (KING HENRY) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] HENRY | My lord of Warwick, hear me but one word— Let me for this my lifetime reign as [[King|king]]. |
+| YORK | Confirm the [[Crown|crown]] to me and to mine heirs, And thou shalt reign in quiet while thou liv’st. |
+| [[King|KING]] HENRY | I am content. [[Richard]] Plantagenet, Enjoy the kingdom after my decease. |
+| [[Clifford|CLIFFORD]] | What wrong is this unto the prince your son? |
+| WARWICK | What good is this to England and himself? |
+| WESTMORLAND | Base, fearful, and despairing Henry. |
+| [[Clifford|CLIFFORD]] | How hast thou injured both thyself and us? |
+| WESTMORLAND | I cannot stay to hear these articles. |
+| NORTHUMBERLAND | Nor I. |
+| [[Clifford|CLIFFORD]] | Come, cousin, let us tell the [[Queen]] these news. |
+| WESTMORLAND | (to [[King]] Henry) Farewell, faint-hearted and degenerate [[King|king]], In whose cold [[Blood|blood]] no spark of [[Honour|honour]] bides. Exit with his soldiers |
+| NORTHUMBERLAND | (to [[King]] Henry) Be thou a prey unto the [[house]] of York, And die in bands for this unmanly deed. Exit with his soldiers |
+| [[Clifford|CLIFFORD]] | (to [[King]] Henry) In dreadful war mayst thou be overcome, Or live in peace, abandoned and despised. Exit with his soldiers |
+| WARWICK | (to [[King]] Henry) Turn this way, Henry, and regard them not. |
+| EXETER | (to [[King]] Henry) They seek [[Revenge|revenge]] and therefore will not yield. |
+| [[King|KING]] HENRY | Ah, Exeter. |
+| WARWICK | Why should you sigh, my lord? |
+| [[King|KING]] HENRY | Not for myself, Lord Warwick, but my son, Whom I unnaturally shall disinherit. But be it as it may. (To York) I here entail The [[Crown|crown]] to thee and to thine heirs for ever, Conditionally, that here thou take thine oath To cease this civil war, and whilst I live To [[Honour|honour]] me as thy [[King|king]] and sovereign, And nor by treason nor hostility To seek to put me down and reign thyself. |
+| YORK | This oath I willingly take and will perform. |
+| WARWICK | Long live [[King]] Henry. (To York) Plantagenet, embrace him. York descends. Henry and York embrace |
+| [[King|KING]] HENRY | (to York) And long live thou, and these thy forward sons. |
+| YORK | Now York and Lancaster are reconciled. |
+| EXETER | Accursed be he that seeks to make them foes. Sennet. Here York’s train comes down from the state |
+| YORK | (to [[King]] Henry) Farewell, my gracious lord, I’ll to my [[Castle|castle]]. Exeunt York, Edward, and [[Richard]], with soldiers |
+| WARWICK | And I’ll keep [[London]] with my soldiers. Exit With soldiers |
+| NORFOLK | And I to Norfolk with my followers. Exit With soldiers |
+| MONTAGUE | And I unto the sea from whence I came. Exit with soldiers |
+| [[King|KING]] HENRY | And I with grief and sorrow to the [[Court|court]]. [[King]] Henry and Exeter turn to leave. Enter [[Queen Margaret]] and Prince Edward |
+| EXETER | Here comes the [[Queen]], whose looks bewray her anger. I’ll steal away. |
+| [[King|KING]] HENRY | Exeter, so will I. |
+| [[Queen Margaret|QUEEN MARGARET]] | Nay, go not from me—I will follow thee. |
+| [[King|KING]] HENRY | Be patient, gentle [[Queen]], and I will stay. |
+| [[Queen Margaret|QUEEN MARGARET]] | Who can be patient in such extremes? Ah, wretched man, would I had died a maid And never seen thee, never borne thee son, Seeing thou hast proved so unnatural a father. Hath he deserved to lose his birthright thus? Hadst thou but loved him half so [[Well|well]] as I, Or felt that [[Pain|pain]] which I did for him once, Or nourished him as I did with my [[Blood|blood]], Thou wouldst have left thy dearest heart-[[Blood|blood]] there Rather than have made that savage Duke thine heir And disinherited thine only son. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--05_exchange_prince_edward" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (PRINCE EDWARD) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PRINCE EDWARD | Father, you cannot disinherit me. If you be [[King|king]], why should not I succeed? |
+| [[King|KING]] HENRY | Pardon me, Margaret; pardon me, sweet son— The [[Earl of Warwick]] and the Duke enforced me. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--06_monologue_queen_margaret" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — monologue (QUEEN MARGARET) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Margaret|QUEEN MARGARET]] | Enforced thee? Art thou [[King|king]], and wilt be forced? I shame to hear thee speak! Ah, timorous wretch, Thou hast undone thyself, thy son, and me, And giv’n unto the [[house]] of York such head As thou shalt reign but by their sufferance. To entail him and his heirs unto the [[Crown|crown]]— What is it, but to make thy sepulchre And creep into it far before thy [[Time|time]]? Warwick is Chancellor and the Lord of Calais; Stern Falconbridge commands the narrow seas; The Duke is made Protector of the Realm; And yet shalt thou be safe? Such safety finds The trembling [[Lamb|lamb]] environèd with wolves. Had I been there, which am a seely woman, The soldiers should have tossed me on their pikes Before I would have granted to that act. But thou preferr’st thy life before thine [[Honour|honour]]. And seeing thou dost, I here [[divorce]] myself Both from thy table, Henry, and thy bed, Until that act of Parliament be repealed Whereby my son is disinherited. The northern lords that have forsworn thy colours Will follow mine, if once they see them spread— And spread they shall be, to thy foul disgrace And the utter ruin of the [[house]] of York. Thus do I leave thee. (To Prince Edward) Come, son, let’s away. Our army is ready—come, we’ll after them. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--07_exchange_king_henry" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (KING HENRY) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] HENRY | Stay, gentle Margaret, and hear me speak. |
+| [[Queen Margaret|QUEEN MARGARET]] | Thou hast spoke too much already. To Prince Edward Get thee gone. |
+| [[King|KING]] HENRY | Gentle son Edward, thou wilt stay with me? |
+| [[Queen Margaret|QUEEN MARGARET]] | Ay, to be murdered by his enemies. |
+| PRINCE EDWARD | (to [[King]] Henry) When I return with victory from the field, I’ll see your grace. Till then, I’ll follow her. |
+| [[Queen Margaret|QUEEN MARGARET]] | Come, son, away—we may not linger thus. Exit with Prince Edward |
+| [[King|KING]] HENRY | Poor [[Queen]], how [[Love|love]] to me and to her son Hath made her break out into terms of rage. Revenged may she be on that hateful Duke, Whose haughty spirit, winged with [[Desire|desire]], Will coast my [[Crown|crown]], and, like an empty eagle, Tire on the flesh of me and of my son. The loss of those three lords torments my heart. I’ll write unto them and entreat them fair. Come, cousin, you shall be the messenger. |
+| EXETER | And I, I [[Hope|hope]], shall reconcile them all. Flourish. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--01_monologue_speech" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — monologue (speech) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Enter [[Richard]] [[Duke of York]] |
+| YORK | The army of the [[Queen]] hath got the field; My uncles both are slain in rescuing me; And all my followers to the eager foe Turn back, and fly like ships before the [[Wind|wind]], Or lambs pursued by hunger-starved wolves. My sons—God knows what hath bechancèd them. But this I know—they have demeaned themselves Like men born to renown by life or [[Death|death]]. Three times did [[Richard]] make a lane to me, And thrice cried, ‘[[Courage]], father, fight it out!’ And full as oft came Edward to my side, With purple falchion painted to the hilt In [[Blood|blood]] of those that had encountered him. And when the hardiest warriors did retire, [[Richard]] cried, ‘Charge and give no foot of ground!’ And cried ‘A [[Crown|crown]] or else a glorious tomb! A sceptre or an earthly sepulchre!’ With this, we charged again—but out, alas— We bodged again, as I have seen a swan With bootless labour swim against the tide And spend her strength with over-matching waves. A short alarum within Ah, hark—the fatal followers do pursue, And I am faint and cannot fly their fury; And were I strong, I would not shun their fury. The sands are numbered that makes up my life. Here must I stay, and here my life must end. Enter [[Queen Margaret]], Lord [[Clifford]], the Earl of |
+| YORK | Northumberland, and the young Prince Edward, |
+| YORK | with soldiers |
+| YORK | Come bloody [[Clifford]], rough Northumberland— I dare your quenchless fury to more rage! I am your butt, and I abide your shot. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--02_exchange_northumberland" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — exchange (NORTHUMBERLAND) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| NORTHUMBERLAND | Yield to our [[Mercy|mercy]], proud Plantagenet. |
+| [[Clifford|CLIFFORD]] | Ay, to such [[Mercy|mercy]] as his ruthless arm, With downright payment, showed unto my father. Now Phaeton hath tumbled from his car, And made an evening at the noontide prick. |
+| YORK | My ashes, as the phoenix, may bring forth A bird that will [[Revenge|revenge]] upon you all, And in that [[Hope|hope]] I throw mine eyes to heaven, Scorning whate’er you can afflict me with. Why come you not? What—multitudes, and [[Fear|fear]]? |
+| [[Clifford|CLIFFORD]] | So cowards fight when they can fly no further; So doves do peck the falcon’s piercing talons; So desperate thieves, all hopeless of their lives, Breathe out invectives ’gainst the officers. |
+| YORK | O, [[Clifford]], but bethink thee once again, And in thy thought o’errun my former [[Time|time]], And, if thou canst for blushing, view this face And bite thy tongue, that slanders him with cowardice Whose frown hath made thee faint and fly ere this. |
+| [[Clifford|CLIFFORD]] | I will not bandy with thee word for word, But buckle with thee blows twice two for one. He draws his [[Sword|sword]] |
+| [[Queen Margaret|QUEEN MARGARET]] | Hold, valiant [[Clifford]]: for a thousand causes I would prolong a while the traitor’s life. Wrath makes him deaf—speak thou, Northumberland. |
+| NORTHUMBERLAND | Hold, [[Clifford]]—do not [[Honour|honour]] him so much To prick thy finger though to wound his heart. What valour were it when a cur doth grin For one to thrust his hand between his teeth When he might spurn him with his foot away? It is war’s prize to take all vantages, And ten to one is no impeach of valour. They fight and take York |
+| [[Clifford|CLIFFORD]] | Ay, ay, so strives the woodcock with the gin. |
+| NORTHUMBERLAND | So doth the cony struggle in the net. |
+| YORK | So triumph thieves upon their conquered booty, So true men yield, with robbers so o’ermatched. |
+| NORTHUMBERLAND | (to the [[Queen]]) What would your grace have done unto him now? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--03_monologue_queen_margaret" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — monologue (QUEEN MARGARET) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Margaret|QUEEN MARGARET]] | Brave warriors, [[Clifford]] and Northumberland, Come make him stand upon this molehill here, That wrought at [[Mountains|mountains]] with outstretched arms Yet parted but the [[Shadow|shadow]] with his hand. (To York) What—was it you that would be England’s [[King|king]]? Was’t you that revelled in our Parliament, And made a preachment of your high descent? Where are your mess of sons to back you now? The wanton Edward and the lusty George? And where’s that valiant crookback prodigy, Dickie, your boy, that with his grumbling voice Was wont to cheer his dad in mutinies? Or with the rest where is your darling Rutland? Look, York, I stained this napkin with the [[Blood|blood]] That valiant [[Clifford]] with his rapier’s point Made issue from the bosom of thy boy. And if thine eyes can [[Water|water]] for his [[Death|death]], I give thee this to dry thy cheeks withal. Alas, poor York, but that I hate thee deadly I should lament thy miserable state. I prithee, grieve, to make me merry, York. What—hath thy fiery heart so parched thine entrails That not a tear can fall for Rutland’s [[Death|death]]? Why art thou patient, man? Thou shouldst be mad, And I, to make thee mad, do mock thee thus. Stamp, rave, and fret, that I may sing and [[Dance|dance]]. Thou wouldst be fee’d, I see, to make me sport. York cannot speak unless he wear a [[Crown|crown]]. (To her men) A [[Crown|crown]] for York, and, lords, bow low to him. Hold you his hands whilst I do set it on. She puts a paper [[Crown|crown]] on York’s head Ay, marry, sir, now looks he like a [[King|king]], Ay, this is he that took [[King]] Henry’s chair, And this is he was his adopted heir. But how is it that great Plantagenet Is crowned so soon and broke his solemn oath? As I bethink me, you should not be [[King|king]] Till our [[King]] Henry had shook hands with [[Death|death]]. And will you pale your head in Henry’s glory, And rob his temples of the diadem Now, in his life, against your holy oath? O ’tis a fault too, too, unpardonable. Off with the [[Crown|crown]], She knocks it from his head and with the [[Crown|crown]] his head, And whilst we breathe, take [[Time|time]] to do him dead. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--04_exchange_clifford" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — exchange (CLIFFORD) [4]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Clifford|CLIFFORD]] | That is my office for my father’s sake. |
+| [[Queen Margaret|QUEEN MARGARET]] | Nay, stay—let’s hear the orisons he makes. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--05_monologue_york" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — monologue (YORK) [5]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| YORK | She-wolf of France, but worse than wolves of France, Whose tongue more poisons than the adder’s tooth— How ill-beseeming is it in thy sex To triumph like an Amazonian trull Upon their woes whom fortune captivates! But that thy face is visor-like, unchanging, Made impudent with use of evil deeds, I would [[Essay|essay]], proud [[Queen]], to make thee blush. To tell thee whence thou cam’st, of whom derived, Were shame enough to shame thee—wert thou not shameless. Thy father bears the type of [[King]] of Naples, Of both the Sicils, and Jerusalem— Yet not so wealthy as an English yeoman. Hath that poor monarch taught thee to insult? It needs not, nor it boots thee not, proud [[Queen]], Unless the adage must be verified That beggars mounted run their [[Horse|horse]] to [[Death|death]]. ’Tis [[Beauty|beauty]] that doth oft make women proud— But, God he knows, thy share thereof is small; ‘Tis virtue that doth make them most admired— The contrary doth make thee wondered at; ’Tis [[government]] that makes them seem divine— The want thereof makes thee abominable. Thou art as opposite to every good As the antipodes are unto us, Or as the south to the septentrion. O tiger’s heart wrapped in a woman’s hide! How couldst thou drain the life-[[Blood|blood]] of the [[Child|child]] To bid the father wipe his eyes withal, And yet be seen to bear a woman’s face? Women are soft, mild, pitiful, and flexible— Thou stern, obdurate, flinty, rough, remorseless. Bidd‘st thou me rage? Why, now thou hast thy wish. Wouldst have me weep? Why, now thou hast thy will. For raging [[Wind|wind]] blows up incessant showers, And when the rage allays the rain begins. These [[Tears|tears]] are my sweet Rutland’s obsequies, And every drop cries vengeance for his [[Death|death]] ’Gainst thee, fell [[Clifford]], and thee, false Frenchwoman. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--06_exchange_northumberland" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — exchange (NORTHUMBERLAND) [6]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| NORTHUMBERLAND | Beshrew me, but his passions move me so That hardly can I check my eyes from [[Tears|tears]]. |
+| YORK | That face of his the hungry cannibals Would not have touched, would not have stained with [[Blood|blood]]— But you are more inhuman, more inexorable, O, ten times more than tigers of Hyrcania. See, ruthless [[Queen]], a hapless father’s [[Tears|tears]]. This cloth thou dipped‘st in [[Blood|blood]] of my sweet boy, And I with [[Tears|tears]] do wash the [[Blood|blood]] away. Keep thou the napkin and go boast of this, And if thou tell’st the heavy story right, Upon my [[Soul|soul]] the hearers will shed [[Tears|tears]], Yea, even my foes will shed fast-falling [[Tears|tears]] And say, ‘Alas, it was a piteous deed’. There, take the [[Crown|crown]]—and with the [[Crown|crown]], my curse: And in thy need such comfort come to thee As now I reap at thy too cruel hand. Hard-hearted [[Clifford]], take me from the world. My [[Soul|soul]] to heaven, my [[Blood|blood]] upon your heads. |
+| NORTHUMBERLAND | Had he been slaughter-man to all my kin, I should not, for my life, but weep with him, To see how inly sorrow gripes his [[Soul|soul]]. |
+| [[Queen Margaret|QUEEN MARGARET]] | What—weeping-ripe, my lord Northumberland? Think but upon the wrong he did us all, And that will quickly dry thy melting [[Tears|tears]]. |
+| [[Clifford|CLIFFORD]] | Here’s for my oath, here’s for my father’s [[Death|death]]. He stabs York |
+| [[Queen Margaret|QUEEN MARGARET]] | And here’s to right our gentle-hearted [[King]]. She stabs York |
+| YORK | Open thy gate of [[Mercy|mercy]], gracious God— My [[Soul|soul]] flies through these wounds to seek out thee. He dies |
+| [[Queen Margaret|QUEEN MARGARET]] | Off with his head and set it on York gates, So York may overlook the town of York. Flourish. Exeunt with York’s [[Body|body]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A march. Enter Edward Earl of March and [[Richard]], with a drummer and soldiers |
+| EDWARD | I [[Wonder|wonder]] how our princely father scaped, Or whether he be scaped away or no From [[Clifford]]’s and Northumberland’s pursuit. Had he been ta’en we should have heard the news; Had he been slain we should have heard the news; Or had he scaped, methinks we should have heard The happy tidings of his good escape. How fares my brother? Why is he so sad? |
+| [[Richard|RICHARD]] | I cannot joy until I be resolved Where-our right valiant father is become. I saw him in the battle range about, And watched him how he singled [[Clifford]] forth. Methought he bore him in the thickest troop, As doth a [[Lion|lion]] in a herd of neat; Or as a bear encompassed round with [[dogs]], Who having pinched a few and made them cry, The rest stand all aloof and bark at him. So fared our father with his enemies; So fled his enemies my warlike father. Methinks ’tis prize enough to be his son. Three suns appear in the air See how the morning opes her golden gates And takes her farewell of the glorious sun. How [[Well|well]] resembles it the prime of youth, Trimmed like a younker prancing to his [[Love|love]]! |
+| EDWARD | Dazzle mine eyes, or do I see three suns? |
+| [[Richard|RICHARD]] | Three glorious suns, each one a perfect sun; Not separated with the racking clouds, But severed in a pale clear-shining sky. The three suns begin to join See, see—they join, embrace, and seem to kiss, As if they vowed some league inviolable. Now are they but one lamp, one light, one sun. In this the heaven figures some event. |
+| EDWARD | ’Tis wondrous strange, the like yet never heard of. I think it cites us, brother, to the field, That we, the sons of brave Plantagenet, Each one already blazing by our meeds, Should notwithstanding join our lights together And over-shine the earth as this the world. Whate’er it bodes, henceforward will I bear Upon my target three fair-shining suns. |
+| [[Richard|RICHARD]] | Nay, bear three daughters—by your leave I speak it— You [[Love|love]] the breeder better than the male. Enter one blowing But what art thou whose heavy looks foretell Some dreadful story hanging on thy tongue? |
+| MESSENGER | Ah, one that was a woeful looker-on Whenas the noble [[Duke of York]] was slain— Your princely father and my loving lord. |
+| EDWARD | O, speak no more, for I have heard too much. |
+| [[Richard|RICHARD]] | Say how he died, for I will hear it all. |
+| MESSENGER | Environèd he was with many foes, And stood against them as the [[Hope|hope]] of Troy Against the Greeks that would have entered Troy. But Hercules himself must yield to odds; And many strokes, though with a little axe, Hews down and fells the hardest-timbered oak. By many hands your father was subdued, But only slaughtered by the ireful arm Of unrelenting [[Clifford]] and the [[Queen]], Who crowned the gracious Duke in high despite, Laughed in his face, and when with grief he wept, The ruthless [[Queen]] gave him to dry his cheeks A napkin steeped in the harmless [[Blood|blood]] Of sweet young Rutland, by rough [[Clifford]] slain; And after many scorns, many foul taunts, They took his head, and on the gates of York They set the same; and there it doth remain, The saddest spectacle that e’er I viewed. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--02_exchange_edward" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (EDWARD) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| EDWARD | Sweet [[Duke of York]], our prop to lean upon, Now thou art gone, we have no staff, no stay. O [[Clifford]], boist’rous [[Clifford]]—thou hast slain The flower of Europe for his chivalry, And treacherously hast thou vanquished him— For hand to hand he would have vanquished thee. Now my [[Soul|soul]]’s palace is become a [[Prison|prison]]. Ah, would she break from hence that this my [[Body|body]] Might in the ground be closed up in rest. For never henceforth shall I joy again— Never, O never, shall I see more joy. |
+| [[Richard|RICHARD]] | I cannot weep, for all my [[Body|body]]’s moisture Scarce serves to quench my furnace-burning heart; Nor can my tongue unload my heart’s great burden, For selfsame [[Wind|wind]] that I should speak withal Is kindling coals that fires all my breast, And burns me up with flames that [[Tears|tears]] would quench. To weep is to make less the depth of grief; [[Tears]], then, for babes—blows and [[Revenge|revenge]] for me! [[Richard]], I bear thy name; I’ll venge thy [[Death|death]] Or die renowned by attempting it. |
+| EDWARD | His name that valiant Duke hath left with thee, His dukedom and his chair with me is left. |
+| [[Richard|RICHARD]] | Nay, if thou be that princely eagle’s bird, Show thy descent by gazing ‘gainst the sun: For ‘chair and dukedom’, ‘throne and kingdom’ say— Either that is thine or else thou wert not his. March. Enter the [[Earl of Warwick]] and the Marquis of Montague with drummers, an ensign, and soldiers |
+| WARWICK | How now, fair lords? What fare? What news abroad? |
+| [[Richard|RICHARD]] | Great lord of Warwick, if we should recount Our baleful news, and at each word’s deliverance Stab poniards in our flesh till all were told, The words would add more anguish than the wounds. O valiant lord, the [[Duke of York]] is slain. |
+| EDWARD | O Warwick, Warwick! That Plantagenet, Which held thee dearly as his [[Soul|soul]]’s redemption, Is by the stern Lord [[Clifford]] done to [[Death|death]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--03_monologue_warwick" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — monologue (WARWICK) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| WARWICK | Ten days ago I drowned these news in [[Tears|tears]]. And now, to add more measure to your woes, I come to tell you things sith then befall’n. After the bloody fray at Wakefield fought, Where your brave father breathed his latest gasp, Tidings, as swiftly as the posts could run, Were brought me of your loss and his depart. I then in [[London]], keeper of the [[King]], Mustered my soldiers, gathered flocks of friends, And, very [[Well|well]] appointed as I thought, Marched toward Saint Albans to intercept the [[Queen]], Bearing the [[King]] in my behalf along— For by my scouts I was advertised That she was coming with a full intent To dash our late decree in Parliament Touching [[King]] Henry’s oath and your succession. Short tale to make, we at Saint Albans met, Our battles joined, and both sides fiercely fought; But whether ‘twas the coldness of the [[King]], Who looked full gently on his warlike [[Queen|queen]], That robbed my soldiers of their heated spleen, Or whether ’twas report of her [[success]], Or more than common [[Fear|fear]] of [[Clifford]]’s rigour— Who thunders to his captains [[Blood|blood]] and [[Death|death]]— I cannot judge; but, to conclude with [[Truth|truth]], Their weapons like to [[Lightning|lightning]] came and went; Our soldiers’, like the [[Night|night]]-owl’s lazy flight, Or like an idle thresher with a flail, Fell gently down, as if they struck their friends. I cheered them up with justice of our cause, With promise of high pay, and great rewards. But all in vain. They had no heart to fight, And we in them no [[Hope|hope]] to win the day. So that we fled—the [[King]] unto the [[Queen]], Lord George your brother, Norfolk, and myself In haste, post-haste, are come to join with you. For in the Marches here we heard you were, Making another head to fight again. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--04_exchange_edward" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (EDWARD) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| EDWARD | Where is the Duke of Norfolk, gentle Warwick? And when came George from Burgundy to England? |
+| WARWICK | Some six miles off the Duke is with his soldiers; And for your brother—he was lately sent From your kind aunt, Duchess of Burgundy, With aid of soldiers to this needful war. |
+| [[Richard|RICHARD]] | ‘Twas odd belike when valiant Warwick fled. Oft have I heard his praises in pursuit, But ne’er till now his scandal of retire. |
+| WARWICK | Nor now my scandal, [[Richard]], dost thou hear— For thou shalt know this strong right hand of mine Can pluck the diadem from faint Henry’s head And wring the aweful sceptre from his fist, Were he as famous and as bold in war As he is famed for mildness, peace, and [[Prayer|prayer]]. |
+| [[Richard|RICHARD]] | I know it [[Well|well]], Lord Warwick—blame me not. ‘Tis [[Love|love]] I bear thy glories make me speak. But in this troublous [[Time|time]] what’s to be done? Shall we go throw away our coats of steel, And wrap our bodies in black mourning gowns, Numb’ring our Ave-Maries with our beads? Or shall we on the helmets of our foes Tell our devotion with revengeful arms? If for the last, say ‘ay’, and to it, lords. |
+| WARWICK | Why, therefore Warwick came to seek you out, And therefore comes my brother Montague. Attend me, lords. The proud insulting [[Queen]], With [[Clifford]] and the haught Northumberland, And of their feather many more proud [[Birds|birds]], Have wrought the easy-melting [[King]] like wax. (To Edward) He swore consent to your succession, His oath enrolled in the Parliament. And now to [[London]] all the crew are gone, To frustrate both his oath and what beside May make against the [[house]] of Lancaster. Their power, I think, is thirty thousand strong. Now, if the help of Norfolk and myself, With all the friends that thou, brave Earl of March, Amongst the loving Welshmen canst procure, Will but amount to five-and-twenty thousand, Why, via, to [[London]] will we march, And once again bestride our foaming steeds, And once again cry ‘Charge upon. our foes— But never once again turn back and fly. |
+| [[Richard|RICHARD]] | Ay, now methinks I hear great Warwick speak. Ne‘er may he live to see a sunshine day That cries ‘retire if Warwick bid him stay. |
+| EDWARD | Lord Warwick, on thy shoulder will I lean, And when thou fail’st—as God forbid the hour— Must Edward fall, which peril heaven forfend I |
+| WARWICK | No longer Earl of March, but [[Duke of York]]; The next degree is England’s royal throne— For [[King]] of England shalt thou be proclaimed In every borough as we pass along, And he that throws not up his cap for joy, Shall for the fault make forfeit of his head. [[King]] Edward, valiant [[Richard]], Montague— Stay we no longer dreaming of renown, But sound the trumpets and about our task. |
+| [[Richard|RICHARD]] | Then, [[Clifford]], were thy heart as hard as steel, As thou hast shown it flinty by thy deeds, I come to pierce it or to give thee mine. |
+| EDWARD | Then strike up drums—God and Saint George for us! Enter a Messenger |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--05_exchange_warwick" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (WARWICK) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| WARWICK | How now? What news? |
+| MESSENGER | The Duke of Norfolk sends you word by me The [[Queen]] is coming with a puissant host, And craves your company for speedy counsel. |
+| WARWICK | Why then it sorts. Brave warriors, let’s away. March. Exeunt |
+| *(didascalia)* | 2.2 York’s head is thrust out, above Flourish. Enter [[King]] Henry, [[Queen Margaret]], Lord [[Clifford]], the [[Earl of Northumberland]], and young Prince Edward, with a drummer and trumpeters |
+| [[Queen Margaret|QUEEN MARGARET]] | Welcome, my lord, to this brave town of York. Yonder’s the head of that arch-enemy That sought to be encompassed with your [[Crown|crown]]. Doth not the object cheer your heart, my lord? |
+| [[King|KING]] HENRY | Ay, as the rocks cheer them that [[Fear|fear]] their wreck. To see this sight, it irks my very [[Soul|soul]]. Withhold [[Revenge|revenge]], dear God—’tis not my fault, Nor wittingly have I infringed my vow. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--06_monologue_clifford" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — monologue (CLIFFORD) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Clifford|CLIFFORD]] | My gracious liege, this too much lenity And harmful pity must be laid aside. To whom do lions cast their gentle looks? Not to the beast that would usurp their den. Whose hand is that the forest bear doth lick? Not his that spoils her young before her face. Who scapes the lurking serpent’s mortal sting? Not he that sets his foot upon her back. The smallest worm will turn, being trodden on, And doves will peck in safeguard of their brood. Ambitious York did level at thy [[Crown|crown]], Thou smiling while he knit his angry brows. He, but a duke, would have his son a [[King|king]], And raise his issue like a loving sire; Thou, being a [[King|king]], blest with a goodly son, Didst yield consent to disinherit him, Which argued thee a most unloving father. Unreasonable creatures feed their young, And though man’s face be fearful to their eyes, Yet, in protection of their tender ones, Who hath not seen them, even with those wings Which sometime they have used with fearful flight, Make war with him that climbed unto their nest, Offering their own lives in their young’s defence? For shame, my liege, make them your precedent! Were it not pity that this goodly boy Should lose his birthright by his father’s fault, And long hereafter say unto his [[Child|child]] ‘What my great-grandfather and grandsire got My careless father fondly gave away’? Ah, what a shame were this! Look on the boy, And let his manly face, which promiseth Successful fortune, steel thy melting heart To hold thine own and leave thine own with him. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--07_exchange_king_henry" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (KING HENRY) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] HENRY | Full [[Well|well]] hath [[Clifford]] played the orator, Inferring arguments of mighty force. But, [[Clifford]], tell me—didst thou never hear That things ill got had ever bad [[success]]? And happy always was it for that son Whose father for his hoarding went to hell? I’ll leave my son my virtuous deeds behind, And would my father had left me no more. For all the rest is held at such a rate As brings a thousandfold more care to keep Than in possession any jot of pleasure. Ah, cousin York, would thy best friends did know How it doth grieve me that thy head is here. |
+| [[Queen Margaret|QUEEN MARGARET]] | My lord, cheer up your spirits—our foes are nigh, And this soft [[Courage|courage]] makes your followers faint. You promised knighthood to our forward son. Unsheathe your [[Sword|sword]] and dub him presently. Edward, kneel down. Prince Edward kneels |
+| [[King|KING]] HENRY | Edward Plantagenet, arise a knight— And learn this lesson: draw thy [[Sword|sword]] in right. |
+| PRINCE EDWARD | (rising) My gracious father, by your kingly leave, I’ll draw it as apparent to the [[Crown|crown]], And in that quarrel use it to the [[Death|death]]. |
+| [[Clifford|CLIFFORD]] | Why, that is spoken like a toward prince. Enter a Messenger |
+| MESSENGER | Royal commanders, be in readiness— For with a band of thirty thousand men Comes Warwick backing of the [[Duke of York]]; And in the towns, as they do march along, Proclaims him [[King|king]], and many fly to him. Darraign your battle, for they are at hand. |
+| [[Clifford|CLIFFORD]] | (to [[King]] Henry) I would your highness would depart the field— The [[Queen]] hath best [[success]] when you are absent. |
+| [[Queen Margaret|QUEEN MARGARET]] | (to [[King]] Henry) Ay, good my lord, and leave us to our fortune. |
+| [[King|KING]] HENRY | Why, that’s my fortune too—therefore I’ll stay. |
+| NORTHUMBERLAND | Be it with resolution then to fight. |
+| PRINCE EDWARD | (to [[King]] Henry) My royal father, cheer these noble lords And hearten those that fight in your defence. Unsheathe your [[Sword|sword]], good father; cry ‘Saint George!’ March. Enter Edward [[Duke of York]], the Earl of |
+| PRINCE EDWARD | Warwick, [[Richard]], George, the Duke of Norfolk, the |
+| PRINCE EDWARD | Marquis of Montague, and soldiers |
+| EDWARD | Now, perjured Henry, wilt thou kneel for grace, And set thy diadem upon my head— Or bide the mortal fortune of the field? |
+| [[Queen Margaret|QUEEN MARGARET]] | Go rate thy minions, proud insulting boy! Becomes it thee to be thus bold in terms Before thy sovereign and thy lawful [[King|king]]? |
+| EDWARD | I am his [[King|king]], and he should bow his knee. I was adopted heir by his consent. |
+| GEORGE | (to [[Queen Margaret]]) Since when his oath is broke—for, as I hear, You that are [[King|king]], though he do wear the [[Crown|crown]], Have caused him by new act of Parliament To blot our brother out, and put his own son in. |
+| [[Clifford|CLIFFORD]] | And reason too— Who should succeed the father but the son? |
+| [[Richard|RICHARD]] | Are you there, butcher? O, I cannot speak! |
+| [[Clifford|CLIFFORD]] | Ay, crookback, here I stand to answer thee, Or any he the proudest of thy sort. |
+| [[Richard|RICHARD]] | ’Twas you that killed young Rutland, was it not? |
+| [[Clifford|CLIFFORD]] | Ay, and old York, and yet not satisfied. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--08_exchange_richard" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (RICHARD) [8]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] | For God’s sake, lords, give signal to the fight. |
+| WARWICK | What sayst thou, Henry, wilt thou yield the [[Crown|crown]]? |
+| [[Queen Margaret|QUEEN MARGARET]] | Why, how now, long-tongued Warwick, dare you speak? When you and I met at Saint Albans last, Your legs did better service than your hands. |
+| WARWICK | Then ‘twas my turn to fly—and now ‘tis thine. |
+| [[Clifford|CLIFFORD]] | You said so much before, and yet you fled. |
+| WARWICK | ’Twas not your valour, [[Clifford]], drove me thence. |
+| NORTHUMBERLAND | No, nor your manhood that durst make you stay. |
+| [[Richard|RICHARD]] | Northumberland, I hold thee reverently. Break off the parley, for scarce I can refrain The execution of my big-swoll’n heart Upon that [[Clifford]], that cruel [[Child|child]]-killer. |
+| [[Clifford|CLIFFORD]] | I slew thy father—call’st thou him a [[Child|child]]? |
+| [[Richard|RICHARD]] | Ay, like a dastard and a treacherous coward, As thou didst kill our tender brother Rutland. But ere sun set I’ll make thee curse the deed. |
+| [[King|KING]] HENRY | Have done with words, my lords, and hear me speak. |
+| [[Queen Margaret|QUEEN MARGARET]] | Defy them, then, or else hold close thy lips. |
+| [[King|KING]] HENRY | I prithee give no limits to my tongue— I am a [[King|king]], and privileged to speak. |
+| [[Clifford|CLIFFORD]] | My liege, the wound that bred this meeting here Cannot be cured by words—therefore be still. |
+| [[Richard|RICHARD]] | Then, executioner, unsheathe thy [[Sword|sword]]. By him that made us all, I am resolved That [[Clifford]]’s manhood lies upon his tongue. |
+| EDWARD | Say, Henry, shall I have my right or no? A thousand men have broke their fasts today That ne’er shall dine unless thou yield the [[Crown|crown]]. |
+| WARWICK | (to [[King]] Henry) If thou deny, their [[Blood|blood]] upon thy head; For York in justice puts his armour on. |
+| PRINCE EDWARD | If that be right which Warwick says is right, There is no wrong, but everything is right. |
+| [[Richard|RICHARD]] | Whoever got thee, there thy mother stands— For, [[Well|well]] I wot, thou hast thy mother’s tongue. |
+| [[Queen Margaret|QUEEN MARGARET]] | But thou art neither like thy sire nor dam, But like a foul misshapen stigmatic, Marked by the destinies to be avoided, As venom toads or lizards’ dreadful stings. |
+| [[Richard|RICHARD]] | Iron of Naples, hid with English gilt, Whose father bears the title of a [[King|king]]— As if a channel should be called the sea— Sham’st thou not, knowing whence thou art extraught, To let thy tongue detect thy base-born heart? |
+| EDWARD | A wisp of straw were worth a thousand crowns To make this shameless callet know herself. [[Helen]] of Greece was fairer far than thou, Although thy husband may be Menelaus; And ne’er was [[Agamemnon]]’s brother wronged By that false woman, as this [[King|king]] by thee. His father revelled in the heart of France, And tamed the [[King]], and made the [[Dauphin]] stoop; And had he matched according to his state, He might have kept that glory to this day. But when he took a beggar to his bed, And graced thy poor sire with his bridal day, Even then that sunshine brewed a shower for him That washed his father’s fortunes forth of France, And heaped sedition on his [[Crown|crown]] at [[Home|home]]. For what hath broached this tumult but thy [[Pride|pride]]? Hadst thou been meek, our title still had slept, And we, in pity of the gentle [[King]], Had slipped our claim until another age. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--09_exchange_george" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (GEORGE) [9]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| GEORGE | (to [[Queen Margaret]]) But when we saw our sunshine made thy [[spring]], And that thy [[Summer|summer]] bred us no increase, We set the axe to thy usurping root. And though the edge hath something hit ourselves, Yet know thou, since we have begun to strike, We’ll never leave till we have hewn thee down, Or bathed thy growing with our heated bloods. |
+| EDWARD | (to [[Queen Margaret]]) And in this resolution I defy thee, Not willing any longer conference Since thou deniest the gentle [[King]] to speak. Sound trumpets—let our bloody colours wave! And either victory, or else a [[Grave|grave]]! |
+| [[Queen Margaret|QUEEN MARGARET]] | Stay, Edward. |
+| EDWARD | No, wrangling woman, we’ll no longer stay— These words will cost ten thousand lives this day. Flourish. March. Exeunt Edward and his men at one door and [[Queen Margaret]] and her men at another door |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_5--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Enter [[King]] Henry |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_5--02_monologue_king_henry" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 5 — monologue (KING HENRY) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] HENRY | This battle fares like to the morning’s war, When dying clouds contend with growing light, What [[Time|time]] the shepherd, blowing of his nails, Can neither call it perfect day nor [[Night|night]]. Now sways it this way like a mighty sea Forced by the tide to combat with the [[Wind|wind]], Now sways it that way like the selfsame sea Forced to retire by fury of the [[Wind|wind]]. Sometime the flood prevails, and then the [[Wind|wind]]; Now one the better, then another best— Both tugging to be victors, breast to breast, Yet neither conqueror nor conquered. So is the equal poise of this fell war. Here on this molehill will I sit me down. To whom God will, there be the victory. For Margaret my [[Queen|queen]], and [[Clifford]], too, Have chid me from the battle, swearing both They prosper best of all when I am thence. Would I were dead, if God’s good will were so— For what is in this world but grief and woe? O God! Methinks it were a happy life To be no better than a homely swain. To sit upon a [[Hill|hill]], as I do now; To carve out dials quaintly, point by point, Thereby to see the minutes how they run: How many makes the hour full complete, How many hours brings about the day, How many days will finish up the year, How many years a mortal man may live. When this is known, then to divide the times: So many hours must I tend my flock, So many hours must I take my rest, So many hours must I contemplate, So many hours must I sport myself, So many days my ewes have been with young, So many weeks ere the poor fools will ean, So many years ere I shall shear the fleece. So minutes, hours, days, weeks, months, and years, Passed over to the end they were created, Would bring white hairs unto a quiet [[Grave|grave]]. Ah, what a life were this! How sweet! How lovely! Gives not the hawthorn bush a sweeter shade To shepherds looking on their seely sheep Than doth a rich embroidered canopy To kings that [[Fear|fear]] their subjects’ treachery? O yes, it doth—a thousandfold it doth. And to conclude, the shepherd’s homely curds, His cold thin drink out of his leather bottle, His wonted [[Sleep|sleep]] under a fresh tree’s shade, All which secure and sweetly he enjoys, Is far beyond a prince’s delicates, His viands sparkling in a golden cup, His [[Body|body]] couched in a curious bed, When care, mistrust, and treason waits on him. Alarum. Enter at one door a Soldier with a dead man in his arms. [[King]] Henry stands apart |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_5--03_exchange_soldier" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 5 — exchange (SOLDIER) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SOLDIER | Ill blows the [[Wind|wind]] that profits nobody. This man, whom hand to hand I slew in fight, May be possessed with some store of crowns; And I, that haply take them from him now, May yet ere [[Night|night]] yield both my life and them To some man else, as this dead man doth me. He removes the dead man’s helmet Who’s this? O God! It is my father’s face Whom in this conflict I, unwares, have killed. O, heavy times, begetting such events! From [[London]] by the [[King]] was I pressed forth; My father, being the [[Earl of Warwick]]’s man, Came on the part of York, pressed by his master; And I, who at his hands received my life, Have by my hands of life bereaved him. Pardon me, God, I knew not what I did; And pardon, father, for I knew not thee. My [[Tears|tears]] shall wipe away these bloody marks, And no more words till they have flowed their fill. He weeps |
+| [[King|KING]] HENRY | O piteous spectacle! O bloody times! Whiles lions war and battle for their dens, Poor harmless lambs abide their enmity. Weep, wretched man, I’ll aid thee tear for tear; And let our hearts and eyes, like civil war, Be blind with [[Tears|tears]], and break, o’ercharged with grief. Enter at another door another Soldier with a dead man in his arms |
+| SECOND SOLDIER | Thou that so stoutly hath resisted me, Give me thy gold, if thou hast any gold— For I have bought it with an hundred blows. He removes the dead man’s helmet But let me see: is this our foeman’s face? Ah, no, no, no—it is mine only son! Ah, boy, if any life be left in thee, Throw up thine eye! (Weeping) See, see, what showers arise, Blown with the windy tempest of my heart, Upon thy wounds, that kills mine eye and heart! O, pity, God, this miserable age! What stratagems, how fell, how butcherly, Erroneous, mutinous, and unnatural, This deadly quarrel daily doth beget! O boy, thy father gave thee life too soon, And hath bereft thee of thy life too late! |
+| [[King|KING]] HENRY | Woe above woe! Grief more than common grief! O that my [[Death|death]] would stay these ruthful deeds! O, pity, pity, gentle heaven, pity! The red [[Rose|rose]] and the white are on his face, The fatal colours of our striving houses; The one his purple [[Blood|blood]] right [[Well|well]] resembles, The other his pale cheeks, methinks, presenteth. Wither one [[Rose|rose]], and let the other flourish— If you contend, a thousand lives must wither. |
+| FIRST SOLDIER | How will my mother for a father’s [[Death|death]] Take on with me, and ne’er be satisfied! |
+| SECOND SOLDIER | How will my wife for slaughter of my son Shed seas of [[Tears|tears]], and ne’er be satisfied! |
+| [[King|KING]] HENRY | How will the country for these woeful chances Misthink the [[King]], and not be satisfied! |
+| FIRST SOLDIER | Was ever son so rued a father’s [[Death|death]]? |
+| SECOND SOLDIER | Was ever father so bemoaned his son? |
+| [[King|KING]] HENRY | Was ever [[King|king]] so grieved for subjects’ woe? Much is your sorrow, mine ten times so much. |
+| FIRST SOLDIER | (to his father’s [[Body|body]]) I’ll bear thee hence where I may weep my fill. Exit at one door with the [[Body|body]] of his father |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_5--04_exchange_second_soldier" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 5 — exchange (SECOND SOLDIER) [4]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SECOND SOLDIER | (to his son’s [[Body|body]]) These arms of mine shall be thy winding sheet; My heart, sweet boy, shall be thy sepulchre, For from my heart thine image ne‘er shall go. My sighing breast shall be thy funeral bell, And so obsequious will thy father be, E’en for the loss of thee, having no more, As Priam was for all his valiant sons. I’ll bear thee hence, and let them fight that will— For I have murdered where I should not kill. Exit at another door with the [[Body|body]] of his son |
+| [[King|KING]] HENRY | Sad-hearted men, much overgone with care, Here sits a [[King|king]] more woeful than you are. Alarums. Excursions. Enter Prince Edward |
+| PRINCE EDWARD | Fly, father, fly—for all your friends are fled, And Warwick rages like a chafed bull! Away—for [[Death|death]] doth hold us in pursuit! Enter [[Queen Margaret]] |
+| [[Queen Margaret|QUEEN MARGARET]] | Mount you, my lord—towards Berwick post amain. Edward and [[Richard]], like a brace of greyhounds Having the fearful flying hare in sight, With fiery eyes sparkling for very wrath, And bloody steel grasped in their ireful hands, Are at our backs—and therefore hence amain. Enter Exeter |
+| EXETER | Away—for vengeance comes along with them! Nay—stay not to expostulate—make [[Speed|speed]]— Or else come after. I’ll away before. |
+| [[King|KING]] HENRY | Nay, take me with thee, good sweet Exeter. Not that I [[Fear|fear]] to stay, but [[Love|love]] to go Whither the [[Queen]] intends. Forward, away. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[King]] Edward, [[Richard]] [[Duke of Gloucester]], George Duke of [[Clarence]], and the Lady Gray |
+| [[King|KING]] EDWARD | Brother of [[Gloucester]], at Saint Albans field This lady’s husband, Sir [[Richard]] Gray, was slain, His lands then seized on by the conqueror. Her suit is now to repossess those lands, Which we in justice cannot [[Well|well]] deny, Because in quarrel of the [[house]] of York The worthy gentleman did lose his life. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Your highness shall do [[Well|well]] to grant her suit— It were dishonour to deny it her. |
+| [[King|KING]] EDWARD | It were no less; but yet I’ll make a pause. |
+| [[Richard|RICHARD]] OF | [[Gloucester|GLOUCESTER]], (aside to George) Yea, is it so? I see the lady hath a thing to grant Before the [[King]] will grant her humble suit. |
+| GEORGE OF [[Clarence|CLARENCE]] | (aside to [[Richard]]) He knows the game; how true he keeps the [[Wind|wind]]! |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside to George) [[Silence]]. |
+| [[King|KING]] EDWARD | (to Lady Gray) Widow, we will consider of your suit; And come some other [[Time|time]] to know our mind. |
+| LADY GRAY | Right gracious lord, I cannot brook delay. May it please your highness to resolve me now, And what your pleasure is shall satisfy me. |
+| [[Richard|RICHARD]] OF | [[Gloucester|GLOUCESTER]], (aside to George) Ay, widow ? Then I’ll warrant you all your lands An if what pleases him shall pleasure you. Fight closer, or, good [[Faith|faith]], you’ll catch a blow. |
+| GEORGE OF [[Clarence|CLARENCE]] | (aside to [[Richard]]) I [[Fear|fear]] her not unless she chance to fall. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside to George) God forbid that! For he’ll take vantages. |
+| [[King|KING]] EDWARD | (to Lady Gray) How many children hast thou, widow ? Tell me. |
+| GEORGE OF [[Clarence|CLARENCE]] | (aside to [[Richard]]) I think he means to beg a [[Child|child]] of her. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside to George) Nay, whip me then—he’ll rather give her two. |
+| LADY GRAY | (to [[King]] Edward) Three, my most gracious lord. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside) You shall have four, an you’ll be ruled by him. |
+| [[King|KING]] EDWARD | (to Lady Gray) ’Twere pity they should lose their father’s lands. |
+| LADY GRAY | Be pitiful, dread lord, and grant it them. |
+| [[King|KING]] EDWARD | (to [[Richard]] and George) Lords, give us leave—I’ll try this widow’s wit. |
+| [[Richard|RICHARD]] OF | [[Gloucester|GLOUCESTER]], aside to George Ay, good leave have you; for you will have leave, Till youth take leave and leave you to the crutch. [[Richard]] and George stand apart |
+| [[King|KING]] EDWARD | (to Lady Gray) Now tell me, madam, do you [[Love|love]] your children? |
+| LADY GRAY | Ay, full as dearly as I [[Love|love]] myself. |
+| [[King|KING]] EDWARD | And would you not do much to do them good? |
+| LADY GRAY | To do them good I would sustain some harm. |
+| [[King|KING]] EDWARD | Then get your husband’s lands, to do them good. |
+| LADY GRAY | Therefore I came unto your majesty. |
+| [[King|KING]] EDWARD | I’ll tell you how these lands are to be got. |
+| LADY GRAY | So shall you bind me to your highness’ service. |
+| [[King|KING]] EDWARD | What service wilt thou do me, if I give them? |
+| LADY GRAY | What you command, that rests in me to do. |
+| [[King|KING]] EDWARD | But you will take exceptions to my boon. |
+| LADY GRAY | No, gracious lord, except I cannot do it. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--02_exchange_king_edward" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (KING EDWARD) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] EDWARD | Ay, but thou canst do what I mean to ask. |
+| LADY GRAY | Why, then, I will do what your grace commands. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to George) He plies her hard, and much rain wears the marble. |
+| GEORGE OF [[Clarence|CLARENCE]] | As red as [[Fire|fire]]! Nay, then her wax must melt. |
+| LADY GRAY | (to [[King]] Edward) Why stops my lord? Shall I not hear my task? |
+| [[King|KING]] EDWARD | An easy task—’tis but to [[Love|love]] a [[King|king]]. |
+| LADY GRAY | That’s soon performed, because I am a subject. |
+| [[King|KING]] EDWARD | Why, then, thy husband’s lands I freely give thee. 55 |
+| LADY GRAY | (curtsies) I take my leave, with many thousand thanks. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to George) The match is made—she seals it with a curtsy. |
+| [[King|KING]] EDWARD | (to Lady Gray) But stay thee—’tis the fruits of [[Love|love]] I mean. |
+| LADY GRAY | The fruits of [[Love|love]] I mean, my loving liege. |
+| [[King|KING]] EDWARD | Ay, but I [[Fear|fear]] me in another sense. What [[Love|love]] think’st thou I sue so much to get? |
+| LADY GRAY | My [[Love|love]] till [[Death|death]], my humble thanks, my prayers— That [[Love|love]] which virtue begs and virtue grants. |
+| [[King|KING]] EDWARD | No, by my troth, I did not mean such [[Love|love]]. |
+| LADY GRAY | Why, then, you mean not as I thought you did. |
+| [[King|KING]] EDWARD | But now you partly may perceive my mind. |
+| LADY GRAY | My mind will never grant what I perceive Your highness aims at, if I aim aright. |
+| [[King|KING]] EDWARD | To tell thee plain, I aim to lie with thee. |
+| LADY GRAY | To tell you plain, I had rather lie in [[Prison|prison]]. 70 |
+| [[King|KING]] EDWARD | Why, then, thou shalt not have thy husband’s lands. |
+| LADY GRAY | Why, then, mine honesty shall be my dower; For by that loss I will not purchase them. |
+| [[King|KING]] EDWARD | Therein thou wrong’st thy children mightily. |
+| LADY GRAY | Herein your highness wrongs both them and me. But, mighty lord, this merry inclination Accords not with the sadness of my suit. Please you dismiss me either with ay or no. |
+| [[King|KING]] EDWARD | Ay, if thou wilt say ‘ay’ to my request; No, if thou dost say ‘no’ to my demand. |
+| LADY GRAY | Then, no, my lord—my suit is at an end. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to George) The widow likes him not—she knits her brows. |
+| GEORGE OF [[Clarence|CLARENCE]] | He is the bluntest wooer in Christendom. |
+| [[King|KING]] EDWARD | (aside) Her looks doth argue her replete with modesty; Her words doth show her wit incomparable; All her perfections challenge sovereignty. One way or other, she is for a [[King|king]]; And she shall be my [[Love|love]] or else my [[Queen|queen]]. (To Lady Gray) Say that [[King]] Edward take thee for his [[Queen|queen]]? |
+| LADY GRAY | ’Tis better said than done, my gracious lord. I am a subject fit to jest withal, But far unfit to be a sovereign. |
+| [[King|KING]] EDWARD | Sweet widow, by my state I swear to thee I speak no more than what my [[Soul|soul]] intends, And that is to enjoy thee for my [[Love|love]]. |
+| LADY GRAY | And that is more than I will yield unto. I know I am too mean to be your [[Queen|queen]], And yet too good to be your concubine. |
+| [[King|KING]] EDWARD | You cavil, widow-I did mean my [[Queen|queen]]. |
+| LADY GRAY | ’Twill grieve your grace my sons should call you father. |
+| [[King|KING]] EDWARD | No more than when my daughters call thee mother. Thou art a widow and thou hast some children; And, by God’s mother, I, being but a bachelor, Have other some. Why, ’tis a happy thing To be the father unto many sons. Answer no more, for thou shalt be my [[Queen|queen]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--03_exchange_richard_of_gloucester" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (RICHARD OF GLOUCESTER) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to George) The ghostly father now hath done his shrift. |
+| GEORGE OF [[Clarence|CLARENCE]] | When he was made a shriver, ’twas for shift. |
+| [[King|KING]] EDWARD | (to [[Richard]] and George) Brothers, you muse what chat we two have had. [[Richard]] and George come forward |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | The widow likes it not, for she looks very sad. |
+| [[King|KING]] EDWARD | You’d think it strange if I should marry her. |
+| GEORGE OF [[Clarence|CLARENCE]] | To who, my lord ? |
+| [[King|KING]] EDWARD | Why, [[Clarence]], to myself. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | That would be ten days’ [[Wonder|wonder]] at the least. |
+| GEORGE OF [[Clarence|CLARENCE]] | That’s a day longer than a [[Wonder|wonder]] lasts. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | By so much is the [[Wonder|wonder]] in extremes. |
+| [[King|KING]] EDWARD | [[Well]], jest on, brothers—I can tell you both Her suit is granted for her husband’s lands. Enter a Nobleman |
+| NOBLEMAN | My gracious lord, Henry your foe is taken And brought as prisoner to your palace gate. |
+| [[King|KING]] EDWARD | See that he be conveyed unto the Tower— (To [[Richard]] and George) |
+| *(didascalia)* | And go we, brothers, to the man that took him, To question of his apprehension. (To Lady Gray) Widow, go you along. To [[Richard]] and |
+| *(didascalia)* | George Lords, use her honourably. Exeunt all but [[Richard]] |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--04_monologue_richard_of_gloucester" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — monologue (RICHARD OF GLOUCEST’ER) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] OF GLOUCEST’ER | Ay, Edward will use women honourably. Would he were wasted, marrow, bones, and all, That from his loins no hopeful branch may [[Spring|spring]] To [[Cross|cross]] me from the golden [[Time|time]] I look for. And yet, between my [[Soul|soul]]’s [[Desire|desire]] and me— The lustful Edward’s title burièd— Is [[Clarence]], Henry, and his son young Edward, And all the unlooked-for issue of their bodies, To take their rooms ere I can place myself. A cold premeditation for my purpose. Why, then, I do but dream on sovereignty Like one that stands upon a promontory And spies a far-off shore where he would tread, Wishing his foot were equal with his eye, And chides the sea that sunders him from thence, Saying he’ll lade it dry to have his way— So do I wish the [[Crown|crown]] being so far off, And so I chide the means that keeps me from it, And so I say I’ll cut the causes off, Flattering me with impossibilities. My eye’s too quick, my heart o‘erweens too much, Unless my hand and strength could equal them. [[Well]], say there is no kingdom then for [[Richard]]— What other pleasure can the world afford? I’ll make my heaven in a lady’s lap, And deck my [[Body|body]] in gay ornaments, And ’[[Witch|witch]] sweet ladies with my words and looks. O, miserable thought! And more unlikely Than to accomplish twenty golden crowns. Why, [[Love|love]] forswore me in my mother’s womb, And, for I should not deal in her soft laws, She did corrupt frail [[Nature|nature]] with some bribe To shrink mine arm up like a withered shrub, To make an envious mountain on my back— Where sits deformity to mock my [[Body|body]]— To shape my legs of an unequal size, To disproportion me in every part, Like to a chaos, or an unlicked bear whelp That carries no impression like the dam. And am I then a man to be beloved? O, monstrous fault, to harbour such a thought! Then, since this earth affords no joy to me But to command, to check, to o‘erbear such As are of better person than myself, I’ll make my heaven to dream upon the [[Crown|crown]], And whiles I live, t’account this world but hell, Until my misshaped trunk that bears this head Be round impaled with a glorious [[Crown|crown]]. And yet I know not how to get the [[Crown|crown]], For many lives stand between me and [[Home|home]]. And I—like one lost in a thorny wood, That rends the thorns and is rent with the thorns, Seeking a way and straying from the way, Not knowing how to find the open air, But toiling desperately to find it out— Torment myself to catch the English [[Crown|crown]]. And from that torment I will free myself, Or hew my way out with a bloody axe. Why, I can smile, and murder whiles I smile, And cry ‘Content!’ to that which grieves my heart, And wet my cheeks with artificial [[Tears|tears]], And frame my face to all occasions. I’ll drown more sailors than the [[Mermaid|mermaid]] shall; I’ll slay more gazers than the basilisk; I’ll play the orator as [[Well|well]] as Nestor, Deceive more slyly than [[Ulysses]] could, And, like a Sinon, take another Troy. I can add colours to the chameleon, Change shapes with [[Proteus]] for advantages, And set the murderous Machiavel to school. Can I do this, and cannot get a [[Crown|crown]]? Tut, were it farther off, I’ll pluck it down. Exit |
+| *(didascalia)* | 3.3 Two chairs of state. Flourish. Enter [[King]] Louis of France, his sister the Lady Bona, Lord Bourbon his admiral, Prince Edward, [[Queen Margaret]], and the Earl of [[Oxford]]. Louis goes up upon the state, sits, and riseth up again |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--05_exchange_king_louis" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (KING LOUIS) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] LOUIS | Fair [[Queen]] of England, worthy Margaret, Sit down with us. It ill befits thy state And birth that thou shouldst stand while Louis doth sit. |
+| [[Queen Margaret|QUEEN MARGARET]] | No, mighty [[King of France]], now Margaret Must strike her sail and learn a while to serve Where kings command. I was, I must confess, Great Albion’s [[Queen|queen]] in former golden days, But now mischance hath trod my title down, And with dishonour laid me on the ground, Where I must take like seat unto my fortune And to my humble state conform myself. |
+| [[King|KING]] LOUIS | Why, say, fair [[Queen]], whence springs this deep [[Despair|despair]] ? |
+| [[Queen Margaret|QUEEN MARGARET]] | From such a cause as fills mine eyes with [[Tears|tears]] And stops my tongue, while heart is drowned in cares. |
+| [[King|KING]] LOUIS | Whate’er it be, be thou still like thyself, And sit thee by our side. Seats her by him Yield not thy neck To fortune’s yoke, but let thy dauntless mind Still ride in triumph over all mischance. Be plain, [[Queen Margaret]], and tell thy grief. It shall be eased if France can yield relief. |
+| [[Queen Margaret|QUEEN MARGARET]] | Those gracious words revive my drooping thoughts, And give my tongue-tied sorrows leave to speak. Now, therefore, be it known to noble Louis That Henry, sole possessor of my [[Love|love]], Is of a [[King|king]] become a banished man, And forced to live in Scotland a forlorn, While proud ambitious Edward, [[Duke of York]], Usurps the regal title and the seat Of England’s true-anointed lawful [[King]]. This is the cause that I, poor Margaret, With this my son, Prince Edward, Henry’s heir, Am come to crave thy just and lawful aid. An if thou fail us all our [[Hope|hope]] is done. Scotland hath will to help, but cannot help; Our people and our peers are both misled, Our treasure seized, our soldiers put to flight, And, as thou seest, ourselves in heavy plight. |
+| [[King|KING]] LOUIS | Renowned [[Queen]], with patience calm the [[Storm|storm]], While we bethink a means to break it off. |
+| [[Queen Margaret|QUEEN MARGARET]] | The more we stay, the stronger grows our foe. |
+| [[King|KING]] LOUIS | The more I stay, the more I’ll succour thee. |
+| [[Queen Margaret|QUEEN MARGARET]] | O, but impatience waiteth on true sorrow. Enter the [[Earl of Warwick]] And see where comes the breeder of my sorrow. |
+| [[King|KING]] LOUIS | What’s he approacheth boldly to our presence? |
+| [[Queen Margaret|QUEEN MARGARET]] | Our [[Earl of Warwick]], Edward’s greatest friend. |
+| [[King|KING]] LOUIS | Welcome, brave Warwick. What brings thee to France ? He descends. She ariseth |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) Ay, now begins a second [[Storm|storm]] to rise, For this is he that moves both [[Wind|wind]] and tide. |
+| WARWICK | (to [[King]] Louis) From worthy Edward, [[King]] of Albion, My lord and sovereign, and thy vowed friend, I come in kindness and unfeigned [[Love|love]], First, to do greetings to thy royal person, And then, to crave a league of amity, And lastly, to confirm that amity With nuptial knot, if thou vouchsafe to grant That virtuous Lady Bona, thy fair sister, To England’s [[King]] in lawful [[Marriage|marriage]]. |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) If that go forward, Henry’s [[Hope|hope]] is done. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--06_exchange_warwick" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (WARWICK) [6]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| WARWICK | (to Lady Bona) And, gracious madam, in our [[King]]’s behalf I am commanded, with your leave and favour, Humbly to kiss your hand, and with my tongue To tell the passion of my sovereign’s heart, Where fame, late ent‘ring at his heedful ears, Hath placed thy [[Beauty|beauty]]’s image and thy virtue. |
+| [[Queen Margaret|QUEEN MARGARET]] | [[King]] Louis and Lady Bona, hear me speak Before you answer Warwick. His demand Springs not from Edward’s [[Well|well]]-meant honest [[Love|love]], But from deceit, bred by necessity. For how can tyrants safely govern [[Home|home]] Unless abroad they purchase great alliance ? To prove him [[Tyrant|tyrant]] this reason may suffice— That Henry liveth still; but were he dead, Yet here Prince Edward stands, [[King]] Henry’s son. Look, therefore, Louis, that by this league and [[Marriage|marriage]] Thou draw not on thy danger and dishonour, For though usurpers sway the rule a while, Yet heav’ns are just and [[Time|time]] suppresseth wrongs. |
+| WARWICK | Injurious Margaret. |
+| PRINCE EDWARD | And why not ‘[[Queen]]’? |
+| WARWICK | Because thy father Henry did usurp, And thou no more art prince than she is [[Queen|queen]]. |
+| [[Oxford|OXFORD]] | Then Warwick disannuls great [[John of Gaunt]], Which did subdue the greatest part of Spain; And, after [[John of Gaunt]], Henry the Fourth, Whose wisdom was a [[Mirror|mirror]] to the wisest; And, after that wise prince, Henry the Fifth, Who by his prowess conquered all France. From these our Henry lineally descends. |
+| WARWICK | [[Oxford]], how haps it in this smooth discourse You told not how Henry the Sixth hath lost All that which Henry the Fifth had gotten ? Methinks these peers of France should smile at that. But for the rest, you tell a pedigree Of threescore and two years—a silly [[Time|time]] To make prescription for a kingdom’s worth. |
+| [[Oxford|OXFORD]] | Why, Warwick, canst thou speak against thy liege, Whom thou obeyedest thirty and six years, And not bewray thy treason with a blush? |
+| WARWICK | Can [[Oxford]], that did ever fence the right, Now buckler falsehood with a pedigree? For shame—leave Henry, and call Edward [[King|king]]. |
+| [[Oxford|OXFORD]] | Call him my [[King|king]] by whose injurious doom My elder brother, the Lord Aubrey Vere, Was done to [[Death|death]] ? And more than so, my father, Even in the downfall of his mellowed years, When [[Nature|nature]] brought him to the door of [[Death|death]]? No, Warwick, no—while life upholds this arm, This arm upholds the [[house]] of Lancaster. |
+| WARWICK | And I the [[house]] of York. |
+| [[King|KING]] LOUIS | [[Queen Margaret]], Prince Edward, and [[Oxford]], Vouchsafe, at our request, to stand aside While I use further conference with Warwick. [[Queen Margaret]] comes down from the state and, with Prince Edward and [[Oxford]], stands apart |
+| [[Queen Margaret|QUEEN MARGARET]] | Heavens grant that Warwick’s words bewitch him not. |
+| [[King|KING]] LOUIS | Now, Warwick, tell me even upon thy [[Conscience|conscience]], Is Edward your true [[King|king]]? For I were loath To link with him that were not lawful chosen. |
+| WARWICK | Thereon I pawn my credit and mine [[Honour|honour]]. |
+| [[King|KING]] LOUIS | But is he gracious in the people’s eye? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--07_exchange_warwick" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (WARWICK) [7]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| WARWICK | The more that Henry was unfortunate. |
+| [[King|KING]] LOUIS | Then further, all dissembling set aside, Tell me for [[Truth|truth]] the measure of his [[Love|love]] Unto our sister Bona. |
+| WARWICK | Such it seems As may beseem a monarch like himself. Myself have often heard him say and swear That this his [[Love|love]] was an eternal plant, Whereof the root was fixed in virtue’s ground, The [[Leaves|leaves]] and fruit maintained with [[Beauty|beauty]]’s sun, Exempt from envy, but not from disdain, Unless the Lady Bona quit his [[Pain|pain]]. |
+| [[King|KING]] LOUIS | (to Lady Boa) Now, sister, let us hear your firm resolve. |
+| LADY BONA | Your grant, or your denial, shall be mine. (To Warwick) Yet I confess that often ere this day, When I have heard your [[King|king]]’s [[Desert|desert]] recounted, Mine ear hath tempted judgement to [[Desire|desire]]. |
+| [[King|KING]] LOUIS | (to Warwick) Then, Warwick, thus—our sister shall be Edward’s. And now, forthwith, shall articles be drawn Touching the jointure that your [[King|king]] must make, Which with her dowry shall be counterpoised. (To [[Queen Margaret]]) Draw near, [[Queen Margaret]], and be a witness That Bona shall be wife to the English [[King|king]]. [[Queen Margaret]], Prince Edward, and [[Oxford]] come forward |
+| PRINCE EDWARD | To Edward, but not to the English [[King|king]]. |
+| [[Queen Margaret|QUEEN MARGARET]] | Deceitful Warwick—it was thy device By this alliance to make void my suit! Before thy coming Louis was Henry’s friend. |
+| [[King|KING]] LOUIS | And still is friend to him and Margaret. But if your title to the [[Crown|crown]] be weak, As may appear by Edward’s good [[success]], Then ’tis but reason that I be released From giving aid which late I promised. Yet shall you have all kindness at my hand That your estate requires and mine can yield. |
+| WARWICK | (to [[Queen Margaret]]) Henry now lives in Scotland at his ease, Where having nothing, nothing can he lose. And as for you yourself, our quondam [[Queen|queen]], You have a father able to maintain you, And better ’twere you troubled him than France. |
+| [[Queen Margaret|QUEEN MARGARET]] | Peace, impudent and shameless Warwick, peace! Proud setter-up and puller-down of kings! I will not hence till, with my talk and [[Tears|tears]], Both full of [[Truth|truth]], I make [[King]] Louis behold Thy sly conveyance and thy lord’s false [[Love|love]], Post blowing a horn within |
+| [[Queen Margaret|QUEEN MARGARET]] | For both of you are [[Birds|birds]] of selfsame feather. |
+| [[King|KING]] LOUIS | Warwick, this is some post to us or thee. Enter the Post |
+| POST | (to Warwick) My lord ambassador, these letters are for you, Sent from your brother Marquis Montague; (To Louis) These from our [[King]] unto your majesty; (To [[Queen Margaret]]) And, madam, these for you, from whom I know not. They all read their letters |
+| [[Oxford|OXFORD]] | (to Prince Edward) I like it [[Well|well]] that our fair [[Queen]] and mistress Smiles at her news, while Warwick frowns at his. |
+| PRINCE EDWARD | Nay, mark how Louis stamps as he were nettled. I [[Hope|hope]] all’s for the best. |
+| [[King|KING]] LOUIS | Warwick, what are thy news ? And yours, fair [[Queen]]? |
+| [[Queen Margaret|QUEEN MARGARET]] | Mine, such as fill my heart with unhoped joys. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--08_exchange_warwick" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (WARWICK) [8]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| WARWICK | Mine, full of sorrow and heart’s discontent. |
+| [[King|KING]] LOUIS | What! Has your [[King|king]] married the Lady Gray? And now to soothe your forgery and his, Sends me a paper to persuade me patience? Is this th’alliance that he seeks with France? Dare he presume to scorn us in this manner? |
+| [[Queen Margaret|QUEEN MARGARET]] | I told your majesty as much before— This proveth Edward’s [[Love|love]] and Warwick’s honesty. |
+| WARWICK | [[King]] Louis, I here protest in sight of heaven And by the [[Hope|hope]] I have of heavenly bliss, That I am clear from this misdeed of Edward‘s, No more my [[King|king]], for he dishonours me, But most himself, if he could see his shame. Did I forget that by the [[house]] of York My father came untimely to his [[Death|death]]? Did I let pass th’abuse done to my niece? Did I impale him with the regal [[Crown|crown]]? Did I put Henry from his native right? And am I guerdoned at the last with shame? Shame on himself, for my [[Desert|desert]] is [[Honour|honour]]. And to repair my [[Honour|honour]], lost for him, I here renounce him and return to Henry. (To [[Queen Margaret]]) My noble [[Queen]], let former grudges pass, And henceforth I am thy true servitor. I will [[Revenge|revenge]] his wrong to Lady Bona And replant Henry in his former state. |
+| [[Queen Margaret|QUEEN MARGARET]] | Warwick, these words have turned my hate to [[Love|love]], And I forgive and quite forget old faults, And joy that thou becom’st [[King]] Henry’s friend. |
+| WARWICK | So much his friend, ay, his unfeigned friend, That if [[King]] Louis vouchsafe to furnish us With some few bands of chosen soldiers, I’ll undertake to land them on our coast And force the [[Tyrant|tyrant]] from his seat by war. ’Tis not his new-made bride shall succour him. And as for [[Clarence]], as my letters tell me, He’s very likely now to fall from him For matching more for wanton lust than [[Honour|honour]], Or than for strength and safety of our country. |
+| LADY BONA | (to [[King]] Louis) Dear brother, how shall Bona be revenged, But by thy help to this distressed [[Queen]]? |
+| [[Queen Margaret|QUEEN MARGARET]] | (to [[King]] Louis) Renowned Prince, how shall poor Henry live Unless thou rescue him from foul [[Despair|despair]]? |
+| LADY BONA | (to [[King]] Louis) My quarrel and this English [[Queen]]’s are one. |
+| WARWICK | And mine, fair Lady Bona, joins with yours. |
+| [[King|KING]] LOUIS | And mine with hers, and thine, and Margaret’s. Therefore at last I firmly am resolved: You shall have aid. |
+| [[Queen Margaret|QUEEN MARGARET]] | Let me give humble thanks for all at once. |
+| [[King|KING]] LOUIS | (to the Post) Then, England’s messenger, return in post And tell false Edward, thy supposed [[King|king]], That Louis of France is sending over masquers To revel it with him and his new bride. Thou seest what’s passed, go [[Fear|fear]] thy [[King|king]] withal. |
+| LADY BONA | (to the Post) Tell him, in [[Hope|hope]] he’ll prove a widower shortly, I’ll wear the willow garland for his sake. |
+| [[Queen Margaret|QUEEN MARGARET]] | (to the Post) Tell him my mourning weeds are laid aside, And I am ready to put armour on. |
+| WARWICK | (to the Post) Tell him from me that he hath done me wrong, And therefore I’ll uncrown him ere’t be long. (Giving money) There’s thy reward—be gone. Exit Post |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--09_exchange_king_louis" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (KING LOUIS) [9]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] LOUIS | But, Warwick, thou and [[Oxford]], with five thousand men, Shall [[Cross|cross]] the seas and bid false Edward battle; And, as occasion serves, this noble [[Queen]] And Prince shall follow with a fresh supply. Yet, ere thou go, but answer me one [[Doubt|doubt]]: What pledge have we of thy firm loyalty? |
+| WARWICK | This shall assure my constant loyalty : That if our [[Queen]] and this young Prince agree, I’ll join mine eldest daughter and my joy To him forthwith in holy wedlock bands. |
+| [[Queen Margaret|QUEEN MARGARET]] | Yes, I agree, and thank you for your motion. (To Prince Edward) Son Edward, she is fair and virtuous, Therefore delay not. Give thy hand to Warwick, And with thy hand thy [[Faith|faith]] irrevocable That only Warwick’s daughter shall be thine. |
+| PRINCE EDWARD | Yes, I accept her, for she [[Well|well]] deserves it, And here to pledge my vow I give my hand. He and Warwick clasp hands |
+| [[King|KING]] LOUIS | Why stay we now? These soldiers shall be levied, And thou, Lord Bourbon, our high admiral, Shall waft them over with our royal fleet. I long till Edward fall by war’s mischance For mocking [[Marriage|marriage]] with a dame of France. Exeunt all but Warwick |
+| WARWICK | I came from Edward as ambassador, But I return his sworn and mortal foe. Matter of [[Marriage|marriage]] was the charge he gave me, But dreadful war shall answer his demand. Had he none else to make a stale but me? Then none but I shall turn his jest to sorrow. I was the chief that raised him to the [[Crown|crown]], And I’ll be chief to bring him down again. Not that I pity Henry’s misery, But seek [[Revenge|revenge]] on Edward’s mockery. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Richard]] [[Duke of Gloucester]], George Duke of [[Clarence]], the Duke of Somerset, and the Marquis of Montague |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Now tell me, brother [[Clarence]], what think you Of this new [[Marriage|marriage]] with the Lady Gray? Hath not our brother made a worthy choice ? |
+| GEORGE OF [[Clarence|CLARENCE]] | Alas, you know ’tis far from hence to France; How could he stay till Warwick made return? |
+| SOMERSET | My lords, forbear this talk—here comes the [[King]]. Flourish. Enter [[King]] Edward, the Lady Gray his |
+| SOMERSET | [[Queen]], the Earl of Pembroke, and the Lords |
+| *(didascalia)* | Stafford and [[Hastings]]. Four stand on one side of |
+| *(didascalia)* | the [[King]], and four on the other |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | And his [[Well|well]]-chosen bride. |
+| GEORGE OF [[Clarence|CLARENCE]] | I mind to tell him plainly what I think. |
+| [[King|KING]] EDWARD | Now, brother of [[Clarence]], how like you our choice, That you stand pensive, as half-malcontent? |
+| GEORGE OF [[Clarence|CLARENCE]] | As [[Well|well]] as Louis of France, or the [[Earl of Warwick]], Which are so weak of [[Courage|courage]] and in judgement That they’ll take no offence at our abuse. |
+| [[King|KING]] EDWARD | Suppose they take offence without a cause— They are but Louis and Warwick; I am Edward, Your [[King|king]] and Warwick’s, and must have my will. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | And you shall have your will, because our [[King|king]]. Yet hasty [[Marriage|marriage]] seldom proveth [[Well|well]]. |
+| [[King|KING]] EDWARD | Yea, brother [[Richard]], are you offended too ? |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Not I, no—God forbid that I should wish them severed Whom God hath joined together. Ay, and ’twere pity To sunder them that yoke so [[Well|well]] together. |
+| [[King|KING]] EDWARD | Setting your scorns and your mislike aside, Tell me some reason why the Lady Gray Should not become my wife and England’s [[Queen|queen]]. And you too, Somerset and Montague, Speak freely what you think. |
+| GEORGE OF [[Clarence|CLARENCE]] | Then this is my opinion: that [[King]] Louis Becomes your enemy for mocking him About the [[Marriage|marriage]] of the Lady Bona. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | And Warwick, doing what you gave in charge, Is now dishonoured by this new [[Marriage|marriage]]. |
+| [[King|KING]] EDWARD | What if both Louis and Warwick be appeased By such invention as I can devise? |
+| MONTAGUE | Yet, to have joined with France in such alliance Would more have strengthened this our commonwealth ’Gainst foreign storms than any [[Home|home]]-bred [[Marriage|marriage]]. |
+| [[Hastings|HASTINGS]] | Why, knows not Montague that of itself England is safe, if true within itself? |
+| MONTAGUE | But the safer when ’tis backed with France. |
+| [[Hastings|HASTINGS]] | ’Tis better using France than trusting France. Let us be backed with God and with the seas Which he hath giv’n for fence impregnable, And with their helps only defend ourselves. In them and in ourselves our safety lies. |
+| GEORGE OF [[Clarence|CLARENCE]] | For this one speech Lord [[Hastings]] [[Well|well]] deserves To have the heir of the Lord Hungerford. |
+| [[King|KING]] EDWARD | Ay, what of that? It was my will and grant— And for this once my will shall stand for law. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | And yet, methinks, your grace hath not done [[Well|well]] To give the heir and daughter of Lord Scales Unto the brother of your loving bride. She better would have fitted me or [[Clarence]], But in your bride you bury brotherhood. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--02_exchange_george_of_clarence" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 1 — exchange (GEORGE OF CLARENCE) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| GEORGE OF [[Clarence|CLARENCE]] | Or else you would not have bestowed the heir Of the Lord Bonville on your new wife’s son, And leave your brothers to go [[Speed|speed]] elsewhere. |
+| [[King|KING]] EDWARD | Alas, poor [[Clarence]], is it for a wife That thou art malcontent? I will provide thee. |
+| GEORGE OF [[Clarence|CLARENCE]] | In choosing for yourself you showed your judgement, Which being shallow, you shall give me leave To play the broker in mine own behalf, And to that end I shortly mind to leave you. |
+| [[King|KING]] EDWARD | Leave me, or tarry. Edward will be [[King|king]], And not be tied unto his brother’s will. |
+| LADY GRAY | My lords, before it pleased his majesty To raise my state to title of a [[Queen|queen]], Do me but right, and you must all confess That I was not ignoble of descent— And meaner than myself have had like fortune. But as this title honours me and mine, So your dislikes, to whom I would be pleasing, Doth cloud my joys with danger and with sorrow. |
+| [[King|KING]] EDWARD | My [[Love|love]], forbear to fawn upon their frowns. What danger or what sorrow can befall thee So long as Edward is thy constant friend, And their true sovereign, whom they must obey? Nay, whom they shall obey, and [[Love|love]] thee too— Unless they seek for hatred at my hands, Which if they do, yet will I keep thee safe, And they shall feel the vengeance of my wrath. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside) I hear, yet say not much, but think the more. Enter the Post from France |
+| [[King|KING]] EDWARD | Now, messenger, what letters or what news from France ? |
+| POST | My sovereign liege, no letters and few words, But such as I, without your special pardon, Dare not relate. |
+| [[King|KING]] EDWARD | Go to, we pardon thee. Therefore, in brief, Tell me their words as near as thou canst guess them. What answer makes [[King]] Louis unto our letters? |
+| POST | At my depart these were his very words: ‘Go tell false Edward, thy supposed [[King|king]], That Louis of France is sending over masquers To revel it with him and his new bride.’ |
+| [[King|KING]] EDWARD | Is Louis so brave ? Belike he thinks me Henry. But what said Lady Bona to my [[Marriage|marriage]]? |
+| POST | These were her words, uttered with mild disdain: ‘Tell him in [[Hope|hope]] he’ll prove a widower shortly, I’ll wear the willow garland for his sake.’ |
+| [[King|KING]] EDWARD | ame not her, she could say little less; She had the wrong. But what said Henry’s [[Queen|queen]]? For I have heard that she was there in place. |
+| POST | ‘Tell him‘, quoth she, ’my mourning weeds are done, And I am ready to put armour on.’ |
+| [[King|KING]] EDWARD | Belike she minds to play the Amazon. But what said Warwick to these injuries? |
+| POST | He, more incensed against your majesty Than all the rest, discharged me with these words: ‘Tell him from me that he hath done me wrong, And therefore I’ll uncrown him ere’t be long.’ |
+| [[King|KING]] EDWARD | Ha! Durst the traitor breathe out so proud words? [[Well]], I will arm me, being thus forewarned. They shall have wars and pay for their presumption. But say, is Warwick friends with Margaret? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--03_exchange_post" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 1 — exchange (POST) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| POST | Ay, gracious sovereign, they are so linked in [[Friendship|friendship]] That young Prince Edward marries Warwick’s daughter. |
+| GEORGE OF [[Clarence|CLARENCE]] | Belike the elder; [[Clarence]] will have the younger. Now, brother [[King]], farewell, and sit you fast, For I will hence to Warwick’s other daughter, That, though I want a kingdom, yet in [[Marriage|marriage]] I may not prove inferior to yourself. You that [[Love|love]] me and Warwick, follow me. Exit [[Clarence]], and Somerset follows |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Not I—aside my thoughts aim at a further matter. I stay not for the [[Love|love]] of Edward, but the [[Crown|crown]]. |
+| [[King|KING]] EDWARD | [[Clarence]] and Somerset both gone to Warwick? Yet am I armed against the worst can happen, And haste is needful in this desp’rate case. Pembroke and Stafford, you in our behalf Go levy men and make prepare for war. They are already, or quickly will be, landed. Myself in person will straight follow you. Exeunt Pembroke and Stafford But ere I go, [[Hastings]] and Montague, Resolve my [[Doubt|doubt]]. You twain, of all the rest, Are near’st to Warwick by [[Blood|blood]] and by alliance. Tell me if you [[Love|love]] Warwick more than me. If it be so, then both depart to him— I rather wish you foes than hollow friends. But if you mind to hold your true obedience, Give me assurance with some friendly vow That I may never have you in suspect. |
+| MONTAGUE | So God help Montague as he proves true. |
+| [[Hastings|HASTINGS]] | And [[Hastings]] as he favours Edward’s cause. |
+| [[King|KING]] EDWARD | Now, brother [[Richard]], will you stand by us? |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Ay, in despite of all that shall withstand you. |
+| [[King|KING]] EDWARD | Why, so. Then am I sure of victory. Now, therefore, let us hence and lose no hour Till we meet Warwick with his foreign power. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the [[Earl of Warwick]], the Mayar of Coventry, two Messengers, and others upon the walls |
+| WARWICK | Where is the post that came from valiant [[Oxford]]? The First Messenger steps forward How far hence is thy lord, mine honest fellow? |
+| FIRST MESSENGER | By this at Dunsmore, marching hitherward. |
+| WARWICK | How far off is our brother Montague? Where is the post that came from Montague? the Second Messenger steps forward |
+| SECOND MESSENGER | By this at Da’ntry, with a puissant troop. Enter Somerville to them, abovel |
+| WARWICK | Say, Somerville-what says my loving son? And, by thy guess, how nigh is [[Clarence]] now? |
+| SOMERVILLE | At Southam I did leave him with his forces, And do expect him here some two hours hence. A march afar off |
+| WARWICK | Then [[Clarence]] is at hand-I hear his drum. |
+| SOMERVILLE | It is not his, my lord. Here Southam lies. The drum your [[Honour|honour]] hears marcheth from Warwick. |
+| WARWICK | Who should that be? Belike, unlooked-for friends. |
+| SOMERVILLE | They are at hand, and you shall quickly know. Flourish. Enter below [[King]] Edward and [[Richard]] [[Duke of Gloucester]], with soldiers |
+| [[King|KING]] EDWARD | Go, trumpet, to the walls, and sound a parley. Sound a parley |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | See how the surly Warwick mans the wall. |
+| WARWICK | O, unbid spite—is sportful Edward come? Where slept our scouts, or how are they seduced, That we could hear no news of his repair? |
+| [[King|KING]] EDWARD | Now, Warwick, wilt thou ope the [[City|city]] gates, Speak gentle words, and humbly bend thy knee, Call Edward [[King|king]], and at his hands beg [[Mercy|mercy]]? And he shall pardon thee these outrages. |
+| WARWICK | Nay, rather, wilt thou draw thy forces hence, Confess who set thee up and plucked thee down, Call Warwick patron, and be penitent? And thou shalt still remain the [[Duke of York]]. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | I thought at least he would have said ‘the [[King]]’. Or did he make the jest against his will? |
+| WARWICK | Is not a dukedom, sir, a goodly gift? |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Ay, by my [[Faith|faith]], for a poor earl to give. I’ll do thee service for so good a gift. |
+| WARWICK | ’Twas I that gave the kingdom to thy brother. |
+| [[King|KING]] EDWARD | Why then, ’tis mine, if but by Warwick’s gift. |
+| WARWICK | Thou art no Atlas for so great a weight; And, weakling, Warwick takes his gift again; And Henry is my [[King|king]], Warwick his subject. |
+| [[King|KING]] EDWARD | But Warwick’s [[King|king]] is Edward’s prisoner, And, gallant Warwick, do but answer this: What is the [[Body|body]] when the head is off? |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Alas, that Warwick had no more forecast, But whiles he thought to steal the single ten, The [[King|king]] was slyly fingered from the deck. To Warwick You left poor Henry at the Bishop’s palace, And ten to one you’ll meet him in the Tower. |
+| [[King|KING]] EDWARD | ’Tis even so—to Warwick yet you are Warwick still. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Come, Warwick, take the [[Time|time]]—kneel down, kneel down. Nay, when? Strike now, or else the iron cools. |
+| WARWICK | I had rather chop this hand off at a blow, And with the other fling it at thy face, Than bear so low a sail to strike to thee. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--02_exchange_king_edward" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 1 — exchange (KING EDWARD) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] EDWARD | Sail how thou canst, have [[Wind|wind]] and tide thy friend, This hand, fast wound about thy coal-black hair, Shall, whiles thy head is warm and new cut off, Write in the [[Dust|dust]] this sentence with thy [[Blood|blood]]: ‘[[Wind]]-changing Warwick now can change no more’. Enter the Earl of [[Oxford]], with a drummer and soldiers bearing colours |
+| WARWICK | O cheerful colours! See where [[Oxford]] comes. |
+| [[Oxford|OXFORD]] | [[Oxford]], [[Oxford]], for Lancaster! [[Oxford]] and his men pass over the stage and exeunt into the [[City|city]] |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to [[King]] Edward) The gates are open—let us enter too. |
+| [[King|KING]] EDWARD | So other foes may set upon our backs? Stand we in good array, for they no [[Doubt|doubt]] Will issue out again and bid us battle. If not, the [[City|city]] being but of small defence, We’ll quickly rouse the traitors in the same. |
+| WARWICK | to [[Oxford]], within O, welcome, [[Oxford]]—for we want thy help. Enter the Marquis of Montague with a drummer and soldiers bearing colours |
+| MONTAGUE | Montague, Montague, for Lancaster! Montague and his men pass over the stage and exeunt into the [[City|city]] |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Thou and thy brother both shall bye this treason Even with the dearest [[Blood|blood]] your bodies bear. |
+| [[King|KING]] EDWARD | The harder matched, the greater victory. My mind presageth happy gain and conquest. Enter the Duke of Somerset with a drummer and soldiers bearing colours |
+| SOMERSET | Somerset, Somerset, for Lancaster! Somerset and his men pass over the stage and exeunt into the [[City|city]] |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Two of thy name, both dukes of Somerset, Have sold their lives unto the [[house]] of York— And thou shalt be the third, an this [[Sword|sword]] hold. Enter George Duke of [[Clarence]] with a drummer and soldiers bearing colours |
+| WARWICK | And lo, where George of [[Clarence]] sweeps along, Of force enough to bid his brother battle; With whom an upright zeal to right prevails More than the [[Nature|nature]] of a brother’s [[Love|love]]. |
+| GEORGE OF [[Clarence|CLARENCE]] | [[Clarence]], [[Clarence]], for Lancaster! |
+| [[King|KING]] EDWARD | Et tu, Brute—wilt thou stab Caesar too? (To a trumpeter) A parley, sirra, to George of [[Clarence]]. Sound a parley. [[Richard]] of [[Gloucester]] and George of |
+| [[King|KING]] EDWARD | [[Clarence]] whisper together |
+| WARWICK | Come, [[Clarence]], come—thou wilt if Warwick call. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--03_monologue_george_of_clarence" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 1 — monologue (GEORGE OF CLARENCE) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| GEORGE OF [[Clarence|CLARENCE]] | Father of Warwick, know you what this means? He takes his red [[Rose|rose]] out of his hat and throws it at Warwick Look—here I throw my infamy at thee! I will not ruinate my father’s [[house]], Who gave his [[Blood|blood]] to lime the stones together, And set up Lancaster. Why, trowest thou, Warwick, That [[Clarence]] is so harsh, so blunt, unnatural, To bend the fatal instruments of war Against his brother and his lawful [[King|king]]? Perhaps thou wilt object my holy oath. To keep that oath were more impiety Than Jephthah, when he sacrificed his daughter. I am so sorry for my trespass made That, to deserve [[Well|well]] at my brothers’ hands, I here proclaim myself thy mortal foe, With resolution, wheresoe’er I meet thee— As I will meet thee, if thou stir abroad— To plague thee for thy foul misleading me. And so, proud-hearted Warwick, I defy thee, And to my brothers turn my blushing cheeks. (To [[King]] Edward) Pardon me, Edward—I will make amends. (To [[Richard]]) And, [[Richard]], do not frown upon my faults, For I will henceforth be no more unconstant. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--04_exchange_king_edward" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 1 — exchange (KING EDWARD) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] EDWARD | Now welcome more, and ten times more beloved, Than if thou never hadst deserved our hate. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to George) Welcome, good [[Clarence]]—this is brother-like. |
+| WARWICK | (to George) O, passing traitor—perjured and unjust! |
+| [[King|KING]] EDWARD | What, Warwick, wilt thou leave the town and fight? Or shall we beat the stones about thine ears? |
+| WARWICK | aside Alas, I am not cooped here for defence. |
+| WARWICK | (To [[King]] Edward) I will away towards Barnet presently, And bid thee battle, Edward, if thou dar’st. |
+| [[King|KING]] EDWARD | Yes, Warwick—Edward dares, and leads the way. Lords, to the Held—Saint George and victory! Exeunt below [[King]] Edward and his company. March. The [[Earl of Warwick]] and his company descend and follow |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A chair of state. Flourish. Enter [[King]] Edward, Lady Gray his [[Queen]], George Duke off [[Clarence]], [[Richard]] [[Duke of Gloucester]], the Lord [[Hastings]], a [[Nurse|nurse]] carrying the infant Prince Edward, and attendants |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--02_monologue_king_edward" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — monologue (KING EDWARD) [2]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] EDWARD | Once more we sit in England’s royal throne, Repurchased with the [[Blood|blood]] of enemies. What valiant foemen, like to [[Autumn|autumn]]’s corn, Have we mowed down in tops of all their [[Pride|pride]]! Three dukes of Somerset, threefold renowned For hardy and undoubted champions; Two Cliffords, as the father and the son; And two Northumbertands—two braver men Ne’er spurred their coursers at the trumpet’s sound. With them, the two brave bears, Warwick and Montague, That in their [[Chains|chains]] fettered the kingly [[Lion|lion]] And made the forest tremble when they roared. Thus have we swept suspicion from our seat And made our footstool of security. (To Lady Gray) Come hither, Bess, and let me kiss my boy. The [[Nurse|nurse]] brings forth the infant prince. [[King]] Edward kisses him Young Ned, for thee, thine uncles and myself Have in our armours watched the [[Winter|winter]]’s [[Night|night]], Went all afoot in [[Summer|summer]]’s scalding heat, That thou mightst repossess the [[Crown|crown]] in peace; And of our labours thou shalt reap the gain. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--03_exchange_richard_of_gloucester" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — exchange (RICHARD OF GLOUCESTER) [3]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside) I’ll blast his harvest, an your head were laid; For yet I am not looked on in the world. This shoulder was ordained so thick to heave; And heave it shall some weight or break my back. Work thou the way, and thou shalt execute. |
+| [[King|KING]] EDWARD | [[Clarence]] and [[Gloucester]], [[Love|love]] my lovely [[Queen|queen]]; And kiss your princely nephew, brothers, both. |
+| GEORGE OF [[Clarence|CLARENCE]] | The duty that I owe unto your majesty I seal upon the lips of this sweet babe. He kisses the infant prince |
+| LADY GRAY | Thanks, noble [[Clarence]]—worthy brother, thanks. |
+| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | And that I [[Love|love]] the tree from whence thou sprang’st, Witness the loving kiss I give the fruit. He kisses the infant prince (Aside) To say the [[Truth|truth]], so Judas kissed his master, And cried ‘All hail!’ whenas he meant all harm. |
+| [[King|KING]] EDWARD | Now am I seated as my [[Soul|soul]] delights, Having my country’s peace and brothers’ loves. |
+| GEORGE OF [[Clarence|CLARENCE]] | What will your grace have done with Margaret? René her father, to the [[King of France]] Hath pawned the Sicils and Jerusalem, And hither have they sent it for her ransom. |
+| [[King|KING]] EDWARD | Away with her, and waft her hence to France. And now what rests but that we spend the [[Time|time]] With stately triumphs, mirthful comic shows, Such as befits the pleasure of the [[Court|court]]? Sound drums and trumpets—fareweti, sour annoy! For here, I [[Hope|hope]], begins our lasting joy. Flourish. Exeunt |
+| ADDITIONAL PASSAGES | A. Our edition adopts the 1595 version of 1.1.120-5 in the belief that it reflects an authorial revision; an edited text of the Folio alternative follows. |
+| [[King|KING]] HENRY | Peace, thou—and give [[King]] Henry leave to speak. |
+| WARWICK | Plantagenet shall speak first—hear him, lords, And be you silent and attentive too, For he that interrupts him shall not live. |
+| [[King|KING]] HENRY | to York Think’st thou that I will leave my kingly throne, |
+| [[King|KING]] HENRY | B. The 1595 text abridges 5.4.82.1-5.5.17, and may reflect authorial revision. An edited text of the abridged passage follows: |
+| ALL THE LANCASTER PARTY | Saint George for Lancaster! Alarums to the battle. The [[house]] of York flies, then the chambers are discharged. Then enter [[King]] Edward, George of [[Clarence]], and [[Richard]] of [[Gloucester]], and their followers: they make a great shout, and cry ‘For York! For York!’ Then [[Queen Margaret]], Prince Edward, [[Oxford]] and Somerset are all taken prisoner. Flourish, and enter all again |
+| [[King|KING]] EDWARD | Now here a period of tumultuous broils. Away with [[Oxford]] to Hames [[Castle]] straight; For Somerset, off with his guilty head. Go, bear them hence—I will not hear them speak. |
+| [[Oxford|OXFORD]] | For my part, I’ll not trouble thee with words. Exit, guarded |
+| SOMERSET | Nor I, but stoop with patience to my [[Death|death]]. Exit, guarded |
+| [[King|KING]] EDWARD | (to Prince Edward) Edward, what satisfaction canst thou make For stirring up my subjects to rebellion? |
+| PRINCE EDWARD | Speak like a subject, proud ambitious York. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--04_exchange_henry_vi_part_one" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — exchange (HENRY VI PART ONE) [4]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| BY WILLIAM SHAKESPEARE AND | OTHERS |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--05_monologue_the" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — monologue (THE) [5]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE | play printed here first appeared in the 1623 Folio, as The First Part of [[Henry VI]]; it tells the beginning of the story that is continued in The First Part of the Contention and in [[Richard]] [[Duke of York]]. Although in narrative sequence it belongs before those plays, there is good reason to believe that it was written after them. It is probably the ‘new’ play referred to as ‘harey the vj’ in the record of its performance on 3 March 1592 by Lord Strange’s Men. The box-office takings of £3 16s. 8d. were a record for the season, and the play was acted another fifteen times during the following ten months. Its [[success]] is mentioned in Thomas Nashe’s satirical pamphlet Piers Penniless, published later in 1592. Defending the drama against moralistic attacks, Nashe claims that plays based on ‘our English chronicles’ celebrate ‘our forefathers’ valiant acts’ and set them up as a ‘reproof to these degenerate effeminate days of ours’. By way of illustration he alludes specifically to the exploits of [[Lord Talbot]], the principal English warrior in [[Henry VI]] Part One: ‘How would it have joyed brave Talbot, the terror of the French, to think that after he had lain two hundred years in his tomb he should triumph again on the stage, and have his bones new-embalmed with the [[Tears|tears]] of ten thousand spectators at least, at several times, who in the tragedian that represents his person imagine they behold him fresh bleeding!’ Nashe may have had personal reasons to puff this play: a variety of evidence suggests that Shakespeare wrote it in collaboration with at least two other authors; Nashe himself was probably responsible for Act 1. The passages most confidently attributed to Shakespeare are Act 2, Scene 4 and Act 4, Scene 2 to the [[Death|death]] of Talbot at 4.7.32. A mass of material, some derived from ‘English chronicles’, some invented, is packed into this play. It opens impressively with the funeral of [[Henry V]], celebrated for unifying England and subjugating France; but his nobles are at loggerheads even over his coffin, and news rapidly arrives of serious losses in France. The rivalry displayed here between Humphrey, [[Duke of Gloucester]]—Protector of the infant [[Henry VI]]—and Henry Beaufort, Bishop of Winchester, plays an important part in both this play and The Contention, as does the conflict between [[Richard]], [[Duke of York]], and the houses of Somerset and Suffolk; in the Temple [[Garden]] scene (2.4), invented by Shakespeare, York’s and Somerset’s supporters symbolize their respective loyalties by plucking [[White and Red|white and red]] roses. Their dissension weakens England’s military strength, but she has a great [[Hero|hero]] in [[Lord Talbot]], whose nobility as a warrior is pitted against the treachery of the French, led by [[King]] Charles and [[Joan la Pucelle]] (Joan of Arc), here—following the chronicles—portrayed as a [[Witch|witch]] and a whore. Historical facts are freely manipulated: Joan was burnt in 1431, though the play’s authors have her take part in a battle of 1451 in which Talbot’s [[Death|death]] is brought forward by two years. The play ends with an uneasy peace between England and France. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--06_exchange_the_persons_of_the_play" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [6]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY The English |
+| [[King|KING]] | [[Henry VI]] [[Duke of Gloucester|Duke of GLOUCESTER]], Lord Protector, uncle of [[King]] Henry Duke of BEDFORD, Regent of France [[Duke of Exeter|Duke of EXETER]] Bishop of WINCHESTER (later Cardinal), uncle of [[King]] Henry Duke of SOMERSET |
+| [[Richard|RICHARD]] | PLANTAGENET, later [[Duke of York|DUKE OF YORK]], and Regent of France [[Earl of Warwick|Earl of WARWICK]] [[Earl of Salisbury|Earl of SALISBURY]] [[Earl of Suffolk|Earl of SUFFOLK]] [[Lord Talbot|Lord TALBOT]] |
+| JOHN | Talbot [[Edmund]] MORTIMER Sir William GLASDALE Sir Thomas GARGRAVE Sir John FASTOLF Sir William LUCY WOODVILLE, Lieutenant of the Tower of [[London]] |
+| MAYOR | of [[London]] |
+| *(didascalia)* | A |
+| *(didascalia)* | A |
+| LEGATE | Messengers, warders and keepers of the Tower of [[London]], servingmen, officers, captains, soldiers, herald, watch The French CHARLES, [[Dauphin]] of France RENÉ, Duke of Anjou, [[King]] of Naples MARGARET, his daughter Duke of ALENÇON |
+| BASTARD | of Orléans Duke of BURGUNDY, uncle of [[King]] Henry |
+| GENERAL | of the French garrison at Bordeaux |
+| COUNTESS | of Auvergne |
+| MASTER GUNNER | of Orléans A BOY, his son |
+| JOAN | la Pucelle A SHEPHERD, father of Joan Porter, French sergeant, French sentinels, French scout, French herald, the Governor of [[Paris]], fiends, and soldiers |
+
+
 
 
 <span class="atom-split" data-atom="richard_duke_of_york_3_henry_vi" data-title="RICHARD DUKE OF YORK - (3 HENRY VI)" data-chapter="" data-kind="intro"></span>
@@ -1256,991 +2241,6 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 | COUNTESS | of Auvergne |
 | MASTER GUNNER | of Orléans<br>A BOY, his son |
 | JOAN | la Pucelle<br>A SHEPHERD, father of Joan<br>Porter, French sergeant, French sentinels, French scout, French herald, the Governor of [[Paris]], fiends, and soldiers |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A chair of state. Alarum. Enter [[Richard]] Plantagenet, [[Duke of York]], his two sons Edward, Earl of March, and Crookback [[Richard]], the Duke of Norfolk, the Marquis of Montague, and the [[Earl of Warwick]], with drummers and soldiers. They all wear white roses in their hats |
-| WARWICK | I [[Wonder|wonder]] how the [[King]] escaped our hands? |
-| YORK | While we pursued the horsemen of the north, He slyly stole away and left his men; Whereat the great lord of Northumberland, Whose warlike ears could never brook retreat, Cheered up the drooping army; and himself, Lord [[Clifford]], and Lord Stafford, all abreast, Charged our main battle’s front, and, breaking in, Were by the swords of common soldiers slain. |
-| EDWARD | Lord Stafford’s father, [[Duke of Buckingham]], Is either slain or wounded dangerous. I cleft his beaver with a downright blow. That this is true, father, behold his [[Blood|blood]]. He shows a bloody [[Sword|sword]] |
-| MONTAGUE | to York And, brother, here’s the Earl of Wiltshire’s [[Blood|blood]], He shows a bloody [[Sword|sword]] Whom I encountered as the battles joined. |
-| [[Richard|RICHARD]] | (to Somerset’s head, which he shows) Speak thou for me, and tell them what I did. |
-| YORK | [[Richard]] hath best deserved of all my sons. (To the head) But is your grace dead, my lord of Somerset? |
-| NORFOLK | Such hap have all the line of [[John of Gaunt]]. |
-| [[Richard|RICHARD]] | Thus do I [[Hope|hope]] to shake [[King]] Henry’s head. He holds aloft the head, then throws it down |
-| WARWICK | And so do I, victorious prince of York. Before I see thee seated in that throne Which now the [[house]] of Lancaster usurps, I vow by heaven these eyes shall never close. This is the palace of the fearful [[King]], And this (pointing to the chair of state), the regal seat—possess it, York, For this is thine, and not [[King]] Henry’s heirs’. |
-| YORK | Assist me then, sweet Warwick, and I will, For hither we have broken in by force. |
-| NORFOLK | We’ll all assist you—he that flies shall die. |
-| YORK | Thanks, gentle Norfolk. Stay by me, my lords And soidiers—stay, and lodge by me this [[Night|night]]. They go up upon the state |
-| WARWICK | And when the [[King]] comes, offer him no violence Unless he seek to thrust you out perforce. The soldiers withdraw |
-| YORK | The [[Queen]] this day here holds her Parliament, But little thinks we shall be of her council; By words or blows here let us win our right. |
-| [[Richard|RICHARD]] | Armed as we are, let’s stay within this [[house]]. |
-| WARWICK | ‘The Bloody Parliament’ shall this be called, Unless Plantagenet, [[Duke of York]], be [[King|king]], And bashful Henry deposed, whose cowardice Hath made us bywords to our enemies. |
-| YORK | Then leave me not, my lords. Be resolute— I mean to take possession of my right. |
-| WARWICK | Neither the [[King]] nor he that loves him best— The proudest he that holds up Lancaster— Dares stir a wing if Warwick shake his [[Bells|bells]]. I’ll plant Plantagenet, root him up who dares. Resolve thee, [[Richard]]—claim the English [[Crown|crown]]. York sits in the chair. Flourish. Enter [[King]] Henry, Lord [[Clifford]], the Earls |
-| WARWICK | of Northumberland and Westmorland, the Duke of |
-| *(didascalia)* | Exeter, and the rest. They all wear red roses in their hats |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_exchange_king_henry" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (KING HENRY) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | My lords, look where the sturdy [[Rebel|rebel]] sits— Even in the chair of state! Belike he means, Backed by the power of Warwick, that false peer, To aspire unto the [[Crown|crown]] and reign as [[King|king]]. [[Earl of Northumberland]], he slew thy father— And thine, Lord [[Clifford]]—and you both have vowed [[Revenge|revenge]] On him, his sons, his favourites, and his friends. |
-| NORTHUMBERLAND | If I be not, heavens be revenged on me. |
-| [[Clifford|CLIFFORD]] | The [[Hope|hope]] thereof makes [[Clifford]] mourn in steel. |
-| WESTMORLAND | What, shall we suffer this? Let’s pluck him down. My heart for anger burns—I cannot brook it. |
-| [[King|KING]] HENRY | Be patient, gentle Earl of Westmorland. |
-| [[Clifford|CLIFFORD]] | Patience is for poltroons, such as he (indicating York). He durst not sit there had your father lived. My gracious lord, here in the Parliament Let us assail the family of York. |
-| NORTHUMBERLAND | [[Well]] hast thou spoken, cousin, be it so. |
-| [[King|KING]] HENRY | Ah, know you not the [[City|city]] favours them, And they have troops of soldiers at their beck? |
-| EXETER | But when the Duke is slain, they’ll quickly fly. |
-| [[King|KING]] HENRY | Far be the thought of this from Henry’s heart, To make a shambles of the Parliament [[house|House]]. Cousin of Exeter, frowns, words, and threats Shall be the war that Henry means to use. (To York) Thou factious [[Duke of York]], descend my throne And kneel for grace and [[Mercy|mercy]] at my feet. I am thy sovereign. |
-| YORK | I am thine. |
-| EXETER | For shame, come down—he made thee [[Duke of York]]. |
-| YORK | It was mine inheritance, as the earldom was. |
-| EXETER | Thy father was a traitor to the [[Crown|crown]]. |
-| WARWICK | Exeter, thou art a traitor to the [[Crown|crown]] In following this usurping Henry. |
-| [[Clifford|CLIFFORD]] | Whom should he follow but his natural [[King|king]]? |
-| WARWICK | True, [[Clifford]], and that’s [[Richard]] [[Duke of York]]. |
-| [[King|KING]] HENRY | (to York) And shall I stand and thou sit in my throne? |
-| YORK | It must and shall be so—content thyself. |
-| WARWICK | (to [[King]] Henry) Be Duke of Lancaster, let him be [[King|king]]. |
-| WESTMORLAND | He is both [[King|king]] and Duke of Lancaster— And that, the Lord of Westmorland shall maintain. |
-| WARWICK | And Warwick shall disprove it. You forget That we are those which chased you from the field, And slew your fathers, and, with colours spread, Marched through the [[City|city]] to the palace gates. |
-| NORTHUMBERLAND | Yes, Warwick, I remember it to my grief, And, by his [[Soul|soul]], thou and thy [[house]] shall rue it. |
-| WESTMORLAND | (to York) Plantagenet, of thee, and these thy sons, Thy kinsmen, and thy friends, I’ll have more lives Than drops of [[Blood|blood]] were in my father’s veins. |
-| [[Clifford|CLIFFORD]] | (to Warwick) Urge it no more, lest that, instead of words, I send thee, Warwick, such a messenger As shall [[Revenge|revenge]] his [[Death|death]] before I stir. |
-| WARWICK | to York Poor [[Clifford]], how I scorn his worthless threats. |
-| YORK | to [[King]] Henry Will you we show our title to the [[Crown|crown]]? If not, our swords shall plead it in the field. |
-| [[King|KING]] HENRY | What title hast thou, traitor, to the [[Crown|crown]]? Thy father was, as thou art, [[Duke of York]]; Thy grandfather, Roger Mortimer, Earl of March. I am the son of Henry the Fifth, Who made the [[Dauphin]] and the French to stoop And seized upon their towns and provinces. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_exchange_warwick" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (WARWICK) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WARWICK | Talk not of France, sith thou hast lost it all. |
-| [[King|KING]] HENRY | The Lord Protector lost it, and not I. When I was crowned, I was but nine months old. |
-| [[Richard|RICHARD]] | You are old enough now, and yet, methinks, you lose. (To York) Father, tear the [[Crown|crown]] from the [[Usurper|usurper]]’s head. |
-| EDWARD | (to York) Sweet father, do so—set it on your head. |
-| MONTAGUE | (to York) Good brother, as thou lov‘st and [[Honour|honour]]’st arms, Let’s fight it out and not stand cavilling thus. |
-| [[Richard|RICHARD]] | Sound drums and trumpets, and the [[King]] will fly. |
-| YORK | Sons, peace! NORTHUMBERLAND Peace, thou—and give [[King]] Henry leave to speak. |
-| [[King|KING]] HENRY | Ah, York, why seekest thou to depose me? Are we not both Plantagenets by birth, And from two brothers lineally descent? Suppose by right and equity thou be [[King|king]]— Think’st thou that I will leave my kingly throne, Wherein my grandsire and my father sat? No—first shall war unpeople this my realm; Ay, and their colours, often borne in France, And now in England to our heart’s great sorrow, Shall be my winding-sheet. Why faint you, lords? My title’s good, and better far than his. |
-| WARWICK | Prove it, Henry, and thou shalt be [[King|king]]. |
-| [[King|KING]] HENRY | Henry the Fourth by conquest got the [[Crown|crown]]. |
-| YORK | ’Twas by rebellion against his [[King|king]]. |
-| [[King|KING]] HENRY | aside I know not what to say—my title’s weak. (To York) Tell me, may not a [[King|king]] adopt an heir? |
-| YORK | What then? |
-| [[King|KING]] HENRY | An if he may, then am I lawful [[King|king]]— For [[Richard]], in the view of many lords, Resigned the [[Crown|crown]] to Henry the Fourth, Whose heir my father was, and I am his. |
-| YORK | He [[Rose|rose]] against him, being his sovereign, And made him to resign his [[Crown|crown]] perforce. |
-| WARWICK | Suppose, my lords, he did it unconstrained— Think you ’twere prejudicial to his [[Crown|crown]]? |
-| EXETER | No, for he could not so resign his [[Crown|crown]] But that the next heir should succeed and reign. |
-| [[King|KING]] HENRY | Art thou against us, [[Duke of Exeter]]? |
-| EXETER | His is the right, and therefore pardon me. |
-| YORK | Why whisper you, my lords, and answer not? |
-| EXETER | to [[King]] Henry My [[Conscience|conscience]] tells me he is lawful [[King|king]]. |
-| [[King|KING]] HENRY | aside All will revolt from me and turn to him. |
-| NORTHUMBERLAND | (to York) Plantagenet, for all the claim thou lay’st, Think not that Henry shall be so deposed. |
-| WARWICK | Deposed he shall be, in despite of all. |
-| NORTHUMBERLAND | Thou art deceived—’tis not thy southern power Of Essex, Norfolk, Suffolk, nor of [[Kent]], Which makes thee thus presumptuous and proud, Can set the Duke up in despite of me. |
-| [[Clifford|CLIFFORD]] | [[King]] Henry, be thy title right or wrong, Lord [[Clifford]] vows to fight in thy defence. May that ground gape and [[Swallow|swallow]] me alive Where I shall kneel to him that slew my father. |
-| [[King|KING]] HENRY | O, [[Clifford]], how thy words revive my heart! |
-| YORK | Henry of Lancaster, resign thy [[Crown|crown]]. What mutter you, or what conspire you, lords? |
-| WARWICK | Do right unto this princely [[Duke of York]], Or I will fill the [[house]] with armed men And over the chair of state, where now he sits, Write up his title with usurping [[Blood|blood]]. He stamps with his foot and the soldiers show |
-| WARWICK | themselves |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_exchange_king_henry" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (KING HENRY) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | My lord of Warwick, hear me but one word— Let me for this my lifetime reign as [[King|king]]. |
-| YORK | Confirm the [[Crown|crown]] to me and to mine heirs, And thou shalt reign in quiet while thou liv’st. |
-| [[King|KING]] HENRY | I am content. [[Richard]] Plantagenet, Enjoy the kingdom after my decease. |
-| [[Clifford|CLIFFORD]] | What wrong is this unto the prince your son? |
-| WARWICK | What good is this to England and himself? |
-| WESTMORLAND | Base, fearful, and despairing Henry. |
-| [[Clifford|CLIFFORD]] | How hast thou injured both thyself and us? |
-| WESTMORLAND | I cannot stay to hear these articles. |
-| NORTHUMBERLAND | Nor I. |
-| [[Clifford|CLIFFORD]] | Come, cousin, let us tell the [[Queen]] these news. |
-| WESTMORLAND | (to [[King]] Henry) Farewell, faint-hearted and degenerate [[King|king]], In whose cold [[Blood|blood]] no spark of [[Honour|honour]] bides. Exit with his soldiers |
-| NORTHUMBERLAND | (to [[King]] Henry) Be thou a prey unto the [[house]] of York, And die in bands for this unmanly deed. Exit with his soldiers |
-| [[Clifford|CLIFFORD]] | (to [[King]] Henry) In dreadful war mayst thou be overcome, Or live in peace, abandoned and despised. Exit with his soldiers |
-| WARWICK | (to [[King]] Henry) Turn this way, Henry, and regard them not. |
-| EXETER | (to [[King]] Henry) They seek [[Revenge|revenge]] and therefore will not yield. |
-| [[King|KING]] HENRY | Ah, Exeter. |
-| WARWICK | Why should you sigh, my lord? |
-| [[King|KING]] HENRY | Not for myself, Lord Warwick, but my son, Whom I unnaturally shall disinherit. But be it as it may. (To York) I here entail The [[Crown|crown]] to thee and to thine heirs for ever, Conditionally, that here thou take thine oath To cease this civil war, and whilst I live To [[Honour|honour]] me as thy [[King|king]] and sovereign, And nor by treason nor hostility To seek to put me down and reign thyself. |
-| YORK | This oath I willingly take and will perform. |
-| WARWICK | Long live [[King]] Henry. (To York) Plantagenet, embrace him. York descends. Henry and York embrace |
-| [[King|KING]] HENRY | (to York) And long live thou, and these thy forward sons. |
-| YORK | Now York and Lancaster are reconciled. |
-| EXETER | Accursed be he that seeks to make them foes. Sennet. Here York’s train comes down from the state |
-| YORK | (to [[King]] Henry) Farewell, my gracious lord, I’ll to my [[Castle|castle]]. Exeunt York, Edward, and [[Richard]], with soldiers |
-| WARWICK | And I’ll keep [[London]] with my soldiers. Exit With soldiers |
-| NORFOLK | And I to Norfolk with my followers. Exit With soldiers |
-| MONTAGUE | And I unto the sea from whence I came. Exit with soldiers |
-| [[King|KING]] HENRY | And I with grief and sorrow to the [[Court|court]]. [[King]] Henry and Exeter turn to leave. Enter [[Queen Margaret]] and Prince Edward |
-| EXETER | Here comes the [[Queen]], whose looks bewray her anger. I’ll steal away. |
-| [[King|KING]] HENRY | Exeter, so will I. |
-| [[Queen Margaret|QUEEN MARGARET]] | Nay, go not from me—I will follow thee. |
-| [[King|KING]] HENRY | Be patient, gentle [[Queen]], and I will stay. |
-| [[Queen Margaret|QUEEN MARGARET]] | Who can be patient in such extremes? Ah, wretched man, would I had died a maid And never seen thee, never borne thee son, Seeing thou hast proved so unnatural a father. Hath he deserved to lose his birthright thus? Hadst thou but loved him half so [[Well|well]] as I, Or felt that [[Pain|pain]] which I did for him once, Or nourished him as I did with my [[Blood|blood]], Thou wouldst have left thy dearest heart-[[Blood|blood]] there Rather than have made that savage Duke thine heir And disinherited thine only son. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--05_exchange_prince_edward" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (PRINCE EDWARD) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PRINCE EDWARD | Father, you cannot disinherit me. If you be [[King|king]], why should not I succeed? |
-| [[King|KING]] HENRY | Pardon me, Margaret; pardon me, sweet son— The [[Earl of Warwick]] and the Duke enforced me. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--06_monologue_queen_margaret" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — monologue (QUEEN MARGARET) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Margaret|QUEEN MARGARET]] | Enforced thee? Art thou [[King|king]], and wilt be forced? I shame to hear thee speak! Ah, timorous wretch, Thou hast undone thyself, thy son, and me, And giv’n unto the [[house]] of York such head As thou shalt reign but by their sufferance. To entail him and his heirs unto the [[Crown|crown]]— What is it, but to make thy sepulchre And creep into it far before thy [[Time|time]]? Warwick is Chancellor and the Lord of Calais; Stern Falconbridge commands the narrow seas; The Duke is made Protector of the Realm; And yet shalt thou be safe? Such safety finds The trembling [[Lamb|lamb]] environèd with wolves. Had I been there, which am a seely woman, The soldiers should have tossed me on their pikes Before I would have granted to that act. But thou preferr’st thy life before thine [[Honour|honour]]. And seeing thou dost, I here [[divorce]] myself Both from thy table, Henry, and thy bed, Until that act of Parliament be repealed Whereby my son is disinherited. The northern lords that have forsworn thy colours Will follow mine, if once they see them spread— And spread they shall be, to thy foul disgrace And the utter ruin of the [[house]] of York. Thus do I leave thee. (To Prince Edward) Come, son, let’s away. Our army is ready—come, we’ll after them. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--07_exchange_king_henry" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (KING HENRY) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | Stay, gentle Margaret, and hear me speak. |
-| [[Queen Margaret|QUEEN MARGARET]] | Thou hast spoke too much already. To Prince Edward Get thee gone. |
-| [[King|KING]] HENRY | Gentle son Edward, thou wilt stay with me? |
-| [[Queen Margaret|QUEEN MARGARET]] | Ay, to be murdered by his enemies. |
-| PRINCE EDWARD | (to [[King]] Henry) When I return with victory from the field, I’ll see your grace. Till then, I’ll follow her. |
-| [[Queen Margaret|QUEEN MARGARET]] | Come, son, away—we may not linger thus. Exit with Prince Edward |
-| [[King|KING]] HENRY | Poor [[Queen]], how [[Love|love]] to me and to her son Hath made her break out into terms of rage. Revenged may she be on that hateful Duke, Whose haughty spirit, winged with [[Desire|desire]], Will coast my [[Crown|crown]], and, like an empty eagle, Tire on the flesh of me and of my son. The loss of those three lords torments my heart. I’ll write unto them and entreat them fair. Come, cousin, you shall be the messenger. |
-| EXETER | And I, I [[Hope|hope]], shall reconcile them all. Flourish. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--01_monologue_speech" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — monologue (speech) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Alarum. Enter [[Richard]] [[Duke of York]] |
-| YORK | The army of the [[Queen]] hath got the field; My uncles both are slain in rescuing me; And all my followers to the eager foe Turn back, and fly like ships before the [[Wind|wind]], Or lambs pursued by hunger-starved wolves. My sons—God knows what hath bechancèd them. But this I know—they have demeaned themselves Like men born to renown by life or [[Death|death]]. Three times did [[Richard]] make a lane to me, And thrice cried, ‘[[Courage]], father, fight it out!’ And full as oft came Edward to my side, With purple falchion painted to the hilt In [[Blood|blood]] of those that had encountered him. And when the hardiest warriors did retire, [[Richard]] cried, ‘Charge and give no foot of ground!’ And cried ‘A [[Crown|crown]] or else a glorious tomb! A sceptre or an earthly sepulchre!’ With this, we charged again—but out, alas— We bodged again, as I have seen a swan With bootless labour swim against the tide And spend her strength with over-matching waves. A short alarum within Ah, hark—the fatal followers do pursue, And I am faint and cannot fly their fury; And were I strong, I would not shun their fury. The sands are numbered that makes up my life. Here must I stay, and here my life must end. Enter [[Queen Margaret]], Lord [[Clifford]], the Earl of |
-| YORK | Northumberland, and the young Prince Edward, |
-| YORK | with soldiers |
-| YORK | Come bloody [[Clifford]], rough Northumberland— I dare your quenchless fury to more rage! I am your butt, and I abide your shot. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--02_exchange_northumberland" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — exchange (NORTHUMBERLAND) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| NORTHUMBERLAND | Yield to our [[Mercy|mercy]], proud Plantagenet. |
-| [[Clifford|CLIFFORD]] | Ay, to such [[Mercy|mercy]] as his ruthless arm, With downright payment, showed unto my father. Now Phaeton hath tumbled from his car, And made an evening at the noontide prick. |
-| YORK | My ashes, as the phoenix, may bring forth A bird that will [[Revenge|revenge]] upon you all, And in that [[Hope|hope]] I throw mine eyes to heaven, Scorning whate’er you can afflict me with. Why come you not? What—multitudes, and [[Fear|fear]]? |
-| [[Clifford|CLIFFORD]] | So cowards fight when they can fly no further; So doves do peck the falcon’s piercing talons; So desperate thieves, all hopeless of their lives, Breathe out invectives ’gainst the officers. |
-| YORK | O, [[Clifford]], but bethink thee once again, And in thy thought o’errun my former [[Time|time]], And, if thou canst for blushing, view this face And bite thy tongue, that slanders him with cowardice Whose frown hath made thee faint and fly ere this. |
-| [[Clifford|CLIFFORD]] | I will not bandy with thee word for word, But buckle with thee blows twice two for one. He draws his [[Sword|sword]] |
-| [[Queen Margaret|QUEEN MARGARET]] | Hold, valiant [[Clifford]]: for a thousand causes I would prolong a while the traitor’s life. Wrath makes him deaf—speak thou, Northumberland. |
-| NORTHUMBERLAND | Hold, [[Clifford]]—do not [[Honour|honour]] him so much To prick thy finger though to wound his heart. What valour were it when a cur doth grin For one to thrust his hand between his teeth When he might spurn him with his foot away? It is war’s prize to take all vantages, And ten to one is no impeach of valour. They fight and take York |
-| [[Clifford|CLIFFORD]] | Ay, ay, so strives the woodcock with the gin. |
-| NORTHUMBERLAND | So doth the cony struggle in the net. |
-| YORK | So triumph thieves upon their conquered booty, So true men yield, with robbers so o’ermatched. |
-| NORTHUMBERLAND | (to the [[Queen]]) What would your grace have done unto him now? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--03_monologue_queen_margaret" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — monologue (QUEEN MARGARET) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Margaret|QUEEN MARGARET]] | Brave warriors, [[Clifford]] and Northumberland, Come make him stand upon this molehill here, That wrought at [[Mountains|mountains]] with outstretched arms Yet parted but the [[Shadow|shadow]] with his hand. (To York) What—was it you that would be England’s [[King|king]]? Was’t you that revelled in our Parliament, And made a preachment of your high descent? Where are your mess of sons to back you now? The wanton Edward and the lusty George? And where’s that valiant crookback prodigy, Dickie, your boy, that with his grumbling voice Was wont to cheer his dad in mutinies? Or with the rest where is your darling Rutland? Look, York, I stained this napkin with the [[Blood|blood]] That valiant [[Clifford]] with his rapier’s point Made issue from the bosom of thy boy. And if thine eyes can [[Water|water]] for his [[Death|death]], I give thee this to dry thy cheeks withal. Alas, poor York, but that I hate thee deadly I should lament thy miserable state. I prithee, grieve, to make me merry, York. What—hath thy fiery heart so parched thine entrails That not a tear can fall for Rutland’s [[Death|death]]? Why art thou patient, man? Thou shouldst be mad, And I, to make thee mad, do mock thee thus. Stamp, rave, and fret, that I may sing and [[Dance|dance]]. Thou wouldst be fee’d, I see, to make me sport. York cannot speak unless he wear a [[Crown|crown]]. (To her men) A [[Crown|crown]] for York, and, lords, bow low to him. Hold you his hands whilst I do set it on. She puts a paper [[Crown|crown]] on York’s head Ay, marry, sir, now looks he like a [[King|king]], Ay, this is he that took [[King]] Henry’s chair, And this is he was his adopted heir. But how is it that great Plantagenet Is crowned so soon and broke his solemn oath? As I bethink me, you should not be [[King|king]] Till our [[King]] Henry had shook hands with [[Death|death]]. And will you pale your head in Henry’s glory, And rob his temples of the diadem Now, in his life, against your holy oath? O ’tis a fault too, too, unpardonable. Off with the [[Crown|crown]], She knocks it from his head and with the [[Crown|crown]] his head, And whilst we breathe, take [[Time|time]] to do him dead. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--04_exchange_clifford" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — exchange (CLIFFORD) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Clifford|CLIFFORD]] | That is my office for my father’s sake. |
-| [[Queen Margaret|QUEEN MARGARET]] | Nay, stay—let’s hear the orisons he makes. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--05_monologue_york" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — monologue (YORK) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| YORK | She-wolf of France, but worse than wolves of France, Whose tongue more poisons than the adder’s tooth— How ill-beseeming is it in thy sex To triumph like an Amazonian trull Upon their woes whom fortune captivates! But that thy face is visor-like, unchanging, Made impudent with use of evil deeds, I would [[Essay|essay]], proud [[Queen]], to make thee blush. To tell thee whence thou cam’st, of whom derived, Were shame enough to shame thee—wert thou not shameless. Thy father bears the type of [[King]] of Naples, Of both the Sicils, and Jerusalem— Yet not so wealthy as an English yeoman. Hath that poor monarch taught thee to insult? It needs not, nor it boots thee not, proud [[Queen]], Unless the adage must be verified That beggars mounted run their [[Horse|horse]] to [[Death|death]]. ’Tis [[Beauty|beauty]] that doth oft make women proud— But, God he knows, thy share thereof is small; ‘Tis virtue that doth make them most admired— The contrary doth make thee wondered at; ’Tis [[government]] that makes them seem divine— The want thereof makes thee abominable. Thou art as opposite to every good As the antipodes are unto us, Or as the south to the septentrion. O tiger’s heart wrapped in a woman’s hide! How couldst thou drain the life-[[Blood|blood]] of the [[Child|child]] To bid the father wipe his eyes withal, And yet be seen to bear a woman’s face? Women are soft, mild, pitiful, and flexible— Thou stern, obdurate, flinty, rough, remorseless. Bidd‘st thou me rage? Why, now thou hast thy wish. Wouldst have me weep? Why, now thou hast thy will. For raging [[Wind|wind]] blows up incessant showers, And when the rage allays the rain begins. These [[Tears|tears]] are my sweet Rutland’s obsequies, And every drop cries vengeance for his [[Death|death]] ’Gainst thee, fell [[Clifford]], and thee, false Frenchwoman. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--06_exchange_northumberland" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4 — exchange (NORTHUMBERLAND) [6]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| NORTHUMBERLAND | Beshrew me, but his passions move me so That hardly can I check my eyes from [[Tears|tears]]. |
-| YORK | That face of his the hungry cannibals Would not have touched, would not have stained with [[Blood|blood]]— But you are more inhuman, more inexorable, O, ten times more than tigers of Hyrcania. See, ruthless [[Queen]], a hapless father’s [[Tears|tears]]. This cloth thou dipped‘st in [[Blood|blood]] of my sweet boy, And I with [[Tears|tears]] do wash the [[Blood|blood]] away. Keep thou the napkin and go boast of this, And if thou tell’st the heavy story right, Upon my [[Soul|soul]] the hearers will shed [[Tears|tears]], Yea, even my foes will shed fast-falling [[Tears|tears]] And say, ‘Alas, it was a piteous deed’. There, take the [[Crown|crown]]—and with the [[Crown|crown]], my curse: And in thy need such comfort come to thee As now I reap at thy too cruel hand. Hard-hearted [[Clifford]], take me from the world. My [[Soul|soul]] to heaven, my [[Blood|blood]] upon your heads. |
-| NORTHUMBERLAND | Had he been slaughter-man to all my kin, I should not, for my life, but weep with him, To see how inly sorrow gripes his [[Soul|soul]]. |
-| [[Queen Margaret|QUEEN MARGARET]] | What—weeping-ripe, my lord Northumberland? Think but upon the wrong he did us all, And that will quickly dry thy melting [[Tears|tears]]. |
-| [[Clifford|CLIFFORD]] | Here’s for my oath, here’s for my father’s [[Death|death]]. He stabs York |
-| [[Queen Margaret|QUEEN MARGARET]] | And here’s to right our gentle-hearted [[King]]. She stabs York |
-| YORK | Open thy gate of [[Mercy|mercy]], gracious God— My [[Soul|soul]] flies through these wounds to seek out thee. He dies |
-| [[Queen Margaret|QUEEN MARGARET]] | Off with his head and set it on York gates, So York may overlook the town of York. Flourish. Exeunt with York’s [[Body|body]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A march. Enter Edward Earl of March and [[Richard]], with a drummer and soldiers |
-| EDWARD | I [[Wonder|wonder]] how our princely father scaped, Or whether he be scaped away or no From [[Clifford]]’s and Northumberland’s pursuit. Had he been ta’en we should have heard the news; Had he been slain we should have heard the news; Or had he scaped, methinks we should have heard The happy tidings of his good escape. How fares my brother? Why is he so sad? |
-| [[Richard|RICHARD]] | I cannot joy until I be resolved Where-our right valiant father is become. I saw him in the battle range about, And watched him how he singled [[Clifford]] forth. Methought he bore him in the thickest troop, As doth a [[Lion|lion]] in a herd of neat; Or as a bear encompassed round with [[dogs]], Who having pinched a few and made them cry, The rest stand all aloof and bark at him. So fared our father with his enemies; So fled his enemies my warlike father. Methinks ’tis prize enough to be his son. Three suns appear in the air See how the morning opes her golden gates And takes her farewell of the glorious sun. How [[Well|well]] resembles it the prime of youth, Trimmed like a younker prancing to his [[Love|love]]! |
-| EDWARD | Dazzle mine eyes, or do I see three suns? |
-| [[Richard|RICHARD]] | Three glorious suns, each one a perfect sun; Not separated with the racking clouds, But severed in a pale clear-shining sky. The three suns begin to join See, see—they join, embrace, and seem to kiss, As if they vowed some league inviolable. Now are they but one lamp, one light, one sun. In this the heaven figures some event. |
-| EDWARD | ’Tis wondrous strange, the like yet never heard of. I think it cites us, brother, to the field, That we, the sons of brave Plantagenet, Each one already blazing by our meeds, Should notwithstanding join our lights together And over-shine the earth as this the world. Whate’er it bodes, henceforward will I bear Upon my target three fair-shining suns. |
-| [[Richard|RICHARD]] | Nay, bear three daughters—by your leave I speak it— You [[Love|love]] the breeder better than the male. Enter one blowing But what art thou whose heavy looks foretell Some dreadful story hanging on thy tongue? |
-| MESSENGER | Ah, one that was a woeful looker-on Whenas the noble [[Duke of York]] was slain— Your princely father and my loving lord. |
-| EDWARD | O, speak no more, for I have heard too much. |
-| [[Richard|RICHARD]] | Say how he died, for I will hear it all. |
-| MESSENGER | Environèd he was with many foes, And stood against them as the [[Hope|hope]] of Troy Against the Greeks that would have entered Troy. But Hercules himself must yield to odds; And many strokes, though with a little axe, Hews down and fells the hardest-timbered oak. By many hands your father was subdued, But only slaughtered by the ireful arm Of unrelenting [[Clifford]] and the [[Queen]], Who crowned the gracious Duke in high despite, Laughed in his face, and when with grief he wept, The ruthless [[Queen]] gave him to dry his cheeks A napkin steeped in the harmless [[Blood|blood]] Of sweet young Rutland, by rough [[Clifford]] slain; And after many scorns, many foul taunts, They took his head, and on the gates of York They set the same; and there it doth remain, The saddest spectacle that e’er I viewed. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--02_exchange_edward" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (EDWARD) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| EDWARD | Sweet [[Duke of York]], our prop to lean upon, Now thou art gone, we have no staff, no stay. O [[Clifford]], boist’rous [[Clifford]]—thou hast slain The flower of Europe for his chivalry, And treacherously hast thou vanquished him— For hand to hand he would have vanquished thee. Now my [[Soul|soul]]’s palace is become a [[Prison|prison]]. Ah, would she break from hence that this my [[Body|body]] Might in the ground be closed up in rest. For never henceforth shall I joy again— Never, O never, shall I see more joy. |
-| [[Richard|RICHARD]] | I cannot weep, for all my [[Body|body]]’s moisture Scarce serves to quench my furnace-burning heart; Nor can my tongue unload my heart’s great burden, For selfsame [[Wind|wind]] that I should speak withal Is kindling coals that fires all my breast, And burns me up with flames that [[Tears|tears]] would quench. To weep is to make less the depth of grief; [[Tears]], then, for babes—blows and [[Revenge|revenge]] for me! [[Richard]], I bear thy name; I’ll venge thy [[Death|death]] Or die renowned by attempting it. |
-| EDWARD | His name that valiant Duke hath left with thee, His dukedom and his chair with me is left. |
-| [[Richard|RICHARD]] | Nay, if thou be that princely eagle’s bird, Show thy descent by gazing ‘gainst the sun: For ‘chair and dukedom’, ‘throne and kingdom’ say— Either that is thine or else thou wert not his. March. Enter the [[Earl of Warwick]] and the Marquis of Montague with drummers, an ensign, and soldiers |
-| WARWICK | How now, fair lords? What fare? What news abroad? |
-| [[Richard|RICHARD]] | Great lord of Warwick, if we should recount Our baleful news, and at each word’s deliverance Stab poniards in our flesh till all were told, The words would add more anguish than the wounds. O valiant lord, the [[Duke of York]] is slain. |
-| EDWARD | O Warwick, Warwick! That Plantagenet, Which held thee dearly as his [[Soul|soul]]’s redemption, Is by the stern Lord [[Clifford]] done to [[Death|death]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--03_monologue_warwick" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — monologue (WARWICK) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WARWICK | Ten days ago I drowned these news in [[Tears|tears]]. And now, to add more measure to your woes, I come to tell you things sith then befall’n. After the bloody fray at Wakefield fought, Where your brave father breathed his latest gasp, Tidings, as swiftly as the posts could run, Were brought me of your loss and his depart. I then in [[London]], keeper of the [[King]], Mustered my soldiers, gathered flocks of friends, And, very [[Well|well]] appointed as I thought, Marched toward Saint Albans to intercept the [[Queen]], Bearing the [[King]] in my behalf along— For by my scouts I was advertised That she was coming with a full intent To dash our late decree in Parliament Touching [[King]] Henry’s oath and your succession. Short tale to make, we at Saint Albans met, Our battles joined, and both sides fiercely fought; But whether ‘twas the coldness of the [[King]], Who looked full gently on his warlike [[Queen|queen]], That robbed my soldiers of their heated spleen, Or whether ’twas report of her [[success]], Or more than common [[Fear|fear]] of [[Clifford]]’s rigour— Who thunders to his captains [[Blood|blood]] and [[Death|death]]— I cannot judge; but, to conclude with [[Truth|truth]], Their weapons like to [[Lightning|lightning]] came and went; Our soldiers’, like the [[Night|night]]-owl’s lazy flight, Or like an idle thresher with a flail, Fell gently down, as if they struck their friends. I cheered them up with justice of our cause, With promise of high pay, and great rewards. But all in vain. They had no heart to fight, And we in them no [[Hope|hope]] to win the day. So that we fled—the [[King]] unto the [[Queen]], Lord George your brother, Norfolk, and myself In haste, post-haste, are come to join with you. For in the Marches here we heard you were, Making another head to fight again. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--04_exchange_edward" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (EDWARD) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| EDWARD | Where is the Duke of Norfolk, gentle Warwick? And when came George from Burgundy to England? |
-| WARWICK | Some six miles off the Duke is with his soldiers; And for your brother—he was lately sent From your kind aunt, Duchess of Burgundy, With aid of soldiers to this needful war. |
-| [[Richard|RICHARD]] | ‘Twas odd belike when valiant Warwick fled. Oft have I heard his praises in pursuit, But ne’er till now his scandal of retire. |
-| WARWICK | Nor now my scandal, [[Richard]], dost thou hear— For thou shalt know this strong right hand of mine Can pluck the diadem from faint Henry’s head And wring the aweful sceptre from his fist, Were he as famous and as bold in war As he is famed for mildness, peace, and [[Prayer|prayer]]. |
-| [[Richard|RICHARD]] | I know it [[Well|well]], Lord Warwick—blame me not. ‘Tis [[Love|love]] I bear thy glories make me speak. But in this troublous [[Time|time]] what’s to be done? Shall we go throw away our coats of steel, And wrap our bodies in black mourning gowns, Numb’ring our Ave-Maries with our beads? Or shall we on the helmets of our foes Tell our devotion with revengeful arms? If for the last, say ‘ay’, and to it, lords. |
-| WARWICK | Why, therefore Warwick came to seek you out, And therefore comes my brother Montague. Attend me, lords. The proud insulting [[Queen]], With [[Clifford]] and the haught Northumberland, And of their feather many more proud [[Birds|birds]], Have wrought the easy-melting [[King]] like wax. (To Edward) He swore consent to your succession, His oath enrolled in the Parliament. And now to [[London]] all the crew are gone, To frustrate both his oath and what beside May make against the [[house]] of Lancaster. Their power, I think, is thirty thousand strong. Now, if the help of Norfolk and myself, With all the friends that thou, brave Earl of March, Amongst the loving Welshmen canst procure, Will but amount to five-and-twenty thousand, Why, via, to [[London]] will we march, And once again bestride our foaming steeds, And once again cry ‘Charge upon. our foes— But never once again turn back and fly. |
-| [[Richard|RICHARD]] | Ay, now methinks I hear great Warwick speak. Ne‘er may he live to see a sunshine day That cries ‘retire if Warwick bid him stay. |
-| EDWARD | Lord Warwick, on thy shoulder will I lean, And when thou fail’st—as God forbid the hour— Must Edward fall, which peril heaven forfend I |
-| WARWICK | No longer Earl of March, but [[Duke of York]]; The next degree is England’s royal throne— For [[King]] of England shalt thou be proclaimed In every borough as we pass along, And he that throws not up his cap for joy, Shall for the fault make forfeit of his head. [[King]] Edward, valiant [[Richard]], Montague— Stay we no longer dreaming of renown, But sound the trumpets and about our task. |
-| [[Richard|RICHARD]] | Then, [[Clifford]], were thy heart as hard as steel, As thou hast shown it flinty by thy deeds, I come to pierce it or to give thee mine. |
-| EDWARD | Then strike up drums—God and Saint George for us! Enter a Messenger |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--05_exchange_warwick" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (WARWICK) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WARWICK | How now? What news? |
-| MESSENGER | The Duke of Norfolk sends you word by me The [[Queen]] is coming with a puissant host, And craves your company for speedy counsel. |
-| WARWICK | Why then it sorts. Brave warriors, let’s away. March. Exeunt |
-| *(didascalia)* | 2.2 York’s head is thrust out, above Flourish. Enter [[King]] Henry, [[Queen Margaret]], Lord [[Clifford]], the [[Earl of Northumberland]], and young Prince Edward, with a drummer and trumpeters |
-| [[Queen Margaret|QUEEN MARGARET]] | Welcome, my lord, to this brave town of York. Yonder’s the head of that arch-enemy That sought to be encompassed with your [[Crown|crown]]. Doth not the object cheer your heart, my lord? |
-| [[King|KING]] HENRY | Ay, as the rocks cheer them that [[Fear|fear]] their wreck. To see this sight, it irks my very [[Soul|soul]]. Withhold [[Revenge|revenge]], dear God—’tis not my fault, Nor wittingly have I infringed my vow. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--06_monologue_clifford" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — monologue (CLIFFORD) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Clifford|CLIFFORD]] | My gracious liege, this too much lenity And harmful pity must be laid aside. To whom do lions cast their gentle looks? Not to the beast that would usurp their den. Whose hand is that the forest bear doth lick? Not his that spoils her young before her face. Who scapes the lurking serpent’s mortal sting? Not he that sets his foot upon her back. The smallest worm will turn, being trodden on, And doves will peck in safeguard of their brood. Ambitious York did level at thy [[Crown|crown]], Thou smiling while he knit his angry brows. He, but a duke, would have his son a [[King|king]], And raise his issue like a loving sire; Thou, being a [[King|king]], blest with a goodly son, Didst yield consent to disinherit him, Which argued thee a most unloving father. Unreasonable creatures feed their young, And though man’s face be fearful to their eyes, Yet, in protection of their tender ones, Who hath not seen them, even with those wings Which sometime they have used with fearful flight, Make war with him that climbed unto their nest, Offering their own lives in their young’s defence? For shame, my liege, make them your precedent! Were it not pity that this goodly boy Should lose his birthright by his father’s fault, And long hereafter say unto his [[Child|child]] ‘What my great-grandfather and grandsire got My careless father fondly gave away’? Ah, what a shame were this! Look on the boy, And let his manly face, which promiseth Successful fortune, steel thy melting heart To hold thine own and leave thine own with him. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--07_exchange_king_henry" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (KING HENRY) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | Full [[Well|well]] hath [[Clifford]] played the orator, Inferring arguments of mighty force. But, [[Clifford]], tell me—didst thou never hear That things ill got had ever bad [[success]]? And happy always was it for that son Whose father for his hoarding went to hell? I’ll leave my son my virtuous deeds behind, And would my father had left me no more. For all the rest is held at such a rate As brings a thousandfold more care to keep Than in possession any jot of pleasure. Ah, cousin York, would thy best friends did know How it doth grieve me that thy head is here. |
-| [[Queen Margaret|QUEEN MARGARET]] | My lord, cheer up your spirits—our foes are nigh, And this soft [[Courage|courage]] makes your followers faint. You promised knighthood to our forward son. Unsheathe your [[Sword|sword]] and dub him presently. Edward, kneel down. Prince Edward kneels |
-| [[King|KING]] HENRY | Edward Plantagenet, arise a knight— And learn this lesson: draw thy [[Sword|sword]] in right. |
-| PRINCE EDWARD | (rising) My gracious father, by your kingly leave, I’ll draw it as apparent to the [[Crown|crown]], And in that quarrel use it to the [[Death|death]]. |
-| [[Clifford|CLIFFORD]] | Why, that is spoken like a toward prince. Enter a Messenger |
-| MESSENGER | Royal commanders, be in readiness— For with a band of thirty thousand men Comes Warwick backing of the [[Duke of York]]; And in the towns, as they do march along, Proclaims him [[King|king]], and many fly to him. Darraign your battle, for they are at hand. |
-| [[Clifford|CLIFFORD]] | (to [[King]] Henry) I would your highness would depart the field— The [[Queen]] hath best [[success]] when you are absent. |
-| [[Queen Margaret|QUEEN MARGARET]] | (to [[King]] Henry) Ay, good my lord, and leave us to our fortune. |
-| [[King|KING]] HENRY | Why, that’s my fortune too—therefore I’ll stay. |
-| NORTHUMBERLAND | Be it with resolution then to fight. |
-| PRINCE EDWARD | (to [[King]] Henry) My royal father, cheer these noble lords And hearten those that fight in your defence. Unsheathe your [[Sword|sword]], good father; cry ‘Saint George!’ March. Enter Edward [[Duke of York]], the Earl of |
-| PRINCE EDWARD | Warwick, [[Richard]], George, the Duke of Norfolk, the |
-| PRINCE EDWARD | Marquis of Montague, and soldiers |
-| EDWARD | Now, perjured Henry, wilt thou kneel for grace, And set thy diadem upon my head— Or bide the mortal fortune of the field? |
-| [[Queen Margaret|QUEEN MARGARET]] | Go rate thy minions, proud insulting boy! Becomes it thee to be thus bold in terms Before thy sovereign and thy lawful [[King|king]]? |
-| EDWARD | I am his [[King|king]], and he should bow his knee. I was adopted heir by his consent. |
-| GEORGE | (to [[Queen Margaret]]) Since when his oath is broke—for, as I hear, You that are [[King|king]], though he do wear the [[Crown|crown]], Have caused him by new act of Parliament To blot our brother out, and put his own son in. |
-| [[Clifford|CLIFFORD]] | And reason too— Who should succeed the father but the son? |
-| [[Richard|RICHARD]] | Are you there, butcher? O, I cannot speak! |
-| [[Clifford|CLIFFORD]] | Ay, crookback, here I stand to answer thee, Or any he the proudest of thy sort. |
-| [[Richard|RICHARD]] | ’Twas you that killed young Rutland, was it not? |
-| [[Clifford|CLIFFORD]] | Ay, and old York, and yet not satisfied. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--08_exchange_richard" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (RICHARD) [8]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] | For God’s sake, lords, give signal to the fight. |
-| WARWICK | What sayst thou, Henry, wilt thou yield the [[Crown|crown]]? |
-| [[Queen Margaret|QUEEN MARGARET]] | Why, how now, long-tongued Warwick, dare you speak? When you and I met at Saint Albans last, Your legs did better service than your hands. |
-| WARWICK | Then ‘twas my turn to fly—and now ‘tis thine. |
-| [[Clifford|CLIFFORD]] | You said so much before, and yet you fled. |
-| WARWICK | ’Twas not your valour, [[Clifford]], drove me thence. |
-| NORTHUMBERLAND | No, nor your manhood that durst make you stay. |
-| [[Richard|RICHARD]] | Northumberland, I hold thee reverently. Break off the parley, for scarce I can refrain The execution of my big-swoll’n heart Upon that [[Clifford]], that cruel [[Child|child]]-killer. |
-| [[Clifford|CLIFFORD]] | I slew thy father—call’st thou him a [[Child|child]]? |
-| [[Richard|RICHARD]] | Ay, like a dastard and a treacherous coward, As thou didst kill our tender brother Rutland. But ere sun set I’ll make thee curse the deed. |
-| [[King|KING]] HENRY | Have done with words, my lords, and hear me speak. |
-| [[Queen Margaret|QUEEN MARGARET]] | Defy them, then, or else hold close thy lips. |
-| [[King|KING]] HENRY | I prithee give no limits to my tongue— I am a [[King|king]], and privileged to speak. |
-| [[Clifford|CLIFFORD]] | My liege, the wound that bred this meeting here Cannot be cured by words—therefore be still. |
-| [[Richard|RICHARD]] | Then, executioner, unsheathe thy [[Sword|sword]]. By him that made us all, I am resolved That [[Clifford]]’s manhood lies upon his tongue. |
-| EDWARD | Say, Henry, shall I have my right or no? A thousand men have broke their fasts today That ne’er shall dine unless thou yield the [[Crown|crown]]. |
-| WARWICK | (to [[King]] Henry) If thou deny, their [[Blood|blood]] upon thy head; For York in justice puts his armour on. |
-| PRINCE EDWARD | If that be right which Warwick says is right, There is no wrong, but everything is right. |
-| [[Richard|RICHARD]] | Whoever got thee, there thy mother stands— For, [[Well|well]] I wot, thou hast thy mother’s tongue. |
-| [[Queen Margaret|QUEEN MARGARET]] | But thou art neither like thy sire nor dam, But like a foul misshapen stigmatic, Marked by the destinies to be avoided, As venom toads or lizards’ dreadful stings. |
-| [[Richard|RICHARD]] | Iron of Naples, hid with English gilt, Whose father bears the title of a [[King|king]]— As if a channel should be called the sea— Sham’st thou not, knowing whence thou art extraught, To let thy tongue detect thy base-born heart? |
-| EDWARD | A wisp of straw were worth a thousand crowns To make this shameless callet know herself. [[Helen]] of Greece was fairer far than thou, Although thy husband may be Menelaus; And ne’er was [[Agamemnon]]’s brother wronged By that false woman, as this [[King|king]] by thee. His father revelled in the heart of France, And tamed the [[King]], and made the [[Dauphin]] stoop; And had he matched according to his state, He might have kept that glory to this day. But when he took a beggar to his bed, And graced thy poor sire with his bridal day, Even then that sunshine brewed a shower for him That washed his father’s fortunes forth of France, And heaped sedition on his [[Crown|crown]] at [[Home|home]]. For what hath broached this tumult but thy [[Pride|pride]]? Hadst thou been meek, our title still had slept, And we, in pity of the gentle [[King]], Had slipped our claim until another age. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--09_exchange_george" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1 — exchange (GEORGE) [9]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| GEORGE | (to [[Queen Margaret]]) But when we saw our sunshine made thy [[spring]], And that thy [[Summer|summer]] bred us no increase, We set the axe to thy usurping root. And though the edge hath something hit ourselves, Yet know thou, since we have begun to strike, We’ll never leave till we have hewn thee down, Or bathed thy growing with our heated bloods. |
-| EDWARD | (to [[Queen Margaret]]) And in this resolution I defy thee, Not willing any longer conference Since thou deniest the gentle [[King]] to speak. Sound trumpets—let our bloody colours wave! And either victory, or else a [[Grave|grave]]! |
-| [[Queen Margaret|QUEEN MARGARET]] | Stay, Edward. |
-| EDWARD | No, wrangling woman, we’ll no longer stay— These words will cost ten thousand lives this day. Flourish. March. Exeunt Edward and his men at one door and [[Queen Margaret]] and her men at another door |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Alarum. Enter [[King]] Henry |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--02_monologue_king_henry" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 5 — monologue (KING HENRY) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | This battle fares like to the morning’s war, When dying clouds contend with growing light, What [[Time|time]] the shepherd, blowing of his nails, Can neither call it perfect day nor [[Night|night]]. Now sways it this way like a mighty sea Forced by the tide to combat with the [[Wind|wind]], Now sways it that way like the selfsame sea Forced to retire by fury of the [[Wind|wind]]. Sometime the flood prevails, and then the [[Wind|wind]]; Now one the better, then another best— Both tugging to be victors, breast to breast, Yet neither conqueror nor conquered. So is the equal poise of this fell war. Here on this molehill will I sit me down. To whom God will, there be the victory. For Margaret my [[Queen|queen]], and [[Clifford]], too, Have chid me from the battle, swearing both They prosper best of all when I am thence. Would I were dead, if God’s good will were so— For what is in this world but grief and woe? O God! Methinks it were a happy life To be no better than a homely swain. To sit upon a [[Hill|hill]], as I do now; To carve out dials quaintly, point by point, Thereby to see the minutes how they run: How many makes the hour full complete, How many hours brings about the day, How many days will finish up the year, How many years a mortal man may live. When this is known, then to divide the times: So many hours must I tend my flock, So many hours must I take my rest, So many hours must I contemplate, So many hours must I sport myself, So many days my ewes have been with young, So many weeks ere the poor fools will ean, So many years ere I shall shear the fleece. So minutes, hours, days, weeks, months, and years, Passed over to the end they were created, Would bring white hairs unto a quiet [[Grave|grave]]. Ah, what a life were this! How sweet! How lovely! Gives not the hawthorn bush a sweeter shade To shepherds looking on their seely sheep Than doth a rich embroidered canopy To kings that [[Fear|fear]] their subjects’ treachery? O yes, it doth—a thousandfold it doth. And to conclude, the shepherd’s homely curds, His cold thin drink out of his leather bottle, His wonted [[Sleep|sleep]] under a fresh tree’s shade, All which secure and sweetly he enjoys, Is far beyond a prince’s delicates, His viands sparkling in a golden cup, His [[Body|body]] couched in a curious bed, When care, mistrust, and treason waits on him. Alarum. Enter at one door a Soldier with a dead man in his arms. [[King]] Henry stands apart |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--03_exchange_soldier" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 5 — exchange (SOLDIER) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SOLDIER | Ill blows the [[Wind|wind]] that profits nobody. This man, whom hand to hand I slew in fight, May be possessed with some store of crowns; And I, that haply take them from him now, May yet ere [[Night|night]] yield both my life and them To some man else, as this dead man doth me. He removes the dead man’s helmet Who’s this? O God! It is my father’s face Whom in this conflict I, unwares, have killed. O, heavy times, begetting such events! From [[London]] by the [[King]] was I pressed forth; My father, being the [[Earl of Warwick]]’s man, Came on the part of York, pressed by his master; And I, who at his hands received my life, Have by my hands of life bereaved him. Pardon me, God, I knew not what I did; And pardon, father, for I knew not thee. My [[Tears|tears]] shall wipe away these bloody marks, And no more words till they have flowed their fill. He weeps |
-| [[King|KING]] HENRY | O piteous spectacle! O bloody times! Whiles lions war and battle for their dens, Poor harmless lambs abide their enmity. Weep, wretched man, I’ll aid thee tear for tear; And let our hearts and eyes, like civil war, Be blind with [[Tears|tears]], and break, o’ercharged with grief. Enter at another door another Soldier with a dead man in his arms |
-| SECOND SOLDIER | Thou that so stoutly hath resisted me, Give me thy gold, if thou hast any gold— For I have bought it with an hundred blows. He removes the dead man’s helmet But let me see: is this our foeman’s face? Ah, no, no, no—it is mine only son! Ah, boy, if any life be left in thee, Throw up thine eye! (Weeping) See, see, what showers arise, Blown with the windy tempest of my heart, Upon thy wounds, that kills mine eye and heart! O, pity, God, this miserable age! What stratagems, how fell, how butcherly, Erroneous, mutinous, and unnatural, This deadly quarrel daily doth beget! O boy, thy father gave thee life too soon, And hath bereft thee of thy life too late! |
-| [[King|KING]] HENRY | Woe above woe! Grief more than common grief! O that my [[Death|death]] would stay these ruthful deeds! O, pity, pity, gentle heaven, pity! The red [[Rose|rose]] and the white are on his face, The fatal colours of our striving houses; The one his purple [[Blood|blood]] right [[Well|well]] resembles, The other his pale cheeks, methinks, presenteth. Wither one [[Rose|rose]], and let the other flourish— If you contend, a thousand lives must wither. |
-| FIRST SOLDIER | How will my mother for a father’s [[Death|death]] Take on with me, and ne’er be satisfied! |
-| SECOND SOLDIER | How will my wife for slaughter of my son Shed seas of [[Tears|tears]], and ne’er be satisfied! |
-| [[King|KING]] HENRY | How will the country for these woeful chances Misthink the [[King]], and not be satisfied! |
-| FIRST SOLDIER | Was ever son so rued a father’s [[Death|death]]? |
-| SECOND SOLDIER | Was ever father so bemoaned his son? |
-| [[King|KING]] HENRY | Was ever [[King|king]] so grieved for subjects’ woe? Much is your sorrow, mine ten times so much. |
-| FIRST SOLDIER | (to his father’s [[Body|body]]) I’ll bear thee hence where I may weep my fill. Exit at one door with the [[Body|body]] of his father |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--04_exchange_second_soldier" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 5 — exchange (SECOND SOLDIER) [4]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SECOND SOLDIER | (to his son’s [[Body|body]]) These arms of mine shall be thy winding sheet; My heart, sweet boy, shall be thy sepulchre, For from my heart thine image ne‘er shall go. My sighing breast shall be thy funeral bell, And so obsequious will thy father be, E’en for the loss of thee, having no more, As Priam was for all his valiant sons. I’ll bear thee hence, and let them fight that will— For I have murdered where I should not kill. Exit at another door with the [[Body|body]] of his son |
-| [[King|KING]] HENRY | Sad-hearted men, much overgone with care, Here sits a [[King|king]] more woeful than you are. Alarums. Excursions. Enter Prince Edward |
-| PRINCE EDWARD | Fly, father, fly—for all your friends are fled, And Warwick rages like a chafed bull! Away—for [[Death|death]] doth hold us in pursuit! Enter [[Queen Margaret]] |
-| [[Queen Margaret|QUEEN MARGARET]] | Mount you, my lord—towards Berwick post amain. Edward and [[Richard]], like a brace of greyhounds Having the fearful flying hare in sight, With fiery eyes sparkling for very wrath, And bloody steel grasped in their ireful hands, Are at our backs—and therefore hence amain. Enter Exeter |
-| EXETER | Away—for vengeance comes along with them! Nay—stay not to expostulate—make [[Speed|speed]]— Or else come after. I’ll away before. |
-| [[King|KING]] HENRY | Nay, take me with thee, good sweet Exeter. Not that I [[Fear|fear]] to stay, but [[Love|love]] to go Whither the [[Queen]] intends. Forward, away. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[King]] Edward, [[Richard]] [[Duke of Gloucester]], George Duke of [[Clarence]], and the Lady Gray |
-| [[King|KING]] EDWARD | Brother of [[Gloucester]], at Saint Albans field This lady’s husband, Sir [[Richard]] Gray, was slain, His lands then seized on by the conqueror. Her suit is now to repossess those lands, Which we in justice cannot [[Well|well]] deny, Because in quarrel of the [[house]] of York The worthy gentleman did lose his life. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Your highness shall do [[Well|well]] to grant her suit— It were dishonour to deny it her. |
-| [[King|KING]] EDWARD | It were no less; but yet I’ll make a pause. |
-| [[Richard|RICHARD]] OF | [[Gloucester|GLOUCESTER]], (aside to George) Yea, is it so? I see the lady hath a thing to grant Before the [[King]] will grant her humble suit. |
-| GEORGE OF [[Clarence|CLARENCE]] | (aside to [[Richard]]) He knows the game; how true he keeps the [[Wind|wind]]! |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside to George) [[Silence]]. |
-| [[King|KING]] EDWARD | (to Lady Gray) Widow, we will consider of your suit; And come some other [[Time|time]] to know our mind. |
-| LADY GRAY | Right gracious lord, I cannot brook delay. May it please your highness to resolve me now, And what your pleasure is shall satisfy me. |
-| [[Richard|RICHARD]] OF | [[Gloucester|GLOUCESTER]], (aside to George) Ay, widow ? Then I’ll warrant you all your lands An if what pleases him shall pleasure you. Fight closer, or, good [[Faith|faith]], you’ll catch a blow. |
-| GEORGE OF [[Clarence|CLARENCE]] | (aside to [[Richard]]) I [[Fear|fear]] her not unless she chance to fall. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside to George) God forbid that! For he’ll take vantages. |
-| [[King|KING]] EDWARD | (to Lady Gray) How many children hast thou, widow ? Tell me. |
-| GEORGE OF [[Clarence|CLARENCE]] | (aside to [[Richard]]) I think he means to beg a [[Child|child]] of her. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside to George) Nay, whip me then—he’ll rather give her two. |
-| LADY GRAY | (to [[King]] Edward) Three, my most gracious lord. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside) You shall have four, an you’ll be ruled by him. |
-| [[King|KING]] EDWARD | (to Lady Gray) ’Twere pity they should lose their father’s lands. |
-| LADY GRAY | Be pitiful, dread lord, and grant it them. |
-| [[King|KING]] EDWARD | (to [[Richard]] and George) Lords, give us leave—I’ll try this widow’s wit. |
-| [[Richard|RICHARD]] OF | [[Gloucester|GLOUCESTER]], aside to George Ay, good leave have you; for you will have leave, Till youth take leave and leave you to the crutch. [[Richard]] and George stand apart |
-| [[King|KING]] EDWARD | (to Lady Gray) Now tell me, madam, do you [[Love|love]] your children? |
-| LADY GRAY | Ay, full as dearly as I [[Love|love]] myself. |
-| [[King|KING]] EDWARD | And would you not do much to do them good? |
-| LADY GRAY | To do them good I would sustain some harm. |
-| [[King|KING]] EDWARD | Then get your husband’s lands, to do them good. |
-| LADY GRAY | Therefore I came unto your majesty. |
-| [[King|KING]] EDWARD | I’ll tell you how these lands are to be got. |
-| LADY GRAY | So shall you bind me to your highness’ service. |
-| [[King|KING]] EDWARD | What service wilt thou do me, if I give them? |
-| LADY GRAY | What you command, that rests in me to do. |
-| [[King|KING]] EDWARD | But you will take exceptions to my boon. |
-| LADY GRAY | No, gracious lord, except I cannot do it. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--02_exchange_king_edward" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (KING EDWARD) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] EDWARD | Ay, but thou canst do what I mean to ask. |
-| LADY GRAY | Why, then, I will do what your grace commands. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to George) He plies her hard, and much rain wears the marble. |
-| GEORGE OF [[Clarence|CLARENCE]] | As red as [[Fire|fire]]! Nay, then her wax must melt. |
-| LADY GRAY | (to [[King]] Edward) Why stops my lord? Shall I not hear my task? |
-| [[King|KING]] EDWARD | An easy task—’tis but to [[Love|love]] a [[King|king]]. |
-| LADY GRAY | That’s soon performed, because I am a subject. |
-| [[King|KING]] EDWARD | Why, then, thy husband’s lands I freely give thee. 55 |
-| LADY GRAY | (curtsies) I take my leave, with many thousand thanks. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to George) The match is made—she seals it with a curtsy. |
-| [[King|KING]] EDWARD | (to Lady Gray) But stay thee—’tis the fruits of [[Love|love]] I mean. |
-| LADY GRAY | The fruits of [[Love|love]] I mean, my loving liege. |
-| [[King|KING]] EDWARD | Ay, but I [[Fear|fear]] me in another sense. What [[Love|love]] think’st thou I sue so much to get? |
-| LADY GRAY | My [[Love|love]] till [[Death|death]], my humble thanks, my prayers— That [[Love|love]] which virtue begs and virtue grants. |
-| [[King|KING]] EDWARD | No, by my troth, I did not mean such [[Love|love]]. |
-| LADY GRAY | Why, then, you mean not as I thought you did. |
-| [[King|KING]] EDWARD | But now you partly may perceive my mind. |
-| LADY GRAY | My mind will never grant what I perceive Your highness aims at, if I aim aright. |
-| [[King|KING]] EDWARD | To tell thee plain, I aim to lie with thee. |
-| LADY GRAY | To tell you plain, I had rather lie in [[Prison|prison]]. 70 |
-| [[King|KING]] EDWARD | Why, then, thou shalt not have thy husband’s lands. |
-| LADY GRAY | Why, then, mine honesty shall be my dower; For by that loss I will not purchase them. |
-| [[King|KING]] EDWARD | Therein thou wrong’st thy children mightily. |
-| LADY GRAY | Herein your highness wrongs both them and me. But, mighty lord, this merry inclination Accords not with the sadness of my suit. Please you dismiss me either with ay or no. |
-| [[King|KING]] EDWARD | Ay, if thou wilt say ‘ay’ to my request; No, if thou dost say ‘no’ to my demand. |
-| LADY GRAY | Then, no, my lord—my suit is at an end. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to George) The widow likes him not—she knits her brows. |
-| GEORGE OF [[Clarence|CLARENCE]] | He is the bluntest wooer in Christendom. |
-| [[King|KING]] EDWARD | (aside) Her looks doth argue her replete with modesty; Her words doth show her wit incomparable; All her perfections challenge sovereignty. One way or other, she is for a [[King|king]]; And she shall be my [[Love|love]] or else my [[Queen|queen]]. (To Lady Gray) Say that [[King]] Edward take thee for his [[Queen|queen]]? |
-| LADY GRAY | ’Tis better said than done, my gracious lord. I am a subject fit to jest withal, But far unfit to be a sovereign. |
-| [[King|KING]] EDWARD | Sweet widow, by my state I swear to thee I speak no more than what my [[Soul|soul]] intends, And that is to enjoy thee for my [[Love|love]]. |
-| LADY GRAY | And that is more than I will yield unto. I know I am too mean to be your [[Queen|queen]], And yet too good to be your concubine. |
-| [[King|KING]] EDWARD | You cavil, widow-I did mean my [[Queen|queen]]. |
-| LADY GRAY | ’Twill grieve your grace my sons should call you father. |
-| [[King|KING]] EDWARD | No more than when my daughters call thee mother. Thou art a widow and thou hast some children; And, by God’s mother, I, being but a bachelor, Have other some. Why, ’tis a happy thing To be the father unto many sons. Answer no more, for thou shalt be my [[Queen|queen]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--03_exchange_richard_of_gloucester" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (RICHARD OF GLOUCESTER) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to George) The ghostly father now hath done his shrift. |
-| GEORGE OF [[Clarence|CLARENCE]] | When he was made a shriver, ’twas for shift. |
-| [[King|KING]] EDWARD | (to [[Richard]] and George) Brothers, you muse what chat we two have had. [[Richard]] and George come forward |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | The widow likes it not, for she looks very sad. |
-| [[King|KING]] EDWARD | You’d think it strange if I should marry her. |
-| GEORGE OF [[Clarence|CLARENCE]] | To who, my lord ? |
-| [[King|KING]] EDWARD | Why, [[Clarence]], to myself. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | That would be ten days’ [[Wonder|wonder]] at the least. |
-| GEORGE OF [[Clarence|CLARENCE]] | That’s a day longer than a [[Wonder|wonder]] lasts. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | By so much is the [[Wonder|wonder]] in extremes. |
-| [[King|KING]] EDWARD | [[Well]], jest on, brothers—I can tell you both Her suit is granted for her husband’s lands. Enter a Nobleman |
-| NOBLEMAN | My gracious lord, Henry your foe is taken And brought as prisoner to your palace gate. |
-| [[King|KING]] EDWARD | See that he be conveyed unto the Tower— (To [[Richard]] and George) |
-| *(didascalia)* | And go we, brothers, to the man that took him, To question of his apprehension. (To Lady Gray) Widow, go you along. To [[Richard]] and |
-| *(didascalia)* | George Lords, use her honourably. Exeunt all but [[Richard]] |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--04_monologue_richard_of_gloucester" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — monologue (RICHARD OF GLOUCEST’ER) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] OF GLOUCEST’ER | Ay, Edward will use women honourably. Would he were wasted, marrow, bones, and all, That from his loins no hopeful branch may [[Spring|spring]] To [[Cross|cross]] me from the golden [[Time|time]] I look for. And yet, between my [[Soul|soul]]’s [[Desire|desire]] and me— The lustful Edward’s title burièd— Is [[Clarence]], Henry, and his son young Edward, And all the unlooked-for issue of their bodies, To take their rooms ere I can place myself. A cold premeditation for my purpose. Why, then, I do but dream on sovereignty Like one that stands upon a promontory And spies a far-off shore where he would tread, Wishing his foot were equal with his eye, And chides the sea that sunders him from thence, Saying he’ll lade it dry to have his way— So do I wish the [[Crown|crown]] being so far off, And so I chide the means that keeps me from it, And so I say I’ll cut the causes off, Flattering me with impossibilities. My eye’s too quick, my heart o‘erweens too much, Unless my hand and strength could equal them. [[Well]], say there is no kingdom then for [[Richard]]— What other pleasure can the world afford? I’ll make my heaven in a lady’s lap, And deck my [[Body|body]] in gay ornaments, And ’[[Witch|witch]] sweet ladies with my words and looks. O, miserable thought! And more unlikely Than to accomplish twenty golden crowns. Why, [[Love|love]] forswore me in my mother’s womb, And, for I should not deal in her soft laws, She did corrupt frail [[Nature|nature]] with some bribe To shrink mine arm up like a withered shrub, To make an envious mountain on my back— Where sits deformity to mock my [[Body|body]]— To shape my legs of an unequal size, To disproportion me in every part, Like to a chaos, or an unlicked bear whelp That carries no impression like the dam. And am I then a man to be beloved? O, monstrous fault, to harbour such a thought! Then, since this earth affords no joy to me But to command, to check, to o‘erbear such As are of better person than myself, I’ll make my heaven to dream upon the [[Crown|crown]], And whiles I live, t’account this world but hell, Until my misshaped trunk that bears this head Be round impaled with a glorious [[Crown|crown]]. And yet I know not how to get the [[Crown|crown]], For many lives stand between me and [[Home|home]]. And I—like one lost in a thorny wood, That rends the thorns and is rent with the thorns, Seeking a way and straying from the way, Not knowing how to find the open air, But toiling desperately to find it out— Torment myself to catch the English [[Crown|crown]]. And from that torment I will free myself, Or hew my way out with a bloody axe. Why, I can smile, and murder whiles I smile, And cry ‘Content!’ to that which grieves my heart, And wet my cheeks with artificial [[Tears|tears]], And frame my face to all occasions. I’ll drown more sailors than the [[Mermaid|mermaid]] shall; I’ll slay more gazers than the basilisk; I’ll play the orator as [[Well|well]] as Nestor, Deceive more slyly than [[Ulysses]] could, And, like a Sinon, take another Troy. I can add colours to the chameleon, Change shapes with [[Proteus]] for advantages, And set the murderous Machiavel to school. Can I do this, and cannot get a [[Crown|crown]]? Tut, were it farther off, I’ll pluck it down. Exit |
-| *(didascalia)* | 3.3 Two chairs of state. Flourish. Enter [[King]] Louis of France, his sister the Lady Bona, Lord Bourbon his admiral, Prince Edward, [[Queen Margaret]], and the Earl of [[Oxford]]. Louis goes up upon the state, sits, and riseth up again |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--05_exchange_king_louis" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (KING LOUIS) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] LOUIS | Fair [[Queen]] of England, worthy Margaret, Sit down with us. It ill befits thy state And birth that thou shouldst stand while Louis doth sit. |
-| [[Queen Margaret|QUEEN MARGARET]] | No, mighty [[King of France]], now Margaret Must strike her sail and learn a while to serve Where kings command. I was, I must confess, Great Albion’s [[Queen|queen]] in former golden days, But now mischance hath trod my title down, And with dishonour laid me on the ground, Where I must take like seat unto my fortune And to my humble state conform myself. |
-| [[King|KING]] LOUIS | Why, say, fair [[Queen]], whence springs this deep [[Despair|despair]] ? |
-| [[Queen Margaret|QUEEN MARGARET]] | From such a cause as fills mine eyes with [[Tears|tears]] And stops my tongue, while heart is drowned in cares. |
-| [[King|KING]] LOUIS | Whate’er it be, be thou still like thyself, And sit thee by our side. Seats her by him Yield not thy neck To fortune’s yoke, but let thy dauntless mind Still ride in triumph over all mischance. Be plain, [[Queen Margaret]], and tell thy grief. It shall be eased if France can yield relief. |
-| [[Queen Margaret|QUEEN MARGARET]] | Those gracious words revive my drooping thoughts, And give my tongue-tied sorrows leave to speak. Now, therefore, be it known to noble Louis That Henry, sole possessor of my [[Love|love]], Is of a [[King|king]] become a banished man, And forced to live in Scotland a forlorn, While proud ambitious Edward, [[Duke of York]], Usurps the regal title and the seat Of England’s true-anointed lawful [[King]]. This is the cause that I, poor Margaret, With this my son, Prince Edward, Henry’s heir, Am come to crave thy just and lawful aid. An if thou fail us all our [[Hope|hope]] is done. Scotland hath will to help, but cannot help; Our people and our peers are both misled, Our treasure seized, our soldiers put to flight, And, as thou seest, ourselves in heavy plight. |
-| [[King|KING]] LOUIS | Renowned [[Queen]], with patience calm the [[Storm|storm]], While we bethink a means to break it off. |
-| [[Queen Margaret|QUEEN MARGARET]] | The more we stay, the stronger grows our foe. |
-| [[King|KING]] LOUIS | The more I stay, the more I’ll succour thee. |
-| [[Queen Margaret|QUEEN MARGARET]] | O, but impatience waiteth on true sorrow. Enter the [[Earl of Warwick]] And see where comes the breeder of my sorrow. |
-| [[King|KING]] LOUIS | What’s he approacheth boldly to our presence? |
-| [[Queen Margaret|QUEEN MARGARET]] | Our [[Earl of Warwick]], Edward’s greatest friend. |
-| [[King|KING]] LOUIS | Welcome, brave Warwick. What brings thee to France ? He descends. She ariseth |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) Ay, now begins a second [[Storm|storm]] to rise, For this is he that moves both [[Wind|wind]] and tide. |
-| WARWICK | (to [[King]] Louis) From worthy Edward, [[King]] of Albion, My lord and sovereign, and thy vowed friend, I come in kindness and unfeigned [[Love|love]], First, to do greetings to thy royal person, And then, to crave a league of amity, And lastly, to confirm that amity With nuptial knot, if thou vouchsafe to grant That virtuous Lady Bona, thy fair sister, To England’s [[King]] in lawful [[Marriage|marriage]]. |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) If that go forward, Henry’s [[Hope|hope]] is done. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--06_exchange_warwick" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (WARWICK) [6]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WARWICK | (to Lady Bona) And, gracious madam, in our [[King]]’s behalf I am commanded, with your leave and favour, Humbly to kiss your hand, and with my tongue To tell the passion of my sovereign’s heart, Where fame, late ent‘ring at his heedful ears, Hath placed thy [[Beauty|beauty]]’s image and thy virtue. |
-| [[Queen Margaret|QUEEN MARGARET]] | [[King]] Louis and Lady Bona, hear me speak Before you answer Warwick. His demand Springs not from Edward’s [[Well|well]]-meant honest [[Love|love]], But from deceit, bred by necessity. For how can tyrants safely govern [[Home|home]] Unless abroad they purchase great alliance ? To prove him [[Tyrant|tyrant]] this reason may suffice— That Henry liveth still; but were he dead, Yet here Prince Edward stands, [[King]] Henry’s son. Look, therefore, Louis, that by this league and [[Marriage|marriage]] Thou draw not on thy danger and dishonour, For though usurpers sway the rule a while, Yet heav’ns are just and [[Time|time]] suppresseth wrongs. |
-| WARWICK | Injurious Margaret. |
-| PRINCE EDWARD | And why not ‘[[Queen]]’? |
-| WARWICK | Because thy father Henry did usurp, And thou no more art prince than she is [[Queen|queen]]. |
-| [[Oxford|OXFORD]] | Then Warwick disannuls great [[John of Gaunt]], Which did subdue the greatest part of Spain; And, after [[John of Gaunt]], Henry the Fourth, Whose wisdom was a [[Mirror|mirror]] to the wisest; And, after that wise prince, Henry the Fifth, Who by his prowess conquered all France. From these our Henry lineally descends. |
-| WARWICK | [[Oxford]], how haps it in this smooth discourse You told not how Henry the Sixth hath lost All that which Henry the Fifth had gotten ? Methinks these peers of France should smile at that. But for the rest, you tell a pedigree Of threescore and two years—a silly [[Time|time]] To make prescription for a kingdom’s worth. |
-| [[Oxford|OXFORD]] | Why, Warwick, canst thou speak against thy liege, Whom thou obeyedest thirty and six years, And not bewray thy treason with a blush? |
-| WARWICK | Can [[Oxford]], that did ever fence the right, Now buckler falsehood with a pedigree? For shame—leave Henry, and call Edward [[King|king]]. |
-| [[Oxford|OXFORD]] | Call him my [[King|king]] by whose injurious doom My elder brother, the Lord Aubrey Vere, Was done to [[Death|death]] ? And more than so, my father, Even in the downfall of his mellowed years, When [[Nature|nature]] brought him to the door of [[Death|death]]? No, Warwick, no—while life upholds this arm, This arm upholds the [[house]] of Lancaster. |
-| WARWICK | And I the [[house]] of York. |
-| [[King|KING]] LOUIS | [[Queen Margaret]], Prince Edward, and [[Oxford]], Vouchsafe, at our request, to stand aside While I use further conference with Warwick. [[Queen Margaret]] comes down from the state and, with Prince Edward and [[Oxford]], stands apart |
-| [[Queen Margaret|QUEEN MARGARET]] | Heavens grant that Warwick’s words bewitch him not. |
-| [[King|KING]] LOUIS | Now, Warwick, tell me even upon thy [[Conscience|conscience]], Is Edward your true [[King|king]]? For I were loath To link with him that were not lawful chosen. |
-| WARWICK | Thereon I pawn my credit and mine [[Honour|honour]]. |
-| [[King|KING]] LOUIS | But is he gracious in the people’s eye? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--07_exchange_warwick" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (WARWICK) [7]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WARWICK | The more that Henry was unfortunate. |
-| [[King|KING]] LOUIS | Then further, all dissembling set aside, Tell me for [[Truth|truth]] the measure of his [[Love|love]] Unto our sister Bona. |
-| WARWICK | Such it seems As may beseem a monarch like himself. Myself have often heard him say and swear That this his [[Love|love]] was an eternal plant, Whereof the root was fixed in virtue’s ground, The [[Leaves|leaves]] and fruit maintained with [[Beauty|beauty]]’s sun, Exempt from envy, but not from disdain, Unless the Lady Bona quit his [[Pain|pain]]. |
-| [[King|KING]] LOUIS | (to Lady Boa) Now, sister, let us hear your firm resolve. |
-| LADY BONA | Your grant, or your denial, shall be mine. (To Warwick) Yet I confess that often ere this day, When I have heard your [[King|king]]’s [[Desert|desert]] recounted, Mine ear hath tempted judgement to [[Desire|desire]]. |
-| [[King|KING]] LOUIS | (to Warwick) Then, Warwick, thus—our sister shall be Edward’s. And now, forthwith, shall articles be drawn Touching the jointure that your [[King|king]] must make, Which with her dowry shall be counterpoised. (To [[Queen Margaret]]) Draw near, [[Queen Margaret]], and be a witness That Bona shall be wife to the English [[King|king]]. [[Queen Margaret]], Prince Edward, and [[Oxford]] come forward |
-| PRINCE EDWARD | To Edward, but not to the English [[King|king]]. |
-| [[Queen Margaret|QUEEN MARGARET]] | Deceitful Warwick—it was thy device By this alliance to make void my suit! Before thy coming Louis was Henry’s friend. |
-| [[King|KING]] LOUIS | And still is friend to him and Margaret. But if your title to the [[Crown|crown]] be weak, As may appear by Edward’s good [[success]], Then ’tis but reason that I be released From giving aid which late I promised. Yet shall you have all kindness at my hand That your estate requires and mine can yield. |
-| WARWICK | (to [[Queen Margaret]]) Henry now lives in Scotland at his ease, Where having nothing, nothing can he lose. And as for you yourself, our quondam [[Queen|queen]], You have a father able to maintain you, And better ’twere you troubled him than France. |
-| [[Queen Margaret|QUEEN MARGARET]] | Peace, impudent and shameless Warwick, peace! Proud setter-up and puller-down of kings! I will not hence till, with my talk and [[Tears|tears]], Both full of [[Truth|truth]], I make [[King]] Louis behold Thy sly conveyance and thy lord’s false [[Love|love]], Post blowing a horn within |
-| [[Queen Margaret|QUEEN MARGARET]] | For both of you are [[Birds|birds]] of selfsame feather. |
-| [[King|KING]] LOUIS | Warwick, this is some post to us or thee. Enter the Post |
-| POST | (to Warwick) My lord ambassador, these letters are for you, Sent from your brother Marquis Montague; (To Louis) These from our [[King]] unto your majesty; (To [[Queen Margaret]]) And, madam, these for you, from whom I know not. They all read their letters |
-| [[Oxford|OXFORD]] | (to Prince Edward) I like it [[Well|well]] that our fair [[Queen]] and mistress Smiles at her news, while Warwick frowns at his. |
-| PRINCE EDWARD | Nay, mark how Louis stamps as he were nettled. I [[Hope|hope]] all’s for the best. |
-| [[King|KING]] LOUIS | Warwick, what are thy news ? And yours, fair [[Queen]]? |
-| [[Queen Margaret|QUEEN MARGARET]] | Mine, such as fill my heart with unhoped joys. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--08_exchange_warwick" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (WARWICK) [8]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WARWICK | Mine, full of sorrow and heart’s discontent. |
-| [[King|KING]] LOUIS | What! Has your [[King|king]] married the Lady Gray? And now to soothe your forgery and his, Sends me a paper to persuade me patience? Is this th’alliance that he seeks with France? Dare he presume to scorn us in this manner? |
-| [[Queen Margaret|QUEEN MARGARET]] | I told your majesty as much before— This proveth Edward’s [[Love|love]] and Warwick’s honesty. |
-| WARWICK | [[King]] Louis, I here protest in sight of heaven And by the [[Hope|hope]] I have of heavenly bliss, That I am clear from this misdeed of Edward‘s, No more my [[King|king]], for he dishonours me, But most himself, if he could see his shame. Did I forget that by the [[house]] of York My father came untimely to his [[Death|death]]? Did I let pass th’abuse done to my niece? Did I impale him with the regal [[Crown|crown]]? Did I put Henry from his native right? And am I guerdoned at the last with shame? Shame on himself, for my [[Desert|desert]] is [[Honour|honour]]. And to repair my [[Honour|honour]], lost for him, I here renounce him and return to Henry. (To [[Queen Margaret]]) My noble [[Queen]], let former grudges pass, And henceforth I am thy true servitor. I will [[Revenge|revenge]] his wrong to Lady Bona And replant Henry in his former state. |
-| [[Queen Margaret|QUEEN MARGARET]] | Warwick, these words have turned my hate to [[Love|love]], And I forgive and quite forget old faults, And joy that thou becom’st [[King]] Henry’s friend. |
-| WARWICK | So much his friend, ay, his unfeigned friend, That if [[King]] Louis vouchsafe to furnish us With some few bands of chosen soldiers, I’ll undertake to land them on our coast And force the [[Tyrant|tyrant]] from his seat by war. ’Tis not his new-made bride shall succour him. And as for [[Clarence]], as my letters tell me, He’s very likely now to fall from him For matching more for wanton lust than [[Honour|honour]], Or than for strength and safety of our country. |
-| LADY BONA | (to [[King]] Louis) Dear brother, how shall Bona be revenged, But by thy help to this distressed [[Queen]]? |
-| [[Queen Margaret|QUEEN MARGARET]] | (to [[King]] Louis) Renowned Prince, how shall poor Henry live Unless thou rescue him from foul [[Despair|despair]]? |
-| LADY BONA | (to [[King]] Louis) My quarrel and this English [[Queen]]’s are one. |
-| WARWICK | And mine, fair Lady Bona, joins with yours. |
-| [[King|KING]] LOUIS | And mine with hers, and thine, and Margaret’s. Therefore at last I firmly am resolved: You shall have aid. |
-| [[Queen Margaret|QUEEN MARGARET]] | Let me give humble thanks for all at once. |
-| [[King|KING]] LOUIS | (to the Post) Then, England’s messenger, return in post And tell false Edward, thy supposed [[King|king]], That Louis of France is sending over masquers To revel it with him and his new bride. Thou seest what’s passed, go [[Fear|fear]] thy [[King|king]] withal. |
-| LADY BONA | (to the Post) Tell him, in [[Hope|hope]] he’ll prove a widower shortly, I’ll wear the willow garland for his sake. |
-| [[Queen Margaret|QUEEN MARGARET]] | (to the Post) Tell him my mourning weeds are laid aside, And I am ready to put armour on. |
-| WARWICK | (to the Post) Tell him from me that he hath done me wrong, And therefore I’ll uncrown him ere’t be long. (Giving money) There’s thy reward—be gone. Exit Post |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--09_exchange_king_louis" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2 — exchange (KING LOUIS) [9]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] LOUIS | But, Warwick, thou and [[Oxford]], with five thousand men, Shall [[Cross|cross]] the seas and bid false Edward battle; And, as occasion serves, this noble [[Queen]] And Prince shall follow with a fresh supply. Yet, ere thou go, but answer me one [[Doubt|doubt]]: What pledge have we of thy firm loyalty? |
-| WARWICK | This shall assure my constant loyalty : That if our [[Queen]] and this young Prince agree, I’ll join mine eldest daughter and my joy To him forthwith in holy wedlock bands. |
-| [[Queen Margaret|QUEEN MARGARET]] | Yes, I agree, and thank you for your motion. (To Prince Edward) Son Edward, she is fair and virtuous, Therefore delay not. Give thy hand to Warwick, And with thy hand thy [[Faith|faith]] irrevocable That only Warwick’s daughter shall be thine. |
-| PRINCE EDWARD | Yes, I accept her, for she [[Well|well]] deserves it, And here to pledge my vow I give my hand. He and Warwick clasp hands |
-| [[King|KING]] LOUIS | Why stay we now? These soldiers shall be levied, And thou, Lord Bourbon, our high admiral, Shall waft them over with our royal fleet. I long till Edward fall by war’s mischance For mocking [[Marriage|marriage]] with a dame of France. Exeunt all but Warwick |
-| WARWICK | I came from Edward as ambassador, But I return his sworn and mortal foe. Matter of [[Marriage|marriage]] was the charge he gave me, But dreadful war shall answer his demand. Had he none else to make a stale but me? Then none but I shall turn his jest to sorrow. I was the chief that raised him to the [[Crown|crown]], And I’ll be chief to bring him down again. Not that I pity Henry’s misery, But seek [[Revenge|revenge]] on Edward’s mockery. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Richard]] [[Duke of Gloucester]], George Duke of [[Clarence]], the Duke of Somerset, and the Marquis of Montague |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Now tell me, brother [[Clarence]], what think you Of this new [[Marriage|marriage]] with the Lady Gray? Hath not our brother made a worthy choice ? |
-| GEORGE OF [[Clarence|CLARENCE]] | Alas, you know ’tis far from hence to France; How could he stay till Warwick made return? |
-| SOMERSET | My lords, forbear this talk—here comes the [[King]]. Flourish. Enter [[King]] Edward, the Lady Gray his |
-| SOMERSET | [[Queen]], the Earl of Pembroke, and the Lords |
-| *(didascalia)* | Stafford and [[Hastings]]. Four stand on one side of |
-| *(didascalia)* | the [[King]], and four on the other |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | And his [[Well|well]]-chosen bride. |
-| GEORGE OF [[Clarence|CLARENCE]] | I mind to tell him plainly what I think. |
-| [[King|KING]] EDWARD | Now, brother of [[Clarence]], how like you our choice, That you stand pensive, as half-malcontent? |
-| GEORGE OF [[Clarence|CLARENCE]] | As [[Well|well]] as Louis of France, or the [[Earl of Warwick]], Which are so weak of [[Courage|courage]] and in judgement That they’ll take no offence at our abuse. |
-| [[King|KING]] EDWARD | Suppose they take offence without a cause— They are but Louis and Warwick; I am Edward, Your [[King|king]] and Warwick’s, and must have my will. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | And you shall have your will, because our [[King|king]]. Yet hasty [[Marriage|marriage]] seldom proveth [[Well|well]]. |
-| [[King|KING]] EDWARD | Yea, brother [[Richard]], are you offended too ? |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Not I, no—God forbid that I should wish them severed Whom God hath joined together. Ay, and ’twere pity To sunder them that yoke so [[Well|well]] together. |
-| [[King|KING]] EDWARD | Setting your scorns and your mislike aside, Tell me some reason why the Lady Gray Should not become my wife and England’s [[Queen|queen]]. And you too, Somerset and Montague, Speak freely what you think. |
-| GEORGE OF [[Clarence|CLARENCE]] | Then this is my opinion: that [[King]] Louis Becomes your enemy for mocking him About the [[Marriage|marriage]] of the Lady Bona. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | And Warwick, doing what you gave in charge, Is now dishonoured by this new [[Marriage|marriage]]. |
-| [[King|KING]] EDWARD | What if both Louis and Warwick be appeased By such invention as I can devise? |
-| MONTAGUE | Yet, to have joined with France in such alliance Would more have strengthened this our commonwealth ’Gainst foreign storms than any [[Home|home]]-bred [[Marriage|marriage]]. |
-| [[Hastings|HASTINGS]] | Why, knows not Montague that of itself England is safe, if true within itself? |
-| MONTAGUE | But the safer when ’tis backed with France. |
-| [[Hastings|HASTINGS]] | ’Tis better using France than trusting France. Let us be backed with God and with the seas Which he hath giv’n for fence impregnable, And with their helps only defend ourselves. In them and in ourselves our safety lies. |
-| GEORGE OF [[Clarence|CLARENCE]] | For this one speech Lord [[Hastings]] [[Well|well]] deserves To have the heir of the Lord Hungerford. |
-| [[King|KING]] EDWARD | Ay, what of that? It was my will and grant— And for this once my will shall stand for law. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | And yet, methinks, your grace hath not done [[Well|well]] To give the heir and daughter of Lord Scales Unto the brother of your loving bride. She better would have fitted me or [[Clarence]], But in your bride you bury brotherhood. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--02_exchange_george_of_clarence" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 1 — exchange (GEORGE OF CLARENCE) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| GEORGE OF [[Clarence|CLARENCE]] | Or else you would not have bestowed the heir Of the Lord Bonville on your new wife’s son, And leave your brothers to go [[Speed|speed]] elsewhere. |
-| [[King|KING]] EDWARD | Alas, poor [[Clarence]], is it for a wife That thou art malcontent? I will provide thee. |
-| GEORGE OF [[Clarence|CLARENCE]] | In choosing for yourself you showed your judgement, Which being shallow, you shall give me leave To play the broker in mine own behalf, And to that end I shortly mind to leave you. |
-| [[King|KING]] EDWARD | Leave me, or tarry. Edward will be [[King|king]], And not be tied unto his brother’s will. |
-| LADY GRAY | My lords, before it pleased his majesty To raise my state to title of a [[Queen|queen]], Do me but right, and you must all confess That I was not ignoble of descent— And meaner than myself have had like fortune. But as this title honours me and mine, So your dislikes, to whom I would be pleasing, Doth cloud my joys with danger and with sorrow. |
-| [[King|KING]] EDWARD | My [[Love|love]], forbear to fawn upon their frowns. What danger or what sorrow can befall thee So long as Edward is thy constant friend, And their true sovereign, whom they must obey? Nay, whom they shall obey, and [[Love|love]] thee too— Unless they seek for hatred at my hands, Which if they do, yet will I keep thee safe, And they shall feel the vengeance of my wrath. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside) I hear, yet say not much, but think the more. Enter the Post from France |
-| [[King|KING]] EDWARD | Now, messenger, what letters or what news from France ? |
-| POST | My sovereign liege, no letters and few words, But such as I, without your special pardon, Dare not relate. |
-| [[King|KING]] EDWARD | Go to, we pardon thee. Therefore, in brief, Tell me their words as near as thou canst guess them. What answer makes [[King]] Louis unto our letters? |
-| POST | At my depart these were his very words: ‘Go tell false Edward, thy supposed [[King|king]], That Louis of France is sending over masquers To revel it with him and his new bride.’ |
-| [[King|KING]] EDWARD | Is Louis so brave ? Belike he thinks me Henry. But what said Lady Bona to my [[Marriage|marriage]]? |
-| POST | These were her words, uttered with mild disdain: ‘Tell him in [[Hope|hope]] he’ll prove a widower shortly, I’ll wear the willow garland for his sake.’ |
-| [[King|KING]] EDWARD | ame not her, she could say little less; She had the wrong. But what said Henry’s [[Queen|queen]]? For I have heard that she was there in place. |
-| POST | ‘Tell him‘, quoth she, ’my mourning weeds are done, And I am ready to put armour on.’ |
-| [[King|KING]] EDWARD | Belike she minds to play the Amazon. But what said Warwick to these injuries? |
-| POST | He, more incensed against your majesty Than all the rest, discharged me with these words: ‘Tell him from me that he hath done me wrong, And therefore I’ll uncrown him ere’t be long.’ |
-| [[King|KING]] EDWARD | Ha! Durst the traitor breathe out so proud words? [[Well]], I will arm me, being thus forewarned. They shall have wars and pay for their presumption. But say, is Warwick friends with Margaret? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--03_exchange_post" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 1 — exchange (POST) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| POST | Ay, gracious sovereign, they are so linked in [[Friendship|friendship]] That young Prince Edward marries Warwick’s daughter. |
-| GEORGE OF [[Clarence|CLARENCE]] | Belike the elder; [[Clarence]] will have the younger. Now, brother [[King]], farewell, and sit you fast, For I will hence to Warwick’s other daughter, That, though I want a kingdom, yet in [[Marriage|marriage]] I may not prove inferior to yourself. You that [[Love|love]] me and Warwick, follow me. Exit [[Clarence]], and Somerset follows |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Not I—aside my thoughts aim at a further matter. I stay not for the [[Love|love]] of Edward, but the [[Crown|crown]]. |
-| [[King|KING]] EDWARD | [[Clarence]] and Somerset both gone to Warwick? Yet am I armed against the worst can happen, And haste is needful in this desp’rate case. Pembroke and Stafford, you in our behalf Go levy men and make prepare for war. They are already, or quickly will be, landed. Myself in person will straight follow you. Exeunt Pembroke and Stafford But ere I go, [[Hastings]] and Montague, Resolve my [[Doubt|doubt]]. You twain, of all the rest, Are near’st to Warwick by [[Blood|blood]] and by alliance. Tell me if you [[Love|love]] Warwick more than me. If it be so, then both depart to him— I rather wish you foes than hollow friends. But if you mind to hold your true obedience, Give me assurance with some friendly vow That I may never have you in suspect. |
-| MONTAGUE | So God help Montague as he proves true. |
-| [[Hastings|HASTINGS]] | And [[Hastings]] as he favours Edward’s cause. |
-| [[King|KING]] EDWARD | Now, brother [[Richard]], will you stand by us? |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Ay, in despite of all that shall withstand you. |
-| [[King|KING]] EDWARD | Why, so. Then am I sure of victory. Now, therefore, let us hence and lose no hour Till we meet Warwick with his foreign power. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the [[Earl of Warwick]], the Mayar of Coventry, two Messengers, and others upon the walls |
-| WARWICK | Where is the post that came from valiant [[Oxford]]? The First Messenger steps forward How far hence is thy lord, mine honest fellow? |
-| FIRST MESSENGER | By this at Dunsmore, marching hitherward. |
-| WARWICK | How far off is our brother Montague? Where is the post that came from Montague? the Second Messenger steps forward |
-| SECOND MESSENGER | By this at Da’ntry, with a puissant troop. Enter Somerville to them, abovel |
-| WARWICK | Say, Somerville-what says my loving son? And, by thy guess, how nigh is [[Clarence]] now? |
-| SOMERVILLE | At Southam I did leave him with his forces, And do expect him here some two hours hence. A march afar off |
-| WARWICK | Then [[Clarence]] is at hand-I hear his drum. |
-| SOMERVILLE | It is not his, my lord. Here Southam lies. The drum your [[Honour|honour]] hears marcheth from Warwick. |
-| WARWICK | Who should that be? Belike, unlooked-for friends. |
-| SOMERVILLE | They are at hand, and you shall quickly know. Flourish. Enter below [[King]] Edward and [[Richard]] [[Duke of Gloucester]], with soldiers |
-| [[King|KING]] EDWARD | Go, trumpet, to the walls, and sound a parley. Sound a parley |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | See how the surly Warwick mans the wall. |
-| WARWICK | O, unbid spite—is sportful Edward come? Where slept our scouts, or how are they seduced, That we could hear no news of his repair? |
-| [[King|KING]] EDWARD | Now, Warwick, wilt thou ope the [[City|city]] gates, Speak gentle words, and humbly bend thy knee, Call Edward [[King|king]], and at his hands beg [[Mercy|mercy]]? And he shall pardon thee these outrages. |
-| WARWICK | Nay, rather, wilt thou draw thy forces hence, Confess who set thee up and plucked thee down, Call Warwick patron, and be penitent? And thou shalt still remain the [[Duke of York]]. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | I thought at least he would have said ‘the [[King]]’. Or did he make the jest against his will? |
-| WARWICK | Is not a dukedom, sir, a goodly gift? |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Ay, by my [[Faith|faith]], for a poor earl to give. I’ll do thee service for so good a gift. |
-| WARWICK | ’Twas I that gave the kingdom to thy brother. |
-| [[King|KING]] EDWARD | Why then, ’tis mine, if but by Warwick’s gift. |
-| WARWICK | Thou art no Atlas for so great a weight; And, weakling, Warwick takes his gift again; And Henry is my [[King|king]], Warwick his subject. |
-| [[King|KING]] EDWARD | But Warwick’s [[King|king]] is Edward’s prisoner, And, gallant Warwick, do but answer this: What is the [[Body|body]] when the head is off? |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Alas, that Warwick had no more forecast, But whiles he thought to steal the single ten, The [[King|king]] was slyly fingered from the deck. To Warwick You left poor Henry at the Bishop’s palace, And ten to one you’ll meet him in the Tower. |
-| [[King|KING]] EDWARD | ’Tis even so—to Warwick yet you are Warwick still. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Come, Warwick, take the [[Time|time]]—kneel down, kneel down. Nay, when? Strike now, or else the iron cools. |
-| WARWICK | I had rather chop this hand off at a blow, And with the other fling it at thy face, Than bear so low a sail to strike to thee. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--02_exchange_king_edward" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 1 — exchange (KING EDWARD) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] EDWARD | Sail how thou canst, have [[Wind|wind]] and tide thy friend, This hand, fast wound about thy coal-black hair, Shall, whiles thy head is warm and new cut off, Write in the [[Dust|dust]] this sentence with thy [[Blood|blood]]: ‘[[Wind]]-changing Warwick now can change no more’. Enter the Earl of [[Oxford]], with a drummer and soldiers bearing colours |
-| WARWICK | O cheerful colours! See where [[Oxford]] comes. |
-| [[Oxford|OXFORD]] | [[Oxford]], [[Oxford]], for Lancaster! [[Oxford]] and his men pass over the stage and exeunt into the [[City|city]] |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to [[King]] Edward) The gates are open—let us enter too. |
-| [[King|KING]] EDWARD | So other foes may set upon our backs? Stand we in good array, for they no [[Doubt|doubt]] Will issue out again and bid us battle. If not, the [[City|city]] being but of small defence, We’ll quickly rouse the traitors in the same. |
-| WARWICK | to [[Oxford]], within O, welcome, [[Oxford]]—for we want thy help. Enter the Marquis of Montague with a drummer and soldiers bearing colours |
-| MONTAGUE | Montague, Montague, for Lancaster! Montague and his men pass over the stage and exeunt into the [[City|city]] |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Thou and thy brother both shall bye this treason Even with the dearest [[Blood|blood]] your bodies bear. |
-| [[King|KING]] EDWARD | The harder matched, the greater victory. My mind presageth happy gain and conquest. Enter the Duke of Somerset with a drummer and soldiers bearing colours |
-| SOMERSET | Somerset, Somerset, for Lancaster! Somerset and his men pass over the stage and exeunt into the [[City|city]] |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | Two of thy name, both dukes of Somerset, Have sold their lives unto the [[house]] of York— And thou shalt be the third, an this [[Sword|sword]] hold. Enter George Duke of [[Clarence]] with a drummer and soldiers bearing colours |
-| WARWICK | And lo, where George of [[Clarence]] sweeps along, Of force enough to bid his brother battle; With whom an upright zeal to right prevails More than the [[Nature|nature]] of a brother’s [[Love|love]]. |
-| GEORGE OF [[Clarence|CLARENCE]] | [[Clarence]], [[Clarence]], for Lancaster! |
-| [[King|KING]] EDWARD | Et tu, Brute—wilt thou stab Caesar too? (To a trumpeter) A parley, sirra, to George of [[Clarence]]. Sound a parley. [[Richard]] of [[Gloucester]] and George of |
-| [[King|KING]] EDWARD | [[Clarence]] whisper together |
-| WARWICK | Come, [[Clarence]], come—thou wilt if Warwick call. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--03_monologue_george_of_clarence" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 1 — monologue (GEORGE OF CLARENCE) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| GEORGE OF [[Clarence|CLARENCE]] | Father of Warwick, know you what this means? He takes his red [[Rose|rose]] out of his hat and throws it at Warwick Look—here I throw my infamy at thee! I will not ruinate my father’s [[house]], Who gave his [[Blood|blood]] to lime the stones together, And set up Lancaster. Why, trowest thou, Warwick, That [[Clarence]] is so harsh, so blunt, unnatural, To bend the fatal instruments of war Against his brother and his lawful [[King|king]]? Perhaps thou wilt object my holy oath. To keep that oath were more impiety Than Jephthah, when he sacrificed his daughter. I am so sorry for my trespass made That, to deserve [[Well|well]] at my brothers’ hands, I here proclaim myself thy mortal foe, With resolution, wheresoe’er I meet thee— As I will meet thee, if thou stir abroad— To plague thee for thy foul misleading me. And so, proud-hearted Warwick, I defy thee, And to my brothers turn my blushing cheeks. (To [[King]] Edward) Pardon me, Edward—I will make amends. (To [[Richard]]) And, [[Richard]], do not frown upon my faults, For I will henceforth be no more unconstant. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--04_exchange_king_edward" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 1 — exchange (KING EDWARD) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] EDWARD | Now welcome more, and ten times more beloved, Than if thou never hadst deserved our hate. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (to George) Welcome, good [[Clarence]]—this is brother-like. |
-| WARWICK | (to George) O, passing traitor—perjured and unjust! |
-| [[King|KING]] EDWARD | What, Warwick, wilt thou leave the town and fight? Or shall we beat the stones about thine ears? |
-| WARWICK | aside Alas, I am not cooped here for defence. |
-| WARWICK | (To [[King]] Edward) I will away towards Barnet presently, And bid thee battle, Edward, if thou dar’st. |
-| [[King|KING]] EDWARD | Yes, Warwick—Edward dares, and leads the way. Lords, to the Held—Saint George and victory! Exeunt below [[King]] Edward and his company. March. The [[Earl of Warwick]] and his company descend and follow |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--01_exchange_dialogue" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A chair of state. Flourish. Enter [[King]] Edward, Lady Gray his [[Queen]], George Duke off [[Clarence]], [[Richard]] [[Duke of Gloucester]], the Lord [[Hastings]], a [[Nurse|nurse]] carrying the infant Prince Edward, and attendants |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--02_monologue_king_edward" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — monologue (KING EDWARD) [2]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] EDWARD | Once more we sit in England’s royal throne, Repurchased with the [[Blood|blood]] of enemies. What valiant foemen, like to [[Autumn|autumn]]’s corn, Have we mowed down in tops of all their [[Pride|pride]]! Three dukes of Somerset, threefold renowned For hardy and undoubted champions; Two Cliffords, as the father and the son; And two Northumbertands—two braver men Ne’er spurred their coursers at the trumpet’s sound. With them, the two brave bears, Warwick and Montague, That in their [[Chains|chains]] fettered the kingly [[Lion|lion]] And made the forest tremble when they roared. Thus have we swept suspicion from our seat And made our footstool of security. (To Lady Gray) Come hither, Bess, and let me kiss my boy. The [[Nurse|nurse]] brings forth the infant prince. [[King]] Edward kisses him Young Ned, for thee, thine uncles and myself Have in our armours watched the [[Winter|winter]]’s [[Night|night]], Went all afoot in [[Summer|summer]]’s scalding heat, That thou mightst repossess the [[Crown|crown]] in peace; And of our labours thou shalt reap the gain. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--03_exchange_richard_of_gloucester" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — exchange (RICHARD OF GLOUCESTER) [3]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | (aside) I’ll blast his harvest, an your head were laid; For yet I am not looked on in the world. This shoulder was ordained so thick to heave; And heave it shall some weight or break my back. Work thou the way, and thou shalt execute. |
-| [[King|KING]] EDWARD | [[Clarence]] and [[Gloucester]], [[Love|love]] my lovely [[Queen|queen]]; And kiss your princely nephew, brothers, both. |
-| GEORGE OF [[Clarence|CLARENCE]] | The duty that I owe unto your majesty I seal upon the lips of this sweet babe. He kisses the infant prince |
-| LADY GRAY | Thanks, noble [[Clarence]]—worthy brother, thanks. |
-| [[Richard|RICHARD]] OF [[Gloucester|GLOUCESTER]] | And that I [[Love|love]] the tree from whence thou sprang’st, Witness the loving kiss I give the fruit. He kisses the infant prince (Aside) To say the [[Truth|truth]], so Judas kissed his master, And cried ‘All hail!’ whenas he meant all harm. |
-| [[King|KING]] EDWARD | Now am I seated as my [[Soul|soul]] delights, Having my country’s peace and brothers’ loves. |
-| GEORGE OF [[Clarence|CLARENCE]] | What will your grace have done with Margaret? René her father, to the [[King of France]] Hath pawned the Sicils and Jerusalem, And hither have they sent it for her ransom. |
-| [[King|KING]] EDWARD | Away with her, and waft her hence to France. And now what rests but that we spend the [[Time|time]] With stately triumphs, mirthful comic shows, Such as befits the pleasure of the [[Court|court]]? Sound drums and trumpets—fareweti, sour annoy! For here, I [[Hope|hope]], begins our lasting joy. Flourish. Exeunt |
-| ADDITIONAL PASSAGES | A. Our edition adopts the 1595 version of 1.1.120-5 in the belief that it reflects an authorial revision; an edited text of the Folio alternative follows. |
-| [[King|KING]] HENRY | Peace, thou—and give [[King]] Henry leave to speak. |
-| WARWICK | Plantagenet shall speak first—hear him, lords, And be you silent and attentive too, For he that interrupts him shall not live. |
-| [[King|KING]] HENRY | to York Think’st thou that I will leave my kingly throne, |
-| [[King|KING]] HENRY | B. The 1595 text abridges 5.4.82.1-5.5.17, and may reflect authorial revision. An edited text of the abridged passage follows: |
-| ALL THE LANCASTER PARTY | Saint George for Lancaster! Alarums to the battle. The [[house]] of York flies, then the chambers are discharged. Then enter [[King]] Edward, George of [[Clarence]], and [[Richard]] of [[Gloucester]], and their followers: they make a great shout, and cry ‘For York! For York!’ Then [[Queen Margaret]], Prince Edward, [[Oxford]] and Somerset are all taken prisoner. Flourish, and enter all again |
-| [[King|KING]] EDWARD | Now here a period of tumultuous broils. Away with [[Oxford]] to Hames [[Castle]] straight; For Somerset, off with his guilty head. Go, bear them hence—I will not hear them speak. |
-| [[Oxford|OXFORD]] | For my part, I’ll not trouble thee with words. Exit, guarded |
-| SOMERSET | Nor I, but stoop with patience to my [[Death|death]]. Exit, guarded |
-| [[King|KING]] EDWARD | (to Prince Edward) Edward, what satisfaction canst thou make For stirring up my subjects to rebellion? |
-| PRINCE EDWARD | Speak like a subject, proud ambitious York. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--04_exchange_henry_vi_part_one" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — exchange (HENRY VI PART ONE) [4]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| BY WILLIAM SHAKESPEARE AND | OTHERS |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--05_monologue_the" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — monologue (THE) [5]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE | play printed here first appeared in the 1623 Folio, as The First Part of [[Henry VI]]; it tells the beginning of the story that is continued in The First Part of the Contention and in [[Richard]] [[Duke of York]]. Although in narrative sequence it belongs before those plays, there is good reason to believe that it was written after them. It is probably the ‘new’ play referred to as ‘harey the vj’ in the record of its performance on 3 March 1592 by Lord Strange’s Men. The box-office takings of £3 16s. 8d. were a record for the season, and the play was acted another fifteen times during the following ten months. Its [[success]] is mentioned in Thomas Nashe’s satirical pamphlet Piers Penniless, published later in 1592. Defending the drama against moralistic attacks, Nashe claims that plays based on ‘our English chronicles’ celebrate ‘our forefathers’ valiant acts’ and set them up as a ‘reproof to these degenerate effeminate days of ours’. By way of illustration he alludes specifically to the exploits of [[Lord Talbot]], the principal English warrior in [[Henry VI]] Part One: ‘How would it have joyed brave Talbot, the terror of the French, to think that after he had lain two hundred years in his tomb he should triumph again on the stage, and have his bones new-embalmed with the [[Tears|tears]] of ten thousand spectators at least, at several times, who in the tragedian that represents his person imagine they behold him fresh bleeding!’ Nashe may have had personal reasons to puff this play: a variety of evidence suggests that Shakespeare wrote it in collaboration with at least two other authors; Nashe himself was probably responsible for Act 1. The passages most confidently attributed to Shakespeare are Act 2, Scene 4 and Act 4, Scene 2 to the [[Death|death]] of Talbot at 4.7.32. A mass of material, some derived from ‘English chronicles’, some invented, is packed into this play. It opens impressively with the funeral of [[Henry V]], celebrated for unifying England and subjugating France; but his nobles are at loggerheads even over his coffin, and news rapidly arrives of serious losses in France. The rivalry displayed here between Humphrey, [[Duke of Gloucester]]—Protector of the infant [[Henry VI]]—and Henry Beaufort, Bishop of Winchester, plays an important part in both this play and The Contention, as does the conflict between [[Richard]], [[Duke of York]], and the houses of Somerset and Suffolk; in the Temple [[Garden]] scene (2.4), invented by Shakespeare, York’s and Somerset’s supporters symbolize their respective loyalties by plucking [[White and Red|white and red]] roses. Their dissension weakens England’s military strength, but she has a great [[Hero|hero]] in [[Lord Talbot]], whose nobility as a warrior is pitted against the treachery of the French, led by [[King]] Charles and [[Joan la Pucelle]] (Joan of Arc), here—following the chronicles—portrayed as a [[Witch|witch]] and a whore. Historical facts are freely manipulated: Joan was burnt in 1431, though the play’s authors have her take part in a battle of 1451 in which Talbot’s [[Death|death]] is brought forward by two years. The play ends with an uneasy peace between England and France. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--06_exchange_the_persons_of_the_play" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [6]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY The English |
-| [[King|KING]] | [[Henry VI]] [[Duke of Gloucester|Duke of GLOUCESTER]], Lord Protector, uncle of [[King]] Henry Duke of BEDFORD, Regent of France [[Duke of Exeter|Duke of EXETER]] Bishop of WINCHESTER (later Cardinal), uncle of [[King]] Henry Duke of SOMERSET |
-| [[Richard|RICHARD]] | PLANTAGENET, later [[Duke of York|DUKE OF YORK]], and Regent of France [[Earl of Warwick|Earl of WARWICK]] [[Earl of Salisbury|Earl of SALISBURY]] [[Earl of Suffolk|Earl of SUFFOLK]] [[Lord Talbot|Lord TALBOT]] |
-| JOHN | Talbot [[Edmund]] MORTIMER Sir William GLASDALE Sir Thomas GARGRAVE Sir John FASTOLF Sir William LUCY WOODVILLE, Lieutenant of the Tower of [[London]] |
-| MAYOR | of [[London]] |
-| *(didascalia)* | A |
-| *(didascalia)* | A |
-| LEGATE | Messengers, warders and keepers of the Tower of [[London]], servingmen, officers, captains, soldiers, herald, watch The French CHARLES, [[Dauphin]] of France RENÉ, Duke of Anjou, [[King]] of Naples MARGARET, his daughter Duke of ALENÇON |
-| BASTARD | of Orléans Duke of BURGUNDY, uncle of [[King]] Henry |
-| GENERAL | of the French garrison at Bordeaux |
-| COUNTESS | of Auvergne |
-| MASTER GUNNER | of Orléans A BOY, his son |
-| JOAN | la Pucelle A SHEPHERD, father of Joan Porter, French sergeant, French sentinels, French scout, French herald, the Governor of [[Paris]], fiends, and soldiers |
 
 
 

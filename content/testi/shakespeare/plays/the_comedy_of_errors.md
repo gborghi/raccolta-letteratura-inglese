@@ -1,5 +1,5 @@
 ---
-title: "The Comedy of Errors — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [11]"
+title: "THE COMEDY OF ERRORS"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/the-comedy-of-errors-(shakespeare)"
@@ -9,6 +9,788 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/the_comedy_of_errors" data-author="Shakespeare" data-workhref="works/the-comedy-of-errors-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="The Comedy of Errors — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Solinus, the Duke of Ephesus, with [[Egeon]] the Merchant of Syracuse, Jailer, and other attendants |
+| [[Egeon|EGEON]] | Proceed, Solinus, to procure my fall, And by the doom of [[Death|death]] end woes and all. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--02_monologue_duke" data-title="The Comedy of Errors — Act I, Scene 1 — monologue (DUKE) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| DUKE | Merchant of Syracusa, plead no more. I am not partial to infringe our laws. The enmity and discord which of late Sprung from the rancorous outrage of your Duke To merchants, our [[Well|well]]-dealing countrymen, Who, wanting guilders to redeem their lives, Have sealed his rigorous statutes with their bloods, Excludes all pity from our threat‘ning looks. For since the mortal and intestine jars ’Twixt thy seditious countrymen and us, It hath in solemn synods been decreed, Both by the Syracusians and ourselves, To admit no traffic to our adverse towns. Nay more: if any born at Ephesus Be seen at Syracusian marts and fairs; Again, if any Syracusian born Come to the bay of Ephesus—he dies, His goods confiscate to the Duke’s dispose, Unless a thousand marks be levied To quit the penalty and ransom him. Thy substance, valued at the highest rate, Cannot amount unto a hundred marks. Therefore by law thou art condemned to die. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--03_exchange_egeon" data-title="The Comedy of Errors — Act I, Scene 1 — exchange (EGEON) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Egeon|EGEON]] | Yet this my comfort: when your words are done, |
+| [[Egeon|EGEON]] | My woes end likewise with the evening sun. |
+| DUKE | [[Well]], Syracusian, say in brief the cause Why thou departed‘st from thy native [[Home|home]], And for what cause thou cam’st to Ephesus. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--04_monologue_egeon" data-title="The Comedy of Errors — Act I, Scene 1 — monologue (EGEON) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Egeon|EGEON]] | A heavier task could not have been imposed Than I to speak my griefs unspeakable. Yet, that the world may witness that my end Was wrought by [[Nature|nature]], not by vile offence, I’ll utter what my sorrow gives me leave. In Syracusa was I born, and wed Unto a woman happy but for me, And by me happy, had not our hap been bad. With her I lived in joy, our wealth increased By prosperous voyages I often made To Epidamnum, till my factor’s [[Death|death]], And the great care of goods at random left, Drew me from kind embracements of my spouse, From whom my absence was not six months old Before herself—almost at fainting under The pleasing punishment that women bear- Had made provision for her following me, And soon and safe arrived where I was. There had she not been long but she became A joyful mother of two goodly sons; And, which was strange, the one so like the other As could not be distinguished but by names. That very hour, and in the selfsame inn, A mean-born woman was delivered Of such a burden male, twins both alike. Those, for their parents were exceeding poor, I bought, and brought up to attend my sons. My wife, not meanly proud of two such boys, Made daily motions for our [[Home|home]] return. Unwilling, I agreed. Alas! Too soon We came aboard. A league from Epidamnum had we sailed Before the always-[[Wind|wind]]-obeying deep Gave any tragic instance of our harm. But longer did we not retain much [[Hope|hope]], For what obscured light the heavens did grant Did but convey unto our fearful minds A doubtful warrant of immediate [[Death|death]], Which though myself would gladly have embraced, Yet the incessant weepings of my wife— Weeping before for what she saw must come— And piteous plainings of the pretty babes, That mourned for fashion, ignorant what to [[Fear|fear]], Forced me to seek delays for them and me. And this it was—for other means was none: The sailors sought for safety by our boat, And left the [[Ship|ship]], then sinking-ripe, to us. My wife, more careful for the latter-born, Had fastened him unto a small spare mast Such as seafaring men provide for storms. To him one of the other twins was bound, Whilst I had been like heedful of the other. The children thus disposed, my wife and I, Fixing our eyes on whom our care was fixed, Fastened ourselves at either end the mast, And floating straight, obedient to the stream, Was carried towards Corinth, as we thought. At length the sun, gazing upon the earth, Dispersed those vapours that offended us, And by the benefit of his wished light The seas waxed calm, and we discovered Two ships from far, making amain to us: Of Corinth that, of Epidaurus this. But ere they came—O let me say no more! Gather the sequel by that went before. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--05_exchange_duke" data-title="The Comedy of Errors — Act I, Scene 1 — exchange (DUKE) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| DUKE | Nay, forward, old man; do not break off so, For we may pity though not pardon thee. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--06_monologue_egeon" data-title="The Comedy of Errors — Act I, Scene 1 — monologue (EGEON) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Egeon|EGEON]] | O, had the gods done so, I had not now Worthily termed them merciless to us. For, ere the ships could meet by twice five leagues, We were encountered by a mighty rock, Which being violently borne upon, Our helpful [[Ship|ship]] was splitted in the midst, So that in this unjust [[divorce]] of us Fortune had left to both of us alike What to delight in, what to sorrow for. Her part, poor [[Soul|soul]], seeming as burdened With lesser weight but not with lesser woe, Was carried with more [[Speed|speed]] before the [[Wind|wind]], And in our sight they three were taken up By fishermen of Corinth, as we thought. At length another [[Ship|ship]] had seized on us, And, knowing whom it was their hap to save, Gave healthful welcome to their shipwrecked guests, And would have reft the fishers of their prey Had not their barque been very slow of sail; And therefore homeward did they bend their course. Thus have you heard me severed from my bliss, That by misfortunes was my life prolonged To tell sad stories of my own mishaps. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--07_exchange_duke" data-title="The Comedy of Errors — Act I, Scene 1 — exchange (DUKE) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| DUKE | And for the sake of them thou sorrow’st for, Do me the favour to dilate at full What have befall’n of them and thee till now. |
+| [[Egeon|EGEON]] | My youngest boy, and yet my eldest care, At eighteen years became inquisitive After his brother, and importuned me That his attendant—so his case was like, Reft of his brother, but retained his name— Might bear him company in the [[Quest|quest]] of him; Whom whilst I laboured of a [[Love|love]] to see, I hazarded the loss of whom I loved. Five summers have I spent in farthest Greece, Roaming clean through the bounds of Asia, And coasting homeward came to Ephesus, Hopeless to find, yet loath to leave unsought Or that or any place that harbours men. But here must end the story of my life, And happy were I in my timely [[Death|death]] Could all my travels warrant me they live. |
+| DUKE | Hapless [[Egeon]], whom the fates have marked To bear the extremity of dire mishap, Now trust me, were it not against our laws— Which princes, would they, may not disannul— Against my [[Crown|crown]], my oath, my dignity, My [[Soul|soul]] should sue as advocate for thee. But though thou art adjudged to the [[Death|death]], And passed sentence may not be recalled But to our [[Honour|honour]]’s great disparagement, Yet will I favour thee in what I can. Therefore, merchant, I’ll limit thee this day To seek thy health by beneficial help. Try all the friends thou hast in Ephesus: Beg thou or borrow to make up the sum, And live. If no, then thou art doomed to die. Jailer, take him to thy custody. |
+| JAILER | I will, my lord. |
+| [[Egeon|EGEON]] | Hopeless and helpless doth [[Egeon]] wend, But to procrastinate his lifeless end. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="The Comedy of Errors — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Antipholus of Syracuse]] |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | The gold I gave to Dromio is laid up Safe at the Centaur, and the heedful slave Is wandered forth in care to seek me out. By computation and mine host’s report, I could not speak with Dromio since at first I sent him from the mart! See, here he comes. Enter [[Dromio of Syracuse]] How now, sir, is your merry [[Humour|humour]] altered? As you [[Love|love]] strokes, so jest with me again. You know no Centaur? You received no gold? Your mistress sent to have me [[Home|home]] to dinner? My [[house]] was at the Phoenix?—Wast thou mad, That thus so madly thou didst answer me? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | What answer, sir? When spake I such a word? |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Even now, even here, not half an hour since. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I did not see you since you sent me hence [[Home]] to the Centaur with the gold you gave me. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | [[Villain]], thou didst deny the gold’s receipt, And told‘st me of a mistress and a dinner, For which I [[Hope|hope]] thou felt’st I was displeased. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I am glad to see you in this merry vein. What means this jest? I pray you, master, tell me. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Yea, dost thou jeer and flout me in the teeth? Think’st thou I jest? Hold, take thou that, and that. He beats Dromio |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Hold, sir, for God’s sake—now your jest is earnest! Upon what bargain do you give it me? |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Because that I familiarly sometimes Do use you for my [[Fool|fool]], and chat with you, Your sauciness will jest upon my [[Love|love]], And make a common of my serious hours. When the sun shines, let foolish gnats make sport, But creep in crannies when he hides his beams. If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | ‘Sconce’ call you it? So you would leave battering, I had rather have it a head. An you use these blows long, I must get a sconce for my head, and ensconce it too, or else I shall seek my wit in my shoulders. But I pray, sir, why am I beaten? |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Dost thou not know? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Nothing, sir, but that I am beaten. [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] Shall I tell you why? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Ay, sir, and wherefore; for they say every why hath a wherefore. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | ‘Why’ first: for flouting me; and then ‘wherefore’: For urging it the second [[Time|time]] to me. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Was there ever any man thus beaten out of season, When in the why and the wherefore is neither rhyme nor reason?— [[Well]], sir, I thank you. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Thank me, sir, for what? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Marry, sir, for this something that you gave me for nothing. 51 |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I’ll make you amends next, to give you nothing for something. But say, sir, is it dinner-[[Time|time]]? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | No, sir, I think the meat wants that I have. 56 |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--02_exchange_antipholus_of_syracuse" data-title="The Comedy of Errors — Act II, Scene 2 — exchange (ANTIPHOLUS OF SYRACUSE) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | In good [[Time|time]], sir. What’s that? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Basting. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | [[Well]], sir, then ’twill be dry. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | If it be, sir, I pray you eat none of it. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Your reason? 61 |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Lest it make you choleric and purchase me another dry basting. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | [[Well]], sir, learn to jest in good [[Time|time]]. There’s a [[Time|time]] for all things. 65 |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I durst have denied that before you were so choleric. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | By what rule, sir? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Marry, sir, by a rule as plain as the plain bald pate of Father [[Time]] himself. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Let’s hear it. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | There’s no [[Time|time]] for a man to recover his hair that grows bald by [[Nature|nature]]. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | May he not do it by fine and recovery? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Yes, to pay a fine for a periwig, and recover the lost hair of another man. |
+| ANTIPHOLUS | or SYRACUSE Why is [[Time]] such a niggard of hair, being, as it is, so plentiful an excrement? |
+| DROMIO | or SYRACUSE Because it is a blessing that he bestows on beasts, and what he hath scanted men in hair he hath given them in wit. 82 |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Why, but there’s many a man hath more hair than wit. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Not a man of those but he hath the wit to lose his hair. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Why, thou didst conclude hairy men plain dealers, without wit. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | The plainer dealer, the sooner lost. Yet he loseth it in a kind of jollity. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | For what reason? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | For two, and sound ones too. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Nay, not sound, I pray you. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Sure ones, then. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Nay, not sure, in a thing falsing. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Certain ones, then. 96 |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Name them. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | The one, to save the money that he spends in tiring; the other, that at dinner they should not drop in his porridge. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | You would all this [[Time|time]] have proved there is no [[Time|time]] for all things. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Marry, and did, sir: namely, e’en no [[Time|time]] to recover hair lost by [[Nature|nature]]. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | But your reason was not substantial, why there is no [[Time|time]] to recover. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Thus I mend it: [[Time]] himself is bald, and therefore to the world’s end will have bald followers. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I knew ’twould be a bald conclusion. Enter from the Phoenix [[Adriana]] and [[Luciana]] But soft—who wafts us yonder? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--03_monologue_adriana" data-title="The Comedy of Errors — Act II, Scene 2 — monologue (ADRIANA) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Adriana|ADRIANA]] | Ay, ay, Antipholus, look strange and frown: Some other mistress hath thy sweet aspects. I am not [[Adriana]], nor thy wife. The [[Time|time]] was once when thou unurged wouldst vow That never words were music to thine ear, That never object pleasing in thine eye, That never touch [[Well|well]] welcome to thy hand, That never meat sweet-savoured in thy taste, Unless I spake, or looked, or touched, or carved to thee. How comes it now, my husband, O how comes it That thou art then estranged from thysetf?— Thy ‘[[Self|self]]’ I call it, being strange to me That, undividable, incorporate, Am better than thy dear [[Self|self]]’s better part. Ah, do not tear away thyself from me; For know, my [[Love|love]], as easy mayst thou fall A drop of [[Water|water]] in the breaking gulf, And take unmingled thence that drop again Without addition or diminishing, As take from me thyself, and not me too. How dearly would it touch thee to the quick Shouldst thou but hear I were licentious, And that this [[Body|body]], consecrate to thee, By ruffian lust should be contaminate? Wouldst thou not spit at me, and spurn at me, And hurl the name of husband in my face, And tear the stained skin off my harlot brow, And from my false hand cut the wedding ring, And break it with a deep-divorcing vow? I know thou canst, and therefore see thou do it! I am possessed with an adulterate blot; My [[Blood|blood]] is mingled with the crime of lust. For if we two be one, and thou play false, I do digest the [[Poison|poison]] of thy flesh, Being strumpeted by thy contagion. Keep then fair league and truce with thy true bed, I live unstained, thou undishonourèd. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--04_exchange_antipholus_of_syracuse" data-title="The Comedy of Errors — Act II, Scene 2 — exchange (ANTIPHOLUS OF SYRACUSE) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Plead you to me, fair dame? I know you not. In Ephesus I am but two hours old, As strange unto your town as to your talk, Who, every word by all my wit being scanned, Wants wit in all one word to understand. |
+| [[Luciana|LUCIANA]] | Fie, brother, how the world is changed with you! When were you wont to use my sister thus? She sent for you by Dromio [[Home|home]] to dinner. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | By Dromio? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | By me? |
+| [[Adriana|ADRIANA]] | By thee; and this thou didst return from him— That he did buffet thee, and in his blows Denied my [[house]] for his, me for his wife. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Did you converse, sir, with this gentlewoman? What is the course and drift of your compact? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I, sir? I never saw her till this [[Time|time]]. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | [[Villain]], thou liest; for even her very words Didst thou deliver to me on the mart. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I never spake with her in all my life. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | How can she thus then call us by our names ?— Unless it be by inspiration. |
+| [[Adriana|ADRIANA]] | A How ill agrees it with your gravity To counterfeit thus grossly with your slave, Abetting him to thwart me in my mood ! Be it my wrong you are from me exempt, But wrong not that wrong with a more contempt. Come, I will fasten on this sleeve of thine. Thou art an elm, my husband; I a vine, Whose weakness, married to thy stronger state, Makes me with thy strength to communicate. If aught possess thee from me, it is dross, Usurping ivy, brier, or idle moss, Who, all for want of pruning, with intrusion Infect thy sap, and live on thy confusion. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | (aside) To me she speaks, she moves me for her theme. What, was I married to her in my dream? Or [[Sleep|sleep]] I now, and think I hear all this? What error drives our eyes and ears amiss? Until I know this sure uncertainty, I’ll entertain the offered fallacy. |
+| [[Luciana|LUCIANA]] | Dromio, go bid the servants spread for dinner. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (aside) O, for my beads! I [[Cross|cross]] me for a sinner. This is the fairy land. O spite of spites, We talk with goblins, oafs, and sprites. If we obey them not, this will ensue: They’ll suck our breath or pinch us black and blue. |
+| [[Luciana|LUCIANA]] | Why prat‘st thou to thyself, and answer’st not? Dromio, thou drone, thou snail, thou slug, thou sot. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (to Antipholus) I am transformed, master, am not I? |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I think thou art in mind, and so am I. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Nay, master, both in mind and in my shape. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Thou hast thine own form. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | No, I am an ape. |
+| [[Luciana|LUCIANA]] | If thou art changed to aught, ’tis to an ass. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | to Antipholus ’Tis true she rides me, and I long for grass. ’Tis so, I am an ass; else it could never be But I should know her as [[Well|well]] as she knows me. |
+| [[Adriana|ADRIANA]] | Come, come, no longer will I be a [[Fool|fool]], To put the finger in the eye and weep Whilst man and master laughs my woes to scorn. (To Antipholus) Come, sir, to dinner.—Dromio, keep the gate.— Husband, I’ll dine above with you today, And shrive you of a thousand idle pranks.— Sirrah, if any ask you for your master, Say he dines forth, and let no creature enter.— Come, sister.—Dromio, play the porter [[Well|well]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--05_exchange_antipholus_of_syracuse" data-title="The Comedy of Errors — Act II, Scene 2 — exchange (ANTIPHOLUS OF SYRACUSE) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | (aside) Am I in earth, in heaven, or in hell? Sleeping or waking? Mad or [[Well|well]] advised? Known unto these, and to myself disguised! I’ll say as they say, and persever so, And in this mist at all adventures go. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Master, shall I be porter at the gate ? |
+| [[Adriana|ADRIANA]] | Ay, and let none enter, lest I break your pate. |
+| [[Luciana|LUCIANA]] | Come, come, Antipholus, we dine too late. Exeunt into the Phoenix |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="The Comedy of Errors — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Antipholus of Ephesus]], his man Dromio, [[Angelo]] the goldsmith, and Balthasar the merchant |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Good Signor [[Angelo]], you must excuse us all. My wife is shrewish when I keep not hours. Say that I lingered with you at your shop To see the making of her carcanet, And that tomorrow you will bring it [[Home|home]].— But here’s a [[Villain|villain]] that would face me down He met me on the mart, and that I beat him, And charged him with a thousand marks in gold, And that I did deny my wife and [[house]]. Thou drunkard, thou, what didst thou mean by this? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Say what you will, sir, but I know what I know—II That you beat me at the mart I have your hand to show. If the skin were parchment, and the blows you gave were ink, Your own handwriting would tell you what I think. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | I think thou art an ass. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Marry, so it doth appear By the wrongs I suffer and the blows I bear. I should kick being kicked, and, being at that pass, You would keep from my heels, and beware of an ass. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | You’re sad, Signor Balthasar. Pray God our cheer May answer my good will, and your good welcome here. |
+| BALTHASAR | I hold your dainties cheap, sir, and your welcome dear. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | O, Signor Balthasar, either at flesh or fish A table full of welcome makes scarce one dainty dish. |
+| BALTHASAR | Good meat, sir, is common; that every churl affords. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | And welcome more common, for that’s nothing but words. |
+| BALTHASAR | Small cheer and great welcome makes a merry feast. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Ay, to a niggardly host and more sparing guest. But though my cates be mean, take them in good part. Better cheer may you have, but not with better heart. But soft, my door is locked. (To Dromio) Go bid them let us in. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | (calling) Maud, Bridget, Marian, Cicely, Gillian, Ginn! Enter [[Dromio of Syracuse]] within the Phoenix |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) Mome, malt-[[Horse|horse]], capon, coxcomb, idiot, patch! Either get thee from the door or sit down at the hatch. Dost thou conjure for wenches, that thou call’st for such store When one is one too many? Go, get thee from the door. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | What patch is made our porter? My master stays in the street. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within) Let him walk from whence he came, lest he catch cold on’s feet. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Who talks within there ? Ho, open the door! |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) Right, sir, I’ll tell you when, an you’ll tell me wherefore. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Wherefore? For my dinner—I have not dined today. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) Nor today here you must not. Come again when you may. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | What art thou that keep’st me out from the [[house]] I owe? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) The porter for this [[Time|time]], sir, and my name is Dromio. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--02_exchange_dromio_of_ephesus" data-title="The Comedy of Errors — Act III, Scene 1 — exchange (DROMIO OF EPHESUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | O [[Villain|villain]], thou hast stol’n both mine office and my name. The one ne’er got me credit, the other mickle blame. If thou hadst been Dromio today in my place, Thou wouldst have changed thy pate for an aim, or thy name for an ass. Enter Nell within the Phoenix |
+| NELL | (within the Phoenix) What a coil is there, Dromio? Who are those at the gate? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Let my master in, Nell. |
+| NELL | (within the Phoenix) [[Faith]] no, he comes too late; And so tell your master. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | O Lord, I must laugh. Have at you with a proverb: ‘Shall I set in my staff?’ |
+| NELL | (within the Phoenix) Have at you with another—that’s ‘When ? Can you tell?’ |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) If thy name be called Nell, Nell, thou hast answered him [[Well|well]]. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to Nell) Do you hear, you minion ? You’ll let us in, I [[Hope|hope]] ? |
+| NELL | (within the Phoenix) I thought to have asked you. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within) And you said no. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | So, come help. He and Antipholus beat the door [[Well]] struck! There was blow for blow. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to Nell) Thou baggage, let me in. |
+| NELL | (within the Phoenix) Can you tell for whose sake? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Master, knock the door hard. |
+| NELL | (within the Phoenix) Let him knock till it ache. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | You’ll cry for this, minion, if I beat the door down. |
+| NELL | (within the Phoenix) What needs all that, and a pair of stocks in the town? Enter [[Adriana]] within the Phoenix |
+| [[Adriana|ADRIANA]] | (within the Phoenix) Who is that at the door that keeps all this noise? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) By my troth, your town is troubled with unruly boys. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to [[Adriana]]) Are you there, wife ? You might have come before. |
+| [[Adriana|ADRIANA]] | (within the Phoenix) Your wife, sir knave? Go, get you from the door. Exit with Nell |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | (to Antipholus) If you went in [[Pain|pain]], master, this knave would go sore. |
+| [[Angelo|ANGELO]] | (to Antipholus) Here is neither cheer, sir, nor welcome; we would fain have either. |
+| BALTHASAR | In debating which was best, we shall part with neither. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | (to Antipholus) They stand at the door, master. Bid them welcome hither. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | There is something in the [[Wind|wind]], that we cannot get in. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | You would say so, master, if your garments were thin. Your cake here is warm within: you stand here in the cold. It would make a man mad as a buck to be so bought and sold. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Go fetch me something. I’ll break ope the gate. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) Break any breaking here, and I’ll break your knave’s pate. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | A man may break a word with you, sir, and words are but [[Wind|wind]]; Ay, and break it in your face, so he break it not behind. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) It seems thou want’st breaking. Out upon thee, hind! |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Here’s too much ‘Out upon thee!’ I pray thee, let me in. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--03_exchange_dromio" data-title="The Comedy of Errors — Act III, Scene 1 — exchange (DROMIO) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| DROMIO | or SYRACUSE (within the Phoenix) Ay, when fowls have no feathers, and fish have no fin. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | [[Well]], I’ll break in.—Go borrow me a crow. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | A crow without feather? Master, mean you so? For a fish without a fin, there’s a fowl without a feather. (To [[Dromio of Syracuse]]) If a crow help us in, sirrah, we’ll pluck a crow together. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Go, get thee gone. Fetch me an iron crow. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--04_monologue_balthasar" data-title="The Comedy of Errors — Act III, Scene 1 — monologue (BALTHASAR) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| BALTHASAR | Have patience, sir. O, let it not be so! Herein you war against your reputation, And draw within the compass of suspect Th’unviolated [[Honour|honour]] of your wife. Once this: your long experience of her wisdom, Her sober virtue, years, and modesty, Plead on her part some cause to you unknown; And [[Doubt|doubt]] not, sir, but she will [[Well|well]] excuse Why at this [[Time|time]] the doors are made against you. Be ruled by me. Depart in patience, And let us to the Tiger all to dinner, And about evening come yourself [[Alone|alone]] To know the reason of this strange restraint. If by strong hand you offer to break in Now in the stirring passage of the day, A vulgar comment will be made of it, And that supposed by the common rout Against your yet ungallèd estimation, That may with foul intrusion enter in And dwell upon your [[Grave|grave]] when you are dead. For slander lives upon succession, For ever housed where once it gets possession. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--05_exchange_antipholus_of_ephesus" data-title="The Comedy of Errors — Act III, Scene 1 — exchange (ANTIPHOLUS OF EPHESUS) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | You have prevailed. I will depart in quiet, And in despite of mirth mean to be merry. I know a wench of excellent discourse, Pretty and witty; wild, and yet, too, gentle. There will we dine. This woman that I mean, My wife—but, I protest, without [[Desert|desert]]— Hath oftentimes upbraided me withal. To her will we to dinner. (To [[Angelo]]) Get you [[Home|home]] And fetch the chain. By this, I know, ’tis made. Bring it, I pray you, to the Porcupine, For there’s the [[house]]. That chain will I bestow— Be it for nothing but to spite my wife— Upon mine hostess there. Good sir, make haste: Since mine own doors refuse to entertain me, I’ll knock elsewhere, to see if they’ll disdain me. |
+| [[Angelo|ANGELO]] | I’ll meet you at that place some hour hence. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Do so. Exit [[Angelo]] This jest shall cost me some expense. Exeunt [[Dromio of Syracuse]] within the Phoenix, and the others into the Porcupine |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="The Comedy of Errors — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter from the Phoenix [[Luciana]] with [[Antipholus of Syracuse]] |
+| [[Luciana|LUCIANA]] | And may it be that you have quite forgot A husband’s office? Shall, Antipholus, Even in the [[Spring|spring]] of [[Love|love]] thy [[Love|love]]-springs rot? Shall [[Love|love]], in building, grow so ruinous? If you did wed my sister for her wealth, Then for her wealth’s sake use her with more kindness; Or if you like elsewhere, do it by stealth: Muffle your false [[Love|love]] with some show of blindness. Let not my sister read it in your eye. Be not thy tongue thy own shame’s orator. Look sweet, speak fair, become disloyalty; Apparel vice like virtue’s harbinger. Bear a fair presence, though your heart be tainted: Teach sin the carriage of a holy saint. Be secret-false. What need she be acquainted? What simple thief brags of his own attaint? ‘Tis [[Double|double]] wrong to truant with your bed, And let her read it in thy looks at board. Shame hath a bastard fame, [[Well|well]] managed; |
+| III | deeds is doubled with an evil word. Alas, poor women, make us but believe— Being compact of credit—that you [[Love|love]] us. Though others have the arm, show us the sleeve. We in your motion turn, and you may move us. Then, gentle brother, get you in again. Comfort my sister, cheer her, call her wife: ’Tis holy sport to be a little vain When the sweet breath of flattery conquers strife. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--02_monologue_antipholus_of_syracuse" data-title="The Comedy of Errors — Act III, Scene 2 — monologue (ANTIPHOLUS OF SYRACUSE) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Sweet mistress—what your name is else I know not, Nor by what [[Wonder|wonder]] you do hit of mine. Less in your knowledge and your grace you show not Than our earth’s [[Wonder|wonder]], more than earth divine. Teach me, dear creature, how to think and speak. Lay open to my earthy gross conceit, Smothered in errors, feeble, shallow, weak, The folded meaning of your words’ deceit. Against my [[Soul|soul]]’s pure [[Truth|truth]] why labour you To make it wander in an unknown field? Are you a god? Would you create me new? Transform me, then, and to your power I’ll yield. But if that I am I, then [[Well|well]] I know Your weeping sister is no wife of mine, Nor to her bed no homage do I owe. Far more, far more, to you do I decline. O, train me not, sweet [[Mermaid|mermaid]], with thy note To drown me in thy sister’s flood of [[Tears|tears]]. Sing, siren, for thyself, and I will dote. Spread o’er the silver waves thy golden hairs, And as a bed I’ll take them, and there lie, And in that glorious supposition think He gains by [[Death|death]] that hath such means to die. Let [[Love|love]], being light, be drowned if she sink. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--03_exchange_luciana" data-title="The Comedy of Errors — Act III, Scene 2 — exchange (LUCIANA) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Luciana|LUCIANA]] | What, are you mad, that you do reason so? |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Not mad, but mated—how, I do not know. |
+| [[Luciana|LUCIANA]] | It is a fault that springeth from your eye. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | For gazing on your beams, fair sun, being by. |
+| [[Luciana|LUCIANA]] | Gaze where you should, and that will clear your sight. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | As good to wink, sweet [[Love|love]], as look on [[Night|night]]. |
+| [[Luciana|LUCIANA]] | Why call you me ‘[[Love|love]]’ ? Call my sister so. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Thy sister’s sister. |
+| [[Luciana|LUCIANA]] | That’s my sister. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | No, It is thyself, mine own [[Self|self]]’s better part, Mine eye’s clear eye, my dear heart’s dearer heart, My food, my fortune, and my sweet [[Hope|hope]]’s aim, My sole earth’s heaven, and my heaven’s claim. |
+| [[Luciana|LUCIANA]] | All this my sister is, or else should be. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Call thyself sister, sweet, for I am thee. Thee will I [[Love|love]], and with thee lead my life. Thou hast no husband yet, nor I no wife. Give me thy hand. |
+| [[Luciana|LUCIANA]] | O soft, sir, hold you still; I’ll fetch my sister to get her good will. Exit into the Phoenix Enter from the Phoenix [[Dromio of Syracuse]] |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Why, how now, Dromiol Where runn’st thou so fast? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Do you know me, sir? Am I Dromio? Am I your man? Am I myself? |
+| ANTIPHOLUS | or SYRACUSE Thou art Dromio, thou art my man, thou art thyself. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I am an ass, I am a woman’s man, and besides myself. |
+| ANTIPHOLUS | or SYRACUSE What woman’s man? And how besides thyself? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Marry, sir, besides myself I am due to a woman: one that claims me, one that haunts me, one that will have me. |
+| ANTIPHOLUS | or SYRACUSE What claim lays she to thee? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Marry, sir, such claim as you would lay to your [[Horse|horse]]; and she would have me as a beast—not that, I being a beast, she would have me, but that she, being a very beastly creature, lays claim to me. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | What is she? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | A very reverend [[Body|body]]; ay, such a one as a man may not speak of without he say ‘sir-reverence’. I have but lean luck in the match, and yet is she a wondrous fat [[Marriage|marriage]]. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | How dost thou mean, a fat [[Marriage|marriage]]? 95 5 |
+| DROMIO | or SYRACUSE Marry, sir, she’s the kitchen wench, and all grease; and I know not what use to put her to but to make a lamp of her, and run from her by her own light. I warrant her rags and the tallow in them will burn a Poland [[Winter|winter]]. If she lives till doomsday, she’ll burn a week longer than the whole world. |
+| ANTIPHOLUS | or SYRACUSE What complexion is she of? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Swart like my shoe, but her face nothing like so clean kept. For why?—She sweats a man may go overshoes in the grime of it. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | That’s a fault that [[Water|water]] will mend. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | No, sir, ’tis in grain. Noah’s flood could not do it. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | What’s her name? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Nell, sir. But her name and three-quarters—that’s an ell and three-quarters—will not measure her from hip to hip. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--04_exchange_antipholus_of_syracuse" data-title="The Comedy of Errors — Act III, Scene 2 — exchange (ANTIPHOLUS OF SYRACUSE) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Then she bears some breadth? |
+| DROMIO | or SYRACUSE No longer from head to foot than from hip to hip. She is spherical, like a globe. I could find out countries in her. |
+| ANTIPHOLUS | or SYRACUSE In what part of her [[Body|body]] stands Ireland? |
+| DROMIO | or SYRACUSE Marry, sir, in her buttocks. I found it out by the bogs. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where Scotland? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I found it by the barrenness, hard in the palm of her hand. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where France? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | In her forehead, armed and reverted, making war against her heir. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where England? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I looked for the chalky cliffs, but I could find no whiteness in them. But I guess it stood in her chin, by the salt rheum that ran between France and it. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where Spain? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | [[Faith]], I saw it not, but I felt it hot in her breath. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where [[America]], the Indies? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | O, sir, upon her nose, all o’er embellished with rubies, carbuncles, sapphires, declining their rich aspect to the hot breath of Spain, who sent whole armadas of carracks to be ballast at her nose. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where stood Belgia, the Netherlands? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | O, sir, I did not look so low. To conclude, this drudge or diviner laid claim to me, called me Dromio, swore I was assured to her, told me what privy marks I had about me—as the mark of my shoulder, the mole in my neck, the great wart on my left arm—that I, amazed, ran from her as a [[Witch|witch]]. And I think if my breast had not been made of [[Faith|faith]], and my heart of steel, she had transformed me to a curtal dog, and made me turn i’th’ [[Wheel|wheel]]. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Go, hie thee presently. Post to the [[Road|road]]. An if the [[Wind|wind]] blow any way from shore, I will not harbour in this town tonight. If any barque put forth, come to the mart, Where I will walk till thou return to me. If everyone knows us, and we know none, ’Tis [[Time|time]], I think, to trudge, pack, and be gone. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | As from a bear a man would run for life, So fly I from her that would be my wife. Exit to the bay |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | There’s none but witches do inhabit here, And therefore ’tis high [[Time|time]] that I were hence. She that doth call me husband, even my [[Soul|soul]] Doth for a wife abhor. But her fair sister, Possessed with such a gentle sovereign grace, Of such enchanting presence and discourse, Hath almost made me traitor to myself. But lest myself be guilty to [[Self|self]]-wrong, I’ll stop mine ears against the [[Mermaid|mermaid]]’s [[Song|song]]. Enter [[Angelo]] with the chain |
+| [[Angelo|ANGELO]] | Master Antipholus. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Ay, that’s my name. |
+| [[Angelo|ANGELO]] | I know it [[Well|well]], sir. Lo, here’s the chain. I thought to have ta’en you at the Porcupine. The chain unfinished made me stay thus long. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | (taking the chain) What is your will that I shall do with this? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--05_exchange_angelo" data-title="The Comedy of Errors — Act III, Scene 2 — exchange (ANGELO) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Angelo|ANGELO]] | What please yourself, sir. I have made it for you. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Made it for me, sir? I bespoke it not. |
+| [[Angelo|ANGELO]] | Not once, nor twice, but twenty times you have. Go [[Home|home]] with it, and please your wife withal, And soon at supper-[[Time|time]] I’ll visit you, And then receive my money for the chain. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I pray you, sir, receive the money now, For [[Fear|fear]] you ne’er see chain nor money more. |
+| [[Angelo|ANGELO]] | You are a merry man, sir. Fare you [[Well|well]]. Exit |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | What I should think of this I cannot tell. But this I think: there’s no man is so vain That would refuse so fair an offered chain. I see a man here needs not live by shifts, When in the streets he meets such golden gifts. I’ll to the mart, and there for Dromio stay. If any [[Ship|ship]] put out, then straight away! Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--01_exchange_dialogue" data-title="The Comedy of Errors — Act IV, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Antipholus of Ephesus]] with the Officer |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | [[Fear]] me not, man, I will not break away. I’ll give thee ere I leave thee so much money To warrant thee as I am ‘rested for. My wife is in a wayward mood today, And will not lightly trust the messenger That I should be attached in Ephesus. I tell you ’twill sound harshly in her ears. Enter [[Dromio of Ephesus]] with a rope’s end Here comes my man. I think he brings the money.— How now, sir? Have you that I sent you for? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Here’s that, I warrant you, will pay them all. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | But where’s the money? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Why, sir, I gave the money for the rope. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Five hundred ducats, [[Villain|villain]], for a rope? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | I’ll serve you, sir, five hundred at the rate. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | To what end did I bid thee hie thee [[Home|home]]? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | To a rope’s end, sir, and to that end am I returned. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | And to that end, sir, I will welcome you. He beats Dromio |
+| OFFICER | Good sir, be patient. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Nay, ’tis for me to be patient: I am in adversity. 21 |
+| OFFICER | Good now, hold thy tongue. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Nay, rather persuade him to hold his hands. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Thou whoreson, senseless [[Villain|villain]]! |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | I would I were senseless, sir, that I might not feel your blows. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Thou art sensible in nothing but blows, and so is an ass. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | I am an ass indeed. You may prove it by my long ears.—I have served him from the hour of my nativity to this instant, and have nothing at his hands for my service but blows. When I am cold, he heats me with beating. When I am warm, he cools me with beating. I am waked with it when I [[Sleep|sleep]], raised with it when I sit, driven out of doors with it when I go from [[Home|home]], welcomed [[Home|home]] with it when I return. Nay, I bear it on my shoulders, as a beggar wont her brat, and I think when he hath lamed me I shall beg with it from door to door. Enter [[Adriana]], [[Luciana]], Courtesan, and a schoolmaster called Pinch |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Come, go along: my wife is coming yonder. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | (to [[Adriana]]) Mistress, respice finem respect your end—or rather, to prophesy like the parrot, ‘Beware the rope’s end’. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Wilt thou still talk? He beats Dromio |
+| COURTESAN | (to [[Adriana]]) How say you now ? Is not your husband mad? |
+| [[Adriana|ADRIANA]] | His incivility confirms no less.— Good Doctor Pinch, you are a conjurer. Establish him in his true sense again, And I will please you what you will demand. |
+| [[Luciana|LUCIANA]] | Alas, how fiery and how sharp he looks! |
+| COURTESAN | Mark how he trembles in his ecstasy. |
+| PINCH | (to Antipholus) Give me your hand, and let me feel your pulse. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | There is my hand, and let it feel your ear. He strikes Pinch |
+| PINCH | I charge thee, [[Satan]], housed within this man, To yield possession to my holy prayers, And to thy state of darkness hie thee straight: I conjure thee by all the saints in heaven. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--02_exchange_antipholus_of_ephesus" data-title="The Comedy of Errors — Act IV, Scene 4 — exchange (ANTIPHOLUS OF EPHESUS) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Peace, doting wizard, peace! I am not mad. |
+| [[Adriana|ADRIANA]] | O that thou wert not, poor distressed [[Soul|soul]]. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | You minion, you, are these your customers? Did this companion with the saffron face Revel and feast it at my [[house]] today, Whilst upon me the guilty doors were shut, And I denied to enter in my [[house]]? |
+| [[Adriana|ADRIANA]] | O husband, God doth know you dined at [[Home|home]], Where would you had remained until this [[Time|time]], Free from these slanders and this open shame. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Dined at [[Home|home]]? (To Dromio) Thou [[Villain|villain]], what sayst thou? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Sir, sooth to say, you did not dine at [[Home|home]]. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Were not my doors locked up, and I shut out? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Pardie, your doors were locked, and you shut out. |
+| ANTIPHOLIIS OF EPHESUS | And did not she herself revile me there? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Sans [[Fable|fable]], she herself reviled you there. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Did not her kitchen-maid rail, taunt, and scorn me? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Certes she did. The kitchen vestal scorned you. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | And did not I in rage depart from thence? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | In verity you did. My bones bears witness, That since have felt the vigour of his rage. |
+| [[Adriana|ADRIANA]] | (aside to Pinch) Is’t good to soothe him in these contraries? |
+| PINCH | (aside to [[Adriana]]) It is no shame. The fellow finds his vein, And, yielding to him, humours [[Well|well]] his frenzy. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to [[Adriana]]) Thou hast suborned the goldsmith to arrest me. |
+| [[Adriana|ADRIANA]] | Alas, I sent you money to redeem you, By Dromio here, who came in haste for it. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Money by me ? Heart and good will you might, But surely, master, not a rag of money. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Went’st not thou to her for a purse of ducats? |
+| [[Adriana|ADRIANA]] | He came to me, and I delivered it. |
+| [[Luciana|LUCIANA]] | And I am witness with her that she did. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | God and the ropemaker bear me witness That I was sent for nothing but a rope. |
+| PINCH | (aside to [[Adriana]]) Mistress, both man and master is possessed. I know it by their pale and deadly looks. They must be bound and laid in some dark room. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to [[Adriana]]) Say wherefore didst thou lock me forth today, (To Dromio) And why dost thou deny the bag of gold? |
+| [[Adriana|ADRIANA]] | I did not, gentle husband, lock thee forth. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | And, gentle master, I received no gold. But I confess, sir, that we were locked out. |
+| [[Adriana|ADRIANA]] | Dissembling [[Villain|villain]], thou speak’st false in both. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Dissembling harlot, thou art false in all, And art confederate with a damned pack To make a loathsome abject scorn of me. But with these nails I’ll pluck out those false eyes, That would behold in me this shameful sport. He reaches for [[Adriana]] ; she shrieks. Enter three or four, and offer to bind him. He strives |
+| [[Adriana|ADRIANA]] | O, bind him, bind him. Let him not come near me. |
+| PINCH | More company! The fiend is strong within him. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--03_exchange_luciana" data-title="The Comedy of Errors — Act IV, Scene 4 — exchange (LUCIANA) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Luciana|LUCIANA]] | Ay me, poor man, how pale and wan he looks. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | What, will you murder me?—Thou, jailer, thou, I am thy prisoner. Wilt thou suffer them To make a rescue? |
+| OFFICER | Masters, let him go. He is my prisoner, and you shall not have him. |
+| PINCH | Go, bind his man, for he is frantic too. They bind Dromio |
+| [[Adriana|ADRIANA]] | What wilt thou do, thou peevish officer? Hast thou delight to see a wretched man Do outrage and displeasure to himself? |
+| OFFICER | He is my prisoner. If I let him go, The debt he owes will be required of me. |
+| [[Adriana|ADRIANA]] | I will discharge thee ere I go from thee. Bear me forthwith unto his creditor, And, knowing how the debt grows, I will pay it.— Good Master Doctor, see him safe conveyed [[Home]] to my [[house]]. O most unhappy day! |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | O most unhappy strumpet! |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Master, I am here entered in bond for you. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Out on thee, [[Villain|villain]]! Wherefore dost thou mad me? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Will you be bound for nothing? Be mad, good master— Cry, ‘The devil!’ |
+| [[Luciana|LUCIANA]] | God help, poor souls, how idly do they talk! |
+| [[Adriana|ADRIANA]] | Go bear him hence. Sister, go you with me. Exeunt into the Phoenix, Pinch and others carrying off [[Antipholus of Ephesus]] and [[Dromio of Ephesus]]. The Officer, [[Adriana]], [[Luciana]], and the Courtesan remain (To the Officer) Say now, whose suit is he arrested at? |
+| OFFICER | One [[Angelo]], a goldsmith. Do you know him? |
+| [[Adriana|ADRIANA]] | I know the man. What is the sum he owes? |
+| OFFICER | Two hundred ducats. |
+| [[Adriana|ADRIANA]] | Say, how grows it due? |
+| OFFICER | Due for a chain your husband had of him. |
+| [[Adriana|ADRIANA]] | He did bespeak a chain for me, but had it not. |
+| COURTESAN | Whenas your husband all in rage today Came to my [[house]], and took away my ring— The ring I saw upon his finger now— Straight after did I meet him with a chain. |
+| [[Adriana|ADRIANA]] | It may be so, but I did never see it. Come, jailer, bring me where the goldsmith is. I long to know the [[Truth|truth]] hereof at large. Enter [[Antipholus of Syracuse]] (wearing the chain) and [[Dromio of Syracuse]] with their rapiers drawn |
+| [[Luciana|LUCIANA]] | God, for thy [[Mercy|mercy]], they are loose again! |
+| [[Adriana|ADRIANA]] | And come with naked swords. Let’s call more help To have them bound again. |
+| OFFICER | Away, they’ll kill us! All but Antipholus and Dromio run out, as fast as may be, frighted |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I see these witches are afraid of swords. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | She that would be your wife now ran from you. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Come to the Centaur. Fetch our stuff from thence. I long that we were safe and sound aboard. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | [[Faith]], stay here this [[Night|night]]. They will surely do us no harm. You saw they speak us fair, give us gold. Methinks they are such a gentle nation that, but for the mountain of mad flesh that claims [[Marriage|marriage]] of me, I could find in my heart to stay here still, and turn [[Witch|witch]]. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I will not stay tonight for all the town. Therefore away, to get our stuff aboard. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Second Merchant and [[Angelo]] the goldsmith |
+| [[Angelo|ANGELO]] | I am sorry, sir, that I have hindered you, But I protest he had the chain of me, Though most dishonestly he doth deny it. |
+| SECOND MERCHANT | How is the man esteemed here in the [[City|city]]? |
+| [[Angelo|ANGELO]] | Of very reverend reputation, sir, Of credit infinite, highly beloved, Second to none that lives here in the [[City|city]]. His word might bear my wealth at any [[Time|time]]. |
+| SECOND MERCHANT | Speak softly. Yonder, as I think, he walks. Enter [[Antipholus of Syracuse]], wearing the chain, and [[Dromio of Syracuse]] again |
+| [[Angelo|ANGELO]] | ‘Tis so, and that [[Self|self]] chain about his neck Which he forswore most monstrously to have. Good sir, draw near to me. I’ll speak to him.— Signor Antipholus, I [[Wonder|wonder]] much That you would put me to this shame and trouble, And not without some scandal to yourself, With circumstance and oaths so to deny This chain, which now you wear so openly. Beside the charge, the shame, [[Imprisonment|imprisonment]], You have done wrong to this my honest friend, Who, but for staying on our controversy, Had hoisted sail and put to sea today. This chain you had of me. Can you deny it? |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I think I had. I never did deny it. |
+| SECOND MERCHANT | Yes, that you did, sir, and forswore it too. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Who heard me to deny it or forswear it? |
+| SECOND MERCHANT | These ears of mine, thou know‘st, did hear thee. Fie on thee, wretch! ’Tis pity that thou liv’st To walk where any honest men resort. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Thou art a [[Villain|villain]] to impeach me thus. I’ll prove mine [[Honour|honour]] and mine honesty Against thee presently, if thou dar’st stand. |
+| SECOND MERCHANT | I dare, and do defy thee for a [[Villain|villain]]. They draw. Enter [[Adriana]], [[Luciana]], Courtesan, and others from the Phoenix |
+| [[Adriana|ADRIANA]] | Hold, hurt him not, for God’s sake; he is mad. Some get within him, take his [[Sword|sword]] away. Bind Dromio too, and bear them to my [[house]]. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Run, master, run! For God’s sake take a [[house]]. This is some priory—in, or we are spoiled. Exeunt [[Antipholus of Syracuse]] and [[Dromio of Syracuse]] to the priory Enter from the priory the Lady Abbess |
+| ABBESS | Be quiet, people. Wherefore throng you hither? |
+| [[Adriana|ADRIANA]] | To fetch my poor distracted husband hence. Let us come in, that we may bind him fast, And bear him [[Home|home]] for his recovery. |
+| [[Angelo|ANGELO]] | I knew he was not in his perfect wits. |
+| SECOND MERCHANT | I am sorry now that I did draw on him. |
+| ABBESS | How long hath this possession held the man? |
+| [[Adriana|ADRIANA]] | This week he hath been heavy, sour, sad, And much, much different from the man he was; But till this afternoon his passion Ne’er brake into extremity of rage. |
+| ABBESS | Hath he not lost much wealth by wreck at sea? Buried some dear friend?Hath not else his eye Strayed his affection in unlawful [[Love|love]]— A sin prevailing much in youthful men, Who give their eyes the liberty of gazing? Which of these sorrows is he subject to? |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--02_exchange_adriana" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (ADRIANA) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Adriana|ADRIANA]] | To none of these, except it be the last, Namely some [[Love|love]] that drew him oft from [[Home|home]]. |
+| ABBESS | You should for that have reprehended him. |
+| [[Adriana|ADRIANA]] | Why, so I did. |
+| ABBESS | Ay, but not rough enough. |
+| [[Adriana|ADRIANA]] | As roughly as my modesty would let me. |
+| ABBESS | Haply in private. |
+| [[Adriana|ADRIANA]] | And in assemblies too. |
+| ABBESS | Ay, but not enough. |
+| [[Adriana|ADRIANA]] | It was the copy of our conference. In bed he slept not for my urging it. At board he fed not for my urging it. [[Alone]], it was the subject of my theme. In company I often glancèd it. Still did I tell him it was vile and bad. |
+| ABBESS | And thereof came it that the man was mad. The venom clamours of a jealous woman Poisons more deadly than a mad dog’s tooth. It seems his sleeps were hindered by thy railing, And thereof comes it that his head is light. Thou sayst his meat was sauced with thy upbraidings. Unquiet meals make ill digestions. Thereof the raging [[Fire|fire]] offever bred, And what’s a fever but a fit of [[Madness|madness]]? Thou sayst his sports were hindered by thy brawls. Sweet recreation barred, what doth ensue But moody and dull [[Melancholy|melancholy]], Kinsman to grim and comfortless [[Despair|despair]], And at her heels a huge infectious troop Of pale distemperatures and foes to Life? In food, in sport, and life-preserving rest To be disturbed would mad or man or beast. The consequence is, then, thy jealous fits Hath scared thy husband from the use of wits. |
+| [[Luciana|LUCIANA]] | She never reprehended him but mildly When he demeaned himself rough, rude, and wildly. (To [[Adriana]]) Why bear you these rebukes, and answer not? |
+| [[Adriana|ADRIANA]] | She did betray me to my own reproof.— Good people, enter, and lay hold on him. |
+| ABBESS | No, not a creature enters in my [[house]]. |
+| [[Adriana|ADRIANA]] | Then let your servants bring my husband forth. |
+| ABBESS | Neither. He took this place for sanctuary, And it shall privilege him from your hands Till I have brought him to his wits again, Or lose my labour in essaying it. |
+| [[Adriana|ADRIANA]] | I will attend my husband, be his [[Nurse|nurse]], Diet his sickness, for it is my office, And will have no attorney but myself. And therefore let me have him [[Home|home]] with me. |
+| ABBESS | Be patient, for I will not let him stir Till I have used the approved means I have, With wholesome syrups, drugs, and holy prayers To make of him a formal man again. It is a branch and parcel of mine oath, A charitable duty of my order. Therefore depart, and leave him here with me. |
+| [[Adriana|ADRIANA]] | I will not hence, and leave my husband here; And ill it doth beseem your holiness To separate the husband and the wife. |
+| ABBESS | Be quiet and depart. Thou shalt not have him. Exit into the priory |
+| [[Luciana|LUCIANA]] | (to [[Adriana]]) Complain unto the Duke of this indignity. |
+| [[Adriana|ADRIANA]] | Come, go, I will fall prostrate at his feet, And never rise until my [[Tears|tears]] and prayers Have won his grace to come in person hither And take perforce my husband from the Abbess. |
+| SECOND MERCHANT | By this, I think, the dial point’s at five. Anon, I’m sure, the Duke himself in person Comes this way to the [[Melancholy|melancholy]] vale, The place of [[Death|death]] and sorry execution, Behind the ditches of the abbey here. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--03_exchange_angelo" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (ANGELO) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Angelo|ANGELO]] | Upon what cause? |
+| SECOND MERCHANT | To see a reverend Syracusian merchant, Who put unluckily into this bay Against the laws and statutes of this town, Beheaded publicly for his offence. |
+| [[Angelo|ANGELO]] | See where they come. We will behold his [[Death|death]]. |
+| [[Luciana|LUCIANA]] | Kneel to the Duke before he pass the abbey. Enter Solinus Duke of Ephesus, and [[Egeon]] the merchant of Syracuse, bareheaded, with the headsman and other officers |
+| DUKE | Yet once again proclaim it publicly: If any friend will pay the sum for him, He shall not die, so much we tender him. |
+| [[Adriana|ADRIANA]] | (kneeling) Justice, most sacred Duke, against the Abbess! |
+| DUKE | She is a virtuous and a reverend lady. It cannot be that she hath done thee wrong. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--04_monologue_adriana" data-title="The Comedy of Errors — Act V, Scene 1 — monologue (ADRIANA) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Adriana|ADRIANA]] | May it please your grace, Antipholus my husband, Who I made lord of me and all I had At your important letters—this ill day A most outrageous fit of [[Madness|madness]] took him, That desp’rately he hurried through the street, With him his bondman, all as mad as he, Doing displeasure to the citizens By rushing in their houses, bearing thence Rings, jewels, anything his rage did like. Once did I get him bound, and sent him [[Home|home]], Whilst to take order for the wrongs I went That here and there his fury had committed. Anon, I wot not by what strong escape, He broke from those that had the guard of him, And with his mad attendant and himself, Each one with ireful passion, with drawn swords, Met us again, and, madly bent on us, Chased us away; till, raising of more aid, We came again to bind them. Then they fled Into this abbey, whither we pursued them, And here the Abbess shuts the gates on us, And will not suffer us to fetch him out, Nor send him forth that we may bear him hence. Therefore, most gracious Duke, with thy command Let him be brought forth, and borne hence for help. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--05_exchange_duke" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (DUKE) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| DUKE | raising [[Adriana]] Long since, thy husband served me in my wars, And I to thee engaged a prince’s word, When thou didst make him master of thy bed, To do him all the grace and good I could.— Go, some of you, knock at the abbey gate, And bid the Lady Abbess come to me. I will determine this before I stir. Enter a Messenger from the Phoenix |
+| MESSENGER | (to [[Adriana]]) O mistress, mistress, shift and save yourself! My master and his man are both broke loose, Beaten the maids a-row, and bound the Doctor, Whose beard they have singed off with brands of [[Fire|fire]], And ever as it blazed they threw on him Great pails of puddled mire to quench the hair. My master preaches patience to him, and the while His man with scissors nicks him like a [[Fool|fool]]; And sure—unless you send some present help- Between them they will kill the conjurer. |
+| [[Adriana|ADRIANA]] | Peace, [[Fool|fool]]. Thy master and his man are here, And that is false thou dost report to us. |
+| MESSENGER | Mistress, upon my life I tell you true. I have not breathed almost since I did see it. He cries for you, and vows, if he can take you, To scorch your face and to disfigure you. Cry within Hark, hark, I hear him, mistress. Fly, be gone! |
+| DUKE | (to [[Adriana]]) Come stand by me. [[Fear]] nothing. Guard with halberds! Enter [[Antipholus of Ephesus]] and [[Dromio of Ephesus]] from the Phoenix |
+| [[Adriana|ADRIANA]] | Ay me, it is my husband! Witness you That he is borne about invisible. Even now we housed him in the abbey here, And now he’s there, past thought of human reason. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Justice, most gracious Duke, O grant me justice, Even for the service that long since I did thee, When I bestrid thee in the wars, and took Deep scars to save thy life; even for the [[Blood|blood]] That then I lost for thee, now grant me justice! |
+| [[Egeon|EGEON]] | (aside) Unless the [[Fear|fear]] of [[Death|death]] doth make me dote, I see my son Antipholus, and Dromio. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Justice, sweet prince, against that woman there, She whom thou gav’st to me to be my wife, That hath abused and dishonoured me Even in the strength and height of injury. Beyond [[Imagination|imagination]] is the wrong That she this day hath shameless thrown on me. |
+| DUKE | Discover how, and thou shalt find me just. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | This day, great Duke, she shut the doors upon me While she with harlots feasted in my [[house]]. |
+| DUKE | A grievous fautt!—Say, woman, didst thou so? |
+| [[Adriana|ADRIANA]] | No, my good lord. Myself, he, and my sister Today did dine together. So befall my [[Soul|soul]] As this is false he burdens me withal. |
+| [[Luciana|LUCIANA]] | Ne’er may I look on day nor [[Sleep|sleep]] on [[Night|night]] But she tells to your highness simple [[Truth|truth]]. |
+| [[Angelo|ANGELO]] | (aside) O perjured woman! They are both forsworn. In this the madman justly chargeth them. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--06_monologue_antipholus_of_ephesus" data-title="The Comedy of Errors — Act V, Scene 1 — monologue (ANTIPHOLUS OF EPHESUS) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | My liege, I am advised what I say, Neither disturbed with the effect of wine, Nor heady-rash provoked with raging ire, Albeit my wrongs might make one wiser mad. This woman locked me out this day from dinner. That goldsmith there, were he not packed with her, Could witness it, for he was with me then, Who parted with me to go fetch a chain, Promising to bring it to the Porcupine, Where Balthasar and I did dine together. Our dinner done, and he not coming thither, I went to seek him. In the street I met him, And in his company that gentleman. He points to the Second Merchant There did this perjured goldsmith swear me down That I this day of him received the chain, Which, God he knows, I saw not. For the which He did arrest me with an officer. I did obey, and sent my peasant [[Home|home]] For certain ducats. He with none returned. Then fairly I bespoke the officer To go in person with me to my [[house]]. By th’ way, we met my wife, her sister, and a rabble more Of vile confederates. Along with them They brought one Pinch, a hungry lean-faced [[Villain|villain]], A mere anatomy, a mountebank, A threadbare juggler, and a fortune-teller, A needy, hollow-eyed, sharp-looking wretch, A living dead man. This pernicious slave, Forsooth,took on him as a conjurer, And gazing in mine eyes, feeling my pulse, And with no face, as ’twere, outfacing me, Cries out I was possessed. Then all together They fell upon me, bound me, bore me thence, And in a dark and dankish vault at [[Home|home]] There left me and my man, both bound together, Till, gnawing with my teeth my bonds in sunder, I gained my [[Freedom|freedom]], and immediately Ran hither to your grace, whom I beseech To give me ample satisfaction For these deep shames and great indignities. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--07_exchange_angelo" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (ANGELO) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Angelo|ANGELO]] | My lord, in [[Truth|truth]], thus far I witness with him: That he dined not at [[Home|home]], but was locked out. |
+| DUKE | But had he such a chain of thee, or no? |
+| [[Angelo|ANGELO]] | He had, my lord, and when he ran in here These people saw the chain about his neck. |
+| SECOND MERCHANT | (to Antipholus) Besides, I will be sworn these ears of mine Heard you confess you had the chain of him, After you first forswore it on the mart, And thereupon I drew my [[Sword|sword]] on you; And then you fled into this abbey here, From whence I think you are come by miracle. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | I never came within these abbey walls, Nor ever didst thou draw thy [[Sword|sword]] on me. I never saw the chain, so help me heaven, And this is false you burden me withal. |
+| DUKE | Why, what an intricate impeach is this! I think you all have drunk of Circe’s cup. If here you housed him, here he would have been. If he were mad, he would not plead so coldly. (To [[Adriana]]) You say he dined at [[Home|home]], the goldsmith here Denies that saying. (To Dromio) Sirrah, what say you? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | (pointing out the Courtesan) Sir, he dined with her there, at the Porcupine. |
+| COURTESAN | He did, and from my finger snatched that ring. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | ’Tis true, my liege, this ring I had of her. |
+| DUKE | (to Courtesan) Saw’st thou him enter at the abbey here? |
+| COURTESAN | As sure, my liege, as I do see your grace. |
+| DUKE | Why, this is strange. Go call the Abbess hither. I think you are all mated, or stark mad. Exit one to the priory |
+| [[Egeon|EGEON]] | (coming forward) Most mighty Duke, vouchsafe me speak a word. Haply I see a friend will save my life, And pay the sum that may deliver me. |
+| DUKE | Speak freely, Syracusian, what thou wilt. |
+| [[Egeon|EGEON]] | (to Antipholus) Is not your name, sir, called Antipholus? And is not that your bondman Dromio? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Within this hour I was his bondman, sir, But he, I thank him, gnawed in two my cords. Now am I Dromio, and his man, unbound. |
+| [[Egeon|EGEON]] | I am sure you both of you remember me. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Ourselves we do remember, sir, by you; For lately we were bound as you are now. You are not Pinch’s patient, are you, sir? |
+| [[Egeon|EGEON]] | Why look you strange on me? You know me [[Well|well]]. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | I never saw you in my life till now. |
+| [[Egeon|EGEON]] | O, grief hath changed me since you saw me last, And careful hours with [[Time|time]]’s deformed hand Have written strange defeatures in my face. But tell me yet, dost thou not know my voice? |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Neither. |
+| [[Egeon|EGEON]] | Dromio, nor thou? |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | No, trust me sir, nor I. |
+| [[Egeon|EGEON]] | I am sure thou dost. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Ay, sir, but I am sure I do not, and whatsoever a man denies, you are now bound to believe him. |
+| [[Egeon|EGEON]] | Not know my voice ? O [[Time|time]]’s extremity, Hast thou so cracked and splitted my poor tongue In seven short years that here my only son Knows not my feeble key of untuned cares? Though now this grained face of mine be hid In sap-consuming [[Winter|winter]]’s drizzled [[Snow|snow]], And all the conduits of my [[Blood|blood]] froze up, Yet hath my [[Night|night]] of life some [[Memory|memory]], My wasting lamps some fading glimmer left, My dull deaf ears a little use to hear. All these old witnesses, I cannot err, Tell me thou art my son Antipholus. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--08_exchange_antipholus_of_ephesus" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (ANTIPHOLUS OF EPHESUS) [8]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | I never saw my father in my life. |
+| [[Egeon|EGEON]] | But seven years since, in Syracusa bay, Thou know‘st we parted. But perhaps, my son, Thou sham’st to acknowledge me in misery. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | The Duke, and all that know me in the [[City|city]], Can witness with me that it is not so. I ne’er saw Syracusa in my life. |
+| DUKE | (to [[Egeon]]) I tell thee, Syracusian, twenty years Have I been patron to Antipholus, During which [[Time|time]] he ne’er saw Syracusa. I see thy age and dangers make thee dote. Enter from the priory the Abbess, with [[Antipholus of Syracuse]], wearing the chain, and [[Dromio of Syracuse]] |
+| ABBESS | Most mighty Duke, behold a man much wronged. All gather to see them |
+| [[Adriana|ADRIANA]] | I see two husbands, or mine eyes deceive me. |
+| DUKE | One of these men is genius to the other: And so of these, which is the natural man, And which the spirit? Who deciphers them? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I, sir, am Dromio. Command him away. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | I, sir, am Dromio. Pray let me stay. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | [[Egeon]], art thou not? Or else his [[Ghost|ghost]]. |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | O, my old master, who hath bound him here? |
+| ABBESS | Whoever bound him, I will loose his bonds, And gain a husband by his liberty. Speak, old [[Egeon]], if thou beest the man That hadst a wife once called [[Emilia]], That bore thee at a burden two fair sons. O, if thou beest the same [[Egeon]], speak, And speak unto the same [[Emilia]]. |
+| DUKE | Why, here begins his morning story right: These two Antipholus’, these two so like, And these two Dromios, one in semblance— Besides his urging of her wreck at sea. These are the parents to these children, Which accidentally are met together. |
+| [[Egeon|EGEON]] | If I dream not, thou art [[Emilia]]. If thou art she, tell me, where is that son That floated with thee on the fatal raft? |
+| ABBESS | By men of Epidamnum he and I And the twin Dromio all were taken up. But, by and by, rude fishermen of Corinth By force took Dromio and my son from them, And me they left with those of Epidamnum. What then became of them I cannot tell; I, to this fortune that you see me in. |
+| DUKE | (to [[Antipholus of Syracuse]]) Antipholus, thou cam’st from Corinth first. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | No, sir, not I. I came from Syracuse. |
+| DUKE | Stay, stand apart. I know not which is which. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | I came from Corinth, my most gracious lord. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | And I with him. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Brought to this town by that most famous warrior, Duke Menaphon, your most renowned uncle. |
+| [[Adriana|ADRIANA]] | Which of you two did dine with me today? |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I, gentle mistress. |
+| [[Adriana|ADRIANA]] | And are not you my husband? |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | No, I say nay to that. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | And so do I. Yet did she call me so; And this fair gentlewoman, her sister here, Did call me brother. (To [[Luciana]]) What I told you then I [[Hope|hope]] I shall have leisure to make good, If this be not [[A Dream|a dream]] I see and hear. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--09_exchange_angelo" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (ANGELO) [9]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Angelo|ANGELO]] | That is the chain, sir, which you had of me. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I think it be, sir. I deny it not. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to [[Angelo]]) And you, sir, for this chain arrested me. |
+| [[Angelo|ANGELO]] | I think I did, sir. I deny it not. |
+| [[Adriana|ADRIANA]] | (to [[Antipholus of Ephesus]]) I sent you money, sir, to be your bail, By Dromio, but I think he brought it not. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | No, none by me. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | (to [[Adriana]]) This purse of ducats I received from you, And Dromio my man did bring them me. I see we still did meet each other’s man, And I was ta’en for him, and he for me, And thereupon these errors are arose. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | These ducats pawn I for my father here. |
+| DUKE | It shall not need. Thy father hath his life. |
+| COURTESAN | Sir, I must have that diamond from you. |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | There, take it, and much thanks for my good cheer. |
+| ABBESS | Renowned Duke, vouchsafe to take the pains To go with us into the abbey here, And hear at large discoursed all our fortunes, And all that are assembled in this place, That by this sympathized one day’s error Have suffered wrong. Go, keep us company, And we shall make full satisfaction. Thirty-three years have I but gone in travail Of you, my sons, and till this present hour My heavy burden ne’er delivered. The Duke, my husband, and my children both, And you the calendars of their nativity, Go to a gossips’ feast, and joy with me. After so long grief, such festivity! |
+| DUKE | With all my heart I’ll gossip at this feast. Exeunt into the priory all but the two Dromios and two brothers Antipholus |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (to [[Antipholus of Ephesus]]) Master, shall I fetch your stuff from shipboard? |
+| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Dromio, what stuff of mine hast thou embarked? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Your goods that lay at host, sir, in the Centaur. |
+| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | He speaks to me.—I am your master, Dromio. Come, go with us. We’ll look to that anon. Embrace thy brother there; rejoice with him. Exeunt the brothers Antipholus |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | There is a fat friend at your master’s [[house]], That kitchened me for you today at dinner. She now shall be my sister, not my wife. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Methinks you are my glass and not my brother. I see by you I am a sweet-faced youth. Will you walk in to see their gossiping? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Not I, sir, you are my elder. |
+| DROMIO | or EPHESUS That’s a question. How shall we try it? |
+| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | We’ll draw cuts for the senior. Till then, lead thou first. |
+| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Nay, then thus: We came into the world like brother and brother, And now let’s go hand in hand, not one before another. Exeunt to the priory |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--10_monologue_the" data-title="The Comedy of Errors — Act V, Scene 1 — monologue (THE) [10]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE | first, 1598 edition of [[Love]]’s Labour’s Lost is the earliest play text to carry Shakespeare’s name on the title-page, which also refers to performance before the [[Queen]] ‘this last Christmas’. The play is said to be ‘Newly corrected and augmented’, so perhaps an earlier edition has failed to survive. Even so, the text shows every sign of having been printed from Shakespeare’s working papers, since it includes some passages in draft as [[Well|well]] as in revised form. We print the drafts as Additional Passages. The play was probably written some years before publication, in 1594 or 1595. The setting is Navarre—a kingdom straddling the border between Spain and France—where the [[Young King|young King]] and three of his friends vow to devote the following three years to austere [[Self|self]]-improvement, forgoing the company of women. But they have forgotten the imminent arrival on a diplomatic mission of the [[Princess of France]] with, as it happens, three of her ladies; much [[Comedy|comedy]] derives from, first, the men’s embarrassed attempts to conceal from one another that they are falling in [[Love|love]], and second, the girls’ practical joke in exchanging identities when the men, disguised as Russians, come to entertain and to woo them. Shakespeare seems to have picked up the [[King]]’s friends’ names—Biron, [[Dumaine]], and [[Longueville]]—from leading figures in contemporary France, but to have invented the plot himself. He counterpoints the main action with events involving characters based in part on the type-figures of Italian commedia dell‘arte who reflect facets of the lords’ personalities. [[Costard]], an unsophisticated, open-hearted yokel, and his girl-friend Jaquenetta are sexually uninhibited; Don Adriano de Armado, ‘a refinèd traveller of Spain’ who also, though covertly, loves Jaquenetta, is full of pompous affectation; and Holofernes, a schoolmaster (seen always with his doting companion, the curate Sir Nathaniel), demonstrates the avid pedantry into which the young men’s verbal brilliance could degenerate. Much of the play’s language is highly sophisticated (this is, as the title-page claims, a ‘conceited [[Comedy|comedy]]’), in keeping with its subject matter. But the action reaches its climax when a messenger brings news which is communicated entirely without verbal statement. This is a theatrical masterstroke which also signals Shakespeare’s most daring experiment with comic form. ‘The scene begins to cloud’; in the play’s closing minutes the lords and ladies seek to readjust themselves to the new situation, and the play ends in subdued fashion with a third entertainment, the [[songs]] of the owl and the cuckoo. [[Love]]’s Labour’s Lost was for long regarded as a play of excessive verbal sophistication, of interest mainly because of a series of supposed topical allusions; but a number of distinguished twentieth-century productions revealed its theatrical mastery. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--11_exchange_the_persons_of_the_play" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [11]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY [[Ferdinand]], [[King|KING]] of Navarre Don Adriano de ARMADO, an affected Spanish braggart MOTE, his page |
+| PRINCESS | of France [[Costard|COSTARD]], a Clown JAQUENETTA, a country wench |
+| PRINCESS | Sir NATHANIEL, a curate HOLOFERNES, a schoolmaster Anthony DULL, a constable |
+| PRINCESS | MERCADE, a messenger |
+| *(didascalia)* | A |
+
+
 
 
 <span class="atom-split" data-atom="the_comedy_of_errors" data-title="THE COMEDY OF ERRORS" data-chapter="" data-kind="intro"></span>
@@ -791,788 +1573,6 @@ The [[Comedy]] of Errors
 | THE | first, 1598 edition of [[Love]]’s Labour’s Lost is the earliest play text to carry Shakespeare’s name on the title-page, which also refers to performance before the [[Queen]] ‘this last Christmas’. The play is said to be ‘Newly corrected and augmented’, so perhaps an earlier edition has failed to survive. Even so, the text shows every sign of having been printed from Shakespeare’s working papers, since it includes some passages in draft as [[Well|well]] as in revised form. We print the drafts as Additional Passages. The play was probably written some years before publication, in 1594 or 1595.<br>The setting is Navarre—a kingdom straddling the border between Spain and France—where the [[Young King|young King]] and three of his friends vow to devote the following three years to austere [[Self|self]]-improvement, forgoing the company of women. But they have forgotten the imminent arrival on a diplomatic mission of the [[Princess of France]] with, as it happens, three of her ladies; much [[Comedy|comedy]] derives from, first, the men’s embarrassed attempts to conceal from one another that they are falling in [[Love|love]], and second, the girls’ practical joke in exchanging identities when the men, disguised as Russians, come to entertain and to woo them. Shakespeare seems to have picked up the [[King]]’s friends’ names—Biron, [[Dumaine]], and [[Longueville]]—from leading figures in contemporary France, but to have invented the plot himself. He counterpoints the main action with events involving characters based in part on the type-figures of Italian commedia dell‘arte who reflect facets of the lords’ personalities. [[Costard]], an unsophisticated, open-hearted yokel, and his girl-friend Jaquenetta are sexually uninhibited; Don Adriano de Armado, ‘a refinèd traveller of Spain’ who also, though covertly, loves Jaquenetta, is full of pompous affectation; and Holofernes, a schoolmaster (seen always with his doting companion, the curate Sir Nathaniel), demonstrates the avid pedantry into which the young men’s verbal brilliance could degenerate. Much of the play’s language is highly sophisticated (this is, as the title-page claims, a ‘conceited [[Comedy|comedy]]’), in keeping with its subject matter. But the action reaches its climax when a messenger brings news which is communicated entirely without verbal statement. This is a theatrical masterstroke which also signals Shakespeare’s most daring experiment with comic form. ‘The scene begins to cloud’; in the play’s closing minutes the lords and ladies seek to readjust themselves to the new situation, and the play ends in subdued fashion with a third entertainment, the [[songs]] of the owl and the cuckoo.<br>[[Love]]’s Labour’s Lost was for long regarded as a play of excessive verbal sophistication, of interest mainly because of a series of supposed topical allusions; but a number of distinguished twentieth-century productions revealed its theatrical mastery. |
 | THE PERSONS OF THE | PLAY<br>[[Ferdinand]], [[King|KING]] of Navarre<br>Don Adriano de ARMADO, an affected Spanish braggart<br>MOTE, his page |
 | PRINCESS | of France<br>[[Costard|COSTARD]], a Clown<br>JAQUENETTA, a country wench<br><br>Sir NATHANIEL, a curate<br>HOLOFERNES, a schoolmaster<br>Anthony DULL, a constable<br><br>MERCADE, a messenger<br><br>A FORESTER |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="The Comedy of Errors — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Solinus, the Duke of Ephesus, with [[Egeon]] the Merchant of Syracuse, Jailer, and other attendants |
-| [[Egeon|EGEON]] | Proceed, Solinus, to procure my fall, And by the doom of [[Death|death]] end woes and all. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_monologue_duke" data-title="The Comedy of Errors — Act I, Scene 1 — monologue (DUKE) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| DUKE | Merchant of Syracusa, plead no more. I am not partial to infringe our laws. The enmity and discord which of late Sprung from the rancorous outrage of your Duke To merchants, our [[Well|well]]-dealing countrymen, Who, wanting guilders to redeem their lives, Have sealed his rigorous statutes with their bloods, Excludes all pity from our threat‘ning looks. For since the mortal and intestine jars ’Twixt thy seditious countrymen and us, It hath in solemn synods been decreed, Both by the Syracusians and ourselves, To admit no traffic to our adverse towns. Nay more: if any born at Ephesus Be seen at Syracusian marts and fairs; Again, if any Syracusian born Come to the bay of Ephesus—he dies, His goods confiscate to the Duke’s dispose, Unless a thousand marks be levied To quit the penalty and ransom him. Thy substance, valued at the highest rate, Cannot amount unto a hundred marks. Therefore by law thou art condemned to die. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_exchange_egeon" data-title="The Comedy of Errors — Act I, Scene 1 — exchange (EGEON) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Egeon|EGEON]] | Yet this my comfort: when your words are done, |
-| [[Egeon|EGEON]] | My woes end likewise with the evening sun. |
-| DUKE | [[Well]], Syracusian, say in brief the cause Why thou departed‘st from thy native [[Home|home]], And for what cause thou cam’st to Ephesus. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_monologue_egeon" data-title="The Comedy of Errors — Act I, Scene 1 — monologue (EGEON) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Egeon|EGEON]] | A heavier task could not have been imposed Than I to speak my griefs unspeakable. Yet, that the world may witness that my end Was wrought by [[Nature|nature]], not by vile offence, I’ll utter what my sorrow gives me leave. In Syracusa was I born, and wed Unto a woman happy but for me, And by me happy, had not our hap been bad. With her I lived in joy, our wealth increased By prosperous voyages I often made To Epidamnum, till my factor’s [[Death|death]], And the great care of goods at random left, Drew me from kind embracements of my spouse, From whom my absence was not six months old Before herself—almost at fainting under The pleasing punishment that women bear- Had made provision for her following me, And soon and safe arrived where I was. There had she not been long but she became A joyful mother of two goodly sons; And, which was strange, the one so like the other As could not be distinguished but by names. That very hour, and in the selfsame inn, A mean-born woman was delivered Of such a burden male, twins both alike. Those, for their parents were exceeding poor, I bought, and brought up to attend my sons. My wife, not meanly proud of two such boys, Made daily motions for our [[Home|home]] return. Unwilling, I agreed. Alas! Too soon We came aboard. A league from Epidamnum had we sailed Before the always-[[Wind|wind]]-obeying deep Gave any tragic instance of our harm. But longer did we not retain much [[Hope|hope]], For what obscured light the heavens did grant Did but convey unto our fearful minds A doubtful warrant of immediate [[Death|death]], Which though myself would gladly have embraced, Yet the incessant weepings of my wife— Weeping before for what she saw must come— And piteous plainings of the pretty babes, That mourned for fashion, ignorant what to [[Fear|fear]], Forced me to seek delays for them and me. And this it was—for other means was none: The sailors sought for safety by our boat, And left the [[Ship|ship]], then sinking-ripe, to us. My wife, more careful for the latter-born, Had fastened him unto a small spare mast Such as seafaring men provide for storms. To him one of the other twins was bound, Whilst I had been like heedful of the other. The children thus disposed, my wife and I, Fixing our eyes on whom our care was fixed, Fastened ourselves at either end the mast, And floating straight, obedient to the stream, Was carried towards Corinth, as we thought. At length the sun, gazing upon the earth, Dispersed those vapours that offended us, And by the benefit of his wished light The seas waxed calm, and we discovered Two ships from far, making amain to us: Of Corinth that, of Epidaurus this. But ere they came—O let me say no more! Gather the sequel by that went before. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--05_exchange_duke" data-title="The Comedy of Errors — Act I, Scene 1 — exchange (DUKE) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| DUKE | Nay, forward, old man; do not break off so, For we may pity though not pardon thee. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--06_monologue_egeon" data-title="The Comedy of Errors — Act I, Scene 1 — monologue (EGEON) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Egeon|EGEON]] | O, had the gods done so, I had not now Worthily termed them merciless to us. For, ere the ships could meet by twice five leagues, We were encountered by a mighty rock, Which being violently borne upon, Our helpful [[Ship|ship]] was splitted in the midst, So that in this unjust [[divorce]] of us Fortune had left to both of us alike What to delight in, what to sorrow for. Her part, poor [[Soul|soul]], seeming as burdened With lesser weight but not with lesser woe, Was carried with more [[Speed|speed]] before the [[Wind|wind]], And in our sight they three were taken up By fishermen of Corinth, as we thought. At length another [[Ship|ship]] had seized on us, And, knowing whom it was their hap to save, Gave healthful welcome to their shipwrecked guests, And would have reft the fishers of their prey Had not their barque been very slow of sail; And therefore homeward did they bend their course. Thus have you heard me severed from my bliss, That by misfortunes was my life prolonged To tell sad stories of my own mishaps. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--07_exchange_duke" data-title="The Comedy of Errors — Act I, Scene 1 — exchange (DUKE) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| DUKE | And for the sake of them thou sorrow’st for, Do me the favour to dilate at full What have befall’n of them and thee till now. |
-| [[Egeon|EGEON]] | My youngest boy, and yet my eldest care, At eighteen years became inquisitive After his brother, and importuned me That his attendant—so his case was like, Reft of his brother, but retained his name— Might bear him company in the [[Quest|quest]] of him; Whom whilst I laboured of a [[Love|love]] to see, I hazarded the loss of whom I loved. Five summers have I spent in farthest Greece, Roaming clean through the bounds of Asia, And coasting homeward came to Ephesus, Hopeless to find, yet loath to leave unsought Or that or any place that harbours men. But here must end the story of my life, And happy were I in my timely [[Death|death]] Could all my travels warrant me they live. |
-| DUKE | Hapless [[Egeon]], whom the fates have marked To bear the extremity of dire mishap, Now trust me, were it not against our laws— Which princes, would they, may not disannul— Against my [[Crown|crown]], my oath, my dignity, My [[Soul|soul]] should sue as advocate for thee. But though thou art adjudged to the [[Death|death]], And passed sentence may not be recalled But to our [[Honour|honour]]’s great disparagement, Yet will I favour thee in what I can. Therefore, merchant, I’ll limit thee this day To seek thy health by beneficial help. Try all the friends thou hast in Ephesus: Beg thou or borrow to make up the sum, And live. If no, then thou art doomed to die. Jailer, take him to thy custody. |
-| JAILER | I will, my lord. |
-| [[Egeon|EGEON]] | Hopeless and helpless doth [[Egeon]] wend, But to procrastinate his lifeless end. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="The Comedy of Errors — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Antipholus of Syracuse]] |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | The gold I gave to Dromio is laid up Safe at the Centaur, and the heedful slave Is wandered forth in care to seek me out. By computation and mine host’s report, I could not speak with Dromio since at first I sent him from the mart! See, here he comes. Enter [[Dromio of Syracuse]] How now, sir, is your merry [[Humour|humour]] altered? As you [[Love|love]] strokes, so jest with me again. You know no Centaur? You received no gold? Your mistress sent to have me [[Home|home]] to dinner? My [[house]] was at the Phoenix?—Wast thou mad, That thus so madly thou didst answer me? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | What answer, sir? When spake I such a word? |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Even now, even here, not half an hour since. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I did not see you since you sent me hence [[Home]] to the Centaur with the gold you gave me. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | [[Villain]], thou didst deny the gold’s receipt, And told‘st me of a mistress and a dinner, For which I [[Hope|hope]] thou felt’st I was displeased. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I am glad to see you in this merry vein. What means this jest? I pray you, master, tell me. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Yea, dost thou jeer and flout me in the teeth? Think’st thou I jest? Hold, take thou that, and that. He beats Dromio |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Hold, sir, for God’s sake—now your jest is earnest! Upon what bargain do you give it me? |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Because that I familiarly sometimes Do use you for my [[Fool|fool]], and chat with you, Your sauciness will jest upon my [[Love|love]], And make a common of my serious hours. When the sun shines, let foolish gnats make sport, But creep in crannies when he hides his beams. If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | ‘Sconce’ call you it? So you would leave battering, I had rather have it a head. An you use these blows long, I must get a sconce for my head, and ensconce it too, or else I shall seek my wit in my shoulders. But I pray, sir, why am I beaten? |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Dost thou not know? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Nothing, sir, but that I am beaten. [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] Shall I tell you why? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Ay, sir, and wherefore; for they say every why hath a wherefore. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | ‘Why’ first: for flouting me; and then ‘wherefore’: For urging it the second [[Time|time]] to me. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Was there ever any man thus beaten out of season, When in the why and the wherefore is neither rhyme nor reason?— [[Well]], sir, I thank you. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Thank me, sir, for what? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Marry, sir, for this something that you gave me for nothing. 51 |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I’ll make you amends next, to give you nothing for something. But say, sir, is it dinner-[[Time|time]]? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | No, sir, I think the meat wants that I have. 56 |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--02_exchange_antipholus_of_syracuse" data-title="The Comedy of Errors — Act II, Scene 2 — exchange (ANTIPHOLUS OF SYRACUSE) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | In good [[Time|time]], sir. What’s that? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Basting. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | [[Well]], sir, then ’twill be dry. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | If it be, sir, I pray you eat none of it. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Your reason? 61 |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Lest it make you choleric and purchase me another dry basting. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | [[Well]], sir, learn to jest in good [[Time|time]]. There’s a [[Time|time]] for all things. 65 |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I durst have denied that before you were so choleric. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | By what rule, sir? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Marry, sir, by a rule as plain as the plain bald pate of Father [[Time]] himself. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Let’s hear it. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | There’s no [[Time|time]] for a man to recover his hair that grows bald by [[Nature|nature]]. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | May he not do it by fine and recovery? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Yes, to pay a fine for a periwig, and recover the lost hair of another man. |
-| ANTIPHOLUS | or SYRACUSE Why is [[Time]] such a niggard of hair, being, as it is, so plentiful an excrement? |
-| DROMIO | or SYRACUSE Because it is a blessing that he bestows on beasts, and what he hath scanted men in hair he hath given them in wit. 82 |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Why, but there’s many a man hath more hair than wit. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Not a man of those but he hath the wit to lose his hair. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Why, thou didst conclude hairy men plain dealers, without wit. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | The plainer dealer, the sooner lost. Yet he loseth it in a kind of jollity. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | For what reason? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | For two, and sound ones too. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Nay, not sound, I pray you. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Sure ones, then. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Nay, not sure, in a thing falsing. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Certain ones, then. 96 |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Name them. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | The one, to save the money that he spends in tiring; the other, that at dinner they should not drop in his porridge. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | You would all this [[Time|time]] have proved there is no [[Time|time]] for all things. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Marry, and did, sir: namely, e’en no [[Time|time]] to recover hair lost by [[Nature|nature]]. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | But your reason was not substantial, why there is no [[Time|time]] to recover. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Thus I mend it: [[Time]] himself is bald, and therefore to the world’s end will have bald followers. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I knew ’twould be a bald conclusion. Enter from the Phoenix [[Adriana]] and [[Luciana]] But soft—who wafts us yonder? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--03_monologue_adriana" data-title="The Comedy of Errors — Act II, Scene 2 — monologue (ADRIANA) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Adriana|ADRIANA]] | Ay, ay, Antipholus, look strange and frown: Some other mistress hath thy sweet aspects. I am not [[Adriana]], nor thy wife. The [[Time|time]] was once when thou unurged wouldst vow That never words were music to thine ear, That never object pleasing in thine eye, That never touch [[Well|well]] welcome to thy hand, That never meat sweet-savoured in thy taste, Unless I spake, or looked, or touched, or carved to thee. How comes it now, my husband, O how comes it That thou art then estranged from thysetf?— Thy ‘[[Self|self]]’ I call it, being strange to me That, undividable, incorporate, Am better than thy dear [[Self|self]]’s better part. Ah, do not tear away thyself from me; For know, my [[Love|love]], as easy mayst thou fall A drop of [[Water|water]] in the breaking gulf, And take unmingled thence that drop again Without addition or diminishing, As take from me thyself, and not me too. How dearly would it touch thee to the quick Shouldst thou but hear I were licentious, And that this [[Body|body]], consecrate to thee, By ruffian lust should be contaminate? Wouldst thou not spit at me, and spurn at me, And hurl the name of husband in my face, And tear the stained skin off my harlot brow, And from my false hand cut the wedding ring, And break it with a deep-divorcing vow? I know thou canst, and therefore see thou do it! I am possessed with an adulterate blot; My [[Blood|blood]] is mingled with the crime of lust. For if we two be one, and thou play false, I do digest the [[Poison|poison]] of thy flesh, Being strumpeted by thy contagion. Keep then fair league and truce with thy true bed, I live unstained, thou undishonourèd. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--04_exchange_antipholus_of_syracuse" data-title="The Comedy of Errors — Act II, Scene 2 — exchange (ANTIPHOLUS OF SYRACUSE) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Plead you to me, fair dame? I know you not. In Ephesus I am but two hours old, As strange unto your town as to your talk, Who, every word by all my wit being scanned, Wants wit in all one word to understand. |
-| [[Luciana|LUCIANA]] | Fie, brother, how the world is changed with you! When were you wont to use my sister thus? She sent for you by Dromio [[Home|home]] to dinner. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | By Dromio? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | By me? |
-| [[Adriana|ADRIANA]] | By thee; and this thou didst return from him— That he did buffet thee, and in his blows Denied my [[house]] for his, me for his wife. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Did you converse, sir, with this gentlewoman? What is the course and drift of your compact? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I, sir? I never saw her till this [[Time|time]]. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | [[Villain]], thou liest; for even her very words Didst thou deliver to me on the mart. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I never spake with her in all my life. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | How can she thus then call us by our names ?— Unless it be by inspiration. |
-| [[Adriana|ADRIANA]] | A How ill agrees it with your gravity To counterfeit thus grossly with your slave, Abetting him to thwart me in my mood ! Be it my wrong you are from me exempt, But wrong not that wrong with a more contempt. Come, I will fasten on this sleeve of thine. Thou art an elm, my husband; I a vine, Whose weakness, married to thy stronger state, Makes me with thy strength to communicate. If aught possess thee from me, it is dross, Usurping ivy, brier, or idle moss, Who, all for want of pruning, with intrusion Infect thy sap, and live on thy confusion. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | (aside) To me she speaks, she moves me for her theme. What, was I married to her in my dream? Or [[Sleep|sleep]] I now, and think I hear all this? What error drives our eyes and ears amiss? Until I know this sure uncertainty, I’ll entertain the offered fallacy. |
-| [[Luciana|LUCIANA]] | Dromio, go bid the servants spread for dinner. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (aside) O, for my beads! I [[Cross|cross]] me for a sinner. This is the fairy land. O spite of spites, We talk with goblins, oafs, and sprites. If we obey them not, this will ensue: They’ll suck our breath or pinch us black and blue. |
-| [[Luciana|LUCIANA]] | Why prat‘st thou to thyself, and answer’st not? Dromio, thou drone, thou snail, thou slug, thou sot. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (to Antipholus) I am transformed, master, am not I? |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I think thou art in mind, and so am I. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Nay, master, both in mind and in my shape. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Thou hast thine own form. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | No, I am an ape. |
-| [[Luciana|LUCIANA]] | If thou art changed to aught, ’tis to an ass. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | to Antipholus ’Tis true she rides me, and I long for grass. ’Tis so, I am an ass; else it could never be But I should know her as [[Well|well]] as she knows me. |
-| [[Adriana|ADRIANA]] | Come, come, no longer will I be a [[Fool|fool]], To put the finger in the eye and weep Whilst man and master laughs my woes to scorn. (To Antipholus) Come, sir, to dinner.—Dromio, keep the gate.— Husband, I’ll dine above with you today, And shrive you of a thousand idle pranks.— Sirrah, if any ask you for your master, Say he dines forth, and let no creature enter.— Come, sister.—Dromio, play the porter [[Well|well]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--05_exchange_antipholus_of_syracuse" data-title="The Comedy of Errors — Act II, Scene 2 — exchange (ANTIPHOLUS OF SYRACUSE) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | (aside) Am I in earth, in heaven, or in hell? Sleeping or waking? Mad or [[Well|well]] advised? Known unto these, and to myself disguised! I’ll say as they say, and persever so, And in this mist at all adventures go. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Master, shall I be porter at the gate ? |
-| [[Adriana|ADRIANA]] | Ay, and let none enter, lest I break your pate. |
-| [[Luciana|LUCIANA]] | Come, come, Antipholus, we dine too late. Exeunt into the Phoenix |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="The Comedy of Errors — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Antipholus of Ephesus]], his man Dromio, [[Angelo]] the goldsmith, and Balthasar the merchant |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Good Signor [[Angelo]], you must excuse us all. My wife is shrewish when I keep not hours. Say that I lingered with you at your shop To see the making of her carcanet, And that tomorrow you will bring it [[Home|home]].— But here’s a [[Villain|villain]] that would face me down He met me on the mart, and that I beat him, And charged him with a thousand marks in gold, And that I did deny my wife and [[house]]. Thou drunkard, thou, what didst thou mean by this? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Say what you will, sir, but I know what I know—II That you beat me at the mart I have your hand to show. If the skin were parchment, and the blows you gave were ink, Your own handwriting would tell you what I think. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | I think thou art an ass. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Marry, so it doth appear By the wrongs I suffer and the blows I bear. I should kick being kicked, and, being at that pass, You would keep from my heels, and beware of an ass. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | You’re sad, Signor Balthasar. Pray God our cheer May answer my good will, and your good welcome here. |
-| BALTHASAR | I hold your dainties cheap, sir, and your welcome dear. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | O, Signor Balthasar, either at flesh or fish A table full of welcome makes scarce one dainty dish. |
-| BALTHASAR | Good meat, sir, is common; that every churl affords. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | And welcome more common, for that’s nothing but words. |
-| BALTHASAR | Small cheer and great welcome makes a merry feast. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Ay, to a niggardly host and more sparing guest. But though my cates be mean, take them in good part. Better cheer may you have, but not with better heart. But soft, my door is locked. (To Dromio) Go bid them let us in. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | (calling) Maud, Bridget, Marian, Cicely, Gillian, Ginn! Enter [[Dromio of Syracuse]] within the Phoenix |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) Mome, malt-[[Horse|horse]], capon, coxcomb, idiot, patch! Either get thee from the door or sit down at the hatch. Dost thou conjure for wenches, that thou call’st for such store When one is one too many? Go, get thee from the door. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | What patch is made our porter? My master stays in the street. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within) Let him walk from whence he came, lest he catch cold on’s feet. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Who talks within there ? Ho, open the door! |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) Right, sir, I’ll tell you when, an you’ll tell me wherefore. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Wherefore? For my dinner—I have not dined today. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) Nor today here you must not. Come again when you may. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | What art thou that keep’st me out from the [[house]] I owe? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) The porter for this [[Time|time]], sir, and my name is Dromio. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--02_exchange_dromio_of_ephesus" data-title="The Comedy of Errors — Act III, Scene 1 — exchange (DROMIO OF EPHESUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | O [[Villain|villain]], thou hast stol’n both mine office and my name. The one ne’er got me credit, the other mickle blame. If thou hadst been Dromio today in my place, Thou wouldst have changed thy pate for an aim, or thy name for an ass. Enter Nell within the Phoenix |
-| NELL | (within the Phoenix) What a coil is there, Dromio? Who are those at the gate? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Let my master in, Nell. |
-| NELL | (within the Phoenix) [[Faith]] no, he comes too late; And so tell your master. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | O Lord, I must laugh. Have at you with a proverb: ‘Shall I set in my staff?’ |
-| NELL | (within the Phoenix) Have at you with another—that’s ‘When ? Can you tell?’ |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) If thy name be called Nell, Nell, thou hast answered him [[Well|well]]. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to Nell) Do you hear, you minion ? You’ll let us in, I [[Hope|hope]] ? |
-| NELL | (within the Phoenix) I thought to have asked you. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within) And you said no. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | So, come help. He and Antipholus beat the door [[Well]] struck! There was blow for blow. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to Nell) Thou baggage, let me in. |
-| NELL | (within the Phoenix) Can you tell for whose sake? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Master, knock the door hard. |
-| NELL | (within the Phoenix) Let him knock till it ache. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | You’ll cry for this, minion, if I beat the door down. |
-| NELL | (within the Phoenix) What needs all that, and a pair of stocks in the town? Enter [[Adriana]] within the Phoenix |
-| [[Adriana|ADRIANA]] | (within the Phoenix) Who is that at the door that keeps all this noise? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) By my troth, your town is troubled with unruly boys. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to [[Adriana]]) Are you there, wife ? You might have come before. |
-| [[Adriana|ADRIANA]] | (within the Phoenix) Your wife, sir knave? Go, get you from the door. Exit with Nell |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | (to Antipholus) If you went in [[Pain|pain]], master, this knave would go sore. |
-| [[Angelo|ANGELO]] | (to Antipholus) Here is neither cheer, sir, nor welcome; we would fain have either. |
-| BALTHASAR | In debating which was best, we shall part with neither. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | (to Antipholus) They stand at the door, master. Bid them welcome hither. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | There is something in the [[Wind|wind]], that we cannot get in. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | You would say so, master, if your garments were thin. Your cake here is warm within: you stand here in the cold. It would make a man mad as a buck to be so bought and sold. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Go fetch me something. I’ll break ope the gate. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) Break any breaking here, and I’ll break your knave’s pate. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | A man may break a word with you, sir, and words are but [[Wind|wind]]; Ay, and break it in your face, so he break it not behind. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (within the Phoenix) It seems thou want’st breaking. Out upon thee, hind! |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Here’s too much ‘Out upon thee!’ I pray thee, let me in. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--03_exchange_dromio" data-title="The Comedy of Errors — Act III, Scene 1 — exchange (DROMIO) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| DROMIO | or SYRACUSE (within the Phoenix) Ay, when fowls have no feathers, and fish have no fin. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | [[Well]], I’ll break in.—Go borrow me a crow. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | A crow without feather? Master, mean you so? For a fish without a fin, there’s a fowl without a feather. (To [[Dromio of Syracuse]]) If a crow help us in, sirrah, we’ll pluck a crow together. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Go, get thee gone. Fetch me an iron crow. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--04_monologue_balthasar" data-title="The Comedy of Errors — Act III, Scene 1 — monologue (BALTHASAR) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| BALTHASAR | Have patience, sir. O, let it not be so! Herein you war against your reputation, And draw within the compass of suspect Th’unviolated [[Honour|honour]] of your wife. Once this: your long experience of her wisdom, Her sober virtue, years, and modesty, Plead on her part some cause to you unknown; And [[Doubt|doubt]] not, sir, but she will [[Well|well]] excuse Why at this [[Time|time]] the doors are made against you. Be ruled by me. Depart in patience, And let us to the Tiger all to dinner, And about evening come yourself [[Alone|alone]] To know the reason of this strange restraint. If by strong hand you offer to break in Now in the stirring passage of the day, A vulgar comment will be made of it, And that supposed by the common rout Against your yet ungallèd estimation, That may with foul intrusion enter in And dwell upon your [[Grave|grave]] when you are dead. For slander lives upon succession, For ever housed where once it gets possession. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--05_exchange_antipholus_of_ephesus" data-title="The Comedy of Errors — Act III, Scene 1 — exchange (ANTIPHOLUS OF EPHESUS) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | You have prevailed. I will depart in quiet, And in despite of mirth mean to be merry. I know a wench of excellent discourse, Pretty and witty; wild, and yet, too, gentle. There will we dine. This woman that I mean, My wife—but, I protest, without [[Desert|desert]]— Hath oftentimes upbraided me withal. To her will we to dinner. (To [[Angelo]]) Get you [[Home|home]] And fetch the chain. By this, I know, ’tis made. Bring it, I pray you, to the Porcupine, For there’s the [[house]]. That chain will I bestow— Be it for nothing but to spite my wife— Upon mine hostess there. Good sir, make haste: Since mine own doors refuse to entertain me, I’ll knock elsewhere, to see if they’ll disdain me. |
-| [[Angelo|ANGELO]] | I’ll meet you at that place some hour hence. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Do so. Exit [[Angelo]] This jest shall cost me some expense. Exeunt [[Dromio of Syracuse]] within the Phoenix, and the others into the Porcupine |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="The Comedy of Errors — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter from the Phoenix [[Luciana]] with [[Antipholus of Syracuse]] |
-| [[Luciana|LUCIANA]] | And may it be that you have quite forgot A husband’s office? Shall, Antipholus, Even in the [[Spring|spring]] of [[Love|love]] thy [[Love|love]]-springs rot? Shall [[Love|love]], in building, grow so ruinous? If you did wed my sister for her wealth, Then for her wealth’s sake use her with more kindness; Or if you like elsewhere, do it by stealth: Muffle your false [[Love|love]] with some show of blindness. Let not my sister read it in your eye. Be not thy tongue thy own shame’s orator. Look sweet, speak fair, become disloyalty; Apparel vice like virtue’s harbinger. Bear a fair presence, though your heart be tainted: Teach sin the carriage of a holy saint. Be secret-false. What need she be acquainted? What simple thief brags of his own attaint? ‘Tis [[Double|double]] wrong to truant with your bed, And let her read it in thy looks at board. Shame hath a bastard fame, [[Well|well]] managed; |
-| III | deeds is doubled with an evil word. Alas, poor women, make us but believe— Being compact of credit—that you [[Love|love]] us. Though others have the arm, show us the sleeve. We in your motion turn, and you may move us. Then, gentle brother, get you in again. Comfort my sister, cheer her, call her wife: ’Tis holy sport to be a little vain When the sweet breath of flattery conquers strife. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--02_monologue_antipholus_of_syracuse" data-title="The Comedy of Errors — Act III, Scene 2 — monologue (ANTIPHOLUS OF SYRACUSE) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Sweet mistress—what your name is else I know not, Nor by what [[Wonder|wonder]] you do hit of mine. Less in your knowledge and your grace you show not Than our earth’s [[Wonder|wonder]], more than earth divine. Teach me, dear creature, how to think and speak. Lay open to my earthy gross conceit, Smothered in errors, feeble, shallow, weak, The folded meaning of your words’ deceit. Against my [[Soul|soul]]’s pure [[Truth|truth]] why labour you To make it wander in an unknown field? Are you a god? Would you create me new? Transform me, then, and to your power I’ll yield. But if that I am I, then [[Well|well]] I know Your weeping sister is no wife of mine, Nor to her bed no homage do I owe. Far more, far more, to you do I decline. O, train me not, sweet [[Mermaid|mermaid]], with thy note To drown me in thy sister’s flood of [[Tears|tears]]. Sing, siren, for thyself, and I will dote. Spread o’er the silver waves thy golden hairs, And as a bed I’ll take them, and there lie, And in that glorious supposition think He gains by [[Death|death]] that hath such means to die. Let [[Love|love]], being light, be drowned if she sink. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--03_exchange_luciana" data-title="The Comedy of Errors — Act III, Scene 2 — exchange (LUCIANA) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Luciana|LUCIANA]] | What, are you mad, that you do reason so? |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Not mad, but mated—how, I do not know. |
-| [[Luciana|LUCIANA]] | It is a fault that springeth from your eye. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | For gazing on your beams, fair sun, being by. |
-| [[Luciana|LUCIANA]] | Gaze where you should, and that will clear your sight. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | As good to wink, sweet [[Love|love]], as look on [[Night|night]]. |
-| [[Luciana|LUCIANA]] | Why call you me ‘[[Love|love]]’ ? Call my sister so. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Thy sister’s sister. |
-| [[Luciana|LUCIANA]] | That’s my sister. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | No, It is thyself, mine own [[Self|self]]’s better part, Mine eye’s clear eye, my dear heart’s dearer heart, My food, my fortune, and my sweet [[Hope|hope]]’s aim, My sole earth’s heaven, and my heaven’s claim. |
-| [[Luciana|LUCIANA]] | All this my sister is, or else should be. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Call thyself sister, sweet, for I am thee. Thee will I [[Love|love]], and with thee lead my life. Thou hast no husband yet, nor I no wife. Give me thy hand. |
-| [[Luciana|LUCIANA]] | O soft, sir, hold you still; I’ll fetch my sister to get her good will. Exit into the Phoenix Enter from the Phoenix [[Dromio of Syracuse]] |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Why, how now, Dromiol Where runn’st thou so fast? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Do you know me, sir? Am I Dromio? Am I your man? Am I myself? |
-| ANTIPHOLUS | or SYRACUSE Thou art Dromio, thou art my man, thou art thyself. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I am an ass, I am a woman’s man, and besides myself. |
-| ANTIPHOLUS | or SYRACUSE What woman’s man? And how besides thyself? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Marry, sir, besides myself I am due to a woman: one that claims me, one that haunts me, one that will have me. |
-| ANTIPHOLUS | or SYRACUSE What claim lays she to thee? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Marry, sir, such claim as you would lay to your [[Horse|horse]]; and she would have me as a beast—not that, I being a beast, she would have me, but that she, being a very beastly creature, lays claim to me. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | What is she? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | A very reverend [[Body|body]]; ay, such a one as a man may not speak of without he say ‘sir-reverence’. I have but lean luck in the match, and yet is she a wondrous fat [[Marriage|marriage]]. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | How dost thou mean, a fat [[Marriage|marriage]]? 95 5 |
-| DROMIO | or SYRACUSE Marry, sir, she’s the kitchen wench, and all grease; and I know not what use to put her to but to make a lamp of her, and run from her by her own light. I warrant her rags and the tallow in them will burn a Poland [[Winter|winter]]. If she lives till doomsday, she’ll burn a week longer than the whole world. |
-| ANTIPHOLUS | or SYRACUSE What complexion is she of? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Swart like my shoe, but her face nothing like so clean kept. For why?—She sweats a man may go overshoes in the grime of it. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | That’s a fault that [[Water|water]] will mend. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | No, sir, ’tis in grain. Noah’s flood could not do it. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | What’s her name? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Nell, sir. But her name and three-quarters—that’s an ell and three-quarters—will not measure her from hip to hip. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--04_exchange_antipholus_of_syracuse" data-title="The Comedy of Errors — Act III, Scene 2 — exchange (ANTIPHOLUS OF SYRACUSE) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Then she bears some breadth? |
-| DROMIO | or SYRACUSE No longer from head to foot than from hip to hip. She is spherical, like a globe. I could find out countries in her. |
-| ANTIPHOLUS | or SYRACUSE In what part of her [[Body|body]] stands Ireland? |
-| DROMIO | or SYRACUSE Marry, sir, in her buttocks. I found it out by the bogs. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where Scotland? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I found it by the barrenness, hard in the palm of her hand. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where France? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | In her forehead, armed and reverted, making war against her heir. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where England? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I looked for the chalky cliffs, but I could find no whiteness in them. But I guess it stood in her chin, by the salt rheum that ran between France and it. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where Spain? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | [[Faith]], I saw it not, but I felt it hot in her breath. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where [[America]], the Indies? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | O, sir, upon her nose, all o’er embellished with rubies, carbuncles, sapphires, declining their rich aspect to the hot breath of Spain, who sent whole armadas of carracks to be ballast at her nose. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Where stood Belgia, the Netherlands? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | O, sir, I did not look so low. To conclude, this drudge or diviner laid claim to me, called me Dromio, swore I was assured to her, told me what privy marks I had about me—as the mark of my shoulder, the mole in my neck, the great wart on my left arm—that I, amazed, ran from her as a [[Witch|witch]]. And I think if my breast had not been made of [[Faith|faith]], and my heart of steel, she had transformed me to a curtal dog, and made me turn i’th’ [[Wheel|wheel]]. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Go, hie thee presently. Post to the [[Road|road]]. An if the [[Wind|wind]] blow any way from shore, I will not harbour in this town tonight. If any barque put forth, come to the mart, Where I will walk till thou return to me. If everyone knows us, and we know none, ’Tis [[Time|time]], I think, to trudge, pack, and be gone. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | As from a bear a man would run for life, So fly I from her that would be my wife. Exit to the bay |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | There’s none but witches do inhabit here, And therefore ’tis high [[Time|time]] that I were hence. She that doth call me husband, even my [[Soul|soul]] Doth for a wife abhor. But her fair sister, Possessed with such a gentle sovereign grace, Of such enchanting presence and discourse, Hath almost made me traitor to myself. But lest myself be guilty to [[Self|self]]-wrong, I’ll stop mine ears against the [[Mermaid|mermaid]]’s [[Song|song]]. Enter [[Angelo]] with the chain |
-| [[Angelo|ANGELO]] | Master Antipholus. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Ay, that’s my name. |
-| [[Angelo|ANGELO]] | I know it [[Well|well]], sir. Lo, here’s the chain. I thought to have ta’en you at the Porcupine. The chain unfinished made me stay thus long. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | (taking the chain) What is your will that I shall do with this? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--05_exchange_angelo" data-title="The Comedy of Errors — Act III, Scene 2 — exchange (ANGELO) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Angelo|ANGELO]] | What please yourself, sir. I have made it for you. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Made it for me, sir? I bespoke it not. |
-| [[Angelo|ANGELO]] | Not once, nor twice, but twenty times you have. Go [[Home|home]] with it, and please your wife withal, And soon at supper-[[Time|time]] I’ll visit you, And then receive my money for the chain. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I pray you, sir, receive the money now, For [[Fear|fear]] you ne’er see chain nor money more. |
-| [[Angelo|ANGELO]] | You are a merry man, sir. Fare you [[Well|well]]. Exit |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | What I should think of this I cannot tell. But this I think: there’s no man is so vain That would refuse so fair an offered chain. I see a man here needs not live by shifts, When in the streets he meets such golden gifts. I’ll to the mart, and there for Dromio stay. If any [[Ship|ship]] put out, then straight away! Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--01_exchange_dialogue" data-title="The Comedy of Errors — Act IV, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Antipholus of Ephesus]] with the Officer |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | [[Fear]] me not, man, I will not break away. I’ll give thee ere I leave thee so much money To warrant thee as I am ‘rested for. My wife is in a wayward mood today, And will not lightly trust the messenger That I should be attached in Ephesus. I tell you ’twill sound harshly in her ears. Enter [[Dromio of Ephesus]] with a rope’s end Here comes my man. I think he brings the money.— How now, sir? Have you that I sent you for? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Here’s that, I warrant you, will pay them all. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | But where’s the money? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Why, sir, I gave the money for the rope. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Five hundred ducats, [[Villain|villain]], for a rope? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | I’ll serve you, sir, five hundred at the rate. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | To what end did I bid thee hie thee [[Home|home]]? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | To a rope’s end, sir, and to that end am I returned. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | And to that end, sir, I will welcome you. He beats Dromio |
-| OFFICER | Good sir, be patient. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Nay, ’tis for me to be patient: I am in adversity. 21 |
-| OFFICER | Good now, hold thy tongue. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Nay, rather persuade him to hold his hands. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Thou whoreson, senseless [[Villain|villain]]! |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | I would I were senseless, sir, that I might not feel your blows. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Thou art sensible in nothing but blows, and so is an ass. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | I am an ass indeed. You may prove it by my long ears.—I have served him from the hour of my nativity to this instant, and have nothing at his hands for my service but blows. When I am cold, he heats me with beating. When I am warm, he cools me with beating. I am waked with it when I [[Sleep|sleep]], raised with it when I sit, driven out of doors with it when I go from [[Home|home]], welcomed [[Home|home]] with it when I return. Nay, I bear it on my shoulders, as a beggar wont her brat, and I think when he hath lamed me I shall beg with it from door to door. Enter [[Adriana]], [[Luciana]], Courtesan, and a schoolmaster called Pinch |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Come, go along: my wife is coming yonder. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | (to [[Adriana]]) Mistress, respice finem respect your end—or rather, to prophesy like the parrot, ‘Beware the rope’s end’. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Wilt thou still talk? He beats Dromio |
-| COURTESAN | (to [[Adriana]]) How say you now ? Is not your husband mad? |
-| [[Adriana|ADRIANA]] | His incivility confirms no less.— Good Doctor Pinch, you are a conjurer. Establish him in his true sense again, And I will please you what you will demand. |
-| [[Luciana|LUCIANA]] | Alas, how fiery and how sharp he looks! |
-| COURTESAN | Mark how he trembles in his ecstasy. |
-| PINCH | (to Antipholus) Give me your hand, and let me feel your pulse. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | There is my hand, and let it feel your ear. He strikes Pinch |
-| PINCH | I charge thee, [[Satan]], housed within this man, To yield possession to my holy prayers, And to thy state of darkness hie thee straight: I conjure thee by all the saints in heaven. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--02_exchange_antipholus_of_ephesus" data-title="The Comedy of Errors — Act IV, Scene 4 — exchange (ANTIPHOLUS OF EPHESUS) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Peace, doting wizard, peace! I am not mad. |
-| [[Adriana|ADRIANA]] | O that thou wert not, poor distressed [[Soul|soul]]. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | You minion, you, are these your customers? Did this companion with the saffron face Revel and feast it at my [[house]] today, Whilst upon me the guilty doors were shut, And I denied to enter in my [[house]]? |
-| [[Adriana|ADRIANA]] | O husband, God doth know you dined at [[Home|home]], Where would you had remained until this [[Time|time]], Free from these slanders and this open shame. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Dined at [[Home|home]]? (To Dromio) Thou [[Villain|villain]], what sayst thou? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Sir, sooth to say, you did not dine at [[Home|home]]. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Were not my doors locked up, and I shut out? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Pardie, your doors were locked, and you shut out. |
-| ANTIPHOLIIS OF EPHESUS | And did not she herself revile me there? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Sans [[Fable|fable]], she herself reviled you there. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Did not her kitchen-maid rail, taunt, and scorn me? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Certes she did. The kitchen vestal scorned you. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | And did not I in rage depart from thence? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | In verity you did. My bones bears witness, That since have felt the vigour of his rage. |
-| [[Adriana|ADRIANA]] | (aside to Pinch) Is’t good to soothe him in these contraries? |
-| PINCH | (aside to [[Adriana]]) It is no shame. The fellow finds his vein, And, yielding to him, humours [[Well|well]] his frenzy. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to [[Adriana]]) Thou hast suborned the goldsmith to arrest me. |
-| [[Adriana|ADRIANA]] | Alas, I sent you money to redeem you, By Dromio here, who came in haste for it. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Money by me ? Heart and good will you might, But surely, master, not a rag of money. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Went’st not thou to her for a purse of ducats? |
-| [[Adriana|ADRIANA]] | He came to me, and I delivered it. |
-| [[Luciana|LUCIANA]] | And I am witness with her that she did. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | God and the ropemaker bear me witness That I was sent for nothing but a rope. |
-| PINCH | (aside to [[Adriana]]) Mistress, both man and master is possessed. I know it by their pale and deadly looks. They must be bound and laid in some dark room. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to [[Adriana]]) Say wherefore didst thou lock me forth today, (To Dromio) And why dost thou deny the bag of gold? |
-| [[Adriana|ADRIANA]] | I did not, gentle husband, lock thee forth. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | And, gentle master, I received no gold. But I confess, sir, that we were locked out. |
-| [[Adriana|ADRIANA]] | Dissembling [[Villain|villain]], thou speak’st false in both. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Dissembling harlot, thou art false in all, And art confederate with a damned pack To make a loathsome abject scorn of me. But with these nails I’ll pluck out those false eyes, That would behold in me this shameful sport. He reaches for [[Adriana]] ; she shrieks. Enter three or four, and offer to bind him. He strives |
-| [[Adriana|ADRIANA]] | O, bind him, bind him. Let him not come near me. |
-| PINCH | More company! The fiend is strong within him. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--03_exchange_luciana" data-title="The Comedy of Errors — Act IV, Scene 4 — exchange (LUCIANA) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Luciana|LUCIANA]] | Ay me, poor man, how pale and wan he looks. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | What, will you murder me?—Thou, jailer, thou, I am thy prisoner. Wilt thou suffer them To make a rescue? |
-| OFFICER | Masters, let him go. He is my prisoner, and you shall not have him. |
-| PINCH | Go, bind his man, for he is frantic too. They bind Dromio |
-| [[Adriana|ADRIANA]] | What wilt thou do, thou peevish officer? Hast thou delight to see a wretched man Do outrage and displeasure to himself? |
-| OFFICER | He is my prisoner. If I let him go, The debt he owes will be required of me. |
-| [[Adriana|ADRIANA]] | I will discharge thee ere I go from thee. Bear me forthwith unto his creditor, And, knowing how the debt grows, I will pay it.— Good Master Doctor, see him safe conveyed [[Home]] to my [[house]]. O most unhappy day! |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | O most unhappy strumpet! |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Master, I am here entered in bond for you. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Out on thee, [[Villain|villain]]! Wherefore dost thou mad me? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Will you be bound for nothing? Be mad, good master— Cry, ‘The devil!’ |
-| [[Luciana|LUCIANA]] | God help, poor souls, how idly do they talk! |
-| [[Adriana|ADRIANA]] | Go bear him hence. Sister, go you with me. Exeunt into the Phoenix, Pinch and others carrying off [[Antipholus of Ephesus]] and [[Dromio of Ephesus]]. The Officer, [[Adriana]], [[Luciana]], and the Courtesan remain (To the Officer) Say now, whose suit is he arrested at? |
-| OFFICER | One [[Angelo]], a goldsmith. Do you know him? |
-| [[Adriana|ADRIANA]] | I know the man. What is the sum he owes? |
-| OFFICER | Two hundred ducats. |
-| [[Adriana|ADRIANA]] | Say, how grows it due? |
-| OFFICER | Due for a chain your husband had of him. |
-| [[Adriana|ADRIANA]] | He did bespeak a chain for me, but had it not. |
-| COURTESAN | Whenas your husband all in rage today Came to my [[house]], and took away my ring— The ring I saw upon his finger now— Straight after did I meet him with a chain. |
-| [[Adriana|ADRIANA]] | It may be so, but I did never see it. Come, jailer, bring me where the goldsmith is. I long to know the [[Truth|truth]] hereof at large. Enter [[Antipholus of Syracuse]] (wearing the chain) and [[Dromio of Syracuse]] with their rapiers drawn |
-| [[Luciana|LUCIANA]] | God, for thy [[Mercy|mercy]], they are loose again! |
-| [[Adriana|ADRIANA]] | And come with naked swords. Let’s call more help To have them bound again. |
-| OFFICER | Away, they’ll kill us! All but Antipholus and Dromio run out, as fast as may be, frighted |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I see these witches are afraid of swords. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | She that would be your wife now ran from you. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Come to the Centaur. Fetch our stuff from thence. I long that we were safe and sound aboard. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | [[Faith]], stay here this [[Night|night]]. They will surely do us no harm. You saw they speak us fair, give us gold. Methinks they are such a gentle nation that, but for the mountain of mad flesh that claims [[Marriage|marriage]] of me, I could find in my heart to stay here still, and turn [[Witch|witch]]. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I will not stay tonight for all the town. Therefore away, to get our stuff aboard. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Second Merchant and [[Angelo]] the goldsmith |
-| [[Angelo|ANGELO]] | I am sorry, sir, that I have hindered you, But I protest he had the chain of me, Though most dishonestly he doth deny it. |
-| SECOND MERCHANT | How is the man esteemed here in the [[City|city]]? |
-| [[Angelo|ANGELO]] | Of very reverend reputation, sir, Of credit infinite, highly beloved, Second to none that lives here in the [[City|city]]. His word might bear my wealth at any [[Time|time]]. |
-| SECOND MERCHANT | Speak softly. Yonder, as I think, he walks. Enter [[Antipholus of Syracuse]], wearing the chain, and [[Dromio of Syracuse]] again |
-| [[Angelo|ANGELO]] | ‘Tis so, and that [[Self|self]] chain about his neck Which he forswore most monstrously to have. Good sir, draw near to me. I’ll speak to him.— Signor Antipholus, I [[Wonder|wonder]] much That you would put me to this shame and trouble, And not without some scandal to yourself, With circumstance and oaths so to deny This chain, which now you wear so openly. Beside the charge, the shame, [[Imprisonment|imprisonment]], You have done wrong to this my honest friend, Who, but for staying on our controversy, Had hoisted sail and put to sea today. This chain you had of me. Can you deny it? |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I think I had. I never did deny it. |
-| SECOND MERCHANT | Yes, that you did, sir, and forswore it too. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Who heard me to deny it or forswear it? |
-| SECOND MERCHANT | These ears of mine, thou know‘st, did hear thee. Fie on thee, wretch! ’Tis pity that thou liv’st To walk where any honest men resort. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | Thou art a [[Villain|villain]] to impeach me thus. I’ll prove mine [[Honour|honour]] and mine honesty Against thee presently, if thou dar’st stand. |
-| SECOND MERCHANT | I dare, and do defy thee for a [[Villain|villain]]. They draw. Enter [[Adriana]], [[Luciana]], Courtesan, and others from the Phoenix |
-| [[Adriana|ADRIANA]] | Hold, hurt him not, for God’s sake; he is mad. Some get within him, take his [[Sword|sword]] away. Bind Dromio too, and bear them to my [[house]]. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Run, master, run! For God’s sake take a [[house]]. This is some priory—in, or we are spoiled. Exeunt [[Antipholus of Syracuse]] and [[Dromio of Syracuse]] to the priory Enter from the priory the Lady Abbess |
-| ABBESS | Be quiet, people. Wherefore throng you hither? |
-| [[Adriana|ADRIANA]] | To fetch my poor distracted husband hence. Let us come in, that we may bind him fast, And bear him [[Home|home]] for his recovery. |
-| [[Angelo|ANGELO]] | I knew he was not in his perfect wits. |
-| SECOND MERCHANT | I am sorry now that I did draw on him. |
-| ABBESS | How long hath this possession held the man? |
-| [[Adriana|ADRIANA]] | This week he hath been heavy, sour, sad, And much, much different from the man he was; But till this afternoon his passion Ne’er brake into extremity of rage. |
-| ABBESS | Hath he not lost much wealth by wreck at sea? Buried some dear friend?Hath not else his eye Strayed his affection in unlawful [[Love|love]]— A sin prevailing much in youthful men, Who give their eyes the liberty of gazing? Which of these sorrows is he subject to? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--02_exchange_adriana" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (ADRIANA) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Adriana|ADRIANA]] | To none of these, except it be the last, Namely some [[Love|love]] that drew him oft from [[Home|home]]. |
-| ABBESS | You should for that have reprehended him. |
-| [[Adriana|ADRIANA]] | Why, so I did. |
-| ABBESS | Ay, but not rough enough. |
-| [[Adriana|ADRIANA]] | As roughly as my modesty would let me. |
-| ABBESS | Haply in private. |
-| [[Adriana|ADRIANA]] | And in assemblies too. |
-| ABBESS | Ay, but not enough. |
-| [[Adriana|ADRIANA]] | It was the copy of our conference. In bed he slept not for my urging it. At board he fed not for my urging it. [[Alone]], it was the subject of my theme. In company I often glancèd it. Still did I tell him it was vile and bad. |
-| ABBESS | And thereof came it that the man was mad. The venom clamours of a jealous woman Poisons more deadly than a mad dog’s tooth. It seems his sleeps were hindered by thy railing, And thereof comes it that his head is light. Thou sayst his meat was sauced with thy upbraidings. Unquiet meals make ill digestions. Thereof the raging [[Fire|fire]] offever bred, And what’s a fever but a fit of [[Madness|madness]]? Thou sayst his sports were hindered by thy brawls. Sweet recreation barred, what doth ensue But moody and dull [[Melancholy|melancholy]], Kinsman to grim and comfortless [[Despair|despair]], And at her heels a huge infectious troop Of pale distemperatures and foes to Life? In food, in sport, and life-preserving rest To be disturbed would mad or man or beast. The consequence is, then, thy jealous fits Hath scared thy husband from the use of wits. |
-| [[Luciana|LUCIANA]] | She never reprehended him but mildly When he demeaned himself rough, rude, and wildly. (To [[Adriana]]) Why bear you these rebukes, and answer not? |
-| [[Adriana|ADRIANA]] | She did betray me to my own reproof.— Good people, enter, and lay hold on him. |
-| ABBESS | No, not a creature enters in my [[house]]. |
-| [[Adriana|ADRIANA]] | Then let your servants bring my husband forth. |
-| ABBESS | Neither. He took this place for sanctuary, And it shall privilege him from your hands Till I have brought him to his wits again, Or lose my labour in essaying it. |
-| [[Adriana|ADRIANA]] | I will attend my husband, be his [[Nurse|nurse]], Diet his sickness, for it is my office, And will have no attorney but myself. And therefore let me have him [[Home|home]] with me. |
-| ABBESS | Be patient, for I will not let him stir Till I have used the approved means I have, With wholesome syrups, drugs, and holy prayers To make of him a formal man again. It is a branch and parcel of mine oath, A charitable duty of my order. Therefore depart, and leave him here with me. |
-| [[Adriana|ADRIANA]] | I will not hence, and leave my husband here; And ill it doth beseem your holiness To separate the husband and the wife. |
-| ABBESS | Be quiet and depart. Thou shalt not have him. Exit into the priory |
-| [[Luciana|LUCIANA]] | (to [[Adriana]]) Complain unto the Duke of this indignity. |
-| [[Adriana|ADRIANA]] | Come, go, I will fall prostrate at his feet, And never rise until my [[Tears|tears]] and prayers Have won his grace to come in person hither And take perforce my husband from the Abbess. |
-| SECOND MERCHANT | By this, I think, the dial point’s at five. Anon, I’m sure, the Duke himself in person Comes this way to the [[Melancholy|melancholy]] vale, The place of [[Death|death]] and sorry execution, Behind the ditches of the abbey here. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--03_exchange_angelo" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (ANGELO) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Angelo|ANGELO]] | Upon what cause? |
-| SECOND MERCHANT | To see a reverend Syracusian merchant, Who put unluckily into this bay Against the laws and statutes of this town, Beheaded publicly for his offence. |
-| [[Angelo|ANGELO]] | See where they come. We will behold his [[Death|death]]. |
-| [[Luciana|LUCIANA]] | Kneel to the Duke before he pass the abbey. Enter Solinus Duke of Ephesus, and [[Egeon]] the merchant of Syracuse, bareheaded, with the headsman and other officers |
-| DUKE | Yet once again proclaim it publicly: If any friend will pay the sum for him, He shall not die, so much we tender him. |
-| [[Adriana|ADRIANA]] | (kneeling) Justice, most sacred Duke, against the Abbess! |
-| DUKE | She is a virtuous and a reverend lady. It cannot be that she hath done thee wrong. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--04_monologue_adriana" data-title="The Comedy of Errors — Act V, Scene 1 — monologue (ADRIANA) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Adriana|ADRIANA]] | May it please your grace, Antipholus my husband, Who I made lord of me and all I had At your important letters—this ill day A most outrageous fit of [[Madness|madness]] took him, That desp’rately he hurried through the street, With him his bondman, all as mad as he, Doing displeasure to the citizens By rushing in their houses, bearing thence Rings, jewels, anything his rage did like. Once did I get him bound, and sent him [[Home|home]], Whilst to take order for the wrongs I went That here and there his fury had committed. Anon, I wot not by what strong escape, He broke from those that had the guard of him, And with his mad attendant and himself, Each one with ireful passion, with drawn swords, Met us again, and, madly bent on us, Chased us away; till, raising of more aid, We came again to bind them. Then they fled Into this abbey, whither we pursued them, And here the Abbess shuts the gates on us, And will not suffer us to fetch him out, Nor send him forth that we may bear him hence. Therefore, most gracious Duke, with thy command Let him be brought forth, and borne hence for help. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--05_exchange_duke" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (DUKE) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| DUKE | raising [[Adriana]] Long since, thy husband served me in my wars, And I to thee engaged a prince’s word, When thou didst make him master of thy bed, To do him all the grace and good I could.— Go, some of you, knock at the abbey gate, And bid the Lady Abbess come to me. I will determine this before I stir. Enter a Messenger from the Phoenix |
-| MESSENGER | (to [[Adriana]]) O mistress, mistress, shift and save yourself! My master and his man are both broke loose, Beaten the maids a-row, and bound the Doctor, Whose beard they have singed off with brands of [[Fire|fire]], And ever as it blazed they threw on him Great pails of puddled mire to quench the hair. My master preaches patience to him, and the while His man with scissors nicks him like a [[Fool|fool]]; And sure—unless you send some present help- Between them they will kill the conjurer. |
-| [[Adriana|ADRIANA]] | Peace, [[Fool|fool]]. Thy master and his man are here, And that is false thou dost report to us. |
-| MESSENGER | Mistress, upon my life I tell you true. I have not breathed almost since I did see it. He cries for you, and vows, if he can take you, To scorch your face and to disfigure you. Cry within Hark, hark, I hear him, mistress. Fly, be gone! |
-| DUKE | (to [[Adriana]]) Come stand by me. [[Fear]] nothing. Guard with halberds! Enter [[Antipholus of Ephesus]] and [[Dromio of Ephesus]] from the Phoenix |
-| [[Adriana|ADRIANA]] | Ay me, it is my husband! Witness you That he is borne about invisible. Even now we housed him in the abbey here, And now he’s there, past thought of human reason. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Justice, most gracious Duke, O grant me justice, Even for the service that long since I did thee, When I bestrid thee in the wars, and took Deep scars to save thy life; even for the [[Blood|blood]] That then I lost for thee, now grant me justice! |
-| [[Egeon|EGEON]] | (aside) Unless the [[Fear|fear]] of [[Death|death]] doth make me dote, I see my son Antipholus, and Dromio. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Justice, sweet prince, against that woman there, She whom thou gav’st to me to be my wife, That hath abused and dishonoured me Even in the strength and height of injury. Beyond [[Imagination|imagination]] is the wrong That she this day hath shameless thrown on me. |
-| DUKE | Discover how, and thou shalt find me just. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | This day, great Duke, she shut the doors upon me While she with harlots feasted in my [[house]]. |
-| DUKE | A grievous fautt!—Say, woman, didst thou so? |
-| [[Adriana|ADRIANA]] | No, my good lord. Myself, he, and my sister Today did dine together. So befall my [[Soul|soul]] As this is false he burdens me withal. |
-| [[Luciana|LUCIANA]] | Ne’er may I look on day nor [[Sleep|sleep]] on [[Night|night]] But she tells to your highness simple [[Truth|truth]]. |
-| [[Angelo|ANGELO]] | (aside) O perjured woman! They are both forsworn. In this the madman justly chargeth them. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--06_monologue_antipholus_of_ephesus" data-title="The Comedy of Errors — Act V, Scene 1 — monologue (ANTIPHOLUS OF EPHESUS) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | My liege, I am advised what I say, Neither disturbed with the effect of wine, Nor heady-rash provoked with raging ire, Albeit my wrongs might make one wiser mad. This woman locked me out this day from dinner. That goldsmith there, were he not packed with her, Could witness it, for he was with me then, Who parted with me to go fetch a chain, Promising to bring it to the Porcupine, Where Balthasar and I did dine together. Our dinner done, and he not coming thither, I went to seek him. In the street I met him, And in his company that gentleman. He points to the Second Merchant There did this perjured goldsmith swear me down That I this day of him received the chain, Which, God he knows, I saw not. For the which He did arrest me with an officer. I did obey, and sent my peasant [[Home|home]] For certain ducats. He with none returned. Then fairly I bespoke the officer To go in person with me to my [[house]]. By th’ way, we met my wife, her sister, and a rabble more Of vile confederates. Along with them They brought one Pinch, a hungry lean-faced [[Villain|villain]], A mere anatomy, a mountebank, A threadbare juggler, and a fortune-teller, A needy, hollow-eyed, sharp-looking wretch, A living dead man. This pernicious slave, Forsooth,took on him as a conjurer, And gazing in mine eyes, feeling my pulse, And with no face, as ’twere, outfacing me, Cries out I was possessed. Then all together They fell upon me, bound me, bore me thence, And in a dark and dankish vault at [[Home|home]] There left me and my man, both bound together, Till, gnawing with my teeth my bonds in sunder, I gained my [[Freedom|freedom]], and immediately Ran hither to your grace, whom I beseech To give me ample satisfaction For these deep shames and great indignities. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--07_exchange_angelo" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (ANGELO) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Angelo|ANGELO]] | My lord, in [[Truth|truth]], thus far I witness with him: That he dined not at [[Home|home]], but was locked out. |
-| DUKE | But had he such a chain of thee, or no? |
-| [[Angelo|ANGELO]] | He had, my lord, and when he ran in here These people saw the chain about his neck. |
-| SECOND MERCHANT | (to Antipholus) Besides, I will be sworn these ears of mine Heard you confess you had the chain of him, After you first forswore it on the mart, And thereupon I drew my [[Sword|sword]] on you; And then you fled into this abbey here, From whence I think you are come by miracle. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | I never came within these abbey walls, Nor ever didst thou draw thy [[Sword|sword]] on me. I never saw the chain, so help me heaven, And this is false you burden me withal. |
-| DUKE | Why, what an intricate impeach is this! I think you all have drunk of Circe’s cup. If here you housed him, here he would have been. If he were mad, he would not plead so coldly. (To [[Adriana]]) You say he dined at [[Home|home]], the goldsmith here Denies that saying. (To Dromio) Sirrah, what say you? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | (pointing out the Courtesan) Sir, he dined with her there, at the Porcupine. |
-| COURTESAN | He did, and from my finger snatched that ring. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | ’Tis true, my liege, this ring I had of her. |
-| DUKE | (to Courtesan) Saw’st thou him enter at the abbey here? |
-| COURTESAN | As sure, my liege, as I do see your grace. |
-| DUKE | Why, this is strange. Go call the Abbess hither. I think you are all mated, or stark mad. Exit one to the priory |
-| [[Egeon|EGEON]] | (coming forward) Most mighty Duke, vouchsafe me speak a word. Haply I see a friend will save my life, And pay the sum that may deliver me. |
-| DUKE | Speak freely, Syracusian, what thou wilt. |
-| [[Egeon|EGEON]] | (to Antipholus) Is not your name, sir, called Antipholus? And is not that your bondman Dromio? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Within this hour I was his bondman, sir, But he, I thank him, gnawed in two my cords. Now am I Dromio, and his man, unbound. |
-| [[Egeon|EGEON]] | I am sure you both of you remember me. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Ourselves we do remember, sir, by you; For lately we were bound as you are now. You are not Pinch’s patient, are you, sir? |
-| [[Egeon|EGEON]] | Why look you strange on me? You know me [[Well|well]]. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | I never saw you in my life till now. |
-| [[Egeon|EGEON]] | O, grief hath changed me since you saw me last, And careful hours with [[Time|time]]’s deformed hand Have written strange defeatures in my face. But tell me yet, dost thou not know my voice? |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Neither. |
-| [[Egeon|EGEON]] | Dromio, nor thou? |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | No, trust me sir, nor I. |
-| [[Egeon|EGEON]] | I am sure thou dost. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Ay, sir, but I am sure I do not, and whatsoever a man denies, you are now bound to believe him. |
-| [[Egeon|EGEON]] | Not know my voice ? O [[Time|time]]’s extremity, Hast thou so cracked and splitted my poor tongue In seven short years that here my only son Knows not my feeble key of untuned cares? Though now this grained face of mine be hid In sap-consuming [[Winter|winter]]’s drizzled [[Snow|snow]], And all the conduits of my [[Blood|blood]] froze up, Yet hath my [[Night|night]] of life some [[Memory|memory]], My wasting lamps some fading glimmer left, My dull deaf ears a little use to hear. All these old witnesses, I cannot err, Tell me thou art my son Antipholus. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--08_exchange_antipholus_of_ephesus" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (ANTIPHOLUS OF EPHESUS) [8]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | I never saw my father in my life. |
-| [[Egeon|EGEON]] | But seven years since, in Syracusa bay, Thou know‘st we parted. But perhaps, my son, Thou sham’st to acknowledge me in misery. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | The Duke, and all that know me in the [[City|city]], Can witness with me that it is not so. I ne’er saw Syracusa in my life. |
-| DUKE | (to [[Egeon]]) I tell thee, Syracusian, twenty years Have I been patron to Antipholus, During which [[Time|time]] he ne’er saw Syracusa. I see thy age and dangers make thee dote. Enter from the priory the Abbess, with [[Antipholus of Syracuse]], wearing the chain, and [[Dromio of Syracuse]] |
-| ABBESS | Most mighty Duke, behold a man much wronged. All gather to see them |
-| [[Adriana|ADRIANA]] | I see two husbands, or mine eyes deceive me. |
-| DUKE | One of these men is genius to the other: And so of these, which is the natural man, And which the spirit? Who deciphers them? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | I, sir, am Dromio. Command him away. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | I, sir, am Dromio. Pray let me stay. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | [[Egeon]], art thou not? Or else his [[Ghost|ghost]]. |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | O, my old master, who hath bound him here? |
-| ABBESS | Whoever bound him, I will loose his bonds, And gain a husband by his liberty. Speak, old [[Egeon]], if thou beest the man That hadst a wife once called [[Emilia]], That bore thee at a burden two fair sons. O, if thou beest the same [[Egeon]], speak, And speak unto the same [[Emilia]]. |
-| DUKE | Why, here begins his morning story right: These two Antipholus’, these two so like, And these two Dromios, one in semblance— Besides his urging of her wreck at sea. These are the parents to these children, Which accidentally are met together. |
-| [[Egeon|EGEON]] | If I dream not, thou art [[Emilia]]. If thou art she, tell me, where is that son That floated with thee on the fatal raft? |
-| ABBESS | By men of Epidamnum he and I And the twin Dromio all were taken up. But, by and by, rude fishermen of Corinth By force took Dromio and my son from them, And me they left with those of Epidamnum. What then became of them I cannot tell; I, to this fortune that you see me in. |
-| DUKE | (to [[Antipholus of Syracuse]]) Antipholus, thou cam’st from Corinth first. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | No, sir, not I. I came from Syracuse. |
-| DUKE | Stay, stand apart. I know not which is which. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | I came from Corinth, my most gracious lord. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | And I with him. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Brought to this town by that most famous warrior, Duke Menaphon, your most renowned uncle. |
-| [[Adriana|ADRIANA]] | Which of you two did dine with me today? |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I, gentle mistress. |
-| [[Adriana|ADRIANA]] | And are not you my husband? |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | No, I say nay to that. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | And so do I. Yet did she call me so; And this fair gentlewoman, her sister here, Did call me brother. (To [[Luciana]]) What I told you then I [[Hope|hope]] I shall have leisure to make good, If this be not [[A Dream|a dream]] I see and hear. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--09_exchange_angelo" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (ANGELO) [9]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Angelo|ANGELO]] | That is the chain, sir, which you had of me. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | I think it be, sir. I deny it not. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | (to [[Angelo]]) And you, sir, for this chain arrested me. |
-| [[Angelo|ANGELO]] | I think I did, sir. I deny it not. |
-| [[Adriana|ADRIANA]] | (to [[Antipholus of Ephesus]]) I sent you money, sir, to be your bail, By Dromio, but I think he brought it not. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | No, none by me. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | (to [[Adriana]]) This purse of ducats I received from you, And Dromio my man did bring them me. I see we still did meet each other’s man, And I was ta’en for him, and he for me, And thereupon these errors are arose. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | These ducats pawn I for my father here. |
-| DUKE | It shall not need. Thy father hath his life. |
-| COURTESAN | Sir, I must have that diamond from you. |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | There, take it, and much thanks for my good cheer. |
-| ABBESS | Renowned Duke, vouchsafe to take the pains To go with us into the abbey here, And hear at large discoursed all our fortunes, And all that are assembled in this place, That by this sympathized one day’s error Have suffered wrong. Go, keep us company, And we shall make full satisfaction. Thirty-three years have I but gone in travail Of you, my sons, and till this present hour My heavy burden ne’er delivered. The Duke, my husband, and my children both, And you the calendars of their nativity, Go to a gossips’ feast, and joy with me. After so long grief, such festivity! |
-| DUKE | With all my heart I’ll gossip at this feast. Exeunt into the priory all but the two Dromios and two brothers Antipholus |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | (to [[Antipholus of Ephesus]]) Master, shall I fetch your stuff from shipboard? |
-| [[Antipholus of Ephesus|ANTIPHOLUS OF EPHESUS]] | Dromio, what stuff of mine hast thou embarked? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Your goods that lay at host, sir, in the Centaur. |
-| [[Antipholus of Syracuse|ANTIPHOLUS OF SYRACUSE]] | He speaks to me.—I am your master, Dromio. Come, go with us. We’ll look to that anon. Embrace thy brother there; rejoice with him. Exeunt the brothers Antipholus |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | There is a fat friend at your master’s [[house]], That kitchened me for you today at dinner. She now shall be my sister, not my wife. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Methinks you are my glass and not my brother. I see by you I am a sweet-faced youth. Will you walk in to see their gossiping? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | Not I, sir, you are my elder. |
-| DROMIO | or EPHESUS That’s a question. How shall we try it? |
-| [[Dromio of Syracuse|DROMIO OF SYRACUSE]] | We’ll draw cuts for the senior. Till then, lead thou first. |
-| [[Dromio of Ephesus|DROMIO OF EPHESUS]] | Nay, then thus: We came into the world like brother and brother, And now let’s go hand in hand, not one before another. Exeunt to the priory |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--10_monologue_the" data-title="The Comedy of Errors — Act V, Scene 1 — monologue (THE) [10]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE | first, 1598 edition of [[Love]]’s Labour’s Lost is the earliest play text to carry Shakespeare’s name on the title-page, which also refers to performance before the [[Queen]] ‘this last Christmas’. The play is said to be ‘Newly corrected and augmented’, so perhaps an earlier edition has failed to survive. Even so, the text shows every sign of having been printed from Shakespeare’s working papers, since it includes some passages in draft as [[Well|well]] as in revised form. We print the drafts as Additional Passages. The play was probably written some years before publication, in 1594 or 1595. The setting is Navarre—a kingdom straddling the border between Spain and France—where the [[Young King|young King]] and three of his friends vow to devote the following three years to austere [[Self|self]]-improvement, forgoing the company of women. But they have forgotten the imminent arrival on a diplomatic mission of the [[Princess of France]] with, as it happens, three of her ladies; much [[Comedy|comedy]] derives from, first, the men’s embarrassed attempts to conceal from one another that they are falling in [[Love|love]], and second, the girls’ practical joke in exchanging identities when the men, disguised as Russians, come to entertain and to woo them. Shakespeare seems to have picked up the [[King]]’s friends’ names—Biron, [[Dumaine]], and [[Longueville]]—from leading figures in contemporary France, but to have invented the plot himself. He counterpoints the main action with events involving characters based in part on the type-figures of Italian commedia dell‘arte who reflect facets of the lords’ personalities. [[Costard]], an unsophisticated, open-hearted yokel, and his girl-friend Jaquenetta are sexually uninhibited; Don Adriano de Armado, ‘a refinèd traveller of Spain’ who also, though covertly, loves Jaquenetta, is full of pompous affectation; and Holofernes, a schoolmaster (seen always with his doting companion, the curate Sir Nathaniel), demonstrates the avid pedantry into which the young men’s verbal brilliance could degenerate. Much of the play’s language is highly sophisticated (this is, as the title-page claims, a ‘conceited [[Comedy|comedy]]’), in keeping with its subject matter. But the action reaches its climax when a messenger brings news which is communicated entirely without verbal statement. This is a theatrical masterstroke which also signals Shakespeare’s most daring experiment with comic form. ‘The scene begins to cloud’; in the play’s closing minutes the lords and ladies seek to readjust themselves to the new situation, and the play ends in subdued fashion with a third entertainment, the [[songs]] of the owl and the cuckoo. [[Love]]’s Labour’s Lost was for long regarded as a play of excessive verbal sophistication, of interest mainly because of a series of supposed topical allusions; but a number of distinguished twentieth-century productions revealed its theatrical mastery. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--11_exchange_the_persons_of_the_play" data-title="The Comedy of Errors — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [11]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY [[Ferdinand]], [[King|KING]] of Navarre Don Adriano de ARMADO, an affected Spanish braggart MOTE, his page |
-| PRINCESS | of France [[Costard|COSTARD]], a Clown JAQUENETTA, a country wench |
-| PRINCESS | Sir NATHANIEL, a curate HOLOFERNES, a schoolmaster Anthony DULL, a constable |
-| PRINCESS | MERCADE, a messenger |
-| *(didascalia)* | A |
 
 
 

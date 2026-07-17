@@ -11824,531 +11824,6 @@ awakening muttered thunder.
 
 
 
-<span class="atom-split" data-atom="chapter_04_there_is_not_any_other_young" data-title="The Mystery of Edwin Drood — Part 4: there is not any other young—”" data-chapter="there is not any other young" data-kind="chapter"></span>
-
-
-part—there is not any other young—”
-
-“O no, Eddy! It’s generous of you to ask me; but no, no, no!”
-
-They have come very near to the [[Cathedral]] windows, and at this moment
-the organ and the choir sound out sublimely. As they sit listening to
-the solemn swell, the confidence of last [[Night|night]] rises in young Edwin
-Drood’s mind, and he thinks how unlike this music is to that
-discordance.
-
-“I fancy I can distinguish Jack’s voice,” is his remark in a low tone
-in connection with the train of thought.
-
-“Take me back at once, please,” urges his Affianced, quickly laying her
-light hand upon his wrist. “They will all be coming out directly; let
-us get away. O, what a resounding chord! But don’t let us stop to
-listen to it; let us get away!”
-
-Her hurry is over as soon as they have passed out of the Close. They go
-arm-in-arm now, gravely and deliberately enough, along the old
-High-street, to the Nuns’ [[house|House]]. At the gate, the street being within
-sight empty, Edwin bends down his face to Rosebud’s.
-
-She remonstrates, laughing, and is a childish schoolgirl again.
-
-“Eddy, no! I’m too sticky to be kissed. But give me your hand, and I’ll
-blow a kiss into that.”
-
-He does so. She breathes a light breath into it and asks, retaining it
-and looking into it:—
-
-“Now say, what do you see?”
-
-“See, Rosa?”
-
-“Why, I thought you Egyptian boys could look into a hand and see all
-sorts of phantoms. Can’t you see a happy Future?”
-
-For certain, neither of them sees a happy Present, as the gate opens
-and closes, and one goes in, and the other goes away.
-
-
-
-
-<span class="atom-split" data-atom="chapter_22" data-title="The Mystery of Edwin Drood — Chapter 21" data-chapter="Chapter 22" data-kind="chapter"></span>
-
-
-CHAPTER XXI.
-A RECOGNITION
-
-
-Nothing occurred in the [[Night|night]] to flutter the tired dove; and the dove
-arose refreshed. With Mr. Grewgious, when the [[Clock|clock]] struck ten in the
-morning, came Mr. Crisparkle, who had come at one plunge out of the
-[[River|river]] at Cloisterham.
-
-“Miss Twinkleton was so uneasy, Miss Rosa,” he explained to her, “and
-came round to Ma and me with your note, in such a state of [[Wonder|wonder]],
-that, to quiet her, I volunteered on this service by the very first
-train to be caught in the morning. I wished at the [[Time|time]] that you had
-come to me; but now I think it best that you did _as_ you did, and came
-to your guardian.”
-
-“I did think of you,” Rosa told him; “but Minor Canon Corner was so
-near him—”
-
-“I understand. It was quite natural.”
-
-“I have told Mr. Crisparkle,” said Mr. Grewgious, “all that you told me
-last [[Night|night]], my dear. Of course I should have written it to him
-immediately; but his coming was most opportune. And it was particularly
-kind of him to come, for he had but just gone.”
-
-“Have you settled,” asked Rosa, appealing to them both, “what is to be
-done for [[Helena]] and her brother?”
-
-“Why really,” said Mr. Crisparkle, “I am in great perplexity. If even
-Mr. Grewgious, whose head is much longer than mine, and who is a whole
-[[Night|night]]’s cogitation in advance of me, is undecided, what must I be!”
-
-The Unlimited here put her head in at the door—after having rapped, and
-been authorised to present herself—announcing that a gentleman wished
-for a word with another gentleman named Crisparkle, if any such
-gentleman were there. If no such gentleman were there, he begged pardon
-for being mistaken.
-
-“Such a gentleman is here,” said Mr. Crisparkle, “but is engaged just
-now.”
-
-“Is it a dark gentleman?” interposed Rosa, retreating on her guardian.
-
-“No, Miss, more of a brown gentleman.”
-
-“You are sure not with black hair?” asked Rosa, taking [[Courage|courage]].
-
-“Quite sure of that, Miss. Brown hair and blue eyes.”
-
-“Perhaps,” hinted Mr. Grewgious, with habitual caution, “it might be
-[[Well|well]] to see him, reverend sir, if you don’t object. When one is in a
-difficulty or at a loss, one never knows in what direction a way out
-may chance to open. It is a business principle of mine, in such a case,
-not to close up any direction, but to keep an eye on every direction
-that may present itself. I could relate an anecdote in point, but that
-it would be premature.”
-
-“If Miss Rosa will allow me, then? Let the gentleman come in,” said Mr.
-Crisparkle.
-
-The gentleman came in; apologised, with a frank but modest grace, for
-not finding Mr. Crisparkle [[Alone|alone]]; turned to Mr. Crisparkle, and
-smilingly asked the unexpected question: “Who am I?”
-
-“You are the gentleman I saw smoking under the trees in Staple Inn, a
-few minutes ago.”
-
-“True. There I saw you. Who else am I?”
-
-Mr. Crisparkle concentrated his attention on a handsome face, much
-sunburnt; and the [[Ghost|ghost]] of some departed boy seemed to rise, gradually
-and dimly, in the room.
-
-The gentleman saw a struggling recollection lighten up the Minor
-Canon’s features, and smiling again, said: “What will you have for
-breakfast this morning? You are out of jam.”
-
-“Wait a moment!” cried Mr. Crisparkle, raising his right hand. “Give me
-another instant! Tartar!”
-
-The two shook hands with the greatest heartiness, and then went the
-wonderful length—for Englishmen—of laying their hands each on the
-other’s shoulders, and looking joyfully each into the other’s face.
-
-“My old fag!” said Mr. Crisparkle.
-
-“My old master!” said Mr. Tartar.
-
-“You saved me from drowning!” said Mr. Crisparkle.
-
-“After which you took to swimming, you know!” said Mr. Tartar.
-
-“God bless my [[Soul|soul]]!” said Mr. Crisparkle.
-
-“Amen!” said Mr. Tartar.
-
-And then they fell to shaking hands most heartily again.
-
-“Imagine,” exclaimed Mr. Crisparkle, with glistening eyes: “Miss Rosa
-Bud and Mr. Grewgious, imagine Mr. Tartar, when he was the smallest of
-juniors, diving for me, catching me, a big heavy senior, by the hair of
-the head, and striking out for the shore with me like a [[Water|water]]-giant!”
-
-“Imagine my not letting him sink, as I was his fag!” said Mr. Tartar.
-“But the [[Truth|truth]] being that he was my best protector and friend, and did
-me more good than all the masters put together, an irrational impulse
-seized me to pick him up, or go down with him.”
-
-“Hem! Permit me, sir, to have the [[Honour|honour]],” said Mr. Grewgious,
-advancing with extended hand, “for an [[Honour|honour]] I truly esteem it. I am
-proud to make your acquaintance. I [[Hope|hope]] you didn’t take cold. I [[Hope|hope]]
-you were not inconvenienced by swallowing too much [[Water|water]]. How have you
-been since?”
-
-It was by no means apparent that Mr. Grewgious knew what he said,
-though it was very apparent that he meant to say something highly
-friendly and appreciative.
-
-If Heaven, Rosa thought, had but sent such [[Courage|courage]] and skill to her
-poor mother’s aid! And he to have been so slight and young then!
-
-“I don’t wish to be complimented upon it, I thank you; but I think I
-have an idea,” Mr. Grewgious announced, after taking a jog-trot or two
-across the room, so unexpected and unaccountable that they all stared
-at him, doubtful whether he was choking or had the cramp—“I _think_ I
-have an idea. I believe I have had the pleasure of seeing Mr. Tartar’s
-name as tenant of the top set in the [[house]] next the top set in the
-corner?”
-
-“Yes, sir,” returned Mr. Tartar. “You are right so far.”
-
-“I am right so far,” said Mr. Grewgious. “Tick that off;” which he did,
-with his right thumb on his left. “Might you happen to know the name of
-your neighbour in the top set on the other side of the party-wall?”
-coming very close to Mr. Tartar, to lose nothing of his face, in his
-shortness of sight.
-
-“Landless.”
-
-“Tick that off,” said Mr. Grewgious, taking another trot, and then
-coming back. “No personal knowledge, I suppose, sir?”
-
-“Slight, but some.”
-
-“Tick that off,” said Mr. Grewgious, taking another trot, and again
-coming back. “[[Nature]] of knowledge, Mr. Tartar?”
-
-“I thought he seemed to be a young fellow in a poor way, and I asked
-his leave—only within a day or so—to share my [[Flowers|flowers]] up there with
-him; that is to say, to extend my flower-[[Garden|garden]] to his windows.”
-
-“Would you have the kindness to take seats?” said Mr. Grewgious. “I
-_have_ an idea!”
-
-They complied; Mr. Tartar none the less readily, for being all abroad;
-and Mr. Grewgious, seated in the centre, with his hands upon his knees,
-thus stated his idea, with his usual manner of having got the statement
-by heart.
-
-“I cannot as yet make up my mind whether it is prudent to hold open
-communication under present circumstances, and on the part of the fair
-member of the present company, with Mr. Neville or Miss [[Helena]]. I have
-reason to know that a local friend of ours (on whom I beg to bestow a
-passing but a hearty malediction, with the kind permission of my
-reverend friend) sneaks to and fro, and dodges up and down. When not
-doing so himself, he may have some informant skulking about, in the
-person of a watchman, porter, or such-like hanger-on of Staple. On the
-other hand, Miss Rosa very naturally wishes to see her friend Miss
-[[Helena]], and it would seem important that at least Miss [[Helena]] (if not
-her brother too, through her) should privately know from Miss Rosa’s
-lips what has occurred, and what has been threatened. Am I agreed with
-generally in the views I take?”
-
-“I entirely coincide with them,” said Mr. Crisparkle, who had been very
-attentive.
-
-“As I have no [[Doubt|doubt]] I should,” added Mr. Tartar, smiling, “if I
-understood them.”
-
-“Fair and softly, sir,” said Mr. Grewgious; “we shall fully confide in
-you directly, if you will favour us with your permission. Now, if our
-local friend should have any informant on the spot, it is tolerably
-clear that such informant can only be set to watch the chambers in the
-occupation of Mr. Neville. He reporting, to our local friend, who comes
-and goes there, our local friend would supply for himself, from his own
-previous knowledge, the [[Identity|identity]] of the parties. Nobody can be set to
-watch all Staple, or to concern himself with comers and goers to other
-sets of chambers: unless, indeed, mine.”
-
-“I begin to understand to what you tend,” said Mr. Crisparkle, “and
-highly approve of your caution.”
-
-“I needn’t repeat that I know nothing yet of the why and wherefore,”
-said Mr. Tartar; “but I also understand to what you tend, so let me say
-at once that my chambers are freely at your disposal.”
-
-“There!” cried Mr. Grewgious, smoothing his head triumphantly, “now we
-have all got the idea. You have it, my dear?”
-
-“I think I have,” said Rosa, blushing a little as Mr. Tartar looked
-quickly towards her.
-
-“You see, you go over to Staple with Mr. Crisparkle and Mr. Tartar,”
-said Mr. Grewgious; “I going in and out, and out and in [[Alone|alone]], in my
-usual way; you go up with those gentlemen to Mr. Tartar’s rooms; you
-look into Mr. Tartar’s flower-[[Garden|garden]]; you wait for Miss [[Helena]]’s
-appearance there, or you signify to Miss [[Helena]] that you are close by;
-and you communicate with her freely, and no spy can be the wiser.”
-
-“I am very much afraid I shall be—”
-
-“Be what, my dear?” asked Mr. Grewgious, as she hesitated. “Not
-frightened?”
-
-“No, not that,” said Rosa, shyly; “in Mr. Tartar’s way. We seem to be
-appropriating Mr. Tartar’s residence so very coolly.”
-
-“I protest to you,” returned that gentleman, “that I shall think the
-better of it for evermore, if your voice sounds in it only once.”
-
-Rosa, not quite knowing what to say about that, cast down her eyes, and
-turning to Mr. Grewgious, dutifully asked if she should put her hat on?
-Mr. Grewgious being of opinion that she could not do better, she
-withdrew for the purpose. Mr. Crisparkle took the opportunity of giving
-Mr. Tartar a summary of the distresses of Neville and his sister; the
-opportunity was quite long enough, as the hat happened to require a
-little extra fitting on.
-
-Mr. Tartar gave his arm to Rosa, and Mr. Crisparkle walked, detached,
-in front.
-
-“Poor, poor Eddy!” thought Rosa, as they went along.
-
-Mr. Tartar waved his right hand as he bent his head down over Rosa,
-talking in an animated way.
-
-“It was not so powerful or so sun-browned when it saved Mr.
-Crisparkle,” thought Rosa, glancing at it; “but it must have been very
-steady and determined even then.”
-
-Mr. Tartar told her he had been a sailor, roving everywhere for years
-and years.
-
-“When are you going to sea again?” asked Rosa.
-
-“Never!”
-
-Rosa wondered what the girls would say if they could see her crossing
-the wide street on the sailor’s arm. And she fancied that the
-passers-by must think her very little and very helpless, contrasted
-with the strong figure that could have caught her up and carried her
-out of any danger, miles and miles without resting.
-
-She was thinking further, that his far-seeing blue eyes looked as if
-they had been used to watch danger afar off, and to watch it without
-flinching, drawing nearer and nearer: when, happening to raise her own
-eyes, she found that he seemed to be thinking something about _them_.
-
-This a little confused Rosebud, and may account for her never
-afterwards quite knowing how she ascended (with his help) to his [[Garden|garden]]
-in the air, and seemed to get into a marvellous country that came into
-sudden bloom like the country on the summit of the [[Magic|magic]] bean-stalk.
-May it flourish for ever!
-
-
-
-
-<span class="atom-split" data-atom="chapter_23" data-title="The Mystery of Edwin Drood — Chapter 22" data-chapter="Chapter 23" data-kind="chapter"></span>
-
-
-CHAPTER XXII.
-A GRITTY STATE OF THINGS COMES ON
-
-
-Mr. Tartar’s chambers were the neatest, the cleanest, and the
-best-ordered chambers ever seen under the sun, [[Moon|moon]], and [[Stars|stars]]. The
-floors were scrubbed to that extent, that you might have supposed the
-[[London]] blacks emancipated for ever, and gone out of the land for good.
-Every inch of brass-work in Mr. Tartar’s possession was polished and
-burnished, till it shone like a brazen [[Mirror|mirror]]. No speck, nor spot, nor
-spatter soiled the purity of any of Mr. Tartar’s household gods, large,
-small, or middle-sized. His sitting-room was like the admiral’s cabin,
-his bath-room was like a dairy, his sleeping-chamber, fitted all about
-with lockers and drawers, was like a seedsman’s shop; and his
-nicely-balanced cot just stirred in the midst, as if it breathed.
-Everything belonging to Mr. Tartar had quarters of its own assigned to
-it: his maps and charts had their quarters; his books had theirs; his
-brushes had theirs; his boots had theirs; his clothes had theirs; his
-case-bottles had theirs; his telescopes and other instruments had
-theirs. Everything was readily accessible. Shelf, bracket, locker,
-hook, and drawer were equally within reach, and were equally contrived
-with a view to avoiding waste of room, and providing some snug inches
-of stowage for something that would have exactly fitted nowhere else.
-His gleaming little service of plate was so arranged upon his sideboard
-as that a slack salt-spoon would have instantly betrayed itself; his
-toilet implements were so arranged upon his dressing-table as that a
-toothpick of slovenly deportment could have been reported at a glance.
-So with the curiosities he had brought [[Home|home]] from various voyages.
-Stuffed, dried, repolished, or otherwise preserved, according to their
-kind; [[Birds|birds]], fishes, reptiles, arms, articles of dress, shells,
-seaweeds, grasses, or memorials of coral reef; each was displayed in
-its especial place, and each could have been displayed in no better
-place. Paint and varnish seemed to be kept somewhere out of sight, in
-constant readiness to obliterate stray finger-marks wherever any might
-become perceptible in Mr. Tartar’s chambers. No man-of-war was ever
-kept more spick and span from careless touch. On this bright [[Summer|summer]]
-day, a neat awning was rigged over Mr. Tartar’s flower-[[Garden|garden]] as only a
-sailor can rig it, and there was a sea-going air upon the whole effect,
-so delightfully complete, that the flower-[[Garden|garden]] might have appertained
-to stern-windows afloat, and the whole concern might have bowled away
-gallantly with all on board, if Mr. Tartar had only clapped to his lips
-the speaking-trumpet that was slung in a corner, and given hoarse
-orders to heave the anchor up, look alive there, men, and get all sail
-upon her!
-
-Mr. Tartar doing the honours of this gallant craft was of a piece with
-the rest. When a man rides an amiable hobby that shies at nothing and
-kicks nobody, it is only agreeable to find him riding it with a
-humorous sense of the droll side of the creature. When the man is a
-cordial and an earnest man by [[Nature|nature]], and withal is perfectly fresh and
-genuine, it may be doubted whether he is ever seen to greater advantage
-than at such a [[Time|time]]. So Rosa would have naturally thought (even if she
-hadn’t been conducted over the [[Ship|ship]] with all the homage due to the
-First Lady of the Admiralty, or First Fairy of the Sea), that it was
-charming to see and hear Mr. Tartar half laughing at, and half
-rejoicing in, his various contrivances. So Rosa would have naturally
-thought, anyhow, that the sunburnt sailor showed to great advantage
-when, the inspection finished, he delicately withdrew out of his
-admiral’s cabin, beseeching her to consider herself its [[Queen]], and
-waving her free of his flower-[[Garden|garden]] with the hand that had had Mr.
-Crisparkle’s life in it.
-
-“[[Helena]]! [[Helena Landless]]! Are you there?”
-
-“Who speaks to me? Not Rosa?” Then a second handsome face appearing.
-
-“Yes, my darling!”
-
-“Why, how did you come here, dearest?”
-
-“I—I don’t quite know,” said Rosa with a blush; “unless I am dreaming!”
-
-Why with a blush? For their two faces were [[Alone|alone]] with the other
-[[Flowers|flowers]]. Are blushes among the fruits of the country of the [[Magic|magic]]
-bean-stalk?
-
-“_I_ am not dreaming,” said [[Helena]], smiling. “I should take more for
-granted if I were. How do we come together—or so near together—so very
-unexpectedly?”
-
-Unexpectedly indeed, among the dingy gables and chimneypots of P. J.
-T.’s connection, and the [[Flowers|flowers]] that had sprung from the salt sea. But
-Rosa, waking, told in a hurry how they came to be together, and all the
-why and wherefore of that matter.
-
-“And Mr. Crisparkle is here,” said Rosa, in rapid conclusion; “and,
-could you believe it? long ago he saved his life!”
-
-“I could believe any such thing of Mr. Crisparkle,” returned [[Helena]],
-with a mantling face.
-
-(More blushes in the bean-stalk country!)
-
-“Yes, but it wasn’t Crisparkle,” said Rosa, quickly putting in the
-correction.
-
-“I don’t understand, [[Love|love]].”
-
-“It was very nice of Mr. Crisparkle to be saved,” said Rosa, “and he
-couldn’t have shown his high opinion of Mr. Tartar more expressively.
-But it was Mr. Tartar who saved him.”
-
-[[Helena]]’s dark eyes looked very earnestly at the bright face among the
-[[Leaves|leaves]], and she asked, in a slower and more thoughtful tone:
-
-“Is Mr. Tartar with you now, dear?”
-
-“No; because he has given up his rooms to me—to us, I mean. It is such
-a beautiful place!”
-
-“Is it?”
-
-“It is like the inside of the most exquisite [[Ship|ship]] that ever sailed. It
-is like—it is like—”
-
-“Like [[A Dream|a dream]]?” suggested [[Helena]].
-
-Rosa answered with a little nod, and smelled the [[Flowers|flowers]].
-
-[[Helena]] resumed, after a short pause of [[Silence|silence]], during which she seemed
-(or it was Rosa’s fancy) to compassionate somebody: “My poor Neville is
-reading in his own room, the sun being so very bright on this side just
-now. I think he had better not know that you are so near.”
-
-“O, I think so too!” cried Rosa very readily.
-
-“I suppose,” pursued [[Helena]], doubtfully, “that he must know by-and-by
-all you have told me; but I am not sure. Ask Mr. Crisparkle’s advice,
-my darling. Ask him whether I may tell Neville as much or as little of
-what you have told me as I think best.”
-
-Rosa subsided into her state-cabin, and propounded the question. The
-Minor Canon was for the free exercise of [[Helena]]’s judgment.
-
-“I thank him very much,” said [[Helena]], when Rosa emerged again with her
-report. “Ask him whether it would be best to wait until any more
-maligning and pursuing of Neville on the part of this wretch shall
-disclose itself, or to try to anticipate it: I mean, so far as to find
-out whether any such goes on darkly about us?”
-
-The Minor Canon found this point so difficult to give a confident
-opinion on, that, after two or three attempts and failures, he
-suggested a reference to Mr. Grewgious. [[Helena]] acquiescing, he betook
-himself (with a most unsuccessful assumption of lounging indifference)
-across the quadrangle to P. J. T.’s, and stated it. Mr. Grewgious held
-decidedly to the general principle, that if you could steal a march
-upon a brigand or a wild beast, you had better do it; and he also held
-decidedly to the special case, that [[John Jasper]] was a brigand and a
-wild beast in combination.
-
-Thus advised, Mr. Crisparkle came back again and reported to Rosa, who
-in her turn reported to [[Helena]]. She now steadily pursuing her train of
-thought at her [[Window|window]], considered thereupon.
-
-“We may count on Mr. Tartar’s readiness to help us, Rosa?” she
-inquired.
-
-O yes! Rosa shyly thought so. O yes, Rosa shyly believed she could
-almost answer for it. But should she ask Mr. Crisparkle? “I think your
-authority on the point as good as his, my dear,” said [[Helena]], sedately,
-“and you needn’t disappear again for that.” Odd of [[Helena]]!
-
-“You see, Neville,” [[Helena]] pursued after more reflection, “knows no one
-else here: he has not so much as exchanged a word with any one else
-here. If Mr. Tartar would call to see him openly and often; if he would
-spare a minute for the purpose, frequently; if he would even do so,
-almost daily; something might come of it.”
-
-“Something might come of it, dear?” repeated Rosa, surveying her
-friend’s [[Beauty|beauty]] with a highly perplexed face. “Something might?”
-
-“If Neville’s movements are really watched, and if the purpose really
-is to isolate him from all friends and acquaintance and wear his daily
-life out grain by grain (which would seem to be the threat to you),
-does it not appear likely,” said [[Helena]], “that his enemy would in some
-way communicate with Mr. Tartar to warn him off from Neville? In which
-case, we might not only know the fact, but might know from Mr. Tartar
-what the terms of the communication were.”
-
-“I see!” cried Rosa. And immediately darted into her state-cabin again.
-
-Presently her pretty face reappeared, with a greatly heightened colour,
-and she said that she had told Mr. Crisparkle, and that Mr. Crisparkle
-had fetched in Mr. Tartar, and that Mr. Tartar—“who is waiting now, in
-case you want him,” added Rosa, with a half look back, and in not a
-little confusion between the inside of the state-cabin and out—had
-declared his readiness to act as she had suggested, and to enter on his
-task that very day.
-
-“I thank him from my heart,” said [[Helena]]. “Pray tell him so.”
-
-Again not a little confused between the Flower-[[Garden|garden]] and the Cabin,
-Rosa dipped in with her message, and dipped out again with more
-assurances from Mr. Tartar, and stood wavering in a divided state
-between [[Helena]] and him, which proved that confusion is not always
-necessarily awkward, but may sometimes present a very pleasant
-appearance.
-
-“And now, darling,” said [[Helena]], “we will be mindful of the caution
-that has restricted us to this interview for the present, and will
-
-
-
-
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="The Mystery of Edwin Drood — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
 
@@ -13449,6 +12924,53 @@ having been so moved—leads her to a seat hard by, under the elm-trees.
 own line—now I come to think of it, I don’t know that I am particularly
 clever in it—but I want to do right. There is not—there may be—I really
 don’t see my way to what I want to say, but I must say it before we
+
+
+
+
+<span class="atom-split" data-atom="chapter_04_there_is_not_any_other_young" data-title="The Mystery of Edwin Drood — Part 4: there is not any other young—”" data-chapter="there is not any other young" data-kind="chapter"></span>
+
+
+part—there is not any other young—”
+
+“O no, Eddy! It’s generous of you to ask me; but no, no, no!”
+
+They have come very near to the [[Cathedral]] windows, and at this moment
+the organ and the choir sound out sublimely. As they sit listening to
+the solemn swell, the confidence of last [[Night|night]] rises in young Edwin
+Drood’s mind, and he thinks how unlike this music is to that
+discordance.
+
+“I fancy I can distinguish Jack’s voice,” is his remark in a low tone
+in connection with the train of thought.
+
+“Take me back at once, please,” urges his Affianced, quickly laying her
+light hand upon his wrist. “They will all be coming out directly; let
+us get away. O, what a resounding chord! But don’t let us stop to
+listen to it; let us get away!”
+
+Her hurry is over as soon as they have passed out of the Close. They go
+arm-in-arm now, gravely and deliberately enough, along the old
+High-street, to the Nuns’ [[house|House]]. At the gate, the street being within
+sight empty, Edwin bends down his face to Rosebud’s.
+
+She remonstrates, laughing, and is a childish schoolgirl again.
+
+“Eddy, no! I’m too sticky to be kissed. But give me your hand, and I’ll
+blow a kiss into that.”
+
+He does so. She breathes a light breath into it and asks, retaining it
+and looking into it:—
+
+“Now say, what do you see?”
+
+“See, Rosa?”
+
+“Why, I thought you Egyptian boys could look into a hand and see all
+sorts of phantoms. Can’t you see a happy Future?”
+
+For certain, neither of them sees a happy Present, as the gate opens
+and closes, and one goes in, and the other goes away.
 
 
 
@@ -22151,6 +21673,484 @@ the same spirit, he walked up and down outside the iron gate for the
 best part of an hour, with some solicitude; occasionally looking in
 between the bars, as if he had laid a dove in a high roost in a cage of
 lions, and had it on his mind that she might tumble out.
+
+
+
+
+<span class="atom-split" data-atom="chapter_22" data-title="The Mystery of Edwin Drood — Chapter 21" data-chapter="Chapter 22" data-kind="chapter"></span>
+
+
+CHAPTER XXI.
+A RECOGNITION
+
+
+Nothing occurred in the [[Night|night]] to flutter the tired dove; and the dove
+arose refreshed. With Mr. Grewgious, when the [[Clock|clock]] struck ten in the
+morning, came Mr. Crisparkle, who had come at one plunge out of the
+[[River|river]] at Cloisterham.
+
+“Miss Twinkleton was so uneasy, Miss Rosa,” he explained to her, “and
+came round to Ma and me with your note, in such a state of [[Wonder|wonder]],
+that, to quiet her, I volunteered on this service by the very first
+train to be caught in the morning. I wished at the [[Time|time]] that you had
+come to me; but now I think it best that you did _as_ you did, and came
+to your guardian.”
+
+“I did think of you,” Rosa told him; “but Minor Canon Corner was so
+near him—”
+
+“I understand. It was quite natural.”
+
+“I have told Mr. Crisparkle,” said Mr. Grewgious, “all that you told me
+last [[Night|night]], my dear. Of course I should have written it to him
+immediately; but his coming was most opportune. And it was particularly
+kind of him to come, for he had but just gone.”
+
+“Have you settled,” asked Rosa, appealing to them both, “what is to be
+done for [[Helena]] and her brother?”
+
+“Why really,” said Mr. Crisparkle, “I am in great perplexity. If even
+Mr. Grewgious, whose head is much longer than mine, and who is a whole
+[[Night|night]]’s cogitation in advance of me, is undecided, what must I be!”
+
+The Unlimited here put her head in at the door—after having rapped, and
+been authorised to present herself—announcing that a gentleman wished
+for a word with another gentleman named Crisparkle, if any such
+gentleman were there. If no such gentleman were there, he begged pardon
+for being mistaken.
+
+“Such a gentleman is here,” said Mr. Crisparkle, “but is engaged just
+now.”
+
+“Is it a dark gentleman?” interposed Rosa, retreating on her guardian.
+
+“No, Miss, more of a brown gentleman.”
+
+“You are sure not with black hair?” asked Rosa, taking [[Courage|courage]].
+
+“Quite sure of that, Miss. Brown hair and blue eyes.”
+
+“Perhaps,” hinted Mr. Grewgious, with habitual caution, “it might be
+[[Well|well]] to see him, reverend sir, if you don’t object. When one is in a
+difficulty or at a loss, one never knows in what direction a way out
+may chance to open. It is a business principle of mine, in such a case,
+not to close up any direction, but to keep an eye on every direction
+that may present itself. I could relate an anecdote in point, but that
+it would be premature.”
+
+“If Miss Rosa will allow me, then? Let the gentleman come in,” said Mr.
+Crisparkle.
+
+The gentleman came in; apologised, with a frank but modest grace, for
+not finding Mr. Crisparkle [[Alone|alone]]; turned to Mr. Crisparkle, and
+smilingly asked the unexpected question: “Who am I?”
+
+“You are the gentleman I saw smoking under the trees in Staple Inn, a
+few minutes ago.”
+
+“True. There I saw you. Who else am I?”
+
+Mr. Crisparkle concentrated his attention on a handsome face, much
+sunburnt; and the [[Ghost|ghost]] of some departed boy seemed to rise, gradually
+and dimly, in the room.
+
+The gentleman saw a struggling recollection lighten up the Minor
+Canon’s features, and smiling again, said: “What will you have for
+breakfast this morning? You are out of jam.”
+
+“Wait a moment!” cried Mr. Crisparkle, raising his right hand. “Give me
+another instant! Tartar!”
+
+The two shook hands with the greatest heartiness, and then went the
+wonderful length—for Englishmen—of laying their hands each on the
+other’s shoulders, and looking joyfully each into the other’s face.
+
+“My old fag!” said Mr. Crisparkle.
+
+“My old master!” said Mr. Tartar.
+
+“You saved me from drowning!” said Mr. Crisparkle.
+
+“After which you took to swimming, you know!” said Mr. Tartar.
+
+“God bless my [[Soul|soul]]!” said Mr. Crisparkle.
+
+“Amen!” said Mr. Tartar.
+
+And then they fell to shaking hands most heartily again.
+
+“Imagine,” exclaimed Mr. Crisparkle, with glistening eyes: “Miss Rosa
+Bud and Mr. Grewgious, imagine Mr. Tartar, when he was the smallest of
+juniors, diving for me, catching me, a big heavy senior, by the hair of
+the head, and striking out for the shore with me like a [[Water|water]]-giant!”
+
+“Imagine my not letting him sink, as I was his fag!” said Mr. Tartar.
+“But the [[Truth|truth]] being that he was my best protector and friend, and did
+me more good than all the masters put together, an irrational impulse
+seized me to pick him up, or go down with him.”
+
+“Hem! Permit me, sir, to have the [[Honour|honour]],” said Mr. Grewgious,
+advancing with extended hand, “for an [[Honour|honour]] I truly esteem it. I am
+proud to make your acquaintance. I [[Hope|hope]] you didn’t take cold. I [[Hope|hope]]
+you were not inconvenienced by swallowing too much [[Water|water]]. How have you
+been since?”
+
+It was by no means apparent that Mr. Grewgious knew what he said,
+though it was very apparent that he meant to say something highly
+friendly and appreciative.
+
+If Heaven, Rosa thought, had but sent such [[Courage|courage]] and skill to her
+poor mother’s aid! And he to have been so slight and young then!
+
+“I don’t wish to be complimented upon it, I thank you; but I think I
+have an idea,” Mr. Grewgious announced, after taking a jog-trot or two
+across the room, so unexpected and unaccountable that they all stared
+at him, doubtful whether he was choking or had the cramp—“I _think_ I
+have an idea. I believe I have had the pleasure of seeing Mr. Tartar’s
+name as tenant of the top set in the [[house]] next the top set in the
+corner?”
+
+“Yes, sir,” returned Mr. Tartar. “You are right so far.”
+
+“I am right so far,” said Mr. Grewgious. “Tick that off;” which he did,
+with his right thumb on his left. “Might you happen to know the name of
+your neighbour in the top set on the other side of the party-wall?”
+coming very close to Mr. Tartar, to lose nothing of his face, in his
+shortness of sight.
+
+“Landless.”
+
+“Tick that off,” said Mr. Grewgious, taking another trot, and then
+coming back. “No personal knowledge, I suppose, sir?”
+
+“Slight, but some.”
+
+“Tick that off,” said Mr. Grewgious, taking another trot, and again
+coming back. “[[Nature]] of knowledge, Mr. Tartar?”
+
+“I thought he seemed to be a young fellow in a poor way, and I asked
+his leave—only within a day or so—to share my [[Flowers|flowers]] up there with
+him; that is to say, to extend my flower-[[Garden|garden]] to his windows.”
+
+“Would you have the kindness to take seats?” said Mr. Grewgious. “I
+_have_ an idea!”
+
+They complied; Mr. Tartar none the less readily, for being all abroad;
+and Mr. Grewgious, seated in the centre, with his hands upon his knees,
+thus stated his idea, with his usual manner of having got the statement
+by heart.
+
+“I cannot as yet make up my mind whether it is prudent to hold open
+communication under present circumstances, and on the part of the fair
+member of the present company, with Mr. Neville or Miss [[Helena]]. I have
+reason to know that a local friend of ours (on whom I beg to bestow a
+passing but a hearty malediction, with the kind permission of my
+reverend friend) sneaks to and fro, and dodges up and down. When not
+doing so himself, he may have some informant skulking about, in the
+person of a watchman, porter, or such-like hanger-on of Staple. On the
+other hand, Miss Rosa very naturally wishes to see her friend Miss
+[[Helena]], and it would seem important that at least Miss [[Helena]] (if not
+her brother too, through her) should privately know from Miss Rosa’s
+lips what has occurred, and what has been threatened. Am I agreed with
+generally in the views I take?”
+
+“I entirely coincide with them,” said Mr. Crisparkle, who had been very
+attentive.
+
+“As I have no [[Doubt|doubt]] I should,” added Mr. Tartar, smiling, “if I
+understood them.”
+
+“Fair and softly, sir,” said Mr. Grewgious; “we shall fully confide in
+you directly, if you will favour us with your permission. Now, if our
+local friend should have any informant on the spot, it is tolerably
+clear that such informant can only be set to watch the chambers in the
+occupation of Mr. Neville. He reporting, to our local friend, who comes
+and goes there, our local friend would supply for himself, from his own
+previous knowledge, the [[Identity|identity]] of the parties. Nobody can be set to
+watch all Staple, or to concern himself with comers and goers to other
+sets of chambers: unless, indeed, mine.”
+
+“I begin to understand to what you tend,” said Mr. Crisparkle, “and
+highly approve of your caution.”
+
+“I needn’t repeat that I know nothing yet of the why and wherefore,”
+said Mr. Tartar; “but I also understand to what you tend, so let me say
+at once that my chambers are freely at your disposal.”
+
+“There!” cried Mr. Grewgious, smoothing his head triumphantly, “now we
+have all got the idea. You have it, my dear?”
+
+“I think I have,” said Rosa, blushing a little as Mr. Tartar looked
+quickly towards her.
+
+“You see, you go over to Staple with Mr. Crisparkle and Mr. Tartar,”
+said Mr. Grewgious; “I going in and out, and out and in [[Alone|alone]], in my
+usual way; you go up with those gentlemen to Mr. Tartar’s rooms; you
+look into Mr. Tartar’s flower-[[Garden|garden]]; you wait for Miss [[Helena]]’s
+appearance there, or you signify to Miss [[Helena]] that you are close by;
+and you communicate with her freely, and no spy can be the wiser.”
+
+“I am very much afraid I shall be—”
+
+“Be what, my dear?” asked Mr. Grewgious, as she hesitated. “Not
+frightened?”
+
+“No, not that,” said Rosa, shyly; “in Mr. Tartar’s way. We seem to be
+appropriating Mr. Tartar’s residence so very coolly.”
+
+“I protest to you,” returned that gentleman, “that I shall think the
+better of it for evermore, if your voice sounds in it only once.”
+
+Rosa, not quite knowing what to say about that, cast down her eyes, and
+turning to Mr. Grewgious, dutifully asked if she should put her hat on?
+Mr. Grewgious being of opinion that she could not do better, she
+withdrew for the purpose. Mr. Crisparkle took the opportunity of giving
+Mr. Tartar a summary of the distresses of Neville and his sister; the
+opportunity was quite long enough, as the hat happened to require a
+little extra fitting on.
+
+Mr. Tartar gave his arm to Rosa, and Mr. Crisparkle walked, detached,
+in front.
+
+“Poor, poor Eddy!” thought Rosa, as they went along.
+
+Mr. Tartar waved his right hand as he bent his head down over Rosa,
+talking in an animated way.
+
+“It was not so powerful or so sun-browned when it saved Mr.
+Crisparkle,” thought Rosa, glancing at it; “but it must have been very
+steady and determined even then.”
+
+Mr. Tartar told her he had been a sailor, roving everywhere for years
+and years.
+
+“When are you going to sea again?” asked Rosa.
+
+“Never!”
+
+Rosa wondered what the girls would say if they could see her crossing
+the wide street on the sailor’s arm. And she fancied that the
+passers-by must think her very little and very helpless, contrasted
+with the strong figure that could have caught her up and carried her
+out of any danger, miles and miles without resting.
+
+She was thinking further, that his far-seeing blue eyes looked as if
+they had been used to watch danger afar off, and to watch it without
+flinching, drawing nearer and nearer: when, happening to raise her own
+eyes, she found that he seemed to be thinking something about _them_.
+
+This a little confused Rosebud, and may account for her never
+afterwards quite knowing how she ascended (with his help) to his [[Garden|garden]]
+in the air, and seemed to get into a marvellous country that came into
+sudden bloom like the country on the summit of the [[Magic|magic]] bean-stalk.
+May it flourish for ever!
+
+
+
+
+<span class="atom-split" data-atom="chapter_23" data-title="The Mystery of Edwin Drood — Chapter 22" data-chapter="Chapter 23" data-kind="chapter"></span>
+
+
+CHAPTER XXII.
+A GRITTY STATE OF THINGS COMES ON
+
+
+Mr. Tartar’s chambers were the neatest, the cleanest, and the
+best-ordered chambers ever seen under the sun, [[Moon|moon]], and [[Stars|stars]]. The
+floors were scrubbed to that extent, that you might have supposed the
+[[London]] blacks emancipated for ever, and gone out of the land for good.
+Every inch of brass-work in Mr. Tartar’s possession was polished and
+burnished, till it shone like a brazen [[Mirror|mirror]]. No speck, nor spot, nor
+spatter soiled the purity of any of Mr. Tartar’s household gods, large,
+small, or middle-sized. His sitting-room was like the admiral’s cabin,
+his bath-room was like a dairy, his sleeping-chamber, fitted all about
+with lockers and drawers, was like a seedsman’s shop; and his
+nicely-balanced cot just stirred in the midst, as if it breathed.
+Everything belonging to Mr. Tartar had quarters of its own assigned to
+it: his maps and charts had their quarters; his books had theirs; his
+brushes had theirs; his boots had theirs; his clothes had theirs; his
+case-bottles had theirs; his telescopes and other instruments had
+theirs. Everything was readily accessible. Shelf, bracket, locker,
+hook, and drawer were equally within reach, and were equally contrived
+with a view to avoiding waste of room, and providing some snug inches
+of stowage for something that would have exactly fitted nowhere else.
+His gleaming little service of plate was so arranged upon his sideboard
+as that a slack salt-spoon would have instantly betrayed itself; his
+toilet implements were so arranged upon his dressing-table as that a
+toothpick of slovenly deportment could have been reported at a glance.
+So with the curiosities he had brought [[Home|home]] from various voyages.
+Stuffed, dried, repolished, or otherwise preserved, according to their
+kind; [[Birds|birds]], fishes, reptiles, arms, articles of dress, shells,
+seaweeds, grasses, or memorials of coral reef; each was displayed in
+its especial place, and each could have been displayed in no better
+place. Paint and varnish seemed to be kept somewhere out of sight, in
+constant readiness to obliterate stray finger-marks wherever any might
+become perceptible in Mr. Tartar’s chambers. No man-of-war was ever
+kept more spick and span from careless touch. On this bright [[Summer|summer]]
+day, a neat awning was rigged over Mr. Tartar’s flower-[[Garden|garden]] as only a
+sailor can rig it, and there was a sea-going air upon the whole effect,
+so delightfully complete, that the flower-[[Garden|garden]] might have appertained
+to stern-windows afloat, and the whole concern might have bowled away
+gallantly with all on board, if Mr. Tartar had only clapped to his lips
+the speaking-trumpet that was slung in a corner, and given hoarse
+orders to heave the anchor up, look alive there, men, and get all sail
+upon her!
+
+Mr. Tartar doing the honours of this gallant craft was of a piece with
+the rest. When a man rides an amiable hobby that shies at nothing and
+kicks nobody, it is only agreeable to find him riding it with a
+humorous sense of the droll side of the creature. When the man is a
+cordial and an earnest man by [[Nature|nature]], and withal is perfectly fresh and
+genuine, it may be doubted whether he is ever seen to greater advantage
+than at such a [[Time|time]]. So Rosa would have naturally thought (even if she
+hadn’t been conducted over the [[Ship|ship]] with all the homage due to the
+First Lady of the Admiralty, or First Fairy of the Sea), that it was
+charming to see and hear Mr. Tartar half laughing at, and half
+rejoicing in, his various contrivances. So Rosa would have naturally
+thought, anyhow, that the sunburnt sailor showed to great advantage
+when, the inspection finished, he delicately withdrew out of his
+admiral’s cabin, beseeching her to consider herself its [[Queen]], and
+waving her free of his flower-[[Garden|garden]] with the hand that had had Mr.
+Crisparkle’s life in it.
+
+“[[Helena]]! [[Helena Landless]]! Are you there?”
+
+“Who speaks to me? Not Rosa?” Then a second handsome face appearing.
+
+“Yes, my darling!”
+
+“Why, how did you come here, dearest?”
+
+“I—I don’t quite know,” said Rosa with a blush; “unless I am dreaming!”
+
+Why with a blush? For their two faces were [[Alone|alone]] with the other
+[[Flowers|flowers]]. Are blushes among the fruits of the country of the [[Magic|magic]]
+bean-stalk?
+
+“_I_ am not dreaming,” said [[Helena]], smiling. “I should take more for
+granted if I were. How do we come together—or so near together—so very
+unexpectedly?”
+
+Unexpectedly indeed, among the dingy gables and chimneypots of P. J.
+T.’s connection, and the [[Flowers|flowers]] that had sprung from the salt sea. But
+Rosa, waking, told in a hurry how they came to be together, and all the
+why and wherefore of that matter.
+
+“And Mr. Crisparkle is here,” said Rosa, in rapid conclusion; “and,
+could you believe it? long ago he saved his life!”
+
+“I could believe any such thing of Mr. Crisparkle,” returned [[Helena]],
+with a mantling face.
+
+(More blushes in the bean-stalk country!)
+
+“Yes, but it wasn’t Crisparkle,” said Rosa, quickly putting in the
+correction.
+
+“I don’t understand, [[Love|love]].”
+
+“It was very nice of Mr. Crisparkle to be saved,” said Rosa, “and he
+couldn’t have shown his high opinion of Mr. Tartar more expressively.
+But it was Mr. Tartar who saved him.”
+
+[[Helena]]’s dark eyes looked very earnestly at the bright face among the
+[[Leaves|leaves]], and she asked, in a slower and more thoughtful tone:
+
+“Is Mr. Tartar with you now, dear?”
+
+“No; because he has given up his rooms to me—to us, I mean. It is such
+a beautiful place!”
+
+“Is it?”
+
+“It is like the inside of the most exquisite [[Ship|ship]] that ever sailed. It
+is like—it is like—”
+
+“Like [[A Dream|a dream]]?” suggested [[Helena]].
+
+Rosa answered with a little nod, and smelled the [[Flowers|flowers]].
+
+[[Helena]] resumed, after a short pause of [[Silence|silence]], during which she seemed
+(or it was Rosa’s fancy) to compassionate somebody: “My poor Neville is
+reading in his own room, the sun being so very bright on this side just
+now. I think he had better not know that you are so near.”
+
+“O, I think so too!” cried Rosa very readily.
+
+“I suppose,” pursued [[Helena]], doubtfully, “that he must know by-and-by
+all you have told me; but I am not sure. Ask Mr. Crisparkle’s advice,
+my darling. Ask him whether I may tell Neville as much or as little of
+what you have told me as I think best.”
+
+Rosa subsided into her state-cabin, and propounded the question. The
+Minor Canon was for the free exercise of [[Helena]]’s judgment.
+
+“I thank him very much,” said [[Helena]], when Rosa emerged again with her
+report. “Ask him whether it would be best to wait until any more
+maligning and pursuing of Neville on the part of this wretch shall
+disclose itself, or to try to anticipate it: I mean, so far as to find
+out whether any such goes on darkly about us?”
+
+The Minor Canon found this point so difficult to give a confident
+opinion on, that, after two or three attempts and failures, he
+suggested a reference to Mr. Grewgious. [[Helena]] acquiescing, he betook
+himself (with a most unsuccessful assumption of lounging indifference)
+across the quadrangle to P. J. T.’s, and stated it. Mr. Grewgious held
+decidedly to the general principle, that if you could steal a march
+upon a brigand or a wild beast, you had better do it; and he also held
+decidedly to the special case, that [[John Jasper]] was a brigand and a
+wild beast in combination.
+
+Thus advised, Mr. Crisparkle came back again and reported to Rosa, who
+in her turn reported to [[Helena]]. She now steadily pursuing her train of
+thought at her [[Window|window]], considered thereupon.
+
+“We may count on Mr. Tartar’s readiness to help us, Rosa?” she
+inquired.
+
+O yes! Rosa shyly thought so. O yes, Rosa shyly believed she could
+almost answer for it. But should she ask Mr. Crisparkle? “I think your
+authority on the point as good as his, my dear,” said [[Helena]], sedately,
+“and you needn’t disappear again for that.” Odd of [[Helena]]!
+
+“You see, Neville,” [[Helena]] pursued after more reflection, “knows no one
+else here: he has not so much as exchanged a word with any one else
+here. If Mr. Tartar would call to see him openly and often; if he would
+spare a minute for the purpose, frequently; if he would even do so,
+almost daily; something might come of it.”
+
+“Something might come of it, dear?” repeated Rosa, surveying her
+friend’s [[Beauty|beauty]] with a highly perplexed face. “Something might?”
+
+“If Neville’s movements are really watched, and if the purpose really
+is to isolate him from all friends and acquaintance and wear his daily
+life out grain by grain (which would seem to be the threat to you),
+does it not appear likely,” said [[Helena]], “that his enemy would in some
+way communicate with Mr. Tartar to warn him off from Neville? In which
+case, we might not only know the fact, but might know from Mr. Tartar
+what the terms of the communication were.”
+
+“I see!” cried Rosa. And immediately darted into her state-cabin again.
+
+Presently her pretty face reappeared, with a greatly heightened colour,
+and she said that she had told Mr. Crisparkle, and that Mr. Crisparkle
+had fetched in Mr. Tartar, and that Mr. Tartar—“who is waiting now, in
+case you want him,” added Rosa, with a half look back, and in not a
+little confusion between the inside of the state-cabin and out—had
+declared his readiness to act as she had suggested, and to enter on his
+task that very day.
+
+“I thank him from my heart,” said [[Helena]]. “Pray tell him so.”
+
+Again not a little confused between the Flower-[[Garden|garden]] and the Cabin,
+Rosa dipped in with her message, and dipped out again with more
+assurances from Mr. Tartar, and stood wavering in a divided state
+between [[Helena]] and him, which proved that confusion is not always
+necessarily awkward, but may sometimes present a very pleasant
+appearance.
+
+“And now, darling,” said [[Helena]], “we will be mindful of the caution
+that has restricted us to this interview for the present, and will
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act V, Scene 2 — exchange (ULYSSES) [5]"
+title: "TROILUS AND CRESSIDA"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/troilus-and-cressida-(shakespeare)"
@@ -9,6 +9,1504 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/troilus_and_cressida" data-author="Shakespeare" data-workhref="works/troilus-and-cressida-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="Troilus and Cressida — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter above [[Cressida]] and her servant Alexander |
+| [[Cressida|CRESSIDA]] | Who were those went by? |
+| ALEXANDER | [[Queen]] Hecuba and [[Helen]]. |
+| [[Cressida|CRESSIDA]] | And whither go they? |
+| ALEXANDER | Up to the eastern tower, Whose height commands as subject all the vale, To see the battle. [[Hector]], whose patience Is as a virtue fixed, today was moved. He chid Andromache and struck his armourer And, like as there were husbandry in war, Before the sun [[Rose|rose]] he was harnessed light, And to the field goes he, where every flower Did as a [[Prophet|prophet]] weep what it foresaw In [[Hector]]’s wrath. |
+| [[Cressida|CRESSIDA]] | What was his cause of anger? |
+| ALEXANDER | The noise goes this: there is among the Greeks A lord of Trojan [[Blood|blood]], nephew to [[Hector]]; They call him [[Ajax]]. |
+| [[Cressida|CRESSIDA]] | Good, and what of him? |
+| ALEXANDER | They say he is a very man per se, |
+| ALEXANDER | And stands [[Alone|alone]]. |
+| [[Cressida|CRESSIDA]] | So do all men Unless they are drunk, sick, or have no legs. |
+| ALEXANDER | This man, lady, hath robbed many beasts of their particular additions: he is as valiant as the [[Lion|lion]], churlish as the bear, slow as the elephant—a man into whom [[Nature|nature]] hath so crowded humours that his valour is crushed into folly, his folly farced with discretion. There is no man hath a virtue that he hath not a glimpse of, nor any man an attaint but he carries some stain of it. He is [[Melancholy|melancholy]] without cause and merry against the hair; he hath the joints of everything, but everything so out of joint that he is a gouty Briareus, many hands and no use, or purblind Argus, all eyes and no sight. |
+| [[Cressida|CRESSIDA]] | But how should this man that makes me smile make [[Hector]] angry? |
+| ALEXANDER | They say he yesterday coped [[Hector]] in the battle and struck him down, the disdain and shame whereof hath ever since kept [[Hector]] fasting and waking. |
+| [[Cressida|CRESSIDA]] | Who comes here? |
+| ALEXANDER | Madam, your uncle [[Pandarus]]. Enter [[Pandarus]] above |
+| [[Cressida|CRESSIDA]] | [[Hector]]’s a gallant man. |
+| ALEXANDER | As may be in the world, lady. |
+| [[Pandarus|PANDARUS]] | What’s that? What’s that? |
+| [[Cressida|CRESSIDA]] | Good morrow, uncle [[Pandarus]]. |
+| [[Pandarus|PANDARUS]] | Good morrow, cousin Cressid. What do you talk of?—Good morrow, Alexander.—How do you, cousin? When were you at Ilium? |
+| [[Cressida|CRESSIDA]] | This morning, uncle. |
+| [[Pandarus|PANDARUS]] | What were you talking of when I came? Was [[Hector]] armed and gone ere ye came to Ilium? [[Helen]] was not up, was she? |
+| [[Cressida|CRESSIDA]] | [[Hector]] was gone but [[Helen]] was not up? |
+| [[Pandarus|PANDARUS]] | E’en so. [[Hector]] was stirring early. |
+| [[Cressida|CRESSIDA]] | That were we talking of, and of his anger. |
+| [[Pandarus|PANDARUS]] | Was he angry? |
+| [[Cressida|CRESSIDA]] | So he says here. |
+| [[Pandarus|PANDARUS]] | True, he was so. I know the cause too. He’ll lay about him today, I can tell them that. And there’s [[Troilus]] will not come far behind him. Let them take heed of [[Troilus]], I can tell them that too. |
+| [[Cressida|CRESSIDA]] | What, is he angry too? |
+| [[Pandarus|PANDARUS]] | Who, [[Troilus]]? [[Troilus]] is the better man of the two. |
+| [[Cressida|CRESSIDA]] | O Jupiter! There’s no comparison. |
+| [[Pandarus|PANDARUS]] | What, not between [[Troilus]] and [[Hector]]? Do you know a man if you see him? |
+| [[Cressida|CRESSIDA]] | Ay, if I ever saw him before and knew him. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--02_exchange_pandarus" data-title="Troilus and Cressida — Act I, Scene 2 — exchange (PANDARUS) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pandarus|PANDARUS]] | [[Well]], I say [[Troilus]] is [[Troilus]]. |
+| [[Cressida|CRESSIDA]] | Then you say as I say, for I am sure He is not [[Hector]]. |
+| [[Pandarus|PANDARUS]] | No, nor [[Hector]] is not [[Troilus]], in some degrees. |
+| [[Cressida|CRESSIDA]] | ’Tis just to each of them: he is himself. |
+| [[Pandarus|PANDARUS]] | Himself? Alas, poor [[Troilus]], I would he were. |
+| [[Cressida|CRESSIDA]] | So he is. |
+| [[Pandarus|PANDARUS]] | Condition I had gone barefoot to India. |
+| [[Cressida|CRESSIDA]] | He is not [[Hector]]. |
+| [[Pandarus|PANDARUS]] | Himself ? No, he’s not himself. Would a were himself! [[Well]], the gods are above, [[Time|time]] must friend or end. [[Well]], [[Troilus]], [[Well|well]], I would my heart were in her [[Body|body]]. No, [[Hector]] is not a better man than [[Troilus]]. |
+| [[Cressida|CRESSIDA]] | Excuse me. |
+| [[Pandarus|PANDARUS]] | He is elder. |
+| [[Cressida|CRESSIDA]] | Pardon me, pardon me. |
+| [[Pandarus|PANDARUS]] | Th‘other’s not come to’t. You shall tell me another tale when th’other’s come to’t. [[Hector]] shall not have his will this year. |
+| [[Cressida|CRESSIDA]] | He shall not need it if he have his own. |
+| [[Pandarus|PANDARUS]] | Nor his qualities. |
+| [[Cressida|CRESSIDA]] | No matter. |
+| [[Pandarus|PANDARUS]] | Nor his [[Beauty|beauty]]. |
+| [[Cressida|CRESSIDA]] | ’Twould not become him; his own’s better. |
+| [[Pandarus|PANDARUS]] | You have no judgement, niece. [[Helen]] herself swore th‘other day that [[Troilus]] for a brown favour, for so ’tis, I must confess—not brown neither— |
+| [[Cressida|CRESSIDA]] | No, but brown. |
+| [[Pandarus|PANDARUS]] | [[Faith]], to say [[Truth|truth]], brown and not brown. |
+| [[Cressida|CRESSIDA]] | To say the [[Truth|truth]], true and not true. |
+| [[Pandarus|PANDARUS]] | She praised his complexion above [[Paris]]’. |
+| [[Cressida|CRESSIDA]] | Why, [[Paris]] hath colour enough. |
+| [[Pandarus|PANDARUS]] | So he has. |
+| [[Cressida|CRESSIDA]] | Then [[Troilus]] should have too much. If she praised him above, his complexion is higher than his; he having colour enough, and the other higher, is too flaming a praise for a good complexion. I had as lief [[Helen]]’s golden tongue had commended [[Troilus]] for a copper nose. |
+| [[Pandarus|PANDARUS]] | I swear to you, I think [[Helen]] loves him better than [[Paris]]. |
+| [[Cressida|CRESSIDA]] | Then she’s a merry Greek indeed. |
+| [[Pandarus|PANDARUS]] | Nay, I am sure she does. She came to him th’other day into the compassed [[Window|window]], and you know he has not past three or four hairs on his chin— |
+| [[Cressida|CRESSIDA]] | Indeed, a tapster’s arithmetic may soon bring his particulars therein to a total. no |
+| [[Pandarus|PANDARUS]] | Why, he is very young—and yet will he within three pound lift as much as his brother [[Hector]]. |
+| [[Cressida|CRESSIDA]] | Is he so young a man and so old a lifter? |
+| [[Pandarus|PANDARUS]] | But to prove to you that [[Helen]] loves him: she came and puts me her white hand to his cloven chin. |
+| [[Cressida|CRESSIDA]] | Juno have [[Mercy|mercy]]! How came it cloven? |
+| [[Pandarus|PANDARUS]] | Why, you know, ’tis dimpled. I think his smiling becomes him better than any man in all Phrygia. |
+| [[Cressida|CRESSIDA]] | O he smiles valiantly. |
+| [[Pandarus|PANDARUS]] | Does he not? |
+| [[Cressida|CRESSIDA]] | O yes, an’t were a cloud in [[Autumn|autumn]]. |
+| [[Pandarus|PANDARUS]] | Why, go to then. But to prove to you that [[Helen]] loves [[Troilus]]— |
+| [[Cressida|CRESSIDA]] | [[Troilus]] will stand to the proof if you’ll prove it so. |
+| [[Pandarus|PANDARUS]] | [[Troilus]]? Why, he esteems her no more than I esteem an addle egg. |
+| [[Cressida|CRESSIDA]] | If you [[Love|love]] an addle egg as [[Well|well]] as you [[Love|love]] an idle head you would eat chickens i’th’ shell. |
+| [[Pandarus|PANDARUS]] | I cannot choose but laugh to think how she tickled his chin. Indeed, she has a marvellous white hand, I must needs confess— |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--03_exchange_cressida" data-title="Troilus and Cressida — Act I, Scene 2 — exchange (CRESSIDA) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Cressida|CRESSIDA]] | Without the rack. |
+| [[Pandarus|PANDARUS]] | And she takes upon her to spy a white hair on his chin. |
+| [[Cressida|CRESSIDA]] | Alas, poor chin! Many a wart is richer. |
+| [[Pandarus|PANDARUS]] | But there was such laughing! [[Queen]] Hecuba laughed that her eyes ran o’er. |
+| [[Cressida|CRESSIDA]] | With millstones. |
+| [[Pandarus|PANDARUS]] | And Cassandra laughed. |
+| [[Cressida|CRESSIDA]] | But there was a more temperate [[Fire|fire]] under the pot of her eyes—or did her eyes run o’er too? |
+| PINDARUS | And [[Hector]] laughed. |
+| [[Cressida|CRESSIDA]] | At what was all this laughing? |
+| [[Pandarus|PANDARUS]] | Marry, at the white hair that [[Helen]] spied on [[Troilus]]’ chin. |
+| [[Cressida|CRESSIDA]] | An’t had been a green hair I should have laughed too. |
+| [[Pandarus|PANDARUS]] | They laughed not so much at the hair as at his pretty answer. |
+| [[Cressida|CRESSIDA]] | What was his answer? |
+| [[Pandarus|PANDARUS]] | Quoth she, ‘Here’s but two-and-fifty hairs on your chin, and one of them is white.’ |
+| [[Cressida|CRESSIDA]] | This is her question. |
+| PINDARUS | That’s true, make no question of that. ‘Two-and-fifty hairs,’ quoth he, ‘and one white? That white hair is my father, and all the rest are his sons.’ ‘Jupiter!’ quoth she, ‘which of these hairs is [[Paris]] my husband?’ ‘The forked one,’ quoth he, ‘pluck’t out and give it him.’ But there was such laughing, and [[Helen]] so blushed and [[Paris]] so chafed and all the rest so laughed, that it passed. |
+| [[Cressida|CRESSIDA]] | So let it now, for it has been a great while going by. |
+| [[Pandarus|PANDARUS]] | [[Well]], cousin, I told you a thing yesterday. Think on’t. |
+| [[Cressida|CRESSIDA]] | So I do. |
+| [[Pandarus|PANDARUS]] | I’ll be sworn ’tis true. He will weep you an’t were a man born in April. |
+| [[Cressida|CRESSIDA]] | And I’ll [[spring]] up in his [[Tears|tears]] an’t were a nettle against May. A retreat is sounded |
+| [[Pandarus|PANDARUS]] | Hark, they are coming from the field. Shall we stand up here and see them as they pass toward Ilium? Good niece, do, sweet niece [[Cressida]]. |
+| [[Cressida|CRESSIDA]] | At your pleasure. |
+| [[Pandarus|PANDARUS]] | Here, here, here’s an excellent place, here we may see most bravely. I’ll tell you them all by their names as they pass by, but mark [[Troilus]] above the rest. Enter Aeneas passing by below |
+| [[Cressida|CRESSIDA]] | Speak not so loud. |
+| [[Pandarus|PANDARUS]] | That’s Aeneas. Is not that a brave man? He’s one of the [[Flowers|flowers]] of Troy, I can tell you. But mark [[Troilus]]; you shall see anon. Enter Antenor passing by below |
+| [[Cressida|CRESSIDA]] | Who’s that? |
+| [[Pandarus|PANDARUS]] | That’s Antenor. He has a shrewd wit, I can tell you, and he’s a man good enough. He’s one o’th’ soundest judgements in Troy whosoever, and a proper man of person. When comes [[Troilus]]? I’ll show you [[Troilus]] anon. If he see me you shall see him nod at me. |
+| [[Cressida|CRESSIDA]] | Will he give you the nod? |
+| [[Pandarus|PANDARUS]] | You shall see. |
+| [[Cressida|CRESSIDA]] | If he do, the rich shall have more. Enter [[Hector]] passing by below |
+| [[Pandarus|PANDARUS]] | That’s [[Hector]], that, that, look you, that. There’s a fellow!—Go thy way, [[Hector]]!—There’s a brave man, niece. O brave [[Hector]]! Look how he looks. There’s a countenance. Is’t not a brave man? |
+| [[Cressida|CRESSIDA]] | O a brave man. |
+| [[Pandarus|PANDARUS]] | Is a not? It does a man’s heart good. Look you what hacks are on his helmet. Look you yonder, do you see? Look you there. There’s no jesting. There’s laying on, take’t off who will, as they say. There be hacks. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--04_exchange_cressida" data-title="Troilus and Cressida — Act I, Scene 2 — exchange (CRESSIDA) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Cressida|CRESSIDA]] | Be those with swords? Enter [[Paris]] passing by below |
+| [[Pandarus|PANDARUS]] | Swords, anything, he cares not. An the devil come to him it’s all one. By’God’s lid it does one’s heart good. Yonder comes [[Paris]], yonder comes [[Paris]]. Look ye yonder, niece. Is’t not a gallant man too? Is’t not? Why, this is brave now. Who said he came hurt [[Home|home]] today? He’s not hurt. Why, this will do [[Helen]]’s heart good now, hal Would I could see [[Troilus]] now. You shall see [[Troilus]] anon. Enter Helenus passing by below |
+| [[Cressida|CRESSIDA]] | Who’s that? |
+| [[Pandarus|PANDARUS]] | That’s Helenus. I marvel where [[Troilus]] is. That’s Helenus. I think he went not forth today. That’s Helenus. |
+| [[Cressida|CRESSIDA]] | Can Helenus fight, uncle? |
+| [[Pandarus|PANDARUS]] | Helenus? No—yes, he’ll fight indifferent [[Well|well]]. I marvel where [[Troilus]] is. A Shout Hark, do you not hear the people cry ‘[[Troilus]]’? Helenus is a priest. Enter [[Troilus]] passing by below |
+| [[Cressida|CRESSIDA]] | What sneaking fellow comes yonder? |
+| [[Pandarus|PANDARUS]] | Where? Yonder? That’s Deiphobus.—’Tis [[Troilus]]! There’s a man, niece, h’m? Brave [[Troilus]], the prince of chivalry! |
+| [[Cressida|CRESSIDA]] | Peace, for shame, peace. |
+| [[Pandarus|PANDARUS]] | Mark him, note him. O brave [[Troilus]]! Look [[Well|well]] upon him, niece. Look you how his [[Sword|sword]] is bloodied and his helm more hacked than [[Hector]]‘s, and how he looks and how he goes. O admirable youth! He ne’er saw three-and-twenty.—Go thy way, [[Troilus]], go thy way!—Had I a sister were a grace, or a daughter a goddess, he should take his choice. O admirable man! [[Paris]]? [[Paris]] is dirt to him, and I warrant [[Helen]] to change would give an eye to boot. Enter common soldiers passing by below |
+| [[Cressida|CRESSIDA]] | Here comes more. |
+| [[Pandarus|PANDARUS]] | Asses, fools, dolts. Chaff and bran, chaff and bran. Porridge after meat. I could live and die i‘th’ eyes of [[Troilus]]. Ne’er look, ne’er look, the eagles are gone. Crows and daws, crows and daws. I had rather be such a man as [[Troilus]] than [[Agamemnon]] and all Greece. |
+| [[Cressida|CRESSIDA]] | There is among the Greeks [[Achilles]], a better man than [[Troilus]]. |
+| [[Pandarus|PANDARUS]] | [[Achilles]]? A drayman, a porter, a very camel. |
+| [[Cressida|CRESSIDA]] | [[Well]], [[Well|well]]. |
+| [[Pandarus|PANDARUS]] | [[Well]], [[Well|well]]? Why, have you any discretion? Have you any eyes? Do you know what a man is? Is not birth, [[Beauty|beauty]], good shape, discourse, manhood, learning, gentleness, virtue, youth, liberality, and so forth, the spice and salt that season a man? |
+| [[Cressida|CRESSIDA]] | Ay, a minced man—and then to be baked with no date in the pie, for then the man’s date is out. |
+| [[Pandarus|PANDARUS]] | You are such another woman! One knows not at what ward you lie. |
+| [[Cressida|CRESSIDA]] | Upon my back to defend my belly, upon my wit to defend my wiles, upon my secrecy to defend mine honesty, my mask to defend my [[Beauty|beauty]], and you to defend all these—and at all these wards I lie at a thousand watches. |
+| [[Pandarus|PANDARUS]] | Say one of your watches. |
+| [[Cressida|CRESSIDA]] | ‘Nay, I’ll watch you for that’—and that’s one of the chiefest of them too. If I cannot ward what I would not have hit, I can watch you for telling how I took the blow—unless it swell past hiding, and then it’s past watching. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--05_exchange_pandarus" data-title="Troilus and Cressida — Act I, Scene 2 — exchange (PANDARUS) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pandarus|PANDARUS]] | You are such another! Enter Boy |
+| BOY | Sir, my lord would instantly speak with you. |
+| [[Pandarus|PANDARUS]] | Where? |
+| BOY | At your own [[house]]. |
+| [[Pandarus|PANDARUS]] | Good boy, tell him I come. Exit Boy I [[Doubt|doubt]] he be hurt. Fare ye [[Well|well]], good niece. |
+| [[Cressida|CRESSIDA]] | Adieu, uncle. |
+| [[Pandarus|PANDARUS]] | I’ll be with you, niece, by and by. |
+| [[Cressida|CRESSIDA]] | To bring, uncle? |
+| [[Pandarus|PANDARUS]] | Ay, a token from [[Troilus]]. |
+| [[Cressida|CRESSIDA]] | By the same token, you are a bawd. Exeunt [[Pandarus]] and Alexander Words, vows, gifts, [[Tears|tears]], and [[Love|love]]’s full sacrifice He offers in another’s enterprise; But more in [[Troilus]] thousandfold I see Than in the glass of Pandar’s praise may be. Yet hold I off. Women are angels, wooing; Things won are done. Joy’s [[Soul|soul]] lies in the doing. That she beloved knows naught that knows not this: Men price the thing ungained more than it is. That she was never yet that ever knew [[Love]] got so sweet as when [[Desire|desire]] did sue. Therefore this maxim out of [[Love|love]] I teach: Achievement is command; ungained, beseech. Then though my heart’s contents firm [[Love|love]] doth bear, Nothing of that shall from mine eyes appear. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Sennet. Enter [[Agamemnon]], Nestor, [[Ulysses]], Diomedes, and Menelaus, with others |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--02_monologue_agamemnon" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (AGAMEMNON) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Agamemnon|AGAMEMNON]] | Princes, what grief hath set the jaundice on your cheeks? The ample proposition that [[Hope|hope]] makes In all designs begun on earth below Fails in the promised largeness. Checks and disasters Grow in the veins of actions highest reared, As knots, by the conflux of meeting sap, Infects the sound pine and diverts his grain Tortive and errant from his course of growth. Nor, princes, is it matter new to us That we come short of our suppose so far That after seven years’ siege yet Troy walls stand, Sith every action that hath gone before, Whereof we have record, trial did draw Bias and thwart, not answering the aim And that unbodied figure of the thought That gave’t surmised shape. Why then, you princes, Do you with cheeks abashed behold our works, And think them shames, which are indeed naught else But the protractive trials of great Jove To find persistive constancy in men? The fineness of which mettle is not found In fortune’s [[Love|love]]—for then the bold and coward, The wise and [[Fool|fool]], the [[artist]] and unread, The hard and soft, seem all affined and kin. But in the [[Wind|wind]] and tempest of her frown Distinction with a loud and powerful fan, Puffing at all, winnows the light away, And what hath mass or matter by itself Lies rich in virtue and unminglèd. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--03_monologue_nestor" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (NESTOR) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| NESTOR | With due observance of thy godly seat, Great [[Agamemnon]], Nestor shall apply Thy latest words. In the reproof of chance Lies the true proof of men. The sea being smooth, How many shallow bauble-boats dare sail Upon her patient breast, making their way With those of nobler bulk! But let the ruffian Boreas once enrage The gentle Thetis, and anon behold The strong-ribbed barque through liquid [[Mountains|mountains]] cut, Bounding between the two moist elements Like Perseus’ [[Horse|horse]]. Where’s then the saucy boat Whose weak untimbered sides but even now Co-rivalled [[Greatness|greatness]]? Either to harbour fled, Or made a toast for Neptune. Even so Doth valour’s show and valour’s worth divide In storms of fortune. For in her ray and brightness The herd hath more annoyance by the breese Than by the tiger; but when the splitting [[Wind|wind]] Makes flexible the knees of knotted oaks And flies flee under shade, why then the thing of [[Courage|courage]], As roused with rage, with rage doth sympathize, And with an accent tuned in selfsame key Retorts to chiding fortune. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--04_exchange_ulysses" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (ULYSSES) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Ulysses|ULYSSES]] | [[Agamemnon]], Thou great commander, nerve and bone of Greece, Heart of our numbers, [[Soul|soul]] and only spirit In whom the tempers and the minds of all Should be shut up, hear what [[Ulysses]] speaks. Besides th’applause and approbation The which, (to [[Agamemnon]]) most mighty for thy place and sway, And thou, (to Nestor) most reverend for thy stretched-out life, I give to both your speeches—which were such As, [[Agamemnon]], every hand of Greece Should hold up high in brass, and such again As, venerable Nestor, hatched in silver, Should with a bond of air, strong as the axle-tree On which the heavens ride, knit all Greeks’ ears To his experienced tongue—yet let it please both, Thou (to [[Agamemnon]]) great, and (to Nestor) wise, to hear [[Ulysses]] speak. |
+| [[Agamemnon|AGAMEMNON]] | Speak, Prince of Ithaca, and be’t of less expect That matter needless, of importless burden, Divide thy lips, than we are confident When rank [[Thersites]] opes his mastic jaws We shall hear music, wit, and oracle. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--05_monologue_ulysses" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (ULYSSES) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Ulysses|ULYSSES]] | Troy, yet upon his basis, had been down And the great [[Hector]]’s [[Sword|sword]] had lacked a master But for these instances: The specialty of rule hath been neglected. And look how many Grecian tents do stand Hollow upon this plain: so many hollow factions. When that the general is not like the hive To whom the foragers shall all repair, What honey is expected? Degree being vizarded, Th’unworthiest shows as fairly in the [[Masque|masque]]  . The heavens themselves, the planets, and this centre Observe degree, priority, and place, Infixture, course, proportion, season, form, Office and custom, in all line of order. And therefore is the glorious planet Sol In noble eminence enthroned and sphered Amidst the other, whose med‘cinable eye Corrects the ill aspects of planets evil And posts like the commandment of a [[King|king]], Sans check, to good and bad. But when the planets In evil mixture to disorder wander, What plagues and what portents, what mutiny? What raging of the sea, shaking of earth? Commotion in the winds, frights, changes, horrors Divert and crack, rend and deracinate The [[unity]] and married calm of states Quite from their fixture. O when degree is shaked, Which is the ladder to all high designs, The enterprise is sick. How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place? Take but degree away, untune that string, And hark what discord follows. Each thing meets no In mere oppugnancy. The bounded waters Should lift their bosoms higher than the shores And make a sop of all this solid globe; Strength should be lord of imbecility, And the rude son should strike his father dead. Force should be right—or rather, right and wrong, Between whose endless jar justice resides, Should lose their names, and so should justice too. Then everything includes itself in power, Power into will, will into appetite; And appetite, an universal wolf, So doubly seconded with will and power, Must make perforce an universal prey, And last eat up himself. Great [[Agamemnon]], This chaos, when degree is suffocate, Follows the choking. And this neglection of degree it is That by a pace goes backward in a purpose It hath to climb. The general’s disdained By him one step below; he, by the next; That next, by him beneath. So every step, Exampled by the first pace that is sick Of his superior, grows to an envious fever Of pale and bloodless emulation. And ’tis this fever that keeps Troy on foot, Not her own sinews. To end a tale of length: Troy in our weakness lives, not in her strength. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--06_exchange_nestor" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (NESTOR) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| NESTOR | Most wisely hath [[Ulysses]] here discovered The fever whereof all our power is sick. |
+| [[Agamemnon|AGAMEMNON]] | The [[Nature|nature]] of the sickness found, [[Ulysses]], What is the remedy? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--07_monologue_ulysses" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (ULYSSES) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Ulysses|ULYSSES]] | The great [[Achilles]], whom opinion crowns The sinew and the forehand of our host, Having his ear full of his airy fame Grows dainty of his worth, and in his tent Lies mocking our designs. With him Patroclus Upon a lazy bed the livelong day Breaks scurrile jests And, with ridiculous and awkward action Which, slanderer, he ‘[[Imitation|imitation]]’ calls, He pageants us. Sometime, great [[Agamemnon]], Thy topless deputation he puts on, And like a strutting player, whose conceit Lies in his hamstring and doth think it rich To hear the wooden dialogue and sound ’Twixt his stretched footing and the scaffoldage, Such to-be-pitied and o‘er-wrested seeming He acts thy [[Greatness|greatness]] in. And when he speaks ’Tis like a chime a-[[mending]], with terms unsquared Which from the tongue of roaring Typhon dropped Would seem hyperboles. At this fusty stuff The large [[Achilles]] on his pressed bed lolling From his deep chest laughs out a loud applause, Cries ‘Excellent! ’Tis [[Agamemnon]] just. Now play me Nestor, hem and stroke thy beard, As he being dressed to some oration.’ That’s done as near as the extremest ends Of parallels, as like as Vulcan and his wife. Yet god [[Achilles]] still cries, ‘Excellent! ‘Tis Nestor right. Now play him me, Patroclus, Arming to answer in a [[Night|night]] alarm’. And then forsooth the faint defects of age Must be the scene of mirth: to cough and spit, And with a palsy, fumbling on his gorget, Shake in and out the rivet. And at this sport Sir Valour dies, cries, ‘O enough, Patroclus! Or give me ribs of steel. I shall split all In pleasure of my spleen.’ And in this fashion All our abilities, gifts, natures, shapes, Severals and generals of grace exact, Achievements, plots, orders, preventions, Excitements to the field or speech for truce, [[success|Success]] or loss, what is or is not, serves As stuff for these two to make paradoxes. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--08_exchange_nestor" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (NESTOR) [8]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| NESTOR | And in the [[Imitation|imitation]] of these twain Who, as [[Ulysses]] says, opinion crowns With an imperial voice, many are infect. [[Ajax]] is grown [[Self|self]]-willed and bears his head In such a rein, in full as proud a place As broad [[Achilles]], and keeps his tent like him, Makes factious feasts, rails on our state of war Bold as an oracle, and sets [[Thersites]], A slave whose gall coins slanders like a mint, To match us in comparisons with dirt, To weaken and discredit our exposure, How rank so ever rounded in with danger. |
+| [[Ulysses|ULYSSES]] | They tax our policy and call it cowardice, Count wisdom as no member of the war, Forestall prescience and esteem no act But that of hand. The still and mental parts That do contrive how many hands shall strike When fitness calls them on, and know by measure Of their observant toil the enemy’s weight, Why, this hath not a finger’s dignity. They call this ‘bed-work’, ‘mapp’ry’, ‘closet war’. So that the ram that batters down the wall, For the great swinge and rudeness of his poise They place before his hand that made the engine, Or those that with the finesse of their souls By reason guide his execution. |
+| NESTOR | Let this be granted, and [[Achilles]]’ [[Horse|horse]] Makes many Thetis’ sons. Tucket |
+| [[Agamemnon|AGAMEMNON]] | What trumpet? Look, Menelaus. |
+| MENELAUS | From Troy. Enter Aeneas and a trumpeter |
+| [[Agamemnon|AGAMEMNON]] | What would you fore our tent? |
+| AENEAS | Is this great [[Agamemnon]]’s tent I pray you? |
+| [[Agamemnon|AGAMEMNON]] | Even this. |
+| AENEAS | May one that is a herald and a prince Do a fair message to his kingly ears? |
+| [[Agamemnon|AGAMEMNON]] | With surety stronger than [[Achilles]]’ arm, Fore all the Greekish heads, which with one voice Call [[Agamemnon]] heart and general. |
+| AENEAS | Fair leave and large security. How may A stranger to those most imperial looks Know them from eyes of other mortals? |
+| [[Agamemnon|AGAMEMNON]] | How? |
+| AENEAS | Ay, I ask that I might waken reverence And on the cheek be ready with a blush Modest as morning when she coldly eyes The youthful Phoebus. Which is that god in office, guiding men? Which is the high and mighty [[Agamemnon]]? |
+| [[Agamemnon|AGAMEMNON]] | (to the Greeks) This Trojan scorns us, or the men of Troy Are ceremonious courtiers. |
+| AENEAS | Courtiers as free, as debonair, unarmed, As bending angels—that’s their fame in peace. But when they would seem soldiers they have galls, Good arms, strong joints, true swords—and great Jove’s acorn Nothing so full of heart. But peace, Aeneas, Peace, Trojan; lay thy finger on thy lips. The worthiness of praise distains his worth, If that the praised himself bring the praise forth. But what, repining, the enemy commends, That breath fame blows; that praise, sole pure, transcends. |
+| [[Agamemnon|AGAMEMNON]] | Sir, you of Troy, call you yourself Aeneas? |
+| AENEAS | Ay, Greek, that is my name. |
+| [[Agamemnon|AGAMEMNON]] | What’s your affair, I pray you? |
+| AENEAS | Sir, pardon, ’tis for [[Agamemnon]]’s ears. |
+| [[Agamemnon|AGAMEMNON]] | He hears naught privately that comes from Troy. |
+| AENEAS | Nor I from Troy come not to whisper him. I bring a trumpet to awake his ear, To set his sense on the attentive bent, And then to speak. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--09_exchange_agamemnon" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (AGAMEMNON) [9]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Agamemnon|AGAMEMNON]] | Speak frankly as the [[Wind|wind]]. It is not [[Agamemnon]]’s sleeping hour. That thou shalt know, Trojan, he is awake, He tells thee so himself. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--10_monologue_aeneas" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (AENEAS) [10]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| AENEAS | Trumpet, blow loud. Send thy brass voice through all these lazy tents, And every Greek of mettle let him know What Troy means fairly shall be spoke aloud. The trumpet sounds We have, great [[Agamemnon]], here in Troy A prince called [[Hector]]—Priam is his father— Who in this dull and long-continued truce Is resty grown. He bade me take a trumpet And to this purpose speak: ‘Kings, princes, lords, If there be one among the fair’st of Greece That holds his [[Honour|honour]] higher than his ease, That seeks his praise more than he fears his peril, That knows his valour and knows not his [[Fear|fear]], That loves his mistress more than in confession With truant vows to her own lips he loves, And dare avow her [[Beauty|beauty]] and her worth In other arms than hers—to him this challenge. [[Hector]] in view of Trojans and of Greeks Shall make it good, or do his best to do it: He hath a lady wiser, fairer, truer, Than ever Greek did compass in his arms, And will tomorrow with his trumpet call Midway between your tents and walls of Troy To rouse a Grecian that is true in [[Love|love]]. If any come, [[Hector]] shall [[Honour|honour]] him. If none, he’ll say in Troy when he retires The Grecian dames are sunburnt and not worth The splinter of a lance.’ Even so much. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--11_exchange_agamemnon" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (AGAMEMNON) [11]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Agamemnon|AGAMEMNON]] | This shall be told our [[lovers]], Lord Aeneas. If none of them have [[Soul|soul]] in such a kind, We left them all at [[Home|home]]. But we are soldiers, And may that soldier a mere recreant prove That means not, hath not, or is not in [[Love|love]]. If then one is, or hath, or means to be, That one meets [[Hector]]. If none else, I’ll be he. |
+| NESTOR | (to Aeneas) Tell him of Nestor, one that was a man When [[Hector]]’s grandsire sucked. He is old now, But if there be not in our Grecian mould One noble man that hath one spark of [[Fire|fire]] To answer for his [[Love|love]], tell him from me I’ll hide my silver beard in a gold beaver And in my vambrace put this withered brawn, And meeting him will tell him that my lady Was fairer than his grandam, and as chaste As may be in the world. His youth in flood, I’ll prove this [[Truth|truth]] with my three drops of [[Blood|blood]]. |
+| AENEAS | Now heavens forbid such scarcity of youth. |
+| [[Ulysses|ULYSSES]] | Amen. |
+| [[Agamemnon|AGAMEMNON]] | Fair Lord Aeneas, let me touch your hand. To our pavilion shall I lead you first. [[Achilles]] shall have word of this intent; So shall each lord of Greece, from tent to tent. Yourself shall feast with us before you go, And find the welcome of a noble foe. Exeunt all but [[Ulysses]] and Nestor |
+| [[Ulysses|ULYSSES]] | Nestor! |
+| NESTOR | What says [[Ulysses]]? |
+| [[Ulysses|ULYSSES]] | I have a young Conception in my brain; be you my [[Time|time]] To bring it to some shape. |
+| NESTOR | What is’t? |
+| [[Ulysses|ULYSSES]] | This ’tis: Blunt wedges rive hard knots. The seeded [[Pride|pride]] That hath to this maturity blown up In rank [[Achilles]] must or now be cropped Or, shedding, breed a nursery of like evil To overbulk us all. |
+| NESTOR | [[Well]], and how? |
+| [[Ulysses|ULYSSES]] | This challenge that the gallant [[Hector]] sends, However it is spread in general name, Relates in purpose only to [[Achilles]]. |
+| NESTOR | The purpose is perspicuous, even as substance Whose grossness little characters sum up. And, in the publication, make no strain But that [[Achilles]], were his brain as barren As banks of Libya—though, [[Apollo]] knows, ’Tis dry enough—will with great [[Speed|speed]] of judgement, Ay with celerity, find [[Hector]]’s purpose Pointing on him. |
+| [[Ulysses|ULYSSES]] | And wake him to the answer, think you? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--12_monologue_nestor" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (NESTOR) [12]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| NESTOR | Yes, ‘tis most meet. Who may you else oppose, That can from [[Hector]] bring his [[Honour|honour]] off, If not [[Achilles]]? Though’t be a sportful combat, Yet in this trial much opinion dwells, For here the Trojans taste our dear’st repute With their fin‘st palate. And trust to me, [[Ulysses]], Our imputation shall be oddly poised In this wild action: for the [[success]], Although particular, shall give a scantling Of good or bad unto the general— And in such indices, although small pricks To their subsequent volumes, there is seen The baby figure of the giant mass Of things to come at large. It is supposed He that meets [[Hector]] issues from our choice, And choice, being mutual act of all our souls, Makes merit her election, and doth boil, As ’twere, from forth us all a man distilled Out of our virtues—who miscarrying, What heart from hence receives the conqu‘ring part To steel a strong opinion to themselves? Which entertained, limbs are e’en his instruments, In no less working than are swords and bows Directive by the limbs. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--13_exchange_ulysses" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (ULYSSES) [13]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Ulysses|ULYSSES]] | Give pardon to my speech: Therefore ’tis meet [[Achilles]] meet not [[Hector]]. Let us like merchants show our foulest wares And think perchance they’ll sell. If not, The lustre of the better yet to show Shall show the better. Do not consent That ever [[Hector]] and [[Achilles]] meet, For both our [[Honour|honour]] and our shame in this Are dogged with two strange followers. |
+| NESTOR | I see them not with my old eyes. What are they? |
+| [[Ulysses|ULYSSES]] | What glory our [[Achilles]] shares from [[Hector]], Were he not proud we all should wear with him. But he already is too insolent, And we were better parch in Afric sun Than in the [[Pride|pride]] and salt scorn of his eyes, Should he scape [[Hector]] fair. If he were foiled, Why then we did our main opinion crush In taint of our best man. No, make a lott’ry, And by device let blockish [[Ajax]] draw The sort to fight with [[Hector]]. Among ourselves Give him allowance as the worthier man— For that will physic the great Myrmidon, Who broils in loud applause, and make him fall His crest, that prouder than blue Iris bends. If the dull brainless [[Ajax]] come safe off, We’ll dress him up in voices; if he fail, Yet go we under our opinion still That we have better men. But hit or miss, Our project’s life this shape of sense assumes: [[Ajax]] employed plucks down [[Achilles]]’ plumes. |
+| NESTOR | Now, [[Ulysses]], I begin to relish thy advice, And I will give a taste of it forthwith To [[Agamemnon]]. Go we to him straight. Two curs shall tame each other; [[Pride|pride]] [[Alone|alone]] Must tarre the mastiffs on, as ’twere their bone. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Troilus and Cressida — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Ajax]] and [[Thersites]] |
+| [[Ajax|AJAX]] | [[Thersites]]. |
+| [[Thersites|THERSITES]] | [[Agamemnon]]—how if he had boils, full, all over, generally? |
+| [[Ajax|AJAX]] | [[Thersites]]. |
+| [[Thersites|THERSITES]] | And those boils did run? Say so, did not the General run then? Were not that a botchy core? |
+| [[Ajax|AJAX]] | Dog. |
+| [[Thersites|THERSITES]] | Then there would come some matter from him. I see none now. |
+| [[Ajax|AJAX]] | Thou bitch-wolf’s son, canst thou not hear? Feel then. He strikes [[Thersites]] |
+| [[Thersites|THERSITES]] | The plague of Greece upon thee, thou mongrel beef-witted lord! |
+| [[Ajax|AJAX]] | Speak then, thou unsifted leaven, speak! I will beat thee into handsomeness. |
+| [[Thersites|THERSITES]] | I shall sooner rail thee into wit and holiness. But I think thy [[Horse|horse]] will sooner con an oration than thou learn a [[prayer]] without book. [[Ajax]] strikes him Thou canst strike, canst thou? A red murrain o’ thy jade’s tricks. |
+| [[Ajax|AJAX]] | Toad’s stool! He strikes [[Thersites]] Learn me the proclamation. |
+| [[Thersites|THERSITES]] | Dost thou think I have no sense, thou strikest me thus? |
+| [[Ajax|AJAX]] | The proclamation. |
+| [[Thersites|THERSITES]] | Thou art proclaimed a [[Fool|fool]], I think. |
+| [[Ajax|AJAX]] | Do not, porcupine, do not. My fingers itch. |
+| [[Thersites|THERSITES]] | I would thou didst itch from head to foot. An I had the scratching of thee, I would make thee the loathsomest scab in Greece. |
+| [[Ajax|AJAX]] | I say, the proclamation. |
+| [[Thersites|THERSITES]] | Thou grumblest and railest every hour on [[Achilles]], and thou art as full of envy at his [[Greatness|greatness]] as Cerberus is at Proserpina’s [[Beauty|beauty]], ay, that thou barkest at him. |
+| [[Ajax|AJAX]] | Mistress [[Thersites]]. |
+| [[Thersites|THERSITES]] | Thou shouldst strike him. |
+| [[Ajax|AJAX]] | Cobloaf. |
+| [[Thersites|THERSITES]] | He would pun thee into shivers with his fist, as a sailor breaks a biscuit. |
+| [[Ajax|AJAX]] | You whoreson cur. He strikes [[Thersites]] |
+| [[Thersites|THERSITES]] | Do! Do! |
+| [[Ajax|AJAX]] | Thou stool for a [[Witch|witch]]. He strikes [[Thersites]] |
+| [[Thersites|THERSITES]] | Ay, do, do! Thou sodden-witted lord, thou hast in thy skull no more brain than I have in mine elbows. An asnico may tutor thee. Thou scurvy valiant ass, thou art here but to thrash Trojans, and thou art bought and sold among those of any wit like a barbarian slave. If thou use to beat me, I will begin at thy heel and tell what thou art by inches, thou thing of no bowels, thou. |
+| [[Ajax|AJAX]] | You dog. |
+| [[Thersites|THERSITES]] | You scurvy lord. |
+| [[Ajax|AJAX]] | You cur. He strikes [[Thersites]] |
+| [[Thersites|THERSITES]] | Mars his idiot! Do, rudeness! Do, camel, do, do! Enter [[Achilles]] and Patroclus |
+| [[Achilles|ACHILLES]] | Why, how now, [[Ajax]]? Wherefore do ye thus? How now, [[Thersites]]? What’s the matter, man? |
+| [[Thersites|THERSITES]] | You see him there? Do you? |
+| [[Achilles|ACHILLES]] | Ay. What’s the matter? |
+| [[Thersites|THERSITES]] | Nay, look upon him. |
+| [[Achilles|ACHILLES]] | So I do. What’s the matter? |
+| [[Thersites|THERSITES]] | Nay, but regard him [[Well|well]]. |
+| [[Achilles|ACHILLES]] | ‘[[Well]]’? Why, I do so. |
+| [[Thersites|THERSITES]] | But yet you look not [[Well|well]] upon him. For whosomever you take him to be, he is [[Ajax]]. |
+| [[Achilles|ACHILLES]] | I know that, [[Fool|fool]]. |
+| [[Thersites|THERSITES]] | Ay, but ‘that [[Fool|fool]]’ knows not himself. |
+| [[Ajax|AJAX]] | Therefore I beat thee. |
+| [[Thersites|THERSITES]] | Lo, lo, lo, lo, what modicums of wit he utters. His evasions have ears thus long. I have bobbed his brain more than he has beat my bones. I will buy nine sparrows for a penny, and his pia mater is not worth the ninth part of a sparrow. This lord, [[Achilles]]—[[Ajax]], who wears his wit in his belly and his guts in his head—I’ll tell you what I say of him. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--02_exchange_achilles" data-title="Troilus and Cressida — Act II, Scene 1 — exchange (ACHILLES) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Achilles|ACHILLES]] | What? |
+| [[Thersites|THERSITES]] | I say, this [[Ajax]]— [[Ajax]] threatens to strike him |
+| [[Achilles|ACHILLES]] | Nay, good [[Ajax]]. |
+| [[Thersites|THERSITES]] | Has not so much wit— [[Ajax]] threatens to strike him |
+| [[Achilles|ACHILLES]] | (to [[Ajax]]) Nay, I must hold you. |
+| [[Thersites|THERSITES]] | As will stop the eye of [[Helen]]’s needle, for whom he comes to fight. |
+| [[Achilles|ACHILLES]] | Peace, [[Fool|fool]]. |
+| [[Thersites|THERSITES]] | I would have peace and quietness, but the [[Fool|fool]] will not. He, there, that he, look you there. |
+| [[Ajax|AJAX]] | O thou damned cur I shall— |
+| [[Achilles|ACHILLES]] | (to [[Ajax]]) Will you set your wit to a [[Fool|fool]]’s? |
+| [[Thersites|THERSITES]] | No, I warrant you, for a [[Fool|fool]]’s will shame it. |
+| PATROCLUS | Good words, [[Thersites]]. |
+| [[Achilles|ACHILLES]] | (to [[Ajax]]) What’s the quarrel? |
+| [[Ajax|AJAX]] | I bade the vile owl go learn me the tenor of the proclamation, and he rails upon me. |
+| [[Thersites|THERSITES]] | I serve thee not. |
+| [[Ajax|AJAX]] | [[Well]], go to, go to. |
+| [[Thersites|THERSITES]] | I serve here voluntary. |
+| [[Achilles|ACHILLES]] | Your last service was sufferance. ‘Twas not voluntary: no man is beaten voluntary. [[Ajax]] was here the voluntary, and you as under an impress. |
+| [[Thersites|THERSITES]] | E’en so. A great deal of your wit, too, lies in your sinews, or else there be liars. [[Hector]] shall have a great catch an a knock out either of your brains. A were as good crack a fusty nut with no kernel. |
+| [[Achilles|ACHILLES]] | What, with me too, [[Thersites]]? |
+| [[Thersites|THERSITES]] | There’s [[Ulysses]] and old Nestor, whose wit was mouldy ere your grandsires had nails on their toes, yoke you like draught oxen and make you plough up the war. |
+| [[Achilles|ACHILLES]] | What? What? |
+| [[Thersites|THERSITES]] | Yes, good sooth. To [[Achilles]]! To, [[Ajax]], to— |
+| [[Ajax|AJAX]] | I shall cut out your tongue. |
+| [[Thersites|THERSITES]] | ’Tis no matter. I shall speak as much wit as thou afterwards. |
+| PATROCLUS | No more words, [[Thersites]], peace. |
+| [[Thersites|THERSITES]] | I will hold my peace when [[Achilles]]’ brach bids me, shall I? |
+| [[Achilles|ACHILLES]] | There’s for you, Patroclus. |
+| [[Thersites|THERSITES]] | I will see you hanged like clodpolls ere I come any more to your tents. I will keep where there is wit stirring, and leave the faction of fools. Exit |
+| PATROCLUS | A good riddance. |
+| [[Achilles|ACHILLES]] | (to [[Ajax]]) Marry, this, sir, is proclaimed through all our host: That [[Hector]], by the fifth hour of the sun, Will with a trumpet ‘twixt our tents and Troy Tomorrow morning call some knight to arms That hath a stomach, and such a one that dare Maintain—I know not what. ’Tis trash. Farewell. |
+| [[Ajax|AJAX]] | Farewell. Who shall answer him? |
+| [[Achilles|ACHILLES]] | I know not. ‘Tis put to lott’ry. Otherwise, He knew his man. Exeunt [[Achilles]] and Patroclus |
+| [[Ajax|AJAX]] | O, meaning you? I will go learn more of it. Exit |
+| *(didascalia)* | 2.2 Sennet. Enter [[King]] Priam, [[Hector]], [[Troilus]], [[Paris]], and Helenus |
+| PRIAM | After so many hours, lives, speeches spent, Thus once again says Nestor from the Greeks: ‘Deliver [[Helen]], and all damage else— As [[Honour|honour]], loss of [[Time|time]], travail, expense, Wounds, friends, and what else dear that is consumed In hot digestion of this cormorant war— Shall be struck off.’ [[Hector]], what say you to’t? |
+| [[Hector|HECTOR]] | Though no man lesser fears the Greeks than I, As far as toucheth my particular, yet, dread Priam, There is no lady of more softer bowels, More spongy to suck in the sense of [[Fear|fear]], More ready to cry out, ‘Who knows what follows?’ Than [[Hector]] is. The wound of peace is surety, Surety secure; but modest [[Doubt|doubt]] is called The beacon of the wise, the tent that searches To th’ [[Bottom|bottom]] of the worst. Let [[Helen]] go. Since the first [[Sword|sword]] was drawn about this question, Every tithe-[[Soul|soul]], ’mongst many thousand dimes, Hath been as dear as [[Helen]]—I mean, of ours. If we have lost so many tenths of ours To guard a thing not ours—nor worth to us, Had it our name, the value of one ten— What merit’s in that reason which denies The yielding of her up? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--03_exchange_troilus" data-title="Troilus and Cressida — Act II, Scene 1 — exchange (TROILUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Troilus|TROILUS]] | Fie, fie, my brother! Weigh you the worth and [[Honour|honour]] of a [[King|king]] So great as our dread father in a scale Of common ounces? Will you with counters sum The past-proportion of his infinite, And buckle in a waist most fathomless With spans and inches so diminutive As fears and reasons? Fie, for godly shame! |
+| HELENUS | No marvel though you bite so sharp at reasons, You are so empty of them. Should not our father Bear the great sway of his affairs with reason Because your speech hath none that tells him so? |
+| [[Troilus|TROILUS]] | You are for [[Dreams|dreams]] and slumbers, brother priest. You fur your gloves with ‘reason’. Here are your reasons: You know an enemy intends you harm, You know a [[Sword|sword]] employed is perilous, And reason flies the object of all harm. Who marvels then, when Helenus beholds A Grecian and his [[Sword|sword]], if he do set The very wings of reason to his heels And fly like chidden Mercury from Jove, Or like a star disorbed? Nay, if we talk of reason, Let’s shut our gates and [[Sleep|sleep]]. Manhood and [[Honour|honour]] Should have hare hearts, would they but fat their thoughts With this crammed reason. Reason and respect Make livers pale and lustihood deject. |
+| [[Hector|HECTOR]] | Brother, she is not worth what she doth cost The holding. |
+| [[Troilus|TROILUS]] | What’s aught but as ’tis valued? |
+| [[Hector|HECTOR]] | But value dwells not in particular will. It holds his estimate and dignity As [[Well|well]] wherein ‘tis precious of itself As in the prizer. ’Tis mad idolatry To make the service greater than the god; And the will dotes that is inclinable To what infectiously itself affects Without some image of th’affected merit. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--04_monologue_troilus" data-title="Troilus and Cressida — Act II, Scene 1 — monologue (TROILUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Troilus|TROILUS]] | I take today a wife, and my election Is led on in the conduct of my will; My will enkindled by mine eyes and ears, Two traded pilots ‘twixt the dangerous shores Of will and judgement. How may I avoid— Although my will distaste what it elected— The wife I chose? There can be no evasion To blench from this and to stand firm by [[Honour|honour]]. We turn not back the silks upon the merchant When we have spoiled them; nor the remainder viands We do not throw in unrespective sewer Because we now are full. It was thought meet [[Paris]] should do some vengeance on the Greeks. Your breath of full consent bellied his sails; The seas and winds, old wranglers, took a truce And did him service. He touched the ports desired, And for an old aunt whom the Greeks held captive He brought a Grecian [[Queen|queen]], whose youth and freshness Wrinkles [[Apollo]]’s and makes stale the morning. Why keep we her? The Grecians keep our aunt. Is she worth keeping? Why, she is a pearl Whose price hath launched above a thousand ships And turned crowned kings to merchants. If you’ll avouch ’twas wisdom [[Paris]] went— As you must needs, for you all cried, ‘Go, go!’; If you’ll confess he brought [[Home|home]] noble prize— As you must needs, for you all clapped your hands And cried, ‘Inestimable!’—why do you now The issue of your proper wisdoms rate, And do a deed that never fortune did: Beggar the estimation which you prized Richer than sea and land? O theft most base, That we have stol’n what we do [[Fear|fear]] to keep! But thieves unworthy of a thing so stol’n, That in their country did them that disgrace We [[Fear|fear]] to warrant in our native place. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--05_exchange_cassandra" data-title="Troilus and Cressida — Act II, Scene 1 — exchange (CASSANDRA) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| CASSANDRA | within Cry, Trojans, cry! |
+| PRIAM | What noise? What shriek is this? |
+| [[Troilus|TROILUS]] | ’Tis our mad sister. I do know her voice. |
+| CASSANDRA | within Cry, Trojans! |
+| [[Hector|HECTOR]] | It is Cassandra. Enter Cassandra raving, with her hair about her ears |
+| CASSANDRA | Cry, Trojans, cry! Lend me ten thousand eyes And I will fill them with prophetic [[Tears|tears]]. |
+| [[Hector|HECTOR]] | Peace, sister, peace. |
+| CASSANDRA | Virgins and boys, mid-age, and wrinkled old, Soft infancy that nothing canst but cry, Add to my clamours. Let us pay betimes A moiety of that mass of moan to come. Cry, Trojans, cry! Practise your eyes with [[Tears|tears]]. Troy must not be, nor goodly Ilium stand. Our firebrand brother, [[Paris]], burns us all. Cry, Trojans, cry! Ah [[Helen]], and ah woe! Cry, cry ‘Troy burns!’—or else let [[Helen]] go. Exit |
+| [[Hector|HECTOR]] | Now, youthful [[Troilus]], do not these high strains Of divination in our sister work Some touches of remorse? Or is your [[Blood|blood]] So madly hot that no discourse of reason, Nor [[Fear|fear]] of bad [[success]] in a bad cause, Can qualify the same? |
+| [[Troilus|TROILUS]] | Why, brother [[Hector]], We may not think the justness of each act Such and no other than the event doth form it, Nor once deject the [[Courage|courage]] of our minds Because Cassandra’s mad. Her brainsick raptures Cannot distaste the goodness of a quarrel Which hath our several honours all engaged To make it gracious. For my private part, I am no more touched than all Priam’s sons. And Jove forbid there should be done amongst us Such things as might offend the weakest spleen To fight for and maintain. |
+| [[Paris|PARIS]] | Else might the world convince of levity As [[Well|well]] my undertakings as your counsels. But I attest the gods, your full consent Gave wings to my propension and cut off All fears attending on so dire a project. For what, alas, can these my single arms? What propugnation is in one man’s valour To stand the push and enmity of those This quarrel would excite? Yet I protest, Were I [[Alone|alone]] to pass the difficulties And had as ample power as I have will, [[Paris]] should ne’er retract what he hath done Nor faint in the pursuit. |
+| PRIAM | [[Paris]], you speak Like one besotted on your sweet delights. You have the honey still, but these the gall. So to be valiant is no praise at all. |
+| [[Paris|PARIS]] | Sir, I propose not merely to myself The pleasures such a [[Beauty|beauty]] brings with it, But I would have the soil of her fair rape Wiped off in honourable keeping her. What treason were it to the ransacked [[Queen|queen]], Disgrace to your great worths, and shame to me, Now to deliver her possession up On terms of base compulsion? Can it be That so degenerate a strain as this Should once set footing in your generous bosoms? There’s not the meanest spirit on our party Without a heart to dare or [[Sword|sword]] to draw When [[Helen]] is defended; nor none so noble Whose life were ill bestowed or [[Death|death]] unfamed Where [[Helen]] is the subject. Then I say: [[Well]] may we fight for her whom we know [[Well|well]] The world’s large spaces cannot parallel. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--06_monologue_hector" data-title="Troilus and Cressida — Act II, Scene 1 — monologue (HECTOR) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Hector|HECTOR]] | [[Paris]] and [[Troilus]], you have both said [[Well|well]], But on the cause and question now in hand Have glossed but superficially—not much Unlike young men, whom Aristotle thought Unfit to hear moral [[philosophy]]. The reasons you allege do more conduce To the hot passion of distempered [[Blood|blood]] Than to make up a free determination ‘Twixt right and wrong; for pleasure and [[Revenge|revenge]] Have ears more deaf than adders to the voice Of any true decision. [[Nature]] craves All dues be rendered to their owners. Now, What nearer debt in all humanity Than wife is to the husband? If this law Of [[Nature|nature]] be corrupted through affection, And that great minds, of partial indulgence To their benumbed wills, resist the same, There is a law in each [[Well|well]]-ordered nation To curb those raging appetites that are Most disobedient and refractory. If [[Helen]] then be wife to Sparta’s [[King|king]], As it is known she is, these moral laws Of [[Nature|nature]] and of nations speak aloud To have her back returned. Thus to persist In doing wrong extenuates not wrong, But makes it much more heavy. [[Hector]]’s opinion Is this in way of [[Truth|truth]]—yet ne’ertheless, My sprightly brethren, I propend to you In resolution to keep [[Helen]] still; For ’tis a cause that hath no mean dependence Upon our joint and several dignities. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--07_exchange_troilus" data-title="Troilus and Cressida — Act II, Scene 1 — exchange (TROILUS) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Troilus|TROILUS]] | Why, there you touched the life of our design. Were it not glory that we more affected Than the performance of our heaving spleens, I would not wish a drop of Trojan [[Blood|blood]] Spent more in her defence. But, worthy [[Hector]], She is a theme of [[Honour|honour]] and renown, A spur to valiant and magnanimous deeds, Whose present [[Courage|courage]] may beat down our foes, And fame in [[Time|time]] to come canonize us— For I presume brave [[Hector]] would not lose So rich advantage of a promised glory As smiles upon the forehead of this action For the wide world’s revenue. |
+| [[Hector|HECTOR]] | I am yours, You valiant offspring of great Priamus. I have a roisting challenge sent amongst The dull and factious nobles of the Greeks Will shriek amazement to their drowsy spirits. I was advertised their great general slept Whilst emulation in the army crept; This I presume will wake him. Flourish. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Troilus and Cressida — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Thersites]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--02_monologue_thersites" data-title="Troilus and Cressida — Act II, Scene 3 — monologue (THERSITES) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Thersites|THERSITES]] | How now, [[Thersites]]? What, lost in the labyrinth of thy fury? Shall the elephant [[Ajax]] carry it thus? He beats me and I rail at him. O worthy satisfaction! Would it were otherwise: that I could beat him whilst he railed at me. ‘Sfoot, I’ll learn to conjure and raise devils but I’ll see some issue of my spiteful execrations. Then there’s [[Achilles]]: a rare engineer. If Troy be not taken till these two undermine it, the walls will stand till they fall of themselves. O thou great thunder-darter of Olympus, forget that thou art Jove, the [[King|king]] of gods; and Mercury, lose all the serpentine craft of thy caduceus, if ye take not that little, little, less than little wit from them that they have—which short-armed ignorance itself knows is so abundant-scarce it will not in circumvention deliver a fly from a spider without drawing their massy irons and cutting the web. After this, the vengeance on the whole camp—or rather, the Neapolitan bone-ache, for that methinks is the curse dependent on those that war for a placket. I have said my prayers, and devil Envy say ‘Amen’.—What ho! My lord [[Achilles]]! Enter Patroclus at the door to the tent |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--03_exchange_patroclus" data-title="Troilus and Cressida — Act II, Scene 3 — exchange (PATROCLUS) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PATROCLUS | Who’s there? [[Thersites]]? Good [[Thersites]], come in and rail. Exit |
+| [[Thersites|THERSITES]] | If I could ha’ remembered a gilt counterfeit, thou wouldst not have slipped out of my contemplation; but it is no matter. Thyself upon thyself! The common curse of mankind, folly and ignorance, be thine in great revenue! Heaven bless thee from a tutor, and discipline come not near thee! Let thy [[Blood|blood]] be thy direction till thy [[Death|death]]! Then if she that lays thee out says thou art a fair corpse, I’ll be sworn and sworn upon’t she never shrouded any but lazars. Enter Patroclus Amen.—Where’s [[Achilles]]? |
+| PATROCLUS | What, art thou devout? Wast thou in [[prayer]]? |
+| [[Thersites|THERSITES]] | Ay. The heavens hear me! |
+| PATROCLUS | Amen. Enter [[Achilles]] |
+| [[Achilles|ACHILLES]] | Who’s there? |
+| PATROCLUS | [[Thersites]], my lord. |
+| [[Achilles|ACHILLES]] | Where? Where? O where?—Art thou come? Why, my [[cheese]], my digestion, why hast thou not served thyself into my table so many meals? Come: what’s [[Agamemnon]]? |
+| [[Thersites|THERSITES]] | Thy commander, [[Achilles]].—Then tell me, Patroclus, what’s [[Achilles]]? |
+| PATROCLUS | Thy lord, [[Thersites]]. Then tell me, I pray thee, what’s [[Thersites]]? |
+| [[Thersites|THERSITES]] | Thy knower, Patroclus. Then tell me, Patroclus, what art thou? |
+| PATROCLUS | Thou mayst tell, that knowest. |
+| [[Achilles|ACHILLES]] | O tell, tell. |
+| [[Thersites|THERSITES]] | I’ll decline the whole question. [[Agamemnon]] commands [[Achilles]], [[Achilles]] is my lord, I am Patroclus’ knower, and Patroclus is a [[Fool|fool]]. |
+| PATROCLUS | You rascal. |
+| [[Thersites|THERSITES]] | Peace, [[Fool|fool]], I have not done. |
+| [[Achilles|ACHILLES]] | (to Patroclus) He is a privileged man.—Proceed, [[Thersites]]. |
+| [[Thersites|THERSITES]] | [[Agamemnon]] is a [[Fool|fool]], [[Achilles]] is a [[Fool|fool]], [[Thersites]] is a [[Fool|fool]], and as aforesaid Patroclus is a [[Fool|fool]]. |
+| [[Achilles|ACHILLES]] | Derive this. Come. |
+| [[Thersites|THERSITES]] | [[Agamemnon]] is a [[Fool|fool]] to offer to command [[Achilles]]; [[Achilles]] is a [[Fool|fool]] to be commanded of [[Agamemnon]]; [[Thersites]] is a [[Fool|fool]] to serve such a [[Fool|fool]]; and Patroclus is a [[Fool|fool]] positive. |
+| PATROCLUS | Why am I a [[Fool|fool]]? |
+| [[Thersites|THERSITES]] | Make that demand to the Creator. It suffices me thou art. Look you, who comes here? Enter [[Agamemnon]], [[Ulysses]], Nestor, Diomedes, [[Ajax]], and Calchas |
+| [[Achilles|ACHILLES]] | Patroclus, I’ll speak with nobody.—Come in with me, [[Thersites]]. Exit |
+| [[Thersites|THERSITES]] | Here is such patchery, such juggling and such knavery. All the argument is a whore and a cuckold. A good quarrel to draw emulous factions and bleed to [[Death|death]] upon. Now the dry serpigo on the subject, and war and lechery confound all. Exit |
+| [[Agamemnon|AGAMEMNON]] | (to Patroclus) Where is [[Achilles]]? |
+| PATROCLUS | Within his tent; but ill-disposed, my lord. |
+| [[Agamemnon|AGAMEMNON]] | Let it be known to him that we are here. He faced our messengers, and we lay by Our appertainments, visiting of him. Let him be told so, lest perchance he think We dare not move the question of our place, Or know not what we are. |
+| PATROCLUS | I shall so say to him. Exit |
+| [[Ulysses|ULYSSES]] | We saw him at the opening of his tent. He is not sick. |
+| [[Ajax|AJAX]] | Yes, [[Lion|lion]]-sick: sick of proud heart. You may call it ‘[[Melancholy|melancholy]]’ if you will favour the man, but by my head ’tis [[Pride|pride]]. But why? Why? Let him show us the cause. To [[Agamemnon]] A word, my lord. [[Ajax]] and [[Agamemnon]] talk apart |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--04_exchange_nestor" data-title="Troilus and Cressida — Act II, Scene 3 — exchange (NESTOR) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| NESTOR | What moves [[Ajax]] thus to bay at him? |
+| [[Ulysses|ULYSSES]] | [[Achilles]] hath inveigled his [[Fool|fool]] from him. |
+| NESTOR | Who? [[Thersites]]? |
+| [[Ulysses|ULYSSES]] | He. |
+| NESTOR | Then will [[Ajax]] lack matter, if he have lost his argument. |
+| [[Ulysses|ULYSSES]] | No, you see, he is his argument that has his argument: [[Achilles]]. |
+| NESTOR | All the better—their fraction is more our wish than their faction. But it was a strong council that a [[Fool|fool]] could disunite. |
+| [[Ulysses|ULYSSES]] | The amity that wisdom knits not, folly may easily untie. Enter Patroclus Here comes Patroclus. |
+| NESTOR | No [[Achilles]] with him. |
+| [[Ulysses|ULYSSES]] | The elephant hath joints, but none for courtesy: his legs are legs for necessity, not for flexure. |
+| PATROCLUS | (to [[Agamemnon]]) [[Achilles]] bids me say he is much sorry If anything more than your sport and pleasure Did move your [[Greatness|greatness]] and this noble state To call upon him. He hopes it is no other But for your health and your digestion’s sake: no An after-dinner’s breath. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--05_monologue_agamemnon" data-title="Troilus and Cressida — Act II, Scene 3 — monologue (AGAMEMNON) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Agamemnon|AGAMEMNON]] | Hear you, Patroclus. We are too [[Well|well]] acquainted with these answers. But his evasion, winged thus swift with scorn, Cannot outfly our apprehensions. Much attribute he hath, and much the reason Why we ascribe it to him. Yet all his virtues, Not virtuously on his own part beheld, Do in our eyes begin to lose their gloss, Yea, and like fair fruit in an unwholesome dish Are like to rot untasted. Go and tell him We come to speak with him—and you shall not sin If you do say we think him over-proud And under-honest, in [[Self|self]]-assumption greater Than in the note of judgement. And worthier than himself Here tend the savage strangeness he puts on, Disguise the holy strength of their command, And underwrite in an observing kind His humorous predominance—yea, watch His pettish lunes, his ebbs, his flows, as if The passage and whole carriage of this action Rode on his tide. Go tell him this, and add That if he overhold his price so much We’ll none of him, but let him, like an engine Not portable, lie under this report: ‘Bring action hither, this cannot go to war.’ A stirring [[Dwarf|dwarf]] we do allowance give Before a sleeping giant. Tell him so. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--06_exchange_patroclus" data-title="Troilus and Cressida — Act II, Scene 3 — exchange (PATROCLUS) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PATROCLUS | I shall, and bring his answer presently. |
+| [[Agamemnon|AGAMEMNON]] | In second voice we’ll not be satisfied; We come to speak with him.—[[Ulysses]], enter you. Exit [[Ulysses]] with Patroclus |
+| [[Ajax|AJAX]] | What is he more than another? |
+| [[Agamemnon|AGAMEMNON]] | No more than what he thinks he is. |
+| [[Ajax|AJAX]] | Is he so much? Do you not think he thinks himself a better man than I am? |
+| [[Agamemnon|AGAMEMNON]] | No question. |
+| [[Ajax|AJAX]] | Will you subscribe his thought, and say he is? |
+| [[Agamemnon|AGAMEMNON]] | No, noble [[Ajax]]. You are as strong, as valiant, as wise, no less noble, much more gentle, and altogether more tractable. |
+| [[Ajax|AJAX]] | Why should a man be proud? How doth [[Pride|pride]] grow? I know not what it is. |
+| [[Agamemnon|AGAMEMNON]] | Your mind is the clearer, [[Ajax]], and your virtues the fairer. He that is proud eats up himself. [[Pride]] is his own glass, his own trumpet, his own chronicle—and whatever praises itself but in the deed devours the deed in the praise. Enter [[Ulysses]] |
+| [[Ajax|AJAX]] | I do hate a proud man as I hate the engendering of toads. |
+| NESTOR | (aside) Yet he loves himself. Is’t not strange? |
+| [[Ulysses|ULYSSES]] | [[Achilles]] will not to the field tomorrow. |
+| [[Agamemnon|AGAMEMNON]] | What’s his excuse? |
+| [[Ulysses|ULYSSES]] | He doth rely on none, But carries on the stream of his dispose Without observance or respect of any, In will peculiar and in [[Self|self]]-admission. |
+| [[Agamemnon|AGAMEMNON]] | Why, will he not, upon our fair request, Untent his person and share the air with us? |
+| [[Ulysses|ULYSSES]] | Things small as nothing, for request’s sake only, He makes important. Possessed he is with [[Greatness|greatness]], And speaks not to himself but with a [[Pride|pride]] That quarrels at [[Self|self]]-breath. Imagined worth Holds in his [[Blood|blood]] such swoll’n and hot discourse That ‘twixt his mental and his active parts Kingdomed [[Achilles]] in commotion rages And batters ’gainst himself. What should I say? He is so plaguy proud that the [[Death|death]] tokens of it Cry ‘No recovery’. |
+| [[Agamemnon|AGAMEMNON]] | Let [[Ajax]] go to him. (To [[Ajax]]) Dear lord, go you and greet him in his tent. ’Tis said he holds you [[Well|well]] and will be led, At your request, a little from himself. |
+| [[Ulysses|ULYSSES]] | O [[Agamemnon]], let it not be so. We’ll consecrate the steps that [[Ajax]] makes When they go from [[Achilles]]. Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as do revolve And ruminate himself—shall he be worshipped Of that we hold an idol more than he? No, this thrice-worthy and right valiant lord Must not so stale his palm, nobly acquired, Nor by my will assubjugate his merit, As amply titled as [[Achilles]]’ is, By going to [[Achilles]]— That were to enlard his fat-already [[Pride|pride]] And add more coals to Cancer when he burns With entertaining great [[Hyperion]]. This lord go to him? Jupiter forbid, And say in thunder ‘[[Achilles]], go to him’. |
+| NESTOR | (aside to Diomedes) O this is [[Well|well]]. He rubs the vein of him. |
+| DIOMEDES | (aside to Nestor) And how his [[Silence|silence]] drinks up this applause. |
+| [[Ajax|AJAX]] | If I go to him, with my armed fist I’ll pash him o’er the face. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--07_exchange_agamemnon_o" data-title="Troilus and Cressida — Act II, Scene 3 — exchange (AGAMEMNON O) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Agamemnon|AGAMEMNON]] | O no, you shall not go. |
+| [[Ajax|AJAX]] | An a be proud with me, I’ll feeze his [[Pride|pride]]. Let me go to him. |
+| [[Ulysses|ULYSSES]] | Not for the worth that hangs upon our quarrel. |
+| [[Ajax|AJAX]] | A paltry insolent fellow. |
+| NESTOR | (aside) How he describes himself! |
+| [[Ajax|AJAX]] | Can he not be sociable? |
+| [[Ulysses|ULYSSES]] | (aside) [[The Raven|The raven]] chides blackness. |
+| [[Ajax|AJAX]] | I’ll let his [[Humour|humour]]’s [[Blood|blood]]. |
+| [[Agamemnon|AGAMEMNON]] | (aside) He will be the physician that should be the patient. |
+| [[Ajax|AJAX]] | An all men were o’ my mind— |
+| [[Ulysses|ULYSSES]] | (aside) Wit would be out of fashion. |
+| [[Ajax|AJAX]] | A should not bear it so. A should eat swords first. Shall [[Pride|pride]] carry it? |
+| NESTOR | (aside) An’t would, you’d carry half. [[Ajax|AJAX]] A would have ten shares. [[Ulysses|ULYSSES]] (aside) I will knead him; I’ll make him supple. He’s not yet through warm. |
+| NESTOR | (aside) Farce him with praises. Pour in, pour in! His [[Ambition|ambition]] is dry. |
+| [[Ulysses|ULYSSES]] | (to [[Agamemnon]]) My lord, you feed too much on this dislike. |
+| NESTOR | (to [[Agamemnon]]) Our noble general, do not do so. |
+| DIOMEDES | (to [[Agamemnon]]) You must prepare to fight without [[Achilles]]. |
+| [[Ulysses|ULYSSES]] | Why, ‘tis this naming of him does him harm. Here is a man—but ’tis before his face. I will be silent. |
+| NESTOR | Wherefore should you so? He is not emulous, as [[Achilles]] is. |
+| [[Ulysses|ULYSSES]] | Know the whole world he is as valiant— |
+| [[Ajax|AJAX]] | A whoreson dog, that shall palter thus with us—would he were a Trojan! |
+| NESTOR | What a vice were it in [[Ajax]] now— |
+| [[Ulysses|ULYSSES]] | If he were proud— |
+| DIOMEDES | Or covetous of praise— |
+| [[Ulysses|ULYSSES]] | Ay, or surly borne— |
+| DIOMEDES | Or strange, or [[Self|self]]-affected. |
+| [[Ulysses|ULYSSES]] | (to [[Ajax]]) Thank the heavens, lord, thou art of sweet composure. Praise him that got thee, she that gave thee suck. Famed be thy tutor, and thy parts of [[Nature|nature]] Thrice famed beyond, beyond all erudition. But he that disciplined thine arms to fight— Let Mars divide [[Eternity|eternity]] in twain, And give him half. And for thy vigour, Bull-bearing Milo his addition yield To sinewy [[Ajax]]. I will not praise thy wisdom, Which like a bourn, a pale, a shore confines Thy spacious and dilated parts. Here’s Nestor, Instructed by the antiquary times: He must, he is, he cannot but be, wise. But pardon, father Nestor: were your days As green as [[Ajax]]’, and your brain so tempered, You should not have the eminence of him, But be as [[Ajax]]. |
+| [[Ajax|AJAX]] | Shall I call you father? |
+| [[Ulysses|ULYSSES]] | Ay, my good son. |
+| DIOMEDES | Be ruled by him, Lord [[Ajax]]. |
+| [[Ulysses|ULYSSES]] | (to [[Agamemnon]]) There is no tarrying here: the hart [[Achilles]] Keeps thicket. Please it our great general To call together all his state of war. Fresh kings are come today to Troy; tomorrow We must with all our main of power stand fast. And here’s a lord, come knights from east to west And cull their flower, [[Ajax]] shall cope the best. |
+| [[Agamemnon|AGAMEMNON]] | Go we to counsel. Let [[Achilles]] [[Sleep|sleep]]. Light boats sail swift, though greater hulks draw deep. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Troilus and Cressida — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Music sounds within. Enter [[Pandarus]] at one door and a Servant at another door |
+| [[Pandarus|PANDARUS]] | Friend? You. Pray you, a word. Do not you follow the young Lord [[Paris]]? |
+| SERVANT | Ay, sir, when he goes before me. |
+| [[Pandarus|PANDARUS]] | You depend upon him, I mean. |
+| SERVANT | Sir, I do depend upon the Lord. |
+| [[Pandarus|PANDARUS]] | You depend upon a notable gentleman; I must needs praise him. |
+| SERVANT | The Lord be praised! |
+| [[Pandarus|PANDARUS]] | You know me—do you not? |
+| SERVANT | [[Faith]], sir, superficially. |
+| [[Pandarus|PANDARUS]] | Friend, know me better. I am the Lord [[Pandarus]]. |
+| SERVANT | I [[Hope|hope]] I shall know your [[Honour|honour]] better. |
+| [[Pandarus|PANDARUS]] | I do [[Desire|desire]] it. |
+| SERVANT | You are in the state of grace? |
+| [[Pandarus|PANDARUS]] | Grace? Not so, friend. ‘[[Honour]]’ and ‘lordship’ are my titles. What music is this? |
+| SERVANT | I do but partly know, sir. It is music in parts. |
+| [[Pandarus|PANDARUS]] | Know you the musicians? |
+| SERVANT | Wholly, sir. |
+| [[Pandarus|PANDARUS]] | Who play they to? |
+| SERVANT | To the hearers, sir. |
+| [[Pandarus|PANDARUS]] | At whose pleasure, friend? |
+| SERVANT | At mine, sir, and theirs that [[Love|love]] music. |
+| [[Pandarus|PANDARUS]] | ‘Command’ I mean, friend. |
+| SERVANT | Who shall I command, sir? |
+| [[Pandarus|PANDARUS]] | Friend, we understand not one another. I am too courtly and thou too cunning. At whose request do these men play? |
+| SERVANT | That’s to’t indeed, sir. Marry, sir, at the request of [[Paris]] my lord, who’s there in person; with him, the mortal [[Venus]], the heart-[[Blood|blood]] of [[Beauty|beauty]], [[Love|love]]’s visible [[Soul|soul]]— |
+| [[Pandarus|PANDARUS]] | Who, my cousin [[Cressida]]? |
+| SERVANT | No, sir, [[Helen]]. Could not you find out that by her attributes? |
+| [[Pandarus|PANDARUS]] | It should seem, fellow, that thou hast not seen the Lady Cressid. I come to speak with [[Paris]] from the Prince [[Troilus]]. I will make a complimental assault upon him, for my business seethes. |
+| SERVANT | Sodden business! There’s a stewed phrase, indeed. Enter [[Paris]] and [[Helen]], attended by musicians |
+| [[Pandarus|PANDARUS]] | Fair be to you, my lord, and to all this fair company. Fair desires in all fair measure fairly guide them—especially to you, fair [[Queen]]. Fair thoughts be your fair pillow. |
+| [[Helen|HELEN]] | Dear lord, you are full of fair words. |
+| [[Pandarus|PANDARUS]] | You speak your fair pleasure, sweet [[Queen]]. (To [[Paris]]) Fair prince, here is good broken music. |
+| [[Paris|PARIS]] | You have broke it, cousin, and by my life you shall make it whole again. You shall piece it out with a piece of your performance.—Nell, he is full of harmony. |
+| [[Pandarus|PANDARUS]] | Truly, lady, no. |
+| [[Helen|HELEN]] | O sir. She tickles him |
+| [[Pandarus|PANDARUS]] | Rude, in sooth, in good sooth very rude. |
+| [[Paris|PARIS]] | [[Well]] said, my lord. Will you say so in fits? |
+| [[Pandarus|PANDARUS]] | I have business to my lord, dear [[Queen]].—My lord, will you vouchsafe me a word? |
+| [[Helen|HELEN]] | Nay, this shall not hedge us out. We’ll hear you sing, certainly. |
+| [[Pandarus|PANDARUS]] | [[Well]], sweet [[Queen]], you are pleasant with me.—But marry, thus, my lord: my dear lord and most esteemed friend, your brother [[Troilus]]— |
+| [[Helen|HELEN]] | My lord [[Pandarus]], honey-sweet lord. |
+| [[Pandarus|PANDARUS]] | Go to, sweet [[Queen]], go tot—commends himself most affectionately to you. |
+| [[Helen|HELEN]] | You shall not bob us out of our melody. If you do, our [[Melancholy|melancholy]] upon your head. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--02_exchange_pandarus" data-title="Troilus and Cressida — Act III, Scene 1 — exchange (PANDARUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pandarus|PANDARUS]] | Sweet [[Queen]], sweet [[Queen]], that’s a sweet [[Queen]]. Ay, [[Faith|faith]]— |
+| [[Helen|HELEN]] | And to make a sweet lady sad is a sour offence. |
+| [[Pandarus|PANDARUS]] | Nay, that shall not serve your turn; that shall it not, in [[Truth|truth]], la. Nay, I care not for such words. No, no.—And, my lord, he desires you that, if the [[King]] call for him at supper, you will make his excuse. |
+| [[Helen|HELEN]] | My lord [[Pandarus]]. |
+| [[Pandarus|PANDARUS]] | What says my sweet [[Queen]], my very very sweet [[Queen]]? |
+| [[Paris|PARIS]] | What exploit’s in hand? Where sups he tonight? |
+| [[Helen|HELEN]] | Nay, but my lord— |
+| [[Pandarus|PANDARUS]] | What says my sweet [[Queen]]? My cousin will fall out with you. |
+| [[Helen|HELEN]] | (to [[Paris]]) You must not know where he sups. |
+| [[Paris|PARIS]] | I’ll lay my life, with my dispenser [[Cressida]]. |
+| [[Pandarus|PANDARUS]] | No, no! No such matter. You are wide. Come, your dispenser is sick. |
+| [[Paris|PARIS]] | [[Well]], I’ll make’s excuse. |
+| [[Pandarus|PANDARUS]] | Ay, good my lord. Why should you say [[Cressida]]? No, your poor dispenser’s sick. |
+| [[Paris|PARIS]] | ‘I spy.’ |
+| [[Pandarus|PANDARUS]] | You spy? What do you spy?—To a musician Come, give me an instrument.—Now, sweet [[Queen]]. |
+| [[Helen|HELEN]] | Why, this is kindly done! |
+| [[Pandarus|PANDARUS]] | My niece is horrible in [[Love|love]] with a thing you have, sweet [[Queen]]. |
+| [[Helen|HELEN]] | She shall have it, my lord—if it be not my lord [[Paris]]. |
+| [[Pandarus|PANDARUS]] | He? No, she’ll none of him. They two are twain. |
+| [[Helen|HELEN]] | Falling in, after falling out, may make them three. |
+| [[Pandarus|PANDARUS]] | Come, come, I’ll hear no more of this. I’ll sing you a [[Song|song]] now. |
+| [[Helen|HELEN]] | Ay, ay, prithee. Now by my troth, sweet lord, thou hast a fine forehead. She strokes his forehead |
+| [[Pandarus|PANDARUS]] | Ay, you may, you may. |
+| [[Helen|HELEN]] | Let thy [[Song|song]] be [[Love|love]]. ‘This [[Love|love]] will undo us all.’ O Cupid, Cupid, Cupid! |
+| [[Pandarus|PANDARUS]] | [[Love]]? Ay, that it shall, i’[[Faith|faith]]. |
+| [[Paris|PARIS]] | Ay, good now, ‘[[Love]], [[Love|love]], nothing but [[Love|love]]’. |
+| [[Pandarus|PANDARUS]] | In good [[Truth|truth]], it begins so. (Sings) [[Love]], [[Love|love]], nothing but [[Love|love]], still [[Love|love]], still more! For O [[Love|love]]’s bow Shoots buck and doe. The shaft confounds Not that it wounds, But tickles still the sore. These [[lovers]] cry ‘O! O!’, they die. Yet that which seems the wound to kill Doth turn ‘O! O!’ to ‘ha ha he!’ So dying [[Love|love]] lives still. ‘O! O!’ a while, but ‘ha ha ha!’ ‘O! O!’ groans out for ‘ha ha ha!’— Heigh-ho. |
+| [[Helen|HELEN]] | In [[Love|love]]—ay, [[Faith|faith]], to the very tip of the nose. |
+| [[Paris|PARIS]] | He eats nothing but doves, [[Love|love]], and that breeds hot [[Blood|blood]], and hot [[Blood|blood]] begets hot thoughts, and hot thoughts beget hot deeds, and hot deeds is [[Love|love]]. |
+| [[Pandarus|PANDARUS]] | Is this the generation of [[Love|love]]: hot [[Blood|blood]], hot thoughts, and hot deeds? Why, they are vipers. Is [[Love|love]] a generation of vipers? Alarum Sweet lord, who’s afield today? |
+| [[Paris|PARIS]] | [[Hector]], Deiphobus, Helenus, Antenor, and all the gallantry of Troy. I would fain have armed today, but my Nell would not have it so. How chance my brother [[Troilus]] went not? |
+| [[Helen|HELEN]] | He hangs the lip at something. You know all, Lord [[Pandarus]]. |
+| [[Pandarus|PANDARUS]] | Not I, honey-sweet [[Queen]]. I long to hear how they sped today.—You’ll remember your brother’s excuse? |
+| [[Paris|PARIS]] | To a hair. |
+| [[Pandarus|PANDARUS]] | Farewell, sweet [[Queen]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--03_exchange_helen" data-title="Troilus and Cressida — Act III, Scene 1 — exchange (HELEN) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Helen|HELEN]] | Commend me to your niece. |
+| [[Pandarus|PANDARUS]] | I will, sweet [[Queen]]. Exit Sound a retreat |
+| [[Paris|PARIS]] | They’re come from field. Let us to Priam’s hall To greet the warriors. Sweet [[Helen]], I must woo you To help unarm our [[Hector]]. His stubborn buckles, With these your white enchanting fingers touched, Shall more obey than to the edge of steel Or force of Greekish sinews. You shall do more Than all the island kings: disarm great [[Hector]]. |
+| [[Helen|HELEN]] | ’Twill make us proud to be his servant, [[Paris]]; Yea, what he shall receive of us in duty Gives us more palm in [[Beauty|beauty]] than we have— Yea, overshines ourself. |
+| [[Paris|PARIS]] | Sweet above thought, I [[Love|love]] thee! Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="Troilus and Cressida — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Pandarus]] at one door and [[Troilus]]’ man at another door |
+| [[Pandarus|PANDARUS]] | How now, where’s thy master? At my cousin [[Cressida]]’s? |
+| MAN | No, sir, he stays for you to conduct him thither. Enter [[Troilus]] |
+| [[Pandarus|PANDARUS]] | O here he comes.—How now, how now? |
+| [[Troilus|TROILUS]] | Sirrah, walk off. Exit Man |
+| [[Pandarus|PANDARUS]] | Have you seen my cousin? |
+| [[Troilus|TROILUS]] | No, [[Pandarus]], I stalk about her door Like a strange [[Soul|soul]] upon the Stygian banks Staying for waftage. O be thou my Charon, And give me swift transportance to those fields Where I may wallow in the lily beds Proposed for the deserver. O gentle Pandar, From Cupid’s shoulder pluck his painted wings And fly with me to Cressid. |
+| [[Pandarus|PANDARUS]] | Walk here i’th’ orchard. I’ll bring her straight. Exit |
+| [[Troilus|TROILUS]] | I am giddy. Expectation whirls me round. Th‘imaginary relish is so sweet That it enchants my sense. What will it be When that the wat’ry palates taste indeed [[Love]]’s thrice-repurèd nectar? [[Death]], I [[Fear|fear]] me, Swooning destruction, or some joy too fine, Too subtle-potent, tuned too sharp in sweetness For the capacity of my ruder powers. I [[Fear|fear]] it much, and I do [[Fear|fear]] besides That I shall lose distinction in my joys, As doth a battle when they charge on heaps The enemy flying. Enter [[Pandarus]] |
+| [[Pandarus|PANDARUS]] | She’s making her ready. She’ll come straight. You must be witty now. She does so blush, and fetches her [[Wind|wind]] so short as if she were frayed with a spirit. I’ll fetch her. It is the prettiest [[Villain|villain]]! She fetches her breath as short as a new-ta’en sparrow. Exit |
+| [[Troilus|TROILUS]] | Even such a passion doth embrace my bosom. My heart beats thicker than a feverous pulse, And all my powers do their bestowing lose, Like vassalage at unawares encount’ring The eye of majesty. Enter [[Pandarus]], with [[Cressida]] veiled |
+| [[Pandarus|PANDARUS]] | (to [[Cressida]]) Come, come, what need you blush? Shame’s a baby. (To [[Troilus]]) Here she is now. Swear the oaths now to her that you have sworn to me. (To [[Cressida]]) What, are you gone again? You must be watched ere you be made tame, must you? Come your ways, come your ways. An you draw backward, we’ll put you i‘th’ thills. (To [[Troilus]]) Why do you not speak to her? (To [[Cressida]]) Come, draw this curtain, and let’s see your picture. He unveils her Alas the day! How loath you are to offend daylight! An’t were dark, you’d close sooner. So, so. (To [[Troilus]]) Rub on, and kiss the mistress. (They kiss) How now, a kiss in fee farm! Build there, carpenter, the air is sweet. Nay, you shall fight your hearts out ere I part you. The falcon as the tercel, for all the ducks i’th’ [[River|river]]. Go to, go to. |
+| [[Troilus|TROILUS]] | You have bereft me of all words, lady. |
+| [[Pandarus|PANDARUS]] | Words pay no debts; give her deeds. But she’ll bereave you o‘th’ deeds too, if she call your activity in question. (They kiss) What, billing again? Here’s ‘in witness whereof the parties interchangeably’. Come in, come in. I’ll go get a [[Fire|fire]]. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--02_exchange_cressida" data-title="Troilus and Cressida — Act III, Scene 2 — exchange (CRESSIDA) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Cressida|CRESSIDA]] | Will you walk in, my lord? |
+| [[Troilus|TROILUS]] | O [[Cressida]], how often have I wished me thus. |
+| [[Cressida|CRESSIDA]] | Wished, my lord? The gods grant—O, my lordl |
+| [[Troilus|TROILUS]] | What should they grant? What makes this pretty abruption? What too-curious dreg espies my sweet lady in the fountain of our [[Love|love]]? |
+| [[Cressida|CRESSIDA]] | More dregs than [[Water|water]], if my fears have eyes. |
+| [[Troilus|TROILUS]] | Fears make devils of cherubims; they never see truly. |
+| [[Cressida|CRESSIDA]] | Blind [[Fear|fear]], that seeing reason leads, finds safer footing than blind reason, stumbling without [[Fear|fear]]. To [[Fear|fear]] the worst oft cures the worse. |
+| [[Troilus|TROILUS]] | O let my lady apprehend no [[Fear|fear]]. In all Cupid’s pageant there is presented no [[Monster|monster]]. |
+| [[Cressida|CRESSIDA]] | Nor nothing monstrous neither? |
+| [[Troilus|TROILUS]] | Nothing but our undertakings, when we vow to weep seas, live in [[Fire|fire]], eat rocks, tame tigers, thinking it harder for our mistress to devise imposition enough than for us to undergo any difficulty imposed. This is the monstruosity in [[Love|love]], lady—that the will is infinite and the execution confined; that the [[Desire|desire]] is boundless and the act a slave to limit. |
+| [[Cressida|CRESSIDA]] | They say all [[lovers]] swear more performance than they are able, and yet reserve an ability that they never perform: vowing more than the perfection of ten, and discharging less than the tenth part of one. They that have the voice of lions and the act of hares, are they not monsters? |
+| [[Troilus|TROILUS]] | Are there such? Such are not we. Praise us as we are tasted; allow us as we prove. Our head shall go bare till merit [[Crown|crown]] it. No perfection in reversion shall have a praise in present. We will not name [[Desert|desert]] before his birth, and being born his addition shall be humble. Few words to fair [[Faith|faith]]. [[Troilus]] shall be such to Cressid as what envy can say worst shall be a mock for his [[Truth|truth]]; and what [[Truth|truth]] can speak truest, not truer than [[Troilus]]. |
+| [[Cressida|CRESSIDA]] | Will you walk in, my lord? Enter [[Pandarus]] |
+| [[Pandarus|PANDARUS]] | What, blushing still? Have you not done talking yet? |
+| [[Cressida|CRESSIDA]] | [[Well]], uncle, what folly I commit I dedicate to you. |
+| [[Pandarus|PANDARUS]] | I thank you for that. If my lord get a boy of you, you’ll give him me. Be true to my lord. If he flinch, chide me for it. |
+| [[Troilus|TROILUS]] | (to [[Cressida]]) You know now your hostages: your uncle’s word and my firm [[Faith|faith]]. |
+| [[Pandarus|PANDARUS]] | Nay, I’ll give my word for her too. Our kindred, though they be long ere they are wooed, they are constant being won. They are burrs, I can tell you: they’ll stick where they are thrown. |
+| [[Cressida|CRESSIDA]] | Boldness comes to me now, and brings me heart. Prince [[Troilus]], I have loved you [[Night|night]] and day For many weary months. |
+| [[Troilus|TROILUS]] | Why was my Cressid then so hard to win? |
+| [[Cressida|CRESSIDA]] | Hard to seem won; but I was won, my lord, With the first glance that ever—pardon me: If I confess much, you will play the [[Tyrant|tyrant]]. I [[Love|love]] you now, but till now not so much But I might master it. In [[Faith|faith]], I lie: My thoughts were like unbridled children, grown Too headstrong for their mother. See, we fools! Why have I blabbed? Who shall be true to us, When we are so unsecret to ourselves? But though I loved you [[Well|well]], I wooed you not— And yet, good [[Faith|faith]], I wished myself a man, Or that we women had men’s privilege Of speaking first. Sweet, bid me hold my tongue, For in this rapture I shall surely speak The thing I shall repent. See, see, your [[Silence|silence]], Cunning in dumbness, in my weakness draws My [[Soul|soul]] of counsel from me. Stop my mouth. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--03_exchange_troilus" data-title="Troilus and Cressida — Act III, Scene 2 — exchange (TROILUS) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Troilus|TROILUS]] | And shall, albeit sweet music issues thence. He kisses her |
+| [[Pandarus|PANDARUS]] | Pretty, i’ [[Faith|faith]]. |
+| [[Cressida|CRESSIDA]] | (to [[Troilus]]) My lord, I do beseech you pardon me. ’Twas not my purpose thus to beg a kiss. I am ashamed. O heavens, what have I done? For this [[Time|time]] will I take my leave, my lord. [[Troilus|TROILUS]] Your leave, sweet Cressid? |
+| [[Pandarus|PANDARUS]] | Leave? An you take leave till tomorrow morning— |
+| [[Cressida|CRESSIDA]] | Pray you, content you. |
+| [[Troilus|TROILUS]] | What offends you, lady? |
+| [[Cressida|CRESSIDA]] | Sir, mine own company. |
+| [[Troilus|TROILUS]] | You cannot shun yourself. |
+| [[Cressida|CRESSIDA]] | Let me go and try. I have a kind of [[Self|self]] resides with you— But an unkind [[Self|self]], that itself will leave To be another’s [[Fool|fool]]. Where is my wit? I would be gone. I speak I know not what. |
+| [[Troilus|TROILUS]] | [[Well]] know they what they speak that speak so wisely. |
+| [[Cressida|CRESSIDA]] | Perchance, my lord, I show more craft than [[Love|love]], And fell so roundly to a large confession To angle for your thoughts. But you are wise, Or else you [[Love|love]] not—for to be wise and [[Love|love]] Exceeds man’s might: that dwells with gods above. |
+| [[Troilus|TROILUS]] | O that I thought it could be in a woman— As, if it can, I will presume in you— To feed for aye her lamp and flames of [[Love|love]], To keep her constancy in plight and youth, Outliving [[Beauty|beauty]]’s outward, with a mind That doth renew swifter than [[Blood|blood]] decays; Or that [[Persuasion|persuasion]] could but thus convince me That my integrity and [[Truth|truth]] to you Might be affronted with the match and weight Of such a winnowed purity in [[Love|love]]. How were I then uplifted! But alas, I am as true as [[Truth|truth]]’s simplicity, And simpler than the infancy of [[Truth|truth]]. |
+| [[Cressida|CRESSIDA]] | In that I’ll war with you. |
+| [[Troilus|TROILUS]] | O virtuous fight, When right with right wars who shall be most right. True swains in [[Love|love]] shall in the world to come Approve their [[Truth|truth]] by [[Troilus]]. When their rhymes, Full of protest, of oath and big compare, Wants similes, [[Truth|truth]] tired with iteration— ‘As true as steel, as plantage to the [[Moon|moon]], As sun to day, as turtle to her mate, As iron to adamant, as earth to th’ centre’— Yet, after all comparisons of [[Truth|truth]], As [[Truth|truth]]’s authentic author to be cited, ’As true as [[Troilus]]’ shall [[Crown|crown]] up the verse And sanctify the numbers. |
+| [[Cressida|CRESSIDA]] | [[Prophet]] may you be! If I be false, or swerve a hair from [[Truth|truth]], When [[Time|time]] is old and hath forgot itself, When [[Water|water]] drops have worn the stones of Troy And blind oblivion swallowed cities up, And mighty states characterless are grated To dusty nothing, yet let [[Memory|memory]] From false to false among false maids in [[Love|love]] Upbraid my falsehood. When they’ve said, ‘as false As air, as [[Water|water]], [[Wind|wind]] or sandy earth, As fox to [[Lamb|lamb]], or wolf to heifer’s calf, Pard to the hind, or stepdame to her son’, Yea, let them say, to stick the heart of falsehood, ‘As false as Cressid’. |
+| [[Pandarus|PANDARUS]] | Go to, a bargain made. Seal it, seal it. I’ll be the witness. Here I hold your hand; here, my cousin’s. If ever you prove false one to another, since I have taken such [[Pain|pain]] to bring you together, let all pitiful goers-between be called to the world’s end after my name: call them all panders. Let all constant men be Troiluses, all false women Cressids, and all brokers-between panders. Say ‘Amen’. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--04_exchange_troilus" data-title="Troilus and Cressida — Act III, Scene 2 — exchange (TROILUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Troilus|TROILUS]] | Amen. |
+| [[Cressida|CRESSIDA]] | Amen. |
+| [[Pandarus|PANDARUS]] | Amen. Whereupon I will show you a chamber with a bed—which bed, because it shall not speak of your pretty encounters, press it to [[Death|death]]. Away! Exeunt [[Troilus]] and [[Cressida]] And Cupid grant all tongue-tied maidens here Bed, chamber, pander to provide this gear. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--01_exchange_dialogue" data-title="Troilus and Cressida — Act III, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish. Enter [[Ulysses]], Diomedes, Nestor, [[Agamemnon]], Menelaus, [[Ajax]], and Calchas |
+| CALCHAS | Now, princes, for the service I have done you, Th‘advantage of the [[Time|time]] prompts me aloud To call for recompense. Appear it to your mind That through the sight I bear in things to come I have abandoned Troy, left my profession, Incurred a traitor’s name, exposed myself From certain and possessed conveniences To doubtful fortunes, sequest’ring from me all That [[Time|time]], acquaintance, custom, and condition Made tame and most familiar to my [[Nature|nature]], And here to do you service am become As new into the world, strange, unacquainted. I do beseech you, as in way of taste, To give me now a little benefit Out of those many registered in promise Which you say live to come in my behalf. |
+| [[Agamemnon|AGAMEMNON]] | What wouldst thou of us, Trojan? Make demand. |
+| CALCHAS | You have a Trojan prisoner called Antenor, Yesterday took. Troy holds him very dear. Oft have you—often have you thanks therefor— Desired my Cressid in right great exchange, Whom Troy hath still denied. But this Antenor I know is such a wrest in their affairs That their negotiations all must slack, Wanting his manage, and they will almost Give us a prince of [[Blood|blood]], a son of Priam, In change of him. Let him be sent, great princes, And he shall buy my daughter, and her presence Shall quite strike off all service I have done In most accepted [[Pain|pain]]. |
+| [[Agamemnon|AGAMEMNON]] | Let Diomedes bear him, And bring us Cressid hither; Calchas shall have What he requests of us. Good Diomed, Furnish you fairly for this interchange; Withal bring word if [[Hector]] will tomorrow Be answered in his challenge. [[Ajax]] is ready. |
+| DIOMEDES | This shall I undertake, and ’tis a burden Which I am proud to bear. Exit with Calchas Enter [[Achilles]] and Patroclus in their tent |
+| [[Ulysses|ULYSSES]] | [[Achilles]] stands i‘th’ entrance of his tent. Please it our general pass strangely by him, As if he were forgot; and, princes all, Lay negligent and loose regard upon him. I will come last. ’Tis like he’ll question me Why such unplausive eyes are bent, why turned on him. If so, I have derision medicinable To use between your strangeness and his [[Pride|pride]], Which his own will shall have [[Desire|desire]] to drink. It may do good. [[Pride]] hath no other glass To show itself but [[Pride|pride]]; for supple knees Feed arrogance and are the proud man’s fees. |
+| [[Agamemnon|AGAMEMNON]] | We’ll execute your purpose and put on A form of strangeness as we pass along. So do each lord, and either greet him not Or else disdainfully, which shall shake him more Than if not looked on. I will lead the way. They pass by the tent, in turn |
+| [[Achilles|ACHILLES]] | What, comes the general to speak with me? You know my mind: I’ll fight no more ’gainst Troy. |
+| [[Agamemnon|AGAMEMNON]] | (to Nestor) What says [[Achilles]]? Would he aught with us? |
+| NESTOR | (to [[Achilles]]) Would you, my lord, aught with the general? |
+| [[Achilles|ACHILLES]] | No. |
+| NESTOR | (to [[Agamemnon]]) Nothing, my lord. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--02_exchange_agamemnon" data-title="Troilus and Cressida — Act III, Scene 3 — exchange (AGAMEMNON) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Agamemnon|AGAMEMNON]] | The better. Exeunt [[Agamemnon]] and Nestor |
+| [[Achilles|ACHILLES]] | to Menelaus Good day, good day. |
+| MENELAUS | How do you? How do you? Exit |
+| [[Achilles|ACHILLES]] | (to Patroclus) What, does the cuckold scorn me? |
+| [[Ajax|AJAX]] | How now, Patroclus? |
+| [[Achilles|ACHILLES]] | Good morrow, [[Ajax]]. |
+| [[Ajax|AJAX]] | Ha? |
+| [[Achilles|ACHILLES]] | Good morrow. |
+| [[Ajax|AJAX]] | Ay, and good next day too. Exit |
+| [[Achilles|ACHILLES]] | (to Patroclus) What mean these fellows? Know they not [[Achilles]]? |
+| PATROCLUS | They pass by strangely. They were used to bend, To send their smiles before them to [[Achilles]], To come as humbly as they use to creep To holy altars. |
+| [[Achilles|ACHILLES]] | What, am I poor of late? ‘Tis certain, [[Greatness|greatness]] once fall’n out with fortune Must fall out with men too. What the declined is He shall as soon read in the eyes of others As feel in his own fall; for men, like butterflies, Show not their mealy wings but to the [[Summer|summer]], And not a man, for being simply man, Hath any [[Honour|honour]], but [[Honour|honour]] for those honours That are without him—as place, riches, and favour: Prizes of accident as oft as merit; Which, when they fall, as being slippery standers— The [[Love|love]] that leaned on them, as slippery too— Doth one pluck down another, and together Die in the fall. But ’tis not so with me. Fortune and I are friends. I do enjoy At ample point all that I did possess, Save these men’s looks—who do methinks find out Something not worth in me such rich beholding As they have often given. Here is [[Ulysses]]; I’ll interrupt his reading. How now, [[Ulysses]]? |
+| [[Ulysses|ULYSSES]] | Now, great Thetis’ son. |
+| [[Achilles|ACHILLES]] | What are you reading? |
+| [[Ulysses|ULYSSES]] | A strange fellow here Writes me that man, how dearly ever parted, How much in having, or without or in, Cannot make boast to have that which he hath, Nor feels not what he owes, but by reflection— As when his virtues, shining upon others, Heat them, and they retort that heat again To the first givers. |
+| [[Achilles|ACHILLES]] | This is not strange, [[Ulysses]]. The [[Beauty|beauty]] that is borne here in the face The bearer knows not, but commends itself To others’ eyes. Nor doth the eye itself, That most pure spirit of sense, behold itself, Not going from itself; but eye to eye opposed Salutes each other with each other’s form. For speculation turns not to itself Till it hath travelled and is mirrored there Where it may see itself. This is not strange at all. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--03_monologue_ulysses" data-title="Troilus and Cressida — Act III, Scene 3 — monologue (ULYSSES) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Ulysses|ULYSSES]] | I do not strain at the position— It is familiar—but at the author’s drift; Who in his circumstance expressly proves That no man is the lord of anything, Though in and of him there be much consisting, Till he communicate his parts to others. Nor doth he of himself know them for aught Till he behold them formed in th‘applause Where they’re extended—who, like an arch, reverb’rate The voice again; or, like a gate of steel Fronting the sun, receives and renders back His figure and his heat. I was much rapt in this, And apprehended here immediately The unknown [[Ajax]]. Heavens, what a man is there! A very [[Horse|horse]], That has he knows not what. [[Nature]], what things there are, Most abject in regard and dear in use. What things again, most dear in the esteem And poor in worth. Now shall we see tomorrow An act that very chance doth throw upon him. [[Ajax]] renowned? O heavens, what some men do, While some men leave to do. How some men creep in skittish Fortune’s hall Whiles others play the idiots in her eyes; How one man eats into another’s [[Pride|pride]] While [[Pride|pride]] is fasting in his wantonness. To see these Grecian lords! Why, even already They clap the lubber [[Ajax]] on the shoulder, As if his foot were on brave [[Hector]]’s breast And great Troy shrinking. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--04_exchange_achilles_i" data-title="Troilus and Cressida — Act III, Scene 3 — exchange (ACHILLES I) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Achilles|ACHILLES]] | I do believe it, For they passed by me as misers do by beggars, Neither gave to me good word nor look. What, are my deeds forgot? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--05_monologue_ulysses" data-title="Troilus and Cressida — Act III, Scene 3 — monologue (ULYSSES) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Ulysses|ULYSSES]] | [[Time]] hath, my lord, A wallet at his back, wherein he puts Alms for oblivion, a great-sized [[Monster|monster]] Of ingratitudes. Those scraps are good deeds past, Which are devoured as fast as they are made, Forgot as soon as done. Perseverance, dear my lord, Keeps [[Honour|honour]] bright. To have done is to hang Quite out of fashion, like a rusty mail In monumental mock‘ry. Take the instant way, For [[Honour|honour]] travels in a strait so narrow, Where one but goes abreast. Keep then the path, For emulation hath a thousand sons That one by one pursue: if you give way, Or hedge aside from the direct forthright, Like to an entered tide they all rush by And leave you hindmost; Or, like a gallant [[Horse|horse]] fall’n in first rank, Lie there for pavement to the abject rear, O’errun and trampled on. Then what they do in present, Though less than yours in past, must o‘ertop yours. For [[Time]] is like a fashionable host, That slightly shakes his parting guest by th’ hand And, with his arms outstretched as he would fly, Grasps in the comer. Welcome ever smiles, And Farewell goes out sighing. O let not virtue seek Remuneration for the thing it was; For [[Beauty|beauty]], wit, High birth, vigour of bone, [[Desert|desert]] in service, [[Love]], [[Friendship|friendship]], [[Charity|charity]], are subjects all To envious and calumniating [[Time|time]]. One touch of [[Nature|nature]] makes the whole world kin— That all with one consent praise new-born gauds, Though they are made and moulded of things past, And give to [[Dust|dust]] that is a little gilt More laud than gilt o’er-dusted. The present eye praises the present object. Then marvel not, thou great and complete man, That all the Greeks begin to worship [[Ajax]], Since things in motion sooner catch the eye Than what not stirs. The cry went once on thee, And still it might, and yet it may again, If thou wouldst not entomb thyself alive And case thy reputation in thy tent, Whose glorious deeds but in these fields of late Made emulous missions ’mongst the gods themselves, And drove great Mars to faction. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--06_exchange_achilles" data-title="Troilus and Cressida — Act III, Scene 3 — exchange (ACHILLES) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Achilles|ACHILLES]] | Of this my privacy I have strong reasons. |
+| [[Ulysses|ULYSSES]] | But ’gainst your privacy The reasons are more potent and heroical. ’Tis known, [[Achilles]], that you are in [[Love|love]] With one of Priam’s daughters. |
+| [[Achilles|ACHILLES]] | Ha? Known? |
+| [[Ulysses|ULYSSES]] | Is that a [[Wonder|wonder]]? The [[Providence|providence]] that’s in a watchful state Knows almost every grain of Pluto’s gold, Finds [[Bottom|bottom]] in th’uncomprehensive deeps, Keeps place with aught, and almost like the gods Do infant thoughts unveil in their dumb cradles. There is a mystery, with whom relation Durst never meddle, in the [[Soul|soul]] of state, Which hath an operation more divine Than breath or pen can give expressure to. All the commerce that you have had with Troy As perfectly is ours as yours, my lord; And better would it fit [[Achilles]] much To throw down [[Hector]] than Polyxena. But it must grieve young Pyrrhus now at [[Home|home]], When fame shall in his island sound her trump And all the Greekish girls shall tripping sing, ’Great [[Hector]]’s sister did [[Achilles]] win, But our great [[Ajax]] bravely beat down him’. Farewell, my lord. I as your [[Lover|lover]] speak. The [[Fool|fool]] slides o’er the ice that you should break. Exit |
+| PATROCLUS | To this effect, [[Achilles]], have I moved you. A woman impudent and mannish grown Is not more loathed than an effeminate man In [[Time|time]] of action. I stand condemned for this. They think my little stomach to the war And your great [[Love|love]] to me restrains you thus. Sweet, rouse yourself, and the weak wanton Cupid Shall from your neck unloose his amorous fold And like a dew-drop from the [[Lion|lion]]’s mane Be shook to air. |
+| [[Achilles|ACHILLES]] | Shall [[Ajax]] fight with [[Hector]]? |
+| PATROCLUS | Ay, and perhaps receive much [[Honour|honour]] by him. |
+| [[Achilles|ACHILLES]] | I see my reputation is at stake. My fame is shrewdly gored. |
+| PATROCLUS | O then beware: Those wounds heal ill that men do give themselves. Omission to do what is necessary Seals a commission to a blank of danger, And danger like an ague subtly taints Even then when we sit idly in the sun. |
+| [[Achilles|ACHILLES]] | Go call [[Thersites]] hither, sweet Patroclus. I’ll send the [[Fool|fool]] to [[Ajax]], and [[Desire|desire]] him T’invite the Trojan lords after the combat To see us here unarmed. I have a woman’s [[Longing|longing]], An appetite that I am sick withal, To see great [[Hector]] in his weeds of peace, Enter [[Thersites]] To talk with him and to behold his visage Even to my full of view.—A labour saved. |
+| [[Thersites|THERSITES]] | A [[Wonder|wonder]]! |
+| [[Achilles|ACHILLES]] | What? |
+| [[Thersites|THERSITES]] | [[Ajax]] goes up and down the field, as asking for himself. |
+| [[Achilles|ACHILLES]] | How so? |
+| [[Thersites|THERSITES]] | He must fight singly tomorrow with [[Hector]], and is so prophetically proud of an heroical cudgelling that he raves in saying nothing. |
+| [[Achilles|ACHILLES]] | How can that be? |
+| [[Thersites|THERSITES]] | Why, a stalks up and down like a peacock—a stride and a stand; ruminates like an hostess that hath no arithmetic but her brain to set down her reckoning; bites his lip with a politic regard, as who should say ‘There were wit in this head, an’t would out’—and so there is; but it lies as coldly in him as [[Fire|fire]] in a flint, which will not show without knocking. The man’s undone for ever, for if [[Hector]] break not his neck i‘th’ combat he’ll break’t himself in vainglory. He knows not me. I said, ‘Good morrow, [[Ajax]]’, and he replies, ‘Thanks, [[Agamemnon]]’. What think you of this man that takes me for the General? He’s grown a very land-fish, languageless, a [[Monster|monster]]. A plague of opinion! A man may wear it on both sides like a leather jerkin. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3--07_exchange_achilles" data-title="Troilus and Cressida — Act III, Scene 3 — exchange (ACHILLES) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Achilles|ACHILLES]] | Thou must be my ambassador to him, [[Thersites]]. |
+| [[Thersites|THERSITES]] | Who, I? Why, he’ll answer nobody. He professes not answering. Speaking is for beggars. He wears his tongue in’s arms. I will put on his presence. Let Patroclus make demands to me. You shall see the pageant of [[Ajax]]. |
+| [[Achilles|ACHILLES]] | To him, Patroclus. Tell him I humbly [[Desire|desire]] the valiant [[Ajax]] to invite the most valorous [[Hector]] to come unarmed to my tent, and to procure safe-conduct for his person of the magnanimous and most illustrious six-or-seven-times-honoured captain-general of the Grecian army, [[Agamemnon]]; et cetera. Do this. |
+| PATROCLUS | (to [[Thersites]]) Jove bless great [[Ajax]]! |
+| [[Thersites|THERSITES]] | H’m. |
+| PATROCLUS | I come from the worthy [[Achilles]]— |
+| [[Thersites|THERSITES]] | Ha? |
+| PATROCLUS | Who most humbly desires you to invite [[Hector]] to his tent— |
+| [[Thersites|THERSITES]] | H’m! |
+| PATROCLUS | And to procure safe-conduct from [[Agamemnon]]. |
+| [[Thersites|THERSITES]] | [[Agamemnon]]? |
+| PATROCLUS | Ay, my lord. |
+| [[Thersites|THERSITES]] | Ha! |
+| PATROCLUS | What say you to’t? |
+| [[Thersites|THERSITES]] | God b’wi’ you, with all my heart. |
+| PATROCLUS | Your answer, sir? |
+| [[Thersites|THERSITES]] | If tomorrow be a fair day, by eleven o’[[Clock|clock]] it will go one way or other. Howsoever, he shall pay for me ere he has me. |
+| PATROCLUS | Your answer, sir? |
+| [[Thersites|THERSITES]] | Fare ye [[Well|well]], with all my heart. |
+| [[Achilles|ACHILLES]] | Why, but he is not in this tune, is he? |
+| [[Thersites|THERSITES]] | No, but he’s out o’ tune thus. What music will be in him when [[Hector]] has knocked out his brains, I know not. But I am feared none, unless the fiddler [[Apollo]] get his sinews to make catlings on. |
+| [[Achilles|ACHILLES]] | Come, thou shalt bear a letter to him straight. |
+| [[Thersites|THERSITES]] | Let me carry another to his [[Horse|horse]], for that’s the more capable creature. |
+| [[Achilles|ACHILLES]] | My mind is troubled like a fountain stirred, And I myself see not the [[Bottom|bottom]] of it. Exit with Patroclus |
+| [[Thersites|THERSITES]] | Would the fountain of your mind were clear again, that I might [[Water|water]] an ass at it. I had rather be a tick in a sheep than such a valiant ignorance. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--01_exchange_dialogue" data-title="Troilus and Cressida — Act IV, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Pandarus]] and [[Cressida]] |
+| [[Pandarus|PANDARUS]] | Be moderate, be moderate. |
+| [[Cressida|CRESSIDA]] | Why tell you me of moderation? The grief is fine, full, perfect that I taste, And violenteth in a sense as strong As that which causeth it. How can I moderate it? If I could temporize with my affection Or brew it to a weak and colder palate, The like allayment could I give my grief. My [[Love|love]] admits no qualifying dross; No more my grief, in such a precious loss. Enter [[Troilus]] |
+| [[Pandarus|PANDARUS]] | Here, here, here he comes. Ah, sweet ducks! |
+| [[Cressida|CRESSIDA]] | (embracing him) O [[Troilus]], [[Troilus]]! |
+| [[Pandarus|PANDARUS]] | What a pair of spectacles is here! Let me embrace you too. ‘O heart‘, as the goodly saying is, ‘O heart, heavy heart, Why sigh’st thou without breaking?’ where he answers again ‘Because thou canst not ease thy smart By [[Friendship|friendship]] nor by speaking.’ There was never a truer rhyme. Let us cast away nothing, for we may live to have need of such a verse. We see it, we see it. How now, lambs? |
+| [[Troilus|TROILUS]] | Cressid, I [[Love|love]] thee in so strained a purity That the blest gods, as angry with my fancy— More bright in zeal than the devotion which Cold lips blow to their deities—take thee from me. |
+| [[Cressida|CRESSIDA]] | Have the gods envy? |
+| [[Pandarus|PANDARUS]] | Ay, ay, ay, ay, ’tis too plain a case. |
+| [[Cressida|CRESSIDA]] | And is it true that I must go from Troy? |
+| [[Troilus|TROILUS]] | A hateful [[Truth|truth]]. |
+| [[Cressida|CRESSIDA]] | What, and from [[Troilus]] too? |
+| [[Troilus|TROILUS]] | From Troy and [[Troilus]]. |
+| [[Cressida|CRESSIDA]] | Is’t possible? |
+| [[Troilus|TROILUS]] | And suddenty—where injury of chance Puts back leave-taking, jostles roughly by All [[Time|time]] of pause, rudely beguiles our lips Of all rejoindure, forcibly prevents Our locked embrasures, strangles our dear vows Even in the birth of our own labouring breath. We two, that with so many thousand sighs Did buy each other, must poorly sell ourselves With the rude brevity and discharge of one. Injurious [[Time]] now with a robber’s haste Crams his rich thiev’ry up, he knows not how. As many farewells as be [[Stars|stars]] in heaven, With distinct breath and consigned kisses to them, He fumbles up into a loose adieu And scants us with a single famished kiss, Distasted with the salt of broken [[Tears|tears]]. Enter Aeneas |
+| AENEAS | My lord, is the lady ready? |
+| [[Troilus|TROILUS]] | (to [[Cressida]]) Hark, you are called. Some say the genius so Cries ‘Come!’ to him that instantly must die. To [[Pandarus]] Bid them have patience. She shall come anon. |
+| [[Pandarus|PANDARUS]] | Where are my [[Tears|tears]]? Rain, to lay this [[Wind|wind]], or my heart will be blown up by the root. Exit with Aeneas |
+| [[Cressida|CRESSIDA]] | I must then to the Grecians. |
+| [[Troilus|TROILUS]] | No remedy. |
+| [[Cressida|CRESSIDA]] | A woeful Cressid ’mongst the merry Greeks! When shall we see again? |
+| [[Troilus|TROILUS]] | Hear me, my [[Love|love]]: be thou but true of heart— |
+| [[Cressida|CRESSIDA]] | I true? How now! What wicked deem is this? |
+| [[Troilus|TROILUS]] | Nay, we must use expostulation kindly, For it is parting from us. I speak not ‘Be thou true’ as fearing thee— For I will throw my glove to [[Death]] himself That there’s no maculation in thy heart— But ‘Be thou true’ say I, to fashion in My sequent protestation: ‘Be thou true, And I will see thee’. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--02_exchange_cressida" data-title="Troilus and Cressida — Act IV, Scene 5 — exchange (CRESSIDA) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Cressida|CRESSIDA]] | O you shall be exposed, my lord, to dangers As infinite as imminent. But I’ll be true. |
+| [[Troilus|TROILUS]] | And I’ll grow friend with danger. Wear this sleeve. |
+| [[Cressida|CRESSIDA]] | And you this glove. When shall I see you? |
+| [[Troilus|TROILUS]] | I will corrupt the Grecian sentinels To give thee nightly visitation. But yet, be true. |
+| [[Cressida|CRESSIDA]] | O heavens! ’Be true’ again! |
+| [[Troilus|TROILUS]] | Hear why I speak it, [[Love|love]]. The Grecian youths are full of quality, Their loving [[Well|well]] composed, with gifts of [[Nature|nature]] flowing, And swelling o’er with arts and exercise. How novelty may move, and parts with person, Alas, a kind of godly [[Jealousy|jealousy]]— Which I beseech you call a virtuous sin— Makes me afeard. |
+| [[Cressida|CRESSIDA]] | O heavens, you [[Love|love]] me not! |
+| [[Troilus|TROILUS]] | Die I a [[Villain|villain]] then! In this I do not call your [[Faith|faith]] in question So mainly as my merit. I cannot sing, Nor heel the high lavolt, nor sweeten talk, Nor play at subtle games—fair virtues all, To which the Grecians are most prompt and pregnant. But I can tell that in each grace of these There lurks a still and dumb-discoursive devil That tempts most cunningly. But be not tempted. |
+| [[Cressida|CRESSIDA]] | Do you think I will? |
+| [[Troilus|TROILUS]] | No, but something may be done that we will not, And sometimes we are devils to ourselves, When we will tempt the frailty of our powers, Presuming on their changeful potency. |
+| AENEAS | (within) Nay, good my lord! |
+| [[Troilus|TROILUS]] | Come, kiss, and let us part. |
+| [[Paris|PARIS]] | art the door Brother [[Troilus]]? |
+| [[Troilus|TROILUS]] | Good brother, come you hither, And bring Aeneas and the Grecian with you. Exit [[Paris]] |
+| [[Cressida|CRESSIDA]] | My lord, will you be true? |
+| [[Troilus|TROILUS]] | Who, I? Alas, it is my vice, my fault. Whiles others fish with craft for great opinion, I with great [[Truth|truth]] catch mere simplicity; Whilst some with cunning gild their copper crowns, With [[Truth|truth]] and plainness I do wear mine bare. Enter [[Paris]], Aeneas, Antenor, Deiphobus, and Diomedes [[Fear]] not my [[Truth|truth]]. The moral of my wit Is ‘plain and true!’; there’s all the reach of it.— Welcome, Sir Diomed. Here is the lady Which for Antenor we deliver you. At the port, lord, I’ll give her to thy hand, And by the way possess thee what she is. Entreat her fair, and by my [[Soul|soul]], fair Greek, If e’er thou stand at [[Mercy|mercy]] of my [[Sword|sword]], Name Cressid, and thy life shall be as safe As Priam is in Ilium. |
+| DIOMEDES | Fair Lady Cressid, So please you, save the thanks this prince expects. The lustre in your eye, heaven in your cheek, Pleads your fair usage; and to Diomed You shall be mistress, and command him wholly. |
+| [[Troilus|TROILUS]] | Grecian, thou dost not use me courteously, To shame the zeal of my petition towards thee In praising her. I tell thee, lord of Greece, She is as far high-soaring o’er thy praises As thou unworthy to be called her servant. I charge thee use her [[Well|well]], even for my charge; For, by the dreadful Pluto, if thou dost not, Though the great bulk [[Achilles]] be thy guard I’ll cut thy throat. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_5--03_exchange_diomedes" data-title="Troilus and Cressida — Act IV, Scene 5 — exchange (DIOMEDES) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| DIOMEDES | O be not moved, Prince [[Troilus]]. Let me be privileged by my place and message To be a speaker free. When I am hence I’ll answer to my lust. And know you, lord, I’ll nothing do on charge. To her own worth She shall be prized; but that you say ‘Be’t so’, I’ll speak it in my spirit and [[Honour|honour]] ‘No!’ |
+| [[Troilus|TROILUS]] | Come, to the port.—I’ll tell thee, Diomed, This brave shall oft make thee to hide thy head.— Lady, give me your hand, and as we walk To our own selves bend we our needful talk. Exeunt [[Troilus]], [[Cressida]], and Diomedes A trumpet sounds |
+| [[Paris|PARIS]] | Hark, [[Hector]]’s trumpet. |
+| AENEAS | How have we spent this morning? The Prince must think me tardy and remiss, That swore to ride before him in the field. |
+| [[Paris|PARIS]] | ‘Tis [[Troilus]]’ fault. Come, come to field with him. |
+| DEIPHOBUS | Let us make ready straight. |
+| AENEAS | Yea, with a bridegroom’s fresh alacrity Let us address to tend on [[Hector]]’s heels. The glory of our Troy doth this day lie On his fair worth and single chivalry. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_6--01_exchange_dialogue" data-title="Troilus and Cressida — Act IV, Scene 6 — exchange (dialogue) [1]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Ajax]] armed, [[Achilles]], Patroclus, [[Agamemnon]], Menelaus, [[Ulysses]], Nestor, a trumpeter, and others |
+| [[Agamemnon|AGAMEMNON]] | Here art thou in appointment fresh and fair, Anticipating [[Time|time]] with starting [[Courage|courage]]. Give with thy trumpet a loud note to Troy, Thou dreadful [[Ajax]], that the appallèd air May pierce the head of the great combatant And hale him hither. |
+| [[Ajax|AJAX]] | Thou trumpet, there’s my purse. He gives him money Now crack thy lungs and split thy brazen pipe. Blow, [[Villain|villain]], till thy spherèd bias cheek Outswell the colic of puffed Aquilon. Come, stretch thy chest and let thy eyes spout [[Blood|blood]]; Thou blow’st for [[Hector]]. The trumpet sounds |
+| [[Ulysses|ULYSSES]] | No trumpet answers. |
+| [[Achilles|ACHILLES]] | ’Tis but early days. |
+| [[Agamemnon|AGAMEMNON]] | Is not yond Diomed with Calchas’ daughter? |
+| [[Ulysses|ULYSSES]] | ’Tis he. I ken the manner of his gait. He rises on the toe: that spirit of his In [[Aspiration|aspiration]] lifts him from the earth. Enter Diomedes and [[Cressida]] |
+| [[Agamemnon|AGAMEMNON]] | (to Diomedes) Is this the Lady Cressid? |
+| DIOMEDES | Even she. |
+| [[Agamemnon|AGAMEMNON]] | Most dearly welcome to the Greeks, sweet lady. He kisses her |
+| NESTOR | (to [[Cressida]]) Our General doth salute you with a kiss. |
+| [[Ulysses|ULYSSES]] | Yet is the kindness but particular; ’Twere better she were kissed in general. |
+| NESTOR | And very courtly counsel. I’ll begin. He kisses her So much for Nestor. |
+| [[Achilles|ACHILLES]] | I’ll take that [[Winter|winter]] from your lips, fair lady. He kisses her [[Achilles]] bids you welcome. |
+| MENELAUS | (to [[Cressida]]) I had good argument for kissing once. |
+| PATROCLUS | But that’s no argument for kissing now; For thus stepping between them popped [[Paris]] in his hardiment, And parted thus you and your argument. He kisses her |
+| [[Ulysses|ULYSSES]] | aside O deadly gall, and theme of all our scorns! For which we lose our heads to gild his horns. |
+| PATROCLUS | (to [[Cressida]]) The first was Menelaus’ kiss; this, mine. Patroclus kisses you. He kisses her again |
+| MENELAUS | O this is trim. |
+| PATROCLUS | (to [[Cressida]]) [[Paris]] and I kiss evermore for him. |
+| MENELAUS | I’ll have my kiss, sir.—Lady, by your leave. |
+| [[Cressida|CRESSIDA]] | In kissing do you render or receive? MENELAUS Both take and give. |
+| [[Cressida|CRESSIDA]] | I’ll make my match to live, The kiss you take is better than you give. Therefore no kiss. |
+| MENELAUS | I’ll give you boot: I’ll give you three for one. |
+| [[Cressida|CRESSIDA]] | You are an odd man: give even or give none. |
+| MENELAUS | An odd man, lady? Every man is odd. |
+| [[Cressida|CRESSIDA]] | No, [[Paris]] is not—for you know ’tis true That you are odd, and he is even with you. |
+| MENELAUS | You fillip me o’th’ head. |
+| [[Cressida|CRESSIDA]] | No, I’ll be sworn. |
+| [[Ulysses|ULYSSES]] | It were no match, your nail against his horn. May I, sweet lady, beg a kiss of you? |
+| [[Cressida|CRESSIDA]] | You may. |
+| [[Ulysses|ULYSSES]] | I do [[Desire|desire]] it. |
+| [[Cressida|CRESSIDA]] | Why, beg too. |
+| [[Ulysses|ULYSSES]] | Why then, for [[Venus]]’ sake, give me a kiss, When [[Helen]] is a maid again, and his— |
+| [[Cressida|CRESSIDA]] | I am your debtor; claim it when ’tis due. |
+| [[Ulysses|ULYSSES]] | Never’s my day, and then a kiss of you. |
+| DIOMEDES | Lady, a word. I’ll bring you to your father. They talk apart |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_6--02_exchange_nestor" data-title="Troilus and Cressida — Act IV, Scene 6 — exchange (NESTOR) [2]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| NESTOR | A woman of quick sense. |
+| [[Ulysses|ULYSSES]] | Fie, fie upon her! There’s language in her eye, her cheek, her lip; Nay, her foot speaks. Her wanton spirits look out At every joint and motive of her [[Body|body]]. O these encounterers so glib of tongue, That give accosting welcome ere it comes, And wide unclasp the tables of their thoughts To every ticklish reader, set them down For sluttish spoils of opportunity And daughters of the game. Exeunt Diomedes and [[Cressida]] Flourish |
+| ALL | The Trojans’ trumpet. Enter all off Troy: [[Hector]] armed, [[Paris]], Aeneas, Helenus, and attendants, among them [[Troilus]] |
+| [[Agamemnon|AGAMEMNON]] | Yonder comes the troop. |
+| AENEAS | coming forward Hail, all you state of Greece! What shall be done To him that victory commands? Or do you purpose A victor shall be known? Will you the knights Shall to the edge of all extremity Pursue each other, or shall they be divided By any voice or order of the field? [[Hector]] bade ask. |
+| [[Agamemnon|AGAMEMNON]] | Which way would [[Hector]] have it? |
+| AENEAS | He cares not; he’ll obey conditions. [[Achilles|ACHILLES]] ’Tis done like [[Hector]]—but securely done, A little proudly, and great deal disprising The knight opposed. |
+| AENEAS | If not [[Achilles]], sir, What is your name? |
+| [[Achilles|ACHILLES]] | If not [[Achilles]], nothing. |
+| AENEAS | Therefore [[Achilles]]. But whate’er, know this: In the extremity of great and little, Valour and [[Pride|pride]] excel themselves in [[Hector]], The one almost as infinite as all, The other blank as nothing. Weigh him [[Well|well]], And that which looks like [[Pride|pride]] is courtesy. This [[Ajax]] is half made of [[Hector]]’s [[Blood|blood]], In [[Love|love]] whereof half [[Hector]] stays at [[Home|home]]. Half heart, half hand, half [[Hector]] comes to seek This blended knight, half Trojan and half Greek. |
+| [[Achilles|ACHILLES]] | A maiden battle, then? O I perceive you. Enter Diomedes |
+| [[Agamemnon|AGAMEMNON]] | Here is Sir Diomed.—Go, gentle knight, Stand by our [[Ajax]]. As you and Lord Aeneas Consent upon the order of their fight, So be it: either to the uttermost Or else a breath. Exeunt [[Ajax]], Diomedes, [[Hector]], and Aeneas The combatants being kin Half stints their strife before their strokes begin. [[Ulysses|ULYSSES]] They are opposed already. |
+| [[Agamemnon|AGAMEMNON]] | What Trojan is that same that looks so heavy? |
+| [[Ulysses|ULYSSES]] | The youngest son of Priam, a true knight: They call him [[Troilus]]. Not yet mature, yet matchless-firm of word, Speaking in deeds and deedless in his tongue; Not soon provoked, nor being provoked soon calmed; His heart and hand both open and both free. For what he has he gives; what thinks, he shows; Yet gives he not till judgement guide his bounty, Nor dignifies an impare thought with breath. Manly as [[Hector]] but more dangerous, For [[Hector]] in his blaze of wrath subscribes To tender objects, but he in heat of action Is more vindicative than jealous [[Love|love]]. They call him [[Troilus]], and on him erect A second [[Hope|hope]] as fairly built as [[Hector]]. Thus says Aeneas, one that knows the youth Even to his inches, and with private [[Soul|soul]] Did in great Ilium thus translate him to me. Alarum |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_6--03_exchange_agamemnon" data-title="Troilus and Cressida — Act IV, Scene 6 — exchange (AGAMEMNON) [3]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Agamemnon|AGAMEMNON]] | They are in action. |
+| NESTOR | Now, [[Ajax]], hold thine own! |
+| [[Troilus|TROILUS]] | [[Hector]], thou steep’st! Awake thee! |
+| [[Agamemnon|AGAMEMNON]] | His blows are [[Well|well]] disposed. There, [[Ajax]]! Exeunt |
+| *(didascalia)* | 4.7 Enter [[Hector]] and [[Ajax]] fighting, and Aeneas and Diomedes interposing. Trumpets cease |
+| DIOMEDES | You must no more. |
+| AENEAS | Princes, enough, so please you. |
+| [[Ajax|AJAX]] | I am not warm yet. Let us fight again. |
+| DIOMEDES | As [[Hector]] pleases. |
+| [[Hector|HECTOR]] | Why then will I no more.— Thou art, great lord, my father’s sister’s son, A cousin-german to great Priam’s seed. The obligation of our [[Blood|blood]] forbids A gory emulation ‘twixt us twain. Were thy commixtion Greek and Trojan so That thou couldst say ’This hand is Grecian all, And this is Trojan; the sinews of this leg All Greek, and this all Troy; my mother’s [[Blood|blood]] Runs on the dexter cheek, and this sinister Bounds in my father‘s,’ by Jove multipotent Thou shouldst not bear from me a Greekish member Wherein my [[Sword|sword]] had not impressure made Of our rank feud. But the just gods gainsay That any drop thou borrowed’st from thy mother, My sacred aunt, should by my mortal [[Sword|sword]] Be drained. Let me embrace thee, [[Ajax]]. By him that thunders, thou hast lusty arms. [[Hector]] would have them fall upon him thus. Cousin, all [[Honour|honour]] to thee. |
+| [[Ajax|AJAX]] | I thank thee, [[Hector]]. Thou art too gentle and too free a man. I came to kill thee, cousin, and bear hence A great addition earned in thy [[Death|death]]. |
+| [[Hector|HECTOR]] | Not Neoptolemus so mirable, On whose bright crest Fame with her loud‘st oyez Cries ’This is he!’, could promise to himself A thought of added [[Honour|honour]] torn from [[Hector]]. |
+| AENEAS | There is expectance here from both the sides What further you will do. |
+| [[Hector|HECTOR]] | We’ll answer it: The issue is embracement.—[[Ajax]], farewell. |
+| [[Ajax|AJAX]] | If I might in entreaties find [[success]], As seld I have the chance, I would [[Desire|desire]] My famous cousin to our Grecian tents. |
+| DIOMEDES | ’Tis [[Agamemnon]]’s wish—and great [[Achilles]] Doth long to see unarmed the valiant [[Hector]]. |
+| [[Hector|HECTOR]] | Aeneas, call my brother [[Troilus]] to me, And signify this loving interview To the expecters of our Trojan part. [[Desire]] them [[Home|home]]. Exit Aeneas Give me thy hand, my cousin. I will go eat with thee, and see your knights. Enter [[Agamemnon]] and the rest: Aeneas, [[Ulysses]], |
+| [[Hector|HECTOR]] | Menelaus, Nestor, [[Achilles]], Patroclus, [[Troilus]], and |
+| [[Hector|HECTOR]] | others |
+| [[Ajax|AJAX]] | Great [[Agamemnon]] comes to meet us here. |
+| [[Hector|HECTOR]] | (to Aeneas) The worthiest of them, tell me name by name. But for [[Achilles]], mine own searching eyes Shall find him by his large and portly size. |
+| [[Agamemnon|AGAMEMNON]] | (embracing him) Worthy of arms, as welcome as to one That would be rid of such an enemy. But that’s no welcome. Understand more clear: What’s past and what’s to come is strewed with husks And formless ruin of oblivion, But in this extant moment [[Faith|faith]] and troth, Strained purely from all hollow bias-drawing, Bids thee with most divine integrity From heart of very heart, ‘Great [[Hector]], welcome!’ |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_6--04_exchange_hector" data-title="Troilus and Cressida — Act IV, Scene 6 — exchange (HECTOR) [4]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Hector|HECTOR]] | I thank thee, most imperious [[Agamemnon]]. |
+| [[Agamemnon|AGAMEMNON]] | to [[Troilus]] My [[Well|well]]-famed lord of Troy, no less to you. |
+| MENELAUS | Let me confirm my princely brother’s greeting. You brace of warlike brothers, welcome hither. He embraces [[Hector]] and [[Troilus]] |
+| [[Hector|HECTOR]] | (to Aeneas) Who must we answer? |
+| AENEAS | The noble Menelaus. |
+| [[Hector|HECTOR]] | O, you, my lord! By Mars his gauntlet, thanks. Mock not that I affect th’untraded oath. Your quondam wife swears still by [[Venus]]’ glove. She’s [[Well|well]], but bade me not commend her to you. |
+| MENELAUS | Name her not now, sir. She’s a deadly theme. |
+| [[Hector|HECTOR]] | O, pardon. I offend. |
+| NESTOR | I have, thou gallant Trojan, seen thee oft, Labouring for destiny, make cruel way Through ranks of Greekish youth, and I have seen thee As hot as Perseus spur thy Phrygian steed, And seen thee scorning forfeits and subduements, When thou hast hung th‘advancèd [[Sword|sword]] i’th’ air, Not letting it decline on the declined, That I have said unto my standers-by, ‘Lo, Jupiter is yonder, dealing life’. And I have seen thee pause and take thy breath, When that a ring of Greeks have hemmed thee in, Like an Olympian, wrestling. This have I seen; But this thy countenance, still locked in steel, I never saw till now. I knew thy grandsire And once fought with him. He was a soldier good, But—by great Mars, the captain of us all— Never like thee. Let an old man embrace thee; And, worthy warrior, welcome to our tents. He embraces [[Hector]] |
+| AENEAS | (to [[Hector]]) ’Tis the old Nestor. |
+| [[Hector|HECTOR]] | Let me embrace thee, good old chronicle, That hast so long walked hand in hand with [[Time|time]]. Most reverend Nestor, I am glad to clasp thee. |
+| NESTOR | I would my arms could match thee in contention As they contend with thee in courtesy. |
+| [[Hector|HECTOR]] | I would they could. |
+| NESTOR | Ha! By this white beard I’d fight with thee tomorrow. [[Well]], welcome, welcome! I have seen the [[Time|time]]. |
+| [[Ulysses|ULYSSES]] | I [[Wonder|wonder]] now how yonder [[City|city]] stands When we have here her base and pillar by us? |
+| [[Hector|HECTOR]] | I know your favour, Lord [[Ulysses]], [[Well|well]]. Ah, sir, there’s many a Greek and Trojan dead Since first I saw yourself and Diomed In Ilium on your Greekish embassy. |
+| [[Ulysses|ULYSSES]] | Sir, I foretold you then what would ensue. My prophecy is but half his [[Journey|journey]] yet; For yonder walls that pertly front your town, Yon towers whose wanton tops do buss the clouds, Must kiss their own feet. |
+| [[Hector|HECTOR]] | I must not believe you. There they stand yet, and modestly I think The fall of every Phrygian stone will cost A drop of Grecian [[Blood|blood]]. The end crowns all, And that old common arbitrator [[Time]] Will one day end it. |
+| [[Ulysses|ULYSSES]] | So to him we leave it. Most gentle and most valiant [[Hector]], welcome. He embraces him |
+| [[Ulysses|ULYSSES]] | After the General, I beseech you next To feast with me and see me at my tent. |
+| [[Achilles|ACHILLES]] | I shall forestall thee, Lord [[Ulysses]]. To [[Hector]] Thou! Now, [[Hector]], I have fed mine eyes on thee. I have with exact view perused thee, [[Hector]], And quoted joint by joint. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_6--05_exchange_hector" data-title="Troilus and Cressida — Act IV, Scene 6 — exchange (HECTOR) [5]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Hector|HECTOR]] | Is this [[Achilles]]? |
+| [[Achilles|ACHILLES]] | I am [[Achilles]]. |
+| [[Hector|HECTOR]] | Stand fair, I pray thee, let me look on thee. |
+| [[Achilles|ACHILLES]] | Behold thy fill. |
+| [[Hector|HECTOR]] | Nay, I have done already. |
+| [[Achilles|ACHILLES]] | Thou art too brief. I will the second [[Time|time]], As I would buy thee, view thee limb by limb. |
+| [[Hector|HECTOR]] | O, like a book of sport thou‘lt read me o’er. But there’s more in me than thou understand’st. Why dost thou so oppress me with thine eye? |
+| [[Achilles|ACHILLES]] | Tell me, you heavens, in which part of his [[Body|body]] Shall I destroy him—whether there, or there, or there— That I may give the local wound a name, And make distinct the very breach whereout [[Hector]]’s great spirit flew? Answer me, heavens. |
+| [[Hector|HECTOR]] | It would discredit the blest gods, proud man, To answer such a question. Stand again. Think’st thou to catch my life so pleasantly As to prenominate in nice conjecture Where thou wilt hit me dead? |
+| [[Achilles|ACHILLES]] | I tell thee, yea. |
+| [[Hector|HECTOR]] | Wert thou the oracle to tell me so, I’d not believe thee. Henceforth guard thee [[Well|well]]. For I’ll not kill thee there, nor there, nor there, But, by the forge that stithied Mars his helm, I’ll kill thee everywhere, yea, o‘er and o’er.— You wisest Grecians, pardon me this brag: His insolence draws folly from my lips. But I’ll endeavour deeds to match these words, Or may I never— |
+| [[Ajax|AJAX]] | Do not chafe thee, cousin.— And you, [[Achilles]], let these threats [[Alone|alone]], Till accident or purpose bring you to’t. You may have every day enough of [[Hector]], If you have stomach. The general state, I [[Fear|fear]], Can scarce entreat you to be odd with him. |
+| [[Hector|HECTOR]] | (to [[Achilles]]) I pray you, let us see you in the field. We have had pelting wars since you refused The Grecians’ cause. |
+| [[Achilles|ACHILLES]] | Dost thou entreat me, [[Hector]]? Tomorrow do I meet thee, fell as [[Death|death]]; Tonight, all friends. |
+| [[Hector|HECTOR]] | Thy hand upon that match. |
+| [[Agamemnon|AGAMEMNON]] | First, all you peers of Greece, go to my tent. There in the full convive you. Afterwards, As [[Hector]]’s leisure and your bounties shall Concur together, severally entreat him. Beat loud the taborins, let the trumpets blow, That this great soldier may his welcome know. Flourish. Exeunt all but [[Troilus]] and [[Ulysses]] |
+| [[Troilus|TROILUS]] | My Lord [[Ulysses]], tell me, I beseech you, In what place of the field doth Calchas keep? |
+| [[Ulysses|ULYSSES]] | At Menelaus’ tent, most princely [[Troilus]]. There Diomed doth feast with him tonight— Who neither looks on heaven nor on earth, But gives all gaze and bent of amorous view On the fair Cressid. |
+| [[Troilus|TROILUS]] | Shall I, sweet lord, be bound to you so much, After we part from [[Agamemnon]]’s tent, To bring me thither? |
+| [[Ulysses|ULYSSES]] | You shall command me, sir. As gentle tell me, of what [[Honour|honour]] was This [[Cressida]] in Troy? Had she no [[Lover|lover]] there That wails her absence? |
+| [[Troilus|TROILUS]] | O sir, to such as boasting show their scars A mock is due. Will you walk on, my lord? She was beloved, she loved; she is, and doth. But still sweet [[Love|love]] is food for fortune’s tooth. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--01_exchange_dialogue" data-title="Troilus and Cressida — Act V, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Diomedes |
+| DIOMEDES | What, are you up here? Ho! Speak! |
+| CALCHAS | at the door Who calls? |
+| DIOMEDES | Diomed. Calchas, I think. Where’s your daughter? |
+| CALCHAS | at the door She comes to you. Enter [[Troilus]] and [[Ulysses]], unseen |
+| [[Ulysses|ULYSSES]] | (aside) Stand where the torch may not discover us. |
+| [[Troilus|TROILUS]] | (aside) Cressid comes forth to him. Enter [[Cressida]] |
+| DIOMEDES | How now, my charge? |
+| [[Cressida|CRESSIDA]] | Now, my sweet guardian. Hark, a word with you. She whispers to him. Enter [[Thersites]], unseen |
+| [[Troilus|TROILUS]] | (aside) Yea, so familiar? |
+| [[Ulysses|ULYSSES]] | (aside) She will sing any man at first sight. |
+| [[Thersites|THERSITES]] | (aside) And any man may sing her, if he can take her clef. She’s noted. |
+| DIOMEDES | Will you remember? |
+| [[Cressida|CRESSIDA]] | Remember? Yes. |
+| DIOMEDES | Nay, but do then, And let your mind be coupled with your words. |
+| [[Troilus|TROILUS]] | (aside) What should she remember? |
+| [[Ulysses|ULYSSES]] | (aside) List! |
+| [[Cressida|CRESSIDA]] | Sweet honey Greek, tempt me no more to folly. |
+| [[Thersites|THERSITES]] | (aside) Roguery. |
+| DIOMEDES | Nay, then! |
+| [[Cressida|CRESSIDA]] | I’ll tell you what— |
+| DIOMEDES | Fo, fo! Come, tell a pin. You are forsworn. |
+| [[Cressida|CRESSIDA]] | In [[Faith|faith]], I cannot. What would you have me do? |
+| [[Thersites|THERSITES]] | (aside) A juggling trick: to be secretly open. |
+| DIOMEDES | What did you swear you would bestow on me? |
+| [[Cressida|CRESSIDA]] | I prithee, do not hold me to mine oath. Bid me do anything but that, sweet Greek. |
+| DIOMEDES | Good [[Night|night]]. |
+| [[Troilus|TROILUS]] | (aside) Hold, patience! |
+| [[Ulysses|ULYSSES]] | (aside) How now, Trojan? |
+| [[Cressida|CRESSIDA]] | Diomed. |
+| DIOMEDES | No, no, good [[Night|night]]. I’ll be your [[Fool|fool]] no more. |
+| [[Troilus|TROILUS]] | (aside) Thy better must. |
+| [[Cressida|CRESSIDA]] | Hark, one word in your ear. She whispers to him |
+| [[Troilus|TROILUS]] | (aside) O plague and [[Madness|madness]]! |
+| [[Ulysses|ULYSSES]] | (aside) You are moved, Prince. Let us depart, I pray you, Lest your displeasure should enlarge itself To wrathful terms. This place is dangerous, The [[Time|time]] right deadly. I beseech you go. |
+| [[Troilus|TROILUS]] | (aside) Behold, I pray you. |
+| [[Ulysses|ULYSSES]] | (aside) Nay, good my lord, go off. You flow to great distraction. Come, my lord. |
+| [[Troilus|TROILUS]] | (aside) I prithee, stay. |
+| [[Ulysses|ULYSSES]] | (aside) You have not patience. Come. |
+| [[Troilus|TROILUS]] | (aside) I pray you, stay. By hell and all hell’s torments, I will not speak a word. |
+| DIOMEDES | And so good [[Night|night]]. |
+| [[Cressida|CRESSIDA]] | Nay, but you part in anger. |
+| [[Troilus|TROILUS]] | (aside) Doth that grieve thee? O withered [[Truth|truth]]! |
+| [[Ulysses|ULYSSES]] | (aside) Why, how now, lord? |
+| [[Troilus|TROILUS]] | (aside) By Jove, I will be patient. Diomedes starts to go |
+| [[Cressida|CRESSIDA]] | Guardian! Why, Greek! |
+| DIOMEDES | Fo, fo! Adieu. You palter. |
+| [[Cressida|CRESSIDA]] | In [[Faith|faith]], I do not. Come hither once again. |
+| [[Ulysses|ULYSSES]] | (aside) You shake, my lord, at something. Will you go? You will break out. |
+| [[Troilus|TROILUS]] | (aside) She strokes his cheek. |
+| [[Ulysses|ULYSSES]] | (aside) Come, come. |
+| [[Troilus|TROILUS]] | (aside) Nay, stay. By Jove, I will not speak a word. There is between my will and all offences A guard of patience. Stay a little while. |
+| [[Thersites|THERSITES]] | (aside) How the devil Luxury with his fat rump and potato finger tickles these together! Fry, lechery, fry. |
+| DIOMEDES | But will you then? |
+| [[Cressida|CRESSIDA]] | In [[Faith|faith]], I will, la. Never trust me else. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--02_exchange_diomedes" data-title="Troilus and Cressida — Act V, Scene 2 — exchange (DIOMEDES) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| DIOMEDES | Give me some token for the surety of it. |
+| [[Cressida|CRESSIDA]] | I’ll fetch you one. Exit |
+| [[Ulysses|ULYSSES]] | (aside) You have sworn patience. |
+| [[Troilus|TROILUS]] | (aside) [[Fear]] me not, sweet lord. I will not be myself, nor have cognition Of what I feel. I am all patience. Enter [[Cressida]] with [[Troilus]]’ sleeve |
+| [[Thersites|THERSITES]] | (aside) Now the pledge! Now, now, now. |
+| [[Cressida|CRESSIDA]] | Here Diomed, keep this sleeve. |
+| [[Troilus|TROILUS]] | (aside) O [[Beauty|beauty]], where is thy [[Faith|faith]]? |
+| [[Ulysses|ULYSSES]] | (aside) My lord. |
+| [[Troilus|TROILUS]] | (aside) I will be patient; outwardly I will. |
+| [[Cressida|CRESSIDA]] | You look upon that sleeve. Behold it [[Well|well]]. He loved me—O false wench!—give’t me again. She takes it back |
+| DIOMEDES | Whose was’t? |
+| [[Cressida|CRESSIDA]] | It is no matter, now I ha’t again. I will not meet with you tomorrow [[Night|night]]. I prithee, Diomed, visit me no more. |
+| [[Thersites|THERSITES]] | (aside) Now she sharpens. [[Well]] said, whetstone. |
+| DIOMEDES | I shall have it. |
+| [[Cressida|CRESSIDA]] | What, this? |
+| DIOMEDES | Ay, that. |
+| [[Cressida|CRESSIDA]] | O all you gods! O pretty pretty pledge! Thy master now lies thinking on his bed Of thee and me, and sighs, and takes my glove And gives memorial dainty kisses to it— DIOMEDES As I kiss thee. he snatches the sieeve [[Cressida|CRESSiDA]] Nay, do not snatch it from me. He that takes that doth take my heart withal. |
+| DIOMEDES | I had your heart before; this follows it. |
+| [[Troilus|TROILUS]] | (aside) I did swear patience. |
+| [[Cressida|CRESSIDA]] | You shall not have it, Diomed. [[Faith]], you shall not. I’ll give you something else. |
+| DIOMEDES | I will have this. Whose was it? |
+| [[Cressida|CRESSIDA]] | It is no matter. |
+| DIOMEDES | Come, tell me whose it was? |
+| [[Cressida|CRESSIDA]] | ’Twas one’s that loved me better than you will. But now you have it, take it. |
+| DIOMEDES | Whose was it? |
+| [[Cressida|CRESSIDA]] | By all [[Diana]]’s waiting-women yond, And by herself, I will not tell you whose. |
+| DIOMEDES | Tomorrow will I wear it on my helm, And grieve his spirit that dares, not challenge it. |
+| [[Troilus|TROILUS]] | (aside) Wert thou the devil and wor’st it on thy horn, It should be challenged. |
+| [[Cressida|CRESSIDA]] | [[Well]], [[Well|well]], ‘tis done, ’tis past—and yet it is not. I will not keep my word. |
+| DIOMEDES | Why then, farewell. Thou never shalt mock Diomed again. |
+| [[Cressida|CRESSIDA]] | You shall not go. One cannot speak a word But it straight starts you. |
+| DIOMEDES | I do not like this fooling. [[Troilus|TROILUS]] (aside) Nor I, by Pluto—but that that likes not you Pleases me best. |
+| DIOMEDES | What, shall I come? The hour— |
+| [[Cressida|CRESSIDA]] | Ay, come. O Jove, do come. I shall be plagued. |
+| DIOMEDES | Farewell till then. |
+| [[Cressida|CRESSIDA]] | Good [[Night|night]]. I prithee, come. Exit Diomedes [[Troilus]], farewell. One eye yet looks on thee, But with my heart the other eye doth see. Ah, poor our sex! This fault in us I find: The error of our eye directs our mind. What error leads must err. O then conclude: Minds swayed by eyes are full of turpitude. Exit |
+| [[Thersites|THERSITES]] | (aside) A proof of strength she could not publish more Unless she said, ‘My mind is now turned whore’. |
+| [[Ulysses|ULYSSES]] | All’s done, my lord. |
+| [[Troilus|TROILUS]] | It is. |
+| [[Ulysses|ULYSSES]] | Why stay we then? |
+| [[Troilus|TROILUS]] | To make a recordation to my [[Soul|soul]] Of every syllable that here was spoke. But if I tell how these two did co-act, Shall I not lie in publishing a [[Truth|truth]]? Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert th’attest of eyes and ears, As if those organs had deceptious functions Created only to calumniate. Was Cressid here? |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--03_exchange_ulysses_i" data-title="Troilus and Cressida — Act V, Scene 2 — exchange (ULYSSES I) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Ulysses|ULYSSES]] | I cannot conjure, Trojan. |
+| [[Troilus|TROILUS]] | She was not, sure. |
+| [[Ulysses|ULYSSES]] | Most sure, she was. |
+| [[Troilus|TROILUS]] | Why, my negation hath no taste of [[Madness|madness]]. |
+| [[Ulysses|ULYSSES]] | Nor mine, my lord. Cressid was here but now. |
+| [[Troilus|TROILUS]] | Let it not be believed, for womanhood. Think: we had mothers. Do not give advantage To stubborn critics, apt without a theme For depravation to square the general sex By Cressid’s rule. Rather, think this not Cressid. |
+| [[Ulysses|ULYSSES]] | What hath she done, Prince, that can soil our mothers? |
+| [[Troilus|TROILUS]] | Nothing at all, unless that this were she. |
+| [[Thersites|THERSITES]] | (aside) Will a swagger himself out on’s own eyes? |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--04_monologue_troilus" data-title="Troilus and Cressida — Act V, Scene 2 — monologue (TROILUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Troilus|TROILUS]] | This, she? No, this is Diomed’s [[Cressida]]. If [[Beauty|beauty]] have a [[Soul|soul]], this is not she. If souls guide vows, if vows be sanctimonies, If sanctimony be the gods’ delight, If there be rule in [[unity]] itself, This is not she. O [[Madness|madness]] of discourse, That cause sets up with and against thyselfl Bifold authority, where reason can revolt Without perdition, and loss assume all reason Without revolt! This is and is not Cressid. Within my [[Soul|soul]] there doth conduce a fight Of this strange [[Nature|nature]], that a thing inseparate Divides more wider than the sky and earth, And yet the spacious breadth of this division Admits no orifex for a point as subtle As Ariachne’s broken woof to enter. Instance, O instance, strong as Pluto’s gates: Cressid is mine, tied with the bonds of heaven. Instance, O instance, strong as heaven itself: The bonds of heaven are slipped, dissolved, and loosed, And with another knot, five-finger-tied, The fractions of her [[Faith|faith]], orts of her [[Love|love]], The fragments, scraps, the bits and greasy relics Of her o’er-eaten [[Faith|faith]], are bound to Diomed. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2--05_exchange_ulysses" data-title="Troilus and Cressida — Act V, Scene 2 — exchange (ULYSSES) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Ulysses|ULYSSES]] | May worthy [[Troilus]] e’en be half attached With that which here his passion doth express? |
+| [[Troilus|TROILUS]] | Ay, Greek, and that shall be divulged [[Well|well]] In characters as red as Mars his heart Inflamed with [[Venus]]. Never did young man fancy With so eternal and so fixed a [[Soul|soul]]. Hark, Greek: as much as I do Cressid [[Love|love]], So much by weight hate I her Diomed. That sleeve is mine that he’ll bear in his helm. Were it a casque composed by Vulcan’s skill, My [[Sword|sword]] should bite it. Not the dreadful spout Which shipmen do the hurricano call, Constringed in mass by the almighty sun, Shall dizzy with more clamour Neptune’s ear In his descent, than shall my prompted [[Sword|sword]] Falling on Diomed. |
+| [[Thersites|THERSITES]] | (aside) He’ll tickle it for his concupy. |
+| [[Troilus|TROILUS]] | O Cressid, O false Cressid! False, false, false. Let all untruths stand by thy stained name, And they’ll seem glorious. |
+| [[Ulysses|ULYSSES]] | O contain yourself. Your passion draws ears hither. Enter Aeneas |
+| AENEAS | (to [[Troilus]]) I have been seeking you this hour, my lord. [[Hector]] by this is arming him in Troy. [[Ajax]] your guard stays to conduct you [[Home|home]]. |
+| [[Troilus|TROILUS]] | Have with you, Prince.—My courteous lord, adieu.— Farewell, revolted fair; and Diomed, Stand fast and wear a [[Castle|castle]] on thy head. |
+| [[Ulysses|ULYSSES]] | I’ll bring you to the gates. |
+| [[Troilus|TROILUS]] | Accept distracted thanks. Exeunt [[Troilus]], Aeneas, and [[Ulysses]] |
+| [[Thersites|THERSITES]] | Would I could meet that rogue Diomed! I would croak like a raven. I would bode, I would bode. Patroclus will give me anything for the intelligence of this whore. The parrot will not do more for an almond than he for a commodious drab. Lechery, lechery, still wars and lechery! Nothing else holds fashion. A burning devil take them! Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_11--01_exchange_dialogue" data-title="Troilus and Cressida — Act V, Scene 11 — exchange (dialogue) [1]" data-chapter="Scene 11" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Aeneas, [[Paris]], Antenor, and Deiphobus |
+| AENEAS | Stand, ho! Yet are we masters of the field. Never go [[Home|home]]; here starve we out the [[Night|night]]. Enter [[Troilus]] |
+| [[Troilus|TROILUS]] | [[Hector]] is slain. |
+| ALL THE OTHERS | [[Hector]]? The gods forbid. |
+| [[Troilus|TROILUS]] | He’s dead, and at the murderer’s [[Horse|horse]]’s tail In beastly sort dragged through the shameful field. Frown on, you heavens; effect your rage with [[Speed|speed]]; Sit, gods, upon your thrones, and smite at Troy. I say, at once: let your brief plagues be [[Mercy|mercy]], And linger not our sure destructions on. |
+| AENEAS | My lord, you do discomfort all the host. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_11--02_monologue_troilus" data-title="Troilus and Cressida — Act V, Scene 11 — monologue (TROILUS) [2]" data-chapter="Scene 11" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Troilus|TROILUS]] | You understand me not that tell me so. I do not speak of flight, of [[Fear|fear]] of [[Death|death]], But dare all imminence that gods and men Address their dangers in. [[Hector]] is gone. Who shall tell Priam so, or Hecuba? Let him that will a screech-owl aye be called Go into Troy and say their [[Hector]]’s dead. There is a word will Priam turn to stone, Make wells and Niobes of the maids and wives, Cold statues of the youth, and in a word Scare Troy out of itself. But march away. [[Hector]] is dead; there is no more to say. Stay yet.—You vile abominable tents Thus proudly pitched upon our Phrygian plains, Let Titan rise as early as he dare, I’ll through and through you! And thou great-sized coward, No space of earth shall sunder our two hates. I’ll haunt thee like a wicked [[Conscience|conscience]] still, That mouldeth goblins swift as frenzy’s thoughts. Strike a free march! To Troy with comfort go: [[Hope]] of [[Revenge|revenge]] shall hide our inward woe. Exeunt marching |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_11--03_exchange_additional_passages" data-title="Troilus and Cressida — Act V, Scene 11 — exchange (ADDITIONAL PASSAGES) [3]" data-chapter="Scene 11" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| ADDITIONAL PASSAGES | A. The Quarto (below) gives a more elaborate version of [[Thersites]]’ speech at 5.1.17-21. |
+| [[Thersites|THERSITES]] | Why, his masculine whore. Now the rotten diseases of the south, the guts-griping, ruptures, loads o’ gravel in the back, lethargies, cold palsies, raw eyes, dirt-rotten livers, wheezing lungs, bladders full of impostume, sciaticas, lime-kilns i’th’ palm, incurable bone-ache, and the rivelled fee-simple of the tetter, take and take again such preposterous discoveries. |
+| [[Thersites|THERSITES]] | B. The Quarto gives a different ending to the play (which the Folio inadvertently repeats). Enter [[Pandarus]] |
+| [[Pandarus|PANDARUS]] | But hear you, hear you. |
+| [[Troilus|TROILUS]] | Hence, broker-lackey. Strikes him Ignomy and shame Pursue thy life, and live aye with thy name. Exeunt all but [[Pandarus]] |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_11--04_monologue_pandarus_a" data-title="Troilus and Cressida — Act V, Scene 11 — monologue (PANDARUS A) [4]" data-chapter="Scene 11" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pandarus|PANDARUS]] | A goodly medicine for my aching bones. O world, world, world!—thus is the poor agent despised. O traitors and bawds, how earnestly are you set a work, and how ill requited! Why should our endeavour be so desired and the performance so loathed? What verse for it? What instance for it? Let me see, Full merrily the humble-bee doth sing Till he hath lost his honey and his sting, And being once subdued in armèd tail, Sweet honey and sweet notes together fail. Good traders in the flesh, set this in your painted cloths: As many as be here of Pandar’s hall, Your eyes, half out, weep out at Pandar’s fall. Or if you cannot weep, yet give some groans, Though not for me, yet for your aching bones. Brethren and sisters of the hold-door trade, Some two months hence my will shall here be made. It should be now, but that my [[Fear|fear]] is this: Some galled goose of Winchester would hiss. Till then I’ll sweat and seek about for eases, And at that [[Time|time]] bequeath you my diseases. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_11--05_exchange_sonnets_and_a_lovers" data-title="Troilus and Cressida — Act V, Scene 11 — exchange (SONNETS AND ‘A LOVER’S) [5]" data-chapter="Scene 11" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SONNETS AND | ‘A [[Lover|LOVER]]’S COMPLAINT’ |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_11--06_monologue_shakespeares" data-title="Troilus and Cressida — Act V, Scene 11 — monologue (SHAKESPEARE’S) [6]" data-chapter="Scene 11" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SHAKESPEARE’S | Sonnets were published as a collection by Thomas Thorpe in 1609; the title-page declared that they were ‘never before imprinted’. Versions of two of them- 138 and 144—had appeared in 1599, in The Passionate [[Pilgrim]] , a collection ascribed to Shakespeare but including some [[Poems|poems]] certainly written by other authors; and in the previous year Francis Meres, in Palladis Tamia, had alluded to Shakespeare’s ‘sugared sonnets among his private friends’. The [[Sonnet|sonnet]] sequence had enjoyed a brief but intense vogue from the publication of Sir Philip Sidney’s Astrophil and Stella in 1591 till about 1597. Some of Shakespeare’s plays of this period reflect the fashion: in the [[Comedy|comedy]] of [[Love]]’s Labour’s Lost the writing of sonnets is seen as a laughable symptom of [[Love|love]], and in the [[Tragedy|tragedy]] of [[Romeo]] and [[Juliet]] both speeches of the [[Chorus]] and the [[lovers]]’ first conversation are in [[Sonnet|sonnet]] form. Later plays use it, too, but it seems likely that most of Shakespeare’s sonnets were first written during this period. But there are indications that some of them were revised; the two printed in The Passionate [[Pilgrim]] differ at certain points from Thorpe’s version, and two other sonnets (2 and 106) exist in manuscript versions which also are not identical with those published in the sequence. We print these as ‘Alternative Versions’ of Sonnets 2, 106, 138, and 144. |
+| SHAKESPEARE’S | The order in which Thorpe printed the Sonnets has often been questioned, but is not entirely haphazard: all the first seventeen, and no later ones, exhort a young man to marry; all those clearly addressed to one or more men are among the first 126, and all those clearly addressed to, or concerned with, one or more women (the ‘dark lady’) follow. Some of the sonnets in the second group appear to refer to events that prompted sonnets in the first group; it seems likely that the [[Poems|poems]] were rearranged after composition. Moreover, the volume contains ‘A [[Lover]]’s Complaint’, clearly ascribed to Shakespeare, which stylistic evidence suggests was written in the early seventeenth century and which may have been intended as a companion piece. So, printing the Sonnets in Thorpe’s order, we place them according to the likely date of their revision. |
+| SHAKESPEARE’S | Textual evidence suggests that Thorpe printed from a transcript by someone other than Shakespeare. His volume bears a dedication over his own initials to ‘Mr W.H.’; we do not know whether this derives from the manuscript, and can only speculate about the dedicatee’s [[Identity|identity]]. His initials are those of Shakespeare’s only known dedicatee, Henry Wriothesley, Earl of Southampton, but in reverse order. We have even less clue as to the [[Identity|identity]] of the Sonnets’ other personae, who include a rival poet and a dark woman. |
+| SHAKESPEARE’S | Shakespeare’s Sonnets may not be autobiographical, but they are certainly unconventional: the most idealistic [[Poems|poems]] celebrating [[Love|love]]’s mutuality are addressed by one man to another, and the [[Poems|poems]] clearly addressed to a woman revile her morals, speak ill of her appearance, and explore the poet’s [[Self|self]]-disgust at his entanglement with her. The Sonnets include some of the finest [[Love|love]] [[Poems|poems]] in the English language: the sequence itself presents an internal drama of great psychological complexity. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_11--07_exchange_tothe_onlybegetterof" data-title="Troilus and Cressida — Act V, Scene 11 — exchange (TO.THE. ONLY.BEGETTER.OF.) [7]" data-chapter="Scene 11" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| TO.THE. ONLY.BEGETTER.OF. THESE.ENSUING.SONNETS. | M r .W.H. ALL.HAPPINESS. AND.THAT.[[Eternity|ETERNITY]]. PROMISED. BY. OUR.EVER-LIVING.POET. WISHETH. THE. [[Well|WELL]]-WISHING. ADVENTURER.IN. SETTING. FORTH. |
+
+
 
 
 <span class="atom-split" data-atom="troilus_and_cressida" data-title="TROILUS AND CRESSIDA" data-chapter="" data-kind="intro"></span>
@@ -1590,1504 +3088,6 @@ Exit
 | SONNETS AND | ‘A [[Lover|LOVER]]’S COMPLAINT’ |
 | SHAKESPEARE’S | Sonnets were published as a collection by Thomas Thorpe in 1609; the title-page declared that they were ‘never before imprinted’. Versions of two of them- 138 and 144—had appeared in 1599, in<br>The Passionate [[Pilgrim]]<br>, a collection ascribed to Shakespeare but including some [[Poems|poems]] certainly written by other authors; and in the previous year Francis Meres, in<br>Palladis Tamia,<br> had alluded to Shakespeare’s ‘sugared sonnets among his private friends’. The [[Sonnet|sonnet]] sequence had enjoyed a brief but intense vogue from the publication of Sir Philip Sidney’s<br>Astrophil and Stella<br> in 1591 till about 1597. Some of Shakespeare’s plays of this period reflect the fashion: in the [[Comedy|comedy]] of<br>[[Love]]’s Labour’s Lost<br> the writing of sonnets is seen as a laughable symptom of [[Love|love]], and in the [[Tragedy|tragedy]] of<br>[[Romeo]] and [[Juliet]]<br> both speeches of the [[Chorus]] and the [[lovers]]’ first conversation are in [[Sonnet|sonnet]] form. Later plays use it, too, but it seems likely that most of Shakespeare’s sonnets were first written during this period. But there are indications that some of them were revised; the two printed in<br>The Passionate [[Pilgrim]]<br> differ at certain points from Thorpe’s version, and two other sonnets (2 and 106) exist in manuscript versions which also are not identical with those published in the sequence. We print these as ‘Alternative Versions’ of Sonnets 2, 106, 138, and 144.<br><br>The order in which Thorpe printed the Sonnets has often been questioned, but is not entirely haphazard: all the first seventeen, and no later ones, exhort a young man to marry; all those clearly addressed to one or more men are among the first 126, and all those clearly addressed to, or concerned with, one or more women (the ‘dark lady’) follow. Some of the sonnets in the second group appear to refer to events that prompted sonnets in the first group; it seems likely that the [[Poems|poems]] were rearranged after composition. Moreover, the volume contains ‘A [[Lover]]’s Complaint’, clearly ascribed to Shakespeare, which stylistic evidence suggests was written in the early seventeenth century and which may have been intended as a companion piece. So, printing the Sonnets in Thorpe’s order, we place them according to the likely date of their revision.<br><br>Textual evidence suggests that Thorpe printed from a transcript by someone other than Shakespeare. His volume bears a dedication over his own initials to ‘Mr W.H.’; we do not know whether this derives from the manuscript, and can only speculate about the dedicatee’s [[Identity|identity]]. His initials are those of Shakespeare’s only known dedicatee, Henry Wriothesley, Earl of Southampton, but in reverse order. We have even less clue as to the [[Identity|identity]] of the Sonnets’ other personae, who include a rival poet and a dark woman.<br><br>Shakespeare’s Sonnets may not be autobiographical, but they are certainly unconventional: the most idealistic [[Poems|poems]] celebrating [[Love|love]]’s mutuality are addressed by one man to another, and the [[Poems|poems]] clearly addressed to a woman revile her morals, speak ill of her appearance, and explore the poet’s [[Self|self]]-disgust at his entanglement with her. The Sonnets include some of the finest [[Love|love]] [[Poems|poems]] in the English language: the sequence itself presents an internal drama of great psychological complexity. |
 | THESE.ENSUING.SONNETS. |  M<br>r<br>.W.H. ALL.HAPPINESS. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="Troilus and Cressida — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter above [[Cressida]] and her servant Alexander |
-| [[Cressida|CRESSIDA]] | Who were those went by? |
-| ALEXANDER | [[Queen]] Hecuba and [[Helen]]. |
-| [[Cressida|CRESSIDA]] | And whither go they? |
-| ALEXANDER | Up to the eastern tower, Whose height commands as subject all the vale, To see the battle. [[Hector]], whose patience Is as a virtue fixed, today was moved. He chid Andromache and struck his armourer And, like as there were husbandry in war, Before the sun [[Rose|rose]] he was harnessed light, And to the field goes he, where every flower Did as a [[Prophet|prophet]] weep what it foresaw In [[Hector]]’s wrath. |
-| [[Cressida|CRESSIDA]] | What was his cause of anger? |
-| ALEXANDER | The noise goes this: there is among the Greeks A lord of Trojan [[Blood|blood]], nephew to [[Hector]]; They call him [[Ajax]]. |
-| [[Cressida|CRESSIDA]] | Good, and what of him? |
-| ALEXANDER | They say he is a very man per se, |
-| ALEXANDER | And stands [[Alone|alone]]. |
-| [[Cressida|CRESSIDA]] | So do all men Unless they are drunk, sick, or have no legs. |
-| ALEXANDER | This man, lady, hath robbed many beasts of their particular additions: he is as valiant as the [[Lion|lion]], churlish as the bear, slow as the elephant—a man into whom [[Nature|nature]] hath so crowded humours that his valour is crushed into folly, his folly farced with discretion. There is no man hath a virtue that he hath not a glimpse of, nor any man an attaint but he carries some stain of it. He is [[Melancholy|melancholy]] without cause and merry against the hair; he hath the joints of everything, but everything so out of joint that he is a gouty Briareus, many hands and no use, or purblind Argus, all eyes and no sight. |
-| [[Cressida|CRESSIDA]] | But how should this man that makes me smile make [[Hector]] angry? |
-| ALEXANDER | They say he yesterday coped [[Hector]] in the battle and struck him down, the disdain and shame whereof hath ever since kept [[Hector]] fasting and waking. |
-| [[Cressida|CRESSIDA]] | Who comes here? |
-| ALEXANDER | Madam, your uncle [[Pandarus]]. Enter [[Pandarus]] above |
-| [[Cressida|CRESSIDA]] | [[Hector]]’s a gallant man. |
-| ALEXANDER | As may be in the world, lady. |
-| [[Pandarus|PANDARUS]] | What’s that? What’s that? |
-| [[Cressida|CRESSIDA]] | Good morrow, uncle [[Pandarus]]. |
-| [[Pandarus|PANDARUS]] | Good morrow, cousin Cressid. What do you talk of?—Good morrow, Alexander.—How do you, cousin? When were you at Ilium? |
-| [[Cressida|CRESSIDA]] | This morning, uncle. |
-| [[Pandarus|PANDARUS]] | What were you talking of when I came? Was [[Hector]] armed and gone ere ye came to Ilium? [[Helen]] was not up, was she? |
-| [[Cressida|CRESSIDA]] | [[Hector]] was gone but [[Helen]] was not up? |
-| [[Pandarus|PANDARUS]] | E’en so. [[Hector]] was stirring early. |
-| [[Cressida|CRESSIDA]] | That were we talking of, and of his anger. |
-| [[Pandarus|PANDARUS]] | Was he angry? |
-| [[Cressida|CRESSIDA]] | So he says here. |
-| [[Pandarus|PANDARUS]] | True, he was so. I know the cause too. He’ll lay about him today, I can tell them that. And there’s [[Troilus]] will not come far behind him. Let them take heed of [[Troilus]], I can tell them that too. |
-| [[Cressida|CRESSIDA]] | What, is he angry too? |
-| [[Pandarus|PANDARUS]] | Who, [[Troilus]]? [[Troilus]] is the better man of the two. |
-| [[Cressida|CRESSIDA]] | O Jupiter! There’s no comparison. |
-| [[Pandarus|PANDARUS]] | What, not between [[Troilus]] and [[Hector]]? Do you know a man if you see him? |
-| [[Cressida|CRESSIDA]] | Ay, if I ever saw him before and knew him. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--02_exchange_pandarus" data-title="Troilus and Cressida — Act I, Scene 2 — exchange (PANDARUS) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Pandarus|PANDARUS]] | [[Well]], I say [[Troilus]] is [[Troilus]]. |
-| [[Cressida|CRESSIDA]] | Then you say as I say, for I am sure He is not [[Hector]]. |
-| [[Pandarus|PANDARUS]] | No, nor [[Hector]] is not [[Troilus]], in some degrees. |
-| [[Cressida|CRESSIDA]] | ’Tis just to each of them: he is himself. |
-| [[Pandarus|PANDARUS]] | Himself? Alas, poor [[Troilus]], I would he were. |
-| [[Cressida|CRESSIDA]] | So he is. |
-| [[Pandarus|PANDARUS]] | Condition I had gone barefoot to India. |
-| [[Cressida|CRESSIDA]] | He is not [[Hector]]. |
-| [[Pandarus|PANDARUS]] | Himself ? No, he’s not himself. Would a were himself! [[Well]], the gods are above, [[Time|time]] must friend or end. [[Well]], [[Troilus]], [[Well|well]], I would my heart were in her [[Body|body]]. No, [[Hector]] is not a better man than [[Troilus]]. |
-| [[Cressida|CRESSIDA]] | Excuse me. |
-| [[Pandarus|PANDARUS]] | He is elder. |
-| [[Cressida|CRESSIDA]] | Pardon me, pardon me. |
-| [[Pandarus|PANDARUS]] | Th‘other’s not come to’t. You shall tell me another tale when th’other’s come to’t. [[Hector]] shall not have his will this year. |
-| [[Cressida|CRESSIDA]] | He shall not need it if he have his own. |
-| [[Pandarus|PANDARUS]] | Nor his qualities. |
-| [[Cressida|CRESSIDA]] | No matter. |
-| [[Pandarus|PANDARUS]] | Nor his [[Beauty|beauty]]. |
-| [[Cressida|CRESSIDA]] | ’Twould not become him; his own’s better. |
-| [[Pandarus|PANDARUS]] | You have no judgement, niece. [[Helen]] herself swore th‘other day that [[Troilus]] for a brown favour, for so ’tis, I must confess—not brown neither— |
-| [[Cressida|CRESSIDA]] | No, but brown. |
-| [[Pandarus|PANDARUS]] | [[Faith]], to say [[Truth|truth]], brown and not brown. |
-| [[Cressida|CRESSIDA]] | To say the [[Truth|truth]], true and not true. |
-| [[Pandarus|PANDARUS]] | She praised his complexion above [[Paris]]’. |
-| [[Cressida|CRESSIDA]] | Why, [[Paris]] hath colour enough. |
-| [[Pandarus|PANDARUS]] | So he has. |
-| [[Cressida|CRESSIDA]] | Then [[Troilus]] should have too much. If she praised him above, his complexion is higher than his; he having colour enough, and the other higher, is too flaming a praise for a good complexion. I had as lief [[Helen]]’s golden tongue had commended [[Troilus]] for a copper nose. |
-| [[Pandarus|PANDARUS]] | I swear to you, I think [[Helen]] loves him better than [[Paris]]. |
-| [[Cressida|CRESSIDA]] | Then she’s a merry Greek indeed. |
-| [[Pandarus|PANDARUS]] | Nay, I am sure she does. She came to him th’other day into the compassed [[Window|window]], and you know he has not past three or four hairs on his chin— |
-| [[Cressida|CRESSIDA]] | Indeed, a tapster’s arithmetic may soon bring his particulars therein to a total. no |
-| [[Pandarus|PANDARUS]] | Why, he is very young—and yet will he within three pound lift as much as his brother [[Hector]]. |
-| [[Cressida|CRESSIDA]] | Is he so young a man and so old a lifter? |
-| [[Pandarus|PANDARUS]] | But to prove to you that [[Helen]] loves him: she came and puts me her white hand to his cloven chin. |
-| [[Cressida|CRESSIDA]] | Juno have [[Mercy|mercy]]! How came it cloven? |
-| [[Pandarus|PANDARUS]] | Why, you know, ’tis dimpled. I think his smiling becomes him better than any man in all Phrygia. |
-| [[Cressida|CRESSIDA]] | O he smiles valiantly. |
-| [[Pandarus|PANDARUS]] | Does he not? |
-| [[Cressida|CRESSIDA]] | O yes, an’t were a cloud in [[Autumn|autumn]]. |
-| [[Pandarus|PANDARUS]] | Why, go to then. But to prove to you that [[Helen]] loves [[Troilus]]— |
-| [[Cressida|CRESSIDA]] | [[Troilus]] will stand to the proof if you’ll prove it so. |
-| [[Pandarus|PANDARUS]] | [[Troilus]]? Why, he esteems her no more than I esteem an addle egg. |
-| [[Cressida|CRESSIDA]] | If you [[Love|love]] an addle egg as [[Well|well]] as you [[Love|love]] an idle head you would eat chickens i’th’ shell. |
-| [[Pandarus|PANDARUS]] | I cannot choose but laugh to think how she tickled his chin. Indeed, she has a marvellous white hand, I must needs confess— |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--03_exchange_cressida" data-title="Troilus and Cressida — Act I, Scene 2 — exchange (CRESSIDA) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cressida|CRESSIDA]] | Without the rack. |
-| [[Pandarus|PANDARUS]] | And she takes upon her to spy a white hair on his chin. |
-| [[Cressida|CRESSIDA]] | Alas, poor chin! Many a wart is richer. |
-| [[Pandarus|PANDARUS]] | But there was such laughing! [[Queen]] Hecuba laughed that her eyes ran o’er. |
-| [[Cressida|CRESSIDA]] | With millstones. |
-| [[Pandarus|PANDARUS]] | And Cassandra laughed. |
-| [[Cressida|CRESSIDA]] | But there was a more temperate [[Fire|fire]] under the pot of her eyes—or did her eyes run o’er too? |
-| PINDARUS | And [[Hector]] laughed. |
-| [[Cressida|CRESSIDA]] | At what was all this laughing? |
-| [[Pandarus|PANDARUS]] | Marry, at the white hair that [[Helen]] spied on [[Troilus]]’ chin. |
-| [[Cressida|CRESSIDA]] | An’t had been a green hair I should have laughed too. |
-| [[Pandarus|PANDARUS]] | They laughed not so much at the hair as at his pretty answer. |
-| [[Cressida|CRESSIDA]] | What was his answer? |
-| [[Pandarus|PANDARUS]] | Quoth she, ‘Here’s but two-and-fifty hairs on your chin, and one of them is white.’ |
-| [[Cressida|CRESSIDA]] | This is her question. |
-| PINDARUS | That’s true, make no question of that. ‘Two-and-fifty hairs,’ quoth he, ‘and one white? That white hair is my father, and all the rest are his sons.’ ‘Jupiter!’ quoth she, ‘which of these hairs is [[Paris]] my husband?’ ‘The forked one,’ quoth he, ‘pluck’t out and give it him.’ But there was such laughing, and [[Helen]] so blushed and [[Paris]] so chafed and all the rest so laughed, that it passed. |
-| [[Cressida|CRESSIDA]] | So let it now, for it has been a great while going by. |
-| [[Pandarus|PANDARUS]] | [[Well]], cousin, I told you a thing yesterday. Think on’t. |
-| [[Cressida|CRESSIDA]] | So I do. |
-| [[Pandarus|PANDARUS]] | I’ll be sworn ’tis true. He will weep you an’t were a man born in April. |
-| [[Cressida|CRESSIDA]] | And I’ll [[spring]] up in his [[Tears|tears]] an’t were a nettle against May. A retreat is sounded |
-| [[Pandarus|PANDARUS]] | Hark, they are coming from the field. Shall we stand up here and see them as they pass toward Ilium? Good niece, do, sweet niece [[Cressida]]. |
-| [[Cressida|CRESSIDA]] | At your pleasure. |
-| [[Pandarus|PANDARUS]] | Here, here, here’s an excellent place, here we may see most bravely. I’ll tell you them all by their names as they pass by, but mark [[Troilus]] above the rest. Enter Aeneas passing by below |
-| [[Cressida|CRESSIDA]] | Speak not so loud. |
-| [[Pandarus|PANDARUS]] | That’s Aeneas. Is not that a brave man? He’s one of the [[Flowers|flowers]] of Troy, I can tell you. But mark [[Troilus]]; you shall see anon. Enter Antenor passing by below |
-| [[Cressida|CRESSIDA]] | Who’s that? |
-| [[Pandarus|PANDARUS]] | That’s Antenor. He has a shrewd wit, I can tell you, and he’s a man good enough. He’s one o’th’ soundest judgements in Troy whosoever, and a proper man of person. When comes [[Troilus]]? I’ll show you [[Troilus]] anon. If he see me you shall see him nod at me. |
-| [[Cressida|CRESSIDA]] | Will he give you the nod? |
-| [[Pandarus|PANDARUS]] | You shall see. |
-| [[Cressida|CRESSIDA]] | If he do, the rich shall have more. Enter [[Hector]] passing by below |
-| [[Pandarus|PANDARUS]] | That’s [[Hector]], that, that, look you, that. There’s a fellow!—Go thy way, [[Hector]]!—There’s a brave man, niece. O brave [[Hector]]! Look how he looks. There’s a countenance. Is’t not a brave man? |
-| [[Cressida|CRESSIDA]] | O a brave man. |
-| [[Pandarus|PANDARUS]] | Is a not? It does a man’s heart good. Look you what hacks are on his helmet. Look you yonder, do you see? Look you there. There’s no jesting. There’s laying on, take’t off who will, as they say. There be hacks. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--04_exchange_cressida" data-title="Troilus and Cressida — Act I, Scene 2 — exchange (CRESSIDA) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cressida|CRESSIDA]] | Be those with swords? Enter [[Paris]] passing by below |
-| [[Pandarus|PANDARUS]] | Swords, anything, he cares not. An the devil come to him it’s all one. By’God’s lid it does one’s heart good. Yonder comes [[Paris]], yonder comes [[Paris]]. Look ye yonder, niece. Is’t not a gallant man too? Is’t not? Why, this is brave now. Who said he came hurt [[Home|home]] today? He’s not hurt. Why, this will do [[Helen]]’s heart good now, hal Would I could see [[Troilus]] now. You shall see [[Troilus]] anon. Enter Helenus passing by below |
-| [[Cressida|CRESSIDA]] | Who’s that? |
-| [[Pandarus|PANDARUS]] | That’s Helenus. I marvel where [[Troilus]] is. That’s Helenus. I think he went not forth today. That’s Helenus. |
-| [[Cressida|CRESSIDA]] | Can Helenus fight, uncle? |
-| [[Pandarus|PANDARUS]] | Helenus? No—yes, he’ll fight indifferent [[Well|well]]. I marvel where [[Troilus]] is. A Shout Hark, do you not hear the people cry ‘[[Troilus]]’? Helenus is a priest. Enter [[Troilus]] passing by below |
-| [[Cressida|CRESSIDA]] | What sneaking fellow comes yonder? |
-| [[Pandarus|PANDARUS]] | Where? Yonder? That’s Deiphobus.—’Tis [[Troilus]]! There’s a man, niece, h’m? Brave [[Troilus]], the prince of chivalry! |
-| [[Cressida|CRESSIDA]] | Peace, for shame, peace. |
-| [[Pandarus|PANDARUS]] | Mark him, note him. O brave [[Troilus]]! Look [[Well|well]] upon him, niece. Look you how his [[Sword|sword]] is bloodied and his helm more hacked than [[Hector]]‘s, and how he looks and how he goes. O admirable youth! He ne’er saw three-and-twenty.—Go thy way, [[Troilus]], go thy way!—Had I a sister were a grace, or a daughter a goddess, he should take his choice. O admirable man! [[Paris]]? [[Paris]] is dirt to him, and I warrant [[Helen]] to change would give an eye to boot. Enter common soldiers passing by below |
-| [[Cressida|CRESSIDA]] | Here comes more. |
-| [[Pandarus|PANDARUS]] | Asses, fools, dolts. Chaff and bran, chaff and bran. Porridge after meat. I could live and die i‘th’ eyes of [[Troilus]]. Ne’er look, ne’er look, the eagles are gone. Crows and daws, crows and daws. I had rather be such a man as [[Troilus]] than [[Agamemnon]] and all Greece. |
-| [[Cressida|CRESSIDA]] | There is among the Greeks [[Achilles]], a better man than [[Troilus]]. |
-| [[Pandarus|PANDARUS]] | [[Achilles]]? A drayman, a porter, a very camel. |
-| [[Cressida|CRESSIDA]] | [[Well]], [[Well|well]]. |
-| [[Pandarus|PANDARUS]] | [[Well]], [[Well|well]]? Why, have you any discretion? Have you any eyes? Do you know what a man is? Is not birth, [[Beauty|beauty]], good shape, discourse, manhood, learning, gentleness, virtue, youth, liberality, and so forth, the spice and salt that season a man? |
-| [[Cressida|CRESSIDA]] | Ay, a minced man—and then to be baked with no date in the pie, for then the man’s date is out. |
-| [[Pandarus|PANDARUS]] | You are such another woman! One knows not at what ward you lie. |
-| [[Cressida|CRESSIDA]] | Upon my back to defend my belly, upon my wit to defend my wiles, upon my secrecy to defend mine honesty, my mask to defend my [[Beauty|beauty]], and you to defend all these—and at all these wards I lie at a thousand watches. |
-| [[Pandarus|PANDARUS]] | Say one of your watches. |
-| [[Cressida|CRESSIDA]] | ‘Nay, I’ll watch you for that’—and that’s one of the chiefest of them too. If I cannot ward what I would not have hit, I can watch you for telling how I took the blow—unless it swell past hiding, and then it’s past watching. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--05_exchange_pandarus" data-title="Troilus and Cressida — Act I, Scene 2 — exchange (PANDARUS) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Pandarus|PANDARUS]] | You are such another! Enter Boy |
-| BOY | Sir, my lord would instantly speak with you. |
-| [[Pandarus|PANDARUS]] | Where? |
-| BOY | At your own [[house]]. |
-| [[Pandarus|PANDARUS]] | Good boy, tell him I come. Exit Boy I [[Doubt|doubt]] he be hurt. Fare ye [[Well|well]], good niece. |
-| [[Cressida|CRESSIDA]] | Adieu, uncle. |
-| [[Pandarus|PANDARUS]] | I’ll be with you, niece, by and by. |
-| [[Cressida|CRESSIDA]] | To bring, uncle? |
-| [[Pandarus|PANDARUS]] | Ay, a token from [[Troilus]]. |
-| [[Cressida|CRESSIDA]] | By the same token, you are a bawd. Exeunt [[Pandarus]] and Alexander Words, vows, gifts, [[Tears|tears]], and [[Love|love]]’s full sacrifice He offers in another’s enterprise; But more in [[Troilus]] thousandfold I see Than in the glass of Pandar’s praise may be. Yet hold I off. Women are angels, wooing; Things won are done. Joy’s [[Soul|soul]] lies in the doing. That she beloved knows naught that knows not this: Men price the thing ungained more than it is. That she was never yet that ever knew [[Love]] got so sweet as when [[Desire|desire]] did sue. Therefore this maxim out of [[Love|love]] I teach: Achievement is command; ungained, beseech. Then though my heart’s contents firm [[Love|love]] doth bear, Nothing of that shall from mine eyes appear. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Sennet. Enter [[Agamemnon]], Nestor, [[Ulysses]], Diomedes, and Menelaus, with others |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--02_monologue_agamemnon" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (AGAMEMNON) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Agamemnon|AGAMEMNON]] | Princes, what grief hath set the jaundice on your cheeks? The ample proposition that [[Hope|hope]] makes In all designs begun on earth below Fails in the promised largeness. Checks and disasters Grow in the veins of actions highest reared, As knots, by the conflux of meeting sap, Infects the sound pine and diverts his grain Tortive and errant from his course of growth. Nor, princes, is it matter new to us That we come short of our suppose so far That after seven years’ siege yet Troy walls stand, Sith every action that hath gone before, Whereof we have record, trial did draw Bias and thwart, not answering the aim And that unbodied figure of the thought That gave’t surmised shape. Why then, you princes, Do you with cheeks abashed behold our works, And think them shames, which are indeed naught else But the protractive trials of great Jove To find persistive constancy in men? The fineness of which mettle is not found In fortune’s [[Love|love]]—for then the bold and coward, The wise and [[Fool|fool]], the [[artist]] and unread, The hard and soft, seem all affined and kin. But in the [[Wind|wind]] and tempest of her frown Distinction with a loud and powerful fan, Puffing at all, winnows the light away, And what hath mass or matter by itself Lies rich in virtue and unminglèd. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--03_monologue_nestor" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (NESTOR) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| NESTOR | With due observance of thy godly seat, Great [[Agamemnon]], Nestor shall apply Thy latest words. In the reproof of chance Lies the true proof of men. The sea being smooth, How many shallow bauble-boats dare sail Upon her patient breast, making their way With those of nobler bulk! But let the ruffian Boreas once enrage The gentle Thetis, and anon behold The strong-ribbed barque through liquid [[Mountains|mountains]] cut, Bounding between the two moist elements Like Perseus’ [[Horse|horse]]. Where’s then the saucy boat Whose weak untimbered sides but even now Co-rivalled [[Greatness|greatness]]? Either to harbour fled, Or made a toast for Neptune. Even so Doth valour’s show and valour’s worth divide In storms of fortune. For in her ray and brightness The herd hath more annoyance by the breese Than by the tiger; but when the splitting [[Wind|wind]] Makes flexible the knees of knotted oaks And flies flee under shade, why then the thing of [[Courage|courage]], As roused with rage, with rage doth sympathize, And with an accent tuned in selfsame key Retorts to chiding fortune. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--04_exchange_ulysses" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (ULYSSES) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Ulysses|ULYSSES]] | [[Agamemnon]], Thou great commander, nerve and bone of Greece, Heart of our numbers, [[Soul|soul]] and only spirit In whom the tempers and the minds of all Should be shut up, hear what [[Ulysses]] speaks. Besides th’applause and approbation The which, (to [[Agamemnon]]) most mighty for thy place and sway, And thou, (to Nestor) most reverend for thy stretched-out life, I give to both your speeches—which were such As, [[Agamemnon]], every hand of Greece Should hold up high in brass, and such again As, venerable Nestor, hatched in silver, Should with a bond of air, strong as the axle-tree On which the heavens ride, knit all Greeks’ ears To his experienced tongue—yet let it please both, Thou (to [[Agamemnon]]) great, and (to Nestor) wise, to hear [[Ulysses]] speak. |
-| [[Agamemnon|AGAMEMNON]] | Speak, Prince of Ithaca, and be’t of less expect That matter needless, of importless burden, Divide thy lips, than we are confident When rank [[Thersites]] opes his mastic jaws We shall hear music, wit, and oracle. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--05_monologue_ulysses" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (ULYSSES) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Ulysses|ULYSSES]] | Troy, yet upon his basis, had been down And the great [[Hector]]’s [[Sword|sword]] had lacked a master But for these instances: The specialty of rule hath been neglected. And look how many Grecian tents do stand Hollow upon this plain: so many hollow factions. When that the general is not like the hive To whom the foragers shall all repair, What honey is expected? Degree being vizarded, Th’unworthiest shows as fairly in the [[Masque|masque]]  . The heavens themselves, the planets, and this centre Observe degree, priority, and place, Infixture, course, proportion, season, form, Office and custom, in all line of order. And therefore is the glorious planet Sol In noble eminence enthroned and sphered Amidst the other, whose med‘cinable eye Corrects the ill aspects of planets evil And posts like the commandment of a [[King|king]], Sans check, to good and bad. But when the planets In evil mixture to disorder wander, What plagues and what portents, what mutiny? What raging of the sea, shaking of earth? Commotion in the winds, frights, changes, horrors Divert and crack, rend and deracinate The [[unity]] and married calm of states Quite from their fixture. O when degree is shaked, Which is the ladder to all high designs, The enterprise is sick. How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place? Take but degree away, untune that string, And hark what discord follows. Each thing meets no In mere oppugnancy. The bounded waters Should lift their bosoms higher than the shores And make a sop of all this solid globe; Strength should be lord of imbecility, And the rude son should strike his father dead. Force should be right—or rather, right and wrong, Between whose endless jar justice resides, Should lose their names, and so should justice too. Then everything includes itself in power, Power into will, will into appetite; And appetite, an universal wolf, So doubly seconded with will and power, Must make perforce an universal prey, And last eat up himself. Great [[Agamemnon]], This chaos, when degree is suffocate, Follows the choking. And this neglection of degree it is That by a pace goes backward in a purpose It hath to climb. The general’s disdained By him one step below; he, by the next; That next, by him beneath. So every step, Exampled by the first pace that is sick Of his superior, grows to an envious fever Of pale and bloodless emulation. And ’tis this fever that keeps Troy on foot, Not her own sinews. To end a tale of length: Troy in our weakness lives, not in her strength. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--06_exchange_nestor" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (NESTOR) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| NESTOR | Most wisely hath [[Ulysses]] here discovered The fever whereof all our power is sick. |
-| [[Agamemnon|AGAMEMNON]] | The [[Nature|nature]] of the sickness found, [[Ulysses]], What is the remedy? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--07_monologue_ulysses" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (ULYSSES) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Ulysses|ULYSSES]] | The great [[Achilles]], whom opinion crowns The sinew and the forehand of our host, Having his ear full of his airy fame Grows dainty of his worth, and in his tent Lies mocking our designs. With him Patroclus Upon a lazy bed the livelong day Breaks scurrile jests And, with ridiculous and awkward action Which, slanderer, he ‘[[Imitation|imitation]]’ calls, He pageants us. Sometime, great [[Agamemnon]], Thy topless deputation he puts on, And like a strutting player, whose conceit Lies in his hamstring and doth think it rich To hear the wooden dialogue and sound ’Twixt his stretched footing and the scaffoldage, Such to-be-pitied and o‘er-wrested seeming He acts thy [[Greatness|greatness]] in. And when he speaks ’Tis like a chime a-[[mending]], with terms unsquared Which from the tongue of roaring Typhon dropped Would seem hyperboles. At this fusty stuff The large [[Achilles]] on his pressed bed lolling From his deep chest laughs out a loud applause, Cries ‘Excellent! ’Tis [[Agamemnon]] just. Now play me Nestor, hem and stroke thy beard, As he being dressed to some oration.’ That’s done as near as the extremest ends Of parallels, as like as Vulcan and his wife. Yet god [[Achilles]] still cries, ‘Excellent! ‘Tis Nestor right. Now play him me, Patroclus, Arming to answer in a [[Night|night]] alarm’. And then forsooth the faint defects of age Must be the scene of mirth: to cough and spit, And with a palsy, fumbling on his gorget, Shake in and out the rivet. And at this sport Sir Valour dies, cries, ‘O enough, Patroclus! Or give me ribs of steel. I shall split all In pleasure of my spleen.’ And in this fashion All our abilities, gifts, natures, shapes, Severals and generals of grace exact, Achievements, plots, orders, preventions, Excitements to the field or speech for truce, [[success|Success]] or loss, what is or is not, serves As stuff for these two to make paradoxes. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--08_exchange_nestor" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (NESTOR) [8]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| NESTOR | And in the [[Imitation|imitation]] of these twain Who, as [[Ulysses]] says, opinion crowns With an imperial voice, many are infect. [[Ajax]] is grown [[Self|self]]-willed and bears his head In such a rein, in full as proud a place As broad [[Achilles]], and keeps his tent like him, Makes factious feasts, rails on our state of war Bold as an oracle, and sets [[Thersites]], A slave whose gall coins slanders like a mint, To match us in comparisons with dirt, To weaken and discredit our exposure, How rank so ever rounded in with danger. |
-| [[Ulysses|ULYSSES]] | They tax our policy and call it cowardice, Count wisdom as no member of the war, Forestall prescience and esteem no act But that of hand. The still and mental parts That do contrive how many hands shall strike When fitness calls them on, and know by measure Of their observant toil the enemy’s weight, Why, this hath not a finger’s dignity. They call this ‘bed-work’, ‘mapp’ry’, ‘closet war’. So that the ram that batters down the wall, For the great swinge and rudeness of his poise They place before his hand that made the engine, Or those that with the finesse of their souls By reason guide his execution. |
-| NESTOR | Let this be granted, and [[Achilles]]’ [[Horse|horse]] Makes many Thetis’ sons. Tucket |
-| [[Agamemnon|AGAMEMNON]] | What trumpet? Look, Menelaus. |
-| MENELAUS | From Troy. Enter Aeneas and a trumpeter |
-| [[Agamemnon|AGAMEMNON]] | What would you fore our tent? |
-| AENEAS | Is this great [[Agamemnon]]’s tent I pray you? |
-| [[Agamemnon|AGAMEMNON]] | Even this. |
-| AENEAS | May one that is a herald and a prince Do a fair message to his kingly ears? |
-| [[Agamemnon|AGAMEMNON]] | With surety stronger than [[Achilles]]’ arm, Fore all the Greekish heads, which with one voice Call [[Agamemnon]] heart and general. |
-| AENEAS | Fair leave and large security. How may A stranger to those most imperial looks Know them from eyes of other mortals? |
-| [[Agamemnon|AGAMEMNON]] | How? |
-| AENEAS | Ay, I ask that I might waken reverence And on the cheek be ready with a blush Modest as morning when she coldly eyes The youthful Phoebus. Which is that god in office, guiding men? Which is the high and mighty [[Agamemnon]]? |
-| [[Agamemnon|AGAMEMNON]] | (to the Greeks) This Trojan scorns us, or the men of Troy Are ceremonious courtiers. |
-| AENEAS | Courtiers as free, as debonair, unarmed, As bending angels—that’s their fame in peace. But when they would seem soldiers they have galls, Good arms, strong joints, true swords—and great Jove’s acorn Nothing so full of heart. But peace, Aeneas, Peace, Trojan; lay thy finger on thy lips. The worthiness of praise distains his worth, If that the praised himself bring the praise forth. But what, repining, the enemy commends, That breath fame blows; that praise, sole pure, transcends. |
-| [[Agamemnon|AGAMEMNON]] | Sir, you of Troy, call you yourself Aeneas? |
-| AENEAS | Ay, Greek, that is my name. |
-| [[Agamemnon|AGAMEMNON]] | What’s your affair, I pray you? |
-| AENEAS | Sir, pardon, ’tis for [[Agamemnon]]’s ears. |
-| [[Agamemnon|AGAMEMNON]] | He hears naught privately that comes from Troy. |
-| AENEAS | Nor I from Troy come not to whisper him. I bring a trumpet to awake his ear, To set his sense on the attentive bent, And then to speak. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--09_exchange_agamemnon" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (AGAMEMNON) [9]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Agamemnon|AGAMEMNON]] | Speak frankly as the [[Wind|wind]]. It is not [[Agamemnon]]’s sleeping hour. That thou shalt know, Trojan, he is awake, He tells thee so himself. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--10_monologue_aeneas" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (AENEAS) [10]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| AENEAS | Trumpet, blow loud. Send thy brass voice through all these lazy tents, And every Greek of mettle let him know What Troy means fairly shall be spoke aloud. The trumpet sounds We have, great [[Agamemnon]], here in Troy A prince called [[Hector]]—Priam is his father— Who in this dull and long-continued truce Is resty grown. He bade me take a trumpet And to this purpose speak: ‘Kings, princes, lords, If there be one among the fair’st of Greece That holds his [[Honour|honour]] higher than his ease, That seeks his praise more than he fears his peril, That knows his valour and knows not his [[Fear|fear]], That loves his mistress more than in confession With truant vows to her own lips he loves, And dare avow her [[Beauty|beauty]] and her worth In other arms than hers—to him this challenge. [[Hector]] in view of Trojans and of Greeks Shall make it good, or do his best to do it: He hath a lady wiser, fairer, truer, Than ever Greek did compass in his arms, And will tomorrow with his trumpet call Midway between your tents and walls of Troy To rouse a Grecian that is true in [[Love|love]]. If any come, [[Hector]] shall [[Honour|honour]] him. If none, he’ll say in Troy when he retires The Grecian dames are sunburnt and not worth The splinter of a lance.’ Even so much. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--11_exchange_agamemnon" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (AGAMEMNON) [11]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Agamemnon|AGAMEMNON]] | This shall be told our [[lovers]], Lord Aeneas. If none of them have [[Soul|soul]] in such a kind, We left them all at [[Home|home]]. But we are soldiers, And may that soldier a mere recreant prove That means not, hath not, or is not in [[Love|love]]. If then one is, or hath, or means to be, That one meets [[Hector]]. If none else, I’ll be he. |
-| NESTOR | (to Aeneas) Tell him of Nestor, one that was a man When [[Hector]]’s grandsire sucked. He is old now, But if there be not in our Grecian mould One noble man that hath one spark of [[Fire|fire]] To answer for his [[Love|love]], tell him from me I’ll hide my silver beard in a gold beaver And in my vambrace put this withered brawn, And meeting him will tell him that my lady Was fairer than his grandam, and as chaste As may be in the world. His youth in flood, I’ll prove this [[Truth|truth]] with my three drops of [[Blood|blood]]. |
-| AENEAS | Now heavens forbid such scarcity of youth. |
-| [[Ulysses|ULYSSES]] | Amen. |
-| [[Agamemnon|AGAMEMNON]] | Fair Lord Aeneas, let me touch your hand. To our pavilion shall I lead you first. [[Achilles]] shall have word of this intent; So shall each lord of Greece, from tent to tent. Yourself shall feast with us before you go, And find the welcome of a noble foe. Exeunt all but [[Ulysses]] and Nestor |
-| [[Ulysses|ULYSSES]] | Nestor! |
-| NESTOR | What says [[Ulysses]]? |
-| [[Ulysses|ULYSSES]] | I have a young Conception in my brain; be you my [[Time|time]] To bring it to some shape. |
-| NESTOR | What is’t? |
-| [[Ulysses|ULYSSES]] | This ’tis: Blunt wedges rive hard knots. The seeded [[Pride|pride]] That hath to this maturity blown up In rank [[Achilles]] must or now be cropped Or, shedding, breed a nursery of like evil To overbulk us all. |
-| NESTOR | [[Well]], and how? |
-| [[Ulysses|ULYSSES]] | This challenge that the gallant [[Hector]] sends, However it is spread in general name, Relates in purpose only to [[Achilles]]. |
-| NESTOR | The purpose is perspicuous, even as substance Whose grossness little characters sum up. And, in the publication, make no strain But that [[Achilles]], were his brain as barren As banks of Libya—though, [[Apollo]] knows, ’Tis dry enough—will with great [[Speed|speed]] of judgement, Ay with celerity, find [[Hector]]’s purpose Pointing on him. |
-| [[Ulysses|ULYSSES]] | And wake him to the answer, think you? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--12_monologue_nestor" data-title="Troilus and Cressida — Act I, Scene 3 — monologue (NESTOR) [12]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| NESTOR | Yes, ‘tis most meet. Who may you else oppose, That can from [[Hector]] bring his [[Honour|honour]] off, If not [[Achilles]]? Though’t be a sportful combat, Yet in this trial much opinion dwells, For here the Trojans taste our dear’st repute With their fin‘st palate. And trust to me, [[Ulysses]], Our imputation shall be oddly poised In this wild action: for the [[success]], Although particular, shall give a scantling Of good or bad unto the general— And in such indices, although small pricks To their subsequent volumes, there is seen The baby figure of the giant mass Of things to come at large. It is supposed He that meets [[Hector]] issues from our choice, And choice, being mutual act of all our souls, Makes merit her election, and doth boil, As ’twere, from forth us all a man distilled Out of our virtues—who miscarrying, What heart from hence receives the conqu‘ring part To steel a strong opinion to themselves? Which entertained, limbs are e’en his instruments, In no less working than are swords and bows Directive by the limbs. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--13_exchange_ulysses" data-title="Troilus and Cressida — Act I, Scene 3 — exchange (ULYSSES) [13]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Ulysses|ULYSSES]] | Give pardon to my speech: Therefore ’tis meet [[Achilles]] meet not [[Hector]]. Let us like merchants show our foulest wares And think perchance they’ll sell. If not, The lustre of the better yet to show Shall show the better. Do not consent That ever [[Hector]] and [[Achilles]] meet, For both our [[Honour|honour]] and our shame in this Are dogged with two strange followers. |
-| NESTOR | I see them not with my old eyes. What are they? |
-| [[Ulysses|ULYSSES]] | What glory our [[Achilles]] shares from [[Hector]], Were he not proud we all should wear with him. But he already is too insolent, And we were better parch in Afric sun Than in the [[Pride|pride]] and salt scorn of his eyes, Should he scape [[Hector]] fair. If he were foiled, Why then we did our main opinion crush In taint of our best man. No, make a lott’ry, And by device let blockish [[Ajax]] draw The sort to fight with [[Hector]]. Among ourselves Give him allowance as the worthier man— For that will physic the great Myrmidon, Who broils in loud applause, and make him fall His crest, that prouder than blue Iris bends. If the dull brainless [[Ajax]] come safe off, We’ll dress him up in voices; if he fail, Yet go we under our opinion still That we have better men. But hit or miss, Our project’s life this shape of sense assumes: [[Ajax]] employed plucks down [[Achilles]]’ plumes. |
-| NESTOR | Now, [[Ulysses]], I begin to relish thy advice, And I will give a taste of it forthwith To [[Agamemnon]]. Go we to him straight. Two curs shall tame each other; [[Pride|pride]] [[Alone|alone]] Must tarre the mastiffs on, as ’twere their bone. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Troilus and Cressida — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Ajax]] and [[Thersites]] |
-| [[Ajax|AJAX]] | [[Thersites]]. |
-| [[Thersites|THERSITES]] | [[Agamemnon]]—how if he had boils, full, all over, generally? |
-| [[Ajax|AJAX]] | [[Thersites]]. |
-| [[Thersites|THERSITES]] | And those boils did run? Say so, did not the General run then? Were not that a botchy core? |
-| [[Ajax|AJAX]] | Dog. |
-| [[Thersites|THERSITES]] | Then there would come some matter from him. I see none now. |
-| [[Ajax|AJAX]] | Thou bitch-wolf’s son, canst thou not hear? Feel then. He strikes [[Thersites]] |
-| [[Thersites|THERSITES]] | The plague of Greece upon thee, thou mongrel beef-witted lord! |
-| [[Ajax|AJAX]] | Speak then, thou unsifted leaven, speak! I will beat thee into handsomeness. |
-| [[Thersites|THERSITES]] | I shall sooner rail thee into wit and holiness. But I think thy [[Horse|horse]] will sooner con an oration than thou learn a [[prayer]] without book. [[Ajax]] strikes him Thou canst strike, canst thou? A red murrain o’ thy jade’s tricks. |
-| [[Ajax|AJAX]] | Toad’s stool! He strikes [[Thersites]] Learn me the proclamation. |
-| [[Thersites|THERSITES]] | Dost thou think I have no sense, thou strikest me thus? |
-| [[Ajax|AJAX]] | The proclamation. |
-| [[Thersites|THERSITES]] | Thou art proclaimed a [[Fool|fool]], I think. |
-| [[Ajax|AJAX]] | Do not, porcupine, do not. My fingers itch. |
-| [[Thersites|THERSITES]] | I would thou didst itch from head to foot. An I had the scratching of thee, I would make thee the loathsomest scab in Greece. |
-| [[Ajax|AJAX]] | I say, the proclamation. |
-| [[Thersites|THERSITES]] | Thou grumblest and railest every hour on [[Achilles]], and thou art as full of envy at his [[Greatness|greatness]] as Cerberus is at Proserpina’s [[Beauty|beauty]], ay, that thou barkest at him. |
-| [[Ajax|AJAX]] | Mistress [[Thersites]]. |
-| [[Thersites|THERSITES]] | Thou shouldst strike him. |
-| [[Ajax|AJAX]] | Cobloaf. |
-| [[Thersites|THERSITES]] | He would pun thee into shivers with his fist, as a sailor breaks a biscuit. |
-| [[Ajax|AJAX]] | You whoreson cur. He strikes [[Thersites]] |
-| [[Thersites|THERSITES]] | Do! Do! |
-| [[Ajax|AJAX]] | Thou stool for a [[Witch|witch]]. He strikes [[Thersites]] |
-| [[Thersites|THERSITES]] | Ay, do, do! Thou sodden-witted lord, thou hast in thy skull no more brain than I have in mine elbows. An asnico may tutor thee. Thou scurvy valiant ass, thou art here but to thrash Trojans, and thou art bought and sold among those of any wit like a barbarian slave. If thou use to beat me, I will begin at thy heel and tell what thou art by inches, thou thing of no bowels, thou. |
-| [[Ajax|AJAX]] | You dog. |
-| [[Thersites|THERSITES]] | You scurvy lord. |
-| [[Ajax|AJAX]] | You cur. He strikes [[Thersites]] |
-| [[Thersites|THERSITES]] | Mars his idiot! Do, rudeness! Do, camel, do, do! Enter [[Achilles]] and Patroclus |
-| [[Achilles|ACHILLES]] | Why, how now, [[Ajax]]? Wherefore do ye thus? How now, [[Thersites]]? What’s the matter, man? |
-| [[Thersites|THERSITES]] | You see him there? Do you? |
-| [[Achilles|ACHILLES]] | Ay. What’s the matter? |
-| [[Thersites|THERSITES]] | Nay, look upon him. |
-| [[Achilles|ACHILLES]] | So I do. What’s the matter? |
-| [[Thersites|THERSITES]] | Nay, but regard him [[Well|well]]. |
-| [[Achilles|ACHILLES]] | ‘[[Well]]’? Why, I do so. |
-| [[Thersites|THERSITES]] | But yet you look not [[Well|well]] upon him. For whosomever you take him to be, he is [[Ajax]]. |
-| [[Achilles|ACHILLES]] | I know that, [[Fool|fool]]. |
-| [[Thersites|THERSITES]] | Ay, but ‘that [[Fool|fool]]’ knows not himself. |
-| [[Ajax|AJAX]] | Therefore I beat thee. |
-| [[Thersites|THERSITES]] | Lo, lo, lo, lo, what modicums of wit he utters. His evasions have ears thus long. I have bobbed his brain more than he has beat my bones. I will buy nine sparrows for a penny, and his pia mater is not worth the ninth part of a sparrow. This lord, [[Achilles]]—[[Ajax]], who wears his wit in his belly and his guts in his head—I’ll tell you what I say of him. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--02_exchange_achilles" data-title="Troilus and Cressida — Act II, Scene 1 — exchange (ACHILLES) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Achilles|ACHILLES]] | What? |
-| [[Thersites|THERSITES]] | I say, this [[Ajax]]— [[Ajax]] threatens to strike him |
-| [[Achilles|ACHILLES]] | Nay, good [[Ajax]]. |
-| [[Thersites|THERSITES]] | Has not so much wit— [[Ajax]] threatens to strike him |
-| [[Achilles|ACHILLES]] | (to [[Ajax]]) Nay, I must hold you. |
-| [[Thersites|THERSITES]] | As will stop the eye of [[Helen]]’s needle, for whom he comes to fight. |
-| [[Achilles|ACHILLES]] | Peace, [[Fool|fool]]. |
-| [[Thersites|THERSITES]] | I would have peace and quietness, but the [[Fool|fool]] will not. He, there, that he, look you there. |
-| [[Ajax|AJAX]] | O thou damned cur I shall— |
-| [[Achilles|ACHILLES]] | (to [[Ajax]]) Will you set your wit to a [[Fool|fool]]’s? |
-| [[Thersites|THERSITES]] | No, I warrant you, for a [[Fool|fool]]’s will shame it. |
-| PATROCLUS | Good words, [[Thersites]]. |
-| [[Achilles|ACHILLES]] | (to [[Ajax]]) What’s the quarrel? |
-| [[Ajax|AJAX]] | I bade the vile owl go learn me the tenor of the proclamation, and he rails upon me. |
-| [[Thersites|THERSITES]] | I serve thee not. |
-| [[Ajax|AJAX]] | [[Well]], go to, go to. |
-| [[Thersites|THERSITES]] | I serve here voluntary. |
-| [[Achilles|ACHILLES]] | Your last service was sufferance. ‘Twas not voluntary: no man is beaten voluntary. [[Ajax]] was here the voluntary, and you as under an impress. |
-| [[Thersites|THERSITES]] | E’en so. A great deal of your wit, too, lies in your sinews, or else there be liars. [[Hector]] shall have a great catch an a knock out either of your brains. A were as good crack a fusty nut with no kernel. |
-| [[Achilles|ACHILLES]] | What, with me too, [[Thersites]]? |
-| [[Thersites|THERSITES]] | There’s [[Ulysses]] and old Nestor, whose wit was mouldy ere your grandsires had nails on their toes, yoke you like draught oxen and make you plough up the war. |
-| [[Achilles|ACHILLES]] | What? What? |
-| [[Thersites|THERSITES]] | Yes, good sooth. To [[Achilles]]! To, [[Ajax]], to— |
-| [[Ajax|AJAX]] | I shall cut out your tongue. |
-| [[Thersites|THERSITES]] | ’Tis no matter. I shall speak as much wit as thou afterwards. |
-| PATROCLUS | No more words, [[Thersites]], peace. |
-| [[Thersites|THERSITES]] | I will hold my peace when [[Achilles]]’ brach bids me, shall I? |
-| [[Achilles|ACHILLES]] | There’s for you, Patroclus. |
-| [[Thersites|THERSITES]] | I will see you hanged like clodpolls ere I come any more to your tents. I will keep where there is wit stirring, and leave the faction of fools. Exit |
-| PATROCLUS | A good riddance. |
-| [[Achilles|ACHILLES]] | (to [[Ajax]]) Marry, this, sir, is proclaimed through all our host: That [[Hector]], by the fifth hour of the sun, Will with a trumpet ‘twixt our tents and Troy Tomorrow morning call some knight to arms That hath a stomach, and such a one that dare Maintain—I know not what. ’Tis trash. Farewell. |
-| [[Ajax|AJAX]] | Farewell. Who shall answer him? |
-| [[Achilles|ACHILLES]] | I know not. ‘Tis put to lott’ry. Otherwise, He knew his man. Exeunt [[Achilles]] and Patroclus |
-| [[Ajax|AJAX]] | O, meaning you? I will go learn more of it. Exit |
-| *(didascalia)* | 2.2 Sennet. Enter [[King]] Priam, [[Hector]], [[Troilus]], [[Paris]], and Helenus |
-| PRIAM | After so many hours, lives, speeches spent, Thus once again says Nestor from the Greeks: ‘Deliver [[Helen]], and all damage else— As [[Honour|honour]], loss of [[Time|time]], travail, expense, Wounds, friends, and what else dear that is consumed In hot digestion of this cormorant war— Shall be struck off.’ [[Hector]], what say you to’t? |
-| [[Hector|HECTOR]] | Though no man lesser fears the Greeks than I, As far as toucheth my particular, yet, dread Priam, There is no lady of more softer bowels, More spongy to suck in the sense of [[Fear|fear]], More ready to cry out, ‘Who knows what follows?’ Than [[Hector]] is. The wound of peace is surety, Surety secure; but modest [[Doubt|doubt]] is called The beacon of the wise, the tent that searches To th’ [[Bottom|bottom]] of the worst. Let [[Helen]] go. Since the first [[Sword|sword]] was drawn about this question, Every tithe-[[Soul|soul]], ’mongst many thousand dimes, Hath been as dear as [[Helen]]—I mean, of ours. If we have lost so many tenths of ours To guard a thing not ours—nor worth to us, Had it our name, the value of one ten— What merit’s in that reason which denies The yielding of her up? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--03_exchange_troilus" data-title="Troilus and Cressida — Act II, Scene 1 — exchange (TROILUS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Troilus|TROILUS]] | Fie, fie, my brother! Weigh you the worth and [[Honour|honour]] of a [[King|king]] So great as our dread father in a scale Of common ounces? Will you with counters sum The past-proportion of his infinite, And buckle in a waist most fathomless With spans and inches so diminutive As fears and reasons? Fie, for godly shame! |
-| HELENUS | No marvel though you bite so sharp at reasons, You are so empty of them. Should not our father Bear the great sway of his affairs with reason Because your speech hath none that tells him so? |
-| [[Troilus|TROILUS]] | You are for [[Dreams|dreams]] and slumbers, brother priest. You fur your gloves with ‘reason’. Here are your reasons: You know an enemy intends you harm, You know a [[Sword|sword]] employed is perilous, And reason flies the object of all harm. Who marvels then, when Helenus beholds A Grecian and his [[Sword|sword]], if he do set The very wings of reason to his heels And fly like chidden Mercury from Jove, Or like a star disorbed? Nay, if we talk of reason, Let’s shut our gates and [[Sleep|sleep]]. Manhood and [[Honour|honour]] Should have hare hearts, would they but fat their thoughts With this crammed reason. Reason and respect Make livers pale and lustihood deject. |
-| [[Hector|HECTOR]] | Brother, she is not worth what she doth cost The holding. |
-| [[Troilus|TROILUS]] | What’s aught but as ’tis valued? |
-| [[Hector|HECTOR]] | But value dwells not in particular will. It holds his estimate and dignity As [[Well|well]] wherein ‘tis precious of itself As in the prizer. ’Tis mad idolatry To make the service greater than the god; And the will dotes that is inclinable To what infectiously itself affects Without some image of th’affected merit. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--04_monologue_troilus" data-title="Troilus and Cressida — Act II, Scene 1 — monologue (TROILUS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Troilus|TROILUS]] | I take today a wife, and my election Is led on in the conduct of my will; My will enkindled by mine eyes and ears, Two traded pilots ‘twixt the dangerous shores Of will and judgement. How may I avoid— Although my will distaste what it elected— The wife I chose? There can be no evasion To blench from this and to stand firm by [[Honour|honour]]. We turn not back the silks upon the merchant When we have spoiled them; nor the remainder viands We do not throw in unrespective sewer Because we now are full. It was thought meet [[Paris]] should do some vengeance on the Greeks. Your breath of full consent bellied his sails; The seas and winds, old wranglers, took a truce And did him service. He touched the ports desired, And for an old aunt whom the Greeks held captive He brought a Grecian [[Queen|queen]], whose youth and freshness Wrinkles [[Apollo]]’s and makes stale the morning. Why keep we her? The Grecians keep our aunt. Is she worth keeping? Why, she is a pearl Whose price hath launched above a thousand ships And turned crowned kings to merchants. If you’ll avouch ’twas wisdom [[Paris]] went— As you must needs, for you all cried, ‘Go, go!’; If you’ll confess he brought [[Home|home]] noble prize— As you must needs, for you all clapped your hands And cried, ‘Inestimable!’—why do you now The issue of your proper wisdoms rate, And do a deed that never fortune did: Beggar the estimation which you prized Richer than sea and land? O theft most base, That we have stol’n what we do [[Fear|fear]] to keep! But thieves unworthy of a thing so stol’n, That in their country did them that disgrace We [[Fear|fear]] to warrant in our native place. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--05_exchange_cassandra" data-title="Troilus and Cressida — Act II, Scene 1 — exchange (CASSANDRA) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CASSANDRA | within Cry, Trojans, cry! |
-| PRIAM | What noise? What shriek is this? |
-| [[Troilus|TROILUS]] | ’Tis our mad sister. I do know her voice. |
-| CASSANDRA | within Cry, Trojans! |
-| [[Hector|HECTOR]] | It is Cassandra. Enter Cassandra raving, with her hair about her ears |
-| CASSANDRA | Cry, Trojans, cry! Lend me ten thousand eyes And I will fill them with prophetic [[Tears|tears]]. |
-| [[Hector|HECTOR]] | Peace, sister, peace. |
-| CASSANDRA | Virgins and boys, mid-age, and wrinkled old, Soft infancy that nothing canst but cry, Add to my clamours. Let us pay betimes A moiety of that mass of moan to come. Cry, Trojans, cry! Practise your eyes with [[Tears|tears]]. Troy must not be, nor goodly Ilium stand. Our firebrand brother, [[Paris]], burns us all. Cry, Trojans, cry! Ah [[Helen]], and ah woe! Cry, cry ‘Troy burns!’—or else let [[Helen]] go. Exit |
-| [[Hector|HECTOR]] | Now, youthful [[Troilus]], do not these high strains Of divination in our sister work Some touches of remorse? Or is your [[Blood|blood]] So madly hot that no discourse of reason, Nor [[Fear|fear]] of bad [[success]] in a bad cause, Can qualify the same? |
-| [[Troilus|TROILUS]] | Why, brother [[Hector]], We may not think the justness of each act Such and no other than the event doth form it, Nor once deject the [[Courage|courage]] of our minds Because Cassandra’s mad. Her brainsick raptures Cannot distaste the goodness of a quarrel Which hath our several honours all engaged To make it gracious. For my private part, I am no more touched than all Priam’s sons. And Jove forbid there should be done amongst us Such things as might offend the weakest spleen To fight for and maintain. |
-| [[Paris|PARIS]] | Else might the world convince of levity As [[Well|well]] my undertakings as your counsels. But I attest the gods, your full consent Gave wings to my propension and cut off All fears attending on so dire a project. For what, alas, can these my single arms? What propugnation is in one man’s valour To stand the push and enmity of those This quarrel would excite? Yet I protest, Were I [[Alone|alone]] to pass the difficulties And had as ample power as I have will, [[Paris]] should ne’er retract what he hath done Nor faint in the pursuit. |
-| PRIAM | [[Paris]], you speak Like one besotted on your sweet delights. You have the honey still, but these the gall. So to be valiant is no praise at all. |
-| [[Paris|PARIS]] | Sir, I propose not merely to myself The pleasures such a [[Beauty|beauty]] brings with it, But I would have the soil of her fair rape Wiped off in honourable keeping her. What treason were it to the ransacked [[Queen|queen]], Disgrace to your great worths, and shame to me, Now to deliver her possession up On terms of base compulsion? Can it be That so degenerate a strain as this Should once set footing in your generous bosoms? There’s not the meanest spirit on our party Without a heart to dare or [[Sword|sword]] to draw When [[Helen]] is defended; nor none so noble Whose life were ill bestowed or [[Death|death]] unfamed Where [[Helen]] is the subject. Then I say: [[Well]] may we fight for her whom we know [[Well|well]] The world’s large spaces cannot parallel. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--06_monologue_hector" data-title="Troilus and Cressida — Act II, Scene 1 — monologue (HECTOR) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Hector|HECTOR]] | [[Paris]] and [[Troilus]], you have both said [[Well|well]], But on the cause and question now in hand Have glossed but superficially—not much Unlike young men, whom Aristotle thought Unfit to hear moral [[philosophy]]. The reasons you allege do more conduce To the hot passion of distempered [[Blood|blood]] Than to make up a free determination ‘Twixt right and wrong; for pleasure and [[Revenge|revenge]] Have ears more deaf than adders to the voice Of any true decision. [[Nature]] craves All dues be rendered to their owners. Now, What nearer debt in all humanity Than wife is to the husband? If this law Of [[Nature|nature]] be corrupted through affection, And that great minds, of partial indulgence To their benumbed wills, resist the same, There is a law in each [[Well|well]]-ordered nation To curb those raging appetites that are Most disobedient and refractory. If [[Helen]] then be wife to Sparta’s [[King|king]], As it is known she is, these moral laws Of [[Nature|nature]] and of nations speak aloud To have her back returned. Thus to persist In doing wrong extenuates not wrong, But makes it much more heavy. [[Hector]]’s opinion Is this in way of [[Truth|truth]]—yet ne’ertheless, My sprightly brethren, I propend to you In resolution to keep [[Helen]] still; For ’tis a cause that hath no mean dependence Upon our joint and several dignities. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--07_exchange_troilus" data-title="Troilus and Cressida — Act II, Scene 1 — exchange (TROILUS) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Troilus|TROILUS]] | Why, there you touched the life of our design. Were it not glory that we more affected Than the performance of our heaving spleens, I would not wish a drop of Trojan [[Blood|blood]] Spent more in her defence. But, worthy [[Hector]], She is a theme of [[Honour|honour]] and renown, A spur to valiant and magnanimous deeds, Whose present [[Courage|courage]] may beat down our foes, And fame in [[Time|time]] to come canonize us— For I presume brave [[Hector]] would not lose So rich advantage of a promised glory As smiles upon the forehead of this action For the wide world’s revenue. |
-| [[Hector|HECTOR]] | I am yours, You valiant offspring of great Priamus. I have a roisting challenge sent amongst The dull and factious nobles of the Greeks Will shriek amazement to their drowsy spirits. I was advertised their great general slept Whilst emulation in the army crept; This I presume will wake him. Flourish. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Troilus and Cressida — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Thersites]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--02_monologue_thersites" data-title="Troilus and Cressida — Act II, Scene 3 — monologue (THERSITES) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Thersites|THERSITES]] | How now, [[Thersites]]? What, lost in the labyrinth of thy fury? Shall the elephant [[Ajax]] carry it thus? He beats me and I rail at him. O worthy satisfaction! Would it were otherwise: that I could beat him whilst he railed at me. ‘Sfoot, I’ll learn to conjure and raise devils but I’ll see some issue of my spiteful execrations. Then there’s [[Achilles]]: a rare engineer. If Troy be not taken till these two undermine it, the walls will stand till they fall of themselves. O thou great thunder-darter of Olympus, forget that thou art Jove, the [[King|king]] of gods; and Mercury, lose all the serpentine craft of thy caduceus, if ye take not that little, little, less than little wit from them that they have—which short-armed ignorance itself knows is so abundant-scarce it will not in circumvention deliver a fly from a spider without drawing their massy irons and cutting the web. After this, the vengeance on the whole camp—or rather, the Neapolitan bone-ache, for that methinks is the curse dependent on those that war for a placket. I have said my prayers, and devil Envy say ‘Amen’.—What ho! My lord [[Achilles]]! Enter Patroclus at the door to the tent |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--03_exchange_patroclus" data-title="Troilus and Cressida — Act II, Scene 3 — exchange (PATROCLUS) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PATROCLUS | Who’s there? [[Thersites]]? Good [[Thersites]], come in and rail. Exit |
-| [[Thersites|THERSITES]] | If I could ha’ remembered a gilt counterfeit, thou wouldst not have slipped out of my contemplation; but it is no matter. Thyself upon thyself! The common curse of mankind, folly and ignorance, be thine in great revenue! Heaven bless thee from a tutor, and discipline come not near thee! Let thy [[Blood|blood]] be thy direction till thy [[Death|death]]! Then if she that lays thee out says thou art a fair corpse, I’ll be sworn and sworn upon’t she never shrouded any but lazars. Enter Patroclus Amen.—Where’s [[Achilles]]? |
-| PATROCLUS | What, art thou devout? Wast thou in [[prayer]]? |
-| [[Thersites|THERSITES]] | Ay. The heavens hear me! |
-| PATROCLUS | Amen. Enter [[Achilles]] |
-| [[Achilles|ACHILLES]] | Who’s there? |
-| PATROCLUS | [[Thersites]], my lord. |
-| [[Achilles|ACHILLES]] | Where? Where? O where?—Art thou come? Why, my [[cheese]], my digestion, why hast thou not served thyself into my table so many meals? Come: what’s [[Agamemnon]]? |
-| [[Thersites|THERSITES]] | Thy commander, [[Achilles]].—Then tell me, Patroclus, what’s [[Achilles]]? |
-| PATROCLUS | Thy lord, [[Thersites]]. Then tell me, I pray thee, what’s [[Thersites]]? |
-| [[Thersites|THERSITES]] | Thy knower, Patroclus. Then tell me, Patroclus, what art thou? |
-| PATROCLUS | Thou mayst tell, that knowest. |
-| [[Achilles|ACHILLES]] | O tell, tell. |
-| [[Thersites|THERSITES]] | I’ll decline the whole question. [[Agamemnon]] commands [[Achilles]], [[Achilles]] is my lord, I am Patroclus’ knower, and Patroclus is a [[Fool|fool]]. |
-| PATROCLUS | You rascal. |
-| [[Thersites|THERSITES]] | Peace, [[Fool|fool]], I have not done. |
-| [[Achilles|ACHILLES]] | (to Patroclus) He is a privileged man.—Proceed, [[Thersites]]. |
-| [[Thersites|THERSITES]] | [[Agamemnon]] is a [[Fool|fool]], [[Achilles]] is a [[Fool|fool]], [[Thersites]] is a [[Fool|fool]], and as aforesaid Patroclus is a [[Fool|fool]]. |
-| [[Achilles|ACHILLES]] | Derive this. Come. |
-| [[Thersites|THERSITES]] | [[Agamemnon]] is a [[Fool|fool]] to offer to command [[Achilles]]; [[Achilles]] is a [[Fool|fool]] to be commanded of [[Agamemnon]]; [[Thersites]] is a [[Fool|fool]] to serve such a [[Fool|fool]]; and Patroclus is a [[Fool|fool]] positive. |
-| PATROCLUS | Why am I a [[Fool|fool]]? |
-| [[Thersites|THERSITES]] | Make that demand to the Creator. It suffices me thou art. Look you, who comes here? Enter [[Agamemnon]], [[Ulysses]], Nestor, Diomedes, [[Ajax]], and Calchas |
-| [[Achilles|ACHILLES]] | Patroclus, I’ll speak with nobody.—Come in with me, [[Thersites]]. Exit |
-| [[Thersites|THERSITES]] | Here is such patchery, such juggling and such knavery. All the argument is a whore and a cuckold. A good quarrel to draw emulous factions and bleed to [[Death|death]] upon. Now the dry serpigo on the subject, and war and lechery confound all. Exit |
-| [[Agamemnon|AGAMEMNON]] | (to Patroclus) Where is [[Achilles]]? |
-| PATROCLUS | Within his tent; but ill-disposed, my lord. |
-| [[Agamemnon|AGAMEMNON]] | Let it be known to him that we are here. He faced our messengers, and we lay by Our appertainments, visiting of him. Let him be told so, lest perchance he think We dare not move the question of our place, Or know not what we are. |
-| PATROCLUS | I shall so say to him. Exit |
-| [[Ulysses|ULYSSES]] | We saw him at the opening of his tent. He is not sick. |
-| [[Ajax|AJAX]] | Yes, [[Lion|lion]]-sick: sick of proud heart. You may call it ‘[[Melancholy|melancholy]]’ if you will favour the man, but by my head ’tis [[Pride|pride]]. But why? Why? Let him show us the cause. To [[Agamemnon]] A word, my lord. [[Ajax]] and [[Agamemnon]] talk apart |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--04_exchange_nestor" data-title="Troilus and Cressida — Act II, Scene 3 — exchange (NESTOR) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| NESTOR | What moves [[Ajax]] thus to bay at him? |
-| [[Ulysses|ULYSSES]] | [[Achilles]] hath inveigled his [[Fool|fool]] from him. |
-| NESTOR | Who? [[Thersites]]? |
-| [[Ulysses|ULYSSES]] | He. |
-| NESTOR | Then will [[Ajax]] lack matter, if he have lost his argument. |
-| [[Ulysses|ULYSSES]] | No, you see, he is his argument that has his argument: [[Achilles]]. |
-| NESTOR | All the better—their fraction is more our wish than their faction. But it was a strong council that a [[Fool|fool]] could disunite. |
-| [[Ulysses|ULYSSES]] | The amity that wisdom knits not, folly may easily untie. Enter Patroclus Here comes Patroclus. |
-| NESTOR | No [[Achilles]] with him. |
-| [[Ulysses|ULYSSES]] | The elephant hath joints, but none for courtesy: his legs are legs for necessity, not for flexure. |
-| PATROCLUS | (to [[Agamemnon]]) [[Achilles]] bids me say he is much sorry If anything more than your sport and pleasure Did move your [[Greatness|greatness]] and this noble state To call upon him. He hopes it is no other But for your health and your digestion’s sake: no An after-dinner’s breath. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--05_monologue_agamemnon" data-title="Troilus and Cressida — Act II, Scene 3 — monologue (AGAMEMNON) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Agamemnon|AGAMEMNON]] | Hear you, Patroclus. We are too [[Well|well]] acquainted with these answers. But his evasion, winged thus swift with scorn, Cannot outfly our apprehensions. Much attribute he hath, and much the reason Why we ascribe it to him. Yet all his virtues, Not virtuously on his own part beheld, Do in our eyes begin to lose their gloss, Yea, and like fair fruit in an unwholesome dish Are like to rot untasted. Go and tell him We come to speak with him—and you shall not sin If you do say we think him over-proud And under-honest, in [[Self|self]]-assumption greater Than in the note of judgement. And worthier than himself Here tend the savage strangeness he puts on, Disguise the holy strength of their command, And underwrite in an observing kind His humorous predominance—yea, watch His pettish lunes, his ebbs, his flows, as if The passage and whole carriage of this action Rode on his tide. Go tell him this, and add That if he overhold his price so much We’ll none of him, but let him, like an engine Not portable, lie under this report: ‘Bring action hither, this cannot go to war.’ A stirring [[Dwarf|dwarf]] we do allowance give Before a sleeping giant. Tell him so. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--06_exchange_patroclus" data-title="Troilus and Cressida — Act II, Scene 3 — exchange (PATROCLUS) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PATROCLUS | I shall, and bring his answer presently. |
-| [[Agamemnon|AGAMEMNON]] | In second voice we’ll not be satisfied; We come to speak with him.—[[Ulysses]], enter you. Exit [[Ulysses]] with Patroclus |
-| [[Ajax|AJAX]] | What is he more than another? |
-| [[Agamemnon|AGAMEMNON]] | No more than what he thinks he is. |
-| [[Ajax|AJAX]] | Is he so much? Do you not think he thinks himself a better man than I am? |
-| [[Agamemnon|AGAMEMNON]] | No question. |
-| [[Ajax|AJAX]] | Will you subscribe his thought, and say he is? |
-| [[Agamemnon|AGAMEMNON]] | No, noble [[Ajax]]. You are as strong, as valiant, as wise, no less noble, much more gentle, and altogether more tractable. |
-| [[Ajax|AJAX]] | Why should a man be proud? How doth [[Pride|pride]] grow? I know not what it is. |
-| [[Agamemnon|AGAMEMNON]] | Your mind is the clearer, [[Ajax]], and your virtues the fairer. He that is proud eats up himself. [[Pride]] is his own glass, his own trumpet, his own chronicle—and whatever praises itself but in the deed devours the deed in the praise. Enter [[Ulysses]] |
-| [[Ajax|AJAX]] | I do hate a proud man as I hate the engendering of toads. |
-| NESTOR | (aside) Yet he loves himself. Is’t not strange? |
-| [[Ulysses|ULYSSES]] | [[Achilles]] will not to the field tomorrow. |
-| [[Agamemnon|AGAMEMNON]] | What’s his excuse? |
-| [[Ulysses|ULYSSES]] | He doth rely on none, But carries on the stream of his dispose Without observance or respect of any, In will peculiar and in [[Self|self]]-admission. |
-| [[Agamemnon|AGAMEMNON]] | Why, will he not, upon our fair request, Untent his person and share the air with us? |
-| [[Ulysses|ULYSSES]] | Things small as nothing, for request’s sake only, He makes important. Possessed he is with [[Greatness|greatness]], And speaks not to himself but with a [[Pride|pride]] That quarrels at [[Self|self]]-breath. Imagined worth Holds in his [[Blood|blood]] such swoll’n and hot discourse That ‘twixt his mental and his active parts Kingdomed [[Achilles]] in commotion rages And batters ’gainst himself. What should I say? He is so plaguy proud that the [[Death|death]] tokens of it Cry ‘No recovery’. |
-| [[Agamemnon|AGAMEMNON]] | Let [[Ajax]] go to him. (To [[Ajax]]) Dear lord, go you and greet him in his tent. ’Tis said he holds you [[Well|well]] and will be led, At your request, a little from himself. |
-| [[Ulysses|ULYSSES]] | O [[Agamemnon]], let it not be so. We’ll consecrate the steps that [[Ajax]] makes When they go from [[Achilles]]. Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as do revolve And ruminate himself—shall he be worshipped Of that we hold an idol more than he? No, this thrice-worthy and right valiant lord Must not so stale his palm, nobly acquired, Nor by my will assubjugate his merit, As amply titled as [[Achilles]]’ is, By going to [[Achilles]]— That were to enlard his fat-already [[Pride|pride]] And add more coals to Cancer when he burns With entertaining great [[Hyperion]]. This lord go to him? Jupiter forbid, And say in thunder ‘[[Achilles]], go to him’. |
-| NESTOR | (aside to Diomedes) O this is [[Well|well]]. He rubs the vein of him. |
-| DIOMEDES | (aside to Nestor) And how his [[Silence|silence]] drinks up this applause. |
-| [[Ajax|AJAX]] | If I go to him, with my armed fist I’ll pash him o’er the face. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--07_exchange_agamemnon_o" data-title="Troilus and Cressida — Act II, Scene 3 — exchange (AGAMEMNON O) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Agamemnon|AGAMEMNON]] | O no, you shall not go. |
-| [[Ajax|AJAX]] | An a be proud with me, I’ll feeze his [[Pride|pride]]. Let me go to him. |
-| [[Ulysses|ULYSSES]] | Not for the worth that hangs upon our quarrel. |
-| [[Ajax|AJAX]] | A paltry insolent fellow. |
-| NESTOR | (aside) How he describes himself! |
-| [[Ajax|AJAX]] | Can he not be sociable? |
-| [[Ulysses|ULYSSES]] | (aside) [[The Raven|The raven]] chides blackness. |
-| [[Ajax|AJAX]] | I’ll let his [[Humour|humour]]’s [[Blood|blood]]. |
-| [[Agamemnon|AGAMEMNON]] | (aside) He will be the physician that should be the patient. |
-| [[Ajax|AJAX]] | An all men were o’ my mind— |
-| [[Ulysses|ULYSSES]] | (aside) Wit would be out of fashion. |
-| [[Ajax|AJAX]] | A should not bear it so. A should eat swords first. Shall [[Pride|pride]] carry it? |
-| NESTOR | (aside) An’t would, you’d carry half. [[Ajax|AJAX]] A would have ten shares. [[Ulysses|ULYSSES]] (aside) I will knead him; I’ll make him supple. He’s not yet through warm. |
-| NESTOR | (aside) Farce him with praises. Pour in, pour in! His [[Ambition|ambition]] is dry. |
-| [[Ulysses|ULYSSES]] | (to [[Agamemnon]]) My lord, you feed too much on this dislike. |
-| NESTOR | (to [[Agamemnon]]) Our noble general, do not do so. |
-| DIOMEDES | (to [[Agamemnon]]) You must prepare to fight without [[Achilles]]. |
-| [[Ulysses|ULYSSES]] | Why, ‘tis this naming of him does him harm. Here is a man—but ’tis before his face. I will be silent. |
-| NESTOR | Wherefore should you so? He is not emulous, as [[Achilles]] is. |
-| [[Ulysses|ULYSSES]] | Know the whole world he is as valiant— |
-| [[Ajax|AJAX]] | A whoreson dog, that shall palter thus with us—would he were a Trojan! |
-| NESTOR | What a vice were it in [[Ajax]] now— |
-| [[Ulysses|ULYSSES]] | If he were proud— |
-| DIOMEDES | Or covetous of praise— |
-| [[Ulysses|ULYSSES]] | Ay, or surly borne— |
-| DIOMEDES | Or strange, or [[Self|self]]-affected. |
-| [[Ulysses|ULYSSES]] | (to [[Ajax]]) Thank the heavens, lord, thou art of sweet composure. Praise him that got thee, she that gave thee suck. Famed be thy tutor, and thy parts of [[Nature|nature]] Thrice famed beyond, beyond all erudition. But he that disciplined thine arms to fight— Let Mars divide [[Eternity|eternity]] in twain, And give him half. And for thy vigour, Bull-bearing Milo his addition yield To sinewy [[Ajax]]. I will not praise thy wisdom, Which like a bourn, a pale, a shore confines Thy spacious and dilated parts. Here’s Nestor, Instructed by the antiquary times: He must, he is, he cannot but be, wise. But pardon, father Nestor: were your days As green as [[Ajax]]’, and your brain so tempered, You should not have the eminence of him, But be as [[Ajax]]. |
-| [[Ajax|AJAX]] | Shall I call you father? |
-| [[Ulysses|ULYSSES]] | Ay, my good son. |
-| DIOMEDES | Be ruled by him, Lord [[Ajax]]. |
-| [[Ulysses|ULYSSES]] | (to [[Agamemnon]]) There is no tarrying here: the hart [[Achilles]] Keeps thicket. Please it our great general To call together all his state of war. Fresh kings are come today to Troy; tomorrow We must with all our main of power stand fast. And here’s a lord, come knights from east to west And cull their flower, [[Ajax]] shall cope the best. |
-| [[Agamemnon|AGAMEMNON]] | Go we to counsel. Let [[Achilles]] [[Sleep|sleep]]. Light boats sail swift, though greater hulks draw deep. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Troilus and Cressida — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Music sounds within. Enter [[Pandarus]] at one door and a Servant at another door |
-| [[Pandarus|PANDARUS]] | Friend? You. Pray you, a word. Do not you follow the young Lord [[Paris]]? |
-| SERVANT | Ay, sir, when he goes before me. |
-| [[Pandarus|PANDARUS]] | You depend upon him, I mean. |
-| SERVANT | Sir, I do depend upon the Lord. |
-| [[Pandarus|PANDARUS]] | You depend upon a notable gentleman; I must needs praise him. |
-| SERVANT | The Lord be praised! |
-| [[Pandarus|PANDARUS]] | You know me—do you not? |
-| SERVANT | [[Faith]], sir, superficially. |
-| [[Pandarus|PANDARUS]] | Friend, know me better. I am the Lord [[Pandarus]]. |
-| SERVANT | I [[Hope|hope]] I shall know your [[Honour|honour]] better. |
-| [[Pandarus|PANDARUS]] | I do [[Desire|desire]] it. |
-| SERVANT | You are in the state of grace? |
-| [[Pandarus|PANDARUS]] | Grace? Not so, friend. ‘[[Honour]]’ and ‘lordship’ are my titles. What music is this? |
-| SERVANT | I do but partly know, sir. It is music in parts. |
-| [[Pandarus|PANDARUS]] | Know you the musicians? |
-| SERVANT | Wholly, sir. |
-| [[Pandarus|PANDARUS]] | Who play they to? |
-| SERVANT | To the hearers, sir. |
-| [[Pandarus|PANDARUS]] | At whose pleasure, friend? |
-| SERVANT | At mine, sir, and theirs that [[Love|love]] music. |
-| [[Pandarus|PANDARUS]] | ‘Command’ I mean, friend. |
-| SERVANT | Who shall I command, sir? |
-| [[Pandarus|PANDARUS]] | Friend, we understand not one another. I am too courtly and thou too cunning. At whose request do these men play? |
-| SERVANT | That’s to’t indeed, sir. Marry, sir, at the request of [[Paris]] my lord, who’s there in person; with him, the mortal [[Venus]], the heart-[[Blood|blood]] of [[Beauty|beauty]], [[Love|love]]’s visible [[Soul|soul]]— |
-| [[Pandarus|PANDARUS]] | Who, my cousin [[Cressida]]? |
-| SERVANT | No, sir, [[Helen]]. Could not you find out that by her attributes? |
-| [[Pandarus|PANDARUS]] | It should seem, fellow, that thou hast not seen the Lady Cressid. I come to speak with [[Paris]] from the Prince [[Troilus]]. I will make a complimental assault upon him, for my business seethes. |
-| SERVANT | Sodden business! There’s a stewed phrase, indeed. Enter [[Paris]] and [[Helen]], attended by musicians |
-| [[Pandarus|PANDARUS]] | Fair be to you, my lord, and to all this fair company. Fair desires in all fair measure fairly guide them—especially to you, fair [[Queen]]. Fair thoughts be your fair pillow. |
-| [[Helen|HELEN]] | Dear lord, you are full of fair words. |
-| [[Pandarus|PANDARUS]] | You speak your fair pleasure, sweet [[Queen]]. (To [[Paris]]) Fair prince, here is good broken music. |
-| [[Paris|PARIS]] | You have broke it, cousin, and by my life you shall make it whole again. You shall piece it out with a piece of your performance.—Nell, he is full of harmony. |
-| [[Pandarus|PANDARUS]] | Truly, lady, no. |
-| [[Helen|HELEN]] | O sir. She tickles him |
-| [[Pandarus|PANDARUS]] | Rude, in sooth, in good sooth very rude. |
-| [[Paris|PARIS]] | [[Well]] said, my lord. Will you say so in fits? |
-| [[Pandarus|PANDARUS]] | I have business to my lord, dear [[Queen]].—My lord, will you vouchsafe me a word? |
-| [[Helen|HELEN]] | Nay, this shall not hedge us out. We’ll hear you sing, certainly. |
-| [[Pandarus|PANDARUS]] | [[Well]], sweet [[Queen]], you are pleasant with me.—But marry, thus, my lord: my dear lord and most esteemed friend, your brother [[Troilus]]— |
-| [[Helen|HELEN]] | My lord [[Pandarus]], honey-sweet lord. |
-| [[Pandarus|PANDARUS]] | Go to, sweet [[Queen]], go tot—commends himself most affectionately to you. |
-| [[Helen|HELEN]] | You shall not bob us out of our melody. If you do, our [[Melancholy|melancholy]] upon your head. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--02_exchange_pandarus" data-title="Troilus and Cressida — Act III, Scene 1 — exchange (PANDARUS) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Pandarus|PANDARUS]] | Sweet [[Queen]], sweet [[Queen]], that’s a sweet [[Queen]]. Ay, [[Faith|faith]]— |
-| [[Helen|HELEN]] | And to make a sweet lady sad is a sour offence. |
-| [[Pandarus|PANDARUS]] | Nay, that shall not serve your turn; that shall it not, in [[Truth|truth]], la. Nay, I care not for such words. No, no.—And, my lord, he desires you that, if the [[King]] call for him at supper, you will make his excuse. |
-| [[Helen|HELEN]] | My lord [[Pandarus]]. |
-| [[Pandarus|PANDARUS]] | What says my sweet [[Queen]], my very very sweet [[Queen]]? |
-| [[Paris|PARIS]] | What exploit’s in hand? Where sups he tonight? |
-| [[Helen|HELEN]] | Nay, but my lord— |
-| [[Pandarus|PANDARUS]] | What says my sweet [[Queen]]? My cousin will fall out with you. |
-| [[Helen|HELEN]] | (to [[Paris]]) You must not know where he sups. |
-| [[Paris|PARIS]] | I’ll lay my life, with my dispenser [[Cressida]]. |
-| [[Pandarus|PANDARUS]] | No, no! No such matter. You are wide. Come, your dispenser is sick. |
-| [[Paris|PARIS]] | [[Well]], I’ll make’s excuse. |
-| [[Pandarus|PANDARUS]] | Ay, good my lord. Why should you say [[Cressida]]? No, your poor dispenser’s sick. |
-| [[Paris|PARIS]] | ‘I spy.’ |
-| [[Pandarus|PANDARUS]] | You spy? What do you spy?—To a musician Come, give me an instrument.—Now, sweet [[Queen]]. |
-| [[Helen|HELEN]] | Why, this is kindly done! |
-| [[Pandarus|PANDARUS]] | My niece is horrible in [[Love|love]] with a thing you have, sweet [[Queen]]. |
-| [[Helen|HELEN]] | She shall have it, my lord—if it be not my lord [[Paris]]. |
-| [[Pandarus|PANDARUS]] | He? No, she’ll none of him. They two are twain. |
-| [[Helen|HELEN]] | Falling in, after falling out, may make them three. |
-| [[Pandarus|PANDARUS]] | Come, come, I’ll hear no more of this. I’ll sing you a [[Song|song]] now. |
-| [[Helen|HELEN]] | Ay, ay, prithee. Now by my troth, sweet lord, thou hast a fine forehead. She strokes his forehead |
-| [[Pandarus|PANDARUS]] | Ay, you may, you may. |
-| [[Helen|HELEN]] | Let thy [[Song|song]] be [[Love|love]]. ‘This [[Love|love]] will undo us all.’ O Cupid, Cupid, Cupid! |
-| [[Pandarus|PANDARUS]] | [[Love]]? Ay, that it shall, i’[[Faith|faith]]. |
-| [[Paris|PARIS]] | Ay, good now, ‘[[Love]], [[Love|love]], nothing but [[Love|love]]’. |
-| [[Pandarus|PANDARUS]] | In good [[Truth|truth]], it begins so. (Sings) [[Love]], [[Love|love]], nothing but [[Love|love]], still [[Love|love]], still more! For O [[Love|love]]’s bow Shoots buck and doe. The shaft confounds Not that it wounds, But tickles still the sore. These [[lovers]] cry ‘O! O!’, they die. Yet that which seems the wound to kill Doth turn ‘O! O!’ to ‘ha ha he!’ So dying [[Love|love]] lives still. ‘O! O!’ a while, but ‘ha ha ha!’ ‘O! O!’ groans out for ‘ha ha ha!’— Heigh-ho. |
-| [[Helen|HELEN]] | In [[Love|love]]—ay, [[Faith|faith]], to the very tip of the nose. |
-| [[Paris|PARIS]] | He eats nothing but doves, [[Love|love]], and that breeds hot [[Blood|blood]], and hot [[Blood|blood]] begets hot thoughts, and hot thoughts beget hot deeds, and hot deeds is [[Love|love]]. |
-| [[Pandarus|PANDARUS]] | Is this the generation of [[Love|love]]: hot [[Blood|blood]], hot thoughts, and hot deeds? Why, they are vipers. Is [[Love|love]] a generation of vipers? Alarum Sweet lord, who’s afield today? |
-| [[Paris|PARIS]] | [[Hector]], Deiphobus, Helenus, Antenor, and all the gallantry of Troy. I would fain have armed today, but my Nell would not have it so. How chance my brother [[Troilus]] went not? |
-| [[Helen|HELEN]] | He hangs the lip at something. You know all, Lord [[Pandarus]]. |
-| [[Pandarus|PANDARUS]] | Not I, honey-sweet [[Queen]]. I long to hear how they sped today.—You’ll remember your brother’s excuse? |
-| [[Paris|PARIS]] | To a hair. |
-| [[Pandarus|PANDARUS]] | Farewell, sweet [[Queen]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--03_exchange_helen" data-title="Troilus and Cressida — Act III, Scene 1 — exchange (HELEN) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Helen|HELEN]] | Commend me to your niece. |
-| [[Pandarus|PANDARUS]] | I will, sweet [[Queen]]. Exit Sound a retreat |
-| [[Paris|PARIS]] | They’re come from field. Let us to Priam’s hall To greet the warriors. Sweet [[Helen]], I must woo you To help unarm our [[Hector]]. His stubborn buckles, With these your white enchanting fingers touched, Shall more obey than to the edge of steel Or force of Greekish sinews. You shall do more Than all the island kings: disarm great [[Hector]]. |
-| [[Helen|HELEN]] | ’Twill make us proud to be his servant, [[Paris]]; Yea, what he shall receive of us in duty Gives us more palm in [[Beauty|beauty]] than we have— Yea, overshines ourself. |
-| [[Paris|PARIS]] | Sweet above thought, I [[Love|love]] thee! Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="Troilus and Cressida — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Pandarus]] at one door and [[Troilus]]’ man at another door |
-| [[Pandarus|PANDARUS]] | How now, where’s thy master? At my cousin [[Cressida]]’s? |
-| MAN | No, sir, he stays for you to conduct him thither. Enter [[Troilus]] |
-| [[Pandarus|PANDARUS]] | O here he comes.—How now, how now? |
-| [[Troilus|TROILUS]] | Sirrah, walk off. Exit Man |
-| [[Pandarus|PANDARUS]] | Have you seen my cousin? |
-| [[Troilus|TROILUS]] | No, [[Pandarus]], I stalk about her door Like a strange [[Soul|soul]] upon the Stygian banks Staying for waftage. O be thou my Charon, And give me swift transportance to those fields Where I may wallow in the lily beds Proposed for the deserver. O gentle Pandar, From Cupid’s shoulder pluck his painted wings And fly with me to Cressid. |
-| [[Pandarus|PANDARUS]] | Walk here i’th’ orchard. I’ll bring her straight. Exit |
-| [[Troilus|TROILUS]] | I am giddy. Expectation whirls me round. Th‘imaginary relish is so sweet That it enchants my sense. What will it be When that the wat’ry palates taste indeed [[Love]]’s thrice-repurèd nectar? [[Death]], I [[Fear|fear]] me, Swooning destruction, or some joy too fine, Too subtle-potent, tuned too sharp in sweetness For the capacity of my ruder powers. I [[Fear|fear]] it much, and I do [[Fear|fear]] besides That I shall lose distinction in my joys, As doth a battle when they charge on heaps The enemy flying. Enter [[Pandarus]] |
-| [[Pandarus|PANDARUS]] | She’s making her ready. She’ll come straight. You must be witty now. She does so blush, and fetches her [[Wind|wind]] so short as if she were frayed with a spirit. I’ll fetch her. It is the prettiest [[Villain|villain]]! She fetches her breath as short as a new-ta’en sparrow. Exit |
-| [[Troilus|TROILUS]] | Even such a passion doth embrace my bosom. My heart beats thicker than a feverous pulse, And all my powers do their bestowing lose, Like vassalage at unawares encount’ring The eye of majesty. Enter [[Pandarus]], with [[Cressida]] veiled |
-| [[Pandarus|PANDARUS]] | (to [[Cressida]]) Come, come, what need you blush? Shame’s a baby. (To [[Troilus]]) Here she is now. Swear the oaths now to her that you have sworn to me. (To [[Cressida]]) What, are you gone again? You must be watched ere you be made tame, must you? Come your ways, come your ways. An you draw backward, we’ll put you i‘th’ thills. (To [[Troilus]]) Why do you not speak to her? (To [[Cressida]]) Come, draw this curtain, and let’s see your picture. He unveils her Alas the day! How loath you are to offend daylight! An’t were dark, you’d close sooner. So, so. (To [[Troilus]]) Rub on, and kiss the mistress. (They kiss) How now, a kiss in fee farm! Build there, carpenter, the air is sweet. Nay, you shall fight your hearts out ere I part you. The falcon as the tercel, for all the ducks i’th’ [[River|river]]. Go to, go to. |
-| [[Troilus|TROILUS]] | You have bereft me of all words, lady. |
-| [[Pandarus|PANDARUS]] | Words pay no debts; give her deeds. But she’ll bereave you o‘th’ deeds too, if she call your activity in question. (They kiss) What, billing again? Here’s ‘in witness whereof the parties interchangeably’. Come in, come in. I’ll go get a [[Fire|fire]]. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--02_exchange_cressida" data-title="Troilus and Cressida — Act III, Scene 2 — exchange (CRESSIDA) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cressida|CRESSIDA]] | Will you walk in, my lord? |
-| [[Troilus|TROILUS]] | O [[Cressida]], how often have I wished me thus. |
-| [[Cressida|CRESSIDA]] | Wished, my lord? The gods grant—O, my lordl |
-| [[Troilus|TROILUS]] | What should they grant? What makes this pretty abruption? What too-curious dreg espies my sweet lady in the fountain of our [[Love|love]]? |
-| [[Cressida|CRESSIDA]] | More dregs than [[Water|water]], if my fears have eyes. |
-| [[Troilus|TROILUS]] | Fears make devils of cherubims; they never see truly. |
-| [[Cressida|CRESSIDA]] | Blind [[Fear|fear]], that seeing reason leads, finds safer footing than blind reason, stumbling without [[Fear|fear]]. To [[Fear|fear]] the worst oft cures the worse. |
-| [[Troilus|TROILUS]] | O let my lady apprehend no [[Fear|fear]]. In all Cupid’s pageant there is presented no [[Monster|monster]]. |
-| [[Cressida|CRESSIDA]] | Nor nothing monstrous neither? |
-| [[Troilus|TROILUS]] | Nothing but our undertakings, when we vow to weep seas, live in [[Fire|fire]], eat rocks, tame tigers, thinking it harder for our mistress to devise imposition enough than for us to undergo any difficulty imposed. This is the monstruosity in [[Love|love]], lady—that the will is infinite and the execution confined; that the [[Desire|desire]] is boundless and the act a slave to limit. |
-| [[Cressida|CRESSIDA]] | They say all [[lovers]] swear more performance than they are able, and yet reserve an ability that they never perform: vowing more than the perfection of ten, and discharging less than the tenth part of one. They that have the voice of lions and the act of hares, are they not monsters? |
-| [[Troilus|TROILUS]] | Are there such? Such are not we. Praise us as we are tasted; allow us as we prove. Our head shall go bare till merit [[Crown|crown]] it. No perfection in reversion shall have a praise in present. We will not name [[Desert|desert]] before his birth, and being born his addition shall be humble. Few words to fair [[Faith|faith]]. [[Troilus]] shall be such to Cressid as what envy can say worst shall be a mock for his [[Truth|truth]]; and what [[Truth|truth]] can speak truest, not truer than [[Troilus]]. |
-| [[Cressida|CRESSIDA]] | Will you walk in, my lord? Enter [[Pandarus]] |
-| [[Pandarus|PANDARUS]] | What, blushing still? Have you not done talking yet? |
-| [[Cressida|CRESSIDA]] | [[Well]], uncle, what folly I commit I dedicate to you. |
-| [[Pandarus|PANDARUS]] | I thank you for that. If my lord get a boy of you, you’ll give him me. Be true to my lord. If he flinch, chide me for it. |
-| [[Troilus|TROILUS]] | (to [[Cressida]]) You know now your hostages: your uncle’s word and my firm [[Faith|faith]]. |
-| [[Pandarus|PANDARUS]] | Nay, I’ll give my word for her too. Our kindred, though they be long ere they are wooed, they are constant being won. They are burrs, I can tell you: they’ll stick where they are thrown. |
-| [[Cressida|CRESSIDA]] | Boldness comes to me now, and brings me heart. Prince [[Troilus]], I have loved you [[Night|night]] and day For many weary months. |
-| [[Troilus|TROILUS]] | Why was my Cressid then so hard to win? |
-| [[Cressida|CRESSIDA]] | Hard to seem won; but I was won, my lord, With the first glance that ever—pardon me: If I confess much, you will play the [[Tyrant|tyrant]]. I [[Love|love]] you now, but till now not so much But I might master it. In [[Faith|faith]], I lie: My thoughts were like unbridled children, grown Too headstrong for their mother. See, we fools! Why have I blabbed? Who shall be true to us, When we are so unsecret to ourselves? But though I loved you [[Well|well]], I wooed you not— And yet, good [[Faith|faith]], I wished myself a man, Or that we women had men’s privilege Of speaking first. Sweet, bid me hold my tongue, For in this rapture I shall surely speak The thing I shall repent. See, see, your [[Silence|silence]], Cunning in dumbness, in my weakness draws My [[Soul|soul]] of counsel from me. Stop my mouth. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--03_exchange_troilus" data-title="Troilus and Cressida — Act III, Scene 2 — exchange (TROILUS) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Troilus|TROILUS]] | And shall, albeit sweet music issues thence. He kisses her |
-| [[Pandarus|PANDARUS]] | Pretty, i’ [[Faith|faith]]. |
-| [[Cressida|CRESSIDA]] | (to [[Troilus]]) My lord, I do beseech you pardon me. ’Twas not my purpose thus to beg a kiss. I am ashamed. O heavens, what have I done? For this [[Time|time]] will I take my leave, my lord. [[Troilus|TROILUS]] Your leave, sweet Cressid? |
-| [[Pandarus|PANDARUS]] | Leave? An you take leave till tomorrow morning— |
-| [[Cressida|CRESSIDA]] | Pray you, content you. |
-| [[Troilus|TROILUS]] | What offends you, lady? |
-| [[Cressida|CRESSIDA]] | Sir, mine own company. |
-| [[Troilus|TROILUS]] | You cannot shun yourself. |
-| [[Cressida|CRESSIDA]] | Let me go and try. I have a kind of [[Self|self]] resides with you— But an unkind [[Self|self]], that itself will leave To be another’s [[Fool|fool]]. Where is my wit? I would be gone. I speak I know not what. |
-| [[Troilus|TROILUS]] | [[Well]] know they what they speak that speak so wisely. |
-| [[Cressida|CRESSIDA]] | Perchance, my lord, I show more craft than [[Love|love]], And fell so roundly to a large confession To angle for your thoughts. But you are wise, Or else you [[Love|love]] not—for to be wise and [[Love|love]] Exceeds man’s might: that dwells with gods above. |
-| [[Troilus|TROILUS]] | O that I thought it could be in a woman— As, if it can, I will presume in you— To feed for aye her lamp and flames of [[Love|love]], To keep her constancy in plight and youth, Outliving [[Beauty|beauty]]’s outward, with a mind That doth renew swifter than [[Blood|blood]] decays; Or that [[Persuasion|persuasion]] could but thus convince me That my integrity and [[Truth|truth]] to you Might be affronted with the match and weight Of such a winnowed purity in [[Love|love]]. How were I then uplifted! But alas, I am as true as [[Truth|truth]]’s simplicity, And simpler than the infancy of [[Truth|truth]]. |
-| [[Cressida|CRESSIDA]] | In that I’ll war with you. |
-| [[Troilus|TROILUS]] | O virtuous fight, When right with right wars who shall be most right. True swains in [[Love|love]] shall in the world to come Approve their [[Truth|truth]] by [[Troilus]]. When their rhymes, Full of protest, of oath and big compare, Wants similes, [[Truth|truth]] tired with iteration— ‘As true as steel, as plantage to the [[Moon|moon]], As sun to day, as turtle to her mate, As iron to adamant, as earth to th’ centre’— Yet, after all comparisons of [[Truth|truth]], As [[Truth|truth]]’s authentic author to be cited, ’As true as [[Troilus]]’ shall [[Crown|crown]] up the verse And sanctify the numbers. |
-| [[Cressida|CRESSIDA]] | [[Prophet]] may you be! If I be false, or swerve a hair from [[Truth|truth]], When [[Time|time]] is old and hath forgot itself, When [[Water|water]] drops have worn the stones of Troy And blind oblivion swallowed cities up, And mighty states characterless are grated To dusty nothing, yet let [[Memory|memory]] From false to false among false maids in [[Love|love]] Upbraid my falsehood. When they’ve said, ‘as false As air, as [[Water|water]], [[Wind|wind]] or sandy earth, As fox to [[Lamb|lamb]], or wolf to heifer’s calf, Pard to the hind, or stepdame to her son’, Yea, let them say, to stick the heart of falsehood, ‘As false as Cressid’. |
-| [[Pandarus|PANDARUS]] | Go to, a bargain made. Seal it, seal it. I’ll be the witness. Here I hold your hand; here, my cousin’s. If ever you prove false one to another, since I have taken such [[Pain|pain]] to bring you together, let all pitiful goers-between be called to the world’s end after my name: call them all panders. Let all constant men be Troiluses, all false women Cressids, and all brokers-between panders. Say ‘Amen’. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--04_exchange_troilus" data-title="Troilus and Cressida — Act III, Scene 2 — exchange (TROILUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Troilus|TROILUS]] | Amen. |
-| [[Cressida|CRESSIDA]] | Amen. |
-| [[Pandarus|PANDARUS]] | Amen. Whereupon I will show you a chamber with a bed—which bed, because it shall not speak of your pretty encounters, press it to [[Death|death]]. Away! Exeunt [[Troilus]] and [[Cressida]] And Cupid grant all tongue-tied maidens here Bed, chamber, pander to provide this gear. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--01_exchange_dialogue" data-title="Troilus and Cressida — Act III, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Flourish. Enter [[Ulysses]], Diomedes, Nestor, [[Agamemnon]], Menelaus, [[Ajax]], and Calchas |
-| CALCHAS | Now, princes, for the service I have done you, Th‘advantage of the [[Time|time]] prompts me aloud To call for recompense. Appear it to your mind That through the sight I bear in things to come I have abandoned Troy, left my profession, Incurred a traitor’s name, exposed myself From certain and possessed conveniences To doubtful fortunes, sequest’ring from me all That [[Time|time]], acquaintance, custom, and condition Made tame and most familiar to my [[Nature|nature]], And here to do you service am become As new into the world, strange, unacquainted. I do beseech you, as in way of taste, To give me now a little benefit Out of those many registered in promise Which you say live to come in my behalf. |
-| [[Agamemnon|AGAMEMNON]] | What wouldst thou of us, Trojan? Make demand. |
-| CALCHAS | You have a Trojan prisoner called Antenor, Yesterday took. Troy holds him very dear. Oft have you—often have you thanks therefor— Desired my Cressid in right great exchange, Whom Troy hath still denied. But this Antenor I know is such a wrest in their affairs That their negotiations all must slack, Wanting his manage, and they will almost Give us a prince of [[Blood|blood]], a son of Priam, In change of him. Let him be sent, great princes, And he shall buy my daughter, and her presence Shall quite strike off all service I have done In most accepted [[Pain|pain]]. |
-| [[Agamemnon|AGAMEMNON]] | Let Diomedes bear him, And bring us Cressid hither; Calchas shall have What he requests of us. Good Diomed, Furnish you fairly for this interchange; Withal bring word if [[Hector]] will tomorrow Be answered in his challenge. [[Ajax]] is ready. |
-| DIOMEDES | This shall I undertake, and ’tis a burden Which I am proud to bear. Exit with Calchas Enter [[Achilles]] and Patroclus in their tent |
-| [[Ulysses|ULYSSES]] | [[Achilles]] stands i‘th’ entrance of his tent. Please it our general pass strangely by him, As if he were forgot; and, princes all, Lay negligent and loose regard upon him. I will come last. ’Tis like he’ll question me Why such unplausive eyes are bent, why turned on him. If so, I have derision medicinable To use between your strangeness and his [[Pride|pride]], Which his own will shall have [[Desire|desire]] to drink. It may do good. [[Pride]] hath no other glass To show itself but [[Pride|pride]]; for supple knees Feed arrogance and are the proud man’s fees. |
-| [[Agamemnon|AGAMEMNON]] | We’ll execute your purpose and put on A form of strangeness as we pass along. So do each lord, and either greet him not Or else disdainfully, which shall shake him more Than if not looked on. I will lead the way. They pass by the tent, in turn |
-| [[Achilles|ACHILLES]] | What, comes the general to speak with me? You know my mind: I’ll fight no more ’gainst Troy. |
-| [[Agamemnon|AGAMEMNON]] | (to Nestor) What says [[Achilles]]? Would he aught with us? |
-| NESTOR | (to [[Achilles]]) Would you, my lord, aught with the general? |
-| [[Achilles|ACHILLES]] | No. |
-| NESTOR | (to [[Agamemnon]]) Nothing, my lord. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--02_exchange_agamemnon" data-title="Troilus and Cressida — Act III, Scene 3 — exchange (AGAMEMNON) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Agamemnon|AGAMEMNON]] | The better. Exeunt [[Agamemnon]] and Nestor |
-| [[Achilles|ACHILLES]] | to Menelaus Good day, good day. |
-| MENELAUS | How do you? How do you? Exit |
-| [[Achilles|ACHILLES]] | (to Patroclus) What, does the cuckold scorn me? |
-| [[Ajax|AJAX]] | How now, Patroclus? |
-| [[Achilles|ACHILLES]] | Good morrow, [[Ajax]]. |
-| [[Ajax|AJAX]] | Ha? |
-| [[Achilles|ACHILLES]] | Good morrow. |
-| [[Ajax|AJAX]] | Ay, and good next day too. Exit |
-| [[Achilles|ACHILLES]] | (to Patroclus) What mean these fellows? Know they not [[Achilles]]? |
-| PATROCLUS | They pass by strangely. They were used to bend, To send their smiles before them to [[Achilles]], To come as humbly as they use to creep To holy altars. |
-| [[Achilles|ACHILLES]] | What, am I poor of late? ‘Tis certain, [[Greatness|greatness]] once fall’n out with fortune Must fall out with men too. What the declined is He shall as soon read in the eyes of others As feel in his own fall; for men, like butterflies, Show not their mealy wings but to the [[Summer|summer]], And not a man, for being simply man, Hath any [[Honour|honour]], but [[Honour|honour]] for those honours That are without him—as place, riches, and favour: Prizes of accident as oft as merit; Which, when they fall, as being slippery standers— The [[Love|love]] that leaned on them, as slippery too— Doth one pluck down another, and together Die in the fall. But ’tis not so with me. Fortune and I are friends. I do enjoy At ample point all that I did possess, Save these men’s looks—who do methinks find out Something not worth in me such rich beholding As they have often given. Here is [[Ulysses]]; I’ll interrupt his reading. How now, [[Ulysses]]? |
-| [[Ulysses|ULYSSES]] | Now, great Thetis’ son. |
-| [[Achilles|ACHILLES]] | What are you reading? |
-| [[Ulysses|ULYSSES]] | A strange fellow here Writes me that man, how dearly ever parted, How much in having, or without or in, Cannot make boast to have that which he hath, Nor feels not what he owes, but by reflection— As when his virtues, shining upon others, Heat them, and they retort that heat again To the first givers. |
-| [[Achilles|ACHILLES]] | This is not strange, [[Ulysses]]. The [[Beauty|beauty]] that is borne here in the face The bearer knows not, but commends itself To others’ eyes. Nor doth the eye itself, That most pure spirit of sense, behold itself, Not going from itself; but eye to eye opposed Salutes each other with each other’s form. For speculation turns not to itself Till it hath travelled and is mirrored there Where it may see itself. This is not strange at all. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--03_monologue_ulysses" data-title="Troilus and Cressida — Act III, Scene 3 — monologue (ULYSSES) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Ulysses|ULYSSES]] | I do not strain at the position— It is familiar—but at the author’s drift; Who in his circumstance expressly proves That no man is the lord of anything, Though in and of him there be much consisting, Till he communicate his parts to others. Nor doth he of himself know them for aught Till he behold them formed in th‘applause Where they’re extended—who, like an arch, reverb’rate The voice again; or, like a gate of steel Fronting the sun, receives and renders back His figure and his heat. I was much rapt in this, And apprehended here immediately The unknown [[Ajax]]. Heavens, what a man is there! A very [[Horse|horse]], That has he knows not what. [[Nature]], what things there are, Most abject in regard and dear in use. What things again, most dear in the esteem And poor in worth. Now shall we see tomorrow An act that very chance doth throw upon him. [[Ajax]] renowned? O heavens, what some men do, While some men leave to do. How some men creep in skittish Fortune’s hall Whiles others play the idiots in her eyes; How one man eats into another’s [[Pride|pride]] While [[Pride|pride]] is fasting in his wantonness. To see these Grecian lords! Why, even already They clap the lubber [[Ajax]] on the shoulder, As if his foot were on brave [[Hector]]’s breast And great Troy shrinking. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--04_exchange_achilles_i" data-title="Troilus and Cressida — Act III, Scene 3 — exchange (ACHILLES I) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Achilles|ACHILLES]] | I do believe it, For they passed by me as misers do by beggars, Neither gave to me good word nor look. What, are my deeds forgot? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--05_monologue_ulysses" data-title="Troilus and Cressida — Act III, Scene 3 — monologue (ULYSSES) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Ulysses|ULYSSES]] | [[Time]] hath, my lord, A wallet at his back, wherein he puts Alms for oblivion, a great-sized [[Monster|monster]] Of ingratitudes. Those scraps are good deeds past, Which are devoured as fast as they are made, Forgot as soon as done. Perseverance, dear my lord, Keeps [[Honour|honour]] bright. To have done is to hang Quite out of fashion, like a rusty mail In monumental mock‘ry. Take the instant way, For [[Honour|honour]] travels in a strait so narrow, Where one but goes abreast. Keep then the path, For emulation hath a thousand sons That one by one pursue: if you give way, Or hedge aside from the direct forthright, Like to an entered tide they all rush by And leave you hindmost; Or, like a gallant [[Horse|horse]] fall’n in first rank, Lie there for pavement to the abject rear, O’errun and trampled on. Then what they do in present, Though less than yours in past, must o‘ertop yours. For [[Time]] is like a fashionable host, That slightly shakes his parting guest by th’ hand And, with his arms outstretched as he would fly, Grasps in the comer. Welcome ever smiles, And Farewell goes out sighing. O let not virtue seek Remuneration for the thing it was; For [[Beauty|beauty]], wit, High birth, vigour of bone, [[Desert|desert]] in service, [[Love]], [[Friendship|friendship]], [[Charity|charity]], are subjects all To envious and calumniating [[Time|time]]. One touch of [[Nature|nature]] makes the whole world kin— That all with one consent praise new-born gauds, Though they are made and moulded of things past, And give to [[Dust|dust]] that is a little gilt More laud than gilt o’er-dusted. The present eye praises the present object. Then marvel not, thou great and complete man, That all the Greeks begin to worship [[Ajax]], Since things in motion sooner catch the eye Than what not stirs. The cry went once on thee, And still it might, and yet it may again, If thou wouldst not entomb thyself alive And case thy reputation in thy tent, Whose glorious deeds but in these fields of late Made emulous missions ’mongst the gods themselves, And drove great Mars to faction. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--06_exchange_achilles" data-title="Troilus and Cressida — Act III, Scene 3 — exchange (ACHILLES) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Achilles|ACHILLES]] | Of this my privacy I have strong reasons. |
-| [[Ulysses|ULYSSES]] | But ’gainst your privacy The reasons are more potent and heroical. ’Tis known, [[Achilles]], that you are in [[Love|love]] With one of Priam’s daughters. |
-| [[Achilles|ACHILLES]] | Ha? Known? |
-| [[Ulysses|ULYSSES]] | Is that a [[Wonder|wonder]]? The [[Providence|providence]] that’s in a watchful state Knows almost every grain of Pluto’s gold, Finds [[Bottom|bottom]] in th’uncomprehensive deeps, Keeps place with aught, and almost like the gods Do infant thoughts unveil in their dumb cradles. There is a mystery, with whom relation Durst never meddle, in the [[Soul|soul]] of state, Which hath an operation more divine Than breath or pen can give expressure to. All the commerce that you have had with Troy As perfectly is ours as yours, my lord; And better would it fit [[Achilles]] much To throw down [[Hector]] than Polyxena. But it must grieve young Pyrrhus now at [[Home|home]], When fame shall in his island sound her trump And all the Greekish girls shall tripping sing, ’Great [[Hector]]’s sister did [[Achilles]] win, But our great [[Ajax]] bravely beat down him’. Farewell, my lord. I as your [[Lover|lover]] speak. The [[Fool|fool]] slides o’er the ice that you should break. Exit |
-| PATROCLUS | To this effect, [[Achilles]], have I moved you. A woman impudent and mannish grown Is not more loathed than an effeminate man In [[Time|time]] of action. I stand condemned for this. They think my little stomach to the war And your great [[Love|love]] to me restrains you thus. Sweet, rouse yourself, and the weak wanton Cupid Shall from your neck unloose his amorous fold And like a dew-drop from the [[Lion|lion]]’s mane Be shook to air. |
-| [[Achilles|ACHILLES]] | Shall [[Ajax]] fight with [[Hector]]? |
-| PATROCLUS | Ay, and perhaps receive much [[Honour|honour]] by him. |
-| [[Achilles|ACHILLES]] | I see my reputation is at stake. My fame is shrewdly gored. |
-| PATROCLUS | O then beware: Those wounds heal ill that men do give themselves. Omission to do what is necessary Seals a commission to a blank of danger, And danger like an ague subtly taints Even then when we sit idly in the sun. |
-| [[Achilles|ACHILLES]] | Go call [[Thersites]] hither, sweet Patroclus. I’ll send the [[Fool|fool]] to [[Ajax]], and [[Desire|desire]] him T’invite the Trojan lords after the combat To see us here unarmed. I have a woman’s [[Longing|longing]], An appetite that I am sick withal, To see great [[Hector]] in his weeds of peace, Enter [[Thersites]] To talk with him and to behold his visage Even to my full of view.—A labour saved. |
-| [[Thersites|THERSITES]] | A [[Wonder|wonder]]! |
-| [[Achilles|ACHILLES]] | What? |
-| [[Thersites|THERSITES]] | [[Ajax]] goes up and down the field, as asking for himself. |
-| [[Achilles|ACHILLES]] | How so? |
-| [[Thersites|THERSITES]] | He must fight singly tomorrow with [[Hector]], and is so prophetically proud of an heroical cudgelling that he raves in saying nothing. |
-| [[Achilles|ACHILLES]] | How can that be? |
-| [[Thersites|THERSITES]] | Why, a stalks up and down like a peacock—a stride and a stand; ruminates like an hostess that hath no arithmetic but her brain to set down her reckoning; bites his lip with a politic regard, as who should say ‘There were wit in this head, an’t would out’—and so there is; but it lies as coldly in him as [[Fire|fire]] in a flint, which will not show without knocking. The man’s undone for ever, for if [[Hector]] break not his neck i‘th’ combat he’ll break’t himself in vainglory. He knows not me. I said, ‘Good morrow, [[Ajax]]’, and he replies, ‘Thanks, [[Agamemnon]]’. What think you of this man that takes me for the General? He’s grown a very land-fish, languageless, a [[Monster|monster]]. A plague of opinion! A man may wear it on both sides like a leather jerkin. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--07_exchange_achilles" data-title="Troilus and Cressida — Act III, Scene 3 — exchange (ACHILLES) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Achilles|ACHILLES]] | Thou must be my ambassador to him, [[Thersites]]. |
-| [[Thersites|THERSITES]] | Who, I? Why, he’ll answer nobody. He professes not answering. Speaking is for beggars. He wears his tongue in’s arms. I will put on his presence. Let Patroclus make demands to me. You shall see the pageant of [[Ajax]]. |
-| [[Achilles|ACHILLES]] | To him, Patroclus. Tell him I humbly [[Desire|desire]] the valiant [[Ajax]] to invite the most valorous [[Hector]] to come unarmed to my tent, and to procure safe-conduct for his person of the magnanimous and most illustrious six-or-seven-times-honoured captain-general of the Grecian army, [[Agamemnon]]; et cetera. Do this. |
-| PATROCLUS | (to [[Thersites]]) Jove bless great [[Ajax]]! |
-| [[Thersites|THERSITES]] | H’m. |
-| PATROCLUS | I come from the worthy [[Achilles]]— |
-| [[Thersites|THERSITES]] | Ha? |
-| PATROCLUS | Who most humbly desires you to invite [[Hector]] to his tent— |
-| [[Thersites|THERSITES]] | H’m! |
-| PATROCLUS | And to procure safe-conduct from [[Agamemnon]]. |
-| [[Thersites|THERSITES]] | [[Agamemnon]]? |
-| PATROCLUS | Ay, my lord. |
-| [[Thersites|THERSITES]] | Ha! |
-| PATROCLUS | What say you to’t? |
-| [[Thersites|THERSITES]] | God b’wi’ you, with all my heart. |
-| PATROCLUS | Your answer, sir? |
-| [[Thersites|THERSITES]] | If tomorrow be a fair day, by eleven o’[[Clock|clock]] it will go one way or other. Howsoever, he shall pay for me ere he has me. |
-| PATROCLUS | Your answer, sir? |
-| [[Thersites|THERSITES]] | Fare ye [[Well|well]], with all my heart. |
-| [[Achilles|ACHILLES]] | Why, but he is not in this tune, is he? |
-| [[Thersites|THERSITES]] | No, but he’s out o’ tune thus. What music will be in him when [[Hector]] has knocked out his brains, I know not. But I am feared none, unless the fiddler [[Apollo]] get his sinews to make catlings on. |
-| [[Achilles|ACHILLES]] | Come, thou shalt bear a letter to him straight. |
-| [[Thersites|THERSITES]] | Let me carry another to his [[Horse|horse]], for that’s the more capable creature. |
-| [[Achilles|ACHILLES]] | My mind is troubled like a fountain stirred, And I myself see not the [[Bottom|bottom]] of it. Exit with Patroclus |
-| [[Thersites|THERSITES]] | Would the fountain of your mind were clear again, that I might [[Water|water]] an ass at it. I had rather be a tick in a sheep than such a valiant ignorance. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--01_exchange_dialogue" data-title="Troilus and Cressida — Act IV, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Pandarus]] and [[Cressida]] |
-| [[Pandarus|PANDARUS]] | Be moderate, be moderate. |
-| [[Cressida|CRESSIDA]] | Why tell you me of moderation? The grief is fine, full, perfect that I taste, And violenteth in a sense as strong As that which causeth it. How can I moderate it? If I could temporize with my affection Or brew it to a weak and colder palate, The like allayment could I give my grief. My [[Love|love]] admits no qualifying dross; No more my grief, in such a precious loss. Enter [[Troilus]] |
-| [[Pandarus|PANDARUS]] | Here, here, here he comes. Ah, sweet ducks! |
-| [[Cressida|CRESSIDA]] | (embracing him) O [[Troilus]], [[Troilus]]! |
-| [[Pandarus|PANDARUS]] | What a pair of spectacles is here! Let me embrace you too. ‘O heart‘, as the goodly saying is, ‘O heart, heavy heart, Why sigh’st thou without breaking?’ where he answers again ‘Because thou canst not ease thy smart By [[Friendship|friendship]] nor by speaking.’ There was never a truer rhyme. Let us cast away nothing, for we may live to have need of such a verse. We see it, we see it. How now, lambs? |
-| [[Troilus|TROILUS]] | Cressid, I [[Love|love]] thee in so strained a purity That the blest gods, as angry with my fancy— More bright in zeal than the devotion which Cold lips blow to their deities—take thee from me. |
-| [[Cressida|CRESSIDA]] | Have the gods envy? |
-| [[Pandarus|PANDARUS]] | Ay, ay, ay, ay, ’tis too plain a case. |
-| [[Cressida|CRESSIDA]] | And is it true that I must go from Troy? |
-| [[Troilus|TROILUS]] | A hateful [[Truth|truth]]. |
-| [[Cressida|CRESSIDA]] | What, and from [[Troilus]] too? |
-| [[Troilus|TROILUS]] | From Troy and [[Troilus]]. |
-| [[Cressida|CRESSIDA]] | Is’t possible? |
-| [[Troilus|TROILUS]] | And suddenty—where injury of chance Puts back leave-taking, jostles roughly by All [[Time|time]] of pause, rudely beguiles our lips Of all rejoindure, forcibly prevents Our locked embrasures, strangles our dear vows Even in the birth of our own labouring breath. We two, that with so many thousand sighs Did buy each other, must poorly sell ourselves With the rude brevity and discharge of one. Injurious [[Time]] now with a robber’s haste Crams his rich thiev’ry up, he knows not how. As many farewells as be [[Stars|stars]] in heaven, With distinct breath and consigned kisses to them, He fumbles up into a loose adieu And scants us with a single famished kiss, Distasted with the salt of broken [[Tears|tears]]. Enter Aeneas |
-| AENEAS | My lord, is the lady ready? |
-| [[Troilus|TROILUS]] | (to [[Cressida]]) Hark, you are called. Some say the genius so Cries ‘Come!’ to him that instantly must die. To [[Pandarus]] Bid them have patience. She shall come anon. |
-| [[Pandarus|PANDARUS]] | Where are my [[Tears|tears]]? Rain, to lay this [[Wind|wind]], or my heart will be blown up by the root. Exit with Aeneas |
-| [[Cressida|CRESSIDA]] | I must then to the Grecians. |
-| [[Troilus|TROILUS]] | No remedy. |
-| [[Cressida|CRESSIDA]] | A woeful Cressid ’mongst the merry Greeks! When shall we see again? |
-| [[Troilus|TROILUS]] | Hear me, my [[Love|love]]: be thou but true of heart— |
-| [[Cressida|CRESSIDA]] | I true? How now! What wicked deem is this? |
-| [[Troilus|TROILUS]] | Nay, we must use expostulation kindly, For it is parting from us. I speak not ‘Be thou true’ as fearing thee— For I will throw my glove to [[Death]] himself That there’s no maculation in thy heart— But ‘Be thou true’ say I, to fashion in My sequent protestation: ‘Be thou true, And I will see thee’. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--02_exchange_cressida" data-title="Troilus and Cressida — Act IV, Scene 5 — exchange (CRESSIDA) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cressida|CRESSIDA]] | O you shall be exposed, my lord, to dangers As infinite as imminent. But I’ll be true. |
-| [[Troilus|TROILUS]] | And I’ll grow friend with danger. Wear this sleeve. |
-| [[Cressida|CRESSIDA]] | And you this glove. When shall I see you? |
-| [[Troilus|TROILUS]] | I will corrupt the Grecian sentinels To give thee nightly visitation. But yet, be true. |
-| [[Cressida|CRESSIDA]] | O heavens! ’Be true’ again! |
-| [[Troilus|TROILUS]] | Hear why I speak it, [[Love|love]]. The Grecian youths are full of quality, Their loving [[Well|well]] composed, with gifts of [[Nature|nature]] flowing, And swelling o’er with arts and exercise. How novelty may move, and parts with person, Alas, a kind of godly [[Jealousy|jealousy]]— Which I beseech you call a virtuous sin— Makes me afeard. |
-| [[Cressida|CRESSIDA]] | O heavens, you [[Love|love]] me not! |
-| [[Troilus|TROILUS]] | Die I a [[Villain|villain]] then! In this I do not call your [[Faith|faith]] in question So mainly as my merit. I cannot sing, Nor heel the high lavolt, nor sweeten talk, Nor play at subtle games—fair virtues all, To which the Grecians are most prompt and pregnant. But I can tell that in each grace of these There lurks a still and dumb-discoursive devil That tempts most cunningly. But be not tempted. |
-| [[Cressida|CRESSIDA]] | Do you think I will? |
-| [[Troilus|TROILUS]] | No, but something may be done that we will not, And sometimes we are devils to ourselves, When we will tempt the frailty of our powers, Presuming on their changeful potency. |
-| AENEAS | (within) Nay, good my lord! |
-| [[Troilus|TROILUS]] | Come, kiss, and let us part. |
-| [[Paris|PARIS]] | art the door Brother [[Troilus]]? |
-| [[Troilus|TROILUS]] | Good brother, come you hither, And bring Aeneas and the Grecian with you. Exit [[Paris]] |
-| [[Cressida|CRESSIDA]] | My lord, will you be true? |
-| [[Troilus|TROILUS]] | Who, I? Alas, it is my vice, my fault. Whiles others fish with craft for great opinion, I with great [[Truth|truth]] catch mere simplicity; Whilst some with cunning gild their copper crowns, With [[Truth|truth]] and plainness I do wear mine bare. Enter [[Paris]], Aeneas, Antenor, Deiphobus, and Diomedes [[Fear]] not my [[Truth|truth]]. The moral of my wit Is ‘plain and true!’; there’s all the reach of it.— Welcome, Sir Diomed. Here is the lady Which for Antenor we deliver you. At the port, lord, I’ll give her to thy hand, And by the way possess thee what she is. Entreat her fair, and by my [[Soul|soul]], fair Greek, If e’er thou stand at [[Mercy|mercy]] of my [[Sword|sword]], Name Cressid, and thy life shall be as safe As Priam is in Ilium. |
-| DIOMEDES | Fair Lady Cressid, So please you, save the thanks this prince expects. The lustre in your eye, heaven in your cheek, Pleads your fair usage; and to Diomed You shall be mistress, and command him wholly. |
-| [[Troilus|TROILUS]] | Grecian, thou dost not use me courteously, To shame the zeal of my petition towards thee In praising her. I tell thee, lord of Greece, She is as far high-soaring o’er thy praises As thou unworthy to be called her servant. I charge thee use her [[Well|well]], even for my charge; For, by the dreadful Pluto, if thou dost not, Though the great bulk [[Achilles]] be thy guard I’ll cut thy throat. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_5--03_exchange_diomedes" data-title="Troilus and Cressida — Act IV, Scene 5 — exchange (DIOMEDES) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| DIOMEDES | O be not moved, Prince [[Troilus]]. Let me be privileged by my place and message To be a speaker free. When I am hence I’ll answer to my lust. And know you, lord, I’ll nothing do on charge. To her own worth She shall be prized; but that you say ‘Be’t so’, I’ll speak it in my spirit and [[Honour|honour]] ‘No!’ |
-| [[Troilus|TROILUS]] | Come, to the port.—I’ll tell thee, Diomed, This brave shall oft make thee to hide thy head.— Lady, give me your hand, and as we walk To our own selves bend we our needful talk. Exeunt [[Troilus]], [[Cressida]], and Diomedes A trumpet sounds |
-| [[Paris|PARIS]] | Hark, [[Hector]]’s trumpet. |
-| AENEAS | How have we spent this morning? The Prince must think me tardy and remiss, That swore to ride before him in the field. |
-| [[Paris|PARIS]] | ‘Tis [[Troilus]]’ fault. Come, come to field with him. |
-| DEIPHOBUS | Let us make ready straight. |
-| AENEAS | Yea, with a bridegroom’s fresh alacrity Let us address to tend on [[Hector]]’s heels. The glory of our Troy doth this day lie On his fair worth and single chivalry. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_6--01_exchange_dialogue" data-title="Troilus and Cressida — Act IV, Scene 6 — exchange (dialogue) [1]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Ajax]] armed, [[Achilles]], Patroclus, [[Agamemnon]], Menelaus, [[Ulysses]], Nestor, a trumpeter, and others |
-| [[Agamemnon|AGAMEMNON]] | Here art thou in appointment fresh and fair, Anticipating [[Time|time]] with starting [[Courage|courage]]. Give with thy trumpet a loud note to Troy, Thou dreadful [[Ajax]], that the appallèd air May pierce the head of the great combatant And hale him hither. |
-| [[Ajax|AJAX]] | Thou trumpet, there’s my purse. He gives him money Now crack thy lungs and split thy brazen pipe. Blow, [[Villain|villain]], till thy spherèd bias cheek Outswell the colic of puffed Aquilon. Come, stretch thy chest and let thy eyes spout [[Blood|blood]]; Thou blow’st for [[Hector]]. The trumpet sounds |
-| [[Ulysses|ULYSSES]] | No trumpet answers. |
-| [[Achilles|ACHILLES]] | ’Tis but early days. |
-| [[Agamemnon|AGAMEMNON]] | Is not yond Diomed with Calchas’ daughter? |
-| [[Ulysses|ULYSSES]] | ’Tis he. I ken the manner of his gait. He rises on the toe: that spirit of his In [[Aspiration|aspiration]] lifts him from the earth. Enter Diomedes and [[Cressida]] |
-| [[Agamemnon|AGAMEMNON]] | (to Diomedes) Is this the Lady Cressid? |
-| DIOMEDES | Even she. |
-| [[Agamemnon|AGAMEMNON]] | Most dearly welcome to the Greeks, sweet lady. He kisses her |
-| NESTOR | (to [[Cressida]]) Our General doth salute you with a kiss. |
-| [[Ulysses|ULYSSES]] | Yet is the kindness but particular; ’Twere better she were kissed in general. |
-| NESTOR | And very courtly counsel. I’ll begin. He kisses her So much for Nestor. |
-| [[Achilles|ACHILLES]] | I’ll take that [[Winter|winter]] from your lips, fair lady. He kisses her [[Achilles]] bids you welcome. |
-| MENELAUS | (to [[Cressida]]) I had good argument for kissing once. |
-| PATROCLUS | But that’s no argument for kissing now; For thus stepping between them popped [[Paris]] in his hardiment, And parted thus you and your argument. He kisses her |
-| [[Ulysses|ULYSSES]] | aside O deadly gall, and theme of all our scorns! For which we lose our heads to gild his horns. |
-| PATROCLUS | (to [[Cressida]]) The first was Menelaus’ kiss; this, mine. Patroclus kisses you. He kisses her again |
-| MENELAUS | O this is trim. |
-| PATROCLUS | (to [[Cressida]]) [[Paris]] and I kiss evermore for him. |
-| MENELAUS | I’ll have my kiss, sir.—Lady, by your leave. |
-| [[Cressida|CRESSIDA]] | In kissing do you render or receive? MENELAUS Both take and give. |
-| [[Cressida|CRESSIDA]] | I’ll make my match to live, The kiss you take is better than you give. Therefore no kiss. |
-| MENELAUS | I’ll give you boot: I’ll give you three for one. |
-| [[Cressida|CRESSIDA]] | You are an odd man: give even or give none. |
-| MENELAUS | An odd man, lady? Every man is odd. |
-| [[Cressida|CRESSIDA]] | No, [[Paris]] is not—for you know ’tis true That you are odd, and he is even with you. |
-| MENELAUS | You fillip me o’th’ head. |
-| [[Cressida|CRESSIDA]] | No, I’ll be sworn. |
-| [[Ulysses|ULYSSES]] | It were no match, your nail against his horn. May I, sweet lady, beg a kiss of you? |
-| [[Cressida|CRESSIDA]] | You may. |
-| [[Ulysses|ULYSSES]] | I do [[Desire|desire]] it. |
-| [[Cressida|CRESSIDA]] | Why, beg too. |
-| [[Ulysses|ULYSSES]] | Why then, for [[Venus]]’ sake, give me a kiss, When [[Helen]] is a maid again, and his— |
-| [[Cressida|CRESSIDA]] | I am your debtor; claim it when ’tis due. |
-| [[Ulysses|ULYSSES]] | Never’s my day, and then a kiss of you. |
-| DIOMEDES | Lady, a word. I’ll bring you to your father. They talk apart |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_6--02_exchange_nestor" data-title="Troilus and Cressida — Act IV, Scene 6 — exchange (NESTOR) [2]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| NESTOR | A woman of quick sense. |
-| [[Ulysses|ULYSSES]] | Fie, fie upon her! There’s language in her eye, her cheek, her lip; Nay, her foot speaks. Her wanton spirits look out At every joint and motive of her [[Body|body]]. O these encounterers so glib of tongue, That give accosting welcome ere it comes, And wide unclasp the tables of their thoughts To every ticklish reader, set them down For sluttish spoils of opportunity And daughters of the game. Exeunt Diomedes and [[Cressida]] Flourish |
-| ALL | The Trojans’ trumpet. Enter all off Troy: [[Hector]] armed, [[Paris]], Aeneas, Helenus, and attendants, among them [[Troilus]] |
-| [[Agamemnon|AGAMEMNON]] | Yonder comes the troop. |
-| AENEAS | coming forward Hail, all you state of Greece! What shall be done To him that victory commands? Or do you purpose A victor shall be known? Will you the knights Shall to the edge of all extremity Pursue each other, or shall they be divided By any voice or order of the field? [[Hector]] bade ask. |
-| [[Agamemnon|AGAMEMNON]] | Which way would [[Hector]] have it? |
-| AENEAS | He cares not; he’ll obey conditions. [[Achilles|ACHILLES]] ’Tis done like [[Hector]]—but securely done, A little proudly, and great deal disprising The knight opposed. |
-| AENEAS | If not [[Achilles]], sir, What is your name? |
-| [[Achilles|ACHILLES]] | If not [[Achilles]], nothing. |
-| AENEAS | Therefore [[Achilles]]. But whate’er, know this: In the extremity of great and little, Valour and [[Pride|pride]] excel themselves in [[Hector]], The one almost as infinite as all, The other blank as nothing. Weigh him [[Well|well]], And that which looks like [[Pride|pride]] is courtesy. This [[Ajax]] is half made of [[Hector]]’s [[Blood|blood]], In [[Love|love]] whereof half [[Hector]] stays at [[Home|home]]. Half heart, half hand, half [[Hector]] comes to seek This blended knight, half Trojan and half Greek. |
-| [[Achilles|ACHILLES]] | A maiden battle, then? O I perceive you. Enter Diomedes |
-| [[Agamemnon|AGAMEMNON]] | Here is Sir Diomed.—Go, gentle knight, Stand by our [[Ajax]]. As you and Lord Aeneas Consent upon the order of their fight, So be it: either to the uttermost Or else a breath. Exeunt [[Ajax]], Diomedes, [[Hector]], and Aeneas The combatants being kin Half stints their strife before their strokes begin. [[Ulysses|ULYSSES]] They are opposed already. |
-| [[Agamemnon|AGAMEMNON]] | What Trojan is that same that looks so heavy? |
-| [[Ulysses|ULYSSES]] | The youngest son of Priam, a true knight: They call him [[Troilus]]. Not yet mature, yet matchless-firm of word, Speaking in deeds and deedless in his tongue; Not soon provoked, nor being provoked soon calmed; His heart and hand both open and both free. For what he has he gives; what thinks, he shows; Yet gives he not till judgement guide his bounty, Nor dignifies an impare thought with breath. Manly as [[Hector]] but more dangerous, For [[Hector]] in his blaze of wrath subscribes To tender objects, but he in heat of action Is more vindicative than jealous [[Love|love]]. They call him [[Troilus]], and on him erect A second [[Hope|hope]] as fairly built as [[Hector]]. Thus says Aeneas, one that knows the youth Even to his inches, and with private [[Soul|soul]] Did in great Ilium thus translate him to me. Alarum |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_6--03_exchange_agamemnon" data-title="Troilus and Cressida — Act IV, Scene 6 — exchange (AGAMEMNON) [3]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Agamemnon|AGAMEMNON]] | They are in action. |
-| NESTOR | Now, [[Ajax]], hold thine own! |
-| [[Troilus|TROILUS]] | [[Hector]], thou steep’st! Awake thee! |
-| [[Agamemnon|AGAMEMNON]] | His blows are [[Well|well]] disposed. There, [[Ajax]]! Exeunt |
-| *(didascalia)* | 4.7 Enter [[Hector]] and [[Ajax]] fighting, and Aeneas and Diomedes interposing. Trumpets cease |
-| DIOMEDES | You must no more. |
-| AENEAS | Princes, enough, so please you. |
-| [[Ajax|AJAX]] | I am not warm yet. Let us fight again. |
-| DIOMEDES | As [[Hector]] pleases. |
-| [[Hector|HECTOR]] | Why then will I no more.— Thou art, great lord, my father’s sister’s son, A cousin-german to great Priam’s seed. The obligation of our [[Blood|blood]] forbids A gory emulation ‘twixt us twain. Were thy commixtion Greek and Trojan so That thou couldst say ’This hand is Grecian all, And this is Trojan; the sinews of this leg All Greek, and this all Troy; my mother’s [[Blood|blood]] Runs on the dexter cheek, and this sinister Bounds in my father‘s,’ by Jove multipotent Thou shouldst not bear from me a Greekish member Wherein my [[Sword|sword]] had not impressure made Of our rank feud. But the just gods gainsay That any drop thou borrowed’st from thy mother, My sacred aunt, should by my mortal [[Sword|sword]] Be drained. Let me embrace thee, [[Ajax]]. By him that thunders, thou hast lusty arms. [[Hector]] would have them fall upon him thus. Cousin, all [[Honour|honour]] to thee. |
-| [[Ajax|AJAX]] | I thank thee, [[Hector]]. Thou art too gentle and too free a man. I came to kill thee, cousin, and bear hence A great addition earned in thy [[Death|death]]. |
-| [[Hector|HECTOR]] | Not Neoptolemus so mirable, On whose bright crest Fame with her loud‘st oyez Cries ’This is he!’, could promise to himself A thought of added [[Honour|honour]] torn from [[Hector]]. |
-| AENEAS | There is expectance here from both the sides What further you will do. |
-| [[Hector|HECTOR]] | We’ll answer it: The issue is embracement.—[[Ajax]], farewell. |
-| [[Ajax|AJAX]] | If I might in entreaties find [[success]], As seld I have the chance, I would [[Desire|desire]] My famous cousin to our Grecian tents. |
-| DIOMEDES | ’Tis [[Agamemnon]]’s wish—and great [[Achilles]] Doth long to see unarmed the valiant [[Hector]]. |
-| [[Hector|HECTOR]] | Aeneas, call my brother [[Troilus]] to me, And signify this loving interview To the expecters of our Trojan part. [[Desire]] them [[Home|home]]. Exit Aeneas Give me thy hand, my cousin. I will go eat with thee, and see your knights. Enter [[Agamemnon]] and the rest: Aeneas, [[Ulysses]], |
-| [[Hector|HECTOR]] | Menelaus, Nestor, [[Achilles]], Patroclus, [[Troilus]], and |
-| [[Hector|HECTOR]] | others |
-| [[Ajax|AJAX]] | Great [[Agamemnon]] comes to meet us here. |
-| [[Hector|HECTOR]] | (to Aeneas) The worthiest of them, tell me name by name. But for [[Achilles]], mine own searching eyes Shall find him by his large and portly size. |
-| [[Agamemnon|AGAMEMNON]] | (embracing him) Worthy of arms, as welcome as to one That would be rid of such an enemy. But that’s no welcome. Understand more clear: What’s past and what’s to come is strewed with husks And formless ruin of oblivion, But in this extant moment [[Faith|faith]] and troth, Strained purely from all hollow bias-drawing, Bids thee with most divine integrity From heart of very heart, ‘Great [[Hector]], welcome!’ |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_6--04_exchange_hector" data-title="Troilus and Cressida — Act IV, Scene 6 — exchange (HECTOR) [4]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Hector|HECTOR]] | I thank thee, most imperious [[Agamemnon]]. |
-| [[Agamemnon|AGAMEMNON]] | to [[Troilus]] My [[Well|well]]-famed lord of Troy, no less to you. |
-| MENELAUS | Let me confirm my princely brother’s greeting. You brace of warlike brothers, welcome hither. He embraces [[Hector]] and [[Troilus]] |
-| [[Hector|HECTOR]] | (to Aeneas) Who must we answer? |
-| AENEAS | The noble Menelaus. |
-| [[Hector|HECTOR]] | O, you, my lord! By Mars his gauntlet, thanks. Mock not that I affect th’untraded oath. Your quondam wife swears still by [[Venus]]’ glove. She’s [[Well|well]], but bade me not commend her to you. |
-| MENELAUS | Name her not now, sir. She’s a deadly theme. |
-| [[Hector|HECTOR]] | O, pardon. I offend. |
-| NESTOR | I have, thou gallant Trojan, seen thee oft, Labouring for destiny, make cruel way Through ranks of Greekish youth, and I have seen thee As hot as Perseus spur thy Phrygian steed, And seen thee scorning forfeits and subduements, When thou hast hung th‘advancèd [[Sword|sword]] i’th’ air, Not letting it decline on the declined, That I have said unto my standers-by, ‘Lo, Jupiter is yonder, dealing life’. And I have seen thee pause and take thy breath, When that a ring of Greeks have hemmed thee in, Like an Olympian, wrestling. This have I seen; But this thy countenance, still locked in steel, I never saw till now. I knew thy grandsire And once fought with him. He was a soldier good, But—by great Mars, the captain of us all— Never like thee. Let an old man embrace thee; And, worthy warrior, welcome to our tents. He embraces [[Hector]] |
-| AENEAS | (to [[Hector]]) ’Tis the old Nestor. |
-| [[Hector|HECTOR]] | Let me embrace thee, good old chronicle, That hast so long walked hand in hand with [[Time|time]]. Most reverend Nestor, I am glad to clasp thee. |
-| NESTOR | I would my arms could match thee in contention As they contend with thee in courtesy. |
-| [[Hector|HECTOR]] | I would they could. |
-| NESTOR | Ha! By this white beard I’d fight with thee tomorrow. [[Well]], welcome, welcome! I have seen the [[Time|time]]. |
-| [[Ulysses|ULYSSES]] | I [[Wonder|wonder]] now how yonder [[City|city]] stands When we have here her base and pillar by us? |
-| [[Hector|HECTOR]] | I know your favour, Lord [[Ulysses]], [[Well|well]]. Ah, sir, there’s many a Greek and Trojan dead Since first I saw yourself and Diomed In Ilium on your Greekish embassy. |
-| [[Ulysses|ULYSSES]] | Sir, I foretold you then what would ensue. My prophecy is but half his [[Journey|journey]] yet; For yonder walls that pertly front your town, Yon towers whose wanton tops do buss the clouds, Must kiss their own feet. |
-| [[Hector|HECTOR]] | I must not believe you. There they stand yet, and modestly I think The fall of every Phrygian stone will cost A drop of Grecian [[Blood|blood]]. The end crowns all, And that old common arbitrator [[Time]] Will one day end it. |
-| [[Ulysses|ULYSSES]] | So to him we leave it. Most gentle and most valiant [[Hector]], welcome. He embraces him |
-| [[Ulysses|ULYSSES]] | After the General, I beseech you next To feast with me and see me at my tent. |
-| [[Achilles|ACHILLES]] | I shall forestall thee, Lord [[Ulysses]]. To [[Hector]] Thou! Now, [[Hector]], I have fed mine eyes on thee. I have with exact view perused thee, [[Hector]], And quoted joint by joint. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_6--05_exchange_hector" data-title="Troilus and Cressida — Act IV, Scene 6 — exchange (HECTOR) [5]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Hector|HECTOR]] | Is this [[Achilles]]? |
-| [[Achilles|ACHILLES]] | I am [[Achilles]]. |
-| [[Hector|HECTOR]] | Stand fair, I pray thee, let me look on thee. |
-| [[Achilles|ACHILLES]] | Behold thy fill. |
-| [[Hector|HECTOR]] | Nay, I have done already. |
-| [[Achilles|ACHILLES]] | Thou art too brief. I will the second [[Time|time]], As I would buy thee, view thee limb by limb. |
-| [[Hector|HECTOR]] | O, like a book of sport thou‘lt read me o’er. But there’s more in me than thou understand’st. Why dost thou so oppress me with thine eye? |
-| [[Achilles|ACHILLES]] | Tell me, you heavens, in which part of his [[Body|body]] Shall I destroy him—whether there, or there, or there— That I may give the local wound a name, And make distinct the very breach whereout [[Hector]]’s great spirit flew? Answer me, heavens. |
-| [[Hector|HECTOR]] | It would discredit the blest gods, proud man, To answer such a question. Stand again. Think’st thou to catch my life so pleasantly As to prenominate in nice conjecture Where thou wilt hit me dead? |
-| [[Achilles|ACHILLES]] | I tell thee, yea. |
-| [[Hector|HECTOR]] | Wert thou the oracle to tell me so, I’d not believe thee. Henceforth guard thee [[Well|well]]. For I’ll not kill thee there, nor there, nor there, But, by the forge that stithied Mars his helm, I’ll kill thee everywhere, yea, o‘er and o’er.— You wisest Grecians, pardon me this brag: His insolence draws folly from my lips. But I’ll endeavour deeds to match these words, Or may I never— |
-| [[Ajax|AJAX]] | Do not chafe thee, cousin.— And you, [[Achilles]], let these threats [[Alone|alone]], Till accident or purpose bring you to’t. You may have every day enough of [[Hector]], If you have stomach. The general state, I [[Fear|fear]], Can scarce entreat you to be odd with him. |
-| [[Hector|HECTOR]] | (to [[Achilles]]) I pray you, let us see you in the field. We have had pelting wars since you refused The Grecians’ cause. |
-| [[Achilles|ACHILLES]] | Dost thou entreat me, [[Hector]]? Tomorrow do I meet thee, fell as [[Death|death]]; Tonight, all friends. |
-| [[Hector|HECTOR]] | Thy hand upon that match. |
-| [[Agamemnon|AGAMEMNON]] | First, all you peers of Greece, go to my tent. There in the full convive you. Afterwards, As [[Hector]]’s leisure and your bounties shall Concur together, severally entreat him. Beat loud the taborins, let the trumpets blow, That this great soldier may his welcome know. Flourish. Exeunt all but [[Troilus]] and [[Ulysses]] |
-| [[Troilus|TROILUS]] | My Lord [[Ulysses]], tell me, I beseech you, In what place of the field doth Calchas keep? |
-| [[Ulysses|ULYSSES]] | At Menelaus’ tent, most princely [[Troilus]]. There Diomed doth feast with him tonight— Who neither looks on heaven nor on earth, But gives all gaze and bent of amorous view On the fair Cressid. |
-| [[Troilus|TROILUS]] | Shall I, sweet lord, be bound to you so much, After we part from [[Agamemnon]]’s tent, To bring me thither? |
-| [[Ulysses|ULYSSES]] | You shall command me, sir. As gentle tell me, of what [[Honour|honour]] was This [[Cressida]] in Troy? Had she no [[Lover|lover]] there That wails her absence? |
-| [[Troilus|TROILUS]] | O sir, to such as boasting show their scars A mock is due. Will you walk on, my lord? She was beloved, she loved; she is, and doth. But still sweet [[Love|love]] is food for fortune’s tooth. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_11--01_exchange_dialogue" data-title="Troilus and Cressida — Act V, Scene 11 — exchange (dialogue) [1]" data-chapter="Scene 11" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Aeneas, [[Paris]], Antenor, and Deiphobus |
-| AENEAS | Stand, ho! Yet are we masters of the field. Never go [[Home|home]]; here starve we out the [[Night|night]]. Enter [[Troilus]] |
-| [[Troilus|TROILUS]] | [[Hector]] is slain. |
-| ALL THE OTHERS | [[Hector]]? The gods forbid. |
-| [[Troilus|TROILUS]] | He’s dead, and at the murderer’s [[Horse|horse]]’s tail In beastly sort dragged through the shameful field. Frown on, you heavens; effect your rage with [[Speed|speed]]; Sit, gods, upon your thrones, and smite at Troy. I say, at once: let your brief plagues be [[Mercy|mercy]], And linger not our sure destructions on. |
-| AENEAS | My lord, you do discomfort all the host. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_11--02_monologue_troilus" data-title="Troilus and Cressida — Act V, Scene 11 — monologue (TROILUS) [2]" data-chapter="Scene 11" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Troilus|TROILUS]] | You understand me not that tell me so. I do not speak of flight, of [[Fear|fear]] of [[Death|death]], But dare all imminence that gods and men Address their dangers in. [[Hector]] is gone. Who shall tell Priam so, or Hecuba? Let him that will a screech-owl aye be called Go into Troy and say their [[Hector]]’s dead. There is a word will Priam turn to stone, Make wells and Niobes of the maids and wives, Cold statues of the youth, and in a word Scare Troy out of itself. But march away. [[Hector]] is dead; there is no more to say. Stay yet.—You vile abominable tents Thus proudly pitched upon our Phrygian plains, Let Titan rise as early as he dare, I’ll through and through you! And thou great-sized coward, No space of earth shall sunder our two hates. I’ll haunt thee like a wicked [[Conscience|conscience]] still, That mouldeth goblins swift as frenzy’s thoughts. Strike a free march! To Troy with comfort go: [[Hope]] of [[Revenge|revenge]] shall hide our inward woe. Exeunt marching |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_11--03_exchange_additional_passages" data-title="Troilus and Cressida — Act V, Scene 11 — exchange (ADDITIONAL PASSAGES) [3]" data-chapter="Scene 11" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| ADDITIONAL PASSAGES | A. The Quarto (below) gives a more elaborate version of [[Thersites]]’ speech at 5.1.17-21. |
-| [[Thersites|THERSITES]] | Why, his masculine whore. Now the rotten diseases of the south, the guts-griping, ruptures, loads o’ gravel in the back, lethargies, cold palsies, raw eyes, dirt-rotten livers, wheezing lungs, bladders full of impostume, sciaticas, lime-kilns i’th’ palm, incurable bone-ache, and the rivelled fee-simple of the tetter, take and take again such preposterous discoveries. |
-| [[Thersites|THERSITES]] | B. The Quarto gives a different ending to the play (which the Folio inadvertently repeats). Enter [[Pandarus]] |
-| [[Pandarus|PANDARUS]] | But hear you, hear you. |
-| [[Troilus|TROILUS]] | Hence, broker-lackey. Strikes him Ignomy and shame Pursue thy life, and live aye with thy name. Exeunt all but [[Pandarus]] |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_11--04_monologue_pandarus_a" data-title="Troilus and Cressida — Act V, Scene 11 — monologue (PANDARUS A) [4]" data-chapter="Scene 11" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Pandarus|PANDARUS]] | A goodly medicine for my aching bones. O world, world, world!—thus is the poor agent despised. O traitors and bawds, how earnestly are you set a work, and how ill requited! Why should our endeavour be so desired and the performance so loathed? What verse for it? What instance for it? Let me see, Full merrily the humble-bee doth sing Till he hath lost his honey and his sting, And being once subdued in armèd tail, Sweet honey and sweet notes together fail. Good traders in the flesh, set this in your painted cloths: As many as be here of Pandar’s hall, Your eyes, half out, weep out at Pandar’s fall. Or if you cannot weep, yet give some groans, Though not for me, yet for your aching bones. Brethren and sisters of the hold-door trade, Some two months hence my will shall here be made. It should be now, but that my [[Fear|fear]] is this: Some galled goose of Winchester would hiss. Till then I’ll sweat and seek about for eases, And at that [[Time|time]] bequeath you my diseases. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_11--05_exchange_sonnets_and_a_lovers" data-title="Troilus and Cressida — Act V, Scene 11 — exchange (SONNETS AND ‘A LOVER’S) [5]" data-chapter="Scene 11" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SONNETS AND | ‘A [[Lover|LOVER]]’S COMPLAINT’ |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_11--06_monologue_shakespeares" data-title="Troilus and Cressida — Act V, Scene 11 — monologue (SHAKESPEARE’S) [6]" data-chapter="Scene 11" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SHAKESPEARE’S | Sonnets were published as a collection by Thomas Thorpe in 1609; the title-page declared that they were ‘never before imprinted’. Versions of two of them- 138 and 144—had appeared in 1599, in The Passionate [[Pilgrim]] , a collection ascribed to Shakespeare but including some [[Poems|poems]] certainly written by other authors; and in the previous year Francis Meres, in Palladis Tamia, had alluded to Shakespeare’s ‘sugared sonnets among his private friends’. The [[Sonnet|sonnet]] sequence had enjoyed a brief but intense vogue from the publication of Sir Philip Sidney’s Astrophil and Stella in 1591 till about 1597. Some of Shakespeare’s plays of this period reflect the fashion: in the [[Comedy|comedy]] of [[Love]]’s Labour’s Lost the writing of sonnets is seen as a laughable symptom of [[Love|love]], and in the [[Tragedy|tragedy]] of [[Romeo]] and [[Juliet]] both speeches of the [[Chorus]] and the [[lovers]]’ first conversation are in [[Sonnet|sonnet]] form. Later plays use it, too, but it seems likely that most of Shakespeare’s sonnets were first written during this period. But there are indications that some of them were revised; the two printed in The Passionate [[Pilgrim]] differ at certain points from Thorpe’s version, and two other sonnets (2 and 106) exist in manuscript versions which also are not identical with those published in the sequence. We print these as ‘Alternative Versions’ of Sonnets 2, 106, 138, and 144. |
-| SHAKESPEARE’S | The order in which Thorpe printed the Sonnets has often been questioned, but is not entirely haphazard: all the first seventeen, and no later ones, exhort a young man to marry; all those clearly addressed to one or more men are among the first 126, and all those clearly addressed to, or concerned with, one or more women (the ‘dark lady’) follow. Some of the sonnets in the second group appear to refer to events that prompted sonnets in the first group; it seems likely that the [[Poems|poems]] were rearranged after composition. Moreover, the volume contains ‘A [[Lover]]’s Complaint’, clearly ascribed to Shakespeare, which stylistic evidence suggests was written in the early seventeenth century and which may have been intended as a companion piece. So, printing the Sonnets in Thorpe’s order, we place them according to the likely date of their revision. |
-| SHAKESPEARE’S | Textual evidence suggests that Thorpe printed from a transcript by someone other than Shakespeare. His volume bears a dedication over his own initials to ‘Mr W.H.’; we do not know whether this derives from the manuscript, and can only speculate about the dedicatee’s [[Identity|identity]]. His initials are those of Shakespeare’s only known dedicatee, Henry Wriothesley, Earl of Southampton, but in reverse order. We have even less clue as to the [[Identity|identity]] of the Sonnets’ other personae, who include a rival poet and a dark woman. |
-| SHAKESPEARE’S | Shakespeare’s Sonnets may not be autobiographical, but they are certainly unconventional: the most idealistic [[Poems|poems]] celebrating [[Love|love]]’s mutuality are addressed by one man to another, and the [[Poems|poems]] clearly addressed to a woman revile her morals, speak ill of her appearance, and explore the poet’s [[Self|self]]-disgust at his entanglement with her. The Sonnets include some of the finest [[Love|love]] [[Poems|poems]] in the English language: the sequence itself presents an internal drama of great psychological complexity. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_11--07_exchange_tothe_onlybegetterof" data-title="Troilus and Cressida — Act V, Scene 11 — exchange (TO.THE. ONLY.BEGETTER.OF.) [7]" data-chapter="Scene 11" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| TO.THE. ONLY.BEGETTER.OF. THESE.ENSUING.SONNETS. | M r .W.H. ALL.HAPPINESS. AND.THAT.[[Eternity|ETERNITY]]. PROMISED. BY. OUR.EVER-LIVING.POET. WISHETH. THE. [[Well|WELL]]-WISHING. ADVENTURER.IN. SETTING. FORTH. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--01_exchange_dialogue" data-title="Troilus and Cressida — Act V, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Diomedes |
-| DIOMEDES | What, are you up here? Ho! Speak! |
-| CALCHAS | at the door Who calls? |
-| DIOMEDES | Diomed. Calchas, I think. Where’s your daughter? |
-| CALCHAS | at the door She comes to you. Enter [[Troilus]] and [[Ulysses]], unseen |
-| [[Ulysses|ULYSSES]] | (aside) Stand where the torch may not discover us. |
-| [[Troilus|TROILUS]] | (aside) Cressid comes forth to him. Enter [[Cressida]] |
-| DIOMEDES | How now, my charge? |
-| [[Cressida|CRESSIDA]] | Now, my sweet guardian. Hark, a word with you. She whispers to him. Enter [[Thersites]], unseen |
-| [[Troilus|TROILUS]] | (aside) Yea, so familiar? |
-| [[Ulysses|ULYSSES]] | (aside) She will sing any man at first sight. |
-| [[Thersites|THERSITES]] | (aside) And any man may sing her, if he can take her clef. She’s noted. |
-| DIOMEDES | Will you remember? |
-| [[Cressida|CRESSIDA]] | Remember? Yes. |
-| DIOMEDES | Nay, but do then, And let your mind be coupled with your words. |
-| [[Troilus|TROILUS]] | (aside) What should she remember? |
-| [[Ulysses|ULYSSES]] | (aside) List! |
-| [[Cressida|CRESSIDA]] | Sweet honey Greek, tempt me no more to folly. |
-| [[Thersites|THERSITES]] | (aside) Roguery. |
-| DIOMEDES | Nay, then! |
-| [[Cressida|CRESSIDA]] | I’ll tell you what— |
-| DIOMEDES | Fo, fo! Come, tell a pin. You are forsworn. |
-| [[Cressida|CRESSIDA]] | In [[Faith|faith]], I cannot. What would you have me do? |
-| [[Thersites|THERSITES]] | (aside) A juggling trick: to be secretly open. |
-| DIOMEDES | What did you swear you would bestow on me? |
-| [[Cressida|CRESSIDA]] | I prithee, do not hold me to mine oath. Bid me do anything but that, sweet Greek. |
-| DIOMEDES | Good [[Night|night]]. |
-| [[Troilus|TROILUS]] | (aside) Hold, patience! |
-| [[Ulysses|ULYSSES]] | (aside) How now, Trojan? |
-| [[Cressida|CRESSIDA]] | Diomed. |
-| DIOMEDES | No, no, good [[Night|night]]. I’ll be your [[Fool|fool]] no more. |
-| [[Troilus|TROILUS]] | (aside) Thy better must. |
-| [[Cressida|CRESSIDA]] | Hark, one word in your ear. She whispers to him |
-| [[Troilus|TROILUS]] | (aside) O plague and [[Madness|madness]]! |
-| [[Ulysses|ULYSSES]] | (aside) You are moved, Prince. Let us depart, I pray you, Lest your displeasure should enlarge itself To wrathful terms. This place is dangerous, The [[Time|time]] right deadly. I beseech you go. |
-| [[Troilus|TROILUS]] | (aside) Behold, I pray you. |
-| [[Ulysses|ULYSSES]] | (aside) Nay, good my lord, go off. You flow to great distraction. Come, my lord. |
-| [[Troilus|TROILUS]] | (aside) I prithee, stay. |
-| [[Ulysses|ULYSSES]] | (aside) You have not patience. Come. |
-| [[Troilus|TROILUS]] | (aside) I pray you, stay. By hell and all hell’s torments, I will not speak a word. |
-| DIOMEDES | And so good [[Night|night]]. |
-| [[Cressida|CRESSIDA]] | Nay, but you part in anger. |
-| [[Troilus|TROILUS]] | (aside) Doth that grieve thee? O withered [[Truth|truth]]! |
-| [[Ulysses|ULYSSES]] | (aside) Why, how now, lord? |
-| [[Troilus|TROILUS]] | (aside) By Jove, I will be patient. Diomedes starts to go |
-| [[Cressida|CRESSIDA]] | Guardian! Why, Greek! |
-| DIOMEDES | Fo, fo! Adieu. You palter. |
-| [[Cressida|CRESSIDA]] | In [[Faith|faith]], I do not. Come hither once again. |
-| [[Ulysses|ULYSSES]] | (aside) You shake, my lord, at something. Will you go? You will break out. |
-| [[Troilus|TROILUS]] | (aside) She strokes his cheek. |
-| [[Ulysses|ULYSSES]] | (aside) Come, come. |
-| [[Troilus|TROILUS]] | (aside) Nay, stay. By Jove, I will not speak a word. There is between my will and all offences A guard of patience. Stay a little while. |
-| [[Thersites|THERSITES]] | (aside) How the devil Luxury with his fat rump and potato finger tickles these together! Fry, lechery, fry. |
-| DIOMEDES | But will you then? |
-| [[Cressida|CRESSIDA]] | In [[Faith|faith]], I will, la. Never trust me else. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--02_exchange_diomedes" data-title="Troilus and Cressida — Act V, Scene 2 — exchange (DIOMEDES) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| DIOMEDES | Give me some token for the surety of it. |
-| [[Cressida|CRESSIDA]] | I’ll fetch you one. Exit |
-| [[Ulysses|ULYSSES]] | (aside) You have sworn patience. |
-| [[Troilus|TROILUS]] | (aside) [[Fear]] me not, sweet lord. I will not be myself, nor have cognition Of what I feel. I am all patience. Enter [[Cressida]] with [[Troilus]]’ sleeve |
-| [[Thersites|THERSITES]] | (aside) Now the pledge! Now, now, now. |
-| [[Cressida|CRESSIDA]] | Here Diomed, keep this sleeve. |
-| [[Troilus|TROILUS]] | (aside) O [[Beauty|beauty]], where is thy [[Faith|faith]]? |
-| [[Ulysses|ULYSSES]] | (aside) My lord. |
-| [[Troilus|TROILUS]] | (aside) I will be patient; outwardly I will. |
-| [[Cressida|CRESSIDA]] | You look upon that sleeve. Behold it [[Well|well]]. He loved me—O false wench!—give’t me again. She takes it back |
-| DIOMEDES | Whose was’t? |
-| [[Cressida|CRESSIDA]] | It is no matter, now I ha’t again. I will not meet with you tomorrow [[Night|night]]. I prithee, Diomed, visit me no more. |
-| [[Thersites|THERSITES]] | (aside) Now she sharpens. [[Well]] said, whetstone. |
-| DIOMEDES | I shall have it. |
-| [[Cressida|CRESSIDA]] | What, this? |
-| DIOMEDES | Ay, that. |
-| [[Cressida|CRESSIDA]] | O all you gods! O pretty pretty pledge! Thy master now lies thinking on his bed Of thee and me, and sighs, and takes my glove And gives memorial dainty kisses to it— DIOMEDES As I kiss thee. he snatches the sieeve [[Cressida|CRESSiDA]] Nay, do not snatch it from me. He that takes that doth take my heart withal. |
-| DIOMEDES | I had your heart before; this follows it. |
-| [[Troilus|TROILUS]] | (aside) I did swear patience. |
-| [[Cressida|CRESSIDA]] | You shall not have it, Diomed. [[Faith]], you shall not. I’ll give you something else. |
-| DIOMEDES | I will have this. Whose was it? |
-| [[Cressida|CRESSIDA]] | It is no matter. |
-| DIOMEDES | Come, tell me whose it was? |
-| [[Cressida|CRESSIDA]] | ’Twas one’s that loved me better than you will. But now you have it, take it. |
-| DIOMEDES | Whose was it? |
-| [[Cressida|CRESSIDA]] | By all [[Diana]]’s waiting-women yond, And by herself, I will not tell you whose. |
-| DIOMEDES | Tomorrow will I wear it on my helm, And grieve his spirit that dares, not challenge it. |
-| [[Troilus|TROILUS]] | (aside) Wert thou the devil and wor’st it on thy horn, It should be challenged. |
-| [[Cressida|CRESSIDA]] | [[Well]], [[Well|well]], ‘tis done, ’tis past—and yet it is not. I will not keep my word. |
-| DIOMEDES | Why then, farewell. Thou never shalt mock Diomed again. |
-| [[Cressida|CRESSIDA]] | You shall not go. One cannot speak a word But it straight starts you. |
-| DIOMEDES | I do not like this fooling. [[Troilus|TROILUS]] (aside) Nor I, by Pluto—but that that likes not you Pleases me best. |
-| DIOMEDES | What, shall I come? The hour— |
-| [[Cressida|CRESSIDA]] | Ay, come. O Jove, do come. I shall be plagued. |
-| DIOMEDES | Farewell till then. |
-| [[Cressida|CRESSIDA]] | Good [[Night|night]]. I prithee, come. Exit Diomedes [[Troilus]], farewell. One eye yet looks on thee, But with my heart the other eye doth see. Ah, poor our sex! This fault in us I find: The error of our eye directs our mind. What error leads must err. O then conclude: Minds swayed by eyes are full of turpitude. Exit |
-| [[Thersites|THERSITES]] | (aside) A proof of strength she could not publish more Unless she said, ‘My mind is now turned whore’. |
-| [[Ulysses|ULYSSES]] | All’s done, my lord. |
-| [[Troilus|TROILUS]] | It is. |
-| [[Ulysses|ULYSSES]] | Why stay we then? |
-| [[Troilus|TROILUS]] | To make a recordation to my [[Soul|soul]] Of every syllable that here was spoke. But if I tell how these two did co-act, Shall I not lie in publishing a [[Truth|truth]]? Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert th’attest of eyes and ears, As if those organs had deceptious functions Created only to calumniate. Was Cressid here? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--03_exchange_ulysses_i" data-title="Troilus and Cressida — Act V, Scene 2 — exchange (ULYSSES I) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Ulysses|ULYSSES]] | I cannot conjure, Trojan. |
-| [[Troilus|TROILUS]] | She was not, sure. |
-| [[Ulysses|ULYSSES]] | Most sure, she was. |
-| [[Troilus|TROILUS]] | Why, my negation hath no taste of [[Madness|madness]]. |
-| [[Ulysses|ULYSSES]] | Nor mine, my lord. Cressid was here but now. |
-| [[Troilus|TROILUS]] | Let it not be believed, for womanhood. Think: we had mothers. Do not give advantage To stubborn critics, apt without a theme For depravation to square the general sex By Cressid’s rule. Rather, think this not Cressid. |
-| [[Ulysses|ULYSSES]] | What hath she done, Prince, that can soil our mothers? |
-| [[Troilus|TROILUS]] | Nothing at all, unless that this were she. |
-| [[Thersites|THERSITES]] | (aside) Will a swagger himself out on’s own eyes? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--04_monologue_troilus" data-title="Troilus and Cressida — Act V, Scene 2 — monologue (TROILUS) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Troilus|TROILUS]] | This, she? No, this is Diomed’s [[Cressida]]. If [[Beauty|beauty]] have a [[Soul|soul]], this is not she. If souls guide vows, if vows be sanctimonies, If sanctimony be the gods’ delight, If there be rule in [[unity]] itself, This is not she. O [[Madness|madness]] of discourse, That cause sets up with and against thyselfl Bifold authority, where reason can revolt Without perdition, and loss assume all reason Without revolt! This is and is not Cressid. Within my [[Soul|soul]] there doth conduce a fight Of this strange [[Nature|nature]], that a thing inseparate Divides more wider than the sky and earth, And yet the spacious breadth of this division Admits no orifex for a point as subtle As Ariachne’s broken woof to enter. Instance, O instance, strong as Pluto’s gates: Cressid is mine, tied with the bonds of heaven. Instance, O instance, strong as heaven itself: The bonds of heaven are slipped, dissolved, and loosed, And with another knot, five-finger-tied, The fractions of her [[Faith|faith]], orts of her [[Love|love]], The fragments, scraps, the bits and greasy relics Of her o’er-eaten [[Faith|faith]], are bound to Diomed. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--05_exchange_ulysses" data-title="Troilus and Cressida — Act V, Scene 2 — exchange (ULYSSES) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Ulysses|ULYSSES]] | May worthy [[Troilus]] e’en be half attached With that which here his passion doth express? |
-| [[Troilus|TROILUS]] | Ay, Greek, and that shall be divulged [[Well|well]] In characters as red as Mars his heart Inflamed with [[Venus]]. Never did young man fancy With so eternal and so fixed a [[Soul|soul]]. Hark, Greek: as much as I do Cressid [[Love|love]], So much by weight hate I her Diomed. That sleeve is mine that he’ll bear in his helm. Were it a casque composed by Vulcan’s skill, My [[Sword|sword]] should bite it. Not the dreadful spout Which shipmen do the hurricano call, Constringed in mass by the almighty sun, Shall dizzy with more clamour Neptune’s ear In his descent, than shall my prompted [[Sword|sword]] Falling on Diomed. |
-| [[Thersites|THERSITES]] | (aside) He’ll tickle it for his concupy. |
-| [[Troilus|TROILUS]] | O Cressid, O false Cressid! False, false, false. Let all untruths stand by thy stained name, And they’ll seem glorious. |
-| [[Ulysses|ULYSSES]] | O contain yourself. Your passion draws ears hither. Enter Aeneas |
-| AENEAS | (to [[Troilus]]) I have been seeking you this hour, my lord. [[Hector]] by this is arming him in Troy. [[Ajax]] your guard stays to conduct you [[Home|home]]. |
-| [[Troilus|TROILUS]] | Have with you, Prince.—My courteous lord, adieu.— Farewell, revolted fair; and Diomed, Stand fast and wear a [[Castle|castle]] on thy head. |
-| [[Ulysses|ULYSSES]] | I’ll bring you to the gates. |
-| [[Troilus|TROILUS]] | Accept distracted thanks. Exeunt [[Troilus]], Aeneas, and [[Ulysses]] |
-| [[Thersites|THERSITES]] | Would I could meet that rogue Diomed! I would croak like a raven. I would bode, I would bode. Patroclus will give me anything for the intelligence of this whore. The parrot will not do more for an almond than he for a commodious drab. Lechery, lechery, still wars and lechery! Nothing else holds fashion. A burning devil take them! Exit |
 
 
 

@@ -7002,6 +7002,1174 @@ Che senso ha essere poeta, se non ti è concesso di domandare, tutto da solo, se
 
 
 
+<span class="atom-split" data-atom="story_06_on_a_censorship_for_literature--part_01" data-title="GKC Come to Think — ON A CENSORSHIP FOR LITERATURE (part 1)" data-chapter="ON A CENSORSHIP FOR LITERATURE" data-kind="excerpt"></span>
+
+
+V. On a Censorship for Literature
+
+T HE recurring discussion about a Censorship for Literature or
+the Arts is a good example of the extreme difficulty in these days
+of discussing anything.  Nobody seems to know where to begin.
+Nobody seems able to distinguish between one thing and another.
+For instance, to take a minor point, it is one thing to believe
+in A Censor and quite another thing to believe in The Censor.
+If I had to have my books censored, I would much rather they were
+censored by the [[Spanish Inquisition]] than by the British [[Home]] Office.
+The [[Spanish Inquisition]] was not an institution that I specially admire,
+but it did act on some intelligent principles; I know what the principles
+were and I agree with a great many of them.  As to the principles
+of Sir William Joynson-Hicks, my difficulty is threefold.
+Not only do I not agree with them, but I do not know what they are.
+Not only do I not know what they are, but I am sure that he does
+not know what they are.
+
+To begin with, supposing that the Censorship deals only with
+sexual decorum (which is generally far from being the case),
+there are at least three totally distinct things that are now
+generally discussed under that head.  First, there is the preaching
+or propagating of some theory about sex considered anti-social
+or anarchical.  Second, there is a certain sort of descriptive writing
+likely to excite appetites that may be anti-social or anarchical.
+Third, there is the use of certain terms, often merely old-fashioned,
+for things which later convention covers in some other way.
+I can understand a man wanting none of these things censored.
+I can understand him wanting all of these things censored.
+I can understand him wanting some censored and not others.
+But, anyhow, they have nothing to do with each other.  No two of them
+need be found together in the same sentence or the same book.
+A man could preach sexual anarchy in language as cold as that of an
+astronomical treatise, and about as seductive as a page of Bradshaw.
+A man could describe sensual things with an unscrupulous appeal
+to the senses, without preaching any theory at all and without using
+any coarse words at all.  Lastly, a man might use all the coarse words
+in Rabelais and make the theme rather repulsive than attractive.
+He might use all the coarse words in the [[Bible]] and be every bit
+as moral as the [[Bible]], or even as Puritan as the grimmest expositor
+of the [[Bible]].
+
+One would think that the very first thing that anybody discussing
+the question would realize would be the distinction between
+these three tests.  But, if we read a column in a newspaper,
+or a page in a popular book, professing to deal with the problem,
+we generally find them all mixed up together, whether the writer
+is denouncing the mixture or defending the mixture.  The [[Truth|truth]] is
+that in this matter most people's moral ideas are now already mixed.
+To take the first section in order to suppress false doctrine,
+we must have a definition of true doctrine.  And very few people
+now know exactly what doctrine is true, even if they feel a great
+many current ones are false.  For the second, it is, after all,
+a moral doctrine which declares that mere appeals to mere appetites
+are wrong.  It is a moral doctrine most decent people vaguely feel,
+but now a little too vaguely to be applied vigilantly.
+But, of these first two divisions, I may be allowed to add that
+they do emphatically involve immortal and unalterable [[Truth|truth]].
+The fact that a chaotic and ill-educated [[Time|time]] cannot clearly grasp
+that [[Truth|truth]] does not alter the fact that it always will be the [[Truth|truth]].
+
+There is a right relation of the sexes; there is a right rule
+about it; and there is a wrong appeal calculated to encourage
+a wrong relation.  But of the third thing it is not so.
+It is worth remarking that this third section, of the mere use of words,
+is the only one of which the modern talk is true.  Of this it is
+true to say that it is only a question of convention, of custom,
+of different periods of [[history]], of different stages of progress.
+It was not as gross of Shakespeare to use a certain word in a playhouse
+as it would have been gross of Dickens to use it in a drawing-room.
+But it would be just as wrong for Shakespeare to neglect his wife
+as for Dickens to neglect his wife.  I am not here raising the delicate
+controversy about whether either of these authors did neglect his wife.
+The point is that if they did they were wrong; and I will wager that
+they knew they were wrong; for they were traditional Christian men.
+The notion that, because language can change, therefore life and [[Love|love]]
+can change, is one of the many muddles of a thoroughly muddled mind.
+We might as [[Well|well]] say that because Shakespeare had trunkhose and Dickens
+bad trousers, it is but natural that the next great English author
+should have three legs.
+
+So long as the modern world plays with the preposterous idea
+that everything changes with the fashion, it is useless for it to
+attempt to control the changes in anything so fanciful as fiction.
+People will pursue the moment that is just passing; but they
+will not be persecuted for the moment that has just passed.
+You may send a man to [[Prison|prison]] for five years for writing a silly book,
+if you can say to him, ‘If you were in prison for five hundred years,
+it would still be a silly book.'  But you cannot say to a man,
+‘If you had waited fifteen years, this sort of book might have
+been fashionable; but, as it is, I send you to [[Prison|prison]] in the interval
+for being in advance of your age.'  That sort of persecution will
+never have any effect; for it combines injustice with indifference.
+It is at once an undeserved condemnation and an undeserved compliment.
+The fanatics of the past are sometimes blamed because they played
+the [[Tyrant|tyrant]] while appealing to eternal [[Truth|truth]].  But it is far more
+intolerable to play the [[Tyrant|tyrant]] while not appealing to eternal [[Truth|truth]].
+It is most intolerable of all to play the [[Tyrant|tyrant]] while appealing only
+to temporary fiction.  Nobody can be expected to stand the Inquisitor
+who says, ‘I am burning you alive for what you said to-day,
+and what I shall probably think to-morrow.' And that is the tone
+of nearly all the tentative repressions and remonstrances of our time.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+V. Su una Censura per la Letteratura
+
+LA ricorrente discussione su una Censura per la Letteratura o
+le Arti è un buon esempio dell'estrema difficoltà, in questi giorni,
+di discutere qualsiasi cosa. Nessuno pare sapere da dove cominciare.
+Nessuno pare capace di distinguere una cosa dall'altra.
+Per esempio, per prendere un punto minore, una cosa è credere
+in Un Censore e tutt'altra cosa credere ne Il Censore.
+Se dovessi far censurare i miei libri, preferirei di gran lunga che fossero
+censurati dall'[[Spanish Inquisition|Inquisizione Spagnola]] piuttosto che dal britannico Ministero dell'[[Home|Interno]].
+L'[[Spanish Inquisition|Inquisizione Spagnola]] non era un'istituzione che io ammiri particolarmente,
+ma agiva pur su alcuni principii intelligenti; io so quali fossero i principii
+e sono d'accordo con moltissimi di essi. Quanto ai principii
+di Sir William Joynson-Hicks, la mia difficoltà è triplice.
+Non solo non sono d'accordo con essi, ma non so quali siano.
+Non solo non so quali siano, ma sono sicuro che nemmeno lui
+sappia quali siano.
+
+Per cominciare, supponendo che la Censura si occupi solo del
+decoro sessuale (il che generalmente è ben lungi dall'essere il caso),
+ci sono almeno tre cose totalmente distinte che ora vengono
+generalmente discusse sotto quella voce. Primo, c'è il predicare
+o propagare qualche teoria sul sesso ritenuta anti-sociale
+o anarchica. Secondo, c'è un certo tipo di scrittura descrittiva
+atta a eccitare appetiti che possono essere anti-sociali o anarchici.
+Terzo, c'è l'uso di certi termini, spesso semplicemente all'antica,
+per cose che una convenzione più tarda copre in qualche altro modo.
+Posso capire un uomo che non vuole censurata nessuna di queste cose.
+Posso capirlo se le vuole tutte censurate.
+Posso capirlo se ne vuole alcune censurate e altre no.
+Ma, comunque, esse non hanno nulla a che fare l'una con l'altra. Nessuna due di esse
+ha bisogno di trovarsi insieme nella stessa frase o nello stesso libro.
+Un uomo potrebbe predicare l'anarchia sessuale in un linguaggio freddo come quello di un
+trattato astronomico, e seducente all'incirca quanto una pagina del Bradshaw.
+Un uomo potrebbe descrivere cose sensuali con uno spregiudicato appello
+ai sensi, senza predicare alcuna teoria e senza usare
+alcuna parola volgare. Infine, un uomo potrebbe usare tutte le parole volgari
+di Rabelais e rendere il tema più repellente che attraente.
+Potrebbe usare tutte le parole volgari della [[Bible|Bibbia]] ed essere in ogni singola parte
+morale quanto la [[Bible|Bibbia]], o persino Puritano quanto il più arcigno espositore
+della [[Bible|Bibbia]].
+
+Si penserebbe che la primissima cosa che chiunque discuta
+la questione dovrebbe comprendere sarebbe la distinzione tra
+questi tre criteri. Ma, se leggiamo una colonna in un giornale,
+o una pagina in un libro popolare, che dichiara di trattare il problema,
+generalmente li troviamo tutti mescolati insieme, sia che lo scrittore
+denunci la mescolanza o difenda la mescolanza. La [[Truth|verità]] è
+che in questa materia le idee morali della maggior parte della gente sono ormai già mescolate.
+Per prendere la prima sezione, allo scopo di sopprimere la falsa dottrina,
+dobbiamo avere una definizione di dottrina vera. E pochissima gente
+ora sa esattamente quale dottrina sia vera, anche se sente che moltissime
+di quelle correnti sono false. Quanto alla seconda, è, dopotutto,
+una dottrina morale quella che dichiara che i meri appelli ai meri appetiti
+sono sbagliati. È una dottrina morale che la maggior parte della gente per bene sente vagamente,
+ma ora un po' troppo vagamente per essere applicata con vigilanza.
+Ma, di queste prime due divisioni, mi sia permesso aggiungere che
+esse coinvolgono enfaticamente una [[Truth|verità]] immortale e inalterabile.
+Il fatto che un [[Time|tempo]] caotico e mal educato non possa afferrare chiaramente
+quella [[Truth|verità]] non altera il fatto che essa sarà sempre la [[Truth|verità]].
+
+C'è una giusta relazione dei sessi; c'è una giusta regola
+al riguardo; e c'è un appello sbagliato calcolato per incoraggiare
+una relazione sbagliata. Ma della terza cosa non è così.
+Vale la pena osservare che questa terza sezione, del mero uso delle parole,
+è l'unica di cui la moderna chiacchiera sia vera. Di questa è
+vero dire che è solo una questione di convenzione, di costume,
+di diversi periodi di [[history|storia]], di diversi stadi di progresso.
+Non era volgare in Shakespeare usare una certa parola in un teatro
+quanto lo sarebbe stato in Dickens usarla in un salotto.
+Ma sarebbe stato altrettanto sbagliato per Shakespeare trascurare la propria moglie
+quanto per Dickens trascurare la propria moglie. Non sto qui sollevando la delicata
+controversia sul se l'uno o l'altro di questi autori abbia davvero trascurato la propria moglie.
+Il punto è che se lo fecero avevano torto; e scommetto che
+sapevano di avere torto; poiché erano uomini cristiani tradizionali.
+L'idea che, poiché il linguaggio può cambiare, perciò la vita e l'[[Love|amore]]
+possano cambiare, è uno dei molti garbugli di una mente completamente ingarbugliata.
+Potremmo altrettanto [[Well|bene]] dire che poiché Shakespeare aveva le brache a sbuffo e Dickens
+brutti pantaloni, sia naturale che il prossimo grande autore inglese
+debba avere tre gambe.
+
+Finché il mondo moderno gioca con la preposterosa idea
+che tutto cambi con la moda, è inutile che esso
+tenti di controllare i cambiamenti in qualcosa di così fantasioso come la narrativa.
+La gente inseguirà il momento che sta appena passando; ma non
+sarà perseguitata per il momento che è appena passato.
+Puoi mandare un uomo in [[Prison|prigione]] per cinque anni per aver scritto un libro sciocco,
+se puoi dirgli: «Se fossi in prigione per cinquecento anni,
+sarebbe ancora un libro sciocco». Ma non puoi dire a un uomo:
+«Se avessi aspettato quindici anni, questo genere di libro sarebbe potuto
+essere di moda; ma, così com'è, ti mando in [[Prison|prigione]] nel frattempo
+per essere in anticipo sulla tua età». Quel genere di persecuzione non
+avrà mai alcun effetto; poiché combina l'ingiustizia con l'indifferenza.
+È a un tempo una condanna immeritata e un complimento immeritato.
+I fanatici del passato sono talvolta biasimati perché facevano
+i [[Tyrant|tiranni]] pur appellandosi a una [[Truth|verità]] eterna. Ma è assai più
+intollerabile fare il [[Tyrant|tiranno]] senza appellarsi a una [[Truth|verità]] eterna.
+È più intollerabile di tutto fare il [[Tyrant|tiranno]] appellandosi solo
+a una fiction temporanea. Nessuno può pretendere che si sopporti l'Inquisitore
+che dice: «Ti sto bruciando vivo per ciò che hai detto oggi,
+e ciò che probabilmente penserò domani». Ed è questo il tono
+di quasi tutte le tentative repressioni e rimostranze del nostro tempo.
+
+
+
+<span class="atom-split" data-atom="story_06_on_a_censorship_for_literature--part_02" data-title="GKC Come to Think — ON A CENSORSHIP FOR LITERATURE (part 2)" data-chapter="ON A CENSORSHIP FOR LITERATURE" data-kind="excerpt"></span>
+
+
+The plain truth is that modern society must have a morality
+before it can have a censor of morals.  I should say that it
+must have a religion before it can have a morality.
+But that is another question which I should not discuss fully here.
+Anyhow, the trouble is that people are making a fuss about unreal
+romances when they ought to be making a fuss about real life.
+It is a case of taking care of the facts and the fictions
+will take care of themselves.  If we cleanse the community,
+the community will cleanse its poetry and its prose.  But it is
+absurd to expect that people who do not respect their own promises,
+made at their own weddings, will be horrified because every novel does
+not end in a Victorian manner with wedding-bells. It is ridiculous
+to expect that people will be stung to fury by the behaviour of Joan
+in Green Pyjamas or Peter in Cocktail-Time, when they have managed
+to get reconciled to it in their own daughters or sons-in-law. I
+do not mean, of course, that all our family life is like that.
+Nor is all our fiction like that.  But many who demand a Censorship
+are really demanding that we should tolerate in life what we will
+not tolerate in literature.
+
+VI.  On Detective Story Writers
+
+T HE very first words of the story of Trent's Last Case ought
+to tell any intelligent and traditional person that the whole mind
+of the writer moves on a higher level than the ordinary murder story.
+Without making any parade of being more than a story-teller,
+he is a story-teller understanding style and distinction and the
+deeper philosophy that is never a fad or an ism; and, above all,
+understanding that weight and movement of words, in which style
+and distinction and philosophy and experience are one.
+For the very first words of this detective story, written to be
+read in a railway train, are, ‘Between what matters and what
+seems to matter, how should the world we know judge wisely?'
+I [[Hope|hope]] I may be excused if I find an interesting illustration of this
+very question in the public advertisements, and even the literary
+tributes at the back of the book.  For among those who have expressed
+their enthusiastic thanks to Mr. Bentley for writing a real [[Detective|detective]]
+story that was also a real book, are some of the very finest
+specialists in the department of the crime [[Novel|novel]], and also some
+of the first minds in the domain of general thought and culture.
+On the one hand, they include real experts in the scientific and
+exact treatment of such police problems, like Mr. R. Austin Freeman
+and Mr. Freeman Wills Crofts.  On the other hand, they include
+men brilliant and distinguished in totally different fields
+of serious speculation and controversy, like Father Ronald Knox,
+and Mr. G. D. H. Cole.  Last, but the very reverse of least,
+they include those writers, rather especially lady writers, who,
+without any special show of specialism, have written quite perfectly
+constructed crime stories that are also entertaining comedies;
+notably Mrs. [[Agatha]] Christie and Miss Dorothy Sayers.
+
+In addition to these authorities it would be easy, to my
+personal knowledge, to quote dozens of famous writers and thinkers,
+dons and doctors and diplomatists and poets of the most classical turn,
+who have put this book along with The Wallet of Kai Lung or The Diary
+of a Nobody in the small and secret shelf of the Best Books.  To mention
+only at random two of my friends, who will not resent the revelation:
+Mr. Hilaire Belloc, who never reads [[Detective|detective]] stories, admires this one;
+and Mr. Maurice Baring, who reads all the [[Detective|detective]] stories
+that can be had for [[Love|love]] or money, admires this one most of all.
+All this being so, I cannot but be interested in one small detail
+of the ceremonial embassy of thanks to Mr. Bentley; I mean the fact
+that the first name that gets announced of all that mission and
+printed on top of all such names, is the name of Mr. [[Edgar]] Wallace;
+and that Mr. [[Edgar]] Wallace [[Alone|alone]] is thought worthy to have
+his proclamation printed in large letters on the occasion.
+Evidently, it is his compliment [[Alone|alone]] that really counts ‘Between
+what matters and what seems to matter, how should the world we
+know judge wisely?'
+
+God forbid that I or anybody else should speak, ungratefully or
+ungraciously of Mr. Edgar Wallace.  I have enjoyed hundreds
+of his stories and hope to enjoy hundreds more; and it seems quite
+likely that I shall continue to have the chance of such enjoyment.
+To despise such stories is of all things the most despicable.
+It is like despising pantomimes or public-houses or comic songs or common
+enjoyments of every kind that bind us into the brotherhood of man.
+And when we are dealing with popular literature of this sound and lively
+sort it is very ungracious to complain of the amazing multiplicity
+of the output which a man like Mr. Wallace manages to achieve.
+It is like complaining that a really good alehouse provides too much ale;
+which would seem not only a blasphemy but almost a contradiction
+in terms.  It is like complaining that a really good popular singer can
+sing too many different songs; a complaint that is entirely a compliment.
+It is unreasonable to abuse Mr. Wallace for having entertained
+and excited us too much.  It is ungenerous to resent generosity.
+It may well be a pleasure to have given pleasure to so many;
+and it ought to be a pleasure for them to acknowledge it.
+
+But when all this is acknowledged, there remains a rational
+proportion in these things; and the selection of Mr. Edgar Wallace,
+out of all the other authorities, as if he were the one person
+who really matters, is not rational.  There is no possible reason
+for it, except a vulgar reason connected with mere size or noise
+or notoriety or mass-production. The satire called Reunion All Round
+is a thing that matters and will continue to matter; it may matter
+to our descendants a hundred years hence as the satire called
+Gulliver's Travels matters to us.  It is amusing and it is meant to amuse;
+but it is not only meant to kill time, but to kill trash and falsehood.
+I am glad to note that Miss Dorothy Sayers, who is one of those
+who do write murder stories as if they could write something else,
+tests her admiration of Mr. Bentley's book in this fashion,
+and says: ‘It is the one [[Detective|detective]] story of the present century
+which I am certain will go down to posterity as a classic.
+It is a masterpiece.'  A masterpiece is a thing that matters;
+and a man cannot produce, and probably does not pretend to produce,
+masterpieces or things that matter, to be sold by the million or poured
+out in a perpetual stream.  Thus a man like Father Ronald Knox,
+the author of Reunion All Round, in giving the laurel to a literary work,
+is dealing with something on his own level, and may be storing up
+something to be remembered; as we remember the decent [[Pride|pride]] of Pope
+in the compliment of his contemporaries:
+
+‘And Congreve loved and Swift endured my lays.'
+
+It is the same, of course, with the tributes or contributions of
+other serious writers to sensational romance.  The general movement
+called Guild Socialism may matter very much a hundred years hence;
+at any rate, it matters now; and a man who has expounded it with
+the economic clarity and close ness of Mr. Cole certainly matters now.
+The solid, detailed, scientific argument of Dr. Thorndyke,
+in the romances of Mr. Austin Freeman, matters now; and may quite
+probably continue to matter.  In that sense, pelting the world
+with a prodigious number of quite readable sensational romances
+does not matter; and most probably is not meant to matter.
+As a matter of fact, there is one section of Mr. Edgar Wallace's work,
+some of his sketches about South Africa, that really is of a more
+solid and intrinsically valuable type.  Perhaps he was a better
+writer before he was a best-seller, like Sir Hall Caine;
+perhaps he described real Kaffirs better than unreal Chinamen,
+just as Sir Hall Caine was so much better when he was confined
+to the Isle of Man, and not let loose on the Universe of Man.
+
+But, in truth, there is another distinction to be made.
+Even at their best, Mr. Edgar Wallace's stories are generally not
+detective stories, but adventure stories.  The two are too much
+confused under the loose title of shockers or sensational novels;
+and the writers are often confused themselves about which of
+the two they are writing.  But the sort of story that can be turned
+out in such numbers is normally the story of varied adventure;
+as it was turned out by Dumas, or, for that matter, by Henty.
+It is not so very difficult to plan out, two or three times
+a week, a sort of obstacle race of man-traps and ambushes,
+so that a hero shall be in perpetual peril.  Thank the Lord
+it is so easy to write and so easy to read; it is no disgrace
+to be classed with Dumas and thanked for fertility like his.
+But to make one man-trap that shall be inspected by experts through
+the length of a book, and never found to be a man-trap at all,
+that is work for a different sort of man; and even Trent called it
+his Last Case and has refused to try again.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La schietta verità è che la società moderna deve avere una morale
+prima di poter avere un censore dei costumi. Direi che
+deve avere una religione prima di poter avere una morale.
+Ma questa è un'altra questione che non dovrei discutere pienamente qui.
+Comunque, il guaio è che la gente fa un gran chiasso su irreali
+romanzi quando dovrebbe far chiasso sulla vita reale.
+È un caso di prendersi cura dei fatti, e le finzioni
+si prenderanno cura di sé. Se purifichiamo la comunità,
+la comunità purificherà la sua poesia e la sua prosa. Ma è
+assurdo aspettarsi che gente che non rispetta le proprie promesse,
+fatte alle proprie nozze, si scandalizzi perché ogni romanzo non
+finisce alla maniera vittoriana con campane nuziali. È ridicolo
+aspettarsi che la gente sia punta al furore dal comportamento di Joan
+in Pigiama Verde o di Peter in Ora dell'Aperitivo, quando è riuscita
+a riconciliarcisi nelle proprie figlie o generi. Non
+intendo, naturalmente, che tutta la nostra vita di famiglia sia così.
+Né tutta la nostra narrativa è così. Ma molti che chiedono una Censura
+stanno in realtà chiedendo che tolleriamo nella vita ciò che non
+tollereremo nella letteratura.
+
+VI. Sugli Scrittori di Storie Poliziesche
+
+LE primissime parole della storia dell'Ultimo Caso di Trent dovrebbero
+dire a qualsiasi persona intelligente e tradizionale che l'intera mente
+dello scrittore si muove su un piano più alto dell'ordinaria storia d'omicidio.
+Senza far alcuna ostentazione d'essere più di un narratore,
+egli è un narratore che comprende lo stile e la distinzione e la
+più profonda filosofia che non è mai una mania o un ismo; e, soprattutto,
+che comprende quel peso e movimento delle parole, in cui stile
+e distinzione e filosofia ed esperienza sono una cosa sola.
+Poiché le primissime parole di questa storia poliziesca, scritta per essere
+letta in un treno, sono: «Fra ciò che conta e ciò che
+sembra contare, come dovrebbe il mondo che conosciamo giudicare con saggezza?»
+[[Hope|Spero]] mi si perdoni se trovo un'interessante illustrazione di questa
+stessa questione nelle pubbliche inserzioni, e persino nei
+tributi letterari sul retro del libro. Poiché tra coloro che hanno espresso
+il loro entusiastico ringraziamento al signor Bentley per aver scritto una vera storia
+[[Detective|poliziesca]] che era anche un vero libro, ci sono alcuni dei più fini
+specialisti nel campo del [[Novel|romanzo]] criminale, e anche alcune
+delle prime menti nel dominio del pensiero e della cultura generale.
+Da un lato, essi includono veri esperti nel trattamento scientifico ed
+esatto di simili problemi polizieschi, come il signor R. Austin Freeman
+e il signor Freeman Wills Crofts. Dall'altro lato, essi includono
+uomini brillanti e insigni in campi totalmente diversi
+di seria speculazione e controversia, come Padre Ronald Knox,
+e il signor G. D. H. Cole. Ultimi, ma tutt'altro che minimi,
+essi includono quegli scrittori, e piuttosto specialmente scrittrici, che,
+senza alcuna speciale ostentazione di specialismo, hanno scritto storie criminali
+perfettamente costruite che sono anche divertenti commedie;
+in particolare la signora [[Agatha]] Christie e la signorina Dorothy Sayers.
+
+Oltre a queste autorità sarebbe facile, a mia
+personale conoscenza, citare dozzine di famosi scrittori e pensatori,
+docenti e dottori e diplomatici e poeti della più classica inclinazione,
+che hanno messo questo libro insieme a La Bisaccia di Kai Lung o al Diario
+di un Signor Nessuno nella piccola e segreta mensola dei Migliori Libri. Per menzionare
+solo a caso due dei miei amici, che non si risentiranno della rivelazione:
+il signor Hilaire Belloc, che non legge mai storie [[Detective|poliziesche]], ammira questa;
+e il signor Maurice Baring, che legge tutte le storie [[Detective|poliziesche]]
+che si possano avere per [[Love|amore]] o per denaro, ammira questa più di tutte.
+Stando così le cose, non posso non essere interessato a un piccolo dettaglio
+della cerimoniale ambasceria di ringraziamento al signor Bentley; intendo il fatto
+che il primo nome ad essere annunciato di tutta quella missione e
+stampato in cima a tutti questi nomi, è il nome del signor [[Edgar]] Wallace;
+e che il signor [[Edgar]] Wallace [[Alone|soltanto]] è ritenuto degno di avere
+il suo proclama stampato a grandi lettere per l'occasione.
+Evidentemente, è il suo complimento [[Alone|soltanto]] che davvero conta «Fra
+ciò che conta e ciò che sembra contare, come dovrebbe il mondo che
+conosciamo giudicare con saggezza?»
+
+Dio non voglia che io o chiunque altro parli, con ingratitudine o
+scortesia, del signor Edgar Wallace. Ho goduto di centinaia
+delle sue storie e spero di godere di centinaia altre; e pare abbastanza
+probabile che continuerò ad avere l'occasione di tale godimento.
+Disprezzare simili storie è di tutte le cose la più spregevole.
+È come disprezzare le pantomime o le osterie o le canzoni comiche o i comuni
+divertimenti d'ogni sorta che ci legano nella fratellanza degli uomini.
+E quando abbiamo a che fare con la letteratura popolare di questo genere sano e vivace,
+è assai scortese lamentarsi della stupefacente molteplicità
+della produzione che un uomo come il signor Wallace riesce a realizzare.
+È come lamentarsi che una birreria davvero buona fornisca troppa birra;
+il che parrebbe non solo una bestemmia ma quasi una contraddizione
+in termini. È come lamentarsi che un cantante popolare davvero buono sappia
+cantare troppe canzoni diverse; una lamentela che è interamente un complimento.
+È irragionevole rimproverare il signor Wallace d'averci intrattenuti
+ed eccitati troppo. È ingeneroso risentirsi della generosità.
+Può ben essere un piacere aver dato piacere a così tanti;
+e dovrebbe essere per loro un piacere riconoscerlo.
+
+Ma quando tutto questo è riconosciuto, rimane una razionale
+proporzione in queste cose; e la scelta del signor Edgar Wallace,
+tra tutte le altre autorità, come se egli fosse l'unica persona
+che davvero conta, non è razionale. Non c'è alcuna possibile ragione
+per essa, tranne una volgare ragione connessa con la mera mole o il rumore
+o la notorietà o la produzione di massa. La satira intitolata Reunion All Round
+è una cosa che conta e continuerà a contare; potrà contare
+per i nostri discendenti fra cent'anni come la satira intitolata
+I Viaggi di Gulliver conta per noi. È divertente ed è intesa a divertire;
+ma non è solo intesa a uccidere il tempo, bensì a uccidere la robaccia e la falsità.
+Sono lieto di notare che la signorina Dorothy Sayers, che è una di coloro
+che scrivono storie d'omicidio come se sapessero scrivere qualcos'altro,
+mette alla prova la sua ammirazione per il libro del signor Bentley in questo modo,
+e dice: «È l'unica storia [[Detective|poliziesca]] del presente secolo
+che sono certa passerà ai posteri come un classico.
+È un capolavoro». Un capolavoro è una cosa che conta;
+e un uomo non può produrre, e probabilmente non pretende di produrre,
+capolavori o cose che contano, per venderli a milioni o versarli
+in un flusso perpetuo. Così un uomo come Padre Ronald Knox,
+l'autore di Reunion All Round, nel dare l'alloro a un'opera letteraria,
+ha a che fare con qualcosa al proprio livello, e può star mettendo da parte
+qualcosa da ricordare; come noi ricordiamo il decoroso [[Pride|orgoglio]] di Pope
+per il complimento dei suoi contemporanei:
+
+«E Congreve amò e Swift sopportò i miei versi».
+
+È lo stesso, naturalmente, coi tributi o contributi di
+altri seri scrittori al romanzo sensazionale. Il movimento generale
+chiamato Socialismo Gildista può contare moltissimo fra cent'anni;
+in ogni caso, conta ora; e un uomo che l'ha esposto con
+la chiarezza economica e il rigore del signor Cole di certo conta ora.
+Il solido, dettagliato, scientifico argomentare del dottor Thorndyke,
+nei romanzi del signor Austin Freeman, conta ora; e assai
+probabilmente potrà continuare a contare. In quel senso, sommergere il mondo
+con un prodigioso numero di romanzi sensazionali abbastanza leggibili
+non conta; e con ogni probabilità non è inteso a contare.
+Di fatto, c'è una sezione dell'opera del signor Edgar Wallace,
+alcuni dei suoi bozzetti sul Sudafrica, che è davvero di un tipo più
+solido e intrinsecamente prezioso. Forse egli era uno scrittore migliore
+prima di essere un bestseller, come Sir Hall Caine;
+forse descrisse veri Kaffir meglio che irreali Cinesi,
+proprio come Sir Hall Caine era assai migliore quando era confinato
+all'Isola di Man, e non lasciato libero sull'Universo dell'Uomo.
+
+Ma, in verità, c'è un'altra distinzione da fare.
+Persino al loro meglio, le storie del signor Edgar Wallace generalmente non sono
+storie poliziesche, bensì storie d'avventura. Le due sono troppo
+confuse sotto il vago titolo di shockers o romanzi sensazionali;
+e gli scrittori stessi spesso si confondono su quale delle
+due stiano scrivendo. Ma il tipo di storia che si può sfornare
+in tal numero è normalmente la storia di varia avventura;
+come la sfornavano Dumas, o, se è per questo, Henty.
+Non è così difficile pianificare, due o tre volte
+alla settimana, una sorta di corsa a ostacoli fatta di trappole e agguati,
+così che un eroe sia in perpetuo pericolo. Grazie al Cielo
+è così facile da scrivere e così facile da leggere; non è alcuna vergogna
+essere classificati con Dumas e ringraziati per una fertilità come la sua.
+Ma costruire un'unica trappola che venga ispezionata da esperti per
+l'intera lunghezza di un libro, e mai scoperta essere affatto una trappola,
+questo è lavoro per un tipo d'uomo diverso; e persino Trent lo chiamò
+il suo Ultimo Caso e ha rifiutato di riprovare.
+
+
+
+<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_01" data-title="GKC Come to Think — ON THE NEW POETRY (part 1)" data-chapter="ON THE NEW POETRY" data-kind="excerpt"></span>
+
+
+VII.  On the New Poetry
+
+IT is fashionable now to slate poets for being poetical.
+The most crushing ease against them is when they can be convicted
+of being musical.  Mr. Walter de la Mare is caught tripping on the light
+fantastic toe to a tune that was alleged to be brazenly melodious
+and pleasing; and Mr. Humbert Wolfe is arrested in the very act
+of uttering harmonies in the old, vulgar fashion of Milton and Keats.
+Crimes of this sort our critics seem more and more bent on bringing
+to light; but the code of law which they administer is still
+in the making and appears some times to be a little vague.
+It is not easy for the outsider to understand why words that
+might be inspiring and imaginative if only they were cacophonous
+and clumsy can become less intelligent or suggestive merely
+by being sonorous or sweet.  But there seems really to be an idea,
+in some of the critics, that the poet should avoid pleasing the ear,
+quite apart from his primary duty to please the mind.  It seems
+to be akin to the idea of the Imagists, those singular idolaters,
+and to suggest that the worshipper must have the image but not
+the hymn of praise--the sound of sackbut, dulcimer, and all
+kinds of music before the image that the King has set up.
+In plain words, imaginative poetry must not appeal to the sense
+of sound.  The futurist poet is like the Early Victorian child.
+He must be seen and not heard.
+
+I have, indeed, heard of one modern critic who went even further.
+He is reported as having said:
+
+‘True poetry should be invisible and inaudible.'
+Presumably it will appeal to the sense of smell.
+In one sense, doubtless, we may recognize considerable [[Truth|truth]]
+in all this, as a description of contemporary conditions.
+Most of us have read rich passages of modern poetry in which
+the melody was quite inaudible and the vision was quite invisible.
+To us, unfortunately, it was also true that the poetry was
+quite invisible.  But that is a matter of personal impression,
+and we cannot argue with the critic about it with any logical profit.
+It may be that for him the real melody of the real melodists is inaudible;
+and that is why he cannot appreciate people like Mr. Walter de la Mare.
+But it is no good for the writer and the critic to engage in a
+slanging match to prove which of them is deaf; which can only,
+at best, prove that neither of them is dumb.  The only course,
+as in every quarrel, is to go back to first principles.
+
+I do not know how the thing might be settled if it were left
+as a mere dispute about tastes.  I do not know if the poets would
+give the lie to the critics and hotly deny that they had ever
+been guilty of making agreeable noises.  I know not if Mr. de la
+Mare will furiously deny that he has an ear; or Mr. Wolfe seek,
+by emitting hideous sounds, to claim a stainless reputation for discord.
+Personally, as a mere matter of taste, I prefer them as they are.
+But the only possible way of debating these things in public
+is to ask for fundamental or first principles.  If there are
+such principles, it is best to [[debate]] on the basis of them.
+If there are no such principles, it is best not to [[debate]] at all.
+In that case, indeed, we cannot [[debate]] at all.  We can only go
+on making noises--if we are common and vulgar persons, tolerable or
+pleasing noises; if we are fastidious and futuristic persons,
+ugly or even unbearable noises.
+
+The arts and crafts of man, from the beginning, have been arts
+and crafts of combination.  They did unite the shelter of the roof
+and the dignity of the tower.  They did unite the style of the orator
+with the decisions of the Forum.  And they did unite the meaning
+of the words with the music of the tune.  Now just as the whole
+of human culture has been combination, so the whole of the new notion
+of culture is separation.  It really would, if it were logical,
+break up all these old combinations, not only in literature or
+even in music, but in architecture, rhetoric, and all the rest.
+These theorists have a much larger task than they imagine,
+if they are to put their own theory into practice; but that is
+to suppose that the theorists know what their own theory is.
+Thus they would really have to build a solitary tower, all [[Alone|alone]]
+by itself in a field, solely in order to be [[Well|well]] proportioned and pure
+in outline, and serving no other purpose at all.  Meanwhile, the poor
+progressives would have to live somewhere and huddle under some
+roof or other, unless they had abolished roofs by that [[Time|time]].
+Perhaps the poor devils would be driven into some hideous steel
+[[house]] with electric fittings--which is a more horrid fate than
+the harshest traditionalist could wish to bring upon them.
+Perhaps they will only have to live in huge fiats, like coral
+[[Insects|insects]] in a coral reef, only not so beautiful.
+
+But anyhow, the point is that, on this theory, their practical
+dwelling-place must not be beautiful.  It is as obvious and inevitable
+as that their solitary tower must not be useful.  It is part of the
+implied principle that it must not be a belfry or a beacon, even if it
+is in the same degree a beautiful belfry or a beautiful beacon.
+Art must be separated from architecture, or, if the version be
+more correct, architecture must be separated from building.
+
+Now, I cannot for the life of me see why architecture should be
+separated from building; and in the same way I cannot see why sense
+should be separated from sound.  I am quite willing to admit that they
+are two things; but I say they are two things that not only complete
+each other, but express and exhibit each other; two things that have
+the power to bring each other out and emphasize each other's existence.
+When I see a beautiful belfry, I know that it is possible to have
+the [[Beauty|beauty]] without the belfry, and the belfry without the [[Beauty|beauty]].
+But I am also quite certain that the fact of its being a belfry
+makes it more beautiful, and the fact of its being beautiful makes
+it more of a belfry.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+VII. Sulla Nuova Poesia
+
+È di moda ora criticare i poeti perché sono poetici.
+L'accusa più schiacciante contro di loro è quando possono essere convinti
+di essere musicali. Il signor Walter de la Mare viene colto in flagrante mentre danza sul lieve
+piede fantastico su un'aria che si pretende sfacciatamente melodiosa
+e piacevole; e il signor Humbert Wolfe viene arrestato nell'atto stesso
+di pronunciare armonie alla vecchia, volgare maniera di Milton e Keats.
+Delitti di questa sorta i nostri critici sembrano sempre più intenti a portare
+alla luce; ma il codice di legge che essi amministrano è ancora
+in formazione e appare talvolta un po' vago.
+Non è facile per l'estraneo capire perché parole che
+potrebbero essere ispirate e immaginose se solo fossero cacofoniche
+e goffe possano divenire meno intelligenti o suggestive solo
+per il fatto d'essere sonore o dolci. Ma pare esserci davvero un'idea,
+in alcuni dei critici, che il poeta debba evitare di compiacere l'orecchio,
+del tutto a parte il suo primario dovere di compiacere la mente. Pare
+imparentata con l'idea degli Imagisti, quei singolari idolatri,
+e suggerire che l'adoratore debba avere l'immagine ma non
+l'inno di lode--il suono di sambuca, salterio, e ogni
+sorta di musica dinanzi all'immagine che il Re ha eretto.
+In parole schiette, la poesia immaginosa non deve appellarsi al senso
+dell'udito. Il poeta futurista è come il bambino della Prima Età Vittoriana.
+Deve essere visto e non udito.
+
+Ho, in verità, sentito parlare di un critico moderno che andò persino oltre.
+Si riferisce che egli abbia detto:
+
+«La vera poesia dovrebbe essere invisibile e inaudibile».
+Presumibilmente si appellerà al senso dell'olfatto.
+In un senso, senza dubbio, possiamo riconoscere una considerevole [[Truth|verità]]
+in tutto ciò, come descrizione delle condizioni contemporanee.
+La maggior parte di noi ha letto ricchi passi di poesia moderna in cui
+la melodia era del tutto inaudibile e la visione del tutto invisibile.
+Per noi, sfortunatamente, era anche vero che la poesia era
+del tutto invisibile. Ma questa è questione d'impressione personale,
+e non possiamo discuterne col critico con alcun profitto logico.
+Può darsi che per lui la vera melodia dei veri melodisti sia inaudibile;
+ed è per questo che egli non riesce ad apprezzare gente come il signor Walter de la Mare.
+Ma non serve a nulla che lo scrittore e il critico s'ingaggino in una
+zuffa d'insulti per provare quale dei due sia sordo; il che può solo,
+al meglio, provare che nessuno dei due è muto. L'unica via,
+come in ogni lite, è tornare ai primi principii.
+
+Non so come la cosa potrebbe essere risolta se fosse lasciata
+come una mera disputa sui gusti. Non so se i poeti darebbero
+una smentita ai critici e negherebbero con foga d'essere mai
+stati colpevoli di produrre suoni gradevoli. Non so se il signor de la
+Mare negherà furiosamente d'avere orecchio; o se il signor Wolfe cercherà,
+emettendo suoni orrendi, di rivendicare una immacolata reputazione di dissonanza.
+Personalmente, come mera questione di gusto, li preferisco come sono.
+Ma l'unico modo possibile di dibattere queste cose in pubblico
+è chiedere principii fondamentali o primi. Se ci sono
+tali principii, è meglio [[debate|dibattere]] sulla loro base.
+Se non ci sono tali principii, è meglio non [[debate|dibattere]] affatto.
+In tal caso, in verità, non possiamo [[debate|dibattere]] affatto. Possiamo solo
+continuare a fare rumori--se siamo persone comuni e volgari, rumori tollerabili o
+piacevoli; se siamo persone fastidiose e futuriste,
+rumori brutti o persino insopportabili.
+
+Le arti e i mestieri dell'uomo, fin dal principio, sono state arti
+e mestieri di combinazione. Essi unirono davvero il riparo del tetto
+e la dignità della torre. Unirono davvero lo stile dell'oratore
+con le decisioni del Foro. E unirono davvero il significato
+delle parole con la musica dell'aria. Ora, proprio come l'intera
+cultura umana è stata combinazione, così l'intera nuova nozione
+di cultura è separazione. Essa davvero, se fosse logica,
+spezzerebbe tutte queste vecchie combinazioni, non solo nella letteratura o
+persino nella musica, ma nell'architettura, nella retorica, e in tutto il resto.
+Questi teorici hanno un compito assai più vasto di quanto immaginino,
+se devono mettere in pratica la propria teoria; ma questo è
+supporre che i teorici sappiano quale sia la loro stessa teoria.
+Così essi dovrebbero davvero costruire una torre solitaria, tutta [[Alone|sola]]
+per conto suo in un campo, solo per essere [[Well|ben]] proporzionata e pura
+nel profilo, e senza servire ad alcun altro scopo. Nel frattempo, i poveri
+progressisti dovrebbero abitare da qualche parte e stringersi sotto un
+qualche tetto o l'altro, a meno che non avessero abolito i tetti entro quel [[Time|tempo]].
+Forse i poveri diavoli sarebbero costretti in qualche orrenda [[house|casa]]
+d'acciaio con impianti elettrici--il che è un fato più orrido di
+quello che il più aspro tradizionalista potrebbe voler recare loro.
+Forse dovranno solo abitare in enormi caseggiati, come [[Insects|insetti]]
+corallini in una barriera corallina, solo non così belli.
+
+Ma comunque, il punto è che, secondo questa teoria, la loro pratica
+dimora non deve essere bella. È tanto ovvio e inevitabile
+quanto che la loro torre solitaria non deve essere utile. Fa parte del
+principio implicito che essa non debba essere un campanile o un faro, anche se
+fosse nella stessa misura un bel campanile o un bel faro.
+L'arte deve essere separata dall'architettura, o, se la versione è
+più corretta, l'architettura deve essere separata dal costruire.
+
+Ora, non riesco per la vita di me a vedere perché l'architettura debba essere
+separata dal costruire; e allo stesso modo non riesco a vedere perché il senso
+debba essere separato dal suono. Sono del tutto disposto ad ammettere che essi
+sono due cose; ma dico che sono due cose che non solo completano
+l'una l'altra, ma esprimono ed esibiscono l'una l'altra; due cose che hanno
+il potere di far risaltare l'una l'altra e di sottolineare l'esistenza l'una dell'altra.
+Quando vedo un bel campanile, so che è possibile avere
+la [[Beauty|bellezza]] senza il campanile, e il campanile senza la [[Beauty|bellezza]].
+Ma sono anche del tutto certo che il fatto d'essere un campanile
+lo rende più bello, e il fatto d'essere bello lo rende
+più campanile.
+
+
+
+<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_02" data-title="GKC Come to Think — ON THE NEW POETRY (part 2)" data-chapter="ON THE NEW POETRY" data-kind="excerpt"></span>
+
+
+So, with the great lines of poetry, it would, of course, be possible
+to have equally melodious sounds that were mere gibberish;
+and it would, of course, be possible to express the same thought
+in words that were mere doggerel.  But, though it is in this sense
+a combination, it is emphatically not in any sense an artificial
+or accidental combination.  The verse sounds all the better for
+meaning something, and the words mean all the more for sounding [[Well|well]].
+As I have said, the two things bring each other out,
+as certain condiments are said to bring out certain flavours.
+And until that psychological fact is realized the separatist
+school will not have faced the real fact in the tradition.
+[[Milton]]'s ‘Like Teneriffe or Atlas unremoved' actually would not sound
+so well if Teneriffe were only the name of a house in Golder's Green,
+or Atlas were spelt with a small ‘a'. And it certainly would not
+mean so much if it did not sound so [[Well|well]].  In short, the [[Union|union]]
+of sound and sense is a [[Marriage]]; and this is the age of [[divorce|Divorce]].
+It cannot understand that divine [[Paradox|paradox]] whereby two things become
+one and yet remain two; or the notion of their increasing each other's
+effect by something that is much more subtle than simple addition.
+The world has become a sort of wild [[divorce]] [[Court|court]], not only
+for individuals, but also for ideas.  And even those whose beliefs
+or unbeliefs make them indifferent to the idea that those whom God
+hath joined become one flesh may be willing to consider the thesis
+that the thoughts which man has joined can become one fact.
+
+For a second aspect of the new poetry, the [[debate]] about new
+forms in art interests me, because my reaction to it is not
+that of the ordinary reactionary.  The first fact I feel is
+that all this [[Faith|faith]] in novelty is the very reverse of [[Novel|novel]].
+It is also the very reverse of original.  It has now been a
+convention for more than a century and a half; and it was originally
+borrowed from the stale and vulgar world of party politics.
+It is from the old wrangles of Rads and Reformers and True Blue Tories
+that modern art has borrowed this queer notion of incessant Progress
+and each generation crowing over the last.  When I read all this
+confident exposition about new methods that must now supersede
+old methods; of how Yeats and Swinburne must yield to Mr. Eliot
+and Mr. Pound, just as Tennyson and Browning had to yield to Yeats
+and Swinburne, I heave a sigh that is full of old and tender memories.
+I do not feel as if I were reading some revolutionary proclamation
+of new anarchic hopes or ideals; I feel as if I were reading
+Macaulay's Essays.  I read Macaulay when I was a boy and believed him,
+because I was a boy.  I might almost say because he was a boy.
+For the best and heartiest thing about Macaulay was that he lived
+and died a boy; full of conviction, ignorant of life; cocksure and
+confident of the future.  And in Macaulay's Essays will be found
+all that theory of the succession of things more and more ‘advanced'
+which the artistic schools still repeat, still scornfully hurl
+against each other, and still meekly inherit from each other.
+Progress, said Macaulay, never stops.  ‘What was its goal yesterday
+will be its starting-point to-morrow.' I believed that simple
+theory when I was a boy.  But I am rather surprised, by this [[Time|time]],
+that the boys have not found a new one.
+
+Anyhow, I have now come to believe in a totally different theory
+about novelty, and even the necessity of novelty.  What puzzles me about
+current culture is that it ignores the very truths which it exaggerates.
+It is always talking our heads off about Psychology, and then it entirely
+[[Leaves|leaves]] out the most elementary and familiar facts of psychology,
+such as the fact of fatigue.  It is always raving about Relativity,
+and then ignores the obvious fact that fatigue is relative.
+If a man is made to walk twenty miles between two stone walls
+engraved on each side with endless repetitions of the Elgin Marbles,
+it is not unlikely that by the end of his walk he will be a little
+weary of that classical style of ornament.  But that is because
+the man is tired; not because the style is tiresome.  The matter
+might be immediately tested by starting a fresh and enthusiastic
+man from the other end; a man in the mood of the early [[Renaissance]],
+eager for the Greek spirit but still ill-acquainted with it.
+In this sense and for this reason, it is necessary to have novelty;
+but the novelty is not necessarily improvement.  It does not
+necessarily give the man for whom the old things are stale
+any right to scorn the man for whom the old things are fresh.
+And there always are men for whom the old things are fresh.  Such men,
+so far from being behind the times, are altogether above the times.
+They are too individual and original to be affected by the trivial
+changes of [[Time|time]].  A man who really wants to write a [[Sonnet|sonnet]],
+as Shakespeare wanted to write a [[Sonnet|sonnet]], is still as spontaneous
+as a man who wants to sing a [[Song|song]].  There are sonnets by Mr. Baring
+or Mr. Belloc that are exactly of that sort; and, so far
+from being staler than others, they are fresher than others,
+because their [[Renaissance]] joy in the classical has not gone stale.
+But that does not mean that everybody must go on writing sonnets,
+and nothing but sonnets, for ever; for everybody would not want to;
+and enforced repetitions would really be stale.  In other words,
+it is sometimes hygienic to have a change, even when it is not
+an improvement.  We may leave an old field fallow--not because it
+will never bear crops again, but because it will; not because it
+is barren, but because it is not.  We may turn away for a [[Time|time]]
+from a good thing--not because it is not good, but because we have,
+for a purely relative reason, really had too much of a good thing.
+That is the real reason of the continual stir and change in styles
+and methods; and it is (within reason) a complete justification of it.
+Boys will be boys; but they will not necessarily be better men.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così, coi grandi versi della poesia, sarebbe, naturalmente, possibile
+avere suoni egualmente melodiosi che fossero mero farfugliamento;
+e sarebbe, naturalmente, possibile esprimere lo stesso pensiero
+in parole che fossero mera filastrocca. Ma, benché sia in questo senso
+una combinazione, non è enfaticamente in alcun senso una artificiale
+o accidentale combinazione. Il verso suona tanto meglio per
+il significare qualcosa, e le parole significano tanto più per il suonare [[Well|bene]].
+Come ho detto, le due cose si fanno risaltare a vicenda,
+come si dice che certi condimenti facciano risaltare certi sapori.
+E finché quel fatto psicologico non sarà compreso, la scuola
+separatista non avrà affrontato il vero fatto della tradizione.
+Il «Come Tenerife o Atlante immoto» di [[Milton]] non suonerebbe in realtà
+altrettanto bene se Tenerife fosse solo il nome di una casa a Golder's Green,
+o se Atlante fosse scritto con una piccola «a». E di certo non
+significherebbe altrettanto se non suonasse altrettanto [[Well|bene]]. In breve, l'[[Union|unione]]
+di suono e senso è un [[Marriage|Matrimonio]]; e questa è l'età del [[divorce|Divorzio]].
+Essa non può comprendere quel divino [[Paradox|paradosso]] per cui due cose divengono
+una e nondimeno restano due; o la nozione del loro accrescere l'effetto
+l'una dell'altra per qualcosa che è assai più sottile della semplice addizione.
+Il mondo è divenuto una sorta di selvaggia [[Court|corte]] di [[divorce|divorzio]], non solo
+per gl'individui, ma anche per le idee. E persino coloro le cui credenze
+o miscredenze li rendono indifferenti all'idea che coloro che Dio
+ha congiunto divengano una sola carne possono esser disposti a considerare la tesi
+che i pensieri che l'uomo ha congiunto possano divenire un solo fatto.
+
+Per un secondo aspetto della nuova poesia, il [[debate|dibattito]] sulle nuove
+forme nell'arte m'interessa, perché la mia reazione ad esso non è
+quella dell'ordinario reazionario. Il primo fatto che avverto è
+che tutta questa [[Faith|fede]] nella novità è l'esatto contrario del [[Novel|nuovo]].
+È anche l'esatto contrario dell'originale. È ormai da più di un
+secolo e mezzo una convenzione; e fu originariamente
+presa in prestito dal trito e volgare mondo della politica di partito.
+È dalle vecchie baruffe di Radicali e Riformatori e Tory Fedelissimi
+che l'arte moderna ha preso in prestito questa bizzarra nozione di incessante Progresso
+e di ogni generazione che canta vittoria sulla precedente. Quando leggo tutta questa
+sicura esposizione su nuovi metodi che ora devono soppiantare
+i vecchi metodi; di come Yeats e Swinburne debbano cedere al signor Eliot
+e al signor Pound, proprio come Tennyson e Browning dovettero cedere a Yeats
+e Swinburne, emetto un sospiro pieno di vecchi e teneri ricordi.
+Non mi sento come se stessi leggendo qualche rivoluzionario proclama
+di nuove anarchiche speranze o ideali; mi sento come se stessi leggendo
+i Saggi di Macaulay. Lessi Macaulay quand'ero ragazzo e gli credetti,
+perché ero un ragazzo. Potrei quasi dire perché egli era un ragazzo.
+Poiché la cosa migliore e più cordiale di Macaulay era che egli visse
+e morì ragazzo; pieno di convinzione, ignaro della vita; presuntuoso e
+fiducioso nel futuro. E nei Saggi di Macaulay si troverà
+tutta quella teoria della successione di cose sempre più «avanzate»
+che le scuole artistiche ancora ripetono, ancora sdegnosamente scagliano
+l'una contro l'altra, e ancora mansuetamente ereditano l'una dall'altra.
+Il Progresso, disse Macaulay, non si ferma mai. «Ciò che era la sua meta ieri
+sarà il suo punto di partenza domani». Credetti quella semplice
+teoria quand'ero ragazzo. Ma sono piuttosto sorpreso, a questo [[Time|punto]],
+che i ragazzi non ne abbiano trovata una nuova.
+
+Comunque, sono ora giunto a credere in una teoria totalmente diversa
+sulla novità, e persino sulla necessità della novità. Ciò che mi lascia perplesso della
+cultura corrente è che essa ignora proprio le verità che esagera.
+Ci frastorna sempre a proposito di Psicologia, e poi
+[[Leaves|tralascia]] interamente i più elementari e familiari fatti della psicologia,
+come il fatto della stanchezza. Sragiona sempre di Relatività,
+e poi ignora l'ovvio fatto che la stanchezza è relativa.
+Se si fa camminare un uomo per venti miglia tra due muri di pietra
+incisi su ciascun lato con infinite ripetizioni dei Marmi di Elgin,
+non è improbabile che alla fine della sua camminata egli sia un po'
+stanco di quello stile classico d'ornamento. Ma è perché
+l'uomo è stanco; non perché lo stile sia stancante. La faccenda
+potrebbe essere immediatamente verificata facendo partire un uomo fresco ed
+entusiasta dall'altra estremità; un uomo nell'umore del primo [[Renaissance|Rinascimento]],
+avido dello spirito greco ma ancora mal familiare con esso.
+In questo senso e per questa ragione, è necessario avere novità;
+ma la novità non è necessariamente un miglioramento. Essa non
+dà necessariamente all'uomo per il quale le vecchie cose sono trite
+alcun diritto di disprezzare l'uomo per il quale le vecchie cose sono fresche.
+E ci sono sempre uomini per i quali le vecchie cose sono fresche. Tali uomini,
+lungi dall'essere indietro coi tempi, sono del tutto al di sopra dei tempi.
+Sono troppo individuali e originali per essere influenzati dai triviali
+mutamenti del [[Time|tempo]]. Un uomo che vuole davvero scrivere un [[Sonnet|sonetto]],
+come Shakespeare volle scrivere un [[Sonnet|sonetto]], è ancora spontaneo
+quanto un uomo che vuole cantare una [[Song|canzone]]. Ci sono sonetti del signor Baring
+o del signor Belloc che sono esattamente di quella sorta; e, lungi
+dall'essere più triti di altri, sono più freschi di altri,
+perché la loro [[Renaissance|rinascimentale]] gioia nel classico non è divenuta trita.
+Ma questo non significa che ognuno debba continuare a scrivere sonetti,
+e nient'altro che sonetti, per sempre; poiché non tutti vorrebbero;
+e le ripetizioni imposte sarebbero davvero trite. In altre parole,
+è talvolta igienico avere un cambiamento, anche quando non è
+un miglioramento. Possiamo lasciare un vecchio campo a maggese--non perché
+non porterà mai più raccolti, ma perché li porterà; non perché
+è sterile, ma perché non lo è. Possiamo distoglierci per un [[Time|tempo]]
+da una cosa buona--non perché non è buona, ma perché abbiamo,
+per una ragione puramente relativa, avuto davvero troppo di una cosa buona.
+Ecco la vera ragione del continuo movimento e mutamento negli stili
+e nei metodi; ed essa è (entro ragione) una completa giustificazione di esso.
+I ragazzi saranno ragazzi; ma non saranno necessariamente uomini migliori.
+
+
+
+<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_03" data-title="GKC Come to Think — ON THE NEW POETRY (part 3)" data-chapter="ON THE NEW POETRY" data-kind="excerpt"></span>
+
+
+There are at least two things to be said for this theory of change,
+as an alternative to the rather antiquated theory of progress.
+First, it does at any rate correspond to the real facts
+of artistic and literary [[history]], repeated again and again.
+We do not see in the past a perpetual line of increasing liberation
+or enlargement of artistic experiment.  What we see in the past
+is the much more human business of men first doing something badly;
+then doing it [[Well|well]]; then doing it too [[Well|well]]--or, at least, too easily
+and too often.  Then they commonly begin to do something else;
+but the thing is much more often an old thing than a new thing.
+What we really see is the perpetual revival of what are called
+new things, because they are neglected things.  So Raphael
+and the [[Renaissance]] went back to what was older than medievalism;
+so the Pre-Raphaelites went back to what was older than Raphael.
+So many modern artists have gone back to Egyptian art because it
+was older than Greek art.  So many of them have gone back to savage
+art because it was supposed to be primitive and unspoilt.
+They have a right to seek stimulation, though stimulants
+should be taken in moderation.  But their renewal is relative.
+The other point in its favour is that it gets rid of a certain
+element called [[Pride|pride]] or impudence; which is an east [[Wind|wind]] blowing
+out of dry deserts and never did good to man or beast.
+
+For a third aspect of the new poetry, it is contended that the poet
+must seek to isolate an image, and even a word.  He must, to use
+the military phrase, cut all connexions and leave it in the air.
+To begin with, this interests me in the most superficial sense,
+because what strikes me about poets is that they were all
+hopelessly traditional, even when they tried to be revolutionary.
+Nobody could be more entirely in the air, to all appearance,
+than Shelley.  Nothing could be more entirely in the air
+than his little pet, the Skylark.  And no mind could be more
+filled with the conviction that it was completely in revolt
+against all tradition, and especially against all religion.
+And yet it would be quite an amusing exercise to take Shelley's
+poem about the skylark, line by line and verse by verse, and show
+how entirely dependent it is upon traditional ideas, and even rather
+specially upon religious ideas.  Here, perhaps, it would be rather
+too long an exercise to work my way through that rather long poem.
+But it is really true that it could be analysed, point by point,
+in that traditional sense.  The [[Song|song]] of the radiant young Atheist would
+probably turn out in the end to be a most orthodox theological tract.
+He begins by saying, ‘Hail to thee, blithe spirit.'  What does he mean
+by talking about spirits, if he is not in any sense a spiritualist?
+What would be the meaning of the remark, if he were really a materialist?
+He would never have had even the idea of a spirit but for the
+religious tradition represented in the idea of the Holy Spirit.
+He then says, ‘Bird thou never wert,' which is obviously a lie.
+But it is a lie symbolizing a [[Truth|truth]], and what he really means by it
+may be stated thus ‘I refuse to believe that a bird is only a bird,
+or that there is nothing more in such things than the material
+facts that we know about them.'  That thought is the beginning
+of all theology.
+
+Shelley's next surrender to superstition is absolutely abject
+and appalling.  He says, ‘From heaven, or near it'--a remark which must
+make all modern and rational persons with one concerted movement cover
+their faces in shame.  In plain words, he not only talks as if there
+were something divine in the mere empty space above our planet.
+He actually talks as if there were a paradise of saints and angels
+some where located, like a coloured cloud, in that space,
+so that a skylark could be said to be more or less near to it.
+The lapse is so distressing that I will not linger upon the minor
+barbarism of medieval physiology, by which the emotions of the bird
+are represented as coming from its ‘heart', as if that organ were a
+centre of consciousness.  I was going to say that I ‘had not the heart'
+to dwell any longer on the depressing orthodoxy of Shelley,
+whereby I should myself have fallen into the physical image that is
+so superstitious and medieval.  It is so very difficult to write
+any intelligible English without being superstitious and medieval.
+
+Needless to say, the criticism could not only be continued
+through the whole poem, but it becomes conspicuously clear
+and true in the most poetical parts of the poem.  Certainly the
+finest passages, and per haps the most frequently quoted passages,
+are those that really celebrate what is not only a Christian dogma,
+but one now often abandoned as an antiquated and benighted dogma.
+Those great movements of verse do not really correspond
+to the Rise of the Skylark, but rather to the Fall of Man.
+I dare say Shelley would have been very much surprised if he had been
+told that he was subscribing to the doctrine of the Fall of Man.
+But he certainly was; and that was why his words at that moment
+really become weighty and human.  ‘We look before and after and
+pine for what is not' has the sound of a great tolling bell.
+Nobody needs to be told that some spiritual tragedy has already
+happened to the race of him who cries aloud:
+
+‘But if we could scorn Hate and [[Pride|pride]] and [[Fear|fear]]; If we were things
+born Not to shed a tear--'
+
+or to the poet who can compare such a [[Tragedy|tragedy]] with the more trivial
+bliss of a little feathered creature in the empty air.
+
+I have already remarked that in the past all the poetry that professed
+to be particularly revolutionary was in fact particularly traditional.
+In this and in many things most of the revolutions of the past
+were pretty much alike; and there are some of us who rather [[Doubt|doubt]]
+whether the revolutions of the future will be particularly different.
+But even if we ignore this tradition of traditionalism, and suppose
+that the futurists have really something [[Novel|novel]] in the way of
+a novelty, the logical difficulty of their position still remains.
+We may, for the sake of argument, treat this change as if there
+had been no other changes.  We may isolate the Imagist as he would
+isolate the image.  We may treat the art as if it had no [[history]],
+just as the [[Artist|artist]] tells a story as if it had no beginning.
+But the fact still remains that, since he has to use the words
+of some language, he has got the words from somewhere and learned
+them from somebody.  And the words are in fact winged or weighted
+with the thoughts and associations of a thousand years.
+If they were not, he would not use them; he might just as [[Well|well]]
+say ‘Grunk', or ‘Quoggle'.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ci sono almeno due cose da dire a favore di questa teoria del mutamento,
+come alternativa alla piuttosto antiquata teoria del progresso.
+Primo, essa corrisponde in ogni caso ai fatti reali
+della [[history|storia]] artistica e letteraria, ripetuti ancora e ancora.
+Noi non vediamo nel passato una perpetua linea di crescente liberazione
+o ampliamento dell'esperimento artistico. Ciò che vediamo nel passato
+è la ben più umana faccenda di uomini che dapprima fanno qualcosa malamente;
+poi la fanno [[Well|bene]]; poi la fanno troppo [[Well|bene]]--o, almeno, troppo facilmente
+e troppo spesso. Poi comunemente cominciano a fare qualcos'altro;
+ma la cosa è assai più spesso una cosa vecchia che una cosa nuova.
+Ciò che davvero vediamo è il perpetuo ravvivarsi di ciò che vengono chiamate
+cose nuove, perché sono cose trascurate. Così Raffaello
+e il [[Renaissance|Rinascimento]] tornarono a ciò che era più antico del medievalismo;
+così i Preraffaelliti tornarono a ciò che era più antico di Raffaello.
+Così tanti artisti moderni sono tornati all'arte egizia perché essa
+era più antica dell'arte greca. Così tanti di loro sono tornati all'arte
+selvaggia perché si supponeva fosse primitiva e incorrotta.
+Essi hanno il diritto di cercare stimolazione, benché gli stimolanti
+debbano essere presi con moderazione. Ma il loro rinnovamento è relativo.
+L'altro punto a suo favore è che esso si sbarazza di un certo
+elemento chiamato [[Pride|orgoglio]] o impudenza; che è un [[Wind|vento]] d'oriente che soffia
+fuori da aridi deserti e non fece mai bene a uomo o bestia.
+
+Per un terzo aspetto della nuova poesia, si sostiene che il poeta
+debba cercare d'isolare un'immagine, e persino una parola. Egli deve, per usare
+la frase militare, tagliare tutti i collegamenti e lasciarla in aria.
+Per cominciare, questo m'interessa nel senso più superficiale,
+perché ciò che mi colpisce dei poeti è che essi erano tutti
+irrimediabilmente tradizionali, persino quando tentavano di essere rivoluzionari.
+Nessuno potrebbe essere più interamente in aria, a tutta apparenza,
+di Shelley. Nulla potrebbe essere più interamente in aria
+del suo piccolo beniamino, l'Allodola. E nessuna mente potrebbe essere più
+colma della convinzione d'essere completamente in rivolta
+contro ogni tradizione, e specialmente contro ogni religione.
+Eppure sarebbe un esercizio abbastanza divertente prendere la poesia
+di Shelley sull'allodola, verso per verso e strofa per strofa, e mostrare
+quanto interamente essa dipenda da idee tradizionali, e persino piuttosto
+specialmente da idee religiose. Qui, forse, sarebbe un esercizio
+troppo lungo farmi strada attraverso quella poesia piuttosto lunga.
+Ma è davvero vero che essa potrebbe essere analizzata, punto per punto,
+in quel senso tradizionale. Il [[Song|canto]] del radioso giovane Ateo
+si rivelerebbe probabilmente alla fine un ortodossissimo trattato teologico.
+Egli comincia dicendo: «Salute a te, spirito gioioso». Cosa intende
+parlando di spiriti, se non è in alcun senso uno spiritista?
+Quale sarebbe il significato dell'osservazione, se egli fosse davvero un materialista?
+Non avrebbe mai avuto nemmeno l'idea di uno spirito se non per la
+tradizione religiosa rappresentata nell'idea dello Spirito Santo.
+Poi dice: «Uccello tu non fosti mai», il che è ovviamente una menzogna.
+Ma è una menzogna che simboleggia una [[Truth|verità]], e ciò che egli davvero intende con essa
+si può enunciare così: «Rifiuto di credere che un uccello sia solo un uccello,
+o che ci sia nulla di più in tali cose dei materiali
+fatti che ne conosciamo». Quel pensiero è l'inizio
+di tutta la teologia.
+
+La successiva resa di Shelley alla superstizione è assolutamente abietta
+e sconcertante. Egli dice: «Dal cielo, o vicino ad esso»--osservazione che deve
+far coprire di vergogna il volto, con un concertato movimento, a tutte le persone
+moderne e razionali. In parole schiette, egli non solo parla come se ci
+fosse qualcosa di divino nel mero spazio vuoto sopra il nostro pianeta.
+Egli parla effettivamente come se ci fosse un paradiso di santi e angeli
+situato da qualche parte, come una nube colorata, in quello spazio,
+così che si potesse dire di un'allodola d'esserne più o meno vicina.
+La caduta è così angosciante che non m'indugerò sul minore
+barbarismo della fisiologia medievale, per cui le emozioni dell'uccello
+sono rappresentate come provenienti dal suo «cuore», come se quell'organo fosse un
+centro di coscienza. Stavo per dire che «non avevo il cuore»
+d'indugiare più a lungo sulla deprimente ortodossia di Shelley,
+per cui io stesso sarei caduto nell'immagine fisica che è
+così superstiziosa e medievale. È così assai difficile scrivere
+un inglese intelligibile senza essere superstiziosi e medievali.
+
+Inutile dire, la critica potrebbe non solo essere continuata
+attraverso l'intera poesia, ma diviene cospicuamente chiara
+e vera nelle parti più poetiche della poesia. Di certo i
+passi più belli, e forse i passi più frequentemente citati,
+sono quelli che davvero celebrano ciò che non è solo un dogma cristiano,
+ma uno ora spesso abbandonato come un dogma antiquato e ottenebrato.
+Quei grandi movimenti di versi non corrispondono davvero
+al Volo dell'Allodola, bensì piuttosto alla Caduta dell'Uomo.
+Oserei dire che Shelley sarebbe stato assai sorpreso se gli fosse stato
+detto che stava sottoscrivendo la dottrina della Caduta dell'Uomo.
+Ma di certo lo stava; ed è per questo che le sue parole in quel momento
+divengono davvero gravi e umane. «Guardiamo dinanzi e dietro e
+ci struggiamo per ciò che non è» ha il suono di una grande campana a morto.
+Nessuno ha bisogno che gli si dica che qualche spirituale tragedia è già
+accaduta alla razza di colui che grida a gran voce:
+
+«Ma se potessimo sdegnare Odio e [[Pride|Orgoglio]] e [[Fear|Paura]]; Se fossimo cose
+nate a non versare una lacrima--»
+
+o al poeta che sa paragonare una simile [[Tragedy|tragedia]] con la più triviale
+beatitudine di una piccola creatura piumata nell'aria vuota.
+
+Ho già osservato che nel passato tutta la poesia che dichiarava
+d'essere particolarmente rivoluzionaria era di fatto particolarmente tradizionale.
+In questo e in molte cose la maggior parte delle rivoluzioni del passato
+erano press'a poco simili; e ci sono alcuni di noi che piuttosto [[Doubt|dubitano]]
+che le rivoluzioni del futuro saranno particolarmente diverse.
+Ma anche se ignoriamo questa tradizione del tradizionalismo, e supponiamo
+che i futuristi abbiano davvero qualcosa di [[Novel|nuovo]] in fatto di
+novità, la difficoltà logica della loro posizione permane.
+Possiamo, per amor d'argomento, trattare questo mutamento come se non
+ci fossero stati altri mutamenti. Possiamo isolare l'Imagista come egli
+isolerebbe l'immagine. Possiamo trattare l'arte come se non avesse [[history|storia]],
+proprio come l'[[Artist|artista]] racconta una storia come se non avesse inizio.
+Ma il fatto permane che, dovendo egli usare le parole
+di qualche lingua, ha preso le parole da qualche parte e le ha imparate
+da qualcuno. E le parole sono di fatto alate o gravate
+dei pensieri e delle associazioni di mille anni.
+Se non lo fossero, egli non le userebbe; potrebbe altrettanto [[Well|bene]]
+dire «Grunk», o «Quoggle».
+
+
+
 <span class="atom-split" data-atom="story_08_on_the_classics" data-title="GKC Come to Think — ON THE CLASSICS" data-chapter="ON THE CLASSICS" data-kind="story"></span>
 
 
@@ -7448,6 +8616,498 @@ Per l'oscuro scribacchino sullo sfondo, che si limita a scrivere il racconto, un
 Ora, gli uomini semplici e sinceri, per quanto possano sembrare parlare di sé stessi, stanno quasi sempre usando le proprie esperienze per illustrare qualcosa di più grande e di migliore. Tali uomini furono Johnson e Macaulay; tali uomini, ai nostri giorni, sono Mr. Belloc o Mr. Bernard Shaw. E la prova che li riguarda è che, per quanto combattivi o paradossali possano sembrare, non riusciamo a immaginarli mentre tirano seriamente le somme dalla parte opposta alla propria. Non riusciamo a immaginare Johnson che davvero si adopera per convincere i suoi amici che i Whig avessero ragione; o Macaulay che davvero si adopera per convincerli che i Whig avessero torto. Non riusciamo a immaginare Mr. Belloc che usa le proprie esperienze per screditare il Cattolicesimo, o Mr. Bernard Shaw che usa le proprie per screditare il Socialismo. Sono benissimo capaci di godere delle esperienze, e di godere del divertimento o della gloria del narrare le esperienze; ma vi è sempre qualcosa al di là delle esperienze. Ora, per l'egoista tutto il piacere sta nelle esperienze, perché sono esperienze egoistiche. Ma, in tutti i casi sottili e radicati in profondità, quanto più egli ne gode come esperienze egoistiche, tanto meno è probabile che si limiti a narrarle in modo egoistico. Gli importa troppo delle impressioni che sta suscitando; non vuole essere ricordato, come lo è il dogmatico, quale un uomo che parlava a squarciagola, o un uomo che parlava di continuo. Quel genere di errore può essere commesso solo da una persona che conserva ancora una gran dose di inconsapevolezza. Ed è proprio la caratteristica del vero egoista che egli non conservi altro che la consapevolezza di sé. Diciamo, a mo' di rimprovero, al rozzo e sbraitante dogmatico: «Ti dimentichi di te stesso». Il rimprovero è il complimento supremo.
 
 È riconosciuto che l'egoismo è affine all'isteria, e non è meno isterico per il fatto di essere calmo o dignitoso o apparentemente contenuto. Esso giace assai vicino a quel mistero di irragionevolezza e di menzogna che gli antichi mistici forse semplificarono troppo nelle loro storie di diabolismo, ma che gli psicologi moderni non comprenderanno mai appieno finché non terranno conto di quell'antico misticismo. In linguaggio comune, vi è in un tale uomo qualcosa del pazzo, di un pazzo quieto e discreto. E, come tanto spesso si dice del pazzo, egli può essere assai astuto. Tenterà vie stranamente tortuose per mettere in risalto il proprio io; non, in genere, la via ovvia e schietta del parlare di sé. È altrettanto probabile che attiri l'attenzione su di sé col non parlare quanto col parlare. È incline a proferire rifiuti, in genere senza addurre ragioni; perché il rifiuto è più di un evento se la ragione resta un mistero. L'altro tipo, il chiacchierone e il disputatore, non mancherebbe di addurre la ragione del rifiuto; poiché, per l'uomo combattivo e polemico, la ragione è più importante del rifiuto. Tutto ciò dev'essere stato notato da molti assai prima che lo notassi io; e tutto ciò davo per scontato, come intelligibile e piuttosto interessante, nella frase che usai nel racconto; quella secondo cui l'uomo «parlava di sé perché non era un egoista». Ma sarebbe piuttosto imbarazzante dover spiegare tutto ciò a uno stampatore o a un correttore di bozze, per persuaderlo a stampare ciò che era stato scritto perché venisse stampato. Persino in questa sede ci vuole un po' di tempo a spiegarlo; e io preferisco tali semplici verità in una forma più breve, anche se vi è chi non sa vedere una semplice verità senza chiamarla un paradosso.
+
+
+
+<span class="atom-split" data-atom="story_11_on_mr_epstein--part_01" data-title="GKC Come to Think — ON MR. EPSTEIN (part 1)" data-chapter="ON MR EPSTEIN" data-kind="excerpt"></span>
+
+
+XI On Mr. Epstein
+
+T HE capacity of Mr. Epstein for carving an Aunt Sally, which shall
+immediately serve as a sort of cockshy for controversialists,
+whether it bears the name of Night or Rima, or anything else, is not
+in itself any reflection on his genius.  There have been great works
+of art which were provocative, especially when they were prophetic.
+Nevertheless, there are problems in the position of those who regard
+Mr. Epstein as a prophet; especially if the prophecy consists
+in claiming to set up to-day something that may possibly be admired
+in a thousand years.  The truth is that nobody has, in this matter,
+faced the fundamental problem; which is not so much the nature
+of Mr. Epstein's sculpture as the nature of any sculpture.
+Sculpture is normally a public and monumental art; and the real
+question raised is whether any art can be public or ornamental.
+Granted that any artist may have a conviction that he is right,
+or even granted that any artist must be right in thinking he is right,
+the question still remains:  why should he stick it up in stone to be
+stared at by all the people who are certain to think he is wrong?
+The truth is that the whole conception of a public monument comes
+down to us from times when men did not feel this immense distance
+between the craftsman and the crowd.  If they had, they would
+never have set the craftsman to work solely for the crowd.
+In that case there would never have been any such trifles as the
+Parthenon or the Cathedral of Seville, let alone the more important
+products of the modern artists of the moment.
+
+Even those who think that the Night of Mr. Epstein is all right
+would probably concede that the Night of Michelangelo is also,
+in its way, all right.  It is quite true that Michelangelo
+knew it was all right, and would have maintained it
+against any rivals who should have said it was all wrong.
+It is quite true that the ordinary populace passing the monuments
+of the Medici did not appreciate its rightness so rightly as he.
+But it is not true (and this is where the modern row begins)
+that even the populace regarded Michelangelo's figure, with its bowed
+head and somnolent profile, as a sort of monster or merely a joke.
+If they thought about it, they thought it was all right, only they
+did not understand how right.  There was not present that sharp,
+angry, popular feeling that it was all wrong; and that, as I say,
+is the beginning of a problem that is not solved satisfactorily
+either by the Futurists or the Philistines.  In other words,
+there was for some reason or other a community of feeling between
+the sculptor and the spectator, which may, in a very exact significance,
+be called common sense.  Art involves not only sense but sensibility;
+but the sense was the same if the sensibility was different.
+That is how we know that something has really happened,
+in modern art and appreciation, which is not disposed of either
+by calling the artist a madman or by calling the public a mob.
+Which ever of the two we think right, there is something wrong.
+Either the artist has really become an anarchist, and is in merely
+restless and unbalanced rebellion against the traditions of civilization;
+or else public opinion has in some way halted or fallen behind
+the normal intellectual leadership which it used to follow.
+That is the problem of public art; and it does not seem to be
+understood either by the artist or the public.
+
+The next truth that is, I think, too little realized is this.
+All art is religious art; and all public art should really be
+of the religion of the people.  This will seem to many a paradox
+at once sweeping and narrow.  But it is true; and it is the truth
+that was missed both by the aesthetes and the moralists in the old
+debate on whether ‘art is unmoral'.  All art is not necessarily moral,
+in the sense of practical.  But all art is religious, because religion
+includes both practice and theory, both [[morality]] and art.
+Religion is the sense of ultimate reality, of whatever meaning a man
+finds in his own existence or the existence of any thing else.
+It may be, and sometimes is, an evil religion; it may be even
+what superficial critics would call an irreligious religion.
+But whatever is his conception of the cosmos and the consciousness,
+that will be in his art, even when his practical private [[morality]]
+is not particularly noticeable in it.  I do not say that by staring
+at the Great Pyramid I can discover whether the builder of the Pyramids
+was in the habit of paying his debts or quarrelling with his wife.
+But I do say that by looking at the Great Pyramid I know
+that the man who built it had a particular sort of religion,
+and a different religion from my own.  I do not say that the
+pattern of a wall-paper will necessarily teach a moral lesson
+by examples, or be a woven tracery of the Ten Commandments.
+But I know a wall-paper pattern of Christendom from a pattern made
+by Moslems or Hindus or Chinamen all right.
+
+Now, this thing which is deeper even than [[morality]], which we may,
+if we like, call [[philosophy]], is always present in a work of art;
+and rather specially in a powerful work of art.  And if the [[philosophy]]
+of the public monument is different from the [[philosophy]] of the public,
+the public is perfectly right in saying so.  The men in the street are not
+stupid or blind or benighted when they throw things at the alien image.
+On the contrary, they are subtle and penetrating and perceptive.
+They are art critics of the fine shades of the fine arts.
+They are certainly much better art critics than those who
+[[Swallow|swallow]] anything that is alien because it is artistic,
+and believe that anything is artistic because it is advanced.
+Plain men do detect something deeper even than morals,
+which is metaphysics; and know the metaphysics are hostile to their own.
+In a sense it is true that every image is an idol; that is,
+about every statue there lingers something of the faint pagan
+tradition of sacrifice and divine honours.  The people feel that,
+if there is to be popular art, it ought to express popular religion.
+The people are right; though the [[Artist|artist]] might some times retort
+that they have now no religion to be expressed.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+XI Sul Signor Epstein
+
+LA capacità del signor Epstein di scolpire una Zia Sally, che serva
+immediatamente da una sorta di bersaglio per i controversisti,
+che porti il nome di Notte o di Rima, o qualsiasi altro, non è
+in se stessa alcuna riflessione sul suo genio. Ci sono state grandi opere
+d'arte che erano provocatorie, specialmente quando erano profetiche.
+Nondimeno, ci sono problemi nella posizione di coloro che considerano
+il signor Epstein un profeta; specialmente se la profezia consiste
+nel pretendere di erigere oggi qualcosa che potrebbe forse essere ammirato
+fra mille anni. La verità è che nessuno ha, in questa materia,
+affrontato il problema fondamentale; che non è tanto la natura
+della scultura del signor Epstein quanto la natura di qualsiasi scultura.
+La scultura è normalmente un'arte pubblica e monumentale; e la vera
+questione sollevata è se qualsiasi arte possa essere pubblica o ornamentale.
+Ammesso che qualsiasi artista possa avere la convinzione d'aver ragione,
+o persino ammesso che qualsiasi artista debba aver ragione nel pensare d'aver ragione,
+la questione permane: perché egli dovrebbe piazzarlo in pietra per essere
+fissato da tutta la gente che di certo penserà che egli abbia torto?
+La verità è che l'intera concezione di un monumento pubblico ci giunge
+da tempi in cui gli uomini non sentivano questa immensa distanza
+tra l'artefice e la folla. Se l'avessero sentita, non avrebbero
+mai messo l'artefice a lavorare unicamente per la folla.
+In tal caso non ci sarebbero mai state simili inezie come il
+Partenone o la Cattedrale di Siviglia, per non parlare dei più importanti
+prodotti dei moderni artisti del momento.
+
+Persino coloro che pensano che la Notte del signor Epstein vada benissimo
+concederebbero probabilmente che anche la Notte di Michelangelo vada,
+a suo modo, benissimo. È del tutto vero che Michelangelo
+sapeva che andava bene, e l'avrebbe sostenuto
+contro qualsiasi rivale che avesse detto che andava tutto male.
+È del tutto vero che l'ordinario popolino che passava dinanzi ai monumenti
+dei Medici non ne apprezzava la giustezza con giustezza pari alla sua.
+Ma non è vero (ed è qui che comincia la moderna baruffa)
+che persino il popolino considerasse la figura di Michelangelo, col suo capo
+chino e il profilo sonnolento, una sorta di mostro o una mera burla.
+Se ci pensavano, pensavano che andasse bene, solo che
+non capivano quanto bene. Non era presente quel netto,
+irato, popolare sentimento che andasse tutto male; e questo, come dico,
+è l'inizio di un problema che non è risolto soddisfacentemente
+né dai Futuristi né dai Filistei. In altre parole,
+c'era per una qualche ragione o l'altra una comunanza di sentimento tra
+lo scultore e lo spettatore, che si può, in un significato assai esatto,
+chiamare senso comune. L'arte coinvolge non solo il senso ma la sensibilità;
+ma il senso era lo stesso anche se la sensibilità era diversa.
+Ecco come sappiamo che qualcosa è davvero accaduto,
+nell'arte moderna e nell'apprezzamento, che non si liquida né
+chiamando l'artista un pazzo né chiamando il pubblico una plebaglia.
+Qualunque dei due riteniamo abbia ragione, c'è qualcosa che non va.
+O l'artista è davvero divenuto un anarchico, ed è in mera
+irrequieta e squilibrata ribellione contro le tradizioni della civiltà;
+oppure l'opinione pubblica si è in qualche modo arrestata o rimasta indietro
+rispetto alla normale guida intellettuale che soleva seguire.
+Ecco il problema dell'arte pubblica; ed esso non sembra essere
+compreso né dall'artista né dal pubblico.
+
+La successiva verità che è, credo, troppo poco compresa è questa.
+Tutta l'arte è arte religiosa; e tutta l'arte pubblica dovrebbe davvero essere
+della religione del popolo. Questo parrà a molti un paradosso
+a un tempo sferzante e angusto. Ma è vero; ed è la verità
+che fu mancata sia dagli esteti sia dai moralisti nel vecchio
+dibattito sul se «l'arte sia amorale». Non tutta l'arte è necessariamente morale,
+nel senso di pratica. Ma tutta l'arte è religiosa, perché la religione
+include sia la pratica sia la teoria, sia la [[morality|moralità]] sia l'arte.
+La religione è il senso della realtà ultima, di qualunque significato un uomo
+trovi nella propria esistenza o nell'esistenza di qualsiasi altra cosa.
+Può essere, e talvolta è, una religione malvagia; può essere persino
+ciò che i critici superficiali chiamerebbero una religione irreligiosa.
+Ma qualunque sia la sua concezione del cosmo e della coscienza,
+essa sarà nella sua arte, anche quando la sua pratica privata [[morality|moralità]]
+non è particolarmente notevole in essa. Non dico che fissando
+la Grande Piramide io possa scoprire se il costruttore delle Piramidi
+avesse l'abitudine di pagare i propri debiti o di litigare con la propria moglie.
+Ma dico bene che guardando la Grande Piramide io so
+che l'uomo che la costruì aveva un particolare tipo di religione,
+e una religione diversa dalla mia. Non dico che il
+disegno di una carta da parati insegni necessariamente una lezione morale
+per esempi, o sia un intreccio tessuto dei Dieci Comandamenti.
+Ma distinguo benissimo un disegno di carta da parati della Cristianità da un disegno fatto
+da Musulmani o Indù o Cinesi.
+
+Ora, questa cosa che è più profonda persino della [[morality|moralità]], che possiamo,
+se vogliamo, chiamare [[philosophy|filosofia]], è sempre presente in un'opera d'arte;
+e piuttosto specialmente in una potente opera d'arte. E se la [[philosophy|filosofia]]
+del monumento pubblico è diversa dalla [[philosophy|filosofia]] del pubblico,
+il pubblico ha perfettamente ragione a dirlo. Gli uomini della strada non sono
+stupidi o ciechi o ottenebrati quando gettano cose contro l'immagine aliena.
+Al contrario, sono sottili e penetranti e perspicaci.
+Sono critici d'arte delle fini sfumature delle belle arti.
+Sono di certo critici d'arte assai migliori di coloro che
+[[Swallow|inghiottono]] qualsiasi cosa sia aliena perché è artistica,
+e credono che qualsiasi cosa sia artistica perché è avanzata.
+Gli uomini semplici scorgono davvero qualcosa di più profondo persino della morale,
+che è la metafisica; e sanno che la metafisica è ostile alla propria.
+In un senso è vero che ogni immagine è un idolo; ossia,
+attorno a ogni statua indugia qualcosa della fioca pagana
+tradizione di sacrificio e onori divini. Il popolo sente che,
+se ci deve essere arte popolare, essa dovrebbe esprimere la religione popolare.
+Il popolo ha ragione; benché l'[[Artist|artista]] potrebbe talvolta ribattere
+che essi ora non hanno alcuna religione da esprimere.
+
+
+
+<span class="atom-split" data-atom="story_11_on_mr_epstein--part_02" data-title="GKC Come to Think — ON MR. EPSTEIN (part 2)" data-chapter="ON MR EPSTEIN" data-kind="excerpt"></span>
+
+
+Being myself a man in the street, and a mere casual figure in
+the crowd, I can testify to my own reactions in a case like that
+of the [[Night]] of Mr. Epstein.  I can see that it has fine lines
+in it; that the broad sweep of the hand like a great flapper,
+as if flattening out the prostrate and already featureless sleeper,
+is deliberately and not clumsily flat.  But when I look up at the face
+of the goddess, my instinctive and instantaneous comment is:
+‘This man thinks that Night, that watches over a sleeping world,
+is a Chinese opium hag.  And there are people who do think that Night,
+and natural cosmic laws of the kind, are of the same spiritual quality
+as that of a Chinese opium hag.  But Night is not a Chinese opium hag.
+Michelangelo knew it was not; and I know it is not; and anybody who
+has seen the nightfall in a village of the Downs knows it is not.'
+I should say that this was because Michelangelo and I had the
+same religion, and that even the villages were founded by men in
+the same tradition.  But anyhow, that is the real root of the quarrel;
+and very few of those who are quarrelling ever get down to it.
+It is not because the disputed work of art is a meaningless monstrosity.
+On the contrary, it is because it has a meaning, and has it
+all the more if it is a masterpiece.  It is not because the men
+in the street are blind and ignorant and cannot see the meaning.
+On the contrary, it is because they do see the meaning and know it
+is not what they mean.
+
+Now, in this matter of Mr. Epstein's sculpture, in connexion
+with which I appear in the unpopular character of a peacemaker,
+I may receive some criticisms questioning the principle I imply.
+Between the large stones the spectators throw at the sculptor,
+and the larger and more monstrous stone the sculptor has thrown at them,
+some stray chips or pebbles may naturally hit any peacemaker so imprudent
+as to stand inquiring what each or either of the stone-throwers
+imagine they are aiming at.  But since such stones are flying in
+the stone-yard of the sculptors, I will transfer the topic and myself
+to quieter regions, and finish the discussion in the library.
+In other words, I will apply the principle to literature,
+about which I know more, and about which there is exactly
+the same argument, supported by exactly the same arguments.
+If we take a recent literary controversy, like that over the poetical
+school of the Sitwells, we find that the current controversial
+case is in the same sense true and in the same sense false.
+In none of these cases am I merely contemptuous of the innovators;
+or, rather, I do not refer to the innovators who can really be treated
+with contempt.  I know there is something in the Sitwell method;
+I know it does sometimes really give forth the glamour of childhood,
+and make the imagination feel, for an immortal instant, that red clouds or
+green hills are like things good to eat.  But I can absorb Miss Sitwell's
+poetry much better than Miss Sitwell's defence of her poetry.
+When it comes to theorizing in the matter, she generally falls
+back on what I may call the Theory of the Prophet's Sepulchre.
+Needless to say, there is a slight fallacy in the argument that,
+because many of the prophets were stoned, anybody who is stoned
+is a prophet.  Montrose was a hero and was hanged, but hanging
+does not make a hero; and not everybody who has been in jail
+is either Bunyan or Cervantes.  But I am not now concerned
+with this old and obvious answer, but with the answer concerned
+with historical fact and especially historical proportion.
+For a history may be crammed with facts and still be wholly false,
+if it is false in proportion.  Now, Miss Sitwell was never tired
+of saying in the time of this controversy, that the original genius
+of Keats was assailed with the same uncomprehending criticism;
+and many critics of her school say that the new style of
+Swinburne staggered a world only used to the style of Tennyson.
+Now this historical parallel is not historical.  And if we think
+it is, we shall miss something momentous and significant in our own
+particular phase of history.
+
+To begin with, the old quarrels were quarrels of quite a different sort.
+The motives of the attack on Keats were almost entirely political
+and social.  The motives of the attack on Swinburne were almost
+entirely moral and religious.  But it is not true, of either of these
+great poets, that they seemed utterly unreadable or unintelligible
+to those who had formed their tastes on the older poets.
+Gifford was a low Tory hack, who hated and feared the little
+group of Radicals associated with Leigh Hunt and Shelley,
+and who regarded the very appearance of an apothecary's apprentice
+as a new poet in this group as a menacing sign of Jacobinism.
+He therefore wrote a slating review of Keats's poems in the Quarterly,
+as anybody could easily write a slating review of any poems anywhere.
+But it is not true to say that even Gifford felt that an abyss
+had opened between him and a new race of intellectual beings;
+that he could not even recognize their verse as verse or their
+English as English.  If I have ever read any of Gifford's
+own poetry, I am glad to say that I have forgotten it,
+but I know the sort of poetry that he admired and inherited.
+It was that very unheroic thing then called the heroic couplet.
+That is, it was the dreary decasyllabic couplet, the dregs and rinsings
+of Pope.  But it is not true that a man, passing from a theme treated
+by Pope to a classical theme treated by Keats, thought he had got
+into a howling wilderness of lunatics or chattering monkeys.
+He simply thought that the style was a little better or worse,
+as the case might be, as being looser or less dignified, or richer
+or more free.  Or, to take the other example, a Victorian accustomed
+to the Tennysonian tone and imagery, in lines like:
+
+‘The sun came dazzling through the [[Leaves|leaves]] And flamed upon the brazen
+greaves Of bold Sir Lancelot,'
+
+did undoubtedly feel, either with [[Pain|pain]] or pleasure, a different sort
+of tone and imagery in the new and musical verse of Swinburne:
+
+‘Ringed round with a flame of fair faces And splendid with swords.'
+
+He might feel that a new noise of purely beautiful singing had come
+into the English language; and he would be right.  He might feel
+that there was some thing vulgar in the exaggerated alliteration
+and a certain swagger of smoothness; and he would also be right.
+But he would not find the second form utterly formless.
+The Tennysonian would not feel, in turning from Tennyson and his
+flaming sun to Swinburne and his flame of fair faces, anything like
+what the Swinburnian would feel in turning from the Swinburnian
+lines to lines, let us say, like these
+
+‘The kings and queens on the nursery wall Are chain-armoured fish
+in the moat and all.'
+
+The Victorian might think the flame of Swinburne too flamboyant,
+or even foolishly flamboyant.  But he would know what Swinburne
+meant by saying that a face was a flame.  And it is very doubtful
+if he would know what Miss Sitwell meant by saying that a [[Queen|queen]]
+was a fish, or that a fish was elaborately equipped with
+chain-armour. Still less would he necessarily understand why
+something on a wall was like something totally different in a moat.
+Some, gifted with a childish perversity (though I say it who shouldn't)
+may fancy they can track the elvish connexion of ideas.
+But there has been a break, and the problem is different.
+There is not only a new sort of work, but a new sort of novelty.
+
+I think there is an explanation.  I think the subtle are
+seeking simplicity, because the simple have been soaked and choked
+with subtlety, or at least with complexity.  The people, who are
+the right guardians of normal ideas, have been bullied and bludgeoned
+by bad materialistic [[Education|education]] till they are simply stunned
+and stupefied.  Meanwhile, the clever and complex people are trying
+to return to direct ideas, but can only do it in an indirect way;
+they long for straight lines, but cannot go for them straight.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Essendo io stesso un uomo della strada, e una mera figura casuale nella
+folla, posso testimoniare le mie reazioni in un caso come quello
+della [[Night|Notte]] del signor Epstein. Riesco a vedere che ha fini linee
+in sé; che l'ampio sventagliare della mano come una grande pinna,
+come ad appiattire il prostrato e già informe dormiente,
+è deliberatamente e non goffamente piatto. Ma quando alzo lo sguardo al volto
+della dea, il mio istintivo e istantaneo commento è:
+«Quest'uomo pensa che la Notte, che veglia su un mondo addormentato,
+sia una megera cinese dell'oppio. E c'è gente che pensa davvero che la Notte,
+e le naturali leggi cosmiche del genere, siano della stessa qualità spirituale
+di quella di una megera cinese dell'oppio. Ma la Notte non è una megera cinese dell'oppio.
+Michelangelo sapeva che non lo era; e io so che non lo è; e chiunque
+abbia visto il cadere della notte in un villaggio dei Downs sa che non lo è».
+Direi che ciò era perché Michelangelo e io avevamo la
+stessa religione, e che persino i villaggi furono fondati da uomini nella
+stessa tradizione. Ma comunque, ecco la vera radice della lite;
+e assai pochi di coloro che litigano vi arrivano mai in fondo.
+Non è perché l'opera d'arte contestata sia una mostruosità priva di senso.
+Al contrario, è perché essa ha un senso, e ce l'ha
+tanto più se è un capolavoro. Non è perché gli uomini
+della strada siano ciechi e ignoranti e non riescano a vedere il senso.
+Al contrario, è perché essi vedono davvero il senso e sanno che
+non è ciò che intendono.
+
+Ora, in questa faccenda della scultura del signor Epstein, in connessione
+con la quale compaio nell'impopolare veste di paciere,
+potrò ricevere alcune critiche che mettono in dubbio il principio che sottintendo.
+Tra le grandi pietre che gli spettatori scagliano contro lo scultore,
+e la più grande e più mostruosa pietra che lo scultore ha scagliato contro di loro,
+qualche scheggia o ciottolo vagante può naturalmente colpire qualsiasi paciere così imprudente
+da starsene lì a chiedersi a cosa ciascuno o l'altro dei lanciatori di pietre
+immagini di mirare. Ma poiché tali pietre volano
+nel deposito di pietre degli scultori, trasferirò l'argomento e me stesso
+in regioni più tranquille, e finirò la discussione nella biblioteca.
+In altre parole, applicherò il principio alla letteratura,
+di cui so di più, e riguardo alla quale c'è esattamente
+lo stesso argomento, sostenuto esattamente dagli stessi argomenti.
+Se prendiamo una recente controversia letteraria, come quella sulla scuola
+poetica dei Sitwell, troviamo che il corrente caso controverso
+è nello stesso senso vero e nello stesso senso falso.
+In nessuno di questi casi sono io meramente sprezzante degli innovatori;
+o, piuttosto, non mi riferisco agli innovatori che possono davvero essere trattati
+con disprezzo. So che c'è qualcosa nel metodo dei Sitwell;
+so che esso talvolta emana davvero l'incanto dell'infanzia,
+e fa sentire all'immaginazione, per un immortale istante, che rosse nubi o
+verdi colline siano come cose buone da mangiare. Ma so assorbire la poesia della
+signorina Sitwell assai meglio della difesa che la signorina Sitwell fa della propria poesia.
+Quando si tratta di teorizzare in materia, ella generalmente ripiega
+su ciò che posso chiamare la Teoria del Sepolcro del Profeta.
+Inutile dire, c'è una lieve fallacia nell'argomento che,
+poiché molti dei profeti furono lapidati, chiunque sia lapidato
+sia un profeta. Montrose fu un eroe e fu impiccato, ma l'impiccagione
+non fa un eroe; e non chiunque sia stato in prigione
+è o Bunyan o Cervantes. Ma non mi occupo ora
+di questa vecchia e ovvia risposta, bensì della risposta concernente
+il fatto storico e specialmente la proporzione storica.
+Poiché una storia può essere stipata di fatti e nondimeno essere del tutto falsa,
+se è falsa nella proporzione. Ora, la signorina Sitwell non si stancava mai
+di dire, al tempo di questa controversia, che l'originale genio
+di Keats fu assalito dalla stessa incomprensiva critica;
+e molti critici della sua scuola dicono che il nuovo stile di
+Swinburne sconcertò un mondo abituato solo allo stile di Tennyson.
+Ora questo parallelo storico non è storico. E se pensiamo
+che lo sia, mancheremo qualcosa di momentoso e significativo nella nostra stessa
+particolare fase della storia.
+
+Per cominciare, le vecchie liti erano liti di tutt'altra sorta.
+I moventi dell'attacco a Keats erano quasi interamente politici
+e sociali. I moventi dell'attacco a Swinburne erano quasi
+interamente morali e religiosi. Ma non è vero, di nessuno di questi
+grandi poeti, che essi sembrassero del tutto illeggibili o inintelligibili
+a coloro che avevano formato i propri gusti sui poeti più antichi.
+Gifford era un basso servitorello Tory, che odiava e temeva il piccolo
+gruppo di Radicali associati a Leigh Hunt e Shelley,
+e che considerava la comparsa stessa di un apprendista speziale
+come nuovo poeta in questo gruppo un minaccioso segno di Giacobinismo.
+Egli perciò scrisse una stroncatura delle poesie di Keats sul Quarterly,
+come chiunque potrebbe facilmente scrivere una stroncatura di qualsiasi poesia in qualsiasi luogo.
+Ma non è vero dire che persino Gifford sentisse che un abisso
+si fosse aperto tra lui e una nuova razza di esseri intellettuali;
+che non riuscisse nemmeno a riconoscere il loro verso come verso o il loro
+inglese come inglese. Se ho mai letto alcuna delle poesie
+di Gifford, sono lieto di dire che l'ho dimenticata,
+ma conosco il tipo di poesia che egli ammirava ed ereditava.
+Era quell'assai poco eroica cosa allora chiamata distico eroico.
+Ossia, era il tetro distico decasillabo, le fecce e i risciacqui
+di Pope. Ma non è vero che un uomo, passando da un tema trattato
+da Pope a un tema classico trattato da Keats, pensasse d'essere finito
+in un urlante deserto di pazzi o di scimmie chiacchierone.
+Egli pensava semplicemente che lo stile fosse un po' migliore o peggiore,
+a seconda del caso, in quanto più sciolto o meno dignitoso, o più ricco
+o più libero. O, per prendere l'altro esempio, un Vittoriano avvezzo
+al tono e all'immaginario tennysoniani, in versi come:
+
+«Il sole giunse abbagliante fra le [[Leaves|Foglie]] E fiammeggiò sui bronzei
+schinieri Dell'ardito Sir Lancillotto»,
+
+sentiva senza dubbio, o con [[Pain|Dolore]] o con piacere, un diverso tipo
+di tono e immaginario nel nuovo e musicale verso di Swinburne:
+
+«Cinto attorno da una fiamma di bei volti E splendido di spade».
+
+Egli poteva sentire che un nuovo suono di canto puramente bello era giunto
+nella lingua inglese; e avrebbe avuto ragione. Poteva sentire
+che c'era qualcosa di volgare nell'esagerata allitterazione
+e in una certa spavalderia di levigatezza; e avrebbe avuto anche ragione.
+Ma non avrebbe trovato la seconda forma del tutto informe.
+Il Tennysoniano non sentirebbe, passando da Tennyson e dal suo
+fiammeggiante sole a Swinburne e alla sua fiamma di bei volti, nulla di simile
+a ciò che lo Swinburniano sentirebbe passando dai versi swinburniani
+a versi, diciamo, come questi:
+
+«I re e le regine sul muro della cameretta Sono pesci corazzati di maglia
+nel fossato e via dicendo».
+
+Il Vittoriano potrebbe pensare che la fiamma di Swinburne fosse troppo fiammeggiante,
+o persino scioccamente fiammeggiante. Ma saprebbe cosa Swinburne
+intendesse dicendo che un volto era una fiamma. Ed è assai dubbio
+che egli saprebbe cosa la signorina Sitwell intendesse dicendo che una [[Queen|regina]]
+era un pesce, o che un pesce fosse elaboratamente equipaggiato di
+maglia corazzata. Ancor meno capirebbe necessariamente perché
+qualcosa su un muro fosse come qualcosa di totalmente diverso in un fossato.
+Alcuni, dotati di una puerile perversità (benché lo dica io che non dovrei)
+possono immaginare di poter rintracciare l'elfica connessione delle idee.
+Ma c'è stata una frattura, e il problema è diverso.
+Non c'è solo un nuovo genere di lavoro, ma un nuovo genere di novità.
+
+Credo ci sia una spiegazione. Credo che i sottili stiano
+cercando la semplicità, perché i semplici sono stati inzuppati e soffocati
+di sottigliezza, o almeno di complessità. Il popolo, che è
+il giusto custode delle idee normali, è stato tiranneggiato e bastonato
+da una cattiva [[Education|istruzione]] materialistica finché è semplicemente stordito
+e stupefatto. Nel frattempo, la gente intelligente e complessa sta cercando
+di tornare a idee dirette, ma può farlo solo in modo indiretto;
+essi anelano a linee rette, ma non sanno andarvi dritti.
 
 
 
@@ -12691,1666 +14351,6 @@ spazi della vicenda: Alessandro e Cesare e Goffredo e Napoleone.
 Entrambi i culti sono esposti alla corruzione; ma quando il culto più antico ritornerà,
 come ritornerà, si saprà che qualche tempo fa è morto quietamente un uomo
 che liberò l'Europa con un solo colpo.
-
-
-
-<span class="atom-split" data-atom="story_06_on_a_censorship_for_literature--part_01" data-title="GKC Come to Think — ON A CENSORSHIP FOR LITERATURE (part 1)" data-chapter="ON A CENSORSHIP FOR LITERATURE" data-kind="excerpt"></span>
-
-
-V. On a Censorship for Literature
-
-T HE recurring discussion about a Censorship for Literature or
-the Arts is a good example of the extreme difficulty in these days
-of discussing anything.  Nobody seems to know where to begin.
-Nobody seems able to distinguish between one thing and another.
-For instance, to take a minor point, it is one thing to believe
-in A Censor and quite another thing to believe in The Censor.
-If I had to have my books censored, I would much rather they were
-censored by the [[Spanish Inquisition]] than by the British [[Home]] Office.
-The [[Spanish Inquisition]] was not an institution that I specially admire,
-but it did act on some intelligent principles; I know what the principles
-were and I agree with a great many of them.  As to the principles
-of Sir William Joynson-Hicks, my difficulty is threefold.
-Not only do I not agree with them, but I do not know what they are.
-Not only do I not know what they are, but I am sure that he does
-not know what they are.
-
-To begin with, supposing that the Censorship deals only with
-sexual decorum (which is generally far from being the case),
-there are at least three totally distinct things that are now
-generally discussed under that head.  First, there is the preaching
-or propagating of some theory about sex considered anti-social
-or anarchical.  Second, there is a certain sort of descriptive writing
-likely to excite appetites that may be anti-social or anarchical.
-Third, there is the use of certain terms, often merely old-fashioned,
-for things which later convention covers in some other way.
-I can understand a man wanting none of these things censored.
-I can understand him wanting all of these things censored.
-I can understand him wanting some censored and not others.
-But, anyhow, they have nothing to do with each other.  No two of them
-need be found together in the same sentence or the same book.
-A man could preach sexual anarchy in language as cold as that of an
-astronomical treatise, and about as seductive as a page of Bradshaw.
-A man could describe sensual things with an unscrupulous appeal
-to the senses, without preaching any theory at all and without using
-any coarse words at all.  Lastly, a man might use all the coarse words
-in Rabelais and make the theme rather repulsive than attractive.
-He might use all the coarse words in the [[Bible]] and be every bit
-as moral as the [[Bible]], or even as Puritan as the grimmest expositor
-of the [[Bible]].
-
-One would think that the very first thing that anybody discussing
-the question would realize would be the distinction between
-these three tests.  But, if we read a column in a newspaper,
-or a page in a popular book, professing to deal with the problem,
-we generally find them all mixed up together, whether the writer
-is denouncing the mixture or defending the mixture.  The [[Truth|truth]] is
-that in this matter most people's moral ideas are now already mixed.
-To take the first section in order to suppress false doctrine,
-we must have a definition of true doctrine.  And very few people
-now know exactly what doctrine is true, even if they feel a great
-many current ones are false.  For the second, it is, after all,
-a moral doctrine which declares that mere appeals to mere appetites
-are wrong.  It is a moral doctrine most decent people vaguely feel,
-but now a little too vaguely to be applied vigilantly.
-But, of these first two divisions, I may be allowed to add that
-they do emphatically involve immortal and unalterable [[Truth|truth]].
-The fact that a chaotic and ill-educated [[Time|time]] cannot clearly grasp
-that [[Truth|truth]] does not alter the fact that it always will be the [[Truth|truth]].
-
-There is a right relation of the sexes; there is a right rule
-about it; and there is a wrong appeal calculated to encourage
-a wrong relation.  But of the third thing it is not so.
-It is worth remarking that this third section, of the mere use of words,
-is the only one of which the modern talk is true.  Of this it is
-true to say that it is only a question of convention, of custom,
-of different periods of [[history]], of different stages of progress.
-It was not as gross of Shakespeare to use a certain word in a playhouse
-as it would have been gross of Dickens to use it in a drawing-room.
-But it would be just as wrong for Shakespeare to neglect his wife
-as for Dickens to neglect his wife.  I am not here raising the delicate
-controversy about whether either of these authors did neglect his wife.
-The point is that if they did they were wrong; and I will wager that
-they knew they were wrong; for they were traditional Christian men.
-The notion that, because language can change, therefore life and [[Love|love]]
-can change, is one of the many muddles of a thoroughly muddled mind.
-We might as [[Well|well]] say that because Shakespeare had trunkhose and Dickens
-bad trousers, it is but natural that the next great English author
-should have three legs.
-
-So long as the modern world plays with the preposterous idea
-that everything changes with the fashion, it is useless for it to
-attempt to control the changes in anything so fanciful as fiction.
-People will pursue the moment that is just passing; but they
-will not be persecuted for the moment that has just passed.
-You may send a man to [[Prison|prison]] for five years for writing a silly book,
-if you can say to him, ‘If you were in prison for five hundred years,
-it would still be a silly book.'  But you cannot say to a man,
-‘If you had waited fifteen years, this sort of book might have
-been fashionable; but, as it is, I send you to [[Prison|prison]] in the interval
-for being in advance of your age.'  That sort of persecution will
-never have any effect; for it combines injustice with indifference.
-It is at once an undeserved condemnation and an undeserved compliment.
-The fanatics of the past are sometimes blamed because they played
-the [[Tyrant|tyrant]] while appealing to eternal [[Truth|truth]].  But it is far more
-intolerable to play the [[Tyrant|tyrant]] while not appealing to eternal [[Truth|truth]].
-It is most intolerable of all to play the [[Tyrant|tyrant]] while appealing only
-to temporary fiction.  Nobody can be expected to stand the Inquisitor
-who says, ‘I am burning you alive for what you said to-day,
-and what I shall probably think to-morrow.' And that is the tone
-of nearly all the tentative repressions and remonstrances of our time.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-V. Su una Censura per la Letteratura
-
-LA ricorrente discussione su una Censura per la Letteratura o
-le Arti è un buon esempio dell'estrema difficoltà, in questi giorni,
-di discutere qualsiasi cosa. Nessuno pare sapere da dove cominciare.
-Nessuno pare capace di distinguere una cosa dall'altra.
-Per esempio, per prendere un punto minore, una cosa è credere
-in Un Censore e tutt'altra cosa credere ne Il Censore.
-Se dovessi far censurare i miei libri, preferirei di gran lunga che fossero
-censurati dall'[[Spanish Inquisition|Inquisizione Spagnola]] piuttosto che dal britannico Ministero dell'[[Home|Interno]].
-L'[[Spanish Inquisition|Inquisizione Spagnola]] non era un'istituzione che io ammiri particolarmente,
-ma agiva pur su alcuni principii intelligenti; io so quali fossero i principii
-e sono d'accordo con moltissimi di essi. Quanto ai principii
-di Sir William Joynson-Hicks, la mia difficoltà è triplice.
-Non solo non sono d'accordo con essi, ma non so quali siano.
-Non solo non so quali siano, ma sono sicuro che nemmeno lui
-sappia quali siano.
-
-Per cominciare, supponendo che la Censura si occupi solo del
-decoro sessuale (il che generalmente è ben lungi dall'essere il caso),
-ci sono almeno tre cose totalmente distinte che ora vengono
-generalmente discusse sotto quella voce. Primo, c'è il predicare
-o propagare qualche teoria sul sesso ritenuta anti-sociale
-o anarchica. Secondo, c'è un certo tipo di scrittura descrittiva
-atta a eccitare appetiti che possono essere anti-sociali o anarchici.
-Terzo, c'è l'uso di certi termini, spesso semplicemente all'antica,
-per cose che una convenzione più tarda copre in qualche altro modo.
-Posso capire un uomo che non vuole censurata nessuna di queste cose.
-Posso capirlo se le vuole tutte censurate.
-Posso capirlo se ne vuole alcune censurate e altre no.
-Ma, comunque, esse non hanno nulla a che fare l'una con l'altra. Nessuna due di esse
-ha bisogno di trovarsi insieme nella stessa frase o nello stesso libro.
-Un uomo potrebbe predicare l'anarchia sessuale in un linguaggio freddo come quello di un
-trattato astronomico, e seducente all'incirca quanto una pagina del Bradshaw.
-Un uomo potrebbe descrivere cose sensuali con uno spregiudicato appello
-ai sensi, senza predicare alcuna teoria e senza usare
-alcuna parola volgare. Infine, un uomo potrebbe usare tutte le parole volgari
-di Rabelais e rendere il tema più repellente che attraente.
-Potrebbe usare tutte le parole volgari della [[Bible|Bibbia]] ed essere in ogni singola parte
-morale quanto la [[Bible|Bibbia]], o persino Puritano quanto il più arcigno espositore
-della [[Bible|Bibbia]].
-
-Si penserebbe che la primissima cosa che chiunque discuta
-la questione dovrebbe comprendere sarebbe la distinzione tra
-questi tre criteri. Ma, se leggiamo una colonna in un giornale,
-o una pagina in un libro popolare, che dichiara di trattare il problema,
-generalmente li troviamo tutti mescolati insieme, sia che lo scrittore
-denunci la mescolanza o difenda la mescolanza. La [[Truth|verità]] è
-che in questa materia le idee morali della maggior parte della gente sono ormai già mescolate.
-Per prendere la prima sezione, allo scopo di sopprimere la falsa dottrina,
-dobbiamo avere una definizione di dottrina vera. E pochissima gente
-ora sa esattamente quale dottrina sia vera, anche se sente che moltissime
-di quelle correnti sono false. Quanto alla seconda, è, dopotutto,
-una dottrina morale quella che dichiara che i meri appelli ai meri appetiti
-sono sbagliati. È una dottrina morale che la maggior parte della gente per bene sente vagamente,
-ma ora un po' troppo vagamente per essere applicata con vigilanza.
-Ma, di queste prime due divisioni, mi sia permesso aggiungere che
-esse coinvolgono enfaticamente una [[Truth|verità]] immortale e inalterabile.
-Il fatto che un [[Time|tempo]] caotico e mal educato non possa afferrare chiaramente
-quella [[Truth|verità]] non altera il fatto che essa sarà sempre la [[Truth|verità]].
-
-C'è una giusta relazione dei sessi; c'è una giusta regola
-al riguardo; e c'è un appello sbagliato calcolato per incoraggiare
-una relazione sbagliata. Ma della terza cosa non è così.
-Vale la pena osservare che questa terza sezione, del mero uso delle parole,
-è l'unica di cui la moderna chiacchiera sia vera. Di questa è
-vero dire che è solo una questione di convenzione, di costume,
-di diversi periodi di [[history|storia]], di diversi stadi di progresso.
-Non era volgare in Shakespeare usare una certa parola in un teatro
-quanto lo sarebbe stato in Dickens usarla in un salotto.
-Ma sarebbe stato altrettanto sbagliato per Shakespeare trascurare la propria moglie
-quanto per Dickens trascurare la propria moglie. Non sto qui sollevando la delicata
-controversia sul se l'uno o l'altro di questi autori abbia davvero trascurato la propria moglie.
-Il punto è che se lo fecero avevano torto; e scommetto che
-sapevano di avere torto; poiché erano uomini cristiani tradizionali.
-L'idea che, poiché il linguaggio può cambiare, perciò la vita e l'[[Love|amore]]
-possano cambiare, è uno dei molti garbugli di una mente completamente ingarbugliata.
-Potremmo altrettanto [[Well|bene]] dire che poiché Shakespeare aveva le brache a sbuffo e Dickens
-brutti pantaloni, sia naturale che il prossimo grande autore inglese
-debba avere tre gambe.
-
-Finché il mondo moderno gioca con la preposterosa idea
-che tutto cambi con la moda, è inutile che esso
-tenti di controllare i cambiamenti in qualcosa di così fantasioso come la narrativa.
-La gente inseguirà il momento che sta appena passando; ma non
-sarà perseguitata per il momento che è appena passato.
-Puoi mandare un uomo in [[Prison|prigione]] per cinque anni per aver scritto un libro sciocco,
-se puoi dirgli: «Se fossi in prigione per cinquecento anni,
-sarebbe ancora un libro sciocco». Ma non puoi dire a un uomo:
-«Se avessi aspettato quindici anni, questo genere di libro sarebbe potuto
-essere di moda; ma, così com'è, ti mando in [[Prison|prigione]] nel frattempo
-per essere in anticipo sulla tua età». Quel genere di persecuzione non
-avrà mai alcun effetto; poiché combina l'ingiustizia con l'indifferenza.
-È a un tempo una condanna immeritata e un complimento immeritato.
-I fanatici del passato sono talvolta biasimati perché facevano
-i [[Tyrant|tiranni]] pur appellandosi a una [[Truth|verità]] eterna. Ma è assai più
-intollerabile fare il [[Tyrant|tiranno]] senza appellarsi a una [[Truth|verità]] eterna.
-È più intollerabile di tutto fare il [[Tyrant|tiranno]] appellandosi solo
-a una fiction temporanea. Nessuno può pretendere che si sopporti l'Inquisitore
-che dice: «Ti sto bruciando vivo per ciò che hai detto oggi,
-e ciò che probabilmente penserò domani». Ed è questo il tono
-di quasi tutte le tentative repressioni e rimostranze del nostro tempo.
-
-
-
-<span class="atom-split" data-atom="story_06_on_a_censorship_for_literature--part_02" data-title="GKC Come to Think — ON A CENSORSHIP FOR LITERATURE (part 2)" data-chapter="ON A CENSORSHIP FOR LITERATURE" data-kind="excerpt"></span>
-
-
-The plain truth is that modern society must have a morality
-before it can have a censor of morals.  I should say that it
-must have a religion before it can have a morality.
-But that is another question which I should not discuss fully here.
-Anyhow, the trouble is that people are making a fuss about unreal
-romances when they ought to be making a fuss about real life.
-It is a case of taking care of the facts and the fictions
-will take care of themselves.  If we cleanse the community,
-the community will cleanse its poetry and its prose.  But it is
-absurd to expect that people who do not respect their own promises,
-made at their own weddings, will be horrified because every novel does
-not end in a Victorian manner with wedding-bells. It is ridiculous
-to expect that people will be stung to fury by the behaviour of Joan
-in Green Pyjamas or Peter in Cocktail-Time, when they have managed
-to get reconciled to it in their own daughters or sons-in-law. I
-do not mean, of course, that all our family life is like that.
-Nor is all our fiction like that.  But many who demand a Censorship
-are really demanding that we should tolerate in life what we will
-not tolerate in literature.
-
-VI.  On Detective Story Writers
-
-T HE very first words of the story of Trent's Last Case ought
-to tell any intelligent and traditional person that the whole mind
-of the writer moves on a higher level than the ordinary murder story.
-Without making any parade of being more than a story-teller,
-he is a story-teller understanding style and distinction and the
-deeper philosophy that is never a fad or an ism; and, above all,
-understanding that weight and movement of words, in which style
-and distinction and philosophy and experience are one.
-For the very first words of this detective story, written to be
-read in a railway train, are, ‘Between what matters and what
-seems to matter, how should the world we know judge wisely?'
-I [[Hope|hope]] I may be excused if I find an interesting illustration of this
-very question in the public advertisements, and even the literary
-tributes at the back of the book.  For among those who have expressed
-their enthusiastic thanks to Mr. Bentley for writing a real [[Detective|detective]]
-story that was also a real book, are some of the very finest
-specialists in the department of the crime [[Novel|novel]], and also some
-of the first minds in the domain of general thought and culture.
-On the one hand, they include real experts in the scientific and
-exact treatment of such police problems, like Mr. R. Austin Freeman
-and Mr. Freeman Wills Crofts.  On the other hand, they include
-men brilliant and distinguished in totally different fields
-of serious speculation and controversy, like Father Ronald Knox,
-and Mr. G. D. H. Cole.  Last, but the very reverse of least,
-they include those writers, rather especially lady writers, who,
-without any special show of specialism, have written quite perfectly
-constructed crime stories that are also entertaining comedies;
-notably Mrs. [[Agatha]] Christie and Miss Dorothy Sayers.
-
-In addition to these authorities it would be easy, to my
-personal knowledge, to quote dozens of famous writers and thinkers,
-dons and doctors and diplomatists and poets of the most classical turn,
-who have put this book along with The Wallet of Kai Lung or The Diary
-of a Nobody in the small and secret shelf of the Best Books.  To mention
-only at random two of my friends, who will not resent the revelation:
-Mr. Hilaire Belloc, who never reads [[Detective|detective]] stories, admires this one;
-and Mr. Maurice Baring, who reads all the [[Detective|detective]] stories
-that can be had for [[Love|love]] or money, admires this one most of all.
-All this being so, I cannot but be interested in one small detail
-of the ceremonial embassy of thanks to Mr. Bentley; I mean the fact
-that the first name that gets announced of all that mission and
-printed on top of all such names, is the name of Mr. [[Edgar]] Wallace;
-and that Mr. [[Edgar]] Wallace [[Alone|alone]] is thought worthy to have
-his proclamation printed in large letters on the occasion.
-Evidently, it is his compliment [[Alone|alone]] that really counts ‘Between
-what matters and what seems to matter, how should the world we
-know judge wisely?'
-
-God forbid that I or anybody else should speak, ungratefully or
-ungraciously of Mr. Edgar Wallace.  I have enjoyed hundreds
-of his stories and hope to enjoy hundreds more; and it seems quite
-likely that I shall continue to have the chance of such enjoyment.
-To despise such stories is of all things the most despicable.
-It is like despising pantomimes or public-houses or comic songs or common
-enjoyments of every kind that bind us into the brotherhood of man.
-And when we are dealing with popular literature of this sound and lively
-sort it is very ungracious to complain of the amazing multiplicity
-of the output which a man like Mr. Wallace manages to achieve.
-It is like complaining that a really good alehouse provides too much ale;
-which would seem not only a blasphemy but almost a contradiction
-in terms.  It is like complaining that a really good popular singer can
-sing too many different songs; a complaint that is entirely a compliment.
-It is unreasonable to abuse Mr. Wallace for having entertained
-and excited us too much.  It is ungenerous to resent generosity.
-It may well be a pleasure to have given pleasure to so many;
-and it ought to be a pleasure for them to acknowledge it.
-
-But when all this is acknowledged, there remains a rational
-proportion in these things; and the selection of Mr. Edgar Wallace,
-out of all the other authorities, as if he were the one person
-who really matters, is not rational.  There is no possible reason
-for it, except a vulgar reason connected with mere size or noise
-or notoriety or mass-production. The satire called Reunion All Round
-is a thing that matters and will continue to matter; it may matter
-to our descendants a hundred years hence as the satire called
-Gulliver's Travels matters to us.  It is amusing and it is meant to amuse;
-but it is not only meant to kill time, but to kill trash and falsehood.
-I am glad to note that Miss Dorothy Sayers, who is one of those
-who do write murder stories as if they could write something else,
-tests her admiration of Mr. Bentley's book in this fashion,
-and says: ‘It is the one [[Detective|detective]] story of the present century
-which I am certain will go down to posterity as a classic.
-It is a masterpiece.'  A masterpiece is a thing that matters;
-and a man cannot produce, and probably does not pretend to produce,
-masterpieces or things that matter, to be sold by the million or poured
-out in a perpetual stream.  Thus a man like Father Ronald Knox,
-the author of Reunion All Round, in giving the laurel to a literary work,
-is dealing with something on his own level, and may be storing up
-something to be remembered; as we remember the decent [[Pride|pride]] of Pope
-in the compliment of his contemporaries:
-
-‘And Congreve loved and Swift endured my lays.'
-
-It is the same, of course, with the tributes or contributions of
-other serious writers to sensational romance.  The general movement
-called Guild Socialism may matter very much a hundred years hence;
-at any rate, it matters now; and a man who has expounded it with
-the economic clarity and close ness of Mr. Cole certainly matters now.
-The solid, detailed, scientific argument of Dr. Thorndyke,
-in the romances of Mr. Austin Freeman, matters now; and may quite
-probably continue to matter.  In that sense, pelting the world
-with a prodigious number of quite readable sensational romances
-does not matter; and most probably is not meant to matter.
-As a matter of fact, there is one section of Mr. Edgar Wallace's work,
-some of his sketches about South Africa, that really is of a more
-solid and intrinsically valuable type.  Perhaps he was a better
-writer before he was a best-seller, like Sir Hall Caine;
-perhaps he described real Kaffirs better than unreal Chinamen,
-just as Sir Hall Caine was so much better when he was confined
-to the Isle of Man, and not let loose on the Universe of Man.
-
-But, in truth, there is another distinction to be made.
-Even at their best, Mr. Edgar Wallace's stories are generally not
-detective stories, but adventure stories.  The two are too much
-confused under the loose title of shockers or sensational novels;
-and the writers are often confused themselves about which of
-the two they are writing.  But the sort of story that can be turned
-out in such numbers is normally the story of varied adventure;
-as it was turned out by Dumas, or, for that matter, by Henty.
-It is not so very difficult to plan out, two or three times
-a week, a sort of obstacle race of man-traps and ambushes,
-so that a hero shall be in perpetual peril.  Thank the Lord
-it is so easy to write and so easy to read; it is no disgrace
-to be classed with Dumas and thanked for fertility like his.
-But to make one man-trap that shall be inspected by experts through
-the length of a book, and never found to be a man-trap at all,
-that is work for a different sort of man; and even Trent called it
-his Last Case and has refused to try again.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-La schietta verità è che la società moderna deve avere una morale
-prima di poter avere un censore dei costumi. Direi che
-deve avere una religione prima di poter avere una morale.
-Ma questa è un'altra questione che non dovrei discutere pienamente qui.
-Comunque, il guaio è che la gente fa un gran chiasso su irreali
-romanzi quando dovrebbe far chiasso sulla vita reale.
-È un caso di prendersi cura dei fatti, e le finzioni
-si prenderanno cura di sé. Se purifichiamo la comunità,
-la comunità purificherà la sua poesia e la sua prosa. Ma è
-assurdo aspettarsi che gente che non rispetta le proprie promesse,
-fatte alle proprie nozze, si scandalizzi perché ogni romanzo non
-finisce alla maniera vittoriana con campane nuziali. È ridicolo
-aspettarsi che la gente sia punta al furore dal comportamento di Joan
-in Pigiama Verde o di Peter in Ora dell'Aperitivo, quando è riuscita
-a riconciliarcisi nelle proprie figlie o generi. Non
-intendo, naturalmente, che tutta la nostra vita di famiglia sia così.
-Né tutta la nostra narrativa è così. Ma molti che chiedono una Censura
-stanno in realtà chiedendo che tolleriamo nella vita ciò che non
-tollereremo nella letteratura.
-
-VI. Sugli Scrittori di Storie Poliziesche
-
-LE primissime parole della storia dell'Ultimo Caso di Trent dovrebbero
-dire a qualsiasi persona intelligente e tradizionale che l'intera mente
-dello scrittore si muove su un piano più alto dell'ordinaria storia d'omicidio.
-Senza far alcuna ostentazione d'essere più di un narratore,
-egli è un narratore che comprende lo stile e la distinzione e la
-più profonda filosofia che non è mai una mania o un ismo; e, soprattutto,
-che comprende quel peso e movimento delle parole, in cui stile
-e distinzione e filosofia ed esperienza sono una cosa sola.
-Poiché le primissime parole di questa storia poliziesca, scritta per essere
-letta in un treno, sono: «Fra ciò che conta e ciò che
-sembra contare, come dovrebbe il mondo che conosciamo giudicare con saggezza?»
-[[Hope|Spero]] mi si perdoni se trovo un'interessante illustrazione di questa
-stessa questione nelle pubbliche inserzioni, e persino nei
-tributi letterari sul retro del libro. Poiché tra coloro che hanno espresso
-il loro entusiastico ringraziamento al signor Bentley per aver scritto una vera storia
-[[Detective|poliziesca]] che era anche un vero libro, ci sono alcuni dei più fini
-specialisti nel campo del [[Novel|romanzo]] criminale, e anche alcune
-delle prime menti nel dominio del pensiero e della cultura generale.
-Da un lato, essi includono veri esperti nel trattamento scientifico ed
-esatto di simili problemi polizieschi, come il signor R. Austin Freeman
-e il signor Freeman Wills Crofts. Dall'altro lato, essi includono
-uomini brillanti e insigni in campi totalmente diversi
-di seria speculazione e controversia, come Padre Ronald Knox,
-e il signor G. D. H. Cole. Ultimi, ma tutt'altro che minimi,
-essi includono quegli scrittori, e piuttosto specialmente scrittrici, che,
-senza alcuna speciale ostentazione di specialismo, hanno scritto storie criminali
-perfettamente costruite che sono anche divertenti commedie;
-in particolare la signora [[Agatha]] Christie e la signorina Dorothy Sayers.
-
-Oltre a queste autorità sarebbe facile, a mia
-personale conoscenza, citare dozzine di famosi scrittori e pensatori,
-docenti e dottori e diplomatici e poeti della più classica inclinazione,
-che hanno messo questo libro insieme a La Bisaccia di Kai Lung o al Diario
-di un Signor Nessuno nella piccola e segreta mensola dei Migliori Libri. Per menzionare
-solo a caso due dei miei amici, che non si risentiranno della rivelazione:
-il signor Hilaire Belloc, che non legge mai storie [[Detective|poliziesche]], ammira questa;
-e il signor Maurice Baring, che legge tutte le storie [[Detective|poliziesche]]
-che si possano avere per [[Love|amore]] o per denaro, ammira questa più di tutte.
-Stando così le cose, non posso non essere interessato a un piccolo dettaglio
-della cerimoniale ambasceria di ringraziamento al signor Bentley; intendo il fatto
-che il primo nome ad essere annunciato di tutta quella missione e
-stampato in cima a tutti questi nomi, è il nome del signor [[Edgar]] Wallace;
-e che il signor [[Edgar]] Wallace [[Alone|soltanto]] è ritenuto degno di avere
-il suo proclama stampato a grandi lettere per l'occasione.
-Evidentemente, è il suo complimento [[Alone|soltanto]] che davvero conta «Fra
-ciò che conta e ciò che sembra contare, come dovrebbe il mondo che
-conosciamo giudicare con saggezza?»
-
-Dio non voglia che io o chiunque altro parli, con ingratitudine o
-scortesia, del signor Edgar Wallace. Ho goduto di centinaia
-delle sue storie e spero di godere di centinaia altre; e pare abbastanza
-probabile che continuerò ad avere l'occasione di tale godimento.
-Disprezzare simili storie è di tutte le cose la più spregevole.
-È come disprezzare le pantomime o le osterie o le canzoni comiche o i comuni
-divertimenti d'ogni sorta che ci legano nella fratellanza degli uomini.
-E quando abbiamo a che fare con la letteratura popolare di questo genere sano e vivace,
-è assai scortese lamentarsi della stupefacente molteplicità
-della produzione che un uomo come il signor Wallace riesce a realizzare.
-È come lamentarsi che una birreria davvero buona fornisca troppa birra;
-il che parrebbe non solo una bestemmia ma quasi una contraddizione
-in termini. È come lamentarsi che un cantante popolare davvero buono sappia
-cantare troppe canzoni diverse; una lamentela che è interamente un complimento.
-È irragionevole rimproverare il signor Wallace d'averci intrattenuti
-ed eccitati troppo. È ingeneroso risentirsi della generosità.
-Può ben essere un piacere aver dato piacere a così tanti;
-e dovrebbe essere per loro un piacere riconoscerlo.
-
-Ma quando tutto questo è riconosciuto, rimane una razionale
-proporzione in queste cose; e la scelta del signor Edgar Wallace,
-tra tutte le altre autorità, come se egli fosse l'unica persona
-che davvero conta, non è razionale. Non c'è alcuna possibile ragione
-per essa, tranne una volgare ragione connessa con la mera mole o il rumore
-o la notorietà o la produzione di massa. La satira intitolata Reunion All Round
-è una cosa che conta e continuerà a contare; potrà contare
-per i nostri discendenti fra cent'anni come la satira intitolata
-I Viaggi di Gulliver conta per noi. È divertente ed è intesa a divertire;
-ma non è solo intesa a uccidere il tempo, bensì a uccidere la robaccia e la falsità.
-Sono lieto di notare che la signorina Dorothy Sayers, che è una di coloro
-che scrivono storie d'omicidio come se sapessero scrivere qualcos'altro,
-mette alla prova la sua ammirazione per il libro del signor Bentley in questo modo,
-e dice: «È l'unica storia [[Detective|poliziesca]] del presente secolo
-che sono certa passerà ai posteri come un classico.
-È un capolavoro». Un capolavoro è una cosa che conta;
-e un uomo non può produrre, e probabilmente non pretende di produrre,
-capolavori o cose che contano, per venderli a milioni o versarli
-in un flusso perpetuo. Così un uomo come Padre Ronald Knox,
-l'autore di Reunion All Round, nel dare l'alloro a un'opera letteraria,
-ha a che fare con qualcosa al proprio livello, e può star mettendo da parte
-qualcosa da ricordare; come noi ricordiamo il decoroso [[Pride|orgoglio]] di Pope
-per il complimento dei suoi contemporanei:
-
-«E Congreve amò e Swift sopportò i miei versi».
-
-È lo stesso, naturalmente, coi tributi o contributi di
-altri seri scrittori al romanzo sensazionale. Il movimento generale
-chiamato Socialismo Gildista può contare moltissimo fra cent'anni;
-in ogni caso, conta ora; e un uomo che l'ha esposto con
-la chiarezza economica e il rigore del signor Cole di certo conta ora.
-Il solido, dettagliato, scientifico argomentare del dottor Thorndyke,
-nei romanzi del signor Austin Freeman, conta ora; e assai
-probabilmente potrà continuare a contare. In quel senso, sommergere il mondo
-con un prodigioso numero di romanzi sensazionali abbastanza leggibili
-non conta; e con ogni probabilità non è inteso a contare.
-Di fatto, c'è una sezione dell'opera del signor Edgar Wallace,
-alcuni dei suoi bozzetti sul Sudafrica, che è davvero di un tipo più
-solido e intrinsecamente prezioso. Forse egli era uno scrittore migliore
-prima di essere un bestseller, come Sir Hall Caine;
-forse descrisse veri Kaffir meglio che irreali Cinesi,
-proprio come Sir Hall Caine era assai migliore quando era confinato
-all'Isola di Man, e non lasciato libero sull'Universo dell'Uomo.
-
-Ma, in verità, c'è un'altra distinzione da fare.
-Persino al loro meglio, le storie del signor Edgar Wallace generalmente non sono
-storie poliziesche, bensì storie d'avventura. Le due sono troppo
-confuse sotto il vago titolo di shockers o romanzi sensazionali;
-e gli scrittori stessi spesso si confondono su quale delle
-due stiano scrivendo. Ma il tipo di storia che si può sfornare
-in tal numero è normalmente la storia di varia avventura;
-come la sfornavano Dumas, o, se è per questo, Henty.
-Non è così difficile pianificare, due o tre volte
-alla settimana, una sorta di corsa a ostacoli fatta di trappole e agguati,
-così che un eroe sia in perpetuo pericolo. Grazie al Cielo
-è così facile da scrivere e così facile da leggere; non è alcuna vergogna
-essere classificati con Dumas e ringraziati per una fertilità come la sua.
-Ma costruire un'unica trappola che venga ispezionata da esperti per
-l'intera lunghezza di un libro, e mai scoperta essere affatto una trappola,
-questo è lavoro per un tipo d'uomo diverso; e persino Trent lo chiamò
-il suo Ultimo Caso e ha rifiutato di riprovare.
-
-
-
-<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_01" data-title="GKC Come to Think — ON THE NEW POETRY (part 1)" data-chapter="ON THE NEW POETRY" data-kind="excerpt"></span>
-
-
-VII.  On the New Poetry
-
-IT is fashionable now to slate poets for being poetical.
-The most crushing ease against them is when they can be convicted
-of being musical.  Mr. Walter de la Mare is caught tripping on the light
-fantastic toe to a tune that was alleged to be brazenly melodious
-and pleasing; and Mr. Humbert Wolfe is arrested in the very act
-of uttering harmonies in the old, vulgar fashion of Milton and Keats.
-Crimes of this sort our critics seem more and more bent on bringing
-to light; but the code of law which they administer is still
-in the making and appears some times to be a little vague.
-It is not easy for the outsider to understand why words that
-might be inspiring and imaginative if only they were cacophonous
-and clumsy can become less intelligent or suggestive merely
-by being sonorous or sweet.  But there seems really to be an idea,
-in some of the critics, that the poet should avoid pleasing the ear,
-quite apart from his primary duty to please the mind.  It seems
-to be akin to the idea of the Imagists, those singular idolaters,
-and to suggest that the worshipper must have the image but not
-the hymn of praise--the sound of sackbut, dulcimer, and all
-kinds of music before the image that the King has set up.
-In plain words, imaginative poetry must not appeal to the sense
-of sound.  The futurist poet is like the Early Victorian child.
-He must be seen and not heard.
-
-I have, indeed, heard of one modern critic who went even further.
-He is reported as having said:
-
-‘True poetry should be invisible and inaudible.'
-Presumably it will appeal to the sense of smell.
-In one sense, doubtless, we may recognize considerable [[Truth|truth]]
-in all this, as a description of contemporary conditions.
-Most of us have read rich passages of modern poetry in which
-the melody was quite inaudible and the vision was quite invisible.
-To us, unfortunately, it was also true that the poetry was
-quite invisible.  But that is a matter of personal impression,
-and we cannot argue with the critic about it with any logical profit.
-It may be that for him the real melody of the real melodists is inaudible;
-and that is why he cannot appreciate people like Mr. Walter de la Mare.
-But it is no good for the writer and the critic to engage in a
-slanging match to prove which of them is deaf; which can only,
-at best, prove that neither of them is dumb.  The only course,
-as in every quarrel, is to go back to first principles.
-
-I do not know how the thing might be settled if it were left
-as a mere dispute about tastes.  I do not know if the poets would
-give the lie to the critics and hotly deny that they had ever
-been guilty of making agreeable noises.  I know not if Mr. de la
-Mare will furiously deny that he has an ear; or Mr. Wolfe seek,
-by emitting hideous sounds, to claim a stainless reputation for discord.
-Personally, as a mere matter of taste, I prefer them as they are.
-But the only possible way of debating these things in public
-is to ask for fundamental or first principles.  If there are
-such principles, it is best to [[debate]] on the basis of them.
-If there are no such principles, it is best not to [[debate]] at all.
-In that case, indeed, we cannot [[debate]] at all.  We can only go
-on making noises--if we are common and vulgar persons, tolerable or
-pleasing noises; if we are fastidious and futuristic persons,
-ugly or even unbearable noises.
-
-The arts and crafts of man, from the beginning, have been arts
-and crafts of combination.  They did unite the shelter of the roof
-and the dignity of the tower.  They did unite the style of the orator
-with the decisions of the Forum.  And they did unite the meaning
-of the words with the music of the tune.  Now just as the whole
-of human culture has been combination, so the whole of the new notion
-of culture is separation.  It really would, if it were logical,
-break up all these old combinations, not only in literature or
-even in music, but in architecture, rhetoric, and all the rest.
-These theorists have a much larger task than they imagine,
-if they are to put their own theory into practice; but that is
-to suppose that the theorists know what their own theory is.
-Thus they would really have to build a solitary tower, all [[Alone|alone]]
-by itself in a field, solely in order to be [[Well|well]] proportioned and pure
-in outline, and serving no other purpose at all.  Meanwhile, the poor
-progressives would have to live somewhere and huddle under some
-roof or other, unless they had abolished roofs by that [[Time|time]].
-Perhaps the poor devils would be driven into some hideous steel
-[[house]] with electric fittings--which is a more horrid fate than
-the harshest traditionalist could wish to bring upon them.
-Perhaps they will only have to live in huge fiats, like coral
-[[Insects|insects]] in a coral reef, only not so beautiful.
-
-But anyhow, the point is that, on this theory, their practical
-dwelling-place must not be beautiful.  It is as obvious and inevitable
-as that their solitary tower must not be useful.  It is part of the
-implied principle that it must not be a belfry or a beacon, even if it
-is in the same degree a beautiful belfry or a beautiful beacon.
-Art must be separated from architecture, or, if the version be
-more correct, architecture must be separated from building.
-
-Now, I cannot for the life of me see why architecture should be
-separated from building; and in the same way I cannot see why sense
-should be separated from sound.  I am quite willing to admit that they
-are two things; but I say they are two things that not only complete
-each other, but express and exhibit each other; two things that have
-the power to bring each other out and emphasize each other's existence.
-When I see a beautiful belfry, I know that it is possible to have
-the [[Beauty|beauty]] without the belfry, and the belfry without the [[Beauty|beauty]].
-But I am also quite certain that the fact of its being a belfry
-makes it more beautiful, and the fact of its being beautiful makes
-it more of a belfry.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-VII. Sulla Nuova Poesia
-
-È di moda ora criticare i poeti perché sono poetici.
-L'accusa più schiacciante contro di loro è quando possono essere convinti
-di essere musicali. Il signor Walter de la Mare viene colto in flagrante mentre danza sul lieve
-piede fantastico su un'aria che si pretende sfacciatamente melodiosa
-e piacevole; e il signor Humbert Wolfe viene arrestato nell'atto stesso
-di pronunciare armonie alla vecchia, volgare maniera di Milton e Keats.
-Delitti di questa sorta i nostri critici sembrano sempre più intenti a portare
-alla luce; ma il codice di legge che essi amministrano è ancora
-in formazione e appare talvolta un po' vago.
-Non è facile per l'estraneo capire perché parole che
-potrebbero essere ispirate e immaginose se solo fossero cacofoniche
-e goffe possano divenire meno intelligenti o suggestive solo
-per il fatto d'essere sonore o dolci. Ma pare esserci davvero un'idea,
-in alcuni dei critici, che il poeta debba evitare di compiacere l'orecchio,
-del tutto a parte il suo primario dovere di compiacere la mente. Pare
-imparentata con l'idea degli Imagisti, quei singolari idolatri,
-e suggerire che l'adoratore debba avere l'immagine ma non
-l'inno di lode--il suono di sambuca, salterio, e ogni
-sorta di musica dinanzi all'immagine che il Re ha eretto.
-In parole schiette, la poesia immaginosa non deve appellarsi al senso
-dell'udito. Il poeta futurista è come il bambino della Prima Età Vittoriana.
-Deve essere visto e non udito.
-
-Ho, in verità, sentito parlare di un critico moderno che andò persino oltre.
-Si riferisce che egli abbia detto:
-
-«La vera poesia dovrebbe essere invisibile e inaudibile».
-Presumibilmente si appellerà al senso dell'olfatto.
-In un senso, senza dubbio, possiamo riconoscere una considerevole [[Truth|verità]]
-in tutto ciò, come descrizione delle condizioni contemporanee.
-La maggior parte di noi ha letto ricchi passi di poesia moderna in cui
-la melodia era del tutto inaudibile e la visione del tutto invisibile.
-Per noi, sfortunatamente, era anche vero che la poesia era
-del tutto invisibile. Ma questa è questione d'impressione personale,
-e non possiamo discuterne col critico con alcun profitto logico.
-Può darsi che per lui la vera melodia dei veri melodisti sia inaudibile;
-ed è per questo che egli non riesce ad apprezzare gente come il signor Walter de la Mare.
-Ma non serve a nulla che lo scrittore e il critico s'ingaggino in una
-zuffa d'insulti per provare quale dei due sia sordo; il che può solo,
-al meglio, provare che nessuno dei due è muto. L'unica via,
-come in ogni lite, è tornare ai primi principii.
-
-Non so come la cosa potrebbe essere risolta se fosse lasciata
-come una mera disputa sui gusti. Non so se i poeti darebbero
-una smentita ai critici e negherebbero con foga d'essere mai
-stati colpevoli di produrre suoni gradevoli. Non so se il signor de la
-Mare negherà furiosamente d'avere orecchio; o se il signor Wolfe cercherà,
-emettendo suoni orrendi, di rivendicare una immacolata reputazione di dissonanza.
-Personalmente, come mera questione di gusto, li preferisco come sono.
-Ma l'unico modo possibile di dibattere queste cose in pubblico
-è chiedere principii fondamentali o primi. Se ci sono
-tali principii, è meglio [[debate|dibattere]] sulla loro base.
-Se non ci sono tali principii, è meglio non [[debate|dibattere]] affatto.
-In tal caso, in verità, non possiamo [[debate|dibattere]] affatto. Possiamo solo
-continuare a fare rumori--se siamo persone comuni e volgari, rumori tollerabili o
-piacevoli; se siamo persone fastidiose e futuriste,
-rumori brutti o persino insopportabili.
-
-Le arti e i mestieri dell'uomo, fin dal principio, sono state arti
-e mestieri di combinazione. Essi unirono davvero il riparo del tetto
-e la dignità della torre. Unirono davvero lo stile dell'oratore
-con le decisioni del Foro. E unirono davvero il significato
-delle parole con la musica dell'aria. Ora, proprio come l'intera
-cultura umana è stata combinazione, così l'intera nuova nozione
-di cultura è separazione. Essa davvero, se fosse logica,
-spezzerebbe tutte queste vecchie combinazioni, non solo nella letteratura o
-persino nella musica, ma nell'architettura, nella retorica, e in tutto il resto.
-Questi teorici hanno un compito assai più vasto di quanto immaginino,
-se devono mettere in pratica la propria teoria; ma questo è
-supporre che i teorici sappiano quale sia la loro stessa teoria.
-Così essi dovrebbero davvero costruire una torre solitaria, tutta [[Alone|sola]]
-per conto suo in un campo, solo per essere [[Well|ben]] proporzionata e pura
-nel profilo, e senza servire ad alcun altro scopo. Nel frattempo, i poveri
-progressisti dovrebbero abitare da qualche parte e stringersi sotto un
-qualche tetto o l'altro, a meno che non avessero abolito i tetti entro quel [[Time|tempo]].
-Forse i poveri diavoli sarebbero costretti in qualche orrenda [[house|casa]]
-d'acciaio con impianti elettrici--il che è un fato più orrido di
-quello che il più aspro tradizionalista potrebbe voler recare loro.
-Forse dovranno solo abitare in enormi caseggiati, come [[Insects|insetti]]
-corallini in una barriera corallina, solo non così belli.
-
-Ma comunque, il punto è che, secondo questa teoria, la loro pratica
-dimora non deve essere bella. È tanto ovvio e inevitabile
-quanto che la loro torre solitaria non deve essere utile. Fa parte del
-principio implicito che essa non debba essere un campanile o un faro, anche se
-fosse nella stessa misura un bel campanile o un bel faro.
-L'arte deve essere separata dall'architettura, o, se la versione è
-più corretta, l'architettura deve essere separata dal costruire.
-
-Ora, non riesco per la vita di me a vedere perché l'architettura debba essere
-separata dal costruire; e allo stesso modo non riesco a vedere perché il senso
-debba essere separato dal suono. Sono del tutto disposto ad ammettere che essi
-sono due cose; ma dico che sono due cose che non solo completano
-l'una l'altra, ma esprimono ed esibiscono l'una l'altra; due cose che hanno
-il potere di far risaltare l'una l'altra e di sottolineare l'esistenza l'una dell'altra.
-Quando vedo un bel campanile, so che è possibile avere
-la [[Beauty|bellezza]] senza il campanile, e il campanile senza la [[Beauty|bellezza]].
-Ma sono anche del tutto certo che il fatto d'essere un campanile
-lo rende più bello, e il fatto d'essere bello lo rende
-più campanile.
-
-
-
-<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_02" data-title="GKC Come to Think — ON THE NEW POETRY (part 2)" data-chapter="ON THE NEW POETRY" data-kind="excerpt"></span>
-
-
-So, with the great lines of poetry, it would, of course, be possible
-to have equally melodious sounds that were mere gibberish;
-and it would, of course, be possible to express the same thought
-in words that were mere doggerel.  But, though it is in this sense
-a combination, it is emphatically not in any sense an artificial
-or accidental combination.  The verse sounds all the better for
-meaning something, and the words mean all the more for sounding [[Well|well]].
-As I have said, the two things bring each other out,
-as certain condiments are said to bring out certain flavours.
-And until that psychological fact is realized the separatist
-school will not have faced the real fact in the tradition.
-[[Milton]]'s ‘Like Teneriffe or Atlas unremoved' actually would not sound
-so well if Teneriffe were only the name of a house in Golder's Green,
-or Atlas were spelt with a small ‘a'. And it certainly would not
-mean so much if it did not sound so [[Well|well]].  In short, the [[Union|union]]
-of sound and sense is a [[Marriage]]; and this is the age of [[divorce|Divorce]].
-It cannot understand that divine [[Paradox|paradox]] whereby two things become
-one and yet remain two; or the notion of their increasing each other's
-effect by something that is much more subtle than simple addition.
-The world has become a sort of wild [[divorce]] [[Court|court]], not only
-for individuals, but also for ideas.  And even those whose beliefs
-or unbeliefs make them indifferent to the idea that those whom God
-hath joined become one flesh may be willing to consider the thesis
-that the thoughts which man has joined can become one fact.
-
-For a second aspect of the new poetry, the [[debate]] about new
-forms in art interests me, because my reaction to it is not
-that of the ordinary reactionary.  The first fact I feel is
-that all this [[Faith|faith]] in novelty is the very reverse of [[Novel|novel]].
-It is also the very reverse of original.  It has now been a
-convention for more than a century and a half; and it was originally
-borrowed from the stale and vulgar world of party politics.
-It is from the old wrangles of Rads and Reformers and True Blue Tories
-that modern art has borrowed this queer notion of incessant Progress
-and each generation crowing over the last.  When I read all this
-confident exposition about new methods that must now supersede
-old methods; of how Yeats and Swinburne must yield to Mr. Eliot
-and Mr. Pound, just as Tennyson and Browning had to yield to Yeats
-and Swinburne, I heave a sigh that is full of old and tender memories.
-I do not feel as if I were reading some revolutionary proclamation
-of new anarchic hopes or ideals; I feel as if I were reading
-Macaulay's Essays.  I read Macaulay when I was a boy and believed him,
-because I was a boy.  I might almost say because he was a boy.
-For the best and heartiest thing about Macaulay was that he lived
-and died a boy; full of conviction, ignorant of life; cocksure and
-confident of the future.  And in Macaulay's Essays will be found
-all that theory of the succession of things more and more ‘advanced'
-which the artistic schools still repeat, still scornfully hurl
-against each other, and still meekly inherit from each other.
-Progress, said Macaulay, never stops.  ‘What was its goal yesterday
-will be its starting-point to-morrow.' I believed that simple
-theory when I was a boy.  But I am rather surprised, by this [[Time|time]],
-that the boys have not found a new one.
-
-Anyhow, I have now come to believe in a totally different theory
-about novelty, and even the necessity of novelty.  What puzzles me about
-current culture is that it ignores the very truths which it exaggerates.
-It is always talking our heads off about Psychology, and then it entirely
-[[Leaves|leaves]] out the most elementary and familiar facts of psychology,
-such as the fact of fatigue.  It is always raving about Relativity,
-and then ignores the obvious fact that fatigue is relative.
-If a man is made to walk twenty miles between two stone walls
-engraved on each side with endless repetitions of the Elgin Marbles,
-it is not unlikely that by the end of his walk he will be a little
-weary of that classical style of ornament.  But that is because
-the man is tired; not because the style is tiresome.  The matter
-might be immediately tested by starting a fresh and enthusiastic
-man from the other end; a man in the mood of the early [[Renaissance]],
-eager for the Greek spirit but still ill-acquainted with it.
-In this sense and for this reason, it is necessary to have novelty;
-but the novelty is not necessarily improvement.  It does not
-necessarily give the man for whom the old things are stale
-any right to scorn the man for whom the old things are fresh.
-And there always are men for whom the old things are fresh.  Such men,
-so far from being behind the times, are altogether above the times.
-They are too individual and original to be affected by the trivial
-changes of [[Time|time]].  A man who really wants to write a [[Sonnet|sonnet]],
-as Shakespeare wanted to write a [[Sonnet|sonnet]], is still as spontaneous
-as a man who wants to sing a [[Song|song]].  There are sonnets by Mr. Baring
-or Mr. Belloc that are exactly of that sort; and, so far
-from being staler than others, they are fresher than others,
-because their [[Renaissance]] joy in the classical has not gone stale.
-But that does not mean that everybody must go on writing sonnets,
-and nothing but sonnets, for ever; for everybody would not want to;
-and enforced repetitions would really be stale.  In other words,
-it is sometimes hygienic to have a change, even when it is not
-an improvement.  We may leave an old field fallow--not because it
-will never bear crops again, but because it will; not because it
-is barren, but because it is not.  We may turn away for a [[Time|time]]
-from a good thing--not because it is not good, but because we have,
-for a purely relative reason, really had too much of a good thing.
-That is the real reason of the continual stir and change in styles
-and methods; and it is (within reason) a complete justification of it.
-Boys will be boys; but they will not necessarily be better men.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Così, coi grandi versi della poesia, sarebbe, naturalmente, possibile
-avere suoni egualmente melodiosi che fossero mero farfugliamento;
-e sarebbe, naturalmente, possibile esprimere lo stesso pensiero
-in parole che fossero mera filastrocca. Ma, benché sia in questo senso
-una combinazione, non è enfaticamente in alcun senso una artificiale
-o accidentale combinazione. Il verso suona tanto meglio per
-il significare qualcosa, e le parole significano tanto più per il suonare [[Well|bene]].
-Come ho detto, le due cose si fanno risaltare a vicenda,
-come si dice che certi condimenti facciano risaltare certi sapori.
-E finché quel fatto psicologico non sarà compreso, la scuola
-separatista non avrà affrontato il vero fatto della tradizione.
-Il «Come Tenerife o Atlante immoto» di [[Milton]] non suonerebbe in realtà
-altrettanto bene se Tenerife fosse solo il nome di una casa a Golder's Green,
-o se Atlante fosse scritto con una piccola «a». E di certo non
-significherebbe altrettanto se non suonasse altrettanto [[Well|bene]]. In breve, l'[[Union|unione]]
-di suono e senso è un [[Marriage|Matrimonio]]; e questa è l'età del [[divorce|Divorzio]].
-Essa non può comprendere quel divino [[Paradox|paradosso]] per cui due cose divengono
-una e nondimeno restano due; o la nozione del loro accrescere l'effetto
-l'una dell'altra per qualcosa che è assai più sottile della semplice addizione.
-Il mondo è divenuto una sorta di selvaggia [[Court|corte]] di [[divorce|divorzio]], non solo
-per gl'individui, ma anche per le idee. E persino coloro le cui credenze
-o miscredenze li rendono indifferenti all'idea che coloro che Dio
-ha congiunto divengano una sola carne possono esser disposti a considerare la tesi
-che i pensieri che l'uomo ha congiunto possano divenire un solo fatto.
-
-Per un secondo aspetto della nuova poesia, il [[debate|dibattito]] sulle nuove
-forme nell'arte m'interessa, perché la mia reazione ad esso non è
-quella dell'ordinario reazionario. Il primo fatto che avverto è
-che tutta questa [[Faith|fede]] nella novità è l'esatto contrario del [[Novel|nuovo]].
-È anche l'esatto contrario dell'originale. È ormai da più di un
-secolo e mezzo una convenzione; e fu originariamente
-presa in prestito dal trito e volgare mondo della politica di partito.
-È dalle vecchie baruffe di Radicali e Riformatori e Tory Fedelissimi
-che l'arte moderna ha preso in prestito questa bizzarra nozione di incessante Progresso
-e di ogni generazione che canta vittoria sulla precedente. Quando leggo tutta questa
-sicura esposizione su nuovi metodi che ora devono soppiantare
-i vecchi metodi; di come Yeats e Swinburne debbano cedere al signor Eliot
-e al signor Pound, proprio come Tennyson e Browning dovettero cedere a Yeats
-e Swinburne, emetto un sospiro pieno di vecchi e teneri ricordi.
-Non mi sento come se stessi leggendo qualche rivoluzionario proclama
-di nuove anarchiche speranze o ideali; mi sento come se stessi leggendo
-i Saggi di Macaulay. Lessi Macaulay quand'ero ragazzo e gli credetti,
-perché ero un ragazzo. Potrei quasi dire perché egli era un ragazzo.
-Poiché la cosa migliore e più cordiale di Macaulay era che egli visse
-e morì ragazzo; pieno di convinzione, ignaro della vita; presuntuoso e
-fiducioso nel futuro. E nei Saggi di Macaulay si troverà
-tutta quella teoria della successione di cose sempre più «avanzate»
-che le scuole artistiche ancora ripetono, ancora sdegnosamente scagliano
-l'una contro l'altra, e ancora mansuetamente ereditano l'una dall'altra.
-Il Progresso, disse Macaulay, non si ferma mai. «Ciò che era la sua meta ieri
-sarà il suo punto di partenza domani». Credetti quella semplice
-teoria quand'ero ragazzo. Ma sono piuttosto sorpreso, a questo [[Time|punto]],
-che i ragazzi non ne abbiano trovata una nuova.
-
-Comunque, sono ora giunto a credere in una teoria totalmente diversa
-sulla novità, e persino sulla necessità della novità. Ciò che mi lascia perplesso della
-cultura corrente è che essa ignora proprio le verità che esagera.
-Ci frastorna sempre a proposito di Psicologia, e poi
-[[Leaves|tralascia]] interamente i più elementari e familiari fatti della psicologia,
-come il fatto della stanchezza. Sragiona sempre di Relatività,
-e poi ignora l'ovvio fatto che la stanchezza è relativa.
-Se si fa camminare un uomo per venti miglia tra due muri di pietra
-incisi su ciascun lato con infinite ripetizioni dei Marmi di Elgin,
-non è improbabile che alla fine della sua camminata egli sia un po'
-stanco di quello stile classico d'ornamento. Ma è perché
-l'uomo è stanco; non perché lo stile sia stancante. La faccenda
-potrebbe essere immediatamente verificata facendo partire un uomo fresco ed
-entusiasta dall'altra estremità; un uomo nell'umore del primo [[Renaissance|Rinascimento]],
-avido dello spirito greco ma ancora mal familiare con esso.
-In questo senso e per questa ragione, è necessario avere novità;
-ma la novità non è necessariamente un miglioramento. Essa non
-dà necessariamente all'uomo per il quale le vecchie cose sono trite
-alcun diritto di disprezzare l'uomo per il quale le vecchie cose sono fresche.
-E ci sono sempre uomini per i quali le vecchie cose sono fresche. Tali uomini,
-lungi dall'essere indietro coi tempi, sono del tutto al di sopra dei tempi.
-Sono troppo individuali e originali per essere influenzati dai triviali
-mutamenti del [[Time|tempo]]. Un uomo che vuole davvero scrivere un [[Sonnet|sonetto]],
-come Shakespeare volle scrivere un [[Sonnet|sonetto]], è ancora spontaneo
-quanto un uomo che vuole cantare una [[Song|canzone]]. Ci sono sonetti del signor Baring
-o del signor Belloc che sono esattamente di quella sorta; e, lungi
-dall'essere più triti di altri, sono più freschi di altri,
-perché la loro [[Renaissance|rinascimentale]] gioia nel classico non è divenuta trita.
-Ma questo non significa che ognuno debba continuare a scrivere sonetti,
-e nient'altro che sonetti, per sempre; poiché non tutti vorrebbero;
-e le ripetizioni imposte sarebbero davvero trite. In altre parole,
-è talvolta igienico avere un cambiamento, anche quando non è
-un miglioramento. Possiamo lasciare un vecchio campo a maggese--non perché
-non porterà mai più raccolti, ma perché li porterà; non perché
-è sterile, ma perché non lo è. Possiamo distoglierci per un [[Time|tempo]]
-da una cosa buona--non perché non è buona, ma perché abbiamo,
-per una ragione puramente relativa, avuto davvero troppo di una cosa buona.
-Ecco la vera ragione del continuo movimento e mutamento negli stili
-e nei metodi; ed essa è (entro ragione) una completa giustificazione di esso.
-I ragazzi saranno ragazzi; ma non saranno necessariamente uomini migliori.
-
-
-
-<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_03" data-title="GKC Come to Think — ON THE NEW POETRY (part 3)" data-chapter="ON THE NEW POETRY" data-kind="excerpt"></span>
-
-
-There are at least two things to be said for this theory of change,
-as an alternative to the rather antiquated theory of progress.
-First, it does at any rate correspond to the real facts
-of artistic and literary [[history]], repeated again and again.
-We do not see in the past a perpetual line of increasing liberation
-or enlargement of artistic experiment.  What we see in the past
-is the much more human business of men first doing something badly;
-then doing it [[Well|well]]; then doing it too [[Well|well]]--or, at least, too easily
-and too often.  Then they commonly begin to do something else;
-but the thing is much more often an old thing than a new thing.
-What we really see is the perpetual revival of what are called
-new things, because they are neglected things.  So Raphael
-and the [[Renaissance]] went back to what was older than medievalism;
-so the Pre-Raphaelites went back to what was older than Raphael.
-So many modern artists have gone back to Egyptian art because it
-was older than Greek art.  So many of them have gone back to savage
-art because it was supposed to be primitive and unspoilt.
-They have a right to seek stimulation, though stimulants
-should be taken in moderation.  But their renewal is relative.
-The other point in its favour is that it gets rid of a certain
-element called [[Pride|pride]] or impudence; which is an east [[Wind|wind]] blowing
-out of dry deserts and never did good to man or beast.
-
-For a third aspect of the new poetry, it is contended that the poet
-must seek to isolate an image, and even a word.  He must, to use
-the military phrase, cut all connexions and leave it in the air.
-To begin with, this interests me in the most superficial sense,
-because what strikes me about poets is that they were all
-hopelessly traditional, even when they tried to be revolutionary.
-Nobody could be more entirely in the air, to all appearance,
-than Shelley.  Nothing could be more entirely in the air
-than his little pet, the Skylark.  And no mind could be more
-filled with the conviction that it was completely in revolt
-against all tradition, and especially against all religion.
-And yet it would be quite an amusing exercise to take Shelley's
-poem about the skylark, line by line and verse by verse, and show
-how entirely dependent it is upon traditional ideas, and even rather
-specially upon religious ideas.  Here, perhaps, it would be rather
-too long an exercise to work my way through that rather long poem.
-But it is really true that it could be analysed, point by point,
-in that traditional sense.  The [[Song|song]] of the radiant young Atheist would
-probably turn out in the end to be a most orthodox theological tract.
-He begins by saying, ‘Hail to thee, blithe spirit.'  What does he mean
-by talking about spirits, if he is not in any sense a spiritualist?
-What would be the meaning of the remark, if he were really a materialist?
-He would never have had even the idea of a spirit but for the
-religious tradition represented in the idea of the Holy Spirit.
-He then says, ‘Bird thou never wert,' which is obviously a lie.
-But it is a lie symbolizing a [[Truth|truth]], and what he really means by it
-may be stated thus ‘I refuse to believe that a bird is only a bird,
-or that there is nothing more in such things than the material
-facts that we know about them.'  That thought is the beginning
-of all theology.
-
-Shelley's next surrender to superstition is absolutely abject
-and appalling.  He says, ‘From heaven, or near it'--a remark which must
-make all modern and rational persons with one concerted movement cover
-their faces in shame.  In plain words, he not only talks as if there
-were something divine in the mere empty space above our planet.
-He actually talks as if there were a paradise of saints and angels
-some where located, like a coloured cloud, in that space,
-so that a skylark could be said to be more or less near to it.
-The lapse is so distressing that I will not linger upon the minor
-barbarism of medieval physiology, by which the emotions of the bird
-are represented as coming from its ‘heart', as if that organ were a
-centre of consciousness.  I was going to say that I ‘had not the heart'
-to dwell any longer on the depressing orthodoxy of Shelley,
-whereby I should myself have fallen into the physical image that is
-so superstitious and medieval.  It is so very difficult to write
-any intelligible English without being superstitious and medieval.
-
-Needless to say, the criticism could not only be continued
-through the whole poem, but it becomes conspicuously clear
-and true in the most poetical parts of the poem.  Certainly the
-finest passages, and per haps the most frequently quoted passages,
-are those that really celebrate what is not only a Christian dogma,
-but one now often abandoned as an antiquated and benighted dogma.
-Those great movements of verse do not really correspond
-to the Rise of the Skylark, but rather to the Fall of Man.
-I dare say Shelley would have been very much surprised if he had been
-told that he was subscribing to the doctrine of the Fall of Man.
-But he certainly was; and that was why his words at that moment
-really become weighty and human.  ‘We look before and after and
-pine for what is not' has the sound of a great tolling bell.
-Nobody needs to be told that some spiritual tragedy has already
-happened to the race of him who cries aloud:
-
-‘But if we could scorn Hate and [[Pride|pride]] and [[Fear|fear]]; If we were things
-born Not to shed a tear--'
-
-or to the poet who can compare such a [[Tragedy|tragedy]] with the more trivial
-bliss of a little feathered creature in the empty air.
-
-I have already remarked that in the past all the poetry that professed
-to be particularly revolutionary was in fact particularly traditional.
-In this and in many things most of the revolutions of the past
-were pretty much alike; and there are some of us who rather [[Doubt|doubt]]
-whether the revolutions of the future will be particularly different.
-But even if we ignore this tradition of traditionalism, and suppose
-that the futurists have really something [[Novel|novel]] in the way of
-a novelty, the logical difficulty of their position still remains.
-We may, for the sake of argument, treat this change as if there
-had been no other changes.  We may isolate the Imagist as he would
-isolate the image.  We may treat the art as if it had no [[history]],
-just as the [[Artist|artist]] tells a story as if it had no beginning.
-But the fact still remains that, since he has to use the words
-of some language, he has got the words from somewhere and learned
-them from somebody.  And the words are in fact winged or weighted
-with the thoughts and associations of a thousand years.
-If they were not, he would not use them; he might just as [[Well|well]]
-say ‘Grunk', or ‘Quoggle'.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ci sono almeno due cose da dire a favore di questa teoria del mutamento,
-come alternativa alla piuttosto antiquata teoria del progresso.
-Primo, essa corrisponde in ogni caso ai fatti reali
-della [[history|storia]] artistica e letteraria, ripetuti ancora e ancora.
-Noi non vediamo nel passato una perpetua linea di crescente liberazione
-o ampliamento dell'esperimento artistico. Ciò che vediamo nel passato
-è la ben più umana faccenda di uomini che dapprima fanno qualcosa malamente;
-poi la fanno [[Well|bene]]; poi la fanno troppo [[Well|bene]]--o, almeno, troppo facilmente
-e troppo spesso. Poi comunemente cominciano a fare qualcos'altro;
-ma la cosa è assai più spesso una cosa vecchia che una cosa nuova.
-Ciò che davvero vediamo è il perpetuo ravvivarsi di ciò che vengono chiamate
-cose nuove, perché sono cose trascurate. Così Raffaello
-e il [[Renaissance|Rinascimento]] tornarono a ciò che era più antico del medievalismo;
-così i Preraffaelliti tornarono a ciò che era più antico di Raffaello.
-Così tanti artisti moderni sono tornati all'arte egizia perché essa
-era più antica dell'arte greca. Così tanti di loro sono tornati all'arte
-selvaggia perché si supponeva fosse primitiva e incorrotta.
-Essi hanno il diritto di cercare stimolazione, benché gli stimolanti
-debbano essere presi con moderazione. Ma il loro rinnovamento è relativo.
-L'altro punto a suo favore è che esso si sbarazza di un certo
-elemento chiamato [[Pride|orgoglio]] o impudenza; che è un [[Wind|vento]] d'oriente che soffia
-fuori da aridi deserti e non fece mai bene a uomo o bestia.
-
-Per un terzo aspetto della nuova poesia, si sostiene che il poeta
-debba cercare d'isolare un'immagine, e persino una parola. Egli deve, per usare
-la frase militare, tagliare tutti i collegamenti e lasciarla in aria.
-Per cominciare, questo m'interessa nel senso più superficiale,
-perché ciò che mi colpisce dei poeti è che essi erano tutti
-irrimediabilmente tradizionali, persino quando tentavano di essere rivoluzionari.
-Nessuno potrebbe essere più interamente in aria, a tutta apparenza,
-di Shelley. Nulla potrebbe essere più interamente in aria
-del suo piccolo beniamino, l'Allodola. E nessuna mente potrebbe essere più
-colma della convinzione d'essere completamente in rivolta
-contro ogni tradizione, e specialmente contro ogni religione.
-Eppure sarebbe un esercizio abbastanza divertente prendere la poesia
-di Shelley sull'allodola, verso per verso e strofa per strofa, e mostrare
-quanto interamente essa dipenda da idee tradizionali, e persino piuttosto
-specialmente da idee religiose. Qui, forse, sarebbe un esercizio
-troppo lungo farmi strada attraverso quella poesia piuttosto lunga.
-Ma è davvero vero che essa potrebbe essere analizzata, punto per punto,
-in quel senso tradizionale. Il [[Song|canto]] del radioso giovane Ateo
-si rivelerebbe probabilmente alla fine un ortodossissimo trattato teologico.
-Egli comincia dicendo: «Salute a te, spirito gioioso». Cosa intende
-parlando di spiriti, se non è in alcun senso uno spiritista?
-Quale sarebbe il significato dell'osservazione, se egli fosse davvero un materialista?
-Non avrebbe mai avuto nemmeno l'idea di uno spirito se non per la
-tradizione religiosa rappresentata nell'idea dello Spirito Santo.
-Poi dice: «Uccello tu non fosti mai», il che è ovviamente una menzogna.
-Ma è una menzogna che simboleggia una [[Truth|verità]], e ciò che egli davvero intende con essa
-si può enunciare così: «Rifiuto di credere che un uccello sia solo un uccello,
-o che ci sia nulla di più in tali cose dei materiali
-fatti che ne conosciamo». Quel pensiero è l'inizio
-di tutta la teologia.
-
-La successiva resa di Shelley alla superstizione è assolutamente abietta
-e sconcertante. Egli dice: «Dal cielo, o vicino ad esso»--osservazione che deve
-far coprire di vergogna il volto, con un concertato movimento, a tutte le persone
-moderne e razionali. In parole schiette, egli non solo parla come se ci
-fosse qualcosa di divino nel mero spazio vuoto sopra il nostro pianeta.
-Egli parla effettivamente come se ci fosse un paradiso di santi e angeli
-situato da qualche parte, come una nube colorata, in quello spazio,
-così che si potesse dire di un'allodola d'esserne più o meno vicina.
-La caduta è così angosciante che non m'indugerò sul minore
-barbarismo della fisiologia medievale, per cui le emozioni dell'uccello
-sono rappresentate come provenienti dal suo «cuore», come se quell'organo fosse un
-centro di coscienza. Stavo per dire che «non avevo il cuore»
-d'indugiare più a lungo sulla deprimente ortodossia di Shelley,
-per cui io stesso sarei caduto nell'immagine fisica che è
-così superstiziosa e medievale. È così assai difficile scrivere
-un inglese intelligibile senza essere superstiziosi e medievali.
-
-Inutile dire, la critica potrebbe non solo essere continuata
-attraverso l'intera poesia, ma diviene cospicuamente chiara
-e vera nelle parti più poetiche della poesia. Di certo i
-passi più belli, e forse i passi più frequentemente citati,
-sono quelli che davvero celebrano ciò che non è solo un dogma cristiano,
-ma uno ora spesso abbandonato come un dogma antiquato e ottenebrato.
-Quei grandi movimenti di versi non corrispondono davvero
-al Volo dell'Allodola, bensì piuttosto alla Caduta dell'Uomo.
-Oserei dire che Shelley sarebbe stato assai sorpreso se gli fosse stato
-detto che stava sottoscrivendo la dottrina della Caduta dell'Uomo.
-Ma di certo lo stava; ed è per questo che le sue parole in quel momento
-divengono davvero gravi e umane. «Guardiamo dinanzi e dietro e
-ci struggiamo per ciò che non è» ha il suono di una grande campana a morto.
-Nessuno ha bisogno che gli si dica che qualche spirituale tragedia è già
-accaduta alla razza di colui che grida a gran voce:
-
-«Ma se potessimo sdegnare Odio e [[Pride|Orgoglio]] e [[Fear|Paura]]; Se fossimo cose
-nate a non versare una lacrima--»
-
-o al poeta che sa paragonare una simile [[Tragedy|tragedia]] con la più triviale
-beatitudine di una piccola creatura piumata nell'aria vuota.
-
-Ho già osservato che nel passato tutta la poesia che dichiarava
-d'essere particolarmente rivoluzionaria era di fatto particolarmente tradizionale.
-In questo e in molte cose la maggior parte delle rivoluzioni del passato
-erano press'a poco simili; e ci sono alcuni di noi che piuttosto [[Doubt|dubitano]]
-che le rivoluzioni del futuro saranno particolarmente diverse.
-Ma anche se ignoriamo questa tradizione del tradizionalismo, e supponiamo
-che i futuristi abbiano davvero qualcosa di [[Novel|nuovo]] in fatto di
-novità, la difficoltà logica della loro posizione permane.
-Possiamo, per amor d'argomento, trattare questo mutamento come se non
-ci fossero stati altri mutamenti. Possiamo isolare l'Imagista come egli
-isolerebbe l'immagine. Possiamo trattare l'arte come se non avesse [[history|storia]],
-proprio come l'[[Artist|artista]] racconta una storia come se non avesse inizio.
-Ma il fatto permane che, dovendo egli usare le parole
-di qualche lingua, ha preso le parole da qualche parte e le ha imparate
-da qualcuno. E le parole sono di fatto alate o gravate
-dei pensieri e delle associazioni di mille anni.
-Se non lo fossero, egli non le userebbe; potrebbe altrettanto [[Well|bene]]
-dire «Grunk», o «Quoggle».
-
-
-
-<span class="atom-split" data-atom="story_11_on_mr_epstein--part_01" data-title="GKC Come to Think — ON MR. EPSTEIN (part 1)" data-chapter="ON MR EPSTEIN" data-kind="excerpt"></span>
-
-
-XI On Mr. Epstein
-
-T HE capacity of Mr. Epstein for carving an Aunt Sally, which shall
-immediately serve as a sort of cockshy for controversialists,
-whether it bears the name of Night or Rima, or anything else, is not
-in itself any reflection on his genius.  There have been great works
-of art which were provocative, especially when they were prophetic.
-Nevertheless, there are problems in the position of those who regard
-Mr. Epstein as a prophet; especially if the prophecy consists
-in claiming to set up to-day something that may possibly be admired
-in a thousand years.  The truth is that nobody has, in this matter,
-faced the fundamental problem; which is not so much the nature
-of Mr. Epstein's sculpture as the nature of any sculpture.
-Sculpture is normally a public and monumental art; and the real
-question raised is whether any art can be public or ornamental.
-Granted that any artist may have a conviction that he is right,
-or even granted that any artist must be right in thinking he is right,
-the question still remains:  why should he stick it up in stone to be
-stared at by all the people who are certain to think he is wrong?
-The truth is that the whole conception of a public monument comes
-down to us from times when men did not feel this immense distance
-between the craftsman and the crowd.  If they had, they would
-never have set the craftsman to work solely for the crowd.
-In that case there would never have been any such trifles as the
-Parthenon or the Cathedral of Seville, let alone the more important
-products of the modern artists of the moment.
-
-Even those who think that the Night of Mr. Epstein is all right
-would probably concede that the Night of Michelangelo is also,
-in its way, all right.  It is quite true that Michelangelo
-knew it was all right, and would have maintained it
-against any rivals who should have said it was all wrong.
-It is quite true that the ordinary populace passing the monuments
-of the Medici did not appreciate its rightness so rightly as he.
-But it is not true (and this is where the modern row begins)
-that even the populace regarded Michelangelo's figure, with its bowed
-head and somnolent profile, as a sort of monster or merely a joke.
-If they thought about it, they thought it was all right, only they
-did not understand how right.  There was not present that sharp,
-angry, popular feeling that it was all wrong; and that, as I say,
-is the beginning of a problem that is not solved satisfactorily
-either by the Futurists or the Philistines.  In other words,
-there was for some reason or other a community of feeling between
-the sculptor and the spectator, which may, in a very exact significance,
-be called common sense.  Art involves not only sense but sensibility;
-but the sense was the same if the sensibility was different.
-That is how we know that something has really happened,
-in modern art and appreciation, which is not disposed of either
-by calling the artist a madman or by calling the public a mob.
-Which ever of the two we think right, there is something wrong.
-Either the artist has really become an anarchist, and is in merely
-restless and unbalanced rebellion against the traditions of civilization;
-or else public opinion has in some way halted or fallen behind
-the normal intellectual leadership which it used to follow.
-That is the problem of public art; and it does not seem to be
-understood either by the artist or the public.
-
-The next truth that is, I think, too little realized is this.
-All art is religious art; and all public art should really be
-of the religion of the people.  This will seem to many a paradox
-at once sweeping and narrow.  But it is true; and it is the truth
-that was missed both by the aesthetes and the moralists in the old
-debate on whether ‘art is unmoral'.  All art is not necessarily moral,
-in the sense of practical.  But all art is religious, because religion
-includes both practice and theory, both [[morality]] and art.
-Religion is the sense of ultimate reality, of whatever meaning a man
-finds in his own existence or the existence of any thing else.
-It may be, and sometimes is, an evil religion; it may be even
-what superficial critics would call an irreligious religion.
-But whatever is his conception of the cosmos and the consciousness,
-that will be in his art, even when his practical private [[morality]]
-is not particularly noticeable in it.  I do not say that by staring
-at the Great Pyramid I can discover whether the builder of the Pyramids
-was in the habit of paying his debts or quarrelling with his wife.
-But I do say that by looking at the Great Pyramid I know
-that the man who built it had a particular sort of religion,
-and a different religion from my own.  I do not say that the
-pattern of a wall-paper will necessarily teach a moral lesson
-by examples, or be a woven tracery of the Ten Commandments.
-But I know a wall-paper pattern of Christendom from a pattern made
-by Moslems or Hindus or Chinamen all right.
-
-Now, this thing which is deeper even than [[morality]], which we may,
-if we like, call [[philosophy]], is always present in a work of art;
-and rather specially in a powerful work of art.  And if the [[philosophy]]
-of the public monument is different from the [[philosophy]] of the public,
-the public is perfectly right in saying so.  The men in the street are not
-stupid or blind or benighted when they throw things at the alien image.
-On the contrary, they are subtle and penetrating and perceptive.
-They are art critics of the fine shades of the fine arts.
-They are certainly much better art critics than those who
-[[Swallow|swallow]] anything that is alien because it is artistic,
-and believe that anything is artistic because it is advanced.
-Plain men do detect something deeper even than morals,
-which is metaphysics; and know the metaphysics are hostile to their own.
-In a sense it is true that every image is an idol; that is,
-about every statue there lingers something of the faint pagan
-tradition of sacrifice and divine honours.  The people feel that,
-if there is to be popular art, it ought to express popular religion.
-The people are right; though the [[Artist|artist]] might some times retort
-that they have now no religion to be expressed.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-XI Sul Signor Epstein
-
-LA capacità del signor Epstein di scolpire una Zia Sally, che serva
-immediatamente da una sorta di bersaglio per i controversisti,
-che porti il nome di Notte o di Rima, o qualsiasi altro, non è
-in se stessa alcuna riflessione sul suo genio. Ci sono state grandi opere
-d'arte che erano provocatorie, specialmente quando erano profetiche.
-Nondimeno, ci sono problemi nella posizione di coloro che considerano
-il signor Epstein un profeta; specialmente se la profezia consiste
-nel pretendere di erigere oggi qualcosa che potrebbe forse essere ammirato
-fra mille anni. La verità è che nessuno ha, in questa materia,
-affrontato il problema fondamentale; che non è tanto la natura
-della scultura del signor Epstein quanto la natura di qualsiasi scultura.
-La scultura è normalmente un'arte pubblica e monumentale; e la vera
-questione sollevata è se qualsiasi arte possa essere pubblica o ornamentale.
-Ammesso che qualsiasi artista possa avere la convinzione d'aver ragione,
-o persino ammesso che qualsiasi artista debba aver ragione nel pensare d'aver ragione,
-la questione permane: perché egli dovrebbe piazzarlo in pietra per essere
-fissato da tutta la gente che di certo penserà che egli abbia torto?
-La verità è che l'intera concezione di un monumento pubblico ci giunge
-da tempi in cui gli uomini non sentivano questa immensa distanza
-tra l'artefice e la folla. Se l'avessero sentita, non avrebbero
-mai messo l'artefice a lavorare unicamente per la folla.
-In tal caso non ci sarebbero mai state simili inezie come il
-Partenone o la Cattedrale di Siviglia, per non parlare dei più importanti
-prodotti dei moderni artisti del momento.
-
-Persino coloro che pensano che la Notte del signor Epstein vada benissimo
-concederebbero probabilmente che anche la Notte di Michelangelo vada,
-a suo modo, benissimo. È del tutto vero che Michelangelo
-sapeva che andava bene, e l'avrebbe sostenuto
-contro qualsiasi rivale che avesse detto che andava tutto male.
-È del tutto vero che l'ordinario popolino che passava dinanzi ai monumenti
-dei Medici non ne apprezzava la giustezza con giustezza pari alla sua.
-Ma non è vero (ed è qui che comincia la moderna baruffa)
-che persino il popolino considerasse la figura di Michelangelo, col suo capo
-chino e il profilo sonnolento, una sorta di mostro o una mera burla.
-Se ci pensavano, pensavano che andasse bene, solo che
-non capivano quanto bene. Non era presente quel netto,
-irato, popolare sentimento che andasse tutto male; e questo, come dico,
-è l'inizio di un problema che non è risolto soddisfacentemente
-né dai Futuristi né dai Filistei. In altre parole,
-c'era per una qualche ragione o l'altra una comunanza di sentimento tra
-lo scultore e lo spettatore, che si può, in un significato assai esatto,
-chiamare senso comune. L'arte coinvolge non solo il senso ma la sensibilità;
-ma il senso era lo stesso anche se la sensibilità era diversa.
-Ecco come sappiamo che qualcosa è davvero accaduto,
-nell'arte moderna e nell'apprezzamento, che non si liquida né
-chiamando l'artista un pazzo né chiamando il pubblico una plebaglia.
-Qualunque dei due riteniamo abbia ragione, c'è qualcosa che non va.
-O l'artista è davvero divenuto un anarchico, ed è in mera
-irrequieta e squilibrata ribellione contro le tradizioni della civiltà;
-oppure l'opinione pubblica si è in qualche modo arrestata o rimasta indietro
-rispetto alla normale guida intellettuale che soleva seguire.
-Ecco il problema dell'arte pubblica; ed esso non sembra essere
-compreso né dall'artista né dal pubblico.
-
-La successiva verità che è, credo, troppo poco compresa è questa.
-Tutta l'arte è arte religiosa; e tutta l'arte pubblica dovrebbe davvero essere
-della religione del popolo. Questo parrà a molti un paradosso
-a un tempo sferzante e angusto. Ma è vero; ed è la verità
-che fu mancata sia dagli esteti sia dai moralisti nel vecchio
-dibattito sul se «l'arte sia amorale». Non tutta l'arte è necessariamente morale,
-nel senso di pratica. Ma tutta l'arte è religiosa, perché la religione
-include sia la pratica sia la teoria, sia la [[morality|moralità]] sia l'arte.
-La religione è il senso della realtà ultima, di qualunque significato un uomo
-trovi nella propria esistenza o nell'esistenza di qualsiasi altra cosa.
-Può essere, e talvolta è, una religione malvagia; può essere persino
-ciò che i critici superficiali chiamerebbero una religione irreligiosa.
-Ma qualunque sia la sua concezione del cosmo e della coscienza,
-essa sarà nella sua arte, anche quando la sua pratica privata [[morality|moralità]]
-non è particolarmente notevole in essa. Non dico che fissando
-la Grande Piramide io possa scoprire se il costruttore delle Piramidi
-avesse l'abitudine di pagare i propri debiti o di litigare con la propria moglie.
-Ma dico bene che guardando la Grande Piramide io so
-che l'uomo che la costruì aveva un particolare tipo di religione,
-e una religione diversa dalla mia. Non dico che il
-disegno di una carta da parati insegni necessariamente una lezione morale
-per esempi, o sia un intreccio tessuto dei Dieci Comandamenti.
-Ma distinguo benissimo un disegno di carta da parati della Cristianità da un disegno fatto
-da Musulmani o Indù o Cinesi.
-
-Ora, questa cosa che è più profonda persino della [[morality|moralità]], che possiamo,
-se vogliamo, chiamare [[philosophy|filosofia]], è sempre presente in un'opera d'arte;
-e piuttosto specialmente in una potente opera d'arte. E se la [[philosophy|filosofia]]
-del monumento pubblico è diversa dalla [[philosophy|filosofia]] del pubblico,
-il pubblico ha perfettamente ragione a dirlo. Gli uomini della strada non sono
-stupidi o ciechi o ottenebrati quando gettano cose contro l'immagine aliena.
-Al contrario, sono sottili e penetranti e perspicaci.
-Sono critici d'arte delle fini sfumature delle belle arti.
-Sono di certo critici d'arte assai migliori di coloro che
-[[Swallow|inghiottono]] qualsiasi cosa sia aliena perché è artistica,
-e credono che qualsiasi cosa sia artistica perché è avanzata.
-Gli uomini semplici scorgono davvero qualcosa di più profondo persino della morale,
-che è la metafisica; e sanno che la metafisica è ostile alla propria.
-In un senso è vero che ogni immagine è un idolo; ossia,
-attorno a ogni statua indugia qualcosa della fioca pagana
-tradizione di sacrificio e onori divini. Il popolo sente che,
-se ci deve essere arte popolare, essa dovrebbe esprimere la religione popolare.
-Il popolo ha ragione; benché l'[[Artist|artista]] potrebbe talvolta ribattere
-che essi ora non hanno alcuna religione da esprimere.
-
-
-
-<span class="atom-split" data-atom="story_11_on_mr_epstein--part_02" data-title="GKC Come to Think — ON MR. EPSTEIN (part 2)" data-chapter="ON MR EPSTEIN" data-kind="excerpt"></span>
-
-
-Being myself a man in the street, and a mere casual figure in
-the crowd, I can testify to my own reactions in a case like that
-of the [[Night]] of Mr. Epstein.  I can see that it has fine lines
-in it; that the broad sweep of the hand like a great flapper,
-as if flattening out the prostrate and already featureless sleeper,
-is deliberately and not clumsily flat.  But when I look up at the face
-of the goddess, my instinctive and instantaneous comment is:
-‘This man thinks that Night, that watches over a sleeping world,
-is a Chinese opium hag.  And there are people who do think that Night,
-and natural cosmic laws of the kind, are of the same spiritual quality
-as that of a Chinese opium hag.  But Night is not a Chinese opium hag.
-Michelangelo knew it was not; and I know it is not; and anybody who
-has seen the nightfall in a village of the Downs knows it is not.'
-I should say that this was because Michelangelo and I had the
-same religion, and that even the villages were founded by men in
-the same tradition.  But anyhow, that is the real root of the quarrel;
-and very few of those who are quarrelling ever get down to it.
-It is not because the disputed work of art is a meaningless monstrosity.
-On the contrary, it is because it has a meaning, and has it
-all the more if it is a masterpiece.  It is not because the men
-in the street are blind and ignorant and cannot see the meaning.
-On the contrary, it is because they do see the meaning and know it
-is not what they mean.
-
-Now, in this matter of Mr. Epstein's sculpture, in connexion
-with which I appear in the unpopular character of a peacemaker,
-I may receive some criticisms questioning the principle I imply.
-Between the large stones the spectators throw at the sculptor,
-and the larger and more monstrous stone the sculptor has thrown at them,
-some stray chips or pebbles may naturally hit any peacemaker so imprudent
-as to stand inquiring what each or either of the stone-throwers
-imagine they are aiming at.  But since such stones are flying in
-the stone-yard of the sculptors, I will transfer the topic and myself
-to quieter regions, and finish the discussion in the library.
-In other words, I will apply the principle to literature,
-about which I know more, and about which there is exactly
-the same argument, supported by exactly the same arguments.
-If we take a recent literary controversy, like that over the poetical
-school of the Sitwells, we find that the current controversial
-case is in the same sense true and in the same sense false.
-In none of these cases am I merely contemptuous of the innovators;
-or, rather, I do not refer to the innovators who can really be treated
-with contempt.  I know there is something in the Sitwell method;
-I know it does sometimes really give forth the glamour of childhood,
-and make the imagination feel, for an immortal instant, that red clouds or
-green hills are like things good to eat.  But I can absorb Miss Sitwell's
-poetry much better than Miss Sitwell's defence of her poetry.
-When it comes to theorizing in the matter, she generally falls
-back on what I may call the Theory of the Prophet's Sepulchre.
-Needless to say, there is a slight fallacy in the argument that,
-because many of the prophets were stoned, anybody who is stoned
-is a prophet.  Montrose was a hero and was hanged, but hanging
-does not make a hero; and not everybody who has been in jail
-is either Bunyan or Cervantes.  But I am not now concerned
-with this old and obvious answer, but with the answer concerned
-with historical fact and especially historical proportion.
-For a history may be crammed with facts and still be wholly false,
-if it is false in proportion.  Now, Miss Sitwell was never tired
-of saying in the time of this controversy, that the original genius
-of Keats was assailed with the same uncomprehending criticism;
-and many critics of her school say that the new style of
-Swinburne staggered a world only used to the style of Tennyson.
-Now this historical parallel is not historical.  And if we think
-it is, we shall miss something momentous and significant in our own
-particular phase of history.
-
-To begin with, the old quarrels were quarrels of quite a different sort.
-The motives of the attack on Keats were almost entirely political
-and social.  The motives of the attack on Swinburne were almost
-entirely moral and religious.  But it is not true, of either of these
-great poets, that they seemed utterly unreadable or unintelligible
-to those who had formed their tastes on the older poets.
-Gifford was a low Tory hack, who hated and feared the little
-group of Radicals associated with Leigh Hunt and Shelley,
-and who regarded the very appearance of an apothecary's apprentice
-as a new poet in this group as a menacing sign of Jacobinism.
-He therefore wrote a slating review of Keats's poems in the Quarterly,
-as anybody could easily write a slating review of any poems anywhere.
-But it is not true to say that even Gifford felt that an abyss
-had opened between him and a new race of intellectual beings;
-that he could not even recognize their verse as verse or their
-English as English.  If I have ever read any of Gifford's
-own poetry, I am glad to say that I have forgotten it,
-but I know the sort of poetry that he admired and inherited.
-It was that very unheroic thing then called the heroic couplet.
-That is, it was the dreary decasyllabic couplet, the dregs and rinsings
-of Pope.  But it is not true that a man, passing from a theme treated
-by Pope to a classical theme treated by Keats, thought he had got
-into a howling wilderness of lunatics or chattering monkeys.
-He simply thought that the style was a little better or worse,
-as the case might be, as being looser or less dignified, or richer
-or more free.  Or, to take the other example, a Victorian accustomed
-to the Tennysonian tone and imagery, in lines like:
-
-‘The sun came dazzling through the [[Leaves|leaves]] And flamed upon the brazen
-greaves Of bold Sir Lancelot,'
-
-did undoubtedly feel, either with [[Pain|pain]] or pleasure, a different sort
-of tone and imagery in the new and musical verse of Swinburne:
-
-‘Ringed round with a flame of fair faces And splendid with swords.'
-
-He might feel that a new noise of purely beautiful singing had come
-into the English language; and he would be right.  He might feel
-that there was some thing vulgar in the exaggerated alliteration
-and a certain swagger of smoothness; and he would also be right.
-But he would not find the second form utterly formless.
-The Tennysonian would not feel, in turning from Tennyson and his
-flaming sun to Swinburne and his flame of fair faces, anything like
-what the Swinburnian would feel in turning from the Swinburnian
-lines to lines, let us say, like these
-
-‘The kings and queens on the nursery wall Are chain-armoured fish
-in the moat and all.'
-
-The Victorian might think the flame of Swinburne too flamboyant,
-or even foolishly flamboyant.  But he would know what Swinburne
-meant by saying that a face was a flame.  And it is very doubtful
-if he would know what Miss Sitwell meant by saying that a [[Queen|queen]]
-was a fish, or that a fish was elaborately equipped with
-chain-armour. Still less would he necessarily understand why
-something on a wall was like something totally different in a moat.
-Some, gifted with a childish perversity (though I say it who shouldn't)
-may fancy they can track the elvish connexion of ideas.
-But there has been a break, and the problem is different.
-There is not only a new sort of work, but a new sort of novelty.
-
-I think there is an explanation.  I think the subtle are
-seeking simplicity, because the simple have been soaked and choked
-with subtlety, or at least with complexity.  The people, who are
-the right guardians of normal ideas, have been bullied and bludgeoned
-by bad materialistic [[Education|education]] till they are simply stunned
-and stupefied.  Meanwhile, the clever and complex people are trying
-to return to direct ideas, but can only do it in an indirect way;
-they long for straight lines, but cannot go for them straight.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Essendo io stesso un uomo della strada, e una mera figura casuale nella
-folla, posso testimoniare le mie reazioni in un caso come quello
-della [[Night|Notte]] del signor Epstein. Riesco a vedere che ha fini linee
-in sé; che l'ampio sventagliare della mano come una grande pinna,
-come ad appiattire il prostrato e già informe dormiente,
-è deliberatamente e non goffamente piatto. Ma quando alzo lo sguardo al volto
-della dea, il mio istintivo e istantaneo commento è:
-«Quest'uomo pensa che la Notte, che veglia su un mondo addormentato,
-sia una megera cinese dell'oppio. E c'è gente che pensa davvero che la Notte,
-e le naturali leggi cosmiche del genere, siano della stessa qualità spirituale
-di quella di una megera cinese dell'oppio. Ma la Notte non è una megera cinese dell'oppio.
-Michelangelo sapeva che non lo era; e io so che non lo è; e chiunque
-abbia visto il cadere della notte in un villaggio dei Downs sa che non lo è».
-Direi che ciò era perché Michelangelo e io avevamo la
-stessa religione, e che persino i villaggi furono fondati da uomini nella
-stessa tradizione. Ma comunque, ecco la vera radice della lite;
-e assai pochi di coloro che litigano vi arrivano mai in fondo.
-Non è perché l'opera d'arte contestata sia una mostruosità priva di senso.
-Al contrario, è perché essa ha un senso, e ce l'ha
-tanto più se è un capolavoro. Non è perché gli uomini
-della strada siano ciechi e ignoranti e non riescano a vedere il senso.
-Al contrario, è perché essi vedono davvero il senso e sanno che
-non è ciò che intendono.
-
-Ora, in questa faccenda della scultura del signor Epstein, in connessione
-con la quale compaio nell'impopolare veste di paciere,
-potrò ricevere alcune critiche che mettono in dubbio il principio che sottintendo.
-Tra le grandi pietre che gli spettatori scagliano contro lo scultore,
-e la più grande e più mostruosa pietra che lo scultore ha scagliato contro di loro,
-qualche scheggia o ciottolo vagante può naturalmente colpire qualsiasi paciere così imprudente
-da starsene lì a chiedersi a cosa ciascuno o l'altro dei lanciatori di pietre
-immagini di mirare. Ma poiché tali pietre volano
-nel deposito di pietre degli scultori, trasferirò l'argomento e me stesso
-in regioni più tranquille, e finirò la discussione nella biblioteca.
-In altre parole, applicherò il principio alla letteratura,
-di cui so di più, e riguardo alla quale c'è esattamente
-lo stesso argomento, sostenuto esattamente dagli stessi argomenti.
-Se prendiamo una recente controversia letteraria, come quella sulla scuola
-poetica dei Sitwell, troviamo che il corrente caso controverso
-è nello stesso senso vero e nello stesso senso falso.
-In nessuno di questi casi sono io meramente sprezzante degli innovatori;
-o, piuttosto, non mi riferisco agli innovatori che possono davvero essere trattati
-con disprezzo. So che c'è qualcosa nel metodo dei Sitwell;
-so che esso talvolta emana davvero l'incanto dell'infanzia,
-e fa sentire all'immaginazione, per un immortale istante, che rosse nubi o
-verdi colline siano come cose buone da mangiare. Ma so assorbire la poesia della
-signorina Sitwell assai meglio della difesa che la signorina Sitwell fa della propria poesia.
-Quando si tratta di teorizzare in materia, ella generalmente ripiega
-su ciò che posso chiamare la Teoria del Sepolcro del Profeta.
-Inutile dire, c'è una lieve fallacia nell'argomento che,
-poiché molti dei profeti furono lapidati, chiunque sia lapidato
-sia un profeta. Montrose fu un eroe e fu impiccato, ma l'impiccagione
-non fa un eroe; e non chiunque sia stato in prigione
-è o Bunyan o Cervantes. Ma non mi occupo ora
-di questa vecchia e ovvia risposta, bensì della risposta concernente
-il fatto storico e specialmente la proporzione storica.
-Poiché una storia può essere stipata di fatti e nondimeno essere del tutto falsa,
-se è falsa nella proporzione. Ora, la signorina Sitwell non si stancava mai
-di dire, al tempo di questa controversia, che l'originale genio
-di Keats fu assalito dalla stessa incomprensiva critica;
-e molti critici della sua scuola dicono che il nuovo stile di
-Swinburne sconcertò un mondo abituato solo allo stile di Tennyson.
-Ora questo parallelo storico non è storico. E se pensiamo
-che lo sia, mancheremo qualcosa di momentoso e significativo nella nostra stessa
-particolare fase della storia.
-
-Per cominciare, le vecchie liti erano liti di tutt'altra sorta.
-I moventi dell'attacco a Keats erano quasi interamente politici
-e sociali. I moventi dell'attacco a Swinburne erano quasi
-interamente morali e religiosi. Ma non è vero, di nessuno di questi
-grandi poeti, che essi sembrassero del tutto illeggibili o inintelligibili
-a coloro che avevano formato i propri gusti sui poeti più antichi.
-Gifford era un basso servitorello Tory, che odiava e temeva il piccolo
-gruppo di Radicali associati a Leigh Hunt e Shelley,
-e che considerava la comparsa stessa di un apprendista speziale
-come nuovo poeta in questo gruppo un minaccioso segno di Giacobinismo.
-Egli perciò scrisse una stroncatura delle poesie di Keats sul Quarterly,
-come chiunque potrebbe facilmente scrivere una stroncatura di qualsiasi poesia in qualsiasi luogo.
-Ma non è vero dire che persino Gifford sentisse che un abisso
-si fosse aperto tra lui e una nuova razza di esseri intellettuali;
-che non riuscisse nemmeno a riconoscere il loro verso come verso o il loro
-inglese come inglese. Se ho mai letto alcuna delle poesie
-di Gifford, sono lieto di dire che l'ho dimenticata,
-ma conosco il tipo di poesia che egli ammirava ed ereditava.
-Era quell'assai poco eroica cosa allora chiamata distico eroico.
-Ossia, era il tetro distico decasillabo, le fecce e i risciacqui
-di Pope. Ma non è vero che un uomo, passando da un tema trattato
-da Pope a un tema classico trattato da Keats, pensasse d'essere finito
-in un urlante deserto di pazzi o di scimmie chiacchierone.
-Egli pensava semplicemente che lo stile fosse un po' migliore o peggiore,
-a seconda del caso, in quanto più sciolto o meno dignitoso, o più ricco
-o più libero. O, per prendere l'altro esempio, un Vittoriano avvezzo
-al tono e all'immaginario tennysoniani, in versi come:
-
-«Il sole giunse abbagliante fra le [[Leaves|Foglie]] E fiammeggiò sui bronzei
-schinieri Dell'ardito Sir Lancillotto»,
-
-sentiva senza dubbio, o con [[Pain|Dolore]] o con piacere, un diverso tipo
-di tono e immaginario nel nuovo e musicale verso di Swinburne:
-
-«Cinto attorno da una fiamma di bei volti E splendido di spade».
-
-Egli poteva sentire che un nuovo suono di canto puramente bello era giunto
-nella lingua inglese; e avrebbe avuto ragione. Poteva sentire
-che c'era qualcosa di volgare nell'esagerata allitterazione
-e in una certa spavalderia di levigatezza; e avrebbe avuto anche ragione.
-Ma non avrebbe trovato la seconda forma del tutto informe.
-Il Tennysoniano non sentirebbe, passando da Tennyson e dal suo
-fiammeggiante sole a Swinburne e alla sua fiamma di bei volti, nulla di simile
-a ciò che lo Swinburniano sentirebbe passando dai versi swinburniani
-a versi, diciamo, come questi:
-
-«I re e le regine sul muro della cameretta Sono pesci corazzati di maglia
-nel fossato e via dicendo».
-
-Il Vittoriano potrebbe pensare che la fiamma di Swinburne fosse troppo fiammeggiante,
-o persino scioccamente fiammeggiante. Ma saprebbe cosa Swinburne
-intendesse dicendo che un volto era una fiamma. Ed è assai dubbio
-che egli saprebbe cosa la signorina Sitwell intendesse dicendo che una [[Queen|regina]]
-era un pesce, o che un pesce fosse elaboratamente equipaggiato di
-maglia corazzata. Ancor meno capirebbe necessariamente perché
-qualcosa su un muro fosse come qualcosa di totalmente diverso in un fossato.
-Alcuni, dotati di una puerile perversità (benché lo dica io che non dovrei)
-possono immaginare di poter rintracciare l'elfica connessione delle idee.
-Ma c'è stata una frattura, e il problema è diverso.
-Non c'è solo un nuovo genere di lavoro, ma un nuovo genere di novità.
-
-Credo ci sia una spiegazione. Credo che i sottili stiano
-cercando la semplicità, perché i semplici sono stati inzuppati e soffocati
-di sottigliezza, o almeno di complessità. Il popolo, che è
-il giusto custode delle idee normali, è stato tiranneggiato e bastonato
-da una cattiva [[Education|istruzione]] materialistica finché è semplicemente stordito
-e stupefatto. Nel frattempo, la gente intelligente e complessa sta cercando
-di tornare a idee dirette, ma può farlo solo in modo indiretto;
-essi anelano a linee rette, ma non sanno andarvi dritti.
 
 
 

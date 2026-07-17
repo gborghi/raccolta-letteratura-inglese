@@ -1,5 +1,5 @@
 ---
-title: "Alls Well that Ends Well — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [8]"
+title: "ALL’S WELL THAT ENDS WELL"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/all’s-well-that-ends-well-(shakespeare)"
@@ -9,6 +9,872 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/alls_well_that_ends_well" data-author="Shakespeare" data-workhref="works/all’s-well-that-ends-well-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter young [[Bertram]] Count of Roussillon, his mother the Countess, [[Helen]], and Lord Lafeu, all in black |
+| COUNTESS | In delivering my son from me I bury a second husband. |
+| [[Bertram|BERTRAM]] | And I in going, madam, weep o’er my father’s [[Death|death]] anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection. |
+| LAFEU | You shall find of the [[King]] a husband, madam; you, sir, a father. He that so generally is at all times good must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted rather than lack it where there is such abundance. |
+| COUNTESS | What [[Hope|hope]] is there of his majesty’s amendment? |
+| LAFEU | He hath abandoned his physicians, madam, under whose practices he hath persecuted [[Time|time]] with [[Hope|hope]], and finds no other advantage in the process but only the losing of [[Hope|hope]] by [[Time|time]]. |
+| COUNTESS | This young gentlewoman had a father—O that ‘had’: how sad a passage ’tis!—whose skill was almost as great as his honesty; had it stretched so far, would have made [[Nature|nature]] immortal, and [[Death|death]] should have play for lack of work. Would for the [[King]]’s sake he were living. I think it would be the [[Death|death]] of the [[King]]’s disease. |
+| LAFEU | How called you the man you speak of, madam? COUNTESS He was famous, sir, in his profession, and it was his great right to be so: Gerard de Narbonne. |
+| LAFEU | He was excellent indeed, madam. The [[King]] very lately spoke of him, admiringly and mourningly. He was skilful enough to have lived still, if knowledge could be set up against [[Mortality|mortality]]. |
+| [[Bertram|BERTRAM]] | What is it, my good lord, the [[King]] languishes of? |
+| LAFEU | A fistula, my lord. |
+| [[Bertram|BERTRAM]] | I heard not of it before. |
+| LAFEU | I would it were not notorious.—Was this gentlewoman the daughter of Gérard de Narbonne? |
+| COUNTESS | His sole [[Child|child]], my lord, and bequeathed to my overlooking. I have those hopes of her good that her [[Education|education]] promises; her dispositions she inherits, which makes fair gifts fairer—for where an unclean mind carries virtuous qualities, there commendations go with pity: they are virtues and traitors too. In her they are the better for their simpleness. She derives her honesty and achieves her goodness. |
+| LAFEU | Your commendations, madam, get from her [[Tears|tears]]. |
+| COUNTESS | ’Tis the best brine a maiden can season her praise in. The remembrance of her father never approaches her heart but the tyranny of her sorrows takes all livelihood from her cheek.—No more of this, [[Helen]]. Go to, no more, lest it be rather thought you affect a sorrow than to have— |
+| [[Helen|HELEN]] | I do affect a sorrow indeed, but I have it too. |
+| LAFEU | Moderate lamentation is the right of the dead, excessive grief the enemy to the living. |
+| COUNTESS | If the living be not enemy to the grief, the excess makes it soon mortal. [[Bertram|BERTRAM]]) (kneeling) Madam, I [[Desire|desire]] your holy wishes. LAFEU How understand we that? |
+| COUNTESS | Be thou blessed, [[Bertram]], and succeed thy father In manners as in shape. Thy [[Blood|blood]] and virtue Contend for empire in thee, and thy goodness Share with thy birthright. [[Love]] all, trust a few, Do wrong to none. Be able for thine enemy Rather in power than use, and keep thy friend Under thy own life’s key. Be checked for [[Silence|silence]] But never taxed for speech. What heaven more will That thee may furnish and my prayers pluck down, Fall on thy head. Farewell. (To Lafeu) My lord, ’Tis an unseasoned courtier. Good my lord, Advise him. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--02_exchange_lafeu" data-title="Alls Well that Ends Well — Act I, Scene 1 — exchange (LAFEU) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LAFEU | He cannot want the best That shall attend his [[Love|love]]. |
+| COUNTESS | Heaven bless him!—Farewell, [[Bertram]]. |
+| [[Bertram|BERTRAM]] | (rising) The best wishes that can be forged in your thoughts be servants to you. Exit Countess ([[To Helen]]) Be comfortable to my mother, your mistress, and make much of her. |
+| LAFEU | Farewell, pretty lady. You must hold the credit of your father. Exeunt [[Bertram]] and Lafeu |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--03_monologue_helen" data-title="Alls Well that Ends Well — Act I, Scene 1 — monologue (HELEN) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Helen|HELEN]] | O were that all! I think not on my father, And these great [[Tears|tears]] grace his remembrance more Than those I shed for him. What was he like? I have forgot him. My [[Imagination|imagination]] Carries no favour in’t but [[Bertram]]’s. I am undone. There is no living, none, If [[Bertram]] be away. ‘Twere all one That I should [[Love|love]] a bright particular star And think to wed it, he is so above me. In his bright radiance and collateral light Must I be comforted, not in his sphere. Th’[[Ambition|ambition]] in my [[Love|love]] thus plagues itself. The hind that would be mated by the [[Lion|lion]] Must die for [[Love|love]]. ’Twas pretty, though a plague, To see him every hour, to sit and draw His arched brows, his hawking eye, his curls, In our heart’s table—heart too capable Of every line and trick of his sweet favour. But now he’s gone, and my idolatrous fancy Must sanctify his relics. Who comes here? Enter Paroles One that goes with him. I [[Love|love]] him for his sake— And yet I know him a notorious liar, Think him a great way [[Fool|fool]], solely a coward. Yet these fixed evils sit so fit in him That they take place when virtue’s steely bones Looks bleak i’th’ cold [[Wind|wind]]. Withal, full oft we see Cold wisdom waiting on superfluous folly. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--04_exchange_paroles" data-title="Alls Well that Ends Well — Act I, Scene 1 — exchange (PAROLES) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PAROLES | Save you, fair [[Queen|queen]]. |
+| [[Helen|HELEN]] | And you, monarch. |
+| PAROLES | No. |
+| [[Helen|HELEN]] | And no. |
+| PAROLES | Are you meditating on virginity? |
+| [[Helen|HELEN]] | Ay. You have some stain of soldier in you, let me ask you a question. Man is enemy to virginity: how may we barricado it against him? in |
+| PAROLES | Keep him out. |
+| [[Helen|HELEN]] | But he assails, and our virginity, though valiant in the defence, yet is weak. Unfold to us some warlike resistance. |
+| PAROLES | There is none. Man, setting down before you, will undermine you and blow you up. |
+| [[Helen|HELEN]] | Bless our poor virginity from underminers and blowers-up. Is there no military policy how virgins might blow up men? |
+| PAROLES | Virginity being blown down, man will quicklier be blown up. Marry, in blowing him down again, with the breach yourselves made you lose your [[City|city]]. It is not politic in the commonwealth of [[Nature|nature]] to preserve virginity. Loss of virginity is rational increase, and there was never virgin got till virginity was first lost. That you were made of is mettle to make virgins. Virginity by being once lost may be ten times found; by being ever kept it is ever lost. ’Tis too cold a companion, away with’t. |
+| [[Helen|HELEN]] | I will stand for’t a little, though therefore I die a virgin. |
+| PAROLES | There’s little can be said in’t. ‘Tis against the rule of [[Nature|nature]]. To speak on the part of virginity is to accuse your mothers, which is most infallible disobedience. He that hangs himself is a virgin: virginity murders itself, and should be buried in highways, out of all sanctified limit, as a desperate offendress against [[Nature|nature]]. Virginity breeds mites, much like a [[cheese]]; consumes itself to the very paring, and so dies with feeding his own stomach. Besides, virginity is peevish, proud, idle, made of [[Self|self]]-[[Love|love]]—which is the most inhibited sin in the canon. Keep it not, you cannot choose but lose by’t. Out with’t! Within t’one year it will make itself two, which is a goodly increase, and the principal itself not much the worse. Away with’t. |
+| [[Helen|HELEN]] | How might one do, sir, to lose it to her own liking? |
+| PAROLES | Let me see. Marry, ill, to like him that ne‘er it likes. ’Tis a commodity will lose the gloss with lying: the longer kept, the less worth. Off with’t while ‘tis vendible. Answer the [[Time|time]] of request. Virginity like an old courtier wears her cap out of fashion, richly suited but unsuitable, just like the brooch and the toothpick, which wear not now. Your date is better in your pie and your porridge than in your cheek, and your virginity, your old virginity, is like one of our French withered pears: it looks ill, it eats drily, marry, ’tis a withered pear—it was formerly better, marry, yet ’tis a withered pear. Will you anything with it? |
+| [[Helen|HELEN]] | Not my virginity, yet ... There shall your master have a thousand loves, A mother and a mistress and a friend, A phoenix, captain, and an enemy, A guide, a goddess, and a sovereign, A counsellor, a traitress, and a dear: His humble [[Ambition|ambition]], proud [[Humility|humility]], His jarring concord and his discord dulcet, His [[Faith|faith]], his sweet disaster, with a world Of pretty fond adoptious christendoms That blinking Cupid gossips. Now shall he— I know not what he shall. God send him [[Well|well]]. The [[Court|court]]’s a learning place, and he is one— |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--05_exchange_paroles" data-title="Alls Well that Ends Well — Act I, Scene 1 — exchange (PAROLES) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PAROLES | What one, i’[[Faith|faith]]? |
+| [[Helen|HELEN]] | That I wish [[Well|well]]. ’Tis pity. |
+| PAROLES | What’s pity? |
+| [[Helen|HELEN]] | That wishing [[Well|well]] had not a [[Body|body]] in’t Which might be felt, that we, the poorer born, Whose baser [[Stars|stars]] do shut us up in wishes, Might with effects of them follow our friends And show what we [[Alone|alone]] must think, which never Returns us thanks. Enter a Page |
+| PAGE | Monsieur Paroles, my lord calls for you. Exit |
+| PAROLES | Little [[Helen]], farewell. If I can remember thee I will think of thee at [[Court|court]]. |
+| [[Helen|HELEN]] | Monsieur Paroles, you were born under a charitable star. |
+| PAROLES | Under Mars, I. |
+| [[Helen|HELEN]] | I especially think under Mars. |
+| PAROLES | Why ‘under Mars’? |
+| [[Helen|HELEN]] | The wars hath so kept you under that you must needs be born under Mars. |
+| PAROLES | When he was predominant. |
+| [[Helen|HELEN]] | When he was retrograde, I think rather. |
+| PAROLES | Why think you so? |
+| [[Helen|HELEN]] | You go so much backward when you fight. |
+| PAROLES | That’s for advantage. |
+| [[Helen|HELEN]] | So is running away, when [[Fear|fear]] proposes the safety. But the composition that your valour and [[Fear|fear]] makes in you is a virtue of a good wing, and I like the wear [[Well|well]]. |
+| PAROLES | I am so full of businesses I cannot answer thee acutely. I will return perfect courtier, in the which my instruction shall serve to naturalize thee, so thou wilt be capable of a courtier’s counsel and understand what advice shall thrust upon thee; else thou diest in thine unthankfulness, and thine ignorance makes thee away. Farewell. When thou hast leisure say thy prayers; when thou hast none remember thy friends. Get thee a good husband and use him as he uses thee. So farewell. Exit |
+| [[Helen|HELEN]] | Our remedies oft in ourselves do lie Which we ascribe to heaven. The fated sky Gives us free scope, only doth backward pull Our slow designs when we ourselves are dull. What power is it which mounts my [[Love|love]] so high, That makes me see and cannot feed mine eye? The mightiest space in fortune [[Nature|nature]] brings To join like likes and kiss like native things. Impossible be strange attempts to those That weigh their pains in sense and do suppose What hath been cannot be. Who ever strove To show her merit that did miss her [[Love|love]]? The [[King]]’s disease—my project may deceive me, But my intents are fixed and will not leave me. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Countess, Reynaldo her steward, and behind Lavatch her clown |
+| COUNTESS | I will now hear. What say you of this gentlewoman? |
+| REYNALDO | Madam, the care I have had to even your content I wish might be found in the calendar of my past endeavours, for then we wound our modesty and make foul the clearness of our deservings, when of ourselves we publish them. |
+| COUNTESS | What does this knave here? (To Lavatch) Get you gone, sirrah. The complaints I have heard of you I do not all believe. ’Tis my slowness that I do not, for I know you lack not folly to commit them and have ability enough to make such knaveries yours. |
+| LAVATCH | ’Tis not unknown to you, madam, I am a poor fellow. |
+| COUNTESS | [[Well]], sir? |
+| LAVATCH | No, madam, ’tis not so [[Well|well]] that I am poor, though many of the rich are damned. But if I may have your ladyship’s good will to go to the world, Isbel the woman and I will do as we may. |
+| COUNTESS | Wilt thou needs be a beggar? |
+| LAVATCH | I do beg your good will in this case. |
+| COUNTESS | In what case? |
+| LAVATCH | In Isbel’s case and mine own. Service is no heritage, and I think I shall never have the blessing of God till I have issue o’ my [[Body|body]], for they say bairns are blessings. |
+| COUNTESS | Tell me thy reason why thou wilt marry. |
+| LAVATCH | My poor [[Body|body]], madam, requires it. I am driven on by the flesh, and he must needs go that the devil drives. |
+| COUNTESS | Is this all your worship’s reason? |
+| LAVATCH | [[Faith]], madam, I have other holy reasons, such as they are. |
+| COUNTESS | May the world know them? |
+| LAVATCH | I have been, madam, a wicked creature, as you—and all flesh and [[Blood|blood]]—are, and indeed I do marry that I may repent. |
+| COUNTESS | Thy [[Marriage|marriage]] sooner than thy wickedness. |
+| LAVATCH | I am out o’ friends, madam, and I [[Hope|hope]] to have friends for my wife’s sake. |
+| COUNTESS | Such friends are thine enemies, knave. |
+| LAVATCH | You’re shallow, madam—in great friends, for the knaves come to do that for me which I am aweary of. He that ears my land spares my team, and gives me leave to in the crop. If I be his cuckold, he’s my drudge. He that comforts my wife is the cherisher of my flesh and [[Blood|blood]]; he that cherishes my flesh and [[Blood|blood]] loves my flesh and [[Blood|blood]]; he that loves my flesh and [[Blood|blood]] is my friend; ergo, he that kisses my wife is my friend. If men could be contented to be what they are, there were no [[Fear|fear]] in [[Marriage|marriage]]. For young Chairbonne the puritan and old Poisson the papist, howsome‘er their hearts are severed in religion, their heads are both one: they may jowl horns together like any deer i’th’ herd. |
+| COUNTESS | Wilt thou ever be a foul-mouthed and calumnious knave? |
+| LAVATCH | A [[Prophet|prophet]]? Ay, madam, and I speak the [[Truth|truth]] the next way. [He sings] For I the ballad will repeat, Which men full true shall find: Your [[Marriage|marriage]] comes by destiny, Your cuckoo sings by kind. |
+| COUNTESS | Get you gone, sir. I’ll talk with you more anon. |
+| REYNALDO | May it please you, madam, that he bid [[Helen]] come to you? Of her I am to speak. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--02_exchange_countess" data-title="Alls Well that Ends Well — Act I, Scene 3 — exchange (COUNTESS) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| COUNTESS | (to Lavatch) Sirrah, tell my gentlewoman I would speak with her. [[Helen]], I mean. |
+| LAVATCH | sings ‘Was this fair face the cause’, quoth she, ‘Why the Grecians sacked Troy? Fond done, done fond. Was this [[King]] Priam’s joy?’ With that she sighed as she stood, With that she sighed as she stood, And gave this sentence then: ‘Among nine bad if one be good, Among nine bad if one be good, There’s yet one good in ten.’ |
+| COUNTESS | What, ‘one good in ten’? You corrupt the [[Song|song]], sirrah. |
+| LAVATCH | One good woman in ten, madam, which is a purifying o‘th’ [[Song|song]]. Would God would serve the world so all the year! We’d find no fault with the tithe-woman if I were the parson. One in ten, quoth a? An we might have a good woman born but ere every blazing star, or at an earthquake, ’twould mend the lottery [[Well|well]]. A man may draw his heart out ere a pluck one. |
+| COUNTESS | You’ll be gone, sir knave, and do as I command you. |
+| LAVATCH | That man should be at woman’s command, and yet no hurt done! Though honesty be no puritan, yet it will do no hurt; it will wear the surplice of [[Humility|humility]] over the black gown of a big heart. I am going, forsooth. The business is for [[Helen]] to come hither. Exit |
+| COUNTESS | [[Well]] now. |
+| REYNALDO | I know, madam, you [[Love|love]] your gentlewoman entirely. |
+| COUNTESS | [[Faith]], I do. Her father bequeathed her to me, and she herself without other advantage may lawfully make title to as much [[Love|love]] as she finds. There is more owing her than is paid, and more shall be paid her than she’ll demand. |
+| REYNALDO | Madam, I was very late more near her than I think she wished me. [[Alone]] she was, and did communicate to herself, her own words to her own ears; she thought, I dare vow for her, they touched not any stranger sense. Her matter was, she loved your son. Fortune, she said, was no goddess, that had put such difference betwixt their two estates; [[Love]] no god, that would not extend his might only where qualities were level; Dian no [[Queen|queen]] of virgins, that would suffer her poor knight surprised without rescue in the first assault or ransom afterward. This she delivered in the most bitter touch of sorrow that e’er I heard virgin exclaim in; which I held my duty speedily to acquaint you withal, sithence in the loss that may happen it concerns you something to know it. |
+| COUNTESS | You have discharged this honestly. Keep it to yourself. Many likelihoods informed me of this before, which hung so tott’ring in the balance that I could neither believe nor misdoubt. Pray you, leave me. Stall this in your bosom, and I thank you for your honest care. I will speak with you further anon. Exit Steward Enter [[Helen]] |
+| COUNTESS | (aside) Even so it was with me when I was young. If ever we are [[Nature|nature]]’s, these are ours: this thorn Doth to our [[Rose|rose]] of youth rightly belong. Our [[Blood|blood]] to us, this to our [[Blood|blood]] is born; It is the show and seal of [[Nature|nature]]’s [[Truth|truth]], Where [[Love|love]]’s strong passion is impressed in youth. By our remembrances of days foregone, Such were our faults—or then we thought them none. Her eye is sick on’t. I observe her now. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--03_exchange_helen" data-title="Alls Well that Ends Well — Act I, Scene 3 — exchange (HELEN) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Helen|HELEN]] | What is your pleasure, madam? |
+| COUNTESS | You know, [[Helen]], I am a mother to you. |
+| [[Helen|HELEN]] | Mine honourable mistress. |
+| COUNTESS | Nay, a mother. Why not a mother? When I said ‘a mother’, Methought you saw a serpent. What’s in ‘mother’ That you start at it? I say I am your mother, And put you in the catalogue of those That were enwombèd mine. ’Tis often seen Adoption strives with [[Nature|nature]], and choice breeds A native slip to us from foreign seeds. You ne’er oppressed me with a mother’s groan, Yet I express to you a mother’s care. God’s [[Mercy|mercy]], maiden! Does it curd thy [[Blood|blood]] To say I am thy mother? What’s the matter, That this distempered messenger of wet, The many-coloured Iris, rounds thine eye? Why, that you are my daughter? |
+| [[Helen|HELEN]] | That I am not. |
+| COUNTESS | I say I am your mother. |
+| [[Helen|HELEN]] | Pardon, madam. The Count Roussillon cannot be my brother. I am from humble, he from honoured name; No note upon my parents, his all noble. My master, my dear lord he is, and I His servant live and will his vassal die. He must not be my brother. |
+| COUNTESS | Nor I your mother? |
+| [[Helen|HELEN]] | You are my mother, madam. Would you were— So that my lord your son were not my brother— Indeed my mother! Or were you both our mothers I care no more for than I do for heaven, So I were not his sister. Can’t no other But, I your daughter, he must be my brother? |
+| COUNTESS | Yes, [[Helen]], you might be my daughter-in-law. God shield you mean it not! ‘Daughter’ and ‘mother’ So strive upon your pulse. What, pale again? My [[Fear|fear]] hath catched your fondness. Now I see The myst‘ry of your [[Loneliness|loneliness]], and find Your salt [[Tears|tears]]’ head. Now to all sense ’tis gross: You [[Love|love]] my son. Invention is ashamed Against the proclamation of thy passion To say thou dost not. Therefore tell me true, But tell me then ‘tis so—for look, thy cheeks Confess it t’one to th‘other, and thine eyes See it so grossly shown in thy behaviours That in their kind they speak it. Only sin And hellish obstinacy tie thy tongue, That [[Truth|truth]] should be suspected. Speak, is’t so? If it be so you have wound a goodly clew; If it be not, forswear’t. Howe’er, I charge thee, As heaven shall work in me for thine avail, To tell me truly. |
+| [[Helen|HELEN]] | Good madam, pardon me. |
+| COUNTESS | Do you [[Love|love]] my son? |
+| [[Helen|HELEN]] | Your pardon, noble mistress. |
+| COUNTESS | [[Love]] you my son? |
+| [[Helen|HELEN]] | Do not you [[Love|love]] him, madam? |
+| COUNTESS | Go not about. My [[Love|love]] hath in’t a bond Whereof the world takes note. Come, come, disclose The state of your affection, for your passions Have to the full appeached. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--04_monologue_helen" data-title="Alls Well that Ends Well — Act I, Scene 3 — monologue (HELEN) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Helen|HELEN]] | Then I confess, Here on my knee, before high heaven and you, That before you and next unto high heaven I [[Love|love]] your son. My friends were poor but honest; so’s my [[Love|love]]. Be not offended, for it hurts not him That he is loved of me. I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him, Yet never know how that [[Desert|desert]] should be. I know I [[Love|love]] in vain, strive against [[Hope|hope]]; Yet in this captious and intenable sieve I still pour in the waters of my [[Love|love]] And lack not to lose still. Thus, Indian-like, Religious in mine error, I adore The sun that looks upon his worshipper But knows of him no more. My dearest madam, Let not your hate encounter with my [[Love|love]] For loving where you do; but if yourself, Whose aged [[Honour|honour]] cites a virtuous youth, Did ever in so true a flame of liking Wish chastely and [[Love|love]] dearly, that your Dian Was both herself and [[Love]], O then give pity To her whose state is such that cannot choose But lend and give where she is sure to lose, That seeks to find not that her search implies, But [[Riddle|riddle]]-like lives sweetly where she dies. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--05_exchange_countess" data-title="Alls Well that Ends Well — Act I, Scene 3 — exchange (COUNTESS) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| COUNTESS | Had you not lately an intent—speak truly— To go to [[Paris]]? |
+| [[Helen|HELEN]] | Madam, I had. |
+| COUNTESS | Wherefore? Tell true. |
+| [[Helen|HELEN]] | I will tell [[Truth|truth]], by grace itself I swear. You know my father left me some prescriptions Of rare and proved effects, such as his reading And manifest experience had collected For general sovereignty, and that he willed me In heedfull’st reservation to bestow them, As notes whose faculties inclusive were More than they were in note. Amongst the rest There is a remedy, approved, set down, To cure the desperate languishings whereof The [[King]] is rendered lost. |
+| COUNTESS | This was your motive For [[Paris]], was it? Speak. |
+| [[Helen|HELEN]] | My lord your son made me to think of this, Else [[Paris]] and the medicine and the [[King]] Had from the conversation of my thoughts Haply been absent then. |
+| COUNTESS | But think you, [[Helen]], If you should tender your supposed aid, He would receive it? He and his physicians Are of a mind: he, that they cannot help him; They, that they cannot help. How shall they credit A poor unlearned virgin, when the schools, Embowelled of their doctrine, have left off The danger to itself? |
+| [[Helen|HELEN]] | There’s something in’t More than my father’s skill, which was the great’st Of his profession, that his good receipt Shall for my legacy be sanctified By th’ luckiest [[Stars|stars]] in heaven, and would your [[Honour|honour]] But give me leave to try [[success]], I’d venture The [[Well|well]]-lost life of mine on his grace’s cure By such a day, an hour. |
+| COUNTESS | Dost thou believe’t? |
+| [[Helen|HELEN]] | Ay, madam, knowingly. |
+| COUNTESS | Why, [[Helen]], thou shalt have my leave and [[Love|love]], Means and attendants, and my loving greetings To those of mine in [[Court|court]]. I’ll stay at [[Home|home]] And pray God’s blessing into thy attempt. Be gone tomorrow, and be sure of this: What I can help thee to, thou shalt not miss. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish of cornetts. Enter the [[King]] carried in a chair, with the two Lords [[Dumaine]], divers young lords taking leave for the Florentine war, and [[Bertram]] and Paroles |
+| [[King|KING]] | Farewell, young lords. These warlike principles Do not throw from you. And you, my lords, farewell. Share the advice betwixt you; if both gain all, The gift doth stretch itself as ’tis received, And is enough for both. |
+| FIRST LORD [[Dumaine|DUMAINE]] | ’Tis our [[Hope|hope]], sir, After [[Well|well]]-entered soldiers, to return And find your grace in health. |
+| [[King|KING]] | No, no, it cannot be—and yet my heart Will not confess he owes the malady That doth my life besiege. Farewell, young lords. Whether I live or die, be you the sons Of worthy Frenchmen; let higher [[Italy]]— Those bated that inherit but the fall Of the last monarchy—see that you come Not to woo [[Honour|honour]] but to wed it. When The bravest questant shrinks, find what you seek, That fame may cry you loud. I say farewell. |
+| FIRST LORD [[Dumaine|DUMAINE]] | Health at your bidding serve your majesty. |
+| [[King|KING]] | Those girls of [[Italy]], take heed of them. They say our French lack language to deny If they demand. Beware of being captives Before you serve. |
+| BOTH LORDS [[Dumaine|DUMAINE]] | Our hearts receive your warnings. |
+| [[King|KING]] | Farewell.—Come hither to me. Some lords stand aside with the [[King]] |
+| FIRST LORD [[Dumaine|DUMAINE]] | (to [[Bertram]]) O my sweet lord, that you will stay behind us. |
+| PAROLES | ’Tis not his fault, the spark. |
+| SECOND LORD [[Dumaine|DUMAINE]] | O ’tis brave wars. |
+| PAROLES | Most admirable! I have seen those wars. |
+| [[Bertram|BERTRAM]] | I am commanded here, and kept a coil with ‘Too young’ and ‘the next year’ and ‘’tis too early’. |
+| PAROLES | An thy mind stand to’t, boy, steal away bravely. |
+| [[Bertram|BERTRAM]] | I shall stay here the forehorse to a smock, Creaking my shoes on the plain masonry, Till [[Honour|honour]] be bought up, and no [[Sword|sword]] worn But one to [[Dance|dance]] with. By heaven, I’ll steal away. |
+| FIRST LORD [[Dumaine|DUMAINE]] | There’s [[Honour|honour]] in the theft. |
+| PAROLES | Commit it, Count. |
+| SECOND LORD [[Dumaine|DUMAINE]] | I am your accessary. And so, farewell. |
+| [[Bertram|BERTRAM]] | I grow to you, And our parting is a tortured [[Body|body]]. |
+| FIRST LORD [[Dumaine|DUMAINE]] | Farewell, captain. |
+| SECOND LORD [[Dumaine|DUMAINE]] | Sweet Monsieur Paroles. |
+| PAROLES | Noble heroes, my [[Sword|sword]] and yours are kin. Good sparks and lustrous, a word, good mettles. You shall find in the regiment of the Spinii one Captain Spurio, with his cicatrice, an emblem of war, here on his sinister cheek. It was this very [[Sword|sword]] entrenched it. Say to him I live, and observe his reports for me. |
+| FIRST LORD [[Dumaine|DUMAINE]] | We shall, noble captain. |
+| PAROLES | Mars dote on you for his novices. Exeunt both Lords [[Dumaine]] (To [[Bertram]]) What will ye do? |
+| [[Bertram|BERTRAM]] | Stay the [[King]]. |
+| PAROLES | Use a more spacious ceremony to the noble lords. You have restrained yourself within the list of too cold an adieu. Be more expressive to them, for they wear themselves in the cap of the [[Time|time]], there do muster true gait; eat, speak, and move under the influence of the most received star—and though the devil lead the measure, such are to be followed. After them, and take a more dilated farewell. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--02_exchange_bertram" data-title="Alls Well that Ends Well — Act II, Scene 1 — exchange (BERTRAM) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Bertram|BERTRAM]] | And I will do so. |
+| PAROLES | Worthy fellows, and like to prove most sinewy [[Sword|sword]]-men. Exeunt [[[Bertram]] and Paroles] Enter Lafeu to the [[King]] |
+| LAFEU | (kneeling) Pardon, my lord, for me and for my tidings. |
+| [[King|KING]] | I’ll fee thee to stand up. |
+| LAFEU | (rising) Then here’s a man stands that has bought his pardon. I would you had kneeled, my lord, to ask me [[Mercy|mercy]], And that at my bidding you could so stand up. |
+| [[King|KING]] | I would I had, so I had broke thy pate And asked thee [[Mercy|mercy]] for’t. |
+| LAFEU | Good [[Faith|faith]], across! But my good lord, ’tis thus: will you be cured Of your infirmity? |
+| [[King|KING]] | No. |
+| LAFEU | O will you eat No grapes, my royal fox? Yes, but you will, My noble grapes, an if my royal fox Could reach them. I have seen a medicine That’s able to breathe life into a stone, Quicken a rock, and make you [[Dance|dance]] canary With sprightly [[Fire|fire]] and motion; whose simple touch Is powerful to araise [[King]] Pépin, nay, To give great Charlemagne a pen in’s hand, And write to her a [[Love|love]]-line. |
+| [[King|KING]] | What ’her’ is this? |
+| LAFEU | Why, Doctor She. My lord, there’s one arrived, If you will see her. Now by my [[Faith|faith]] and [[Honour|honour]], If seriously I may convey my thoughts In this my light deliverance, I have spoke With one that in her sex, her years, profession, Wisdom and constancy, hath amazed me more Than I dare blame my weakness. Will you see her— For that is her demand—and know her business? That done, laugh [[Well|well]] at me. |
+| [[King|KING]] | Now, good Lafeu, Bring in the admiration, that we with thee May spend our [[Wonder|wonder]] too, or take off thine By wond‘ring how thou took’st it. |
+| LAFEU | Nay, I’ll fit you, And not be all day neither. He goes to the door |
+| [[King|KING]] | Thus he his special nothing ever prologues. |
+| LAFEU | ([[To Helen|to Helen]], within) Nay, come your ways. Enter [[Helen]] disguised |
+| [[King|KING]] | This haste hath wings indeed. |
+| LAFEU | ([[To Helen|to Helen]]) Nay, come your ways. This is his majesty. Say your mind to him. A traitor you do look like, but such traitors His majesty seldom fears. I am Cressid’s uncle, That dare leave two together. Fare you [[Well|well]]. Exeunt fall but the [[King]] and [[Helen]] |
+| [[King|KING]] | Now, fair one, does your business follow us? |
+| [[Helen|HELEN]] | Ay, my good lord. Gérard de Narbonne was my father; In what he did profess, [[Well|well]] found. |
+| [[King|KING]] | I knew him. |
+| [[Helen|HELEN]] | The rather will I spare my praises towards him; Knowing him is enough. On’s bed of [[Death|death]] Many receipts he gave me, chiefly one Which, as the dearest issue of his practice, And of his old experience th’only darling, He bade me store up as a triple eye Safer than mine own two, more dear. I have so, And hearing your high majesty is touched With that malignant cause wherein the [[Honour|honour]] no Of my dear father’s gift stands chief in power, I come to tender it and my appliance With all bound humbleness. |
+| [[King|KING]] | We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated College have concluded That labouring art can never ransom [[Nature|nature]] From her inaidable estate. I say we must not So stain our judgement or corrupt our [[Hope|hope]], To prostitute our past-cure malady To empirics, or to dissever so Our great [[Self|self]] and our credit, to esteem A senseless help, when help past sense we deem. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--03_exchange_helen" data-title="Alls Well that Ends Well — Act II, Scene 1 — exchange (HELEN) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Helen|HELEN]] | My duty then shall pay me for my pains. I will no more enforce mine office on you, Humbly entreating from your royal thoughts A modest one to bear me back again. |
+| [[King|KING]] | I cannot give thee less, to be called grateful. Thou thought‘st to help me, and such thanks I give As one near [[Death|death]] to those that wish him live. But what at full I know, thou know’st no part; I knowing all my peril, thou no art. |
+| [[Helen|HELEN]] | What I can do can do no hurt to try, Since you set up your rest ‘gainst remedy. He that of greatest works is finisher Oft does them by the weakest minister. So holy writ in babes hath judgement shown When judges have been babes; great floods have flow’n From simple sources, and great seas have dried. When miracles have by th’ great’st been denied Oft expectation fails, and most oft there Where most it promises, and oft it hits Where [[Hope|hope]] is coldest and [[Despair|despair]] most fits. |
+| [[King|KING]] | I must not hear thee. Fare thee [[Well|well]], kind maid. Thy pains, not used, must by thyself be paid: Proffers not took reap thanks for their reward. |
+| [[Helen|HELEN]] | Inspired merit so by breath is barred. It is not so with him that all things knows As ’tis with us that square our guess by shows; But most it is presumption in us when The help of heaven we count the act of men. Dear sir, to my endeavours give consent. Of heaven, not me, make an experiment. I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power, nor you past cure. |
+| [[King|KING]] | Art thou so confident? Within what space Hop’st thou my cure? |
+| [[Helen|HELEN]] | The great’st grace lending grace, Ere twice the horses of the sun shall bring Their fiery coacher his diurnal ring, Ere twice in murk and occidental damp Moist Hesperus hath quenched her sleepy lamp, Or four-and-twenty times the pilot’s glass Hath told the thievish minutes how they pass, What is infirm from your sound parts shall fly, Health shall live free, and sickness freely die. |
+| [[King|KING]] | Upon thy certainty and confidence What dar’st thou venture? |
+| [[Helen|HELEN]] | Tax of impudence, A strumpet’s boldness, a divulged shame; Traduced by odious ballads, my maiden’s name Seared otherwise, nay—worse of worst—extended With vilest torture, let my life be ended. |
+| [[King|KING]] | Methinks in thee some blessèd spirit doth speak, His powerful sound within an organ weak; And what impossibility would slay In common sense, sense saves another way. Thy life is dear, for all that life can rate Worth name of life in thee hath estimate: Youth, [[Beauty|beauty]], wisdom, [[Courage|courage]], all That happiness and prime can happy call. Thou this to hazard needs must intimate Skill infinite, or monstrous desperate. Sweet practiser, thy physic I will try, That ministers thine own [[Death|death]] if I die. |
+| [[Helen|HELEN]] | If I break [[Time|time]], or flinch in property Of what I spoke, unpitied let me die, And [[Well|well]] deserved. Not helping, [[Death|death]]’s my fee. But if I help, what do you promise me? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--04_exchange_king" data-title="Alls Well that Ends Well — Act II, Scene 1 — exchange (KING) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] | Make thy demand. |
+| [[Helen|HELEN]] | But will you make it even? |
+| [[King|KING]] | Ay, by my sceptre and my hopes of heaven. |
+| [[Helen|HELEN]] | Then shalt thou give me with thy kingly hand What husband in thy power I will command. Exempted be from me the arrogance To choose from forth the royal [[Blood|blood]] of France, My low and humble name to propagate With any branch or image of thy state; But such a one, thy vassal, whom I know Is free for me to ask, thee to bestow. |
+| [[King|KING]] | Here is my hand. The premises observed, Thy will by my performance shall be served. So make the choice of thy own [[Time|time]], for I, Thy resolved patient, on thee still rely. More should I question thee, and more I must, Though more to know could not be more to trust: From whence thou cam’st, how tended on—but rest Unquestioned welcome, and undoubted blessed.— Give me some help here, ho! If thou proceed As high as word, my deed shall match thy deed. Flourish. Exeunt the [[King]], carried, and [[Helen]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Bertram]], Lafeu with a ballad], and Paroles |
+| LAFEU | They say miracles are past, and we have our philosophical persons to make modern and familiar things [[Supernatural|supernatural]] and causeless. Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge when we should submit ourselves to an unknown [[Fear|fear]]. |
+| PAROLES | Why, ’tis the rarest argument of [[Wonder|wonder]] that hath shot out in our latter times. |
+| [[Bertram|BERTRAM]] | And so ’tis. |
+| LAFEU | To be relinquished of the artists— |
+| PAROLES | So I say—both of Galen and Paracelsus. |
+| LAFEU | Of all the learned and authentic Fellows— |
+| PAROLES | Right, so I say. |
+| LAFEU | That gave him out incurable— |
+| PAROLES | Why, there ’tis, so say I too. |
+| LAFEU | Not to be helped. |
+| PAROLES | Right, as ’twere a man assured of a— |
+| LAFEU | Uncertain life and sure [[Death|death]]. |
+| PAROLES | Just, you say [[Well|well]], so would I have said. |
+| LAFEU | I may truly say it is a novelty to the world. |
+| PAROLES | It is indeed. If you will have it in showing, you shall read it in [pointing to the ballad] what-do-ye-call there. |
+| LAFEU | reads ‘A showing of a heavenly effect in an earthly actor.’ |
+| PAROLES | That’s it, I would have said the very same. |
+| LAFEU | Why, your dolphin is not lustier. Fore me, I speak in respect— |
+| PAROLES | Nay, ‘tis strange, ’tis very strange, that is the brief and the tedious of it, and he’s of a most facinorous spirit that will not acknowledge it to be the— |
+| LAFEU | Very hand of heaven. |
+| PAROLES | Ay, so I say. |
+| LAFEU | In a most weak— |
+| PAROLES | And debile minister great power, great transcendence, which should indeed give us a further use to be made than [[Alone|alone]] the recov’ry of the [[King|king]], as to be— |
+| LAFEU | Generally thankful. Enter the [[King]], [[Helen]], and attendants |
+| PAROLES | I would have said it, you say [[Well|well]]. Here comes the [[King]]. |
+| LAFEU | Lustig, as the Dutchman says. I’ll like a maid the better whilst I have a tooth in my head. The [[King]] and [[Helen]] [[Dance|dance]] Why, he’s able to lead her a coranto. |
+| PAROLES | Mort du vinaigre, is not this [[Helen]]? |
+| LAFEU | Fore God, I think so. |
+| [[King|KING]] | Go call before me all the lords in [[Court|court]]. Exit one or more Sit, my preserver, by thy patient’s side, The [[King]] and [[Helen]] sit] And with this healthful hand whose banished sense Thou hast repealed, a second [[Time|time]] receive The confirmation of my promised gift, Which but attends thy naming. Enter four Lords Fair maid, send forth thine eye. This youthful parcel Of noble bachelors stand at my bestowing, O’er whom both sovereign power and father’s voice I have to use. Thy frank election make. Thou hast power to choose, and they none to forsake. |
+| [[Helen|HELEN]] | To each of you one fair and virtuous mistress Fall when [[Love|love]] please. Marry, to each but one. |
+| LAFEU | (aside) I’d give bay Curtal and his furniture My mouth no more were broken than these boys’, And writ as little beard. |
+| [[King|KING]] | ([[To Helen|to Helen]]) Peruse them [[Well|well]]. Not one of these but had a noble father. |
+| [[Helen|HELEN]] | Gentlemen, Heaven hath through me restored the [[King]] to health. ALL BUT [[Helen|HELEN]]] We understand it, and thank heaven for you. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--02_exchange_helen" data-title="Alls Well that Ends Well — Act II, Scene 3 — exchange (HELEN) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Helen|HELEN]] | I am a simple maid, and therein wealthiest That I protest I simply am a maid.— Please it your majesty, I have done already. The blushes in my cheeks thus whisper me: ‘We blush that thou shouldst choose; but, be refused, Let the white [[Death|death]] sit on thy cheek for ever, We’ll ne’er come there again.’ |
+| [[King|KING]] | Make choice and see. Who shuns thy [[Love|love]] shuns all his [[Love|love]] in me. |
+| [[Helen|HELEN]] | (rising) Now, Dian, from thy altar do I fly, And to imperial [[Love]], that god most high, Do my sighs stream. She addresses her to a Lord] Sir, will you hear my suit? |
+| FIRST LORD | And grant it. |
+| [[Helen|HELEN]] | Thanks, sir. All the rest is mute. |
+| LAFEU | (aside) I had rather be in this choice than throw ambs-ace for my life. |
+| [[Helen|HELEN]] | (to another Lord) The [[Honour|honour]], sir, that flames in your fair eyes, Before I speak, too threat’ningly replies. [[Love]] make your fortunes twenty times above Her that so wishes, and her humble [[Love|love]]. |
+| SECOND LORD | No better, if you please. |
+| [[Helen|HELEN]] | My wish receive, Which great [[Love]] grant. And so I take my leave. |
+| LAFEU | (aside) Do all they deny her? An they were sons of mine I’d have them whipped, or I would send them to th’ Turk to make eunuchs of. |
+| [[Helen|HELEN]] | (to another Lord) Be not afraid that I your hand should take; I’ll never do you wrong for your own sake. Blessing upon your vows, and in your bed Find fairer fortune, if you ever wed. |
+| LAFEU | (aside) These boys are boys of ice, they’ll none have her. Sure they are bastards to the English, the French ne‘er got ’em. |
+| [[Helen|HELEN]] | (to another Lord) You are too young, too happy, and too good To make yourself a son out of my [[Blood|blood]]. |
+| FOURTH LORD | Fair one, I think not so. |
+| LAFEU | (aside) There’s one grape yet. I am sure thy father drunk wine, but if thou beest not an ass I am a youth of fourteen. I have known thee already. |
+| [[Helen|HELEN]] | (to [[Bertram]]) I dare not say I take you, but I give Me and my service ever whilst I live Into your guiding power.—This is the man. |
+| [[King|KING]] | Why then, young [[Bertram]], take her, she’s thy wife. |
+| [[Bertram|BERTRAM]] | My wife, my liege? I shall beseech your highness, In such a business give me leave to use The help of mine own eyes. |
+| [[King|KING]] | Know’st thou not, [[Bertram]], What she has done for me? |
+| [[Bertram|BERTRAM]] | Yes, my good lord, But never [[Hope|hope]] to know why I should marry her. |
+| [[King|KING]] | Thou know’st she has raised me from my sickly bed. |
+| [[Bertram|BERTRAM]] | But follows it, my lord, to bring me down Must answer for your raising? I know her [[Well|well]]: She had her breeding at my father’s charge. A poor physician’s daughter, my wife? Disdain Rather corrupt me ever. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--03_monologue_king" data-title="Alls Well that Ends Well — Act II, Scene 3 — monologue (KING) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] | ‘Tis only title thou disdain’st in her, the which I can build up. Strange is it that our bloods, Of colour, weight, and heat, poured all together, Would quite confound distinction, yet stands off In differences so mighty. If she be All that is virtuous, save what thou distik’st— ‘A poor physician’s daughter’—thou dislik’st Of virtue for the name. But do not so. From lowest place when virtuous things proceed, The place is dignified by th’ doer’s deed. Where great additions swell’s, and virtue none, It is a dropsied [[Honour|honour]]. Good [[Alone|alone]] Is good without a name, vileness is so: The property by what it is should go, Not by the title. She is young, wise, fair. In these to [[Nature|nature]] she’s immediate heir, And these breed [[Honour|honour]]. That is [[Honour|honour]]’s scorn Which challenges itself as [[Honour|honour]]’s born And is not like the sire; honours thrive When rather from our acts we them derive Than our foregoers. The mere word’s a slave, Debauched on every tomb, on every [[Grave|grave]] A lying trophy, and as oft is dumb Where [[Dust|dust]] and dammed oblivion is the tomb Of honoured bones indeed. What should be said? If thou canst like this creature as a maid, I can create the rest. Virtue and she Is her own dower; [[Honour|honour]] and wealth from me. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--04_exchange_bertram" data-title="Alls Well that Ends Well — Act II, Scene 3 — exchange (BERTRAM) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Bertram|BERTRAM]] | I cannot [[Love|love]] her, nor will strive to do’t. |
+| [[King|KING]] | Thou wrong’st thyself. If thou shouldst strive to choose— |
+| [[Helen|HELEN]] | That you are [[Well|well]] restored, my lord, I’m glad. Let the rest go. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--05_monologue_king" data-title="Alls Well that Ends Well — Act II, Scene 3 — monologue (KING) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] | My [[Honour|honour]]’s at the stake, which to defeat I must produce my power. Here, take her hand, Proud, scornful boy, unworthy this good gift, That dost in vile misprision shackle up My [[Love|love]] and her [[Desert|desert]]; that canst not dream We, poising us in her defective scale, Shall weigh thee to the beam; that wilt not know It is in us to plant thine [[Honour|honour]] where We please to have it grow. Check thy contempt; Obey our will, which travails in thy good; Believe not thy disdain, but presently Do thine own fortunes that obedient right Which both thy duty owes and our power claims, Or I will throw thee from my care for ever Into the staggers and the careless lapse Of youth and ignorance, both my [[Revenge|revenge]] and hate Loosing upon thee in the name of justice Without all terms of pity. Speak. Thine answer. [[Bertram|BERTRAM]]) (kneeling) Pardon, my gracious lord, for I submit My fancy to your eyes. When I consider What great creation and what dole of [[Honour|honour]] Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the [[King]]; who, so ennobled, Is as ’twere born so. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--06_exchange_king" data-title="Alls Well that Ends Well — Act II, Scene 3 — exchange (KING) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] | Take her by the hand And tell her she is thine; to whom I promise A counterpoise, if not to thy estate A balance more replete. |
+| [[Bertram|BERTRAM]] | (rising) I take her hand. |
+| [[King|KING]] | Good fortune and the favour of the [[King]] Smile upon this contract, whose ceremony Shall seem expedient on the now-born brief, And be performed tonight. The solemn feast Shall more attend upon the coming space, Expecting absent friends. As thou lov’st her Thy [[Love|love]]’s to me religious; else, does err. Flourish. Exeunt all but Paroles and Lafeu, who stay behind, commenting on this wedding |
+| LAFEU | Do you hear, monsieur? A word with you. PAROLES Your pleasure, sir. |
+| LAFEU | Your lord and master did [[Well|well]] to make his recantation. |
+| PAROLES | Recantation? My lord? My master? |
+| LAFEU | Ay. Is it not a language I speak? |
+| PAROLES | A most harsh one, and not to be understood without bloody succeeding. My master? |
+| LAFEU | Are you companion to the Count Roussillon? |
+| PAROLES | To any count, to all counts, to what is man. |
+| LAFEU | To what is count’s man; count’s master is of another style. |
+| PAROLES | You are too old, sir. Let it satisfy you, you are too old. |
+| LAFEU | I must tell thee, sirrah, I write ‘Man’, to which title age cannot bring thee. |
+| PAROLES | What I dare too [[Well|well]] do I dare not do. |
+| LAFEU | I did think thee for two ordinaries to be a pretty wise fellow. Thou didst make tolerable vent of thy travel; it might pass. Yet the scarves and the bannerets about thee did manifoldly dissuade me from believing thee a vessel of too great a burden. I have now found thee; when I lose thee again I care not. Yet art thou good for nothing but taking up, and that thou’rt scarce worth. |
+| PAROLES | Hadst thou not the privilege of antiquity upon thee— |
+| LAFEU | Do not plunge thyself too far in anger, lest thou hasten thy trial, which if—Lord have [[Mercy|mercy]] on thee for a hen! So, my good [[Window|window]] of lattice, fare thee [[Well|well]]. Thy casement I need not open, for I look through thee. Give me thy hand. 216 |
+| PAROLES | My lord, you give me most egregious indignity. |
+| LAFEU | Ay, with all my heart, and thou art worthy of it. PAROLES I have not, my lord, deserved it. |
+| LAFEU | Yes, good [[Faith|faith]], every dram of it, and I will not bate thee a scruple. |
+| PAROLES | [[Well]], I shall be wiser. |
+| LAFEU | E‘en as soon as thou canst, for thou hast to pull at a smack o’th’ contrary. If ever thou beest bound in thy scarf and beaten thou shall find what it is to be proud of thy bondage. I have a [[Desire|desire]] to hold my acquaintance with thee, or rather my knowledge, that I may say in the default, ‘He is a man I know’. |
+| PAROLES | My lord, you do me most insupportable vexation. |
+| LAFEU | I would it were hell-pains for thy sake, and my poor doing eternal; for doing I am past, as I will by thee, in what motion age will give me leave. Exit |
+| PAROLES | [[Well]], thou hast a son shall take this disgrace off me. Scurvy, old, filthy, scurvy lord. [[Well]], I must be patient. There is no fettering of authority. I’ll beat him, by my life, if I can meet him with any convenience, an he were [[Double|double]] and [[Double|double]] a lord. I’ll have no more pity of his age than I would have of—I’ll beat him, an if I could but meet him again. Enter Lafeu |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--07_exchange_lafeu" data-title="Alls Well that Ends Well — Act II, Scene 3 — exchange (LAFEU) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LAFEU | Sirrah, your lord and master’s married. There’s news for you: you have a new mistress. |
+| PAROLES | I most unfeignedly beseech your lordship to make some reservation of your wrongs. He is my good lord; whom I serve above is my master. |
+| LAFEU | Who? God? |
+| PAROLES | Ay, sir. |
+| LAFEU | The devil it is that’s thy master. Why dost thou garter up thy arms o’ this fashion? Dost make hose of thy sleeves? Do other servants so? Thou wert best set thy lower part where thy nose stands. By mine [[Honour|honour]], if I were but two hours younger I’d beat thee. Methink’st thou art a general offence and every man should beat thee. I think thou wast created for men to breathe themselves upon thee. |
+| PAROLES | This is hard and undeserved measure, my lord. |
+| LAFEU | Go to, sir. You were beaten in [[Italy]] for picking a kernel out of a pomegranate, you are a vagabond and no true traveller, you are more saucy with lords and honourable personages than the commission of your birth and virtue gives you heraldry. You are not worth another word, else I’d call you knave. I leave you. Exit |
+| PAROLES | Good, very good, it is so then. Good, very good, let it be concealed awhile. [Enter [[Bertram]]] |
+| [[Bertram|BERTRAM]] | Undone and forfeited to cares for ever. |
+| PAROLES | What’s the matter, sweetheart? |
+| [[Bertram|BERTRAM]] | Although before the solemn priest I have sworn, I will not bed her. |
+| PAROLES | What, what, sweetheart? |
+| [[Bertram|BERTRAM]] | O my Paroles, they have married me. I’ll to the Tuscan wars and never bed her. |
+| PAROLES | France is a dog-hole, and it no more merits The tread of a man’s foot. To th’ wars! |
+| [[Bertram|BERTRAM]] | There’s letters from my mother. What th’import is I know not yet. |
+| PAROLES | Ay, that would be known. To th’ wars, my boy, to th’ wars! 275 He wears his [[Honour|honour]] in a box unseen That hugs his kicky-wicky here at [[Home|home]], Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed. To other regions! France is a stable, we that dwell in’t jades. Therefore to th’ war. |
+| [[Bertram|BERTRAM]] | It shall be so. I’ll send her to my [[house]], Acquaint my mother with my hate to her, And wherefore I am fled, write to the [[King]] That which I durst not speak. His present gift Shall furnish me to those Italian fields Where noble fellows strike. Wars is no strife To the dark [[house]] and the detested wife. |
+| PAROLES | Will this capriccio hold in thee? Art sure? |
+| [[Bertram|BERTRAM]] | Go with me to my chamber and advise me. I’ll send her straight away. Tomorrow I’ll to the wars, she to her single sorrow. |
+| PAROLES | Why, these balls bound, there’s noise in it. ‘Tis hard: A young man married is a man that’s marred. Therefore away, and leave her bravely. Go. The [[King]] has done you wrong, but hush ’tis so. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the two Captains [[Dumaine]] and some two or three soldiers |
+| FIRST LORD [[Dumaine|DUMAINE]] | You have not given him his mother’s letter? |
+| SECOND LORD [[Dumaine|DUMAINE]] | I have delivered it an hour since. There is something in’t that stings his [[Nature|nature]], for on the reading it he changed almost into another man. |
+| FIRST LORD [[Dumaine|DUMAINE]] | He has much worthy blame laid upon him for shaking off so good a wife and so sweet a lady. |
+| SECOND LORD [[Dumaine|DUMAINE]] | Especially he hath incurred the everlasting displeasure of the [[King]], who had even tuned his bounty to sing happiness to him. I will tell you a thing, but you shall let it dwell darkly with you. |
+| FIRST LORD [[Dumaine|DUMAINE]] | When you have spoken it ’tis dead, and I am the [[Grave|grave]] of it. |
+| SECOND LORD [[Dumaine|DUMAINE]] | He hath perverted a young gentlewoman here in Florence of a most chaste renown, and this [[Night|night]] he fleshes his will in the spoil of her [[Honour|honour]]. He hath given her his monumental ring, and thinks himself made in the unchaste composition. |
+| FIRST LORD [[Dumaine|DUMAINE]] | Now God delay our rebellion! As we are ourselves, what things are we. |
+| SECOND LORD [[Dumaine|DUMAINE]] | Merely our own traitors. And as in the common course of all treasons we still see them reveal themselves till they attain to their abhorred ends, so he that in this action contrives against his own nobility, in his proper stream o’erflows himself. |
+| FIRST LORD [[Dumaine|DUMAINE]] | Is it not meant damnable in us to be trumpeters of our unlawful intents? We shall not then have his company tonight? |
+| SECOND LORD [[Dumaine|DUMAINE]] | Not till after midnight, for he is dieted to his hour. |
+| FIRST LORD [[Dumaine|DUMAINE]] | That approaches apace. I would gladly have him see his company anatomized, that he might take a measure of his own judgements, wherein so curiously he had set this counterfeit. |
+| SECOND LORD [[Dumaine|DUMAINE]] | We will not meddle with him till he come, for his presence must be the whip of the other. |
+| FIRST LORD [[Dumaine|DUMAINE]] | In the mean [[Time|time]], what hear you of these wars? |
+| SECOND LORD [[Dumaine|DUMAINE]] | I hear there is an overture of peace. |
+| FIRST LORD [[Dumaine|DUMAINE]] | Nay, I assure you, a peace concluded. |
+| SECOND LORD [[Dumaine|DUMAINE]] | What will Count Roussillon do then? Will he travel higher, or return again into France? |
+| FIRST LORD [[Dumaine|DUMAINE]] | I perceive by this demand you are not altogether of his council. |
+| SECOND LORD [[Dumaine|DUMAINE]] | Let it be forbid, sir; so should I be a great deal of his act. |
+| FIRST LORD [[Dumaine|DUMAINE]] | Sir, his wife some two months since fled from his [[house]]. Her pretence is a pilgrimage to Saint [[Jaques]] le Grand, which holy undertaking with most austere sanctimony she accomplished, and there residing, the tenderness of her [[Nature|nature]] became as a prey to her grief: in fine, made a groan of her last breath, and now she sings in heaven. |
+| SECOND LORD [[Dumaine|DUMAINE]] | How is this justified? |
+| FIRST LORD [[Dumaine|DUMAINE]] | The stronger part of it by her own letters, which makes her story true even to the point of her [[Death|death]]. Her [[Death|death]] itself, which could not be her office to say is come, was faithfully confirmed by the rector of the place. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--02_exchange_second_lord_dumaine" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (SECOND LORD DUMAINE) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SECOND LORD [[Dumaine|DUMAINE]] | Hath the Count all this intelligence? |
+| FIRST LORD [[Dumaine|DUMAINE]] | Ay, and the particular confirmations, point from point, to the full arming of the verity. |
+| SECOND LORD [[Dumaine|DUMAINE]] | I am heartily sorry that he’ll be glad of this. |
+| FIRST LORD [[Dumaine|DUMAINE]] | How mightily sometimes we make us comforts of our losses. |
+| SECOND LORD [[Dumaine|DUMAINE]] | And how mightily some other times we drown our gain in [[Tears|tears]]. The great dignity that his valour hath here acquired for him shall at [[Home|home]] be encountered with a shame as ample. |
+| FIRST LORD [[Dumaine|DUMAINE]] | The web of our life is of a mingled yarn, good and ill together. Our virtues would be proud if our faults whipped them not, and our crimes would [[Despair|despair]] if they were not cherished by our virtues. Enter a Servant How now? Where’s your master? |
+| SERVANT | He met the Duke in the street, sir, of whom he hath taken a solemn leave. His lordship will next morning for France. The Duke hath offered him letters of commendations to the [[King]]. |
+| SECOND LORD [[Dumaine|DUMAINE]] | They shall be no more than needful there, if they were more than they can commend. Enter [[Bertram]] FIRST LORD [[Dumaine|DUMAINE]] They cannot be too sweet for the [[King]]’s tartness. Here’s his lordship now. How now, my lord, is’t not after midnight? |
+| [[Bertram|BERTRAM]] | I have tonight dispatched sixteen businesses, a month’s length apiece. By an abstract of [[success]]: I have congéd with the Duke, done my adieu with his nearest, buried a wife, mourned for her, writ to my lady mother I am returning, entertained my convoy, and between these main parcels of dispatch affected many nicer needs. The last was the greatest, but that I have not ended yet. |
+| SECOND LORD [[Dumaine|DUMAINE]] | If the business be of any difficulty, and this morning your departure hence, it requires haste of your lordship. |
+| [[Bertram|BERTRAM]] | I mean the business is not ended, as fearing to hear of it hereafter. But shall we have this dialogue between the [[Fool]] and the Soldier? Come, bring forth this counterfeit model, has deceived me like a [[Double|double]]-meaning prophesier. |
+| SECOND LORD [[Dumaine|DUMAINE]] | Bring him forth. Exit one or more He’s sat i’th’ stocks all [[Night|night]], poor gallant knave. 105 |
+| [[Bertram|BERTRAM]] | No matter, his heels have deserved it in usurping his spurs so long. How does he carry himself? |
+| SECOND LORD [[Dumaine|DUMAINE]] | I have told your lordship already, the stocks carry him. But to answer you as you would be understood, he weeps like a wench that had shed her milk. He hath confessed himself to Morgan, whom he supposes to be a friar, from the [[Time|time]] of his remembrance to this very instant disaster of his setting i’th’ stocks. And what think you he hath confessed? |
+| [[Bertram|BERTRAM]] | Nothing of me, has a? |
+| SECOND LORD [[Dumaine|DUMAINE]] | His confession is taken, and it shall be read to his face. If your lordship be in’t, as I believe you are, you must have the patience to hear it. Enter Paroles guarded and blindfolded, with the Interpreter |
+| [[Bertram|BERTRAM]] | A plague upon him! Muffled! He can say nothing of me. FIRST LORD [[Dumaine|DUMAINE]] (aside to [[Bertram]]) Hush, hush. SECOND LORD [[Dumaine|DUMAINE]] (aside to [[Bertram]]) Hoodman comes. (Aloud) Porto tartarossa. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--03_exchange_interpreter" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (INTERPRETER) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| INTERPRETER | (to Paroles) He calls for the tortures. What will you say without ’em? |
+| PAROLES | I will confess what I know without constraint. If ye pinch me like a pasty I can say no more. |
+| INTERPRETER | Bosko chimurcho. SECOND LORD [[Dumaine|DUMAINE]] Boblibindo chicurmurco. |
+| INTERPRETER | You are a merciful general.—Our general bids you answer to what I shall ask you out of a note. |
+| PAROLES | And truly, as I [[Hope|hope]] to live. |
+| INTERPRETER | reads ‘First demand of him how many [[Horse|horse]] the Duke is strong.’—What say you to that? |
+| PAROLES | Five or six thousand, but very weak and unserviceable. The troops are all scattered and the commanders very poor rogues, upon my reputation and credit, and as I [[Hope|hope]] to live. |
+| INTERPRETER | Shall I set down your answer so? 139 |
+| PAROLES | Do. I’ll take the sacrament on’t, how and which way you will. FIRST LORD [[Dumaine|DUMAINE]] (aside) All’s one to him. |
+| [[Bertram|BERTRAM]] | (aside) What a past-saving slave is this! |
+| FIRST LORD [[Dumaine|DUMAINE]] | (aside) You’re deceived, my lord. This is Monsieur Paroles, the ‘gallant militarist’—that was his own phrase—that had the whole theoric of war in the knot of his scarf, and the practice in the chape of his dagger. |
+| SECOND LORD [[Dumaine|DUMAINE]] | (aside) I will never trust a man again for keeping his [[Sword|sword]] clean, nor believe he can have everything in him by wearing his apparel neatly. |
+| INTERPRETER | (to Paroles) [[Well]], that’s set down. |
+| PAROLES | ‘Five or six thousand [[Horse|horse]],’ I said—I will say true—’or thereabouts’ set down, for I’ll speak [[Truth|truth]]. |
+| FIRST LORD [[Dumaine|DUMAINE]] | (aside) He’s very near the [[Truth|truth]] in this. |
+| [[Bertram|BERTRAM]] | (aside) But I con him no thanks for’t in the [[Nature|nature]] he delivers it. |
+| PAROLES | ‘Poor rogues’, I pray you say. |
+| INTERPRETER | [[Well]], that’s set down. |
+| PAROLES | I humbly thank you, sir. A [[Truth|truth]]’s a [[Truth|truth]]. The rogues are marvellous poor. |
+| INTERPRETER | reads ‘Demand of him of what strength they are a-foot.’-What say you to that? |
+| PAROLES | By my troth, sir, if I were to die this present hour, I will tell true. Let me see, Spurio a hundred and fifty; [[Sebastian]] so many; Corambus so many; [[Jaques]] so many; Guillaume, Cosmo, Lodowick, and Gratii, two hundred fifty each; mine own company, Chitopher, Vaumond, Bentii, two hundred fifty each. So that the muster file, rotten and sound, upon my life amounts not to fifteen thousand poll, half of the which dare not shake the [[Snow|snow]] from off their cassocks lest they shake themselves to pieces. |
+| [[Bertram|BERTRAM]] | (aside) What shall be done to him? 175 |
+| FIRST LORD [[Dumaine|DUMAINE]] | (aside) Nothing, but let him have thanks. (To Interpreter) Demand of him my condition, and what credit I have with the Duke. |
+| INTERPRETER | (to Paroles) [[Well]], that’s set down. Reads ‘You shall demand of him, whether one Captain [[Dumaine]] be i’th’ camp, a Frenchman; what his reputation is with the Duke; what his valour, honesty, and expertness in wars; or whether he thinks it were not possible with [[Well|well]]-weighing sums of gold to corrupt him to a revolt.’—What say you to this? What do you know of it? 186 |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--04_exchange_paroles_i" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (PAROLES I) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PAROLES | I beseech you let me answer to the particular of the inter’gatories. Demand them singly. |
+| INTERPRETER | Do you know this Captain [[Dumaine]]? |
+| PAROLES | I know him. A was a botcher’s prentice in [[Paris]], from whence he was whipped for getting the sheriff’s [[Fool|fool]] with [[Child|child]]—dumb [[Innocent|innocent]] that could not say him nay. 193 |
+| [[Bertram|BERTRAM]] | (aside to First Lord [[Dumaine]]) Nay, by your leave, hold your hands, though I know his brains are forfeit to the next tile that falls. |
+| INTERPRETER | [[Well]], is this captain in the Duke of Florence’s camp? |
+| PAROLES | Upon my knowledge he is, and lousy. 199 |
+| FIRST LORD [[Dumaine|DUMAINE]] | (aside) Nay, look not so upon me: we shall hear of your lordship anon. |
+| INTERPRETER | What is his reputation with the Duke? |
+| PAROLES | The Duke knows him for no other but a poor officer of mine, and writ to me this other day to turn him out o’th’ band. I think I have his letter in my pocket. 206 INTERPRETER Marry, we’ll search. |
+| PAROLES | In good sadness, I do not know. Either it is there, or it is upon a file with the Duke’s other letters in my tent. 210 |
+| INTERPRETER | Here ’tis, here’s a paper. Shall I read it to you? |
+| PAROLES | I do not know if it be it or no. |
+| [[Bertram|BERTRAM]] | (aside) Our interpreter does it [[Well|well]]. |
+| FIRST LORD [[Dumaine|DUMAINE]] | (aside) Excellently. |
+| INTERPRETER | (reads the letter) ‘Dian, the Count’s a [[Fool|fool]], and full of gold.’ |
+| PAROLES | That is not the Duke’s letter, sir. That is an advertisement to a proper maid in Florence, one [[Diana]], to take heed of the allurement of one Count Roussillon, a foolish idle boy, but for all that very ruttish. I pray you, sir, put it up again. |
+| INTERPRETER | Nay, I’ll read it first, by your favour. |
+| PAROLES | My meaning in’t, I protest, was very honest in the behalf of the maid, for I knew the young Count to be a dangerous and lascivious boy, who is a whale to virginity, and devours up all the fry it finds. [[Bertram|BERTRAM]] (aside) Damnable both-sides rogue. |
+| INTERPRETER | (reads) ‘When he swears oaths, bid him drop gold, and take it. After he scores he never pays the score. Half-won is match [[Well|well]] made; match, and [[Well|well]] make it. He ne’er pays after-debts, take it before. And say a soldier, Dian, told thee this: Men are to mell with, boys are not to kiss. For count of this, the Count’s a [[Fool|fool]], I know it, Who pays before, but not when he does owe it. Thine, as he vowed to thee in thine ear, Paroles.’ |
+| [[Bertram|BERTRAM]] | (aside) He shall be whipped through the army with this rhyme in’s forehead. |
+| SECOND LORD [[Dumaine|DUMAINE]] | (aside) This is your devoted friend, sir, the manifold linguist and the armipotent soldier. |
+| [[Bertram|BERTRAM]] | (aside) I could endure anything before but a cat, and now he’s a cat to me. |
+| INTERPRETER | I perceive, sir, by the general’s looks, we shall be fain to hang you. |
+| PAROLES | My life, sir, in any case! Not that I am afraid to die, but that, my offences being many, I would repent out the remainder of [[Nature|nature]]. Let me live, sir, in a dungeon, i’th’ stocks, or anywhere, so I may live. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--05_exchange_interpreter" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (INTERPRETER) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| INTERPRETER | We’ll see what may be done, so you confess freely. Therefore once more to this Captain [[Dumaine]]. You have answered to his reputation with the Duke, and to his valour. What is his honesty? |
+| PAROLES | He will steal, sir, an egg out of a cloister. For rapes and ravishments he parallels Nessus. He professes not keeping of oaths; in breaking ’em he is stronger than Hercules. He will lie, sir, with such volubility that you would think [[Truth|truth]] were a [[Fool|fool]]. Drunkenness is his best virtue, for he will be swine-drunk, and in his [[Sleep|sleep]] he does little harm, save to his bedclothes; but they about him know his conditions, and lay him in straw. I have but little more to say, sir, of his honesty. He has everything that an honest man should not have; what an honest man should have, he has nothing. |
+| FIRST LORD [[Dumaine|DUMAINE]] | (aside) I begin to [[Love|love]] him for this. |
+| [[Bertram|BERTRAM]] | (aside) For this description of thine honesty? A pox upon him! For me, he’s more and more a cat. |
+| INTERPRETER | What say you to his expertness in war? |
+| PAROLES | [[Faith]], sir, he’s led the drum before the English tragedians. To belie him I will not, and more of his soldiership I know not, except in that country he had the [[Honour|honour]] to be the officer at a place there called Mile End, to instruct for the doubling of files. I would do the man what [[Honour|honour]] I can, but of this I am not certain. |
+| FIRST LORD [[Dumaine|DUMAINE]] | (aside) He hath out-villained villainy so far that the rarity redeems him. |
+| [[Bertram|BERTRAM]] | (aside) A pox on him! He’s a cat still. |
+| INTERPRETER | His qualities being at this poor price, I need not to ask you if gold will corrupt him to revolt. |
+| PAROLES | Sir, for a quart d‘écu he will sell the fee-simple of his salvation, the inheritance of it, and cut th’entail from all remainders, and a perpetual succession for it perpetually. |
+| INTERPRETER | What’s his brother, the other Captain [[Dumaine]]? 285 |
+| SECOND LORD [[Dumaine|DUMAINE]] | (aside) Why does he ask him of me? |
+| INTERPRETER | What’s he? |
+| PAROLES | E‘en a crow o’th’ same nest. Not altogether so great as the first in goodness, but greater a great deal in evil. He excels his brother for a coward, yet his brother is reputed one of the best that is. In a retreat he outruns any lackey; marry, in coming on he has the cramp. |
+| INTERPRETER | If your life be saved will you undertake to betray the Florentine? 295 |
+| PAROLES | Ay, and the captain of his [[Horse|horse]], Count Roussillon. |
+| INTERPRETER | I’ll whisper with the general and know his pleasure. |
+| PAROLES | I’ll no more drumming. A plague of all drums! Only to seem to deserve [[Well|well]], and to beguile the supposition of that lascivious young boy, the Count, have I run into this danger. Yet who would have suspected an ambush where I was taken? |
+| INTERPRETER | There is no remedy, sir, but you must die. The general says you that have so traitorously discovered the [[Secrets|secrets]] of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die.-Come, headsman, off with his head. 310 |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--06_exchange_paroles_o" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (PAROLES O) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PAROLES | O Lord, sir!—Let me live, or let me see my [[Death|death]]! |
+| INTERPRETER | That shall you, and take your leave of all your friends. He unmuffles Paroles So, look about you. Know you any here? |
+| [[Bertram|BERTRAM]] | Good morrow, noble captain. 315 |
+| SECOND LORD [[Dumaine|DUMAINE]] | God bless you, Captain Paroles. |
+| FIRST LORD [[Dumaine|DUMAINE]] | God save you, noble captain. |
+| SECOND LORD [[Dumaine|DUMAINE]] | Captain, what greeting will you to my Lord Lafeu? I am for France. |
+| FIRST LORD [[Dumaine|DUMAINE]] | Good captain, will you give me a copy of the [[Sonnet|sonnet]] you writ to [[Diana]] in behalf of the Count Roussillon? An I were not a very coward I’d compel it of you. But fare you [[Well|well]]. Exeunt all but Paroles and Interpreter |
+| INTERPRETER | You are undone, captain-all but your scarf; that has a knot on’t yet. 325 |
+| PAROLES | Who cannot be crushed with a plot? |
+| INTERPRETER | If you could find out a country where but women were that had received so much shame, you might begin an impudent nation. Fare ye [[Well|well]], sir. I am for France too. We shall speak of you there. Exit |
+| PAROLES | Yet am I thankful. If my heart were great ‘Twould burst at this. Captain I’ll be no more, But I will eat and drink and [[Sleep|sleep]] as soft As captain shall. Simply the thing I am Shall make me live. Who knows himself a braggart, Let him [[Fear|fear]] this, for it will come to pass That every braggart shall be found an ass. Rust, [[Sword|sword]]; cool, blushes; and Paroles live Safest in shame; being fooled, by [[Fool|fool]]’ry thrive. There’s place and means for every man alive. I’ll after them. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish of trumpets. Enter the [[King]], the old Countess, Lafeu, and attendants |
+| [[King|KING]] | We lost a [[Jewel|jewel]] of her, and our esteem Was made much poorer by it. But your son, As mad in folly, lacked the sense to know Her estimation [[Home|home]]. |
+| COUNTESS | ‘Tis past, my liege, And I beseech your majesty to make it Natural rebellion done i’th’ blade of youth, When oil and [[Fire|fire]], too strong for reason’s force, O’erbears it and burns on. |
+| [[King|KING]] | My honoured lady, I have forgiven and forgotten all, Though my revenges were high bent upon him 10 And watched the [[Time|time]] to shoot. |
+| LAFEU | This I must say- But first I beg my pardon—the young lord Did to his majesty, his mother, and his lady Offence of mighty note, but to himself The greatest wrong of all. He lost a wife 15 Whose [[Beauty|beauty]] did astonish the survey Of richest eyes, whose words all ears took captive, Whose dear perfection hearts that scorned to serve Humbly called mistress. |
+| [[King|KING]] | Praising what is lost Makes the remembrance dear. [[Well]], call him hither. We are reconciled, and the first view shall kill All repetition. Let him not ask our pardon. The [[Nature|nature]] of his great offence is dead, And deeper than oblivion we do bury Th‘incensing relics of it. Let him approach A stranger, no offender; and inform him So ’tis our will he should. |
+| ATTENDANT | I shall, my liege. Exit |
+| [[King|KING]] | (to Lafeu) What says he to your daughter? Have you spoke? |
+| LAFEU | All that he is hath reference to your highness. |
+| [[King|KING]] | Then shall we have a match. I have letters sent me That sets him high in fame. Enter [[Bertram]] with a patch of velvet on his left cheek, and kneels |
+| LAFEU | He looks [[Well|well]] on’t. |
+| [[King|KING]] | (to [[Bertram]]) I am not a day of season, For thou mayst see a sunshine and a hail In me at once. But to the brightest beams Distracted clouds give way; so stand thou forth. The [[Time|time]] is fair again. |
+| [[Bertram|BERTRAM]] | My high-repented blames, Dear sovereign, pardon to me. |
+| [[King|KING]] | All is whole. Not one word more of the consumed [[Time|time]]. Let’s take the instant by the forward top, For we are old, and on our quick‘st decrees Th’inaudible and noiseless foot of [[Time|time]] Steals ere we can effect them. You remember The daughter of this lord? |
+| [[Bertram|BERTRAM]] | Admiringly, my liege. At first 45 I stuck my choice upon her, ere my heart Durst make too bold a herald of my tongue; Where, the impression of mine eye enfixing, Contempt his scornful perspective did lend me, Which warped the line of every other favour, Stained a fair colour or expressed it stolen, Extended or contracted all proportions To a most hideous object. Thence it came That she whom all men praised and whom myself, Since I have lost, have loved, was in mine eye 55 The [[Dust|dust]] that did offend it. |
+| [[King|KING]] | [[Well]] excused. That thou didst [[Love|love]] her strikes some scores away From the great count. But [[Love|love]] that comes too late, Like a remorseful pardon slowly carried, To the grace-sender turns a sour offence, 60 Crying, ‘That’s good that’s gone.’ Our rash faults Make trivial price of serious things we have, Not knowing them until we know their [[Grave|grave]]. Oft our displeasures, to ourselves unjust, Destroy our friends and after weep their [[Dust|dust]]. 65 Our own [[Love|love]] waking cries to see what’s done, While shameful hate sleeps out the afternoon. Be this sweet [[Helen]]’s knell, and now forget her. Send forth your amorous token for fair Maudlin. The main consents are had, and here we’ll stay To see our widower’s second [[Marriage|marriage]] day. COUNTESS Which better than the first, O dear heaven, bless! Or ere they meet, in me, O [[Nature|nature]], cease. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--02_exchange_lafeu" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (LAFEU) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LAFEU | (to [[Bertram]]) Come on, my son, in whom my [[house]]’s name Must be digested, give a favour from you To sparkle in the spirits of my daughter, That she may quickly come. [[Bertram]] gives Lafeu a ring By my old beard And ev’ry hair that’s on’t, [[Helen]] that’s dead Was a sweet creature. Such a ring as this, The last that ere I took her leave at [[Court|court]], I saw upon her finger. |
+| [[Bertram|BERTRAM]] | Hers it was not. |
+| [[King|KING]] | Now pray you let me see it; for mine eye, While I was speaking, oft was fastened to’t. Lafeu gives him the ring This ring was mine, and when I gave it [[Helen]] I bade her, if her fortunes ever stood Necessitied to help, that by this token I would relieve her. Had you that craft to reave her Of what should stead her most? |
+| [[Bertram|BERTRAM]] | My gracious sovereign, Howe’er it pleases you to take it so, The ring was never hers. |
+| COUNTESS | Son, on my life I have seen her wear it, and she reckoned it At her life’s rate. |
+| LAFEU | I am sure I saw her wear it. |
+| [[Bertram|BERTRAM]] | You are deceived, my lord, she never saw it. In Florence was it from a casement thrown me, Wrapped in a paper which contained the name Of her that threw it. Noble she was, and thought I stood ingaged. But when I had subscribed To mine own fortune, and informed her fully I could not answer in that course of [[Honour|honour]] As she had made the overture, she ceased In heavy satisfaction, and would never Receive the ring again. |
+| [[King|KING]] | Plutus himself, That knows the tinct and multiplying med‘cine, Hath not in [[Nature|nature]]’s mystery more science Than I have in this ring. ’Twas mine, ’twas [[Helen]]’s, Whoever gave it you. Then if you know That you are [[Well|well]] acquainted with yourself, Confess ’twas hers, and by what rough enforcement You got it from her. She called the saints to surety That she would never put it from her finger Unless she gave it to yourself in bed, Where you have never come, or sent it us Upon her great disaster. |
+| [[Bertram|BERTRAM]] | She never saw it. |
+| [[King|KING]] | Thou speak‘st it falsely, as I [[Love|love]] mine [[Honour|honour]], And mak’st conjectural fears to come into me Which I would fain shut out. If it should prove That thou art so inhuman—‘twill not prove so. And yet I know not. Thou didst hate her deadly, And she is dead, which nothing but to close Her eyes myself could win me to believe, More than to see this ring.—Take him away. My fore-past proofs, howe’er the matter fall, Shall tax my fears of little [[Vanity|vanity]], Having vainly feared too little. Away with him. We’ll sift this matter further. |
+| [[Bertram|BERTRAM]] | If you shall prove This ring was ever hers, you shall as easy Prove that I husbanded her bed in Florence, Where yet she never was. Exit guarded Enter the Gentleman Austringer with a paper |
+| [[King|KING]] | I am wrapped in dismal thinkings. |
+| GENTLEMAN | Gracious sovereign, Whether I have been to blame or no, I know not. Here’s a petition from a Florentine Who hath for four or five removes come short To tender it herself. I undertook it, Vanquished thereto by the fair grace and speech Of the poor suppliant, who by this I know Is here attending. Her business looks in her With an importing visage, and she told me In a sweet verbal brief it did concern Your highness with herself. ‫‫‫‪‪‪‫‏‏‎‎ [[King|KING]] (reads a letter) ’Upon his many protestations to marry me when his wife was dead, I blush to say it, he won me. Now is the Count Roussillon a widower, his vows are forfeited to me, and my [[Honour|honour]]’s paid to him. He stole from Florence, taking no leave, and I follow him to his country for justice. Grant it me, O [[King]]! In you it best lies; otherwise a seducer flourishes and a poor maid is undone. [[Diana]] Capilet.’ |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--03_exchange_lafeu_i" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (LAFEU I) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LAFEU | I will buy me a son-in-law in a fair, and toll for this. I’ll none of him. |
+| [[King|KING]] | The heavens have thought [[Well|well]] on thee, Lafeu, To bring forth this discov’ry.—Seek these suitors. Go speedily and bring again the Count. Exit one or more I am afeard the life of [[Helen]], lady, Was foully snatched. Enter [[Bertram]] guarded |
+| COUNTESS | Now justice on the doers! |
+| [[King|KING]] | (to [[Bertram]]) I [[Wonder|wonder]], sir, since wives are monsters to you, And that you fly them as you swear them lordship, Yet you [[Desire|desire]] to marry. Enter the Widow and [[Diana]] What woman’s that? |
+| [[Diana|DIANA]] | I am, my lord, a wretched Florentine, Derived from the ancient Capilet. My suit, as I do understand, you know, And therefore know how far I may be pitied. |
+| WIDOW | (to the [[King]]) I am her mother, sir, whose age and [[Honour|honour]] Both suffer under this complaint we bring, And both shall cease without your remedy. |
+| [[King|KING]] | Come hither, Count. Do you know these women? |
+| [[Bertram|BERTRAM]] | My lord, I neither can nor will deny But that I know them. Do they charge me further? |
+| [[Diana|DIANA]] | Why do you look so strange upon your wife? |
+| [[Bertram|BERTRAM]] | (to the [[King]]) She’s none of mine, my lord. |
+| [[Diana|DIANA]] | If you shall marry You give away this hand, and that is mine; You give away heaven’s vows, and those are mine; You give away myself, which is known mine, For I by vow am so embodied yours That she which marries you must marry me, Either both or none. |
+| LAFEU | (to [[Bertram]]) Your reputation comes too short for my daughter, you are no husband for her. |
+| [[Bertram|BERTRAM]] | (to the [[King]]) My lord, this is a fond and desp’rate creature Whom sometime I have laughed with. Let your highness Lay a more noble thought upon mine [[Honour|honour]] Than for to think that I would sink it here. |
+| [[King|KING]] | Sir, for my thoughts, you have them ill to friend Till your deeds gain them. Fairer prove your [[Honour|honour]] Than in my thought it lies. |
+| [[Diana|DIANA]] | Good my lord, Ask him upon his oath if he does think He had not my virginity. |
+| [[King|KING]] | What sayst thou to her? |
+| [[Bertram|BERTRAM]] | She’s impudent, my lord, And was a common gamester to the camp. |
+| [[Diana|DIANA]] | (to the [[King]]) He does me wrong, my lord. If I were so He might have bought me at a common price. Do not believe him. O behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’th’ camp, If I be one. |
+| COUNTESS | He blushes and ’tis hit. Of six preceding ancestors, that gem; Conferred by testament to th’ sequent issue Hath it been owed and worn. This is his wife. That ring’s a thousand proofs. |
+| [[King|KING]] | (to [[Diana]]) Methought you said You saw one here in [[Court|court]] could witness it. |
+| [[Diana|DIANA]] | I did, my lord, but loath am to produce So bad an instrument. His name’s Paroles. |
+| LAFEU | I saw the man today, if man he be. |
+| [[King|KING]] | Find him and bring him hither. Exit one |
+| [[Bertram|BERTRAM]] | What of him? He’s quoted for a most perfidious slave With all the spots o’th’ world taxed and debauched, Whose [[Nature|nature]] sickens but to speak a [[Truth|truth]]. Am I or that or this for what he’ll utter, That will speak anything? |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--04_exchange_king" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (KING) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] | She hath that ring of yours. |
+| [[Bertram|BERTRAM]] | I think she has. Certain it is I liked her And boarded her i‘th’ wanton way of youth. She knew her distance and did angle for me, Madding my eagerness with her restraint, As all impediments in fancy’s course Are motives of more fancy; and in fine Her inf’nite cunning with her modern grace Subdued me to her rate. She got the ring, And I had that which my inferior might At market price have bought. |
+| [[Diana|DIANA]] | I must be patient. You that have turned off a first so noble wife May justly diet me. I pray you yet— Since you lack virtue I will lose a husband— Send for your ring, I will return it [[Home|home]], And give me mine again. |
+| [[Bertram|BERTRAM]] | I have it not. |
+| [[King|KING]] | (to [[Diana]]) What ring was yours, I pray you? |
+| [[Diana|DIANA]] | Sir, much like the same upon your finger. |
+| [[King|KING]] | Know you this ring? This ring was his of late. |
+| [[Diana|DIANA]] | And this was it I gave him being abed. |
+| [[King|KING]] | The story then goes false you threw it him Out of a casement? |
+| [[Diana|DIANA]] | I have spoke the [[Truth|truth]]. Enter Paroles |
+| [[Bertram|BERTRAM]] | (to the [[King]]) My lord, I do confess the ring was hers. |
+| [[King|KING]] | You boggle shrewdly; every feather starts you.— Is this the man you speak of? |
+| [[Diana|DIANA]] | Ay, my lord. |
+| [[King|KING]] | (to Paroles) Tell me, sirrah—but tell me true, I charge you, Not fearing the displeasure of your master, Which on your just proceeding I’ll keep off— By him and by this woman here what know you? |
+| PAROLES | So please your majesty, my master hath been an honourable gentleman. Tricks he hath had in him which gentlemen have. |
+| [[King|KING]] | Come, come, to th’ purpose. Did he [[Love|love]] this woman? |
+| PAROLES | [[Faith]], sir, he did [[Love|love]] her, but how? |
+| [[King|KING]] | How, I pray you? |
+| PAROLES | He did [[Love|love]] her, sir, as a gentleman loves a woman. |
+| [[King|KING]] | How is that? |
+| PAROLES | He loved her, sir, and loved her not. |
+| [[King|KING]] | As thou art a knave and no knave. What an equivocal companion is this! |
+| PAROLES | I am a poor man, and at your majesty’s command. |
+| LAFEU | (to the [[King]]) He’s a good drum, my lord, but a naughty orator. |
+| [[Diana|DIANA]] | (to Paroles) Do you know he promised me [[Marriage|marriage]]? |
+| PAROLES | [[Faith]], I know more than I’ll speak. |
+| [[King|KING]] | But wilt thou not speak all thou know’st? |
+| PAROLES | Yes, so please your majesty. I did go between them, as I said; but more than that, he loved her, for indeed he was mad for her and talked of [[Satan]] and of limbo and of Furies and I know not what. Yet I was in that credit with them at that [[Time|time]] that I knew of their going to bed and of other motions, as promising her [[Marriage|marriage]] and things which would derive me ill will to speak of. Therefore I will not speak what I know. |
+| [[King|KING]] | Thou hast spoken all already, unless thou canst say they are married. But thou art too fine in thy evidence, therefore stand aside.— This ring you say was yours. |
+| [[Diana|DIANA]] | Ay, my good lord. |
+| [[King|KING]] | Where did you buy it? Or who gave it you? |
+| [[Diana|DIANA]] | It was not given me, nor I did not buy it. |
+| [[King|KING]] | Who lent it you? |
+| [[Diana|DIANA]] | It was not lent me neither. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--05_exchange_king" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (KING) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] | Where did you find it then? |
+| [[Diana|DIANA]] | I found it not. |
+| [[King|KING]] | If it were yours by none of all these ways, How could you give it him? |
+| [[Diana|DIANA]] | I never gave it him. |
+| LAFEU | (to the [[King]]) This woman’s an easy glove, my lord, she goes off and on at pleasure. |
+| [[King|KING]] | (to [[Diana]]) This ring was mine. I gave it his first wife. |
+| [[Diana|DIANA]] | It might be yours or hers for aught I know. |
+| [[King|KING]] | (to attendants) Take her away, I do not like her now. To [[Prison|prison]] with her. And away with him.— Unless thou tell’st me where thou hadst this ring Thou diest within this hour. |
+| [[Diana|DIANA]] | I’ll never tell you. |
+| [[King|KING]] | (to attendants) Take her away. |
+| [[Diana|DIANA]] | I’ll put in bail, my liege. |
+| [[King|KING]] | I think thee now some common customer. |
+| [[Diana|DIANA]] | By Jove, if ever I knew man ’twas you. |
+| [[King|KING]] | Wherefore hast thou accused him all this while? |
+| [[Diana|DIANA]] | Because he’s guilty, and he is not guilty. He knows I am no maid, and he’ll swear to’t; I’ll swear I am a maid, and he knows not. Great [[King]], I am no strumpet; by my life, I am either maid or else this old man’s wife. |
+| [[King|KING]] | (to attendants) She does abuse our ears. To [[Prison|prison]] with her. |
+| [[Diana|DIANA]] | Good mother, fetch my bail. Exit Widow Stay, royal sir. The jeweller that owes the ring is sent for, And he shall surety me. But for this lord, Who hath abused me as he knows himself, Though yet he never harmed me, here I quit him. He knows himself my bed he hath defiled, And at that [[Time|time]] he got his wife with [[Child|child]]. Dead though she be she feels her young one kick. So there’s my [[Riddle|riddle]]; one that’s dead is quick. And now behold the meaning. Enter [[Helen]] and the Widow |
+| [[King|KING]] | Is there no exorcist Beguiles the truer office of mine eyes? Is’t real that I see? |
+| [[Helen|HELEN]] | No, my good lord, ’Tis but the [[Shadow|shadow]] of a wife you see, The name and not the thing. |
+| [[Bertram|BERTRAM]] | Both, both. O, pardon! |
+| [[Helen|HELEN]] | O, my good lord, when I was like this maid I found you wondrous kind. There is your ring. And, look you, here’s your letter. This it says: ‘When from my finger you can get this ring, And are by me with [[Child|child]],’ et cetera. This is done. Will you be mine now you are doubly won? |
+| [[Bertram|BERTRAM]] | (to the [[King]]) If she, my liege, can make me know this clearly I’ll [[Love|love]] her dearly, ever ever dearly. |
+| [[Helen|HELEN]] | If it appear not plain and prove untrue, Deadly [[divorce]] step between me and you.— O my dear mother, do I see you living? |
+| LAFEU | Mine eyes smell onions, I shall weep anon. (To Paroles) Good Tom Drum, lend me a handkerchief. So, I thank thee. Wait on me [[Home|home]], I’ll make sport with thee. Let thy curtsies [[Alone|alone]], they are scurvy ones. |
+| [[King|KING]] | ([[To Helen|to Helen]]) Let us from point to point this story know To make the even [[Truth|truth]] in pleasure flow. (To [[Diana]]) If thou be‘st yet a fresh uncroppèd flower, Choose thou thy husband and I’ll pay thy dower. For I can guess that by thy honest aid Thou kept’st a wife herself, thyself a maid. Of that and all the progress more and less Resolvèdly more leisure shall express. All yet seems [[Well|well]]; and if it end so meet, The bitter past, more welcome is the sweet. Flourish of trumpets Epilogue The [[King]]’s a beggar now the play is done. All is [[Well|well]] ended if this suit be won: That you express content, which we will pay With strife to please you, day exceeding day. Ours be your patience then, and yours our parts: Your gentle hands lend us, and take our hearts. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--06_exchange_pericles" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (PERICLES) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| BY WILLIAM SHAKESPEARE AND | GEORGE WILKINS A RECONSTRUCTED TEXT |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--07_monologue_on" data-title="Alls Well that Ends Well — Act V, Scene 3 — monologue (ON) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| ON | 20 May 1608 [[Pericles]] was entered on the Stationers’ Register to Edward Blount; but he did not publish it. Probably the players allowed him to license it in the [[Hope|hope]] of preventing its publication by anyone else, for it was one of the most popular plays of the period. Its [[success]] was exploited, also in 1608, by the publication of a [[Novel|novel]], by George Wilkins, ‘The Painful Adventures of [[Pericles]] Prince of Tyre, Being the True [[history|History]] of the Play of [[Pericles]], as it was lately presented by the worthy and ancient poet John [[Gower]]’. The play itself appeared in print in the following year, with an ascription to Shakespeare, but in a manifestly corrupt text that gives every sign of having been put together from [[Memory|memory]]. This quarto was several times reprinted, but the play was not included in the 1623 Folio (perhaps because Heminges and Condell knew that Shakespeare was responsible for only part of it). In putting together The Painful Adventures, Wilkins drew on an earlier version of the tale, The Pattern of Painful Adventures, by Laurence Twine, written in the mid-1570s and reprinted in 1607. Twine’s book is also a source of the play, which draws too on the story of [[Apollonius]] of Tyre as told by John [[Gower]] in his Confessio Amantis, and, to a lesser extent, on Sir Philip Sidney’s Arcadia. Wilkins not only incorporated verbatim passages from Twine’s book, he also drew heavily on [[Pericles]] itself. Since the play text is so corrupt, it is quite likely that Wilkins reports parts of it both more accurately and more fully than the quarto. And he may have had special qualifications for doing so. He was a dramatist whose popular play The Miseries of Enforced [[Marriage]] had been performed by Shakespeare’s company. [[Pericles]] has usually been regarded as either a collaborative play or one in which Shakespeare revised a pre-existing script. Our edition is based on the hypothesis (not new) that Wilkins was its joint author. Our attempt to reconstruct the play draws more heavily than is usual on Wilkins’s [[Novel|novel]], especially in the first nine scenes (which he probably wrote); in general, because of its obvious corruption, the original text is more freely emended than usual. So that readers may experience the play as originally printed, an unemended reprint of the 1609 quarto is given in our original-spelling edition. The deficiencies of the text are in part compensated for by the [[Survival|survival]] of an unusual amount of relevant visual material, reproduced overleaf. The complex textual background of [[Pericles]] should not be allowed to draw attention away from the merits of this dramatic [[Romance|romance]], which we [[Hope|hope]] will be more apparent as the result of our treatment of the text. If the original play had survived, it might [[Well|well]] have been as highly valued as The [[Winter]]’s Tale or The Tempest; as it is, it contains some hauntingly beautiful episodes, above all that in Scene 21 in which [[Marina]], [[Pericles]]’ long-lost daughter, draws him out of the comatose state to which his sufferings have reduced him. |
+| ON | 14. From the title-page of The Painful Adventures of [[Pericles]] Prince of Tyre (1608), by George Wilkins; [[Artist|artist]] unknown. Since [[Gower]] is not a character in Wilkins’s [[Novel|novel]], the choice of woodcut undoubtedly reflects both the play’s popularity and [[Gower]]’s own impact in early performances, and it is as likely to reflect the visual detail of performance as any early title-page. The sprig of laurel (or posy) in [[Gower]]’s left hand is symbolic of his poetic status. |
+| ON | 15. From Greene’s Vision (1592), sig. CIr―CIv; probably by Robert Greene. The description here fits reasonably [[Well|well]] the Painful Adventures title-page, though the woodcut does not contain the ‘bag of red’, ‘napkin’, or tight-fitting ‘breech’. |
+| ON | 16. Severed heads displayed on the gate of [[London]] Bridge, from an etching by Claes Jan Visscher (1616). In the play’s sources, and Painful Adventures, the heads of previous suitors (Sc. 1) are placed on the ’gate’ of Antioch. In performance they could have been thrust out on poles from the upper stage; but the timing and method of their display is not clear. |
+| *(didascalia)* | 17. From The Heroical Devices of M. [[Claudius]] Paradin, translated by |
+| P.S. | (1591), sig. V3. This is the source for the impresa of the Third Knight, in Sc. 6. |
+| *(didascalia)* | 18. From The Heroical Devices of M. [[Claudius]] Paradin, translated by |
+| P.S. | (1591), sig. Z3. This is the source for the impresa of the Fourth Knight, in Sc. 6. |
+| P.S. | 19. An Inigo [[Jones]] [[Sketch|sketch]] of [[Diana]], probably for Ben Jonson’s [[Masque|masque]] [[Time]] Vindicated (1623). The goddess of chastity appeared as a character in [[Court|court]] entertainments, masques, and plays, and her representation was governed by iconographic convention. As goddess of hunting, she was most often identified by her ‘silver bow’ (21.234). In Thomas Heywood’s The [[Golden Age]] (1611), stage directions refer to ‘[[Diana]]’s bow’ (sig. EIv) and her ‘buskins’ (sig. E3v); her ‘nymphs’ explicitly, and by inference she, have ‘garlands on their heads, and javelins in their hands ... bows and quivers’ (sig. D3v). The bow, quiver, and javelin, all visible in [[Jones]]’s [[Sketch|sketch]], were commonplace in emblematic representations. As a huntress, [[Diana]] could naturally be envisaged in a chariot: in Aurelian Townshend’s [[Masque|masque]] Albion’s Triumph (1631), she descends ‘in her chariot’ (pp. 2, 12); in [[Time]] Vindicated, ‘[[Diana]] descends’ (1. 446). Such descents for deities were used in the public theatres, too, usually in a chair or chariot (21.224.2). |
+| P.S. | 20. A miniature of [[Diana]] by Isaac [[Oliver]] (1615): the dress is yellow, the scarf a gauzy pink-white, the cloak over her right shoulder blue; the leaf-shaped brooch topped by the crescent [[Moon|moon]], gold. In Samuel Daniel’s [[Masque|masque]] The Vision of the Twelve Goddesses (1604), ‘[[Diana]], in a green mantle embroidered with silver half moons, and a crescent of pearl on her head, presents a bow and quiver’ (sig. A5). The ‘crescent of pearl’—an ornamental crescent [[Moon|moon]], also detectable in [[Jones]]’s [[Sketch|sketch]]—can be seen in many emblematic representations of the goddess. |
+| P.S. | 21. For the [[Pastoral|pastoral]] Florimène (1635), Inigo [[Jones]] designed two scenic views of ’The Temple of [[Diana]]’ (see 1. 22.17.1). Though such scenes were not used in the public theatres in Shakespeare’s [[Time|time]], the columns supporting the overhanging roof of the public stage (see General Introduction, pp. xxvii-xxix) could have created a scenic effect roughly similar to [[Jones]]’s recessed classical temple. Statues were also available as props in the public theatre; in [[Pericles]], as in The [[Winter]]’s Tale, the statue could have been impersonated by an actor on a pedestal. Whether or not a statue was visible, the temple could be identified by an altar (as in The Two Noble Kinsmen). |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_3--08_exchange_the_persons_of_the_play" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [8]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY John [[Gower|GOWER]], the Presenter |
+| *(didascalia)* | [[Antiochus|ANTIOCHUS]], [[King]] of Antioch His |
+| DAUGHTER | THALIART, a [[Villain|villain]] |
+| DAUGHTER | [[Pericles|PERICLES]], Prince of Tyre [[Marina|MARINA]], [[Pericles]]’ daughter |
+| DAUGHTER | [[Cleon|CLEON]], Governor of Tarsus DIONIZA, his wife LEONINE, a murderer |
+| [[King|KING]] | [[Simonides|SIMONIDES]], of Pentapolis [[Thaisa|THAISA]], his daughter Three FISHERMEN, his subjects Five PRINCES, suitors of [[Thaisa]] |
+| *(didascalia)* | A |
+| MARSHAL | LYCHORIDA, [[Thaisa]]’s [[Nurse|nurse]] |
+| MARSHAL | CERIMON, a physician of Ephesus PHILEMON, his servant |
+| MARSHAL | LYSIMACHUS, Governor of Mytilene |
+| *(didascalia)* | A |
+| *(didascalia)* | A |
+| PANDER | BOULT, a leno |
+| PANDER | [[Diana|DIANA]], goddess of chastity |
+| PANDER | Lords, ladies, pages, messengers, sailors, gentlemen |
+
+
 
 
 <span class="atom-split" data-atom="alls_well_that_ends_well" data-title="ALL’S WELL THAT ENDS WELL" data-chapter="" data-kind="intro"></span>
@@ -1200,872 +2066,6 @@ All’s [[Well]] That Ends [[Well]]
 | ON | 20 May 1608 [[Pericles]] was entered on the Stationers’ Register to Edward Blount; but he did not publish it. Probably the players allowed him to license it in the [[Hope|hope]] of preventing its publication by anyone else, for it was one of the most popular plays of the period. Its [[success]] was exploited, also in 1608, by the publication of a [[Novel|novel]], by George Wilkins, ‘The Painful Adventures of [[Pericles]] Prince of Tyre, Being the True [[history|History]] of the Play of [[Pericles]], as it was lately presented by the worthy and ancient poet John [[Gower]]’. The play itself appeared in print in the following year, with an ascription to Shakespeare, but in a manifestly corrupt text that gives every sign of having been put together from [[Memory|memory]]. This quarto was several times reprinted, but the play was not included in the 1623 Folio (perhaps because Heminges and Condell knew that Shakespeare was responsible for only part of it).<br>In putting together The Painful Adventures, Wilkins drew on an earlier version of the tale, The Pattern of Painful Adventures, by Laurence Twine, written in the mid-1570s and reprinted in 1607. Twine’s book is also a source of the play, which draws too on the story of [[Apollonius]] of Tyre as told by John [[Gower]] in his Confessio Amantis, and, to a lesser extent, on Sir Philip Sidney’s Arcadia. Wilkins not only incorporated verbatim passages from Twine’s book, he also drew heavily on [[Pericles]] itself. Since the play text is so corrupt, it is quite likely that Wilkins reports parts of it both more accurately and more fully than the quarto. And he may have had special qualifications for doing so. He was a dramatist whose popular play The Miseries of Enforced [[Marriage]] had been performed by Shakespeare’s company. [[Pericles]] has usually been regarded as either a collaborative play or one in which Shakespeare revised a pre-existing script. Our edition is based on the hypothesis (not new) that Wilkins was its joint author. Our attempt to reconstruct the play draws more heavily than is usual on Wilkins’s [[Novel|novel]], especially in the first nine scenes (which he probably wrote); in general, because of its obvious corruption, the original text is more freely emended than usual. So that readers may experience the play as originally printed, an unemended reprint of the 1609 quarto is given in our original-spelling edition. The deficiencies of the text are in part compensated for by the [[Survival|survival]] of an unusual amount of relevant visual material, reproduced overleaf.<br>The complex textual background of [[Pericles]] should not be allowed to draw attention away from the merits of this dramatic [[Romance|romance]], which we [[Hope|hope]] will be more apparent as the result of our treatment of the text. If the original play had survived, it might [[Well|well]] have been as highly valued as The [[Winter]]’s Tale or The Tempest; as it is, it contains some hauntingly beautiful episodes, above all that in Scene 21 in which [[Marina]], [[Pericles]]’ long-lost daughter, draws him out of the comatose state to which his sufferings have reduced him.<br><br>14. From the title-page of The Painful Adventures of [[Pericles]] Prince of Tyre (1608), by George Wilkins; [[Artist|artist]] unknown. Since [[Gower]] is not a character in Wilkins’s [[Novel|novel]], the choice of woodcut undoubtedly reflects both the play’s popularity and [[Gower]]’s own impact in early performances, and it is as likely to reflect the visual detail of performance as any early title-page. The sprig of laurel (or posy) in [[Gower]]’s left hand is symbolic of his poetic status.<br><br>15. From Greene’s Vision (1592), sig. CIr―CIv; probably by Robert Greene. The description here fits reasonably [[Well|well]] the Painful Adventures title-page, though the woodcut does not contain the ‘bag of red’, ‘napkin’, or tight-fitting ‘breech’.<br><br>16. Severed heads displayed on the gate of [[London]] Bridge, from an etching by Claes Jan Visscher (1616). In the play’s sources, and Painful Adventures, the heads of previous suitors (Sc. 1) are placed on the ’gate’ of Antioch. In performance they could have been thrust out on poles from the upper stage; but the timing and method of their display is not clear.<br><br>17.<br>From The Heroical Devices of M. [[Claudius]] Paradin, translated by P.S. (1591), sig. V3. This is the source for the impresa of the Third Knight, in Sc. 6.<br><br>18. From The Heroical Devices of M. [[Claudius]] Paradin, translated by P.S. (1591), sig. Z3. This is the source for the impresa of the Fourth Knight, in Sc. 6.<br><br>19. An Inigo [[Jones]] [[Sketch|sketch]] of [[Diana]], probably for Ben Jonson’s [[Masque|masque]] [[Time]] Vindicated (1623). The goddess of chastity appeared as a character in [[Court|court]] entertainments, masques, and plays, and her representation was governed by iconographic convention. As goddess of hunting, she was most often identified by her ‘silver bow’ (21.234). In Thomas Heywood’s The [[Golden Age]] (1611), stage directions refer to ‘[[Diana]]’s bow’ (sig. EIv) and her ‘buskins’ (sig. E3v); her ‘nymphs’ explicitly, and by inference she, have ‘garlands on their heads, and javelins in their hands ... bows and quivers’ (sig. D3v). The bow, quiver, and javelin, all visible in [[Jones]]’s [[Sketch|sketch]], were commonplace in emblematic representations. As a huntress, [[Diana]] could naturally be envisaged in a chariot: in Aurelian Townshend’s [[Masque|masque]] Albion’s Triumph (1631), she descends ‘in her chariot’ (pp. 2, 12); in [[Time]] Vindicated, ‘[[Diana]] descends’ (1. 446). Such descents for deities were used in the public theatres, too, usually in a chair or chariot (21.224.2).<br><br>20. A miniature of [[Diana]] by Isaac [[Oliver]] (1615): the dress is yellow, the scarf a gauzy pink-white, the cloak over her right shoulder blue; the leaf-shaped brooch topped by the crescent [[Moon|moon]], gold. In Samuel Daniel’s [[Masque|masque]] The Vision of the Twelve Goddesses (1604), ‘[[Diana]], in a green mantle embroidered with silver half moons, and a crescent of pearl on her head, presents a bow and quiver’ (sig. A5). The ‘crescent of pearl’—an ornamental crescent [[Moon|moon]], also detectable in [[Jones]]’s [[Sketch|sketch]]—can be seen in many emblematic representations of the goddess.<br><br>21. For the [[Pastoral|pastoral]] Florimène (1635), Inigo [[Jones]] designed two scenic views of ’The Temple of [[Diana]]’ (see 1. 22.17.1). Though such scenes were not used in the public theatres in Shakespeare’s [[Time|time]], the columns supporting the overhanging roof of the public stage (see General Introduction, pp. xxvii-xxix) could have created a scenic effect roughly similar to [[Jones]]’s recessed classical temple. Statues were also available as props in the public theatre; in [[Pericles]], as in The [[Winter]]’s Tale, the statue could have been impersonated by an actor on a pedestal. Whether or not a statue was visible, the temple could be identified by an altar (as in The Two Noble Kinsmen). |
 | THE PERSONS OF THE | PLAY<br>John [[Gower|GOWER]], the Presenter<br><br>[[Antiochus|ANTIOCHUS]], [[King]] of Antioch<br>His DAUGHTER<br>THALIART, a [[Villain|villain]]<br><br>[[Pericles|PERICLES]], Prince of Tyre<br>[[Marina|MARINA]], [[Pericles]]’ daughter<br><br>[[Cleon|CLEON]], Governor of Tarsus<br>DIONIZA, his wife<br>LEONINE, a murderer |
 | [[King|KING]] | [[Simonides|SIMONIDES]], of Pentapolis<br>[[Thaisa|THAISA]], his daughter<br>Three FISHERMEN, his subjects<br>Five PRINCES, suitors of [[Thaisa]]<br>A MARSHAL<br>LYCHORIDA, [[Thaisa]]’s [[Nurse|nurse]]<br><br>CERIMON, a physician of Ephesus<br>PHILEMON, his servant<br><br>LYSIMACHUS, Governor of Mytilene<br>A BAWD<br>A PANDER<br>BOULT, a leno<br><br>[[Diana|DIANA]], goddess of chastity<br><br>Lords, ladies, pages, messengers, sailors, gentlemen |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter young [[Bertram]] Count of Roussillon, his mother the Countess, [[Helen]], and Lord Lafeu, all in black |
-| COUNTESS | In delivering my son from me I bury a second husband. |
-| [[Bertram|BERTRAM]] | And I in going, madam, weep o’er my father’s [[Death|death]] anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection. |
-| LAFEU | You shall find of the [[King]] a husband, madam; you, sir, a father. He that so generally is at all times good must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted rather than lack it where there is such abundance. |
-| COUNTESS | What [[Hope|hope]] is there of his majesty’s amendment? |
-| LAFEU | He hath abandoned his physicians, madam, under whose practices he hath persecuted [[Time|time]] with [[Hope|hope]], and finds no other advantage in the process but only the losing of [[Hope|hope]] by [[Time|time]]. |
-| COUNTESS | This young gentlewoman had a father—O that ‘had’: how sad a passage ’tis!—whose skill was almost as great as his honesty; had it stretched so far, would have made [[Nature|nature]] immortal, and [[Death|death]] should have play for lack of work. Would for the [[King]]’s sake he were living. I think it would be the [[Death|death]] of the [[King]]’s disease. |
-| LAFEU | How called you the man you speak of, madam? COUNTESS He was famous, sir, in his profession, and it was his great right to be so: Gerard de Narbonne. |
-| LAFEU | He was excellent indeed, madam. The [[King]] very lately spoke of him, admiringly and mourningly. He was skilful enough to have lived still, if knowledge could be set up against [[Mortality|mortality]]. |
-| [[Bertram|BERTRAM]] | What is it, my good lord, the [[King]] languishes of? |
-| LAFEU | A fistula, my lord. |
-| [[Bertram|BERTRAM]] | I heard not of it before. |
-| LAFEU | I would it were not notorious.—Was this gentlewoman the daughter of Gérard de Narbonne? |
-| COUNTESS | His sole [[Child|child]], my lord, and bequeathed to my overlooking. I have those hopes of her good that her [[Education|education]] promises; her dispositions she inherits, which makes fair gifts fairer—for where an unclean mind carries virtuous qualities, there commendations go with pity: they are virtues and traitors too. In her they are the better for their simpleness. She derives her honesty and achieves her goodness. |
-| LAFEU | Your commendations, madam, get from her [[Tears|tears]]. |
-| COUNTESS | ’Tis the best brine a maiden can season her praise in. The remembrance of her father never approaches her heart but the tyranny of her sorrows takes all livelihood from her cheek.—No more of this, [[Helen]]. Go to, no more, lest it be rather thought you affect a sorrow than to have— |
-| [[Helen|HELEN]] | I do affect a sorrow indeed, but I have it too. |
-| LAFEU | Moderate lamentation is the right of the dead, excessive grief the enemy to the living. |
-| COUNTESS | If the living be not enemy to the grief, the excess makes it soon mortal. [[Bertram|BERTRAM]]) (kneeling) Madam, I [[Desire|desire]] your holy wishes. LAFEU How understand we that? |
-| COUNTESS | Be thou blessed, [[Bertram]], and succeed thy father In manners as in shape. Thy [[Blood|blood]] and virtue Contend for empire in thee, and thy goodness Share with thy birthright. [[Love]] all, trust a few, Do wrong to none. Be able for thine enemy Rather in power than use, and keep thy friend Under thy own life’s key. Be checked for [[Silence|silence]] But never taxed for speech. What heaven more will That thee may furnish and my prayers pluck down, Fall on thy head. Farewell. (To Lafeu) My lord, ’Tis an unseasoned courtier. Good my lord, Advise him. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_exchange_lafeu" data-title="Alls Well that Ends Well — Act I, Scene 1 — exchange (LAFEU) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LAFEU | He cannot want the best That shall attend his [[Love|love]]. |
-| COUNTESS | Heaven bless him!—Farewell, [[Bertram]]. |
-| [[Bertram|BERTRAM]] | (rising) The best wishes that can be forged in your thoughts be servants to you. Exit Countess ([[To Helen]]) Be comfortable to my mother, your mistress, and make much of her. |
-| LAFEU | Farewell, pretty lady. You must hold the credit of your father. Exeunt [[Bertram]] and Lafeu |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_monologue_helen" data-title="Alls Well that Ends Well — Act I, Scene 1 — monologue (HELEN) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Helen|HELEN]] | O were that all! I think not on my father, And these great [[Tears|tears]] grace his remembrance more Than those I shed for him. What was he like? I have forgot him. My [[Imagination|imagination]] Carries no favour in’t but [[Bertram]]’s. I am undone. There is no living, none, If [[Bertram]] be away. ‘Twere all one That I should [[Love|love]] a bright particular star And think to wed it, he is so above me. In his bright radiance and collateral light Must I be comforted, not in his sphere. Th’[[Ambition|ambition]] in my [[Love|love]] thus plagues itself. The hind that would be mated by the [[Lion|lion]] Must die for [[Love|love]]. ’Twas pretty, though a plague, To see him every hour, to sit and draw His arched brows, his hawking eye, his curls, In our heart’s table—heart too capable Of every line and trick of his sweet favour. But now he’s gone, and my idolatrous fancy Must sanctify his relics. Who comes here? Enter Paroles One that goes with him. I [[Love|love]] him for his sake— And yet I know him a notorious liar, Think him a great way [[Fool|fool]], solely a coward. Yet these fixed evils sit so fit in him That they take place when virtue’s steely bones Looks bleak i’th’ cold [[Wind|wind]]. Withal, full oft we see Cold wisdom waiting on superfluous folly. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_exchange_paroles" data-title="Alls Well that Ends Well — Act I, Scene 1 — exchange (PAROLES) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PAROLES | Save you, fair [[Queen|queen]]. |
-| [[Helen|HELEN]] | And you, monarch. |
-| PAROLES | No. |
-| [[Helen|HELEN]] | And no. |
-| PAROLES | Are you meditating on virginity? |
-| [[Helen|HELEN]] | Ay. You have some stain of soldier in you, let me ask you a question. Man is enemy to virginity: how may we barricado it against him? in |
-| PAROLES | Keep him out. |
-| [[Helen|HELEN]] | But he assails, and our virginity, though valiant in the defence, yet is weak. Unfold to us some warlike resistance. |
-| PAROLES | There is none. Man, setting down before you, will undermine you and blow you up. |
-| [[Helen|HELEN]] | Bless our poor virginity from underminers and blowers-up. Is there no military policy how virgins might blow up men? |
-| PAROLES | Virginity being blown down, man will quicklier be blown up. Marry, in blowing him down again, with the breach yourselves made you lose your [[City|city]]. It is not politic in the commonwealth of [[Nature|nature]] to preserve virginity. Loss of virginity is rational increase, and there was never virgin got till virginity was first lost. That you were made of is mettle to make virgins. Virginity by being once lost may be ten times found; by being ever kept it is ever lost. ’Tis too cold a companion, away with’t. |
-| [[Helen|HELEN]] | I will stand for’t a little, though therefore I die a virgin. |
-| PAROLES | There’s little can be said in’t. ‘Tis against the rule of [[Nature|nature]]. To speak on the part of virginity is to accuse your mothers, which is most infallible disobedience. He that hangs himself is a virgin: virginity murders itself, and should be buried in highways, out of all sanctified limit, as a desperate offendress against [[Nature|nature]]. Virginity breeds mites, much like a [[cheese]]; consumes itself to the very paring, and so dies with feeding his own stomach. Besides, virginity is peevish, proud, idle, made of [[Self|self]]-[[Love|love]]—which is the most inhibited sin in the canon. Keep it not, you cannot choose but lose by’t. Out with’t! Within t’one year it will make itself two, which is a goodly increase, and the principal itself not much the worse. Away with’t. |
-| [[Helen|HELEN]] | How might one do, sir, to lose it to her own liking? |
-| PAROLES | Let me see. Marry, ill, to like him that ne‘er it likes. ’Tis a commodity will lose the gloss with lying: the longer kept, the less worth. Off with’t while ‘tis vendible. Answer the [[Time|time]] of request. Virginity like an old courtier wears her cap out of fashion, richly suited but unsuitable, just like the brooch and the toothpick, which wear not now. Your date is better in your pie and your porridge than in your cheek, and your virginity, your old virginity, is like one of our French withered pears: it looks ill, it eats drily, marry, ’tis a withered pear—it was formerly better, marry, yet ’tis a withered pear. Will you anything with it? |
-| [[Helen|HELEN]] | Not my virginity, yet ... There shall your master have a thousand loves, A mother and a mistress and a friend, A phoenix, captain, and an enemy, A guide, a goddess, and a sovereign, A counsellor, a traitress, and a dear: His humble [[Ambition|ambition]], proud [[Humility|humility]], His jarring concord and his discord dulcet, His [[Faith|faith]], his sweet disaster, with a world Of pretty fond adoptious christendoms That blinking Cupid gossips. Now shall he— I know not what he shall. God send him [[Well|well]]. The [[Court|court]]’s a learning place, and he is one— |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--05_exchange_paroles" data-title="Alls Well that Ends Well — Act I, Scene 1 — exchange (PAROLES) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PAROLES | What one, i’[[Faith|faith]]? |
-| [[Helen|HELEN]] | That I wish [[Well|well]]. ’Tis pity. |
-| PAROLES | What’s pity? |
-| [[Helen|HELEN]] | That wishing [[Well|well]] had not a [[Body|body]] in’t Which might be felt, that we, the poorer born, Whose baser [[Stars|stars]] do shut us up in wishes, Might with effects of them follow our friends And show what we [[Alone|alone]] must think, which never Returns us thanks. Enter a Page |
-| PAGE | Monsieur Paroles, my lord calls for you. Exit |
-| PAROLES | Little [[Helen]], farewell. If I can remember thee I will think of thee at [[Court|court]]. |
-| [[Helen|HELEN]] | Monsieur Paroles, you were born under a charitable star. |
-| PAROLES | Under Mars, I. |
-| [[Helen|HELEN]] | I especially think under Mars. |
-| PAROLES | Why ‘under Mars’? |
-| [[Helen|HELEN]] | The wars hath so kept you under that you must needs be born under Mars. |
-| PAROLES | When he was predominant. |
-| [[Helen|HELEN]] | When he was retrograde, I think rather. |
-| PAROLES | Why think you so? |
-| [[Helen|HELEN]] | You go so much backward when you fight. |
-| PAROLES | That’s for advantage. |
-| [[Helen|HELEN]] | So is running away, when [[Fear|fear]] proposes the safety. But the composition that your valour and [[Fear|fear]] makes in you is a virtue of a good wing, and I like the wear [[Well|well]]. |
-| PAROLES | I am so full of businesses I cannot answer thee acutely. I will return perfect courtier, in the which my instruction shall serve to naturalize thee, so thou wilt be capable of a courtier’s counsel and understand what advice shall thrust upon thee; else thou diest in thine unthankfulness, and thine ignorance makes thee away. Farewell. When thou hast leisure say thy prayers; when thou hast none remember thy friends. Get thee a good husband and use him as he uses thee. So farewell. Exit |
-| [[Helen|HELEN]] | Our remedies oft in ourselves do lie Which we ascribe to heaven. The fated sky Gives us free scope, only doth backward pull Our slow designs when we ourselves are dull. What power is it which mounts my [[Love|love]] so high, That makes me see and cannot feed mine eye? The mightiest space in fortune [[Nature|nature]] brings To join like likes and kiss like native things. Impossible be strange attempts to those That weigh their pains in sense and do suppose What hath been cannot be. Who ever strove To show her merit that did miss her [[Love|love]]? The [[King]]’s disease—my project may deceive me, But my intents are fixed and will not leave me. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the Countess, Reynaldo her steward, and behind Lavatch her clown |
-| COUNTESS | I will now hear. What say you of this gentlewoman? |
-| REYNALDO | Madam, the care I have had to even your content I wish might be found in the calendar of my past endeavours, for then we wound our modesty and make foul the clearness of our deservings, when of ourselves we publish them. |
-| COUNTESS | What does this knave here? (To Lavatch) Get you gone, sirrah. The complaints I have heard of you I do not all believe. ’Tis my slowness that I do not, for I know you lack not folly to commit them and have ability enough to make such knaveries yours. |
-| LAVATCH | ’Tis not unknown to you, madam, I am a poor fellow. |
-| COUNTESS | [[Well]], sir? |
-| LAVATCH | No, madam, ’tis not so [[Well|well]] that I am poor, though many of the rich are damned. But if I may have your ladyship’s good will to go to the world, Isbel the woman and I will do as we may. |
-| COUNTESS | Wilt thou needs be a beggar? |
-| LAVATCH | I do beg your good will in this case. |
-| COUNTESS | In what case? |
-| LAVATCH | In Isbel’s case and mine own. Service is no heritage, and I think I shall never have the blessing of God till I have issue o’ my [[Body|body]], for they say bairns are blessings. |
-| COUNTESS | Tell me thy reason why thou wilt marry. |
-| LAVATCH | My poor [[Body|body]], madam, requires it. I am driven on by the flesh, and he must needs go that the devil drives. |
-| COUNTESS | Is this all your worship’s reason? |
-| LAVATCH | [[Faith]], madam, I have other holy reasons, such as they are. |
-| COUNTESS | May the world know them? |
-| LAVATCH | I have been, madam, a wicked creature, as you—and all flesh and [[Blood|blood]]—are, and indeed I do marry that I may repent. |
-| COUNTESS | Thy [[Marriage|marriage]] sooner than thy wickedness. |
-| LAVATCH | I am out o’ friends, madam, and I [[Hope|hope]] to have friends for my wife’s sake. |
-| COUNTESS | Such friends are thine enemies, knave. |
-| LAVATCH | You’re shallow, madam—in great friends, for the knaves come to do that for me which I am aweary of. He that ears my land spares my team, and gives me leave to in the crop. If I be his cuckold, he’s my drudge. He that comforts my wife is the cherisher of my flesh and [[Blood|blood]]; he that cherishes my flesh and [[Blood|blood]] loves my flesh and [[Blood|blood]]; he that loves my flesh and [[Blood|blood]] is my friend; ergo, he that kisses my wife is my friend. If men could be contented to be what they are, there were no [[Fear|fear]] in [[Marriage|marriage]]. For young Chairbonne the puritan and old Poisson the papist, howsome‘er their hearts are severed in religion, their heads are both one: they may jowl horns together like any deer i’th’ herd. |
-| COUNTESS | Wilt thou ever be a foul-mouthed and calumnious knave? |
-| LAVATCH | A [[Prophet|prophet]]? Ay, madam, and I speak the [[Truth|truth]] the next way. [He sings] For I the ballad will repeat, Which men full true shall find: Your [[Marriage|marriage]] comes by destiny, Your cuckoo sings by kind. |
-| COUNTESS | Get you gone, sir. I’ll talk with you more anon. |
-| REYNALDO | May it please you, madam, that he bid [[Helen]] come to you? Of her I am to speak. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--02_exchange_countess" data-title="Alls Well that Ends Well — Act I, Scene 3 — exchange (COUNTESS) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| COUNTESS | (to Lavatch) Sirrah, tell my gentlewoman I would speak with her. [[Helen]], I mean. |
-| LAVATCH | sings ‘Was this fair face the cause’, quoth she, ‘Why the Grecians sacked Troy? Fond done, done fond. Was this [[King]] Priam’s joy?’ With that she sighed as she stood, With that she sighed as she stood, And gave this sentence then: ‘Among nine bad if one be good, Among nine bad if one be good, There’s yet one good in ten.’ |
-| COUNTESS | What, ‘one good in ten’? You corrupt the [[Song|song]], sirrah. |
-| LAVATCH | One good woman in ten, madam, which is a purifying o‘th’ [[Song|song]]. Would God would serve the world so all the year! We’d find no fault with the tithe-woman if I were the parson. One in ten, quoth a? An we might have a good woman born but ere every blazing star, or at an earthquake, ’twould mend the lottery [[Well|well]]. A man may draw his heart out ere a pluck one. |
-| COUNTESS | You’ll be gone, sir knave, and do as I command you. |
-| LAVATCH | That man should be at woman’s command, and yet no hurt done! Though honesty be no puritan, yet it will do no hurt; it will wear the surplice of [[Humility|humility]] over the black gown of a big heart. I am going, forsooth. The business is for [[Helen]] to come hither. Exit |
-| COUNTESS | [[Well]] now. |
-| REYNALDO | I know, madam, you [[Love|love]] your gentlewoman entirely. |
-| COUNTESS | [[Faith]], I do. Her father bequeathed her to me, and she herself without other advantage may lawfully make title to as much [[Love|love]] as she finds. There is more owing her than is paid, and more shall be paid her than she’ll demand. |
-| REYNALDO | Madam, I was very late more near her than I think she wished me. [[Alone]] she was, and did communicate to herself, her own words to her own ears; she thought, I dare vow for her, they touched not any stranger sense. Her matter was, she loved your son. Fortune, she said, was no goddess, that had put such difference betwixt their two estates; [[Love]] no god, that would not extend his might only where qualities were level; Dian no [[Queen|queen]] of virgins, that would suffer her poor knight surprised without rescue in the first assault or ransom afterward. This she delivered in the most bitter touch of sorrow that e’er I heard virgin exclaim in; which I held my duty speedily to acquaint you withal, sithence in the loss that may happen it concerns you something to know it. |
-| COUNTESS | You have discharged this honestly. Keep it to yourself. Many likelihoods informed me of this before, which hung so tott’ring in the balance that I could neither believe nor misdoubt. Pray you, leave me. Stall this in your bosom, and I thank you for your honest care. I will speak with you further anon. Exit Steward Enter [[Helen]] |
-| COUNTESS | (aside) Even so it was with me when I was young. If ever we are [[Nature|nature]]’s, these are ours: this thorn Doth to our [[Rose|rose]] of youth rightly belong. Our [[Blood|blood]] to us, this to our [[Blood|blood]] is born; It is the show and seal of [[Nature|nature]]’s [[Truth|truth]], Where [[Love|love]]’s strong passion is impressed in youth. By our remembrances of days foregone, Such were our faults—or then we thought them none. Her eye is sick on’t. I observe her now. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--03_exchange_helen" data-title="Alls Well that Ends Well — Act I, Scene 3 — exchange (HELEN) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Helen|HELEN]] | What is your pleasure, madam? |
-| COUNTESS | You know, [[Helen]], I am a mother to you. |
-| [[Helen|HELEN]] | Mine honourable mistress. |
-| COUNTESS | Nay, a mother. Why not a mother? When I said ‘a mother’, Methought you saw a serpent. What’s in ‘mother’ That you start at it? I say I am your mother, And put you in the catalogue of those That were enwombèd mine. ’Tis often seen Adoption strives with [[Nature|nature]], and choice breeds A native slip to us from foreign seeds. You ne’er oppressed me with a mother’s groan, Yet I express to you a mother’s care. God’s [[Mercy|mercy]], maiden! Does it curd thy [[Blood|blood]] To say I am thy mother? What’s the matter, That this distempered messenger of wet, The many-coloured Iris, rounds thine eye? Why, that you are my daughter? |
-| [[Helen|HELEN]] | That I am not. |
-| COUNTESS | I say I am your mother. |
-| [[Helen|HELEN]] | Pardon, madam. The Count Roussillon cannot be my brother. I am from humble, he from honoured name; No note upon my parents, his all noble. My master, my dear lord he is, and I His servant live and will his vassal die. He must not be my brother. |
-| COUNTESS | Nor I your mother? |
-| [[Helen|HELEN]] | You are my mother, madam. Would you were— So that my lord your son were not my brother— Indeed my mother! Or were you both our mothers I care no more for than I do for heaven, So I were not his sister. Can’t no other But, I your daughter, he must be my brother? |
-| COUNTESS | Yes, [[Helen]], you might be my daughter-in-law. God shield you mean it not! ‘Daughter’ and ‘mother’ So strive upon your pulse. What, pale again? My [[Fear|fear]] hath catched your fondness. Now I see The myst‘ry of your [[Loneliness|loneliness]], and find Your salt [[Tears|tears]]’ head. Now to all sense ’tis gross: You [[Love|love]] my son. Invention is ashamed Against the proclamation of thy passion To say thou dost not. Therefore tell me true, But tell me then ‘tis so—for look, thy cheeks Confess it t’one to th‘other, and thine eyes See it so grossly shown in thy behaviours That in their kind they speak it. Only sin And hellish obstinacy tie thy tongue, That [[Truth|truth]] should be suspected. Speak, is’t so? If it be so you have wound a goodly clew; If it be not, forswear’t. Howe’er, I charge thee, As heaven shall work in me for thine avail, To tell me truly. |
-| [[Helen|HELEN]] | Good madam, pardon me. |
-| COUNTESS | Do you [[Love|love]] my son? |
-| [[Helen|HELEN]] | Your pardon, noble mistress. |
-| COUNTESS | [[Love]] you my son? |
-| [[Helen|HELEN]] | Do not you [[Love|love]] him, madam? |
-| COUNTESS | Go not about. My [[Love|love]] hath in’t a bond Whereof the world takes note. Come, come, disclose The state of your affection, for your passions Have to the full appeached. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--04_monologue_helen" data-title="Alls Well that Ends Well — Act I, Scene 3 — monologue (HELEN) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Helen|HELEN]] | Then I confess, Here on my knee, before high heaven and you, That before you and next unto high heaven I [[Love|love]] your son. My friends were poor but honest; so’s my [[Love|love]]. Be not offended, for it hurts not him That he is loved of me. I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him, Yet never know how that [[Desert|desert]] should be. I know I [[Love|love]] in vain, strive against [[Hope|hope]]; Yet in this captious and intenable sieve I still pour in the waters of my [[Love|love]] And lack not to lose still. Thus, Indian-like, Religious in mine error, I adore The sun that looks upon his worshipper But knows of him no more. My dearest madam, Let not your hate encounter with my [[Love|love]] For loving where you do; but if yourself, Whose aged [[Honour|honour]] cites a virtuous youth, Did ever in so true a flame of liking Wish chastely and [[Love|love]] dearly, that your Dian Was both herself and [[Love]], O then give pity To her whose state is such that cannot choose But lend and give where she is sure to lose, That seeks to find not that her search implies, But [[Riddle|riddle]]-like lives sweetly where she dies. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--05_exchange_countess" data-title="Alls Well that Ends Well — Act I, Scene 3 — exchange (COUNTESS) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| COUNTESS | Had you not lately an intent—speak truly— To go to [[Paris]]? |
-| [[Helen|HELEN]] | Madam, I had. |
-| COUNTESS | Wherefore? Tell true. |
-| [[Helen|HELEN]] | I will tell [[Truth|truth]], by grace itself I swear. You know my father left me some prescriptions Of rare and proved effects, such as his reading And manifest experience had collected For general sovereignty, and that he willed me In heedfull’st reservation to bestow them, As notes whose faculties inclusive were More than they were in note. Amongst the rest There is a remedy, approved, set down, To cure the desperate languishings whereof The [[King]] is rendered lost. |
-| COUNTESS | This was your motive For [[Paris]], was it? Speak. |
-| [[Helen|HELEN]] | My lord your son made me to think of this, Else [[Paris]] and the medicine and the [[King]] Had from the conversation of my thoughts Haply been absent then. |
-| COUNTESS | But think you, [[Helen]], If you should tender your supposed aid, He would receive it? He and his physicians Are of a mind: he, that they cannot help him; They, that they cannot help. How shall they credit A poor unlearned virgin, when the schools, Embowelled of their doctrine, have left off The danger to itself? |
-| [[Helen|HELEN]] | There’s something in’t More than my father’s skill, which was the great’st Of his profession, that his good receipt Shall for my legacy be sanctified By th’ luckiest [[Stars|stars]] in heaven, and would your [[Honour|honour]] But give me leave to try [[success]], I’d venture The [[Well|well]]-lost life of mine on his grace’s cure By such a day, an hour. |
-| COUNTESS | Dost thou believe’t? |
-| [[Helen|HELEN]] | Ay, madam, knowingly. |
-| COUNTESS | Why, [[Helen]], thou shalt have my leave and [[Love|love]], Means and attendants, and my loving greetings To those of mine in [[Court|court]]. I’ll stay at [[Home|home]] And pray God’s blessing into thy attempt. Be gone tomorrow, and be sure of this: What I can help thee to, thou shalt not miss. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Flourish of cornetts. Enter the [[King]] carried in a chair, with the two Lords [[Dumaine]], divers young lords taking leave for the Florentine war, and [[Bertram]] and Paroles |
-| [[King|KING]] | Farewell, young lords. These warlike principles Do not throw from you. And you, my lords, farewell. Share the advice betwixt you; if both gain all, The gift doth stretch itself as ’tis received, And is enough for both. |
-| FIRST LORD [[Dumaine|DUMAINE]] | ’Tis our [[Hope|hope]], sir, After [[Well|well]]-entered soldiers, to return And find your grace in health. |
-| [[King|KING]] | No, no, it cannot be—and yet my heart Will not confess he owes the malady That doth my life besiege. Farewell, young lords. Whether I live or die, be you the sons Of worthy Frenchmen; let higher [[Italy]]— Those bated that inherit but the fall Of the last monarchy—see that you come Not to woo [[Honour|honour]] but to wed it. When The bravest questant shrinks, find what you seek, That fame may cry you loud. I say farewell. |
-| FIRST LORD [[Dumaine|DUMAINE]] | Health at your bidding serve your majesty. |
-| [[King|KING]] | Those girls of [[Italy]], take heed of them. They say our French lack language to deny If they demand. Beware of being captives Before you serve. |
-| BOTH LORDS [[Dumaine|DUMAINE]] | Our hearts receive your warnings. |
-| [[King|KING]] | Farewell.—Come hither to me. Some lords stand aside with the [[King]] |
-| FIRST LORD [[Dumaine|DUMAINE]] | (to [[Bertram]]) O my sweet lord, that you will stay behind us. |
-| PAROLES | ’Tis not his fault, the spark. |
-| SECOND LORD [[Dumaine|DUMAINE]] | O ’tis brave wars. |
-| PAROLES | Most admirable! I have seen those wars. |
-| [[Bertram|BERTRAM]] | I am commanded here, and kept a coil with ‘Too young’ and ‘the next year’ and ‘’tis too early’. |
-| PAROLES | An thy mind stand to’t, boy, steal away bravely. |
-| [[Bertram|BERTRAM]] | I shall stay here the forehorse to a smock, Creaking my shoes on the plain masonry, Till [[Honour|honour]] be bought up, and no [[Sword|sword]] worn But one to [[Dance|dance]] with. By heaven, I’ll steal away. |
-| FIRST LORD [[Dumaine|DUMAINE]] | There’s [[Honour|honour]] in the theft. |
-| PAROLES | Commit it, Count. |
-| SECOND LORD [[Dumaine|DUMAINE]] | I am your accessary. And so, farewell. |
-| [[Bertram|BERTRAM]] | I grow to you, And our parting is a tortured [[Body|body]]. |
-| FIRST LORD [[Dumaine|DUMAINE]] | Farewell, captain. |
-| SECOND LORD [[Dumaine|DUMAINE]] | Sweet Monsieur Paroles. |
-| PAROLES | Noble heroes, my [[Sword|sword]] and yours are kin. Good sparks and lustrous, a word, good mettles. You shall find in the regiment of the Spinii one Captain Spurio, with his cicatrice, an emblem of war, here on his sinister cheek. It was this very [[Sword|sword]] entrenched it. Say to him I live, and observe his reports for me. |
-| FIRST LORD [[Dumaine|DUMAINE]] | We shall, noble captain. |
-| PAROLES | Mars dote on you for his novices. Exeunt both Lords [[Dumaine]] (To [[Bertram]]) What will ye do? |
-| [[Bertram|BERTRAM]] | Stay the [[King]]. |
-| PAROLES | Use a more spacious ceremony to the noble lords. You have restrained yourself within the list of too cold an adieu. Be more expressive to them, for they wear themselves in the cap of the [[Time|time]], there do muster true gait; eat, speak, and move under the influence of the most received star—and though the devil lead the measure, such are to be followed. After them, and take a more dilated farewell. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--02_exchange_bertram" data-title="Alls Well that Ends Well — Act II, Scene 1 — exchange (BERTRAM) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Bertram|BERTRAM]] | And I will do so. |
-| PAROLES | Worthy fellows, and like to prove most sinewy [[Sword|sword]]-men. Exeunt [[[Bertram]] and Paroles] Enter Lafeu to the [[King]] |
-| LAFEU | (kneeling) Pardon, my lord, for me and for my tidings. |
-| [[King|KING]] | I’ll fee thee to stand up. |
-| LAFEU | (rising) Then here’s a man stands that has bought his pardon. I would you had kneeled, my lord, to ask me [[Mercy|mercy]], And that at my bidding you could so stand up. |
-| [[King|KING]] | I would I had, so I had broke thy pate And asked thee [[Mercy|mercy]] for’t. |
-| LAFEU | Good [[Faith|faith]], across! But my good lord, ’tis thus: will you be cured Of your infirmity? |
-| [[King|KING]] | No. |
-| LAFEU | O will you eat No grapes, my royal fox? Yes, but you will, My noble grapes, an if my royal fox Could reach them. I have seen a medicine That’s able to breathe life into a stone, Quicken a rock, and make you [[Dance|dance]] canary With sprightly [[Fire|fire]] and motion; whose simple touch Is powerful to araise [[King]] Pépin, nay, To give great Charlemagne a pen in’s hand, And write to her a [[Love|love]]-line. |
-| [[King|KING]] | What ’her’ is this? |
-| LAFEU | Why, Doctor She. My lord, there’s one arrived, If you will see her. Now by my [[Faith|faith]] and [[Honour|honour]], If seriously I may convey my thoughts In this my light deliverance, I have spoke With one that in her sex, her years, profession, Wisdom and constancy, hath amazed me more Than I dare blame my weakness. Will you see her— For that is her demand—and know her business? That done, laugh [[Well|well]] at me. |
-| [[King|KING]] | Now, good Lafeu, Bring in the admiration, that we with thee May spend our [[Wonder|wonder]] too, or take off thine By wond‘ring how thou took’st it. |
-| LAFEU | Nay, I’ll fit you, And not be all day neither. He goes to the door |
-| [[King|KING]] | Thus he his special nothing ever prologues. |
-| LAFEU | ([[To Helen|to Helen]], within) Nay, come your ways. Enter [[Helen]] disguised |
-| [[King|KING]] | This haste hath wings indeed. |
-| LAFEU | ([[To Helen|to Helen]]) Nay, come your ways. This is his majesty. Say your mind to him. A traitor you do look like, but such traitors His majesty seldom fears. I am Cressid’s uncle, That dare leave two together. Fare you [[Well|well]]. Exeunt fall but the [[King]] and [[Helen]] |
-| [[King|KING]] | Now, fair one, does your business follow us? |
-| [[Helen|HELEN]] | Ay, my good lord. Gérard de Narbonne was my father; In what he did profess, [[Well|well]] found. |
-| [[King|KING]] | I knew him. |
-| [[Helen|HELEN]] | The rather will I spare my praises towards him; Knowing him is enough. On’s bed of [[Death|death]] Many receipts he gave me, chiefly one Which, as the dearest issue of his practice, And of his old experience th’only darling, He bade me store up as a triple eye Safer than mine own two, more dear. I have so, And hearing your high majesty is touched With that malignant cause wherein the [[Honour|honour]] no Of my dear father’s gift stands chief in power, I come to tender it and my appliance With all bound humbleness. |
-| [[King|KING]] | We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated College have concluded That labouring art can never ransom [[Nature|nature]] From her inaidable estate. I say we must not So stain our judgement or corrupt our [[Hope|hope]], To prostitute our past-cure malady To empirics, or to dissever so Our great [[Self|self]] and our credit, to esteem A senseless help, when help past sense we deem. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--03_exchange_helen" data-title="Alls Well that Ends Well — Act II, Scene 1 — exchange (HELEN) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Helen|HELEN]] | My duty then shall pay me for my pains. I will no more enforce mine office on you, Humbly entreating from your royal thoughts A modest one to bear me back again. |
-| [[King|KING]] | I cannot give thee less, to be called grateful. Thou thought‘st to help me, and such thanks I give As one near [[Death|death]] to those that wish him live. But what at full I know, thou know’st no part; I knowing all my peril, thou no art. |
-| [[Helen|HELEN]] | What I can do can do no hurt to try, Since you set up your rest ‘gainst remedy. He that of greatest works is finisher Oft does them by the weakest minister. So holy writ in babes hath judgement shown When judges have been babes; great floods have flow’n From simple sources, and great seas have dried. When miracles have by th’ great’st been denied Oft expectation fails, and most oft there Where most it promises, and oft it hits Where [[Hope|hope]] is coldest and [[Despair|despair]] most fits. |
-| [[King|KING]] | I must not hear thee. Fare thee [[Well|well]], kind maid. Thy pains, not used, must by thyself be paid: Proffers not took reap thanks for their reward. |
-| [[Helen|HELEN]] | Inspired merit so by breath is barred. It is not so with him that all things knows As ’tis with us that square our guess by shows; But most it is presumption in us when The help of heaven we count the act of men. Dear sir, to my endeavours give consent. Of heaven, not me, make an experiment. I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power, nor you past cure. |
-| [[King|KING]] | Art thou so confident? Within what space Hop’st thou my cure? |
-| [[Helen|HELEN]] | The great’st grace lending grace, Ere twice the horses of the sun shall bring Their fiery coacher his diurnal ring, Ere twice in murk and occidental damp Moist Hesperus hath quenched her sleepy lamp, Or four-and-twenty times the pilot’s glass Hath told the thievish minutes how they pass, What is infirm from your sound parts shall fly, Health shall live free, and sickness freely die. |
-| [[King|KING]] | Upon thy certainty and confidence What dar’st thou venture? |
-| [[Helen|HELEN]] | Tax of impudence, A strumpet’s boldness, a divulged shame; Traduced by odious ballads, my maiden’s name Seared otherwise, nay—worse of worst—extended With vilest torture, let my life be ended. |
-| [[King|KING]] | Methinks in thee some blessèd spirit doth speak, His powerful sound within an organ weak; And what impossibility would slay In common sense, sense saves another way. Thy life is dear, for all that life can rate Worth name of life in thee hath estimate: Youth, [[Beauty|beauty]], wisdom, [[Courage|courage]], all That happiness and prime can happy call. Thou this to hazard needs must intimate Skill infinite, or monstrous desperate. Sweet practiser, thy physic I will try, That ministers thine own [[Death|death]] if I die. |
-| [[Helen|HELEN]] | If I break [[Time|time]], or flinch in property Of what I spoke, unpitied let me die, And [[Well|well]] deserved. Not helping, [[Death|death]]’s my fee. But if I help, what do you promise me? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--04_exchange_king" data-title="Alls Well that Ends Well — Act II, Scene 1 — exchange (KING) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] | Make thy demand. |
-| [[Helen|HELEN]] | But will you make it even? |
-| [[King|KING]] | Ay, by my sceptre and my hopes of heaven. |
-| [[Helen|HELEN]] | Then shalt thou give me with thy kingly hand What husband in thy power I will command. Exempted be from me the arrogance To choose from forth the royal [[Blood|blood]] of France, My low and humble name to propagate With any branch or image of thy state; But such a one, thy vassal, whom I know Is free for me to ask, thee to bestow. |
-| [[King|KING]] | Here is my hand. The premises observed, Thy will by my performance shall be served. So make the choice of thy own [[Time|time]], for I, Thy resolved patient, on thee still rely. More should I question thee, and more I must, Though more to know could not be more to trust: From whence thou cam’st, how tended on—but rest Unquestioned welcome, and undoubted blessed.— Give me some help here, ho! If thou proceed As high as word, my deed shall match thy deed. Flourish. Exeunt the [[King]], carried, and [[Helen]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Bertram]], Lafeu with a ballad], and Paroles |
-| LAFEU | They say miracles are past, and we have our philosophical persons to make modern and familiar things [[Supernatural|supernatural]] and causeless. Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge when we should submit ourselves to an unknown [[Fear|fear]]. |
-| PAROLES | Why, ’tis the rarest argument of [[Wonder|wonder]] that hath shot out in our latter times. |
-| [[Bertram|BERTRAM]] | And so ’tis. |
-| LAFEU | To be relinquished of the artists— |
-| PAROLES | So I say—both of Galen and Paracelsus. |
-| LAFEU | Of all the learned and authentic Fellows— |
-| PAROLES | Right, so I say. |
-| LAFEU | That gave him out incurable— |
-| PAROLES | Why, there ’tis, so say I too. |
-| LAFEU | Not to be helped. |
-| PAROLES | Right, as ’twere a man assured of a— |
-| LAFEU | Uncertain life and sure [[Death|death]]. |
-| PAROLES | Just, you say [[Well|well]], so would I have said. |
-| LAFEU | I may truly say it is a novelty to the world. |
-| PAROLES | It is indeed. If you will have it in showing, you shall read it in [pointing to the ballad] what-do-ye-call there. |
-| LAFEU | reads ‘A showing of a heavenly effect in an earthly actor.’ |
-| PAROLES | That’s it, I would have said the very same. |
-| LAFEU | Why, your dolphin is not lustier. Fore me, I speak in respect— |
-| PAROLES | Nay, ‘tis strange, ’tis very strange, that is the brief and the tedious of it, and he’s of a most facinorous spirit that will not acknowledge it to be the— |
-| LAFEU | Very hand of heaven. |
-| PAROLES | Ay, so I say. |
-| LAFEU | In a most weak— |
-| PAROLES | And debile minister great power, great transcendence, which should indeed give us a further use to be made than [[Alone|alone]] the recov’ry of the [[King|king]], as to be— |
-| LAFEU | Generally thankful. Enter the [[King]], [[Helen]], and attendants |
-| PAROLES | I would have said it, you say [[Well|well]]. Here comes the [[King]]. |
-| LAFEU | Lustig, as the Dutchman says. I’ll like a maid the better whilst I have a tooth in my head. The [[King]] and [[Helen]] [[Dance|dance]] Why, he’s able to lead her a coranto. |
-| PAROLES | Mort du vinaigre, is not this [[Helen]]? |
-| LAFEU | Fore God, I think so. |
-| [[King|KING]] | Go call before me all the lords in [[Court|court]]. Exit one or more Sit, my preserver, by thy patient’s side, The [[King]] and [[Helen]] sit] And with this healthful hand whose banished sense Thou hast repealed, a second [[Time|time]] receive The confirmation of my promised gift, Which but attends thy naming. Enter four Lords Fair maid, send forth thine eye. This youthful parcel Of noble bachelors stand at my bestowing, O’er whom both sovereign power and father’s voice I have to use. Thy frank election make. Thou hast power to choose, and they none to forsake. |
-| [[Helen|HELEN]] | To each of you one fair and virtuous mistress Fall when [[Love|love]] please. Marry, to each but one. |
-| LAFEU | (aside) I’d give bay Curtal and his furniture My mouth no more were broken than these boys’, And writ as little beard. |
-| [[King|KING]] | ([[To Helen|to Helen]]) Peruse them [[Well|well]]. Not one of these but had a noble father. |
-| [[Helen|HELEN]] | Gentlemen, Heaven hath through me restored the [[King]] to health. ALL BUT [[Helen|HELEN]]] We understand it, and thank heaven for you. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--02_exchange_helen" data-title="Alls Well that Ends Well — Act II, Scene 3 — exchange (HELEN) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Helen|HELEN]] | I am a simple maid, and therein wealthiest That I protest I simply am a maid.— Please it your majesty, I have done already. The blushes in my cheeks thus whisper me: ‘We blush that thou shouldst choose; but, be refused, Let the white [[Death|death]] sit on thy cheek for ever, We’ll ne’er come there again.’ |
-| [[King|KING]] | Make choice and see. Who shuns thy [[Love|love]] shuns all his [[Love|love]] in me. |
-| [[Helen|HELEN]] | (rising) Now, Dian, from thy altar do I fly, And to imperial [[Love]], that god most high, Do my sighs stream. She addresses her to a Lord] Sir, will you hear my suit? |
-| FIRST LORD | And grant it. |
-| [[Helen|HELEN]] | Thanks, sir. All the rest is mute. |
-| LAFEU | (aside) I had rather be in this choice than throw ambs-ace for my life. |
-| [[Helen|HELEN]] | (to another Lord) The [[Honour|honour]], sir, that flames in your fair eyes, Before I speak, too threat’ningly replies. [[Love]] make your fortunes twenty times above Her that so wishes, and her humble [[Love|love]]. |
-| SECOND LORD | No better, if you please. |
-| [[Helen|HELEN]] | My wish receive, Which great [[Love]] grant. And so I take my leave. |
-| LAFEU | (aside) Do all they deny her? An they were sons of mine I’d have them whipped, or I would send them to th’ Turk to make eunuchs of. |
-| [[Helen|HELEN]] | (to another Lord) Be not afraid that I your hand should take; I’ll never do you wrong for your own sake. Blessing upon your vows, and in your bed Find fairer fortune, if you ever wed. |
-| LAFEU | (aside) These boys are boys of ice, they’ll none have her. Sure they are bastards to the English, the French ne‘er got ’em. |
-| [[Helen|HELEN]] | (to another Lord) You are too young, too happy, and too good To make yourself a son out of my [[Blood|blood]]. |
-| FOURTH LORD | Fair one, I think not so. |
-| LAFEU | (aside) There’s one grape yet. I am sure thy father drunk wine, but if thou beest not an ass I am a youth of fourteen. I have known thee already. |
-| [[Helen|HELEN]] | (to [[Bertram]]) I dare not say I take you, but I give Me and my service ever whilst I live Into your guiding power.—This is the man. |
-| [[King|KING]] | Why then, young [[Bertram]], take her, she’s thy wife. |
-| [[Bertram|BERTRAM]] | My wife, my liege? I shall beseech your highness, In such a business give me leave to use The help of mine own eyes. |
-| [[King|KING]] | Know’st thou not, [[Bertram]], What she has done for me? |
-| [[Bertram|BERTRAM]] | Yes, my good lord, But never [[Hope|hope]] to know why I should marry her. |
-| [[King|KING]] | Thou know’st she has raised me from my sickly bed. |
-| [[Bertram|BERTRAM]] | But follows it, my lord, to bring me down Must answer for your raising? I know her [[Well|well]]: She had her breeding at my father’s charge. A poor physician’s daughter, my wife? Disdain Rather corrupt me ever. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--03_monologue_king" data-title="Alls Well that Ends Well — Act II, Scene 3 — monologue (KING) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] | ‘Tis only title thou disdain’st in her, the which I can build up. Strange is it that our bloods, Of colour, weight, and heat, poured all together, Would quite confound distinction, yet stands off In differences so mighty. If she be All that is virtuous, save what thou distik’st— ‘A poor physician’s daughter’—thou dislik’st Of virtue for the name. But do not so. From lowest place when virtuous things proceed, The place is dignified by th’ doer’s deed. Where great additions swell’s, and virtue none, It is a dropsied [[Honour|honour]]. Good [[Alone|alone]] Is good without a name, vileness is so: The property by what it is should go, Not by the title. She is young, wise, fair. In these to [[Nature|nature]] she’s immediate heir, And these breed [[Honour|honour]]. That is [[Honour|honour]]’s scorn Which challenges itself as [[Honour|honour]]’s born And is not like the sire; honours thrive When rather from our acts we them derive Than our foregoers. The mere word’s a slave, Debauched on every tomb, on every [[Grave|grave]] A lying trophy, and as oft is dumb Where [[Dust|dust]] and dammed oblivion is the tomb Of honoured bones indeed. What should be said? If thou canst like this creature as a maid, I can create the rest. Virtue and she Is her own dower; [[Honour|honour]] and wealth from me. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--04_exchange_bertram" data-title="Alls Well that Ends Well — Act II, Scene 3 — exchange (BERTRAM) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Bertram|BERTRAM]] | I cannot [[Love|love]] her, nor will strive to do’t. |
-| [[King|KING]] | Thou wrong’st thyself. If thou shouldst strive to choose— |
-| [[Helen|HELEN]] | That you are [[Well|well]] restored, my lord, I’m glad. Let the rest go. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--05_monologue_king" data-title="Alls Well that Ends Well — Act II, Scene 3 — monologue (KING) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] | My [[Honour|honour]]’s at the stake, which to defeat I must produce my power. Here, take her hand, Proud, scornful boy, unworthy this good gift, That dost in vile misprision shackle up My [[Love|love]] and her [[Desert|desert]]; that canst not dream We, poising us in her defective scale, Shall weigh thee to the beam; that wilt not know It is in us to plant thine [[Honour|honour]] where We please to have it grow. Check thy contempt; Obey our will, which travails in thy good; Believe not thy disdain, but presently Do thine own fortunes that obedient right Which both thy duty owes and our power claims, Or I will throw thee from my care for ever Into the staggers and the careless lapse Of youth and ignorance, both my [[Revenge|revenge]] and hate Loosing upon thee in the name of justice Without all terms of pity. Speak. Thine answer. [[Bertram|BERTRAM]]) (kneeling) Pardon, my gracious lord, for I submit My fancy to your eyes. When I consider What great creation and what dole of [[Honour|honour]] Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the [[King]]; who, so ennobled, Is as ’twere born so. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--06_exchange_king" data-title="Alls Well that Ends Well — Act II, Scene 3 — exchange (KING) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] | Take her by the hand And tell her she is thine; to whom I promise A counterpoise, if not to thy estate A balance more replete. |
-| [[Bertram|BERTRAM]] | (rising) I take her hand. |
-| [[King|KING]] | Good fortune and the favour of the [[King]] Smile upon this contract, whose ceremony Shall seem expedient on the now-born brief, And be performed tonight. The solemn feast Shall more attend upon the coming space, Expecting absent friends. As thou lov’st her Thy [[Love|love]]’s to me religious; else, does err. Flourish. Exeunt all but Paroles and Lafeu, who stay behind, commenting on this wedding |
-| LAFEU | Do you hear, monsieur? A word with you. PAROLES Your pleasure, sir. |
-| LAFEU | Your lord and master did [[Well|well]] to make his recantation. |
-| PAROLES | Recantation? My lord? My master? |
-| LAFEU | Ay. Is it not a language I speak? |
-| PAROLES | A most harsh one, and not to be understood without bloody succeeding. My master? |
-| LAFEU | Are you companion to the Count Roussillon? |
-| PAROLES | To any count, to all counts, to what is man. |
-| LAFEU | To what is count’s man; count’s master is of another style. |
-| PAROLES | You are too old, sir. Let it satisfy you, you are too old. |
-| LAFEU | I must tell thee, sirrah, I write ‘Man’, to which title age cannot bring thee. |
-| PAROLES | What I dare too [[Well|well]] do I dare not do. |
-| LAFEU | I did think thee for two ordinaries to be a pretty wise fellow. Thou didst make tolerable vent of thy travel; it might pass. Yet the scarves and the bannerets about thee did manifoldly dissuade me from believing thee a vessel of too great a burden. I have now found thee; when I lose thee again I care not. Yet art thou good for nothing but taking up, and that thou’rt scarce worth. |
-| PAROLES | Hadst thou not the privilege of antiquity upon thee— |
-| LAFEU | Do not plunge thyself too far in anger, lest thou hasten thy trial, which if—Lord have [[Mercy|mercy]] on thee for a hen! So, my good [[Window|window]] of lattice, fare thee [[Well|well]]. Thy casement I need not open, for I look through thee. Give me thy hand. 216 |
-| PAROLES | My lord, you give me most egregious indignity. |
-| LAFEU | Ay, with all my heart, and thou art worthy of it. PAROLES I have not, my lord, deserved it. |
-| LAFEU | Yes, good [[Faith|faith]], every dram of it, and I will not bate thee a scruple. |
-| PAROLES | [[Well]], I shall be wiser. |
-| LAFEU | E‘en as soon as thou canst, for thou hast to pull at a smack o’th’ contrary. If ever thou beest bound in thy scarf and beaten thou shall find what it is to be proud of thy bondage. I have a [[Desire|desire]] to hold my acquaintance with thee, or rather my knowledge, that I may say in the default, ‘He is a man I know’. |
-| PAROLES | My lord, you do me most insupportable vexation. |
-| LAFEU | I would it were hell-pains for thy sake, and my poor doing eternal; for doing I am past, as I will by thee, in what motion age will give me leave. Exit |
-| PAROLES | [[Well]], thou hast a son shall take this disgrace off me. Scurvy, old, filthy, scurvy lord. [[Well]], I must be patient. There is no fettering of authority. I’ll beat him, by my life, if I can meet him with any convenience, an he were [[Double|double]] and [[Double|double]] a lord. I’ll have no more pity of his age than I would have of—I’ll beat him, an if I could but meet him again. Enter Lafeu |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--07_exchange_lafeu" data-title="Alls Well that Ends Well — Act II, Scene 3 — exchange (LAFEU) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LAFEU | Sirrah, your lord and master’s married. There’s news for you: you have a new mistress. |
-| PAROLES | I most unfeignedly beseech your lordship to make some reservation of your wrongs. He is my good lord; whom I serve above is my master. |
-| LAFEU | Who? God? |
-| PAROLES | Ay, sir. |
-| LAFEU | The devil it is that’s thy master. Why dost thou garter up thy arms o’ this fashion? Dost make hose of thy sleeves? Do other servants so? Thou wert best set thy lower part where thy nose stands. By mine [[Honour|honour]], if I were but two hours younger I’d beat thee. Methink’st thou art a general offence and every man should beat thee. I think thou wast created for men to breathe themselves upon thee. |
-| PAROLES | This is hard and undeserved measure, my lord. |
-| LAFEU | Go to, sir. You were beaten in [[Italy]] for picking a kernel out of a pomegranate, you are a vagabond and no true traveller, you are more saucy with lords and honourable personages than the commission of your birth and virtue gives you heraldry. You are not worth another word, else I’d call you knave. I leave you. Exit |
-| PAROLES | Good, very good, it is so then. Good, very good, let it be concealed awhile. [Enter [[Bertram]]] |
-| [[Bertram|BERTRAM]] | Undone and forfeited to cares for ever. |
-| PAROLES | What’s the matter, sweetheart? |
-| [[Bertram|BERTRAM]] | Although before the solemn priest I have sworn, I will not bed her. |
-| PAROLES | What, what, sweetheart? |
-| [[Bertram|BERTRAM]] | O my Paroles, they have married me. I’ll to the Tuscan wars and never bed her. |
-| PAROLES | France is a dog-hole, and it no more merits The tread of a man’s foot. To th’ wars! |
-| [[Bertram|BERTRAM]] | There’s letters from my mother. What th’import is I know not yet. |
-| PAROLES | Ay, that would be known. To th’ wars, my boy, to th’ wars! 275 He wears his [[Honour|honour]] in a box unseen That hugs his kicky-wicky here at [[Home|home]], Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed. To other regions! France is a stable, we that dwell in’t jades. Therefore to th’ war. |
-| [[Bertram|BERTRAM]] | It shall be so. I’ll send her to my [[house]], Acquaint my mother with my hate to her, And wherefore I am fled, write to the [[King]] That which I durst not speak. His present gift Shall furnish me to those Italian fields Where noble fellows strike. Wars is no strife To the dark [[house]] and the detested wife. |
-| PAROLES | Will this capriccio hold in thee? Art sure? |
-| [[Bertram|BERTRAM]] | Go with me to my chamber and advise me. I’ll send her straight away. Tomorrow I’ll to the wars, she to her single sorrow. |
-| PAROLES | Why, these balls bound, there’s noise in it. ‘Tis hard: A young man married is a man that’s marred. Therefore away, and leave her bravely. Go. The [[King]] has done you wrong, but hush ’tis so. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the two Captains [[Dumaine]] and some two or three soldiers |
-| FIRST LORD [[Dumaine|DUMAINE]] | You have not given him his mother’s letter? |
-| SECOND LORD [[Dumaine|DUMAINE]] | I have delivered it an hour since. There is something in’t that stings his [[Nature|nature]], for on the reading it he changed almost into another man. |
-| FIRST LORD [[Dumaine|DUMAINE]] | He has much worthy blame laid upon him for shaking off so good a wife and so sweet a lady. |
-| SECOND LORD [[Dumaine|DUMAINE]] | Especially he hath incurred the everlasting displeasure of the [[King]], who had even tuned his bounty to sing happiness to him. I will tell you a thing, but you shall let it dwell darkly with you. |
-| FIRST LORD [[Dumaine|DUMAINE]] | When you have spoken it ’tis dead, and I am the [[Grave|grave]] of it. |
-| SECOND LORD [[Dumaine|DUMAINE]] | He hath perverted a young gentlewoman here in Florence of a most chaste renown, and this [[Night|night]] he fleshes his will in the spoil of her [[Honour|honour]]. He hath given her his monumental ring, and thinks himself made in the unchaste composition. |
-| FIRST LORD [[Dumaine|DUMAINE]] | Now God delay our rebellion! As we are ourselves, what things are we. |
-| SECOND LORD [[Dumaine|DUMAINE]] | Merely our own traitors. And as in the common course of all treasons we still see them reveal themselves till they attain to their abhorred ends, so he that in this action contrives against his own nobility, in his proper stream o’erflows himself. |
-| FIRST LORD [[Dumaine|DUMAINE]] | Is it not meant damnable in us to be trumpeters of our unlawful intents? We shall not then have his company tonight? |
-| SECOND LORD [[Dumaine|DUMAINE]] | Not till after midnight, for he is dieted to his hour. |
-| FIRST LORD [[Dumaine|DUMAINE]] | That approaches apace. I would gladly have him see his company anatomized, that he might take a measure of his own judgements, wherein so curiously he had set this counterfeit. |
-| SECOND LORD [[Dumaine|DUMAINE]] | We will not meddle with him till he come, for his presence must be the whip of the other. |
-| FIRST LORD [[Dumaine|DUMAINE]] | In the mean [[Time|time]], what hear you of these wars? |
-| SECOND LORD [[Dumaine|DUMAINE]] | I hear there is an overture of peace. |
-| FIRST LORD [[Dumaine|DUMAINE]] | Nay, I assure you, a peace concluded. |
-| SECOND LORD [[Dumaine|DUMAINE]] | What will Count Roussillon do then? Will he travel higher, or return again into France? |
-| FIRST LORD [[Dumaine|DUMAINE]] | I perceive by this demand you are not altogether of his council. |
-| SECOND LORD [[Dumaine|DUMAINE]] | Let it be forbid, sir; so should I be a great deal of his act. |
-| FIRST LORD [[Dumaine|DUMAINE]] | Sir, his wife some two months since fled from his [[house]]. Her pretence is a pilgrimage to Saint [[Jaques]] le Grand, which holy undertaking with most austere sanctimony she accomplished, and there residing, the tenderness of her [[Nature|nature]] became as a prey to her grief: in fine, made a groan of her last breath, and now she sings in heaven. |
-| SECOND LORD [[Dumaine|DUMAINE]] | How is this justified? |
-| FIRST LORD [[Dumaine|DUMAINE]] | The stronger part of it by her own letters, which makes her story true even to the point of her [[Death|death]]. Her [[Death|death]] itself, which could not be her office to say is come, was faithfully confirmed by the rector of the place. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--02_exchange_second_lord_dumaine" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (SECOND LORD DUMAINE) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SECOND LORD [[Dumaine|DUMAINE]] | Hath the Count all this intelligence? |
-| FIRST LORD [[Dumaine|DUMAINE]] | Ay, and the particular confirmations, point from point, to the full arming of the verity. |
-| SECOND LORD [[Dumaine|DUMAINE]] | I am heartily sorry that he’ll be glad of this. |
-| FIRST LORD [[Dumaine|DUMAINE]] | How mightily sometimes we make us comforts of our losses. |
-| SECOND LORD [[Dumaine|DUMAINE]] | And how mightily some other times we drown our gain in [[Tears|tears]]. The great dignity that his valour hath here acquired for him shall at [[Home|home]] be encountered with a shame as ample. |
-| FIRST LORD [[Dumaine|DUMAINE]] | The web of our life is of a mingled yarn, good and ill together. Our virtues would be proud if our faults whipped them not, and our crimes would [[Despair|despair]] if they were not cherished by our virtues. Enter a Servant How now? Where’s your master? |
-| SERVANT | He met the Duke in the street, sir, of whom he hath taken a solemn leave. His lordship will next morning for France. The Duke hath offered him letters of commendations to the [[King]]. |
-| SECOND LORD [[Dumaine|DUMAINE]] | They shall be no more than needful there, if they were more than they can commend. Enter [[Bertram]] FIRST LORD [[Dumaine|DUMAINE]] They cannot be too sweet for the [[King]]’s tartness. Here’s his lordship now. How now, my lord, is’t not after midnight? |
-| [[Bertram|BERTRAM]] | I have tonight dispatched sixteen businesses, a month’s length apiece. By an abstract of [[success]]: I have congéd with the Duke, done my adieu with his nearest, buried a wife, mourned for her, writ to my lady mother I am returning, entertained my convoy, and between these main parcels of dispatch affected many nicer needs. The last was the greatest, but that I have not ended yet. |
-| SECOND LORD [[Dumaine|DUMAINE]] | If the business be of any difficulty, and this morning your departure hence, it requires haste of your lordship. |
-| [[Bertram|BERTRAM]] | I mean the business is not ended, as fearing to hear of it hereafter. But shall we have this dialogue between the [[Fool]] and the Soldier? Come, bring forth this counterfeit model, has deceived me like a [[Double|double]]-meaning prophesier. |
-| SECOND LORD [[Dumaine|DUMAINE]] | Bring him forth. Exit one or more He’s sat i’th’ stocks all [[Night|night]], poor gallant knave. 105 |
-| [[Bertram|BERTRAM]] | No matter, his heels have deserved it in usurping his spurs so long. How does he carry himself? |
-| SECOND LORD [[Dumaine|DUMAINE]] | I have told your lordship already, the stocks carry him. But to answer you as you would be understood, he weeps like a wench that had shed her milk. He hath confessed himself to Morgan, whom he supposes to be a friar, from the [[Time|time]] of his remembrance to this very instant disaster of his setting i’th’ stocks. And what think you he hath confessed? |
-| [[Bertram|BERTRAM]] | Nothing of me, has a? |
-| SECOND LORD [[Dumaine|DUMAINE]] | His confession is taken, and it shall be read to his face. If your lordship be in’t, as I believe you are, you must have the patience to hear it. Enter Paroles guarded and blindfolded, with the Interpreter |
-| [[Bertram|BERTRAM]] | A plague upon him! Muffled! He can say nothing of me. FIRST LORD [[Dumaine|DUMAINE]] (aside to [[Bertram]]) Hush, hush. SECOND LORD [[Dumaine|DUMAINE]] (aside to [[Bertram]]) Hoodman comes. (Aloud) Porto tartarossa. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--03_exchange_interpreter" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (INTERPRETER) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| INTERPRETER | (to Paroles) He calls for the tortures. What will you say without ’em? |
-| PAROLES | I will confess what I know without constraint. If ye pinch me like a pasty I can say no more. |
-| INTERPRETER | Bosko chimurcho. SECOND LORD [[Dumaine|DUMAINE]] Boblibindo chicurmurco. |
-| INTERPRETER | You are a merciful general.—Our general bids you answer to what I shall ask you out of a note. |
-| PAROLES | And truly, as I [[Hope|hope]] to live. |
-| INTERPRETER | reads ‘First demand of him how many [[Horse|horse]] the Duke is strong.’—What say you to that? |
-| PAROLES | Five or six thousand, but very weak and unserviceable. The troops are all scattered and the commanders very poor rogues, upon my reputation and credit, and as I [[Hope|hope]] to live. |
-| INTERPRETER | Shall I set down your answer so? 139 |
-| PAROLES | Do. I’ll take the sacrament on’t, how and which way you will. FIRST LORD [[Dumaine|DUMAINE]] (aside) All’s one to him. |
-| [[Bertram|BERTRAM]] | (aside) What a past-saving slave is this! |
-| FIRST LORD [[Dumaine|DUMAINE]] | (aside) You’re deceived, my lord. This is Monsieur Paroles, the ‘gallant militarist’—that was his own phrase—that had the whole theoric of war in the knot of his scarf, and the practice in the chape of his dagger. |
-| SECOND LORD [[Dumaine|DUMAINE]] | (aside) I will never trust a man again for keeping his [[Sword|sword]] clean, nor believe he can have everything in him by wearing his apparel neatly. |
-| INTERPRETER | (to Paroles) [[Well]], that’s set down. |
-| PAROLES | ‘Five or six thousand [[Horse|horse]],’ I said—I will say true—’or thereabouts’ set down, for I’ll speak [[Truth|truth]]. |
-| FIRST LORD [[Dumaine|DUMAINE]] | (aside) He’s very near the [[Truth|truth]] in this. |
-| [[Bertram|BERTRAM]] | (aside) But I con him no thanks for’t in the [[Nature|nature]] he delivers it. |
-| PAROLES | ‘Poor rogues’, I pray you say. |
-| INTERPRETER | [[Well]], that’s set down. |
-| PAROLES | I humbly thank you, sir. A [[Truth|truth]]’s a [[Truth|truth]]. The rogues are marvellous poor. |
-| INTERPRETER | reads ‘Demand of him of what strength they are a-foot.’-What say you to that? |
-| PAROLES | By my troth, sir, if I were to die this present hour, I will tell true. Let me see, Spurio a hundred and fifty; [[Sebastian]] so many; Corambus so many; [[Jaques]] so many; Guillaume, Cosmo, Lodowick, and Gratii, two hundred fifty each; mine own company, Chitopher, Vaumond, Bentii, two hundred fifty each. So that the muster file, rotten and sound, upon my life amounts not to fifteen thousand poll, half of the which dare not shake the [[Snow|snow]] from off their cassocks lest they shake themselves to pieces. |
-| [[Bertram|BERTRAM]] | (aside) What shall be done to him? 175 |
-| FIRST LORD [[Dumaine|DUMAINE]] | (aside) Nothing, but let him have thanks. (To Interpreter) Demand of him my condition, and what credit I have with the Duke. |
-| INTERPRETER | (to Paroles) [[Well]], that’s set down. Reads ‘You shall demand of him, whether one Captain [[Dumaine]] be i’th’ camp, a Frenchman; what his reputation is with the Duke; what his valour, honesty, and expertness in wars; or whether he thinks it were not possible with [[Well|well]]-weighing sums of gold to corrupt him to a revolt.’—What say you to this? What do you know of it? 186 |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--04_exchange_paroles_i" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (PAROLES I) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PAROLES | I beseech you let me answer to the particular of the inter’gatories. Demand them singly. |
-| INTERPRETER | Do you know this Captain [[Dumaine]]? |
-| PAROLES | I know him. A was a botcher’s prentice in [[Paris]], from whence he was whipped for getting the sheriff’s [[Fool|fool]] with [[Child|child]]—dumb [[Innocent|innocent]] that could not say him nay. 193 |
-| [[Bertram|BERTRAM]] | (aside to First Lord [[Dumaine]]) Nay, by your leave, hold your hands, though I know his brains are forfeit to the next tile that falls. |
-| INTERPRETER | [[Well]], is this captain in the Duke of Florence’s camp? |
-| PAROLES | Upon my knowledge he is, and lousy. 199 |
-| FIRST LORD [[Dumaine|DUMAINE]] | (aside) Nay, look not so upon me: we shall hear of your lordship anon. |
-| INTERPRETER | What is his reputation with the Duke? |
-| PAROLES | The Duke knows him for no other but a poor officer of mine, and writ to me this other day to turn him out o’th’ band. I think I have his letter in my pocket. 206 INTERPRETER Marry, we’ll search. |
-| PAROLES | In good sadness, I do not know. Either it is there, or it is upon a file with the Duke’s other letters in my tent. 210 |
-| INTERPRETER | Here ’tis, here’s a paper. Shall I read it to you? |
-| PAROLES | I do not know if it be it or no. |
-| [[Bertram|BERTRAM]] | (aside) Our interpreter does it [[Well|well]]. |
-| FIRST LORD [[Dumaine|DUMAINE]] | (aside) Excellently. |
-| INTERPRETER | (reads the letter) ‘Dian, the Count’s a [[Fool|fool]], and full of gold.’ |
-| PAROLES | That is not the Duke’s letter, sir. That is an advertisement to a proper maid in Florence, one [[Diana]], to take heed of the allurement of one Count Roussillon, a foolish idle boy, but for all that very ruttish. I pray you, sir, put it up again. |
-| INTERPRETER | Nay, I’ll read it first, by your favour. |
-| PAROLES | My meaning in’t, I protest, was very honest in the behalf of the maid, for I knew the young Count to be a dangerous and lascivious boy, who is a whale to virginity, and devours up all the fry it finds. [[Bertram|BERTRAM]] (aside) Damnable both-sides rogue. |
-| INTERPRETER | (reads) ‘When he swears oaths, bid him drop gold, and take it. After he scores he never pays the score. Half-won is match [[Well|well]] made; match, and [[Well|well]] make it. He ne’er pays after-debts, take it before. And say a soldier, Dian, told thee this: Men are to mell with, boys are not to kiss. For count of this, the Count’s a [[Fool|fool]], I know it, Who pays before, but not when he does owe it. Thine, as he vowed to thee in thine ear, Paroles.’ |
-| [[Bertram|BERTRAM]] | (aside) He shall be whipped through the army with this rhyme in’s forehead. |
-| SECOND LORD [[Dumaine|DUMAINE]] | (aside) This is your devoted friend, sir, the manifold linguist and the armipotent soldier. |
-| [[Bertram|BERTRAM]] | (aside) I could endure anything before but a cat, and now he’s a cat to me. |
-| INTERPRETER | I perceive, sir, by the general’s looks, we shall be fain to hang you. |
-| PAROLES | My life, sir, in any case! Not that I am afraid to die, but that, my offences being many, I would repent out the remainder of [[Nature|nature]]. Let me live, sir, in a dungeon, i’th’ stocks, or anywhere, so I may live. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--05_exchange_interpreter" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (INTERPRETER) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| INTERPRETER | We’ll see what may be done, so you confess freely. Therefore once more to this Captain [[Dumaine]]. You have answered to his reputation with the Duke, and to his valour. What is his honesty? |
-| PAROLES | He will steal, sir, an egg out of a cloister. For rapes and ravishments he parallels Nessus. He professes not keeping of oaths; in breaking ’em he is stronger than Hercules. He will lie, sir, with such volubility that you would think [[Truth|truth]] were a [[Fool|fool]]. Drunkenness is his best virtue, for he will be swine-drunk, and in his [[Sleep|sleep]] he does little harm, save to his bedclothes; but they about him know his conditions, and lay him in straw. I have but little more to say, sir, of his honesty. He has everything that an honest man should not have; what an honest man should have, he has nothing. |
-| FIRST LORD [[Dumaine|DUMAINE]] | (aside) I begin to [[Love|love]] him for this. |
-| [[Bertram|BERTRAM]] | (aside) For this description of thine honesty? A pox upon him! For me, he’s more and more a cat. |
-| INTERPRETER | What say you to his expertness in war? |
-| PAROLES | [[Faith]], sir, he’s led the drum before the English tragedians. To belie him I will not, and more of his soldiership I know not, except in that country he had the [[Honour|honour]] to be the officer at a place there called Mile End, to instruct for the doubling of files. I would do the man what [[Honour|honour]] I can, but of this I am not certain. |
-| FIRST LORD [[Dumaine|DUMAINE]] | (aside) He hath out-villained villainy so far that the rarity redeems him. |
-| [[Bertram|BERTRAM]] | (aside) A pox on him! He’s a cat still. |
-| INTERPRETER | His qualities being at this poor price, I need not to ask you if gold will corrupt him to revolt. |
-| PAROLES | Sir, for a quart d‘écu he will sell the fee-simple of his salvation, the inheritance of it, and cut th’entail from all remainders, and a perpetual succession for it perpetually. |
-| INTERPRETER | What’s his brother, the other Captain [[Dumaine]]? 285 |
-| SECOND LORD [[Dumaine|DUMAINE]] | (aside) Why does he ask him of me? |
-| INTERPRETER | What’s he? |
-| PAROLES | E‘en a crow o’th’ same nest. Not altogether so great as the first in goodness, but greater a great deal in evil. He excels his brother for a coward, yet his brother is reputed one of the best that is. In a retreat he outruns any lackey; marry, in coming on he has the cramp. |
-| INTERPRETER | If your life be saved will you undertake to betray the Florentine? 295 |
-| PAROLES | Ay, and the captain of his [[Horse|horse]], Count Roussillon. |
-| INTERPRETER | I’ll whisper with the general and know his pleasure. |
-| PAROLES | I’ll no more drumming. A plague of all drums! Only to seem to deserve [[Well|well]], and to beguile the supposition of that lascivious young boy, the Count, have I run into this danger. Yet who would have suspected an ambush where I was taken? |
-| INTERPRETER | There is no remedy, sir, but you must die. The general says you that have so traitorously discovered the [[Secrets|secrets]] of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die.-Come, headsman, off with his head. 310 |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--06_exchange_paroles_o" data-title="Alls Well that Ends Well — Act IV, Scene 3 — exchange (PAROLES O) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PAROLES | O Lord, sir!—Let me live, or let me see my [[Death|death]]! |
-| INTERPRETER | That shall you, and take your leave of all your friends. He unmuffles Paroles So, look about you. Know you any here? |
-| [[Bertram|BERTRAM]] | Good morrow, noble captain. 315 |
-| SECOND LORD [[Dumaine|DUMAINE]] | God bless you, Captain Paroles. |
-| FIRST LORD [[Dumaine|DUMAINE]] | God save you, noble captain. |
-| SECOND LORD [[Dumaine|DUMAINE]] | Captain, what greeting will you to my Lord Lafeu? I am for France. |
-| FIRST LORD [[Dumaine|DUMAINE]] | Good captain, will you give me a copy of the [[Sonnet|sonnet]] you writ to [[Diana]] in behalf of the Count Roussillon? An I were not a very coward I’d compel it of you. But fare you [[Well|well]]. Exeunt all but Paroles and Interpreter |
-| INTERPRETER | You are undone, captain-all but your scarf; that has a knot on’t yet. 325 |
-| PAROLES | Who cannot be crushed with a plot? |
-| INTERPRETER | If you could find out a country where but women were that had received so much shame, you might begin an impudent nation. Fare ye [[Well|well]], sir. I am for France too. We shall speak of you there. Exit |
-| PAROLES | Yet am I thankful. If my heart were great ‘Twould burst at this. Captain I’ll be no more, But I will eat and drink and [[Sleep|sleep]] as soft As captain shall. Simply the thing I am Shall make me live. Who knows himself a braggart, Let him [[Fear|fear]] this, for it will come to pass That every braggart shall be found an ass. Rust, [[Sword|sword]]; cool, blushes; and Paroles live Safest in shame; being fooled, by [[Fool|fool]]’ry thrive. There’s place and means for every man alive. I’ll after them. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--01_exchange_dialogue" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Flourish of trumpets. Enter the [[King]], the old Countess, Lafeu, and attendants |
-| [[King|KING]] | We lost a [[Jewel|jewel]] of her, and our esteem Was made much poorer by it. But your son, As mad in folly, lacked the sense to know Her estimation [[Home|home]]. |
-| COUNTESS | ‘Tis past, my liege, And I beseech your majesty to make it Natural rebellion done i’th’ blade of youth, When oil and [[Fire|fire]], too strong for reason’s force, O’erbears it and burns on. |
-| [[King|KING]] | My honoured lady, I have forgiven and forgotten all, Though my revenges were high bent upon him 10 And watched the [[Time|time]] to shoot. |
-| LAFEU | This I must say- But first I beg my pardon—the young lord Did to his majesty, his mother, and his lady Offence of mighty note, but to himself The greatest wrong of all. He lost a wife 15 Whose [[Beauty|beauty]] did astonish the survey Of richest eyes, whose words all ears took captive, Whose dear perfection hearts that scorned to serve Humbly called mistress. |
-| [[King|KING]] | Praising what is lost Makes the remembrance dear. [[Well]], call him hither. We are reconciled, and the first view shall kill All repetition. Let him not ask our pardon. The [[Nature|nature]] of his great offence is dead, And deeper than oblivion we do bury Th‘incensing relics of it. Let him approach A stranger, no offender; and inform him So ’tis our will he should. |
-| ATTENDANT | I shall, my liege. Exit |
-| [[King|KING]] | (to Lafeu) What says he to your daughter? Have you spoke? |
-| LAFEU | All that he is hath reference to your highness. |
-| [[King|KING]] | Then shall we have a match. I have letters sent me That sets him high in fame. Enter [[Bertram]] with a patch of velvet on his left cheek, and kneels |
-| LAFEU | He looks [[Well|well]] on’t. |
-| [[King|KING]] | (to [[Bertram]]) I am not a day of season, For thou mayst see a sunshine and a hail In me at once. But to the brightest beams Distracted clouds give way; so stand thou forth. The [[Time|time]] is fair again. |
-| [[Bertram|BERTRAM]] | My high-repented blames, Dear sovereign, pardon to me. |
-| [[King|KING]] | All is whole. Not one word more of the consumed [[Time|time]]. Let’s take the instant by the forward top, For we are old, and on our quick‘st decrees Th’inaudible and noiseless foot of [[Time|time]] Steals ere we can effect them. You remember The daughter of this lord? |
-| [[Bertram|BERTRAM]] | Admiringly, my liege. At first 45 I stuck my choice upon her, ere my heart Durst make too bold a herald of my tongue; Where, the impression of mine eye enfixing, Contempt his scornful perspective did lend me, Which warped the line of every other favour, Stained a fair colour or expressed it stolen, Extended or contracted all proportions To a most hideous object. Thence it came That she whom all men praised and whom myself, Since I have lost, have loved, was in mine eye 55 The [[Dust|dust]] that did offend it. |
-| [[King|KING]] | [[Well]] excused. That thou didst [[Love|love]] her strikes some scores away From the great count. But [[Love|love]] that comes too late, Like a remorseful pardon slowly carried, To the grace-sender turns a sour offence, 60 Crying, ‘That’s good that’s gone.’ Our rash faults Make trivial price of serious things we have, Not knowing them until we know their [[Grave|grave]]. Oft our displeasures, to ourselves unjust, Destroy our friends and after weep their [[Dust|dust]]. 65 Our own [[Love|love]] waking cries to see what’s done, While shameful hate sleeps out the afternoon. Be this sweet [[Helen]]’s knell, and now forget her. Send forth your amorous token for fair Maudlin. The main consents are had, and here we’ll stay To see our widower’s second [[Marriage|marriage]] day. COUNTESS Which better than the first, O dear heaven, bless! Or ere they meet, in me, O [[Nature|nature]], cease. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--02_exchange_lafeu" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (LAFEU) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LAFEU | (to [[Bertram]]) Come on, my son, in whom my [[house]]’s name Must be digested, give a favour from you To sparkle in the spirits of my daughter, That she may quickly come. [[Bertram]] gives Lafeu a ring By my old beard And ev’ry hair that’s on’t, [[Helen]] that’s dead Was a sweet creature. Such a ring as this, The last that ere I took her leave at [[Court|court]], I saw upon her finger. |
-| [[Bertram|BERTRAM]] | Hers it was not. |
-| [[King|KING]] | Now pray you let me see it; for mine eye, While I was speaking, oft was fastened to’t. Lafeu gives him the ring This ring was mine, and when I gave it [[Helen]] I bade her, if her fortunes ever stood Necessitied to help, that by this token I would relieve her. Had you that craft to reave her Of what should stead her most? |
-| [[Bertram|BERTRAM]] | My gracious sovereign, Howe’er it pleases you to take it so, The ring was never hers. |
-| COUNTESS | Son, on my life I have seen her wear it, and she reckoned it At her life’s rate. |
-| LAFEU | I am sure I saw her wear it. |
-| [[Bertram|BERTRAM]] | You are deceived, my lord, she never saw it. In Florence was it from a casement thrown me, Wrapped in a paper which contained the name Of her that threw it. Noble she was, and thought I stood ingaged. But when I had subscribed To mine own fortune, and informed her fully I could not answer in that course of [[Honour|honour]] As she had made the overture, she ceased In heavy satisfaction, and would never Receive the ring again. |
-| [[King|KING]] | Plutus himself, That knows the tinct and multiplying med‘cine, Hath not in [[Nature|nature]]’s mystery more science Than I have in this ring. ’Twas mine, ’twas [[Helen]]’s, Whoever gave it you. Then if you know That you are [[Well|well]] acquainted with yourself, Confess ’twas hers, and by what rough enforcement You got it from her. She called the saints to surety That she would never put it from her finger Unless she gave it to yourself in bed, Where you have never come, or sent it us Upon her great disaster. |
-| [[Bertram|BERTRAM]] | She never saw it. |
-| [[King|KING]] | Thou speak‘st it falsely, as I [[Love|love]] mine [[Honour|honour]], And mak’st conjectural fears to come into me Which I would fain shut out. If it should prove That thou art so inhuman—‘twill not prove so. And yet I know not. Thou didst hate her deadly, And she is dead, which nothing but to close Her eyes myself could win me to believe, More than to see this ring.—Take him away. My fore-past proofs, howe’er the matter fall, Shall tax my fears of little [[Vanity|vanity]], Having vainly feared too little. Away with him. We’ll sift this matter further. |
-| [[Bertram|BERTRAM]] | If you shall prove This ring was ever hers, you shall as easy Prove that I husbanded her bed in Florence, Where yet she never was. Exit guarded Enter the Gentleman Austringer with a paper |
-| [[King|KING]] | I am wrapped in dismal thinkings. |
-| GENTLEMAN | Gracious sovereign, Whether I have been to blame or no, I know not. Here’s a petition from a Florentine Who hath for four or five removes come short To tender it herself. I undertook it, Vanquished thereto by the fair grace and speech Of the poor suppliant, who by this I know Is here attending. Her business looks in her With an importing visage, and she told me In a sweet verbal brief it did concern Your highness with herself. ‫‫‫‪‪‪‫‏‏‎‎ [[King|KING]] (reads a letter) ’Upon his many protestations to marry me when his wife was dead, I blush to say it, he won me. Now is the Count Roussillon a widower, his vows are forfeited to me, and my [[Honour|honour]]’s paid to him. He stole from Florence, taking no leave, and I follow him to his country for justice. Grant it me, O [[King]]! In you it best lies; otherwise a seducer flourishes and a poor maid is undone. [[Diana]] Capilet.’ |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--03_exchange_lafeu_i" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (LAFEU I) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LAFEU | I will buy me a son-in-law in a fair, and toll for this. I’ll none of him. |
-| [[King|KING]] | The heavens have thought [[Well|well]] on thee, Lafeu, To bring forth this discov’ry.—Seek these suitors. Go speedily and bring again the Count. Exit one or more I am afeard the life of [[Helen]], lady, Was foully snatched. Enter [[Bertram]] guarded |
-| COUNTESS | Now justice on the doers! |
-| [[King|KING]] | (to [[Bertram]]) I [[Wonder|wonder]], sir, since wives are monsters to you, And that you fly them as you swear them lordship, Yet you [[Desire|desire]] to marry. Enter the Widow and [[Diana]] What woman’s that? |
-| [[Diana|DIANA]] | I am, my lord, a wretched Florentine, Derived from the ancient Capilet. My suit, as I do understand, you know, And therefore know how far I may be pitied. |
-| WIDOW | (to the [[King]]) I am her mother, sir, whose age and [[Honour|honour]] Both suffer under this complaint we bring, And both shall cease without your remedy. |
-| [[King|KING]] | Come hither, Count. Do you know these women? |
-| [[Bertram|BERTRAM]] | My lord, I neither can nor will deny But that I know them. Do they charge me further? |
-| [[Diana|DIANA]] | Why do you look so strange upon your wife? |
-| [[Bertram|BERTRAM]] | (to the [[King]]) She’s none of mine, my lord. |
-| [[Diana|DIANA]] | If you shall marry You give away this hand, and that is mine; You give away heaven’s vows, and those are mine; You give away myself, which is known mine, For I by vow am so embodied yours That she which marries you must marry me, Either both or none. |
-| LAFEU | (to [[Bertram]]) Your reputation comes too short for my daughter, you are no husband for her. |
-| [[Bertram|BERTRAM]] | (to the [[King]]) My lord, this is a fond and desp’rate creature Whom sometime I have laughed with. Let your highness Lay a more noble thought upon mine [[Honour|honour]] Than for to think that I would sink it here. |
-| [[King|KING]] | Sir, for my thoughts, you have them ill to friend Till your deeds gain them. Fairer prove your [[Honour|honour]] Than in my thought it lies. |
-| [[Diana|DIANA]] | Good my lord, Ask him upon his oath if he does think He had not my virginity. |
-| [[King|KING]] | What sayst thou to her? |
-| [[Bertram|BERTRAM]] | She’s impudent, my lord, And was a common gamester to the camp. |
-| [[Diana|DIANA]] | (to the [[King]]) He does me wrong, my lord. If I were so He might have bought me at a common price. Do not believe him. O behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’th’ camp, If I be one. |
-| COUNTESS | He blushes and ’tis hit. Of six preceding ancestors, that gem; Conferred by testament to th’ sequent issue Hath it been owed and worn. This is his wife. That ring’s a thousand proofs. |
-| [[King|KING]] | (to [[Diana]]) Methought you said You saw one here in [[Court|court]] could witness it. |
-| [[Diana|DIANA]] | I did, my lord, but loath am to produce So bad an instrument. His name’s Paroles. |
-| LAFEU | I saw the man today, if man he be. |
-| [[King|KING]] | Find him and bring him hither. Exit one |
-| [[Bertram|BERTRAM]] | What of him? He’s quoted for a most perfidious slave With all the spots o’th’ world taxed and debauched, Whose [[Nature|nature]] sickens but to speak a [[Truth|truth]]. Am I or that or this for what he’ll utter, That will speak anything? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--04_exchange_king" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (KING) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] | She hath that ring of yours. |
-| [[Bertram|BERTRAM]] | I think she has. Certain it is I liked her And boarded her i‘th’ wanton way of youth. She knew her distance and did angle for me, Madding my eagerness with her restraint, As all impediments in fancy’s course Are motives of more fancy; and in fine Her inf’nite cunning with her modern grace Subdued me to her rate. She got the ring, And I had that which my inferior might At market price have bought. |
-| [[Diana|DIANA]] | I must be patient. You that have turned off a first so noble wife May justly diet me. I pray you yet— Since you lack virtue I will lose a husband— Send for your ring, I will return it [[Home|home]], And give me mine again. |
-| [[Bertram|BERTRAM]] | I have it not. |
-| [[King|KING]] | (to [[Diana]]) What ring was yours, I pray you? |
-| [[Diana|DIANA]] | Sir, much like the same upon your finger. |
-| [[King|KING]] | Know you this ring? This ring was his of late. |
-| [[Diana|DIANA]] | And this was it I gave him being abed. |
-| [[King|KING]] | The story then goes false you threw it him Out of a casement? |
-| [[Diana|DIANA]] | I have spoke the [[Truth|truth]]. Enter Paroles |
-| [[Bertram|BERTRAM]] | (to the [[King]]) My lord, I do confess the ring was hers. |
-| [[King|KING]] | You boggle shrewdly; every feather starts you.— Is this the man you speak of? |
-| [[Diana|DIANA]] | Ay, my lord. |
-| [[King|KING]] | (to Paroles) Tell me, sirrah—but tell me true, I charge you, Not fearing the displeasure of your master, Which on your just proceeding I’ll keep off— By him and by this woman here what know you? |
-| PAROLES | So please your majesty, my master hath been an honourable gentleman. Tricks he hath had in him which gentlemen have. |
-| [[King|KING]] | Come, come, to th’ purpose. Did he [[Love|love]] this woman? |
-| PAROLES | [[Faith]], sir, he did [[Love|love]] her, but how? |
-| [[King|KING]] | How, I pray you? |
-| PAROLES | He did [[Love|love]] her, sir, as a gentleman loves a woman. |
-| [[King|KING]] | How is that? |
-| PAROLES | He loved her, sir, and loved her not. |
-| [[King|KING]] | As thou art a knave and no knave. What an equivocal companion is this! |
-| PAROLES | I am a poor man, and at your majesty’s command. |
-| LAFEU | (to the [[King]]) He’s a good drum, my lord, but a naughty orator. |
-| [[Diana|DIANA]] | (to Paroles) Do you know he promised me [[Marriage|marriage]]? |
-| PAROLES | [[Faith]], I know more than I’ll speak. |
-| [[King|KING]] | But wilt thou not speak all thou know’st? |
-| PAROLES | Yes, so please your majesty. I did go between them, as I said; but more than that, he loved her, for indeed he was mad for her and talked of [[Satan]] and of limbo and of Furies and I know not what. Yet I was in that credit with them at that [[Time|time]] that I knew of their going to bed and of other motions, as promising her [[Marriage|marriage]] and things which would derive me ill will to speak of. Therefore I will not speak what I know. |
-| [[King|KING]] | Thou hast spoken all already, unless thou canst say they are married. But thou art too fine in thy evidence, therefore stand aside.— This ring you say was yours. |
-| [[Diana|DIANA]] | Ay, my good lord. |
-| [[King|KING]] | Where did you buy it? Or who gave it you? |
-| [[Diana|DIANA]] | It was not given me, nor I did not buy it. |
-| [[King|KING]] | Who lent it you? |
-| [[Diana|DIANA]] | It was not lent me neither. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--05_exchange_king" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (KING) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] | Where did you find it then? |
-| [[Diana|DIANA]] | I found it not. |
-| [[King|KING]] | If it were yours by none of all these ways, How could you give it him? |
-| [[Diana|DIANA]] | I never gave it him. |
-| LAFEU | (to the [[King]]) This woman’s an easy glove, my lord, she goes off and on at pleasure. |
-| [[King|KING]] | (to [[Diana]]) This ring was mine. I gave it his first wife. |
-| [[Diana|DIANA]] | It might be yours or hers for aught I know. |
-| [[King|KING]] | (to attendants) Take her away, I do not like her now. To [[Prison|prison]] with her. And away with him.— Unless thou tell’st me where thou hadst this ring Thou diest within this hour. |
-| [[Diana|DIANA]] | I’ll never tell you. |
-| [[King|KING]] | (to attendants) Take her away. |
-| [[Diana|DIANA]] | I’ll put in bail, my liege. |
-| [[King|KING]] | I think thee now some common customer. |
-| [[Diana|DIANA]] | By Jove, if ever I knew man ’twas you. |
-| [[King|KING]] | Wherefore hast thou accused him all this while? |
-| [[Diana|DIANA]] | Because he’s guilty, and he is not guilty. He knows I am no maid, and he’ll swear to’t; I’ll swear I am a maid, and he knows not. Great [[King]], I am no strumpet; by my life, I am either maid or else this old man’s wife. |
-| [[King|KING]] | (to attendants) She does abuse our ears. To [[Prison|prison]] with her. |
-| [[Diana|DIANA]] | Good mother, fetch my bail. Exit Widow Stay, royal sir. The jeweller that owes the ring is sent for, And he shall surety me. But for this lord, Who hath abused me as he knows himself, Though yet he never harmed me, here I quit him. He knows himself my bed he hath defiled, And at that [[Time|time]] he got his wife with [[Child|child]]. Dead though she be she feels her young one kick. So there’s my [[Riddle|riddle]]; one that’s dead is quick. And now behold the meaning. Enter [[Helen]] and the Widow |
-| [[King|KING]] | Is there no exorcist Beguiles the truer office of mine eyes? Is’t real that I see? |
-| [[Helen|HELEN]] | No, my good lord, ’Tis but the [[Shadow|shadow]] of a wife you see, The name and not the thing. |
-| [[Bertram|BERTRAM]] | Both, both. O, pardon! |
-| [[Helen|HELEN]] | O, my good lord, when I was like this maid I found you wondrous kind. There is your ring. And, look you, here’s your letter. This it says: ‘When from my finger you can get this ring, And are by me with [[Child|child]],’ et cetera. This is done. Will you be mine now you are doubly won? |
-| [[Bertram|BERTRAM]] | (to the [[King]]) If she, my liege, can make me know this clearly I’ll [[Love|love]] her dearly, ever ever dearly. |
-| [[Helen|HELEN]] | If it appear not plain and prove untrue, Deadly [[divorce]] step between me and you.— O my dear mother, do I see you living? |
-| LAFEU | Mine eyes smell onions, I shall weep anon. (To Paroles) Good Tom Drum, lend me a handkerchief. So, I thank thee. Wait on me [[Home|home]], I’ll make sport with thee. Let thy curtsies [[Alone|alone]], they are scurvy ones. |
-| [[King|KING]] | ([[To Helen|to Helen]]) Let us from point to point this story know To make the even [[Truth|truth]] in pleasure flow. (To [[Diana]]) If thou be‘st yet a fresh uncroppèd flower, Choose thou thy husband and I’ll pay thy dower. For I can guess that by thy honest aid Thou kept’st a wife herself, thyself a maid. Of that and all the progress more and less Resolvèdly more leisure shall express. All yet seems [[Well|well]]; and if it end so meet, The bitter past, more welcome is the sweet. Flourish of trumpets Epilogue The [[King]]’s a beggar now the play is done. All is [[Well|well]] ended if this suit be won: That you express content, which we will pay With strife to please you, day exceeding day. Ours be your patience then, and yours our parts: Your gentle hands lend us, and take our hearts. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--06_exchange_pericles" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (PERICLES) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| BY WILLIAM SHAKESPEARE AND | GEORGE WILKINS A RECONSTRUCTED TEXT |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--07_monologue_on" data-title="Alls Well that Ends Well — Act V, Scene 3 — monologue (ON) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| ON | 20 May 1608 [[Pericles]] was entered on the Stationers’ Register to Edward Blount; but he did not publish it. Probably the players allowed him to license it in the [[Hope|hope]] of preventing its publication by anyone else, for it was one of the most popular plays of the period. Its [[success]] was exploited, also in 1608, by the publication of a [[Novel|novel]], by George Wilkins, ‘The Painful Adventures of [[Pericles]] Prince of Tyre, Being the True [[history|History]] of the Play of [[Pericles]], as it was lately presented by the worthy and ancient poet John [[Gower]]’. The play itself appeared in print in the following year, with an ascription to Shakespeare, but in a manifestly corrupt text that gives every sign of having been put together from [[Memory|memory]]. This quarto was several times reprinted, but the play was not included in the 1623 Folio (perhaps because Heminges and Condell knew that Shakespeare was responsible for only part of it). In putting together The Painful Adventures, Wilkins drew on an earlier version of the tale, The Pattern of Painful Adventures, by Laurence Twine, written in the mid-1570s and reprinted in 1607. Twine’s book is also a source of the play, which draws too on the story of [[Apollonius]] of Tyre as told by John [[Gower]] in his Confessio Amantis, and, to a lesser extent, on Sir Philip Sidney’s Arcadia. Wilkins not only incorporated verbatim passages from Twine’s book, he also drew heavily on [[Pericles]] itself. Since the play text is so corrupt, it is quite likely that Wilkins reports parts of it both more accurately and more fully than the quarto. And he may have had special qualifications for doing so. He was a dramatist whose popular play The Miseries of Enforced [[Marriage]] had been performed by Shakespeare’s company. [[Pericles]] has usually been regarded as either a collaborative play or one in which Shakespeare revised a pre-existing script. Our edition is based on the hypothesis (not new) that Wilkins was its joint author. Our attempt to reconstruct the play draws more heavily than is usual on Wilkins’s [[Novel|novel]], especially in the first nine scenes (which he probably wrote); in general, because of its obvious corruption, the original text is more freely emended than usual. So that readers may experience the play as originally printed, an unemended reprint of the 1609 quarto is given in our original-spelling edition. The deficiencies of the text are in part compensated for by the [[Survival|survival]] of an unusual amount of relevant visual material, reproduced overleaf. The complex textual background of [[Pericles]] should not be allowed to draw attention away from the merits of this dramatic [[Romance|romance]], which we [[Hope|hope]] will be more apparent as the result of our treatment of the text. If the original play had survived, it might [[Well|well]] have been as highly valued as The [[Winter]]’s Tale or The Tempest; as it is, it contains some hauntingly beautiful episodes, above all that in Scene 21 in which [[Marina]], [[Pericles]]’ long-lost daughter, draws him out of the comatose state to which his sufferings have reduced him. |
-| ON | 14. From the title-page of The Painful Adventures of [[Pericles]] Prince of Tyre (1608), by George Wilkins; [[Artist|artist]] unknown. Since [[Gower]] is not a character in Wilkins’s [[Novel|novel]], the choice of woodcut undoubtedly reflects both the play’s popularity and [[Gower]]’s own impact in early performances, and it is as likely to reflect the visual detail of performance as any early title-page. The sprig of laurel (or posy) in [[Gower]]’s left hand is symbolic of his poetic status. |
-| ON | 15. From Greene’s Vision (1592), sig. CIr―CIv; probably by Robert Greene. The description here fits reasonably [[Well|well]] the Painful Adventures title-page, though the woodcut does not contain the ‘bag of red’, ‘napkin’, or tight-fitting ‘breech’. |
-| ON | 16. Severed heads displayed on the gate of [[London]] Bridge, from an etching by Claes Jan Visscher (1616). In the play’s sources, and Painful Adventures, the heads of previous suitors (Sc. 1) are placed on the ’gate’ of Antioch. In performance they could have been thrust out on poles from the upper stage; but the timing and method of their display is not clear. |
-| *(didascalia)* | 17. From The Heroical Devices of M. [[Claudius]] Paradin, translated by |
-| P.S. | (1591), sig. V3. This is the source for the impresa of the Third Knight, in Sc. 6. |
-| *(didascalia)* | 18. From The Heroical Devices of M. [[Claudius]] Paradin, translated by |
-| P.S. | (1591), sig. Z3. This is the source for the impresa of the Fourth Knight, in Sc. 6. |
-| P.S. | 19. An Inigo [[Jones]] [[Sketch|sketch]] of [[Diana]], probably for Ben Jonson’s [[Masque|masque]] [[Time]] Vindicated (1623). The goddess of chastity appeared as a character in [[Court|court]] entertainments, masques, and plays, and her representation was governed by iconographic convention. As goddess of hunting, she was most often identified by her ‘silver bow’ (21.234). In Thomas Heywood’s The [[Golden Age]] (1611), stage directions refer to ‘[[Diana]]’s bow’ (sig. EIv) and her ‘buskins’ (sig. E3v); her ‘nymphs’ explicitly, and by inference she, have ‘garlands on their heads, and javelins in their hands ... bows and quivers’ (sig. D3v). The bow, quiver, and javelin, all visible in [[Jones]]’s [[Sketch|sketch]], were commonplace in emblematic representations. As a huntress, [[Diana]] could naturally be envisaged in a chariot: in Aurelian Townshend’s [[Masque|masque]] Albion’s Triumph (1631), she descends ‘in her chariot’ (pp. 2, 12); in [[Time]] Vindicated, ‘[[Diana]] descends’ (1. 446). Such descents for deities were used in the public theatres, too, usually in a chair or chariot (21.224.2). |
-| P.S. | 20. A miniature of [[Diana]] by Isaac [[Oliver]] (1615): the dress is yellow, the scarf a gauzy pink-white, the cloak over her right shoulder blue; the leaf-shaped brooch topped by the crescent [[Moon|moon]], gold. In Samuel Daniel’s [[Masque|masque]] The Vision of the Twelve Goddesses (1604), ‘[[Diana]], in a green mantle embroidered with silver half moons, and a crescent of pearl on her head, presents a bow and quiver’ (sig. A5). The ‘crescent of pearl’—an ornamental crescent [[Moon|moon]], also detectable in [[Jones]]’s [[Sketch|sketch]]—can be seen in many emblematic representations of the goddess. |
-| P.S. | 21. For the [[Pastoral|pastoral]] Florimène (1635), Inigo [[Jones]] designed two scenic views of ’The Temple of [[Diana]]’ (see 1. 22.17.1). Though such scenes were not used in the public theatres in Shakespeare’s [[Time|time]], the columns supporting the overhanging roof of the public stage (see General Introduction, pp. xxvii-xxix) could have created a scenic effect roughly similar to [[Jones]]’s recessed classical temple. Statues were also available as props in the public theatre; in [[Pericles]], as in The [[Winter]]’s Tale, the statue could have been impersonated by an actor on a pedestal. Whether or not a statue was visible, the temple could be identified by an altar (as in The Two Noble Kinsmen). |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_3--08_exchange_the_persons_of_the_play" data-title="Alls Well that Ends Well — Act V, Scene 3 — exchange (THE PERSONS OF THE PLAY) [8]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY John [[Gower|GOWER]], the Presenter |
-| *(didascalia)* | [[Antiochus|ANTIOCHUS]], [[King]] of Antioch His |
-| DAUGHTER | THALIART, a [[Villain|villain]] |
-| DAUGHTER | [[Pericles|PERICLES]], Prince of Tyre [[Marina|MARINA]], [[Pericles]]’ daughter |
-| DAUGHTER | [[Cleon|CLEON]], Governor of Tarsus DIONIZA, his wife LEONINE, a murderer |
-| [[King|KING]] | [[Simonides|SIMONIDES]], of Pentapolis [[Thaisa|THAISA]], his daughter Three FISHERMEN, his subjects Five PRINCES, suitors of [[Thaisa]] |
-| *(didascalia)* | A |
-| MARSHAL | LYCHORIDA, [[Thaisa]]’s [[Nurse|nurse]] |
-| MARSHAL | CERIMON, a physician of Ephesus PHILEMON, his servant |
-| MARSHAL | LYSIMACHUS, Governor of Mytilene |
-| *(didascalia)* | A |
-| *(didascalia)* | A |
-| PANDER | BOULT, a leno |
-| PANDER | [[Diana|DIANA]], goddess of chastity |
-| PANDER | Lords, ladies, pages, messengers, sailors, gentlemen |
 
 
 

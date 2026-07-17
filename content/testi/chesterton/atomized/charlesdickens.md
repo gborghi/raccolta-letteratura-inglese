@@ -8824,78 +8824,6 @@ DICKENS E L'[[America|AMERICA]]
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="CharlesDickens — Part 2" data-chapter="Chapter 08" data-kind="chapter"></span>
-
-
-PART TWO
-
-----------------------------------------------------------------------------
-----------------------------------------------------------------------------
-
-Gilbert Keith Chesterton
-
-Charles Dickens
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-PARTE SECONDA
-
-----------------------------------------------------------------------------
-----------------------------------------------------------------------------
-
-Gilbert Keith Chesterton
-
-Charles Dickens
-
-
-
-<span class="atom-split" data-atom="chapter_09" data-title="CharlesDickens — Part 2" data-chapter="Chapter 09" data-kind="chapter"></span>
-
-
-PART TWO
-
-CONTENTS
-
-* CHAPTER VII
-DICKENS AND CHRISTMAS
-* CHAPTER VIII
-THE [[Time|TIME]] OF TRANSITION
-* CHAPTER IX
-LATER LIFE AND WORKS
-* CHAPTER X
-THE GREAT DICKENS CHARACTERS
-* CHAPTER XI
-ON THE ALLEGED OPTIMISM OF DICKENS
-* CHAPTER XII
-A NOTE ON THE FUTURE OF DICKENS
-
-----------------------------------------------------------------------------
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-PARTE SECONDA
-
-INDICE  
-
-* CAPITOLO VII
-DICKENS E IL NATALE
-* CAPITOLO VIII
-IL [[Time|TEMPO]] DELLA TRANSIZIONE
-* CAPITOLO IX
-GLI ULTIMI ANNI E LE OPERE
-* CAPITOLO X
-I GRANDI PERSONAGGI DICKENSIANI
-* CAPITOLO XI
-SUL PRESUNTO OTTIMISMO DI DICKENS
-* CAPITOLO XII
-UNA NOTA SUL FUTURO DI DICKENS
-
-----------------------------------------------------------------------------
-
-
-
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="CharlesDickens — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
 
@@ -13166,6 +13094,78 @@ Nel gennaio del 1843 apparve il primo fascicolo del [[Novel|romanzo]] intitolato
 Ma è la parte americana di «[[Martin Chuzzlewit]]» quella che ci riguarda, ed è quella memorabile. Ha l'aria di una grande [[Satire|satira]]; ma se è soltanto una grande calunnia, è comunque grande. Il suo libro serio sull'[[America]] fu una semplice petardata, forse un petardo bagnato. In ogni caso, sappiamo tutti che l'[[America]] sopravviverà a simili libri seri. Ma il suo libro fantastico potrebbe sopravvivere all'[[America]]. Potrebbe sopravvivere all'[[America]] come «I Cavalieri» è sopravvissuto ad Atene. «[[Martin Chuzzlewit]]» possiede questa qualità della grande [[Satire|satira]], che il critico dimentica di chiedersi se il ritratto sia fedele all'originale, perché il ritratto è tanto più importante dell'originale. A chi importa se Aristofane descrisse correttamente Cleone, che è morto, quando descrive così perfettamente il demagogo, che non può morire? Altrettanto poco, forse, importerà a qualche età futura se l'antica civiltà dell'Occidente, le città perdute di [[New York]] e di St. Louis, furono ritratte con equità nel monumento colossale di Elijah Pogram. Poiché negli episodi americani c'è molto di più della loro inebriante assurdità; c'è più che [[Humour|umorismo]] nel giovane che pronunciò il discorso sul [[Lion|Leone]] britannico, e disse: «Io lo scherno, quel [[Lion|leone]]. [[Alone|Da solo]] lo sfido»; o nell'altro uomo che disse a Martin, quando questi affermò che la [[Queen|Regina]] Vittoria non abitava nella Torre di [[London|Londra]], che egli «era incorso in un errore non raro fra i suoi connazionali». Egli ha il dito sul nervo di un male che era non soltanto nei suoi nemici, ma in se stesso. Il grande democratico afferra uno dei pericoli della [[democracy|democrazia]]. Il grande ottimista affronta un orribile [[nightmare|incubo]] di ottimismo. Soprattutto, il genuino inglese attacca un peccato che non è meramente americano, ma anche inglese. L'eterna, compiaciuta ripetizione di mezze verità patriottiche; il perpetuo imburrarsi di [[Self|sé]] da capo a piedi con lo stesso burro rancido; soprattutto, le grandi sfide lanciate a piccoli nemici, ovvero le urgentissime provocazioni a nemici lontanissimi; la codardia così abituale e inconsapevole da fregiarsi dei pennacchi del [[Courage|coraggio]]: tutto questo è una [[Temptation|tentazione]] inglese [[Well|non meno]] che americana. «[[Martin Chuzzlewit]]» può essere una caricatura dell'[[America]]. L'[[America]] può essere una caricatura dell'Inghilterra. Ma nel più austero collegio, nella più tranquilla [[house|dimora]] di campagna d'Inghilterra, c'è il seme della stessa essenziale [[Madness|follia]] che riempie il libro di Dickens, come un manicomio, di rissosi Chollop e di deliranti Jefferson Brick. Quella essenziale [[Madness|follia]] è l'idea che il buon patriota sia l'uomo che si sente a suo agio riguardo al proprio paese. Questa nozione di patriottismo era sconosciuta nelle piccole repubbliche pagane dove ebbe inizio il nostro patriottismo europeo. Era sconosciuta nel Medioevo. Nel Settecento, nel formarsi della politica moderna, «patriota» significava un uomo scontento. Era il contrario della parola «cortigiano», che significava un sostenitore delle condizioni presenti. In tutti gli altri paesi moderni, specialmente in paesi come la Francia e l'Irlanda, dove si sono affrontate difficoltà reali, la parola «patriota» significa qualcosa di simile a un pessimista politico. Questa concezione e questi paesi hanno esagerazioni e pericoli tutti loro; ma l'esagerazione e il pericolo dell'Inghilterra sono i medesimi dell'esagerazione e del pericolo della «Watertoast Gazette». La cosa che, alquanto scioccamente, si chiama civiltà anglosassone è al presente intrisa da cima a fondo di un debole [[Pride|orgoglio]]. Adopera grandi masse di uomini non per procurarsi la discussione, ma per procurarsi il piacere dell'unanimità; adopera le masse come cuscini. Adopera i suoi organi di opinione pubblica non per mettere in guardia il pubblico, ma per blandirlo. Riesce davvero non soltanto a ignorare il resto del mondo, ma addirittura a dimenticarlo. E quando una civiltà dimentica davvero il resto del mondo — lo lascia cadere come qualcosa di ovviamente fosco e barbarico — allora vi è un solo aggettivo per il destino ultimo di quella civiltà, e quell'aggettivo è «cinese».
 
 L'[[America]] di [[Martin Chuzzlewit]] è un [[house|manicomio]]: ma è un [[house|manicomio]] verso il quale siamo tutti in [[Road|cammino]]. Poiché la completezza e persino l'agio sono quasi le definizioni della pazzia. Il pazzo è l'uomo che vive in un piccolo mondo ma crede che sia grande: è l'uomo che vive in un decimo della [[Truth|verità]] e crede che sia il tutto. Il folle non riesce a concepire alcun cosmo al di fuori di un certo racconto, o complotto, o visione. Perciò, quanto più chiaramente vediamo il mondo diviso in sassoni e non sassoni, nei nostri splendidi io e in tutto il resto, tanto più possiamo essere certi che stiamo lentamente e quietamente impazzendo. Quanto più semplice e soddisfacente appare la nostra condizione, tanto più possiamo sapere che viviamo in un mondo irreale. Poiché il mondo reale non è soddisfacente. Quanto più chiari si fanno i colori e i fatti della superiorità anglosassone, tanto più sicuramente possiamo sapere di essere in [[A Dream|un sogno]]. Poiché il mondo reale non è chiaro né semplice. Il mondo reale è pieno di roboranti sconcerti e di brutali sorprese. L'agio è la benedizione e la maledizione degli inglesi, e anche degli americani del tipo di Pogram. In loro è un agio chiassoso, un agio selvaggio, un agio strillante e saltellante; ma agio in [[Bottom|fondo]] pur sempre. Poiché non c'è che un pollice di differenza fra la stanza imbottita e la cella imbottita.
+
+
+
+<span class="atom-split" data-atom="chapter_08" data-title="CharlesDickens — Part 2" data-chapter="Chapter 08" data-kind="chapter"></span>
+
+
+PART TWO
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Gilbert Keith Chesterton
+
+Charles Dickens
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE SECONDA
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Gilbert Keith Chesterton
+
+Charles Dickens
+
+
+
+<span class="atom-split" data-atom="chapter_09" data-title="CharlesDickens — Part 2" data-chapter="Chapter 09" data-kind="chapter"></span>
+
+
+PART TWO
+
+CONTENTS
+
+* CHAPTER VII
+DICKENS AND CHRISTMAS
+* CHAPTER VIII
+THE [[Time|TIME]] OF TRANSITION
+* CHAPTER IX
+LATER LIFE AND WORKS
+* CHAPTER X
+THE GREAT DICKENS CHARACTERS
+* CHAPTER XI
+ON THE ALLEGED OPTIMISM OF DICKENS
+* CHAPTER XII
+A NOTE ON THE FUTURE OF DICKENS
+
+----------------------------------------------------------------------------
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE SECONDA
+
+INDICE  
+
+* CAPITOLO VII
+DICKENS E IL NATALE
+* CAPITOLO VIII
+IL [[Time|TEMPO]] DELLA TRANSIZIONE
+* CAPITOLO IX
+GLI ULTIMI ANNI E LE OPERE
+* CAPITOLO X
+I GRANDI PERSONAGGI DICKENSIANI
+* CAPITOLO XI
+SUL PRESUNTO OTTIMISMO DI DICKENS
+* CAPITOLO XII
+UNA NOTA SUL FUTURO DI DICKENS
+
+----------------------------------------------------------------------------
 
 
 

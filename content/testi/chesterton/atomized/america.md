@@ -2,13 +2,13 @@
 title: "America"
 author: "Chesterton"
 unitType: work
-parentWork: "works/america-(whitman)"
+parentWork: "works/america-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
-<div class="atom-reader" data-work="testi/chesterton/atomized/america" data-author="Chesterton" data-workhref="works/america-(whitman)"></div>
+<div class="atom-reader" data-work="testi/chesterton/atomized/america" data-author="Chesterton" data-workhref="works/america-(chesterton)"></div>
 
 
 <span class="atom-split" data-atom="america" data-title="America" data-chapter="" data-kind="intro"></span>

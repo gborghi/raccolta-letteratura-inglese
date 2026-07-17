@@ -3605,458 +3605,6 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="The Girondin — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
-
-
-CHAPTER XV.
-
-In which an Ostler is too Political.
-
-NEXT DAY BY the relief of the guard it was known that the conspirators, the Austrians, were off to [[Paris]], to the High Court under guard; the mob that had captured them congratulated and recompensed; and the Army formally thanked for its zeal. A little after noon the news went round quarters that on the morrow they would march for the east, and it was good news for all of them. The force was beginning to get some shape into it, hugger-mugger though it was, and Poitiers was getting too political; if there was one thing the army hated it was politics. To be seized round the neck by market-women and told that you were adored for opinions you never held; or, when what you most needed was sleep after a long day and drinking, to be cheered before a company of singers and told that you were the bulwark of the country; or worse still, to receive a violent blow in a dark passage and to have yourself called a traitor by some one whose views upon the State you did not know and who might very well be in agreement with you — these were the things the young soldiers could not bear.
-
-The prospect of active service drew them together and lifted their hearts, and they were glad to be off again to the east, whither they were bound by their trade of fighting; and Boutroux — to whom every march away from the south was so much added safety — welcomed it most; but he had another hedge before him.
-
-That same afternoon, as he was looking to the grooming of the horses in the barrack square, a civilian, an ostler, had sauntered by. He was a man with a strong, very unpleasant face, one who seemed moreover to take strange liberties with quarters and yet whom no one seemed to dare reprove; he had come in on some pretext and passed Sergeant Boutroux a certain word in an undertone; it was a word Boutroux had known exceedingly well — once, weeks or days ago, in Bordeaux — too well. It struck him like a sentence of law when he heard it.
-
-It was the password of the Club on the night when that little affair in Bordeaux had occupied his former wealthy leisure.
-
-Boutroux, as he heard that word, had no time for plan or forethought. He replied with the counter password: he murmured to the ostler, as that impudent fellow lounged away, “The Human Race,” a simple enough phrase and big enough in all conscience, but it did its work; the ostler lounged back again. The nearer he got, and the better Boutroux could look at him, the less he liked his face.
-
-The men were grooming the horses in a long line; Boutroux stood there overlooking them, now calling out to one or another whom he thought was slacking in his work, or to a recruit who did not seem yet to have learned it. The civilian ostler had little business there; but Boutroux, having heard the password and having given the countersign, would not ask questions. The ostler said in a low tone, —
-
-“Sergeant Perrin, we know who you are.”
-
-“That is not difficult,” said Boutroux, keeping his temper and his colour too.
-
-“Shall I tell you the story in case you do not want to help us?” continued the ostler in that same undertone, so that no one else could hear, and gazing, as the sergeant did, at the men’s work and the line of horses.
-
-“I am quite indifferent,” said Boutroux, pulling from his trousers pocket a little leaden medal on which was stamped the triangle and the two pillars of the Society. The ostler as rapidly showed in his hand, open for a moment, a similar symbol, pocketed it again, and continued, —
-
-“These trinkets are not only useful to protect a man: sometimes they damn him!”
-
-“If he betrays the Brethren,” said Boutroux, using the old ritual reply.
-
-The ostler was silent, but in a moment or two he said: “When do the men water the beasts?”
-
-“They’ve pretty well done their grooming now,” said Boutroux. “I shall be giving the order soon. Why?”
-
-“Because I can say what I have to say better when the clatter of hoofs begins.”
-
-“Oh, I understand...” said Boutroux, and in a moment he had given the order. The men put down their curry-combs and their brushes, one and another gave a lingering pat to his animal; then at the second order every man had scrambled or vaulted on to his mount, and was taking it off in file to the drinking-troughs.
-
-The clatter of the horse-shoes upon the paving of the barrack-yard was loud, and the ostler could say what he had to say at his ease; he said it shortly.
-
-“Sergeant Perrin,” said the ostler, watching the receding line of horses with a critical eye, and walking side by side with Boutroux as he strolled behind the cavalcade to see that the watering was in order, “Sergeant Perrin, I have told you that we know who you are.”
-
-“I...” began Boutroux.
-
-The ostler gave an impatient shake of the head. “When I have done you will see whether there is any need for you to talk,” he said brutally. “Your mother lives in the long farmhouse upon the highroad on the Bordeaux side of Chiersac. She is an old witch of the King’s and she hobnobs with the priests.”
-
-“She is not my mother,” said Boutroux shortly.
-
-“Well then, your step-mother,” said the ostler impatiently.
-
-“That’s more like it, damn her!” answered Boutroux quietly.
-
-“Just after the Tyrant was taken and the Tuileries stormed by the People, a man who had been hiding in the wood came to your house, and your mother harboured him.”
-
-“That’s right,” said Boutroux, beginning to see daylight.
-
-“You, Sergeant Perrin, were down for enlistment, but you wanted some one to drive the horse back, and that some one was the man your step-mother harboured.”
-
-“It’s perfectly true,” said Boutroux stolidly.
-
-“He drove back with the cart, and you took the oath that evening.”
-
-“I did,” said Boutroux.
-
-“The Brethren in Bordeaux,” continued the ostler in a lower and rather graver voice, “have sent us the report, and what you are required upon your oath to answer is this: Where that man is and how he may be taken.”
-
-Boutroux thought a moment. The rustic Perrin who had driven him was a member of the Society. So much was clear. He was affiliated in spite of his mother, and the Society believed him to be that rustic. So much else was clear. That the Society wanted Boutroux, to kill him, Boutroux knew. The last of the horses was watered in its turn; the file was clattering back towards the stables. He swung slowly after them, the ostler by his side looking at him fixedly with his eyes and eagerly with his mind.
-
-“I don’t mind what happens to the man,” said Boutroux at last, a bitter note in his voice. “I’ll give every help.”
-
-“You’re bound to,” said the ostler gravely; “but you’ll be the more willing when I tell you what he did.”
-
-“What did he do?” asked Boutroux.
-
-“He betrayed the Club in Bordeaux, and he killed a man on faction — one of his Brothers in the Society.”
-
-“Did he, by God!” said Boutroux.
-
-“He did, by God!” answered the ostler. “There were plenty of things that night which no man could understand. The man’s name was Boutroux. He went to a meeting of the Society; he was with the Brethren and the Section — it’s all one there — and he tried to buy off his old uncle.”
-
-“Did they take his money?” said Boutroux gently.
-
-The ostler spat. “I don’t know, and I don’t care,” he said, “but anyhow the Executive ordered the uncle’s house to be guarded; he’d had a meeting of the traitors there that night. When Boutroux found that that was known, he killed the man on guard. At first we thought he was hiding in his uncle’s house, but he wasn’t. We’ve made sure of that, Sergeant.”
-
-“How?” said Boutroux.
-
-“Oh well,” said the ostler, laughing, “the report says that the old chap’s in jail; the People went through the house, you may lay to it. It’s as empty as a barn to-day.”
-
-Boutroux was on the point of saying, “And where’s the old lady?” but he caught the words on his lips, and turned them. “And where’s what you want me to do?” he said, and as he said it he thought of that familiar house, stripped, ransacked, looted, old Nicholas dead perhaps, or more probably flying; fire perhaps upon the walls of his own room, and the great stone halls deserted altogether; the tall panes of the windows broken, the ironwork of the gilt lantern twisted, and the carved oaken doors broken in. He tasted the taste of his exile, and he did not love that old hag of the roadside or her son any better as he thought of it.
-
-“I told you,” said the ostler shortly, “that you’ve got to tell us where the fellow is; for you know...” he added, his voice becoming threatening.
-
-The horses were in the stables; the men had gone back to their barrack rooms, their work accomplished; the stable guard were going their rounds, tossing the hay into the mangers. Boutroux laid a hand upon the ostler’s shoulder more firmly than that civilian liked.
-
-“Brother What’s-your-name,” he said, “I am not answerable to you: I am answerable to the Society. Do they meet to-night? If so, tell me where, or take me there.”
-
-“Have you got night leave?” said the ostler, “for you will need it.”
-
-“I will try to get it,” Boutroux replied. “I shall probably have to be back by midnight.”
-
-He made an appointment with the Jacobin to meet him at the gate that evening, and with that appointment in mind he went off to ask for leave.
-
-It fell to the duty of Lieutenant Hamard to grant leave for the troop.
-
-“Friend Perrin,” he said gently as Boutroux came in, “I would have you stand at attention: it is more respectful.”
-
-And Boutroux, who was already standing at attention, stiffened himself. The lieutenant looked him up and down.
-
-“Your shako is on one side,” he said.
-
-The sergeant straightened it.
-
-“And now,” said the lieutenant, “it is on the other.”
-
-The sergeant put it back again.
-
-“Who cleaned the hilt of your sword?”
-
-“I did, my Lieutenant,” said Sergeant Perrin.
-
-“When I was a sergeant,” murmured the lieutenant, “I always made a soldier do that. Times are changing. What do you want?”
-
-“Night leave, sir.”
-
-“You can’t have it: they will call the roll before dawn.”
-
-“Midnight leave, sir.”
-
-“If the captain will give you midnight leave, I will have it sent to you. Dismiss!” he concluded gently. It was his favourite word.
-
-Boutroux swivelled round and left the room. He knew he should find the leave on his table within an hour, and he did. The ostler, the Brother, came up to the gate of quarters at the fall of evening, and they went off through the town together.
-
-
-
-
-<span class="atom-split" data-atom="chapter_17" data-title="The Girondin — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
-
-
-CHAPTER XVII.
-
-In which an Old Gentleman shows the Way to an Old Lady.
-
-TΗΕ REGIMENT MARCHED day upon day, a long train of straggling horses in the late summer weather; the new recruits were drilled evening after evening in the market-squares of the little towns.
-
-Twice, at Loches and at Blois, there were desertions; and in the early mornings, after summary courts, firing platoons and the shooting of men.
-
-At Blois, also, a few more recruits came in, too late, one would have thought, to be used — but in those days everything was used. The remounts were dragged from the stables of peasants, by force and under order of the Government, as they went along, not without squabbles, nor, once or twice, without bloodshed.
-
-They reached Orleans, and stayed for forty-eight hours in the cavalry barracks of the town. The dull place was even fuller of rumour than had been Poitiers; the breath of [[Paris]] was upon it, and the colonel was anxious to be away, for even in that short delay he lost ten men, and he dared not recover them as he might have done further down country. They left Orleans before dawn for Chateauneuf, a short day, and one undertaken only to get away from the constriction of the populace and the Clubs and the turmoil of a great town that ruined the order of the regiment. But at Chateauneuf the rumour spread among the men that the march would now be direct for the frontier, and even in the little villages of the valley the news from the frontier had come: the armies of the kings were over the frontier; the invaders were on the soil of the Nation — and Verdun had fallen.
-
-Soldiers are not concerned with news; but in the minds of soldiers, even though they be soldiers but recently civilian, every soldierly place and stronghold has a meaning. For armies have a sort of consciousness running through them: the chance words of officers overheard by their servants, the politicians of the barrack room discussing affairs, a mere vague comprehension of the map — all this inhabits the mind of the men whose trade it is to go forward by the great roads to battle, and whose nourishment is the open air.
-
-Verdun had fallen; and the little town and the hussars that had just ridden in were abuzz with the news.
-
-Late that night, when, with half a dozen of the sergeants who had midnight leave, Boutroux sat, wearied to death, in a tiny inn, he heard opinion on fire. The men from the street mixed with the soldiery, and one man urged another on to violence. As he so sat — it was past ten o’clock, and he was about to sacrifice his leave and sleep — a man came in from quarters with an order. The regiment was pressed to march, and the sergeants were sent for. —
-
-They rose, grumbling; they found in quarters the lights and the movement of a disturbed evening and of sudden commands. A captain, tall, and cloaked against the night, stood at the gate of the guard checking a paper in his hand which one of the men on guard lit from a lantern held above it. He murmured names and the business of each to his non-commissioned officers; one after another saluted and went off about the thing he was bidden to do. The captain’s pencil zig-zagged down the sheet, scratching out this, adding that. He came to the name Perrin.
-
-“Sergeant Perrin,” he said.
-
-Boutroux saluted.
-
-“I think you are trustworthy?”
-
-“I hope so,” said Boutroux.
-
-“My lad,” said the captain in a totally different tone — as he looked up under the lantern light Boutroux saw the face of one long broken to the service— “when you have been in the career as long as I have, you will learn never to answer a superior.”
-
-The refrain sounded familiar, and Boutroux saluted again.
-
-“Sergeant Perrin,” continued the captain, falling again into the kindly and simple tone of a man who is ordering something very difficult, “ you will get five horses from a house which is marked suspect.” He fumbled a little with his paper, peered at it closely with his keen eyes, and added, “The Spinster de La Roche. Dismiss!” Then it was that Boutroux wished one were allowed to ask questions in the service; but he knew better by now, and with the ridiculous stiff movement which the service requires, he turned sharply round and walked away. The captain called after him, —
-
-“You will take five men.”
-
-He turned round stiffly again from about thirty yards away, saluted, and said, “Yes, my Captain.”
-
-He went back to the barrack room, took five men at random; one of them had been his equal as a recruit in the first days of the march and pretended to familiarity with him; he silenced the man, made the five fall in with this old comrade as a sort of corporal to embrigade them, and marched out of quarters into the night.
-
-The street was empty; there were no lights; he had no conception of where the Spinster de La Roche might live, still less did he know how he would be received.
-
-“The service,” thought Boutroux, “makes of men naturally polite a very nasty set of beings.”
-
-He knocked at a door at random: there was no answer. He bade the men force it, and it was forced. From the top of the rude stair within came first a grumble as of a man half awake; there was the clicking of a tinder-box being struck; at last a light glimmered, and an old man of surprising energy put his head over a landing above and cursed them for a cartload of devils, asking whether he lived in a free country or not, and whether it was thus that a citizen should be disturbed at midnight, and who was safe when such things could be. To whom Boutroux called up sharply, —
-
-“You are required to give us direction to the house of the Spinster de La Roche, and, if necessary, to lead us there.”
-
-“If necessary, to lead you there!” snarled the old man in his nightgown, holding the candle high above his head: “if necessary, to lead you there! I’ll lead you to hell first!”
-
-“No,” said Boutroux, “you will do that just afterwards.”
-
-For a moment it seemed that the old man would give trouble: he was on the point of turning from them, and Boutroux foresaw questions in quarters and a very bad time next morning. But the citizen thought better of it. He reappeared with peasant trousers slipped over his legs, a rough coat upon his shoulders, still wearing his nightgown by way of a shirt, and his absurd cotton nightcap by way of a hat, and so came down.
-
-“You can find it for yourself,” he grumbled, “if you will follow my instructions — the woman’s known enough in all conscience!” Then he chuckled.
-
-“If your instructions are clear, Citizen,” said Boutroux, “you need not come.”
-
-The old man was a little mollified by that. He was weak upon the grades of an army; he did not understand the stripes.
-
-“Captain,” he said more humbly — and the private soldier leading the others grinned—” I am willing enough to come, but you understand one lives in the same town, and though the lady’s reputation...”
-
-“Oh yes, I understand,” said Boutroux; “but where is it?”
-
-“I’ll come with you,” sighed the old fellow. He fetched a ramshackle lantern, wasting an intolerable time about it, and came hobbling back with it. “Now,” he said, “let us go out. It is not half a mile.”
-
-They left the town; they passed along a sandy lane through a little wood to the north of it; they came to a high wall, pierced by a green wooden door; the door was moss-grown and dilapidated.
-
-“The Cháteau is through there,” said the old man.
-
-“The Cháteau!” said Boutroux.
-
-“She is a person of consequence,” said the old man. “I have no quarrels; I am no politician; I live and let live. She is a person of consequence... of the rest I say nothing. And let me tell you, from what I know of the old cat, she dis-likes to be disturbed, and her doors are always locked.”
-
-“Doors give way so easily,” said Boutroux, “and it’s always work for the locksmith.” He beckoned two men forward. Their shoulders took the old green door: it did not open, but the rotten wood of it broke, and they forced their way through into a venerable and dilapidated garden. A grass-grown path, once gravelled, was before them; the lantern light shone high into the thick foliage of ancient trees.
-
-“I need not go further, Major?” said the old man anxiously.
-
-“Up to the house!” said Boutroux firmly, “up to the house! You must remember we are strangers here and need an introduction.”
-
-The old man went up to Boutroux’s side and spoke in a low voice, that he might not be overheard by the men.
-
-“You will be kind to me,” he whispered, “Colonel? After all, we have to live and let live: it is a small town.”
-
-“Come along, Citizen,” said Boutroux, “come along!” — and the old man came along.
-
-In fifty yards they were at the moat of the old great place. It stood awfully tall and sombre in the night, like a huge square tower with its high slate roofs, solemn chimneys of two hundred years among the stars; the big doors were shut fast, but a light glimmered within, and through the glass above the entry they could see the reflection of that light upon a carved and ancient ceiling. Outside these closed doors swung a great bell. They would not have found its chain in the darkness, but the old man showed them where to find it. Boutroux pulled it, and its loud clangour rang through the park and the trees, and woke echoes within the old house itself. There was a shuffling of feet within, and (how it reminded him of home!) a little square wicket, grated, pierced in the door, was opened cautiously. They were asked their business.
-
-Boutroux gave it. “The hussars,” he said. “We are sent on requisition.”
-
-A quavering woman’s voice answered, —
-
-“I have orders to admit no one.”
-
-“Tell your mistress,” said Boutroux, with his eye to the little iron opening, and seeing within a small, thin, trembling woman, white-haired and capped in the manner of the district, “tell your mistress that we are here to do no harm — but there is urgent business from the Army.”
-
-She bade him wait. She kept them waiting there a good quarter of an hour, and when she came back said, as pompously as her thin cracked voice would allow, —
-
-“My lady will receive you.”
-
-“Give her my best regards,” said Boutroux, “and bid her have no fear at all. It is the business of the Nation.”
-
-The great doors were opened, creaking; the light from within poured upon the park.
-
-The old man said anxiously, whispering again, “Need I stay?”
-
-“No, Citizen,” said Boutroux, “you are free of these things.”
-
-“You will not give my name to her? She has many friends — too many!” said the man anxiously.
-
-“I would, of course, betray your name if I knew it,” said Boutroux doubtfully; “but I do not know it. However, I will guess at it.”
-
-The old man eyed him misunderstandingly, and made off. He had no love for the politics of his time, and as he went back through the darkness to his disturbed repose he loved them less than ever: “The world,” said he to himself, “is coming to an end... so it was foretold... so it was foretold. Old Stephen’s niece, whom he forced to be a nun in Orleans, foretold it.... She was right, it is the end of the world!” And so muttering, he went back homewards.
-
-
-
-
-<span class="atom-split" data-atom="chapter_22" data-title="The Girondin — Chapter 22" data-chapter="Chapter 22" data-kind="chapter"></span>
-
-
-CHAPTER XXII.
-
-Which shows the Disagreeables attendant upon the Use of Amateur Drivers in the Conduct of Artillery; especially when they are pressed for Time.
-
-THE SEPTEMBER DARK had fallen; through the thick air the stronger stars could just be palely seen. Away along the Prussian lines a few smoky fires began to burn, notably in front of a small inn which lay upon the great [[Paris]] road, within which inn the King of Prussia, and Brunswick, and the princes of the French blood — and, for that matter, near by, young Goethe the poet — were assembled. But what did the Army know of such things?
-
-Those who still cared to look over what had been the field of that day’s cannonade saw nothing save the vague line which a roll of land makes darker against the dark sky of a cloudy evening, and here and there those smoky blotches of dull red light coming and going with the drift of the murk, and marking the line of the allies. A young soldier — a volunteer caught in during the march — came up with a lantern in his hand and peered into the door of the mill; his face was full of joy, for he was still three-quarters civilian, and he had education, and the literary side of the thing appealed to him. He said, —
-
-“A great day, Sergeant.”
-
-To which Boutroux replied, with as little brutality as he could manage, —
-
-“I don’t suppose that was your message.”
-
-“No, Sergeant,” said the lad, “but I couldn’t help saying it;” and he sighed contentedly.
-
-Boutroux continued to rub down the old horse with a wisp of straw, and as he did so he noted painfully that the beast shivered.
-
-“Sergeant,” said the lad, “I’ve come with orders.”
-
-“Well, what are they?” said Boutroux, grooming away, and not looking round.
-
-“We sleep on the ground, Sergeant.”
-
-“Naturally,” said Boutroux; “and I hope you will not find it too damp. I sleep in the mill. Dismiss.”
-
-“Sergeant, they’re calling all the sergeants round in the regiment.”
-
-“You should have said that at first, you hoofed and horned fool!” answered Boutroux, with the politeness of the service. “I’ll be back soon,” he said to his horse as he shut the mill door behind him, and followed the boy to where a number of the non-commissioned rank were running up to receive the regimental orders. The subalterns were there, each delivering the message for his troop; and in the darkness, on a mount that still held itself well after all these days, Boutroux saw the figure of his colonel; and as he saw it he remembered vividly those hot hours in the south, and the young officer meeting the Commissioner to the Armies, the sudden promotion, and all the bewildering jumble of the eastward march under this man’s growing command. The order was read to them by the light of a lantern; they were told that the operations had been completely successful; the cannonade was made to seem to those young men and old, huddled together, a national and a determining victory. They were told that the invaders were routed.
-
-Meanwhile, a mile away, the invaders lay in occupation of the crest that they had held all day long, and the issue, as men knew better in proportion to their rank, was only a little less doubtful than the day before: a little less doubtful in this, that the great unformed mass of the French levies had just barely stood; they had not been driven and broken into the forest of the hills.
-
-But the soldiers were content to accept the new legend, and for the first time in all those days gaiety ran through the regiment. Even the prospect of a night upon that drenched soil did not disturb them, and Kellermann had wisely seen to it that wine should come up from the village: men were filled with wine before they slept. In the line the companies, in the cavalry the troops, clubbed for the purchase of the liquor; the canteen made its enormous profits, and for the first time since the beginning of the wars the peasants were doing business too.
-
-To one of these, bringing his barrels in upon an open cart, Boutroux went up and spoke.
-
-“Friend,” said he, “will you not sell me some of your wine?”
-
-The man shook his head. He was under orders to sell to no one but to the canteen. “Written orders,” he said, “and signed by the colonel upon the paper of the Republic.” He spoke that last word with so much dignity that Boutroux looked at him curiously.
-
-“I have heard already that the Republic is crawling on; but if only you would give me some wine, since you are not allowed to sell it, we might discuss the matter.”
-
-“I have no wish to discuss it,” said the peasant, “and I certainly will not give you wine. We have been a Republic these twenty-four hours.”
-
-“See how stingy Republics are!” said Boutroux. “Why, in the old days such as yesterday and the day before, when there was no Republic, men could have wine for the asking, and sometimes for the taking. It has not mended things, your Republic; but I will go and tell the news to my horse. I do not need your wine. Only tell me something I do not quite understand. What is the name of this place?”
-
-“This place?” said the man clumsily; “it has no name.”
-
-“I thought as much,” said Boutroux, “by the look of it during the daylight. But I suppose you live somewhere: there is some sort of a village with pigs in it and more mud?”
-
-“Down below,” said the man, jerking his thumb, “is my village.”
-
-“What do you call it?” said Boutroux.
-
-“Valmy,” said the man.
-
-“I must remember that name,” said Boutroux. “When one gets out of active service it is a great thing to remember the names of battles. I can see myself sitting in an inn with a great scar upon my face (got from a cart-whip); the yokels shall stand me drinks while I tell them the dreadful things I did round and about the mill at Valmy, and what wounds I had, and how bewildered a man is and yet how exalted under fire.”
-
-With this he sauntered off; the main force drew off through the darkness, but the hussars held on; and all night long until the bugles under the dull and misty dawn he slept by his horse in the mill, and with the morning they assembled for the march again.
-
-The line was formed, the regiment was in column and began picking its way through such huddled groups of the soldiery as were left on the height, past broken limbers, here and there the body of a man, cases of food and of powder, scraps of the bread brought up at the end of the day before — all the litter of position which has been held by many thousands.
-
-“I thought as much,” murmured Boutroux to himself, as the column very gradually wound its way out of the confusion of men and things and headed eastward down the great empty rolls of chalky land, “I thought as much. They never say it in the history books, but it is what I always imagined to be true. After a great victory one heads away from the enemy. But we must not make too sure, my dear,” he continued to the old horse, patting its neck; “we may be outflanking, or enveloping, or doing some other monstrous thing. Or we may be concentrating; but it does look uncommonly like a peaceable and well-ordered retreat so far as the Lambs are concerned.”
-
-As for the Lambs, they went forward easily enough. There was nothing in the attitude of those spent boys with their sprinkling of veterans, and their young colonel at the head, to suggest any emotion of retreat or of victory. They were still maundering on whithersoever they might be led, which is the whole trade of soldiers. The grooming had been very imperfect, the horses were badly splashed, but after the cannonade the respite had given ample time for provision, and at least the poor beasts had been well fed and had drunk their fill of the white chalky water of the Champagne Pouilleuse.
-
-A few miles off Argonne stood up, a long low wall against the eastern sky, dark with its miles and miles of trees; and beneath it, at the foot of a gap, a spire and a confusion of little buildings marked Ste Menehould.
-
-They went on thus two hours, parallel bodies beginning to move with the advance of the day; they reached the gates of the market-town, and as they reached them Boutroux noticed that his mount was done. Horses, especially the trained horses of cavalry, will so work up to the last moment, and then, without excuse or complaint, their end comes upon them. The old white horse stumbled twice, and Boutroux checked it, pulling it up and cheering it as he had done now for so many days. But the horse did not respond and did not lift its head. It had not many hundred yards to go. His horse so failing filled him with a superstition. He put his hand in his tunic to his chain and his medal. The medal was gone.
-
-Just as they got within the streets of the town Boutroux, with the last troop of the long column of the regiment, heard a clatter and a crashing of wheels coming down the slope of a side street. It was the hired local drivers — peasants bringing in a battery. There was a complete confusion; the weight of the pieces and of the limbers on the steep incline had been just too much for the wretched teams, and the whole weight of the business was pouring down unchecked on to the high-street. The horses stumbled and slid together, some had already caught in their traces, one or two thrown, and the most of them sliding upon the wet paving.
-
-The troop had barely turned their eyes to notice the danger, when Boutroux, appreciating it more rapidly than any other of his equals, shouted, as men do in accidents, forgetting rank, —
-
-“Lieutenant, wheel them to the right, and bring up alongside the next file!”
-
-The lieutenant looked round, startled, began to see what was happening, and had the sense to obey the suggestion. He shouted the order, the men urged their mounts, the whole half-hundred were pulling away quickly from the shock of the battery just as its ungoverned impetus came upon the high-street. Boutroux, rounding up at the end, was watching his men to see that they should just escape the peril, when the old white horse could do no more. The attempt at speed which its rider had conveyed to it was the point which determined its end. It stumbled — a pole of the near limbers was within a foot of its flank. Boutroux, forgetting friendship and forgetting ties, pulled at the curb brutally. The poor beast lifted its head and jerked it in an attempt to rise, failed, and fell.
-
-It fell right upon the sergeant’s left leg before he had time to drag it from the stirrup; and as it fell, the pole, the wheels of the limber, and the teams came in a mass over the fallen horse and rider....
-
-Before Boutroux’s eyes was a mad confusion of plunging horses, men’s feet in the stirrup irons, and the thongs of whips; Pascal’s old head tossing twice in a convulsive movement. But the sight was conditioned and controlled by an intolerable and increasing pain. This vision of pain, noise, and wild movement, all mixed and kneaded together, lasted not a moment. The sergeant was soon alone with pain, and with pain only. The air about him grew dark; he saw, heard, knew, felt nothing but the pain, nor did anything else remain with him. The pain extended and became a part of his being.
-
-Less conscious than a man in a drunken sleep, he knew that they were moving him, but he knew it only by newer and sharper experiences of pain: he was conscious of that so fully that there was room for nothing else. It was as though the colour upon which his closed eyes dully gazed, the dark red colour which was round him somehow like a cloak, was the very colour of pain. Then, by God’s mercy, this awful form of consciousness grew dull; his spirit and his body ached, but only ached. He had sunk into a sort of use and custom of dull agony, and soon this also passed, and without repose and without refreshment he sank into something deeper than his deepest, sleep.
-
-
-
-
-<span class="atom-split" data-atom="chapter_23" data-title="The Girondin — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
-
-
-CHAPTER XXIII.
-
-In which the Girondin complains of the Weather.
-
-WHΕΝ CONSCIOUSNESS RETURNED to Boutroux, it returned two-fold: he was clear of himself, of his name, of his regiment, he was especially clear of every tiny detail of light and shade and colour at the moment before he fell; and he was conscious again of pain — of pain now not only mudding all the rest or overspreading it, but of the pain as a separate thing. And the pain had location: it was his thigh and his right groin.
-
-He groaned and opened his eyes. He was in a little bed, the last of twenty or thirty that lay in a line along the wall of a room so lengthy that it seemed almost a corridor. The opposite wall which faced the foot of his bed was a line of gaunt and dirty windows against which the rain still drove and poured; the distempered walls were splashed and grey, cracked in parts and caught with dust at the corners. At the far end, to which his eyes could just turn (for he could move no part of his body nor lay his head to one side), a large white mark, showing against the duller background of the wall, was the place where a crucifix had hung for many years and had shielded the surface from the effect of the light. He was in one of those hospitals which the forces had hurriedly arranged in the public buildings of Ste Menehould: it was a convent, dissolved these two years; a day or two before it had been the quarters of some of Dumouriez’s men. Their obscenities and their jests were scribbled on the walls, and intermixed with them the name of the regiment which had occupied the building. So much he gathered and no more. He could hear on the paved street without the rattle of passing wheels, and he distinguished the clank of cannon.... The occasional cries of command reached him also; but with these familiar sounds, there were others in that room less familiar and most distressing to the broken man. From four beds away came a continual monotonous groaning as regular as the breathing of sleep, and at the far end of the room a man in attendance was roughly quieting or attempting to quiet some boy whom a wound had driven light-headed, and who broke out time and again into shrieking snatches of marching songs.
-
-As Boutroux so lay, he saw coming up the room at the foot of the bed a doctor attached to the armies, a civilian bearing pinned to his sleeve the badge of his temporary duty. With him was one of the men told off for this fatigue, one of the few men that could be spared for such a duty, himself ill enough, white and miserable, and only spared to walk the hospital because he would have been unable to march.
-
-The doctor came up to the bed; the attendant recited the case, the name, and the regiment, from notes he held in his hand. Boutroux, wondering what they would do with him, lying helpless and gazing at them without much friendship, saw that the doctor was a settled bearded man, a surgeon, perhaps, one of deliberate movements and of fixed manner. He pulled back the bed-clothes and put his hand upon the hip of the sergeant, who gave a loud cry of pain. He pressed his hand, careless of such an effect, and of other cries that followed it, upon the groin and upon the thigh; he passed it up to the lowest of the ribs; he found there that the pain ceased; with a fixed pressure of the fingers that maddened his patient — but his patient could not move — he quickly discovered for himself the main part of the business, and, having done so, he put the bed-clothes back and moved off again.
-
-Boutroux lay alone, staring at the ceiling and suffering beyond all measure at having to lie there unfriended and uncompanioned, with no interest but perpetual pain. He thought: “ If something had hit me during that battle of theirs — for I understand it was a battle — they would have put me on the straw and I should have had some one of the regiment by me; there would have been an open wind upon my face. But here I am in prison, with a sickly linesman to visit me, perhaps every three hours, and a townsman doctor to maul me in silence only to decide whether or no I am to die.”
-
-Hour after hour passed and he lay thus, knowing nothing and able to learn nothing. The bed next him was empty, and he had spoken to the form in the bed beyond, but he had got no answer, and that form had lain all these hours unpleasantly still: the face was turned away from him; he could see but the hair of the head above the clothes. He wondered when some one, any one, would come to exchange a human word with him.
-
-That longing was no longer bearable, he thought, when the attendant reappeared in that long room of suffering and death, and Boutroux called to him. He marvelled to find his voice so thin and bodiless. The man came up and stood over him. The man’s paleness, his unshaven chin, a cough into which he fell from time to time, showed how he had been invalided for this service upon the wounded.
-
-“What is it, Sergeant?” he said, and gave a cough again, his thin and narrow chest torn and racked by it. “What is it, Sergeant?”
-
-“Am I to eat?” said Boutroux. He found as he said it that his voice was not only thin, and himself, as it were, without will and bloodless, but that he had to modulate his every tone lest the vibration of the sound, conveyed to his broken tissues, should add to his pain.
-
-The man shook his head. “Not till you take a draught the doctor wrote for you,” said he.
-
-“Then give it me,” said Boutroux.
-
-“The doctor said that if you were suffering great pain I was to give you the draught. Are you suffering great pain?”
-
-“Yes,” whispered Boutroux.
-
-“You are sure?” said the man, “Mind you, I was not to give you the draught unless you were suffering great pain!”
-
-“Oh, I am suffering enough,” he sighed; “give it me. Then afterwards, perhaps, I may eat.”
-
-The man went off; he was gone, as it seemed, an intolerable time; he came back with a bottle of thick syrup and a broken cup.
-
-“The doctor did not tell me how much water I should mix it with,” he said doubtfully, as though Boutroux could have helped him in such a dilemma.
-
-“Give it me neat,” said the sick man; “I have found things do more good that way.” And he drank a measure of the sweet, thick, and dark stuff — a thing that in health he could not have done.
-
-The attendant bore off the bottle and the cup, and Boutroux, as he lay — even before that other had reached the door at the further end of the room — felt a change. He still suffered pain: in a way it was the same pain; then his mind grew somewhat freer of it. He suffered it still, but he did notice it less and less, until, in rapid phases, each a better phase than the last, his pain occupied him no more. But something inward began to see matters extremely clear. He was constrained to shut his eyes, so much clearer was that inward sight than the dull walls of the room and the dull windows of it. The colours of what he saw were especially plain: there was a tarred log wall and fern litter, and his white horse old and absurd, the horse Pascal. The horse was splashed and steaming from the weather; he looked round for something to groom it with: there was not even straw. But as he looked, the door of the place opened and the bright sunlight came dancing in. It shone upon a face and body that seemed to him immortal, and the girl’s arms, as she smiled and laughed at him, held a great load of shining straw; she cast it at his feet and said she had brought it because she knew he needed it, and that she would bring him what he needed, no matter where, and from no matter what far places, for ever, and for ever, and for ever. And he, laughing back at her, said: “Joyeuse! No one would believe it outside the regiment, but there is nothing like straw and plenty of it for the grooming of a beast.”
-
-“Good bright straw,” she answered, “from the fields where it ripens in the sun.”
-
-He was taking it by a handful to groom his beast, when, even as he groomed it, he found himself walking with it, leading it by the bridle, and he found himself alone. He found himself alone with it, leading it through a woodland way, and he talked to it and asked it a question, saying: “Pascal, have we lost the regiment and the service?”
-
-And the horse answered him naturally enough: ‘Yes, Sergeant, we have lost the service, and the service us. And I am glad of it for evermore!”
-
-He answered: “You are right. It is the service that makes this dullness and this pain.”
-
-For as he walked beside the old horse in the woodland way, he felt that the walking hurt him more and more: in the groin... dully, then more sharply, the pain increasing upon him: the horse and the woods were part of the pain: everything was a part of it, and everything was growing grey, and the woodland colours about him were fading. They faded into greys and dull reds, through which his eyes, opening slowly, saw again the walls of the room and the long line of windows streaming still with rain. At his side and near his head he distinguished the doctor standing. The doctor was speaking not to him but to the attendant.
-
-“The opiate,” he said, “has had but little effect upon him, and that is the sign I feared. Next time, if he needs it, it will have less.” He shrugged his shoulders and moved off to the other beds.
-
-Boutroux was broad awake. The light seemed to be the dull light of a wet evening, but he could not be sure whether it was his eyes that failed him or the light outside that was falling. He called in his feeble voice, and the attendant came again.
-
-“What is it, Sergeant?” he asked.
-
-“What is the time?” said Boutroux in the low voice of a man hoarse and tired.
-
-“I will go and see,” said the man.
-
-“No, no, don’t go and see. I want to speak to a man.... Sit down gently upon the bed.”
-
-The attendant sat down and looked at him stupidly enough, and not very patiently.
-
-“What did the doctor say?” whispered Boutroux.
-
-The other looked awkward. “He said he couldn’t do much good,” he answered at last.
-
-“For how long?”
-
-“Oh, it might be any time,” replied the other dully.
-
-Over the young sergeant’s face there passed for the first time in those hours an expression of pain which was not physical.
-
-“What did they do,” he said, and he was whispering with difficulty now, “... to the old horse?”
-
-“He was all broken in the leg and side, so they shot him,” said the man.
-
-“And am I not so broken?” said Boutroux.
-
-The man had nothing to answer: he got up to go away. Then he heard, or thought he heard, an odd thing from Boutroux’s bed: the words, —
-
-“I should like to see a priest.”
-
-The man turned and stared. The sergeant might as well have asked for the stars or for fairy gold. Then he laughed stupidly, as he often did when he heard wounded men raving, and he began moving off again: he could just hear the voice feebler, hoarser, and lower than ever begging him to halt.
-
-“Is it still raining?” it said.
-
-“Yes,” he answered.
-
-“What weather!” sank the voice. And after that it spoke no more.
-
-The attendant waited a moment curiously halfway down the room; he called out to the bed: “Are you suffering pain?”
-
-But there was no answer.
-
-THE END
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Girondin — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -6759,6 +6307,142 @@ Quarters were quiet again. The lieutenant went up towards stables; he saw Sergea
 
 
 
+<span class="atom-split" data-atom="chapter_15" data-title="The Girondin — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+
+
+CHAPTER XV.
+
+In which an Ostler is too Political.
+
+NEXT DAY BY the relief of the guard it was known that the conspirators, the Austrians, were off to [[Paris]], to the High Court under guard; the mob that had captured them congratulated and recompensed; and the Army formally thanked for its zeal. A little after noon the news went round quarters that on the morrow they would march for the east, and it was good news for all of them. The force was beginning to get some shape into it, hugger-mugger though it was, and Poitiers was getting too political; if there was one thing the army hated it was politics. To be seized round the neck by market-women and told that you were adored for opinions you never held; or, when what you most needed was sleep after a long day and drinking, to be cheered before a company of singers and told that you were the bulwark of the country; or worse still, to receive a violent blow in a dark passage and to have yourself called a traitor by some one whose views upon the State you did not know and who might very well be in agreement with you — these were the things the young soldiers could not bear.
+
+The prospect of active service drew them together and lifted their hearts, and they were glad to be off again to the east, whither they were bound by their trade of fighting; and Boutroux — to whom every march away from the south was so much added safety — welcomed it most; but he had another hedge before him.
+
+That same afternoon, as he was looking to the grooming of the horses in the barrack square, a civilian, an ostler, had sauntered by. He was a man with a strong, very unpleasant face, one who seemed moreover to take strange liberties with quarters and yet whom no one seemed to dare reprove; he had come in on some pretext and passed Sergeant Boutroux a certain word in an undertone; it was a word Boutroux had known exceedingly well — once, weeks or days ago, in Bordeaux — too well. It struck him like a sentence of law when he heard it.
+
+It was the password of the Club on the night when that little affair in Bordeaux had occupied his former wealthy leisure.
+
+Boutroux, as he heard that word, had no time for plan or forethought. He replied with the counter password: he murmured to the ostler, as that impudent fellow lounged away, “The Human Race,” a simple enough phrase and big enough in all conscience, but it did its work; the ostler lounged back again. The nearer he got, and the better Boutroux could look at him, the less he liked his face.
+
+The men were grooming the horses in a long line; Boutroux stood there overlooking them, now calling out to one or another whom he thought was slacking in his work, or to a recruit who did not seem yet to have learned it. The civilian ostler had little business there; but Boutroux, having heard the password and having given the countersign, would not ask questions. The ostler said in a low tone, —
+
+“Sergeant Perrin, we know who you are.”
+
+“That is not difficult,” said Boutroux, keeping his temper and his colour too.
+
+“Shall I tell you the story in case you do not want to help us?” continued the ostler in that same undertone, so that no one else could hear, and gazing, as the sergeant did, at the men’s work and the line of horses.
+
+“I am quite indifferent,” said Boutroux, pulling from his trousers pocket a little leaden medal on which was stamped the triangle and the two pillars of the Society. The ostler as rapidly showed in his hand, open for a moment, a similar symbol, pocketed it again, and continued, —
+
+“These trinkets are not only useful to protect a man: sometimes they damn him!”
+
+“If he betrays the Brethren,” said Boutroux, using the old ritual reply.
+
+The ostler was silent, but in a moment or two he said: “When do the men water the beasts?”
+
+“They’ve pretty well done their grooming now,” said Boutroux. “I shall be giving the order soon. Why?”
+
+“Because I can say what I have to say better when the clatter of hoofs begins.”
+
+“Oh, I understand...” said Boutroux, and in a moment he had given the order. The men put down their curry-combs and their brushes, one and another gave a lingering pat to his animal; then at the second order every man had scrambled or vaulted on to his mount, and was taking it off in file to the drinking-troughs.
+
+The clatter of the horse-shoes upon the paving of the barrack-yard was loud, and the ostler could say what he had to say at his ease; he said it shortly.
+
+“Sergeant Perrin,” said the ostler, watching the receding line of horses with a critical eye, and walking side by side with Boutroux as he strolled behind the cavalcade to see that the watering was in order, “Sergeant Perrin, I have told you that we know who you are.”
+
+“I...” began Boutroux.
+
+The ostler gave an impatient shake of the head. “When I have done you will see whether there is any need for you to talk,” he said brutally. “Your mother lives in the long farmhouse upon the highroad on the Bordeaux side of Chiersac. She is an old witch of the King’s and she hobnobs with the priests.”
+
+“She is not my mother,” said Boutroux shortly.
+
+“Well then, your step-mother,” said the ostler impatiently.
+
+“That’s more like it, damn her!” answered Boutroux quietly.
+
+“Just after the Tyrant was taken and the Tuileries stormed by the People, a man who had been hiding in the wood came to your house, and your mother harboured him.”
+
+“That’s right,” said Boutroux, beginning to see daylight.
+
+“You, Sergeant Perrin, were down for enlistment, but you wanted some one to drive the horse back, and that some one was the man your step-mother harboured.”
+
+“It’s perfectly true,” said Boutroux stolidly.
+
+“He drove back with the cart, and you took the oath that evening.”
+
+“I did,” said Boutroux.
+
+“The Brethren in Bordeaux,” continued the ostler in a lower and rather graver voice, “have sent us the report, and what you are required upon your oath to answer is this: Where that man is and how he may be taken.”
+
+Boutroux thought a moment. The rustic Perrin who had driven him was a member of the Society. So much was clear. He was affiliated in spite of his mother, and the Society believed him to be that rustic. So much else was clear. That the Society wanted Boutroux, to kill him, Boutroux knew. The last of the horses was watered in its turn; the file was clattering back towards the stables. He swung slowly after them, the ostler by his side looking at him fixedly with his eyes and eagerly with his mind.
+
+“I don’t mind what happens to the man,” said Boutroux at last, a bitter note in his voice. “I’ll give every help.”
+
+“You’re bound to,” said the ostler gravely; “but you’ll be the more willing when I tell you what he did.”
+
+“What did he do?” asked Boutroux.
+
+“He betrayed the Club in Bordeaux, and he killed a man on faction — one of his Brothers in the Society.”
+
+“Did he, by God!” said Boutroux.
+
+“He did, by God!” answered the ostler. “There were plenty of things that night which no man could understand. The man’s name was Boutroux. He went to a meeting of the Society; he was with the Brethren and the Section — it’s all one there — and he tried to buy off his old uncle.”
+
+“Did they take his money?” said Boutroux gently.
+
+The ostler spat. “I don’t know, and I don’t care,” he said, “but anyhow the Executive ordered the uncle’s house to be guarded; he’d had a meeting of the traitors there that night. When Boutroux found that that was known, he killed the man on guard. At first we thought he was hiding in his uncle’s house, but he wasn’t. We’ve made sure of that, Sergeant.”
+
+“How?” said Boutroux.
+
+“Oh well,” said the ostler, laughing, “the report says that the old chap’s in jail; the People went through the house, you may lay to it. It’s as empty as a barn to-day.”
+
+Boutroux was on the point of saying, “And where’s the old lady?” but he caught the words on his lips, and turned them. “And where’s what you want me to do?” he said, and as he said it he thought of that familiar house, stripped, ransacked, looted, old Nicholas dead perhaps, or more probably flying; fire perhaps upon the walls of his own room, and the great stone halls deserted altogether; the tall panes of the windows broken, the ironwork of the gilt lantern twisted, and the carved oaken doors broken in. He tasted the taste of his exile, and he did not love that old hag of the roadside or her son any better as he thought of it.
+
+“I told you,” said the ostler shortly, “that you’ve got to tell us where the fellow is; for you know...” he added, his voice becoming threatening.
+
+The horses were in the stables; the men had gone back to their barrack rooms, their work accomplished; the stable guard were going their rounds, tossing the hay into the mangers. Boutroux laid a hand upon the ostler’s shoulder more firmly than that civilian liked.
+
+“Brother What’s-your-name,” he said, “I am not answerable to you: I am answerable to the Society. Do they meet to-night? If so, tell me where, or take me there.”
+
+“Have you got night leave?” said the ostler, “for you will need it.”
+
+“I will try to get it,” Boutroux replied. “I shall probably have to be back by midnight.”
+
+He made an appointment with the Jacobin to meet him at the gate that evening, and with that appointment in mind he went off to ask for leave.
+
+It fell to the duty of Lieutenant Hamard to grant leave for the troop.
+
+“Friend Perrin,” he said gently as Boutroux came in, “I would have you stand at attention: it is more respectful.”
+
+And Boutroux, who was already standing at attention, stiffened himself. The lieutenant looked him up and down.
+
+“Your shako is on one side,” he said.
+
+The sergeant straightened it.
+
+“And now,” said the lieutenant, “it is on the other.”
+
+The sergeant put it back again.
+
+“Who cleaned the hilt of your sword?”
+
+“I did, my Lieutenant,” said Sergeant Perrin.
+
+“When I was a sergeant,” murmured the lieutenant, “I always made a soldier do that. Times are changing. What do you want?”
+
+“Night leave, sir.”
+
+“You can’t have it: they will call the roll before dawn.”
+
+“Midnight leave, sir.”
+
+“If the captain will give you midnight leave, I will have it sent to you. Dismiss!” he concluded gently. It was his favourite word.
+
+Boutroux swivelled round and left the room. He knew he should find the leave on his table within an hour, and he did. The ostler, the Brother, came up to the gate of quarters at the fall of evening, and they went off through the town together.
+
+
+
+
 <span class="atom-split" data-atom="chapter_16--part_01" data-title="The Girondin — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
 
 
@@ -6887,6 +6571,126 @@ They thanked him, and he was dismissed.
 “It is a pity,” said Boutroux to himself by way of prayers that night as he fell asleep, “that one cannot do the right thing without involving so many other people beside one’s self. But what would you have?” he thought, as he gave his last deep sigh before slumber. “One’s own good is almost always some one else’s bane. And God knows I have never hurt any that acted justly by me.”
 
 With which meditation he fell into a very healthy and contented sleep, and woke from it in the first hours just before dawn to the clangour of the trumpets and the rumour of all the quarters for the march.
+
+
+
+
+<span class="atom-split" data-atom="chapter_17" data-title="The Girondin — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
+
+
+CHAPTER XVII.
+
+In which an Old Gentleman shows the Way to an Old Lady.
+
+TΗΕ REGIMENT MARCHED day upon day, a long train of straggling horses in the late summer weather; the new recruits were drilled evening after evening in the market-squares of the little towns.
+
+Twice, at Loches and at Blois, there were desertions; and in the early mornings, after summary courts, firing platoons and the shooting of men.
+
+At Blois, also, a few more recruits came in, too late, one would have thought, to be used — but in those days everything was used. The remounts were dragged from the stables of peasants, by force and under order of the Government, as they went along, not without squabbles, nor, once or twice, without bloodshed.
+
+They reached Orleans, and stayed for forty-eight hours in the cavalry barracks of the town. The dull place was even fuller of rumour than had been Poitiers; the breath of [[Paris]] was upon it, and the colonel was anxious to be away, for even in that short delay he lost ten men, and he dared not recover them as he might have done further down country. They left Orleans before dawn for Chateauneuf, a short day, and one undertaken only to get away from the constriction of the populace and the Clubs and the turmoil of a great town that ruined the order of the regiment. But at Chateauneuf the rumour spread among the men that the march would now be direct for the frontier, and even in the little villages of the valley the news from the frontier had come: the armies of the kings were over the frontier; the invaders were on the soil of the Nation — and Verdun had fallen.
+
+Soldiers are not concerned with news; but in the minds of soldiers, even though they be soldiers but recently civilian, every soldierly place and stronghold has a meaning. For armies have a sort of consciousness running through them: the chance words of officers overheard by their servants, the politicians of the barrack room discussing affairs, a mere vague comprehension of the map — all this inhabits the mind of the men whose trade it is to go forward by the great roads to battle, and whose nourishment is the open air.
+
+Verdun had fallen; and the little town and the hussars that had just ridden in were abuzz with the news.
+
+Late that night, when, with half a dozen of the sergeants who had midnight leave, Boutroux sat, wearied to death, in a tiny inn, he heard opinion on fire. The men from the street mixed with the soldiery, and one man urged another on to violence. As he so sat — it was past ten o’clock, and he was about to sacrifice his leave and sleep — a man came in from quarters with an order. The regiment was pressed to march, and the sergeants were sent for. —
+
+They rose, grumbling; they found in quarters the lights and the movement of a disturbed evening and of sudden commands. A captain, tall, and cloaked against the night, stood at the gate of the guard checking a paper in his hand which one of the men on guard lit from a lantern held above it. He murmured names and the business of each to his non-commissioned officers; one after another saluted and went off about the thing he was bidden to do. The captain’s pencil zig-zagged down the sheet, scratching out this, adding that. He came to the name Perrin.
+
+“Sergeant Perrin,” he said.
+
+Boutroux saluted.
+
+“I think you are trustworthy?”
+
+“I hope so,” said Boutroux.
+
+“My lad,” said the captain in a totally different tone — as he looked up under the lantern light Boutroux saw the face of one long broken to the service— “when you have been in the career as long as I have, you will learn never to answer a superior.”
+
+The refrain sounded familiar, and Boutroux saluted again.
+
+“Sergeant Perrin,” continued the captain, falling again into the kindly and simple tone of a man who is ordering something very difficult, “ you will get five horses from a house which is marked suspect.” He fumbled a little with his paper, peered at it closely with his keen eyes, and added, “The Spinster de La Roche. Dismiss!” Then it was that Boutroux wished one were allowed to ask questions in the service; but he knew better by now, and with the ridiculous stiff movement which the service requires, he turned sharply round and walked away. The captain called after him, —
+
+“You will take five men.”
+
+He turned round stiffly again from about thirty yards away, saluted, and said, “Yes, my Captain.”
+
+He went back to the barrack room, took five men at random; one of them had been his equal as a recruit in the first days of the march and pretended to familiarity with him; he silenced the man, made the five fall in with this old comrade as a sort of corporal to embrigade them, and marched out of quarters into the night.
+
+The street was empty; there were no lights; he had no conception of where the Spinster de La Roche might live, still less did he know how he would be received.
+
+“The service,” thought Boutroux, “makes of men naturally polite a very nasty set of beings.”
+
+He knocked at a door at random: there was no answer. He bade the men force it, and it was forced. From the top of the rude stair within came first a grumble as of a man half awake; there was the clicking of a tinder-box being struck; at last a light glimmered, and an old man of surprising energy put his head over a landing above and cursed them for a cartload of devils, asking whether he lived in a free country or not, and whether it was thus that a citizen should be disturbed at midnight, and who was safe when such things could be. To whom Boutroux called up sharply, —
+
+“You are required to give us direction to the house of the Spinster de La Roche, and, if necessary, to lead us there.”
+
+“If necessary, to lead you there!” snarled the old man in his nightgown, holding the candle high above his head: “if necessary, to lead you there! I’ll lead you to hell first!”
+
+“No,” said Boutroux, “you will do that just afterwards.”
+
+For a moment it seemed that the old man would give trouble: he was on the point of turning from them, and Boutroux foresaw questions in quarters and a very bad time next morning. But the citizen thought better of it. He reappeared with peasant trousers slipped over his legs, a rough coat upon his shoulders, still wearing his nightgown by way of a shirt, and his absurd cotton nightcap by way of a hat, and so came down.
+
+“You can find it for yourself,” he grumbled, “if you will follow my instructions — the woman’s known enough in all conscience!” Then he chuckled.
+
+“If your instructions are clear, Citizen,” said Boutroux, “you need not come.”
+
+The old man was a little mollified by that. He was weak upon the grades of an army; he did not understand the stripes.
+
+“Captain,” he said more humbly — and the private soldier leading the others grinned—” I am willing enough to come, but you understand one lives in the same town, and though the lady’s reputation...”
+
+“Oh yes, I understand,” said Boutroux; “but where is it?”
+
+“I’ll come with you,” sighed the old fellow. He fetched a ramshackle lantern, wasting an intolerable time about it, and came hobbling back with it. “Now,” he said, “let us go out. It is not half a mile.”
+
+They left the town; they passed along a sandy lane through a little wood to the north of it; they came to a high wall, pierced by a green wooden door; the door was moss-grown and dilapidated.
+
+“The Cháteau is through there,” said the old man.
+
+“The Cháteau!” said Boutroux.
+
+“She is a person of consequence,” said the old man. “I have no quarrels; I am no politician; I live and let live. She is a person of consequence... of the rest I say nothing. And let me tell you, from what I know of the old cat, she dis-likes to be disturbed, and her doors are always locked.”
+
+“Doors give way so easily,” said Boutroux, “and it’s always work for the locksmith.” He beckoned two men forward. Their shoulders took the old green door: it did not open, but the rotten wood of it broke, and they forced their way through into a venerable and dilapidated garden. A grass-grown path, once gravelled, was before them; the lantern light shone high into the thick foliage of ancient trees.
+
+“I need not go further, Major?” said the old man anxiously.
+
+“Up to the house!” said Boutroux firmly, “up to the house! You must remember we are strangers here and need an introduction.”
+
+The old man went up to Boutroux’s side and spoke in a low voice, that he might not be overheard by the men.
+
+“You will be kind to me,” he whispered, “Colonel? After all, we have to live and let live: it is a small town.”
+
+“Come along, Citizen,” said Boutroux, “come along!” — and the old man came along.
+
+In fifty yards they were at the moat of the old great place. It stood awfully tall and sombre in the night, like a huge square tower with its high slate roofs, solemn chimneys of two hundred years among the stars; the big doors were shut fast, but a light glimmered within, and through the glass above the entry they could see the reflection of that light upon a carved and ancient ceiling. Outside these closed doors swung a great bell. They would not have found its chain in the darkness, but the old man showed them where to find it. Boutroux pulled it, and its loud clangour rang through the park and the trees, and woke echoes within the old house itself. There was a shuffling of feet within, and (how it reminded him of home!) a little square wicket, grated, pierced in the door, was opened cautiously. They were asked their business.
+
+Boutroux gave it. “The hussars,” he said. “We are sent on requisition.”
+
+A quavering woman’s voice answered, —
+
+“I have orders to admit no one.”
+
+“Tell your mistress,” said Boutroux, with his eye to the little iron opening, and seeing within a small, thin, trembling woman, white-haired and capped in the manner of the district, “tell your mistress that we are here to do no harm — but there is urgent business from the Army.”
+
+She bade him wait. She kept them waiting there a good quarter of an hour, and when she came back said, as pompously as her thin cracked voice would allow, —
+
+“My lady will receive you.”
+
+“Give her my best regards,” said Boutroux, “and bid her have no fear at all. It is the business of the Nation.”
+
+The great doors were opened, creaking; the light from within poured upon the park.
+
+The old man said anxiously, whispering again, “Need I stay?”
+
+“No, Citizen,” said Boutroux, “you are free of these things.”
+
+“You will not give my name to her? She has many friends — too many!” said the man anxiously.
+
+“I would, of course, betray your name if I knew it,” said Boutroux doubtfully; “but I do not know it. However, I will guess at it.”
+
+The old man eyed him misunderstandingly, and made off. He had no love for the politics of his time, and as he went back through the darkness to his disturbed repose he loved them less than ever: “The world,” said he to himself, “is coming to an end... so it was foretold... so it was foretold. Old Stephen’s niece, whom he forced to be a nun in Orleans, foretold it.... She was right, it is the end of the world!” And so muttering, he went back homewards.
 
 
 
@@ -7513,3 +7317,199 @@ Boutroux slowly lifted himself from his cramped position, not without a twinge i
 “Sorry,” said Boutroux. He walked off wit it, and begged the old white horse to drink th dirty stuff. “It tastes of powder, I know,” he said, “but so does all this cursed trade.” The old horse drank at last.
 
 Boutroux pushed open the mill door, helped himself to a nice wisp of straw, and very slow! and methodically began to groom his beast, telling it as he did so all manner of entertaining things.
+
+
+
+
+<span class="atom-split" data-atom="chapter_22" data-title="The Girondin — Chapter 22" data-chapter="Chapter 22" data-kind="chapter"></span>
+
+
+CHAPTER XXII.
+
+Which shows the Disagreeables attendant upon the Use of Amateur Drivers in the Conduct of Artillery; especially when they are pressed for Time.
+
+THE SEPTEMBER DARK had fallen; through the thick air the stronger stars could just be palely seen. Away along the Prussian lines a few smoky fires began to burn, notably in front of a small inn which lay upon the great [[Paris]] road, within which inn the King of Prussia, and Brunswick, and the princes of the French blood — and, for that matter, near by, young Goethe the poet — were assembled. But what did the Army know of such things?
+
+Those who still cared to look over what had been the field of that day’s cannonade saw nothing save the vague line which a roll of land makes darker against the dark sky of a cloudy evening, and here and there those smoky blotches of dull red light coming and going with the drift of the murk, and marking the line of the allies. A young soldier — a volunteer caught in during the march — came up with a lantern in his hand and peered into the door of the mill; his face was full of joy, for he was still three-quarters civilian, and he had education, and the literary side of the thing appealed to him. He said, —
+
+“A great day, Sergeant.”
+
+To which Boutroux replied, with as little brutality as he could manage, —
+
+“I don’t suppose that was your message.”
+
+“No, Sergeant,” said the lad, “but I couldn’t help saying it;” and he sighed contentedly.
+
+Boutroux continued to rub down the old horse with a wisp of straw, and as he did so he noted painfully that the beast shivered.
+
+“Sergeant,” said the lad, “I’ve come with orders.”
+
+“Well, what are they?” said Boutroux, grooming away, and not looking round.
+
+“We sleep on the ground, Sergeant.”
+
+“Naturally,” said Boutroux; “and I hope you will not find it too damp. I sleep in the mill. Dismiss.”
+
+“Sergeant, they’re calling all the sergeants round in the regiment.”
+
+“You should have said that at first, you hoofed and horned fool!” answered Boutroux, with the politeness of the service. “I’ll be back soon,” he said to his horse as he shut the mill door behind him, and followed the boy to where a number of the non-commissioned rank were running up to receive the regimental orders. The subalterns were there, each delivering the message for his troop; and in the darkness, on a mount that still held itself well after all these days, Boutroux saw the figure of his colonel; and as he saw it he remembered vividly those hot hours in the south, and the young officer meeting the Commissioner to the Armies, the sudden promotion, and all the bewildering jumble of the eastward march under this man’s growing command. The order was read to them by the light of a lantern; they were told that the operations had been completely successful; the cannonade was made to seem to those young men and old, huddled together, a national and a determining victory. They were told that the invaders were routed.
+
+Meanwhile, a mile away, the invaders lay in occupation of the crest that they had held all day long, and the issue, as men knew better in proportion to their rank, was only a little less doubtful than the day before: a little less doubtful in this, that the great unformed mass of the French levies had just barely stood; they had not been driven and broken into the forest of the hills.
+
+But the soldiers were content to accept the new legend, and for the first time in all those days gaiety ran through the regiment. Even the prospect of a night upon that drenched soil did not disturb them, and Kellermann had wisely seen to it that wine should come up from the village: men were filled with wine before they slept. In the line the companies, in the cavalry the troops, clubbed for the purchase of the liquor; the canteen made its enormous profits, and for the first time since the beginning of the wars the peasants were doing business too.
+
+To one of these, bringing his barrels in upon an open cart, Boutroux went up and spoke.
+
+“Friend,” said he, “will you not sell me some of your wine?”
+
+The man shook his head. He was under orders to sell to no one but to the canteen. “Written orders,” he said, “and signed by the colonel upon the paper of the Republic.” He spoke that last word with so much dignity that Boutroux looked at him curiously.
+
+“I have heard already that the Republic is crawling on; but if only you would give me some wine, since you are not allowed to sell it, we might discuss the matter.”
+
+“I have no wish to discuss it,” said the peasant, “and I certainly will not give you wine. We have been a Republic these twenty-four hours.”
+
+“See how stingy Republics are!” said Boutroux. “Why, in the old days such as yesterday and the day before, when there was no Republic, men could have wine for the asking, and sometimes for the taking. It has not mended things, your Republic; but I will go and tell the news to my horse. I do not need your wine. Only tell me something I do not quite understand. What is the name of this place?”
+
+“This place?” said the man clumsily; “it has no name.”
+
+“I thought as much,” said Boutroux, “by the look of it during the daylight. But I suppose you live somewhere: there is some sort of a village with pigs in it and more mud?”
+
+“Down below,” said the man, jerking his thumb, “is my village.”
+
+“What do you call it?” said Boutroux.
+
+“Valmy,” said the man.
+
+“I must remember that name,” said Boutroux. “When one gets out of active service it is a great thing to remember the names of battles. I can see myself sitting in an inn with a great scar upon my face (got from a cart-whip); the yokels shall stand me drinks while I tell them the dreadful things I did round and about the mill at Valmy, and what wounds I had, and how bewildered a man is and yet how exalted under fire.”
+
+With this he sauntered off; the main force drew off through the darkness, but the hussars held on; and all night long until the bugles under the dull and misty dawn he slept by his horse in the mill, and with the morning they assembled for the march again.
+
+The line was formed, the regiment was in column and began picking its way through such huddled groups of the soldiery as were left on the height, past broken limbers, here and there the body of a man, cases of food and of powder, scraps of the bread brought up at the end of the day before — all the litter of position which has been held by many thousands.
+
+“I thought as much,” murmured Boutroux to himself, as the column very gradually wound its way out of the confusion of men and things and headed eastward down the great empty rolls of chalky land, “I thought as much. They never say it in the history books, but it is what I always imagined to be true. After a great victory one heads away from the enemy. But we must not make too sure, my dear,” he continued to the old horse, patting its neck; “we may be outflanking, or enveloping, or doing some other monstrous thing. Or we may be concentrating; but it does look uncommonly like a peaceable and well-ordered retreat so far as the Lambs are concerned.”
+
+As for the Lambs, they went forward easily enough. There was nothing in the attitude of those spent boys with their sprinkling of veterans, and their young colonel at the head, to suggest any emotion of retreat or of victory. They were still maundering on whithersoever they might be led, which is the whole trade of soldiers. The grooming had been very imperfect, the horses were badly splashed, but after the cannonade the respite had given ample time for provision, and at least the poor beasts had been well fed and had drunk their fill of the white chalky water of the Champagne Pouilleuse.
+
+A few miles off Argonne stood up, a long low wall against the eastern sky, dark with its miles and miles of trees; and beneath it, at the foot of a gap, a spire and a confusion of little buildings marked Ste Menehould.
+
+They went on thus two hours, parallel bodies beginning to move with the advance of the day; they reached the gates of the market-town, and as they reached them Boutroux noticed that his mount was done. Horses, especially the trained horses of cavalry, will so work up to the last moment, and then, without excuse or complaint, their end comes upon them. The old white horse stumbled twice, and Boutroux checked it, pulling it up and cheering it as he had done now for so many days. But the horse did not respond and did not lift its head. It had not many hundred yards to go. His horse so failing filled him with a superstition. He put his hand in his tunic to his chain and his medal. The medal was gone.
+
+Just as they got within the streets of the town Boutroux, with the last troop of the long column of the regiment, heard a clatter and a crashing of wheels coming down the slope of a side street. It was the hired local drivers — peasants bringing in a battery. There was a complete confusion; the weight of the pieces and of the limbers on the steep incline had been just too much for the wretched teams, and the whole weight of the business was pouring down unchecked on to the high-street. The horses stumbled and slid together, some had already caught in their traces, one or two thrown, and the most of them sliding upon the wet paving.
+
+The troop had barely turned their eyes to notice the danger, when Boutroux, appreciating it more rapidly than any other of his equals, shouted, as men do in accidents, forgetting rank, —
+
+“Lieutenant, wheel them to the right, and bring up alongside the next file!”
+
+The lieutenant looked round, startled, began to see what was happening, and had the sense to obey the suggestion. He shouted the order, the men urged their mounts, the whole half-hundred were pulling away quickly from the shock of the battery just as its ungoverned impetus came upon the high-street. Boutroux, rounding up at the end, was watching his men to see that they should just escape the peril, when the old white horse could do no more. The attempt at speed which its rider had conveyed to it was the point which determined its end. It stumbled — a pole of the near limbers was within a foot of its flank. Boutroux, forgetting friendship and forgetting ties, pulled at the curb brutally. The poor beast lifted its head and jerked it in an attempt to rise, failed, and fell.
+
+It fell right upon the sergeant’s left leg before he had time to drag it from the stirrup; and as it fell, the pole, the wheels of the limber, and the teams came in a mass over the fallen horse and rider....
+
+Before Boutroux’s eyes was a mad confusion of plunging horses, men’s feet in the stirrup irons, and the thongs of whips; Pascal’s old head tossing twice in a convulsive movement. But the sight was conditioned and controlled by an intolerable and increasing pain. This vision of pain, noise, and wild movement, all mixed and kneaded together, lasted not a moment. The sergeant was soon alone with pain, and with pain only. The air about him grew dark; he saw, heard, knew, felt nothing but the pain, nor did anything else remain with him. The pain extended and became a part of his being.
+
+Less conscious than a man in a drunken sleep, he knew that they were moving him, but he knew it only by newer and sharper experiences of pain: he was conscious of that so fully that there was room for nothing else. It was as though the colour upon which his closed eyes dully gazed, the dark red colour which was round him somehow like a cloak, was the very colour of pain. Then, by God’s mercy, this awful form of consciousness grew dull; his spirit and his body ached, but only ached. He had sunk into a sort of use and custom of dull agony, and soon this also passed, and without repose and without refreshment he sank into something deeper than his deepest, sleep.
+
+
+
+
+<span class="atom-split" data-atom="chapter_23" data-title="The Girondin — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
+
+
+CHAPTER XXIII.
+
+In which the Girondin complains of the Weather.
+
+WHΕΝ CONSCIOUSNESS RETURNED to Boutroux, it returned two-fold: he was clear of himself, of his name, of his regiment, he was especially clear of every tiny detail of light and shade and colour at the moment before he fell; and he was conscious again of pain — of pain now not only mudding all the rest or overspreading it, but of the pain as a separate thing. And the pain had location: it was his thigh and his right groin.
+
+He groaned and opened his eyes. He was in a little bed, the last of twenty or thirty that lay in a line along the wall of a room so lengthy that it seemed almost a corridor. The opposite wall which faced the foot of his bed was a line of gaunt and dirty windows against which the rain still drove and poured; the distempered walls were splashed and grey, cracked in parts and caught with dust at the corners. At the far end, to which his eyes could just turn (for he could move no part of his body nor lay his head to one side), a large white mark, showing against the duller background of the wall, was the place where a crucifix had hung for many years and had shielded the surface from the effect of the light. He was in one of those hospitals which the forces had hurriedly arranged in the public buildings of Ste Menehould: it was a convent, dissolved these two years; a day or two before it had been the quarters of some of Dumouriez’s men. Their obscenities and their jests were scribbled on the walls, and intermixed with them the name of the regiment which had occupied the building. So much he gathered and no more. He could hear on the paved street without the rattle of passing wheels, and he distinguished the clank of cannon.... The occasional cries of command reached him also; but with these familiar sounds, there were others in that room less familiar and most distressing to the broken man. From four beds away came a continual monotonous groaning as regular as the breathing of sleep, and at the far end of the room a man in attendance was roughly quieting or attempting to quiet some boy whom a wound had driven light-headed, and who broke out time and again into shrieking snatches of marching songs.
+
+As Boutroux so lay, he saw coming up the room at the foot of the bed a doctor attached to the armies, a civilian bearing pinned to his sleeve the badge of his temporary duty. With him was one of the men told off for this fatigue, one of the few men that could be spared for such a duty, himself ill enough, white and miserable, and only spared to walk the hospital because he would have been unable to march.
+
+The doctor came up to the bed; the attendant recited the case, the name, and the regiment, from notes he held in his hand. Boutroux, wondering what they would do with him, lying helpless and gazing at them without much friendship, saw that the doctor was a settled bearded man, a surgeon, perhaps, one of deliberate movements and of fixed manner. He pulled back the bed-clothes and put his hand upon the hip of the sergeant, who gave a loud cry of pain. He pressed his hand, careless of such an effect, and of other cries that followed it, upon the groin and upon the thigh; he passed it up to the lowest of the ribs; he found there that the pain ceased; with a fixed pressure of the fingers that maddened his patient — but his patient could not move — he quickly discovered for himself the main part of the business, and, having done so, he put the bed-clothes back and moved off again.
+
+Boutroux lay alone, staring at the ceiling and suffering beyond all measure at having to lie there unfriended and uncompanioned, with no interest but perpetual pain. He thought: “ If something had hit me during that battle of theirs — for I understand it was a battle — they would have put me on the straw and I should have had some one of the regiment by me; there would have been an open wind upon my face. But here I am in prison, with a sickly linesman to visit me, perhaps every three hours, and a townsman doctor to maul me in silence only to decide whether or no I am to die.”
+
+Hour after hour passed and he lay thus, knowing nothing and able to learn nothing. The bed next him was empty, and he had spoken to the form in the bed beyond, but he had got no answer, and that form had lain all these hours unpleasantly still: the face was turned away from him; he could see but the hair of the head above the clothes. He wondered when some one, any one, would come to exchange a human word with him.
+
+That longing was no longer bearable, he thought, when the attendant reappeared in that long room of suffering and death, and Boutroux called to him. He marvelled to find his voice so thin and bodiless. The man came up and stood over him. The man’s paleness, his unshaven chin, a cough into which he fell from time to time, showed how he had been invalided for this service upon the wounded.
+
+“What is it, Sergeant?” he said, and gave a cough again, his thin and narrow chest torn and racked by it. “What is it, Sergeant?”
+
+“Am I to eat?” said Boutroux. He found as he said it that his voice was not only thin, and himself, as it were, without will and bloodless, but that he had to modulate his every tone lest the vibration of the sound, conveyed to his broken tissues, should add to his pain.
+
+The man shook his head. “Not till you take a draught the doctor wrote for you,” said he.
+
+“Then give it me,” said Boutroux.
+
+“The doctor said that if you were suffering great pain I was to give you the draught. Are you suffering great pain?”
+
+“Yes,” whispered Boutroux.
+
+“You are sure?” said the man, “Mind you, I was not to give you the draught unless you were suffering great pain!”
+
+“Oh, I am suffering enough,” he sighed; “give it me. Then afterwards, perhaps, I may eat.”
+
+The man went off; he was gone, as it seemed, an intolerable time; he came back with a bottle of thick syrup and a broken cup.
+
+“The doctor did not tell me how much water I should mix it with,” he said doubtfully, as though Boutroux could have helped him in such a dilemma.
+
+“Give it me neat,” said the sick man; “I have found things do more good that way.” And he drank a measure of the sweet, thick, and dark stuff — a thing that in health he could not have done.
+
+The attendant bore off the bottle and the cup, and Boutroux, as he lay — even before that other had reached the door at the further end of the room — felt a change. He still suffered pain: in a way it was the same pain; then his mind grew somewhat freer of it. He suffered it still, but he did notice it less and less, until, in rapid phases, each a better phase than the last, his pain occupied him no more. But something inward began to see matters extremely clear. He was constrained to shut his eyes, so much clearer was that inward sight than the dull walls of the room and the dull windows of it. The colours of what he saw were especially plain: there was a tarred log wall and fern litter, and his white horse old and absurd, the horse Pascal. The horse was splashed and steaming from the weather; he looked round for something to groom it with: there was not even straw. But as he looked, the door of the place opened and the bright sunlight came dancing in. It shone upon a face and body that seemed to him immortal, and the girl’s arms, as she smiled and laughed at him, held a great load of shining straw; she cast it at his feet and said she had brought it because she knew he needed it, and that she would bring him what he needed, no matter where, and from no matter what far places, for ever, and for ever, and for ever. And he, laughing back at her, said: “Joyeuse! No one would believe it outside the regiment, but there is nothing like straw and plenty of it for the grooming of a beast.”
+
+“Good bright straw,” she answered, “from the fields where it ripens in the sun.”
+
+He was taking it by a handful to groom his beast, when, even as he groomed it, he found himself walking with it, leading it by the bridle, and he found himself alone. He found himself alone with it, leading it through a woodland way, and he talked to it and asked it a question, saying: “Pascal, have we lost the regiment and the service?”
+
+And the horse answered him naturally enough: ‘Yes, Sergeant, we have lost the service, and the service us. And I am glad of it for evermore!”
+
+He answered: “You are right. It is the service that makes this dullness and this pain.”
+
+For as he walked beside the old horse in the woodland way, he felt that the walking hurt him more and more: in the groin... dully, then more sharply, the pain increasing upon him: the horse and the woods were part of the pain: everything was a part of it, and everything was growing grey, and the woodland colours about him were fading. They faded into greys and dull reds, through which his eyes, opening slowly, saw again the walls of the room and the long line of windows streaming still with rain. At his side and near his head he distinguished the doctor standing. The doctor was speaking not to him but to the attendant.
+
+“The opiate,” he said, “has had but little effect upon him, and that is the sign I feared. Next time, if he needs it, it will have less.” He shrugged his shoulders and moved off to the other beds.
+
+Boutroux was broad awake. The light seemed to be the dull light of a wet evening, but he could not be sure whether it was his eyes that failed him or the light outside that was falling. He called in his feeble voice, and the attendant came again.
+
+“What is it, Sergeant?” he asked.
+
+“What is the time?” said Boutroux in the low voice of a man hoarse and tired.
+
+“I will go and see,” said the man.
+
+“No, no, don’t go and see. I want to speak to a man.... Sit down gently upon the bed.”
+
+The attendant sat down and looked at him stupidly enough, and not very patiently.
+
+“What did the doctor say?” whispered Boutroux.
+
+The other looked awkward. “He said he couldn’t do much good,” he answered at last.
+
+“For how long?”
+
+“Oh, it might be any time,” replied the other dully.
+
+Over the young sergeant’s face there passed for the first time in those hours an expression of pain which was not physical.
+
+“What did they do,” he said, and he was whispering with difficulty now, “... to the old horse?”
+
+“He was all broken in the leg and side, so they shot him,” said the man.
+
+“And am I not so broken?” said Boutroux.
+
+The man had nothing to answer: he got up to go away. Then he heard, or thought he heard, an odd thing from Boutroux’s bed: the words, —
+
+“I should like to see a priest.”
+
+The man turned and stared. The sergeant might as well have asked for the stars or for fairy gold. Then he laughed stupidly, as he often did when he heard wounded men raving, and he began moving off again: he could just hear the voice feebler, hoarser, and lower than ever begging him to halt.
+
+“Is it still raining?” it said.
+
+“Yes,” he answered.
+
+“What weather!” sank the voice. And after that it spoke no more.
+
+The attendant waited a moment curiously halfway down the room; he called out to the bed: “Are you suffering pain?”
+
+But there was no answer.
+
+THE END

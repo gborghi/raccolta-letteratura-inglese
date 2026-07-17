@@ -11993,42 +11993,6 @@
 ],
 "plot": "Chesterton argues that modern society's refusal to undo past wrongs (\"impenitence\") allowed capitalism to strip the poor of every last security — turning the serf into the homeless tramp — then breed a degraded underclass through chronic exploitation, and finally reach for eugenics as a cheap biological fix rather than restore justice, a tyranny made possible by the collapse of any coherent positive concept of individual liberty."
 },
-"testi/chesterton/atomized/everlasting_man/chapter_01_on_the_man_called_christ_chris": {
-"characters": [
-"Christ"
-],
-"themes": [
-"defamiliarization as path to true wonder",
-"critique of shallow anti-clerical criticism",
-"impartiality vs partisan judgment of Christianity",
-"uniqueness of man and Christ against evolutionary gradualism",
-"seeing the familiar (horse, Church) as strange to recover its真 meaning"
-],
-"plot": "In this preface and introduction Chesterton lays out his book's plan — arguing that critics of Christianity are neither truly inside nor outside it and so cannot judge it fairly, and that recovering childlike wonder or deliberate strangeness (illustrated via the image of a horse seen as a \"monster\") is needed to see both mankind and the man called Christ as unique exceptions rather than points on a gradual evolutionary or religious continuum."
-},
-"testi/chesterton/atomized/everlasting_man/chapter_02": {
-"characters": [],
-"themes": [
-"human uniqueness",
-"art as divine signature",
-"critique of evolutionism",
-"cave-man myth debunked"
-],
-"plot": "Chesterton examines prehistoric cave paintings to argue that man's capacity for art proves he differs from animals in kind not degree, demolishing both the brutish \"cave-man\" stereotype and the gradualist evolutionary narrative, and concluding that art is the signature of man as image of God."
-},
-"testi/chesterton/atomized/everlasting_man/chapter_03": {
-"characters": [
-"Christ"
-],
-"themes": [
-"incarnation paradox",
-"mythology fulfilled",
-"church militant",
-"gospel enigma",
-"timeless teaching"
-],
-"plot": "Chesterton argues that Christ's birth in a cave completes all human mythological and philosophical searching, then examines the Gospel as a book of riddles whose enigmatic and paradoxical teachings cannot be reduced to the customs of any single time or place."
-},
 "testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers": {
 "characters": [],
 "themes": [
@@ -18619,30 +18583,6 @@
 "jingoism"
 ],
 "plot": "Chesterton argues that English patriotism has decayed into vulgar jingoism because schools neglect the nation's own literary and intellectual heritage, leaving citizens to pride themselves on conquest and trade rather than on Shakespeare, Newton, and the great tradition of English thought."
-},
-"testi/chesterton/atomized/the_everlasting_man/chapter_01_on_the_creature_called_man": {
-"characters": [],
-"themes": [
-"human uniqueness",
-"prehistoric art",
-"critique of evolutionism",
-"origins of religion",
-"man as creator"
-],
-"plot": "Chesterton argues that man is categorically distinct from all animals, using Paleolithic cave paintings as primary evidence of a uniquely human artistic and spiritual consciousness, while dismantling evolutionary progressivism and examining early civilizations (Egypt, Babylon) to show humanity began complex rather than primitive."
-},
-"testi/chesterton/atomized/the_everlasting_man/chapter_02_on_the_man_called_christ": {
-"characters": [
-"Christ"
-],
-"themes": [
-"incarnation paradox",
-"mythology vs revelation",
-"cave symbolism",
-"gospel riddles",
-"universality of faith"
-],
-"plot": "Chesterton argues Christ's birth in a cave paradoxically fulfils both pagan mythology (shepherds) and ancient philosophy (Magi) while Herod embodies demonic opposition; then reading the Gospels as a stranger, he shows Christ's words are unsettling paradoxes and riddles, not platitudes, pointing to something beyond ordinary human legend or morality."
 },
 "testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns": {
 "characters": [],
@@ -68551,5 +68491,247 @@
 "contentment versus reward"
 ],
 "plot": "Professor Jacob Lawson enthuses to his brother Arthur about long-range Television and Dow's Patent, the one intensifier that makes it possible and which the contractors Durrant's will now monopolise. Without connecting the patent to politics, Arthur resolves next day to visit his friend Halterton to congratulate him after his ordeal in the public glare."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_18_appendix_i": {
+"characters": [],
+"themes": [
+"on prehistoric man",
+"limits of the evidence",
+"appendix"
+],
+"plot": "A short appendix returning to prehistoric man, cautioning again against building confident histories on fragmentary remains."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_12_the_riddles_of_the_gospel": {
+"characters": [
+"Christ",
+"the Gospel",
+"the Galilean"
+],
+"themes": [
+"the strangeness of the Gospels",
+"the unexpected Christ",
+"riddles of the sayings"
+],
+"plot": "He argues the Christ of the Gospels is not the mild teacher of modern imagination but a startling, riddling figure whose words no invented sage would have dared to speak."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_09_the_war_of_the_gods_and_demons": {
+"characters": [
+"Rome",
+"Carthage",
+"Hannibal",
+"Moloch"
+],
+"themes": [
+"Rome versus Carthage",
+"the war of gods and demons",
+"child-sacrifice and civilisation"
+],
+"plot": "The Punic Wars become a battle between the human paganism of Rome and the demonic child-sacrificing cult of Carthage, whose defeat Chesterton reads as the survival of humanity itself."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_10_the_end_of_the_world": {
+"characters": [
+"Virgil",
+"Rome",
+"Carthage"
+],
+"themes": [
+"exhaustion of paganism",
+"the end of the old world",
+"waiting for something new"
+],
+"plot": "With paganism grown weary and its imagination spent, the ancient world reaches a quiet dead end, and Chesterton depicts a civilisation waiting, without knowing it, for a birth."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_07_man_and_mythologies": {
+"characters": [
+"Apollo",
+"Adonis",
+"Thor",
+"the Greek poets"
+],
+"themes": [
+"mythology as imagination",
+"the poetry of paganism",
+"myth vs philosophy"
+],
+"plot": "He reads the myths as works of the human imagination -- a search for God through beauty and story -- neither true religion nor mere error, but poetry seeking something real."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_16_the_five_deaths_of_the_faith": {
+"characters": [
+"the Faith",
+"Julian the Apostate",
+"the Renaissance"
+],
+"themes": [
+"the recurring death and revival of the Faith",
+"five deaths of Christianity",
+"resurrection as pattern"
+],
+"plot": "Tracing five moments when the Faith seemed dead -- from Julian to the Renaissance -- he argues that Christianity's repeated, improbable revivals are its most distinctive historical mark."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_02_introduction": {
+"characters": [
+"the Catholic Church",
+"the Twelve Apostles"
+],
+"themes": [
+"seeing the familiar from outside",
+"the outsider's clear sight",
+"Christendom as strange"
+],
+"plot": "He proposes that both Christianity and man himself can only be judged truly by stepping outside them, as a traveller sees a country the native cannot."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_17_conclusion": {
+"characters": [
+"Christ",
+"the Catholic Church"
+],
+"themes": [
+"the pattern of the whole book",
+"the God who returns",
+"history as unfinished"
+],
+"plot": "Chesterton draws the threads together, presenting the story of Christ and His Church as a drama that keeps ending and beginning again, still unconcluded."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_11_the_god_in_the_cave": {
+"characters": [
+"Christ",
+"Bethlehem",
+"Confucius",
+"Aristotle"
+],
+"themes": [
+"the Nativity",
+"God in the cave",
+"revolution hidden in a stable"
+],
+"plot": "At Bethlehem the two strands -- the God behind the gods and the man in the cave -- meet, as the divine enters history in a cave and quietly overturns the ancient world."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_01_prefaratory_note": {
+"characters": [
+"G.K. Chesterton"
+],
+"themes": [
+"scope of the book",
+"history vs theology",
+"the amateur and the specialist"
+],
+"plot": "Chesterton states that the book treats Christ and Christianity historically rather than devotionally, arguing the amateur has a right to weigh the facts the specialists supply."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_05_the_antiquity_of_civilisation": {
+"characters": [
+"Babylon",
+"Egypt",
+"Troy",
+"the Nile civilisations"
+],
+"themes": [
+"antiquity of civilisation",
+"civilisation not primitive",
+"the ancient East"
+],
+"plot": "Chesterton argues that the oldest recorded civilisations are already mature and complex, so barbarism is a decline rather than the natural origin of humanity."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_13_the_strangest_story_in_the_wor": {
+"characters": [
+"Jesus",
+"Socrates",
+"Buddha",
+"Peter",
+"Nazareth"
+],
+"themes": [
+"the uniqueness of the story",
+"the claim to be God",
+"comparison with the sages"
+],
+"plot": "Comparing Christ with Socrates and Buddha, Chesterton contends the central story -- a man who was also God, who died and rose -- is unlike anything else told of the founders of religions."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_06_god_and_comparative_religion": {
+"characters": [
+"Israel",
+"the Jews",
+"Jupiter",
+"Apollo"
+],
+"themes": [
+"hidden monotheism behind paganism",
+"the God behind the gods",
+"Israel's witness"
+],
+"plot": "Behind the crowd of pagan gods he finds a buried memory of one God, kept alive chiefly by Israel, whom the nations half-remembered and mostly forgot."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_19_appendix_ii": {
+"characters": [],
+"themes": [
+"on authority and accuracy",
+"sources and method",
+"appendix"
+],
+"plot": "A closing appendix on authority and accuracy, defending the book's use of sources and its historical method."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_08_the_demons_and_the_philosopher": {
+"characters": [
+"Buddha",
+"Confucius",
+"the philosophers of Asia",
+"Rome"
+],
+"themes": [
+"the philosophers vs the demons",
+"eastern wisdom",
+"paganism's two moods"
+],
+"plot": "Alongside the poets he sets the philosophers and the darker cults, contrasting the calm sages of Asia with the demon-worship whose cruelty culminates in Carthage."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_04_professors_and_prehistoric_men": {
+"characters": [
+"Pithecanthropus",
+"the Missing Link",
+"the professors"
+],
+"themes": [
+"the myth of prehistoric science",
+"conjecture dressed as fact",
+"evolutionary storytelling"
+],
+"plot": "He mocks the confident reconstructions of 'prehistoric man' from a few bones, arguing the professors invent a Missing Link and a savage past the evidence cannot support."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_03_the_man_in_the_cave": {
+"characters": [
+"prehistoric man",
+"the cave artist"
+],
+"themes": [
+"cave art and the uniqueness of man",
+"art as the mark of the soul",
+"the gulf between man and beast"
+],
+"plot": "Examining the painted caves, Chesterton argues the earliest man is revealed as an artist, and that this creative power sets a difference in kind, not degree, between man and the animals."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_14_the_witness_of_the_heretics": {
+"characters": [
+"the Church",
+"the Manicheans",
+"the Roman Empire"
+],
+"themes": [
+"the witness of the heretics",
+"orthodoxy defined against error",
+"the Church holding the balance"
+],
+"plot": "The early heresies, by their very one-sidedness, testify to the fullness the Church defended, keeping a difficult balance the Empire and the sects kept losing."
+},
+"testi/chesterton/atomized/everlasting_man/chapter_15_the_escape_from_paganism": {
+"characters": [
+"Christendom",
+"Islam",
+"the East"
+],
+"themes": [
+"escape from the cycle of paganism",
+"Christendom as a breakout",
+"West and East"
+],
+"plot": "Where the older religions turned in endless cycles, Chesterton sees Christendom as an escape into something linear and new, distinct even from the later simplifications of Islam."
 }
 }

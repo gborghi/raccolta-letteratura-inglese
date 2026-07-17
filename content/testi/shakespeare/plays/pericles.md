@@ -1,5 +1,5 @@
 ---
-title: "Pericles — Scene 7 — exchange (PERICLES I) [3]"
+title: "Pericles — Scene 22 — exchange (THE PERSONS OF THE PLAY) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/pericles-(shakespeare)"
@@ -997,6 +997,237 @@ tags:
 
 
 
+<span class="atom-split" data-atom="scenes--scene_2--01_exchange_dialogue" data-title="Pericles — Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Pericles]], distempered, with his lords |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_2--02_monologue_pericles" data-title="Pericles — Scene 2 — monologue (PERICLES) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pericles|PERICLES]] | Let none disturb us. Exeunt lords Why should this change of thoughts, The sad companion, dull-eyed [[Melancholy|melancholy]], Be my so used a guest as not an hour In the day’s glorious walk or peaceful [[Night|night]], The tomb where grief should [[Sleep|sleep]], can breed me quiet? 5 Here pleasures [[Court|court]] mine eyes, and mine eyes shun them, And danger, which I feared, ’s at Antioch, Whose arm seems far too short to hit me here. Yet neither pleasure’s art can joy my spirits, Nor yet care’s author’s distance comfort me. Then it is thus: the passions of the mind, That have their first conception by misdread, Have after-nourishment and life by care, And what was first but [[Fear|fear]] what might be done Grows elder now, and cares it be not done. And so with me. The great [[Antiochus]], ‘Gainst whom I am too little to contend, Since he’s so great can make his will his act, Will think me speaking though I swear to [[Silence|silence]], Nor boots it me to say I [[Honour|honour]] him If he suspect I may dishonour him. And what may make him blush in being known, He’ll stop the course by which it might be known. With hostile forces he’ll o’erspread the land, And with th‘ostent of war will look so huge Amazement shall drive [[Courage|courage]] from the state, Our men be vanquished ere they do resist, And subjects punished that ne’er thought offence, Which care of them, not pity of myself, Who am no more but as the tops of trees Which fence the roots they grow by and defend them, Makes both my [[Body|body]] pine and [[Soul|soul]] to languish, And punish that before that he would punish. Enter all the Lords, among them old Helicanus, to [[Pericles]] |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_2--03_exchange_first_lord" data-title="Pericles — Scene 2 — exchange (FIRST LORD) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FIRST LORD | Joy and all comfort in your sacred breast! |
+| SECOND LORD | And keep your mind peaceful and comfortable. |
+| HELICANUS | Peace, peace, and give experience tongue. (To [[Pericles]]) You do not [[Well|well]] so to abuse yourself, To waste your [[Body|body]] here with pining sorrow, Upon whose safety doth depend the lives And the prosperity of a whole kingdom. ‘Tis ill in you to do it, and no less ll in your council not to contradict it. They do abuse the [[King]] that flatter him, For flatt’ry is the bellows blows up sin; The thing the which is flattered, but a spark, To which that [[Wind|wind]] gives heat and stronger glowing; Whereas reproof, obedient and in order, Fits kings as they are men, for they may err. When Signor Sooth here does proclaim a peace He flatters you, makes war upon your life. He kneels Prince, pardon me, or strike me if you please. I cannot be much lower than my knees. |
+| [[Pericles|PERICLES]] | All leave us else; but let your cares o’erlook What shipping and what lading’s in our haven, And then return to us. Exeunt Lords Helicane, thou Hast moved us. What seest thou in our looks? |
+| HELICANUS | An angry brow, dread lord. |
+| [[Pericles|PERICLES]] | If there be such a dart in princes’ frowns, How durst thy tongue move anger to our brows? |
+| HELICANUS | How dares the plants look up to heav’n from whence They have their nourishment? |
+| [[Pericles|PERICLES]] | Thou knowest I have pow’r to take thy life from thee. |
+| HELICANUS | I have ground the axe myself; do you but strike the blow. |
+| [[Pericles|PERICLES]] | lifting him up Rise, prithee, rise. Sit down. Thou art no flatterer, I thank thee for it, and the heav‘ns forbid That kings should let their ears hear their faults hid. Fit counsellor and servant for a prince, Who by thy wisdom mak’st a prince thy servant, What wouldst thou have me do? |
+| HELICANUS | To bear with patience Such griefs as you do lay upon yourself. |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_2--04_monologue_pericles" data-title="Pericles — Scene 2 — monologue (PERICLES) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pericles|PERICLES]] | Thou speak‘st like a physician, Helicanus, That ministers a potion unto me That thou wouldst tremble to receive thyself. Attend me, then. I went to Antioch, Where, as thou know’st, against the face of [[Death|death]] I sought the purchase of a glorious [[Beauty|beauty]] From whence an issue I might propagate, As children are heav‘n’s blessings: to parents, objects; Are arms to princes, and bring joys to subjects. Her face was to mine eye beyond all [[Wonder|wonder]], The rest—hark in thine ear—as black as incest, Which by my knowledge found, the sinful father Seemed not to strike, but smooth. But thou know’st this, ‘Tis [[Time|time]] to [[Fear|fear]] when tyrants seems to kiss; Which [[Fear|fear]] so grew in me I hither fled Under the covering of careful [[Night|night]], Who seemed my good protector, and being here Bethought me what was past, what might succeed. I knew him tyrannous, and tyrants’ fears Decrease not, but grow faster than the years. And should he [[Doubt|doubt]]—as [[Doubt|doubt]] no [[Doubt|doubt]] he doth— That I should open to the list’ning air How many worthy princes’ bloods were shed To keep his bed of blackness unlaid ope, To lop that [[Doubt|doubt]] he’ll fill this land with arms, And make pretence of wrong that I have done him, When all for mine—if I may call—offence Must feel war’s blow, who spares not [[innocence]]; Which [[Love|love]] to all, of which thyself art one, Who now reproved’st me for’t— |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_2--05_exchange_helicanus" data-title="Pericles — Scene 2 — exchange (HELICANUS) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| HELICANUS | Alas, sir. |
+| [[Pericles|PERICLES]] | Drew [[Sleep|sleep]] out of mine eyes, [[Blood|blood]] from my cheeks, Musings into my mind, with thousand doubts, How I might stop this tempest ere it came, And, finding little comfort to relieve them, I thought it princely [[Charity|charity]] to grieve them. |
+| HELICANUS | [[Well]], my lord, since you have giv’n me leave to speak, Freely will I speak. [[Antiochus]] you [[Fear|fear]], And justly too, I think, you [[Fear|fear]] the [[Tyrant|tyrant]], Who either by public war or private treason Will take away your life. Therefore, my lord, go travel for a while, Till that his rage and anger be forgot, Or destinies do cut his thread of life. Your rule direct to any; if to me, Day serves not light more faithful than I’ll be. |
+| [[Pericles|PERICLES]] | I do not [[Doubt|doubt]] thy [[Faith|faith]], But should he in my absence wrong thy liberties? |
+| HELICANUS | We’ll mingle our bloods together in the earth From whence we had our being and our birth. |
+| [[Pericles|PERICLES]] | Tyre, I now look from thee then, and to Tarsus Intend my travel, where I’ll hear from thee, And by whose letters I’ll dispose myself. The care I had and have of subjects’ good On thee I lay, whose wisdom’s strength can bear it. I’ll take thy word for [[Faith|faith]], not ask thine oath; Who shuns not to break one will sure crack both. But in our orbs we’ll live so round and safe That [[Time|time]] of both this [[Truth|truth]] shall ne’er convince: Thou showed’st a subject’s shine, I a true prince. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_5--01_exchange_dialogue" data-title="Pericles — Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Gower]] |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_5--02_monologue_gower" data-title="Pericles — Scene 5 — monologue (GOWER) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Gower|GOWER]] | Here have you seen a mighty [[King|king]] His [[Child|child]], iwis, to incest bring; A better prince and benign lord Prove awe-full both in deed and word. Be quiet then, as men should be, Till he hath passed necessity. I’ll show you those in trouble’s reign, Losing a mite, a mountain gain. The good in conversation, To whom I give my benison, Is still at Tarsus where each man Thinks all is writ he speken can, And to remember what he does His statue build to make him glorious. But tidings to the contrary Are brought your eyes. What need speak I? Dumb show. Enter at one door [[Pericles]] talking with [[Cleon]], all the train with them. Enter at another door a gentleman with a letter to [[Pericles]]. [[Pericles]] shows the letter to [[Cleon]]. [[Pericles]] gives the messenger a reward, and knights him. Exeunt with their trains [[Pericles]] at one door and [[Cleon]] at another Good Helicane that stayed at [[Home|home]], Not to eat honey like a drone From others’ labours, for that he strive To killen bad, keep good alive, And to fulfil his prince’ [[Desire|desire]] Sent word of all that haps in Tyre; How Thaliart came full bent with sin And hid intent to murdren him, And that in Tarsus was not best Longer for him to make his rest. He deeming so put forth to seas, Where when men been there’s seldom ease, For now the [[Wind|wind]] begins to blow; Thunder above and deeps below Makes such unquiet that the [[Ship|ship]] Should [[house]] him safe is wrecked and split, And he, good prince, having all lost, By waves from coast to coast is tossed. All perishen of man, of pelf, Ne aught escapend but himself, Till fortune, tired with doing bad, Threw him ashore to give him glad. [Enter [[Pericles]] wet and half-naked] And here he comes. What shall be next Pardon old [[Gower]]; this ’longs the text. Exit [Thunder and [[Lightning|lightning]]] |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_5--03_exchange_pericles" data-title="Pericles — Scene 5 — exchange (PERICLES) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pericles|PERICLES]] | Yet cease your ire, you angry [[Stars|stars]] of heaven! [[Wind]], rain, and thunder, remember earthly man Is but a substance that must yield to you, And I, as fits my [[Nature|nature]], do obey you. Alas, the seas hath cast me on the rocks, Washed me from shore to shore, and left my breath Nothing to think on but ensuing [[Death|death]]. Let it suffice the [[Greatness|greatness]] of your powers To have bereft a prince of all his fortunes, And, having thrown him from your wat’ry [[Grave|grave]], Here to have [[Death|death]] in peace is all he’ll crave. He sits.Enter two poor Fishermen: one the Master, the other his man |
+| MASTER | calling What ho, Pitch! |
+| SECOND FISHERMAN | calling Ha, come and bring away the nets. |
+| MASTER | calling What, Patchbreech, I say! Enter a Third rough Fisherman with a hood upon his head and a filthy leathern pelt upon his back, unseemly clad, and homely to behold. He brings nets to dry and repair |
+| THIRD FISHERMAN | What say you, master? |
+| MASTER | Look how thou stirrest now. Come away, or I’ll fetch th’ with a wanion. |
+| THIRD FISHERMAN | [[Faith]], master, I am thinking of the poor men that were cast away before us even now. |
+| MASTER | Alas, poor souls, it grieved my heart to hear what pitiful cries they made to us to help them when, [[Well|well]]-a-day, we could scarce help ourselves. |
+| THIRD FISHERMAN | Nay, master, said not I as much when I saw the porpoise how he bounced and tumbled? They say they’re half fish, half flesh. A plague on them, they ne’er come but I look to be washed. Master, I marvel how the fishes live in the sea. |
+| MASTER | Why, as men do a-land—the great ones eat up the little ones. I can compare our rich misers to nothing so fitly as to a whale: a plays and tumbles, driving the poor fry before him, and at last devours them all at a mouthful. Such whales have I heard on o’th’ land, who never leave gaping till they swallowed the whole parish: church, steeple, [[Bells|bells]], and all. [[Pericles|PERICLES]] (aside) A pretty moral. |
+| THIRD FISHERMAN | But, master, if I had been the sexton, I would have been that day in the belfry. |
+| SECOND FISHERMAN | Why, man? |
+| THIRD FISHERMAN | Because he should have swallowed me, too, and when I had been in his belly I would have kept such a jangling of [[The Bells|the bells]] that he should never have left till he cast [[Bells|bells]], steeple, church, and parish up again. But if the good [[King]] [[Simonides]] were of my mind— |
+| [[Pericles|PERICLES]] | (aside) [[Simonides]]? |
+| THIRD FISHERMAN | We would purge the land of these drones that rob the bee of her honey. |
+| [[Pericles|PERICLES]] | (aside) How from the finny subject of the sea These fishers tell th’infirmities of men, And from their wat’ry empire recollect All that may men approve or men detect! Coming forward Peace be at your labour, honest fishermen. |
+| SECOND FISHERMAN | Honest, good fellow? What’s that? If it be a day fits you, scratch’t out of the calendar, and nobody look after it. |
+| [[Pericles|PERICLES]] | May see the sea hath cast upon your coast— |
+| SECOND FISHERMAN | What a drunken knave was the sea to cast thee in our way! |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_5--04_exchange_pericles" data-title="Pericles — Scene 5 — exchange (PERICLES) [4]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pericles|PERICLES]] | A man, whom both the waters and the [[Wind|wind]] In that vast tennis-[[Court|court]] hath made the ball For them to play upon, entreats you pity him. He asks of you that never used to beg. |
+| MASTER | No, friend, cannot you beg? Here’s them in our country of Greece gets more with begging than we can do with working. |
+| SECOND FISHERMAN | Canst thou catch any fishes, then? |
+| [[Pericles|PERICLES]] | I never practised it. |
+| SECOND FISHERMAN | Nay, then thou wilt starve, sure; for here’s nothing to be got nowadays unless thou canst fish for’t. |
+| [[Pericles|PERICLES]] | What I have been, I have forgot to know, But what I am, want teaches me to think on: A man thronged up with cold; my veins are chill, And have no more of life than may suffice To give my tongue that heat to crave your help, Which if you shall refuse, when I am dead, For that I am a man, pray see me buried. He falls down |
+| MASTER | Die, quotha? Now, gods forbid’t an I have a gown here! To [[Pericles]], lifting him up from the ground Come, put it on, keep thee warm. Now, afore me, a handsome fellow! Come, thou shalt go [[Home|home]], and we’ll have flesh for holidays, fish for fasting-days, and moreo’er puddings and flapjacks, and thou shalt be welcome. |
+| [[Pericles|PERICLES]] | I thank you, sir. |
+| SECOND FISHERMAN | Hark you, my friend, you said you could not beg? |
+| [[Pericles|PERICLES]] | I did but crave. |
+| SECOND FISHERMAN | But crave? Then I’ll turn craver too, an so I shall scape whipping. |
+| [[Pericles|PERICLES]] | Why, are all your beggars whipped, then? |
+| SECOND FISHERMAN | O, not all, my friend, not all; for if all your beggars were whipped I would wish no better office than to be beadle. |
+| MASTER | Thine office, knave— |
+| SECOND FISHERMAN | Is to draw up the other nets. I’ll go. Exit with Third Fisherman |
+| [[Pericles|PERICLES]] | (aside) How [[Well|well]] this honest mirth becomes their labour! |
+| MASTER | seating himself by [[Pericles]] Hark you, sir, do you know where ye are? |
+| [[Pericles|PERICLES]] | Not [[Well|well]]. |
+| MASTER | Why, I’ll tell you. This is called Pentapolis, and our [[King|king]] the good [[Simonides]]. |
+| [[Pericles|PERICLES]] | ’The good [[Simonides]]’ do you call him? |
+| MASTER | Ay, sir, and he deserves so to be called for his peaceable reign and good [[government]]. |
+| [[Pericles|PERICLES]] | He is a happy [[King|king]], since from his subjects He gains the name of good by his [[government]]. How far is his [[Court|court]] distant from this shore? |
+| MASTER | Marry, sir, some half a day’s [[Journey|journey]]. And I’ll tell you, he hath a fair daughter, and tomorrow is her birthday, and there are princes and knights come from all parts of the world to joust and tourney for her [[Love|love]]. |
+| [[Pericles|PERICLES]] | Were but my fortunes answerable To my desires I could wish to make one there. |
+| MASTER | O, sir, things must be as they may, and what a man cannot get himself, he may lawfully deal for with his wife’s [[Soul|soul]]. Enter the other two Fishermen drawing up a net |
+| SECOND FISHERMAN | Help, master, help! Here’s a fish hangs in the net like a poor man’s right in the law; ’twill hardly come out. Before help comes, up comes their prize Ha, bots on’t, ’tis come at last, and ’tis turned to a rusty armour. |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_5--05_exchange_pericles" data-title="Pericles — Scene 5 — exchange (PERICLES) [5]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pericles|PERICLES]] | An armour, friends? I pray you let me see it. (Aside) Thanks, fortune, yet that after all thy crosses Thou giv‘st me somewhat to repair my losses, And though it was mine own, part of my heritage Which my dead father did bequeath to me With this strict charge ev’n as he left his life: ‘Keep it, my [[Pericles]]; it hath been a shield ‘Twixt me and [[Death|death]],’ and pointed to this brace, ‘For that it saved me, keep it. In like necessity, The which the Gods forfend, the same may defend thee.’ It kept where I kept, I so dearly loved it, Till the rough seas that spares not any man Took it in rage, though calmed have giv’n’t again. I thank thee for’t. My shipwreck now’s no ill, Since I have here my father gave in ’s will. |
+| MASTER | What mean you, sir? |
+| [[Pericles|PERICLES]] | To beg of you, kind friends, this coat of worth, For it was sometime target to a [[King|king]]. I know it by this mark. He loved me dearly, And for his sake I wish the having of it, And that you’d guide me to your sov’reign’s [[Court|court]], Where with’t I may appear a gentleman. And if that ever my low fortune’s better, I’ll pay your bounties, till then rest your debtor. |
+| MASTER | Why, wilt thou tourney for the lady? |
+| [[Pericles|PERICLES]] | I’ll show the virtue I have learned in arms. |
+| MASTER | Why, d‘ye take it, and the gods give thee good on’t! |
+| SECOND FISHERMAN | Ay, but hark you, my friend, ’twas we that made up this garment through the rough seams of the waters. There are certain condolements, certain vails. I [[Hope|hope]], sir, if you thrive, you’ll remember from whence you had this. |
+| [[Pericles|PERICLES]] | Believe’t, I will. By your furtherance I’m clothed in steel, And spite of all the rapture of the sea This [[Jewel|jewel]] holds his building on my arm. Unto thy value I will mount myself Upon a courser whose delightsome steps Shall make the gazer joy to see him tread. Only, my friends, I yet am unprovided Of a pair of bases. |
+| SECOND FISHERMAN | We’ll sure provide. Thou shalt have my best gown to make thee a pair, and I’ll bring thee to the [[Court|court]] myself. |
+| [[Pericles|PERICLES]] | Then [[Honour|honour]] be but equal to my will, This day I’ll rise, or else add ill to ill. Exeunt with nets and armour |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_7--01_exchange_dialogue" data-title="Pericles — Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [[Simonides]], [[Thaisa]] and their train at one door, and at another door a Marshal conducting [[Pericles]] and the other knights from tilting |
+| [[King|KING]] [[Simonides|SIMONIDES]] | (to the knights) To say you’re welcome were superfluous. To place upon the volume of your deeds As in a title page your worth in arms Were more than you expect, or more than’s fit, Since every worth in show commends itself. Prepare for mirth, for mirth becomes a feast. You’re princes, and my guests. |
+| [[Thaisa|THAISA]] | (to [[Pericles]]) But you, my knight and guest; To whom this wreath of victory I give, And [[Crown|crown]] you [[King|king]] of this day’s happiness. |
+| [[Pericles|PERICLES]] | ’Tis more by fortune, lady, than my merit. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | Call it by what you will, the day is yours, And here I [[Hope|hope]] is none that envies it. In framing artists art hath thus decreed, To make some good, but others to exceed. You are her laboured scholar. (To [[Thaisa]]) Come, [[Queen|queen]] o’th’ feast— For, daughter, so you are—here take your place. (To Marshal) Marshal the rest as they deserve their grace. |
+| KNIGHTS | We are honoured much by good [[Simonides]]. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | Your presence glads our days; [[Honour|honour]] we [[Love|love]], For who hates [[Honour|honour]] hates the gods above. |
+| MARSHAL | (to [[Pericles]]) Sir, yonder is your place. |
+| [[Pericles|PERICLES]] | Some other is more fit. |
+| FIRST KNIGHT | Contend not, sir, for we are gentlemen Have neither in our hearts nor outward eyes Envied the great, nor shall the low despise. |
+| [[Pericles|PERICLES]] | You are right courteous knights. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | Sit, Sir, sit. [[Pericles]] sits directly over against the [[King]] and [[Thaisa]]. The guests feed apace. [[Pericles]] sits still and eats nothing Aside By Jove I [[Wonder|wonder]], that is [[King|king]] of thoughts, These cates distaste me, he but thought upon. |
+| [[Thaisa|THAISA]] | aside By Juno, that is [[Queen|queen]] of [[Marriage|marriage]], I am amazed all viands that I eat Do seem unsavoury, wishing him my meat. To the [[King]] Sure he’s a gallant gentleman. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | He’s but a country gentleman. He’s done no more than other knights have done. He’s broke a staff or so, so let it pass. |
+| [[Thaisa|THAISA]] | aside To me he seems like diamond to glass. |
+| [[Pericles|PERICLES]] | aside Yon [[King|king]]’s to me like to my father’s picture, Which tells me in what glory once he was— Had princes sit like [[Stars|stars]] about his throne, And he the sun for them to reverence. None that beheld him but like lesser lights Did vail their crowns to his supremacy; Where now his son’s a glow-worm in the [[Night|night]], The which hath [[Fire|fire]] in darkness, none in light; Whereby I see that [[Time|time]]’s the [[King|king]] of men; He’s both their parent and he is their [[Grave|grave]], And gives them what he will, not what they crave. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | What, are you merry, knights? THE OTHER KNIGHTS Who can be other in this royal presence? |
+| [[King|KING]] [[Simonides|SIMONIDES]] | Here with a cup that’s stored unto the brim, As you do [[Love|love]], full to your mistress’ lips, We drink this health to you. THE OTHER KNIGHTS We thank your grace. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | Yet pause a while. Yon knight doth sit too [[Melancholy|melancholy]], As if the entertainment in our [[Court|court]] Had not a show might countervail his worth. Note it not you, [[Thaisa]]? |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_7--02_exchange_thaisa" data-title="Pericles — Scene 7 — exchange (THAISA) [2]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Thaisa|THAISA]] | What is’t to me, my father? |
+| [[King|KING]] [[Simonides|SIMONIDES]] | O, attend, my daughter. Princes in this Should live like gods above, who freely give To everyone that come to [[Honour|honour]] them. And princes not so doing are like gnats Which make a sound but, killed, are wondered at. Therefore to make his entertain more sweet, Here bear this standing-bowl of wine to him. |
+| [[Thaisa|THAISA]] | Alas, my father, it befits not me Unto a stranger knight to be so bold. He may my proffer take for an offence, Since men take women’s gifts for impudence. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | How? Do as I bid you, or you’ll move me else. |
+| [[Thaisa|THAISA]] | (aside) Now, by the gods, he could not please me better. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | Furthermore, tell him we [[Desire|desire]] to know Of whence he is, his name and parentage. [[Thaisa]] bears the cup to [[Pericles]] |
+| [[Thaisa|THAISA]] | The [[King]] my father, sir, has drunk to you, Wishing it so much [[Blood|blood]] unto your life. |
+| [[Pericles|PERICLES]] | I thank both him and you, and pledge him freely. He pledges the [[King]] |
+| [[Thaisa|THAISA]] | And further he desires to know of you Of whence you are, your name and parentage. |
+| [[Pericles|PERICLES]] | A gentleman of Tyre, my name [[Pericles]], My [[Education|education]] been in arts and arms, Who, looking for adventures in the world, Was by the rough unconstant seas bereft Unfortunately both of ships and men, And after shipwreck driven upon this shore. [[Thaisa]] returns to the [[King]] |
+| [[Thaisa|THAISA]] | He thanks your grace, names himself [[Pericles]], A gentleman of Tyre, who, seeking adventures, Was solely by misfortune of the seas Bereft of ships and men, cast on this shore. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | Now by the gods I pity his mishaps, And will awake him from his [[Melancholy|melancholy]]. [[Simonides]], rising from his state, goes forthwith and embraces [[Pericles]] Be cheered, for what misfortune hath impaired you of, Fortune by my help can repair to you. My [[Self|self]] and country both shall be your friends, And presently a goodly milk-white steed And golden spurs I first bestow upon you, The prizes due your merit, and ordained For this day’s enterprise. |
+| [[Pericles|PERICLES]] | Your kingly courtesy I thankfully accept. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | Come, gentlemen, we sit too long on trifles, And waste the [[Time|time]] which looks for other revels. Ev’n in your armours, as you are addressed, Your limbs will [[Well|well]] become a soldier’s [[Dance|dance]]. I will not have excuse with saying this, ‘Loud music is too harsh for ladies’ heads’, Since they [[Love|love]] men in arms as [[Well|well]] as beds. The knights [[Dance|dance]] So this was [[Well|well]] asked, ’twas so [[Well|well]] performed. Come, here’s a lady that wants breathing too. (To [[Pericles]]) And I have heard, sir, that the knights of Tyre Are excellent in making ladies trip, And that their measures are as excellent. |
+| [[Pericles|PERICLES]] | In those that practise them they are, my lord. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | O, that’s as much as you would be denied Of your fair courtesy. Unclasp, unclasp. They [[Dance|dance]] Thanks, gentlemen, to all. All have done [[Well|well]], (To [[Pericles]]) But you the best.—Lights, pages, to conduct These knights unto their sev’ral lodgings.—Yours, sir, We have giv’n order should be next our own. |
+
+
+
+
+<span class="atom-split" data-atom="scenes--scene_7--03_exchange_pericles_i" data-title="Pericles — Scene 7 — exchange (PERICLES I) [3]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pericles|PERICLES]] | I am at your grace’s pleasure. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | Princes, it is too late to talk of [[Love|love]], And that’s the mark I know you level at. Therefore each one betake him to his rest; Tomorrow all for speeding do their best. Exeunt severally |
+
+
+
+
 <span class="atom-split" data-atom="scenes--scene_15--01_exchange_dialogue" data-title="Pericles — Scene 15 — exchange (dialogue) [1]" data-chapter="Scene 15" data-kind="intro"></span>
 
 
@@ -1278,71 +1509,6 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_2--01_exchange_dialogue" data-title="Pericles — Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Pericles]], distempered, with his lords |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--02_monologue_pericles" data-title="Pericles — Scene 2 — monologue (PERICLES) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Pericles|PERICLES]] | Let none disturb us. Exeunt lords Why should this change of thoughts, The sad companion, dull-eyed [[Melancholy|melancholy]], Be my so used a guest as not an hour In the day’s glorious walk or peaceful [[Night|night]], The tomb where grief should [[Sleep|sleep]], can breed me quiet? 5 Here pleasures [[Court|court]] mine eyes, and mine eyes shun them, And danger, which I feared, ’s at Antioch, Whose arm seems far too short to hit me here. Yet neither pleasure’s art can joy my spirits, Nor yet care’s author’s distance comfort me. Then it is thus: the passions of the mind, That have their first conception by misdread, Have after-nourishment and life by care, And what was first but [[Fear|fear]] what might be done Grows elder now, and cares it be not done. And so with me. The great [[Antiochus]], ‘Gainst whom I am too little to contend, Since he’s so great can make his will his act, Will think me speaking though I swear to [[Silence|silence]], Nor boots it me to say I [[Honour|honour]] him If he suspect I may dishonour him. And what may make him blush in being known, He’ll stop the course by which it might be known. With hostile forces he’ll o’erspread the land, And with th‘ostent of war will look so huge Amazement shall drive [[Courage|courage]] from the state, Our men be vanquished ere they do resist, And subjects punished that ne’er thought offence, Which care of them, not pity of myself, Who am no more but as the tops of trees Which fence the roots they grow by and defend them, Makes both my [[Body|body]] pine and [[Soul|soul]] to languish, And punish that before that he would punish. Enter all the Lords, among them old Helicanus, to [[Pericles]] |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--03_exchange_first_lord" data-title="Pericles — Scene 2 — exchange (FIRST LORD) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FIRST LORD | Joy and all comfort in your sacred breast! |
-| SECOND LORD | And keep your mind peaceful and comfortable. |
-| HELICANUS | Peace, peace, and give experience tongue. (To [[Pericles]]) You do not [[Well|well]] so to abuse yourself, To waste your [[Body|body]] here with pining sorrow, Upon whose safety doth depend the lives And the prosperity of a whole kingdom. ‘Tis ill in you to do it, and no less ll in your council not to contradict it. They do abuse the [[King]] that flatter him, For flatt’ry is the bellows blows up sin; The thing the which is flattered, but a spark, To which that [[Wind|wind]] gives heat and stronger glowing; Whereas reproof, obedient and in order, Fits kings as they are men, for they may err. When Signor Sooth here does proclaim a peace He flatters you, makes war upon your life. He kneels Prince, pardon me, or strike me if you please. I cannot be much lower than my knees. |
-| [[Pericles|PERICLES]] | All leave us else; but let your cares o’erlook What shipping and what lading’s in our haven, And then return to us. Exeunt Lords Helicane, thou Hast moved us. What seest thou in our looks? |
-| HELICANUS | An angry brow, dread lord. |
-| [[Pericles|PERICLES]] | If there be such a dart in princes’ frowns, How durst thy tongue move anger to our brows? |
-| HELICANUS | How dares the plants look up to heav’n from whence They have their nourishment? |
-| [[Pericles|PERICLES]] | Thou knowest I have pow’r to take thy life from thee. |
-| HELICANUS | I have ground the axe myself; do you but strike the blow. |
-| [[Pericles|PERICLES]] | lifting him up Rise, prithee, rise. Sit down. Thou art no flatterer, I thank thee for it, and the heav‘ns forbid That kings should let their ears hear their faults hid. Fit counsellor and servant for a prince, Who by thy wisdom mak’st a prince thy servant, What wouldst thou have me do? |
-| HELICANUS | To bear with patience Such griefs as you do lay upon yourself. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--04_monologue_pericles" data-title="Pericles — Scene 2 — monologue (PERICLES) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Pericles|PERICLES]] | Thou speak‘st like a physician, Helicanus, That ministers a potion unto me That thou wouldst tremble to receive thyself. Attend me, then. I went to Antioch, Where, as thou know’st, against the face of [[Death|death]] I sought the purchase of a glorious [[Beauty|beauty]] From whence an issue I might propagate, As children are heav‘n’s blessings: to parents, objects; Are arms to princes, and bring joys to subjects. Her face was to mine eye beyond all [[Wonder|wonder]], The rest—hark in thine ear—as black as incest, Which by my knowledge found, the sinful father Seemed not to strike, but smooth. But thou know’st this, ‘Tis [[Time|time]] to [[Fear|fear]] when tyrants seems to kiss; Which [[Fear|fear]] so grew in me I hither fled Under the covering of careful [[Night|night]], Who seemed my good protector, and being here Bethought me what was past, what might succeed. I knew him tyrannous, and tyrants’ fears Decrease not, but grow faster than the years. And should he [[Doubt|doubt]]—as [[Doubt|doubt]] no [[Doubt|doubt]] he doth— That I should open to the list’ning air How many worthy princes’ bloods were shed To keep his bed of blackness unlaid ope, To lop that [[Doubt|doubt]] he’ll fill this land with arms, And make pretence of wrong that I have done him, When all for mine—if I may call—offence Must feel war’s blow, who spares not [[innocence]]; Which [[Love|love]] to all, of which thyself art one, Who now reproved’st me for’t— |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--05_exchange_helicanus" data-title="Pericles — Scene 2 — exchange (HELICANUS) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| HELICANUS | Alas, sir. |
-| [[Pericles|PERICLES]] | Drew [[Sleep|sleep]] out of mine eyes, [[Blood|blood]] from my cheeks, Musings into my mind, with thousand doubts, How I might stop this tempest ere it came, And, finding little comfort to relieve them, I thought it princely [[Charity|charity]] to grieve them. |
-| HELICANUS | [[Well]], my lord, since you have giv’n me leave to speak, Freely will I speak. [[Antiochus]] you [[Fear|fear]], And justly too, I think, you [[Fear|fear]] the [[Tyrant|tyrant]], Who either by public war or private treason Will take away your life. Therefore, my lord, go travel for a while, Till that his rage and anger be forgot, Or destinies do cut his thread of life. Your rule direct to any; if to me, Day serves not light more faithful than I’ll be. |
-| [[Pericles|PERICLES]] | I do not [[Doubt|doubt]] thy [[Faith|faith]], But should he in my absence wrong thy liberties? |
-| HELICANUS | We’ll mingle our bloods together in the earth From whence we had our being and our birth. |
-| [[Pericles|PERICLES]] | Tyre, I now look from thee then, and to Tarsus Intend my travel, where I’ll hear from thee, And by whose letters I’ll dispose myself. The care I had and have of subjects’ good On thee I lay, whose wisdom’s strength can bear it. I’ll take thy word for [[Faith|faith]], not ask thine oath; Who shuns not to break one will sure crack both. But in our orbs we’ll live so round and safe That [[Time|time]] of both this [[Truth|truth]] shall ne’er convince: Thou showed’st a subject’s shine, I a true prince. Exeunt |
-
-
-
-
 <span class="atom-split" data-atom="scenes--scene_21--01_exchange_sailor_of_tyre" data-title="Pericles — Scene 21 — exchange (SAILOR OF TYRE) [1]" data-chapter="Scene 21" data-kind="intro"></span>
 
 
@@ -1552,172 +1718,6 @@ tags:
 | CONSPIRATORS | with [[Aufidius]] Volscian LORDS Volscian CITIZENS |
 | SOLDIERS | in the Volscian army ADRIAN, a Volscian NICANOR, a Roman A Roman HERALD |
 | AEDILES | A gentlewoman, an usher, Roman and Volscian senators and nobles, captains in the Roman army, officers, lictors |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_5--01_exchange_dialogue" data-title="Pericles — Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Gower]] |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_5--02_monologue_gower" data-title="Pericles — Scene 5 — monologue (GOWER) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Gower|GOWER]] | Here have you seen a mighty [[King|king]] His [[Child|child]], iwis, to incest bring; A better prince and benign lord Prove awe-full both in deed and word. Be quiet then, as men should be, Till he hath passed necessity. I’ll show you those in trouble’s reign, Losing a mite, a mountain gain. The good in conversation, To whom I give my benison, Is still at Tarsus where each man Thinks all is writ he speken can, And to remember what he does His statue build to make him glorious. But tidings to the contrary Are brought your eyes. What need speak I? Dumb show. Enter at one door [[Pericles]] talking with [[Cleon]], all the train with them. Enter at another door a gentleman with a letter to [[Pericles]]. [[Pericles]] shows the letter to [[Cleon]]. [[Pericles]] gives the messenger a reward, and knights him. Exeunt with their trains [[Pericles]] at one door and [[Cleon]] at another Good Helicane that stayed at [[Home|home]], Not to eat honey like a drone From others’ labours, for that he strive To killen bad, keep good alive, And to fulfil his prince’ [[Desire|desire]] Sent word of all that haps in Tyre; How Thaliart came full bent with sin And hid intent to murdren him, And that in Tarsus was not best Longer for him to make his rest. He deeming so put forth to seas, Where when men been there’s seldom ease, For now the [[Wind|wind]] begins to blow; Thunder above and deeps below Makes such unquiet that the [[Ship|ship]] Should [[house]] him safe is wrecked and split, And he, good prince, having all lost, By waves from coast to coast is tossed. All perishen of man, of pelf, Ne aught escapend but himself, Till fortune, tired with doing bad, Threw him ashore to give him glad. [Enter [[Pericles]] wet and half-naked] And here he comes. What shall be next Pardon old [[Gower]]; this ’longs the text. Exit [Thunder and [[Lightning|lightning]]] |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_5--03_exchange_pericles" data-title="Pericles — Scene 5 — exchange (PERICLES) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Pericles|PERICLES]] | Yet cease your ire, you angry [[Stars|stars]] of heaven! [[Wind]], rain, and thunder, remember earthly man Is but a substance that must yield to you, And I, as fits my [[Nature|nature]], do obey you. Alas, the seas hath cast me on the rocks, Washed me from shore to shore, and left my breath Nothing to think on but ensuing [[Death|death]]. Let it suffice the [[Greatness|greatness]] of your powers To have bereft a prince of all his fortunes, And, having thrown him from your wat’ry [[Grave|grave]], Here to have [[Death|death]] in peace is all he’ll crave. He sits.Enter two poor Fishermen: one the Master, the other his man |
-| MASTER | calling What ho, Pitch! |
-| SECOND FISHERMAN | calling Ha, come and bring away the nets. |
-| MASTER | calling What, Patchbreech, I say! Enter a Third rough Fisherman with a hood upon his head and a filthy leathern pelt upon his back, unseemly clad, and homely to behold. He brings nets to dry and repair |
-| THIRD FISHERMAN | What say you, master? |
-| MASTER | Look how thou stirrest now. Come away, or I’ll fetch th’ with a wanion. |
-| THIRD FISHERMAN | [[Faith]], master, I am thinking of the poor men that were cast away before us even now. |
-| MASTER | Alas, poor souls, it grieved my heart to hear what pitiful cries they made to us to help them when, [[Well|well]]-a-day, we could scarce help ourselves. |
-| THIRD FISHERMAN | Nay, master, said not I as much when I saw the porpoise how he bounced and tumbled? They say they’re half fish, half flesh. A plague on them, they ne’er come but I look to be washed. Master, I marvel how the fishes live in the sea. |
-| MASTER | Why, as men do a-land—the great ones eat up the little ones. I can compare our rich misers to nothing so fitly as to a whale: a plays and tumbles, driving the poor fry before him, and at last devours them all at a mouthful. Such whales have I heard on o’th’ land, who never leave gaping till they swallowed the whole parish: church, steeple, [[Bells|bells]], and all. [[Pericles|PERICLES]] (aside) A pretty moral. |
-| THIRD FISHERMAN | But, master, if I had been the sexton, I would have been that day in the belfry. |
-| SECOND FISHERMAN | Why, man? |
-| THIRD FISHERMAN | Because he should have swallowed me, too, and when I had been in his belly I would have kept such a jangling of [[The Bells|the bells]] that he should never have left till he cast [[Bells|bells]], steeple, church, and parish up again. But if the good [[King]] [[Simonides]] were of my mind— |
-| [[Pericles|PERICLES]] | (aside) [[Simonides]]? |
-| THIRD FISHERMAN | We would purge the land of these drones that rob the bee of her honey. |
-| [[Pericles|PERICLES]] | (aside) How from the finny subject of the sea These fishers tell th’infirmities of men, And from their wat’ry empire recollect All that may men approve or men detect! Coming forward Peace be at your labour, honest fishermen. |
-| SECOND FISHERMAN | Honest, good fellow? What’s that? If it be a day fits you, scratch’t out of the calendar, and nobody look after it. |
-| [[Pericles|PERICLES]] | May see the sea hath cast upon your coast— |
-| SECOND FISHERMAN | What a drunken knave was the sea to cast thee in our way! |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_5--04_exchange_pericles" data-title="Pericles — Scene 5 — exchange (PERICLES) [4]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Pericles|PERICLES]] | A man, whom both the waters and the [[Wind|wind]] In that vast tennis-[[Court|court]] hath made the ball For them to play upon, entreats you pity him. He asks of you that never used to beg. |
-| MASTER | No, friend, cannot you beg? Here’s them in our country of Greece gets more with begging than we can do with working. |
-| SECOND FISHERMAN | Canst thou catch any fishes, then? |
-| [[Pericles|PERICLES]] | I never practised it. |
-| SECOND FISHERMAN | Nay, then thou wilt starve, sure; for here’s nothing to be got nowadays unless thou canst fish for’t. |
-| [[Pericles|PERICLES]] | What I have been, I have forgot to know, But what I am, want teaches me to think on: A man thronged up with cold; my veins are chill, And have no more of life than may suffice To give my tongue that heat to crave your help, Which if you shall refuse, when I am dead, For that I am a man, pray see me buried. He falls down |
-| MASTER | Die, quotha? Now, gods forbid’t an I have a gown here! To [[Pericles]], lifting him up from the ground Come, put it on, keep thee warm. Now, afore me, a handsome fellow! Come, thou shalt go [[Home|home]], and we’ll have flesh for holidays, fish for fasting-days, and moreo’er puddings and flapjacks, and thou shalt be welcome. |
-| [[Pericles|PERICLES]] | I thank you, sir. |
-| SECOND FISHERMAN | Hark you, my friend, you said you could not beg? |
-| [[Pericles|PERICLES]] | I did but crave. |
-| SECOND FISHERMAN | But crave? Then I’ll turn craver too, an so I shall scape whipping. |
-| [[Pericles|PERICLES]] | Why, are all your beggars whipped, then? |
-| SECOND FISHERMAN | O, not all, my friend, not all; for if all your beggars were whipped I would wish no better office than to be beadle. |
-| MASTER | Thine office, knave— |
-| SECOND FISHERMAN | Is to draw up the other nets. I’ll go. Exit with Third Fisherman |
-| [[Pericles|PERICLES]] | (aside) How [[Well|well]] this honest mirth becomes their labour! |
-| MASTER | seating himself by [[Pericles]] Hark you, sir, do you know where ye are? |
-| [[Pericles|PERICLES]] | Not [[Well|well]]. |
-| MASTER | Why, I’ll tell you. This is called Pentapolis, and our [[King|king]] the good [[Simonides]]. |
-| [[Pericles|PERICLES]] | ’The good [[Simonides]]’ do you call him? |
-| MASTER | Ay, sir, and he deserves so to be called for his peaceable reign and good [[government]]. |
-| [[Pericles|PERICLES]] | He is a happy [[King|king]], since from his subjects He gains the name of good by his [[government]]. How far is his [[Court|court]] distant from this shore? |
-| MASTER | Marry, sir, some half a day’s [[Journey|journey]]. And I’ll tell you, he hath a fair daughter, and tomorrow is her birthday, and there are princes and knights come from all parts of the world to joust and tourney for her [[Love|love]]. |
-| [[Pericles|PERICLES]] | Were but my fortunes answerable To my desires I could wish to make one there. |
-| MASTER | O, sir, things must be as they may, and what a man cannot get himself, he may lawfully deal for with his wife’s [[Soul|soul]]. Enter the other two Fishermen drawing up a net |
-| SECOND FISHERMAN | Help, master, help! Here’s a fish hangs in the net like a poor man’s right in the law; ’twill hardly come out. Before help comes, up comes their prize Ha, bots on’t, ’tis come at last, and ’tis turned to a rusty armour. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_5--05_exchange_pericles" data-title="Pericles — Scene 5 — exchange (PERICLES) [5]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Pericles|PERICLES]] | An armour, friends? I pray you let me see it. (Aside) Thanks, fortune, yet that after all thy crosses Thou giv‘st me somewhat to repair my losses, And though it was mine own, part of my heritage Which my dead father did bequeath to me With this strict charge ev’n as he left his life: ‘Keep it, my [[Pericles]]; it hath been a shield ‘Twixt me and [[Death|death]],’ and pointed to this brace, ‘For that it saved me, keep it. In like necessity, The which the Gods forfend, the same may defend thee.’ It kept where I kept, I so dearly loved it, Till the rough seas that spares not any man Took it in rage, though calmed have giv’n’t again. I thank thee for’t. My shipwreck now’s no ill, Since I have here my father gave in ’s will. |
-| MASTER | What mean you, sir? |
-| [[Pericles|PERICLES]] | To beg of you, kind friends, this coat of worth, For it was sometime target to a [[King|king]]. I know it by this mark. He loved me dearly, And for his sake I wish the having of it, And that you’d guide me to your sov’reign’s [[Court|court]], Where with’t I may appear a gentleman. And if that ever my low fortune’s better, I’ll pay your bounties, till then rest your debtor. |
-| MASTER | Why, wilt thou tourney for the lady? |
-| [[Pericles|PERICLES]] | I’ll show the virtue I have learned in arms. |
-| MASTER | Why, d‘ye take it, and the gods give thee good on’t! |
-| SECOND FISHERMAN | Ay, but hark you, my friend, ’twas we that made up this garment through the rough seams of the waters. There are certain condolements, certain vails. I [[Hope|hope]], sir, if you thrive, you’ll remember from whence you had this. |
-| [[Pericles|PERICLES]] | Believe’t, I will. By your furtherance I’m clothed in steel, And spite of all the rapture of the sea This [[Jewel|jewel]] holds his building on my arm. Unto thy value I will mount myself Upon a courser whose delightsome steps Shall make the gazer joy to see him tread. Only, my friends, I yet am unprovided Of a pair of bases. |
-| SECOND FISHERMAN | We’ll sure provide. Thou shalt have my best gown to make thee a pair, and I’ll bring thee to the [[Court|court]] myself. |
-| [[Pericles|PERICLES]] | Then [[Honour|honour]] be but equal to my will, This day I’ll rise, or else add ill to ill. Exeunt with nets and armour |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_7--01_exchange_dialogue" data-title="Pericles — Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | [[Simonides]], [[Thaisa]] and their train at one door, and at another door a Marshal conducting [[Pericles]] and the other knights from tilting |
-| [[King|KING]] [[Simonides|SIMONIDES]] | (to the knights) To say you’re welcome were superfluous. To place upon the volume of your deeds As in a title page your worth in arms Were more than you expect, or more than’s fit, Since every worth in show commends itself. Prepare for mirth, for mirth becomes a feast. You’re princes, and my guests. |
-| [[Thaisa|THAISA]] | (to [[Pericles]]) But you, my knight and guest; To whom this wreath of victory I give, And [[Crown|crown]] you [[King|king]] of this day’s happiness. |
-| [[Pericles|PERICLES]] | ’Tis more by fortune, lady, than my merit. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | Call it by what you will, the day is yours, And here I [[Hope|hope]] is none that envies it. In framing artists art hath thus decreed, To make some good, but others to exceed. You are her laboured scholar. (To [[Thaisa]]) Come, [[Queen|queen]] o’th’ feast— For, daughter, so you are—here take your place. (To Marshal) Marshal the rest as they deserve their grace. |
-| KNIGHTS | We are honoured much by good [[Simonides]]. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | Your presence glads our days; [[Honour|honour]] we [[Love|love]], For who hates [[Honour|honour]] hates the gods above. |
-| MARSHAL | (to [[Pericles]]) Sir, yonder is your place. |
-| [[Pericles|PERICLES]] | Some other is more fit. |
-| FIRST KNIGHT | Contend not, sir, for we are gentlemen Have neither in our hearts nor outward eyes Envied the great, nor shall the low despise. |
-| [[Pericles|PERICLES]] | You are right courteous knights. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | Sit, Sir, sit. [[Pericles]] sits directly over against the [[King]] and [[Thaisa]]. The guests feed apace. [[Pericles]] sits still and eats nothing Aside By Jove I [[Wonder|wonder]], that is [[King|king]] of thoughts, These cates distaste me, he but thought upon. |
-| [[Thaisa|THAISA]] | aside By Juno, that is [[Queen|queen]] of [[Marriage|marriage]], I am amazed all viands that I eat Do seem unsavoury, wishing him my meat. To the [[King]] Sure he’s a gallant gentleman. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | He’s but a country gentleman. He’s done no more than other knights have done. He’s broke a staff or so, so let it pass. |
-| [[Thaisa|THAISA]] | aside To me he seems like diamond to glass. |
-| [[Pericles|PERICLES]] | aside Yon [[King|king]]’s to me like to my father’s picture, Which tells me in what glory once he was— Had princes sit like [[Stars|stars]] about his throne, And he the sun for them to reverence. None that beheld him but like lesser lights Did vail their crowns to his supremacy; Where now his son’s a glow-worm in the [[Night|night]], The which hath [[Fire|fire]] in darkness, none in light; Whereby I see that [[Time|time]]’s the [[King|king]] of men; He’s both their parent and he is their [[Grave|grave]], And gives them what he will, not what they crave. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | What, are you merry, knights? THE OTHER KNIGHTS Who can be other in this royal presence? |
-| [[King|KING]] [[Simonides|SIMONIDES]] | Here with a cup that’s stored unto the brim, As you do [[Love|love]], full to your mistress’ lips, We drink this health to you. THE OTHER KNIGHTS We thank your grace. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | Yet pause a while. Yon knight doth sit too [[Melancholy|melancholy]], As if the entertainment in our [[Court|court]] Had not a show might countervail his worth. Note it not you, [[Thaisa]]? |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_7--02_exchange_thaisa" data-title="Pericles — Scene 7 — exchange (THAISA) [2]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Thaisa|THAISA]] | What is’t to me, my father? |
-| [[King|KING]] [[Simonides|SIMONIDES]] | O, attend, my daughter. Princes in this Should live like gods above, who freely give To everyone that come to [[Honour|honour]] them. And princes not so doing are like gnats Which make a sound but, killed, are wondered at. Therefore to make his entertain more sweet, Here bear this standing-bowl of wine to him. |
-| [[Thaisa|THAISA]] | Alas, my father, it befits not me Unto a stranger knight to be so bold. He may my proffer take for an offence, Since men take women’s gifts for impudence. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | How? Do as I bid you, or you’ll move me else. |
-| [[Thaisa|THAISA]] | (aside) Now, by the gods, he could not please me better. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | Furthermore, tell him we [[Desire|desire]] to know Of whence he is, his name and parentage. [[Thaisa]] bears the cup to [[Pericles]] |
-| [[Thaisa|THAISA]] | The [[King]] my father, sir, has drunk to you, Wishing it so much [[Blood|blood]] unto your life. |
-| [[Pericles|PERICLES]] | I thank both him and you, and pledge him freely. He pledges the [[King]] |
-| [[Thaisa|THAISA]] | And further he desires to know of you Of whence you are, your name and parentage. |
-| [[Pericles|PERICLES]] | A gentleman of Tyre, my name [[Pericles]], My [[Education|education]] been in arts and arms, Who, looking for adventures in the world, Was by the rough unconstant seas bereft Unfortunately both of ships and men, And after shipwreck driven upon this shore. [[Thaisa]] returns to the [[King]] |
-| [[Thaisa|THAISA]] | He thanks your grace, names himself [[Pericles]], A gentleman of Tyre, who, seeking adventures, Was solely by misfortune of the seas Bereft of ships and men, cast on this shore. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | Now by the gods I pity his mishaps, And will awake him from his [[Melancholy|melancholy]]. [[Simonides]], rising from his state, goes forthwith and embraces [[Pericles]] Be cheered, for what misfortune hath impaired you of, Fortune by my help can repair to you. My [[Self|self]] and country both shall be your friends, And presently a goodly milk-white steed And golden spurs I first bestow upon you, The prizes due your merit, and ordained For this day’s enterprise. |
-| [[Pericles|PERICLES]] | Your kingly courtesy I thankfully accept. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | Come, gentlemen, we sit too long on trifles, And waste the [[Time|time]] which looks for other revels. Ev’n in your armours, as you are addressed, Your limbs will [[Well|well]] become a soldier’s [[Dance|dance]]. I will not have excuse with saying this, ‘Loud music is too harsh for ladies’ heads’, Since they [[Love|love]] men in arms as [[Well|well]] as beds. The knights [[Dance|dance]] So this was [[Well|well]] asked, ’twas so [[Well|well]] performed. Come, here’s a lady that wants breathing too. (To [[Pericles]]) And I have heard, sir, that the knights of Tyre Are excellent in making ladies trip, And that their measures are as excellent. |
-| [[Pericles|PERICLES]] | In those that practise them they are, my lord. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | O, that’s as much as you would be denied Of your fair courtesy. Unclasp, unclasp. They [[Dance|dance]] Thanks, gentlemen, to all. All have done [[Well|well]], (To [[Pericles]]) But you the best.—Lights, pages, to conduct These knights unto their sev’ral lodgings.—Yours, sir, We have giv’n order should be next our own. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_7--03_exchange_pericles_i" data-title="Pericles — Scene 7 — exchange (PERICLES I) [3]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Pericles|PERICLES]] | I am at your grace’s pleasure. |
-| [[King|KING]] [[Simonides|SIMONIDES]] | Princes, it is too late to talk of [[Love|love]], And that’s the mark I know you level at. Therefore each one betake him to his rest; Tomorrow all for speeding do their best. Exeunt severally |
 
 
 

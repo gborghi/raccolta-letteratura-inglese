@@ -6238,190 +6238,6 @@ PEEL. By J.R. THURSFIELD, M.A., late Fellow of Jesus College,
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="Robert Browning — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
-
-
-CHAPTER VIII
-
-THE [[philosophy|PHILOSOPHY]] OF BROWNING
-
-The great fault of most of the appreciation of Browning lies in the
-fact that it conceives the moral and artistic value of his work to lie
-in what is called "the message of Browning," or "the teaching of
-Browning," or, in other words, in the mere opinions of Browning. Now
-Browning had opinions, just as he had a dress-suit or a vote for
-Parliament. He did not hesitate to express these opinions any more
-than he would have hesitated to [[Fire|fire]] off a gun, or open an umbrella,
-if he had possessed those articles, and realised their value. For
-example, he had, as his students and eulogists have constantly stated,
-certain definite opinions about the spiritual function of [[Love|love]], or the
-intellectual basis of [[Christianity]]. Those opinions were very striking
-and very solid, as everything was which came out of Browning's mind.
-His two great theories of the universe may be expressed in two
-comparatively parallel phrases. The first was what may be called the
-[[Hope|hope]] which lies in the imperfection of man. The characteristic poem of
-"Old Pictures in Florence" expresses very quaintly and beautifully the
-idea that some [[Hope|hope]] may always be based on deficiency itself; in other
-words, that in so far as man is a one-legged or a one-eyed creature,
-there is something about his appearance which indicates that he
-should have another leg and another eye. The poem suggests admirably
-that such a sense of incompleteness may easily be a great advance upon
-a sense of completeness, that the part may easily and obviously be
-greater than the whole. And from this Browning draws, as he is fully
-justified in drawing, a definite [[Hope|hope]] for [[Immortality|immortality]] and the larger
-scale of life. For nothing is more certain than that though this world
-is the only world that we have known, or of which we could even dream,
-the fact does remain that we have named it "a strange world." In other
-words, we have certainly felt that this world did not explain itself,
-that something in its complete and patent picture has been omitted.
-And Browning was right in saying that in a cosmos where incompleteness
-implies completeness, life implies [[Immortality|immortality]]. This then was the
-first of the doctrines or opinions of Browning: the [[Hope|hope]] that lies in
-the imperfection of man. The second of the great Browning doctrines
-requires some audacity to express. It can only be properly stated as
-the [[Hope|hope]] that lies in the imperfection of God. That is to say, that
-Browning held that sorrow and [[Self|self]]-denial, if they were the burdens of
-man, were also his privileges. He held that these stubborn sorrows and
-obscure valours might, to use a yet more strange expression, have
-provoked the envy of the Almighty. If man has [[Self-Sacrifice|self-sacrifice]] and God
-has none, then man has in the Universe a secret and blasphemous
-superiority. And this tremendous story of a Divine [[Jealousy|jealousy]] Browning
-reads into the story of the Crucifixion. If the Creator had not been
-crucified He would not have been as great as thousands of wretched
-fanatics among His own creatures. It is needless to insist upon this
-point; any one who wishes to read it splendidly expressed need only be
-referred to "Saul." But these are emphatically the two main doctrines
-or opinions of Browning which I have ventured to characterise roughly
-as the [[Hope|hope]] in the imperfection of man, and more boldly as the [[Hope|hope]] in
-the imperfection of God. They are great thoughts, thoughts written by
-a great man, and they raise noble and beautiful doubts on behalf of
-[[Faith|faith]] which the human spirit will never answer or exhaust. But about
-them in connection with Browning there nevertheless remains something
-to be added.
-
-Browning was, as most of his upholders and all his opponents say, an
-optimist. His theory, that man's sense of his own imperfection implies
-a design of perfection, is a very good argument for optimism. His
-theory that man's knowledge of and [[Desire|desire]] for [[Self-Sacrifice|self-sacrifice]] implies
-God's knowledge of and [[Desire|desire]] for [[Self-Sacrifice|self-sacrifice]] is another very good
-argument for optimism. But any one will make the deepest and blackest
-and most incurable mistake about Browning who imagines that his
-optimism was founded on any arguments for optimism. Because he had a
-strong intellect, because he had a strong power of conviction, he
-conceived and developed and asserted these doctrines of the
-incompleteness of Man and the sacrifice of Omnipotence. But these
-doctrines were the symptoms of his optimism, they were not its origin.
-It is surely obvious that no one can be argued into optimism since no
-one can be argued into happiness. Browning's optimism was not founded
-on opinions which were the work of Browning, but on life which was
-the work of God. One of Browning's most celebrated biographers has
-said that something of Browning's theology must be put down to his
-possession of a good digestion. The remark was, of course, like all
-remarks touching the tragic subject of digestion, intended to be funny
-and to convey some kind of [[Doubt|doubt]] or diminution touching the value of
-Browning's [[Faith|faith]]. But if we examine the matter with somewhat greater
-care we shall see that it is indeed a thorough compliment to that
-[[Faith|faith]]. Nobody, strictly speaking, is happier on account of his
-digestion. He is happy because he is so constituted as to forget all
-about it. Nobody really is convulsed with delight at the thought of
-the ingenious machinery which he possesses inside him; the thing which
-delights him is simply the full possession of his own human [[Body|body]]. I
-cannot in the least understand why a good digestion--that is, a good
-[[Body|body]]--should not be held to be as mystic a benefit as a sunset or the
-first flower of [[spring]]. But there is about digestion this peculiarity
-throwing a great light on human pessimism, that it is one of the many
-things which we never speak of as existing until they go wrong. We
-should think it ridiculous to speak of a man as [[Suffering|suffering]] from his
-boots if we meant that he had really no boots. But we do speak of a
-man [[Suffering|suffering]] from digestion when we mean that he suffers from a lack
-of digestion. In the same way we speak of a man [[Suffering|suffering]] from nerves
-when we mean that his nerves are more inefficient than any one else's
-nerves. If any one wishes to see how grossly language can degenerate,
-he need only compare the old optimistic use of the word nervous,
-which we employ in speaking of a nervous grip, with the new
-pessimistic use of the word, which we employ in speaking of a nervous
-manner. And as digestion is a good thing which sometimes goes wrong,
-as nerves are good things which sometimes go wrong, so existence
-itself in the eyes of Browning and all the great optimists is a good
-thing which sometimes goes wrong. He held himself as free to draw his
-inspiration from the gift of good health as from the gift of learning
-or the gift of fellowship. But he held that such gifts were in life
-innumerable and varied, and that every man, or at least almost every
-man, possessed some [[Window|window]] looking out on this essential excellence of
-things.
-
-Browning's optimism then, since we must continue to use this somewhat
-inadequate word, was a result of experience--experience which is for
-some mysterious reason generally understood in the sense of sad or
-disillusioning experience. An old gentleman rebuking a little boy for
-eating apples in a tree is in the common conception the type of
-experience. If he really wished to be a type of experience he would
-climb up the tree himself and proceed to experience the apples.
-Browning's [[Faith|faith]] was founded upon joyful experience, not in the sense
-that he selected his joyful experiences and ignored his painful ones,
-but in the sense that his joyful experiences selected themselves and
-stood out in his [[Memory|memory]] by virtue of their own extraordinary intensity
-of colour. He did not use experience in that mean and pompous sense in
-which it is used by the worldling advanced in years. He rather used it
-in that healthier and more joyful sense in which it is used at
-revivalist meetings. In the Salvation Army a man's experiences mean
-his experiences of the [[Mercy|mercy]] of God, and to Browning the meaning was
-much the same. But the revivalists' confessions deal mostly with
-experiences of [[prayer]] and praise; Browning's dealt pre-eminently with
-what may be called his own subject, the experiences of [[Love|love]].
-
-And this quality of Browning's optimism, the quality of detail, is
-also a very typical quality. Browning's optimism is of that ultimate
-and unshakeable order that is founded upon the absolute sight, and
-sound, and smell, and handling of things. If a man had gone up to
-Browning and asked him with all the solemnity of the eccentric, "Do
-you think life is worth living?" it is interesting to conjecture what
-his answer might have been. If he had been for the moment under the
-influence of the orthodox rationalistic deism of the theologian he
-would have said, "Existence is justified by its manifest design, its
-manifest adaptation of means to ends," or, in other words, "Existence
-is justified by its completeness." If, on the other hand, he had been
-influenced by his own serious intellectual theories he would have
-said, "Existence is justified by its air of growth and doubtfulness,"
-or, in other words, "Existence is justified by its incompleteness."
-But if he had not been influenced in his answer either by the accepted
-opinions, or by his own opinions, but had simply answered the question
-"Is life worth living?" with the real, vital answer that awaited it in
-his own [[Soul|soul]], he would have said as likely as not, "Crimson toadstools
-in Hampshire." Some plain, glowing picture of this sort left on his
-mind would be his real verdict on what the universe had meant to him.
-To his traditions [[Hope|hope]] was traced to order, to his speculations [[Hope|hope]]
-was traced to disorder. But to Browning himself [[Hope|hope]] was traced to
-something like red toadstools. His mysticism was not of that idle and
-wordy type which believes that a flower is symbolical of life; it was
-rather of that deep and eternal type which believes that life, a mere
-abstraction, is symbolical of a flower. With him the great concrete
-experiences which God made always come first; his own deductions and
-speculations about them always second. And in this point we find the
-real peculiar inspiration of his very original [[Poems|poems]].
-
-One of the very few critics who seem to have got near to the actual
-secret of Browning's optimism is Mr. Santayana in his most interesting
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-CAPITOLO VIII
-
-LA [[philosophy|FILOSOFIA]] DI BROWNING
-
-Il grande difetto della maggior parte degli apprezzamenti di Browning sta nel fatto che si concepisce il valore morale e artistico della sua opera come risiedente in ciò che si chiama «il messaggio di Browning», o «l'insegnamento di Browning», ossia, in altre parole, nelle mere opinioni di Browning. Ora, Browning aveva delle opinioni, così come aveva un abito da sera o un voto per il Parlamento. Non esitava a esprimere queste opinioni più di quanto avrebbe esitato a [[Fire|sparare]] con un fucile, o ad aprire un ombrello, se avesse posseduto tali oggetti e ne avesse còlto il valore. Per esempio, egli aveva, come i suoi studiosi ed encomiatori hanno costantemente affermato, certe opinioni ben definite sulla funzione spirituale dell'[[Love|amore]], o sul fondamento intellettuale del [[Christianity|Cristianesimo]]. Quelle opinioni erano assai notevoli e assai solide, come tutto ciò che usciva dalla mente di Browning. Le sue due grandi teorie dell'universo possono essere espresse in due frasi relativamente parallele. La prima era ciò che si può chiamare la [[Hope|speranza]] che risiede nell'imperfezione dell'uomo. La caratteristica poesia «Old Pictures in Florence» esprime in modo assai singolare e bello l'idea che una qualche [[Hope|speranza]] possa sempre fondarsi sulla deficienza stessa; in altre parole, che, nella misura in cui l'uomo è una creatura con una gamba sola o con un occhio solo, vi è qualcosa nel suo aspetto che indica che egli dovrebbe avere un'altra gamba e un altro occhio. La poesia suggerisce mirabilmente che un tale senso d'incompletezza possa facilmente essere un grande progresso rispetto a un senso di completezza, che la parte possa facilmente e ovviamente essere maggiore del tutto. E da ciò Browning trae, come è pienamente giustificato a trarre, una precisa [[Hope|speranza]] d'[[Immortality|immortalità]] e di una più ampia scala della vita. Poiché nulla è più certo del fatto che, sebbene questo mondo sia l'unico mondo che abbiamo conosciuto, o di cui potremmo pur solo sognare, rimane pur vero che lo abbiamo chiamato «un mondo strano». In altre parole, abbiamo certo sentito che questo mondo non spiegava se stesso, che qualcosa nel suo quadro completo e manifesto è stato omesso. E Browning aveva ragione nel dire che in un cosmo dove l'incompletezza implica la completezza, la vita implica l'[[Immortality|immortalità]]. Questa dunque fu la prima delle dottrine o opinioni di Browning: la [[Hope|speranza]] che risiede nell'imperfezione dell'uomo. La seconda delle grandi dottrine browninghiane richiede una certa audacia per essere espressa. Può essere propriamente enunciata soltanto come la [[Hope|speranza]] che risiede nell'imperfezione di Dio. Vale a dire che Browning riteneva che il dolore e la [[Self|rinuncia]] a sé, se erano i fardelli dell'uomo, erano anche i suoi privilegi. Egli riteneva che questi ostinati dolori e questi oscuri valori potessero, per usare un'espressione ancor più strana, aver provocato l'invidia dell'Onnipotente. Se l'uomo ha il [[Self-Sacrifice|sacrificio di sé]] e Dio non ne ha, allora l'uomo possiede nell'Universo una segreta e blasfema superiorità. E questa tremenda storia di una [[Jealousy|Gelosia]] divina Browning la legge nella storia della Crocifissione. Se il Creatore non fosse stato crocifisso, non sarebbe stato grande quanto migliaia di miserabili fanatici fra le Sue stesse creature. È inutile insistere su questo punto; chiunque desideri vederlo splendidamente espresso non ha che da rivolgersi a «Saul». Ma queste sono enfaticamente le due principali dottrine od opinioni di Browning, che ho osato caratterizzare, alla grossa, come la [[Hope|speranza]] nell'imperfezione dell'uomo e, più arditamente, come la [[Hope|speranza]] nell'imperfezione di Dio. Sono grandi pensieri, pensieri scritti da un grande uomo, e sollevano dubbi nobili e belli in favore della [[Faith|fede]] che lo spirito umano non risolverà né esaurirà mai. Ma su di essi, in rapporto a Browning, rimane nondimeno qualcosa da aggiungere.
-
-Browning era, come dicono la maggior parte dei suoi sostenitori e tutti i suoi avversari, un ottimista. La sua teoria, secondo cui il senso della propria imperfezione nell'uomo implica un disegno di perfezione, è un ottimo argomento a favore dell'ottimismo. La sua teoria secondo cui la conoscenza e il [[Desire|desiderio]] dell'uomo per il [[Self-Sacrifice|sacrificio di sé]] implicano la conoscenza e il [[Desire|desiderio]] di Dio per il [[Self-Sacrifice|sacrificio di sé]] è un altro ottimo argomento a favore dell'ottimismo. Ma commetterà l'errore più profondo, più nero e più incurabile riguardo a Browning chiunque immagini che il suo ottimismo si fondasse su qualche argomento a favore dell'ottimismo. Poiché aveva un intelletto forte, poiché aveva una forte capacità di convinzione, egli concepì, sviluppò e affermò queste dottrine dell'incompletezza dell'Uomo e del sacrificio dell'Onnipotenza. Ma queste dottrine erano i sintomi del suo ottimismo, non la sua origine. È certo ovvio che nessuno può essere condotto all'ottimismo per via di argomenti, poiché nessuno può essere condotto alla felicità per via di argomenti. L'ottimismo di Browning non si fondava su opinioni, che erano opera di Browning, ma sulla vita, che era opera di Dio. Uno dei più celebri biografi di Browning ha detto che qualcosa della teologia di Browning va attribuito al suo possesso di una buona digestione. L'osservazione era, naturalmente, come tutte le osservazioni che toccano il tragico soggetto della digestione, intesa a essere spiritosa e a insinuare una specie di [[Doubt|dubbio]] o di diminuzione riguardo al valore della [[Faith|fede]] di Browning. Ma se esaminiamo la cosa con un po' più di cura, vedremo che essa è invero un pieno complimento a quella [[Faith|fede]]. Nessuno, propriamente parlando, è più felice a causa della sua digestione. È felice perché è così costituito da dimenticarsene del tutto. Nessuno è realmente scosso di gioia al pensiero dell'ingegnoso macchinario che possiede dentro di sé; la cosa che lo delizia è semplicemente il pieno possesso del proprio [[Body|corpo]] umano. Non riesco affatto a capire perché una buona digestione — cioè un buon [[Body|corpo]] — non debba essere ritenuta un beneficio altrettanto mistico di un tramonto o del primo fiore della [[spring|primavera]]. Ma vi è a proposito della digestione questa peculiarità, che getta gran luce sul pessimismo umano: che essa è una delle molte cose di cui non parliamo mai come esistenti finché non vanno storte. Riterremmo ridicolo parlare di un uomo che [[Suffering|soffre]] per i suoi stivali se intendessimo dire che egli in realtà non ha stivali. Ma sì parliamo di un uomo che [[Suffering|soffre]] di digestione quando intendiamo dire che soffre di una mancanza di digestione. Allo stesso modo parliamo di un uomo che [[Suffering|soffre]] di nervi quando intendiamo dire che i suoi nervi sono più inefficienti dei nervi di chiunque altro. Se qualcuno desidera vedere quanto grossolanamente il linguaggio possa degenerare, non ha che da confrontare l'antico uso ottimistico della parola nervoso, che impieghiamo parlando di una presa nervosa, con il nuovo uso pessimistico della parola, che impieghiamo parlando di un modo di fare nervoso. E come la digestione è una cosa buona che talvolta va storta, come i nervi sono cose buone che talvolta vanno storte, così l'esistenza stessa, agli occhi di Browning e di tutti i grandi ottimisti, è una cosa buona che talvolta va storta. Egli si riteneva libero di attingere la propria ispirazione dal dono della buona salute non meno che dal dono del sapere o dal dono dell'amicizia. Ma riteneva che tali doni fossero, nella vita, innumerevoli e vari, e che ogni uomo, o almeno quasi ogni uomo, possedesse qualche [[Window|finestra]] affacciata su questa essenziale eccellenza delle cose.
-
-L'ottimismo di Browning, dunque, poiché dobbiamo continuare a usare questa parola alquanto inadeguata, era un frutto dell'esperienza — esperienza che per qualche misteriosa ragione è generalmente intesa nel senso di esperienza triste o disilludente. Un vecchio signore che rimprovera un ragazzino perché mangia mele su un albero è, nella concezione comune, il tipo dell'esperienza. Se davvero volesse essere un tipo dell'esperienza, si arrampicherebbe egli stesso sull'albero e procederebbe a fare esperienza delle mele. La [[Faith|fede]] di Browning si fondava sull'esperienza gioiosa, non nel senso che egli selezionasse le proprie esperienze gioiose e ignorasse quelle dolorose, ma nel senso che le sue esperienze gioiose selezionavano se stesse e si stagliavano nella sua [[Memory|memoria]] in virtù della loro straordinaria intensità di colore. Egli non usava l'esperienza in quel senso meschino e pomposo in cui la usa l'uomo di mondo avanti negli anni. La usava piuttosto in quel senso più sano e più gioioso in cui la si usa nelle riunioni dei revivalisti. Nell'Esercito della Salvezza le esperienze di un uomo significano le sue esperienze della [[Mercy|misericordia]] di Dio, e per Browning il significato era pressoché lo stesso. Ma le confessioni dei revivalisti riguardano per lo più esperienze di [[prayer|preghiera]] e di lode; quelle di Browning riguardavano precipuamente ciò che si può chiamare il suo proprio soggetto, le esperienze dell'[[Love|amore]].
-
-E questa qualità dell'ottimismo di Browning, la qualità del dettaglio, è anch'essa una qualità assai tipica. L'ottimismo di Browning è di quell'ordine ultimo e incrollabile che si fonda sull'assoluta vista, sul suono, sull'odore e sul contatto delle cose. Se un uomo fosse andato da Browning e gli avesse chiesto con tutta la solennità dell'eccentrico: «Ritenete che la vita valga la pena d'essere vissuta?», è interessante congetturare quale sarebbe potuta essere la sua risposta. Se in quel momento fosse stato sotto l'influsso dell'ortodosso deismo razionalistico del teologo, avrebbe detto: «L'esistenza è giustificata dal suo manifesto disegno, dal suo manifesto adattamento dei mezzi ai fini», ossia, in altre parole, «L'esistenza è giustificata dalla sua completezza». Se, d'altra parte, fosse stato influenzato dalle sue serie teorie intellettuali, avrebbe detto: «L'esistenza è giustificata dalla sua aria di crescita e di dubbiosità», ossia, in altre parole, «L'esistenza è giustificata dalla sua incompletezza». Ma se non fosse stato influenzato nella sua risposta né dalle opinioni accettate, né dalle proprie opinioni, e avesse semplicemente risposto alla domanda «La vita vale la pena d'essere vissuta?» con la risposta reale e vitale che l'attendeva nella sua stessa [[Soul|anima]], avrebbe detto, con ogni probabilità: «Funghi cremisi nell'Hampshire». Una qualche immagine schietta e sfolgorante di questa sorta, lasciata nella sua mente, sarebbe stata il suo vero verdetto su ciò che l'universo aveva significato per lui. Nelle sue tradizioni la [[Hope|speranza]] veniva ricondotta all'ordine, nelle sue speculazioni la [[Hope|speranza]] veniva ricondotta al disordine. Ma per Browning stesso la [[Hope|speranza]] veniva ricondotta a qualcosa come i funghi rossi. Il suo misticismo non era di quel tipo ozioso e verboso che crede che un fiore sia simbolico della vita; era piuttosto di quel tipo profondo ed eterno che crede che la vita, mera astrazione, sia simbolica di un fiore. Con lui le grandi esperienze concrete che Dio ha creato vengono sempre prime; le sue proprie deduzioni e speculazioni su di esse sempre seconde. E in questo punto troviamo la vera peculiare ispirazione dei suoi assai originali [[Poems|poemi]].
-
-Uno dei pochissimi critici che paiono essersi avvicinati al vero segreto dell'ottimismo di Browning è il signor Santayana nel suo assai interessante
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Robert Browning — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -13393,6 +13209,190 @@ Non è affatto [[Self|di per sé]] evidente, a prima vista, che un'istituzione c
 Browning fu, nell'insieme, il primo poeta ad applicare il principio alla poesia. Percepì che, se vogliamo dire la [[Truth|verità]] su un dramma umano, non dobbiamo raccontarlo semplicemente come un [[Melodrama|melodramma]], in cui il [[Villain|malvagio]] è malvagio e il buffone è comico. Vide che la [[Truth|verità]] non era stata detta finché non avesse scorto nel [[Villain|malvagio]] il gentiluomo puro e disinteressato che la maggior parte dei malvagi crede fermamente di essere, o finché non avesse preso il buffone tanto sul serio quanto è costume dei buffoni prendere se stessi. E in ciò Browning è fuori di ogni dubbio il fondatore della più moderna scuola di poesia. Tutto ciò che vi era di profondo, tutto ciò, anzi, che vi era di tollerabile negli esteti del 1880 e nei decadenti del 1890, ha la sua ultima fonte nella grande concezione di Browning, secondo cui il punto di vista di ciascuno è interessante, anche se sia un punto di vista itterico o [[Blood|iniettato di sangue]]. Egli concorda con i decadenti nel ritenere che sia enfaticamente utile, enfaticamente meritorio, conoscere qualcosa dei fondamenti della felicità di un uomo del tutto malvagio. Dai suoi [[Time|tempi]] in poi ci siamo in verità un po' troppo compiaciuti degli umori dello scassinatore e delle liriche pensose del ricettatore di refurtiva. Ma Browning, unito ai decadenti su questo punto, cioè il valore di ogni testimonianza umana, se ne divide nettamente e per un abisso su un altro punto altrettanto importante. Egli riteneva necessario ascoltare tutti i lati di una questione per scoprirne la [[Truth|verità]]. Ma riteneva che vi fosse una [[Truth|verità]] da scoprire. Riteneva che la giustizia fosse un mistero, ma non, come i decadenti, che la giustizia fosse un'illusione. Riteneva, in altre parole, la vera dottrina browninghiana, che in una disputa ciascuno ha in certa misura ragione; non la dottrina decadente, secondo cui in un luogo folle come il mondo ciascuno deve per la [[Nature|natura]] stessa delle cose avere torto.
 
 La concezione dell'Universo di Browning non può essere espressa meglio che nell'antica e pregnante [[Fable|favola]] dei cinque ciechi che andarono a visitare un elefante. Uno di loro ne afferrò la proboscide e sostenne che l'elefante fosse una specie di serpente; un altro ne abbracciò la zampa ed era pronto a morire per la convinzione che l'elefante fosse una specie di albero. Allo stesso modo, per l'uomo che si appoggiò al suo fianco esso era un muro; per l'uomo che ne teneva la coda era una fune, e per l'uomo che incappò nella sua zanna una specie particolarmente sgradevole di lancia. Questa, come ho detto, è tutta la teologia e la [[philosophy|filosofia]] di Browning. Ma egli si distingue dai decadenti e dagli impressionisti psicologici su questo punto importante: che egli pensa che, sebbene i ciechi scoprissero ben poco dell'elefante, l'elefante era un elefante, ed era là per tutto il [[Time|tempo]]. I ciechi si formarono teorie sbagliate perché un elefante è una cosa dalla forma assai curiosa. E Browning credeva fermamente che l'Universo fosse davvero una cosa dalla forma assai curiosa. Nessun poeta cieco potrebbe pur solo immaginare un elefante senza esperienza, e nessun uomo, per quanto grande e saggio, potrebbe sognare Dio e non morirne. Ma vi è una distinzione vitale fra la visione mistica di Browning, secondo cui i ciechi sono tratti in inganno perché hanno tanto da imparare, e la visione puramente impressionistica e agnostica del poeta moderno, secondo cui i ciechi erano tratti in inganno perché non v'era nulla da imparare. Per l'[[artist|artista]] impressionista dei nostri [[Time|tempi]] noi non siamo ciechi che vanno a tentoni intorno a un elefante chiamandolo albero o serpente. Siamo folli, isolati in celle separate, che sognano alberi e serpenti senza ragione e senza esito.
+
+
+
+<span class="atom-split" data-atom="chapter_08" data-title="Robert Browning — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+
+
+CHAPTER VIII
+
+THE [[philosophy|PHILOSOPHY]] OF BROWNING
+
+The great fault of most of the appreciation of Browning lies in the
+fact that it conceives the moral and artistic value of his work to lie
+in what is called "the message of Browning," or "the teaching of
+Browning," or, in other words, in the mere opinions of Browning. Now
+Browning had opinions, just as he had a dress-suit or a vote for
+Parliament. He did not hesitate to express these opinions any more
+than he would have hesitated to [[Fire|fire]] off a gun, or open an umbrella,
+if he had possessed those articles, and realised their value. For
+example, he had, as his students and eulogists have constantly stated,
+certain definite opinions about the spiritual function of [[Love|love]], or the
+intellectual basis of [[Christianity]]. Those opinions were very striking
+and very solid, as everything was which came out of Browning's mind.
+His two great theories of the universe may be expressed in two
+comparatively parallel phrases. The first was what may be called the
+[[Hope|hope]] which lies in the imperfection of man. The characteristic poem of
+"Old Pictures in Florence" expresses very quaintly and beautifully the
+idea that some [[Hope|hope]] may always be based on deficiency itself; in other
+words, that in so far as man is a one-legged or a one-eyed creature,
+there is something about his appearance which indicates that he
+should have another leg and another eye. The poem suggests admirably
+that such a sense of incompleteness may easily be a great advance upon
+a sense of completeness, that the part may easily and obviously be
+greater than the whole. And from this Browning draws, as he is fully
+justified in drawing, a definite [[Hope|hope]] for [[Immortality|immortality]] and the larger
+scale of life. For nothing is more certain than that though this world
+is the only world that we have known, or of which we could even dream,
+the fact does remain that we have named it "a strange world." In other
+words, we have certainly felt that this world did not explain itself,
+that something in its complete and patent picture has been omitted.
+And Browning was right in saying that in a cosmos where incompleteness
+implies completeness, life implies [[Immortality|immortality]]. This then was the
+first of the doctrines or opinions of Browning: the [[Hope|hope]] that lies in
+the imperfection of man. The second of the great Browning doctrines
+requires some audacity to express. It can only be properly stated as
+the [[Hope|hope]] that lies in the imperfection of God. That is to say, that
+Browning held that sorrow and [[Self|self]]-denial, if they were the burdens of
+man, were also his privileges. He held that these stubborn sorrows and
+obscure valours might, to use a yet more strange expression, have
+provoked the envy of the Almighty. If man has [[Self-Sacrifice|self-sacrifice]] and God
+has none, then man has in the Universe a secret and blasphemous
+superiority. And this tremendous story of a Divine [[Jealousy|jealousy]] Browning
+reads into the story of the Crucifixion. If the Creator had not been
+crucified He would not have been as great as thousands of wretched
+fanatics among His own creatures. It is needless to insist upon this
+point; any one who wishes to read it splendidly expressed need only be
+referred to "Saul." But these are emphatically the two main doctrines
+or opinions of Browning which I have ventured to characterise roughly
+as the [[Hope|hope]] in the imperfection of man, and more boldly as the [[Hope|hope]] in
+the imperfection of God. They are great thoughts, thoughts written by
+a great man, and they raise noble and beautiful doubts on behalf of
+[[Faith|faith]] which the human spirit will never answer or exhaust. But about
+them in connection with Browning there nevertheless remains something
+to be added.
+
+Browning was, as most of his upholders and all his opponents say, an
+optimist. His theory, that man's sense of his own imperfection implies
+a design of perfection, is a very good argument for optimism. His
+theory that man's knowledge of and [[Desire|desire]] for [[Self-Sacrifice|self-sacrifice]] implies
+God's knowledge of and [[Desire|desire]] for [[Self-Sacrifice|self-sacrifice]] is another very good
+argument for optimism. But any one will make the deepest and blackest
+and most incurable mistake about Browning who imagines that his
+optimism was founded on any arguments for optimism. Because he had a
+strong intellect, because he had a strong power of conviction, he
+conceived and developed and asserted these doctrines of the
+incompleteness of Man and the sacrifice of Omnipotence. But these
+doctrines were the symptoms of his optimism, they were not its origin.
+It is surely obvious that no one can be argued into optimism since no
+one can be argued into happiness. Browning's optimism was not founded
+on opinions which were the work of Browning, but on life which was
+the work of God. One of Browning's most celebrated biographers has
+said that something of Browning's theology must be put down to his
+possession of a good digestion. The remark was, of course, like all
+remarks touching the tragic subject of digestion, intended to be funny
+and to convey some kind of [[Doubt|doubt]] or diminution touching the value of
+Browning's [[Faith|faith]]. But if we examine the matter with somewhat greater
+care we shall see that it is indeed a thorough compliment to that
+[[Faith|faith]]. Nobody, strictly speaking, is happier on account of his
+digestion. He is happy because he is so constituted as to forget all
+about it. Nobody really is convulsed with delight at the thought of
+the ingenious machinery which he possesses inside him; the thing which
+delights him is simply the full possession of his own human [[Body|body]]. I
+cannot in the least understand why a good digestion--that is, a good
+[[Body|body]]--should not be held to be as mystic a benefit as a sunset or the
+first flower of [[spring]]. But there is about digestion this peculiarity
+throwing a great light on human pessimism, that it is one of the many
+things which we never speak of as existing until they go wrong. We
+should think it ridiculous to speak of a man as [[Suffering|suffering]] from his
+boots if we meant that he had really no boots. But we do speak of a
+man [[Suffering|suffering]] from digestion when we mean that he suffers from a lack
+of digestion. In the same way we speak of a man [[Suffering|suffering]] from nerves
+when we mean that his nerves are more inefficient than any one else's
+nerves. If any one wishes to see how grossly language can degenerate,
+he need only compare the old optimistic use of the word nervous,
+which we employ in speaking of a nervous grip, with the new
+pessimistic use of the word, which we employ in speaking of a nervous
+manner. And as digestion is a good thing which sometimes goes wrong,
+as nerves are good things which sometimes go wrong, so existence
+itself in the eyes of Browning and all the great optimists is a good
+thing which sometimes goes wrong. He held himself as free to draw his
+inspiration from the gift of good health as from the gift of learning
+or the gift of fellowship. But he held that such gifts were in life
+innumerable and varied, and that every man, or at least almost every
+man, possessed some [[Window|window]] looking out on this essential excellence of
+things.
+
+Browning's optimism then, since we must continue to use this somewhat
+inadequate word, was a result of experience--experience which is for
+some mysterious reason generally understood in the sense of sad or
+disillusioning experience. An old gentleman rebuking a little boy for
+eating apples in a tree is in the common conception the type of
+experience. If he really wished to be a type of experience he would
+climb up the tree himself and proceed to experience the apples.
+Browning's [[Faith|faith]] was founded upon joyful experience, not in the sense
+that he selected his joyful experiences and ignored his painful ones,
+but in the sense that his joyful experiences selected themselves and
+stood out in his [[Memory|memory]] by virtue of their own extraordinary intensity
+of colour. He did not use experience in that mean and pompous sense in
+which it is used by the worldling advanced in years. He rather used it
+in that healthier and more joyful sense in which it is used at
+revivalist meetings. In the Salvation Army a man's experiences mean
+his experiences of the [[Mercy|mercy]] of God, and to Browning the meaning was
+much the same. But the revivalists' confessions deal mostly with
+experiences of [[prayer]] and praise; Browning's dealt pre-eminently with
+what may be called his own subject, the experiences of [[Love|love]].
+
+And this quality of Browning's optimism, the quality of detail, is
+also a very typical quality. Browning's optimism is of that ultimate
+and unshakeable order that is founded upon the absolute sight, and
+sound, and smell, and handling of things. If a man had gone up to
+Browning and asked him with all the solemnity of the eccentric, "Do
+you think life is worth living?" it is interesting to conjecture what
+his answer might have been. If he had been for the moment under the
+influence of the orthodox rationalistic deism of the theologian he
+would have said, "Existence is justified by its manifest design, its
+manifest adaptation of means to ends," or, in other words, "Existence
+is justified by its completeness." If, on the other hand, he had been
+influenced by his own serious intellectual theories he would have
+said, "Existence is justified by its air of growth and doubtfulness,"
+or, in other words, "Existence is justified by its incompleteness."
+But if he had not been influenced in his answer either by the accepted
+opinions, or by his own opinions, but had simply answered the question
+"Is life worth living?" with the real, vital answer that awaited it in
+his own [[Soul|soul]], he would have said as likely as not, "Crimson toadstools
+in Hampshire." Some plain, glowing picture of this sort left on his
+mind would be his real verdict on what the universe had meant to him.
+To his traditions [[Hope|hope]] was traced to order, to his speculations [[Hope|hope]]
+was traced to disorder. But to Browning himself [[Hope|hope]] was traced to
+something like red toadstools. His mysticism was not of that idle and
+wordy type which believes that a flower is symbolical of life; it was
+rather of that deep and eternal type which believes that life, a mere
+abstraction, is symbolical of a flower. With him the great concrete
+experiences which God made always come first; his own deductions and
+speculations about them always second. And in this point we find the
+real peculiar inspiration of his very original [[Poems|poems]].
+
+One of the very few critics who seem to have got near to the actual
+secret of Browning's optimism is Mr. Santayana in his most interesting
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII
+
+LA [[philosophy|FILOSOFIA]] DI BROWNING
+
+Il grande difetto della maggior parte degli apprezzamenti di Browning sta nel fatto che si concepisce il valore morale e artistico della sua opera come risiedente in ciò che si chiama «il messaggio di Browning», o «l'insegnamento di Browning», ossia, in altre parole, nelle mere opinioni di Browning. Ora, Browning aveva delle opinioni, così come aveva un abito da sera o un voto per il Parlamento. Non esitava a esprimere queste opinioni più di quanto avrebbe esitato a [[Fire|sparare]] con un fucile, o ad aprire un ombrello, se avesse posseduto tali oggetti e ne avesse còlto il valore. Per esempio, egli aveva, come i suoi studiosi ed encomiatori hanno costantemente affermato, certe opinioni ben definite sulla funzione spirituale dell'[[Love|amore]], o sul fondamento intellettuale del [[Christianity|Cristianesimo]]. Quelle opinioni erano assai notevoli e assai solide, come tutto ciò che usciva dalla mente di Browning. Le sue due grandi teorie dell'universo possono essere espresse in due frasi relativamente parallele. La prima era ciò che si può chiamare la [[Hope|speranza]] che risiede nell'imperfezione dell'uomo. La caratteristica poesia «Old Pictures in Florence» esprime in modo assai singolare e bello l'idea che una qualche [[Hope|speranza]] possa sempre fondarsi sulla deficienza stessa; in altre parole, che, nella misura in cui l'uomo è una creatura con una gamba sola o con un occhio solo, vi è qualcosa nel suo aspetto che indica che egli dovrebbe avere un'altra gamba e un altro occhio. La poesia suggerisce mirabilmente che un tale senso d'incompletezza possa facilmente essere un grande progresso rispetto a un senso di completezza, che la parte possa facilmente e ovviamente essere maggiore del tutto. E da ciò Browning trae, come è pienamente giustificato a trarre, una precisa [[Hope|speranza]] d'[[Immortality|immortalità]] e di una più ampia scala della vita. Poiché nulla è più certo del fatto che, sebbene questo mondo sia l'unico mondo che abbiamo conosciuto, o di cui potremmo pur solo sognare, rimane pur vero che lo abbiamo chiamato «un mondo strano». In altre parole, abbiamo certo sentito che questo mondo non spiegava se stesso, che qualcosa nel suo quadro completo e manifesto è stato omesso. E Browning aveva ragione nel dire che in un cosmo dove l'incompletezza implica la completezza, la vita implica l'[[Immortality|immortalità]]. Questa dunque fu la prima delle dottrine o opinioni di Browning: la [[Hope|speranza]] che risiede nell'imperfezione dell'uomo. La seconda delle grandi dottrine browninghiane richiede una certa audacia per essere espressa. Può essere propriamente enunciata soltanto come la [[Hope|speranza]] che risiede nell'imperfezione di Dio. Vale a dire che Browning riteneva che il dolore e la [[Self|rinuncia]] a sé, se erano i fardelli dell'uomo, erano anche i suoi privilegi. Egli riteneva che questi ostinati dolori e questi oscuri valori potessero, per usare un'espressione ancor più strana, aver provocato l'invidia dell'Onnipotente. Se l'uomo ha il [[Self-Sacrifice|sacrificio di sé]] e Dio non ne ha, allora l'uomo possiede nell'Universo una segreta e blasfema superiorità. E questa tremenda storia di una [[Jealousy|Gelosia]] divina Browning la legge nella storia della Crocifissione. Se il Creatore non fosse stato crocifisso, non sarebbe stato grande quanto migliaia di miserabili fanatici fra le Sue stesse creature. È inutile insistere su questo punto; chiunque desideri vederlo splendidamente espresso non ha che da rivolgersi a «Saul». Ma queste sono enfaticamente le due principali dottrine od opinioni di Browning, che ho osato caratterizzare, alla grossa, come la [[Hope|speranza]] nell'imperfezione dell'uomo e, più arditamente, come la [[Hope|speranza]] nell'imperfezione di Dio. Sono grandi pensieri, pensieri scritti da un grande uomo, e sollevano dubbi nobili e belli in favore della [[Faith|fede]] che lo spirito umano non risolverà né esaurirà mai. Ma su di essi, in rapporto a Browning, rimane nondimeno qualcosa da aggiungere.
+
+Browning era, come dicono la maggior parte dei suoi sostenitori e tutti i suoi avversari, un ottimista. La sua teoria, secondo cui il senso della propria imperfezione nell'uomo implica un disegno di perfezione, è un ottimo argomento a favore dell'ottimismo. La sua teoria secondo cui la conoscenza e il [[Desire|desiderio]] dell'uomo per il [[Self-Sacrifice|sacrificio di sé]] implicano la conoscenza e il [[Desire|desiderio]] di Dio per il [[Self-Sacrifice|sacrificio di sé]] è un altro ottimo argomento a favore dell'ottimismo. Ma commetterà l'errore più profondo, più nero e più incurabile riguardo a Browning chiunque immagini che il suo ottimismo si fondasse su qualche argomento a favore dell'ottimismo. Poiché aveva un intelletto forte, poiché aveva una forte capacità di convinzione, egli concepì, sviluppò e affermò queste dottrine dell'incompletezza dell'Uomo e del sacrificio dell'Onnipotenza. Ma queste dottrine erano i sintomi del suo ottimismo, non la sua origine. È certo ovvio che nessuno può essere condotto all'ottimismo per via di argomenti, poiché nessuno può essere condotto alla felicità per via di argomenti. L'ottimismo di Browning non si fondava su opinioni, che erano opera di Browning, ma sulla vita, che era opera di Dio. Uno dei più celebri biografi di Browning ha detto che qualcosa della teologia di Browning va attribuito al suo possesso di una buona digestione. L'osservazione era, naturalmente, come tutte le osservazioni che toccano il tragico soggetto della digestione, intesa a essere spiritosa e a insinuare una specie di [[Doubt|dubbio]] o di diminuzione riguardo al valore della [[Faith|fede]] di Browning. Ma se esaminiamo la cosa con un po' più di cura, vedremo che essa è invero un pieno complimento a quella [[Faith|fede]]. Nessuno, propriamente parlando, è più felice a causa della sua digestione. È felice perché è così costituito da dimenticarsene del tutto. Nessuno è realmente scosso di gioia al pensiero dell'ingegnoso macchinario che possiede dentro di sé; la cosa che lo delizia è semplicemente il pieno possesso del proprio [[Body|corpo]] umano. Non riesco affatto a capire perché una buona digestione — cioè un buon [[Body|corpo]] — non debba essere ritenuta un beneficio altrettanto mistico di un tramonto o del primo fiore della [[spring|primavera]]. Ma vi è a proposito della digestione questa peculiarità, che getta gran luce sul pessimismo umano: che essa è una delle molte cose di cui non parliamo mai come esistenti finché non vanno storte. Riterremmo ridicolo parlare di un uomo che [[Suffering|soffre]] per i suoi stivali se intendessimo dire che egli in realtà non ha stivali. Ma sì parliamo di un uomo che [[Suffering|soffre]] di digestione quando intendiamo dire che soffre di una mancanza di digestione. Allo stesso modo parliamo di un uomo che [[Suffering|soffre]] di nervi quando intendiamo dire che i suoi nervi sono più inefficienti dei nervi di chiunque altro. Se qualcuno desidera vedere quanto grossolanamente il linguaggio possa degenerare, non ha che da confrontare l'antico uso ottimistico della parola nervoso, che impieghiamo parlando di una presa nervosa, con il nuovo uso pessimistico della parola, che impieghiamo parlando di un modo di fare nervoso. E come la digestione è una cosa buona che talvolta va storta, come i nervi sono cose buone che talvolta vanno storte, così l'esistenza stessa, agli occhi di Browning e di tutti i grandi ottimisti, è una cosa buona che talvolta va storta. Egli si riteneva libero di attingere la propria ispirazione dal dono della buona salute non meno che dal dono del sapere o dal dono dell'amicizia. Ma riteneva che tali doni fossero, nella vita, innumerevoli e vari, e che ogni uomo, o almeno quasi ogni uomo, possedesse qualche [[Window|finestra]] affacciata su questa essenziale eccellenza delle cose.
+
+L'ottimismo di Browning, dunque, poiché dobbiamo continuare a usare questa parola alquanto inadeguata, era un frutto dell'esperienza — esperienza che per qualche misteriosa ragione è generalmente intesa nel senso di esperienza triste o disilludente. Un vecchio signore che rimprovera un ragazzino perché mangia mele su un albero è, nella concezione comune, il tipo dell'esperienza. Se davvero volesse essere un tipo dell'esperienza, si arrampicherebbe egli stesso sull'albero e procederebbe a fare esperienza delle mele. La [[Faith|fede]] di Browning si fondava sull'esperienza gioiosa, non nel senso che egli selezionasse le proprie esperienze gioiose e ignorasse quelle dolorose, ma nel senso che le sue esperienze gioiose selezionavano se stesse e si stagliavano nella sua [[Memory|memoria]] in virtù della loro straordinaria intensità di colore. Egli non usava l'esperienza in quel senso meschino e pomposo in cui la usa l'uomo di mondo avanti negli anni. La usava piuttosto in quel senso più sano e più gioioso in cui la si usa nelle riunioni dei revivalisti. Nell'Esercito della Salvezza le esperienze di un uomo significano le sue esperienze della [[Mercy|misericordia]] di Dio, e per Browning il significato era pressoché lo stesso. Ma le confessioni dei revivalisti riguardano per lo più esperienze di [[prayer|preghiera]] e di lode; quelle di Browning riguardavano precipuamente ciò che si può chiamare il suo proprio soggetto, le esperienze dell'[[Love|amore]].
+
+E questa qualità dell'ottimismo di Browning, la qualità del dettaglio, è anch'essa una qualità assai tipica. L'ottimismo di Browning è di quell'ordine ultimo e incrollabile che si fonda sull'assoluta vista, sul suono, sull'odore e sul contatto delle cose. Se un uomo fosse andato da Browning e gli avesse chiesto con tutta la solennità dell'eccentrico: «Ritenete che la vita valga la pena d'essere vissuta?», è interessante congetturare quale sarebbe potuta essere la sua risposta. Se in quel momento fosse stato sotto l'influsso dell'ortodosso deismo razionalistico del teologo, avrebbe detto: «L'esistenza è giustificata dal suo manifesto disegno, dal suo manifesto adattamento dei mezzi ai fini», ossia, in altre parole, «L'esistenza è giustificata dalla sua completezza». Se, d'altra parte, fosse stato influenzato dalle sue serie teorie intellettuali, avrebbe detto: «L'esistenza è giustificata dalla sua aria di crescita e di dubbiosità», ossia, in altre parole, «L'esistenza è giustificata dalla sua incompletezza». Ma se non fosse stato influenzato nella sua risposta né dalle opinioni accettate, né dalle proprie opinioni, e avesse semplicemente risposto alla domanda «La vita vale la pena d'essere vissuta?» con la risposta reale e vitale che l'attendeva nella sua stessa [[Soul|anima]], avrebbe detto, con ogni probabilità: «Funghi cremisi nell'Hampshire». Una qualche immagine schietta e sfolgorante di questa sorta, lasciata nella sua mente, sarebbe stata il suo vero verdetto su ciò che l'universo aveva significato per lui. Nelle sue tradizioni la [[Hope|speranza]] veniva ricondotta all'ordine, nelle sue speculazioni la [[Hope|speranza]] veniva ricondotta al disordine. Ma per Browning stesso la [[Hope|speranza]] veniva ricondotta a qualcosa come i funghi rossi. Il suo misticismo non era di quel tipo ozioso e verboso che crede che un fiore sia simbolico della vita; era piuttosto di quel tipo profondo ed eterno che crede che la vita, mera astrazione, sia simbolica di un fiore. Con lui le grandi esperienze concrete che Dio ha creato vengono sempre prime; le sue proprie deduzioni e speculazioni su di esse sempre seconde. E in questo punto troviamo la vera peculiare ispirazione dei suoi assai originali [[Poems|poemi]].
+
+Uno dei pochissimi critici che paiono essersi avvicinati al vero segreto dell'ottimismo di Browning è il signor Santayana nel suo assai interessante
 
 
 

@@ -18949,1303 +18949,6 @@ would have cried the louder.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="Oliver Twist — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
-
-
-CHAPTER VI.
-[[Oliver|OLIVER]], BEING GOADED BY THE TAUNTS OF NOAH, ROUSES INTO ACTION, AND
-RATHER ASTONISHES HIM
-
-
-The month’s trial over, [[Oliver]] was formally apprenticed. It was a nice
-sickly season just at this [[Time|time]]. In commercial phrase, coffins were
-looking up; and, in the course of a few weeks, [[Oliver]] acquired a great
-deal of experience. The [[success]] of Mr. Sowerberry’s ingenious
-speculation, exceeded even his most sanguine hopes. The oldest
-inhabitants recollected no period at which measles had been so
-prevalent, or so fatal to infant existence; and many were the mournful
-processions which little [[Oliver]] headed, in a hat-band reaching down to
-his knees, to the indescribable admiration and emotion of all the
-mothers in the town. As [[Oliver]] accompanied his master in most of his
-adult expeditions too, in order that he might acquire that equanimity
-of demeanour and full command of nerve which was essential to a
-finished undertaker, he had many opportunities of observing the
-beautiful [[Resignation|resignation]] and fortitude with which some strong-minded
-people bear their trials and losses.
-
-For instance; when Sowerberry had an order for the burial of some rich
-old lady or gentleman, who was surrounded by a great number of nephews
-and nieces, who had been perfectly inconsolable during the previous
-illness, and whose grief had been wholly irrepressible even on the most
-public occasions, they would be as happy among themselves as need
-be—quite cheerful and contented—conversing together with as much
-[[Freedom|freedom]] and gaiety, as if nothing whatever had happened to disturb
-them. Husbands, too, bore the loss of their wives with the most heroic
-calmness. Wives, again, put on weeds for their husbands, as if, so far
-from grieving in the garb of sorrow, they had made up their minds to
-render it as becoming and attractive as possible. It was observable,
-too, that ladies and gentlemen who were in passions of anguish during
-the ceremony of interment, recovered almost as soon as they reached
-[[Home|home]], and became quite composed before the tea-drinking was over. All
-this was very pleasant and improving to see; and [[Oliver]] beheld it with
-great admiration.
-
-That [[Oliver Twist]] was moved to [[Resignation|resignation]] by the example of these good
-people, I cannot, although I am his biographer, undertake to affirm
-with any degree of confidence; but I can most distinctly say, that for
-many months he continued meekly to submit to the domination and
-ill-treatment of Noah Claypole: who used him far worse than before, now
-that his [[Jealousy|jealousy]] was roused by seeing the new boy promoted to the
-black stick and hat-band, while he, the old one, remained stationary in
-the muffin-cap and leathers. Charlotte treated him ill, because Noah
-did; and Mrs. Sowerberry was his decided enemy, because Mr. Sowerberry
-was disposed to be his friend; so, between these three on one side, and
-a glut of funerals on the other, [[Oliver]] was not altogether as
-comfortable as the hungry pig was, when he was shut up, by mistake, in
-the grain department of a brewery.
-
-And now, I come to a very important passage in [[Oliver]]’s [[history]]; for I
-have to record an act, slight and unimportant perhaps in appearance,
-but which indirectly produced a material change in all his future
-prospects and proceedings.
-
-One day, [[Oliver]] and Noah had descended into the kitchen at the usual
-dinner-hour, to banquet upon a small joint of mutton—a pound and a half
-of the worst end of the neck; when Charlotte being called out of the
-way, there ensued a brief interval of [[Time|time]], which Noah Claypole, being
-hungry and vicious, considered he could not possibly devote to a
-worthier purpose than aggravating and tantalising young [[Oliver Twist]].
-
-Intent upon this [[Innocent|innocent]] amusement, Noah put his feet on the
-table-cloth; and pulled [[Oliver]]’s hair; and twitched his ears; and
-expressed his opinion that he was a “sneak”; and furthermore announced
-his intention of coming to see him hanged, whenever that desirable
-event should take place; and entered upon various topics of petty
-annoyance, like a malicious and ill-conditioned [[Charity|charity]]-boy as he was.
-But, making [[Oliver]] cry, Noah attempted to be more facetious still; and
-in his attempt, did what many sometimes do to this day, when they want
-to be funny. He got rather personal.
-
-“Work’us,” said Noah, “how’s your mother?”
-
-“She’s dead,” replied [[Oliver]]; “don’t you say anything about her to me!”
-
-[[Oliver]]’s colour [[Rose|rose]] as he said this; he breathed quickly; and there
-was a curious working of the mouth and nostrils, which Mr. Claypole
-thought must be the immediate precursor of a violent fit of crying.
-Under this impression he returned to the charge.
-
-“What did she die of, Work’us?” said Noah.
-
-“Of a broken heart, some of our old nurses told me,” replied [[Oliver]]:
-more as if he were talking to himself, than answering Noah. “I think I
-know what it must be to die of that!”
-
-“Tol de rol lol lol, right fol lairy, Work’us,” said Noah, as a tear
-rolled down [[Oliver]]’s cheek. “What’s set you a snivelling now?”
-
-“Not _you_,” replied [[Oliver]], sharply. “There; that’s enough. Don’t say
-anything more to me about her; you’d better not!”
-
-“Better not!” exclaimed Noah. “[[Well]]! Better not! Work’us, don’t be
-impudent. _Your_ mother, too! She was a nice ’un, she was. Oh, Lor!”
-And here, Noah nodded his head expressively; and curled up as much of
-his small red nose as muscular action could collect together, for the
-occasion.
-
-“Yer know, Work’us,” continued Noah, emboldened by [[Oliver]]’s [[Silence|silence]],
-and speaking in a jeering tone of affected pity: of all tones the most
-annoying: “Yer know, Work’us, it can’t be helped now; and of course yer
-couldn’t help it then; and I am very sorry for it; and I’m sure we all
-are, and pity yer very much. But yer must know, Work’us, yer mother was
-a regular right-down bad ’un.”
-
-“What did you say?” inquired [[Oliver]], looking up very quickly.
-
-“A regular right-down bad ’un, Work’us,” replied Noah, coolly. “And
-it’s a great deal better, Work’us, that she died when she did, or else
-she’d have been hard labouring in Bridewell, or transported, or hung;
-which is more likely than either, isn’t it?”
-
-Crimson with fury, [[Oliver]] started up; overthrew the chair and table;
-seized Noah by the throat; shook him, in the violence of his rage, till
-his teeth chattered in his head; and collecting his whole force into
-one heavy blow, felled him to the ground.
-
-A minute ago, the boy had looked the quiet [[Child|child]], mild, dejected
-creature that harsh treatment had made him. But his spirit was roused
-at last; the cruel insult to his dead mother had set his [[Blood|blood]] on [[Fire|fire]].
-His breast heaved; his attitude was erect; his eye bright and vivid;
-his whole person changed, as he stood glaring over the cowardly
-tormentor who now lay crouching at his feet; and defied him with an
-energy he had never known before.
-
-“He’ll murder me!” blubbered Noah. “Charlotte! missis! Here’s the new
-boy a murdering of me! Help! help! [[Oliver]]’s gone mad! Char—lotte!”
-
-Noah’s shouts were responded to, by a loud scream from Charlotte, and a
-louder from Mrs. Sowerberry; the former of whom rushed into the kitchen
-by a side-door, while the latter paused on the staircase till she was
-quite certain that it was consistent with the preservation of human
-life, to come further down.
-
-“Oh, you little wretch!” screamed Charlotte: seizing [[Oliver]] with her
-utmost force, which was about equal to that of a moderately strong man
-in particularly good training. “Oh, you little un-grate-ful,
-mur-de-rous, hor-rid [[Villain|villain]]!” And between every syllable, Charlotte
-gave [[Oliver]] a blow with all her might: accompanying it with a scream,
-for the benefit of society.
-
-Charlotte’s fist was by no means a light one; but, lest it should not
-be effectual in calming [[Oliver]]’s wrath, Mrs. Sowerberry plunged into
-the kitchen, and assisted to hold him with one hand, while she
-scratched his face with the other. In this favourable position of
-affairs, Noah [[Rose|rose]] from the ground, and pommelled him behind.
-
-This was rather too violent exercise to last long. When they were all
-wearied out, and could tear and beat no longer, they dragged [[Oliver]],
-struggling and shouting, but nothing daunted, into the [[Dust|dust]]-cellar, and
-there locked him up. This being done, Mrs. Sowerberry sunk into a
-chair, and burst into [[Tears|tears]].
-
-“Bless her, she’s going off!” said Charlotte. “A glass of [[Water|water]], Noah,
-dear. Make haste!”
-
-“Oh! Charlotte,” said Mrs. Sowerberry: speaking as [[Well|well]] as she could,
-through a deficiency of breath, and a sufficiency of cold [[Water|water]], which
-Noah had poured over her head and shoulders. “Oh! Charlotte, what a
-[[Mercy|mercy]] we have not all been murdered in our beds!”
-
-“Ah! [[Mercy|mercy]] indeed, ma’am,” was the reply. “I only [[Hope|hope]] this’ll teach
-master not to have any more of these dreadful creatures, that are born
-to be murderers and robbers from their very cradle. Poor Noah! He was
-all but killed, ma’am, when I came in.”
-
-“Poor fellow!” said Mrs. Sowerberry, looking piteously on the
-[[Charity|charity]]-boy.
-
-Noah, whose top waistcoat-button might have been somewhere on a level
-with the [[Crown|crown]] of [[Oliver]]’s head, rubbed his eyes with the inside of his
-wrists while this commiseration was bestowed upon him, and performed
-some affecting [[Tears|tears]] and sniffs.
-
-“What’s to be done!” exclaimed Mrs. Sowerberry. “Your master’s not at
-[[Home|home]]; there’s not a man in the [[house]], and he’ll kick that door down in
-ten minutes.” [[Oliver]]’s vigorous plunges against the bit of timber in
-question, rendered this occurance highly probable.
-
-“Dear, dear! I don’t know, ma’am,” said Charlotte, “unless we send for
-the police-officers.”
-
-“Or the millingtary,” suggested Mr. Claypole.
-
-“No, no,” said Mrs. Sowerberry: bethinking herself of [[Oliver]]’s old
-friend. “Run to Mr. Bumble, Noah, and tell him to come here directly,
-and not to lose a minute; never mind your cap! Make haste! You can hold
-a knife to that black eye, as you run along. It’ll keep the swelling
-down.”
-
-Noah stopped to make no reply, but started off at his fullest [[Speed|speed]];
-and very much it astonished the people who were out walking, to see a
-[[Charity|charity]]-boy tearing through the streets pell-mell, with no cap on his
-head, and a clasp-knife at his eye.
-
-
-
-
-<span class="atom-split" data-atom="chapter_10" data-title="Oliver Twist — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
-
-
-CHAPTER X.
-[[Oliver|OLIVER]] BECOMES BETTER ACQUAINTED WITH THE CHARACTERS OF HIS NEW
-ASSOCIATES; AND PURCHASES EXPERIENCE AT A HIGH PRICE. BEING A SHORT,
-BUT VERY IMPORTANT CHAPTER, IN THIS [[history|HISTORY]]
-
-
-For many days, [[Oliver]] remained in the Jew’s room, picking the marks out
-of the pocket-handkerchief, (of which a great number were brought
-[[Home|home]],) and sometimes taking part in the game already described: which
-the two boys and the Jew played, regularly, every morning. At length,
-he began to languish for fresh air, and took many occasions of
-earnestly entreating the old gentleman to allow him to go out to work
-with his two companions.
-
-[[Oliver]] was rendered the more anxious to be actively employed, by what
-he had seen of the stern [[morality]] of the old gentleman’s character.
-Whenever the Dodger or Charley Bates came [[Home|home]] at [[Night|night]], empty-handed,
-he would expatiate with great vehemence on the misery of idle and lazy
-habits; and would enforce upon them the necessity of an active life, by
-sending them supperless to bed. On one occasion, indeed, he even went
-so far as to knock them both down a flight of stairs; but this was
-carrying out his virtuous precepts to an unusual extent.
-
-At length, one morning, [[Oliver]] obtained the permission he had so
-eagerly sought. There had been no handkerchiefs to work upon, for two
-or three days, and the dinners had been rather meagre. Perhaps these
-were reasons for the old gentleman’s giving his assent; but, whether
-they were or no, he told [[Oliver]] he might go, and placed him under the
-joint guardianship of Charley Bates, and his friend the Dodger.
-
-The three boys sallied out; the Dodger with his coat-sleeves tucked up,
-and his hat cocked, as usual; Master Bates sauntering along with his
-hands in his pockets; and [[Oliver]] between them, wondering where they
-were going, and what branch of manufacture he would be instructed in
-first.
-
-The pace at which they went, was such a very lazy, ill-looking saunter,
-that [[Oliver]] soon began to think his companions were going to deceive
-the old gentleman, by not going to work at all. The Dodger had a
-vicious propensity, too, of pulling the caps from the heads of small
-boys and tossing them down areas; while Charley Bates exhibited some
-very loose notions concerning the rights of property, by pilfering
-divers apples and onions from the stalls at the kennel sides, and
-thrusting them into pockets which were so surprisingly capacious, that
-they seemed to undermine his whole suit of clothes in every direction.
-These things looked so bad, that [[Oliver]] was on the point of declaring
-his intention of seeking his way back, in the best way he could; when
-his thoughts were suddenly directed into another channel, by a very
-mysterious change of behaviour on the part of the Dodger.
-
-They were just emerging from a narrow [[Court|court]] not far from the open
-square in Clerkenwell, which is yet called, by some strange perversion
-of terms, “The Green”: when the Dodger made a sudden stop; and, laying
-his finger on his lip, drew his companions back again, with the
-greatest caution and circumspection.
-
-“What’s the matter?” demanded [[Oliver]].
-
-“Hush!” replied the Dodger. “Do you see that old cove at the
-book-stall?”
-
-“The old gentleman over the way?” said [[Oliver]]. “Yes, I see him.”
-
-“He’ll do,” said the Dodger.
-
-“A prime plant,” observed Master Charley Bates.
-
-[[Oliver]] looked from one to the other, with the greatest surprise; but he
-was not permitted to make any inquiries; for the two boys walked
-stealthily across the [[Road|road]], and slunk close behind the old gentleman
-towards whom his attention had been directed. [[Oliver]] walked a few paces
-after them; and, not knowing whether to advance or retire, stood
-looking on in silent amazement.
-
-The old gentleman was a very respectable-looking personage, with a
-powdered head and gold spectacles. He was dressed in a bottle-green
-coat with a black velvet collar; wore white trousers; and carried a
-smart bamboo cane under his arm. He had taken up a book from the stall,
-and there he stood, reading away, as hard as if he were in his
-elbow-chair, in his own study. It is very possible that he fancied
-himself there, indeed; for it was plain, from his abstraction, that he
-saw not the book-stall, nor the street, nor the boys, nor, in short,
-anything but the book itself: which he was reading straight through:
-turning over the leaf when he got to the [[Bottom|bottom]] of a page, beginning at
-the top line of the next one, and going regularly on, with the greatest
-interest and eagerness.
-
-What was [[Oliver]]’s horror and alarm as he stood a few paces off, looking
-on with his eyelids as wide open as they would possibly go, to see the
-Dodger plunge his hand into the old gentleman’s pocket, and draw from
-thence a handkerchief! To see him hand the same to Charley Bates; and
-finally to behold them, both running away round the corner at full
-[[Speed|speed]]!
-
-In an instant the whole mystery of the hankerchiefs, and the watches,
-and the jewels, and the Jew, rushed upon the boy’s mind.
-
-He stood, for a moment, with the [[Blood|blood]] so tingling through all his
-veins from terror, that he felt as if he were in a burning [[Fire|fire]]; then,
-confused and frightened, he took to his heels; and, not knowing what he
-did, made off as fast as he could lay his feet to the ground.
-
-This was all done in a minute’s space. In the very instant when [[Oliver]]
-began to run, the old gentleman, putting his hand to his pocket, and
-missing his handkerchief, turned sharp round. Seeing the boy scudding
-away at such a rapid pace, he very naturally concluded him to be the
-depredator; and shouting “Stop thief!” with all his might, made off
-after him, book in hand.
-
-But the old gentleman was not the only person who raised the
-hue-and-cry. The Dodger and Master Bates, unwilling to attract public
-attention by running down the open street, had merely retired into the
-very first doorway round the corner. They no sooner heard the cry, and
-saw [[Oliver]] running, than, guessing exactly how the matter stood, they
-issued forth with great promptitude; and, shouting “Stop thief!” too,
-joined in the pursuit like good citizens.
-
-Although [[Oliver]] had been brought up by philosophers, he was not
-theoretically acquainted with the beautiful axiom that
-[[Self|self]]-preservation is the first law of [[Nature|nature]]. If he had been, perhaps
-he would have been prepared for this. Not being prepared, however, it
-alarmed him the more; so away he went like the [[Wind|wind]], with the old
-gentleman and the two boys roaring and shouting behind him.
-
-“Stop thief! Stop thief!” There is a [[Magic|magic]] in the sound. The tradesman
-[[Leaves|leaves]] his counter, and the car-man his waggon; the butcher throws down
-his tray; the baker his basket; the milkman his pail; the errand-boy
-his parcels; the school-boy his marbles; the paviour his pickaxe; the
-[[Child|child]] his battledore. Away they run, pell-mell, helter-skelter,
-slap-dash: tearing, yelling, screaming, knocking down the passengers as
-they turn the corners, rousing up the [[dogs]], and astonishing the fowls:
-and streets, squares, and courts, re-echo with the sound.
-
-“Stop thief! Stop thief!” The cry is taken up by a hundred voices, and
-the crowd accumulate at every turning. Away they fly, splashing through
-the mud, and rattling along the pavements: up go the windows, out run
-the people, onward bear the mob, a whole audience [[Desert|desert]] Punch in the
-very thickest of the plot, and, joining the rushing throng, swell the
-shout, and lend fresh vigour to the cry, “Stop thief! Stop thief!”
-
-“Stop thief! Stop thief!” There is a passion _for hunting something_
-deeply implanted in the human breast. One wretched breathless [[Child|child]],
-panting with exhaustion; terror in his looks; agony in his eyes; large
-drops of perspiration streaming down his face; strains every nerve to
-make head upon his pursuers; and as they follow on his track, and gain
-upon him every instant, they hail his decreasing strength with joy.
-“Stop thief!” Ay, stop him for God’s sake, were it only in [[Mercy|mercy]]!
-
-Stopped at last! A clever blow. He is down upon the pavement; and the
-crowd eagerly gather round him: each new comer, jostling and struggling
-with the others to catch a glimpse. “Stand aside!” “Give him a little
-air!” “Nonsense! he don’t deserve it.” “Where’s the gentleman?” “Here
-he is, coming down the street.” “Make room there for the gentleman!”
-“Is this the boy, sir!” “Yes.”
-
-[[Oliver]] lay, covered with mud and [[Dust|dust]], and bleeding from the mouth,
-looking wildly round upon the heap of faces that surrounded him, when
-the old gentleman was officiously dragged and pushed into the circle by
-the foremost of the pursuers.
-
-“Yes,” said the gentleman, “I am afraid it is the boy.”
-
-“Afraid!” murmured the crowd. “That’s a good ’un!”
-
-“Poor fellow!” said the gentleman, “he has hurt himself.”
-
-“_I_ did that, sir,” said a great lubberly fellow, stepping forward;
-“and preciously I cut my knuckle agin’ his mouth. _I_ stopped him,
-sir.”
-
-The fellow touched his hat with a grin, expecting something for his
-pains; but, the old gentleman, eyeing him with an expression of
-dislike, look anxiously round, as if he contemplated running away
-himself: which it is very possible he might have attempted to do, and
-thus have afforded another chase, had not a police officer (who is
-generally the last person to arrive in such cases) at that moment made
-his way through the crowd, and seized [[Oliver]] by the collar.
-
-“Come, get up,” said the man, roughly.
-
-“It wasn’t me indeed, sir. Indeed, indeed, it was two other boys,” said
-[[Oliver]], clasping his hands passionately, and looking round. “They are
-here somewhere.”
-
-“Oh no, they ain’t,” said the officer. He meant this to be ironical,
-but it was true besides; for the Dodger and Charley Bates had filed off
-down the first convenient [[Court|court]] they came to.
-
-“Come, get up!”
-
-“Don’t hurt him,” said the old gentleman, compassionately.
-
-“Oh no, I won’t hurt him,” replied the officer, tearing his jacket half
-off his back, in proof thereof. “Come, I know you; it won’t do. Will
-you stand upon your legs, you young devil?”
-
-[[Oliver]], who could hardly stand, made a shift to raise himself on his
-feet, and was at once lugged along the streets by the jacket-collar, at
-a rapid pace. The gentleman walked on with them by the officer’s side;
-and as many of the crowd as could achieve the feat, got a little ahead,
-and stared back at [[Oliver]] from [[Time|time]] to [[Time|time]]. The boys shouted in
-triumph; and on they went.
-
-
-
-
-<span class="atom-split" data-atom="chapter_24" data-title="Oliver Twist — Chapter 24" data-chapter="Chapter 24" data-kind="chapter"></span>
-
-
-CHAPTER XXIV.
-TREATS ON A VERY POOR SUBJECT, BUT IS A SHORT ONE, AND MAY BE FOUND OF
-IMPORTANCE IN THIS [[history|HISTORY]]
-
-
-It was no unfit messenger of [[Death|death]], who had disturbed the quiet of the
-matron’s room. Her [[Body|body]] was bent by age; her limbs trembled with palsy;
-her face, distorted into a mumbling leer, resembled more the [[Grotesque|grotesque]]
-shaping of some wild pencil, than the work of [[Nature]]’s hand.
-
-Alas! How few of [[Nature]]’s faces are left [[Alone|alone]] to gladden us with their
-[[Beauty|beauty]]! The cares, and sorrows, and hungerings, of the world, change
-them as they change hearts; and it is only when those passions [[Sleep|sleep]],
-and have lost their hold for ever, that the troubled clouds pass off,
-and leave Heaven’s surface clear. It is a common thing for the
-countenances of the dead, even in that fixed and rigid state, to
-subside into the long-forgotten expression of sleeping infancy, and
-settle into the very look of early life; so calm, so peaceful, do they
-grow again, that those who knew them in their happy [[Childhood|childhood]], kneel by
-the coffin’s side in awe, and see the Angel even upon earth.
-
-The old [[Crone|crone]] tottered along the passages, and up the stairs, muttering
-some indistinct answers to the chidings of her companion; being at
-length compelled to pause for breath, she gave the light into her hand,
-and remained behind to follow as she might: while the more nimble
-superior made her way to the room where the sick woman lay.
-
-It was a bare garret-room, with a dim light burning at the farther end.
-There was another old woman watching by the bed; the parish
-apothecary’s apprentice was standing by the [[Fire|fire]], making a toothpick
-out of a quill.
-
-“Cold [[Night|night]], Mrs. Corney,” said this young gentleman, as the matron
-entered.
-
-“Very cold, indeed, sir,” replied the mistress, in her most civil
-tones, and dropping a curtsey as she spoke.
-
-“You should get better coals out of your contractors,” said the
-apothecary’s deputy, breaking a lump on the top of the [[Fire|fire]] with the
-rusty poker; “these are not at all the sort of thing for a cold [[Night|night]].”
-
-“They’re the board’s choosing, sir,” returned the matron. “The least
-they could do, would be to keep us pretty warm: for our places are hard
-enough.”
-
-The conversation was here interrupted by a moan from the sick woman.
-
-“Oh!” said the young man, turning his face towards the bed, as if he
-had previously quite forgotten the patient, “it’s all U.P. there, Mrs.
-Corney.”
-
-“It is, is it, sir?” asked the matron.
-
-“If she lasts a couple of hours, I shall be surprised,” said the
-apothecary’s apprentice, intent upon the toothpick’s point. “It’s a
-break-up of the system altogether. Is she dozing, old lady?”
-
-The attendant stooped over the bed, to ascertain; and nodded in the
-affirmative.
-
-“Then perhaps she’ll go off in that way, if you don’t make a row,” said
-the young man. “Put the light on the floor. She won’t see it there.”
-
-The attendant did as she was told: shaking her head meanwhile, to
-intimate that the woman would not die so easily; having done so, she
-resumed her seat by the side of the other [[Nurse|nurse]], who had by this [[Time|time]]
-returned. The mistress, with an expression of impatience, wrapped
-herself in her shawl, and sat at the foot of the bed.
-
-The apothecary’s apprentice, having completed the manufacture of the
-toothpick, planted himself in front of the [[Fire|fire]] and made good use of it
-for ten minutes or so: when apparently growing rather dull, he wished
-Mrs. Corney joy of her job, and took himself off on tiptoe.
-
-When they had sat in [[Silence|silence]] for some [[Time|time]], the two old women [[Rose|rose]] from
-the bed, and crouching over the [[Fire|fire]], held out their withered hands to
-catch the heat. The flame threw a ghastly light on their shrivelled
-faces, and made their ugliness appear terrible, as, in this position,
-they began to converse in a low voice.
-
-“Did she say any more, Anny dear, while I was gone?” inquired the
-messenger.
-
-“Not a word,” replied the other. “She plucked and tore at her arms for
-a little [[Time|time]]; but I held her hands, and she soon dropped off. She
-hasn’t much strength in her, so I easily kept her quiet. I ain’t so
-weak for an old woman, although I am on parish allowance; no, no!”
-
-“Did she drink the hot wine the doctor said she was to have?” demanded
-the first.
-
-“I tried to get it down,” rejoined the other. “But her teeth were tight
-set, and she clenched the mug so hard that it was as much as I could do
-to get it back again. So _I_ drank it; and it did me good!”
-
-Looking cautiously round, to ascertain that they were not overheard,
-the two hags cowered nearer to the [[Fire|fire]], and chuckled heartily.
-
-“I mind the [[Time|time]],” said the first speaker, “when she would have done
-the same, and made rare fun of it afterwards.”
-
-“Ay, that she would,” rejoined the other; “she had a merry heart. A
-many, many, beautiful corpses she laid out, as nice and neat as
-waxwork. My old eyes have seen them—ay, and those old hands touched
-them too; for I have helped her, scores of times.”
-
-Stretching forth her trembling fingers as she spoke, the old creature
-shook them exultingly before her face, and fumbling in her pocket,
-brought out an old [[Time|time]]-discoloured tin snuff-box, from which she shook
-a few grains into the outstretched palm of her companion, and a few
-more into her own. While they were thus employed, the matron, who had
-been impatiently watching until the dying woman should awaken from her
-stupor, joined them by the [[Fire|fire]], and sharply asked how long she was to
-wait?
-
-“Not long, mistress,” replied the second woman, looking up into her
-face. “We have none of us long to wait for [[Death]]. Patience, patience!
-He’ll be here soon enough for us all.”
-
-“Hold your tongue, you doting idiot!” said the matron sternly. “You,
-Martha, tell me; has she been in this way before?”
-
-“Often,” answered the first woman.
-
-“But will never be again,” added the second one; “that is, she’ll never
-wake again but once—and mind, mistress, that won’t be for long!”
-
-“Long or short,” said the matron, snappishly, “she won’t find me here
-when she does wake; take care, both of you, how you worry me again for
-nothing. It’s no part of my duty to see all the old women in the [[house]]
-die, and I won’t—that’s more. Mind that, you impudent old harridans. If
-you make a [[Fool|fool]] of me again, I’ll soon cure you, I warrant you!”
-
-She was bouncing away, when a cry from the two women, who had turned
-towards the bed, caused her to look round. The patient had raised
-herself upright, and was stretching her arms towards them.
-
-“Who’s that?” she cried, in a hollow voice.
-
-“Hush, hush!” said one of the women, stooping over her. “Lie down, lie
-down!”
-
-“I’ll never lie down again alive!” said the woman, struggling. “I
-_will_ tell her! Come here! Nearer! Let me whisper in your ear.”
-
-She clutched the matron by the arm, and forcing her into a chair by the
-bedside, was about to speak, when looking round, she caught sight of
-the two old women bending forward in the attitude of eager listeners.
-
-“Turn them away,” said the woman, drowsily; “make haste! make haste!”
-
-The two old crones, chiming in together, began pouring out many piteous
-lamentations that the poor dear was too far gone to know her best
-friends; and were uttering sundry protestations that they would never
-leave her, when the superior pushed them from the room, closed the
-door, and returned to the bedside. On being excluded, the old ladies
-changed their tone, and cried through the keyhole that old Sally was
-drunk; which, indeed, was not unlikely; since, in addition to a
-moderate dose of opium prescribed by the apothecary, she was labouring
-under the effects of a final taste of gin-and-[[Water|water]] which had been
-privily administered, in the openness of their hearts, by the worthy
-old ladies themselves.
-
-“Now listen to me,” said the dying woman aloud, as if making a great
-effort to revive one latent spark of energy. “In this very room—in this
-very bed—I once nursed a pretty young creetur’, that was brought into
-the [[house]] with her feet cut and bruised with walking, and all soiled
-with [[Dust|dust]] and [[Blood|blood]]. She gave birth to a boy, and died. Let me
-think—what was the year again!”
-
-“Never mind the year,” said the impatient auditor; “what about her?”
-
-“Ay,” murmured the sick woman, relapsing into her former drowsy state,
-“what about her?—what about—I know!” she cried, jumping fiercely up:
-her face flushed, and her eyes starting from her head—“I robbed her, so
-I did! She wasn’t cold—I tell you she wasn’t cold, when I stole it!”
-
-“Stole what, for God’s sake?” cried the matron, with a gesture as if
-she would call for help.
-
-“_It_!” replied the woman, laying her hand over the other’s mouth. “The
-only thing she had. She wanted clothes to keep her warm, and food to
-eat; but she had kept it safe, and had it in her bosom. It was gold, I
-tell you! Rich gold, that might have saved her life!”
-
-“Gold!” echoed the matron, bending eagerly over the woman as she fell
-back. “Go on, go on—yes—what of it? Who was the mother? When was it?”
-
-“She charged me to keep it safe,” replied the woman with a groan, “and
-trusted me as the only woman about her. I stole it in my heart when she
-first showed it me hanging round her neck; and the [[Child|child]]’s [[Death|death]],
-perhaps, is on me besides! They would have treated him better, if they
-had known it all!”
-
-“Known what?” asked the other. “Speak!”
-
-“The boy grew so like his mother,” said the woman, rambling on, and not
-heeding the question, “that I could never forget it when I saw his
-face. Poor girl! poor girl! She was so young, too! Such a gentle [[Lamb|lamb]]!
-Wait; there’s more to tell. I have not told you all, have I?”
-
-“No, no,” replied the matron, inclining her head to catch the words, as
-they came more faintly from the dying woman. “Be quick, or it may be
-too late!”
-
-“The mother,” said the woman, making a more violent effort than before;
-“the mother, when the pains of [[Death|death]] first came upon her, whispered in
-my ear that if her baby was born alive, and thrived, the day might come
-when it would not feel so much disgraced to hear its poor young mother
-named. ‘And oh, kind Heaven!’ she said, folding her thin hands
-together, ‘whether it be boy or girl, raise up some friends for it in
-this troubled world, and take pity upon a lonely desolate [[Child|child]],
-abandoned to its [[Mercy|mercy]]!’”
-
-“The boy’s name?” demanded the matron.
-
-“They _called_ him [[Oliver]],” replied the woman, feebly. “The gold I
-stole was—”
-
-“Yes, yes—what?” cried the other.
-
-She was bending eagerly over the woman to hear her reply; but drew
-back, instinctively, as she once again [[Rose|rose]], slowly and stiffly, into a
-sitting posture; then, clutching the coverlid with both hands, muttered
-some indistinct sounds in her throat, and fell lifeless on the bed.
-
-
-“Stone dead!” said one of the old women, hurrying in as soon as the
-door was opened.
-
-“And nothing to tell, after all,” rejoined the matron, walking
-carelessly away.
-
-The two crones, to all appearance, too busily occupied in the
-preparations for their dreadful duties to make any reply, were left
-[[Alone|alone]], hovering about the [[Body|body]].
-
-
-
-
-<span class="atom-split" data-atom="chapter_29" data-title="Oliver Twist — Chapter 29" data-chapter="Chapter 29" data-kind="chapter"></span>
-
-
-CHAPTER XXIX.
-HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE [[house|HOUSE]], TO WHICH
-[[Oliver|OLIVER]] RESORTED
-
-
-In a handsome room: though its furniture had rather the air of
-old-fashioned comfort, than of modern elegance: there sat two ladies at
-a [[Well|well]]-spread breakfast-table. Mr. Giles, dressed with scrupulous care
-in a full suit of black, was in attendance upon them. He had taken his
-station some half-way between the side-board and the breakfast-table;
-and, with his [[Body|body]] drawn up to its full height, his head thrown back,
-and inclined the merest trifle on one side, his left leg advanced, and
-his right hand thrust into his waist-coat, while his left hung down by
-his side, grasping a waiter, looked like one who laboured under a very
-agreeable sense of his own merits and importance.
-
-Of the two ladies, one was [[Well|well]] advanced in years; but the high-backed
-oaken chair in which she sat, was not more upright than she. Dressed
-with the utmost nicety and precision, in a quaint mixture of by-gone
-costume, with some slight concessions to the prevailing taste, which
-rather served to point the old style pleasantly than to impair its
-effect, she sat, in a stately manner, with her hands folded on the
-table before her. Her eyes (and age had dimmed but little of their
-brightness) were attentively upon her young companion.
-
-The younger lady was in the lovely bloom and [[spring]]-[[Time|time]] of womanhood;
-at that age, when, if ever angels be for God’s good purposes enthroned
-in mortal forms, they may be, without impiety, supposed to abide in
-such as hers.
-
-She was not past seventeen. Cast in so slight and exquisite a mould; so
-mild and gentle; so pure and beautiful; that earth seemed not her
-element, nor its rough creatures her fit companions. The very
-intelligence that shone in her deep blue eye, and was stamped upon her
-noble head, seemed scarcely of her age, or of the world; and yet the
-changing expression of sweetness and good [[Humour|humour]], the thousand lights
-that played about the face, and left no [[Shadow|shadow]] there; above all, the
-smile, the cheerful, happy smile, were made for [[Home]], and fireside
-peace and happiness.
-
-She was busily engaged in the little offices of the table. Chancing to
-raise her eyes as the elder lady was regarding her, she playfully put
-back her hair, which was simply braided on her forehead; and threw into
-her beaming look, such an expression of affection and artless
-loveliness, that blessed spirits might have smiled to look upon her.
-
-“And Brittles has been gone upwards of an hour, has he?” asked the old
-lady, after a pause.
-
-“An hour and twelve minutes, ma’am,” replied Mr. Giles, referring to a
-silver watch, which he drew forth by a black ribbon.
-
-“He is always slow,” remarked the old lady.
-
-“Brittles always was a slow boy, ma’am,” replied the attendant. And
-seeing, by the bye, that Brittles had been a slow boy for upwards of
-thirty years, there appeared no great probability of his ever being a
-fast one.
-
-“He gets worse instead of better, I think,” said the elder lady.
-
-“It is very inexcusable in him if he stops to play with any other
-boys,” said the young lady, smiling.
-
-Mr. Giles was apparently considering the propriety of indulging in a
-respectful smile himself, when a gig drove up to the [[Garden|garden]]-gate: out
-of which there jumped a fat gentleman, who ran straight up to the door:
-and who, getting quickly into the [[house]] by some mysterious process,
-burst into the room, and nearly overturned Mr. Giles and the
-breakfast-table together.
-
-“I never heard of such a thing!” exclaimed the fat gentleman. “My dear
-Mrs. Maylie—bless my [[Soul|soul]]—in the [[Silence|silence]] of the [[Night|night]], too—I _never_
-heard of such a thing!”
-
-With these expressions of condolence, the fat gentleman shook hands
-with both ladies, and drawing up a chair, inquired how they found
-themselves.
-
-“You ought to be dead; positively dead with the fright,” said the fat
-gentleman. “Why didn’t you send? Bless me, my man should have come in a
-minute; and so would I; and my assistant would have been delighted; or
-anybody, I’m sure, under such circumstances. Dear, dear! So unexpected!
-In the [[Silence|silence]] of the [[Night|night]], too!”
-
-The doctor seemed especially troubled by the fact of the robbery having
-been unexpected, and attempted in the [[Night|night]]-[[Time|time]]; as if it were the
-established custom of gentlemen in the housebreaking way to transact
-business at [[Noon|noon]], and to make an appointment, by post, a day or two
-previous.
-
-“And you, Miss [[Rose]],” said the doctor, turning to the young lady, “I—”
-
-“Oh! very much so, indeed,” said [[Rose]], interrupting him; “but there is
-a poor creature upstairs, whom aunt wishes you to see.”
-
-“Ah! to be sure,” replied the doctor, “so there is. That was your
-handiwork, Giles, I understand.”
-
-Mr. Giles, who had been feverishly putting the tea-cups to rights,
-blushed very red, and said that he had had that [[Honour|honour]].
-
-“[[Honour]], eh?” said the doctor; “[[Well|well]], I don’t know; perhaps it’s as
-honourable to hit a thief in a back kitchen, as to hit your man at
-twelve paces. Fancy that he fired in the air, and you’ve fought a duel,
-Giles.”
-
-Mr. Giles, who thought this light treatment of the matter an unjust
-attempt at diminishing his glory, answered respectfully, that it was
-not for the like of him to judge about that; but he rather thought it
-was no joke to the opposite party.
-
-“Gad, that’s true!” said the doctor. “Where is he? Show me the way.
-I’ll look in again, as I come down, Mrs. Maylie. That’s the little
-[[Window|window]] that he got in at, eh? [[Well]], I couldn’t have believed it!”
-
-Talking all the way, he followed Mr. Giles upstairs; and while he is
-going upstairs, the reader may be informed, that Mr. Losberne, a
-surgeon in the neighbourhood, known through a circuit of ten miles
-round as “the doctor,” had grown fat, more from good-[[Humour|humour]] than from
-good living: and was as kind and hearty, and withal as eccentric an old
-bachelor, as will be found in five times that space, by any explorer
-alive.
-
-The doctor was absent, much longer than either he or the ladies had
-anticipated. A large flat box was fetched out of the gig; and a bedroom
-bell was rung very often; and the servants ran up and down stairs
-perpetually; from which tokens it was justly concluded that something
-important was going on above. At length he returned; and in reply to an
-anxious inquiry after his patient; looked very mysterious, and closed
-the door, carefully.
-
-“This is a very extraordinary thing, Mrs. Maylie,” said the doctor,
-standing with his back to the door, as if to keep it shut.
-
-“He is not in danger, I [[Hope|hope]]?” said the old lady.
-
-“Why, that would _not_ be an extraordinary thing, under the
-circumstances,” replied the doctor; “though I don’t think he is. Have
-you seen the thief?”
-
-“No,” rejoined the old lady.
-
-“Nor heard anything about him?”
-
-“No.”
-
-“I beg your pardon, ma’am,” interposed Mr. Giles; “but I was going to
-tell you about him when Doctor Losberne came in.”
-
-The fact was, that Mr. Giles had not, at first, been able to bring his
-mind to the avowal, that he had only shot a boy. Such commendations had
-been bestowed upon his bravery, that he could not, for the life of him,
-help postponing the explanation for a few delicious minutes; during
-which he had flourished, in the very zenith of a brief reputation for
-undaunted [[Courage|courage]].
-
-“[[Rose]] wished to see the man,” said Mrs. Maylie, “but I wouldn’t hear of
-it.”
-
-“Humph!” rejoined the doctor. “There is nothing very alarming in his
-appearance. Have you any objection to see him in my presence?”
-
-“If it be necessary,” replied the old lady, “certainly not.”
-
-“Then I think it is necessary,” said the doctor; “at all events, I am
-quite sure that you would deeply regret not having done so, if you
-postponed it. He is perfectly quiet and comfortable now. Allow me—Miss
-[[Rose]], will you permit me? Not the slightest [[Fear|fear]], I pledge you my
-[[Honour|honour]]!”
-
-
-
-
-<span class="atom-split" data-atom="chapter_36" data-title="Oliver Twist — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
-
-
-CHAPTER XXXVI.
-IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT IMPORTANCE IN ITS
-PLACE, BUT IT SHOULD BE READ NOTWITHSTANDING, AS A SEQUEL TO THE LAST,
-AND A KEY TO ONE THAT WILL FOLLOW WHEN ITS [[Time|TIME]] ARRIVES
-
-
-“And so you are resolved to be my travelling companion this morning;
-eh?” said the doctor, as Harry Maylie joined him and [[Oliver]] at the
-breakfast-table. “Why, you are not in the same mind or intention two
-half-hours together!”
-
-“You will tell me a different tale one of these days,” said Harry,
-colouring without any perceptible reason.
-
-“I [[Hope|hope]] I may have good cause to do so,” replied Mr. Losberne; “though
-I confess I don’t think I shall. But yesterday morning you had made up
-your mind, in a great hurry, to stay here, and to accompany your
-mother, like a dutiful son, to the sea-side. Before [[Noon|noon]], you announce
-that you are going to do me the [[Honour|honour]] of accompanying me as far as I
-go, on your [[Road|road]] to [[London]]. And at [[Night|night]], you urge me, with great
-mystery, to start before the ladies are stirring; the consequence of
-which is, that young [[Oliver]] here is pinned down to his breakfast when
-he ought to be ranging the meadows after botanical phenomena of all
-kinds. Too bad, isn’t it, [[Oliver]]?”
-
-“I should have been very sorry not to have been at [[Home|home]] when you and
-Mr. Maylie went away, sir,” rejoined [[Oliver]].
-
-“That’s a fine fellow,” said the doctor; “you shall come and see me
-when you return. But, to speak seriously, Harry; has any communication
-from the great nobs produced this sudden anxiety on your part to be
-gone?”
-
-“The great nobs,” replied Harry, “under which designation, I presume,
-you include my most stately uncle, have not communicated with me at
-all, since I have been here; nor, at this [[Time|time]] of the year, is it
-likely that anything would occur to render necessary my immediate
-attendance among them.”
-
-“[[Well]],” said the doctor, “you are a queer fellow. But of course they
-will get you into parliament at the election before Christmas, and
-these sudden shiftings and changes are no bad preparation for political
-life. There’s something in that. Good training is always desirable,
-whether the race be for place, cup, or sweepstakes.”
-
-Harry Maylie looked as if he could have followed up this short dialogue
-by one or two remarks that would have staggered the doctor not a
-little; but he contented himself with saying, “We shall see,” and
-pursued the subject no farther. The post-chaise drove up to the door
-shortly afterwards; and Giles coming in for the luggage, the good
-doctor bustled out, to see it packed.
-
-“[[Oliver]],” said Harry Maylie, in a low voice, “let me speak a word with
-you.”
-
-[[Oliver]] walked into the [[Window|window]]-recess to which Mr. Maylie beckoned him;
-much surprised at the mixture of sadness and boisterous spirits, which
-his whole behaviour displayed.
-
-“You can write [[Well|well]] now?” said Harry, laying his hand upon his arm.
-
-“I [[Hope|hope]] so, sir,” replied [[Oliver]].
-
-“I shall not be at [[Home|home]] again, perhaps for some [[Time|time]]; I wish you would
-write to me—say once a fort-[[Night|night]]: every alternate Monday: to the
-General Post Office in [[London]]. Will you?”
-
-“Oh! certainly, sir; I shall be proud to do it,” exclaimed [[Oliver]],
-greatly delighted with the commission.
-
-“I should like to know how—how my mother and Miss Maylie are,” said the
-young man; “and you can fill up a sheet by telling me what walks you
-take, and what you talk about, and whether she—they, I mean—seem happy
-and quite [[Well|well]]. You understand me?”
-
-“Oh! quite, sir, quite,” replied [[Oliver]].
-
-“I would rather you did not mention it to them,” said Harry, hurrying
-over his words; “because it might make my mother anxious to write to me
-oftener, and it is a trouble and worry to her. Let it be a secret
-between you and me; and mind you tell me everything! I depend upon
-you.”
-
-[[Oliver]], quite elated and honoured by a sense of his importance,
-faithfully promised to be secret and explicit in his communications.
-Mr. Maylie took leave of him, with many assurances of his regard and
-protection.
-
-The doctor was in the chaise; Giles (who, it had been arranged, should
-be left behind) held the door open in his hand; and the women-servants
-were in the [[Garden|garden]], looking on. Harry cast one slight glance at the
-latticed [[Window|window]], and jumped into the carriage.
-
-“Drive on!” he cried, “hard, fast, full gallop! Nothing short of flying
-will keep pace with me, today.”
-
-“Halloa!” cried the doctor, letting down the front glass in a great
-hurry, and shouting to the postillion; “something very short of flying
-will keep pace with _me_. Do you hear?”
-
-Jingling and clattering, till distance rendered its noise inaudible,
-and its rapid progress only perceptible to the eye, the vehicle wound
-its way along the [[Road|road]], almost hidden in a cloud of [[Dust|dust]]: now wholly
-disappearing, and now becoming visible again, as intervening objects,
-or the intricacies of the way, permitted. It was not until even the
-dusty cloud was no longer to be seen, that the gazers dispersed.
-
-And there was one looker-on, who remained with eyes fixed upon the spot
-where the carriage had disappeared, long after it was many miles away;
-for, behind the white curtain which had shrouded her from view when
-Harry raised his eyes towards the [[Window|window]], sat [[Rose]] herself.
-
-“He seems in high spirits and happy,” she said, at length. “I feared
-for a [[Time|time]] he might be otherwise. I was mistaken. I am very, very
-glad.”
-
-[[Tears]] are signs of gladness as [[Well|well]] as grief; but those which coursed
-down [[Rose]]’s face, as she sat pensively at the [[Window|window]], still gazing in
-the same direction, seemed to tell more of sorrow than of joy.
-
-
-
-
-<span class="atom-split" data-atom="chapter_45" data-title="Oliver Twist — Chapter 45" data-chapter="Chapter 45" data-kind="chapter"></span>
-
-
-CHAPTER XLV.
-NOAH CLAYPOLE IS EMPLOYED BY [[Fagin|FAGIN]] ON A SECRET MISSION
-
-
-The old man was up, betimes, next morning, and waited impatiently for
-the appearance of his new associate, who after a delay that seemed
-interminable, at length presented himself, and commenced a voracious
-assault on the breakfast.
-
-“Bolter,” said [[Fagin]], drawing up a chair and seating himself opposite
-Morris Bolter.
-
-“[[Well]], here I am,” returned Noah. “What’s the matter? Don’t yer ask me
-to do anything till I have done eating. That’s a great fault in this
-place. Yer never get [[Time|time]] enough over yer meals.”
-
-“You can talk as you eat, can’t you?” said [[Fagin]], cursing his dear
-young friend’s greediness from the very [[Bottom|bottom]] of his heart.
-
-“Oh yes, I can talk. I get on better when I talk,” said Noah, cutting a
-monstrous slice of bread. “Where’s Charlotte?”
-
-“Out,” said [[Fagin]]. “I sent her out this morning with the other young
-woman, because I wanted us to be [[Alone|alone]].”
-
-“Oh!” said Noah. “I wish yer’d ordered her to make some buttered toast
-first. [[Well]]. Talk away. Yer won’t interrupt me.”
-
-There seemed, indeed, no great [[Fear|fear]] of anything interrupting him, as he
-had evidently sat down with a determination to do a great deal of
-business.
-
-“You did [[Well|well]] yesterday, my dear,” said [[Fagin]]. “Beautiful! Six
-shillings and ninepence halfpenny on the very first day! The kinchin
-lay will be a fortune to you.”
-
-“Don’t you forget to add three pint-pots and a milk-can,” said Mr.
-Bolter.
-
-“No, no, my dear. The pint-pots were great strokes of genius: but the
-milk-can was a perfect masterpiece.”
-
-“Pretty [[Well|well]], I think, for a beginner,” remarked Mr. Bolter
-complacently. “The pots I took off airy railings, and the milk-can was
-standing by itself outside a public-[[house]]. I thought it might get rusty
-with the rain, or catch cold, yer know. Eh? Ha! ha! ha!”
-
-[[Fagin]] affected to laugh very heartily; and Mr. Bolter having had his
-laugh out, took a series of large bites, which finished his first hunk
-of bread and butter, and assisted himself to a second.
-
-“I want you, Bolter,” said [[Fagin]], leaning over the table, “to do a
-piece of work for me, my dear, that needs great care and caution.”
-
-“I say,” rejoined Bolter, “don’t yer go shoving me into danger, or
-sending me any more o’ yer police-offices. That don’t suit me, that
-don’t; and so I tell yer.”
-
-“That’s not the smallest danger in it—not the very smallest,” said the
-Jew; “it’s only to dodge a woman.”
-
-“An old woman?” demanded Mr. Bolter.
-
-“A young one,” replied [[Fagin]].
-
-“I can do that pretty [[Well|well]], I know,” said Bolter. “I was a regular
-cunning sneak when I was at school. What am I to dodge her for? Not
-to—”
-
-“Not to do anything, but to tell me where she goes, who she sees, and,
-if possible, what she says; to remember the street, if it is a street,
-or the [[house]], if it is a [[house]]; and to bring me back all the
-information you can.”
-
-“What’ll yer give me?” asked Noah, setting down his cup, and looking
-his employer, eagerly, in the face.
-
-“If you do it [[Well|well]], a pound, my dear. One pound,” said [[Fagin]], wishing
-to interest him in the scent as much as possible. “And that’s what I
-never gave yet, for any job of work where there wasn’t valuable
-consideration to be gained.”
-
-“Who is she?” inquired Noah.
-
-“One of us.”
-
-“Oh Lor!” cried Noah, curling up his nose. “Yer doubtful of her, are
-yer?”
-
-“She has found out some new friends, my dear, and I must know who they
-are,” replied [[Fagin]].
-
-“I see,” said Noah. “Just to have the pleasure of knowing them, if
-they’re respectable people, eh? Ha! ha! ha! I’m your man.”
-
-“I knew you would be,” cried [[Fagin]], elated by the [[success]] of his
-proposal.
-
-“Of course, of course,” replied Noah. “Where is she? Where am I to wait
-for her? Where am I to go?”
-
-“All that, my dear, you shall hear from me. I’ll point her out at the
-proper [[Time|time]],” said [[Fagin]]. “You keep ready, and leave the rest to me.”
-
-That [[Night|night]], and the next, and the next again, the spy sat booted and
-equipped in his carter’s dress: ready to turn out at a word from [[Fagin]].
-Six nights passed—six long weary nights—and on each, [[Fagin]] came [[Home|home]]
-with a disappointed face, and briefly intimated that it was not yet
-[[Time|time]]. On the seventh, he returned earlier, and with an exultation he
-could not conceal. It was [[Sunday]].
-
-“She goes abroad tonight,” said [[Fagin]], “and on the right errand, I’m
-sure; for she has been [[Alone|alone]] all day, and the man she is afraid of will
-not be back much before daybreak. Come with me. Quick!”
-
-Noah started up without saying a word; for the Jew was in a state of
-such intense excitement that it infected him. They left the [[house]]
-stealthily, and hurrying through a labyrinth of streets, arrived at
-length before a public-[[house]], which Noah recognised as the same in
-which he had slept, on the [[Night|night]] of his arrival in [[London]].
-
-It was past eleven o’[[Clock|clock]], and the door was closed. It opened softly
-on its hinges as [[Fagin]] gave a low whistle. They entered, without noise;
-and the door was closed behind them.
-
-Scarcely venturing to whisper, but substituting dumb show for words,
-[[Fagin]], and the young Jew who had admitted them, pointed out the pane of
-glass to Noah, and signed to him to climb up and observe the person in
-the adjoining room.
-
-“Is that the woman?” he asked, scarcely above his breath.
-
-[[Fagin]] nodded yes.
-
-“I can’t see her face [[Well|well]],” whispered Noah. “She is looking down, and
-the candle is behind her.”
-
-“Stay there,” whispered [[Fagin]]. He signed to Barney, who withdrew. In an
-instant, the lad entered the room adjoining, and, under pretence of
-snuffing the candle, moved it in the required position, and, speaking
-to the girl, caused her to raise her face.
-
-“I see her now,” cried the spy.
-
-“Plainly?”
-
-“I should know her among a thousand.”
-
-He hastily descended, as the room-door opened, and the girl came out.
-[[Fagin]] drew him behind a small partition which was curtained off, and
-they held their breaths as she passed within a few feet of their place
-of concealment, and emerged by the door at which they had entered.
-
-“Hist!” cried the lad who held the door. “Dow.”
-
-Noah exchanged a look with [[Fagin]], and darted out.
-
-“To the left,” whispered the lad; “take the left had, and keep od the
-other side.”
-
-He did so; and, by the light of the lamps, saw the girl’s retreating
-figure, already at some distance before him. He advanced as near as he
-considered prudent, and kept on the opposite side of the street, the
-better to observe her motions. She looked nervously round, twice or
-thrice, and once stopped to let two men who were following close behind
-her, pass on. She seemed to gather [[Courage|courage]] as she advanced, and to walk
-with a steadier and firmer step. The spy preserved the same relative
-distance between them, and followed: with his eye upon her.
-
-
-
-
-<span class="atom-split" data-atom="chapter_53" data-title="Oliver Twist — Chapter 53" data-chapter="Chapter 53" data-kind="chapter"></span>
-
-
-CHAPTER LIII.
-AND LAST
-
-
-The fortunes of those who have figured in this tale are nearly closed.
-The little that remains to their historian to relate, is told in few
-and simple words.
-
-Before three months had passed, [[Rose]] Fleming and Harry Maylie were
-married in the village church which was henceforth to be the scene of
-the young clergyman’s labours; on the same day they entered into
-possession of their new and happy [[Home|home]].
-
-Mrs. Maylie took up her abode with her son and daughter-in-law, to
-enjoy, during the tranquil remainder of her days, the greatest felicity
-that age and worth can know—the contemplation of the happiness of those
-on whom the warmest affections and tenderest cares of a [[Well|well]]-spent
-life, have been unceasingly bestowed.
-
-It appeared, on full and careful investigation, that if the wreck of
-property remaining in the custody of [[Monks]] (which had never prospered
-either in his hands or in those of his mother) were equally divided
-between himself and [[Oliver]], it would yield, to each, little more than
-three thousand pounds. By the provisions of his father’s will, [[Oliver]]
-would have been entitled to the whole; but Mr. Brownlow, unwilling to
-deprive the elder son of the opportunity of retrieving his former vices
-and pursuing an honest career, proposed this mode of distribution, to
-which his young charge joyfully acceded.
-
-[[Monks]], still bearing that assumed name, retired with his portion to a
-distant part of the New World; where, having quickly squandered it, he
-once more fell into his old courses, and, after undergoing a long
-confinement for some fresh act of fraud and knavery, at length sunk
-under an attack of his old disorder, and died in [[Prison|prison]]. As far from
-[[Home|home]], died the chief remaining members of his friend [[Fagin]]’s gang.
-
-Mr. Brownlow adopted [[Oliver]] as his son. Removing with him and the old
-housekeeper to within a mile of the parsonage-[[house]], where his dear
-friends resided, he gratified the only remaining wish of [[Oliver]]’s warm
-and earnest heart, and thus linked together a little society, whose
-condition approached as nearly to one of perfect happiness as can ever
-be known in this changing world.
-
-Soon after the [[Marriage|marriage]] of the young people, the worthy doctor returned
-to Chertsey, where, bereft of the presence of his old friends, he would
-have been discontented if his temperament had admitted of such a
-feeling; and would have turned quite peevish if he had known how. For
-two or three months, he contented himself with hinting that he feared
-the air began to disagree with him; then, finding that the place really
-no longer was, to him, what it had been, he settled his business on his
-assistant, took a bachelor’s cottage outside the village of which his
-young friend was pastor, and instantaneously recovered. Here he took to
-gardening, planting, fishing, carpentering, and various other pursuits
-of a similar kind: all undertaken with his characteristic impetuosity.
-In each and all he has since become famous throughout the neighborhood,
-as a most profound authority.
-
-Before his removal, he had managed to contract a strong [[Friendship|friendship]] for
-Mr. Grimwig, which that eccentric gentleman cordially reciprocated. He
-is accordingly visited by Mr. Grimwig a great many times in the course
-of the year. On all such occasions, Mr. Grimwig plants, fishes, and
-carpenters, with great ardour; doing everything in a very singular and
-unprecedented manner, but always maintaining with his favourite
-asseveration, that his mode is the right one. On Sundays, he never
-fails to criticise the sermon to the young clergyman’s face: always
-informing Mr. Losberne, in strict confidence afterwards, that he
-considers it an excellent performance, but deems it as [[Well|well]] not to say
-so. It is a standing and very favourite joke, for Mr. Brownlow to rally
-him on his old prophecy concerning [[Oliver]], and to remind him of the
-[[Night|night]] on which they sat with the watch between them, waiting his
-return; but Mr. Grimwig contends that he was right in the main, and, in
-proof thereof, remarks that [[Oliver]] did not come back after all; which
-always calls forth a laugh on his side, and increases his good [[Humour|humour]].
-
-Mr. Noah Claypole: receiving a free pardon from the [[Crown]] in
-consequence of being admitted approver against [[Fagin]]: and considering
-his profession not altogether as safe a one as he could wish: was, for
-some little [[Time|time]], at a loss for the means of a livelihood, not burdened
-with too much work. After some consideration, he went into business as
-an informer, in which calling he realises a genteel subsistence. His
-plan is, to walk out once a week during church [[Time|time]] attended by
-Charlotte in respectable attire. The lady faints away at the doors of
-charitable publicans, and the gentleman being accommodated with
-three-penny worth of brandy to restore her, lays an information next
-day, and pockets half the penalty. Sometimes Mr. Claypole faints
-himself, but the result is the same.
-
-Mr. and Mrs. Bumble, deprived of their situations, were gradually
-reduced to great indigence and misery, and finally became paupers in
-that very same workhouse in which they had once lorded it over others.
-Mr. Bumble has been heard to say, that in this reverse and degradation,
-he has not even spirits to be thankful for being separated from his
-wife.
-
-As to Mr. Giles and Brittles, they still remain in their old posts,
-although the former is bald, and the last-named boy quite grey. They
-[[Sleep|sleep]] at the parsonage, but divide their attentions so equally among
-its inmates, and [[Oliver]] and Mr. Brownlow, and Mr. Losberne, that to
-this day the villagers have never been able to discover to which
-establishment they properly belong.
-
-Master Charles Bates, appalled by Sikes’s crime, fell into a train of
-reflection whether an honest life was not, after all, the best.
-Arriving at the conclusion that it certainly was, he turned his back
-upon the scenes of the past, resolved to amend it in some new sphere of
-action. He struggled hard, and suffered much, for some [[Time|time]]; but,
-having a contented disposition, and a good purpose, succeeded in the
-end; and, from being a farmer’s drudge, and a carrier’s lad, he is now
-the merriest young grazier in all Northamptonshire.
-
-And now, the hand that traces these words, falters, as it approaches
-the conclusion of its task; and would weave, for a little longer space,
-the thread of these adventures.
-
-I would fain linger yet with a few of those among whom I have so long
-moved, and share their happiness by endeavouring to depict it. I would
-show [[Rose Maylie]] in all the bloom and grace of early womanhood,
-shedding on her secluded path in life soft and gentle light, that fell
-on all who trod it with her, and shone into their hearts. I would paint
-her the life and joy of the [[Fire|fire]]-side circle and the lively [[Summer|summer]]
-group; I would follow her through the sultry fields at [[Noon|noon]], and hear
-the low tones of her sweet voice in the moonlit evening walk; I would
-watch her in all her goodness and [[Charity|charity]] abroad, and the smiling
-untiring discharge of domestic duties at [[Home|home]]; I would paint her and
-her dead sister’s [[Child|child]] happy in their [[Love|love]] for one another, and
-passing whole hours together in picturing the friends whom they had so
-sadly lost; I would summon before me, once again, those joyous little
-faces that clustered round her knee, and listen to their merry prattle;
-I would recall the tones of that clear laugh, and conjure up the
-sympathising tear that glistened in the soft blue eye. These, and a
-thousand looks and smiles, and turns of thought and speech—I would fain
-recall them every one.
-
-How Mr. Brownlow went on, from day to day, filling the mind of his
-adopted [[Child|child]] with stores of knowledge, and becoming attached to him,
-more and more, as his [[Nature|nature]] developed itself, and showed the thriving
-seeds of all he wished him to become—how he traced in him new traits of
-his early friend, that awakened in his own bosom old remembrances,
-[[Melancholy|melancholy]] and yet sweet and soothing—how the two orphans, tried by
-adversity, remembered its lessons in [[Mercy|mercy]] to others, and mutual [[Love|love]],
-and fervent thanks to Him who had protected and preserved them—these
-are all matters which need not to be told. I have said that they were
-truly happy; and without strong affection and humanity of heart, and
-gratitude to that Being whose code is [[Mercy]], and whose great attribute
-is Benevolence to all things that breathe, happiness can never be
-attained.
-
-Within the altar of the old village church there stands a white marble
-tablet, which bears as yet but one word: “AGNES.” There is no coffin in
-that tomb; and may it be many, many years, before another name is
-placed above it! But, if the [[Spirits of the Dead|spirits of the Dead]] ever come back to
-earth, to visit spots hallowed by the [[Love|love]]—the [[Love|love]] beyond the [[Grave|grave]]—of
-those whom they knew in life, I believe that the shade of Agnes
-sometimes hovers round that solemn nook. I believe it none the less
-because that nook is in a Church, and she was weak and erring.
-
-
-
-
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="Oliver Twist — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
 
 
@@ -21901,6 +20604,210 @@ seen and heard.
 
 
 
+<span class="atom-split" data-atom="chapter_06" data-title="Oliver Twist — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+
+
+CHAPTER VI.
+[[Oliver|OLIVER]], BEING GOADED BY THE TAUNTS OF NOAH, ROUSES INTO ACTION, AND
+RATHER ASTONISHES HIM
+
+
+The month’s trial over, [[Oliver]] was formally apprenticed. It was a nice
+sickly season just at this [[Time|time]]. In commercial phrase, coffins were
+looking up; and, in the course of a few weeks, [[Oliver]] acquired a great
+deal of experience. The [[success]] of Mr. Sowerberry’s ingenious
+speculation, exceeded even his most sanguine hopes. The oldest
+inhabitants recollected no period at which measles had been so
+prevalent, or so fatal to infant existence; and many were the mournful
+processions which little [[Oliver]] headed, in a hat-band reaching down to
+his knees, to the indescribable admiration and emotion of all the
+mothers in the town. As [[Oliver]] accompanied his master in most of his
+adult expeditions too, in order that he might acquire that equanimity
+of demeanour and full command of nerve which was essential to a
+finished undertaker, he had many opportunities of observing the
+beautiful [[Resignation|resignation]] and fortitude with which some strong-minded
+people bear their trials and losses.
+
+For instance; when Sowerberry had an order for the burial of some rich
+old lady or gentleman, who was surrounded by a great number of nephews
+and nieces, who had been perfectly inconsolable during the previous
+illness, and whose grief had been wholly irrepressible even on the most
+public occasions, they would be as happy among themselves as need
+be—quite cheerful and contented—conversing together with as much
+[[Freedom|freedom]] and gaiety, as if nothing whatever had happened to disturb
+them. Husbands, too, bore the loss of their wives with the most heroic
+calmness. Wives, again, put on weeds for their husbands, as if, so far
+from grieving in the garb of sorrow, they had made up their minds to
+render it as becoming and attractive as possible. It was observable,
+too, that ladies and gentlemen who were in passions of anguish during
+the ceremony of interment, recovered almost as soon as they reached
+[[Home|home]], and became quite composed before the tea-drinking was over. All
+this was very pleasant and improving to see; and [[Oliver]] beheld it with
+great admiration.
+
+That [[Oliver Twist]] was moved to [[Resignation|resignation]] by the example of these good
+people, I cannot, although I am his biographer, undertake to affirm
+with any degree of confidence; but I can most distinctly say, that for
+many months he continued meekly to submit to the domination and
+ill-treatment of Noah Claypole: who used him far worse than before, now
+that his [[Jealousy|jealousy]] was roused by seeing the new boy promoted to the
+black stick and hat-band, while he, the old one, remained stationary in
+the muffin-cap and leathers. Charlotte treated him ill, because Noah
+did; and Mrs. Sowerberry was his decided enemy, because Mr. Sowerberry
+was disposed to be his friend; so, between these three on one side, and
+a glut of funerals on the other, [[Oliver]] was not altogether as
+comfortable as the hungry pig was, when he was shut up, by mistake, in
+the grain department of a brewery.
+
+And now, I come to a very important passage in [[Oliver]]’s [[history]]; for I
+have to record an act, slight and unimportant perhaps in appearance,
+but which indirectly produced a material change in all his future
+prospects and proceedings.
+
+One day, [[Oliver]] and Noah had descended into the kitchen at the usual
+dinner-hour, to banquet upon a small joint of mutton—a pound and a half
+of the worst end of the neck; when Charlotte being called out of the
+way, there ensued a brief interval of [[Time|time]], which Noah Claypole, being
+hungry and vicious, considered he could not possibly devote to a
+worthier purpose than aggravating and tantalising young [[Oliver Twist]].
+
+Intent upon this [[Innocent|innocent]] amusement, Noah put his feet on the
+table-cloth; and pulled [[Oliver]]’s hair; and twitched his ears; and
+expressed his opinion that he was a “sneak”; and furthermore announced
+his intention of coming to see him hanged, whenever that desirable
+event should take place; and entered upon various topics of petty
+annoyance, like a malicious and ill-conditioned [[Charity|charity]]-boy as he was.
+But, making [[Oliver]] cry, Noah attempted to be more facetious still; and
+in his attempt, did what many sometimes do to this day, when they want
+to be funny. He got rather personal.
+
+“Work’us,” said Noah, “how’s your mother?”
+
+“She’s dead,” replied [[Oliver]]; “don’t you say anything about her to me!”
+
+[[Oliver]]’s colour [[Rose|rose]] as he said this; he breathed quickly; and there
+was a curious working of the mouth and nostrils, which Mr. Claypole
+thought must be the immediate precursor of a violent fit of crying.
+Under this impression he returned to the charge.
+
+“What did she die of, Work’us?” said Noah.
+
+“Of a broken heart, some of our old nurses told me,” replied [[Oliver]]:
+more as if he were talking to himself, than answering Noah. “I think I
+know what it must be to die of that!”
+
+“Tol de rol lol lol, right fol lairy, Work’us,” said Noah, as a tear
+rolled down [[Oliver]]’s cheek. “What’s set you a snivelling now?”
+
+“Not _you_,” replied [[Oliver]], sharply. “There; that’s enough. Don’t say
+anything more to me about her; you’d better not!”
+
+“Better not!” exclaimed Noah. “[[Well]]! Better not! Work’us, don’t be
+impudent. _Your_ mother, too! She was a nice ’un, she was. Oh, Lor!”
+And here, Noah nodded his head expressively; and curled up as much of
+his small red nose as muscular action could collect together, for the
+occasion.
+
+“Yer know, Work’us,” continued Noah, emboldened by [[Oliver]]’s [[Silence|silence]],
+and speaking in a jeering tone of affected pity: of all tones the most
+annoying: “Yer know, Work’us, it can’t be helped now; and of course yer
+couldn’t help it then; and I am very sorry for it; and I’m sure we all
+are, and pity yer very much. But yer must know, Work’us, yer mother was
+a regular right-down bad ’un.”
+
+“What did you say?” inquired [[Oliver]], looking up very quickly.
+
+“A regular right-down bad ’un, Work’us,” replied Noah, coolly. “And
+it’s a great deal better, Work’us, that she died when she did, or else
+she’d have been hard labouring in Bridewell, or transported, or hung;
+which is more likely than either, isn’t it?”
+
+Crimson with fury, [[Oliver]] started up; overthrew the chair and table;
+seized Noah by the throat; shook him, in the violence of his rage, till
+his teeth chattered in his head; and collecting his whole force into
+one heavy blow, felled him to the ground.
+
+A minute ago, the boy had looked the quiet [[Child|child]], mild, dejected
+creature that harsh treatment had made him. But his spirit was roused
+at last; the cruel insult to his dead mother had set his [[Blood|blood]] on [[Fire|fire]].
+His breast heaved; his attitude was erect; his eye bright and vivid;
+his whole person changed, as he stood glaring over the cowardly
+tormentor who now lay crouching at his feet; and defied him with an
+energy he had never known before.
+
+“He’ll murder me!” blubbered Noah. “Charlotte! missis! Here’s the new
+boy a murdering of me! Help! help! [[Oliver]]’s gone mad! Char—lotte!”
+
+Noah’s shouts were responded to, by a loud scream from Charlotte, and a
+louder from Mrs. Sowerberry; the former of whom rushed into the kitchen
+by a side-door, while the latter paused on the staircase till she was
+quite certain that it was consistent with the preservation of human
+life, to come further down.
+
+“Oh, you little wretch!” screamed Charlotte: seizing [[Oliver]] with her
+utmost force, which was about equal to that of a moderately strong man
+in particularly good training. “Oh, you little un-grate-ful,
+mur-de-rous, hor-rid [[Villain|villain]]!” And between every syllable, Charlotte
+gave [[Oliver]] a blow with all her might: accompanying it with a scream,
+for the benefit of society.
+
+Charlotte’s fist was by no means a light one; but, lest it should not
+be effectual in calming [[Oliver]]’s wrath, Mrs. Sowerberry plunged into
+the kitchen, and assisted to hold him with one hand, while she
+scratched his face with the other. In this favourable position of
+affairs, Noah [[Rose|rose]] from the ground, and pommelled him behind.
+
+This was rather too violent exercise to last long. When they were all
+wearied out, and could tear and beat no longer, they dragged [[Oliver]],
+struggling and shouting, but nothing daunted, into the [[Dust|dust]]-cellar, and
+there locked him up. This being done, Mrs. Sowerberry sunk into a
+chair, and burst into [[Tears|tears]].
+
+“Bless her, she’s going off!” said Charlotte. “A glass of [[Water|water]], Noah,
+dear. Make haste!”
+
+“Oh! Charlotte,” said Mrs. Sowerberry: speaking as [[Well|well]] as she could,
+through a deficiency of breath, and a sufficiency of cold [[Water|water]], which
+Noah had poured over her head and shoulders. “Oh! Charlotte, what a
+[[Mercy|mercy]] we have not all been murdered in our beds!”
+
+“Ah! [[Mercy|mercy]] indeed, ma’am,” was the reply. “I only [[Hope|hope]] this’ll teach
+master not to have any more of these dreadful creatures, that are born
+to be murderers and robbers from their very cradle. Poor Noah! He was
+all but killed, ma’am, when I came in.”
+
+“Poor fellow!” said Mrs. Sowerberry, looking piteously on the
+[[Charity|charity]]-boy.
+
+Noah, whose top waistcoat-button might have been somewhere on a level
+with the [[Crown|crown]] of [[Oliver]]’s head, rubbed his eyes with the inside of his
+wrists while this commiseration was bestowed upon him, and performed
+some affecting [[Tears|tears]] and sniffs.
+
+“What’s to be done!” exclaimed Mrs. Sowerberry. “Your master’s not at
+[[Home|home]]; there’s not a man in the [[house]], and he’ll kick that door down in
+ten minutes.” [[Oliver]]’s vigorous plunges against the bit of timber in
+question, rendered this occurance highly probable.
+
+“Dear, dear! I don’t know, ma’am,” said Charlotte, “unless we send for
+the police-officers.”
+
+“Or the millingtary,” suggested Mr. Claypole.
+
+“No, no,” said Mrs. Sowerberry: bethinking herself of [[Oliver]]’s old
+friend. “Run to Mr. Bumble, Noah, and tell him to come here directly,
+and not to lose a minute; never mind your cap! Make haste! You can hold
+a knife to that black eye, as you run along. It’ll keep the swelling
+down.”
+
+Noah stopped to make no reply, but started off at his fullest [[Speed|speed]];
+and very much it astonished the people who were out walking, to see a
+[[Charity|charity]]-boy tearing through the streets pell-mell, with no cap on his
+head, and a clasp-knife at his eye.
+
+
+
+
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="Oliver Twist — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
 
@@ -22834,6 +21741,215 @@ out of the handkerchiefs.”
 do with his chances of being a great man. But, thinking that the Jew,
 being so much his senior, must know best, he followed him quietly to
 the table, and was soon deeply involved in his new study.
+
+
+
+
+<span class="atom-split" data-atom="chapter_10" data-title="Oliver Twist — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+
+
+CHAPTER X.
+[[Oliver|OLIVER]] BECOMES BETTER ACQUAINTED WITH THE CHARACTERS OF HIS NEW
+ASSOCIATES; AND PURCHASES EXPERIENCE AT A HIGH PRICE. BEING A SHORT,
+BUT VERY IMPORTANT CHAPTER, IN THIS [[history|HISTORY]]
+
+
+For many days, [[Oliver]] remained in the Jew’s room, picking the marks out
+of the pocket-handkerchief, (of which a great number were brought
+[[Home|home]],) and sometimes taking part in the game already described: which
+the two boys and the Jew played, regularly, every morning. At length,
+he began to languish for fresh air, and took many occasions of
+earnestly entreating the old gentleman to allow him to go out to work
+with his two companions.
+
+[[Oliver]] was rendered the more anxious to be actively employed, by what
+he had seen of the stern [[morality]] of the old gentleman’s character.
+Whenever the Dodger or Charley Bates came [[Home|home]] at [[Night|night]], empty-handed,
+he would expatiate with great vehemence on the misery of idle and lazy
+habits; and would enforce upon them the necessity of an active life, by
+sending them supperless to bed. On one occasion, indeed, he even went
+so far as to knock them both down a flight of stairs; but this was
+carrying out his virtuous precepts to an unusual extent.
+
+At length, one morning, [[Oliver]] obtained the permission he had so
+eagerly sought. There had been no handkerchiefs to work upon, for two
+or three days, and the dinners had been rather meagre. Perhaps these
+were reasons for the old gentleman’s giving his assent; but, whether
+they were or no, he told [[Oliver]] he might go, and placed him under the
+joint guardianship of Charley Bates, and his friend the Dodger.
+
+The three boys sallied out; the Dodger with his coat-sleeves tucked up,
+and his hat cocked, as usual; Master Bates sauntering along with his
+hands in his pockets; and [[Oliver]] between them, wondering where they
+were going, and what branch of manufacture he would be instructed in
+first.
+
+The pace at which they went, was such a very lazy, ill-looking saunter,
+that [[Oliver]] soon began to think his companions were going to deceive
+the old gentleman, by not going to work at all. The Dodger had a
+vicious propensity, too, of pulling the caps from the heads of small
+boys and tossing them down areas; while Charley Bates exhibited some
+very loose notions concerning the rights of property, by pilfering
+divers apples and onions from the stalls at the kennel sides, and
+thrusting them into pockets which were so surprisingly capacious, that
+they seemed to undermine his whole suit of clothes in every direction.
+These things looked so bad, that [[Oliver]] was on the point of declaring
+his intention of seeking his way back, in the best way he could; when
+his thoughts were suddenly directed into another channel, by a very
+mysterious change of behaviour on the part of the Dodger.
+
+They were just emerging from a narrow [[Court|court]] not far from the open
+square in Clerkenwell, which is yet called, by some strange perversion
+of terms, “The Green”: when the Dodger made a sudden stop; and, laying
+his finger on his lip, drew his companions back again, with the
+greatest caution and circumspection.
+
+“What’s the matter?” demanded [[Oliver]].
+
+“Hush!” replied the Dodger. “Do you see that old cove at the
+book-stall?”
+
+“The old gentleman over the way?” said [[Oliver]]. “Yes, I see him.”
+
+“He’ll do,” said the Dodger.
+
+“A prime plant,” observed Master Charley Bates.
+
+[[Oliver]] looked from one to the other, with the greatest surprise; but he
+was not permitted to make any inquiries; for the two boys walked
+stealthily across the [[Road|road]], and slunk close behind the old gentleman
+towards whom his attention had been directed. [[Oliver]] walked a few paces
+after them; and, not knowing whether to advance or retire, stood
+looking on in silent amazement.
+
+The old gentleman was a very respectable-looking personage, with a
+powdered head and gold spectacles. He was dressed in a bottle-green
+coat with a black velvet collar; wore white trousers; and carried a
+smart bamboo cane under his arm. He had taken up a book from the stall,
+and there he stood, reading away, as hard as if he were in his
+elbow-chair, in his own study. It is very possible that he fancied
+himself there, indeed; for it was plain, from his abstraction, that he
+saw not the book-stall, nor the street, nor the boys, nor, in short,
+anything but the book itself: which he was reading straight through:
+turning over the leaf when he got to the [[Bottom|bottom]] of a page, beginning at
+the top line of the next one, and going regularly on, with the greatest
+interest and eagerness.
+
+What was [[Oliver]]’s horror and alarm as he stood a few paces off, looking
+on with his eyelids as wide open as they would possibly go, to see the
+Dodger plunge his hand into the old gentleman’s pocket, and draw from
+thence a handkerchief! To see him hand the same to Charley Bates; and
+finally to behold them, both running away round the corner at full
+[[Speed|speed]]!
+
+In an instant the whole mystery of the hankerchiefs, and the watches,
+and the jewels, and the Jew, rushed upon the boy’s mind.
+
+He stood, for a moment, with the [[Blood|blood]] so tingling through all his
+veins from terror, that he felt as if he were in a burning [[Fire|fire]]; then,
+confused and frightened, he took to his heels; and, not knowing what he
+did, made off as fast as he could lay his feet to the ground.
+
+This was all done in a minute’s space. In the very instant when [[Oliver]]
+began to run, the old gentleman, putting his hand to his pocket, and
+missing his handkerchief, turned sharp round. Seeing the boy scudding
+away at such a rapid pace, he very naturally concluded him to be the
+depredator; and shouting “Stop thief!” with all his might, made off
+after him, book in hand.
+
+But the old gentleman was not the only person who raised the
+hue-and-cry. The Dodger and Master Bates, unwilling to attract public
+attention by running down the open street, had merely retired into the
+very first doorway round the corner. They no sooner heard the cry, and
+saw [[Oliver]] running, than, guessing exactly how the matter stood, they
+issued forth with great promptitude; and, shouting “Stop thief!” too,
+joined in the pursuit like good citizens.
+
+Although [[Oliver]] had been brought up by philosophers, he was not
+theoretically acquainted with the beautiful axiom that
+[[Self|self]]-preservation is the first law of [[Nature|nature]]. If he had been, perhaps
+he would have been prepared for this. Not being prepared, however, it
+alarmed him the more; so away he went like the [[Wind|wind]], with the old
+gentleman and the two boys roaring and shouting behind him.
+
+“Stop thief! Stop thief!” There is a [[Magic|magic]] in the sound. The tradesman
+[[Leaves|leaves]] his counter, and the car-man his waggon; the butcher throws down
+his tray; the baker his basket; the milkman his pail; the errand-boy
+his parcels; the school-boy his marbles; the paviour his pickaxe; the
+[[Child|child]] his battledore. Away they run, pell-mell, helter-skelter,
+slap-dash: tearing, yelling, screaming, knocking down the passengers as
+they turn the corners, rousing up the [[dogs]], and astonishing the fowls:
+and streets, squares, and courts, re-echo with the sound.
+
+“Stop thief! Stop thief!” The cry is taken up by a hundred voices, and
+the crowd accumulate at every turning. Away they fly, splashing through
+the mud, and rattling along the pavements: up go the windows, out run
+the people, onward bear the mob, a whole audience [[Desert|desert]] Punch in the
+very thickest of the plot, and, joining the rushing throng, swell the
+shout, and lend fresh vigour to the cry, “Stop thief! Stop thief!”
+
+“Stop thief! Stop thief!” There is a passion _for hunting something_
+deeply implanted in the human breast. One wretched breathless [[Child|child]],
+panting with exhaustion; terror in his looks; agony in his eyes; large
+drops of perspiration streaming down his face; strains every nerve to
+make head upon his pursuers; and as they follow on his track, and gain
+upon him every instant, they hail his decreasing strength with joy.
+“Stop thief!” Ay, stop him for God’s sake, were it only in [[Mercy|mercy]]!
+
+Stopped at last! A clever blow. He is down upon the pavement; and the
+crowd eagerly gather round him: each new comer, jostling and struggling
+with the others to catch a glimpse. “Stand aside!” “Give him a little
+air!” “Nonsense! he don’t deserve it.” “Where’s the gentleman?” “Here
+he is, coming down the street.” “Make room there for the gentleman!”
+“Is this the boy, sir!” “Yes.”
+
+[[Oliver]] lay, covered with mud and [[Dust|dust]], and bleeding from the mouth,
+looking wildly round upon the heap of faces that surrounded him, when
+the old gentleman was officiously dragged and pushed into the circle by
+the foremost of the pursuers.
+
+“Yes,” said the gentleman, “I am afraid it is the boy.”
+
+“Afraid!” murmured the crowd. “That’s a good ’un!”
+
+“Poor fellow!” said the gentleman, “he has hurt himself.”
+
+“_I_ did that, sir,” said a great lubberly fellow, stepping forward;
+“and preciously I cut my knuckle agin’ his mouth. _I_ stopped him,
+sir.”
+
+The fellow touched his hat with a grin, expecting something for his
+pains; but, the old gentleman, eyeing him with an expression of
+dislike, look anxiously round, as if he contemplated running away
+himself: which it is very possible he might have attempted to do, and
+thus have afforded another chase, had not a police officer (who is
+generally the last person to arrive in such cases) at that moment made
+his way through the crowd, and seized [[Oliver]] by the collar.
+
+“Come, get up,” said the man, roughly.
+
+“It wasn’t me indeed, sir. Indeed, indeed, it was two other boys,” said
+[[Oliver]], clasping his hands passionately, and looking round. “They are
+here somewhere.”
+
+“Oh no, they ain’t,” said the officer. He meant this to be ironical,
+but it was true besides; for the Dodger and Charley Bates had filed off
+down the first convenient [[Court|court]] they came to.
+
+“Come, get up!”
+
+“Don’t hurt him,” said the old gentleman, compassionately.
+
+“Oh no, I won’t hurt him,” replied the officer, tearing his jacket half
+off his back, in proof thereof. “Come, I know you; it won’t do. Will
+you stand upon your legs, you young devil?”
+
+[[Oliver]], who could hardly stand, made a shift to raise himself on his
+feet, and was at once lugged along the streets by the jacket-collar, at
+a rapid pace. The gentleman walked on with them by the officer’s side;
+and as many of the crowd as could achieve the feat, got a little ahead,
+and stared back at [[Oliver]] from [[Time|time]] to [[Time|time]]. The boys shouted in
+triumph; and on they went.
 
 
 
@@ -27735,6 +26851,250 @@ inventory of the furniture.
 
 
 
+<span class="atom-split" data-atom="chapter_24" data-title="Oliver Twist — Chapter 24" data-chapter="Chapter 24" data-kind="chapter"></span>
+
+
+CHAPTER XXIV.
+TREATS ON A VERY POOR SUBJECT, BUT IS A SHORT ONE, AND MAY BE FOUND OF
+IMPORTANCE IN THIS [[history|HISTORY]]
+
+
+It was no unfit messenger of [[Death|death]], who had disturbed the quiet of the
+matron’s room. Her [[Body|body]] was bent by age; her limbs trembled with palsy;
+her face, distorted into a mumbling leer, resembled more the [[Grotesque|grotesque]]
+shaping of some wild pencil, than the work of [[Nature]]’s hand.
+
+Alas! How few of [[Nature]]’s faces are left [[Alone|alone]] to gladden us with their
+[[Beauty|beauty]]! The cares, and sorrows, and hungerings, of the world, change
+them as they change hearts; and it is only when those passions [[Sleep|sleep]],
+and have lost their hold for ever, that the troubled clouds pass off,
+and leave Heaven’s surface clear. It is a common thing for the
+countenances of the dead, even in that fixed and rigid state, to
+subside into the long-forgotten expression of sleeping infancy, and
+settle into the very look of early life; so calm, so peaceful, do they
+grow again, that those who knew them in their happy [[Childhood|childhood]], kneel by
+the coffin’s side in awe, and see the Angel even upon earth.
+
+The old [[Crone|crone]] tottered along the passages, and up the stairs, muttering
+some indistinct answers to the chidings of her companion; being at
+length compelled to pause for breath, she gave the light into her hand,
+and remained behind to follow as she might: while the more nimble
+superior made her way to the room where the sick woman lay.
+
+It was a bare garret-room, with a dim light burning at the farther end.
+There was another old woman watching by the bed; the parish
+apothecary’s apprentice was standing by the [[Fire|fire]], making a toothpick
+out of a quill.
+
+“Cold [[Night|night]], Mrs. Corney,” said this young gentleman, as the matron
+entered.
+
+“Very cold, indeed, sir,” replied the mistress, in her most civil
+tones, and dropping a curtsey as she spoke.
+
+“You should get better coals out of your contractors,” said the
+apothecary’s deputy, breaking a lump on the top of the [[Fire|fire]] with the
+rusty poker; “these are not at all the sort of thing for a cold [[Night|night]].”
+
+“They’re the board’s choosing, sir,” returned the matron. “The least
+they could do, would be to keep us pretty warm: for our places are hard
+enough.”
+
+The conversation was here interrupted by a moan from the sick woman.
+
+“Oh!” said the young man, turning his face towards the bed, as if he
+had previously quite forgotten the patient, “it’s all U.P. there, Mrs.
+Corney.”
+
+“It is, is it, sir?” asked the matron.
+
+“If she lasts a couple of hours, I shall be surprised,” said the
+apothecary’s apprentice, intent upon the toothpick’s point. “It’s a
+break-up of the system altogether. Is she dozing, old lady?”
+
+The attendant stooped over the bed, to ascertain; and nodded in the
+affirmative.
+
+“Then perhaps she’ll go off in that way, if you don’t make a row,” said
+the young man. “Put the light on the floor. She won’t see it there.”
+
+The attendant did as she was told: shaking her head meanwhile, to
+intimate that the woman would not die so easily; having done so, she
+resumed her seat by the side of the other [[Nurse|nurse]], who had by this [[Time|time]]
+returned. The mistress, with an expression of impatience, wrapped
+herself in her shawl, and sat at the foot of the bed.
+
+The apothecary’s apprentice, having completed the manufacture of the
+toothpick, planted himself in front of the [[Fire|fire]] and made good use of it
+for ten minutes or so: when apparently growing rather dull, he wished
+Mrs. Corney joy of her job, and took himself off on tiptoe.
+
+When they had sat in [[Silence|silence]] for some [[Time|time]], the two old women [[Rose|rose]] from
+the bed, and crouching over the [[Fire|fire]], held out their withered hands to
+catch the heat. The flame threw a ghastly light on their shrivelled
+faces, and made their ugliness appear terrible, as, in this position,
+they began to converse in a low voice.
+
+“Did she say any more, Anny dear, while I was gone?” inquired the
+messenger.
+
+“Not a word,” replied the other. “She plucked and tore at her arms for
+a little [[Time|time]]; but I held her hands, and she soon dropped off. She
+hasn’t much strength in her, so I easily kept her quiet. I ain’t so
+weak for an old woman, although I am on parish allowance; no, no!”
+
+“Did she drink the hot wine the doctor said she was to have?” demanded
+the first.
+
+“I tried to get it down,” rejoined the other. “But her teeth were tight
+set, and she clenched the mug so hard that it was as much as I could do
+to get it back again. So _I_ drank it; and it did me good!”
+
+Looking cautiously round, to ascertain that they were not overheard,
+the two hags cowered nearer to the [[Fire|fire]], and chuckled heartily.
+
+“I mind the [[Time|time]],” said the first speaker, “when she would have done
+the same, and made rare fun of it afterwards.”
+
+“Ay, that she would,” rejoined the other; “she had a merry heart. A
+many, many, beautiful corpses she laid out, as nice and neat as
+waxwork. My old eyes have seen them—ay, and those old hands touched
+them too; for I have helped her, scores of times.”
+
+Stretching forth her trembling fingers as she spoke, the old creature
+shook them exultingly before her face, and fumbling in her pocket,
+brought out an old [[Time|time]]-discoloured tin snuff-box, from which she shook
+a few grains into the outstretched palm of her companion, and a few
+more into her own. While they were thus employed, the matron, who had
+been impatiently watching until the dying woman should awaken from her
+stupor, joined them by the [[Fire|fire]], and sharply asked how long she was to
+wait?
+
+“Not long, mistress,” replied the second woman, looking up into her
+face. “We have none of us long to wait for [[Death]]. Patience, patience!
+He’ll be here soon enough for us all.”
+
+“Hold your tongue, you doting idiot!” said the matron sternly. “You,
+Martha, tell me; has she been in this way before?”
+
+“Often,” answered the first woman.
+
+“But will never be again,” added the second one; “that is, she’ll never
+wake again but once—and mind, mistress, that won’t be for long!”
+
+“Long or short,” said the matron, snappishly, “she won’t find me here
+when she does wake; take care, both of you, how you worry me again for
+nothing. It’s no part of my duty to see all the old women in the [[house]]
+die, and I won’t—that’s more. Mind that, you impudent old harridans. If
+you make a [[Fool|fool]] of me again, I’ll soon cure you, I warrant you!”
+
+She was bouncing away, when a cry from the two women, who had turned
+towards the bed, caused her to look round. The patient had raised
+herself upright, and was stretching her arms towards them.
+
+“Who’s that?” she cried, in a hollow voice.
+
+“Hush, hush!” said one of the women, stooping over her. “Lie down, lie
+down!”
+
+“I’ll never lie down again alive!” said the woman, struggling. “I
+_will_ tell her! Come here! Nearer! Let me whisper in your ear.”
+
+She clutched the matron by the arm, and forcing her into a chair by the
+bedside, was about to speak, when looking round, she caught sight of
+the two old women bending forward in the attitude of eager listeners.
+
+“Turn them away,” said the woman, drowsily; “make haste! make haste!”
+
+The two old crones, chiming in together, began pouring out many piteous
+lamentations that the poor dear was too far gone to know her best
+friends; and were uttering sundry protestations that they would never
+leave her, when the superior pushed them from the room, closed the
+door, and returned to the bedside. On being excluded, the old ladies
+changed their tone, and cried through the keyhole that old Sally was
+drunk; which, indeed, was not unlikely; since, in addition to a
+moderate dose of opium prescribed by the apothecary, she was labouring
+under the effects of a final taste of gin-and-[[Water|water]] which had been
+privily administered, in the openness of their hearts, by the worthy
+old ladies themselves.
+
+“Now listen to me,” said the dying woman aloud, as if making a great
+effort to revive one latent spark of energy. “In this very room—in this
+very bed—I once nursed a pretty young creetur’, that was brought into
+the [[house]] with her feet cut and bruised with walking, and all soiled
+with [[Dust|dust]] and [[Blood|blood]]. She gave birth to a boy, and died. Let me
+think—what was the year again!”
+
+“Never mind the year,” said the impatient auditor; “what about her?”
+
+“Ay,” murmured the sick woman, relapsing into her former drowsy state,
+“what about her?—what about—I know!” she cried, jumping fiercely up:
+her face flushed, and her eyes starting from her head—“I robbed her, so
+I did! She wasn’t cold—I tell you she wasn’t cold, when I stole it!”
+
+“Stole what, for God’s sake?” cried the matron, with a gesture as if
+she would call for help.
+
+“_It_!” replied the woman, laying her hand over the other’s mouth. “The
+only thing she had. She wanted clothes to keep her warm, and food to
+eat; but she had kept it safe, and had it in her bosom. It was gold, I
+tell you! Rich gold, that might have saved her life!”
+
+“Gold!” echoed the matron, bending eagerly over the woman as she fell
+back. “Go on, go on—yes—what of it? Who was the mother? When was it?”
+
+“She charged me to keep it safe,” replied the woman with a groan, “and
+trusted me as the only woman about her. I stole it in my heart when she
+first showed it me hanging round her neck; and the [[Child|child]]’s [[Death|death]],
+perhaps, is on me besides! They would have treated him better, if they
+had known it all!”
+
+“Known what?” asked the other. “Speak!”
+
+“The boy grew so like his mother,” said the woman, rambling on, and not
+heeding the question, “that I could never forget it when I saw his
+face. Poor girl! poor girl! She was so young, too! Such a gentle [[Lamb|lamb]]!
+Wait; there’s more to tell. I have not told you all, have I?”
+
+“No, no,” replied the matron, inclining her head to catch the words, as
+they came more faintly from the dying woman. “Be quick, or it may be
+too late!”
+
+“The mother,” said the woman, making a more violent effort than before;
+“the mother, when the pains of [[Death|death]] first came upon her, whispered in
+my ear that if her baby was born alive, and thrived, the day might come
+when it would not feel so much disgraced to hear its poor young mother
+named. ‘And oh, kind Heaven!’ she said, folding her thin hands
+together, ‘whether it be boy or girl, raise up some friends for it in
+this troubled world, and take pity upon a lonely desolate [[Child|child]],
+abandoned to its [[Mercy|mercy]]!’”
+
+“The boy’s name?” demanded the matron.
+
+“They _called_ him [[Oliver]],” replied the woman, feebly. “The gold I
+stole was—”
+
+“Yes, yes—what?” cried the other.
+
+She was bending eagerly over the woman to hear her reply; but drew
+back, instinctively, as she once again [[Rose|rose]], slowly and stiffly, into a
+sitting posture; then, clutching the coverlid with both hands, muttered
+some indistinct sounds in her throat, and fell lifeless on the bed.
+
+
+“Stone dead!” said one of the old women, hurrying in as soon as the
+door was opened.
+
+“And nothing to tell, after all,” rejoined the matron, walking
+carelessly away.
+
+The two crones, to all appearance, too busily occupied in the
+preparations for their dreadful duties to make any reply, were left
+[[Alone|alone]], hovering about the [[Body|body]].
+
+
+
+
 <span class="atom-split" data-atom="chapter_25--part_01" data-title="Oliver Twist — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
 
 
@@ -29328,6 +28688,183 @@ The old servant looked up at the speaker, as she turned away, with a
 glance as proud and admiring as if she had been his own [[Child|child]]. Then,
 bending over [[Oliver]], he helped to carry him upstairs, with the care and
 solicitude of a woman.
+
+
+
+
+<span class="atom-split" data-atom="chapter_29" data-title="Oliver Twist — Chapter 29" data-chapter="Chapter 29" data-kind="chapter"></span>
+
+
+CHAPTER XXIX.
+HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE [[house|HOUSE]], TO WHICH
+[[Oliver|OLIVER]] RESORTED
+
+
+In a handsome room: though its furniture had rather the air of
+old-fashioned comfort, than of modern elegance: there sat two ladies at
+a [[Well|well]]-spread breakfast-table. Mr. Giles, dressed with scrupulous care
+in a full suit of black, was in attendance upon them. He had taken his
+station some half-way between the side-board and the breakfast-table;
+and, with his [[Body|body]] drawn up to its full height, his head thrown back,
+and inclined the merest trifle on one side, his left leg advanced, and
+his right hand thrust into his waist-coat, while his left hung down by
+his side, grasping a waiter, looked like one who laboured under a very
+agreeable sense of his own merits and importance.
+
+Of the two ladies, one was [[Well|well]] advanced in years; but the high-backed
+oaken chair in which she sat, was not more upright than she. Dressed
+with the utmost nicety and precision, in a quaint mixture of by-gone
+costume, with some slight concessions to the prevailing taste, which
+rather served to point the old style pleasantly than to impair its
+effect, she sat, in a stately manner, with her hands folded on the
+table before her. Her eyes (and age had dimmed but little of their
+brightness) were attentively upon her young companion.
+
+The younger lady was in the lovely bloom and [[spring]]-[[Time|time]] of womanhood;
+at that age, when, if ever angels be for God’s good purposes enthroned
+in mortal forms, they may be, without impiety, supposed to abide in
+such as hers.
+
+She was not past seventeen. Cast in so slight and exquisite a mould; so
+mild and gentle; so pure and beautiful; that earth seemed not her
+element, nor its rough creatures her fit companions. The very
+intelligence that shone in her deep blue eye, and was stamped upon her
+noble head, seemed scarcely of her age, or of the world; and yet the
+changing expression of sweetness and good [[Humour|humour]], the thousand lights
+that played about the face, and left no [[Shadow|shadow]] there; above all, the
+smile, the cheerful, happy smile, were made for [[Home]], and fireside
+peace and happiness.
+
+She was busily engaged in the little offices of the table. Chancing to
+raise her eyes as the elder lady was regarding her, she playfully put
+back her hair, which was simply braided on her forehead; and threw into
+her beaming look, such an expression of affection and artless
+loveliness, that blessed spirits might have smiled to look upon her.
+
+“And Brittles has been gone upwards of an hour, has he?” asked the old
+lady, after a pause.
+
+“An hour and twelve minutes, ma’am,” replied Mr. Giles, referring to a
+silver watch, which he drew forth by a black ribbon.
+
+“He is always slow,” remarked the old lady.
+
+“Brittles always was a slow boy, ma’am,” replied the attendant. And
+seeing, by the bye, that Brittles had been a slow boy for upwards of
+thirty years, there appeared no great probability of his ever being a
+fast one.
+
+“He gets worse instead of better, I think,” said the elder lady.
+
+“It is very inexcusable in him if he stops to play with any other
+boys,” said the young lady, smiling.
+
+Mr. Giles was apparently considering the propriety of indulging in a
+respectful smile himself, when a gig drove up to the [[Garden|garden]]-gate: out
+of which there jumped a fat gentleman, who ran straight up to the door:
+and who, getting quickly into the [[house]] by some mysterious process,
+burst into the room, and nearly overturned Mr. Giles and the
+breakfast-table together.
+
+“I never heard of such a thing!” exclaimed the fat gentleman. “My dear
+Mrs. Maylie—bless my [[Soul|soul]]—in the [[Silence|silence]] of the [[Night|night]], too—I _never_
+heard of such a thing!”
+
+With these expressions of condolence, the fat gentleman shook hands
+with both ladies, and drawing up a chair, inquired how they found
+themselves.
+
+“You ought to be dead; positively dead with the fright,” said the fat
+gentleman. “Why didn’t you send? Bless me, my man should have come in a
+minute; and so would I; and my assistant would have been delighted; or
+anybody, I’m sure, under such circumstances. Dear, dear! So unexpected!
+In the [[Silence|silence]] of the [[Night|night]], too!”
+
+The doctor seemed especially troubled by the fact of the robbery having
+been unexpected, and attempted in the [[Night|night]]-[[Time|time]]; as if it were the
+established custom of gentlemen in the housebreaking way to transact
+business at [[Noon|noon]], and to make an appointment, by post, a day or two
+previous.
+
+“And you, Miss [[Rose]],” said the doctor, turning to the young lady, “I—”
+
+“Oh! very much so, indeed,” said [[Rose]], interrupting him; “but there is
+a poor creature upstairs, whom aunt wishes you to see.”
+
+“Ah! to be sure,” replied the doctor, “so there is. That was your
+handiwork, Giles, I understand.”
+
+Mr. Giles, who had been feverishly putting the tea-cups to rights,
+blushed very red, and said that he had had that [[Honour|honour]].
+
+“[[Honour]], eh?” said the doctor; “[[Well|well]], I don’t know; perhaps it’s as
+honourable to hit a thief in a back kitchen, as to hit your man at
+twelve paces. Fancy that he fired in the air, and you’ve fought a duel,
+Giles.”
+
+Mr. Giles, who thought this light treatment of the matter an unjust
+attempt at diminishing his glory, answered respectfully, that it was
+not for the like of him to judge about that; but he rather thought it
+was no joke to the opposite party.
+
+“Gad, that’s true!” said the doctor. “Where is he? Show me the way.
+I’ll look in again, as I come down, Mrs. Maylie. That’s the little
+[[Window|window]] that he got in at, eh? [[Well]], I couldn’t have believed it!”
+
+Talking all the way, he followed Mr. Giles upstairs; and while he is
+going upstairs, the reader may be informed, that Mr. Losberne, a
+surgeon in the neighbourhood, known through a circuit of ten miles
+round as “the doctor,” had grown fat, more from good-[[Humour|humour]] than from
+good living: and was as kind and hearty, and withal as eccentric an old
+bachelor, as will be found in five times that space, by any explorer
+alive.
+
+The doctor was absent, much longer than either he or the ladies had
+anticipated. A large flat box was fetched out of the gig; and a bedroom
+bell was rung very often; and the servants ran up and down stairs
+perpetually; from which tokens it was justly concluded that something
+important was going on above. At length he returned; and in reply to an
+anxious inquiry after his patient; looked very mysterious, and closed
+the door, carefully.
+
+“This is a very extraordinary thing, Mrs. Maylie,” said the doctor,
+standing with his back to the door, as if to keep it shut.
+
+“He is not in danger, I [[Hope|hope]]?” said the old lady.
+
+“Why, that would _not_ be an extraordinary thing, under the
+circumstances,” replied the doctor; “though I don’t think he is. Have
+you seen the thief?”
+
+“No,” rejoined the old lady.
+
+“Nor heard anything about him?”
+
+“No.”
+
+“I beg your pardon, ma’am,” interposed Mr. Giles; “but I was going to
+tell you about him when Doctor Losberne came in.”
+
+The fact was, that Mr. Giles had not, at first, been able to bring his
+mind to the avowal, that he had only shot a boy. Such commendations had
+been bestowed upon his bravery, that he could not, for the life of him,
+help postponing the explanation for a few delicious minutes; during
+which he had flourished, in the very zenith of a brief reputation for
+undaunted [[Courage|courage]].
+
+“[[Rose]] wished to see the man,” said Mrs. Maylie, “but I wouldn’t hear of
+it.”
+
+“Humph!” rejoined the doctor. “There is nothing very alarming in his
+appearance. Have you any objection to see him in my presence?”
+
+“If it be necessary,” replied the old lady, “certainly not.”
+
+“Then I think it is necessary,” said the doctor; “at all events, I am
+quite sure that you would deeply regret not having done so, if you
+postponed it. He is perfectly quiet and comfortable now. Allow me—Miss
+[[Rose]], will you permit me? Not the slightest [[Fear|fear]], I pledge you my
+[[Honour|honour]]!”
 
 
 
@@ -31608,6 +31145,132 @@ by that [[Time|time]] I may be enabled to bear it better.”
 She extended her hand again. But the young man caught her to his bosom;
 and imprinting one kiss on her beautiful forehead, hurried from the
 room.
+
+
+
+
+<span class="atom-split" data-atom="chapter_36" data-title="Oliver Twist — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
+
+
+CHAPTER XXXVI.
+IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT IMPORTANCE IN ITS
+PLACE, BUT IT SHOULD BE READ NOTWITHSTANDING, AS A SEQUEL TO THE LAST,
+AND A KEY TO ONE THAT WILL FOLLOW WHEN ITS [[Time|TIME]] ARRIVES
+
+
+“And so you are resolved to be my travelling companion this morning;
+eh?” said the doctor, as Harry Maylie joined him and [[Oliver]] at the
+breakfast-table. “Why, you are not in the same mind or intention two
+half-hours together!”
+
+“You will tell me a different tale one of these days,” said Harry,
+colouring without any perceptible reason.
+
+“I [[Hope|hope]] I may have good cause to do so,” replied Mr. Losberne; “though
+I confess I don’t think I shall. But yesterday morning you had made up
+your mind, in a great hurry, to stay here, and to accompany your
+mother, like a dutiful son, to the sea-side. Before [[Noon|noon]], you announce
+that you are going to do me the [[Honour|honour]] of accompanying me as far as I
+go, on your [[Road|road]] to [[London]]. And at [[Night|night]], you urge me, with great
+mystery, to start before the ladies are stirring; the consequence of
+which is, that young [[Oliver]] here is pinned down to his breakfast when
+he ought to be ranging the meadows after botanical phenomena of all
+kinds. Too bad, isn’t it, [[Oliver]]?”
+
+“I should have been very sorry not to have been at [[Home|home]] when you and
+Mr. Maylie went away, sir,” rejoined [[Oliver]].
+
+“That’s a fine fellow,” said the doctor; “you shall come and see me
+when you return. But, to speak seriously, Harry; has any communication
+from the great nobs produced this sudden anxiety on your part to be
+gone?”
+
+“The great nobs,” replied Harry, “under which designation, I presume,
+you include my most stately uncle, have not communicated with me at
+all, since I have been here; nor, at this [[Time|time]] of the year, is it
+likely that anything would occur to render necessary my immediate
+attendance among them.”
+
+“[[Well]],” said the doctor, “you are a queer fellow. But of course they
+will get you into parliament at the election before Christmas, and
+these sudden shiftings and changes are no bad preparation for political
+life. There’s something in that. Good training is always desirable,
+whether the race be for place, cup, or sweepstakes.”
+
+Harry Maylie looked as if he could have followed up this short dialogue
+by one or two remarks that would have staggered the doctor not a
+little; but he contented himself with saying, “We shall see,” and
+pursued the subject no farther. The post-chaise drove up to the door
+shortly afterwards; and Giles coming in for the luggage, the good
+doctor bustled out, to see it packed.
+
+“[[Oliver]],” said Harry Maylie, in a low voice, “let me speak a word with
+you.”
+
+[[Oliver]] walked into the [[Window|window]]-recess to which Mr. Maylie beckoned him;
+much surprised at the mixture of sadness and boisterous spirits, which
+his whole behaviour displayed.
+
+“You can write [[Well|well]] now?” said Harry, laying his hand upon his arm.
+
+“I [[Hope|hope]] so, sir,” replied [[Oliver]].
+
+“I shall not be at [[Home|home]] again, perhaps for some [[Time|time]]; I wish you would
+write to me—say once a fort-[[Night|night]]: every alternate Monday: to the
+General Post Office in [[London]]. Will you?”
+
+“Oh! certainly, sir; I shall be proud to do it,” exclaimed [[Oliver]],
+greatly delighted with the commission.
+
+“I should like to know how—how my mother and Miss Maylie are,” said the
+young man; “and you can fill up a sheet by telling me what walks you
+take, and what you talk about, and whether she—they, I mean—seem happy
+and quite [[Well|well]]. You understand me?”
+
+“Oh! quite, sir, quite,” replied [[Oliver]].
+
+“I would rather you did not mention it to them,” said Harry, hurrying
+over his words; “because it might make my mother anxious to write to me
+oftener, and it is a trouble and worry to her. Let it be a secret
+between you and me; and mind you tell me everything! I depend upon
+you.”
+
+[[Oliver]], quite elated and honoured by a sense of his importance,
+faithfully promised to be secret and explicit in his communications.
+Mr. Maylie took leave of him, with many assurances of his regard and
+protection.
+
+The doctor was in the chaise; Giles (who, it had been arranged, should
+be left behind) held the door open in his hand; and the women-servants
+were in the [[Garden|garden]], looking on. Harry cast one slight glance at the
+latticed [[Window|window]], and jumped into the carriage.
+
+“Drive on!” he cried, “hard, fast, full gallop! Nothing short of flying
+will keep pace with me, today.”
+
+“Halloa!” cried the doctor, letting down the front glass in a great
+hurry, and shouting to the postillion; “something very short of flying
+will keep pace with _me_. Do you hear?”
+
+Jingling and clattering, till distance rendered its noise inaudible,
+and its rapid progress only perceptible to the eye, the vehicle wound
+its way along the [[Road|road]], almost hidden in a cloud of [[Dust|dust]]: now wholly
+disappearing, and now becoming visible again, as intervening objects,
+or the intricacies of the way, permitted. It was not until even the
+dusty cloud was no longer to be seen, that the gazers dispersed.
+
+And there was one looker-on, who remained with eyes fixed upon the spot
+where the carriage had disappeared, long after it was many miles away;
+for, behind the white curtain which had shrouded her from view when
+Harry raised his eyes towards the [[Window|window]], sat [[Rose]] herself.
+
+“He seems in high spirits and happy,” she said, at length. “I feared
+for a [[Time|time]] he might be otherwise. I was mistaken. I am very, very
+glad.”
+
+[[Tears]] are signs of gladness as [[Well|well]] as grief; but those which coursed
+down [[Rose]]’s face, as she sat pensively at the [[Window|window]], still gazing in
+the same direction, seemed to tell more of sorrow than of joy.
 
 
 
@@ -35233,6 +34896,181 @@ crushed with every motion of his fingers.
 
 
 
+<span class="atom-split" data-atom="chapter_45" data-title="Oliver Twist — Chapter 45" data-chapter="Chapter 45" data-kind="chapter"></span>
+
+
+CHAPTER XLV.
+NOAH CLAYPOLE IS EMPLOYED BY [[Fagin|FAGIN]] ON A SECRET MISSION
+
+
+The old man was up, betimes, next morning, and waited impatiently for
+the appearance of his new associate, who after a delay that seemed
+interminable, at length presented himself, and commenced a voracious
+assault on the breakfast.
+
+“Bolter,” said [[Fagin]], drawing up a chair and seating himself opposite
+Morris Bolter.
+
+“[[Well]], here I am,” returned Noah. “What’s the matter? Don’t yer ask me
+to do anything till I have done eating. That’s a great fault in this
+place. Yer never get [[Time|time]] enough over yer meals.”
+
+“You can talk as you eat, can’t you?” said [[Fagin]], cursing his dear
+young friend’s greediness from the very [[Bottom|bottom]] of his heart.
+
+“Oh yes, I can talk. I get on better when I talk,” said Noah, cutting a
+monstrous slice of bread. “Where’s Charlotte?”
+
+“Out,” said [[Fagin]]. “I sent her out this morning with the other young
+woman, because I wanted us to be [[Alone|alone]].”
+
+“Oh!” said Noah. “I wish yer’d ordered her to make some buttered toast
+first. [[Well]]. Talk away. Yer won’t interrupt me.”
+
+There seemed, indeed, no great [[Fear|fear]] of anything interrupting him, as he
+had evidently sat down with a determination to do a great deal of
+business.
+
+“You did [[Well|well]] yesterday, my dear,” said [[Fagin]]. “Beautiful! Six
+shillings and ninepence halfpenny on the very first day! The kinchin
+lay will be a fortune to you.”
+
+“Don’t you forget to add three pint-pots and a milk-can,” said Mr.
+Bolter.
+
+“No, no, my dear. The pint-pots were great strokes of genius: but the
+milk-can was a perfect masterpiece.”
+
+“Pretty [[Well|well]], I think, for a beginner,” remarked Mr. Bolter
+complacently. “The pots I took off airy railings, and the milk-can was
+standing by itself outside a public-[[house]]. I thought it might get rusty
+with the rain, or catch cold, yer know. Eh? Ha! ha! ha!”
+
+[[Fagin]] affected to laugh very heartily; and Mr. Bolter having had his
+laugh out, took a series of large bites, which finished his first hunk
+of bread and butter, and assisted himself to a second.
+
+“I want you, Bolter,” said [[Fagin]], leaning over the table, “to do a
+piece of work for me, my dear, that needs great care and caution.”
+
+“I say,” rejoined Bolter, “don’t yer go shoving me into danger, or
+sending me any more o’ yer police-offices. That don’t suit me, that
+don’t; and so I tell yer.”
+
+“That’s not the smallest danger in it—not the very smallest,” said the
+Jew; “it’s only to dodge a woman.”
+
+“An old woman?” demanded Mr. Bolter.
+
+“A young one,” replied [[Fagin]].
+
+“I can do that pretty [[Well|well]], I know,” said Bolter. “I was a regular
+cunning sneak when I was at school. What am I to dodge her for? Not
+to—”
+
+“Not to do anything, but to tell me where she goes, who she sees, and,
+if possible, what she says; to remember the street, if it is a street,
+or the [[house]], if it is a [[house]]; and to bring me back all the
+information you can.”
+
+“What’ll yer give me?” asked Noah, setting down his cup, and looking
+his employer, eagerly, in the face.
+
+“If you do it [[Well|well]], a pound, my dear. One pound,” said [[Fagin]], wishing
+to interest him in the scent as much as possible. “And that’s what I
+never gave yet, for any job of work where there wasn’t valuable
+consideration to be gained.”
+
+“Who is she?” inquired Noah.
+
+“One of us.”
+
+“Oh Lor!” cried Noah, curling up his nose. “Yer doubtful of her, are
+yer?”
+
+“She has found out some new friends, my dear, and I must know who they
+are,” replied [[Fagin]].
+
+“I see,” said Noah. “Just to have the pleasure of knowing them, if
+they’re respectable people, eh? Ha! ha! ha! I’m your man.”
+
+“I knew you would be,” cried [[Fagin]], elated by the [[success]] of his
+proposal.
+
+“Of course, of course,” replied Noah. “Where is she? Where am I to wait
+for her? Where am I to go?”
+
+“All that, my dear, you shall hear from me. I’ll point her out at the
+proper [[Time|time]],” said [[Fagin]]. “You keep ready, and leave the rest to me.”
+
+That [[Night|night]], and the next, and the next again, the spy sat booted and
+equipped in his carter’s dress: ready to turn out at a word from [[Fagin]].
+Six nights passed—six long weary nights—and on each, [[Fagin]] came [[Home|home]]
+with a disappointed face, and briefly intimated that it was not yet
+[[Time|time]]. On the seventh, he returned earlier, and with an exultation he
+could not conceal. It was [[Sunday]].
+
+“She goes abroad tonight,” said [[Fagin]], “and on the right errand, I’m
+sure; for she has been [[Alone|alone]] all day, and the man she is afraid of will
+not be back much before daybreak. Come with me. Quick!”
+
+Noah started up without saying a word; for the Jew was in a state of
+such intense excitement that it infected him. They left the [[house]]
+stealthily, and hurrying through a labyrinth of streets, arrived at
+length before a public-[[house]], which Noah recognised as the same in
+which he had slept, on the [[Night|night]] of his arrival in [[London]].
+
+It was past eleven o’[[Clock|clock]], and the door was closed. It opened softly
+on its hinges as [[Fagin]] gave a low whistle. They entered, without noise;
+and the door was closed behind them.
+
+Scarcely venturing to whisper, but substituting dumb show for words,
+[[Fagin]], and the young Jew who had admitted them, pointed out the pane of
+glass to Noah, and signed to him to climb up and observe the person in
+the adjoining room.
+
+“Is that the woman?” he asked, scarcely above his breath.
+
+[[Fagin]] nodded yes.
+
+“I can’t see her face [[Well|well]],” whispered Noah. “She is looking down, and
+the candle is behind her.”
+
+“Stay there,” whispered [[Fagin]]. He signed to Barney, who withdrew. In an
+instant, the lad entered the room adjoining, and, under pretence of
+snuffing the candle, moved it in the required position, and, speaking
+to the girl, caused her to raise her face.
+
+“I see her now,” cried the spy.
+
+“Plainly?”
+
+“I should know her among a thousand.”
+
+He hastily descended, as the room-door opened, and the girl came out.
+[[Fagin]] drew him behind a small partition which was curtained off, and
+they held their breaths as she passed within a few feet of their place
+of concealment, and emerged by the door at which they had entered.
+
+“Hist!” cried the lad who held the door. “Dow.”
+
+Noah exchanged a look with [[Fagin]], and darted out.
+
+“To the left,” whispered the lad; “take the left had, and keep od the
+other side.”
+
+He did so; and, by the light of the lamps, saw the girl’s retreating
+figure, already at some distance before him. He advanced as near as he
+considered prudent, and kept on the opposite side of the street, the
+better to observe her motions. She looked nervously round, twice or
+thrice, and once stopped to let two men who were following close behind
+her, pass on. She seemed to gather [[Courage|courage]] as she advanced, and to walk
+with a steadier and firmer step. The spy preserved the same relative
+distance between them, and followed: with his eye upon her.
+
+
+
+
 <span class="atom-split" data-atom="chapter_46--part_01" data-title="Oliver Twist — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
 
 
@@ -38252,3 +38090,165 @@ cards to beguile the [[Time|time]]; the crowd were pushing, quarrelling, joking.
 Everything told of life and animation, but one dark cluster of objects
 in the centre of all—the black stage, the [[Cross|cross]]-beam, the rope, and all
 the hideous apparatus of [[Death|death]].
+
+
+
+
+<span class="atom-split" data-atom="chapter_53" data-title="Oliver Twist — Chapter 53" data-chapter="Chapter 53" data-kind="chapter"></span>
+
+
+CHAPTER LIII.
+AND LAST
+
+
+The fortunes of those who have figured in this tale are nearly closed.
+The little that remains to their historian to relate, is told in few
+and simple words.
+
+Before three months had passed, [[Rose]] Fleming and Harry Maylie were
+married in the village church which was henceforth to be the scene of
+the young clergyman’s labours; on the same day they entered into
+possession of their new and happy [[Home|home]].
+
+Mrs. Maylie took up her abode with her son and daughter-in-law, to
+enjoy, during the tranquil remainder of her days, the greatest felicity
+that age and worth can know—the contemplation of the happiness of those
+on whom the warmest affections and tenderest cares of a [[Well|well]]-spent
+life, have been unceasingly bestowed.
+
+It appeared, on full and careful investigation, that if the wreck of
+property remaining in the custody of [[Monks]] (which had never prospered
+either in his hands or in those of his mother) were equally divided
+between himself and [[Oliver]], it would yield, to each, little more than
+three thousand pounds. By the provisions of his father’s will, [[Oliver]]
+would have been entitled to the whole; but Mr. Brownlow, unwilling to
+deprive the elder son of the opportunity of retrieving his former vices
+and pursuing an honest career, proposed this mode of distribution, to
+which his young charge joyfully acceded.
+
+[[Monks]], still bearing that assumed name, retired with his portion to a
+distant part of the New World; where, having quickly squandered it, he
+once more fell into his old courses, and, after undergoing a long
+confinement for some fresh act of fraud and knavery, at length sunk
+under an attack of his old disorder, and died in [[Prison|prison]]. As far from
+[[Home|home]], died the chief remaining members of his friend [[Fagin]]’s gang.
+
+Mr. Brownlow adopted [[Oliver]] as his son. Removing with him and the old
+housekeeper to within a mile of the parsonage-[[house]], where his dear
+friends resided, he gratified the only remaining wish of [[Oliver]]’s warm
+and earnest heart, and thus linked together a little society, whose
+condition approached as nearly to one of perfect happiness as can ever
+be known in this changing world.
+
+Soon after the [[Marriage|marriage]] of the young people, the worthy doctor returned
+to Chertsey, where, bereft of the presence of his old friends, he would
+have been discontented if his temperament had admitted of such a
+feeling; and would have turned quite peevish if he had known how. For
+two or three months, he contented himself with hinting that he feared
+the air began to disagree with him; then, finding that the place really
+no longer was, to him, what it had been, he settled his business on his
+assistant, took a bachelor’s cottage outside the village of which his
+young friend was pastor, and instantaneously recovered. Here he took to
+gardening, planting, fishing, carpentering, and various other pursuits
+of a similar kind: all undertaken with his characteristic impetuosity.
+In each and all he has since become famous throughout the neighborhood,
+as a most profound authority.
+
+Before his removal, he had managed to contract a strong [[Friendship|friendship]] for
+Mr. Grimwig, which that eccentric gentleman cordially reciprocated. He
+is accordingly visited by Mr. Grimwig a great many times in the course
+of the year. On all such occasions, Mr. Grimwig plants, fishes, and
+carpenters, with great ardour; doing everything in a very singular and
+unprecedented manner, but always maintaining with his favourite
+asseveration, that his mode is the right one. On Sundays, he never
+fails to criticise the sermon to the young clergyman’s face: always
+informing Mr. Losberne, in strict confidence afterwards, that he
+considers it an excellent performance, but deems it as [[Well|well]] not to say
+so. It is a standing and very favourite joke, for Mr. Brownlow to rally
+him on his old prophecy concerning [[Oliver]], and to remind him of the
+[[Night|night]] on which they sat with the watch between them, waiting his
+return; but Mr. Grimwig contends that he was right in the main, and, in
+proof thereof, remarks that [[Oliver]] did not come back after all; which
+always calls forth a laugh on his side, and increases his good [[Humour|humour]].
+
+Mr. Noah Claypole: receiving a free pardon from the [[Crown]] in
+consequence of being admitted approver against [[Fagin]]: and considering
+his profession not altogether as safe a one as he could wish: was, for
+some little [[Time|time]], at a loss for the means of a livelihood, not burdened
+with too much work. After some consideration, he went into business as
+an informer, in which calling he realises a genteel subsistence. His
+plan is, to walk out once a week during church [[Time|time]] attended by
+Charlotte in respectable attire. The lady faints away at the doors of
+charitable publicans, and the gentleman being accommodated with
+three-penny worth of brandy to restore her, lays an information next
+day, and pockets half the penalty. Sometimes Mr. Claypole faints
+himself, but the result is the same.
+
+Mr. and Mrs. Bumble, deprived of their situations, were gradually
+reduced to great indigence and misery, and finally became paupers in
+that very same workhouse in which they had once lorded it over others.
+Mr. Bumble has been heard to say, that in this reverse and degradation,
+he has not even spirits to be thankful for being separated from his
+wife.
+
+As to Mr. Giles and Brittles, they still remain in their old posts,
+although the former is bald, and the last-named boy quite grey. They
+[[Sleep|sleep]] at the parsonage, but divide their attentions so equally among
+its inmates, and [[Oliver]] and Mr. Brownlow, and Mr. Losberne, that to
+this day the villagers have never been able to discover to which
+establishment they properly belong.
+
+Master Charles Bates, appalled by Sikes’s crime, fell into a train of
+reflection whether an honest life was not, after all, the best.
+Arriving at the conclusion that it certainly was, he turned his back
+upon the scenes of the past, resolved to amend it in some new sphere of
+action. He struggled hard, and suffered much, for some [[Time|time]]; but,
+having a contented disposition, and a good purpose, succeeded in the
+end; and, from being a farmer’s drudge, and a carrier’s lad, he is now
+the merriest young grazier in all Northamptonshire.
+
+And now, the hand that traces these words, falters, as it approaches
+the conclusion of its task; and would weave, for a little longer space,
+the thread of these adventures.
+
+I would fain linger yet with a few of those among whom I have so long
+moved, and share their happiness by endeavouring to depict it. I would
+show [[Rose Maylie]] in all the bloom and grace of early womanhood,
+shedding on her secluded path in life soft and gentle light, that fell
+on all who trod it with her, and shone into their hearts. I would paint
+her the life and joy of the [[Fire|fire]]-side circle and the lively [[Summer|summer]]
+group; I would follow her through the sultry fields at [[Noon|noon]], and hear
+the low tones of her sweet voice in the moonlit evening walk; I would
+watch her in all her goodness and [[Charity|charity]] abroad, and the smiling
+untiring discharge of domestic duties at [[Home|home]]; I would paint her and
+her dead sister’s [[Child|child]] happy in their [[Love|love]] for one another, and
+passing whole hours together in picturing the friends whom they had so
+sadly lost; I would summon before me, once again, those joyous little
+faces that clustered round her knee, and listen to their merry prattle;
+I would recall the tones of that clear laugh, and conjure up the
+sympathising tear that glistened in the soft blue eye. These, and a
+thousand looks and smiles, and turns of thought and speech—I would fain
+recall them every one.
+
+How Mr. Brownlow went on, from day to day, filling the mind of his
+adopted [[Child|child]] with stores of knowledge, and becoming attached to him,
+more and more, as his [[Nature|nature]] developed itself, and showed the thriving
+seeds of all he wished him to become—how he traced in him new traits of
+his early friend, that awakened in his own bosom old remembrances,
+[[Melancholy|melancholy]] and yet sweet and soothing—how the two orphans, tried by
+adversity, remembered its lessons in [[Mercy|mercy]] to others, and mutual [[Love|love]],
+and fervent thanks to Him who had protected and preserved them—these
+are all matters which need not to be told. I have said that they were
+truly happy; and without strong affection and humanity of heart, and
+gratitude to that Being whose code is [[Mercy]], and whose great attribute
+is Benevolence to all things that breathe, happiness can never be
+attained.
+
+Within the altar of the old village church there stands a white marble
+tablet, which bears as yet but one word: “AGNES.” There is no coffin in
+that tomb; and may it be many, many years, before another name is
+placed above it! But, if the [[Spirits of the Dead|spirits of the Dead]] ever come back to
+earth, to visit spots hallowed by the [[Love|love]]—the [[Love|love]] beyond the [[Grave|grave]]—of
+those whom they knew in life, I believe that the shade of Agnes
+sometimes hovers round that solemn nook. I believe it none the less
+because that nook is in a Church, and she was weak and erring.

@@ -6082,770 +6082,6 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_08_the_moods_of_mr_george_moore" data-title="Heretics — The Moods of Mr. George Moore" data-chapter="The Moods of Mr George Moore" data-kind="story"></span>
-
-
-IX.  The Moods of Mr. George Moore
-
-Mr. George Moore began his literary career by writing
-his personal confessions; nor is there any harm in this
-if he had not continued them for the remainder of his life.
-He is a man of genuinely forcible mind and of great command
-over a kind of rhetorical and fugitive conviction which excites
-and pleases.  He is in a perpetual state of temporary honesty.
-He has admired all the most admirable modern eccentrics
-until they could stand it no longer.  Everything he writes,
-it is to be fully admitted, has a genuine mental power.
-His account of his reason for leaving the Roman [[Catholic Church]]
-is possibly the most admirable tribute to that communion
-which has been written of late years.  For the fact of
-the matter is, that the weakness which has rendered barren
-the many brilliancies of Mr. Moore is actually that weakness
-which the Roman [[Catholic Church]] is at its best in combating.
-Mr. Moore hates Catholicism because it breaks up the [[house]]
-of looking-glasses in which he lives.  Mr. Moore does not dislike
-so much being asked to believe in the spiritual existence
-of miracles or sacraments, but he does fundamentally dislike
-being asked to believe in the actual existence of other people.
-Like his master Pater and all the aesthetes, his real quarrel with
-life is that it is not [[A Dream|a dream]] that can be moulded by the dreamer.
-It is not the dogma of the reality of the other world that
-troubles him, but the dogma of the reality of this world.
-
-The [[Truth|truth]] is that the tradition of [[Christianity]]
-(which is still the only coherent ethic of Europe)
-rests on two or three paradoxes or mysteries which can easily
-be impugned in argument and as easily justified in life.
-One of them, for instance, is the [[Paradox|paradox]] of [[Hope|hope]] or [[Faith|faith]]--
-that the more hopeless is the situation the more hopeful must
-be the man.  Stevenson understood this, and consequently
-Mr. Moore cannot understand Stevenson.  Another is the [[Paradox|paradox]]
-of [[Charity|charity]] or chivalry that the weaker a thing is the more it
-should be respected, that the more indefensible a thing is
-the more it should appeal to us for a certain kind of defence.
-Thackeray understood this, and therefore Mr. Moore does
-not understand Thackeray.  Now, one of these very practical
-and working mysteries in the Christian tradition, and one which
-the Roman [[Catholic Church]], as I say, has done her best work
-in singling out, is the conception of the sinfulness of [[Pride|pride]].
-[[Pride]] is a weakness in the character; it dries up laughter,
-it dries up [[Wonder|wonder]], it dries up chivalry and energy.
-The Christian tradition understands this; therefore Mr. Moore
-does not understand the Christian tradition.
-
-For the [[Truth|truth]] is much stranger even than it appears in the formal
-doctrine of the sin of [[Pride|pride]].  It is not only true that
-[[Humility|humility]] is a much wiser and more vigorous thing than [[Pride|pride]].
-It is also true that [[Vanity|vanity]] is a much wiser and more
-vigorous thing than [[Pride|pride]].  [[Vanity]] is social--it is almost
-a kind of [[Comradeship|comradeship]]; [[Pride|pride]] is solitary and uncivilized.
-[[Vanity]] is active; it desires the applause of infinite multitudes;
-[[Pride|pride]] is passive, desiring only the applause of one person,
-which it already has.  [[Vanity]] is humorous, and can enjoy
-the joke even of itself; [[Pride|pride]] is dull, and cannot even smile.
-And the whole of this difference is the difference between
-Stevenson and Mr. George Moore, who, as he informs us,
-has "brushed Stevenson aside."  I do not know where he has been
-brushed to, but wherever it is I fancy he is having a good [[Time|time]],
-because he had the wisdom to be vain, and not proud.
-Stevenson had a windy [[Vanity|vanity]]; Mr. Moore has a dusty egoism.
-Hence Stevenson could amuse himself as [[Well|well]] as us with his [[Vanity|vanity]];
-while the richest effects of Mr. Moore's absurdity are hidden
-from his eyes.
-
-If we compare this solemn folly with the happy folly with which
-Stevenson belauds his own books and berates his own critics,
-we shall not find it difficult to guess why it is that Stevenson
-at least found a final [[philosophy]] of some sort to live by,
-while Mr. Moore is always walking the world looking for a new one.
-Stevenson had found that the secret of life lies in laughter and [[Humility|humility]].
-[[Self]] is the gorgon.  [[Vanity]] sees it in the [[Mirror|mirror]] of other men and lives.
-[[Pride]] studies it for itself and is turned to stone.
-
-It is necessary to dwell on this defect in Mr. Moore, because it
-is really the weakness of work which is not without its strength.
-Mr. Moore's egoism is not merely a moral weakness, it is a very constant
-and influential aesthetic weakness as [[Well|well]].  We should really be much more
-interested in Mr. Moore if he were not quite so interested in himself.
-We feel as if we were being shown through a gallery of really fine pictures,
-into each of which, by some useless and discordant convention,
-the [[Artist|artist]] had represented the same figure in the same attitude.
-"The Grand Canal with a distant view of Mr. Moore," "Effect of Mr. Moore
-through a Scotch Mist," "Mr. Moore by Firelight," "Ruins of Mr. Moore
-by Moonlight," and so on, seems to be the endless series.  He would no
-[[Doubt|doubt]] reply that in such a book as this he intended to reveal himself.
-But the answer is that in such a book as this he does not succeed.
-One of the thousand objections to the sin of [[Pride|pride]] lies precisely in this,
-that [[Self|self]]-consciousness of necessity destroys [[Self|self]]-revelation. A man
-who thinks a great deal about himself will try to be many-sided,
-attempt a theatrical excellence at all points, will try to be
-an encyclopaedia of culture, and his own real personality will be
-lost in that false universalism.  Thinking about himself will lead
-to trying to be the universe; trying to be the universe will lead
-to ceasing to be anything.  If, on the other hand, a man is sensible
-enough to think only about the universe; he will think about it
-in his own individual way.  He will keep virgin the secret of God;
-he will see the grass as no other man can see it, and look at a sun
-that no man has ever known.  This fact is very practically brought
-out in Mr. Moore's "Confessions."  In reading them we do not feel
-the presence of a clean-cut personality like that of Thackeray and
-Matthew Arnold.  We only read a number of quite clever and largely
-conflicting opinions which might be uttered by any clever person,
-but which we are called upon to admire specifically, because they are
-uttered by Mr. Moore.  He is the only thread that connects Catholicism
-and Protestantism, realism and mysticism--he or rather his name.
-He is profoundly absorbed even in views he no longer holds,
-and he expects us to be.  And he intrudes the capital "I" even
-where it need not be intruded--even where it weakens the force of a
-plain statement.  Where another man would say, "It is a fine day,"
-Mr. Moore says, "Seen through my temperament, the day appeared fine."
-Where another man would say "[[Milton]] has obviously a fine style,"
-Mr. Moore would say, "As a stylist [[Milton]] had always impressed me."
-The Nemesis of this [[Self|self]]-centred spirit is that of being
-totally ineffectual.  Mr. Moore has started many interesting [[Crusades|crusades]],
-but he has abandoned them before his disciples could begin.
-Even when he is on the side of the [[Truth|truth]] he is as fickle as the children
-of falsehood.  Even when he has found reality he cannot find rest.
-One Irish quality he has which no Irishman was ever without--pugnacity;
-and that is certainly a great virtue, especially in the present age.
-But he has not the tenacity of conviction which goes with the fighting
-spirit in a man like Bernard [[Shaw]].  His weakness of introspection
-and selfishness in all their glory cannot prevent him fighting;
-but they will always prevent him winning.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IX.  Gli umori del signor George Moore
-
-Il signor George Moore inaugurò la propria carriera letteraria scrivendo le sue confessioni personali; e non vi sarebbe stato alcun male in ciò, se non avesse continuato a scriverle per tutto il resto della vita. È uomo di mente genuinamente vigorosa e dotato di gran padronanza di una sorta di convinzione retorica e fuggevole che eccita e diletta. Vive in uno stato perpetuo di onestà provvisoria. Ha ammirato tutti i più mirabili eccentrici moderni finché essi non hanno più potuto sopportarlo. Tutto ciò che scrive, va pienamente riconosciuto, possiede una genuina forza intellettuale. Il resoconto delle ragioni per cui abbandonò la [[Catholic Church|Chiesa cattolica]] romana è forse il più mirabile tributo a quella comunione che sia stato scritto negli ultimi anni. Poiché il nocciolo della faccenda è che la debolezza la quale ha reso sterili i molti splendori del signor Moore è proprio quella debolezza che la [[Catholic Church|Chiesa cattolica]] romana meglio d'ogni altra sa combattere. Il signor Moore odia il cattolicesimo perché esso manda in frantumi la [[house|casa]] di specchi in cui egli vive. Al signor Moore non ripugna tanto che gli si chieda di credere nell'esistenza spirituale dei miracoli o dei sacramenti, quanto invece gli ripugna in modo profondo che gli si chieda di credere nell'esistenza reale delle altre persone. Come il suo maestro Pater e come tutti gli esteti, la sua vera contesa con la vita è che essa non è [[A Dream|un sogno]] che il sognatore possa plasmare a piacimento. Non è il dogma della realtà dell'altro mondo a tormentarlo, ma il dogma della realtà di questo mondo.
-
-La [[Truth|verità]] è che la tradizione del [[Christianity|Cristianesimo]] (che rimane l'unica etica coerente d'Europa) poggia su due o tre paradossi o misteri che è facile confutare nella discussione e altrettanto facile giustificare nella vita. Uno di essi, per esempio, è il [[Paradox|paradosso]] della [[Hope|speranza]] o della [[Faith|fede]]: che quanto più disperata è la situazione, tanto più speranzoso deve essere l'uomo. Stevenson lo comprese, e di conseguenza il signor Moore non riesce a comprendere Stevenson. Un altro è il [[Paradox|paradosso]] della [[Charity|carità]] o della cavalleria: che quanto più debole è una cosa, tanto più la si deve rispettare; che quanto più una cosa è indifendibile, tanto più deve reclamare da noi una certa specie di difesa. Thackeray lo comprese, e perciò il signor Moore non comprende Thackeray. Ora, uno di questi misteri assai pratici e operanti della tradizione cristiana, e uno di quelli che la [[Catholic Church|Chiesa cattolica]] romana, come dicevo, ha saputo isolare con la sua opera migliore, è la concezione della peccaminosità dell'[[Pride|orgoglio]]. L'[[Pride|orgoglio]] è una debolezza del carattere; dissecca il riso, dissecca lo [[Wonder|stupore]], dissecca la cavalleria e l'energia. La tradizione cristiana lo comprende; perciò il signor Moore non comprende la tradizione cristiana.
-
-Poiché la [[Truth|verità]] è ancora più singolare di quanto non appaia nella dottrina formale del peccato d'[[Pride|orgoglio]]. Non solo è vero che l'[[Humility|umiltà]] è cosa assai più saggia e vigorosa dell'[[Pride|orgoglio]]. È anche vero che la [[Vanity|vanità]] è cosa assai più saggia e vigorosa dell'[[Pride|orgoglio]]. La [[Vanity|vanità]] è sociale: è quasi una specie di [[Comradeship|cameratismo]]; l'[[Pride|orgoglio]] è solitario e incivile. La [[Vanity|vanità]] è attiva; desidera l'applauso di moltitudini infinite; l'[[Pride|orgoglio]] è passivo, e desidera soltanto l'applauso di una sola persona, che già possiede. La [[Vanity|vanità]] è spiritosa, e sa godere lo scherzo persino a proprie spese; l'[[Pride|orgoglio]] è ottuso, e non sa nemmeno sorridere. E tutta questa differenza è la differenza fra Stevenson e il signor George Moore, il quale, come egli stesso ci informa, ha «scostato Stevenson con un gesto della mano». Non so verso dove lo abbia scostato, ma ovunque sia immagino che stia trascorrendo un lieto [[Time|momento]], poiché ebbe la saggezza di essere vano, e non orgoglioso. Stevenson aveva una [[Vanity|vanità]] ventosa; il signor Moore ha un egoismo polveroso. Perciò Stevenson poteva divertire con la propria [[Vanity|vanità]] sé stesso [[Well|altrettanto]] bene di noi; mentre gli effetti più squisiti dell'assurdità del signor Moore restano nascosti ai suoi stessi occhi.
-
-Se paragoniamo questa solenne follia con la lieta follia con cui Stevenson tesse le lodi dei propri libri e strapazza i propri critici, non ci sarà difficile indovinare perché mai Stevenson, almeno, abbia infine trovato una qualche [[philosophy|filosofia]] su cui vivere, mentre il signor Moore va sempre errando per il mondo in cerca di una nuova. Stevenson aveva scoperto che il segreto della vita sta nel riso e nell'[[Humility|umiltà]]. Il [[Self|sé]] è la gòrgone. La [[Vanity|vanità]] la vede nello [[Mirror|specchio]] degli altri uomini e vive. L'[[Pride|orgoglio]] la contempla per sé stesso e resta tramutato in pietra.
-
-È necessario soffermarsi su questo difetto del signor Moore, perché esso è veramente la debolezza di un'opera che non è priva della sua forza. L'egoismo del signor Moore non è soltanto una debolezza morale, ma è [[Well|altresì]] una debolezza estetica assai costante e influente. In verità proveremmo molto più interesse per il signor Moore, se egli non fosse così interessato a sé stesso. Ci sentiamo come se ci facessero attraversare una galleria di quadri davvero pregevoli, in ciascuno dei quali, per una qualche convenzione inutile e stonata, l'[[Artist|artista]] avesse ritratto la medesima figura nel medesimo atteggiamento. «Il Canal Grande con una veduta lontana del signor Moore», «Effetto del signor Moore attraverso una nebbiolina scozzese», «Il signor Moore al chiaro di focolare», «Rovine del signor Moore al chiaro di luna», e così via, pare essere la serie senza fine. Egli senza [[Doubt|dubbio]] replicherebbe che in un libro come questo intendeva rivelare sé stesso. Ma la risposta è che in un libro come questo egli non vi riesce. Una delle mille obiezioni al peccato d'[[Pride|orgoglio]] sta appunto in questo, che la coscienza del [[Self|sé]] distrugge necessariamente la rivelazione del [[Self|sé]]. Un uomo che pensa moltissimo a sé stesso cercherà di essere sfaccettato, tenterà una teatrale eccellenza in ogni punto, cercherà di essere un'enciclopedia di cultura, e la sua vera personalità andrà perduta in quel falso universalismo. Pensare a sé stesso lo condurrà a tentare di essere l'universo; tentare di essere l'universo lo condurrà a cessare di essere alcunché. Se, d'altra parte, un uomo è tanto assennato da pensare soltanto all'universo, penserà ad esso a suo proprio, individuale modo. Custodirà vergine il segreto di Dio; vedrà l'erba come nessun altro sa vederla, e guarderà un sole che nessun uomo ha mai conosciuto. Questo fatto emerge molto praticamente dalle «Confessions» del signor Moore. Leggendole non avvertiamo la presenza di una personalità netta e definita come quella di Thackeray e di Matthew Arnold. Leggiamo soltanto una serie di opinioni assai argute e in gran parte contraddittorie, che qualunque persona arguta potrebbe pronunciare, ma che siamo chiamati ad ammirare precisamente perché le pronuncia il signor Moore. Egli è l'unico filo che collega cattolicesimo e protestantesimo, realismo e misticismo: egli, o piuttosto il suo nome. È profondamente assorto perfino in opinioni che ormai non sostiene più, e si aspetta che lo siamo anche noi. E introduce l'«io» maiuscolo persino là dove non occorre introdurlo, persino là dove esso indebolisce la forza di una semplice affermazione. Dove un altro uomo direbbe: «È una bella giornata», il signor Moore dice: «Vista attraverso il mio temperamento, la giornata appariva bella». Dove un altro uomo direbbe: «[[Milton]] ha evidentemente uno stile pregevole», il signor Moore direbbe: «Come stilista, [[Milton]] mi aveva sempre colpito». La Nèmesi di questo spirito incentrato sul [[Self|sé]] è quella di essere totalmente inefficace. Il signor Moore ha avviato molte interessanti [[Crusades|crociate]], ma le ha abbandonate prima ancora che i suoi discepoli potessero cominciarle. Perfino quando sta dalla parte della [[Truth|verità]] è volubile come i figli della menzogna. Perfino quando ha trovato la realtà non sa trovare quiete. Possiede una qualità irlandese di cui nessun irlandese fu mai privo: la combattività; e questa è certamente una gran virtù, specie nell'età presente. Ma non possiede quella tenacia di convinzione che si accompagna allo spirito battagliero in un uomo come Bernard [[Shaw]]. La sua debolezza fatta d'introspezione e di egoismo in tutto il loro splendore non può impedirgli di combattere; ma gli impedirà sempre di vincere.
-
-
-
-<span class="atom-split" data-atom="story_09_on_sandals_and_simplicity" data-title="Heretics — On Sandals and Simplicity" data-chapter="On Sandals and Simplicity" data-kind="story"></span>
-
-
-X. On Sandals and Simplicity
-
-The great misfortune of the modern English is not at all that they are more
-boastful than other people (they are not); it is that they are boastful
-about those particular things which nobody can boast of without losing them.
-A Frenchman can be proud of being bold and logical, and still remain bold
-and logical.  A German can be proud of being reflective and orderly,
-and still remain reflective and orderly.  But an Englishman cannot be
-proud of being simple and direct, and still remain simple and direct.
-In the matter of these strange virtues, to know them is to kill them.
-A man may be conscious of being heroic or conscious of being divine,
-but he cannot (in spite of all the Anglo-Saxon poets) be conscious
-of being unconscious.
-
-Now, I do not think that it can be honestly denied that
-some portion of this impossibility attaches to a class
-very different in their own opinion, at least, to the school
-of Anglo-Saxonism. I mean that school of the simple life,
-commonly associated with [[tolstoy|Tolstoy]].  If a perpetual talk about
-one's own robustness leads to being less robust, it is even
-more true that a perpetual talking about one's own simplicity
-leads to being less simple.  One great complaint, I think,
-must stand against the modern upholders of the simple life--
-the simple life in all its varied forms, from vegetarianism
-to the honourable consistency of the Doukhobors.  This complaint
-against them stands, that they would make us simple in
-the unimportant things, but complex in the important things.
-They would make us simple in the things that do not matter--
-that is, in diet, in costume, in etiquette, in economic system.
-But they would make us complex in the things that do matter--
-in [[philosophy]], in loyalty, in spiritual acceptance,
-and spiritual rejection.  It does not so very much matter whether
-a man eats a grilled tomato or a plain tomato; it does very much
-matter whether he eats a plain tomato with a grilled mind.
-The only kind of simplicity worth preserving is the simplicity
-of the heart, the simplicity which accepts and enjoys.
-There may be a reasonable [[Doubt|doubt]] as to what system preserves this;
-there can surely be no [[Doubt|doubt]] that a system of simplicity destroys it.
-There is more simplicity in the man who eats caviar on
-impulse than in the man who eats grape-nuts on principle.
-The chief error of these people is to be found in the very phrase
-to which they are most attached--"plain living and high thinking."
-These people do not stand in need of, will not be improved by,
-plain living and high thinking.  They stand in need of the contrary.
-They would be improved by high living and plain thinking.
-A little high living (I say, having a full sense of responsibility,
-a little high living) would teach them the force and meaning
-of the human festivities, of the banquet that has gone on from
-the beginning of the world.  It would teach them the historic fact
-that the artificial is, if anything, older than the natural.
-It would teach them that the loving-cup is as old as any hunger.
-It would teach them that ritualism is older than any religion.
-And a little plain thinking would teach them how harsh and
-fanciful are the mass of their own ethics, how very civilized
-and very complicated must be the brain of the Tolstoyan who
-really believes it to be evil to [[Love|love]] one's country and wicked
-to strike a blow.
-
-A man approaches, wearing sandals and simple raiment, a raw tomato
-held firmly in his right hand, and says, "The affections of family and
-country alike are hindrances to the fuller development of human [[Love|love]];"
-but the plain thinker will only answer him, with a [[Wonder|wonder]] not untinged
-with admiration, "What a great deal of trouble you must have taken
-in order to feel like that."  High living will reject the tomato.
-Plain thinking will equally decisively reject the idea of the invariable
-sinfulness of war.  High living will convince us that nothing is
-more materialistic than to despise a pleasure as purely material.
-And plain thinking will convince us that nothing is more materialistic
-than to reserve our horror chiefly for material wounds.
-
-The only simplicity that matters is the simplicity of the heart.
-If that be gone, it can be brought back by no turnips or
-cellular clothing; but only by [[Tears|tears]] and terror and the fires
-that are not quenched.  If that remain, it matters very little
-if a few Early Victorian armchairs remain along with it.
-Let us put a complex entree into a simple old gentleman;
-let us not put a simple entree into a complex old gentleman.
-So long as human society will leave my spiritual inside [[Alone|alone]],
-I will allow it, with a comparative submission, to work its wild
-will with my physical interior.  I will submit to cigars.
-I will meekly embrace a bottle of Burgundy.  I will humble myself
-to a hansom cab.  If only by this means I may preserve to myself
-the virginity of the spirit, which enjoys with astonishment and [[Fear|fear]].
-I do not say that these are the only methods of preserving it.
-I incline to the belief that there are others.  But I will have
-nothing to do with simplicity which lacks the [[Fear|fear]], the astonishment,
-and the joy alike.  I will have nothing to do with the devilish
-vision of a [[Child|child]] who is too simple to like toys.
-
-The [[Child|child]] is, indeed, in these, and many other matters, the best guide.
-And in nothing is the [[Child|child]] so righteously childlike, in nothing
-does he exhibit more accurately the sounder order of simplicity,
-than in the fact that he sees everything with a simple pleasure,
-even the complex things.  The false type of naturalness harps
-always on the distinction between the natural and the artificial.
-The higher kind of naturalness ignores that distinction.
-To the [[Child|child]] the tree and the lamp-post are as natural and as
-artificial as each other; or rather, neither of them are natural
-but both [[Supernatural|supernatural]].  For both are splendid and unexplained.
-The flower with which God crowns the one, and the flame with which
-Sam the lamplighter crowns the other, are equally of the gold
-of fairy-tales. In the middle of the wildest fields the most rustic
-[[Child|child]] is, ten to one, playing at steam-engines. And the only spiritual
-or philosophical objection to steam-engines is not that men pay
-for them or work at them, or make them very ugly, or even that men
-are killed by them; but merely that men do not play at them.
-The evil is that the childish poetry of clockwork does not remain.
-The wrong is not that engines are too much admired, but that they
-are not admired enough.  The sin is not that engines are mechanical,
-but that men are mechanical.
-
-In this matter, then, as in all the other matters treated
-in this book, our main conclusion is that it is a fundamental
-point of view, a [[philosophy]] or religion which is needed,
-and not any change in habit or social routine.  The things we
-need most for immediate practical purposes are all abstractions.
-We need a right view of the human lot, a right view of
-the human society; and if we were living eagerly and angrily
-in the enthusiasm of those things, we should, ipso facto,
-be living simply in the genuine and spiritual sense.
-[[Desire]] and danger make every one simple.  And to those who talk to us
-with interfering eloquence about Jaeger and the pores of the skin,
-and about Plasmon and the coats of the stomach, at them shall
-only be hurled the words that are hurled at fops and gluttons,
-"Take no thought what ye shall eat or what ye shall drink,
-or wherewithal ye shall be clothed.  For after all these things
-do the Gentiles seek.  But seek first the kingdom of God and
-His righteousness, and all these things shall be added unto you."
-Those amazing words are not only extraordinarily good,
-practical politics; they are also superlatively good hygiene.
-The one supreme way of making all those processes go right,
-the processes of health, and strength, and grace, and [[Beauty|beauty]],
-the one and only way of making certain of their accuracy,
-is to think about something else.  If a man is bent on climbing into
-the seventh heaven, he may be quite easy about the pores of his skin.
-If he harnesses his waggon to a star, the process will have
-a most satisfactory effect upon the coats of his stomach.
-For the thing called "taking thought," the thing for which
-the best modern word is "rationalizing," is in its [[Nature|nature]],
-inapplicable to all plain and urgent things.  Men take
-thought and ponder rationalistically, touching remote things--
-things that only theoretically matter, such as the transit
-of [[Venus]].  But only at their peril can men rationalize about
-so practical a matter as health.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-X. Dei sandali e della semplicità
-
-La grande sventura degl'Inglesi moderni non è affatto che siano più
-vanagloriosi degli altri popoli (non lo sono); è che si vantano
-proprio di quelle particolari cose delle quali nessuno può vantarsi senza perderle.
-Un Francese può andar fiero d'essere audace e logico, e rimanere pur sempre
-audace e logico. Un Tedesco può andar fiero d'essere riflessivo e ordinato,
-e rimanere pur sempre riflessivo e ordinato. Ma un Inglese non può
-andar fiero d'essere semplice e diretto, e rimanere pur sempre semplice e diretto.
-In fatto di queste strane virtù, conoscerle è ucciderle.
-Un uomo può essere consapevole d'essere eroico o consapevole d'essere divino,
-ma non può (a dispetto di tutti i poeti anglosassoni) essere consapevole
-d'essere inconsapevole.
-
-Ora, non credo si possa onestamente negare che
-qualche porzione di questa impossibilità si attacchi a una classe
-molto diversa, almeno nella propria opinione, dalla scuola
-dell'anglosassonismo. Intendo quella scuola della vita semplice,
-comunemente associata a [[tolstoy|Tolstoj]]. Se un perpetuo parlare della
-propria robustezza conduce a essere meno robusti, è ancor
-più vero che un perpetuo parlare della propria semplicità
-conduce a essere meno semplici. Una grande accusa, credo,
-deve levarsi contro i moderni fautori della vita semplice --
-la vita semplice in tutte le sue varie forme, dal vegetarianismo
-all'onorevole coerenza dei Duchobori. Questa accusa
-contro di loro si regge su questo, che ci renderebbero semplici nelle
-cose senza importanza, ma complessi nelle cose che contano.
-Ci renderebbero semplici nelle cose che non importano --
-cioè nella dieta, nel vestire, nell'etichetta, nel sistema economico.
-Ma ci renderebbero complessi nelle cose che importano --
-nella [[philosophy|filosofia]], nella fedeltà, nell'accettazione spirituale,
-e nel rifiuto spirituale. Non importa poi molto se
-un uomo mangi un pomodoro alla griglia o un pomodoro semplice; importa moltissimo
-invece se mangi un pomodoro semplice con una mente alla griglia.
-L'unica specie di semplicità che valga la pena di conservare è la semplicità
-del cuore, la semplicità che accetta e gode.
-Vi può essere un ragionevole [[Doubt|dubbio]] su quale sistema la preservi;
-non vi può certo essere alcun [[Doubt|dubbio]] che un sistema di semplicità la distrugga.
-Vi è più semplicità nell'uomo che mangia caviale per
-impulso che nell'uomo che mangia fiocchi d'uva per principio.
-L'errore capitale di questa gente si ritrova proprio nella frase
-alla quale è più affezionata -- «vivere povero e pensare alto».
-Questa gente non ha bisogno, né trarrebbe alcun miglioramento, dal
-vivere povero e pensare alto. Ha bisogno del contrario.
-Trarrebbe miglioramento dal vivere alto e pensare povero.
-Un poco di vita alta (lo dico, avendo piena coscienza della responsabilità,
-un poco di vita alta) insegnerebbe loro la forza e il significato
-delle festività umane, del banchetto che si perpetua fin dal
-principio del mondo. Insegnerebbe loro il fatto storico
-che l'artificiale è, semmai, più antico del naturale.
-Insegnerebbe loro che la coppa dell'amore è antica quanto ogni fame.
-Insegnerebbe loro che il ritualismo è più antico d'ogni religione.
-E un poco di pensiero povero insegnerebbe loro quanto aspra e
-fantasiosa sia la massa della loro stessa etica, quanto molto civilizzato
-e molto complicato debba essere il cervello del tolstoiano che
-crede davvero essere un male [[Love|amare]] la propria patria e cosa iniqua
-il vibrare un colpo.
-
-Un uomo s'avvicina, in sandali e semplice veste, un pomodoro crudo
-saldamente stretto nella destra, e dice: «Gli affetti della famiglia e
-della patria del pari sono ostacoli al più pieno sviluppo dell'[[Love|amore]] umano»;
-ma il pensatore povero gli risponderà soltanto, con una [[Wonder|meraviglia]] non priva
-d'ammirazione: «Quanto disturbo dovete esservi preso
-per arrivare a sentire così». La vita alta rifiuterà il pomodoro.
-Il pensiero povero rifiuterà con eguale decisione l'idea dell'invariabile
-peccaminosità della guerra. La vita alta ci convincerà che nulla è
-più materialistico che disprezzare un piacere in quanto puramente materiale.
-E il pensiero povero ci convincerà che nulla è più materialistico
-che riservare il nostro orrore principalmente alle ferite materiali.
-
-L'unica semplicità che importi è la semplicità del cuore.
-Se quella se n'è andata, non la si può richiamare con rape o
-vestiti di tessuto cellulare; ma soltanto con [[Tears|lacrime]] e terrore e i fuochi
-che non si spengono. Se quella rimane, importa assai poco
-che qualche poltrona di primo stile vittoriano rimanga insieme a lei.
-Mettiamo un complesso intingolo dentro un semplice vecchio signore;
-non mettiamo un semplice intingolo dentro un complesso vecchio signore.
-Finché la società umana lascerà in [[Alone|pace]] il mio interno spirituale,
-le permetterò, con relativa sottomissione, di operare la sua sfrenata
-volontà sul mio interno fisico. Mi sottometterò ai sigari.
-Abbraccerò mansueto una bottiglia di Borgogna. Mi umilierò
-fino a una carrozza da nolo. Se solo per questo mezzo io possa conservare
-la verginità dello spirito, che gode con stupore e [[Fear|paura]].
-Non dico che questi siano gli unici metodi per conservarla.
-Inclino a credere che ve ne siano altri. Ma non voglio aver
-nulla a che fare con una semplicità cui manchino la [[Fear|paura]], lo stupore,
-e la gioia del pari. Non voglio aver nulla a che fare con la diabolica
-visione d'un [[Child|bambino]] troppo semplice per amare i balocchi.
-
-Il [[Child|bambino]] è, in verità, in queste e in molte altre faccende, la miglior guida.
-E in nulla il [[Child|bambino]] è così giustamente fanciullesco, in nulla
-esibisce con più esattezza l'ordine più sano della semplicità,
-quanto nel fatto che egli vede ogni cosa con un semplice piacere,
-persino le cose complesse. Il falso tipo di naturalezza insiste
-sempre sulla distinzione tra il naturale e l'artificiale.
-La specie più alta di naturalezza ignora quella distinzione.
-Per il [[Child|bambino]] l'albero e il lampione sono naturali e
-artificiali l'uno quanto l'altro; o piuttosto, nessuno dei due è naturale
-ma entrambi [[Supernatural|soprannaturali]]. Poiché entrambi sono splendidi e inspiegati.
-Il fiore con cui Dio corona l'uno, e la fiamma con cui
-Sam il lampionaio corona l'altro, sono egualmente dell'oro
-delle fiabe. In mezzo ai più selvaggi campi il più rustico
-[[Child|bambino]] sta, dieci a uno, giocando alle locomotive a vapore. E l'unica obiezione spirituale
-o filosofica alle locomotive a vapore non è che gli uomini le paghino
-o vi lavorino, o le facciano bruttissime, e neppure che gli uomini
-ne siano uccisi; ma soltanto che gli uomini non ci giocano.
-Il male è che la poesia fanciullesca del meccanismo a molla non permane.
-Il torto non è che le macchine siano troppo ammirate, ma che
-non siano ammirate abbastanza. Il peccato non è che le macchine siano meccaniche,
-ma che gli uomini siano meccanici.
-
-In questa faccenda, dunque, come in tutte le altre faccende trattate
-in questo libro, la nostra conclusione principale è che ciò che occorre è un
-punto di vista fondamentale, una [[philosophy|filosofia]] o una religione,
-e non un qualche mutamento d'abitudine o di consuetudine sociale. Le cose di cui
-abbiamo più bisogno per gli immediati scopi pratici sono tutte astrazioni.
-Abbiamo bisogno d'una giusta visione della sorte umana, d'una giusta visione della
-società umana; e se vivessimo avidamente e collericamente
-nell'entusiasmo di quelle cose, vivremmo, ipso facto,
-semplicemente nel senso genuino e spirituale.
-Il [[Desire|desiderio]] e il pericolo rendono chiunque semplice. E a coloro che ci parlano
-con intromettente eloquenza del Jaeger e dei pori della pelle,
-e del Plasmon e delle pareti dello stomaco, ad essi non saranno
-scagliate se non le parole che si scagliano contro i bellimbusti e i ghiottoni:
-«Non datevi pensiero di che cosa mangerete o di che cosa berrete,
-o di che cosa vi vestirete. Poiché di tutte queste cose
-vanno in cerca i Gentili. Ma cercate prima il regno di Dio e
-la Sua giustizia, e tutte queste cose vi saranno date in aggiunta».
-Quelle sorprendenti parole non sono soltanto una straordinariamente buona,
-pratica politica; sono anche una superlativamente buona igiene.
-L'unico modo supremo di far andare per il verso giusto tutti quei processi,
-i processi della salute, e della forza, e della grazia, e della [[Beauty|bellezza]],
-l'unico e solo modo d'esser certi della loro precisione,
-è pensare a qualcos'altro. Se un uomo è deciso a inerpicarsi fino al
-settimo cielo, può stare del tutto tranquillo sui pori della sua pelle.
-Se aggioga il proprio carro a una stella, il procedimento avrà
-un effetto quanto mai soddisfacente sulle pareti del suo stomaco.
-Poiché quel che si chiama «darsi pensiero», la cosa per cui
-il miglior termine moderno è «razionalizzare», è per sua [[Nature|natura]]
-inapplicabile a tutte le cose piane e urgenti. Gli uomini si danno
-pensiero e ponderano razionalisticamente, toccando cose remote --
-cose che solo teoricamente importano, come il transito
-di [[Venus|Venere]]. Ma solo a loro rischio e pericolo possono gli uomini razionalizzare su
-una faccenda tanto pratica quanto la salute.
-
-
-
-<span class="atom-split" data-atom="story_12_celts_and_celtophiles" data-title="Heretics — Celts and Celtophiles" data-chapter="Celts and Celtophiles" data-kind="story"></span>
-
-
-XIII.  Celts and Celtophiles
-
-Science in the modern world has many uses; its chief use, however,
-is to provide long words to cover the errors of the rich.
-The word "kleptomania" is a vulgar example of what I mean.
-It is on a par with that strange theory, always advanced
-when a wealthy or prominent person is in the dock,
-that exposure is more of a punishment for the rich than
-for the poor.  Of course, the very reverse is the [[Truth|truth]].
-Exposure is more of a punishment for the poor than for the rich.
-The richer a man is the easier it is for him to be a tramp.
-The richer a man is the easier it is for him to be popular
-and generally respected in the Cannibal Islands.  But the poorer
-a man is the more likely it is that he will have to use
-his past life whenever he wants to get a bed for the [[Night|night]].
-[[Honour]] is a luxury for aristocrats, but it is a necessity
-for hall-porters. This is a secondary matter, but it is an
-example of the general proposition I offer--the proposition
-that an enormous amount of modern ingenuity is expended on
-finding defences for the indefensible conduct of the powerful.
-As I have said above, these defences generally exhibit themselves
-most emphatically in the form of appeals to physical science.
-And of all the forms in which science, or pseudo-science,
-has come to the rescue of the rich and stupid, there is none
-so singular as the singular invention of the theory of races.
-
-When a wealthy nation like the English discovers the perfectly patent fact
-that it is making a ludicrous mess of the [[government]] of a poorer nation
-like the Irish, it pauses for a moment in consternation, and then begins
-to talk about Celts and Teutons.  As far as I can understand the theory,
-the Irish are Celts and the English are Teutons.  Of course, the Irish
-are not Celts any more than the English are Teutons.  I have not followed
-the ethnological discussion with much energy, but the last scientific
-conclusion which I read inclined on the whole to the summary that the English
-were mainly Celtic and the Irish mainly Teutonic.  But no man alive,
-with even the glimmering of a real scientific sense, would ever dream
-of applying the terms "Celtic" or "Teutonic" to either of them in any
-positive or useful sense.
-
-That sort of thing must be left to people who talk about the
-Anglo-Saxon race, and extend the expression to [[America]].  How much
-of the [[Blood|blood]] of the Angles and Saxons (whoever they were)
-there remains in our mixed British, Roman, German, Dane, Norman,
-and Picard stock is a matter only interesting to wild antiquaries.
-And how much of that diluted [[Blood|blood]] can possibly remain
-in that roaring whirlpool of [[America]] into which a cataract
-of Swedes, Jews, Germans, Irishmen, and Italians is
-perpetually pouring, is a matter only interesting to lunatics.
-It would have been wiser for the English governing class
-to have called upon some other god.  All other gods,
-however weak and warring, at least boast of being constant.
-But science boasts of being in a flux for ever; boasts of being
-unstable as [[Water|water]].
-
-And England and the English governing class never did call
-on this absurd deity of race until it seemed, for an instant,
-that they had no other god to call on.  All the most genuine
-Englishmen in [[history]] would have yawned or laughed in your face
-if you had begun to talk about Anglo-Saxons. If you had attempted
-to substitute the ideal of race for the ideal of nationality,
-I really do not like to think what they would have said.
-I certainly should not like to have been the officer of
-Nelson who suddenly discovered his French [[Blood|blood]] on the eve
-of Trafalgar.  I should not like to have been the Norfolk
-or Suffolk gentleman who had to expound to Admiral Blake
-by what demonstrable ties of genealogy he was irrevocably bound
-to the Dutch.  The [[Truth|truth]] of the whole matter is very simple.
-Nationality exists, and has nothing in the world to do with race.
-Nationality is a thing like a church or a secret society; it is
-a product of the human [[Soul|soul]] and will; it is a spiritual product.
-And there are men in the modern world who would think anything
-and do anything rather than admit that anything could be
-a spiritual product.
-
-A nation, however, as it confronts the modern world, is a purely
-spiritual product.  Sometimes it has been born in independence,
-like Scotland.  Sometimes it has been born in dependence,
-in subjugation, like Ireland.  Sometimes it is a large thing cohering
-out of many smaller things, like [[Italy]].  Sometimes it is a small
-thing breaking away from larger things, like Poland.  But in each
-and every case its quality is purely spiritual, or, if you will,
-purely psychological.  It is a moment when five men become
-a sixth man.  Every one knows it who has ever founded a club.
-It is a moment when five places become one place.
-Every one must know it who has ever had to repel an invasion.
-Mr. Timothy Healy, the most serious intellect in the present
-[[house|House]] of Commons, summed up nationality to perfection when
-he simply called it something for which people will die.
-As he excellently said in reply to Lord Hugh Cecil, "No one,
-not even the noble lord, would die for the meridian
-of Greenwich."  And that is the great tribute to its purely
-psychological character.  It is idle to ask why Greenwich should
-not cohere in this spiritual manner while Athens or Sparta did.
-It is like asking why a man falls in [[Love|love]] with one woman
-and not with another.
-
-Now, of this great spiritual coherence, independent of
-external circumstances, or of race, or of any obvious
-physical thing, Ireland is the most remarkable example.
-Rome conquered nations, but Ireland has conquered races.
-The Norman has gone there and become Irish, the Scotchman has
-gone there and become Irish, the Spaniard has gone there and
-become Irish, even the bitter soldier of Cromwell has gone there
-and become Irish.  Ireland, which did not exist even politically,
-has been stronger than all the races that existed scientifically.
-The purest Germanic [[Blood|blood]], the purest Norman [[Blood|blood]], the purest
-[[Blood|blood]] of the passionate Scotch patriot, has not been so attractive
-as a nation without a [[Flag|flag]].  Ireland, unrecognized and oppressed,
-has easily absorbed races, as such trifles are easily absorbed.
-She has easily disposed of physical science, as such
-superstitions are easily disposed of.  Nationality in its
-weakness has been stronger than ethnology in its strength.
-Five triumphant races have been absorbed, have been defeated
-by a defeated nationality.
-
-This being the true and strange glory of Ireland, it is impossible
-to hear without impatience of the attempt so constantly
-made among her modern sympathizers to talk about Celts
-and Celticism.  Who were the Celts?  I defy anybody to say.
-Who are the Irish?  I defy any one to be indifferent, or to
-pretend not to know.  Mr. W. B. Yeats, the great Irish genius
-who has appeared in our [[Time|time]], shows his own admirable penetration
-in discarding altogether the argument from a Celtic race.
-But he does not wholly escape, and his followers hardly
-ever escape, the general objection to the Celtic argument.
-The tendency of that argument is to represent the Irish or the Celts
-as a strange and separate race, as a tribe of eccentrics in
-the modern world immersed in dim legends and fruitless [[Dreams|dreams]].
-Its tendency is to exhibit the Irish as odd, because they see
-the fairies.  Its trend is to make the Irish seem weird and wild
-because they sing old [[songs]] and join in strange dances.
-But this is quite an error; indeed, it is the opposite of the [[Truth|truth]].
-It is the English who are odd because they do not see the fairies.
-It is the inhabitants of Kensington who are weird and wild
-because they do not sing old [[songs]] and join in strange dances.
-In all this the Irish are not in the least strange and separate, are
-not in the least Celtic, as the word is commonly and popularly used.
-In all this the Irish are simply an ordinary sensible nation,
-living the life of any other ordinary and sensible nation
-which has not been either sodden with smoke or oppressed by
-money-lenders, or otherwise corrupted with wealth and science.
-There is nothing Celtic about having legends.  It is merely human.
-The Germans, who are (I suppose) Teutonic, have hundreds
-of legends, wherever it happens that the Germans are human.
-There is nothing Celtic about loving poetry; the English
-loved poetry more, perhaps, than any other people before they
-came under the [[Shadow|shadow]] of the chimney-pot and the [[Shadow|shadow]] of
-the chimney-pot hat.  It is not Ireland which is mad and mystic;
-it is Manchester which is mad and mystic, which is incredible,
-which is a wild exception among human things.  Ireland has
-no need to play the silly game of the science of races;
-Ireland has no need to pretend to be a tribe of visionaries apart.
-In the matter of visions, Ireland is more than a nation,
-it is a model nation.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-XIII.  Celti e celtofili
-
-La scienza, nel mondo moderno, ha molti usi; il suo uso principale, tuttavia,
-è quello di fornire paroloni per coprire gli errori dei ricchi.
-La parola «cleptomania» è un volgare esempio di ciò che intendo.
-Sta sullo stesso piano di quella strana teoria, sempre avanzata
-quando una persona facoltosa o eminente si trova sul banco degli imputati,
-secondo cui la pubblica esposizione sarebbe una punizione più grave per i ricchi che
-per i poveri.  Naturalmente è vero l'esatto contrario, la pura [[Truth|verità]].
-La pubblica esposizione è una punizione più grave per i poveri che per i ricchi.
-Più un uomo è ricco, più gli è facile fare il vagabondo.
-Più un uomo è ricco, più gli è facile essere popolare
-e generalmente rispettato nelle Isole dei Cannibali.  Ma più un uomo
-è povero, più è probabile che debba servirsi
-del proprio passato ogni volta che voglia procurarsi un letto per la [[Night|notte]].
-L'[[Honour|onore]] è un lusso per gli aristocratici, ma è una necessità
-per i portinai. Questa è una questione secondaria, ma è un
-esempio della proposizione generale che avanzo: la proposizione
-che un'enorme quantità dell'ingegno moderno viene spesa
-per trovare difese all'indifendibile condotta dei potenti.
-Come ho detto sopra, tali difese generalmente si manifestano
-nella forma più enfatica come appelli alla scienza fisica.
-E di tutte le forme in cui la scienza, o la pseudoscienza,
-è accorsa in soccorso dei ricchi e degli stupidi, non ve n'è
-alcuna tanto singolare quanto la singolare invenzione della teoria delle razze.
-
-Quando una nazione ricca come quella inglese scopre il fatto perfettamente palese
-che sta facendo un pasticcio ridicolo nel [[government|governo]] di una nazione più povera
-come quella irlandese, si arresta per un istante costernata, e poi comincia
-a parlare di celti e teutoni.  Per quanto io possa capire questa teoria,
-gli irlandesi sarebbero celti e gli inglesi teutoni.  Naturalmente gli irlandesi
-non sono celti più di quanto gli inglesi siano teutoni.  Non ho seguito
-la discussione etnologica con molta energia, ma l'ultima conclusione
-scientifica che ho letto propendeva nel complesso per il riassunto secondo cui gli inglesi
-sarebbero in prevalenza celtici e gli irlandesi in prevalenza teutonici.  Ma nessun uomo vivente,
-che possieda anche solo un barlume di vero senso scientifico, si sognerebbe mai
-di applicare i termini «celtico» o «teutonico» all'uno o all'altro in un
-qualsiasi senso positivo o utile.
-
-Quel genere di cose va lasciato a chi parla della
-razza anglosassone, ed estende l'espressione all'[[America]].  Quanto
-[[Blood|sangue]] degli angli e dei sassoni (chiunque essi fossero)
-rimanga nel nostro miscuglio di stirpe britannica, romana, germanica, danese, normanna
-e piccarda, è cosa che interessa soltanto agli antiquari più stravaganti.
-E quanto di quel [[Blood|sangue]] diluito possa mai rimanere
-in quel ruggente vortice d'[[America]] entro il quale una cateratta
-di svedesi, ebrei, tedeschi, irlandesi e italiani si
-riversa perpetuamente, è cosa che interessa soltanto ai pazzi.
-Sarebbe stato più saggio, per la classe dirigente inglese,
-invocare qualche altro dio.  Tutti gli altri dèi,
-per quanto deboli e in guerra fra loro, si vantano almeno di essere costanti.
-Ma la scienza si vanta di essere in perpetuo flusso; si vanta di essere
-instabile come l'[[Water|acqua]].
-
-E l'Inghilterra e la sua classe dirigente non invocarono mai
-questa assurda divinità della razza finché non parve, per un istante,
-che non avessero altro dio da invocare.  Tutti gli inglesi più autentici
-della [[history|storia]] avrebbero sbadigliato o vi avrebbero riso in faccia
-se aveste cominciato a parlare di anglosassoni. Se aveste tentato
-di sostituire l'ideale della razza all'ideale della nazionalità,
-davvero non mi piace pensare a ciò che avrebbero detto.
-Certo non mi sarebbe piaciuto essere l'ufficiale di
-Nelson che alla vigilia di Trafalgar avesse scoperto d'un tratto il proprio [[Blood|sangue]] francese.
-Non mi sarebbe piaciuto essere il gentiluomo del Norfolk
-o del Suffolk che dovesse spiegare all'ammiraglio Blake
-per quali dimostrabili vincoli di genealogia egli fosse irrevocabilmente legato
-agli olandesi.  La [[Truth|verità]] di tutta la faccenda è molto semplice.
-La nazionalità esiste, e non ha nulla al mondo a che fare con la razza.
-La nazionalità è una cosa simile a una chiesa o a una società segreta; è
-un prodotto dell'[[Soul|anima]] e della volontà umana; è un prodotto spirituale.
-E vi sono uomini nel mondo moderno che penserebbero qualunque cosa
-e farebbero qualunque cosa piuttosto che ammettere che qualcosa possa essere
-un prodotto spirituale.
-
-Una nazione, tuttavia, nel modo in cui si presenta al mondo moderno, è un prodotto puramente
-spirituale.  Talvolta è nata nell'indipendenza,
-come la Scozia.  Talvolta è nata nella dipendenza,
-nel soggiogamento, come l'Irlanda.  Talvolta è una cosa grande che si coagula
-a partire da molte cose più piccole, come l'[[Italy|Italia]].  Talvolta è una cosa piccola
-che si stacca da cose più grandi, come la Polonia.  Ma in ciascun
-caso, e in ogni caso, la sua qualità è puramente spirituale, o, se volete,
-puramente psicologica.  È il momento in cui cinque uomini diventano
-un sesto uomo.  Lo sa chiunque abbia mai fondato un club.
-È il momento in cui cinque luoghi diventano un solo luogo.
-Deve saperlo chiunque abbia mai dovuto respingere un'invasione.
-Il signor Timothy Healy, l'intelletto più serio dell'attuale
-Camera dei Comuni ([[house|House]] of Commons), riassunse alla perfezione la nazionalità quando
-la definì semplicemente qualcosa per cui la gente è disposta a morire.
-Come ebbe egregiamente a dire in risposta a Lord Hugh Cecil, «Nessuno,
-neppure il nobile lord, morirebbe per il meridiano
-di Greenwich».  E questo è il grande tributo al suo carattere puramente
-psicologico.  È ozioso chiedersi perché Greenwich non dovrebbe
-coagularsi in questa maniera spirituale, mentre Atene o Sparta lo fecero.
-È come chiedersi perché un uomo si innamori di una donna e non di
-un'altra, cadendo nell'[[Love|amore]] per l'una e non per l'altra.
-
-Ora, di questa grande coerenza spirituale, indipendente da
-circostanze esterne, o dalla razza, o da qualsiasi ovvia
-cosa fisica, l'Irlanda è l'esempio più notevole.
-Roma conquistò nazioni, ma l'Irlanda ha conquistato razze.
-Il normanno vi è andato ed è diventato irlandese, lo scozzese vi è
-andato ed è diventato irlandese, lo spagnolo vi è andato ed è
-diventato irlandese, perfino l'aspro soldato di Cromwell vi è andato
-ed è diventato irlandese.  L'Irlanda, che non esisteva neppure politicamente,
-è stata più forte di tutte le razze che esistevano scientificamente.
-Il più puro [[Blood|sangue]] germanico, il più puro [[Blood|sangue]] normanno, il più puro
-[[Blood|sangue]] dell'appassionato patriota scozzese, non è stato tanto attraente
-quanto una nazione senza [[Flag|bandiera]].  L'Irlanda, misconosciuta e oppressa,
-ha assorbito con facilità le razze, come si assorbono con facilità simili inezie.
-Si è sbarazzata con facilità della scienza fisica, come ci si sbarazza
-con facilità di simili superstizioni.  La nazionalità nella sua
-debolezza è stata più forte dell'etnologia nella sua forza.
-Cinque razze trionfanti sono state assorbite, sono state sconfitte
-da una nazionalità sconfitta.
-
-Poiché questa è la vera e strana gloria dell'Irlanda, è impossibile
-udire senza impazienza il tentativo, così costantemente
-compiuto tra i suoi simpatizzanti moderni, di parlare di celti
-e di celticismo.  Chi erano i celti?  Sfido chiunque a dirlo.
-Chi sono gli irlandesi?  Sfido chiunque a esserne indifferente, o a
-fingere di non saperlo.  Il signor W. B. Yeats, il grande genio irlandese
-che è comparso ai nostri [[Time|giorni]], mostra la sua ammirevole penetrazione
-scartando del tutto l'argomento della razza celtica.
-Ma non sfugge completamente, e i suoi seguaci quasi
-mai sfuggono, all'obiezione generale contro l'argomento celtico.
-La tendenza di quell'argomento è di rappresentare gli irlandesi, o i celti,
-come una razza strana e separata, come una tribù di eccentrici
-nel mondo moderno immersi in oscure leggende e in infruttuosi [[Dreams|sogni]].
-La sua tendenza è di mostrare gli irlandesi come bizzarri, perché vedono
-le fate.  La sua inclinazione è di far apparire gli irlandesi strani e selvaggi
-perché cantano vecchie [[songs|canzoni]] e si uniscono a strane danze.
-Ma questo è un vero e proprio errore; anzi, è l'opposto della [[Truth|verità]].
-Sono gli inglesi a essere bizzarri, perché non vedono le fate.
-Sono gli abitanti di Kensington a essere strani e selvaggi,
-perché non cantano vecchie [[songs|canzoni]] né si uniscono a strane danze.
-In tutto questo gli irlandesi non sono affatto strani e separati, non
-sono affatto celtici, nel senso in cui la parola è comunemente e popolarmente usata.
-In tutto questo gli irlandesi sono semplicemente una nazione ordinaria e assennata,
-che vive la vita di qualsiasi altra nazione ordinaria e assennata
-che non sia stata né inzuppata di fumo né oppressa dagli
-usurai, o altrimenti corrotta dalla ricchezza e dalla scienza.
-Non c'è nulla di celtico nell'avere leggende.  È semplicemente umano.
-I tedeschi, che sono (suppongo) teutonici, hanno centinaia
-di leggende, ovunque accada che i tedeschi siano umani.
-Non c'è nulla di celtico nell'amare la poesia; gli inglesi
-amarono la poesia più, forse, di qualsiasi altro popolo, prima che
-cadessero sotto l'[[Shadow|ombra]] del comignolo e sotto l'[[Shadow|ombra]]
-del cilindro.  Non è l'Irlanda a essere folle e mistica;
-è Manchester a essere folle e mistica, il che è incredibile,
-il che è una selvaggia eccezione fra le cose umane.  L'Irlanda non
-ha bisogno di giocare allo sciocco gioco della scienza delle razze;
-l'Irlanda non ha bisogno di fingersi una tribù di visionari a parte.
-In materia di visioni, l'Irlanda è più di una nazione:
-è una nazione modello.
-
-
-
 <span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_01" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 1)" data-chapter="Introductory Remarks on the Importance o" data-kind="excerpt"></span>
 
 
@@ -10156,6 +9392,452 @@ L'unica domanda ora è quanto più a lungo durerà la finzione che i giornalisti
 
 
 
+<span class="atom-split" data-atom="story_08_the_moods_of_mr_george_moore" data-title="Heretics — The Moods of Mr. George Moore" data-chapter="The Moods of Mr George Moore" data-kind="story"></span>
+
+
+IX.  The Moods of Mr. George Moore
+
+Mr. George Moore began his literary career by writing
+his personal confessions; nor is there any harm in this
+if he had not continued them for the remainder of his life.
+He is a man of genuinely forcible mind and of great command
+over a kind of rhetorical and fugitive conviction which excites
+and pleases.  He is in a perpetual state of temporary honesty.
+He has admired all the most admirable modern eccentrics
+until they could stand it no longer.  Everything he writes,
+it is to be fully admitted, has a genuine mental power.
+His account of his reason for leaving the Roman [[Catholic Church]]
+is possibly the most admirable tribute to that communion
+which has been written of late years.  For the fact of
+the matter is, that the weakness which has rendered barren
+the many brilliancies of Mr. Moore is actually that weakness
+which the Roman [[Catholic Church]] is at its best in combating.
+Mr. Moore hates Catholicism because it breaks up the [[house]]
+of looking-glasses in which he lives.  Mr. Moore does not dislike
+so much being asked to believe in the spiritual existence
+of miracles or sacraments, but he does fundamentally dislike
+being asked to believe in the actual existence of other people.
+Like his master Pater and all the aesthetes, his real quarrel with
+life is that it is not [[A Dream|a dream]] that can be moulded by the dreamer.
+It is not the dogma of the reality of the other world that
+troubles him, but the dogma of the reality of this world.
+
+The [[Truth|truth]] is that the tradition of [[Christianity]]
+(which is still the only coherent ethic of Europe)
+rests on two or three paradoxes or mysteries which can easily
+be impugned in argument and as easily justified in life.
+One of them, for instance, is the [[Paradox|paradox]] of [[Hope|hope]] or [[Faith|faith]]--
+that the more hopeless is the situation the more hopeful must
+be the man.  Stevenson understood this, and consequently
+Mr. Moore cannot understand Stevenson.  Another is the [[Paradox|paradox]]
+of [[Charity|charity]] or chivalry that the weaker a thing is the more it
+should be respected, that the more indefensible a thing is
+the more it should appeal to us for a certain kind of defence.
+Thackeray understood this, and therefore Mr. Moore does
+not understand Thackeray.  Now, one of these very practical
+and working mysteries in the Christian tradition, and one which
+the Roman [[Catholic Church]], as I say, has done her best work
+in singling out, is the conception of the sinfulness of [[Pride|pride]].
+[[Pride]] is a weakness in the character; it dries up laughter,
+it dries up [[Wonder|wonder]], it dries up chivalry and energy.
+The Christian tradition understands this; therefore Mr. Moore
+does not understand the Christian tradition.
+
+For the [[Truth|truth]] is much stranger even than it appears in the formal
+doctrine of the sin of [[Pride|pride]].  It is not only true that
+[[Humility|humility]] is a much wiser and more vigorous thing than [[Pride|pride]].
+It is also true that [[Vanity|vanity]] is a much wiser and more
+vigorous thing than [[Pride|pride]].  [[Vanity]] is social--it is almost
+a kind of [[Comradeship|comradeship]]; [[Pride|pride]] is solitary and uncivilized.
+[[Vanity]] is active; it desires the applause of infinite multitudes;
+[[Pride|pride]] is passive, desiring only the applause of one person,
+which it already has.  [[Vanity]] is humorous, and can enjoy
+the joke even of itself; [[Pride|pride]] is dull, and cannot even smile.
+And the whole of this difference is the difference between
+Stevenson and Mr. George Moore, who, as he informs us,
+has "brushed Stevenson aside."  I do not know where he has been
+brushed to, but wherever it is I fancy he is having a good [[Time|time]],
+because he had the wisdom to be vain, and not proud.
+Stevenson had a windy [[Vanity|vanity]]; Mr. Moore has a dusty egoism.
+Hence Stevenson could amuse himself as [[Well|well]] as us with his [[Vanity|vanity]];
+while the richest effects of Mr. Moore's absurdity are hidden
+from his eyes.
+
+If we compare this solemn folly with the happy folly with which
+Stevenson belauds his own books and berates his own critics,
+we shall not find it difficult to guess why it is that Stevenson
+at least found a final [[philosophy]] of some sort to live by,
+while Mr. Moore is always walking the world looking for a new one.
+Stevenson had found that the secret of life lies in laughter and [[Humility|humility]].
+[[Self]] is the gorgon.  [[Vanity]] sees it in the [[Mirror|mirror]] of other men and lives.
+[[Pride]] studies it for itself and is turned to stone.
+
+It is necessary to dwell on this defect in Mr. Moore, because it
+is really the weakness of work which is not without its strength.
+Mr. Moore's egoism is not merely a moral weakness, it is a very constant
+and influential aesthetic weakness as [[Well|well]].  We should really be much more
+interested in Mr. Moore if he were not quite so interested in himself.
+We feel as if we were being shown through a gallery of really fine pictures,
+into each of which, by some useless and discordant convention,
+the [[Artist|artist]] had represented the same figure in the same attitude.
+"The Grand Canal with a distant view of Mr. Moore," "Effect of Mr. Moore
+through a Scotch Mist," "Mr. Moore by Firelight," "Ruins of Mr. Moore
+by Moonlight," and so on, seems to be the endless series.  He would no
+[[Doubt|doubt]] reply that in such a book as this he intended to reveal himself.
+But the answer is that in such a book as this he does not succeed.
+One of the thousand objections to the sin of [[Pride|pride]] lies precisely in this,
+that [[Self|self]]-consciousness of necessity destroys [[Self|self]]-revelation. A man
+who thinks a great deal about himself will try to be many-sided,
+attempt a theatrical excellence at all points, will try to be
+an encyclopaedia of culture, and his own real personality will be
+lost in that false universalism.  Thinking about himself will lead
+to trying to be the universe; trying to be the universe will lead
+to ceasing to be anything.  If, on the other hand, a man is sensible
+enough to think only about the universe; he will think about it
+in his own individual way.  He will keep virgin the secret of God;
+he will see the grass as no other man can see it, and look at a sun
+that no man has ever known.  This fact is very practically brought
+out in Mr. Moore's "Confessions."  In reading them we do not feel
+the presence of a clean-cut personality like that of Thackeray and
+Matthew Arnold.  We only read a number of quite clever and largely
+conflicting opinions which might be uttered by any clever person,
+but which we are called upon to admire specifically, because they are
+uttered by Mr. Moore.  He is the only thread that connects Catholicism
+and Protestantism, realism and mysticism--he or rather his name.
+He is profoundly absorbed even in views he no longer holds,
+and he expects us to be.  And he intrudes the capital "I" even
+where it need not be intruded--even where it weakens the force of a
+plain statement.  Where another man would say, "It is a fine day,"
+Mr. Moore says, "Seen through my temperament, the day appeared fine."
+Where another man would say "[[Milton]] has obviously a fine style,"
+Mr. Moore would say, "As a stylist [[Milton]] had always impressed me."
+The Nemesis of this [[Self|self]]-centred spirit is that of being
+totally ineffectual.  Mr. Moore has started many interesting [[Crusades|crusades]],
+but he has abandoned them before his disciples could begin.
+Even when he is on the side of the [[Truth|truth]] he is as fickle as the children
+of falsehood.  Even when he has found reality he cannot find rest.
+One Irish quality he has which no Irishman was ever without--pugnacity;
+and that is certainly a great virtue, especially in the present age.
+But he has not the tenacity of conviction which goes with the fighting
+spirit in a man like Bernard [[Shaw]].  His weakness of introspection
+and selfishness in all their glory cannot prevent him fighting;
+but they will always prevent him winning.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IX.  Gli umori del signor George Moore
+
+Il signor George Moore inaugurò la propria carriera letteraria scrivendo le sue confessioni personali; e non vi sarebbe stato alcun male in ciò, se non avesse continuato a scriverle per tutto il resto della vita. È uomo di mente genuinamente vigorosa e dotato di gran padronanza di una sorta di convinzione retorica e fuggevole che eccita e diletta. Vive in uno stato perpetuo di onestà provvisoria. Ha ammirato tutti i più mirabili eccentrici moderni finché essi non hanno più potuto sopportarlo. Tutto ciò che scrive, va pienamente riconosciuto, possiede una genuina forza intellettuale. Il resoconto delle ragioni per cui abbandonò la [[Catholic Church|Chiesa cattolica]] romana è forse il più mirabile tributo a quella comunione che sia stato scritto negli ultimi anni. Poiché il nocciolo della faccenda è che la debolezza la quale ha reso sterili i molti splendori del signor Moore è proprio quella debolezza che la [[Catholic Church|Chiesa cattolica]] romana meglio d'ogni altra sa combattere. Il signor Moore odia il cattolicesimo perché esso manda in frantumi la [[house|casa]] di specchi in cui egli vive. Al signor Moore non ripugna tanto che gli si chieda di credere nell'esistenza spirituale dei miracoli o dei sacramenti, quanto invece gli ripugna in modo profondo che gli si chieda di credere nell'esistenza reale delle altre persone. Come il suo maestro Pater e come tutti gli esteti, la sua vera contesa con la vita è che essa non è [[A Dream|un sogno]] che il sognatore possa plasmare a piacimento. Non è il dogma della realtà dell'altro mondo a tormentarlo, ma il dogma della realtà di questo mondo.
+
+La [[Truth|verità]] è che la tradizione del [[Christianity|Cristianesimo]] (che rimane l'unica etica coerente d'Europa) poggia su due o tre paradossi o misteri che è facile confutare nella discussione e altrettanto facile giustificare nella vita. Uno di essi, per esempio, è il [[Paradox|paradosso]] della [[Hope|speranza]] o della [[Faith|fede]]: che quanto più disperata è la situazione, tanto più speranzoso deve essere l'uomo. Stevenson lo comprese, e di conseguenza il signor Moore non riesce a comprendere Stevenson. Un altro è il [[Paradox|paradosso]] della [[Charity|carità]] o della cavalleria: che quanto più debole è una cosa, tanto più la si deve rispettare; che quanto più una cosa è indifendibile, tanto più deve reclamare da noi una certa specie di difesa. Thackeray lo comprese, e perciò il signor Moore non comprende Thackeray. Ora, uno di questi misteri assai pratici e operanti della tradizione cristiana, e uno di quelli che la [[Catholic Church|Chiesa cattolica]] romana, come dicevo, ha saputo isolare con la sua opera migliore, è la concezione della peccaminosità dell'[[Pride|orgoglio]]. L'[[Pride|orgoglio]] è una debolezza del carattere; dissecca il riso, dissecca lo [[Wonder|stupore]], dissecca la cavalleria e l'energia. La tradizione cristiana lo comprende; perciò il signor Moore non comprende la tradizione cristiana.
+
+Poiché la [[Truth|verità]] è ancora più singolare di quanto non appaia nella dottrina formale del peccato d'[[Pride|orgoglio]]. Non solo è vero che l'[[Humility|umiltà]] è cosa assai più saggia e vigorosa dell'[[Pride|orgoglio]]. È anche vero che la [[Vanity|vanità]] è cosa assai più saggia e vigorosa dell'[[Pride|orgoglio]]. La [[Vanity|vanità]] è sociale: è quasi una specie di [[Comradeship|cameratismo]]; l'[[Pride|orgoglio]] è solitario e incivile. La [[Vanity|vanità]] è attiva; desidera l'applauso di moltitudini infinite; l'[[Pride|orgoglio]] è passivo, e desidera soltanto l'applauso di una sola persona, che già possiede. La [[Vanity|vanità]] è spiritosa, e sa godere lo scherzo persino a proprie spese; l'[[Pride|orgoglio]] è ottuso, e non sa nemmeno sorridere. E tutta questa differenza è la differenza fra Stevenson e il signor George Moore, il quale, come egli stesso ci informa, ha «scostato Stevenson con un gesto della mano». Non so verso dove lo abbia scostato, ma ovunque sia immagino che stia trascorrendo un lieto [[Time|momento]], poiché ebbe la saggezza di essere vano, e non orgoglioso. Stevenson aveva una [[Vanity|vanità]] ventosa; il signor Moore ha un egoismo polveroso. Perciò Stevenson poteva divertire con la propria [[Vanity|vanità]] sé stesso [[Well|altrettanto]] bene di noi; mentre gli effetti più squisiti dell'assurdità del signor Moore restano nascosti ai suoi stessi occhi.
+
+Se paragoniamo questa solenne follia con la lieta follia con cui Stevenson tesse le lodi dei propri libri e strapazza i propri critici, non ci sarà difficile indovinare perché mai Stevenson, almeno, abbia infine trovato una qualche [[philosophy|filosofia]] su cui vivere, mentre il signor Moore va sempre errando per il mondo in cerca di una nuova. Stevenson aveva scoperto che il segreto della vita sta nel riso e nell'[[Humility|umiltà]]. Il [[Self|sé]] è la gòrgone. La [[Vanity|vanità]] la vede nello [[Mirror|specchio]] degli altri uomini e vive. L'[[Pride|orgoglio]] la contempla per sé stesso e resta tramutato in pietra.
+
+È necessario soffermarsi su questo difetto del signor Moore, perché esso è veramente la debolezza di un'opera che non è priva della sua forza. L'egoismo del signor Moore non è soltanto una debolezza morale, ma è [[Well|altresì]] una debolezza estetica assai costante e influente. In verità proveremmo molto più interesse per il signor Moore, se egli non fosse così interessato a sé stesso. Ci sentiamo come se ci facessero attraversare una galleria di quadri davvero pregevoli, in ciascuno dei quali, per una qualche convenzione inutile e stonata, l'[[Artist|artista]] avesse ritratto la medesima figura nel medesimo atteggiamento. «Il Canal Grande con una veduta lontana del signor Moore», «Effetto del signor Moore attraverso una nebbiolina scozzese», «Il signor Moore al chiaro di focolare», «Rovine del signor Moore al chiaro di luna», e così via, pare essere la serie senza fine. Egli senza [[Doubt|dubbio]] replicherebbe che in un libro come questo intendeva rivelare sé stesso. Ma la risposta è che in un libro come questo egli non vi riesce. Una delle mille obiezioni al peccato d'[[Pride|orgoglio]] sta appunto in questo, che la coscienza del [[Self|sé]] distrugge necessariamente la rivelazione del [[Self|sé]]. Un uomo che pensa moltissimo a sé stesso cercherà di essere sfaccettato, tenterà una teatrale eccellenza in ogni punto, cercherà di essere un'enciclopedia di cultura, e la sua vera personalità andrà perduta in quel falso universalismo. Pensare a sé stesso lo condurrà a tentare di essere l'universo; tentare di essere l'universo lo condurrà a cessare di essere alcunché. Se, d'altra parte, un uomo è tanto assennato da pensare soltanto all'universo, penserà ad esso a suo proprio, individuale modo. Custodirà vergine il segreto di Dio; vedrà l'erba come nessun altro sa vederla, e guarderà un sole che nessun uomo ha mai conosciuto. Questo fatto emerge molto praticamente dalle «Confessions» del signor Moore. Leggendole non avvertiamo la presenza di una personalità netta e definita come quella di Thackeray e di Matthew Arnold. Leggiamo soltanto una serie di opinioni assai argute e in gran parte contraddittorie, che qualunque persona arguta potrebbe pronunciare, ma che siamo chiamati ad ammirare precisamente perché le pronuncia il signor Moore. Egli è l'unico filo che collega cattolicesimo e protestantesimo, realismo e misticismo: egli, o piuttosto il suo nome. È profondamente assorto perfino in opinioni che ormai non sostiene più, e si aspetta che lo siamo anche noi. E introduce l'«io» maiuscolo persino là dove non occorre introdurlo, persino là dove esso indebolisce la forza di una semplice affermazione. Dove un altro uomo direbbe: «È una bella giornata», il signor Moore dice: «Vista attraverso il mio temperamento, la giornata appariva bella». Dove un altro uomo direbbe: «[[Milton]] ha evidentemente uno stile pregevole», il signor Moore direbbe: «Come stilista, [[Milton]] mi aveva sempre colpito». La Nèmesi di questo spirito incentrato sul [[Self|sé]] è quella di essere totalmente inefficace. Il signor Moore ha avviato molte interessanti [[Crusades|crociate]], ma le ha abbandonate prima ancora che i suoi discepoli potessero cominciarle. Perfino quando sta dalla parte della [[Truth|verità]] è volubile come i figli della menzogna. Perfino quando ha trovato la realtà non sa trovare quiete. Possiede una qualità irlandese di cui nessun irlandese fu mai privo: la combattività; e questa è certamente una gran virtù, specie nell'età presente. Ma non possiede quella tenacia di convinzione che si accompagna allo spirito battagliero in un uomo come Bernard [[Shaw]]. La sua debolezza fatta d'introspezione e di egoismo in tutto il loro splendore non può impedirgli di combattere; ma gli impedirà sempre di vincere.
+
+
+
+<span class="atom-split" data-atom="story_09_on_sandals_and_simplicity" data-title="Heretics — On Sandals and Simplicity" data-chapter="On Sandals and Simplicity" data-kind="story"></span>
+
+
+X. On Sandals and Simplicity
+
+The great misfortune of the modern English is not at all that they are more
+boastful than other people (they are not); it is that they are boastful
+about those particular things which nobody can boast of without losing them.
+A Frenchman can be proud of being bold and logical, and still remain bold
+and logical.  A German can be proud of being reflective and orderly,
+and still remain reflective and orderly.  But an Englishman cannot be
+proud of being simple and direct, and still remain simple and direct.
+In the matter of these strange virtues, to know them is to kill them.
+A man may be conscious of being heroic or conscious of being divine,
+but he cannot (in spite of all the Anglo-Saxon poets) be conscious
+of being unconscious.
+
+Now, I do not think that it can be honestly denied that
+some portion of this impossibility attaches to a class
+very different in their own opinion, at least, to the school
+of Anglo-Saxonism. I mean that school of the simple life,
+commonly associated with [[tolstoy|Tolstoy]].  If a perpetual talk about
+one's own robustness leads to being less robust, it is even
+more true that a perpetual talking about one's own simplicity
+leads to being less simple.  One great complaint, I think,
+must stand against the modern upholders of the simple life--
+the simple life in all its varied forms, from vegetarianism
+to the honourable consistency of the Doukhobors.  This complaint
+against them stands, that they would make us simple in
+the unimportant things, but complex in the important things.
+They would make us simple in the things that do not matter--
+that is, in diet, in costume, in etiquette, in economic system.
+But they would make us complex in the things that do matter--
+in [[philosophy]], in loyalty, in spiritual acceptance,
+and spiritual rejection.  It does not so very much matter whether
+a man eats a grilled tomato or a plain tomato; it does very much
+matter whether he eats a plain tomato with a grilled mind.
+The only kind of simplicity worth preserving is the simplicity
+of the heart, the simplicity which accepts and enjoys.
+There may be a reasonable [[Doubt|doubt]] as to what system preserves this;
+there can surely be no [[Doubt|doubt]] that a system of simplicity destroys it.
+There is more simplicity in the man who eats caviar on
+impulse than in the man who eats grape-nuts on principle.
+The chief error of these people is to be found in the very phrase
+to which they are most attached--"plain living and high thinking."
+These people do not stand in need of, will not be improved by,
+plain living and high thinking.  They stand in need of the contrary.
+They would be improved by high living and plain thinking.
+A little high living (I say, having a full sense of responsibility,
+a little high living) would teach them the force and meaning
+of the human festivities, of the banquet that has gone on from
+the beginning of the world.  It would teach them the historic fact
+that the artificial is, if anything, older than the natural.
+It would teach them that the loving-cup is as old as any hunger.
+It would teach them that ritualism is older than any religion.
+And a little plain thinking would teach them how harsh and
+fanciful are the mass of their own ethics, how very civilized
+and very complicated must be the brain of the Tolstoyan who
+really believes it to be evil to [[Love|love]] one's country and wicked
+to strike a blow.
+
+A man approaches, wearing sandals and simple raiment, a raw tomato
+held firmly in his right hand, and says, "The affections of family and
+country alike are hindrances to the fuller development of human [[Love|love]];"
+but the plain thinker will only answer him, with a [[Wonder|wonder]] not untinged
+with admiration, "What a great deal of trouble you must have taken
+in order to feel like that."  High living will reject the tomato.
+Plain thinking will equally decisively reject the idea of the invariable
+sinfulness of war.  High living will convince us that nothing is
+more materialistic than to despise a pleasure as purely material.
+And plain thinking will convince us that nothing is more materialistic
+than to reserve our horror chiefly for material wounds.
+
+The only simplicity that matters is the simplicity of the heart.
+If that be gone, it can be brought back by no turnips or
+cellular clothing; but only by [[Tears|tears]] and terror and the fires
+that are not quenched.  If that remain, it matters very little
+if a few Early Victorian armchairs remain along with it.
+Let us put a complex entree into a simple old gentleman;
+let us not put a simple entree into a complex old gentleman.
+So long as human society will leave my spiritual inside [[Alone|alone]],
+I will allow it, with a comparative submission, to work its wild
+will with my physical interior.  I will submit to cigars.
+I will meekly embrace a bottle of Burgundy.  I will humble myself
+to a hansom cab.  If only by this means I may preserve to myself
+the virginity of the spirit, which enjoys with astonishment and [[Fear|fear]].
+I do not say that these are the only methods of preserving it.
+I incline to the belief that there are others.  But I will have
+nothing to do with simplicity which lacks the [[Fear|fear]], the astonishment,
+and the joy alike.  I will have nothing to do with the devilish
+vision of a [[Child|child]] who is too simple to like toys.
+
+The [[Child|child]] is, indeed, in these, and many other matters, the best guide.
+And in nothing is the [[Child|child]] so righteously childlike, in nothing
+does he exhibit more accurately the sounder order of simplicity,
+than in the fact that he sees everything with a simple pleasure,
+even the complex things.  The false type of naturalness harps
+always on the distinction between the natural and the artificial.
+The higher kind of naturalness ignores that distinction.
+To the [[Child|child]] the tree and the lamp-post are as natural and as
+artificial as each other; or rather, neither of them are natural
+but both [[Supernatural|supernatural]].  For both are splendid and unexplained.
+The flower with which God crowns the one, and the flame with which
+Sam the lamplighter crowns the other, are equally of the gold
+of fairy-tales. In the middle of the wildest fields the most rustic
+[[Child|child]] is, ten to one, playing at steam-engines. And the only spiritual
+or philosophical objection to steam-engines is not that men pay
+for them or work at them, or make them very ugly, or even that men
+are killed by them; but merely that men do not play at them.
+The evil is that the childish poetry of clockwork does not remain.
+The wrong is not that engines are too much admired, but that they
+are not admired enough.  The sin is not that engines are mechanical,
+but that men are mechanical.
+
+In this matter, then, as in all the other matters treated
+in this book, our main conclusion is that it is a fundamental
+point of view, a [[philosophy]] or religion which is needed,
+and not any change in habit or social routine.  The things we
+need most for immediate practical purposes are all abstractions.
+We need a right view of the human lot, a right view of
+the human society; and if we were living eagerly and angrily
+in the enthusiasm of those things, we should, ipso facto,
+be living simply in the genuine and spiritual sense.
+[[Desire]] and danger make every one simple.  And to those who talk to us
+with interfering eloquence about Jaeger and the pores of the skin,
+and about Plasmon and the coats of the stomach, at them shall
+only be hurled the words that are hurled at fops and gluttons,
+"Take no thought what ye shall eat or what ye shall drink,
+or wherewithal ye shall be clothed.  For after all these things
+do the Gentiles seek.  But seek first the kingdom of God and
+His righteousness, and all these things shall be added unto you."
+Those amazing words are not only extraordinarily good,
+practical politics; they are also superlatively good hygiene.
+The one supreme way of making all those processes go right,
+the processes of health, and strength, and grace, and [[Beauty|beauty]],
+the one and only way of making certain of their accuracy,
+is to think about something else.  If a man is bent on climbing into
+the seventh heaven, he may be quite easy about the pores of his skin.
+If he harnesses his waggon to a star, the process will have
+a most satisfactory effect upon the coats of his stomach.
+For the thing called "taking thought," the thing for which
+the best modern word is "rationalizing," is in its [[Nature|nature]],
+inapplicable to all plain and urgent things.  Men take
+thought and ponder rationalistically, touching remote things--
+things that only theoretically matter, such as the transit
+of [[Venus]].  But only at their peril can men rationalize about
+so practical a matter as health.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+X. Dei sandali e della semplicità
+
+La grande sventura degl'Inglesi moderni non è affatto che siano più
+vanagloriosi degli altri popoli (non lo sono); è che si vantano
+proprio di quelle particolari cose delle quali nessuno può vantarsi senza perderle.
+Un Francese può andar fiero d'essere audace e logico, e rimanere pur sempre
+audace e logico. Un Tedesco può andar fiero d'essere riflessivo e ordinato,
+e rimanere pur sempre riflessivo e ordinato. Ma un Inglese non può
+andar fiero d'essere semplice e diretto, e rimanere pur sempre semplice e diretto.
+In fatto di queste strane virtù, conoscerle è ucciderle.
+Un uomo può essere consapevole d'essere eroico o consapevole d'essere divino,
+ma non può (a dispetto di tutti i poeti anglosassoni) essere consapevole
+d'essere inconsapevole.
+
+Ora, non credo si possa onestamente negare che
+qualche porzione di questa impossibilità si attacchi a una classe
+molto diversa, almeno nella propria opinione, dalla scuola
+dell'anglosassonismo. Intendo quella scuola della vita semplice,
+comunemente associata a [[tolstoy|Tolstoj]]. Se un perpetuo parlare della
+propria robustezza conduce a essere meno robusti, è ancor
+più vero che un perpetuo parlare della propria semplicità
+conduce a essere meno semplici. Una grande accusa, credo,
+deve levarsi contro i moderni fautori della vita semplice --
+la vita semplice in tutte le sue varie forme, dal vegetarianismo
+all'onorevole coerenza dei Duchobori. Questa accusa
+contro di loro si regge su questo, che ci renderebbero semplici nelle
+cose senza importanza, ma complessi nelle cose che contano.
+Ci renderebbero semplici nelle cose che non importano --
+cioè nella dieta, nel vestire, nell'etichetta, nel sistema economico.
+Ma ci renderebbero complessi nelle cose che importano --
+nella [[philosophy|filosofia]], nella fedeltà, nell'accettazione spirituale,
+e nel rifiuto spirituale. Non importa poi molto se
+un uomo mangi un pomodoro alla griglia o un pomodoro semplice; importa moltissimo
+invece se mangi un pomodoro semplice con una mente alla griglia.
+L'unica specie di semplicità che valga la pena di conservare è la semplicità
+del cuore, la semplicità che accetta e gode.
+Vi può essere un ragionevole [[Doubt|dubbio]] su quale sistema la preservi;
+non vi può certo essere alcun [[Doubt|dubbio]] che un sistema di semplicità la distrugga.
+Vi è più semplicità nell'uomo che mangia caviale per
+impulso che nell'uomo che mangia fiocchi d'uva per principio.
+L'errore capitale di questa gente si ritrova proprio nella frase
+alla quale è più affezionata -- «vivere povero e pensare alto».
+Questa gente non ha bisogno, né trarrebbe alcun miglioramento, dal
+vivere povero e pensare alto. Ha bisogno del contrario.
+Trarrebbe miglioramento dal vivere alto e pensare povero.
+Un poco di vita alta (lo dico, avendo piena coscienza della responsabilità,
+un poco di vita alta) insegnerebbe loro la forza e il significato
+delle festività umane, del banchetto che si perpetua fin dal
+principio del mondo. Insegnerebbe loro il fatto storico
+che l'artificiale è, semmai, più antico del naturale.
+Insegnerebbe loro che la coppa dell'amore è antica quanto ogni fame.
+Insegnerebbe loro che il ritualismo è più antico d'ogni religione.
+E un poco di pensiero povero insegnerebbe loro quanto aspra e
+fantasiosa sia la massa della loro stessa etica, quanto molto civilizzato
+e molto complicato debba essere il cervello del tolstoiano che
+crede davvero essere un male [[Love|amare]] la propria patria e cosa iniqua
+il vibrare un colpo.
+
+Un uomo s'avvicina, in sandali e semplice veste, un pomodoro crudo
+saldamente stretto nella destra, e dice: «Gli affetti della famiglia e
+della patria del pari sono ostacoli al più pieno sviluppo dell'[[Love|amore]] umano»;
+ma il pensatore povero gli risponderà soltanto, con una [[Wonder|meraviglia]] non priva
+d'ammirazione: «Quanto disturbo dovete esservi preso
+per arrivare a sentire così». La vita alta rifiuterà il pomodoro.
+Il pensiero povero rifiuterà con eguale decisione l'idea dell'invariabile
+peccaminosità della guerra. La vita alta ci convincerà che nulla è
+più materialistico che disprezzare un piacere in quanto puramente materiale.
+E il pensiero povero ci convincerà che nulla è più materialistico
+che riservare il nostro orrore principalmente alle ferite materiali.
+
+L'unica semplicità che importi è la semplicità del cuore.
+Se quella se n'è andata, non la si può richiamare con rape o
+vestiti di tessuto cellulare; ma soltanto con [[Tears|lacrime]] e terrore e i fuochi
+che non si spengono. Se quella rimane, importa assai poco
+che qualche poltrona di primo stile vittoriano rimanga insieme a lei.
+Mettiamo un complesso intingolo dentro un semplice vecchio signore;
+non mettiamo un semplice intingolo dentro un complesso vecchio signore.
+Finché la società umana lascerà in [[Alone|pace]] il mio interno spirituale,
+le permetterò, con relativa sottomissione, di operare la sua sfrenata
+volontà sul mio interno fisico. Mi sottometterò ai sigari.
+Abbraccerò mansueto una bottiglia di Borgogna. Mi umilierò
+fino a una carrozza da nolo. Se solo per questo mezzo io possa conservare
+la verginità dello spirito, che gode con stupore e [[Fear|paura]].
+Non dico che questi siano gli unici metodi per conservarla.
+Inclino a credere che ve ne siano altri. Ma non voglio aver
+nulla a che fare con una semplicità cui manchino la [[Fear|paura]], lo stupore,
+e la gioia del pari. Non voglio aver nulla a che fare con la diabolica
+visione d'un [[Child|bambino]] troppo semplice per amare i balocchi.
+
+Il [[Child|bambino]] è, in verità, in queste e in molte altre faccende, la miglior guida.
+E in nulla il [[Child|bambino]] è così giustamente fanciullesco, in nulla
+esibisce con più esattezza l'ordine più sano della semplicità,
+quanto nel fatto che egli vede ogni cosa con un semplice piacere,
+persino le cose complesse. Il falso tipo di naturalezza insiste
+sempre sulla distinzione tra il naturale e l'artificiale.
+La specie più alta di naturalezza ignora quella distinzione.
+Per il [[Child|bambino]] l'albero e il lampione sono naturali e
+artificiali l'uno quanto l'altro; o piuttosto, nessuno dei due è naturale
+ma entrambi [[Supernatural|soprannaturali]]. Poiché entrambi sono splendidi e inspiegati.
+Il fiore con cui Dio corona l'uno, e la fiamma con cui
+Sam il lampionaio corona l'altro, sono egualmente dell'oro
+delle fiabe. In mezzo ai più selvaggi campi il più rustico
+[[Child|bambino]] sta, dieci a uno, giocando alle locomotive a vapore. E l'unica obiezione spirituale
+o filosofica alle locomotive a vapore non è che gli uomini le paghino
+o vi lavorino, o le facciano bruttissime, e neppure che gli uomini
+ne siano uccisi; ma soltanto che gli uomini non ci giocano.
+Il male è che la poesia fanciullesca del meccanismo a molla non permane.
+Il torto non è che le macchine siano troppo ammirate, ma che
+non siano ammirate abbastanza. Il peccato non è che le macchine siano meccaniche,
+ma che gli uomini siano meccanici.
+
+In questa faccenda, dunque, come in tutte le altre faccende trattate
+in questo libro, la nostra conclusione principale è che ciò che occorre è un
+punto di vista fondamentale, una [[philosophy|filosofia]] o una religione,
+e non un qualche mutamento d'abitudine o di consuetudine sociale. Le cose di cui
+abbiamo più bisogno per gli immediati scopi pratici sono tutte astrazioni.
+Abbiamo bisogno d'una giusta visione della sorte umana, d'una giusta visione della
+società umana; e se vivessimo avidamente e collericamente
+nell'entusiasmo di quelle cose, vivremmo, ipso facto,
+semplicemente nel senso genuino e spirituale.
+Il [[Desire|desiderio]] e il pericolo rendono chiunque semplice. E a coloro che ci parlano
+con intromettente eloquenza del Jaeger e dei pori della pelle,
+e del Plasmon e delle pareti dello stomaco, ad essi non saranno
+scagliate se non le parole che si scagliano contro i bellimbusti e i ghiottoni:
+«Non datevi pensiero di che cosa mangerete o di che cosa berrete,
+o di che cosa vi vestirete. Poiché di tutte queste cose
+vanno in cerca i Gentili. Ma cercate prima il regno di Dio e
+la Sua giustizia, e tutte queste cose vi saranno date in aggiunta».
+Quelle sorprendenti parole non sono soltanto una straordinariamente buona,
+pratica politica; sono anche una superlativamente buona igiene.
+L'unico modo supremo di far andare per il verso giusto tutti quei processi,
+i processi della salute, e della forza, e della grazia, e della [[Beauty|bellezza]],
+l'unico e solo modo d'esser certi della loro precisione,
+è pensare a qualcos'altro. Se un uomo è deciso a inerpicarsi fino al
+settimo cielo, può stare del tutto tranquillo sui pori della sua pelle.
+Se aggioga il proprio carro a una stella, il procedimento avrà
+un effetto quanto mai soddisfacente sulle pareti del suo stomaco.
+Poiché quel che si chiama «darsi pensiero», la cosa per cui
+il miglior termine moderno è «razionalizzare», è per sua [[Nature|natura]]
+inapplicabile a tutte le cose piane e urgenti. Gli uomini si danno
+pensiero e ponderano razionalisticamente, toccando cose remote --
+cose che solo teoricamente importano, come il transito
+di [[Venus|Venere]]. Ma solo a loro rischio e pericolo possono gli uomini razionalizzare su
+una faccenda tanto pratica quanto la salute.
+
+
+
 <span class="atom-split" data-atom="story_10_science_and_the_savages--part_01" data-title="Heretics — Science and the Savages (part 1)" data-chapter="Science and the Savages" data-kind="excerpt"></span>
 
 
@@ -11187,6 +10869,324 @@ mobili.  Ma se davvero rianimeremo e perseguiremo l'ideale pagano di un
 semplice e razionale compimento di [[Self|sé]], finiremo dove finì il
 paganesimo.  Non intendo che finiremo nella distruzione.  Intendo che
 finiremo nel [[Christianity|cristianesimo]].
+
+
+
+<span class="atom-split" data-atom="story_12_celts_and_celtophiles" data-title="Heretics — Celts and Celtophiles" data-chapter="Celts and Celtophiles" data-kind="story"></span>
+
+
+XIII.  Celts and Celtophiles
+
+Science in the modern world has many uses; its chief use, however,
+is to provide long words to cover the errors of the rich.
+The word "kleptomania" is a vulgar example of what I mean.
+It is on a par with that strange theory, always advanced
+when a wealthy or prominent person is in the dock,
+that exposure is more of a punishment for the rich than
+for the poor.  Of course, the very reverse is the [[Truth|truth]].
+Exposure is more of a punishment for the poor than for the rich.
+The richer a man is the easier it is for him to be a tramp.
+The richer a man is the easier it is for him to be popular
+and generally respected in the Cannibal Islands.  But the poorer
+a man is the more likely it is that he will have to use
+his past life whenever he wants to get a bed for the [[Night|night]].
+[[Honour]] is a luxury for aristocrats, but it is a necessity
+for hall-porters. This is a secondary matter, but it is an
+example of the general proposition I offer--the proposition
+that an enormous amount of modern ingenuity is expended on
+finding defences for the indefensible conduct of the powerful.
+As I have said above, these defences generally exhibit themselves
+most emphatically in the form of appeals to physical science.
+And of all the forms in which science, or pseudo-science,
+has come to the rescue of the rich and stupid, there is none
+so singular as the singular invention of the theory of races.
+
+When a wealthy nation like the English discovers the perfectly patent fact
+that it is making a ludicrous mess of the [[government]] of a poorer nation
+like the Irish, it pauses for a moment in consternation, and then begins
+to talk about Celts and Teutons.  As far as I can understand the theory,
+the Irish are Celts and the English are Teutons.  Of course, the Irish
+are not Celts any more than the English are Teutons.  I have not followed
+the ethnological discussion with much energy, but the last scientific
+conclusion which I read inclined on the whole to the summary that the English
+were mainly Celtic and the Irish mainly Teutonic.  But no man alive,
+with even the glimmering of a real scientific sense, would ever dream
+of applying the terms "Celtic" or "Teutonic" to either of them in any
+positive or useful sense.
+
+That sort of thing must be left to people who talk about the
+Anglo-Saxon race, and extend the expression to [[America]].  How much
+of the [[Blood|blood]] of the Angles and Saxons (whoever they were)
+there remains in our mixed British, Roman, German, Dane, Norman,
+and Picard stock is a matter only interesting to wild antiquaries.
+And how much of that diluted [[Blood|blood]] can possibly remain
+in that roaring whirlpool of [[America]] into which a cataract
+of Swedes, Jews, Germans, Irishmen, and Italians is
+perpetually pouring, is a matter only interesting to lunatics.
+It would have been wiser for the English governing class
+to have called upon some other god.  All other gods,
+however weak and warring, at least boast of being constant.
+But science boasts of being in a flux for ever; boasts of being
+unstable as [[Water|water]].
+
+And England and the English governing class never did call
+on this absurd deity of race until it seemed, for an instant,
+that they had no other god to call on.  All the most genuine
+Englishmen in [[history]] would have yawned or laughed in your face
+if you had begun to talk about Anglo-Saxons. If you had attempted
+to substitute the ideal of race for the ideal of nationality,
+I really do not like to think what they would have said.
+I certainly should not like to have been the officer of
+Nelson who suddenly discovered his French [[Blood|blood]] on the eve
+of Trafalgar.  I should not like to have been the Norfolk
+or Suffolk gentleman who had to expound to Admiral Blake
+by what demonstrable ties of genealogy he was irrevocably bound
+to the Dutch.  The [[Truth|truth]] of the whole matter is very simple.
+Nationality exists, and has nothing in the world to do with race.
+Nationality is a thing like a church or a secret society; it is
+a product of the human [[Soul|soul]] and will; it is a spiritual product.
+And there are men in the modern world who would think anything
+and do anything rather than admit that anything could be
+a spiritual product.
+
+A nation, however, as it confronts the modern world, is a purely
+spiritual product.  Sometimes it has been born in independence,
+like Scotland.  Sometimes it has been born in dependence,
+in subjugation, like Ireland.  Sometimes it is a large thing cohering
+out of many smaller things, like [[Italy]].  Sometimes it is a small
+thing breaking away from larger things, like Poland.  But in each
+and every case its quality is purely spiritual, or, if you will,
+purely psychological.  It is a moment when five men become
+a sixth man.  Every one knows it who has ever founded a club.
+It is a moment when five places become one place.
+Every one must know it who has ever had to repel an invasion.
+Mr. Timothy Healy, the most serious intellect in the present
+[[house|House]] of Commons, summed up nationality to perfection when
+he simply called it something for which people will die.
+As he excellently said in reply to Lord Hugh Cecil, "No one,
+not even the noble lord, would die for the meridian
+of Greenwich."  And that is the great tribute to its purely
+psychological character.  It is idle to ask why Greenwich should
+not cohere in this spiritual manner while Athens or Sparta did.
+It is like asking why a man falls in [[Love|love]] with one woman
+and not with another.
+
+Now, of this great spiritual coherence, independent of
+external circumstances, or of race, or of any obvious
+physical thing, Ireland is the most remarkable example.
+Rome conquered nations, but Ireland has conquered races.
+The Norman has gone there and become Irish, the Scotchman has
+gone there and become Irish, the Spaniard has gone there and
+become Irish, even the bitter soldier of Cromwell has gone there
+and become Irish.  Ireland, which did not exist even politically,
+has been stronger than all the races that existed scientifically.
+The purest Germanic [[Blood|blood]], the purest Norman [[Blood|blood]], the purest
+[[Blood|blood]] of the passionate Scotch patriot, has not been so attractive
+as a nation without a [[Flag|flag]].  Ireland, unrecognized and oppressed,
+has easily absorbed races, as such trifles are easily absorbed.
+She has easily disposed of physical science, as such
+superstitions are easily disposed of.  Nationality in its
+weakness has been stronger than ethnology in its strength.
+Five triumphant races have been absorbed, have been defeated
+by a defeated nationality.
+
+This being the true and strange glory of Ireland, it is impossible
+to hear without impatience of the attempt so constantly
+made among her modern sympathizers to talk about Celts
+and Celticism.  Who were the Celts?  I defy anybody to say.
+Who are the Irish?  I defy any one to be indifferent, or to
+pretend not to know.  Mr. W. B. Yeats, the great Irish genius
+who has appeared in our [[Time|time]], shows his own admirable penetration
+in discarding altogether the argument from a Celtic race.
+But he does not wholly escape, and his followers hardly
+ever escape, the general objection to the Celtic argument.
+The tendency of that argument is to represent the Irish or the Celts
+as a strange and separate race, as a tribe of eccentrics in
+the modern world immersed in dim legends and fruitless [[Dreams|dreams]].
+Its tendency is to exhibit the Irish as odd, because they see
+the fairies.  Its trend is to make the Irish seem weird and wild
+because they sing old [[songs]] and join in strange dances.
+But this is quite an error; indeed, it is the opposite of the [[Truth|truth]].
+It is the English who are odd because they do not see the fairies.
+It is the inhabitants of Kensington who are weird and wild
+because they do not sing old [[songs]] and join in strange dances.
+In all this the Irish are not in the least strange and separate, are
+not in the least Celtic, as the word is commonly and popularly used.
+In all this the Irish are simply an ordinary sensible nation,
+living the life of any other ordinary and sensible nation
+which has not been either sodden with smoke or oppressed by
+money-lenders, or otherwise corrupted with wealth and science.
+There is nothing Celtic about having legends.  It is merely human.
+The Germans, who are (I suppose) Teutonic, have hundreds
+of legends, wherever it happens that the Germans are human.
+There is nothing Celtic about loving poetry; the English
+loved poetry more, perhaps, than any other people before they
+came under the [[Shadow|shadow]] of the chimney-pot and the [[Shadow|shadow]] of
+the chimney-pot hat.  It is not Ireland which is mad and mystic;
+it is Manchester which is mad and mystic, which is incredible,
+which is a wild exception among human things.  Ireland has
+no need to play the silly game of the science of races;
+Ireland has no need to pretend to be a tribe of visionaries apart.
+In the matter of visions, Ireland is more than a nation,
+it is a model nation.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+XIII.  Celti e celtofili
+
+La scienza, nel mondo moderno, ha molti usi; il suo uso principale, tuttavia,
+è quello di fornire paroloni per coprire gli errori dei ricchi.
+La parola «cleptomania» è un volgare esempio di ciò che intendo.
+Sta sullo stesso piano di quella strana teoria, sempre avanzata
+quando una persona facoltosa o eminente si trova sul banco degli imputati,
+secondo cui la pubblica esposizione sarebbe una punizione più grave per i ricchi che
+per i poveri.  Naturalmente è vero l'esatto contrario, la pura [[Truth|verità]].
+La pubblica esposizione è una punizione più grave per i poveri che per i ricchi.
+Più un uomo è ricco, più gli è facile fare il vagabondo.
+Più un uomo è ricco, più gli è facile essere popolare
+e generalmente rispettato nelle Isole dei Cannibali.  Ma più un uomo
+è povero, più è probabile che debba servirsi
+del proprio passato ogni volta che voglia procurarsi un letto per la [[Night|notte]].
+L'[[Honour|onore]] è un lusso per gli aristocratici, ma è una necessità
+per i portinai. Questa è una questione secondaria, ma è un
+esempio della proposizione generale che avanzo: la proposizione
+che un'enorme quantità dell'ingegno moderno viene spesa
+per trovare difese all'indifendibile condotta dei potenti.
+Come ho detto sopra, tali difese generalmente si manifestano
+nella forma più enfatica come appelli alla scienza fisica.
+E di tutte le forme in cui la scienza, o la pseudoscienza,
+è accorsa in soccorso dei ricchi e degli stupidi, non ve n'è
+alcuna tanto singolare quanto la singolare invenzione della teoria delle razze.
+
+Quando una nazione ricca come quella inglese scopre il fatto perfettamente palese
+che sta facendo un pasticcio ridicolo nel [[government|governo]] di una nazione più povera
+come quella irlandese, si arresta per un istante costernata, e poi comincia
+a parlare di celti e teutoni.  Per quanto io possa capire questa teoria,
+gli irlandesi sarebbero celti e gli inglesi teutoni.  Naturalmente gli irlandesi
+non sono celti più di quanto gli inglesi siano teutoni.  Non ho seguito
+la discussione etnologica con molta energia, ma l'ultima conclusione
+scientifica che ho letto propendeva nel complesso per il riassunto secondo cui gli inglesi
+sarebbero in prevalenza celtici e gli irlandesi in prevalenza teutonici.  Ma nessun uomo vivente,
+che possieda anche solo un barlume di vero senso scientifico, si sognerebbe mai
+di applicare i termini «celtico» o «teutonico» all'uno o all'altro in un
+qualsiasi senso positivo o utile.
+
+Quel genere di cose va lasciato a chi parla della
+razza anglosassone, ed estende l'espressione all'[[America]].  Quanto
+[[Blood|sangue]] degli angli e dei sassoni (chiunque essi fossero)
+rimanga nel nostro miscuglio di stirpe britannica, romana, germanica, danese, normanna
+e piccarda, è cosa che interessa soltanto agli antiquari più stravaganti.
+E quanto di quel [[Blood|sangue]] diluito possa mai rimanere
+in quel ruggente vortice d'[[America]] entro il quale una cateratta
+di svedesi, ebrei, tedeschi, irlandesi e italiani si
+riversa perpetuamente, è cosa che interessa soltanto ai pazzi.
+Sarebbe stato più saggio, per la classe dirigente inglese,
+invocare qualche altro dio.  Tutti gli altri dèi,
+per quanto deboli e in guerra fra loro, si vantano almeno di essere costanti.
+Ma la scienza si vanta di essere in perpetuo flusso; si vanta di essere
+instabile come l'[[Water|acqua]].
+
+E l'Inghilterra e la sua classe dirigente non invocarono mai
+questa assurda divinità della razza finché non parve, per un istante,
+che non avessero altro dio da invocare.  Tutti gli inglesi più autentici
+della [[history|storia]] avrebbero sbadigliato o vi avrebbero riso in faccia
+se aveste cominciato a parlare di anglosassoni. Se aveste tentato
+di sostituire l'ideale della razza all'ideale della nazionalità,
+davvero non mi piace pensare a ciò che avrebbero detto.
+Certo non mi sarebbe piaciuto essere l'ufficiale di
+Nelson che alla vigilia di Trafalgar avesse scoperto d'un tratto il proprio [[Blood|sangue]] francese.
+Non mi sarebbe piaciuto essere il gentiluomo del Norfolk
+o del Suffolk che dovesse spiegare all'ammiraglio Blake
+per quali dimostrabili vincoli di genealogia egli fosse irrevocabilmente legato
+agli olandesi.  La [[Truth|verità]] di tutta la faccenda è molto semplice.
+La nazionalità esiste, e non ha nulla al mondo a che fare con la razza.
+La nazionalità è una cosa simile a una chiesa o a una società segreta; è
+un prodotto dell'[[Soul|anima]] e della volontà umana; è un prodotto spirituale.
+E vi sono uomini nel mondo moderno che penserebbero qualunque cosa
+e farebbero qualunque cosa piuttosto che ammettere che qualcosa possa essere
+un prodotto spirituale.
+
+Una nazione, tuttavia, nel modo in cui si presenta al mondo moderno, è un prodotto puramente
+spirituale.  Talvolta è nata nell'indipendenza,
+come la Scozia.  Talvolta è nata nella dipendenza,
+nel soggiogamento, come l'Irlanda.  Talvolta è una cosa grande che si coagula
+a partire da molte cose più piccole, come l'[[Italy|Italia]].  Talvolta è una cosa piccola
+che si stacca da cose più grandi, come la Polonia.  Ma in ciascun
+caso, e in ogni caso, la sua qualità è puramente spirituale, o, se volete,
+puramente psicologica.  È il momento in cui cinque uomini diventano
+un sesto uomo.  Lo sa chiunque abbia mai fondato un club.
+È il momento in cui cinque luoghi diventano un solo luogo.
+Deve saperlo chiunque abbia mai dovuto respingere un'invasione.
+Il signor Timothy Healy, l'intelletto più serio dell'attuale
+Camera dei Comuni ([[house|House]] of Commons), riassunse alla perfezione la nazionalità quando
+la definì semplicemente qualcosa per cui la gente è disposta a morire.
+Come ebbe egregiamente a dire in risposta a Lord Hugh Cecil, «Nessuno,
+neppure il nobile lord, morirebbe per il meridiano
+di Greenwich».  E questo è il grande tributo al suo carattere puramente
+psicologico.  È ozioso chiedersi perché Greenwich non dovrebbe
+coagularsi in questa maniera spirituale, mentre Atene o Sparta lo fecero.
+È come chiedersi perché un uomo si innamori di una donna e non di
+un'altra, cadendo nell'[[Love|amore]] per l'una e non per l'altra.
+
+Ora, di questa grande coerenza spirituale, indipendente da
+circostanze esterne, o dalla razza, o da qualsiasi ovvia
+cosa fisica, l'Irlanda è l'esempio più notevole.
+Roma conquistò nazioni, ma l'Irlanda ha conquistato razze.
+Il normanno vi è andato ed è diventato irlandese, lo scozzese vi è
+andato ed è diventato irlandese, lo spagnolo vi è andato ed è
+diventato irlandese, perfino l'aspro soldato di Cromwell vi è andato
+ed è diventato irlandese.  L'Irlanda, che non esisteva neppure politicamente,
+è stata più forte di tutte le razze che esistevano scientificamente.
+Il più puro [[Blood|sangue]] germanico, il più puro [[Blood|sangue]] normanno, il più puro
+[[Blood|sangue]] dell'appassionato patriota scozzese, non è stato tanto attraente
+quanto una nazione senza [[Flag|bandiera]].  L'Irlanda, misconosciuta e oppressa,
+ha assorbito con facilità le razze, come si assorbono con facilità simili inezie.
+Si è sbarazzata con facilità della scienza fisica, come ci si sbarazza
+con facilità di simili superstizioni.  La nazionalità nella sua
+debolezza è stata più forte dell'etnologia nella sua forza.
+Cinque razze trionfanti sono state assorbite, sono state sconfitte
+da una nazionalità sconfitta.
+
+Poiché questa è la vera e strana gloria dell'Irlanda, è impossibile
+udire senza impazienza il tentativo, così costantemente
+compiuto tra i suoi simpatizzanti moderni, di parlare di celti
+e di celticismo.  Chi erano i celti?  Sfido chiunque a dirlo.
+Chi sono gli irlandesi?  Sfido chiunque a esserne indifferente, o a
+fingere di non saperlo.  Il signor W. B. Yeats, il grande genio irlandese
+che è comparso ai nostri [[Time|giorni]], mostra la sua ammirevole penetrazione
+scartando del tutto l'argomento della razza celtica.
+Ma non sfugge completamente, e i suoi seguaci quasi
+mai sfuggono, all'obiezione generale contro l'argomento celtico.
+La tendenza di quell'argomento è di rappresentare gli irlandesi, o i celti,
+come una razza strana e separata, come una tribù di eccentrici
+nel mondo moderno immersi in oscure leggende e in infruttuosi [[Dreams|sogni]].
+La sua tendenza è di mostrare gli irlandesi come bizzarri, perché vedono
+le fate.  La sua inclinazione è di far apparire gli irlandesi strani e selvaggi
+perché cantano vecchie [[songs|canzoni]] e si uniscono a strane danze.
+Ma questo è un vero e proprio errore; anzi, è l'opposto della [[Truth|verità]].
+Sono gli inglesi a essere bizzarri, perché non vedono le fate.
+Sono gli abitanti di Kensington a essere strani e selvaggi,
+perché non cantano vecchie [[songs|canzoni]] né si uniscono a strane danze.
+In tutto questo gli irlandesi non sono affatto strani e separati, non
+sono affatto celtici, nel senso in cui la parola è comunemente e popolarmente usata.
+In tutto questo gli irlandesi sono semplicemente una nazione ordinaria e assennata,
+che vive la vita di qualsiasi altra nazione ordinaria e assennata
+che non sia stata né inzuppata di fumo né oppressa dagli
+usurai, o altrimenti corrotta dalla ricchezza e dalla scienza.
+Non c'è nulla di celtico nell'avere leggende.  È semplicemente umano.
+I tedeschi, che sono (suppongo) teutonici, hanno centinaia
+di leggende, ovunque accada che i tedeschi siano umani.
+Non c'è nulla di celtico nell'amare la poesia; gli inglesi
+amarono la poesia più, forse, di qualsiasi altro popolo, prima che
+cadessero sotto l'[[Shadow|ombra]] del comignolo e sotto l'[[Shadow|ombra]]
+del cilindro.  Non è l'Irlanda a essere folle e mistica;
+è Manchester a essere folle e mistica, il che è incredibile,
+il che è una selvaggia eccezione fra le cose umane.  L'Irlanda non
+ha bisogno di giocare allo sciocco gioco della scienza delle razze;
+l'Irlanda non ha bisogno di fingersi una tribù di visionari a parte.
+In materia di visioni, l'Irlanda è più di una nazione:
+è una nazione modello.
 
 
 

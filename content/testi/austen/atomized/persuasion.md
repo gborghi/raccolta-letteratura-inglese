@@ -16731,1048 +16731,6 @@ Finis
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="Persuasion — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
-
-
-CHAPTER II.
-
-
-
-
-
-Mr Shepherd, a civil, cautious lawyer, who, whatever might be his hold
-
-or his views on Sir Walter, would rather have the _disagreeable_
-
-prompted by anybody else, excused himself from offering the slightest
-
-hint, and only begged leave to recommend an implicit reference to the
-
-excellent judgement of [[Lady Russell]], from whose known good sense he
-
-fully expected to have just such resolute measures advised as he meant
-
-to see finally adopted.
-
-
-
-[[Lady Russell]] was most anxiously zealous on the subject, and gave it
-
-much serious consideration. She was a woman rather of sound than of
-
-quick abilities, whose difficulties in coming to any decision in this
-
-instance were great, from the opposition of two leading principles. She
-
-was of strict integrity herself, with a delicate sense of [[Honour|honour]]; but
-
-she was as desirous of saving Sir Walter’s feelings, as solicitous for
-
-the credit of the family, as aristocratic in her ideas of what was due
-
-to them, as anybody of sense and honesty could [[Well|well]] be. She was a
-
-benevolent, charitable, good woman, and capable of strong attachments,
-
-most correct in her conduct, strict in her notions of decorum, and with
-
-manners that were held a standard of good-breeding. She had a
-
-cultivated mind, and was, generally speaking, rational and
-
-consistent—but she had prejudices on the side of ancestry; she had a
-
-value for rank and consequence, which blinded her a little to the
-
-faults of those who possessed them. Herself the widow of only a knight,
-
-she gave the dignity of a baronet all its due; and Sir Walter,
-
-independent of his claims as an old acquaintance, an attentive
-
-neighbour, an obliging landlord, the husband of her very dear friend,
-
-the father of Anne and her sisters, was, as being Sir Walter, in her
-
-apprehension, entitled to a great deal of compassion and consideration
-
-under his present difficulties.
-
-
-
-They must retrench; that did not admit of a [[Doubt|doubt]]. But she was very
-
-anxious to have it done with the least possible [[Pain|pain]] to him and
-
-Elizabeth. She drew up plans of economy, she made exact calculations,
-
-and she did what nobody else thought of doing: she consulted Anne, who
-
-never seemed considered by the others as having any interest in the
-
-question. She consulted, and in a degree was influenced by her in
-
-marking out the scheme of retrenchment which was at last submitted to
-
-Sir Walter. Every emendation of Anne’s had been on the side of honesty
-
-against importance. She wanted more vigorous measures, a more complete
-
-[[Reformation|reformation]], a quicker release from debt, a much higher tone of
-
-indifference for everything but justice and equity.
-
-
-
-“If we can persuade your father to all this,” said [[Lady Russell]],
-
-looking over her paper, “much may be done. If he will adopt these
-
-regulations, in seven years he will be clear; and I [[Hope|hope]] we may be able
-
-to convince him and Elizabeth, that Kellynch Hall has a respectability
-
-in itself which cannot be affected by these reductions; and that the
-
-true dignity of [[Sir Walter Elliot]] will be very far from lessened in the
-
-eyes of sensible people, by acting like a man of principle. What will
-
-he be doing, in fact, but what very many of our first families have
-
-done, or ought to do? There will be nothing singular in his case; and
-
-it is singularity which often makes the worst part of our [[Suffering|suffering]], as
-
-it always does of our conduct. I have great [[Hope|hope]] of prevailing. We must
-
-be serious and decided; for after all, the person who has contracted
-
-debts must pay them; and though a great deal is due to the feelings of
-
-the gentleman, and the head of a [[house]], like your father, there is
-
-still more due to the character of an honest man.”
-
-
-
-This was the principle on which Anne wanted her father to be
-
-proceeding, his friends to be urging him. She considered it as an act
-
-of indispensable duty to clear away the claims of creditors with all
-
-the expedition which the most comprehensive retrenchments could secure,
-
-and saw no dignity in anything short of it. She wanted it to be
-
-prescribed, and felt as a duty. She rated [[Lady Russell]]’s influence
-
-highly; and as to the severe degree of [[Self|self]]-denial which her own
-
-[[Conscience|conscience]] prompted, she believed there might be little more difficulty
-
-in persuading them to a complete, than to half a [[Reformation|reformation]]. Her
-
-knowledge of her father and Elizabeth inclined her to think that the
-
-sacrifice of one pair of horses would be hardly less painful than of
-
-both, and so on, through the whole list of [[Lady Russell]]’s too gentle
-
-reductions.
-
-
-
-How Anne’s more rigid requisitions might have been taken is of little
-
-consequence. [[Lady Russell]]’s had no [[success]] at all: could not be put up
-
-with, were not to be borne. “What! every comfort of life knocked off!
-
-Journeys, [[London]], servants, horses, table—contractions and restrictions
-
-every where! To live no longer with the decencies even of a private
-
-gentleman! No, he would sooner quit Kellynch Hall at once, than remain
-
-in it on such disgraceful terms.”
-
-
-
-“Quit Kellynch Hall.” The hint was immediately taken up by Mr Shepherd,
-
-whose interest was involved in the reality of Sir Walter’s retrenching,
-
-and who was perfectly persuaded that nothing would be done without a
-
-change of abode. “Since the idea had been started in the very quarter
-
-which ought to dictate, he had no scruple,” he said, “in confessing his
-
-judgement to be entirely on that side. It did not appear to him that
-
-Sir Walter could materially alter his style of living in a [[house]] which
-
-had such a character of hospitality and ancient dignity to support. In
-
-any other place Sir Walter might judge for himself; and would be looked
-
-up to, as regulating the modes of life in whatever way he might choose
-
-to model his household.”
-
-
-
-Sir Walter would quit Kellynch Hall; and after a very few days more of
-
-[[Doubt|doubt]] and indecision, the great question of whither he should go was
-
-settled, and the first outline of this important change made out.
-
-
-
-There had been three alternatives, [[London]], Bath, or another [[house]] in
-
-the country. All Anne’s wishes had been for the latter. A small [[house]]
-
-in their own neighbourhood, where they might still have [[Lady Russell]]’s
-
-society, still be near Mary, and still have the pleasure of sometimes
-
-seeing the lawns and groves of Kellynch, was the object of her
-
-[[Ambition|ambition]]. But the usual fate of Anne attended her, in having something
-
-very opposite from her inclination fixed on. She disliked Bath, and did
-
-not think it agreed with her; and Bath was to be her [[Home|home]].
-
-
-
-Sir Walter had at first thought more of [[London]]; but Mr Shepherd felt
-
-that he could not be trusted in [[London]], and had been skilful enough to
-
-dissuade him from it, and make Bath preferred. It was a much safer
-
-place for a gentleman in his predicament: he might there be important
-
-at comparatively little expense. Two material advantages of Bath over
-
-[[London]] had of course been given all their weight: its more convenient
-
-distance from Kellynch, only fifty miles, and [[Lady Russell]]’s spending
-
-some part of every [[Winter|winter]] there; and to the very great satisfaction of
-
-[[Lady Russell]], whose first views on the projected change had been for
-
-Bath, Sir Walter and Elizabeth were induced to believe that they should
-
-lose neither consequence nor enjoyment by settling there.
-
-
-
-[[Lady Russell]] felt obliged to oppose her dear Anne’s known wishes. It
-
-would be too much to expect Sir Walter to descend into a small [[house]] in
-
-his own neighbourhood. Anne herself would have found the mortifications
-
-of it more than she foresaw, and to Sir Walter’s feelings they must
-
-have been dreadful. And with regard to Anne’s dislike of Bath, she
-
-considered it as a prejudice and mistake arising, first, from the
-
-circumstance of her having been three years at school there, after her
-
-mother’s [[Death|death]]; and secondly, from her happening to be not in perfectly
-
-good spirits the only [[Winter|winter]] which she had afterwards spent there with
-
-herself.
-
-
-
-[[Lady Russell]] was fond of Bath, in short, and disposed to think it must
-
-suit them all; and as to her young friend’s health, by passing all the
-
-warm months with her at Kellynch Lodge, every danger would be avoided;
-
-and it was in fact, a change which must do both health and spirits
-
-good. Anne had been too little from [[Home|home]], too little seen. Her spirits
-
-were not high. A larger society would improve them. She wanted her to
-
-be more known.
-
-
-
-The undesirableness of any other [[house]] in the same neighbourhood for
-
-Sir Walter was certainly much strengthened by one part, and a very
-
-material part of the scheme, which had been happily engrafted on the
-
-beginning. He was not only to quit his [[Home|home]], but to see it in the hands
-
-of others; a trial of fortitude, which stronger heads than Sir Walter’s
-
-have found too much. Kellynch Hall was to be let. This, however, was a
-
-profound secret, not to be breathed beyond their own circle.
-
-
-
-Sir Walter could not have borne the degradation of being known to
-
-design letting his [[house]]. Mr Shepherd had once mentioned the word
-
-“advertise,” but never dared approach it again. Sir Walter spurned the
-
-idea of its being offered in any manner; forbad the slightest hint
-
-being dropped of his having such an intention; and it was only on the
-
-supposition of his being spontaneously solicited by some most
-
-unexceptionable applicant, on his own terms, and as a great favour,
-
-that he would let it at all.
-
-
-
-How quick come the reasons for approving what we like! [[Lady Russell]] had
-
-another excellent one at hand, for being extremely glad that Sir Walter
-
-and his family were to remove from the country. Elizabeth had been
-
-lately forming an intimacy, which she wished to see interrupted. It was
-
-with the daughter of Mr Shepherd, who had returned, after an
-
-unprosperous [[Marriage|marriage]], to her father’s [[house]], with the additional
-
-burden of two children. She was a clever young woman, who understood
-
-the art of pleasing—the art of pleasing, at least, at Kellynch Hall;
-
-and who had made herself so acceptable to Miss Elliot, as to have been
-
-already staying there more than once, in spite of all that Lady
-
-Russell, who thought it a [[Friendship|friendship]] quite out of place, could hint of
-
-caution and reserve.
-
-
-
-[[Lady Russell]], indeed, had scarcely any influence with Elizabeth, and
-
-seemed to [[Love|love]] her, rather because she would [[Love|love]] her, than because
-
-Elizabeth deserved it. She had never received from her more than
-
-outward attention, nothing beyond the observances of complaisance; had
-
-never succeeded in any point which she wanted to carry, against
-
-previous inclination. She had been repeatedly very earnest in trying to
-
-get Anne included in the visit to [[London]], sensibly open to all the
-
-injustice and all the discredit of the selfish arrangements which shut
-
-her out, and on many lesser occasions had endeavoured to give Elizabeth
-
-the advantage of her own better judgement and experience; but always in
-
-vain: Elizabeth would go her own way; and never had she pursued it in
-
-more decided opposition to [[Lady Russell]] than in this selection of Mrs
-
-Clay; turning from the society of so deserving a sister, to bestow her
-
-affection and confidence on one who ought to have been nothing to her
-
-but the object of distant civility.
-
-
-
-From situation, Mrs Clay was, in [[Lady Russell]]’s estimate, a very
-
-unequal, and in her character she believed a very dangerous companion;
-
-and a removal that would leave Mrs Clay behind, and bring a choice of
-
-more suitable intimates within Miss Elliot’s reach, was therefore an
-
-object of first-rate importance.
-
-
-
-
-<span class="atom-split" data-atom="chapter_04" data-title="Persuasion — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
-
-
-CHAPTER IV.
-
-
-
-
-
-_He_ was not Mr Wentworth, the former curate of Monkford, however
-
-suspicious appearances may be, but a Captain Frederick Wentworth, his
-
-brother, who being made commander in consequence of the action off St
-
-Domingo, and not immediately employed, had come into Somersetshire, in
-
-the [[Summer|summer]] of 1806; and having no parent living, found a [[Home|home]] for half
-
-a year at Monkford. He was, at that [[Time|time]], a remarkably fine young man,
-
-with a great deal of intelligence, spirit, and brilliancy; and Anne an
-
-extremely pretty girl, with gentleness, modesty, taste, and feeling.
-
-Half the sum of attraction, on either side, might have been enough, for
-
-he had nothing to do, and she had hardly anybody to [[Love|love]]; but the
-
-encounter of such lavish recommendations could not fail. They were
-
-gradually acquainted, and when acquainted, rapidly and deeply in [[Love|love]].
-
-It would be difficult to say which had seen highest perfection in the
-
-other, or which had been the happiest: she, in receiving his
-
-declarations and proposals, or he in having them accepted.
-
-
-
-A short period of exquisite felicity followed, and but a short one.
-
-Troubles soon arose. Sir Walter, on being applied to, without actually
-
-withholding his consent, or saying it should never be, gave it all the
-
-negative of great astonishment, great coldness, great [[Silence|silence]], and a
-
-professed resolution of doing nothing for his daughter. He thought it a
-
-very degrading alliance; and [[Lady Russell]], though with more tempered
-
-and pardonable [[Pride|pride]], received it as a most unfortunate one.
-
-
-
-[[Anne Elliot]], with all her claims of birth, [[Beauty|beauty]], and mind, to throw
-
-herself away at nineteen; involve herself at nineteen in an engagement
-
-with a young man, who had nothing but himself to recommend him, and no
-
-hopes of attaining affluence, but in the chances of a most uncertain
-
-profession, and no connexions to secure even his farther rise in the
-
-profession, would be, indeed, a throwing away, which she grieved to
-
-think of! [[Anne Elliot]], so young; known to so few, to be snatched off by
-
-a stranger without alliance or fortune; or rather sunk by him into a
-
-state of most wearing, anxious, youth-killing dependence! It must not
-
-be, if by any fair interference of [[Friendship|friendship]], any representations from
-
-one who had almost a mother’s [[Love|love]], and mother’s rights, it would be
-
-prevented.
-
-
-
-[[Captain Wentworth]] had no fortune. He had been lucky in his profession;
-
-but spending freely, what had come freely, had realized nothing. But he
-
-was confident that he should soon be rich: full of life and ardour, he
-
-knew that he should soon have a [[Ship|ship]], and soon be on a station that
-
-would lead to everything he wanted. He had always been lucky; he knew
-
-he should be so still. Such confidence, powerful in its own warmth, and
-
-bewitching in the wit which often expressed it, must have been enough
-
-for Anne; but [[Lady Russell]] saw it very differently. His sanguine
-
-temper, and fearlessness of mind, operated very differently on her. She
-
-saw in it but an aggravation of the evil. It only added a dangerous
-
-character to himself. He was brilliant, he was headstrong. [[Lady Russell]]
-
-had little taste for wit, and of anything approaching to imprudence a
-
-horror. She deprecated the connexion in every light.
-
-
-
-Such opposition, as these feelings produced, was more than Anne could
-
-combat. Young and gentle as she was, it might yet have been possible to
-
-withstand her father’s ill-will, though unsoftened by one kind word or
-
-look on the part of her sister; but [[Lady Russell]], whom she had always
-
-loved and relied on, could not, with such steadiness of opinion, and
-
-such tenderness of manner, be continually advising her in vain. She was
-
-persuaded to believe the engagement a wrong thing: indiscreet,
-
-improper, hardly capable of [[success]], and not deserving it. But it was
-
-not a merely selfish caution, under which she acted, in putting an end
-
-to it. Had she not imagined herself consulting his good, even more than
-
-her own, she could hardly have given him up. The belief of being
-
-prudent, and [[Self|self]]-denying, principally for _his_ advantage, was her
-
-chief consolation, under the misery of a parting, a final parting; and
-
-every consolation was required, for she had to encounter all the
-
-additional [[Pain|pain]] of opinions, on his side, totally unconvinced and
-
-unbending, and of his feeling himself ill used by so forced a
-
-relinquishment. He had left the country in consequence.
-
-
-
-A few months had seen the beginning and the end of their acquaintance;
-
-but not with a few months ended Anne’s share of [[Suffering|suffering]] from it. Her
-
-attachment and regrets had, for a long [[Time|time]], clouded every enjoyment of
-
-youth, and an early loss of bloom and spirits had been their lasting
-
-effect.
-
-
-
-More than seven years were gone since this little [[history]] of sorrowful
-
-interest had reached its close; and [[Time|time]] had softened down much,
-
-perhaps nearly all of peculiar attachment to him, but she had been too
-
-dependent on [[Time|time]] [[Alone|alone]]; no aid had been given in change of place
-
-(except in one visit to Bath soon after the rupture), or in any novelty
-
-or enlargement of society. No one had ever come within the Kellynch
-
-circle, who could bear a comparison with Frederick Wentworth, as he
-
-stood in her [[Memory|memory]]. No second attachment, the only thoroughly natural,
-
-happy, and sufficient cure, at her [[Time|time]] of life, had been possible to
-
-the nice tone of her mind, the fastidiousness of her taste, in the
-
-small limits of the society around them. She had been solicited, when
-
-about two-and-twenty, to change her name, by the young man, who not
-
-long afterwards found a more willing mind in her younger sister; and
-
-[[Lady Russell]] had lamented her refusal; for Charles Musgrove was the
-
-eldest son of a man, whose landed property and general importance were
-
-second in that country, only to Sir Walter’s, and of good character and
-
-appearance; and however [[Lady Russell]] might have asked yet for something
-
-more, while Anne was nineteen, she would have rejoiced to see her at
-
-twenty-two so respectably removed from the partialities and injustice
-
-of her father’s [[house]], and settled so permanently near herself. But in
-
-this case, Anne had left nothing for advice to do; and though Lady
-
-Russell, as satisfied as ever with her own discretion, never wished the
-
-past undone, she began now to have the anxiety which borders on
-
-hopelessness for Anne’s being tempted, by some man of talents and
-
-independence, to enter a state for which she held her to be peculiarly
-
-fitted by her warm affections and domestic habits.
-
-
-
-They knew not each other’s opinion, either its constancy or its change,
-
-on the one leading point of Anne’s conduct, for the subject was never
-
-alluded to; but Anne, at seven-and-twenty, thought very differently
-
-from what she had been made to think at nineteen. She did not blame
-
-[[Lady Russell]], she did not blame herself for having been guided by her;
-
-but she felt that were any young person, in similar circumstances, to
-
-apply to her for counsel, they would never receive any of such certain
-
-immediate wretchedness, such uncertain future good. She was persuaded
-
-that under every disadvantage of disapprobation at [[Home|home]], and every
-
-anxiety attending his profession, all their probable fears, delays, and
-
-disappointments, she should yet have been a happier woman in
-
-maintaining the engagement, than she had been in the sacrifice of it;
-
-and this, she fully believed, had the usual share, had even more than
-
-the usual share of all such solicitudes and suspense been theirs,
-
-without reference to the actual results of their case, which, as it
-
-happened, would have bestowed earlier prosperity than could be
-
-reasonably calculated on. All his sanguine expectations, all his
-
-confidence had been justified. His genius and ardour had seemed to
-
-foresee and to command his prosperous path. He had, very soon after
-
-their engagement ceased, got employ: and all that he had told her would
-
-follow, had taken place. He had distinguished himself, and early gained
-
-the other step in rank, and must now, by successive captures, have made
-
-a handsome fortune. She had only navy lists and newspapers for her
-
-authority, but she could not [[Doubt|doubt]] his being rich; and, in favour of
-
-his constancy, she had no reason to believe him married.
-
-
-
-How eloquent could [[Anne Elliot]] have been! how eloquent, at least, were
-
-her wishes on the side of early warm attachment, and a cheerful
-
-confidence in futurity, against that over-anxious caution which seems
-
-to insult exertion and distrust [[Providence]]! She had been forced into
-
-prudence in her youth, she learned [[Romance|romance]] as she grew older: the
-
-natural sequel of an unnatural beginning.
-
-
-
-With all these circumstances, recollections and feelings, she could not
-
-hear that [[Captain Wentworth]]’s sister was likely to live at Kellynch
-
-without a revival of former [[Pain|pain]]; and many a stroll, and many a sigh,
-
-were necessary to dispel the agitation of the idea. She often told
-
-herself it was folly, before she could harden her nerves sufficiently
-
-to feel the continual discussion of the Crofts and their business no
-
-evil. She was assisted, however, by that perfect indifference and
-
-apparent unconsciousness, among the only three of her own friends in
-
-the secret of the past, which seemed almost to deny any recollection of
-
-it. She could do justice to the superiority of [[Lady Russell]]’s motives
-
-in this, over those of her father and Elizabeth; she could [[Honour|honour]] all
-
-the better feelings of her calmness; but the general air of oblivion
-
-among them was highly important from whatever it sprung; and in the
-
-event of [[Admiral Croft]]’s really taking Kellynch Hall, she rejoiced anew
-
-over the conviction which had always been most grateful to her, of the
-
-past being known to those three only among her connexions, by whom no
-
-syllable, she believed, would ever be whispered, and in the trust that
-
-among his, the brother only with whom he had been residing, had
-
-received any information of their short-lived engagement. That brother
-
-had been long removed from the country and being a sensible man, and,
-
-moreover, a single man at the [[Time|time]], she had a fond dependence on no
-
-human creature’s having heard of it from him.
-
-
-
-The sister, Mrs Croft, had then been out of England, accompanying her
-
-husband on a foreign station, and her own sister, Mary, had been at
-
-school while it all occurred; and never admitted by the [[Pride|pride]] of some,
-
-and the delicacy of others, to the smallest knowledge of it afterwards.
-
-
-
-With these supports, she hoped that the acquaintance between herself
-
-and the Crofts, which, with [[Lady Russell]], still resident in Kellynch,
-
-and Mary fixed only three miles off, must be anticipated, need not
-
-involve any particular awkwardness.
-
-
-
-
-<span class="atom-split" data-atom="chapter_24" data-title="Persuasion — Chapter 24" data-chapter="Chapter 24" data-kind="chapter"></span>
-
-
-CHAPTER XXIV.
-
-
-
-
-
-Who can be in [[Doubt|doubt]] of what followed? When any two young people take it
-
-into their heads to marry, they are pretty sure by perseverance to
-
-carry their point, be they ever so poor, or ever so imprudent, or ever
-
-so little likely to be necessary to each other’s ultimate comfort. This
-
-may be bad [[morality]] to conclude with, but I believe it to be [[Truth|truth]]; and
-
-if such parties succeed, how should a [[Captain Wentworth]] and an Anne
-
-Elliot, with the advantage of maturity of mind, consciousness of right,
-
-and one independent fortune between them, fail of bearing down every
-
-opposition? They might in fact, have borne down a great deal more than
-
-they met with, for there was little to distress them beyond the want of
-
-graciousness and warmth. Sir Walter made no objection, and Elizabeth
-
-did nothing worse than look cold and unconcerned. [[Captain Wentworth]],
-
-with five-and-twenty thousand pounds, and as high in his profession as
-
-merit and activity could place him, was no longer nobody. He was now
-
-esteemed quite worthy to address the daughter of a foolish, spendthrift
-
-baronet, who had not had principle or sense enough to maintain himself
-
-in the situation in which [[Providence]] had placed him, and who could give
-
-his daughter at present but a small part of the share of ten thousand
-
-pounds which must be hers hereafter.
-
-
-
-Sir Walter, indeed, though he had no affection for Anne, and no [[Vanity|vanity]]
-
-flattered, to make him really happy on the occasion, was very far from
-
-thinking it a bad match for her. On the contrary, when he saw more of
-
-[[Captain Wentworth]], saw him repeatedly by daylight, and eyed him [[Well|well]],
-
-he was very much struck by his personal claims, and felt that his
-
-superiority of appearance might be not unfairly balanced against her
-
-superiority of rank; and all this, assisted by his [[Well|well]]-sounding name,
-
-enabled Sir Walter at last to prepare his pen, with a very good grace,
-
-for the insertion of the [[Marriage|marriage]] in the volume of [[Honour|honour]].
-
-
-
-The only one among them, whose opposition of feeling could excite any
-
-serious anxiety was [[Lady Russell]]. Anne knew that [[Lady Russell]] must be
-
-[[Suffering|suffering]] some [[Pain|pain]] in understanding and relinquishing Mr Elliot, and
-
-be making some struggles to become truly acquainted with, and do
-
-justice to [[Captain Wentworth]]. This however was what [[Lady Russell]] had
-
-now to do. She must learn to feel that she had been mistaken with
-
-regard to both; that she had been unfairly influenced by appearances in
-
-each; that because [[Captain Wentworth]]’s manners had not suited her own
-
-ideas, she had been too quick in suspecting them to indicate a
-
-character of dangerous impetuosity; and that because Mr Elliot’s
-
-manners had precisely pleased her in their propriety and correctness,
-
-their general politeness and suavity, she had been too quick in
-
-receiving them as the certain result of the most correct opinions and
-
-[[Well|well]]-regulated mind. There was nothing less for [[Lady Russell]] to do,
-
-than to admit that she had been pretty completely wrong, and to take up
-
-a new set of opinions and of hopes.
-
-
-
-There is a quickness of perception in some, a nicety in the discernment
-
-of character, a natural penetration, in short, which no experience in
-
-others can equal, and [[Lady Russell]] had been less gifted in this part of
-
-understanding than her young friend. But she was a very good woman, and
-
-if her second object was to be sensible and [[Well|well]]-judging, her first was
-
-to see Anne happy. She loved Anne better than she loved her own
-
-abilities; and when the awkwardness of the beginning was over, found
-
-little hardship in attaching herself as a mother to the man who was
-
-securing the happiness of her other [[Child|child]].
-
-
-
-Of all the family, Mary was probably the one most immediately gratified
-
-by the circumstance. It was creditable to have a sister married, and
-
-she might flatter herself with having been greatly instrumental to the
-
-connexion, by keeping Anne with her in the [[Autumn|autumn]]; and as her own
-
-sister must be better than her husband’s sisters, it was very agreeable
-
-that [[Captain Wentworth]] should be a richer man than either Captain
-
-Benwick or Charles Hayter. She had something to suffer, perhaps, when
-
-they came into contact again, in seeing Anne restored to the rights of
-
-seniority, and the mistress of a very pretty landaulette; but she had a
-
-future to look forward to, of powerful consolation. Anne had no
-
-Uppercross Hall before her, no landed estate, no headship of a family;
-
-and if they could but keep [[Captain Wentworth]] from being made a baronet,
-
-she would not change situations with Anne.
-
-
-
-It would be [[Well|well]] for the eldest sister if she were equally satisfied
-
-with her situation, for a change is not very probable there. She had
-
-soon the mortification of seeing Mr Elliot withdraw, and no one of
-
-proper condition has since presented himself to raise even the
-
-unfounded hopes which sunk with him.
-
-
-
-The news of his cousin Anne’s engagement burst on Mr Elliot most
-
-unexpectedly. It deranged his best plan of domestic happiness, his best
-
-[[Hope|hope]] of keeping Sir Walter single by the watchfulness which a
-
-son-in-law’s rights would have given. But, though discomfited and
-
-disappointed, he could still do something for his own interest and his
-
-own enjoyment. He soon quitted Bath; and on Mrs Clay’s quitting it soon
-
-afterwards, and being next heard of as established under his protection
-
-in [[London]], it was evident how [[Double|double]] a game he had been playing, and
-
-how determined he was to save himself from being cut out by one artful
-
-woman, at least.
-
-
-
-Mrs Clay’s affections had overpowered her interest, and she had
-
-sacrificed, for the young man’s sake, the possibility of scheming
-
-longer for Sir Walter. She has abilities, however, as [[Well|well]] as
-
-affections; and it is now a doubtful point whether his cunning, or
-
-hers, may finally carry the day; whether, after preventing her from
-
-being the wife of Sir Walter, he may not be wheedled and caressed at
-
-last into making her the wife of Sir William.
-
-
-
-It cannot be doubted that Sir Walter and Elizabeth were shocked and
-
-mortified by the loss of their companion, and the discovery of their
-
-[[Deception|deception]] in her. They had their great cousins, to be sure, to resort
-
-to for comfort; but they must long feel that to flatter and follow
-
-others, without being flattered and followed in turn, is but a state of
-
-half enjoyment.
-
-
-
-Anne, satisfied at a very early period of [[Lady Russell]]’s meaning to
-
-[[Love|love]] [[Captain Wentworth]] as she ought, had no other alloy to the
-
-happiness of her prospects than what arose from the consciousness of
-
-having no relations to bestow on him which a man of sense could value.
-
-There she felt her own inferiority very keenly. The disproportion in
-
-their fortune was nothing; it did not give her a moment’s regret; but
-
-to have no family to receive and estimate him properly, nothing of
-
-respectability, of harmony, of good will to offer in return for all the
-
-worth and all the prompt welcome which met her in his brothers and
-
-sisters, was a source of as lively [[Pain|pain]] as her mind could [[Well|well]] be
-
-sensible of under circumstances of otherwise strong felicity. She had
-
-but two friends in the world to add to his list, [[Lady Russell]] and Mrs
-
-[[smith|Smith]]. To those, however, he was very [[Well|well]] disposed to attach himself.
-
-[[Lady Russell]], in spite of all her former transgressions, he could now
-
-value from his heart. While he was not obliged to say that he believed
-
-her to have been right in originally dividing them, he was ready to say
-
-almost everything else in her favour, and as for Mrs [[smith|Smith]], she had
-
-claims of various kinds to recommend her quickly and permanently.
-
-
-
-Her recent good offices by Anne had been enough in themselves, and
-
-their [[Marriage|marriage]], instead of depriving her of one friend, secured her
-
-two. She was their earliest visitor in their settled life; and Captain
-
-Wentworth, by putting her in the way of recovering her husband’s
-
-property in the West Indies, by writing for her, acting for her, and
-
-seeing her through all the petty difficulties of the case with the
-
-activity and exertion of a fearless man and a determined friend, fully
-
-requited the services which she had rendered, or ever meant to render,
-
-to his wife.
-
-
-
-Mrs [[smith|Smith]]’s enjoyments were not spoiled by this improvement of income,
-
-with some improvement of health, and the acquisition of such friends to
-
-be often with, for her cheerfulness and mental alacrity did not fail
-
-her; and while these prime supplies of good remained, she might have
-
-bid defiance even to greater accessions of worldly prosperity. She
-
-might have been absolutely rich and perfectly healthy, and yet be
-
-happy. Her [[Spring|spring]] of felicity was in the glow of her spirits, as her
-
-friend Anne’s was in the warmth of her heart. Anne was tenderness
-
-itself, and she had the full worth of it in [[Captain Wentworth]]’s
-
-affection. His profession was all that could ever make her friends wish
-
-that tenderness less, the dread of a future war all that could dim her
-
-sunshine. She gloried in being a sailor’s wife, but she must pay the
-
-tax of quick alarm for belonging to that profession which is, if
-
-possible, more distinguished in its domestic virtues than in its
-
-national importance.
-
-
-
-Finis
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Persuasion — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -18303,6 +17261,392 @@ struck out by one or the other to remove their embarrassments and
 reduce their expenditure, without involving the loss of any indulgence
 
 of taste or [[Pride|pride]].
+
+
+
+
+<span class="atom-split" data-atom="chapter_02" data-title="Persuasion — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+
+
+CHAPTER II.
+
+
+
+
+
+Mr Shepherd, a civil, cautious lawyer, who, whatever might be his hold
+
+or his views on Sir Walter, would rather have the _disagreeable_
+
+prompted by anybody else, excused himself from offering the slightest
+
+hint, and only begged leave to recommend an implicit reference to the
+
+excellent judgement of [[Lady Russell]], from whose known good sense he
+
+fully expected to have just such resolute measures advised as he meant
+
+to see finally adopted.
+
+
+
+[[Lady Russell]] was most anxiously zealous on the subject, and gave it
+
+much serious consideration. She was a woman rather of sound than of
+
+quick abilities, whose difficulties in coming to any decision in this
+
+instance were great, from the opposition of two leading principles. She
+
+was of strict integrity herself, with a delicate sense of [[Honour|honour]]; but
+
+she was as desirous of saving Sir Walter’s feelings, as solicitous for
+
+the credit of the family, as aristocratic in her ideas of what was due
+
+to them, as anybody of sense and honesty could [[Well|well]] be. She was a
+
+benevolent, charitable, good woman, and capable of strong attachments,
+
+most correct in her conduct, strict in her notions of decorum, and with
+
+manners that were held a standard of good-breeding. She had a
+
+cultivated mind, and was, generally speaking, rational and
+
+consistent—but she had prejudices on the side of ancestry; she had a
+
+value for rank and consequence, which blinded her a little to the
+
+faults of those who possessed them. Herself the widow of only a knight,
+
+she gave the dignity of a baronet all its due; and Sir Walter,
+
+independent of his claims as an old acquaintance, an attentive
+
+neighbour, an obliging landlord, the husband of her very dear friend,
+
+the father of Anne and her sisters, was, as being Sir Walter, in her
+
+apprehension, entitled to a great deal of compassion and consideration
+
+under his present difficulties.
+
+
+
+They must retrench; that did not admit of a [[Doubt|doubt]]. But she was very
+
+anxious to have it done with the least possible [[Pain|pain]] to him and
+
+Elizabeth. She drew up plans of economy, she made exact calculations,
+
+and she did what nobody else thought of doing: she consulted Anne, who
+
+never seemed considered by the others as having any interest in the
+
+question. She consulted, and in a degree was influenced by her in
+
+marking out the scheme of retrenchment which was at last submitted to
+
+Sir Walter. Every emendation of Anne’s had been on the side of honesty
+
+against importance. She wanted more vigorous measures, a more complete
+
+[[Reformation|reformation]], a quicker release from debt, a much higher tone of
+
+indifference for everything but justice and equity.
+
+
+
+“If we can persuade your father to all this,” said [[Lady Russell]],
+
+looking over her paper, “much may be done. If he will adopt these
+
+regulations, in seven years he will be clear; and I [[Hope|hope]] we may be able
+
+to convince him and Elizabeth, that Kellynch Hall has a respectability
+
+in itself which cannot be affected by these reductions; and that the
+
+true dignity of [[Sir Walter Elliot]] will be very far from lessened in the
+
+eyes of sensible people, by acting like a man of principle. What will
+
+he be doing, in fact, but what very many of our first families have
+
+done, or ought to do? There will be nothing singular in his case; and
+
+it is singularity which often makes the worst part of our [[Suffering|suffering]], as
+
+it always does of our conduct. I have great [[Hope|hope]] of prevailing. We must
+
+be serious and decided; for after all, the person who has contracted
+
+debts must pay them; and though a great deal is due to the feelings of
+
+the gentleman, and the head of a [[house]], like your father, there is
+
+still more due to the character of an honest man.”
+
+
+
+This was the principle on which Anne wanted her father to be
+
+proceeding, his friends to be urging him. She considered it as an act
+
+of indispensable duty to clear away the claims of creditors with all
+
+the expedition which the most comprehensive retrenchments could secure,
+
+and saw no dignity in anything short of it. She wanted it to be
+
+prescribed, and felt as a duty. She rated [[Lady Russell]]’s influence
+
+highly; and as to the severe degree of [[Self|self]]-denial which her own
+
+[[Conscience|conscience]] prompted, she believed there might be little more difficulty
+
+in persuading them to a complete, than to half a [[Reformation|reformation]]. Her
+
+knowledge of her father and Elizabeth inclined her to think that the
+
+sacrifice of one pair of horses would be hardly less painful than of
+
+both, and so on, through the whole list of [[Lady Russell]]’s too gentle
+
+reductions.
+
+
+
+How Anne’s more rigid requisitions might have been taken is of little
+
+consequence. [[Lady Russell]]’s had no [[success]] at all: could not be put up
+
+with, were not to be borne. “What! every comfort of life knocked off!
+
+Journeys, [[London]], servants, horses, table—contractions and restrictions
+
+every where! To live no longer with the decencies even of a private
+
+gentleman! No, he would sooner quit Kellynch Hall at once, than remain
+
+in it on such disgraceful terms.”
+
+
+
+“Quit Kellynch Hall.” The hint was immediately taken up by Mr Shepherd,
+
+whose interest was involved in the reality of Sir Walter’s retrenching,
+
+and who was perfectly persuaded that nothing would be done without a
+
+change of abode. “Since the idea had been started in the very quarter
+
+which ought to dictate, he had no scruple,” he said, “in confessing his
+
+judgement to be entirely on that side. It did not appear to him that
+
+Sir Walter could materially alter his style of living in a [[house]] which
+
+had such a character of hospitality and ancient dignity to support. In
+
+any other place Sir Walter might judge for himself; and would be looked
+
+up to, as regulating the modes of life in whatever way he might choose
+
+to model his household.”
+
+
+
+Sir Walter would quit Kellynch Hall; and after a very few days more of
+
+[[Doubt|doubt]] and indecision, the great question of whither he should go was
+
+settled, and the first outline of this important change made out.
+
+
+
+There had been three alternatives, [[London]], Bath, or another [[house]] in
+
+the country. All Anne’s wishes had been for the latter. A small [[house]]
+
+in their own neighbourhood, where they might still have [[Lady Russell]]’s
+
+society, still be near Mary, and still have the pleasure of sometimes
+
+seeing the lawns and groves of Kellynch, was the object of her
+
+[[Ambition|ambition]]. But the usual fate of Anne attended her, in having something
+
+very opposite from her inclination fixed on. She disliked Bath, and did
+
+not think it agreed with her; and Bath was to be her [[Home|home]].
+
+
+
+Sir Walter had at first thought more of [[London]]; but Mr Shepherd felt
+
+that he could not be trusted in [[London]], and had been skilful enough to
+
+dissuade him from it, and make Bath preferred. It was a much safer
+
+place for a gentleman in his predicament: he might there be important
+
+at comparatively little expense. Two material advantages of Bath over
+
+[[London]] had of course been given all their weight: its more convenient
+
+distance from Kellynch, only fifty miles, and [[Lady Russell]]’s spending
+
+some part of every [[Winter|winter]] there; and to the very great satisfaction of
+
+[[Lady Russell]], whose first views on the projected change had been for
+
+Bath, Sir Walter and Elizabeth were induced to believe that they should
+
+lose neither consequence nor enjoyment by settling there.
+
+
+
+[[Lady Russell]] felt obliged to oppose her dear Anne’s known wishes. It
+
+would be too much to expect Sir Walter to descend into a small [[house]] in
+
+his own neighbourhood. Anne herself would have found the mortifications
+
+of it more than she foresaw, and to Sir Walter’s feelings they must
+
+have been dreadful. And with regard to Anne’s dislike of Bath, she
+
+considered it as a prejudice and mistake arising, first, from the
+
+circumstance of her having been three years at school there, after her
+
+mother’s [[Death|death]]; and secondly, from her happening to be not in perfectly
+
+good spirits the only [[Winter|winter]] which she had afterwards spent there with
+
+herself.
+
+
+
+[[Lady Russell]] was fond of Bath, in short, and disposed to think it must
+
+suit them all; and as to her young friend’s health, by passing all the
+
+warm months with her at Kellynch Lodge, every danger would be avoided;
+
+and it was in fact, a change which must do both health and spirits
+
+good. Anne had been too little from [[Home|home]], too little seen. Her spirits
+
+were not high. A larger society would improve them. She wanted her to
+
+be more known.
+
+
+
+The undesirableness of any other [[house]] in the same neighbourhood for
+
+Sir Walter was certainly much strengthened by one part, and a very
+
+material part of the scheme, which had been happily engrafted on the
+
+beginning. He was not only to quit his [[Home|home]], but to see it in the hands
+
+of others; a trial of fortitude, which stronger heads than Sir Walter’s
+
+have found too much. Kellynch Hall was to be let. This, however, was a
+
+profound secret, not to be breathed beyond their own circle.
+
+
+
+Sir Walter could not have borne the degradation of being known to
+
+design letting his [[house]]. Mr Shepherd had once mentioned the word
+
+“advertise,” but never dared approach it again. Sir Walter spurned the
+
+idea of its being offered in any manner; forbad the slightest hint
+
+being dropped of his having such an intention; and it was only on the
+
+supposition of his being spontaneously solicited by some most
+
+unexceptionable applicant, on his own terms, and as a great favour,
+
+that he would let it at all.
+
+
+
+How quick come the reasons for approving what we like! [[Lady Russell]] had
+
+another excellent one at hand, for being extremely glad that Sir Walter
+
+and his family were to remove from the country. Elizabeth had been
+
+lately forming an intimacy, which she wished to see interrupted. It was
+
+with the daughter of Mr Shepherd, who had returned, after an
+
+unprosperous [[Marriage|marriage]], to her father’s [[house]], with the additional
+
+burden of two children. She was a clever young woman, who understood
+
+the art of pleasing—the art of pleasing, at least, at Kellynch Hall;
+
+and who had made herself so acceptable to Miss Elliot, as to have been
+
+already staying there more than once, in spite of all that Lady
+
+Russell, who thought it a [[Friendship|friendship]] quite out of place, could hint of
+
+caution and reserve.
+
+
+
+[[Lady Russell]], indeed, had scarcely any influence with Elizabeth, and
+
+seemed to [[Love|love]] her, rather because she would [[Love|love]] her, than because
+
+Elizabeth deserved it. She had never received from her more than
+
+outward attention, nothing beyond the observances of complaisance; had
+
+never succeeded in any point which she wanted to carry, against
+
+previous inclination. She had been repeatedly very earnest in trying to
+
+get Anne included in the visit to [[London]], sensibly open to all the
+
+injustice and all the discredit of the selfish arrangements which shut
+
+her out, and on many lesser occasions had endeavoured to give Elizabeth
+
+the advantage of her own better judgement and experience; but always in
+
+vain: Elizabeth would go her own way; and never had she pursued it in
+
+more decided opposition to [[Lady Russell]] than in this selection of Mrs
+
+Clay; turning from the society of so deserving a sister, to bestow her
+
+affection and confidence on one who ought to have been nothing to her
+
+but the object of distant civility.
+
+
+
+From situation, Mrs Clay was, in [[Lady Russell]]’s estimate, a very
+
+unequal, and in her character she believed a very dangerous companion;
+
+and a removal that would leave Mrs Clay behind, and bring a choice of
+
+more suitable intimates within Miss Elliot’s reach, was therefore an
+
+object of first-rate importance.
 
 
 
@@ -18887,6 +18231,352 @@ flushed cheeks; and as she walked along a favourite grove, said, with a
 gentle sigh, “A few months more, and _he_, perhaps, may be walking
 
 here.”
+
+
+
+
+<span class="atom-split" data-atom="chapter_04" data-title="Persuasion — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+
+
+CHAPTER IV.
+
+
+
+
+
+_He_ was not Mr Wentworth, the former curate of Monkford, however
+
+suspicious appearances may be, but a Captain Frederick Wentworth, his
+
+brother, who being made commander in consequence of the action off St
+
+Domingo, and not immediately employed, had come into Somersetshire, in
+
+the [[Summer|summer]] of 1806; and having no parent living, found a [[Home|home]] for half
+
+a year at Monkford. He was, at that [[Time|time]], a remarkably fine young man,
+
+with a great deal of intelligence, spirit, and brilliancy; and Anne an
+
+extremely pretty girl, with gentleness, modesty, taste, and feeling.
+
+Half the sum of attraction, on either side, might have been enough, for
+
+he had nothing to do, and she had hardly anybody to [[Love|love]]; but the
+
+encounter of such lavish recommendations could not fail. They were
+
+gradually acquainted, and when acquainted, rapidly and deeply in [[Love|love]].
+
+It would be difficult to say which had seen highest perfection in the
+
+other, or which had been the happiest: she, in receiving his
+
+declarations and proposals, or he in having them accepted.
+
+
+
+A short period of exquisite felicity followed, and but a short one.
+
+Troubles soon arose. Sir Walter, on being applied to, without actually
+
+withholding his consent, or saying it should never be, gave it all the
+
+negative of great astonishment, great coldness, great [[Silence|silence]], and a
+
+professed resolution of doing nothing for his daughter. He thought it a
+
+very degrading alliance; and [[Lady Russell]], though with more tempered
+
+and pardonable [[Pride|pride]], received it as a most unfortunate one.
+
+
+
+[[Anne Elliot]], with all her claims of birth, [[Beauty|beauty]], and mind, to throw
+
+herself away at nineteen; involve herself at nineteen in an engagement
+
+with a young man, who had nothing but himself to recommend him, and no
+
+hopes of attaining affluence, but in the chances of a most uncertain
+
+profession, and no connexions to secure even his farther rise in the
+
+profession, would be, indeed, a throwing away, which she grieved to
+
+think of! [[Anne Elliot]], so young; known to so few, to be snatched off by
+
+a stranger without alliance or fortune; or rather sunk by him into a
+
+state of most wearing, anxious, youth-killing dependence! It must not
+
+be, if by any fair interference of [[Friendship|friendship]], any representations from
+
+one who had almost a mother’s [[Love|love]], and mother’s rights, it would be
+
+prevented.
+
+
+
+[[Captain Wentworth]] had no fortune. He had been lucky in his profession;
+
+but spending freely, what had come freely, had realized nothing. But he
+
+was confident that he should soon be rich: full of life and ardour, he
+
+knew that he should soon have a [[Ship|ship]], and soon be on a station that
+
+would lead to everything he wanted. He had always been lucky; he knew
+
+he should be so still. Such confidence, powerful in its own warmth, and
+
+bewitching in the wit which often expressed it, must have been enough
+
+for Anne; but [[Lady Russell]] saw it very differently. His sanguine
+
+temper, and fearlessness of mind, operated very differently on her. She
+
+saw in it but an aggravation of the evil. It only added a dangerous
+
+character to himself. He was brilliant, he was headstrong. [[Lady Russell]]
+
+had little taste for wit, and of anything approaching to imprudence a
+
+horror. She deprecated the connexion in every light.
+
+
+
+Such opposition, as these feelings produced, was more than Anne could
+
+combat. Young and gentle as she was, it might yet have been possible to
+
+withstand her father’s ill-will, though unsoftened by one kind word or
+
+look on the part of her sister; but [[Lady Russell]], whom she had always
+
+loved and relied on, could not, with such steadiness of opinion, and
+
+such tenderness of manner, be continually advising her in vain. She was
+
+persuaded to believe the engagement a wrong thing: indiscreet,
+
+improper, hardly capable of [[success]], and not deserving it. But it was
+
+not a merely selfish caution, under which she acted, in putting an end
+
+to it. Had she not imagined herself consulting his good, even more than
+
+her own, she could hardly have given him up. The belief of being
+
+prudent, and [[Self|self]]-denying, principally for _his_ advantage, was her
+
+chief consolation, under the misery of a parting, a final parting; and
+
+every consolation was required, for she had to encounter all the
+
+additional [[Pain|pain]] of opinions, on his side, totally unconvinced and
+
+unbending, and of his feeling himself ill used by so forced a
+
+relinquishment. He had left the country in consequence.
+
+
+
+A few months had seen the beginning and the end of their acquaintance;
+
+but not with a few months ended Anne’s share of [[Suffering|suffering]] from it. Her
+
+attachment and regrets had, for a long [[Time|time]], clouded every enjoyment of
+
+youth, and an early loss of bloom and spirits had been their lasting
+
+effect.
+
+
+
+More than seven years were gone since this little [[history]] of sorrowful
+
+interest had reached its close; and [[Time|time]] had softened down much,
+
+perhaps nearly all of peculiar attachment to him, but she had been too
+
+dependent on [[Time|time]] [[Alone|alone]]; no aid had been given in change of place
+
+(except in one visit to Bath soon after the rupture), or in any novelty
+
+or enlargement of society. No one had ever come within the Kellynch
+
+circle, who could bear a comparison with Frederick Wentworth, as he
+
+stood in her [[Memory|memory]]. No second attachment, the only thoroughly natural,
+
+happy, and sufficient cure, at her [[Time|time]] of life, had been possible to
+
+the nice tone of her mind, the fastidiousness of her taste, in the
+
+small limits of the society around them. She had been solicited, when
+
+about two-and-twenty, to change her name, by the young man, who not
+
+long afterwards found a more willing mind in her younger sister; and
+
+[[Lady Russell]] had lamented her refusal; for Charles Musgrove was the
+
+eldest son of a man, whose landed property and general importance were
+
+second in that country, only to Sir Walter’s, and of good character and
+
+appearance; and however [[Lady Russell]] might have asked yet for something
+
+more, while Anne was nineteen, she would have rejoiced to see her at
+
+twenty-two so respectably removed from the partialities and injustice
+
+of her father’s [[house]], and settled so permanently near herself. But in
+
+this case, Anne had left nothing for advice to do; and though Lady
+
+Russell, as satisfied as ever with her own discretion, never wished the
+
+past undone, she began now to have the anxiety which borders on
+
+hopelessness for Anne’s being tempted, by some man of talents and
+
+independence, to enter a state for which she held her to be peculiarly
+
+fitted by her warm affections and domestic habits.
+
+
+
+They knew not each other’s opinion, either its constancy or its change,
+
+on the one leading point of Anne’s conduct, for the subject was never
+
+alluded to; but Anne, at seven-and-twenty, thought very differently
+
+from what she had been made to think at nineteen. She did not blame
+
+[[Lady Russell]], she did not blame herself for having been guided by her;
+
+but she felt that were any young person, in similar circumstances, to
+
+apply to her for counsel, they would never receive any of such certain
+
+immediate wretchedness, such uncertain future good. She was persuaded
+
+that under every disadvantage of disapprobation at [[Home|home]], and every
+
+anxiety attending his profession, all their probable fears, delays, and
+
+disappointments, she should yet have been a happier woman in
+
+maintaining the engagement, than she had been in the sacrifice of it;
+
+and this, she fully believed, had the usual share, had even more than
+
+the usual share of all such solicitudes and suspense been theirs,
+
+without reference to the actual results of their case, which, as it
+
+happened, would have bestowed earlier prosperity than could be
+
+reasonably calculated on. All his sanguine expectations, all his
+
+confidence had been justified. His genius and ardour had seemed to
+
+foresee and to command his prosperous path. He had, very soon after
+
+their engagement ceased, got employ: and all that he had told her would
+
+follow, had taken place. He had distinguished himself, and early gained
+
+the other step in rank, and must now, by successive captures, have made
+
+a handsome fortune. She had only navy lists and newspapers for her
+
+authority, but she could not [[Doubt|doubt]] his being rich; and, in favour of
+
+his constancy, she had no reason to believe him married.
+
+
+
+How eloquent could [[Anne Elliot]] have been! how eloquent, at least, were
+
+her wishes on the side of early warm attachment, and a cheerful
+
+confidence in futurity, against that over-anxious caution which seems
+
+to insult exertion and distrust [[Providence]]! She had been forced into
+
+prudence in her youth, she learned [[Romance|romance]] as she grew older: the
+
+natural sequel of an unnatural beginning.
+
+
+
+With all these circumstances, recollections and feelings, she could not
+
+hear that [[Captain Wentworth]]’s sister was likely to live at Kellynch
+
+without a revival of former [[Pain|pain]]; and many a stroll, and many a sigh,
+
+were necessary to dispel the agitation of the idea. She often told
+
+herself it was folly, before she could harden her nerves sufficiently
+
+to feel the continual discussion of the Crofts and their business no
+
+evil. She was assisted, however, by that perfect indifference and
+
+apparent unconsciousness, among the only three of her own friends in
+
+the secret of the past, which seemed almost to deny any recollection of
+
+it. She could do justice to the superiority of [[Lady Russell]]’s motives
+
+in this, over those of her father and Elizabeth; she could [[Honour|honour]] all
+
+the better feelings of her calmness; but the general air of oblivion
+
+among them was highly important from whatever it sprung; and in the
+
+event of [[Admiral Croft]]’s really taking Kellynch Hall, she rejoiced anew
+
+over the conviction which had always been most grateful to her, of the
+
+past being known to those three only among her connexions, by whom no
+
+syllable, she believed, would ever be whispered, and in the trust that
+
+among his, the brother only with whom he had been residing, had
+
+received any information of their short-lived engagement. That brother
+
+had been long removed from the country and being a sensible man, and,
+
+moreover, a single man at the [[Time|time]], she had a fond dependence on no
+
+human creature’s having heard of it from him.
+
+
+
+The sister, Mrs Croft, had then been out of England, accompanying her
+
+husband on a foreign station, and her own sister, Mary, had been at
+
+school while it all occurred; and never admitted by the [[Pride|pride]] of some,
+
+and the delicacy of others, to the smallest knowledge of it afterwards.
+
+
+
+With these supports, she hoped that the acquaintance between herself
+
+and the Crofts, which, with [[Lady Russell]], still resident in Kellynch,
+
+and Mary fixed only three miles off, must be anticipated, need not
+
+involve any particular awkwardness.
 
 
 
@@ -33647,3 +33337,313 @@ Like other great men under reverses,” he added, with a smile. “I must
 endeavour to subdue my mind to my fortune. I must learn to brook being
 
 happier than I deserve.”
+
+
+
+
+<span class="atom-split" data-atom="chapter_24" data-title="Persuasion — Chapter 24" data-chapter="Chapter 24" data-kind="chapter"></span>
+
+
+CHAPTER XXIV.
+
+
+
+
+
+Who can be in [[Doubt|doubt]] of what followed? When any two young people take it
+
+into their heads to marry, they are pretty sure by perseverance to
+
+carry their point, be they ever so poor, or ever so imprudent, or ever
+
+so little likely to be necessary to each other’s ultimate comfort. This
+
+may be bad [[morality]] to conclude with, but I believe it to be [[Truth|truth]]; and
+
+if such parties succeed, how should a [[Captain Wentworth]] and an Anne
+
+Elliot, with the advantage of maturity of mind, consciousness of right,
+
+and one independent fortune between them, fail of bearing down every
+
+opposition? They might in fact, have borne down a great deal more than
+
+they met with, for there was little to distress them beyond the want of
+
+graciousness and warmth. Sir Walter made no objection, and Elizabeth
+
+did nothing worse than look cold and unconcerned. [[Captain Wentworth]],
+
+with five-and-twenty thousand pounds, and as high in his profession as
+
+merit and activity could place him, was no longer nobody. He was now
+
+esteemed quite worthy to address the daughter of a foolish, spendthrift
+
+baronet, who had not had principle or sense enough to maintain himself
+
+in the situation in which [[Providence]] had placed him, and who could give
+
+his daughter at present but a small part of the share of ten thousand
+
+pounds which must be hers hereafter.
+
+
+
+Sir Walter, indeed, though he had no affection for Anne, and no [[Vanity|vanity]]
+
+flattered, to make him really happy on the occasion, was very far from
+
+thinking it a bad match for her. On the contrary, when he saw more of
+
+[[Captain Wentworth]], saw him repeatedly by daylight, and eyed him [[Well|well]],
+
+he was very much struck by his personal claims, and felt that his
+
+superiority of appearance might be not unfairly balanced against her
+
+superiority of rank; and all this, assisted by his [[Well|well]]-sounding name,
+
+enabled Sir Walter at last to prepare his pen, with a very good grace,
+
+for the insertion of the [[Marriage|marriage]] in the volume of [[Honour|honour]].
+
+
+
+The only one among them, whose opposition of feeling could excite any
+
+serious anxiety was [[Lady Russell]]. Anne knew that [[Lady Russell]] must be
+
+[[Suffering|suffering]] some [[Pain|pain]] in understanding and relinquishing Mr Elliot, and
+
+be making some struggles to become truly acquainted with, and do
+
+justice to [[Captain Wentworth]]. This however was what [[Lady Russell]] had
+
+now to do. She must learn to feel that she had been mistaken with
+
+regard to both; that she had been unfairly influenced by appearances in
+
+each; that because [[Captain Wentworth]]’s manners had not suited her own
+
+ideas, she had been too quick in suspecting them to indicate a
+
+character of dangerous impetuosity; and that because Mr Elliot’s
+
+manners had precisely pleased her in their propriety and correctness,
+
+their general politeness and suavity, she had been too quick in
+
+receiving them as the certain result of the most correct opinions and
+
+[[Well|well]]-regulated mind. There was nothing less for [[Lady Russell]] to do,
+
+than to admit that she had been pretty completely wrong, and to take up
+
+a new set of opinions and of hopes.
+
+
+
+There is a quickness of perception in some, a nicety in the discernment
+
+of character, a natural penetration, in short, which no experience in
+
+others can equal, and [[Lady Russell]] had been less gifted in this part of
+
+understanding than her young friend. But she was a very good woman, and
+
+if her second object was to be sensible and [[Well|well]]-judging, her first was
+
+to see Anne happy. She loved Anne better than she loved her own
+
+abilities; and when the awkwardness of the beginning was over, found
+
+little hardship in attaching herself as a mother to the man who was
+
+securing the happiness of her other [[Child|child]].
+
+
+
+Of all the family, Mary was probably the one most immediately gratified
+
+by the circumstance. It was creditable to have a sister married, and
+
+she might flatter herself with having been greatly instrumental to the
+
+connexion, by keeping Anne with her in the [[Autumn|autumn]]; and as her own
+
+sister must be better than her husband’s sisters, it was very agreeable
+
+that [[Captain Wentworth]] should be a richer man than either Captain
+
+Benwick or Charles Hayter. She had something to suffer, perhaps, when
+
+they came into contact again, in seeing Anne restored to the rights of
+
+seniority, and the mistress of a very pretty landaulette; but she had a
+
+future to look forward to, of powerful consolation. Anne had no
+
+Uppercross Hall before her, no landed estate, no headship of a family;
+
+and if they could but keep [[Captain Wentworth]] from being made a baronet,
+
+she would not change situations with Anne.
+
+
+
+It would be [[Well|well]] for the eldest sister if she were equally satisfied
+
+with her situation, for a change is not very probable there. She had
+
+soon the mortification of seeing Mr Elliot withdraw, and no one of
+
+proper condition has since presented himself to raise even the
+
+unfounded hopes which sunk with him.
+
+
+
+The news of his cousin Anne’s engagement burst on Mr Elliot most
+
+unexpectedly. It deranged his best plan of domestic happiness, his best
+
+[[Hope|hope]] of keeping Sir Walter single by the watchfulness which a
+
+son-in-law’s rights would have given. But, though discomfited and
+
+disappointed, he could still do something for his own interest and his
+
+own enjoyment. He soon quitted Bath; and on Mrs Clay’s quitting it soon
+
+afterwards, and being next heard of as established under his protection
+
+in [[London]], it was evident how [[Double|double]] a game he had been playing, and
+
+how determined he was to save himself from being cut out by one artful
+
+woman, at least.
+
+
+
+Mrs Clay’s affections had overpowered her interest, and she had
+
+sacrificed, for the young man’s sake, the possibility of scheming
+
+longer for Sir Walter. She has abilities, however, as [[Well|well]] as
+
+affections; and it is now a doubtful point whether his cunning, or
+
+hers, may finally carry the day; whether, after preventing her from
+
+being the wife of Sir Walter, he may not be wheedled and caressed at
+
+last into making her the wife of Sir William.
+
+
+
+It cannot be doubted that Sir Walter and Elizabeth were shocked and
+
+mortified by the loss of their companion, and the discovery of their
+
+[[Deception|deception]] in her. They had their great cousins, to be sure, to resort
+
+to for comfort; but they must long feel that to flatter and follow
+
+others, without being flattered and followed in turn, is but a state of
+
+half enjoyment.
+
+
+
+Anne, satisfied at a very early period of [[Lady Russell]]’s meaning to
+
+[[Love|love]] [[Captain Wentworth]] as she ought, had no other alloy to the
+
+happiness of her prospects than what arose from the consciousness of
+
+having no relations to bestow on him which a man of sense could value.
+
+There she felt her own inferiority very keenly. The disproportion in
+
+their fortune was nothing; it did not give her a moment’s regret; but
+
+to have no family to receive and estimate him properly, nothing of
+
+respectability, of harmony, of good will to offer in return for all the
+
+worth and all the prompt welcome which met her in his brothers and
+
+sisters, was a source of as lively [[Pain|pain]] as her mind could [[Well|well]] be
+
+sensible of under circumstances of otherwise strong felicity. She had
+
+but two friends in the world to add to his list, [[Lady Russell]] and Mrs
+
+[[smith|Smith]]. To those, however, he was very [[Well|well]] disposed to attach himself.
+
+[[Lady Russell]], in spite of all her former transgressions, he could now
+
+value from his heart. While he was not obliged to say that he believed
+
+her to have been right in originally dividing them, he was ready to say
+
+almost everything else in her favour, and as for Mrs [[smith|Smith]], she had
+
+claims of various kinds to recommend her quickly and permanently.
+
+
+
+Her recent good offices by Anne had been enough in themselves, and
+
+their [[Marriage|marriage]], instead of depriving her of one friend, secured her
+
+two. She was their earliest visitor in their settled life; and Captain
+
+Wentworth, by putting her in the way of recovering her husband’s
+
+property in the West Indies, by writing for her, acting for her, and
+
+seeing her through all the petty difficulties of the case with the
+
+activity and exertion of a fearless man and a determined friend, fully
+
+requited the services which she had rendered, or ever meant to render,
+
+to his wife.
+
+
+
+Mrs [[smith|Smith]]’s enjoyments were not spoiled by this improvement of income,
+
+with some improvement of health, and the acquisition of such friends to
+
+be often with, for her cheerfulness and mental alacrity did not fail
+
+her; and while these prime supplies of good remained, she might have
+
+bid defiance even to greater accessions of worldly prosperity. She
+
+might have been absolutely rich and perfectly healthy, and yet be
+
+happy. Her [[Spring|spring]] of felicity was in the glow of her spirits, as her
+
+friend Anne’s was in the warmth of her heart. Anne was tenderness
+
+itself, and she had the full worth of it in [[Captain Wentworth]]’s
+
+affection. His profession was all that could ever make her friends wish
+
+that tenderness less, the dread of a future war all that could dim her
+
+sunshine. She gloried in being a sailor’s wife, but she must pay the
+
+tax of quick alarm for belonging to that profession which is, if
+
+possible, more distinguished in its domestic virtues than in its
+
+national importance.
+
+
+
+Finis

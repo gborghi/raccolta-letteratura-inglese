@@ -21214,649 +21214,6 @@ THE END.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Villette — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
-
-
-CHAPTER V.
-TURNING A NEW LEAF.
-
-
-My mistress being dead, and I once more [[Alone|alone]], I had to look out for a
-new place. About this [[Time|time]] I might be a little—a very little—shaken in
-nerves. I grant I was not looking [[Well|well]], but, on the contrary, thin,
-haggard, and hollow-eyed; like a sitter-up at [[Night|night]], like an
-overwrought servant, or a placeless person in debt. In debt, however, I
-was not; nor quite poor; for though Miss Marchmont had not had [[Time|time]] to
-benefit me, as, on that last [[Night|night]], she said she intended, yet, after
-the funeral, my wages were duly paid by her second cousin, the heir, an
-avaricious-looking man, with pinched nose and narrow temples, who,
-indeed, I heard long afterwards, turned out a thorough miser: a direct
-contrast to his generous kinswoman, and a foil to her [[Memory|memory]], blessed
-to this day by the poor and needy. The possessor, then, of fifteen
-pounds; of health, though worn, not broken, and of a spirit in similar
-condition; I might still; in comparison with many people, be regarded
-as occupying an enviable position. An embarrassing one it was, however,
-at the same [[Time|time]]; as I felt with some acuteness on a certain day, of
-which the corresponding one in the next week was to see my departure
-from my present abode, while with another I was not provided.
-
-In this dilemma I went, as a last and sole resource, to see and consult
-an old servant of our family; once my [[Nurse|nurse]], now housekeeper at a grand
-mansion not far from Miss Marchmont’s. I spent some hours with her; she
-comforted, but knew not how to advise me. Still all inward darkness, I
-left her about twilight; a walk of two miles lay before me; it was a
-clear, frosty [[Night|night]]. In spite of my [[Solitude|solitude]], my [[Poverty|poverty]], and my
-perplexity, my heart, nourished and nerved with the vigour of a youth
-that had not yet counted twenty-three summers, beat light and not
-feebly. Not feebly, I am sure, or I should have trembled in that lonely
-walk, which lay through still fields, and passed neither village nor
-farmhouse, nor cottage: I should have quailed in the absence of
-moonlight, for it was by the leading of [[Stars|stars]] only I traced the dim
-path; I should have quailed still more in the unwonted presence of that
-which to-[[Night|night]] shone in the north, a moving mystery—the Aurora
-Borealis. But this solemn stranger influenced me otherwise than through
-my fears. Some new power it seemed to bring. I drew in energy with the
-keen, low breeze that blew on its path. A bold thought was sent to my
-mind; my mind was made strong to receive it.
-
-“Leave this wilderness,” it was said to me, “and go out hence.”
-
-“Where?” was the query.
-
-I had not very far to look; gazing from this country parish in that
-flat, rich middle of England—I mentally saw within reach what I had
-never yet beheld with my bodily eyes: I saw [[London]].
-
-The next day I returned to the hall, and asking once more to see the
-housekeeper, I communicated to her my plan.
-
-Mrs. Barrett was a [[Grave|grave]], judicious woman, though she knew little more
-of the world than myself; but [[Grave|grave]] and judicious as she was, she did
-not charge me with being out of my senses; and, indeed, I had a staid
-manner of my own which ere now had been as good to me as cloak and hood
-of hodden grey, since under its favour I had been enabled to achieve
-with impunity, and even approbation, deeds that, if attempted with an
-excited and unsettled air, would in some minds have stamped me as a
-dreamer and zealot.
-
-The housekeeper was slowly propounding some difficulties, while she
-prepared orange-rind for marmalade, when a [[Child|child]] ran past the [[Window|window]]
-and came bounding into the room. It was a pretty [[Child|child]], and as it
-danced, laughing, up to me—for we were not strangers (nor, indeed, was
-its mother—a young married daughter of the [[house]]—a stranger)—I took it
-on my knee.
-
-Different as were our social positions now, this [[Child|child]]’s mother and I
-had been schoolfellows, when I was a girl of ten and she a young lady
-of sixteen; and I remembered her, good-looking, but dull, in a lower
-class than mine.
-
-I was admiring the boy’s handsome dark eyes, when the mother, young
-Mrs. Leigh, entered. What a beautiful and kind-looking woman was the
-good-natured and comely, but unintellectual, girl become! Wifehood and
-maternity had changed her thus, as I have since seen them change others
-even less promising than she. Me she had forgotten. I was changed too,
-though not, I [[Fear|fear]], for the better. I made no attempt to recall myself
-to her [[Memory|memory]]; why should I? She came for her son to accompany her in a
-walk, and behind her followed a [[Nurse|nurse]], carrying an infant. I only
-mention the incident because, in addressing the [[Nurse|nurse]], Mrs. Leigh spoke
-French (very bad French, by the way, and with an incorrigibly bad
-accent, again forcibly reminding me of our school-days): and I found
-the woman was a foreigner. The little boy chattered volubly in French
-too. When the whole party were withdrawn, Mrs. Barrett remarked that
-her young lady had brought that foreign [[Nurse|nurse]] [[Home|home]] with her two years
-ago, on her return from a Continental excursion; that she was treated
-almost as [[Well|well]] as a governess, and had nothing to do but walk out with
-the baby and chatter French with Master Charles; “and,” added Mrs.
-Barrett, “she says there are many Englishwomen in foreign families as
-[[Well|well]] placed as she.”
-
-I stored up this piece of casual information, as careful housewives
-store seemingly worthless shreds and fragments for which their
-prescient minds anticipate a possible use some day. Before I left my
-old friend, she gave me the address of a respectable old-fashioned inn
-in the [[City]], which, she said, my uncles used to frequent in former
-days.
-
-In going to [[London]], I ran less risk and evinced less enterprise than
-the reader may think. In fact, the distance was only fifty miles. My
-means would suffice both to take me there, to keep me a few days, and
-also to bring me back if I found no inducement to stay. I regarded it
-as a brief holiday, permitted for once to work-weary faculties, rather
-than as an adventure of life and [[Death|death]]. There is nothing like taking
-all you do at a moderate estimate: it keeps mind and [[Body|body]] tranquil;
-whereas grandiloquent notions are apt to hurry both into fever.
-
-Fifty miles were then a day’s [[Journey|journey]] (for I speak of a [[Time|time]] gone by:
-my hair, which, till a late period, withstood the frosts of [[Time|time]], lies
-now, at last white, under a white cap, like [[Snow|snow]] beneath [[Snow|snow]]). About
-nine o’[[Clock|clock]] of a wet February [[Night|night]] I reached [[London]].
-
-My reader, I know, is one who would not thank me for an elaborate
-reproduction of poetic first impressions; and it is [[Well|well]], inasmuch as I
-had neither [[Time|time]] nor mood to cherish such; arriving as I did late, on a
-dark, raw, and rainy evening, in a Babylon and a wilderness, of which
-the vastness and the strangeness tried to the utmost any powers of
-clear thought and steady [[Self|self]]-possession with which, in the absence of
-more brilliant faculties, [[Nature]] might have gifted me.
-
-When I left the coach, the strange speech of the cabmen and others
-waiting round, seemed to me odd as a foreign tongue. I had never before
-heard the English language chopped up in that way. However, I managed
-to understand and to be understood, so far as to get myself and trunk
-safely conveyed to the old inn whereof I had the address. How
-difficult, how oppressive, how puzzling seemed my flight! In [[London]] for
-the first [[Time|time]]; at an inn for the first [[Time|time]]; tired with travelling;
-confused with darkness; palsied with cold; unfurnished with either
-experience or advice to tell me how to act, and yet—to act obliged.
-
-Into the hands of common sense I confided the matter. Common sense,
-however, was as chilled and bewildered as all my other faculties, and
-it was only under the spur of an inexorable necessity that she
-spasmodically executed her trust. Thus urged, she paid the porter:
-considering the crisis, I did not blame her too much that she was
-hugely cheated; she asked the waiter for a room; she timorously called
-for the chambermaid; what is far more, she bore, without being wholly
-overcome, a highly supercilious style of demeanour from that young
-lady, when she appeared.
-
-I recollect this same chambermaid was a pattern of town prettiness and
-smartness. So trim her waist, her cap, her dress—I wondered how they
-had all been manufactured. Her speech had an accent which in its
-mincing glibness seemed to rebuke mine as by authority; her spruce
-attire flaunted an easy scorn to my plain country garb.
-
-“[[Well]], it can’t be helped,” I thought, “and then the scene is new, and
-the circumstances; I shall gain good.”
-
-Maintaining a very quiet manner towards this arrogant little maid, and
-subsequently observing the same towards the parsonic-looking,
-black-coated, white-neckclothed waiter, I got civility from them ere
-long. I believe at first they thought I was a servant; but in a little
-while they changed their minds, and hovered in a doubtful state between
-patronage and politeness.
-
-I kept up [[Well|well]] till I had partaken of some refreshment, warmed myself
-by a [[Fire|fire]], and was fairly shut into my own room; but, as I sat down by
-the bed and rested my head and arms on the pillow, a terrible
-oppression overcame me. All at once my position [[Rose|rose]] on me like a
-[[Ghost|ghost]]. Anomalous, desolate, almost blank of [[Hope|hope]] it stood. What was I
-doing here [[Alone|alone]] in great [[London]]? What should I do on the morrow? What
-prospects had I in life? What friends had I on earth? Whence did I
-come? Whither should I go? What should I do?
-
-I wet the pillow, my arms, and my hair, with rushing [[Tears|tears]]. A dark
-interval of most bitter thought followed this burst; but I did not
-regret the step taken, nor wish to retract it. A strong, vague
-[[Persuasion|persuasion]] that it was better to go forward than backward, and that I
-_could_ go forward—that a way, however narrow and difficult, would in
-[[Time|time]] open—predominated over other feelings: its influence hushed them
-so far, that at last I became sufficiently tranquil to be able to say
-my prayers and seek my couch. I had just extinguished my candle and
-lain down, when a deep, low, mighty tone swung through the [[Night|night]]. At
-first I knew it not; but it was uttered twelve times, and at the
-twelfth colossal hum and trembling knell, I said: “I lie in the [[Shadow|shadow]]
-of St. Paul’s.”
-
-
-
-
-<span class="atom-split" data-atom="chapter_26_some_illustrated_work_of_natur" data-title="Villette — Book 26: some illustrated work of natural history. Often had I seen her" data-chapter="some illustrated work of natur" data-kind="chapter"></span>
-
-
-book—some illustrated work of natural [[history]]. Often had I seen her
-standing at Graham’s side, resting that volume on his knee, and reading
-to his tuition; and, when the lesson was over, begging, as a treat,
-that he would tell her all about the pictures. I watched her keenly:
-here was a true test of that [[Memory|memory]] she had boasted; would her
-recollections now be faithful?
-
-Faithful? It could not be doubted. As she turned the [[Leaves|leaves]], over her
-face passed gleam after gleam of expression, the least intelligent of
-which was a full greeting to the Past. And then she turned to the
-title-page, and looked at the name written in the schoolboy hand. She
-looked at it long; nor was she satisfied with merely looking: she
-gently passed over the characters the tips of her fingers, accompanying
-the action with an unconscious but tender smile, which converted the
-touch into a caress. [[Paulina]] loved the Past; but the peculiarity of
-this little scene was, that she _said_ nothing: she could feel without
-pouring out her feelings in a flux of words.
-
-She now occupied herself at the bookcase for nearly an hour; taking
-down volume after volume, and renewing her acquaintance with each. This
-done, she seated herself on a low stool, rested her cheek on her hand,
-and thought, and still was mute.
-
-The sound of the front door opened below, a rush of cold [[Wind|wind]], and her
-father’s voice speaking to Mrs. Bretton in the hall, startled her at
-last. She sprang up: she was down-stairs in one second.
-
-“Papa! papa! you are not going out?”
-
-“My pet, I must go into town.”
-
-“But it is too—_too_ cold, papa.”
-
-And then I heard M. de Bassompierre showing to her how he was [[Well|well]]
-provided against the weather; and how he was going to have the
-carriage, and to be quite snugly sheltered; and, in short, proving that
-she need not [[Fear|fear]] for his comfort.
-
-“But you will promise to come back here this evening, before it is
-quite dark;—you and Dr. Bretton, both, in the carriage? It is not fit
-to ride.”
-
-“[[Well]], if I see the Doctor, I will tell him a lady has laid on him her
-commands to take care of his precious health and come [[Home|home]] early under
-my escort.”
-
-“Yes, you must say a lady; and he will think it is his mother, and be
-obedient. And, papa, mind to come soon, for I _shall_ watch and
-listen.”
-
-The door closed, and the carriage rolled softly through the [[Snow|snow]]; and
-back returned the Countess, pensive and anxious.
-
-She _did_ listen, and watch, when evening closed; but it was in
-stillest sort: walking the drawing-room with quite noiseless step. She
-checked at intervals her velvet march; inclined her ear, and consulted
-the [[Night|night]] sounds: I should rather say, the [[Night|night]] [[Silence|silence]]; for now, at
-last, the [[Wind|wind]] was fallen. The sky, relieved of its avalanche, lay
-naked and pale: through the barren boughs of the avenue we could see it
-[[Well|well]], and note also the polar splendour of the new-year [[Moon|moon]]—an orb
-white as a world of ice. Nor was it late when we saw also the return of
-the carriage.
-
-[[Paulina]] had no [[Dance|dance]] of welcome for this evening. It was with a sort of
-gravity that she took immediate possession of her father, as he entered
-the room; but she at once made him her entire property, led him to the
-seat of her choice, and, while softly showering round him honeyed words
-of commendation for being so good and coming [[Home|home]] so soon, you would
-have thought it was entirely by the power of her little hands he was
-put into his chair, and settled and arranged; for the strong man seemed
-to take pleasure in wholly yielding himself to this dominion-potent
-only by [[Love|love]].
-
-Graham did not appear till some minutes after the Count. [[Paulina]] half
-turned when his step was heard: they spoke, but only a word or two;
-their fingers met a moment, but obviously with slight contact. [[Paulina]]
-remained beside her father; Graham threw himself into a seat on the
-other side of the room.
-
-It was [[Well|well]] that Mrs. Bretton and Mr. [[Home]] had a great deal to say to
-each other—almost an inexhaustible fund of discourse in old
-recollections; otherwise, I think, our party would have been but a
-still one that evening.
-
-After tea, [[Paulina]]’s quick needle and pretty golden thimble were busily
-plied by the lamp-light, but her tongue rested, and her eyes seemed
-reluctant to raise often their lids, so smooth and so full-fringed.
-Graham, too, must have been tired with his day’s work: he listened
-dutifully to his elders and betters, said very little himself, and
-followed with his eye the gilded glance of [[Paulina]]’s thimble; as if it
-had been some bright moth on the wing, or the golden head of some
-darting little yellow serpent.
-
-
-
-
-<span class="atom-split" data-atom="chapter_31_never_hazarded_a_second_with_a" data-title="Villette — Volume 31: never hazarded a second. With all this, I had never yet been" data-chapter="never hazarded a second With a" data-kind="chapter"></span>
-
-
-volume—never hazarded a second. With all this, I had never yet been
-able to arrest in his visits the freakish, friendly, cigar-loving
-[[Phantom|phantom]].
-
-But now at last I had him: there he was—the very brownie himself; and
-there, curling from his lips, was the pale blue breath of his Indian
-darling: he was smoking into my desk: it might [[Well|well]] betray him.
-Provoked at this particular, and yet pleased to surprise him—pleased,
-that is, with the mixed feeling of the housewife who discovers at last
-her strange elfin ally busy in the dairy at the untimely churn—I softly
-stole forward, stood behind him, bent with precaution over his
-shoulder.
-
-My heart smote me to see that—after this morning’s hostility, after my
-seeming remissness, after the puncture experienced by his feelings, and
-the ruffling undergone by his temper—he, all willing to forget and
-forgive, had brought me a couple of handsome volumes, of which the
-title and authorship were guarantees for interest. Now, as he sat
-bending above the desk, he was stirring up its contents; but with
-gentle and careful hand; disarranging indeed, but not harming. My heart
-smote me: as I bent over him, as he sat unconscious, doing me what good
-he could, and I daresay not feeling towards me unkindly, my morning’s
-anger quite melted: I did not dislike Professor Emanuel.
-
-I think he heard me breathe. He turned suddenly: his temperament was
-nervous, yet he never started, and seldom changed colour: there was
-something hardy about him.
-
-“I thought you were gone into town with the other teachers,” said he,
-taking a grim gripe of his [[Self|self]]-possession, which half-escaped him—“It
-is as [[Well|well]] you are not. Do you think I care for being caught? Not I. I
-often visit your desk.”
-
-“Monsieur, I know it.”
-
-“You find a brochure or tome now and then; but you don’t read them,
-because they have passed under this?”—touching his cigar.
-
-“They have, and are no better for the process; but I read them.”
-
-“Without pleasure?”
-
-“Monsieur must not be contradicted.”
-
-“Do you like them, or any of them?—are they acceptable?” “Monsieur has
-seen me reading them a hundred times, and knows I have not so many
-recreations as to undervalue those he provides.”
-
-“I mean [[Well|well]]; and, if you see that I mean [[Well|well]], and derive some little
-amusement from my efforts, why can we not be friends?”
-
-“A fatalist would say—because we cannot.”
-
-“This morning,” he continued, “I awoke in a bright mood, and came into
-classe happy; you spoiled my day.”
-
-“No, Monsieur, only an hour or two of it, and that unintentionally.”
-
-“Unintentionally! No. It was my fête-day; everybody wished me happiness
-but you. The little children of the third division gave each her knot
-of violets, lisped each her congratulation:—you—nothing. Not a bud,
-leaf, whisper—not a glance. Was this unintentional?”
-
-“I meant no harm.”
-
-“Then you really did not know our custom? You were unprepared? You
-would willingly have laid out a few centimes on a flower to give me
-pleasure, had you been aware that it was expected? Say so, and all is
-forgotten, and the [[Pain|pain]] soothed.”
-
-“I did know that it was expected: I _was_ prepared; yet I laid out no
-centimes on [[Flowers|flowers]].”
-
-“It is [[Well|well]]—you do right to be honest. I should almost have hated you
-had you flattered and lied. Better declare at once ‘Paul Carl
-Emanuel—je te déteste, mon garçon!’—than smile an interest, look an
-affection, and be false and cold at heart. False and cold I don’t think
-you are; but you have made a great mistake in life, that I believe; I
-think your judgment is warped—that you are indifferent where you ought
-to be grateful—and perhaps devoted and infatuated, where you ought to
-be cool as your name. Don’t suppose that I wish you to have a passion
-for me, Mademoiselle; Dieu vous en garde! What do you start for?
-Because I said passion? [[Well]], I say it again. There is such a word, and
-there is such a thing—though not within these walls, thank heaven! You
-are no [[Child|child]] that one should not speak of what exists; but I only
-uttered the word—the thing, I assure you, is alien to my whole life and
-views. It died in the past—in the present it lies buried—its [[Grave|grave]] is
-deep-dug, [[Well|well]]-heaped, and many winters old: in the future there will
-be a [[Resurrection|resurrection]], as I believe to my souls consolation; but all will
-then be changed—form and feeling: the mortal will have put on
-[[Immortality|immortality]]—it will rise, not for earth, but heaven. All I say to
-_you_, Miss [[Lucy Snowe]], is—that you ought to treat Professor Paul
-Emanuel decently.”
-
-I could not, and did not contradict such a sentiment.
-
-“Tell me,” he pursued, “when it is _your_ fête-day, and I will not
-grudge a few centimes for a small offering.”
-
-“You will be like me, Monsieur: this cost more than a few centimes, and
-I did not grudge its price.”
-
-And taking from the open desk the little box, I put it into his hand.
-
-“It lay ready in my lap this morning,” I continued; “and if Monsieur
-had been rather more patient, and Mademoiselle St. Pierre less
-interfering—perhaps I should say, too, if _I_ had been calmer and
-wiser—I should have given it then.”
-
-He looked at the box: I saw its clear warm tint and bright azure
-circlet pleased his eyes. I told him to open it.
-
-“My initials!” said he, indicating the letters in the lid. “Who told
-you I was called Carl David?”
-
-“A little bird, Monsieur.”
-
-“Does it fly from me to you? Then one can tie a message under its wing
-when needful.”
-
-He took out the chain—a trifle indeed as to value, but glossy with silk
-and sparkling with beads. He liked that too—admired it artlessly, like
-a [[Child|child]].
-
-“For me?”
-
-“Yes, for you.”
-
-“This is the thing you were working at last [[Night|night]]?”
-
-“The same.”
-
-“You finished it this morning?”
-
-“I did.”
-
-“You commenced it with the intention that it should be mine?”
-
-“Undoubtedly.”
-
-“And offered on my fête-day?”
-
-“Yes.”
-
-“This purpose continued as you wove it?”
-
-Again I assented.
-
-“Then it is not necessary that I should cut out any portion—saying,
-this part is not mine: it was plaited under the idea and for the
-adornment of another?”
-
-“By no means. It is neither necessary, nor would it be just.”
-
-“This object is _all_ mine?”
-
-“That object is yours entirely.”
-
-Straightway Monsieur opened his paletôt, arranged the guard splendidly
-across his chest, displaying as much and suppressing as little as he
-could: for he had no notion of concealing what he admired and thought
-decorative. As to the box, he pronounced it a superb bonbonnière—he was
-fond of bonbons, by the way—and as he always liked to share with others
-what pleased himself, he would give his “dragées” as freely as he lent
-his books. Amongst the kind brownie’s gifts left in my desk, I forgot
-to enumerate many a paper of chocolate comfits. His tastes in these
-matters were southern, and what we think infantine. His simple lunch
-consisted frequently of a “brioche,” which, as often as not, he shared
-with some [[Child|child]] of the third division.
-
-“A présent c’est un fait accompli,” said he, re-adjusting his paletôt;
-and we had no more words on the subject. After looking over the two
-volumes he had brought, and cutting away some pages with his penknife
-(he generally pruned before lending his books, especially if they were
-novels, and sometimes I was a little provoked at the severity of his
-censorship, the retrenchments interrupting the narrative), he [[Rose|rose]],
-politely touched his bonnet-grec, and bade me a civil good-day.
-
-“We are friends now,” thought I, “till the next [[Time|time]] we quarrel.”
-
-We _might_ have quarrelled again that very same evening, but, wonderful
-to relate, failed, for once, to make the most of our opportunity.
-
-Contrary to all expectation, M. Paul arrived at the study-hour. Having
-seen so much of him in the morning, we did not look for his presence at
-[[Night|night]]. No sooner were we seated at lessons, however, than he appeared.
-I own I was glad to see him, so glad that I could not help greeting his
-arrival with a smile; and when he made his way to the same seat about
-which so serious a misunderstanding had formerly arisen, I took good
-care not to make too much room for him; he watched with a jealous,
-side-long look, to see whether I shrank away, but I did not, though the
-bench was a little crowded. I was losing the early impulse to recoil
-from M. Paul. Habituated to the paletôt and bonnet-grec, the
-neighbourhood of these garments seemed no longer uncomfortable or very
-formidable. I did not now sit restrained, “asphyxiée” (as he used to
-say) at his side; I stirred when I wished to stir, coughed when it was
-necessary, even yawned when I was tired—did, in short, what I pleased,
-blindly reliant upon his indulgence. Nor did my temerity, this evening
-at least, meet the punishment it perhaps merited; he was both indulgent
-and good-natured; not a [[Cross|cross]] glance shot from his eyes, not a hasty
-word left his lips. Till the very close of the evening, he did not
-indeed address me at all, yet I felt, somehow, that he was full of
-friendliness. [[Silence]] is of different kinds, and breathes different
-meanings; no words could inspire a pleasanter content than did M.
-Paul’s worldless presence. When the tray came in, and the bustle of
-supper commenced, he just said, as he retired, that he wished me a good
-[[Night|night]] and sweet [[Dreams|dreams]]; and a good [[Night|night]] and sweet [[Dreams|dreams]] I had.
-
-
-
-
-<span class="atom-split" data-atom="chapter_44" data-title="Villette — Chapter 42" data-chapter="Chapter 44" data-kind="chapter"></span>
-
-
-CHAPTER XLII.
-FINIS.
-
-
-Man cannot prophesy. [[Love]] is no oracle. [[Fear]] sometimes imagines a vain
-thing. Those years of absence! How had I sickened over their
-anticipation! The woe they must bring seemed certain as [[Death|death]]. I knew
-the [[Nature|nature]] of their course: I never had [[Doubt|doubt]] how it would harrow as it
-went. The juggernaut on his car towered there a grim load. Seeing him
-draw nigh, burying his broad wheels in the oppressed soil—I, the
-prostrate votary—felt beforehand the annihilating craunch.
-
-Strange to say—strange, yet true, and owning many parallels in life’s
-experience—that anticipatory craunch proved all—yes—nearly _all_ the
-torture. The great Juggernaut, in his great chariot, drew on lofty,
-loud, and sullen. He passed quietly, like a [[Shadow|shadow]] sweeping the sky, at
-[[Noon|noon]]. Nothing but a chilling dimness was seen or felt. I looked up.
-Chariot and demon charioteer were gone by; the votary still lived.
-
-M. Emanuel was away three years. Reader, they were the three happiest
-years of my life. Do you scout the [[Paradox|paradox]]? Listen. I commenced my
-school; I worked—I worked hard. I deemed myself the steward of his
-property, and determined, God willing, to render a good account. Pupils
-came—burghers at first—a higher class ere long. About the middle of the
-second year an unexpected chance threw into my hands an additional
-hundred pounds: one day I received from England a letter containing
-that sum. It came from Mr. Marchmont, the cousin and heir of my dear
-and dead mistress. He was just recovering from a dangerous illness; the
-money was a peace-offering to his [[Conscience|conscience]], reproaching him in the
-matter of, I know not what, papers or memoranda found after his
-kinswoman’s [[Death|death]]—naming or recommending [[Lucy Snowe]]. Mrs. Barrett had
-given him my address. How far his [[Conscience|conscience]] had been sinned against, I
-never inquired. I asked no questions, but took the cash and made it
-useful.
-
-With this hundred pounds I ventured to take the [[house]] adjoining mine. I
-would not leave that which M. Paul had chosen, in which he had left,
-and where he expected again to find me. My externat became a
-pensionnat; that also prospered.
-
-The secret of my [[success]] did not lie so much in myself, in any
-endowment, any power of mine, as in a new state of circumstances, a
-wonderfully changed life, a relieved heart. The [[Spring|spring]] which moved my
-energies lay far away beyond seas, in an Indian isle. At parting, I had
-been left a legacy; such a thought for the present, such a [[Hope|hope]] for the
-future, such a motive for a persevering, a laborious, an enterprising,
-a patient and a brave course—I _could_ not [[Flag|flag]]. Few things shook me
-now; few things had importance to vex, intimidate, or depress me: most
-things pleased—mere trifles had a charm.
-
-Do not think that this genial flame sustained itself, or lived wholly
-on a bequeathed [[Hope|hope]] or a parting promise. A generous provider supplied
-bounteous fuel. I was spared all chill, all stint; I was not suffered
-to [[Fear|fear]] penury; I was not tried with suspense. By every vessel he
-wrote; he wrote as he gave and as he loved, in full-handed,
-full-hearted plenitude. He wrote because he liked to write; he did not
-abridge, because he cared not to abridge. He sat down, he took pen and
-paper, because he loved Lucy and had much to say to her; because he was
-faithful and thoughtful, because he was tender and true. There was no
-sham and no cheat, and no hollow unreal in him. Apology never dropped
-her slippery oil on his lips—never proffered, by his pen, her coward
-feints and paltry nullities: he would give neither a stone, nor an
-excuse—neither a scorpion; nor a disappointment; his letters were real
-food that nourished, living [[Water|water]] that refreshed.
-
-And was I grateful? God knows! I believe that scarce a living being so
-remembered, so sustained, dealt with in kind so constant, honourable
-and noble, could be otherwise than grateful to the [[Death|death]].
-
-Adherent to his own religion (in him was not the stuff of which is made
-the facile apostate), he freely left me my pure [[Faith|faith]]. He did not tease
-nor tempt. He said:—
-
-“Remain a Protestant. My little English Puritan, I [[Love|love]] Protestantism
-in you. I own its severe charm. There is something in its ritual I
-cannot receive myself, but it is the sole creed for ‘Lucy.’”
-
-All Rome could not put into him bigotry, nor the Propaganda itself make
-him a real Jesuit. He was born honest, and not false—artless, and not
-cunning—a freeman, and not a slave. His tenderness had rendered him
-ductile in a priest’s hands, his affection, his devotedness, his
-sincere pious enthusiasm blinded his kind eyes sometimes, made him
-abandon justice to himself to do the work of craft, and serve the ends
-of selfishness; but these are faults so rare to find, so costly to
-their owner to indulge, we scarce know whether they will not one day be
-reckoned amongst the jewels.
-
-And now the three years are past: M. Emanuel’s return is fixed. It is
-[[Autumn]]; he is to be with me ere the mists of November come. My school
-flourishes, my [[house]] is ready: I have made him a little library, filled
-its shelves with the books he left in my care: I have cultivated out of
-[[Love|love]] for him (I was naturally no florist) the plants he preferred, and
-some of them are yet in bloom. I thought I loved him when he went away;
-I [[Love|love]] him now in another degree: he is more my own.
-
-The sun passes the equinox; the days shorten, the [[Leaves|leaves]] grow sere;
-but—he is coming.
-
-Frosts appear at [[Night|night]]; November has sent his fogs in advance; the [[Wind|wind]]
-takes its [[Autumn|autumn]] moan; but—he is coming.
-
-The skies hang full and dark—a wrack sails from the west; the clouds
-cast themselves into strange forms—arches and broad radiations; there
-rise resplendent mornings—glorious, royal, purple as monarch in his
-state; the heavens are one flame; so wild are they, they rival battle
-at its thickest—so bloody, they shame Victory in her [[Pride|pride]]. I know some
-signs of the sky; I have noted them ever since [[Childhood|childhood]]. God watch
-that sail! Oh! guard it!
-
-The [[Wind|wind]] shifts to the west. Peace, peace, Banshee—“keening” at every
-[[Window|window]]! It will rise—it will swell—it shrieks out long: wander as I may
-through the [[house]] this [[Night|night]], I cannot lull the blast. The advancing
-hours make it strong: by midnight, all sleepless watchers hear and [[Fear|fear]]
-a wild south-west [[Storm|storm]]. That [[Storm|storm]] roared frenzied, for seven days. It
-did not cease till the Atlantic was strewn with wrecks: it did not lull
-till the deeps had gorged their full of sustenance. Not till the
-destroying angel of tempest had achieved his perfect work, would he
-fold the wings whose waft was thunder—the tremor of whose plumes was
-[[Storm|storm]].
-
-Peace, be still! Oh! a thousand weepers, praying in agony on waiting
-shores, listened for that voice, but it was not uttered—not uttered
-till; when the hush came, some could not feel it: till, when the sun
-returned, his light was [[Night|night]] to some!
-
-Here pause: pause at once. There is enough said. Trouble no quiet, kind
-heart; leave sunny imaginations [[Hope|hope]]. Let it be theirs to conceive the
-delight of joy born again fresh out of great terror, the rapture of
-rescue from peril, the wondrous reprieve from dread, the fruition of
-return. Let them picture [[Union|union]] and a happy succeeding life.
-
-[[Madame Beck]] prospered all the days of her life; so did Père Silas;
-Madame Walravens fulfilled her ninetieth year before she died.
-Farewell.
-
-THE END.
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Villette — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -23651,6 +23008,193 @@ was found without life, nearly cold, but all calm and undisturbed. Her
 previous excitement of spirits and change of mood had been the prelude
 of a fit; one stroke sufficed to sever the thread of an existence so
 long fretted by affliction.
+
+
+
+
+<span class="atom-split" data-atom="chapter_05" data-title="Villette — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+
+
+CHAPTER V.
+TURNING A NEW LEAF.
+
+
+My mistress being dead, and I once more [[Alone|alone]], I had to look out for a
+new place. About this [[Time|time]] I might be a little—a very little—shaken in
+nerves. I grant I was not looking [[Well|well]], but, on the contrary, thin,
+haggard, and hollow-eyed; like a sitter-up at [[Night|night]], like an
+overwrought servant, or a placeless person in debt. In debt, however, I
+was not; nor quite poor; for though Miss Marchmont had not had [[Time|time]] to
+benefit me, as, on that last [[Night|night]], she said she intended, yet, after
+the funeral, my wages were duly paid by her second cousin, the heir, an
+avaricious-looking man, with pinched nose and narrow temples, who,
+indeed, I heard long afterwards, turned out a thorough miser: a direct
+contrast to his generous kinswoman, and a foil to her [[Memory|memory]], blessed
+to this day by the poor and needy. The possessor, then, of fifteen
+pounds; of health, though worn, not broken, and of a spirit in similar
+condition; I might still; in comparison with many people, be regarded
+as occupying an enviable position. An embarrassing one it was, however,
+at the same [[Time|time]]; as I felt with some acuteness on a certain day, of
+which the corresponding one in the next week was to see my departure
+from my present abode, while with another I was not provided.
+
+In this dilemma I went, as a last and sole resource, to see and consult
+an old servant of our family; once my [[Nurse|nurse]], now housekeeper at a grand
+mansion not far from Miss Marchmont’s. I spent some hours with her; she
+comforted, but knew not how to advise me. Still all inward darkness, I
+left her about twilight; a walk of two miles lay before me; it was a
+clear, frosty [[Night|night]]. In spite of my [[Solitude|solitude]], my [[Poverty|poverty]], and my
+perplexity, my heart, nourished and nerved with the vigour of a youth
+that had not yet counted twenty-three summers, beat light and not
+feebly. Not feebly, I am sure, or I should have trembled in that lonely
+walk, which lay through still fields, and passed neither village nor
+farmhouse, nor cottage: I should have quailed in the absence of
+moonlight, for it was by the leading of [[Stars|stars]] only I traced the dim
+path; I should have quailed still more in the unwonted presence of that
+which to-[[Night|night]] shone in the north, a moving mystery—the Aurora
+Borealis. But this solemn stranger influenced me otherwise than through
+my fears. Some new power it seemed to bring. I drew in energy with the
+keen, low breeze that blew on its path. A bold thought was sent to my
+mind; my mind was made strong to receive it.
+
+“Leave this wilderness,” it was said to me, “and go out hence.”
+
+“Where?” was the query.
+
+I had not very far to look; gazing from this country parish in that
+flat, rich middle of England—I mentally saw within reach what I had
+never yet beheld with my bodily eyes: I saw [[London]].
+
+The next day I returned to the hall, and asking once more to see the
+housekeeper, I communicated to her my plan.
+
+Mrs. Barrett was a [[Grave|grave]], judicious woman, though she knew little more
+of the world than myself; but [[Grave|grave]] and judicious as she was, she did
+not charge me with being out of my senses; and, indeed, I had a staid
+manner of my own which ere now had been as good to me as cloak and hood
+of hodden grey, since under its favour I had been enabled to achieve
+with impunity, and even approbation, deeds that, if attempted with an
+excited and unsettled air, would in some minds have stamped me as a
+dreamer and zealot.
+
+The housekeeper was slowly propounding some difficulties, while she
+prepared orange-rind for marmalade, when a [[Child|child]] ran past the [[Window|window]]
+and came bounding into the room. It was a pretty [[Child|child]], and as it
+danced, laughing, up to me—for we were not strangers (nor, indeed, was
+its mother—a young married daughter of the [[house]]—a stranger)—I took it
+on my knee.
+
+Different as were our social positions now, this [[Child|child]]’s mother and I
+had been schoolfellows, when I was a girl of ten and she a young lady
+of sixteen; and I remembered her, good-looking, but dull, in a lower
+class than mine.
+
+I was admiring the boy’s handsome dark eyes, when the mother, young
+Mrs. Leigh, entered. What a beautiful and kind-looking woman was the
+good-natured and comely, but unintellectual, girl become! Wifehood and
+maternity had changed her thus, as I have since seen them change others
+even less promising than she. Me she had forgotten. I was changed too,
+though not, I [[Fear|fear]], for the better. I made no attempt to recall myself
+to her [[Memory|memory]]; why should I? She came for her son to accompany her in a
+walk, and behind her followed a [[Nurse|nurse]], carrying an infant. I only
+mention the incident because, in addressing the [[Nurse|nurse]], Mrs. Leigh spoke
+French (very bad French, by the way, and with an incorrigibly bad
+accent, again forcibly reminding me of our school-days): and I found
+the woman was a foreigner. The little boy chattered volubly in French
+too. When the whole party were withdrawn, Mrs. Barrett remarked that
+her young lady had brought that foreign [[Nurse|nurse]] [[Home|home]] with her two years
+ago, on her return from a Continental excursion; that she was treated
+almost as [[Well|well]] as a governess, and had nothing to do but walk out with
+the baby and chatter French with Master Charles; “and,” added Mrs.
+Barrett, “she says there are many Englishwomen in foreign families as
+[[Well|well]] placed as she.”
+
+I stored up this piece of casual information, as careful housewives
+store seemingly worthless shreds and fragments for which their
+prescient minds anticipate a possible use some day. Before I left my
+old friend, she gave me the address of a respectable old-fashioned inn
+in the [[City]], which, she said, my uncles used to frequent in former
+days.
+
+In going to [[London]], I ran less risk and evinced less enterprise than
+the reader may think. In fact, the distance was only fifty miles. My
+means would suffice both to take me there, to keep me a few days, and
+also to bring me back if I found no inducement to stay. I regarded it
+as a brief holiday, permitted for once to work-weary faculties, rather
+than as an adventure of life and [[Death|death]]. There is nothing like taking
+all you do at a moderate estimate: it keeps mind and [[Body|body]] tranquil;
+whereas grandiloquent notions are apt to hurry both into fever.
+
+Fifty miles were then a day’s [[Journey|journey]] (for I speak of a [[Time|time]] gone by:
+my hair, which, till a late period, withstood the frosts of [[Time|time]], lies
+now, at last white, under a white cap, like [[Snow|snow]] beneath [[Snow|snow]]). About
+nine o’[[Clock|clock]] of a wet February [[Night|night]] I reached [[London]].
+
+My reader, I know, is one who would not thank me for an elaborate
+reproduction of poetic first impressions; and it is [[Well|well]], inasmuch as I
+had neither [[Time|time]] nor mood to cherish such; arriving as I did late, on a
+dark, raw, and rainy evening, in a Babylon and a wilderness, of which
+the vastness and the strangeness tried to the utmost any powers of
+clear thought and steady [[Self|self]]-possession with which, in the absence of
+more brilliant faculties, [[Nature]] might have gifted me.
+
+When I left the coach, the strange speech of the cabmen and others
+waiting round, seemed to me odd as a foreign tongue. I had never before
+heard the English language chopped up in that way. However, I managed
+to understand and to be understood, so far as to get myself and trunk
+safely conveyed to the old inn whereof I had the address. How
+difficult, how oppressive, how puzzling seemed my flight! In [[London]] for
+the first [[Time|time]]; at an inn for the first [[Time|time]]; tired with travelling;
+confused with darkness; palsied with cold; unfurnished with either
+experience or advice to tell me how to act, and yet—to act obliged.
+
+Into the hands of common sense I confided the matter. Common sense,
+however, was as chilled and bewildered as all my other faculties, and
+it was only under the spur of an inexorable necessity that she
+spasmodically executed her trust. Thus urged, she paid the porter:
+considering the crisis, I did not blame her too much that she was
+hugely cheated; she asked the waiter for a room; she timorously called
+for the chambermaid; what is far more, she bore, without being wholly
+overcome, a highly supercilious style of demeanour from that young
+lady, when she appeared.
+
+I recollect this same chambermaid was a pattern of town prettiness and
+smartness. So trim her waist, her cap, her dress—I wondered how they
+had all been manufactured. Her speech had an accent which in its
+mincing glibness seemed to rebuke mine as by authority; her spruce
+attire flaunted an easy scorn to my plain country garb.
+
+“[[Well]], it can’t be helped,” I thought, “and then the scene is new, and
+the circumstances; I shall gain good.”
+
+Maintaining a very quiet manner towards this arrogant little maid, and
+subsequently observing the same towards the parsonic-looking,
+black-coated, white-neckclothed waiter, I got civility from them ere
+long. I believe at first they thought I was a servant; but in a little
+while they changed their minds, and hovered in a doubtful state between
+patronage and politeness.
+
+I kept up [[Well|well]] till I had partaken of some refreshment, warmed myself
+by a [[Fire|fire]], and was fairly shut into my own room; but, as I sat down by
+the bed and rested my head and arms on the pillow, a terrible
+oppression overcame me. All at once my position [[Rose|rose]] on me like a
+[[Ghost|ghost]]. Anomalous, desolate, almost blank of [[Hope|hope]] it stood. What was I
+doing here [[Alone|alone]] in great [[London]]? What should I do on the morrow? What
+prospects had I in life? What friends had I on earth? Whence did I
+come? Whither should I go? What should I do?
+
+I wet the pillow, my arms, and my hair, with rushing [[Tears|tears]]. A dark
+interval of most bitter thought followed this burst; but I did not
+regret the step taken, nor wish to retract it. A strong, vague
+[[Persuasion|persuasion]] that it was better to go forward than backward, and that I
+_could_ go forward—that a way, however narrow and difficult, would in
+[[Time|time]] open—predominated over other feelings: its influence hushed them
+so far, that at last I became sufficiently tranquil to be able to say
+my prayers and seek my couch. I had just extinguished my candle and
+lain down, when a deep, low, mighty tone swung through the [[Night|night]]. At
+first I knew it not; but it was uttered twelve times, and at the
+twelfth colossal hum and trembling knell, I said: “I lie in the [[Shadow|shadow]]
+of St. Paul’s.”
 
 
 
@@ -34582,6 +34126,105 @@ compartment of the bookcase; and it proved to be an old Bretton
 
 
 
+<span class="atom-split" data-atom="chapter_26_some_illustrated_work_of_natur" data-title="Villette — Book 26: some illustrated work of natural history. Often had I seen her" data-chapter="some illustrated work of natur" data-kind="chapter"></span>
+
+
+book—some illustrated work of natural [[history]]. Often had I seen her
+standing at Graham’s side, resting that volume on his knee, and reading
+to his tuition; and, when the lesson was over, begging, as a treat,
+that he would tell her all about the pictures. I watched her keenly:
+here was a true test of that [[Memory|memory]] she had boasted; would her
+recollections now be faithful?
+
+Faithful? It could not be doubted. As she turned the [[Leaves|leaves]], over her
+face passed gleam after gleam of expression, the least intelligent of
+which was a full greeting to the Past. And then she turned to the
+title-page, and looked at the name written in the schoolboy hand. She
+looked at it long; nor was she satisfied with merely looking: she
+gently passed over the characters the tips of her fingers, accompanying
+the action with an unconscious but tender smile, which converted the
+touch into a caress. [[Paulina]] loved the Past; but the peculiarity of
+this little scene was, that she _said_ nothing: she could feel without
+pouring out her feelings in a flux of words.
+
+She now occupied herself at the bookcase for nearly an hour; taking
+down volume after volume, and renewing her acquaintance with each. This
+done, she seated herself on a low stool, rested her cheek on her hand,
+and thought, and still was mute.
+
+The sound of the front door opened below, a rush of cold [[Wind|wind]], and her
+father’s voice speaking to Mrs. Bretton in the hall, startled her at
+last. She sprang up: she was down-stairs in one second.
+
+“Papa! papa! you are not going out?”
+
+“My pet, I must go into town.”
+
+“But it is too—_too_ cold, papa.”
+
+And then I heard M. de Bassompierre showing to her how he was [[Well|well]]
+provided against the weather; and how he was going to have the
+carriage, and to be quite snugly sheltered; and, in short, proving that
+she need not [[Fear|fear]] for his comfort.
+
+“But you will promise to come back here this evening, before it is
+quite dark;—you and Dr. Bretton, both, in the carriage? It is not fit
+to ride.”
+
+“[[Well]], if I see the Doctor, I will tell him a lady has laid on him her
+commands to take care of his precious health and come [[Home|home]] early under
+my escort.”
+
+“Yes, you must say a lady; and he will think it is his mother, and be
+obedient. And, papa, mind to come soon, for I _shall_ watch and
+listen.”
+
+The door closed, and the carriage rolled softly through the [[Snow|snow]]; and
+back returned the Countess, pensive and anxious.
+
+She _did_ listen, and watch, when evening closed; but it was in
+stillest sort: walking the drawing-room with quite noiseless step. She
+checked at intervals her velvet march; inclined her ear, and consulted
+the [[Night|night]] sounds: I should rather say, the [[Night|night]] [[Silence|silence]]; for now, at
+last, the [[Wind|wind]] was fallen. The sky, relieved of its avalanche, lay
+naked and pale: through the barren boughs of the avenue we could see it
+[[Well|well]], and note also the polar splendour of the new-year [[Moon|moon]]—an orb
+white as a world of ice. Nor was it late when we saw also the return of
+the carriage.
+
+[[Paulina]] had no [[Dance|dance]] of welcome for this evening. It was with a sort of
+gravity that she took immediate possession of her father, as he entered
+the room; but she at once made him her entire property, led him to the
+seat of her choice, and, while softly showering round him honeyed words
+of commendation for being so good and coming [[Home|home]] so soon, you would
+have thought it was entirely by the power of her little hands he was
+put into his chair, and settled and arranged; for the strong man seemed
+to take pleasure in wholly yielding himself to this dominion-potent
+only by [[Love|love]].
+
+Graham did not appear till some minutes after the Count. [[Paulina]] half
+turned when his step was heard: they spoke, but only a word or two;
+their fingers met a moment, but obviously with slight contact. [[Paulina]]
+remained beside her father; Graham threw himself into a seat on the
+other side of the room.
+
+It was [[Well|well]] that Mrs. Bretton and Mr. [[Home]] had a great deal to say to
+each other—almost an inexhaustible fund of discourse in old
+recollections; otherwise, I think, our party would have been but a
+still one that evening.
+
+After tea, [[Paulina]]’s quick needle and pretty golden thimble were busily
+plied by the lamp-light, but her tongue rested, and her eyes seemed
+reluctant to raise often their lids, so smooth and so full-fringed.
+Graham, too, must have been tired with his day’s work: he listened
+dutifully to his elders and betters, said very little himself, and
+followed with his eye the gilded glance of [[Paulina]]’s thimble; as if it
+had been some bright moth on the wing, or the golden head of some
+darting little yellow serpent.
+
+
+
+
 <span class="atom-split" data-atom="chapter_27--part_01" data-title="Villette — Chapter 26 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
 
 
@@ -36847,6 +36490,220 @@ instantly relieved my hand of its burden, and, in another moment, would
 have thrust the same into the glowing stove. It chanced to be a book,
 on the perusal of which I was bent; so for once I proved as decided and
 quicker than himself; recaptured the spoil, and—having saved this
+
+
+
+
+<span class="atom-split" data-atom="chapter_31_never_hazarded_a_second_with_a" data-title="Villette — Volume 31: never hazarded a second. With all this, I had never yet been" data-chapter="never hazarded a second With a" data-kind="chapter"></span>
+
+
+volume—never hazarded a second. With all this, I had never yet been
+able to arrest in his visits the freakish, friendly, cigar-loving
+[[Phantom|phantom]].
+
+But now at last I had him: there he was—the very brownie himself; and
+there, curling from his lips, was the pale blue breath of his Indian
+darling: he was smoking into my desk: it might [[Well|well]] betray him.
+Provoked at this particular, and yet pleased to surprise him—pleased,
+that is, with the mixed feeling of the housewife who discovers at last
+her strange elfin ally busy in the dairy at the untimely churn—I softly
+stole forward, stood behind him, bent with precaution over his
+shoulder.
+
+My heart smote me to see that—after this morning’s hostility, after my
+seeming remissness, after the puncture experienced by his feelings, and
+the ruffling undergone by his temper—he, all willing to forget and
+forgive, had brought me a couple of handsome volumes, of which the
+title and authorship were guarantees for interest. Now, as he sat
+bending above the desk, he was stirring up its contents; but with
+gentle and careful hand; disarranging indeed, but not harming. My heart
+smote me: as I bent over him, as he sat unconscious, doing me what good
+he could, and I daresay not feeling towards me unkindly, my morning’s
+anger quite melted: I did not dislike Professor Emanuel.
+
+I think he heard me breathe. He turned suddenly: his temperament was
+nervous, yet he never started, and seldom changed colour: there was
+something hardy about him.
+
+“I thought you were gone into town with the other teachers,” said he,
+taking a grim gripe of his [[Self|self]]-possession, which half-escaped him—“It
+is as [[Well|well]] you are not. Do you think I care for being caught? Not I. I
+often visit your desk.”
+
+“Monsieur, I know it.”
+
+“You find a brochure or tome now and then; but you don’t read them,
+because they have passed under this?”—touching his cigar.
+
+“They have, and are no better for the process; but I read them.”
+
+“Without pleasure?”
+
+“Monsieur must not be contradicted.”
+
+“Do you like them, or any of them?—are they acceptable?” “Monsieur has
+seen me reading them a hundred times, and knows I have not so many
+recreations as to undervalue those he provides.”
+
+“I mean [[Well|well]]; and, if you see that I mean [[Well|well]], and derive some little
+amusement from my efforts, why can we not be friends?”
+
+“A fatalist would say—because we cannot.”
+
+“This morning,” he continued, “I awoke in a bright mood, and came into
+classe happy; you spoiled my day.”
+
+“No, Monsieur, only an hour or two of it, and that unintentionally.”
+
+“Unintentionally! No. It was my fête-day; everybody wished me happiness
+but you. The little children of the third division gave each her knot
+of violets, lisped each her congratulation:—you—nothing. Not a bud,
+leaf, whisper—not a glance. Was this unintentional?”
+
+“I meant no harm.”
+
+“Then you really did not know our custom? You were unprepared? You
+would willingly have laid out a few centimes on a flower to give me
+pleasure, had you been aware that it was expected? Say so, and all is
+forgotten, and the [[Pain|pain]] soothed.”
+
+“I did know that it was expected: I _was_ prepared; yet I laid out no
+centimes on [[Flowers|flowers]].”
+
+“It is [[Well|well]]—you do right to be honest. I should almost have hated you
+had you flattered and lied. Better declare at once ‘Paul Carl
+Emanuel—je te déteste, mon garçon!’—than smile an interest, look an
+affection, and be false and cold at heart. False and cold I don’t think
+you are; but you have made a great mistake in life, that I believe; I
+think your judgment is warped—that you are indifferent where you ought
+to be grateful—and perhaps devoted and infatuated, where you ought to
+be cool as your name. Don’t suppose that I wish you to have a passion
+for me, Mademoiselle; Dieu vous en garde! What do you start for?
+Because I said passion? [[Well]], I say it again. There is such a word, and
+there is such a thing—though not within these walls, thank heaven! You
+are no [[Child|child]] that one should not speak of what exists; but I only
+uttered the word—the thing, I assure you, is alien to my whole life and
+views. It died in the past—in the present it lies buried—its [[Grave|grave]] is
+deep-dug, [[Well|well]]-heaped, and many winters old: in the future there will
+be a [[Resurrection|resurrection]], as I believe to my souls consolation; but all will
+then be changed—form and feeling: the mortal will have put on
+[[Immortality|immortality]]—it will rise, not for earth, but heaven. All I say to
+_you_, Miss [[Lucy Snowe]], is—that you ought to treat Professor Paul
+Emanuel decently.”
+
+I could not, and did not contradict such a sentiment.
+
+“Tell me,” he pursued, “when it is _your_ fête-day, and I will not
+grudge a few centimes for a small offering.”
+
+“You will be like me, Monsieur: this cost more than a few centimes, and
+I did not grudge its price.”
+
+And taking from the open desk the little box, I put it into his hand.
+
+“It lay ready in my lap this morning,” I continued; “and if Monsieur
+had been rather more patient, and Mademoiselle St. Pierre less
+interfering—perhaps I should say, too, if _I_ had been calmer and
+wiser—I should have given it then.”
+
+He looked at the box: I saw its clear warm tint and bright azure
+circlet pleased his eyes. I told him to open it.
+
+“My initials!” said he, indicating the letters in the lid. “Who told
+you I was called Carl David?”
+
+“A little bird, Monsieur.”
+
+“Does it fly from me to you? Then one can tie a message under its wing
+when needful.”
+
+He took out the chain—a trifle indeed as to value, but glossy with silk
+and sparkling with beads. He liked that too—admired it artlessly, like
+a [[Child|child]].
+
+“For me?”
+
+“Yes, for you.”
+
+“This is the thing you were working at last [[Night|night]]?”
+
+“The same.”
+
+“You finished it this morning?”
+
+“I did.”
+
+“You commenced it with the intention that it should be mine?”
+
+“Undoubtedly.”
+
+“And offered on my fête-day?”
+
+“Yes.”
+
+“This purpose continued as you wove it?”
+
+Again I assented.
+
+“Then it is not necessary that I should cut out any portion—saying,
+this part is not mine: it was plaited under the idea and for the
+adornment of another?”
+
+“By no means. It is neither necessary, nor would it be just.”
+
+“This object is _all_ mine?”
+
+“That object is yours entirely.”
+
+Straightway Monsieur opened his paletôt, arranged the guard splendidly
+across his chest, displaying as much and suppressing as little as he
+could: for he had no notion of concealing what he admired and thought
+decorative. As to the box, he pronounced it a superb bonbonnière—he was
+fond of bonbons, by the way—and as he always liked to share with others
+what pleased himself, he would give his “dragées” as freely as he lent
+his books. Amongst the kind brownie’s gifts left in my desk, I forgot
+to enumerate many a paper of chocolate comfits. His tastes in these
+matters were southern, and what we think infantine. His simple lunch
+consisted frequently of a “brioche,” which, as often as not, he shared
+with some [[Child|child]] of the third division.
+
+“A présent c’est un fait accompli,” said he, re-adjusting his paletôt;
+and we had no more words on the subject. After looking over the two
+volumes he had brought, and cutting away some pages with his penknife
+(he generally pruned before lending his books, especially if they were
+novels, and sometimes I was a little provoked at the severity of his
+censorship, the retrenchments interrupting the narrative), he [[Rose|rose]],
+politely touched his bonnet-grec, and bade me a civil good-day.
+
+“We are friends now,” thought I, “till the next [[Time|time]] we quarrel.”
+
+We _might_ have quarrelled again that very same evening, but, wonderful
+to relate, failed, for once, to make the most of our opportunity.
+
+Contrary to all expectation, M. Paul arrived at the study-hour. Having
+seen so much of him in the morning, we did not look for his presence at
+[[Night|night]]. No sooner were we seated at lessons, however, than he appeared.
+I own I was glad to see him, so glad that I could not help greeting his
+arrival with a smile; and when he made his way to the same seat about
+which so serious a misunderstanding had formerly arisen, I took good
+care not to make too much room for him; he watched with a jealous,
+side-long look, to see whether I shrank away, but I did not, though the
+bench was a little crowded. I was losing the early impulse to recoil
+from M. Paul. Habituated to the paletôt and bonnet-grec, the
+neighbourhood of these garments seemed no longer uncomfortable or very
+formidable. I did not now sit restrained, “asphyxiée” (as he used to
+say) at his side; I stirred when I wished to stir, coughed when it was
+necessary, even yawned when I was tired—did, in short, what I pleased,
+blindly reliant upon his indulgence. Nor did my temerity, this evening
+at least, meet the punishment it perhaps merited; he was both indulgent
+and good-natured; not a [[Cross|cross]] glance shot from his eyes, not a hasty
+word left his lips. Till the very close of the evening, he did not
+indeed address me at all, yet I felt, somehow, that he was full of
+friendliness. [[Silence]] is of different kinds, and breathes different
+meanings; no words could inspire a pleasanter content than did M.
+Paul’s worldless presence. When the tray came in, and the bustle of
+supper commenced, he just said, as he retired, that he wished me a good
+[[Night|night]] and sweet [[Dreams|dreams]]; and a good [[Night|night]] and sweet [[Dreams|dreams]] I had.
 
 
 
@@ -43330,3 +43187,146 @@ heart—I preferred him before all humanity.
 
 We parted: he gave me his pledge, and then his farewell. We parted: the
 next day—he sailed.
+
+
+
+
+<span class="atom-split" data-atom="chapter_44" data-title="Villette — Chapter 42" data-chapter="Chapter 44" data-kind="chapter"></span>
+
+
+CHAPTER XLII.
+FINIS.
+
+
+Man cannot prophesy. [[Love]] is no oracle. [[Fear]] sometimes imagines a vain
+thing. Those years of absence! How had I sickened over their
+anticipation! The woe they must bring seemed certain as [[Death|death]]. I knew
+the [[Nature|nature]] of their course: I never had [[Doubt|doubt]] how it would harrow as it
+went. The juggernaut on his car towered there a grim load. Seeing him
+draw nigh, burying his broad wheels in the oppressed soil—I, the
+prostrate votary—felt beforehand the annihilating craunch.
+
+Strange to say—strange, yet true, and owning many parallels in life’s
+experience—that anticipatory craunch proved all—yes—nearly _all_ the
+torture. The great Juggernaut, in his great chariot, drew on lofty,
+loud, and sullen. He passed quietly, like a [[Shadow|shadow]] sweeping the sky, at
+[[Noon|noon]]. Nothing but a chilling dimness was seen or felt. I looked up.
+Chariot and demon charioteer were gone by; the votary still lived.
+
+M. Emanuel was away three years. Reader, they were the three happiest
+years of my life. Do you scout the [[Paradox|paradox]]? Listen. I commenced my
+school; I worked—I worked hard. I deemed myself the steward of his
+property, and determined, God willing, to render a good account. Pupils
+came—burghers at first—a higher class ere long. About the middle of the
+second year an unexpected chance threw into my hands an additional
+hundred pounds: one day I received from England a letter containing
+that sum. It came from Mr. Marchmont, the cousin and heir of my dear
+and dead mistress. He was just recovering from a dangerous illness; the
+money was a peace-offering to his [[Conscience|conscience]], reproaching him in the
+matter of, I know not what, papers or memoranda found after his
+kinswoman’s [[Death|death]]—naming or recommending [[Lucy Snowe]]. Mrs. Barrett had
+given him my address. How far his [[Conscience|conscience]] had been sinned against, I
+never inquired. I asked no questions, but took the cash and made it
+useful.
+
+With this hundred pounds I ventured to take the [[house]] adjoining mine. I
+would not leave that which M. Paul had chosen, in which he had left,
+and where he expected again to find me. My externat became a
+pensionnat; that also prospered.
+
+The secret of my [[success]] did not lie so much in myself, in any
+endowment, any power of mine, as in a new state of circumstances, a
+wonderfully changed life, a relieved heart. The [[Spring|spring]] which moved my
+energies lay far away beyond seas, in an Indian isle. At parting, I had
+been left a legacy; such a thought for the present, such a [[Hope|hope]] for the
+future, such a motive for a persevering, a laborious, an enterprising,
+a patient and a brave course—I _could_ not [[Flag|flag]]. Few things shook me
+now; few things had importance to vex, intimidate, or depress me: most
+things pleased—mere trifles had a charm.
+
+Do not think that this genial flame sustained itself, or lived wholly
+on a bequeathed [[Hope|hope]] or a parting promise. A generous provider supplied
+bounteous fuel. I was spared all chill, all stint; I was not suffered
+to [[Fear|fear]] penury; I was not tried with suspense. By every vessel he
+wrote; he wrote as he gave and as he loved, in full-handed,
+full-hearted plenitude. He wrote because he liked to write; he did not
+abridge, because he cared not to abridge. He sat down, he took pen and
+paper, because he loved Lucy and had much to say to her; because he was
+faithful and thoughtful, because he was tender and true. There was no
+sham and no cheat, and no hollow unreal in him. Apology never dropped
+her slippery oil on his lips—never proffered, by his pen, her coward
+feints and paltry nullities: he would give neither a stone, nor an
+excuse—neither a scorpion; nor a disappointment; his letters were real
+food that nourished, living [[Water|water]] that refreshed.
+
+And was I grateful? God knows! I believe that scarce a living being so
+remembered, so sustained, dealt with in kind so constant, honourable
+and noble, could be otherwise than grateful to the [[Death|death]].
+
+Adherent to his own religion (in him was not the stuff of which is made
+the facile apostate), he freely left me my pure [[Faith|faith]]. He did not tease
+nor tempt. He said:—
+
+“Remain a Protestant. My little English Puritan, I [[Love|love]] Protestantism
+in you. I own its severe charm. There is something in its ritual I
+cannot receive myself, but it is the sole creed for ‘Lucy.’”
+
+All Rome could not put into him bigotry, nor the Propaganda itself make
+him a real Jesuit. He was born honest, and not false—artless, and not
+cunning—a freeman, and not a slave. His tenderness had rendered him
+ductile in a priest’s hands, his affection, his devotedness, his
+sincere pious enthusiasm blinded his kind eyes sometimes, made him
+abandon justice to himself to do the work of craft, and serve the ends
+of selfishness; but these are faults so rare to find, so costly to
+their owner to indulge, we scarce know whether they will not one day be
+reckoned amongst the jewels.
+
+And now the three years are past: M. Emanuel’s return is fixed. It is
+[[Autumn]]; he is to be with me ere the mists of November come. My school
+flourishes, my [[house]] is ready: I have made him a little library, filled
+its shelves with the books he left in my care: I have cultivated out of
+[[Love|love]] for him (I was naturally no florist) the plants he preferred, and
+some of them are yet in bloom. I thought I loved him when he went away;
+I [[Love|love]] him now in another degree: he is more my own.
+
+The sun passes the equinox; the days shorten, the [[Leaves|leaves]] grow sere;
+but—he is coming.
+
+Frosts appear at [[Night|night]]; November has sent his fogs in advance; the [[Wind|wind]]
+takes its [[Autumn|autumn]] moan; but—he is coming.
+
+The skies hang full and dark—a wrack sails from the west; the clouds
+cast themselves into strange forms—arches and broad radiations; there
+rise resplendent mornings—glorious, royal, purple as monarch in his
+state; the heavens are one flame; so wild are they, they rival battle
+at its thickest—so bloody, they shame Victory in her [[Pride|pride]]. I know some
+signs of the sky; I have noted them ever since [[Childhood|childhood]]. God watch
+that sail! Oh! guard it!
+
+The [[Wind|wind]] shifts to the west. Peace, peace, Banshee—“keening” at every
+[[Window|window]]! It will rise—it will swell—it shrieks out long: wander as I may
+through the [[house]] this [[Night|night]], I cannot lull the blast. The advancing
+hours make it strong: by midnight, all sleepless watchers hear and [[Fear|fear]]
+a wild south-west [[Storm|storm]]. That [[Storm|storm]] roared frenzied, for seven days. It
+did not cease till the Atlantic was strewn with wrecks: it did not lull
+till the deeps had gorged their full of sustenance. Not till the
+destroying angel of tempest had achieved his perfect work, would he
+fold the wings whose waft was thunder—the tremor of whose plumes was
+[[Storm|storm]].
+
+Peace, be still! Oh! a thousand weepers, praying in agony on waiting
+shores, listened for that voice, but it was not uttered—not uttered
+till; when the hush came, some could not feel it: till, when the sun
+returned, his light was [[Night|night]] to some!
+
+Here pause: pause at once. There is enough said. Trouble no quiet, kind
+heart; leave sunny imaginations [[Hope|hope]]. Let it be theirs to conceive the
+delight of joy born again fresh out of great terror, the rapture of
+rescue from peril, the wondrous reprieve from dread, the fruition of
+return. Let them picture [[Union|union]] and a happy succeeding life.
+
+[[Madame Beck]] prospered all the days of her life; so did Père Silas;
+Madame Walravens fulfilled her ninetieth year before she died.
+Farewell.
+
+THE END.

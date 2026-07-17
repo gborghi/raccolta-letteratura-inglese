@@ -23683,1340 +23683,6 @@ pass away, like a tale that is told!
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="The Old Curiosity Shop — Chapter 20" data-chapter="Chapter 20" data-kind="chapter"></span>
-
-
-CHAPTER 20
-
-Day after day as he bent his steps homeward, returning from some new
-effort to procure employment, Kit raised his eyes to the [[Window|window]] of the
-little room he had so much commended to the [[Child|child]], and hoped to see
-some indication of her presence.  His own earnest wish, coupled with
-the assurance he had received from Quilp, filled him with the belief
-that she would yet arrive to claim the humble shelter he had offered,
-and from the [[Death|death]] of each day’s [[Hope|hope]] another [[Hope|hope]] sprung up to live
-to-morrow.
-
-‘I think they must certainly come to-morrow, eh mother?’ said Kit,
-laying aside his hat with a weary air and sighing as he spoke.  ‘They
-have been gone a week.  They surely couldn’t stop away more than a
-week, could they now?’
-
-The mother shook her head, and reminded him how often he had been
-disappointed already.
-
-‘For the matter of that,’ said Kit, ‘you speak true and sensible
-enough, as you always do, mother.  Still, I do consider that a week is
-quite long enough for ‘em to be rambling about; don’t you say so?’
-
-‘Quite long enough, Kit, longer than enough, but they may not come back
-for all that.’
-
-Kit was for a moment disposed to be vexed by this contradiction, and
-not the less so from having anticipated it in his own mind and knowing
-how just it was.  But the impulse was only momentary, and the vexed
-look became a kind one before it had crossed the room.
-
-‘Then what do you think, mother, has become of ‘em?  You don’t think
-they’ve gone to sea, anyhow?’
-
-‘Not gone for sailors, certainly,’ returned the mother with a smile.
-‘But I can’t help thinking that they have gone to some foreign country.’
-
-‘I say,’ cried Kit with a rueful face, ‘don’t talk like that, mother.’
-
-‘I am afraid they have, and that’s the [[Truth|truth]],’ she said.  ‘It’s the
-talk of all the neighbours, and there are some even that know of their
-having been seen on board [[Ship|ship]], and can tell you the name of the place
-they’ve gone to, which is more than I can, my dear, for it’s a very
-hard one.’
-
-‘I don’t believe it,’ said Kit.  ‘Not a word of it.  A set of idle
-chatterboxes, how should they know!’
-
-‘They may be wrong of course,’ returned the mother, ‘I can’t tell about
-that, though I don’t think it’s at all unlikely that they’re in the
-right, for the talk is that the old gentleman had put by a little money
-that nobody knew of, not even that ugly little man you talk to me
-about--what’s his name--Quilp; and that he and Miss Nell have gone to
-live abroad where it can’t be taken from them, and they will never be
-disturbed.  That don’t seem very far out of the way now, do it?’
-
-Kit scratched his head mournfully, in reluctant admission that it did
-not, and clambering up to the old nail took down the cage and set
-himself to clean it and to feed the bird.  His thoughts reverting from
-this occupation to the little old gentleman who had given him the
-shilling, he suddenly recollected that that was the very day--nay,
-nearly the very hour--at which the little old gentleman had said he
-should be at the Notary’s [[house]] again.  He no sooner remembered this,
-than he hung up the cage with great precipitation, and hastily
-explaining the [[Nature|nature]] of his errand, went off at full [[Speed|speed]] to the
-appointed place.
-
-It was some two minutes after the [[Time|time]] when he reached the spot, which
-was a considerable distance from his [[Home|home]], but by great good luck the
-little old gentleman had not yet arrived; at least there was no
-pony-chaise to be seen, and it was not likely that he had come and gone
-again in so short a space.  Greatly relieved to find that he was not
-too late, Kit leant against a lamp-post to take breath, and waited the
-advent of the pony and his charge.
-
-Sure enough, before long the pony came trotting round the corner of the
-street, looking as obstinate as pony might, and picking his steps as if
-he were spying about for the cleanest places, and would by no means
-dirty his feet or hurry himself inconveniently.  Behind the pony sat
-the little old gentleman, and by the old gentleman’s side sat the
-little old lady, carrying just such a nosegay as she had brought before.
-
-The old gentleman, the old lady, the pony, and the chaise, came up the
-street in perfect unanimity, until they arrived within some half a
-dozen doors of the Notary’s [[house]], when the pony, deceived by a
-brass-plate beneath a tailor’s knocker, came to a halt, and maintained
-by a sturdy [[Silence|silence]], that that was the [[house]] they wanted.
-
-‘Now, Sir, will you ha’ the goodness to go on; this is not the place,’
-said the old gentleman.
-
-The pony looked with great attention into a [[Fire|fire]]-plug which was near
-him, and appeared to be quite absorbed in contemplating it.
-
-‘Oh dear, such a naughty Whisker!’ cried the old lady.  ‘After being so
-good too, and coming along so [[Well|well]]!  I am quite ashamed of him.  I
-don’t know what we are to do with him, I really don’t.’
-
-The pony having thoroughly satisfied himself as to the [[Nature|nature]] and
-properties of the [[Fire|fire]]-plug, looked into the air after his old enemies
-the flies, and as there happened to be one of them tickling his ear at
-that moment he shook his head and whisked his tail, after which he
-appeared full of thought but quite comfortable and collected.  The old
-gentleman having exhausted his powers of [[Persuasion|persuasion]], alighted to lead
-him; whereupon the pony, perhaps because he held this to be a
-sufficient concession, perhaps because he happened to catch sight of
-the other brass-plate, or perhaps because he was in a spiteful [[Humour|humour]],
-darted off with the old lady and stopped at the right [[house]], leaving
-the old gentleman to come panting on behind.
-
-It was then that Kit presented himself at the pony’s head, and touched
-his hat with a smile.
-
-‘Why, bless me,’ cried the old gentleman, ‘the lad is here!  My dear,
-do you see?’
-
-‘I said I’d be here, Sir,’ said Kit, patting Whisker’s neck.  ‘I [[Hope|hope]]
-you’ve had a pleasant ride, sir.  He’s a very nice little pony.’
-
-‘My dear,’ said the old gentleman.  ‘This is an uncommon lad; a good
-lad, I’m sure.’
-
-‘I’m sure he is,’ rejoined the old lady.  ‘A very good lad, and I am
-sure he is a good son.’
-
-Kit acknowledged these expressions of confidence by touching his hat
-again and blushing very much.  The old gentleman then handed the old
-lady out, and after looking at him with an approving smile, they went
-into the [[house]]--talking about him as they went, Kit could not help
-feeling.  Presently Mr Witherden, smelling very hard at the nosegay,
-came to the [[Window|window]] and looked at him, and after that Mr Abel came and
-looked at him, and after that the old gentleman and lady came and
-looked at him again, and after that they all came and looked at him
-together, which Kit, feeling very much embarrassed by, made a pretence
-of not observing.  Therefore he patted the pony more and more; and this
-liberty the pony most handsomely permitted.
-
-The faces had not disappeared from the [[Window|window]] many moments, when Mr
-Chuckster in his official coat, and with his hat hanging on his head
-just as it happened to fall from its peg, appeared upon the pavement,
-and telling him he was wanted inside, bade him go in and he would mind
-the chaise the while.  In giving him this direction Mr Chuckster
-remarked that he wished that he might be blessed if he could make out
-whether he (Kit) was ‘precious raw’ or ‘precious deep,’ but intimated
-by a distrustful shake of the head, that he inclined to the latter
-opinion.
-
-Kit entered the office in a great tremor, for he was not used to going
-among strange ladies and gentlemen, and the tin boxes and bundles of
-dusty papers had in his eyes an awful and venerable air.  Mr Witherden
-too was a bustling gentleman who talked loud and fast, and all eyes
-were upon him, and he was very shabby.
-
-‘[[Well]], boy,’ said Mr Witherden, ‘you came to work out that
-shilling;--not to get another, hey?’
-
-‘No indeed, sir,’ replied Kit, taking [[Courage|courage]] to look up.  ‘I never
-thought of such a thing.’
-
-‘Father alive?’ said the Notary.
-
-‘Dead, sir.’
-
-‘Mother?’
-
-‘Yes, sir.’
-
-‘Married again--eh?’
-
-Kit made answer, not without some indignation, that she was a widow
-with three children, and that as to her marrying again, if the
-gentleman knew her he wouldn’t think of such a thing.  At this reply Mr
-Witherden buried his nose in the [[Flowers|flowers]] again, and whispered behind
-the nosegay to the old gentleman that he believed the lad was as honest
-a lad as need be.
-
-‘Now,’ said Mr Garland when they had made some further inquiries of
-him, ‘I am not going to give you anything--’
-
-‘Thank you, sir,’ Kit replied; and quite seriously too, for this
-announcement seemed to free him from the suspicion which the Notary had
-hinted.
-
-‘--But,’ resumed the old gentleman, ‘perhaps I may want to know
-something more about you, so tell me where you live, and I’ll put it
-down in my pocket-book.’
-
-Kit told him, and the old gentleman wrote down the address with his
-pencil.  He had scarcely done so, when there was a great uproar in the
-street, and the old lady hurrying to the [[Window|window]] cried that Whisker had
-run away, upon which Kit darted out to the rescue, and the others
-followed.
-
-It seemed that Mr Chuckster had been standing with his hands in his
-pockets looking carelessly at the pony, and occasionally insulting him
-with such admonitions as ‘Stand still,’--‘Be quiet,’--‘Woa-a-a,’ and the
-like, which by a pony of spirit cannot be borne.  Consequently, the
-pony being deterred by no considerations of duty or obedience, and not
-having before him the slightest [[Fear|fear]] of the human eye, had at length
-started off, and was at that moment rattling down the street--Mr
-Chuckster, with his hat off and a pen behind his ear, hanging on in the
-rear of the chaise and making futile attempts to draw it the other way,
-to the unspeakable admiration of all beholders.  Even in running away,
-however, Whisker was perverse, for he had not gone very far when he
-suddenly stopped, and before assistance could be rendered, commenced
-backing at nearly as quick a pace as he had gone forward.  By these
-means Mr Chuckster was pushed and hustled to the office again, in a
-most inglorious manner, and arrived in a state of great exhaustion and
-discomfiture.
-
-The old lady then stepped into her seat, and Mr Abel (whom they had
-come to fetch) into his.  The old gentleman, after reasoning with the
-pony on the extreme impropriety of his conduct, and making the best
-amends in his power to Mr Chuckster, took his place also, and they
-drove away, waving a farewell to the Notary and his clerk, and more
-than once turning to nod kindly to Kit as he watched them from the [[Road|road]].
-
-
-
-
-<span class="atom-split" data-atom="chapter_22" data-title="The Old Curiosity Shop — Chapter 22" data-chapter="Chapter 22" data-kind="chapter"></span>
-
-
-CHAPTER 22
-
-The remainder of that day and the whole of the next were a busy [[Time|time]]
-for the Nubbles family, to whom everything connected with Kit’s outfit
-and departure was matter of as great moment as if he had been about to
-penetrate into the interior of Africa, or to take a cruise round the
-world.  It would be difficult to suppose that there ever was a box
-which was opened and shut so many times within four-and-twenty hours,
-as that which contained his wardrobe and necessaries; and certainly
-there never was one which to two small eyes presented such a mine of
-clothing, as this mighty chest with its three shirts and proportionate
-allowance of stockings and pocket-handkerchiefs, disclosed to the
-astonished vision of little Jacob.  At last it was conveyed to the
-carrier’s, at whose [[house]] at Finchley Kit was to find it next day; and
-the box being gone, there remained but two questions for consideration:
-firstly, whether the carrier would lose, or dishonestly feign to lose,
-the box upon the [[Road|road]]; secondly, whether Kit’s mother perfectly
-understood how to take care of herself in the absence of her son.
-
-‘I don’t think there’s hardly a chance of his really losing it, but
-carriers are under great [[Temptation|temptation]] to pretend they lose things, no
-[[Doubt|doubt]],’ said Mrs Nubbles apprehensively, in reference to the first
-point.
-
-‘No [[Doubt|doubt]] about it,’ returned Kit, with a serious look; ‘upon my word,
-mother, I don’t think it was right to trust it to itself.  Somebody
-ought to have gone with it, I’m afraid.’
-
-‘We can’t help it now,’ said his mother; ‘but it was foolish and wrong.
-People oughtn’t to be tempted.’
-
-Kit inwardly resolved that he would never tempt a carrier any more,
-save with an empty box; and having formed this Christian determination,
-he turned his thoughts to the second question.
-
-‘_You_ know you must keep up your spirits, mother, and not be lonesome
-because I’m not at [[Home|home]].  I shall very often be able to look in when I
-come into town I dare say, and I shall send you a letter sometimes, and
-when the quarter comes round, I can get a holiday of course; and then
-see if we don’t take little Jacob to the play, and let him know what
-oysters means.’
-
-‘I [[Hope|hope]] plays mayn’t be sinful, Kit, but I’m a’most afraid,’ said Mrs
-Nubbles.
-
-‘I know who has been putting that in your head,’ rejoined her son
-disconsolately; ‘that’s Little Bethel again.  Now I say, mother, pray
-don’t take to going there regularly, for if I was to see your
-good-humoured face that has always made [[Home|home]] cheerful, turned into a
-grievous one, and the baby trained to look grievous too, and to call
-itself a young sinner (bless its heart) and a [[Child|child]] of the devil (which
-is calling its dead father names); if I was to see this, and see little
-Jacob looking grievous likewise, I should so take it to heart that I’m
-sure I should go and list for a soldier, and run my head on purpose
-against the first cannon-ball I saw coming my way.’
-
-‘Oh, Kit, don’t talk like that.’
-
-‘I would, indeed, mother, and unless you want to make me feel very
-wretched and uncomfortable, you’ll keep that bow on your bonnet, which
-you’d more than half a mind to pull off last week.  Can you suppose
-there’s any harm in looking as cheerful and being as cheerful as our
-poor circumstances will permit?  Do I see anything in the way I’m made,
-which calls upon me to be a snivelling, solemn, whispering chap,
-sneaking about as if I couldn’t help it, and expressing myself in a
-most unpleasant snuffle?  on the contrary, don’t I see every reason why
-I shouldn’t?  just hear this!  Ha ha ha!  An’t that as nat’ral as
-walking, and as good for the health?  Ha ha ha!  An’t that as nat’ral
-as a sheep’s bleating, or a pig’s grunting, or a [[Horse|horse]]’s neighing, or a
-bird’s singing?  Ha ha ha!  Isn’t it, mother?’
-
-There was something contagious in Kit’s laugh, for his mother, who had
-looked [[Grave|grave]] before, first subsided into a smile, and then fell to
-joining in it heartily, which occasioned Kit to say that he knew it was
-natural, and to laugh the more.  Kit and his mother, laughing together
-in a pretty loud key, woke the baby, who, finding that there was
-something very jovial and agreeable in progress, was no sooner in its
-mother’s arms than it began to kick and laugh, most vigorously.  This
-new illustration of his argument so tickled Kit, that he fell backward
-in his chair in a state of exhaustion, pointing at the baby and shaking
-his sides till he rocked again.  After recovering twice or thrice, and
-as often relapsing, he wiped his eyes and said grace; and a very
-cheerful meal their scanty supper was.
-
-With more kisses, and hugs, and [[Tears|tears]], than many young gentlemen who
-start upon their travels, and leave [[Well|well]]-stocked homes behind them,
-would deem within the bounds of probability (if matter so low could be
-herein set down), Kit left the [[house]] at an early hour next morning, and
-set out to walk to Finchley; feeling a sufficient [[Pride|pride]] in his
-appearance to have warranted his excommunication from Little Bethel
-from that [[Time|time]] forth, if he had ever been one of that mournful
-congregation.
-
-Lest anybody should feel a curiosity to know how Kit was clad, it may
-be briefly remarked that he wore no livery, but was dressed in a coat
-of pepper-and-salt with waistcoat of canary colour, and nether garments
-of iron-grey; besides these glories, he shone in the lustre of a new
-pair of boots and an extremely stiff and shiny hat, which on being
-struck anywhere with the knuckles, sounded like a drum.  And in this
-attire, rather wondering that he attracted so little attention, and
-attributing the circumstance to the insensibility of those who got up
-early, he made his way towards Abel Cottage.
-
-Without encountering any more remarkable adventure on the [[Road|road]], than
-meeting a lad in a brimless hat, the exact counterpart of his old one,
-on whom he bestowed half the sixpence he possessed, Kit arrived in
-course of [[Time|time]] at the carrier’s [[house]], where, to the lasting [[Honour|honour]] of
-human [[Nature|nature]], he found the box in safety.  Receiving from the wife of
-this immaculate man, a direction to Mr Garland’s, he took the box upon
-his shoulder and repaired thither directly.
-
-To be sure, it was a beautiful little cottage with a thatched roof and
-little spires at the gable-ends, and pieces of stained glass in some of
-the windows, almost as large as pocket-books.  On one side of the [[house]]
-was a little stable, just the size for the pony, with a little room
-over it, just the size for Kit.  White curtains were fluttering, and
-[[Birds|birds]] in cages that looked as bright as if they were made of gold, were
-singing at the windows; plants were arranged on either side of the
-path, and clustered about the door; and the [[Garden|garden]] was bright with
-[[Flowers|flowers]] in full bloom, which shed a sweet odour all round, and had a
-charming and elegant appearance.  Everything within the [[house]] and
-without, seemed to be the perfection of neatness and order.  In the
-[[Garden|garden]] there was not a weed to be seen, and to judge from some dapper
-gardening-tools, a basket, and a pair of gloves which were lying in one
-of the walks, old Mr Garland had been at work in it that very morning.
-
-Kit looked about him, and admired, and looked again, and this a great
-many times before he could make up his mind to turn his head another
-way and ring the bell.  There was abundance of [[Time|time]] to look about him
-again though, when he had rung it, for nobody came, so after ringing it
-twice or thrice he sat down upon his box, and waited.
-
-He rang the bell a great many times, and yet nobody came.  But at last,
-as he was sitting upon the box thinking about giants’ castles, and
-princesses tied up to pegs by the hair of their heads, and dragons
-bursting out from behind gates, and other incidents of the like [[Nature|nature]],
-common in story-books to youths of low degree on their first visit to
-strange houses, the door was gently opened, and a little servant-girl,
-very tidy, modest, and demure, but very pretty too, appeared.
-
-‘I suppose you’re Christopher, sir,’ said the servant-girl.
-
-Kit got off the box, and said yes, he was.
-
-‘I’m afraid you’ve rung a good many times perhaps,’ she rejoined, ‘but
-we couldn’t hear you, because we’ve been catching the pony.’
-
-Kit rather wondered what this meant, but as he couldn’t stop there,
-asking questions, he shouldered the box again and followed the girl
-into the hall, where through a back-door he descried Mr Garland leading
-Whisker in triumph up the [[Garden|garden]], after that [[Self|self]]-willed pony had (as
-he afterwards learned) dodged the family round a small paddock in the
-rear, for one hour and three quarters.
-
-The old gentleman received him very kindly and so did the old lady,
-whose previous good opinion of him was greatly enhanced by his wiping
-his boots on the mat until the soles of his feet burnt again.  He was
-then taken into the parlour to be inspected in his new clothes; and
-when he had been surveyed several times, and had afforded by his
-appearance unlimited satisfaction, he was taken into the stable (where
-the pony received him with uncommon complaisance); and thence into the
-little chamber he had already observed, which was very clean and
-comfortable: and thence into the [[Garden|garden]], in which the old gentleman
-told him he would be taught to employ himself, and where he told him,
-besides, what great things he meant to do to make him comfortable, and
-happy, if he found he deserved it.  All these kindnesses, Kit
-acknowledged with various expressions of gratitude, and so many touches
-of the new hat, that the brim suffered considerably.  When the old
-gentleman had said all he had to say in the way of promise and advice,
-and Kit had said all he had to say in the way of assurance and
-thankfulness, he was handed over again to the old lady, who, summoning
-the little servant-girl (whose name was Barbara) instructed her to take
-him down stairs and give him something to eat and drink, after his walk.
-
-Down stairs, therefore, Kit went; and at the [[Bottom|bottom]] of the stairs there
-was such a kitchen as was never before seen or heard of out of a
-toy-shop [[Window|window]], with everything in it as bright and glowing, and as
-precisely ordered too, as Barbara herself.  And in this kitchen, Kit
-sat himself down at a table as white as a tablecloth, to eat cold meat,
-and drink small ale, and use his knife and fork the more awkwardly,
-because there was an unknown Barbara looking on and observing him.
-
-It did not appear, however, that there was anything remarkably
-tremendous about this strange Barbara, who having lived a very quiet
-life, blushed very much and was quite as embarrassed and uncertain what
-she ought to say or do, as Kit could possibly be.  When he had sat for
-some little [[Time|time]], attentive to the ticking of the sober [[Clock|clock]], he
-ventured to glance curiously at the dresser, and there, among the
-plates and dishes, were Barbara’s little work-box with a sliding lid to
-shut in the balls of cotton, and Barbara’s [[prayer]]-book, and Barbara’s
-[[Hymn|hymn]]-book, and Barbara’s [[Bible]].  Barbara’s little looking-glass hung in
-a good light near the [[Window|window]], and Barbara’s bonnet was on a nail behind
-the door.  From all these mute signs and tokens of her presence, he
-naturally glanced at Barbara herself, who sat as mute as they, shelling
-peas into a dish; and just when Kit was looking at her eyelashes and
-wondering--quite in the simplicity of his heart--what colour her eyes
-might be, it perversely happened that Barbara raised her head a little
-to look at him, when both pair of eyes were hastily withdrawn, and Kit
-leant over his plate, and Barbara over her pea-shells, each in extreme
-confusion at having been detected by the other.
-
-
-
-
-<span class="atom-split" data-atom="chapter_36" data-title="The Old Curiosity Shop — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
-
-
-CHAPTER 36
-
-As the single gentleman after some weeks’ occupation of his lodgings,
-still declined to correspond, by word or gesture, either with Mr Brass
-or his sister Sally, but invariably chose [[Richard]] Swiveller as his
-channel of communication; and as he proved himself in all respects a
-highly desirable inmate, paying for everything beforehand, giving very
-little trouble, making no noise, and keeping early hours; Mr [[Richard]]
-imperceptibly [[Rose|rose]] to an important position in the family, as one who
-had influence over this mysterious lodger, and could negotiate with
-him, for good or evil, when nobody else durst approach his person.
-
-If the [[Truth|truth]] must be told, even Mr Swiveller’s approaches to the single
-gentleman were of a very distant kind, and met with small
-encouragement; but, as he never returned from a monosyllabic conference
-with the unknown, without quoting such expressions as ‘Swiveller, I
-know I can rely upon you,’--‘I have no hesitation in saying, Swiveller,
-that I entertain a regard for you,’--‘Swiveller, you are my friend, and
-will stand by me I am sure,’ with many other short speeches of the same
-familiar and confiding kind, purporting to have been addressed by the
-single gentleman to himself, and to form the staple of their ordinary
-discourse, neither Mr Brass nor Miss Sally for a moment questioned the
-extent of his influence, but accorded to him their fullest and most
-unqualified belief.
-
-But quite apart from, and independent of, this source of popularity, Mr
-Swiveller had another, which promised to be equally enduring, and to
-lighten his position considerably.
-
-He found favour in the eyes of Miss [[Sally Brass]].  Let not the light
-scorners of female fascination erect their ears to listen to a new tale
-of [[Love|love]] which shall serve them for a jest; for Miss Brass, however
-accurately formed to be beloved, was not of the loving kind.  That
-amiable virgin, having clung to the skirts of the Law from her earliest
-youth; having sustained herself by their aid, as it were, in her first
-running [[Alone|alone]], and maintained a firm grasp upon them ever since; had
-passed her life in a kind of legal [[Childhood|childhood]].  She had been remarkable,
-when a tender prattler for an uncommon talent in counterfeiting the
-walk and manner of a bailiff: in which character she had learned to tap
-her little playfellows on the shoulder, and to carry them off to
-imaginary sponging-houses, with a correctness of [[Imitation|imitation]] which was
-the surprise and delight of all who witnessed her performances, and
-which was only to be exceeded by her exquisite manner of putting an
-execution into her doll’s [[house]], and taking an exact inventory of the
-chairs and tables.  These artless sports had naturally soothed and
-cheered the decline of her widowed father: a most exemplary gentleman
-(called ‘old Foxey’ by his friends from his extreme sagacity,) who
-encouraged them to the utmost, and whose chief regret, on finding that
-he drew near to Houndsditch churchyard, was, that his daughter could
-not take out an attorney’s certificate and hold a place upon the roll.
-Filled with this affectionate and touching sorrow, he had solemnly
-confided her to his son Sampson as an invaluable auxiliary; and from
-the old gentleman’s decease to the period of which we treat, Miss Sally
-Brass had been the prop and pillar of his business.
-
-It is obvious that, having devoted herself from infancy to this one
-pursuit and study, Miss Brass could know but little of the world,
-otherwise than in connection with the law; and that from a lady gifted
-with such high tastes, proficiency in those gentler and softer arts in
-which women usually excel, was scarcely to be looked for.  Miss Sally’s
-accomplishments were all of a masculine and strictly legal kind.  They
-began with the practice of an attorney and they ended with it.  She was
-in a state of lawful [[innocence]], so to speak.  The law had been her
-[[Nurse|nurse]].  And, as bandy-legs or such physical deformities in children are
-held to be the consequence of bad nursing, so, if in a mind so
-beautiful any moral twist or handiness could be found, Miss Sally
-Brass’s [[Nurse|nurse]] was [[Alone|alone]] to blame.
-
-It was upon this lady, then, that Mr Swiveller burst in full freshness as
-something new and hitherto undreamed of, lighting up the office with
-scraps of [[Song|song]] and merriment, conjuring with inkstands and boxes of
-wafers, catching three oranges in one hand, balancing stools upon his
-chin and penknives on his nose, and constantly performing a hundred
-other feats with equal ingenuity; for with such unbendings did [[Richard]],
-in Mr Brass’s absence, relieve the tedium of his confinement.  These
-social qualities, which Miss Sally first discovered by accident,
-gradually made such an impression upon her, that she would entreat Mr
-Swiveller to relax as though she were not by, which Mr Swiveller,
-nothing loth, would readily consent to do.  By these means a [[Friendship|friendship]]
-sprung up between them.  Mr Swiveller gradually came to look upon her
-as her brother Sampson did, and as he would have looked upon any other
-clerk.  He imparted to her the mystery of going the odd man or plain
-Newmarket for fruit, ginger-beer, baked potatoes, or even a modest
-quencher, of which Miss Brass did not scruple to partake.  He would
-often persuade her to undertake his share of writing in addition to her
-own; nay, he would sometimes reward her with a hearty slap on the back,
-and protest that she was a devilish good fellow, a jolly dog, and so
-forth; all of which compliments Miss Sally would receive in entire good
-part and with perfect satisfaction.
-
-One circumstance troubled Mr Swiveller’s mind very much, and that was
-that the small servant always remained somewhere in the bowels of the
-earth under Bevis Marks, and never came to the surface unless the
-single gentleman rang his bell, when she would answer it and
-immediately disappear again.  She never went out, or came into the
-office, or had a clean face, or took off the coarse apron, or looked
-out of any one of the windows, or stood at the street-door for a breath
-of air, or had any rest or enjoyment whatever.  Nobody ever came to see
-her, nobody spoke of her, nobody cared about her.  Mr Brass had said
-once, that he believed she was a ‘[[Love|love]]-[[Child|child]]’ (which means anything but
-a [[Child|child]] of [[Love|love]]), and that was all the information [[Richard]] Swiveller
-could obtain.
-
-‘It’s of no use asking the dragon,’ thought Dick one day, as he sat
-contemplating the features of Miss [[Sally Brass]].  ‘I suspect if I asked
-any questions on that head, our alliance would be at an end.  I [[Wonder|wonder]]
-whether she is a dragon by-the-bye, or something in the [[Mermaid|mermaid]] way.
-She has rather a scaly appearance.  But mermaids are fond of looking at
-themselves in the glass, which she can’t be.  And they have a habit of
-combing their hair, which she hasn’t.  No, she’s a dragon.’
-
-‘Where are you going, old fellow?’ said Dick aloud, as Miss Sally wiped
-her pen as usual on the green dress, and uprose from her seat.
-
-‘To dinner,’ answered the dragon.
-
-‘To dinner!’ thought Dick, ‘that’s another circumstance.  I don’t
-believe that small servant ever has anything to eat.’
-
-‘Sammy won’t be [[Home|home]],’ said Miss Brass.  ‘Stop till I come back.  I
-sha’n’t be long.’
-
-Dick nodded, and followed Miss Brass--with his eyes to the door, and
-with his ears to a little back parlour, where she and her brother took
-their meals.
-
-‘Now,’ said Dick, walking up and down with his hands in his pockets,
-‘I’d give something--if I had it--to know how they use that [[Child|child]], and
-where they keep her.  My mother must have been a very inquisitive
-woman; I have no [[Doubt|doubt]] I’m marked with a note of interrogation
-somewhere.  My feelings I smother, but thou hast been the cause of this
-anguish, my--upon my word,’ said Mr Swiveller, checking himself and
-falling thoughtfully into the client’s chair, ‘I should like to know
-how they use her!’
-
-After running on, in this way, for some [[Time|time]], Mr Swiveller softly
-opened the office door, with the intention of darting across the street
-for a glass of the mild porter.  At that moment he caught a parting
-glimpse of the brown head-dress of Miss Brass flitting down the kitchen
-stairs.  ‘And by Jove!’ thought Dick, ‘she’s going to feed the small
-servant.  Now or never!’
-
-First peeping over the handrail and allowing the head-dress to
-disappear in the darkness below, he groped his way down, and arrived at
-the door of a back kitchen immediately after Miss Brass had entered the
-same, bearing in her hand a cold leg of mutton.  It was a very dark
-miserable place, very low and very damp: the walls disfigured by a
-thousand rents and blotches.  The [[Water|water]] was trickling out of a leaky
-butt, and a most wretched cat was lapping up the drops with the sickly
-eagerness of starvation.  The grate, which was a wide one, was wound
-and screwed up tight, so as to hold no more than a little thin sandwich
-of [[Fire|fire]].  Everything was locked up; the coal-cellar, the candle-box,
-the salt-box, the meat-safe, were all padlocked.  There was nothing
-that a beetle could have lunched upon.  The pinched and meagre aspect
-of the place would have killed a chameleon.  He would have known, at
-the first mouthful, that the air was not eatable, and must have given up
-the [[Ghost|ghost]] in [[Despair|despair]]. The small servant stood with [[Humility|humility]] in presence
-of Miss Sally, and hung her head.
-
-‘Are you there?’ said Miss Sally.
-
-‘Yes, ma’am,’ was the answer in a weak voice.
-
-‘Go further away from the leg of mutton, or you’ll be picking it, I
-know,’ said Miss Sally.
-
-The girl withdrew into a corner, while Miss Brass took a key from her
-pocket, and opening the safe, brought from it a dreary waste of cold
-potatoes, looking as eatable as Stonehenge.  This she placed before the
-small servant, ordering her to sit down before it, and then, taking up
-a great carving-knife, made a mighty show of sharpening it upon the
-carving-fork.
-
-‘Do you see this?’ said Miss Brass, slicing off about two square inches
-of cold mutton, after all this preparation, and holding it out on the
-point of the fork.
-
-The small servant looked hard enough at it with her hungry eyes to see
-every shred of it, small as it was, and answered, ‘yes.’
-
-‘Then don’t you ever go and say,’ retorted Miss Sally, ‘that you hadn’t
-meat here.  There, eat it up.’
-
-This was soon done.  ‘Now, do you want any more?’ said Miss Sally.
-
-The hungry creature answered with a faint ‘No.’  They were evidently
-going through an established form.
-
-‘You’ve been helped once to meat,’ said Miss Brass, summing up the
-facts; ‘you have had as much as you can eat, you’re asked if you want
-any more, and you answer, ‘no!’ Then don’t you ever go and say you were
-allowanced, mind that.’
-
-With those words, Miss Sally put the meat away and locked the safe, and
-then drawing near to the small servant, overlooked her while she
-finished the potatoes.
-
-It was plain that some extraordinary grudge was working in Miss Brass’s
-gentle breast, and that it was that which impelled her, without the
-smallest present cause, to rap the [[Child|child]] with the blade of the knife,
-now on her hand, now on her head, and now on her back, as if she found
-it quite impossible to stand so close to her without administering a
-few slight knocks.  But Mr Swiveller was not a little surprised to see
-his fellow-clerk, after walking slowly backwards towards the door, as
-if she were trying to withdraw herself from the room but could not
-accomplish it, dart suddenly forward, and falling on the small servant
-give her some hard blows with her clenched hand.  The victim cried, but
-in a subdued manner as if she feared to raise her voice, and Miss
-Sally, comforting herself with a pinch of snuff, ascended the stairs,
-just as [[Richard]] had safely reached the office.
-
-
-
-
-<span class="atom-split" data-atom="chapter_55" data-title="The Old Curiosity Shop — Chapter 55" data-chapter="Chapter 55" data-kind="chapter"></span>
-
-
-CHAPTER 55
-
-From that [[Time|time]], there sprung up in the old man’s mind, a solicitude
-about the [[Child|child]] which never slept or left him.  There are chords in the
-human heart--strange, varying strings--which are only struck by
-accident; which will remain mute and senseless to appeals the most
-passionate and earnest, and respond at last to the slightest casual
-touch.  In the most insensible or childish minds, there is some train
-of reflection which art can seldom lead, or skill assist, but which
-will reveal itself, as great truths have done, by chance, and when the
-discoverer has the plainest end in view.  From that [[Time|time]], the old man
-never, for a moment, forgot the weakness and devotion of the [[Child|child]];
-from the [[Time|time]] of that slight incident, he who had seen her toiling by
-his side through so much difficulty and [[Suffering|suffering]], and had scarcely
-thought of her otherwise than as the partner of miseries which he felt
-severely in his own person, and deplored for his own sake at least as
-much as hers, awoke to a sense of what he owed her, and what those
-miseries had made her.  Never, no, never once, in one unguarded moment
-from that [[Time|time]] to the end, did any care for himself, any thought of his
-own comfort, any selfish consideration or regard distract his thoughts
-from the gentle object of his [[Love|love]].
-
-He would follow her up and down, waiting till she should tire and lean
-upon his arm--he would sit opposite to her in the chimney-corner,
-content to watch, and look, until she raised her head and smiled upon
-him as of old--he would discharge by stealth, those household duties
-which tasked her powers too heavily--he would rise, in the cold dark
-nights, to listen to her breathing in her [[Sleep|sleep]], and sometimes crouch
-for hours by her bedside only to touch her hand.  He who knows all, can
-only know what hopes, and fears, and thoughts of deep affection, were
-in that one disordered brain, and what a change had fallen on the poor
-old man.  Sometimes--weeks had crept on, then--the [[Child|child]], exhausted,
-though with little fatigue, would pass whole evenings on a couch beside
-the [[Fire|fire]].  At such times, the schoolmaster would bring in books, and
-read to her aloud; and seldom an evening passed, but the bachelor came
-in, and took his turn of reading.  The old man sat and listened--with
-little understanding for the words, but with his eyes fixed upon the
-[[Child|child]]--and if she smiled or brightened with the story, he would say it
-was a good one, and conceive a fondness for the very book.  When, in
-their evening talk, the bachelor told some tale that pleased her (as
-his tales were sure to do), the old man would painfully try to store it
-in his mind; nay, when the bachelor left them, he would sometimes slip
-out after him, and humbly beg that he would tell him such a part again,
-that he might learn to win a smile from Nell.
-
-But these were rare occasions, happily; for the [[Child|child]] yearned to be out
-of doors, and walking in her solemn [[Garden|garden]].  Parties, too, would come
-to see the church; and those who came, speaking to others of the [[Child|child]],
-sent more; so even at that season of the year they had visitors almost
-daily.  The old man would follow them at a little distance through the
-building, listening to the voice he loved so [[Well|well]]; and when the
-strangers left, and parted from Nell, he would mingle with them to
-catch up fragments of their conversation; or he would stand for the
-same purpose, with his grey head uncovered, at the gate as they passed
-through.
-
-They always praised the [[Child|child]], her sense and [[Beauty|beauty]], and he was proud
-to hear them!  But what was that, so often added, which wrung his
-heart, and made him sob and weep [[Alone|alone]], in some dull corner!  Alas!
-even careless strangers--they who had no feeling for her, but the
-interest of the moment--they who would go away and forget next week
-that such a being lived--even they saw it--even they pitied her--even
-they bade him good day compassionately, and whispered as they passed.
-
-The people of the village, too, of whom there was not one but grew to
-have a fondness for poor Nell; even among them, there was the same
-feeling; a tenderness towards her--a compassionate regard for her,
-increasing every day.  The very schoolboys, light-hearted and
-thoughtless as they were, even they cared for her.  The roughest among
-them was sorry if he missed her in the usual place upon his way to
-school, and would turn out of the path to ask for her at the latticed
-[[Window|window]].  If she were sitting in the church, they perhaps might peep in
-softly at the open door; but they never spoke to her, unless she [[Rose|rose]]
-and went to speak to them.  Some feeling was abroad which raised the
-[[Child|child]] above them all.
-
-So, when [[Sunday]] came.  They were all poor country people in the church,
-for the [[Castle|castle]] in which the old family had lived, was an empty ruin,
-and there were none but humble folks for seven miles around.  There, as
-elsewhere, they had an interest in Nell.  They would gather round her
-in the porch, before and after service; young children would cluster at
-her skirts; and aged men and women forsake their gossips, to give her
-kindly greeting.  None of them, young or old, thought of passing the
-[[Child|child]] without a friendly word.  Many who came from three or four miles
-distant, brought her little presents; the humblest and rudest had good
-wishes to bestow.
-
-She had sought out the young children whom she first saw playing in the
-churchyard.  One of these--he who had spoken of his brother--was her
-little favourite and friend, and often sat by her side in the church,
-or climbed with her to the tower-top.  It was his delight to help her,
-or to fancy that he did so, and they soon became close companions.
-
-It happened, that, as she was reading in the old spot by herself one
-day, this [[Child|child]] came running in with his eyes full of [[Tears|tears]], and after
-holding her from him, and looking at her eagerly for a moment, clasped
-his little arms passionately about her neck.
-
-‘What now?’ said Nell, soothing him.  ‘What is the matter?’
-
-‘She is not one yet!’ cried the boy, embracing her still more closely.
-‘No, no.  Not yet.’
-
-She looked at him wonderingly, and putting his hair back from his face,
-and kissing him, asked what he meant.
-
-‘You must not be one, dear Nell,’ cried the boy.  ‘We can’t see them.
-They never come to play with us, or talk to us.  Be what you are.  You
-are better so.’
-
-‘I do not understand you,’ said the [[Child|child]].  ‘Tell me what you mean.’
-
-‘Why, they say,’ replied the boy, looking up into her face, that you
-will be an Angel, before the [[Birds|birds]] sing again.  But you won’t be, will
-you?  Don’t leave us Nell, though the sky is bright.  Do not leave us!’
-
-The [[Child|child]] dropped her head, and put her hands before her face.
-
-‘She cannot bear the thought!’ cried the boy, exulting through his
-[[Tears|tears]].  ‘You will not go.  You know how sorry we should be.  Dear Nell,
-tell me that you’ll stay amongst us.  Oh!  Pray, pray, tell me that you
-will.’
-
-The little creature folded his hands, and knelt down at her feet.
-
-‘Only look at me, Nell,’ said the boy, ‘and tell me that you’ll stop,
-and then I shall know that they are wrong, and will cry no more.  Won’t
-you say yes, Nell?’
-
-Still the drooping head and hidden face, and the [[Child|child]] quite
-silent--save for her sobs.
-
-‘After a [[Time|time]],’ pursued the boy, trying to draw away her hand, ‘the kind
-angels will be glad to think that you are not among them, and that you
-stayed here to be with us.  Willy went away, to join them; but if he
-had known how I should miss him in our little bed at [[Night|night]], he never
-would have left me, I am sure.’
-
-Yet the [[Child|child]] could make him no answer, and sobbed as though her heart
-were bursting.  ‘Why would you go, dear Nell?  I know you would not be
-happy when you heard that we were crying for your loss.  They say that
-Willy is in Heaven now, and that it’s always [[Summer|summer]] there, and yet I’m
-sure he grieves when I lie down upon his [[Garden|garden]] bed, and he cannot turn
-to kiss me.  But if you do go, Nell,’ said the boy, caressing her, and
-pressing his face to hers, ‘be fond of him for my sake.  Tell him how I
-[[Love|love]] him still, and how much I loved you; and when I think that you two
-are together, and are happy, I’ll try to bear it, and never give you
-[[Pain|pain]] by doing wrong--indeed I never will!’
-
-The [[Child|child]] suffered him to move her hands, and put them round his neck.
-There was a tearful [[Silence|silence]], but it was not long before she looked upon
-him with a smile, and promised him, in a very gentle, quiet voice, that
-she would stay, and be his friend, as long as Heaven would let her.  He
-clapped his hands for joy, and thanked her many times; and being
-charged to tell no person what had passed between them, gave her an
-earnest promise that he never would.
-
-Nor did he, so far as the [[Child|child]] could learn; but was her quiet
-companion in all her walks and musings, and never again adverted to the
-theme, which he felt had given her [[Pain|pain]], although he was unconscious of
-its cause.  Something of distrust lingered about him still; for he
-would often come, even in the dark evenings, and call in a timid voice
-outside the door to know if she were safe within; and being answered
-yes, and bade to enter, would take his station on a low stool at her
-feet, and sit there patiently until they came to seek, and take him
-[[Home|home]].  Sure as the morning came, it found him lingering near the [[house]]
-to ask if she were [[Well|well]]; and, morning, [[Noon|noon]], or [[Night|night]], go where she
-would, he would forsake his playmates and his sports to bear her
-company.
-
-‘And a good little friend he is, too,’ said the old sexton to her once.
-‘When his elder brother died--elder seems a strange word, for he was
-only seven years old--I remember this one took it sorely to heart.’
-
-The [[Child|child]] thought of what the schoolmaster had told her, and felt how
-its [[Truth|truth]] was shadowed out even in this infant.
-
-‘It has given him something of a quiet way, I think,’ said the old man,
-‘though for that he is merry enough at times.  I’d wager now that you
-and he have been listening by the old [[Well|well]].’
-
-‘Indeed we have not,’ the [[Child|child]] replied.  ‘I have been afraid to go
-near it; for I am not often down in that part of the church, and do not
-know the ground.’
-
-‘Come down with me,’ said the old man.  ‘I have known it from a boy.
-Come!’
-
-They descended the narrow steps which led into the crypt, and paused
-among the gloomy arches, in a dim and murky spot.
-
-‘This is the place,’ said the old man.  ‘Give me your hand while you
-throw back the cover, lest you should stumble and fall in.  I am too
-old--I mean rheumatic--to stoop, myself.’
-
-‘A black and dreadful place!’ exclaimed the [[Child|child]].
-
-‘Look in,’ said the old man, pointing downward with his finger.
-
-The [[Child|child]] complied, and gazed down into the pit.
-
-‘It looks like a [[Grave|grave]] itself,’ said the old man.
-
-‘It does,’ replied the [[Child|child]].
-
-‘I have often had the fancy,’ said the sexton, ‘that it might have been
-dug at first to make the old place more gloomy, and the old [[Monks|monks]] more
-religious.  It’s to be closed up, and built over.’
-
-The [[Child|child]] still stood, looking thoughtfully into the vault.
-
-‘We shall see,’ said the sexton, ‘on what gay heads other earth will
-have closed, when the light is shut out from here.  God knows!  They’ll
-close it up, next [[spring]].’
-
-‘The [[Birds|birds]] sing again in [[spring]],’ thought the [[Child|child]], as she leaned at
-her casement [[Window|window]], and gazed at the declining sun.  ‘[[spring|Spring]]! a
-beautiful and happy [[Time|time]]!’
-
-
-
-
-<span class="atom-split" data-atom="chapter_57" data-title="The Old Curiosity Shop — Chapter 57" data-chapter="Chapter 57" data-kind="chapter"></span>
-
-
-CHAPTER 57
-
-Mr Chuckster’s indignant apprehensions were not without foundation.
-Certainly the [[Friendship|friendship]] between the single gentleman and Mr Garland
-was not suffered to cool, but had a rapid growth and flourished
-exceedingly.  They were soon in habits of constant intercourse and
-communication; and the single gentleman labouring at this [[Time|time]] under a
-slight attack of illness--the consequence most probably of his late
-excited feelings and subsequent disappointment--furnished a reason for
-their holding yet more frequent correspondence; so that some one of the
-inmates of Abel Cottage, Finchley, came backwards and forwards between
-that place and Bevis Marks, almost every day.
-
-As the pony had now thrown off all disguise, and without any mincing of
-the matter or beating about the bush, sturdily refused to be driven by
-anybody but Kit, it generally happened that whether old Mr Garland
-came, or Mr Abel, Kit was of the party.  Of all messages and inquiries,
-Kit was, in right of his position, the bearer; thus it came about that,
-while the single gentleman remained indisposed, Kit turned into Bevis
-Marks every morning with nearly as much regularity as the General
-Postman.
-
-Mr [[Sampson Brass]], who no [[Doubt|doubt]] had his reasons for looking sharply
-about him, soon learnt to distinguish the pony’s trot and the clatter
-of the little chaise at the corner of the street.  Whenever the sound
-reached his ears, he would immediately lay down his pen and fall to
-rubbing his hands and exhibiting the greatest glee.
-
-‘Ha ha!’ he would cry.  ‘Here’s the pony again!  Most remarkable pony,
-extremely docile, eh, Mr [[Richard]], eh sir?’
-
-Dick would return some matter-of-course reply, and Mr Brass standing on
-the [[Bottom|bottom]] rail of his stool, so as to get a view of the street over
-the top of the [[Window|window]]-blind, would take an observation of the visitors.
-
-‘The old gentleman again!’ he would exclaim, ‘a very prepossessing old
-gentleman, Mr [[Richard]]--charming countenance, sir--extremely
-calm--benevolence in every feature, sir.  He quite realises my idea of
-[[King Lear]], as he appeared when in possession of his kingdom, Mr
-[[Richard]]--the same good [[Humour|humour]], the same white hair and partial
-baldness, the same liability to be imposed upon.  Ah!  A sweet subject
-for contemplation, sir, very sweet!’
-
-Then Mr Garland having alighted and gone up-stairs, Sampson would nod
-and smile to Kit from the [[Window|window]], and presently walk out into the
-street to greet him, when some such conversation as the following would
-ensue.
-
-‘Admirably groomed, Kit’--Mr Brass is patting the pony--‘does you great
-credit--amazingly sleek and bright to be sure.  He literally looks as
-if he had been varnished all over.’
-
-Kit touches his hat, smiles, pats the pony himself, and expresses his
-conviction, ‘that Mr Brass will not find many like him.’
-
-‘A beautiful animal indeed!’ cries Brass.  ‘Sagacious too?’
-
-‘Bless you!’ replies Kit, ‘he knows what you say to him as [[Well|well]] as a
-Christian does.’
-
-‘Does he indeed!’ cries Brass, who has heard the same thing in the same
-place from the same person in the same words a dozen times, but is
-paralysed with astonishment notwithstanding.  ‘Dear me!’
-
-‘I little thought the first [[Time|time]] I saw him, Sir,’ says Kit, pleased
-with the attorney’s strong interest in his favourite, ‘that I should
-come to be as intimate with him as I am now.’
-
-‘Ah!’ rejoins Mr Brass, brim-full of moral precepts and [[Love|love]] of virtue.
-‘A charming subject of reflection for you, very charming.  A subject of
-proper [[Pride|pride]] and congratulation, Christopher.  Honesty is the best
-policy.--I always find it so myself.  I lost forty-seven pound ten by
-being honest this morning.  But it’s all gain, it’s gain!’
-
-Mr Brass slyly tickles his nose with his pen, and looks at Kit with the
-[[Water|water]] standing in his eyes.  Kit thinks that if ever there was a good
-man who belied his appearance, that man is [[Sampson Brass]].
-
-‘A man,’ says Sampson, ‘who loses forty-seven pound ten in one morning
-by his honesty, is a man to be envied.  If it had been eighty pound,
-the luxuriousness of feeling would have been increased.  Every pound
-lost, would have been a hundredweight of happiness gained.  The still
-small voice, Christopher,’ cries Brass, smiling, and tapping himself on
-the bosom, ‘is a-singing comic [[songs]] within me, and all is happiness
-and joy!’
-
-Kit is so improved by the conversation, and finds it go so completely
-[[Home|home]] to his feelings, that he is considering what he shall say, when Mr
-Garland appears.  The old gentleman is helped into the chaise with
-great obsequiousness by Mr [[Sampson Brass]]; and the pony, after shaking
-his head several times, and standing for three or four minutes with all
-his four legs planted firmly on the ground, as if he had made up his
-mind never to stir from that spot, but there to live and die, suddenly
-darts off, without the smallest notice, at the rate of twelve English
-miles an hour.  Then, Mr Brass and his sister (who has joined him at
-the door) exchange an odd kind of smile--not at all a pleasant one in
-its expression--and return to the society of Mr [[Richard]] Swiveller,
-who, during their absence, has been regaling himself with various feats
-of pantomime, and is discovered at his desk, in a very flushed and
-heated condition, violently scratching out nothing with half a penknife.
-
-Whenever Kit came [[Alone|alone]], and without the chaise, it always happened
-that [[Sampson Brass]] was reminded of some mission, calling Mr Swiveller,
-if not to Peckham Rye again, at all events to some pretty distant place
-from which he could not be expected to return for two or three hours,
-or in all probability a much longer period, as that gentleman was not,
-to say the [[Truth|truth]], renowned for using great expedition on such
-occasions, but rather for protracting and spinning out the [[Time|time]] to the
-very utmost limit of possibility.  Mr Swiveller out of sight, Miss
-Sally immediately withdrew.  Mr Brass would then set the office-door
-wide open, hum his old tune with great gaiety of heart, and smile
-seraphically as before.  Kit coming down-stairs would be called in;
-entertained with some moral and agreeable conversation; perhaps
-entreated to mind the office for an instant while Mr Brass stepped over
-the way; and afterwards presented with one or two half-crowns as the
-case might be.  This occurred so often, that Kit, nothing doubting but
-that they came from the single gentleman who had already rewarded his
-mother with great liberality, could not enough admire his generosity;
-and bought so many cheap presents for her, and for little Jacob, and
-for the baby, and for Barbara to boot, that one or other of them was
-having some new trifle every day of their lives.
-
-While these acts and deeds were in progress in and out of the office of
-[[Sampson Brass]], [[Richard]] Swiveller, being often left [[Alone|alone]] therein, began
-to find the [[Time|time]] hang heavy on his hands.  For the better preservation
-of his cheerfulness therefore, and to prevent his faculties from
-rusting, he provided himself with a cribbage-board and pack of cards,
-and accustomed himself to play at cribbage with a dummy, for twenty,
-thirty, or sometimes even fifty thousand pounds aside, besides many
-hazardous bets to a considerable amount.
-
-As these games were very silently conducted, notwithstanding the
-magnitude of the interests involved, Mr Swiveller began to think that
-on those evenings when Mr and Miss Brass were out (and they often went
-out now) he heard a kind of snorting or hard-breathing sound in the
-direction of the door, which it occurred to him, after some reflection,
-must proceed from the small servant, who always had a cold from damp
-living.  Looking intently that way one [[Night|night]], he plainly distinguished
-an eye gleaming and glistening at the keyhole; and having now no [[Doubt|doubt]]
-that his suspicions were correct, he stole softly to the door, and
-pounced upon her before she was aware of his approach.
-
-‘Oh! I didn’t mean any harm indeed, upon my word I didn’t,’ cried the
-small servant, struggling like a much larger one.  ‘It’s so very dull,
-down-stairs, Please don’t you tell upon me, please don’t.’
-
-‘Tell upon you!’ said Dick.  ‘Do you mean to say you were looking
-through the keyhole for company?’
-
-‘Yes, upon my word I was,’ replied the small servant.
-
-‘How long have you been cooling your eye there?’ said Dick.
-
-‘Oh ever since you first began to play them cards, and long before.’
-
-Vague recollections of several fantastic exercises with which he had
-refreshed himself after the fatigues of business, and to all of which,
-no [[Doubt|doubt]], the small servant was a party, rather disconcerted Mr
-Swiveller; but he was not very sensitive on such points, and recovered
-himself speedily.
-
-‘[[Well]]--come in’--he said, after a little consideration.  ‘Here--sit
-down, and I’ll teach you how to play.’
-
-‘Oh! I durstn’t do it,’ rejoined the small servant; ‘Miss Sally ‘ud
-kill me, if she know’d I come up here.’
-
-‘Have you got a [[Fire|fire]] down-stairs?’ said Dick.
-
-‘A very little one,’ replied the small servant.
-
-‘Miss Sally couldn’t kill me if she know’d I went down there, so I’ll
-come,’ said [[Richard]], putting the cards into his pocket.  ‘Why, how thin
-you are!  What do you mean by it?’
-
-‘It ain’t my fault.’
-
-‘Could you eat any bread and meat?’ said Dick, taking down his hat.
-‘Yes?  Ah! I thought so.  Did you ever taste beer?’
-
-‘I had a sip of it once,’ said the small servant.
-
-‘Here’s a state of things!’ cried Mr Swiveller, raising his eyes to the
-ceiling.  ‘She never tasted it--it can’t be tasted in a sip!  Why, how
-old are you?’
-
-‘I don’t know.’
-
-Mr Swiveller opened his eyes very wide, and appeared thoughtful for a
-moment; then, bidding the [[Child|child]] mind the door until he came back,
-vanished straightway.
-
-Presently, he returned, followed by the boy from the public-[[house]], who
-bore in one hand a plate of bread and beef, and in the other a great
-pot, filled with some very fragrant compound, which sent forth a
-grateful steam, and was indeed choice purl, made after a particular
-recipe which Mr Swiveller had imparted to the landlord, at a period
-when he was deep in his books and desirous to conciliate his
-[[Friendship|friendship]].  Relieving the boy of his burden at the door, and charging
-his little companion to fasten it to prevent surprise, Mr Swiveller
-followed her into the kitchen.
-
-‘There!’ said [[Richard]], putting the plate before her.  ‘First of all
-clear that off, and then you’ll see what’s next.’
-
-The small servant needed no second bidding, and the plate was soon
-empty.
-
-‘Next,’ said Dick, handing the purl, ‘take a pull at that; but moderate
-your transports, you know, for you’re not used to it.  [[Well]], is it
-good?’
-
-‘Oh! isn’t it?’ said the small servant.
-
-Mr Swiveller appeared gratified beyond all expression by this reply,
-and took a long draught himself, steadfastly regarding his companion
-while he did so.  These preliminaries disposed of, he applied himself
-to teaching her the game, which she soon learnt tolerably [[Well|well]], being
-both sharp-witted and cunning.
-
-‘Now,’ said Mr Swiveller, putting two sixpences into a saucer, and
-trimming the wretched candle, when the cards had been cut and dealt,
-‘those are the stakes.  If you win, you get ‘em all.  If I win, I get
-‘em.  To make it seem more real and pleasant, I shall call you the
-[[Marchioness]], do you hear?’
-
-The small servant nodded.
-
-‘Then, [[Marchioness]],’ said Mr Swiveller, ‘[[Fire|fire]] away!’
-
-The [[Marchioness]], holding her cards very tight in both hands, considered
-which to play, and Mr Swiveller, assuming the gay and fashionable air
-which such society required, took another pull at the tankard, and
-waited for her lead.
-
-
-
-
-<span class="atom-split" data-atom="chapter_65" data-title="The Old Curiosity Shop — Chapter 65" data-chapter="Chapter 65" data-kind="chapter"></span>
-
-
-CHAPTER 65
-
-It was [[Well|well]] for the small servant that she was of a sharp, quick
-[[Nature|nature]], or the consequence of sending her out [[Alone|alone]], from the very
-neighbourhood in which it was most dangerous for her to appear, would
-probably have been the restoration of Miss [[Sally Brass]] to the supreme
-authority over her person.  Not unmindful of the risk she ran, however,
-the [[Marchioness]] no sooner left the [[house]] than she dived into the first
-dark by-way that presented itself, and, without any present reference
-to the point to which her [[Journey|journey]] tended, made it her first business to
-put two good miles of brick and mortar between herself and Bevis Marks.
-
-When she had accomplished this object, she began to shape her course
-for the notary’s office, to which--shrewdly inquiring of apple-women
-and oyster-sellers at street-corners, rather than in lighted shops or
-of [[Well|well]]-dressed people, at the hazard of attracting notice--she easily
-procured a direction.  As carrier-pigeons, on being first let loose in
-a strange place, beat the air at random for a short [[Time|time]] before darting
-off towards the spot for which they are designed, so did the
-[[Marchioness]] flutter round and round until she believed herself in
-safety, and then bear swiftly down upon the port for which she was
-bound.
-
-She had no bonnet--nothing on her head but a great cap which, in some
-old [[Time|time]], had been worn by [[Sally Brass]], whose taste in head-dresses
-was, as we have seen, peculiar--and her [[Speed|speed]] was rather retarded than
-assisted by her shoes, which, being extremely large and slipshod, flew
-off every now and then, and were difficult to find again, among the
-crowd of passengers.  Indeed, the poor little creature experienced so
-much trouble and delay from having to grope for these articles of dress
-in mud and kennel, and suffered in these researches so much jostling,
-pushing, squeezing and bandying from hand to hand, that by the [[Time|time]] she
-reached the street in which the notary lived, she was fairly worn out
-and exhausted, and could not refrain from [[Tears|tears]].
-
-But to have got there at last was a great comfort, especially as there
-were lights still burning in the office [[Window|window]], and therefore some [[Hope|hope]]
-that she was not too late.  So the [[Marchioness]] dried her eyes with the
-backs of her hands, and, stealing softly up the steps, peeped in
-through the glass door.
-
-Mr Chuckster was standing behind the lid of his desk, making such
-preparations towards finishing off for the [[Night|night]], as pulling down his
-wristbands and pulling up his shirt-collar, settling his neck more
-gracefully in his stock, and secretly arranging his whiskers by the aid
-of a little triangular bit of looking glass.  Before the ashes of the
-[[Fire|fire]] stood two gentlemen, one of whom she rightly judged to be the
-notary, and the other (who was buttoning his great-coat and was
-evidently about to depart immediately) Mr Abel Garland.
-
-Having made these observations, the small spy took counsel with
-herself, and resolved to wait in the street until Mr Abel came out, as
-there would be then no [[Fear|fear]] of having to speak before Mr Chuckster, and
-less difficulty in delivering her message.  With this purpose she
-slipped out again, and crossing the [[Road|road]], sat down upon a door-step
-just opposite.
-
-She had hardly taken this position, when there came dancing up the
-street, with his legs all wrong, and his head everywhere by turns, a
-pony.  This pony had a little phaeton behind him, and a man in it; but
-neither man nor phaeton seemed to embarrass him in the least, as he
-reared up on his hind legs, or stopped, or went on, or stood still
-again, or backed, or went side-ways, without the smallest reference to
-them--just as the fancy seized him, and as if he were the freest animal
-in creation.  When they came to the notary’s door, the man called out
-in a very respectful manner, ‘Woa then’--intimating that if he might
-venture to express a wish, it would be that they stopped there.  The
-pony made a moment’s pause; but, as if it occurred to him that to stop
-when he was required might be to establish an inconvenient and
-dangerous precedent, he immediately started off again, rattled at a
-fast trot to the street corner, wheeled round, came back, and then
-stopped of his own accord.
-
-‘Oh! you’re a precious creatur!’ said the man--who didn’t venture by
-the bye to come out in his true colours until he was safe on the
-pavement.  ‘I wish I had the rewarding of you--I do.’
-
-‘What has he been doing?’ said Mr Abel, tying a shawl round his neck as
-he came down the steps.
-
-‘He’s enough to fret a man’s heart out,’ replied the hostler.  ‘He is
-the most wicious rascal--Woa then, will you?’
-
-‘He’ll never stand still, if you call him names,’ said Mr Abel, getting
-in, and taking the reins.  ‘He’s a very good fellow if you know how to
-manage him.  This is the first [[Time|time]] he has been out, this long while,
-for he has lost his old driver and wouldn’t stir for anybody else, till
-this morning.  The lamps are right, are they?  That’s [[Well|well]].  Be here to
-take him to-morrow, if you please.  Good [[Night|night]]!’
-
-And, after one or two strange plunges, quite of his own invention, the
-pony yielded to Mr Abel’s mildness, and trotted gently off.
-
-All this [[Time|time]] Mr Chuckster had been standing at the door, and the small
-servant had been afraid to approach.  She had nothing for it now,
-therefore, but to run after the chaise, and to call to Mr Abel to stop.
-Being out of breath when she came up with it, she was unable to make
-him hear.  The case was desperate; for the pony was quickening his
-pace.  The [[Marchioness]] hung on behind for a few moments, and, feeling
-that she could go no farther, and must soon yield, clambered by a
-vigorous effort into the hinder seat, and in so doing lost one of the
-shoes for ever.
-
-Mr Abel being in a thoughtful frame of mind, and having quite enough to
-do to keep the pony going, went jogging on without looking round:
-little dreaming of the strange figure that was close behind him, until
-the [[Marchioness]], having in some degree recovered her breath, and the
-loss of her shoe, and the novelty of her position, uttered close into
-his ear, the words--‘I say, Sir’--
-
-He turned his head quickly enough then, and stopping the pony, cried,
-with some trepidation, ‘God bless me, what is this!’
-
-‘Don’t be frightened, Sir,’ replied the still panting messenger.  ‘Oh
-I’ve run such a way after you!’
-
-‘What do you want with me?’ said Mr Abel.  ‘How did you come here?’
-
-‘I got in behind,’ replied the [[Marchioness]].  ‘Oh please drive on,
-sir--don’t stop--and go towards the [[City]], will you?  And oh do please
-make haste, because it’s of consequence.  There’s somebody wants to see
-you there.  He sent me to say would you come directly, and that he
-knowed all about Kit, and could save him yet, and prove his [[innocence]].’
-
-‘What do you tell me, [[Child|child]]?’
-
-‘The [[Truth|truth]], upon my word and [[Honour|honour]] I do.  But please to drive on--
-quick, please!  I’ve been such a [[Time|time]] gone, he’ll think I’m lost.’
-
-Mr Abel involuntarily urged the pony forward.  The pony, impelled by
-some secret sympathy or some new caprice, burst into a great pace, and
-neither slackened it, nor indulged in any eccentric performances, until
-they arrived at the door of Mr Swiveller’s lodging, where, marvellous
-to relate, he consented to stop when Mr Abel checked him.
-
-‘See!  It’s the room up there,’ said the [[Marchioness]], pointing to one
-where there was a faint light.  ‘Come!’
-
-Mr Abel, who was one of the simplest and most retiring creatures in
-existence, and naturally timid withal, hesitated; for he had heard of
-people being decoyed into strange places to be robbed and murdered,
-under circumstances very like the present, and, for anything he knew to
-the contrary, by guides very like the [[Marchioness]].  His regard for Kit,
-however, overcame every other consideration.  So, entrusting Whisker to
-the charge of a man who was lingering hard by in expectation of the
-job, he suffered his companion to take his hand, and to lead him up the
-dark and narrow stairs.
-
-He was not a little surprised to find himself conducted into a
-dimly-lighted sick chamber, where a man was sleeping tranquilly in bed.
-
-‘An’t it nice to see him lying there so quiet?’ said his guide, in an
-earnest whisper.  ‘Oh! you’d say it was, if you had only seen him two
-or three days ago.’
-
-Mr Abel made no answer, and, to say the [[Truth|truth]], kept a long way from the
-bed and very near the door.  His guide, who appeared to understand his
-reluctance, trimmed the candle, and taking it in her hand, approached
-the bed.  As she did so, [[The Sleeper|the sleeper]] started up, and he recognised in
-the wasted face the features of [[Richard]] Swiveller.
-
-‘Why, how is this?’ said Mr Abel kindly, as he hurried towards him.
-‘You have been ill?’
-
-‘Very,’ replied Dick.  ‘Nearly dead.  You might have chanced to hear of
-your [[Richard]] on his bier, but for the friend I sent to fetch you.
-Another shake of the hand, [[Marchioness]], if you please.  Sit down, Sir.’
-
-Mr Abel seemed rather astonished to hear of the quality of his guide,
-and took a chair by the bedside.
-
-‘I have sent for you, Sir,’ said Dick--‘but she told you on what
-account?’
-
-‘She did.  I am quite bewildered by all this.  I really don’t know what
-to say or think,’ replied Mr Abel.
-
-‘You’ll say that presently,’ retorted Dick.  ‘[[Marchioness]], take a seat
-on the bed, will you?  Now, tell this gentleman all that you told me;
-and be particular.  Don’t you speak another word, Sir.’
-
-The story was repeated; it was, in effect, exactly the same as before,
-without any deviation or omission.  [[Richard]] Swiveller kept his eyes
-fixed on his visitor during its narration, and directly it was
-concluded, took the word again.
-
-‘You have heard it all, and you’ll not forget it.  I’m too giddy and
-too queer to suggest anything; but you and your friends will know what
-to do.  After this long delay, every minute is an age.  If ever you
-went [[Home|home]] fast in your life, go [[Home|home]] fast to-[[Night|night]].  Don’t stop to say
-one word to me, but go.  She will be found here, whenever she’s wanted;
-and as to me, you’re pretty sure to find me at [[Home|home]], for a week or two.
-There are more reasons than one for that.  [[Marchioness]], a light!  If
-you lose another minute in looking at me, sir, I’ll never forgive you!’
-
-Mr Abel needed no more remonstrance or [[Persuasion|persuasion]].  He was gone in an
-instant; and the [[Marchioness]], returning from lighting him down-stairs,
-reported that the pony, without any preliminary objection whatever, had
-dashed away at full gallop.
-
-‘That’s right!’ said Dick; ‘and hearty of him; and I [[Honour|honour]] him from
-this [[Time|time]].  But get some supper and a mug of beer, for I am sure you
-must be tired.  Do have a mug of beer.  It will do me as much good to
-see you take it as if I might drink it myself.’
-
-Nothing but this assurance could have prevailed upon the small [[Nurse|nurse]] to
-indulge in such a luxury.  Having eaten and drunk to Mr Swiveller’s
-extreme contentment, given him his drink, and put everything in neat
-order, she wrapped herself in an old coverlet and lay down upon the rug
-before the [[Fire|fire]].
-
-Mr Swiveller was by that [[Time|time]] murmuring in his [[Sleep|sleep]], ‘Strew then, oh
-strew, a bed of rushes.  Here will we stay, till morning blushes.  Good
-[[Night|night]], [[Marchioness]]!’
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="The Old Curiosity Shop — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -31700,6 +30366,229 @@ for breaking in upon its sanctity, and creeping under the brow of the
 
 
 
+<span class="atom-split" data-atom="chapter_20" data-title="The Old Curiosity Shop — Chapter 20" data-chapter="Chapter 20" data-kind="chapter"></span>
+
+
+CHAPTER 20
+
+Day after day as he bent his steps homeward, returning from some new
+effort to procure employment, Kit raised his eyes to the [[Window|window]] of the
+little room he had so much commended to the [[Child|child]], and hoped to see
+some indication of her presence.  His own earnest wish, coupled with
+the assurance he had received from Quilp, filled him with the belief
+that she would yet arrive to claim the humble shelter he had offered,
+and from the [[Death|death]] of each day’s [[Hope|hope]] another [[Hope|hope]] sprung up to live
+to-morrow.
+
+‘I think they must certainly come to-morrow, eh mother?’ said Kit,
+laying aside his hat with a weary air and sighing as he spoke.  ‘They
+have been gone a week.  They surely couldn’t stop away more than a
+week, could they now?’
+
+The mother shook her head, and reminded him how often he had been
+disappointed already.
+
+‘For the matter of that,’ said Kit, ‘you speak true and sensible
+enough, as you always do, mother.  Still, I do consider that a week is
+quite long enough for ‘em to be rambling about; don’t you say so?’
+
+‘Quite long enough, Kit, longer than enough, but they may not come back
+for all that.’
+
+Kit was for a moment disposed to be vexed by this contradiction, and
+not the less so from having anticipated it in his own mind and knowing
+how just it was.  But the impulse was only momentary, and the vexed
+look became a kind one before it had crossed the room.
+
+‘Then what do you think, mother, has become of ‘em?  You don’t think
+they’ve gone to sea, anyhow?’
+
+‘Not gone for sailors, certainly,’ returned the mother with a smile.
+‘But I can’t help thinking that they have gone to some foreign country.’
+
+‘I say,’ cried Kit with a rueful face, ‘don’t talk like that, mother.’
+
+‘I am afraid they have, and that’s the [[Truth|truth]],’ she said.  ‘It’s the
+talk of all the neighbours, and there are some even that know of their
+having been seen on board [[Ship|ship]], and can tell you the name of the place
+they’ve gone to, which is more than I can, my dear, for it’s a very
+hard one.’
+
+‘I don’t believe it,’ said Kit.  ‘Not a word of it.  A set of idle
+chatterboxes, how should they know!’
+
+‘They may be wrong of course,’ returned the mother, ‘I can’t tell about
+that, though I don’t think it’s at all unlikely that they’re in the
+right, for the talk is that the old gentleman had put by a little money
+that nobody knew of, not even that ugly little man you talk to me
+about--what’s his name--Quilp; and that he and Miss Nell have gone to
+live abroad where it can’t be taken from them, and they will never be
+disturbed.  That don’t seem very far out of the way now, do it?’
+
+Kit scratched his head mournfully, in reluctant admission that it did
+not, and clambering up to the old nail took down the cage and set
+himself to clean it and to feed the bird.  His thoughts reverting from
+this occupation to the little old gentleman who had given him the
+shilling, he suddenly recollected that that was the very day--nay,
+nearly the very hour--at which the little old gentleman had said he
+should be at the Notary’s [[house]] again.  He no sooner remembered this,
+than he hung up the cage with great precipitation, and hastily
+explaining the [[Nature|nature]] of his errand, went off at full [[Speed|speed]] to the
+appointed place.
+
+It was some two minutes after the [[Time|time]] when he reached the spot, which
+was a considerable distance from his [[Home|home]], but by great good luck the
+little old gentleman had not yet arrived; at least there was no
+pony-chaise to be seen, and it was not likely that he had come and gone
+again in so short a space.  Greatly relieved to find that he was not
+too late, Kit leant against a lamp-post to take breath, and waited the
+advent of the pony and his charge.
+
+Sure enough, before long the pony came trotting round the corner of the
+street, looking as obstinate as pony might, and picking his steps as if
+he were spying about for the cleanest places, and would by no means
+dirty his feet or hurry himself inconveniently.  Behind the pony sat
+the little old gentleman, and by the old gentleman’s side sat the
+little old lady, carrying just such a nosegay as she had brought before.
+
+The old gentleman, the old lady, the pony, and the chaise, came up the
+street in perfect unanimity, until they arrived within some half a
+dozen doors of the Notary’s [[house]], when the pony, deceived by a
+brass-plate beneath a tailor’s knocker, came to a halt, and maintained
+by a sturdy [[Silence|silence]], that that was the [[house]] they wanted.
+
+‘Now, Sir, will you ha’ the goodness to go on; this is not the place,’
+said the old gentleman.
+
+The pony looked with great attention into a [[Fire|fire]]-plug which was near
+him, and appeared to be quite absorbed in contemplating it.
+
+‘Oh dear, such a naughty Whisker!’ cried the old lady.  ‘After being so
+good too, and coming along so [[Well|well]]!  I am quite ashamed of him.  I
+don’t know what we are to do with him, I really don’t.’
+
+The pony having thoroughly satisfied himself as to the [[Nature|nature]] and
+properties of the [[Fire|fire]]-plug, looked into the air after his old enemies
+the flies, and as there happened to be one of them tickling his ear at
+that moment he shook his head and whisked his tail, after which he
+appeared full of thought but quite comfortable and collected.  The old
+gentleman having exhausted his powers of [[Persuasion|persuasion]], alighted to lead
+him; whereupon the pony, perhaps because he held this to be a
+sufficient concession, perhaps because he happened to catch sight of
+the other brass-plate, or perhaps because he was in a spiteful [[Humour|humour]],
+darted off with the old lady and stopped at the right [[house]], leaving
+the old gentleman to come panting on behind.
+
+It was then that Kit presented himself at the pony’s head, and touched
+his hat with a smile.
+
+‘Why, bless me,’ cried the old gentleman, ‘the lad is here!  My dear,
+do you see?’
+
+‘I said I’d be here, Sir,’ said Kit, patting Whisker’s neck.  ‘I [[Hope|hope]]
+you’ve had a pleasant ride, sir.  He’s a very nice little pony.’
+
+‘My dear,’ said the old gentleman.  ‘This is an uncommon lad; a good
+lad, I’m sure.’
+
+‘I’m sure he is,’ rejoined the old lady.  ‘A very good lad, and I am
+sure he is a good son.’
+
+Kit acknowledged these expressions of confidence by touching his hat
+again and blushing very much.  The old gentleman then handed the old
+lady out, and after looking at him with an approving smile, they went
+into the [[house]]--talking about him as they went, Kit could not help
+feeling.  Presently Mr Witherden, smelling very hard at the nosegay,
+came to the [[Window|window]] and looked at him, and after that Mr Abel came and
+looked at him, and after that the old gentleman and lady came and
+looked at him again, and after that they all came and looked at him
+together, which Kit, feeling very much embarrassed by, made a pretence
+of not observing.  Therefore he patted the pony more and more; and this
+liberty the pony most handsomely permitted.
+
+The faces had not disappeared from the [[Window|window]] many moments, when Mr
+Chuckster in his official coat, and with his hat hanging on his head
+just as it happened to fall from its peg, appeared upon the pavement,
+and telling him he was wanted inside, bade him go in and he would mind
+the chaise the while.  In giving him this direction Mr Chuckster
+remarked that he wished that he might be blessed if he could make out
+whether he (Kit) was ‘precious raw’ or ‘precious deep,’ but intimated
+by a distrustful shake of the head, that he inclined to the latter
+opinion.
+
+Kit entered the office in a great tremor, for he was not used to going
+among strange ladies and gentlemen, and the tin boxes and bundles of
+dusty papers had in his eyes an awful and venerable air.  Mr Witherden
+too was a bustling gentleman who talked loud and fast, and all eyes
+were upon him, and he was very shabby.
+
+‘[[Well]], boy,’ said Mr Witherden, ‘you came to work out that
+shilling;--not to get another, hey?’
+
+‘No indeed, sir,’ replied Kit, taking [[Courage|courage]] to look up.  ‘I never
+thought of such a thing.’
+
+‘Father alive?’ said the Notary.
+
+‘Dead, sir.’
+
+‘Mother?’
+
+‘Yes, sir.’
+
+‘Married again--eh?’
+
+Kit made answer, not without some indignation, that she was a widow
+with three children, and that as to her marrying again, if the
+gentleman knew her he wouldn’t think of such a thing.  At this reply Mr
+Witherden buried his nose in the [[Flowers|flowers]] again, and whispered behind
+the nosegay to the old gentleman that he believed the lad was as honest
+a lad as need be.
+
+‘Now,’ said Mr Garland when they had made some further inquiries of
+him, ‘I am not going to give you anything--’
+
+‘Thank you, sir,’ Kit replied; and quite seriously too, for this
+announcement seemed to free him from the suspicion which the Notary had
+hinted.
+
+‘--But,’ resumed the old gentleman, ‘perhaps I may want to know
+something more about you, so tell me where you live, and I’ll put it
+down in my pocket-book.’
+
+Kit told him, and the old gentleman wrote down the address with his
+pencil.  He had scarcely done so, when there was a great uproar in the
+street, and the old lady hurrying to the [[Window|window]] cried that Whisker had
+run away, upon which Kit darted out to the rescue, and the others
+followed.
+
+It seemed that Mr Chuckster had been standing with his hands in his
+pockets looking carelessly at the pony, and occasionally insulting him
+with such admonitions as ‘Stand still,’--‘Be quiet,’--‘Woa-a-a,’ and the
+like, which by a pony of spirit cannot be borne.  Consequently, the
+pony being deterred by no considerations of duty or obedience, and not
+having before him the slightest [[Fear|fear]] of the human eye, had at length
+started off, and was at that moment rattling down the street--Mr
+Chuckster, with his hat off and a pen behind his ear, hanging on in the
+rear of the chaise and making futile attempts to draw it the other way,
+to the unspeakable admiration of all beholders.  Even in running away,
+however, Whisker was perverse, for he had not gone very far when he
+suddenly stopped, and before assistance could be rendered, commenced
+backing at nearly as quick a pace as he had gone forward.  By these
+means Mr Chuckster was pushed and hustled to the office again, in a
+most inglorious manner, and arrived in a state of great exhaustion and
+discomfiture.
+
+The old lady then stepped into her seat, and Mr Abel (whom they had
+come to fetch) into his.  The old gentleman, after reasoning with the
+pony on the extreme impropriety of his conduct, and making the best
+amends in his power to Mr Chuckster, took his place also, and they
+drove away, waving a farewell to the Notary and his clerk, and more
+than once turning to nod kindly to Kit as he watched them from the [[Road|road]].
+
+
+
+
 <span class="atom-split" data-atom="chapter_21--part_01" data-title="The Old Curiosity Shop — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
 
 
@@ -32081,6 +30970,213 @@ driving the dog quite wild.  Having by this means composed his spirits
 and put himself in a pleasant train, he returned to his unsuspicious
 companion, whom he found looking at the tide with exceeding gravity,
 and thinking of that same gold and silver which Mr Quilp had mentioned.
+
+
+
+
+<span class="atom-split" data-atom="chapter_22" data-title="The Old Curiosity Shop — Chapter 22" data-chapter="Chapter 22" data-kind="chapter"></span>
+
+
+CHAPTER 22
+
+The remainder of that day and the whole of the next were a busy [[Time|time]]
+for the Nubbles family, to whom everything connected with Kit’s outfit
+and departure was matter of as great moment as if he had been about to
+penetrate into the interior of Africa, or to take a cruise round the
+world.  It would be difficult to suppose that there ever was a box
+which was opened and shut so many times within four-and-twenty hours,
+as that which contained his wardrobe and necessaries; and certainly
+there never was one which to two small eyes presented such a mine of
+clothing, as this mighty chest with its three shirts and proportionate
+allowance of stockings and pocket-handkerchiefs, disclosed to the
+astonished vision of little Jacob.  At last it was conveyed to the
+carrier’s, at whose [[house]] at Finchley Kit was to find it next day; and
+the box being gone, there remained but two questions for consideration:
+firstly, whether the carrier would lose, or dishonestly feign to lose,
+the box upon the [[Road|road]]; secondly, whether Kit’s mother perfectly
+understood how to take care of herself in the absence of her son.
+
+‘I don’t think there’s hardly a chance of his really losing it, but
+carriers are under great [[Temptation|temptation]] to pretend they lose things, no
+[[Doubt|doubt]],’ said Mrs Nubbles apprehensively, in reference to the first
+point.
+
+‘No [[Doubt|doubt]] about it,’ returned Kit, with a serious look; ‘upon my word,
+mother, I don’t think it was right to trust it to itself.  Somebody
+ought to have gone with it, I’m afraid.’
+
+‘We can’t help it now,’ said his mother; ‘but it was foolish and wrong.
+People oughtn’t to be tempted.’
+
+Kit inwardly resolved that he would never tempt a carrier any more,
+save with an empty box; and having formed this Christian determination,
+he turned his thoughts to the second question.
+
+‘_You_ know you must keep up your spirits, mother, and not be lonesome
+because I’m not at [[Home|home]].  I shall very often be able to look in when I
+come into town I dare say, and I shall send you a letter sometimes, and
+when the quarter comes round, I can get a holiday of course; and then
+see if we don’t take little Jacob to the play, and let him know what
+oysters means.’
+
+‘I [[Hope|hope]] plays mayn’t be sinful, Kit, but I’m a’most afraid,’ said Mrs
+Nubbles.
+
+‘I know who has been putting that in your head,’ rejoined her son
+disconsolately; ‘that’s Little Bethel again.  Now I say, mother, pray
+don’t take to going there regularly, for if I was to see your
+good-humoured face that has always made [[Home|home]] cheerful, turned into a
+grievous one, and the baby trained to look grievous too, and to call
+itself a young sinner (bless its heart) and a [[Child|child]] of the devil (which
+is calling its dead father names); if I was to see this, and see little
+Jacob looking grievous likewise, I should so take it to heart that I’m
+sure I should go and list for a soldier, and run my head on purpose
+against the first cannon-ball I saw coming my way.’
+
+‘Oh, Kit, don’t talk like that.’
+
+‘I would, indeed, mother, and unless you want to make me feel very
+wretched and uncomfortable, you’ll keep that bow on your bonnet, which
+you’d more than half a mind to pull off last week.  Can you suppose
+there’s any harm in looking as cheerful and being as cheerful as our
+poor circumstances will permit?  Do I see anything in the way I’m made,
+which calls upon me to be a snivelling, solemn, whispering chap,
+sneaking about as if I couldn’t help it, and expressing myself in a
+most unpleasant snuffle?  on the contrary, don’t I see every reason why
+I shouldn’t?  just hear this!  Ha ha ha!  An’t that as nat’ral as
+walking, and as good for the health?  Ha ha ha!  An’t that as nat’ral
+as a sheep’s bleating, or a pig’s grunting, or a [[Horse|horse]]’s neighing, or a
+bird’s singing?  Ha ha ha!  Isn’t it, mother?’
+
+There was something contagious in Kit’s laugh, for his mother, who had
+looked [[Grave|grave]] before, first subsided into a smile, and then fell to
+joining in it heartily, which occasioned Kit to say that he knew it was
+natural, and to laugh the more.  Kit and his mother, laughing together
+in a pretty loud key, woke the baby, who, finding that there was
+something very jovial and agreeable in progress, was no sooner in its
+mother’s arms than it began to kick and laugh, most vigorously.  This
+new illustration of his argument so tickled Kit, that he fell backward
+in his chair in a state of exhaustion, pointing at the baby and shaking
+his sides till he rocked again.  After recovering twice or thrice, and
+as often relapsing, he wiped his eyes and said grace; and a very
+cheerful meal their scanty supper was.
+
+With more kisses, and hugs, and [[Tears|tears]], than many young gentlemen who
+start upon their travels, and leave [[Well|well]]-stocked homes behind them,
+would deem within the bounds of probability (if matter so low could be
+herein set down), Kit left the [[house]] at an early hour next morning, and
+set out to walk to Finchley; feeling a sufficient [[Pride|pride]] in his
+appearance to have warranted his excommunication from Little Bethel
+from that [[Time|time]] forth, if he had ever been one of that mournful
+congregation.
+
+Lest anybody should feel a curiosity to know how Kit was clad, it may
+be briefly remarked that he wore no livery, but was dressed in a coat
+of pepper-and-salt with waistcoat of canary colour, and nether garments
+of iron-grey; besides these glories, he shone in the lustre of a new
+pair of boots and an extremely stiff and shiny hat, which on being
+struck anywhere with the knuckles, sounded like a drum.  And in this
+attire, rather wondering that he attracted so little attention, and
+attributing the circumstance to the insensibility of those who got up
+early, he made his way towards Abel Cottage.
+
+Without encountering any more remarkable adventure on the [[Road|road]], than
+meeting a lad in a brimless hat, the exact counterpart of his old one,
+on whom he bestowed half the sixpence he possessed, Kit arrived in
+course of [[Time|time]] at the carrier’s [[house]], where, to the lasting [[Honour|honour]] of
+human [[Nature|nature]], he found the box in safety.  Receiving from the wife of
+this immaculate man, a direction to Mr Garland’s, he took the box upon
+his shoulder and repaired thither directly.
+
+To be sure, it was a beautiful little cottage with a thatched roof and
+little spires at the gable-ends, and pieces of stained glass in some of
+the windows, almost as large as pocket-books.  On one side of the [[house]]
+was a little stable, just the size for the pony, with a little room
+over it, just the size for Kit.  White curtains were fluttering, and
+[[Birds|birds]] in cages that looked as bright as if they were made of gold, were
+singing at the windows; plants were arranged on either side of the
+path, and clustered about the door; and the [[Garden|garden]] was bright with
+[[Flowers|flowers]] in full bloom, which shed a sweet odour all round, and had a
+charming and elegant appearance.  Everything within the [[house]] and
+without, seemed to be the perfection of neatness and order.  In the
+[[Garden|garden]] there was not a weed to be seen, and to judge from some dapper
+gardening-tools, a basket, and a pair of gloves which were lying in one
+of the walks, old Mr Garland had been at work in it that very morning.
+
+Kit looked about him, and admired, and looked again, and this a great
+many times before he could make up his mind to turn his head another
+way and ring the bell.  There was abundance of [[Time|time]] to look about him
+again though, when he had rung it, for nobody came, so after ringing it
+twice or thrice he sat down upon his box, and waited.
+
+He rang the bell a great many times, and yet nobody came.  But at last,
+as he was sitting upon the box thinking about giants’ castles, and
+princesses tied up to pegs by the hair of their heads, and dragons
+bursting out from behind gates, and other incidents of the like [[Nature|nature]],
+common in story-books to youths of low degree on their first visit to
+strange houses, the door was gently opened, and a little servant-girl,
+very tidy, modest, and demure, but very pretty too, appeared.
+
+‘I suppose you’re Christopher, sir,’ said the servant-girl.
+
+Kit got off the box, and said yes, he was.
+
+‘I’m afraid you’ve rung a good many times perhaps,’ she rejoined, ‘but
+we couldn’t hear you, because we’ve been catching the pony.’
+
+Kit rather wondered what this meant, but as he couldn’t stop there,
+asking questions, he shouldered the box again and followed the girl
+into the hall, where through a back-door he descried Mr Garland leading
+Whisker in triumph up the [[Garden|garden]], after that [[Self|self]]-willed pony had (as
+he afterwards learned) dodged the family round a small paddock in the
+rear, for one hour and three quarters.
+
+The old gentleman received him very kindly and so did the old lady,
+whose previous good opinion of him was greatly enhanced by his wiping
+his boots on the mat until the soles of his feet burnt again.  He was
+then taken into the parlour to be inspected in his new clothes; and
+when he had been surveyed several times, and had afforded by his
+appearance unlimited satisfaction, he was taken into the stable (where
+the pony received him with uncommon complaisance); and thence into the
+little chamber he had already observed, which was very clean and
+comfortable: and thence into the [[Garden|garden]], in which the old gentleman
+told him he would be taught to employ himself, and where he told him,
+besides, what great things he meant to do to make him comfortable, and
+happy, if he found he deserved it.  All these kindnesses, Kit
+acknowledged with various expressions of gratitude, and so many touches
+of the new hat, that the brim suffered considerably.  When the old
+gentleman had said all he had to say in the way of promise and advice,
+and Kit had said all he had to say in the way of assurance and
+thankfulness, he was handed over again to the old lady, who, summoning
+the little servant-girl (whose name was Barbara) instructed her to take
+him down stairs and give him something to eat and drink, after his walk.
+
+Down stairs, therefore, Kit went; and at the [[Bottom|bottom]] of the stairs there
+was such a kitchen as was never before seen or heard of out of a
+toy-shop [[Window|window]], with everything in it as bright and glowing, and as
+precisely ordered too, as Barbara herself.  And in this kitchen, Kit
+sat himself down at a table as white as a tablecloth, to eat cold meat,
+and drink small ale, and use his knife and fork the more awkwardly,
+because there was an unknown Barbara looking on and observing him.
+
+It did not appear, however, that there was anything remarkably
+tremendous about this strange Barbara, who having lived a very quiet
+life, blushed very much and was quite as embarrassed and uncertain what
+she ought to say or do, as Kit could possibly be.  When he had sat for
+some little [[Time|time]], attentive to the ticking of the sober [[Clock|clock]], he
+ventured to glance curiously at the dresser, and there, among the
+plates and dishes, were Barbara’s little work-box with a sliding lid to
+shut in the balls of cotton, and Barbara’s [[prayer]]-book, and Barbara’s
+[[Hymn|hymn]]-book, and Barbara’s [[Bible]].  Barbara’s little looking-glass hung in
+a good light near the [[Window|window]], and Barbara’s bonnet was on a nail behind
+the door.  From all these mute signs and tokens of her presence, he
+naturally glanced at Barbara herself, who sat as mute as they, shelling
+peas into a dish; and just when Kit was looking at her eyelashes and
+wondering--quite in the simplicity of his heart--what colour her eyes
+might be, it perversely happened that Barbara raised her head a little
+to look at him, when both pair of eyes were hastily withdrawn, and Kit
+leant over his plate, and Barbara over her pea-shells, each in extreme
+confusion at having been detected by the other.
 
 
 
@@ -36431,6 +35527,223 @@ its intrinsic strength and its coming close upon the heels of the
 temperate beverage he had discussed at dinner, awakened a slight degree
 of fever, and rendered necessary two or three other modest quenchers at
 the public-[[house]] in the course of the evening.
+
+
+
+
+<span class="atom-split" data-atom="chapter_36" data-title="The Old Curiosity Shop — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
+
+
+CHAPTER 36
+
+As the single gentleman after some weeks’ occupation of his lodgings,
+still declined to correspond, by word or gesture, either with Mr Brass
+or his sister Sally, but invariably chose [[Richard]] Swiveller as his
+channel of communication; and as he proved himself in all respects a
+highly desirable inmate, paying for everything beforehand, giving very
+little trouble, making no noise, and keeping early hours; Mr [[Richard]]
+imperceptibly [[Rose|rose]] to an important position in the family, as one who
+had influence over this mysterious lodger, and could negotiate with
+him, for good or evil, when nobody else durst approach his person.
+
+If the [[Truth|truth]] must be told, even Mr Swiveller’s approaches to the single
+gentleman were of a very distant kind, and met with small
+encouragement; but, as he never returned from a monosyllabic conference
+with the unknown, without quoting such expressions as ‘Swiveller, I
+know I can rely upon you,’--‘I have no hesitation in saying, Swiveller,
+that I entertain a regard for you,’--‘Swiveller, you are my friend, and
+will stand by me I am sure,’ with many other short speeches of the same
+familiar and confiding kind, purporting to have been addressed by the
+single gentleman to himself, and to form the staple of their ordinary
+discourse, neither Mr Brass nor Miss Sally for a moment questioned the
+extent of his influence, but accorded to him their fullest and most
+unqualified belief.
+
+But quite apart from, and independent of, this source of popularity, Mr
+Swiveller had another, which promised to be equally enduring, and to
+lighten his position considerably.
+
+He found favour in the eyes of Miss [[Sally Brass]].  Let not the light
+scorners of female fascination erect their ears to listen to a new tale
+of [[Love|love]] which shall serve them for a jest; for Miss Brass, however
+accurately formed to be beloved, was not of the loving kind.  That
+amiable virgin, having clung to the skirts of the Law from her earliest
+youth; having sustained herself by their aid, as it were, in her first
+running [[Alone|alone]], and maintained a firm grasp upon them ever since; had
+passed her life in a kind of legal [[Childhood|childhood]].  She had been remarkable,
+when a tender prattler for an uncommon talent in counterfeiting the
+walk and manner of a bailiff: in which character she had learned to tap
+her little playfellows on the shoulder, and to carry them off to
+imaginary sponging-houses, with a correctness of [[Imitation|imitation]] which was
+the surprise and delight of all who witnessed her performances, and
+which was only to be exceeded by her exquisite manner of putting an
+execution into her doll’s [[house]], and taking an exact inventory of the
+chairs and tables.  These artless sports had naturally soothed and
+cheered the decline of her widowed father: a most exemplary gentleman
+(called ‘old Foxey’ by his friends from his extreme sagacity,) who
+encouraged them to the utmost, and whose chief regret, on finding that
+he drew near to Houndsditch churchyard, was, that his daughter could
+not take out an attorney’s certificate and hold a place upon the roll.
+Filled with this affectionate and touching sorrow, he had solemnly
+confided her to his son Sampson as an invaluable auxiliary; and from
+the old gentleman’s decease to the period of which we treat, Miss Sally
+Brass had been the prop and pillar of his business.
+
+It is obvious that, having devoted herself from infancy to this one
+pursuit and study, Miss Brass could know but little of the world,
+otherwise than in connection with the law; and that from a lady gifted
+with such high tastes, proficiency in those gentler and softer arts in
+which women usually excel, was scarcely to be looked for.  Miss Sally’s
+accomplishments were all of a masculine and strictly legal kind.  They
+began with the practice of an attorney and they ended with it.  She was
+in a state of lawful [[innocence]], so to speak.  The law had been her
+[[Nurse|nurse]].  And, as bandy-legs or such physical deformities in children are
+held to be the consequence of bad nursing, so, if in a mind so
+beautiful any moral twist or handiness could be found, Miss Sally
+Brass’s [[Nurse|nurse]] was [[Alone|alone]] to blame.
+
+It was upon this lady, then, that Mr Swiveller burst in full freshness as
+something new and hitherto undreamed of, lighting up the office with
+scraps of [[Song|song]] and merriment, conjuring with inkstands and boxes of
+wafers, catching three oranges in one hand, balancing stools upon his
+chin and penknives on his nose, and constantly performing a hundred
+other feats with equal ingenuity; for with such unbendings did [[Richard]],
+in Mr Brass’s absence, relieve the tedium of his confinement.  These
+social qualities, which Miss Sally first discovered by accident,
+gradually made such an impression upon her, that she would entreat Mr
+Swiveller to relax as though she were not by, which Mr Swiveller,
+nothing loth, would readily consent to do.  By these means a [[Friendship|friendship]]
+sprung up between them.  Mr Swiveller gradually came to look upon her
+as her brother Sampson did, and as he would have looked upon any other
+clerk.  He imparted to her the mystery of going the odd man or plain
+Newmarket for fruit, ginger-beer, baked potatoes, or even a modest
+quencher, of which Miss Brass did not scruple to partake.  He would
+often persuade her to undertake his share of writing in addition to her
+own; nay, he would sometimes reward her with a hearty slap on the back,
+and protest that she was a devilish good fellow, a jolly dog, and so
+forth; all of which compliments Miss Sally would receive in entire good
+part and with perfect satisfaction.
+
+One circumstance troubled Mr Swiveller’s mind very much, and that was
+that the small servant always remained somewhere in the bowels of the
+earth under Bevis Marks, and never came to the surface unless the
+single gentleman rang his bell, when she would answer it and
+immediately disappear again.  She never went out, or came into the
+office, or had a clean face, or took off the coarse apron, or looked
+out of any one of the windows, or stood at the street-door for a breath
+of air, or had any rest or enjoyment whatever.  Nobody ever came to see
+her, nobody spoke of her, nobody cared about her.  Mr Brass had said
+once, that he believed she was a ‘[[Love|love]]-[[Child|child]]’ (which means anything but
+a [[Child|child]] of [[Love|love]]), and that was all the information [[Richard]] Swiveller
+could obtain.
+
+‘It’s of no use asking the dragon,’ thought Dick one day, as he sat
+contemplating the features of Miss [[Sally Brass]].  ‘I suspect if I asked
+any questions on that head, our alliance would be at an end.  I [[Wonder|wonder]]
+whether she is a dragon by-the-bye, or something in the [[Mermaid|mermaid]] way.
+She has rather a scaly appearance.  But mermaids are fond of looking at
+themselves in the glass, which she can’t be.  And they have a habit of
+combing their hair, which she hasn’t.  No, she’s a dragon.’
+
+‘Where are you going, old fellow?’ said Dick aloud, as Miss Sally wiped
+her pen as usual on the green dress, and uprose from her seat.
+
+‘To dinner,’ answered the dragon.
+
+‘To dinner!’ thought Dick, ‘that’s another circumstance.  I don’t
+believe that small servant ever has anything to eat.’
+
+‘Sammy won’t be [[Home|home]],’ said Miss Brass.  ‘Stop till I come back.  I
+sha’n’t be long.’
+
+Dick nodded, and followed Miss Brass--with his eyes to the door, and
+with his ears to a little back parlour, where she and her brother took
+their meals.
+
+‘Now,’ said Dick, walking up and down with his hands in his pockets,
+‘I’d give something--if I had it--to know how they use that [[Child|child]], and
+where they keep her.  My mother must have been a very inquisitive
+woman; I have no [[Doubt|doubt]] I’m marked with a note of interrogation
+somewhere.  My feelings I smother, but thou hast been the cause of this
+anguish, my--upon my word,’ said Mr Swiveller, checking himself and
+falling thoughtfully into the client’s chair, ‘I should like to know
+how they use her!’
+
+After running on, in this way, for some [[Time|time]], Mr Swiveller softly
+opened the office door, with the intention of darting across the street
+for a glass of the mild porter.  At that moment he caught a parting
+glimpse of the brown head-dress of Miss Brass flitting down the kitchen
+stairs.  ‘And by Jove!’ thought Dick, ‘she’s going to feed the small
+servant.  Now or never!’
+
+First peeping over the handrail and allowing the head-dress to
+disappear in the darkness below, he groped his way down, and arrived at
+the door of a back kitchen immediately after Miss Brass had entered the
+same, bearing in her hand a cold leg of mutton.  It was a very dark
+miserable place, very low and very damp: the walls disfigured by a
+thousand rents and blotches.  The [[Water|water]] was trickling out of a leaky
+butt, and a most wretched cat was lapping up the drops with the sickly
+eagerness of starvation.  The grate, which was a wide one, was wound
+and screwed up tight, so as to hold no more than a little thin sandwich
+of [[Fire|fire]].  Everything was locked up; the coal-cellar, the candle-box,
+the salt-box, the meat-safe, were all padlocked.  There was nothing
+that a beetle could have lunched upon.  The pinched and meagre aspect
+of the place would have killed a chameleon.  He would have known, at
+the first mouthful, that the air was not eatable, and must have given up
+the [[Ghost|ghost]] in [[Despair|despair]]. The small servant stood with [[Humility|humility]] in presence
+of Miss Sally, and hung her head.
+
+‘Are you there?’ said Miss Sally.
+
+‘Yes, ma’am,’ was the answer in a weak voice.
+
+‘Go further away from the leg of mutton, or you’ll be picking it, I
+know,’ said Miss Sally.
+
+The girl withdrew into a corner, while Miss Brass took a key from her
+pocket, and opening the safe, brought from it a dreary waste of cold
+potatoes, looking as eatable as Stonehenge.  This she placed before the
+small servant, ordering her to sit down before it, and then, taking up
+a great carving-knife, made a mighty show of sharpening it upon the
+carving-fork.
+
+‘Do you see this?’ said Miss Brass, slicing off about two square inches
+of cold mutton, after all this preparation, and holding it out on the
+point of the fork.
+
+The small servant looked hard enough at it with her hungry eyes to see
+every shred of it, small as it was, and answered, ‘yes.’
+
+‘Then don’t you ever go and say,’ retorted Miss Sally, ‘that you hadn’t
+meat here.  There, eat it up.’
+
+This was soon done.  ‘Now, do you want any more?’ said Miss Sally.
+
+The hungry creature answered with a faint ‘No.’  They were evidently
+going through an established form.
+
+‘You’ve been helped once to meat,’ said Miss Brass, summing up the
+facts; ‘you have had as much as you can eat, you’re asked if you want
+any more, and you answer, ‘no!’ Then don’t you ever go and say you were
+allowanced, mind that.’
+
+With those words, Miss Sally put the meat away and locked the safe, and
+then drawing near to the small servant, overlooked her while she
+finished the potatoes.
+
+It was plain that some extraordinary grudge was working in Miss Brass’s
+gentle breast, and that it was that which impelled her, without the
+smallest present cause, to rap the [[Child|child]] with the blade of the knife,
+now on her hand, now on her head, and now on her back, as if she found
+it quite impossible to stand so close to her without administering a
+few slight knocks.  But Mr Swiveller was not a little surprised to see
+his fellow-clerk, after walking slowly backwards towards the door, as
+if she were trying to withdraw herself from the room but could not
+accomplish it, dart suddenly forward, and falling on the small servant
+give her some hard blows with her clenched hand.  The victim cried, but
+in a subdued manner as if she feared to raise her voice, and Miss
+Sally, comforting herself with a pinch of snuff, ascended the stairs,
+just as [[Richard]] had safely reached the office.
 
 
 
@@ -42454,6 +41767,231 @@ she grew stronger every day, and would be a woman, soon.
 
 
 
+<span class="atom-split" data-atom="chapter_55" data-title="The Old Curiosity Shop — Chapter 55" data-chapter="Chapter 55" data-kind="chapter"></span>
+
+
+CHAPTER 55
+
+From that [[Time|time]], there sprung up in the old man’s mind, a solicitude
+about the [[Child|child]] which never slept or left him.  There are chords in the
+human heart--strange, varying strings--which are only struck by
+accident; which will remain mute and senseless to appeals the most
+passionate and earnest, and respond at last to the slightest casual
+touch.  In the most insensible or childish minds, there is some train
+of reflection which art can seldom lead, or skill assist, but which
+will reveal itself, as great truths have done, by chance, and when the
+discoverer has the plainest end in view.  From that [[Time|time]], the old man
+never, for a moment, forgot the weakness and devotion of the [[Child|child]];
+from the [[Time|time]] of that slight incident, he who had seen her toiling by
+his side through so much difficulty and [[Suffering|suffering]], and had scarcely
+thought of her otherwise than as the partner of miseries which he felt
+severely in his own person, and deplored for his own sake at least as
+much as hers, awoke to a sense of what he owed her, and what those
+miseries had made her.  Never, no, never once, in one unguarded moment
+from that [[Time|time]] to the end, did any care for himself, any thought of his
+own comfort, any selfish consideration or regard distract his thoughts
+from the gentle object of his [[Love|love]].
+
+He would follow her up and down, waiting till she should tire and lean
+upon his arm--he would sit opposite to her in the chimney-corner,
+content to watch, and look, until she raised her head and smiled upon
+him as of old--he would discharge by stealth, those household duties
+which tasked her powers too heavily--he would rise, in the cold dark
+nights, to listen to her breathing in her [[Sleep|sleep]], and sometimes crouch
+for hours by her bedside only to touch her hand.  He who knows all, can
+only know what hopes, and fears, and thoughts of deep affection, were
+in that one disordered brain, and what a change had fallen on the poor
+old man.  Sometimes--weeks had crept on, then--the [[Child|child]], exhausted,
+though with little fatigue, would pass whole evenings on a couch beside
+the [[Fire|fire]].  At such times, the schoolmaster would bring in books, and
+read to her aloud; and seldom an evening passed, but the bachelor came
+in, and took his turn of reading.  The old man sat and listened--with
+little understanding for the words, but with his eyes fixed upon the
+[[Child|child]]--and if she smiled or brightened with the story, he would say it
+was a good one, and conceive a fondness for the very book.  When, in
+their evening talk, the bachelor told some tale that pleased her (as
+his tales were sure to do), the old man would painfully try to store it
+in his mind; nay, when the bachelor left them, he would sometimes slip
+out after him, and humbly beg that he would tell him such a part again,
+that he might learn to win a smile from Nell.
+
+But these were rare occasions, happily; for the [[Child|child]] yearned to be out
+of doors, and walking in her solemn [[Garden|garden]].  Parties, too, would come
+to see the church; and those who came, speaking to others of the [[Child|child]],
+sent more; so even at that season of the year they had visitors almost
+daily.  The old man would follow them at a little distance through the
+building, listening to the voice he loved so [[Well|well]]; and when the
+strangers left, and parted from Nell, he would mingle with them to
+catch up fragments of their conversation; or he would stand for the
+same purpose, with his grey head uncovered, at the gate as they passed
+through.
+
+They always praised the [[Child|child]], her sense and [[Beauty|beauty]], and he was proud
+to hear them!  But what was that, so often added, which wrung his
+heart, and made him sob and weep [[Alone|alone]], in some dull corner!  Alas!
+even careless strangers--they who had no feeling for her, but the
+interest of the moment--they who would go away and forget next week
+that such a being lived--even they saw it--even they pitied her--even
+they bade him good day compassionately, and whispered as they passed.
+
+The people of the village, too, of whom there was not one but grew to
+have a fondness for poor Nell; even among them, there was the same
+feeling; a tenderness towards her--a compassionate regard for her,
+increasing every day.  The very schoolboys, light-hearted and
+thoughtless as they were, even they cared for her.  The roughest among
+them was sorry if he missed her in the usual place upon his way to
+school, and would turn out of the path to ask for her at the latticed
+[[Window|window]].  If she were sitting in the church, they perhaps might peep in
+softly at the open door; but they never spoke to her, unless she [[Rose|rose]]
+and went to speak to them.  Some feeling was abroad which raised the
+[[Child|child]] above them all.
+
+So, when [[Sunday]] came.  They were all poor country people in the church,
+for the [[Castle|castle]] in which the old family had lived, was an empty ruin,
+and there were none but humble folks for seven miles around.  There, as
+elsewhere, they had an interest in Nell.  They would gather round her
+in the porch, before and after service; young children would cluster at
+her skirts; and aged men and women forsake their gossips, to give her
+kindly greeting.  None of them, young or old, thought of passing the
+[[Child|child]] without a friendly word.  Many who came from three or four miles
+distant, brought her little presents; the humblest and rudest had good
+wishes to bestow.
+
+She had sought out the young children whom she first saw playing in the
+churchyard.  One of these--he who had spoken of his brother--was her
+little favourite and friend, and often sat by her side in the church,
+or climbed with her to the tower-top.  It was his delight to help her,
+or to fancy that he did so, and they soon became close companions.
+
+It happened, that, as she was reading in the old spot by herself one
+day, this [[Child|child]] came running in with his eyes full of [[Tears|tears]], and after
+holding her from him, and looking at her eagerly for a moment, clasped
+his little arms passionately about her neck.
+
+‘What now?’ said Nell, soothing him.  ‘What is the matter?’
+
+‘She is not one yet!’ cried the boy, embracing her still more closely.
+‘No, no.  Not yet.’
+
+She looked at him wonderingly, and putting his hair back from his face,
+and kissing him, asked what he meant.
+
+‘You must not be one, dear Nell,’ cried the boy.  ‘We can’t see them.
+They never come to play with us, or talk to us.  Be what you are.  You
+are better so.’
+
+‘I do not understand you,’ said the [[Child|child]].  ‘Tell me what you mean.’
+
+‘Why, they say,’ replied the boy, looking up into her face, that you
+will be an Angel, before the [[Birds|birds]] sing again.  But you won’t be, will
+you?  Don’t leave us Nell, though the sky is bright.  Do not leave us!’
+
+The [[Child|child]] dropped her head, and put her hands before her face.
+
+‘She cannot bear the thought!’ cried the boy, exulting through his
+[[Tears|tears]].  ‘You will not go.  You know how sorry we should be.  Dear Nell,
+tell me that you’ll stay amongst us.  Oh!  Pray, pray, tell me that you
+will.’
+
+The little creature folded his hands, and knelt down at her feet.
+
+‘Only look at me, Nell,’ said the boy, ‘and tell me that you’ll stop,
+and then I shall know that they are wrong, and will cry no more.  Won’t
+you say yes, Nell?’
+
+Still the drooping head and hidden face, and the [[Child|child]] quite
+silent--save for her sobs.
+
+‘After a [[Time|time]],’ pursued the boy, trying to draw away her hand, ‘the kind
+angels will be glad to think that you are not among them, and that you
+stayed here to be with us.  Willy went away, to join them; but if he
+had known how I should miss him in our little bed at [[Night|night]], he never
+would have left me, I am sure.’
+
+Yet the [[Child|child]] could make him no answer, and sobbed as though her heart
+were bursting.  ‘Why would you go, dear Nell?  I know you would not be
+happy when you heard that we were crying for your loss.  They say that
+Willy is in Heaven now, and that it’s always [[Summer|summer]] there, and yet I’m
+sure he grieves when I lie down upon his [[Garden|garden]] bed, and he cannot turn
+to kiss me.  But if you do go, Nell,’ said the boy, caressing her, and
+pressing his face to hers, ‘be fond of him for my sake.  Tell him how I
+[[Love|love]] him still, and how much I loved you; and when I think that you two
+are together, and are happy, I’ll try to bear it, and never give you
+[[Pain|pain]] by doing wrong--indeed I never will!’
+
+The [[Child|child]] suffered him to move her hands, and put them round his neck.
+There was a tearful [[Silence|silence]], but it was not long before she looked upon
+him with a smile, and promised him, in a very gentle, quiet voice, that
+she would stay, and be his friend, as long as Heaven would let her.  He
+clapped his hands for joy, and thanked her many times; and being
+charged to tell no person what had passed between them, gave her an
+earnest promise that he never would.
+
+Nor did he, so far as the [[Child|child]] could learn; but was her quiet
+companion in all her walks and musings, and never again adverted to the
+theme, which he felt had given her [[Pain|pain]], although he was unconscious of
+its cause.  Something of distrust lingered about him still; for he
+would often come, even in the dark evenings, and call in a timid voice
+outside the door to know if she were safe within; and being answered
+yes, and bade to enter, would take his station on a low stool at her
+feet, and sit there patiently until they came to seek, and take him
+[[Home|home]].  Sure as the morning came, it found him lingering near the [[house]]
+to ask if she were [[Well|well]]; and, morning, [[Noon|noon]], or [[Night|night]], go where she
+would, he would forsake his playmates and his sports to bear her
+company.
+
+‘And a good little friend he is, too,’ said the old sexton to her once.
+‘When his elder brother died--elder seems a strange word, for he was
+only seven years old--I remember this one took it sorely to heart.’
+
+The [[Child|child]] thought of what the schoolmaster had told her, and felt how
+its [[Truth|truth]] was shadowed out even in this infant.
+
+‘It has given him something of a quiet way, I think,’ said the old man,
+‘though for that he is merry enough at times.  I’d wager now that you
+and he have been listening by the old [[Well|well]].’
+
+‘Indeed we have not,’ the [[Child|child]] replied.  ‘I have been afraid to go
+near it; for I am not often down in that part of the church, and do not
+know the ground.’
+
+‘Come down with me,’ said the old man.  ‘I have known it from a boy.
+Come!’
+
+They descended the narrow steps which led into the crypt, and paused
+among the gloomy arches, in a dim and murky spot.
+
+‘This is the place,’ said the old man.  ‘Give me your hand while you
+throw back the cover, lest you should stumble and fall in.  I am too
+old--I mean rheumatic--to stoop, myself.’
+
+‘A black and dreadful place!’ exclaimed the [[Child|child]].
+
+‘Look in,’ said the old man, pointing downward with his finger.
+
+The [[Child|child]] complied, and gazed down into the pit.
+
+‘It looks like a [[Grave|grave]] itself,’ said the old man.
+
+‘It does,’ replied the [[Child|child]].
+
+‘I have often had the fancy,’ said the sexton, ‘that it might have been
+dug at first to make the old place more gloomy, and the old [[Monks|monks]] more
+religious.  It’s to be closed up, and built over.’
+
+The [[Child|child]] still stood, looking thoughtfully into the vault.
+
+‘We shall see,’ said the sexton, ‘on what gay heads other earth will
+have closed, when the light is shut out from here.  God knows!  They’ll
+close it up, next [[spring]].’
+
+‘The [[Birds|birds]] sing again in [[spring]],’ thought the [[Child|child]], as she leaned at
+her casement [[Window|window]], and gazed at the declining sun.  ‘[[spring|Spring]]! a
+beautiful and happy [[Time|time]]!’
+
+
+
+
 <span class="atom-split" data-atom="chapter_56--part_01" data-title="The Old Curiosity Shop — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt"></span>
 
 
@@ -42876,6 +42414,247 @@ smile, simultaneously.
 ‘Ahem!’ coughed Miss Brass interrogatively.
 
 ‘Why, yes,’ returned Sampson, ‘I should say as good as done.’
+
+
+
+
+<span class="atom-split" data-atom="chapter_57" data-title="The Old Curiosity Shop — Chapter 57" data-chapter="Chapter 57" data-kind="chapter"></span>
+
+
+CHAPTER 57
+
+Mr Chuckster’s indignant apprehensions were not without foundation.
+Certainly the [[Friendship|friendship]] between the single gentleman and Mr Garland
+was not suffered to cool, but had a rapid growth and flourished
+exceedingly.  They were soon in habits of constant intercourse and
+communication; and the single gentleman labouring at this [[Time|time]] under a
+slight attack of illness--the consequence most probably of his late
+excited feelings and subsequent disappointment--furnished a reason for
+their holding yet more frequent correspondence; so that some one of the
+inmates of Abel Cottage, Finchley, came backwards and forwards between
+that place and Bevis Marks, almost every day.
+
+As the pony had now thrown off all disguise, and without any mincing of
+the matter or beating about the bush, sturdily refused to be driven by
+anybody but Kit, it generally happened that whether old Mr Garland
+came, or Mr Abel, Kit was of the party.  Of all messages and inquiries,
+Kit was, in right of his position, the bearer; thus it came about that,
+while the single gentleman remained indisposed, Kit turned into Bevis
+Marks every morning with nearly as much regularity as the General
+Postman.
+
+Mr [[Sampson Brass]], who no [[Doubt|doubt]] had his reasons for looking sharply
+about him, soon learnt to distinguish the pony’s trot and the clatter
+of the little chaise at the corner of the street.  Whenever the sound
+reached his ears, he would immediately lay down his pen and fall to
+rubbing his hands and exhibiting the greatest glee.
+
+‘Ha ha!’ he would cry.  ‘Here’s the pony again!  Most remarkable pony,
+extremely docile, eh, Mr [[Richard]], eh sir?’
+
+Dick would return some matter-of-course reply, and Mr Brass standing on
+the [[Bottom|bottom]] rail of his stool, so as to get a view of the street over
+the top of the [[Window|window]]-blind, would take an observation of the visitors.
+
+‘The old gentleman again!’ he would exclaim, ‘a very prepossessing old
+gentleman, Mr [[Richard]]--charming countenance, sir--extremely
+calm--benevolence in every feature, sir.  He quite realises my idea of
+[[King Lear]], as he appeared when in possession of his kingdom, Mr
+[[Richard]]--the same good [[Humour|humour]], the same white hair and partial
+baldness, the same liability to be imposed upon.  Ah!  A sweet subject
+for contemplation, sir, very sweet!’
+
+Then Mr Garland having alighted and gone up-stairs, Sampson would nod
+and smile to Kit from the [[Window|window]], and presently walk out into the
+street to greet him, when some such conversation as the following would
+ensue.
+
+‘Admirably groomed, Kit’--Mr Brass is patting the pony--‘does you great
+credit--amazingly sleek and bright to be sure.  He literally looks as
+if he had been varnished all over.’
+
+Kit touches his hat, smiles, pats the pony himself, and expresses his
+conviction, ‘that Mr Brass will not find many like him.’
+
+‘A beautiful animal indeed!’ cries Brass.  ‘Sagacious too?’
+
+‘Bless you!’ replies Kit, ‘he knows what you say to him as [[Well|well]] as a
+Christian does.’
+
+‘Does he indeed!’ cries Brass, who has heard the same thing in the same
+place from the same person in the same words a dozen times, but is
+paralysed with astonishment notwithstanding.  ‘Dear me!’
+
+‘I little thought the first [[Time|time]] I saw him, Sir,’ says Kit, pleased
+with the attorney’s strong interest in his favourite, ‘that I should
+come to be as intimate with him as I am now.’
+
+‘Ah!’ rejoins Mr Brass, brim-full of moral precepts and [[Love|love]] of virtue.
+‘A charming subject of reflection for you, very charming.  A subject of
+proper [[Pride|pride]] and congratulation, Christopher.  Honesty is the best
+policy.--I always find it so myself.  I lost forty-seven pound ten by
+being honest this morning.  But it’s all gain, it’s gain!’
+
+Mr Brass slyly tickles his nose with his pen, and looks at Kit with the
+[[Water|water]] standing in his eyes.  Kit thinks that if ever there was a good
+man who belied his appearance, that man is [[Sampson Brass]].
+
+‘A man,’ says Sampson, ‘who loses forty-seven pound ten in one morning
+by his honesty, is a man to be envied.  If it had been eighty pound,
+the luxuriousness of feeling would have been increased.  Every pound
+lost, would have been a hundredweight of happiness gained.  The still
+small voice, Christopher,’ cries Brass, smiling, and tapping himself on
+the bosom, ‘is a-singing comic [[songs]] within me, and all is happiness
+and joy!’
+
+Kit is so improved by the conversation, and finds it go so completely
+[[Home|home]] to his feelings, that he is considering what he shall say, when Mr
+Garland appears.  The old gentleman is helped into the chaise with
+great obsequiousness by Mr [[Sampson Brass]]; and the pony, after shaking
+his head several times, and standing for three or four minutes with all
+his four legs planted firmly on the ground, as if he had made up his
+mind never to stir from that spot, but there to live and die, suddenly
+darts off, without the smallest notice, at the rate of twelve English
+miles an hour.  Then, Mr Brass and his sister (who has joined him at
+the door) exchange an odd kind of smile--not at all a pleasant one in
+its expression--and return to the society of Mr [[Richard]] Swiveller,
+who, during their absence, has been regaling himself with various feats
+of pantomime, and is discovered at his desk, in a very flushed and
+heated condition, violently scratching out nothing with half a penknife.
+
+Whenever Kit came [[Alone|alone]], and without the chaise, it always happened
+that [[Sampson Brass]] was reminded of some mission, calling Mr Swiveller,
+if not to Peckham Rye again, at all events to some pretty distant place
+from which he could not be expected to return for two or three hours,
+or in all probability a much longer period, as that gentleman was not,
+to say the [[Truth|truth]], renowned for using great expedition on such
+occasions, but rather for protracting and spinning out the [[Time|time]] to the
+very utmost limit of possibility.  Mr Swiveller out of sight, Miss
+Sally immediately withdrew.  Mr Brass would then set the office-door
+wide open, hum his old tune with great gaiety of heart, and smile
+seraphically as before.  Kit coming down-stairs would be called in;
+entertained with some moral and agreeable conversation; perhaps
+entreated to mind the office for an instant while Mr Brass stepped over
+the way; and afterwards presented with one or two half-crowns as the
+case might be.  This occurred so often, that Kit, nothing doubting but
+that they came from the single gentleman who had already rewarded his
+mother with great liberality, could not enough admire his generosity;
+and bought so many cheap presents for her, and for little Jacob, and
+for the baby, and for Barbara to boot, that one or other of them was
+having some new trifle every day of their lives.
+
+While these acts and deeds were in progress in and out of the office of
+[[Sampson Brass]], [[Richard]] Swiveller, being often left [[Alone|alone]] therein, began
+to find the [[Time|time]] hang heavy on his hands.  For the better preservation
+of his cheerfulness therefore, and to prevent his faculties from
+rusting, he provided himself with a cribbage-board and pack of cards,
+and accustomed himself to play at cribbage with a dummy, for twenty,
+thirty, or sometimes even fifty thousand pounds aside, besides many
+hazardous bets to a considerable amount.
+
+As these games were very silently conducted, notwithstanding the
+magnitude of the interests involved, Mr Swiveller began to think that
+on those evenings when Mr and Miss Brass were out (and they often went
+out now) he heard a kind of snorting or hard-breathing sound in the
+direction of the door, which it occurred to him, after some reflection,
+must proceed from the small servant, who always had a cold from damp
+living.  Looking intently that way one [[Night|night]], he plainly distinguished
+an eye gleaming and glistening at the keyhole; and having now no [[Doubt|doubt]]
+that his suspicions were correct, he stole softly to the door, and
+pounced upon her before she was aware of his approach.
+
+‘Oh! I didn’t mean any harm indeed, upon my word I didn’t,’ cried the
+small servant, struggling like a much larger one.  ‘It’s so very dull,
+down-stairs, Please don’t you tell upon me, please don’t.’
+
+‘Tell upon you!’ said Dick.  ‘Do you mean to say you were looking
+through the keyhole for company?’
+
+‘Yes, upon my word I was,’ replied the small servant.
+
+‘How long have you been cooling your eye there?’ said Dick.
+
+‘Oh ever since you first began to play them cards, and long before.’
+
+Vague recollections of several fantastic exercises with which he had
+refreshed himself after the fatigues of business, and to all of which,
+no [[Doubt|doubt]], the small servant was a party, rather disconcerted Mr
+Swiveller; but he was not very sensitive on such points, and recovered
+himself speedily.
+
+‘[[Well]]--come in’--he said, after a little consideration.  ‘Here--sit
+down, and I’ll teach you how to play.’
+
+‘Oh! I durstn’t do it,’ rejoined the small servant; ‘Miss Sally ‘ud
+kill me, if she know’d I come up here.’
+
+‘Have you got a [[Fire|fire]] down-stairs?’ said Dick.
+
+‘A very little one,’ replied the small servant.
+
+‘Miss Sally couldn’t kill me if she know’d I went down there, so I’ll
+come,’ said [[Richard]], putting the cards into his pocket.  ‘Why, how thin
+you are!  What do you mean by it?’
+
+‘It ain’t my fault.’
+
+‘Could you eat any bread and meat?’ said Dick, taking down his hat.
+‘Yes?  Ah! I thought so.  Did you ever taste beer?’
+
+‘I had a sip of it once,’ said the small servant.
+
+‘Here’s a state of things!’ cried Mr Swiveller, raising his eyes to the
+ceiling.  ‘She never tasted it--it can’t be tasted in a sip!  Why, how
+old are you?’
+
+‘I don’t know.’
+
+Mr Swiveller opened his eyes very wide, and appeared thoughtful for a
+moment; then, bidding the [[Child|child]] mind the door until he came back,
+vanished straightway.
+
+Presently, he returned, followed by the boy from the public-[[house]], who
+bore in one hand a plate of bread and beef, and in the other a great
+pot, filled with some very fragrant compound, which sent forth a
+grateful steam, and was indeed choice purl, made after a particular
+recipe which Mr Swiveller had imparted to the landlord, at a period
+when he was deep in his books and desirous to conciliate his
+[[Friendship|friendship]].  Relieving the boy of his burden at the door, and charging
+his little companion to fasten it to prevent surprise, Mr Swiveller
+followed her into the kitchen.
+
+‘There!’ said [[Richard]], putting the plate before her.  ‘First of all
+clear that off, and then you’ll see what’s next.’
+
+The small servant needed no second bidding, and the plate was soon
+empty.
+
+‘Next,’ said Dick, handing the purl, ‘take a pull at that; but moderate
+your transports, you know, for you’re not used to it.  [[Well]], is it
+good?’
+
+‘Oh! isn’t it?’ said the small servant.
+
+Mr Swiveller appeared gratified beyond all expression by this reply,
+and took a long draught himself, steadfastly regarding his companion
+while he did so.  These preliminaries disposed of, he applied himself
+to teaching her the game, which she soon learnt tolerably [[Well|well]], being
+both sharp-witted and cunning.
+
+‘Now,’ said Mr Swiveller, putting two sixpences into a saucer, and
+trimming the wretched candle, when the cards had been cut and dealt,
+‘those are the stakes.  If you win, you get ‘em all.  If I win, I get
+‘em.  To make it seem more real and pleasant, I shall call you the
+[[Marchioness]], do you hear?’
+
+The small servant nodded.
+
+‘Then, [[Marchioness]],’ said Mr Swiveller, ‘[[Fire|fire]] away!’
+
+The [[Marchioness]], holding her cards very tight in both hands, considered
+which to play, and Mr Swiveller, assuming the gay and fashionable air
+which such society required, took another pull at the tankard, and
+waited for her lead.
 
 
 
@@ -45350,6 +45129,227 @@ there’s nothing left--not so much as a waistcoat even?’
 ‘It’s embarrassing,’ said Mr Swiveller, ‘in case of [[Fire|fire]]--even an
 umbrella would be something--but you did quite right, dear [[Marchioness]].
 I should have died without you!’
+
+
+
+
+<span class="atom-split" data-atom="chapter_65" data-title="The Old Curiosity Shop — Chapter 65" data-chapter="Chapter 65" data-kind="chapter"></span>
+
+
+CHAPTER 65
+
+It was [[Well|well]] for the small servant that she was of a sharp, quick
+[[Nature|nature]], or the consequence of sending her out [[Alone|alone]], from the very
+neighbourhood in which it was most dangerous for her to appear, would
+probably have been the restoration of Miss [[Sally Brass]] to the supreme
+authority over her person.  Not unmindful of the risk she ran, however,
+the [[Marchioness]] no sooner left the [[house]] than she dived into the first
+dark by-way that presented itself, and, without any present reference
+to the point to which her [[Journey|journey]] tended, made it her first business to
+put two good miles of brick and mortar between herself and Bevis Marks.
+
+When she had accomplished this object, she began to shape her course
+for the notary’s office, to which--shrewdly inquiring of apple-women
+and oyster-sellers at street-corners, rather than in lighted shops or
+of [[Well|well]]-dressed people, at the hazard of attracting notice--she easily
+procured a direction.  As carrier-pigeons, on being first let loose in
+a strange place, beat the air at random for a short [[Time|time]] before darting
+off towards the spot for which they are designed, so did the
+[[Marchioness]] flutter round and round until she believed herself in
+safety, and then bear swiftly down upon the port for which she was
+bound.
+
+She had no bonnet--nothing on her head but a great cap which, in some
+old [[Time|time]], had been worn by [[Sally Brass]], whose taste in head-dresses
+was, as we have seen, peculiar--and her [[Speed|speed]] was rather retarded than
+assisted by her shoes, which, being extremely large and slipshod, flew
+off every now and then, and were difficult to find again, among the
+crowd of passengers.  Indeed, the poor little creature experienced so
+much trouble and delay from having to grope for these articles of dress
+in mud and kennel, and suffered in these researches so much jostling,
+pushing, squeezing and bandying from hand to hand, that by the [[Time|time]] she
+reached the street in which the notary lived, she was fairly worn out
+and exhausted, and could not refrain from [[Tears|tears]].
+
+But to have got there at last was a great comfort, especially as there
+were lights still burning in the office [[Window|window]], and therefore some [[Hope|hope]]
+that she was not too late.  So the [[Marchioness]] dried her eyes with the
+backs of her hands, and, stealing softly up the steps, peeped in
+through the glass door.
+
+Mr Chuckster was standing behind the lid of his desk, making such
+preparations towards finishing off for the [[Night|night]], as pulling down his
+wristbands and pulling up his shirt-collar, settling his neck more
+gracefully in his stock, and secretly arranging his whiskers by the aid
+of a little triangular bit of looking glass.  Before the ashes of the
+[[Fire|fire]] stood two gentlemen, one of whom she rightly judged to be the
+notary, and the other (who was buttoning his great-coat and was
+evidently about to depart immediately) Mr Abel Garland.
+
+Having made these observations, the small spy took counsel with
+herself, and resolved to wait in the street until Mr Abel came out, as
+there would be then no [[Fear|fear]] of having to speak before Mr Chuckster, and
+less difficulty in delivering her message.  With this purpose she
+slipped out again, and crossing the [[Road|road]], sat down upon a door-step
+just opposite.
+
+She had hardly taken this position, when there came dancing up the
+street, with his legs all wrong, and his head everywhere by turns, a
+pony.  This pony had a little phaeton behind him, and a man in it; but
+neither man nor phaeton seemed to embarrass him in the least, as he
+reared up on his hind legs, or stopped, or went on, or stood still
+again, or backed, or went side-ways, without the smallest reference to
+them--just as the fancy seized him, and as if he were the freest animal
+in creation.  When they came to the notary’s door, the man called out
+in a very respectful manner, ‘Woa then’--intimating that if he might
+venture to express a wish, it would be that they stopped there.  The
+pony made a moment’s pause; but, as if it occurred to him that to stop
+when he was required might be to establish an inconvenient and
+dangerous precedent, he immediately started off again, rattled at a
+fast trot to the street corner, wheeled round, came back, and then
+stopped of his own accord.
+
+‘Oh! you’re a precious creatur!’ said the man--who didn’t venture by
+the bye to come out in his true colours until he was safe on the
+pavement.  ‘I wish I had the rewarding of you--I do.’
+
+‘What has he been doing?’ said Mr Abel, tying a shawl round his neck as
+he came down the steps.
+
+‘He’s enough to fret a man’s heart out,’ replied the hostler.  ‘He is
+the most wicious rascal--Woa then, will you?’
+
+‘He’ll never stand still, if you call him names,’ said Mr Abel, getting
+in, and taking the reins.  ‘He’s a very good fellow if you know how to
+manage him.  This is the first [[Time|time]] he has been out, this long while,
+for he has lost his old driver and wouldn’t stir for anybody else, till
+this morning.  The lamps are right, are they?  That’s [[Well|well]].  Be here to
+take him to-morrow, if you please.  Good [[Night|night]]!’
+
+And, after one or two strange plunges, quite of his own invention, the
+pony yielded to Mr Abel’s mildness, and trotted gently off.
+
+All this [[Time|time]] Mr Chuckster had been standing at the door, and the small
+servant had been afraid to approach.  She had nothing for it now,
+therefore, but to run after the chaise, and to call to Mr Abel to stop.
+Being out of breath when she came up with it, she was unable to make
+him hear.  The case was desperate; for the pony was quickening his
+pace.  The [[Marchioness]] hung on behind for a few moments, and, feeling
+that she could go no farther, and must soon yield, clambered by a
+vigorous effort into the hinder seat, and in so doing lost one of the
+shoes for ever.
+
+Mr Abel being in a thoughtful frame of mind, and having quite enough to
+do to keep the pony going, went jogging on without looking round:
+little dreaming of the strange figure that was close behind him, until
+the [[Marchioness]], having in some degree recovered her breath, and the
+loss of her shoe, and the novelty of her position, uttered close into
+his ear, the words--‘I say, Sir’--
+
+He turned his head quickly enough then, and stopping the pony, cried,
+with some trepidation, ‘God bless me, what is this!’
+
+‘Don’t be frightened, Sir,’ replied the still panting messenger.  ‘Oh
+I’ve run such a way after you!’
+
+‘What do you want with me?’ said Mr Abel.  ‘How did you come here?’
+
+‘I got in behind,’ replied the [[Marchioness]].  ‘Oh please drive on,
+sir--don’t stop--and go towards the [[City]], will you?  And oh do please
+make haste, because it’s of consequence.  There’s somebody wants to see
+you there.  He sent me to say would you come directly, and that he
+knowed all about Kit, and could save him yet, and prove his [[innocence]].’
+
+‘What do you tell me, [[Child|child]]?’
+
+‘The [[Truth|truth]], upon my word and [[Honour|honour]] I do.  But please to drive on--
+quick, please!  I’ve been such a [[Time|time]] gone, he’ll think I’m lost.’
+
+Mr Abel involuntarily urged the pony forward.  The pony, impelled by
+some secret sympathy or some new caprice, burst into a great pace, and
+neither slackened it, nor indulged in any eccentric performances, until
+they arrived at the door of Mr Swiveller’s lodging, where, marvellous
+to relate, he consented to stop when Mr Abel checked him.
+
+‘See!  It’s the room up there,’ said the [[Marchioness]], pointing to one
+where there was a faint light.  ‘Come!’
+
+Mr Abel, who was one of the simplest and most retiring creatures in
+existence, and naturally timid withal, hesitated; for he had heard of
+people being decoyed into strange places to be robbed and murdered,
+under circumstances very like the present, and, for anything he knew to
+the contrary, by guides very like the [[Marchioness]].  His regard for Kit,
+however, overcame every other consideration.  So, entrusting Whisker to
+the charge of a man who was lingering hard by in expectation of the
+job, he suffered his companion to take his hand, and to lead him up the
+dark and narrow stairs.
+
+He was not a little surprised to find himself conducted into a
+dimly-lighted sick chamber, where a man was sleeping tranquilly in bed.
+
+‘An’t it nice to see him lying there so quiet?’ said his guide, in an
+earnest whisper.  ‘Oh! you’d say it was, if you had only seen him two
+or three days ago.’
+
+Mr Abel made no answer, and, to say the [[Truth|truth]], kept a long way from the
+bed and very near the door.  His guide, who appeared to understand his
+reluctance, trimmed the candle, and taking it in her hand, approached
+the bed.  As she did so, [[The Sleeper|the sleeper]] started up, and he recognised in
+the wasted face the features of [[Richard]] Swiveller.
+
+‘Why, how is this?’ said Mr Abel kindly, as he hurried towards him.
+‘You have been ill?’
+
+‘Very,’ replied Dick.  ‘Nearly dead.  You might have chanced to hear of
+your [[Richard]] on his bier, but for the friend I sent to fetch you.
+Another shake of the hand, [[Marchioness]], if you please.  Sit down, Sir.’
+
+Mr Abel seemed rather astonished to hear of the quality of his guide,
+and took a chair by the bedside.
+
+‘I have sent for you, Sir,’ said Dick--‘but she told you on what
+account?’
+
+‘She did.  I am quite bewildered by all this.  I really don’t know what
+to say or think,’ replied Mr Abel.
+
+‘You’ll say that presently,’ retorted Dick.  ‘[[Marchioness]], take a seat
+on the bed, will you?  Now, tell this gentleman all that you told me;
+and be particular.  Don’t you speak another word, Sir.’
+
+The story was repeated; it was, in effect, exactly the same as before,
+without any deviation or omission.  [[Richard]] Swiveller kept his eyes
+fixed on his visitor during its narration, and directly it was
+concluded, took the word again.
+
+‘You have heard it all, and you’ll not forget it.  I’m too giddy and
+too queer to suggest anything; but you and your friends will know what
+to do.  After this long delay, every minute is an age.  If ever you
+went [[Home|home]] fast in your life, go [[Home|home]] fast to-[[Night|night]].  Don’t stop to say
+one word to me, but go.  She will be found here, whenever she’s wanted;
+and as to me, you’re pretty sure to find me at [[Home|home]], for a week or two.
+There are more reasons than one for that.  [[Marchioness]], a light!  If
+you lose another minute in looking at me, sir, I’ll never forgive you!’
+
+Mr Abel needed no more remonstrance or [[Persuasion|persuasion]].  He was gone in an
+instant; and the [[Marchioness]], returning from lighting him down-stairs,
+reported that the pony, without any preliminary objection whatever, had
+dashed away at full gallop.
+
+‘That’s right!’ said Dick; ‘and hearty of him; and I [[Honour|honour]] him from
+this [[Time|time]].  But get some supper and a mug of beer, for I am sure you
+must be tired.  Do have a mug of beer.  It will do me as much good to
+see you take it as if I might drink it myself.’
+
+Nothing but this assurance could have prevailed upon the small [[Nurse|nurse]] to
+indulge in such a luxury.  Having eaten and drunk to Mr Swiveller’s
+extreme contentment, given him his drink, and put everything in neat
+order, she wrapped herself in an old coverlet and lay down upon the rug
+before the [[Fire|fire]].
+
+Mr Swiveller was by that [[Time|time]] murmuring in his [[Sleep|sleep]], ‘Strew then, oh
+strew, a bed of rushes.  Here will we stay, till morning blushes.  Good
+[[Night|night]], [[Marchioness]]!’
 
 
 

@@ -582,10 +582,13 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
         items.sort((a, b) => {
           if (a.unitType === "work" && b.unitType !== "work") return -1
           if (b.unitType === "work" && a.unitType !== "work") return 1
-          const ad = a.segs.slice(0, -1).join("/")
-          const bd = b.segs.slice(0, -1).join("/")
-          if (ad !== bd) return ad < bd ? -1 : 1
-          return a.order - b.order
+          // Order by the full relative path with NUMERIC collation, so chapters and their parts
+          // interleave in reading order regardless of granularity. Keying on the parent directory
+          // (the old approach) grouped whole-chapter atoms — short chapters with no subparts —
+          // ahead of every subpart atom, which put The Everlasting Man's two appendices (Ch18/19,
+          // unsplit) right after Ch01, before Ch02. relU numeric compare fixes mixed granularity
+          // and is identical to the old result for uniform works.
+          return a.relU.localeCompare(b.relU, undefined, { numeric: true })
         })
 
         // Register hrefs first (so prev/next + link rewrite can see all of them).

@@ -939,160 +939,6 @@ THE SIX CHAPTERS of this little book discuss and explain six separate and most i
 
 
 
-<span class="atom-split" data-atom="story_07_what_the_war_has_taught_us" data-title="The Two Maps of Europe — WHAT THE WAR HAS TAUGHT US" data-chapter="WHAT THE WAR HAS TAUGHT US" data-kind="story"></span>
-
-
-WHAT THE WAR HAS TAUGHT US
-
-MANY THEORIES FORMULATED in times of peace have crumbled in the face of recent actualities. Herein are set forth the main lessons to be learnt from the present war.
-
-WHAT THE WAR HAS TAUGHT US
-
-
-
-
-<span class="atom-split" data-atom="story_08_the_points_at_issue" data-title="The Two Maps of Europe — THE POINTS AT ISSUE" data-chapter="THE POINTS AT ISSUE" data-kind="story"></span>
-
-
-THE POINTS AT ISSUE
-
-LONG PERIODS OF peace, intervening between cycles of war, are necessarily periods during which there must arise a mass of theory concerning the way in which men will be affected by war when it breaks out. They are necessarily periods in which are perfected weapons, the actual effect of which upon the human mind has not been tested. They are necessarily periods in which are perfected methods of defence, the efficiency of which against the corresponding weapons of offence remains a matter of doubt.
-
-More than this, the whole business of naval and military strategy, though its fundamental rules remain unaltered, is affected by the use of new materials upon the full character of which men cannot finally decide until they come to action.
-
-For instance, it is but a short while ago that a very eminent naval authority in this country put forward a defence of the submarine. This novel weapon had not been effectively used in war, though it has existed for so many years. He suggested that in the next naval war the battleship and cruiser would be rendered useless by the submarine, which would dominate all naval fighting.
-
-His theory, which, of course, was only a theory, was very warmly contested. But between the two “schools” at issue nothing could decide but actual warfare at sea in which the submarine was used.
-
-This necessary presence of rival “schools of thought” upon naval and military matters is particularly emphasized when the progress of invention is rapid, combined with the gradual perfecting of mechanical methods, and when the peace has been a long one.
-
-Both these conditions have been present in Europe as a whole, and particularly in Western Europe, during our generation, and that is why this war has already taught so many lessons to those who study military and naval affairs, and why already it has settled so many disputed points.
-
-Manœuvres could tell one much, but there was always absent from them the prime factor of fear, and that next factor almost as important, of actual destruction.
-
-The list of questions, detailed and general, which have already been wholly or partly answered by the present campaigns might be indefinitely extended. There are hundreds of them. But if we consider only the principal ones we shall find that they fall roughly into two main categories. You have the technical questions of armament, its use and its effect; formation, and so forth; and you have the political questions.
-
-The first set are concerned with the action of human beings under particular forms of danger, and the physical effect of the weapons they will employ under the conditions of a high civilization.
-
-The second set are concerned with the action of human beings as citizens, not as soldiers. How they will face the advent of war, whether national feeling will be stronger than class feeling, whether secrecy can be preserved, and the rest.
-
-A list of the principal points in each of these sets will run somewhat as follows:
-
-In the first there were opposing schools as to —
-
-(1) The value of modern permanent fortification and its power of resistance to a modern siege train.
-
-(2) The best formation in which to organize troops for action, and particularly the quarrel between close formation and open.
-
-(3) The doubts as to the degree of reliance which could be placed upon air-scouts, their capacity for engaging one another, the qualities that would give dominion of the air, and in particular the value of the great modern dirigible balloons.
-
-(4) The effect, method, and proportionate value of rifle fire and of the bayonet.
-
-(5) The use of field artillery; and particularly whether, after a certain degree of rapidity, still greater rapidity of fire was worth having.
-
-(6) The exact rôle that would be played in modern war by the supply of certain materials hitherto unimportant and discoverable only in certain limited regions, most of them out of Europe. There are a great number of these materials, but much the most important is petrol.
-
-(7) Lastly, and by far the most vital of purely technical questions to this country, was the solution of certain opposing theories upon what is rather rhetorically called “the command of the sea” and what might more justly be called naval superiority.
-
-In the second set, the political questions, the most important were:
-
-(1) The working of the conscript and of the voluntary systems.
-
-(2) The possibility of preserving secrecy.
-
-(3) Whether mobilization would work smoothly or not in the face of class struggles supposedly formidable to national interests.
-
-(4) The action of our modern town populations under the moral strain of war.
-
-
-
-
-<span class="atom-split" data-atom="story_09_lessons_we_have_learnt" data-title="The Two Maps of Europe — LESSONS WE HAVE LEARNT" data-chapter="LESSONS WE HAVE LEARNT" data-kind="story"></span>
-
-
-LESSONS WE HAVE LEARNT
-
-NOT ALL OF the questions, military or political, have as yet been solved by experience. Many of them are, however, already partially solved, some wholly solved. And we may consider them usefully one by one.
-
-(1) The value of permanent fortification.
-
-Perhaps the most striking lesson of the war, and the one which is already conclusively taught by its progress, is the fact that modern permanent works, as we have hitherto known them at least, are dominated by modern siege artillery, and in particular by the mobile large howitzer using the last form of high explosive. It is here important to give the plain facts upon a matter which has from its suddenness and dramatic character given birth to a good many lessons.
-
-Modern fortification has gone down after a very short resistance to howitzer fire, throughout the western field of the campaign. In general, if you can get the big, modern, mobile howitzer up to striking distance of modern permanent work, it batters that work to pieces within a period which will hardly extend over a week, and may be as short as forty-eight hours.
-
-It is not a question of tenacity or courage. The greatest tenacity and the greatest courage can do nothing with a work that has been reduced to ruins, and in which there is no emplacement for a gun. So much is quite certain. But we must not run away with the idea either that this is the end of fortification for the future; temporary mobile batteries established outside the old permanent works will shield a garrison for an indefinite time. Nor is it true that the Germans have in this field any particular advantage save over the Russians, who are weak in their heavy artillery and have limited powers of increasing it. It will be discovered as the war proceeds that the Western armies are here in the same boat with the Germans.
-
-It is true that the Germans have a larger howitzer than the French and the English. They have a few 420 millimetre howitzers, that is, guns of a calibre between 16 and 17 inches. But this gun is almost too large to use. What has done the work everywhere is the 11-inch howitzer, and a gun of much the same size is in possession of the French. Only hitherto the siege work has fallen to the German invaders. When and if the rôles are reversed, German permanent work will be just as vulnerable to French howitzer fire. And as for the abolition of fortification in future we need not look for that.
-
-It is probable that the system of large, permanent enclosed works will give way to a system of narrow, prepared, parallel trenches connected by covered ways, which, by offering too small a target for accurate fire from a distance, and by being doubled and redoubled one behind the other, will be able to hold out far longer than the larger works which bore the brunt of the present war. But that the defensive will devise some means of meeting the new and unexpected powers of the offensive we may be certain, upon the analogy of all past warfare.
-
-(2) In the matter of formation the surprise of the war has undoubtedly been the success of another German theory, to wit, the possibility of leading modern short-trained troops, against enormous losses, in close formation. Everywhere outside [[Germany]] that was doubted, and the Germans have proved that their initial contention was right, at least in their own case. But there is another aspect of this question which has as yet by no means been proved one way or the other, and that is, whether the very heavy losses this use of close formation entails are worth while in a campaign not immediately successful at the outset. We are not yet able to say how far troops once submitted to such violence can be brought to suffer it again — or how long after — nor are we able to say what effect this lavish expenditure of men has towards the end of a campaign if its primary object, immediate initial success, fails.
-
-(3) In the matter of aircraft, four things have come out already.
-
-(a) Men will engage each other in the air without fear and they will do so continually, appalling as the prospect seemed in its novelty before the outbreak of this war.
-
-(b) Aircraft can discover the movement of troops in large bodies more accurately and successfully than had been imagined.
-
-(c) That body of aircraft which is used to a rougher climate, and to working in heavier winds, will have an immense advantage not only in bad weather but in all weather. It is this, coupled with a very fine and already established tradition of adventure, which has made the English airmen easily the superior of their Allies and enemies.
-
-(d) The aeroplane is neither as invulnerable at a great height as one school imagined it, nor as vulnerable as the opposite school maintained. The casualties are not as high in proportion to the numbers engaged as they would be in any other arm — at least so far — but they exist. And it would seem that the impossibility of telling whether an aeroplane belongs to friend or foe is a serious addition to the risk.
-
-Many questions connected with aircraft still remain to be solved; by far the most important of which to this country are connected with the efficiency of the dirigible balloon.
-
-(4) The amount of attention that should be given to good rifle firing and the importance that should be attached to the bayonet seem both to have been answered hitherto by the war.
-
-Superior rifle fire, especially under the conditions of a difficult defensive, was the saving of the British force during the retreat from Mons, and, during the whole battle of the Marne, French accounts agree that the bayonet was the deciding factor in action after action. But even if it be true, in the words of a French officer, that “all actions end with the bayonet,” the actual number of troops thus engaged and the casualties connected with them, are not in a very high proportion to the whole.
-
-It almost seems as though the bayonet had replaced the old shock action of cavalry in some degree, and that it was to be used only when the opposing troops were shaken or were occupied in too precipitate a retirement. Of successful bayonet work against other conditions we have at least had no examples recorded.
-
-(5) On the two chief points in connexion with field artillery, records hitherto received tell us little. We shall not know until more detailed accounts are available whether the vastly superior rapidity of fire enjoyed by the French 75 millimetre gun has given it a corresponding superiority over its opponent, the German 77. That it has a superiority is fairly clear. The degree of that superiority we shall not learn until we have the story of the war from the German side.
-
-Neither are we established upon the question of weight. General Langlois’ theory, which convinced the French that the light gun was essential, has not so far been proved absolutely certain, and there have been occasions when the English heavier gun (notably at Meaux) was of vast importance to our Allies. But I suggest that this question will be better answered now the weather has changed. In dry weather, that is, over hard ground, the difference between the heavier and the lighter gun is not so noticeable; once the ground is heavy it becomes very noticeable indeed.
-
-(6) With the next question, that of the materials and their supply, we enter a region of the utmost interest to this country in particular, because it is the superiority of this country at sea, and the almost complete blockade of the Germanic Powers, that is here concerned. Roughly speaking, we find (a) That a blockade of enemy ports from a great distance is easy; (b) of enemy supply through neutrals very difficult indeed; (c) That certain special products which modern science has made necessary in war are most affected. For example:
-
-Of the many things a modern army requires which are to be found only in a few special places, and those, most of them, out of Europe, the most important of all is petrol. It is obviously of capital importance for air work, and where you have a number of good roads, as in the Western field of operations, it is almost as important for transport work.
-
-Now it so happens that petrol is not found in Western Europe at all. The European supply as a whole is limited, and is in the main confined to Galicia, Roumania, and Russia. The Asiatic and American supply is only available to Austria-Hungary and [[Germany]] by way of the ocean, and the ocean is closed to them. Russian supply, of course, they cannot obtain. Galician supply swings back and forth now in the possession of the Austrian and now in that of the Russian Army.
-
-There remains only Roumania, and though Roumania is neutral it is doubtful or rather nearly certain that no sufficient supplies are coming into the Germanic Powers from that source. This is up to the moment of writing the chief effect of the British naval superiority, to which I will next turn.
-
-(7) Most of the things that were said in time of peace about the effect of naval superiority or “command of the sea” have proved true. The blockade of the inferior naval powers is nearly complete — though it must be remembered that they have an exceedingly limited coastline, and that the problem will be very different against a large fleet possessed of many ports upon an extended coastline.
-
-Further, the submarine has not proved itself as formidable against men-of-war as some thought, and the superiority of large craft is still admitted. On the other hand, it has been shown that a few hostile cruisers could continue to hold the seas for a much longer period than was imagined, and permanently to threaten commerce.
-
-The conception that almost immediately after a declaration of war naval superiority would prevent the inferior naval power from commerce destroying, and that the trade routes of the superior power would be as safe as in time of peace has broken down. So has the idea that submarines could seek out the enemy’s fleet in its ports and destroy them there.
-
-
-
-
-<span class="atom-split" data-atom="story_10_the_political_results" data-title="The Two Maps of Europe — THE POLITICAL RESULTS" data-chapter="THE POLITICAL RESULTS" data-kind="story"></span>
-
-
-THE POLITICAL RESULTS
-
-WHEN WE TURN to the political questions which the war has solved we have obtained immediate results of the very highest interest and importance, particularly to England.
-
-In the first place, we have found that while the conscript system of war worked and mobilized with astonishing success, our own much more doubtful dependence upon a voluntary system for prolonged warfare has not betrayed this country. Everyone is agreed that the response to the call for volunteers, upon which there was at first great and legitimate anxiety, has been quite out of proportion to our expectations, and particularly to those of our enemies.
-
-I think it true to say that there is nothing in which the German estimate of British psychology has been more hopelessly at sea than in this; and that the effects of this exceedingly rapid and large voluntary enlistment, principally drawn from the best material in the country, is the chief uncalculated factor in the scheme of what [[Germany]] expected to face. It is a factor that matures more slowly than many of the others, more slowly, perhaps, even than the effect of the blockade (which is also due to British effort), but it will mature with sufficient rapidity to affect all the later, and what may easily be the decisive, phases of the great war.
-
-We have an equally direct answer to that hitherto quite uncertain question, whether in a modern state the secrecy which is essential to the success of a military plan could be maintained or no. Here again there has been a complete surprise. No one could have suggested six months ago that so news-tight a system could possibly have been worked with populations living in the modern great towns. And here it must be admitted that our opponents have done even better than ourselves. There is almost a comic element in the complete security with which the German and Austrian Governments can give those whom they govern exactly what news they choose and forbid the least scrap correcting or amplifying these meagre official statements, to pass the frontiers.
-
-In connexion with this we should note that there is at the time of writing no definite answer to that very important question of how a complex modern town population will stand a heavy moral strain. But in so far as the indirect strain already caused by the war is any gauge, the answer seems to be favourable to the modern town liver.
-
-Perhaps the most important point of all among the political questions which the war has propounded is that connected with class as against national feeling.
-
-In plain fact, the idea that class feeling would anywhere in Europe be stronger than national feeling has proved utterly wanting.
-
-In the industrial parts of [[Germany]] where the distinction of capitalist and proletariat was so clearly marked, that distinction had no effect whatsoever, not only upon mobilization, but upon the spirit of the troops; a fortiori it had none in that French society which is leavened by its peasantry, or in Russia which is almost wholly a peasant state.
-
-There is nothing on which the judgment of an educated man would have proved more at sea had it been taken before the war broke out, and nothing in which the war has more poignantly revealed the ancient foundations upon which Europe reposes.
-
-
-
-
 <span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_01" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 1)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt"></span>
 
 
@@ -1969,3 +1815,157 @@ It may be added in conclusion that while German communiqués rarely wander into 
 There is one last element for the formation of a sound opinion on the war which must be mentioned at the end of this, and that is the private evidence which occasionally but rarely comes through. Here there is no guide but that of one’s own experience in travel, or that of one’s own knowledge of the newspaper or the authority printing it. The occasions upon which such evidence is available are very infrequent, but when they do come the evidence is far more valuable than any official communiqué Let me quote as an example the letters from Hungary which appeared in the Morning Post upon various occasions during the autumn and early winter. They were quite invaluable.
 
 Lastly, one might add for those who have the leisure and the confidence, the use of the foreign Press — especially the French and the German. It is biased, as is our own, and often belated in news. The German Press in particular suffers from the calculated policy of the Government of the German Empire, which at this moment believes it to be of service to stimulate public confidence of victory in every possible manner. Nevertheless, unless you do follow fairly regularly the Press of all the belligerent nations, you will obtain but an imperfect view of the war as a whole.
+
+
+
+
+<span class="atom-split" data-atom="story_07_what_the_war_has_taught_us" data-title="The Two Maps of Europe — WHAT THE WAR HAS TAUGHT US" data-chapter="WHAT THE WAR HAS TAUGHT US" data-kind="story"></span>
+
+
+WHAT THE WAR HAS TAUGHT US
+
+MANY THEORIES FORMULATED in times of peace have crumbled in the face of recent actualities. Herein are set forth the main lessons to be learnt from the present war.
+
+WHAT THE WAR HAS TAUGHT US
+
+
+
+
+<span class="atom-split" data-atom="story_08_the_points_at_issue" data-title="The Two Maps of Europe — THE POINTS AT ISSUE" data-chapter="THE POINTS AT ISSUE" data-kind="story"></span>
+
+
+THE POINTS AT ISSUE
+
+LONG PERIODS OF peace, intervening between cycles of war, are necessarily periods during which there must arise a mass of theory concerning the way in which men will be affected by war when it breaks out. They are necessarily periods in which are perfected weapons, the actual effect of which upon the human mind has not been tested. They are necessarily periods in which are perfected methods of defence, the efficiency of which against the corresponding weapons of offence remains a matter of doubt.
+
+More than this, the whole business of naval and military strategy, though its fundamental rules remain unaltered, is affected by the use of new materials upon the full character of which men cannot finally decide until they come to action.
+
+For instance, it is but a short while ago that a very eminent naval authority in this country put forward a defence of the submarine. This novel weapon had not been effectively used in war, though it has existed for so many years. He suggested that in the next naval war the battleship and cruiser would be rendered useless by the submarine, which would dominate all naval fighting.
+
+His theory, which, of course, was only a theory, was very warmly contested. But between the two “schools” at issue nothing could decide but actual warfare at sea in which the submarine was used.
+
+This necessary presence of rival “schools of thought” upon naval and military matters is particularly emphasized when the progress of invention is rapid, combined with the gradual perfecting of mechanical methods, and when the peace has been a long one.
+
+Both these conditions have been present in Europe as a whole, and particularly in Western Europe, during our generation, and that is why this war has already taught so many lessons to those who study military and naval affairs, and why already it has settled so many disputed points.
+
+Manœuvres could tell one much, but there was always absent from them the prime factor of fear, and that next factor almost as important, of actual destruction.
+
+The list of questions, detailed and general, which have already been wholly or partly answered by the present campaigns might be indefinitely extended. There are hundreds of them. But if we consider only the principal ones we shall find that they fall roughly into two main categories. You have the technical questions of armament, its use and its effect; formation, and so forth; and you have the political questions.
+
+The first set are concerned with the action of human beings under particular forms of danger, and the physical effect of the weapons they will employ under the conditions of a high civilization.
+
+The second set are concerned with the action of human beings as citizens, not as soldiers. How they will face the advent of war, whether national feeling will be stronger than class feeling, whether secrecy can be preserved, and the rest.
+
+A list of the principal points in each of these sets will run somewhat as follows:
+
+In the first there were opposing schools as to —
+
+(1) The value of modern permanent fortification and its power of resistance to a modern siege train.
+
+(2) The best formation in which to organize troops for action, and particularly the quarrel between close formation and open.
+
+(3) The doubts as to the degree of reliance which could be placed upon air-scouts, their capacity for engaging one another, the qualities that would give dominion of the air, and in particular the value of the great modern dirigible balloons.
+
+(4) The effect, method, and proportionate value of rifle fire and of the bayonet.
+
+(5) The use of field artillery; and particularly whether, after a certain degree of rapidity, still greater rapidity of fire was worth having.
+
+(6) The exact rôle that would be played in modern war by the supply of certain materials hitherto unimportant and discoverable only in certain limited regions, most of them out of Europe. There are a great number of these materials, but much the most important is petrol.
+
+(7) Lastly, and by far the most vital of purely technical questions to this country, was the solution of certain opposing theories upon what is rather rhetorically called “the command of the sea” and what might more justly be called naval superiority.
+
+In the second set, the political questions, the most important were:
+
+(1) The working of the conscript and of the voluntary systems.
+
+(2) The possibility of preserving secrecy.
+
+(3) Whether mobilization would work smoothly or not in the face of class struggles supposedly formidable to national interests.
+
+(4) The action of our modern town populations under the moral strain of war.
+
+
+
+
+<span class="atom-split" data-atom="story_09_lessons_we_have_learnt" data-title="The Two Maps of Europe — LESSONS WE HAVE LEARNT" data-chapter="LESSONS WE HAVE LEARNT" data-kind="story"></span>
+
+
+LESSONS WE HAVE LEARNT
+
+NOT ALL OF the questions, military or political, have as yet been solved by experience. Many of them are, however, already partially solved, some wholly solved. And we may consider them usefully one by one.
+
+(1) The value of permanent fortification.
+
+Perhaps the most striking lesson of the war, and the one which is already conclusively taught by its progress, is the fact that modern permanent works, as we have hitherto known them at least, are dominated by modern siege artillery, and in particular by the mobile large howitzer using the last form of high explosive. It is here important to give the plain facts upon a matter which has from its suddenness and dramatic character given birth to a good many lessons.
+
+Modern fortification has gone down after a very short resistance to howitzer fire, throughout the western field of the campaign. In general, if you can get the big, modern, mobile howitzer up to striking distance of modern permanent work, it batters that work to pieces within a period which will hardly extend over a week, and may be as short as forty-eight hours.
+
+It is not a question of tenacity or courage. The greatest tenacity and the greatest courage can do nothing with a work that has been reduced to ruins, and in which there is no emplacement for a gun. So much is quite certain. But we must not run away with the idea either that this is the end of fortification for the future; temporary mobile batteries established outside the old permanent works will shield a garrison for an indefinite time. Nor is it true that the Germans have in this field any particular advantage save over the Russians, who are weak in their heavy artillery and have limited powers of increasing it. It will be discovered as the war proceeds that the Western armies are here in the same boat with the Germans.
+
+It is true that the Germans have a larger howitzer than the French and the English. They have a few 420 millimetre howitzers, that is, guns of a calibre between 16 and 17 inches. But this gun is almost too large to use. What has done the work everywhere is the 11-inch howitzer, and a gun of much the same size is in possession of the French. Only hitherto the siege work has fallen to the German invaders. When and if the rôles are reversed, German permanent work will be just as vulnerable to French howitzer fire. And as for the abolition of fortification in future we need not look for that.
+
+It is probable that the system of large, permanent enclosed works will give way to a system of narrow, prepared, parallel trenches connected by covered ways, which, by offering too small a target for accurate fire from a distance, and by being doubled and redoubled one behind the other, will be able to hold out far longer than the larger works which bore the brunt of the present war. But that the defensive will devise some means of meeting the new and unexpected powers of the offensive we may be certain, upon the analogy of all past warfare.
+
+(2) In the matter of formation the surprise of the war has undoubtedly been the success of another German theory, to wit, the possibility of leading modern short-trained troops, against enormous losses, in close formation. Everywhere outside [[Germany]] that was doubted, and the Germans have proved that their initial contention was right, at least in their own case. But there is another aspect of this question which has as yet by no means been proved one way or the other, and that is, whether the very heavy losses this use of close formation entails are worth while in a campaign not immediately successful at the outset. We are not yet able to say how far troops once submitted to such violence can be brought to suffer it again — or how long after — nor are we able to say what effect this lavish expenditure of men has towards the end of a campaign if its primary object, immediate initial success, fails.
+
+(3) In the matter of aircraft, four things have come out already.
+
+(a) Men will engage each other in the air without fear and they will do so continually, appalling as the prospect seemed in its novelty before the outbreak of this war.
+
+(b) Aircraft can discover the movement of troops in large bodies more accurately and successfully than had been imagined.
+
+(c) That body of aircraft which is used to a rougher climate, and to working in heavier winds, will have an immense advantage not only in bad weather but in all weather. It is this, coupled with a very fine and already established tradition of adventure, which has made the English airmen easily the superior of their Allies and enemies.
+
+(d) The aeroplane is neither as invulnerable at a great height as one school imagined it, nor as vulnerable as the opposite school maintained. The casualties are not as high in proportion to the numbers engaged as they would be in any other arm — at least so far — but they exist. And it would seem that the impossibility of telling whether an aeroplane belongs to friend or foe is a serious addition to the risk.
+
+Many questions connected with aircraft still remain to be solved; by far the most important of which to this country are connected with the efficiency of the dirigible balloon.
+
+(4) The amount of attention that should be given to good rifle firing and the importance that should be attached to the bayonet seem both to have been answered hitherto by the war.
+
+Superior rifle fire, especially under the conditions of a difficult defensive, was the saving of the British force during the retreat from Mons, and, during the whole battle of the Marne, French accounts agree that the bayonet was the deciding factor in action after action. But even if it be true, in the words of a French officer, that “all actions end with the bayonet,” the actual number of troops thus engaged and the casualties connected with them, are not in a very high proportion to the whole.
+
+It almost seems as though the bayonet had replaced the old shock action of cavalry in some degree, and that it was to be used only when the opposing troops were shaken or were occupied in too precipitate a retirement. Of successful bayonet work against other conditions we have at least had no examples recorded.
+
+(5) On the two chief points in connexion with field artillery, records hitherto received tell us little. We shall not know until more detailed accounts are available whether the vastly superior rapidity of fire enjoyed by the French 75 millimetre gun has given it a corresponding superiority over its opponent, the German 77. That it has a superiority is fairly clear. The degree of that superiority we shall not learn until we have the story of the war from the German side.
+
+Neither are we established upon the question of weight. General Langlois’ theory, which convinced the French that the light gun was essential, has not so far been proved absolutely certain, and there have been occasions when the English heavier gun (notably at Meaux) was of vast importance to our Allies. But I suggest that this question will be better answered now the weather has changed. In dry weather, that is, over hard ground, the difference between the heavier and the lighter gun is not so noticeable; once the ground is heavy it becomes very noticeable indeed.
+
+(6) With the next question, that of the materials and their supply, we enter a region of the utmost interest to this country in particular, because it is the superiority of this country at sea, and the almost complete blockade of the Germanic Powers, that is here concerned. Roughly speaking, we find (a) That a blockade of enemy ports from a great distance is easy; (b) of enemy supply through neutrals very difficult indeed; (c) That certain special products which modern science has made necessary in war are most affected. For example:
+
+Of the many things a modern army requires which are to be found only in a few special places, and those, most of them, out of Europe, the most important of all is petrol. It is obviously of capital importance for air work, and where you have a number of good roads, as in the Western field of operations, it is almost as important for transport work.
+
+Now it so happens that petrol is not found in Western Europe at all. The European supply as a whole is limited, and is in the main confined to Galicia, Roumania, and Russia. The Asiatic and American supply is only available to Austria-Hungary and [[Germany]] by way of the ocean, and the ocean is closed to them. Russian supply, of course, they cannot obtain. Galician supply swings back and forth now in the possession of the Austrian and now in that of the Russian Army.
+
+There remains only Roumania, and though Roumania is neutral it is doubtful or rather nearly certain that no sufficient supplies are coming into the Germanic Powers from that source. This is up to the moment of writing the chief effect of the British naval superiority, to which I will next turn.
+
+(7) Most of the things that were said in time of peace about the effect of naval superiority or “command of the sea” have proved true. The blockade of the inferior naval powers is nearly complete — though it must be remembered that they have an exceedingly limited coastline, and that the problem will be very different against a large fleet possessed of many ports upon an extended coastline.
+
+Further, the submarine has not proved itself as formidable against men-of-war as some thought, and the superiority of large craft is still admitted. On the other hand, it has been shown that a few hostile cruisers could continue to hold the seas for a much longer period than was imagined, and permanently to threaten commerce.
+
+The conception that almost immediately after a declaration of war naval superiority would prevent the inferior naval power from commerce destroying, and that the trade routes of the superior power would be as safe as in time of peace has broken down. So has the idea that submarines could seek out the enemy’s fleet in its ports and destroy them there.
+
+
+
+
+<span class="atom-split" data-atom="story_10_the_political_results" data-title="The Two Maps of Europe — THE POLITICAL RESULTS" data-chapter="THE POLITICAL RESULTS" data-kind="story"></span>
+
+
+THE POLITICAL RESULTS
+
+WHEN WE TURN to the political questions which the war has solved we have obtained immediate results of the very highest interest and importance, particularly to England.
+
+In the first place, we have found that while the conscript system of war worked and mobilized with astonishing success, our own much more doubtful dependence upon a voluntary system for prolonged warfare has not betrayed this country. Everyone is agreed that the response to the call for volunteers, upon which there was at first great and legitimate anxiety, has been quite out of proportion to our expectations, and particularly to those of our enemies.
+
+I think it true to say that there is nothing in which the German estimate of British psychology has been more hopelessly at sea than in this; and that the effects of this exceedingly rapid and large voluntary enlistment, principally drawn from the best material in the country, is the chief uncalculated factor in the scheme of what [[Germany]] expected to face. It is a factor that matures more slowly than many of the others, more slowly, perhaps, even than the effect of the blockade (which is also due to British effort), but it will mature with sufficient rapidity to affect all the later, and what may easily be the decisive, phases of the great war.
+
+We have an equally direct answer to that hitherto quite uncertain question, whether in a modern state the secrecy which is essential to the success of a military plan could be maintained or no. Here again there has been a complete surprise. No one could have suggested six months ago that so news-tight a system could possibly have been worked with populations living in the modern great towns. And here it must be admitted that our opponents have done even better than ourselves. There is almost a comic element in the complete security with which the German and Austrian Governments can give those whom they govern exactly what news they choose and forbid the least scrap correcting or amplifying these meagre official statements, to pass the frontiers.
+
+In connexion with this we should note that there is at the time of writing no definite answer to that very important question of how a complex modern town population will stand a heavy moral strain. But in so far as the indirect strain already caused by the war is any gauge, the answer seems to be favourable to the modern town liver.
+
+Perhaps the most important point of all among the political questions which the war has propounded is that connected with class as against national feeling.
+
+In plain fact, the idea that class feeling would anywhere in Europe be stronger than national feeling has proved utterly wanting.
+
+In the industrial parts of [[Germany]] where the distinction of capitalist and proletariat was so clearly marked, that distinction had no effect whatsoever, not only upon mobilization, but upon the spirit of the troops; a fortiori it had none in that French society which is leavened by its peasantry, or in Russia which is almost wholly a peasant state.
+
+There is nothing on which the judgment of an educated man would have proved more at sea had it been taken before the war broke out, and nothing in which the war has more poignantly revealed the ancient foundations upon which Europe reposes.

@@ -5382,752 +5382,6 @@ I really do not know how to answer, except with a melancholy smile.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="GKC All is Grist — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
-
-
-I
-
-MOST modern titles and slogans have to say the precise opposite
-of what they mean, for the sake of brevity.  Sometimes the organizers
-are so sincere as to explain this immediately afterwards
-and use the sub-title to prove that the title is not true.
-A little while ago a series of short stories appeared, proclaiming in
-its editorial title that each author had chosen his best story.
-But the editor, who evidently suffered from intelligence (and it does
-sometimes entail [[Suffering|suffering]]) was perfectly [[Well|well]] aware that no sane
-author would say that any one story was absolutely and in all aspects
-the best; indeed, a sane author is more likely to be hag-ridden
-with the horrid [[Memory|memory]] of the worst.  So the editor put in a note
-to explain his own title, which he said was necessary, because it
-was so much shorter.  It is true that the phrase ‘My Best Story'
-is very much shorter than the more accurate phrase, ‘I think this
-story is one of the relatively few by which I might possibly consent
-that people should judge my general intelligence, such as it is.'
-It is also true that the phrase, ‘This story is utter trash,'
-is very much shorter than the phrase, ‘This story is not,
-fairly considered, quite absolute and utter trash.'
-But they do not, to say the least of it, mean the same thing.
-And selecting the shorter would be unwise, even in a publicity expert.
-
-A rather similar problem arose about a recent selection of
-English essays, made and introduced by the late Lord Birkenhead;
-it was a very good selection, and it was not [[Alone|alone]] in [[Suffering|suffering]]
-from the particular problem.  In large letters on the title-page
-it had to bear the title of ‘The Hundred Best English Essays';
-and in the very first words of the introduction Lord Birkenhead
-very sensibly said that there could not possibly be any such
-thing as ‘The Hundred Best English Essays'.  He proceeded,
-in a very frank and sympathetic manner, to explain that it was not
-only impossible for anybody to do anything except make a reasonable
-collection of very good essays, but that he (for his part)
-had practically put in all the essays simply because he liked them.
-I really do not know what else any one can do with essays but
-like them--except, of course, if one has such darker reactions,
-dislike them.  Of all forms of literature they are perhaps
-the least to be fitted into the old standards of judgment,
-by which it was in some sense possible to legislate for the drama
-or the ode.  But, anyhow, there is something a little amusing
-about the claims of publicity and business requiring us to reverse
-all that we mean, in order to get anybody to listen to what we say.
-There is something comic about sacrificing everything to the headline,
-and letting it insist that the article should stand on its head.
-
-I did not mention this book of essays, however, with the purpose of
-passing in review all its essays, still less the [[Nature|nature]] of the [[Essay|essay]].
-I have to thank the compiler for bringing back many good things I
-may have missed or forgotten; but the one which especially caught
-my eye and concerns my pen is an excellent study by a critic lately
-dead of a poet whom he knew [[Well|well]] and of whom he writes admirably.
-I refer to the [[Essay|essay]] on Swinburne by Sir [[Edmund]] Gosse.
-It contains any amount of matter upon which others could pronounce
-with much more authority than I. I only met Swinburne once; and though
-I met Gosse a great many times, I would never claim to have got
-past the guard of that polished rapier any more than anybody else.
-I had one letter from him about Stevenson, which I count one
-of the great honours of my life; for the rest, I was only one
-of a crowd of younger men to whom he was both ironical and kind.
-But there is something in the general and very vivid picture
-of Swinburne which he presents, which makes me inclined to linger
-perhaps belatedly on that name and on the poetry which, as poetry,
-was as straight as a singing arrow; but, considered as [[philosophy]],
-has always puzzled me very much.  In other words, if we consider
-the target of the arrow, we find that there is nothing to consider;
-it is not even so clear a concentric scheme as a labyrinth;
-it is rather a labyrinth without a centre.
-
-In plain words, after reading Gosse's [[Essay|essay]] again, I asked myself:
-‘What on earth did Swinbume mean?  Or did he mean anything?'
-It is easy enough after reading some of the poems, especially the later,
-longer and generally lesser poems, to say that he did not mean anything;
-that he was simply a musician gone wrong; a lunatic with something
-singing in his head; a creature throbbing with suppressed dancing;
-a creature who could not help foaming at the mouth with flowers
-and flames and blood and blossoms and the sea.  But it is not easy,
-after reading Gosse's essay, to deny that he did in some way take
-something seriously; and something not himself, if his contemporaries
-doubted whether it was something for making righteousness.
-He did take counsel with Landor and Hugo as if they were grave gods
-making a world of justice or right reason.  He did seem really
-to believe that some Utopia depended on the success of Cavour
-or the failure of Louis Bonaparte.  But exactly how he connected it
-in his own mind with the queer licentious pessimism, like the last
-debauch of a suicide, which fills his other verses, I cannot make out;
-nor how he supposed that anything, even a Utopia, could be made
-of such flames and foamings.  Surely he was not hoping for a republic
-in which all the citizens should be free to bite each other.
-Surely the hounds of spring, so hopefully upon winter's traces,
-were not all of them frothing at the mouth like mad dogs?
-
-Yet it is his taste in virtue rather than his taste in vice that
-puzzles me.  In the worst and most world-famous of all his lines
-he wrote something about the raptures and roses of vice and the lilies
-and languors of virtue.  The obvious thing to say is that he cannot
-have known much about virtue, if he thought it was languid.  But, to do
-him justice, his own appeals to public virtue were anything but languid.
-When talking of his own favourite type, which used to be called
-Republican Virtue, he seems to have understood all that Roman
-dignity and decency which he tore to rags in his ravings about sex.
-He used another nonsensical tag about somebody being ‘noble and nude
-and antique'.  So good a scholar ought to have known that, in the real
-world of the antique, a noble would never have desired to be nude.
-He would have regarded it as the mark, not of a noble, but a slave.
-In reality Swinburne knew all this; indeed one could hardly be
-a friend of so very ancient a Roman as Landor without knowing it.
-
-Then, again, the Pagan [[philosophy]] he pitted against [[Christianity]]
-is a mass of such inconsistencies.  In [[songs|Songs]] Before Sunrise
-he offers Pantheism as the religion of the revolution.
-Pantheism may or may not be a good creed for a philosopher; Pantheism is
-certainly in one sense a very good creed for a Pagan philosopher.
-But Pantheism is a hopeless creed for a revolutionist.  If all things
-are equally divine, then the [[Tyrant|tyrant]] and the bigot are as divine as
-the tribune and the [[Truth|truth]]-seeker. In ‘Hertha' he imagines the universe
-as a vast tree, out of which all things in turn bud and bloom;
-and then takes refuge in the miserable metaphor of saying that ‘creeds'
-are merely worms that have got into the bark--the devil knows how.
-If all things are equally unfolded from one natural root,
-the worms of oppression are as natural as the [[Flowers|flowers]] of [[Freedom|freedom]].
-If they came otherwise, then the universe is not universal;
-and the worm in the tree of [[Nature|nature]] is as theological as the snake in
-the tree of knowledge.  There might indeed be a war of [[spring]] sproutings
-against dead [[Leaves|leaves]] or decayed fruit; but that only means that each is
-equally good in its season.  And what is the good of a revolutionary
-creed that cannot denounce a [[Tyrant|tyrant]] in his season of strength?
-I believe that this folly of making Pantheism the creed of liberals
-has a great deal to do with the decline of liberal politics and
-the reactions against it to-day. Hertha, explaining (at some length)
-that she is everything, remarks, if I remember right:
-
-I the mark that is missed
-And the arrows that miss.
-
-It will strike a thoughtful mind that such arrows are rather
-likely to miss.  William Tell will not fight [[Well|well]] for [[Freedom]],
-if he thinks that he and his bow and the target and the [[Tyrant|tyrant]]
-are all the same thing.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-I
-
-La maggior parte dei titoli e degli slogan moderni deve dire l'esatto contrario
-di ciò che intende, per amor di brevità.  Talvolta gli organizzatori
-sono così sinceri da spiegarlo immediatamente dopo
-e da usare il sottotitolo per dimostrare che il titolo non è vero.
-Poco tempo fa apparve una serie di racconti brevi, che proclamava nel
-suo titolo editoriale come ciascun autore avesse scelto il proprio racconto migliore.
-Ma il curatore, che evidentemente soffriva d'intelligenza (e talvolta ciò
-comporta davvero [[Suffering|sofferenza]]), era perfettamente [[Well|ben]] consapevole che nessun
-autore sano di mente avrebbe detto che un dato racconto fosse assolutamente e sotto ogni aspetto
-il migliore; anzi, un autore sano di mente è più probabile che sia ossessionato
-dall'orrido [[Memory|ricordo]] del peggiore.  Così il curatore aggiunse una nota
-per spiegare il proprio titolo, che diceva necessario, perché
-era tanto più breve.  È vero che la frase «Il mio racconto migliore»
-è assai più breve della frase, più esatta, «Ritengo che questo
-racconto sia uno dei relativamente pochi in base ai quali potrei forse acconsentire
-che la gente giudichi la mia intelligenza generale, quale essa è».
-È altresì vero che la frase «Questo racconto è pura spazzatura»
-è assai più breve della frase «Questo racconto non è,
-a considerarlo con equità, del tutto e assoluta spazzatura».
-Ma esse non significano, a dir poco, la stessa cosa.
-E scegliere la più breve sarebbe imprudente, persino in un esperto di pubblicità.
-
-Un problema alquanto simile sorse a proposito di una recente selezione di
-saggi inglesi, compiuta e introdotta dal defunto Lord Birkenhead;
-era un'ottima selezione, e non era [[Alone|sola]] a [[Suffering|soffrire]]
-di quel particolare problema.  A grandi lettere sul frontespizio
-doveva recare il titolo di «I Cento Migliori Saggi Inglesi»;
-e nelle primissime parole dell'introduzione Lord Birkenhead
-disse assai sensatamente che non poteva esistere alcuna cosa
-come «I Cento Migliori Saggi Inglesi».  Proseguì,
-in maniera assai franca e affabile, spiegando che non era
-soltanto impossibile per chiunque fare alcunché se non una ragionevole
-raccolta di saggi molto buoni, ma che egli (per parte sua)
-aveva praticamente incluso tutti i saggi semplicemente perché gli piacevano.
-Davvero non so che altro si possa fare con i saggi se non
-apprezzarli — salvo, s'intende, chi abbia reazioni più cupe,
-disprezzarli.  Di tutte le forme di letteratura essi sono forse
-la meno adatta a essere incasellata negli antichi canoni di giudizio,
-con cui in un certo senso era possibile legiferare per il dramma
-o per l'ode.  Ma, ad ogni modo, c'è qualcosa di un po' divertente
-nelle pretese della pubblicità e degli affari che ci impongono di rovesciare
-tutto ciò che intendiamo, per indurre qualcuno ad ascoltare ciò che diciamo.
-C'è qualcosa di comico nel sacrificare ogni cosa al titolo a effetto,
-lasciando che esso imponga all'articolo di reggersi a testa in giù.
-
-Non ho menzionato questo libro di saggi, tuttavia, allo scopo di
-passare in rassegna tutti i suoi saggi, e ancor meno la [[Nature|natura]] del [[Essay|saggio]].
-Devo ringraziare il compilatore per avermi restituito molte belle cose che
-posso aver trascurato o dimenticato; ma quella che specialmente ha colto
-il mio occhio e riguarda la mia penna è un eccellente studio di un critico da poco
-scomparso su un poeta che egli conosceva [[Well|bene]] e di cui scrive mirabilmente.
-Mi riferisco al [[Essay|saggio]] su Swinburne di Sir [[Edmund]] Gosse.
-Contiene una quantità di materia su cui altri potrebbero pronunciarsi
-con assai più autorità di me.  Incontrai Swinburne una sola volta; e sebbene
-incontrassi Gosse moltissime volte, non pretenderei mai d'aver oltrepassato
-la guardia di quel forbito stocco più di quanto lo fece chiunque altro.
-Ricevetti da lui una lettera su Stevenson, che considero uno
-dei grandi onori della mia vita; per il resto, ero soltanto uno
-di una folla di uomini più giovani con cui egli era insieme ironico e gentile.
-Ma c'è qualcosa nel quadro generale e assai vivido
-di Swinburne che egli presenta, che m'induce a indugiare
-forse tardivamente su quel nome e su quella poesia che, come poesia,
-era diritta come una freccia canora; ma, considerata come [[philosophy|filosofia]],
-mi ha sempre lasciato assai perplesso.  In altre parole, se consideriamo
-il bersaglio della freccia, troviamo che non c'è nulla da considerare;
-non è nemmeno uno schema concentrico tanto chiaro quanto un labirinto;
-è piuttosto un labirinto senza centro.
-
-In parole povere, dopo aver riletto il [[Essay|saggio]] di Gosse, mi chiesi:
-«Che diamine intendeva Swinburne?  O intendeva qualcosa?»
-È abbastanza facile, dopo aver letto alcune delle poesie, specialmente le più tarde,
-più lunghe e in genere minori, dire che non intendeva nulla;
-che era semplicemente un musicista sviato; un pazzo con qualcosa
-che gli cantava in testa; una creatura fremente di danza repressa;
-una creatura che non poteva fare a meno di schiumare dalla bocca fiori
-e fiamme e sangue e boccioli e il mare.  Ma non è facile,
-dopo aver letto il saggio di Gosse, negare che egli in qualche modo prendesse
-qualcosa sul serio; e qualcosa che non era sé stesso, se i suoi contemporanei
-dubitavano che fosse qualcosa capace di produrre giustizia.
-Egli prendeva davvero consiglio da Landor e da Hugo come se fossero gravi dèi
-intenti a creare un mondo di giustizia o di retta ragione.  Sembrava davvero
-credere che una qualche Utopia dipendesse dal successo di Cavour
-o dal fallimento di Luigi Bonaparte.  Ma come esattamente lo connettesse
-nella sua mente con lo strano pessimismo licenzioso, simile all'ultima
-crapula di un suicida, che riempie i suoi altri versi, non riesco a capirlo;
-né come supponesse che qualcosa, foss'anche un'Utopia, potesse esser fatto
-di tali fiamme e schiumeggiamenti.  Di certo non sperava in una repubblica
-in cui tutti i cittadini fossero liberi di mordersi a vicenda.
-Di certo i segugi della primavera, così fiduciosi sulle tracce dell'inverno,
-non schiumavano tutti dalla bocca come cani rabbiosi?
-
-Eppure è il suo gusto in fatto di virtù, più che il suo gusto in fatto di vizio, che
-mi lascia perplesso.  Nel peggiore e più universalmente famoso di tutti i suoi versi
-scrisse qualcosa sui rapimenti e le rose del vizio e i gigli
-e i languori della virtù.  La cosa ovvia da dire è che egli non poteva
-saperne molto della virtù, se la riteneva languida.  Ma, per rendergli
-giustizia, i suoi stessi appelli alla virtù pubblica erano tutt'altro che languidi.
-Quando parlava del suo tipo prediletto, che si soleva chiamare
-Virtù Repubblicana, sembra aver compreso tutta quella romana
-dignità e decenza che fece a brandelli nei suoi deliri sul sesso.
-Usò un'altra frase insensata a proposito di qualcuno «nobile e nudo
-e antico».  Uno studioso tanto buono avrebbe dovuto sapere che, nel reale
-mondo dell'antichità, un nobile non avrebbe mai desiderato essere nudo.
-L'avrebbe considerato il marchio non di un nobile, bensì di uno schiavo.
-In realtà Swinburne sapeva tutto questo; anzi, difficilmente si poteva essere
-amico di un romano tanto antico quale Landor senza saperlo.
-
-Poi, di nuovo, la [[philosophy|filosofia]] pagana che egli oppose al [[Christianity|Cristianesimo]]
-è un cumulo di simili incoerenze.  In [[songs|Songs]] Before Sunrise
-egli offre il panteismo come religione della rivoluzione.
-Il panteismo può essere o no un buon credo per un filosofo; il panteismo è
-certamente, in un senso, un ottimo credo per un filosofo pagano.
-Ma il panteismo è un credo disperato per un rivoluzionario.  Se tutte le cose
-sono egualmente divine, allora il [[Tyrant|tiranno]] e il bigotto sono divini quanto
-il tribuno e il cercatore di [[Truth|verità]].  In «Hertha» egli immagina l'universo
-come un vasto albero, da cui tutte le cose a turno germogliano e fioriscono;
-e poi si rifugia nella miserabile metafora del dire che i «credi»
-sono meri vermi penetrati nella corteccia — il diavolo sa come.
-Se tutte le cose si dispiegano egualmente da una sola radice naturale,
-i vermi dell'oppressione sono naturali quanto i [[Flowers|fiori]] della [[Freedom|libertà]].
-Se venissero altrimenti, allora l'universo non è universale;
-e il verme nell'albero della [[Nature|natura]] è teologico quanto il serpente nel-
-l'albero della conoscenza.  Vi potrebbe in verità essere una guerra di germogli [[spring|primaverili]]
-contro [[Leaves|foglie]] morte o frutti marci; ma ciò significa soltanto che ciascuno è
-egualmente buono nella sua stagione.  E che giova un credo rivoluzionario
-che non può denunciare un [[Tyrant|tiranno]] nella sua stagione di forza?
-Credo che questa follia di fare del panteismo il credo dei liberali
-abbia molto a che vedere con il declino della politica liberale e
-con le reazioni contro di essa oggi.  Hertha, spiegando (con una certa ampiezza)
-di essere ogni cosa, osserva, se ben ricordo:
-
-Io il bersaglio che è mancato
-E le frecce che mancano.
-
-Colpirà una mente riflessiva che simili frecce siano piuttosto
-propense a mancare.  Guglielmo Tell non combatterà [[Well|bene]] per la [[Freedom|Libertà]],
-se pensa che egli e il suo arco e il bersaglio e il [[Tyrant|tiranno]]
-siano tutti la stessa cosa.
-
-
-
-<span class="atom-split" data-atom="chapter_03" data-title="GKC All is Grist — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
-
-
-II
-
-When I say that Swinburne's praise of virtue puzzles me more than his
-praise of vice, I do not (I may respectfully explain) mean that my
-natural taste in villainy makes me regard it as normal to be a [[Villain|villain]],
-or that my brain reels with [[Mystification|mystification]] when I contemplate any
-proved and public act of decency.  I do not mean that crime is second
-[[Nature|nature]] to me, or that I set myself like a sleuth to track down a man
-and discover why he is not a murderer.  What I mean is this:
-that in the case of Swinburne the loose poetry was really loose.
-It was flowing, both in form and spirit, and rather after
-the fashion of the flowing of [[Tears|tears]].  It was [[Self|self]]-expression,
-but it was not [[Self|self]]-assertion; and it certainly was not any other kind
-of assertion, like the assertion of a definite heresy or sophistry.
-In so far as there was some thing indefensible, he was not defending it.
-He was, perhaps, describing it, and it may be a bad thing that such
-things should be described; but such things are not in any case
-the materials of a moral or political system.  Such hysterical,
-half-involuntary confession is not uncommon in literature,
-especially when (as is almost certainly the case with Swinburne)
-the literary man is confessing what he has never done.
-Anyhow, over the whole of this department of the poet's work there
-is a spirit of appealing and almost engaging [[Despair|despair]], a pessimism
-about the impotence of man.  He does not pretend that the pagan gods
-are good; he only confesses that they are strong--or, in other words,
-that he is weak.  What puzzled me was how he really reconciled
-this part of his work with the other part, in which he professed
-to see a new [[Hope|hope]] for men in the virile and universal Republic,
-in which men should become heroes in becoming citizens.
-There is hardly a hopeful line in [[songs|Songs]] Before Sunrise that could
-not be answered with a hopeless line from [[Poems]] and Ballads.
-Perhaps the most musical and magical verse in ‘Dolores'
-is that in open glorification of ‘the implacable beautiful [[Tyrant|tyrant]]';
-and what is the use, after that, of denouncing all tyrants as implacable?
-What is the good of remaining rigid with horror of Napoleon,
-when you have flung yourself in a [[Lyric|lyric]] ecstasy before Nero?  What is
-the use of saying that you bring seed by [[Night|night]] to sow, that men
-to come may reap and eat by day, when it is apparently so very easy
-for anybody at any moment to be tired of ‘what may come hereafter
-to men that sow and reap'?  What is the sense of shouting about
-crowning man as the king of all things, if ‘the [[Crown|crown]] of his life,
-as it closes, is darkness; the fruit thereof [[Dust|dust]]'?
-
-Nevertheless, there is another sense in which I would not dwell
-harshly upon the looser type of verse, as part of the real problem
-of this strange personality.  I say that the poet in the poem does
-not defend himself.  The poet in prose was less wise, and defended
-himself indefensibly.  I do not care so much as Gosse did for the ranting
-and railing prose in which Swinburne accused his critics of being
-unjust to him; nevertheless, I think that they were unjust to him.
-I do not mean that he was right; but I do mean that they were wrong.
-The critics were wrong in the worst way in which a critic can
-be wrong about a poem:  in being wrong about the point of it.
-The poem may contain a great deal that is pointless or beside the point;
-it may contain a great deal that is lawless and shameless and really
-at enmity with morals--in which case I am so old-fashioned as to
-think that it ought to be denounced and even destroyed as such.
-But even in condemning it we must condemn its point; and to condemn
-its point we must comprehend its point.  We must understand what
-the man has really said, and not hang him as a heretic for saying
-something he never said.  Now much of the wilder part of [[Poems]]
-and Ballads is not meant to describe merely a rush towards the antics
-of animal [[Love|love]], but a reaction from the [[Tragedy|tragedy]] of true [[Love|love]].
-The poet, in a morbid mood of mockery, is bitterly professing
-(we might say pretending) to prefer the gutter to the palaces
-of ideal enchantment, from which he has been cast forth
-by fickleness or [[Pride|pride]].  It is not a nice state of mind.
-it is a very nasty state of mind; but it is that state of mind
-and no other, and not the state of one who always preferred
-gutters because he was a gutter-snipe. To put the point shortly,
-we cannot understand the poem called ‘Dolores' without reading
-it side by side with the poem called ‘The Triumph of [[Time]]'.
-For instance, I have condemned, as every sane critic has condemned,
-all that hydrophobiac nonsense of Swinburne about people ‘biting'
-each other.  But it is not quite fair, even to that infernal nonsense,
-to read it without remembering the verse to which it in some sense
-leads up, and which is the true inner burden of the poem:
-
-In yesterday's reach and to-morrow's,
-Out of sight though they lie of to-day,
-There have been and there yet shall be sorrows
-That smite not and bite not in play.
-The life and the love thou despisest,
-These hurt us indeed, and in vain--
-O wise among women, and wisest,
-Our Lady of Pain.
-
-I do not think the heartless woman is the wisest woman; I venture
-to doubt whether Swinburne thought so.  But Swinburne did say so;
-and this is what he said; and what he meant was that the pains
-of a nobler love are so much more terrible that perhaps the coarse
-person has the best of it, after all.  He repeats this main theme
-again and again in the poem, so that it is incredible that the critics
-did not see the point, even if they were right to condemn it.
-He says it plainly in the lines
-
-No thorns go as deep as a rose's,
-And love is more cruel than lust;
-Time turns the old days to derision,
-Our loves into corpses and wives,
-And marriage and death and division
-Make barren our lives.
-
-And it is then only that he says, in words horrible enough,
-but with something of a moral horror:
-
-And pale with the past we draw nigh thee
-And satiate with comfortless hours:
-And we know thee, how all men belie thee,
-And we gather the fruit of thy flowers.
-
-Or again, elsewhere:
-
-Of languors rekindled and rallied,
-Of barren delights and unclean;
-Things monstrous and fruitless; a pallid
-And poisonous queen.
-
-This is not praising sin, though it may be practising it.
-This is rather emphasizing the disgust that is the alternative
-to the disappointment.  It is about as idolatrous as a disappointed
-lover talking to a bottle of gin, and saying, ‘Damn your ugly face,
-I believe you're my only friend, after all!'
-
-I have dwelt a little on this particular point about the poet,
-because it involves this very vital matter of the point about a poem.
-Even when it is understood, the attitude may be condemned--
-indeed, it should be condemned.  But it should not be condemned
-for being something else.  It is a morbid view, an unmanly view,
-a view immoral in its practical effects.  But, above all, as seems to me
-most striking in this connexion, it is the very worst possible view
-of life for anybody proposing to raise a political revolution and to
-found a perfect Republic.  That is the question which I asked first:
-why it is that men who seem so keen on reforming the world equip
-themselves with the worst possible philosophies for doing it?
-It is hard to say whether poor Swinburne was a more hopeless
-revolutionist in being a pessimist or in being an optimist.
-His pantheism could only prove that the worst things are good,
-because they are a part of [[Nature|nature]]; and his pessimism only proved
-that the best things are bad, because they are doomed to disappointment
-and sorrow.  It seems either way a weak motive for dying on a
-barricade for the belief that one thing is better than another.
-We need a fixed idea of [[Truth|truth]] to establish a reign of justice.
-But though Swinburne could hardly have given justice to men, he has
-a right to get justice from them.  And I say this to show that on one
-point he did not receive justice--not even the justice that condemns.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-II
-
-Quando dico che la lode della virtù in Swinburne mi lascia più perplesso della sua
-lode del vizio, non intendo (mi sia permesso spiegarlo rispettosamente) che il mio
-naturale gusto per la scelleratezza mi faccia ritenere normale essere un [[Villain|malvagio]],
-o che il mio cervello vacilli per la [[Mystification|perplessità]] quando contemplo un qualsiasi
-comprovato e pubblico atto di decenza.  Non intendo che il crimine sia per me una seconda
-[[Nature|natura]], o che mi metta come un segugio a dar la caccia a un uomo
-per scoprire perché non sia un assassino.  Ciò che intendo è questo:
-che nel caso di Swinburne la poesia sciolta era davvero sciolta.
-Era fluente, tanto nella forma quanto nello spirito, e piuttosto alla
-maniera del fluire delle [[Tears|lacrime]].  Era [[Self|auto]]-espressione,
-ma non era [[Self|auto]]-affermazione; e non era di certo alcun altro tipo
-di affermazione, come l'affermazione di una precisa eresia o sofistica.
-Nella misura in cui vi era qualcosa d'indifendibile, egli non lo difendeva.
-Lo descriveva, forse, e può darsi che sia un male che simili
-cose siano descritte; ma simili cose non sono in ogni caso
-i materiali di un sistema morale o politico.  Una simile isterica,
-semi-involontaria confessione non è rara in letteratura,
-specialmente quando (come è quasi certamente il caso di Swinburne)
-il letterato confessa ciò che non ha mai fatto.
-Comunque, sull'intero settore di quest'opera del poeta aleggia
-uno spirito di [[Despair|disperazione]] accorata e quasi accattivante, un pessimismo
-circa l'impotenza dell'uomo.  Egli non pretende che gli dèi pagani
-siano buoni; confessa soltanto che sono forti — o, in altre parole,
-che egli è debole.  Ciò che mi lasciava perplesso era come conciliasse davvero
-questa parte della sua opera con l'altra parte, in cui professava
-di scorgere una nuova [[Hope|speranza]] per gli uomini nella virile e universale Repubblica,
-in cui gli uomini sarebbero divenuti eroi divenendo cittadini.
-Non c'è quasi un solo verso di speranza in [[songs|Songs]] Before Sunrise che non
-si potrebbe controbattere con un verso disperato di [[Poems]] and Ballads.
-Forse il verso più musicale e magico di «Dolores»
-è quello in aperta glorificazione dell'«implacabile bellissimo [[Tyrant|tiranno]]»;
-e a che giova, dopo ciò, denunciare tutti i tiranni come implacabili?
-Che pro rimanere rigidi d'orrore per Napoleone,
-quando ti sei prostrato in un'estasi [[Lyric|lirica]] dinanzi a Nerone?  A che
-giova dire che porti il seme di [[Night|notte]] a seminare, affinché gli uomini
-a venire mietano e mangino di giorno, quando pare così facile
-per chiunque, in qualsiasi momento, stancarsi di «ciò che potrà venire in seguito
-agli uomini che seminano e mietono»?  Che senso ha gridare di
-incoronare l'uomo re di tutte le cose, se «la [[Crown|corona]] della sua vita,
-al suo chiudersi, è tenebra; il frutto di essa è [[Dust|polvere]]»?
-
-Nondimeno, vi è un altro senso in cui non vorrei indugiare
-severamente sul tipo più sciolto di verso, come parte del vero problema
-di questa strana personalità.  Dico che il poeta nella poesia
-non difende sé stesso.  Il poeta in prosa fu meno saggio, e difese
-sé stesso indifendibilmente.  Non m'importa tanto quanto importava a Gosse della sbraitante
-e inveente prosa in cui Swinburne accusava i suoi critici d'essere
-ingiusti con lui; nondimeno, penso che furono ingiusti con lui.
-Non intendo che egli avesse ragione; ma intendo che essi avevano torto.
-I critici sbagliarono nel modo peggiore in cui un critico può
-sbagliare su una poesia: sbagliando sul suo intento.
-La poesia può contenere moltissimo che è privo d'intento o fuori tema;
-può contenere moltissimo che è illegale e svergognato e davvero
-in inimicizia con la morale — nel qual caso io sono tanto all'antica da
-ritenere che debba essere denunciata e persino distrutta in quanto tale.
-Ma anche nel condannarla dobbiamo condannarne l'intento; e per condannarne
-l'intento dobbiamo comprenderne l'intento.  Dobbiamo capire ciò che
-l'uomo ha realmente detto, e non impiccarlo come eretico per aver detto
-qualcosa che non ha mai detto.  Ora, gran parte della porzione più sfrenata di [[Poems]]
-and Ballads non intende descrivere semplicemente uno slancio verso le buffonate
-dell'[[Love|amore]] animale, bensì una reazione alla [[Tragedy|tragedia]] del vero [[Love|amore]].
-Il poeta, in un morboso umore di scherno, professa amaramente
-(potremmo dire finge) di preferire il rigagnolo ai palazzi
-dell'ideale incanto, da cui è stato scacciato
-per volubilità o [[Pride|orgoglio]].  Non è un bello stato d'animo,
-è uno stato d'animo assai brutto; ma è quello stato d'animo
-e nessun altro, e non lo stato di chi ha sempre preferito
-i rigagnoli perché era un monello di strada.  Per dirla in breve,
-non possiamo comprendere la poesia intitolata «Dolores» senza leggerla
-fianco a fianco con la poesia intitolata «The Triumph of [[Time]]».
-Per esempio, ho condannato, come ogni critico sano ha condannato,
-tutta quell'idrofoba insensatezza di Swinburne sul fatto che la gente si «morda»
-a vicenda.  Ma non è del tutto giusto, nemmeno verso quell'infernale insensatezza,
-leggerla senza ricordare il verso a cui essa in un certo senso
-conduce, e che è il vero intimo tema della poesia:
-
-Nella distesa di ieri e in quella di domani,
-Benché giacciano fuori dalla vista dell'oggi,
-Vi sono stati e vi saranno ancora dolori
-Che non colpiscono né mordono per gioco.
-La vita e l'amore che tu disprezzi,
-Questi ci feriscono davvero, e invano —
-O saggia fra le donne, e sapientissima,
-Nostra Signora del Dolore.
-
-Non penso che la donna senza cuore sia la donna più saggia; oso
-dubitare che Swinburne lo pensasse.  Ma Swinburne lo disse davvero;
-e questo è ciò che disse; e ciò che intendeva era che le pene
-di un amore più nobile sono tanto più terribili che forse la persona
-volgare, dopo tutto, la spunta.  Egli ripete questo tema principale
-più e più volte nella poesia, sicché è incredibile che i critici
-non ne vedessero l'intento, anche se avevano ragione a condannarlo.
-Lo dice chiaramente nei versi
-
-Nessuna spina va tanto in fondo quanto quella d'una rosa,
-E l'amore è più crudele della brama;
-Il Tempo volge i vecchi giorni in derisione,
-I nostri amori in cadaveri e in mogli,
-E il matrimonio e la morte e la divisione
-Rendono sterili le nostre vite.
-
-Ed è solo allora che egli dice, con parole abbastanza orribili,
-ma con qualcosa di un orrore morale:
-
-E pallidi del passato ci accostiamo a te
-E satolli d'ore senza conforto:
-E ti conosciamo, come tutti gli uomini ti smentiscono,
-E cogliamo il frutto dei tuoi fiori.
-
-Oppure, di nuovo, altrove:
-
-Di languori riaccesi e ravvivati,
-Di sterili delizie e immonde;
-Cose mostruose e infruttuose; una pallida
-E velenosa regina.
-
-Questo non è lodare il peccato, per quanto possa essere praticarlo.
-Questo è piuttosto porre l'accento sul disgusto che è l'alternativa
-alla delusione.  È idolatrico press'a poco quanto un deluso
-amante che parli a una bottiglia di gin, e dica: «Maledetta la tua brutta faccia,
-credo che tu sia il mio unico amico, dopo tutto!»
-
-Ho indugiato un poco su questo particolare punto riguardo al poeta,
-perché esso coinvolge questa vitalissima questione dell'intento di una poesia.
-Anche quando è compreso, l'atteggiamento può essere condannato —
-anzi, dovrebbe essere condannato.  Ma non dovrebbe essere condannato
-per essere qualcos'altro.  È una visione morbosa, una visione non virile,
-una visione immorale nei suoi effetti pratici.  Ma, soprattutto, come mi pare
-più notevole a questo proposito, è la peggiore visione possibile
-della vita per chiunque si proponga di suscitare una rivoluzione politica e di
-fondare una Repubblica perfetta.  È questa la domanda che ho posto per primo:
-perché mai gli uomini che paiono così ansiosi di riformare il mondo si equipaggiano
-con le peggiori filosofie possibili per farlo?
-È difficile dire se il povero Swinburne fosse un rivoluzionario più
-disperato nell'essere pessimista o nell'essere ottimista.
-Il suo panteismo poteva solo provare che le cose peggiori sono buone,
-perché sono parte della [[Nature|natura]]; e il suo pessimismo provava soltanto
-che le cose migliori sono cattive, perché sono condannate alla delusione
-e al dolore.  In un modo o nell'altro pare un debole motivo per morire su una
-barricata per la convinzione che una cosa sia migliore di un'altra.
-Ci occorre un'idea fissa di [[Truth|verità]] per instaurare un regno di giustizia.
-Ma per quanto Swinburne difficilmente avrebbe potuto rendere giustizia agli uomini, egli ha
-diritto a riceverne giustizia.  E dico questo per mostrare che su un
-punto egli non ricevette giustizia — nemmeno la giustizia che condanna.
-
-
-
-<span class="atom-split" data-atom="chapter_04" data-title="GKC All is Grist — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
-
-
-III
-
-‘I have lived long enough to have seen one thing; that love hath an end'
-: so runs, as every one will remember, the first line of Swinburne's
-beautiful ‘[[Hymn]] to Proserpine', the [[Dirge|dirge]] of a Pagan farewell
-to Paganism.  I have lived long enough to have seen one thing:
-that the [[Love|love]] of Swinburne hath an end.  Not the admiration
-for Swinburne, not the reasonable appreciation of Swinburne;
-but that particular sort of [[Love|love]] of Swinburne which is like first
-[[Love|love]] in youth; perhaps (one is sometimes tempted to think) the only
-sort of real [[Love|love]] that Swinburne had ever known anything about.
-I mean that sort of mere [[Magic|magic]] spell or enchantment by Swinburne
-which so many young people had in the period when, as Mr. Maurice Baring
-has very truly said, Swinburne seems to them not so much the best
-poet as simply the only poet.  That sort of [[Love|love]] certainly hath
-an end, and most of us have lived long enough to have seen it.
-But it is symbolic of something larger; something that is connected
-not only with Swinburne but with Swinburnianism.
-
-Any man who has ‘lived long enough', and not actually stiffened with
-negative prejudices, must know by this time that the modern movement,
-and every sort of movement, revolves round and round the central
-pillar of the old Christian tradition.  It is emphatically not
-leaving that pillar behind and rushing right away towards some
-other winning-post. He knows it, for the perfectly simple reason
-that he has seen it careering in two totally opposite directions,
-and neither of them has succeeded in getting away from the post.
-He knows by this time, if he is honest with himself, that the whole
-thing is like a Giddy-go-Round at a country fair; full of rush and
-romantic enjoyment, but revolving upon one centre that supports all the
-movement by being immovable.  It is a glorious experience for children,
-and therefore for poets, who share some of the wisdom of children.
-It consists of concentric rings of hobby-horses, and a hobby-horse,
-like a hobby, is a very good thing to make a thinking man happy.
-In most Giddy-go-Rounds there are outer and inner rings of horses,
-nearer or farther from the centre; and this also is an allegory.
-In some Giddy-go-Rounds there are revolving rings going opposite
-ways which greatly increase the godlike quality of giddiness.
-In youth or childhood especially it is quite natural to be giddy,
-even if it sometimes begins to approximate to being sick.
-Of recent literature we might not unfairly say that for the first
-half of the time most of the modern poets were giddy; and now,
-in the second half of the time, most of the modern poets are sick.
-
-Anyhow, Swinburne certainly rode his hobby-horse with great fire
-and galloping energy; but, when he fancied that he was leaving
-the central pillar of his childhood and his ancestry far behind him,
-he was really very far from the truth and very close to the pillar.
-And this is proved by the fact that both poetical and political energy
-has since galloped in exactly the contrary direction, and is still
-at about the same distance from the ancestral pillar as before.
-If anything, the more recent poets have tended to take their
-seats in the ring rather nearer to the pillar.  I imagine that,
-if a man had gone round during the last ten years asking the young
-people in the literary world whom they regarded as their hope
-and hero and leader, as the young of my youth regarded Swinburne,
-it is about ten to one that most of them would mention Mr. T. S. Eliot.
-Wilde said that Swinburne was the only true Laureate, for the poet praised
-by all other poets must always wear the laurel.  Laurels and Laureates
-are not so much in the style of our more cynical and realistic time.
-But the young would probably support a young writer like Mr. Eliot,
-even if both the young writer and the young admirers strike older
-people as being rather prematurely old.  Anyhow, the two poets
-will serve very well for the purpose of the parallel about poetry,
-or even about polities.
-
-Swinburne was quite certain that he and the world were galloping
-nearer and nearer to the new Republic and farther and farther from
-the old Church.  If he had been right, it would follow that, by this time,
-a man like Mr. Eliot would be even more Republican than Swinburne.
-As a matter of fact, Mr. Eliot has actually walked out of a real
-live Republic and loudly announced that he is a Royalist.
-He has also declared himself an Anglo-Catholic; but I will
-leave the religious issue as far as possible on one side,
-because though even more cogent, it is much more controversial.
-But even in the matter of politics alone it is quite obvious that there
-has been a complete turn of the tide.  The Giddy-go-Round is going round
-in the reverse direction, but, I am glad to say, almost as giddily.
-The wooden horses are galloping with their accustomed fervour,
-and I hope the children who ride on them are happy.  But one who has
-seen this complete reversal of direction since his own childhood
-will not be able to believe that the horses broke loose from the post
-and fled farther and farther from it for ever merely because he was
-told so in childhood.  Swinburne's hobby-horse, for instance,
-had a perpetual impulse to gallop away over the Alps into Italy.
-But suppose he were really still galloping into Italy,
-like Hannibal or Napoleon, what sort of Italy would he find?
-The political ideas of Swinburne were the ideas of the period of Mazzini.
-The political ideas of T. S. Eliot are the ideas of the period
-of Mussolini.  It might be maintained that the new poet is
-nearer than the old poet to the old Roman pillar of the past.
-It is stark nonsense to pretend that he is farther away.
-
-I am not dealing directly here with things that I myself accept
-or reject.  Many people know that my own religion is even more Roman
-than Mr. Eliot's. Yet in many ways my polities are much more Republican
-than Mr. Eliot's; perhaps much more really Republican than Swinburne's.
-But I am not arguing about what is right or wrong in any of these views.
-I am merely remarking on an actual revolution in the ideas of a large
-number of other people, and noting that it is more like the real
-revolution of a Giddy-go-Round than the mere riot of a gallop.
-In one sense it has been revolution against revolution; that is,
-revolution in one sense reversing revolution in the other.
-But nobody who notes the real movements in the intellectual world
-just now can doubt that there has been the sort of revolution that
-is called a reaction.  In every country there has been a reaction,
-either practical or theoretical, in the direction of order
-or authority or classical proportion.  In France there has been
-the influence of Maurras in polities or Maritain in religion.
-In Germany the Dictator is a vision; in Italy he is a fact.
-In America, the very last place where most people would look
-for classicism, there has arisen an influential school of classicists.
-Those who most fiercely denounce the fact most clearly confess the fact,
-and even their denunciations are witness that it is a universal fact.
-The enemies of Humanism denounce it as intellectual Fascism.
-The enemies of Fascism make fun of its appeal to classicism.
-Of course a man may quite reasonably like some of these things
-and dislike others, or like some parts of these things and
-dislike others, as I do myself.  But, as I say, I am not talking
-about likes or dislikes, and I am not talking about myself.
-I am talking about the way the world goes round, and pointing out
-that the moral world does not always go round from right to left.
-It is, at this moment, most certainly going round from left to right.
-The sort of political party that used to be called the Extreme Right
-contains more of the really original modern thinkers than the party
-called the Extreme Left.  I only say that the return to traditionalism
-is obviously strong enough to be recognized.  I think it very possible
-that it may soon be strong enough to be resisted.  But when strange
-survivals of the Swinburnian epoch, imagining themselves to be young,
-actually come and tell me that the world is on an endless march
-towards wild liberty and indefinite relaxation of everything,
-I really do not know how to answer, except with a melancholy smile.
-‘I have lived long enough to have seen one thing . . .'
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-III
-
-«Ho vissuto abbastanza a lungo da vedere una cosa: che l'amore ha una fine»: così recita, come tutti ricorderanno, il primo verso del bellissimo «[[Hymn|Inno]] a Proserpina» di Swinburne, il [[Dirge|canto funebre]] di un pagano che dà l'addio al Paganesimo. Io ho vissuto abbastanza a lungo da vedere una cosa: che l'[[Love|amore]] per Swinburne ha una fine. Non l'ammirazione per Swinburne, non la ragionevole stima di Swinburne; ma quella particolare specie di [[Love|amore]] per Swinburne che somiglia al primo [[Love|amore]] della giovinezza; forse (talvolta si è tentati di pensarlo) l'unica specie di vero [[Love|amore]] di cui Swinburne abbia mai saputo qualcosa. Intendo quella sorta di puro incantesimo o sortilegio [[Magic|magico]] esercitato da Swinburne, che tanti giovani provarono nell'epoca in cui, come ha detto con molta verità il signor Maurice Baring, Swinburne appariva loro non tanto il miglior poeta quanto semplicemente l'unico poeta. Quella specie di [[Love|amore]] ha certamente una fine, e i più tra noi hanno vissuto abbastanza a lungo da vederla. Ma è il simbolo di qualcosa di più grande; qualcosa che è legato non solo a Swinburne ma allo swinburnianesimo.
-
-Ogni uomo che abbia «vissuto abbastanza a lungo», e non si sia davvero irrigidito in pregiudizi negativi, deve ormai sapere che il movimento moderno, e ogni sorta di movimento, gira e rigira attorno al pilastro centrale dell'antica tradizione cristiana. Non sta affatto lasciandosi alle spalle quel pilastro per slanciarsi verso qualche altro traguardo. Lo sa, per la ragione semplicissima che l'ha visto correre in due direzioni del tutto opposte, e nessuna delle due è riuscita ad allontanarsi dal palo. Ormai sa, se è onesto con sé stesso, che tutta la faccenda è come una giostra a un luna park di campagna; piena di corsa e di godimento romantico, ma che ruota su un unico centro il quale sostiene tutto il movimento appunto perché resta immobile. È un'esperienza gloriosa per i bambini, e perciò per i poeti, che condividono un po' della saggezza dei bambini. È fatta di anelli concentrici di cavalli a dondolo, e un cavallo a dondolo, come un pallino, è un'ottima cosa per rendere felice un uomo che pensa. Nella maggior parte delle giostre vi sono anelli di cavalli esterni e interni, più vicini o più lontani dal centro; e anche questo è un'allegoria. In certe giostre vi sono anelli che ruotano in senso opposto, i quali accrescono grandemente la divina qualità della vertigine. Nella giovinezza, e specialmente nell'infanzia, è del tutto naturale avere il capogiro, anche se talvolta comincia ad assomigliare alla nausea. Della letteratura recente potremmo dire, senza troppa ingiustizia, che nella prima metà del tempo la maggior parte dei poeti moderni aveva il capogiro; e ora, nella seconda metà del tempo, la maggior parte dei poeti moderni ha la nausea.
-
-Comunque sia, Swinburne cavalcò certamente il suo cavallo a dondolo con gran foga ed energia galoppante; ma, quando si illudeva di lasciarsi molto indietro il pilastro centrale della sua infanzia e del suo lignaggio, era in realtà lontanissimo dalla verità e vicinissimo al pilastro. E ciò è provato dal fatto che da allora l'energia poetica e politica ha galoppato esattamente nella direzione contraria, e si trova ancora press'a poco alla stessa distanza dal pilastro ancestrale di prima. Semmai, i poeti più recenti hanno teso a prendere posto nell'anello un po' più vicino al pilastro. Immagino che, se qualcuno negli ultimi dieci anni fosse andato in giro a chiedere ai giovani del mondo letterario chi considerassero la loro speranza, il loro eroe e la loro guida, come i giovani della mia giovinezza consideravano Swinburne, vi siano circa dieci probabilità su una che i più menzionerebbero il signor T. S. Eliot. Wilde disse che Swinburne era l'unico vero Poeta Laureato, poiché il poeta lodato da tutti gli altri poeti deve sempre portare l'alloro. Allori e Poeti Laureati non sono molto nello stile del nostro tempo più cinico e realistico. Ma i giovani sosterrebbero probabilmente un giovane scrittore come il signor Eliot, anche se tanto il giovane scrittore quanto i giovani ammiratori appaiono alle persone più anziane invecchiati piuttosto prematuramente. Comunque sia, i due poeti serviranno benissimo allo scopo del parallelo sulla poesia, o anche sulla politica.
-
-Swinburne era assolutamente certo che lui e il mondo galoppassero sempre più vicino alla nuova Repubblica e sempre più lontano dalla vecchia Chiesa. Se avesse avuto ragione, ne seguirebbe che, a quest'ora, un uomo come il signor Eliot sarebbe ancor più repubblicano di Swinburne. Di fatto, il signor Eliot è addirittura uscito da una Repubblica reale e vivente e ha annunciato ad alta voce di essere un Realista. Si è anche dichiarato anglo-cattolico; ma lascerò per quanto possibile da parte la questione religiosa, perché, benché ancora più stringente, è assai più controversa. Ma anche solo in materia di politica è del tutto evidente che vi è stata una completa inversione della marea. La giostra gira in senso inverso, ma, mi fa piacere dirlo, quasi altrettanto vertiginosamente. I cavalli di legno galoppano col loro consueto fervore, e spero che i bambini che li montano siano felici. Ma chi ha visto questa completa inversione di direzione fin dalla propria infanzia non potrà credere che i cavalli si siano staccati dal palo e ne siano fuggiti sempre più lontano per sempre solo perché gli fu detto così da bambino. Il cavallo a dondolo di Swinburne, per esempio, aveva un impulso perpetuo a galoppare oltre le Alpi fino in Italia. Ma supponiamo che stesse davvero ancora galoppando verso l'Italia, come Annibale o Napoleone: quale sorta di Italia troverebbe? Le idee politiche di Swinburne erano le idee dell'epoca di Mazzini. Le idee politiche di T. S. Eliot sono le idee dell'epoca di Mussolini. Si potrebbe sostenere che il nuovo poeta è più vicino del vecchio poeta all'antico pilastro romano del passato. È pura assurdità pretendere che ne sia più lontano.
-
-Non mi occupo qui direttamente delle cose che io stesso accetto o rifiuto. Molti sanno che la mia religione è ancora più romana di quella del signor Eliot. Eppure per molti versi la mia politica è assai più repubblicana di quella del signor Eliot; forse assai più realmente repubblicana di quella di Swinburne. Ma non sto discutendo di ciò che è giusto o sbagliato in nessuna di queste opinioni. Mi limito a osservare un'effettiva rivoluzione nelle idee di un gran numero di altre persone, e a notare che essa somiglia più alla vera rivoluzione di una giostra che al semplice tumulto di un galoppo. In un certo senso è stata rivoluzione contro rivoluzione; vale a dire, rivoluzione in un senso che rovescia la rivoluzione nell'altro. Ma nessuno che osservi i reali movimenti del mondo intellettuale in questo momento può dubitare che vi sia stata quella sorta di rivoluzione che si chiama reazione. In ogni paese vi è stata una reazione, pratica o teorica, nella direzione dell'ordine o dell'autorità o della proporzione classica. In Francia vi è stata l'influenza di Maurras in politica o di Maritain in religione. In Germania il Dittatore è una visione; in Italia è un fatto. In America, l'ultimissimo luogo in cui i più cercherebbero il classicismo, è sorta un'influente scuola di classicisti. Coloro che più ferocemente denunciano il fatto lo confessano più chiaramente, e persino le loro denunce testimoniano che è un fatto universale. I nemici dell'Umanesimo lo denunciano come Fascismo intellettuale. I nemici del Fascismo si fanno beffe del suo richiamo al classicismo. Naturalmente un uomo può ben ragionevolmente amare alcune di queste cose e detestarne altre, o amare alcune parti di queste cose e detestarne altre, come faccio io stesso. Ma, come dico, non sto parlando di simpatie o antipatie, e non sto parlando di me stesso. Sto parlando del modo in cui il mondo gira, e faccio notare che il mondo morale non gira sempre da destra a sinistra. In questo momento, con ogni certezza, sta girando da sinistra a destra. Il tipo di partito politico che si soleva chiamare Estrema Destra contiene più veri pensatori moderni originali del partito chiamato Estrema Sinistra. Dico solo che il ritorno al tradizionalismo è evidentemente abbastanza forte da essere riconosciuto. Ritengo assai possibile che presto possa essere abbastanza forte da essere combattuto. Ma quando strani superstiti dell'epoca swinburniana, immaginando di essere giovani, vengono davvero a dirmi che il mondo è in una marcia senza fine verso la libertà sfrenata e il rilassamento indefinito di ogni cosa, davvero non so come rispondere, se non con un malinconico sorriso. «Ho vissuto abbastanza a lungo da vedere una cosa...»
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="GKC All is Grist — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -12513,3 +11767,749 @@ Ma consiglio simili scrittori di rimandare lo studio del [[Body|Corpo]] e cominc
 a impiegare la Mente.
 
 XXXVIII.  Su Algernon Charles Swinburne
+
+
+
+<span class="atom-split" data-atom="chapter_02" data-title="GKC All is Grist — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
+
+
+I
+
+MOST modern titles and slogans have to say the precise opposite
+of what they mean, for the sake of brevity.  Sometimes the organizers
+are so sincere as to explain this immediately afterwards
+and use the sub-title to prove that the title is not true.
+A little while ago a series of short stories appeared, proclaiming in
+its editorial title that each author had chosen his best story.
+But the editor, who evidently suffered from intelligence (and it does
+sometimes entail [[Suffering|suffering]]) was perfectly [[Well|well]] aware that no sane
+author would say that any one story was absolutely and in all aspects
+the best; indeed, a sane author is more likely to be hag-ridden
+with the horrid [[Memory|memory]] of the worst.  So the editor put in a note
+to explain his own title, which he said was necessary, because it
+was so much shorter.  It is true that the phrase ‘My Best Story'
+is very much shorter than the more accurate phrase, ‘I think this
+story is one of the relatively few by which I might possibly consent
+that people should judge my general intelligence, such as it is.'
+It is also true that the phrase, ‘This story is utter trash,'
+is very much shorter than the phrase, ‘This story is not,
+fairly considered, quite absolute and utter trash.'
+But they do not, to say the least of it, mean the same thing.
+And selecting the shorter would be unwise, even in a publicity expert.
+
+A rather similar problem arose about a recent selection of
+English essays, made and introduced by the late Lord Birkenhead;
+it was a very good selection, and it was not [[Alone|alone]] in [[Suffering|suffering]]
+from the particular problem.  In large letters on the title-page
+it had to bear the title of ‘The Hundred Best English Essays';
+and in the very first words of the introduction Lord Birkenhead
+very sensibly said that there could not possibly be any such
+thing as ‘The Hundred Best English Essays'.  He proceeded,
+in a very frank and sympathetic manner, to explain that it was not
+only impossible for anybody to do anything except make a reasonable
+collection of very good essays, but that he (for his part)
+had practically put in all the essays simply because he liked them.
+I really do not know what else any one can do with essays but
+like them--except, of course, if one has such darker reactions,
+dislike them.  Of all forms of literature they are perhaps
+the least to be fitted into the old standards of judgment,
+by which it was in some sense possible to legislate for the drama
+or the ode.  But, anyhow, there is something a little amusing
+about the claims of publicity and business requiring us to reverse
+all that we mean, in order to get anybody to listen to what we say.
+There is something comic about sacrificing everything to the headline,
+and letting it insist that the article should stand on its head.
+
+I did not mention this book of essays, however, with the purpose of
+passing in review all its essays, still less the [[Nature|nature]] of the [[Essay|essay]].
+I have to thank the compiler for bringing back many good things I
+may have missed or forgotten; but the one which especially caught
+my eye and concerns my pen is an excellent study by a critic lately
+dead of a poet whom he knew [[Well|well]] and of whom he writes admirably.
+I refer to the [[Essay|essay]] on Swinburne by Sir [[Edmund]] Gosse.
+It contains any amount of matter upon which others could pronounce
+with much more authority than I. I only met Swinburne once; and though
+I met Gosse a great many times, I would never claim to have got
+past the guard of that polished rapier any more than anybody else.
+I had one letter from him about Stevenson, which I count one
+of the great honours of my life; for the rest, I was only one
+of a crowd of younger men to whom he was both ironical and kind.
+But there is something in the general and very vivid picture
+of Swinburne which he presents, which makes me inclined to linger
+perhaps belatedly on that name and on the poetry which, as poetry,
+was as straight as a singing arrow; but, considered as [[philosophy]],
+has always puzzled me very much.  In other words, if we consider
+the target of the arrow, we find that there is nothing to consider;
+it is not even so clear a concentric scheme as a labyrinth;
+it is rather a labyrinth without a centre.
+
+In plain words, after reading Gosse's [[Essay|essay]] again, I asked myself:
+‘What on earth did Swinbume mean?  Or did he mean anything?'
+It is easy enough after reading some of the poems, especially the later,
+longer and generally lesser poems, to say that he did not mean anything;
+that he was simply a musician gone wrong; a lunatic with something
+singing in his head; a creature throbbing with suppressed dancing;
+a creature who could not help foaming at the mouth with flowers
+and flames and blood and blossoms and the sea.  But it is not easy,
+after reading Gosse's essay, to deny that he did in some way take
+something seriously; and something not himself, if his contemporaries
+doubted whether it was something for making righteousness.
+He did take counsel with Landor and Hugo as if they were grave gods
+making a world of justice or right reason.  He did seem really
+to believe that some Utopia depended on the success of Cavour
+or the failure of Louis Bonaparte.  But exactly how he connected it
+in his own mind with the queer licentious pessimism, like the last
+debauch of a suicide, which fills his other verses, I cannot make out;
+nor how he supposed that anything, even a Utopia, could be made
+of such flames and foamings.  Surely he was not hoping for a republic
+in which all the citizens should be free to bite each other.
+Surely the hounds of spring, so hopefully upon winter's traces,
+were not all of them frothing at the mouth like mad dogs?
+
+Yet it is his taste in virtue rather than his taste in vice that
+puzzles me.  In the worst and most world-famous of all his lines
+he wrote something about the raptures and roses of vice and the lilies
+and languors of virtue.  The obvious thing to say is that he cannot
+have known much about virtue, if he thought it was languid.  But, to do
+him justice, his own appeals to public virtue were anything but languid.
+When talking of his own favourite type, which used to be called
+Republican Virtue, he seems to have understood all that Roman
+dignity and decency which he tore to rags in his ravings about sex.
+He used another nonsensical tag about somebody being ‘noble and nude
+and antique'.  So good a scholar ought to have known that, in the real
+world of the antique, a noble would never have desired to be nude.
+He would have regarded it as the mark, not of a noble, but a slave.
+In reality Swinburne knew all this; indeed one could hardly be
+a friend of so very ancient a Roman as Landor without knowing it.
+
+Then, again, the Pagan [[philosophy]] he pitted against [[Christianity]]
+is a mass of such inconsistencies.  In [[songs|Songs]] Before Sunrise
+he offers Pantheism as the religion of the revolution.
+Pantheism may or may not be a good creed for a philosopher; Pantheism is
+certainly in one sense a very good creed for a Pagan philosopher.
+But Pantheism is a hopeless creed for a revolutionist.  If all things
+are equally divine, then the [[Tyrant|tyrant]] and the bigot are as divine as
+the tribune and the [[Truth|truth]]-seeker. In ‘Hertha' he imagines the universe
+as a vast tree, out of which all things in turn bud and bloom;
+and then takes refuge in the miserable metaphor of saying that ‘creeds'
+are merely worms that have got into the bark--the devil knows how.
+If all things are equally unfolded from one natural root,
+the worms of oppression are as natural as the [[Flowers|flowers]] of [[Freedom|freedom]].
+If they came otherwise, then the universe is not universal;
+and the worm in the tree of [[Nature|nature]] is as theological as the snake in
+the tree of knowledge.  There might indeed be a war of [[spring]] sproutings
+against dead [[Leaves|leaves]] or decayed fruit; but that only means that each is
+equally good in its season.  And what is the good of a revolutionary
+creed that cannot denounce a [[Tyrant|tyrant]] in his season of strength?
+I believe that this folly of making Pantheism the creed of liberals
+has a great deal to do with the decline of liberal politics and
+the reactions against it to-day. Hertha, explaining (at some length)
+that she is everything, remarks, if I remember right:
+
+I the mark that is missed
+And the arrows that miss.
+
+It will strike a thoughtful mind that such arrows are rather
+likely to miss.  William Tell will not fight [[Well|well]] for [[Freedom]],
+if he thinks that he and his bow and the target and the [[Tyrant|tyrant]]
+are all the same thing.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I
+
+La maggior parte dei titoli e degli slogan moderni deve dire l'esatto contrario
+di ciò che intende, per amor di brevità.  Talvolta gli organizzatori
+sono così sinceri da spiegarlo immediatamente dopo
+e da usare il sottotitolo per dimostrare che il titolo non è vero.
+Poco tempo fa apparve una serie di racconti brevi, che proclamava nel
+suo titolo editoriale come ciascun autore avesse scelto il proprio racconto migliore.
+Ma il curatore, che evidentemente soffriva d'intelligenza (e talvolta ciò
+comporta davvero [[Suffering|sofferenza]]), era perfettamente [[Well|ben]] consapevole che nessun
+autore sano di mente avrebbe detto che un dato racconto fosse assolutamente e sotto ogni aspetto
+il migliore; anzi, un autore sano di mente è più probabile che sia ossessionato
+dall'orrido [[Memory|ricordo]] del peggiore.  Così il curatore aggiunse una nota
+per spiegare il proprio titolo, che diceva necessario, perché
+era tanto più breve.  È vero che la frase «Il mio racconto migliore»
+è assai più breve della frase, più esatta, «Ritengo che questo
+racconto sia uno dei relativamente pochi in base ai quali potrei forse acconsentire
+che la gente giudichi la mia intelligenza generale, quale essa è».
+È altresì vero che la frase «Questo racconto è pura spazzatura»
+è assai più breve della frase «Questo racconto non è,
+a considerarlo con equità, del tutto e assoluta spazzatura».
+Ma esse non significano, a dir poco, la stessa cosa.
+E scegliere la più breve sarebbe imprudente, persino in un esperto di pubblicità.
+
+Un problema alquanto simile sorse a proposito di una recente selezione di
+saggi inglesi, compiuta e introdotta dal defunto Lord Birkenhead;
+era un'ottima selezione, e non era [[Alone|sola]] a [[Suffering|soffrire]]
+di quel particolare problema.  A grandi lettere sul frontespizio
+doveva recare il titolo di «I Cento Migliori Saggi Inglesi»;
+e nelle primissime parole dell'introduzione Lord Birkenhead
+disse assai sensatamente che non poteva esistere alcuna cosa
+come «I Cento Migliori Saggi Inglesi».  Proseguì,
+in maniera assai franca e affabile, spiegando che non era
+soltanto impossibile per chiunque fare alcunché se non una ragionevole
+raccolta di saggi molto buoni, ma che egli (per parte sua)
+aveva praticamente incluso tutti i saggi semplicemente perché gli piacevano.
+Davvero non so che altro si possa fare con i saggi se non
+apprezzarli — salvo, s'intende, chi abbia reazioni più cupe,
+disprezzarli.  Di tutte le forme di letteratura essi sono forse
+la meno adatta a essere incasellata negli antichi canoni di giudizio,
+con cui in un certo senso era possibile legiferare per il dramma
+o per l'ode.  Ma, ad ogni modo, c'è qualcosa di un po' divertente
+nelle pretese della pubblicità e degli affari che ci impongono di rovesciare
+tutto ciò che intendiamo, per indurre qualcuno ad ascoltare ciò che diciamo.
+C'è qualcosa di comico nel sacrificare ogni cosa al titolo a effetto,
+lasciando che esso imponga all'articolo di reggersi a testa in giù.
+
+Non ho menzionato questo libro di saggi, tuttavia, allo scopo di
+passare in rassegna tutti i suoi saggi, e ancor meno la [[Nature|natura]] del [[Essay|saggio]].
+Devo ringraziare il compilatore per avermi restituito molte belle cose che
+posso aver trascurato o dimenticato; ma quella che specialmente ha colto
+il mio occhio e riguarda la mia penna è un eccellente studio di un critico da poco
+scomparso su un poeta che egli conosceva [[Well|bene]] e di cui scrive mirabilmente.
+Mi riferisco al [[Essay|saggio]] su Swinburne di Sir [[Edmund]] Gosse.
+Contiene una quantità di materia su cui altri potrebbero pronunciarsi
+con assai più autorità di me.  Incontrai Swinburne una sola volta; e sebbene
+incontrassi Gosse moltissime volte, non pretenderei mai d'aver oltrepassato
+la guardia di quel forbito stocco più di quanto lo fece chiunque altro.
+Ricevetti da lui una lettera su Stevenson, che considero uno
+dei grandi onori della mia vita; per il resto, ero soltanto uno
+di una folla di uomini più giovani con cui egli era insieme ironico e gentile.
+Ma c'è qualcosa nel quadro generale e assai vivido
+di Swinburne che egli presenta, che m'induce a indugiare
+forse tardivamente su quel nome e su quella poesia che, come poesia,
+era diritta come una freccia canora; ma, considerata come [[philosophy|filosofia]],
+mi ha sempre lasciato assai perplesso.  In altre parole, se consideriamo
+il bersaglio della freccia, troviamo che non c'è nulla da considerare;
+non è nemmeno uno schema concentrico tanto chiaro quanto un labirinto;
+è piuttosto un labirinto senza centro.
+
+In parole povere, dopo aver riletto il [[Essay|saggio]] di Gosse, mi chiesi:
+«Che diamine intendeva Swinburne?  O intendeva qualcosa?»
+È abbastanza facile, dopo aver letto alcune delle poesie, specialmente le più tarde,
+più lunghe e in genere minori, dire che non intendeva nulla;
+che era semplicemente un musicista sviato; un pazzo con qualcosa
+che gli cantava in testa; una creatura fremente di danza repressa;
+una creatura che non poteva fare a meno di schiumare dalla bocca fiori
+e fiamme e sangue e boccioli e il mare.  Ma non è facile,
+dopo aver letto il saggio di Gosse, negare che egli in qualche modo prendesse
+qualcosa sul serio; e qualcosa che non era sé stesso, se i suoi contemporanei
+dubitavano che fosse qualcosa capace di produrre giustizia.
+Egli prendeva davvero consiglio da Landor e da Hugo come se fossero gravi dèi
+intenti a creare un mondo di giustizia o di retta ragione.  Sembrava davvero
+credere che una qualche Utopia dipendesse dal successo di Cavour
+o dal fallimento di Luigi Bonaparte.  Ma come esattamente lo connettesse
+nella sua mente con lo strano pessimismo licenzioso, simile all'ultima
+crapula di un suicida, che riempie i suoi altri versi, non riesco a capirlo;
+né come supponesse che qualcosa, foss'anche un'Utopia, potesse esser fatto
+di tali fiamme e schiumeggiamenti.  Di certo non sperava in una repubblica
+in cui tutti i cittadini fossero liberi di mordersi a vicenda.
+Di certo i segugi della primavera, così fiduciosi sulle tracce dell'inverno,
+non schiumavano tutti dalla bocca come cani rabbiosi?
+
+Eppure è il suo gusto in fatto di virtù, più che il suo gusto in fatto di vizio, che
+mi lascia perplesso.  Nel peggiore e più universalmente famoso di tutti i suoi versi
+scrisse qualcosa sui rapimenti e le rose del vizio e i gigli
+e i languori della virtù.  La cosa ovvia da dire è che egli non poteva
+saperne molto della virtù, se la riteneva languida.  Ma, per rendergli
+giustizia, i suoi stessi appelli alla virtù pubblica erano tutt'altro che languidi.
+Quando parlava del suo tipo prediletto, che si soleva chiamare
+Virtù Repubblicana, sembra aver compreso tutta quella romana
+dignità e decenza che fece a brandelli nei suoi deliri sul sesso.
+Usò un'altra frase insensata a proposito di qualcuno «nobile e nudo
+e antico».  Uno studioso tanto buono avrebbe dovuto sapere che, nel reale
+mondo dell'antichità, un nobile non avrebbe mai desiderato essere nudo.
+L'avrebbe considerato il marchio non di un nobile, bensì di uno schiavo.
+In realtà Swinburne sapeva tutto questo; anzi, difficilmente si poteva essere
+amico di un romano tanto antico quale Landor senza saperlo.
+
+Poi, di nuovo, la [[philosophy|filosofia]] pagana che egli oppose al [[Christianity|Cristianesimo]]
+è un cumulo di simili incoerenze.  In [[songs|Songs]] Before Sunrise
+egli offre il panteismo come religione della rivoluzione.
+Il panteismo può essere o no un buon credo per un filosofo; il panteismo è
+certamente, in un senso, un ottimo credo per un filosofo pagano.
+Ma il panteismo è un credo disperato per un rivoluzionario.  Se tutte le cose
+sono egualmente divine, allora il [[Tyrant|tiranno]] e il bigotto sono divini quanto
+il tribuno e il cercatore di [[Truth|verità]].  In «Hertha» egli immagina l'universo
+come un vasto albero, da cui tutte le cose a turno germogliano e fioriscono;
+e poi si rifugia nella miserabile metafora del dire che i «credi»
+sono meri vermi penetrati nella corteccia — il diavolo sa come.
+Se tutte le cose si dispiegano egualmente da una sola radice naturale,
+i vermi dell'oppressione sono naturali quanto i [[Flowers|fiori]] della [[Freedom|libertà]].
+Se venissero altrimenti, allora l'universo non è universale;
+e il verme nell'albero della [[Nature|natura]] è teologico quanto il serpente nel-
+l'albero della conoscenza.  Vi potrebbe in verità essere una guerra di germogli [[spring|primaverili]]
+contro [[Leaves|foglie]] morte o frutti marci; ma ciò significa soltanto che ciascuno è
+egualmente buono nella sua stagione.  E che giova un credo rivoluzionario
+che non può denunciare un [[Tyrant|tiranno]] nella sua stagione di forza?
+Credo che questa follia di fare del panteismo il credo dei liberali
+abbia molto a che vedere con il declino della politica liberale e
+con le reazioni contro di essa oggi.  Hertha, spiegando (con una certa ampiezza)
+di essere ogni cosa, osserva, se ben ricordo:
+
+Io il bersaglio che è mancato
+E le frecce che mancano.
+
+Colpirà una mente riflessiva che simili frecce siano piuttosto
+propense a mancare.  Guglielmo Tell non combatterà [[Well|bene]] per la [[Freedom|Libertà]],
+se pensa che egli e il suo arco e il bersaglio e il [[Tyrant|tiranno]]
+siano tutti la stessa cosa.
+
+
+
+<span class="atom-split" data-atom="chapter_03" data-title="GKC All is Grist — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
+
+
+II
+
+When I say that Swinburne's praise of virtue puzzles me more than his
+praise of vice, I do not (I may respectfully explain) mean that my
+natural taste in villainy makes me regard it as normal to be a [[Villain|villain]],
+or that my brain reels with [[Mystification|mystification]] when I contemplate any
+proved and public act of decency.  I do not mean that crime is second
+[[Nature|nature]] to me, or that I set myself like a sleuth to track down a man
+and discover why he is not a murderer.  What I mean is this:
+that in the case of Swinburne the loose poetry was really loose.
+It was flowing, both in form and spirit, and rather after
+the fashion of the flowing of [[Tears|tears]].  It was [[Self|self]]-expression,
+but it was not [[Self|self]]-assertion; and it certainly was not any other kind
+of assertion, like the assertion of a definite heresy or sophistry.
+In so far as there was some thing indefensible, he was not defending it.
+He was, perhaps, describing it, and it may be a bad thing that such
+things should be described; but such things are not in any case
+the materials of a moral or political system.  Such hysterical,
+half-involuntary confession is not uncommon in literature,
+especially when (as is almost certainly the case with Swinburne)
+the literary man is confessing what he has never done.
+Anyhow, over the whole of this department of the poet's work there
+is a spirit of appealing and almost engaging [[Despair|despair]], a pessimism
+about the impotence of man.  He does not pretend that the pagan gods
+are good; he only confesses that they are strong--or, in other words,
+that he is weak.  What puzzled me was how he really reconciled
+this part of his work with the other part, in which he professed
+to see a new [[Hope|hope]] for men in the virile and universal Republic,
+in which men should become heroes in becoming citizens.
+There is hardly a hopeful line in [[songs|Songs]] Before Sunrise that could
+not be answered with a hopeless line from [[Poems]] and Ballads.
+Perhaps the most musical and magical verse in ‘Dolores'
+is that in open glorification of ‘the implacable beautiful [[Tyrant|tyrant]]';
+and what is the use, after that, of denouncing all tyrants as implacable?
+What is the good of remaining rigid with horror of Napoleon,
+when you have flung yourself in a [[Lyric|lyric]] ecstasy before Nero?  What is
+the use of saying that you bring seed by [[Night|night]] to sow, that men
+to come may reap and eat by day, when it is apparently so very easy
+for anybody at any moment to be tired of ‘what may come hereafter
+to men that sow and reap'?  What is the sense of shouting about
+crowning man as the king of all things, if ‘the [[Crown|crown]] of his life,
+as it closes, is darkness; the fruit thereof [[Dust|dust]]'?
+
+Nevertheless, there is another sense in which I would not dwell
+harshly upon the looser type of verse, as part of the real problem
+of this strange personality.  I say that the poet in the poem does
+not defend himself.  The poet in prose was less wise, and defended
+himself indefensibly.  I do not care so much as Gosse did for the ranting
+and railing prose in which Swinburne accused his critics of being
+unjust to him; nevertheless, I think that they were unjust to him.
+I do not mean that he was right; but I do mean that they were wrong.
+The critics were wrong in the worst way in which a critic can
+be wrong about a poem:  in being wrong about the point of it.
+The poem may contain a great deal that is pointless or beside the point;
+it may contain a great deal that is lawless and shameless and really
+at enmity with morals--in which case I am so old-fashioned as to
+think that it ought to be denounced and even destroyed as such.
+But even in condemning it we must condemn its point; and to condemn
+its point we must comprehend its point.  We must understand what
+the man has really said, and not hang him as a heretic for saying
+something he never said.  Now much of the wilder part of [[Poems]]
+and Ballads is not meant to describe merely a rush towards the antics
+of animal [[Love|love]], but a reaction from the [[Tragedy|tragedy]] of true [[Love|love]].
+The poet, in a morbid mood of mockery, is bitterly professing
+(we might say pretending) to prefer the gutter to the palaces
+of ideal enchantment, from which he has been cast forth
+by fickleness or [[Pride|pride]].  It is not a nice state of mind.
+it is a very nasty state of mind; but it is that state of mind
+and no other, and not the state of one who always preferred
+gutters because he was a gutter-snipe. To put the point shortly,
+we cannot understand the poem called ‘Dolores' without reading
+it side by side with the poem called ‘The Triumph of [[Time]]'.
+For instance, I have condemned, as every sane critic has condemned,
+all that hydrophobiac nonsense of Swinburne about people ‘biting'
+each other.  But it is not quite fair, even to that infernal nonsense,
+to read it without remembering the verse to which it in some sense
+leads up, and which is the true inner burden of the poem:
+
+In yesterday's reach and to-morrow's,
+Out of sight though they lie of to-day,
+There have been and there yet shall be sorrows
+That smite not and bite not in play.
+The life and the love thou despisest,
+These hurt us indeed, and in vain--
+O wise among women, and wisest,
+Our Lady of Pain.
+
+I do not think the heartless woman is the wisest woman; I venture
+to doubt whether Swinburne thought so.  But Swinburne did say so;
+and this is what he said; and what he meant was that the pains
+of a nobler love are so much more terrible that perhaps the coarse
+person has the best of it, after all.  He repeats this main theme
+again and again in the poem, so that it is incredible that the critics
+did not see the point, even if they were right to condemn it.
+He says it plainly in the lines
+
+No thorns go as deep as a rose's,
+And love is more cruel than lust;
+Time turns the old days to derision,
+Our loves into corpses and wives,
+And marriage and death and division
+Make barren our lives.
+
+And it is then only that he says, in words horrible enough,
+but with something of a moral horror:
+
+And pale with the past we draw nigh thee
+And satiate with comfortless hours:
+And we know thee, how all men belie thee,
+And we gather the fruit of thy flowers.
+
+Or again, elsewhere:
+
+Of languors rekindled and rallied,
+Of barren delights and unclean;
+Things monstrous and fruitless; a pallid
+And poisonous queen.
+
+This is not praising sin, though it may be practising it.
+This is rather emphasizing the disgust that is the alternative
+to the disappointment.  It is about as idolatrous as a disappointed
+lover talking to a bottle of gin, and saying, ‘Damn your ugly face,
+I believe you're my only friend, after all!'
+
+I have dwelt a little on this particular point about the poet,
+because it involves this very vital matter of the point about a poem.
+Even when it is understood, the attitude may be condemned--
+indeed, it should be condemned.  But it should not be condemned
+for being something else.  It is a morbid view, an unmanly view,
+a view immoral in its practical effects.  But, above all, as seems to me
+most striking in this connexion, it is the very worst possible view
+of life for anybody proposing to raise a political revolution and to
+found a perfect Republic.  That is the question which I asked first:
+why it is that men who seem so keen on reforming the world equip
+themselves with the worst possible philosophies for doing it?
+It is hard to say whether poor Swinburne was a more hopeless
+revolutionist in being a pessimist or in being an optimist.
+His pantheism could only prove that the worst things are good,
+because they are a part of [[Nature|nature]]; and his pessimism only proved
+that the best things are bad, because they are doomed to disappointment
+and sorrow.  It seems either way a weak motive for dying on a
+barricade for the belief that one thing is better than another.
+We need a fixed idea of [[Truth|truth]] to establish a reign of justice.
+But though Swinburne could hardly have given justice to men, he has
+a right to get justice from them.  And I say this to show that on one
+point he did not receive justice--not even the justice that condemns.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+II
+
+Quando dico che la lode della virtù in Swinburne mi lascia più perplesso della sua
+lode del vizio, non intendo (mi sia permesso spiegarlo rispettosamente) che il mio
+naturale gusto per la scelleratezza mi faccia ritenere normale essere un [[Villain|malvagio]],
+o che il mio cervello vacilli per la [[Mystification|perplessità]] quando contemplo un qualsiasi
+comprovato e pubblico atto di decenza.  Non intendo che il crimine sia per me una seconda
+[[Nature|natura]], o che mi metta come un segugio a dar la caccia a un uomo
+per scoprire perché non sia un assassino.  Ciò che intendo è questo:
+che nel caso di Swinburne la poesia sciolta era davvero sciolta.
+Era fluente, tanto nella forma quanto nello spirito, e piuttosto alla
+maniera del fluire delle [[Tears|lacrime]].  Era [[Self|auto]]-espressione,
+ma non era [[Self|auto]]-affermazione; e non era di certo alcun altro tipo
+di affermazione, come l'affermazione di una precisa eresia o sofistica.
+Nella misura in cui vi era qualcosa d'indifendibile, egli non lo difendeva.
+Lo descriveva, forse, e può darsi che sia un male che simili
+cose siano descritte; ma simili cose non sono in ogni caso
+i materiali di un sistema morale o politico.  Una simile isterica,
+semi-involontaria confessione non è rara in letteratura,
+specialmente quando (come è quasi certamente il caso di Swinburne)
+il letterato confessa ciò che non ha mai fatto.
+Comunque, sull'intero settore di quest'opera del poeta aleggia
+uno spirito di [[Despair|disperazione]] accorata e quasi accattivante, un pessimismo
+circa l'impotenza dell'uomo.  Egli non pretende che gli dèi pagani
+siano buoni; confessa soltanto che sono forti — o, in altre parole,
+che egli è debole.  Ciò che mi lasciava perplesso era come conciliasse davvero
+questa parte della sua opera con l'altra parte, in cui professava
+di scorgere una nuova [[Hope|speranza]] per gli uomini nella virile e universale Repubblica,
+in cui gli uomini sarebbero divenuti eroi divenendo cittadini.
+Non c'è quasi un solo verso di speranza in [[songs|Songs]] Before Sunrise che non
+si potrebbe controbattere con un verso disperato di [[Poems]] and Ballads.
+Forse il verso più musicale e magico di «Dolores»
+è quello in aperta glorificazione dell'«implacabile bellissimo [[Tyrant|tiranno]]»;
+e a che giova, dopo ciò, denunciare tutti i tiranni come implacabili?
+Che pro rimanere rigidi d'orrore per Napoleone,
+quando ti sei prostrato in un'estasi [[Lyric|lirica]] dinanzi a Nerone?  A che
+giova dire che porti il seme di [[Night|notte]] a seminare, affinché gli uomini
+a venire mietano e mangino di giorno, quando pare così facile
+per chiunque, in qualsiasi momento, stancarsi di «ciò che potrà venire in seguito
+agli uomini che seminano e mietono»?  Che senso ha gridare di
+incoronare l'uomo re di tutte le cose, se «la [[Crown|corona]] della sua vita,
+al suo chiudersi, è tenebra; il frutto di essa è [[Dust|polvere]]»?
+
+Nondimeno, vi è un altro senso in cui non vorrei indugiare
+severamente sul tipo più sciolto di verso, come parte del vero problema
+di questa strana personalità.  Dico che il poeta nella poesia
+non difende sé stesso.  Il poeta in prosa fu meno saggio, e difese
+sé stesso indifendibilmente.  Non m'importa tanto quanto importava a Gosse della sbraitante
+e inveente prosa in cui Swinburne accusava i suoi critici d'essere
+ingiusti con lui; nondimeno, penso che furono ingiusti con lui.
+Non intendo che egli avesse ragione; ma intendo che essi avevano torto.
+I critici sbagliarono nel modo peggiore in cui un critico può
+sbagliare su una poesia: sbagliando sul suo intento.
+La poesia può contenere moltissimo che è privo d'intento o fuori tema;
+può contenere moltissimo che è illegale e svergognato e davvero
+in inimicizia con la morale — nel qual caso io sono tanto all'antica da
+ritenere che debba essere denunciata e persino distrutta in quanto tale.
+Ma anche nel condannarla dobbiamo condannarne l'intento; e per condannarne
+l'intento dobbiamo comprenderne l'intento.  Dobbiamo capire ciò che
+l'uomo ha realmente detto, e non impiccarlo come eretico per aver detto
+qualcosa che non ha mai detto.  Ora, gran parte della porzione più sfrenata di [[Poems]]
+and Ballads non intende descrivere semplicemente uno slancio verso le buffonate
+dell'[[Love|amore]] animale, bensì una reazione alla [[Tragedy|tragedia]] del vero [[Love|amore]].
+Il poeta, in un morboso umore di scherno, professa amaramente
+(potremmo dire finge) di preferire il rigagnolo ai palazzi
+dell'ideale incanto, da cui è stato scacciato
+per volubilità o [[Pride|orgoglio]].  Non è un bello stato d'animo,
+è uno stato d'animo assai brutto; ma è quello stato d'animo
+e nessun altro, e non lo stato di chi ha sempre preferito
+i rigagnoli perché era un monello di strada.  Per dirla in breve,
+non possiamo comprendere la poesia intitolata «Dolores» senza leggerla
+fianco a fianco con la poesia intitolata «The Triumph of [[Time]]».
+Per esempio, ho condannato, come ogni critico sano ha condannato,
+tutta quell'idrofoba insensatezza di Swinburne sul fatto che la gente si «morda»
+a vicenda.  Ma non è del tutto giusto, nemmeno verso quell'infernale insensatezza,
+leggerla senza ricordare il verso a cui essa in un certo senso
+conduce, e che è il vero intimo tema della poesia:
+
+Nella distesa di ieri e in quella di domani,
+Benché giacciano fuori dalla vista dell'oggi,
+Vi sono stati e vi saranno ancora dolori
+Che non colpiscono né mordono per gioco.
+La vita e l'amore che tu disprezzi,
+Questi ci feriscono davvero, e invano —
+O saggia fra le donne, e sapientissima,
+Nostra Signora del Dolore.
+
+Non penso che la donna senza cuore sia la donna più saggia; oso
+dubitare che Swinburne lo pensasse.  Ma Swinburne lo disse davvero;
+e questo è ciò che disse; e ciò che intendeva era che le pene
+di un amore più nobile sono tanto più terribili che forse la persona
+volgare, dopo tutto, la spunta.  Egli ripete questo tema principale
+più e più volte nella poesia, sicché è incredibile che i critici
+non ne vedessero l'intento, anche se avevano ragione a condannarlo.
+Lo dice chiaramente nei versi
+
+Nessuna spina va tanto in fondo quanto quella d'una rosa,
+E l'amore è più crudele della brama;
+Il Tempo volge i vecchi giorni in derisione,
+I nostri amori in cadaveri e in mogli,
+E il matrimonio e la morte e la divisione
+Rendono sterili le nostre vite.
+
+Ed è solo allora che egli dice, con parole abbastanza orribili,
+ma con qualcosa di un orrore morale:
+
+E pallidi del passato ci accostiamo a te
+E satolli d'ore senza conforto:
+E ti conosciamo, come tutti gli uomini ti smentiscono,
+E cogliamo il frutto dei tuoi fiori.
+
+Oppure, di nuovo, altrove:
+
+Di languori riaccesi e ravvivati,
+Di sterili delizie e immonde;
+Cose mostruose e infruttuose; una pallida
+E velenosa regina.
+
+Questo non è lodare il peccato, per quanto possa essere praticarlo.
+Questo è piuttosto porre l'accento sul disgusto che è l'alternativa
+alla delusione.  È idolatrico press'a poco quanto un deluso
+amante che parli a una bottiglia di gin, e dica: «Maledetta la tua brutta faccia,
+credo che tu sia il mio unico amico, dopo tutto!»
+
+Ho indugiato un poco su questo particolare punto riguardo al poeta,
+perché esso coinvolge questa vitalissima questione dell'intento di una poesia.
+Anche quando è compreso, l'atteggiamento può essere condannato —
+anzi, dovrebbe essere condannato.  Ma non dovrebbe essere condannato
+per essere qualcos'altro.  È una visione morbosa, una visione non virile,
+una visione immorale nei suoi effetti pratici.  Ma, soprattutto, come mi pare
+più notevole a questo proposito, è la peggiore visione possibile
+della vita per chiunque si proponga di suscitare una rivoluzione politica e di
+fondare una Repubblica perfetta.  È questa la domanda che ho posto per primo:
+perché mai gli uomini che paiono così ansiosi di riformare il mondo si equipaggiano
+con le peggiori filosofie possibili per farlo?
+È difficile dire se il povero Swinburne fosse un rivoluzionario più
+disperato nell'essere pessimista o nell'essere ottimista.
+Il suo panteismo poteva solo provare che le cose peggiori sono buone,
+perché sono parte della [[Nature|natura]]; e il suo pessimismo provava soltanto
+che le cose migliori sono cattive, perché sono condannate alla delusione
+e al dolore.  In un modo o nell'altro pare un debole motivo per morire su una
+barricata per la convinzione che una cosa sia migliore di un'altra.
+Ci occorre un'idea fissa di [[Truth|verità]] per instaurare un regno di giustizia.
+Ma per quanto Swinburne difficilmente avrebbe potuto rendere giustizia agli uomini, egli ha
+diritto a riceverne giustizia.  E dico questo per mostrare che su un
+punto egli non ricevette giustizia — nemmeno la giustizia che condanna.
+
+
+
+<span class="atom-split" data-atom="chapter_04" data-title="GKC All is Grist — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+
+
+III
+
+‘I have lived long enough to have seen one thing; that love hath an end'
+: so runs, as every one will remember, the first line of Swinburne's
+beautiful ‘[[Hymn]] to Proserpine', the [[Dirge|dirge]] of a Pagan farewell
+to Paganism.  I have lived long enough to have seen one thing:
+that the [[Love|love]] of Swinburne hath an end.  Not the admiration
+for Swinburne, not the reasonable appreciation of Swinburne;
+but that particular sort of [[Love|love]] of Swinburne which is like first
+[[Love|love]] in youth; perhaps (one is sometimes tempted to think) the only
+sort of real [[Love|love]] that Swinburne had ever known anything about.
+I mean that sort of mere [[Magic|magic]] spell or enchantment by Swinburne
+which so many young people had in the period when, as Mr. Maurice Baring
+has very truly said, Swinburne seems to them not so much the best
+poet as simply the only poet.  That sort of [[Love|love]] certainly hath
+an end, and most of us have lived long enough to have seen it.
+But it is symbolic of something larger; something that is connected
+not only with Swinburne but with Swinburnianism.
+
+Any man who has ‘lived long enough', and not actually stiffened with
+negative prejudices, must know by this time that the modern movement,
+and every sort of movement, revolves round and round the central
+pillar of the old Christian tradition.  It is emphatically not
+leaving that pillar behind and rushing right away towards some
+other winning-post. He knows it, for the perfectly simple reason
+that he has seen it careering in two totally opposite directions,
+and neither of them has succeeded in getting away from the post.
+He knows by this time, if he is honest with himself, that the whole
+thing is like a Giddy-go-Round at a country fair; full of rush and
+romantic enjoyment, but revolving upon one centre that supports all the
+movement by being immovable.  It is a glorious experience for children,
+and therefore for poets, who share some of the wisdom of children.
+It consists of concentric rings of hobby-horses, and a hobby-horse,
+like a hobby, is a very good thing to make a thinking man happy.
+In most Giddy-go-Rounds there are outer and inner rings of horses,
+nearer or farther from the centre; and this also is an allegory.
+In some Giddy-go-Rounds there are revolving rings going opposite
+ways which greatly increase the godlike quality of giddiness.
+In youth or childhood especially it is quite natural to be giddy,
+even if it sometimes begins to approximate to being sick.
+Of recent literature we might not unfairly say that for the first
+half of the time most of the modern poets were giddy; and now,
+in the second half of the time, most of the modern poets are sick.
+
+Anyhow, Swinburne certainly rode his hobby-horse with great fire
+and galloping energy; but, when he fancied that he was leaving
+the central pillar of his childhood and his ancestry far behind him,
+he was really very far from the truth and very close to the pillar.
+And this is proved by the fact that both poetical and political energy
+has since galloped in exactly the contrary direction, and is still
+at about the same distance from the ancestral pillar as before.
+If anything, the more recent poets have tended to take their
+seats in the ring rather nearer to the pillar.  I imagine that,
+if a man had gone round during the last ten years asking the young
+people in the literary world whom they regarded as their hope
+and hero and leader, as the young of my youth regarded Swinburne,
+it is about ten to one that most of them would mention Mr. T. S. Eliot.
+Wilde said that Swinburne was the only true Laureate, for the poet praised
+by all other poets must always wear the laurel.  Laurels and Laureates
+are not so much in the style of our more cynical and realistic time.
+But the young would probably support a young writer like Mr. Eliot,
+even if both the young writer and the young admirers strike older
+people as being rather prematurely old.  Anyhow, the two poets
+will serve very well for the purpose of the parallel about poetry,
+or even about polities.
+
+Swinburne was quite certain that he and the world were galloping
+nearer and nearer to the new Republic and farther and farther from
+the old Church.  If he had been right, it would follow that, by this time,
+a man like Mr. Eliot would be even more Republican than Swinburne.
+As a matter of fact, Mr. Eliot has actually walked out of a real
+live Republic and loudly announced that he is a Royalist.
+He has also declared himself an Anglo-Catholic; but I will
+leave the religious issue as far as possible on one side,
+because though even more cogent, it is much more controversial.
+But even in the matter of politics alone it is quite obvious that there
+has been a complete turn of the tide.  The Giddy-go-Round is going round
+in the reverse direction, but, I am glad to say, almost as giddily.
+The wooden horses are galloping with their accustomed fervour,
+and I hope the children who ride on them are happy.  But one who has
+seen this complete reversal of direction since his own childhood
+will not be able to believe that the horses broke loose from the post
+and fled farther and farther from it for ever merely because he was
+told so in childhood.  Swinburne's hobby-horse, for instance,
+had a perpetual impulse to gallop away over the Alps into Italy.
+But suppose he were really still galloping into Italy,
+like Hannibal or Napoleon, what sort of Italy would he find?
+The political ideas of Swinburne were the ideas of the period of Mazzini.
+The political ideas of T. S. Eliot are the ideas of the period
+of Mussolini.  It might be maintained that the new poet is
+nearer than the old poet to the old Roman pillar of the past.
+It is stark nonsense to pretend that he is farther away.
+
+I am not dealing directly here with things that I myself accept
+or reject.  Many people know that my own religion is even more Roman
+than Mr. Eliot's. Yet in many ways my polities are much more Republican
+than Mr. Eliot's; perhaps much more really Republican than Swinburne's.
+But I am not arguing about what is right or wrong in any of these views.
+I am merely remarking on an actual revolution in the ideas of a large
+number of other people, and noting that it is more like the real
+revolution of a Giddy-go-Round than the mere riot of a gallop.
+In one sense it has been revolution against revolution; that is,
+revolution in one sense reversing revolution in the other.
+But nobody who notes the real movements in the intellectual world
+just now can doubt that there has been the sort of revolution that
+is called a reaction.  In every country there has been a reaction,
+either practical or theoretical, in the direction of order
+or authority or classical proportion.  In France there has been
+the influence of Maurras in polities or Maritain in religion.
+In Germany the Dictator is a vision; in Italy he is a fact.
+In America, the very last place where most people would look
+for classicism, there has arisen an influential school of classicists.
+Those who most fiercely denounce the fact most clearly confess the fact,
+and even their denunciations are witness that it is a universal fact.
+The enemies of Humanism denounce it as intellectual Fascism.
+The enemies of Fascism make fun of its appeal to classicism.
+Of course a man may quite reasonably like some of these things
+and dislike others, or like some parts of these things and
+dislike others, as I do myself.  But, as I say, I am not talking
+about likes or dislikes, and I am not talking about myself.
+I am talking about the way the world goes round, and pointing out
+that the moral world does not always go round from right to left.
+It is, at this moment, most certainly going round from left to right.
+The sort of political party that used to be called the Extreme Right
+contains more of the really original modern thinkers than the party
+called the Extreme Left.  I only say that the return to traditionalism
+is obviously strong enough to be recognized.  I think it very possible
+that it may soon be strong enough to be resisted.  But when strange
+survivals of the Swinburnian epoch, imagining themselves to be young,
+actually come and tell me that the world is on an endless march
+towards wild liberty and indefinite relaxation of everything,
+I really do not know how to answer, except with a melancholy smile.
+‘I have lived long enough to have seen one thing . . .'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+III
+
+«Ho vissuto abbastanza a lungo da vedere una cosa: che l'amore ha una fine»: così recita, come tutti ricorderanno, il primo verso del bellissimo «[[Hymn|Inno]] a Proserpina» di Swinburne, il [[Dirge|canto funebre]] di un pagano che dà l'addio al Paganesimo. Io ho vissuto abbastanza a lungo da vedere una cosa: che l'[[Love|amore]] per Swinburne ha una fine. Non l'ammirazione per Swinburne, non la ragionevole stima di Swinburne; ma quella particolare specie di [[Love|amore]] per Swinburne che somiglia al primo [[Love|amore]] della giovinezza; forse (talvolta si è tentati di pensarlo) l'unica specie di vero [[Love|amore]] di cui Swinburne abbia mai saputo qualcosa. Intendo quella sorta di puro incantesimo o sortilegio [[Magic|magico]] esercitato da Swinburne, che tanti giovani provarono nell'epoca in cui, come ha detto con molta verità il signor Maurice Baring, Swinburne appariva loro non tanto il miglior poeta quanto semplicemente l'unico poeta. Quella specie di [[Love|amore]] ha certamente una fine, e i più tra noi hanno vissuto abbastanza a lungo da vederla. Ma è il simbolo di qualcosa di più grande; qualcosa che è legato non solo a Swinburne ma allo swinburnianesimo.
+
+Ogni uomo che abbia «vissuto abbastanza a lungo», e non si sia davvero irrigidito in pregiudizi negativi, deve ormai sapere che il movimento moderno, e ogni sorta di movimento, gira e rigira attorno al pilastro centrale dell'antica tradizione cristiana. Non sta affatto lasciandosi alle spalle quel pilastro per slanciarsi verso qualche altro traguardo. Lo sa, per la ragione semplicissima che l'ha visto correre in due direzioni del tutto opposte, e nessuna delle due è riuscita ad allontanarsi dal palo. Ormai sa, se è onesto con sé stesso, che tutta la faccenda è come una giostra a un luna park di campagna; piena di corsa e di godimento romantico, ma che ruota su un unico centro il quale sostiene tutto il movimento appunto perché resta immobile. È un'esperienza gloriosa per i bambini, e perciò per i poeti, che condividono un po' della saggezza dei bambini. È fatta di anelli concentrici di cavalli a dondolo, e un cavallo a dondolo, come un pallino, è un'ottima cosa per rendere felice un uomo che pensa. Nella maggior parte delle giostre vi sono anelli di cavalli esterni e interni, più vicini o più lontani dal centro; e anche questo è un'allegoria. In certe giostre vi sono anelli che ruotano in senso opposto, i quali accrescono grandemente la divina qualità della vertigine. Nella giovinezza, e specialmente nell'infanzia, è del tutto naturale avere il capogiro, anche se talvolta comincia ad assomigliare alla nausea. Della letteratura recente potremmo dire, senza troppa ingiustizia, che nella prima metà del tempo la maggior parte dei poeti moderni aveva il capogiro; e ora, nella seconda metà del tempo, la maggior parte dei poeti moderni ha la nausea.
+
+Comunque sia, Swinburne cavalcò certamente il suo cavallo a dondolo con gran foga ed energia galoppante; ma, quando si illudeva di lasciarsi molto indietro il pilastro centrale della sua infanzia e del suo lignaggio, era in realtà lontanissimo dalla verità e vicinissimo al pilastro. E ciò è provato dal fatto che da allora l'energia poetica e politica ha galoppato esattamente nella direzione contraria, e si trova ancora press'a poco alla stessa distanza dal pilastro ancestrale di prima. Semmai, i poeti più recenti hanno teso a prendere posto nell'anello un po' più vicino al pilastro. Immagino che, se qualcuno negli ultimi dieci anni fosse andato in giro a chiedere ai giovani del mondo letterario chi considerassero la loro speranza, il loro eroe e la loro guida, come i giovani della mia giovinezza consideravano Swinburne, vi siano circa dieci probabilità su una che i più menzionerebbero il signor T. S. Eliot. Wilde disse che Swinburne era l'unico vero Poeta Laureato, poiché il poeta lodato da tutti gli altri poeti deve sempre portare l'alloro. Allori e Poeti Laureati non sono molto nello stile del nostro tempo più cinico e realistico. Ma i giovani sosterrebbero probabilmente un giovane scrittore come il signor Eliot, anche se tanto il giovane scrittore quanto i giovani ammiratori appaiono alle persone più anziane invecchiati piuttosto prematuramente. Comunque sia, i due poeti serviranno benissimo allo scopo del parallelo sulla poesia, o anche sulla politica.
+
+Swinburne era assolutamente certo che lui e il mondo galoppassero sempre più vicino alla nuova Repubblica e sempre più lontano dalla vecchia Chiesa. Se avesse avuto ragione, ne seguirebbe che, a quest'ora, un uomo come il signor Eliot sarebbe ancor più repubblicano di Swinburne. Di fatto, il signor Eliot è addirittura uscito da una Repubblica reale e vivente e ha annunciato ad alta voce di essere un Realista. Si è anche dichiarato anglo-cattolico; ma lascerò per quanto possibile da parte la questione religiosa, perché, benché ancora più stringente, è assai più controversa. Ma anche solo in materia di politica è del tutto evidente che vi è stata una completa inversione della marea. La giostra gira in senso inverso, ma, mi fa piacere dirlo, quasi altrettanto vertiginosamente. I cavalli di legno galoppano col loro consueto fervore, e spero che i bambini che li montano siano felici. Ma chi ha visto questa completa inversione di direzione fin dalla propria infanzia non potrà credere che i cavalli si siano staccati dal palo e ne siano fuggiti sempre più lontano per sempre solo perché gli fu detto così da bambino. Il cavallo a dondolo di Swinburne, per esempio, aveva un impulso perpetuo a galoppare oltre le Alpi fino in Italia. Ma supponiamo che stesse davvero ancora galoppando verso l'Italia, come Annibale o Napoleone: quale sorta di Italia troverebbe? Le idee politiche di Swinburne erano le idee dell'epoca di Mazzini. Le idee politiche di T. S. Eliot sono le idee dell'epoca di Mussolini. Si potrebbe sostenere che il nuovo poeta è più vicino del vecchio poeta all'antico pilastro romano del passato. È pura assurdità pretendere che ne sia più lontano.
+
+Non mi occupo qui direttamente delle cose che io stesso accetto o rifiuto. Molti sanno che la mia religione è ancora più romana di quella del signor Eliot. Eppure per molti versi la mia politica è assai più repubblicana di quella del signor Eliot; forse assai più realmente repubblicana di quella di Swinburne. Ma non sto discutendo di ciò che è giusto o sbagliato in nessuna di queste opinioni. Mi limito a osservare un'effettiva rivoluzione nelle idee di un gran numero di altre persone, e a notare che essa somiglia più alla vera rivoluzione di una giostra che al semplice tumulto di un galoppo. In un certo senso è stata rivoluzione contro rivoluzione; vale a dire, rivoluzione in un senso che rovescia la rivoluzione nell'altro. Ma nessuno che osservi i reali movimenti del mondo intellettuale in questo momento può dubitare che vi sia stata quella sorta di rivoluzione che si chiama reazione. In ogni paese vi è stata una reazione, pratica o teorica, nella direzione dell'ordine o dell'autorità o della proporzione classica. In Francia vi è stata l'influenza di Maurras in politica o di Maritain in religione. In Germania il Dittatore è una visione; in Italia è un fatto. In America, l'ultimissimo luogo in cui i più cercherebbero il classicismo, è sorta un'influente scuola di classicisti. Coloro che più ferocemente denunciano il fatto lo confessano più chiaramente, e persino le loro denunce testimoniano che è un fatto universale. I nemici dell'Umanesimo lo denunciano come Fascismo intellettuale. I nemici del Fascismo si fanno beffe del suo richiamo al classicismo. Naturalmente un uomo può ben ragionevolmente amare alcune di queste cose e detestarne altre, o amare alcune parti di queste cose e detestarne altre, come faccio io stesso. Ma, come dico, non sto parlando di simpatie o antipatie, e non sto parlando di me stesso. Sto parlando del modo in cui il mondo gira, e faccio notare che il mondo morale non gira sempre da destra a sinistra. In questo momento, con ogni certezza, sta girando da sinistra a destra. Il tipo di partito politico che si soleva chiamare Estrema Destra contiene più veri pensatori moderni originali del partito chiamato Estrema Sinistra. Dico solo che il ritorno al tradizionalismo è evidentemente abbastanza forte da essere riconosciuto. Ritengo assai possibile che presto possa essere abbastanza forte da essere combattuto. Ma quando strani superstiti dell'epoca swinburniana, immaginando di essere giovani, vengono davvero a dirmi che il mondo è in una marcia senza fine verso la libertà sfrenata e il rilassamento indefinito di ogni cosa, davvero non so come rispondere, se non con un malinconico sorriso. «Ho vissuto abbastanza a lungo da vedere una cosa...»

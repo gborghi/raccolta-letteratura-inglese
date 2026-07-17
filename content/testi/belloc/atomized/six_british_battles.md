@@ -3886,238 +3886,6 @@ I will approach the story of the campaign and of the battle by a conspectus of t
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_political_circumstance" data-title="Six British Battles — Part 1: THE POLITICAL CIRCUMSTANCE" data-chapter="THE POLITICAL CIRCUMSTANCE" data-kind="chapter"></span>
-
-
-PART I. THE POLITICAL CIRCUMSTANCE
-
-THE BATTLE OF Tourcoing is one of those actions upon which European history in general is somewhat confused, and English history, in particular, ignorant.
-
-That British troops formed part of those who suffered defeat, and that a British commander, the Duke of York, was the chief figure in the reverse, affords no explanation; for the almost exactly parallel case of Fontenoy — in which another royal duke, also the son of the reigning King of England, also very young, also an excellent general officer, and also in command was defeated — is among the most familiar of actions in this country. In both battles the posture of the British troops earned them as great and as deserved a fame as they had acquired in victory; in both was work done by the Guards in particular, which called forth the admiration of the enemy. Yet Tourcoing remains unknown to the English general reader of history, while Fontenoy is one of the few stock names of battles which he can at once recall.
-
-The reason that British historians neglect this action is not, then, as foreign and rival historians are too inclined to pretend, due to the fact that among the forces that suffered disaster were present certain British contingents.
-
-Again, as will be seen in the sequel, the overwhelming of the Duke of York’s forces at Tourcoing, by numbers so enormously superior to his own, was not due to any tactical fault of his, though it is possible that the faulty plan of the whole action may in some measure be ascribed to him.
-
-Now Tourcoing is a battle which Englishmen should know, both for its importance in the military history of Europe, and for the not unworthy demeanour which the British troops, though defeated, maintained upon its field.
-
-The true reason that Tourcoing is so little known in this country is to be discovered in that other historical fact attaching to the battle, which I have mentioned. It occupied but a confused and an uncertain place in the general history of Europe; though perhaps, were its military significance fully understood, it would stand out in sharper relief. For though the Battle of Tourcoing was not the beginning of any great military series, nor the end of one; though no very striking immediate political consequence followed upon it, yet it was Tourcoing which made Fleurus possible, and it was Fleurus that opened the victorious advancing march of the French which, looked at as a whole, proceeded triumphantly thenceforward for nearly eighteen years and achieved the transformation of European society.
-
-What, then, was the political circumstance under which this action was fought?
-
-The [[French Revolution]], by the novelty of its doctrines, by the fierceness and rapidity of its action, and by that military character in it which was instinctively divined upon the part of its opponents, challenged, shortly after its inception, the armed interference of those ancient traditional governments, external to and neighbouring upon French territory, which felt themselves threatened by the rapid advance of democracy.
-
-With the steps that led from the first peril of conflict to its actual outbreak, we are not concerned. That outbreak took place in April 1792, almost exactly three years after the meeting of the first Revolutionary Parliament in Versailles.
-
-The first stages of the war (which was conducted by Austria and Prussia upon the one side, against the French forces upon the other) were singularly slow. No general action was engaged in until the month of September, and even then the struggle between the rival armies took the form not so much of a pitched battle as of an inconclusive cannonade known to history as that of Valmy. This inconclusive cannonade took place in the heart of French territory during the march of the invaders upon Paris. Disease, and the accident of weather, determined the retreat of the invaders immediately afterwards. In the autumn of the year, the French forces largely recruited by enthusiastic volunteer levies, but of low military value, poured over the country then called the Austrian Netherlands and now Belgium. But their success was shortlived. A mere efflux of numbers could not hold against the trained and increasing resistance of the Imperial soldiers. In the spring of 1793 the retreat began, and through the summer of that year the military position of Revolutionary [[France]] grew graver and graver. Internal rebellions of the most serious character broke out over the whole territory of the Republic. In Normandy, in the great town of Lyons, in Marseilles, and particularly in the Western districts surrounding the mouth of the Loire, these rebellions had each in turn their moment of success, while the great naval station of Toulon opened its port to the enemy, and received the combined English and Spanish Fleets.
-
-Coincidently with the enormous task of suppressing this widespread domestic rebellion, the Revolutionary Government was compelled to meet the now fully organised advance of its foreign enemies. It was at war no longer with Austria and Prussia alone, but with England, with Holland, with Spain as well, and the foreign powers not only thrust back the incursion which the French had made beyond their frontiers, but proceeded to attack and to capture, one after the other, that barrier of fortresses in the north-east which guarded the advance on Paris.
-
-The succession of misfortune after misfortune befalling the French arms was checked, and the tide turned by the victory won at Wattignies in October 1793. After that victory the immediate peril of a successful invasion, coupled with the capture of Paris, was dissipated. But it was yet uncertain for many months which way the tide would turn — whether the conflict would end in a sort of stale-mate by which the French should indeed be left independent for the moment, but the armed governments of Europe their enemies also left powerful to attack and in the end to ruin them; or whether (as was actually the case) the French should ultimately be able to take the offensive, to re-cross their frontiers, and to dictate to their foes a triumphant peace.
-
-As I have said, the great action from which history must date the long series of French triumphs, bears the name of Fleurus; but before Fleurus there came that considerable success which made Fleurus possible, to which history gives the name of Tourcoing (from the town standing in the midst of the very large and uncertain area over which the struggle was maintained), and which provides the subject of these pages.
-
-Fleurus was decided in June 1794. It was not a battle in which British troops were concerned, and therefore can form no part of this series. Tourcoing was decided in the preceding May, and though, I repeat, it cannot be made the fixed and striking starting-point from which to date the long years of the French advantages, yet it was, as it were, the seed of those advantages, and it was Tourcoing, in its incomplete and complicated success, which made possible all that was to follow.
-
-Tourcoing, then, must be regarded as an unexpected, not wholly conclusive, but none the less fundamental phase in the development of political forces which led to the establishment of the modern world. Its immediate result, though not decisive, was appreciable. To use a metaphor, it was felt in Paris, and to a less extent in London, Berlin, and in Vienna, that the door against which the French were desperately pushing, though not fully open, was thrust ajar. The defeat of a portion of the allied forces in this general action, the inefficacy of the rest, the heartening which it put into the French defence, and the moral effect of such trophies gained, and such a rout inflicted, were of capital import to the whole story of the war.
-
-This is the political aspect in which we must regard the Battle of Tourcoing, but its chief interest by far lies in its purely military aspect; in the indiscretion which so nearly led the French forces to annihilation; in the plan which was laid to surround and to destroy those forces by the convergence of the English, Prussian, and Austrian columns; in the way in which that plan came to nothing, and resulted only in a crushing disaster to one advanced portion of the forces so converging.
-
-Tourcoing is rather a battle for military than for civilian historians, but those who find recreation in military problems upon their own account, apart from their political connection, will always discover the accidents of this engagement, its unexpected developments, and its final issue to be of surpassing interest.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="chapter_11_the_general_military_situation" data-title="Six British Battles — Part 2: THE GENERAL MILITARY SITUATION" data-chapter="THE GENERAL MILITARY SITUATION" data-kind="chapter"></span>
-
-
-PART II. THE GENERAL MILITARY SITUATION
-
-IN ORDER TO understand what happened at the Battle of Tourcoing, it is first necessary to have in mind the general situation of the forces which opposed each other round and about what is now the Franco-Belgian frontier, in the spring of 1794.
-
-These forces were, of course, those of the French Republic upon the one hand, upon the other the coalition with its varied troops furnished by Austria, by Prussia, by England, and some few by sundry of the small States which formed part of the general alliance for the destruction of the new democracy.
-
-The whole campaign of 1794 stands apart from that of 1793. The intervening winter was a period during which, if we disregard a number of small actions in which the French took the offensive, nothing of moment was done upon either side, and we must begin our study with the preparations, originating in the month of February, for the active efforts which it was proposed to attempt when the spring should break.
-
-In that month of February, Mack, recently promoted to the rank of Major-General in the Austrian army, met the Duke of York, the young soldier son of George III., in London, to concert the common plan. It was upon the 12th of that month that this meeting took place. Mack brought the news to the British Cabinet that the Emperor of Austria, his master, was prepared to act as Commander-in-Chief of the allied army in the coming campaign, proposed a general plan of advancing from the Belgian frontier upon Paris after the capture of the frontier fortresses, and negotiated for the largest possible British contingent.
-
-Coburg, it was arranged, should be the General in practical command (under the nominal headship of the Emperor). Prussian troops, in excess of the twenty thousand which Prussia owed as a member of the Empire, were obtained upon the promise of a large subsidy from England and Holland, and with the month of April some 120,000 men were holding the line from Treves to the sea. This passed through and occupied Dinant, Bavai, Valenciennes, St Amand, Denain, Tournai, Ypres, and Nieuport. To this number must be added men in the garrisons, perhaps some 40,000 more. Of this long line the strength lay in the centre.
-
-The central army, under the general command of Coburg, who had his headquarters at Valenciennes, was, if we exclude men in garrisons, somewhat over 65,000 in strength, or more than half the whole strength of the long line. With Coburg in the central army was the Duke of York with some 22,000, and the Prince of Orange with a rather smaller contingent of Dutch.
-
-Over against this long line with its heavy central “knot” or bulk of men under Coburg, in the neighbourhood of Valenciennes, the genius of Carnot had mustered over 200,000 French troops, which, when we have deducted various items for garrisons and other services, counted as effective more than 150,000 but less than 160,000 men. This French line extended from the sea to Maubeuge, passing through Dunquerque, Cassel, Lille, Cambrai, and Bouchain.
-
-It was as a fact a little before the opening of April that the French began the campaign by taking the offensive on a large scale upon the 29th of March.
-
-Sketch Map showing the opposing French and Allied lines. April 1794
-
-Pichegru, who was in command of that frontier army, attacked, with 30,000 men, the positions of the allies near Le Cateau, well to the right or south-east of their centre and his, and was beaten back.
-
-It was upon the 14th of April that the Emperor of Austria joined Coburg at Valenciennes, held a review of his troops (including the British contingent, which will be given later in detail), fixed his headquarters in the French town of Le Cateau, and at once proceeded to the first operation of the campaign, which was the siege of the stronghold of Landrecies. The Dutch contingent of the allies drove in the French outposts and carried the main French position in front of the town within that week. By the 22nd of April the garrison of Landrecies was contained, the beleaguering troops had encircled it, and the siege was begun.
-
-After certain actions (most of them partial, and one of peculiar brilliance in the history of the British cavalry), actions each of interest, and some upon a considerable scale, but serving only to confuse the reader if they were here detailed, Landrecies fell after eight days’ siege, upon the 30th of April. An advance of the Austrian centre, after this success, was naturally expected by the French.
-
-That normal development of the campaign did not take place on account of a curious episode in the strategy of this moment to which I beg the reader to give a peculiar attention. It is necessary to grasp exactly the nature of that episode, for it determined all that was to follow.
-
-While the fate of Landrecies still hung in the balance, and before the surrender of the town, Pichegru had, in another part of the long line, scored one of those successes which in any game or struggle are worse than losing a trick or suffering a defeat. It was one of those successes in which one gets the better of one’s opponent in one chance part of the general contest, but so triumphs without a set plan, with no calculation upon what should follow upon the achievement, and therefore with every prospect of finding oneself in a worse posture after it than before.
-
-To take an analogy from chess: Pichegru’s error, which I will presently describe, might be compared to the action of a player who, taking a castle of his opponent’s with his queen, thereby leaves his king unguarded and open to check-mate.
-
-Wherever men are opposed one to the other in lines, each line having the mission to advance against the other, it is a fatal move to get what footballers call “‘fore side”: to let a portion of your forces advance too far from the general line held by the whole, and to have the advanced part of that portion thus isolated from the support of its fellows. Such a formation invites a concentration of your opponents against the isolated body, and may lead to its destruction.
-
-It was precisely in this position that Pichegru placed a portion of his forces by the ill-advised advance he made down the valley of the Lys to Courtrai.
-
-Taking advantage of the way in which the main forces of the allies were tied to the siege of Landrecies, the French commander wisely moved forward the whole of his forces to the north and west, pushing the enemy back before him to the line Ypres-Menin, and besieging Menin itself. But most unwisely he not only permitted to advance, but himself directed and led, a body of 30,000 men (the command of General Souham) far forward of this general movement: he actually carried it on as far as the town of Courtrai.
-
-The accompanying sketch map shows how much too far advanced this wedge of men (so large a contingent to imperil by isolation!) was beyond the general line, and, to repeat the phrase I have just used, a metaphor which best expresses my meaning, Souham and his division, by Pichegru’s direct orders, had got “‘fore side.”
-
-The only excuse that can be pleaded for Pichegru’s folly in this matter, was the temptation presented by the weak garrison of Courtrai, and the bait which a facile temporary success always holds out for a man who has formed no consistent general plan. But that very excuse is the strongest condemnation of the inexcusable error, and this strategical fault of Pichegru’s was soon paid for by the imperilling of all the great body of French troops within that rashly projected triangle.
-
-For the moment Pichegru may have foolishly congratulated himself that he had done something of military value, as he had certainly done something striking. Menin fell to the French on the same day that Landrecies did to the Austrians, and this further success doubtless tempted him to remain with the head of his wedge at Courtrai, when every consideration of strategy should have prompted him to retrace his steps and to recall the over-advanced division back into line.
-
-This isolated position down the valley of the Lys, this wedge thrust out in front of Lille, positively asked the allies to attack it.
-
-The enemy was a fortnight developing his plan, but his delay was equalled by Pichegru’s determination to hold the advanced post he had captured; and when the allies did finally close in upon that advanced post, nothing but a series of accidents, which we shall follow in detail when we come to the story of the action, saved Souham from annihilation. And the destruction of Souham’s division, considering its numbers and its central position, might have involved the whole French line in a general defeat.
-
-As I have said, it was at the end of April that this false success of Pichegru’s was achieved, and a whole fortnight was to elapse before the allies concentrated to take advantage of that error, and to cut off Souham’s division.
-
-That fortnight was full of minor actions, not a few of them interesting to the student of military history, and one again remarkable as a feat of English horse. I deliberately omit all mention of these lest I should confuse the reader and disturb his conception of the great battle that was to follow.
-
-That battle proceeded upon a certain plan thought out in detail, perfectly simple in character, and united in conception. It failed, as we shall see; and by its failure turned what should have been the cutting-off and destruction of Souham’s command into a signal French victory. But before we can understand the causes of its failure, we must grasp the plan itself in its major lines, and with that object I shall discuss it in my next section under the title of “The Plan of the Allies.”
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="chapter_13_the_preliminaries_of_the_battl" data-title="Six British Battles — Part 4: THE PRELIMINARIES OF THE BATTLE" data-chapter="THE PRELIMINARIES OF THE BATTL" data-kind="chapter"></span>
-
-
-PART IV. THE PRELIMINARIES OF THE BATTLE
-
-TOURCOING IS AN action the preliminaries of which are easy to describe, and need occupy little of our space, because it was a battle in which the plan of one side was developed and prosecuted almost to its conclusion without a corresponding plan upon the other side.
-
-As a rule, the preliminaries of a battle consist in the dispositions taken by each side for hours or for days — sometimes for weeks — beforehand, in order to be in a posture to receive or to attack the other side. These preliminaries include manœuvring for position, and sometimes in the fighting of minor subsidiary actions before the main action takes place.
-
-Now, in the case of Tourcoing, there was none of this, for the French at Tourcoing were surprised.
-
-The surprise was not complete, but it was sufficiently thorough to make the whole of the fighting during the first day, Saturday (at least, the whole of the fighting in the centre of the field), a triumph for the allied advance.
-
-Let us first appreciate exactly how matters looked to Souham when, on the 15th, the Thursday, the blow was about to fall upon him.
-
-He had under his orders, with headquarters now at Courtrai, now at Menin (see sketch map on ), rather less than 40,000. In that dash upon Courtrai a fortnight before, which had led to the dangerous establishment of so large an advanced body in front of the main French line, one main effect of that advance had been to push back, away to the left beyond the Lys, more than 16,000, but less than 20,000 men under the Austrian General, Clerfayt. With that army, Clerfayt’s body, Souham had remained continually in touch. Detachments of it were continually returning to the valley of the Lys to harass his posts, and, in a word, Clerfayt’s was the only force of the enemy which Souham thought he had need to bear in mind.
-
-The bulk of the Austrian army he knew to be quite four days’ march away to the south, at first occupied in the siege of Landrecies, and later stationed in the vicinity of that fortress.
-
-Of course, lying in his exposed position, Souham knew that a general attack upon him from the south was one of the possibilities of the situation, but it was not a thing which he thought could come unexpectedly: at any rate he thought himself prepared, by the use of his scouts and his spies, to hear of any such advance in ample time.
-
-In case he should be attacked, the attack might take one of many forms. It might try to drive him over the Lys, where Clerfayt would be ready to meet him; or it might be a general attack upon Courtrai as a centre; or it might be (what had, as we have seen, been actually determined) an attempt to cut him and all his 40,000 off from the main French line.
-
-This main French line ran through the town of Lille, and Lille not only had its garrison, but also at Sainghin, outside the fortifications to the south-east, a camp, under Bonnaud, of 20,000 men. If the attack from the south or from the north, or from both, managed to cut Souham off from Bonnaud’s camp, and from the garrison at Lille, he was ruined, and his 40,000 were lost; but he hoped to be kept sufficiently informed of the enemy’s movements to fall back in time, should such an attempt be made, and to provide for it by effecting a junction with Bonnaud before it was delivered.
-
-Pichegru, the Commander of the whole French army of the north, who had ordered the advance on Courtrai, happened to be absent upon a visit to the posts away south upon the Sambre River. Souham was therefore temporarily in full command of all the troops which were to be concerned in the coming battle. But the position was only a temporary one, and that must account for the deference he paid to the advice of the four generals subordinate to him, and for the council which he called at Menin on the critical Saturday night which decided the issue. He himself quotes his commission in the following terms:— “Commander-in-Chief of all the troops from the camp at Sainghin to Courtrai inclusive.”
-
-From the beginning of the week, when a detachment of his troops had but just recovered from a sharp action with the Duke of York’s men towards Tournai, Souham appreciated that the forces of the enemy were gradually increasing to the south of him, and that the posts upon the Scheldt were receiving additional enforcements of men. But neither his judgment nor the reports that came in to him led him to believe that the mass of the Austrian army was coming north to attack him. And in this he was right, for, as we have seen, the Emperor did not make up his mind until Wednesday the 14th, which was the day when orders were sent to the Arch-Duke Charles to march northward.
-
-Souham’s attitude of mind up to, say, the Thursday may be fairly described in some such terms as follows: —
-
-“I know that a concentration is going on in the valley of the Scheldt to the south and east of me; it is pretty big, but not yet exactly dangerous, though I shouldn’t wonder if I were attacked in a few days from that quarter. What I am much more certain of is that active and mobile force which I beat off the other day, but which is still intact under the best General opposed to me, Clerfayt. I hear that it is marching south again, and my best troops and my offensive must be directed against that. I am far superior in numbers to Clerfayt, and if I can bring him to an action and break him, I can then turn to the others at my leisure: for the moment I have only one front to think of — that on the north.”
-
-But the negligence which he or his informants were guilty of — a negligence that was to prove so nearly fatal to all those 40,000 French troops — consisted in the failure to discover what was up upon Friday the 16th.
-
-During those twenty-four hours the Arch-Duke Charles had brought up his column to St Amand; the other four columns upon the Scheldt were concentrated, and upon the north of the Lys, Clerfayt had got orders to move upon Wervicq, and was, during the middle hours of Friday, actually upon the march. Yet, during all that day, Friday the 16th, Souham remained ignorant of the extremity of his peril.
-
-The orders which he dictated upon the Friday night, and largely repeated upon the following morning of Saturday the 17th of May, show how little he expected the general action that was upon him. He arranged, indeed, for a cordon of troops to be watching, in insufficient numbers, the side towards the Scheldt, and he sent to Bonnaud and the camp at Sainghin, outside Lille, orders to keep more or less in touch with that cordon. The instructions to this cordon of troops along the eastern side of the French position is no more than one of general vigilance. It is still to Clerfayt and towards the north alone that he directs an offensive and vigorous movement.
-
-In a word, he was a good twenty-four hours behind with his information. He was wasting troops north of the Lys in looking for Clerfayt at a time when that General was already on the march to Wervicq, and he was leaving a scattered line of insufficient bodies to meet what he did not in the least expect, the rapid advance of Bussche, Otto, and York during that Saturday upon Mouscron, Tourcoing, and Roubaix.
-
-Therefore it was that although Bussche’s insufficient force was driven out of Mouscron at last by superior numbers, Otto and York succeeded in sweeping all the resistance before them, and, in the course of that Saturday, reached the first Tourcoing, the second Roubaix, and even Mouveaux.
-
-The whole problem of warfare consists in a comparison between the information that each side has of the movements of the other. The whole art of success in war pivots upon the using of your enemy’s ignorance. Had the allies upon this occasion been more accurate in keeping to their time-table, and somewhat more rapid in their movements, they would have caught the French commander still under the illusion that there was no danger, save from the north, and would have succeeded in cutting off and destroying the main French force by getting in all together between Courtrai and Lille. For at that same moment, the early hours before daybreak of the 17th, the allies had begun their movement.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="chapter_14_the_terrain" data-title="Six British Battles — Part 5: THE TERRAIN" data-chapter="THE TERRAIN" data-kind="chapter"></span>
-
-
-PART V. THE TERRAIN
-
-THE TERRAIN OVER which the plan of the allies was to be tested must next be grasped if we are to understand the causes which led to its ultimate failure.
-
-That terrain is most conveniently described as an oblong standing up lengthways north and south, and corresponding to the sketch map overleaf. That oblong has a base of twenty miles from east to west, a length from north to south of thirty-five.
-
-These dimensions are sufficient to show upon what a scale the great plan of the allies for cutting off Souham at Courtrai was designed.
-
-At its south-eastern corner the reader will perceive the town of St Amand, the furthest point south from which the combined movements of the allies began; while somewhat to the left of its top or northern edge, at the point marked “A,” the northern-most body connected with that plan, the body commanded by Clerfayt, was posted at the origin of the movement.
-
-The object of the whole convergence from the Scheldt on one hand, and from Clerfayt’s northern position upon the other, being to cut off the French forces which lay at and south of Courtrai from Lille, and the main line of the French army, it is evident that the actual fighting and the chances of success or disaster would take place within a smaller interior oblong, which I have also marked upon the sketch map. This smaller or interior oblong measures about sixteen miles at its base by about twenty-five miles in length, and includes all the significant points of the action.
-
-The points marked 1, 2, 3, 4, and 5 respectively are the points at which the five columns advancing from the Scheldt valley northward were to find themselves before dawn on the morning of Saturday the 17th of May. We are already acquainted with them. They are Warcoing, Bailleul, Templeuve, Froidmont, and Pont-à-Marcq respectively; while the point marked 6 is Wervicq, from which Clerfayt was to start simultaneously with the five southern columns with the object of meeting his fellows round Tourcoing.
-
-The town of Courtrai will be perceived to lie in the north-eastern angle of this inner oblong, the town of Lille rather below the middle of its western side. In all the country round Courtrai, and especially to the south of it, within the triangle X Y Z, lay the mass of Souham’s command of 40,000 men. There were many posts, of course, scattered outside that triangle, and connecting Courtrai with Lille; but the links were weak, and the main force was where I have indicated it to be.
-
-A large body of French troops being encamped just under the walls of Lille at B (by which letter I mark Sainghin camp), and that fortress also possessing a garrison, the plan of cutting both these off from the 40,000 French that lay in the country near Courtrai involved getting the main part of the allies up from these points of departure on the south, and Clerfayt’s body down from its point of departure on the north to meet upon the line drawn between Lille and Courtrai. Upon this line (which also roughly corresponds to the only main road between the two cities) may be perceived, lying nearer Lille than the centre of such line, the small town of Tourcoing and the village of Mouveaux. It was upon these two points that four of the five southern columns were to converge northward, the second and third column reaching them first, the fourth and fifth marching up from the left in aid; and it was also, of course, upon these two points that Clerfayt was to march southward from the post at Wervicq, that had been given him as his point of departure before dawn upon that Saturday morning. If everything went perfectly, the great mass of the allied army should have found itself, by noon of Saturday the 17th, as I have said, astraddle of the Lille-Courtrai road, and effectively cutting off the French troops to the north.
-
-What was the nature of the wide countryside over which these various movements were to take place?
-
-It was part of that great plain of Flanders which stretches from the River Scheldt almost unbroken to the Straits of Dover and the North Sea. In the whole of the great oblong represented by my sketch map there is hardly a point 150 feet above the water level of the main river valleys, while the great mass of that territory is diversified by no more than very broad and very shallow rolls of land, the crests of which are sometimes and exceptionally as much as fifty feet above the troughs, but the greater part thirty, twenty, or even less. Here and there an isolated hummock shows upon the landscape, but the general impression of one who walks across from the valley of the Lys to that of the Scheldt is of a flat, monotonous land in which one retains no memory of ascent or descent, and in which the eye but rarely perceives, and that only from specially chosen points, any wide horizon.
-
-To-day the greater part of this country suffers from the curse of industrialism and repeats — of course, with far less degradation — the terrible aspect of our own manufacturing towns. Roubaix and Tourcoing in particular are huge straggling agglomerations of cotton-spinners and their hands. A mass of railways and tramways cut the countryside, and the evil presence of coal-smoke mars it everywhere: at least within the region of Lille, Tourcoing, and Roubaix.
-
-In May 1794, though a considerable industry had begun to grow up in Lille itself, the wide, open countryside round the town was entirely agricultural. Much of it was what soldiers call “blind” country: that is, it was cut up into fields with numerous hedges; there were long farm walls and a great number of small watercourses fringed with trees. But, on the other hand, there was very little wood. Moreover, though there were few places from which one could overlook any considerable view, the “blindness” of the field, as a whole, has been much exaggerated in the attempt to excuse or explain the disaster of which it was the theatre. The southern part of it is open enough, and so is the north-eastern portion, in which the first column operated. Of the soil no particular mention is needed; most of the great roads were paved; the weather had created no difficulty in the going, and the only trouble in this respect lay in the northern part, where Clerfayt’s command was condemned to advance over patches of loose and difficult sand, which made the road, or rather rare lanes, very heavy.
-
-It will at once be perceived that, in view of the operations planned, one principal obstacle exists in the terrain, the River Lys. Few bridges crossed this stream, and for the purpose of turning the French position and coming across the Lys from the north to the neighbourhood of Mouveaux, there was in those days no bridge save the bridge at Wervicq (at the point marked 6 on the plan at the beginning of this section); but this difficulty we have seen to be lessened by the presence in Clerfayt’s command of a section of pontoons.
-
-At first sight one might perceive no other considerable obstacle save the Lys to the general movement of the allied army. But when the peculiar course of the little River Marque is pointed out, and the nature of its stream described, the reader will perceive that it exercised some little effect upon the fortunes of the battle, and might have exercised a much greater one to the advantage of the British troops had not the Duke of York blundered in a fashion which will be later described.
-
-In the first place, it should be noted that this little stream (it is no wider than a canal, will barely allow two barges to pass in its lower course, and will not float one to the southward of Lille) turns up quite close to Roubaix, and at the nearest point is not a mile from the market-place of that town.
-
-Now the significance of such a conformation to the [[Battlefield|battlefield]] of Tourcoing lay in the fact that it was impossible for any considerable force to manœuvre between the third column (which was marching upon Roubaix) and the Marque River. Had the Marque not existed, Kinsky, with the fourth column, would have been free to march parallel with York, just as York marched parallel with Otto, while the Arch-Duke with his fifth column, instead of having been given a rendezvous right down south at Pont-à-Marcq (the point marked 5 on my sketch), would have gone up the main road from St Amand to Lille, and have marched parallel with Kinsky, just as Kinsky would have marched parallel with York. In other words, the fourth and the fifth columns, instead of being ordered along the dotted lines marked upon my sketch (the elbows in which lines correspond to the crossing places of the Marque), would have proceeded along the uninterrupted arrow lines which I have put by the side of them.
-
-The Marque made all the difference. It compelled the fifth column to take its roundabout road, and the fourth, detained by the delay of the fifth, was held, as we shall see in what follows, for a whole day at one of the crossings of the river.
-
-The little stream has a deep and muddy bottom, and the fields upon its banks are occasionally marshy. This feature has been exaggerated, as have the other features I have mentioned, in order to explain or excuse the defeat, but, at any rate, it prevented the use of crossing places other than bridges. The Marque has no true fords, and there is no taking an army across it, narrow as it is, save by the few bridges which then existed. These bridges I have marked upon the sketch.
-
-So far as the terrain is concerned, then, what we have to consider is country, flat, but containing low defensive positions, largely cut up, especially between the Scheldt and Roubaix, by hedges and walls, though more open elsewhere, and particularly open towards the north: a serious obstacle to the advance of one body in the shape of the River Lys; and another obstacle, irritating rather than formidable in character, but sufficient both by its course and its marshy soil to complicate the advance, namely, the little River Marque.
-
-* * *
-
-As to the weather, it was misty but fine. The nights in bivouac were passed without too much discomfort, and the only physical condition which oppressed portions of the allied army consisted in the error of its commanders, and proceeded from fatigue.
-
-* * *
-
-
-
-
-<span class="atom-split" data-atom="chapter_21_the_results_of_the_battle" data-title="Six British Battles — Part 6: THE RESULTS OF THE BATTLE" data-chapter="THE RESULTS OF THE BATTLE" data-kind="chapter"></span>
-
-
-PART VI. THE RESULTS OF THE BATTLE
-
-THE IMMEDIATE RESULTS of the victory of Poitiers consisted, first, in the immensely increased prestige which it gave to the House of Plantagenet throughout Europe.
-
-Next, we must reckon the local, though ephemeral, effect upon the opinion of Aquitaine, through which the Black Prince was now free to retreat at his ease towards Bordeaux and the secure territories of Gascony.
-
-But though these results were the most immediate, and though the victory of one monarch over the other was the most salient aspect of the victory for contemporaries, as it is for us, there was another element which we must particularly consider because it illustrates the difference between the political conditions of the fourteenth century and of our own time.
-
-The real point of the success was the capture of the king’s person. The importance of the action lay, of course, to some extent, in the prestige it gave to the Black Prince personally; though that point was lost a very few years afterwards in the subsequent decline of the Plantagenet power in the south. In so far as an action in those days could carry a national effect — that is, could be regarded by distant civilian populations as proof of strength or weakness in contrasting races and societies — Poitiers had not even the claim of Crécy; for it was not principally an archers’ but a knights’ battle, and the knights were mainly the gentry of the South of [[France]], while those who had been broken by the only cavalry movement of the engagement were not even French knights, but levies of German, Spanish, and other origin. But the capture of the King of [[France]] at that particular moment of chivalry, that last fermentation of a feudal society which was reaching its term, had a vast positive effect, as well as an almost incalculable moral effect.
-
-There is nothing in modern times to which such an accident can be accurately paralleled. Perhaps the capture of the capital city would be the nearest thing; but there is this grave difference between them, that the capture of the modern capital must mean prolonged and decisive success in war, whereas the capture of John was an accident of the field. The victory would have been less by far if the whole of the king’s command had fled, with the king himself at the head of the rout.
-
-A modern parallel more nearly exact would be the transference in the midst of a conflict of some great financial power from one side to the other; or again, in a naval war, the blowing up of so many capital ships by contact mines as would put one of the two opposing fleets into a hopeless inferiority to the other. To capture a king was to capture not so much a necessary part of the mechanism of government as the most important and the richest member of a feudal organisation. It meant the power to claim an enormous feudal ransom for his person. It meant, more doubtfully, the power to engage him, while he was yet a prisoner, to terms that would bind his lieges: “more doubtfully,” because the whole feudal system jealously regarded the rights both of individual owners and of custom from the peasant to the crown. Finally, to capture the king was to get hold of the chief financial support of an enemy. A feudal king had vast revenues in the shape of rents, not competitive, but fixed, which came to him as they did to any other lord, but in much greater amount than to any other lord. The king was the chief economic factor in that autonomous economic federation which we call the feudal organisation of Gaul.
-
-The fact that his capture was an accident in no way lessened the result; it was regarded in the military mind of those days much as we regard the crippling of a modern financial power by some chance of speculation. It was only a bit of good fortune on the one side, and of bad fortune on the other, but one to be duly taken advantage of by those whom it would profit.
-
-The immediate result of that capture was twofold: an admission on the part of John of the Plantagenet claim, and a corresponding spontaneous movement in [[France]] which led to the defeat of that claim; the signing (ultimately) of a treaty tearing the French monarchy in two; and, finally, the rejection and nullifying of that treaty by the mere instinct of the nation. But these lengthy political consequences — followed by the further success of the Black Prince’s nephew at Agincourt, and again by his successor’s loss of all save Calais — do not concern this book.
-
-
-
-
 <span class="atom-split" data-atom="chapter_06_the_early_war--part_01" data-title="Six British Battles — Part 2: THE EARLY WAR (part 1)" data-chapter="THE EARLY WAR" data-kind="excerpt"></span>
 
 
@@ -5584,6 +5352,112 @@ TOURCOING
 
 
 
+<span class="atom-split" data-atom="chapter_10_the_political_circumstance" data-title="Six British Battles — Part 1: THE POLITICAL CIRCUMSTANCE" data-chapter="THE POLITICAL CIRCUMSTANCE" data-kind="chapter"></span>
+
+
+PART I. THE POLITICAL CIRCUMSTANCE
+
+THE BATTLE OF Tourcoing is one of those actions upon which European history in general is somewhat confused, and English history, in particular, ignorant.
+
+That British troops formed part of those who suffered defeat, and that a British commander, the Duke of York, was the chief figure in the reverse, affords no explanation; for the almost exactly parallel case of Fontenoy — in which another royal duke, also the son of the reigning King of England, also very young, also an excellent general officer, and also in command was defeated — is among the most familiar of actions in this country. In both battles the posture of the British troops earned them as great and as deserved a fame as they had acquired in victory; in both was work done by the Guards in particular, which called forth the admiration of the enemy. Yet Tourcoing remains unknown to the English general reader of history, while Fontenoy is one of the few stock names of battles which he can at once recall.
+
+The reason that British historians neglect this action is not, then, as foreign and rival historians are too inclined to pretend, due to the fact that among the forces that suffered disaster were present certain British contingents.
+
+Again, as will be seen in the sequel, the overwhelming of the Duke of York’s forces at Tourcoing, by numbers so enormously superior to his own, was not due to any tactical fault of his, though it is possible that the faulty plan of the whole action may in some measure be ascribed to him.
+
+Now Tourcoing is a battle which Englishmen should know, both for its importance in the military history of Europe, and for the not unworthy demeanour which the British troops, though defeated, maintained upon its field.
+
+The true reason that Tourcoing is so little known in this country is to be discovered in that other historical fact attaching to the battle, which I have mentioned. It occupied but a confused and an uncertain place in the general history of Europe; though perhaps, were its military significance fully understood, it would stand out in sharper relief. For though the Battle of Tourcoing was not the beginning of any great military series, nor the end of one; though no very striking immediate political consequence followed upon it, yet it was Tourcoing which made Fleurus possible, and it was Fleurus that opened the victorious advancing march of the French which, looked at as a whole, proceeded triumphantly thenceforward for nearly eighteen years and achieved the transformation of European society.
+
+What, then, was the political circumstance under which this action was fought?
+
+The [[French Revolution]], by the novelty of its doctrines, by the fierceness and rapidity of its action, and by that military character in it which was instinctively divined upon the part of its opponents, challenged, shortly after its inception, the armed interference of those ancient traditional governments, external to and neighbouring upon French territory, which felt themselves threatened by the rapid advance of democracy.
+
+With the steps that led from the first peril of conflict to its actual outbreak, we are not concerned. That outbreak took place in April 1792, almost exactly three years after the meeting of the first Revolutionary Parliament in Versailles.
+
+The first stages of the war (which was conducted by Austria and Prussia upon the one side, against the French forces upon the other) were singularly slow. No general action was engaged in until the month of September, and even then the struggle between the rival armies took the form not so much of a pitched battle as of an inconclusive cannonade known to history as that of Valmy. This inconclusive cannonade took place in the heart of French territory during the march of the invaders upon Paris. Disease, and the accident of weather, determined the retreat of the invaders immediately afterwards. In the autumn of the year, the French forces largely recruited by enthusiastic volunteer levies, but of low military value, poured over the country then called the Austrian Netherlands and now Belgium. But their success was shortlived. A mere efflux of numbers could not hold against the trained and increasing resistance of the Imperial soldiers. In the spring of 1793 the retreat began, and through the summer of that year the military position of Revolutionary [[France]] grew graver and graver. Internal rebellions of the most serious character broke out over the whole territory of the Republic. In Normandy, in the great town of Lyons, in Marseilles, and particularly in the Western districts surrounding the mouth of the Loire, these rebellions had each in turn their moment of success, while the great naval station of Toulon opened its port to the enemy, and received the combined English and Spanish Fleets.
+
+Coincidently with the enormous task of suppressing this widespread domestic rebellion, the Revolutionary Government was compelled to meet the now fully organised advance of its foreign enemies. It was at war no longer with Austria and Prussia alone, but with England, with Holland, with Spain as well, and the foreign powers not only thrust back the incursion which the French had made beyond their frontiers, but proceeded to attack and to capture, one after the other, that barrier of fortresses in the north-east which guarded the advance on Paris.
+
+The succession of misfortune after misfortune befalling the French arms was checked, and the tide turned by the victory won at Wattignies in October 1793. After that victory the immediate peril of a successful invasion, coupled with the capture of Paris, was dissipated. But it was yet uncertain for many months which way the tide would turn — whether the conflict would end in a sort of stale-mate by which the French should indeed be left independent for the moment, but the armed governments of Europe their enemies also left powerful to attack and in the end to ruin them; or whether (as was actually the case) the French should ultimately be able to take the offensive, to re-cross their frontiers, and to dictate to their foes a triumphant peace.
+
+As I have said, the great action from which history must date the long series of French triumphs, bears the name of Fleurus; but before Fleurus there came that considerable success which made Fleurus possible, to which history gives the name of Tourcoing (from the town standing in the midst of the very large and uncertain area over which the struggle was maintained), and which provides the subject of these pages.
+
+Fleurus was decided in June 1794. It was not a battle in which British troops were concerned, and therefore can form no part of this series. Tourcoing was decided in the preceding May, and though, I repeat, it cannot be made the fixed and striking starting-point from which to date the long years of the French advantages, yet it was, as it were, the seed of those advantages, and it was Tourcoing, in its incomplete and complicated success, which made possible all that was to follow.
+
+Tourcoing, then, must be regarded as an unexpected, not wholly conclusive, but none the less fundamental phase in the development of political forces which led to the establishment of the modern world. Its immediate result, though not decisive, was appreciable. To use a metaphor, it was felt in Paris, and to a less extent in London, Berlin, and in Vienna, that the door against which the French were desperately pushing, though not fully open, was thrust ajar. The defeat of a portion of the allied forces in this general action, the inefficacy of the rest, the heartening which it put into the French defence, and the moral effect of such trophies gained, and such a rout inflicted, were of capital import to the whole story of the war.
+
+This is the political aspect in which we must regard the Battle of Tourcoing, but its chief interest by far lies in its purely military aspect; in the indiscretion which so nearly led the French forces to annihilation; in the plan which was laid to surround and to destroy those forces by the convergence of the English, Prussian, and Austrian columns; in the way in which that plan came to nothing, and resulted only in a crushing disaster to one advanced portion of the forces so converging.
+
+Tourcoing is rather a battle for military than for civilian historians, but those who find recreation in military problems upon their own account, apart from their political connection, will always discover the accidents of this engagement, its unexpected developments, and its final issue to be of surpassing interest.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="chapter_11_the_general_military_situation" data-title="Six British Battles — Part 2: THE GENERAL MILITARY SITUATION" data-chapter="THE GENERAL MILITARY SITUATION" data-kind="chapter"></span>
+
+
+PART II. THE GENERAL MILITARY SITUATION
+
+IN ORDER TO understand what happened at the Battle of Tourcoing, it is first necessary to have in mind the general situation of the forces which opposed each other round and about what is now the Franco-Belgian frontier, in the spring of 1794.
+
+These forces were, of course, those of the French Republic upon the one hand, upon the other the coalition with its varied troops furnished by Austria, by Prussia, by England, and some few by sundry of the small States which formed part of the general alliance for the destruction of the new democracy.
+
+The whole campaign of 1794 stands apart from that of 1793. The intervening winter was a period during which, if we disregard a number of small actions in which the French took the offensive, nothing of moment was done upon either side, and we must begin our study with the preparations, originating in the month of February, for the active efforts which it was proposed to attempt when the spring should break.
+
+In that month of February, Mack, recently promoted to the rank of Major-General in the Austrian army, met the Duke of York, the young soldier son of George III., in London, to concert the common plan. It was upon the 12th of that month that this meeting took place. Mack brought the news to the British Cabinet that the Emperor of Austria, his master, was prepared to act as Commander-in-Chief of the allied army in the coming campaign, proposed a general plan of advancing from the Belgian frontier upon Paris after the capture of the frontier fortresses, and negotiated for the largest possible British contingent.
+
+Coburg, it was arranged, should be the General in practical command (under the nominal headship of the Emperor). Prussian troops, in excess of the twenty thousand which Prussia owed as a member of the Empire, were obtained upon the promise of a large subsidy from England and Holland, and with the month of April some 120,000 men were holding the line from Treves to the sea. This passed through and occupied Dinant, Bavai, Valenciennes, St Amand, Denain, Tournai, Ypres, and Nieuport. To this number must be added men in the garrisons, perhaps some 40,000 more. Of this long line the strength lay in the centre.
+
+The central army, under the general command of Coburg, who had his headquarters at Valenciennes, was, if we exclude men in garrisons, somewhat over 65,000 in strength, or more than half the whole strength of the long line. With Coburg in the central army was the Duke of York with some 22,000, and the Prince of Orange with a rather smaller contingent of Dutch.
+
+Over against this long line with its heavy central “knot” or bulk of men under Coburg, in the neighbourhood of Valenciennes, the genius of Carnot had mustered over 200,000 French troops, which, when we have deducted various items for garrisons and other services, counted as effective more than 150,000 but less than 160,000 men. This French line extended from the sea to Maubeuge, passing through Dunquerque, Cassel, Lille, Cambrai, and Bouchain.
+
+It was as a fact a little before the opening of April that the French began the campaign by taking the offensive on a large scale upon the 29th of March.
+
+Sketch Map showing the opposing French and Allied lines. April 1794
+
+Pichegru, who was in command of that frontier army, attacked, with 30,000 men, the positions of the allies near Le Cateau, well to the right or south-east of their centre and his, and was beaten back.
+
+It was upon the 14th of April that the Emperor of Austria joined Coburg at Valenciennes, held a review of his troops (including the British contingent, which will be given later in detail), fixed his headquarters in the French town of Le Cateau, and at once proceeded to the first operation of the campaign, which was the siege of the stronghold of Landrecies. The Dutch contingent of the allies drove in the French outposts and carried the main French position in front of the town within that week. By the 22nd of April the garrison of Landrecies was contained, the beleaguering troops had encircled it, and the siege was begun.
+
+After certain actions (most of them partial, and one of peculiar brilliance in the history of the British cavalry), actions each of interest, and some upon a considerable scale, but serving only to confuse the reader if they were here detailed, Landrecies fell after eight days’ siege, upon the 30th of April. An advance of the Austrian centre, after this success, was naturally expected by the French.
+
+That normal development of the campaign did not take place on account of a curious episode in the strategy of this moment to which I beg the reader to give a peculiar attention. It is necessary to grasp exactly the nature of that episode, for it determined all that was to follow.
+
+While the fate of Landrecies still hung in the balance, and before the surrender of the town, Pichegru had, in another part of the long line, scored one of those successes which in any game or struggle are worse than losing a trick or suffering a defeat. It was one of those successes in which one gets the better of one’s opponent in one chance part of the general contest, but so triumphs without a set plan, with no calculation upon what should follow upon the achievement, and therefore with every prospect of finding oneself in a worse posture after it than before.
+
+To take an analogy from chess: Pichegru’s error, which I will presently describe, might be compared to the action of a player who, taking a castle of his opponent’s with his queen, thereby leaves his king unguarded and open to check-mate.
+
+Wherever men are opposed one to the other in lines, each line having the mission to advance against the other, it is a fatal move to get what footballers call “‘fore side”: to let a portion of your forces advance too far from the general line held by the whole, and to have the advanced part of that portion thus isolated from the support of its fellows. Such a formation invites a concentration of your opponents against the isolated body, and may lead to its destruction.
+
+It was precisely in this position that Pichegru placed a portion of his forces by the ill-advised advance he made down the valley of the Lys to Courtrai.
+
+Taking advantage of the way in which the main forces of the allies were tied to the siege of Landrecies, the French commander wisely moved forward the whole of his forces to the north and west, pushing the enemy back before him to the line Ypres-Menin, and besieging Menin itself. But most unwisely he not only permitted to advance, but himself directed and led, a body of 30,000 men (the command of General Souham) far forward of this general movement: he actually carried it on as far as the town of Courtrai.
+
+The accompanying sketch map shows how much too far advanced this wedge of men (so large a contingent to imperil by isolation!) was beyond the general line, and, to repeat the phrase I have just used, a metaphor which best expresses my meaning, Souham and his division, by Pichegru’s direct orders, had got “‘fore side.”
+
+The only excuse that can be pleaded for Pichegru’s folly in this matter, was the temptation presented by the weak garrison of Courtrai, and the bait which a facile temporary success always holds out for a man who has formed no consistent general plan. But that very excuse is the strongest condemnation of the inexcusable error, and this strategical fault of Pichegru’s was soon paid for by the imperilling of all the great body of French troops within that rashly projected triangle.
+
+For the moment Pichegru may have foolishly congratulated himself that he had done something of military value, as he had certainly done something striking. Menin fell to the French on the same day that Landrecies did to the Austrians, and this further success doubtless tempted him to remain with the head of his wedge at Courtrai, when every consideration of strategy should have prompted him to retrace his steps and to recall the over-advanced division back into line.
+
+This isolated position down the valley of the Lys, this wedge thrust out in front of Lille, positively asked the allies to attack it.
+
+The enemy was a fortnight developing his plan, but his delay was equalled by Pichegru’s determination to hold the advanced post he had captured; and when the allies did finally close in upon that advanced post, nothing but a series of accidents, which we shall follow in detail when we come to the story of the action, saved Souham from annihilation. And the destruction of Souham’s division, considering its numbers and its central position, might have involved the whole French line in a general defeat.
+
+As I have said, it was at the end of April that this false success of Pichegru’s was achieved, and a whole fortnight was to elapse before the allies concentrated to take advantage of that error, and to cut off Souham’s division.
+
+That fortnight was full of minor actions, not a few of them interesting to the student of military history, and one again remarkable as a feat of English horse. I deliberately omit all mention of these lest I should confuse the reader and disturb his conception of the great battle that was to follow.
+
+That battle proceeded upon a certain plan thought out in detail, perfectly simple in character, and united in conception. It failed, as we shall see; and by its failure turned what should have been the cutting-off and destruction of Souham’s command into a signal French victory. But before we can understand the causes of its failure, we must grasp the plan itself in its major lines, and with that object I shall discuss it in my next section under the title of “The Plan of the Allies.”
+
+* * *
+
+
+
+
 <span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_01" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 1)" data-chapter="THE PLAN OF THE ALLIES" data-kind="excerpt"></span>
 
 
@@ -5722,6 +5596,108 @@ On the 13th, Tuesday, the orders of the Emperor to both Clerfayt and the Duke of
 The same archives record the Duke of York sending Lieut.-Colonel Calvert to Clerfayt upon the 14th, to tell him that he meant to attack upon the morrow, the 15th, and they further inform us that it was on the English Prince’s learning how scattered were Clerfayt’s units, and how long it would therefore take him to concentrate, that action was delayed by some thirty-six hours.
 
 Evidence of this sort is absolutely conclusive. The plan was not Mack’s; it was York’s.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="chapter_13_the_preliminaries_of_the_battl" data-title="Six British Battles — Part 4: THE PRELIMINARIES OF THE BATTLE" data-chapter="THE PRELIMINARIES OF THE BATTL" data-kind="chapter"></span>
+
+
+PART IV. THE PRELIMINARIES OF THE BATTLE
+
+TOURCOING IS AN action the preliminaries of which are easy to describe, and need occupy little of our space, because it was a battle in which the plan of one side was developed and prosecuted almost to its conclusion without a corresponding plan upon the other side.
+
+As a rule, the preliminaries of a battle consist in the dispositions taken by each side for hours or for days — sometimes for weeks — beforehand, in order to be in a posture to receive or to attack the other side. These preliminaries include manœuvring for position, and sometimes in the fighting of minor subsidiary actions before the main action takes place.
+
+Now, in the case of Tourcoing, there was none of this, for the French at Tourcoing were surprised.
+
+The surprise was not complete, but it was sufficiently thorough to make the whole of the fighting during the first day, Saturday (at least, the whole of the fighting in the centre of the field), a triumph for the allied advance.
+
+Let us first appreciate exactly how matters looked to Souham when, on the 15th, the Thursday, the blow was about to fall upon him.
+
+He had under his orders, with headquarters now at Courtrai, now at Menin (see sketch map on ), rather less than 40,000. In that dash upon Courtrai a fortnight before, which had led to the dangerous establishment of so large an advanced body in front of the main French line, one main effect of that advance had been to push back, away to the left beyond the Lys, more than 16,000, but less than 20,000 men under the Austrian General, Clerfayt. With that army, Clerfayt’s body, Souham had remained continually in touch. Detachments of it were continually returning to the valley of the Lys to harass his posts, and, in a word, Clerfayt’s was the only force of the enemy which Souham thought he had need to bear in mind.
+
+The bulk of the Austrian army he knew to be quite four days’ march away to the south, at first occupied in the siege of Landrecies, and later stationed in the vicinity of that fortress.
+
+Of course, lying in his exposed position, Souham knew that a general attack upon him from the south was one of the possibilities of the situation, but it was not a thing which he thought could come unexpectedly: at any rate he thought himself prepared, by the use of his scouts and his spies, to hear of any such advance in ample time.
+
+In case he should be attacked, the attack might take one of many forms. It might try to drive him over the Lys, where Clerfayt would be ready to meet him; or it might be a general attack upon Courtrai as a centre; or it might be (what had, as we have seen, been actually determined) an attempt to cut him and all his 40,000 off from the main French line.
+
+This main French line ran through the town of Lille, and Lille not only had its garrison, but also at Sainghin, outside the fortifications to the south-east, a camp, under Bonnaud, of 20,000 men. If the attack from the south or from the north, or from both, managed to cut Souham off from Bonnaud’s camp, and from the garrison at Lille, he was ruined, and his 40,000 were lost; but he hoped to be kept sufficiently informed of the enemy’s movements to fall back in time, should such an attempt be made, and to provide for it by effecting a junction with Bonnaud before it was delivered.
+
+Pichegru, the Commander of the whole French army of the north, who had ordered the advance on Courtrai, happened to be absent upon a visit to the posts away south upon the Sambre River. Souham was therefore temporarily in full command of all the troops which were to be concerned in the coming battle. But the position was only a temporary one, and that must account for the deference he paid to the advice of the four generals subordinate to him, and for the council which he called at Menin on the critical Saturday night which decided the issue. He himself quotes his commission in the following terms:— “Commander-in-Chief of all the troops from the camp at Sainghin to Courtrai inclusive.”
+
+From the beginning of the week, when a detachment of his troops had but just recovered from a sharp action with the Duke of York’s men towards Tournai, Souham appreciated that the forces of the enemy were gradually increasing to the south of him, and that the posts upon the Scheldt were receiving additional enforcements of men. But neither his judgment nor the reports that came in to him led him to believe that the mass of the Austrian army was coming north to attack him. And in this he was right, for, as we have seen, the Emperor did not make up his mind until Wednesday the 14th, which was the day when orders were sent to the Arch-Duke Charles to march northward.
+
+Souham’s attitude of mind up to, say, the Thursday may be fairly described in some such terms as follows: —
+
+“I know that a concentration is going on in the valley of the Scheldt to the south and east of me; it is pretty big, but not yet exactly dangerous, though I shouldn’t wonder if I were attacked in a few days from that quarter. What I am much more certain of is that active and mobile force which I beat off the other day, but which is still intact under the best General opposed to me, Clerfayt. I hear that it is marching south again, and my best troops and my offensive must be directed against that. I am far superior in numbers to Clerfayt, and if I can bring him to an action and break him, I can then turn to the others at my leisure: for the moment I have only one front to think of — that on the north.”
+
+But the negligence which he or his informants were guilty of — a negligence that was to prove so nearly fatal to all those 40,000 French troops — consisted in the failure to discover what was up upon Friday the 16th.
+
+During those twenty-four hours the Arch-Duke Charles had brought up his column to St Amand; the other four columns upon the Scheldt were concentrated, and upon the north of the Lys, Clerfayt had got orders to move upon Wervicq, and was, during the middle hours of Friday, actually upon the march. Yet, during all that day, Friday the 16th, Souham remained ignorant of the extremity of his peril.
+
+The orders which he dictated upon the Friday night, and largely repeated upon the following morning of Saturday the 17th of May, show how little he expected the general action that was upon him. He arranged, indeed, for a cordon of troops to be watching, in insufficient numbers, the side towards the Scheldt, and he sent to Bonnaud and the camp at Sainghin, outside Lille, orders to keep more or less in touch with that cordon. The instructions to this cordon of troops along the eastern side of the French position is no more than one of general vigilance. It is still to Clerfayt and towards the north alone that he directs an offensive and vigorous movement.
+
+In a word, he was a good twenty-four hours behind with his information. He was wasting troops north of the Lys in looking for Clerfayt at a time when that General was already on the march to Wervicq, and he was leaving a scattered line of insufficient bodies to meet what he did not in the least expect, the rapid advance of Bussche, Otto, and York during that Saturday upon Mouscron, Tourcoing, and Roubaix.
+
+Therefore it was that although Bussche’s insufficient force was driven out of Mouscron at last by superior numbers, Otto and York succeeded in sweeping all the resistance before them, and, in the course of that Saturday, reached the first Tourcoing, the second Roubaix, and even Mouveaux.
+
+The whole problem of warfare consists in a comparison between the information that each side has of the movements of the other. The whole art of success in war pivots upon the using of your enemy’s ignorance. Had the allies upon this occasion been more accurate in keeping to their time-table, and somewhat more rapid in their movements, they would have caught the French commander still under the illusion that there was no danger, save from the north, and would have succeeded in cutting off and destroying the main French force by getting in all together between Courtrai and Lille. For at that same moment, the early hours before daybreak of the 17th, the allies had begun their movement.
+
+* * *
+
+
+
+
+<span class="atom-split" data-atom="chapter_14_the_terrain" data-title="Six British Battles — Part 5: THE TERRAIN" data-chapter="THE TERRAIN" data-kind="chapter"></span>
+
+
+PART V. THE TERRAIN
+
+THE TERRAIN OVER which the plan of the allies was to be tested must next be grasped if we are to understand the causes which led to its ultimate failure.
+
+That terrain is most conveniently described as an oblong standing up lengthways north and south, and corresponding to the sketch map overleaf. That oblong has a base of twenty miles from east to west, a length from north to south of thirty-five.
+
+These dimensions are sufficient to show upon what a scale the great plan of the allies for cutting off Souham at Courtrai was designed.
+
+At its south-eastern corner the reader will perceive the town of St Amand, the furthest point south from which the combined movements of the allies began; while somewhat to the left of its top or northern edge, at the point marked “A,” the northern-most body connected with that plan, the body commanded by Clerfayt, was posted at the origin of the movement.
+
+The object of the whole convergence from the Scheldt on one hand, and from Clerfayt’s northern position upon the other, being to cut off the French forces which lay at and south of Courtrai from Lille, and the main line of the French army, it is evident that the actual fighting and the chances of success or disaster would take place within a smaller interior oblong, which I have also marked upon the sketch map. This smaller or interior oblong measures about sixteen miles at its base by about twenty-five miles in length, and includes all the significant points of the action.
+
+The points marked 1, 2, 3, 4, and 5 respectively are the points at which the five columns advancing from the Scheldt valley northward were to find themselves before dawn on the morning of Saturday the 17th of May. We are already acquainted with them. They are Warcoing, Bailleul, Templeuve, Froidmont, and Pont-à-Marcq respectively; while the point marked 6 is Wervicq, from which Clerfayt was to start simultaneously with the five southern columns with the object of meeting his fellows round Tourcoing.
+
+The town of Courtrai will be perceived to lie in the north-eastern angle of this inner oblong, the town of Lille rather below the middle of its western side. In all the country round Courtrai, and especially to the south of it, within the triangle X Y Z, lay the mass of Souham’s command of 40,000 men. There were many posts, of course, scattered outside that triangle, and connecting Courtrai with Lille; but the links were weak, and the main force was where I have indicated it to be.
+
+A large body of French troops being encamped just under the walls of Lille at B (by which letter I mark Sainghin camp), and that fortress also possessing a garrison, the plan of cutting both these off from the 40,000 French that lay in the country near Courtrai involved getting the main part of the allies up from these points of departure on the south, and Clerfayt’s body down from its point of departure on the north to meet upon the line drawn between Lille and Courtrai. Upon this line (which also roughly corresponds to the only main road between the two cities) may be perceived, lying nearer Lille than the centre of such line, the small town of Tourcoing and the village of Mouveaux. It was upon these two points that four of the five southern columns were to converge northward, the second and third column reaching them first, the fourth and fifth marching up from the left in aid; and it was also, of course, upon these two points that Clerfayt was to march southward from the post at Wervicq, that had been given him as his point of departure before dawn upon that Saturday morning. If everything went perfectly, the great mass of the allied army should have found itself, by noon of Saturday the 17th, as I have said, astraddle of the Lille-Courtrai road, and effectively cutting off the French troops to the north.
+
+What was the nature of the wide countryside over which these various movements were to take place?
+
+It was part of that great plain of Flanders which stretches from the River Scheldt almost unbroken to the Straits of Dover and the North Sea. In the whole of the great oblong represented by my sketch map there is hardly a point 150 feet above the water level of the main river valleys, while the great mass of that territory is diversified by no more than very broad and very shallow rolls of land, the crests of which are sometimes and exceptionally as much as fifty feet above the troughs, but the greater part thirty, twenty, or even less. Here and there an isolated hummock shows upon the landscape, but the general impression of one who walks across from the valley of the Lys to that of the Scheldt is of a flat, monotonous land in which one retains no memory of ascent or descent, and in which the eye but rarely perceives, and that only from specially chosen points, any wide horizon.
+
+To-day the greater part of this country suffers from the curse of industrialism and repeats — of course, with far less degradation — the terrible aspect of our own manufacturing towns. Roubaix and Tourcoing in particular are huge straggling agglomerations of cotton-spinners and their hands. A mass of railways and tramways cut the countryside, and the evil presence of coal-smoke mars it everywhere: at least within the region of Lille, Tourcoing, and Roubaix.
+
+In May 1794, though a considerable industry had begun to grow up in Lille itself, the wide, open countryside round the town was entirely agricultural. Much of it was what soldiers call “blind” country: that is, it was cut up into fields with numerous hedges; there were long farm walls and a great number of small watercourses fringed with trees. But, on the other hand, there was very little wood. Moreover, though there were few places from which one could overlook any considerable view, the “blindness” of the field, as a whole, has been much exaggerated in the attempt to excuse or explain the disaster of which it was the theatre. The southern part of it is open enough, and so is the north-eastern portion, in which the first column operated. Of the soil no particular mention is needed; most of the great roads were paved; the weather had created no difficulty in the going, and the only trouble in this respect lay in the northern part, where Clerfayt’s command was condemned to advance over patches of loose and difficult sand, which made the road, or rather rare lanes, very heavy.
+
+It will at once be perceived that, in view of the operations planned, one principal obstacle exists in the terrain, the River Lys. Few bridges crossed this stream, and for the purpose of turning the French position and coming across the Lys from the north to the neighbourhood of Mouveaux, there was in those days no bridge save the bridge at Wervicq (at the point marked 6 on the plan at the beginning of this section); but this difficulty we have seen to be lessened by the presence in Clerfayt’s command of a section of pontoons.
+
+At first sight one might perceive no other considerable obstacle save the Lys to the general movement of the allied army. But when the peculiar course of the little River Marque is pointed out, and the nature of its stream described, the reader will perceive that it exercised some little effect upon the fortunes of the battle, and might have exercised a much greater one to the advantage of the British troops had not the Duke of York blundered in a fashion which will be later described.
+
+In the first place, it should be noted that this little stream (it is no wider than a canal, will barely allow two barges to pass in its lower course, and will not float one to the southward of Lille) turns up quite close to Roubaix, and at the nearest point is not a mile from the market-place of that town.
+
+Now the significance of such a conformation to the [[Battlefield|battlefield]] of Tourcoing lay in the fact that it was impossible for any considerable force to manœuvre between the third column (which was marching upon Roubaix) and the Marque River. Had the Marque not existed, Kinsky, with the fourth column, would have been free to march parallel with York, just as York marched parallel with Otto, while the Arch-Duke with his fifth column, instead of having been given a rendezvous right down south at Pont-à-Marcq (the point marked 5 on my sketch), would have gone up the main road from St Amand to Lille, and have marched parallel with Kinsky, just as Kinsky would have marched parallel with York. In other words, the fourth and the fifth columns, instead of being ordered along the dotted lines marked upon my sketch (the elbows in which lines correspond to the crossing places of the Marque), would have proceeded along the uninterrupted arrow lines which I have put by the side of them.
+
+The Marque made all the difference. It compelled the fifth column to take its roundabout road, and the fourth, detained by the delay of the fifth, was held, as we shall see in what follows, for a whole day at one of the crossings of the river.
+
+The little stream has a deep and muddy bottom, and the fields upon its banks are occasionally marshy. This feature has been exaggerated, as have the other features I have mentioned, in order to explain or excuse the defeat, but, at any rate, it prevented the use of crossing places other than bridges. The Marque has no true fords, and there is no taking an army across it, narrow as it is, save by the few bridges which then existed. These bridges I have marked upon the sketch.
+
+So far as the terrain is concerned, then, what we have to consider is country, flat, but containing low defensive positions, largely cut up, especially between the Scheldt and Roubaix, by hedges and walls, though more open elsewhere, and particularly open towards the north: a serious obstacle to the advance of one body in the shape of the River Lys; and another obstacle, irritating rather than formidable in character, but sufficient both by its course and its marshy soil to complicate the advance, namely, the little River Marque.
+
+* * *
+
+As to the weather, it was misty but fine. The nights in bivouac were passed without too much discomfort, and the only physical condition which oppressed portions of the allied army consisted in the error of its commanders, and proceeded from fatigue.
 
 * * *
 
@@ -8218,3 +8194,27 @@ But against this truth there is another truth to be set, which the individual ma
 To teach infantry that they can thus withstand cavalry, instruction is the instrument. You must drill them, and form them constantly, and hammer it into them by repeated statement that if they stand firm all will be well. This has been done in the case of men on foot armed only with staves. It is easier, of course, to inculcate the lesson when they are possessed of missile weapons; for a continued discharge of these is impossible from charging riders, and an infantry force armed with missile weapons, and unshaken, can be easily persuaded by training, and still more by experience, that it can resist cavalry. Under modern conditions, where missile weapons are of long range and accurate, this goes without saying; but even with a range of from fifty to eighty yards of a missile that will bring down a horse or stop him, infantry can easily be made sufficiently confident if it is unshaken. Now, to shake it, there is nothing available (or was nothing before the art of flying was developed) save other men, equally stationary, armed with other missiles. The long-bowman of the Plantagenets knew that he had a missile weapon superior to anything that his enemy could bring against him. He therefore stood upon the defensive against a feudal cavalry charge unshaken, and he was trained by his experience and instruction to know that if he kept his line unbroken, the cavalry charge would never get home. That is the supreme tactical factor of the Plantagenet successes of the Hundred Years’ War.
 
 * * *
+
+
+
+
+<span class="atom-split" data-atom="chapter_21_the_results_of_the_battle" data-title="Six British Battles — Part 6: THE RESULTS OF THE BATTLE" data-chapter="THE RESULTS OF THE BATTLE" data-kind="chapter"></span>
+
+
+PART VI. THE RESULTS OF THE BATTLE
+
+THE IMMEDIATE RESULTS of the victory of Poitiers consisted, first, in the immensely increased prestige which it gave to the House of Plantagenet throughout Europe.
+
+Next, we must reckon the local, though ephemeral, effect upon the opinion of Aquitaine, through which the Black Prince was now free to retreat at his ease towards Bordeaux and the secure territories of Gascony.
+
+But though these results were the most immediate, and though the victory of one monarch over the other was the most salient aspect of the victory for contemporaries, as it is for us, there was another element which we must particularly consider because it illustrates the difference between the political conditions of the fourteenth century and of our own time.
+
+The real point of the success was the capture of the king’s person. The importance of the action lay, of course, to some extent, in the prestige it gave to the Black Prince personally; though that point was lost a very few years afterwards in the subsequent decline of the Plantagenet power in the south. In so far as an action in those days could carry a national effect — that is, could be regarded by distant civilian populations as proof of strength or weakness in contrasting races and societies — Poitiers had not even the claim of Crécy; for it was not principally an archers’ but a knights’ battle, and the knights were mainly the gentry of the South of [[France]], while those who had been broken by the only cavalry movement of the engagement were not even French knights, but levies of German, Spanish, and other origin. But the capture of the King of [[France]] at that particular moment of chivalry, that last fermentation of a feudal society which was reaching its term, had a vast positive effect, as well as an almost incalculable moral effect.
+
+There is nothing in modern times to which such an accident can be accurately paralleled. Perhaps the capture of the capital city would be the nearest thing; but there is this grave difference between them, that the capture of the modern capital must mean prolonged and decisive success in war, whereas the capture of John was an accident of the field. The victory would have been less by far if the whole of the king’s command had fled, with the king himself at the head of the rout.
+
+A modern parallel more nearly exact would be the transference in the midst of a conflict of some great financial power from one side to the other; or again, in a naval war, the blowing up of so many capital ships by contact mines as would put one of the two opposing fleets into a hopeless inferiority to the other. To capture a king was to capture not so much a necessary part of the mechanism of government as the most important and the richest member of a feudal organisation. It meant the power to claim an enormous feudal ransom for his person. It meant, more doubtfully, the power to engage him, while he was yet a prisoner, to terms that would bind his lieges: “more doubtfully,” because the whole feudal system jealously regarded the rights both of individual owners and of custom from the peasant to the crown. Finally, to capture the king was to get hold of the chief financial support of an enemy. A feudal king had vast revenues in the shape of rents, not competitive, but fixed, which came to him as they did to any other lord, but in much greater amount than to any other lord. The king was the chief economic factor in that autonomous economic federation which we call the feudal organisation of Gaul.
+
+The fact that his capture was an accident in no way lessened the result; it was regarded in the military mind of those days much as we regard the crippling of a modern financial power by some chance of speculation. It was only a bit of good fortune on the one side, and of bad fortune on the other, but one to be duly taken advantage of by those whom it would profit.
+
+The immediate result of that capture was twofold: an admission on the part of John of the Plantagenet claim, and a corresponding spontaneous movement in [[France]] which led to the defeat of that claim; the signing (ultimately) of a treaty tearing the French monarchy in two; and, finally, the rejection and nullifying of that treaty by the mere instinct of the nation. But these lengthy political consequences — followed by the further success of the Black Prince’s nephew at Agincourt, and again by his successor’s loss of all save Calais — do not concern this book.

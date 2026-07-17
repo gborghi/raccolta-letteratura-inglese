@@ -8029,6 +8029,290 @@ Ma quando le profondità vengono smosse in una società, e le anime di tutti gli
 
 
 
+<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_01" data-title="The Uses of Diversity — Questions of Divorce (part 1)" data-chapter="Questions of divorce Divorce" data-kind="excerpt"></span>
+
+
+Questions of [[divorce|Divorce]]
+
+I HAVE just picked up a little book that is not only
+brightly and suggestively written, but is somewhat unique,
+in this sense--that it enunciates the modern and advanced
+view of Woman in such language as a sane person can stand.
+It is written by Miss Florence Farr, is calledModern Woman:
+her Intentions, and is published by Mr. Frank Palmer.
+This style of book I confess to commonly finding foolish and vain.
+The New Woman's monologue wearies, not because it is unwomanly,
+but because it is inhuman.  It exhibits the most exhausting
+of combinations:  the [[Union|union]] of [[Fanaticism|fanaticism]] of speech with frigidity
+of [[Soul|soul]]--the things that made Robespierre seem a [[Monster|monster]].
+The worst example I remember was once trumpeted in a Review:
+a lady doctor, who has ever afterwards haunted me as a sort
+of [[nightmare]] of spiritual imbecility.  I forget her exact words,
+but they were to the effect that sex and motherhood should be treated
+neither with ribaldry nor reverence:  "It is too serious a subject
+for ribaldry, and I myself cannot understand reverence towards
+anything that is physical."  There, in a few words, is the whole
+twisted and tortured priggishness which poisons the present age.
+The person who cannot laugh at sex ought to be kicked;
+and the person who cannot reverence [[Pain|pain]] ought to be killed.
+Until that lady doctor gets a little ribaldry and a little reverence
+into her [[Soul|soul]], she has no right to have any opinion at all about
+the affairs of humanity.  I remember there was another lady,
+trumpeted in the same Review, a French lady who broke off her
+engagement with the excellent gentleman to whom she was attached
+on the ground that affection interrupted the flow of her thoughts.
+It was a thin sort of flow in any case, to judge by the samples;
+and no [[Doubt|doubt]] it was easily interrupted.
+
+The author ofModern Woman is bitten a little by the mad dog
+of modernity, the habit of dwelling disproportionally on the abnormal
+and the diseased; but she writes rationally and humorously,
+like a human being; she sees that there are two sides to
+the case; and she even puts in a fruitful suggestion that,
+with its subconsciousness and its virtues of the vegetable,
+the new psychology may turn up on the side of the old womanhood.
+One may say indeed that in such a book as this our amateur
+philosophizing of to-day is seen at its fairest; and even at
+its fairest it exhibits certain qualities of bewilderment
+and disproportion which are somewhat curious to note.
+
+I think the oddest thing about the advanced people is that, while they
+are always talking of things as problems, they have hardly any notion
+of what a real problem is.  A real problem only occurs when there
+are admittedly disadvantages in all courses that can be pursued.
+If it is discovered just before a fashionable wedding that the
+Bishop is locked up in the coal-cellar, that is not a problem.
+It is obvious to anyone but an extreme anti-clerical or practical joker
+that the Bishop must be let out of the coal-cellar. But suppose the Bishop
+has been locked up in the wine-cellar, and from the obscure noises,
+sounds as of [[Song|song]] and [[Dance|dance]], etc., it is guessed that he has
+indiscreetly tested the vintages round him; then, indeed, we may
+properly say that there has arisen a problem; for, upon the one hand,
+it is awkward to keep the wedding waiting, while, upon the other,
+any hasty opening of the door might mean an episcopal rush and scenes
+of the most unforeseen description.
+
+An incident like this (which must constantly happen in our
+gay and varied social life) is a true problem because there
+are in it incompatible advantages.  Now if woman is simply
+the domestic slave that many of these writers represent,
+if man has bound her by brute force, if he has simply knocked her
+down and sat on her--then there is no problem about the matter.
+She has been locked in the kitchen, like the Bishop in
+the coal-cellar; and they both of them ought to be let out.
+If there is any problem of sex, it must be because the ease
+is not so simple as that; because there is something to be
+said for the man as [[Well|well]] as for the woman; and because there
+are evils in unlocking the kitchen door, in addition to
+the obvious good of it.  Now, I will take two instances from
+Miss Farr's own book of problems that are really problems,
+and which she entirely misses because she will not admit
+that they are problematical.
+
+The writer asks the substantial question squarely enough:
+"Is indissoluble [[Marriage|marriage]] good for mankind?" and she answers
+it squarely enough:  "For the great mass of mankind, yes."
+To those like myself, who move in the old-world dream of [[democracy|Democracy]],
+that admission ends the whole question.  There may be exceptional
+people who would be happier without Civil [[government|Government]];
+sensitive souls who really feel unwell when they see a policeman.
+But we have surely the fight to impose the State on everybody
+if it suits nearly everybody; and if so, we have the right to
+impose the Family on everybody if it suits nearly everybody.
+But the queer and cogent point is this; that Miss Farr does
+not see the real difficulty about allowing exceptions--the real
+difficulty that has made most legislators reluctant to allow them.
+I do not say there should be no exceptions, but I do say that
+the author has not seen the painful problem of permitting any.
+
+The difficulty is simply this:  that if it comes to claiming
+exceptional treatment, the very people who will claim it
+will be those who least deserve it.  The people who are quite
+convinced they are superior are the very inferior people;
+the men who really think themselves extraordinary are the most
+ordinary rotters on earth.  If you say, "Nobody must steal
+the [[Crown]] of England," then probably it will not be stolen.
+After that, probably the next best thing would be to say,
+"Anybody may steal the [[Crown]] of England," for then the [[Crown]]
+might find its way to some honest and modest fellow.
+But if you say, "Those who feel themselves to have Wild and
+Wondrous Souls, and they only, may steal the [[Crown]] of England,"
+then you may be sure there will be a rush for it of all
+the rag, tag, and bobtail of the universe, all the quack doctors,
+all the sham artists, all the demireps and drunken egotists,
+all the nationless adventurers and criminal monomaniacs
+of the world.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questioni di [[divorce|Divorzio]]
+
+HO appena preso in mano un libretto che non solo è scritto in modo brillante e stimolante, ma è in qualche modo singolare, in questo senso: che enuncia la visione moderna e avanzata della Donna in un linguaggio che una persona sana di mente può tollerare. È scritto dalla signorina Florence Farr, s'intitola Modern Woman: her Intentions, ed è pubblicato dal signor Frank Palmer. Questo genere di libro confesso di trovarlo comunemente sciocco e vano. Il monologo della Donna Nuova stanca, non perché sia poco femminile, ma perché è disumano. Esibisce la più estenuante delle combinazioni: l'[[Union|unione]] del [[Fanaticism|fanatismo]] della parola con la freddezza dell'[[Soul|anima]] — le cose che facevano apparire Robespierre un [[Monster|mostro]]. Il peggior esempio che ricordi fu una volta strombazzato in una Rivista: una dottoressa, che da allora mi ha perseguitato come una sorta di [[nightmare|incubo]] di imbecillità spirituale. Ho dimenticato le sue parole esatte, ma erano nel senso che il sesso e la maternità non dovrebbero essere trattati né con scurrilità né con reverenza: «È un argomento troppo serio per la scurrilità, e io stessa non riesco a comprendere la reverenza verso qualcosa che è fisico.» Ecco, in poche parole, tutta la contorta e tormentata saccenteria che avvelena l'età presente. La persona che non sa ridere del sesso dovrebbe essere presa a calci; e la persona che non sa riverire il [[Pain|dolore]] dovrebbe essere uccisa. Finché quella dottoressa non si mette un po' di scurrilità e un po' di reverenza nell'[[Soul|anima]], non ha alcun diritto di avere una qualsiasi opinione sulle faccende dell'umanità. Ricordo che c'era un'altra signora, strombazzata nella stessa Rivista, una signora francese che ruppe il fidanzamento con l'eccellente gentiluomo a cui era legata con la motivazione che l'affetto interrompeva il flusso dei suoi pensieri. Era comunque un flusso piuttosto esile, a giudicare dai campioni; e senza [[Doubt|dubbio]] era facilmente interrotto.
+
+L'autrice di Modern Woman è morsa un poco dal cane rabbioso della modernità, l'abitudine di soffermarsi in modo sproporzionato sull'anormale e sul malato; ma scrive in modo razionale e spiritoso, come un essere umano; vede che vi sono due lati della questione; e inserisce persino un suggerimento fecondo, e cioè che, con la sua subconscienza e le sue virtù del vegetale, la nuova psicologia potrebbe schierarsi dalla parte dell'antica femminilità. Si può dire, in effetti, che in un libro come questo il nostro dilettantesco filosofeggiare odierno si vede nella sua veste migliore; e persino nella sua veste migliore esso esibisce certe qualità di smarrimento e di sproporzione che sono alquanto curiose da notare.
+
+Credo che la cosa più strana riguardo alle persone avanzate sia che, mentre parlano continuamente delle cose come problemi, non hanno quasi alcuna nozione di che cosa sia un vero problema. Un vero problema si presenta solo quando vi sono, per ammissione generale, svantaggi in tutte le vie che si possono seguire. Se, poco prima di un matrimonio mondano, si scopre che il Vescovo è rinchiuso nella carbonaia, quello non è un problema. È ovvio a chiunque, tranne a un anticlericale estremo o a un burlone, che il Vescovo deve essere fatto uscire dalla carbonaia. Ma supponiamo che il Vescovo sia stato rinchiuso nella cantina dei vini e che, da rumori oscuri, suoni come di [[Song|canto]] e di [[Dance|danza]], ecc., si intuisca che egli ha indiscretamente saggiato le annate intorno a sé; allora, in verità, possiamo propriamente dire che è sorto un problema; poiché, da un lato, è imbarazzante far attendere il matrimonio, mentre, dall'altro, qualsiasi frettolosa apertura della porta potrebbe significare un'irruzione episcopale e scene della più imprevista descrizione.
+
+Un incidente come questo (che deve accadere di continuo nella nostra gaia e variegata vita sociale) è un vero problema perché in esso vi sono vantaggi incompatibili. Ora, se la donna è semplicemente la schiava domestica che molti di questi scrittori rappresentano, se l'uomo l'ha soggiogata con la forza bruta, se l'ha semplicemente atterrata e le si è seduto sopra — allora non vi è alcun problema nella faccenda. Ella è stata rinchiusa in cucina, come il Vescovo nella carbonaia; ed entrambi dovrebbero essere fatti uscire. Se vi è un qualche problema del sesso, dev'essere perché il caso non è così semplice; perché c'è qualcosa da dire in favore dell'uomo così [[Well|bene]] come della donna; e perché vi sono mali nell'aprire la porta della cucina, oltre all'ovvio bene di ciò. Ora prenderò due esempi, dal libro stesso della signorina Farr, di problemi che sono davvero problemi, e che ella manca del tutto perché non vuole ammettere che siano problematici.
+
+L'autrice pone la questione sostanziale in modo abbastanza netto: «Il [[Marriage|matrimonio]] indissolubile è un bene per l'umanità?» e vi risponde in modo abbastanza netto: «Per la grande massa dell'umanità, sì.» Per quelli come me, che si muovono nel sogno d'altri tempi della [[democracy|Democrazia]], quell'ammissione chiude l'intera questione. Vi possono essere persone eccezionali che sarebbero più felici senza un [[government|Governo]] civile; anime sensibili che si sentono davvero male alla vista di un poliziotto. Ma abbiamo sicuramente il diritto di imporre lo Stato a tutti se conviene a quasi tutti; e se è così, abbiamo il diritto di imporre la Famiglia a tutti se conviene a quasi tutti. Ma il punto strano e cogente è questo: che la signorina Farr non vede la vera difficoltà del permettere eccezioni — la vera difficoltà che ha reso la maggior parte dei legislatori riluttanti a consentirle. Non dico che non vi debbano essere eccezioni, ma dico che l'autrice non ha visto il penoso problema del permetterne alcuna.
+
+La difficoltà è semplicemente questa: che, quando si tratta di reclamare un trattamento eccezionale, proprio coloro che lo reclameranno saranno quelli che meno lo meritano. Le persone del tutto convinte di essere superiori sono proprio le persone inferiori; gli uomini che davvero si credono straordinari sono i più ordinari mascalzoni della terra. Se dite: «Nessuno deve rubare la [[Crown|Corona]] d'Inghilterra», allora probabilmente non verrà rubata. Dopodiché, forse la cosa migliore sarebbe dire: «Chiunque può rubare la [[Crown|Corona]] d'Inghilterra», poiché allora la [[Crown|Corona]] potrebbe trovare la sua strada verso qualche onesto e modesto individuo. Ma se dite: «Coloro che sentono di avere Anime Selvagge e Meravigliose, e loro soltanto, possono rubare la [[Crown|Corona]] d'Inghilterra», allora potete star certi che vi sarà una corsa a essa da parte di tutta la marmaglia e la ciurmaglia dell'universo, tutti i ciarlatani, tutti i falsi artisti, tutte le donnacce e gli egotisti ubriaconi, tutti gli avventurieri senza patria e i monomani criminali del mondo.
+
+
+
+<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_02" data-title="The Uses of Diversity — Questions of Divorce (part 2)" data-chapter="Questions of divorce Divorce" data-kind="excerpt"></span>
+
+
+So, if you say that [[Marriage|marriage]] is for common people, but [[divorce]]
+for free and noble spirits, all the weak and selfish people
+will dash for the [[divorce]]; while the few free and noble
+spirits you wish to help will very probably (because they
+are free and noble) go on wrestling with the [[Marriage|marriage]].
+For it is one of the marks of real dignity of character not to wish
+to separate oneself from the [[Honour|honour]] and [[Tragedy|tragedy]] of the whole tribe.
+All men are ordinary men; the extraordinary men are those
+who know it.
+
+The weakness of the proposition that [[Marriage|marriage]] is good for the common herd,
+but can be advantageously violated by special "experimenters"
+and pioneers, is that it takes no account of the problem of the disease
+of [[Pride|pride]].  It is easy enough to say that weaker souls had better
+be guarded, but that we must give [[Freedom|freedom]] to Georges Sand or make
+exceptions for George Eliot.  The practical puzzle is this:
+that it is precisely the weakest sort of lady novelist who thinks
+she is Georges Sand; it is precisely the silliest woman who is
+sure she is George Eliot.  It is the small [[Soul|soul]] that is sure it
+is an exception; the large [[Soul|soul]] is only too proud to be the rule.
+To advertise for exceptional people is to collect all
+the sulks and sick fancies and futile ambitions of the earth.
+The good [[artist]] is he who can be understood; it is the bad [[artist]]
+who is always "misunderstood." In short, the great man is a man;
+it is always the tenth-rate man who is the Superman.
+
+Miss Farr disposes of the difficult question of vows and bonds
+in [[Love|love]] by leaving out altogether the one extraordinary
+fact of experience on which the whole matter turns.
+She again solves the problem by assuming that it is not a problem.
+Concerning oaths of fidelity, etc., she writes:  "We cannot trust
+ourselves to make a real [[Love|love]]-knot unless money or custom forces us
+to 'bear and forbear.'  There is always the lurking [[Fear|fear]] that we
+shall not be able to keep [[Faith|faith]] unless we swear upon the Book.
+This is, of course, not true of young [[lovers]].  Every first [[Love|love]]
+is born free of tradition; indeed, not only is first [[Love|love]]
+[[Innocent|innocent]] and valiant, but it sweeps aside all the wise laws it
+has been taught, and burns away experience in its own light.
+The revelation is so extraordinary, so unlike anything told
+by the poets, so absorbing, that it is impossible to believe
+that the feeling can die out."
+
+Now this is exactly as if some old naturalist settled the bat's
+place in [[Nature|nature]] by saying boldly, "Bats do not fly."  It is as if
+he solved the problem of whales by bluntly declaring that whales
+live on land.  There is a problem of vows, as of bats and whales.
+What Miss Farr says about it is quite lucid and explanatory;
+it simply happens to be flatly untrue.  It is not the fact
+that young [[lovers]] have no [[Desire|desire]] to swear on the Book.
+They are always at it.  It is not the fact that every young
+[[Love|love]] is born free of traditions about binding and promising,
+about bonds and signatures and seals.  On the contrary, [[lovers]] wallow
+in the wildest pedantry and precision about these matters.
+They do the craziest things to make their [[Love|love]] legal and irrevocable.
+They tattoo each other with promises; they cut into rocks
+and oaks with their names and vows; they bury ridiculous
+things in ridiculous places to be a witness against them;
+they bind each other with rings, and inscribe each other in Bibles;
+if they are raving lunatics (which is not untenable),
+they are mad solely on this idea of binding and on nothing else.
+It is quite true that the tradition of their fathers and mothers
+is in favour of fidelity; but it is emphatically not true
+that the [[lovers]] merely follow it; they invent it anew.
+It is quite true that the [[lovers]] feel their [[Love|love]] eternal,
+and independent of oaths; but it is emphatically
+not true that they do not [[Desire|desire]] to take the oaths.
+They have a ravening thirst to take as many oaths as possible.
+Now this is the [[Paradox|paradox]]; this is the whole problem.
+It is not true, as Miss Farr would have it, that young
+people feel free of vows, being confident of constancy;
+while old people invent vows, having lost that confidence.
+That would be much too simple; if that were so there would be
+no problem at all.  The startling but quite solid fact is that
+young people are especially fierce in making fetters and final
+ties at the very moment when they think them unnecessary.
+The [[Time|time]] when they want the vow is exactly the [[Time|time]] when they
+do not need it.  That is worth thinking about.
+
+Nearly all the fundamental facts of mankind are to be found in
+its fables.  And there is a singularly sane [[Truth|truth]] in all the old
+stories of the monsters--such as centaurs, mermaids, sphinxes,
+and the rest.  It will be noted that in each of these the humanity,
+though imperfect in its extent, is perfect in its quality.
+The [[Mermaid|mermaid]] is half a lady and half a fish; but there is nothing
+fishy about the lady.  A centaur is half a gentleman and half
+a [[Horse|horse]].  But there is nothing horsey about the gentleman.
+The centaur is a manly sort of man--up to a certain point.
+The [[Mermaid|mermaid]] is a womanly woman--so far as she goes.  The human parts
+of these monsters are handsome, like heroes, or lovely, like nymphs;
+their bestial appendages do not affect the full perfection of
+their humanity--what there is of it.  There is nothing humanly wrong
+with the centaur, except that he rides a [[Horse|horse]] without a head.
+There is nothing humanly wrong with the [[Mermaid|mermaid]]; Hood put a good comic
+motto to his picture of a [[Mermaid|mermaid]]:  "All's [[Well|well]] that ends [[Well|well]]."
+It is, perhaps, quite true; it all depends which end.
+Those old wild images included a crucial [[Truth|truth]].  Man is a [[Monster|monster]].
+And he is all the more a [[Monster|monster]] because one part of him is perfect.
+It is not true, as the evolutionists say, that man moves perpetually
+up a slope from imperfection to perfection, changing ceaselessly,
+so as to be suitable.  The immortal part of a man and the
+deadly part are jarringly distinct, and have always been.
+And the best proof of this is in such a case as we have considered--
+the case of the oaths of [[Love|love]].
+
+A man's [[Soul|soul]] is as full of voices as a forest; there are ten
+thousand tongues there like all the tongues of the trees:
+fancies, follies, memories, madnesses, mysterious fears,
+and more mysterious hopes.  All the settlement and sane
+[[government]] of life consists in coming to the conclusion
+that some of those voices have authority and others not.
+You may have an impulse to fight your enemy or an impulse to run
+away from him; a reason to serve your country or a reason
+to betray it; a good idea for making sweets or a better idea
+for poisoning them.  The only test I know by which to judge
+one argument or inspiration from another is ultimately this:
+that all the noble necessities of man talk the language of [[Eternity|eternity]].
+When man is doing the three or four things that he was sent
+on this earth to do, then he speaks like one who shall
+live for ever.  A man dying for his country does not talk
+as if local preferences could change.  Leonidas does
+not say, "In my present mood, I prefer Sparta to Persia."
+William Tell does not remark, "The Swiss civilization,
+so far as I can yet see, is superior to the Austrian."
+When men are making commonwealths, they talk in terms of the absolute,
+and so they do when they are making (however unconsciously)
+those smaller commonwealths which are called families.  There are
+in life certain immortal moments, moments that have authority.
+[[lovers|Lovers]] are right to tattoo each other's skins and cut each
+other's names about the world; they do belong to each other,
+in a more awful sense than they know.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così, se dite che il [[Marriage|matrimonio]] è per la gente comune, ma il [[divorce|divorzio]] per gli spiriti liberi e nobili, tutte le persone deboli ed egoiste si precipiteranno verso il [[divorce|divorzio]]; mentre i pochi spiriti liberi e nobili che desiderate aiutare, molto probabilmente (proprio perché sono liberi e nobili) continueranno a lottare con il [[Marriage|matrimonio]]. Poiché è uno dei segni della vera dignità di carattere il non voler separarsi dall'[[Honour|onore]] e dalla [[Tragedy|tragedia]] dell'intera tribù. Tutti gli uomini sono uomini comuni; gli uomini straordinari sono quelli che lo sanno.
+
+La debolezza della proposizione che il [[Marriage|matrimonio]] è un bene per il gregge comune, ma può essere vantaggiosamente violato da speciali «sperimentatori» e pionieri, sta nel fatto che essa non tiene conto del problema della malattia dell'[[Pride|orgoglio]]. È abbastanza facile dire che le anime più deboli farebbero meglio a essere sorvegliate, ma che dobbiamo concedere la [[Freedom|libertà]] a George Sand o fare eccezioni per George Eliot. L'enigma pratico è questo: che è precisamente la più debole specie di romanziera che si crede George Sand; è precisamente la donna più sciocca che è sicura di essere George Eliot. È l'[[Soul|anima]] piccola che è sicura di essere un'eccezione; l'[[Soul|anima]] grande è fin troppo fiera di essere la regola. Fare pubblicità per persone eccezionali significa raccogliere tutti i musi lunghi, tutte le fantasie malate e tutte le futili ambizioni della terra. Il buon [[artist|artista]] è colui che può essere compreso; è il cattivo [[artist|artista]] che è sempre «frainteso». In breve, il grande uomo è un uomo; è sempre l'uomo di decima categoria a essere il Superuomo.
+
+La signorina Farr liquida la difficile questione dei voti e dei vincoli nell'[[Love|amore]] tralasciando del tutto l'unico fatto straordinario dell'esperienza su cui l'intera faccenda ruota. Ella risolve di nuovo il problema assumendo che non sia un problema. Riguardo ai giuramenti di fedeltà, ecc., ella scrive: «Non possiamo fidarci di noi stessi nel fare un vero nodo d'[[Love|amore]] a meno che il denaro o la consuetudine non ci costringano a "sopportare e tollerare". C'è sempre il [[Fear|timore]] latente di non essere capaci di mantenere la [[Faith|fede]] a meno di non giurare sul Libro. Questo, naturalmente, non è vero dei giovani [[lovers|innamorati]]. Ogni primo [[Love|amore]] nasce libero dalla tradizione; anzi, non solo il primo [[Love|amore]] è [[Innocent|innocente]] e valoroso, ma spazza via tutte le sagge leggi che gli sono state insegnate, e brucia l'esperienza nella propria luce. La rivelazione è così straordinaria, così diversa da tutto ciò che i poeti raccontano, così assorbente, che è impossibile credere che quel sentimento possa spegnersi.»
+
+Ora, questo è esattamente come se qualche vecchio naturalista stabilisse il posto del pipistrello nella [[Nature|natura]] dicendo baldanzosamente: «I pipistrelli non volano.» È come se risolvesse il problema delle balene dichiarando bruscamente che le balene vivono sulla terraferma. C'è un problema dei voti, come dei pipistrelli e delle balene. Ciò che la signorina Farr dice al riguardo è del tutto lucido ed esplicativo; si dà soltanto il caso che sia piattamente falso. Non è vero che i giovani [[lovers|innamorati]] non abbiano alcun [[Desire|desiderio]] di giurare sul Libro. Ci sono sempre dietro. Non è vero che ogni giovane [[Love|amore]] nasca libero dalle tradizioni sul vincolare e sul promettere, sui legami, sulle firme e sui sigilli. Al contrario, gli [[lovers|innamorati]] si crogiolano nella più sfrenata pedanteria e precisione su queste materie. Fanno le cose più folli per rendere il loro [[Love|amore]] legale e irrevocabile. Si tatuano l'un l'altro con promesse; incidono nelle rocce e nelle querce i loro nomi e i loro voti; seppelliscono cose ridicole in luoghi ridicoli perché testimonino contro di loro; si legano l'un l'altro con anelli, e si iscrivono l'un l'altro nelle Bibbie; se sono forsennati (il che non è insostenibile), sono pazzi unicamente su questa idea del vincolarsi e su nient'altro. È del tutto vero che la tradizione dei loro padri e delle loro madri è in favore della fedeltà; ma è enfaticamente falso che gli [[lovers|innamorati]] la seguano soltanto; la inventano di nuovo. È del tutto vero che gli [[lovers|innamorati]] sentono il loro [[Love|amore]] eterno e indipendente dai giuramenti; ma è enfaticamente falso che essi non [[Desire|desiderino]] prestare i giuramenti. Hanno una sete vorace di prestare quanti più giuramenti possibile. Ora, questo è il [[Paradox|paradosso]]; questo è l'intero problema. Non è vero, come vorrebbe la signorina Farr, che i giovani si sentano liberi dai voti, essendo sicuri della costanza; mentre i vecchi inventano i voti, avendo perduto quella sicurezza. Sarebbe troppo semplice; se fosse così non ci sarebbe alcun problema. Il fatto sorprendente ma del tutto solido è che i giovani sono particolarmente feroci nel forgiare catene e vincoli definitivi proprio nel momento in cui li ritengono superflui. Il [[Time|momento]] in cui vogliono il voto è esattamente il [[Time|momento]] in cui non ne hanno bisogno. Vale la pena rifletterci.
+
+Quasi tutti i fatti fondamentali dell'umanità si trovano nelle sue favole. E c'è una [[Truth|verità]] singolarmente sana in tutte le vecchie storie dei mostri — come i centauri, le sirene, le sfingi e il resto. Si noterà che in ciascuno di essi l'umanità, benché imperfetta nella sua estensione, è perfetta nella sua qualità. La [[Mermaid|sirena]] è per metà dama e per metà pesce; ma non c'è nulla di pesciolino nella dama. Un centauro è per metà gentiluomo e per metà [[Horse|cavallo]]. Ma non c'è nulla di cavallino nel gentiluomo. Il centauro è una specie virile d'uomo — fino a un certo punto. La [[Mermaid|sirena]] è una donna femminile — per quanto arriva. Le parti umane di questi mostri sono avvenenti, come eroi, o incantevoli, come ninfe; le loro appendici bestiali non intaccano la piena perfezione della loro umanità — per quel poco che ce n'è. Non c'è nulla di umanamente sbagliato nel centauro, tranne che cavalca un [[Horse|cavallo]] senza testa. Non c'è nulla di umanamente sbagliato nella [[Mermaid|sirena]]; Hood mise un buon motto comico alla sua immagine di una [[Mermaid|sirena]]: «Tutto è [[Well|bene]] quel che finisce [[Well|bene]].» È, forse, del tutto vero; dipende tutto da quale estremità. Quelle antiche immagini selvagge racchiudevano una [[Truth|verità]] cruciale. L'uomo è un [[Monster|mostro]]. Ed è tanto più un [[Monster|mostro]] in quanto una parte di lui è perfetta. Non è vero, come dicono gli evoluzionisti, che l'uomo salga perpetuamente per un pendio dall'imperfezione alla perfezione, mutando incessantemente, così da rendersi adatto. La parte immortale di un uomo e la parte mortale sono stridentemente distinte, e lo sono sempre state. E la miglior prova di ciò è in un caso come quello che abbiamo considerato — il caso dei giuramenti d'[[Love|amore]].
+
+L'[[Soul|anima]] di un uomo è piena di voci come una foresta; vi sono là diecimila lingue come tutte le lingue degli alberi: fantasie, follie, ricordi, pazzie, timori misteriosi e speranze ancor più misteriose. Tutto l'assetto e il sano [[government|governo]] della vita consiste nel giungere alla conclusione che alcune di quelle voci hanno autorità e altre no. Potete avere l'impulso di combattere il vostro nemico o l'impulso di fuggirlo; una ragione per servire il vostro paese o una ragione per tradirlo; una buona idea per fare dolci o un'idea migliore per avvelenarli. L'unica prova che io conosca per giudicare un argomento o un'ispirazione dall'altro è in ultima analisi questa: che tutte le nobili necessità dell'uomo parlano il linguaggio dell'[[Eternity|eternità]]. Quando l'uomo compie le tre o quattro cose per cui fu mandato su questa terra, allora parla come uno che vivrà in eterno. Un uomo che muore per il suo paese non parla come se le preferenze locali potessero mutare. Leonida non dice: «Nel mio stato d'animo attuale, preferisco Sparta alla Persia.» Guglielmo Tell non osserva: «La civiltà svizzera, per quanto finora posso vedere, è superiore a quella austriaca.» Quando gli uomini fondano repubbliche, parlano in termini di assoluto, e così fanno quando fondano (per quanto inconsciamente) quelle repubbliche più piccole che si chiamano famiglie. Vi sono nella vita certi momenti immortali, momenti che hanno autorità. Gli [[lovers|innamorati]] hanno ragione a tatuarsi la pelle a vicenda e a incidere per il mondo i nomi l'uno dell'altro; essi appartengono davvero l'uno all'altro, in un senso più tremendo di quanto sappiano.
+
+
+
 <span class="atom-split" data-atom="story_23_mormonism" data-title="The Uses of Diversity — Mormonism" data-chapter="Mormonism" data-kind="story"></span>
 
 
@@ -10059,287 +10343,3 @@ Ma nel nostro [[Time|tempo]], mi dispiace dirlo, abbiamo visto alcuni segni dell
 Non sarei molto dolorosamente preoccupato per il Leprechaun se le persone gli avessero gettato pietre come a una cattiva fata, o gli avessero dato latte e [[Fire|fuoco]] come a una buona. Ma vi è qualcosa di minaccioso nel portar via un [[Monster|mostro]] per studiarlo. Vi è qualcosa di sinistro nel mettere un Leprechaun nell'ospizio. L'unico solido conforto è che di certo non lavorerà.
 
 FINE
-
-
-
-<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_01" data-title="The Uses of Diversity — Questions of Divorce (part 1)" data-chapter="Questions of divorce Divorce" data-kind="excerpt"></span>
-
-
-Questions of [[divorce|Divorce]]
-
-I HAVE just picked up a little book that is not only
-brightly and suggestively written, but is somewhat unique,
-in this sense--that it enunciates the modern and advanced
-view of Woman in such language as a sane person can stand.
-It is written by Miss Florence Farr, is calledModern Woman:
-her Intentions, and is published by Mr. Frank Palmer.
-This style of book I confess to commonly finding foolish and vain.
-The New Woman's monologue wearies, not because it is unwomanly,
-but because it is inhuman.  It exhibits the most exhausting
-of combinations:  the [[Union|union]] of [[Fanaticism|fanaticism]] of speech with frigidity
-of [[Soul|soul]]--the things that made Robespierre seem a [[Monster|monster]].
-The worst example I remember was once trumpeted in a Review:
-a lady doctor, who has ever afterwards haunted me as a sort
-of [[nightmare]] of spiritual imbecility.  I forget her exact words,
-but they were to the effect that sex and motherhood should be treated
-neither with ribaldry nor reverence:  "It is too serious a subject
-for ribaldry, and I myself cannot understand reverence towards
-anything that is physical."  There, in a few words, is the whole
-twisted and tortured priggishness which poisons the present age.
-The person who cannot laugh at sex ought to be kicked;
-and the person who cannot reverence [[Pain|pain]] ought to be killed.
-Until that lady doctor gets a little ribaldry and a little reverence
-into her [[Soul|soul]], she has no right to have any opinion at all about
-the affairs of humanity.  I remember there was another lady,
-trumpeted in the same Review, a French lady who broke off her
-engagement with the excellent gentleman to whom she was attached
-on the ground that affection interrupted the flow of her thoughts.
-It was a thin sort of flow in any case, to judge by the samples;
-and no [[Doubt|doubt]] it was easily interrupted.
-
-The author ofModern Woman is bitten a little by the mad dog
-of modernity, the habit of dwelling disproportionally on the abnormal
-and the diseased; but she writes rationally and humorously,
-like a human being; she sees that there are two sides to
-the case; and she even puts in a fruitful suggestion that,
-with its subconsciousness and its virtues of the vegetable,
-the new psychology may turn up on the side of the old womanhood.
-One may say indeed that in such a book as this our amateur
-philosophizing of to-day is seen at its fairest; and even at
-its fairest it exhibits certain qualities of bewilderment
-and disproportion which are somewhat curious to note.
-
-I think the oddest thing about the advanced people is that, while they
-are always talking of things as problems, they have hardly any notion
-of what a real problem is.  A real problem only occurs when there
-are admittedly disadvantages in all courses that can be pursued.
-If it is discovered just before a fashionable wedding that the
-Bishop is locked up in the coal-cellar, that is not a problem.
-It is obvious to anyone but an extreme anti-clerical or practical joker
-that the Bishop must be let out of the coal-cellar. But suppose the Bishop
-has been locked up in the wine-cellar, and from the obscure noises,
-sounds as of [[Song|song]] and [[Dance|dance]], etc., it is guessed that he has
-indiscreetly tested the vintages round him; then, indeed, we may
-properly say that there has arisen a problem; for, upon the one hand,
-it is awkward to keep the wedding waiting, while, upon the other,
-any hasty opening of the door might mean an episcopal rush and scenes
-of the most unforeseen description.
-
-An incident like this (which must constantly happen in our
-gay and varied social life) is a true problem because there
-are in it incompatible advantages.  Now if woman is simply
-the domestic slave that many of these writers represent,
-if man has bound her by brute force, if he has simply knocked her
-down and sat on her--then there is no problem about the matter.
-She has been locked in the kitchen, like the Bishop in
-the coal-cellar; and they both of them ought to be let out.
-If there is any problem of sex, it must be because the ease
-is not so simple as that; because there is something to be
-said for the man as [[Well|well]] as for the woman; and because there
-are evils in unlocking the kitchen door, in addition to
-the obvious good of it.  Now, I will take two instances from
-Miss Farr's own book of problems that are really problems,
-and which she entirely misses because she will not admit
-that they are problematical.
-
-The writer asks the substantial question squarely enough:
-"Is indissoluble [[Marriage|marriage]] good for mankind?" and she answers
-it squarely enough:  "For the great mass of mankind, yes."
-To those like myself, who move in the old-world dream of [[democracy|Democracy]],
-that admission ends the whole question.  There may be exceptional
-people who would be happier without Civil [[government|Government]];
-sensitive souls who really feel unwell when they see a policeman.
-But we have surely the fight to impose the State on everybody
-if it suits nearly everybody; and if so, we have the right to
-impose the Family on everybody if it suits nearly everybody.
-But the queer and cogent point is this; that Miss Farr does
-not see the real difficulty about allowing exceptions--the real
-difficulty that has made most legislators reluctant to allow them.
-I do not say there should be no exceptions, but I do say that
-the author has not seen the painful problem of permitting any.
-
-The difficulty is simply this:  that if it comes to claiming
-exceptional treatment, the very people who will claim it
-will be those who least deserve it.  The people who are quite
-convinced they are superior are the very inferior people;
-the men who really think themselves extraordinary are the most
-ordinary rotters on earth.  If you say, "Nobody must steal
-the [[Crown]] of England," then probably it will not be stolen.
-After that, probably the next best thing would be to say,
-"Anybody may steal the [[Crown]] of England," for then the [[Crown]]
-might find its way to some honest and modest fellow.
-But if you say, "Those who feel themselves to have Wild and
-Wondrous Souls, and they only, may steal the [[Crown]] of England,"
-then you may be sure there will be a rush for it of all
-the rag, tag, and bobtail of the universe, all the quack doctors,
-all the sham artists, all the demireps and drunken egotists,
-all the nationless adventurers and criminal monomaniacs
-of the world.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Questioni di [[divorce|Divorzio]]
-
-HO appena preso in mano un libretto che non solo è scritto in modo brillante e stimolante, ma è in qualche modo singolare, in questo senso: che enuncia la visione moderna e avanzata della Donna in un linguaggio che una persona sana di mente può tollerare. È scritto dalla signorina Florence Farr, s'intitola Modern Woman: her Intentions, ed è pubblicato dal signor Frank Palmer. Questo genere di libro confesso di trovarlo comunemente sciocco e vano. Il monologo della Donna Nuova stanca, non perché sia poco femminile, ma perché è disumano. Esibisce la più estenuante delle combinazioni: l'[[Union|unione]] del [[Fanaticism|fanatismo]] della parola con la freddezza dell'[[Soul|anima]] — le cose che facevano apparire Robespierre un [[Monster|mostro]]. Il peggior esempio che ricordi fu una volta strombazzato in una Rivista: una dottoressa, che da allora mi ha perseguitato come una sorta di [[nightmare|incubo]] di imbecillità spirituale. Ho dimenticato le sue parole esatte, ma erano nel senso che il sesso e la maternità non dovrebbero essere trattati né con scurrilità né con reverenza: «È un argomento troppo serio per la scurrilità, e io stessa non riesco a comprendere la reverenza verso qualcosa che è fisico.» Ecco, in poche parole, tutta la contorta e tormentata saccenteria che avvelena l'età presente. La persona che non sa ridere del sesso dovrebbe essere presa a calci; e la persona che non sa riverire il [[Pain|dolore]] dovrebbe essere uccisa. Finché quella dottoressa non si mette un po' di scurrilità e un po' di reverenza nell'[[Soul|anima]], non ha alcun diritto di avere una qualsiasi opinione sulle faccende dell'umanità. Ricordo che c'era un'altra signora, strombazzata nella stessa Rivista, una signora francese che ruppe il fidanzamento con l'eccellente gentiluomo a cui era legata con la motivazione che l'affetto interrompeva il flusso dei suoi pensieri. Era comunque un flusso piuttosto esile, a giudicare dai campioni; e senza [[Doubt|dubbio]] era facilmente interrotto.
-
-L'autrice di Modern Woman è morsa un poco dal cane rabbioso della modernità, l'abitudine di soffermarsi in modo sproporzionato sull'anormale e sul malato; ma scrive in modo razionale e spiritoso, come un essere umano; vede che vi sono due lati della questione; e inserisce persino un suggerimento fecondo, e cioè che, con la sua subconscienza e le sue virtù del vegetale, la nuova psicologia potrebbe schierarsi dalla parte dell'antica femminilità. Si può dire, in effetti, che in un libro come questo il nostro dilettantesco filosofeggiare odierno si vede nella sua veste migliore; e persino nella sua veste migliore esso esibisce certe qualità di smarrimento e di sproporzione che sono alquanto curiose da notare.
-
-Credo che la cosa più strana riguardo alle persone avanzate sia che, mentre parlano continuamente delle cose come problemi, non hanno quasi alcuna nozione di che cosa sia un vero problema. Un vero problema si presenta solo quando vi sono, per ammissione generale, svantaggi in tutte le vie che si possono seguire. Se, poco prima di un matrimonio mondano, si scopre che il Vescovo è rinchiuso nella carbonaia, quello non è un problema. È ovvio a chiunque, tranne a un anticlericale estremo o a un burlone, che il Vescovo deve essere fatto uscire dalla carbonaia. Ma supponiamo che il Vescovo sia stato rinchiuso nella cantina dei vini e che, da rumori oscuri, suoni come di [[Song|canto]] e di [[Dance|danza]], ecc., si intuisca che egli ha indiscretamente saggiato le annate intorno a sé; allora, in verità, possiamo propriamente dire che è sorto un problema; poiché, da un lato, è imbarazzante far attendere il matrimonio, mentre, dall'altro, qualsiasi frettolosa apertura della porta potrebbe significare un'irruzione episcopale e scene della più imprevista descrizione.
-
-Un incidente come questo (che deve accadere di continuo nella nostra gaia e variegata vita sociale) è un vero problema perché in esso vi sono vantaggi incompatibili. Ora, se la donna è semplicemente la schiava domestica che molti di questi scrittori rappresentano, se l'uomo l'ha soggiogata con la forza bruta, se l'ha semplicemente atterrata e le si è seduto sopra — allora non vi è alcun problema nella faccenda. Ella è stata rinchiusa in cucina, come il Vescovo nella carbonaia; ed entrambi dovrebbero essere fatti uscire. Se vi è un qualche problema del sesso, dev'essere perché il caso non è così semplice; perché c'è qualcosa da dire in favore dell'uomo così [[Well|bene]] come della donna; e perché vi sono mali nell'aprire la porta della cucina, oltre all'ovvio bene di ciò. Ora prenderò due esempi, dal libro stesso della signorina Farr, di problemi che sono davvero problemi, e che ella manca del tutto perché non vuole ammettere che siano problematici.
-
-L'autrice pone la questione sostanziale in modo abbastanza netto: «Il [[Marriage|matrimonio]] indissolubile è un bene per l'umanità?» e vi risponde in modo abbastanza netto: «Per la grande massa dell'umanità, sì.» Per quelli come me, che si muovono nel sogno d'altri tempi della [[democracy|Democrazia]], quell'ammissione chiude l'intera questione. Vi possono essere persone eccezionali che sarebbero più felici senza un [[government|Governo]] civile; anime sensibili che si sentono davvero male alla vista di un poliziotto. Ma abbiamo sicuramente il diritto di imporre lo Stato a tutti se conviene a quasi tutti; e se è così, abbiamo il diritto di imporre la Famiglia a tutti se conviene a quasi tutti. Ma il punto strano e cogente è questo: che la signorina Farr non vede la vera difficoltà del permettere eccezioni — la vera difficoltà che ha reso la maggior parte dei legislatori riluttanti a consentirle. Non dico che non vi debbano essere eccezioni, ma dico che l'autrice non ha visto il penoso problema del permetterne alcuna.
-
-La difficoltà è semplicemente questa: che, quando si tratta di reclamare un trattamento eccezionale, proprio coloro che lo reclameranno saranno quelli che meno lo meritano. Le persone del tutto convinte di essere superiori sono proprio le persone inferiori; gli uomini che davvero si credono straordinari sono i più ordinari mascalzoni della terra. Se dite: «Nessuno deve rubare la [[Crown|Corona]] d'Inghilterra», allora probabilmente non verrà rubata. Dopodiché, forse la cosa migliore sarebbe dire: «Chiunque può rubare la [[Crown|Corona]] d'Inghilterra», poiché allora la [[Crown|Corona]] potrebbe trovare la sua strada verso qualche onesto e modesto individuo. Ma se dite: «Coloro che sentono di avere Anime Selvagge e Meravigliose, e loro soltanto, possono rubare la [[Crown|Corona]] d'Inghilterra», allora potete star certi che vi sarà una corsa a essa da parte di tutta la marmaglia e la ciurmaglia dell'universo, tutti i ciarlatani, tutti i falsi artisti, tutte le donnacce e gli egotisti ubriaconi, tutti gli avventurieri senza patria e i monomani criminali del mondo.
-
-
-
-<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_02" data-title="The Uses of Diversity — Questions of Divorce (part 2)" data-chapter="Questions of divorce Divorce" data-kind="excerpt"></span>
-
-
-So, if you say that [[Marriage|marriage]] is for common people, but [[divorce]]
-for free and noble spirits, all the weak and selfish people
-will dash for the [[divorce]]; while the few free and noble
-spirits you wish to help will very probably (because they
-are free and noble) go on wrestling with the [[Marriage|marriage]].
-For it is one of the marks of real dignity of character not to wish
-to separate oneself from the [[Honour|honour]] and [[Tragedy|tragedy]] of the whole tribe.
-All men are ordinary men; the extraordinary men are those
-who know it.
-
-The weakness of the proposition that [[Marriage|marriage]] is good for the common herd,
-but can be advantageously violated by special "experimenters"
-and pioneers, is that it takes no account of the problem of the disease
-of [[Pride|pride]].  It is easy enough to say that weaker souls had better
-be guarded, but that we must give [[Freedom|freedom]] to Georges Sand or make
-exceptions for George Eliot.  The practical puzzle is this:
-that it is precisely the weakest sort of lady novelist who thinks
-she is Georges Sand; it is precisely the silliest woman who is
-sure she is George Eliot.  It is the small [[Soul|soul]] that is sure it
-is an exception; the large [[Soul|soul]] is only too proud to be the rule.
-To advertise for exceptional people is to collect all
-the sulks and sick fancies and futile ambitions of the earth.
-The good [[artist]] is he who can be understood; it is the bad [[artist]]
-who is always "misunderstood." In short, the great man is a man;
-it is always the tenth-rate man who is the Superman.
-
-Miss Farr disposes of the difficult question of vows and bonds
-in [[Love|love]] by leaving out altogether the one extraordinary
-fact of experience on which the whole matter turns.
-She again solves the problem by assuming that it is not a problem.
-Concerning oaths of fidelity, etc., she writes:  "We cannot trust
-ourselves to make a real [[Love|love]]-knot unless money or custom forces us
-to 'bear and forbear.'  There is always the lurking [[Fear|fear]] that we
-shall not be able to keep [[Faith|faith]] unless we swear upon the Book.
-This is, of course, not true of young [[lovers]].  Every first [[Love|love]]
-is born free of tradition; indeed, not only is first [[Love|love]]
-[[Innocent|innocent]] and valiant, but it sweeps aside all the wise laws it
-has been taught, and burns away experience in its own light.
-The revelation is so extraordinary, so unlike anything told
-by the poets, so absorbing, that it is impossible to believe
-that the feeling can die out."
-
-Now this is exactly as if some old naturalist settled the bat's
-place in [[Nature|nature]] by saying boldly, "Bats do not fly."  It is as if
-he solved the problem of whales by bluntly declaring that whales
-live on land.  There is a problem of vows, as of bats and whales.
-What Miss Farr says about it is quite lucid and explanatory;
-it simply happens to be flatly untrue.  It is not the fact
-that young [[lovers]] have no [[Desire|desire]] to swear on the Book.
-They are always at it.  It is not the fact that every young
-[[Love|love]] is born free of traditions about binding and promising,
-about bonds and signatures and seals.  On the contrary, [[lovers]] wallow
-in the wildest pedantry and precision about these matters.
-They do the craziest things to make their [[Love|love]] legal and irrevocable.
-They tattoo each other with promises; they cut into rocks
-and oaks with their names and vows; they bury ridiculous
-things in ridiculous places to be a witness against them;
-they bind each other with rings, and inscribe each other in Bibles;
-if they are raving lunatics (which is not untenable),
-they are mad solely on this idea of binding and on nothing else.
-It is quite true that the tradition of their fathers and mothers
-is in favour of fidelity; but it is emphatically not true
-that the [[lovers]] merely follow it; they invent it anew.
-It is quite true that the [[lovers]] feel their [[Love|love]] eternal,
-and independent of oaths; but it is emphatically
-not true that they do not [[Desire|desire]] to take the oaths.
-They have a ravening thirst to take as many oaths as possible.
-Now this is the [[Paradox|paradox]]; this is the whole problem.
-It is not true, as Miss Farr would have it, that young
-people feel free of vows, being confident of constancy;
-while old people invent vows, having lost that confidence.
-That would be much too simple; if that were so there would be
-no problem at all.  The startling but quite solid fact is that
-young people are especially fierce in making fetters and final
-ties at the very moment when they think them unnecessary.
-The [[Time|time]] when they want the vow is exactly the [[Time|time]] when they
-do not need it.  That is worth thinking about.
-
-Nearly all the fundamental facts of mankind are to be found in
-its fables.  And there is a singularly sane [[Truth|truth]] in all the old
-stories of the monsters--such as centaurs, mermaids, sphinxes,
-and the rest.  It will be noted that in each of these the humanity,
-though imperfect in its extent, is perfect in its quality.
-The [[Mermaid|mermaid]] is half a lady and half a fish; but there is nothing
-fishy about the lady.  A centaur is half a gentleman and half
-a [[Horse|horse]].  But there is nothing horsey about the gentleman.
-The centaur is a manly sort of man--up to a certain point.
-The [[Mermaid|mermaid]] is a womanly woman--so far as she goes.  The human parts
-of these monsters are handsome, like heroes, or lovely, like nymphs;
-their bestial appendages do not affect the full perfection of
-their humanity--what there is of it.  There is nothing humanly wrong
-with the centaur, except that he rides a [[Horse|horse]] without a head.
-There is nothing humanly wrong with the [[Mermaid|mermaid]]; Hood put a good comic
-motto to his picture of a [[Mermaid|mermaid]]:  "All's [[Well|well]] that ends [[Well|well]]."
-It is, perhaps, quite true; it all depends which end.
-Those old wild images included a crucial [[Truth|truth]].  Man is a [[Monster|monster]].
-And he is all the more a [[Monster|monster]] because one part of him is perfect.
-It is not true, as the evolutionists say, that man moves perpetually
-up a slope from imperfection to perfection, changing ceaselessly,
-so as to be suitable.  The immortal part of a man and the
-deadly part are jarringly distinct, and have always been.
-And the best proof of this is in such a case as we have considered--
-the case of the oaths of [[Love|love]].
-
-A man's [[Soul|soul]] is as full of voices as a forest; there are ten
-thousand tongues there like all the tongues of the trees:
-fancies, follies, memories, madnesses, mysterious fears,
-and more mysterious hopes.  All the settlement and sane
-[[government]] of life consists in coming to the conclusion
-that some of those voices have authority and others not.
-You may have an impulse to fight your enemy or an impulse to run
-away from him; a reason to serve your country or a reason
-to betray it; a good idea for making sweets or a better idea
-for poisoning them.  The only test I know by which to judge
-one argument or inspiration from another is ultimately this:
-that all the noble necessities of man talk the language of [[Eternity|eternity]].
-When man is doing the three or four things that he was sent
-on this earth to do, then he speaks like one who shall
-live for ever.  A man dying for his country does not talk
-as if local preferences could change.  Leonidas does
-not say, "In my present mood, I prefer Sparta to Persia."
-William Tell does not remark, "The Swiss civilization,
-so far as I can yet see, is superior to the Austrian."
-When men are making commonwealths, they talk in terms of the absolute,
-and so they do when they are making (however unconsciously)
-those smaller commonwealths which are called families.  There are
-in life certain immortal moments, moments that have authority.
-[[lovers|Lovers]] are right to tattoo each other's skins and cut each
-other's names about the world; they do belong to each other,
-in a more awful sense than they know.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Così, se dite che il [[Marriage|matrimonio]] è per la gente comune, ma il [[divorce|divorzio]] per gli spiriti liberi e nobili, tutte le persone deboli ed egoiste si precipiteranno verso il [[divorce|divorzio]]; mentre i pochi spiriti liberi e nobili che desiderate aiutare, molto probabilmente (proprio perché sono liberi e nobili) continueranno a lottare con il [[Marriage|matrimonio]]. Poiché è uno dei segni della vera dignità di carattere il non voler separarsi dall'[[Honour|onore]] e dalla [[Tragedy|tragedia]] dell'intera tribù. Tutti gli uomini sono uomini comuni; gli uomini straordinari sono quelli che lo sanno.
-
-La debolezza della proposizione che il [[Marriage|matrimonio]] è un bene per il gregge comune, ma può essere vantaggiosamente violato da speciali «sperimentatori» e pionieri, sta nel fatto che essa non tiene conto del problema della malattia dell'[[Pride|orgoglio]]. È abbastanza facile dire che le anime più deboli farebbero meglio a essere sorvegliate, ma che dobbiamo concedere la [[Freedom|libertà]] a George Sand o fare eccezioni per George Eliot. L'enigma pratico è questo: che è precisamente la più debole specie di romanziera che si crede George Sand; è precisamente la donna più sciocca che è sicura di essere George Eliot. È l'[[Soul|anima]] piccola che è sicura di essere un'eccezione; l'[[Soul|anima]] grande è fin troppo fiera di essere la regola. Fare pubblicità per persone eccezionali significa raccogliere tutti i musi lunghi, tutte le fantasie malate e tutte le futili ambizioni della terra. Il buon [[artist|artista]] è colui che può essere compreso; è il cattivo [[artist|artista]] che è sempre «frainteso». In breve, il grande uomo è un uomo; è sempre l'uomo di decima categoria a essere il Superuomo.
-
-La signorina Farr liquida la difficile questione dei voti e dei vincoli nell'[[Love|amore]] tralasciando del tutto l'unico fatto straordinario dell'esperienza su cui l'intera faccenda ruota. Ella risolve di nuovo il problema assumendo che non sia un problema. Riguardo ai giuramenti di fedeltà, ecc., ella scrive: «Non possiamo fidarci di noi stessi nel fare un vero nodo d'[[Love|amore]] a meno che il denaro o la consuetudine non ci costringano a "sopportare e tollerare". C'è sempre il [[Fear|timore]] latente di non essere capaci di mantenere la [[Faith|fede]] a meno di non giurare sul Libro. Questo, naturalmente, non è vero dei giovani [[lovers|innamorati]]. Ogni primo [[Love|amore]] nasce libero dalla tradizione; anzi, non solo il primo [[Love|amore]] è [[Innocent|innocente]] e valoroso, ma spazza via tutte le sagge leggi che gli sono state insegnate, e brucia l'esperienza nella propria luce. La rivelazione è così straordinaria, così diversa da tutto ciò che i poeti raccontano, così assorbente, che è impossibile credere che quel sentimento possa spegnersi.»
-
-Ora, questo è esattamente come se qualche vecchio naturalista stabilisse il posto del pipistrello nella [[Nature|natura]] dicendo baldanzosamente: «I pipistrelli non volano.» È come se risolvesse il problema delle balene dichiarando bruscamente che le balene vivono sulla terraferma. C'è un problema dei voti, come dei pipistrelli e delle balene. Ciò che la signorina Farr dice al riguardo è del tutto lucido ed esplicativo; si dà soltanto il caso che sia piattamente falso. Non è vero che i giovani [[lovers|innamorati]] non abbiano alcun [[Desire|desiderio]] di giurare sul Libro. Ci sono sempre dietro. Non è vero che ogni giovane [[Love|amore]] nasca libero dalle tradizioni sul vincolare e sul promettere, sui legami, sulle firme e sui sigilli. Al contrario, gli [[lovers|innamorati]] si crogiolano nella più sfrenata pedanteria e precisione su queste materie. Fanno le cose più folli per rendere il loro [[Love|amore]] legale e irrevocabile. Si tatuano l'un l'altro con promesse; incidono nelle rocce e nelle querce i loro nomi e i loro voti; seppelliscono cose ridicole in luoghi ridicoli perché testimonino contro di loro; si legano l'un l'altro con anelli, e si iscrivono l'un l'altro nelle Bibbie; se sono forsennati (il che non è insostenibile), sono pazzi unicamente su questa idea del vincolarsi e su nient'altro. È del tutto vero che la tradizione dei loro padri e delle loro madri è in favore della fedeltà; ma è enfaticamente falso che gli [[lovers|innamorati]] la seguano soltanto; la inventano di nuovo. È del tutto vero che gli [[lovers|innamorati]] sentono il loro [[Love|amore]] eterno e indipendente dai giuramenti; ma è enfaticamente falso che essi non [[Desire|desiderino]] prestare i giuramenti. Hanno una sete vorace di prestare quanti più giuramenti possibile. Ora, questo è il [[Paradox|paradosso]]; questo è l'intero problema. Non è vero, come vorrebbe la signorina Farr, che i giovani si sentano liberi dai voti, essendo sicuri della costanza; mentre i vecchi inventano i voti, avendo perduto quella sicurezza. Sarebbe troppo semplice; se fosse così non ci sarebbe alcun problema. Il fatto sorprendente ma del tutto solido è che i giovani sono particolarmente feroci nel forgiare catene e vincoli definitivi proprio nel momento in cui li ritengono superflui. Il [[Time|momento]] in cui vogliono il voto è esattamente il [[Time|momento]] in cui non ne hanno bisogno. Vale la pena rifletterci.
-
-Quasi tutti i fatti fondamentali dell'umanità si trovano nelle sue favole. E c'è una [[Truth|verità]] singolarmente sana in tutte le vecchie storie dei mostri — come i centauri, le sirene, le sfingi e il resto. Si noterà che in ciascuno di essi l'umanità, benché imperfetta nella sua estensione, è perfetta nella sua qualità. La [[Mermaid|sirena]] è per metà dama e per metà pesce; ma non c'è nulla di pesciolino nella dama. Un centauro è per metà gentiluomo e per metà [[Horse|cavallo]]. Ma non c'è nulla di cavallino nel gentiluomo. Il centauro è una specie virile d'uomo — fino a un certo punto. La [[Mermaid|sirena]] è una donna femminile — per quanto arriva. Le parti umane di questi mostri sono avvenenti, come eroi, o incantevoli, come ninfe; le loro appendici bestiali non intaccano la piena perfezione della loro umanità — per quel poco che ce n'è. Non c'è nulla di umanamente sbagliato nel centauro, tranne che cavalca un [[Horse|cavallo]] senza testa. Non c'è nulla di umanamente sbagliato nella [[Mermaid|sirena]]; Hood mise un buon motto comico alla sua immagine di una [[Mermaid|sirena]]: «Tutto è [[Well|bene]] quel che finisce [[Well|bene]].» È, forse, del tutto vero; dipende tutto da quale estremità. Quelle antiche immagini selvagge racchiudevano una [[Truth|verità]] cruciale. L'uomo è un [[Monster|mostro]]. Ed è tanto più un [[Monster|mostro]] in quanto una parte di lui è perfetta. Non è vero, come dicono gli evoluzionisti, che l'uomo salga perpetuamente per un pendio dall'imperfezione alla perfezione, mutando incessantemente, così da rendersi adatto. La parte immortale di un uomo e la parte mortale sono stridentemente distinte, e lo sono sempre state. E la miglior prova di ciò è in un caso come quello che abbiamo considerato — il caso dei giuramenti d'[[Love|amore]].
-
-L'[[Soul|anima]] di un uomo è piena di voci come una foresta; vi sono là diecimila lingue come tutte le lingue degli alberi: fantasie, follie, ricordi, pazzie, timori misteriosi e speranze ancor più misteriose. Tutto l'assetto e il sano [[government|governo]] della vita consiste nel giungere alla conclusione che alcune di quelle voci hanno autorità e altre no. Potete avere l'impulso di combattere il vostro nemico o l'impulso di fuggirlo; una ragione per servire il vostro paese o una ragione per tradirlo; una buona idea per fare dolci o un'idea migliore per avvelenarli. L'unica prova che io conosca per giudicare un argomento o un'ispirazione dall'altro è in ultima analisi questa: che tutte le nobili necessità dell'uomo parlano il linguaggio dell'[[Eternity|eternità]]. Quando l'uomo compie le tre o quattro cose per cui fu mandato su questa terra, allora parla come uno che vivrà in eterno. Un uomo che muore per il suo paese non parla come se le preferenze locali potessero mutare. Leonida non dice: «Nel mio stato d'animo attuale, preferisco Sparta alla Persia.» Guglielmo Tell non osserva: «La civiltà svizzera, per quanto finora posso vedere, è superiore a quella austriaca.» Quando gli uomini fondano repubbliche, parlano in termini di assoluto, e così fanno quando fondano (per quanto inconsciamente) quelle repubbliche più piccole che si chiamano famiglie. Vi sono nella vita certi momenti immortali, momenti che hanno autorità. Gli [[lovers|innamorati]] hanno ragione a tatuarsi la pelle a vicenda e a incidere per il mondo i nomi l'uno dell'altro; essi appartengono davvero l'uno all'altro, in un senso più tremendo di quanto sappiano.

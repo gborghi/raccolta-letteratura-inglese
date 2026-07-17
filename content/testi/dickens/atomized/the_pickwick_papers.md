@@ -36839,17 +36839,6 @@ THE POSTHUMOUS PAPERS OF THE [[Pickwick|PICKWICK]] CLUB
 
 
 
-<span class="atom-split" data-atom="chapter_13_in_which_is_given_a_faithful_p" data-title="The Pickwick Papers — Chapter 15: IN WHICH IS GIVEN A FAITHFUL PORTRAITURE OF TWO" data-chapter="IN WHICH IS GIVEN A FAITHFUL P" data-kind="chapter"></span>
-
-
-CHAPTER XV. IN WHICH IS GIVEN A FAITHFUL PORTRAITURE OF TWO
-DISTINGUISHED PERSONS; AND AN ACCURATE DESCRIPTION OF A PUBLIC BREAKFAST
-IN THEIR [[house|HOUSE]] AND GROUNDS: WHICH PUBLIC BREAKFAST LEADS TO THE
-RECOGNITION OF AN OLD ACQUAINTANCE, AND THE COMMENCEMENT OF ANOTHER
-
-
-
-
 <span class="atom-split" data-atom="chapter_02_the_pickwickians--part_01" data-title="The Pickwick Papers — Chapter 1: THE PICKWICKIANS (part 1)" data-chapter="THE PICKWICKIANS" data-kind="excerpt"></span>
 
 
@@ -45922,6 +45911,17 @@ nobody ever minded what _they _said.’
 man.
 
 ‘Yes, they were,’ replied the bagman; ‘very nice men indeed!’
+
+
+
+
+<span class="atom-split" data-atom="chapter_13_in_which_is_given_a_faithful_p" data-title="The Pickwick Papers — Chapter 15: IN WHICH IS GIVEN A FAITHFUL PORTRAITURE OF TWO" data-chapter="IN WHICH IS GIVEN A FAITHFUL P" data-kind="chapter"></span>
+
+
+CHAPTER XV. IN WHICH IS GIVEN A FAITHFUL PORTRAITURE OF TWO
+DISTINGUISHED PERSONS; AND AN ACCURATE DESCRIPTION OF A PUBLIC BREAKFAST
+IN THEIR [[house|HOUSE]] AND GROUNDS: WHICH PUBLIC BREAKFAST LEADS TO THE
+RECOGNITION OF AN OLD ACQUAINTANCE, AND THE COMMENCEMENT OF ANOTHER
 
 
 

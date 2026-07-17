@@ -1,5 +1,5 @@
 ---
-title: "Richard III — Act V, Scene 8 — exchange (TO THE RIGHT HONOURABLE HENRY) [8]"
+title: "RICHARD III"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/richard-iii-(shakespeare)"
@@ -9,6 +9,1502 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/richard_iii" data-author="Shakespeare" data-workhref="works/richard-iii-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Richard III — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Richard]] [[Duke of Gloucester]] |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--02_monologue_richard_gloucester" data-title="Richard III — Act I, Scene 1 — monologue (RICHARD GLOUCESTER) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Now is the [[Winter|winter]] of our discontent Made glorious [[Summer|summer]] by this son of York; And all the clouds that loured upon our [[house]] In the deep bosom of the ocean buried. Now are our brows bound with victorious wreaths, Our bruised arms hung up for monuments, Our stern alarums changed to merry meetings, Our dreadful marches to delightful measures. Grim-visaged war hath smoothed his wrinkled front, And now—instead of mounting barbed steeds To fright the souls of fearful adversaries— He capers nimbly in a lady’s chamber To the lascivious pleasing of a lute. But I, that am not shaped for sportive tricks Nor made to [[Court|court]] an amorous looking-glass, I that am rudely stamped and want [[Love|love]]’s majesty To strut before a wanton ambling nymph, I that am curtailed of this fair proportion, Cheated of feature by dissembling [[Nature|nature]], Deformed, unfinished, sent before my [[Time|time]] Into this breathing world scarce half made up— And that so lamely and unfashionable That [[dogs]] bark at me as I halt by them— Why, I in this weak piping [[Time|time]] of peace Have no delight to pass away the [[Time|time]], Unless to spy my [[Shadow|shadow]] in the sun And descant on mine own deformity. And therefore since I cannot prove a [[Lover|lover]] To entertain these fair [[Well|well]]-spoken days, I am determined to prove a [[Villain|villain]] And hate the idle pleasures of these days. Plots have I laid, inductions dangerous, By drunken prophecies, libels and [[Dreams|dreams]] To set my brother [[Clarence]] and the [[King]] In deadly hate the one against the other. And if [[King]] Edward be as true and just As I am subtle false and treacherous, This day should [[Clarence]] closely be mewed up About a prophecy which says that ‘G’ Of Edward’s heirs the murderer shall be. Enter George Duke of [[Clarence]], guarded, and Sir Robert Brackenbury Dive, thoughts, down to my [[Soul|soul]]: here [[Clarence]] comes. Brother, good day. What means this armèd guard That waits upon your grace? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--03_exchange_clarence" data-title="Richard III — Act I, Scene 1 — exchange (CLARENCE) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Clarence|CLARENCE]] | His majesty, Tend’ring my person’s safety, hath appointed This conduct to convey me to the Tower. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Upon what cause? |
+| [[Clarence|CLARENCE]] | Because my name is George. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Alack, my lord, that fault is none of yours. He should for that commit your godfathers. Belike his majesty hath some intent That you should be new-christened in the Tower. But what’s the matter, [[Clarence]]? May I know? |
+| [[Clarence|CLARENCE]] | Yea, [[Richard]], when I know—for I protest As yet I do not. But as I can learn He hearkens after prophecies and [[Dreams|dreams]], And from the [[Cross|cross]]-row plucks the letter ‘G’ And says a wizard told him that by ‘G’ His issue disinherited should be. And for my name of George begins with ‘G’, It follows in his thought that I am he. These, as I learn, and suchlike toys as these, Hath moved his highness to commit me now. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Why, this it is when men are ruled by women. ‘Tis not the [[King]] that sends you to the Tower; My Lady Gray, his wife—[[Clarence]], ’tis she That tempts him to this harsh extremity. Was it not she, and that good man of worship Anthony Woodeville her brother there, That made him send Lord [[Hastings]] to the Tower, From whence this present day he is delivered? We are not safe, [[Clarence]]; we are not safe. |
+| [[Clarence|CLARENCE]] | By heaven, I think there is no man secure But the [[Queen]]’s kindred, and [[Night|night]]-walking heralds That trudge betwixt the [[King]] and Mrs Shore. Heard ye not what an humble suppliant Lord [[Hastings]] was for his delivery? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Humbly complaining to her deity Got my Lord Chamberlain his liberty. I’ll tell you what: I think it is our way, If we will keep in favour with the [[King]], To be her men and wear her livery. The jealous, o’erworn widow and herself, Since that our brother dubbed them gentlewomen, Are mighty gossips in our monarchy. |
+| BRACKENBURY | I beseech your graces both to pardon me. His majesty hath straitly given in charge That no man shall have private conference, Of what degree soever, with your brother. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Even so. An’t please your worship, Brackenbury, You may partake of anything we say. We speak no treason, man. We say the [[King]] Is wise and virtuous, and his noble [[Queen]] [[Well]] struck in years, fair, and not jealous. We say that Shore’s wife hath a pretty foot, A cherry lip, A bonny eye, a passing pleasing tongue, And that the [[Queen]]’s kin are made gentlefolks. How say you, sir? Can you deny all this? |
+| BRACKENBURY | With this, my lord, myself have naught to do. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Naught to do with Mrs Shore? I tell thee, fellow: He that doth naught with her—excepting one— Were best to do it secretly [[Alone|alone]]. |
+| BRACKENBURY | What one, my lord? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Her husband, knave. Wouldst thou betray me? |
+| BRACKENBURY | I beseech your grace to pardon me, and do withal Forbear your conference with the noble Duke. |
+| [[Clarence|CLARENCE]] | We know thy charge, Brackenbury, and will obey. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--04_exchange_richard_gloucester" data-title="Richard III — Act I, Scene 1 — exchange (RICHARD GLOUCESTER) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | We are the [[Queen]]’s abjects, and must obey. Brother, farewell. I will unto the [[King]], And whatsoe‘er you will employ me in— Were it to call [[King]] Edward’s widow ‘sister’— I will perform it to enfranchise you. Meantime, this deep disgrace in brotherhood Touches me dearer than you can imagine. |
+| [[Clarence|CLARENCE]] | I know it pleaseth neither of us [[Well|well]]. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | [[Well]], your [[Imprisonment|imprisonment]] shall not be long. I will deliver you or lie for you. Meantime, have patience. |
+| [[Clarence|CLARENCE]] | I must perforce. Farewell. Exeunt [[Clarence]], Brackenbury, and guard, to the Tower |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Go tread the path that thou shalt ne’er return. Simple plain [[Clarence]], I do [[Love|love]] thee so That I will shortly send thy [[Soul|soul]] to heaven, If heaven will take the present at our hands. But who comes here? The new-delivered [[Hastings]]? Enter Lord [[Hastings]] from the Tower |
+| LORD [[Hastings|HASTINGS]] | Good [[Time|time]] of day unto my gracious lord. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | As much unto my good Lord Chamberlain. [[Well]] are you welcome to the open air. How hath your lordship brooked [[Imprisonment|imprisonment]]? |
+| LORD [[Hastings|HASTINGS]] | With patience, noble lord, as prisoners must. But I shall live, my lord, to give them thanks That were the cause of my [[Imprisonment|imprisonment]]. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | No [[Doubt|doubt]], no [[Doubt|doubt]]—and so shall [[Clarence]] too, For they that were your enemies are his, And have prevailed as much on him as you. |
+| LORD [[Hastings|HASTINGS]] | More pity that the eagles should be mewed While kites and buzzards prey at liberty. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What news abroad? 135 |
+| LORD [[Hastings|HASTINGS]] | No news so bad abroad as this at [[Home|home]]: The [[King]] is sickly, weak, and [[Melancholy|melancholy]], And his physicians [[Fear|fear]] him mightily. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Now by Saint Paul, that news is bad indeed. O he hath kept an evil diet long, And overmuch consumed his royal person. ’Tis very grievous to be thought upon. Where is he ? In his bed ? |
+| LORD [[Hastings|HASTINGS]] | He is. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Go you before and I will follow you. Exit [[Hastings]] |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | He cannot live, I [[Hope|hope]], and must not die Till George be packed with post-haste up to heaven. I’ll in to urge his hatred more to [[Clarence]], With lies [[Well|well]] steeled with weighty arguments. And if I fail not in my deep intent, [[Clarence]] hath not another day to live— Which done, God take [[King]] Edward to his [[Mercy|mercy]] And leave the world for me to bustle in. For then I’ll marry Warwick’s youngest daughter. What though I killed her husband and her father? The readiest way to make the wench amends Is to become her husband and her father, The which will I: not all so much for [[Love|love]], As for another secret close intent, By marrying her, which I must reach unto. But yet I run before my [[Horse|horse]] to market. [[Clarence]] still breathes, Edward still lives and reigns; When they are gone, then must I count my gains. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="Richard III — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter gentlemen, bearing the corpse of [[King]] Henry the Sixth in an open coffin, with halberdiers to guard it, [[Lady Anne]] being the mourner |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--02_monologue_lady_anne" data-title="Richard III — Act I, Scene 2 — monologue (LADY ANNE) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Lady Anne|LADY ANNE]] | Set down, set down your honourable load, If [[Honour|honour]] may be shrouded in a hearse, Whilst I a while obsequiously lament Th’untimely fall of virtuous Lancaster. They set the coffin down Poor key-cold figure of a holy [[King|king]], Pale ashes of the [[house]] of Lancaster, Thou bloodless remnant of that royal [[Blood|blood]]: Be it lawful that I invocate thy [[Ghost|ghost]] To hear the lamentations of poor Anne, Wife to thy Edward, to thy slaughtered son, Stabbed by the selfsame hand that made these wounds. Lo, in these windows that let forth thy life, I pour the helpless balm of my poor eyes. O cursed be the hand that made these holes, Cursed the [[Blood|blood]] that let this [[Blood|blood]] from hence, Cursed the heart that had the heart to do it. More direful hap betide that hated wretch That makes us wretched by the [[Death|death]] of thee Than I can wish to wolves, to spiders, toads, Or any creeping venomed thing that lives. If ever he have [[Child|child]], abortive be it, Prodigious, and untimely brought to light, Whose ugly and unnatural aspect May fright the hopeful mother at the view, And that be heir to his unhappiness. If ever he have wife, let her be made More miserable by the [[Death|death]] of him Than I am made by my young lord and thee.— Come now towards Chertsey with your holy load, Taken from Paul’s to be interred there, The gentlemen lift the coffin And still as you are weary of this weight Rest you, whiles I lament [[King]] Henry’s corpse. Enter [[Richard]] [[Duke of Gloucester]] |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--03_exchange_richard_gloucester" data-title="Richard III — Act I, Scene 2 — exchange (RICHARD GLOUCESTER) [3]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to the gentlemen) Stay, you that bear the corpse, and set it down. |
+| [[Lady Anne|LADY ANNE]] | What black magician conjures up this fiend To stop devoted charitable deeds? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to the gentlemen) Villains, set down the corpse, or by Saint Paul I’ll make a corpse of him that disobeys. HALBERDIER My lord, stand back and let the coffin pass. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Unmannered dog, stand thou when I command. Advance thy halberd higher than my breast, Or by Saint Paul I’ll strike thee to my foot And spurn upon thee, beggar, for thy boldness. They set the coffin down |
+| [[Lady Anne|LADY ANNE]] | (to gentlemen and halberdiers) What, do you tremble? Are you all afraid? Alas, I blame you not, for you are mortal, And mortal eyes cannot endure the devil.— Avaunt, thou dreadful minister of hell. Thou hadst but power over his mortal [[Body|body]]; His [[Soul|soul]] thou canst not have; therefore be gone. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Sweet saint, for [[Charity|charity]] be not so cursed. |
+| [[Lady Anne|LADY ANNE]] | Foul devil, for God’s sake hence and trouble us not, For thou hast made the happy earth thy hell, Filled it with cursing cries and deep exclaims. If thou delight to view thy heinous deeds, Behold this pattern of thy butcheries.— O gentlemen, see, see! Dead Henry’s wounds Ope their congealed mouths and bleed afresh.— Blush, blush, thou lump of foul deformity, For ‘tis thy presence that ex-hales this [[Blood|blood]] From cold and empty veins where no [[Blood|blood]] dwells. Thy deed, inhuman and unnatural, Provokes this [[deluge]] [[Supernatural|supernatural]]. O God, which this [[Blood|blood]] mad’st, [[Revenge|revenge]] his [[Death|death]]. O earth, which this [[Blood|blood]] drink‘st, [[Revenge|revenge]] his [[Death|death]]. Either heav’n with [[Lightning|lightning]] strike the murd’rer dead, Or earth gape open wide and eat him quick As thou dost [[Swallow|swallow]] up this good [[King|king]]’s [[Blood|blood]], Which his hell-governed arm hath butchered. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Lady, you know no rules of [[Charity|charity]], Which renders good for bad, blessings for curses. |
+| [[Lady Anne|LADY ANNE]] | [[Villain]], thou know’st no law of God nor man. No beast so fierce but knows some touch of pity. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | But I know none, and therefore am no beast. |
+| [[Lady Anne|LADY ANNE]] | O wonderful, when devils tell the [[Truth|truth]]! |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | More wonderful, when angels are so angry. Vouchsafe, divine perfection of a woman, Of these supposed crimes to give me leave By circumstance but to acquit myself. |
+| [[Lady Anne|LADY ANNE]] | Vouchsafe, diffused infection of a man, Of these known evils but to give me leave By circumstance t’accuse thy cursèd [[Self|self]]. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Fairer than tongue can name thee, let me have Some patient leisure to excuse myself. |
+| [[Lady Anne|LADY ANNE]] | Fouler than heart can think thee, thou canst make No excuse current but to hang thyself. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | By such [[Despair|despair]] I should accuse myself. 85 |
+| [[Lady Anne|LADY ANNE]] | And by despairing shalt thou stand excused, For doing worthy vengeance on thyself That didst unworthy slaughter upon others. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Say that I slew them not. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--04_exchange_lady_anne" data-title="Richard III — Act I, Scene 2 — exchange (LADY ANNE) [4]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Lady Anne|LADY ANNE]] | Then say they were not slain. But dead they are—and, devilish slave, by thee. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I did not kill your husband. |
+| [[Lady Anne|LADY ANNE]] | Why, then he is alive. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Nay, he is dead, and slain by Edward’s hand. |
+| [[Lady Anne|LADY ANNE]] | In thy foul throat thou liest. [[Queen Margaret]] saw Thy murd’rous falchion smoking in his [[Blood|blood]], The which thou once didst bend against her breast, But that thy brothers beat aside the point. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I was provoked by her sland’rous tongue, That laid their [[Guilt|guilt]] upon my guiltless shoulders. |
+| [[Lady Anne|LADY ANNE]] | Thou wast provoked by thy bloody mind, That never dream’st on aught but butcheries. Didst thou not kill this [[King|king]]? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I grant ye. |
+| [[Lady Anne|LADY ANNE]] | Dost grant me, hedgehog? Then God grant me, too, Thou mayst be damned for that wicked deed. O he was gentle, mild, and virtuous. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | The better for the [[King]] of Heaven that hath him. |
+| [[Lady Anne|LADY ANNE]] | He is in heaven, where thou shalt never come. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Let him thank me that holp to send him thither, For he was fitter for that place than earth. |
+| [[Lady Anne|LADY ANNE]] | And thou unfit for any place but hell. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Yes, one place else, if you will hear me name it. |
+| [[Lady Anne|LADY ANNE]] | Some dungeon. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Your bedchamber. |
+| III | rest betide the chamber where thou liest. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | So will it, madam, till I lie with you. |
+| [[Lady Anne|LADY ANNE]] | I [[Hope|hope]] so. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I know so. But gentle [[Lady Anne]], To leave this keen encounter of our wits And fall something into a slower method, Is not the causer of the timeless deaths Of these Plantagenets, Henry and Edward, As blameful as the executioner? |
+| [[Lady Anne|LADY ANNE]] | Thou wast the cause of that accursed effect. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Your [[Beauty|beauty]] was the cause of that effect— Your [[Beauty|beauty]] that did haunt me in my [[Sleep|sleep]] To undertake the [[Death|death]] of all the world So I might live one hour in your sweet bosom. |
+| [[Lady Anne|LADY ANNE]] | If I thought that, I tell thee, homicide, These nails should rend that [[Beauty|beauty]] from my cheeks. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | These eyes could not endure sweet [[Beauty|beauty]]’s wreck. You should not blemish it if I stood by. As all the world is cheered by the sun, So I by that: it is my day, my life. |
+| [[Lady Anne|LADY ANNE]] | Black [[Night|night]] o’ershade thy day, and [[Death|death]] thy life. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Curse not thyself, fair creature: thou art both. |
+| [[Lady Anne|LADY ANNE]] | I would I were, to be revenged on thee. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | It is a quarrel most unnatural, To be revenged on him that loveth you. |
+| [[Lady Anne|LADY ANNE]] | It is a quarrel just and reasonable, To be revenged on him that killed my husband. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | He that bereft thee, lady, of thy husband, Did it to help thee to a better husband. |
+| [[Lady Anne|LADY ANNE]] | His better doth not breathe upon the earth. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | He lives that loves thee better than he could. |
+| [[Lady Anne|LADY ANNE]] | Name him. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Plantagenet. |
+| [[Lady Anne|LADY ANNE]] | Why, that was he. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--05_exchange_richard_gloucester" data-title="Richard III — Act I, Scene 2 — exchange (RICHARD GLOUCESTER) [5]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | The selfsame name, but one of better [[Nature|nature]]. |
+| [[Lady Anne|LADY ANNE]] | Where is he? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Here. She spits at him Why dost thou spit at me? |
+| [[Lady Anne|LADY ANNE]] | Would it were mortal [[Poison|poison]] for thy sake. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Never came [[Poison|poison]] from so sweet a place. |
+| [[Lady Anne|LADY ANNE]] | Never hung [[Poison|poison]] on a fouler toad. Out of my sight! Thou dost infect mine eyes. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Thine eyes, sweet lady, have infected mine. |
+| [[Lady Anne|LADY ANNE]] | Would they were basilisks to strike thee dead. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--06_monologue_richard_gloucester" data-title="Richard III — Act I, Scene 2 — monologue (RICHARD GLOUCESTER) [6]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I would they were, that I might die at once, For now they kill me with a living [[Death|death]]. Those eyes of thine from mine have drawn salt [[Tears|tears]], Shamed their aspects with store of childish drops. I never sued to friend nor enemy; My tongue could never learn sweet smoothing word; But now thy [[Beauty|beauty]] is proposed my fee, My proud heart sues and prompts my tongue to speak. She looks scornfully at him Teach not thy lip such scorn, for it was made For kissing, lady, not for such contempt. If thy revengeful heart cannot forgive, He kneels and offers her his [[Sword|sword]] Lo, here I lend thee this sharp-pointed [[Sword|sword]], Which if thou please to hide in this true breast And let the [[Soul|soul]] forth that adoreth thee, I lay it naked to the deadly stroke And humbly beg the [[Death|death]] upon my knee. He lays his breast open; she offers at it with his [[Sword|sword]] Nay, do not pause, for I did kill [[King]] Henry; But ‘twas thy [[Beauty|beauty]] that provoked me. Nay, now dispatch: ’twas I that stabbed young Edward; But ’was thy heavenly face that set me on. She drops the [[Sword|sword]] Take up the [[Sword|sword]] again, or take up me. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--07_exchange_lady_anne" data-title="Richard III — Act I, Scene 2 — exchange (LADY ANNE) [7]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Lady Anne|LADY ANNE]] | Arise, dissembler. He rises Though I wish thy [[Death|death]], I will not be thy executioner. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Then bid me kill myself, and I will do it. |
+| [[Lady Anne|LADY ANNE]] | I have already. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | That was in thy rage. Speak it again, and even with the word This hand—which for thy [[Love|love]] did kill thy [[Love|love]]— Shall, for thy [[Love|love]], kill a far truer [[Love|love]]. To both their deaths shalt thou be accessary. |
+| [[Lady Anne|LADY ANNE]] | I would I knew thy heart. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | ’Tis figured in my tongue. |
+| [[Lady Anne|LADY ANNE]] | I [[Fear|fear]] me both are false. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Then never man was true. |
+| [[Lady Anne|LADY ANNE]] | [[Well]], [[Well|well]], put up your [[Sword|sword]]. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Say then my peace is made. 185 |
+| [[Lady Anne|LADY ANNE]] | That shalt thou know hereafter. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | But shall I live in [[Hope|hope]]? |
+| [[Lady Anne|LADY ANNE]] | All men, I [[Hope|hope]], live so. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Vouchsafe to wear this ring. |
+| [[Lady Anne|LADY ANNE]] | To take is not to give. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Look how my ring encompasseth thy finger; Even so thy breast encloseth my poor heart. Wear both of them, for both of them are thine. And if thy poor devoted servant may But beg one favour at thy gracious hand, Thou dost confirm his happiness for ever. |
+| [[Lady Anne|LADY ANNE]] | What is it? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | That it may please you leave these sad designs To him that hath most cause to be a mourner, And presently repair to Crosby [[house|House]], Where—after I have solemnly interred At Chertsey monast’ry this noble [[King|king]], And wet his [[Grave|grave]] with my repentant [[Tears|tears]]— I will with all expedient duty see you. For divers unknown reasons, I beseech you Grant me this boon. |
+| [[Lady Anne|LADY ANNE]] | With all my heart—and much it joys me, too, To see you are become so penitent. Tressell and Berkeley, go along with me. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Bid me farewell. |
+| [[Lady Anne|LADY ANNE]] | ’Tis more than you deserve. But since you teach me how to flatter you, Imagine I have said farewell already. Exeunt two with Anne |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Sirs, take up the corpse. |
+| GENTLEMAN | Towards Chertsey, noble lord? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--08_monologue_richard_gloucester" data-title="Richard III — Act I, Scene 2 — monologue (RICHARD GLOUCESTER.) [8]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]]. | No, to Blackfriars; there attend my coming. Exeunt with corpse all but [[Gloucester]] Was ever woman in this [[Humour|humour]] wooed? Was ever woman in this [[Humour|humour]] won? I’ll have her, but I will not keep her long. What, I that killed her husband and his father, To take her in her heart’s extremest hate, With curses in her mouth, [[Tears|tears]] in her eyes, The bleeding witness of my hatred by, Having God, her [[Conscience|conscience]], and these bars against me, And I no friends to back my suit withal But the plain devil and dissembling looks— And yet to win her, all the world to nothing? Ha ! Hath she forgot already that brave prince, Edward her lord, whom I some three months since Stabbed in my angry mood at Tewkesbury ? A sweeter and a lovelier gentleman, Framed in the prodigality of [[Nature|nature]], Young, valiant, wise, and no [[Doubt|doubt]] right royal, The spacious world cannot again afford— And will she yet abase her eyes on me, That cropped the golden prime of this sweet prince And made her widow to a woeful bed? On me, whose all not equals Edward’s moiety? On me, that halts and am misshapen thus? My dukedom to a beggarly denier, I do mistake my person all this while. Upon my life she finds, although I cannot, Myself to be a marv’lous proper man. I’ll be at charges for a looking-glass And entertain a score or two of tailors To study fashions to adorn my [[Body|body]]. Since I am crept in favour with myself, I will maintain it with some little cost. But first I’ll turn yon fellow in his [[Grave|grave]], And then return lamenting to my [[Love|love]]. Shine out, fair sun, till I have bought a glass, That I may see my [[Shadow|shadow]] as I pass. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="Richard III — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Queen Elizabeth]], Lord Rivers, Marquis Dorset, and Lord Gray |
+| RIVERS | (to Elizabeth) Have patience, madam. There’s no [[Doubt|doubt]] his majesty Will soon recover his accustomed health. |
+| GRAY | (to Elizabeth) In that you brook it ill, it makes him worse. Therefore, for God’s sake entertain good comfort, And cheer his grace with quick and merry eyes. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | If he were dead, what would betide on me? RIVERS No other harm but loss of such a lord. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | The loss of such a lord includes all harms. |
+| GRAY | The heavens have blessed you with a goodly son To be your comforter when he is gone. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Ah, he is young, and his minority Is put unto the trust of [[Richard]] [[Gloucester]], A man that loves not me—nor none of you. |
+| RIVERS | Is it concluded he shall be Protector? |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | It is determined, not concluded yet; But so it must be, if the [[King]] miscarry. Enter the [[Duke of Buckingham]] and Lord Stanley |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Earl of Derby |
+| GRAY | Here come the Lords of [[Buckingham]] and Derby. |
+| [[Buckingham|BUCKINGHAM]] | (to Elizabeth) Good [[Time|time]] of day unto your royal grace. |
+| STANLEY | (to Elizabeth) God make your majesty joyful, as you have been. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | The Countess Richmond, good my lord of Derby, To your good [[prayer]] will scarcely say ‘Amen’. Yet, Derby—notwithstanding she’s your wife, And loves not me—be you, good lord, assured I hate not you for her proud arrogance. |
+| STANLEY | I do beseech you, either not believe The envious slanders of her false accusers Or, if she be accused on true report, Bear with her weakness, which I think proceeds From wayward sickness, and no grounded malice. RIVERS Saw you the [[King]] today, my lord of Derby? |
+| STANLEY | But now the [[Duke of Buckingham]] and I Are come from visiting his majesty. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | With likelihood of his amendment, lords? |
+| [[Buckingham|BUCKINGHAM]] | Madam, good [[Hope|hope]]: his grace speaks cheerfully. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | God grant him health. Did you confer with him? |
+| [[Buckingham|BUCKINGHAM]] | Ay, madam. He desires to make atonement Between the [[Duke of Gloucester]] and your brothers, And between them and my Lord Chamberlain, And sent to warn them to his royal presence. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Would all were [[Well|well]]! But that will never be. I [[Fear|fear]] our happiness is at the height. Enter [[Richard]] [[Duke of Gloucester]] and Lord [[Hastings]] |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | They do me wrong, and I will not endure it. Who are they that complain unto the [[King]] That I forsooth am stern and [[Love|love]] them not? By holy Paul, they [[Love|love]] his grace but lightly That fill his ears with such dissentious rumours. Because I cannot flatter and look fair, Smile in men’s faces, smooth, deceive, and cog, Duck with French nods and apish courtesy, I must be held a rancorous enemy. Cannot a plain man live and think no harm, But thus his simple [[Truth|truth]] must be abused With silken, sly, insinuating jacks? RIVERS To whom in all this presence speaks your grace ? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | To thee, that hast nor honesty nor grace. When have I injured thee ? When done thee wrong? Or thee? Or thee? Or any of your faction? A plague upon you all! His royal grace— Whom God preserve better than you would wish— Cannot be quiet scarce a breathing while But you must trouble him with lewd complaints. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--02_exchange_queen_elizabeth" data-title="Richard III — Act I, Scene 3 — exchange (QUEEN ELIZABETH) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Brother of [[Gloucester]], you mistake the matter. The [[King]]—on his own royal disposition, And not provoked by any suitor else— Aiming belike at your interior hatred, That in your outward action shows itself Against my children, brothers, and myself, Makes him to send, that he may learn the ground Of your ill will, and thereby to remove it. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I cannot tell. The world is grown so bad That wrens make prey where eagles dare not perch. Since every jack became a gentleman, There’s many a gentle person made a jack. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Come, come, we know your meaning, brother [[Gloucester]]. You envy my advancement, and my friends’. God grant we never may have need of you. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Meantime, God grants that I have need of you. Our brother is imprisoned by your means, Myself disgraced, and the nobility Held in contempt, while great promotions Are daily given to ennoble those That scarce some two days since were worth a noble. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | By him that raised me to this care-full height From that contented hap which I enjoyed, I never did incense his majesty Against the Duke of [[Clarence]], but have been An earnest advocate to plead for him. My lord, you do me shameful injury Falsely to draw me in these vile suspects. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | You may deny that you were not the mean Of my Lord [[Hastings]]’ late [[Imprisonment|imprisonment]]. |
+| RIVERS | She may, my lord, for— |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | She may, Lord Rivers; why, who knows not so? She may do more, sir, than denying that. She may help you to many fair preferments, And then deny her aiding hand therein, And lay those honours on your high [[Desert|desert]]. What may she not? She may—ay, marry, may she. |
+| RIVERS | What ‘marry, may she’? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What marry, may she? Marry with a [[King|king]]: A bachelor, and a handsome stripling, too. Iwis your grandam had a worser match. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | My lord of [[Gloucester]], I have too long borne Your blunt upbraidings and your bitter scoffs. By heaven, I will acquaint his majesty Of those gross taunts that oft I have endured. I had rather be a country servant-maid Than a great [[Queen|queen]], with this condition: To be so baited, scorned, and stormed at. Enter old [[Queen Margaret]], unseen behind them Small joy have I in being England’s [[Queen|queen]]. |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) And lessened be that small, God I beseech him. Thy [[Honour|honour]], state, and seat is due to me. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to Elizabeth) What? Threat you me with telling of the [[King]]? Tell him, and spare not. Look what I have said, I will avouch’t in presence of the [[King]]. I dare adventure to be sent to th’ Tower. ‘Tis [[Time|time]] to speak; my pains are quite forgot. |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) Out, devil! I remember them too [[Well|well]]. Thou killed’st my husband Henry in the Tower, And Edward, my poor son, at Tewkesbury. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to Elizabeth) Ere you were [[Queen|queen]]—ay, or your husband [[King|king]]— I was a packhorse in his great affairs, A weeder-out of his proud adversaries, A liberal rewarder of his friends. To royalize his [[Blood|blood]], I spent mine own. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--03_exchange_queen_margaret" data-title="Richard III — Act I, Scene 3 — exchange (QUEEN MARGARET) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) Ay, and much better [[Blood|blood]] than his or thine. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to Elizabeth) In all which [[Time|time]] you and your husband Gray Were factious for the [[house]] of Lancaster; And Rivers, so were you.—Was not your husband In Margaret’s battle at Saint Albans slain? Let me put in your minds, if you forget, What you have been ere this, and what you are; Withal, what I have been, and what I am. |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) A murd’rous [[Villain|villain]], and so still thou art. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Poor [[Clarence]] did forsake his father Warwick— Ay, and forswore himself, which Jesu pardon— |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) Which God [[Revenge|revenge]]! |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | To fight on Edward’s party for the [[Crown|crown]], And for his meed, poor lord, he is mewed up. I would to God my heart were flint like Edward’s, Or Edward’s soft and pitiful like mine. I am too childish-foolish for this world. |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) Hie thee to hell for shame, and leave this world, Thou cacodemon; there thy kingdom is. |
+| RIVERS | My lord of [[Gloucester]], in those busy days Which here you urge to prove us enemies, We followed then our lord, our sovereign [[King|king]]. So should we you, if you should be our [[King|king]]. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | If I should be? I had rather be a pedlar. Far be it from my heart, the thought thereof. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | As little joy, my lord, as you suppose You should enjoy, were you this country’s [[King|king]], As little joy may you suppose in me, That I enjoy being the [[Queen|queen]] thereof. |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) Ah, little joy enjoys the [[Queen|queen]] thereof, For I am she, and altogether joyless. I can no longer hold me patient. She comes forward Hear me, you wrangling pirates, that fall out In sharing that which you have pilled from me. Which of you trembles not that looks on me? If not that I am [[Queen]], you bow like subjects; Yet that by you deposed, you quake like rebels. (To [[Richard]]) Ah, gentle [[Villain|villain]], do not turn away. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Foul wrinkled [[Witch|witch]], what mak’st thou in my sight? |
+| [[Queen Margaret|QUEEN MARGARET]] | But repetition of what thou hast marred: That will I make before I let thee go. A husband and a son thou ow’st to me, (To Elizabeth) And thou a kingdom; (to the rest) all of you allegiance. This sorrow that I have by right is yours, And all the pleasures you usurp are mine. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | The curse my noble father laid on thee— When thou didst [[Crown|crown]] his warlike brows with paper, And with thy scorns drew‘st rivers from his eyes, And then, to dry them, gav’st the duke a clout Steeped in the faultless [[Blood|blood]] of pretty Rutland— His curses then, from bitterness of [[Soul|soul]] Denounced against thee, are all fall’n upon thee, And God, not we, hath plagued thy bloody deed. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | (to Margaret) So just is God to right the [[Innocent|innocent]]. |
+| LORD [[Hastings|HASTINGS]] | (to Margaret) O ‘twas the foulest deed to slay that babe, And the most merciless that e’er was heard of. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--04_exchange_rivers" data-title="Richard III — Act I, Scene 3 — exchange (RIVERS) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| RIVERS | (to Margaret) Tyrants themselves wept when it was reported. |
+| DORSET | (to Margaret) No man but prophesied [[Revenge|revenge]] for it. |
+| [[Buckingham|BUCKINGHAM]] | (to Margaret) Northumberland, then present, wept to see it. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--05_monologue_queen_margaret" data-title="Richard III — Act I, Scene 3 — monologue (QUEEN MARGARET) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Margaret|QUEEN MARGARET]] | What? Were you snarling all before I came, Ready to catch each other by the throat, And turn you all your hatred now on me? Did York’s dread curse prevail so much with heaven That Henry’s [[Death|death]], my lovely Edward’s [[Death|death]], Their kingdom’s loss, my woeful banishment, Should all but answer for that peevish brat? Can curses pierce the clouds and enter heaven? Why then, give way, dull clouds, to my quick curses! Though not by war, by surfeit die your [[King|king]], As ours by murder to make him a [[King|king]]. (To Elizabeth) Edward thy son, that now is Prince of Wales, For Edward my son, that was Prince of Wales, Die in his youth by like untimely violence. Thyself, a [[Queen|queen]], for me that was a [[Queen|queen]], Outlive thy glory like my wretched [[Self|self]]. Long mayst thou live—to wail thy children’s [[Death|death]], And see another, as I see thee now, Decked in thy rights, as thou art ’stalled in mine. Long die thy happy days before thy [[Death|death]], And after many lengthened hours of grief Die, neither mother, wife, nor England’s [[Queen|queen]].— Rivers and Dorset, you were standers-by, And so wast thou, Lord [[Hastings]], when my son Was stabbed with bloody daggers. God I pray him, That none of you may live his natural age, But by some unlooked accident cut off. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--06_exchange_richard_gloucester" data-title="Richard III — Act I, Scene 3 — exchange (RICHARD GLOUCESTER) [6]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Have done thy charm, thou hateful, withered hag. |
+| [[Queen Margaret|QUEEN MARGARET]] | And leave out thee? Stay, dog, for thou shalt hear me. If heaven have any grievous plague in store Exceeding those that I can wish upon thee, O let them keep it till thy sins be ripe, And then hurl down their indignation On thee, the troubler of the poor world’s peace. The worm of [[Conscience|conscience]] still begnaw thy [[Soul|soul]]. Thy friends suspect for traitors while thou liv’st, And take deep traitors for thy dearest friends. No [[Sleep|sleep]] close up that deadly eye of thine, Unless it be while some tormenting dream Affrights thee with a hell of ugly devils. Thou elvish-marked, abortive, rooting hog, Thou that wast sealed in thy nativity The slave of [[Nature|nature]] and the son of hell, Thou slander of thy heavy mother’s womb, Thou loathed issue of thy father’s loins, Thou rag of [[Honour|honour]], thou detested— |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Margaret. |
+| [[Queen Margaret|QUEEN MARGARET]] | [[Richard]]. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Ha? |
+| [[Queen Margaret|QUEEN MARGARET]] | I call thee not. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I cry thee [[Mercy|mercy]] then, for I did think That thou hadst called me all these bitter names. |
+| [[Queen Margaret|QUEEN MARGARET]] | Why so I did, but looked for no reply. O let me make the period to my curse. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | ‘Tis done by me, and ends in ‘Margaret’. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | (to Margaret) Thus have you breathed your curse against yourself. |
+| [[Queen Margaret|QUEEN MARGARET]] | Poor painted [[Queen]], vain flourish of my fortune, Why strew‘st thou sugar on that bottled spider Whose deadly web ensnareth thee about? [[Fool]], [[Fool|fool]], thou whet’st a knife to kill thyself. The day will come that thou shalt wish for me To help thee curse this poisonous bunch-backed toad. |
+| LORD [[Hastings|HASTINGS]] | False-boding woman, end thy frantic curse, Lest to thy harm thou move our patience. |
+| [[Queen Margaret|QUEEN MARGARET]] | Foul shame upon you, you have all moved mine. |
+| RIVERS | Were you [[Well|well]] served, you would be taught your duty. |
+| [[Queen Margaret|QUEEN MARGARET]] | To serve me [[Well|well]] you all should do me duty. Teach me to be your [[Queen|queen]], and you my subjects: O serve me [[Well|well]], and teach yourselves that duty. |
+| DORSET | Dispute not with her: she is lunatic. |
+| [[Queen Margaret|QUEEN MARGARET]] | Peace, master Marquis, you are malapert. Your [[Fire|fire]]-new stamp of [[Honour|honour]] is scarce current. O that your young nobility could judge What ‘twere to lose it and be miserable. They that stand high have many blasts to shake them, And if they fall they dash themselves to pieces. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Good counsel, marry!—Learn it, learn it, Marquis. |
+| DORSET | It touches you, my lord, as much as me. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Ay, and much more; but I was born so high. Our eyrie buildeth in the cedar’s top, And dallies with the [[Wind|wind]], and scorns the sun. |
+| [[Queen Margaret|QUEEN MARGARET]] | And turns the sun to shade. Alas, alas! Witness my son, now in the shade of [[Death|death]], Whose bright outshining beams thy cloudy wrath Hath in eternal darkness folded up. Your eyrie buildeth in our eyrie’s nest.— O God that seest it, do not suffer it; As it was won with [[Blood|blood]], lost be it so. [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] Peace, peace! For shame, if not for [[Charity|charity]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--07_exchange_queen_margaret" data-title="Richard III — Act I, Scene 3 — exchange (QUEEN MARGARET) [7]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Margaret|QUEEN MARGARET]] | Urge neither [[Charity|charity]] nor shame to me. Uncharitably with me have you dealt, And shamefully my hopes by you are butchered. My [[Charity|charity]] is outrage; life, my shame; And in that shame still live my sorrow’s rage. |
+| [[Buckingham|BUCKINGHAM]] | Have done, have done. |
+| [[Queen Margaret|QUEEN MARGARET]] | O princely [[Buckingham]], I’ll kiss thy hand In sign of league and amity with thee. Now fair befall thee and thy noble [[house]]! Thy garments are not spotted with our [[Blood|blood]], Nor thou within the compass of my curse. |
+| [[Buckingham|BUCKINGHAM]] | Nor no one here, for curses never pass The lips of those that breathe them in the air. |
+| [[Queen Margaret|QUEEN MARGARET]] | I will not think but they ascend the sky And there awake God’s gentle sleeping peace. O [[Buckingham]], take heed of yonder dog. She points at [[Richard]] Look when he fawns, he bites; and when he bites, His venom tooth will rankle to the [[Death|death]]. Have naught to do with him; beware of him; Sin, [[Death|death]], and hell have set their marks on him, And all their ministers attend on him. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What doth she say, my lord of [[Buckingham]]? |
+| [[Buckingham|BUCKINGHAM]] | Nothing that I respect, my gracious lord. |
+| [[Queen Margaret|QUEEN MARGARET]] | What, dost thou scorn me for my gentle counsel, And soothe the devil that I warn thee from? O but remember this another day, When he shall split thy very heart with sorrow, And say, ‘Poor Margaret was a prophetess’.— Live each of you the subjects to his hate, And he to yours, and all of you to God’s. Exit LORD [[Hastings|HASTINGS]] My hair doth stand on end to hear her curses. |
+| RIVERS | And so doth mine. I muse why she’s at liberty. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I cannot blame her, by God’s holy mother. She hath had too much wrong, and I repent My part thereof that I have done to her. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | I never did her any, to my knowledge. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Yet you have all the vantage of her wrong. I was too hot to do somebody good, That is too cold in thinking of it now. Marry, as for [[Clarence]], he is [[Well|well]] repaid: He is franked up to fatting for his pains. God pardon them that are the cause thereof. |
+| RIVERS | A virtuous and a Christian-like conclusion, To pray for them that have done scathe to us. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | So do I ever—(speaks to himself) being [[Well|well]] advised: For had I cursed now, I had cursed myself. Enter Sir William Catesby |
+| CATESBY | Madam, his majesty doth call for you, And for your grace, and you my gracious lords. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Catesby, I come.—Lords, will you go with me? |
+| RIVERS | We wait upon your grace. Exeunt all but [[Richard]] |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I do the wrong, and first begin to brawl. The secret mischiefs that I set abroach I lay unto the grievous charge of others. [[Clarence]], whom I indeed have cast in darkness, I do beweep to many simple gulls— Namely to Derby, [[Hastings]], [[Buckingham]]— And tell them, “Tis the [[Queen]] and her allies That stir the [[King]] against the Duke my brother’. Now they believe it, and withal whet me To be revenged on Rivers, Dorset, Gray; But then I sigh, and with a piece of scripture Tell them that God bids us do good for evil; And thus I clothe my naked villainy With odd old ends, stol’n forth of Holy Writ, And seem a saint when most I play the devil. Enter two Murderers But soft, here come my executioners.— How now, my hardy, stout, resolvèd mates! Are you now going to dispatch this thing? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--08_exchange_a_murderer" data-title="Richard III — Act I, Scene 3 — exchange (A MURDERER) [8]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A |
+| MURDERER | We are, my lord, and come to have the warrant, That we may be admitted where he is. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | [[Well]] thought upon; I have it here about me. He gives them the warrant When you have done, repair to Crosby Place. But sirs, be sudden in the execution, Withal obdurate; do not hear him plead, For [[Clarence]] is [[Well|well]] spoken, and perhaps May move your hearts to pity, if you mark him. |
+| *(didascalia)* | A |
+| MURDERER | Tut, tut, my lord, we will not stand to prate. Talkers are no good doers. Be assured, We go to use our hands, and not our tongues. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Your eyes drop millstones when fools’ eyes fall [[Tears|tears]]. I like you, lads. About your business straight. Go, go, dispatch. MURDERERS We will, my noble lord. Exeunt [[Richard]] at one door, the Murderers at another |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--01_exchange_dialogue" data-title="Richard III — Act I, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter George Duke of [[Clarence]] and Sir Robert Brackenbury BRACKENBURY Why looks your grace so heavily today? |
+| *(didascalia)* | O I have passed a miserable [[Night|night]], So full of fearful [[Dreams|dreams]], of ugly sights, That as I am a Christian faithful man, I would not spend another such a [[Night|night]] Though ‘twere to buy a world of happy days, So full of dismal terror was the [[Time|time]]. BRACKENBURY What was your dream, my lord? I pray you, tell me. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--02_monologue_clarence" data-title="Richard III — Act I, Scene 4 — monologue (CLARENCE) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Clarence|CLARENCE]] | Methoughts that I had broken from the Tower, And was embarked to [[Cross|cross]] to Burgundy, And in my company my brother [[Gloucester]], Who from my cabin tempted me to walk Upon the hatches; there we looked toward England, And cited up a thousand heavy times During the wars of York and Lancaster That had befall’n us. As we paced along Upon the giddy footing of the hatches, Methought that [[Gloucester]] stumbled, and in falling Struck me—that sought to stay him—overboard Into the tumbling billows of the main. O Lord! Methought what [[Pain|pain]] it was to drown, What dreadful noise of waters in my ears, What sights of ugly [[Death|death]] within my eyes. Methoughts I saw a thousand fearful wrecks, Ten thousand men that fishes gnawed upon, Wedges of gold, great ouches, heaps of pearl, Inestimable stones, unvalued jewels, All scattered in the [[Bottom|bottom]] of the sea. Some lay in dead men’s skulls; and in those holes Where eyes did once inhabit, there were crept— As ‘twere in scorn of eyes—reflecting gems, Which wooed the slimy [[Bottom|bottom]] of the deep And mocked the dead bones that lay scattered by. BRACKENBURY Had you such leisure in the [[Time|time]] of [[Death|death]], To gaze upon these [[Secrets|secrets]] of the deep? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--03_exchange_clarence" data-title="Richard III — Act I, Scene 4 — exchange (CLARENCE) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Clarence|CLARENCE]] | Methought I had, and often did I strive To yield the [[Ghost|ghost]], but still the envious flood Stopped-in my [[Soul|soul]] and would not let it forth To find the empty, vast, and wand’ring air, But smothered it within my panting bulk, Who almost burst to belch it in the sea. BRACKENBURY Awaked you not in this sore agony? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--04_monologue_clarence" data-title="Richard III — Act I, Scene 4 — monologue (CLARENCE) [4]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Clarence|CLARENCE]] | No, no, my dream was lengthened after life. O then began the tempest to my [[Soul|soul]]! I passed, methought, the [[Melancholy|melancholy]] flood, With that sour ferryman which poets write of, Unto the kingdom of perpetual [[Night|night]]. The first that there did greet my stranger [[Soul|soul]] Was my great father-in-law, renowned Warwick, Who cried aloud, ‘What scourge for perjury Can this dark monarchy afford false [[Clarence]]?’ And so he vanished. Then came wand‘ring by A [[Shadow|shadow]] like an angel, with bright hair, Dabbled in [[Blood|blood]], and he shrieked out aloud, ‘[[Clarence]] is come: false, fleeting, perjured [[Clarence]], That stabbed me in the field by Tewkesbury. Seize on him, furies! Take him unto torment!’ With that, methoughts a legion of foul fiends Environed me, and howled in mine ears Such hideous cries that with the very noise I trembling waked, and for a season after Could not believe but that I was in hell, Such terrible impression made my dream. BRACKENBURY No marvel, lord, though it affrighted you; I am afraid, methinks, to hear you tell it. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--05_exchange_clarence" data-title="Richard III — Act I, Scene 4 — exchange (CLARENCE) [5]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Clarence|CLARENCE]] | Ah, Brackenbury, I have done these things, That now give evidence against my [[Soul|soul]], For Edward’s sake; and see how he requites me. Keeper, I pray thee, sit by me awhile. My [[Soul|soul]] is heavy, and I fain would [[Sleep|sleep]]. BRACKENBURY I will, my lord. God give your grace good rest. [[Clarence]] sleeps Sorrow breaks [[Seasons|seasons]] and reposing hours, Makes the [[Night|night]] morning and the noontide [[Night|night]]. Princes have but their titles for their glories, An outward [[Honour|honour]] for an inward toil, And for unfelt imaginations They often feel a world of restless cares; So that, between their titles and low name, There’s nothing differs but the outward fame. Enter two Murderers |
+| FIRST MURDERER | Ho, who’s here? |
+| BRACKENBURY | What wouldst thou, fellow? And how cam’st thou hither? |
+| SECOND MURDERER | I would speak with [[Clarence]], and I came hither on my legs. |
+| BRACKENBURY | What, so brief? |
+| FIRST MURDERER | ‘Tis better, sir, than to be tedious. (To Second Murderer) Let him see our commission, and talk no more. Brackenbury reads |
+| BRACKENBURY | I am in this commanded to deliver The noble Duke of [[Clarence]] to your hands. I will not reason what is meant hereby, Because I will be guiltless of the meaning. There lies the Duke asleep, and there the keys. He throws down the keys I’ll to the [[King]] and signify to him That thus I have resigned to you my charge. |
+| FIRST MURDERER | You may, sir; ‘tis a point of wisdom. Fare you [[Well|well]]. Exit Brackenbury |
+| SECOND MURDERER | What, shall I stab him as he sleeps? |
+| FIRST MURDERER | No. He’ll say ‘twas done cowardly, when he wakes. |
+| SECOND MURDERER | Why, he shall never wake until the great judgement day. |
+| FIRST MURDERER | Why, then he’ll say we stabbed him sleeping. |
+| SECOND MURDERER | The urging of that word ‘judgement’ hath bred a kind of remorse in me. |
+| FIRST MURDERER | What, art thou afraid? |
+| SECOND MURDERER | Not to kill him, having a warrant, but to be damned for killing him, from the which no warrant can defend me. |
+| FIRST MURDERER | I thought thou hadst been resolute. SECOND MURDERER So I am—to let him live. |
+| FIRST MURDERER | I’ll back to the [[Duke of Gloucester]] and tell him so. |
+| SECOND MURDERER | Nay, I pray thee. Stay a little. I [[Hope|hope]] this passionate [[Humour|humour]] of mine will change. It was wont to hold me but while one tells twenty. He counts to twenty |
+| FIRST MURDERER | How dost thou feel thyself now? SECOND MURDERER Some certain dregs of [[Conscience|conscience]] are yet within me. |
+| FIRST MURDERER | Remember our reward, when the deed’s done. |
+| SECOND MURDERER | ‘Swounds, he dies. I had forgot the reward. |
+| FIRST MURDERER | Where’s thy [[Conscience|conscience]] now? |
+| SECOND MURDERER’ | O, in the [[Duke of Gloucester]]’s purse. FIRST MURDERER When he opens his purse to give us our reward, thy [[Conscience|conscience]] flies out. |
+| SECOND MURDERER | ‘Tis no matter. Let it go. There’s few or none will entertain it. |
+| FIRST MURDERER | What if it come to thee again? |
+| SECOND MURDERER | I’ll not meddle with it. It makes a man a coward. A man cannot steal but it accuseth him. A man cannot swear but it checks him. A man cannot lie with his neighbour’s wife but it detects him. ‘Tis a blushing, shamefaced spirit, that mutinies in a man’s bosom. It fills a man full of obstacles. It made me once restore a purse of gold that by chance I found. It beggars any man that keeps it. It is turned out of towns and cities for a dangerous thing, and every man that means to live [[Well|well]] endeavours to trust to himself and live without it. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--06_exchange_first_murderer" data-title="Richard III — Act I, Scene 4 — exchange (FIRST MURDERER) [6]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FIRST MURDERER | ‘Swounds, ’tis even now at my elbow, persuading me not to kill the Duke. |
+| SECOND MURDERER | Take the devil in thy mind, and believe him not: he would insinuate with thee but to make thee sigh. |
+| FIRST MURDERER | I am strong framed; he cannot prevail with me. |
+| SECOND MURDERER | Spoke like a tall man that respects thy reputation. Come, shall we fall to work? |
+| FIRST MURDERER | Take him on the [[Costard|costard]] with the hilts of thy [[Sword|sword]], and then throw him into the malmsey butt in the next room. |
+| SECOND MURDERER | O excellent device!—and make a sop of him. |
+| FIRST MURDERER | Soft, he wakes. |
+| SECOND MURDERER | Strike! |
+| FIRST MURDERER | No, we’ll reason with him. |
+| [[Clarence|CLARENCE]] | Where art thou, keeper? Give me a cup of wine. |
+| SECOND MURDERER | You shall have wine enough, my lord, anon. |
+| [[Clarence|CLARENCE]] | In God’s name, what art thou? |
+| FIRST MURDERER | A man, as you are. |
+| [[Clarence|CLARENCE]] | But not as I am, royal. |
+| FIRST MURDERER | Nor you as we are, loyal. |
+| [[Clarence|CLARENCE]] | Thy voice is thunder, but thy looks are humble. |
+| FIRST MURDERER | My voice is now the [[King]]’s; my looks, mine own. |
+| [[Clarence|CLARENCE]] | How darkly and how deadly dost thou speak. Your eyes do menace me. Why look you pale? Who sent you hither? Wherefore do you come? |
+| SECOND MURDERER | To, to, to— |
+| [[Clarence|CLARENCE]] | To murder me. |
+| BOTH MURDERERS | Ay, ay. |
+| [[Clarence|CLARENCE]] | You scarcely have the hearts to tell me so, And therefore cannot have the hearts to do it. Wherein, my friends, have I offended you? |
+| FIRST MURDERER | Offended us you have not, but the [[King]]. |
+| [[Clarence|CLARENCE]] | I shall be reconciled to him again. |
+| SECOND MURDERER | Never, my lord; therefore prepare to die. |
+| [[Clarence|CLARENCE]] | Are you drawn forth among a world of men To slay the [[Innocent|innocent]]? What is my offence? Where is the evidence that doth accuse me? What lawful [[Quest|quest]] have given their verdict up Unto the frowning judge, or who pronounced The bitter sentence of poor [[Clarence]]’ [[Death|death]]? Before I be convict by course of law, To threaten me with [[Death|death]] is most unlawful. I charge you, as you [[Hope|hope]] to have redemption By [[Christ]]’s dear [[Blood|blood]], shed for our grievous sins, That you depart and lay no hands on me. The deed you undertake is damnable. |
+| FIRST MURDERER | What we will do, we do upon command. |
+| SECOND MURDERER | And he that hath commanded is our [[King|king]]. |
+| [[Clarence|CLARENCE]] | Erroneous vassals, the great [[King]] of Kings Hath in the table of his law commanded That thou shalt do no murder. Will you then Spurn at his edict, and fulfil a man’s? Take heed, for he holds vengeance in his hand To hurl upon their heads that break his law. |
+| SECOND MURDERER | And that same vengeance doth he hurl on thee, For false forswearing, and for murder too. Thou didst receive the sacrament to fight In quarrel of the [[house]] of Lancaster. |
+| FIRST MURDERER | And, like a traitor to the name of God, Didst break that vow, and with thy treacherous blade Unripped‘st the bowels of thy sov’reign’s son. |
+| SECOND MURDERER | Whom thou wast sworn to cherish and defend. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--07_exchange_first_murderer" data-title="Richard III — Act I, Scene 4 — exchange (FIRST MURDERER) [7]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FIRST MURDERER | How canst thou urge God’s dreadful law to us, When thou hast broke it in such dear degree? |
+| [[Clarence|CLARENCE]] | Alas, for whose sake did I that ill deed? For Edward, for my brother, for his sake. He sends ye not to murder me for this, For in that sin he is as deep as I. If God will be avenged for the deed, O know you yet, he doth it publicly. Take not the quarrel from his pow’rful arm; He needs no indirect or lawless course To cut off those that have offended him. |
+| FIRST MURDERER | Who made thee then a bloody minister When gallant springing brave Plantagenet, That princely novice, was struck dead by thee? |
+| [[Clarence|CLARENCE]] | My brother’s [[Love|love]], the devil, and my rage. |
+| FIRST MURDERER | Thy brother’s [[Love|love]], our duty, and thy faults Provoke us hither now to slaughter thee. |
+| [[Clarence|CLARENCE]] | If you do [[Love|love]] my brother, hate not me. I am his brother, and I [[Love|love]] him [[Well|well]]. If you are hired for meed, go back again, And I will send you to my brother [[Gloucester]], Who shall reward you better for my life Than Edward will for tidings of my [[Death|death]]. |
+| SECOND MURDERER | You are deceived. Your brother [[Gloucester]] hates you. |
+| [[Clarence|CLARENCE]] | O no, he loves me, and he holds me dear. Go you to him from me. |
+| FIRST MURDERER | Ay, so we will. |
+| [[Clarence|CLARENCE]] | Tell him, when that our princely father York Blessed his three sons with his victorious arm, And charged us from his [[Soul|soul]] to [[Love|love]] each other, He little thought of this divided [[Friendship|friendship]]. Bid [[Gloucester]] think of this, and he will weep. |
+| FIRST MURDERER | Ay, millstones, as he lessoned us to weep. |
+| [[Clarence|CLARENCE]] | O do not slander him, for he is kind. |
+| FIRST MURDERER | As [[Snow|snow]] in harvest. Come, you deceive yourself. ‘Tis he that sends us to destroy you here. |
+| [[Clarence|CLARENCE]] | It cannot be, for he bewept my fortune, And hugged me in his arms, and swore with sobs That he would labour my delivery. |
+| FIRST MURDERER | Why, so he doth, when he delivers you From this earth’s thraldom to the joys of heaven. |
+| SECOND MURDERER | Make peace with God, for you must die, my lord. |
+| [[Clarence|CLARENCE]] | Have you that holy feeling in your souls To counsel me to make my peace with God, And are you yet to your own souls so blind That you will war with God by murd’ring me? O sirs, consider: they that set you on To do this deed will hate you for the deed. |
+| SECOND MURDERER | (to First) What shall we do? |
+| [[Clarence|CLARENCE]] | Relent, and save your souls. |
+| FIRST MURDERER | Relent? No. ’Tis cowardly and womanish. |
+| [[Clarence|CLARENCE]] | Not to relent is beastly, savage, devilish.— My friend, I spy some pity in thy looks. O if thine eye be not a flatterer, Come thou on my side, and entreat for me. A begging prince, what beggar pities not? Which of you, if you were a prince’s son, Being pent from liberty as I am now, If two such murderers as yourselves came to you, Would not entreat for life? As you would beg Were you in my distress— |
+| SECOND MURDERER | Look behind you, my lord! |
+| FIRST MURDERER | (stabbing [[Clarence]]) Take that, and that! If all this will not serve, I’ll drown you in the malmsey butt within. Exit with [[Clarence]]’s [[Body|body]] |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--08_exchange_second_murderer" data-title="Richard III — Act I, Scene 4 — exchange (SECOND MURDERER) [8]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SECOND MURDERER | A bloody deed, and desperately dispatched! How fain, like Pilate, would I wash my hands Of this most grievous, guilty murder done. Enter First Murderer |
+| FIRST MURDERER | How now? What mean‘st thou, that thou help’st me not? By heaven, the Duke shall know how slack you have been. |
+| SECOND MURDERER | I would he knew that I had saved his brother. Take thou the fee, and tell him what I say, For I repent me that the Duke is slain. Exit |
+| FIRST MURDERER | So do not I. Go, coward as thou art.— [[Well]], I’ll go hide the [[Body|body]] in some hole Till that the Duke give order for his burial. And, when I have my meed, I will away, For this will out, and then I must not stay. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Richard III — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish. Enter [[King]] Edward, sick, [[Queen Elizabeth]], Lord Marquis Dorset, Lord Rivers, Lord [[Hastings]], Sir William Catesby, the [[Duke of Buckingham]] and Lord Gray |
+| [[King|KING]] EDWARD | Why, so! Now have I done a good day’s work. You peers, continue this united league. I every day expect an embassage From my redeemer to redeem me hence, And more in peace my [[Soul|soul]] shall part to heaven Since I have made my friends at peace on earth. [[Hastings]] and Rivers, take each other’s hand. Dissemble not your hatred; swear your [[Love|love]]. |
+| RIVERS | By heaven, my [[Soul|soul]] is purged from grudging hate, And with my hand I seal my true heart’s [[Love|love]]. He takes [[Hastings]]’ hand |
+| LORD [[Hastings|HASTINGS]] | So thrive I, as I truly swear the like. |
+| [[King|KING]] EDWARD | Take heed you dally not before your [[King|king]], Lest he that is the supreme [[King]] of Kings Confound your hidden falsehood, and award Either of you to be the other’s end. |
+| LORD [[Hastings|HASTINGS]] | So prosper I, as I swear perfect [[Love|love]]. |
+| RIVERS | And I, as I [[Love|love]] [[Hastings]] with my heart. |
+| [[King|KING]] EDWARD | (to Elizabeth) Madam, yourself is not exempt from this, Nor your son Dorset;—[[Buckingham]], nor you. You have been factious one against the other. Wife, [[Love|love]] Lord [[Hastings]], let him kiss your hand— And what you do, do it unfeignedly. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | (giving [[Hastings]] her hand to kiss) There, [[Hastings]]. I will never more remember Our former hatred: so thrive I, and mine. |
+| [[King|KING]] EDWARD | Dorset, embrace him. [[Hastings]], [[Love|love]] Lord Marquis. |
+| DORSET | This interchange of [[Love|love]], I here protest, Upon my part shall be inviolable. |
+| LORD [[Hastings|HASTINGS]] | And so swear I. They embrace |
+| [[King|KING]] EDWARD | Now, princely [[Buckingham]], seal thou this league With thy embracements to my wife’s allies, And make me happy in your [[unity]]. |
+| [[Buckingham|BUCKINGHAM]] | (to Elizabeth) Whenever [[Buckingham]] doth turn his hate Upon your grace, but with all duteous [[Love|love]] Doth cherish you and yours, God punish me With hate in those where I expect most [[Love|love]]. When I have most need to employ a friend, And most assured that he is a friend, Deep, hollow, treacherous, and full of guile Be he unto me. This do I beg of heaven, When I am cold in [[Love|love]] to you or yours. They embrace |
+| [[King|KING]] EDWARD | A pleasing cordial, princely [[Buckingham]], Is this thy vow unto my sickly heart. There wanteth now our brother [[Gloucester]] here, To make the blessèd period of this peace. Enter Sir [[Richard]] Ratcliffe and [[Richard]] [[Duke of Gloucester]] |
+| [[Buckingham|BUCKINGHAM]] | And in good [[Time|time]], Here comes Sir [[Richard]] Ratcliffe and the Duke. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Good morrow to my sovereign [[King]] and [[Queen]].— And princely peers, a happy [[Time|time]] of day. |
+| [[King|KING]] EDWARD | Happy indeed, as we have spent the day. Brother, we have done deeds of [[Charity|charity]], Made peace of enmity, fair [[Love|love]] of hate, Between these swelling wrong-incensed peers. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | A blessed labour, my most sovereign lord. Among this princely heap if any here, By false intelligence or wrong surmise, Hold me a foe, If I unwittingly or in my rage Have aught committed that is hardly borne By any in this presence, I [[Desire|desire]] To reconcile me to his friendly peace. ‘Tis [[Death|death]] to me to be at enmity. I hate it, and [[Desire|desire]] all good men’s [[Love|love]].— First, madam, I entreat true peace of you, Which I will purchase with my duteous service.— Of you, my noble cousin [[Buckingham]], If ever any grudge were lodged between us.— Of you, Lord Rivers, and Lord Gray of you, That all without [[Desert|desert]] have frowned on me.— Dukes, earls, lords, gentlemen, indeed of all! I do not know that Englishman alive With whom my [[Soul|soul]] is any jot at odds More than the infant that is born tonight. I thank my God for my [[Humility|humility]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--02_exchange_queen_elizabeth" data-title="Richard III — Act II, Scene 1 — exchange (QUEEN ELIZABETH) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | A holy day shall this be kept hereafter. I would to God all strifes were [[Well|well]] compounded.— My sovereign lord, I do beseech your highness To take our brother [[Clarence]] to your grace. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Why, madam, have I offered [[Love|love]] for this, To be so flouted in this royal presence? Who knows not that the gentle Duke is dead? The others all start You do him injury to scorn his corpse. RIVERS Who knows not he is dead? Who knows he is? |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | All-seeing heaven, what a world is this? |
+| [[Buckingham|BUCKINGHAM]] | Look I so pale, Lord Dorset, as the rest? |
+| DORSET | Ay, my good lord, and no one in the presence But his red colour hath forsook his cheeks. |
+| [[King|KING]] EDWARD | Is [[Clarence]] dead? The order was reversed. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | But he, poor man, by your first order died, And that a winged Mercury did bear; Some tardy cripple bore the countermand, That came too lag to see him buried. God grant that some, less noble and less loyal, Nearer in bloody thoughts, but not in [[Blood|blood]], Deserve not worse than wretched [[Clarence]] did, And yet go current from suspicion. Enter Lord Stanley Earl of Derby |
+| STANLEY | (kneeling) A boon, my sovereign, for my service done. |
+| [[King|KING]] EDWARD | I pray thee, peace! My [[Soul|soul]] is full of sorrow. |
+| STANLEY | I will not rise, unless your highness hear me. |
+| [[King|KING]] EDWARD | Then say at once, what is it thou requests? |
+| STANLEY | The forfeit, sovereign, of my servant’s life, Who slew today a riotous gentleman, Lately attendant on the Duke of Norfolk. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--03_monologue_king_edward" data-title="Richard III — Act II, Scene 1 — monologue (KING EDWARD) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] EDWARD | Have I a tongue to doom my brother’s [[Death|death]], And shall that tongue give pardon to a slave? My brother slew no man; his fault was thought; And yet his punishment was bitter [[Death|death]]. Who sued to me for him? Who in my wrath Kneeled at my feet, and bid me be advised? Who spoke of brotherhood? Who spoke of [[Love|love]]? Who told me how the poor [[Soul|soul]] did forsake The mighty Warwick and did fight for me? Who told me, in the field at Tewkesbury, When [[Oxford]] had me down, he rescued me, And said, ‘Dear brother, live, and be a [[King|king]]’? Who told me, when we both lay in the field, Frozen almost to [[Death|death]], how he did lap me Even in his garments, and did give himself All thin and naked to the numb-cold [[Night|night]]? All this from my remembrance brutish wrath Sinfully plucked, and not a man of you Had so much grace to put it in my mind. But when your carters or your waiting vassals Have done a drunken slaughter, and defaced The precious image of our dear redeemer, You straight are on your knees for ‘Pardon, pardon!’— And I, unjustly too, must grant it you. But, for my brother, not a man would speak, Nor I, ungracious, speak unto myself For him, poor [[Soul|soul]]. The proudest of you all Have been beholden to him in his life, Yet none of you would once beg for his life. O God, I [[Fear|fear]] thy justice will take hold On me—and you, and mine, and yours, for this.— Come, [[Hastings]], help me to my closet. Ah, poor [[Clarence]]! Exeunt some with [[King]] and [[Queen]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1--04_exchange_richard_gloucester" data-title="Richard III — Act II, Scene 1 — exchange (RICHARD GLOUCESTER) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | This is the fruits of rashness. Marked you not How that the guilty kindred of the [[Queen]] Looked pale, when they did hear of [[Clarence]]’ [[Death|death]]? O, they did urge it still unto the [[King]]. God will [[Revenge|revenge]] it. Come, lords, will you go To comfort Edward with our company? |
+| [[Buckingham|BUCKINGHAM]] | We wait upon your grace. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Richard III — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | The Trumpets sound. Enter young Prince Edward, the Dukes of [[Gloucester]] and [[Buckingham]], Lord Cardinal, with others, including Lord Stanley Earl of Derby and Sir William Catesby |
+| [[Buckingham|BUCKINGHAM]] | Welcome, sweet Prince, to [[London]], to your chamber. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to Prince Edward) Welcome, dear cousin, my thoughts’ sovereign. The weary way hath made you [[Melancholy|melancholy]]. |
+| PRINCE EDWARD | No, uncle, but our crosses on the way Have made it tedious, wearisome, and heavy. I want more uncles here to welcome me. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Sweet Prince, the untainted virtue of your years Hath not yet dived into the world’s deceit, Nor more can you distinguish of a man Than of his outward show, which God he knows Seldom or never jumpeth with the heart. Those uncles which you want were dangerous. Your grace attended to their sugared words, But looked not on the [[Poison|poison]] of their hearts. God keep you from them, and from such false friends. |
+| PRINCE EDWARD | God keep me from false friends; but they were none. Enter [[Lord Mayor]] and his train |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | My lord, the Mayor of [[London]] comes to greet you. |
+| MAYOR | (kneeling to Prince Edward) God bless your grace with health and happy days. |
+| PRINCE EDWARD | I thank you, good my lord, and thank you all.— I thought my mother and my brother York Would long ere this have met us on the way. Fie, what a slug is [[Hastings]], that he hastes not To tell us whether they will come or no. Enter Lord [[Hastings]] |
+| [[Buckingham|BUCKINGHAM]] | In happy [[Time|time]] here comes the sweating lord. |
+| PRINCE EDWARD | (to [[Hastings]]) Welcome, my lord. What, will our mother come? |
+| LORD [[Hastings|HASTINGS]] | On what occasion God he knows, not I, The [[Queen]] your mother, and your brother York, Have taken sanctuary. The tender Prince Would fain have come with me to meet your grace, But by his mother was perforce withheld. |
+| [[Buckingham|BUCKINGHAM]] | Fie, what an indirect and peevish course Is this of hers !—Lord Cardinal, will your grace Persuade the [[Queen]] to send the [[Duke of York]] Unto his princely brother presently?— If she deny, Lord [[Hastings]], go with him, And from her jealous arms pluck him perforce. |
+| CARDINAL | My lord of [[Buckingham]], if my weak oratory Can from his mother win the [[Duke of York]], Anon expect him. But if she’ be obdurate To mild entreaties, God in heaven forbid We should infringe the sacred privilege Of blessed sanctuary. Not for all this land Would I be guilty of so deep a sin. |
+| [[Buckingham|BUCKINGHAM]] | You are too senseless-obstinate, my lord, Too ceremonious and traditional. Weigh it not with the grossness of this age. You break not sanctuary in seizing him. The benefit thereof is always granted To those whose dealings have deserved the place, And those who have the wit to claim the place. This prince hath neither claimed it nor deserved it, And therefore, in my mind, he cannot have it. Then taking him from thence that ‘longs not there, You break thereby no privilege nor charter. Oft have I heard of ‘sanctuary men‘, But ‘sanctuary children’ ne’er till now. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--02_exchange_cardinal" data-title="Richard III — Act III, Scene 1 — exchange (CARDINAL) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| CARDINAL | My lord, you shall o’errule my mind for once.— Come on, Lord [[Hastings]], will you go with me? |
+| LORD [[Hastings|HASTINGS]] | I come, my lord. |
+| PRINCE EDWARD | Good lords, make all the speedy haste you may.— Exeunt Cardinal and [[Hastings]] Say, uncle [[Gloucester]], if our brother come, Where shall we sojourn till our coronation? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Where it seems best unto your royal [[Self|self]]. If I may counsel you, some day or two Your highness shall repose you at the Tower, Then where you please and shall be thought most fit For your best health and recreation. |
+| PRINCE EDWARD | I do not like the Tower of any place.— Did [[Julius Caesar]] build that place, my lord? |
+| [[Buckingham|BUCKINGHAM]] | He did, my gracious lord, begin that place, Which since succeeding ages have re-edified. |
+| PRINCE EDWARD | Is it upon record, or else reported Successively from age to age, he built it? |
+| [[Buckingham|BUCKINGHAM]] | Upon record, my gracious liege. |
+| PRINCE EDWARD | But say, my lord, it were not registered, Methinks the [[Truth|truth]] should live from age to age, As ‘twere retailed to all posterity Even to the general all-ending day. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (aside) So wise so young, they say, do never live long. |
+| PRINCE EDWARD | What say you, uncle? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I say, ‘Without characters fame lives long’. (Aside) Thus like the formal Vice, Iniquity, I moralize two meanings in one word. |
+| PRINCE EDWARD | That [[Julius Caesar]] was a famous man: With what his valour did t’enrich his wit, His wit set down to make his valour live. [[Death]] made no conquest of this conqueror, For yet he lives in fame though not in life. I’ll tell you what, my cousin [[Buckingham]]. |
+| [[Buckingham|BUCKINGHAM]] | What, my good lord? |
+| PRINCE EDWARD | An if I live until I be a man, I’ll win our ancient right in France again, Or die a soldier, as I lived a [[King|king]]. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (aside) Short summers lightly have a forward [[spring]]. Enter young [[Duke of York]], Lord [[Hastings]], and Lord Cardinal |
+| [[Buckingham|BUCKINGHAM]] | Now in good [[Time|time]], here comes the [[Duke of York]]. |
+| PRINCE EDWARD | [[Richard]] of York, how fares our loving brother? |
+| YORK | [[Well]], my dread lord—so must I call you now. |
+| PRINCE EDWARD | Ay, brother, to our grief, as it is yours. Too late he died that might have kept that title, Which by his [[Death|death]] hath lost much majesty. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | How fares our noble cousin, Lord of York? |
+| YORK | I thank you, gentle uncle, [[Well|well]]. O, my lord, You said that idle weeds are fast in growth; The Prince, my brother, hath outgrown me far. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | He hath, my lord. |
+| YORK | And therefore is he idle? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | O my fair cousin, I must not say so. |
+| YORK | He is more beholden to you then than I. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | He may command me as my sovereign, But you have power in me as a kinsman. |
+| YORK | I pray you, uncle, render me this dagger. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | My dagger, little cousin? With all my heart. |
+| PRINCE EDWARD | A beggar, brother? |
+| YORK | Of my kind uncle that I know will give, It being but a toy which is no grief to give. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--03_exchange_richard_gloucester" data-title="Richard III — Act III, Scene 1 — exchange (RICHARD GLOUCESTER) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | A greater gift than that I’ll give my cousin. |
+| YORK | A greater gift? O, that’s the [[Sword|sword]] to it. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Ay, gentle cousin, were it light enough. |
+| YORK | O, then I see you will part but with light gifts. In weightier things you’ll say a beggar nay. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | It is too heavy for your grace to wear. |
+| YORK | I’d weigh it lightly, were it heavier. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What, would you have my weapon, little lord? |
+| YORK | I would, that I might thank you as you call me. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | HOW? |
+| YORK | Little. |
+| PRINCE EDWARD | My lord of York will still be [[Cross|cross]] in talk.— Uncle, your grace knows how to bear with him. |
+| YORK | You mean to bear me, not to bear with me.— Uncle, my brother mocks both you and me. Because that I am little like an ape, He thinks that you should bear me on your shoulders. |
+| [[Buckingham|BUCKINGHAM]] | With what a sharp, prodigal wit he reasons. To mitigate the scorn he gives his uncle, He prettily and aptly taunts himself. So cunning and so young is wonderful. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to Prince Edward) My lord, will’t please you pass along? Myself and my good cousin [[Buckingham]] Will to your mother to entreat of her To meet you at the Tower and welcome you. |
+| YORK | (to Prince Edward) What, will you go unto the Tower, my lord? |
+| PRINCE EDWARD | My Lord Protector needs will have it so. |
+| YORK | I shall not [[Sleep|sleep]] in quiet at the Tower. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Why, what should you [[Fear|fear]] there? |
+| YORK | Marry, my uncle [[Clarence]]’ angry [[Ghost|ghost]]. My grannam told me he was murdered there. |
+| PRINCE EDWARD | I [[Fear|fear]] no uncles dead. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Nor none that live, I [[Hope|hope]]. |
+| PRINCE EDWARD | An if they live, I [[Hope|hope]] I need not [[Fear|fear]]. (To York) But come, my lord, and with a heavy heart, Thinking on them, go we unto the Tower. A Sennet. Exeunt all but [[Richard]], [[Buckingham]], and Catesby |
+| [[Buckingham|BUCKINGHAM]] | (to [[Richard]]) Think you, my lord, this little prating York Was not incensed by his subtle mother To taunt and scorn you thus opprobriously? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | No [[Doubt|doubt]], no [[Doubt|doubt]]. O, ‘tis a parlous boy, Bold, quick, ingenious, forward, capable. He is all the mother’s, from the top to toe. |
+| [[Buckingham|BUCKINGHAM]] | [[Well]], let them rest.—Come hither, Catesby. Thou art sworn As deeply to effect what we intend As closely to conceal what we impart. Thou know‘st our reasons, urged upon the way. What think’st thou? Is it not an easy matter To make Lord William [[Hastings]] of our mind, For the instalment of this noble duke In the seat royal of this famous isle? |
+| CATESBY | He for his father’s sake so loves the Prince That he will not be won to aught against him. |
+| [[Buckingham|BUCKINGHAM]] | What think’st thou then of Stanley? Will not he? |
+| CATESBY | He will do all-in-all as [[Hastings]] doth. |
+| [[Buckingham|BUCKINGHAM]] | [[Well]] then, no more but this. Go, gentle Catesby, And, as it were far off, sound thou Lord [[Hastings]] How he doth stand affected to our purpose. If thou dost find him tractable to us, Encourage him, and tell him all our reasons. If he be leaden, icy, cold, unwilling, Be thou so too, and so break off your talk, And give us notice of his inclination, For we tomorrow hold divided counsels, Wherein thyself shalt highly be employed. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--04_exchange_richard_gloucester" data-title="Richard III — Act III, Scene 1 — exchange (RICHARD GLOUCESTER) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Commend me to Lord William. Tell him, Catesby, His ancient knot of dangerous adversaries Tomorrow are let [[Blood|blood]] at Pomfret [[Castle]], And bid my lord, for joy of this good news, Give Mrs Shore one gentle kiss the more. |
+| [[Buckingham|BUCKINGHAM]] | Good Catesby, go effect this business soundly. |
+| CATESBY | My good lords both, with all the heed I can. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Shall we hear from you, Catesby, ere we [[Sleep|sleep]]? |
+| CATESBY | You shall, my lord. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | At Crosby [[house|House]], there shall you find us both. Exit Catesby |
+| [[Buckingham|BUCKINGHAM]] | My lord, what shall we do if we perceive Lord [[Hastings]] will not yield to our complots? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Chop off his head. Something we will determine. And look when I am [[King|king]], claim thou of me The earldom of Hereford, and all the movables Whereof the [[King]] my brother was possessed. |
+| [[Buckingham|BUCKINGHAM]] | I’ll claim that promise at your grace’s hand. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | And look to have it yielded with all kindness. Come, let us sup betimes, that afterwards We may digest our complots in some form. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--01_exchange_dialogue" data-title="Richard III — Act III, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the [[Duke of Buckingham]], Lord Stanley Earl of Derby, Lord [[Hastings]], Bishop of Ely, the Duke of Norfolk, Sir William Catesby, with others at a table |
+| LORD [[Hastings|HASTINGS]] | Now, noble peers, the cause why we are met Is to determine of the coronation. In God’s name, speak: when is the royal day? |
+| [[Buckingham|BUCKINGHAM]] | Is all things ready for that solemn [[Time|time]]? |
+| STANLEY | It is, and wants but nomination. |
+| BISHOP OF ELY | Tomorrow, then, I judge a happy day. |
+| [[Buckingham|BUCKINGHAM]] | Who knows the Lord Protector’s mind herein? Who is most inward with the noble Duke? |
+| BISHOP OF ELY | Your grace, methinks, should soonest know his mind. |
+| [[Buckingham|BUCKINGHAM]] | We know each other’s faces. For our hearts, He knows no more of mine than I of yours, Or I of his, my lord, than you of mine.— Lord [[Hastings]], you and he are near in [[Love|love]]. |
+| LORD [[Hastings|HASTINGS]] | I thank his grace; I know he loves me [[Well|well]]. But for his purpose in the coronation, I have not sounded him, nor he delivered His gracious pleasure any way therein. But you, my honourable lords, may name the [[Time|time]], And in the Duke’s behalf I’ll give my voice, Which I presume he’ll take in gentle part. Enter [[Richard]] [[Duke of Gloucester]] |
+| BISHOP OF ELY | In happy [[Time|time]], here comes the Duke himself. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | My noble lords, and cousins all, good morrow. I have been long a sleeper, but I trust My absence doth neglect no great design Which by my presence might have been concluded. |
+| [[Buckingham|BUCKINGHAM]] | Had not you come upon your cue, my lord, William Lord [[Hastings]] had pronounced your part— I mean, your voice, for crowning of the [[King]]. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Than my Lord [[Hastings]] no man might be bolder. His lordship knows me [[Well|well]], and loves me [[Well|well]].— My lord of Ely, when I was last in Holborn I saw good strawberries in your [[Garden|garden]] there. I do beseech you send for some of them. |
+| BISHOP OF ELY | Marry, and will, my lord, with all my heart. Exit |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Cousin of [[Buckingham]], a word with you. (Aside) Catesby hath sounded [[Hastings]] in our business, And finds the testy gentleman so hot That he will lose his head ere give consent His ‘master’s [[Child|child]]’—as worshipful he terms it— Shall lose the royalty of England’s throne. |
+| [[Buckingham|BUCKINGHAM]] | Withdraw yourself a while; I’ll go with you. Exeunt [[Richard]] and [[Buckingham]] |
+| STANLEY | We have not yet set down this day of triumph. Tomorrow, in my judgement, is too sudden, For I myself am not so [[Well|well]] provided As else I would be, were the day prolonged. Enter Bishop of Ely |
+| BISHOP OF ELY | Where is my lord, the [[Duke of Gloucester]]? I have sent for these strawberries. |
+| LORD [[Hastings|HASTINGS]] | His grace looks cheerfully and smooth this morning. There’s some conceit or other likes him [[Well|well]], When that he bids good morrow with such spirit. I think there’s never a man in Christendom Can lesser hide his [[Love|love]] or hate than he, For by his face straight shall you know his heart. |
+| STANLEY | What of his heart perceive you in his face By any likelihood he showed today? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--02_exchange_lord_hastings" data-title="Richard III — Act III, Scene 4 — exchange (LORD HASTINGS) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LORD [[Hastings|HASTINGS]] | Marry, that with no man here he is offended— For were he, he had shown it in his looks. |
+| STANLEY | I pray God he be not. Enter [[Richard]] and [[Buckingham]] |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I pray you all, tell me what they deserve That do conspire my [[Death|death]] with devilish plots Of damned witchcraft, and that have prevailed Upon my [[Body|body]] with their hellish charms? |
+| LORD [[Hastings|HASTINGS]] | The tender [[Love|love]] I bear your grace, my lord, Makes me most forward in this princely presence To doom th’offenders, whatsoe’er they be. I say, my lord, they have deserved [[Death|death]]. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Then be your eyes the witness of their evil: See how I am bewitched. Behold, mine arm Is like a blasted sapling withered up. And this is Edward’s wife, that monstrous [[Witch|witch]], Consorted with that harlot, strumpet Shore, That by their witchcraft thus have marked me. |
+| LORD [[Hastings|HASTINGS]] | If they have done this deed, my noble lord— |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | ‛If’? Thou protector of this damned strumpet, Talk’st thou to me of ‛ifs’ ? Thou art a traitor.— Off with his head. Now, by Saint Paul I swear, I will not dine until I see the same. Some see it done. The rest that [[Love|love]] me, rise and follow me. Exeunt all but Catesby and [[Hastings]] |
+| LORD [[Hastings|HASTINGS]] | Woe, woe for England! Not a whit for me, For I, too fond, might have prevented this. Stanley did dream the boar did raze our helms, But I did scorn it and disdain to fly. Three times today my footcloth [[Horse|horse]] did stumble, And started when he looked upon the Tower, As loath to bear me to the slaughterhouse. O now I need the priest that spake to me. I now repent I told the pursuivant, As too triumphing, how mine enemies Today at Pomfret bloodily were butchered, And I myself secure in grace and favour. O Margaret, Margaret! Now thy heavy curse Is lighted on poor [[Hastings]]’ wretched head. CATESBY Come, come, dispatch: the Duke would be at dinner. Make a short shrift; he longs to see your head. |
+| LORD [[Hastings|HASTINGS]] | O momentary grace of mortal men, Which we more hunt for than the grace of God. Who builds his [[Hope|hope]] in th’air of your good looks Lives like a drunken sailor on a mast, Ready with every nod to tumble down Into the fatal bowels of the deep. CATESBY Come, come, dispatch. ‘Tis bootless to exclaim. |
+| LORD [[Hastings|HASTINGS]] | O bloody [[Richard]]! Miserable England! I prophesy the fearful’st [[Time|time]] to thee That ever wretched age hath looked upon.— Come lead me to the block; bear him my head. They smile at me, who shortly shall be dead. Exeunt |
+| LORD [[Hastings|HASTINGS]] | 3.5Enter [[Richard]] [[Duke of Gloucester]] and the [[Duke of Buckingham]] in rotten armour, marvellous ill-favoured |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Come, cousin, canst thou quake and change thy colour? Murder thy breath in middle of a word? And then again begin, and stop again, As if thou wert distraught and mad with terror? |
+| [[Buckingham|BUCKINGHAM]] | Tut, I can counterfeit the deep tragedian, Tremble and start at wagging of a straw, Speak, and look back, and pry on every side, Intending deep suspicion; ghastly looks Are at my service, like enforced smiles, And both are ready in their offices At any [[Time|time]] to grace my stratagems. Enter the [[Lord Mayor]] |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--03_exchange_richard_gloucester" data-title="Richard III — Act III, Scene 4 — exchange (RICHARD GLOUCESTER) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (aside to [[Buckingham]]) Here comes the Mayor. |
+| [[Buckingham|BUCKINGHAM]] | (aside to [[Richard]]) Let me [[Alone|alone]] to entertain him.—[[Lord Mayor]]— |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | calling as to one within Look to the drawbridge there! |
+| [[Buckingham|BUCKINGHAM]] | Hark, a drum! |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | calling as to one within Catesby, o’erlook the walls! |
+| [[Buckingham|BUCKINGHAM]] | [[Lord Mayor]], the reason we have sent— |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Look back, defend thee! Here are enemies. |
+| [[Buckingham|BUCKINGHAM]] | God and our [[innocence]] defend and guard us. Enter Sir William Catesby with [[Hastings]]’ head |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | O, O, be quiet! It is Catesby. |
+| CATESBY | Here is the head of that ignoble traitor, The dangerous and unsuspected [[Hastings]]. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | So dear I loved the man that I must weep. I took him for the plainest harmless creature That breathed upon the earth, a Christian, Made him my book wherein my [[Soul|soul]] recorded The [[history]] of all her secret thoughts. So smooth he daubed his vice with show of virtue That, his apparent open [[Guilt|guilt]] omitted— I mean, his conversation with Shore’s wife— He lived from all attainture of suspect. |
+| [[Buckingham|BUCKINGHAM]] | The covert’st sheltered traitor that ever lived. (To the Mayor) Would you imagine, or almost believe— Were’t not that, by great preservation, We live to tell it—that the subtle traitor This day had plotted in the Council [[house]] To murder me and my good lord of [[Gloucester]]? |
+| MAYOR | Had he done so? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What, think you we are Turks or infidels, Or that we would against the form of law Proceed thus rashly in the [[Villain|villain]]’s [[Death|death]] But that the extreme peril of the case, The peace of England, and our persons’ safety, Enforced us to this execution? |
+| MAYOR | Now fair befall you, he deserved his [[Death|death]], And your good graces both have [[Well|well]] proceeded, To warn false traitors from the like attempts. I never looked for better at his hands After he once fell in with Mrs Shore. [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] Yet had not we determined he should die, Until your lordship came to see his end, Which now the loving haste of these our friends— Something against our meanings—have prevented; Because, my lord, we would have had you hear The traitor speak, and timorously confess The manner and the purpose of his treason, That you might [[Well|well]] have signified the same Unto the citizens, who haply may Misconster us in him, and wail his [[Death|death]]. |
+| MAYOR | But, my good lord, your graces’ word shall serve As [[Well|well]] as I had seen and heard him speak. And do not [[Doubt|doubt]], right noble princes both, But I’ll acquaint our duteous citizens With all your just proceedings in this cause. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | And to that end we wished your lordship here, T’avoid the censures of the carping world. |
+| [[Buckingham|BUCKINGHAM]] | Which, since you come too late of our intent, Yet witness what you hear we did intend, And so, my good [[Lord Mayor]], we bid farewell. Exit Mayor |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--04_monologue_richard_gloucester" data-title="Richard III — Act III, Scene 4 — monologue (RICHARD GLOUCESTER) [4]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Go after; after, cousin [[Buckingham]]! The Mayor towards Guildhall hies him in all post; There, at your meetest vantage of the [[Time|time]], Infer the bastardy of Edward’s children. Tell them how Edward put to [[Death|death]] a citizen Only for saying he would make his son ‘Heir to the [[Crown]]’—meaning indeed, his [[house]], Which by the sign thereof was termed so. Moreover, urge his hateful luxury And bestial appetite in change of lust, Which stretched unto their servants, daughters, wives, Even where his raging eye, or savage heart, Without control, listed to make a prey. Nay, for a need, thus far come near my person: Tell them, when that my mother went with [[Child|child]] Of that insatiate Edward, noble York, My princely father, then had wars in France, And by true computation of the [[Time|time]] Found that the issue was not his begot— Which [[Well|well]] appeared in his lineaments, Being nothing like the noble Duke my father. Yet touch this sparingly, as ’twere far off, Because, my lord, you know my mother lives. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--05_exchange_buckingham" data-title="Richard III — Act III, Scene 4 — exchange (BUCKINGHAM) [5]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Buckingham|BUCKINGHAM]] | [[Doubt]] not, my lord, I’ll play the orator As if the golden fee for which I plead Were for myself. And so, my lord, adieu. He starts to go |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | If you thrive [[Well|well]], bring them to Baynard’s [[Castle]], Where you shall find me [[Well|well]] accompanied With reverend fathers and [[Well|well]]-learnèd bishops. |
+| [[Buckingham|BUCKINGHAM]] | I go, and towards three or four o’[[Clock|clock]] Look for the news that the Guildhall affords. Exit |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Now will I in, to take some privy order To draw the brats of [[Clarence]] out of sight, And to give notice that no manner person Have any [[Time|time]] recourse unto the Princes. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--01_exchange_dialogue" data-title="Richard III — Act III, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Richard]] [[Duke of Gloucester]] at one door and the [[Duke of Buckingham]] at another |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | How now, how now! What say the citizens? |
+| [[Buckingham|BUCKINGHAM]] | Now, by the holy mother of our Lord, The citizens are mum, say not a word. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Touched you the bastardy of Edward’s children? |
+| [[Buckingham|BUCKINGHAM]] | I did, with his contract with Lady Lucy, And his contract by deputy in France, Th‘insatiate greediness of his [[Desire|desire]], And his enforcement of the [[City|city]] wives, His tyranny for trifles, his own bastardy— As being got your father then in France, And his resemblance, being not like the Duke. Withal, I did infer your lineaments— Being the right idea of your father Both in your face and nobleness of mind; Laid open all your victories in Scotland, Your discipline in war, wisdom in peace, Your bounty, virtue, fair [[Humility|humility]]— Indeed, left nothing fitting for your purpose Untouched or slightly handled in discourse. And when mine oratory grew toward end, I bid them that did [[Love|love]] their country’s good Cry ‘God save [[Richard]], England’s royal [[King|king]]!’ |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | And did they SO? |
+| [[Buckingham|BUCKINGHAM]] | No, so God help me. They spake not a word, But, like dumb statuas or breathing stones, Stared each on other and looked deadly pale— Which, when I saw, I reprehended them, And asked the Mayor, what meant this wilful [[Silence|silence]]? His answer was, the people were not used To be spoke to but by the Recorder. Then he was urged to tell my tale again: ‘Thus saith the Duke... thus hath the Duke inferred’— But nothing spoke in warrant from himself. When he had done, some followers of mine own, At lower end of the Hall, hurled up their caps, And some ten voices cried ‘God save [[King]] [[Richard]]!’ And thus I took the vantage of those few: ‘Thanks, gentle citizens and friends’, quoth I; ‘This general applause and cheerful shout Argues your wisdoms and your [[Love|love]] to [[Richard]]’— And even here brake off and came away. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What tongueless blocks were they! Would they not speak? [[Buckingham|BUCKINGHAM]] No, by my troth, my lord. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Will not the Mayor then, and his brethren, come? |
+| [[Buckingham|BUCKINGHAM]] | The Mayor is here at hand. Intend some [[Fear|fear]]; Be not you spoke with, but by mighty suit; And look you get a [[prayer]] book in your hand, And stand between two churchmen, good my lord, For on that ground I’ll build a holy descant. And be not easily won to our request. Play the maid’s part: still answer ‘nay’—and take it. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I go. An if you plead as [[Well|well]] for them As I can say nay to thee for myself, No [[Doubt|doubt]] we’ll bring it to a happy issue. One knocks within |
+| [[Buckingham|BUCKINGHAM]] | Go, go, up to the leads! The [[Lord Mayor]] knocks.— Exit [[Richard]] Enter the [[Lord Mayor]], aldermen, and citizens Welcome, my lord. I [[Dance|dance]] attendance here. I think the Duke will not be spoke withal. Enter Catesby Now Catesby, what says your lord to my request? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--02_exchange_catesby" data-title="Richard III — Act III, Scene 7 — exchange (CATESBY) [2]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| CATESBY | He doth entreat your grace, my noble lord, To visit him tomorrow, or next day. He is within with two right reverend fathers, Divinely bent to meditation, And in no worldly suits would he be moved, To draw him from his holy exercise. |
+| [[Buckingham|BUCKINGHAM]] | Return, good Catesby, to the gracious Duke. Tell him myself, the Mayor, and aldermen, In deep designs, in matter of great moment, No less importing than our general good, Are come to have some conference with his grace. |
+| CATESBY | I’ll signify so much unto him straight. Exit |
+| [[Buckingham|BUCKINGHAM]] | Ah ha! My lord, this prince is not an Edward. He is not lolling on a lewd day-bed, But on his knees at meditation; Not dallying with a brace of courtesans, But meditating with two deep divines; Not sleeping to engross his idle [[Body|body]], But praying to enrich his watchful [[Soul|soul]]. Happy were England would this virtuous prince Take on his grace the sovereignty thereof. But, sure I [[Fear|fear]], we shall not win him to it. |
+| MAYOR | Marry, God defend his grace should say us nay. |
+| [[Buckingham|BUCKINGHAM]] | I [[Fear|fear]] he will. Here Catesby comes again. Enter Catesby Now Catesby, what says his grace? |
+| CATESBY | He wonders to what end you have assembled Such troops of citizens to come to him, His grace not being warned thereof before. He fears, my lord, you mean no good to him. |
+| [[Buckingham|BUCKINGHAM]] | Sorry I am my noble cousin should Suspect me that I mean no good to him. By heaven, we come to him in perfect [[Love|love]], And so once more return and tell his grace. Exit Catesby When holy and devout religious men Are at their beads, ‘tis much to draw them thence. So sweet is zealous contemplation. Enter [[Richard]] aloft, between two bishops. Enter Catesby below |
+| MAYOR | See where his grace stands ’tween two clergymen. |
+| [[Buckingham|BUCKINGHAM]] | Two props of virtue for a Christian prince, To stay him from the fall of [[Vanity|vanity]]; And see, a book of [[prayer]] in his hand— True ornaments to know a holy man.— Famous Plantagenet, most gracious prince, Lend favourable ear to our request, And pardon us the interruption Of thy devotion and right Christian zeal. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | My lord, there needs no such apology. I do beseech your grace to pardon me, Who, earnest in the service of my God, Deferred the visitation of my friends. But leaving this, what is your grace’s pleasure? |
+| [[Buckingham|BUCKINGHAM]] | Even that, I [[Hope|hope]], which pleaseth God above, And all good men of this ungoverned isle. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I do suspect I have done some offence That seems disgracious in the [[City|city]]’s eye, And that you come to reprehend my ignorance. |
+| [[Buckingham|BUCKINGHAM]] | You have, my lord. Would it might please your grace On our entreaties to amend your fault. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Else wherefore breathe I in a Christian land? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--03_monologue_buckingham" data-title="Richard III — Act III, Scene 7 — monologue (BUCKINGHAM) [3]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Buckingham|BUCKINGHAM]] | Know then, it is your fault that you resign The supreme seat, the throne majestical, The sceptred office of your ancestors, Your state of fortune and your due of birth, The lineal glory of your royal [[house]], To the corruption of a blemished stock, Whiles in the mildness of your sleepy thoughts— Which here we waken to our country’s good— The noble isle doth want her proper limbs: Her face defaced with scars of infamy, Her royal stock graft with ignoble plants And almost shouldered in the swallowing gulf Of dark forgetfulness and deep oblivion, Which to recure we heartily solicit Your gracious [[Self|self]] to take on you the charge And kingly [[government]] of this your land— Not as Protector, steward, substitute, Or lowly factor for another’s gain, But as successively, from [[Blood|blood]] to [[Blood|blood]], Your right of birth, your empery, your own. For this, consorted with the citizens, Your very worshipful and loving friends, And by their vehement instigation, In this just cause come I to move your grace. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--04_monologue_richard_gloucester" data-title="Richard III — Act III, Scene 7 — monologue (RICHARD GLOUCESTER) [4]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I cannot tell if to depart in [[Silence|silence]] Or bitterly to speak in your reproof Best fitteth my degree or your condition. Your [[Love|love]] deserves my thanks; but my [[Desert|desert]], Unmeritable, shuns your high request. First, if all obstacles were cut away And that my path were even to the [[Crown|crown]], As the ripe revenue and due of birth, Yet so much is my [[Poverty|poverty]] of spirit, So mighty and so many my defects, That I would rather hide me from my [[Greatness|greatness]]— Being a barque to brook no mighty sea— Than in my [[Greatness|greatness]] covet to be hid, And in the vapour of my glory smothered. But God be thanked, there is no need of me, And much I need to help you, were there need. The royal tree hath left us royal fruit, Which, mellowed by the stealing hours of [[Time|time]], Will [[Well|well]] become the seat of majesty And make, no [[Doubt|doubt]], us happy by his reign. On him I lay that you would lay on me, The right and fortune of his happy [[Stars|stars]], Which God defend that I should wring from him. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--05_monologue_buckingham" data-title="Richard III — Act III, Scene 7 — monologue (BUCKINGHAM) [5]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Buckingham|BUCKINGHAM]] | My lord, this argues [[Conscience|conscience]] in your grace, But the respects thereof are nice and trivial, All circumstances [[Well|well]] considered. You say that Edward is your brother’s son; So say we, too—but not by Edward’s wife. For first was he contract to Lady Lucy— Your mother lives a witness to his vow— And afterward, by substitute, betrothed To Bona, sister to the [[King of France]]. These both put off, a poor petitioner, A care-crazed mother to a many sons, A [[Beauty|beauty]]-waning and distressed widow Even in the afternoon of her best days, Made prize and purchase of his wanton eye, Seduced the pitch and height of his degree To base declension and loathed bigamy. By her in his unlawful bed he got This Edward, whom our manners call the Prince. More bitterly could I expostulate, Save that for reverence to some alive I give a sparing limit to my tongue. Then, good my lord, take to your royal [[Self|self]] This proffered benefit of dignity— If not to bless us and the land withal, Yet to draw forth your noble ancestry From the corruption of abusing times, Unto a lineal, true-derived course. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--06_exchange_mayor" data-title="Richard III — Act III, Scene 7 — exchange (MAYOR) [6]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MAYOR | (to [[Richard]]) Do, good my lord; your citizens entreat you. |
+| [[Buckingham|BUCKINGHAM]] | (to [[Richard]]) Refuse not, mighty lord, this proffered [[Love|love]]. |
+| CATFSBY | (to [[Richard]]) O make them joyful: grant their lawful suit. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Alas, why would you heap this care on me? I am unfit for state and majesty. I do beseech you, take it not amiss. I cannot, nor I will not, yield to you. |
+| [[Buckingham|BUCKINGHAM]] | If you refuse it-as, in [[Love|love]] and zeal, Loath to depose the [[Child|child]], your brother’s son, As [[Well|well]] we know your tenderness of heart And gentle, kind, effeminate remorse, Which we have noted in you to your kindred, And equally indeed to all estates— Yet know, whe‘er you accept our suit or no, Your brother’s son shall never reign our [[King|king]], But we will plant some other in the throne, To the disgrace and downfall of your [[house]]. And in this resolution here we leave you.— Come, citizens. ‘Swounds, I’ll entreat no more. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | O do not swear, my lord of [[Buckingham]]. Exeunt [[Buckingham]] and some others |
+| CATESBY | Call him again, sweet prince. Accept their suit. ANOTHER If you deny them, all the land will rue it. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Will you enforce me to a world of cares? Call them again. Exit one or more I am not made of stone, But penetrable to your kind entreats, Albeit against my [[Conscience|conscience]] and my [[Soul|soul]]. Enter [[Buckingham]] and the rest Cousin of [[Buckingham]], and sage, [[Grave|grave]] men, Since you will buckle fortune on my back, To bear her burden, whe’er I will or no, I must have patience to endure the load. But if black scandal or foul-faced reproach Attend the sequel of your imposition, Your mere enforcement shall acquittance me From all the impure blots and stains thereof; For God doth know, and you may partly see, How far I am from the [[Desire|desire]] of this. |
+| MAYOR | God bless your grace! We see it, and will say it. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | In saying so, you shall but say the [[Truth|truth]]. |
+| [[Buckingham|BUCKINGHAM]] | Then I salute you with this royal title: Long live kind [[Richard]], England’s worthy [[King|king]]! ALL BUT [[Richard|RICHARD]] Amen. |
+| [[Buckingham|BUCKINGHAM]] | Tomorrow may it please you to be crowned? |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Even when you please, for you will have it so. |
+| [[Buckingham|BUCKINGHAM]] | Tomorrow then, we will attend your grace. And so, most joyfully, we take our leave. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to the bishops) Come, let us to our holy work again.— Farewell, my cousin. Farewell, gentle friends. Exeunt [[Richard]] and bishops above, the rest below |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_2--01_exchange_dialogue" data-title="Richard III — Act IV, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Sound a sennet. Enter [[King]] [[Richard]] in pomp, the [[Duke of Buckingham]], Sir William Catesby, other nobles, and a Page |
+| [[King|KING]] [[Richard|RICHARD]] | Stand all apart.—Cousin of [[Buckingham]]. |
+| [[Buckingham|BUCKINGHAM]] | My gracious sovereign? |
+| [[King|KING]] [[Richard|RICHARD]] | Give me thy hand. Sound a sennet. Here [[Richard]] ascendeth the throne Thus high by thy advice And thy assistance is [[King]] [[Richard]] seated. But shall we wear these glories for a day? Or shall they last, and we rejoice in them? |
+| [[Buckingham|BUCKINGHAM]] | Still live they, and for ever let them last. |
+| [[King|KING]] [[Richard|RICHARD]] | Ah, [[Buckingham]], now do I play the touch, To try if thou be current gold indeed. Young Edward lives. Think now what I would speak. |
+| [[Buckingham|BUCKINGHAM]] | Say on, my loving lord. |
+| [[King|KING]] [[Richard|RICHARD]] | Why, [[Buckingham]], I say I would be [[King|king]]. |
+| [[Buckingham|BUCKINGHAM]] | Why, so you are, my thrice-renownèd liege. |
+| [[King|KING]] [[Richard|RICHARD]] | Ha? Am I [[King|king]]? ‘Tis so. But Edward lives. |
+| [[Buckingham|BUCKINGHAM]] | True, noble prince. |
+| [[King|KING]] [[Richard|RICHARD]] | O bitter consequence, That Edward still should live ‘true noble prince’. Cousin, thou wast not wont to be so dull. Shall I be plain? I wish the bastards dead, And I would have it immediately performed. What sayst thou now? Speak suddenly, be brief. |
+| [[Buckingham|BUCKINGHAM]] | Your grace may do your pleasure. |
+| [[King|KING]] [[Richard|RICHARD]] | Tut, tut, thou art all ice. Thy kindness freezes. Say, have I thy consent that they shall die? |
+| [[Buckingham|BUCKINGHAM]] | Give me some little breath, some pause, dear lord, Before I positively speak in this. I will resolve you herein presently. Exit |
+| CATESBY | (to another, aside) The [[King]] is angry. See, he gnaws his lip. |
+| [[King|KING]] [[Richard|RICHARD]] | (aside) I will converse with iron-witted fools And unrespective boys. None are for me That look into me with considerate eyes. High-reaching [[Buckingham]] grows circumspect.— Boy. |
+| PAGE | My lord? |
+| [[King|KING]] [[Richard|RICHARD]] | Know’st thou not any whom corrupting gold Will tempt unto a close exploit of [[Death|death]]? |
+| PAGE | I know a discontented gentleman Whose humble means match not his haughty spirit. Gold were as good as twenty orators, And will no [[Doubt|doubt]] tempt him to anything. |
+| [[King|KING]] [[Richard|RICHARD]] | What is his name? |
+| PAGE | His name, my lord, is Tyrrell. |
+| [[King|KING]] [[Richard|RICHARD]] | I partly know the man. Go call him hither, boy. Exit Page Aside The deep-revolving, witty [[Buckingham]] No more shall be the neighbour to my counsels. Hath he so long held out with me untired, And stops he now for breath? [[Well]], be it so. Enter Lord Stanley Earl of Derby How now, Lord Stanley? What’s the news? |
+| STANLEY | Know, my loving lord, The Marquis Dorset, as I hear, is fled To Richmond, in those parts beyond the seas Where he abides. |
+| [[King|KING]] [[Richard|RICHARD]] | Come hither, Catesby. (Aside to Catesby) Rumour it abroad That Anne, my wife, is very grievous sick. I will take order for her keeping close. Enquire me out some mean-born gentleman, Whom I will marry straight to [[Clarence]]’ daughter. The boy is foolish, and I [[Fear|fear]] not him. Look how thou dream’st. I say again, give out That Anne, my [[Queen|queen]], is sick, and like to die. About it, for it stands me much upon To stop all hopes whose growth may damage me. Exit Catesby (Aside) I must be married to my brother’s daughter, Or else my kingdom stands on brittle glass. Murder her brothers, and then marry her? Uncertain way of gain, but I am in So far in [[Blood|blood]] that sin will pluck on sin. Tear-falling pity dwells not in this eye.— Enter Sir James Tyrrell; he kneels Is thy name Tyrrell? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_2--02_exchange_tyrrell" data-title="Richard III — Act IV, Scene 2 — exchange (TYRRELL) [2]" data-chapter="Scene 2" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| TYRRELL | James Tyrrell, and your most obedient subject. |
+| [[King|KING]] [[Richard|RICHARD]] | Art thou indeed? |
+| TYRRELL | Prove me, my gracious lord. |
+| [[King|KING]] [[Richard|RICHARD]] | Dar’st thou resolve to kill a friend of mine? |
+| TYRRELL | Please you, but I had rather kill two enemies. |
+| [[King|KING]] [[Richard|RICHARD]] | Why there thou hast it: two deep enemies, Foes to my rest, and my sweet [[Sleep|sleep]]’s disturbers, Are they that I would have thee deal upon. Tyrrell, I mean those bastards in the Tower. |
+| TYRRELL | Let me have open means to come to them, And soon I’ll rid you from the [[Fear|fear]] of them. |
+| [[King|KING]] [[Richard|RICHARD]] | Thou sing’st sweet music. Hark, come hither, Tyrrell. Go, by this token. Rise, and lend thine ear. [[Richard]] whispers in his ear ‘Tis no more but so. Say it is done, And I will [[Love|love]] thee, and prefer thee for it. |
+| TYRRELL | I will dispatch it straight. [[King|KING]] [[Richard|RICHARD]] Shall we hear from thee, Tyrrell, ere we [[Sleep|sleep]]? Enter [[Buckingham]] TYRRELL Ye shall, my lord. Exit |
+| [[Buckingham|BUCKINGHAM]] | My lord, I have considered in my mind The late request that you did sound me in. |
+| [[King|KING]] [[Richard|RICHARD]] | [[Well]], let that rest. Dorset is fled to Richmond. |
+| [[Buckingham|BUCKINGHAM]] | I hear the news, my lord. |
+| [[King|KING]] [[Richard|RICHARD]] | Stanley, he is your wife’s son. [[Well]], look to it. |
+| [[Buckingham|BUCKINGHAM]] | My lord, I claim the gift, my due by promise, For which your [[Honour|honour]] and your [[Faith|faith]] is pawned: Th’earldom of Hereford, and the movables Which you have promised I shall possess. |
+| [[King|KING]] [[Richard|RICHARD]] | Stanley, look to your wife. If she convey Letters to Richmond, you shall answer it. |
+| [[Buckingham|BUCKINGHAM]] | What says your highness to my just request? |
+| [[King|KING]] [[Richard|RICHARD]] | I do remember me, Henry the Sixth Did prophesy that Richmond should be [[King|king]], When Richmond was a little peevish boy. A [[King|king]]... perhaps... perhaps. |
+| [[Buckingham|BUCKINGHAM]] | My lord? |
+| [[King|KING]] [[Richard|RICHARD]] | How chance the [[Prophet|prophet]] could not at that [[Time|time]] Have told me, I being by, that I should kill him? |
+| [[Buckingham|BUCKINGHAM]] | My lord, your promise for the earldom. |
+| [[King|KING]] [[Richard|RICHARD]] | Richmond? When last I was at Exeter, The Mayor in courtesy showed me the [[Castle|castle]], And called it ‘Ruge-mount’—at which name I started, Because a bard of Ireland told me once I should not live long after I saw ‘Richmond’. |
+| [[Buckingham|BUCKINGHAM]] | My lord? |
+| [[King|KING]] [[Richard|RICHARD]] | Ay? What’s o’[[Clock|clock]]? |
+| [[Buckingham|BUCKINGHAM]] | I am thus bold to put your grace in mind Of what you promised me. |
+| [[King|KING]] [[Richard|RICHARD]] | But what’s o’[[Clock|clock]]? |
+| [[Buckingham|BUCKINGHAM]] | Upon the stroke of ten. |
+| [[King|KING]] [[Richard|RICHARD]] | [[Well]], let it strike! |
+| [[Buckingham|BUCKINGHAM]] | Why ‘let it strike’? |
+| [[King|KING]] [[Richard|RICHARD]] | Because that, like a jack, thou keep’st the stroke Betwixt thy begging and my meditation. I am not in the giving vein today. |
+| [[Buckingham|BUCKINGHAM]] | Why then resolve me, whe’er you will or no? |
+| [[King|KING]] [[Richard|RICHARD]] | Thou troublest me. I am not in the vein. Exit [[Richard]], followed by all but [[Buckingham]] |
+| [[Buckingham|BUCKINGHAM]] | And is it thus? Repays he my deep service With such contempt? Made I him [[King|king]] for this? O let me think on [[Hastings]], and be gone To Brecon, while my fearful head is on. Exit at another door |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--01_exchange_dialogue" data-title="Richard III — Act IV, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter old [[Queen Margaret]] |
+| [[Queen Margaret|QUEEN MARGARET]] | So now prosperity begins to mellow And drop into the rotten mouth of [[Death|death]]. Here in these confines slyly have I lurked To watch the waning of mine enemies. A dire induction am I witness to, And will to France, hoping the consequence Will prove as bitter, black, and tragical. Enter the old Duchess of York and [[Queen Elizabeth]] Withdraw thee, wretched Margaret. Who comes here? |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Ah, my poor princes! Ah, my tender babes! My unblown [[Flowers|flowers]], new-appearing sweets! If yet your gentle souls fly in the air, And be not fixed in doom perpetual, Hover about me with your airy wings And hear your mother’s lamentation. |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) Hover about her, say that right for right Hath dimmed your infant morn to aged [[Night|night]]. |
+| DUCHESS OF YORK | So many miseries have crazed my voice That my woe-wearied tongue is still and mute. Edward Plantagenet, why art thou dead? |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) Plantagenet doth quit Plantagenet; Edward for Edward pays a dying debt. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Wilt thou, O God, fly from such gentle lambs And throw them in the entrails of the wolf? When didst thou [[Sleep|sleep]], when such a deed was done? |
+| [[Queen Margaret|QUEEN MARGARET]] | (aside) When holy Harry died, and my sweet son. |
+| DUCHESS OF YORK | Dead life, blind sight, poor mortal living [[Ghost|ghost]], Woe’s scene, world’s shame, [[Grave|grave]]’s due by life usurped, Brief abstract and record of tedious days, Rest thy unrest on England’s lawful earth, Unlawfully made drunk with innocents’ [[Blood|blood]]. They sit |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Ah that thou wouldst as soon afford a [[Grave|grave]] As thou canst yield a [[Melancholy|melancholy]] seat. Then would I hide my bones, not rest them here. Ah, who hath any cause to mourn but we? |
+| [[Queen Margaret|QUEEN MARGARET]] | (coming forward) If ancient sorrow be most reverend, Give mine the benefit of seniory, And let my griefs frown on the upper hand. If sorrow can admit society, Tell o’er your woes again by viewing mine. I had an Edward, till a [[Richard]] killed him; I had a husband, till a [[Richard]] killed him. (To Elizabeth) Thou hadst an Edward, till a [[Richard]] killed him; Thou hadst a [[Richard]], till a [[Richard]] killed him. |
+| DUCHESS OF YORK | rising I had a [[Richard]] too, and thou didst kill him; I had a Rutland too, thou holpst to kill him. |
+| [[Queen Margaret|QUEEN MARGARET]] | Thou hadst a [[Clarence]] too, and [[Richard]] killed him. From forth the kennel of thy womb hath crept A hell-hound that doth hunt us all to [[Death|death]]: That dog that had his teeth before his eyes, To worry lambs and lap their gentle [[Blood|blood]]; That foul defacer of God’s handiwork, That reigns in galled eyes of weeping souls; That excellent grand [[Tyrant|tyrant]] of the earth Thy womb let loose to chase us to our graves. O upright, just, and true-disposing God, How do I thank thee that this charnel cur Preys on the issue of his mother’s [[Body|body]], And makes her pewfellow with others’ moan. |
+| DUCHESS OF YORK | O Harry’s wife, triumph not in my woes. God witness with me, I have wept for thine. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--02_exchange_queen_margaret" data-title="Richard III — Act IV, Scene 4 — exchange (QUEEN MARGARET) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Margaret|QUEEN MARGARET]] | Bear with me. I am hungry for [[Revenge|revenge]], And now I cloy me with beholding it. Thy Edward, he is dead, that killed my Edward; Thy other Edward dead, to quite my Edward; Young York, he is but boot, because both they Matched not the high perfection of my loss; Thy [[Clarence]], he is dead, that stabbed my Edward, And the beholders of this frantic plays— Th’adulterate [[Hastings]], Rivers, Vaughan, Gray— Untimely smothered in their dusky graves. [[Richard]] yet lives, hell’s black intelligencer, Only reserved their factor to buy souls And send them thither; but at hand, at hand Ensues his piteous and unpitied end. Earth gapes, hell burns, fiends roar, saints pray, To have him suddenly conveyed from hence. Cancel his bond of life, dear God, I plead, That I may live and say, ‘The dog is dead’. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | O thou didst prophesy the [[Time|time]] would come That I should wish for thee to help me curse That bottled spider, that foul bunch-backed toad. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--03_monologue_queen_margaret" data-title="Richard III — Act IV, Scene 4 — monologue (QUEEN MARGARET) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Margaret|QUEEN MARGARET]] | I called thee then ‘vain flourish of my fortune’; I called thee then, poor [[Shadow|shadow]], ‘painted [[Queen|queen]]’— The presentation of but what I was, The flattering index of a direful pageant, One heaved a-high to be hurled down below, A mother only mocked with two fair babes, [[A Dream|A dream]] of what thou wast, a garish [[Flag|flag]] To be the aim of every dangerous shot, A sign of dignity, a breath, a bubble, A [[Queen|queen]] in jest, only to fill the scene. Where is thy husband now? Where be thy brothers? Where are thy two sons? Wherein dost thou joy? Who sues, and kneels, and says ‘God save the [[Queen]]’? Where be the bending peers that flattered thee? Where be the thronging troops that followed thee? Decline all this, and see what now thou art: For happy wife, a most distressed widow; For joyful mother, one that wails the name; For [[Queen|queen]], a very caitiff, crowned with care; For one being sued to, one that humbly sues; For she that scorned at me, now scorned of me; For she being feared of all, now fearing one; For she commanding all, obeyed of none. Thus hath the course of justice whirled about, And left thee but a very prey to [[Time|time]], Having no more but thought of what thou wert To torture thee the more, being what thou art. Thou didst usurp my place, and dost thou not Usurp the just proportion of my sorrow? Now thy proud neck bears half my burdened yoke— From which, even here, I slip my weary head, And leave the burden of it all on thee. Farewell, York’s wife, and [[Queen|queen]] of sad mischance. These English woes shall make me smile in France. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--04_exchange_queen_elizabeth" data-title="Richard III — Act IV, Scene 4 — exchange (QUEEN ELIZABETH) [4]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | (rising) O thou, [[Well|well]] skilled in curses, stay a while, And teach me how to curse mine enemies. |
+| [[Queen Margaret|QUEEN MARGARET]] | Forbear to [[Sleep|sleep]] the nights, and fast the days; Compare dead happiness with living woe; Think that thy babes were sweeter than they were, And he that slew them fouler than he is. Bett’ring thy loss makes the bad causer worse. Revolving this will teach thee how to curse. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | My words are dull. O quicken them with thine! |
+| [[Queen Margaret|QUEEN MARGARET]] | Thy woes will make them sharp and pierce like mine. Exit |
+| DUCHESS OF YORK | Why should calamity be full of words? |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Windy attorneys to their client woes, Airy recorders of intestate joys, Poor breathing orators of miseries. Let them have scope. Though what they will impart Help nothing else, yet do they ease the heart. |
+| DUCHESS OF YORK | If so, then be not tongue-tied; go with me, And in the breath of bitter words let’s smother My damned son, that thy two sweet sons smothered. A march within The trumpet sounds. Be copious in exclaims. Enter [[King]] [[Richard]] and his train marching with drummers and trumpeters |
+| [[King|KING]] [[Richard|RICHARD]] | Who intercepts me in my expedition? |
+| DUCHESS OF YORK | O, she that might have intercepted thee, By strangling thee in her accursed womb, From all the slaughters, wretch, that thou hast done. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Hid’st thou that forehead with a golden [[Crown|crown]], Where should be branded—if that right were right— The slaughter of the prince that owed that [[Crown|crown]], And the dire [[Death|death]] of my poor sons and brothers? Tell me, thou [[Villain|villain]]-slave, where are my children? |
+| DUCHESS OF YORK | Thou toad, thou toad, where is thy brother [[Clarence]]? And little Ned Plantagenet his son? |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Where is the gentle Rivers, Vaughan, Gray? |
+| DUCHESS OF YORK | Where is kind [[Hastings]]? |
+| [[King|KING]] [[Richard|RICHARD]] | (to his train) A flourish, trumpets! Strike alarum, drums! Let not the heavens hear these tell-tale women Rail on the Lord’s anointed. Strike, I say! Flourish. Alarums (To the women) Either be patient and entreat me fair, Or with the clamorous report of war Thus will I drown your exclamations. |
+| DUCHESS OF YORK | Art thou my son? |
+| [[King|KING]] [[Richard|RICHARD]] | Ay, I thank God, my father, and yourself. |
+| DUCHESS OF YORK | Then patiently hear my impatience. |
+| [[King|KING]] [[Richard|RICHARD]] | Madam, I have a touch of your condition, That cannot brook the accent of reproof. |
+| DUCHESS OF YORK | O let me speak! |
+| [[King|KING]] [[Richard|RICHARD]] | Do, then; but I’ll not hear. |
+| DUCHESS OF YORK | I will be mild and gentle in my words. |
+| [[King|KING]] [[Richard|RICHARD]] | And brief, good mother, for I am in haste. |
+| DUCHESS OF YORK | Art thou so hasty? I have stayed for thee, God knows, in torment and in agony— |
+| [[King|KING]] [[Richard|RICHARD]] | And came I not at last to comfort you? |
+| DUCHESS OF YORK | No, by the Holy Rood, thou know‘st it [[Well|well]]. Thou cam’st on earth to make the earth my hell. A grievous burden was thy birth to me; Tetchy and wayward was thy infancy; Thy schooldays frightful, desp’rate, wild, and furious; Thy prime of manhood daring, bold, and venturous; Thy age confirmed, proud, subtle, sly, and bloody; More mild, but yet more harmful; kind in hatred. What comfortable hour canst thou name That ever graced me in thy company? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--05_exchange_king_richard" data-title="Richard III — Act IV, Scene 4 — exchange (KING RICHARD) [5]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] [[Richard|RICHARD]] | [[Faith]], none but Humphrey Hewer, that called your grace To breakfast once, forth of my company. If I be so disgracious in your eye, Let me march on, and not offend you, madam.— Strike up the drum. |
+| DUCHESS OF YORK | I pray thee, hear me speak. |
+| [[King|KING]] [[Richard|RICHARD]] | You speak too bitterly. |
+| DUCHESS OF YORK | Hear me a word, For I shall never speak to thee again. |
+| DUCHESS OF YORK | Either thou wilt die by God’s just ordinance Ere from this war thou turn a conqueror, Or I with grief and extreme age shall perish, And never more behold thy face again. Therefore take with thee my most heavy curse, Which in the day of battle tire thee more Than all the complete armour that thou wear’st. My prayers on the adverse party fight, And there the little souls of Edward’s children Whisper the spirits of thine enemies, And promise them [[success]] and victory. Bloody thou art, bloody will be thy end; Shame serves thy life, and doth thy [[Death|death]] attend. Exit |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Though far more cause, yet much less spirit to curse Abides in me; I say ‘Amen’ to all. |
+| [[King|KING]] [[Richard|RICHARD]] | Stay, madam. I must talk a word with you. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | I have no more sons of the royal [[Blood|blood]] For thee to slaughter. For my daughters, [[Richard]], They shall be praying nuns, not weeping queens, And therefore level not to hit their lives. |
+| [[King|KING]] [[Richard|RICHARD]] | You have a daughter called Elizabeth, Virtuous and fair, royal and gracious. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | And must she die for this? O let her live, And I’ll corrupt her manners, stain her [[Beauty|beauty]], Slander myself as false to Edward’s bed, Throw over her the veil of infamy. So she may live unscarred of bleeding slaughter, I will confess she was not Edward’s daughter. |
+| [[King|KING]] [[Richard|RICHARD]] | Wrong not her birth. She is a royal princess. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | To save her life I’ll say she is not so. |
+| [[King|KING]] [[Richard|RICHARD]] | Her life is safest only in her birth. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | And only in that safety died her brothers. |
+| [[King|KING]] [[Richard|RICHARD]] | Lo, at their births good [[Stars|stars]] were opposite. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | No, to their lives ill friends were contrary. |
+| [[King|KING]] [[Richard|RICHARD]] | All unavoided is the doom of destiny— |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | True, when avoided grace makes destiny. My babes were destined to a fairer [[Death|death]], If grace had blessed thee with a fairer life. |
+| [[King|KING]] [[Richard|RICHARD]] | Madam, so thrive I in my enterprise And dangerous [[success]] of bloody wars, As I intend more good to you and yours Than ever you or yours by me were harmed. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | What good is covered with the face of heaven, To be discovered, that can do me good? |
+| [[King|KING]] [[Richard|RICHARD]] | Th’advancement of your children, gentle lady. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Up to some scaffold, there to lose their heads. |
+| [[King|KING]] [[Richard|RICHARD]] | Unto the dignity and height of fortune, The high imperial type of this earth’s glory. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Flatter my sorrow with report of it. Tell me what state, what dignity, what [[Honour|honour]], Canst thou demise to any [[Child|child]] of mine? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--06_exchange_king_richard" data-title="Richard III — Act IV, Scene 4 — exchange (KING RICHARD) [6]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] [[Richard|RICHARD]] | Even all I have—ay, and myself and all, Will I withal endow a [[Child|child]] of thine, So in the Lethe of thy angry [[Soul|soul]] Thou drown the sad remembrance of those wrongs, Which thou supposest I have done to thee. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Be brief, lest that the process of thy kindness Last longer telling than thy kindness’ date. |
+| [[King|KING]] [[Richard|RICHARD]] | Then know that, from my [[Soul|soul]], I [[Love|love]] thy daughter. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | My daughter’s mother thinks that with her [[Soul|soul]]. |
+| [[King|KING]] [[Richard|RICHARD]] | What do you think? |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | That thou dost [[Love|love]] my daughter from thy [[Soul|soul]]; So from thy [[Soul|soul]]’s [[Love|love]] didst thou [[Love|love]] her brothers, And from my heart’s [[Love|love]] I do thank thee for it. |
+| [[King|KING]] [[Richard|RICHARD]] | Be not so hasty to confound my meaning. I mean, that with my [[Soul|soul]] I [[Love|love]] thy daughter, And do intend to make her [[Queen|queen]] of England. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | [[Well]] then, who dost thou mean shall be her [[King|king]]? |
+| [[King|KING]] [[Richard|RICHARD]] | Even he that makes her [[Queen|queen]]. Who else should be? |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | What, thou? |
+| [[King|KING]] [[Richard|RICHARD]] | Even so. How think you of it? |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | How canst thou woo her? |
+| [[King|KING]] [[Richard|RICHARD]] | That would I learn of you, As one being best acquainted with her [[Humour|humour]]. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | And wilt thou learn of me? |
+| [[King|KING]] [[Richard|RICHARD]] | Madam, with all my heart. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Send to her, by the man that slew her brothers, A pair of bleeding hearts; thereon engrave ‘Edward’ and ‘York’; then haply will she weep. Therefore present to her—as sometimes Margaret Did to thy father, steeped in Rutland’s [[Blood|blood]]— A handkerchief which, say to her, did drain The purple sap from her sweet brother’s [[Body|body]], And bid her wipe her weeping eyes withal. If this inducement move her not to [[Love|love]], Send her a letter of thy noble deeds. Tell her thou mad’st away her uncle [[Clarence]], Her uncle Rivers—ay, and for her sake Mad’st quick conveyance with her good aunt Anne. |
+| [[King|KING]] [[Richard|RICHARD]] | You mock me, madam. This is not the way To win your daughter. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | There is no other way, Unless thou couldst put on some other shape, And not be [[Richard]], that hath done all this. |
+| [[King|KING]] [[Richard|RICHARD]] | Infer fair England’s peace by this alliance. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Which she shall purchase with still-lasting war. |
+| [[King|KING]] [[Richard|RICHARD]] | Tell her the [[King]], that may command, entreats. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | That at her hands which the [[King]]’s [[King]] forbids. |
+| [[King|KING]] [[Richard|RICHARD]] | Say she shall be a high and mighty [[Queen|queen]]. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | To vail the title, as her mother doth. |
+| [[King|KING]] [[Richard|RICHARD]] | Say I will [[Love|love]] her everlastingly. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | But how long shall that title ‘ever’ last? |
+| [[King|KING]] [[Richard|RICHARD]] | Sweetly in force unto her fair life’s end. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | But how long fairly shall her sweet life last? |
+| [[King|KING]] [[Richard|RICHARD]] | As long as heaven and [[Nature|nature]] lengthens it. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | As long as hell and [[Richard]] likes of it. |
+| [[King|KING]] [[Richard|RICHARD]] | Say I, her sovereign, am her subject [[Love|love]]. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | But she, your subject, loathes such sovereignty. |
+| [[King|KING]] [[Richard|RICHARD]] | Be eloquent in my behalf to her. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--07_exchange_queen_elizabeth" data-title="Richard III — Act IV, Scene 4 — exchange (QUEEN ELIZABETH) [7]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | An honest tale speeds best being plainly told. |
+| [[King|KING]] [[Richard|RICHARD]] | Then plainly to her tell my loving tale. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Plain and not honest is too harsh a style. |
+| [[King|KING]] [[Richard|RICHARD]] | Your reasons are too shallow and too quick. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | O no, my reasons are too deep and dead— Too deep and dead, poor infants, in their graves. |
+| [[King|KING]] [[Richard|RICHARD]] | Harp not on that string, madam. That is past. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Harp on it still shall I, till heart-strings break. |
+| [[King|KING]] [[Richard|RICHARD]] | Now by my George, my garter, and my [[Crown|crown]]— |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Profaned, dishonoured, and the third usurped. |
+| [[King|KING]] [[Richard|RICHARD]] | I swear— |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | By nothing, for this is no oath. Thy George, profaned, hath lost his holy [[Honour|honour]]; Thy garter, blemished, pawned his lordly virtue; Thy [[Crown|crown]], usurped, disgraced his kingly glory. If something thou wouldst swear to be believed, Swear then by something that thou hast not wronged. |
+| [[King|KING]] [[Richard|RICHARD]] | Then by mysetf— |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Thy [[Self|self]] is [[Self|self]]-misused. |
+| [[King|KING]] [[Richard|RICHARD]] | Now by the world— |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | ‘Tis full of thy foul wrongs. |
+| [[King|KING]] [[Richard|RICHARD]] | My father’s [[Death|death]]— |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Thy life hath that dishonoured. |
+| [[King|KING]] [[Richard|RICHARD]] | Why then, by God— |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | God’s wrong is most of all. If thou didst [[Fear|fear]] to break an oath with him, The [[unity]] the [[King]] my husband made Thou hadst not broken, nor my brothers died. If thou hadst feared to break an oath by him, Th’imperial metal circling now thy head Had graced the tender temples of my [[Child|child]], And both the princes had been breathing here, Which now—two tender bedfellows for [[Dust|dust]]— Thy broken [[Faith|faith]] hath made the prey for worms. What canst thou swear by now? |
+| [[King|KING]] [[Richard|RICHARD]] | The [[Time|time]] to come. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | That thou hast wronged in the [[Time|time]] o‘erpast, For I myself have many [[Tears|tears]] to wash Hereafter [[Time|time]], for [[Time|time]] past wronged by thee. The children live, whose fathers thou hast slaughtered— Ungoverned youth, to wail it in their age. The parents live, whose children thou hast butchered— Old barren plants, to wail it with their age. Swear not by [[Time|time]] to come, for that thou hast Misused ere used, by times ill-used o’erpast. |
+| [[King|KING]] [[Richard|RICHARD]] | As I intend to prosper and repent, So thrive I in my dangerous affairs Of hostile arms—myself myself confound, Heaven and fortune bar me happy hours, Day yield me not thy light nor [[Night|night]] thy rest; Be opposite, all planets of good luck, To my proceeding—if, with dear heart’s [[Love|love]], Immaculate devotion, holy thoughts, I tender not thy beauteous, princely daughter. In her consists my happiness and thine. Without her follows—to myself and thee, Herself, the land, and many a Christian [[Soul|soul]]— [[Death]], desolation, ruin, and [[Decay|decay]]. It cannot be avoided but by this; It will not be avoided but by this. Therefore, good-mother—I must call you so— Be the attorney of my [[Love|love]] to her. Plead what I will be, not what I have been; Not my deserts, but what I will deserve. Urge the necessity and state of times, And be not peevish-fond in great designs. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--08_exchange_queen_elizabeth" data-title="Richard III — Act IV, Scene 4 — exchange (QUEEN ELIZABETH) [8]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Shall I be tempted of the devil thus? |
+| [[King|KING]] [[Richard|RICHARD]] | Ay, if the devil tempt you to do good. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Shall I forget myself to be myself? |
+| [[King|KING]] [[Richard|RICHARD]] | Ay, if yourself’s remembrance wrong yourself. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Yet thou didst kill my children. |
+| [[King|KING]] [[Richard|RICHARD]] | But in your daughter’s womb I bury them, Where, in that nest of spicery, they will breed Selves of themselves, to your recomfiture. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Shall I go win my daughter to thy will? |
+| [[King|KING]] [[Richard|RICHARD]] | And be a happy mother by the deed. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | I go. Write to me very shortly, And you shall understand from me her mind. |
+| [[King|KING]] [[Richard|RICHARD]] | Bear her my true [[Love|love]]’s kiss, He kisses her and so farewell— Exit Elizabeth Relenting [[Fool|fool]], and shallow, changing woman. Enter Sir [[Richard]] Ratcliffe How now, what news? |
+| RATCLIFFE | Most mighty sovereign, on the western coast Rideth a puissant navy. To our shores Throng many doubtful, hollow-hearted friends, Unarmed and unresolved, to beat them back. ‘Tis thought that Richmond is their admiral, And there they hull, expecting but the aid Of [[Buckingham]] to welcome them ashore. |
+| [[King|KING]] [[Richard|RICHARD]] | Some light-foot friend post to the Duke of Norfolk. Ratcliffe thyself, or Catesby—where is he? |
+| CATESBY | Here, my good lord. |
+| [[King|KING]] [[Richard|RICHARD]] | Catesby, fly to the Duke. |
+| CATESBY | I will, my lord, with all convenient haste. |
+| [[King|KING]] [[Richard|RICHARD]] | Ratcliffe, come hither. Post to Salisbury; When thou com‘st thither—(to Catesby) dull, unmindful [[Villain|villain]], Why stay’st thou here, and goest not to the Duke? |
+| CATESBY | First, mighty liege, tell me your highness’ pleasure: What from your grace I shall deliver to him? |
+| [[King|KING]] [[Richard|RICHARD]] | O true, good Catesby. Bid him levy straight The greatest strength and power that he can make, And meet me suddenly at Salisbury. |
+| CATESBY | I go. Exit |
+| RATCLIFFE | What, may it please you, shall I do at Salisbury? |
+| [[King|KING]] [[Richard|RICHARD]] | Why, what wouldst thou do there before I go? |
+| RATCLIFFE | Your highness told me I should post before. |
+| [[King|KING]] [[Richard|RICHARD]] | My mind is changed. Enter Lord Stanley Stanley, what news with you? |
+| STANLEY | None, good my liege, to please you with the hearing, Nor none so bad but [[Well|well]] may be reported. |
+| [[King|KING]] [[Richard|RICHARD]] | Hoyday, a [[Riddle|riddle]]! Neither good nor bad. Why need’st thou run so many mile about When thou mayst tell thy tale the nearest way? Once more, what news? |
+| STANLEY | Richmond is on the seas. |
+| [[King|KING]] [[Richard|RICHARD]] | There let him sink, and be the seas on him. White-livered renegade, what doth he there? |
+| STANLEY | I know not, mighty sovereign, but by guess. |
+| [[King|KING]] [[Richard|RICHARD]] | [[Well]], as you guess? |
+| STANLEY | Stirred up by Dorset, [[Buckingham]], and Ely, He makes for England, here to claim the [[Crown|crown]]. |
+| [[King|KING]] [[Richard|RICHARD]] | Is the chair empty? Is the [[Sword|sword]] unswayed? Is the [[King]] dead? The empire unpossessed? What heir of York is there alive but we? And who is England’s [[King|king]] but great York’s heir? Then tell me, what makes he upon the seas? |
+| STANLEY | Unless for that, my liege, I cannot guess. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--09_exchange_king_richard" data-title="Richard III — Act IV, Scene 4 — exchange (KING RICHARD) [9]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] [[Richard|RICHARD]] | Unless for that he comes to be your liege, You cannot guess wherefore the Welshman comes. Thou wilt revolt and fly to him, I [[Fear|fear]]. |
+| STANLEY | No, my good lord, therefore mistrust me not. |
+| [[King|KING]] [[Richard|RICHARD]] | Where is thy power then? To beat him back, Where be thy tenants and thy followers? Are they not now upon the western shore, Safe-conducting the rebels from their ships? |
+| STANLEY | No, my good lord, my friends are in the north. |
+| [[King|KING]] [[Richard|RICHARD]] | Cold friends to me. What do they in the north, When they should serve their sovereign in the west? |
+| STANLEY | They have not been commanded, mighty [[King]]. Pleaseth your majesty to give me leave, I’ll muster up my friends and meet your grace Where and what [[Time|time]] your majesty shall please. |
+| [[King|KING]] [[Richard|RICHARD]] | Ay, ay, thou wouldst be gone to join with Richmond. But I’ll not trust thee. |
+| STANLEY | Most mighty sovereign, You have no cause to hold my [[Friendship|friendship]] doubtful. I never was, nor never will be, false. |
+| [[King|KING]] [[Richard|RICHARD]] | Go then and muster men—but leave behind Your son George Stanley. Look your heart be firm, Or else his head’s assurance is but frail. |
+| STANLEY | So deal with him as I prove true to you. Exit Enter a Messenger |
+| MESSENGER | My gracious sovereign, now in Devonshire, As I by friends am [[Well|well]] advertised, Sir Edward Courtenay and the haughty prelate, Bishop of Exeter, his elder brother, With many more confederates are in arms. Enter another Messenger |
+| SECOND MESSENGER | In [[Kent]], my liege, the Guildfords are in arms, And every hour more competitors Flock to the rebels, and their power grows strong. Enter another Messenger |
+| THIRD MESSENGER | My lord, the army of great [[Buckingham]]— |
+| [[King|KING]] [[Richard|RICHARD]] | Out on ye, owls! Nothing but [[songs]] of [[Death|death]]? He striketh him There, take thou that, till thou bring better news. |
+| THIRD MESSENGER | The news I have to tell your majesty Is that, by sudden flood and fall of [[Water|water]], [[Buckingham]]’s army is dispersed and scattered, And he himself wandered away [[Alone|alone]], No man knows whither. |
+| [[King|KING]] [[Richard|RICHARD]] | I cry thee [[Mercy|mercy]].— Ratcliffe, reward him for the blow I gave him.— Hath any [[Well|well]]-advisèd friend proclaimed Reward to him that brings the traitor in? |
+| THIRD MESSENGER | Such proclamation hath been made, my lord. Enter another Messenger |
+| FOURTH MESSENGER | Sir Thomas Lovell and Lord Marquis Dorset— ‘Tis said, my liege—in Yorkshire are in arms. But this good comfort bring I to your highness: The Breton navy is dispersed by tempest. Richmond in Dorsetshire sent out a boat Unto the shore, to ask those on the banks If they were his assistants, yea or no? Who answered him they came from [[Buckingham]] Upon his party. He, mistrusting them, Hoist sail and made his course again for Bretagne. |
+| [[King|KING]] [[Richard|RICHARD]] | March on, march on, since we are up in arms, If not to fight with foreign enemies, Yet to beat down these rebels here at [[Home|home]]. Enter Catesby |
+| CATESBY | My liege, the [[Duke of Buckingham]] is taken. That is the best news. That the [[Earl of Richmond]] Is with a mighty power landed at Milford Is colder tidings, yet they must be told. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_4--10_exchange_king_richard" data-title="Richard III — Act IV, Scene 4 — exchange (KING RICHARD) [10]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] [[Richard|RICHARD]] | Away, towards Salisbury! While we reason here, A royal battle might be won and lost. Someone take order [[Buckingham]] be brought To Salisbury. The rest march on with me. Flourish. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--01_exchange_dialogue" data-title="Richard III — Act V, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A table brought in. Enter [[King]] [[Richard]], Sir [[Richard]] Ratcliffe, the Duke of Norfolk, Sir William Catesby, and others |
+| [[King|KING]] [[Richard|RICHARD]] | What is’t o’[[Clock|clock]]? |
+| CATESBY | It’s supper-[[Time|time]], my lord. It’s nine o’[[Clock|clock]]. |
+| [[King|KING]] [[Richard|RICHARD]] | I will not sup tonight. Give me some ink and paper. What, is my beaver easier than it was? And all my armour laid into my tent? |
+| CATESBY | It is, my liege, and all things are in readiness. |
+| [[King|KING]] [[Richard|RICHARD]] | Good Norfolk, hie thee to thy charge. Use careful watch; choose trusty sentinels. |
+| NORFOLK | I go, my lord. |
+| [[King|KING]] [[Richard|RICHARD]] | Stir with the lark tomorrow, gentle Norfolk. |
+| NORFOLK | I warrant you, my lord. Exit |
+| [[King|KING]] [[Richard|RICHARD]] | Catesby. |
+| CATESBY | My lord? |
+| [[King|KING]] [[Richard|RICHARD]] | Send out a pursuivant-at-arms To Stanley’s regiment. Bid him bring his power Before sun-rising, lest his son George fall Into the blind [[Cave|cave]] of eternal [[Night|night]]. Fill me a bowl of wine. Give me a watch. Saddle white Surrey for the field tomorrow. Look that my staves be sound, and not too heavy. Ratcliffe. Exit Catesby |
+| RATCLIFFE | My lord? |
+| [[King|KING]] [[Richard|RICHARD]] | Saw’st thou the [[Melancholy|melancholy]] Lord Northumberland? |
+| RATCLIFFE | Thomas the [[Earl of Surrey]] and himself, Much about cockshut [[Time|time]], from troop to troop Went through the army, cheering up the soldiers. |
+| [[King|KING]] [[Richard|RICHARD]] | So, I am satisfied. Give me some wine. I have not that alacrity of spirit, Nor cheer of mind, that I was wont to have. The wine is brought Set it down. Is ink and paper ready? |
+| RATCLIFFE | It is, my lord. |
+| [[King|KING]] [[Richard|RICHARD]] | Leave me. Bid my guard watch. About the mid of [[Night|night]] come to my tent, Ratcliffe, and help to arm me. Leave me, I say. Exit Ratcliffe with others. [[Richard]] writes, and later sleeps Enter Lord Stanley Earl of Derby to Henry [[Earl of Richmond]] and the lords in his tent |
+| STANLEY | Fortune and victory sit on thy helm! |
+| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | All comfort that the dark [[Night|night]] can afford Be to thy person, noble father-in-law. Tell me, how fares our loving mother? |
+| STANLEY | I, by attorney, bless thee from thy mother, Who prays continually for Richmond’s good. So much for that. The silent hours steal on, And flaky darkness breaks within the east. In brief—for so the season bids us be— Prepare thy battle early in the morning, And put thy fortune to th’arbitrement Of bloody strokes and mortal-sharing war. I, as I may—that which I would, I cannot— With best advantage will deceive the [[Time|time]], And aid thee in this doubtful shock of arms. But on thy side I may not be too forward— Lest, being seen, thy brother, tender George, Be executed in his father’s sight. Farewell. The leisure and the fearful [[Time|time]] Cuts off the ceremonious vows of [[Love|love]] And ample interchange of sweet discourse, Which so long sundered friends should dwell upon. God give us leisure for these rights of [[Love|love]]. Once more, adieu. Be valiant, and [[Speed|speed]] [[Well|well]]. |
+| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | Good lords, conduct him to his regiment. I’ll strive with troubled thoughts to take a nap, Lest leaden slumber peise me down tomorrow, When I should mount with wings of victory. Once more, good [[Night|night]], kind lords and gentlemen. Exeunt Stanley and the lords Richmond kneels O thou, whose captain I account myself, Look on my forces with a gracious eye. Put in their hands thy bruising irons of wrath, That they may crush down with a heavy fall Th’usurping helmets of our adversaries. Make us thy ministers of chastisement, That we may praise thee in the victory. To thee I do commend my watchful [[Soul|soul]], Ere I let fall the windows of mine eyes. Sleeping and waking, O defend me still! He sleeps Enter the [[Ghost]] of young Prince Edward above |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--02_exchange_ghost_of_prince_edward" data-title="Richard III — Act V, Scene 5 — exchange (GHOST OF PRINCE EDWARD) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Ghost|GHOST]] OF PRINCE EDWARD | (to [[Richard]]) Let me sit heavy on thy [[Soul|soul]] tomorrow, Prince Edward, son to Henry the Sixth. Think how thou stabbedst me in my prime of youth At Tewkesbury. [[Despair]], therefore, and die. (To Richmond) Be cheerful, Richmond, for the wronged souls Of butchered princes fight in thy behalf. [[King]] Henry’s issue, Richmond, comforts thee. Exit Enter above the [[Ghost]] of [[King]] Henry the Sixth |
+| [[Ghost|GHOST]] OF [[King|KING]] HENRY | (to [[Richard]]) When I was mortal, my anointed [[Body|body]] By thee was punched full of deadly holes. Think on the Tower and me. [[Despair]] and die. Harry the Sixth bids thee [[Despair|despair]] and die. (To Richmond) Virtuous and holy, be thou conqueror. Harry that prophesied thou shouldst be [[King|king]] Comforts thee in thy [[Sleep|sleep]]. Live and flourish! Exit Enter above the [[Ghost]] of George Duke of [[Clarence]] |
+| [[Ghost|GHOST]] OF [[Clarence|CLARENCE]] | (to [[Richard]]) Let me sit heavy on thy [[Soul|soul]] tomorrow, I that was washed to [[Death|death]] with fulsome wine, Poor [[Clarence]], by thy guile betrayed to [[Death|death]]. Tomorrow in the battle think on me, And fall thy edgeless [[Sword|sword]]. [[Despair]] and die. (To Richmond) Thou offspring of the [[house]] of Lancaster, The wronged heirs of York do pray for thee. Good angels guard thy battle. Live and flourish! Exit Enter above the [[Ghosts]] of Lord Rivers, Lord Gray, and Sir Thomas Vaughan |
+| [[Ghost|GHOST]] OF RIVERS | (to [[Richard]]) Let me sit heavy on thy [[Soul|soul]] tomorrow, Rivers that died at Pomfret. [[Despair]] and die. |
+| [[Ghost|GHOST]] OF GRAY | (to [[Richard]]) Think upon Gray, and let thy [[Soul|soul]] [[Despair|despair]]. |
+| [[Ghost|GHOST]] OF VAUGHAN | (to [[Richard]]) Think upon Vaughan, and with guilty [[Fear|fear]] Let fall thy pointless lance. [[Despair]] and die. |
+| ALL THREE | (to Richmond) Awake, and think our wrongs in [[Richard]]’s bosom Will conquer him. Awake, and win the day! Exeunt [[Ghosts]] Enter above the [[Ghosts]] of the two young Princes [[Ghosts|GHOSTS]] OF THE PRINCES (to [[Richard]]) Dream on thy cousins, smothered in the Tower. Let us be lead within thy bosom, [[Richard]], And weigh thee down to ruin, shame, and [[Death|death]]. Thy nephews’ souls bid thee [[Despair|despair]] and die. (To Richmond) [[Sleep]], Richmond, [[Sleep|sleep]] in peace and wake in joy. Good angels guard thee from the boar’s annoy. Live, and beget a happy race of kings! Edward’s unhappy sons do bid thee flourish. Exeunt [[Ghosts]] Enter above the [[Ghost]] of Lord [[Hastings]] |
+| [[Ghost|GHOST]] OF [[Hastings|HASTINGS]] | (to [[Richard]]) Bloody and guilty, guiltily awake, And in a bloody battle end thy days. Think on Lord [[Hastings]], then [[Despair|despair]] and die. (To Richmond) Quiet, untroubled [[Soul|soul]], awake, awake! Arm, fight, and conquer for fair England’s sake. Exit Enter above the [[Ghost]] of [[Lady Anne]] |
+| [[Ghost|GHOST]] OF [[Lady Anne|LADY ANNE]] | (to [[Richard]]) [[Richard]], thy wife, that wretched Anne thy wife, That never slept a quiet hour with thee, Now fills thy [[Sleep|sleep]] with perturbations. Tomorrow in the battle think on me, And fall thy edgeless [[Sword|sword]]. [[Despair]] and die. (To Richmond) Thou quiet [[Soul|soul]], [[Sleep|sleep]] thou a quiet [[Sleep|sleep]]. Dream of [[success]] and happy victory. Thy adversary’s wife doth pray for thee. Exit Enter above the [[Ghost]] of the [[Duke of Buckingham]] |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--03_exchange_ghost_of_buckingham" data-title="Richard III — Act V, Scene 5 — exchange (GHOST OF BUCKINGHAM) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Ghost|GHOST]] OF [[Buckingham|BUCKINGHAM]] | (to [[Richard]]) The first was I that helped thee to the [[Crown|crown]]; The last was I that felt thy tyranny. O in the battle think on [[Buckingham]], And die in terror of thy guiltiness! Dream on, dream on, of bloody deeds and [[Death|death]]; Fainting, [[Despair|despair]]; despairing, yield thy breath. (To Richmond) I died for [[Hope|hope]] ere I could lend thee aid. But cheer thy heart, and be thou not dismayed. God and good angels fight on Richmond’s side, And [[Richard]] falls in height of all his [[Pride|pride]]. Exit [[Richard]] starteth up out of [[A Dream|a dream]] |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--04_monologue_king_richard" data-title="Richard III — Act V, Scene 5 — monologue (KING RICHARD) [4]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] [[Richard|RICHARD]] | Give me another [[Horse|horse]]! Bind up my wounds! Have [[Mercy|mercy]], Jesu!—Soft, I did but dream. O coward [[Conscience|conscience]], how dost thou afflict me? The lights burn blue. It is now dead midnight. Cold fearful drops stand on my trembling flesh. What do I [[Fear]]? Myself? There’s none else by. [[Richard]] loves [[Richard]]; that is, I am I. Is there a murderer here? No. Yes, I am. Then fly! What, from myself? Great reason. Why? Lest I [[Revenge|revenge]]. Myself upon myself? Alack, I [[Love|love]] myself. Wherefore? For any good That I myself have done unto myself? O no, alas, I rather hate myself For hateful deeds committed by myself. I am a [[Villain|villain]]. Yet I lie: I am not. [[Fool]], of thyself speak [[Well|well]].—[[Fool]], do not flatter. My [[Conscience|conscience]] hath a thousand several tongues, And every tongue brings in a several tale, And every tale condemns me for a [[Villain|villain]]. Perjury, perjury, in the high‘st degree! Murder, stern murder, in the dir’st degree! All several sins, all used in each degree, Throng to the bar, crying all, ‘Guilty, guilty!’ I shall [[Despair|despair]]. There is no creature loves me, And if I die no [[Soul|soul]] will pity me. Nay, wherefore should they?—Since that I myself Find in myself no pity to myself. Methought the souls of all that I had murdered Came to my tent, and every one did threat Tomorrow’s vengeance on the head of [[Richard]]. Enter Ratcliffe |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--05_exchange_ratcliffe" data-title="Richard III — Act V, Scene 5 — exchange (RATCLIFFE) [5]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| RATCLIFFE | My lord? |
+| [[King|KING]] [[Richard|RICHARD]] | ‘Swounds, who is there? |
+| RATCLIFFE | My lord, ’tis I. The early village cock Hath twice done salutation to the morn. Your friends are up, and buckle on their armour. |
+| [[King|KING]] [[Richard|RICHARD]] | O Ratcliffe, I have dreamed a fearful dream. What thinkest thou, will all our friends prove true? |
+| RATCLIFFE | No [[Doubt|doubt]], my lord. |
+| [[King|KING]] [[Richard|RICHARD]] | Ratcliffe, I [[Fear|fear]], I [[Fear|fear]]. |
+| RATCLIFFE | Nay, good my lord, be not afraid of shadows. |
+| [[King|KING]] [[Richard|RICHARD]] | By the Apostle Paul, shadows tonight Have struck more terror to the [[Soul|soul]] of [[Richard]] Than can the substance of ten thousand soldiers Armed in proof and led by shallow Richmond. ’Tis not yet near day. Come, go with me. Under our tents I’ll play the eavesdropper, To see if any mean to shrink from me. Exeunt [[Richard]] and Ratcliffe Enter the lords to Henry [[Earl of Richmond]], sitting in his tent LORDS Good morrow, Richmond. |
+| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | Cry [[Mercy|mercy]], lords and watchful gentlemen, That you have ta’en a tardy sluggard here. A LORDHow have you slept, my lord? |
+| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | The sweetest [[Sleep|sleep]] and fairest boding [[Dreams|dreams]] That ever entered in a drowsy head Have I since your departure had, my lords. Methought their souls whose bodies [[Richard]] murdered Came to my tent and cried on victory. I promise you, my [[Soul|soul]] is very jocund In the remembrance of so fair [[A Dream|a dream]]. How far into the morning is it, lords? |
+| *(didascalia)* | A |
+| LORD | Upon the stroke of four. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--06_monologue_henry_earl_of_richmond" data-title="Richard III — Act V, Scene 5 — monologue (HENRY EARL OF RICHMOND) [6]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | Why then, ’tis [[Time|time]] to arm, and give direction. His oration to his soldiers Much that I could say, loving countrymen, The leisure and enforcement of the [[Time|time]] Forbids to dwell on. Yet remember this: God and our good cause fight upon our side. The prayers of holy saints and wrongèd souls, Like high-reared bulwarks, stand before our forces. [[Richard]] except, those whom we fight against Had rather have us win than him they follow. For what is he they follow? Truly, friends, A bloody [[Tyrant|tyrant]] and a homicide; One raised in [[Blood|blood]], and one in [[Blood|blood]] established; One that made means to come by what he hath, And slaughtered those that were the means to help him; A base, foul stone, made precious by the foil Of England’s chair, where he is falsely set; One that hath ever been God’s enemy. Then if you fight against God’s enemy, God will, in justice, ward you as his soldiers. If you do sweat to put a [[Tyrant|tyrant]] down, You [[Sleep|sleep]] in peace, the [[Tyrant|tyrant]] being slain. If you do fight against your country’s foes, Your country’s foison pays your pains the hire. If you do fight in safeguard of your wives, Your wives shall welcome [[Home|home]] the conquerors. If you do free your children from the [[Sword|sword]], Your children’s children quites it in your age. Then, in the name of God and all these rights, Advance your standards! Draw your willing swords! For me, the ransom of this bold attempt Shall be my cold corpse on the earth’s cold face; But if I thrive, to gain of my attempt, The least of you shall share his part thereof. Sound, drums and trumpets, bold and cheerfully! God and Saint George! Richmond and victory! Exeunt to the sound of drums and trumpets |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_8--01_exchange_dialogue" data-title="Richard III — Act V, Scene 8 — exchange (dialogue) [1]" data-chapter="Scene 8" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Enter [[King]] [[Richard]] at one door and Henry [[Earl of Richmond]] at another. They fight. [[Richard]] is slain. Exit Richmond. Retreat and flourish. Enter Henry [[Earl of Richmond]] and Lord Stanley Earl of Derby, with divers other lords and soldiers |
+| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | God and your arms be praised, victorious friends! The day is ours. The bloody dog is dead. |
+| STANLEY | (bearing the [[Crown|crown]]) Courageous Richmond, [[Well|well]] hast thou acquit thee. Lo, here this long usurpèd royalty From the dead temples of this bloody wretch Have I plucked off, to grace thy brows withal. Wear it, enjoy it, and make much of it. He sets the [[Crown|crown]] on Henry’s head |
+| [[King|KING]] HENRY THE SEVENTH | Great God of heaven, say ‘Amen’ to all. But tell me—young George Stanley, is he living? |
+| STANLEY | He is, my lord, and safe in Leicester town, Whither, if it please you, we may now withdraw us. |
+| [[King|KING]] HENRY THE SEVENTH | What men of name are slain on either side? STANLEY(reads) John Duke of Norfolk, Robert Brackenbury, Walter Lord Ferrers, and Sir William Brandon. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_8--02_monologue_king_henry_the_seventh" data-title="Richard III — Act V, Scene 8 — monologue (KING HENRY THE SEVENTH) [2]" data-chapter="Scene 8" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] HENRY THE SEVENTH | Inter their bodies as becomes their births. Proclaim a pardon to the soldiers fled That in submission will return to us, And then—as we have ta‘en the sacrament— We will unite the white [[Rose|rose]] and the red. Smile, heaven, upon this fair conjunction, That long have frowned upon their enmity. What traitor hears me and says not ‘Amen’? England hath long been mad, and scarred herself; The brother blindly shed the brother’s [[Blood|blood]]; The father rashly slaughtered his own son; The son, compelled, been butcher to the sire; All that divided York and Lancaster, United in their dire division. O now let Richmond and Elizabeth, The true succeeders of each royal [[house]], By God’s fair ordinance conjoin together, And let their heirs—God, if his will be so— Enrich the [[Time|time]] to come with smooth-faced peace, With smiling plenty, and fair prosperous days. Abate the edge of traitors, gracious Lord, That would reduce these bloody days again And make poor England weep forth streams of [[Blood|blood]]. Let them not live to taste this land’s increase, That would with treason wound this fair land’s peace. Now civil wounds are stopped; peace lives again. That she may long live here, God say ‘Amen’. Flourish. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_8--03_exchange_additional_passages" data-title="Richard III — Act V, Scene 8 — exchange (ADDITIONAL PASSAGES) [3]" data-chapter="Scene 8" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| ADDITIONAL PASSAGES | The following passages are contained in the Folio text, but not the Quarto; they were apparently omitted from performances. a. AFTER I.2.I54 These eyes, which never shed remorseful tear— No, when my father York and Edward wept To hear the piteous moan that Rutland made When black-faced [[Clifford]] shook his [[Sword|sword]] at him; Nor when thy warlike father like a [[Child|child]] Told the sad story of my father’s [[Death|death]] And twenty times made pause to sob and weep, That all the standers-by had wet their cheeks Like trees bedashed with rain. In that sad [[Time|time]] My manly eyes did scorn an humble tear, And what these sorrows could not thence exhale Thy [[Beauty|beauty]] hath, and made them blind with weeping. b. AFTER 1.3.166 |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Wert thou not banishèd on [[Pain|pain]] of [[Death|death]]? |
+| [[Queen Margaret|QUEEN MARGARET]] | I was, but I do find more [[Pain|pain]] in banishment Than [[Death|death]] can yield me here by my abode. c. AFTER I.4.68 O God! If my deep prayers cannot appease thee But thou wilt be avenged on my misdeeds, Yet execute thy wrath in me [[Alone|alone]]. O spare my guiltless wife and my poor children. d. AFTER 2.2.88 The Folio has Dorset and Rivers enter with [[Queen Elizabeth]] at 2.2.33.I. |
+| DORSET | Comfort, dear mother. God is much displeased That you take with unthankfulness his doing. In common worldly things ’tis called ungrateful With dull unwillingness to pay a debt Which with a bounteous hand was kindly lent; Much more to be thus opposite with heaven For it requires the royal debt it lent you. |
+| RIVERS | Madam, bethink you like a careful mother Of the young Prince your son. Send straight for him; Let him be crowned. In him your comfort lives. Drown desperate sorrow in dead Edward’s [[Grave|grave]] And plant your joys in living Edward’s throne. e. AFTER 2.2.II0 |
+| RIVERS | Why with some little train, my lord of [[Buckingham]]? |
+| [[Buckingham|BUCKINGHAM]] | Marry, my lord, lest by a multitude The new-healed wound of malice should break out, Which would be so much the more dangerous By how much the estate is green and yet ungoverned. Where every [[Horse|horse]] bears his commanding rein And may direct his course as please himself, As [[Well|well]] the [[Fear|fear]] of harm as harm apparent In my opinion ought to be prevented. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I [[Hope|hope]] the [[King]] made peace with all of us, And the compact is firm and true in me. |
+| RIVERS | And so in me, and so I think in all. Yet since it is but green, it should be put To no apparent likelihood of breach, Which haply by much company might be urged. Therefore I say, with noble [[Buckingham]], That it is meet so few should fetch the Prince. |
+| [[Hastings|HASTINGS]] | And so say I. f. AFTER 3.I.I70 And summon him tomorrow to the Tower To sit about the coronation. g. AFTER 3.5.I00 Beginning [[Richard]] [[Gloucester]]’s speech. The Folio brings on Lovell and Ratcliffe instead of Catesby at 3.5.19.1. |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Go, Lovell, with all [[Speed|speed]] to Doctor [[Shaw]]; (To Ratcliffe) Go thou to Friar Penker. Bid them both Meet me within this hour at Baynard’s [[Castle]]. Exeunt Lovell and Ratcliffe, h. AFTER 3.7.I43 If not to answer, you might haply think Tongue-tied [[Ambition|ambition]], not replying, yielded To bear the golden yoke of sovereignty, Which fondly you would here impose on me. If to reprove you for this suit of yours, So seasoned with your faithful [[Love|love]] to me, Then on the other side I checked my friends. Therefore to speak, and to avoid the first, And then in speaking not to incur the last, Definitively thus I answer you. i. AFTER 4.I.96 In the Folio, the characters do not exit during the Duchess of York’s preceding speech. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_8--04_exchange_queen_elizabeth" data-title="Richard III — Act V, Scene 8 — exchange (QUEEN ELIZABETH) [4]" data-chapter="Scene 8" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Stay: yet look back with me unto the Tower.— Pity, you ancient stones, those tender babes, Whom envy hath immured within your walls. Rough cradle for such little pretty ones, Rude ragged [[Nurse|nurse]], old sullen playfellow For tender princes: use my babies [[Well|well]]. So foolish sorrow bids your stones farewell. Exeunt j. AFTER 4.4.22I |
+| [[King|KING]] [[Richard|RICHARD]] | You speak as if that I had slain my cousins. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Cousins indeed, and by their uncle cozened Of comfort, kingdom, kindred, [[Freedom|freedom]], life. Whose hand soever lanced their tender hearts, Thy head all indirectly gave direction. No [[Doubt|doubt]] the murd‘rous knife was dull and blunt Till it was whetted on thy stone-hard heart To revel in the entrails of my lambs. But that still use of grief makes wild grief tame, My tongue should to thy ears not name my boys Till that my nails were anchored in thine eyes— And I in such a desp’rate bay of [[Death|death]], Like a poor barque of sails and tackling reft, Rush all to pieces on thy rocky bosom. k. AFTER 4.4.273 |
+| [[King|KING]] [[Richard|RICHARD]] | Say that I did all this for [[Love|love]] of her. |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | Nay, then indeed she cannot choose but hate thee, Having bought [[Love|love]] with such a bloody spoil. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_8--05_monologue_king_richard" data-title="Richard III — Act V, Scene 8 — monologue (KING RICHARD) [5]" data-chapter="Scene 8" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] [[Richard|RICHARD]] | Look what is done cannot be now amended. Men shall deal unadvisedly sometimes, Which after-hours gives leisure to repent. If I did take the kingdom from your sons, To make amends I’ll give it to your daughter. If I have killed the issue of your womb, To quicken your increase I will beget Mine issue of your [[Blood|blood]] upon your daughter. A grandam’s name is little less in [[Love|love]] Than is the doting title of a mother. They are as children but one step below, Even of your mettall, of your very [[Blood|blood]]: Of all one [[Pain|pain]], save for a [[Night|night]] of groans Endured of her for whom you bid like sorrow. Your children were vexation to your youth, But mine shall be a comfort to your age. The loss you have is but a son being [[King|king]], And by that loss your daughter is made [[Queen|queen]]. I cannot make you what amends I would, Therefore accept such kindness as I can. Dorset your son, that with a fearful [[Soul|soul]] Leads discontented steps in foreign soil, This fair alliance quickly shall call [[Home|home]] To high promotions and great dignity. The [[King|king]] that calls your beauteous daughter wife, Familiarly shall call thy Dorset brother. Again shall you be mother to a [[King|king]], And all the ruins of distressful times Repaired with [[Double|double]] riches of content. What? We have many goodly days to see. The liquid drops of [[Tears|tears]] that you have shed Shall come again, transformed to [[Orient|orient]] pearl, Advantaging their loan with interest Of ten times [[Double|double]] gain of happiness. Go then, my mother, to thy daughter go. Make bold her bashful years with your experience. Prepare her ears to hear a wooer’s tale. Put in her tender heart th’aspiring flame Of golden sovereignty. Acquaint the Princess With the sweet silent hours of [[Marriage|marriage]] joys. And when this arm of mine hath chastised The petty [[Rebel|rebel]], dull-brained [[Buckingham]], Bound with triumphant garlands will I come And lead thy daughter to a conqueror’s bed— To whom I will retail my conquest won, And she shall be sole victoress: Caesar’s Caesar. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_8--06_exchange_queen_elizabeth" data-title="Richard III — Act V, Scene 8 — exchange (QUEEN ELIZABETH) [6]" data-chapter="Scene 8" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | What were I best to say? Her father’s brother Would be her lord? Or shall I say her uncle? Or he that slew her brothers and her uncles? Under what title shall I woo for thee, That God, the law, my [[Honour|honour]], and her [[Love|love]] Can make seem pleasing to her tender years? |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_8--07_monologue_with" data-title="Richard III — Act V, Scene 8 — monologue (WITH) [7]" data-chapter="Scene 8" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| WITH | [[Venus]] and [[Adonis]], Shakespeare made his debut in print: his signature appears at the end of the formal dedication to the Earl of Southampton in which the poem is described as ‘the first heir of my invention’—though Shakespeare had already begun to make his mark as a playwright. A terrible outbreak of plague, which was to last for almost two years, began in the [[Summer|summer]] of I592, and [[London]]’s theatres were closed as a precaution against infection. Probably Shakespeare wrote his poem at this [[Time|time]], perhaps seeing a need for an alternative career. It is an early example of the Ovidian erotic narrative [[Poems|poems]] that were fashionable for about thirty years from 1589; the best known outside Shakespeare is Christopher Marlowe’s [[Hero]] and Leander, written at about the same [[Time|time]]. Ovid, in Book I0 of the Metamorphoses, tells the story of [[Venus]] and [[Adonis]] in about seventy-five lines of verse; Shakespeare’s poem—drawing, probably, on both the original Latin and [[arthur|Arthur]] Golding’s English version (I565-7)—is I,I94 lines long. He modified Ovid’s tale as [[Well|well]] as expanding it. In Ovid, the handsome young mortal [[Adonis]] returns the [[Love|love]] urged on him by [[Venus]], the goddess of [[Love|love]]. Shakespeare turns [[Adonis]] into a bashful teenager, unripe for [[Love|love]], who shies away from her advances. In Ovid, the [[lovers]] go hunting together (though [[Venus]] chases only relatively harmless beasts, and advises [[Adonis]] to do the same); in Shakespeare, [[Adonis]] takes to the hunt rather as a respite from [[Venus]]’ remorseless attentions. Whereas Ovid’s [[Venus]] flies off to Cyprus in her dove-drawn chariot and returns only after [[Adonis]] has been mortally wounded, Shakespeare’s anxiously awaits the outcome of the chase. She hears the yelping of [[Adonis]]’ hounds, sees a bloodstained boar, comes upon [[Adonis]]’ defeated [[dogs]], and at last finds his [[Body|body]]. In Ovid, she metamorphoses him into an anemone; in Shakespeare, [[Adonis]]’ [[Body|body]] melts away, and [[Venus]] plucks the purple and white flower that springs up in its place. Shakespeare’s only addition to Ovid’s narrative is the episode (259-324) in which [[Adonis]]’ stallion lusts after a mare, so frustrating [[Adonis]]’ attempt to escape [[Venus]]’ embraces. But there are many rhetorical elaborations, such as [[Venus]]’ speech of attempted seduction (95-1174), her disquisition on the dangers of boar-hunting (6I3-7I4), her metaphysical explanation of why the [[Night|night]] is dark (72I-68), [[Adonis]]’ reply (769-8I0), culminating in his eloquent contrast between lust and [[Love|love]], and [[Venus]]’ lament over his [[Body|body]] (I069-II64). [[Venus]] and [[Adonis]] is a mythological poem whose landscape is inhabited by none but the [[lovers]] and those members of the animal kingdom—the lustful stallion, the timorous hare (679-708), the sensitive snail (I033-6), and the savage boar—which reflect their passions. The boar’s disruption of the harmony that existed between [[Adonis]] and the [[Animals|animals]] will, says [[Venus]], result in eternal discord: ‘Sorrow on [[Love|love]] hereafter shall attend’ (II36). In Shakespeare’s own [[Time|time]], [[Venus]] and [[Adonis]] was his most frequently reprinted work, with at least ten editions during his life, and another half-dozen by I636. Like his other non-dramatic works, it was not included in the Folio of I623. It fell out of fashion until Coleridge wrote enthusiastically about it in Biographia Literaria (I8I7). Though its conscious artifice may limit its appeal, it is a brilliantly sophisticated erotic [[Comedy|comedy]], a counterpart in verbal ingenuity to [[Love]]’s Labour’s Lost; the [[Comedy|comedy]] of the poem, like that of the play, is darkened and deepened in its later stages by the [[Shadow|shadow]] of sudden [[Death|death]]. Vilia miretur vulgus; mihi flavus [[Apollo]] Pocula Castalia plena ministret aqua. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_8--08_exchange_to_the_right_honourable" data-title="Richard III — Act V, Scene 8 — exchange (TO THE RIGHT HONOURABLE HENRY) [8]" data-chapter="Scene 8" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| TO THE RIGHT HONOURABLE | HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON, AND BARON OF TITCHFIELD Right Honourable, I know not how I shall offend in dedicating my unpolished lines to your lordship, nor how the world will censure me for choosing so strong a prop to support so weak a burden. Only, if your [[Honour|honour]] seem but pleased, I account myself highly praised, and vow to take advantage of all idle hours till I have honoured you with some graver labour. But if the first heir of my invention prove deformed, I shall be sorry it had so noble a godfather, and never after ear so barren a land for [[Fear|fear]] it yield me still so bad a harvest. I leave it to your honourable survey, and your [[Honour|honour]] to your heart’s content, which I wish may always answer your own wish and the world’s hopeful expectation. Your [[Honour|honour]]’s in all duty, William Shakespeare |
+
+
 
 
 <span class="atom-split" data-atom="richard_iii" data-title="RICHARD III" data-chapter="" data-kind="intro"></span>
@@ -1512,1502 +3008,6 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 | [[Queen Elizabeth|QUEEN ELIZABETH]] | What were I best to say? Her father’s brother<br>Would be her lord? Or shall I say her uncle?<br>Or he that slew her brothers and her uncles?<br>Under what title shall I woo for thee,<br>That God, the law, my [[Honour|honour]], and her [[Love|love]]<br>Can make seem pleasing to her tender years? |
 | WITH | [[Venus]] and [[Adonis]], Shakespeare made his debut in print: his signature appears at the end of the formal dedication to the Earl of Southampton in which the poem is described as ‘the first heir of my invention’—though Shakespeare had already begun to make his mark as a playwright. A terrible outbreak of plague, which was to last for almost two years, began in the [[Summer|summer]] of I592, and [[London]]’s theatres were closed as a precaution against infection. Probably Shakespeare wrote his poem at this [[Time|time]], perhaps seeing a need for an alternative career. It is an early example of the Ovidian erotic narrative [[Poems|poems]] that were fashionable for about thirty years from 1589; the best known outside Shakespeare is Christopher Marlowe’s [[Hero]] and Leander, written at about the same [[Time|time]].<br>Ovid, in Book I0 of the Metamorphoses, tells the story of [[Venus]] and [[Adonis]] in about seventy-five lines of verse; Shakespeare’s poem—drawing, probably, on both the original Latin and [[arthur|Arthur]] Golding’s English version (I565-7)—is I,I94 lines long. He modified Ovid’s tale as [[Well|well]] as expanding it. In Ovid, the handsome young mortal [[Adonis]] returns the [[Love|love]] urged on him by [[Venus]], the goddess of [[Love|love]]. Shakespeare turns [[Adonis]] into a bashful teenager, unripe for [[Love|love]], who shies away from her advances. In Ovid, the [[lovers]] go hunting together (though [[Venus]] chases only relatively harmless beasts, and advises [[Adonis]] to do the same); in Shakespeare, [[Adonis]] takes to the hunt rather as a respite from [[Venus]]’ remorseless attentions. Whereas Ovid’s [[Venus]] flies off to Cyprus in her dove-drawn chariot and returns only after [[Adonis]] has been mortally wounded, Shakespeare’s anxiously awaits the outcome of the chase. She hears the yelping of [[Adonis]]’ hounds, sees a bloodstained boar, comes upon [[Adonis]]’ defeated [[dogs]], and at last finds his [[Body|body]]. In Ovid, she metamorphoses him into an anemone; in Shakespeare, [[Adonis]]’ [[Body|body]] melts away, and [[Venus]] plucks the purple and white flower that springs up in its place.<br>Shakespeare’s only addition to Ovid’s narrative is the episode (259-324) in which [[Adonis]]’ stallion lusts after a mare, so frustrating [[Adonis]]’ attempt to escape [[Venus]]’ embraces. But there are many rhetorical elaborations, such as [[Venus]]’ speech of attempted seduction (95-1174), her disquisition on the dangers of boar-hunting (6I3-7I4), her metaphysical explanation of why the [[Night|night]] is dark (72I-68), [[Adonis]]’ reply (769-8I0), culminating in his eloquent contrast between lust and [[Love|love]], and [[Venus]]’ lament over his [[Body|body]] (I069-II64).<br>[[Venus]] and [[Adonis]] is a mythological poem whose landscape is inhabited by none but the [[lovers]] and those members of the animal kingdom—the lustful stallion, the timorous hare (679-708), the sensitive snail (I033-6), and the savage boar—which reflect their passions. The boar’s disruption of the harmony that existed between [[Adonis]] and the [[Animals|animals]] will, says [[Venus]], result in eternal discord: ‘Sorrow on [[Love|love]] hereafter shall attend’ (II36).<br>In Shakespeare’s own [[Time|time]], [[Venus]] and [[Adonis]] was his most frequently reprinted work, with at least ten editions during his life, and another half-dozen by I636. Like his other non-dramatic works, it was not included in the Folio of I623. It fell out of fashion until Coleridge wrote enthusiastically about it in Biographia Literaria (I8I7). Though its conscious artifice may limit its appeal, it is a brilliantly sophisticated erotic [[Comedy|comedy]], a counterpart in verbal ingenuity to [[Love]]’s Labour’s Lost; the [[Comedy|comedy]] of the poem, like that of the play, is darkened and deepened in its later stages by the [[Shadow|shadow]] of sudden [[Death|death]].<br>Vilia miretur vulgus; mihi flavus [[Apollo]] Pocula Castalia plena ministret aqua. |
 | TO THE RIGHT HONOURABLE | HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON, AND BARON OF TITCHFIELD<br>Right Honourable, I know not how I shall offend in dedicating my unpolished lines to your lordship, nor how the world will censure me for choosing so strong a prop to support so weak a burden. Only, if your [[Honour|honour]] seem but pleased, I account myself highly praised, and vow to take advantage of all idle hours till I have honoured you with some graver labour. But if the first heir of my invention prove deformed, I shall be sorry it had so noble a godfather, and never after ear so barren a land for [[Fear|fear]] it yield me still so bad a harvest. I leave it to your honourable survey, and your [[Honour|honour]] to your heart’s content, which I wish may always answer your own wish and the world’s hopeful expectation.<br>Your [[Honour|honour]]’s in all duty,<br>William Shakespeare |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Richard III — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Richard]] [[Duke of Gloucester]] |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_monologue_richard_gloucester" data-title="Richard III — Act I, Scene 1 — monologue (RICHARD GLOUCESTER) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Now is the [[Winter|winter]] of our discontent Made glorious [[Summer|summer]] by this son of York; And all the clouds that loured upon our [[house]] In the deep bosom of the ocean buried. Now are our brows bound with victorious wreaths, Our bruised arms hung up for monuments, Our stern alarums changed to merry meetings, Our dreadful marches to delightful measures. Grim-visaged war hath smoothed his wrinkled front, And now—instead of mounting barbed steeds To fright the souls of fearful adversaries— He capers nimbly in a lady’s chamber To the lascivious pleasing of a lute. But I, that am not shaped for sportive tricks Nor made to [[Court|court]] an amorous looking-glass, I that am rudely stamped and want [[Love|love]]’s majesty To strut before a wanton ambling nymph, I that am curtailed of this fair proportion, Cheated of feature by dissembling [[Nature|nature]], Deformed, unfinished, sent before my [[Time|time]] Into this breathing world scarce half made up— And that so lamely and unfashionable That [[dogs]] bark at me as I halt by them— Why, I in this weak piping [[Time|time]] of peace Have no delight to pass away the [[Time|time]], Unless to spy my [[Shadow|shadow]] in the sun And descant on mine own deformity. And therefore since I cannot prove a [[Lover|lover]] To entertain these fair [[Well|well]]-spoken days, I am determined to prove a [[Villain|villain]] And hate the idle pleasures of these days. Plots have I laid, inductions dangerous, By drunken prophecies, libels and [[Dreams|dreams]] To set my brother [[Clarence]] and the [[King]] In deadly hate the one against the other. And if [[King]] Edward be as true and just As I am subtle false and treacherous, This day should [[Clarence]] closely be mewed up About a prophecy which says that ‘G’ Of Edward’s heirs the murderer shall be. Enter George Duke of [[Clarence]], guarded, and Sir Robert Brackenbury Dive, thoughts, down to my [[Soul|soul]]: here [[Clarence]] comes. Brother, good day. What means this armèd guard That waits upon your grace? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_exchange_clarence" data-title="Richard III — Act I, Scene 1 — exchange (CLARENCE) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Clarence|CLARENCE]] | His majesty, Tend’ring my person’s safety, hath appointed This conduct to convey me to the Tower. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Upon what cause? |
-| [[Clarence|CLARENCE]] | Because my name is George. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Alack, my lord, that fault is none of yours. He should for that commit your godfathers. Belike his majesty hath some intent That you should be new-christened in the Tower. But what’s the matter, [[Clarence]]? May I know? |
-| [[Clarence|CLARENCE]] | Yea, [[Richard]], when I know—for I protest As yet I do not. But as I can learn He hearkens after prophecies and [[Dreams|dreams]], And from the [[Cross|cross]]-row plucks the letter ‘G’ And says a wizard told him that by ‘G’ His issue disinherited should be. And for my name of George begins with ‘G’, It follows in his thought that I am he. These, as I learn, and suchlike toys as these, Hath moved his highness to commit me now. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Why, this it is when men are ruled by women. ‘Tis not the [[King]] that sends you to the Tower; My Lady Gray, his wife—[[Clarence]], ’tis she That tempts him to this harsh extremity. Was it not she, and that good man of worship Anthony Woodeville her brother there, That made him send Lord [[Hastings]] to the Tower, From whence this present day he is delivered? We are not safe, [[Clarence]]; we are not safe. |
-| [[Clarence|CLARENCE]] | By heaven, I think there is no man secure But the [[Queen]]’s kindred, and [[Night|night]]-walking heralds That trudge betwixt the [[King]] and Mrs Shore. Heard ye not what an humble suppliant Lord [[Hastings]] was for his delivery? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Humbly complaining to her deity Got my Lord Chamberlain his liberty. I’ll tell you what: I think it is our way, If we will keep in favour with the [[King]], To be her men and wear her livery. The jealous, o’erworn widow and herself, Since that our brother dubbed them gentlewomen, Are mighty gossips in our monarchy. |
-| BRACKENBURY | I beseech your graces both to pardon me. His majesty hath straitly given in charge That no man shall have private conference, Of what degree soever, with your brother. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Even so. An’t please your worship, Brackenbury, You may partake of anything we say. We speak no treason, man. We say the [[King]] Is wise and virtuous, and his noble [[Queen]] [[Well]] struck in years, fair, and not jealous. We say that Shore’s wife hath a pretty foot, A cherry lip, A bonny eye, a passing pleasing tongue, And that the [[Queen]]’s kin are made gentlefolks. How say you, sir? Can you deny all this? |
-| BRACKENBURY | With this, my lord, myself have naught to do. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Naught to do with Mrs Shore? I tell thee, fellow: He that doth naught with her—excepting one— Were best to do it secretly [[Alone|alone]]. |
-| BRACKENBURY | What one, my lord? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Her husband, knave. Wouldst thou betray me? |
-| BRACKENBURY | I beseech your grace to pardon me, and do withal Forbear your conference with the noble Duke. |
-| [[Clarence|CLARENCE]] | We know thy charge, Brackenbury, and will obey. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_exchange_richard_gloucester" data-title="Richard III — Act I, Scene 1 — exchange (RICHARD GLOUCESTER) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | We are the [[Queen]]’s abjects, and must obey. Brother, farewell. I will unto the [[King]], And whatsoe‘er you will employ me in— Were it to call [[King]] Edward’s widow ‘sister’— I will perform it to enfranchise you. Meantime, this deep disgrace in brotherhood Touches me dearer than you can imagine. |
-| [[Clarence|CLARENCE]] | I know it pleaseth neither of us [[Well|well]]. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | [[Well]], your [[Imprisonment|imprisonment]] shall not be long. I will deliver you or lie for you. Meantime, have patience. |
-| [[Clarence|CLARENCE]] | I must perforce. Farewell. Exeunt [[Clarence]], Brackenbury, and guard, to the Tower |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Go tread the path that thou shalt ne’er return. Simple plain [[Clarence]], I do [[Love|love]] thee so That I will shortly send thy [[Soul|soul]] to heaven, If heaven will take the present at our hands. But who comes here? The new-delivered [[Hastings]]? Enter Lord [[Hastings]] from the Tower |
-| LORD [[Hastings|HASTINGS]] | Good [[Time|time]] of day unto my gracious lord. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | As much unto my good Lord Chamberlain. [[Well]] are you welcome to the open air. How hath your lordship brooked [[Imprisonment|imprisonment]]? |
-| LORD [[Hastings|HASTINGS]] | With patience, noble lord, as prisoners must. But I shall live, my lord, to give them thanks That were the cause of my [[Imprisonment|imprisonment]]. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | No [[Doubt|doubt]], no [[Doubt|doubt]]—and so shall [[Clarence]] too, For they that were your enemies are his, And have prevailed as much on him as you. |
-| LORD [[Hastings|HASTINGS]] | More pity that the eagles should be mewed While kites and buzzards prey at liberty. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What news abroad? 135 |
-| LORD [[Hastings|HASTINGS]] | No news so bad abroad as this at [[Home|home]]: The [[King]] is sickly, weak, and [[Melancholy|melancholy]], And his physicians [[Fear|fear]] him mightily. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Now by Saint Paul, that news is bad indeed. O he hath kept an evil diet long, And overmuch consumed his royal person. ’Tis very grievous to be thought upon. Where is he ? In his bed ? |
-| LORD [[Hastings|HASTINGS]] | He is. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Go you before and I will follow you. Exit [[Hastings]] |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | He cannot live, I [[Hope|hope]], and must not die Till George be packed with post-haste up to heaven. I’ll in to urge his hatred more to [[Clarence]], With lies [[Well|well]] steeled with weighty arguments. And if I fail not in my deep intent, [[Clarence]] hath not another day to live— Which done, God take [[King]] Edward to his [[Mercy|mercy]] And leave the world for me to bustle in. For then I’ll marry Warwick’s youngest daughter. What though I killed her husband and her father? The readiest way to make the wench amends Is to become her husband and her father, The which will I: not all so much for [[Love|love]], As for another secret close intent, By marrying her, which I must reach unto. But yet I run before my [[Horse|horse]] to market. [[Clarence]] still breathes, Edward still lives and reigns; When they are gone, then must I count my gains. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="Richard III — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter gentlemen, bearing the corpse of [[King]] Henry the Sixth in an open coffin, with halberdiers to guard it, [[Lady Anne]] being the mourner |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--02_monologue_lady_anne" data-title="Richard III — Act I, Scene 2 — monologue (LADY ANNE) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Lady Anne|LADY ANNE]] | Set down, set down your honourable load, If [[Honour|honour]] may be shrouded in a hearse, Whilst I a while obsequiously lament Th’untimely fall of virtuous Lancaster. They set the coffin down Poor key-cold figure of a holy [[King|king]], Pale ashes of the [[house]] of Lancaster, Thou bloodless remnant of that royal [[Blood|blood]]: Be it lawful that I invocate thy [[Ghost|ghost]] To hear the lamentations of poor Anne, Wife to thy Edward, to thy slaughtered son, Stabbed by the selfsame hand that made these wounds. Lo, in these windows that let forth thy life, I pour the helpless balm of my poor eyes. O cursed be the hand that made these holes, Cursed the [[Blood|blood]] that let this [[Blood|blood]] from hence, Cursed the heart that had the heart to do it. More direful hap betide that hated wretch That makes us wretched by the [[Death|death]] of thee Than I can wish to wolves, to spiders, toads, Or any creeping venomed thing that lives. If ever he have [[Child|child]], abortive be it, Prodigious, and untimely brought to light, Whose ugly and unnatural aspect May fright the hopeful mother at the view, And that be heir to his unhappiness. If ever he have wife, let her be made More miserable by the [[Death|death]] of him Than I am made by my young lord and thee.— Come now towards Chertsey with your holy load, Taken from Paul’s to be interred there, The gentlemen lift the coffin And still as you are weary of this weight Rest you, whiles I lament [[King]] Henry’s corpse. Enter [[Richard]] [[Duke of Gloucester]] |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--03_exchange_richard_gloucester" data-title="Richard III — Act I, Scene 2 — exchange (RICHARD GLOUCESTER) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to the gentlemen) Stay, you that bear the corpse, and set it down. |
-| [[Lady Anne|LADY ANNE]] | What black magician conjures up this fiend To stop devoted charitable deeds? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to the gentlemen) Villains, set down the corpse, or by Saint Paul I’ll make a corpse of him that disobeys. HALBERDIER My lord, stand back and let the coffin pass. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Unmannered dog, stand thou when I command. Advance thy halberd higher than my breast, Or by Saint Paul I’ll strike thee to my foot And spurn upon thee, beggar, for thy boldness. They set the coffin down |
-| [[Lady Anne|LADY ANNE]] | (to gentlemen and halberdiers) What, do you tremble? Are you all afraid? Alas, I blame you not, for you are mortal, And mortal eyes cannot endure the devil.— Avaunt, thou dreadful minister of hell. Thou hadst but power over his mortal [[Body|body]]; His [[Soul|soul]] thou canst not have; therefore be gone. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Sweet saint, for [[Charity|charity]] be not so cursed. |
-| [[Lady Anne|LADY ANNE]] | Foul devil, for God’s sake hence and trouble us not, For thou hast made the happy earth thy hell, Filled it with cursing cries and deep exclaims. If thou delight to view thy heinous deeds, Behold this pattern of thy butcheries.— O gentlemen, see, see! Dead Henry’s wounds Ope their congealed mouths and bleed afresh.— Blush, blush, thou lump of foul deformity, For ‘tis thy presence that ex-hales this [[Blood|blood]] From cold and empty veins where no [[Blood|blood]] dwells. Thy deed, inhuman and unnatural, Provokes this [[deluge]] [[Supernatural|supernatural]]. O God, which this [[Blood|blood]] mad’st, [[Revenge|revenge]] his [[Death|death]]. O earth, which this [[Blood|blood]] drink‘st, [[Revenge|revenge]] his [[Death|death]]. Either heav’n with [[Lightning|lightning]] strike the murd’rer dead, Or earth gape open wide and eat him quick As thou dost [[Swallow|swallow]] up this good [[King|king]]’s [[Blood|blood]], Which his hell-governed arm hath butchered. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Lady, you know no rules of [[Charity|charity]], Which renders good for bad, blessings for curses. |
-| [[Lady Anne|LADY ANNE]] | [[Villain]], thou know’st no law of God nor man. No beast so fierce but knows some touch of pity. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | But I know none, and therefore am no beast. |
-| [[Lady Anne|LADY ANNE]] | O wonderful, when devils tell the [[Truth|truth]]! |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | More wonderful, when angels are so angry. Vouchsafe, divine perfection of a woman, Of these supposed crimes to give me leave By circumstance but to acquit myself. |
-| [[Lady Anne|LADY ANNE]] | Vouchsafe, diffused infection of a man, Of these known evils but to give me leave By circumstance t’accuse thy cursèd [[Self|self]]. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Fairer than tongue can name thee, let me have Some patient leisure to excuse myself. |
-| [[Lady Anne|LADY ANNE]] | Fouler than heart can think thee, thou canst make No excuse current but to hang thyself. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | By such [[Despair|despair]] I should accuse myself. 85 |
-| [[Lady Anne|LADY ANNE]] | And by despairing shalt thou stand excused, For doing worthy vengeance on thyself That didst unworthy slaughter upon others. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Say that I slew them not. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--04_exchange_lady_anne" data-title="Richard III — Act I, Scene 2 — exchange (LADY ANNE) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Lady Anne|LADY ANNE]] | Then say they were not slain. But dead they are—and, devilish slave, by thee. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I did not kill your husband. |
-| [[Lady Anne|LADY ANNE]] | Why, then he is alive. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Nay, he is dead, and slain by Edward’s hand. |
-| [[Lady Anne|LADY ANNE]] | In thy foul throat thou liest. [[Queen Margaret]] saw Thy murd’rous falchion smoking in his [[Blood|blood]], The which thou once didst bend against her breast, But that thy brothers beat aside the point. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I was provoked by her sland’rous tongue, That laid their [[Guilt|guilt]] upon my guiltless shoulders. |
-| [[Lady Anne|LADY ANNE]] | Thou wast provoked by thy bloody mind, That never dream’st on aught but butcheries. Didst thou not kill this [[King|king]]? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I grant ye. |
-| [[Lady Anne|LADY ANNE]] | Dost grant me, hedgehog? Then God grant me, too, Thou mayst be damned for that wicked deed. O he was gentle, mild, and virtuous. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | The better for the [[King]] of Heaven that hath him. |
-| [[Lady Anne|LADY ANNE]] | He is in heaven, where thou shalt never come. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Let him thank me that holp to send him thither, For he was fitter for that place than earth. |
-| [[Lady Anne|LADY ANNE]] | And thou unfit for any place but hell. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Yes, one place else, if you will hear me name it. |
-| [[Lady Anne|LADY ANNE]] | Some dungeon. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Your bedchamber. |
-| III | rest betide the chamber where thou liest. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | So will it, madam, till I lie with you. |
-| [[Lady Anne|LADY ANNE]] | I [[Hope|hope]] so. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I know so. But gentle [[Lady Anne]], To leave this keen encounter of our wits And fall something into a slower method, Is not the causer of the timeless deaths Of these Plantagenets, Henry and Edward, As blameful as the executioner? |
-| [[Lady Anne|LADY ANNE]] | Thou wast the cause of that accursed effect. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Your [[Beauty|beauty]] was the cause of that effect— Your [[Beauty|beauty]] that did haunt me in my [[Sleep|sleep]] To undertake the [[Death|death]] of all the world So I might live one hour in your sweet bosom. |
-| [[Lady Anne|LADY ANNE]] | If I thought that, I tell thee, homicide, These nails should rend that [[Beauty|beauty]] from my cheeks. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | These eyes could not endure sweet [[Beauty|beauty]]’s wreck. You should not blemish it if I stood by. As all the world is cheered by the sun, So I by that: it is my day, my life. |
-| [[Lady Anne|LADY ANNE]] | Black [[Night|night]] o’ershade thy day, and [[Death|death]] thy life. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Curse not thyself, fair creature: thou art both. |
-| [[Lady Anne|LADY ANNE]] | I would I were, to be revenged on thee. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | It is a quarrel most unnatural, To be revenged on him that loveth you. |
-| [[Lady Anne|LADY ANNE]] | It is a quarrel just and reasonable, To be revenged on him that killed my husband. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | He that bereft thee, lady, of thy husband, Did it to help thee to a better husband. |
-| [[Lady Anne|LADY ANNE]] | His better doth not breathe upon the earth. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | He lives that loves thee better than he could. |
-| [[Lady Anne|LADY ANNE]] | Name him. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Plantagenet. |
-| [[Lady Anne|LADY ANNE]] | Why, that was he. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--05_exchange_richard_gloucester" data-title="Richard III — Act I, Scene 2 — exchange (RICHARD GLOUCESTER) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | The selfsame name, but one of better [[Nature|nature]]. |
-| [[Lady Anne|LADY ANNE]] | Where is he? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Here. She spits at him Why dost thou spit at me? |
-| [[Lady Anne|LADY ANNE]] | Would it were mortal [[Poison|poison]] for thy sake. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Never came [[Poison|poison]] from so sweet a place. |
-| [[Lady Anne|LADY ANNE]] | Never hung [[Poison|poison]] on a fouler toad. Out of my sight! Thou dost infect mine eyes. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Thine eyes, sweet lady, have infected mine. |
-| [[Lady Anne|LADY ANNE]] | Would they were basilisks to strike thee dead. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--06_monologue_richard_gloucester" data-title="Richard III — Act I, Scene 2 — monologue (RICHARD GLOUCESTER) [6]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I would they were, that I might die at once, For now they kill me with a living [[Death|death]]. Those eyes of thine from mine have drawn salt [[Tears|tears]], Shamed their aspects with store of childish drops. I never sued to friend nor enemy; My tongue could never learn sweet smoothing word; But now thy [[Beauty|beauty]] is proposed my fee, My proud heart sues and prompts my tongue to speak. She looks scornfully at him Teach not thy lip such scorn, for it was made For kissing, lady, not for such contempt. If thy revengeful heart cannot forgive, He kneels and offers her his [[Sword|sword]] Lo, here I lend thee this sharp-pointed [[Sword|sword]], Which if thou please to hide in this true breast And let the [[Soul|soul]] forth that adoreth thee, I lay it naked to the deadly stroke And humbly beg the [[Death|death]] upon my knee. He lays his breast open; she offers at it with his [[Sword|sword]] Nay, do not pause, for I did kill [[King]] Henry; But ‘twas thy [[Beauty|beauty]] that provoked me. Nay, now dispatch: ’twas I that stabbed young Edward; But ’was thy heavenly face that set me on. She drops the [[Sword|sword]] Take up the [[Sword|sword]] again, or take up me. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--07_exchange_lady_anne" data-title="Richard III — Act I, Scene 2 — exchange (LADY ANNE) [7]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Lady Anne|LADY ANNE]] | Arise, dissembler. He rises Though I wish thy [[Death|death]], I will not be thy executioner. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Then bid me kill myself, and I will do it. |
-| [[Lady Anne|LADY ANNE]] | I have already. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | That was in thy rage. Speak it again, and even with the word This hand—which for thy [[Love|love]] did kill thy [[Love|love]]— Shall, for thy [[Love|love]], kill a far truer [[Love|love]]. To both their deaths shalt thou be accessary. |
-| [[Lady Anne|LADY ANNE]] | I would I knew thy heart. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | ’Tis figured in my tongue. |
-| [[Lady Anne|LADY ANNE]] | I [[Fear|fear]] me both are false. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Then never man was true. |
-| [[Lady Anne|LADY ANNE]] | [[Well]], [[Well|well]], put up your [[Sword|sword]]. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Say then my peace is made. 185 |
-| [[Lady Anne|LADY ANNE]] | That shalt thou know hereafter. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | But shall I live in [[Hope|hope]]? |
-| [[Lady Anne|LADY ANNE]] | All men, I [[Hope|hope]], live so. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Vouchsafe to wear this ring. |
-| [[Lady Anne|LADY ANNE]] | To take is not to give. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Look how my ring encompasseth thy finger; Even so thy breast encloseth my poor heart. Wear both of them, for both of them are thine. And if thy poor devoted servant may But beg one favour at thy gracious hand, Thou dost confirm his happiness for ever. |
-| [[Lady Anne|LADY ANNE]] | What is it? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | That it may please you leave these sad designs To him that hath most cause to be a mourner, And presently repair to Crosby [[house|House]], Where—after I have solemnly interred At Chertsey monast’ry this noble [[King|king]], And wet his [[Grave|grave]] with my repentant [[Tears|tears]]— I will with all expedient duty see you. For divers unknown reasons, I beseech you Grant me this boon. |
-| [[Lady Anne|LADY ANNE]] | With all my heart—and much it joys me, too, To see you are become so penitent. Tressell and Berkeley, go along with me. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Bid me farewell. |
-| [[Lady Anne|LADY ANNE]] | ’Tis more than you deserve. But since you teach me how to flatter you, Imagine I have said farewell already. Exeunt two with Anne |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Sirs, take up the corpse. |
-| GENTLEMAN | Towards Chertsey, noble lord? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--08_monologue_richard_gloucester" data-title="Richard III — Act I, Scene 2 — monologue (RICHARD GLOUCESTER.) [8]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]]. | No, to Blackfriars; there attend my coming. Exeunt with corpse all but [[Gloucester]] Was ever woman in this [[Humour|humour]] wooed? Was ever woman in this [[Humour|humour]] won? I’ll have her, but I will not keep her long. What, I that killed her husband and his father, To take her in her heart’s extremest hate, With curses in her mouth, [[Tears|tears]] in her eyes, The bleeding witness of my hatred by, Having God, her [[Conscience|conscience]], and these bars against me, And I no friends to back my suit withal But the plain devil and dissembling looks— And yet to win her, all the world to nothing? Ha ! Hath she forgot already that brave prince, Edward her lord, whom I some three months since Stabbed in my angry mood at Tewkesbury ? A sweeter and a lovelier gentleman, Framed in the prodigality of [[Nature|nature]], Young, valiant, wise, and no [[Doubt|doubt]] right royal, The spacious world cannot again afford— And will she yet abase her eyes on me, That cropped the golden prime of this sweet prince And made her widow to a woeful bed? On me, whose all not equals Edward’s moiety? On me, that halts and am misshapen thus? My dukedom to a beggarly denier, I do mistake my person all this while. Upon my life she finds, although I cannot, Myself to be a marv’lous proper man. I’ll be at charges for a looking-glass And entertain a score or two of tailors To study fashions to adorn my [[Body|body]]. Since I am crept in favour with myself, I will maintain it with some little cost. But first I’ll turn yon fellow in his [[Grave|grave]], And then return lamenting to my [[Love|love]]. Shine out, fair sun, till I have bought a glass, That I may see my [[Shadow|shadow]] as I pass. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="Richard III — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Queen Elizabeth]], Lord Rivers, Marquis Dorset, and Lord Gray |
-| RIVERS | (to Elizabeth) Have patience, madam. There’s no [[Doubt|doubt]] his majesty Will soon recover his accustomed health. |
-| GRAY | (to Elizabeth) In that you brook it ill, it makes him worse. Therefore, for God’s sake entertain good comfort, And cheer his grace with quick and merry eyes. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | If he were dead, what would betide on me? RIVERS No other harm but loss of such a lord. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | The loss of such a lord includes all harms. |
-| GRAY | The heavens have blessed you with a goodly son To be your comforter when he is gone. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Ah, he is young, and his minority Is put unto the trust of [[Richard]] [[Gloucester]], A man that loves not me—nor none of you. |
-| RIVERS | Is it concluded he shall be Protector? |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | It is determined, not concluded yet; But so it must be, if the [[King]] miscarry. Enter the [[Duke of Buckingham]] and Lord Stanley |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Earl of Derby |
-| GRAY | Here come the Lords of [[Buckingham]] and Derby. |
-| [[Buckingham|BUCKINGHAM]] | (to Elizabeth) Good [[Time|time]] of day unto your royal grace. |
-| STANLEY | (to Elizabeth) God make your majesty joyful, as you have been. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | The Countess Richmond, good my lord of Derby, To your good [[prayer]] will scarcely say ‘Amen’. Yet, Derby—notwithstanding she’s your wife, And loves not me—be you, good lord, assured I hate not you for her proud arrogance. |
-| STANLEY | I do beseech you, either not believe The envious slanders of her false accusers Or, if she be accused on true report, Bear with her weakness, which I think proceeds From wayward sickness, and no grounded malice. RIVERS Saw you the [[King]] today, my lord of Derby? |
-| STANLEY | But now the [[Duke of Buckingham]] and I Are come from visiting his majesty. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | With likelihood of his amendment, lords? |
-| [[Buckingham|BUCKINGHAM]] | Madam, good [[Hope|hope]]: his grace speaks cheerfully. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | God grant him health. Did you confer with him? |
-| [[Buckingham|BUCKINGHAM]] | Ay, madam. He desires to make atonement Between the [[Duke of Gloucester]] and your brothers, And between them and my Lord Chamberlain, And sent to warn them to his royal presence. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Would all were [[Well|well]]! But that will never be. I [[Fear|fear]] our happiness is at the height. Enter [[Richard]] [[Duke of Gloucester]] and Lord [[Hastings]] |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | They do me wrong, and I will not endure it. Who are they that complain unto the [[King]] That I forsooth am stern and [[Love|love]] them not? By holy Paul, they [[Love|love]] his grace but lightly That fill his ears with such dissentious rumours. Because I cannot flatter and look fair, Smile in men’s faces, smooth, deceive, and cog, Duck with French nods and apish courtesy, I must be held a rancorous enemy. Cannot a plain man live and think no harm, But thus his simple [[Truth|truth]] must be abused With silken, sly, insinuating jacks? RIVERS To whom in all this presence speaks your grace ? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | To thee, that hast nor honesty nor grace. When have I injured thee ? When done thee wrong? Or thee? Or thee? Or any of your faction? A plague upon you all! His royal grace— Whom God preserve better than you would wish— Cannot be quiet scarce a breathing while But you must trouble him with lewd complaints. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--02_exchange_queen_elizabeth" data-title="Richard III — Act I, Scene 3 — exchange (QUEEN ELIZABETH) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Brother of [[Gloucester]], you mistake the matter. The [[King]]—on his own royal disposition, And not provoked by any suitor else— Aiming belike at your interior hatred, That in your outward action shows itself Against my children, brothers, and myself, Makes him to send, that he may learn the ground Of your ill will, and thereby to remove it. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I cannot tell. The world is grown so bad That wrens make prey where eagles dare not perch. Since every jack became a gentleman, There’s many a gentle person made a jack. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Come, come, we know your meaning, brother [[Gloucester]]. You envy my advancement, and my friends’. God grant we never may have need of you. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Meantime, God grants that I have need of you. Our brother is imprisoned by your means, Myself disgraced, and the nobility Held in contempt, while great promotions Are daily given to ennoble those That scarce some two days since were worth a noble. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | By him that raised me to this care-full height From that contented hap which I enjoyed, I never did incense his majesty Against the Duke of [[Clarence]], but have been An earnest advocate to plead for him. My lord, you do me shameful injury Falsely to draw me in these vile suspects. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | You may deny that you were not the mean Of my Lord [[Hastings]]’ late [[Imprisonment|imprisonment]]. |
-| RIVERS | She may, my lord, for— |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | She may, Lord Rivers; why, who knows not so? She may do more, sir, than denying that. She may help you to many fair preferments, And then deny her aiding hand therein, And lay those honours on your high [[Desert|desert]]. What may she not? She may—ay, marry, may she. |
-| RIVERS | What ‘marry, may she’? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What marry, may she? Marry with a [[King|king]]: A bachelor, and a handsome stripling, too. Iwis your grandam had a worser match. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | My lord of [[Gloucester]], I have too long borne Your blunt upbraidings and your bitter scoffs. By heaven, I will acquaint his majesty Of those gross taunts that oft I have endured. I had rather be a country servant-maid Than a great [[Queen|queen]], with this condition: To be so baited, scorned, and stormed at. Enter old [[Queen Margaret]], unseen behind them Small joy have I in being England’s [[Queen|queen]]. |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) And lessened be that small, God I beseech him. Thy [[Honour|honour]], state, and seat is due to me. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to Elizabeth) What? Threat you me with telling of the [[King]]? Tell him, and spare not. Look what I have said, I will avouch’t in presence of the [[King]]. I dare adventure to be sent to th’ Tower. ‘Tis [[Time|time]] to speak; my pains are quite forgot. |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) Out, devil! I remember them too [[Well|well]]. Thou killed’st my husband Henry in the Tower, And Edward, my poor son, at Tewkesbury. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to Elizabeth) Ere you were [[Queen|queen]]—ay, or your husband [[King|king]]— I was a packhorse in his great affairs, A weeder-out of his proud adversaries, A liberal rewarder of his friends. To royalize his [[Blood|blood]], I spent mine own. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--03_exchange_queen_margaret" data-title="Richard III — Act I, Scene 3 — exchange (QUEEN MARGARET) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) Ay, and much better [[Blood|blood]] than his or thine. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to Elizabeth) In all which [[Time|time]] you and your husband Gray Were factious for the [[house]] of Lancaster; And Rivers, so were you.—Was not your husband In Margaret’s battle at Saint Albans slain? Let me put in your minds, if you forget, What you have been ere this, and what you are; Withal, what I have been, and what I am. |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) A murd’rous [[Villain|villain]], and so still thou art. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Poor [[Clarence]] did forsake his father Warwick— Ay, and forswore himself, which Jesu pardon— |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) Which God [[Revenge|revenge]]! |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | To fight on Edward’s party for the [[Crown|crown]], And for his meed, poor lord, he is mewed up. I would to God my heart were flint like Edward’s, Or Edward’s soft and pitiful like mine. I am too childish-foolish for this world. |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) Hie thee to hell for shame, and leave this world, Thou cacodemon; there thy kingdom is. |
-| RIVERS | My lord of [[Gloucester]], in those busy days Which here you urge to prove us enemies, We followed then our lord, our sovereign [[King|king]]. So should we you, if you should be our [[King|king]]. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | If I should be? I had rather be a pedlar. Far be it from my heart, the thought thereof. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | As little joy, my lord, as you suppose You should enjoy, were you this country’s [[King|king]], As little joy may you suppose in me, That I enjoy being the [[Queen|queen]] thereof. |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) Ah, little joy enjoys the [[Queen|queen]] thereof, For I am she, and altogether joyless. I can no longer hold me patient. She comes forward Hear me, you wrangling pirates, that fall out In sharing that which you have pilled from me. Which of you trembles not that looks on me? If not that I am [[Queen]], you bow like subjects; Yet that by you deposed, you quake like rebels. (To [[Richard]]) Ah, gentle [[Villain|villain]], do not turn away. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Foul wrinkled [[Witch|witch]], what mak’st thou in my sight? |
-| [[Queen Margaret|QUEEN MARGARET]] | But repetition of what thou hast marred: That will I make before I let thee go. A husband and a son thou ow’st to me, (To Elizabeth) And thou a kingdom; (to the rest) all of you allegiance. This sorrow that I have by right is yours, And all the pleasures you usurp are mine. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | The curse my noble father laid on thee— When thou didst [[Crown|crown]] his warlike brows with paper, And with thy scorns drew‘st rivers from his eyes, And then, to dry them, gav’st the duke a clout Steeped in the faultless [[Blood|blood]] of pretty Rutland— His curses then, from bitterness of [[Soul|soul]] Denounced against thee, are all fall’n upon thee, And God, not we, hath plagued thy bloody deed. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | (to Margaret) So just is God to right the [[Innocent|innocent]]. |
-| LORD [[Hastings|HASTINGS]] | (to Margaret) O ‘twas the foulest deed to slay that babe, And the most merciless that e’er was heard of. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--04_exchange_rivers" data-title="Richard III — Act I, Scene 3 — exchange (RIVERS) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| RIVERS | (to Margaret) Tyrants themselves wept when it was reported. |
-| DORSET | (to Margaret) No man but prophesied [[Revenge|revenge]] for it. |
-| [[Buckingham|BUCKINGHAM]] | (to Margaret) Northumberland, then present, wept to see it. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--05_monologue_queen_margaret" data-title="Richard III — Act I, Scene 3 — monologue (QUEEN MARGARET) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Margaret|QUEEN MARGARET]] | What? Were you snarling all before I came, Ready to catch each other by the throat, And turn you all your hatred now on me? Did York’s dread curse prevail so much with heaven That Henry’s [[Death|death]], my lovely Edward’s [[Death|death]], Their kingdom’s loss, my woeful banishment, Should all but answer for that peevish brat? Can curses pierce the clouds and enter heaven? Why then, give way, dull clouds, to my quick curses! Though not by war, by surfeit die your [[King|king]], As ours by murder to make him a [[King|king]]. (To Elizabeth) Edward thy son, that now is Prince of Wales, For Edward my son, that was Prince of Wales, Die in his youth by like untimely violence. Thyself, a [[Queen|queen]], for me that was a [[Queen|queen]], Outlive thy glory like my wretched [[Self|self]]. Long mayst thou live—to wail thy children’s [[Death|death]], And see another, as I see thee now, Decked in thy rights, as thou art ’stalled in mine. Long die thy happy days before thy [[Death|death]], And after many lengthened hours of grief Die, neither mother, wife, nor England’s [[Queen|queen]].— Rivers and Dorset, you were standers-by, And so wast thou, Lord [[Hastings]], when my son Was stabbed with bloody daggers. God I pray him, That none of you may live his natural age, But by some unlooked accident cut off. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--06_exchange_richard_gloucester" data-title="Richard III — Act I, Scene 3 — exchange (RICHARD GLOUCESTER) [6]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Have done thy charm, thou hateful, withered hag. |
-| [[Queen Margaret|QUEEN MARGARET]] | And leave out thee? Stay, dog, for thou shalt hear me. If heaven have any grievous plague in store Exceeding those that I can wish upon thee, O let them keep it till thy sins be ripe, And then hurl down their indignation On thee, the troubler of the poor world’s peace. The worm of [[Conscience|conscience]] still begnaw thy [[Soul|soul]]. Thy friends suspect for traitors while thou liv’st, And take deep traitors for thy dearest friends. No [[Sleep|sleep]] close up that deadly eye of thine, Unless it be while some tormenting dream Affrights thee with a hell of ugly devils. Thou elvish-marked, abortive, rooting hog, Thou that wast sealed in thy nativity The slave of [[Nature|nature]] and the son of hell, Thou slander of thy heavy mother’s womb, Thou loathed issue of thy father’s loins, Thou rag of [[Honour|honour]], thou detested— |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Margaret. |
-| [[Queen Margaret|QUEEN MARGARET]] | [[Richard]]. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Ha? |
-| [[Queen Margaret|QUEEN MARGARET]] | I call thee not. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I cry thee [[Mercy|mercy]] then, for I did think That thou hadst called me all these bitter names. |
-| [[Queen Margaret|QUEEN MARGARET]] | Why so I did, but looked for no reply. O let me make the period to my curse. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | ‘Tis done by me, and ends in ‘Margaret’. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | (to Margaret) Thus have you breathed your curse against yourself. |
-| [[Queen Margaret|QUEEN MARGARET]] | Poor painted [[Queen]], vain flourish of my fortune, Why strew‘st thou sugar on that bottled spider Whose deadly web ensnareth thee about? [[Fool]], [[Fool|fool]], thou whet’st a knife to kill thyself. The day will come that thou shalt wish for me To help thee curse this poisonous bunch-backed toad. |
-| LORD [[Hastings|HASTINGS]] | False-boding woman, end thy frantic curse, Lest to thy harm thou move our patience. |
-| [[Queen Margaret|QUEEN MARGARET]] | Foul shame upon you, you have all moved mine. |
-| RIVERS | Were you [[Well|well]] served, you would be taught your duty. |
-| [[Queen Margaret|QUEEN MARGARET]] | To serve me [[Well|well]] you all should do me duty. Teach me to be your [[Queen|queen]], and you my subjects: O serve me [[Well|well]], and teach yourselves that duty. |
-| DORSET | Dispute not with her: she is lunatic. |
-| [[Queen Margaret|QUEEN MARGARET]] | Peace, master Marquis, you are malapert. Your [[Fire|fire]]-new stamp of [[Honour|honour]] is scarce current. O that your young nobility could judge What ‘twere to lose it and be miserable. They that stand high have many blasts to shake them, And if they fall they dash themselves to pieces. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Good counsel, marry!—Learn it, learn it, Marquis. |
-| DORSET | It touches you, my lord, as much as me. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Ay, and much more; but I was born so high. Our eyrie buildeth in the cedar’s top, And dallies with the [[Wind|wind]], and scorns the sun. |
-| [[Queen Margaret|QUEEN MARGARET]] | And turns the sun to shade. Alas, alas! Witness my son, now in the shade of [[Death|death]], Whose bright outshining beams thy cloudy wrath Hath in eternal darkness folded up. Your eyrie buildeth in our eyrie’s nest.— O God that seest it, do not suffer it; As it was won with [[Blood|blood]], lost be it so. [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] Peace, peace! For shame, if not for [[Charity|charity]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--07_exchange_queen_margaret" data-title="Richard III — Act I, Scene 3 — exchange (QUEEN MARGARET) [7]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Margaret|QUEEN MARGARET]] | Urge neither [[Charity|charity]] nor shame to me. Uncharitably with me have you dealt, And shamefully my hopes by you are butchered. My [[Charity|charity]] is outrage; life, my shame; And in that shame still live my sorrow’s rage. |
-| [[Buckingham|BUCKINGHAM]] | Have done, have done. |
-| [[Queen Margaret|QUEEN MARGARET]] | O princely [[Buckingham]], I’ll kiss thy hand In sign of league and amity with thee. Now fair befall thee and thy noble [[house]]! Thy garments are not spotted with our [[Blood|blood]], Nor thou within the compass of my curse. |
-| [[Buckingham|BUCKINGHAM]] | Nor no one here, for curses never pass The lips of those that breathe them in the air. |
-| [[Queen Margaret|QUEEN MARGARET]] | I will not think but they ascend the sky And there awake God’s gentle sleeping peace. O [[Buckingham]], take heed of yonder dog. She points at [[Richard]] Look when he fawns, he bites; and when he bites, His venom tooth will rankle to the [[Death|death]]. Have naught to do with him; beware of him; Sin, [[Death|death]], and hell have set their marks on him, And all their ministers attend on him. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What doth she say, my lord of [[Buckingham]]? |
-| [[Buckingham|BUCKINGHAM]] | Nothing that I respect, my gracious lord. |
-| [[Queen Margaret|QUEEN MARGARET]] | What, dost thou scorn me for my gentle counsel, And soothe the devil that I warn thee from? O but remember this another day, When he shall split thy very heart with sorrow, And say, ‘Poor Margaret was a prophetess’.— Live each of you the subjects to his hate, And he to yours, and all of you to God’s. Exit LORD [[Hastings|HASTINGS]] My hair doth stand on end to hear her curses. |
-| RIVERS | And so doth mine. I muse why she’s at liberty. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I cannot blame her, by God’s holy mother. She hath had too much wrong, and I repent My part thereof that I have done to her. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | I never did her any, to my knowledge. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Yet you have all the vantage of her wrong. I was too hot to do somebody good, That is too cold in thinking of it now. Marry, as for [[Clarence]], he is [[Well|well]] repaid: He is franked up to fatting for his pains. God pardon them that are the cause thereof. |
-| RIVERS | A virtuous and a Christian-like conclusion, To pray for them that have done scathe to us. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | So do I ever—(speaks to himself) being [[Well|well]] advised: For had I cursed now, I had cursed myself. Enter Sir William Catesby |
-| CATESBY | Madam, his majesty doth call for you, And for your grace, and you my gracious lords. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Catesby, I come.—Lords, will you go with me? |
-| RIVERS | We wait upon your grace. Exeunt all but [[Richard]] |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I do the wrong, and first begin to brawl. The secret mischiefs that I set abroach I lay unto the grievous charge of others. [[Clarence]], whom I indeed have cast in darkness, I do beweep to many simple gulls— Namely to Derby, [[Hastings]], [[Buckingham]]— And tell them, “Tis the [[Queen]] and her allies That stir the [[King]] against the Duke my brother’. Now they believe it, and withal whet me To be revenged on Rivers, Dorset, Gray; But then I sigh, and with a piece of scripture Tell them that God bids us do good for evil; And thus I clothe my naked villainy With odd old ends, stol’n forth of Holy Writ, And seem a saint when most I play the devil. Enter two Murderers But soft, here come my executioners.— How now, my hardy, stout, resolvèd mates! Are you now going to dispatch this thing? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--08_exchange_a_murderer" data-title="Richard III — Act I, Scene 3 — exchange (A MURDERER) [8]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A |
-| MURDERER | We are, my lord, and come to have the warrant, That we may be admitted where he is. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | [[Well]] thought upon; I have it here about me. He gives them the warrant When you have done, repair to Crosby Place. But sirs, be sudden in the execution, Withal obdurate; do not hear him plead, For [[Clarence]] is [[Well|well]] spoken, and perhaps May move your hearts to pity, if you mark him. |
-| *(didascalia)* | A |
-| MURDERER | Tut, tut, my lord, we will not stand to prate. Talkers are no good doers. Be assured, We go to use our hands, and not our tongues. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Your eyes drop millstones when fools’ eyes fall [[Tears|tears]]. I like you, lads. About your business straight. Go, go, dispatch. MURDERERS We will, my noble lord. Exeunt [[Richard]] at one door, the Murderers at another |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--01_exchange_dialogue" data-title="Richard III — Act I, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter George Duke of [[Clarence]] and Sir Robert Brackenbury BRACKENBURY Why looks your grace so heavily today? |
-| *(didascalia)* | O I have passed a miserable [[Night|night]], So full of fearful [[Dreams|dreams]], of ugly sights, That as I am a Christian faithful man, I would not spend another such a [[Night|night]] Though ‘twere to buy a world of happy days, So full of dismal terror was the [[Time|time]]. BRACKENBURY What was your dream, my lord? I pray you, tell me. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--02_monologue_clarence" data-title="Richard III — Act I, Scene 4 — monologue (CLARENCE) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Clarence|CLARENCE]] | Methoughts that I had broken from the Tower, And was embarked to [[Cross|cross]] to Burgundy, And in my company my brother [[Gloucester]], Who from my cabin tempted me to walk Upon the hatches; there we looked toward England, And cited up a thousand heavy times During the wars of York and Lancaster That had befall’n us. As we paced along Upon the giddy footing of the hatches, Methought that [[Gloucester]] stumbled, and in falling Struck me—that sought to stay him—overboard Into the tumbling billows of the main. O Lord! Methought what [[Pain|pain]] it was to drown, What dreadful noise of waters in my ears, What sights of ugly [[Death|death]] within my eyes. Methoughts I saw a thousand fearful wrecks, Ten thousand men that fishes gnawed upon, Wedges of gold, great ouches, heaps of pearl, Inestimable stones, unvalued jewels, All scattered in the [[Bottom|bottom]] of the sea. Some lay in dead men’s skulls; and in those holes Where eyes did once inhabit, there were crept— As ‘twere in scorn of eyes—reflecting gems, Which wooed the slimy [[Bottom|bottom]] of the deep And mocked the dead bones that lay scattered by. BRACKENBURY Had you such leisure in the [[Time|time]] of [[Death|death]], To gaze upon these [[Secrets|secrets]] of the deep? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--03_exchange_clarence" data-title="Richard III — Act I, Scene 4 — exchange (CLARENCE) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Clarence|CLARENCE]] | Methought I had, and often did I strive To yield the [[Ghost|ghost]], but still the envious flood Stopped-in my [[Soul|soul]] and would not let it forth To find the empty, vast, and wand’ring air, But smothered it within my panting bulk, Who almost burst to belch it in the sea. BRACKENBURY Awaked you not in this sore agony? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--04_monologue_clarence" data-title="Richard III — Act I, Scene 4 — monologue (CLARENCE) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Clarence|CLARENCE]] | No, no, my dream was lengthened after life. O then began the tempest to my [[Soul|soul]]! I passed, methought, the [[Melancholy|melancholy]] flood, With that sour ferryman which poets write of, Unto the kingdom of perpetual [[Night|night]]. The first that there did greet my stranger [[Soul|soul]] Was my great father-in-law, renowned Warwick, Who cried aloud, ‘What scourge for perjury Can this dark monarchy afford false [[Clarence]]?’ And so he vanished. Then came wand‘ring by A [[Shadow|shadow]] like an angel, with bright hair, Dabbled in [[Blood|blood]], and he shrieked out aloud, ‘[[Clarence]] is come: false, fleeting, perjured [[Clarence]], That stabbed me in the field by Tewkesbury. Seize on him, furies! Take him unto torment!’ With that, methoughts a legion of foul fiends Environed me, and howled in mine ears Such hideous cries that with the very noise I trembling waked, and for a season after Could not believe but that I was in hell, Such terrible impression made my dream. BRACKENBURY No marvel, lord, though it affrighted you; I am afraid, methinks, to hear you tell it. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--05_exchange_clarence" data-title="Richard III — Act I, Scene 4 — exchange (CLARENCE) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Clarence|CLARENCE]] | Ah, Brackenbury, I have done these things, That now give evidence against my [[Soul|soul]], For Edward’s sake; and see how he requites me. Keeper, I pray thee, sit by me awhile. My [[Soul|soul]] is heavy, and I fain would [[Sleep|sleep]]. BRACKENBURY I will, my lord. God give your grace good rest. [[Clarence]] sleeps Sorrow breaks [[Seasons|seasons]] and reposing hours, Makes the [[Night|night]] morning and the noontide [[Night|night]]. Princes have but their titles for their glories, An outward [[Honour|honour]] for an inward toil, And for unfelt imaginations They often feel a world of restless cares; So that, between their titles and low name, There’s nothing differs but the outward fame. Enter two Murderers |
-| FIRST MURDERER | Ho, who’s here? |
-| BRACKENBURY | What wouldst thou, fellow? And how cam’st thou hither? |
-| SECOND MURDERER | I would speak with [[Clarence]], and I came hither on my legs. |
-| BRACKENBURY | What, so brief? |
-| FIRST MURDERER | ‘Tis better, sir, than to be tedious. (To Second Murderer) Let him see our commission, and talk no more. Brackenbury reads |
-| BRACKENBURY | I am in this commanded to deliver The noble Duke of [[Clarence]] to your hands. I will not reason what is meant hereby, Because I will be guiltless of the meaning. There lies the Duke asleep, and there the keys. He throws down the keys I’ll to the [[King]] and signify to him That thus I have resigned to you my charge. |
-| FIRST MURDERER | You may, sir; ‘tis a point of wisdom. Fare you [[Well|well]]. Exit Brackenbury |
-| SECOND MURDERER | What, shall I stab him as he sleeps? |
-| FIRST MURDERER | No. He’ll say ‘twas done cowardly, when he wakes. |
-| SECOND MURDERER | Why, he shall never wake until the great judgement day. |
-| FIRST MURDERER | Why, then he’ll say we stabbed him sleeping. |
-| SECOND MURDERER | The urging of that word ‘judgement’ hath bred a kind of remorse in me. |
-| FIRST MURDERER | What, art thou afraid? |
-| SECOND MURDERER | Not to kill him, having a warrant, but to be damned for killing him, from the which no warrant can defend me. |
-| FIRST MURDERER | I thought thou hadst been resolute. SECOND MURDERER So I am—to let him live. |
-| FIRST MURDERER | I’ll back to the [[Duke of Gloucester]] and tell him so. |
-| SECOND MURDERER | Nay, I pray thee. Stay a little. I [[Hope|hope]] this passionate [[Humour|humour]] of mine will change. It was wont to hold me but while one tells twenty. He counts to twenty |
-| FIRST MURDERER | How dost thou feel thyself now? SECOND MURDERER Some certain dregs of [[Conscience|conscience]] are yet within me. |
-| FIRST MURDERER | Remember our reward, when the deed’s done. |
-| SECOND MURDERER | ‘Swounds, he dies. I had forgot the reward. |
-| FIRST MURDERER | Where’s thy [[Conscience|conscience]] now? |
-| SECOND MURDERER’ | O, in the [[Duke of Gloucester]]’s purse. FIRST MURDERER When he opens his purse to give us our reward, thy [[Conscience|conscience]] flies out. |
-| SECOND MURDERER | ‘Tis no matter. Let it go. There’s few or none will entertain it. |
-| FIRST MURDERER | What if it come to thee again? |
-| SECOND MURDERER | I’ll not meddle with it. It makes a man a coward. A man cannot steal but it accuseth him. A man cannot swear but it checks him. A man cannot lie with his neighbour’s wife but it detects him. ‘Tis a blushing, shamefaced spirit, that mutinies in a man’s bosom. It fills a man full of obstacles. It made me once restore a purse of gold that by chance I found. It beggars any man that keeps it. It is turned out of towns and cities for a dangerous thing, and every man that means to live [[Well|well]] endeavours to trust to himself and live without it. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--06_exchange_first_murderer" data-title="Richard III — Act I, Scene 4 — exchange (FIRST MURDERER) [6]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FIRST MURDERER | ‘Swounds, ’tis even now at my elbow, persuading me not to kill the Duke. |
-| SECOND MURDERER | Take the devil in thy mind, and believe him not: he would insinuate with thee but to make thee sigh. |
-| FIRST MURDERER | I am strong framed; he cannot prevail with me. |
-| SECOND MURDERER | Spoke like a tall man that respects thy reputation. Come, shall we fall to work? |
-| FIRST MURDERER | Take him on the [[Costard|costard]] with the hilts of thy [[Sword|sword]], and then throw him into the malmsey butt in the next room. |
-| SECOND MURDERER | O excellent device!—and make a sop of him. |
-| FIRST MURDERER | Soft, he wakes. |
-| SECOND MURDERER | Strike! |
-| FIRST MURDERER | No, we’ll reason with him. |
-| [[Clarence|CLARENCE]] | Where art thou, keeper? Give me a cup of wine. |
-| SECOND MURDERER | You shall have wine enough, my lord, anon. |
-| [[Clarence|CLARENCE]] | In God’s name, what art thou? |
-| FIRST MURDERER | A man, as you are. |
-| [[Clarence|CLARENCE]] | But not as I am, royal. |
-| FIRST MURDERER | Nor you as we are, loyal. |
-| [[Clarence|CLARENCE]] | Thy voice is thunder, but thy looks are humble. |
-| FIRST MURDERER | My voice is now the [[King]]’s; my looks, mine own. |
-| [[Clarence|CLARENCE]] | How darkly and how deadly dost thou speak. Your eyes do menace me. Why look you pale? Who sent you hither? Wherefore do you come? |
-| SECOND MURDERER | To, to, to— |
-| [[Clarence|CLARENCE]] | To murder me. |
-| BOTH MURDERERS | Ay, ay. |
-| [[Clarence|CLARENCE]] | You scarcely have the hearts to tell me so, And therefore cannot have the hearts to do it. Wherein, my friends, have I offended you? |
-| FIRST MURDERER | Offended us you have not, but the [[King]]. |
-| [[Clarence|CLARENCE]] | I shall be reconciled to him again. |
-| SECOND MURDERER | Never, my lord; therefore prepare to die. |
-| [[Clarence|CLARENCE]] | Are you drawn forth among a world of men To slay the [[Innocent|innocent]]? What is my offence? Where is the evidence that doth accuse me? What lawful [[Quest|quest]] have given their verdict up Unto the frowning judge, or who pronounced The bitter sentence of poor [[Clarence]]’ [[Death|death]]? Before I be convict by course of law, To threaten me with [[Death|death]] is most unlawful. I charge you, as you [[Hope|hope]] to have redemption By [[Christ]]’s dear [[Blood|blood]], shed for our grievous sins, That you depart and lay no hands on me. The deed you undertake is damnable. |
-| FIRST MURDERER | What we will do, we do upon command. |
-| SECOND MURDERER | And he that hath commanded is our [[King|king]]. |
-| [[Clarence|CLARENCE]] | Erroneous vassals, the great [[King]] of Kings Hath in the table of his law commanded That thou shalt do no murder. Will you then Spurn at his edict, and fulfil a man’s? Take heed, for he holds vengeance in his hand To hurl upon their heads that break his law. |
-| SECOND MURDERER | And that same vengeance doth he hurl on thee, For false forswearing, and for murder too. Thou didst receive the sacrament to fight In quarrel of the [[house]] of Lancaster. |
-| FIRST MURDERER | And, like a traitor to the name of God, Didst break that vow, and with thy treacherous blade Unripped‘st the bowels of thy sov’reign’s son. |
-| SECOND MURDERER | Whom thou wast sworn to cherish and defend. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--07_exchange_first_murderer" data-title="Richard III — Act I, Scene 4 — exchange (FIRST MURDERER) [7]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FIRST MURDERER | How canst thou urge God’s dreadful law to us, When thou hast broke it in such dear degree? |
-| [[Clarence|CLARENCE]] | Alas, for whose sake did I that ill deed? For Edward, for my brother, for his sake. He sends ye not to murder me for this, For in that sin he is as deep as I. If God will be avenged for the deed, O know you yet, he doth it publicly. Take not the quarrel from his pow’rful arm; He needs no indirect or lawless course To cut off those that have offended him. |
-| FIRST MURDERER | Who made thee then a bloody minister When gallant springing brave Plantagenet, That princely novice, was struck dead by thee? |
-| [[Clarence|CLARENCE]] | My brother’s [[Love|love]], the devil, and my rage. |
-| FIRST MURDERER | Thy brother’s [[Love|love]], our duty, and thy faults Provoke us hither now to slaughter thee. |
-| [[Clarence|CLARENCE]] | If you do [[Love|love]] my brother, hate not me. I am his brother, and I [[Love|love]] him [[Well|well]]. If you are hired for meed, go back again, And I will send you to my brother [[Gloucester]], Who shall reward you better for my life Than Edward will for tidings of my [[Death|death]]. |
-| SECOND MURDERER | You are deceived. Your brother [[Gloucester]] hates you. |
-| [[Clarence|CLARENCE]] | O no, he loves me, and he holds me dear. Go you to him from me. |
-| FIRST MURDERER | Ay, so we will. |
-| [[Clarence|CLARENCE]] | Tell him, when that our princely father York Blessed his three sons with his victorious arm, And charged us from his [[Soul|soul]] to [[Love|love]] each other, He little thought of this divided [[Friendship|friendship]]. Bid [[Gloucester]] think of this, and he will weep. |
-| FIRST MURDERER | Ay, millstones, as he lessoned us to weep. |
-| [[Clarence|CLARENCE]] | O do not slander him, for he is kind. |
-| FIRST MURDERER | As [[Snow|snow]] in harvest. Come, you deceive yourself. ‘Tis he that sends us to destroy you here. |
-| [[Clarence|CLARENCE]] | It cannot be, for he bewept my fortune, And hugged me in his arms, and swore with sobs That he would labour my delivery. |
-| FIRST MURDERER | Why, so he doth, when he delivers you From this earth’s thraldom to the joys of heaven. |
-| SECOND MURDERER | Make peace with God, for you must die, my lord. |
-| [[Clarence|CLARENCE]] | Have you that holy feeling in your souls To counsel me to make my peace with God, And are you yet to your own souls so blind That you will war with God by murd’ring me? O sirs, consider: they that set you on To do this deed will hate you for the deed. |
-| SECOND MURDERER | (to First) What shall we do? |
-| [[Clarence|CLARENCE]] | Relent, and save your souls. |
-| FIRST MURDERER | Relent? No. ’Tis cowardly and womanish. |
-| [[Clarence|CLARENCE]] | Not to relent is beastly, savage, devilish.— My friend, I spy some pity in thy looks. O if thine eye be not a flatterer, Come thou on my side, and entreat for me. A begging prince, what beggar pities not? Which of you, if you were a prince’s son, Being pent from liberty as I am now, If two such murderers as yourselves came to you, Would not entreat for life? As you would beg Were you in my distress— |
-| SECOND MURDERER | Look behind you, my lord! |
-| FIRST MURDERER | (stabbing [[Clarence]]) Take that, and that! If all this will not serve, I’ll drown you in the malmsey butt within. Exit with [[Clarence]]’s [[Body|body]] |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--08_exchange_second_murderer" data-title="Richard III — Act I, Scene 4 — exchange (SECOND MURDERER) [8]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SECOND MURDERER | A bloody deed, and desperately dispatched! How fain, like Pilate, would I wash my hands Of this most grievous, guilty murder done. Enter First Murderer |
-| FIRST MURDERER | How now? What mean‘st thou, that thou help’st me not? By heaven, the Duke shall know how slack you have been. |
-| SECOND MURDERER | I would he knew that I had saved his brother. Take thou the fee, and tell him what I say, For I repent me that the Duke is slain. Exit |
-| FIRST MURDERER | So do not I. Go, coward as thou art.— [[Well]], I’ll go hide the [[Body|body]] in some hole Till that the Duke give order for his burial. And, when I have my meed, I will away, For this will out, and then I must not stay. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="Richard III — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Flourish. Enter [[King]] Edward, sick, [[Queen Elizabeth]], Lord Marquis Dorset, Lord Rivers, Lord [[Hastings]], Sir William Catesby, the [[Duke of Buckingham]] and Lord Gray |
-| [[King|KING]] EDWARD | Why, so! Now have I done a good day’s work. You peers, continue this united league. I every day expect an embassage From my redeemer to redeem me hence, And more in peace my [[Soul|soul]] shall part to heaven Since I have made my friends at peace on earth. [[Hastings]] and Rivers, take each other’s hand. Dissemble not your hatred; swear your [[Love|love]]. |
-| RIVERS | By heaven, my [[Soul|soul]] is purged from grudging hate, And with my hand I seal my true heart’s [[Love|love]]. He takes [[Hastings]]’ hand |
-| LORD [[Hastings|HASTINGS]] | So thrive I, as I truly swear the like. |
-| [[King|KING]] EDWARD | Take heed you dally not before your [[King|king]], Lest he that is the supreme [[King]] of Kings Confound your hidden falsehood, and award Either of you to be the other’s end. |
-| LORD [[Hastings|HASTINGS]] | So prosper I, as I swear perfect [[Love|love]]. |
-| RIVERS | And I, as I [[Love|love]] [[Hastings]] with my heart. |
-| [[King|KING]] EDWARD | (to Elizabeth) Madam, yourself is not exempt from this, Nor your son Dorset;—[[Buckingham]], nor you. You have been factious one against the other. Wife, [[Love|love]] Lord [[Hastings]], let him kiss your hand— And what you do, do it unfeignedly. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | (giving [[Hastings]] her hand to kiss) There, [[Hastings]]. I will never more remember Our former hatred: so thrive I, and mine. |
-| [[King|KING]] EDWARD | Dorset, embrace him. [[Hastings]], [[Love|love]] Lord Marquis. |
-| DORSET | This interchange of [[Love|love]], I here protest, Upon my part shall be inviolable. |
-| LORD [[Hastings|HASTINGS]] | And so swear I. They embrace |
-| [[King|KING]] EDWARD | Now, princely [[Buckingham]], seal thou this league With thy embracements to my wife’s allies, And make me happy in your [[unity]]. |
-| [[Buckingham|BUCKINGHAM]] | (to Elizabeth) Whenever [[Buckingham]] doth turn his hate Upon your grace, but with all duteous [[Love|love]] Doth cherish you and yours, God punish me With hate in those where I expect most [[Love|love]]. When I have most need to employ a friend, And most assured that he is a friend, Deep, hollow, treacherous, and full of guile Be he unto me. This do I beg of heaven, When I am cold in [[Love|love]] to you or yours. They embrace |
-| [[King|KING]] EDWARD | A pleasing cordial, princely [[Buckingham]], Is this thy vow unto my sickly heart. There wanteth now our brother [[Gloucester]] here, To make the blessèd period of this peace. Enter Sir [[Richard]] Ratcliffe and [[Richard]] [[Duke of Gloucester]] |
-| [[Buckingham|BUCKINGHAM]] | And in good [[Time|time]], Here comes Sir [[Richard]] Ratcliffe and the Duke. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Good morrow to my sovereign [[King]] and [[Queen]].— And princely peers, a happy [[Time|time]] of day. |
-| [[King|KING]] EDWARD | Happy indeed, as we have spent the day. Brother, we have done deeds of [[Charity|charity]], Made peace of enmity, fair [[Love|love]] of hate, Between these swelling wrong-incensed peers. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | A blessed labour, my most sovereign lord. Among this princely heap if any here, By false intelligence or wrong surmise, Hold me a foe, If I unwittingly or in my rage Have aught committed that is hardly borne By any in this presence, I [[Desire|desire]] To reconcile me to his friendly peace. ‘Tis [[Death|death]] to me to be at enmity. I hate it, and [[Desire|desire]] all good men’s [[Love|love]].— First, madam, I entreat true peace of you, Which I will purchase with my duteous service.— Of you, my noble cousin [[Buckingham]], If ever any grudge were lodged between us.— Of you, Lord Rivers, and Lord Gray of you, That all without [[Desert|desert]] have frowned on me.— Dukes, earls, lords, gentlemen, indeed of all! I do not know that Englishman alive With whom my [[Soul|soul]] is any jot at odds More than the infant that is born tonight. I thank my God for my [[Humility|humility]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--02_exchange_queen_elizabeth" data-title="Richard III — Act II, Scene 1 — exchange (QUEEN ELIZABETH) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | A holy day shall this be kept hereafter. I would to God all strifes were [[Well|well]] compounded.— My sovereign lord, I do beseech your highness To take our brother [[Clarence]] to your grace. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Why, madam, have I offered [[Love|love]] for this, To be so flouted in this royal presence? Who knows not that the gentle Duke is dead? The others all start You do him injury to scorn his corpse. RIVERS Who knows not he is dead? Who knows he is? |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | All-seeing heaven, what a world is this? |
-| [[Buckingham|BUCKINGHAM]] | Look I so pale, Lord Dorset, as the rest? |
-| DORSET | Ay, my good lord, and no one in the presence But his red colour hath forsook his cheeks. |
-| [[King|KING]] EDWARD | Is [[Clarence]] dead? The order was reversed. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | But he, poor man, by your first order died, And that a winged Mercury did bear; Some tardy cripple bore the countermand, That came too lag to see him buried. God grant that some, less noble and less loyal, Nearer in bloody thoughts, but not in [[Blood|blood]], Deserve not worse than wretched [[Clarence]] did, And yet go current from suspicion. Enter Lord Stanley Earl of Derby |
-| STANLEY | (kneeling) A boon, my sovereign, for my service done. |
-| [[King|KING]] EDWARD | I pray thee, peace! My [[Soul|soul]] is full of sorrow. |
-| STANLEY | I will not rise, unless your highness hear me. |
-| [[King|KING]] EDWARD | Then say at once, what is it thou requests? |
-| STANLEY | The forfeit, sovereign, of my servant’s life, Who slew today a riotous gentleman, Lately attendant on the Duke of Norfolk. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--03_monologue_king_edward" data-title="Richard III — Act II, Scene 1 — monologue (KING EDWARD) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] EDWARD | Have I a tongue to doom my brother’s [[Death|death]], And shall that tongue give pardon to a slave? My brother slew no man; his fault was thought; And yet his punishment was bitter [[Death|death]]. Who sued to me for him? Who in my wrath Kneeled at my feet, and bid me be advised? Who spoke of brotherhood? Who spoke of [[Love|love]]? Who told me how the poor [[Soul|soul]] did forsake The mighty Warwick and did fight for me? Who told me, in the field at Tewkesbury, When [[Oxford]] had me down, he rescued me, And said, ‘Dear brother, live, and be a [[King|king]]’? Who told me, when we both lay in the field, Frozen almost to [[Death|death]], how he did lap me Even in his garments, and did give himself All thin and naked to the numb-cold [[Night|night]]? All this from my remembrance brutish wrath Sinfully plucked, and not a man of you Had so much grace to put it in my mind. But when your carters or your waiting vassals Have done a drunken slaughter, and defaced The precious image of our dear redeemer, You straight are on your knees for ‘Pardon, pardon!’— And I, unjustly too, must grant it you. But, for my brother, not a man would speak, Nor I, ungracious, speak unto myself For him, poor [[Soul|soul]]. The proudest of you all Have been beholden to him in his life, Yet none of you would once beg for his life. O God, I [[Fear|fear]] thy justice will take hold On me—and you, and mine, and yours, for this.— Come, [[Hastings]], help me to my closet. Ah, poor [[Clarence]]! Exeunt some with [[King]] and [[Queen]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--04_exchange_richard_gloucester" data-title="Richard III — Act II, Scene 1 — exchange (RICHARD GLOUCESTER) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | This is the fruits of rashness. Marked you not How that the guilty kindred of the [[Queen]] Looked pale, when they did hear of [[Clarence]]’ [[Death|death]]? O, they did urge it still unto the [[King]]. God will [[Revenge|revenge]] it. Come, lords, will you go To comfort Edward with our company? |
-| [[Buckingham|BUCKINGHAM]] | We wait upon your grace. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Richard III — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | The Trumpets sound. Enter young Prince Edward, the Dukes of [[Gloucester]] and [[Buckingham]], Lord Cardinal, with others, including Lord Stanley Earl of Derby and Sir William Catesby |
-| [[Buckingham|BUCKINGHAM]] | Welcome, sweet Prince, to [[London]], to your chamber. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to Prince Edward) Welcome, dear cousin, my thoughts’ sovereign. The weary way hath made you [[Melancholy|melancholy]]. |
-| PRINCE EDWARD | No, uncle, but our crosses on the way Have made it tedious, wearisome, and heavy. I want more uncles here to welcome me. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Sweet Prince, the untainted virtue of your years Hath not yet dived into the world’s deceit, Nor more can you distinguish of a man Than of his outward show, which God he knows Seldom or never jumpeth with the heart. Those uncles which you want were dangerous. Your grace attended to their sugared words, But looked not on the [[Poison|poison]] of their hearts. God keep you from them, and from such false friends. |
-| PRINCE EDWARD | God keep me from false friends; but they were none. Enter [[Lord Mayor]] and his train |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | My lord, the Mayor of [[London]] comes to greet you. |
-| MAYOR | (kneeling to Prince Edward) God bless your grace with health and happy days. |
-| PRINCE EDWARD | I thank you, good my lord, and thank you all.— I thought my mother and my brother York Would long ere this have met us on the way. Fie, what a slug is [[Hastings]], that he hastes not To tell us whether they will come or no. Enter Lord [[Hastings]] |
-| [[Buckingham|BUCKINGHAM]] | In happy [[Time|time]] here comes the sweating lord. |
-| PRINCE EDWARD | (to [[Hastings]]) Welcome, my lord. What, will our mother come? |
-| LORD [[Hastings|HASTINGS]] | On what occasion God he knows, not I, The [[Queen]] your mother, and your brother York, Have taken sanctuary. The tender Prince Would fain have come with me to meet your grace, But by his mother was perforce withheld. |
-| [[Buckingham|BUCKINGHAM]] | Fie, what an indirect and peevish course Is this of hers !—Lord Cardinal, will your grace Persuade the [[Queen]] to send the [[Duke of York]] Unto his princely brother presently?— If she deny, Lord [[Hastings]], go with him, And from her jealous arms pluck him perforce. |
-| CARDINAL | My lord of [[Buckingham]], if my weak oratory Can from his mother win the [[Duke of York]], Anon expect him. But if she’ be obdurate To mild entreaties, God in heaven forbid We should infringe the sacred privilege Of blessed sanctuary. Not for all this land Would I be guilty of so deep a sin. |
-| [[Buckingham|BUCKINGHAM]] | You are too senseless-obstinate, my lord, Too ceremonious and traditional. Weigh it not with the grossness of this age. You break not sanctuary in seizing him. The benefit thereof is always granted To those whose dealings have deserved the place, And those who have the wit to claim the place. This prince hath neither claimed it nor deserved it, And therefore, in my mind, he cannot have it. Then taking him from thence that ‘longs not there, You break thereby no privilege nor charter. Oft have I heard of ‘sanctuary men‘, But ‘sanctuary children’ ne’er till now. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--02_exchange_cardinal" data-title="Richard III — Act III, Scene 1 — exchange (CARDINAL) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CARDINAL | My lord, you shall o’errule my mind for once.— Come on, Lord [[Hastings]], will you go with me? |
-| LORD [[Hastings|HASTINGS]] | I come, my lord. |
-| PRINCE EDWARD | Good lords, make all the speedy haste you may.— Exeunt Cardinal and [[Hastings]] Say, uncle [[Gloucester]], if our brother come, Where shall we sojourn till our coronation? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Where it seems best unto your royal [[Self|self]]. If I may counsel you, some day or two Your highness shall repose you at the Tower, Then where you please and shall be thought most fit For your best health and recreation. |
-| PRINCE EDWARD | I do not like the Tower of any place.— Did [[Julius Caesar]] build that place, my lord? |
-| [[Buckingham|BUCKINGHAM]] | He did, my gracious lord, begin that place, Which since succeeding ages have re-edified. |
-| PRINCE EDWARD | Is it upon record, or else reported Successively from age to age, he built it? |
-| [[Buckingham|BUCKINGHAM]] | Upon record, my gracious liege. |
-| PRINCE EDWARD | But say, my lord, it were not registered, Methinks the [[Truth|truth]] should live from age to age, As ‘twere retailed to all posterity Even to the general all-ending day. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (aside) So wise so young, they say, do never live long. |
-| PRINCE EDWARD | What say you, uncle? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I say, ‘Without characters fame lives long’. (Aside) Thus like the formal Vice, Iniquity, I moralize two meanings in one word. |
-| PRINCE EDWARD | That [[Julius Caesar]] was a famous man: With what his valour did t’enrich his wit, His wit set down to make his valour live. [[Death]] made no conquest of this conqueror, For yet he lives in fame though not in life. I’ll tell you what, my cousin [[Buckingham]]. |
-| [[Buckingham|BUCKINGHAM]] | What, my good lord? |
-| PRINCE EDWARD | An if I live until I be a man, I’ll win our ancient right in France again, Or die a soldier, as I lived a [[King|king]]. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (aside) Short summers lightly have a forward [[spring]]. Enter young [[Duke of York]], Lord [[Hastings]], and Lord Cardinal |
-| [[Buckingham|BUCKINGHAM]] | Now in good [[Time|time]], here comes the [[Duke of York]]. |
-| PRINCE EDWARD | [[Richard]] of York, how fares our loving brother? |
-| YORK | [[Well]], my dread lord—so must I call you now. |
-| PRINCE EDWARD | Ay, brother, to our grief, as it is yours. Too late he died that might have kept that title, Which by his [[Death|death]] hath lost much majesty. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | How fares our noble cousin, Lord of York? |
-| YORK | I thank you, gentle uncle, [[Well|well]]. O, my lord, You said that idle weeds are fast in growth; The Prince, my brother, hath outgrown me far. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | He hath, my lord. |
-| YORK | And therefore is he idle? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | O my fair cousin, I must not say so. |
-| YORK | He is more beholden to you then than I. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | He may command me as my sovereign, But you have power in me as a kinsman. |
-| YORK | I pray you, uncle, render me this dagger. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | My dagger, little cousin? With all my heart. |
-| PRINCE EDWARD | A beggar, brother? |
-| YORK | Of my kind uncle that I know will give, It being but a toy which is no grief to give. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--03_exchange_richard_gloucester" data-title="Richard III — Act III, Scene 1 — exchange (RICHARD GLOUCESTER) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | A greater gift than that I’ll give my cousin. |
-| YORK | A greater gift? O, that’s the [[Sword|sword]] to it. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Ay, gentle cousin, were it light enough. |
-| YORK | O, then I see you will part but with light gifts. In weightier things you’ll say a beggar nay. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | It is too heavy for your grace to wear. |
-| YORK | I’d weigh it lightly, were it heavier. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What, would you have my weapon, little lord? |
-| YORK | I would, that I might thank you as you call me. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | HOW? |
-| YORK | Little. |
-| PRINCE EDWARD | My lord of York will still be [[Cross|cross]] in talk.— Uncle, your grace knows how to bear with him. |
-| YORK | You mean to bear me, not to bear with me.— Uncle, my brother mocks both you and me. Because that I am little like an ape, He thinks that you should bear me on your shoulders. |
-| [[Buckingham|BUCKINGHAM]] | With what a sharp, prodigal wit he reasons. To mitigate the scorn he gives his uncle, He prettily and aptly taunts himself. So cunning and so young is wonderful. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to Prince Edward) My lord, will’t please you pass along? Myself and my good cousin [[Buckingham]] Will to your mother to entreat of her To meet you at the Tower and welcome you. |
-| YORK | (to Prince Edward) What, will you go unto the Tower, my lord? |
-| PRINCE EDWARD | My Lord Protector needs will have it so. |
-| YORK | I shall not [[Sleep|sleep]] in quiet at the Tower. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Why, what should you [[Fear|fear]] there? |
-| YORK | Marry, my uncle [[Clarence]]’ angry [[Ghost|ghost]]. My grannam told me he was murdered there. |
-| PRINCE EDWARD | I [[Fear|fear]] no uncles dead. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Nor none that live, I [[Hope|hope]]. |
-| PRINCE EDWARD | An if they live, I [[Hope|hope]] I need not [[Fear|fear]]. (To York) But come, my lord, and with a heavy heart, Thinking on them, go we unto the Tower. A Sennet. Exeunt all but [[Richard]], [[Buckingham]], and Catesby |
-| [[Buckingham|BUCKINGHAM]] | (to [[Richard]]) Think you, my lord, this little prating York Was not incensed by his subtle mother To taunt and scorn you thus opprobriously? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | No [[Doubt|doubt]], no [[Doubt|doubt]]. O, ‘tis a parlous boy, Bold, quick, ingenious, forward, capable. He is all the mother’s, from the top to toe. |
-| [[Buckingham|BUCKINGHAM]] | [[Well]], let them rest.—Come hither, Catesby. Thou art sworn As deeply to effect what we intend As closely to conceal what we impart. Thou know‘st our reasons, urged upon the way. What think’st thou? Is it not an easy matter To make Lord William [[Hastings]] of our mind, For the instalment of this noble duke In the seat royal of this famous isle? |
-| CATESBY | He for his father’s sake so loves the Prince That he will not be won to aught against him. |
-| [[Buckingham|BUCKINGHAM]] | What think’st thou then of Stanley? Will not he? |
-| CATESBY | He will do all-in-all as [[Hastings]] doth. |
-| [[Buckingham|BUCKINGHAM]] | [[Well]] then, no more but this. Go, gentle Catesby, And, as it were far off, sound thou Lord [[Hastings]] How he doth stand affected to our purpose. If thou dost find him tractable to us, Encourage him, and tell him all our reasons. If he be leaden, icy, cold, unwilling, Be thou so too, and so break off your talk, And give us notice of his inclination, For we tomorrow hold divided counsels, Wherein thyself shalt highly be employed. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--04_exchange_richard_gloucester" data-title="Richard III — Act III, Scene 1 — exchange (RICHARD GLOUCESTER) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Commend me to Lord William. Tell him, Catesby, His ancient knot of dangerous adversaries Tomorrow are let [[Blood|blood]] at Pomfret [[Castle]], And bid my lord, for joy of this good news, Give Mrs Shore one gentle kiss the more. |
-| [[Buckingham|BUCKINGHAM]] | Good Catesby, go effect this business soundly. |
-| CATESBY | My good lords both, with all the heed I can. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Shall we hear from you, Catesby, ere we [[Sleep|sleep]]? |
-| CATESBY | You shall, my lord. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | At Crosby [[house|House]], there shall you find us both. Exit Catesby |
-| [[Buckingham|BUCKINGHAM]] | My lord, what shall we do if we perceive Lord [[Hastings]] will not yield to our complots? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Chop off his head. Something we will determine. And look when I am [[King|king]], claim thou of me The earldom of Hereford, and all the movables Whereof the [[King]] my brother was possessed. |
-| [[Buckingham|BUCKINGHAM]] | I’ll claim that promise at your grace’s hand. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | And look to have it yielded with all kindness. Come, let us sup betimes, that afterwards We may digest our complots in some form. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--01_exchange_dialogue" data-title="Richard III — Act III, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the [[Duke of Buckingham]], Lord Stanley Earl of Derby, Lord [[Hastings]], Bishop of Ely, the Duke of Norfolk, Sir William Catesby, with others at a table |
-| LORD [[Hastings|HASTINGS]] | Now, noble peers, the cause why we are met Is to determine of the coronation. In God’s name, speak: when is the royal day? |
-| [[Buckingham|BUCKINGHAM]] | Is all things ready for that solemn [[Time|time]]? |
-| STANLEY | It is, and wants but nomination. |
-| BISHOP OF ELY | Tomorrow, then, I judge a happy day. |
-| [[Buckingham|BUCKINGHAM]] | Who knows the Lord Protector’s mind herein? Who is most inward with the noble Duke? |
-| BISHOP OF ELY | Your grace, methinks, should soonest know his mind. |
-| [[Buckingham|BUCKINGHAM]] | We know each other’s faces. For our hearts, He knows no more of mine than I of yours, Or I of his, my lord, than you of mine.— Lord [[Hastings]], you and he are near in [[Love|love]]. |
-| LORD [[Hastings|HASTINGS]] | I thank his grace; I know he loves me [[Well|well]]. But for his purpose in the coronation, I have not sounded him, nor he delivered His gracious pleasure any way therein. But you, my honourable lords, may name the [[Time|time]], And in the Duke’s behalf I’ll give my voice, Which I presume he’ll take in gentle part. Enter [[Richard]] [[Duke of Gloucester]] |
-| BISHOP OF ELY | In happy [[Time|time]], here comes the Duke himself. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | My noble lords, and cousins all, good morrow. I have been long a sleeper, but I trust My absence doth neglect no great design Which by my presence might have been concluded. |
-| [[Buckingham|BUCKINGHAM]] | Had not you come upon your cue, my lord, William Lord [[Hastings]] had pronounced your part— I mean, your voice, for crowning of the [[King]]. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Than my Lord [[Hastings]] no man might be bolder. His lordship knows me [[Well|well]], and loves me [[Well|well]].— My lord of Ely, when I was last in Holborn I saw good strawberries in your [[Garden|garden]] there. I do beseech you send for some of them. |
-| BISHOP OF ELY | Marry, and will, my lord, with all my heart. Exit |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Cousin of [[Buckingham]], a word with you. (Aside) Catesby hath sounded [[Hastings]] in our business, And finds the testy gentleman so hot That he will lose his head ere give consent His ‘master’s [[Child|child]]’—as worshipful he terms it— Shall lose the royalty of England’s throne. |
-| [[Buckingham|BUCKINGHAM]] | Withdraw yourself a while; I’ll go with you. Exeunt [[Richard]] and [[Buckingham]] |
-| STANLEY | We have not yet set down this day of triumph. Tomorrow, in my judgement, is too sudden, For I myself am not so [[Well|well]] provided As else I would be, were the day prolonged. Enter Bishop of Ely |
-| BISHOP OF ELY | Where is my lord, the [[Duke of Gloucester]]? I have sent for these strawberries. |
-| LORD [[Hastings|HASTINGS]] | His grace looks cheerfully and smooth this morning. There’s some conceit or other likes him [[Well|well]], When that he bids good morrow with such spirit. I think there’s never a man in Christendom Can lesser hide his [[Love|love]] or hate than he, For by his face straight shall you know his heart. |
-| STANLEY | What of his heart perceive you in his face By any likelihood he showed today? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--02_exchange_lord_hastings" data-title="Richard III — Act III, Scene 4 — exchange (LORD HASTINGS) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LORD [[Hastings|HASTINGS]] | Marry, that with no man here he is offended— For were he, he had shown it in his looks. |
-| STANLEY | I pray God he be not. Enter [[Richard]] and [[Buckingham]] |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I pray you all, tell me what they deserve That do conspire my [[Death|death]] with devilish plots Of damned witchcraft, and that have prevailed Upon my [[Body|body]] with their hellish charms? |
-| LORD [[Hastings|HASTINGS]] | The tender [[Love|love]] I bear your grace, my lord, Makes me most forward in this princely presence To doom th’offenders, whatsoe’er they be. I say, my lord, they have deserved [[Death|death]]. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Then be your eyes the witness of their evil: See how I am bewitched. Behold, mine arm Is like a blasted sapling withered up. And this is Edward’s wife, that monstrous [[Witch|witch]], Consorted with that harlot, strumpet Shore, That by their witchcraft thus have marked me. |
-| LORD [[Hastings|HASTINGS]] | If they have done this deed, my noble lord— |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | ‛If’? Thou protector of this damned strumpet, Talk’st thou to me of ‛ifs’ ? Thou art a traitor.— Off with his head. Now, by Saint Paul I swear, I will not dine until I see the same. Some see it done. The rest that [[Love|love]] me, rise and follow me. Exeunt all but Catesby and [[Hastings]] |
-| LORD [[Hastings|HASTINGS]] | Woe, woe for England! Not a whit for me, For I, too fond, might have prevented this. Stanley did dream the boar did raze our helms, But I did scorn it and disdain to fly. Three times today my footcloth [[Horse|horse]] did stumble, And started when he looked upon the Tower, As loath to bear me to the slaughterhouse. O now I need the priest that spake to me. I now repent I told the pursuivant, As too triumphing, how mine enemies Today at Pomfret bloodily were butchered, And I myself secure in grace and favour. O Margaret, Margaret! Now thy heavy curse Is lighted on poor [[Hastings]]’ wretched head. CATESBY Come, come, dispatch: the Duke would be at dinner. Make a short shrift; he longs to see your head. |
-| LORD [[Hastings|HASTINGS]] | O momentary grace of mortal men, Which we more hunt for than the grace of God. Who builds his [[Hope|hope]] in th’air of your good looks Lives like a drunken sailor on a mast, Ready with every nod to tumble down Into the fatal bowels of the deep. CATESBY Come, come, dispatch. ‘Tis bootless to exclaim. |
-| LORD [[Hastings|HASTINGS]] | O bloody [[Richard]]! Miserable England! I prophesy the fearful’st [[Time|time]] to thee That ever wretched age hath looked upon.— Come lead me to the block; bear him my head. They smile at me, who shortly shall be dead. Exeunt |
-| LORD [[Hastings|HASTINGS]] | 3.5Enter [[Richard]] [[Duke of Gloucester]] and the [[Duke of Buckingham]] in rotten armour, marvellous ill-favoured |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Come, cousin, canst thou quake and change thy colour? Murder thy breath in middle of a word? And then again begin, and stop again, As if thou wert distraught and mad with terror? |
-| [[Buckingham|BUCKINGHAM]] | Tut, I can counterfeit the deep tragedian, Tremble and start at wagging of a straw, Speak, and look back, and pry on every side, Intending deep suspicion; ghastly looks Are at my service, like enforced smiles, And both are ready in their offices At any [[Time|time]] to grace my stratagems. Enter the [[Lord Mayor]] |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--03_exchange_richard_gloucester" data-title="Richard III — Act III, Scene 4 — exchange (RICHARD GLOUCESTER) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (aside to [[Buckingham]]) Here comes the Mayor. |
-| [[Buckingham|BUCKINGHAM]] | (aside to [[Richard]]) Let me [[Alone|alone]] to entertain him.—[[Lord Mayor]]— |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | calling as to one within Look to the drawbridge there! |
-| [[Buckingham|BUCKINGHAM]] | Hark, a drum! |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | calling as to one within Catesby, o’erlook the walls! |
-| [[Buckingham|BUCKINGHAM]] | [[Lord Mayor]], the reason we have sent— |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Look back, defend thee! Here are enemies. |
-| [[Buckingham|BUCKINGHAM]] | God and our [[innocence]] defend and guard us. Enter Sir William Catesby with [[Hastings]]’ head |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | O, O, be quiet! It is Catesby. |
-| CATESBY | Here is the head of that ignoble traitor, The dangerous and unsuspected [[Hastings]]. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | So dear I loved the man that I must weep. I took him for the plainest harmless creature That breathed upon the earth, a Christian, Made him my book wherein my [[Soul|soul]] recorded The [[history]] of all her secret thoughts. So smooth he daubed his vice with show of virtue That, his apparent open [[Guilt|guilt]] omitted— I mean, his conversation with Shore’s wife— He lived from all attainture of suspect. |
-| [[Buckingham|BUCKINGHAM]] | The covert’st sheltered traitor that ever lived. (To the Mayor) Would you imagine, or almost believe— Were’t not that, by great preservation, We live to tell it—that the subtle traitor This day had plotted in the Council [[house]] To murder me and my good lord of [[Gloucester]]? |
-| MAYOR | Had he done so? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What, think you we are Turks or infidels, Or that we would against the form of law Proceed thus rashly in the [[Villain|villain]]’s [[Death|death]] But that the extreme peril of the case, The peace of England, and our persons’ safety, Enforced us to this execution? |
-| MAYOR | Now fair befall you, he deserved his [[Death|death]], And your good graces both have [[Well|well]] proceeded, To warn false traitors from the like attempts. I never looked for better at his hands After he once fell in with Mrs Shore. [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] Yet had not we determined he should die, Until your lordship came to see his end, Which now the loving haste of these our friends— Something against our meanings—have prevented; Because, my lord, we would have had you hear The traitor speak, and timorously confess The manner and the purpose of his treason, That you might [[Well|well]] have signified the same Unto the citizens, who haply may Misconster us in him, and wail his [[Death|death]]. |
-| MAYOR | But, my good lord, your graces’ word shall serve As [[Well|well]] as I had seen and heard him speak. And do not [[Doubt|doubt]], right noble princes both, But I’ll acquaint our duteous citizens With all your just proceedings in this cause. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | And to that end we wished your lordship here, T’avoid the censures of the carping world. |
-| [[Buckingham|BUCKINGHAM]] | Which, since you come too late of our intent, Yet witness what you hear we did intend, And so, my good [[Lord Mayor]], we bid farewell. Exit Mayor |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--04_monologue_richard_gloucester" data-title="Richard III — Act III, Scene 4 — monologue (RICHARD GLOUCESTER) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Go after; after, cousin [[Buckingham]]! The Mayor towards Guildhall hies him in all post; There, at your meetest vantage of the [[Time|time]], Infer the bastardy of Edward’s children. Tell them how Edward put to [[Death|death]] a citizen Only for saying he would make his son ‘Heir to the [[Crown]]’—meaning indeed, his [[house]], Which by the sign thereof was termed so. Moreover, urge his hateful luxury And bestial appetite in change of lust, Which stretched unto their servants, daughters, wives, Even where his raging eye, or savage heart, Without control, listed to make a prey. Nay, for a need, thus far come near my person: Tell them, when that my mother went with [[Child|child]] Of that insatiate Edward, noble York, My princely father, then had wars in France, And by true computation of the [[Time|time]] Found that the issue was not his begot— Which [[Well|well]] appeared in his lineaments, Being nothing like the noble Duke my father. Yet touch this sparingly, as ’twere far off, Because, my lord, you know my mother lives. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--05_exchange_buckingham" data-title="Richard III — Act III, Scene 4 — exchange (BUCKINGHAM) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Buckingham|BUCKINGHAM]] | [[Doubt]] not, my lord, I’ll play the orator As if the golden fee for which I plead Were for myself. And so, my lord, adieu. He starts to go |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | If you thrive [[Well|well]], bring them to Baynard’s [[Castle]], Where you shall find me [[Well|well]] accompanied With reverend fathers and [[Well|well]]-learnèd bishops. |
-| [[Buckingham|BUCKINGHAM]] | I go, and towards three or four o’[[Clock|clock]] Look for the news that the Guildhall affords. Exit |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Now will I in, to take some privy order To draw the brats of [[Clarence]] out of sight, And to give notice that no manner person Have any [[Time|time]] recourse unto the Princes. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--01_exchange_dialogue" data-title="Richard III — Act III, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Richard]] [[Duke of Gloucester]] at one door and the [[Duke of Buckingham]] at another |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | How now, how now! What say the citizens? |
-| [[Buckingham|BUCKINGHAM]] | Now, by the holy mother of our Lord, The citizens are mum, say not a word. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Touched you the bastardy of Edward’s children? |
-| [[Buckingham|BUCKINGHAM]] | I did, with his contract with Lady Lucy, And his contract by deputy in France, Th‘insatiate greediness of his [[Desire|desire]], And his enforcement of the [[City|city]] wives, His tyranny for trifles, his own bastardy— As being got your father then in France, And his resemblance, being not like the Duke. Withal, I did infer your lineaments— Being the right idea of your father Both in your face and nobleness of mind; Laid open all your victories in Scotland, Your discipline in war, wisdom in peace, Your bounty, virtue, fair [[Humility|humility]]— Indeed, left nothing fitting for your purpose Untouched or slightly handled in discourse. And when mine oratory grew toward end, I bid them that did [[Love|love]] their country’s good Cry ‘God save [[Richard]], England’s royal [[King|king]]!’ |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | And did they SO? |
-| [[Buckingham|BUCKINGHAM]] | No, so God help me. They spake not a word, But, like dumb statuas or breathing stones, Stared each on other and looked deadly pale— Which, when I saw, I reprehended them, And asked the Mayor, what meant this wilful [[Silence|silence]]? His answer was, the people were not used To be spoke to but by the Recorder. Then he was urged to tell my tale again: ‘Thus saith the Duke... thus hath the Duke inferred’— But nothing spoke in warrant from himself. When he had done, some followers of mine own, At lower end of the Hall, hurled up their caps, And some ten voices cried ‘God save [[King]] [[Richard]]!’ And thus I took the vantage of those few: ‘Thanks, gentle citizens and friends’, quoth I; ‘This general applause and cheerful shout Argues your wisdoms and your [[Love|love]] to [[Richard]]’— And even here brake off and came away. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | What tongueless blocks were they! Would they not speak? [[Buckingham|BUCKINGHAM]] No, by my troth, my lord. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Will not the Mayor then, and his brethren, come? |
-| [[Buckingham|BUCKINGHAM]] | The Mayor is here at hand. Intend some [[Fear|fear]]; Be not you spoke with, but by mighty suit; And look you get a [[prayer]] book in your hand, And stand between two churchmen, good my lord, For on that ground I’ll build a holy descant. And be not easily won to our request. Play the maid’s part: still answer ‘nay’—and take it. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I go. An if you plead as [[Well|well]] for them As I can say nay to thee for myself, No [[Doubt|doubt]] we’ll bring it to a happy issue. One knocks within |
-| [[Buckingham|BUCKINGHAM]] | Go, go, up to the leads! The [[Lord Mayor]] knocks.— Exit [[Richard]] Enter the [[Lord Mayor]], aldermen, and citizens Welcome, my lord. I [[Dance|dance]] attendance here. I think the Duke will not be spoke withal. Enter Catesby Now Catesby, what says your lord to my request? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--02_exchange_catesby" data-title="Richard III — Act III, Scene 7 — exchange (CATESBY) [2]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CATESBY | He doth entreat your grace, my noble lord, To visit him tomorrow, or next day. He is within with two right reverend fathers, Divinely bent to meditation, And in no worldly suits would he be moved, To draw him from his holy exercise. |
-| [[Buckingham|BUCKINGHAM]] | Return, good Catesby, to the gracious Duke. Tell him myself, the Mayor, and aldermen, In deep designs, in matter of great moment, No less importing than our general good, Are come to have some conference with his grace. |
-| CATESBY | I’ll signify so much unto him straight. Exit |
-| [[Buckingham|BUCKINGHAM]] | Ah ha! My lord, this prince is not an Edward. He is not lolling on a lewd day-bed, But on his knees at meditation; Not dallying with a brace of courtesans, But meditating with two deep divines; Not sleeping to engross his idle [[Body|body]], But praying to enrich his watchful [[Soul|soul]]. Happy were England would this virtuous prince Take on his grace the sovereignty thereof. But, sure I [[Fear|fear]], we shall not win him to it. |
-| MAYOR | Marry, God defend his grace should say us nay. |
-| [[Buckingham|BUCKINGHAM]] | I [[Fear|fear]] he will. Here Catesby comes again. Enter Catesby Now Catesby, what says his grace? |
-| CATESBY | He wonders to what end you have assembled Such troops of citizens to come to him, His grace not being warned thereof before. He fears, my lord, you mean no good to him. |
-| [[Buckingham|BUCKINGHAM]] | Sorry I am my noble cousin should Suspect me that I mean no good to him. By heaven, we come to him in perfect [[Love|love]], And so once more return and tell his grace. Exit Catesby When holy and devout religious men Are at their beads, ‘tis much to draw them thence. So sweet is zealous contemplation. Enter [[Richard]] aloft, between two bishops. Enter Catesby below |
-| MAYOR | See where his grace stands ’tween two clergymen. |
-| [[Buckingham|BUCKINGHAM]] | Two props of virtue for a Christian prince, To stay him from the fall of [[Vanity|vanity]]; And see, a book of [[prayer]] in his hand— True ornaments to know a holy man.— Famous Plantagenet, most gracious prince, Lend favourable ear to our request, And pardon us the interruption Of thy devotion and right Christian zeal. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | My lord, there needs no such apology. I do beseech your grace to pardon me, Who, earnest in the service of my God, Deferred the visitation of my friends. But leaving this, what is your grace’s pleasure? |
-| [[Buckingham|BUCKINGHAM]] | Even that, I [[Hope|hope]], which pleaseth God above, And all good men of this ungoverned isle. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I do suspect I have done some offence That seems disgracious in the [[City|city]]’s eye, And that you come to reprehend my ignorance. |
-| [[Buckingham|BUCKINGHAM]] | You have, my lord. Would it might please your grace On our entreaties to amend your fault. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Else wherefore breathe I in a Christian land? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--03_monologue_buckingham" data-title="Richard III — Act III, Scene 7 — monologue (BUCKINGHAM) [3]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Buckingham|BUCKINGHAM]] | Know then, it is your fault that you resign The supreme seat, the throne majestical, The sceptred office of your ancestors, Your state of fortune and your due of birth, The lineal glory of your royal [[house]], To the corruption of a blemished stock, Whiles in the mildness of your sleepy thoughts— Which here we waken to our country’s good— The noble isle doth want her proper limbs: Her face defaced with scars of infamy, Her royal stock graft with ignoble plants And almost shouldered in the swallowing gulf Of dark forgetfulness and deep oblivion, Which to recure we heartily solicit Your gracious [[Self|self]] to take on you the charge And kingly [[government]] of this your land— Not as Protector, steward, substitute, Or lowly factor for another’s gain, But as successively, from [[Blood|blood]] to [[Blood|blood]], Your right of birth, your empery, your own. For this, consorted with the citizens, Your very worshipful and loving friends, And by their vehement instigation, In this just cause come I to move your grace. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--04_monologue_richard_gloucester" data-title="Richard III — Act III, Scene 7 — monologue (RICHARD GLOUCESTER) [4]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I cannot tell if to depart in [[Silence|silence]] Or bitterly to speak in your reproof Best fitteth my degree or your condition. Your [[Love|love]] deserves my thanks; but my [[Desert|desert]], Unmeritable, shuns your high request. First, if all obstacles were cut away And that my path were even to the [[Crown|crown]], As the ripe revenue and due of birth, Yet so much is my [[Poverty|poverty]] of spirit, So mighty and so many my defects, That I would rather hide me from my [[Greatness|greatness]]— Being a barque to brook no mighty sea— Than in my [[Greatness|greatness]] covet to be hid, And in the vapour of my glory smothered. But God be thanked, there is no need of me, And much I need to help you, were there need. The royal tree hath left us royal fruit, Which, mellowed by the stealing hours of [[Time|time]], Will [[Well|well]] become the seat of majesty And make, no [[Doubt|doubt]], us happy by his reign. On him I lay that you would lay on me, The right and fortune of his happy [[Stars|stars]], Which God defend that I should wring from him. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--05_monologue_buckingham" data-title="Richard III — Act III, Scene 7 — monologue (BUCKINGHAM) [5]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Buckingham|BUCKINGHAM]] | My lord, this argues [[Conscience|conscience]] in your grace, But the respects thereof are nice and trivial, All circumstances [[Well|well]] considered. You say that Edward is your brother’s son; So say we, too—but not by Edward’s wife. For first was he contract to Lady Lucy— Your mother lives a witness to his vow— And afterward, by substitute, betrothed To Bona, sister to the [[King of France]]. These both put off, a poor petitioner, A care-crazed mother to a many sons, A [[Beauty|beauty]]-waning and distressed widow Even in the afternoon of her best days, Made prize and purchase of his wanton eye, Seduced the pitch and height of his degree To base declension and loathed bigamy. By her in his unlawful bed he got This Edward, whom our manners call the Prince. More bitterly could I expostulate, Save that for reverence to some alive I give a sparing limit to my tongue. Then, good my lord, take to your royal [[Self|self]] This proffered benefit of dignity— If not to bless us and the land withal, Yet to draw forth your noble ancestry From the corruption of abusing times, Unto a lineal, true-derived course. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--06_exchange_mayor" data-title="Richard III — Act III, Scene 7 — exchange (MAYOR) [6]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MAYOR | (to [[Richard]]) Do, good my lord; your citizens entreat you. |
-| [[Buckingham|BUCKINGHAM]] | (to [[Richard]]) Refuse not, mighty lord, this proffered [[Love|love]]. |
-| CATFSBY | (to [[Richard]]) O make them joyful: grant their lawful suit. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Alas, why would you heap this care on me? I am unfit for state and majesty. I do beseech you, take it not amiss. I cannot, nor I will not, yield to you. |
-| [[Buckingham|BUCKINGHAM]] | If you refuse it-as, in [[Love|love]] and zeal, Loath to depose the [[Child|child]], your brother’s son, As [[Well|well]] we know your tenderness of heart And gentle, kind, effeminate remorse, Which we have noted in you to your kindred, And equally indeed to all estates— Yet know, whe‘er you accept our suit or no, Your brother’s son shall never reign our [[King|king]], But we will plant some other in the throne, To the disgrace and downfall of your [[house]]. And in this resolution here we leave you.— Come, citizens. ‘Swounds, I’ll entreat no more. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | O do not swear, my lord of [[Buckingham]]. Exeunt [[Buckingham]] and some others |
-| CATESBY | Call him again, sweet prince. Accept their suit. ANOTHER If you deny them, all the land will rue it. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Will you enforce me to a world of cares? Call them again. Exit one or more I am not made of stone, But penetrable to your kind entreats, Albeit against my [[Conscience|conscience]] and my [[Soul|soul]]. Enter [[Buckingham]] and the rest Cousin of [[Buckingham]], and sage, [[Grave|grave]] men, Since you will buckle fortune on my back, To bear her burden, whe’er I will or no, I must have patience to endure the load. But if black scandal or foul-faced reproach Attend the sequel of your imposition, Your mere enforcement shall acquittance me From all the impure blots and stains thereof; For God doth know, and you may partly see, How far I am from the [[Desire|desire]] of this. |
-| MAYOR | God bless your grace! We see it, and will say it. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | In saying so, you shall but say the [[Truth|truth]]. |
-| [[Buckingham|BUCKINGHAM]] | Then I salute you with this royal title: Long live kind [[Richard]], England’s worthy [[King|king]]! ALL BUT [[Richard|RICHARD]] Amen. |
-| [[Buckingham|BUCKINGHAM]] | Tomorrow may it please you to be crowned? |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Even when you please, for you will have it so. |
-| [[Buckingham|BUCKINGHAM]] | Tomorrow then, we will attend your grace. And so, most joyfully, we take our leave. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | (to the bishops) Come, let us to our holy work again.— Farewell, my cousin. Farewell, gentle friends. Exeunt [[Richard]] and bishops above, the rest below |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_2--01_exchange_dialogue" data-title="Richard III — Act IV, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Sound a sennet. Enter [[King]] [[Richard]] in pomp, the [[Duke of Buckingham]], Sir William Catesby, other nobles, and a Page |
-| [[King|KING]] [[Richard|RICHARD]] | Stand all apart.—Cousin of [[Buckingham]]. |
-| [[Buckingham|BUCKINGHAM]] | My gracious sovereign? |
-| [[King|KING]] [[Richard|RICHARD]] | Give me thy hand. Sound a sennet. Here [[Richard]] ascendeth the throne Thus high by thy advice And thy assistance is [[King]] [[Richard]] seated. But shall we wear these glories for a day? Or shall they last, and we rejoice in them? |
-| [[Buckingham|BUCKINGHAM]] | Still live they, and for ever let them last. |
-| [[King|KING]] [[Richard|RICHARD]] | Ah, [[Buckingham]], now do I play the touch, To try if thou be current gold indeed. Young Edward lives. Think now what I would speak. |
-| [[Buckingham|BUCKINGHAM]] | Say on, my loving lord. |
-| [[King|KING]] [[Richard|RICHARD]] | Why, [[Buckingham]], I say I would be [[King|king]]. |
-| [[Buckingham|BUCKINGHAM]] | Why, so you are, my thrice-renownèd liege. |
-| [[King|KING]] [[Richard|RICHARD]] | Ha? Am I [[King|king]]? ‘Tis so. But Edward lives. |
-| [[Buckingham|BUCKINGHAM]] | True, noble prince. |
-| [[King|KING]] [[Richard|RICHARD]] | O bitter consequence, That Edward still should live ‘true noble prince’. Cousin, thou wast not wont to be so dull. Shall I be plain? I wish the bastards dead, And I would have it immediately performed. What sayst thou now? Speak suddenly, be brief. |
-| [[Buckingham|BUCKINGHAM]] | Your grace may do your pleasure. |
-| [[King|KING]] [[Richard|RICHARD]] | Tut, tut, thou art all ice. Thy kindness freezes. Say, have I thy consent that they shall die? |
-| [[Buckingham|BUCKINGHAM]] | Give me some little breath, some pause, dear lord, Before I positively speak in this. I will resolve you herein presently. Exit |
-| CATESBY | (to another, aside) The [[King]] is angry. See, he gnaws his lip. |
-| [[King|KING]] [[Richard|RICHARD]] | (aside) I will converse with iron-witted fools And unrespective boys. None are for me That look into me with considerate eyes. High-reaching [[Buckingham]] grows circumspect.— Boy. |
-| PAGE | My lord? |
-| [[King|KING]] [[Richard|RICHARD]] | Know’st thou not any whom corrupting gold Will tempt unto a close exploit of [[Death|death]]? |
-| PAGE | I know a discontented gentleman Whose humble means match not his haughty spirit. Gold were as good as twenty orators, And will no [[Doubt|doubt]] tempt him to anything. |
-| [[King|KING]] [[Richard|RICHARD]] | What is his name? |
-| PAGE | His name, my lord, is Tyrrell. |
-| [[King|KING]] [[Richard|RICHARD]] | I partly know the man. Go call him hither, boy. Exit Page Aside The deep-revolving, witty [[Buckingham]] No more shall be the neighbour to my counsels. Hath he so long held out with me untired, And stops he now for breath? [[Well]], be it so. Enter Lord Stanley Earl of Derby How now, Lord Stanley? What’s the news? |
-| STANLEY | Know, my loving lord, The Marquis Dorset, as I hear, is fled To Richmond, in those parts beyond the seas Where he abides. |
-| [[King|KING]] [[Richard|RICHARD]] | Come hither, Catesby. (Aside to Catesby) Rumour it abroad That Anne, my wife, is very grievous sick. I will take order for her keeping close. Enquire me out some mean-born gentleman, Whom I will marry straight to [[Clarence]]’ daughter. The boy is foolish, and I [[Fear|fear]] not him. Look how thou dream’st. I say again, give out That Anne, my [[Queen|queen]], is sick, and like to die. About it, for it stands me much upon To stop all hopes whose growth may damage me. Exit Catesby (Aside) I must be married to my brother’s daughter, Or else my kingdom stands on brittle glass. Murder her brothers, and then marry her? Uncertain way of gain, but I am in So far in [[Blood|blood]] that sin will pluck on sin. Tear-falling pity dwells not in this eye.— Enter Sir James Tyrrell; he kneels Is thy name Tyrrell? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_2--02_exchange_tyrrell" data-title="Richard III — Act IV, Scene 2 — exchange (TYRRELL) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| TYRRELL | James Tyrrell, and your most obedient subject. |
-| [[King|KING]] [[Richard|RICHARD]] | Art thou indeed? |
-| TYRRELL | Prove me, my gracious lord. |
-| [[King|KING]] [[Richard|RICHARD]] | Dar’st thou resolve to kill a friend of mine? |
-| TYRRELL | Please you, but I had rather kill two enemies. |
-| [[King|KING]] [[Richard|RICHARD]] | Why there thou hast it: two deep enemies, Foes to my rest, and my sweet [[Sleep|sleep]]’s disturbers, Are they that I would have thee deal upon. Tyrrell, I mean those bastards in the Tower. |
-| TYRRELL | Let me have open means to come to them, And soon I’ll rid you from the [[Fear|fear]] of them. |
-| [[King|KING]] [[Richard|RICHARD]] | Thou sing’st sweet music. Hark, come hither, Tyrrell. Go, by this token. Rise, and lend thine ear. [[Richard]] whispers in his ear ‘Tis no more but so. Say it is done, And I will [[Love|love]] thee, and prefer thee for it. |
-| TYRRELL | I will dispatch it straight. [[King|KING]] [[Richard|RICHARD]] Shall we hear from thee, Tyrrell, ere we [[Sleep|sleep]]? Enter [[Buckingham]] TYRRELL Ye shall, my lord. Exit |
-| [[Buckingham|BUCKINGHAM]] | My lord, I have considered in my mind The late request that you did sound me in. |
-| [[King|KING]] [[Richard|RICHARD]] | [[Well]], let that rest. Dorset is fled to Richmond. |
-| [[Buckingham|BUCKINGHAM]] | I hear the news, my lord. |
-| [[King|KING]] [[Richard|RICHARD]] | Stanley, he is your wife’s son. [[Well]], look to it. |
-| [[Buckingham|BUCKINGHAM]] | My lord, I claim the gift, my due by promise, For which your [[Honour|honour]] and your [[Faith|faith]] is pawned: Th’earldom of Hereford, and the movables Which you have promised I shall possess. |
-| [[King|KING]] [[Richard|RICHARD]] | Stanley, look to your wife. If she convey Letters to Richmond, you shall answer it. |
-| [[Buckingham|BUCKINGHAM]] | What says your highness to my just request? |
-| [[King|KING]] [[Richard|RICHARD]] | I do remember me, Henry the Sixth Did prophesy that Richmond should be [[King|king]], When Richmond was a little peevish boy. A [[King|king]]... perhaps... perhaps. |
-| [[Buckingham|BUCKINGHAM]] | My lord? |
-| [[King|KING]] [[Richard|RICHARD]] | How chance the [[Prophet|prophet]] could not at that [[Time|time]] Have told me, I being by, that I should kill him? |
-| [[Buckingham|BUCKINGHAM]] | My lord, your promise for the earldom. |
-| [[King|KING]] [[Richard|RICHARD]] | Richmond? When last I was at Exeter, The Mayor in courtesy showed me the [[Castle|castle]], And called it ‘Ruge-mount’—at which name I started, Because a bard of Ireland told me once I should not live long after I saw ‘Richmond’. |
-| [[Buckingham|BUCKINGHAM]] | My lord? |
-| [[King|KING]] [[Richard|RICHARD]] | Ay? What’s o’[[Clock|clock]]? |
-| [[Buckingham|BUCKINGHAM]] | I am thus bold to put your grace in mind Of what you promised me. |
-| [[King|KING]] [[Richard|RICHARD]] | But what’s o’[[Clock|clock]]? |
-| [[Buckingham|BUCKINGHAM]] | Upon the stroke of ten. |
-| [[King|KING]] [[Richard|RICHARD]] | [[Well]], let it strike! |
-| [[Buckingham|BUCKINGHAM]] | Why ‘let it strike’? |
-| [[King|KING]] [[Richard|RICHARD]] | Because that, like a jack, thou keep’st the stroke Betwixt thy begging and my meditation. I am not in the giving vein today. |
-| [[Buckingham|BUCKINGHAM]] | Why then resolve me, whe’er you will or no? |
-| [[King|KING]] [[Richard|RICHARD]] | Thou troublest me. I am not in the vein. Exit [[Richard]], followed by all but [[Buckingham]] |
-| [[Buckingham|BUCKINGHAM]] | And is it thus? Repays he my deep service With such contempt? Made I him [[King|king]] for this? O let me think on [[Hastings]], and be gone To Brecon, while my fearful head is on. Exit at another door |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--01_exchange_dialogue" data-title="Richard III — Act IV, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter old [[Queen Margaret]] |
-| [[Queen Margaret|QUEEN MARGARET]] | So now prosperity begins to mellow And drop into the rotten mouth of [[Death|death]]. Here in these confines slyly have I lurked To watch the waning of mine enemies. A dire induction am I witness to, And will to France, hoping the consequence Will prove as bitter, black, and tragical. Enter the old Duchess of York and [[Queen Elizabeth]] Withdraw thee, wretched Margaret. Who comes here? |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Ah, my poor princes! Ah, my tender babes! My unblown [[Flowers|flowers]], new-appearing sweets! If yet your gentle souls fly in the air, And be not fixed in doom perpetual, Hover about me with your airy wings And hear your mother’s lamentation. |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) Hover about her, say that right for right Hath dimmed your infant morn to aged [[Night|night]]. |
-| DUCHESS OF YORK | So many miseries have crazed my voice That my woe-wearied tongue is still and mute. Edward Plantagenet, why art thou dead? |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) Plantagenet doth quit Plantagenet; Edward for Edward pays a dying debt. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Wilt thou, O God, fly from such gentle lambs And throw them in the entrails of the wolf? When didst thou [[Sleep|sleep]], when such a deed was done? |
-| [[Queen Margaret|QUEEN MARGARET]] | (aside) When holy Harry died, and my sweet son. |
-| DUCHESS OF YORK | Dead life, blind sight, poor mortal living [[Ghost|ghost]], Woe’s scene, world’s shame, [[Grave|grave]]’s due by life usurped, Brief abstract and record of tedious days, Rest thy unrest on England’s lawful earth, Unlawfully made drunk with innocents’ [[Blood|blood]]. They sit |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Ah that thou wouldst as soon afford a [[Grave|grave]] As thou canst yield a [[Melancholy|melancholy]] seat. Then would I hide my bones, not rest them here. Ah, who hath any cause to mourn but we? |
-| [[Queen Margaret|QUEEN MARGARET]] | (coming forward) If ancient sorrow be most reverend, Give mine the benefit of seniory, And let my griefs frown on the upper hand. If sorrow can admit society, Tell o’er your woes again by viewing mine. I had an Edward, till a [[Richard]] killed him; I had a husband, till a [[Richard]] killed him. (To Elizabeth) Thou hadst an Edward, till a [[Richard]] killed him; Thou hadst a [[Richard]], till a [[Richard]] killed him. |
-| DUCHESS OF YORK | rising I had a [[Richard]] too, and thou didst kill him; I had a Rutland too, thou holpst to kill him. |
-| [[Queen Margaret|QUEEN MARGARET]] | Thou hadst a [[Clarence]] too, and [[Richard]] killed him. From forth the kennel of thy womb hath crept A hell-hound that doth hunt us all to [[Death|death]]: That dog that had his teeth before his eyes, To worry lambs and lap their gentle [[Blood|blood]]; That foul defacer of God’s handiwork, That reigns in galled eyes of weeping souls; That excellent grand [[Tyrant|tyrant]] of the earth Thy womb let loose to chase us to our graves. O upright, just, and true-disposing God, How do I thank thee that this charnel cur Preys on the issue of his mother’s [[Body|body]], And makes her pewfellow with others’ moan. |
-| DUCHESS OF YORK | O Harry’s wife, triumph not in my woes. God witness with me, I have wept for thine. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--02_exchange_queen_margaret" data-title="Richard III — Act IV, Scene 4 — exchange (QUEEN MARGARET) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Margaret|QUEEN MARGARET]] | Bear with me. I am hungry for [[Revenge|revenge]], And now I cloy me with beholding it. Thy Edward, he is dead, that killed my Edward; Thy other Edward dead, to quite my Edward; Young York, he is but boot, because both they Matched not the high perfection of my loss; Thy [[Clarence]], he is dead, that stabbed my Edward, And the beholders of this frantic plays— Th’adulterate [[Hastings]], Rivers, Vaughan, Gray— Untimely smothered in their dusky graves. [[Richard]] yet lives, hell’s black intelligencer, Only reserved their factor to buy souls And send them thither; but at hand, at hand Ensues his piteous and unpitied end. Earth gapes, hell burns, fiends roar, saints pray, To have him suddenly conveyed from hence. Cancel his bond of life, dear God, I plead, That I may live and say, ‘The dog is dead’. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | O thou didst prophesy the [[Time|time]] would come That I should wish for thee to help me curse That bottled spider, that foul bunch-backed toad. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--03_monologue_queen_margaret" data-title="Richard III — Act IV, Scene 4 — monologue (QUEEN MARGARET) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Margaret|QUEEN MARGARET]] | I called thee then ‘vain flourish of my fortune’; I called thee then, poor [[Shadow|shadow]], ‘painted [[Queen|queen]]’— The presentation of but what I was, The flattering index of a direful pageant, One heaved a-high to be hurled down below, A mother only mocked with two fair babes, [[A Dream|A dream]] of what thou wast, a garish [[Flag|flag]] To be the aim of every dangerous shot, A sign of dignity, a breath, a bubble, A [[Queen|queen]] in jest, only to fill the scene. Where is thy husband now? Where be thy brothers? Where are thy two sons? Wherein dost thou joy? Who sues, and kneels, and says ‘God save the [[Queen]]’? Where be the bending peers that flattered thee? Where be the thronging troops that followed thee? Decline all this, and see what now thou art: For happy wife, a most distressed widow; For joyful mother, one that wails the name; For [[Queen|queen]], a very caitiff, crowned with care; For one being sued to, one that humbly sues; For she that scorned at me, now scorned of me; For she being feared of all, now fearing one; For she commanding all, obeyed of none. Thus hath the course of justice whirled about, And left thee but a very prey to [[Time|time]], Having no more but thought of what thou wert To torture thee the more, being what thou art. Thou didst usurp my place, and dost thou not Usurp the just proportion of my sorrow? Now thy proud neck bears half my burdened yoke— From which, even here, I slip my weary head, And leave the burden of it all on thee. Farewell, York’s wife, and [[Queen|queen]] of sad mischance. These English woes shall make me smile in France. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--04_exchange_queen_elizabeth" data-title="Richard III — Act IV, Scene 4 — exchange (QUEEN ELIZABETH) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | (rising) O thou, [[Well|well]] skilled in curses, stay a while, And teach me how to curse mine enemies. |
-| [[Queen Margaret|QUEEN MARGARET]] | Forbear to [[Sleep|sleep]] the nights, and fast the days; Compare dead happiness with living woe; Think that thy babes were sweeter than they were, And he that slew them fouler than he is. Bett’ring thy loss makes the bad causer worse. Revolving this will teach thee how to curse. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | My words are dull. O quicken them with thine! |
-| [[Queen Margaret|QUEEN MARGARET]] | Thy woes will make them sharp and pierce like mine. Exit |
-| DUCHESS OF YORK | Why should calamity be full of words? |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Windy attorneys to their client woes, Airy recorders of intestate joys, Poor breathing orators of miseries. Let them have scope. Though what they will impart Help nothing else, yet do they ease the heart. |
-| DUCHESS OF YORK | If so, then be not tongue-tied; go with me, And in the breath of bitter words let’s smother My damned son, that thy two sweet sons smothered. A march within The trumpet sounds. Be copious in exclaims. Enter [[King]] [[Richard]] and his train marching with drummers and trumpeters |
-| [[King|KING]] [[Richard|RICHARD]] | Who intercepts me in my expedition? |
-| DUCHESS OF YORK | O, she that might have intercepted thee, By strangling thee in her accursed womb, From all the slaughters, wretch, that thou hast done. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Hid’st thou that forehead with a golden [[Crown|crown]], Where should be branded—if that right were right— The slaughter of the prince that owed that [[Crown|crown]], And the dire [[Death|death]] of my poor sons and brothers? Tell me, thou [[Villain|villain]]-slave, where are my children? |
-| DUCHESS OF YORK | Thou toad, thou toad, where is thy brother [[Clarence]]? And little Ned Plantagenet his son? |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Where is the gentle Rivers, Vaughan, Gray? |
-| DUCHESS OF YORK | Where is kind [[Hastings]]? |
-| [[King|KING]] [[Richard|RICHARD]] | (to his train) A flourish, trumpets! Strike alarum, drums! Let not the heavens hear these tell-tale women Rail on the Lord’s anointed. Strike, I say! Flourish. Alarums (To the women) Either be patient and entreat me fair, Or with the clamorous report of war Thus will I drown your exclamations. |
-| DUCHESS OF YORK | Art thou my son? |
-| [[King|KING]] [[Richard|RICHARD]] | Ay, I thank God, my father, and yourself. |
-| DUCHESS OF YORK | Then patiently hear my impatience. |
-| [[King|KING]] [[Richard|RICHARD]] | Madam, I have a touch of your condition, That cannot brook the accent of reproof. |
-| DUCHESS OF YORK | O let me speak! |
-| [[King|KING]] [[Richard|RICHARD]] | Do, then; but I’ll not hear. |
-| DUCHESS OF YORK | I will be mild and gentle in my words. |
-| [[King|KING]] [[Richard|RICHARD]] | And brief, good mother, for I am in haste. |
-| DUCHESS OF YORK | Art thou so hasty? I have stayed for thee, God knows, in torment and in agony— |
-| [[King|KING]] [[Richard|RICHARD]] | And came I not at last to comfort you? |
-| DUCHESS OF YORK | No, by the Holy Rood, thou know‘st it [[Well|well]]. Thou cam’st on earth to make the earth my hell. A grievous burden was thy birth to me; Tetchy and wayward was thy infancy; Thy schooldays frightful, desp’rate, wild, and furious; Thy prime of manhood daring, bold, and venturous; Thy age confirmed, proud, subtle, sly, and bloody; More mild, but yet more harmful; kind in hatred. What comfortable hour canst thou name That ever graced me in thy company? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--05_exchange_king_richard" data-title="Richard III — Act IV, Scene 4 — exchange (KING RICHARD) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] [[Richard|RICHARD]] | [[Faith]], none but Humphrey Hewer, that called your grace To breakfast once, forth of my company. If I be so disgracious in your eye, Let me march on, and not offend you, madam.— Strike up the drum. |
-| DUCHESS OF YORK | I pray thee, hear me speak. |
-| [[King|KING]] [[Richard|RICHARD]] | You speak too bitterly. |
-| DUCHESS OF YORK | Hear me a word, For I shall never speak to thee again. |
-| DUCHESS OF YORK | Either thou wilt die by God’s just ordinance Ere from this war thou turn a conqueror, Or I with grief and extreme age shall perish, And never more behold thy face again. Therefore take with thee my most heavy curse, Which in the day of battle tire thee more Than all the complete armour that thou wear’st. My prayers on the adverse party fight, And there the little souls of Edward’s children Whisper the spirits of thine enemies, And promise them [[success]] and victory. Bloody thou art, bloody will be thy end; Shame serves thy life, and doth thy [[Death|death]] attend. Exit |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Though far more cause, yet much less spirit to curse Abides in me; I say ‘Amen’ to all. |
-| [[King|KING]] [[Richard|RICHARD]] | Stay, madam. I must talk a word with you. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | I have no more sons of the royal [[Blood|blood]] For thee to slaughter. For my daughters, [[Richard]], They shall be praying nuns, not weeping queens, And therefore level not to hit their lives. |
-| [[King|KING]] [[Richard|RICHARD]] | You have a daughter called Elizabeth, Virtuous and fair, royal and gracious. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | And must she die for this? O let her live, And I’ll corrupt her manners, stain her [[Beauty|beauty]], Slander myself as false to Edward’s bed, Throw over her the veil of infamy. So she may live unscarred of bleeding slaughter, I will confess she was not Edward’s daughter. |
-| [[King|KING]] [[Richard|RICHARD]] | Wrong not her birth. She is a royal princess. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | To save her life I’ll say she is not so. |
-| [[King|KING]] [[Richard|RICHARD]] | Her life is safest only in her birth. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | And only in that safety died her brothers. |
-| [[King|KING]] [[Richard|RICHARD]] | Lo, at their births good [[Stars|stars]] were opposite. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | No, to their lives ill friends were contrary. |
-| [[King|KING]] [[Richard|RICHARD]] | All unavoided is the doom of destiny— |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | True, when avoided grace makes destiny. My babes were destined to a fairer [[Death|death]], If grace had blessed thee with a fairer life. |
-| [[King|KING]] [[Richard|RICHARD]] | Madam, so thrive I in my enterprise And dangerous [[success]] of bloody wars, As I intend more good to you and yours Than ever you or yours by me were harmed. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | What good is covered with the face of heaven, To be discovered, that can do me good? |
-| [[King|KING]] [[Richard|RICHARD]] | Th’advancement of your children, gentle lady. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Up to some scaffold, there to lose their heads. |
-| [[King|KING]] [[Richard|RICHARD]] | Unto the dignity and height of fortune, The high imperial type of this earth’s glory. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Flatter my sorrow with report of it. Tell me what state, what dignity, what [[Honour|honour]], Canst thou demise to any [[Child|child]] of mine? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--06_exchange_king_richard" data-title="Richard III — Act IV, Scene 4 — exchange (KING RICHARD) [6]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] [[Richard|RICHARD]] | Even all I have—ay, and myself and all, Will I withal endow a [[Child|child]] of thine, So in the Lethe of thy angry [[Soul|soul]] Thou drown the sad remembrance of those wrongs, Which thou supposest I have done to thee. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Be brief, lest that the process of thy kindness Last longer telling than thy kindness’ date. |
-| [[King|KING]] [[Richard|RICHARD]] | Then know that, from my [[Soul|soul]], I [[Love|love]] thy daughter. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | My daughter’s mother thinks that with her [[Soul|soul]]. |
-| [[King|KING]] [[Richard|RICHARD]] | What do you think? |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | That thou dost [[Love|love]] my daughter from thy [[Soul|soul]]; So from thy [[Soul|soul]]’s [[Love|love]] didst thou [[Love|love]] her brothers, And from my heart’s [[Love|love]] I do thank thee for it. |
-| [[King|KING]] [[Richard|RICHARD]] | Be not so hasty to confound my meaning. I mean, that with my [[Soul|soul]] I [[Love|love]] thy daughter, And do intend to make her [[Queen|queen]] of England. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | [[Well]] then, who dost thou mean shall be her [[King|king]]? |
-| [[King|KING]] [[Richard|RICHARD]] | Even he that makes her [[Queen|queen]]. Who else should be? |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | What, thou? |
-| [[King|KING]] [[Richard|RICHARD]] | Even so. How think you of it? |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | How canst thou woo her? |
-| [[King|KING]] [[Richard|RICHARD]] | That would I learn of you, As one being best acquainted with her [[Humour|humour]]. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | And wilt thou learn of me? |
-| [[King|KING]] [[Richard|RICHARD]] | Madam, with all my heart. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Send to her, by the man that slew her brothers, A pair of bleeding hearts; thereon engrave ‘Edward’ and ‘York’; then haply will she weep. Therefore present to her—as sometimes Margaret Did to thy father, steeped in Rutland’s [[Blood|blood]]— A handkerchief which, say to her, did drain The purple sap from her sweet brother’s [[Body|body]], And bid her wipe her weeping eyes withal. If this inducement move her not to [[Love|love]], Send her a letter of thy noble deeds. Tell her thou mad’st away her uncle [[Clarence]], Her uncle Rivers—ay, and for her sake Mad’st quick conveyance with her good aunt Anne. |
-| [[King|KING]] [[Richard|RICHARD]] | You mock me, madam. This is not the way To win your daughter. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | There is no other way, Unless thou couldst put on some other shape, And not be [[Richard]], that hath done all this. |
-| [[King|KING]] [[Richard|RICHARD]] | Infer fair England’s peace by this alliance. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Which she shall purchase with still-lasting war. |
-| [[King|KING]] [[Richard|RICHARD]] | Tell her the [[King]], that may command, entreats. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | That at her hands which the [[King]]’s [[King]] forbids. |
-| [[King|KING]] [[Richard|RICHARD]] | Say she shall be a high and mighty [[Queen|queen]]. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | To vail the title, as her mother doth. |
-| [[King|KING]] [[Richard|RICHARD]] | Say I will [[Love|love]] her everlastingly. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | But how long shall that title ‘ever’ last? |
-| [[King|KING]] [[Richard|RICHARD]] | Sweetly in force unto her fair life’s end. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | But how long fairly shall her sweet life last? |
-| [[King|KING]] [[Richard|RICHARD]] | As long as heaven and [[Nature|nature]] lengthens it. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | As long as hell and [[Richard]] likes of it. |
-| [[King|KING]] [[Richard|RICHARD]] | Say I, her sovereign, am her subject [[Love|love]]. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | But she, your subject, loathes such sovereignty. |
-| [[King|KING]] [[Richard|RICHARD]] | Be eloquent in my behalf to her. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--07_exchange_queen_elizabeth" data-title="Richard III — Act IV, Scene 4 — exchange (QUEEN ELIZABETH) [7]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | An honest tale speeds best being plainly told. |
-| [[King|KING]] [[Richard|RICHARD]] | Then plainly to her tell my loving tale. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Plain and not honest is too harsh a style. |
-| [[King|KING]] [[Richard|RICHARD]] | Your reasons are too shallow and too quick. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | O no, my reasons are too deep and dead— Too deep and dead, poor infants, in their graves. |
-| [[King|KING]] [[Richard|RICHARD]] | Harp not on that string, madam. That is past. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Harp on it still shall I, till heart-strings break. |
-| [[King|KING]] [[Richard|RICHARD]] | Now by my George, my garter, and my [[Crown|crown]]— |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Profaned, dishonoured, and the third usurped. |
-| [[King|KING]] [[Richard|RICHARD]] | I swear— |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | By nothing, for this is no oath. Thy George, profaned, hath lost his holy [[Honour|honour]]; Thy garter, blemished, pawned his lordly virtue; Thy [[Crown|crown]], usurped, disgraced his kingly glory. If something thou wouldst swear to be believed, Swear then by something that thou hast not wronged. |
-| [[King|KING]] [[Richard|RICHARD]] | Then by mysetf— |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Thy [[Self|self]] is [[Self|self]]-misused. |
-| [[King|KING]] [[Richard|RICHARD]] | Now by the world— |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | ‘Tis full of thy foul wrongs. |
-| [[King|KING]] [[Richard|RICHARD]] | My father’s [[Death|death]]— |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Thy life hath that dishonoured. |
-| [[King|KING]] [[Richard|RICHARD]] | Why then, by God— |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | God’s wrong is most of all. If thou didst [[Fear|fear]] to break an oath with him, The [[unity]] the [[King]] my husband made Thou hadst not broken, nor my brothers died. If thou hadst feared to break an oath by him, Th’imperial metal circling now thy head Had graced the tender temples of my [[Child|child]], And both the princes had been breathing here, Which now—two tender bedfellows for [[Dust|dust]]— Thy broken [[Faith|faith]] hath made the prey for worms. What canst thou swear by now? |
-| [[King|KING]] [[Richard|RICHARD]] | The [[Time|time]] to come. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | That thou hast wronged in the [[Time|time]] o‘erpast, For I myself have many [[Tears|tears]] to wash Hereafter [[Time|time]], for [[Time|time]] past wronged by thee. The children live, whose fathers thou hast slaughtered— Ungoverned youth, to wail it in their age. The parents live, whose children thou hast butchered— Old barren plants, to wail it with their age. Swear not by [[Time|time]] to come, for that thou hast Misused ere used, by times ill-used o’erpast. |
-| [[King|KING]] [[Richard|RICHARD]] | As I intend to prosper and repent, So thrive I in my dangerous affairs Of hostile arms—myself myself confound, Heaven and fortune bar me happy hours, Day yield me not thy light nor [[Night|night]] thy rest; Be opposite, all planets of good luck, To my proceeding—if, with dear heart’s [[Love|love]], Immaculate devotion, holy thoughts, I tender not thy beauteous, princely daughter. In her consists my happiness and thine. Without her follows—to myself and thee, Herself, the land, and many a Christian [[Soul|soul]]— [[Death]], desolation, ruin, and [[Decay|decay]]. It cannot be avoided but by this; It will not be avoided but by this. Therefore, good-mother—I must call you so— Be the attorney of my [[Love|love]] to her. Plead what I will be, not what I have been; Not my deserts, but what I will deserve. Urge the necessity and state of times, And be not peevish-fond in great designs. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--08_exchange_queen_elizabeth" data-title="Richard III — Act IV, Scene 4 — exchange (QUEEN ELIZABETH) [8]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Shall I be tempted of the devil thus? |
-| [[King|KING]] [[Richard|RICHARD]] | Ay, if the devil tempt you to do good. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Shall I forget myself to be myself? |
-| [[King|KING]] [[Richard|RICHARD]] | Ay, if yourself’s remembrance wrong yourself. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Yet thou didst kill my children. |
-| [[King|KING]] [[Richard|RICHARD]] | But in your daughter’s womb I bury them, Where, in that nest of spicery, they will breed Selves of themselves, to your recomfiture. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Shall I go win my daughter to thy will? |
-| [[King|KING]] [[Richard|RICHARD]] | And be a happy mother by the deed. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | I go. Write to me very shortly, And you shall understand from me her mind. |
-| [[King|KING]] [[Richard|RICHARD]] | Bear her my true [[Love|love]]’s kiss, He kisses her and so farewell— Exit Elizabeth Relenting [[Fool|fool]], and shallow, changing woman. Enter Sir [[Richard]] Ratcliffe How now, what news? |
-| RATCLIFFE | Most mighty sovereign, on the western coast Rideth a puissant navy. To our shores Throng many doubtful, hollow-hearted friends, Unarmed and unresolved, to beat them back. ‘Tis thought that Richmond is their admiral, And there they hull, expecting but the aid Of [[Buckingham]] to welcome them ashore. |
-| [[King|KING]] [[Richard|RICHARD]] | Some light-foot friend post to the Duke of Norfolk. Ratcliffe thyself, or Catesby—where is he? |
-| CATESBY | Here, my good lord. |
-| [[King|KING]] [[Richard|RICHARD]] | Catesby, fly to the Duke. |
-| CATESBY | I will, my lord, with all convenient haste. |
-| [[King|KING]] [[Richard|RICHARD]] | Ratcliffe, come hither. Post to Salisbury; When thou com‘st thither—(to Catesby) dull, unmindful [[Villain|villain]], Why stay’st thou here, and goest not to the Duke? |
-| CATESBY | First, mighty liege, tell me your highness’ pleasure: What from your grace I shall deliver to him? |
-| [[King|KING]] [[Richard|RICHARD]] | O true, good Catesby. Bid him levy straight The greatest strength and power that he can make, And meet me suddenly at Salisbury. |
-| CATESBY | I go. Exit |
-| RATCLIFFE | What, may it please you, shall I do at Salisbury? |
-| [[King|KING]] [[Richard|RICHARD]] | Why, what wouldst thou do there before I go? |
-| RATCLIFFE | Your highness told me I should post before. |
-| [[King|KING]] [[Richard|RICHARD]] | My mind is changed. Enter Lord Stanley Stanley, what news with you? |
-| STANLEY | None, good my liege, to please you with the hearing, Nor none so bad but [[Well|well]] may be reported. |
-| [[King|KING]] [[Richard|RICHARD]] | Hoyday, a [[Riddle|riddle]]! Neither good nor bad. Why need’st thou run so many mile about When thou mayst tell thy tale the nearest way? Once more, what news? |
-| STANLEY | Richmond is on the seas. |
-| [[King|KING]] [[Richard|RICHARD]] | There let him sink, and be the seas on him. White-livered renegade, what doth he there? |
-| STANLEY | I know not, mighty sovereign, but by guess. |
-| [[King|KING]] [[Richard|RICHARD]] | [[Well]], as you guess? |
-| STANLEY | Stirred up by Dorset, [[Buckingham]], and Ely, He makes for England, here to claim the [[Crown|crown]]. |
-| [[King|KING]] [[Richard|RICHARD]] | Is the chair empty? Is the [[Sword|sword]] unswayed? Is the [[King]] dead? The empire unpossessed? What heir of York is there alive but we? And who is England’s [[King|king]] but great York’s heir? Then tell me, what makes he upon the seas? |
-| STANLEY | Unless for that, my liege, I cannot guess. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--09_exchange_king_richard" data-title="Richard III — Act IV, Scene 4 — exchange (KING RICHARD) [9]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] [[Richard|RICHARD]] | Unless for that he comes to be your liege, You cannot guess wherefore the Welshman comes. Thou wilt revolt and fly to him, I [[Fear|fear]]. |
-| STANLEY | No, my good lord, therefore mistrust me not. |
-| [[King|KING]] [[Richard|RICHARD]] | Where is thy power then? To beat him back, Where be thy tenants and thy followers? Are they not now upon the western shore, Safe-conducting the rebels from their ships? |
-| STANLEY | No, my good lord, my friends are in the north. |
-| [[King|KING]] [[Richard|RICHARD]] | Cold friends to me. What do they in the north, When they should serve their sovereign in the west? |
-| STANLEY | They have not been commanded, mighty [[King]]. Pleaseth your majesty to give me leave, I’ll muster up my friends and meet your grace Where and what [[Time|time]] your majesty shall please. |
-| [[King|KING]] [[Richard|RICHARD]] | Ay, ay, thou wouldst be gone to join with Richmond. But I’ll not trust thee. |
-| STANLEY | Most mighty sovereign, You have no cause to hold my [[Friendship|friendship]] doubtful. I never was, nor never will be, false. |
-| [[King|KING]] [[Richard|RICHARD]] | Go then and muster men—but leave behind Your son George Stanley. Look your heart be firm, Or else his head’s assurance is but frail. |
-| STANLEY | So deal with him as I prove true to you. Exit Enter a Messenger |
-| MESSENGER | My gracious sovereign, now in Devonshire, As I by friends am [[Well|well]] advertised, Sir Edward Courtenay and the haughty prelate, Bishop of Exeter, his elder brother, With many more confederates are in arms. Enter another Messenger |
-| SECOND MESSENGER | In [[Kent]], my liege, the Guildfords are in arms, And every hour more competitors Flock to the rebels, and their power grows strong. Enter another Messenger |
-| THIRD MESSENGER | My lord, the army of great [[Buckingham]]— |
-| [[King|KING]] [[Richard|RICHARD]] | Out on ye, owls! Nothing but [[songs]] of [[Death|death]]? He striketh him There, take thou that, till thou bring better news. |
-| THIRD MESSENGER | The news I have to tell your majesty Is that, by sudden flood and fall of [[Water|water]], [[Buckingham]]’s army is dispersed and scattered, And he himself wandered away [[Alone|alone]], No man knows whither. |
-| [[King|KING]] [[Richard|RICHARD]] | I cry thee [[Mercy|mercy]].— Ratcliffe, reward him for the blow I gave him.— Hath any [[Well|well]]-advisèd friend proclaimed Reward to him that brings the traitor in? |
-| THIRD MESSENGER | Such proclamation hath been made, my lord. Enter another Messenger |
-| FOURTH MESSENGER | Sir Thomas Lovell and Lord Marquis Dorset— ‘Tis said, my liege—in Yorkshire are in arms. But this good comfort bring I to your highness: The Breton navy is dispersed by tempest. Richmond in Dorsetshire sent out a boat Unto the shore, to ask those on the banks If they were his assistants, yea or no? Who answered him they came from [[Buckingham]] Upon his party. He, mistrusting them, Hoist sail and made his course again for Bretagne. |
-| [[King|KING]] [[Richard|RICHARD]] | March on, march on, since we are up in arms, If not to fight with foreign enemies, Yet to beat down these rebels here at [[Home|home]]. Enter Catesby |
-| CATESBY | My liege, the [[Duke of Buckingham]] is taken. That is the best news. That the [[Earl of Richmond]] Is with a mighty power landed at Milford Is colder tidings, yet they must be told. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_4--10_exchange_king_richard" data-title="Richard III — Act IV, Scene 4 — exchange (KING RICHARD) [10]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] [[Richard|RICHARD]] | Away, towards Salisbury! While we reason here, A royal battle might be won and lost. Someone take order [[Buckingham]] be brought To Salisbury. The rest march on with me. Flourish. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--01_exchange_dialogue" data-title="Richard III — Act V, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A table brought in. Enter [[King]] [[Richard]], Sir [[Richard]] Ratcliffe, the Duke of Norfolk, Sir William Catesby, and others |
-| [[King|KING]] [[Richard|RICHARD]] | What is’t o’[[Clock|clock]]? |
-| CATESBY | It’s supper-[[Time|time]], my lord. It’s nine o’[[Clock|clock]]. |
-| [[King|KING]] [[Richard|RICHARD]] | I will not sup tonight. Give me some ink and paper. What, is my beaver easier than it was? And all my armour laid into my tent? |
-| CATESBY | It is, my liege, and all things are in readiness. |
-| [[King|KING]] [[Richard|RICHARD]] | Good Norfolk, hie thee to thy charge. Use careful watch; choose trusty sentinels. |
-| NORFOLK | I go, my lord. |
-| [[King|KING]] [[Richard|RICHARD]] | Stir with the lark tomorrow, gentle Norfolk. |
-| NORFOLK | I warrant you, my lord. Exit |
-| [[King|KING]] [[Richard|RICHARD]] | Catesby. |
-| CATESBY | My lord? |
-| [[King|KING]] [[Richard|RICHARD]] | Send out a pursuivant-at-arms To Stanley’s regiment. Bid him bring his power Before sun-rising, lest his son George fall Into the blind [[Cave|cave]] of eternal [[Night|night]]. Fill me a bowl of wine. Give me a watch. Saddle white Surrey for the field tomorrow. Look that my staves be sound, and not too heavy. Ratcliffe. Exit Catesby |
-| RATCLIFFE | My lord? |
-| [[King|KING]] [[Richard|RICHARD]] | Saw’st thou the [[Melancholy|melancholy]] Lord Northumberland? |
-| RATCLIFFE | Thomas the [[Earl of Surrey]] and himself, Much about cockshut [[Time|time]], from troop to troop Went through the army, cheering up the soldiers. |
-| [[King|KING]] [[Richard|RICHARD]] | So, I am satisfied. Give me some wine. I have not that alacrity of spirit, Nor cheer of mind, that I was wont to have. The wine is brought Set it down. Is ink and paper ready? |
-| RATCLIFFE | It is, my lord. |
-| [[King|KING]] [[Richard|RICHARD]] | Leave me. Bid my guard watch. About the mid of [[Night|night]] come to my tent, Ratcliffe, and help to arm me. Leave me, I say. Exit Ratcliffe with others. [[Richard]] writes, and later sleeps Enter Lord Stanley Earl of Derby to Henry [[Earl of Richmond]] and the lords in his tent |
-| STANLEY | Fortune and victory sit on thy helm! |
-| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | All comfort that the dark [[Night|night]] can afford Be to thy person, noble father-in-law. Tell me, how fares our loving mother? |
-| STANLEY | I, by attorney, bless thee from thy mother, Who prays continually for Richmond’s good. So much for that. The silent hours steal on, And flaky darkness breaks within the east. In brief—for so the season bids us be— Prepare thy battle early in the morning, And put thy fortune to th’arbitrement Of bloody strokes and mortal-sharing war. I, as I may—that which I would, I cannot— With best advantage will deceive the [[Time|time]], And aid thee in this doubtful shock of arms. But on thy side I may not be too forward— Lest, being seen, thy brother, tender George, Be executed in his father’s sight. Farewell. The leisure and the fearful [[Time|time]] Cuts off the ceremonious vows of [[Love|love]] And ample interchange of sweet discourse, Which so long sundered friends should dwell upon. God give us leisure for these rights of [[Love|love]]. Once more, adieu. Be valiant, and [[Speed|speed]] [[Well|well]]. |
-| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | Good lords, conduct him to his regiment. I’ll strive with troubled thoughts to take a nap, Lest leaden slumber peise me down tomorrow, When I should mount with wings of victory. Once more, good [[Night|night]], kind lords and gentlemen. Exeunt Stanley and the lords Richmond kneels O thou, whose captain I account myself, Look on my forces with a gracious eye. Put in their hands thy bruising irons of wrath, That they may crush down with a heavy fall Th’usurping helmets of our adversaries. Make us thy ministers of chastisement, That we may praise thee in the victory. To thee I do commend my watchful [[Soul|soul]], Ere I let fall the windows of mine eyes. Sleeping and waking, O defend me still! He sleeps Enter the [[Ghost]] of young Prince Edward above |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--02_exchange_ghost_of_prince_edward" data-title="Richard III — Act V, Scene 5 — exchange (GHOST OF PRINCE EDWARD) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Ghost|GHOST]] OF PRINCE EDWARD | (to [[Richard]]) Let me sit heavy on thy [[Soul|soul]] tomorrow, Prince Edward, son to Henry the Sixth. Think how thou stabbedst me in my prime of youth At Tewkesbury. [[Despair]], therefore, and die. (To Richmond) Be cheerful, Richmond, for the wronged souls Of butchered princes fight in thy behalf. [[King]] Henry’s issue, Richmond, comforts thee. Exit Enter above the [[Ghost]] of [[King]] Henry the Sixth |
-| [[Ghost|GHOST]] OF [[King|KING]] HENRY | (to [[Richard]]) When I was mortal, my anointed [[Body|body]] By thee was punched full of deadly holes. Think on the Tower and me. [[Despair]] and die. Harry the Sixth bids thee [[Despair|despair]] and die. (To Richmond) Virtuous and holy, be thou conqueror. Harry that prophesied thou shouldst be [[King|king]] Comforts thee in thy [[Sleep|sleep]]. Live and flourish! Exit Enter above the [[Ghost]] of George Duke of [[Clarence]] |
-| [[Ghost|GHOST]] OF [[Clarence|CLARENCE]] | (to [[Richard]]) Let me sit heavy on thy [[Soul|soul]] tomorrow, I that was washed to [[Death|death]] with fulsome wine, Poor [[Clarence]], by thy guile betrayed to [[Death|death]]. Tomorrow in the battle think on me, And fall thy edgeless [[Sword|sword]]. [[Despair]] and die. (To Richmond) Thou offspring of the [[house]] of Lancaster, The wronged heirs of York do pray for thee. Good angels guard thy battle. Live and flourish! Exit Enter above the [[Ghosts]] of Lord Rivers, Lord Gray, and Sir Thomas Vaughan |
-| [[Ghost|GHOST]] OF RIVERS | (to [[Richard]]) Let me sit heavy on thy [[Soul|soul]] tomorrow, Rivers that died at Pomfret. [[Despair]] and die. |
-| [[Ghost|GHOST]] OF GRAY | (to [[Richard]]) Think upon Gray, and let thy [[Soul|soul]] [[Despair|despair]]. |
-| [[Ghost|GHOST]] OF VAUGHAN | (to [[Richard]]) Think upon Vaughan, and with guilty [[Fear|fear]] Let fall thy pointless lance. [[Despair]] and die. |
-| ALL THREE | (to Richmond) Awake, and think our wrongs in [[Richard]]’s bosom Will conquer him. Awake, and win the day! Exeunt [[Ghosts]] Enter above the [[Ghosts]] of the two young Princes [[Ghosts|GHOSTS]] OF THE PRINCES (to [[Richard]]) Dream on thy cousins, smothered in the Tower. Let us be lead within thy bosom, [[Richard]], And weigh thee down to ruin, shame, and [[Death|death]]. Thy nephews’ souls bid thee [[Despair|despair]] and die. (To Richmond) [[Sleep]], Richmond, [[Sleep|sleep]] in peace and wake in joy. Good angels guard thee from the boar’s annoy. Live, and beget a happy race of kings! Edward’s unhappy sons do bid thee flourish. Exeunt [[Ghosts]] Enter above the [[Ghost]] of Lord [[Hastings]] |
-| [[Ghost|GHOST]] OF [[Hastings|HASTINGS]] | (to [[Richard]]) Bloody and guilty, guiltily awake, And in a bloody battle end thy days. Think on Lord [[Hastings]], then [[Despair|despair]] and die. (To Richmond) Quiet, untroubled [[Soul|soul]], awake, awake! Arm, fight, and conquer for fair England’s sake. Exit Enter above the [[Ghost]] of [[Lady Anne]] |
-| [[Ghost|GHOST]] OF [[Lady Anne|LADY ANNE]] | (to [[Richard]]) [[Richard]], thy wife, that wretched Anne thy wife, That never slept a quiet hour with thee, Now fills thy [[Sleep|sleep]] with perturbations. Tomorrow in the battle think on me, And fall thy edgeless [[Sword|sword]]. [[Despair]] and die. (To Richmond) Thou quiet [[Soul|soul]], [[Sleep|sleep]] thou a quiet [[Sleep|sleep]]. Dream of [[success]] and happy victory. Thy adversary’s wife doth pray for thee. Exit Enter above the [[Ghost]] of the [[Duke of Buckingham]] |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--03_exchange_ghost_of_buckingham" data-title="Richard III — Act V, Scene 5 — exchange (GHOST OF BUCKINGHAM) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Ghost|GHOST]] OF [[Buckingham|BUCKINGHAM]] | (to [[Richard]]) The first was I that helped thee to the [[Crown|crown]]; The last was I that felt thy tyranny. O in the battle think on [[Buckingham]], And die in terror of thy guiltiness! Dream on, dream on, of bloody deeds and [[Death|death]]; Fainting, [[Despair|despair]]; despairing, yield thy breath. (To Richmond) I died for [[Hope|hope]] ere I could lend thee aid. But cheer thy heart, and be thou not dismayed. God and good angels fight on Richmond’s side, And [[Richard]] falls in height of all his [[Pride|pride]]. Exit [[Richard]] starteth up out of [[A Dream|a dream]] |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--04_monologue_king_richard" data-title="Richard III — Act V, Scene 5 — monologue (KING RICHARD) [4]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] [[Richard|RICHARD]] | Give me another [[Horse|horse]]! Bind up my wounds! Have [[Mercy|mercy]], Jesu!—Soft, I did but dream. O coward [[Conscience|conscience]], how dost thou afflict me? The lights burn blue. It is now dead midnight. Cold fearful drops stand on my trembling flesh. What do I [[Fear]]? Myself? There’s none else by. [[Richard]] loves [[Richard]]; that is, I am I. Is there a murderer here? No. Yes, I am. Then fly! What, from myself? Great reason. Why? Lest I [[Revenge|revenge]]. Myself upon myself? Alack, I [[Love|love]] myself. Wherefore? For any good That I myself have done unto myself? O no, alas, I rather hate myself For hateful deeds committed by myself. I am a [[Villain|villain]]. Yet I lie: I am not. [[Fool]], of thyself speak [[Well|well]].—[[Fool]], do not flatter. My [[Conscience|conscience]] hath a thousand several tongues, And every tongue brings in a several tale, And every tale condemns me for a [[Villain|villain]]. Perjury, perjury, in the high‘st degree! Murder, stern murder, in the dir’st degree! All several sins, all used in each degree, Throng to the bar, crying all, ‘Guilty, guilty!’ I shall [[Despair|despair]]. There is no creature loves me, And if I die no [[Soul|soul]] will pity me. Nay, wherefore should they?—Since that I myself Find in myself no pity to myself. Methought the souls of all that I had murdered Came to my tent, and every one did threat Tomorrow’s vengeance on the head of [[Richard]]. Enter Ratcliffe |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--05_exchange_ratcliffe" data-title="Richard III — Act V, Scene 5 — exchange (RATCLIFFE) [5]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| RATCLIFFE | My lord? |
-| [[King|KING]] [[Richard|RICHARD]] | ‘Swounds, who is there? |
-| RATCLIFFE | My lord, ’tis I. The early village cock Hath twice done salutation to the morn. Your friends are up, and buckle on their armour. |
-| [[King|KING]] [[Richard|RICHARD]] | O Ratcliffe, I have dreamed a fearful dream. What thinkest thou, will all our friends prove true? |
-| RATCLIFFE | No [[Doubt|doubt]], my lord. |
-| [[King|KING]] [[Richard|RICHARD]] | Ratcliffe, I [[Fear|fear]], I [[Fear|fear]]. |
-| RATCLIFFE | Nay, good my lord, be not afraid of shadows. |
-| [[King|KING]] [[Richard|RICHARD]] | By the Apostle Paul, shadows tonight Have struck more terror to the [[Soul|soul]] of [[Richard]] Than can the substance of ten thousand soldiers Armed in proof and led by shallow Richmond. ’Tis not yet near day. Come, go with me. Under our tents I’ll play the eavesdropper, To see if any mean to shrink from me. Exeunt [[Richard]] and Ratcliffe Enter the lords to Henry [[Earl of Richmond]], sitting in his tent LORDS Good morrow, Richmond. |
-| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | Cry [[Mercy|mercy]], lords and watchful gentlemen, That you have ta’en a tardy sluggard here. A LORDHow have you slept, my lord? |
-| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | The sweetest [[Sleep|sleep]] and fairest boding [[Dreams|dreams]] That ever entered in a drowsy head Have I since your departure had, my lords. Methought their souls whose bodies [[Richard]] murdered Came to my tent and cried on victory. I promise you, my [[Soul|soul]] is very jocund In the remembrance of so fair [[A Dream|a dream]]. How far into the morning is it, lords? |
-| *(didascalia)* | A |
-| LORD | Upon the stroke of four. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--06_monologue_henry_earl_of_richmond" data-title="Richard III — Act V, Scene 5 — monologue (HENRY EARL OF RICHMOND) [6]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | Why then, ’tis [[Time|time]] to arm, and give direction. His oration to his soldiers Much that I could say, loving countrymen, The leisure and enforcement of the [[Time|time]] Forbids to dwell on. Yet remember this: God and our good cause fight upon our side. The prayers of holy saints and wrongèd souls, Like high-reared bulwarks, stand before our forces. [[Richard]] except, those whom we fight against Had rather have us win than him they follow. For what is he they follow? Truly, friends, A bloody [[Tyrant|tyrant]] and a homicide; One raised in [[Blood|blood]], and one in [[Blood|blood]] established; One that made means to come by what he hath, And slaughtered those that were the means to help him; A base, foul stone, made precious by the foil Of England’s chair, where he is falsely set; One that hath ever been God’s enemy. Then if you fight against God’s enemy, God will, in justice, ward you as his soldiers. If you do sweat to put a [[Tyrant|tyrant]] down, You [[Sleep|sleep]] in peace, the [[Tyrant|tyrant]] being slain. If you do fight against your country’s foes, Your country’s foison pays your pains the hire. If you do fight in safeguard of your wives, Your wives shall welcome [[Home|home]] the conquerors. If you do free your children from the [[Sword|sword]], Your children’s children quites it in your age. Then, in the name of God and all these rights, Advance your standards! Draw your willing swords! For me, the ransom of this bold attempt Shall be my cold corpse on the earth’s cold face; But if I thrive, to gain of my attempt, The least of you shall share his part thereof. Sound, drums and trumpets, bold and cheerfully! God and Saint George! Richmond and victory! Exeunt to the sound of drums and trumpets |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_8--01_exchange_dialogue" data-title="Richard III — Act V, Scene 8 — exchange (dialogue) [1]" data-chapter="Scene 8" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Alarum. Enter [[King]] [[Richard]] at one door and Henry [[Earl of Richmond]] at another. They fight. [[Richard]] is slain. Exit Richmond. Retreat and flourish. Enter Henry [[Earl of Richmond]] and Lord Stanley Earl of Derby, with divers other lords and soldiers |
-| HENRY [[Earl of Richmond|EARL OF RICHMOND]] | God and your arms be praised, victorious friends! The day is ours. The bloody dog is dead. |
-| STANLEY | (bearing the [[Crown|crown]]) Courageous Richmond, [[Well|well]] hast thou acquit thee. Lo, here this long usurpèd royalty From the dead temples of this bloody wretch Have I plucked off, to grace thy brows withal. Wear it, enjoy it, and make much of it. He sets the [[Crown|crown]] on Henry’s head |
-| [[King|KING]] HENRY THE SEVENTH | Great God of heaven, say ‘Amen’ to all. But tell me—young George Stanley, is he living? |
-| STANLEY | He is, my lord, and safe in Leicester town, Whither, if it please you, we may now withdraw us. |
-| [[King|KING]] HENRY THE SEVENTH | What men of name are slain on either side? STANLEY(reads) John Duke of Norfolk, Robert Brackenbury, Walter Lord Ferrers, and Sir William Brandon. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_8--02_monologue_king_henry_the_seventh" data-title="Richard III — Act V, Scene 8 — monologue (KING HENRY THE SEVENTH) [2]" data-chapter="Scene 8" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY THE SEVENTH | Inter their bodies as becomes their births. Proclaim a pardon to the soldiers fled That in submission will return to us, And then—as we have ta‘en the sacrament— We will unite the white [[Rose|rose]] and the red. Smile, heaven, upon this fair conjunction, That long have frowned upon their enmity. What traitor hears me and says not ‘Amen’? England hath long been mad, and scarred herself; The brother blindly shed the brother’s [[Blood|blood]]; The father rashly slaughtered his own son; The son, compelled, been butcher to the sire; All that divided York and Lancaster, United in their dire division. O now let Richmond and Elizabeth, The true succeeders of each royal [[house]], By God’s fair ordinance conjoin together, And let their heirs—God, if his will be so— Enrich the [[Time|time]] to come with smooth-faced peace, With smiling plenty, and fair prosperous days. Abate the edge of traitors, gracious Lord, That would reduce these bloody days again And make poor England weep forth streams of [[Blood|blood]]. Let them not live to taste this land’s increase, That would with treason wound this fair land’s peace. Now civil wounds are stopped; peace lives again. That she may long live here, God say ‘Amen’. Flourish. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_8--03_exchange_additional_passages" data-title="Richard III — Act V, Scene 8 — exchange (ADDITIONAL PASSAGES) [3]" data-chapter="Scene 8" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| ADDITIONAL PASSAGES | The following passages are contained in the Folio text, but not the Quarto; they were apparently omitted from performances. a. AFTER I.2.I54 These eyes, which never shed remorseful tear— No, when my father York and Edward wept To hear the piteous moan that Rutland made When black-faced [[Clifford]] shook his [[Sword|sword]] at him; Nor when thy warlike father like a [[Child|child]] Told the sad story of my father’s [[Death|death]] And twenty times made pause to sob and weep, That all the standers-by had wet their cheeks Like trees bedashed with rain. In that sad [[Time|time]] My manly eyes did scorn an humble tear, And what these sorrows could not thence exhale Thy [[Beauty|beauty]] hath, and made them blind with weeping. b. AFTER 1.3.166 |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Wert thou not banishèd on [[Pain|pain]] of [[Death|death]]? |
-| [[Queen Margaret|QUEEN MARGARET]] | I was, but I do find more [[Pain|pain]] in banishment Than [[Death|death]] can yield me here by my abode. c. AFTER I.4.68 O God! If my deep prayers cannot appease thee But thou wilt be avenged on my misdeeds, Yet execute thy wrath in me [[Alone|alone]]. O spare my guiltless wife and my poor children. d. AFTER 2.2.88 The Folio has Dorset and Rivers enter with [[Queen Elizabeth]] at 2.2.33.I. |
-| DORSET | Comfort, dear mother. God is much displeased That you take with unthankfulness his doing. In common worldly things ’tis called ungrateful With dull unwillingness to pay a debt Which with a bounteous hand was kindly lent; Much more to be thus opposite with heaven For it requires the royal debt it lent you. |
-| RIVERS | Madam, bethink you like a careful mother Of the young Prince your son. Send straight for him; Let him be crowned. In him your comfort lives. Drown desperate sorrow in dead Edward’s [[Grave|grave]] And plant your joys in living Edward’s throne. e. AFTER 2.2.II0 |
-| RIVERS | Why with some little train, my lord of [[Buckingham]]? |
-| [[Buckingham|BUCKINGHAM]] | Marry, my lord, lest by a multitude The new-healed wound of malice should break out, Which would be so much the more dangerous By how much the estate is green and yet ungoverned. Where every [[Horse|horse]] bears his commanding rein And may direct his course as please himself, As [[Well|well]] the [[Fear|fear]] of harm as harm apparent In my opinion ought to be prevented. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | I [[Hope|hope]] the [[King]] made peace with all of us, And the compact is firm and true in me. |
-| RIVERS | And so in me, and so I think in all. Yet since it is but green, it should be put To no apparent likelihood of breach, Which haply by much company might be urged. Therefore I say, with noble [[Buckingham]], That it is meet so few should fetch the Prince. |
-| [[Hastings|HASTINGS]] | And so say I. f. AFTER 3.I.I70 And summon him tomorrow to the Tower To sit about the coronation. g. AFTER 3.5.I00 Beginning [[Richard]] [[Gloucester]]’s speech. The Folio brings on Lovell and Ratcliffe instead of Catesby at 3.5.19.1. |
-| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | Go, Lovell, with all [[Speed|speed]] to Doctor [[Shaw]]; (To Ratcliffe) Go thou to Friar Penker. Bid them both Meet me within this hour at Baynard’s [[Castle]]. Exeunt Lovell and Ratcliffe, h. AFTER 3.7.I43 If not to answer, you might haply think Tongue-tied [[Ambition|ambition]], not replying, yielded To bear the golden yoke of sovereignty, Which fondly you would here impose on me. If to reprove you for this suit of yours, So seasoned with your faithful [[Love|love]] to me, Then on the other side I checked my friends. Therefore to speak, and to avoid the first, And then in speaking not to incur the last, Definitively thus I answer you. i. AFTER 4.I.96 In the Folio, the characters do not exit during the Duchess of York’s preceding speech. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_8--04_exchange_queen_elizabeth" data-title="Richard III — Act V, Scene 8 — exchange (QUEEN ELIZABETH) [4]" data-chapter="Scene 8" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Stay: yet look back with me unto the Tower.— Pity, you ancient stones, those tender babes, Whom envy hath immured within your walls. Rough cradle for such little pretty ones, Rude ragged [[Nurse|nurse]], old sullen playfellow For tender princes: use my babies [[Well|well]]. So foolish sorrow bids your stones farewell. Exeunt j. AFTER 4.4.22I |
-| [[King|KING]] [[Richard|RICHARD]] | You speak as if that I had slain my cousins. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Cousins indeed, and by their uncle cozened Of comfort, kingdom, kindred, [[Freedom|freedom]], life. Whose hand soever lanced their tender hearts, Thy head all indirectly gave direction. No [[Doubt|doubt]] the murd‘rous knife was dull and blunt Till it was whetted on thy stone-hard heart To revel in the entrails of my lambs. But that still use of grief makes wild grief tame, My tongue should to thy ears not name my boys Till that my nails were anchored in thine eyes— And I in such a desp’rate bay of [[Death|death]], Like a poor barque of sails and tackling reft, Rush all to pieces on thy rocky bosom. k. AFTER 4.4.273 |
-| [[King|KING]] [[Richard|RICHARD]] | Say that I did all this for [[Love|love]] of her. |
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | Nay, then indeed she cannot choose but hate thee, Having bought [[Love|love]] with such a bloody spoil. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_8--05_monologue_king_richard" data-title="Richard III — Act V, Scene 8 — monologue (KING RICHARD) [5]" data-chapter="Scene 8" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] [[Richard|RICHARD]] | Look what is done cannot be now amended. Men shall deal unadvisedly sometimes, Which after-hours gives leisure to repent. If I did take the kingdom from your sons, To make amends I’ll give it to your daughter. If I have killed the issue of your womb, To quicken your increase I will beget Mine issue of your [[Blood|blood]] upon your daughter. A grandam’s name is little less in [[Love|love]] Than is the doting title of a mother. They are as children but one step below, Even of your mettall, of your very [[Blood|blood]]: Of all one [[Pain|pain]], save for a [[Night|night]] of groans Endured of her for whom you bid like sorrow. Your children were vexation to your youth, But mine shall be a comfort to your age. The loss you have is but a son being [[King|king]], And by that loss your daughter is made [[Queen|queen]]. I cannot make you what amends I would, Therefore accept such kindness as I can. Dorset your son, that with a fearful [[Soul|soul]] Leads discontented steps in foreign soil, This fair alliance quickly shall call [[Home|home]] To high promotions and great dignity. The [[King|king]] that calls your beauteous daughter wife, Familiarly shall call thy Dorset brother. Again shall you be mother to a [[King|king]], And all the ruins of distressful times Repaired with [[Double|double]] riches of content. What? We have many goodly days to see. The liquid drops of [[Tears|tears]] that you have shed Shall come again, transformed to [[Orient|orient]] pearl, Advantaging their loan with interest Of ten times [[Double|double]] gain of happiness. Go then, my mother, to thy daughter go. Make bold her bashful years with your experience. Prepare her ears to hear a wooer’s tale. Put in her tender heart th’aspiring flame Of golden sovereignty. Acquaint the Princess With the sweet silent hours of [[Marriage|marriage]] joys. And when this arm of mine hath chastised The petty [[Rebel|rebel]], dull-brained [[Buckingham]], Bound with triumphant garlands will I come And lead thy daughter to a conqueror’s bed— To whom I will retail my conquest won, And she shall be sole victoress: Caesar’s Caesar. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_8--06_exchange_queen_elizabeth" data-title="Richard III — Act V, Scene 8 — exchange (QUEEN ELIZABETH) [6]" data-chapter="Scene 8" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Elizabeth|QUEEN ELIZABETH]] | What were I best to say? Her father’s brother Would be her lord? Or shall I say her uncle? Or he that slew her brothers and her uncles? Under what title shall I woo for thee, That God, the law, my [[Honour|honour]], and her [[Love|love]] Can make seem pleasing to her tender years? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_8--07_monologue_with" data-title="Richard III — Act V, Scene 8 — monologue (WITH) [7]" data-chapter="Scene 8" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WITH | [[Venus]] and [[Adonis]], Shakespeare made his debut in print: his signature appears at the end of the formal dedication to the Earl of Southampton in which the poem is described as ‘the first heir of my invention’—though Shakespeare had already begun to make his mark as a playwright. A terrible outbreak of plague, which was to last for almost two years, began in the [[Summer|summer]] of I592, and [[London]]’s theatres were closed as a precaution against infection. Probably Shakespeare wrote his poem at this [[Time|time]], perhaps seeing a need for an alternative career. It is an early example of the Ovidian erotic narrative [[Poems|poems]] that were fashionable for about thirty years from 1589; the best known outside Shakespeare is Christopher Marlowe’s [[Hero]] and Leander, written at about the same [[Time|time]]. Ovid, in Book I0 of the Metamorphoses, tells the story of [[Venus]] and [[Adonis]] in about seventy-five lines of verse; Shakespeare’s poem—drawing, probably, on both the original Latin and [[arthur|Arthur]] Golding’s English version (I565-7)—is I,I94 lines long. He modified Ovid’s tale as [[Well|well]] as expanding it. In Ovid, the handsome young mortal [[Adonis]] returns the [[Love|love]] urged on him by [[Venus]], the goddess of [[Love|love]]. Shakespeare turns [[Adonis]] into a bashful teenager, unripe for [[Love|love]], who shies away from her advances. In Ovid, the [[lovers]] go hunting together (though [[Venus]] chases only relatively harmless beasts, and advises [[Adonis]] to do the same); in Shakespeare, [[Adonis]] takes to the hunt rather as a respite from [[Venus]]’ remorseless attentions. Whereas Ovid’s [[Venus]] flies off to Cyprus in her dove-drawn chariot and returns only after [[Adonis]] has been mortally wounded, Shakespeare’s anxiously awaits the outcome of the chase. She hears the yelping of [[Adonis]]’ hounds, sees a bloodstained boar, comes upon [[Adonis]]’ defeated [[dogs]], and at last finds his [[Body|body]]. In Ovid, she metamorphoses him into an anemone; in Shakespeare, [[Adonis]]’ [[Body|body]] melts away, and [[Venus]] plucks the purple and white flower that springs up in its place. Shakespeare’s only addition to Ovid’s narrative is the episode (259-324) in which [[Adonis]]’ stallion lusts after a mare, so frustrating [[Adonis]]’ attempt to escape [[Venus]]’ embraces. But there are many rhetorical elaborations, such as [[Venus]]’ speech of attempted seduction (95-1174), her disquisition on the dangers of boar-hunting (6I3-7I4), her metaphysical explanation of why the [[Night|night]] is dark (72I-68), [[Adonis]]’ reply (769-8I0), culminating in his eloquent contrast between lust and [[Love|love]], and [[Venus]]’ lament over his [[Body|body]] (I069-II64). [[Venus]] and [[Adonis]] is a mythological poem whose landscape is inhabited by none but the [[lovers]] and those members of the animal kingdom—the lustful stallion, the timorous hare (679-708), the sensitive snail (I033-6), and the savage boar—which reflect their passions. The boar’s disruption of the harmony that existed between [[Adonis]] and the [[Animals|animals]] will, says [[Venus]], result in eternal discord: ‘Sorrow on [[Love|love]] hereafter shall attend’ (II36). In Shakespeare’s own [[Time|time]], [[Venus]] and [[Adonis]] was his most frequently reprinted work, with at least ten editions during his life, and another half-dozen by I636. Like his other non-dramatic works, it was not included in the Folio of I623. It fell out of fashion until Coleridge wrote enthusiastically about it in Biographia Literaria (I8I7). Though its conscious artifice may limit its appeal, it is a brilliantly sophisticated erotic [[Comedy|comedy]], a counterpart in verbal ingenuity to [[Love]]’s Labour’s Lost; the [[Comedy|comedy]] of the poem, like that of the play, is darkened and deepened in its later stages by the [[Shadow|shadow]] of sudden [[Death|death]]. Vilia miretur vulgus; mihi flavus [[Apollo]] Pocula Castalia plena ministret aqua. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_8--08_exchange_to_the_right_honourable" data-title="Richard III — Act V, Scene 8 — exchange (TO THE RIGHT HONOURABLE HENRY) [8]" data-chapter="Scene 8" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| TO THE RIGHT HONOURABLE | HENRY WRIOTHESLEY, EARL OF SOUTHAMPTON, AND BARON OF TITCHFIELD Right Honourable, I know not how I shall offend in dedicating my unpolished lines to your lordship, nor how the world will censure me for choosing so strong a prop to support so weak a burden. Only, if your [[Honour|honour]] seem but pleased, I account myself highly praised, and vow to take advantage of all idle hours till I have honoured you with some graver labour. But if the first heir of my invention prove deformed, I shall be sorry it had so noble a godfather, and never after ear so barren a land for [[Fear|fear]] it yield me still so bad a harvest. I leave it to your honourable survey, and your [[Honour|honour]] to your heart’s content, which I wish may always answer your own wish and the world’s hopeful expectation. Your [[Honour|honour]]’s in all duty, William Shakespeare |
 
 
 

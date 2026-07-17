@@ -6537,49 +6537,6 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_06_the_crime_of_the_communist" data-title="scandal Fr Brown — The Crime of the Communist" data-chapter="The Crime of the Communist" data-kind="story"></span>
-
-
-SIX: The Crime of the Communist
-
-Three men came out from under the lowbrowed Tudor arch in the mellow
-facade of Mandeville College, into the strong evening sunlight of a
-[[Summer|summer]] day which seemed as if it would never end; and in that sunlight
-they saw something that blasted like [[Lightning|lightning]]; [[Well|well]] - fitted to be the
-shock of their lives.
-
-Even before they had realized anything in the way of a catastrophe, they
-were conscious of a contrast. They themselves, in a curious quiet way,
-were quite harmonious with their surroundings. Though the Tudor arches
-that ran like a cloister round the College gardens had been built four
-hundred years ago, at that moment when the Gothic fell from heaven and
-bowed, or almost crouched, over the cosier chambers of Humanism and the
-Revival of Learning - though they themselves were in modern clothes
-(that is in clothes whose ugliness would have amazed any of the four
-centuries) yet something in the spirit of the place made them all at
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-SEI: Il delitto del comunista
-
-Tre uomini uscirono di sotto il basso arco Tudor nella morbida facciata del
-Mandeville College, dentro la forte luce serale di una giornata d'[[Summer|estate]]
-che pareva non dovesse finire mai; e in quella luce videro qualcosa che folgorò
-come un [[Lightning|fulmine]]; [[Well|ben]] atto a essere lo shock della loro vita.
-
-Ancora prima d'aver còlto alcunché che somigliasse a una catastrofe, ebbero
-coscienza di un contrasto. Essi medesimi, in una loro curiosa e quieta maniera,
-s'accordavano perfettamente con ciò che li circondava. Sebbene gli archi Tudor
-che correvano come un chiostro intorno ai giardini del College fossero stati
-eretti quattrocento anni addietro, in quell'istante in cui il Gotico cadde dal
-cielo e s'inchinò, o quasi si rannicchiò, sopra le più accoglienti stanze
-dell'Umanesimo e della Rinascita degli studi — sebbene essi stessi vestissero
-abiti moderni (vale a dire abiti la cui bruttezza avrebbe stupito qualunque dei
-quattro secoli), pure qualcosa nello spirito del luogo li rendeva tutti a
-
-
-
 <span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_01" data-title="scandal Fr Brown — The Scandal of Father Brown (part 1)" data-chapter="The Scandal of Father Brown" data-kind="excerpt"></span>
 
 
@@ -12089,6 +12046,49 @@ Egli non può mutare; benché tu non abbia la tua beatitudine,
 Per sempre tu salterai; ed egli sarà Blue.
 
 Recitando questa notevole citazione di Keats, con una certa emozione, Padre Brown si infilò la piccola paletta sotto un braccio, e dando la mano a due dei bambini, s'incamminò solennemente su per la spiaggia verso il tè.
+
+
+
+<span class="atom-split" data-atom="story_06_the_crime_of_the_communist" data-title="scandal Fr Brown — The Crime of the Communist" data-chapter="The Crime of the Communist" data-kind="story"></span>
+
+
+SIX: The Crime of the Communist
+
+Three men came out from under the lowbrowed Tudor arch in the mellow
+facade of Mandeville College, into the strong evening sunlight of a
+[[Summer|summer]] day which seemed as if it would never end; and in that sunlight
+they saw something that blasted like [[Lightning|lightning]]; [[Well|well]] - fitted to be the
+shock of their lives.
+
+Even before they had realized anything in the way of a catastrophe, they
+were conscious of a contrast. They themselves, in a curious quiet way,
+were quite harmonious with their surroundings. Though the Tudor arches
+that ran like a cloister round the College gardens had been built four
+hundred years ago, at that moment when the Gothic fell from heaven and
+bowed, or almost crouched, over the cosier chambers of Humanism and the
+Revival of Learning - though they themselves were in modern clothes
+(that is in clothes whose ugliness would have amazed any of the four
+centuries) yet something in the spirit of the place made them all at
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+SEI: Il delitto del comunista
+
+Tre uomini uscirono di sotto il basso arco Tudor nella morbida facciata del
+Mandeville College, dentro la forte luce serale di una giornata d'[[Summer|estate]]
+che pareva non dovesse finire mai; e in quella luce videro qualcosa che folgorò
+come un [[Lightning|fulmine]]; [[Well|ben]] atto a essere lo shock della loro vita.
+
+Ancora prima d'aver còlto alcunché che somigliasse a una catastrofe, ebbero
+coscienza di un contrasto. Essi medesimi, in una loro curiosa e quieta maniera,
+s'accordavano perfettamente con ciò che li circondava. Sebbene gli archi Tudor
+che correvano come un chiostro intorno ai giardini del College fossero stati
+eretti quattrocento anni addietro, in quell'istante in cui il Gotico cadde dal
+cielo e s'inchinò, o quasi si rannicchiò, sopra le più accoglienti stanze
+dell'Umanesimo e della Rinascita degli studi — sebbene essi stessi vestissero
+abiti moderni (vale a dire abiti la cui bruttezza avrebbe stupito qualunque dei
+quattro secoli), pure qualcosa nello spirito del luogo li rendeva tutti a
 
 
 

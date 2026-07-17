@@ -2571,879 +2571,6 @@ If the Work can raise the income of but one poor journalist, or produce earnings
 
 
 
-<span class="atom-split" data-atom="story_08_the_personal_par" data-title="Caliban’s Guide to Letters — THE PERSONAL PAR." data-chapter="THE PERSONAL PAR" data-kind="story"></span>
-
-
-THE PERSONAL PAR.
-
-CLOSELY CONNECTED WITH the Interview, and forming a natural sequel to any treatise upon that Exercise, is the Personal Par. It contains, as it were, all the qualities of the Interview condensed into the smallest possible space; it advertises the subject, instructs the reader, and is a yet sharper trial of the young writer’s character.
-
-The homely advice given in the preceding section, where mention was made of “pride” and of “pockets,” applies with far more force to the Personal Par. With the Interview, it is well to mask one’s name; with the Personal Par, it is absolutely necessary to conceal it. The danger the author runs is an attraction to Mrs. Railston, who in her book strongly advises this form of sport — she herself does Bess in All About Them. On the other hand, Lieut.-Col. Lory says, in his Journalist’s Vade-mecum (): “A Personal Par should never be penned by the Aspirant to Literary honours. Undetected, it renders life a burden of suspense; detected, it spells ruin.” He quotes twenty-five well-known peers and financiers who rose by steadily refusing to do this kind of work during their period of probation on the press.
-
-The present guide, which is final, will run to no such extremes. Secrecy is indeed essential; yet there are three excellent reasons for writing Personal Pars, at least in early youth.
-
-(1.) The Personal Par is the easiest to produce of all forms of literature. Any man or woman, famous or infamous for any reason, is a subject ready to hand, and to these may be added all persons whatsoever living, dead, or imaginary; and anything whatever may be said about them. Editors, in their honest dislike of giving pain, encourage the inane, and hence more facile, form of praise. Moreover, it takes but a moment to write, and demands no recourse to books of reference.
-
-(2.) The Personal Par can always be placed — if not in England, then in America. Though written in any odd moments of one’s leisure time, it will always represent money; and the whole of the period from July to October, when ordinary work is very slack, can be kept going from the stock one has by one.
-
-(3.) It has a high economic value, not only in the price paid for it, but indirectly, as an advertisement. This is a point which Lieut.-Col. Lory and Mrs. Railston both overlook.
-
-A short specimen, written in August, 1885, at the very beginning of the movement, by my friend, Mrs. Cowley (the Folk-Lorist, not the Poetess), for the Gazette, will make these three points clear: —
-
-“The capture of that rare bird, the Cross-tailed Eagle, which is cabled from St. Fandango’s, recalls the fact that the famous Picture ‘Tiny Tots’ was formerly in the possession of the present Governor of that island. The picture is put up to auction by Messrs. Philpots next Saturday, and, judging by the public attendance at their galleries during the last fortnight, the bidding should be brisk.”
-
-There is no such bird as the Cross-tailed Eagle, nor any such person as the Governor of St. Fandango’s, nor indeed is there even any such island. Yet Mrs. Cowley was paid 5s. by the Gazette for her little bit of research; it was copied into most of the papers, with acknowledgment, and she got a commission from Messrs. Philpots. The former owner of “Tiny Tots” (Mr. Gale of Kew, a wealthy man) wrote a long and interesting letter explaining that some error had been made, and that not he, but his wife’s father, had been an Inspector (not Governor) in St. Vincent’s. He begged the writer to call on him — her call was the origin of a life-long friendship, and Mrs. Cowley was mentioned in his will.
-
-I must detain the student no longer with what is, after all, a very small corner of our art, but conclude with a few carefully chosen examples before proceeding to the next section on Topographical Essays.
-
-Examples.
-
-Wit and Wisdom of the Upper Classes.
-
-Her Royal Highness the Hereditary Grand Duchess of Solothurn was driving one day down Pall Mall when she observed a poor pickpocket plying his precarious trade. Stopping the carriage immediately, she asked him gently what she could do for him. He was dumbfounded for a reply, and, withdrawing his hand from the coat-tail of an elderly major, managed to mumble out that he was a widower with a wife and six children who were out of work and refused to support him, though earning excellent wages. This reasoning so touched the Princess, that she immediately gave him a place as boot-black in the Royal Palace of Kensington. Discharged from this position for having prosecuted H.R.H. for six months’ arrears of wages, he set up as a publican at the “Sieve and Pannier” at Wimbledon, a licence of some ten thousand pounds in value, and a standing example of the good fortune that attends thrift and industry.
-
-* * *
-
-It is not generally known that the late Lord Grumbletooth rose from the ranks. His lordship was a singularly reticent man, and the matter is still shrouded in obscurity. He was, however, a politician in the best sense of the word, and owed his advancement to the virtues that have made England famous. The collection of domestic china at Grumbletooth House will vie with any other collection at any similar house in the kingdom.
-
-* * *
-
-Dr. Kedge, whose death was recently announced in the papers, was the son of no less a personage than Mr. Kedge, of the Old Hall, Eybridge. It is hardly fair to call him a self-made man, for his father paid a considerable sum both for his education and for the settlement of his debts on leaving the University. But he was a bright-eyed, pleasant host, and will long be regretted in the journalistic world.
-
-* * *
-
-Lady Gumm’s kindness of heart is well known. She lately presented a beggar with a shilling, and then discovered that she had not the wherewithal to pay her fare home from Queen’s Gate to 376, Park Lane (her ladyship’s town house). Without a moment’s hesitation she borrowed eighteen pence of the grateful mendicant, a circumstance that easily explains the persecution of which she has lately been the victim.
-
-* * *
-
-Lord Harmbury was lately discovered on the top of a ‘bus by an acquaintance who taxed him with the misadventure. “I would rather be caught on a ‘bus than in a trap,” said the witty peer. The mot has had some success in [[London]] Society.
-
-* * *
-
-Mr. Mulhausen, the M.F.H. of the North Downshire Hunt, has recently written an article on “Falconry” for the Angler’s World. The style of the “brochure” shows a great advance in “technique,” and cannot fail to give a permanent value to his opinion on Athletics, Gentleman-farming, and all other manly sports and pastimes. Mr. Mulhausen is, by the way, a recently-elected member of the Rock-climbers’ Club, and is devoted to Baccarat.
-
-* * *
-
-There is no truth in the rumour that Miss Finn-Coul, daughter of Colonel Wantage-Brown, was about to marry her father’s second wife’s son by an earlier marriage, Mr. James Grindle-Torby. The Colonel is a strong Churchman, and disapproves of such unions between close relatives; moreover, as C.O., he has forbidden the young lieutenant (for such is his rank) to leave the barracks for a fortnight, a very unusual proceeding in the Hussars.
-
-* * *
-
-Lady Sophia Van Huren is famous for her repartee. In passing through Grosvenor Gate an Irish beggar was heard to hope that she would die the black death of Machushla Shawn. A sharp reply passed her lips, and it is a thousand pities that no one exactly caught its tenor; it was certainly a gem.
-
-* * *
-
-It is well known that the Bishop of Pontygarry has no sympathy with the extreme party in the Church. Only the other day he was so incensed at a service held in Ribble-cum-Taut, that he fought the officiating clergyman for half an hour in his own garden, and extorted a complete apology. He also forbad anyone in the village ever to go to Church again, and himself attended the Methodist Chapel on the ensuing Sunday. Had we a few more prelates of the same mettle things would be in a very different condition.
-
-
-
-
-<span class="atom-split" data-atom="story_09_the_topographical_article" data-title="Caliban’s Guide to Letters — THE TOPOGRAPHICAL ARTICLE." data-chapter="THE TOPOGRAPHICAL ARTICLE" data-kind="story"></span>
-
-
-THE TOPOGRAPHICAL ARTICLE.
-
-THE TOPOGRAPHICAL ARTICLE.
-
-THE TOPOGRAPHICAL ARTICLE is so familiar as to need but little introduction.... Personally, I do not recommend it; it involves a considerable labour; alone, of all forms of historical writing, it demands accuracy; alone, it is invariably un-paid.
-
-Nevertheless, there are special occasions when it will be advisable to attempt it; as — in order to please an aged and wealthy relative; in order to strike up a chance acquaintance with a great Family; in order to advertise land that is for sale; in order to prevent the sale, or to lower the price (in these two last cases it is usual to demand a small fee from the parties interested); in order to vent a just anger; in order to repay a debt; in order to introduce a “special” advertisement for some manure or other; and so forth. Most men can recall some individual accident when a training in Topographical Writing would have been of value to them.
-
-There even arise, though very rarely, conditions under which this kind of writing is positively ordered. Thus, when the Editor of the Evening Mercury changed his politics for money on the 17th of September, 1899, all that part of his staff who were unable to drop their outworn shibboleths were put on to writing up various parts of [[London]] in the legal interval preceding their dismissal, and a very good job they made of it.
-
-Never, perhaps, were the five rules governing the art more thoroughly adhered to. A land-owning family was introduced into each; living persons were treated with courtesy and affection; a tone of regret was used at the opening of each; each closed with a phrase of passionate patriotism; and each was carefully run parallel to the course of English History in general; and the proper praise and blame allotted to this name and that, according to its present standing with the more ignorant of the general public.
-
-It was in this series (afterwards issued in Book form under the title, [[London]]! My [[London]]) that the following article — which I can put forward as an excellent model — was the contribution of my friend, Mr. James Bayley. It may interest the young reader (if he be as yet unfamiliar with our great London names) to know that under the pseudonym of “Cringle” is concealed the family of Holt, whose present head is, of course, the Duke of Sheffield.
-
-DISAPPEARING LONDON: MANNING GREEN.
-
-At a moment when a whole district of the metropolis is compulsorily passing into the hands of a soulless corporation, it is intolerable that the proprietors of land in that district should receive no compensation for the historical importance of their estates. Manning Green, which will soon be replaced by the roar and bustle — or bustle and confusion, whichever you like — of a great railway station, is one of those centres whence the great empire-builders of our race proceeded in past times.
-
-For many centuries it was a bare, bleak spot, such as our England could boast by the thousand in the rude but heroic days when the marvellous fortunes of the Anglo-Saxon race were preparing in the slow designs of Providence. For perhaps a generation it was one of those suburban villages that are said by a contemporary poet to “nestle in their trees.” Doubtless it sent forth in the sixties many brave lads to fight for the liberties of Europe in Italy or Denmark, but their humble record has perished. Such a thought recalls the fine lines of Gray: —
-
-“Some mute inglorious Milton here may rest;
-
-Some Cromwell guiltless of his country’s blood.”
-
-Twenty to twenty-five years ago the advancing tide of the capital of the world swept round this little outlying place; it was submerged, and soon made part of greater London.
-
-Relics are still to be discovered of the period when Manning Green had something rural about it, as Highgate and South Croydon have now. Thus “The Jolly Drover” (whose license was recently refused because it was not a tied house) recalls the great sheep-droves that once passed through the village from the north. It is now rare indeed to meet with a countryman driving his flock to market through the streets of London, though the sight is not absolutely unknown. The present writer was once stopped in the early morning by a herd of oxen south of Westminster Bridge, and what may seem more remarkable he has frequently seen wild animals in the charge of negroes pass through Soho on their way to the Hippodrome. It is as Tennyson says: —
-
-“The old order changes, giving place to the new,”
-
-until at last
-
-“Beyond these voices there is peace.”
-
-Another relic of the old village of Manning Green is the Court Baron, which is still held (how few Londoners know this!) once a year, for the purpose of providing a small but regular income to a relative of the Lord Chancellor. This Court was probably not held before the year 1895, but it is none the less of extreme interest to antiquarians.
-
-The first mention of Manning Green in history is in a letter to Edward Lord Cringle, the pioneer and ally of the beneficent reforms that remain inseparably associated with the name of the eighth Henry. This letter is written from prison by one Henry Turnbull, a yeoman, and contains these phrases: —
-
-“For that very certainly, my good Lord, I never did this thing, no, nor met the Friar nor had any dealing with him. And whatever I did that they say is treason I did it being a simple man, as following the Mass, which I know is welcome to the King’s Majesty, and not knowing who it was that sang it, no, nor speaking to him after, as God knows. And, my dear Lord, I have had conveyed to you, as you know, my land of Horton with the Grey farm and the mere called Foul Marsh or Manning, having neither son nor any other but my own life only, and for that willingly would I give you this land, and so I have done; and, my good Lord, speak for me at Court in this matter, remembering my gift of the land....”
-
-This Turnbull was afterwards executed for treason at Tyburn. There is still a Turnbull in the parish, but as his father’s name was Weissenstein he is very unlikely to have any connection with the original family of yeomen.
-
-The land (if land it could then be called) did not, oddly enough, remain long in the Cringle family. It was sold by Lord Edward to the Carmelites, and on the dissolution of that order was returned by the grateful monarch to its original owner. We next find “Manning” or “Foul Marsh” drained during that period of active beneficence on the part of the great landlords which marked the seventeenth century. We are acquainted of this fact in our agricultural history by an action recorded in 1631, where it appears that one Nicholas Hedon had gone to shoot snipe, as had been once of common right in the manor, and had so trespassed upon land “now drained at his lordship’s charges, and by him enclosed.” Hedon lost both ears, and was pilloried.
-
-Manning is probably alluded to also in a strong protest of the old Liberal blood against ship-money, to which exaction it contributed 1s. 4d. The sum need not excite ridicule, as it represents quite 4s. of our present currency. The vigorous protest of the family against this extortion is one of the finest examples of our sterling English spirit on the eve of the Civil War. The money was, however, paid.
-
-In the troubles of the Civil Wars Manning ( now no longer a marsh, but a green) was sold to John Grayling, but the deed of conveyance being protested at the Restoration, it was restored to its original owners at the intruder’s charge by an action of Novel Disseizin. After Monmouth’s rebellion, Manning was in danger of suffering confiscation, and was hurriedly sold to a chance agent (William Greaves) at so low a price as to refute for ever all insinuations of rapacity upon the part of its now ducal owners. It was happily restored by a grateful nation as a free gift after the glorious Revolution of 1688, and the agent, who had only acquired it by taking advantage of the recent troubles, was very properly punished. King William congratulated the family in a famous epigram, which a natural ignorance of the Taal forbids us to transcribe.
-
-In 1718, Manning being still pasture of a somewhat spongy nature (Guy, in his report, calls it “soggy and poor land, reedy, and fit for little”), there was a rumour that the New River canal would pass through it, and it was sold to Jonathan Hemp. The New River was proved, however, in the pleadings before both Houses of Parliament, to have no necessity for this canal, and Hemp was compelled (as it was a mere speculation on his part) to sell it back again to its distinguished owner at a merely nominal price.
-
-Nothing further can be traced with regard to Manning Green (as it was now commonly called) till the report in 1780 that coal had been found beneath it. Such a deposit so near the metropolis naturally attracted the attention of merchants, and the Family sold the place for the last time to a merchant of the name of Hogg for £20,000.
-
-The report proved false; yet, oddly enough, it was the beginning of Mr. Hogg’s prosperity.
-
-We have no space to dwell on this interesting character. “Hogg’s Trustees” are an ecclesiastical household word in our principal watering-places, and the “Hogg Institute” at Brighton is a monument of Christian endeavour. He was a shrewd bargainer, a just man, and upon his mantel-pieces were to be discovered ornaments in alabaster representing Joshua and Richard Cœur de Lion.
-
-The growth of the metropolis entered largely into Mr. Hogg’s enlightened prevision of the future, and he obtained promises from a large number of people to build houses upon his land, which houses should, after a term of years, become his (Hogg’s) property, and cease to belong to those who had paid to put them up. How Mr. Hogg managed to obtain such promises is still shrouded in mystery, but the universal prevalence of the system to-day in modern England would surely prove that there is something in our Imperial race which makes this form of charity an element of our power.
-
-Mr. Hogg’s only daughter married Sir John Moss, Lord Mayor; and Mr. Moss, the son, was the father of the present Lord Hemelthorpe. Thus something romantic still clings to poor Manning Green, of which Lord Hemelthorpe was, until his recent bankruptcy, the proprietor.
-
-There is little more to be said about Manning Green. The Ebenezer Chapel has a history of its own, written by the Rev. Napoleon Plaything, son of Mr. Honey Q. Plaything, of Bismark, Pa. The success of the boys’ club has been detailed in God’s London, by Mr. Zitali, of the “Mission to the Latin Races.” The book is well worth buying, if only for this one essay, written, as it is, by a brand saved from the burning. Mr. Zitali was for a long time in the employ of Messrs. Mañanâ, the restaurant keepers, and no one is better fitted to deal strenuously with the awful problems of our great cities.
-
-Manning Green is about to disappear, and all its wonderful associations will become (in the words of Swinburne)
-
-“Smoke, or the smoke of a smoke.”
-
-But until it disappears, and until its purchase price is finally fixed by the committee, its historical associations will still remain dear to those who (like the present writer) are interested in this corner of the Motherland. That men of our blood, and men speaking our tongue — nay, that those neither of our blood, nor speaking our tongue, but devoted to a common empire — will remember Manning Green when the sale is effected, is the passionate and heartfelt prayer of
-
-James Bayley.
-
-
-
-
-<span class="atom-split" data-atom="story_10_on_editing" data-title="Caliban’s Guide to Letters — ON EDITING." data-chapter="ON EDITING" data-kind="story"></span>
-
-
-ON EDITING.
-
-ON EDITING.
-
-I COME NOW to that part of my subject where pure literature is of less moment than organization and the power of arrangement; and the last two divisions of my great task concern work which has been written by others, and with which the journalist has to deal in the capacity of manager rather than that of author. These are, a few notes upon editing, and some further remarks upon Revelations, that is, unexpected and more or less secret political announcements.
-
-I deal here first with editing, by which I do not mean the management of a whole newspaper — for this has no connection whatever with the art of letters — but the selection, arrangement, and annotating of work produced by another hand, and entrusted to the journalist for publication in his columns. The work is far easier than might appear at first sight.
-
-The first rule in connection with it is to offend as little as possible, and especially to spare the living.
-
-The second rule is to cut down the matter to fit the space at your disposal. With the exception of a number of MSS. so small that they may be neglected in the calculation, it does not matter in the least what you cut out, so long as you remember that the parts remaining must make sense, and so long as you make this second rule fit in with the exigencies of the first.
-
-As for annotation, it is the easiest thing in the world. True to the general principle which governs all good journalism, that the giving of pleasure should always be preferred to the giving of pain, let your annotations pleasantly recall to the reader his own stock of knowledge, let them be as obvious as possible, and let him not learn too much from your research. This method has the additional advantage, that it also saves you an infinity of trouble.
-
-The matter is really not so elaborate as to need any further comment. I will proceed at once to my example, prefacing it only with the shortest explanatory statement, which will show how thoroughly it illustrates the rules I have just enunciated.
-
-The wife of one of the principal candidates for Parliament in our part of the country begged Dr. Caliban to publish a simple, chatty diary, which her sister (who was married to a neighbouring squire) had kept during some years. Dr. Caliban was too courteous to refuse, and had too profound an acquaintance with the rural character to despise this kind of copy. On the other hand, he was compelled to point out that he could not allow the series to run through more than six months, and that he should, therefore, be compelled to cut it down at his discretion. Full leave was given him, and I do not think any man could have done the work better.
-
-Thus the lady’s husband, though a good Englishman in every other way (an indulgent landlord and a sterling patriot), was German by birth and language. Here was a truth upon which it would have been uncharitable and useless to insist — a truth which it was impossible to conceal, but which it was easy to glide over; and Dr. Caliban, as the student will see in a moment, glode over it with the lightest of feet.
-
-Again, a very terrible tragedy had taken place in the Burpham family, and is naturally alluded to by their near neighbour. It was impossible to cut out all mention of this unhappy thing, without destroying the diary; but in Dr. Caliban’s edition of the MS., the whole is left as vague as may be.
-
-The particular part which I have chosen for a model — I think the most admirable piece of editing I know — is from that week of the diary which concerns the outbreak of the recent difficulty with France, a difficulty luckily immediately arranged, after scarcely a shot had been fired, by the mutual assent of the two nations and (as it is whispered) by the direct intervention of High Authority.
-
-The motto which Dr. Caliban chose for the whole series (called, by the way, “Leaves from a Country Diary”), is a fine sentence from the works of Mr. Bagehot.
-
-LEAVES FROM A COUNTRY DIARY.
-
-“An aristocratic body firmly rooted in the national soil is not only the permanent guarantee of the security of the State, but resembles, as it were, a man better instructed than his fellows — more prompt, possessed of ample means, and yet entrusted with power: a man moreover who never dies.”
-
-February 2nd, 19 — . — To-day is the Purification. The lawn looked lovely under its veil of snow, and the vicar came in to lunch. We did not discuss the question of the service, because I know that Reuben disapproves of it. The vicar told me that Mrs. Burpham is in dreadful trouble. It seems that the Bank at Molesworth refused to cash Algernon’s cheque, and that this led Sir Henry Murling to make investigations about the Chattington affair, so that he had to be asked to resign his commission. To be sure it is only in the Militia, but if it all comes out, it will be terrible for the Monsons. They have already had to dismiss two servants on these grounds. Jane has a sore throat, and I made her gargle some turpentine and oil; Ali Baba’s hock is still sore. I do hope I shall keep my old servants, it is an unwelcome thing to dismiss them in their old age and the house is never the same again. They meet to-morrow at Gumpton corner, but not if this weather holds.
-
-February 3rd, 19 — . — It is thawing. There are marks of boots across the lawn on what is left of the snow, and I am afraid some one must have gone across it. I wish Reuben would come back. Called at Mrs. Burpham’s, who is in dreadful trouble. Algernon has gone up to town to see his solicitor. Poor Mrs. Burpham was crying; she is so proud of her boy. He says it will be all right. They are very bitter against the Bank, and Sir Henry, and the regiment, and the Monsons. I fear they may quarrel with Binston Park also. Mrs. Burpham was so curious about them; Jane is no better.
-
-February 4th, 19 — . — Reuben came home suddenly by the 2.40 with Mr. Ehrenbreitstein and Lord Tenterworth. He asked me to put Mr. Ehrenbreitstein in the Blue room and Lord Tenterworth in the Parrot room opposite the broom and pail place, where Aunt Marjory used to sleep. I shall have to clear the clothes out of the drawers. Just before dinner Mr. Bischoffen came in from the station. Reuben told me he had asked him. I wish he would give me longer notice. He brought a secretary with him who cannot talk English. I think he must be a Spaniard — he is so dark. Jane can hardly speak, her throat is so bad; I told her she might stay in bed to-morrow till nine.
-
-February 5th, 19 — . — Mrs. Burpham is certainly in dreadful trouble. She tells me Algernon has written from St. Malo saying it will be all right. It was very foolish and imprudent of him to go over there just now with all this trouble on with France. If only he had stayed at home (Mrs. Burpham says) she would not have minded so much, but she is afraid of his getting killed. It seems they are so savage at St. Malo. Only the other day an English lady had a stone thrown in her direction in the street. Mr. Bischoffen’s secretary is not a Spaniard; I think he is a Pole; his name is Brahms. There was a difficulty about the asparagus last night. It seems the Germans do not eat it with their fingers. Reuben said I ought to have got little silver pincers for it. I remember seeing them in his father’s house, but papa said they were very vulgar. Then Reuben used to apologise for them, and say that his people were old fashioned, which was nonsense, of course. I reminded Reuben of this, and he said, “Ach! Gott!” and I had to leave the room. Ali Baba is all right; he took a piece of sugar from my hand; but when I felt his hock he kicked Jones severely. I fear Jones is really injured, and I have sent for Dr. Minton and for the veterinary surgeon.
-
-February 6th, 19 — . — Dr. Minton dined here last night before going to set Jones’ leg, and I gave the veterinary surgeon supper in the old schoolroom. I am afraid Dr. Minton took too much wine, for he quarrelled with Mr. Ehrenbreitstein and Mr. Bischoffen about the danger of war with France. He said they had no right to speak, and got quite excited. Called again on Mrs. Burpham, and only appreciated fully to-day in what sad trouble she is. Algernon has telegraphed from Paris saying it will be all right. Meanwhile she has certainly quarrelled with Binston Park, and she even spoke bitterly against the Duke, so that means another family gone — for the Duke is very proud. I see in the Standard that our Ambassador has delivered an ultimatum, and that the French are doing all they can to shirk war. That is what Mr. Bischoffen and Reuben said they would do, but they must be taught a lesson. Newfoundlands have fallen, but Reuben says they must rise after the war. I do hope they will. The dear Bishop called. He says this war is a judgment on the French. Jane is much better, and can talk quite clearly, and Ali Baba is almost well. Also it has thawed now completely, and they can meet on Saturday as usual, so things are looking up all round.
-
-February 7th, 19 — . — Freddie goes to the Isle of Wight with the Lambtonshire Regiment, and Mrs. Burpham and the Bishop are both delighted, because it will bring him and Hepworth together. It would be such a solace to poor Mrs. Burpham if Freddie could see active service and get promotion; it would help to wipe out Algernon’s disgrace, for I fear there is now no doubt of it, though he says it is all right in his last letter, which is from Marseilles. Letters still come through from France, because our Ambassador said that if any tricks were played with them he would hold the French Government personally responsible, and so cowed them. The Bishop has gone to [[London]] with his family.
-
-February 8th, 19 — . — The Standard has a large map of the North of France, where the fighting will be. It is very interesting. Reuben and his friends have gone up to town again. I saw the Reserves marching through Molesworth to-day; they are going to garrison Portsmouth. The afternoon post did not come in. Reuben said he would telegraph, but I have not got any message. The 12.40 train was an hour late, so I suppose everything is upset by the war. Maria will have to come home by Bâle, and I do so dread the passage from Ostend for her; even the hour from Calais to Dover is more than she can bear. The vicar says that our Government will force the French to keep the Dover-Calais route open for civilians. He says it would be against the practice of civilised warfare to close it, and if that were done we should lay waste the whole country; but I fear he does not know much about the legal aspect of the thing: it is his heart, not his head that speaks. It is dreadful to think what I shall do with Mademoiselle when she comes home with Maria. One can’t blame her when one thinks that it is her own country that is going to be harried and her own brothers brought here as prisoners; but it will be very difficult all the same. The man who was killed at Bigley races was not a Frenchman after all: the crowd only thought he was because he had blacked his face like a negro. It seems that Sir Henry was very hard in court, and said that the ringleaders were lucky not to be indicted for manslaughter. It has frozen again, and it is very slippery in the drive. They are having fireworks or something at Portsmouth, to judge by the sound. Jones told Jane he thought there was a bonfire as well, because he could see a glare now and then in the sky from the window in his room. His leg is setting nicely.
-
-
-
-
-<span class="atom-split" data-atom="story_12_special_prose" data-title="Caliban’s Guide to Letters — SPECIAL PROSE." data-chapter="SPECIAL PROSE" data-kind="story"></span>
-
-
-SPECIAL PROSE.
-
-SPECIAL PROSE.
-
-MRS. CALIBAN BEGGED me to add a few words on “Special Prose,” and to subjoin an example of that manner. She has suggested for the latter purpose Mrs. Railston’s “Appreciation of William Shakespeare,” written as a preface for the Charing Cross Shakespeare in 1897. She has even been at the pains of asking Mrs. Railston’s leave to have it included in this volume, a permission that was at once granted, accompanied with the courteous request that Mrs. Railston’s name, address, and private advertisement should accompany the same.
-
-Were I dependent upon my own judgment alone, the wisdom of adding such a division at the close of these essays might seem doubtful. Special Prose is an advanced kind of literature, too great an attraction to which might at first confuse rather than aid the student; and I should hardly make a place for it in a straightforward little Text-book.
-
-Mrs. Caliban’s wishes in all matters concerning this work must be observed, and I have done what she desired me, even to the degree of printing Mrs. Railston’s advertisement, though I am certain that great Authoress does herself harm by this kind of insistence ... It is no business of mine....
-
-It is only fair to add that prose of this sort is the highest form of our Art, and should be the ultimate goal of every reader of this Guide. If, however, the student is bewildered in his first attempt to decipher it (as he very well may be), my advice to him is this: let him mark the point to which he has persevered, and then put the whole thing aside until he has had some little further practice in English letters. Then let him return, fresh from other work, some weeks later, and see if he cannot penetrate still further into the close-knit texture. Soon he will find it almost like his own tongue, and will begin to love and to understand.
-
-Not many months will pass before it will mean to him something more than life, as he once imagined, could contain.
-
-Having said so much, let me hasten to obey Mrs. Caliban’s command.
-
-WILLIAM SHAKESPEARE.
-
-An Appreciation.
-
-By Margaret Railston.
-
-How very manifestly well did not Montaigne (I think it was) say in his essay upon Value that the “inner part of Poesy is whilom hid, whilom bare, and it matters little whether it be bare or hidden.” That was a sentence such as our Wordsworth might have quoted at the high court of Plato when the poets were arraigned as unworthy to be rooted in his Republic. For the most part these dear poets of our tongue will rather have it bare than hidden, leaving the subtleties of “The Misanthrope” to another race, and themselves preferring the straight verbal stab of “The Idiot Boy” or “Danny Deever;” so that many of us see nothing in the Rhymed Heroics of the Grand Siècle. Yet Molière also had genius.
-
-“Molière a du génie et Christian été beau.”
-
-That sentence given nasally by a Coquelin to a theatre-full of People of the Middle-Class should convince also us of the Hither-North that flowers may blow in any season and be as various as multiplicity may.
-
-William Shakespeare, without all question and beyond any repining, is — or rather was — the first of our Poets, and was — or rather is — the first to-day. So that, with him for a well and the Jacobean Bible for a further spring of effort, our English Poets make up (“build” Milton called it) the sounding line. But William Shakespeare also is of us: he will have it on the surface or not at all; as a man hastening to beauty, too eager to delve by the way. And with it all how he succeeds! What grace and what appreciation in epithet, what subtle and sub-conscious effects of verb! What resonant and yet elusive diction! It is true Shakespeare, that line —
-
-“Rough winds do shake the darling buds of May.”
-
-And that other —
-
-“Or stoops with the Remover to remove.”
-
-And these are true Shakespeare because in each there is we know not what of ivory shod with steel. A mixture of the light and the strong, of the subtle and the intense rescues his simple words from oblivion. But another, not of our blood, would have hidden far more; he shows it all, frankly disdaining artifice.
-
-Also the great Elizabethan needs room for his giant limbs, for his frame of thought and his thews of diction. Cite him just too shortly, choose but a hair’s breadth too mickle an ensample of his work, and it is hardly Poesy, nay, hardly Prose. Thus you shall have Othello — the Moor they call him — betrayed and raging, full of an African Anger. What does he say of it? Why very much; but if you are of those that cut out their cameos too finely; you slip into quoting this merely: —
-
-Oth. Hum! Hum!
-
-And that is not our Shakespeare at all, nor e’en our Othello. Oh! no, it is nothing but a brutish noise, meaning nothing, empty of tragedy, unwished for.
-
-It was Professor Goodle who said that “none needed the spaces of repose more than Shakespeare,” and taught us in these words that the poet must have hills and valleys; must recline if he is to rise. But does not Shakespeare, even in his repose, seem to create? The Professor will indeed quote to us the mere sprawling leisure of Stratford, and shame us with such lines as —
-
-Mac. — The Devil damn thee black, thou cream-faced loon,
-
-Where got’st thou that goose look?
-
-Which is Shakespeare at full length. But we also, that are not over sure of Shakespeare’s failing, can answer him with such excerpts as these: —
-
-Hen. — Therefore do thou, stiff-set Northumberland,
-
-Retire to Chester, and my cousin here,
-
-The noble Bedford, his to Glo’ster straight
-
-And give our Royal ordinance and word
-
-That in this fit and strife of empery
-
-No loss shall stand account. To this compulsion
-
-I pledge my sword, my person and my honour
-
-On the Great Seal of England: so farewell.
-
-Swift to your charges: nought was ever done
-
-Unless at some time it were first begun.
-
-This also is Shakespeare in his repose, but a better Shakespeare than he whom the Professor would challenge. For though there is here no work or strain in the thing, yet it reeks of English. It is like the mist over our valleys at evening, so effortless is it and so reposeful, and yet so native. Note the climax “On the Great Seal of England” and the quaint, characteristic folk-lore of the concluding couplet, with its rhyming effect. Note also how sparing is William Shakespeare of the strong qualificative, however just it may be. For when our moderns will speak hardly of “the tolerant kine” or “the under-lit sky,” or of “the creeping river like a worm upturned, with silver belly stiffened in the grass,” though they be by all this infinitely stronger, yet are they but the more condensed and self-belittled. Shakespeare will write you ten lines and have in all but one just and sharp adjective— “stiff-set;” for the rest they are a common highway; he cares not.
-
-And here he is in the by-paths; a meadow of Poesy. I have found it hidden away in one of the latter plays; the flowers of his decline: —
-
-“Fear no more the heat o’ the sun,
-
-Nor the furious winter’s rages;
-
-Now thine earthly task is done,
-
-Thou’rt gone home and ta’en thy wages.
-
-Golden lads and lasses must,
-
-Like chimney-sweepers, come to dust.”
-
-There is in that a line I swear no one but Shakespeare would have dared. “Thou’rt gone home and ta’en thy wages.” Commonplace? A text on the wall? A sermon-tag? All you will, but a frame for glory.
-
-This then is William Shakespeare in a last word. A man at work full of doing; the Ϝ ἔργον: glad if you saw the mark of the chisel; still more glad if you did not see it. And if it be queried why are such things written of him? Why do we of the last and woful days turn and return the matter of our past? We say this. Vixere Fortes; that is, no fame were enduring save by continued iterance and echo of similar praise, nor any life well earned in the public sheets that dared not touch on any matter and remodel all. It is for ourselves and for William Shakespeare that these things are done. For ourselves, that is a private thing to hide under the veil of the Home-lofe. For William Shakespeare, that is the public duty, that his fame may not fail in the noise of new voices. And we can borrow from him and return to him what he said of another with such distinction of plane and delicate observance of value: —
-
-“So long as men shall breathe and eyes can see,
-
-This lives, and living, this gives life to thee.”
-
-[Notices in this manner can be furnished at reasonable notice upon any poet, preferably a young or a modern poet, on the usual terms. The style is produced in seven distinct sizes, of which this is No. 3. Please state No. when ordering. All envelopes to be addressed.
-
-Mrs. Margaret Railston,
-
-c/o Charlie Bernberg,
-
-48, Upper Gannimore Gardens,
-
-Shepherd’s Bush, W.
-
-All envelopes to be marked “Appreciation.” Accounts monthly. All cheques to be crossed “Becker, Becker, & Bernberg.”]
-
-
-
-
-<span class="atom-split" data-atom="story_13_appendix" data-title="Caliban’s Guide to Letters — APPENDIX" data-chapter="APPENDIX" data-kind="story"></span>
-
-
-APPENDIX
-PRICES CURRENT.
-
-IN ALL ORDINARY lines Prices were well maintained and rising at the outbreak of the Spanish-American War. They rose sharply thenceforward till the second week of the war in South Africa, since which date they have been sagging, touching bed rock in the spring of this year (March, 1903). There has been a slight reaction since the beginning of the season, but it is not supported, and the market is still extremely dull. Patriotic Poems have fallen out of sight, and Criticism is going begging: in some offices books are no longer given to their reviewers: sub-editors have latterly been asked to bring their own suppers. The pinch is being felt everywhere. Police reports are on piece-work and the Religious Column is shut down to half shifts. Leader writers have broken from 1100 a year to 300. Editors have suffered an all-round cut in wages of 25 per cent. Publishers’ carrying-over days are more anxious than ever. Several first-class houses were hammered on the last contango, and the Banks are calling in loans. Private capital can hardly be obtained save for day-to-day transactions, and even so at very high rates of interest. The only lines that are well maintained are City Articles and Special Prose. Snippets are steady.
-
-The following list is taken from Hunter’s Handbook, and represents Prices at the close of May: —
-
-PROSE.
-
-(Prices in shillings per thousand words).
-
-Rise or Fall.
-
-Special Prose
-
-30/-
-
-35/-
-
-Unchanged.
-
-Street Accidents
-
-10/-
-
-12/-
-
-–
-
-5/-
-
-Reviews
-
-7/6
-
-10/-
-
-–
-
-20/-
-
-Police Court Notices
-
-15/-
-
-18/-
-
-–
-
-5/-
-
-Guaranteed Libels
-
-25/-
-
-30/-
-
-–
-
-3/-
-
-Unguaranteed ditto
-
-5/-
-
-7/-
-
-+
-
-2/-
-
-Deferred ditto
-
-14/-
-
-16/-
-
-+
-
-4/-
-
-Pompous Leaders
-
-8/-
-
-10/-
-
-–
-
-25/-!
-
-Smart Leaders
-
-9/-
-
-11/6
-
-+
-
-3/-
-
-Ten-line Leaderettes
-
-10/-
-
-12/-
-
-Unchanged.
-
-Political Appeals
-
-15/-
-
-17/-
-
-–
-
-30/-
-
-Attacks on Foreign Nations
-
-3/-
-
-3/6
-
-–
-
-48/-!!
-
-Dramatic Criticism
-
-20/-
-
-25/-
-
-Unchanged.
-
-Historical Work
-
-—
-
-6d.?
-
-(Practically
-
-no demand).
-
-Religious Notes
-
-12/-
-
-18/-
-
-–
-
-8/-
-
-Attacks upon Christianity
-
-4/-
-
-4/6
-
-–
-
-5/- (A
-
-very heavy fall for this
-
-kind of matter).
-
-VERSE.
-
-(Prices in pence per line).
-
-Bad Verse
-
-No price can be given — very variable.
-
-Good minor Verse.
-
-3d. (much the same as last year).
-
-Special Verse
-
-1/- (a heavy fall).
-
-READY RECKONER.
-
-This Table does not profess any minute accuracy; it will, however, be found amply sufficient for all practical purposes.
-
-PENCE
-
-SHILLINGS PER
-
-SHILLINGS PER
-
-POUNDS PER
-
-PER LINE.
-
-LONG COLUMN.
-
-SHORT COLUMN.
-
-THOUSAND
-
-Pica.
-
-Minion.
-
-Pica.
-
-Minion.
-
-WORDS.
-
-Bourgeois.
-
-Bourgeois.
-
-¼d.
-
-3/9
-
-4/3
-
-5/-
-
-3/-
-
-3/9
-
-4/6
-
-£0·16378.
-
-½d.
-
-7/6
-
-8/6
-
-10/-
-
-6/-
-
-7/6
-
-9/-
-
-£0·32757.
-
-¾d.
-
-11/3
-
-12/9
-
-15/-
-
-9/-
-
-11/3
-
-13/6
-
-£0·49135.
-
-1d.
-
-15/-
-
-17/-
-
-20/-
-
-12/-
-
-15/-
-
-18/-
-
-£0·65514.
-
-1½d.
-
-22/6
-
-25/6
-
-30/-
-
-18/-
-
-22/6
-
-27/-
-
-£0·98270.
-
-2d.
-
-30/-
-
-34/-
-
-40/-
-
-24/-
-
-30/-
-
-36/-
-
-£1·31028.
-
-2½d.
-
-37/6
-
-42/6
-
-50/-
-
-30/-
-
-37/6
-
-45/-
-
-£1·63705.
-
-No prices superior to this last for Prose.
-
-Verse up to 1/- a line. See preceding page, not reckoned in cols. or 1000 words.
-
-(The Sections dealing with “The Detection of Classical Authors” and “The Vivid Presentation of History,” have been omitted by request of the Family. It is perhaps as well.)
-
-
-
-
-<span class="atom-split" data-atom="story_14_note_on_titles" data-title="Caliban’s Guide to Letters — NOTE ON TITLES." data-chapter="NOTE ON TITLES" data-kind="story"></span>
-
-
-NOTE ON TITLES.
-
-THE YOUNG JOURNALIST will never make an error as to the title of an individual, and his proper style and address, if he will but learn to trust the books of reference provided by the office.
-
-They are far more accurate than other works of the kind. Contrast, for instance, Bowley’s Peerage and Baronetage with Bowley’s Register of Events during the past year.
-
-What may be called “derivative titles” differ in the most complicated manner according to the rank of the parent. It would be quite impossible for the journalist to attempt to learn them. He had far better write plain “Lord” and “Lady” where he has occasion to, and on all other occasions whatsoever, “Mr.” or, if he prefer the term, “Esquire.” In conversation no Lord should be addressed as “My Lord,” but a Bishop should always be so addressed; no Duke should be called “Your Grace” to his face, but it is courteous to bestow this honour upon an Archbishop. It is still more important to avoid the term “milady” in speaking to the consorts of the above named, especially in the case of bishops’ wives, to whom the title does not apply. Baronets, on the other hand, must always be addressed as “Sir,” followed by a Christian name. The omission to do this has led to grievous trouble. The principal English titles are, Prince, Duke, Marquis, Marquess (a more recent creation), Earl, Baron; then comes a division; then Irish Peers, Baronets, Knights, and finally Members of the Victorian Order.
-
-The principal foreign titles are Count, Viscount (which by the way is also an English title, but I forgot it), Vidame, Chevalier, Excellency, Graf, Furst, Margrave, Baron, Boyar, Monsignor, and Grandee — the latter used only in Spain, Ceuta, and the other Spanish dominions beyond the seas.
-
-Imperial titles are: — the Maharajah, the Maharanee, the Akon of Swat, the Meresala of Baghirmi, the Oyo of Oya, the Allemami of Foutazallam, the Ameer, the Emir, the Bally-o-Gum of Abe-o-Kuta, and others too numerous to mention. All these should, in general, be addressed as Your Highness.
-
-Colonials are called “The Honourable.”
-
-
-
-
-<span class="atom-split" data-atom="story_15_note_on_style" data-title="Caliban’s Guide to Letters — NOTE ON STYLE." data-chapter="NOTE ON STYLE" data-kind="story"></span>
-
-
-NOTE ON STYLE.
-
-ONE DOES WELL to have by one a few jottings that will enable one to add to one’s compositions what one calls style in case it is demanded of one by an editor.
-
-I would not insist too much upon the point; it is simple enough, and the necessity of which I speak does not often crop up. But editors differ very much among themselves, and every now and then one gets a manuscript returned with the note, “please improve style,” in blue pencil, on the margin. If one had no idea as to the meaning of this a good deal of time might be wasted, so I will add here what are considered to be the five principal canons of style or good English.
-
-The first canon, of course, is that style should have Distinction. Distinction is a quality much easier to attain than it looks. It consists, on the face of it, in the selection of peculiar words and their arrangement in an odd and perplexing order, and the objection is commonly raised that such irregularities cannot be rapidly acquired. Thus the Chaplain of Barford, preaching upon style last Holy Week, remarked “there is a natural tendency in stating some useless and empty thing to express oneself in a common or vulgar manner.” That is quite true, but it is a tendency which can easily be corrected, and I think that that sentence I have just quoted throws a flood of light on the reverend gentleman’s own deficiencies.
-
-Of course no writer is expected to write or even to speak in this astonishing fashion, but what is easier than to go over one’s work and strike out ordinary words? There should be no hesitation as to what to put in their place. Halliwell’s “Dictionary of Archaic and Provincial Words” will give one all the material one may require. Thus “lettick” is charming Rutlandshire for “decayed” or “putrescent,” and “swinking” is a very good alternative for “working.” It is found in Piers Plowman.
-
-It is very easy to draw up a list of such unusual words, each corresponding with some ordinary one, and to pin it up where it will meet your eye. In all this matter prose follows very much the same rules as were discovered and laid down for verse on page 86.
-
-The second canon of style is that it should be obscure, universally and without exception. The disturbance of the natural order of words to which I have just alluded is a great aid, but it is not by any means the only way to achieve the result. One should also on occasion use several negatives one after the other, and the sly correction of punctuation is very useful. I have known a fortune to be made by the omission of a full stop, and a comma put right in between a noun and its adjective was the beginning of Daniel Witton’s reputation. A foreign word misspelt is also very useful. Still more useful is some allusion to some unimportant historical person or event of which your reader cannot possibly have heard.
-
-As to the practice, which has recently grown up, of writing only when one is drunk, or of introducing plain lies into every sentence, they are quite unworthy of the stylist properly so called, and can never permanently add to one’s reputation.
-
-The third canon of style is the occasional omission of a verb or of the predicate. Nothing is more agreeably surprising, and nothing more effective. I have known an honest retired major-general, while reading a novel in his club, to stop puzzling at one place for an hour or more in his bewilderment at this delightful trick, and for years after he would exclaim with admiration at the style of the writer.
-
-The fourth canon of style is to use metaphors of a striking, violent, and wholly novel kind, in the place of plain statement: as, to say “the classics were grafted on the standing stirp of his mind rather than planted in its soil,” which means that the man had precious little Greek, or again, “we propose to canalize, not to dam the current of Afghan development,” which means that the commander of our forces in India strongly refused to campaign beyond the Khyber.
-
-This method, which is invaluable for the purpose of flattering the rich, is very much used among the clergy, and had its origin in our great Universities, where it is employed to conceal ignorance, and to impart tone and vigour to the tedium of academic society. The late Bishop of Barchester was a past master of this manner, and so was Diggin, the war correspondent, who first talked of a gun “coughing” at one, and was sent home by Lord Kitchener for lying.
-
-The fifth canon of style is, that when you are bored with writing and do not know what to say next, you should hint at unutterable depths of idea by the introduction of a row of asterisks.
-
-* * * * *
-
-
-
-
-<span class="atom-split" data-atom="story_16_the_ode" data-title="Caliban’s Guide to Letters — THE ODE." data-chapter="THE ODE" data-kind="story"></span>
-
-
-THE ODE.
-
-THE WRITING OF Odes seems to have passed so completely out of our literary life, that I thought it inadvisable to incorporate any remarks upon it with the standing part of my book, but I cannot refrain from saying a few words upon it in the Appendix, since I am convinced that it is destined to play a great part in the near future.
-
-I will take for my example the well-known Ode (almost the only successful modern example of this form of composition) which was sung on the beach at Calshott Castle, by a selected choir, on the return of Mr. Joseph Chamberlain from South Africa; and I will use some passages from it in order to emphasize the leading principle that the Ode depends for its effectiveness almost entirely upon the music accompanying it.
-
-Thus, Mr. Daniel Witton’s opening lines:
-
-“What stranger barque from what imperial shores
-
-The angry Solent dares to what mysterious goal?”
-
-would seem tame enough were it not for the wonderful rising of the notes, which accompany them; and the famous outburst:
-
-“She to Southampton steers!”
-
-is equally dependent upon the crash of music and the combined voices of the whole choir. It is difficult for us, who have heard it rendered in the Albert Hall, to appreciate what the words would be without this adventitious aid. Even the lovely single line,
-
-“Lift up your head, Southampton, dry your honourable tears,”
-
-would be less without the delicate soprano floating above its syllables.
-
-I will admit that the passage on the body-guard of National Scouts is very fine, but then, precisely in proportion as it is effective quâ literature, it fails to impress when accompanied by music, though the author of the score was wise enough to set it to a somewhat monotonous recitative. If the student will read the lines slowly to himself, first with, and then without, the notes, he will see what I mean.
-
-“And who more fit than they
-
-Whose better judgment led them to betray
-
-An aged leader and a failing cause
-
-Because —
-
-Because they found it pay.”
-
-Mr. Daniel Witton did not write that word “because” twice over in his original manuscript. He put it in twice to please the musician (whose ignorance of the English tongue was a great handicap throughout), and, as I at least think, he made an error in so doing.
-
-All that passage where the great politician
-
-“ ... taking off his hat,”
-
-comes into the palace at Pretoria, where
-
-“ ... in awful state alone,
-
-Alone, the scientific Monist sat,
-
-Who guards our realm, extends its narrow bounds,
-
-And to achieve his end,
-
-Is quite prepared to spend
-
-The inconceivably imperial sum of twice three hundred times five
-
-hundred thousand pounds,”
-
-shows the grave difficulty of wedding the verse to the music. The last line is intolerably clumsy, when read without the air accompanying it; and the whole illustrates very well my contention that music should be the chief thing in the composition of an ode, and that the libretto should be entirely subservient to it.
-
-A still better example is found in the great chorus “Pretoria,” which begins —
-
-“Pretoria with her hundred towers
-
-Acknowledges his powers,”
-
-and “Johannesburg,” which ends —
-
-“Heil! heil! hoch! heil! du ubermenslich’ wohl-gebornen Graf
-
-von Chamberlein,
-
-While underground,
-
-While underground,
-
-Such rare and scattered Kaffirs as are found
-
-Repeat the happy, happy, happy, happy sound.”
-
-And of course the lyric at the end —
-
-“All in his train de luxe
-
-Reading selected books,
-
-Including Conan Doyle’s ingenious fiction
-
-And popular quota-
-
-Tions, verses by the way
-
-For which he has a curious predilection,
-
-And Mr. Werther’s work
-
-Called ‘England shall not shirk,’
-
-Or ‘The Cape to Cairo, Kairouan and Cadiz,’
-
-And ‘Burke,’ and ‘Who is Who,’
-
-And ‘Men and Women’ too,
-
-And ‘Etiquette for Gentlemen and Ladies,’”
-
-Et cetera, et cetera.
-
-All that lyric depends entirely for its effects upon the little Venetian air taken from Sullivan, who himself took it from Verdi, who got it from a Gondolier. The words by themselves have no beauty whatsoever.
-
-Indeed, I think in the whole Ode there is but one exception to the rule I have laid down, and that is at the very end, where they sing of the accomplished task and, in a fine hyperbole, of the “Great story that shall shake the affrighted years.”
-
-The last five lines are such good music and such good verse that I cannot dissociate one from the other: —
-
-Chorus. And now returns he, turns, turns he to his own —
-
-Trombone. Ah, maddened with delight,
-
-I welcome him upon the loud trombone.
-
-The Bass Drum. I, in more subtle wise,
-
-Upon the big bass drum.
-
-The Tenor. And I upon the trembling flute, that shrieks and
-
-languishes and dies.
-
-All Three. Welcome, and make a widowed land rejoice:
-
-Welcome, attunéd voice; —
-
-Sweet eyes!
-
-It is a very fine ending, and I congratulate Mr. Daniel Witton upon it most sincerely....
-
-It reminds one of the Bacchæ.
-
-Should the student desire to attempt something of the kind for himself, he cannot do better than to invite a musical friend and compose the ode strictly in conjunction with him; neither should write separately from the other, and let there be no quarrels or tantrums, but let each be ready to give way.
-
-I suggest, as a subject for this exercise, a Funeral Ode upon the same statesman, to be sung when occasion serves.
-
-
-
-
-<span class="atom-split" data-atom="story_17_on_remainders_and_pulping" data-title="Caliban’s Guide to Letters — ON REMAINDERS AND PULPING." data-chapter="ON REMAINDERS AND PULPING" data-kind="story"></span>
-
-
-ON REMAINDERS AND PULPING.
-
-SHOULD THE STUDENT aspire to collect his journalistic work, or the less ephemeral part of it, into book form, he will do well to apply to some old and established firm of publishers, who will give him a reasonable estimate for its production, plus the cost of advertising, warehousing, wear and tear, office expenses, etc., etc., to which must be added the customary Fee.
-
-The book so issued will be sent to the Press for notice and review, and will, some weeks later, be either Remaindered or Pulped. It is important to have a clear idea of these processes which accompany an author throughout his career.
-
-A book is said to be Remaindered when it is sold to the secondhand bookseller in bulk; 10 per cent. of the sums so received, less the cost of cartage to and fro from shop to shop, and the wages of the Persuader who attempts to sell the volumes, is then credited to the author in his account, which is usually pressed upon the completion of the transaction.
-
-The less fortunate must be content with Pulping. In the midst of their chagrin they will be consoled by the thought that their book enjoys a kind of resurrection, and will reappear beneath some other, and — who knows? — perhaps some nobler form. The very paper upon which these words are printed may once have formed part of a volume of verse, or of Imperialist pamphlets subsidised by the South African Women’s League.
-
-A book is said to be Pulped when it is sold at so many pence the thousand copies to the Pulpers for Pulping. The transformation is effected as follows: — First the covers are thoroughly and skilfully torn off the edition by girls known as “Scalpers” or “Skinners,” and the Poems (or whatnot), after going through this first process, are shot in batches of twenty-four into a trough, which communicates by an inclined plane with open receptacles known technically as “bins.” Hence the sheets are taken out by another batch of hands known as “feeders” — for it is their duty to “feed” the marvellous machine which is the centre of the whole works. The Poems (as we may imagine them to be) are next thrown by the “feeders,” with a certain rapid and practised gesture, into a funnel-shaped receiver, where they are caught by Six Large Rows of strong Steel Teeth known as the “Jaws,” which are so arranged as just barely to miss each other; these work alternatively back and forth, and reduce the hardest matter to shreds in an incredibly short time.
-
-The shreds so formed fall on to a wide endless band, which carries them on into the “bowl,” where they are converted under a continual stream of boiling water, into a kind of loose paste. Lest any trace of the original Poetic (or Prose) composition could remain to trouble the whiteness of the rapidly forming mixture, this water contains a 30% solution of Sardonic Oxide, two kilogrammes of which will bleach one thousand kilos of shredded Poems or Essays in from thirty-five to forty minutes. When the Poems or whatnot have been finally reduced to a white and formless mass, they are termed pulp and this pulp is laid out into frames, to be converted once more into paper, Art, glazed, and medium.
-
-This principle of “the Conservation of Paper” or, as Lord Balton (Sir Charles Quarry) has himself called it, “the Circulation of Literature,” is naturally more developed among the Anglo-Saxon peoples than upon the Continent. The patriotic reader will be pleased to hear that whereas of existing German books barely 35% are pulped within the year, of French books not 27%, and of Italian but 15%; of our total production — which is far larger — no less than 73% are restored to their original character of useful blank paper within the year, ready to receive further impressions of Human Genius and to speed on its accelerated round the progress of Mankind.
-
-Amen.
-
-
-
-
 <span class="atom-split" data-atom="story_02_introduction--part_01" data-title="Caliban’s Guide to Letters — INTRODUCTION. (part 1)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
@@ -4944,6 +4071,198 @@ PERSONAL PARS.
 
 
 
+<span class="atom-split" data-atom="story_08_the_personal_par" data-title="Caliban’s Guide to Letters — THE PERSONAL PAR." data-chapter="THE PERSONAL PAR" data-kind="story"></span>
+
+
+THE PERSONAL PAR.
+
+CLOSELY CONNECTED WITH the Interview, and forming a natural sequel to any treatise upon that Exercise, is the Personal Par. It contains, as it were, all the qualities of the Interview condensed into the smallest possible space; it advertises the subject, instructs the reader, and is a yet sharper trial of the young writer’s character.
+
+The homely advice given in the preceding section, where mention was made of “pride” and of “pockets,” applies with far more force to the Personal Par. With the Interview, it is well to mask one’s name; with the Personal Par, it is absolutely necessary to conceal it. The danger the author runs is an attraction to Mrs. Railston, who in her book strongly advises this form of sport — she herself does Bess in All About Them. On the other hand, Lieut.-Col. Lory says, in his Journalist’s Vade-mecum (): “A Personal Par should never be penned by the Aspirant to Literary honours. Undetected, it renders life a burden of suspense; detected, it spells ruin.” He quotes twenty-five well-known peers and financiers who rose by steadily refusing to do this kind of work during their period of probation on the press.
+
+The present guide, which is final, will run to no such extremes. Secrecy is indeed essential; yet there are three excellent reasons for writing Personal Pars, at least in early youth.
+
+(1.) The Personal Par is the easiest to produce of all forms of literature. Any man or woman, famous or infamous for any reason, is a subject ready to hand, and to these may be added all persons whatsoever living, dead, or imaginary; and anything whatever may be said about them. Editors, in their honest dislike of giving pain, encourage the inane, and hence more facile, form of praise. Moreover, it takes but a moment to write, and demands no recourse to books of reference.
+
+(2.) The Personal Par can always be placed — if not in England, then in America. Though written in any odd moments of one’s leisure time, it will always represent money; and the whole of the period from July to October, when ordinary work is very slack, can be kept going from the stock one has by one.
+
+(3.) It has a high economic value, not only in the price paid for it, but indirectly, as an advertisement. This is a point which Lieut.-Col. Lory and Mrs. Railston both overlook.
+
+A short specimen, written in August, 1885, at the very beginning of the movement, by my friend, Mrs. Cowley (the Folk-Lorist, not the Poetess), for the Gazette, will make these three points clear: —
+
+“The capture of that rare bird, the Cross-tailed Eagle, which is cabled from St. Fandango’s, recalls the fact that the famous Picture ‘Tiny Tots’ was formerly in the possession of the present Governor of that island. The picture is put up to auction by Messrs. Philpots next Saturday, and, judging by the public attendance at their galleries during the last fortnight, the bidding should be brisk.”
+
+There is no such bird as the Cross-tailed Eagle, nor any such person as the Governor of St. Fandango’s, nor indeed is there even any such island. Yet Mrs. Cowley was paid 5s. by the Gazette for her little bit of research; it was copied into most of the papers, with acknowledgment, and she got a commission from Messrs. Philpots. The former owner of “Tiny Tots” (Mr. Gale of Kew, a wealthy man) wrote a long and interesting letter explaining that some error had been made, and that not he, but his wife’s father, had been an Inspector (not Governor) in St. Vincent’s. He begged the writer to call on him — her call was the origin of a life-long friendship, and Mrs. Cowley was mentioned in his will.
+
+I must detain the student no longer with what is, after all, a very small corner of our art, but conclude with a few carefully chosen examples before proceeding to the next section on Topographical Essays.
+
+Examples.
+
+Wit and Wisdom of the Upper Classes.
+
+Her Royal Highness the Hereditary Grand Duchess of Solothurn was driving one day down Pall Mall when she observed a poor pickpocket plying his precarious trade. Stopping the carriage immediately, she asked him gently what she could do for him. He was dumbfounded for a reply, and, withdrawing his hand from the coat-tail of an elderly major, managed to mumble out that he was a widower with a wife and six children who were out of work and refused to support him, though earning excellent wages. This reasoning so touched the Princess, that she immediately gave him a place as boot-black in the Royal Palace of Kensington. Discharged from this position for having prosecuted H.R.H. for six months’ arrears of wages, he set up as a publican at the “Sieve and Pannier” at Wimbledon, a licence of some ten thousand pounds in value, and a standing example of the good fortune that attends thrift and industry.
+
+* * *
+
+It is not generally known that the late Lord Grumbletooth rose from the ranks. His lordship was a singularly reticent man, and the matter is still shrouded in obscurity. He was, however, a politician in the best sense of the word, and owed his advancement to the virtues that have made England famous. The collection of domestic china at Grumbletooth House will vie with any other collection at any similar house in the kingdom.
+
+* * *
+
+Dr. Kedge, whose death was recently announced in the papers, was the son of no less a personage than Mr. Kedge, of the Old Hall, Eybridge. It is hardly fair to call him a self-made man, for his father paid a considerable sum both for his education and for the settlement of his debts on leaving the University. But he was a bright-eyed, pleasant host, and will long be regretted in the journalistic world.
+
+* * *
+
+Lady Gumm’s kindness of heart is well known. She lately presented a beggar with a shilling, and then discovered that she had not the wherewithal to pay her fare home from Queen’s Gate to 376, Park Lane (her ladyship’s town house). Without a moment’s hesitation she borrowed eighteen pence of the grateful mendicant, a circumstance that easily explains the persecution of which she has lately been the victim.
+
+* * *
+
+Lord Harmbury was lately discovered on the top of a ‘bus by an acquaintance who taxed him with the misadventure. “I would rather be caught on a ‘bus than in a trap,” said the witty peer. The mot has had some success in [[London]] Society.
+
+* * *
+
+Mr. Mulhausen, the M.F.H. of the North Downshire Hunt, has recently written an article on “Falconry” for the Angler’s World. The style of the “brochure” shows a great advance in “technique,” and cannot fail to give a permanent value to his opinion on Athletics, Gentleman-farming, and all other manly sports and pastimes. Mr. Mulhausen is, by the way, a recently-elected member of the Rock-climbers’ Club, and is devoted to Baccarat.
+
+* * *
+
+There is no truth in the rumour that Miss Finn-Coul, daughter of Colonel Wantage-Brown, was about to marry her father’s second wife’s son by an earlier marriage, Mr. James Grindle-Torby. The Colonel is a strong Churchman, and disapproves of such unions between close relatives; moreover, as C.O., he has forbidden the young lieutenant (for such is his rank) to leave the barracks for a fortnight, a very unusual proceeding in the Hussars.
+
+* * *
+
+Lady Sophia Van Huren is famous for her repartee. In passing through Grosvenor Gate an Irish beggar was heard to hope that she would die the black death of Machushla Shawn. A sharp reply passed her lips, and it is a thousand pities that no one exactly caught its tenor; it was certainly a gem.
+
+* * *
+
+It is well known that the Bishop of Pontygarry has no sympathy with the extreme party in the Church. Only the other day he was so incensed at a service held in Ribble-cum-Taut, that he fought the officiating clergyman for half an hour in his own garden, and extorted a complete apology. He also forbad anyone in the village ever to go to Church again, and himself attended the Methodist Chapel on the ensuing Sunday. Had we a few more prelates of the same mettle things would be in a very different condition.
+
+
+
+
+<span class="atom-split" data-atom="story_09_the_topographical_article" data-title="Caliban’s Guide to Letters — THE TOPOGRAPHICAL ARTICLE." data-chapter="THE TOPOGRAPHICAL ARTICLE" data-kind="story"></span>
+
+
+THE TOPOGRAPHICAL ARTICLE.
+
+THE TOPOGRAPHICAL ARTICLE.
+
+THE TOPOGRAPHICAL ARTICLE is so familiar as to need but little introduction.... Personally, I do not recommend it; it involves a considerable labour; alone, of all forms of historical writing, it demands accuracy; alone, it is invariably un-paid.
+
+Nevertheless, there are special occasions when it will be advisable to attempt it; as — in order to please an aged and wealthy relative; in order to strike up a chance acquaintance with a great Family; in order to advertise land that is for sale; in order to prevent the sale, or to lower the price (in these two last cases it is usual to demand a small fee from the parties interested); in order to vent a just anger; in order to repay a debt; in order to introduce a “special” advertisement for some manure or other; and so forth. Most men can recall some individual accident when a training in Topographical Writing would have been of value to them.
+
+There even arise, though very rarely, conditions under which this kind of writing is positively ordered. Thus, when the Editor of the Evening Mercury changed his politics for money on the 17th of September, 1899, all that part of his staff who were unable to drop their outworn shibboleths were put on to writing up various parts of [[London]] in the legal interval preceding their dismissal, and a very good job they made of it.
+
+Never, perhaps, were the five rules governing the art more thoroughly adhered to. A land-owning family was introduced into each; living persons were treated with courtesy and affection; a tone of regret was used at the opening of each; each closed with a phrase of passionate patriotism; and each was carefully run parallel to the course of English History in general; and the proper praise and blame allotted to this name and that, according to its present standing with the more ignorant of the general public.
+
+It was in this series (afterwards issued in Book form under the title, [[London]]! My [[London]]) that the following article — which I can put forward as an excellent model — was the contribution of my friend, Mr. James Bayley. It may interest the young reader (if he be as yet unfamiliar with our great London names) to know that under the pseudonym of “Cringle” is concealed the family of Holt, whose present head is, of course, the Duke of Sheffield.
+
+DISAPPEARING LONDON: MANNING GREEN.
+
+At a moment when a whole district of the metropolis is compulsorily passing into the hands of a soulless corporation, it is intolerable that the proprietors of land in that district should receive no compensation for the historical importance of their estates. Manning Green, which will soon be replaced by the roar and bustle — or bustle and confusion, whichever you like — of a great railway station, is one of those centres whence the great empire-builders of our race proceeded in past times.
+
+For many centuries it was a bare, bleak spot, such as our England could boast by the thousand in the rude but heroic days when the marvellous fortunes of the Anglo-Saxon race were preparing in the slow designs of Providence. For perhaps a generation it was one of those suburban villages that are said by a contemporary poet to “nestle in their trees.” Doubtless it sent forth in the sixties many brave lads to fight for the liberties of Europe in Italy or Denmark, but their humble record has perished. Such a thought recalls the fine lines of Gray: —
+
+“Some mute inglorious Milton here may rest;
+
+Some Cromwell guiltless of his country’s blood.”
+
+Twenty to twenty-five years ago the advancing tide of the capital of the world swept round this little outlying place; it was submerged, and soon made part of greater London.
+
+Relics are still to be discovered of the period when Manning Green had something rural about it, as Highgate and South Croydon have now. Thus “The Jolly Drover” (whose license was recently refused because it was not a tied house) recalls the great sheep-droves that once passed through the village from the north. It is now rare indeed to meet with a countryman driving his flock to market through the streets of London, though the sight is not absolutely unknown. The present writer was once stopped in the early morning by a herd of oxen south of Westminster Bridge, and what may seem more remarkable he has frequently seen wild animals in the charge of negroes pass through Soho on their way to the Hippodrome. It is as Tennyson says: —
+
+“The old order changes, giving place to the new,”
+
+until at last
+
+“Beyond these voices there is peace.”
+
+Another relic of the old village of Manning Green is the Court Baron, which is still held (how few Londoners know this!) once a year, for the purpose of providing a small but regular income to a relative of the Lord Chancellor. This Court was probably not held before the year 1895, but it is none the less of extreme interest to antiquarians.
+
+The first mention of Manning Green in history is in a letter to Edward Lord Cringle, the pioneer and ally of the beneficent reforms that remain inseparably associated with the name of the eighth Henry. This letter is written from prison by one Henry Turnbull, a yeoman, and contains these phrases: —
+
+“For that very certainly, my good Lord, I never did this thing, no, nor met the Friar nor had any dealing with him. And whatever I did that they say is treason I did it being a simple man, as following the Mass, which I know is welcome to the King’s Majesty, and not knowing who it was that sang it, no, nor speaking to him after, as God knows. And, my dear Lord, I have had conveyed to you, as you know, my land of Horton with the Grey farm and the mere called Foul Marsh or Manning, having neither son nor any other but my own life only, and for that willingly would I give you this land, and so I have done; and, my good Lord, speak for me at Court in this matter, remembering my gift of the land....”
+
+This Turnbull was afterwards executed for treason at Tyburn. There is still a Turnbull in the parish, but as his father’s name was Weissenstein he is very unlikely to have any connection with the original family of yeomen.
+
+The land (if land it could then be called) did not, oddly enough, remain long in the Cringle family. It was sold by Lord Edward to the Carmelites, and on the dissolution of that order was returned by the grateful monarch to its original owner. We next find “Manning” or “Foul Marsh” drained during that period of active beneficence on the part of the great landlords which marked the seventeenth century. We are acquainted of this fact in our agricultural history by an action recorded in 1631, where it appears that one Nicholas Hedon had gone to shoot snipe, as had been once of common right in the manor, and had so trespassed upon land “now drained at his lordship’s charges, and by him enclosed.” Hedon lost both ears, and was pilloried.
+
+Manning is probably alluded to also in a strong protest of the old Liberal blood against ship-money, to which exaction it contributed 1s. 4d. The sum need not excite ridicule, as it represents quite 4s. of our present currency. The vigorous protest of the family against this extortion is one of the finest examples of our sterling English spirit on the eve of the Civil War. The money was, however, paid.
+
+In the troubles of the Civil Wars Manning ( now no longer a marsh, but a green) was sold to John Grayling, but the deed of conveyance being protested at the Restoration, it was restored to its original owners at the intruder’s charge by an action of Novel Disseizin. After Monmouth’s rebellion, Manning was in danger of suffering confiscation, and was hurriedly sold to a chance agent (William Greaves) at so low a price as to refute for ever all insinuations of rapacity upon the part of its now ducal owners. It was happily restored by a grateful nation as a free gift after the glorious Revolution of 1688, and the agent, who had only acquired it by taking advantage of the recent troubles, was very properly punished. King William congratulated the family in a famous epigram, which a natural ignorance of the Taal forbids us to transcribe.
+
+In 1718, Manning being still pasture of a somewhat spongy nature (Guy, in his report, calls it “soggy and poor land, reedy, and fit for little”), there was a rumour that the New River canal would pass through it, and it was sold to Jonathan Hemp. The New River was proved, however, in the pleadings before both Houses of Parliament, to have no necessity for this canal, and Hemp was compelled (as it was a mere speculation on his part) to sell it back again to its distinguished owner at a merely nominal price.
+
+Nothing further can be traced with regard to Manning Green (as it was now commonly called) till the report in 1780 that coal had been found beneath it. Such a deposit so near the metropolis naturally attracted the attention of merchants, and the Family sold the place for the last time to a merchant of the name of Hogg for £20,000.
+
+The report proved false; yet, oddly enough, it was the beginning of Mr. Hogg’s prosperity.
+
+We have no space to dwell on this interesting character. “Hogg’s Trustees” are an ecclesiastical household word in our principal watering-places, and the “Hogg Institute” at Brighton is a monument of Christian endeavour. He was a shrewd bargainer, a just man, and upon his mantel-pieces were to be discovered ornaments in alabaster representing Joshua and Richard Cœur de Lion.
+
+The growth of the metropolis entered largely into Mr. Hogg’s enlightened prevision of the future, and he obtained promises from a large number of people to build houses upon his land, which houses should, after a term of years, become his (Hogg’s) property, and cease to belong to those who had paid to put them up. How Mr. Hogg managed to obtain such promises is still shrouded in mystery, but the universal prevalence of the system to-day in modern England would surely prove that there is something in our Imperial race which makes this form of charity an element of our power.
+
+Mr. Hogg’s only daughter married Sir John Moss, Lord Mayor; and Mr. Moss, the son, was the father of the present Lord Hemelthorpe. Thus something romantic still clings to poor Manning Green, of which Lord Hemelthorpe was, until his recent bankruptcy, the proprietor.
+
+There is little more to be said about Manning Green. The Ebenezer Chapel has a history of its own, written by the Rev. Napoleon Plaything, son of Mr. Honey Q. Plaything, of Bismark, Pa. The success of the boys’ club has been detailed in God’s London, by Mr. Zitali, of the “Mission to the Latin Races.” The book is well worth buying, if only for this one essay, written, as it is, by a brand saved from the burning. Mr. Zitali was for a long time in the employ of Messrs. Mañanâ, the restaurant keepers, and no one is better fitted to deal strenuously with the awful problems of our great cities.
+
+Manning Green is about to disappear, and all its wonderful associations will become (in the words of Swinburne)
+
+“Smoke, or the smoke of a smoke.”
+
+But until it disappears, and until its purchase price is finally fixed by the committee, its historical associations will still remain dear to those who (like the present writer) are interested in this corner of the Motherland. That men of our blood, and men speaking our tongue — nay, that those neither of our blood, nor speaking our tongue, but devoted to a common empire — will remember Manning Green when the sale is effected, is the passionate and heartfelt prayer of
+
+James Bayley.
+
+
+
+
+<span class="atom-split" data-atom="story_10_on_editing" data-title="Caliban’s Guide to Letters — ON EDITING." data-chapter="ON EDITING" data-kind="story"></span>
+
+
+ON EDITING.
+
+ON EDITING.
+
+I COME NOW to that part of my subject where pure literature is of less moment than organization and the power of arrangement; and the last two divisions of my great task concern work which has been written by others, and with which the journalist has to deal in the capacity of manager rather than that of author. These are, a few notes upon editing, and some further remarks upon Revelations, that is, unexpected and more or less secret political announcements.
+
+I deal here first with editing, by which I do not mean the management of a whole newspaper — for this has no connection whatever with the art of letters — but the selection, arrangement, and annotating of work produced by another hand, and entrusted to the journalist for publication in his columns. The work is far easier than might appear at first sight.
+
+The first rule in connection with it is to offend as little as possible, and especially to spare the living.
+
+The second rule is to cut down the matter to fit the space at your disposal. With the exception of a number of MSS. so small that they may be neglected in the calculation, it does not matter in the least what you cut out, so long as you remember that the parts remaining must make sense, and so long as you make this second rule fit in with the exigencies of the first.
+
+As for annotation, it is the easiest thing in the world. True to the general principle which governs all good journalism, that the giving of pleasure should always be preferred to the giving of pain, let your annotations pleasantly recall to the reader his own stock of knowledge, let them be as obvious as possible, and let him not learn too much from your research. This method has the additional advantage, that it also saves you an infinity of trouble.
+
+The matter is really not so elaborate as to need any further comment. I will proceed at once to my example, prefacing it only with the shortest explanatory statement, which will show how thoroughly it illustrates the rules I have just enunciated.
+
+The wife of one of the principal candidates for Parliament in our part of the country begged Dr. Caliban to publish a simple, chatty diary, which her sister (who was married to a neighbouring squire) had kept during some years. Dr. Caliban was too courteous to refuse, and had too profound an acquaintance with the rural character to despise this kind of copy. On the other hand, he was compelled to point out that he could not allow the series to run through more than six months, and that he should, therefore, be compelled to cut it down at his discretion. Full leave was given him, and I do not think any man could have done the work better.
+
+Thus the lady’s husband, though a good Englishman in every other way (an indulgent landlord and a sterling patriot), was German by birth and language. Here was a truth upon which it would have been uncharitable and useless to insist — a truth which it was impossible to conceal, but which it was easy to glide over; and Dr. Caliban, as the student will see in a moment, glode over it with the lightest of feet.
+
+Again, a very terrible tragedy had taken place in the Burpham family, and is naturally alluded to by their near neighbour. It was impossible to cut out all mention of this unhappy thing, without destroying the diary; but in Dr. Caliban’s edition of the MS., the whole is left as vague as may be.
+
+The particular part which I have chosen for a model — I think the most admirable piece of editing I know — is from that week of the diary which concerns the outbreak of the recent difficulty with France, a difficulty luckily immediately arranged, after scarcely a shot had been fired, by the mutual assent of the two nations and (as it is whispered) by the direct intervention of High Authority.
+
+The motto which Dr. Caliban chose for the whole series (called, by the way, “Leaves from a Country Diary”), is a fine sentence from the works of Mr. Bagehot.
+
+LEAVES FROM A COUNTRY DIARY.
+
+“An aristocratic body firmly rooted in the national soil is not only the permanent guarantee of the security of the State, but resembles, as it were, a man better instructed than his fellows — more prompt, possessed of ample means, and yet entrusted with power: a man moreover who never dies.”
+
+February 2nd, 19 — . — To-day is the Purification. The lawn looked lovely under its veil of snow, and the vicar came in to lunch. We did not discuss the question of the service, because I know that Reuben disapproves of it. The vicar told me that Mrs. Burpham is in dreadful trouble. It seems that the Bank at Molesworth refused to cash Algernon’s cheque, and that this led Sir Henry Murling to make investigations about the Chattington affair, so that he had to be asked to resign his commission. To be sure it is only in the Militia, but if it all comes out, it will be terrible for the Monsons. They have already had to dismiss two servants on these grounds. Jane has a sore throat, and I made her gargle some turpentine and oil; Ali Baba’s hock is still sore. I do hope I shall keep my old servants, it is an unwelcome thing to dismiss them in their old age and the house is never the same again. They meet to-morrow at Gumpton corner, but not if this weather holds.
+
+February 3rd, 19 — . — It is thawing. There are marks of boots across the lawn on what is left of the snow, and I am afraid some one must have gone across it. I wish Reuben would come back. Called at Mrs. Burpham’s, who is in dreadful trouble. Algernon has gone up to town to see his solicitor. Poor Mrs. Burpham was crying; she is so proud of her boy. He says it will be all right. They are very bitter against the Bank, and Sir Henry, and the regiment, and the Monsons. I fear they may quarrel with Binston Park also. Mrs. Burpham was so curious about them; Jane is no better.
+
+February 4th, 19 — . — Reuben came home suddenly by the 2.40 with Mr. Ehrenbreitstein and Lord Tenterworth. He asked me to put Mr. Ehrenbreitstein in the Blue room and Lord Tenterworth in the Parrot room opposite the broom and pail place, where Aunt Marjory used to sleep. I shall have to clear the clothes out of the drawers. Just before dinner Mr. Bischoffen came in from the station. Reuben told me he had asked him. I wish he would give me longer notice. He brought a secretary with him who cannot talk English. I think he must be a Spaniard — he is so dark. Jane can hardly speak, her throat is so bad; I told her she might stay in bed to-morrow till nine.
+
+February 5th, 19 — . — Mrs. Burpham is certainly in dreadful trouble. She tells me Algernon has written from St. Malo saying it will be all right. It was very foolish and imprudent of him to go over there just now with all this trouble on with France. If only he had stayed at home (Mrs. Burpham says) she would not have minded so much, but she is afraid of his getting killed. It seems they are so savage at St. Malo. Only the other day an English lady had a stone thrown in her direction in the street. Mr. Bischoffen’s secretary is not a Spaniard; I think he is a Pole; his name is Brahms. There was a difficulty about the asparagus last night. It seems the Germans do not eat it with their fingers. Reuben said I ought to have got little silver pincers for it. I remember seeing them in his father’s house, but papa said they were very vulgar. Then Reuben used to apologise for them, and say that his people were old fashioned, which was nonsense, of course. I reminded Reuben of this, and he said, “Ach! Gott!” and I had to leave the room. Ali Baba is all right; he took a piece of sugar from my hand; but when I felt his hock he kicked Jones severely. I fear Jones is really injured, and I have sent for Dr. Minton and for the veterinary surgeon.
+
+February 6th, 19 — . — Dr. Minton dined here last night before going to set Jones’ leg, and I gave the veterinary surgeon supper in the old schoolroom. I am afraid Dr. Minton took too much wine, for he quarrelled with Mr. Ehrenbreitstein and Mr. Bischoffen about the danger of war with France. He said they had no right to speak, and got quite excited. Called again on Mrs. Burpham, and only appreciated fully to-day in what sad trouble she is. Algernon has telegraphed from Paris saying it will be all right. Meanwhile she has certainly quarrelled with Binston Park, and she even spoke bitterly against the Duke, so that means another family gone — for the Duke is very proud. I see in the Standard that our Ambassador has delivered an ultimatum, and that the French are doing all they can to shirk war. That is what Mr. Bischoffen and Reuben said they would do, but they must be taught a lesson. Newfoundlands have fallen, but Reuben says they must rise after the war. I do hope they will. The dear Bishop called. He says this war is a judgment on the French. Jane is much better, and can talk quite clearly, and Ali Baba is almost well. Also it has thawed now completely, and they can meet on Saturday as usual, so things are looking up all round.
+
+February 7th, 19 — . — Freddie goes to the Isle of Wight with the Lambtonshire Regiment, and Mrs. Burpham and the Bishop are both delighted, because it will bring him and Hepworth together. It would be such a solace to poor Mrs. Burpham if Freddie could see active service and get promotion; it would help to wipe out Algernon’s disgrace, for I fear there is now no doubt of it, though he says it is all right in his last letter, which is from Marseilles. Letters still come through from France, because our Ambassador said that if any tricks were played with them he would hold the French Government personally responsible, and so cowed them. The Bishop has gone to [[London]] with his family.
+
+February 8th, 19 — . — The Standard has a large map of the North of France, where the fighting will be. It is very interesting. Reuben and his friends have gone up to town again. I saw the Reserves marching through Molesworth to-day; they are going to garrison Portsmouth. The afternoon post did not come in. Reuben said he would telegraph, but I have not got any message. The 12.40 train was an hour late, so I suppose everything is upset by the war. Maria will have to come home by Bâle, and I do so dread the passage from Ostend for her; even the hour from Calais to Dover is more than she can bear. The vicar says that our Government will force the French to keep the Dover-Calais route open for civilians. He says it would be against the practice of civilised warfare to close it, and if that were done we should lay waste the whole country; but I fear he does not know much about the legal aspect of the thing: it is his heart, not his head that speaks. It is dreadful to think what I shall do with Mademoiselle when she comes home with Maria. One can’t blame her when one thinks that it is her own country that is going to be harried and her own brothers brought here as prisoners; but it will be very difficult all the same. The man who was killed at Bigley races was not a Frenchman after all: the crowd only thought he was because he had blacked his face like a negro. It seems that Sir Henry was very hard in court, and said that the ringleaders were lucky not to be indicted for manslaughter. It has frozen again, and it is very slippery in the drive. They are having fireworks or something at Portsmouth, to judge by the sound. Jones told Jane he thought there was a bonfire as well, because he could see a glare now and then in the sky from the window in his room. His leg is setting nicely.
+
+
+
+
 <span class="atom-split" data-atom="story_11_on_revelations--part_01" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 1)" data-chapter="ON REVELATIONS" data-kind="excerpt"></span>
 
 
@@ -5240,3 +4559,684 @@ He added the note:
 “We understand that the law officers of the Crown are debating whether or no the concluding sentences of this disgraceful letter can be made to come within 26 Edward III., ca, defining high treason. It is certainly not a physical attack upon the Person, Consort, or offspring of the Crown, nor is it (strictly speaking) giving aid to the Queen’s enemies. On the other hand, it is devoutly hoped that the attack on Mr. Chamberlain can be made to fall under 32 Henry VIII., 1, whereby it is felony to strike or ‘provoke’ the King’s servants within the precincts of the Palace. The infamous screed was certainly written in a palace, and Mr. Chamberlain is as certainly a servant of the Queen. He certainly was provoked — nay nettled. The latter clauses of the act, condemning those who attack the doctrine of Transubstantiation to be roasted alive, have, of course, fallen into desuetude. The earlier, milder, and more general clauses stand, and should be enforced.”
 
 Let me not be misunderstood. I think it was an error to pen that comment. Strong expressions, used in a time of high party feeling, may look exaggerated when they survive into quieter times. But if it was an error, it was the only error that can be laid to the charge of a just and great man in the whole course of forty years, during which period he occasionally edited as many as five journals at a time.
+
+
+
+
+<span class="atom-split" data-atom="story_12_special_prose" data-title="Caliban’s Guide to Letters — SPECIAL PROSE." data-chapter="SPECIAL PROSE" data-kind="story"></span>
+
+
+SPECIAL PROSE.
+
+SPECIAL PROSE.
+
+MRS. CALIBAN BEGGED me to add a few words on “Special Prose,” and to subjoin an example of that manner. She has suggested for the latter purpose Mrs. Railston’s “Appreciation of William Shakespeare,” written as a preface for the Charing Cross Shakespeare in 1897. She has even been at the pains of asking Mrs. Railston’s leave to have it included in this volume, a permission that was at once granted, accompanied with the courteous request that Mrs. Railston’s name, address, and private advertisement should accompany the same.
+
+Were I dependent upon my own judgment alone, the wisdom of adding such a division at the close of these essays might seem doubtful. Special Prose is an advanced kind of literature, too great an attraction to which might at first confuse rather than aid the student; and I should hardly make a place for it in a straightforward little Text-book.
+
+Mrs. Caliban’s wishes in all matters concerning this work must be observed, and I have done what she desired me, even to the degree of printing Mrs. Railston’s advertisement, though I am certain that great Authoress does herself harm by this kind of insistence ... It is no business of mine....
+
+It is only fair to add that prose of this sort is the highest form of our Art, and should be the ultimate goal of every reader of this Guide. If, however, the student is bewildered in his first attempt to decipher it (as he very well may be), my advice to him is this: let him mark the point to which he has persevered, and then put the whole thing aside until he has had some little further practice in English letters. Then let him return, fresh from other work, some weeks later, and see if he cannot penetrate still further into the close-knit texture. Soon he will find it almost like his own tongue, and will begin to love and to understand.
+
+Not many months will pass before it will mean to him something more than life, as he once imagined, could contain.
+
+Having said so much, let me hasten to obey Mrs. Caliban’s command.
+
+WILLIAM SHAKESPEARE.
+
+An Appreciation.
+
+By Margaret Railston.
+
+How very manifestly well did not Montaigne (I think it was) say in his essay upon Value that the “inner part of Poesy is whilom hid, whilom bare, and it matters little whether it be bare or hidden.” That was a sentence such as our Wordsworth might have quoted at the high court of Plato when the poets were arraigned as unworthy to be rooted in his Republic. For the most part these dear poets of our tongue will rather have it bare than hidden, leaving the subtleties of “The Misanthrope” to another race, and themselves preferring the straight verbal stab of “The Idiot Boy” or “Danny Deever;” so that many of us see nothing in the Rhymed Heroics of the Grand Siècle. Yet Molière also had genius.
+
+“Molière a du génie et Christian été beau.”
+
+That sentence given nasally by a Coquelin to a theatre-full of People of the Middle-Class should convince also us of the Hither-North that flowers may blow in any season and be as various as multiplicity may.
+
+William Shakespeare, without all question and beyond any repining, is — or rather was — the first of our Poets, and was — or rather is — the first to-day. So that, with him for a well and the Jacobean Bible for a further spring of effort, our English Poets make up (“build” Milton called it) the sounding line. But William Shakespeare also is of us: he will have it on the surface or not at all; as a man hastening to beauty, too eager to delve by the way. And with it all how he succeeds! What grace and what appreciation in epithet, what subtle and sub-conscious effects of verb! What resonant and yet elusive diction! It is true Shakespeare, that line —
+
+“Rough winds do shake the darling buds of May.”
+
+And that other —
+
+“Or stoops with the Remover to remove.”
+
+And these are true Shakespeare because in each there is we know not what of ivory shod with steel. A mixture of the light and the strong, of the subtle and the intense rescues his simple words from oblivion. But another, not of our blood, would have hidden far more; he shows it all, frankly disdaining artifice.
+
+Also the great Elizabethan needs room for his giant limbs, for his frame of thought and his thews of diction. Cite him just too shortly, choose but a hair’s breadth too mickle an ensample of his work, and it is hardly Poesy, nay, hardly Prose. Thus you shall have Othello — the Moor they call him — betrayed and raging, full of an African Anger. What does he say of it? Why very much; but if you are of those that cut out their cameos too finely; you slip into quoting this merely: —
+
+Oth. Hum! Hum!
+
+And that is not our Shakespeare at all, nor e’en our Othello. Oh! no, it is nothing but a brutish noise, meaning nothing, empty of tragedy, unwished for.
+
+It was Professor Goodle who said that “none needed the spaces of repose more than Shakespeare,” and taught us in these words that the poet must have hills and valleys; must recline if he is to rise. But does not Shakespeare, even in his repose, seem to create? The Professor will indeed quote to us the mere sprawling leisure of Stratford, and shame us with such lines as —
+
+Mac. — The Devil damn thee black, thou cream-faced loon,
+
+Where got’st thou that goose look?
+
+Which is Shakespeare at full length. But we also, that are not over sure of Shakespeare’s failing, can answer him with such excerpts as these: —
+
+Hen. — Therefore do thou, stiff-set Northumberland,
+
+Retire to Chester, and my cousin here,
+
+The noble Bedford, his to Glo’ster straight
+
+And give our Royal ordinance and word
+
+That in this fit and strife of empery
+
+No loss shall stand account. To this compulsion
+
+I pledge my sword, my person and my honour
+
+On the Great Seal of England: so farewell.
+
+Swift to your charges: nought was ever done
+
+Unless at some time it were first begun.
+
+This also is Shakespeare in his repose, but a better Shakespeare than he whom the Professor would challenge. For though there is here no work or strain in the thing, yet it reeks of English. It is like the mist over our valleys at evening, so effortless is it and so reposeful, and yet so native. Note the climax “On the Great Seal of England” and the quaint, characteristic folk-lore of the concluding couplet, with its rhyming effect. Note also how sparing is William Shakespeare of the strong qualificative, however just it may be. For when our moderns will speak hardly of “the tolerant kine” or “the under-lit sky,” or of “the creeping river like a worm upturned, with silver belly stiffened in the grass,” though they be by all this infinitely stronger, yet are they but the more condensed and self-belittled. Shakespeare will write you ten lines and have in all but one just and sharp adjective— “stiff-set;” for the rest they are a common highway; he cares not.
+
+And here he is in the by-paths; a meadow of Poesy. I have found it hidden away in one of the latter plays; the flowers of his decline: —
+
+“Fear no more the heat o’ the sun,
+
+Nor the furious winter’s rages;
+
+Now thine earthly task is done,
+
+Thou’rt gone home and ta’en thy wages.
+
+Golden lads and lasses must,
+
+Like chimney-sweepers, come to dust.”
+
+There is in that a line I swear no one but Shakespeare would have dared. “Thou’rt gone home and ta’en thy wages.” Commonplace? A text on the wall? A sermon-tag? All you will, but a frame for glory.
+
+This then is William Shakespeare in a last word. A man at work full of doing; the Ϝ ἔργον: glad if you saw the mark of the chisel; still more glad if you did not see it. And if it be queried why are such things written of him? Why do we of the last and woful days turn and return the matter of our past? We say this. Vixere Fortes; that is, no fame were enduring save by continued iterance and echo of similar praise, nor any life well earned in the public sheets that dared not touch on any matter and remodel all. It is for ourselves and for William Shakespeare that these things are done. For ourselves, that is a private thing to hide under the veil of the Home-lofe. For William Shakespeare, that is the public duty, that his fame may not fail in the noise of new voices. And we can borrow from him and return to him what he said of another with such distinction of plane and delicate observance of value: —
+
+“So long as men shall breathe and eyes can see,
+
+This lives, and living, this gives life to thee.”
+
+[Notices in this manner can be furnished at reasonable notice upon any poet, preferably a young or a modern poet, on the usual terms. The style is produced in seven distinct sizes, of which this is No. 3. Please state No. when ordering. All envelopes to be addressed.
+
+Mrs. Margaret Railston,
+
+c/o Charlie Bernberg,
+
+48, Upper Gannimore Gardens,
+
+Shepherd’s Bush, W.
+
+All envelopes to be marked “Appreciation.” Accounts monthly. All cheques to be crossed “Becker, Becker, & Bernberg.”]
+
+
+
+
+<span class="atom-split" data-atom="story_13_appendix" data-title="Caliban’s Guide to Letters — APPENDIX" data-chapter="APPENDIX" data-kind="story"></span>
+
+
+APPENDIX
+PRICES CURRENT.
+
+IN ALL ORDINARY lines Prices were well maintained and rising at the outbreak of the Spanish-American War. They rose sharply thenceforward till the second week of the war in South Africa, since which date they have been sagging, touching bed rock in the spring of this year (March, 1903). There has been a slight reaction since the beginning of the season, but it is not supported, and the market is still extremely dull. Patriotic Poems have fallen out of sight, and Criticism is going begging: in some offices books are no longer given to their reviewers: sub-editors have latterly been asked to bring their own suppers. The pinch is being felt everywhere. Police reports are on piece-work and the Religious Column is shut down to half shifts. Leader writers have broken from 1100 a year to 300. Editors have suffered an all-round cut in wages of 25 per cent. Publishers’ carrying-over days are more anxious than ever. Several first-class houses were hammered on the last contango, and the Banks are calling in loans. Private capital can hardly be obtained save for day-to-day transactions, and even so at very high rates of interest. The only lines that are well maintained are City Articles and Special Prose. Snippets are steady.
+
+The following list is taken from Hunter’s Handbook, and represents Prices at the close of May: —
+
+PROSE.
+
+(Prices in shillings per thousand words).
+
+Rise or Fall.
+
+Special Prose
+
+30/-
+
+35/-
+
+Unchanged.
+
+Street Accidents
+
+10/-
+
+12/-
+
+–
+
+5/-
+
+Reviews
+
+7/6
+
+10/-
+
+–
+
+20/-
+
+Police Court Notices
+
+15/-
+
+18/-
+
+–
+
+5/-
+
+Guaranteed Libels
+
+25/-
+
+30/-
+
+–
+
+3/-
+
+Unguaranteed ditto
+
+5/-
+
+7/-
+
++
+
+2/-
+
+Deferred ditto
+
+14/-
+
+16/-
+
++
+
+4/-
+
+Pompous Leaders
+
+8/-
+
+10/-
+
+–
+
+25/-!
+
+Smart Leaders
+
+9/-
+
+11/6
+
++
+
+3/-
+
+Ten-line Leaderettes
+
+10/-
+
+12/-
+
+Unchanged.
+
+Political Appeals
+
+15/-
+
+17/-
+
+–
+
+30/-
+
+Attacks on Foreign Nations
+
+3/-
+
+3/6
+
+–
+
+48/-!!
+
+Dramatic Criticism
+
+20/-
+
+25/-
+
+Unchanged.
+
+Historical Work
+
+—
+
+6d.?
+
+(Practically
+
+no demand).
+
+Religious Notes
+
+12/-
+
+18/-
+
+–
+
+8/-
+
+Attacks upon Christianity
+
+4/-
+
+4/6
+
+–
+
+5/- (A
+
+very heavy fall for this
+
+kind of matter).
+
+VERSE.
+
+(Prices in pence per line).
+
+Bad Verse
+
+No price can be given — very variable.
+
+Good minor Verse.
+
+3d. (much the same as last year).
+
+Special Verse
+
+1/- (a heavy fall).
+
+READY RECKONER.
+
+This Table does not profess any minute accuracy; it will, however, be found amply sufficient for all practical purposes.
+
+PENCE
+
+SHILLINGS PER
+
+SHILLINGS PER
+
+POUNDS PER
+
+PER LINE.
+
+LONG COLUMN.
+
+SHORT COLUMN.
+
+THOUSAND
+
+Pica.
+
+Minion.
+
+Pica.
+
+Minion.
+
+WORDS.
+
+Bourgeois.
+
+Bourgeois.
+
+¼d.
+
+3/9
+
+4/3
+
+5/-
+
+3/-
+
+3/9
+
+4/6
+
+£0·16378.
+
+½d.
+
+7/6
+
+8/6
+
+10/-
+
+6/-
+
+7/6
+
+9/-
+
+£0·32757.
+
+¾d.
+
+11/3
+
+12/9
+
+15/-
+
+9/-
+
+11/3
+
+13/6
+
+£0·49135.
+
+1d.
+
+15/-
+
+17/-
+
+20/-
+
+12/-
+
+15/-
+
+18/-
+
+£0·65514.
+
+1½d.
+
+22/6
+
+25/6
+
+30/-
+
+18/-
+
+22/6
+
+27/-
+
+£0·98270.
+
+2d.
+
+30/-
+
+34/-
+
+40/-
+
+24/-
+
+30/-
+
+36/-
+
+£1·31028.
+
+2½d.
+
+37/6
+
+42/6
+
+50/-
+
+30/-
+
+37/6
+
+45/-
+
+£1·63705.
+
+No prices superior to this last for Prose.
+
+Verse up to 1/- a line. See preceding page, not reckoned in cols. or 1000 words.
+
+(The Sections dealing with “The Detection of Classical Authors” and “The Vivid Presentation of History,” have been omitted by request of the Family. It is perhaps as well.)
+
+
+
+
+<span class="atom-split" data-atom="story_14_note_on_titles" data-title="Caliban’s Guide to Letters — NOTE ON TITLES." data-chapter="NOTE ON TITLES" data-kind="story"></span>
+
+
+NOTE ON TITLES.
+
+THE YOUNG JOURNALIST will never make an error as to the title of an individual, and his proper style and address, if he will but learn to trust the books of reference provided by the office.
+
+They are far more accurate than other works of the kind. Contrast, for instance, Bowley’s Peerage and Baronetage with Bowley’s Register of Events during the past year.
+
+What may be called “derivative titles” differ in the most complicated manner according to the rank of the parent. It would be quite impossible for the journalist to attempt to learn them. He had far better write plain “Lord” and “Lady” where he has occasion to, and on all other occasions whatsoever, “Mr.” or, if he prefer the term, “Esquire.” In conversation no Lord should be addressed as “My Lord,” but a Bishop should always be so addressed; no Duke should be called “Your Grace” to his face, but it is courteous to bestow this honour upon an Archbishop. It is still more important to avoid the term “milady” in speaking to the consorts of the above named, especially in the case of bishops’ wives, to whom the title does not apply. Baronets, on the other hand, must always be addressed as “Sir,” followed by a Christian name. The omission to do this has led to grievous trouble. The principal English titles are, Prince, Duke, Marquis, Marquess (a more recent creation), Earl, Baron; then comes a division; then Irish Peers, Baronets, Knights, and finally Members of the Victorian Order.
+
+The principal foreign titles are Count, Viscount (which by the way is also an English title, but I forgot it), Vidame, Chevalier, Excellency, Graf, Furst, Margrave, Baron, Boyar, Monsignor, and Grandee — the latter used only in Spain, Ceuta, and the other Spanish dominions beyond the seas.
+
+Imperial titles are: — the Maharajah, the Maharanee, the Akon of Swat, the Meresala of Baghirmi, the Oyo of Oya, the Allemami of Foutazallam, the Ameer, the Emir, the Bally-o-Gum of Abe-o-Kuta, and others too numerous to mention. All these should, in general, be addressed as Your Highness.
+
+Colonials are called “The Honourable.”
+
+
+
+
+<span class="atom-split" data-atom="story_15_note_on_style" data-title="Caliban’s Guide to Letters — NOTE ON STYLE." data-chapter="NOTE ON STYLE" data-kind="story"></span>
+
+
+NOTE ON STYLE.
+
+ONE DOES WELL to have by one a few jottings that will enable one to add to one’s compositions what one calls style in case it is demanded of one by an editor.
+
+I would not insist too much upon the point; it is simple enough, and the necessity of which I speak does not often crop up. But editors differ very much among themselves, and every now and then one gets a manuscript returned with the note, “please improve style,” in blue pencil, on the margin. If one had no idea as to the meaning of this a good deal of time might be wasted, so I will add here what are considered to be the five principal canons of style or good English.
+
+The first canon, of course, is that style should have Distinction. Distinction is a quality much easier to attain than it looks. It consists, on the face of it, in the selection of peculiar words and their arrangement in an odd and perplexing order, and the objection is commonly raised that such irregularities cannot be rapidly acquired. Thus the Chaplain of Barford, preaching upon style last Holy Week, remarked “there is a natural tendency in stating some useless and empty thing to express oneself in a common or vulgar manner.” That is quite true, but it is a tendency which can easily be corrected, and I think that that sentence I have just quoted throws a flood of light on the reverend gentleman’s own deficiencies.
+
+Of course no writer is expected to write or even to speak in this astonishing fashion, but what is easier than to go over one’s work and strike out ordinary words? There should be no hesitation as to what to put in their place. Halliwell’s “Dictionary of Archaic and Provincial Words” will give one all the material one may require. Thus “lettick” is charming Rutlandshire for “decayed” or “putrescent,” and “swinking” is a very good alternative for “working.” It is found in Piers Plowman.
+
+It is very easy to draw up a list of such unusual words, each corresponding with some ordinary one, and to pin it up where it will meet your eye. In all this matter prose follows very much the same rules as were discovered and laid down for verse on page 86.
+
+The second canon of style is that it should be obscure, universally and without exception. The disturbance of the natural order of words to which I have just alluded is a great aid, but it is not by any means the only way to achieve the result. One should also on occasion use several negatives one after the other, and the sly correction of punctuation is very useful. I have known a fortune to be made by the omission of a full stop, and a comma put right in between a noun and its adjective was the beginning of Daniel Witton’s reputation. A foreign word misspelt is also very useful. Still more useful is some allusion to some unimportant historical person or event of which your reader cannot possibly have heard.
+
+As to the practice, which has recently grown up, of writing only when one is drunk, or of introducing plain lies into every sentence, they are quite unworthy of the stylist properly so called, and can never permanently add to one’s reputation.
+
+The third canon of style is the occasional omission of a verb or of the predicate. Nothing is more agreeably surprising, and nothing more effective. I have known an honest retired major-general, while reading a novel in his club, to stop puzzling at one place for an hour or more in his bewilderment at this delightful trick, and for years after he would exclaim with admiration at the style of the writer.
+
+The fourth canon of style is to use metaphors of a striking, violent, and wholly novel kind, in the place of plain statement: as, to say “the classics were grafted on the standing stirp of his mind rather than planted in its soil,” which means that the man had precious little Greek, or again, “we propose to canalize, not to dam the current of Afghan development,” which means that the commander of our forces in India strongly refused to campaign beyond the Khyber.
+
+This method, which is invaluable for the purpose of flattering the rich, is very much used among the clergy, and had its origin in our great Universities, where it is employed to conceal ignorance, and to impart tone and vigour to the tedium of academic society. The late Bishop of Barchester was a past master of this manner, and so was Diggin, the war correspondent, who first talked of a gun “coughing” at one, and was sent home by Lord Kitchener for lying.
+
+The fifth canon of style is, that when you are bored with writing and do not know what to say next, you should hint at unutterable depths of idea by the introduction of a row of asterisks.
+
+* * * * *
+
+
+
+
+<span class="atom-split" data-atom="story_16_the_ode" data-title="Caliban’s Guide to Letters — THE ODE." data-chapter="THE ODE" data-kind="story"></span>
+
+
+THE ODE.
+
+THE WRITING OF Odes seems to have passed so completely out of our literary life, that I thought it inadvisable to incorporate any remarks upon it with the standing part of my book, but I cannot refrain from saying a few words upon it in the Appendix, since I am convinced that it is destined to play a great part in the near future.
+
+I will take for my example the well-known Ode (almost the only successful modern example of this form of composition) which was sung on the beach at Calshott Castle, by a selected choir, on the return of Mr. Joseph Chamberlain from South Africa; and I will use some passages from it in order to emphasize the leading principle that the Ode depends for its effectiveness almost entirely upon the music accompanying it.
+
+Thus, Mr. Daniel Witton’s opening lines:
+
+“What stranger barque from what imperial shores
+
+The angry Solent dares to what mysterious goal?”
+
+would seem tame enough were it not for the wonderful rising of the notes, which accompany them; and the famous outburst:
+
+“She to Southampton steers!”
+
+is equally dependent upon the crash of music and the combined voices of the whole choir. It is difficult for us, who have heard it rendered in the Albert Hall, to appreciate what the words would be without this adventitious aid. Even the lovely single line,
+
+“Lift up your head, Southampton, dry your honourable tears,”
+
+would be less without the delicate soprano floating above its syllables.
+
+I will admit that the passage on the body-guard of National Scouts is very fine, but then, precisely in proportion as it is effective quâ literature, it fails to impress when accompanied by music, though the author of the score was wise enough to set it to a somewhat monotonous recitative. If the student will read the lines slowly to himself, first with, and then without, the notes, he will see what I mean.
+
+“And who more fit than they
+
+Whose better judgment led them to betray
+
+An aged leader and a failing cause
+
+Because —
+
+Because they found it pay.”
+
+Mr. Daniel Witton did not write that word “because” twice over in his original manuscript. He put it in twice to please the musician (whose ignorance of the English tongue was a great handicap throughout), and, as I at least think, he made an error in so doing.
+
+All that passage where the great politician
+
+“ ... taking off his hat,”
+
+comes into the palace at Pretoria, where
+
+“ ... in awful state alone,
+
+Alone, the scientific Monist sat,
+
+Who guards our realm, extends its narrow bounds,
+
+And to achieve his end,
+
+Is quite prepared to spend
+
+The inconceivably imperial sum of twice three hundred times five
+
+hundred thousand pounds,”
+
+shows the grave difficulty of wedding the verse to the music. The last line is intolerably clumsy, when read without the air accompanying it; and the whole illustrates very well my contention that music should be the chief thing in the composition of an ode, and that the libretto should be entirely subservient to it.
+
+A still better example is found in the great chorus “Pretoria,” which begins —
+
+“Pretoria with her hundred towers
+
+Acknowledges his powers,”
+
+and “Johannesburg,” which ends —
+
+“Heil! heil! hoch! heil! du ubermenslich’ wohl-gebornen Graf
+
+von Chamberlein,
+
+While underground,
+
+While underground,
+
+Such rare and scattered Kaffirs as are found
+
+Repeat the happy, happy, happy, happy sound.”
+
+And of course the lyric at the end —
+
+“All in his train de luxe
+
+Reading selected books,
+
+Including Conan Doyle’s ingenious fiction
+
+And popular quota-
+
+Tions, verses by the way
+
+For which he has a curious predilection,
+
+And Mr. Werther’s work
+
+Called ‘England shall not shirk,’
+
+Or ‘The Cape to Cairo, Kairouan and Cadiz,’
+
+And ‘Burke,’ and ‘Who is Who,’
+
+And ‘Men and Women’ too,
+
+And ‘Etiquette for Gentlemen and Ladies,’”
+
+Et cetera, et cetera.
+
+All that lyric depends entirely for its effects upon the little Venetian air taken from Sullivan, who himself took it from Verdi, who got it from a Gondolier. The words by themselves have no beauty whatsoever.
+
+Indeed, I think in the whole Ode there is but one exception to the rule I have laid down, and that is at the very end, where they sing of the accomplished task and, in a fine hyperbole, of the “Great story that shall shake the affrighted years.”
+
+The last five lines are such good music and such good verse that I cannot dissociate one from the other: —
+
+Chorus. And now returns he, turns, turns he to his own —
+
+Trombone. Ah, maddened with delight,
+
+I welcome him upon the loud trombone.
+
+The Bass Drum. I, in more subtle wise,
+
+Upon the big bass drum.
+
+The Tenor. And I upon the trembling flute, that shrieks and
+
+languishes and dies.
+
+All Three. Welcome, and make a widowed land rejoice:
+
+Welcome, attunéd voice; —
+
+Sweet eyes!
+
+It is a very fine ending, and I congratulate Mr. Daniel Witton upon it most sincerely....
+
+It reminds one of the Bacchæ.
+
+Should the student desire to attempt something of the kind for himself, he cannot do better than to invite a musical friend and compose the ode strictly in conjunction with him; neither should write separately from the other, and let there be no quarrels or tantrums, but let each be ready to give way.
+
+I suggest, as a subject for this exercise, a Funeral Ode upon the same statesman, to be sung when occasion serves.
+
+
+
+
+<span class="atom-split" data-atom="story_17_on_remainders_and_pulping" data-title="Caliban’s Guide to Letters — ON REMAINDERS AND PULPING." data-chapter="ON REMAINDERS AND PULPING" data-kind="story"></span>
+
+
+ON REMAINDERS AND PULPING.
+
+SHOULD THE STUDENT aspire to collect his journalistic work, or the less ephemeral part of it, into book form, he will do well to apply to some old and established firm of publishers, who will give him a reasonable estimate for its production, plus the cost of advertising, warehousing, wear and tear, office expenses, etc., etc., to which must be added the customary Fee.
+
+The book so issued will be sent to the Press for notice and review, and will, some weeks later, be either Remaindered or Pulped. It is important to have a clear idea of these processes which accompany an author throughout his career.
+
+A book is said to be Remaindered when it is sold to the secondhand bookseller in bulk; 10 per cent. of the sums so received, less the cost of cartage to and fro from shop to shop, and the wages of the Persuader who attempts to sell the volumes, is then credited to the author in his account, which is usually pressed upon the completion of the transaction.
+
+The less fortunate must be content with Pulping. In the midst of their chagrin they will be consoled by the thought that their book enjoys a kind of resurrection, and will reappear beneath some other, and — who knows? — perhaps some nobler form. The very paper upon which these words are printed may once have formed part of a volume of verse, or of Imperialist pamphlets subsidised by the South African Women’s League.
+
+A book is said to be Pulped when it is sold at so many pence the thousand copies to the Pulpers for Pulping. The transformation is effected as follows: — First the covers are thoroughly and skilfully torn off the edition by girls known as “Scalpers” or “Skinners,” and the Poems (or whatnot), after going through this first process, are shot in batches of twenty-four into a trough, which communicates by an inclined plane with open receptacles known technically as “bins.” Hence the sheets are taken out by another batch of hands known as “feeders” — for it is their duty to “feed” the marvellous machine which is the centre of the whole works. The Poems (as we may imagine them to be) are next thrown by the “feeders,” with a certain rapid and practised gesture, into a funnel-shaped receiver, where they are caught by Six Large Rows of strong Steel Teeth known as the “Jaws,” which are so arranged as just barely to miss each other; these work alternatively back and forth, and reduce the hardest matter to shreds in an incredibly short time.
+
+The shreds so formed fall on to a wide endless band, which carries them on into the “bowl,” where they are converted under a continual stream of boiling water, into a kind of loose paste. Lest any trace of the original Poetic (or Prose) composition could remain to trouble the whiteness of the rapidly forming mixture, this water contains a 30% solution of Sardonic Oxide, two kilogrammes of which will bleach one thousand kilos of shredded Poems or Essays in from thirty-five to forty minutes. When the Poems or whatnot have been finally reduced to a white and formless mass, they are termed pulp and this pulp is laid out into frames, to be converted once more into paper, Art, glazed, and medium.
+
+This principle of “the Conservation of Paper” or, as Lord Balton (Sir Charles Quarry) has himself called it, “the Circulation of Literature,” is naturally more developed among the Anglo-Saxon peoples than upon the Continent. The patriotic reader will be pleased to hear that whereas of existing German books barely 35% are pulped within the year, of French books not 27%, and of Italian but 15%; of our total production — which is far larger — no less than 73% are restored to their original character of useful blank paper within the year, ready to receive further impressions of Human Genius and to speed on its accelerated round the progress of Mankind.
+
+Amen.

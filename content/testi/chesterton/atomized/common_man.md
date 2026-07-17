@@ -8844,6 +8844,427 @@ cresciuta sulle tombe dei nostri stessi amici che vi sono caduti.
 
 
 
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_01" data-title="Common Man — The Superstition Of School (part 1)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
+
+
+THE SUPERSTITION OF SCHOOL
+
+It is an error to suppose that advancing years bring
+retrogressing opinions.  In other words, it is not true that men growing
+old must be growing reactionary.  Some of the difficulties of recent
+times have been due to the obstinate optimism of the old revolutionary.
+Magnificent old men like Kropotkin and Whitman and William Morris
+went to their graves expecting Utopia if they did not expect Heaven.
+But the falsehood, like so many falsehoods, is a false version
+of a half-[[Truth|truth]]. The [[Truth|truth]], or half-[[Truth|truth]], is not that men must
+learn by experience to be reactionaries; but that they must learn
+by experience to expect reactions.  And when I say reactions I
+mean reactions; I must apologise, in the world of current culture,
+for using the word in its correct sense.
+
+If a boy fires off a gun, whether at a fox, a landlord or a
+reigning sovereign, he will be rebuked according to the relative
+value of these objects.  But if he fires off a gun for the first
+[[Time|time]] it is very likely that he will not expect the recoil, or know
+what a heavy knock it can give him.  He may go blazing away through
+life at these and similar objects in the landscape; but he will be
+less and less surprised by the recoil; that is, by the reaction.
+He may even dissuade his little sister of six from firing off one of
+the heavy rifles designed for the destruction of elephants; and will
+thus have the appearance of being himself a reactionary.  Very much
+the same principle applies to firing off the big guns of revolution.
+It is not a man's ideals that change it is not his Utopia that is altered;
+the cynic who says, "You will forget all that moonshine of idealism
+when you are older", says the exact opposite of the [[Truth|truth]].  The doubts
+that come with age are not about the ideal, but about the real.
+And one of the things that are undoubtedly real is reaction:
+that is, the practical probability of some reversal of direction,
+and of our partially succeeding in doing the opposite of
+what we mean to do.  What experience does teach us is this:
+that there is something in the make-up and mechanism of mankind,
+whereby the result of action upon it is often unexpected, and almost
+always more complicated than we expect.
+
+These are the snags of sociology; and one of them concerned
+with [[Education]].  If you ask me whether I think the populace,
+especially the poor, should be recognised as citizens who can
+rule the state, I answer in a voice of thunder, "Yes". If you ask
+me whether I think they ought to have [[Education|education]], in the sense
+of a wide culture and familiarity with the classics of [[history]],
+I again answer, "Yes". But there is, in the achievement
+of this purpose, a sort of snag or recoil that can only be
+discovered by experience and does not appear in print at all.
+It is not allowed for on paper, even so much as is the recoil of a gun.
+Yet it is at this moment an exceedingly practical part of
+practical politics; and, while it has been a political problem
+for a very long [[Time|time]] past, it is a little more marked (if I may stain
+these serene and impartial pages with so political a suggestion)
+under recent conditions that have brought so many highly respectable
+Socialists and widely respected Trade [[Union]] officials to the front.
+
+The snag in it is this:  that the [[Self|self]]-educated think far too much
+of [[Education|education]].  I might add that the half-educated always think
+everything of [[Education|education]].  That is not a fact that appears on
+the surface of the social plan or ideal; it is the sort of thing
+that can only be discovered by experience.  When I said that I wanted
+the popular feeling to find political expression, I meant the actual
+and autochthonous popular feeling as it can be found in third-class
+carriages and bean-feasts and bank-holiday crowds; and especially,
+of course (for the earnest social seeker after [[Truth|truth]]), in public-houses.
+I thought, and I still think, that these people are right on a vast
+number of things on which the fashionable leaders are wrong.
+The snag is that when one of these people begins to "improve himself"
+it is exactly at that moment that I begin to [[Doubt|doubt]] whether it
+is an improvement.  He seems to me to collect with remarkable
+rapidity a number of superstitions, of which the most blind
+and benighted is what may be called the Superstition of School.
+He regards School, not as a normal social institution to be fitted
+in to other social institutions, like [[Home]] and Church and State;
+but as some sort of entirely supernormal and miraculous
+moral factory, in which perfect men and women are made by [[Magic|magic]].
+To this idolatry of School he is ready to sacrifice [[Home]] and
+[[history|History]] and Humanity, with all its instincts and possibilities,
+at a moment's notice.  To this idol he will make any sacrifice,
+especially human sacrifice.  And at the back of the mind,
+especially of the best men of this sort, there is almost always
+one of two variants of the same concentrated conception:
+either "If I had not been to School I should not be the great man I
+am now", or else "If I had been to school I should be even greater
+than I am".  Let none say that I am scoffing at uneducated people;
+it is not their uneducation but their [[Education|education]] that I scoff at.
+Let none mistake this for a sneer at the half-educated; what I dislike
+is the educated half.  But I dislike it, not because I dislike [[Education|education]],
+but because, given the modern [[philosophy]] or absence of [[philosophy]],
+[[Education|education]] is turned against itself, destroying that very sense of
+variety and proportion which it is the object of [[Education|education]] to give.
+No man who worships [[Education|education]] has got the best out of [[Education|education]];
+no man who sacrifices everything to [[Education|education]] is even educated.
+I need not mention here the many recent examples of this monomania,
+rapidly turning into mad persecution, such as the ludicrous persecution
+of the families who live on barges.  What is wrong is a neglect
+of principle; and the principle is that without a gentle contempt
+for [[Education|education]], no gentleman's [[Education|education]] is complete.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LA SUPERSTIZIONE DELLA SCUOLA
+
+È un errore supporre che gli anni che avanzano portino con sé opinioni che retrocedono. In altre parole, non è vero che gli uomini, invecchiando, debbano per forza diventare reazionari. Alcune delle difficoltà dei tempi recenti sono derivate dall'ostinato ottimismo del vecchio rivoluzionario. Magnifici vegliardi come Kropotkin, Whitman e William Morris scesero nella tomba aspettandosi l'Utopia, se non addirittura il Cielo. Ma la falsità, come tante altre falsità, è una falsa versione di una mezza [[Truth|verità]]. La [[Truth|verità]], o mezza [[Truth|verità]], non è che gli uomini debbano imparare dall'esperienza a essere reazionari, bensì che debbano imparare dall'esperienza ad aspettarsi le reazioni. E quando dico reazioni intendo proprio reazioni: devo scusarmi, nel mondo della cultura corrente, di usare la parola nel suo significato corretto.
+
+Se un ragazzo spara con un fucile, che sia contro una volpe, un possidente o un sovrano regnante, verrà rimproverato secondo il valore relativo di questi oggetti. Ma se spara con un fucile per la prima [[Time|volta]], è assai probabile che non si aspetti il rinculo, né sappia quale duro colpo esso possa assestargli. Potrà continuare a far fuoco per tutta la vita contro questi e simili bersagli del paesaggio; ma sarà sempre meno sorpreso dal rinculo, vale a dire dalla reazione. Potrà persino dissuadere la sorellina di sei anni dallo sparare con uno di quei pesanti fucili concepiti per l'abbattimento degli elefanti; e assumerà così l'apparenza di essere egli stesso un reazionario. Lo stesso principio si applica, all'incirca, allo sparo dei grossi cannoni della rivoluzione. Non sono gli ideali di un uomo a cambiare, non è la sua Utopia a essere alterata; il cinico che dice: «Dimenticherai tutte quelle fantasticherie dell'idealismo quando sarai più vecchio», dice l'esatto contrario della [[Truth|verità]]. I dubbi che vengono con l'età non riguardano l'ideale, ma il reale. E una delle cose che sono indubbiamente reali è la reazione: cioè la probabilità pratica di un qualche rovesciamento di direzione, e del nostro riuscire in parte a fare l'opposto di ciò che intendiamo fare. Ciò che l'esperienza davvero ci insegna è questo: che c'è qualcosa nella costituzione e nel meccanismo dell'umanità per cui il risultato di un'azione su di essa è spesso inatteso, e quasi sempre più complicato di quanto ci aspettiamo.
+
+Questi sono gli scogli della sociologia; e uno di essi ha a che fare con l'[[Education|istruzione]]. Se mi chiedete se io ritenga che il popolo, e specialmente i poveri, debba essere riconosciuto come composto di cittadini capaci di governare lo Stato, rispondo con voce di tuono: «Sì». Se mi chiedete se io ritenga che essi debbano avere un'[[Education|istruzione]], nel senso di una vasta cultura e di una familiarità con i classici della [[history|storia]], rispondo di nuovo: «Sì». Ma vi è, nel conseguimento di questo scopo, una sorta di scoglio o di rinculo che può essere scoperto solo dall'esperienza e che non compare affatto sulla carta stampata. Non è previsto sulla carta, nemmeno quanto lo è il rinculo di un fucile. Eppure in questo momento è una parte oltremodo pratica della politica pratica; e, sebbene sia stato un problema politico per moltissimo [[Time|tempo]] in passato, è un poco più marcato (se mi è concesso macchiare queste serene e imparziali pagine con un accenno tanto politico) sotto le condizioni recenti che hanno portato alla ribalta tanti rispettabilissimi socialisti e assai stimati funzionari dei sindacati ([[Union]]).
+
+Lo scoglio è questo: che gli [[Self|autodidatti]] pensano fin troppo all'[[Education|istruzione]]. Potrei aggiungere che i semi-istruiti pensano sempre che l'[[Education|istruzione]] sia tutto. Non è un fatto che appaia in superficie nel piano o nell'ideale sociale; è il genere di cosa che può essere scoperta solo dall'esperienza. Quando dissi che desideravo che il sentimento popolare trovasse espressione politica, intendevo il sentimento popolare reale e autoctono, quale lo si può trovare nelle carrozze di terza classe, nelle scampagnate e nella folla dei giorni festivi; e specialmente, s'intende (per il fervente cercatore sociale della [[Truth|verità]]), nelle osterie. Pensavo, e penso ancora, che questa gente ha ragione su un'infinità di cose sulle quali i capi alla moda hanno torto. Lo scoglio è che quando uno di costoro comincia a «migliorare sé stesso», è esattamente in quel momento che io comincio a [[Doubt|dubitare]] che sia un miglioramento. Mi sembra che raccolga con notevole rapidità un certo numero di superstizioni, di cui la più cieca e ottenebrata è quella che si potrebbe chiamare la Superstizione della Scuola. Egli considera la Scuola non come una normale istituzione sociale da inserire fra le altre istituzioni sociali, come la [[Home|Casa]], la Chiesa e lo Stato, ma come una sorta di fabbrica morale del tutto anormale e miracolosa, in cui uomini e donne perfetti vengono prodotti per [[Magic|magia]]. A questa idolatria della Scuola egli è pronto a sacrificare la [[Home|Casa]], la [[history|Storia]] e l'Umanità, con tutti i loro istinti e le loro possibilità, in un batter d'occhio. A questo idolo egli offrirà qualsiasi sacrificio, e specialmente il sacrificio umano. E sul fondo della mente, soprattutto negli uomini migliori di questa specie, c'è quasi sempre una delle due varianti della medesima concentrata concezione: o «Se non fossi andato a Scuola non sarei il grand'uomo che sono adesso», oppure «Se fossi andato a scuola sarei ancora più grande di quanto sono». Nessuno dica che io mi faccia beffe delle persone non istruite; non è la loro mancanza d'istruzione, ma la loro [[Education|istruzione]] che io metto in ridicolo. Nessuno scambi questo per uno sberleffo ai semi-istruiti; ciò che detesto è la metà istruita. Ma la detesto non perché detesti l'[[Education|istruzione]], bensì perché, data la [[philosophy|filosofia]] moderna o l'assenza di [[philosophy|filosofia]], l'[[Education|istruzione]] viene rivolta contro sé stessa, distruggendo quel senso stesso della varietà e della proporzione che è invece scopo dell'[[Education|istruzione]] conferire. Nessun uomo che adori l'[[Education|istruzione]] ha tratto il meglio dall'[[Education|istruzione]]; nessun uomo che sacrifichi tutto all'[[Education|istruzione]] è neppure istruito. Non ho bisogno di menzionare qui i molti esempi recenti di questa monomania, che va rapidamente trasformandosi in folle persecuzione, come la ridicola persecuzione delle famiglie che vivono sulle chiatte. Ciò che è sbagliato è una negligenza di principio; e il principio è che senza un lieve disprezzo per l'[[Education|istruzione]], nessuna [[Education|istruzione]] di gentiluomo è completa.
+
+
+
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_02" data-title="Common Man — The Superstition Of School (part 2)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
+
+
+I use the casual phrase casually; for I do not concern myself
+with the gentleman but with the citizen.  Nevertheless, there is
+this historic half-[[Truth|truth]] in the case for aristocracy; that it
+is sometimes a little easier for the [[aristocrat]], at his best,
+to have this last touch of culture which is a superiority
+to culture.  Nevertheless, the [[Truth|truth]] of which I speak has
+nothing to do with any special culture of any special class.
+It has belonged to any number of peasants, especially when they
+were poets; it is this which gives a sort of natural distinction
+to Robert Burns and the peasant poets of Scotland.  The power which
+produces it more effectively than any [[Blood|blood]] or breed is religion;
+for religion may be defined as that which puts the first things first.
+Robert Burns was justifiably impatient with the religion he inherited
+from Scottish Calvinism; but he owed something to his inheritance.
+His instinctive consideration of men as men came from an
+ancestry which still cared more for religion than [[Education|education]].
+The moment men begin to care more for [[Education|education]] than for religion
+they begin to care more for [[Ambition|ambition]] than for [[Education|education]].
+It is no longer a world in which the souls of all are equal before heaven,
+but a world in which the mind of each is bent on achieving unequal
+advantage over the other.  There begins to be a mere [[Vanity|vanity]] in being
+educated whether it be [[Self|self]]-educated or merely state-educated. [[Education]]
+ought to be a searchlight given to a man to explore everything,
+but very specially the things most distant from himself.
+[[Education]] tends to be a spotlight; which is centred entirely on himself.
+Some improvement may be made by turning equally vivid and perhaps
+vulgar spotlights upon a large number of other people as [[Well|well]].
+But the only final cure is to turn off the limelight and let him
+realise the [[Stars|stars]].
+
+THE [[Romance|ROMANCE]] OF A RASCAL
+
+It was Thackeray, I think, somewhere in the dizzy mazes of his
+Roundabout Papers, who made a remark which throws some light on
+literary fashions and the fate of Smollett's Peregrine Pickle.
+He described very vividly the fervour he felt as a boy for the
+Waverley Novels; and how those great romances filled the boyhood
+of those, like himself, who were to make the literature of that
+most romantic epoch which we call in England the Victorian era.
+He adds an interesting comment to this effect:  "Our fathers used
+to talk about Peregrine Pickle, telling us (the sly old boys)
+that it was capital fun.  But I think I was rather bewildered by it."
+
+That, I [[Fear|fear]], may be the immediate effect upon many either
+of Thackeray's period or even of our own period, where it has
+inherited the great literary tradition, which many learnt in youth
+from Thackeray, and which Thackeray learnt in youth from Scott.
+Most of those who grew up under such standards of fiction,
+as did the present writer, may be disposed to say at first
+that they find Smollett's [[Novel|novel]] rather bewildering.  Not quite
+so bewildering as some of the most modern novels, of course.
+But many people seem to have a singular literary test, by which they
+like being bewildered by a new book, but dislike being bewildered
+by an old one.  As I shall point out presently, this is very
+largely because the new book is not so new as it pretends to be.
+And the old book is not so very old, as the real stages of [[history]] go.
+In short, the real moral of all these things is the astonishing
+rapidity with which moods and standards change and change again;
+often changing back from the third condition to the first.
+There is nothing so mystifying as the rapidity with which new literary
+methods harden, except the brittleness with which they break.
+Each traveller who turns the corner thinks it will lead him into a
+straight [[Road|road]] of progress; but really it leads him, in about ten minutes,
+to another corner which turns into another and equally crooked [[Road|road]].
+The point about a book like Peregrine Pickle can be fixed
+fairly precisely, by considering what are the changes that separated
+him from Thackeray, or that separate Thackeray from us.
+
+In that little phrase from the Roundabout Papers there are,
+to begin with, some interesting and even amusing points.
+For instance, we are always told that the Victorian parent, or, even more,
+the early nineteenth-century parent, was a Puritan who forbade his
+family the idle as [[Well|well]] as the improper forms of light literature;
+a Heavy Father who sat very heavily even on ordinary [[Love|love]]-stories
+or romantic plays.  Even so eighteenth-century a type as Macaulay
+identified the opinion of most sober and responsible parents with so
+extraordinary a parent as Sir Anthony Absolute in the comic play.
+"A circulating library is an evergreen tree of diabolical knowledge."
+Even a modern so steeped in the eighteenth century as Mr. Max Beerbohm
+has described the typical papa of a generation that might [[Well|well]]
+have been that of Thackeray's papa, as a gloomy and ponderous
+person who talked to his children about nothing but Hell.
+Surely that one little glimpse from Thackeray's own essays might
+lead one to guess that there is something wrong in all this.
+It is difficult to imagine the Puritan papa, who commonly talked
+about Hell, winding up with a recommendation to read Peregrine Pickle.
+It is difficult to suppose that a race of Sir Anthony Absolutes,
+disapproving of all novels, would have gone out of their way
+to select this [[Novel|novel]], out of all earthly novels, on the ground
+that it was "capital fun".  The parent must have been a very sly old
+boy indeed if he really thrust Peregrine Pickle on the attention
+of a little boy, whose head was full of ideals of chivalry,
+like those of Quentin Durward and Ivanhoe.
+
+The [[Truth|truth]] is that the elements were too mixed, and, above all,
+the fashions too fugitive, for any of these generalisations.
+Men who lose traditions abandon themselves to conventions;
+but the conventions are more fleeting than fashions.  There were
+papas who would have been almost as much shocked at their daughters
+reading [[Pride and Prejudice]] as at their reading Peregrine Pickle.
+But they were the papas and not the grand-papas. There was
+a sort of household where Hell was the brightest topic of chat;
+but it was not the old-fashioned household but rather
+the new-fashioned household.  It came in with the Methodists,
+who were regarded as innovators and rebels.  That episode of
+extreme severity, which was the beginning of the highly expurgated
+Victorian fiction, need not here be traced to its historical causes.
+Broadly speaking, it came from the rapid increase of wealth and power
+among the Nonconformists of the north, who vetoed the frankness
+both of the old gentry and the old peasantry of the south.  The point
+here is that the work of these Puritans, from Lancashire or Yorkshire,
+was so very rapidly done that men forgot that it was so very recent.
+All this has to be understood before anybody, looking back through
+the nineteenth century, can do justice to the work of Smollett.
+The point of it is that not only did the changes come, but each
+generation accepted them as if they had always been unchangeable.
+Thus, in the case just mentioned, Thackeray began to write novels
+long after Dickens; he was still an [[Artist|artist]], or art student,
+when he offered to illustrate [[Pickwick]].  Dickens, in the flood
+of his popularity that followed [[Pickwick]], had already accepted
+and popularised what we call the Victorian conventions.
+This has been somewhat harshly expressed by Mr. Aldous Huxley when
+he said that a writer like Dickens writes as if he were a [[Child|child]],
+while a writer like Smollett writes as if he were a grown man.
+But indeed there is a considerable link between a writer like Smollett
+and a writer like Aldous Huxley.  For the [[Road|road]] has taken another
+sharp turn backwards; and the interlude of Victorian [[innocence]] is
+again out of sight.  There is one instance of this, which dominates
+and largely explains the whole story of Peregrine Pickle.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uso la frase disinvolta con disinvoltura; poiché non mi occupo del gentiluomo ma del cittadino. Ciò nondimeno, vi è questa storica mezza [[Truth|verità]] a favore dell'aristocrazia: che talvolta è un poco più facile per l'[[aristocrat|aristocratico]], nel suo momento migliore, avere quest'ultimo tocco di cultura che è una superiorità rispetto alla cultura. Ciò nondimeno, la [[Truth|verità]] di cui parlo non ha nulla a che fare con alcuna cultura particolare di alcuna classe particolare. È appartenuta a un gran numero di contadini, specialmente quando erano poeti; è ciò che conferisce una sorta di naturale distinzione a Robert Burns e ai poeti contadini di Scozia. La forza che la produce più efficacemente di qualsiasi [[Blood|sangue]] o razza è la religione; poiché la religione può essere definita come ciò che mette al primo posto le cose che vengono prima. Robert Burns era giustificatamente insofferente della religione che aveva ereditato dal calvinismo scozzese; ma qualcosa doveva alla propria eredità. La sua istintiva considerazione degli uomini come uomini gli veniva da un lignaggio che teneva ancora più alla religione che all'[[Education|istruzione]]. Nel momento in cui gli uomini cominciano a tenere più all'[[Education|istruzione]] che alla religione, cominciano a tenere più all'[[Ambition|ambizione]] che all'[[Education|istruzione]]. Non è più un mondo in cui le anime di tutti sono uguali dinanzi al cielo, ma un mondo in cui la mente di ciascuno è tesa a conseguire un vantaggio diseguale sull'altro. Comincia a esserci una mera [[Vanity|vanità]] nell'essere istruiti, che si tratti di istruzione da [[Self|autodidatta]] o semplicemente di istruzione statale. L'[[Education|istruzione]] dovrebbe essere un fascio di luce dato a un uomo per esplorare ogni cosa, ma in modo tutto particolare le cose più lontane da sé. L'[[Education|istruzione]] tende invece a essere un riflettore puntato interamente su sé stesso. Qualche miglioramento si potrà ottenere puntando riflettori altrettanto vividi, e forse volgari, su un gran numero di altre persone [[Well|pure]]. Ma l'unico rimedio definitivo è spegnere le luci della ribalta e lasciargli scorgere le [[Stars|stelle]].
+
+IL [[Romance|ROMANZO]] DI UN FURFANTE
+
+Fu Thackeray, mi pare, in qualche punto dei vertiginosi labirinti dei suoi Roundabout Papers, a fare un'osservazione che getta un po' di luce sulle mode letterarie e sulla sorte del Peregrine Pickle di Smollett. Egli descrisse con grande vivacità il fervore che provava da ragazzo per i romanzi di Waverley; e come quei grandi romanzi riempissero la fanciullezza di coloro che, come lui, erano destinati a fare la letteratura di quell'epoca oltremodo romantica che in Inghilterra chiamiamo l'età vittoriana. Vi aggiunge un commento interessante di questo tenore: «I nostri padri usavano parlarci del Peregrine Pickle, dicendoci (quei vecchi birbanti astuti) che era un divertimento sopraffino. Ma credo di esserne rimasto piuttosto sconcertato».
+
+Questo, [[Fear|temo]], potrebbe essere l'effetto immediato su molti, sia del tempo di Thackeray sia perfino del nostro, là dove esso ha ereditato la grande tradizione letteraria che molti appresero in gioventù da Thackeray, e che Thackeray apprese in gioventù da Scott. La maggior parte di coloro che crebbero sotto tali modelli di narrativa, come chi qui scrive, saranno forse propensi a dire, sulle prime, che trovano il [[Novel|romanzo]] di Smollett piuttosto sconcertante. Non del tutto sconcertante come alcuni dei romanzi più moderni, s'intende. Ma molti sembrano avere un singolare criterio letterario, per cui amano essere sconcertati da un libro nuovo, ma detestano essere sconcertati da uno vecchio. Come mostrerò tra poco, ciò dipende in gran parte dal fatto che il libro nuovo non è tanto nuovo quanto pretende di essere. E il libro vecchio non è poi tanto vecchio, per come procedono le reali tappe della [[history|storia]]. In breve, la vera morale di tutte queste cose è la sorprendente rapidità con cui gli umori e i modelli cambiano e tornano a cambiare; spesso ritornando dalla terza condizione alla prima. Non c'è nulla di così sconcertante come la rapidità con cui i nuovi metodi letterari si irrigidiscono, se non la fragilità con cui si spezzano. Ogni viaggiatore che svolta l'angolo pensa che esso lo condurrà su una diritta [[Road|strada]] di progresso; ma in realtà lo conduce, in una decina di minuti, a un altro angolo che svolta in un'altra [[Road|strada]] altrettanto tortuosa. Il punto riguardo a un libro come il Peregrine Pickle può essere fissato con discreta precisione, considerando quali siano i mutamenti che lo separavano da Thackeray, o che separano Thackeray da noi.
+
+In quella breve frase dei Roundabout Papers vi sono, tanto per cominciare, alcuni punti interessanti e persino divertenti. Per esempio, ci viene sempre detto che il genitore vittoriano, o, ancor di più, il genitore del primo Ottocento, fosse un puritano che proibiva alla propria famiglia [[Well|tanto]] le forme oziose quanto quelle sconvenienti della letteratura leggera; un Padre Severo che gravava pesantemente perfino sulle comuni storie d'[[Love|amore]] o sui drammi romantici. Persino un tipo così settecentesco come Macaulay identificava l'opinione della maggior parte dei genitori sobri e responsabili con un genitore tanto straordinario quanto Sir Anthony Absolute nella commedia. «Una biblioteca circolante è un sempreverde albero della diabolica conoscenza». Persino un moderno tanto immerso nel Settecento come il signor Max Beerbohm ha descritto il tipico papà di una generazione che [[Well|ben]] poteva essere quella del papà di Thackeray come una persona tetra e ponderosa che non parlava ai figli d'altro che dell'Inferno. Certamente quel piccolo scorcio, tratto dagli stessi saggi di Thackeray, potrebbe indurre a intuire che in tutto ciò c'è qualcosa che non quadra. È difficile immaginare il papà puritano, che comunemente parlava dell'Inferno, concludere con la raccomandazione di leggere il Peregrine Pickle. È difficile supporre che una schiatta di Sir Anthony Absolute, che disapprovavano tutti i romanzi, si fossero dati la pena di scegliere questo [[Novel|romanzo]], fra tutti i romanzi della terra, con il pretesto che era «un divertimento sopraffino». Il genitore doveva essere davvero un vecchio birbante astuto, se davvero mise il Peregrine Pickle sotto gli occhi di un ragazzino, la cui testa era piena di ideali cavallereschi, come quelli di Quentin Durward e di Ivanhoe.
+
+La [[Truth|verità]] è che gli elementi erano troppo mescolati, e, soprattutto, le mode troppo fuggevoli, per una qualsiasi di queste generalizzazioni. Gli uomini che perdono le tradizioni si abbandonano alle convenzioni; ma le convenzioni sono più effimere delle mode. C'erano papà che si sarebbero quasi scandalizzati altrettanto nel vedere le figlie leggere [[Pride and Prejudice]] quanto nel vederle leggere il Peregrine Pickle. Ma erano i papà e non i nonni. C'era una sorta di famiglia in cui l'Inferno era l'argomento di chiacchiera più brillante; ma non era la famiglia all'antica, bensì piuttosto quella alla moda nuova. Venne con i metodisti, che erano considerati innovatori e ribelli. Quell'episodio di estrema severità, che fu l'inizio della narrativa vittoriana altamente espurgata, non ha bisogno di essere qui ricondotto alle sue cause storiche. In linea di massima, esso derivò dal rapido incremento di ricchezza e potere fra i nonconformisti del nord, che posero il veto sulla schiettezza tanto della vecchia piccola nobiltà quanto del vecchio contadinato del sud. Il punto qui è che l'opera di questi puritani, del Lancashire o dello Yorkshire, fu compiuta così rapidamente che gli uomini dimenticarono quanto fosse recente. Tutto ciò va compreso prima che chiunque, guardando indietro attraverso l'Ottocento, possa rendere giustizia all'opera di Smollett. Il punto è che non solo i cambiamenti vennero, ma ogni generazione li accettò come se fossero sempre stati immutabili. Così, nel caso appena menzionato, Thackeray cominciò a scrivere romanzi molto tempo dopo Dickens; era ancora un [[Artist|artista]], o studente d'arte, quando si offrì di illustrare il [[Pickwick]]. Dickens, nel flusso della popolarità che seguì il [[Pickwick]], aveva già accettato e reso popolari quelle che noi chiamiamo le convenzioni vittoriane. Ciò è stato espresso in modo alquanto brusco dal signor Aldous Huxley quando disse che uno scrittore come Dickens scrive come se fosse un [[Child|bambino]], mentre uno scrittore come Smollett scrive come se fosse un uomo fatto. Ma in verità c'è un legame considerevole fra uno scrittore come Smollett e uno scrittore come Aldous Huxley. Poiché la [[Road|strada]] ha compiuto un'altra brusca svolta all'indietro; e l'intermezzo dell'[[innocence|innocenza]] vittoriana è di nuovo fuori vista. Ce n'è un esempio, che domina e in gran parte spiega l'intera vicenda del Peregrine Pickle.
+
+
+
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_03" data-title="Common Man — The Superstition Of School (part 3)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
+
+
+When Thackeray called [[Vanity]] Fair "a [[Novel|novel]] without a [[Hero|hero]]",
+or even when he made the relatively realistic Pendennis a [[Novel|novel]]
+with a rather unheroic [[Hero|hero]], he was doubtless by that [[Time|time]]
+so accustomed to Victorian fiction as to feel that he was doing
+something new, and even "cynical". For Victorian fiction had already
+returned to the old romantic idea that the [[Hero|hero]] should be heroic,
+even if it did not understand him so [[Well|well]] as did the old romances.
+[[Nicholas Nickleby]] vanquishes Squeers as St. George vanquishes the dragon;
+and John Ridd is a knight without [[Fear|fear]] or reproach, like Ivanhoe.
+But in fact Thackeray was only slightly reacting towards what had
+been universal in the [[Time|time]] of that sly old boy, his papa.
+
+All novels like Peregrine Pickle, all novels up to the [[Time|time]]
+of [[Pickwick]], were written frankly on a far more cynical convention:
+that the [[Hero|hero]] should not be heroic.  The enterprising Mr. Pickle
+is certainly not heroic.  He is many things that are good;
+not only brave, but often warm-hearted and considerate; and, above all,
+capable of recognising better men than himself.  But, for the rest,
+by Victorian and even by normal standards, he is simply a coarse
+and rapacious rascal; nor does Smollett really pretend that he is
+anything else.  This tendency to follow with delight the tricks
+and triumphs of somebody little better than a swindler comes from
+the historical origin of this type of story, which began in what is
+called the picaresque [[Novel|novel]].  It is the [[Romance|romance]] of a wanderer,
+apt to turn from the [[Romance|romance]] of a peddler to that of a highway robber.
+It is a curious coincidence that Smollett translated Gil Blas,
+in which this new cynical [[Romance|romance]] made its first triumph; and also
+translated [[Don Quixote]], in which the [[Road|road]] was cleared for it by the rout
+of the old romances which had made their heroes impossibly heroic.
+But about this sort of rambling tale, of the [[Romance]] of a Rascal,
+there are certain modern misunderstandings to be avoided.
+It would be complete misunderstanding of men like Tobias Smollett
+to suppose that because the heroes are immoral the authors
+are even unmoral.  It is a peculiar characteristic of all that
+stalwart school, which represented this picaresque element in
+England that they do believe in [[Heroism|heroism]] for anybody except heroes.
+Both in Fielding and Smollett and others we find a sort of fixed habit
+of thought, by which virtue is represented, and is even preached,
+and is often preached vehemently and in terms of authority;
+but never by the principal character, who is a young man of the world
+apparently not expected either to preach it or to practise it.
+Parson Adams is a serious picture of a good man, and Joseph Andrews
+is only a bad joke; but Joseph gives his name to the book.
+Fielding is more concerned with Tom [[Jones]] than with Alworthy;
+but be agrees with Mr. Alworthy and not with Tom [[Jones]].
+And if anyone wishes to note exactly how this habit expresses
+itself in Smollett, let him turn to the typical scene in
+which Peregrine Pickle provokes a duel with Mr. Gauntlet.
+By all possible standards Peregrine is to behave like a vulgar
+and low-minded cad, actually sneering at the [[Poverty|poverty]] of the soldier
+whom he has insulted, and being ignominiously defeated by the man
+he has so coarsely despised.  Certainly no Victorian romancer
+would have dragged his [[Hero|hero]] through the mud of such a meeting.
+And yet the whole incident brings out in glowing colours all that is
+really good and lovable about Peregrine Pickle.  He does vividly
+realise that the other man is more virtuous than himself; he acts
+as impetuously on the moral as on the immoral impulse;. he apologises
+after defeat, which is more difficult than apologising before it.
+In other words, Mr. Gauntlet, like Parson Adams, stands for something
+fixed and recognised; a virtue which the other characters venerate
+even while they violate.  In this incident Peregrine is represented
+in the course of an hour or so as behaving almost incredibly badly
+and then almost incredibly [[Well|well]]; and yet it is quite credible.
+Why do we thus feel that there is something solid in it after all?
+First, no [[Doubt|doubt]], because Smollett was a real novelist,
+and the character of Peregrine Pickle was a real character.
+He does convey what later sentiment would have called the contradiction:
+that Peregrine was a scoundrel, but a warm-hearted scoundrel; that lie
+was very near to being a swindler, but always an impetuous swindler.
+But it is due, almost as much, to the sense of firmness produced
+by the fact that vice and virtue are still treated as facts.
+Our sense of sincerity is founded on the fact that Tobias Smollett,
+as [[Well|well]] as Peregrine Pickle, did really believe in right and wrong,
+and thought the principal character wrong and the secondary
+character right.
+
+It is here that we find the chief difference between old writers
+like Smollett and many modern writers who set themselves
+successfully to produce the same convincing smell of dirt,
+the same unmistakable ugliness in the details of life,
+the same slippery and sometimes slimy irresponsibility about sex,
+the same heroic persistency in avoiding [[Heroism|heroism]].  The difference
+is that Smollett's [[Hero|hero]], or [[Villain|villain]], does know exactly where he is
+in the moral world, even if it is where he ought not to be.
+The modern adventurer of the same type occupies all his adventures
+in trying to discover where he is.  He is not so much breaking
+laws with bravery and cunning, as trying to learn the laws,
+with constant bewilderment and [[Despair|despair]].  Virtue does not rebuke him;
+the best that can be said for him is that vice generally bores him.
+Therefore he is not wholly successful in copying the older writers
+in their two gifts of lucidity and grossness; because he lacks
+the third angle of the triangle:  their confidence.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando Thackeray definì [[Vanity]] Fair «un [[Novel|romanzo]] senza [[Hero|eroe]]», o anche quando fece del relativamente realistico Pendennis un [[Novel|romanzo]] con un [[Hero|eroe]] piuttosto poco eroico, era ormai a quel [[Time|tempo]], senza dubbio, così avvezzo alla narrativa vittoriana da sentire di fare qualcosa di nuovo, e persino di «cinico». Poiché la narrativa vittoriana era già tornata alla vecchia idea romantica che l'[[Hero|eroe]] dovesse essere eroico, anche se non lo comprendeva così [[Well|bene]] come lo comprendevano i vecchi romanzi. [[Nicholas Nickleby]] sconfigge Squeers come san Giorgio sconfigge il drago; e John Ridd è un cavaliere senza [[Fear|paura]] e senza macchia, come Ivanhoe. Ma in realtà Thackeray non faceva che reagire lievemente verso ciò che era stato universale ai [[Time|tempi]] di quel vecchio birbante astuto, suo papà.
+
+Tutti i romanzi come il Peregrine Pickle, tutti i romanzi fino al [[Time|tempo]] del [[Pickwick]], erano scritti apertamente su una convenzione assai più cinica: che l'[[Hero|eroe]] non dovesse essere eroico. L'intraprendente signor Pickle non è certo eroico. È molte cose che sono buone; non solo coraggioso, ma spesso cordiale e premuroso; e, soprattutto, capace di riconoscere uomini migliori di sé. Ma, per il resto, secondo gli standard vittoriani e persino secondo gli standard normali, egli è semplicemente un furfante rozzo e rapace; né Smollett pretende davvero che sia qualcos'altro. Questa tendenza a seguire con diletto le astuzie e i trionfi di qualcuno poco migliore di un imbroglione deriva dall'origine storica di questo tipo di racconto, che ebbe inizio in ciò che si chiama il [[Novel|romanzo]] picaresco. È il [[Romance|romanzo]] di un vagabondo, incline a passare dal [[Romance|romanzo]] di un venditore ambulante a quello di un brigante di strada. È una curiosa coincidenza che Smollett tradusse il Gil Blas, in cui questo nuovo [[Romance|romanzo]] cinico riportò il suo primo trionfo; e tradusse anche il [[Don Quixote]], in cui la [[Road|strada]] gli fu spianata dalla disfatta dei vecchi romanzi che avevano reso i loro eroi impossibilmente eroici. Ma riguardo a questa sorta di racconto vagabondo, il [[Romance|Romanzo]] di un Furfante, ci sono certi moderni fraintendimenti da evitare. Sarebbe un completo fraintendimento di uomini come Tobias Smollett supporre che, poiché gli eroi sono immorali, gli autori siano addirittura amorali. È una peculiare caratteristica di tutta quella robusta scuola, che rappresentò questo elemento picaresco in Inghilterra, il credere nell'[[Heroism|eroismo]] per chiunque tranne che per gli eroi. Sia in Fielding sia in Smollett e in altri troviamo una sorta di fissa abitudine di pensiero, per cui la virtù viene rappresentata, e persino predicata, e spesso predicata con veemenza e in termini d'autorità; ma mai dal personaggio principale, che è un giovane uomo di mondo dal quale, a quanto pare, non ci si aspetta né che la predichi né che la pratichi. Il parroco Adams è un serio ritratto di un uomo buono, e Joseph Andrews non è che uno scherzo di cattivo gusto; eppure è Joseph a dare il nome al libro. Fielding si occupa più di Tom [[Jones]] che di Alworthy; ma dà ragione al signor Alworthy e non a Tom [[Jones]]. E se qualcuno desidera notare esattamente come questa abitudine si esprima in Smollett, si volga alla scena tipica in cui Peregrine Pickle provoca un duello con il signor Gauntlet. Secondo ogni possibile criterio, Peregrine si comporta come un cafone volgare e di animo basso, che addirittura sogghigna sulla [[Poverty|povertà]] del soldato che ha insultato, e che viene ignominiosamente sconfitto dall'uomo che ha così rozzamente disprezzato. Certamente nessun narratore vittoriano avrebbe trascinato il proprio [[Hero|eroe]] nel fango di un simile incontro. Eppure l'intero episodio fa risaltare a tinte splendenti tutto ciò che di veramente buono e amabile c'è in Peregrine Pickle. Egli si rende vividamente conto che l'altro è più virtuoso di lui; agisce con la stessa impetuosità sull'impulso morale come su quello immorale; si scusa dopo la sconfitta, il che è più difficile che scusarsi prima di essa. In altre parole, il signor Gauntlet, come il parroco Adams, sta per qualcosa di fisso e riconosciuto; una virtù che gli altri personaggi venerano anche mentre la violano. In questo episodio Peregrine è rappresentato, nell'arco di un'ora circa, mentre si comporta in modo quasi incredibilmente cattivo e poi quasi incredibilmente [[Well|bene]]; eppure la cosa è del tutto credibile. Perché sentiamo così che, dopotutto, c'è qualcosa di solido in essa? Anzitutto, senza [[Doubt|dubbio]], perché Smollett era un vero romanziere, e il carattere di Peregrine Pickle era un carattere reale. Egli sa rendere ciò che il sentimento posteriore avrebbe chiamato la contraddizione: che Peregrine era un mascalzone, ma un mascalzone dal cuore caldo; che era quanto mai vicino a essere un imbroglione, ma sempre un imbroglione impetuoso. Ma ciò è dovuto, quasi altrettanto, al senso di fermezza prodotto dal fatto che il vizio e la virtù sono ancora trattati come fatti. Il nostro senso di sincerità si fonda sul fatto che Tobias Smollett, [[Well|non meno]] di Peregrine Pickle, credeva davvero nel giusto e nell'ingiusto, e riteneva il personaggio principale nel torto e il personaggio secondario nel giusto.
+
+È qui che troviamo la principale differenza fra i vecchi scrittori come Smollett e molti scrittori moderni che si adoperano con successo a produrre lo stesso convincente lezzo di sudiciume, la stessa inconfondibile bruttezza nei particolari della vita, la stessa sdrucciolevole e talora viscida irresponsabilità in fatto di sesso, la stessa eroica ostinazione nell'evitare l'[[Heroism|eroismo]]. La differenza è che l'[[Hero|eroe]], o [[Villain|cattivo]], di Smollett sa esattamente dove si trova nel mondo morale, anche se è là dove non dovrebbe trovarsi. L'avventuriero moderno dello stesso tipo impiega tutte le sue avventure nel tentare di scoprire dove si trova. Egli non tanto infrange le leggi con audacia e astuzia, quanto cerca di apprendere le leggi, con perpetuo sconcerto e [[Despair|disperazione]]. La virtù non lo rimprovera; il meglio che si possa dire di lui è che il vizio, in genere, lo annoia. Perciò egli non riesce del tutto a imitare gli scrittori più antichi nei loro due doni di lucidità e di crudezza; perché gli manca il terzo angolo del triangolo: la loro sicurezza.
+
+
+
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_04" data-title="Common Man — The Superstition Of School (part 4)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
+
+
+Considered as a series of chapters, Peregrine Pickle is simply a chapter
+of accidents.  Curiously enough the splash it made in its own day,
+especially in the sparkling world of wit and fashion, was almost entirely
+due to what almost anybody would now call the dullest part of the book.
+The insertion called "Memoirs of a Lady of Quality" was supposed
+to have some scandalous allusiveness to aristocratic society at
+the [[Time|time]]; but it is not typical of the author, or even of the book.
+Nor can we in practice class this patchy and parenthetical style
+with the similar irregularity of a book like [[Pickwick]].  Most people,
+at least most mature people, have read [[Pickwick]].  Comparatively few,
+even among the most aged people, have read Peregrine Pickle.
+There cannot be very many sly old boys still going about the street,
+and advising modern youth to read it and find it capital fun.
+To many it must now be introduced as a new book rather than an old one;
+and the method of approach is sharply divergent.  In writing of Dickens,
+we are writing for our fellow Dickensians, and can prove any point
+or illustrate any theory by examples they know as [[Well|well]] as we.
+I do not think it is unfair to say that if I were to begin by referring
+the average reader to the [[Well|well]]-known attitude of Mr. Metaphor,
+or the incident of Mr. Hornbeck, he would hardly be so suddenly
+illumined as by a reference to Mr. Stiggins or Mr. Weller.
+In cases like this, where an historic work by a man of genius is not
+now widely popular, or in immediate contact with the reading public,
+the cause and the problem can almost always be found in certain
+changes of taste which, rapid as they are, do correspond
+largely to changes of ideas.  A man who opens Peregrine Pickle
+must not expect what he gets from a good Victorian [[Novel|novel]],
+or a good modern [[Novel|novel]]; and only by some explanation of principles
+can he ever discover that it may contain things quite as good.
+It is [[Well|well]], therefore, to emphasise some general qualities that are
+even better.  The [[Novel|novel]] of Smollett's [[Time|time]] was better than the [[Novel|novel]]
+of the Victorian [[Time|time]], in so far as it recognised more clearly
+that good and evil exist and are entangled even in the same man.
+The [[Novel|novel]] of Smollett's [[Time|time]] was better than the [[Novel|novel]] of our own [[Time|time]],
+in so far as it recognised that, even when they are entangled in
+the same man, they can still be distinguished and are very different,
+and at war till [[Death|death]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Considerato come una serie di capitoli, il Peregrine Pickle è semplicemente un capitolo di incidenti. Curiosamente, il clamore che suscitò ai suoi tempi, specialmente nel brillante mondo dello spirito e della moda, fu quasi interamente dovuto a quella che oggi quasi chiunque definirebbe la parte più noiosa del libro. L'inserto intitolato «Memorie di una dama di rango» si supponeva contenesse qualche scandalosa allusione alla società aristocratica del [[Time|tempo]]; ma non è tipico dell'autore, né tantomeno del libro. Né possiamo in pratica classificare questo stile disuguale e parentetico con la simile irregolarità di un libro come il [[Pickwick]]. La maggior parte delle persone, o almeno la maggior parte delle persone mature, ha letto il [[Pickwick]]. Relativamente poche, anche fra le persone più attempate, hanno letto il Peregrine Pickle. Non possono esserci molti vecchi birbanti astuti ancora in giro per le strade, a consigliare alla gioventù moderna di leggerlo e di trovarlo un divertimento sopraffino. A molti esso dev'essere ormai presentato come un libro nuovo piuttosto che come uno vecchio; e il metodo di approccio è nettamente divergente. Scrivendo di Dickens, scriviamo per i nostri compagni dickensiani, e possiamo dimostrare qualsiasi tesi o illustrare qualsiasi teoria con esempi che essi conoscono altrettanto [[Well|bene]] di noi. Non credo sia ingiusto dire che se cominciassi col rimandare il lettore medio al [[Well|ben]] noto atteggiamento del signor Metaphor, o all'episodio del signor Hornbeck, egli difficilmente ne sarebbe illuminato così di colpo come da un riferimento al signor Stiggins o al signor Weller. In casi come questo, in cui un'opera storica di un uomo di genio non è oggi largamente popolare, né in contatto immediato con il pubblico dei lettori, la causa e il problema possono quasi sempre trovarsi in certi mutamenti del gusto che, per rapidi che siano, corrispondono in gran parte a mutamenti di idee. Chi apre il Peregrine Pickle non deve aspettarsi ciò che trae da un buon [[Novel|romanzo]] vittoriano, o da un buon [[Novel|romanzo]] moderno; e solo attraverso una qualche spiegazione di principi potrà mai scoprire che esso può contenere cose altrettanto buone. È [[Well|bene]], dunque, mettere in risalto alcune qualità generali che sono persino migliori. Il [[Novel|romanzo]] del [[Time|tempo]] di Smollett era migliore del [[Novel|romanzo]] del [[Time|tempo]] vittoriano, in quanto riconosceva più chiaramente che il bene e il male esistono e sono intrecciati anche in uno stesso uomo. Il [[Novel|romanzo]] del [[Time|tempo]] di Smollett era migliore del [[Novel|romanzo]] del nostro [[Time|tempo]], in quanto riconosceva che, anche quando sono intrecciati in uno stesso uomo, essi possono pur sempre essere distinti e sono assai diversi, e in guerra fino alla [[Death|morte]].
+
+
+
 <span class="atom-split" data-atom="story_05_paying_for_patriotism" data-title="Common Man — Paying For Patriotism" data-chapter="Paying For Patriotism" data-kind="story"></span>
 
 
@@ -8934,6 +9355,695 @@ Eppure intendo continuare a essere fiero di Chaucer, di Shakespeare e di Nelson;
 
 
 
+<span class="atom-split" data-atom="story_06_the_pantomime--part_01" data-title="Common Man — The Pantomime (part 1)" data-chapter="The Pantomime" data-kind="excerpt"></span>
+
+
+THE PANTOMIME
+
+Mr. Maurice Baring, the chief Puppet-Master of the Puppet-Show
+of [[Memory]], has included in a recent reprint, I am glad to see,
+an item that I have loved long since and lost awhile, in the form
+of a scene from the old Drury Lane sort of Harlequinade,
+recast in the manner of the mystical plays of Maeterlinck.
+It was probably written when Maeterlinck was very much the fashion,
+and when people had long been saying that the Harlequinade was
+hopelessly old-fashioned. In one sense it would be difficult to say
+which of the two is more old-fashioned now.  But, to judge by current
+criticism and conversation, there are many who remember Pantaloon
+and Harlequin who hardly even remember Pélleas and Mélisande. It
+is a queer thing to note the extent to which the world has become
+silent about Maeterlinck; though it may be the more impressive
+to the remaining followers of so eloquent an admirer of [[Silence|silence]].
+Whatever be the cause, it certainly was not that his work was devoid
+of a very individual imaginative quality.  Personally, I should guess
+that he had shared the fate of many modern attempts to refound mysticism
+on something less real rather than something more real than this world.
+But the matter only arises here in relation to this little literary
+jest about the Pantomime, which I always felt to be one of Mr. Baring's
+most charming fancies.  Of course it is a very good burlesque
+of Maeterlinck; it is also in a sense a very good burlesque of
+the Pantomime; and the latter is the more delicate achievement.
+Every healthy person wishes to make fun of a serious thing;
+but it is generally almost impossible to make fun of a funny thing.
+But in this case the notion of fun or burlesque must not be confused
+in either case with any idea of hostility, or even of [[Satire|satire]].
+[[Parody]] does not consist merely of contrast; at its best it rather
+consists of a superficial contrast covering a substantial congruity.
+The bitter sort of burlesque may exist, and have a right to exist;
+but it is doubtful whether in this particular form the bitterest
+is the best.  The one sort of parodist will naturally [[Parody|parody]] the sort
+of style he dislikes.  But the other sort of parodist will always
+prefer to [[Parody|parody]] the style he likes.  I remember in my boyhood,
+when Swinburne was our (rather too bubbly) champagne, I for one wrote
+almost as many conscious travesties of Swinburne as unconscious
+copies of him.
+
+Now in this case of the Pantomime the [[Paradox|paradox]] has a sort of moral.
+For I know that the real reason why I return with unwearied
+joy to Mr. Baring's little Maeterlinckian Harlequinade is
+because the atmosphere of the harlequinade really was for me,
+if not exactly Maeterlinckian, at least in some mysterious
+sense mystical.  I need not dwell on the points in the [[Parody|parody]]
+which were witty considered as contrasts as [[Well|well]] as coincidences.
+The policeman repeats at intervals, like the tolling of a funeral bell
+(a lost and wandering bell attached to no church and uttering in
+its hollow throat an awful agnosticism), "It was not on my beat."
+The Pantaloon, one of the shivering old men of Maeterlinck,
+babbles not of green fields but of grey and ghostly sausages, as of
+things he will never find, or is not certain that he ever did find.
+But my point here is that, in spite of the comic contrast
+between the hilarity of the Pantomime and the hopelessness
+of the Maeterlinckian atmosphere, there really is something that,
+for me at least, melts the two into a sort of mystical [[unity]]; so that
+the top-heavy [[house]] of the Harlequinade is even here like my [[Home|home]].
+For I am quite certain, as a fact of psychology, that I did
+even in [[Childhood|childhood]] regard the knockabout part of the Pantomime
+with its pokers and sausages, as being none the less a poetical
+part of the Pantomime; and as unmistakably within the frontiers
+of fairyland as the palace of the Fairy [[Queen]].  Never on earthly
+anvil, never in earthly fireplace, did that red poker gleam:
+never those clattering milkcans brim with an earthly cream.
+The Policeman was perfectly right about both scenes and in both senses.
+He was not on his beat.  He was a stray and estranged policeman;
+a policeman stolen by the fairies; a constable wandering
+far away from his constabulary duties, if he ever had any.
+The joke depended on the very Victorian accident that the costume
+of a [[London]] policeman seemed both commonplace and comic;
+and yet, although he was comic, he was not really commonplace.
+He was not merely befooled but bewitched; and his blue uniform
+revisited the glimpses of a blue [[Moon|moon]].  Still, it is curious to
+reflect how completely different the whole drama would have seemed
+if he had been any sort of foreign gendarme, with a cocked hat
+and a [[Sword|sword]].
+
+Now my interest in the matter is this; that I know many will say
+that this sense of glamour is an effect of distance, like the colour
+of blue hills or crimson clouds; and that in this romantic aspect it
+is only a puppet-show of [[Memory|memory]].  They would say that I saw it in this
+mystical manner through the intervening veils of [[Time|time]], through the mists
+of Maeterlinck, through the mockeries of Mr. Baring, and, above all,
+through that depth of delicate [[Melancholy|melancholy]] with which the remote
+past is remembered.  But I am certain that this is not so.
+Apart from the fact that the [[Memory|memory]] of childish joys does not
+make me [[Melancholy|melancholy]] (it is perhaps a fine shade of theology)
+and apart from the fact that I suspect that Mr. Baring himself
+remembers the thing very much as I do, I am quite sure that I
+am remembering a reality that was real then as [[Well|well]] as now.
+You could as soon persuade me that the taste of toffee was an
+illusion that only came to me in later years, or that I think
+I liked roast chestnuts then only because I like them now,
+as convince me that I did not have, even as a [[Child|child]], an overwhelming
+impression that this farcical world was fantastic, not merely
+in the sense of being comic, but also in the sense of being mystic.
+Though the scene might superficially seem completely constructed out
+of objects made as much as possible prosaic, I had an instant inward
+certainty that they were all poetic.  The sky above those staggering
+chimneys was not the sky above the chimneys in the street outside;
+its [[Stars|stars]] would have been strange [[Stars|stars]]; for I had looked
+round another corner of the cosmos.  To wander in the streets
+of that strange town would have been as unearthly an experience
+as to wander in the Blue Forest round Bluebeard's Sapphire Palace,
+or along the Golden Orange-Groves in the gardens of Prester John.
+Not verbally, but quite vividly, I knew then, exactly as I know now,
+that there is something mysterious and perhaps more than mortal
+about the power and call of [[Imagination|imagination]].  I do not think this early
+experience has been quite rightly understood, even by those modern
+writers who have written the most charming and fanciful studies
+of [[Childhood|childhood]]; and I am not so presumptuous as to think that I can
+scientifically succeed where I think they have somehow vaguely failed.
+But I have often fancied that it might be worth while to set down
+a few notes or queries about this difficult and distant impression.
+For one thing, the ordinary phrases used about childish fancies
+often strike me as missing the mark, and being in some subtle way,
+quite misleading.  For instance, there is the very popular phrase,
+"Make-believe." This seems to imply that the mind makes itself
+believe something; or else that it first makes something and then
+forces itself to believe in it, or to believe something about it.
+I do not think there is even this slight crack of falsity in the crystal
+clearness and directness of the [[Child|child]]'s vision of a fairy-palace--
+or a fairy-policeman. In one sense the [[Child|child]] believes much less,
+and in another much more than that.  I do not think the [[Child|child]]
+is deceived; or that he attempts for a moment to deceive himself.
+I think he instantly asserts his direct and divine right to enjoy [[Beauty|beauty]];
+that he steps straight into his own lawful kingdom of [[Imagination|imagination]],
+without any quibbles or questions such as arise afterwards out of false
+moralities and philosophies, touching the [[Nature|nature]] of falsehood and [[Truth|truth]].
+In other words, I believe that the [[Child|child]] has inside his head
+a pretty correct and complete definition of the whole [[Nature|nature]]
+and function of art; with the one addition that he is quite
+incapable of saying, even to himself, a single word on the subject.
+Would that many other professors of aesthetics were under
+a similar limitation.  Anyhow, he does not say to himself,
+"This is a real street, in which mother could go shopping."
+He does not say to himself, " This is an exact realistic copy
+of a real street, to be admired for its technical correctness."
+Neither does he say, "This is an unreal street, and I am drugging
+and deceiving my powerful mind with something that is a mere illusion."
+Neither does he say, "This is only a story, and [[Nurse|nurse]] says
+it is very naughty to tell stories."  If he says anything,
+he only says what was said by those men who saw the white blaze
+of the Transfiguration, "It is [[Well|well]] for us to be here."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LA PANTOMIMA
+
+Il signor Maurice Baring, Burattinaio in capo del Teatro di Burattini della [[Memory|Memoria]], ha incluso, con mia grande gioia, in una recente ristampa, un pezzo che avevo amato tanto tempo fa e poi smarrito per un po': si tratta di una scena della vecchia arlecchinata sul genere di Drury Lane, rifusa alla maniera dei drammi mistici di Maeterlinck. Fu probabilmente scritta quando Maeterlinck era di gran moda, e quando da tempo si andava dicendo che l'arlecchinata era irrimediabilmente antiquata. In un certo senso sarebbe difficile stabilire quale delle due appaia oggi più antiquata. Ma, a giudicare dalla critica e dalle conversazioni correnti, sono molti coloro che ricordano Pantalone e Arlecchino a stento ricordando persino Pelléas e Mélisande. È una cosa curiosa notare fino a che punto il mondo si sia fatto silenzioso intorno a Maeterlinck; anche se ciò può risultare tanto più impressionante ai seguaci superstiti di un così eloquente ammiratore del [[Silence|silenzio]]. Qualunque ne sia la causa, non fu certo che la sua opera fosse priva di una qualità immaginativa assai personale. Personalmente, direi che egli condivise la sorte di molti tentativi moderni di rifondare il misticismo su qualcosa di meno reale, anziché di più reale, di questo mondo. Ma la questione si affaccia qui soltanto in rapporto a questo piccolo scherzo letterario intorno alla pantomima, che ho sempre giudicato una delle più deliziose fantasie del signor Baring. Naturalmente è un'ottima parodia di Maeterlinck; è anche, in un certo senso, un'ottima parodia della pantomima; e quest'ultima è la conquista più delicata. Ogni persona sana desidera prendersi gioco di una cosa seria; ma è generalmente quasi impossibile prendersi gioco di una cosa buffa. In questo caso, però, l'idea di scherzo o di parodia non va confusa, né nell'uno né nell'altro caso, con alcun sentimento di ostilità, e nemmeno di [[Satire|satira]]. La [[Parody|parodia]] non consiste soltanto nel contrasto; al suo meglio, essa consiste piuttosto in un contrasto superficiale che ricopre una sostanziale congruenza. Può esistere il genere amaro di parodia, e ha diritto di esistere; ma è dubbio se, in questa forma particolare, la più amara sia la migliore. L'una specie di parodista [[Parody|parodierà]] naturalmente lo stile che detesta. Ma l'altra specie di parodista preferirà sempre [[Parody|parodiare]] lo stile che ama. Ricordo che nella mia fanciullezza, quando Swinburne era il nostro champagne (fin troppo frizzante), scrissi quasi altrettante consapevoli travestimenti di Swinburne quante inconsapevoli imitazioni di lui.
+
+Ora, in questo caso della pantomima, il [[Paradox|paradosso]] ha una sorta di morale. Perché so bene che la vera ragione per cui torno con inesausta gioia alla piccola arlecchinata maeterlinckiana del signor Baring è che l'atmosfera dell'arlecchinata era davvero per me, se non proprio maeterlinckiana, almeno in qualche misterioso senso mistica. Non ho bisogno di soffermarmi sui punti della [[Parody|parodia]] che erano arguti considerati come contrasti oltre [[Well|che]] come coincidenze. Il poliziotto ripete a intervalli, come il rintocco di una campana funebre (una campana perduta e vagabonda, non legata ad alcuna chiesa, che nella sua cavità profonda proferisce un tremendo agnosticismo): «Non era nella mia ronda». Il Pantalone, uno dei vecchi tremanti di Maeterlinck, farfuglia non di verdi prati ma di grigie e spettrali salsicce, come di cose che non troverà mai, o di cui non è certo di aver mai trovato. Ma il mio punto qui è che, malgrado il comico contrasto fra l'ilarità della pantomima e la disperazione dell'atmosfera maeterlinckiana, c'è davvero qualcosa che, per me almeno, fonde le due cose in una sorta di mistica [[unity|unità]]; sicché la [[house|casa]] sbilenca dell'arlecchinata è, persino qui, come la mia [[Home|casa]]. Perché sono assolutamente certo, come fatto di psicologia, che io, già da [[Childhood|bambino]], consideravo la parte scapigliata della pantomima, con i suoi attizzatoi e le sue salsicce, come non meno poetica parte della pantomima; e inconfondibilmente entro i confini del paese delle fate, come il palazzo della [[Queen|Regina]] delle Fate. Mai su incudine terrena, mai in focolare terreno, brillò quell'attizzatoio rosso: mai quei tintinnanti bricchi di latte traboccarono di una crema terrena. Il poliziotto aveva perfettamente ragione riguardo a entrambe le scene e in entrambi i sensi. Non era nella sua ronda. Era un poliziotto sperduto ed estraniato; un poliziotto rapito dalle fate; un agente che vagava lontano dai suoi doveri di pubblica sicurezza, sempre che ne avesse mai avuti. Lo scherzo dipendeva dal fatto tutto vittoriano che l'uniforme di un poliziotto di [[London|Londra]] sembrava insieme comune e comica; eppure, per quanto fosse comico, non era davvero comune. Non era soltanto infinocchiato, ma stregato; e la sua uniforme azzurra rivisitava i barlumi di una [[Moon|luna]] azzurra. Eppure, è curioso riflettere su quanto interamente diverso sarebbe apparso l'intero dramma se egli fosse stato una qualche specie di gendarme straniero, con il tricorno e la [[Sword|spada]].
+
+Ora, il mio interesse per la faccenda è questo: so che molti diranno che questo senso d'incanto è un effetto della distanza, come il colore delle colline azzurre o delle nuvole cremisi; e che, in questo aspetto romantico, non è che un teatrino di burattini della [[Memory|memoria]]. Direbbero che io lo vedevo in questo modo mistico attraverso i veli interposti del [[Time|tempo]], attraverso le nebbie di Maeterlinck, attraverso gli scherni del signor Baring, e, soprattutto, attraverso quella profondità di delicata [[Melancholy|malinconia]] con cui si ricorda il passato remoto. Ma sono certo che non è così. A parte il fatto che il [[Memory|ricordo]] delle gioie infantili non mi rende [[Melancholy|malinconico]] (è forse una sottile sfumatura di teologia), e a parte il fatto che sospetto che il signor Baring stesso ricordi la cosa press'a poco come la ricordo io, sono del tutto sicuro di ricordare una realtà che era reale allora tanto quanto [[Well|adesso]]. Potreste persuadermi che il sapore del croccante era un'illusione venutami solo negli anni più tardi, o che io credo di aver amato le caldarroste allora solo perché le amo adesso, con la stessa facilità con cui potreste convincermi che io non ebbi, già da [[Child|bambino]], l'impressione travolgente che quel mondo farsesco fosse fantastico, non soltanto nel senso di essere comico, ma anche nel senso di essere mistico. Per quanto la scena potesse superficialmente sembrare interamente costruita con oggetti resi il più possibile prosaici, io avevo un'istantanea certezza interiore che erano tutti poetici. Il cielo sopra quei comignoli traballanti non era il cielo sopra i comignoli della strada là fuori; le sue [[Stars|stelle]] sarebbero state [[Stars|stelle]] estranee; perché io avevo guardato oltre un altro angolo del cosmo. Vagare per le strade di quella strana città sarebbe stata un'esperienza tanto ultraterrena quanto vagare nella Foresta Azzurra intorno al Palazzo di Zaffiro di Barbablù, o lungo i Dorati Aranceti nei giardini del Prete Gianni. Non a parole, ma con perfetta vividezza, io sapevo allora, esattamente come lo so adesso, che c'è qualcosa di misterioso e forse più che mortale nel potere e nel richiamo dell'[[Imagination|immaginazione]]. Non credo che questa esperienza precoce sia stata compresa del tutto rettamente, nemmeno da quegli scrittori moderni che hanno scritto i più deliziosi e fantasiosi studi sull'[[Childhood|infanzia]]; e non sono così presuntuoso da credere di poter riuscire scientificamente là dove essi, mi pare, hanno in qualche modo vagamente fallito. Ma ho spesso pensato che varrebbe la pena di annotare qualche appunto o quesito su questa difficile e lontana impressione. Anzitutto, le frasi ordinarie che si usano a proposito delle fantasie infantili spesso mi colpiscono per come mancano il bersaglio, e per come sono, in qualche modo sottile, del tutto fuorvianti. Per esempio, c'è quella frase molto diffusa: «Far finta». Essa sembra implicare che la mente si costringa a credere qualcosa; oppure che prima fabbrichi qualcosa e poi si forzi a crederci, o a credere qualcosa a suo riguardo. Non credo che vi sia neppure questa lieve incrinatura di falsità nella cristallina limpidezza e immediatezza della visione che il [[Child|bambino]] ha di un palazzo fatato — o di un poliziotto fatato. In un senso il [[Child|bambino]] crede molto meno, e in un altro molto più di così. Non credo che il [[Child|bambino]] sia ingannato; né che tenti per un solo istante di ingannare se stesso. Credo che egli affermi all'istante il proprio diretto e divino diritto di godere della [[Beauty|bellezza]]; che entri dritto nel proprio legittimo regno dell'[[Imagination|immaginazione]], senza alcuno di quei cavilli o interrogativi che sorgono in seguito da false morali e filosofie, toccanti la [[Nature|natura]] della falsità e della [[Truth|verità]]. In altre parole, credo che il [[Child|bambino]] abbia nella testa una definizione abbastanza corretta e completa dell'intera [[Nature|natura]] e funzione dell'arte; con l'unica aggiunta che è del tutto incapace di dire, anche a se stesso, una sola parola in proposito. Volesse il cielo che molti altri professori di estetica fossero soggetti a una simile limitazione. Comunque sia, egli non dice a se stesso: «Questa è una strada vera, in cui la mamma potrebbe andare a far la spesa». Non dice a se stesso: «Questa è una copia realistica esatta di una strada vera, da ammirarsi per la sua correttezza tecnica». E neppure dice: «Questa è una strada irreale, e io sto drogando e ingannando la mia potente mente con qualcosa che è mera illusione». E neppure dice: «Questa è solo una favola, e la [[Nurse|bambinaia]] dice che è molto cattivo raccontare frottole». Se dice qualcosa, dice soltanto ciò che dissero quegli uomini che videro il bianco bagliore della Trasfigurazione: «È [[Well|bene]] per noi stare qui».
+
+
+
+<span class="atom-split" data-atom="story_06_the_pantomime--part_02" data-title="Common Man — The Pantomime (part 2)" data-chapter="The Pantomime" data-kind="excerpt"></span>
+
+
+This is the beginning of all sane art criticism:  [[Wonder|wonder]] combined
+with the complete serenity of the [[Conscience|conscience]] in the acceptance
+of such wonders.  The purity of the [[Child|child]] largely consists in its
+entire absence of [[morality]] in the sense of Puritan [[morality]],
+and all the modern and muddled moralities that have sprung from it,
+scientific and provincial and equivocal, especially the confusions
+about different meanings of words like "fact" and "[[Fable|fable]]" and falsehood.
+The problem is very close to the real problem about images.
+A [[Child|child]] knows that a doll is not a baby; just as clearly as a real
+believer knows that a statue of an angel is not an angel.
+But both know that in both cases the image has the power of both
+opening and concentrating the [[Imagination|imagination]].  Stevenson, whom I
+shall always count a fountain of fine inspiration, and certainly
+a man gifted with the eye that sees the daydreams of [[Childhood|childhood]]
+in broad daylight, was nevertheless not quite sound on this example,
+possibly because he was not quite sound on the other.
+He talks too often of the [[Child|child]] having his head in a cloud
+of confusion and indifference to fact or fancy.  I believe that
+our difficulty with the [[Child|child]] has the directly opposite cause.
+It comes because the [[Child|child]] is perfectly clear about the difference,
+not only between [[Truth|truth]] and falsehood but between fiction and falsehood.
+He understands the two essential types of [[Truth|truth]]:  the [[Truth|truth]] of the mystic,
+which turns a fact into a [[Truth|truth]] where it should be turned into a [[Truth|truth]],
+because the alternative is a triviality; and the [[Truth|truth]] of the martyr,
+which treats a [[Truth|truth]] as a fact, where it should be treated as a fact,
+because the alternative is a lie.  In other words, the [[Child|child]] knows
+perfectly [[Well|well]] without being told the difference between saying
+he has seen the policeman cut in two in the pantomime, and saying
+he has seen his little brother break the jug in the nursery,
+when he really broke it himself.  It is we who have grown confused
+about these categories, and cannot realise the swiftness and clarity
+with which the [[Child|child]] accepts what we call the convention of art.
+Looking at the street down which the clown pursues the policeman
+with a poker he would never dream of saying in the ordinary sense,
+indeed he would never dream of saying at all, "That is a real street."
+But still less would he ever dream of saying, "That is an unreal street."
+He has a better understanding of [[Dreams|dreams]]--and visions.
+
+In the case of the Pantomime there is one plain fact which clenches
+this conviction for me.  I know I knew that the scenery and costume
+were "artificial", because I deeply rejoiced that they were artificial.
+I liked the notion that things were made of painted wood or plastered
+by hand with gold and silver.  These were the vestments and ornaments
+of the ritual; but they were not the rite, still less the revelation.
+I liked the [[Magic|magic]]-box called a stage, because there, for some reason,
+the light that never was on sea or land was on paint and paste-board.
+But I knew perfectly [[Well|well]] that it was paint and paste-board.
+It would be impossible for anybody not to know that who had
+a toy-theatre of his own.  In the Pantomime of my [[Childhood|childhood]],
+with its somewhat simpler scenery, there were tricks of mere stage
+carpentry which I enjoyed as much as if I were working them myself.
+There was one way of representing tossing waves, by rank behind
+rank of escaloped blue walls as groundpieces, moved in opposite
+directions so that the crests seemed to [[Cross|cross]] and [[Dance|dance]].
+I knew how it was done, because my father did it himself before my
+very eyes, in my own toy-theatre at [[Home|home]].  But it gave me such ecstasy
+that even now when I think of it for an instant my heart leaps up
+like the wave.  I knew it was not [[Water|water]], but I knew it was sea;
+and in that flash of knowledge I had passed far beyond those who suffer
+the fixed and freezing illusion, uttered by the pessimistic poet,
+that "the sea's a lot of [[Water|water]] that happens to be there."
+In [[Imagination|imagination]] there is no illusion; no, not even an instant of illusion.
+For no split second even then did I believe that people
+had cut in two a live man--even if he was only a policeman.
+If I had believed it, I should have felt very different.
+What I felt was that it was right; that it was a good and enlarging
+and inspiriting thing to see; that it was an excellent thing
+to look down on the strange street where such things could be seen;
+in short, I could say then, with a quite undivided mind, that it
+was a very good Christmas present to go to the Pantomime.
+
+READING THE [[Riddle|RIDDLE]]
+
+An infinite number of years ago, when I was the chief weakness
+of a publisher's office, I remember that there was issued
+from that establishment a book of highly modern [[philosophy]]:
+a work of elaborate evolutionary explanation of everything and nothing;
+a work of the New Theology.  It was called "The Great Problem Solved"
+or some such title.  When this book had been out for a few
+days it began to promise an entirely unexpected [[success]].
+Booksellers sent to ask about it, travellers came in and asked for it,
+even the ordinary public stood in a sort of knot outside the door,
+and sent in their bolder spirits to make inquiries.
+
+Even to the publisher this popularity seemed remarkable; to me
+(who had dipped into the work, when I should have been otherwise employed)
+it appeared utterly incredible.
+
+After some little [[Time|time]], however, when they had examined
+"The Great Problem Solved", the lesser problem was also solved.
+We found that people were buying it under the impression that it
+was a [[Detective|detective]] story.  I do not blame them for their [[Desire|desire]],
+and most certainly I do not blame them for their disappointment.
+It must have exasperated them, it would certainly infuriate me,
+to open a book expecting to find a cosy, kindly, human story about
+a murdered man found in a cupboard, and find instead a lot of dull,
+bad [[philosophy]] about the upward progress and the purer [[morality]].
+I would rather read any [[Detective|detective]] book than that book.
+I would rather spend my [[Time|time]] in finding out why a dead man was
+dead than in slowly comprehending why a certain philosopher had
+never been alive.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo è l'inizio di ogni sana critica d'arte: la [[Wonder|meraviglia]] unita alla completa serenità della [[Conscience|coscienza]] nell'accettazione di simili meraviglie. La purezza del [[Child|bambino]] consiste in gran parte nella sua totale assenza di [[morality|moralità]] nel senso della [[morality|moralità]] puritana, e di tutte le moderne e confuse moralità che ne sono scaturite, scientifiche e provinciali ed equivoche, specialmente le confusioni intorno ai diversi significati di parole come «fatto» e «[[Fable|favola]]» e falsità. Il problema è assai vicino al vero problema riguardo alle immagini. Un [[Child|bambino]] sa che una bambola non è un neonato; con la stessa chiarezza con cui un vero credente sa che la statua di un angelo non è un angelo. Ma entrambi sanno che, in entrambi i casi, l'immagine ha il potere sia di aprire sia di concentrare l'[[Imagination|immaginazione]]. Stevenson, che considererò sempre una fonte di fine ispirazione, e certamente un uomo dotato dell'occhio che vede in pieno giorno i sogni a occhi aperti dell'[[Childhood|infanzia]], non era tuttavia del tutto attendibile su questo esempio, forse perché non era del tutto attendibile sull'altro. Parla troppo spesso del [[Child|bambino]] che avrebbe la testa in una nube di confusione e di indifferenza fra il fatto e la fantasia. Io credo che la nostra difficoltà col [[Child|bambino]] abbia la causa diametralmente opposta. Nasce dal fatto che il [[Child|bambino]] è perfettamente chiaro sulla differenza, non solo fra [[Truth|verità]] e falsità, ma fra finzione e falsità. Egli comprende i due tipi essenziali di [[Truth|verità]]: la [[Truth|verità]] del mistico, che trasforma un fatto in una [[Truth|verità]] là dove va trasformato in una [[Truth|verità]], perché l'alternativa è una banalità; e la [[Truth|verità]] del martire, che tratta una [[Truth|verità]] come un fatto, là dove va trattata come un fatto, perché l'alternativa è una menzogna. In altre parole, il [[Child|bambino]] conosce perfettamente [[Well|bene]], senza che glielo si dica, la differenza fra il dire di aver visto il poliziotto tagliato in due nella pantomima e il dire di aver visto il suo fratellino rompere la brocca nella stanza dei bambini, quando in realtà l'ha rotta lui stesso. Siamo noi che ci siamo confusi su queste categorie, e non riusciamo a renderci conto della prontezza e della chiarezza con cui il [[Child|bambino]] accetta ciò che noi chiamiamo la convenzione dell'arte. Guardando la strada lungo la quale il pagliaccio insegue il poliziotto con un attizzatoio, egli non si sognerebbe mai di dire, nel senso ordinario — anzi, non si sognerebbe mai di dirlo affatto —: «Quella è una strada vera». Ma ancor meno si sognerebbe mai di dire: «Quella è una strada irreale». Egli ha una migliore comprensione dei [[Dreams|sogni]] — e delle visioni.
+
+Nel caso della pantomima c'è un fatto lampante che suggella in me questa convinzione. So di aver saputo che gli scenari e i costumi erano «artificiali», perché mi rallegravo profondamente che fossero artificiali. Mi piaceva l'idea che le cose fossero fatte di legno dipinto o intonacate a mano d'oro e d'argento. Erano i paramenti e gli ornamenti del rito; ma non erano il rito, e ancor meno la rivelazione. Mi piaceva la scatola [[Magic|magica]] chiamata palcoscenico, perché lì, per qualche ragione, la luce che mai fu su mare o su terra era sulla vernice e sul cartone. Ma sapevo perfettamente [[Well|bene]] che era vernice e cartone. Sarebbe impossibile non saperlo, per chi possedeva un teatrino di giocattolo tutto suo. Nella pantomima della mia [[Childhood|infanzia]], con la sua scenografia un po' più semplice, c'erano trucchi di semplice falegnameria scenica che godevo tanto quanto se li stessi manovrando io stesso. C'era un modo di rappresentare le onde in tempesta, mediante fila dietro fila di muri azzurri smerlati come quinte di fondo, mossi in direzioni opposte, cosicché le creste sembravano [[Cross|incrociarsi]] e [[Dance|danzare]]. Sapevo come si faceva, perché mio padre lo faceva lui stesso sotto i miei occhi, nel mio teatrino di [[Home|casa]]. Eppure ciò mi dava una tale estasi che ancora adesso, quando ci penso per un istante, il cuore mi balza in petto come l'onda. Sapevo che non era [[Water|acqua]], ma sapevo che era mare; e in quel lampo di conoscenza io ero passato ben oltre coloro che soffrono l'illusione fissa e agghiacciante, proferita dal poeta pessimista, secondo cui «il mare è una gran quantità d'[[Water|acqua]] che si trova a essere lì». Nell'[[Imagination|immaginazione]] non c'è illusione; no, nemmeno un istante d'illusione. Perché neppure per una frazione di secondo, allora, io credetti che avessero tagliato in due un uomo vivo — anche se era soltanto un poliziotto. Se l'avessi creduto, avrei provato tutt'altro. Ciò che provavo era che la cosa era giusta; che era una cosa buona e dilatante e ispiratrice da vedere; che era una cosa eccellente affacciarsi su quella strana strada dove simili cose si potevano vedere; in breve, potevo dire allora, con animo del tutto indiviso, che era davvero un bel regalo di Natale andare alla pantomima.
+
+LEGGERE L'[[Riddle|ENIGMA]]
+
+Un numero infinito di anni fa, quando ero la principale debolezza dell'ufficio di un editore, ricordo che da quello stabilimento fu dato alle stampe un libro di [[philosophy|filosofia]] altamente moderna: un'opera di elaborata spiegazione evoluzionistica di tutto e di niente; un'opera della Nuova Teologia. Si intitolava "The Great Problem Solved" o qualcosa del genere. Quando questo libro fu in circolazione da pochi giorni, cominciò a promettere un [[success|successo]] del tutto inatteso. I librai mandavano a informarsi, i commessi viaggiatori entravano a chiederlo, persino il pubblico ordinario stazionava in una sorta di capannello davanti alla porta, e mandava dentro gli spiriti più audaci a chiedere notizie.
+
+Persino all'editore questa popolarità sembrava notevole; a me (che avevo dato una scorsa all'opera, quando avrei dovuto essere altrimenti occupato) appariva assolutamente incredibile.
+
+Dopo qualche po' di [[Time|tempo]], tuttavia, quando ebbero esaminato "The Great Problem Solved", anche il problema minore fu risolto. Scoprimmo che la gente lo comprava nella convinzione che fosse un romanzo [[Detective|poliziesco]]. Non li biasimo per il loro [[Desire|desiderio]], e di certo non li biasimo per la loro delusione. Deve averli esasperati, come di sicuro infurierebbe me, aprire un libro aspettandosi di trovarvi una storia accogliente, benevola e umana su un uomo assassinato ritrovato in un armadio, e trovarvi invece un mucchio di scialba, cattiva [[philosophy|filosofia]] sul progresso ascendente e sulla [[morality|moralità]] più pura. Preferirei leggere qualsiasi libro [[Detective|poliziesco]] a quel libro. Preferirei spendere il mio [[Time|tempo]] a scoprire perché un uomo morto fosse morto, piuttosto che a comprendere lentamente perché un certo filosofo non fosse mai stato vivo.
+
+
+
+<span class="atom-split" data-atom="story_06_the_pantomime--part_03" data-title="Common Man — The Pantomime (part 3)" data-chapter="The Pantomime" data-kind="excerpt"></span>
+
+
+But this little incident has always stuck to me as a symbol of
+what is really wrong with modern popular religion.  Why is a work
+of modern theology less startling, less arresting to the [[Soul|soul]],
+than a work of silly police fiction?  Why is a work of modern theology
+less startling, less arresting to the [[Soul|soul]] than a work of old theology?
+When those unfortunate clients bought "The Great Problem Solved",
+perhaps it was inevitable that they should feel slightly cooled
+and lowered in their vitality; perhaps no philosophical work can
+really be so good as a good [[Detective|detective]] story.  But at any rate
+there need not have been such an absolute abyss between them.
+People need not have felt that they had paid for the most
+exciting kind of book and got the least exciting kind of book.
+It cannot be right that religion should be the dullest of subjects.
+There must be something wrong if the most important human business
+is also the least exciting.  There must be something wrong if
+everything is not interesting.
+
+A man called [[smith|Smith]] goes out for a walk, and stops by a bookstall,
+where he sees a book called "The Great Problem Solved".  If [[smith|Smith]]
+finds that this book solves a problem in crime, he is entranced.
+If [[smith|Smith]] finds that it solves a problem in chess, he is interested.
+If [[smith|Smith]] finds that it solves the problem in the last issue of Answers,
+he is genuinely excited.  But if [[smith|Smith]] finds that it solves the problem
+of [[smith|Smith]], that it explains the stones under his feet, and the [[Stars|stars]]
+over his head, that it tells him suddenly why it really is that he likes
+chess or [[Detective|detective]] stories, or anything else; if I say, [[smith|Smith]] finds
+that the book explains [[smith|Smith]]--then we are told he finds it dull.
+It may be a democratic prejudice, but I do not believe this.
+I think that [[smith|Smith]] likes modern chess problems more than modern
+philosophical problems for the very simple reason that they are better.
+I think he likes a modern [[Detective|detective]] story better than a modern religion
+simply because there are some good modern [[Detective|detective]] stories and no
+good modern religions.  In short, he buys "The Great Problem Solved"
+as a police [[Novel|novel]], because be knows that in a police [[Novel|novel]], in some
+shape or form, the great problem will be solved.  And he does not buy
+it as a book of modern [[philosophy]], because he knows that in a book
+of modern [[philosophy]], the great problem will certainly not be solved.
+This title as the title of a police [[Romance|romance]] is a sensation,
+but as the title of a metaphysical work it is a swindle.
+Those early friends of mine bought the book when they thought that it
+solved the mystery of Berkeley-square, but dropped it like hot bricks
+when they found that it professed only to solve the mystery of existence.
+But if those people had really believed for a moment that it did solve
+the mystery of existence they would not have dropped it like hot bricks.
+They would have walked over hot bricks for ten miles to find it.
+
+That forgotten book may stand as a type of all the new
+theological literature.  What is wrong with it is not that it
+professes to state the [[Paradox|paradox]] of God, but that it professes to state
+the [[Paradox|paradox]] of God as a truism.  You may or may not be able to reveal
+the divine secret; but at least you cannot let it leak out.
+If ever it comes, it will be unmistakable, it will kill or cure.
+Judaism, with its dark sublimity, said that if a man saw God
+he would die.  [[Christianity]] conjectures that (by an even more
+catastrophic fatality) if he sees God he will live for ever.
+But whatever happens will be something decisive and indubitable.
+A man after seeing God may die; but at least he will not be
+slightly unwell, and then have to take a little medicine and then
+have to call in a doctor.  If any of us ever do read the [[Riddle|riddle]],
+we shall read it in brutal black and blazing white, exactly as we
+do read the [[Riddle|riddle]] of some sixpenny mystery of murder.  If we ever
+do find the solution, we shall know that it is the right solution.
+
+This dark and drastic quality there has been certainly in all
+real religions.  The ordinary [[Detective|detective]] story has one deep quality
+in common with [[Christianity]]; it brings [[Home|home]] the crime in a quarter
+that is unsuspected.  In any good [[Detective|detective]] story the last shall
+be first and the first shall be last.  The judgment at the end of any
+silly sensational story is like the judgment at the end of the world;
+it is unexpected.  As the sensational story always makes the apparently
+blameless banker, the seemingly spotless [[aristocrat]], the author
+of the incomprehensible crime, so the author of [[Christianity]] told
+us that in the end the bolt would fall with a brutal novelty,
+and he that exalted himself would be abased.
+
+The actual records of great religions are so terribly
+theatrical that Mr. Bernard [[Shaw]] recently said that the story
+of the Crucifixion in the Gospels was too dramatic to be true.
+This is sufficiently characteristic of the Fabian political [[philosophy]],
+which has never lived in the heart of any heroic politics.
+The story of Danton and Robespierre (to take an accidental example)
+with its "speeches", "eternal daring", "If we do this our names
+are never forgotten among men", "The [[Blood|blood]] of Danton chokes you",
+"There is a God"--shows what men do say.  These things were said,
+and said suddenly, because the heart of man was high.
+When man is at his utmost he is in a state indescribable;
+he tells the [[Truth|truth]] or dies.
+
+It is not in your lot or mine to live in a great or an ecstatic age.
+Men talk of the noise and unrest of our age; but I think that all that age
+is really very sleepy; all the wheels and the traffic send one to [[Sleep|sleep]].
+The shrieking pistons and the shattering hammers are one enormous
+and most soothing lullaby.  But even in our quiet life I think
+we can feel the great fact that is the core of all religion.
+However quiet may be the skies, or however cool the meadows,
+we always feel that if we did know what they meant the meaning
+would be something mighty and shattering.  About the weakest weed
+there is still a sensational difference between understanding
+and not understanding.  We stare at a tree in an infinite leisure;
+but we know all the [[Time|time]] that the real difference is between
+a stillness of mystery and an explosion of explanation.
+We know all the [[Time|time]] that the question is whether it will always
+continue to be a tree or turn suddenly into something else.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma questo piccolo episodio mi è sempre rimasto impresso come un simbolo di ciò che davvero non va nella moderna religione popolare. Perché un'opera di teologia moderna è meno sconvolgente, meno arrestante per l'[[Soul|anima]], di un'opera di sciocca narrativa poliziesca? Perché un'opera di teologia moderna è meno sconvolgente, meno arrestante per l'[[Soul|anima]], di un'opera di teologia antica? Quando quegli sventurati clienti comprarono "The Great Problem Solved", forse era inevitabile che si sentissero un poco raffreddati e abbassati nella loro vitalità; forse nessun'opera filosofica può essere davvero buona quanto una buona storia [[Detective|poliziesca]]. Ma, a ogni modo, non ci sarebbe stato bisogno di un abisso così assoluto tra le due cose. Non ci sarebbe stato bisogno che la gente sentisse di aver pagato per il genere di libro più eccitante e di aver ottenuto il genere di libro meno eccitante. Non può essere giusto che la religione sia il più tedioso dei soggetti. Ci dev'essere qualcosa che non va, se la più importante delle faccende umane è anche la meno eccitante. Ci dev'essere qualcosa che non va, se non tutto è interessante.
+
+Un uomo di nome [[smith|Smith]] esce a fare una passeggiata, e si ferma presso una bancarella di libri, dove vede un libro intitolato "The Great Problem Solved". Se [[smith|Smith]] scopre che questo libro risolve un problema di criminalità, ne è rapito. Se [[smith|Smith]] scopre che risolve un problema di scacchi, ne è interessato. Se [[smith|Smith]] scopre che risolve il problema dell'ultimo numero di "Answers", ne è genuinamente eccitato. Ma se [[smith|Smith]] scopre che risolve il problema di [[smith|Smith]], che spiega le pietre sotto i suoi piedi e le [[Stars|stelle]] sopra il suo capo, che gli dice d'un tratto perché in realtà gli piacciono gli scacchi o le storie [[Detective|poliziesche]], o qualsiasi altra cosa; se, dico, [[smith|Smith]] scopre che il libro spiega [[smith|Smith]] — allora ci vien detto che lo trova tedioso. Sarà anche un pregiudizio democratico, ma io non ci credo. Credo che a [[smith|Smith]] piacciano i moderni problemi di scacchi più dei moderni problemi filosofici per la ragione semplicissima che sono migliori. Credo che gli piaccia una moderna storia [[Detective|poliziesca]] più di una moderna religione semplicemente perché ci sono alcune buone moderne storie [[Detective|poliziesche]] e nessuna buona moderna religione. In breve, egli compra "The Great Problem Solved" come [[Novel|romanzo]] poliziesco, perché sa che in un [[Novel|romanzo]] poliziesco, in una forma o nell'altra, il grande problema verrà risolto. E non lo compra come libro di [[philosophy|filosofia]] moderna, perché sa che in un libro di [[philosophy|filosofia]] moderna il grande problema di certo non verrà risolto. Questo titolo, come titolo di un [[Romance|romanzo]] poliziesco, è una sensazione, ma come titolo di un'opera metafisica è una truffa. Quei miei antichi amici comprarono il libro quando pensarono che risolvesse il mistero di Berkeley Square, ma lo lasciarono cadere come mattoni roventi quando scoprirono che pretendeva soltanto di risolvere il mistero dell'esistenza. Ma se quella gente avesse davvero creduto, anche per un istante, che esso risolvesse il mistero dell'esistenza, non lo avrebbe lasciato cadere come mattoni roventi. Avrebbe camminato su mattoni roventi per dieci miglia pur di trovarlo.
+
+Quel libro dimenticato può valere come tipo di tutta la nuova letteratura teologica. Ciò che vi è di sbagliato non è che pretenda di enunciare il [[Paradox|paradosso]] di Dio, ma che pretenda di enunciare il [[Paradox|paradosso]] di Dio come un truismo. Potete essere o non essere in grado di rivelare il segreto divino; ma almeno non potete lasciarlo trapelare. Se mai verrà, sarà inconfondibile, ucciderà o guarirà. Il giudaismo, con la sua oscura sublimità, diceva che se un uomo vedeva Dio moriva. Il [[Christianity|cristianesimo]] congettura che (per una fatalità ancor più catastrofica) se un uomo vede Dio vivrà in eterno. Ma qualunque cosa accada, sarà qualcosa di decisivo e indubitabile. Un uomo, dopo aver visto Dio, può morire; ma almeno non si sentirà leggermente indisposto, per poi dover prendere un po' di medicina e poi dover chiamare un medico. Se mai qualcuno di noi leggerà l'[[Riddle|enigma]], lo leggeremo in nero brutale e in bianco fiammeggiante, esattamente come leggiamo l'[[Riddle|enigma]] di un qualche giallo da quattro soldi su un delitto. Se mai ne troveremo la soluzione, sapremo che è la soluzione giusta.
+
+Questa qualità cupa e drastica c'è stata di certo in tutte le religioni autentiche. La comune storia [[Detective|poliziesca]] ha una profonda qualità in comune con il [[Christianity|cristianesimo]]: fa ricadere [[Home|a casa]] il delitto da un lato insospettato. In ogni buona storia [[Detective|poliziesca]] gli ultimi saranno i primi e i primi saranno gli ultimi. Il giudizio alla fine di ogni sciocca storia sensazionale è come il giudizio alla fine del mondo: è inatteso. Come la storia sensazionale fa sempre del banchiere apparentemente irreprensibile, dell'[[aristocrat|aristocratico]] apparentemente immacolato, l'autore del delitto incomprensibile, così l'autore del [[Christianity|cristianesimo]] ci disse che alla fine il fulmine cadrà con una brutale novità, e chi avrà esaltato se stesso sarà abbassato.
+
+Le testimonianze effettive delle grandi religioni sono così terribilmente teatrali che il signor Bernard [[Shaw]] ha detto di recente che la storia della Crocifissione nei Vangeli era troppo drammatica per essere vera. Il che è sufficientemente caratteristico della [[philosophy|filosofia]] politica fabiana, che non è mai vissuta nel cuore di alcuna politica eroica. La storia di Danton e Robespierre (per prendere un esempio a caso), con i suoi «discorsi», la sua «audacia eterna», il suo «Se faremo questo, i nostri nomi non saranno mai dimenticati fra gli uomini», il suo «Il [[Blood|sangue]] di Danton ti soffoca», il suo «C'è un Dio» — mostra ciò che gli uomini davvero dicono. Queste cose furono dette, e dette d'un tratto, perché il cuore dell'uomo era in alto. Quando l'uomo è al suo culmine, si trova in uno stato indescrivibile; dice la [[Truth|verità]] o muore.
+
+Non è nella sorte vostra né nella mia vivere in un'epoca grande o estatica. Si parla del frastuono e dell'inquietudine della nostra epoca; ma io penso che tutta questa epoca sia in realtà assai sonnolenta; tutte le ruote e tutto il traffico ci conciliano il [[Sleep|sonno]]. Gli stantuffi stridenti e i martelli fragorosi sono un'unica, enorme e più che rasserenante ninnananna. Ma persino nella nostra vita tranquilla io penso che possiamo sentire il grande fatto che è il nucleo di ogni religione. Per quanto quieti possano essere i cieli, o per quanto freschi i prati, sentiamo sempre che se davvero sapessimo che cosa significano, il loro significato sarebbe qualcosa di possente e sconvolgente. Intorno alla più debole delle erbacce c'è pur sempre una sensazionale differenza fra il comprendere e il non comprendere. Fissiamo un albero in un ozio infinito; ma sappiamo per tutto il [[Time|tempo]] che la vera differenza è quella fra un silenzio di mistero e un'esplosione di spiegazione. Sappiamo per tutto il [[Time|tempo]] che la questione è se esso continuerà sempre a essere un albero o se si trasformerà d'un tratto in qualcos'altro.
+
+
+
+<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_01" data-title="Common Man — A Tale Of Two Cities (part 1)" data-chapter="A Tale Of Two Cities" data-kind="excerpt"></span>
+
+
+A TALE OF TWO CITIES
+
+A Tale of Two Cities was written in the later part of Dicken's
+literary development, and in one respect stands absolutely [[Alone|alone]]
+among all his works.  It is, I think, the one solitary instance,
+from which a critic in distant days could possibly deduce that this
+very great literary man had ever read any literature at all.
+This generalisation may be subject to certain partial modifications,
+to be considered when we consider the course of his life; but as a
+matter of proportion, which is the essential of [[Truth|truth]], it is true.
+In a thousand ways, ranging from the most depressing destitution
+to the most pantomimic parade and luxury, Dickens showed that he had
+studied life, and could turn life into literature.  In a thousand moods,
+ranging from the rankest vulgar farce to the most stagey and
+melodramatic [[morality]], he showed that he had within himself the powers
+and passions and appetites to stock the whole world with stories.
+But very seldom indeed, in enjoying the world of Dickens, do we
+feel that there was really any writer but Dickens in the world.
+Like all very creative men, he unfixes the dates of [[history]],
+and stands as a sort of immortal anachronism.  It is sometimes with a
+sort of start that we remember that his Hogarthian farce and [[Tragedy|tragedy]]
+went on long after Keats had written "La Belle Dame Sans Merci"
+and [[Well|well]] into the [[Time|time]] when Tennyson was writing the [[Poems|poems]]
+of his best period, which was his Pre-Raphaelite period.
+Dickens, in practice and in private life, was a very great admirer
+of Tennyson.  Forster, his biographer, says that his literary
+tastes touching his contemporaries varied very much, but that
+he never failed in his admiration of Tennyson.  But I do not
+honestly believe that anybody could guess, from any printed word--
+from the first words about Mr. [[Pickwick]] and Mr. Blotton of Aldgate,
+to the last broken and doubtful sentences that hint at the [[Identity|identity]]
+of Datchery or the destruction of Drood--that Dickens had taken
+any particular pleasure in "The Lady of Shalott", or "Sir Galahad".
+It is partly a tribute to the strength of Dickens that his mind was
+so teeming with images that he never needed to borrow mere ideas.
+It is partly, also a real weakness in his position, that he had
+never valued the great culture of the past, and therefore could
+not fully understand its developments all around him in the culture
+of the present.  But, for good or evil, it is true that in
+ninety-nine cases out of a hundred nobody (to use a popular phrase)
+ever made a bulge in Dickens; nobody even made a dent in him.
+He remained, with all his gifts and glories, solidly and almost
+insolently himself.  The one example, among all works of his authorship,
+in which we feel even faintly the presence, or perhaps the [[Shadow|shadow]],
+of another author, is A Tale of Two Cities; and that other author
+is Thomas Carlyle.
+
+As I have said, the normal human conditions necessary to his
+normal human life, involved some modification of this statement.
+He was very largely what is called a [[Self|self]]-taught man, which means
+that be was taught, not by himself, but by other people;
+by other people acting as they really act in the real world,
+and not as they pose before pupils they are paid to teach.
+His domestic circumstances from the first were very insecure,
+so that he saw more of books than of school-books; he learned more
+from tattered volumes left about in a tavern than from grammars
+provided primly in an educational establishment.  But it is quite
+true that among the tattered volumes in the tavern, or elsewhere,
+there were some with titles not yet entirely forgotten:  titles like
+Robinson Crusoe and Tom [[Jones]] and Roderick Random and Tristram Shandy.
+In this sense it is true that he, like every other human being who ever
+wrote or even read, owed something to what had already been written.
+And indeed the great comic classics, which were the glory of
+eighteenth-century England, did leave a certain trend or track
+in his mind, which is an utterly trackless waste as regards all
+the things that anybody could ever have tried to teach him in school.
+It is evident, however, from the very [[Nature|nature]] of the story itself,
+that school in his case must have been almost as intermittent as truancy.
+Charles Dickens was born in Portsea, adjoining Portsmouth,
+in 1812, and was promptly carried away from it at the age of two.
+He then became a Londoner for a few years, equally infantile;
+and then his wandering family settled down in Chatham, which was about
+the nearest approach it ever made to settling down anywhere.  Thus we
+find first the two facts, that are both determining and important:
+one, that his family was one of very varied economic fortunes,
+such as leads to frequent change of abode, and has indeed made the modern
+poorer middle class almost as nomadic as Arabs; and the other,
+that such background as a [[Child|child]] of genius will always feel and value
+(if he has half a chance to do it) was for Charles Dickens,
+to the day of his [[Death|death]], the great roads of [[Kent]] that go down to Dover;
+and the gardens and hopfields and the towers of Rochester [[Cathedral]].
+In so far as he had any traditions, that was his traditional environment;
+just as in so far as he had any culture, it was that of the great
+comic novelists of England a hundred years before.  He was so far
+traditional by instinct that he never forgot either of the influences;
+he named one of his sons after Henry Fielding; and, when he came
+to comfort and affluence, he made his [[Home|home]] on Gad's [[Hill]],
+on that great Kentish [[Road|road]] where [[Falstaff]] had played the glorious
+[[Fool|fool]] long ago.
+
+The private life of Dickens, however, is of little importance
+to the outline of criticism here involved, and is indeed
+in its own [[Nature|nature]] somewhat irrelevant and accidental.
+Its chief [[Tragedy|tragedy]] was almost an accident, and its premature close
+was a sort of defeat brought about by an excess of triumphs.
+It is [[Well|well]] known that in his early youth, while he was still
+a parliamentary reporter living in [[London]] after his boyhood
+in Chatham, he married the daughter of one of his literary patrons
+named Hogarth, and that by a long process of disagreement,
+about which critics can always disagree, he came to be alienated
+from his wife; though, curiously enough, remaining on terms of
+perfectly sober and fraternal [[Friendship|friendship]] with one of her sisters.
+There is no need to pronounce upon a problem which was really
+kept private, by the not undignified prejudice of the Victorian [[Time|time]];
+it is enough to say that no very [[Grave|grave]] charge was ever brought against
+either party by any of the small group of people who knew the [[Truth|truth]].
+It is more relevant here to remark that at almost the same moment
+as his [[Marriage|marriage]] occurred his first and perhaps most triumphant
+entry into literature.  His first book, commonly called [[Pickwick]]
+or the [[Pickwick]] Papers, is supreme among his works in many ways,
+but especially in the way here in question:  that it is a
+purely personal creation and owes nothing to any other book.
+It is all the more amusing to remember that a spiteful attempt
+was made by some of his enemies to suggest that it owed
+everything to its original illustrator, an [[Artist|artist]] named Seymour,
+who drew spirited sporting sketches of the sort then fashionable.
+It is a peculiarly false insinuation, in a literary sense.
+For it is the whole point of [[Pickwick]] that its rush of inspiration
+not only [[Leaves|leaves]] Seymour's first ideas behind, but [[Leaves|leaves]] Dickens'
+first ideas quite as far behind.  We might say that the whole
+point of [[Pickwick]] is that it does not stick to the point;
+or at least that the point is not [[Pickwick]], in the sense of the
+President of the [[Pickwick]] Club.  The best things in [[Pickwick]] have
+nothing to do with the principal characters, still less with the
+preliminary chapters, and least of all with the early illustrations.
+It is an exceptional case in which the story grows better the more
+it strays from the story.  Dickens did not preserve this limpid
+and perfect liberty in his later stories.  He produced better novels,
+but never so good a book.  Still, we can say of the ensuing series
+of books that, whatever else they were, they were not bookish.
+They showed Dickens interested in different things, but never
+any other authors influencing Dickens.  Thus, in his next book
+[[Oliver Twist]], which he seemed resolved to make as grim and lurid
+as [[Pickwick]] had been gay and luminous, he was in fact protesting
+against many social evils, which had already produced noble protests
+from great men of that age.  The workhouse he hated had been hated
+as healthily by Cobbett or by Hood, by Cartwright or by Carlyle.
+But nobody could say that one word of [[Oliver Twist]] sounds as if it
+were suggested by the style of Cobbett or by the style of Carlyle.
+[[Nicholas Nickleby]] and [[Martin Chuzzlewit]] show him even more
+obviously walking down his own street, in some ways even a narrow
+and Cockney street; the same applies to The Old Curiosity Shop;
+and, though [[Barnaby Rudge]] is a sort of experiment in the way
+of a [[Historical Novel|historical novel]], it is not much more really historical
+than the Old Curiosity Shop or its Wardour Street curiosities.
+Dombey and Son has the same now established balance of perfect
+[[Comedy|comedy]] and rather imperfect [[Melodrama|melodrama]]; and though [[David Copperfield]]
+strikes far deeper, and releases a much finer [[spring]] of inspiration,
+it is even more personal than the rest.  Dickens has found a new
+source of inspiration, but not by reading anybody else's book;
+rather by reading his own diary.  The same statement applies to that
+fine book, [[Great Expectations]], and a much sharper social criticism,
+still extorted by contemporary facts rather than contemporary culture,
+appears in the unconscious or unclassifiable Socialism of Hard Times.
+It mixes his own observations less with mere fancies than did
+his first protest in [[Oliver Twist]]; but it is always his own
+observations and nobody else's. There is little to vary this
+verdict in the other two novels of Bleak [[house|House]] and Little Dorrit.
+It is only when we come to the book which is here specially
+in question, A Tale of Two Cities, which appeared in 1859, that we
+have anything like the particular impression of which I speak;
+that Dickens has felt the pressure of an imaginative atmosphere outside
+his own bursting sufficiency and energy, that energy from whose
+centrifugal fury all fancies but his own had been spurned away.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+RACCONTO DI DUE CITTÀ
+
+*Racconto di due città* fu scritto nella fase più tarda dello sviluppo letterario di Dickens e, sotto un certo aspetto, si erge assolutamente [[Alone|solitario]] fra tutte le sue opere. È, credo, l'unico caso isolato dal quale un critico dei giorni lontani potrebbe forse dedurre che questo grandissimo uomo di lettere avesse mai letto un rigo di letteratura. Questa generalizzazione può essere soggetta a certe parziali modificazioni, da considerarsi quando prenderemo in esame il corso della sua vita; ma come questione di proporzione, che è l'essenza della [[Truth|verità]], essa è vera. In mille modi, che spaziano dall'indigenza più deprimente alla più pantomimica sfilata e sfarzo, Dickens mostrò di aver studiato la vita e di saperla tramutare in letteratura. In mille umori, che spaziano dalla farsa più goffamente volgare alla [[morality|moralità]] più teatrale e melodrammatica, egli mostrò di avere in sé le forze, le passioni e gli appetiti per rifornire di storie il mondo intero. Ma assai di rado, in verità, godendo del mondo di Dickens, avvertiamo che vi fosse davvero al mondo altro scrittore che Dickens. Come tutti gli uomini profondamente creativi, egli scardina le date della [[history|storia]] e sta lì come una sorta di immortale anacronismo. È talvolta con una specie di sussulto che ci rammentiamo come la sua farsa e la sua [[Tragedy|tragedia]] hogarthiane proseguissero a lungo dopo che Keats ebbe scritto «La Belle Dame Sans Merci», e [[Well|ben]] addentro al [[Time|tempo]] in cui Tennyson andava scrivendo le [[Poems|poesie]] del suo periodo migliore, che fu il suo periodo preraffaellita. Dickens, nella pratica e nella vita privata, era un grandissimo ammiratore di Tennyson. Forster, suo biografo, dice che i suoi gusti letterari riguardo ai contemporanei variavano moltissimo, ma che egli non venne mai meno all'ammirazione per Tennyson. Eppure non credo onestamente che alcuno potrebbe indovinare, da una sola parola stampata — dalle prime parole sul signor [[Pickwick]] e sul signor Blotton di Aldgate, fino alle ultime frasi spezzate e incerte che alludono all'[[Identity|identità]] di Datchery o alla rovina di Drood — che Dickens avesse tratto un particolare diletto dalla «Lady of Shalott» o da «Sir Galahad». È in parte un omaggio alla forza di Dickens che la sua mente pullulasse a tal segno di immagini da non aver mai bisogno di prendere in prestito semplici idee. È in parte, anche, una reale debolezza della sua posizione l'aver egli mai fatto conto della grande cultura del passato, e il non poter perciò comprendere appieno gli sviluppi di essa che gli fiorivano tutt'intorno nella cultura del presente. Ma, nel bene o nel male, è vero che in novantanove casi su cento nessuno (per usare una frase corrente) fece mai una gobba in Dickens; nessuno vi lasciò neppure un'ammaccatura. Egli rimase, con tutti i suoi doni e le sue glorie, solidamente e quasi insolentemente se stesso. L'unico esempio, fra tutte le opere della sua penna, in cui avvertiamo sia pur debolmente la presenza, o forse l'[[Shadow|ombra]], di un altro autore, è *Racconto di due città*; e quell'altro autore è Thomas Carlyle.
+
+Come ho detto, le normali condizioni umane necessarie alla sua normale vita umana comportavano qualche modificazione di questa affermazione. Egli era in larghissima misura ciò che si dice un [[Self|auto]]didatta, il che significa che fu istruito non da se stesso, ma da altra gente; da altra gente che agiva come agisce davvero nel mondo reale, e non come si atteggia dinanzi ad allievi che è pagata per istruire. Le sue circostanze domestiche furono fin dal principio assai precarie, cosicché vide più libri che libri di scuola; imparò più da volumi sbrindellati lasciati in giro in una taverna che dalle grammatiche fornite con compunzione in un istituto d'istruzione. Ma è ben vero che tra i volumi sbrindellati nella taverna, o altrove, ve n'erano alcuni dai titoli non ancora del tutto dimenticati: titoli come *Robinson Crusoe* e *Tom [[Jones]]* e *Roderick Random* e *Tristram Shandy*. In questo senso è vero che egli, come ogni altro essere umano che abbia mai scritto o anche solo letto, doveva qualcosa a ciò che era già stato scritto. E davvero i grandi classici comici, che furono la gloria dell'Inghilterra del Settecento, lasciarono nella sua mente una certa china o un certo solco, laddove essa è un deserto assolutamente privo di solchi rispetto a tutto ciò che chiunque abbia mai potuto tentare di insegnargli a scuola. È evidente, tuttavia, dalla [[Nature|natura]] stessa della storia, che la scuola nel suo caso dev'essere stata quasi altrettanto intermittente delle sue fughe da essa. Charles Dickens nacque a Portsea, adiacente a Portsmouth, nel 1812, e ne fu prontamente portato via all'età di due anni. Divenne poi londinese per qualche anno, altrettanto infantile; e poi la sua famiglia errabonda si stabilì a Chatham, che fu quanto di più vicino essa mai giunse a stabilirsi in qualche luogo. Troviamo così anzitutto i due fatti, entrambi determinanti e importanti: uno, che la sua famiglia era di fortune economiche assai varie, tali da indurre frequenti cambi di dimora, e che hanno in effetti reso la moderna piccola borghesia più povera quasi nomade come gli Arabi; e l'altro, che quello sfondo che un [[Child|fanciullo]] di genio sempre sentirà e apprezzerà (se ne ha mezza occasione) fu per Charles Dickens, fino al giorno della sua [[Death|morte]], le grandi strade del [[Kent]] che scendono a Dover; e i giardini e i campi di luppolo e le torri della [[Cathedral|cattedrale]] di Rochester. In quanto egli ebbe delle tradizioni, quello fu il suo ambiente tradizionale; così come in quanto ebbe una cultura, essa fu quella dei grandi romanzieri comici d'Inghilterra di cent'anni prima. Era a tal punto tradizionale per istinto che non dimenticò mai né l'una né l'altra di quelle influenze; chiamò uno dei suoi figli col nome di Henry Fielding; e, quando pervenne all'agiatezza e all'abbondanza, pose la propria [[Home|dimora]] a Gad's [[Hill|Hill]], su quella grande [[Road|strada]] del Kent dove [[Falstaff]] aveva fatto tanto tempo prima il glorioso [[Fool|buffone]].
+
+La vita privata di Dickens, però, è di scarsa importanza per il profilo critico qui in gioco, ed è anzi per sua [[Nature|natura]] alquanto irrilevante e accidentale. La sua principale [[Tragedy|tragedia]] fu quasi un accidente, e la sua conclusione prematura fu una sorta di sconfitta prodotta da un eccesso di trionfi. È [[Well|ben]] noto che nella prima giovinezza, quando era ancora cronista parlamentare e viveva a [[London|Londra]] dopo la fanciullezza a Chatham, egli sposò la figlia di uno dei suoi mecenati letterari, di nome Hogarth, e che per un lungo processo di dissapori, sui quali i critici possono sempre dissentire, giunse ad estraniarsi dalla moglie; pur rimanendo, per quanto curioso, in rapporti di perfettamente sobria e fraterna [[Friendship|amicizia]] con una delle sorelle di lei. Non v'è bisogno di pronunciarsi su un problema che fu davvero tenuto privato dal non indegno pudore dell'età [[Time|vittoriana]]; basti dire che nessuna accusa davvero [[Grave|grave]] fu mai mossa contro l'una o l'altra parte da alcuno del piccolo gruppo di persone che conoscevano la [[Truth|verità]]. Più pertinente è qui osservare che quasi nel medesimo istante del suo [[Marriage|matrimonio]] avvenne il suo primo e forse più trionfale ingresso nella letteratura. Il suo primo libro, comunemente chiamato [[Pickwick]] o *Il Circolo [[Pickwick]]*, è supremo fra le sue opere in molti modi, ma specialmente nel modo qui in questione: che è una creazione puramente personale e non deve nulla ad alcun altro libro. Tanto più diverte ricordare che alcuni suoi nemici tentarono con malanimo di insinuare che esso dovesse ogni cosa al suo illustratore originario, un [[Artist|artista]] di nome Seymour, che disegnava vivaci schizzi sportivi del genere allora di moda. È un'insinuazione particolarmente falsa, in senso letterario. Poiché tutto il senso di [[Pickwick]] è che il suo impeto d'ispirazione non solo si [[Leaves|lascia]] alle spalle le prime idee di Seymour, ma si [[Leaves|lascia]] alle spalle altrettanto lontano le prime idee di Dickens. Potremmo dire che tutto il senso di [[Pickwick]] è che esso non tiene fede al punto; o almeno che il punto non è [[Pickwick]], nel senso del Presidente del Circolo [[Pickwick]]. Le cose migliori di [[Pickwick]] non hanno nulla a che fare coi personaggi principali, ancor meno coi capitoli preliminari, e meno che mai con le prime illustrazioni. È un caso eccezionale in cui la storia migliora quanto più si allontana dalla storia. Dickens non conservò questa limpida e perfetta libertà nelle sue storie successive. Produsse romanzi migliori, ma mai un libro così bello. Eppure possiamo dire dell'ulteriore serie di libri che, qualunque altra cosa fossero, non erano libreschi. Mostravano Dickens interessato a cose diverse, ma mai nessun altro autore che influenzasse Dickens. Così, nel suo libro seguente, [[Oliver Twist]], che parve risoluto a rendere tanto cupo e sinistro quanto [[Pickwick]] era stato gaio e luminoso, egli protestava in realtà contro molti mali sociali, che avevano già suscitato nobili proteste da grandi uomini di quell'età. Il ricovero dei poveri che egli odiava era stato odiato altrettanto sanamente da Cobbett o da Hood, da Cartwright o da Carlyle. Ma nessuno potrebbe dire che una sola parola di [[Oliver Twist]] suoni come se fosse suggerita dallo stile di Cobbett o dallo stile di Carlyle. [[Nicholas Nickleby]] e [[Martin Chuzzlewit]] lo mostrano ancor più manifestamente mentre percorre la sua propria strada, per certi versi persino una strada angusta e cockney; lo stesso vale per *La bottega dell'antiquario*; e, per quanto [[Barnaby Rudge]] sia una sorta di esperimento nel genere del [[Historical Novel|romanzo storico]], non è molto più realmente storico della *Bottega dell'antiquario* o delle sue curiosità da Wardour Street. *Dombey e Figlio* ha lo stesso ormai stabilito equilibrio di perfetta [[Comedy|commedia]] e di [[Melodrama|melodramma]] piuttosto imperfetto; e benché [[David Copperfield]] scavi assai più a fondo e liberi una assai più fine [[spring|sorgente]] d'ispirazione, esso è persino più personale del resto. Dickens ha trovato una nuova fonte d'ispirazione, ma non leggendo il libro di qualcun altro; piuttosto leggendo il proprio diario. La stessa affermazione vale per quel bel libro, [[Great Expectations]], e una critica sociale assai più tagliente, ancora estorta dai fatti contemporanei più che dalla cultura contemporanea, appare nel Socialismo inconsapevole o inclassificabile di *Tempi difficili*. Esso mescola le sue proprie osservazioni con mere fantasie meno di quanto facesse la sua prima protesta in [[Oliver Twist]]; ma sono sempre le sue proprie osservazioni e di nessun altro. Poco v'è che vari questo verdetto negli altri due romanzi, *Casa desolata* ([[house|Bleak House]]) e *La piccola Dorrit*. È solo quando giungiamo al libro qui specialmente in questione, *Racconto di due città*, che apparve nel 1859, che abbiamo qualcosa come la particolare impressione di cui parlo; che Dickens ha sentito la pressione di un'atmosfera immaginativa esterna alla propria prorompente autosufficienza ed energia, quell'energia dalla cui furia centrifuga tutte le fantasie tranne le sue erano state respinte via.
+
+
+
+<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_02" data-title="Common Man — A Tale Of Two Cities (part 2)" data-chapter="A Tale Of Two Cities" data-kind="excerpt"></span>
+
+
+This compact and competent, and some would say conceited, sense of
+[[Self|self]]-expression does in A Tale of Two Cities, for the first [[Time|time]],
+seem to admit something external, something that might be called
+an echo.  Indeed, in one way, it might be called the echo
+of an echo.  It is Carlyle's [[French Revolution]] rather than
+Michelet's [[French Revolution]]; in other words, it is not entirely
+or exactly the [[French Revolution]] of the French Revolutionists.
+Dickens does tend to neglect, as Carlyle did tend to neglect,
+the extent to which the revolutionists themselves regarded it
+not as an explosion of unreason, or even an explosion of passion,
+but as an inevitable explosion of reason.  They themselves
+might almost have said that the explosion was an explanation;
+as is the explosion that occurs during a chemical lecture.
+Carlyle, who had laboriously studied all the documents and historical
+literature of the [[French Revolution]], never quite understood this.
+It is small blame by comparison to Dickens, who had never studied
+any documents or any [[history]] or any literature, or hardly any books
+except his own, if he did not understand it either.  But he had studied
+one book, and that was Carlyle's book; and the [[Shadow|shadow]] of that luminous
+but lurid cloud lies over the whole landscape and scenery of his story.
+It is very difficult to define or prove these merely atmospheric things.
+A short if clumsy way of putting it is to compare the general tone
+of Dickens towards the mere notion of a mob, as it is in [[Barnaby Rudge]],
+with his tone towards such a mob in A Tale of Two Cities.
+The comparison, of course, is not quite fair.  Even a man so little
+in touch with [[history]] as he, could tell that the second was more
+historic than the first; that the second was at least an outbreak
+of liberty, by comparison with an outbreak of bigotry.  But there
+is more in the contrast than that; we feel that he could never have
+taken a Gordon Rioter seriously, even if he had liked him, as he did
+so often seem to like his most ludicrous and indefensible characters;
+as the reader does really, in a way, like Sim Tappertit.
+He did not like [[Madame Defarge]], but he did take her seriously.
+If she had occurred in [[Barnaby Rudge]], she would have been a vulgar
+villainess; as she occurred in A Tale of Two Cities, she is a Fate.
+In other words, there is not only a romantic but a mystical element
+that has entered the story; and though Dickens was in one sense
+always a romantic, he was certainly never a mystic.  In some sense
+the comparison involves a [[Paradox|paradox]].  Carlyle, as a reactionary,
+declared that the mob, being made of most men, was made mostly of fools.
+But Carlyle also allowed for a mystical suggestion that the folly
+of men was the wisdom of God.  Dickens, as a radical, regarded the mob,
+in so far as it meant most ordinary men, as being composed of
+reasonable and responsible citizens, whose votes were all valuable
+and whose intellects were all capable of benefiting by [[Education|education]]
+and discussion.  But, in practice, when Dickens did see a mass
+of men in any sort of elemental disorder, acting in anger or by some
+accident lawless or unlettered, he was deeply disgusted in every
+corner of his compact and sensible intelligence, and hated that
+very wildness which Carlyle half admired.  Dickens felt like this,
+for instance, towards the sprawling licence and spasmodic ferocity
+of the more wild and western elements of the American Republic.
+He would, if subjected to the real experience, have been quite as much
+horrified by the ferocious pugnacity and spontaneous militarism
+of the mob of the French Republic.  Nevertheless, the Carlylean sense
+of a sort of savage symbolism in the great struggles of [[history]] does
+make the atmosphere of this book, or perhaps of half this book,
+different from the whole bulk of his other books.
+
+Perhaps it is really impossible for any good citizen to write A Tale
+of Two Cities.  He will always see one from the outside and the other
+from the inside; and the line of relative reality and unreality in this
+case runs fairly clear.  Thus the description of the old-fashioned
+[[London]] bank is unmistakably written by the old [[London]] Dickens.
+The story of the sacrifice of [[Sydney Carton]], though genuinely touching
+and nobler especially as compared with some of the Dickensian melodramas,
+is still in a sense a [[London]] [[Melodrama|melodrama]], with the larger background
+of a [[Paris]] [[Tragedy|tragedy]].  The [[Hero|hero]] is being heroic for private reasons;
+whereas nobody understands or does justice to the [[French Revolution]],
+who forgets that half its leaders lost their heads by really
+being heroic for public reasons.  It is easy enough to make fun
+of their classical rhetoric about [[Brutus]] who killed his sons,
+or Timoleon who killed his brother; but it is not so easy to deny that,
+if they had too much of this notion of sacrificing private good
+to public good, we have far too much of the corruption and cowardice
+that comes of sacrificing public good to private good.  The ideals
+for which that war was waged were insufficient but largely just;
+and it is curious and rather moving to note that the author is so far
+exalted by the atmosphere that he turns in the end to an older and
+in [[Truth|truth]] a larger ideal, which exists before and after and affirms
+the same justice in public and in private life.  I know nothing
+in all the works of this man of genius which is, in the true sense,
+so imaginative as that last strange voice, coming from nowhere,
+those great timeless words put into the mouth of no mortal character,
+spoken suddenly as by a trumpet out of the empty sky, between the
+click of the knitting-needles and the crash of the guillotine:
+"I am the [[Resurrection]] and the Life . . ."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo compatto e capace, e alcuni direbbero presuntuoso, senso di [[Self|auto]]espressione sembra davvero, in *Racconto di due città*, per la prima [[Time|volta]], ammettere qualcosa di esterno, qualcosa che si potrebbe chiamare un'eco. Anzi, in un certo senso, la si potrebbe chiamare l'eco di un'eco. È la [[French Revolution|Rivoluzione francese]] di Carlyle più che la [[French Revolution|Rivoluzione francese]] di Michelet; in altre parole, non è del tutto o esattamente la [[French Revolution|Rivoluzione francese]] dei rivoluzionari francesi. Dickens tende a trascurare, come Carlyle tendeva a trascurare, la misura in cui i rivoluzionari stessi la consideravano non un'esplosione di irragionevolezza, e neppure un'esplosione di passione, bensì un'inevitabile esplosione di ragione. Essi stessi avrebbero potuto quasi dire che l'esplosione era una spiegazione; come lo è l'esplosione che avviene durante una lezione di chimica. Carlyle, che aveva studiato laboriosamente tutti i documenti e la letteratura storica della [[French Revolution|Rivoluzione francese]], non lo comprese mai del tutto. È colpa lieve al confronto per Dickens, che non aveva mai studiato alcun documento né alcuna [[history|storia]] né alcuna letteratura, né quasi alcun libro tranne i propri, se neppure lui lo comprese. Ma un libro l'aveva studiato, ed era il libro di Carlyle; e l'[[Shadow|ombra]] di quella nube luminosa ma sinistra si stende su tutto il paesaggio e lo scenario della sua storia. È assai difficile definire o provare queste cose meramente atmosferiche. Un modo breve, se pur maldestro, di dirlo è confrontare il tono generale di Dickens verso la mera nozione di una folla, quale è in [[Barnaby Rudge]], col suo tono verso una tale folla in *Racconto di due città*. Il confronto, s'intende, non è del tutto equo. Persino un uomo così poco in contatto con la [[history|storia]] come lui poteva capire che la seconda era più storica della prima; che la seconda era almeno un'esplosione di libertà, in confronto a un'esplosione di bigottismo. Ma nel contrasto v'è più di questo; sentiamo che egli non avrebbe mai potuto prendere sul serio un rivoltoso di Gordon, anche se gli fosse piaciuto, come tanto spesso pareva piacergli i suoi personaggi più ridicoli e indifendibili; come il lettore, in un certo modo, prova davvero simpatia per Sim Tappertit. Non gli piaceva [[Madame Defarge]], ma la prendeva sul serio. Se fosse comparsa in [[Barnaby Rudge]], sarebbe stata una volgare scellerata; comparsa com'è in *Racconto di due città*, è un Fato. In altre parole, v'è entrato nella storia non solo un elemento romantico ma un elemento mistico; e benché Dickens fosse in un certo senso sempre un romantico, non fu di certo mai un mistico. In un certo senso il confronto implica un [[Paradox|paradosso]]. Carlyle, da reazionario, dichiarava che la folla, essendo composta della maggior parte degli uomini, era composta per la maggior parte di sciocchi. Ma Carlyle ammetteva anche una suggestione mistica secondo cui la follia degli uomini era la saggezza di Dio. Dickens, da radicale, considerava la folla, in quanto significava la maggior parte degli uomini comuni, come composta di cittadini ragionevoli e responsabili, i cui voti erano tutti preziosi e i cui intelletti erano tutti capaci di trarre giovamento dall'[[Education|istruzione]] e dal dibattito. Ma, in pratica, quando Dickens vide davvero una massa di uomini in un qualsiasi disordine elementare, che agiva nell'ira o per qualche accidente senza legge o senza lettere, ne fu profondamente disgustato in ogni angolo della sua compatta e assennata intelligenza, e odiò proprio quella ferinità che Carlyle per metà ammirava. Dickens sentiva così, per esempio, verso la sprawlante licenza e la spasmodica ferocia degli elementi più selvaggi e occidentali della Repubblica americana. Egli sarebbe stato, se sottoposto all'esperienza reale, altrettanto inorridito dalla feroce combattività e dal militarismo spontaneo della folla della Repubblica francese. Ciò nondimeno, il senso carlyliano di una sorta di simbolismo selvaggio nelle grandi lotte della [[history|storia]] rende davvero l'atmosfera di questo libro, o forse di metà di questo libro, diversa dall'intera massa dei suoi altri libri.
+
+Forse è davvero impossibile per un buon cittadino scrivere *Racconto di due città*. Egli vedrà sempre l'una dall'esterno e l'altra dall'interno; e in questo caso la linea di relativa realtà e irrealtà corre abbastanza chiara. Così la descrizione della banca [[London|londinese]] all'antica è inconfondibilmente scritta dal vecchio Dickens di [[London|Londra]]. La storia del sacrificio di [[Sydney Carton]], per quanto genuinamente commovente e più nobile specie a paragone di certi melodrammi dickensiani, resta in un certo senso un [[Melodrama|melodramma]] [[London|londinese]], col più ampio sfondo di una [[Tragedy|tragedia]] [[Paris|parigina]]. L'[[Hero|eroe]] è eroico per ragioni private; laddove nessuno comprende o rende giustizia alla [[French Revolution|Rivoluzione francese]], se dimentica che metà dei suoi capi perse la testa proprio per essere stata eroica per ragioni pubbliche. È abbastanza facile farsi beffe della loro retorica classica su [[Brutus|Bruto]] che uccise i suoi figli, o su Timoleonte che uccise il fratello; ma non è così facile negare che, se essi ebbero troppo di questa idea di sacrificare il bene privato al bene pubblico, noi abbiamo fin troppo della corruzione e della viltà che vengono dal sacrificare il bene pubblico al bene privato. Gli ideali per cui quella guerra fu combattuta erano insufficienti ma in gran parte giusti; ed è curioso e piuttosto commovente notare che l'autore è a tal punto esaltato dall'atmosfera che alla fine si volge a un ideale più antico e in [[Truth|verità]] più grande, che esiste prima e dopo e afferma la medesima giustizia nella vita pubblica e in quella privata. Non conosco nulla in tutte le opere di questo uomo di genio che sia, nel vero senso, tanto immaginifico quanto quell'ultima strana voce, che viene dal nulla, quelle grandi parole senza tempo poste sulla bocca di nessun personaggio mortale, pronunciate a un tratto come da una tromba fuori dal cielo vuoto, tra il ticchettio dei ferri da calza e lo schianto della ghigliottina: «Io sono la [[Resurrection|Risurrezione]] e la Vita...»
+
+
+
 <span class="atom-split" data-atom="story_08_god_and_goods" data-title="Common Man — God And Goods" data-chapter="God And Goods" data-kind="story"></span>
 
 
@@ -9019,6 +10129,546 @@ Poco prima della [[French Revolution|Rivoluzione francese]], tra i primi filosof
 Poi, dopo la rivoluzione politica, venne la [[Industrial Revolution|rivoluzione industriale]]; e con essa un'enorme, nuova importanza attribuita alla scienza. Gli amabili atei tornarono dal popolo, gli sorrisero, tossirono lievemente, e spiegarono che era ancora necessario incendiare le chiese, ma che si era commesso un piccolo errore riguardo al surrogato delle chiese. La seconda [[philosophy|filosofia]] atea si fondava non sul fatto che la [[Nature|Natura]] è benevola, ma sul fatto che la [[Nature|Natura]] è crudele; non sul fatto che i campi sono liberi e belli, ma sul fatto che gli uomini di scienza e gli industriali sono tanto energici che presto copriranno tutti i campi di fabbriche e magazzini. Ora c'era un nuovo surrogato di Dio; ed era il gas e il carbone e il ferro e il privilegio di far girare ruote allo scopo di lavorare queste sostanze. Ora si affermava positivamente che la libertà economica, la [[Freedom|libertà]] di comprare e vendere e assumere e sfruttare, avrebbe reso gli uomini così beatamente felici da far loro dimenticare tutti i loro [[Dreams|sogni]] dei campi del cielo; o, se è per questo, dei campi della terra. E in qualche modo anche questo è risultato un po' deludente.
 
 Due Paradisi Terrestri erano crollati. Il primo era il paradiso naturale di Rousseau; il secondo il paradiso economico di Ricardo. Gli uomini non divennero perfetti per il fatto di essere liberi di vivere e di [[Love|amare]]; gli uomini non divennero perfetti per il fatto di essere liberi di comprare e vendere. Era evidentemente [[Time|tempo]] che gli atei trovassero un terzo ideale inevitabile e immediato. Lo hanno trovato nel Comunismo. E non li turba affatto che esso sia del tutto diverso dal loro primo ideale e del tutto contrario al secondo. Tutto ciò che vogliono è un qualche presunto miglioramento dell'umanità che valga come mancia per privare l'umanità della divinità. Leggete tra le righe di una cinquantina di libri nuovi — compendi di scienza divulgativa e pubblicazioni educative di [[history|storia]] e di [[philosophy|filosofia]] — e vedrete che l'unico sentimento fondamentale in essi è l'odio della religione. L'unica cosa positiva è negativa. Ma sono costretti sempre più a idealizzare il bolscevismo, semplicemente perché è l'unica cosa rimasta ancora abbastanza nuova da poter essere offerta come [[Hope|speranza]], ora che ognuna delle speranze rivoluzionarie che essi stessi avevano offerto è divenuta a sua volta senza speranza.
+
+
+
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_01" data-title="Common Man — From Meredith To Rupert Brooke (part 1)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+
+
+FROM MEREDITH TO RUPERT BROOKE
+
+The title of the Age of Reason has been given to the eighteenth century,
+though the typical eighteenth-century man who invented it probably
+meant it as a prophetic and optimistic description of the nineteenth
+century or the twentieth century.  Certainly if Thomas Paine
+had foreseen the actual nineteenth century, he would have called
+it the Age of Romanticism.  If he had foreseen the actual
+twentieth century, he would have called it the Age of Nonsense,
+the Age of Unreason, especially in the departments originally
+identified with rationalism, such as the department of science.
+To him Einstein would have been merely a contradiction
+in terms and Epstein a disease afflicting bronze and marble.
+It is therefore not altogether misleading to measure modern developments,
+for good or evil, as from a sort of datum line of simple or
+[[Self|self]]-evident rationality to be found in the eighteenth century.
+Whatever else is false, it is false to say that the world has
+increased in clarity and intelligibility and logical completeness.
+Whatever else is true, it is true to say that the world has grown
+more bewildering, especially in the scientific spheres supposed to be
+ruled by law or explained by reason.  The simplification of the older
+rationalists may have been, and indeed was, an over-simplification.
+But it did simplify and it did satisfy; above all, it satisfied them.
+It would not be altogether unfair to say that it filled them
+not only with satisfaction but with [[Self|self]]-satisfaction. And,
+as historical divisions are never clean-cut, this rationalistic
+[[Self|self]]-satisfaction descended in part to their children; in many ways
+it may be found pervading the nineteenth century, and, in the case
+of some rather old-fashioned persons, even our own century.
+
+Nevertheless, the nineteenth century was very different;
+and the Victorian Age was vividly different.  And it was different
+from the eighteenth century chiefly in this:  that the old clarity
+of rationalism and [[Humanitarianism|humanitarianism]] was more and more coloured
+and clouded by certain waves of specially modern [[Imagination|imagination]]
+or hypothesis or taste and fancy.  These new notions had been
+unknown in the Age of Reason and even in the Age of Revolution.
+These sentiments had never disturbed the generalisations of Jefferson
+and the Jacobins any more than they had disturbed the doctrines
+of Johnson and the Jacobites.  These sentiments colour everything
+in the Victorian Age, and they must be understood before attempting
+any survey of it.
+
+It is generally difficult to illustrate this [[Truth|truth]] without being
+involved in a discussion about religion.  But there is, as it happens,
+another outstanding example, which does not directly involve
+any interest in religion.  I mean the enormous interest in race.
+That would [[Alone|alone]] be enough to stamp the nineteenth century
+as something sharply different from the eighteenth century.
+That would [[Alone|alone]] be enough to mark off the Victorian from the older
+Georgian frame of mind.  In the eighteenth century, both the
+reactionaries and the revolutionaries inherited the ancient religious
+and philosophic habit of legislating for mankind.  A man like Johnson
+thought of men everywhere as under certain religious conditions,
+though he thought them happier under conditions of subordination.
+A man like Jefferson thought of men everywhere as under certain
+moral conditions, though he thought them happiest in a condition
+of equality.  A man like Gibbon might [[Doubt|doubt]] both the moral systems
+of Johnson and Jefferson.  But it never occurred to Gibbon
+to explain the Decline and Fall of the Roman Empire by exalting
+the Teuton as such against the Latin as such, or vice versa.
+Gibbon had religious prejudices, or, if you will, irreligious prejudices.
+But the notion of having racial prejudices in a quarrel between
+some brutal Vandal or Visigoth and some petty Byzantine official
+would have seemed to him as nonsensical as taking sides among
+Chinese tongs or Zulu tribes.  Similarly, the eighteenth-century
+Tories were traditional but not tribal.  Even a man as late
+as Metternich, while he might be on the watch against French
+atheism or even Russian orthodoxy disturbing the Austrian Empire,
+would have troubled his head very little over the fact that
+the Austrian Empire contained a mixture of Teutons and Slavs.
+The rise of this [[Romance|romance]] of race, or, as some would say, of this
+science of race, was one of the distinct and decisive revolutions
+of the nineteenth century, and especially of the Victorian Age.
+
+It will be [[Well|well]] to mark in what way these colossal clouds of historical
+[[Imagination|imagination]] or theory actually coloured or discoloured the dead daylight,
+which an earlier rationalism thought to have dawned upon the world.
+In the case of Victorian literature, perhaps it is best tested
+by noting how it affected even the Victorians who might have been
+expected to escape its effect.  Carlyle was not merely affected by it
+we might almost say that he was made by it.  Anyhow, he was inspired
+and intoxicated by it; he was at once overwhelmed and made overwhelming.
+All his [[history]] and [[philosophy]] was full of this one idea:  that all
+that is good in our civilisation comes, not from the older civilisation,
+but from a yet older thing that might be called a benevolent barbarism.
+All light as [[Well|well]] as [[Fire|fire]], all law as [[Well|well]] as liberty,
+was supposed to be derived from a sort of ethnic energy originally
+called Germanic, afterwards more prudently called Teutonic; and now,
+with almost an excess of caution, called Nordic.  The merits of this
+racial theory, as against the old Roman theory, of European culture,
+are difficult to discuss without trenching on controversial themes.
+Personally I should say that when certain European provinces broke
+with the Roman tradition, they set up certain Puritan theologies
+of their own, which could not last, or at any rate have not lasted.
+Anyhow, it is curious that in each of these provinces the place
+of both the new and the old religion has really been taken by a stark
+and rather narrow national [[Pride|pride]].  The Prussian is more proud of being
+a Prussian than of being a Protestant, in the sense of a Lutheran.
+The Orangeman is more proud of being what he calls an Ulsterman
+than of being a Calvinist, in the sense of studying the strict
+Calvinist theology.  And even in England, where the atmosphere
+was more mild and the elements more mixed, the same type of intense
+insular [[Self|self]]-consciousness has in some degree developed; and it has
+been not untruly said that patriotism is the religion of the English.
+In any case, to take the same test, an Englishman is normally
+more proud of being an Englishman than of being an Anglican.
+It was therefore not unnatural that when these lands, that were the
+extinct volcanoes of the great Puritan [[Fire|fire]], sought for a more modern
+and general bond of association, they should seek it in that sort
+of [[Pride|pride]] in the race, which is the extension of the [[Pride|pride]] in the tribe.
+It is right to say that there is much in the idea of race that stirs
+the [[Imagination|imagination]] and lends itself to the production of literature.
+The ideal of race, like the ideal of religion, has its own symbols,
+prophecies, oracles and holy places.  If it is less mystical,
+it is equally mysterious.  The [[Riddle|riddle]] of heredity, the bond of [[Blood|blood]],
+the doom which in a hundred human legends attends certain houses
+or families, are things quite sufficiently native to our [[Nature|nature]] to lend
+a sincerity to the sense of national or even international kinship.
+Many may quite honestly have felt that race was as religious as religion.
+But one thing it certainly was not.  It was not as rational as religion.
+It was not as universal or philosophical as religion.  At its best it
+involved a sort of noble prejudice; and its romanticism clouded the old
+general judgments upon men as men, whether dogmatic or democratic.
+Carlyle was the most romantic of all these romantic Victorian writers,
+and largely owed to this his predominance in the romantic Victorian age.
+But his popular champions, like Froude and Kingsley, were even
+more romantic; though in the case of Kingsley the romancing was really
+honest romancing, while in the case of Froude (I cannot but think)
+the word romancing is something of a euphemism.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+DA MEREDITH A RUPERT BROOKE
+
+Al Settecento è stato dato il titolo di Età della Ragione, benché il tipico uomo del Settecento che lo coniò lo intendesse probabilmente come descrizione profetica e ottimistica dell'Ottocento o del Novecento. Certo, se Thomas Paine avesse previsto l'Ottocento reale, lo avrebbe chiamato l'Età del Romanticismo. Se avesse previsto il Novecento reale, lo avrebbe chiamato l'Età dell'Insensatezza, l'Età dell'Irragionevolezza, specialmente nei campi originariamente identificati con il razionalismo, come il campo della scienza. Per lui Einstein sarebbe stato semplicemente una contraddizione in termini ed Epstein una malattia che affligge il bronzo e il marmo. Non è dunque del tutto fuorviante misurare gli sviluppi moderni, nel bene e nel male, come a partire da una sorta di linea di riferimento della razionalità semplice o [[Self|evidente di per sé]] che si ritrova nel Settecento. Comunque stiano le altre cose false, è falso dire che il mondo sia aumentato in chiarezza, in intelligibilità e in compiutezza logica. Comunque stiano le altre cose vere, è vero dire che il mondo si è fatto più sconcertante, specialmente nelle sfere scientifiche che si supponevano rette dalla legge o spiegate dalla ragione. La semplificazione dei vecchi razionalisti può essere stata, e anzi fu, un'eccessiva semplificazione. Ma semplificava sul serio e appagava sul serio; soprattutto, appagava loro. Non sarebbe del tutto ingiusto dire che li riempiva non solo di soddisfazione, ma di [[Self|autocompiacimento]]. E, poiché le divisioni storiche non sono mai nette, questo [[Self|autocompiacimento]] razionalistico discese in parte ai loro figli; per molti versi lo si può trovare a permeare l'Ottocento e, nel caso di certe persone piuttosto all'antica, perfino il nostro secolo.
+
+Ciò nondimeno, l'Ottocento fu assai diverso; e l'Età vittoriana fu vividamente diversa. E fu diversa dal Settecento soprattutto in questo: che la vecchia chiarezza del razionalismo e dell'[[Humanitarianism|umanitarismo]] fu sempre più colorata e offuscata da certe ondate di [[Imagination|immaginazione]] specialmente moderna, o d'ipotesi, o di gusto e fantasia. Queste nuove nozioni erano state ignote nell'Età della Ragione e perfino nell'Età della Rivoluzione. Questi sentimenti non avevano mai turbato le generalizzazioni di Jefferson e dei giacobini più di quanto avessero turbato le dottrine di Johnson e dei giacobiti. Questi sentimenti colorano ogni cosa nell'Età vittoriana, e vanno compresi prima di tentarne una qualsiasi rassegna.
+
+È in genere difficile illustrare questa [[Truth|verità]] senza restare invischiati in una discussione sulla religione. Ma vi è, per l'appunto, un altro esempio cospicuo, che non implica direttamente alcun interesse per la religione. Intendo l'enorme interesse per la razza. Ciò [[Alone|da solo]] basterebbe a bollare l'Ottocento come qualcosa di nettamente diverso dal Settecento. Ciò [[Alone|da solo]] basterebbe a distinguere la mentalità vittoriana da quella più antica, georgiana. Nel Settecento, tanto i reazionari quanto i rivoluzionari ereditarono l'antica abitudine religiosa e filosofica di legiferare per l'intera umanità. Un uomo come Johnson pensava agli uomini di ogni dove come soggetti a certe condizioni religiose, benché li ritenesse più felici in condizioni di subordinazione. Un uomo come Jefferson pensava agli uomini di ogni dove come soggetti a certe condizioni morali, benché li ritenesse più felici in una condizione di eguaglianza. Un uomo come Gibbon poteva pure [[Doubt|dubitare]] di entrambi i sistemi morali, quello di Johnson e quello di Jefferson. Ma non venne mai in mente a Gibbon di spiegare il Declino e la Caduta dell'Impero Romano esaltando il Teutone in quanto tale contro il Latino in quanto tale, o viceversa. Gibbon aveva pregiudizi religiosi o, se si vuole, pregiudizi irreligiosi. Ma l'idea di nutrire pregiudizi razziali in una lite tra qualche brutale Vandalo o Visigoto e qualche meschino funzionario bizantino gli sarebbe parsa altrettanto assurda che parteggiare tra tong cinesi o tribù zulù. Similmente, i Tory del Settecento erano tradizionali ma non tribali. Perfino un uomo tardo come Metternich, pur potendo star in guardia contro l'ateismo francese o addirittura contro l'ortodossia russa che turbavano l'Impero austriaco, si sarebbe assai poco tormentato il capo per il fatto che l'Impero austriaco conteneva una mescolanza di Teutoni e di Slavi. Il sorgere di questo [[Romance|romanzo]] della razza, o, come alcuni direbbero, di questa scienza della razza, fu una delle distinte e decisive rivoluzioni dell'Ottocento, e specialmente dell'Età vittoriana.
+
+Sarà [[Well|bene]] segnare in che modo queste colossali nubi d'[[Imagination|immaginazione]] o teoria storica colorarono o scolorarono in realtà la luce spenta del giorno che un razionalismo anteriore credeva fosse albeggiata sul mondo. Nel caso della letteratura vittoriana, forse la si mette meglio alla prova notando come essa influì perfino su quei vittoriani da cui ci si sarebbe aspettati che ne scampassero l'effetto. Carlyle non ne fu semplicemente influenzato: potremmo quasi dire che ne fu plasmato. Comunque, ne fu ispirato e inebriato; fu al tempo stesso travolto e reso travolgente. Tutta la sua [[history|storia]] e la sua [[philosophy|filosofia]] erano piene di quest'unica idea: che tutto ciò che di buono vi è nella nostra civiltà proviene non dalla civiltà più antica, ma da una cosa ancora più antica che si potrebbe chiamare una benevola barbarie. Tanto la luce [[Well|quanto]] il [[Fire|fuoco]], tanto la legge [[Well|quanto]] la libertà, si supponeva derivassero da una sorta di energia etnica in origine detta germanica, poi più prudentemente detta teutonica; e ora, con quasi un eccesso di cautela, detta nordica. I meriti di questa teoria razziale, contro la vecchia teoria romana, della cultura europea, sono difficili da discutere senza sconfinare in temi controversi. Personalmente direi che, quando certe province europee ruppero con la tradizione romana, esse fondarono certe proprie teologie puritane, che non potevano durare, o comunque non sono durate. Comunque, è curioso che in ciascuna di queste province il posto della religione tanto nuova quanto antica sia stato in realtà preso da un rigido e piuttosto angusto [[Pride|orgoglio]] nazionale. Il prussiano è più orgoglioso di essere prussiano che di essere protestante, nel senso di luterano. L'orangista è più orgoglioso di essere ciò che chiama un uomo dell'Ulster che di essere calvinista, nel senso di studiare la stretta teologia calvinista. E perfino in Inghilterra, dove l'atmosfera era più mite e gli elementi più mescolati, s'è sviluppato in qualche misura lo stesso tipo d'intensa [[Self|autocoscienza]] insulare; e non a torto s'è detto che il patriottismo è la religione degli inglesi. In ogni caso, per prendere la medesima prova, un inglese è di norma più orgoglioso di essere inglese che di essere anglicano. Non era dunque innaturale che, quando queste terre, che erano i vulcani spenti del grande [[Fire|fuoco]] puritano, cercarono un più moderno e generale vincolo d'associazione, lo cercassero in quella sorta di [[Pride|orgoglio]] della razza che è l'estensione dell'[[Pride|orgoglio]] della tribù. È giusto dire che vi è molto, nell'idea di razza, che scuote l'[[Imagination|immaginazione]] e si presta alla produzione di letteratura. L'ideale della razza, come l'ideale della religione, ha i propri simboli, profezie, oracoli e luoghi santi. Se è meno mistico, è ugualmente misterioso. L'[[Riddle|enigma]] dell'eredità, il vincolo del [[Blood|sangue]], la maledizione che in cento leggende umane incombe su certe casate o famiglie, sono cose abbastanza connaturate alla nostra [[Nature|natura]] da conferire una sincerità al senso di parentela nazionale o perfino internazionale. Molti possono aver sentito in tutta onestà che la razza era religiosa quanto la religione. Ma una cosa certamente non fu. Non fu razionale quanto la religione. Non fu universale né filosofica quanto la religione. Nella sua forma migliore comportava una sorta di nobile pregiudizio; e il suo romanticismo offuscava i vecchi giudizi generali sugli uomini in quanto uomini, dogmatici o democratici che fossero. Carlyle fu il più romantico di tutti questi romantici scrittori vittoriani, e a ciò dovette in larga parte la sua preminenza nella romantica età vittoriana. Ma i suoi campioni popolari, come Froude e Kingsley, furono ancor più romantici; benché, nel caso di Kingsley, il romanzare fosse davvero un romanzare onesto, mentre nel caso di Froude (non posso non pensarlo) la parola romanzare sia un qualcosa di eufemistico.
+
+
+
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_02" data-title="Common Man — From Meredith To Rupert Brooke (part 2)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+
+
+Only, as I have said, the way in which this racial [[Romance|romance]] penetrated the
+Victorian culture can best be seen, not in an obvious case like Carlyle,
+but in much more remote cases like Matthew Arnold or Meredith.
+To take the latter case first:  George Meredith was in one sense
+an entirely international intellectual; a Liberal humanist; a true
+[[Child|child]] of the [[French Revolution]], which he celebrated in sumptuous odes.
+But he illustrates the indirect effect of the racial craze,
+which is that the other side often accepted the distinction.
+Not only did the Teutonist talk about being a Teuton, but the Celt
+talked about being a Celt.  A great mass of Meredith's social
+judgment is modified, and, to my taste, a little falsified,
+by his insistence on setting the Saxon against the Celt, when he has
+to set the Englishman against the Irishman or the Welshman.
+He often satirised in the Englishman exactly what the Teutonist
+praised in the Englishman; and it was often something that the
+Englishman does not happen to possess.  So in the other case:
+Matthew Arnold made himself specially and supremely the apostle
+of a cosmopolitan culture; he did a vast amount of real good
+by insisting on the truism that England is a part of Europe.
+He was at his best in a contempt for the contempt that was felt
+for Frenchmen or Irishmen or Italians.  But he could not bring
+himself to treat them simply as Frenchmen or Irishmen or Italians.
+He was affected by the universal fashion of ethnology and worried
+by the racial generalisations.  When he talked what was relatively
+excellent sense about the senseless treatment of Ireland, he thought of
+such things too much as Celtic Studies and too little as Irish Studies.
+He also tried to explain the English faults as part of "the
+German paste in us", and wasted on anthropology what was meant
+for the study of mankind.  We might take a third example.
+William Morris was on one side a Communist and almost bound
+to be an internationalist; he was on the other side a medievalist,
+appealing to that ancient [[Beauty|beauty]] that belonged to all Europeans alike.
+But he was encumbered with a clumsy [[Desire|desire]] to be Saxon, to treat
+English as if it were merely the rudimentary language of the Angles;
+and moved his admirer, Stevenson, to an intense irritation by
+writing "whereas" when he only meant "where".
+
+I have mentioned this particular Victorian fashion, the racial
+theory of [[history]], as a primary and prominent thing, because it
+is not generally mentioned at all.  We are so accustomed,
+in reading modern records of recent or ancient things, to gain
+an impression of an ever-expanding world, called in the only too
+typical Victorian expression, "the thoughts of men being widened
+by the process of the suns", that we often forget the many periods
+when the world contracted into a new narrowness or exclusiveness,
+or the thoughts of men visibly shrank and shrivelled under some fresh
+influence of isolation or distinction.  This was certainly true of
+the tribalism and imperialism that the nineteenth century developed,
+out of a [[Romance|romance]] of races, as compared with the first revolutionary
+generalisations about the human race.  The fact is plain,
+for instance, in the story of the first revolutionary experiment--
+the American Republic.  In the [[Time|time]] of Jefferson, many of those
+who held slaves disapproved of [[Slavery|slavery]]; many of those who approved
+of [[Slavery|slavery]] did not specially approve of it as negro [[Slavery|slavery]].
+The notion of the negro as something peculiarly perilous or
+pestilent is not an ancient prejudice but a very recent and largely
+anthropological fashion.  It is akin to all that dates from Darwin;
+and the popularisation by Huxley of an almost pessimistic type
+of evolution.  Modern Southerners are much more hostile to negroes
+than they were when they owned slaves.  As there [[Rose|rose]] recently
+in [[America]] the anthropological theory that the negro is only an ape,
+so there [[Rose|rose]] recently in Europe the anthropological notion that
+the Pole is only a Slav, or that the Irishman is only a Celt.
+People were so proud of discovering these larger groups that they
+failed to notice that they are really looser groups.  They belonged
+to what the eminent Victorian truly called the fairy-tales of science.
+They had neither the precision that belongs to doctrinal
+definition nor the practicality that belongs to daily experience.
+In religion and morals we all really know what we mean by a man,
+and in the stress of real life we all really know what we mean
+by an Irishman.  It is by no means certain that we all know
+what we mean by a Celt.  Hence something large and imaginative,
+but formless and partly imaginary, began to spread over popular
+sentiment with the spread of popular science.  It was darker and more
+dubious than either the [[Humanitarianism|humanitarianism]] of the eighteenth century
+or the nationalism of the nineteenth.  It was not so clean-cut;
+indeed I will venture to say that it was not so clean.
+It was mixed with the mud and mist, the chaotic clay and cloud,
+of primitive and even bestial beginnings; it had only vague
+visions of barbaric migrations and massacres and enslavements.
+It started all our recent preference for the prehistoric to the historic.
+All this must be remembered as an influence overshadowing the second
+half of the nineteenth century, because it eventually took a more
+pointed and controversial form which involved not only materialism
+but pessimism.  The earlier rationalists may or may not have
+been materialists; but they certainly were not pessimists.
+They were, I admit, rather exaggerated and excessive optimists.
+It is none the less curious that the general revolutionary tradition,
+of revolt and criticism of conditions, which began with the [[philosophy]]
+of Rousseau, should have ended with the [[philosophy]] of Thomas Hardy.
+
+So much for one side of this later Victorian change.
+But the mere mention of Hardy and the realistic rebels will
+remind us that it had another side, which was a very good side.
+Probably speaking, it consisted in turning the attention
+from purely political wrongs to fundamental economic wrongs.
+In this also Carlyle, who belongs to the earlier period,
+continues to colour and even control the destinies of the later.
+In the matter of dates Carlyle and Macaulay covered the same period.
+In the matter of destinies they lived in two different centuries.
+Macaulay was, for good and evil, entirely a man of the
+eighteenth century.  He was a Whig as Fox had been a Whig;
+a patriot as Pitt had been a patriot; a Protestant as any Erastian
+latitudinarian Georgian parson had been a Protestant; a logician
+as Dr. Johnson was a logician; a historian as Gibbon was a historian.
+Carlyle, who had brought into [[history]] the doubtful [[Romance|romance]] of [[Blood|blood]],
+also brought into politics the very real [[Tragedy|tragedy]] of bread.
+He stands at the beginning of all the best efforts of the later
+Victorians to face the problems of labour and hunger that had
+developed in the depths of the new industrial civilisation.
+With the great exception of Cobbett, who had stood apart and [[Alone|alone]],
+misunderstood and abused by all parties, it is fair to say that
+Carlyle started much of the merely social unrest of [[Conscience|conscience]]
+which has modified the evils of the later nineteenth century.
+It is needless here to weigh the evil against the good;
+or to discuss how much of a certain disinterested dignity,
+in the old Republicans, was lost in his practical and impatient
+clamour for captains and for kings.  It is only necessary to insist
+on the reality of the contrast and the change.  Grattan, a great
+and typical orator of the eighteenth-century ideal, had said
+that the Irishman might go in rags, but he must not go in [[Chains|chains]].
+Ruskin and the social reformers reversed the principle,
+until some of the extreme Socialists, like the Marxian Communists,
+are now inclined to say that a man must go in [[Chains|chains]] so that he may
+not go in rags.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Solo che, come ho detto, il modo in cui questo [[Romance|romanzo]] razziale penetrò nella cultura vittoriana si può cogliere meglio non in un caso ovvio come Carlyle, ma in casi assai più remoti come Matthew Arnold o Meredith. Per prendere prima quest'ultimo caso: George Meredith fu in un certo senso un intellettuale interamente internazionale; un umanista liberale; un vero [[Child|figlio]] della [[French Revolution|Rivoluzione francese]], che egli celebrò in odi sontuose. Ma egli illustra l'effetto indiretto della mania razziale, che è questo: che l'altra parte spesso accettava la distinzione. Non solo il teutonista parlava dell'esser teutone, ma anche il celta parlava dell'esser celta. Gran parte del giudizio sociale di Meredith è modificata, e, a mio gusto, un po' falsata, dalla sua insistenza nel contrapporre il sassone al celta, quando deve contrapporre l'inglese all'irlandese o al gallese. Egli spesso satireggiava nell'inglese esattamente ciò che il teutonista lodava nell'inglese; ed era spesso qualcosa che l'inglese si dà il caso non possieda. Così nell'altro caso: Matthew Arnold si fece in modo speciale e supremo l'apostolo di una cultura cosmopolita; fece un'enorme quantità di bene reale insistendo sul truismo che l'Inghilterra è una parte dell'Europa. Dava il suo meglio in un disprezzo per il disprezzo che si nutriva verso i francesi o gli irlandesi o gli italiani. Ma non riusciva a indursi a trattarli semplicemente come francesi o irlandesi o italiani. Era influenzato dalla moda universale dell'etnologia e assillato dalle generalizzazioni razziali. Quando parlava con senno relativamente eccellente dell'insensato trattamento riservato all'Irlanda, pensava a tali cose troppo come Studi Celtici e troppo poco come Studi Irlandesi. Cercò inoltre di spiegare i difetti inglesi come parte del «lievito tedesco che è in noi», e sprecò per l'antropologia ciò che era destinato allo studio del genere umano. Potremmo prendere un terzo esempio. William Morris fu da un lato un comunista e quasi tenuto a essere un internazionalista; fu dall'altro lato un medievalista, che si appellava a quell'antica [[Beauty|bellezza]] che apparteneva a tutti gli europei allo stesso modo. Ma era ingombrato da un goffo [[Desire|desiderio]] di essere sassone, di trattare l'inglese come se fosse meramente la lingua rudimentale degli Angli; e spinse il suo ammiratore, Stevenson, a un'intensa irritazione scrivendo «laddove» quando intendeva soltanto «dove».
+
+Ho menzionato questa particolare moda vittoriana, la teoria razziale della [[history|storia]], come cosa primaria e cospicua, perché in genere non viene menzionata affatto. Siamo così avvezzi, leggendo resoconti moderni di cose recenti o antiche, a ricavarne l'impressione di un mondo in eterna espansione, chiamato con l'espressione fin troppo tipicamente vittoriana «il pensiero degli uomini che si allarga col procedere dei soli», che spesso dimentichiamo i molti periodi in cui il mondo si contrasse in una nuova angustia o esclusività, o il pensiero degli uomini visibilmente si rattrappì e raggrinzì sotto qualche fresca influenza d'isolamento o distinzione. Ciò fu certamente vero del tribalismo e dell'imperialismo che l'Ottocento sviluppò, a partire da un [[Romance|romanzo]] delle razze, in confronto alle prime generalizzazioni rivoluzionarie sul genere umano. Il fatto è palese, per esempio, nella storia del primo esperimento rivoluzionario: la Repubblica americana. Al [[Time|tempo]] di Jefferson, molti di coloro che tenevano schiavi disapprovavano la [[Slavery|schiavitù]]; molti di coloro che approvavano la [[Slavery|schiavitù]] non l'approvavano in modo particolare in quanto [[Slavery|schiavitù]] dei negri. La nozione del negro come qualcosa di peculiarmente pericoloso o pestilenziale non è un antico pregiudizio, ma una moda assai recente e in gran parte antropologica. È affine a tutto ciò che data da Darwin; e alla divulgazione, per opera di Huxley, di un tipo quasi pessimistico di evoluzione. I meridionali moderni sono assai più ostili ai negri di quanto lo fossero quando possedevano schiavi. Come [[Rose|sorse]] di recente in [[America]] la teoria antropologica che il negro è soltanto una scimmia, così [[Rose|sorse]] di recente in Europa la nozione antropologica che il polacco è soltanto uno slavo, o che l'irlandese è soltanto un celta. La gente era così orgogliosa di scoprire questi gruppi più ampi che non si accorgeva che si tratta in realtà di gruppi più vaghi. Appartenevano a ciò che l'eminente vittoriano chiamò veracemente le fiabe della scienza. Non avevano né la precisione che appartiene alla definizione dottrinale né la praticità che appartiene all'esperienza quotidiana. In religione e in morale sappiamo tutti davvero che cosa intendiamo per uomo, e nella tensione della vita reale sappiamo tutti davvero che cosa intendiamo per irlandese. Non è affatto certo che sappiamo tutti che cosa intendiamo per celta. Perciò qualcosa di ampio e immaginoso, ma informe e in parte immaginario, cominciò a stendersi sul sentimento popolare col diffondersi della scienza popolare. Era più cupo e più dubbio tanto dell'[[Humanitarianism|umanitarismo]] del Settecento quanto del nazionalismo dell'Ottocento. Non era così netto; anzi, oserò dire che non era così pulito. Era mescolato al fango e alla nebbia, alla creta e alla nube caotiche, di origini primitive e perfino bestiali; aveva soltanto vaghe visioni di migrazioni e massacri e asservimenti barbarici. Diede inizio a tutta la nostra recente preferenza per il preistorico rispetto allo storico. Tutto ciò va ricordato come un'influenza che adombrò la seconda metà dell'Ottocento, perché finì per assumere una forma più acuta e controversa che coinvolgeva non solo il materialismo ma il pessimismo. I razionalisti anteriori possono essere stati o meno materialisti; ma certo non erano pessimisti. Erano, lo ammetto, ottimisti piuttosto esagerati ed eccessivi. Non è per questo meno curioso che la generale tradizione rivoluzionaria, di rivolta e critica delle condizioni, che cominciò con la [[philosophy|filosofia]] di Rousseau, sia finita con la [[philosophy|filosofia]] di Thomas Hardy.
+
+Tanto basti per un lato di questo mutamento tardo-vittoriano. Ma la sola menzione di Hardy e dei ribelli realisti ci ricorderà che esso ebbe un altro lato, che fu un lato assai buono. In termini approssimativi, esso consistette nel distogliere l'attenzione dai torti puramente politici verso i torti economici fondamentali. Anche in questo Carlyle, che appartiene al periodo anteriore, continua a colorare e perfino a governare le sorti di quello posteriore. In materia di date, Carlyle e Macaulay coprirono lo stesso periodo. In materia di destini, vissero in due secoli diversi. Macaulay fu, nel bene e nel male, interamente un uomo del Settecento. Fu un Whig come Fox era stato un Whig; un patriota come Pitt era stato un patriota; un protestante come lo era stato un qualsiasi pastore georgiano erastiano e latitudinario; un logico come lo era il Dr. Johnson; uno storico come lo era Gibbon. Carlyle, che aveva portato nella [[history|storia]] il dubbio [[Romance|romanzo]] del [[Blood|sangue]], portò anche nella politica la ben reale [[Tragedy|tragedia]] del pane. Egli sta all'inizio di tutti i migliori sforzi dei vittoriani più tardi per affrontare i problemi del lavoro e della fame che si erano sviluppati nelle profondità della nuova civiltà industriale. Con la grande eccezione di Cobbett, che era rimasto in disparte e [[Alone|solo]], frainteso e vilipeso da tutti i partiti, è giusto dire che Carlyle diede avvio a gran parte del semplice fermento sociale della [[Conscience|coscienza]] che ha mitigato i mali del tardo Ottocento. È qui superfluo soppesare il male contro il bene; o discutere quanta di una certa disinteressata dignità, nei vecchi repubblicani, sia andata perduta nel suo pratico e impaziente clamore per capitani e per re. Basta soltanto insistere sulla realtà del contrasto e del mutamento. Grattan, un grande e tipico oratore dell'ideale settecentesco, aveva detto che l'irlandese poteva pure andare in stracci, ma non doveva andare in [[Chains|catene]]. Ruskin e i riformatori sociali rovesciarono il principio, finché alcuni dei socialisti estremi, come i comunisti marxisti, sono ora inclini a dire che un uomo deve andare in [[Chains|catene]] affinché non abbia ad andare in stracci.
+
+
+
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_03" data-title="Common Man — From Meredith To Rupert Brooke (part 3)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+
+
+Ruskin was the heir and representative of Carlyle in this later
+and better Victorian development.  It is unnecessary to react
+against romanticism to such an extent as a recent critic,
+who summed up Ruskin in a book on the Victorians by saying that at
+least his economics were all scientifically sound though he could
+not write for toffee.  He certainly could not write in that stately
+modern style in which toffee figures as the prize of writing.
+When the critic suggests that he could not write, it merely means
+that the critic does not like that particular sort of writing,
+which proves rather the limitations of the critic than the incapacities
+of the writer.  Ruskin certainly wrote poetical prose, which may
+not for the moment be fashionable in an age of prosaic poetry.
+But to say that it is not good poetical prose is simply
+to be ignorant of the varied possibilities of good writing.
+It is also true that what he did he overdid, which is largely true
+of the whole of this highly coloured and romantic final development
+of Victorianism.  Even those few who deliberately tried to correct it
+by understatement managed somehow to overstate their understatement.
+Matthew Arnold deliberately endeavoured to introduce a French
+classical balance and critical detachment into English letters.
+The consequence was that he was called a prig, which was unjust but
+not unthinkable; whereas no Frenchman reading Saint-Beuve ever thought
+of thinking that he was a prig.  Walter Pater wished to create an art
+criticism more detached than that of Ruskin; but he did in fact manage
+to create the impression of being artificial as [[Well|well]] as artistic.
+It was very difficult to be classic in the later Victorian atmosphere.
+There was a romantic unrest about it, so that even the umpires
+were competitive and combative.  The loss of a natural repose,
+in Latin [[logic]] or French clarity, was one of the penalties of parting
+with the spirit of the eighteenth century.  Another mark of it was
+the growth of an intellectual [[Individualism|individualism]] which expressed itself,
+not only in being outré, but actually in being obscure.
+Browning and Meredith were among the very greatest of Victorians;
+and over both of them brooded that cloud I have described as coming
+up to over-[[Shadow|shadow]] the epoch; and though it was coloured gorgeously
+like a cloud of sunset, it none the less came between many people
+and the sun.
+
+George Meredith largely stood [[Alone|alone]]; but he stood as it were
+representing many others who had also a taste for standing [[Alone|alone]].
+All this last phase is full of men whom it is interesting
+to remember and yet very easy to forget.  It was because of the
+individualistic isolation of their talents and even their topics.
+An example is [[Richard]] Jefferies, who was "The Gamekeeper At [[Home]]";
+or T. E. Brown, who made a niche for himself that is somehow
+at once obscure and popular:  or William de Morgan, who with
+English eccentricity took up literature as a hobby for old age.
+The danger of all grouping is that we may miss too many of these men
+who did not fit into groups.  Nevertheless, there are two or three
+groups which may be said to bulk biggest in the period--the period
+after the triumph of Tennyson and Browning in poetry, or Dickens
+and Thackeray in fiction.  First there appears, primarily through
+the influence of Ruskin, what was called the Pre-Raphaelite Group;
+which began with a Ruskinian version of Christian medievalism and
+shaded off into later forms of aestheticism, not to say Paganism.
+The leader, who was also the link, was Rossetti, who accepted with
+delight the medieval pattern, but blazoned it with bolder and warmer
+colours than some of the literal Pre-Raphaelites would have approved.
+With him went his sister Christina, who was medieval in the more
+orthodox sense; and, in a manner very much his own, William Morris,
+who made the medieval form the expression of modern discontents
+and social ideals, instead of Christina Rossetti's religious ideals.
+The queer transition of the Pre-Raphaelites from a revival of
+[[Christianity]] to a revival of Paganism is complete in the poet Swinburne,
+who belonged to the set, yet had little in common with the sect.
+That it had Ruskin at one end and Swinburne at the other illustrates
+how loose a thing a group is, especially in English literature.
+Swinburne had three phases; one in which he wrote the best
+poetry in the worst spirits, or mood or frame of mind for his
+beautiful boyish singing is not merely in praise of Paganism,
+but definitely of Pessimism.  There is a second period when his
+spirits are a little better and his poetry a little worse;
+the period of his political enthusiasm for United [[Italy]] and
+Victor Hugo and the resounding qualities of the word Republic.
+There is, unfortunately, a third period, in which he imitated
+himself and did it badly.  But the point to seize is that, in his
+great hour, Swinburne was a spell; he held people like a [[Magic|magic]] flute,
+till they forgot that there was any other melody in the world.
+It is thoroughly typical of such glamours that there has been a violent
+and very unreasonable reaction against his unreasonable power.
+With him and Walter Pater the movement ends in its last pagan phase;
+save perhaps for the queer aestheticism that later became a decadent
+dandyism in Oscar Wilde.
+
+But already new groups were making this one look old.
+One was what may be called the Picaresque or Adventurous Group,
+but may be more recognisable as the group of Stevenson and Henley.
+Both for good and evil, they reacted into a robust [[Blood|blood]]-and-thunder
+literature, which, in the case of Stevenson, who was not only
+the greater but much the more amiable and balanced of the two,
+was as blameless as it was bloody.  There was, however, a dangerous
+[[Double|double]] use of the very word "[[Blood|blood]]". And, quaintly enough, the more
+dubious element is to be found rather in [[Blood|blood]] than in bloodshed.
+The [[Blood|blood]] that spatters the pages of Treasure Island can only
+promote a respect for the real virtues of [[Courage|courage]] or loyalty.
+The [[Blood|blood]] that is not shed at all, but remains in the human [[Body|body]],
+was used to encourage a respect for the real vices and weaknesses of [[Pride|pride]]
+and racial contempt.  For one important point about this group is this:
+that through them, or some of them, there came into full power
+and possession that curious religion of Race, which I have described
+as developing from Teutonic sources a little [[Time|time]] before.  It is not
+to be confused with patriotism or the unselfish [[Love|love]] of one's country.
+It is a mere [[Pride|pride]] in being oneself of a certain real or imaginary
+race or stock.  The Frenchman loves France as if she were a woman;
+the Nordic Man merely loves himself for being a Nordic Man.
+This weakness did to some extent spoil the spirited attempt
+of Henley and his school of masculine critics; I mean their
+very just attempt to show that letters should be red-blooded,
+as against the green-blooded pessimism of the decadents.
+But whatever their weaknesses, they did fill the age with a new change
+and stir, and gave to the pessimists something which if not a cure,
+was at least an antidote and a counter-irritant. The earliest
+and best work of Mr. Rudyard Kipling came to them like a new breath
+of prophecy and promise; Sir Henry Newbolt supported the [[Chorus|chorus]]
+with two or three of the very finest modern English lyrics.
+There was a general fashion of patriotic poetry, as [[Well|well]] as of
+Jingo journalism--in verse or otherwise.  It was the only point
+on which that strongest and most virile of the pessimists,
+the Shropshire Lad, could be moved for a moment to a slightly
+blasphemous cheerfulness.  John Davidson, a dark Scot in a dark
+and even dim state of revolt against everything, also was ready
+to follow the [[Flag|flag]] and revolt against everything except the Empire.
+The point of all this is not that patriotism revived,
+for the older poets and critics took patriotism for granted:
+but that the special type of tribal imperialism sprang out of that
+rather barbaric root of Race, already noted as a [[Romance|romance]] of science,
+which reacted against the rationalism of the Revolution.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ruskin fu l'erede e il rappresentante di Carlyle in questo più tardo e migliore sviluppo vittoriano. Non occorre reagire contro il romanticismo al punto di un recente critico, che riassunse Ruskin in un libro sui vittoriani dicendo che almeno la sua economia era tutta scientificamente fondata, benché egli non sapesse scrivere per un accidente. Certo non sapeva scrivere in quello sfarzoso stile moderno in cui l'accidente figura come premio dello scrivere. Quando il critico insinua che egli non sapeva scrivere, ciò significa soltanto che al critico non piace quel particolare genere di scrittura, il che prova piuttosto i limiti del critico che le incapacità dello scrittore. Ruskin scrisse certamente una prosa poetica, che per il momento può non essere di moda in un'età di poesia prosaica. Ma dire che non è buona prosa poetica è semplicemente ignorare le svariate possibilità del buon scrivere. È anche vero che ciò che fece lo fece all'eccesso, il che è largamente vero dell'intero sviluppo finale, così vivamente colorato e romantico, del vittorianesimo. Perfino quei pochi che deliberatamente cercarono di correggerlo con la reticenza riuscirono in qualche modo a esagerare la loro reticenza. Matthew Arnold si sforzò deliberatamente d'introdurre un equilibrio classico francese e un distacco critico nelle lettere inglesi. La conseguenza fu che lo si chiamò un saccente, il che era ingiusto ma non impensabile; laddove nessun francese leggendo Sainte-Beuve pensò mai di ritenerlo un saccente. Walter Pater desiderò creare una critica d'arte più distaccata di quella di Ruskin; ma in realtà riuscì a creare l'impressione di essere artificioso [[Well|oltre che]] artistico. Era assai difficile essere classici nell'atmosfera tardo-vittoriana. Vi era in essa un'inquietudine romantica, tanto che perfino gli arbitri erano competitivi e combattivi. La perdita di una naturale quiete, nella [[logic|logica]] latina o nella chiarezza francese, fu una delle penali del separarsi dallo spirito del Settecento. Un altro suo segno fu la crescita di un [[Individualism|individualismo]] intellettuale che si esprimeva non solo nell'essere stravagante, ma addirittura nell'essere oscuro. Browning e Meredith furono tra i massimi dei vittoriani; e su entrambi incombeva quella nube che ho descritto come ergentesi a fare [[Shadow|ombra]] all'epoca; e benché fosse colorata sfarzosamente come una nube al tramonto, ciò nondimeno si frapponeva tra molta gente e il sole.
+
+George Meredith stette in gran parte [[Alone|solo]]; ma stette per così dire a rappresentare molti altri che avevano anch'essi la propensione a stare [[Alone|soli]]. Tutta quest'ultima fase è piena di uomini che è interessante ricordare e pure assai facile dimenticare. Ciò per via dell'isolamento individualistico dei loro talenti e perfino dei loro argomenti. Un esempio è [[Richard]] Jefferies, che fu «The Gamekeeper At [[Home|Home]]»; o T. E. Brown, che si ritagliò una nicchia in qualche modo al tempo stesso oscura e popolare; o William de Morgan, che con eccentricità inglese prese la letteratura come passatempo della vecchiaia. Il pericolo di ogni raggruppamento è che possiamo lasciarci sfuggire troppi di questi uomini che non rientravano nei gruppi. Ciò nondimeno, vi sono due o tre gruppi che si può dire facciano la massa maggiore nel periodo: il periodo successivo al trionfo di Tennyson e Browning nella poesia, o di Dickens e Thackeray nella narrativa. Dapprima compare, principalmente per influsso di Ruskin, quello che fu chiamato il Gruppo dei Preraffaelliti; che cominciò con una versione ruskiniana del medievalismo cristiano e sfumò in forme posteriori di estetismo, per non dire di paganesimo. Il capo, che era anche l'anello di congiunzione, fu Rossetti, che accettò con gioia il modello medievale, ma lo blasonò con colori più arditi e più caldi di quanto alcuni dei preraffaelliti letterali avrebbero approvato. Con lui andò sua sorella Christina, che fu medievale nel senso più ortodosso; e, in una maniera tutta sua, William Morris, che fece della forma medievale l'espressione di scontenti moderni e ideali sociali, anziché degli ideali religiosi di Christina Rossetti. La bizzarra transizione dei preraffaelliti da un revival del [[Christianity|Cristianesimo]] a un revival del paganesimo è completa nel poeta Swinburne, che apparteneva al circolo, eppure aveva poco in comune con la setta. Che avesse Ruskin a un capo e Swinburne all'altro illustra quanto sia lasca cosa un gruppo, specialmente nella letteratura inglese. Swinburne ebbe tre fasi; una in cui scrisse la poesia migliore con lo spirito peggiore, o l'umore o la disposizione d'animo, giacché il suo bel canto giovanile non è meramente in lode del paganesimo, ma decisamente del pessimismo. Vi è un secondo periodo in cui il suo spirito è un po' migliore e la sua poesia un po' peggiore; il periodo del suo entusiasmo politico per l'[[Italy|Italia]] unita e per Victor Hugo e per le sonanti qualità della parola Repubblica. Vi è, purtroppo, un terzo periodo, in cui imitò se stesso e lo fece male. Ma il punto da cogliere è che, nella sua grande ora, Swinburne fu un incantesimo; teneva la gente come un flauto [[Magic|magico]], finché essa dimenticava che ci fosse al mondo qualsiasi altra melodia. È del tutto tipico di simili fascini che vi sia stata una violenta e assai irragionevole reazione contro il suo irragionevole potere. Con lui e con Walter Pater il movimento termina nella sua ultima fase pagana; salvo forse per lo strano estetismo che più tardi divenne un decadente dandismo in Oscar Wilde.
+
+Ma già nuovi gruppi facevano apparire vecchio questo. Uno fu quello che si può chiamare il Gruppo Picaresco o dell'Avventura, ma può essere più riconoscibile come il gruppo di Stevenson e Henley. Nel bene come nel male, essi reagirono in una robusta letteratura di [[Blood|sangue]] e tuoni che, nel caso di Stevenson, il quale non solo era il maggiore ma di gran lunga il più amabile ed equilibrato dei due, fu tanto irreprensibile quanto era cruenta. Vi era, tuttavia, un pericoloso [[Double|duplice]] uso della parola stessa «[[Blood|sangue]]». E, abbastanza curiosamente, l'elemento più dubbio si trova nel [[Blood|sangue]] piuttosto che nello spargimento di sangue. Il [[Blood|sangue]] che schizza sulle pagine de «L'isola del tesoro» non può che promuovere il rispetto per le vere virtù del [[Courage|coraggio]] o della lealtà. Il [[Blood|sangue]] che non viene affatto versato, ma rimane nel [[Body|corpo]] umano, fu usato per incoraggiare il rispetto per i veri vizi e le vere debolezze dell'[[Pride|orgoglio]] e del disprezzo razziale. Poiché un punto importante di questo gruppo è questo: che attraverso di essi, o alcuni di essi, entrò in piena potenza e possesso quella curiosa religione della Razza che ho descritto come sviluppatasi da fonti teutoniche un po' di [[Time|tempo]] prima. Non va confusa con il patriottismo o con l'altruistico [[Love|amore]] del proprio paese. È un mero [[Pride|orgoglio]] di essere se stessi di una certa razza o stirpe, reale o immaginaria. Il francese ama la Francia come se fosse una donna; l'Uomo Nordico ama meramente se stesso per essere un Uomo Nordico. Questa debolezza guastò in qualche misura lo spirito con cui Henley e la sua scuola di critici virili tentarono; intendo il loro giustissimo tentativo di mostrare che le lettere dovrebbero avere sangue rosso, in contrapposizione al pessimismo dal sangue verde dei decadenti. Ma quali che fossero le loro debolezze, riempirono davvero l'età di un nuovo mutamento e fermento, e diedero ai pessimisti qualcosa che, se non una cura, era almeno un antidoto e un contro-irritante. La prima e migliore opera del signor Rudyard Kipling giunse a loro come un nuovo soffio di profezia e di promessa; Sir Henry Newbolt sostenne il [[Chorus|coro]] con due o tre delle più belle liriche inglesi moderne. Vi era una generale moda di poesia patriottica, [[Well|oltre che]] di giornalismo sciovinista, in versi o altrimenti. Fu l'unico punto su cui quel più forte e più virile dei pessimisti, il Giovane dello Shropshire, poté essere mosso per un momento a un'allegria lievemente blasfema. John Davidson, un cupo scozzese in uno stato di rivolta cupo e perfino fosco contro ogni cosa, era anch'egli pronto a seguire la [[Flag|bandiera]] e a rivoltarsi contro tutto tranne che contro l'Impero. Il punto di tutto ciò non è che il patriottismo risorse, giacché i poeti e i critici più anziani davano il patriottismo per scontato: ma che il particolare tipo d'imperialismo tribale sbucò da quella radice piuttosto barbarica della Razza, già notata come un [[Romance|romanzo]] della scienza, che reagì contro il razionalismo della Rivoluzione.
+
+
+
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_04" data-title="Common Man — From Meredith To Rupert Brooke (part 4)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+
+
+Fortunately, from the same Stevenson and Henley stock of ideas,
+came another idea that also filled the age.  It came from Stevenson
+[[Alone|alone]], as distinct from Newbolt, Henley, Kipling and the rest,
+and may be called the cult of the [[Child|child]], but especially of the boy.
+It would be putting it too harshly, perhaps, to say that Stevenson
+wanted to go on playing at robbers; whereas Henley and the Imperialists
+wanted to be robbers.  Anyhow, Stevenson saw the fun of what he was
+doing when be made the [[Child|child]] say that he was the captain of a tidy
+little [[Ship|ship]]; whereas it is, I believe, the inscrutable fact that
+Henley did not see any fun in what he was doing when he adjured
+John Bull to "[[Storm]] along, John", and assured that public character
+that the whole world would soon be his own.  Through Stevenson's
+truly [[Magic|magic]] lantern, which he described in The Lantern-Bearers,
+there shone a true reillumination of the mystical [[Melodrama|melodrama]] of [[Childhood|childhood]].
+And in that light many followed to the same sort of fairyland;
+notably Sir James Barrie, who introduced a sort of irony into fairyland.
+He continued what may be called the Stevensonian stereoscopic view;
+the looking at the same object in a [[Double|double]] fashion, with the eye
+of the adult and of the [[Child|child]].  But it was mostly through a string
+of accidental friendships that this fantastic element was connected with
+the more realistic of the robust school, though of course there were many
+brilliant individuals who could only be placed with or near that group.
+Thus Joseph Conrad, though a Pole, was connected with it by his
+record of hard or violent adventure at sea; and Mr. John Masefield,
+though he wrote later and longer [[Poems|poems]] of rural sport or religion,
+began with rousing sea [[songs]] of the buccaneers.
+
+Already, however, a new voice had been heard, and a new influence
+balanced or rebuked an influence like that of Kipling; and it was
+a voice from a more remote elfland than the elfland of Peter Pan.
+Stevenson himself said that he had twice in poetry heard a new note
+or a unique and arresting voice:  once when he read [[Love]] In A Valley
+by George Meredith; and once again when he read some verses
+called The Lake Island of Innisfree by William Butler Yeats.
+Yet it is worth remarking that there still remained this curious
+persistence of the [[Romance|romance]] of race, even in what was so naturally
+hostile to the popular [[Romance|romance]] of the Anglo-Saxon race.
+The appearance of a new cultural nucleus in Dublin, while it derived
+something from the Pre-Raphaelites, and therefore something from
+the Victorians, was so far Victorian in this special respect, that it
+managed to get entangled like all the rest with an ethnological term:
+the term "Celtic". It did not even substitute the old Irish term
+"Gaelic". It is true that Mr. Yeats himself, the founder of the school
+and one of the first poets of recent times, did not really base his
+own case on anthropology, but rather on [[history]] and (very rightly)
+even more on legend.  But it marks the racial influence already
+described that the word "Celtic" stuck to the movement, which was really
+a revival of remote legend and a gentle heathenism of the hills.
+It also explains why there was some reaction against it even in its
+own [[Home|home]].  There are many who came not to care very much about
+the Celtic Twilight, who have lived to see the Irish [[Dawn]].
+
+About this [[Time|time]], or a little later, in England, there appeared
+a group formally called Minor Poets; though one of them was certainly
+a Major Poet.  He was classed at the [[Time|time]] with John Davidson and
+Sir William Watson, both of them very genuine poets in their own style;
+and there is some charming lyricism in their contemporaries,
+Norman Gale and [[Richard]] le Gallienne.  Two other writers of fine verse
+really belong to this period:  Ernest Dowson and Lionel Johnson.
+But I think it fair to say that Francis Thompson, thus classed
+as one of them, was of another and altogether higher class.
+He owed something to Coventry Patmore, one of the most
+really original Victorians, and something to Alice Meynell,
+a woman who was a poet (not a poetess) of the sort that women
+were least supposed to be; an intrinsically intellectual poet.
+But even of these friends he was free; with all the [[Freedom|freedom]] of a
+creative and supremely productive or fertile genius.  His imagery
+was so imaginative as to be almost crowded; and, in a different sense
+from the more analytical Victorians, dark with excess of light.
+Because he was Catholic many would expect him to be Gothic;
+but there was something in his exuberance that resembled rather
+the very best of the Baroque.
+
+The necessity of marking the period by moods has led us here to mark it
+too exclusively by poets, who are the only permanent record of moods.
+It need not be said that work of another and what some think a more
+solid sort had been going forward in those last years; some of it
+very solid indeed, certainly in the best and perhaps also in the more
+questionable sense.  Fiction, for instance, had followed other guides
+besides [[Romance|romance]].  The immense influence of Thomas Hardy was there;
+with his strong sense of the [[Truth|truth]] of the earth, as also of the [[Tragedy|tragedy]]
+of the [[Dust|dust]].  It had set many able men working in a mine of realism.
+The two ablest and most typical in this tradition were Arnold Bennett
+and John Galsworthy.  If I do not speak here at length of men
+of genius like H. G. Wells and Bernard [[Shaw]], it is because they
+are in a sense the opening of another world, and are most vividly
+lit up by the glare of the Great War and the existing social perils;
+and these things really mark the close of the period.  For an appalling
+[[Apocalypse|apocalypse]] came upon all life, and therefore upon all literature;
+and the most fitting emblems of such splendour and terror,
+and the arts of peace torn across, and youth going to its [[Death|death]] singing,
+remain with the last few [[Poems|poems]] of Rupert Brooke.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fortunatamente, dallo stesso ceppo di idee di Stevenson e Henley, venne un'altra idea che pure riempì l'età. Venne da Stevenson [[Alone|soltanto]], distintamente da Newbolt, Henley, Kipling e gli altri, e può essere chiamata il culto del [[Child|fanciullo]], ma specialmente del ragazzo. Sarebbe dirla troppo aspramente, forse, dire che Stevenson voleva continuare a giocare ai briganti; laddove Henley e gli imperialisti volevano essere briganti. Comunque, Stevenson vedeva il divertimento di ciò che faceva quando fece dire al [[Child|fanciullo]] di essere il capitano di una linda [[Ship|navicella]]; laddove è, credo, l'imperscrutabile fatto che Henley non vedeva alcun divertimento in ciò che faceva quando esortava John Bull a «[[Storm|Avanza]] a tempesta, John», e assicurava a quel personaggio pubblico che il mondo intero sarebbe presto stato suo. Attraverso la lanterna davvero [[Magic|magica]] di Stevenson, che egli descrisse in «The Lantern-Bearers», risplendeva una vera riaccensione del mistico [[Melodrama|melodramma]] dell'[[Childhood|infanzia]]. E in quella luce molti seguirono verso lo stesso genere di paese delle fate; segnatamente Sir James Barrie, che introdusse una sorta d'ironia nel paese delle fate. Egli continuò quella che si può chiamare la stereoscopica visione stevensoniana; il guardare al medesimo oggetto in [[Double|duplice]] modo, con l'occhio dell'adulto e con quello del [[Child|fanciullo]]. Ma fu per lo più attraverso una serie di amicizie accidentali che questo elemento fantastico venne collegato con i più realisti della robusta scuola, benché naturalmente vi fossero molti brillanti individui che si potevano collocare solo con quel gruppo o presso di esso. Così Joseph Conrad, benché polacco, vi fu collegato dal suo repertorio di dura o violenta avventura in mare; e il signor John Masefield, benché scrivesse più tardi e più lunghi [[Poems|poemi]] di sport rurale o di religione, cominciò con travolgenti [[songs|canti]] marinareschi di bucanieri.
+
+Già, tuttavia, una nuova voce s'era udita, e una nuova influenza bilanciava o rimproverava un'influenza come quella di Kipling; ed era una voce da un paese degli elfi più remoto del paese degli elfi di Peter Pan. Stevenson stesso disse d'aver udito due volte, in poesia, una nuova nota o una voce unica e arrestante: una volta quando lesse «[[Love|Amore]] in una valle» di George Meredith; e un'altra volta quando lesse certi versi intitolati «L'isola lacustre di Innisfree» di William Butler Yeats. Eppure vale la pena notare che tuttora permaneva questa curiosa persistenza del [[Romance|romanzo]] della razza, perfino in ciò che era così naturalmente ostile al popolare [[Romance|romanzo]] della razza anglosassone. La comparsa di un nuovo nucleo culturale a Dublino, pur derivando qualcosa dai preraffaelliti, e perciò qualcosa dai vittoriani, fu vittoriana fin qui in questo particolare aspetto: che riuscì a impigliarsi come tutto il resto in un termine etnologico: il termine «celtico». Non sostituì neppure il vecchio termine irlandese «gaelico». È vero che il signor Yeats stesso, il fondatore della scuola e uno dei primi poeti dei tempi recenti, non basava in realtà il proprio caso sull'antropologia, ma piuttosto sulla [[history|storia]] e (assai giustamente) ancor più sulla leggenda. Ma segna l'influenza razziale già descritta il fatto che la parola «celtico» si appiccicò al movimento, che era in realtà un revival di remota leggenda e un mite paganesimo delle colline. Spiega anche perché vi fu una qualche reazione contro di esso perfino nella sua propria [[Home|patria]]. Vi sono molti che finirono per non curarsi granché del Crepuscolo Celtico, e che sono vissuti tanto da vedere l'[[Dawn|Alba]] irlandese.
+
+Verso questo [[Time|tempo]], o un po' più tardi, in Inghilterra, comparve un gruppo formalmente chiamato dei Poeti Minori; benché uno di essi fosse certamente un Poeta Maggiore. Al [[Time|tempo]] fu classificato con John Davidson e Sir William Watson, entrambi poeti assai genuini nel loro stile; e vi è un incantevole lirismo nei loro contemporanei, Norman Gale e [[Richard]] le Gallienne. Due altri scrittori di bei versi appartengono davvero a questo periodo: Ernest Dowson e Lionel Johnson. Ma penso sia giusto dire che Francis Thompson, così classificato come uno di essi, fu di un'altra e del tutto più alta classe. Dovette qualcosa a Coventry Patmore, uno dei più davvero originali vittoriani, e qualcosa ad Alice Meynell, una donna che era un poeta (non una poetessa) del genere che le donne meno si supponeva potessero essere; un poeta intrinsecamente intellettuale. Ma perfino di questi amici fu libero; con tutta la [[Freedom|libertà]] di un genio creativo e supremamente produttivo o fertile. La sua immaginazione era così immaginosa da essere quasi affollata; e, in un senso diverso da quello dei più analitici vittoriani, buia per eccesso di luce. Poiché era cattolico, molti si aspetterebbero che fosse gotico; ma vi era nella sua esuberanza qualcosa che assomigliava piuttosto al meglio del Barocco.
+
+La necessità di segnare il periodo per mezzo di umori ci ha portati qui a segnarlo troppo esclusivamente per mezzo di poeti, che sono l'unica traccia permanente degli umori. Non c'è bisogno di dire che un'opera di altro genere, e da alcuni ritenuta di genere più solido, era andata avanti in quegli ultimi anni; parte di essa davvero assai solida, certo nel senso migliore e forse anche in quello più discutibile. La narrativa, per esempio, aveva seguito altre guide oltre al [[Romance|romanzo]]. C'era l'immensa influenza di Thomas Hardy; col suo forte senso della [[Truth|verità]] della terra, come anche della [[Tragedy|tragedia]] della [[Dust|polvere]]. Aveva messo molti uomini capaci a lavorare in una miniera di realismo. I due più capaci e più tipici in questa tradizione furono Arnold Bennett e John Galsworthy. Se non parlo qui a lungo di uomini di genio come H. G. Wells e Bernard [[Shaw]], è perché essi sono in un certo senso l'apertura di un altro mondo, e sono illuminati nel modo più vivido dal bagliore della Grande Guerra e dei pericoli sociali esistenti; e queste cose segnano davvero la chiusura del periodo. Poiché una spaventosa [[Apocalypse|apocalisse]] calò su tutta la vita, e perciò su tutta la letteratura; e i più adatti emblemi di tale splendore e terrore, e delle arti della pace lacerate, e della giovinezza che va alla sua [[Death|morte]] cantando, rimangono con gli ultimi pochi [[Poems|poemi]] di Rupert Brooke.
 
 
 
@@ -9135,6 +10785,1010 @@ Ora, tutto ciò mi fa sorridere in modo triste ma di larghe vedute. Perché mi s
 La [[Truth|verità]] è che il diciottesimo e il diciannovesimo secolo ebbero le loro piccole limitazioni locali, che stanno già crollando. Volendo espellere il sovrumano ed esaltare l'umano, semplificarono grossolanamente l'umano. Il grande Huxley (sia lode al suo nome) disse nell'[[innocence|innocenza]] del suo cuore: «Si può dubitare che alcun uomo abbia mai detto davvero: "Male, sii tu il mio bene"». Non poteva credere che alcuno scetticismo potesse intaccare la [[morality|morale]] comune, con la quale intendeva in realtà la [[morality|morale]] cristiana. Ma una tale [[innocence|innocenza]] è anche ignoranza. Nulla è più certo del fatto che certi uomini altamente lucidi, colti e deliberati abbiano detto: «Male, sii tu il mio bene»; uomini come Gilles de Rais e il marchese de Sade. Voglia Dio che alla fine si siano pentiti, ma il punto è che essi perseguirono davvero il male; non il piacere, o l'eccesso di piacere, o il sesso o la sensualità, ma il male. Ed è del tutto certo che alcuni lo perseguirono al di là dei confini di questo mondo; e chiamarono forze maligne dall'aldilà. Vi sono ottime prove che alcuni di loro ottennero ciò che avevano chiesto.
 
 Ora, un cattolico parte da tutta questa esperienza realistica dell'umanità e della [[history|storia]]. Uno spiritista parte generalmente dal recente ottimismo ottocentesco, in cui nacque il suo credo, il quale presume vagamente che, se esiste qualcosa di spirituale, esso sia più felice, più alto, più amabile e più sublime di qualunque cosa noi ancora conosciamo; e così spalanca tutte le porte e le finestre perché il mondo spirituale vi affluisca. Ma noi riteniamo che questa sia un'ignoranza altrettanto ingenua che se un sentimentale del Settecento, leggendo in Rousseau l'idea che l'uomo selvaggio sia come Adamo nell'Eden, fosse andato a vivere nelle Isole dei Cannibali per trovarsi circondato di felicità e virtù. Ne sarebbe circondato, forse, ma in un senso più corporeo e sgradevole. Una moda sentimentale può presumere che non vi siano cannibali; un'altra moda ottimistica che non vi siano adoratori del diavolo — o che non vi siano diavoli. Ma vi sono. Questo è il dato di esperienza che è la chiave di molti misteri, compresa la misteriosa politica della [[Catholic Church|Chiesa cattolica]].
+
+
+
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_01" data-title="Common Man — Giotto And St.  Francis (part 1)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
+
+
+GIOTTO AND ST.  FRANCIS
+
+St. Francis of Assisi has been for ages a popular saint;
+in our own age he has for the first [[Time|time]] been in some danger
+of being a fashionable saint.  That sort of distinction of
+the drawing-rooms, which is said to have been a [[Temptation|temptation]] rejected
+by many saints in their lifetime, which is certainly a peril
+besetting most popular preachers all their lives, has come at
+last to this popular preacher six hundred years after his [[Death|death]].
+It is natural that artists should be interested in the poet who was
+practically the founder of medieval and therefore of modern art.
+And it is only too true that, wherever we admit the [[Artist|artist]], it is very
+difficult to exclude the aesthete.  This sort of light literary fuss,
+though often sincere as a sentiment and even valuable as a tribute,
+is the very opposite of that sort of solid and traditional popularity
+which St. Francis had among countless generations of peasants.
+There is something about peasant traditions, and even about
+peasant legends, which knows how to keep close to the earth.
+It is a mark of true folklore that even the tale that is evidently
+wild is eminently sane.  We see this in the most extravagant stories
+of the saints, if we compare them with the extravagant theories
+of the sophists and the sentimentalists.  Take, for instance,
+that most beautiful attribute for which St. Francis is rightly loved
+throughout the modern world:  his tenderness towards the lower [[Animals|animals]].
+It is illustrated in medieval folklore by fancies but not by fads.
+It is impossible to imagine any [[Fable|fable]] more fabulous, in the sense
+of fantastic and frankly incredible, than the story of St. Francis
+making a business bargain with a very large and dangerous wolf;
+drawing up a legal document with carefully numbered promises
+and concessions from the party of the first part and the party
+of the second part; the wild beast solemnly lodging a legal
+affidavit by the number of times he nodded his head.
+And yet there is in that fairy-tale a rustic and realistic sagacity
+that comes from real relations with [[Animals|animals]], and is therefore perhaps
+called by the picturesque name of [[Horse|horse]]-sense. It was not written
+by the modern monomaniac animal-worshipper. It is a pleasant story
+because the saint is considering the peasants as [[Well|well]] as the wolf.
+St. Francis was not the sort of man to agree with the hypothetical
+Hindoo who would be slowly devoured by a Bengal tiger, and remain
+in a state of philosophical absent-mindedness, because tigers are quite
+as cosmic as Hindoos.  The Christian common sense of St. Francis,
+even in this wild [[Fable|fable]], seized on the vital fact; that men must
+be saved from wolves as [[Well|well]] as wolves from hunger, or even more so,
+and that this could only be done by some sort of definite arrangement.
+And it does put its finger upon the difficulty; in the absence
+of communication and therefore of contract between men and beasts.
+It realises that a moral obligation must be a mutual obligation.
+St. Francis contemplating the mountain wolf, hits on the same point
+as Job contemplating the monstrous Leviathan:  "Will he make
+a pact with thee?"  That is a sort of solid popular instinct,
+which was never lost by the really popular saint, in spite of anything
+which strangers might stare at as his antics or his agonies.
+Men remembered that he had been a good friend to them as [[Well|well]] as to
+[[Birds|birds]] and beasts; and the fact is still apparent in the most remote
+and extravagant rumours of him.  It is in this that he differs from some
+of the rather unbalanced and unnatural humanitarians of modern times.
+As a matter of fact, St. Francis does not by any means stand [[Alone|alone]] among
+medieval or other saints in this protest and protection of [[Animals|animals]]
+against men; though he probably does stand [[Alone|alone]] in his poetical
+and imaginative power of stamping the [[Memory|memory]] of it in picturesque
+images on the popular mind.  Some of the greatest medieval priests
+long before St. Francis, St. Anselm, for instance, were famous
+for demanding kindness to the brute creation; many of them, St. Hugh
+of [[Lincoln]], for instance, had an even more eccentric taste in pets;
+for St. Hugh, instead of preaching to the [[Birds|birds]], seems to have
+allowed a large bird to accompany him everywhere like a curate.
+But what is notable about this medieval theory of [[Mercy|mercy]] is something
+ultimately mild and reasonable, however freakish was its expression;
+a comprehension of the common needs of common people, and a
+[[Humanitarianism|humanitarianism]] that did not exclude humanity.  In that sense,
+it is the modern age that is the age of fanatics.
+
+This fact of St. Francis becoming a modern fashion, after having
+been for so long a medieval tradition, might [[Well|well]] arouse in his
+real admirers a [[Fear|fear]] of his cult becoming merely artistic in
+the sense of merely artificial.  And yet, in spite of one or two
+incongruous interventions, this has not really taken place.
+It is perhaps the highest tribute to the [[Truth|truth]] and sincerity
+of St. Francis that even now he can keep his simplicity in the face
+of fashionable admiration; as the Franciscan in the story kept
+the fashionable crowd at a distance by playing antics on a seesaw.
+And this remarkable escape from the suffocation of sophistication is
+nowhere better expressed than in what still remains, even to the eye
+of the traveller--the naked nobility of his native town.
+
+A traveller at all experienced in the ways of travellers, not to say
+of trippers, will approach the steep [[City|city]] of Assisi with some
+feelings of [[Doubt|doubt]] and even of [[Fear|fear]].  He will know that the modern
+discovery of the medieval saint may yet be followed by disasters,
+more subtle than those which superstition has traced in the modern
+disinterment of the Egyptian [[King|king]].  He will know that there are things
+to which guide-books are not the best guides; which are seen better
+by solitary pilgrims than by sociable tourists; and, without any sort
+of superiority let [[Alone|alone]] [[Misanthropy|misanthropy]], he will have had experience already
+of places which crowds of visitors have made less worth visiting.
+He will know that quarrels not untouched by quackeries have insulted
+the great [[Silence|silence]] of Glastonbury; he will know that there is some
+[[Truth|truth]] in the report that a bustle of sight-seeing and a bawling for
+baksheesh has spoiled for many the spiritual adventure of Jerusalem.
+Knowing how many aimless aesthetes, how many irresponsible intellectuals,
+how many mere sheep of show and fashion follow this track through [[Italy]],
+he may [[Well|well]] [[Fear|fear]] to find obliterated the ancient simplicity of Assisi.
+But when he sees it, if I may answer for at least one among many
+such travellers, he will receive what I can only describe as a cool
+shock of consolation.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+GIOTTO E SAN FRANCESCO
+
+San Francesco d'Assisi è stato per secoli un santo popolare; nella nostra epoca, per la prima [[Time|volta]], ha corso in qualche misura il pericolo di diventare un santo alla moda. Quella particolare distinzione dei salotti, che si dice sia stata una [[Temptation|tentazione]] respinta da molti santi durante la loro vita, e che è certamente un'insidia che assedia per tutta l'esistenza la maggior parte dei predicatori di successo, è giunta infine a questo predicatore popolare seicento anni dopo la sua [[Death|morte]]. È naturale che gli artisti si interessino al poeta che fu, in pratica, il fondatore dell'arte medievale e quindi dell'arte moderna. E non è che troppo vero che, ovunque ammettiamo l'[[Artist|artista]], è assai difficile escludere l'esteta. Questa specie di lieve trambusto letterario, per quanto spesso sincero come sentimento e persino prezioso come tributo, è l'esatto contrario di quella popolarità solida e tradizionale che san Francesco godette presso innumerevoli generazioni di contadini. C'è qualcosa, nelle tradizioni contadine, e persino nelle leggende contadine, che sa restare vicino alla terra. È il marchio del vero folklore che perfino il racconto manifestamente selvaggio sia eminentemente assennato. Lo vediamo nelle più stravaganti storie dei santi, se le confrontiamo con le stravaganti teorie dei sofisti e dei sentimentali. Si prenda, per esempio, quel bellissimo attributo per cui san Francesco è giustamente amato in tutto il mondo moderno: la sua tenerezza verso gli [[Animals|animali]] inferiori. Nel folklore medievale è illustrata da fantasie, ma non da fissazioni. È impossibile immaginare una [[Fable|favola]] più favolosa, nel senso di fantastica e schiettamente incredibile, di quella di san Francesco che conclude un affare con un lupo grandissimo e pericoloso; stilando un documento legale con promesse e concessioni accuratamente numerate da parte del contraente di prima parte e del contraente di seconda parte; e la belva feroce che presta solennemente giuramento con il numero delle volte in cui piega il capo. Eppure in quella fiaba c'è una sagacia rustica e realistica che nasce da rapporti reali con gli [[Animals|animali]], ed è perciò forse chiamata con il pittoresco nome di buon senso da [[Horse|cavallo]]. Non fu scritta dal moderno monomaniaco adoratore delle bestie. È una storia gradevole perché il santo tiene conto dei contadini [[Well|non meno]] che del lupo. San Francesco non era il tipo d'uomo da dar ragione all'ipotetico indù che si lascerebbe divorare lentamente da una tigre del Bengala, restando in uno stato di filosofica distrazione, perché le tigri sono altrettanto cosmiche quanto gli indù. Il buon senso cristiano di san Francesco, persino in questa [[Fable|favola]] selvaggia, colse il fatto vitale: che gli uomini vanno salvati dai lupi [[Well|non meno]] di quanto i lupi vadano salvati dalla fame, o addirittura di più, e che ciò poteva farsi soltanto con qualche precisa forma di accordo. E davvero mette il dito sulla difficoltà: nell'assenza di comunicazione, e quindi di contratto, tra gli uomini e le bestie. Comprende che un obbligo morale dev'essere un obbligo reciproco. San Francesco, contemplando il lupo di montagna, coglie il medesimo punto che coglie Giobbe contemplando il mostruoso Leviatano: «Farà egli patto con te?». È una sorta di solido istinto popolare, che il santo autenticamente popolare non perse mai, malgrado tutto ciò che gli estranei potessero fissare come sue bizzarrie o sue agonie. Gli uomini ricordavano che era stato buon amico a loro [[Well|non meno]] che agli [[Birds|uccelli]] e alle bestie; e il fatto è ancora evidente nelle dicerie più remote e stravaganti su di lui. È in questo che egli differisce da certi umanitari piuttosto squilibrati e innaturali dei tempi moderni. In verità, san Francesco non è affatto [[Alone|solo]] tra i santi medievali e non, in questa protesta e protezione degli [[Animals|animali]] contro gli uomini; benché probabilmente sia [[Alone|solo]] nella sua potenza poetica e immaginativa di imprimere il suo [[Memory|ricordo]] in immagini pittoresche nella mente popolare. Alcuni dei più grandi sacerdoti medievali, molto prima di san Francesco — sant'Anselmo, per esempio — furono celebri per aver reclamato bontà verso la creazione bruta; molti di loro, come sant'Ugo di [[Lincoln]], ebbero un gusto ancor più eccentrico in fatto di animali prediletti; perché sant'Ugo, invece di predicare agli [[Birds|uccelli]], pare che si facesse accompagnare ovunque da un grande uccello come da un cappellano. Ma ciò che è notevole in questa teoria medievale della [[Mercy|misericordia]] è qualcosa di ultimamente mite e ragionevole, per quanto bizzarra ne fosse l'espressione: una comprensione dei comuni bisogni della gente comune, e un [[Humanitarianism|umanitarismo]] che non escludeva l'umanità. In tal senso, è l'età moderna a essere l'età dei fanatici.
+
+Questo fatto — che san Francesco stia diventando una moda moderna, dopo essere stato per tanto tempo una tradizione medievale — potrebbe [[Well|bene]] destinare nei suoi veri ammiratori il [[Fear|timore]] che il suo culto si faccia meramente artistico, nel senso di meramente artificioso. Eppure, malgrado un paio d'interventi incongrui, ciò non è realmente accaduto. È forse il più alto tributo alla [[Truth|verità]] e alla sincerità di san Francesco che ancor oggi egli sappia conservare la propria semplicità di fronte all'ammirazione alla moda; come il francescano della storia teneva a distanza la folla elegante facendo capriole su un'altalena. E questa notevole fuga dal soffocamento della sofisticazione non è espressa in nessun luogo meglio che in ciò che ancora rimane, persino all'occhio del viaggiatore: la nuda nobiltà della sua città natale.
+
+Un viaggiatore anche solo un poco esperto nelle abitudini dei viaggiatori, per non dire dei gitanti, si avvicinerà all'erta [[City|città]] di Assisi con qualche sentimento di [[Doubt|dubbio]] e persino di [[Fear|timore]]. Saprà che la moderna scoperta del santo medievale potrebbe pur sempre essere seguita da disastri più sottili di quelli che la superstizione ha rintracciato nella moderna esumazione del [[King|re]] egizio. Saprà che vi sono cose alle quali le guide turistiche non sono le guide migliori; cose che si vedono meglio dai pellegrini solitari che dai turisti socievoli; e, senza alcuna specie di superiorità, e tanto meno di [[Misanthropy|misantropia]], avrà già fatto esperienza [[Alone|di per sé]] di luoghi che le folle di visitatori hanno reso meno degni d'essere visitati. Saprà che liti non immuni da ciarlatanerie hanno insultato il grande [[Silence|silenzio]] di Glastonbury; saprà che c'è qualche [[Truth|verità]] nella voce secondo cui un trambusto di visite turistiche e uno strepitare di bakshish hanno guastato per molti l'avventura spirituale di Gerusalemme. Sapendo quanti esteti senza scopo, quanti intellettuali irresponsabili, quante pure pecore dello sfarzo e della moda seguano questa pista attraverso l'[[Italy]], potrà [[Well|bene]] [[Fear|temere]] di trovare cancellata l'antica semplicità di Assisi. Ma quando la vedrà — se posso rispondere per almeno uno tra molti di tali viaggiatori — riceverà ciò che posso soltanto descrivere come un fresco scossone di consolazione.
+
+
+
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_02" data-title="Common Man — Giotto And St.  Francis (part 2)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
+
+
+The [[City|city]] is founded upon a rock; the [[City|city]] is a rock; and it is too
+simple for anybody to spoil.  It has proved practically impossible
+to paint or gild or pad or upholster or even to scratch that rock.
+In the main lines of it an austerity [[Alone|alone]] remains in the [[Memory|memory]];
+and even the [[Beauty|beauty]] of the milder landscape is itself austere.
+There may be, indeed there is, the usual accumulation in corners
+of the popular trinkets or traditional toys of devotion, which some
+people are so unfortunately fastidious as to resent; but that is
+not the sort of peril of which I am thinking, even from the point
+of view of those who would admit it to be in other ways perilous.
+It is not a question of any abuses among the ignorant or the [[Innocent|innocent]]
+who look up to the saint; it is a question of the condescending culture
+that looks down to him; not a matter of importing idolatry into the
+institution of a patron saint; but a matter of patronising the patron.
+And though multitudes in this rather snobbish state of mind must have
+passed through so established a station of the Italian pilgrimage,
+they have not in fact left any trail behind them, as they have
+in so many similar places; the hills have forgotten them and their
+personalities have passed away with the smell of their petrol.
+St. Francis is still left [[Alone|alone]] with his own friars and mostly
+with his own friends; and especially with that great first friend
+who was his interpreter to the expanding civilisation that came
+after him; the friend who could express in images what Francis
+himself had always felt as imagery, or what we call [[Imagination|imagination]];
+the painter who translated the poet--Giotto.
+
+The advance of art criticism is a continual retreat; it would seem
+in some strange manner destined to march perpetually backwards into
+older and older periods.  At the beginning of the nineteenth century
+the critics had finally accepted the normality of the Ancient Greeks.
+By the end of the nineteenth century the critics were already inaugurating
+the novelty of the Ancient Egyptians.  We must all, by this [[Time|time]],
+be familiar with expressions of admiration for the art of the Caveman,
+scrawled in rock and red ochre with an unmistakable spirit and
+even distinction of draughtsmanship; the cult of the prehistoric
+which has given a new meaning to the cult of the Primitives.
+It will soon seem perfectly natural to be talking about the modernised
+and decadent sophistication of the Second Stone Age as compared
+with the rich but [[Well|well]]-balanced civilisation of the First Stone Age.
+The further we go back to explore, the more we find that is
+really worth exploring; and the nearer we are to the real
+primitive man, the further we are from the ape or even the savage.
+This being true even of the tremendous scope of the whole [[history]]
+of the human tribe, it is not to be wondered at that men have made
+the same discovery about the high and complex culture of Christendom.
+The spotlight of artistic interest and concentration has been
+steadily travelling backwards ever since I was a [[Child|child]].
+I can remember faintly that in my first years it was still felt as
+something of a [[Paradox|paradox]] to maintain that the quaintness of Botticelli
+could be taken as seriously as the solid finish of Guido Reni;
+that Ruskin was still a revolutionist for preferring the dayspring
+of the [[Renaissance]] in the fourteenth century to the dregs
+of the [[Renaissance]] in the eighteenth.  Even as late as that,
+for most people, Giotto was still not so much a Primitive
+as a primitive man.  He was a sort of savage who had done some
+service by discovering that it was possible to scratch something
+resembling a rudimentary human figure on the walls of his [[Cave|cave]].
+For most people all serious art still lay between Raphael and Reynolds.
+As I grew up, the Ruskinian revolution prevailed, and most men came
+to realise that Giotto was a great painter; but even those men
+generally regarded him as the first great painter.  But now, in yet
+more recent times, the artists are yet more like archaeologists,
+in the sense of going back to what is yet more archaic.
+The change that has passed over the most recent phase of art
+criticism can be sufficiently suggested by this one case of Giotto.
+I referred somewhere, in the Ruskinian manner, to Giotto as the figure
+who stands at the beginning of Christian art.  One of the most
+creative of modern sculptors, whom many would call a medievalist,
+wrote to assure me that Giotto stands at the end of Christian art;
+with something like a broad hint that Giotto brought it to an end.
+
+The spotlight has moved further back, and is now illuminating
+what even Ruskin and the romantic medievalists would have regarded
+as a [[Desert|desert]] of dead and barbaric formalism; the true Dark Ages.
+Our Progressives are now bound with golden [[Chains|chains]] to the
+decline of Byzantium, rather than to the rise of Florence.
+It is quaint to think how little harm a blundering nickname need
+do in the long run.  All the admirers of Gothic call it Gothic,
+though it was originally meant to stamp it as barbaric.  And all
+the admirers of Byzantine call it Byzantine; though the very adjective
+is already in use as a symbol of stiff degradation and decline.
+The new theories about rhythm and design have done justice to the old
+pictures which the romantics regarded merely as diagrams or patterns.
+The change from Cimabue to Giotto is at least not so certainly
+an unmixed improvement as it appeared to the Victorian medievalists.
+There is, as it were, a new school of Pre-Raphaelites, who are not
+only pre-Raphael, but pre-Giotto. The shining figure of the shepherd
+no longer stands against a background of black and barbarous darkness;
+but in a sort of [[Double|double]] light, in itself involving some of these
+subtler problems of balance and recurrence; having on his right hand
+the wide white daybreak of Rome and Assisi and [[Paris]] and all the West,
+and on his left the long and gorgeous golden sunset of the great
+[[City|city]] of Constantine.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[City|città]] è fondata sulla roccia; la [[City|città]] è una roccia; ed è troppo semplice perché qualcuno possa guastarla. Si è dimostrato praticamente impossibile dipingere o dorare o imbottire o tappezzare o persino graffiare quella roccia. Nelle sue linee principali rimane nella [[Memory|memoria]] soltanto un'austerità [[Alone|di per sé]]; e persino la [[Beauty|bellezza]] del più mite paesaggio è a sua volta austera. Vi può essere, anzi vi è, il consueto accumulo negli angoli di soprammobili popolari o di tradizionali balocchi devozionali, che certuni sono così malauguratamente schizzinosi da risentirsene; ma non è quella la specie di pericolo cui sto pensando, nemmeno dal punto di vista di chi ammetterebbe che è per altri versi pericoloso. Non è questione di abusi tra gli ignoranti o gli [[Innocent|innocenti]] che levano lo sguardo al santo; è questione della cultura condiscendente che lo guarda dall'alto in basso; non si tratta di importare idolatria nell'istituzione di un santo patrono, ma di trattare con sufficienza il patrono. E benché moltitudini in questo stato d'animo piuttosto snobistico debbano aver attraversato una stazione così consacrata del pellegrinaggio italiano, esse non hanno in realtà lasciato alcuna traccia dietro di sé, come invece hanno fatto in tanti luoghi simili; le colline le hanno dimenticate, e le loro personalità sono svanite con l'odore della loro benzina. San Francesco resta ancora [[Alone|solo]] con i propri frati e per lo più con i propri amici; e specialmente con quel grande primo amico che fu il suo interprete presso la civiltà in espansione che venne dopo di lui; l'amico che sapeva esprimere in immagini ciò che Francesco stesso aveva sempre sentito come figurazione, ossia ciò che noi chiamiamo [[Imagination|immaginazione]]; il pittore che tradusse il poeta: Giotto.
+
+L'avanzata della critica d'arte è una continua ritirata; parrebbe destinata, in qualche strano modo, a marciare perpetuamente all'indietro verso epoche sempre più antiche. All'inizio dell'Ottocento i critici avevano finalmente accettato la normalità degli antichi Greci. Alla fine dell'Ottocento i critici stavano già inaugurando la novità degli antichi Egizi. Ormai, a questo [[Time|punto]], dobbiamo essere tutti familiari con espressioni di ammirazione per l'arte dell'uomo delle caverne, scarabocchiata sulla roccia e in ocra rossa con uno spirito inconfondibile e persino una distinzione di disegno; il culto del preistorico, che ha dato un nuovo significato al culto dei Primitivi. Presto sembrerà perfettamente naturale parlare della sofisticazione modernizzata e decadente della Seconda Età della Pietra a confronto con la ricca ma [[Well|ben]] equilibrata civiltà della Prima Età della Pietra. Più addietro andiamo a esplorare, più troviamo cose realmente degne d'essere esplorate; e più siamo vicini al vero uomo primitivo, più siamo lontani dalla scimmia e persino dal selvaggio. E poiché questo è vero anche per l'immensa portata dell'intera [[history|storia]] della tribù umana, non c'è da meravigliarsi che gli uomini abbiano fatto la medesima scoperta a proposito dell'alta e complessa cultura della cristianità. Il riflettore dell'interesse e della concentrazione artistica ha viaggiato costantemente all'indietro fin da quando io ero [[Child|bambino]]. Ricordo vagamente che, nei miei primi anni, era ancora avvertito come un certo [[Paradox|paradosso]] sostenere che la stranezza di Botticelli potesse essere presa sul serio quanto la solida finitezza di Guido Reni; che Ruskin era ancora un rivoluzionario per preferire l'aurora del [[Renaissance|Rinascimento]] nel Trecento alle fecce del [[Renaissance|Rinascimento]] nel Settecento. Persino a quella data, per la maggior parte della gente, Giotto era ancora non tanto un Primitivo quanto un uomo primitivo. Era una specie di selvaggio che aveva reso un qualche servizio scoprendo che era possibile graffiare qualcosa di simile a una rudimentale figura umana sulle pareti della propria [[Cave|caverna]]. Per la maggior parte della gente tutta l'arte seria giaceva ancora tra Raffaello e Reynolds. Man mano che crescevo, la rivoluzione ruskiniana prevalse, e la maggior parte degli uomini giunse a comprendere che Giotto era un grande pittore; ma persino costoro lo consideravano in genere come il primo grande pittore. Ora, però, in tempi ancor più recenti, gli artisti somigliano sempre più agli archeologi, nel senso di risalire a ciò che è ancor più arcaico. Il mutamento che è passato sopra la fase più recente della critica d'arte può essere sufficientemente suggerito da questo solo caso di Giotto. Ho accennato in qualche luogo, alla maniera ruskiniana, a Giotto come alla figura che sta all'inizio dell'arte cristiana. Uno dei più creativi scultori moderni, che molti chiamerebbero medievalista, mi scrisse per assicurarmi che Giotto sta alla fine dell'arte cristiana; con qualcosa come una larga insinuazione che Giotto vi mise fine.
+
+Il riflettore si è spostato più indietro, e ora illumina ciò che persino Ruskin e i romantici medievalisti avrebbero considerato un [[Desert|deserto]] di formalismo morto e barbarico: le vere Età Oscure. I nostri Progressisti sono ormai avvinti da [[Chains|catene]] d'oro al declino di Bisanzio, più che al sorgere di Firenze. È curioso pensare quanto poco male un maldestro soprannome debba in fondo produrre alla lunga. Tutti gli ammiratori del gotico lo chiamano gotico, benché in origine il termine intendesse bollarlo come barbarico. E tutti gli ammiratori del bizantino lo chiamano bizantino, benché lo stesso aggettivo sia già in uso come simbolo di rigida degradazione e declino. Le nuove teorie sul ritmo e sul disegno hanno reso giustizia alle antiche pitture che i romantici consideravano meri diagrammi o motivi ornamentali. Il passaggio da Cimabue a Giotto non è, almeno, un miglioramento tanto sicuro e senza mescolanze quanto appariva ai medievalisti vittoriani. Vi è, per così dire, una nuova scuola di Preraffaelliti, che non sono soltanto pre-raffaelleschi, ma pre-giotteschi. La figura luminosa del pastore non si staglia più contro uno sfondo di tenebra nera e barbara; ma in una sorta di [[Double|duplice]] luce, che di per sé implica alcuni di questi più sottili problemi di equilibrio e di ricorrenza; avendo alla sua destra l'ampia bianca aurora di Roma e di Assisi e di [[Paris|Parigi]] e di tutto l'Occidente, e alla sua sinistra il lungo e sfarzoso tramonto dorato della grande [[City|città]] di Costantino.
+
+
+
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_03" data-title="Common Man — Giotto And St.  Francis (part 3)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
+
+
+But in [[Truth|truth]] this [[Double|double]] light may make for a better enlightenment,
+both about Giotto and his master St. Francis.  The two artistic movements,
+coming one after the other, have between them done some justice
+to two halves of medieval [[history]], and an earlier and a later period
+of Christendom, both of which had been underrated and misunderstood.
+There is a sort of mathematical [[Beauty|beauty]] in the harshness of Byzantine
+art which is only beginning to be understood; but there is none
+the less another and livelier kind of [[Beauty|beauty]] in the more humanised art
+of the later Middle Ages; something suggestive of a moment when a dead
+design comes to life, or a pattern begins to move, or even to [[Dance|dance]].
+Some humorist wrote a work called "The Loves of the Triangle",
+and a mystical theologian might find in it a profound significance
+touching the loves of the Trinity.  In other words, the old abstract
+expression of divine [[Beauty|beauty]] was the expression of a [[Truth|truth]], but the other
+[[Truth|truth]] of its expression in the concrete was none the less true.
+Now what is true of the early abstract art and the humanistic
+revolution of Giotto, is equally true of the abstract theology
+and the humanistic revolution of Francis.  Some modern writers
+on the first Franciscans talk as if Francis was the first to invent
+the idea of the [[Love]] of God and the God of [[Love]]; or at least was
+the first to go back and find it in the Gospels.  The [[Truth|truth]] is that
+anybody could find it in any of the creeds and doctrinal definitions
+of any period between the Gospels and the Franciscan movement.
+But he would find it in the theological dogmas as he would find
+it in the Byzantine pictures, drawn out in stark and simple lines
+like a mathematical diagram, asserted with a sort of dark clarity
+for those who can appreciate the idea of logical content and balance.
+In the sermons of St. Francis, as in the pictures of Giotto,
+it is made popular by pantomime.  Men are beginning to act it as in
+a theatre, instead of representing it as in a picture or a pattern.
+Thus we find that St. Francis was in many ways the actual founder of
+the medieval miracle play; and there is all this suggestion of a stiff
+thing coming to life in the tale of his contact with the Bambino,
+illustrated in one of Giotto's designs.  And thus we find in Giotto
+himself a quality unique and hardly to be repeated in [[history]].
+It is a sense, not only of movement, but of the first movement.
+There is still something in his figures that suggests that they
+are like the pillars of a church moved by the spiritual earthquake
+of a divine visitation, but even so moved slowly and with a sort
+of reluctant grandeur.  The figures are still partly architectural
+while the faces are alive with portraiture.  This first moment
+of motion has much to do with that sense of morning and youth
+which so many admirers of medievalism have felt, and which I shall
+continue to feel, with all respect to the medievalist sculptor.
+Nothing is nearer to the nerve of primal [[Wonder|wonder]], which is the [[Soul|soul]] of
+all the arts, than that strange saying of the blind man in the Gospels,
+that when he was half awakened to sight, he saw "men as trees walking."
+There is something about the figures of Giotto that suggests men
+as trees walking.  The Byzantine School will not permit me to say that
+before his eyes were thus opened, the [[Artist|artist]] had been wholly blind.
+But I will still maintain that there was something like a miracle,
+in the transition from treating trees as tracery and men as trees,
+to the realisation of the new shock of liberation; and how,
+at the word of God, they could arise and walk.
+
+And here again we strike the parallel between the [[Artist|artist]] and the saint.
+The followers of St. Francis were, above all things, men who could walk.
+Many of them even walked with that sort of dazed unfamiliarity
+and doubtful balance, being suddenly robbed by a whirlwind of all
+the props of property.  But they walked, because a new spirit
+of walking, and even of wandering, had entered into the static
+scheme of medieval [[Christianity]]; just as a new spirit of gesture
+and drama had entered into the static scheme of decorative art.
+The difference between the Friars and the [[Monks]] was, after all,
+that the Friars now walked like men where the [[Monks]] had once stood
+like statues.  I mean nothing but admiration for the Benedictine [[Monks|monks]],
+as for the Byzantine mosaics:  or, for that matter, the grand
+and almost grim rationality of the great abstract dogmas.
+But there had come upon these flat and spacious things,
+carved in stone or ordered like statues, a new depth or dimension;
+a new quality of drama and motion.  The popular propaganda of
+St. Francis, throwing thousands of wandering friars out into roads
+of the world, was the beginning of what we call the modern spirit;
+the spirit of [[Romance|romance]] and experiment and earthly adventure.
+For once a modern phrase which is much misused, may be rightly used.
+The Benedictines were, in the exact sense, an Order; as the plan
+of a [[Cathedral|cathedral]] is an Order.  The Franciscans were, in the exact sense,
+a movement.  Historically, perhaps, the most interesting of the great
+pictures by Giotto which are displayed in the Upper Church of Assisi,
+is that which commemorates the famous dream of the great Pope [[Innocent]]
+the Third; in which he saw the strange beggar, from whom he had
+almost turned away in the street, upholding the whole toppling
+load of St. John Lateran, and indeed, in a larger symbolism,
+the whole load of St. Peter and the Church founded on a rock.
+More than one historian has suggested that, humanly speaking, it was
+St. Francis who prevented all Christendom from coming to an end under
+the [[Double|double]] destructive drive and drag of [[Islam]] without and the pessimist
+heresies within.  This particular picture is also worth noting,
+as a perfect example of that solidity which marked the simplicity
+of the medieval mind.  Modern writers have referred often enough
+to medieval [[Dreams|dreams]] and dark clouds and dim mystical fancies.
+But in fact the medievals never dealt in these things,
+even where they would have been justified in dealing in them.
+There is scarcely any modern of any school, who could deliberately draw
+a picture of a vision in the watches of the [[Night|night]], especially a vision
+so very visionary, so transcendental and so tremendously symbolic,
+as that of an unknown saint upholding a universal church, without bringing
+into the picture some [[Shadow|shadow]] of unreality, or remoteness, of a lurid halo
+of the preternatural; at least of mystery and the tints of twilight.
+But the medieval dream is more solid than the modern reality.
+The medieval [[Artist|artist]] has dealt with it with a directness which
+belongs to the vigorous realism of [[innocence]] and of [[Childhood|childhood]];
+the sort of actuality which has been wholly untouched by the many
+sorts of scepticism which masquerade as mysticism.  The dream is
+full of something very extraordinary, something which did indeed,
+for those who can understand it, shine on the evil and the good
+throughout the epoch that we call the Dark Ages:  broad daylight.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma in [[Truth|verità]] questa [[Double|duplice]] luce può giovare a un migliore rischiaramento, tanto su Giotto quanto sul suo maestro san Francesco. I due movimenti artistici, venuti l'uno dopo l'altro, hanno tra loro reso una certa giustizia a due metà della [[history|storia]] medievale, a un periodo anteriore e a uno posteriore della cristianità, entrambi sottovalutati e fraintesi. Vi è una sorta di [[Beauty|bellezza]] matematica nell'asprezza dell'arte bizantina, che solo ora comincia a essere compresa; ma non per questo manca un altro e più vivace genere di [[Beauty|bellezza]] nell'arte più umanizzata del basso Medioevo; qualcosa che suggerisce l'attimo in cui un disegno morto prende vita, o un motivo comincia a muoversi, o persino a [[Dance|danzare]]. Un umorista scrisse un'opera intitolata «Gli amori del Triangolo», e un teologo mistico potrebbe trovarvi un profondo significato che tocca gli amori della Trinità. In altre parole, l'antica espressione astratta della [[Beauty|bellezza]] divina era l'espressione di una [[Truth|verità]], ma l'altra [[Truth|verità]] della sua espressione nel concreto non era per questo meno vera. Ora, ciò che è vero della prima arte astratta e della rivoluzione umanistica di Giotto, è ugualmente vero della teologia astratta e della rivoluzione umanistica di Francesco. Certi scrittori moderni sui primi francescani parlano come se Francesco fosse stato il primo a inventare l'idea dell'[[Love|amore]] di Dio e del Dio d'[[Love|amore]]; o almeno il primo a risalire indietro e a ritrovarla nei Vangeli. La [[Truth|verità]] è che chiunque avrebbe potuto trovarla in uno qualunque dei credi e delle definizioni dottrinali di qualsiasi periodo tra i Vangeli e il movimento francescano. Ma l'avrebbe trovata nei dogmi teologici come l'avrebbe trovata nelle pitture bizantine, tracciata in linee nude e semplici come un diagramma matematico, asserita con una sorta di oscura chiarezza per coloro che sanno apprezzare l'idea di contenuto logico e di equilibrio. Nei sermoni di san Francesco, come nelle pitture di Giotto, essa viene resa popolare tramite la pantomima. Gli uomini cominciano a recitarla come in un teatro, invece di rappresentarla come in un quadro o in un motivo ornamentale. Così scopriamo che san Francesco fu per molti versi l'effettivo fondatore della sacra rappresentazione medievale; e c'è tutta questa suggestione di una cosa rigida che prende vita nel racconto del suo contatto con il Bambino, illustrato in uno dei disegni di Giotto. E così troviamo in Giotto stesso una qualità unica e difficilmente ripetibile nella [[history|storia]]. È un senso non soltanto del movimento, ma del primo movimento. C'è ancora qualcosa, nelle sue figure, che suggerisce come esse siano simili alle colonne di una chiesa smosse dal terremoto spirituale di una visitazione divina, ma smosse tuttavia lentamente e con una sorta di riluttante grandiosità. Le figure sono ancora in parte architettoniche, mentre i volti sono vivi di ritrattistica. Questo primo attimo di moto ha molto a che vedere con quel senso di mattino e di gioventù che tanti ammiratori del medievalismo hanno provato, e che io continuerò a provare, con tutto il rispetto per lo scultore medievalista. Nulla è più prossimo al nervo dello [[Wonder|stupore]] primevo, che è l'[[Soul|anima]] di tutte le arti, di quello strano detto del cieco nei Vangeli, che quando fu risvegliato a metà alla vista, vide «gli uomini come alberi che camminano». C'è qualcosa, nelle figure di Giotto, che suggerisce uomini come alberi che camminano. La Scuola Bizantina non mi permetterà di dire che, prima che i suoi occhi fossero così aperti, l'[[Artist|artista]] fosse stato del tutto cieco. Ma continuerò a sostenere che ci fu qualcosa di simile a un miracolo, nel passaggio dal trattare gli alberi come trafori e gli uomini come alberi, alla realizzazione del nuovo scossone di liberazione; e a come, alla parola di Dio, essi potessero levarsi e camminare.
+
+E qui di nuovo cogliamo il parallelo tra l'[[Artist|artista]] e il santo. I seguaci di san Francesco erano, sopra ogni cosa, uomini capaci di camminare. Molti di loro camminavano persino con quella specie di attonita estraneità e di dubbio equilibrio, essendo stati d'un tratto derubati da un turbine di tutti i puntelli della proprietà. Ma camminavano, perché un nuovo spirito del camminare, e persino del vagare, era entrato nello schema statico della [[Christianity|cristianità]] medievale; proprio come un nuovo spirito di gesto e di dramma era entrato nello schema statico dell'arte decorativa. La differenza tra i Frati e i [[Monks|Monaci]] era, in fondo, che i Frati ora camminavano come uomini là dove i [[Monks|Monaci]] un tempo erano stati fermi come statue. Non intendo se non ammirazione per i [[Monks|monaci]] benedettini, come per i mosaici bizantini: o, se è per questo, per la grande e quasi arcigna razionalità dei grandi dogmi astratti. Ma su queste cose piatte e spaziose, scolpite nella pietra o ordinate come statue, era venuta una nuova profondità o dimensione; una nuova qualità di dramma e di moto. La propaganda popolare di san Francesco, gettando migliaia di frati erranti sulle strade del mondo, fu l'inizio di ciò che chiamiamo lo spirito moderno; lo spirito di [[Romance|avventura romanzesca]] e di esperimento e di avventura terrena. Per una volta una moderna espressione assai abusata può essere usata a ragione. I Benedettini furono, nel senso esatto, un Ordine; come il piano di una [[Cathedral|cattedrale]] è un ordine. I Francescani furono, nel senso esatto, un movimento. Storicamente, forse, il più interessante dei grandi dipinti di Giotto esposti nella Chiesa Superiore di Assisi è quello che commemora il celebre sogno del grande papa [[Innocent|Innocenzo]] III; in cui egli vide lo strano mendicante, da cui per poco non si era ritratto per la strada, che sosteneva l'intero carico vacillante di San Giovanni in Laterano e, in un più vasto simbolismo, l'intero carico di San Pietro e della Chiesa fondata su una roccia. Più di uno storico ha suggerito che, umanamente parlando, fu san Francesco a impedire che tutta la cristianità andasse in rovina sotto la [[Double|duplice]] spinta distruttiva e il trascinamento dell'[[Islam]] da fuori e delle eresie pessimiste da dentro. Questo particolare quadro è anche degno di nota come perfetto esempio di quella solidità che contraddistingueva la semplicità della mente medievale. Gli scrittori moderni hanno accennato abbastanza spesso ai [[Dreams|sogni]] medievali, alle nubi oscure e alle fosche fantasie mistiche. Ma di fatto i medievali non trattarono mai queste cose, persino là dove sarebbe stato giustificato trattarle. Non c'è quasi alcun moderno, di nessuna scuola, che potrebbe deliberatamente disegnare l'immagine di una visione nelle veglie della [[Night|notte]] — specialmente una visione tanto visionaria, tanto trascendentale e tanto tremendamente simbolica come quella di un santo ignoto che sostiene una chiesa universale — senza portare nel quadro qualche [[Shadow|ombra]] d'irrealtà o di lontananza, qualche livido alone del preternaturale; almeno del mistero e delle tinte del crepuscolo. Ma il sogno medievale è più solido della realtà moderna. L'[[Artist|artista]] medievale lo ha trattato con una schiettezza che appartiene al vigoroso realismo dell'[[innocence|innocenza]] e dell'[[Childhood|infanzia]]; quella specie di attualità che è rimasta del tutto intatta dalle molte forme di scetticismo che si mascherano da misticismo. Il sogno è colmo di qualcosa di straordinario, qualcosa che davvero, per coloro che sanno comprenderlo, brillò sui malvagi e sui buoni per tutta l'epoca che chiamiamo le Età Oscure: pieno giorno.
+
+
+
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_04" data-title="Common Man — Giotto And St.  Francis (part 4)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
+
+
+In another sense, however, the spirit illuminating these great
+medieval designs is not so much generally the spirit of daylight
+as in a rather curious and peculiar sense, the spirit of daybreak.
+Of that highly medieval design it is true to say something of what
+Keats said of the highly classical design of his Grecian Urn.
+It is a sort of immortal moment of morning, and that which is
+a mere transition in [[Time|time]] fixed as an absolute for [[Eternity|eternity]].
+We are so accustomed, in modern times, to think in terms of what we
+call progress, that we seldom admit, except in a poetical parenthesis,
+that there is such a thing as a perfect moment which is better
+than what comes after, as [[Well|well]] as better than what went before.
+Yet it might [[Well|well]] be maintained that art in all its [[history]]
+had no better moment, either before or after, than this
+in which all that was good in the old framework and formalism
+still remained with the upstanding strength of a great building,
+but in which there had already entered that rush of life
+and growth, which had turned it into something like a forest,
+without having as yet turned it into anything like a jungle.
+The naturalistic spirit of the nineteenth century, when it first began
+to understand the genius of Giotto or St. Francis, as interpreted
+by the talent of Ruskin or of Renan, was bound to fasten especially
+on the fanciful and charming episode of the Sermon to the [[Birds]].
+For that generation was less concerned about the preservation of
+churches and more about the preservation of [[Birds|birds]], even if it were
+in the equivocal sense of the preservation of game.  It would be easy
+to illustrate the whole development, we might even say, the whole
+ascent and descent, under the emblem or example of the bird.  The [[Birds|birds]]
+of the primal and symbolic epoch were simplified and somewhat terrible:
+as in the Eagle of the [[Apocalypse]] or the Dove of the Holy [[Ghost]].
+All other [[Birds|birds]] in the Byzantine scheme would have been as abstract
+and typical as the [[Birds|birds]] of an Egyptian hieroglyphic.  The [[Birds|birds]]
+of the later realistic epoch, when the painters of the nineteenth
+century had brought to the last perfection, or the last satiety,
+the studies of optics or of physics begun in the sixteenth, might [[Well|well]]
+have been a most detailed and even bewildering display of ornithology.
+But the [[Birds|birds]] to whom St. Francis preached, in the vision of the
+thirteenth-century art, were already [[Birds|birds]] that could fly and sing,
+but not yet [[Birds|birds]] that could be shot or stuffed; they had ceased
+to be merely heraldic without becoming merely scientific.
+And as, in all studies of St. Francis, we always return to that
+great comparison which he at once denied with all his [[Humility|humility]]
+and desired with all his heart, we may say that they were not wholly
+unlike those strange [[Birds|birds]] in the legend, which the Holy [[Child]]
+pinched into shape out of scraps of clay, and then started into life
+and swiftness with a clap of His little hands.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+In un altro senso, tuttavia, lo spirito che illumina questi grandi disegni medievali non è tanto, in generale, lo spirito del pieno giorno, quanto — in un senso piuttosto curioso e peculiare — lo spirito dell'alba. Di quel disegno altamente medievale è giusto dire qualcosa di ciò che Keats disse dell'altamente classico disegno della sua Urna Greca. È una sorta di immortale attimo di mattino, e ciò che è una mera transizione nel [[Time|tempo]] vi è fissato come un assoluto per l'[[Eternity|eternità]]. Siamo così abituati, nei tempi moderni, a pensare in termini di ciò che chiamiamo progresso, che di rado ammettiamo, se non in una parentesi poetica, che esista una cosa come un attimo perfetto migliore di ciò che viene dopo, [[Well|oltre che]] migliore di ciò che venne prima. Eppure si potrebbe [[Well|ben]] sostenere che l'arte, in tutta la sua [[history|storia]], non ebbe momento migliore, né prima né dopo, di questo in cui tutto ciò che era buono nell'antica intelaiatura e nel formalismo ancora rimaneva con la forza eretta di un grande edificio, ma in cui era già entrato quell'impeto di vita e di crescita che l'aveva mutato in qualcosa di simile a una foresta, senza ancora averlo mutato in qualcosa di simile a una giungla. Lo spirito naturalistico dell'Ottocento, quando cominciò per la prima volta a comprendere il genio di Giotto o di san Francesco, così come interpretato dal talento di Ruskin o di Renan, era destinato ad appuntarsi specialmente sul fantasioso e delizioso episodio della Predica agli [[Birds|Uccelli]]. Poiché quella generazione era meno preoccupata della conservazione delle chiese e più della conservazione degli [[Birds|uccelli]], anche se fosse stato nell'equivoco senso della conservazione della selvaggina. Sarebbe facile illustrare l'intero sviluppo, potremmo persino dire l'intera ascesa e discesa, sotto l'emblema o l'esempio dell'uccello. Gli [[Birds|uccelli]] dell'epoca primeva e simbolica erano semplificati e alquanto terribili: come nell'Aquila dell'[[Apocalypse|Apocalisse]] o nella Colomba dello [[Ghost|Spirito Santo]]. Tutti gli altri [[Birds|uccelli]], nello schema bizantino, sarebbero stati astratti e tipici quanto gli [[Birds|uccelli]] di un geroglifico egizio. Gli [[Birds|uccelli]] della successiva epoca realistica, quando i pittori dell'Ottocento avevano portato all'ultima perfezione, o all'ultima sazietà, gli studi di ottica o di fisica cominciati nel Cinquecento, avrebbero [[Well|ben]] potuto essere una dettagliatissima e persino sconcertante esposizione di ornitologia. Ma gli [[Birds|uccelli]] cui san Francesco predicò, nella visione dell'arte del Duecento, erano già [[Birds|uccelli]] capaci di volare e cantare, ma non ancora [[Birds|uccelli]] che si potessero abbattere a fucilate o impagliare; avevano cessato di essere meramente araldici senza diventare meramente scientifici. E poiché, in tutti gli studi su san Francesco, torniamo sempre a quel grande paragone che egli a un tempo negò con tutta la sua [[Humility|umiltà]] e desiderò con tutto il cuore, possiamo dire che essi non erano del tutto dissimili da quegli strani [[Birds|uccelli]] della leggenda che il Santo [[Child|Bambino]] plasmò con briciole d'argilla, e poi avviò alla vita e alla rapidità con un battito delle sue piccole mani.
+
+
+
+<span class="atom-split" data-atom="story_12_the_new_groove--part_01" data-title="Common Man — The New Groove (part 1)" data-chapter="The New Groove" data-kind="excerpt"></span>
+
+
+THE NEW GROOVE
+
+The Poet Tennyson, like a true Victorian, must have written
+a good many of his [[Poems|poems]] in the train; travelling by railroad being
+the chief invention and institution of his age.  Indeed he confesses
+to have written the poem of Lady Godiva while waiting for the train;
+and to judge by the careful construction of the [[Blank Verse|blank verse]] the train
+must have been very late.  But there are other Tennysonian lines which
+Tennyson would seem to have written while he was asleep in the train.
+They have that peculiar mixture of jumble and jingle familiar
+to those who go to [[Sleep|sleep]] in trains and only feel the metallic rhythm
+of the wheels mingling with the most shapeless and senseless [[Dreams|dreams]].
+It was at some such moment of profound slumber that Lord Tennyson
+composed the more progressive and prophetic portions of Locksley Hall;
+and this is clearly proved by the convincing, nay, damning, fact that
+one of the lines does really and truly run:
+
+Let the great world spin for ever down the ringing grooves of change.
+
+Psychologists will be interested in the curious displacement of words
+and disorder of ideas, which is characteristic of sentences invented
+in [[A Dream|a dream]].  To the ordinary waking intelligence the words would appear
+to have no meaning.  Grooves do not change; they do not necessarily ring;
+they do not even ring the changes.  But, just as a sleeper in a
+railway-carriage will murmur, in the shock of awakening, some sentence
+betraying a secret he would probably have concealed if awake;
+as that he is travelling first-class with a third-class ticket,
+or that the corpse of a creditor is concealed under the seat--
+so Tennyson, in this very extraordinary line of verse, did really
+betray the secret, and even the crime, of his own intellectual
+world and most of the world that has come after it.
+
+For what is the matter with most of what calls itself the modern
+mind is simply grooves; and our habit of being content in
+the grooves, because we are told that they are grooves of change.
+And it is, as I say, a revealing fact that even when the modern poet
+wishes to describe change, even when he wishes to glorify change,
+he does still instinctively describe it as a groove.
+This is a mark that has been left on very much of the modern world,
+ever since the beginning of the mechanical and industrial epoch.
+But it had its first and clearest form in this fixed conception
+of travelling by rail.  It may be specially noted that we speak
+of the modern mind being in a groove rather than in a rut.
+A rut was a term commonly used of a cart-track; in the simple times
+when we did not put the cart before the [[Horse|horse]].  When a living thing
+went before us there was something of [[Doubt|doubt]] or adventure or hesitation
+in the tracks it made for itself, even if they became grooves for others.
+There were strange curves in his course who hitched his wagon even
+to a [[Horse|horse]], and who had not yet given up horses for horsepower.
+There were sometimes very wild and fantastic tracks in his,
+who hitched his wagon to a star.  But, apart from all such figures
+or fancies, the essential peculiarity of the groove is that there can
+be nothing new about it except that it may take us to new places,
+or possibly take us past new places, at an entirely new rate of [[Speed|speed]].
+That is the essential of what I mean by the modern groovings;
+that its only form of progress is going quicker and quicker along
+one line in one direction.  It has not the curiosity to stop,
+nor the adventurous [[Courage|courage]] to go backwards.
+
+Let us take, for the sake of clarity, this familiar case of the
+railway-train. A [[history]] of the locomotive steam-engine has often
+been presented in all its stages of improvement; the evolution
+of the modern train from the first clumsy models of Puffing Billy.
+But the engine did not produce anything but faster and faster engines;
+and the vital point is that nobody ever expected that it would.
+Nobody, even in a flight of fancy, wondered whether it would develop
+in any other direction, except the direction of its own groove.
+For instance, nobody ever suggested that it might develop its own
+type of architecture, so that the building of cars or carriages
+should be like the building of temples or town-halls. Yet there
+might perfectly [[Well|well]] have been four or five schools of architecture
+for the designing of trains, as there are for the designing of temples.
+It would be a pleasing fancy if the architectural style of the train
+varied according to the country it was crossing or visiting.
+The Pennsylvania Railway Station in [[New York]] is a noble and serious
+piece of architecture; and it is really a sort of salute to
+the great [[City|city]] of Philadelphia towards which its gates are set.
+It might quite [[Well|well]] have fallen out that what was done for
+the station could be done for the steam-engine; and the very
+design and colour of the vehicle vary according to whether it
+was going to the old French cities or the Red Indian plains;
+to the snows of Alaska or the orange-groves of Florida.
+Indeed I think there would have been much poetic symbolism in a
+hundred forms, probably guarded by rituals and dedicated to gods
+or patron saints, if it had so happened that the steam-engine
+was discovered by ancient Greeks or medieval Christians,
+and not by the Philistines of the Victorian [[Time|time]].  But the point
+is here that nobody ever thought of such things; and certainly
+nobody thought of testing the progress of the train by such tests.
+There was only one test of the train and that was the test of the groove;
+of the smoothness of the groove; of the straightness of the groove;
+of the swiftness with which it travelled along the groove.
+There was something, in the tone of the whole thing, that prevented
+even mere fancy from breaking away in any other direction;
+or wondering, even vainly, if it could ever carry a [[Castle|castle]] like an
+elephant or a figurehead like a [[Ship|ship]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL NUOVO BINARIO
+
+Il poeta Tennyson, da buon vittoriano, dovette scrivere
+buona parte delle sue [[Poems|poesie]] in treno; giacché viaggiare in ferrovia
+era l'invenzione e l'istituzione capitale della sua epoca.  Anzi, confessa
+d'aver composto la poesia di Lady Godiva mentre attendeva il treno;
+e, a giudicare dalla cura con cui è costruito il [[Blank Verse|verso sciolto]], il treno
+doveva essere in grandissimo ritardo.  Ma vi sono altri versi tennysoniani
+che Tennyson sembra aver scritto mentre dormiva in treno.
+Hanno quella singolare mescolanza di confusione e tintinnìo familiare
+a chi va a [[Sleep|dormire]] in treno e non avverte se non il ritmo metallico
+delle ruote che si fonde con i più informi e insensati [[Dreams|sogni]].
+Fu in un simile momento di sonno profondo che Lord Tennyson
+compose le parti più progressive e profetiche di Locksley Hall;
+e ciò è chiaramente provato dal fatto convincente, anzi schiacciante, che
+uno dei versi recita davvero, letteralmente:
+
+Che il gran mondo per sempre ruoti giù pei binari sonanti del mutamento.
+
+Gli psicologi troveranno interessante il curioso spostamento delle parole
+e il disordine delle idee che caratterizzano le frasi coniate
+in [[A Dream|un sogno]].  All'intelligenza comune e desta le parole parrebbero
+prive di senso.  I binari non mutano; non necessariamente risuonano;
+non fanno neppure sonare le campane a distesa.  Ma, come chi dorme in un
+vagone ferroviario mormora, nell'urto del risveglio, qualche frase
+che tradisce un segreto che da sveglio avrebbe probabilmente celato;
+per esempio che viaggia in prima classe con un biglietto di terza,
+o che il cadavere di un creditore è nascosto sotto il sedile—
+così Tennyson, in questo straordinarissimo verso, tradì davvero
+il segreto, e persino il delitto, del proprio mondo
+intellettuale e di gran parte del mondo che è venuto dopo di lui.
+
+Poiché ciò che affligge quasi tutto quel che si fa chiamare mente
+moderna sono semplicemente i binari; e la nostra abitudine ad accontentarci
+dei binari, perché ci si dice che sono binari del mutamento.
+Ed è, come dico, un fatto rivelatore che perfino quando il poeta moderno
+vuole descrivere il mutamento, perfino quando vuole glorificare il mutamento,
+lo descriva pur sempre d'istinto come un binario.
+È un marchio impresso su gran parte del mondo moderno,
+fin dagli albori dell'epoca meccanica e industriale.
+Ma ebbe la sua prima e più netta forma in questa concezione fissa
+del viaggiare in ferrovia.  Si noti in particolare che diciamo
+che la mente moderna è incanalata in un binario piuttosto che in un solco.
+Il solco era un termine usato comunemente per la traccia d'un carro; ai tempi semplici
+in cui non mettevamo il carro davanti al [[Horse|cavallo]].  Quando davanti a noi
+andava una cosa vivente, c'era qualcosa di [[Doubt|incertezza]], d'avventura o d'esitazione
+nelle tracce che essa lasciava, anche se poi diventavano binari per altri.
+V'erano strane curve nel cammino di chi aggiogava il proprio carro anche
+a un [[Horse|cavallo]], e non aveva ancora barattato i cavalli per la cavalleria a vapore.
+V'erano talora tracce assai selvagge e fantastiche in quello di chi
+aggiogava il proprio carro a una stella.  Ma, a prescindere da tali figure
+o fantasie, la peculiarità essenziale del binario è che non vi può
+esser nulla di nuovo in esso, salvo che ci porti in luoghi nuovi,
+o magari ci faccia oltrepassare luoghi nuovi, a una [[Speed|velocità]] del tutto nuova.
+È questo l'essenziale di ciò che intendo per incanalamento moderno;
+che la sua unica forma di progresso è andare sempre più veloci lungo
+una sola linea in una sola direzione.  Non ha la curiosità di fermarsi,
+né il [[Courage|coraggio]] avventuroso di andare all'indietro.
+
+Prendiamo, per chiarezza, questo caso familiare del
+treno ferroviario. La [[history|storia]] della locomotiva a vapore è stata spesso
+presentata in tutte le sue fasi di perfezionamento; l'evoluzione
+del treno moderno dai primi rozzi modelli del Puffing Billy.
+Ma la macchina non produsse altro che macchine sempre più veloci;
+e il punto essenziale è che nessuno si aspettò mai che facesse altro.
+Nessuno, nemmeno in un volo di fantasia, si domandò se si sarebbe sviluppata
+in qualche altra direzione, all'infuori della direzione del proprio binario.
+Per esempio, nessuno suggerì mai che potesse sviluppare un proprio
+tipo di architettura, così che la costruzione delle carrozze
+fosse come la costruzione dei templi o dei municipi. Eppure ci sarebbero
+potute [[Well|benissimo]] essere quattro o cinque scuole d'architettura
+per il disegno dei treni, come ve ne sono per il disegno dei templi.
+Sarebbe una piacevole fantasia se lo stile architettonico del treno
+variasse secondo il paese che attraversa o visita.
+La Pennsylvania Railway Station a [[New York]] è un'opera d'architettura
+nobile e seria; ed è davvero una sorta di saluto alla
+grande [[City|città]] di Filadelfia, verso la quale sono rivolte le sue porte.
+Sarebbe potuto [[Well|benissimo]] accadere che ciò che fu fatto per
+la stazione si facesse per la locomotiva; e che il disegno stesso
+e il colore del veicolo variassero a seconda che esso andasse
+verso le vecchie città francesi o le pianure dei Pellirosse;
+verso le nevi dell'Alaska o gli aranceti della Florida.
+Anzi, credo che vi sarebbe stato molto simbolismo poetico in un
+centinaio di forme, probabilmente custodite da riti e dedicate a dèi
+o a santi patroni, se fosse accaduto che la locomotiva a vapore
+fosse stata scoperta dagli antichi Greci o dai cristiani medievali,
+e non dai Filistei del [[Time|tempo]] vittoriano.  Ma il punto
+è questo: che nessuno pensò mai a simili cose; e certamente
+nessuno pensò di saggiare il progresso del treno con simili prove.
+V'era una sola prova per il treno, ed era la prova del binario;
+della levigatezza del binario; della rettitudine del binario;
+della rapidità con cui esso correva lungo il binario.
+V'era qualcosa, nel tono dell'intera faccenda, che impediva
+perfino alla mera fantasia di svincolarsi in qualsiasi altra direzione;
+o di chiedersi, sia pure invano, se non avrebbe mai potuto portare un [[Castle|castello]] come un
+elefante o una polena come una [[Ship|nave]].
+
+
+
+<span class="atom-split" data-atom="story_12_the_new_groove--part_02" data-title="Common Man — The New Groove (part 2)" data-chapter="The New Groove" data-kind="excerpt"></span>
+
+
+Now, in spite of the wildest claims to independence,
+the intellectual life of today still strikes me as being
+mainly symbolised by the train or the track or the groove.
+There is any amount of fuss and vivacity about certain fixed fashions
+or directions of thought; just as there is any amount of rapidity
+along the fixed rails of the railway-track. But if we begin
+to think about really getting off the track, we shall find that.
+what is true of the train is equally true of the [[Truth|truth]].
+We shall find it is actually harder to get out of the groove,
+when the train is going fast, than when the train is going slowly.
+We shall find that rapidity is rigidity; that the very fact of some
+social or political or artistic movement going quicker and quicker
+means that fewer people have the [[Courage|courage]] to move against it.
+And at last perhaps nobody will make a leap for real intellectual liberty,
+just as nobody will jump out of a railway-train going at eighty
+miles an hour.  This seems to me the primary mark of what we
+call progressive thought in the modern world.  It is in the most
+exact sense of the term limited.  It is all in one dimension.
+It is all in one direction.  It is limited by its progress.
+It is limited by its [[Speed|speed]].
+
+I have said that it has not the curiosity to stop.  If the train-dwellers
+were really travellers, exploring a strange country to make discoveries,
+they would always be stopping at little wayside stations.
+For instance, they would always be stopping to consider the curious
+[[Nature|nature]] of their own conventional terms; a thing which they
+never do, by any chance.  Their catchwords are regarded solely
+as gadgets or appliances for getting them where they are going to;
+they never cast back a thought upon where the catchword comes from.
+Yet that is exactly what they would do if they were really thinking,
+in any thorough and all-round sense.  Of course it will be understood,
+touching these intellectual fashions, that great masses,
+probably the mass of mankind, never travel on the train at all.
+They remain in their villages and are much happier and better;
+but they are not regarded as the intellectual leaders of the [[Time|time]].
+What I complain of is that the intellectual leaders can only
+lead along one narrow track; otherwise known as "the ringing
+groove of change".  Take, in this matter of current phrases,
+the example of the controversy about advanced and futuristic art.
+I do not mean to consider the art but to consider the controversy;
+as illustrating what has been said about the advisability of stopping
+and the stupidity of the non-stop train.
+
+Now although, of course, the actual masses are quite unconverted
+to Picasso or Epstein, yet the terms of controversy, the only tags
+of argument known to the newspapers, the only familiar and almost
+popular sophistries outside mere popular abuse, are on the side
+of the new schools.  I mean that modern men are not familiar
+with the rational arguments for tradition; but they are familiar,
+and almost wearily familiar, with the rational arguments for change.
+Whichever side may be really right in the question of art
+(which obviously depends largely on the particular artists),
+the whole modern world is verbally prepared to regard the new
+[[Artist|artist]] as right and the old [[Artist|artist]] as wrong.  It is prepared
+to do so by the whole progressive [[philosophy]]; which is often
+rather a phraseology than a [[philosophy]].  The language which comes
+most readily to everyone's mind is the language of innovation;
+but it is a language that is rather exercised than examined.
+For instance, it is probable that more people are even now acquainted with
+the [[Poems|poems]] of Mr. W. B. Yeats than with the [[Poems|poems]] of Miss Edith Sitwell.
+But many, many more people understand what Miss Sitwell means, when she
+simply says that she is criticised in her day as Keats was criticised
+in his day, than could possibly understand what Mr. Yeats means,
+when he says that nothing quite new can be used in poetry;
+or that [[innocence]] is only born out of ceremony and custom.
+For the former argument is a familiar argument of all modern
+progressives and reformers; the latter sayings are very
+profound sayings of a man who really thinks for himself.
+I agree that in many other things, and especially in the best
+examples of her poetry, Miss Sitwell also can think for herself.
+I only say that this particular argument ("John the Baptist was
+laughed at and I am laughed at"; "Galileo was disbelieved and I
+am disbelieved")--this particular argument is part of the regular
+recognised bag of tricks of reformers and revolutionists;
+it is a part of the very old apparatus of the New Movement.
+Now if we apply this, for instance, to the quarrels about
+painting or sculpture we shall find the same situation:
+that, whichever side is right, the whole apparatus of modern
+talk favours the idea that the new thing is always right.
+There are a definite selection of phrases used, but not often examined.
+For instance, should any Philistine faintly protest against
+[[Helen]] of Troy being sculptured with a head of the exact shape
+of the Great Pyramid, or [[Titania]] with a figure following the grand
+simple lines of the hippopotamus at the zoo, or even perhaps his own
+favourite daughter presenting herself to the public in the appealing
+and even touching condition of having her nose and eyelids cut off--
+whenever such a criticism is heard, whether it be right or wrong,
+it will be answered with the precision of clockwork, by a phrase
+to the effect that some people want art to be "pretty-pretty". Now
+the first act of any independent mind will be to criticise this criticism;
+and especially to feel a curiosity about the curious form of it.
+Why does everybody say, "pretty-pretty"?  Why not say that some people
+do not like what is "ugly-ugly", or possibly what is "beastly-beastly"?
+What is the meaning of this weird repetition, like a recurring decimal?
+If you have the sort of independent curiosity that stops at
+wayside stations, if (in short) you are not merely in a hurry to get
+to the fashionable terminus, you may [[Well|well]] pause upon a phrase like that,
+not without profit.  You will perceive that the phrase is, in fact,
+a rather pathetic attempt to reproduce the wondering exclamation
+of a [[Child|child]].  And that would be [[Alone|alone]] enough to destroy the argument.
+For a [[Child|child]] has a very sound sense of [[Wonder|wonder]] at what is really wonderful;
+and by no means merely a vulgar and varnished taste in what is
+conventionally beautiful.  The thing that a genuine [[Child|child]] might
+call "pretty-pretty" is not the soapy portrait of a débutante
+or an upholstered group of a royal family; it is much more likely
+to be a flash of red [[Fire|fire]] or the strong colours of a great [[Garden|garden]]
+flower or something that really is elemental and essential;
+something in its way quite as "stark" (as our dear friends
+would say) as the Great Pyramid or the great pachyderm.
+Children are not snobs in art any more than in morals.  And if they
+often have also a pleasure in things that are really "pretty",
+in the sense of a graceful girl by Greuze or a cloud of pink blossom
+in [[spring]], it is simply because there is a perfectly legitimate
+place in art for what is pretty; and it is not in the least
+disposed of by jabbering the same word twice over and calling
+it "pretty-pretty". Anyhow, the more supercilious moderns make
+a bad blunder in imputing childishness in defence of some things
+that could only be defended as being in the higher sense childish.
+It was Cezanne himself who said, "I am trying to recover the direct
+vision of a [[Child|child]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, a dispetto delle più sfrenate pretese d'indipendenza,
+la vita intellettuale d'oggi mi appare tuttora
+simboleggiata soprattutto dal treno, dai binari, dal solco tracciato.
+V'è quanto si vuole di trambusto e vivacità intorno a certe fisse mode
+o direzioni del pensiero; proprio come v'è quanta si vuole di rapidità
+lungo le rotaie fisse della ferrovia. Ma se cominciamo
+a pensare di uscire davvero dai binari, scopriremo
+che ciò che vale per il treno vale ugualmente per la [[Truth|verità]].
+Scopriremo che è in realtà più difficile uscire dal binario
+quando il treno va veloce che quando il treno va piano.
+Scopriremo che la rapidità è rigidità; che il fatto stesso che un
+movimento sociale o politico o artistico vada sempre più veloce
+significa che sempre meno gente ha il [[Courage|coraggio]] di muoversi contro di esso.
+E alla fine forse nessuno spiccherà un balzo verso la vera libertà intellettuale,
+proprio come nessuno salta giù da un treno che corre a ottanta
+miglia all'ora.  Questo mi sembra il primo carattere di ciò che
+chiamiamo pensiero progressivo nel mondo moderno.  Esso è, nel senso
+più esatto del termine, limitato.  È tutto in una sola dimensione.
+È tutto in una sola direzione.  È limitato dal proprio progresso.
+È limitato dalla propria [[Speed|velocità]].
+
+Ho detto che non ha la curiosità di fermarsi.  Se gli abitanti del treno
+fossero veri viaggiatori, che esplorano un paese ignoto per fare scoperte,
+si fermerebbero sempre alle piccole stazioni lungo la via.
+Per esempio, si fermerebbero sempre a considerare la curiosa
+[[Nature|natura]] dei loro stessi termini convenzionali; cosa che
+non fanno mai, in nessun caso.  I loro slogan sono considerati unicamente
+come congegni o strumenti per portarli dove stanno andando;
+non gettano mai indietro un pensiero su donde venga lo slogan.
+Eppure è esattamente ciò che farebbero se pensassero davvero,
+in un senso pieno e a tutto tondo.  Naturalmente si comprenderà,
+quanto a queste mode intellettuali, che grandi masse,
+probabilmente la massa dell'umanità, non viaggiano affatto sul treno.
+Restano nei loro villaggi e sono assai più felici e migliori;
+ma non sono considerate le guide intellettuali del [[Time|tempo]].
+Ciò di cui mi lagno è che le guide intellettuali possono soltanto
+guidare lungo un unico stretto binario; altrimenti detto «il sonante
+binario del mutamento».  Prendiamo, in questa faccenda delle frasi correnti,
+l'esempio della controversia sull'arte avanzata e futurista.
+Non intendo considerare l'arte, ma considerare la controversia;
+come illustrazione di quanto s'è detto sull'opportunità di fermarsi
+e sulla stoltezza del treno che non si ferma mai.
+
+Ora, benché, s'intende, le masse reali non siano affatto convertite
+a Picasso o a Epstein, tuttavia i termini della controversia, gli unici cavilli
+d'argomentazione noti ai giornali, gli unici sofismi familiari e quasi
+popolari al di là del semplice insulto popolare, stanno dalla parte
+delle nuove scuole.  Voglio dire che gli uomini moderni non hanno familiarità
+con gli argomenti razionali in favore della tradizione; ma hanno familiarità,
+e una familiarità quasi stucchevole, con gli argomenti razionali in favore del mutamento.
+Da qualunque parte stia davvero la ragione nella questione dell'arte
+(che ovviamente dipende in gran parte dai singoli artisti),
+tutto il mondo moderno è verbalmente disposto a considerare il nuovo
+[[Artist|artista]] nel giusto e il vecchio [[Artist|artista]] nel torto.  Vi è disposto
+da tutta la [[philosophy|filosofia]] progressiva; che spesso
+è più una fraseologia che una [[philosophy|filosofia]].  Il linguaggio che si affaccia
+più prontamente alla mente di ognuno è il linguaggio dell'innovazione;
+ma è un linguaggio che si esercita più di quanto si esamini.
+Per esempio, è probabile che perfino ora più persone conoscano
+le [[Poems|poesie]] del signor W. B. Yeats che le [[Poems|poesie]] della signorina Edith Sitwell.
+Ma moltissime più persone capiscono ciò che intende la signorina Sitwell quando
+dice semplicemente d'essere criticata ai suoi giorni come Keats fu criticato
+ai suoi, di quante potrebbero mai capire ciò che intende il signor Yeats
+quando dice che nulla di veramente nuovo può essere usato in poesia;
+o che l'[[innocence|innocenza]] nasce soltanto dalla cerimonia e dall'usanza.
+Poiché il primo argomento è un argomento familiare a tutti i moderni
+progressisti e riformatori; le seconde affermazioni sono detti
+assai profondi di un uomo che pensa davvero con la propria testa.
+Convengo che in molte altre cose, e specialmente nei migliori
+esempi della sua poesia, anche la signorina Sitwell sa pensare con la propria testa.
+Dico soltanto che questo particolare argomento («Giovanni Battista fu
+deriso, e io sono derisa»; «Galileo non fu creduto, e io
+non sono creduta»)—questo particolare argomento fa parte del regolare
+e riconosciuto repertorio di trucchi dei riformatori e dei rivoluzionari;
+è parte del vecchissimo armamentario del Nuovo Movimento.
+Ora, se applichiamo tutto ciò, per esempio, alle dispute intorno
+alla pittura o alla scultura, troveremo la stessa situazione:
+che, da qualunque parte stia la ragione, tutto l'apparato del discorso
+moderno favorisce l'idea che la cosa nuova abbia sempre ragione.
+Vi è una precisa selezione di frasi usate, ma di rado esaminate.
+Per esempio, se qualche Filisteo osasse debolmente protestare contro
+[[Helen]] di Troia scolpita con una testa della forma esatta
+della Grande Piramide, o [[Titania]] con una figura che segue le grandi
+linee semplici dell'ippopotamo allo zoo, o magari contro la propria
+figlia prediletta che si presenta al pubblico nella condizione appellante
+e perfino toccante d'avere il naso e le palpebre tagliati via—
+ogni volta che si ode una simile critica, che sia giusta o sbagliata,
+le si risponderà con la precisione di un orologio, con una frase
+del tenore che certa gente vuole che l'arte sia «graziosa-graziosa». Ora
+il primo atto di ogni mente indipendente sarà criticare questa critica;
+e specialmente provare curiosità per la sua curiosa forma.
+Perché tutti dicono «graziosa-graziosa»?  Perché non dire che certa gente
+non ama ciò che è «brutto-brutto», o magari ciò che è «bestiale-bestiale»?
+Qual è il senso di questa bizzarra ripetizione, come un decimale periodico?
+Se avete quella sorta di curiosità indipendente che si ferma alle
+stazioncine lungo la via, se (insomma) non avete fretta di arrivare
+al capolinea alla moda, potete [[Well|ben]] soffermarvi su una frase simile,
+non senza profitto.  Vi accorgerete che la frase è, in realtà,
+un tentativo piuttosto patetico di riprodurre l'esclamazione meravigliata
+di un [[Child|bambino]].  E ciò basterebbe da [[Alone|solo]] a distruggere l'argomento.
+Poiché un [[Child|bambino]] ha un ben saldo senso di [[Wonder|meraviglia]] per ciò che è davvero meraviglioso;
+e per nulla un gusto volgare e verniciato per ciò che è
+convenzionalmente bello.  La cosa che un vero [[Child|bambino]] potrebbe
+chiamare «graziosa-graziosa» non è il ritratto sdolcinato di una debuttante
+o un imbottito gruppo di famiglia reale; è assai più probabile
+che sia un guizzo di [[Fire|fuoco]] rosso o i colori intensi di un grande fiore
+di [[Garden|giardino]] o qualcosa che è davvero elementare ed essenziale;
+qualcosa a suo modo altrettanto «crudo» (come direbbero i nostri cari
+amici) quanto la Grande Piramide o il grande pachiderma.
+I bambini non sono snob in arte più di quanto lo siano in morale.  E se
+spesso provano piacere anche per le cose che sono davvero «graziose»,
+nel senso di una fanciulla aggraziata del Greuze o di una nuvola di fiori rosa
+in [[spring|primavera]], è semplicemente perché vi è un posto perfettamente legittimo
+nell'arte per ciò che è grazioso; e non lo si liquida affatto
+biascicando due volte la stessa parola e chiamandolo
+«grazioso-grazioso». Comunque sia, i moderni più altezzosi commettono
+un grave abbaglio nell'imputare puerilità a difesa di certe cose
+che potrebbero essere difese solo in quanto puerili nel senso più alto.
+Fu Cézanne stesso a dire: «Cerco di ritrovare la visione diretta
+di un [[Child|bambino]]».
+
+
+
+<span class="atom-split" data-atom="story_12_the_new_groove--part_03" data-title="Common Man — The New Groove (part 3)" data-chapter="The New Groove" data-kind="excerpt"></span>
+
+
+It is the same with all the cant phrases already in circulation,
+for the purpose of defending any eccentricity, even before it exists.
+Thus everybody is familiar with the phrase that art is
+not photography, and that only photography is required
+to be realistic.  Everybody is familiar with the phrase,
+and nobody is familiar with the holes or errors in the phrase.
+As a matter of fact nothing is less realistic than photography.
+At the very start it is cut away from all reality exactly as marble
+sculpture is cut away from reality, by being conventionally colourless;
+by divorcing the great optical [[Union|union]] of colour and form.
+But it is not really realistic even about form.  The thing it
+does reproduce more or less realistically is light and shade,
+and the light often falsifies the form and always falsifies the colour.
+If we want true form it must be drawn for us more or less
+abstractedly by a draughtsman; and when it is so drawn by Leonardo
+or Michelangelo, it cannot be dismissed as photographic, any more
+than as "pretty-pretty". The modern [[Artist|artist]] may have his own reasons
+for drawing legs as if they were bolsters or sausages; but that does
+not make the strong sweeping lines, of sloping bone or gripping muscle,
+in a great Florentine drawing, a dull mechanical reproduction,
+valuable only as the vulgar snapshot of a trivial fact.
+Those lines are strong and beautiful, as the lines of waterfall and
+whirlpool are beautiful.  In fact, they are exactly like the beautiful
+abstract forms, which the modern [[Artist|artist]] would like to invent--
+if he could.
+
+I have taken only this one type, of the talk about new schools of art,
+to illustrate what I mean by saying that the world is in such
+a hurry to be new that it does not even pause upon the truths
+of the new school, let [[Alone|alone]] of the old.  Of the million men
+and women who have heard those two phrases, how many have heard
+any phrases out of the opposite phraseology and [[philosophy]]?
+I mean any which offer a philosophical defence of the other [[philosophy]]?
+Of all those who have been told (somewhat needlessly)
+that Epstein does not profess to be pretty, how many have heard
+that case for civilisation, in which its very strength is shown
+in being able to rear and poise and protect prettiness?
+The very cyclopean massiveness of the foundations of the [[City|city]]
+is best proved in the fact that no earthquake can shake the ivory
+statuette upon the pedestal or the china shepherdess upon the shelf.
+How many have considered the more ancient argument, of a culture that
+is sufficiently athletic to be elegant?  Or, to take another example,
+how many have understood the scientific and psychological arguments
+for antiquity itself?  Of all those who can recall being told
+to admire a modern picture, merely because it is even more unlike
+life than a photograph, or being told to admire modern poetry,
+for no reason whatever except that it is more prosaic than slang--
+of all those, how many even remember the sound remark made long ago
+by [[Oliver]] Wendell Holmes; that the grand Latin poets actually grow
+grander by being quoted again and again; that the words actually
+grow together with [[Time|time]], as do the sections of a seasoned violin?
+I am not saying that the [[Truth|truth]] is all on the side of tradition;
+I am only saying that the publicity is all on the side of innovation.
+Until the recent rise of the Humanist group in [[America]],
+hardly anybody, even of the educated classes, possessed even
+the vocabulary for a defence of tradition.  The very words in use,
+the very structure of the sentences, the ordinary tone of the whole
+public Press, prevented me from using the real and reasonable
+arguments against mere novelty.  England, strangely enough,
+has even less of a working Humanist vocabulary than [[America]].
+Here also working journalistic ethics have been too much cut
+down and simplified to a few crude ideas, of commercial activity
+or continuous [[Reform|reform]].  I shall be completely misunderstood if I am
+supposed to be calling for a return ticket to Athens or to Eden;
+because I do not want to go on by the cheap train to Utopia.
+I want to go where I like.  I want to stop where I like.
+I want to know the width as [[Well|well]] as the length of the world;
+and to wander off the railway-track in the ancient plains of liberty.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo stesso vale per tutte le frasi fatte già in circolazione,
+allo scopo di difendere qualsiasi stravaganza, anche prima che esista.
+Così tutti hanno familiarità con la frase che l'arte
+non è fotografia, e che solo alla fotografia si richiede
+d'essere realistica.  Tutti hanno familiarità con la frase,
+e nessuno ha familiarità con le falle o gli errori della frase.
+In verità nulla è meno realistico della fotografia.
+Fin dall'inizio essa è tagliata via da ogni realtà esattamente come la scultura
+di marmo è tagliata via dalla realtà, per il fatto d'essere convenzionalmente incolore;
+per il divorzio della grande [[Union|unione]] ottica di colore e forma.
+Ma non è davvero realistica nemmeno riguardo alla forma.  Ciò che essa
+riproduce più o meno realisticamente sono la luce e l'ombra,
+e la luce spesso falsa la forma e sempre falsa il colore.
+Se vogliamo la vera forma, essa dev'essere disegnata per noi più o meno
+astrattamente da un disegnatore; e quando è così disegnata da Leonardo
+o Michelangelo, non la si può liquidare come fotografica, non più
+che come «graziosa-graziosa». Il moderno [[Artist|artista]] potrà avere le sue ragioni
+per disegnare gambe come fossero cuscini o salsicce; ma ciò non
+fa delle robuste linee spazzanti, dell'osso in pendio o del muscolo che si tende,
+in un grande disegno fiorentino, una piatta riproduzione meccanica,
+di valore solo come la volgare istantanea di un fatto banale.
+Quelle linee sono forti e belle, come sono belle le linee della cascata e
+del gorgo.  Anzi, sono esattamente come le belle
+forme astratte che il moderno [[Artist|artista]] vorrebbe inventare—
+se potesse.
+
+Ho preso soltanto questo unico tipo, il discorso sulle nuove scuole d'arte,
+per illustrare ciò che intendo dicendo che il mondo ha tanta
+fretta d'esser nuovo da non soffermarsi nemmeno sulle verità
+della nuova scuola, [[Alone|non che]] su quelle della vecchia.  Del milione di uomini
+e donne che hanno udito quelle due frasi, quanti hanno udito
+qualche frase della fraseologia e [[philosophy|filosofia]] opposta?
+Voglio dire, qualcuna che offra una difesa filosofica dell'altra [[philosophy|filosofia]]?
+Di tutti coloro cui è stato detto (in modo alquanto superfluo)
+che Epstein non pretende d'esser grazioso, quanti hanno udito
+quella difesa della civiltà, in cui la sua forza stessa si mostra
+nell'essere capace di allevare, librare e proteggere la grazia?
+La ciclopica massiccità stessa delle fondamenta della [[City|città]]
+è provata al meglio dal fatto che nessun terremoto può scuotere la statuetta
+d'avorio sul piedistallo o la pastorella di porcellana sulla mensola.
+Quanti hanno considerato l'argomento più antico, di una cultura che
+è sufficientemente atletica da poter essere elegante?  O, per prendere un altro esempio,
+quanti hanno compreso gli argomenti scientifici e psicologici
+in favore dell'antichità stessa?  Di tutti coloro che rammentano d'essersi sentiti dire
+d'ammirare un quadro moderno, semplicemente perché è ancora più dissimile
+dalla vita di quanto lo sia una fotografia, o di essersi sentiti dire d'ammirare la poesia moderna,
+per nessun'altra ragione se non che è più prosaica dello slang—
+di tutti costoro, quanti ricordano anche solo la giusta osservazione fatta tempo fa
+da [[Oliver]] Wendell Holmes; che i grandi poeti latini in realtà crescono
+più grandi a forza d'esser citati di continuo; che le parole in realtà
+crescono unite insieme col [[Time|tempo]], come fanno le parti di un violino stagionato?
+Non dico che la [[Truth|verità]] stia tutta dalla parte della tradizione;
+dico soltanto che la pubblicità sta tutta dalla parte dell'innovazione.
+Fino alla recente ascesa del gruppo umanista in [[America]],
+quasi nessuno, nemmeno delle classi colte, possedeva anche solo
+il vocabolario per una difesa della tradizione.  Le parole stesse in uso,
+la struttura stessa delle frasi, il tono ordinario di tutta la
+stampa pubblica, m'impedivano di usare gli argomenti reali e ragionevoli
+contro la mera novità.  L'Inghilterra, per quanto strano,
+possiede un vocabolario umanista operante ancor minore dell'[[America]].
+Anche qui l'etica giornalistica operante è stata troppo sfrondata
+e semplificata in poche idee grezze, di attività commerciale
+o di continua [[Reform|riforma]].  Sarò completamente frainteso se mi
+si suppone in cerca di un biglietto di ritorno per Atene o per l'Eden;
+perché non voglio proseguire sul treno a basso costo verso l'Utopia.
+Voglio andare dove mi piace.  Voglio fermarmi dove mi piace.
+Voglio conoscere la larghezza [[Well|non meno]] che la lunghezza del mondo;
+e vagabondare fuori dai binari nelle antiche pianure della libertà.
 
 
 
@@ -9264,6 +11918,366 @@ L'accusa di scortesia è assai più fondata; ma anche a questo proposito un'impr
 Come Catone dava leggi al suo piccolo Senato, e sedeva attento al proprio applauso.
 
 Ma Johnson era tutt'altro che attento a chi lo applaudiva. Johnson era furiosamente sordo a chi lo contraddiceva. Ben lungi dall'essere un [[King|re]] maestoso e condiscendente come Attico, Johnson era una sorta di deputato irlandese nel suo stesso Parlamento. Tutti questi non sono che esempi frammentari e occasionali; ogni cosa in quell'uomo risuonava di realtà e d'[[Honour|onore]]; non si credette mai nel giusto senza essere pronto a dar battaglia; non si credette mai in torto senza essere pronto a chiedere perdono. Ne abbiamo udito abbastanza, tutti quanti, da riempire un libro sulle scortesie del Dr. Johnson. Vorrei che ne compilassero un altro, fatto delle scuse del Dr. Johnson. Non v'è prova migliore della cavalleria e dell'integrità ultima di un uomo del modo in cui si comporta quando ha torto; e Johnson si comportò molto [[Well|bene]]. Egli comprendeva (ciò che tante persone irreprensibilmente cortesi non comprendono) che una scusa rigida è un secondo insulto. Comprendeva che la parte offesa non desidera essere risarcita perché ha subìto un torto; desidera essere guarita perché è stata ferita. Boswell una volta si lamentò con lui in privato, spiegando che non gli dispiacevano le asprezze quando erano [[Alone|soli]], ma non gradiva essere fatto a pezzi in compagnia. Aggiunse qualche oziosa figura retorica, una similitudine così banale che non riesco nemmeno a ricordare quale fosse. «Signore», disse Johnson, «questa è una delle similitudini più felici che io abbia mai udito.» Non perse [[Time|tempo]] a ritrattare formalmente questa parola con riserve e quell'altra con spiegazioni. Accortosi di aver dato [[Pain|dolore]], si diede pena per dare piacere. Se non aveva saputo che cosa avrebbe irritato Boswell, sapeva almeno che cosa l'avrebbe rasserenato. È questo gigantesco realismo nella bontà di Johnson, la schiettezza del suo sentimentalismo, quando è commosso, a dargli presa su generazioni di uomini vivi. Non v'è nulla di elaborato nella sua etica; vuol sapere se un uomo, di fatto, è felice o infelice, se mente o dice la [[Truth|verità]]. Può sembrare che egli martelli il cervello per lunghe notti di frastuono e tuono, ma sa entrare nel cuore senza bussare.
+
+
+
+<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_01" data-title="Common Man — Rabelaisian Regrets (part 1)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
+
+
+RABELAISIAN REGRETS
+
+There has arisen in our [[Time|time]] an extraordinary notion that there is
+something humane, open-hearted or generous about refusing to define
+one's creed.  Obviously the very opposite is the [[Truth|truth]].  Refusing to
+define a creed is not only not generous, it is distinctly mean.
+It fails in frankness and fraternity towards the enemy.
+It is fighting without a [[Flag|flag]] or a declaration of war.
+It denies to the enemy the decent concessions of battle;
+the right to know the policy and to treat with the headquarters.
+Modern "broad-mindedness" has a quality that can only be called sneakish;
+it endeavours to win without giving itself away, even after it has won.
+It desires to be victorious without betraying even the name
+of the victor.  For all sane men have intellectual doctrines
+and fighting theories; and if they will not put them on the table,
+it can only be because they wish to have the advantage of a fighting
+theory which cannot be fought.
+
+In the things of conviction there is only one other thing besides
+a dogma, and that is a prejudice.  If there is something in your
+life for which you will hold meetings and agitate and write letters
+to the newspaper, but for which you will not find the plain
+terms of a creed, then that thing is properly to be described
+as a prejudice, however new or noble or advanced it may seem to be.
+But indeed I think that when these ages are seen in proper perspective,
+men will say that the chief mark of the end of the nineteenth
+century and the beginning of the twentieth was the growth of vast
+and victorious prejudices.  I give, in passing, some instances
+of what I mean.  Thus, for instance, it is a brave and logical
+creed which declares, like Mahomet and some modern Puritans,
+that the drinking of fermented liquor is really wrong.
+But the modern world has not adopted this clear creed and never will.
+What it has done has been to spread everywhere a strong but vague
+prejudice against certain forms of drinking, particularly those
+adopted by the poor.  We have not made it wicked to drink ale,
+but we have made it slightly disreputable to go into a public-[[house]].
+In other words, we have made it slightly disreputable, if you
+drink ale, to be poor or to be sociable.  What it comes to is this:
+that any one wishing to sneer at me can get a laugh by saying I am
+a beer-drinker, but he will not commit himself to the statement
+that the thing that he has sneered at is wrong.  He may hit me,
+because he is appealing to a prejudice; but I may not hit him
+because he is not appealing to a creed.  He will not set anything
+up for me to hit.  He wants, somehow or other, to avoid calling
+liquor wrong and yet to call me wrong for touching liquor.
+This is not latitudinarianism; it is ordinary human cowardice.
+
+There are a great many other instances which could be given.
+For instance, fashionable opinion does not actually declare
+(as do, I believe, certain Eastern religions) that ablutions and
+bodily cleanliness are primary things, above even ordinary morals;
+but it does create a loose popular impression that it has scored
+off a personality or a nation more by saying that it is dirty
+than by saying that it is avaricious or timid or unchaste.
+No new creed is preached about cleanliness, but a strong
+sentimental emphasis and partiality is attached to the thing,
+making it more important than other things.  Of course cleanliness
+is only made so very important at present because it happens to be
+a thing quite easy for the rich and very difficult for the poor.
+My only concern here, however, is to point out the method by which it
+has been made important; never by explaining or defining its importance,
+as in a creed; always by assuming its importance, as in a prejudice.
+I have no space to go at length into other examples, but the reader can
+easily put the cases to himself; and he can employ this general test:
+that in the case of half the most typical movements of the last
+thirty years, nobody can say how or when they really began.
+In no barbaric twilight or tangled forest or confusion of the dark ages
+did huge forces ever come so silently or secretly into the world as they
+come to-day. No one knows or can name the real beginning of Imperialism
+or of the popularity of the Royal Family (a thing quite recent yet
+quite untraceable), or of the taking for granted, in so many minds,
+of the materialist [[philosophy]] or of the practical imposition of
+teetotalism as a discipline on the Nonconformist public ministry.
+These things come out of the [[Night|night]] and are formless even when they
+are forming everything else.
+
+But discussions on the subject of the Censor and other theatrical problems
+have brought before the public a supreme instance of what I mean.
+We have been asked for the hundredth [[Time|time]] to find some solution of
+that problem of the combination in art of [[Truth|truth]] with sexual modesty;
+and the result of considering this has been that we find ourselves
+face to face with a profound and most important change in public
+opinion on this subject; a change that has been going on,
+perhaps, for the last twenty years, perhaps ever since the coming
+of the Puritans; but a change which is, at any rate, of the utmost
+import to the wholesomeness of ethics, and a change which has
+proceeded in the same powerful [[Silence|silence]] as the growth of a tree.
+It is this difference between new English and old English ethics
+in the matter of verbal delicacy of which I wish to speak here.
+The subject is difficult, it is even emotional and painful;
+and I think it will do no harm to begin with some of the general
+human principles of the problem, even if they are as old and obvious
+as the alphabet.
+
+There is not really much difference of opinion among normal men
+about the first principles of decency in expression.  All healthy men,
+ancient and modern, Western and Eastern, hold that there is in sex
+a fury that we cannot afford to inflame; and that a certain mystery
+must attach to the instinct if it is to continue delicate and sane.
+There are people, indeed, who maintain that they would talk
+of this topic as coldly or openly as of any other; there are
+people who maintain that they would walk naked down the street.
+But these people are not only insane people, they are in the most emphatic
+sense of the word stupid people.  They do not think; they only point
+(as children do) and say "Why?"  Even children only do it when they
+are tired; but exactly this tired quality is most of what passes
+in our [[Time|time]] not only for thought but for bold and disturbing thought.
+To ask, "Why cannot we discuss sex coolly and rationally anywhere?"
+is a tired and unintelligent question.  It is like asking, "Why does
+not a man walk on his hands as [[Well|well]] as on his feet?"  It is silly.
+If a man walked systematically on his hands, they would not be hands,
+but feet.  And if [[Love|love]] or lust were things that we could all discuss
+without any possible emotion they would not be [[Love|love]] or lust, they would
+be something else--some mechanical function or abstract natural duty
+which may or may not exist in [[Animals|animals]] or in angels, but which has
+nothing at all to do with the [[Sexuality|sexuality]] we are talking about.
+All the ideas of grasp or gesture, which to us make up the meaning
+of the word "hand", depend upon the fact that hands are loose
+extremities used not for walking on but for waving about.
+And all that we mean when we speak of "sex" is involved in the fact
+that it is not an unconscious or [[Innocent|innocent]] thing, but a special
+and violent emotional stimulation at once spiritual and physical.
+A man who asks us to have no emotion in sex is asking us to have
+no emotion in emotion.  He has forgotten the subject-matter
+with which he deals.  He has lost the topic of the conversation.
+It may be said of him, in the strict meaning of the words,
+that he does not know what he is talking about.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+RIMPIANTI RABELAISIANI
+
+È sorta ai nostri [[Time|giorni]] una singolare convinzione: che vi sia qualcosa di umano, di aperto o di generoso nel rifiutarsi di definire il proprio credo. Ovviamente è vero l'esatto contrario, ed è questa la [[Truth|verità]]. Rifiutarsi di definire un credo non solo non è generoso, ma è addirittura meschino. Manca di franchezza e di fraternità verso il nemico. È combattere senza [[Flag|bandiera]] e senza dichiarazione di guerra. Nega al nemico le decorose concessioni della battaglia: il diritto di conoscere la strategia e di trattare col quartier generale. La moderna «larghezza di vedute» possiede una qualità che non si può definire se non subdola: si ingegna di vincere senza scoprirsi, e questo persino dopo aver vinto. Aspira a essere vittoriosa senza tradire nemmeno il nome del vincitore. Poiché tutti gli uomini sani di mente hanno dottrine intellettuali e teorie combattive; e se non le vogliono mettere in tavola, è solo perché desiderano godersi il vantaggio di una teoria combattiva che non si può combattere.
+
+Nelle cose della convinzione non esiste che un'altra cosa oltre al dogma, ed è il pregiudizio. Se c'è qualcosa nella vostra vita per cui volete tenere assemblee, agitarvi e scrivere lettere ai giornali, ma per cui non riuscite a trovare i termini chiari di un credo, allora quella cosa va propriamente definita un pregiudizio, per quanto nuova, nobile o progressista possa sembrare. Ma anzi io penso che, quando queste epoche saranno viste nella loro giusta prospettiva, gli uomini diranno che il segno distintivo della fine del secolo diciannovesimo e dell'inizio del ventesimo fu il proliferare di vasti e vittoriosi pregiudizi. Ne offro di passaggio qualche esempio, per farmi intendere. Così, per esempio, è un credo coraggioso e logico quello che dichiara, come Maometto e certi puritani moderni, che bere liquori fermentati sia realmente un male. Ma il mondo moderno non ha adottato questo credo limpido, e non lo adotterà mai. Ciò che ha fatto è stato diffondere ovunque un pregiudizio forte ma vago contro certe forme del bere, in particolare quelle proprie dei poveri. Non abbiamo reso peccaminoso il bere birra, ma abbiamo reso lievemente disdicevole l'entrare in un'[[house|osteria]]. In altre parole, abbiamo reso lievemente disdicevole, se bevi birra, l'essere povero o l'essere socievole. Ciò a cui si riduce è questo: che chiunque voglia beffarsi di me può strappare una risata dicendo che sono un bevitore di birra, ma non si comprometterà con l'affermazione che la cosa di cui si è fatto beffe sia un male. Egli può colpirmi, perché fa appello a un pregiudizio; ma io non posso colpirlo, perché non fa appello a un credo. Non mi metterà davanti nulla da colpire. Vuole, in un modo o nell'altro, evitare di chiamare il liquore un male e insieme chiamare me un colpevole per averlo toccato. Questo non è latitudinarismo; è ordinaria vigliaccheria umana.
+
+Vi sono moltissimi altri esempi che si potrebbero addurre. Per esempio, l'opinione alla moda non dichiara esplicitamente (come fanno, credo, certe religioni orientali) che le abluzioni e la pulizia del corpo siano cose primarie, superiori persino alla morale ordinaria; ma crea l'impressione diffusa e vaga di aver segnato un punto contro una persona o una nazione più dicendola sporca che dicendola avara, timida o impudica. Nessun credo nuovo viene predicato riguardo alla pulizia, ma alla cosa si annette una forte enfasi sentimentale e una parzialità, che la rende più importante di altre cose. Naturalmente la pulizia è resa oggi così importante solo perché si dà il caso che sia una cosa assai facile per i ricchi e assai difficile per i poveri. La mia sola preoccupazione, qui, è però quella di indicare il metodo con cui essa è stata resa importante: mai spiegandone o definendone l'importanza, come in un credo; sempre presupponendone l'importanza, come in un pregiudizio. Non ho spazio per addentrarmi in altri esempi, ma il lettore può facilmente porsi da sé i casi; e può servirsi di questo criterio generale: che per metà dei movimenti più tipici degli ultimi trent'anni nessuno sa dire come o quando siano realmente cominciati. In nessun crepuscolo barbarico, in nessuna foresta intricata, in nessuna confusione dei secoli bui forze immense fecero mai il loro ingresso nel mondo così silenziosamente e segretamente come oggi. Nessuno conosce o sa nominare il vero inizio dell'Imperialismo, o della popolarità della Famiglia Reale (cosa affatto recente eppure affatto irrintracciabile), o del dare per scontata, in tante menti, la [[philosophy|filosofia]] materialista, o dell'imposizione pratica dell'astinenza alcolica come disciplina al ministero pubblico dei nonconformisti. Queste cose emergono dalla [[Night|notte]] e sono informi persino quando danno forma a tutto il resto.
+
+Ma le discussioni sul tema della Censura e altri problemi teatrali hanno posto davanti al pubblico un esempio supremo di ciò che intendo. Ci è stato chiesto per la centesima [[Time|volta]] di trovare qualche soluzione a quel problema della combinazione, nell'arte, della [[Truth|verità]] con il pudore sessuale; e il risultato del rifletterci è stato che ci troviamo faccia a faccia con un profondo e importantissimo mutamento dell'opinione pubblica su questo tema; un mutamento che è in corso, forse, da vent'anni, forse dall'avvento dei puritani; ma un mutamento che è, in ogni caso, della massima importanza per la salubrità dell'etica, e un mutamento che è proceduto nel medesimo potente [[Silence|silenzio]] della crescita di un albero. È di questa differenza tra la nuova etica inglese e la vecchia etica inglese, in materia di delicatezza verbale, che desidero parlare qui. Il tema è difficile, è persino emotivo e doloroso; e penso che non farà male cominciare con alcuni dei principi umani generali del problema, anche se sono vecchi e ovvi come l'alfabeto.
+
+Non c'è in realtà molta differenza di opinione, tra gli uomini normali, sui primi principi della decenza nell'espressione. Tutti gli uomini sani, antichi e moderni, occidentali e orientali, ritengono che nel sesso vi sia una furia che non possiamo permetterci di infiammare; e che un certo mistero debba avvolgere l'istinto, se vuole rimanere delicato e sano. Vi sono, in verità, persone che sostengono che parlerebbero di questo argomento con la stessa freddezza e franchezza con cui parlerebbero di qualsiasi altro; vi sono persone che sostengono che camminerebbero nude per la strada. Ma queste persone non sono soltanto folli, sono, nel senso più enfatico del termine, stupide. Non pensano; si limitano a indicare (come fanno i bambini) e a dire «Perché?». Anche i bambini lo fanno solo quando sono stanchi; ma è esattamente questa qualità stanca ciò che ai nostri [[Time|giorni]] passa non solo per pensiero, ma per pensiero audace e sconvolgente. Chiedere: «Perché non possiamo discutere del sesso in modo freddo e razionale, dovunque?» è una domanda stanca e priva d'intelligenza. È come chiedere: «Perché un uomo non cammina sulle mani così [[Well|bene]] come sui piedi?». È sciocco. Se un uomo camminasse sistematicamente sulle mani, quelle non sarebbero più mani, ma piedi. E se l'[[Love|amore]] o la libidine fossero cose di cui tutti potessimo discutere senza alcuna possibile emozione, non sarebbero più [[Love|amore]] o libidine, sarebbero qualcos'altro: qualche funzione meccanica o astratto dovere naturale che può esistere o meno negli [[Animals|animali]] o negli angeli, ma che non ha assolutamente nulla a che vedere con la [[Sexuality|sessualità]] di cui stiamo parlando. Tutte le idee di presa o di gesto, che per noi costituiscono il significato della parola «mano», dipendono dal fatto che le mani sono estremità libere, usate non per camminarvi sopra ma per agitarle nell'aria. E tutto ciò che intendiamo quando parliamo di «sesso» è implicato nel fatto che non è una cosa inconscia o [[Innocent|innocente]], ma una speciale e violenta stimolazione emotiva a un tempo spirituale e fisica. Un uomo che ci chiede di non avere emozione nel sesso ci chiede di non avere emozione nell'emozione. Ha dimenticato la materia di cui tratta. Ha perduto l'argomento della conversazione. Si può dire di lui, nel senso stretto delle parole, che non sa di che cosa stia parlando.
+
+
+
+<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_02" data-title="Common Man — Rabelaisian Regrets (part 2)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
+
+
+And if men have never doubted that there should be a decorum
+in such things, neither have they ever doubted that that decorum
+might be carried much too far; that [[Courage|courage]] and laughter
+and wholesome [[Truth|truth]] might be sacrificed to the proprieties.
+So far, I say, humanity is essentially unanimous.  It is in the
+discussion as to which thing shall be suppressed and which permitted,
+in the selection of the more harmless from the more harmful
+types of candour, that we begin to find the difference between
+different civilisations and different religions among men.
+And it is exactly upon the point of such a difference as this
+that I wish to speak here.  Among other societies and ages
+our own society and age has made a choice in this matter.
+We have said, substantially by a general feeling, that one kind
+of expression shall be allowed and another rendered impossible.
+We have chosen, and I think we have chosen wrong.
+
+Before going deeper into this most difficult subject there is
+at least one general statement to be made.  The evil of excess
+in this matter really consists of three quite separate evils.
+Verbal impropriety or excess can [[spring]] from three quite
+different motives, three quite different states of mind,
+which have really very little to do with each other.
+It is necessary to unpick these three strands before we go any further.
+Ordinary popular discussion of the problem always hopelessly mixes
+them up.  Briefly, they may be stated thus:  impropriety arises
+either from a really vicious spirit, or from the [[Love|love]] of emphasis,
+or from the [[Love|love]] of analysis.
+
+The first can be dismissed with brevity and with relief.  There is such
+a thing as pornography; as a system of deliberate erotic stimulants.
+That is not a thing to be argued about with one's intellect,
+but to be stamped on with one's heel.  But the point about it
+to be noted for our purpose is that this form of excess is separated
+from the other two by the fact that the motive of it must be bad.
+If a man tries to excite a sex instinct which is too strong already,
+and that in its meanest form, he must be a scoundrel.
+He is either taking money to degrade his kind or else he is acting
+on that mystical itch of the evil man to make others evil,
+which is the strangest secret in hell.
+
+But when we come to the two motives of emphasis and of analysis,
+it is essential to observe that in both cases the motive
+may be beautiful, even when the result is most disastrous.
+The motive for impropriety arising out of emphasis can be best
+illustrated by a comparison with the habit of swearing.
+Swearing is, of course, the strongest possible argument for
+the religious view of life.  A man cannot satisfactorily affirm
+anything about this world except by getting out of this world.
+The things commonly called fables are so true that they [[Alone|alone]] can
+give final ratification even to the things commonly called facts.
+A man in Balham cannot even call his dog a good dog without
+summoning to his aid either the angels or the devils.
+The Balhamite, like the Roman, if he cannot bend the gods will
+move Acheron; but he never thinks of trying to move Balham.
+Religion is his only resort for purposes of real emphasis;
+and often, even when he is attacking religion, his instinctive
+way of attacking it is to say that it is a damned lie.
+The most natural way of talking is the [[Supernatural|supernatural]] way of talking.
+And indeed this may be considered a good working test for all
+modern fads and philosophies which pretend to be religions.
+The new faiths founded on evolution or an impersonal ethic are
+always claiming, that they also can produce holiness; and no Christian
+has any right in Christian [[Charity|charity]] to deny that possibility.
+But if the question really is whether the things in question are
+religions in the sense that [[Christianity]] or Mohammedanism are religions,
+then I should suggest a different test.  I should not ask whether
+they can produce holiness, but whether they can produce profanity.
+Can any one swear by ethics?  Can any one blaspheme evolution?
+Many men now hold that a mere adoration of abstract [[morality]] or goodness
+is the core and sole necessity of religion.  I know many of them;
+I know that their lives are noble, and their intellects just.
+But (I say it with respect and even hesitation) would not their
+oaths be a little mild?  I do not mean that they ought to swear,
+or that anybody ought to swear, I mean that if it comes to swearing
+one can see in such a competition the vast difference in actuality
+between the new sham religion which talks about the holiness within,
+and an old practical religion which worshipped a real holiness without.
+You can see the difference in the weakness of the oaths
+considered as literature.  The man of the Christian Churches said
+(occasionally), "Oh, my God!"  The man of the ethical societies says
+(presumably), "Oh, my goodness!"
+
+It is generally true, I say, that the whole circle of this physical
+universe does not contain anything strong enough for the purposes
+of a man who really means what he says; even about a small dog.
+Yet there is one exception to this generalisation.  There is one thing
+which belongs to this world, but which is yet so fierce and startling,
+so full of menace and ecstasy, that it seems at times to partake
+of the character of miracle.  This thing is the thing called sex;
+and on this also from [[Time|time]] to [[Time|time]] the man with the small dog in Balham
+will call in his dire need.  Men used to swear by their heads;
+they still in a manner swear by their bodies.  Sex is actual
+enough to swear by.  To take but one coarse democratic test,
+people scribble about it on walls as they do about religion.
+Nobody ever scribbled on a wall about ethics.  Above all,
+the language of sex can be used as a kind of violent invocation;
+a reinforcement of common words by the strongest words.
+I will not pause here to ask the reason of this; whether saying "damn"
+and saying other things unprintable have something to do
+with the fact that sex is the great business of the [[Body|body]],
+and salvation the great business of the [[Soul|soul]].  It is enough to say
+that any one can read the thing I mean and any one can hear it.
+He can read the thing best perhaps in Aristophanes or in Rabelais.
+He can hear the thing best in the street outside.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+E se gli uomini non hanno mai dubitato che debba esserci un decoro in tali cose, neppure hanno mai dubitato che quel decoro possa essere spinto troppo oltre; che il [[Courage|coraggio]], il riso e la sana [[Truth|verità]] possano essere sacrificati alle convenienze. Fin qui, dico, l'umanità è essenzialmente unanime. È nella discussione su quale cosa debba essere soppressa e quale permessa, nella scelta dei tipi più innocui rispetto ai tipi più dannosi di franchezza, che cominciamo a trovare la differenza tra le diverse civiltà e le diverse religioni degli uomini. Ed è esattamente sul punto di una differenza come questa che desidero parlare qui. Tra le altre società ed epoche, la nostra società e la nostra epoca hanno operato una scelta in questa materia. Abbiamo detto, per lo più attraverso un sentimento generale, che un certo tipo di espressione sarà consentito e un altro reso impossibile. Abbiamo scelto, e io penso che abbiamo scelto male.
+
+Prima di addentrarci più a fondo in questo tema difficilissimo, c'è almeno un'osservazione generale da fare. Il male dell'eccesso in questa materia consiste in realtà di tre mali del tutto distinti. L'improprietà o l'eccesso verbale può [[spring|scaturire]] da tre moventi assai diversi, tre stati d'animo assai diversi, che in realtà hanno pochissimo a che fare l'uno con l'altro. È necessario districare questi tre fili prima di procedere oltre. L'ordinaria discussione popolare del problema li confonde sempre irrimediabilmente. In breve, si possono enunciare così: l'improprietà nasce o da uno spirito realmente vizioso, o dall'[[Love|amore]] dell'enfasi, o dall'[[Love|amore]] dell'analisi.
+
+Il primo può essere liquidato con brevità e con sollievo. Esiste una cosa come la pornografia, come sistema di deliberati stimolanti erotici. Non è una cosa su cui discutere con l'intelletto, ma da schiacciare col tacco. Ma il punto da notare a nostro scopo è che questa forma di eccesso è separata dalle altre due dal fatto che il suo movente deve essere cattivo. Se un uomo cerca di eccitare un istinto sessuale che è già fin troppo forte, e per giunta nella sua forma più meschina, dev'essere un mascalzone. O prende denaro per degradare i suoi simili, oppure agisce secondo quel mistico prurito dell'uomo malvagio di rendere malvagi gli altri, che è il segreto più strano dell'inferno.
+
+Ma quando veniamo ai due moventi dell'enfasi e dell'analisi, è essenziale osservare che in entrambi i casi il movente può essere bello, anche quando il risultato è più disastroso. Il movente dell'improprietà che nasce dall'enfasi può essere illustrato al meglio con un paragone con l'abitudine di bestemmiare. La bestemmia è, naturalmente, il più forte argomento possibile a favore della concezione religiosa della vita. Un uomo non può affermare in modo soddisfacente alcunché di questo mondo se non uscendo da questo mondo. Le cose comunemente chiamate favole sono così vere che esse [[Alone|sole]] possono dare la ratifica ultima persino alle cose comunemente chiamate fatti. Un uomo di Balham non può nemmeno chiamare buono il suo cane senza convocare in suo aiuto o gli angeli o i diavoli. L'abitante di Balham, come il romano, se non può piegare gli dèi smuoverà l'Acheronte; ma non pensa mai di provare a smuovere Balham. La religione è la sua unica risorsa quando si tratta di vera enfasi; e spesso, persino quando attacca la religione, il suo modo istintivo di attaccarla è dire che è una maledetta menzogna. Il modo più naturale di parlare è il modo [[Supernatural|soprannaturale]] di parlare. E in verità questo può essere considerato un buon criterio pratico per tutte le mode e le filosofie moderne che pretendono di essere religioni. Le nuove fedi fondate sull'evoluzione o su un'etica impersonale pretendono sempre di poter produrre anch'esse santità; e nessun cristiano ha il diritto, in cristiana [[Charity|carità]], di negare tale possibilità. Ma se la questione è davvero se le cose in oggetto siano religioni nel senso in cui il [[Christianity|Cristianesimo]] o il maomettanesimo sono religioni, allora io suggerirei un criterio diverso. Non domanderei se possono produrre santità, ma se possono produrre bestemmia. Può qualcuno giurare per l'etica? Può qualcuno bestemmiare l'evoluzione? Molti uomini oggi ritengono che una semplice adorazione della [[morality|moralità]] o della bontà astratta sia il nucleo e l'unica necessità della religione. Ne conosco molti; so che le loro vite sono nobili e i loro intelletti retti. Ma (lo dico con rispetto e persino con esitazione) non sarebbero le loro imprecazioni un po' fiacche? Non intendo dire che dovrebbero bestemmiare, o che chiunque dovrebbe bestemmiare; intendo dire che, se si viene al bestemmiare, si può vedere in una simile gara la vasta differenza di sostanza tra la nuova religione fittizia che parla della santità interiore e una vecchia religione pratica che adorava una santità reale esteriore. Si può vedere la differenza nella debolezza delle imprecazioni considerate come letteratura. L'uomo delle Chiese cristiane diceva (all'occasione): «Oh, mio Dio!». L'uomo delle società etiche dice (presumibilmente): «Oh, cielo!».
+
+È generalmente vero, io dico, che l'intero cerchio di questo universo fisico non contiene nulla di abbastanza forte per gli scopi di un uomo che intende davvero ciò che dice, anche solo a proposito di un cagnolino. Eppure c'è un'eccezione a questa generalizzazione. C'è una cosa che appartiene a questo mondo, ma che è tuttavia così feroce e sorprendente, così colma di minaccia ed estasi, da sembrare a tratti partecipe del carattere del miracolo. Questa cosa è la cosa chiamata sesso; e anche a essa, di [[Time|tempo]] in [[Time|tempo]], l'uomo col cagnolino a Balham farà ricorso nel suo estremo bisogno. Gli uomini un tempo giuravano sulla loro testa; ancora oggi, in un certo modo, giurano sul loro corpo. Il sesso è abbastanza reale da giurarci sopra. Per prendere un solo rozzo criterio democratico, la gente lo scarabocchia sui muri come fa con la religione. Nessuno ha mai scarabocchiato su un muro a proposito dell'etica. Soprattutto, il linguaggio del sesso può essere usato come una sorta di violenta invocazione, un rafforzamento delle parole comuni per mezzo delle parole più forti. Non mi fermerò qui a chiederne la ragione; se il dire «dannazione» e il dire altre cose innominabili abbiano qualcosa a che fare col fatto che il sesso è il grande affare del [[Body|corpo]] e la salvezza il grande affare dell'[[Soul|anima]]. Basti dire che chiunque può leggere la cosa che intendo e chiunque può udirla. La può leggere al meglio, forse, in Aristofane o in Rabelais. La può udire al meglio nella strada là fuori.
+
+
+
+<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_03" data-title="Common Man — Rabelaisian Regrets (part 3)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
+
+
+But though he can find it in the street outside, he cannot
+find it in any of the books or newspapers sold in the street.
+There is no law against indecent ideas; but there is a quite
+efficient and practical law against indecent words.
+Slowly throughout the eighteenth century word after word was
+dropped until by the Victorian [[Time|time]] it was insisted that no
+coarse phrases should be used even in defending coarseness.
+I am myself under the limitations of this very local prejudice.
+I am compelled to prove my case in many pages because I
+have to talk as one talks in a respectable magazine.
+I could prove my case in ten minutes if I could talk as two
+respectable married men really talk on the top of an omnibus.
+It is sufficient, however, to put the matter thus:  When a navvy
+uses what is called obscene language it is almost always to express
+his righteous disgust at obscene conduct.  And here the navvy
+is at one with all the most really masculine poets or romancers;
+he is at one with Rabelais, with Swift, and even with Browning.
+Browning uses a foul metaphor to express the foulness of those who
+profess sympathy with human sorrows merely out of their own morbidity.
+You can find the phrase in "At the [[Mermaid]]."  Browning uses
+the same foul metaphor to express the foulness of those who cannot
+understand a man's prompt grasp of the presence of a good woman.
+You can find the phrase in the speech of Capponsacchi.
+In short, the emphatic use of sexual language has this great advantage
+that it is commonly used purely in the interests of virtue.
+The virtuous [[cabman]] may (and does) call a man a blank, in a state
+of furious and [[Innocent|innocent]] horror at the idea of any one being a blank.
+But this is not true in the case of the third impulse to indecorum.
+The third impulse is that which I have called the analytical;
+the mere curiosity of the mind about how the relations of the sexes
+are to be considered and classified.  This covers all that we now
+call the [[Problem Play]], and all that we associate with the realistic
+and psychological [[Novel|novel]], and all the millions of proposals for
+the rearrangement of [[Marriage|marriage]].  The dialogue in The Little Eyolf
+horrified many people; but it did not contain a single coarse word.
+Mr. George Moore, Mr. [[Richard]] Le Gallienne, and the lady called
+"Victoria [[Cross]]" have in turn been accused of being needlessly daring;
+but not one of them dare use words straight out of Bunyan or the [[Bible]].
+The analytic indecency is now more free than it ever was among free men.
+The emphatic indecency is more stifled than it ever was among free men;
+more stifled than it ever was among slaves.
+
+I am not concerned here to deny that the modern fashion of
+analysing sex is in general a good thing.  Certainly there is
+grossly too much hypocrisy about sex; not in the English people,
+but in the literature and journalism which the English people,
+for some incomprehensible reason, permit to speak for them.
+There is no hypocrisy on the top of an English omnibus; but I warmly
+agree that there is really too much hypocrisy in the front page
+of an English newspaper, or within the covers of an English book.
+Let us agree that Ibsen had a right to suggest that [[Marriage|marriage]] is an
+unpleasant fact as [[Well|well]] as a pleasant one; that as [[Well|well]] as the more
+chivalrous side of sex which is exaggerated by the Victorian poets,
+there is also the realistic and scientific side of sex, which was
+exaggerated by the old [[Monks|monks]].  Let me concede altogether and at once
+the fact that the modern tendency to dissect sex and to subdivide it,
+to put it into pigeon-holes, is a just and necessary measure.
+I will not even say here that the tendency has gone too far.
+But I will say this:  what will you do if it does go too far?
+Suppose you wake up some fine morning and find indecencies
+which are quite ludicrous being taken quite seriously.
+Suppose you find certain sins put in a pigeon-hole when they ought
+to be put in a [[Dust|dust]]-hole. Suppose that after twenty years of scientific
+study you find that you have all the dirty jokes back again, the only
+difference being that you must enjoy them without laughing at them.
+Suppose, in short, that you are confronted with the exasperating
+spectacle of people chewing sins, instead of spitting them
+out of their mouths like their fathers; what will you do then?
+How will you express your feelings if you are faced with that
+horrible fashion of taking sex seriously--of which the true name is
+Phallic Worship?  I know what you will do:  you will call upon the shades
+of Rabelais and Fielding to deliver you out of that foul idolatry;
+and perhaps the English people will answer you and speak.
+It is common enough to talk of the English people speaking;
+but if ever they do speak they will speak as Rabelais spoke,
+and as English cabmen speak now.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma per quanto possa trovarla nella strada là fuori, non può trovarla in nessuno dei libri o dei giornali venduti per strada. Non c'è legge contro le idee indecenti; ma c'è una legge assai efficace e pratica contro le parole indecenti. Lentamente, nel corso del secolo diciottesimo, parola dopo parola fu abbandonata, finché all'epoca [[Time|vittoriana]] si pretese che nessuna frase volgare fosse usata nemmeno per difendere la volgarità. Io stesso sono soggetto ai limiti di questo pregiudizio tutto locale. Sono costretto a dimostrare la mia tesi in molte pagine perché devo parlare come si parla in una rivista rispettabile. Potrei dimostrare la mia tesi in dieci minuti se potessi parlare come parlano davvero due rispettabili uomini sposati sull'imperiale di un omnibus. È sufficiente, tuttavia, porre la cosa così: quando uno sterratore usa quello che si chiama linguaggio osceno, è quasi sempre per esprimere il suo giusto disgusto per una condotta oscena. E qui lo sterratore fa tutt'uno con i più autenticamente virili tra i poeti o i romanzieri; fa tutt'uno con Rabelais, con Swift e persino con Browning. Browning usa una metafora immonda per esprimere l'immondizia di coloro che professano solidarietà per i dolori umani soltanto per la propria morbosità. La frase la trovate in «At the [[Mermaid]]». Browning usa la stessa metafora immonda per esprimere l'immondizia di coloro che non sanno comprendere la prontezza con cui un uomo coglie la presenza di una donna buona. La frase la trovate nel discorso di Capponsacchi. In breve, l'uso enfatico del linguaggio sessuale ha questo grande vantaggio: che comunemente è usato puramente nell'interesse della virtù. Il [[cabman|vetturino]] virtuoso può (e lo fa) chiamare un uomo con un termine puntinato, in uno stato di furioso e [[Innocent|innocente]] orrore all'idea che qualcuno possa essere un tale termine puntinato. Ma questo non è vero nel caso del terzo impulso all'indecenza. Il terzo impulso è quello che ho chiamato analitico: la mera curiosità della mente su come i rapporti tra i sessi debbano essere considerati e classificati. Questo abbraccia tutto ciò che oggi chiamiamo il [[Problem Play|dramma a tesi]], e tutto ciò che associamo al [[Novel|romanzo]] realistico e psicologico, e i milioni di proposte per il riordinamento del [[Marriage|matrimonio]]. Il dialogo in *The Little Eyolf* inorridì molte persone; ma non conteneva una sola parola volgare. Mr. George Moore, Mr. [[Richard]] Le Gallienne e la signora che si firma «Victoria [[Cross]]» sono stati accusati, a turno, di essere inutilmente audaci; ma nessuno di loro osa usare parole tratte di peso da Bunyan o dalla [[Bible|Bibbia]]. L'indecenza analitica è oggi più libera di quanto sia mai stata tra uomini liberi. L'indecenza enfatica è più soffocata di quanto sia mai stata tra uomini liberi; più soffocata di quanto sia mai stata tra gli schiavi.
+
+Non mi propongo qui di negare che la moda moderna di analizzare il sesso sia in generale una cosa buona. Certo c'è troppa, grossolana ipocrisia intorno al sesso; non nel popolo inglese, ma nella letteratura e nel giornalismo che il popolo inglese, per qualche incomprensibile ragione, permette di parlare in suo nome. Non c'è ipocrisia sull'imperiale di un omnibus inglese; ma convengo di buon grado che c'è davvero troppa ipocrisia nella prima pagina di un giornale inglese, o tra le copertine di un libro inglese. Conveniamo pure che Ibsen aveva il diritto di suggerire che il [[Marriage|matrimonio]] è un fatto spiacevole [[Well|così]] come piacevole; che, [[Well|così]] come il lato più cavalleresco del sesso, esagerato dai poeti vittoriani, c'è anche il lato realistico e scientifico del sesso, che fu esagerato dai vecchi [[Monks|monaci]]. Concedo del tutto e senz'altro il fatto che la tendenza moderna a sezionare il sesso e a suddividerlo, a sistemarlo in caselle, sia una misura giusta e necessaria. Non dirò nemmeno, qui, che la tendenza si è spinta troppo oltre. Ma dirò questo: che cosa farete se davvero si spingerà troppo oltre? Supponete di svegliarvi un bel mattino e di trovare che indecenze del tutto ridicole vengono prese del tutto sul serio. Supponete di trovare certi peccati messi in una casella quando dovrebbero essere messi in una [[Dust|pattumiera]]. Supponete che, dopo vent'anni di studio scientifico, scopriate di ritrovarvi tra le mani tutte le barzellette sconce di prima, con l'unica differenza che dovrete gustarvele senza riderne. Supponete, in breve, di trovarvi davanti l'esasperante spettacolo di gente che mastica i peccati, invece di sputarli fuori dalla bocca come facevano i loro padri; che cosa farete allora? Come esprimerete i vostri sentimenti se vi troverete di fronte a quell'orribile moda di prendere il sesso sul serio, il cui vero nome è Culto Fallico? So che cosa farete: invocherete le ombre di Rabelais e di Fielding perché vi liberino da quella immonda idolatria; e forse il popolo inglese vi risponderà e parlerà. È abbastanza comune parlare del popolo inglese che parla; ma se mai parlerà, parlerà come parlava Rabelais, e come parlano ora i vetturini inglesi.
 
 
 
@@ -10718,4250 +13732,6 @@ I nostri maestri di scuola dichiarano di far emergere ogni lato dell'allievo: il
 
 
 
-<span class="atom-split" data-atom="story_24_vandalism" data-title="Common Man — Vandalism" data-chapter="Vandalism" data-kind="story"></span>
-
-
-VANDALISM
-
-Vandalism is of two kinds, the negative and the positive;
-as in the Vandals of the ancient world, who destroyed buildings,
-and the Vandals of the modern world, who erect them.  A long
-procession of those typically modern thinkers, who are too tired
-to think, has already left behind a trail or tradition of language;
-by which it is vaguely suggested that whatever is constructive
-is good and only what is destructive is bad.  Anyone wishing
-to lose himself in mazes of such [[logic]], or rather illogicality,
-may put to himself some particular proposition; as that it is
-good to construct a stake, with faggots, for burning a man alive,
-and yet bad to destroy a growing plantation or cut down trees,
-which is the only possible way of doing it.  But in the particular
-case of Vandalism, it is very specially necessary to remember
-that the real argument is all the other way.  Of two bad things,
-it is better to be the barbarian who destroys something, which for
-some reason he dislikes or does not understand, and who may yet
-sincerely like other things that he does understand, rather than to be
-the vulgarian who erects something exactly expressive of what he likes;
-and in that act rears a colossal image of the smallness of his [[Soul|soul]].
-Destructive Vandalism, though a very great evil at the present [[Time|time]],
-and indeed through all [[history]], has not been in all [[history]] so bad
-as it is now; and certainly not so bad as many more constructive
-things that exist now.
-
-It is important to remember that there are two kinds of
-mere destructiveness; neither on the noblest level of human culture,
-but neither on the most ignoble.  First, of course, the Vandal
-may be the Iconoclast.  He may destroy certain artistic creations
-because they are really opposed to his moral convictions.
-Thus a Puritan fanatic from [[America]] might conceivably think himself
-commanded by the Lord to dynamite Westminster Abbey, because it
-is full of idols; that is of images with a religious character.
-Curiously enough, he would be half right.  It is full of idols;
-but they are not images of a religious character.  Anybody can
-see at a glance that medieval figures of saints and angels
-are not worshipped; for the perfectly simple reason that they
-are themselves represented in the act of worshipping.  But the
-eighteenth-century statues of statesmen and generals really are idols.
-They are manifestly set up, not to the glory of God, but to the glory
-of the men there represented; who are to be directly worshipped
-for their own sake; as the Pagans worshipped demigods and heroes.
-Lord Polkerton and Admiral Bangs are not themselves represented
-in the act of worshipping; but in the act of being worshipped.
-For the eighteenth century, which has been called the Age of Reason,
-was the real Age of Idolatry.  This, however, is a parenthesis.
-The point is that the American fanatic would be a much finer fellow
-than the American chain-store man who finds half [[London]] in the [[Chains|chains]]
-of his cheap and tawdry stores.  If the dynamite of the Iconoclast
-caved in the whole front of Westminster Abbey, I should be far
-less horrified than I am at a project of a Yankee shopkeeper for
-building a tower with [[Bells|bells]], taller than Westminster [[Cathedral]].
-It is curious to reflect on the few stray nerves of criticism and
-sensibility that still remain.  I fancy that if an American erected
-immediately opposite Windsor [[Castle]], on the other side of the [[River|river]],
-another [[Castle|castle]] of exactly the same castellated form and plan,
-only a little bigger (being made of cheap and rotten material)
-and then flew the [[Flag|flag]] of his own ancient family in direct defiance
-of the personal [[Flag|flag]] of the [[King]], there would be a good many people
-in society who would tell the American, however rich he was,
-that this was going a bit too far.  Which shows how much safer it
-is to insult religion than to insult royalty.
-
-Secondly, in the great moral [[philosophy]] of being fair to Vandals,
-we must remember that there is a certain element in life which
-has even a right to its place in life, though that place may
-not always be easy to find, without displacing better things.
-We talk of positive and negative, of creation and destruction;
-but in a sense the association is incorrect.  Destruction is
-not negation; at least it is not always and of necessity negation.
-There is a positive pleasure in destruction, which can be harmless
-and is certainly real.  It is [[Innocent|innocent]], for it is felt strongly
-by children when they first tear up paper or break sticks.
-But I trust that few of us have so entirely lost our [[innocence]],
-as to be unable to drink deep joy from smashing up the happy [[Home|home]].
-Breathes there a man with [[Soul|soul]] so dead that he has never,
-when standing in a respectable parlour, felt a wild [[Desire|desire]]
-to seize a pot and plant and send it crashing through the bow
-windows into the front-[[Garden|garden]] or the street?  These things are
-not entirely to be sterilised; these things also are from God.
-It is all explained in a ballade which my friends and I composed
-years ago, after I had shattered a great tumbler all over the carpet.
-It has the refrain:  "I like the noise of breaking glass."
-And though I should not like the glass of Chartres [[Cathedral]] to be
-broken merely to gratify this taste, I can imagine two types of human
-beings who might break it and remain human.  A lunatic might do it
-because he thought it unChristian to make pictures of the life of [[Christ]];
-and a boy might do it because he liked the noise of breaking glass.
-So much for the defence of the more dignified Vandal--the Destroyer.
-
-But the new sort of Vandal is much more indefensible.
-The crude creative Vandal is much more of a pestilence and a peril.
-There is more to be said for the conqueror, who makes a [[Solitude|solitude]]
-and calls it peace, than for the other who makes a pandemonium
-and calls it progress.  For he brands upon the eye in [[Memory|memory]]
-the positive and vivid picture of his own meanness and stupidity.
-The barbarians who laid waste the world may have prevailed in so far
-that some good things were forgotten, but they did not insist
-that their own base and barbarous things should be remembered.
-But that is exactly what the "constructive" vulgarian does.
-That is exactly what the Modern Vandal does.  It is a gloomy pleasure
-to think that if a dissolving civilisation brings in forces more
-like those of the Ancient Vandals, if vagabond tribes from Asia or
-Eastern Europe drift in with the old-world, animal, almost automatic
-destructiveness of the Huns or the Bashi-Bazouks, they at least
-will wreck and ruin all the new Civilisation without any pretence
-of reconstructing it; and that towering and glaring flats, or long
-leagues of flashy glass shop-windows, will lie in rubbish-heaps
-side by side with better things.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-VANDALISMO
-
-Il vandalismo è di due specie, quello negativo e quello positivo; come nei Vandali del mondo antico, che distruggevano gli edifici, e nei Vandali del mondo moderno, che li erigono. Una lunga processione di quei pensatori tipicamente moderni, troppo stanchi per pensare, ha già lasciato dietro di sé una scia, o tradizione, di linguaggio; per cui si insinua vagamente che tutto ciò che è costruttivo sia buono e che solo ciò che è distruttivo sia cattivo. Chiunque desideri perdersi nei labirinti di una simile [[logic|logica]], o piuttosto illogicità, potrà proporsi qualche particolare proposizione; per esempio che sia bene costruire un palo, con le fascine, per bruciare vivo un uomo, e tuttavia male abbattere una piantagione in crescita o tagliare gli alberi, che è l'unico modo possibile di farlo. Ma nel caso particolare del Vandalismo è quanto mai necessario ricordare che il vero argomento è tutto dalla parte opposta. Fra due cose cattive, è meglio essere il barbaro che distrugge qualcosa che, per qualche ragione, gli è sgradito o non comprende, e che pure può amare sinceramente altre cose che comprende, piuttosto che il volgare che erige qualcosa di perfettamente espressivo di ciò che gli piace; e in quell'atto innalza un'immagine colossale della piccolezza della propria [[Soul|anima]]. Il Vandalismo distruttivo, pur essendo un grandissimo male nel [[Time|tempo]] presente, e in verità in tutta la [[history|storia]], non è mai stato in tutta la [[history|storia]] così cattivo come lo è ora; e certamente non così cattivo come molte cose ben più costruttive che oggi esistono.
-
-È importante ricordare che vi sono due specie di semplice distruttività; nessuna delle due sul livello più nobile della cultura umana, ma nessuna delle due nemmeno sul più ignobile. Anzitutto, naturalmente, il Vandalo può essere l'Iconoclasta. Egli può distruggere certe creazioni artistiche perché esse si oppongono realmente alle sue convinzioni morali. Così un fanatico puritano d'[[America]] potrebbe magari credersi comandato dal Signore a far saltare in aria l'Abbazia di Westminster, perché è piena di idoli; cioè di immagini di carattere religioso. Cosa abbastanza curiosa, avrebbe ragione a metà. È piena di idoli; ma questi non sono immagini di carattere religioso. Chiunque può vedere a colpo d'occhio che le figure medievali di santi e di angeli non sono adorate; per la ragione perfettamente semplice che esse stesse sono rappresentate nell'atto di adorare. Ma le statue settecentesche di uomini di stato e di generali sono davvero idoli. Sono manifestamente erette non alla gloria di Dio, ma alla gloria degli uomini ivi rappresentati; i quali vanno adorati direttamente per se stessi, come i Pagani adoravano i semidei e gli eroi. Lord Polkerton e l'Ammiraglio Bangs non sono rappresentati nell'atto di adorare, bensì nell'atto di essere adorati. Poiché il diciottesimo secolo, che è stato chiamato l'Età della Ragione, fu la vera Età dell'Idolatria. Questa, tuttavia, è una parentesi. Il punto è che il fanatico americano sarebbe un individuo assai più nobile del padrone americano di grandi magazzini a catena, che avvince mezza [[London|Londra]] alle [[Chains|catene]] dei suoi negozi vili e pacchiani. Se la dinamite dell'Iconoclasta sfondasse tutta la facciata dell'Abbazia di Westminster, ne sarei assai meno inorridito di quanto lo sia dinanzi al progetto di un bottegaio yankee di costruire una torre con [[Bells|campane]], più alta della [[Cathedral|Cattedrale]] di Westminster. È curioso riflettere sui pochi nervi sparsi di critica e di sensibilità che ancora sopravvivono. Immagino che se un americano erigesse, proprio di fronte al [[Castle|Castello]] di Windsor, sull'altra sponda del [[River|fiume]], un altro [[Castle|castello]] di forma e pianta esattamente merlate allo stesso modo, solo un poco più grande (essendo fatto di materiale vile e marcio), e poi vi issasse la [[Flag|bandiera]] della propria antica famiglia in diretta sfida alla [[Flag|bandiera]] personale del [[King|Re]], si troverebbero parecchie persone in società a dire all'americano, per quanto ricco fosse, che questo era spingersi un po' troppo oltre. Il che mostra quanto sia più sicuro insultare la religione che insultare la regalità.
-
-In secondo luogo, nella grande [[philosophy|filosofia]] morale dell'essere giusti verso i Vandali, dobbiamo ricordare che vi è nella vita un certo elemento che ha persino un diritto al proprio posto nella vita, benché quel posto non sia sempre facile da trovare senza spodestare cose migliori. Parliamo di positivo e negativo, di creazione e distruzione; ma in un certo senso l'associazione è scorretta. La distruzione non è negazione; o almeno non è sempre e necessariamente negazione. Vi è un piacere positivo nella distruzione, che può essere innocuo ed è certamente reale. Esso è [[Innocent|innocente]], poiché è sentito fortemente dai bambini quando per la prima volta strappano la carta o spezzano i bastoncini. Ma confido che pochi di noi abbiano così interamente perduto la propria [[innocence|innocenza]] da essere incapaci di attingere gioia profonda dal mandare in frantumi la felice [[Home|casa]]. Respira forse un uomo dall'[[Soul|anima]] tanto morta da non aver mai, standosene in un rispettabile salotto, provato un selvaggio [[Desire|desiderio]] di afferrare un vaso con la sua pianta e scagliarlo con fracasso attraverso le vetrate a bovindo nel [[Garden|giardino]] antistante o sulla strada? Queste cose non vanno interamente sterilizzate; anche queste cose vengono da Dio. È tutto spiegato in una ballata che i miei amici ed io componemmo anni fa, dopo che ebbi mandato in frantumi un grande bicchierone su tutto il tappeto. Ha per ritornello: «Mi piace il rumore del vetro che si rompe.» E per quanto non mi piacerebbe che le vetrate della [[Cathedral|Cattedrale]] di Chartres fossero infrante solo per soddisfare questo gusto, posso immaginare due tipi di esseri umani che potrebbero infrangerle rimanendo umani. Un pazzo potrebbe farlo perché ritiene anticristiano fare immagini della vita di [[Christ|Cristo]]; e un ragazzo potrebbe farlo perché gli piace il rumore del vetro che si rompe. Tanto basti in difesa del più dignitoso Vandalo: il Distruttore.
-
-Ma la nuova specie di Vandalo è assai più indifendibile. Il rozzo Vandalo creativo è assai più una pestilenza e un pericolo. Vi è più da dire a favore del conquistatore, che fa una [[Solitude|solitudine]] e la chiama pace, che a favore dell'altro, che fa un pandemonio e lo chiama progresso. Poiché egli marchia sull'occhio, nella [[Memory|memoria]], l'immagine positiva e vivida della propria meschinità e stupidità. I barbari che devastarono il mondo poterono forse prevalere al punto che alcune cose buone furono dimenticate, ma non pretesero che le loro proprie cose vili e barbare fossero ricordate. Ma è esattamente ciò che fa il volgare «costruttivo». È esattamente ciò che fa il Vandalo Moderno. È un cupo piacere pensare che se una civiltà in dissoluzione porterà con sé forze più simili a quelle degli antichi Vandali, se tribù vagabonde dall'Asia o dall'Europa orientale piomberanno con l'antica, animalesca, quasi automatica distruttività degli Unni o dei Bashi-Bazouk, esse almeno faranno scempio e rovina di tutta la nuova Civiltà senza alcuna pretesa di ricostruirla; e che i palazzi torreggianti e sgargianti, o le lunghe leghe di vistose vetrine di negozi, giaceranno in cumuli di macerie fianco a fianco con cose migliori.
-
-
-
-<span class="atom-split" data-atom="story_25_elizabeth_barrett_browning" data-title="Common Man — Elizabeth Barrett Browning" data-chapter="Elizabeth Barrett Browning" data-kind="story"></span>
-
-
-ELIZABETH BARRETT BROWNING
-
-Mrs. Browning was a great poet, and not, as is idly and vulgarly supposed,
-only a great poetess.  The word poetess is bad English, and it conveys
-a particularly bad compliment.  Nothing is more remarkable about
-Mrs. Browning's work than the absence of that trite and namby-pamby
-elegance which the last two centuries demanded from lady writers.
-Wherever her verse is bad, it is bad from some extravagance of imagery,
-some violence of comparison, some kind of debauch of cleverness.
-Her nonsense never arises from weakness, but from a confusion of powers.
-If the phrase explain itself, she is far more a great poet than she
-is a good one.
-
-Mrs. Browning often appears more luscious and sentimental than
-many other literary women, but this was because she was stronger.
-It requires a certain amount of internal force to break down.
-A complete [[Self|self]]-humiliation requires enormous strength,
-more strength than most of us possess.  When she was writing
-the poetry of [[Self|self]]-abandonment she really abandoned herself with
-the valour and decision of an anchorite abandoning the world.
-Such a couplet as--
-
-Our Euripides, the human,
-With his dropping of warm [[Tears|tears]].
-
-gives to most of us a sickly and nauseous sensation.
-Nothing can be [[Well|well]] conceived more ridiculous than Euripides going
-about dropping [[Tears|tears]] with a loud splash, and Mrs. Browning coming
-after him with a thermometer.  But the one emphatic point about this
-idiotic couplet is that Mrs. Hemans would never have written it.
-She would have written something perfectly dignified,
-perfectly harmless, perfectly inconsiderable.  Mrs. Browning was
-in a great and serious difficulty.  She really meant something.
-She aimed at a vivid and curious image, and she missed it.
-She had that catastrophic and public failure which is as much
-as a medal or a testimonial, the badge of the brave.
-
-In spite of the tiresome half-[[Truth|truth]] that art is unmoral,
-the arts require a certain considerable number of moral qualities,
-and more especially all the arts require [[Courage|courage]].  The art
-of drawing, for example, requires even a kind of physical [[Courage|courage]].
-Any one who has tried to draw a straight line and failed knows that
-he fails chiefly in nerve, as he might fail to jump off a cliff.
-And similarly all great literary art involves the element
-of risk, and the greatest literary artists have commonly been
-those who have run the greatest risk of talking nonsense.
-Almost all great poets rant, from Shakespeare downwards.
-Mrs. Browning was Elizabethan in her luxuriance and her audacity,
-and the gigantic scale of her wit.  We often feel with her as we
-feel with Shakespeare, that she would have done better with half
-as much talent.  The great curse of the Elizabethans is upon her,
-that she cannot leave anything [[Alone|alone]], she cannot write a single
-line without a conceit:
-
-And the eyes of the peacock fans
-Winked at the alien glory,
-
-she said of the Papal fans in the presence of the Italian tricolour.
-
-And a royal [[Blood|blood]] sends glances up her princely eye to trouble.
-And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,
-
-is her description of a beautiful and aristocratic lady.
-The notion of peacock feathers winking like so many [[London]] urchins is
-perhaps one of her rather aggressive and outrageous figures of speech.
-The image of a woman's hair as the softened [[Shadow|shadow]] of a [[Crown|crown]]
-is a singularly vivid and perfect one.  But both have the same
-quality of intellectual fancy and intellectual concentration.
-They are both instances of a sort of ethereal [[Epigram|epigram]].
-This is the great and dominant characteristic of Mrs. Browning,
-that she was significant alike in failure and [[success]].
-Just as every [[Marriage|marriage]] in the world, good or bad, is a [[Marriage|marriage]],
-dramatic, irrevocable, and big with coming events, so every one
-of her wild weddings between alien ideas is an accomplished fact
-which produces a certain effect on the [[Imagination|imagination]], which has for
-good or evil become part and parcel of our mental vision for ever.
-She gives the reader the impression that she never declined a fancy,
-just as some gentlemen of the eighteenth century never declined a duel.
-When she fell it was always because she missed the foothold,
-never because she funked the leap.
-
-"Casa Guidi Windows" is, in one aspect, a poem very typical
-of its author.  Mrs. Browning may fairly be called the peculiar
-poet of Liberalism, of that great movement of the first half
-of the nineteenth century towards the emancipation of men from
-ancient institutions which had gradually changed their [[Nature|nature]],
-from the houses of refuge which had turned into dungeons,
-and the mystic jewels which remained only as letters.
-It was not what we ordinarily understand by revolt.  It had no hatred
-in its heart for ancient and essentially human institutions.
-It had that deeply conservative belief in the most ancient
-of institutions, the average man, which goes by the name of [[democracy]].
-Their ideal, like the ideal of all sensible people, was a chaotic
-and confused notion of goodness made up of English primroses
-and Greek statues, [[Birds|birds]] singing in April, and regiments being cut
-to pieces for a [[Flag|flag]].  They were neither Radicals nor Socialists,
-but Liberals, and a liberal is a noble and indispensable lunatic
-who tries to make a cosmos of his own head.
-
-Mrs. Browning and her husband were more liberal than most Liberals.
-Theirs was the hospitality of the intellect and the hospitality
-of the heart, which is the best definition of the term.
-They never fell into the habit of the idle revolutionists
-of supposing that the past was bad because the future was good,
-which amounted to asserting that because humanity had never made
-anything but mistakes it was now quite certain to be right.
-Browning possessed in a greater degree than any other man the power
-of realising that all conventions were only victorious revolutions.
-He could follow the medieval logicians in all their sowing of the [[Wind|wind]]
-and reaping of the whirlwind with all that generous ardour which is due
-to abstract ideas.  He could study the ancients with the young eyes
-of the [[Renaissance]] and read a Greek grammar like a book of [[Love|love]] lyrics.
-This immense and almost confounding Liberalism of Browning doubtless
-had some effect upon his wife.  In her vision of New [[Italy]] she went back
-to the image of Ancient [[Italy]] like an honest and true revolutionist;
-for all true revolutions are reversions to the natural and the normal.
-A revolutionist who breaks with the past is a notion fit for an idiot.
-For how could a man even wish for something which he had never heard of?
-Mrs. Browning's inexhaustible sympathy with all the ancient and essential
-passions of humanity was nowhere more in evidence than in her conception
-of patriotism.  For some dark reason, which it is difficult indeed
-to fathom, belief in patriotism in our day is held to mean principally
-a belief in every other nation abandoning its patriotic feelings.
-In the case of no other passion does this weird contradiction exist.
-Men whose lives are mainly based upon [[Friendship|friendship]] sympathise
-with the friendships of others.  The interest of engaged couples
-in each other is a proverb, and like many other proverbs sometimes
-a nuisance.  In patriotism [[Alone|alone]] it is considered correct just
-now to assume that the sentiment does not exist in other people.
-It was not so with the great Liberals of Mrs. Browning's [[Time|time]].
-The Brownings had, so to speak, a disembodied talent for patriotism.
-They loved England and they loved [[Italy]]; yet they were the very
-reverse of cosmopolitans.  They loved the two countries as countries,
-not as arbitrary divisions of the globe.  They had hold of the root
-and essence of patriotism.  They knew how certain [[Flowers|flowers]] and [[Birds|birds]]
-and rivers pass into the mills of the brain and come out as wars
-and discoveries, and how some triumphant adventure or some staggering
-crime wrought in a remote continent may bear about it the colour
-of an Italian [[City|city]] or the [[Soul|soul]] of a silent village of Surrey.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-ELIZABETH BARRETT BROWNING
-
-La signora Browning fu una grande poeta, e non, come oziosamente e volgarmente si crede, soltanto una grande poetessa. La parola «poetessa» è cattivo inglese, e reca con sé un complimento particolarmente cattivo. Nulla vi è di più notevole nell'opera della signora Browning quanto l'assenza di quella trita e sdolcinata eleganza che gli ultimi due secoli esigevano dalle scrittrici. Ovunque il suo verso sia cattivo, lo è per qualche stravaganza d'immagine, qualche violenza di paragone, qualche sorta di sbornia di ingegno. Le sue insensatezze non nascono mai da debolezza, ma da una confusione di facoltà. Se la frase si spiega da sé, ella è assai più una grande poeta che non una buona poeta.
-
-La signora Browning appare spesso più lussureggiante e sentimentale di molte altre donne di lettere, ma ciò accadeva perché era più forte. Occorre una certa dose di forza interiore per crollare. Una completa [[Self|autoumiliazione]] richiede una forza enorme, più forza di quanta la maggior parte di noi ne possieda. Quando scriveva la poesia dell'[[Self|abbandono di sé]], ella davvero si abbandonava con il valore e la decisione di un anacoreta che rinuncia al mondo. Un distico come questo—
-
-Il nostro Euripide, l'umano,
-Con il suo stillare di calde [[Tears|lacrime]].
-
-suscita nella maggior parte di noi una sensazione stucchevole e nauseante. Nulla si può [[Well|bene]] concepire di più ridicolo di Euripide che se ne va in giro lasciando cadere [[Tears|lacrime]] con un rumoroso tonfo, e la signora Browning che gli tien dietro con un termometro. Ma il punto emblematico di questo distico idiota è che la signora Hemans non l'avrebbe mai scritto. Ella avrebbe scritto qualcosa di perfettamente dignitoso, perfettamente innocuo, perfettamente trascurabile. La signora Browning si trovava in una difficoltà grande e seria. Voleva davvero dire qualcosa. Mirava a un'immagine viva e curiosa, e la mancò. Ebbe quella catastrofica e pubblica sconfitta che vale quanto una medaglia o un attestato, il distintivo dei coraggiosi.
-
-Malgrado la noiosa mezza [[Truth|verità]] che l'arte sia amorale, le arti richiedono un certo considerevole numero di qualità morali, e più d'ogni altra cosa tutte le arti richiedono [[Courage|coraggio]]. L'arte del disegno, per esempio, richiede persino una specie di [[Courage|coraggio]] fisico. Chiunque abbia tentato di tracciare una linea retta e vi abbia fallito sa che fallisce soprattutto nel nervo, come potrebbe fallire nel gettarsi da una rupe. E similmente ogni grande arte letteraria implica l'elemento del rischio, e i più grandi artisti della parola sono stati comunemente coloro che hanno corso il maggior rischio di dire sciocchezze. Quasi tutti i grandi poeti sragionano, da Shakespeare in giù. La signora Browning era elisabettiana nella sua lussureggiante esuberanza e nella sua audacia, e nella scala gigantesca del suo ingegno. Con lei proviamo spesso ciò che proviamo con Shakespeare, che avrebbe fatto meglio con la metà del talento. La grande maledizione degli elisabettiani grava su di lei: che non sa lasciare nulla [[Alone|in pace]], non sa scrivere un solo verso senza un concettismo:
-
-E gli occhi dei ventagli di pavone
-Ammiccavano all'estranea gloria,
-
-diceva ella dei ventagli papali al cospetto del tricolore italiano.
-
-E un [[Blood|sangue]] regale manda lampi su per il suo occhio principesco a turbare.
-E l'[[Shadow|ombra]] di una [[Crown|corona]] di monarca s'addolcisce nei suoi capelli,
-
-è la sua descrizione di una dama bella e aristocratica. L'idea delle piume di pavone che ammiccano come tanti monelli di [[London|Londra]] è forse una delle sue figure retoriche piuttosto aggressive e oltraggiose. L'immagine dei capelli di una donna come l'[[Shadow|ombra]] addolcita di una [[Crown|corona]] è singolarmente viva e perfetta. Ma entrambe hanno la medesima qualità di fantasia intellettuale e di concentrazione intellettuale. Sono entrambe esempi di una sorta di [[Epigram|epigramma]] etereo. Questa è la grande e dominante caratteristica della signora Browning: che ella era significativa tanto nella sconfitta quanto nel [[success|successo]]. Come ogni [[Marriage|matrimonio]] al mondo, buono o cattivo, è un [[Marriage|matrimonio]], drammatico, irrevocabile e gravido di eventi futuri, così ciascuna delle sue selvagge nozze fra idee estranee è un fatto compiuto che produce un certo effetto sull'[[Imagination|immaginazione]], che nel bene o nel male è divenuto parte integrante della nostra visione mentale per sempre. Ella dà al lettore l'impressione di non aver mai declinato una fantasia, così come certi gentiluomini del Settecento non declinavano mai un duello. Quando cadeva era sempre perché aveva mancato l'appiglio, mai perché avesse temuto il salto.
-
-«Casa Guidi Windows» è, sotto un certo aspetto, un poema assai tipico della sua autrice. La signora Browning può a buon diritto essere chiamata la poeta peculiare del liberalismo, di quel grande movimento della prima metà del secolo diciannovesimo verso l'emancipazione degli uomini da antiche istituzioni che avevano a poco a poco mutato la propria [[Nature|natura]], dalle case di rifugio trasformatesi in prigioni, e dai gioielli mistici rimasti soltanto come pegni. Non era ciò che ordinariamente intendiamo per rivolta. Non aveva odio in cuore per le antiche e essenzialmente umane istituzioni. Aveva quella credenza profondamente conservatrice nella più antica delle istituzioni, l'uomo comune, che va sotto il nome di [[democracy|democrazia]]. Il loro ideale, come l'ideale di tutte le persone assennate, era una nozione caotica e confusa di bontà fatta di primule inglesi e statue greche, di [[Birds|uccelli]] che cantano in aprile e di reggimenti fatti a pezzi per una [[Flag|bandiera]]. Non erano né radicali né socialisti, ma liberali, e un liberale è un nobile e indispensabile folle che tenta di fare un cosmo della propria testa.
-
-La signora Browning e suo marito erano più liberali della maggior parte dei liberali. La loro era l'ospitalità dell'intelletto e l'ospitalità del cuore, che è la migliore definizione del termine. Non caddero mai nell'abitudine degli oziosi rivoluzionari di supporre che il passato fosse cattivo perché il futuro era buono, il che equivaleva ad affermare che poiché l'umanità non aveva mai fatto altro che errori, adesso era del tutto certo che avesse ragione. Browning possedeva in grado maggiore di ogni altro uomo il potere di comprendere che tutte le convenzioni non erano altro che rivoluzioni vittoriose. Poteva seguire i logici medievali in tutto il loro seminare [[Wind|vento]] e mietere tempeste con tutto quel generoso ardore che si deve alle idee astratte. Poteva studiare gli antichi con gli occhi giovani del [[Renaissance|Rinascimento]] e leggere una grammatica greca come un libro di liriche d'[[Love|amore]]. Questo immenso e quasi sconcertante liberalismo di Browning ebbe indubbiamente qualche effetto sulla moglie. Nella sua visione della Nuova [[Italy|Italia]] ella risaliva all'immagine dell'Antica [[Italy|Italia]] come un'onesta e sincera rivoluzionaria; poiché tutte le vere rivoluzioni sono ritorni al naturale e al normale. Un rivoluzionario che rompe col passato è una nozione degna di un idiota. Come potrebbe infatti un uomo desiderare persino qualcosa di cui non ha mai udito parlare? La inesauribile simpatia della signora Browning per tutte le antiche ed essenziali passioni dell'umanità in nessun luogo si manifestava più che nella sua concezione del patriottismo. Per qualche oscura ragione, che è davvero difficile sondare, credere nel patriottismo ai giorni nostri è ritenuto significare principalmente credere che ogni altra nazione debba abbandonare i propri sentimenti patriottici. Per nessun'altra passione esiste questa bizzarra contraddizione. Gli uomini la cui vita si fonda principalmente sull'[[Friendship|amicizia]] simpatizzano con le amicizie altrui. L'interesse reciproco delle coppie di fidanzati è un proverbio, e come molti altri proverbi talvolta una seccatura. Nel patriottismo [[Alone|soltanto]] si ritiene corretto, proprio ora, presumere che il sentimento non esista negli altri. Non era così con i grandi liberali del [[Time|tempo]] della signora Browning. I Browning avevano, per così dire, un talento incorporeo per il patriottismo. Amavano l'Inghilterra e amavano l'[[Italy|Italia]]; eppure erano l'esatto opposto dei cosmopoliti. Amavano i due paesi in quanto paesi, non come divisioni arbitrarie del globo. Avevano afferrato la radice e l'essenza del patriottismo. Sapevano come certi [[Flowers|fiori]] e [[Birds|uccelli]] e fiumi passino nei mulini del cervello e ne escano come guerre e scoperte, e come qualche trionfante avventura o qualche sconvolgente delitto compiuto in un remoto continente possa recare con sé il colore di una [[City|città]] italiana o l'[[Soul|anima]] di un silenzioso villaggio del Surrey.
-
-
-
-<span class="atom-split" data-atom="story_28_the_epitaph_of_pierpont_morgan" data-title="Common Man — The Epitaph Of Pierpont Morgan" data-chapter="The Epitaph Of Pierpont Morgan" data-kind="story"></span>
-
-
-THE EPITAPH OF PIERPONT MORGAN
-
-It is obvious enough that whitewashing a man is quite the opposite
-of washing him white.  The curious thing is that people often
-try to whitewash a man, and fail, when it might be possible
-to wash him, and to some limited extent, succeed.  The real story,
-if the culprit only had the [[Courage|courage]] to tell it, would often be
-much more human and pardonable than the stiff suspicious fiction
-that he tells instead.  Many a public man, I fancy, has tried
-to conceal the crime and only succeeded in concealing the excuse.
-Many a man has sought to bury the sin and only buried the [[Temptation|temptation]].
-Suppose that Nelson had covered his relations with Lady Hamilton
-so discreetly that he left about his movements only a vague suspicion
-that he had a wife in every port.  We should think him a far worse
-man than we think him, knowing the whole [[Truth|truth]].  Suppose Parnell
-had kept his secret so [[Well|well]] that his disappearances were put down to
-an unmarried man's most vulgar and purchased type of vice, instead of
-an unmarried man's comparatively pardonable fault of infatuation.
-That great man would seem far less great to us than he does now.
-In our craven commercial public life there are not many of the Parnell
-or Nelson sort:  but even among our lords and millionaires there
-are men, I dare say, who are less despicable than they look.
-If we had the key of their souls we might come upon virtues
-quite unexpected--or at least upon vices more generous.
-In many a complex human scandal, I fancy, the first real slander
-is the acquittal.
-
-But there is another form of this dehumanising defence:
-and that is the defence of the dead.  The idea of observing restraint,
-if not respect, in speaking of the recently departed rests
-on a human instinct altogether deep and free:  but in modern
-practice it is turned exactly the wrong way.  A dead man should
-be sacred because he is a man--perhaps a man for the first [[Time|time]].
-A baby says he is a man; a boy often thinks he is a man; a man
-takes for granted he is a man, and often finds out his mistake.
-Perhaps one never knows what being a man means until the instant
-of [[Death|death]].  Perhaps in a very manly and even military sense all
-life is a learning to die.  If I were asked to say something
-by the [[Grave|grave]] of a man like Pierpont Morgan, I would say:
-"I will not remember his name.  He has fought the great unequal fight;
-and is of more value than he was."
-
-Now turn to the modern newspaper method; the method of weak whitewash.
-The Christian Commonwealth is a paper with a perfectly genuine,
-though hazy and patronising, concern for social improvement.
-Its intentions are certainly not servile, though I think its upshot
-would be.  But it feels as we all do, that the day after poor
-Morgan's [[Death|death]] is not the [[Time|time]] for kicking his corpse about:
-so, being modern, it contrives to speak [[Well|well]] of him in the following
-extraordinary fashion.  "It is easy to denounce the methods by which
-such men amass their vast fortunes, but, making every allowance
-for the injury done to individuals by the often ruthless methods
-such men adopt to gain their ends, the great fact stands out,
-that they are the human agents working out certain economic movements.
-. . . These men are helping to prepare industry for a new form of control
-and ownership.  In the transition stage they amass huge fortunes
-for themselves, and ruin many who are too weak to withstand them,
-but it is doubtful if the sum of their harmful inflections is as
-great as the evils in the same period caused by the great number
-of small competing capitalists."
-
-I shall have much to say of this as a social doctrine in a moment.
-At the start I am only concerned with it as an epitaph.
-In the mere matter of respect for the dead, I say this.  I am ready
-to pass the [[Grave|grave]] of Morgan in a decent [[Silence|silence]], as a Christian [[Grave|grave]].
-The Christian Commonwealth can only think of sacrificing a thousand
-slaves upon it, as if it were a pagan and prehistoric [[Grave|grave]].
-For to justify or palliate the capitalist today is to sacrifice
-a thousand slaves.  My epitaph on Morgan need not even contain
-his name; I would write over his [[Grave|grave]] what I would over my own,
-"Have [[Mercy|mercy]] upon us, miserable sinners."  But just think how the
-Christian Commonwealth epitaph reads, merely as an epitaph!  "Sacred to
-the [[Memory]] of J. Pierpont Morgan:  Who, By Methods Peculiarly Easy
-to Denounce, Amassed a Large Fortune.  Having a Preference
-for Ruthless Methods For the Gaining of His Ends, He Selected
-for Ruin Such Persons as Were Too Weak To Withstand Him.
-He Thus Became The Human Instrument of An Economic and Inhuman Movement.
-He Also Formed Trusts.  For of Such is the Kingdom of Heaven."
-That is the amount of tenderness for the terrible dead that can
-be reached in the modernist manner.  The sacred [[Death|death]] is forgotten,
-but the profane life is excused.
-
-And now for the excuse.  In order to write a polite paragraph
-about a poor old man whose only superiority over any of us
-is that he has passed what we all must [[Fear|fear]], this paper digs up
-the dusty and discredited rubbish of Bellamy:  and maintains
-the proposition that millionaires bring us nearer to Socialism.
-The obvious deduction for a Socialist is that he ought to be,
-in every hour and instant, on the side of the millionaires.
-No man's wage must be increased by a penny, no man's working day
-must be shortened by an hour; for this might delay the swift,
-sweet process by which the whole earth will soon be owned by its
-six most unscrupulous inhabitants.  Then we shall get Socialism.
-I don't see why.  I never did.  But it is [[Self|self]]-evident that,
-if this is the case, every capitalist must be exalted and every
-workman brought low.  The whole argument means nothing unless it
-means that the rich had better smash us all as soon as possible.
-There are some who [[Doubt|doubt]] this concept.  I am one of them.
-We say it would not have been Napoleon's best policy to wait till
-the Allies had conquered him utterly, so that he might only have to
-write one letter, asking them to give him back the whole of Europe.
-We say, in our simple way, that it would not have been wise in Montenegro
-to wait till all the Moslems in Asia were marching upon them;
-so as to abolish [[Islam]] in one [[Well|well]]-expressed proclamation.
-We entertain similar doubts about the [[Sanity|sanity]] of making capitalists
-stronger than any of the past emperors of this earth, and then asking
-them to hand over the only thing for which they have lost their souls.
-
-The final fact is that anyone who subscribes to this epitaph must league
-himself with the forces of evil until something like the Last Judgment.
-He must not merely give up Socialism, which is a doctrine.
-He must also give up Social [[Reform]]--which is a dissipation.
-He must not only abandon the duty of helping the poor;
-he must even tear from his heart the pleasure of tormenting them.
-I see that one paper (the name of which I forget) has even
-addressed an open letter to me on this matter, asking whether
-any of my words (which, I sadly confess, have been many) have born
-any fruit in practice--by which, of course, it means Westminster.
-[[Well]], I am afraid I must confess that my efforts have been barren,
-that I have brought forth no fruit fit for the field of social [[Reform|reform]].
-In all the most powerful modern movements I have been impotent.
-I have never segregated anybody, or tortured anybody,
-or unsexed anybody, or buried anybody alive--to my knowledge.
-I am not a philanthropist.  I do not think any words of mine have
-led to one single man being kept in [[Prison|prison]] beyond his lawful term.
-I [[Doubt|doubt]] if I have succeeded in adding a single lash to the torture
-at the triangles.  I question whether I have succeeded in deducting
-so much as a penny from the tiny fortunes of grooms and housemaids.
-I have cropped no hair off the heads of other people's daughters.
-I have drawn no [[Blood|blood]] from poorer men's backs.  My claim
-to be a Progressive is gone for ever; and I know it [[Well|well]].
-But I am not quite so bitterly opposed to all possible Social [[Reform]]
-as the Christian Commonwealth is.  I agree that men like Morgan
-should be pardoned.  I even agree that, for purposes of [[debate]],
-men like Morgan should be excused.  But I shall deny till [[Death|death]]
-and damnation that men like Morgan should be encouraged.
-And if that epitaph does not mean that men like Morgan should
-be encouraged, it means nothing whatever.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-L'EPITAFFIO DI PIERPONT MORGAN
-
-È abbastanza ovvio che imbiancare un uomo sia l'esatto contrario del lavarlo fino a renderlo candido. La cosa curiosa è che spesso si cerca di imbiancare un uomo, e si fallisce, quando sarebbe stato possibile lavarlo, e in qualche misura riuscirci. La storia vera, se solo il colpevole avesse il [[Courage|coraggio]] di raccontarla, sarebbe spesso assai più umana e perdonabile della rigida, sospettosa finzione che egli racconta al suo posto. Più d'un uomo pubblico, immagino, ha tentato di nascondere il delitto e non è riuscito che a nascondere la scusante. Più d'uno ha cercato di seppellire il peccato e non ha seppellito che la [[Temptation|tentazione]]. Supponiamo che Nelson avesse coperto la sua relazione con Lady Hamilton tanto discretamente da lasciare sui propri movimenti soltanto il vago sospetto di avere una moglie in ogni porto. Lo giudicheremmo un uomo assai peggiore di quanto non lo giudichiamo ora, conoscendo tutta la [[Truth|verità]]. Supponiamo che Parnell avesse serbato il proprio segreto così [[Well|bene]] da far attribuire le sue sparizioni a quel tipo di vizio, comprato e volgarissimo, proprio dello scapolo, invece che a quella colpa relativamente perdonabile, dell'infatuazione, propria dello scapolo. Quel grand'uomo ci parrebbe assai meno grande di quanto ci pare adesso. Nella nostra vile vita pubblica mercantile non abbondano gli uomini della tempra di Parnell o di Nelson: eppure anche fra i nostri lord e i nostri milionari vi sono uomini, oserei dire, meno spregevoli di quanto sembrino. Se avessimo la chiave delle loro anime, vi potremmo scoprire virtù del tutto inattese — o almeno vizi più generosi. In molti intricati scandali umani, immagino, la prima vera calunnia è l'assoluzione.
-
-Ma vi è un'altra forma di questa difesa disumanizzante: ed è la difesa dei morti. L'idea di osservare un certo riserbo, se non un certo rispetto, nel parlare di chi è da poco scomparso poggia su un istinto umano profondo e schietto: ma nella pratica moderna essa viene rivolta esattamente nel senso sbagliato. Un morto dovrebbe essere sacro perché è un uomo — forse un uomo per la prima [[Time|volta]]. Un neonato dice di essere un uomo; un ragazzo spesso crede di essere un uomo; un uomo dà per scontato di essere un uomo, e spesso s'avvede del proprio errore. Forse non si sa mai che cosa significhi essere un uomo fino all'istante della [[Death|morte]]. Forse, in un senso quanto mai virile e persino militare, tutta la vita è un imparare a morire. Se mi si chiedesse di dire qualcosa presso la [[Grave|tomba]] di un uomo come Pierpont Morgan, direi: «Non ricorderò il suo nome. Ha combattuto la grande, impari battaglia; e vale di più di quanto valesse».
-
-Volgiamoci ora al metodo del giornale moderno; il metodo dell'imbiancatura fiacca. Il *Christian Commonwealth* è un periodico animato da una preoccupazione per il miglioramento sociale perfettamente sincera, benché nebulosa e paternalistica. Le sue intenzioni non sono certo servili, per quanto io ritenga che tale ne sarebbe l'esito. Ma esso avverte, come tutti noi avvertiamo, che l'indomani della [[Death|morte]] del povero Morgan non è il [[Time|momento]] di prendere a calci il suo cadavere: e così, da moderno qual è, riesce a parlarne [[Well|bene]] nella seguente straordinaria maniera. «È facile denunciare i metodi con cui simili uomini accumulano le loro immense fortune, ma, tenuto conto d'ogni danno arrecato ai singoli dai metodi spesso spietati che simili uomini adottano per raggiungere i propri fini, resta ben saldo il gran fatto che essi sono gli agenti umani per mezzo dei quali si compiono certi movimenti economici. ... Costoro contribuiscono a preparare l'industria a una nuova forma di controllo e di proprietà. Nella fase di transizione accumulano per sé enormi fortune, e rovinano molti troppo deboli per resistere loro, ma è dubbio che la somma delle loro nocive influenze sia altrettanto grande dei mali causati nel medesimo periodo dalla gran quantità di piccoli capitalisti in concorrenza fra loro».
-
-Avrò molto da dire su tutto ciò come dottrina sociale fra un momento. Per cominciare, me ne occupo soltanto in quanto epitaffio. In fatto di semplice rispetto per i morti, dico questo. Sono pronto a passare davanti alla [[Grave|tomba]] di Morgan in un dignitoso [[Silence|silenzio]], come dinanzi a una [[Grave|tomba]] cristiana. Il *Christian Commonwealth* non sa far altro che pensare di sacrificarvi sopra un migliaio di schiavi, come se fosse una [[Grave|tomba]] pagana e preistorica. Poiché giustificare o attenuare il capitalista, oggi, significa sacrificare un migliaio di schiavi. Il mio epitaffio su Morgan non ha nemmeno bisogno di contenerne il nome; scriverei sulla sua [[Grave|tomba]] ciò che scriverei sulla mia: «Abbi [[Mercy|pietà]] di noi, miseri peccatori». Ma pensate un po' come suona l'epitaffio del *Christian Commonwealth*, semplicemente in quanto epitaffio! «Sacro alla [[Memory|memoria]] di J. Pierpont Morgan: il quale, con metodi singolarmente facili da denunciare, accumulò una vasta fortuna. Avendo una predilezione per i metodi spietati nel conseguimento dei propri fini, elesse alla rovina quelle persone che erano troppo deboli per resistergli. Divenne così lo strumento umano di un movimento economico e disumano. Formò altresì dei trust. Poiché di tali è il Regno dei Cieli». Ecco a quanta tenerezza per i terribili morti si può giungere alla maniera modernista. La sacra [[Death|morte]] viene dimenticata, ma la profana vita viene scusata.
-
-E ora veniamo alla scusa. Per redigere un garbato paragrafo su un povero vecchio la cui unica superiorità su ciascuno di noi consiste nell'aver varcato ciò che tutti dobbiamo [[Fear|temere]], questo giornale disseppellisce la polverosa e screditata paccottiglia di Bellamy: e sostiene la tesi che i milionari ci avvicinano al Socialismo. L'ovvia deduzione, per un socialista, è che egli dovrebbe stare, in ogni ora e in ogni istante, dalla parte dei milionari. Il salario di nessuno deve essere aumentato d'un centesimo, la giornata lavorativa di nessuno deve essere accorciata d'un'ora; giacché ciò potrebbe ritardare il rapido, dolce processo per cui l'intera terra sarà presto posseduta dai suoi sei abitanti più senza scrupoli. Allora avremo il Socialismo. Non vedo perché. Non l'ho mai visto. Ma è [[Self|di per sé]] evidente che, se così stanno le cose, ogni capitalista dev'essere esaltato e ogni operaio abbassato. L'intero argomento non significa nulla, a meno che non significhi che i ricchi farebbero meglio a stritolarci tutti quanto prima. C'è chi [[Doubt|dubita]] di questo concetto. Io sono fra costoro. Diciamo che non sarebbe stata la migliore politica di Napoleone attendere finché gli Alleati non l'avessero interamente sconfitto, così da doversi limitare a scrivere una sola lettera, per chiedere loro di restituirgli l'intera Europa. Diciamo, nella nostra semplice maniera, che non sarebbe stato saggio, per il Montenegro, attendere finché tutti i musulmani dell'Asia non gli marciassero contro, così da abolire l'[[Islam]] con un solo, [[Well|ben]] congegnato proclama. Nutriamo dubbi analoghi sulla [[Sanity|saggezza]] di rendere i capitalisti più potenti di qualsiasi imperatore del passato di questa terra, per poi chieder loro di consegnare l'unica cosa per la quale hanno perduto l'anima.
-
-Il fatto finale è che chiunque sottoscriva questo epitaffio deve allearsi con le forze del male fino a qualcosa di simile al Giudizio Universale. Non deve soltanto rinunciare al Socialismo, che è una dottrina. Deve rinunciare anche alla [[Reform|Riforma]] Sociale — che è una dissipazione. Non deve soltanto abbandonare il dovere di aiutare i poveri; deve persino strapparsi dal cuore il piacere di tormentarli. Vedo che un certo giornale (di cui mi sfugge il nome) mi ha addirittura indirizzato una lettera aperta su questa faccenda, chiedendomi se qualcuna delle mie parole (le quali, lo confesso con tristezza, sono state molte) abbia dato frutto nella pratica — intendendo con ciò, s'intende, Westminster. [[Well|Ebbene]], temo di dover confessare che i miei sforzi sono stati sterili, che non ho prodotto frutto alcuno adatto al campo della [[Reform|riforma]] sociale. In tutti i più potenti movimenti moderni sono stato impotente. Non ho mai segregato nessuno, né torturato nessuno, né evirato nessuno, né sepolto nessuno vivo — che io sappia. Non sono un filantropo. Non credo che alcuna mia parola abbia condotto un solo uomo a essere trattenuto in [[Prison|prigione]] oltre il termine legale. [[Doubt|Dubito]] di essere riuscito ad aggiungere una sola frustata al supplizio dei triangoli. Mi chiedo se sia riuscito a detrarre anche un solo centesimo dalle minuscole fortune degli stallieri e delle cameriere. Non ho tosato un capello dalle teste delle figlie altrui. Non ho tratto [[Blood|sangue]] dalle schiene degli uomini più poveri. La mia pretesa d'essere un Progressista è perduta per sempre; e lo so [[Well|bene]]. Ma non sono così amaramente contrario a ogni possibile [[Reform|Riforma]] Sociale come lo è il *Christian Commonwealth*. Convengo che uomini come Morgan debbano essere perdonati. Convengo persino che, ai fini del [[debate|dibattito]], uomini come Morgan debbano essere scusati. Ma negherò fino alla [[Death|morte]] e alla dannazione che uomini come Morgan debbano essere incoraggiati. E se quell'epitaffio non significa che uomini come Morgan debbano essere incoraggiati, allora non significa proprio nulla.
-
-
-
-<span class="atom-split" data-atom="story_29_the_new_bigotry" data-title="Common Man — The New Bigotry" data-chapter="The New Bigotry" data-kind="story"></span>
-
-
-THE NEW BIGOTRY
-
-I notice with some amusement, both in [[America]] and English literature,
-the rise of a new kind of bigotry.  Bigotry does not consist in a man
-being convinced he is right; that is not bigotry, but [[Sanity|sanity]].
-Bigotry consists in a man being convinced that another man must
-be wrong in everything, because he is wrong in a particular belief;
-that he must be wrong, even in thinking that he honestly believes
-he is right.  The last occasion is one applied mostly to literature
-and the ability of literary men.  And it is all the more like the old
-bigotry because it is in opposition to it.
-
-We all know what used to happen sometimes in the Puritan period;
-or the more critical classicism of the eighteenth century.
-A young idealistic poet would write a copy of verses; mostly verses
-somewhat in this style:
-
-O'er rushing waterfall and verdant grove
-The languid moonlight throws a light of [[Love|love]].
-
-The poet was considered quite respectable; perhaps the poem was even
-a prize poem.  Then it was discovered that the poet, when slightly drunk,
-had expressed doubts about the exact date of the Book of Habakkuk.
-There was a terrible scandal; the youth was hurled from his
-college as an atheist; and then the learned critics went back
-and looked at his poem with a new darkling and suspicious eye.
-The "rushing waterfall", after all, had a very revolutionary sound
-and hinted at pantheistic anarchy.  The phrase "languid moonlight"
-was an appeal to all the most profligate passions.  "Light of [[Love|love]]"
-was a term notoriously of loose significance.
-
-Today it is just the opposite; only equally bigoted.
-A young idealistic poet, full of the new visions of [[Beauty|beauty]],
-writes verses appropriate to such vision; as, for instance:
-
-Bug-[[house]] underbogies belch daybreak back-firing.
-Daylight's a void-vomit; steadying legs to stump.
-
-And all the young critics know he is all right; he has got cosmic rhythm;
-he is a regular guy.
-
-And then a horrid whisper goes round that he was seen outside an
-Episcopal Church near Vermont.  The whole horrid [[Truth|truth]] is soon known.
-He has admitted to a newspaper man that he believes in God.
-Then the young critics go back gloomily and stare at his poetry;
-and, strangely enough, see for the first [[Time|time]] that there was something
-awfully old-fashioned in saying "daylight" when Binx might have
-said "sky-blank"; and, after all, bogies are just the sort of thing
-Episcopalians are forced by their bishops to believe in.
-
-This, though some of the worst examples have occurred in England,
-is a strictly correct [[Biography|biography]] of a man of genius who has come to us
-from [[America]]--Mr. T. S. Eliot.  It would be an exaggeration to say
-that Mr. Eliot was expelled from Harvard for being a High Churchman,
-as Shelley was expelled from [[Oxford]] for being an atheist.
-Mr. Eliot's character was not blasted by a religion until later
-in life, and after he had said all that can be said for modern
-scepticism and [[Despair|despair]].
-
-But this makes it all the funnier.  An English critic actually
-accused him of asking us "to believe the unbelievable".
-Whatever is the sense of calling a thing unbelievable when a man
-like Eliot already believes it.  The author of The Waste Land
-knows all there is to know about scepticism and pessimism;
-why not admit that his beliefs are beliefs, and go back to a proper
-criticism of his literature?
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LA NUOVA BIGOTTERIA
-
-Noto con un certo divertimento, tanto nella letteratura [[America|americana]] quanto in quella inglese, il sorgere di una nuova specie di bigotteria. La bigotteria non consiste nell'essere convinti di aver ragione; questa non è bigotteria, ma [[Sanity|buon senso]]. La bigotteria consiste nell'essere convinti che un altro debba avere torto in ogni cosa, per il solo fatto che ha torto in una particolare credenza; che egli debba sbagliarsi persino nel ritenere di credere in buona fede di aver ragione. Quest'ultimo caso si applica soprattutto alla letteratura e al talento degli uomini di lettere. Ed è tanto più simile alla vecchia bigotteria proprio perché le si oppone.
-
-Sappiamo tutti che cosa accadeva talvolta nell'età puritana; o nel classicismo più rigoroso del Settecento. Un giovane poeta idealista scriveva una serie di versi; per lo più versi press'a poco di questa foggia:
-
-Su cascata spumeggiante e verdeggiante boschetto
-la languida luna versa una luce d'[[Love|amore]].
-
-Il poeta era ritenuto assai rispettabile; forse quei versi vincevano perfino un premio. Poi si scopriva che il poeta, quando era un po' alticcio, aveva espresso dubbi sulla data esatta del Libro di Abacuc. Ne nasceva uno scandalo terribile; il giovane veniva scacciato dal suo collegio come ateo; e allora i dotti critici tornavano a rileggere la sua poesia con occhio nuovo, cupo e sospettoso. La «cascata spumeggiante», dopotutto, aveva un suono assai rivoluzionario e adombrava un'anarchia panteistica. L'espressione «languida luna» era un appello a tutte le passioni più dissolute. «Luce d'[[Love|amore]]» era una locuzione notoriamente di significato equivoco.
-
-Oggi è esattamente l'opposto; ma ugualmente bigotto. Un giovane poeta idealista, colmo delle nuove visioni della [[Beauty|bellezza]], scrive versi consoni a tale visione; come, per esempio:
-
-Manicomio-[[house]] sotto-babau ruttano l'alba a scoppio ritardato.
-La luce del giorno è un vuoto-vomito; gambe che si drizzano per arrancare.
-
-E tutti i giovani critici sanno che è a posto; ha colto il ritmo cosmico; è un tipo in gamba.
-
-E poi comincia a correre un orribile bisbiglio: lo hanno visto fuori da una chiesa episcopaliana presso il Vermont. Ben presto si conosce tutta l'orribile [[Truth|verità]]. Ha confessato a un giornalista di credere in Dio. Allora i giovani critici tornano tetri a fissare la sua poesia; e, cosa abbastanza strana, si accorgono per la prima [[Time|volta]] che c'era qualcosa di terribilmente antiquato nel dire «luce del giorno» quando Binx avrebbe potuto dire «vuoto-cielo»; e, dopotutto, i babau sono proprio il genere di cose in cui gli episcopaliani sono costretti dai loro vescovi a credere.
-
-Questa, per quanto alcuni degli esempi peggiori si siano verificati in Inghilterra, è una [[Biography|biografia]] rigorosamente esatta di un uomo di genio che ci è giunto dall'[[America]]: il signor T. S. Eliot. Sarebbe un'esagerazione affermare che il signor Eliot fu espulso da Harvard per essere un anglicano dell'Alta Chiesa, come Shelley fu espulso da [[Oxford]] per essere ateo. Il carattere del signor Eliot non venne rovinato da una religione se non più tardi nella vita, e dopo che egli ebbe detto tutto quel che si può dire in favore dello scetticismo e della [[Despair|disperazione]] moderni.
-
-Ma tutto ciò lo rende ancora più buffo. Un critico inglese lo ha accusato realmente di chiederci di «credere all'incredibile». Che senso ha mai definire una cosa incredibile, quando un uomo come Eliot già vi crede? L'autore di The Waste Land sa tutto quel che c'è da sapere sullo scetticismo e sul pessimismo; perché non ammettere che le sue credenze sono credenze, e tornare a una critica come si deve della sua letteratura?
-
-
-
-<span class="atom-split" data-atom="story_30_books_for_boys" data-title="Common Man — Books For Boys" data-chapter="Books For Boys" data-kind="story"></span>
-
-
-BOOKS FOR BOYS
-
-A recent correspondence upon what is called pernicious literature has
-given rise to several declarations to the effect that the popular
-literature which is sold to boys in our day is greatly inferior
-to that of two or three decades ago.  At first sight a reflective
-person might be inclined to suggest that perhaps there were more
-psychological elements involved in that far-off boyish enjoyment,
-and in that, as in many other instances of our youthful pleasures,
-we were not so much enjoying the stories as enjoying ourselves.
-It is at least possible that the laudator temporis acti of whom
-we are speaking would regard the actual task of reading through
-those lost romances very much in the same way that he would regard
-the action of a waiter in a restaurant who brought him fourteen
-penny buns and a plate of bull's-eyes.
-
-The mental digestion of boys is as strong as their physical digestion.
-They do not heed the cookery of art any more than the art of cookery.
-They can eat the apples of the tree of knowledge, and they can eat
-them raw.  It is a great mistake to suppose that boys only read
-boyish books.  Not only do they privately revel in their sisters' most
-sentimental novels, but they absorb cartloads of useless information.
-One boy in particular, with whose career from an early age we have
-the best reasons for being familiar, used to read whole volumes
-of Chamber's Encyclopaedia, and of a very musty and unreliable
-[[history|History]] of English Trade.  The thing was a mere brute pleasure
-of reading, a pleasure in leisurely and mechanical receptiveness.
-It was the sort of pleasure that a cow must have in grazing
-all day long.
-
-But when all allowance has been made for the omnivorousness of youth,
-we incline to think that there is probably a considerable amount
-of [[Truth|truth]] in the idea that boys' books have to some extent degenerated.
-They have degenerated probably for the reason that all forms
-of art degenerate, because they are despised.  Probably they
-were less despised in the days when they still had upon them,
-as it were, the glamour of the great masters of historical [[Romance|romance]].
-The spirit of Scott and Ainsworth and Fenimore Cooper remained
-in them even if it was only the reflection of a hundred reflections
-and each in a distorting [[Mirror|mirror]].
-
-No one will ever understand the spirit at the back of popular
-and juvenile literature until he realises one fact, that a large
-amount of it is the result of that enthusiasm of the young reader
-which makes him wish to hear more and more about certain heroes,
-and read more and more of certain types of books.  He dowers
-the creatures of fiction with a kind of boyish [[Immortality|immortality]].
-He is not surprised if Dick Deadshot or Jack Harkaway renews
-his youth through a series of volumes which reaches further than
-the length of the Encyclopaedia Britannica.  These books have
-the vital [[philosophy]] of youth, a [[philosophy]] in which [[Death|death]] does
-not exist, except, indeed, as an external and picturesque incident
-which happens to villains.
-
-The serious student of this class of books and papers will go on
-to observe that a very large mass of such works has arisen directly
-out of the interest taken in some of the creations of great masters.
-An irresponsible writer for boys early in the century continued
-the adventures of [[Pickwick]].  An interminable book of Oriental
-adventure which we read in our boyhood was avowedly a supplement
-to the Arabian Nights, and mingled Aladdin, Sinbad, and Ali Baba
-in one inexhaustible tale.  To take a more vulgar example,
-it is said that "Ally Sloper" is simply an infinitely degraded
-version of Mr. Micawber; the literary zoologist will trace
-the same rudimentary organs, the hat, the tie, and the bald head.
-All this amounts to one of the great laws of the question,
-the fact that the youthful mind takes hold of certain figures,
-insists upon them, [[Tears|tears]] them, as it were, out of the covers of the story,
-and could follow their adventures in any number of day [[Dreams|dreams]].
-Hence one of the essential qualities of this cheap literature--
-its astonishing voluminousness.  A library keeping a record of it
-would need a dome vaster than the Bodleian.
-
-From this, as we have said, it may be inferred that there is likely enough
-to have been some decadence of late years, since we are becoming further
-and further removed from the great historical novelists, who left a kind
-of glow upon all historic fiction.  New literary fashions have arisen,
-but they are scarcely likely to be imitated in the literature of boys.
-No publisher has yet brought out with gaudy-coloured illustrations
-"The Further Adventures of Jude the Obscure".  No penny dreadfuls have
-been devoted to what eventually happened to Pelleas and Melisande.
-And in this manner we reach once more the inevitable conclusion
-about debased forms of art; that they are debased because they
-are not respected.  Everything in the world, from a [[Child|child]] to a form
-of fiction, will be bad until we consent to treat it as good.
-And of all forms of literature in the world, the one most
-grossly neglected, from an artistic point of view, is the boys'
-book of adventure.
-
-It is a very peculiar fact, that while the educated middle-class at
-the present day expends infinite money and trouble upon surrounding
-the [[Child|child]] with the noblest works of art and literature, the boy is in this
-matter treated as if he were a half-witted and inconsiderable savage.
-The wretched infant of four years old is expected to drink in
-the verses of Stevenson and the decorative curves of Walter Crane.
-But when he has imbibed this atmosphere, when his aesthetic hunger
-has by hypothesis been aroused, when his mind has developed with
-the rapid development of boyhood, he is suddenly put off with books
-and papers which are not literature at all.  A [[Child|child]]'s [[Love|love]] for what is
-pretty is sedulously cultivated as the [[Dawn|dawn]] of an aesthetic sense,
-but no one seems to realise that a boy's [[Love|love]] of adventure is
-another aesthetic sense quite equally noble and appropriate.
-A [[Child|child]]'s [[Love|love]] of colour is treated as a spiritual thing,
-a sort of hint of heaven, but a boy's [[Love|love]] of adventure is spoken
-of as if it were a mere brute appetite, excusable in a growing lad.
-If a [[Child|child]] says, "I like the pretty [[Flowers|flowers]]", he is applauded for his
-poetic instinct, but if a boy says, "I like a story about pirates",
-he is treated as if he had asked for another slice of pork.
-
-As long as this view continues there can be no worthy school
-of adventurous fiction.  It must be realised that both the [[Child|child]]'s
-[[Love|love]] of the pretty and the boy's [[Love|love]] of the bold are sound
-and admirable artistic instincts.  Neither of them shows that the
-individual is a cherub who cannot be long for this world, but both
-of them show that he is a [[Well|well]]-equipped and healthy human [[Soul|soul]].
-The [[Child|child]] in the fairy-tale is canonised for running after a butterfly.
-The boy in the penny dreadful is denounced for running away to sea.
-But the sea is more beautiful than any butterflies.
-
-If, then, we are agreed that the first need of the problem is
-to understand once and for all that the [[Love|love]] of adventure is not
-a temporary savagery to be satisfied, but an essential artistic
-tendency to be crowned and brought to consummation, it cannot
-but seriously affect our view of boys' literature as a whole.
-We want to realise that the instinct of day dream and adventure is
-a high spiritual and moral instinct, that it requires neither dilution
-nor excuse, that it has been the mother of all great travellers and
-missionaries and knights errant and the patroness of all the brave.
-The one essential of a writer for boys is that he should not write
-down to them.  He should rather write up, arduously and reverently,
-as [[Well|well]] he may, to the mysterious spirit of youth.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LIBRI PER RAGAZZI
-
-Un recente carteggio sulla cosiddetta letteratura perniciosa ha dato origine a parecchie dichiarazioni, secondo le quali la letteratura popolare che ai giorni nostri si vende ai ragazzi sarebbe assai inferiore a quella di due o tre decenni or sono. A prima vista una persona incline alla riflessione potrebbe suggerire che forse in quel remoto godimento fanciullesco entravano in gioco più elementi psicologici, e che in esso, come in molti altri casi dei nostri piaceri giovanili, non tanto godevamo delle storie quanto di noi stessi. È quanto meno possibile che il laudator temporis acti di cui stiamo parlando considererebbe l'effettiva fatica di leggersi per intero quei romanzi perduti press'a poco nello stesso modo in cui considererebbe il gesto di un cameriere che, in un ristorante, gli portasse quattordici focaccine da un penny e un piatto di caramelle.
-
-La digestione mentale dei ragazzi è vigorosa quanto la loro digestione fisica. Non si curano della cucina dell'arte più di quanto si curino dell'arte della cucina. Sanno mangiare le mele dell'albero della conoscenza, e sanno mangiarle crude. È un grave errore supporre che i ragazzi leggano soltanto libri da ragazzi. Non solo si dilettano in privato dei romanzi più sentimentali delle loro sorelle, ma assorbono carrettate di informazioni inutili. Un ragazzo in particolare, con la cui carriera fin dalla più tenera età abbiamo le migliori ragioni per aver dimestichezza, era solito leggere interi volumi della Chamber's Encyclopaedia e di una assai polverosa e inattendibile [[history|Storia]] del Commercio Inglese. La cosa era un mero, bruto piacere della lettura, un piacere fatto di ricettività indolente e meccanica. Era quel genere di piacere che deve provare una mucca a pascolare tutto il giorno.
-
-Ma, fatta ogni concessione all'onnivoricità della gioventù, siamo inclini a pensare che vi sia probabilmente una considerevole dose di [[Truth|verità]] nell'idea che i libri per ragazzi siano in qualche misura degenerati. Sono degenerati, probabilmente, per la ragione per cui degenerano tutte le forme d'arte: perché vengono disprezzati. Probabilmente erano meno disprezzati nei giorni in cui portavano ancora su di sé, per così dire, l'incanto dei grandi maestri del [[Romance|romanzo]] storico. Lo spirito di Scott, di Ainsworth e di Fenimore Cooper permaneva in essi, foss'anche soltanto il riflesso di cento riflessi, ciascuno rimandato da uno [[Mirror|specchio]] deformante.
-
-Nessuno comprenderà mai lo spirito che sta dietro alla letteratura popolare e giovanile finché non si renderà conto di un fatto: che una larga parte di essa è il frutto di quell'entusiasmo del giovane lettore che lo induce a voler sapere sempre di più di certi eroi, e a leggere sempre di più di certi tipi di libri. Egli dota le creature della finzione di una sorta di fanciullesca [[Immortality|immortalità]]. Non si stupisce se Dick Deadshot o Jack Harkaway rinnovano la propria giovinezza attraverso una serie di volumi che si estende ben oltre la lunghezza dell'Encyclopaedia Britannica. Questi libri possiedono la vitale [[philosophy|filosofia]] della gioventù, una [[philosophy|filosofia]] in cui la [[Death|morte]] non esiste, se non, in verità, come episodio esterno e pittoresco che capita ai malvagi.
-
-Lo studioso serio di questa categoria di libri e giornaletti proseguirà osservando che una grandissima mole di simili opere è sorta direttamente dall'interesse suscitato da alcune creazioni dei grandi maestri. Uno scrittore per ragazzi privo di scrupoli, agli inizi del secolo, proseguì le avventure di [[Pickwick]]. Un interminabile libro di avventure orientali che leggemmo nella nostra fanciullezza si dichiarava apertamente un supplemento alle Mille e una notte, e mescolava Aladino, Sindbad e Alì Babà in un unico, inesauribile racconto. Per prendere un esempio più volgare, si dice che «Ally Sloper» non sia altro che una versione infinitamente degradata del signor Micawber; lo zoologo letterario vi rintraccerà i medesimi organi rudimentali: il cappello, la cravatta e la testa calva. Tutto ciò si riconduce a una delle grandi leggi della questione: il fatto che la mente giovanile si aggrappa a certe figure, insiste su di esse, le [[Tears|strappa]], per così dire, dalle pagine della storia, e ne potrebbe seguire le avventure in un numero sterminato di [[Dreams|sogni]] a occhi aperti. Di qui una delle qualità essenziali di questa letteratura da pochi soldi: la sua sbalorditiva copiosità. Una biblioteca che ne tenesse il catalogo avrebbe bisogno di una cupola più vasta di quella della Bodleian.
-
-Da tutto ciò, come s'è detto, si può inferire che è assai probabile vi sia stata negli ultimi anni una qualche decadenza, giacché ci allontaniamo sempre più dai grandi romanzieri storici, i quali lasciarono una sorta di bagliore su ogni narrativa d'ambientazione storica. Sono sorte nuove mode letterarie, ma è ben poco probabile che vengano imitate nella letteratura per ragazzi. Nessun editore ha ancora dato alle stampe, con illustrazioni dai colori sgargianti, «Le ulteriori avventure di Jude l'oscuro». Nessun romanzetto d'appendice è stato dedicato a ciò che infine accadde a Pelléas e Mélisande. E per questa via giungiamo ancora una volta all'inevitabile conclusione riguardo alle forme avvilite dell'arte: che sono avvilite perché non sono rispettate. Ogni cosa al mondo, da un [[Child|bambino]] a una forma di narrativa, sarà cattiva finché non acconsentiremo a trattarla come buona. E di tutte le forme di letteratura al mondo, quella più grossolanamente trascurata, dal punto di vista artistico, è il libro d'avventura per ragazzi.
-
-È un fatto assai curioso che, mentre ai giorni nostri la colta classe media spende denaro e fatica senza fine per circondare il [[Child|bambino]] delle più nobili opere d'arte e di letteratura, il ragazzo venga in questa materia trattato come se fosse un selvaggio ottuso e trascurabile. Ci si aspetta che il misero pupo di quattro anni si abbeveri ai versi di Stevenson e alle curve decorative di Walter Crane. Ma quando ha respirato quest'atmosfera, quando la sua fame estetica si è, per ipotesi, ridestata, quando la sua mente si è sviluppata con il rapido sviluppo della fanciullezza, ecco che d'improvviso lo si liquida con libri e giornaletti che non sono affatto letteratura. L'[[Love|amore]] del [[Child|bambino]] per ciò che è grazioso viene assiduamente coltivato come l'[[Dawn|alba]] di un senso estetico, ma nessuno pare rendersi conto che l'[[Love|amore]] del ragazzo per l'avventura è un altro senso estetico del tutto ugualmente nobile e appropriato. L'[[Love|amore]] del [[Child|bambino]] per il colore è trattato come cosa spirituale, una sorta di accenno del cielo, ma dell'[[Love|amore]] del ragazzo per l'avventura si parla come se fosse un mero, bruto appetito, scusabile in un giovincello in crescita. Se un [[Child|bambino]] dice: «Mi piacciono i bei [[Flowers|fiori]]», lo si applaude per il suo istinto poetico; ma se un ragazzo dice: «Mi piace una storia di pirati», lo si tratta come se avesse chiesto un'altra fetta di maiale.
-
-Finché durerà questa concezione, non potrà esservi alcuna degna scuola di narrativa d'avventura. Bisogna comprendere che tanto l'[[Love|amore]] del [[Child|bambino]] per ciò che è grazioso quanto l'[[Love|amore]] del ragazzo per ciò che è audace sono istinti artistici sani e ammirevoli. Nessuno dei due dimostra che l'individuo sia un cherubino destinato a non restare a lungo in questo mondo; ma entrambi dimostrano che egli è un'[[Soul|anima]] umana [[Well|ben]] fornita e sana. Il [[Child|bambino]] della fiaba viene canonizzato per aver rincorso una farfalla. Il ragazzo del romanzetto d'appendice viene biasimato per essere scappato per mare. Ma il mare è più bello di qualsiasi farfalla.
-
-Se dunque siamo d'accordo che il primo bisogno del problema è comprendere una volta per tutte che l'[[Love|amore]] dell'avventura non è una selvatichezza temporanea da soddisfare, bensì un'essenziale tendenza artistica da coronare e condurre a compimento, ciò non può non influire seriamente sulla nostra visione della letteratura per ragazzi nel suo complesso. Vogliamo renderci conto che l'istinto del sogno a occhi aperti e dell'avventura è un alto istinto spirituale e morale, che non richiede né diluizioni né scuse, e che è stato la madre di tutti i grandi viaggiatori, missionari e cavalieri erranti, e la patrona di tutti i coraggiosi. L'unica cosa essenziale per chi scrive per i ragazzi è che non scriva rivolgendosi loro dall'alto in basso. Dovrebbe piuttosto scrivere verso l'alto, faticosamente e reverentemente, come [[Well|meglio]] può, verso il misterioso spirito della gioventù.
-
-
-
-<span class="atom-split" data-atom="story_31_the_outline_of_liberty" data-title="Common Man — The Outline Of Liberty" data-chapter="The Outline Of Liberty" data-kind="story"></span>
-
-
-THE OUTLINE OF LIBERTY
-
-There is a quality needed today for the spread of all [[Truth|truth]],
-and especially religious [[Truth|truth]], which is very simple and vivid,
-but which I find it very difficult to fit with a word.
-So many words have become catchwords.
-
-I suppose that our critics, in their learned way, would have recourse
-to the little-known Greek word [[Paradox|paradox]], if I were simply to say
-that they are not quite broad-minded enough to be Catholics.
-In their own jargon, being broad-minded so often means being blank-minded.
-
-If I were to say that they suffer from a lack of [[Imagination|imagination]],
-they might suppose (heaven help them) that I meant that what we
-believe is all imaginary.  Nor indeed do either of these two terms
-define the definite thing I intend.  It would be nearer the mark
-if I said that they cannot see all round a subject; or that they
-cannot see anything against the background of everything else.
-
-The learned man, of what I may call the Cambridge type, is like a man
-who should spend years in making a minute ordnance map of the country
-between Cork and Dublin, and never discover that Ireland is an island.
-It is not a question of understanding something difficult.
-It is rather a question of opening the mind wide enough to understand
-something easy.  It is not to be attained by years of labour;
-it is more likely to be attained in a moment of laziness;
-when the map-maker who has long been poring over the map with his nose
-close to Cork, may lean back for a moment and suddenly see Ireland.
-It is much more difficult to get such men to lean back for a moment
-and see Christendom.
-
-The [[Catholic Church]] is always being defined in terms of the particular
-quarrel that she happens to have with particular people in a
-particular place.  Because the Protestant sects in Northern Europe,
-for one or two centuries, disapproved of rosaries and incense
-and candles and confessional boxes, there was a widespread
-impression that Roman Catholics were simply people who liked
-confessional boxes and candles and incense and rosaries.
-But that is not what a Manichee or a Moslem or a Hindoo or an ancient
-Greek philosopher would say about Roman Catholics.
-
-Buddhists have incense; Moslems have something very like rosaries;
-and hardly any healthy heathen human being on earth could conceive
-why anybody should have any particular hatred of candles.
-Buddhists would say that Catholics were people who insisted
-on a personal God and personal [[Immortality|immortality]].  Moslems would say
-that Catholics were people who believed that God had a Son
-who assumed human form, and who did not think it idolatrous
-that He should afterwards assume pictorial or sculptural form.
-Every group in the world would have its own angle or aspect;
-and the Protestant would hardly recognise the same object which
-he had only considered in his own aspect.
-
-Nevertheless, each of these, taken in itself, is in a sense narrow;
-and to dwell upon it narrows the issue.  What we want is to have
-some general impression of the whole background of humanity,
-especially of heathen humanity, against which we can see the outline
-of the object, as, in the map of Ireland, the island is seen
-against the sea.
-
-Now the real background of all that human heathenry is rather a
-grey background.  There are particular patches, which happen to be close
-to us in place and [[Time|time]], which have been freshly painted in various ways.
-So freshly painted that nobody knows yet how long the colours
-will last.  As the Imperialists wanted to paint the map red,
-so the Internationalists and Idealists now want to paint the map pink.
-But none of them has painted half so much of the map anything as they,
-in their optimism, have sometimes supposed.  And even in the areas
-where a sort of official optimism prevails, as in parts of [[America]],
-there is a great deal more of the old ordinary [[Melancholy|melancholy]] of men than
-anyone could gather from newspaper headlines or political programmes.
-And I believe that the most general [[philosophy]] of men left to themselves,
-and perhaps the most practical illustration of the Fall of Man,
-is a vague impression of Fate.
-
-If a man will really talk to the poor, in almost any country, I think
-he will generally find that they are either Christians or fatalists.
-This fatalism is more or less varied or complicated, of course,
-in various places by various mythologies or philosophies.
-It will generally be found that the mythology is a sort of poetry,
-embodying a worship of the wild forces of [[Nature|nature]]; a [[Nature|nature]]-worship
-which, when broken up, is called polytheism, and, when united,
-is called pantheism.  But there is sometimes very little left
-of theism in pantheism.
-
-Then there are whole districts where there is true theism
-which is, nevertheless, permeated with a mood of fatalism.
-That, I suppose, is true at least of large areas of [[Islam]].
-Then there are what may be called the philosophies of [[Resignation|resignation]],
-which probably cover equally large areas of the ancient
-civilisation of Asia.
-
-We need not insist here on any controversial points against or even
-about these things.  But I take it as certain that all those notes
-of recurrence and cosmic rhythm, and a cycle beginning and ending
-with itself, which repeat themselves so frequently in connection with
-Buddhism and Brahminism and Theosophy, are in a general sense allied
-to an almost impersonal submission to an ultimately impersonal law.
-That is the tone of the whole thing; and, as I have said,
-the tone or tint of it strikes us as rather grey; or at least,
-neutral and negative.
-
-It is the same with almost all we know of the pagan myths and metaphysics
-of antiquity.  It is a modern slander on pagans to represent paganism
-as almost identical with pleasure.  But anyhow, nobody acquainted
-with the great Greek and Latin literature, even in the smallest degree,
-will ever dream of identifying paganism with optimism.
-It would at least be a great deal nearer the [[Truth|truth]] to say that there,
-as everywhere else, the fundamental character of paganism is pessimism.
-But in any case, it can quite fairly be said that it is fatalism.
-
-Upon this grey background there is one splash or star of silver or gold;
-a thing like a flame.  It is quite exceptional and extraordinary.
-Of its many extraordinary characters, this is perhaps the chief;
-that it proclaims Liberty.  Or, as the only true meaning of that term,
-it proclaims Will.  In a strange voice, as of a trumpet from heaven,
-it tells a strange story, of which the very essence is that it
-is made up of Will, or of a free divergence of Wills.
-
-Will made the world; Will wounded the world; the same Divine Will gave
-to the world for the second [[Time|time]] its chance; the same human Will can for
-the last [[Time|time]] make its choice.  That is the real outstanding peculiarity,
-or eccentricity, of the peculiar sect called Roman Catholics.
-And if anyone objects to my limiting so large a conception to
-Roman Catholics, I willingly agree that there are many who value
-it so much that they obviously ought to be Roman Catholics.
-But if anyone says that it is not in fact and [[history]] bound up
-with the [[Faith]] of Roman Catholicism, it is enough to refer him
-to the [[history]] and the facts.
-
-Nobody especially emphasised this spiritual liberty until
-the Church was established.  People began instantly to question
-this spiritual liberty, when the Church began to be broken up.
-The instant a breach, or even a crack, had been made in the dyke
-of Catholicism, there poured through it the bitter sea of Calvinism,
-or in other words, of a very cruel form of fatalism.
-Since that [[Time|time]], it has taken the much duller form of Determinism.
-This sadness and sense of bondage is so general to mankind that it
-immediately made its appearance, when the special spiritual message
-of liberty was silenced or interrupted anywhere.  Wherever that
-message is heard, men think and talk in terms of will and choice;
-and they see no meaning in any of the philosophies of fate,
-whether desperate or resigned.
-
-It is idle to talk to a Catholic about optimism or pessimism;
-for he himself shall decide whether the universe shall be, for him,
-the best or the worst of all possible worlds.  It is useless to tell
-him that he might be more at one with the universal life as a Buddhist
-or a pantheist; for he knows that, in that sense, he might be more
-at one with the universal life as a turnip or a tree.  It is his
-whole [[Hope|hope]] and glory that he is not at one with the universal life;
-but stands out from it, an exception and even a miracle.
-
-There is a great passage in the "Paradiso" of [[Dante]], which I wish I
-knew enough Italian to appreciate or enough English to translate.
-But I would commend it to those who may fancy that my emphasis
-on this exceptional quality is a mere modern whitewashing of a
-medieval superstition; and especially to those who have been
-taught in laborious detail, by learned and very stupid historians,
-to regard medievalism as narrow and enchained.  For it runs
-roughly like this:
-
-The mightiest gift that God of his largesse Made in creation,
-perfect even as He, Most of His substance, and to Him most dear,
-He gave to the Will and it was Liberty.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IL PROFILO DELLA LIBERTÀ
-
-Vi è una qualità di cui oggi si ha bisogno per la diffusione di ogni [[Truth|verità]], e in particolare della [[Truth|verità]] religiosa, una qualità semplicissima e vivida, ma che trovo assai difficile racchiudere in una parola. Tante parole sono ormai diventate slogan.
-
-Suppongo che i nostri critici, alla loro maniera erudita, ricorrerebbero alla poco nota parola greca [[Paradox|paradosso]], se io mi limitassi a dire che non sono abbastanza larghi di mente da poter essere cattolici. Nel loro gergo, avere la mente larga significa così spesso averla vuota.
-
-Se dicessi che soffrono di una mancanza di [[Imagination|immaginazione]], potrebbero supporre (il cielo li aiuti) che io intenda dire che ciò in cui crediamo è tutto immaginario. Né, in verità, alcuno di questi due termini definisce la cosa precisa che ho in mente. Sarei più vicino al segno se dicessi che non sanno vedere un argomento tutt'intorno; o che non sanno vedere alcuna cosa contro lo sfondo di tutto il resto.
-
-L'uomo dotto, di quel tipo che potrei chiamare cantabrigense, somiglia a chi spendesse anni interi nel tracciare una minuziosa carta topografica del territorio compreso fra Cork e Dublino, senza mai scoprire che l'Irlanda è un'isola. Non si tratta di comprendere qualcosa di difficile. Si tratta piuttosto di aprire la mente abbastanza da comprendere qualcosa di facile. Non lo si ottiene con anni di fatica; è più probabile ottenerlo in un momento di pigrizia, quando il cartografo che a lungo si è chinato sulla carta col naso incollato a Cork può abbandonarsi un istante all'indietro e vedere d'un tratto l'Irlanda. È assai più difficile indurre simili uomini ad abbandonarsi un istante all'indietro e vedere la Cristianità.
-
-La [[Catholic Church|Chiesa cattolica]] viene sempre definita nei termini della particolare contesa che le tocca avere con persone particolari in un luogo particolare. Poiché le sette protestanti dell'Europa settentrionale, per uno o due secoli, disapprovarono i rosari, l'incenso, le candele e i confessionali, si diffuse l'impressione che i cattolici romani fossero semplicemente gente cui piacevano i confessionali, le candele, l'incenso e i rosari. Ma non è ciò che direbbe dei cattolici romani un manicheo, un musulmano, un indù o un antico filosofo greco.
-
-I buddisti hanno l'incenso; i musulmani hanno qualcosa di molto simile ai rosari; e non v'è quasi essere umano pagano e sano su questa terra che possa concepire perché mai qualcuno debba nutrire un odio particolare verso le candele. I buddisti direbbero che i cattolici sono gente che insiste su un Dio personale e su un'[[Immortality|immortalità]] personale. I musulmani direbbero che i cattolici sono gente che crede che Dio abbia avuto un Figlio il quale assunse forma umana, e che non ritiene idolatrico che egli assuma poi forma pittorica o scultorea. Ogni gruppo del mondo avrebbe la sua propria angolatura o prospettiva; e il protestante a stento riconoscerebbe il medesimo oggetto che aveva considerato soltanto nella sua propria prospettiva.
-
-Nondimeno ciascuna di queste, presa in sé, è in un certo senso angusta; e soffermarvisi restringe la questione. Ciò che ci occorre è avere una qualche impressione generale dell'intero sfondo dell'umanità, e specialmente dell'umanità pagana, contro il quale si possa scorgere il profilo dell'oggetto, come, nella carta dell'Irlanda, l'isola si scorge contro il mare.
-
-Ora, il vero sfondo di tutta quella paganità umana è piuttosto uno sfondo grigio. Vi sono chiazze particolari, che si trovano vicine a noi nello spazio e nel [[Time|tempo]], le quali sono state ridipinte di fresco in vari modi. Ridipinte così di fresco che nessuno sa ancora quanto dureranno i colori. Come gli imperialisti volevano dipingere di rosso la carta, così gli internazionalisti e gli idealisti vogliono ora dipingerla di rosa. Ma nessuno di loro ha dipinto neppure la metà di quanto, nel loro ottimismo, hanno talora supposto. E persino nelle aree dove prevale una sorta di ottimismo ufficiale, come in certe parti d'[[America]], c'è molta più della vecchia, ordinaria [[Melancholy|malinconia]] degli uomini di quanta se ne potrebbe dedurre dai titoli dei giornali o dai programmi politici. E credo che la più generale [[philosophy|filosofia]] degli uomini lasciati a se stessi, e forse la più pratica illustrazione della Caduta dell'Uomo, sia una vaga impressione di Fato.
-
-Se un uomo vorrà davvero parlare coi poveri, in quasi ogni paese, credo che generalmente troverà che essi sono o cristiani o fatalisti. Questo fatalismo è più o meno vario e complicato, s'intende, nei diversi luoghi, da diverse mitologie o filosofie. Generalmente si scoprirà che la mitologia è una specie di poesia, che incarna un culto delle forze selvagge della [[Nature|natura]]; un culto della [[Nature|natura]] che, quando si frammenta, si chiama politeismo, e, quando si unifica, si chiama panteismo. Ma talvolta di teismo, nel panteismo, resta ben poco.
-
-Vi sono poi intere regioni dove esiste un vero teismo che è nondimeno permeato da un umore di fatalismo. Ciò, suppongo, è vero almeno per vaste aree dell'[[Islam]]. Vi sono poi quelle che si possono chiamare le filosofie della [[Resignation|rassegnazione]], che probabilmente coprono aree altrettanto vaste dell'antica civiltà dell'Asia.
-
-Non occorre qui insistere su alcun punto controverso contro queste cose, e nemmeno intorno ad esse. Ma do per certo che tutte quelle note di ricorrenza e di ritmo cosmico, e di un ciclo che comincia e finisce in se stesso, che si ripetono così di frequente a proposito del buddismo, del brahmanesimo e della teosofia, sono in senso generale imparentate con una sottomissione quasi impersonale a una legge in ultima analisi impersonale. È questo il tono dell'intera faccenda; e, come ho detto, il tono o la tinta di essa ci colpisce come piuttosto grigia; o almeno neutra e negativa.
-
-Lo stesso avviene per quasi tutto ciò che sappiamo dei miti e della metafisica dell'antichità pagana. È una calunnia moderna sui pagani rappresentare il paganesimo come pressoché identico al piacere. Ma comunque, nessuno che conosca la grande letteratura greca e latina, sia pure nella misura più minima, sognerà mai di identificare il paganesimo con l'ottimismo. Sarebbe quantomeno assai più vicino alla [[Truth|verità]] dire che lì, come ovunque altrove, il carattere fondamentale del paganesimo è il pessimismo. Ma in ogni caso, si può ben dire con equità che è il fatalismo.
-
-Su questo sfondo grigio v'è uno schizzo, una stella d'argento o d'oro; una cosa simile a una fiamma. È del tutto eccezionale e straordinaria. Fra i suoi molti caratteri straordinari, questo è forse il principale: che proclama la Libertà. O, come unico vero significato di quel termine, proclama la Volontà. Con voce strana, come di tromba dal cielo, narra una strana storia, la cui essenza stessa è che è fatta di Volontà, o di una libera divergenza di Volontà.
-
-La Volontà fece il mondo; la Volontà ferì il mondo; la medesima Volontà divina diede al mondo per la seconda [[Time|volta]] la sua opportunità; la medesima Volontà umana può per l'ultima [[Time|volta]] compiere la sua scelta. Ecco la vera, spiccata peculiarità, o eccentricità, della peculiare setta chiamata dei cattolici romani. E se qualcuno obietta al mio limitare una concezione così vasta ai cattolici romani, convengo volentieri che vi sono molti che la stimano tanto da dover evidentemente essere cattolici romani. Ma se qualcuno dice che essa non è di fatto e nella [[history|storia]] legata alla [[Faith|Fede]] del cattolicesimo romano, basta rinviarlo alla [[history|storia]] e ai fatti.
-
-Nessuno pose particolarmente in rilievo questa libertà spirituale finché non fu istituita la Chiesa. La gente cominciò all'istante a mettere in dubbio questa libertà spirituale, quando la Chiesa cominciò a frantumarsi. Nell'istante in cui una breccia, o anche solo una crepa, si aprì nella diga del cattolicesimo, vi si riversò dentro l'amaro mare del calvinismo, ossia, in altre parole, di una forma crudelissima di fatalismo. Da quel [[Time|tempo]] in poi, esso ha assunto la forma assai più scialba del determinismo. Questa tristezza e questo senso di schiavitù sono così generali nel genere umano che fecero immediatamente la loro comparsa non appena lo speciale messaggio spirituale di libertà fu, in qualche luogo, messo a tacere o interrotto. Ovunque quel messaggio venga udito, gli uomini pensano e parlano in termini di volontà e di scelta; e non trovano alcun senso in nessuna delle filosofie del fato, siano esse disperate o rassegnate.
-
-È vano parlare a un cattolico di ottimismo o di pessimismo; poiché sarà lui stesso a decidere se l'universo sarà, per lui, il migliore o il peggiore dei mondi possibili. È inutile dirgli che potrebbe essere più tutt'uno con la vita universale in quanto buddista o panteista; poiché egli sa che, in quel senso, potrebbe essere più tutt'uno con la vita universale in quanto rapa o albero. È tutta la sua [[Hope|speranza]] e la sua gloria il non essere tutt'uno con la vita universale; ma l'ergersi al di fuori di essa, un'eccezione e persino un miracolo.
-
-V'è un grande passo nel «Paradiso» di [[Dante]], che vorrei conoscere l'italiano abbastanza per apprezzare, o l'inglese abbastanza per tradurre. Ma lo raccomanderei a coloro che potessero immaginare che la mia insistenza su questa qualità eccezionale non sia che una moderna imbiancatura di una superstizione medievale; e specialmente a coloro cui fu insegnato, in laborioso dettaglio, da storici dotti e assai stolti, a considerare il medioevo come angusto e incatenato. Poiché suona all'incirca così:
-
-Lo maggior don che Dio per sua larghezza Fesse creando, e a la sua bontate Più conformato, e quel ch'e' più apprezza, Fu de la volontà la libertate.
-
-
-
-<span class="atom-split" data-atom="story_32_a_note_on_nudism" data-title="Common Man — A Note On Nudism" data-chapter="A Note On Nudism" data-kind="story"></span>
-
-
-A NOTE ON NUDISM
-
-There is one little habit of some of the most intelligent modern
-writers against which I should like to protest.  It consists
-of flatly refusing to state somebody else's opinion as it stands;
-and consider it on its own merits.  The modern writer must always
-assume that it is a choice between his own extreme opinion and
-something at the other extreme.  I found a curious example in a very
-excellent book by Miss Cicely Hamilton called Modern Germanies.
-She was referring to the sect of the Nudists, who have revived
-the ancient heresy of the Adamites and go about without any clothes,
-taking themselves very seriously; as if [[Nakedness|nakedness]] were a new invention.
-I think Miss Hamilton really hesitated a little, being moved by her
-instincts as a civilised person to laugh, and by her instincts
-as a progressive person to applaud.  What then does she do?
-She immediately repeats the old story that in Paul et Virginie,
-the very artificial sentimental [[Novel|novel]] of the eighteenth century,
-the heroine is drowned because she refuses to take off her clothes.
-She then adds that "if she has to choose" between Virginie and some German
-flapper who finds it more comfortable to have no clothes to flap, she will
-choose the latter.  But, first of all, why should she "have to choose"?
-Why should she not consider Nudism on its own merits; and the normal
-view of clothes, among sane people, also on its own merits?
-If I have to judge a drunkard, I will judge him without dragging
-in the comparison of a mad fakir who deliberately died of thirst
-in the [[Desert|desert]].  If I have to judge a miser, I will call him a miser;
-despite the possible existence of an insane and intoxicated nobleman
-in Vienna, who poured ten thousand gold coins down a drain.
-I cannot see why Miss Hamilton should call in one extravagance
-merely to justify another.
-
-Next, if she really does suppose that normal, traditional or Christian
-[[morality]] are represented by Virginie, she is probably quite wrong.
-Most Christian authorities would say that her notion of sacrifice
-came very near to the sin of [[suicide]].  For Paul et Virginie was
-not written in a Christian period but in a very pagan period,
-when pre-Revolutionary France was in [[Love|love]] with the pagan Stoics
-who did not disapprove of [[suicide]].  The story itself is largely
-founded on an old classical [[Romance|romance]].  It cannot be taken as typical
-of modern [[Christianity]], or even of medieval [[Christianity]].
-It is only fair to remember that in this sense Virginie is a
-heathen heroine; and Godiva was a Christian heroine.
-
-Lastly, I am not sure I should choose the German flapper,
-even if I were driven to the choice.  We may think a sacrifice
-is made to a mistaken code of [[Honour|honour]]; but there is the sacrifice;
-and there is the [[Honour|honour]].  We have no reason to suppose that
-the Nudist even knows what we mean by [[Honour|honour]].  We know nothing
-about her, except that she does not know what we mean by dignity.
-As a plain piece of practical psychology, I think it extremely
-likely that the poor mistaken maiden, who would die for her dignity,
-would also die for her country, would die for her friends,
-would die for her [[Faith|faith]] or promise, or any worthy obligation.
-We know nothing about the other woman, except that (like the pig
-and other [[Animals|animals]]), she feels more comfortable without clothes.
-It seems to me an insufficient basis for moral confidence.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-UNA NOTA SUL NUDISMO
-
-C'è una piccola abitudine di alcuni fra i più intelligenti scrittori moderni contro la quale vorrei protestare. Consiste nel rifiutarsi recisamente di esporre l'opinione altrui così com'è, e di considerarla per quello che vale in sé. Lo scrittore moderno deve sempre presupporre che si tratti di scegliere fra la propria opinione estrema e qualcosa che sta all'estremo opposto. Ne ho trovato un curioso esempio in un libro davvero eccellente della signorina Cicely Hamilton, intitolato *Modern Germanies*. Vi si riferiva alla setta dei nudisti, i quali hanno fatto rinascere l'antica eresia degli adamiti e vanno in giro senza alcun vestito, prendendosi molto sul serio, come se la [[Nakedness|nudità]] fosse una nuova invenzione. Credo che la signorina Hamilton abbia in realtà esitato un poco, sospinta dal suo istinto di persona civile a ridere, e dal suo istinto di persona progressista ad applaudire. Che fa allora? Ripete immediatamente la vecchia storia secondo cui in *Paul et Virginie*, quel [[Novel|romanzo]] settecentesco tanto artificioso e sentimentale, l'eroina annega perché si rifiuta di togliersi i vestiti. Aggiunge poi che, «dovendo scegliere» fra Virginie e una qualche svampita tedesca che trova più comodo non avere vestiti da sventolare, sceglierà quest'ultima. Ma, in primo luogo, perché mai dovrebbe «dover scegliere»? Perché non considerare il nudismo per quello che vale in sé, e la concezione normale dei vestiti, propria delle persone sane, anch'essa per quello che vale in sé? Se devo giudicare un ubriacone, lo giudicherò senza tirare in ballo il paragone con un folle fachiro che si è deliberatamente lasciato morire di sete nel [[Desert|deserto]]. Se devo giudicare un avaro, lo chiamerò avaro, malgrado la possibile esistenza di un nobile pazzo e ubriaco a Vienna, che ha gettato in un tombino diecimila monete d'oro. Non riesco a capire perché la signorina Hamilton debba invocare una stravaganza soltanto per giustificarne un'altra.
-
-In secondo luogo, se davvero suppone che la [[morality|morale]] normale, tradizionale o cristiana sia rappresentata da Virginie, probabilmente si sbaglia di grosso. La maggior parte delle autorità cristiane direbbe che la sua idea di sacrificio si accostava molto al peccato del [[suicide|suicidio]]. Perché *Paul et Virginie* non fu scritto in un'epoca cristiana, ma in un'epoca assai pagana, quando la Francia pre-rivoluzionaria era [[Love|innamorata]] degli stoici pagani, i quali non disapprovavano il [[suicide|suicidio]]. La storia stessa è in gran parte fondata su un antico [[Romance|romanzo]] classico. Non la si può prendere come tipica del [[Christianity|cristianesimo]] moderno, e nemmeno del [[Christianity|cristianesimo]] medievale. È giusto ricordare che, in questo senso, Virginie è un'eroina pagana; e Godiva era un'eroina cristiana.
-
-Infine, non sono affatto sicuro che sceglierei la svampita tedesca, quand'anche fossi costretto alla scelta. Possiamo pensare che un sacrificio sia offerto a un codice d'[[Honour|onore]] sbagliato; ma resta il sacrificio, e resta l'[[Honour|onore]]. Non abbiamo alcun motivo di supporre che la nudista sappia nemmeno che cosa intendiamo per [[Honour|onore]]. Di lei non sappiamo nulla, se non che ignora che cosa intendiamo per dignità. Come semplice dato di psicologia pratica, ritengo estremamente probabile che la povera fanciulla in errore, che sarebbe morta per la propria dignità, sarebbe anche morta per la propria patria, sarebbe morta per i propri amici, sarebbe morta per la propria [[Faith|fede]] o per una promessa, o per qualsiasi obbligo degno. Dell'altra donna non sappiamo nulla, se non che (come il maiale e gli altri [[Animals|animali]]) si sente più a proprio agio senza vestiti. Mi pare una base insufficiente per riporvi una fiducia morale.
-
-
-
-<span class="atom-split" data-atom="story_33_consulting_the_encyclopaedia" data-title="Common Man — Consulting The Encyclopaedia" data-chapter="Consulting The Encyclopaedia" data-kind="story"></span>
-
-
-CONSULTING THE ENCYCLOPAEDIA
-
-The Historical Student will raise his refined eyebrows if I say
-that a Catholic is an Encyclopaedist.  The name of Encyclopaedism
-was given in the eighteenth century to the most coldly eager of
-the enemies of Catholicism.  And even now it is generally believed
-that we bow submissively before the [[Storm|storm]] of the [[ephemeral]] Encyclical,
-but dare not open the scientific and solid Encyclopaedia--
-which, by the way, is generally at any given moment much more out
-of date than the Encyclical.
-
-It is none the less true that the [[Catholic Church]] presents itself,
-though on a higher plane and plan, in a certain [[Double|double]] character to which
-perhaps the nearest natural parallel is the use of an encyclopaedia.
-For it is the test of a good encyclopaedia that it does two rather
-different things at once.  The man consulting it finds the thing he wants;
-he also finds how many thousand things there are that he does not want.
-It advises the particular man upon his particular problem,
-though it were quite a private problem, almost as if it were giving
-private advice.  And the man must be so far touched to some tinge
-of healthy [[Humility|humility]], if it be only the admission that he does
-not know everything, and must seek outside himself for something.
-Even if he is so ill-advised as to consult a medical work of reference
-for the proper proportions of hyoscine for the poisoning of an aunt,
-he must be so far in a pious and respectful attitude and accepting
-something upon a sort of authority.
-
-I remember a man who told me he never accepted anything on any
-sort of authority; I also remember asking him whether he ever
-consulted Bradshaw, or whether he insisted on travelling by every
-train first, to see whether it was safe to travel by it.
-The [[Journey|journey]] itself might be highly private, the visit to the aunt
-almost pressingly private, but he would not evolve a railway train
-entirely out of his private judgment.
-
-But a work of reference works in another way also.  It reminds
-the traveller in the train that there are a good many other trains
-full of travellers.  It reminds the neoethical nephew that there
-are a good many different words in the dictionary.  In his search
-for hyoscine he will pass carelessly over the honey of Hymettus,
-and think it needless to dwell on the life of Heliogabalus or the science
-of hydraulics.  And thus he will learn the same lesson in another way;
-the somewhat difficult lesson that he is nobody except himself.
-
-Those two discoveries commonly combine in a [[conversion]];
-and this is perhaps the most workable framework in which to state
-the two chief elements of my own.  There was first the relation
-of Catholicism to my own original and personal problem; and there
-was a second rather curious and illuminating illustration of the
-necessity of keeping it in proportion to all the other problems,
-the problems of all the other people.
-
-Now all the very varied types of people who sooner or later draw
-near to the Catholic [[Faith]] have moved towards it from the most
-widely different standpoints, across most varying distances,
-and rejecting or renewing or reshaping the most queerly contrasted
-types of non-Catholic thought.  My own thought, when it was
-not yet Catholic, was often blasted with the name of Optimist;
-but it was not quite so bad as that sounds today.  It was an attempt
-to hold on to religion by the thread of thanks for our creation;
-by the praise of existence and of created things.  And the curious
-part of it is that I found that this piece of private judgment,
-or private nonsense, was really much more true than I ever thought
-it was; and yet, if that [[Truth|truth]] were left to stand [[Alone|alone]], it would
-be a complete falsehood.
-
-For the sake of illustration, or in a rather special sense
-of illumination, I will take the metaphor of a [[Window|window]]; a thing
-which always had, and still has, an almost weirdly vivid effect
-on my own [[Imagination|imagination]].  My own original view, which would originally
-have been an entirely non-Catholic if not anti-Catholic view,
-might be roughly stated thus.  "After all, what could be more mystical
-or magical than ordinary daylight coming in through an ordinary [[Window|window]]?
-Why should anybody want a new heaven shining on a new earth;
-why need they dream of strange [[Stars|stars]] or miraculous flames, or the sun
-and [[Moon|moon]] turned to [[Blood|blood]] and darkness, in order to imagine a portent?
-The mere fact of existence and experience is a perpetual portent.
-Why should we ever ask for more?"
-
-There is an old literary joke or game, familiar I think among
-the transcendental tricks of the Cavalier poets; a game that is called
-echo verses.  It is a sort of punning upon the last syllable of a word;
-by which Echo is made to answer mockingly the question asked
-in the line of verse.  Thus, to transfer it to a modern topic,
-the poet might ask, "Say, what high [[Hope|hope]] is founded on [[Eugenics|eugenics]]?"
-And the obliging echo would answer, "Nix"; or a paean in praise
-of some Socialist or ex-Socialist statesman would begin with
-the line, "Labour's great leader; mighty Democrat", and end with
-the repetition, "Rat".
-
-I am haunted by this parallel in the curious logical answer to my
-own question; which was at once a repetition and a contradiction
-and a completion.  For it seemed to me that when I asked that question,
-"Why is not the daylight enough?" the ancient voice of some mystery
-such as an old religion answered my words merely by repeating them,
-"Why is not the daylight enough?"  And when I said, "Why should
-not that wonderful white [[Fire|fire]], breaking through the [[Window|window]],
-inspire us every day like an ever-returning miracle?" the echo
-out of that old crypt or cavern only answered, "Why not indeed?"
-
-And, the more I thought of it, the more I thought that there was the hint
-of some strange answer in the very fact that I had to ask the question.
-I had not lost, and I have never lost, the conviction that such
-primal things are mysterious and amazing; but if they were amazing,
-why did anybody have to remind us that they were amazing?
-Why was there, as I had already realised that there certainly was,
-a sort of daily fight to appreciate the daylight; to which we had to
-summon all [[Imagination|imagination]] and poetry and the labour of the arts to aid us?
-If the first imaginative instinct was right, it seemed clearer
-and clearer that something else was wrong.  And as I indignantly
-denied that there was anything wrong with the [[Window|window]], I eventually
-concluded that there was something wrong with me.
-
-In this case, the divine dictionary had answered my own personal question
-as directly and even personally as if the answer had been written for me.
-It justified the instinct that inspired me to accept the daylight as a
-divine reality; but it also solved the problem that puzzled me about
-the difficulty of thus accepting the daylight all day and every day.
-Creation was of the Creator and declared as good; the power in it could
-be praised by angels forever and by the sons of God shouting for joy.
-If we were ourselves only occasionally overheard in the act of shouting
-for joy, it was because we were only partially or imperfectly the sons
-of God; not indeed wholly disinherited, but not wholly domesticated.
-In short, we suffered by the Fall or [[Original Sin]]; but it is important
-to note that this is not an answer to the particular question,
-except in the form of the more moderate Catholic doctrine,
-and not the old pessimist Protestant doctrine of the Fall.
-
-This particular problem arose entirely out of the fact that man
-is imperfect; but not, in the pessimist sense, perfectly imperfect.
-The whole [[Paradox|paradox]] is in the fact that a part of his mind remains
-almost perfect; and he can perpetually perceive what he cannot
-perpetually enjoy.  I was as certain that existence is ecstatically
-more excellent than non-existence as I was that plus two is
-different from minus two.  Only there is a practical psychological
-difficulty about always going into ecstasies over this fact.
-Man is not symmetrically unsymmetrical; he is a sort of one-eyed
-creature ever since he fought a duel with the devil; and the one eye
-sees the eternal light eternally, while the other has grown tired
-and blinks or is almost blind.  Thus the authority solved this
-private problem, not by denying the [[Truth|truth]] of my private judgment,
-but by adding to it the larger and more general judgment of the Fall.
-
-And then, in the very act of understanding my own little
-private problem, I understood the public authority which I have
-compared to an encyclopaedia.  Here there were thousands of other
-private problems solved for thousands of other private persons;
-masses of them had nothing to do with my own case at all;
-but one of them turned and confronted my own case in a curious way.
-I began to realize that it would not do to act as so many of the most
-brilliant men of my [[Time|time]] had acted.  It was not enough for a man
-to value a [[Truth|truth]] merely because he had picked it up by himself;
-to take it away with him and turn it into a private system;
-at the best into a [[philosophy]] and at the worst into a sect.
-He was very proud of answering his own question without the help
-of an encyclopaedia; but he did not even pretend to answer all
-the other questions in the encyclopaedia.
-
-Now I felt very strongly that there ought to be answers, not only
-to all the other questions which all the other people were asking,
-but also answers to other questions which I should ask myself.
-And the moment I began to think about these other problems I saw at
-once that I could not even satisfy myself with the solution of one of
-those problems.  The practical example which occurred to me was this.
-I said to myself; it is all very [[Well|well]] to say that the miracle
-of daylight coming through a [[Window|window]] ought to be enough to make
-a man [[Dance|dance]] with joy.  But suppose another man uses your argument
-as a justification for putting [[Innocent|innocent]] men in [[Prison|prison]] for life,
-in a cell with one [[Window|window]], and then leaving them to [[Dance|dance]].
-What will become of all your own denunciations of [[Slavery|slavery]] and
-the oppression of the poor, when that highly practical statesman
-has founded a new commonwealth on your new creed?
-
-And then I think there spread out before me, like a vast dazzling
-plan with innumerable details, some vision of the thousand things
-that have to be interrelated and balanced in Catholic thought;
-justice as [[Well|well]] as joy; liberty as [[Well|well]] as light; and I felt certain
-that the mere proportion of all these things, not the negation
-of any of them, needed, to harmonize it and hold it steady,
-a power and a presence mightier than the mind of any mortal man.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-CONSULTANDO L'ENCICLOPEDIA
-
-Lo Studioso di storia inarcherà le sue sopracciglia raffinate se dirò che un cattolico è un enciclopedista. Il nome di enciclopedismo fu dato nel Settecento ai più freddamente zelanti fra i nemici del cattolicesimo. E persino oggi si crede comunemente che noi ci inchiniamo sottomessi dinanzi alla [[Storm|tempesta]] dell'[[ephemeral|effimera]] enciclica, ma non osiamo aprire la scientifica e solida enciclopedia — la quale, sia detto per inciso, in un qualsiasi momento dato è di norma assai più fuori moda dell'enciclica stessa.
-
-Non è per questo meno vero che la [[Catholic Church|Chiesa cattolica]] si presenta, benché su un piano e un disegno più alti, con un certo [[Double|duplice]] carattere di cui forse il parallelo naturale più prossimo è l'uso di un'enciclopedia. Poiché è la prova del valore di una buona enciclopedia che essa faccia due cose alquanto diverse in una volta sola. L'uomo che la consulta trova la cosa che cerca; e trova insieme quante migliaia di cose ci siano che egli non cerca affatto. Essa consiglia il singolo uomo sul suo singolo problema, fosse pure un problema del tutto privato, quasi come se gli desse un consiglio riservato. E l'uomo dev'essere fino a quel punto toccato da qualche sfumatura di sana [[Humility|umiltà]], non foss'altro che nell'ammettere di non sapere ogni cosa, e di dover cercare fuori di sé qualcosa. Perfino se è tanto mal consigliato da consultare un'opera di medicina per le giuste dosi di ioscina con cui avvelenare una zia, egli deve pur trovarsi fino a quel punto in un atteggiamento pio e rispettoso, accettando qualcosa in virtù di una sorta di autorità.
-
-Ricordo un uomo che mi disse di non accettare mai nulla in virtù di nessuna sorta di autorità; ricordo anche di avergli chiesto se consultasse mai il Bradshaw, oppure se pretendesse di viaggiare prima con ogni treno, per vedere se fosse sicuro viaggiarci. Il [[Journey|viaggio]] in sé poteva essere del tutto privato, la visita alla zia quasi impellentemente privata, ma egli non avrebbe fatto scaturire un treno interamente dal suo giudizio privato.
-
-Ma un'opera di consultazione opera anche in un altro modo. Ricorda al viaggiatore in treno che vi sono parecchi altri treni gremiti di viaggiatori. Ricorda al neoetico nipote che vi sono parecchie parole diverse nel dizionario. Nella sua ricerca della ioscina egli scorrerà con distrazione sul miele dell'Imetto, e riterrà superfluo indugiare sulla vita di Eliogabalo o sulla scienza dell'idraulica. E così apprenderà la medesima lezione per un'altra via; la lezione alquanto ardua di non essere nessun altro se non se stesso.
-
-Quelle due scoperte comunemente si combinano in una [[conversion|conversione]]; e questa è forse la cornice più maneggevole entro cui esporre i due elementi principali della mia. Vi fu anzitutto il rapporto del cattolicesimo con il mio proprio problema originario e personale; e vi fu una seconda illustrazione, alquanto curiosa e illuminante, della necessità di tenerlo in proporzione con tutti gli altri problemi, i problemi di tutte le altre persone.
-
-Ora, tutti i tipi assai svariati di persone che presto o tardi si accostano alla [[Faith|Fede]] cattolica vi si sono mossi incontro dai punti di vista più diversi, attraverso le distanze più varie, respingendo o rinnovando o rimodellando i tipi più stranamente contrastanti di pensiero non cattolico. Il mio proprio pensiero, quando non era ancora cattolico, fu spesso bollato col nome di ottimismo; ma non era poi così cattivo come suona oggi. Era un tentativo di tenermi aggrappato alla religione mediante il filo della gratitudine per la nostra creazione; mediante la lode dell'esistenza e delle cose create. E la parte curiosa è che scoprii come questo pezzo di giudizio privato, o di privata insensatezza, fosse in realtà assai più vero di quanto avessi mai pensato; e tuttavia, se quella [[Truth|verità]] fosse lasciata a reggersi [[Alone|da sola]], sarebbe una completa falsità.
-
-A titolo di illustrazione, o in un senso alquanto speciale di illuminazione, prenderò la metafora di una [[Window|finestra]]; una cosa che ebbe sempre, e ha tuttora, un effetto quasi stranamente vivido sulla mia [[Imagination|immaginazione]]. La mia veduta originaria, che in origine sarebbe stata una veduta interamente non cattolica se non anticattolica, potrebbe grosso modo enunciarsi così. «Dopo tutto, cosa potrebbe esserci di più mistico o magico della comune luce del giorno che entra attraverso una comune [[Window|finestra]]? Perché mai qualcuno dovrebbe volere un cielo nuovo che risplenda su una terra nuova; perché avrebbe bisogno di sognare [[Stars|stelle]] strane o fiamme miracolose, o il sole e la [[Moon|luna]] mutati in [[Blood|sangue]] e in tenebra, per immaginare un prodigio? Il mero fatto dell'esistenza e dell'esperienza è un prodigio perpetuo. Perché mai dovremmo chiedere di più?»
-
-C'è un vecchio gioco o scherzo letterario, familiare credo tra i trucchi trascendentali dei poeti cavalieri; un gioco che si chiama versi a eco. È una sorta di bisticcio sull'ultima sillaba di una parola; per cui l'Eco è indotta a rispondere beffardamente alla domanda posta nel verso. Così, per trasferirlo a un tema moderno, il poeta potrebbe chiedere: «Dimmi, quale alta [[Hope|speranza]] si fonda sull'[[Eugenics|eugenetica]]?» E l'Eco compiacente risponderebbe: «Nix»; oppure un peana in lode di qualche statista socialista o ex socialista comincerebbe col verso «Grande capo dei Lavoratori; possente democratico», e finirebbe con la ripetizione: «Ratto».
-
-Sono ossessionato da questo parallelo nella curiosa risposta logica alla mia stessa domanda; risposta che fu insieme una ripetizione e una contraddizione e un compimento. Poiché mi parve che, quando posi quella domanda — «Perché la luce del giorno non basta?» — l'antica voce di qualche mistero, come quella di una vecchia religione, rispondesse alle mie parole semplicemente ripetendole: «Perché la luce del giorno non basta?». E quando dissi: «Perché quel meraviglioso [[Fire|fuoco]] bianco, che irrompe attraverso la [[Window|finestra]], non dovrebbe ispirarci ogni giorno come un miracolo che sempre ritorna?», l'eco che veniva da quella vecchia cripta o caverna rispose soltanto: «E perché no, davvero?».
-
-E quanto più vi riflettevo, tanto più mi pareva che vi fosse il cenno di qualche strana risposta nel fatto stesso che io dovessi porre la domanda. Non avevo perduto, e non ho mai perduto, la convinzione che tali cose primordiali siano misteriose e sbalorditive; ma se erano sbalorditive, perché qualcuno doveva rammentarci che erano sbalorditive? Perché c'era, come già mi ero reso conto che certamente c'era, una specie di lotta quotidiana per apprezzare la luce del giorno; una lotta a cui dovevamo chiamare in aiuto tutta l'[[Imagination|immaginazione]] e la poesia e la fatica delle arti? Se il primo istinto immaginativo era giusto, appariva sempre più chiaro che qualcos'altro era sbagliato. E mentre negavo indignato che vi fosse alcunché di sbagliato nella [[Window|finestra]], conclusi alla fine che vi era qualcosa di sbagliato in me.
-
-In questo caso, il divino dizionario aveva risposto alla mia domanda personale in modo tanto diretto e persino tanto personale come se la risposta fosse stata scritta apposta per me. Giustificava l'istinto che mi ispirava ad accettare la luce del giorno come una realtà divina; ma risolveva anche il problema che mi lasciava perplesso circa la difficoltà di accettare così la luce del giorno tutto il giorno e ogni giorno. La creazione veniva dal Creatore ed era dichiarata buona; la potenza che è in essa poteva essere lodata dagli angeli in eterno e dai figli di Dio esultanti di gioia. Se noi stessi venivamo sorpresi solo di quando in quando nell'atto di gridare di gioia, era perché eravamo solo parzialmente o imperfettamente figli di Dio; non del tutto diseredati, invero, ma neppure del tutto addomesticati. In breve, soffrivamo per la Caduta, ovvero il [[Original Sin|Peccato originale]]; ma è importante notare che questa non è una risposta al problema particolare, se non nella forma della più moderata dottrina cattolica, e non nella vecchia dottrina protestante e pessimista della Caduta.
-
-Questo problema particolare nasceva interamente dal fatto che l'uomo è imperfetto; ma non, nel senso pessimista, perfettamente imperfetto. L'intero [[Paradox|paradosso]] sta nel fatto che una parte della sua mente rimane quasi perfetta; ed egli può perpetuamente percepire ciò di cui non può perpetuamente godere. Ero certo che l'esistenza sia estaticamente più eccellente della non esistenza, così com'ero certo che più due è diverso da meno due. Solo che c'è una difficoltà psicologica e pratica nell'andare sempre in estasi per questo fatto. L'uomo non è simmetricamente asimmetrico; è una sorta di creatura con un occhio solo da quando combatté un duello col diavolo; e l'unico occhio vede eternamente la luce eterna, mentre l'altro si è stancato e sbatte le palpebre o è quasi cieco. Così l'autorità risolse questo problema privato, non negando la [[Truth|verità]] del mio giudizio privato, ma aggiungendovi il più ampio e più generale giudizio della Caduta.
-
-E allora, nell'atto stesso di comprendere il mio piccolo problema privato, compresi la pubblica autorità che ho paragonato a un'enciclopedia. Qui vi erano migliaia di altri problemi privati risolti per migliaia di altre persone private; masse di essi non avevano nulla a che fare col mio caso; ma uno di essi si volse e affrontò il mio caso in un modo curioso. Cominciai a rendermi conto che non sarebbe andata bene agire come tanti fra gli uomini più brillanti del mio [[Time|tempo]] avevano agito. Non bastava che un uomo apprezzasse una [[Truth|verità]] solo perché l'aveva raccolta da sé; per portarla via con sé e mutarla in un sistema privato; nel migliore dei casi in una [[philosophy|filosofia]] e nel peggiore in una setta. Era assai fiero di aver risposto alla propria domanda senza l'aiuto di un'enciclopedia; ma non pretendeva nemmeno di rispondere a tutte le altre domande dell'enciclopedia.
-
-Ora io sentivo con gran forza che dovevano esserci delle risposte, non solo a tutte le altre domande che tutte le altre persone andavano ponendo, ma anche risposte ad altre domande che io stesso avrei dovuto pormi. E nel momento in cui cominciai a pensare a questi altri problemi, vidi subito che non potevo nemmeno appagarmi della soluzione di uno solo di quei problemi. L'esempio pratico che mi venne in mente fu questo. Dissi a me stesso: va tutto molto [[Well|bene]] dire che il miracolo della luce del giorno che entra attraverso una [[Window|finestra]] dovrebbe bastare a far [[Dance|danzare]] un uomo di gioia. Ma supponi che un altro uomo si serva del tuo argomento come giustificazione per mettere uomini [[Innocent|innocenti]] in [[Prison|prigione]] a vita, in una cella con una sola [[Window|finestra]], e poi li lasci lì a [[Dance|danzare]]. Che ne sarà di tutte le tue denunce della [[Slavery|schiavitù]] e dell'oppressione dei poveri, quando quello statista assai pratico avrà fondato un nuovo Stato sul tuo nuovo credo?
-
-E allora mi parve che si dispiegasse dinanzi a me, come un vasto e abbagliante disegno dagli innumerevoli particolari, una qualche visione delle mille cose che devono essere interrelate ed equilibrate nel pensiero cattolico; la giustizia non [[Well|meno]] della gioia; la libertà non [[Well|meno]] della luce; e sentii con certezza che la mera proporzione di tutte queste cose, non la negazione di alcuna di esse, richiedeva, per armonizzarla e tenerla salda, una potenza e una presenza più possenti della mente di qualsiasi uomo mortale.
-
-
-
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_01" data-title="Common Man — The Superstition Of School (part 1)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
-
-
-THE SUPERSTITION OF SCHOOL
-
-It is an error to suppose that advancing years bring
-retrogressing opinions.  In other words, it is not true that men growing
-old must be growing reactionary.  Some of the difficulties of recent
-times have been due to the obstinate optimism of the old revolutionary.
-Magnificent old men like Kropotkin and Whitman and William Morris
-went to their graves expecting Utopia if they did not expect Heaven.
-But the falsehood, like so many falsehoods, is a false version
-of a half-[[Truth|truth]]. The [[Truth|truth]], or half-[[Truth|truth]], is not that men must
-learn by experience to be reactionaries; but that they must learn
-by experience to expect reactions.  And when I say reactions I
-mean reactions; I must apologise, in the world of current culture,
-for using the word in its correct sense.
-
-If a boy fires off a gun, whether at a fox, a landlord or a
-reigning sovereign, he will be rebuked according to the relative
-value of these objects.  But if he fires off a gun for the first
-[[Time|time]] it is very likely that he will not expect the recoil, or know
-what a heavy knock it can give him.  He may go blazing away through
-life at these and similar objects in the landscape; but he will be
-less and less surprised by the recoil; that is, by the reaction.
-He may even dissuade his little sister of six from firing off one of
-the heavy rifles designed for the destruction of elephants; and will
-thus have the appearance of being himself a reactionary.  Very much
-the same principle applies to firing off the big guns of revolution.
-It is not a man's ideals that change it is not his Utopia that is altered;
-the cynic who says, "You will forget all that moonshine of idealism
-when you are older", says the exact opposite of the [[Truth|truth]].  The doubts
-that come with age are not about the ideal, but about the real.
-And one of the things that are undoubtedly real is reaction:
-that is, the practical probability of some reversal of direction,
-and of our partially succeeding in doing the opposite of
-what we mean to do.  What experience does teach us is this:
-that there is something in the make-up and mechanism of mankind,
-whereby the result of action upon it is often unexpected, and almost
-always more complicated than we expect.
-
-These are the snags of sociology; and one of them concerned
-with [[Education]].  If you ask me whether I think the populace,
-especially the poor, should be recognised as citizens who can
-rule the state, I answer in a voice of thunder, "Yes". If you ask
-me whether I think they ought to have [[Education|education]], in the sense
-of a wide culture and familiarity with the classics of [[history]],
-I again answer, "Yes". But there is, in the achievement
-of this purpose, a sort of snag or recoil that can only be
-discovered by experience and does not appear in print at all.
-It is not allowed for on paper, even so much as is the recoil of a gun.
-Yet it is at this moment an exceedingly practical part of
-practical politics; and, while it has been a political problem
-for a very long [[Time|time]] past, it is a little more marked (if I may stain
-these serene and impartial pages with so political a suggestion)
-under recent conditions that have brought so many highly respectable
-Socialists and widely respected Trade [[Union]] officials to the front.
-
-The snag in it is this:  that the [[Self|self]]-educated think far too much
-of [[Education|education]].  I might add that the half-educated always think
-everything of [[Education|education]].  That is not a fact that appears on
-the surface of the social plan or ideal; it is the sort of thing
-that can only be discovered by experience.  When I said that I wanted
-the popular feeling to find political expression, I meant the actual
-and autochthonous popular feeling as it can be found in third-class
-carriages and bean-feasts and bank-holiday crowds; and especially,
-of course (for the earnest social seeker after [[Truth|truth]]), in public-houses.
-I thought, and I still think, that these people are right on a vast
-number of things on which the fashionable leaders are wrong.
-The snag is that when one of these people begins to "improve himself"
-it is exactly at that moment that I begin to [[Doubt|doubt]] whether it
-is an improvement.  He seems to me to collect with remarkable
-rapidity a number of superstitions, of which the most blind
-and benighted is what may be called the Superstition of School.
-He regards School, not as a normal social institution to be fitted
-in to other social institutions, like [[Home]] and Church and State;
-but as some sort of entirely supernormal and miraculous
-moral factory, in which perfect men and women are made by [[Magic|magic]].
-To this idolatry of School he is ready to sacrifice [[Home]] and
-[[history|History]] and Humanity, with all its instincts and possibilities,
-at a moment's notice.  To this idol he will make any sacrifice,
-especially human sacrifice.  And at the back of the mind,
-especially of the best men of this sort, there is almost always
-one of two variants of the same concentrated conception:
-either "If I had not been to School I should not be the great man I
-am now", or else "If I had been to school I should be even greater
-than I am".  Let none say that I am scoffing at uneducated people;
-it is not their uneducation but their [[Education|education]] that I scoff at.
-Let none mistake this for a sneer at the half-educated; what I dislike
-is the educated half.  But I dislike it, not because I dislike [[Education|education]],
-but because, given the modern [[philosophy]] or absence of [[philosophy]],
-[[Education|education]] is turned against itself, destroying that very sense of
-variety and proportion which it is the object of [[Education|education]] to give.
-No man who worships [[Education|education]] has got the best out of [[Education|education]];
-no man who sacrifices everything to [[Education|education]] is even educated.
-I need not mention here the many recent examples of this monomania,
-rapidly turning into mad persecution, such as the ludicrous persecution
-of the families who live on barges.  What is wrong is a neglect
-of principle; and the principle is that without a gentle contempt
-for [[Education|education]], no gentleman's [[Education|education]] is complete.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LA SUPERSTIZIONE DELLA SCUOLA
-
-È un errore supporre che gli anni che avanzano portino con sé opinioni che retrocedono. In altre parole, non è vero che gli uomini, invecchiando, debbano per forza diventare reazionari. Alcune delle difficoltà dei tempi recenti sono derivate dall'ostinato ottimismo del vecchio rivoluzionario. Magnifici vegliardi come Kropotkin, Whitman e William Morris scesero nella tomba aspettandosi l'Utopia, se non addirittura il Cielo. Ma la falsità, come tante altre falsità, è una falsa versione di una mezza [[Truth|verità]]. La [[Truth|verità]], o mezza [[Truth|verità]], non è che gli uomini debbano imparare dall'esperienza a essere reazionari, bensì che debbano imparare dall'esperienza ad aspettarsi le reazioni. E quando dico reazioni intendo proprio reazioni: devo scusarmi, nel mondo della cultura corrente, di usare la parola nel suo significato corretto.
-
-Se un ragazzo spara con un fucile, che sia contro una volpe, un possidente o un sovrano regnante, verrà rimproverato secondo il valore relativo di questi oggetti. Ma se spara con un fucile per la prima [[Time|volta]], è assai probabile che non si aspetti il rinculo, né sappia quale duro colpo esso possa assestargli. Potrà continuare a far fuoco per tutta la vita contro questi e simili bersagli del paesaggio; ma sarà sempre meno sorpreso dal rinculo, vale a dire dalla reazione. Potrà persino dissuadere la sorellina di sei anni dallo sparare con uno di quei pesanti fucili concepiti per l'abbattimento degli elefanti; e assumerà così l'apparenza di essere egli stesso un reazionario. Lo stesso principio si applica, all'incirca, allo sparo dei grossi cannoni della rivoluzione. Non sono gli ideali di un uomo a cambiare, non è la sua Utopia a essere alterata; il cinico che dice: «Dimenticherai tutte quelle fantasticherie dell'idealismo quando sarai più vecchio», dice l'esatto contrario della [[Truth|verità]]. I dubbi che vengono con l'età non riguardano l'ideale, ma il reale. E una delle cose che sono indubbiamente reali è la reazione: cioè la probabilità pratica di un qualche rovesciamento di direzione, e del nostro riuscire in parte a fare l'opposto di ciò che intendiamo fare. Ciò che l'esperienza davvero ci insegna è questo: che c'è qualcosa nella costituzione e nel meccanismo dell'umanità per cui il risultato di un'azione su di essa è spesso inatteso, e quasi sempre più complicato di quanto ci aspettiamo.
-
-Questi sono gli scogli della sociologia; e uno di essi ha a che fare con l'[[Education|istruzione]]. Se mi chiedete se io ritenga che il popolo, e specialmente i poveri, debba essere riconosciuto come composto di cittadini capaci di governare lo Stato, rispondo con voce di tuono: «Sì». Se mi chiedete se io ritenga che essi debbano avere un'[[Education|istruzione]], nel senso di una vasta cultura e di una familiarità con i classici della [[history|storia]], rispondo di nuovo: «Sì». Ma vi è, nel conseguimento di questo scopo, una sorta di scoglio o di rinculo che può essere scoperto solo dall'esperienza e che non compare affatto sulla carta stampata. Non è previsto sulla carta, nemmeno quanto lo è il rinculo di un fucile. Eppure in questo momento è una parte oltremodo pratica della politica pratica; e, sebbene sia stato un problema politico per moltissimo [[Time|tempo]] in passato, è un poco più marcato (se mi è concesso macchiare queste serene e imparziali pagine con un accenno tanto politico) sotto le condizioni recenti che hanno portato alla ribalta tanti rispettabilissimi socialisti e assai stimati funzionari dei sindacati ([[Union]]).
-
-Lo scoglio è questo: che gli [[Self|autodidatti]] pensano fin troppo all'[[Education|istruzione]]. Potrei aggiungere che i semi-istruiti pensano sempre che l'[[Education|istruzione]] sia tutto. Non è un fatto che appaia in superficie nel piano o nell'ideale sociale; è il genere di cosa che può essere scoperta solo dall'esperienza. Quando dissi che desideravo che il sentimento popolare trovasse espressione politica, intendevo il sentimento popolare reale e autoctono, quale lo si può trovare nelle carrozze di terza classe, nelle scampagnate e nella folla dei giorni festivi; e specialmente, s'intende (per il fervente cercatore sociale della [[Truth|verità]]), nelle osterie. Pensavo, e penso ancora, che questa gente ha ragione su un'infinità di cose sulle quali i capi alla moda hanno torto. Lo scoglio è che quando uno di costoro comincia a «migliorare sé stesso», è esattamente in quel momento che io comincio a [[Doubt|dubitare]] che sia un miglioramento. Mi sembra che raccolga con notevole rapidità un certo numero di superstizioni, di cui la più cieca e ottenebrata è quella che si potrebbe chiamare la Superstizione della Scuola. Egli considera la Scuola non come una normale istituzione sociale da inserire fra le altre istituzioni sociali, come la [[Home|Casa]], la Chiesa e lo Stato, ma come una sorta di fabbrica morale del tutto anormale e miracolosa, in cui uomini e donne perfetti vengono prodotti per [[Magic|magia]]. A questa idolatria della Scuola egli è pronto a sacrificare la [[Home|Casa]], la [[history|Storia]] e l'Umanità, con tutti i loro istinti e le loro possibilità, in un batter d'occhio. A questo idolo egli offrirà qualsiasi sacrificio, e specialmente il sacrificio umano. E sul fondo della mente, soprattutto negli uomini migliori di questa specie, c'è quasi sempre una delle due varianti della medesima concentrata concezione: o «Se non fossi andato a Scuola non sarei il grand'uomo che sono adesso», oppure «Se fossi andato a scuola sarei ancora più grande di quanto sono». Nessuno dica che io mi faccia beffe delle persone non istruite; non è la loro mancanza d'istruzione, ma la loro [[Education|istruzione]] che io metto in ridicolo. Nessuno scambi questo per uno sberleffo ai semi-istruiti; ciò che detesto è la metà istruita. Ma la detesto non perché detesti l'[[Education|istruzione]], bensì perché, data la [[philosophy|filosofia]] moderna o l'assenza di [[philosophy|filosofia]], l'[[Education|istruzione]] viene rivolta contro sé stessa, distruggendo quel senso stesso della varietà e della proporzione che è invece scopo dell'[[Education|istruzione]] conferire. Nessun uomo che adori l'[[Education|istruzione]] ha tratto il meglio dall'[[Education|istruzione]]; nessun uomo che sacrifichi tutto all'[[Education|istruzione]] è neppure istruito. Non ho bisogno di menzionare qui i molti esempi recenti di questa monomania, che va rapidamente trasformandosi in folle persecuzione, come la ridicola persecuzione delle famiglie che vivono sulle chiatte. Ciò che è sbagliato è una negligenza di principio; e il principio è che senza un lieve disprezzo per l'[[Education|istruzione]], nessuna [[Education|istruzione]] di gentiluomo è completa.
-
-
-
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_02" data-title="Common Man — The Superstition Of School (part 2)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
-
-
-I use the casual phrase casually; for I do not concern myself
-with the gentleman but with the citizen.  Nevertheless, there is
-this historic half-[[Truth|truth]] in the case for aristocracy; that it
-is sometimes a little easier for the [[aristocrat]], at his best,
-to have this last touch of culture which is a superiority
-to culture.  Nevertheless, the [[Truth|truth]] of which I speak has
-nothing to do with any special culture of any special class.
-It has belonged to any number of peasants, especially when they
-were poets; it is this which gives a sort of natural distinction
-to Robert Burns and the peasant poets of Scotland.  The power which
-produces it more effectively than any [[Blood|blood]] or breed is religion;
-for religion may be defined as that which puts the first things first.
-Robert Burns was justifiably impatient with the religion he inherited
-from Scottish Calvinism; but he owed something to his inheritance.
-His instinctive consideration of men as men came from an
-ancestry which still cared more for religion than [[Education|education]].
-The moment men begin to care more for [[Education|education]] than for religion
-they begin to care more for [[Ambition|ambition]] than for [[Education|education]].
-It is no longer a world in which the souls of all are equal before heaven,
-but a world in which the mind of each is bent on achieving unequal
-advantage over the other.  There begins to be a mere [[Vanity|vanity]] in being
-educated whether it be [[Self|self]]-educated or merely state-educated. [[Education]]
-ought to be a searchlight given to a man to explore everything,
-but very specially the things most distant from himself.
-[[Education]] tends to be a spotlight; which is centred entirely on himself.
-Some improvement may be made by turning equally vivid and perhaps
-vulgar spotlights upon a large number of other people as [[Well|well]].
-But the only final cure is to turn off the limelight and let him
-realise the [[Stars|stars]].
-
-THE [[Romance|ROMANCE]] OF A RASCAL
-
-It was Thackeray, I think, somewhere in the dizzy mazes of his
-Roundabout Papers, who made a remark which throws some light on
-literary fashions and the fate of Smollett's Peregrine Pickle.
-He described very vividly the fervour he felt as a boy for the
-Waverley Novels; and how those great romances filled the boyhood
-of those, like himself, who were to make the literature of that
-most romantic epoch which we call in England the Victorian era.
-He adds an interesting comment to this effect:  "Our fathers used
-to talk about Peregrine Pickle, telling us (the sly old boys)
-that it was capital fun.  But I think I was rather bewildered by it."
-
-That, I [[Fear|fear]], may be the immediate effect upon many either
-of Thackeray's period or even of our own period, where it has
-inherited the great literary tradition, which many learnt in youth
-from Thackeray, and which Thackeray learnt in youth from Scott.
-Most of those who grew up under such standards of fiction,
-as did the present writer, may be disposed to say at first
-that they find Smollett's [[Novel|novel]] rather bewildering.  Not quite
-so bewildering as some of the most modern novels, of course.
-But many people seem to have a singular literary test, by which they
-like being bewildered by a new book, but dislike being bewildered
-by an old one.  As I shall point out presently, this is very
-largely because the new book is not so new as it pretends to be.
-And the old book is not so very old, as the real stages of [[history]] go.
-In short, the real moral of all these things is the astonishing
-rapidity with which moods and standards change and change again;
-often changing back from the third condition to the first.
-There is nothing so mystifying as the rapidity with which new literary
-methods harden, except the brittleness with which they break.
-Each traveller who turns the corner thinks it will lead him into a
-straight [[Road|road]] of progress; but really it leads him, in about ten minutes,
-to another corner which turns into another and equally crooked [[Road|road]].
-The point about a book like Peregrine Pickle can be fixed
-fairly precisely, by considering what are the changes that separated
-him from Thackeray, or that separate Thackeray from us.
-
-In that little phrase from the Roundabout Papers there are,
-to begin with, some interesting and even amusing points.
-For instance, we are always told that the Victorian parent, or, even more,
-the early nineteenth-century parent, was a Puritan who forbade his
-family the idle as [[Well|well]] as the improper forms of light literature;
-a Heavy Father who sat very heavily even on ordinary [[Love|love]]-stories
-or romantic plays.  Even so eighteenth-century a type as Macaulay
-identified the opinion of most sober and responsible parents with so
-extraordinary a parent as Sir Anthony Absolute in the comic play.
-"A circulating library is an evergreen tree of diabolical knowledge."
-Even a modern so steeped in the eighteenth century as Mr. Max Beerbohm
-has described the typical papa of a generation that might [[Well|well]]
-have been that of Thackeray's papa, as a gloomy and ponderous
-person who talked to his children about nothing but Hell.
-Surely that one little glimpse from Thackeray's own essays might
-lead one to guess that there is something wrong in all this.
-It is difficult to imagine the Puritan papa, who commonly talked
-about Hell, winding up with a recommendation to read Peregrine Pickle.
-It is difficult to suppose that a race of Sir Anthony Absolutes,
-disapproving of all novels, would have gone out of their way
-to select this [[Novel|novel]], out of all earthly novels, on the ground
-that it was "capital fun".  The parent must have been a very sly old
-boy indeed if he really thrust Peregrine Pickle on the attention
-of a little boy, whose head was full of ideals of chivalry,
-like those of Quentin Durward and Ivanhoe.
-
-The [[Truth|truth]] is that the elements were too mixed, and, above all,
-the fashions too fugitive, for any of these generalisations.
-Men who lose traditions abandon themselves to conventions;
-but the conventions are more fleeting than fashions.  There were
-papas who would have been almost as much shocked at their daughters
-reading [[Pride and Prejudice]] as at their reading Peregrine Pickle.
-But they were the papas and not the grand-papas. There was
-a sort of household where Hell was the brightest topic of chat;
-but it was not the old-fashioned household but rather
-the new-fashioned household.  It came in with the Methodists,
-who were regarded as innovators and rebels.  That episode of
-extreme severity, which was the beginning of the highly expurgated
-Victorian fiction, need not here be traced to its historical causes.
-Broadly speaking, it came from the rapid increase of wealth and power
-among the Nonconformists of the north, who vetoed the frankness
-both of the old gentry and the old peasantry of the south.  The point
-here is that the work of these Puritans, from Lancashire or Yorkshire,
-was so very rapidly done that men forgot that it was so very recent.
-All this has to be understood before anybody, looking back through
-the nineteenth century, can do justice to the work of Smollett.
-The point of it is that not only did the changes come, but each
-generation accepted them as if they had always been unchangeable.
-Thus, in the case just mentioned, Thackeray began to write novels
-long after Dickens; he was still an [[Artist|artist]], or art student,
-when he offered to illustrate [[Pickwick]].  Dickens, in the flood
-of his popularity that followed [[Pickwick]], had already accepted
-and popularised what we call the Victorian conventions.
-This has been somewhat harshly expressed by Mr. Aldous Huxley when
-he said that a writer like Dickens writes as if he were a [[Child|child]],
-while a writer like Smollett writes as if he were a grown man.
-But indeed there is a considerable link between a writer like Smollett
-and a writer like Aldous Huxley.  For the [[Road|road]] has taken another
-sharp turn backwards; and the interlude of Victorian [[innocence]] is
-again out of sight.  There is one instance of this, which dominates
-and largely explains the whole story of Peregrine Pickle.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Uso la frase disinvolta con disinvoltura; poiché non mi occupo del gentiluomo ma del cittadino. Ciò nondimeno, vi è questa storica mezza [[Truth|verità]] a favore dell'aristocrazia: che talvolta è un poco più facile per l'[[aristocrat|aristocratico]], nel suo momento migliore, avere quest'ultimo tocco di cultura che è una superiorità rispetto alla cultura. Ciò nondimeno, la [[Truth|verità]] di cui parlo non ha nulla a che fare con alcuna cultura particolare di alcuna classe particolare. È appartenuta a un gran numero di contadini, specialmente quando erano poeti; è ciò che conferisce una sorta di naturale distinzione a Robert Burns e ai poeti contadini di Scozia. La forza che la produce più efficacemente di qualsiasi [[Blood|sangue]] o razza è la religione; poiché la religione può essere definita come ciò che mette al primo posto le cose che vengono prima. Robert Burns era giustificatamente insofferente della religione che aveva ereditato dal calvinismo scozzese; ma qualcosa doveva alla propria eredità. La sua istintiva considerazione degli uomini come uomini gli veniva da un lignaggio che teneva ancora più alla religione che all'[[Education|istruzione]]. Nel momento in cui gli uomini cominciano a tenere più all'[[Education|istruzione]] che alla religione, cominciano a tenere più all'[[Ambition|ambizione]] che all'[[Education|istruzione]]. Non è più un mondo in cui le anime di tutti sono uguali dinanzi al cielo, ma un mondo in cui la mente di ciascuno è tesa a conseguire un vantaggio diseguale sull'altro. Comincia a esserci una mera [[Vanity|vanità]] nell'essere istruiti, che si tratti di istruzione da [[Self|autodidatta]] o semplicemente di istruzione statale. L'[[Education|istruzione]] dovrebbe essere un fascio di luce dato a un uomo per esplorare ogni cosa, ma in modo tutto particolare le cose più lontane da sé. L'[[Education|istruzione]] tende invece a essere un riflettore puntato interamente su sé stesso. Qualche miglioramento si potrà ottenere puntando riflettori altrettanto vividi, e forse volgari, su un gran numero di altre persone [[Well|pure]]. Ma l'unico rimedio definitivo è spegnere le luci della ribalta e lasciargli scorgere le [[Stars|stelle]].
-
-IL [[Romance|ROMANZO]] DI UN FURFANTE
-
-Fu Thackeray, mi pare, in qualche punto dei vertiginosi labirinti dei suoi Roundabout Papers, a fare un'osservazione che getta un po' di luce sulle mode letterarie e sulla sorte del Peregrine Pickle di Smollett. Egli descrisse con grande vivacità il fervore che provava da ragazzo per i romanzi di Waverley; e come quei grandi romanzi riempissero la fanciullezza di coloro che, come lui, erano destinati a fare la letteratura di quell'epoca oltremodo romantica che in Inghilterra chiamiamo l'età vittoriana. Vi aggiunge un commento interessante di questo tenore: «I nostri padri usavano parlarci del Peregrine Pickle, dicendoci (quei vecchi birbanti astuti) che era un divertimento sopraffino. Ma credo di esserne rimasto piuttosto sconcertato».
-
-Questo, [[Fear|temo]], potrebbe essere l'effetto immediato su molti, sia del tempo di Thackeray sia perfino del nostro, là dove esso ha ereditato la grande tradizione letteraria che molti appresero in gioventù da Thackeray, e che Thackeray apprese in gioventù da Scott. La maggior parte di coloro che crebbero sotto tali modelli di narrativa, come chi qui scrive, saranno forse propensi a dire, sulle prime, che trovano il [[Novel|romanzo]] di Smollett piuttosto sconcertante. Non del tutto sconcertante come alcuni dei romanzi più moderni, s'intende. Ma molti sembrano avere un singolare criterio letterario, per cui amano essere sconcertati da un libro nuovo, ma detestano essere sconcertati da uno vecchio. Come mostrerò tra poco, ciò dipende in gran parte dal fatto che il libro nuovo non è tanto nuovo quanto pretende di essere. E il libro vecchio non è poi tanto vecchio, per come procedono le reali tappe della [[history|storia]]. In breve, la vera morale di tutte queste cose è la sorprendente rapidità con cui gli umori e i modelli cambiano e tornano a cambiare; spesso ritornando dalla terza condizione alla prima. Non c'è nulla di così sconcertante come la rapidità con cui i nuovi metodi letterari si irrigidiscono, se non la fragilità con cui si spezzano. Ogni viaggiatore che svolta l'angolo pensa che esso lo condurrà su una diritta [[Road|strada]] di progresso; ma in realtà lo conduce, in una decina di minuti, a un altro angolo che svolta in un'altra [[Road|strada]] altrettanto tortuosa. Il punto riguardo a un libro come il Peregrine Pickle può essere fissato con discreta precisione, considerando quali siano i mutamenti che lo separavano da Thackeray, o che separano Thackeray da noi.
-
-In quella breve frase dei Roundabout Papers vi sono, tanto per cominciare, alcuni punti interessanti e persino divertenti. Per esempio, ci viene sempre detto che il genitore vittoriano, o, ancor di più, il genitore del primo Ottocento, fosse un puritano che proibiva alla propria famiglia [[Well|tanto]] le forme oziose quanto quelle sconvenienti della letteratura leggera; un Padre Severo che gravava pesantemente perfino sulle comuni storie d'[[Love|amore]] o sui drammi romantici. Persino un tipo così settecentesco come Macaulay identificava l'opinione della maggior parte dei genitori sobri e responsabili con un genitore tanto straordinario quanto Sir Anthony Absolute nella commedia. «Una biblioteca circolante è un sempreverde albero della diabolica conoscenza». Persino un moderno tanto immerso nel Settecento come il signor Max Beerbohm ha descritto il tipico papà di una generazione che [[Well|ben]] poteva essere quella del papà di Thackeray come una persona tetra e ponderosa che non parlava ai figli d'altro che dell'Inferno. Certamente quel piccolo scorcio, tratto dagli stessi saggi di Thackeray, potrebbe indurre a intuire che in tutto ciò c'è qualcosa che non quadra. È difficile immaginare il papà puritano, che comunemente parlava dell'Inferno, concludere con la raccomandazione di leggere il Peregrine Pickle. È difficile supporre che una schiatta di Sir Anthony Absolute, che disapprovavano tutti i romanzi, si fossero dati la pena di scegliere questo [[Novel|romanzo]], fra tutti i romanzi della terra, con il pretesto che era «un divertimento sopraffino». Il genitore doveva essere davvero un vecchio birbante astuto, se davvero mise il Peregrine Pickle sotto gli occhi di un ragazzino, la cui testa era piena di ideali cavallereschi, come quelli di Quentin Durward e di Ivanhoe.
-
-La [[Truth|verità]] è che gli elementi erano troppo mescolati, e, soprattutto, le mode troppo fuggevoli, per una qualsiasi di queste generalizzazioni. Gli uomini che perdono le tradizioni si abbandonano alle convenzioni; ma le convenzioni sono più effimere delle mode. C'erano papà che si sarebbero quasi scandalizzati altrettanto nel vedere le figlie leggere [[Pride and Prejudice]] quanto nel vederle leggere il Peregrine Pickle. Ma erano i papà e non i nonni. C'era una sorta di famiglia in cui l'Inferno era l'argomento di chiacchiera più brillante; ma non era la famiglia all'antica, bensì piuttosto quella alla moda nuova. Venne con i metodisti, che erano considerati innovatori e ribelli. Quell'episodio di estrema severità, che fu l'inizio della narrativa vittoriana altamente espurgata, non ha bisogno di essere qui ricondotto alle sue cause storiche. In linea di massima, esso derivò dal rapido incremento di ricchezza e potere fra i nonconformisti del nord, che posero il veto sulla schiettezza tanto della vecchia piccola nobiltà quanto del vecchio contadinato del sud. Il punto qui è che l'opera di questi puritani, del Lancashire o dello Yorkshire, fu compiuta così rapidamente che gli uomini dimenticarono quanto fosse recente. Tutto ciò va compreso prima che chiunque, guardando indietro attraverso l'Ottocento, possa rendere giustizia all'opera di Smollett. Il punto è che non solo i cambiamenti vennero, ma ogni generazione li accettò come se fossero sempre stati immutabili. Così, nel caso appena menzionato, Thackeray cominciò a scrivere romanzi molto tempo dopo Dickens; era ancora un [[Artist|artista]], o studente d'arte, quando si offrì di illustrare il [[Pickwick]]. Dickens, nel flusso della popolarità che seguì il [[Pickwick]], aveva già accettato e reso popolari quelle che noi chiamiamo le convenzioni vittoriane. Ciò è stato espresso in modo alquanto brusco dal signor Aldous Huxley quando disse che uno scrittore come Dickens scrive come se fosse un [[Child|bambino]], mentre uno scrittore come Smollett scrive come se fosse un uomo fatto. Ma in verità c'è un legame considerevole fra uno scrittore come Smollett e uno scrittore come Aldous Huxley. Poiché la [[Road|strada]] ha compiuto un'altra brusca svolta all'indietro; e l'intermezzo dell'[[innocence|innocenza]] vittoriana è di nuovo fuori vista. Ce n'è un esempio, che domina e in gran parte spiega l'intera vicenda del Peregrine Pickle.
-
-
-
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_03" data-title="Common Man — The Superstition Of School (part 3)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
-
-
-When Thackeray called [[Vanity]] Fair "a [[Novel|novel]] without a [[Hero|hero]]",
-or even when he made the relatively realistic Pendennis a [[Novel|novel]]
-with a rather unheroic [[Hero|hero]], he was doubtless by that [[Time|time]]
-so accustomed to Victorian fiction as to feel that he was doing
-something new, and even "cynical". For Victorian fiction had already
-returned to the old romantic idea that the [[Hero|hero]] should be heroic,
-even if it did not understand him so [[Well|well]] as did the old romances.
-[[Nicholas Nickleby]] vanquishes Squeers as St. George vanquishes the dragon;
-and John Ridd is a knight without [[Fear|fear]] or reproach, like Ivanhoe.
-But in fact Thackeray was only slightly reacting towards what had
-been universal in the [[Time|time]] of that sly old boy, his papa.
-
-All novels like Peregrine Pickle, all novels up to the [[Time|time]]
-of [[Pickwick]], were written frankly on a far more cynical convention:
-that the [[Hero|hero]] should not be heroic.  The enterprising Mr. Pickle
-is certainly not heroic.  He is many things that are good;
-not only brave, but often warm-hearted and considerate; and, above all,
-capable of recognising better men than himself.  But, for the rest,
-by Victorian and even by normal standards, he is simply a coarse
-and rapacious rascal; nor does Smollett really pretend that he is
-anything else.  This tendency to follow with delight the tricks
-and triumphs of somebody little better than a swindler comes from
-the historical origin of this type of story, which began in what is
-called the picaresque [[Novel|novel]].  It is the [[Romance|romance]] of a wanderer,
-apt to turn from the [[Romance|romance]] of a peddler to that of a highway robber.
-It is a curious coincidence that Smollett translated Gil Blas,
-in which this new cynical [[Romance|romance]] made its first triumph; and also
-translated [[Don Quixote]], in which the [[Road|road]] was cleared for it by the rout
-of the old romances which had made their heroes impossibly heroic.
-But about this sort of rambling tale, of the [[Romance]] of a Rascal,
-there are certain modern misunderstandings to be avoided.
-It would be complete misunderstanding of men like Tobias Smollett
-to suppose that because the heroes are immoral the authors
-are even unmoral.  It is a peculiar characteristic of all that
-stalwart school, which represented this picaresque element in
-England that they do believe in [[Heroism|heroism]] for anybody except heroes.
-Both in Fielding and Smollett and others we find a sort of fixed habit
-of thought, by which virtue is represented, and is even preached,
-and is often preached vehemently and in terms of authority;
-but never by the principal character, who is a young man of the world
-apparently not expected either to preach it or to practise it.
-Parson Adams is a serious picture of a good man, and Joseph Andrews
-is only a bad joke; but Joseph gives his name to the book.
-Fielding is more concerned with Tom [[Jones]] than with Alworthy;
-but be agrees with Mr. Alworthy and not with Tom [[Jones]].
-And if anyone wishes to note exactly how this habit expresses
-itself in Smollett, let him turn to the typical scene in
-which Peregrine Pickle provokes a duel with Mr. Gauntlet.
-By all possible standards Peregrine is to behave like a vulgar
-and low-minded cad, actually sneering at the [[Poverty|poverty]] of the soldier
-whom he has insulted, and being ignominiously defeated by the man
-he has so coarsely despised.  Certainly no Victorian romancer
-would have dragged his [[Hero|hero]] through the mud of such a meeting.
-And yet the whole incident brings out in glowing colours all that is
-really good and lovable about Peregrine Pickle.  He does vividly
-realise that the other man is more virtuous than himself; he acts
-as impetuously on the moral as on the immoral impulse;. he apologises
-after defeat, which is more difficult than apologising before it.
-In other words, Mr. Gauntlet, like Parson Adams, stands for something
-fixed and recognised; a virtue which the other characters venerate
-even while they violate.  In this incident Peregrine is represented
-in the course of an hour or so as behaving almost incredibly badly
-and then almost incredibly [[Well|well]]; and yet it is quite credible.
-Why do we thus feel that there is something solid in it after all?
-First, no [[Doubt|doubt]], because Smollett was a real novelist,
-and the character of Peregrine Pickle was a real character.
-He does convey what later sentiment would have called the contradiction:
-that Peregrine was a scoundrel, but a warm-hearted scoundrel; that lie
-was very near to being a swindler, but always an impetuous swindler.
-But it is due, almost as much, to the sense of firmness produced
-by the fact that vice and virtue are still treated as facts.
-Our sense of sincerity is founded on the fact that Tobias Smollett,
-as [[Well|well]] as Peregrine Pickle, did really believe in right and wrong,
-and thought the principal character wrong and the secondary
-character right.
-
-It is here that we find the chief difference between old writers
-like Smollett and many modern writers who set themselves
-successfully to produce the same convincing smell of dirt,
-the same unmistakable ugliness in the details of life,
-the same slippery and sometimes slimy irresponsibility about sex,
-the same heroic persistency in avoiding [[Heroism|heroism]].  The difference
-is that Smollett's [[Hero|hero]], or [[Villain|villain]], does know exactly where he is
-in the moral world, even if it is where he ought not to be.
-The modern adventurer of the same type occupies all his adventures
-in trying to discover where he is.  He is not so much breaking
-laws with bravery and cunning, as trying to learn the laws,
-with constant bewilderment and [[Despair|despair]].  Virtue does not rebuke him;
-the best that can be said for him is that vice generally bores him.
-Therefore he is not wholly successful in copying the older writers
-in their two gifts of lucidity and grossness; because he lacks
-the third angle of the triangle:  their confidence.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Quando Thackeray definì [[Vanity]] Fair «un [[Novel|romanzo]] senza [[Hero|eroe]]», o anche quando fece del relativamente realistico Pendennis un [[Novel|romanzo]] con un [[Hero|eroe]] piuttosto poco eroico, era ormai a quel [[Time|tempo]], senza dubbio, così avvezzo alla narrativa vittoriana da sentire di fare qualcosa di nuovo, e persino di «cinico». Poiché la narrativa vittoriana era già tornata alla vecchia idea romantica che l'[[Hero|eroe]] dovesse essere eroico, anche se non lo comprendeva così [[Well|bene]] come lo comprendevano i vecchi romanzi. [[Nicholas Nickleby]] sconfigge Squeers come san Giorgio sconfigge il drago; e John Ridd è un cavaliere senza [[Fear|paura]] e senza macchia, come Ivanhoe. Ma in realtà Thackeray non faceva che reagire lievemente verso ciò che era stato universale ai [[Time|tempi]] di quel vecchio birbante astuto, suo papà.
-
-Tutti i romanzi come il Peregrine Pickle, tutti i romanzi fino al [[Time|tempo]] del [[Pickwick]], erano scritti apertamente su una convenzione assai più cinica: che l'[[Hero|eroe]] non dovesse essere eroico. L'intraprendente signor Pickle non è certo eroico. È molte cose che sono buone; non solo coraggioso, ma spesso cordiale e premuroso; e, soprattutto, capace di riconoscere uomini migliori di sé. Ma, per il resto, secondo gli standard vittoriani e persino secondo gli standard normali, egli è semplicemente un furfante rozzo e rapace; né Smollett pretende davvero che sia qualcos'altro. Questa tendenza a seguire con diletto le astuzie e i trionfi di qualcuno poco migliore di un imbroglione deriva dall'origine storica di questo tipo di racconto, che ebbe inizio in ciò che si chiama il [[Novel|romanzo]] picaresco. È il [[Romance|romanzo]] di un vagabondo, incline a passare dal [[Romance|romanzo]] di un venditore ambulante a quello di un brigante di strada. È una curiosa coincidenza che Smollett tradusse il Gil Blas, in cui questo nuovo [[Romance|romanzo]] cinico riportò il suo primo trionfo; e tradusse anche il [[Don Quixote]], in cui la [[Road|strada]] gli fu spianata dalla disfatta dei vecchi romanzi che avevano reso i loro eroi impossibilmente eroici. Ma riguardo a questa sorta di racconto vagabondo, il [[Romance|Romanzo]] di un Furfante, ci sono certi moderni fraintendimenti da evitare. Sarebbe un completo fraintendimento di uomini come Tobias Smollett supporre che, poiché gli eroi sono immorali, gli autori siano addirittura amorali. È una peculiare caratteristica di tutta quella robusta scuola, che rappresentò questo elemento picaresco in Inghilterra, il credere nell'[[Heroism|eroismo]] per chiunque tranne che per gli eroi. Sia in Fielding sia in Smollett e in altri troviamo una sorta di fissa abitudine di pensiero, per cui la virtù viene rappresentata, e persino predicata, e spesso predicata con veemenza e in termini d'autorità; ma mai dal personaggio principale, che è un giovane uomo di mondo dal quale, a quanto pare, non ci si aspetta né che la predichi né che la pratichi. Il parroco Adams è un serio ritratto di un uomo buono, e Joseph Andrews non è che uno scherzo di cattivo gusto; eppure è Joseph a dare il nome al libro. Fielding si occupa più di Tom [[Jones]] che di Alworthy; ma dà ragione al signor Alworthy e non a Tom [[Jones]]. E se qualcuno desidera notare esattamente come questa abitudine si esprima in Smollett, si volga alla scena tipica in cui Peregrine Pickle provoca un duello con il signor Gauntlet. Secondo ogni possibile criterio, Peregrine si comporta come un cafone volgare e di animo basso, che addirittura sogghigna sulla [[Poverty|povertà]] del soldato che ha insultato, e che viene ignominiosamente sconfitto dall'uomo che ha così rozzamente disprezzato. Certamente nessun narratore vittoriano avrebbe trascinato il proprio [[Hero|eroe]] nel fango di un simile incontro. Eppure l'intero episodio fa risaltare a tinte splendenti tutto ciò che di veramente buono e amabile c'è in Peregrine Pickle. Egli si rende vividamente conto che l'altro è più virtuoso di lui; agisce con la stessa impetuosità sull'impulso morale come su quello immorale; si scusa dopo la sconfitta, il che è più difficile che scusarsi prima di essa. In altre parole, il signor Gauntlet, come il parroco Adams, sta per qualcosa di fisso e riconosciuto; una virtù che gli altri personaggi venerano anche mentre la violano. In questo episodio Peregrine è rappresentato, nell'arco di un'ora circa, mentre si comporta in modo quasi incredibilmente cattivo e poi quasi incredibilmente [[Well|bene]]; eppure la cosa è del tutto credibile. Perché sentiamo così che, dopotutto, c'è qualcosa di solido in essa? Anzitutto, senza [[Doubt|dubbio]], perché Smollett era un vero romanziere, e il carattere di Peregrine Pickle era un carattere reale. Egli sa rendere ciò che il sentimento posteriore avrebbe chiamato la contraddizione: che Peregrine era un mascalzone, ma un mascalzone dal cuore caldo; che era quanto mai vicino a essere un imbroglione, ma sempre un imbroglione impetuoso. Ma ciò è dovuto, quasi altrettanto, al senso di fermezza prodotto dal fatto che il vizio e la virtù sono ancora trattati come fatti. Il nostro senso di sincerità si fonda sul fatto che Tobias Smollett, [[Well|non meno]] di Peregrine Pickle, credeva davvero nel giusto e nell'ingiusto, e riteneva il personaggio principale nel torto e il personaggio secondario nel giusto.
-
-È qui che troviamo la principale differenza fra i vecchi scrittori come Smollett e molti scrittori moderni che si adoperano con successo a produrre lo stesso convincente lezzo di sudiciume, la stessa inconfondibile bruttezza nei particolari della vita, la stessa sdrucciolevole e talora viscida irresponsabilità in fatto di sesso, la stessa eroica ostinazione nell'evitare l'[[Heroism|eroismo]]. La differenza è che l'[[Hero|eroe]], o [[Villain|cattivo]], di Smollett sa esattamente dove si trova nel mondo morale, anche se è là dove non dovrebbe trovarsi. L'avventuriero moderno dello stesso tipo impiega tutte le sue avventure nel tentare di scoprire dove si trova. Egli non tanto infrange le leggi con audacia e astuzia, quanto cerca di apprendere le leggi, con perpetuo sconcerto e [[Despair|disperazione]]. La virtù non lo rimprovera; il meglio che si possa dire di lui è che il vizio, in genere, lo annoia. Perciò egli non riesce del tutto a imitare gli scrittori più antichi nei loro due doni di lucidità e di crudezza; perché gli manca il terzo angolo del triangolo: la loro sicurezza.
-
-
-
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_04" data-title="Common Man — The Superstition Of School (part 4)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
-
-
-Considered as a series of chapters, Peregrine Pickle is simply a chapter
-of accidents.  Curiously enough the splash it made in its own day,
-especially in the sparkling world of wit and fashion, was almost entirely
-due to what almost anybody would now call the dullest part of the book.
-The insertion called "Memoirs of a Lady of Quality" was supposed
-to have some scandalous allusiveness to aristocratic society at
-the [[Time|time]]; but it is not typical of the author, or even of the book.
-Nor can we in practice class this patchy and parenthetical style
-with the similar irregularity of a book like [[Pickwick]].  Most people,
-at least most mature people, have read [[Pickwick]].  Comparatively few,
-even among the most aged people, have read Peregrine Pickle.
-There cannot be very many sly old boys still going about the street,
-and advising modern youth to read it and find it capital fun.
-To many it must now be introduced as a new book rather than an old one;
-and the method of approach is sharply divergent.  In writing of Dickens,
-we are writing for our fellow Dickensians, and can prove any point
-or illustrate any theory by examples they know as [[Well|well]] as we.
-I do not think it is unfair to say that if I were to begin by referring
-the average reader to the [[Well|well]]-known attitude of Mr. Metaphor,
-or the incident of Mr. Hornbeck, he would hardly be so suddenly
-illumined as by a reference to Mr. Stiggins or Mr. Weller.
-In cases like this, where an historic work by a man of genius is not
-now widely popular, or in immediate contact with the reading public,
-the cause and the problem can almost always be found in certain
-changes of taste which, rapid as they are, do correspond
-largely to changes of ideas.  A man who opens Peregrine Pickle
-must not expect what he gets from a good Victorian [[Novel|novel]],
-or a good modern [[Novel|novel]]; and only by some explanation of principles
-can he ever discover that it may contain things quite as good.
-It is [[Well|well]], therefore, to emphasise some general qualities that are
-even better.  The [[Novel|novel]] of Smollett's [[Time|time]] was better than the [[Novel|novel]]
-of the Victorian [[Time|time]], in so far as it recognised more clearly
-that good and evil exist and are entangled even in the same man.
-The [[Novel|novel]] of Smollett's [[Time|time]] was better than the [[Novel|novel]] of our own [[Time|time]],
-in so far as it recognised that, even when they are entangled in
-the same man, they can still be distinguished and are very different,
-and at war till [[Death|death]].
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Considerato come una serie di capitoli, il Peregrine Pickle è semplicemente un capitolo di incidenti. Curiosamente, il clamore che suscitò ai suoi tempi, specialmente nel brillante mondo dello spirito e della moda, fu quasi interamente dovuto a quella che oggi quasi chiunque definirebbe la parte più noiosa del libro. L'inserto intitolato «Memorie di una dama di rango» si supponeva contenesse qualche scandalosa allusione alla società aristocratica del [[Time|tempo]]; ma non è tipico dell'autore, né tantomeno del libro. Né possiamo in pratica classificare questo stile disuguale e parentetico con la simile irregolarità di un libro come il [[Pickwick]]. La maggior parte delle persone, o almeno la maggior parte delle persone mature, ha letto il [[Pickwick]]. Relativamente poche, anche fra le persone più attempate, hanno letto il Peregrine Pickle. Non possono esserci molti vecchi birbanti astuti ancora in giro per le strade, a consigliare alla gioventù moderna di leggerlo e di trovarlo un divertimento sopraffino. A molti esso dev'essere ormai presentato come un libro nuovo piuttosto che come uno vecchio; e il metodo di approccio è nettamente divergente. Scrivendo di Dickens, scriviamo per i nostri compagni dickensiani, e possiamo dimostrare qualsiasi tesi o illustrare qualsiasi teoria con esempi che essi conoscono altrettanto [[Well|bene]] di noi. Non credo sia ingiusto dire che se cominciassi col rimandare il lettore medio al [[Well|ben]] noto atteggiamento del signor Metaphor, o all'episodio del signor Hornbeck, egli difficilmente ne sarebbe illuminato così di colpo come da un riferimento al signor Stiggins o al signor Weller. In casi come questo, in cui un'opera storica di un uomo di genio non è oggi largamente popolare, né in contatto immediato con il pubblico dei lettori, la causa e il problema possono quasi sempre trovarsi in certi mutamenti del gusto che, per rapidi che siano, corrispondono in gran parte a mutamenti di idee. Chi apre il Peregrine Pickle non deve aspettarsi ciò che trae da un buon [[Novel|romanzo]] vittoriano, o da un buon [[Novel|romanzo]] moderno; e solo attraverso una qualche spiegazione di principi potrà mai scoprire che esso può contenere cose altrettanto buone. È [[Well|bene]], dunque, mettere in risalto alcune qualità generali che sono persino migliori. Il [[Novel|romanzo]] del [[Time|tempo]] di Smollett era migliore del [[Novel|romanzo]] del [[Time|tempo]] vittoriano, in quanto riconosceva più chiaramente che il bene e il male esistono e sono intrecciati anche in uno stesso uomo. Il [[Novel|romanzo]] del [[Time|tempo]] di Smollett era migliore del [[Novel|romanzo]] del nostro [[Time|tempo]], in quanto riconosceva che, anche quando sono intrecciati in uno stesso uomo, essi possono pur sempre essere distinti e sono assai diversi, e in guerra fino alla [[Death|morte]].
-
-
-
-<span class="atom-split" data-atom="story_06_the_pantomime--part_01" data-title="Common Man — The Pantomime (part 1)" data-chapter="The Pantomime" data-kind="excerpt"></span>
-
-
-THE PANTOMIME
-
-Mr. Maurice Baring, the chief Puppet-Master of the Puppet-Show
-of [[Memory]], has included in a recent reprint, I am glad to see,
-an item that I have loved long since and lost awhile, in the form
-of a scene from the old Drury Lane sort of Harlequinade,
-recast in the manner of the mystical plays of Maeterlinck.
-It was probably written when Maeterlinck was very much the fashion,
-and when people had long been saying that the Harlequinade was
-hopelessly old-fashioned. In one sense it would be difficult to say
-which of the two is more old-fashioned now.  But, to judge by current
-criticism and conversation, there are many who remember Pantaloon
-and Harlequin who hardly even remember Pélleas and Mélisande. It
-is a queer thing to note the extent to which the world has become
-silent about Maeterlinck; though it may be the more impressive
-to the remaining followers of so eloquent an admirer of [[Silence|silence]].
-Whatever be the cause, it certainly was not that his work was devoid
-of a very individual imaginative quality.  Personally, I should guess
-that he had shared the fate of many modern attempts to refound mysticism
-on something less real rather than something more real than this world.
-But the matter only arises here in relation to this little literary
-jest about the Pantomime, which I always felt to be one of Mr. Baring's
-most charming fancies.  Of course it is a very good burlesque
-of Maeterlinck; it is also in a sense a very good burlesque of
-the Pantomime; and the latter is the more delicate achievement.
-Every healthy person wishes to make fun of a serious thing;
-but it is generally almost impossible to make fun of a funny thing.
-But in this case the notion of fun or burlesque must not be confused
-in either case with any idea of hostility, or even of [[Satire|satire]].
-[[Parody]] does not consist merely of contrast; at its best it rather
-consists of a superficial contrast covering a substantial congruity.
-The bitter sort of burlesque may exist, and have a right to exist;
-but it is doubtful whether in this particular form the bitterest
-is the best.  The one sort of parodist will naturally [[Parody|parody]] the sort
-of style he dislikes.  But the other sort of parodist will always
-prefer to [[Parody|parody]] the style he likes.  I remember in my boyhood,
-when Swinburne was our (rather too bubbly) champagne, I for one wrote
-almost as many conscious travesties of Swinburne as unconscious
-copies of him.
-
-Now in this case of the Pantomime the [[Paradox|paradox]] has a sort of moral.
-For I know that the real reason why I return with unwearied
-joy to Mr. Baring's little Maeterlinckian Harlequinade is
-because the atmosphere of the harlequinade really was for me,
-if not exactly Maeterlinckian, at least in some mysterious
-sense mystical.  I need not dwell on the points in the [[Parody|parody]]
-which were witty considered as contrasts as [[Well|well]] as coincidences.
-The policeman repeats at intervals, like the tolling of a funeral bell
-(a lost and wandering bell attached to no church and uttering in
-its hollow throat an awful agnosticism), "It was not on my beat."
-The Pantaloon, one of the shivering old men of Maeterlinck,
-babbles not of green fields but of grey and ghostly sausages, as of
-things he will never find, or is not certain that he ever did find.
-But my point here is that, in spite of the comic contrast
-between the hilarity of the Pantomime and the hopelessness
-of the Maeterlinckian atmosphere, there really is something that,
-for me at least, melts the two into a sort of mystical [[unity]]; so that
-the top-heavy [[house]] of the Harlequinade is even here like my [[Home|home]].
-For I am quite certain, as a fact of psychology, that I did
-even in [[Childhood|childhood]] regard the knockabout part of the Pantomime
-with its pokers and sausages, as being none the less a poetical
-part of the Pantomime; and as unmistakably within the frontiers
-of fairyland as the palace of the Fairy [[Queen]].  Never on earthly
-anvil, never in earthly fireplace, did that red poker gleam:
-never those clattering milkcans brim with an earthly cream.
-The Policeman was perfectly right about both scenes and in both senses.
-He was not on his beat.  He was a stray and estranged policeman;
-a policeman stolen by the fairies; a constable wandering
-far away from his constabulary duties, if he ever had any.
-The joke depended on the very Victorian accident that the costume
-of a [[London]] policeman seemed both commonplace and comic;
-and yet, although he was comic, he was not really commonplace.
-He was not merely befooled but bewitched; and his blue uniform
-revisited the glimpses of a blue [[Moon|moon]].  Still, it is curious to
-reflect how completely different the whole drama would have seemed
-if he had been any sort of foreign gendarme, with a cocked hat
-and a [[Sword|sword]].
-
-Now my interest in the matter is this; that I know many will say
-that this sense of glamour is an effect of distance, like the colour
-of blue hills or crimson clouds; and that in this romantic aspect it
-is only a puppet-show of [[Memory|memory]].  They would say that I saw it in this
-mystical manner through the intervening veils of [[Time|time]], through the mists
-of Maeterlinck, through the mockeries of Mr. Baring, and, above all,
-through that depth of delicate [[Melancholy|melancholy]] with which the remote
-past is remembered.  But I am certain that this is not so.
-Apart from the fact that the [[Memory|memory]] of childish joys does not
-make me [[Melancholy|melancholy]] (it is perhaps a fine shade of theology)
-and apart from the fact that I suspect that Mr. Baring himself
-remembers the thing very much as I do, I am quite sure that I
-am remembering a reality that was real then as [[Well|well]] as now.
-You could as soon persuade me that the taste of toffee was an
-illusion that only came to me in later years, or that I think
-I liked roast chestnuts then only because I like them now,
-as convince me that I did not have, even as a [[Child|child]], an overwhelming
-impression that this farcical world was fantastic, not merely
-in the sense of being comic, but also in the sense of being mystic.
-Though the scene might superficially seem completely constructed out
-of objects made as much as possible prosaic, I had an instant inward
-certainty that they were all poetic.  The sky above those staggering
-chimneys was not the sky above the chimneys in the street outside;
-its [[Stars|stars]] would have been strange [[Stars|stars]]; for I had looked
-round another corner of the cosmos.  To wander in the streets
-of that strange town would have been as unearthly an experience
-as to wander in the Blue Forest round Bluebeard's Sapphire Palace,
-or along the Golden Orange-Groves in the gardens of Prester John.
-Not verbally, but quite vividly, I knew then, exactly as I know now,
-that there is something mysterious and perhaps more than mortal
-about the power and call of [[Imagination|imagination]].  I do not think this early
-experience has been quite rightly understood, even by those modern
-writers who have written the most charming and fanciful studies
-of [[Childhood|childhood]]; and I am not so presumptuous as to think that I can
-scientifically succeed where I think they have somehow vaguely failed.
-But I have often fancied that it might be worth while to set down
-a few notes or queries about this difficult and distant impression.
-For one thing, the ordinary phrases used about childish fancies
-often strike me as missing the mark, and being in some subtle way,
-quite misleading.  For instance, there is the very popular phrase,
-"Make-believe." This seems to imply that the mind makes itself
-believe something; or else that it first makes something and then
-forces itself to believe in it, or to believe something about it.
-I do not think there is even this slight crack of falsity in the crystal
-clearness and directness of the [[Child|child]]'s vision of a fairy-palace--
-or a fairy-policeman. In one sense the [[Child|child]] believes much less,
-and in another much more than that.  I do not think the [[Child|child]]
-is deceived; or that he attempts for a moment to deceive himself.
-I think he instantly asserts his direct and divine right to enjoy [[Beauty|beauty]];
-that he steps straight into his own lawful kingdom of [[Imagination|imagination]],
-without any quibbles or questions such as arise afterwards out of false
-moralities and philosophies, touching the [[Nature|nature]] of falsehood and [[Truth|truth]].
-In other words, I believe that the [[Child|child]] has inside his head
-a pretty correct and complete definition of the whole [[Nature|nature]]
-and function of art; with the one addition that he is quite
-incapable of saying, even to himself, a single word on the subject.
-Would that many other professors of aesthetics were under
-a similar limitation.  Anyhow, he does not say to himself,
-"This is a real street, in which mother could go shopping."
-He does not say to himself, " This is an exact realistic copy
-of a real street, to be admired for its technical correctness."
-Neither does he say, "This is an unreal street, and I am drugging
-and deceiving my powerful mind with something that is a mere illusion."
-Neither does he say, "This is only a story, and [[Nurse|nurse]] says
-it is very naughty to tell stories."  If he says anything,
-he only says what was said by those men who saw the white blaze
-of the Transfiguration, "It is [[Well|well]] for us to be here."
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-LA PANTOMIMA
-
-Il signor Maurice Baring, Burattinaio in capo del Teatro di Burattini della [[Memory|Memoria]], ha incluso, con mia grande gioia, in una recente ristampa, un pezzo che avevo amato tanto tempo fa e poi smarrito per un po': si tratta di una scena della vecchia arlecchinata sul genere di Drury Lane, rifusa alla maniera dei drammi mistici di Maeterlinck. Fu probabilmente scritta quando Maeterlinck era di gran moda, e quando da tempo si andava dicendo che l'arlecchinata era irrimediabilmente antiquata. In un certo senso sarebbe difficile stabilire quale delle due appaia oggi più antiquata. Ma, a giudicare dalla critica e dalle conversazioni correnti, sono molti coloro che ricordano Pantalone e Arlecchino a stento ricordando persino Pelléas e Mélisande. È una cosa curiosa notare fino a che punto il mondo si sia fatto silenzioso intorno a Maeterlinck; anche se ciò può risultare tanto più impressionante ai seguaci superstiti di un così eloquente ammiratore del [[Silence|silenzio]]. Qualunque ne sia la causa, non fu certo che la sua opera fosse priva di una qualità immaginativa assai personale. Personalmente, direi che egli condivise la sorte di molti tentativi moderni di rifondare il misticismo su qualcosa di meno reale, anziché di più reale, di questo mondo. Ma la questione si affaccia qui soltanto in rapporto a questo piccolo scherzo letterario intorno alla pantomima, che ho sempre giudicato una delle più deliziose fantasie del signor Baring. Naturalmente è un'ottima parodia di Maeterlinck; è anche, in un certo senso, un'ottima parodia della pantomima; e quest'ultima è la conquista più delicata. Ogni persona sana desidera prendersi gioco di una cosa seria; ma è generalmente quasi impossibile prendersi gioco di una cosa buffa. In questo caso, però, l'idea di scherzo o di parodia non va confusa, né nell'uno né nell'altro caso, con alcun sentimento di ostilità, e nemmeno di [[Satire|satira]]. La [[Parody|parodia]] non consiste soltanto nel contrasto; al suo meglio, essa consiste piuttosto in un contrasto superficiale che ricopre una sostanziale congruenza. Può esistere il genere amaro di parodia, e ha diritto di esistere; ma è dubbio se, in questa forma particolare, la più amara sia la migliore. L'una specie di parodista [[Parody|parodierà]] naturalmente lo stile che detesta. Ma l'altra specie di parodista preferirà sempre [[Parody|parodiare]] lo stile che ama. Ricordo che nella mia fanciullezza, quando Swinburne era il nostro champagne (fin troppo frizzante), scrissi quasi altrettante consapevoli travestimenti di Swinburne quante inconsapevoli imitazioni di lui.
-
-Ora, in questo caso della pantomima, il [[Paradox|paradosso]] ha una sorta di morale. Perché so bene che la vera ragione per cui torno con inesausta gioia alla piccola arlecchinata maeterlinckiana del signor Baring è che l'atmosfera dell'arlecchinata era davvero per me, se non proprio maeterlinckiana, almeno in qualche misterioso senso mistica. Non ho bisogno di soffermarmi sui punti della [[Parody|parodia]] che erano arguti considerati come contrasti oltre [[Well|che]] come coincidenze. Il poliziotto ripete a intervalli, come il rintocco di una campana funebre (una campana perduta e vagabonda, non legata ad alcuna chiesa, che nella sua cavità profonda proferisce un tremendo agnosticismo): «Non era nella mia ronda». Il Pantalone, uno dei vecchi tremanti di Maeterlinck, farfuglia non di verdi prati ma di grigie e spettrali salsicce, come di cose che non troverà mai, o di cui non è certo di aver mai trovato. Ma il mio punto qui è che, malgrado il comico contrasto fra l'ilarità della pantomima e la disperazione dell'atmosfera maeterlinckiana, c'è davvero qualcosa che, per me almeno, fonde le due cose in una sorta di mistica [[unity|unità]]; sicché la [[house|casa]] sbilenca dell'arlecchinata è, persino qui, come la mia [[Home|casa]]. Perché sono assolutamente certo, come fatto di psicologia, che io, già da [[Childhood|bambino]], consideravo la parte scapigliata della pantomima, con i suoi attizzatoi e le sue salsicce, come non meno poetica parte della pantomima; e inconfondibilmente entro i confini del paese delle fate, come il palazzo della [[Queen|Regina]] delle Fate. Mai su incudine terrena, mai in focolare terreno, brillò quell'attizzatoio rosso: mai quei tintinnanti bricchi di latte traboccarono di una crema terrena. Il poliziotto aveva perfettamente ragione riguardo a entrambe le scene e in entrambi i sensi. Non era nella sua ronda. Era un poliziotto sperduto ed estraniato; un poliziotto rapito dalle fate; un agente che vagava lontano dai suoi doveri di pubblica sicurezza, sempre che ne avesse mai avuti. Lo scherzo dipendeva dal fatto tutto vittoriano che l'uniforme di un poliziotto di [[London|Londra]] sembrava insieme comune e comica; eppure, per quanto fosse comico, non era davvero comune. Non era soltanto infinocchiato, ma stregato; e la sua uniforme azzurra rivisitava i barlumi di una [[Moon|luna]] azzurra. Eppure, è curioso riflettere su quanto interamente diverso sarebbe apparso l'intero dramma se egli fosse stato una qualche specie di gendarme straniero, con il tricorno e la [[Sword|spada]].
-
-Ora, il mio interesse per la faccenda è questo: so che molti diranno che questo senso d'incanto è un effetto della distanza, come il colore delle colline azzurre o delle nuvole cremisi; e che, in questo aspetto romantico, non è che un teatrino di burattini della [[Memory|memoria]]. Direbbero che io lo vedevo in questo modo mistico attraverso i veli interposti del [[Time|tempo]], attraverso le nebbie di Maeterlinck, attraverso gli scherni del signor Baring, e, soprattutto, attraverso quella profondità di delicata [[Melancholy|malinconia]] con cui si ricorda il passato remoto. Ma sono certo che non è così. A parte il fatto che il [[Memory|ricordo]] delle gioie infantili non mi rende [[Melancholy|malinconico]] (è forse una sottile sfumatura di teologia), e a parte il fatto che sospetto che il signor Baring stesso ricordi la cosa press'a poco come la ricordo io, sono del tutto sicuro di ricordare una realtà che era reale allora tanto quanto [[Well|adesso]]. Potreste persuadermi che il sapore del croccante era un'illusione venutami solo negli anni più tardi, o che io credo di aver amato le caldarroste allora solo perché le amo adesso, con la stessa facilità con cui potreste convincermi che io non ebbi, già da [[Child|bambino]], l'impressione travolgente che quel mondo farsesco fosse fantastico, non soltanto nel senso di essere comico, ma anche nel senso di essere mistico. Per quanto la scena potesse superficialmente sembrare interamente costruita con oggetti resi il più possibile prosaici, io avevo un'istantanea certezza interiore che erano tutti poetici. Il cielo sopra quei comignoli traballanti non era il cielo sopra i comignoli della strada là fuori; le sue [[Stars|stelle]] sarebbero state [[Stars|stelle]] estranee; perché io avevo guardato oltre un altro angolo del cosmo. Vagare per le strade di quella strana città sarebbe stata un'esperienza tanto ultraterrena quanto vagare nella Foresta Azzurra intorno al Palazzo di Zaffiro di Barbablù, o lungo i Dorati Aranceti nei giardini del Prete Gianni. Non a parole, ma con perfetta vividezza, io sapevo allora, esattamente come lo so adesso, che c'è qualcosa di misterioso e forse più che mortale nel potere e nel richiamo dell'[[Imagination|immaginazione]]. Non credo che questa esperienza precoce sia stata compresa del tutto rettamente, nemmeno da quegli scrittori moderni che hanno scritto i più deliziosi e fantasiosi studi sull'[[Childhood|infanzia]]; e non sono così presuntuoso da credere di poter riuscire scientificamente là dove essi, mi pare, hanno in qualche modo vagamente fallito. Ma ho spesso pensato che varrebbe la pena di annotare qualche appunto o quesito su questa difficile e lontana impressione. Anzitutto, le frasi ordinarie che si usano a proposito delle fantasie infantili spesso mi colpiscono per come mancano il bersaglio, e per come sono, in qualche modo sottile, del tutto fuorvianti. Per esempio, c'è quella frase molto diffusa: «Far finta». Essa sembra implicare che la mente si costringa a credere qualcosa; oppure che prima fabbrichi qualcosa e poi si forzi a crederci, o a credere qualcosa a suo riguardo. Non credo che vi sia neppure questa lieve incrinatura di falsità nella cristallina limpidezza e immediatezza della visione che il [[Child|bambino]] ha di un palazzo fatato — o di un poliziotto fatato. In un senso il [[Child|bambino]] crede molto meno, e in un altro molto più di così. Non credo che il [[Child|bambino]] sia ingannato; né che tenti per un solo istante di ingannare se stesso. Credo che egli affermi all'istante il proprio diretto e divino diritto di godere della [[Beauty|bellezza]]; che entri dritto nel proprio legittimo regno dell'[[Imagination|immaginazione]], senza alcuno di quei cavilli o interrogativi che sorgono in seguito da false morali e filosofie, toccanti la [[Nature|natura]] della falsità e della [[Truth|verità]]. In altre parole, credo che il [[Child|bambino]] abbia nella testa una definizione abbastanza corretta e completa dell'intera [[Nature|natura]] e funzione dell'arte; con l'unica aggiunta che è del tutto incapace di dire, anche a se stesso, una sola parola in proposito. Volesse il cielo che molti altri professori di estetica fossero soggetti a una simile limitazione. Comunque sia, egli non dice a se stesso: «Questa è una strada vera, in cui la mamma potrebbe andare a far la spesa». Non dice a se stesso: «Questa è una copia realistica esatta di una strada vera, da ammirarsi per la sua correttezza tecnica». E neppure dice: «Questa è una strada irreale, e io sto drogando e ingannando la mia potente mente con qualcosa che è mera illusione». E neppure dice: «Questa è solo una favola, e la [[Nurse|bambinaia]] dice che è molto cattivo raccontare frottole». Se dice qualcosa, dice soltanto ciò che dissero quegli uomini che videro il bianco bagliore della Trasfigurazione: «È [[Well|bene]] per noi stare qui».
-
-
-
-<span class="atom-split" data-atom="story_06_the_pantomime--part_02" data-title="Common Man — The Pantomime (part 2)" data-chapter="The Pantomime" data-kind="excerpt"></span>
-
-
-This is the beginning of all sane art criticism:  [[Wonder|wonder]] combined
-with the complete serenity of the [[Conscience|conscience]] in the acceptance
-of such wonders.  The purity of the [[Child|child]] largely consists in its
-entire absence of [[morality]] in the sense of Puritan [[morality]],
-and all the modern and muddled moralities that have sprung from it,
-scientific and provincial and equivocal, especially the confusions
-about different meanings of words like "fact" and "[[Fable|fable]]" and falsehood.
-The problem is very close to the real problem about images.
-A [[Child|child]] knows that a doll is not a baby; just as clearly as a real
-believer knows that a statue of an angel is not an angel.
-But both know that in both cases the image has the power of both
-opening and concentrating the [[Imagination|imagination]].  Stevenson, whom I
-shall always count a fountain of fine inspiration, and certainly
-a man gifted with the eye that sees the daydreams of [[Childhood|childhood]]
-in broad daylight, was nevertheless not quite sound on this example,
-possibly because he was not quite sound on the other.
-He talks too often of the [[Child|child]] having his head in a cloud
-of confusion and indifference to fact or fancy.  I believe that
-our difficulty with the [[Child|child]] has the directly opposite cause.
-It comes because the [[Child|child]] is perfectly clear about the difference,
-not only between [[Truth|truth]] and falsehood but between fiction and falsehood.
-He understands the two essential types of [[Truth|truth]]:  the [[Truth|truth]] of the mystic,
-which turns a fact into a [[Truth|truth]] where it should be turned into a [[Truth|truth]],
-because the alternative is a triviality; and the [[Truth|truth]] of the martyr,
-which treats a [[Truth|truth]] as a fact, where it should be treated as a fact,
-because the alternative is a lie.  In other words, the [[Child|child]] knows
-perfectly [[Well|well]] without being told the difference between saying
-he has seen the policeman cut in two in the pantomime, and saying
-he has seen his little brother break the jug in the nursery,
-when he really broke it himself.  It is we who have grown confused
-about these categories, and cannot realise the swiftness and clarity
-with which the [[Child|child]] accepts what we call the convention of art.
-Looking at the street down which the clown pursues the policeman
-with a poker he would never dream of saying in the ordinary sense,
-indeed he would never dream of saying at all, "That is a real street."
-But still less would he ever dream of saying, "That is an unreal street."
-He has a better understanding of [[Dreams|dreams]]--and visions.
-
-In the case of the Pantomime there is one plain fact which clenches
-this conviction for me.  I know I knew that the scenery and costume
-were "artificial", because I deeply rejoiced that they were artificial.
-I liked the notion that things were made of painted wood or plastered
-by hand with gold and silver.  These were the vestments and ornaments
-of the ritual; but they were not the rite, still less the revelation.
-I liked the [[Magic|magic]]-box called a stage, because there, for some reason,
-the light that never was on sea or land was on paint and paste-board.
-But I knew perfectly [[Well|well]] that it was paint and paste-board.
-It would be impossible for anybody not to know that who had
-a toy-theatre of his own.  In the Pantomime of my [[Childhood|childhood]],
-with its somewhat simpler scenery, there were tricks of mere stage
-carpentry which I enjoyed as much as if I were working them myself.
-There was one way of representing tossing waves, by rank behind
-rank of escaloped blue walls as groundpieces, moved in opposite
-directions so that the crests seemed to [[Cross|cross]] and [[Dance|dance]].
-I knew how it was done, because my father did it himself before my
-very eyes, in my own toy-theatre at [[Home|home]].  But it gave me such ecstasy
-that even now when I think of it for an instant my heart leaps up
-like the wave.  I knew it was not [[Water|water]], but I knew it was sea;
-and in that flash of knowledge I had passed far beyond those who suffer
-the fixed and freezing illusion, uttered by the pessimistic poet,
-that "the sea's a lot of [[Water|water]] that happens to be there."
-In [[Imagination|imagination]] there is no illusion; no, not even an instant of illusion.
-For no split second even then did I believe that people
-had cut in two a live man--even if he was only a policeman.
-If I had believed it, I should have felt very different.
-What I felt was that it was right; that it was a good and enlarging
-and inspiriting thing to see; that it was an excellent thing
-to look down on the strange street where such things could be seen;
-in short, I could say then, with a quite undivided mind, that it
-was a very good Christmas present to go to the Pantomime.
-
-READING THE [[Riddle|RIDDLE]]
-
-An infinite number of years ago, when I was the chief weakness
-of a publisher's office, I remember that there was issued
-from that establishment a book of highly modern [[philosophy]]:
-a work of elaborate evolutionary explanation of everything and nothing;
-a work of the New Theology.  It was called "The Great Problem Solved"
-or some such title.  When this book had been out for a few
-days it began to promise an entirely unexpected [[success]].
-Booksellers sent to ask about it, travellers came in and asked for it,
-even the ordinary public stood in a sort of knot outside the door,
-and sent in their bolder spirits to make inquiries.
-
-Even to the publisher this popularity seemed remarkable; to me
-(who had dipped into the work, when I should have been otherwise employed)
-it appeared utterly incredible.
-
-After some little [[Time|time]], however, when they had examined
-"The Great Problem Solved", the lesser problem was also solved.
-We found that people were buying it under the impression that it
-was a [[Detective|detective]] story.  I do not blame them for their [[Desire|desire]],
-and most certainly I do not blame them for their disappointment.
-It must have exasperated them, it would certainly infuriate me,
-to open a book expecting to find a cosy, kindly, human story about
-a murdered man found in a cupboard, and find instead a lot of dull,
-bad [[philosophy]] about the upward progress and the purer [[morality]].
-I would rather read any [[Detective|detective]] book than that book.
-I would rather spend my [[Time|time]] in finding out why a dead man was
-dead than in slowly comprehending why a certain philosopher had
-never been alive.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Questo è l'inizio di ogni sana critica d'arte: la [[Wonder|meraviglia]] unita alla completa serenità della [[Conscience|coscienza]] nell'accettazione di simili meraviglie. La purezza del [[Child|bambino]] consiste in gran parte nella sua totale assenza di [[morality|moralità]] nel senso della [[morality|moralità]] puritana, e di tutte le moderne e confuse moralità che ne sono scaturite, scientifiche e provinciali ed equivoche, specialmente le confusioni intorno ai diversi significati di parole come «fatto» e «[[Fable|favola]]» e falsità. Il problema è assai vicino al vero problema riguardo alle immagini. Un [[Child|bambino]] sa che una bambola non è un neonato; con la stessa chiarezza con cui un vero credente sa che la statua di un angelo non è un angelo. Ma entrambi sanno che, in entrambi i casi, l'immagine ha il potere sia di aprire sia di concentrare l'[[Imagination|immaginazione]]. Stevenson, che considererò sempre una fonte di fine ispirazione, e certamente un uomo dotato dell'occhio che vede in pieno giorno i sogni a occhi aperti dell'[[Childhood|infanzia]], non era tuttavia del tutto attendibile su questo esempio, forse perché non era del tutto attendibile sull'altro. Parla troppo spesso del [[Child|bambino]] che avrebbe la testa in una nube di confusione e di indifferenza fra il fatto e la fantasia. Io credo che la nostra difficoltà col [[Child|bambino]] abbia la causa diametralmente opposta. Nasce dal fatto che il [[Child|bambino]] è perfettamente chiaro sulla differenza, non solo fra [[Truth|verità]] e falsità, ma fra finzione e falsità. Egli comprende i due tipi essenziali di [[Truth|verità]]: la [[Truth|verità]] del mistico, che trasforma un fatto in una [[Truth|verità]] là dove va trasformato in una [[Truth|verità]], perché l'alternativa è una banalità; e la [[Truth|verità]] del martire, che tratta una [[Truth|verità]] come un fatto, là dove va trattata come un fatto, perché l'alternativa è una menzogna. In altre parole, il [[Child|bambino]] conosce perfettamente [[Well|bene]], senza che glielo si dica, la differenza fra il dire di aver visto il poliziotto tagliato in due nella pantomima e il dire di aver visto il suo fratellino rompere la brocca nella stanza dei bambini, quando in realtà l'ha rotta lui stesso. Siamo noi che ci siamo confusi su queste categorie, e non riusciamo a renderci conto della prontezza e della chiarezza con cui il [[Child|bambino]] accetta ciò che noi chiamiamo la convenzione dell'arte. Guardando la strada lungo la quale il pagliaccio insegue il poliziotto con un attizzatoio, egli non si sognerebbe mai di dire, nel senso ordinario — anzi, non si sognerebbe mai di dirlo affatto —: «Quella è una strada vera». Ma ancor meno si sognerebbe mai di dire: «Quella è una strada irreale». Egli ha una migliore comprensione dei [[Dreams|sogni]] — e delle visioni.
-
-Nel caso della pantomima c'è un fatto lampante che suggella in me questa convinzione. So di aver saputo che gli scenari e i costumi erano «artificiali», perché mi rallegravo profondamente che fossero artificiali. Mi piaceva l'idea che le cose fossero fatte di legno dipinto o intonacate a mano d'oro e d'argento. Erano i paramenti e gli ornamenti del rito; ma non erano il rito, e ancor meno la rivelazione. Mi piaceva la scatola [[Magic|magica]] chiamata palcoscenico, perché lì, per qualche ragione, la luce che mai fu su mare o su terra era sulla vernice e sul cartone. Ma sapevo perfettamente [[Well|bene]] che era vernice e cartone. Sarebbe impossibile non saperlo, per chi possedeva un teatrino di giocattolo tutto suo. Nella pantomima della mia [[Childhood|infanzia]], con la sua scenografia un po' più semplice, c'erano trucchi di semplice falegnameria scenica che godevo tanto quanto se li stessi manovrando io stesso. C'era un modo di rappresentare le onde in tempesta, mediante fila dietro fila di muri azzurri smerlati come quinte di fondo, mossi in direzioni opposte, cosicché le creste sembravano [[Cross|incrociarsi]] e [[Dance|danzare]]. Sapevo come si faceva, perché mio padre lo faceva lui stesso sotto i miei occhi, nel mio teatrino di [[Home|casa]]. Eppure ciò mi dava una tale estasi che ancora adesso, quando ci penso per un istante, il cuore mi balza in petto come l'onda. Sapevo che non era [[Water|acqua]], ma sapevo che era mare; e in quel lampo di conoscenza io ero passato ben oltre coloro che soffrono l'illusione fissa e agghiacciante, proferita dal poeta pessimista, secondo cui «il mare è una gran quantità d'[[Water|acqua]] che si trova a essere lì». Nell'[[Imagination|immaginazione]] non c'è illusione; no, nemmeno un istante d'illusione. Perché neppure per una frazione di secondo, allora, io credetti che avessero tagliato in due un uomo vivo — anche se era soltanto un poliziotto. Se l'avessi creduto, avrei provato tutt'altro. Ciò che provavo era che la cosa era giusta; che era una cosa buona e dilatante e ispiratrice da vedere; che era una cosa eccellente affacciarsi su quella strana strada dove simili cose si potevano vedere; in breve, potevo dire allora, con animo del tutto indiviso, che era davvero un bel regalo di Natale andare alla pantomima.
-
-LEGGERE L'[[Riddle|ENIGMA]]
-
-Un numero infinito di anni fa, quando ero la principale debolezza dell'ufficio di un editore, ricordo che da quello stabilimento fu dato alle stampe un libro di [[philosophy|filosofia]] altamente moderna: un'opera di elaborata spiegazione evoluzionistica di tutto e di niente; un'opera della Nuova Teologia. Si intitolava "The Great Problem Solved" o qualcosa del genere. Quando questo libro fu in circolazione da pochi giorni, cominciò a promettere un [[success|successo]] del tutto inatteso. I librai mandavano a informarsi, i commessi viaggiatori entravano a chiederlo, persino il pubblico ordinario stazionava in una sorta di capannello davanti alla porta, e mandava dentro gli spiriti più audaci a chiedere notizie.
-
-Persino all'editore questa popolarità sembrava notevole; a me (che avevo dato una scorsa all'opera, quando avrei dovuto essere altrimenti occupato) appariva assolutamente incredibile.
-
-Dopo qualche po' di [[Time|tempo]], tuttavia, quando ebbero esaminato "The Great Problem Solved", anche il problema minore fu risolto. Scoprimmo che la gente lo comprava nella convinzione che fosse un romanzo [[Detective|poliziesco]]. Non li biasimo per il loro [[Desire|desiderio]], e di certo non li biasimo per la loro delusione. Deve averli esasperati, come di sicuro infurierebbe me, aprire un libro aspettandosi di trovarvi una storia accogliente, benevola e umana su un uomo assassinato ritrovato in un armadio, e trovarvi invece un mucchio di scialba, cattiva [[philosophy|filosofia]] sul progresso ascendente e sulla [[morality|moralità]] più pura. Preferirei leggere qualsiasi libro [[Detective|poliziesco]] a quel libro. Preferirei spendere il mio [[Time|tempo]] a scoprire perché un uomo morto fosse morto, piuttosto che a comprendere lentamente perché un certo filosofo non fosse mai stato vivo.
-
-
-
-<span class="atom-split" data-atom="story_06_the_pantomime--part_03" data-title="Common Man — The Pantomime (part 3)" data-chapter="The Pantomime" data-kind="excerpt"></span>
-
-
-But this little incident has always stuck to me as a symbol of
-what is really wrong with modern popular religion.  Why is a work
-of modern theology less startling, less arresting to the [[Soul|soul]],
-than a work of silly police fiction?  Why is a work of modern theology
-less startling, less arresting to the [[Soul|soul]] than a work of old theology?
-When those unfortunate clients bought "The Great Problem Solved",
-perhaps it was inevitable that they should feel slightly cooled
-and lowered in their vitality; perhaps no philosophical work can
-really be so good as a good [[Detective|detective]] story.  But at any rate
-there need not have been such an absolute abyss between them.
-People need not have felt that they had paid for the most
-exciting kind of book and got the least exciting kind of book.
-It cannot be right that religion should be the dullest of subjects.
-There must be something wrong if the most important human business
-is also the least exciting.  There must be something wrong if
-everything is not interesting.
-
-A man called [[smith|Smith]] goes out for a walk, and stops by a bookstall,
-where he sees a book called "The Great Problem Solved".  If [[smith|Smith]]
-finds that this book solves a problem in crime, he is entranced.
-If [[smith|Smith]] finds that it solves a problem in chess, he is interested.
-If [[smith|Smith]] finds that it solves the problem in the last issue of Answers,
-he is genuinely excited.  But if [[smith|Smith]] finds that it solves the problem
-of [[smith|Smith]], that it explains the stones under his feet, and the [[Stars|stars]]
-over his head, that it tells him suddenly why it really is that he likes
-chess or [[Detective|detective]] stories, or anything else; if I say, [[smith|Smith]] finds
-that the book explains [[smith|Smith]]--then we are told he finds it dull.
-It may be a democratic prejudice, but I do not believe this.
-I think that [[smith|Smith]] likes modern chess problems more than modern
-philosophical problems for the very simple reason that they are better.
-I think he likes a modern [[Detective|detective]] story better than a modern religion
-simply because there are some good modern [[Detective|detective]] stories and no
-good modern religions.  In short, he buys "The Great Problem Solved"
-as a police [[Novel|novel]], because be knows that in a police [[Novel|novel]], in some
-shape or form, the great problem will be solved.  And he does not buy
-it as a book of modern [[philosophy]], because he knows that in a book
-of modern [[philosophy]], the great problem will certainly not be solved.
-This title as the title of a police [[Romance|romance]] is a sensation,
-but as the title of a metaphysical work it is a swindle.
-Those early friends of mine bought the book when they thought that it
-solved the mystery of Berkeley-square, but dropped it like hot bricks
-when they found that it professed only to solve the mystery of existence.
-But if those people had really believed for a moment that it did solve
-the mystery of existence they would not have dropped it like hot bricks.
-They would have walked over hot bricks for ten miles to find it.
-
-That forgotten book may stand as a type of all the new
-theological literature.  What is wrong with it is not that it
-professes to state the [[Paradox|paradox]] of God, but that it professes to state
-the [[Paradox|paradox]] of God as a truism.  You may or may not be able to reveal
-the divine secret; but at least you cannot let it leak out.
-If ever it comes, it will be unmistakable, it will kill or cure.
-Judaism, with its dark sublimity, said that if a man saw God
-he would die.  [[Christianity]] conjectures that (by an even more
-catastrophic fatality) if he sees God he will live for ever.
-But whatever happens will be something decisive and indubitable.
-A man after seeing God may die; but at least he will not be
-slightly unwell, and then have to take a little medicine and then
-have to call in a doctor.  If any of us ever do read the [[Riddle|riddle]],
-we shall read it in brutal black and blazing white, exactly as we
-do read the [[Riddle|riddle]] of some sixpenny mystery of murder.  If we ever
-do find the solution, we shall know that it is the right solution.
-
-This dark and drastic quality there has been certainly in all
-real religions.  The ordinary [[Detective|detective]] story has one deep quality
-in common with [[Christianity]]; it brings [[Home|home]] the crime in a quarter
-that is unsuspected.  In any good [[Detective|detective]] story the last shall
-be first and the first shall be last.  The judgment at the end of any
-silly sensational story is like the judgment at the end of the world;
-it is unexpected.  As the sensational story always makes the apparently
-blameless banker, the seemingly spotless [[aristocrat]], the author
-of the incomprehensible crime, so the author of [[Christianity]] told
-us that in the end the bolt would fall with a brutal novelty,
-and he that exalted himself would be abased.
-
-The actual records of great religions are so terribly
-theatrical that Mr. Bernard [[Shaw]] recently said that the story
-of the Crucifixion in the Gospels was too dramatic to be true.
-This is sufficiently characteristic of the Fabian political [[philosophy]],
-which has never lived in the heart of any heroic politics.
-The story of Danton and Robespierre (to take an accidental example)
-with its "speeches", "eternal daring", "If we do this our names
-are never forgotten among men", "The [[Blood|blood]] of Danton chokes you",
-"There is a God"--shows what men do say.  These things were said,
-and said suddenly, because the heart of man was high.
-When man is at his utmost he is in a state indescribable;
-he tells the [[Truth|truth]] or dies.
-
-It is not in your lot or mine to live in a great or an ecstatic age.
-Men talk of the noise and unrest of our age; but I think that all that age
-is really very sleepy; all the wheels and the traffic send one to [[Sleep|sleep]].
-The shrieking pistons and the shattering hammers are one enormous
-and most soothing lullaby.  But even in our quiet life I think
-we can feel the great fact that is the core of all religion.
-However quiet may be the skies, or however cool the meadows,
-we always feel that if we did know what they meant the meaning
-would be something mighty and shattering.  About the weakest weed
-there is still a sensational difference between understanding
-and not understanding.  We stare at a tree in an infinite leisure;
-but we know all the [[Time|time]] that the real difference is between
-a stillness of mystery and an explosion of explanation.
-We know all the [[Time|time]] that the question is whether it will always
-continue to be a tree or turn suddenly into something else.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ma questo piccolo episodio mi è sempre rimasto impresso come un simbolo di ciò che davvero non va nella moderna religione popolare. Perché un'opera di teologia moderna è meno sconvolgente, meno arrestante per l'[[Soul|anima]], di un'opera di sciocca narrativa poliziesca? Perché un'opera di teologia moderna è meno sconvolgente, meno arrestante per l'[[Soul|anima]], di un'opera di teologia antica? Quando quegli sventurati clienti comprarono "The Great Problem Solved", forse era inevitabile che si sentissero un poco raffreddati e abbassati nella loro vitalità; forse nessun'opera filosofica può essere davvero buona quanto una buona storia [[Detective|poliziesca]]. Ma, a ogni modo, non ci sarebbe stato bisogno di un abisso così assoluto tra le due cose. Non ci sarebbe stato bisogno che la gente sentisse di aver pagato per il genere di libro più eccitante e di aver ottenuto il genere di libro meno eccitante. Non può essere giusto che la religione sia il più tedioso dei soggetti. Ci dev'essere qualcosa che non va, se la più importante delle faccende umane è anche la meno eccitante. Ci dev'essere qualcosa che non va, se non tutto è interessante.
-
-Un uomo di nome [[smith|Smith]] esce a fare una passeggiata, e si ferma presso una bancarella di libri, dove vede un libro intitolato "The Great Problem Solved". Se [[smith|Smith]] scopre che questo libro risolve un problema di criminalità, ne è rapito. Se [[smith|Smith]] scopre che risolve un problema di scacchi, ne è interessato. Se [[smith|Smith]] scopre che risolve il problema dell'ultimo numero di "Answers", ne è genuinamente eccitato. Ma se [[smith|Smith]] scopre che risolve il problema di [[smith|Smith]], che spiega le pietre sotto i suoi piedi e le [[Stars|stelle]] sopra il suo capo, che gli dice d'un tratto perché in realtà gli piacciono gli scacchi o le storie [[Detective|poliziesche]], o qualsiasi altra cosa; se, dico, [[smith|Smith]] scopre che il libro spiega [[smith|Smith]] — allora ci vien detto che lo trova tedioso. Sarà anche un pregiudizio democratico, ma io non ci credo. Credo che a [[smith|Smith]] piacciano i moderni problemi di scacchi più dei moderni problemi filosofici per la ragione semplicissima che sono migliori. Credo che gli piaccia una moderna storia [[Detective|poliziesca]] più di una moderna religione semplicemente perché ci sono alcune buone moderne storie [[Detective|poliziesche]] e nessuna buona moderna religione. In breve, egli compra "The Great Problem Solved" come [[Novel|romanzo]] poliziesco, perché sa che in un [[Novel|romanzo]] poliziesco, in una forma o nell'altra, il grande problema verrà risolto. E non lo compra come libro di [[philosophy|filosofia]] moderna, perché sa che in un libro di [[philosophy|filosofia]] moderna il grande problema di certo non verrà risolto. Questo titolo, come titolo di un [[Romance|romanzo]] poliziesco, è una sensazione, ma come titolo di un'opera metafisica è una truffa. Quei miei antichi amici comprarono il libro quando pensarono che risolvesse il mistero di Berkeley Square, ma lo lasciarono cadere come mattoni roventi quando scoprirono che pretendeva soltanto di risolvere il mistero dell'esistenza. Ma se quella gente avesse davvero creduto, anche per un istante, che esso risolvesse il mistero dell'esistenza, non lo avrebbe lasciato cadere come mattoni roventi. Avrebbe camminato su mattoni roventi per dieci miglia pur di trovarlo.
-
-Quel libro dimenticato può valere come tipo di tutta la nuova letteratura teologica. Ciò che vi è di sbagliato non è che pretenda di enunciare il [[Paradox|paradosso]] di Dio, ma che pretenda di enunciare il [[Paradox|paradosso]] di Dio come un truismo. Potete essere o non essere in grado di rivelare il segreto divino; ma almeno non potete lasciarlo trapelare. Se mai verrà, sarà inconfondibile, ucciderà o guarirà. Il giudaismo, con la sua oscura sublimità, diceva che se un uomo vedeva Dio moriva. Il [[Christianity|cristianesimo]] congettura che (per una fatalità ancor più catastrofica) se un uomo vede Dio vivrà in eterno. Ma qualunque cosa accada, sarà qualcosa di decisivo e indubitabile. Un uomo, dopo aver visto Dio, può morire; ma almeno non si sentirà leggermente indisposto, per poi dover prendere un po' di medicina e poi dover chiamare un medico. Se mai qualcuno di noi leggerà l'[[Riddle|enigma]], lo leggeremo in nero brutale e in bianco fiammeggiante, esattamente come leggiamo l'[[Riddle|enigma]] di un qualche giallo da quattro soldi su un delitto. Se mai ne troveremo la soluzione, sapremo che è la soluzione giusta.
-
-Questa qualità cupa e drastica c'è stata di certo in tutte le religioni autentiche. La comune storia [[Detective|poliziesca]] ha una profonda qualità in comune con il [[Christianity|cristianesimo]]: fa ricadere [[Home|a casa]] il delitto da un lato insospettato. In ogni buona storia [[Detective|poliziesca]] gli ultimi saranno i primi e i primi saranno gli ultimi. Il giudizio alla fine di ogni sciocca storia sensazionale è come il giudizio alla fine del mondo: è inatteso. Come la storia sensazionale fa sempre del banchiere apparentemente irreprensibile, dell'[[aristocrat|aristocratico]] apparentemente immacolato, l'autore del delitto incomprensibile, così l'autore del [[Christianity|cristianesimo]] ci disse che alla fine il fulmine cadrà con una brutale novità, e chi avrà esaltato se stesso sarà abbassato.
-
-Le testimonianze effettive delle grandi religioni sono così terribilmente teatrali che il signor Bernard [[Shaw]] ha detto di recente che la storia della Crocifissione nei Vangeli era troppo drammatica per essere vera. Il che è sufficientemente caratteristico della [[philosophy|filosofia]] politica fabiana, che non è mai vissuta nel cuore di alcuna politica eroica. La storia di Danton e Robespierre (per prendere un esempio a caso), con i suoi «discorsi», la sua «audacia eterna», il suo «Se faremo questo, i nostri nomi non saranno mai dimenticati fra gli uomini», il suo «Il [[Blood|sangue]] di Danton ti soffoca», il suo «C'è un Dio» — mostra ciò che gli uomini davvero dicono. Queste cose furono dette, e dette d'un tratto, perché il cuore dell'uomo era in alto. Quando l'uomo è al suo culmine, si trova in uno stato indescrivibile; dice la [[Truth|verità]] o muore.
-
-Non è nella sorte vostra né nella mia vivere in un'epoca grande o estatica. Si parla del frastuono e dell'inquietudine della nostra epoca; ma io penso che tutta questa epoca sia in realtà assai sonnolenta; tutte le ruote e tutto il traffico ci conciliano il [[Sleep|sonno]]. Gli stantuffi stridenti e i martelli fragorosi sono un'unica, enorme e più che rasserenante ninnananna. Ma persino nella nostra vita tranquilla io penso che possiamo sentire il grande fatto che è il nucleo di ogni religione. Per quanto quieti possano essere i cieli, o per quanto freschi i prati, sentiamo sempre che se davvero sapessimo che cosa significano, il loro significato sarebbe qualcosa di possente e sconvolgente. Intorno alla più debole delle erbacce c'è pur sempre una sensazionale differenza fra il comprendere e il non comprendere. Fissiamo un albero in un ozio infinito; ma sappiamo per tutto il [[Time|tempo]] che la vera differenza è quella fra un silenzio di mistero e un'esplosione di spiegazione. Sappiamo per tutto il [[Time|tempo]] che la questione è se esso continuerà sempre a essere un albero o se si trasformerà d'un tratto in qualcos'altro.
-
-
-
-<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_01" data-title="Common Man — A Tale Of Two Cities (part 1)" data-chapter="A Tale Of Two Cities" data-kind="excerpt"></span>
-
-
-A TALE OF TWO CITIES
-
-A Tale of Two Cities was written in the later part of Dicken's
-literary development, and in one respect stands absolutely [[Alone|alone]]
-among all his works.  It is, I think, the one solitary instance,
-from which a critic in distant days could possibly deduce that this
-very great literary man had ever read any literature at all.
-This generalisation may be subject to certain partial modifications,
-to be considered when we consider the course of his life; but as a
-matter of proportion, which is the essential of [[Truth|truth]], it is true.
-In a thousand ways, ranging from the most depressing destitution
-to the most pantomimic parade and luxury, Dickens showed that he had
-studied life, and could turn life into literature.  In a thousand moods,
-ranging from the rankest vulgar farce to the most stagey and
-melodramatic [[morality]], he showed that he had within himself the powers
-and passions and appetites to stock the whole world with stories.
-But very seldom indeed, in enjoying the world of Dickens, do we
-feel that there was really any writer but Dickens in the world.
-Like all very creative men, he unfixes the dates of [[history]],
-and stands as a sort of immortal anachronism.  It is sometimes with a
-sort of start that we remember that his Hogarthian farce and [[Tragedy|tragedy]]
-went on long after Keats had written "La Belle Dame Sans Merci"
-and [[Well|well]] into the [[Time|time]] when Tennyson was writing the [[Poems|poems]]
-of his best period, which was his Pre-Raphaelite period.
-Dickens, in practice and in private life, was a very great admirer
-of Tennyson.  Forster, his biographer, says that his literary
-tastes touching his contemporaries varied very much, but that
-he never failed in his admiration of Tennyson.  But I do not
-honestly believe that anybody could guess, from any printed word--
-from the first words about Mr. [[Pickwick]] and Mr. Blotton of Aldgate,
-to the last broken and doubtful sentences that hint at the [[Identity|identity]]
-of Datchery or the destruction of Drood--that Dickens had taken
-any particular pleasure in "The Lady of Shalott", or "Sir Galahad".
-It is partly a tribute to the strength of Dickens that his mind was
-so teeming with images that he never needed to borrow mere ideas.
-It is partly, also a real weakness in his position, that he had
-never valued the great culture of the past, and therefore could
-not fully understand its developments all around him in the culture
-of the present.  But, for good or evil, it is true that in
-ninety-nine cases out of a hundred nobody (to use a popular phrase)
-ever made a bulge in Dickens; nobody even made a dent in him.
-He remained, with all his gifts and glories, solidly and almost
-insolently himself.  The one example, among all works of his authorship,
-in which we feel even faintly the presence, or perhaps the [[Shadow|shadow]],
-of another author, is A Tale of Two Cities; and that other author
-is Thomas Carlyle.
-
-As I have said, the normal human conditions necessary to his
-normal human life, involved some modification of this statement.
-He was very largely what is called a [[Self|self]]-taught man, which means
-that be was taught, not by himself, but by other people;
-by other people acting as they really act in the real world,
-and not as they pose before pupils they are paid to teach.
-His domestic circumstances from the first were very insecure,
-so that he saw more of books than of school-books; he learned more
-from tattered volumes left about in a tavern than from grammars
-provided primly in an educational establishment.  But it is quite
-true that among the tattered volumes in the tavern, or elsewhere,
-there were some with titles not yet entirely forgotten:  titles like
-Robinson Crusoe and Tom [[Jones]] and Roderick Random and Tristram Shandy.
-In this sense it is true that he, like every other human being who ever
-wrote or even read, owed something to what had already been written.
-And indeed the great comic classics, which were the glory of
-eighteenth-century England, did leave a certain trend or track
-in his mind, which is an utterly trackless waste as regards all
-the things that anybody could ever have tried to teach him in school.
-It is evident, however, from the very [[Nature|nature]] of the story itself,
-that school in his case must have been almost as intermittent as truancy.
-Charles Dickens was born in Portsea, adjoining Portsmouth,
-in 1812, and was promptly carried away from it at the age of two.
-He then became a Londoner for a few years, equally infantile;
-and then his wandering family settled down in Chatham, which was about
-the nearest approach it ever made to settling down anywhere.  Thus we
-find first the two facts, that are both determining and important:
-one, that his family was one of very varied economic fortunes,
-such as leads to frequent change of abode, and has indeed made the modern
-poorer middle class almost as nomadic as Arabs; and the other,
-that such background as a [[Child|child]] of genius will always feel and value
-(if he has half a chance to do it) was for Charles Dickens,
-to the day of his [[Death|death]], the great roads of [[Kent]] that go down to Dover;
-and the gardens and hopfields and the towers of Rochester [[Cathedral]].
-In so far as he had any traditions, that was his traditional environment;
-just as in so far as he had any culture, it was that of the great
-comic novelists of England a hundred years before.  He was so far
-traditional by instinct that he never forgot either of the influences;
-he named one of his sons after Henry Fielding; and, when he came
-to comfort and affluence, he made his [[Home|home]] on Gad's [[Hill]],
-on that great Kentish [[Road|road]] where [[Falstaff]] had played the glorious
-[[Fool|fool]] long ago.
-
-The private life of Dickens, however, is of little importance
-to the outline of criticism here involved, and is indeed
-in its own [[Nature|nature]] somewhat irrelevant and accidental.
-Its chief [[Tragedy|tragedy]] was almost an accident, and its premature close
-was a sort of defeat brought about by an excess of triumphs.
-It is [[Well|well]] known that in his early youth, while he was still
-a parliamentary reporter living in [[London]] after his boyhood
-in Chatham, he married the daughter of one of his literary patrons
-named Hogarth, and that by a long process of disagreement,
-about which critics can always disagree, he came to be alienated
-from his wife; though, curiously enough, remaining on terms of
-perfectly sober and fraternal [[Friendship|friendship]] with one of her sisters.
-There is no need to pronounce upon a problem which was really
-kept private, by the not undignified prejudice of the Victorian [[Time|time]];
-it is enough to say that no very [[Grave|grave]] charge was ever brought against
-either party by any of the small group of people who knew the [[Truth|truth]].
-It is more relevant here to remark that at almost the same moment
-as his [[Marriage|marriage]] occurred his first and perhaps most triumphant
-entry into literature.  His first book, commonly called [[Pickwick]]
-or the [[Pickwick]] Papers, is supreme among his works in many ways,
-but especially in the way here in question:  that it is a
-purely personal creation and owes nothing to any other book.
-It is all the more amusing to remember that a spiteful attempt
-was made by some of his enemies to suggest that it owed
-everything to its original illustrator, an [[Artist|artist]] named Seymour,
-who drew spirited sporting sketches of the sort then fashionable.
-It is a peculiarly false insinuation, in a literary sense.
-For it is the whole point of [[Pickwick]] that its rush of inspiration
-not only [[Leaves|leaves]] Seymour's first ideas behind, but [[Leaves|leaves]] Dickens'
-first ideas quite as far behind.  We might say that the whole
-point of [[Pickwick]] is that it does not stick to the point;
-or at least that the point is not [[Pickwick]], in the sense of the
-President of the [[Pickwick]] Club.  The best things in [[Pickwick]] have
-nothing to do with the principal characters, still less with the
-preliminary chapters, and least of all with the early illustrations.
-It is an exceptional case in which the story grows better the more
-it strays from the story.  Dickens did not preserve this limpid
-and perfect liberty in his later stories.  He produced better novels,
-but never so good a book.  Still, we can say of the ensuing series
-of books that, whatever else they were, they were not bookish.
-They showed Dickens interested in different things, but never
-any other authors influencing Dickens.  Thus, in his next book
-[[Oliver Twist]], which he seemed resolved to make as grim and lurid
-as [[Pickwick]] had been gay and luminous, he was in fact protesting
-against many social evils, which had already produced noble protests
-from great men of that age.  The workhouse he hated had been hated
-as healthily by Cobbett or by Hood, by Cartwright or by Carlyle.
-But nobody could say that one word of [[Oliver Twist]] sounds as if it
-were suggested by the style of Cobbett or by the style of Carlyle.
-[[Nicholas Nickleby]] and [[Martin Chuzzlewit]] show him even more
-obviously walking down his own street, in some ways even a narrow
-and Cockney street; the same applies to The Old Curiosity Shop;
-and, though [[Barnaby Rudge]] is a sort of experiment in the way
-of a [[Historical Novel|historical novel]], it is not much more really historical
-than the Old Curiosity Shop or its Wardour Street curiosities.
-Dombey and Son has the same now established balance of perfect
-[[Comedy|comedy]] and rather imperfect [[Melodrama|melodrama]]; and though [[David Copperfield]]
-strikes far deeper, and releases a much finer [[spring]] of inspiration,
-it is even more personal than the rest.  Dickens has found a new
-source of inspiration, but not by reading anybody else's book;
-rather by reading his own diary.  The same statement applies to that
-fine book, [[Great Expectations]], and a much sharper social criticism,
-still extorted by contemporary facts rather than contemporary culture,
-appears in the unconscious or unclassifiable Socialism of Hard Times.
-It mixes his own observations less with mere fancies than did
-his first protest in [[Oliver Twist]]; but it is always his own
-observations and nobody else's. There is little to vary this
-verdict in the other two novels of Bleak [[house|House]] and Little Dorrit.
-It is only when we come to the book which is here specially
-in question, A Tale of Two Cities, which appeared in 1859, that we
-have anything like the particular impression of which I speak;
-that Dickens has felt the pressure of an imaginative atmosphere outside
-his own bursting sufficiency and energy, that energy from whose
-centrifugal fury all fancies but his own had been spurned away.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-RACCONTO DI DUE CITTÀ
-
-*Racconto di due città* fu scritto nella fase più tarda dello sviluppo letterario di Dickens e, sotto un certo aspetto, si erge assolutamente [[Alone|solitario]] fra tutte le sue opere. È, credo, l'unico caso isolato dal quale un critico dei giorni lontani potrebbe forse dedurre che questo grandissimo uomo di lettere avesse mai letto un rigo di letteratura. Questa generalizzazione può essere soggetta a certe parziali modificazioni, da considerarsi quando prenderemo in esame il corso della sua vita; ma come questione di proporzione, che è l'essenza della [[Truth|verità]], essa è vera. In mille modi, che spaziano dall'indigenza più deprimente alla più pantomimica sfilata e sfarzo, Dickens mostrò di aver studiato la vita e di saperla tramutare in letteratura. In mille umori, che spaziano dalla farsa più goffamente volgare alla [[morality|moralità]] più teatrale e melodrammatica, egli mostrò di avere in sé le forze, le passioni e gli appetiti per rifornire di storie il mondo intero. Ma assai di rado, in verità, godendo del mondo di Dickens, avvertiamo che vi fosse davvero al mondo altro scrittore che Dickens. Come tutti gli uomini profondamente creativi, egli scardina le date della [[history|storia]] e sta lì come una sorta di immortale anacronismo. È talvolta con una specie di sussulto che ci rammentiamo come la sua farsa e la sua [[Tragedy|tragedia]] hogarthiane proseguissero a lungo dopo che Keats ebbe scritto «La Belle Dame Sans Merci», e [[Well|ben]] addentro al [[Time|tempo]] in cui Tennyson andava scrivendo le [[Poems|poesie]] del suo periodo migliore, che fu il suo periodo preraffaellita. Dickens, nella pratica e nella vita privata, era un grandissimo ammiratore di Tennyson. Forster, suo biografo, dice che i suoi gusti letterari riguardo ai contemporanei variavano moltissimo, ma che egli non venne mai meno all'ammirazione per Tennyson. Eppure non credo onestamente che alcuno potrebbe indovinare, da una sola parola stampata — dalle prime parole sul signor [[Pickwick]] e sul signor Blotton di Aldgate, fino alle ultime frasi spezzate e incerte che alludono all'[[Identity|identità]] di Datchery o alla rovina di Drood — che Dickens avesse tratto un particolare diletto dalla «Lady of Shalott» o da «Sir Galahad». È in parte un omaggio alla forza di Dickens che la sua mente pullulasse a tal segno di immagini da non aver mai bisogno di prendere in prestito semplici idee. È in parte, anche, una reale debolezza della sua posizione l'aver egli mai fatto conto della grande cultura del passato, e il non poter perciò comprendere appieno gli sviluppi di essa che gli fiorivano tutt'intorno nella cultura del presente. Ma, nel bene o nel male, è vero che in novantanove casi su cento nessuno (per usare una frase corrente) fece mai una gobba in Dickens; nessuno vi lasciò neppure un'ammaccatura. Egli rimase, con tutti i suoi doni e le sue glorie, solidamente e quasi insolentemente se stesso. L'unico esempio, fra tutte le opere della sua penna, in cui avvertiamo sia pur debolmente la presenza, o forse l'[[Shadow|ombra]], di un altro autore, è *Racconto di due città*; e quell'altro autore è Thomas Carlyle.
-
-Come ho detto, le normali condizioni umane necessarie alla sua normale vita umana comportavano qualche modificazione di questa affermazione. Egli era in larghissima misura ciò che si dice un [[Self|auto]]didatta, il che significa che fu istruito non da se stesso, ma da altra gente; da altra gente che agiva come agisce davvero nel mondo reale, e non come si atteggia dinanzi ad allievi che è pagata per istruire. Le sue circostanze domestiche furono fin dal principio assai precarie, cosicché vide più libri che libri di scuola; imparò più da volumi sbrindellati lasciati in giro in una taverna che dalle grammatiche fornite con compunzione in un istituto d'istruzione. Ma è ben vero che tra i volumi sbrindellati nella taverna, o altrove, ve n'erano alcuni dai titoli non ancora del tutto dimenticati: titoli come *Robinson Crusoe* e *Tom [[Jones]]* e *Roderick Random* e *Tristram Shandy*. In questo senso è vero che egli, come ogni altro essere umano che abbia mai scritto o anche solo letto, doveva qualcosa a ciò che era già stato scritto. E davvero i grandi classici comici, che furono la gloria dell'Inghilterra del Settecento, lasciarono nella sua mente una certa china o un certo solco, laddove essa è un deserto assolutamente privo di solchi rispetto a tutto ciò che chiunque abbia mai potuto tentare di insegnargli a scuola. È evidente, tuttavia, dalla [[Nature|natura]] stessa della storia, che la scuola nel suo caso dev'essere stata quasi altrettanto intermittente delle sue fughe da essa. Charles Dickens nacque a Portsea, adiacente a Portsmouth, nel 1812, e ne fu prontamente portato via all'età di due anni. Divenne poi londinese per qualche anno, altrettanto infantile; e poi la sua famiglia errabonda si stabilì a Chatham, che fu quanto di più vicino essa mai giunse a stabilirsi in qualche luogo. Troviamo così anzitutto i due fatti, entrambi determinanti e importanti: uno, che la sua famiglia era di fortune economiche assai varie, tali da indurre frequenti cambi di dimora, e che hanno in effetti reso la moderna piccola borghesia più povera quasi nomade come gli Arabi; e l'altro, che quello sfondo che un [[Child|fanciullo]] di genio sempre sentirà e apprezzerà (se ne ha mezza occasione) fu per Charles Dickens, fino al giorno della sua [[Death|morte]], le grandi strade del [[Kent]] che scendono a Dover; e i giardini e i campi di luppolo e le torri della [[Cathedral|cattedrale]] di Rochester. In quanto egli ebbe delle tradizioni, quello fu il suo ambiente tradizionale; così come in quanto ebbe una cultura, essa fu quella dei grandi romanzieri comici d'Inghilterra di cent'anni prima. Era a tal punto tradizionale per istinto che non dimenticò mai né l'una né l'altra di quelle influenze; chiamò uno dei suoi figli col nome di Henry Fielding; e, quando pervenne all'agiatezza e all'abbondanza, pose la propria [[Home|dimora]] a Gad's [[Hill|Hill]], su quella grande [[Road|strada]] del Kent dove [[Falstaff]] aveva fatto tanto tempo prima il glorioso [[Fool|buffone]].
-
-La vita privata di Dickens, però, è di scarsa importanza per il profilo critico qui in gioco, ed è anzi per sua [[Nature|natura]] alquanto irrilevante e accidentale. La sua principale [[Tragedy|tragedia]] fu quasi un accidente, e la sua conclusione prematura fu una sorta di sconfitta prodotta da un eccesso di trionfi. È [[Well|ben]] noto che nella prima giovinezza, quando era ancora cronista parlamentare e viveva a [[London|Londra]] dopo la fanciullezza a Chatham, egli sposò la figlia di uno dei suoi mecenati letterari, di nome Hogarth, e che per un lungo processo di dissapori, sui quali i critici possono sempre dissentire, giunse ad estraniarsi dalla moglie; pur rimanendo, per quanto curioso, in rapporti di perfettamente sobria e fraterna [[Friendship|amicizia]] con una delle sorelle di lei. Non v'è bisogno di pronunciarsi su un problema che fu davvero tenuto privato dal non indegno pudore dell'età [[Time|vittoriana]]; basti dire che nessuna accusa davvero [[Grave|grave]] fu mai mossa contro l'una o l'altra parte da alcuno del piccolo gruppo di persone che conoscevano la [[Truth|verità]]. Più pertinente è qui osservare che quasi nel medesimo istante del suo [[Marriage|matrimonio]] avvenne il suo primo e forse più trionfale ingresso nella letteratura. Il suo primo libro, comunemente chiamato [[Pickwick]] o *Il Circolo [[Pickwick]]*, è supremo fra le sue opere in molti modi, ma specialmente nel modo qui in questione: che è una creazione puramente personale e non deve nulla ad alcun altro libro. Tanto più diverte ricordare che alcuni suoi nemici tentarono con malanimo di insinuare che esso dovesse ogni cosa al suo illustratore originario, un [[Artist|artista]] di nome Seymour, che disegnava vivaci schizzi sportivi del genere allora di moda. È un'insinuazione particolarmente falsa, in senso letterario. Poiché tutto il senso di [[Pickwick]] è che il suo impeto d'ispirazione non solo si [[Leaves|lascia]] alle spalle le prime idee di Seymour, ma si [[Leaves|lascia]] alle spalle altrettanto lontano le prime idee di Dickens. Potremmo dire che tutto il senso di [[Pickwick]] è che esso non tiene fede al punto; o almeno che il punto non è [[Pickwick]], nel senso del Presidente del Circolo [[Pickwick]]. Le cose migliori di [[Pickwick]] non hanno nulla a che fare coi personaggi principali, ancor meno coi capitoli preliminari, e meno che mai con le prime illustrazioni. È un caso eccezionale in cui la storia migliora quanto più si allontana dalla storia. Dickens non conservò questa limpida e perfetta libertà nelle sue storie successive. Produsse romanzi migliori, ma mai un libro così bello. Eppure possiamo dire dell'ulteriore serie di libri che, qualunque altra cosa fossero, non erano libreschi. Mostravano Dickens interessato a cose diverse, ma mai nessun altro autore che influenzasse Dickens. Così, nel suo libro seguente, [[Oliver Twist]], che parve risoluto a rendere tanto cupo e sinistro quanto [[Pickwick]] era stato gaio e luminoso, egli protestava in realtà contro molti mali sociali, che avevano già suscitato nobili proteste da grandi uomini di quell'età. Il ricovero dei poveri che egli odiava era stato odiato altrettanto sanamente da Cobbett o da Hood, da Cartwright o da Carlyle. Ma nessuno potrebbe dire che una sola parola di [[Oliver Twist]] suoni come se fosse suggerita dallo stile di Cobbett o dallo stile di Carlyle. [[Nicholas Nickleby]] e [[Martin Chuzzlewit]] lo mostrano ancor più manifestamente mentre percorre la sua propria strada, per certi versi persino una strada angusta e cockney; lo stesso vale per *La bottega dell'antiquario*; e, per quanto [[Barnaby Rudge]] sia una sorta di esperimento nel genere del [[Historical Novel|romanzo storico]], non è molto più realmente storico della *Bottega dell'antiquario* o delle sue curiosità da Wardour Street. *Dombey e Figlio* ha lo stesso ormai stabilito equilibrio di perfetta [[Comedy|commedia]] e di [[Melodrama|melodramma]] piuttosto imperfetto; e benché [[David Copperfield]] scavi assai più a fondo e liberi una assai più fine [[spring|sorgente]] d'ispirazione, esso è persino più personale del resto. Dickens ha trovato una nuova fonte d'ispirazione, ma non leggendo il libro di qualcun altro; piuttosto leggendo il proprio diario. La stessa affermazione vale per quel bel libro, [[Great Expectations]], e una critica sociale assai più tagliente, ancora estorta dai fatti contemporanei più che dalla cultura contemporanea, appare nel Socialismo inconsapevole o inclassificabile di *Tempi difficili*. Esso mescola le sue proprie osservazioni con mere fantasie meno di quanto facesse la sua prima protesta in [[Oliver Twist]]; ma sono sempre le sue proprie osservazioni e di nessun altro. Poco v'è che vari questo verdetto negli altri due romanzi, *Casa desolata* ([[house|Bleak House]]) e *La piccola Dorrit*. È solo quando giungiamo al libro qui specialmente in questione, *Racconto di due città*, che apparve nel 1859, che abbiamo qualcosa come la particolare impressione di cui parlo; che Dickens ha sentito la pressione di un'atmosfera immaginativa esterna alla propria prorompente autosufficienza ed energia, quell'energia dalla cui furia centrifuga tutte le fantasie tranne le sue erano state respinte via.
-
-
-
-<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_02" data-title="Common Man — A Tale Of Two Cities (part 2)" data-chapter="A Tale Of Two Cities" data-kind="excerpt"></span>
-
-
-This compact and competent, and some would say conceited, sense of
-[[Self|self]]-expression does in A Tale of Two Cities, for the first [[Time|time]],
-seem to admit something external, something that might be called
-an echo.  Indeed, in one way, it might be called the echo
-of an echo.  It is Carlyle's [[French Revolution]] rather than
-Michelet's [[French Revolution]]; in other words, it is not entirely
-or exactly the [[French Revolution]] of the French Revolutionists.
-Dickens does tend to neglect, as Carlyle did tend to neglect,
-the extent to which the revolutionists themselves regarded it
-not as an explosion of unreason, or even an explosion of passion,
-but as an inevitable explosion of reason.  They themselves
-might almost have said that the explosion was an explanation;
-as is the explosion that occurs during a chemical lecture.
-Carlyle, who had laboriously studied all the documents and historical
-literature of the [[French Revolution]], never quite understood this.
-It is small blame by comparison to Dickens, who had never studied
-any documents or any [[history]] or any literature, or hardly any books
-except his own, if he did not understand it either.  But he had studied
-one book, and that was Carlyle's book; and the [[Shadow|shadow]] of that luminous
-but lurid cloud lies over the whole landscape and scenery of his story.
-It is very difficult to define or prove these merely atmospheric things.
-A short if clumsy way of putting it is to compare the general tone
-of Dickens towards the mere notion of a mob, as it is in [[Barnaby Rudge]],
-with his tone towards such a mob in A Tale of Two Cities.
-The comparison, of course, is not quite fair.  Even a man so little
-in touch with [[history]] as he, could tell that the second was more
-historic than the first; that the second was at least an outbreak
-of liberty, by comparison with an outbreak of bigotry.  But there
-is more in the contrast than that; we feel that he could never have
-taken a Gordon Rioter seriously, even if he had liked him, as he did
-so often seem to like his most ludicrous and indefensible characters;
-as the reader does really, in a way, like Sim Tappertit.
-He did not like [[Madame Defarge]], but he did take her seriously.
-If she had occurred in [[Barnaby Rudge]], she would have been a vulgar
-villainess; as she occurred in A Tale of Two Cities, she is a Fate.
-In other words, there is not only a romantic but a mystical element
-that has entered the story; and though Dickens was in one sense
-always a romantic, he was certainly never a mystic.  In some sense
-the comparison involves a [[Paradox|paradox]].  Carlyle, as a reactionary,
-declared that the mob, being made of most men, was made mostly of fools.
-But Carlyle also allowed for a mystical suggestion that the folly
-of men was the wisdom of God.  Dickens, as a radical, regarded the mob,
-in so far as it meant most ordinary men, as being composed of
-reasonable and responsible citizens, whose votes were all valuable
-and whose intellects were all capable of benefiting by [[Education|education]]
-and discussion.  But, in practice, when Dickens did see a mass
-of men in any sort of elemental disorder, acting in anger or by some
-accident lawless or unlettered, he was deeply disgusted in every
-corner of his compact and sensible intelligence, and hated that
-very wildness which Carlyle half admired.  Dickens felt like this,
-for instance, towards the sprawling licence and spasmodic ferocity
-of the more wild and western elements of the American Republic.
-He would, if subjected to the real experience, have been quite as much
-horrified by the ferocious pugnacity and spontaneous militarism
-of the mob of the French Republic.  Nevertheless, the Carlylean sense
-of a sort of savage symbolism in the great struggles of [[history]] does
-make the atmosphere of this book, or perhaps of half this book,
-different from the whole bulk of his other books.
-
-Perhaps it is really impossible for any good citizen to write A Tale
-of Two Cities.  He will always see one from the outside and the other
-from the inside; and the line of relative reality and unreality in this
-case runs fairly clear.  Thus the description of the old-fashioned
-[[London]] bank is unmistakably written by the old [[London]] Dickens.
-The story of the sacrifice of [[Sydney Carton]], though genuinely touching
-and nobler especially as compared with some of the Dickensian melodramas,
-is still in a sense a [[London]] [[Melodrama|melodrama]], with the larger background
-of a [[Paris]] [[Tragedy|tragedy]].  The [[Hero|hero]] is being heroic for private reasons;
-whereas nobody understands or does justice to the [[French Revolution]],
-who forgets that half its leaders lost their heads by really
-being heroic for public reasons.  It is easy enough to make fun
-of their classical rhetoric about [[Brutus]] who killed his sons,
-or Timoleon who killed his brother; but it is not so easy to deny that,
-if they had too much of this notion of sacrificing private good
-to public good, we have far too much of the corruption and cowardice
-that comes of sacrificing public good to private good.  The ideals
-for which that war was waged were insufficient but largely just;
-and it is curious and rather moving to note that the author is so far
-exalted by the atmosphere that he turns in the end to an older and
-in [[Truth|truth]] a larger ideal, which exists before and after and affirms
-the same justice in public and in private life.  I know nothing
-in all the works of this man of genius which is, in the true sense,
-so imaginative as that last strange voice, coming from nowhere,
-those great timeless words put into the mouth of no mortal character,
-spoken suddenly as by a trumpet out of the empty sky, between the
-click of the knitting-needles and the crash of the guillotine:
-"I am the [[Resurrection]] and the Life . . ."
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Questo compatto e capace, e alcuni direbbero presuntuoso, senso di [[Self|auto]]espressione sembra davvero, in *Racconto di due città*, per la prima [[Time|volta]], ammettere qualcosa di esterno, qualcosa che si potrebbe chiamare un'eco. Anzi, in un certo senso, la si potrebbe chiamare l'eco di un'eco. È la [[French Revolution|Rivoluzione francese]] di Carlyle più che la [[French Revolution|Rivoluzione francese]] di Michelet; in altre parole, non è del tutto o esattamente la [[French Revolution|Rivoluzione francese]] dei rivoluzionari francesi. Dickens tende a trascurare, come Carlyle tendeva a trascurare, la misura in cui i rivoluzionari stessi la consideravano non un'esplosione di irragionevolezza, e neppure un'esplosione di passione, bensì un'inevitabile esplosione di ragione. Essi stessi avrebbero potuto quasi dire che l'esplosione era una spiegazione; come lo è l'esplosione che avviene durante una lezione di chimica. Carlyle, che aveva studiato laboriosamente tutti i documenti e la letteratura storica della [[French Revolution|Rivoluzione francese]], non lo comprese mai del tutto. È colpa lieve al confronto per Dickens, che non aveva mai studiato alcun documento né alcuna [[history|storia]] né alcuna letteratura, né quasi alcun libro tranne i propri, se neppure lui lo comprese. Ma un libro l'aveva studiato, ed era il libro di Carlyle; e l'[[Shadow|ombra]] di quella nube luminosa ma sinistra si stende su tutto il paesaggio e lo scenario della sua storia. È assai difficile definire o provare queste cose meramente atmosferiche. Un modo breve, se pur maldestro, di dirlo è confrontare il tono generale di Dickens verso la mera nozione di una folla, quale è in [[Barnaby Rudge]], col suo tono verso una tale folla in *Racconto di due città*. Il confronto, s'intende, non è del tutto equo. Persino un uomo così poco in contatto con la [[history|storia]] come lui poteva capire che la seconda era più storica della prima; che la seconda era almeno un'esplosione di libertà, in confronto a un'esplosione di bigottismo. Ma nel contrasto v'è più di questo; sentiamo che egli non avrebbe mai potuto prendere sul serio un rivoltoso di Gordon, anche se gli fosse piaciuto, come tanto spesso pareva piacergli i suoi personaggi più ridicoli e indifendibili; come il lettore, in un certo modo, prova davvero simpatia per Sim Tappertit. Non gli piaceva [[Madame Defarge]], ma la prendeva sul serio. Se fosse comparsa in [[Barnaby Rudge]], sarebbe stata una volgare scellerata; comparsa com'è in *Racconto di due città*, è un Fato. In altre parole, v'è entrato nella storia non solo un elemento romantico ma un elemento mistico; e benché Dickens fosse in un certo senso sempre un romantico, non fu di certo mai un mistico. In un certo senso il confronto implica un [[Paradox|paradosso]]. Carlyle, da reazionario, dichiarava che la folla, essendo composta della maggior parte degli uomini, era composta per la maggior parte di sciocchi. Ma Carlyle ammetteva anche una suggestione mistica secondo cui la follia degli uomini era la saggezza di Dio. Dickens, da radicale, considerava la folla, in quanto significava la maggior parte degli uomini comuni, come composta di cittadini ragionevoli e responsabili, i cui voti erano tutti preziosi e i cui intelletti erano tutti capaci di trarre giovamento dall'[[Education|istruzione]] e dal dibattito. Ma, in pratica, quando Dickens vide davvero una massa di uomini in un qualsiasi disordine elementare, che agiva nell'ira o per qualche accidente senza legge o senza lettere, ne fu profondamente disgustato in ogni angolo della sua compatta e assennata intelligenza, e odiò proprio quella ferinità che Carlyle per metà ammirava. Dickens sentiva così, per esempio, verso la sprawlante licenza e la spasmodica ferocia degli elementi più selvaggi e occidentali della Repubblica americana. Egli sarebbe stato, se sottoposto all'esperienza reale, altrettanto inorridito dalla feroce combattività e dal militarismo spontaneo della folla della Repubblica francese. Ciò nondimeno, il senso carlyliano di una sorta di simbolismo selvaggio nelle grandi lotte della [[history|storia]] rende davvero l'atmosfera di questo libro, o forse di metà di questo libro, diversa dall'intera massa dei suoi altri libri.
-
-Forse è davvero impossibile per un buon cittadino scrivere *Racconto di due città*. Egli vedrà sempre l'una dall'esterno e l'altra dall'interno; e in questo caso la linea di relativa realtà e irrealtà corre abbastanza chiara. Così la descrizione della banca [[London|londinese]] all'antica è inconfondibilmente scritta dal vecchio Dickens di [[London|Londra]]. La storia del sacrificio di [[Sydney Carton]], per quanto genuinamente commovente e più nobile specie a paragone di certi melodrammi dickensiani, resta in un certo senso un [[Melodrama|melodramma]] [[London|londinese]], col più ampio sfondo di una [[Tragedy|tragedia]] [[Paris|parigina]]. L'[[Hero|eroe]] è eroico per ragioni private; laddove nessuno comprende o rende giustizia alla [[French Revolution|Rivoluzione francese]], se dimentica che metà dei suoi capi perse la testa proprio per essere stata eroica per ragioni pubbliche. È abbastanza facile farsi beffe della loro retorica classica su [[Brutus|Bruto]] che uccise i suoi figli, o su Timoleonte che uccise il fratello; ma non è così facile negare che, se essi ebbero troppo di questa idea di sacrificare il bene privato al bene pubblico, noi abbiamo fin troppo della corruzione e della viltà che vengono dal sacrificare il bene pubblico al bene privato. Gli ideali per cui quella guerra fu combattuta erano insufficienti ma in gran parte giusti; ed è curioso e piuttosto commovente notare che l'autore è a tal punto esaltato dall'atmosfera che alla fine si volge a un ideale più antico e in [[Truth|verità]] più grande, che esiste prima e dopo e afferma la medesima giustizia nella vita pubblica e in quella privata. Non conosco nulla in tutte le opere di questo uomo di genio che sia, nel vero senso, tanto immaginifico quanto quell'ultima strana voce, che viene dal nulla, quelle grandi parole senza tempo poste sulla bocca di nessun personaggio mortale, pronunciate a un tratto come da una tromba fuori dal cielo vuoto, tra il ticchettio dei ferri da calza e lo schianto della ghigliottina: «Io sono la [[Resurrection|Risurrezione]] e la Vita...»
-
-
-
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_01" data-title="Common Man — From Meredith To Rupert Brooke (part 1)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
-
-
-FROM MEREDITH TO RUPERT BROOKE
-
-The title of the Age of Reason has been given to the eighteenth century,
-though the typical eighteenth-century man who invented it probably
-meant it as a prophetic and optimistic description of the nineteenth
-century or the twentieth century.  Certainly if Thomas Paine
-had foreseen the actual nineteenth century, he would have called
-it the Age of Romanticism.  If he had foreseen the actual
-twentieth century, he would have called it the Age of Nonsense,
-the Age of Unreason, especially in the departments originally
-identified with rationalism, such as the department of science.
-To him Einstein would have been merely a contradiction
-in terms and Epstein a disease afflicting bronze and marble.
-It is therefore not altogether misleading to measure modern developments,
-for good or evil, as from a sort of datum line of simple or
-[[Self|self]]-evident rationality to be found in the eighteenth century.
-Whatever else is false, it is false to say that the world has
-increased in clarity and intelligibility and logical completeness.
-Whatever else is true, it is true to say that the world has grown
-more bewildering, especially in the scientific spheres supposed to be
-ruled by law or explained by reason.  The simplification of the older
-rationalists may have been, and indeed was, an over-simplification.
-But it did simplify and it did satisfy; above all, it satisfied them.
-It would not be altogether unfair to say that it filled them
-not only with satisfaction but with [[Self|self]]-satisfaction. And,
-as historical divisions are never clean-cut, this rationalistic
-[[Self|self]]-satisfaction descended in part to their children; in many ways
-it may be found pervading the nineteenth century, and, in the case
-of some rather old-fashioned persons, even our own century.
-
-Nevertheless, the nineteenth century was very different;
-and the Victorian Age was vividly different.  And it was different
-from the eighteenth century chiefly in this:  that the old clarity
-of rationalism and [[Humanitarianism|humanitarianism]] was more and more coloured
-and clouded by certain waves of specially modern [[Imagination|imagination]]
-or hypothesis or taste and fancy.  These new notions had been
-unknown in the Age of Reason and even in the Age of Revolution.
-These sentiments had never disturbed the generalisations of Jefferson
-and the Jacobins any more than they had disturbed the doctrines
-of Johnson and the Jacobites.  These sentiments colour everything
-in the Victorian Age, and they must be understood before attempting
-any survey of it.
-
-It is generally difficult to illustrate this [[Truth|truth]] without being
-involved in a discussion about religion.  But there is, as it happens,
-another outstanding example, which does not directly involve
-any interest in religion.  I mean the enormous interest in race.
-That would [[Alone|alone]] be enough to stamp the nineteenth century
-as something sharply different from the eighteenth century.
-That would [[Alone|alone]] be enough to mark off the Victorian from the older
-Georgian frame of mind.  In the eighteenth century, both the
-reactionaries and the revolutionaries inherited the ancient religious
-and philosophic habit of legislating for mankind.  A man like Johnson
-thought of men everywhere as under certain religious conditions,
-though he thought them happier under conditions of subordination.
-A man like Jefferson thought of men everywhere as under certain
-moral conditions, though he thought them happiest in a condition
-of equality.  A man like Gibbon might [[Doubt|doubt]] both the moral systems
-of Johnson and Jefferson.  But it never occurred to Gibbon
-to explain the Decline and Fall of the Roman Empire by exalting
-the Teuton as such against the Latin as such, or vice versa.
-Gibbon had religious prejudices, or, if you will, irreligious prejudices.
-But the notion of having racial prejudices in a quarrel between
-some brutal Vandal or Visigoth and some petty Byzantine official
-would have seemed to him as nonsensical as taking sides among
-Chinese tongs or Zulu tribes.  Similarly, the eighteenth-century
-Tories were traditional but not tribal.  Even a man as late
-as Metternich, while he might be on the watch against French
-atheism or even Russian orthodoxy disturbing the Austrian Empire,
-would have troubled his head very little over the fact that
-the Austrian Empire contained a mixture of Teutons and Slavs.
-The rise of this [[Romance|romance]] of race, or, as some would say, of this
-science of race, was one of the distinct and decisive revolutions
-of the nineteenth century, and especially of the Victorian Age.
-
-It will be [[Well|well]] to mark in what way these colossal clouds of historical
-[[Imagination|imagination]] or theory actually coloured or discoloured the dead daylight,
-which an earlier rationalism thought to have dawned upon the world.
-In the case of Victorian literature, perhaps it is best tested
-by noting how it affected even the Victorians who might have been
-expected to escape its effect.  Carlyle was not merely affected by it
-we might almost say that he was made by it.  Anyhow, he was inspired
-and intoxicated by it; he was at once overwhelmed and made overwhelming.
-All his [[history]] and [[philosophy]] was full of this one idea:  that all
-that is good in our civilisation comes, not from the older civilisation,
-but from a yet older thing that might be called a benevolent barbarism.
-All light as [[Well|well]] as [[Fire|fire]], all law as [[Well|well]] as liberty,
-was supposed to be derived from a sort of ethnic energy originally
-called Germanic, afterwards more prudently called Teutonic; and now,
-with almost an excess of caution, called Nordic.  The merits of this
-racial theory, as against the old Roman theory, of European culture,
-are difficult to discuss without trenching on controversial themes.
-Personally I should say that when certain European provinces broke
-with the Roman tradition, they set up certain Puritan theologies
-of their own, which could not last, or at any rate have not lasted.
-Anyhow, it is curious that in each of these provinces the place
-of both the new and the old religion has really been taken by a stark
-and rather narrow national [[Pride|pride]].  The Prussian is more proud of being
-a Prussian than of being a Protestant, in the sense of a Lutheran.
-The Orangeman is more proud of being what he calls an Ulsterman
-than of being a Calvinist, in the sense of studying the strict
-Calvinist theology.  And even in England, where the atmosphere
-was more mild and the elements more mixed, the same type of intense
-insular [[Self|self]]-consciousness has in some degree developed; and it has
-been not untruly said that patriotism is the religion of the English.
-In any case, to take the same test, an Englishman is normally
-more proud of being an Englishman than of being an Anglican.
-It was therefore not unnatural that when these lands, that were the
-extinct volcanoes of the great Puritan [[Fire|fire]], sought for a more modern
-and general bond of association, they should seek it in that sort
-of [[Pride|pride]] in the race, which is the extension of the [[Pride|pride]] in the tribe.
-It is right to say that there is much in the idea of race that stirs
-the [[Imagination|imagination]] and lends itself to the production of literature.
-The ideal of race, like the ideal of religion, has its own symbols,
-prophecies, oracles and holy places.  If it is less mystical,
-it is equally mysterious.  The [[Riddle|riddle]] of heredity, the bond of [[Blood|blood]],
-the doom which in a hundred human legends attends certain houses
-or families, are things quite sufficiently native to our [[Nature|nature]] to lend
-a sincerity to the sense of national or even international kinship.
-Many may quite honestly have felt that race was as religious as religion.
-But one thing it certainly was not.  It was not as rational as religion.
-It was not as universal or philosophical as religion.  At its best it
-involved a sort of noble prejudice; and its romanticism clouded the old
-general judgments upon men as men, whether dogmatic or democratic.
-Carlyle was the most romantic of all these romantic Victorian writers,
-and largely owed to this his predominance in the romantic Victorian age.
-But his popular champions, like Froude and Kingsley, were even
-more romantic; though in the case of Kingsley the romancing was really
-honest romancing, while in the case of Froude (I cannot but think)
-the word romancing is something of a euphemism.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-DA MEREDITH A RUPERT BROOKE
-
-Al Settecento è stato dato il titolo di Età della Ragione, benché il tipico uomo del Settecento che lo coniò lo intendesse probabilmente come descrizione profetica e ottimistica dell'Ottocento o del Novecento. Certo, se Thomas Paine avesse previsto l'Ottocento reale, lo avrebbe chiamato l'Età del Romanticismo. Se avesse previsto il Novecento reale, lo avrebbe chiamato l'Età dell'Insensatezza, l'Età dell'Irragionevolezza, specialmente nei campi originariamente identificati con il razionalismo, come il campo della scienza. Per lui Einstein sarebbe stato semplicemente una contraddizione in termini ed Epstein una malattia che affligge il bronzo e il marmo. Non è dunque del tutto fuorviante misurare gli sviluppi moderni, nel bene e nel male, come a partire da una sorta di linea di riferimento della razionalità semplice o [[Self|evidente di per sé]] che si ritrova nel Settecento. Comunque stiano le altre cose false, è falso dire che il mondo sia aumentato in chiarezza, in intelligibilità e in compiutezza logica. Comunque stiano le altre cose vere, è vero dire che il mondo si è fatto più sconcertante, specialmente nelle sfere scientifiche che si supponevano rette dalla legge o spiegate dalla ragione. La semplificazione dei vecchi razionalisti può essere stata, e anzi fu, un'eccessiva semplificazione. Ma semplificava sul serio e appagava sul serio; soprattutto, appagava loro. Non sarebbe del tutto ingiusto dire che li riempiva non solo di soddisfazione, ma di [[Self|autocompiacimento]]. E, poiché le divisioni storiche non sono mai nette, questo [[Self|autocompiacimento]] razionalistico discese in parte ai loro figli; per molti versi lo si può trovare a permeare l'Ottocento e, nel caso di certe persone piuttosto all'antica, perfino il nostro secolo.
-
-Ciò nondimeno, l'Ottocento fu assai diverso; e l'Età vittoriana fu vividamente diversa. E fu diversa dal Settecento soprattutto in questo: che la vecchia chiarezza del razionalismo e dell'[[Humanitarianism|umanitarismo]] fu sempre più colorata e offuscata da certe ondate di [[Imagination|immaginazione]] specialmente moderna, o d'ipotesi, o di gusto e fantasia. Queste nuove nozioni erano state ignote nell'Età della Ragione e perfino nell'Età della Rivoluzione. Questi sentimenti non avevano mai turbato le generalizzazioni di Jefferson e dei giacobini più di quanto avessero turbato le dottrine di Johnson e dei giacobiti. Questi sentimenti colorano ogni cosa nell'Età vittoriana, e vanno compresi prima di tentarne una qualsiasi rassegna.
-
-È in genere difficile illustrare questa [[Truth|verità]] senza restare invischiati in una discussione sulla religione. Ma vi è, per l'appunto, un altro esempio cospicuo, che non implica direttamente alcun interesse per la religione. Intendo l'enorme interesse per la razza. Ciò [[Alone|da solo]] basterebbe a bollare l'Ottocento come qualcosa di nettamente diverso dal Settecento. Ciò [[Alone|da solo]] basterebbe a distinguere la mentalità vittoriana da quella più antica, georgiana. Nel Settecento, tanto i reazionari quanto i rivoluzionari ereditarono l'antica abitudine religiosa e filosofica di legiferare per l'intera umanità. Un uomo come Johnson pensava agli uomini di ogni dove come soggetti a certe condizioni religiose, benché li ritenesse più felici in condizioni di subordinazione. Un uomo come Jefferson pensava agli uomini di ogni dove come soggetti a certe condizioni morali, benché li ritenesse più felici in una condizione di eguaglianza. Un uomo come Gibbon poteva pure [[Doubt|dubitare]] di entrambi i sistemi morali, quello di Johnson e quello di Jefferson. Ma non venne mai in mente a Gibbon di spiegare il Declino e la Caduta dell'Impero Romano esaltando il Teutone in quanto tale contro il Latino in quanto tale, o viceversa. Gibbon aveva pregiudizi religiosi o, se si vuole, pregiudizi irreligiosi. Ma l'idea di nutrire pregiudizi razziali in una lite tra qualche brutale Vandalo o Visigoto e qualche meschino funzionario bizantino gli sarebbe parsa altrettanto assurda che parteggiare tra tong cinesi o tribù zulù. Similmente, i Tory del Settecento erano tradizionali ma non tribali. Perfino un uomo tardo come Metternich, pur potendo star in guardia contro l'ateismo francese o addirittura contro l'ortodossia russa che turbavano l'Impero austriaco, si sarebbe assai poco tormentato il capo per il fatto che l'Impero austriaco conteneva una mescolanza di Teutoni e di Slavi. Il sorgere di questo [[Romance|romanzo]] della razza, o, come alcuni direbbero, di questa scienza della razza, fu una delle distinte e decisive rivoluzioni dell'Ottocento, e specialmente dell'Età vittoriana.
-
-Sarà [[Well|bene]] segnare in che modo queste colossali nubi d'[[Imagination|immaginazione]] o teoria storica colorarono o scolorarono in realtà la luce spenta del giorno che un razionalismo anteriore credeva fosse albeggiata sul mondo. Nel caso della letteratura vittoriana, forse la si mette meglio alla prova notando come essa influì perfino su quei vittoriani da cui ci si sarebbe aspettati che ne scampassero l'effetto. Carlyle non ne fu semplicemente influenzato: potremmo quasi dire che ne fu plasmato. Comunque, ne fu ispirato e inebriato; fu al tempo stesso travolto e reso travolgente. Tutta la sua [[history|storia]] e la sua [[philosophy|filosofia]] erano piene di quest'unica idea: che tutto ciò che di buono vi è nella nostra civiltà proviene non dalla civiltà più antica, ma da una cosa ancora più antica che si potrebbe chiamare una benevola barbarie. Tanto la luce [[Well|quanto]] il [[Fire|fuoco]], tanto la legge [[Well|quanto]] la libertà, si supponeva derivassero da una sorta di energia etnica in origine detta germanica, poi più prudentemente detta teutonica; e ora, con quasi un eccesso di cautela, detta nordica. I meriti di questa teoria razziale, contro la vecchia teoria romana, della cultura europea, sono difficili da discutere senza sconfinare in temi controversi. Personalmente direi che, quando certe province europee ruppero con la tradizione romana, esse fondarono certe proprie teologie puritane, che non potevano durare, o comunque non sono durate. Comunque, è curioso che in ciascuna di queste province il posto della religione tanto nuova quanto antica sia stato in realtà preso da un rigido e piuttosto angusto [[Pride|orgoglio]] nazionale. Il prussiano è più orgoglioso di essere prussiano che di essere protestante, nel senso di luterano. L'orangista è più orgoglioso di essere ciò che chiama un uomo dell'Ulster che di essere calvinista, nel senso di studiare la stretta teologia calvinista. E perfino in Inghilterra, dove l'atmosfera era più mite e gli elementi più mescolati, s'è sviluppato in qualche misura lo stesso tipo d'intensa [[Self|autocoscienza]] insulare; e non a torto s'è detto che il patriottismo è la religione degli inglesi. In ogni caso, per prendere la medesima prova, un inglese è di norma più orgoglioso di essere inglese che di essere anglicano. Non era dunque innaturale che, quando queste terre, che erano i vulcani spenti del grande [[Fire|fuoco]] puritano, cercarono un più moderno e generale vincolo d'associazione, lo cercassero in quella sorta di [[Pride|orgoglio]] della razza che è l'estensione dell'[[Pride|orgoglio]] della tribù. È giusto dire che vi è molto, nell'idea di razza, che scuote l'[[Imagination|immaginazione]] e si presta alla produzione di letteratura. L'ideale della razza, come l'ideale della religione, ha i propri simboli, profezie, oracoli e luoghi santi. Se è meno mistico, è ugualmente misterioso. L'[[Riddle|enigma]] dell'eredità, il vincolo del [[Blood|sangue]], la maledizione che in cento leggende umane incombe su certe casate o famiglie, sono cose abbastanza connaturate alla nostra [[Nature|natura]] da conferire una sincerità al senso di parentela nazionale o perfino internazionale. Molti possono aver sentito in tutta onestà che la razza era religiosa quanto la religione. Ma una cosa certamente non fu. Non fu razionale quanto la religione. Non fu universale né filosofica quanto la religione. Nella sua forma migliore comportava una sorta di nobile pregiudizio; e il suo romanticismo offuscava i vecchi giudizi generali sugli uomini in quanto uomini, dogmatici o democratici che fossero. Carlyle fu il più romantico di tutti questi romantici scrittori vittoriani, e a ciò dovette in larga parte la sua preminenza nella romantica età vittoriana. Ma i suoi campioni popolari, come Froude e Kingsley, furono ancor più romantici; benché, nel caso di Kingsley, il romanzare fosse davvero un romanzare onesto, mentre nel caso di Froude (non posso non pensarlo) la parola romanzare sia un qualcosa di eufemistico.
-
-
-
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_02" data-title="Common Man — From Meredith To Rupert Brooke (part 2)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
-
-
-Only, as I have said, the way in which this racial [[Romance|romance]] penetrated the
-Victorian culture can best be seen, not in an obvious case like Carlyle,
-but in much more remote cases like Matthew Arnold or Meredith.
-To take the latter case first:  George Meredith was in one sense
-an entirely international intellectual; a Liberal humanist; a true
-[[Child|child]] of the [[French Revolution]], which he celebrated in sumptuous odes.
-But he illustrates the indirect effect of the racial craze,
-which is that the other side often accepted the distinction.
-Not only did the Teutonist talk about being a Teuton, but the Celt
-talked about being a Celt.  A great mass of Meredith's social
-judgment is modified, and, to my taste, a little falsified,
-by his insistence on setting the Saxon against the Celt, when he has
-to set the Englishman against the Irishman or the Welshman.
-He often satirised in the Englishman exactly what the Teutonist
-praised in the Englishman; and it was often something that the
-Englishman does not happen to possess.  So in the other case:
-Matthew Arnold made himself specially and supremely the apostle
-of a cosmopolitan culture; he did a vast amount of real good
-by insisting on the truism that England is a part of Europe.
-He was at his best in a contempt for the contempt that was felt
-for Frenchmen or Irishmen or Italians.  But he could not bring
-himself to treat them simply as Frenchmen or Irishmen or Italians.
-He was affected by the universal fashion of ethnology and worried
-by the racial generalisations.  When he talked what was relatively
-excellent sense about the senseless treatment of Ireland, he thought of
-such things too much as Celtic Studies and too little as Irish Studies.
-He also tried to explain the English faults as part of "the
-German paste in us", and wasted on anthropology what was meant
-for the study of mankind.  We might take a third example.
-William Morris was on one side a Communist and almost bound
-to be an internationalist; he was on the other side a medievalist,
-appealing to that ancient [[Beauty|beauty]] that belonged to all Europeans alike.
-But he was encumbered with a clumsy [[Desire|desire]] to be Saxon, to treat
-English as if it were merely the rudimentary language of the Angles;
-and moved his admirer, Stevenson, to an intense irritation by
-writing "whereas" when he only meant "where".
-
-I have mentioned this particular Victorian fashion, the racial
-theory of [[history]], as a primary and prominent thing, because it
-is not generally mentioned at all.  We are so accustomed,
-in reading modern records of recent or ancient things, to gain
-an impression of an ever-expanding world, called in the only too
-typical Victorian expression, "the thoughts of men being widened
-by the process of the suns", that we often forget the many periods
-when the world contracted into a new narrowness or exclusiveness,
-or the thoughts of men visibly shrank and shrivelled under some fresh
-influence of isolation or distinction.  This was certainly true of
-the tribalism and imperialism that the nineteenth century developed,
-out of a [[Romance|romance]] of races, as compared with the first revolutionary
-generalisations about the human race.  The fact is plain,
-for instance, in the story of the first revolutionary experiment--
-the American Republic.  In the [[Time|time]] of Jefferson, many of those
-who held slaves disapproved of [[Slavery|slavery]]; many of those who approved
-of [[Slavery|slavery]] did not specially approve of it as negro [[Slavery|slavery]].
-The notion of the negro as something peculiarly perilous or
-pestilent is not an ancient prejudice but a very recent and largely
-anthropological fashion.  It is akin to all that dates from Darwin;
-and the popularisation by Huxley of an almost pessimistic type
-of evolution.  Modern Southerners are much more hostile to negroes
-than they were when they owned slaves.  As there [[Rose|rose]] recently
-in [[America]] the anthropological theory that the negro is only an ape,
-so there [[Rose|rose]] recently in Europe the anthropological notion that
-the Pole is only a Slav, or that the Irishman is only a Celt.
-People were so proud of discovering these larger groups that they
-failed to notice that they are really looser groups.  They belonged
-to what the eminent Victorian truly called the fairy-tales of science.
-They had neither the precision that belongs to doctrinal
-definition nor the practicality that belongs to daily experience.
-In religion and morals we all really know what we mean by a man,
-and in the stress of real life we all really know what we mean
-by an Irishman.  It is by no means certain that we all know
-what we mean by a Celt.  Hence something large and imaginative,
-but formless and partly imaginary, began to spread over popular
-sentiment with the spread of popular science.  It was darker and more
-dubious than either the [[Humanitarianism|humanitarianism]] of the eighteenth century
-or the nationalism of the nineteenth.  It was not so clean-cut;
-indeed I will venture to say that it was not so clean.
-It was mixed with the mud and mist, the chaotic clay and cloud,
-of primitive and even bestial beginnings; it had only vague
-visions of barbaric migrations and massacres and enslavements.
-It started all our recent preference for the prehistoric to the historic.
-All this must be remembered as an influence overshadowing the second
-half of the nineteenth century, because it eventually took a more
-pointed and controversial form which involved not only materialism
-but pessimism.  The earlier rationalists may or may not have
-been materialists; but they certainly were not pessimists.
-They were, I admit, rather exaggerated and excessive optimists.
-It is none the less curious that the general revolutionary tradition,
-of revolt and criticism of conditions, which began with the [[philosophy]]
-of Rousseau, should have ended with the [[philosophy]] of Thomas Hardy.
-
-So much for one side of this later Victorian change.
-But the mere mention of Hardy and the realistic rebels will
-remind us that it had another side, which was a very good side.
-Probably speaking, it consisted in turning the attention
-from purely political wrongs to fundamental economic wrongs.
-In this also Carlyle, who belongs to the earlier period,
-continues to colour and even control the destinies of the later.
-In the matter of dates Carlyle and Macaulay covered the same period.
-In the matter of destinies they lived in two different centuries.
-Macaulay was, for good and evil, entirely a man of the
-eighteenth century.  He was a Whig as Fox had been a Whig;
-a patriot as Pitt had been a patriot; a Protestant as any Erastian
-latitudinarian Georgian parson had been a Protestant; a logician
-as Dr. Johnson was a logician; a historian as Gibbon was a historian.
-Carlyle, who had brought into [[history]] the doubtful [[Romance|romance]] of [[Blood|blood]],
-also brought into politics the very real [[Tragedy|tragedy]] of bread.
-He stands at the beginning of all the best efforts of the later
-Victorians to face the problems of labour and hunger that had
-developed in the depths of the new industrial civilisation.
-With the great exception of Cobbett, who had stood apart and [[Alone|alone]],
-misunderstood and abused by all parties, it is fair to say that
-Carlyle started much of the merely social unrest of [[Conscience|conscience]]
-which has modified the evils of the later nineteenth century.
-It is needless here to weigh the evil against the good;
-or to discuss how much of a certain disinterested dignity,
-in the old Republicans, was lost in his practical and impatient
-clamour for captains and for kings.  It is only necessary to insist
-on the reality of the contrast and the change.  Grattan, a great
-and typical orator of the eighteenth-century ideal, had said
-that the Irishman might go in rags, but he must not go in [[Chains|chains]].
-Ruskin and the social reformers reversed the principle,
-until some of the extreme Socialists, like the Marxian Communists,
-are now inclined to say that a man must go in [[Chains|chains]] so that he may
-not go in rags.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Solo che, come ho detto, il modo in cui questo [[Romance|romanzo]] razziale penetrò nella cultura vittoriana si può cogliere meglio non in un caso ovvio come Carlyle, ma in casi assai più remoti come Matthew Arnold o Meredith. Per prendere prima quest'ultimo caso: George Meredith fu in un certo senso un intellettuale interamente internazionale; un umanista liberale; un vero [[Child|figlio]] della [[French Revolution|Rivoluzione francese]], che egli celebrò in odi sontuose. Ma egli illustra l'effetto indiretto della mania razziale, che è questo: che l'altra parte spesso accettava la distinzione. Non solo il teutonista parlava dell'esser teutone, ma anche il celta parlava dell'esser celta. Gran parte del giudizio sociale di Meredith è modificata, e, a mio gusto, un po' falsata, dalla sua insistenza nel contrapporre il sassone al celta, quando deve contrapporre l'inglese all'irlandese o al gallese. Egli spesso satireggiava nell'inglese esattamente ciò che il teutonista lodava nell'inglese; ed era spesso qualcosa che l'inglese si dà il caso non possieda. Così nell'altro caso: Matthew Arnold si fece in modo speciale e supremo l'apostolo di una cultura cosmopolita; fece un'enorme quantità di bene reale insistendo sul truismo che l'Inghilterra è una parte dell'Europa. Dava il suo meglio in un disprezzo per il disprezzo che si nutriva verso i francesi o gli irlandesi o gli italiani. Ma non riusciva a indursi a trattarli semplicemente come francesi o irlandesi o italiani. Era influenzato dalla moda universale dell'etnologia e assillato dalle generalizzazioni razziali. Quando parlava con senno relativamente eccellente dell'insensato trattamento riservato all'Irlanda, pensava a tali cose troppo come Studi Celtici e troppo poco come Studi Irlandesi. Cercò inoltre di spiegare i difetti inglesi come parte del «lievito tedesco che è in noi», e sprecò per l'antropologia ciò che era destinato allo studio del genere umano. Potremmo prendere un terzo esempio. William Morris fu da un lato un comunista e quasi tenuto a essere un internazionalista; fu dall'altro lato un medievalista, che si appellava a quell'antica [[Beauty|bellezza]] che apparteneva a tutti gli europei allo stesso modo. Ma era ingombrato da un goffo [[Desire|desiderio]] di essere sassone, di trattare l'inglese come se fosse meramente la lingua rudimentale degli Angli; e spinse il suo ammiratore, Stevenson, a un'intensa irritazione scrivendo «laddove» quando intendeva soltanto «dove».
-
-Ho menzionato questa particolare moda vittoriana, la teoria razziale della [[history|storia]], come cosa primaria e cospicua, perché in genere non viene menzionata affatto. Siamo così avvezzi, leggendo resoconti moderni di cose recenti o antiche, a ricavarne l'impressione di un mondo in eterna espansione, chiamato con l'espressione fin troppo tipicamente vittoriana «il pensiero degli uomini che si allarga col procedere dei soli», che spesso dimentichiamo i molti periodi in cui il mondo si contrasse in una nuova angustia o esclusività, o il pensiero degli uomini visibilmente si rattrappì e raggrinzì sotto qualche fresca influenza d'isolamento o distinzione. Ciò fu certamente vero del tribalismo e dell'imperialismo che l'Ottocento sviluppò, a partire da un [[Romance|romanzo]] delle razze, in confronto alle prime generalizzazioni rivoluzionarie sul genere umano. Il fatto è palese, per esempio, nella storia del primo esperimento rivoluzionario: la Repubblica americana. Al [[Time|tempo]] di Jefferson, molti di coloro che tenevano schiavi disapprovavano la [[Slavery|schiavitù]]; molti di coloro che approvavano la [[Slavery|schiavitù]] non l'approvavano in modo particolare in quanto [[Slavery|schiavitù]] dei negri. La nozione del negro come qualcosa di peculiarmente pericoloso o pestilenziale non è un antico pregiudizio, ma una moda assai recente e in gran parte antropologica. È affine a tutto ciò che data da Darwin; e alla divulgazione, per opera di Huxley, di un tipo quasi pessimistico di evoluzione. I meridionali moderni sono assai più ostili ai negri di quanto lo fossero quando possedevano schiavi. Come [[Rose|sorse]] di recente in [[America]] la teoria antropologica che il negro è soltanto una scimmia, così [[Rose|sorse]] di recente in Europa la nozione antropologica che il polacco è soltanto uno slavo, o che l'irlandese è soltanto un celta. La gente era così orgogliosa di scoprire questi gruppi più ampi che non si accorgeva che si tratta in realtà di gruppi più vaghi. Appartenevano a ciò che l'eminente vittoriano chiamò veracemente le fiabe della scienza. Non avevano né la precisione che appartiene alla definizione dottrinale né la praticità che appartiene all'esperienza quotidiana. In religione e in morale sappiamo tutti davvero che cosa intendiamo per uomo, e nella tensione della vita reale sappiamo tutti davvero che cosa intendiamo per irlandese. Non è affatto certo che sappiamo tutti che cosa intendiamo per celta. Perciò qualcosa di ampio e immaginoso, ma informe e in parte immaginario, cominciò a stendersi sul sentimento popolare col diffondersi della scienza popolare. Era più cupo e più dubbio tanto dell'[[Humanitarianism|umanitarismo]] del Settecento quanto del nazionalismo dell'Ottocento. Non era così netto; anzi, oserò dire che non era così pulito. Era mescolato al fango e alla nebbia, alla creta e alla nube caotiche, di origini primitive e perfino bestiali; aveva soltanto vaghe visioni di migrazioni e massacri e asservimenti barbarici. Diede inizio a tutta la nostra recente preferenza per il preistorico rispetto allo storico. Tutto ciò va ricordato come un'influenza che adombrò la seconda metà dell'Ottocento, perché finì per assumere una forma più acuta e controversa che coinvolgeva non solo il materialismo ma il pessimismo. I razionalisti anteriori possono essere stati o meno materialisti; ma certo non erano pessimisti. Erano, lo ammetto, ottimisti piuttosto esagerati ed eccessivi. Non è per questo meno curioso che la generale tradizione rivoluzionaria, di rivolta e critica delle condizioni, che cominciò con la [[philosophy|filosofia]] di Rousseau, sia finita con la [[philosophy|filosofia]] di Thomas Hardy.
-
-Tanto basti per un lato di questo mutamento tardo-vittoriano. Ma la sola menzione di Hardy e dei ribelli realisti ci ricorderà che esso ebbe un altro lato, che fu un lato assai buono. In termini approssimativi, esso consistette nel distogliere l'attenzione dai torti puramente politici verso i torti economici fondamentali. Anche in questo Carlyle, che appartiene al periodo anteriore, continua a colorare e perfino a governare le sorti di quello posteriore. In materia di date, Carlyle e Macaulay coprirono lo stesso periodo. In materia di destini, vissero in due secoli diversi. Macaulay fu, nel bene e nel male, interamente un uomo del Settecento. Fu un Whig come Fox era stato un Whig; un patriota come Pitt era stato un patriota; un protestante come lo era stato un qualsiasi pastore georgiano erastiano e latitudinario; un logico come lo era il Dr. Johnson; uno storico come lo era Gibbon. Carlyle, che aveva portato nella [[history|storia]] il dubbio [[Romance|romanzo]] del [[Blood|sangue]], portò anche nella politica la ben reale [[Tragedy|tragedia]] del pane. Egli sta all'inizio di tutti i migliori sforzi dei vittoriani più tardi per affrontare i problemi del lavoro e della fame che si erano sviluppati nelle profondità della nuova civiltà industriale. Con la grande eccezione di Cobbett, che era rimasto in disparte e [[Alone|solo]], frainteso e vilipeso da tutti i partiti, è giusto dire che Carlyle diede avvio a gran parte del semplice fermento sociale della [[Conscience|coscienza]] che ha mitigato i mali del tardo Ottocento. È qui superfluo soppesare il male contro il bene; o discutere quanta di una certa disinteressata dignità, nei vecchi repubblicani, sia andata perduta nel suo pratico e impaziente clamore per capitani e per re. Basta soltanto insistere sulla realtà del contrasto e del mutamento. Grattan, un grande e tipico oratore dell'ideale settecentesco, aveva detto che l'irlandese poteva pure andare in stracci, ma non doveva andare in [[Chains|catene]]. Ruskin e i riformatori sociali rovesciarono il principio, finché alcuni dei socialisti estremi, come i comunisti marxisti, sono ora inclini a dire che un uomo deve andare in [[Chains|catene]] affinché non abbia ad andare in stracci.
-
-
-
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_03" data-title="Common Man — From Meredith To Rupert Brooke (part 3)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
-
-
-Ruskin was the heir and representative of Carlyle in this later
-and better Victorian development.  It is unnecessary to react
-against romanticism to such an extent as a recent critic,
-who summed up Ruskin in a book on the Victorians by saying that at
-least his economics were all scientifically sound though he could
-not write for toffee.  He certainly could not write in that stately
-modern style in which toffee figures as the prize of writing.
-When the critic suggests that he could not write, it merely means
-that the critic does not like that particular sort of writing,
-which proves rather the limitations of the critic than the incapacities
-of the writer.  Ruskin certainly wrote poetical prose, which may
-not for the moment be fashionable in an age of prosaic poetry.
-But to say that it is not good poetical prose is simply
-to be ignorant of the varied possibilities of good writing.
-It is also true that what he did he overdid, which is largely true
-of the whole of this highly coloured and romantic final development
-of Victorianism.  Even those few who deliberately tried to correct it
-by understatement managed somehow to overstate their understatement.
-Matthew Arnold deliberately endeavoured to introduce a French
-classical balance and critical detachment into English letters.
-The consequence was that he was called a prig, which was unjust but
-not unthinkable; whereas no Frenchman reading Saint-Beuve ever thought
-of thinking that he was a prig.  Walter Pater wished to create an art
-criticism more detached than that of Ruskin; but he did in fact manage
-to create the impression of being artificial as [[Well|well]] as artistic.
-It was very difficult to be classic in the later Victorian atmosphere.
-There was a romantic unrest about it, so that even the umpires
-were competitive and combative.  The loss of a natural repose,
-in Latin [[logic]] or French clarity, was one of the penalties of parting
-with the spirit of the eighteenth century.  Another mark of it was
-the growth of an intellectual [[Individualism|individualism]] which expressed itself,
-not only in being outré, but actually in being obscure.
-Browning and Meredith were among the very greatest of Victorians;
-and over both of them brooded that cloud I have described as coming
-up to over-[[Shadow|shadow]] the epoch; and though it was coloured gorgeously
-like a cloud of sunset, it none the less came between many people
-and the sun.
-
-George Meredith largely stood [[Alone|alone]]; but he stood as it were
-representing many others who had also a taste for standing [[Alone|alone]].
-All this last phase is full of men whom it is interesting
-to remember and yet very easy to forget.  It was because of the
-individualistic isolation of their talents and even their topics.
-An example is [[Richard]] Jefferies, who was "The Gamekeeper At [[Home]]";
-or T. E. Brown, who made a niche for himself that is somehow
-at once obscure and popular:  or William de Morgan, who with
-English eccentricity took up literature as a hobby for old age.
-The danger of all grouping is that we may miss too many of these men
-who did not fit into groups.  Nevertheless, there are two or three
-groups which may be said to bulk biggest in the period--the period
-after the triumph of Tennyson and Browning in poetry, or Dickens
-and Thackeray in fiction.  First there appears, primarily through
-the influence of Ruskin, what was called the Pre-Raphaelite Group;
-which began with a Ruskinian version of Christian medievalism and
-shaded off into later forms of aestheticism, not to say Paganism.
-The leader, who was also the link, was Rossetti, who accepted with
-delight the medieval pattern, but blazoned it with bolder and warmer
-colours than some of the literal Pre-Raphaelites would have approved.
-With him went his sister Christina, who was medieval in the more
-orthodox sense; and, in a manner very much his own, William Morris,
-who made the medieval form the expression of modern discontents
-and social ideals, instead of Christina Rossetti's religious ideals.
-The queer transition of the Pre-Raphaelites from a revival of
-[[Christianity]] to a revival of Paganism is complete in the poet Swinburne,
-who belonged to the set, yet had little in common with the sect.
-That it had Ruskin at one end and Swinburne at the other illustrates
-how loose a thing a group is, especially in English literature.
-Swinburne had three phases; one in which he wrote the best
-poetry in the worst spirits, or mood or frame of mind for his
-beautiful boyish singing is not merely in praise of Paganism,
-but definitely of Pessimism.  There is a second period when his
-spirits are a little better and his poetry a little worse;
-the period of his political enthusiasm for United [[Italy]] and
-Victor Hugo and the resounding qualities of the word Republic.
-There is, unfortunately, a third period, in which he imitated
-himself and did it badly.  But the point to seize is that, in his
-great hour, Swinburne was a spell; he held people like a [[Magic|magic]] flute,
-till they forgot that there was any other melody in the world.
-It is thoroughly typical of such glamours that there has been a violent
-and very unreasonable reaction against his unreasonable power.
-With him and Walter Pater the movement ends in its last pagan phase;
-save perhaps for the queer aestheticism that later became a decadent
-dandyism in Oscar Wilde.
-
-But already new groups were making this one look old.
-One was what may be called the Picaresque or Adventurous Group,
-but may be more recognisable as the group of Stevenson and Henley.
-Both for good and evil, they reacted into a robust [[Blood|blood]]-and-thunder
-literature, which, in the case of Stevenson, who was not only
-the greater but much the more amiable and balanced of the two,
-was as blameless as it was bloody.  There was, however, a dangerous
-[[Double|double]] use of the very word "[[Blood|blood]]". And, quaintly enough, the more
-dubious element is to be found rather in [[Blood|blood]] than in bloodshed.
-The [[Blood|blood]] that spatters the pages of Treasure Island can only
-promote a respect for the real virtues of [[Courage|courage]] or loyalty.
-The [[Blood|blood]] that is not shed at all, but remains in the human [[Body|body]],
-was used to encourage a respect for the real vices and weaknesses of [[Pride|pride]]
-and racial contempt.  For one important point about this group is this:
-that through them, or some of them, there came into full power
-and possession that curious religion of Race, which I have described
-as developing from Teutonic sources a little [[Time|time]] before.  It is not
-to be confused with patriotism or the unselfish [[Love|love]] of one's country.
-It is a mere [[Pride|pride]] in being oneself of a certain real or imaginary
-race or stock.  The Frenchman loves France as if she were a woman;
-the Nordic Man merely loves himself for being a Nordic Man.
-This weakness did to some extent spoil the spirited attempt
-of Henley and his school of masculine critics; I mean their
-very just attempt to show that letters should be red-blooded,
-as against the green-blooded pessimism of the decadents.
-But whatever their weaknesses, they did fill the age with a new change
-and stir, and gave to the pessimists something which if not a cure,
-was at least an antidote and a counter-irritant. The earliest
-and best work of Mr. Rudyard Kipling came to them like a new breath
-of prophecy and promise; Sir Henry Newbolt supported the [[Chorus|chorus]]
-with two or three of the very finest modern English lyrics.
-There was a general fashion of patriotic poetry, as [[Well|well]] as of
-Jingo journalism--in verse or otherwise.  It was the only point
-on which that strongest and most virile of the pessimists,
-the Shropshire Lad, could be moved for a moment to a slightly
-blasphemous cheerfulness.  John Davidson, a dark Scot in a dark
-and even dim state of revolt against everything, also was ready
-to follow the [[Flag|flag]] and revolt against everything except the Empire.
-The point of all this is not that patriotism revived,
-for the older poets and critics took patriotism for granted:
-but that the special type of tribal imperialism sprang out of that
-rather barbaric root of Race, already noted as a [[Romance|romance]] of science,
-which reacted against the rationalism of the Revolution.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ruskin fu l'erede e il rappresentante di Carlyle in questo più tardo e migliore sviluppo vittoriano. Non occorre reagire contro il romanticismo al punto di un recente critico, che riassunse Ruskin in un libro sui vittoriani dicendo che almeno la sua economia era tutta scientificamente fondata, benché egli non sapesse scrivere per un accidente. Certo non sapeva scrivere in quello sfarzoso stile moderno in cui l'accidente figura come premio dello scrivere. Quando il critico insinua che egli non sapeva scrivere, ciò significa soltanto che al critico non piace quel particolare genere di scrittura, il che prova piuttosto i limiti del critico che le incapacità dello scrittore. Ruskin scrisse certamente una prosa poetica, che per il momento può non essere di moda in un'età di poesia prosaica. Ma dire che non è buona prosa poetica è semplicemente ignorare le svariate possibilità del buon scrivere. È anche vero che ciò che fece lo fece all'eccesso, il che è largamente vero dell'intero sviluppo finale, così vivamente colorato e romantico, del vittorianesimo. Perfino quei pochi che deliberatamente cercarono di correggerlo con la reticenza riuscirono in qualche modo a esagerare la loro reticenza. Matthew Arnold si sforzò deliberatamente d'introdurre un equilibrio classico francese e un distacco critico nelle lettere inglesi. La conseguenza fu che lo si chiamò un saccente, il che era ingiusto ma non impensabile; laddove nessun francese leggendo Sainte-Beuve pensò mai di ritenerlo un saccente. Walter Pater desiderò creare una critica d'arte più distaccata di quella di Ruskin; ma in realtà riuscì a creare l'impressione di essere artificioso [[Well|oltre che]] artistico. Era assai difficile essere classici nell'atmosfera tardo-vittoriana. Vi era in essa un'inquietudine romantica, tanto che perfino gli arbitri erano competitivi e combattivi. La perdita di una naturale quiete, nella [[logic|logica]] latina o nella chiarezza francese, fu una delle penali del separarsi dallo spirito del Settecento. Un altro suo segno fu la crescita di un [[Individualism|individualismo]] intellettuale che si esprimeva non solo nell'essere stravagante, ma addirittura nell'essere oscuro. Browning e Meredith furono tra i massimi dei vittoriani; e su entrambi incombeva quella nube che ho descritto come ergentesi a fare [[Shadow|ombra]] all'epoca; e benché fosse colorata sfarzosamente come una nube al tramonto, ciò nondimeno si frapponeva tra molta gente e il sole.
-
-George Meredith stette in gran parte [[Alone|solo]]; ma stette per così dire a rappresentare molti altri che avevano anch'essi la propensione a stare [[Alone|soli]]. Tutta quest'ultima fase è piena di uomini che è interessante ricordare e pure assai facile dimenticare. Ciò per via dell'isolamento individualistico dei loro talenti e perfino dei loro argomenti. Un esempio è [[Richard]] Jefferies, che fu «The Gamekeeper At [[Home|Home]]»; o T. E. Brown, che si ritagliò una nicchia in qualche modo al tempo stesso oscura e popolare; o William de Morgan, che con eccentricità inglese prese la letteratura come passatempo della vecchiaia. Il pericolo di ogni raggruppamento è che possiamo lasciarci sfuggire troppi di questi uomini che non rientravano nei gruppi. Ciò nondimeno, vi sono due o tre gruppi che si può dire facciano la massa maggiore nel periodo: il periodo successivo al trionfo di Tennyson e Browning nella poesia, o di Dickens e Thackeray nella narrativa. Dapprima compare, principalmente per influsso di Ruskin, quello che fu chiamato il Gruppo dei Preraffaelliti; che cominciò con una versione ruskiniana del medievalismo cristiano e sfumò in forme posteriori di estetismo, per non dire di paganesimo. Il capo, che era anche l'anello di congiunzione, fu Rossetti, che accettò con gioia il modello medievale, ma lo blasonò con colori più arditi e più caldi di quanto alcuni dei preraffaelliti letterali avrebbero approvato. Con lui andò sua sorella Christina, che fu medievale nel senso più ortodosso; e, in una maniera tutta sua, William Morris, che fece della forma medievale l'espressione di scontenti moderni e ideali sociali, anziché degli ideali religiosi di Christina Rossetti. La bizzarra transizione dei preraffaelliti da un revival del [[Christianity|Cristianesimo]] a un revival del paganesimo è completa nel poeta Swinburne, che apparteneva al circolo, eppure aveva poco in comune con la setta. Che avesse Ruskin a un capo e Swinburne all'altro illustra quanto sia lasca cosa un gruppo, specialmente nella letteratura inglese. Swinburne ebbe tre fasi; una in cui scrisse la poesia migliore con lo spirito peggiore, o l'umore o la disposizione d'animo, giacché il suo bel canto giovanile non è meramente in lode del paganesimo, ma decisamente del pessimismo. Vi è un secondo periodo in cui il suo spirito è un po' migliore e la sua poesia un po' peggiore; il periodo del suo entusiasmo politico per l'[[Italy|Italia]] unita e per Victor Hugo e per le sonanti qualità della parola Repubblica. Vi è, purtroppo, un terzo periodo, in cui imitò se stesso e lo fece male. Ma il punto da cogliere è che, nella sua grande ora, Swinburne fu un incantesimo; teneva la gente come un flauto [[Magic|magico]], finché essa dimenticava che ci fosse al mondo qualsiasi altra melodia. È del tutto tipico di simili fascini che vi sia stata una violenta e assai irragionevole reazione contro il suo irragionevole potere. Con lui e con Walter Pater il movimento termina nella sua ultima fase pagana; salvo forse per lo strano estetismo che più tardi divenne un decadente dandismo in Oscar Wilde.
-
-Ma già nuovi gruppi facevano apparire vecchio questo. Uno fu quello che si può chiamare il Gruppo Picaresco o dell'Avventura, ma può essere più riconoscibile come il gruppo di Stevenson e Henley. Nel bene come nel male, essi reagirono in una robusta letteratura di [[Blood|sangue]] e tuoni che, nel caso di Stevenson, il quale non solo era il maggiore ma di gran lunga il più amabile ed equilibrato dei due, fu tanto irreprensibile quanto era cruenta. Vi era, tuttavia, un pericoloso [[Double|duplice]] uso della parola stessa «[[Blood|sangue]]». E, abbastanza curiosamente, l'elemento più dubbio si trova nel [[Blood|sangue]] piuttosto che nello spargimento di sangue. Il [[Blood|sangue]] che schizza sulle pagine de «L'isola del tesoro» non può che promuovere il rispetto per le vere virtù del [[Courage|coraggio]] o della lealtà. Il [[Blood|sangue]] che non viene affatto versato, ma rimane nel [[Body|corpo]] umano, fu usato per incoraggiare il rispetto per i veri vizi e le vere debolezze dell'[[Pride|orgoglio]] e del disprezzo razziale. Poiché un punto importante di questo gruppo è questo: che attraverso di essi, o alcuni di essi, entrò in piena potenza e possesso quella curiosa religione della Razza che ho descritto come sviluppatasi da fonti teutoniche un po' di [[Time|tempo]] prima. Non va confusa con il patriottismo o con l'altruistico [[Love|amore]] del proprio paese. È un mero [[Pride|orgoglio]] di essere se stessi di una certa razza o stirpe, reale o immaginaria. Il francese ama la Francia come se fosse una donna; l'Uomo Nordico ama meramente se stesso per essere un Uomo Nordico. Questa debolezza guastò in qualche misura lo spirito con cui Henley e la sua scuola di critici virili tentarono; intendo il loro giustissimo tentativo di mostrare che le lettere dovrebbero avere sangue rosso, in contrapposizione al pessimismo dal sangue verde dei decadenti. Ma quali che fossero le loro debolezze, riempirono davvero l'età di un nuovo mutamento e fermento, e diedero ai pessimisti qualcosa che, se non una cura, era almeno un antidoto e un contro-irritante. La prima e migliore opera del signor Rudyard Kipling giunse a loro come un nuovo soffio di profezia e di promessa; Sir Henry Newbolt sostenne il [[Chorus|coro]] con due o tre delle più belle liriche inglesi moderne. Vi era una generale moda di poesia patriottica, [[Well|oltre che]] di giornalismo sciovinista, in versi o altrimenti. Fu l'unico punto su cui quel più forte e più virile dei pessimisti, il Giovane dello Shropshire, poté essere mosso per un momento a un'allegria lievemente blasfema. John Davidson, un cupo scozzese in uno stato di rivolta cupo e perfino fosco contro ogni cosa, era anch'egli pronto a seguire la [[Flag|bandiera]] e a rivoltarsi contro tutto tranne che contro l'Impero. Il punto di tutto ciò non è che il patriottismo risorse, giacché i poeti e i critici più anziani davano il patriottismo per scontato: ma che il particolare tipo d'imperialismo tribale sbucò da quella radice piuttosto barbarica della Razza, già notata come un [[Romance|romanzo]] della scienza, che reagì contro il razionalismo della Rivoluzione.
-
-
-
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_04" data-title="Common Man — From Meredith To Rupert Brooke (part 4)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
-
-
-Fortunately, from the same Stevenson and Henley stock of ideas,
-came another idea that also filled the age.  It came from Stevenson
-[[Alone|alone]], as distinct from Newbolt, Henley, Kipling and the rest,
-and may be called the cult of the [[Child|child]], but especially of the boy.
-It would be putting it too harshly, perhaps, to say that Stevenson
-wanted to go on playing at robbers; whereas Henley and the Imperialists
-wanted to be robbers.  Anyhow, Stevenson saw the fun of what he was
-doing when be made the [[Child|child]] say that he was the captain of a tidy
-little [[Ship|ship]]; whereas it is, I believe, the inscrutable fact that
-Henley did not see any fun in what he was doing when he adjured
-John Bull to "[[Storm]] along, John", and assured that public character
-that the whole world would soon be his own.  Through Stevenson's
-truly [[Magic|magic]] lantern, which he described in The Lantern-Bearers,
-there shone a true reillumination of the mystical [[Melodrama|melodrama]] of [[Childhood|childhood]].
-And in that light many followed to the same sort of fairyland;
-notably Sir James Barrie, who introduced a sort of irony into fairyland.
-He continued what may be called the Stevensonian stereoscopic view;
-the looking at the same object in a [[Double|double]] fashion, with the eye
-of the adult and of the [[Child|child]].  But it was mostly through a string
-of accidental friendships that this fantastic element was connected with
-the more realistic of the robust school, though of course there were many
-brilliant individuals who could only be placed with or near that group.
-Thus Joseph Conrad, though a Pole, was connected with it by his
-record of hard or violent adventure at sea; and Mr. John Masefield,
-though he wrote later and longer [[Poems|poems]] of rural sport or religion,
-began with rousing sea [[songs]] of the buccaneers.
-
-Already, however, a new voice had been heard, and a new influence
-balanced or rebuked an influence like that of Kipling; and it was
-a voice from a more remote elfland than the elfland of Peter Pan.
-Stevenson himself said that he had twice in poetry heard a new note
-or a unique and arresting voice:  once when he read [[Love]] In A Valley
-by George Meredith; and once again when he read some verses
-called The Lake Island of Innisfree by William Butler Yeats.
-Yet it is worth remarking that there still remained this curious
-persistence of the [[Romance|romance]] of race, even in what was so naturally
-hostile to the popular [[Romance|romance]] of the Anglo-Saxon race.
-The appearance of a new cultural nucleus in Dublin, while it derived
-something from the Pre-Raphaelites, and therefore something from
-the Victorians, was so far Victorian in this special respect, that it
-managed to get entangled like all the rest with an ethnological term:
-the term "Celtic". It did not even substitute the old Irish term
-"Gaelic". It is true that Mr. Yeats himself, the founder of the school
-and one of the first poets of recent times, did not really base his
-own case on anthropology, but rather on [[history]] and (very rightly)
-even more on legend.  But it marks the racial influence already
-described that the word "Celtic" stuck to the movement, which was really
-a revival of remote legend and a gentle heathenism of the hills.
-It also explains why there was some reaction against it even in its
-own [[Home|home]].  There are many who came not to care very much about
-the Celtic Twilight, who have lived to see the Irish [[Dawn]].
-
-About this [[Time|time]], or a little later, in England, there appeared
-a group formally called Minor Poets; though one of them was certainly
-a Major Poet.  He was classed at the [[Time|time]] with John Davidson and
-Sir William Watson, both of them very genuine poets in their own style;
-and there is some charming lyricism in their contemporaries,
-Norman Gale and [[Richard]] le Gallienne.  Two other writers of fine verse
-really belong to this period:  Ernest Dowson and Lionel Johnson.
-But I think it fair to say that Francis Thompson, thus classed
-as one of them, was of another and altogether higher class.
-He owed something to Coventry Patmore, one of the most
-really original Victorians, and something to Alice Meynell,
-a woman who was a poet (not a poetess) of the sort that women
-were least supposed to be; an intrinsically intellectual poet.
-But even of these friends he was free; with all the [[Freedom|freedom]] of a
-creative and supremely productive or fertile genius.  His imagery
-was so imaginative as to be almost crowded; and, in a different sense
-from the more analytical Victorians, dark with excess of light.
-Because he was Catholic many would expect him to be Gothic;
-but there was something in his exuberance that resembled rather
-the very best of the Baroque.
-
-The necessity of marking the period by moods has led us here to mark it
-too exclusively by poets, who are the only permanent record of moods.
-It need not be said that work of another and what some think a more
-solid sort had been going forward in those last years; some of it
-very solid indeed, certainly in the best and perhaps also in the more
-questionable sense.  Fiction, for instance, had followed other guides
-besides [[Romance|romance]].  The immense influence of Thomas Hardy was there;
-with his strong sense of the [[Truth|truth]] of the earth, as also of the [[Tragedy|tragedy]]
-of the [[Dust|dust]].  It had set many able men working in a mine of realism.
-The two ablest and most typical in this tradition were Arnold Bennett
-and John Galsworthy.  If I do not speak here at length of men
-of genius like H. G. Wells and Bernard [[Shaw]], it is because they
-are in a sense the opening of another world, and are most vividly
-lit up by the glare of the Great War and the existing social perils;
-and these things really mark the close of the period.  For an appalling
-[[Apocalypse|apocalypse]] came upon all life, and therefore upon all literature;
-and the most fitting emblems of such splendour and terror,
-and the arts of peace torn across, and youth going to its [[Death|death]] singing,
-remain with the last few [[Poems|poems]] of Rupert Brooke.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Fortunatamente, dallo stesso ceppo di idee di Stevenson e Henley, venne un'altra idea che pure riempì l'età. Venne da Stevenson [[Alone|soltanto]], distintamente da Newbolt, Henley, Kipling e gli altri, e può essere chiamata il culto del [[Child|fanciullo]], ma specialmente del ragazzo. Sarebbe dirla troppo aspramente, forse, dire che Stevenson voleva continuare a giocare ai briganti; laddove Henley e gli imperialisti volevano essere briganti. Comunque, Stevenson vedeva il divertimento di ciò che faceva quando fece dire al [[Child|fanciullo]] di essere il capitano di una linda [[Ship|navicella]]; laddove è, credo, l'imperscrutabile fatto che Henley non vedeva alcun divertimento in ciò che faceva quando esortava John Bull a «[[Storm|Avanza]] a tempesta, John», e assicurava a quel personaggio pubblico che il mondo intero sarebbe presto stato suo. Attraverso la lanterna davvero [[Magic|magica]] di Stevenson, che egli descrisse in «The Lantern-Bearers», risplendeva una vera riaccensione del mistico [[Melodrama|melodramma]] dell'[[Childhood|infanzia]]. E in quella luce molti seguirono verso lo stesso genere di paese delle fate; segnatamente Sir James Barrie, che introdusse una sorta d'ironia nel paese delle fate. Egli continuò quella che si può chiamare la stereoscopica visione stevensoniana; il guardare al medesimo oggetto in [[Double|duplice]] modo, con l'occhio dell'adulto e con quello del [[Child|fanciullo]]. Ma fu per lo più attraverso una serie di amicizie accidentali che questo elemento fantastico venne collegato con i più realisti della robusta scuola, benché naturalmente vi fossero molti brillanti individui che si potevano collocare solo con quel gruppo o presso di esso. Così Joseph Conrad, benché polacco, vi fu collegato dal suo repertorio di dura o violenta avventura in mare; e il signor John Masefield, benché scrivesse più tardi e più lunghi [[Poems|poemi]] di sport rurale o di religione, cominciò con travolgenti [[songs|canti]] marinareschi di bucanieri.
-
-Già, tuttavia, una nuova voce s'era udita, e una nuova influenza bilanciava o rimproverava un'influenza come quella di Kipling; ed era una voce da un paese degli elfi più remoto del paese degli elfi di Peter Pan. Stevenson stesso disse d'aver udito due volte, in poesia, una nuova nota o una voce unica e arrestante: una volta quando lesse «[[Love|Amore]] in una valle» di George Meredith; e un'altra volta quando lesse certi versi intitolati «L'isola lacustre di Innisfree» di William Butler Yeats. Eppure vale la pena notare che tuttora permaneva questa curiosa persistenza del [[Romance|romanzo]] della razza, perfino in ciò che era così naturalmente ostile al popolare [[Romance|romanzo]] della razza anglosassone. La comparsa di un nuovo nucleo culturale a Dublino, pur derivando qualcosa dai preraffaelliti, e perciò qualcosa dai vittoriani, fu vittoriana fin qui in questo particolare aspetto: che riuscì a impigliarsi come tutto il resto in un termine etnologico: il termine «celtico». Non sostituì neppure il vecchio termine irlandese «gaelico». È vero che il signor Yeats stesso, il fondatore della scuola e uno dei primi poeti dei tempi recenti, non basava in realtà il proprio caso sull'antropologia, ma piuttosto sulla [[history|storia]] e (assai giustamente) ancor più sulla leggenda. Ma segna l'influenza razziale già descritta il fatto che la parola «celtico» si appiccicò al movimento, che era in realtà un revival di remota leggenda e un mite paganesimo delle colline. Spiega anche perché vi fu una qualche reazione contro di esso perfino nella sua propria [[Home|patria]]. Vi sono molti che finirono per non curarsi granché del Crepuscolo Celtico, e che sono vissuti tanto da vedere l'[[Dawn|Alba]] irlandese.
-
-Verso questo [[Time|tempo]], o un po' più tardi, in Inghilterra, comparve un gruppo formalmente chiamato dei Poeti Minori; benché uno di essi fosse certamente un Poeta Maggiore. Al [[Time|tempo]] fu classificato con John Davidson e Sir William Watson, entrambi poeti assai genuini nel loro stile; e vi è un incantevole lirismo nei loro contemporanei, Norman Gale e [[Richard]] le Gallienne. Due altri scrittori di bei versi appartengono davvero a questo periodo: Ernest Dowson e Lionel Johnson. Ma penso sia giusto dire che Francis Thompson, così classificato come uno di essi, fu di un'altra e del tutto più alta classe. Dovette qualcosa a Coventry Patmore, uno dei più davvero originali vittoriani, e qualcosa ad Alice Meynell, una donna che era un poeta (non una poetessa) del genere che le donne meno si supponeva potessero essere; un poeta intrinsecamente intellettuale. Ma perfino di questi amici fu libero; con tutta la [[Freedom|libertà]] di un genio creativo e supremamente produttivo o fertile. La sua immaginazione era così immaginosa da essere quasi affollata; e, in un senso diverso da quello dei più analitici vittoriani, buia per eccesso di luce. Poiché era cattolico, molti si aspetterebbero che fosse gotico; ma vi era nella sua esuberanza qualcosa che assomigliava piuttosto al meglio del Barocco.
-
-La necessità di segnare il periodo per mezzo di umori ci ha portati qui a segnarlo troppo esclusivamente per mezzo di poeti, che sono l'unica traccia permanente degli umori. Non c'è bisogno di dire che un'opera di altro genere, e da alcuni ritenuta di genere più solido, era andata avanti in quegli ultimi anni; parte di essa davvero assai solida, certo nel senso migliore e forse anche in quello più discutibile. La narrativa, per esempio, aveva seguito altre guide oltre al [[Romance|romanzo]]. C'era l'immensa influenza di Thomas Hardy; col suo forte senso della [[Truth|verità]] della terra, come anche della [[Tragedy|tragedia]] della [[Dust|polvere]]. Aveva messo molti uomini capaci a lavorare in una miniera di realismo. I due più capaci e più tipici in questa tradizione furono Arnold Bennett e John Galsworthy. Se non parlo qui a lungo di uomini di genio come H. G. Wells e Bernard [[Shaw]], è perché essi sono in un certo senso l'apertura di un altro mondo, e sono illuminati nel modo più vivido dal bagliore della Grande Guerra e dei pericoli sociali esistenti; e queste cose segnano davvero la chiusura del periodo. Poiché una spaventosa [[Apocalypse|apocalisse]] calò su tutta la vita, e perciò su tutta la letteratura; e i più adatti emblemi di tale splendore e terrore, e delle arti della pace lacerate, e della giovinezza che va alla sua [[Death|morte]] cantando, rimangono con gli ultimi pochi [[Poems|poemi]] di Rupert Brooke.
-
-
-
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_01" data-title="Common Man — Giotto And St.  Francis (part 1)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
-
-
-GIOTTO AND ST.  FRANCIS
-
-St. Francis of Assisi has been for ages a popular saint;
-in our own age he has for the first [[Time|time]] been in some danger
-of being a fashionable saint.  That sort of distinction of
-the drawing-rooms, which is said to have been a [[Temptation|temptation]] rejected
-by many saints in their lifetime, which is certainly a peril
-besetting most popular preachers all their lives, has come at
-last to this popular preacher six hundred years after his [[Death|death]].
-It is natural that artists should be interested in the poet who was
-practically the founder of medieval and therefore of modern art.
-And it is only too true that, wherever we admit the [[Artist|artist]], it is very
-difficult to exclude the aesthete.  This sort of light literary fuss,
-though often sincere as a sentiment and even valuable as a tribute,
-is the very opposite of that sort of solid and traditional popularity
-which St. Francis had among countless generations of peasants.
-There is something about peasant traditions, and even about
-peasant legends, which knows how to keep close to the earth.
-It is a mark of true folklore that even the tale that is evidently
-wild is eminently sane.  We see this in the most extravagant stories
-of the saints, if we compare them with the extravagant theories
-of the sophists and the sentimentalists.  Take, for instance,
-that most beautiful attribute for which St. Francis is rightly loved
-throughout the modern world:  his tenderness towards the lower [[Animals|animals]].
-It is illustrated in medieval folklore by fancies but not by fads.
-It is impossible to imagine any [[Fable|fable]] more fabulous, in the sense
-of fantastic and frankly incredible, than the story of St. Francis
-making a business bargain with a very large and dangerous wolf;
-drawing up a legal document with carefully numbered promises
-and concessions from the party of the first part and the party
-of the second part; the wild beast solemnly lodging a legal
-affidavit by the number of times he nodded his head.
-And yet there is in that fairy-tale a rustic and realistic sagacity
-that comes from real relations with [[Animals|animals]], and is therefore perhaps
-called by the picturesque name of [[Horse|horse]]-sense. It was not written
-by the modern monomaniac animal-worshipper. It is a pleasant story
-because the saint is considering the peasants as [[Well|well]] as the wolf.
-St. Francis was not the sort of man to agree with the hypothetical
-Hindoo who would be slowly devoured by a Bengal tiger, and remain
-in a state of philosophical absent-mindedness, because tigers are quite
-as cosmic as Hindoos.  The Christian common sense of St. Francis,
-even in this wild [[Fable|fable]], seized on the vital fact; that men must
-be saved from wolves as [[Well|well]] as wolves from hunger, or even more so,
-and that this could only be done by some sort of definite arrangement.
-And it does put its finger upon the difficulty; in the absence
-of communication and therefore of contract between men and beasts.
-It realises that a moral obligation must be a mutual obligation.
-St. Francis contemplating the mountain wolf, hits on the same point
-as Job contemplating the monstrous Leviathan:  "Will he make
-a pact with thee?"  That is a sort of solid popular instinct,
-which was never lost by the really popular saint, in spite of anything
-which strangers might stare at as his antics or his agonies.
-Men remembered that he had been a good friend to them as [[Well|well]] as to
-[[Birds|birds]] and beasts; and the fact is still apparent in the most remote
-and extravagant rumours of him.  It is in this that he differs from some
-of the rather unbalanced and unnatural humanitarians of modern times.
-As a matter of fact, St. Francis does not by any means stand [[Alone|alone]] among
-medieval or other saints in this protest and protection of [[Animals|animals]]
-against men; though he probably does stand [[Alone|alone]] in his poetical
-and imaginative power of stamping the [[Memory|memory]] of it in picturesque
-images on the popular mind.  Some of the greatest medieval priests
-long before St. Francis, St. Anselm, for instance, were famous
-for demanding kindness to the brute creation; many of them, St. Hugh
-of [[Lincoln]], for instance, had an even more eccentric taste in pets;
-for St. Hugh, instead of preaching to the [[Birds|birds]], seems to have
-allowed a large bird to accompany him everywhere like a curate.
-But what is notable about this medieval theory of [[Mercy|mercy]] is something
-ultimately mild and reasonable, however freakish was its expression;
-a comprehension of the common needs of common people, and a
-[[Humanitarianism|humanitarianism]] that did not exclude humanity.  In that sense,
-it is the modern age that is the age of fanatics.
-
-This fact of St. Francis becoming a modern fashion, after having
-been for so long a medieval tradition, might [[Well|well]] arouse in his
-real admirers a [[Fear|fear]] of his cult becoming merely artistic in
-the sense of merely artificial.  And yet, in spite of one or two
-incongruous interventions, this has not really taken place.
-It is perhaps the highest tribute to the [[Truth|truth]] and sincerity
-of St. Francis that even now he can keep his simplicity in the face
-of fashionable admiration; as the Franciscan in the story kept
-the fashionable crowd at a distance by playing antics on a seesaw.
-And this remarkable escape from the suffocation of sophistication is
-nowhere better expressed than in what still remains, even to the eye
-of the traveller--the naked nobility of his native town.
-
-A traveller at all experienced in the ways of travellers, not to say
-of trippers, will approach the steep [[City|city]] of Assisi with some
-feelings of [[Doubt|doubt]] and even of [[Fear|fear]].  He will know that the modern
-discovery of the medieval saint may yet be followed by disasters,
-more subtle than those which superstition has traced in the modern
-disinterment of the Egyptian [[King|king]].  He will know that there are things
-to which guide-books are not the best guides; which are seen better
-by solitary pilgrims than by sociable tourists; and, without any sort
-of superiority let [[Alone|alone]] [[Misanthropy|misanthropy]], he will have had experience already
-of places which crowds of visitors have made less worth visiting.
-He will know that quarrels not untouched by quackeries have insulted
-the great [[Silence|silence]] of Glastonbury; he will know that there is some
-[[Truth|truth]] in the report that a bustle of sight-seeing and a bawling for
-baksheesh has spoiled for many the spiritual adventure of Jerusalem.
-Knowing how many aimless aesthetes, how many irresponsible intellectuals,
-how many mere sheep of show and fashion follow this track through [[Italy]],
-he may [[Well|well]] [[Fear|fear]] to find obliterated the ancient simplicity of Assisi.
-But when he sees it, if I may answer for at least one among many
-such travellers, he will receive what I can only describe as a cool
-shock of consolation.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-GIOTTO E SAN FRANCESCO
-
-San Francesco d'Assisi è stato per secoli un santo popolare; nella nostra epoca, per la prima [[Time|volta]], ha corso in qualche misura il pericolo di diventare un santo alla moda. Quella particolare distinzione dei salotti, che si dice sia stata una [[Temptation|tentazione]] respinta da molti santi durante la loro vita, e che è certamente un'insidia che assedia per tutta l'esistenza la maggior parte dei predicatori di successo, è giunta infine a questo predicatore popolare seicento anni dopo la sua [[Death|morte]]. È naturale che gli artisti si interessino al poeta che fu, in pratica, il fondatore dell'arte medievale e quindi dell'arte moderna. E non è che troppo vero che, ovunque ammettiamo l'[[Artist|artista]], è assai difficile escludere l'esteta. Questa specie di lieve trambusto letterario, per quanto spesso sincero come sentimento e persino prezioso come tributo, è l'esatto contrario di quella popolarità solida e tradizionale che san Francesco godette presso innumerevoli generazioni di contadini. C'è qualcosa, nelle tradizioni contadine, e persino nelle leggende contadine, che sa restare vicino alla terra. È il marchio del vero folklore che perfino il racconto manifestamente selvaggio sia eminentemente assennato. Lo vediamo nelle più stravaganti storie dei santi, se le confrontiamo con le stravaganti teorie dei sofisti e dei sentimentali. Si prenda, per esempio, quel bellissimo attributo per cui san Francesco è giustamente amato in tutto il mondo moderno: la sua tenerezza verso gli [[Animals|animali]] inferiori. Nel folklore medievale è illustrata da fantasie, ma non da fissazioni. È impossibile immaginare una [[Fable|favola]] più favolosa, nel senso di fantastica e schiettamente incredibile, di quella di san Francesco che conclude un affare con un lupo grandissimo e pericoloso; stilando un documento legale con promesse e concessioni accuratamente numerate da parte del contraente di prima parte e del contraente di seconda parte; e la belva feroce che presta solennemente giuramento con il numero delle volte in cui piega il capo. Eppure in quella fiaba c'è una sagacia rustica e realistica che nasce da rapporti reali con gli [[Animals|animali]], ed è perciò forse chiamata con il pittoresco nome di buon senso da [[Horse|cavallo]]. Non fu scritta dal moderno monomaniaco adoratore delle bestie. È una storia gradevole perché il santo tiene conto dei contadini [[Well|non meno]] che del lupo. San Francesco non era il tipo d'uomo da dar ragione all'ipotetico indù che si lascerebbe divorare lentamente da una tigre del Bengala, restando in uno stato di filosofica distrazione, perché le tigri sono altrettanto cosmiche quanto gli indù. Il buon senso cristiano di san Francesco, persino in questa [[Fable|favola]] selvaggia, colse il fatto vitale: che gli uomini vanno salvati dai lupi [[Well|non meno]] di quanto i lupi vadano salvati dalla fame, o addirittura di più, e che ciò poteva farsi soltanto con qualche precisa forma di accordo. E davvero mette il dito sulla difficoltà: nell'assenza di comunicazione, e quindi di contratto, tra gli uomini e le bestie. Comprende che un obbligo morale dev'essere un obbligo reciproco. San Francesco, contemplando il lupo di montagna, coglie il medesimo punto che coglie Giobbe contemplando il mostruoso Leviatano: «Farà egli patto con te?». È una sorta di solido istinto popolare, che il santo autenticamente popolare non perse mai, malgrado tutto ciò che gli estranei potessero fissare come sue bizzarrie o sue agonie. Gli uomini ricordavano che era stato buon amico a loro [[Well|non meno]] che agli [[Birds|uccelli]] e alle bestie; e il fatto è ancora evidente nelle dicerie più remote e stravaganti su di lui. È in questo che egli differisce da certi umanitari piuttosto squilibrati e innaturali dei tempi moderni. In verità, san Francesco non è affatto [[Alone|solo]] tra i santi medievali e non, in questa protesta e protezione degli [[Animals|animali]] contro gli uomini; benché probabilmente sia [[Alone|solo]] nella sua potenza poetica e immaginativa di imprimere il suo [[Memory|ricordo]] in immagini pittoresche nella mente popolare. Alcuni dei più grandi sacerdoti medievali, molto prima di san Francesco — sant'Anselmo, per esempio — furono celebri per aver reclamato bontà verso la creazione bruta; molti di loro, come sant'Ugo di [[Lincoln]], ebbero un gusto ancor più eccentrico in fatto di animali prediletti; perché sant'Ugo, invece di predicare agli [[Birds|uccelli]], pare che si facesse accompagnare ovunque da un grande uccello come da un cappellano. Ma ciò che è notevole in questa teoria medievale della [[Mercy|misericordia]] è qualcosa di ultimamente mite e ragionevole, per quanto bizzarra ne fosse l'espressione: una comprensione dei comuni bisogni della gente comune, e un [[Humanitarianism|umanitarismo]] che non escludeva l'umanità. In tal senso, è l'età moderna a essere l'età dei fanatici.
-
-Questo fatto — che san Francesco stia diventando una moda moderna, dopo essere stato per tanto tempo una tradizione medievale — potrebbe [[Well|bene]] destinare nei suoi veri ammiratori il [[Fear|timore]] che il suo culto si faccia meramente artistico, nel senso di meramente artificioso. Eppure, malgrado un paio d'interventi incongrui, ciò non è realmente accaduto. È forse il più alto tributo alla [[Truth|verità]] e alla sincerità di san Francesco che ancor oggi egli sappia conservare la propria semplicità di fronte all'ammirazione alla moda; come il francescano della storia teneva a distanza la folla elegante facendo capriole su un'altalena. E questa notevole fuga dal soffocamento della sofisticazione non è espressa in nessun luogo meglio che in ciò che ancora rimane, persino all'occhio del viaggiatore: la nuda nobiltà della sua città natale.
-
-Un viaggiatore anche solo un poco esperto nelle abitudini dei viaggiatori, per non dire dei gitanti, si avvicinerà all'erta [[City|città]] di Assisi con qualche sentimento di [[Doubt|dubbio]] e persino di [[Fear|timore]]. Saprà che la moderna scoperta del santo medievale potrebbe pur sempre essere seguita da disastri più sottili di quelli che la superstizione ha rintracciato nella moderna esumazione del [[King|re]] egizio. Saprà che vi sono cose alle quali le guide turistiche non sono le guide migliori; cose che si vedono meglio dai pellegrini solitari che dai turisti socievoli; e, senza alcuna specie di superiorità, e tanto meno di [[Misanthropy|misantropia]], avrà già fatto esperienza [[Alone|di per sé]] di luoghi che le folle di visitatori hanno reso meno degni d'essere visitati. Saprà che liti non immuni da ciarlatanerie hanno insultato il grande [[Silence|silenzio]] di Glastonbury; saprà che c'è qualche [[Truth|verità]] nella voce secondo cui un trambusto di visite turistiche e uno strepitare di bakshish hanno guastato per molti l'avventura spirituale di Gerusalemme. Sapendo quanti esteti senza scopo, quanti intellettuali irresponsabili, quante pure pecore dello sfarzo e della moda seguano questa pista attraverso l'[[Italy]], potrà [[Well|bene]] [[Fear|temere]] di trovare cancellata l'antica semplicità di Assisi. Ma quando la vedrà — se posso rispondere per almeno uno tra molti di tali viaggiatori — riceverà ciò che posso soltanto descrivere come un fresco scossone di consolazione.
-
-
-
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_02" data-title="Common Man — Giotto And St.  Francis (part 2)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
-
-
-The [[City|city]] is founded upon a rock; the [[City|city]] is a rock; and it is too
-simple for anybody to spoil.  It has proved practically impossible
-to paint or gild or pad or upholster or even to scratch that rock.
-In the main lines of it an austerity [[Alone|alone]] remains in the [[Memory|memory]];
-and even the [[Beauty|beauty]] of the milder landscape is itself austere.
-There may be, indeed there is, the usual accumulation in corners
-of the popular trinkets or traditional toys of devotion, which some
-people are so unfortunately fastidious as to resent; but that is
-not the sort of peril of which I am thinking, even from the point
-of view of those who would admit it to be in other ways perilous.
-It is not a question of any abuses among the ignorant or the [[Innocent|innocent]]
-who look up to the saint; it is a question of the condescending culture
-that looks down to him; not a matter of importing idolatry into the
-institution of a patron saint; but a matter of patronising the patron.
-And though multitudes in this rather snobbish state of mind must have
-passed through so established a station of the Italian pilgrimage,
-they have not in fact left any trail behind them, as they have
-in so many similar places; the hills have forgotten them and their
-personalities have passed away with the smell of their petrol.
-St. Francis is still left [[Alone|alone]] with his own friars and mostly
-with his own friends; and especially with that great first friend
-who was his interpreter to the expanding civilisation that came
-after him; the friend who could express in images what Francis
-himself had always felt as imagery, or what we call [[Imagination|imagination]];
-the painter who translated the poet--Giotto.
-
-The advance of art criticism is a continual retreat; it would seem
-in some strange manner destined to march perpetually backwards into
-older and older periods.  At the beginning of the nineteenth century
-the critics had finally accepted the normality of the Ancient Greeks.
-By the end of the nineteenth century the critics were already inaugurating
-the novelty of the Ancient Egyptians.  We must all, by this [[Time|time]],
-be familiar with expressions of admiration for the art of the Caveman,
-scrawled in rock and red ochre with an unmistakable spirit and
-even distinction of draughtsmanship; the cult of the prehistoric
-which has given a new meaning to the cult of the Primitives.
-It will soon seem perfectly natural to be talking about the modernised
-and decadent sophistication of the Second Stone Age as compared
-with the rich but [[Well|well]]-balanced civilisation of the First Stone Age.
-The further we go back to explore, the more we find that is
-really worth exploring; and the nearer we are to the real
-primitive man, the further we are from the ape or even the savage.
-This being true even of the tremendous scope of the whole [[history]]
-of the human tribe, it is not to be wondered at that men have made
-the same discovery about the high and complex culture of Christendom.
-The spotlight of artistic interest and concentration has been
-steadily travelling backwards ever since I was a [[Child|child]].
-I can remember faintly that in my first years it was still felt as
-something of a [[Paradox|paradox]] to maintain that the quaintness of Botticelli
-could be taken as seriously as the solid finish of Guido Reni;
-that Ruskin was still a revolutionist for preferring the dayspring
-of the [[Renaissance]] in the fourteenth century to the dregs
-of the [[Renaissance]] in the eighteenth.  Even as late as that,
-for most people, Giotto was still not so much a Primitive
-as a primitive man.  He was a sort of savage who had done some
-service by discovering that it was possible to scratch something
-resembling a rudimentary human figure on the walls of his [[Cave|cave]].
-For most people all serious art still lay between Raphael and Reynolds.
-As I grew up, the Ruskinian revolution prevailed, and most men came
-to realise that Giotto was a great painter; but even those men
-generally regarded him as the first great painter.  But now, in yet
-more recent times, the artists are yet more like archaeologists,
-in the sense of going back to what is yet more archaic.
-The change that has passed over the most recent phase of art
-criticism can be sufficiently suggested by this one case of Giotto.
-I referred somewhere, in the Ruskinian manner, to Giotto as the figure
-who stands at the beginning of Christian art.  One of the most
-creative of modern sculptors, whom many would call a medievalist,
-wrote to assure me that Giotto stands at the end of Christian art;
-with something like a broad hint that Giotto brought it to an end.
-
-The spotlight has moved further back, and is now illuminating
-what even Ruskin and the romantic medievalists would have regarded
-as a [[Desert|desert]] of dead and barbaric formalism; the true Dark Ages.
-Our Progressives are now bound with golden [[Chains|chains]] to the
-decline of Byzantium, rather than to the rise of Florence.
-It is quaint to think how little harm a blundering nickname need
-do in the long run.  All the admirers of Gothic call it Gothic,
-though it was originally meant to stamp it as barbaric.  And all
-the admirers of Byzantine call it Byzantine; though the very adjective
-is already in use as a symbol of stiff degradation and decline.
-The new theories about rhythm and design have done justice to the old
-pictures which the romantics regarded merely as diagrams or patterns.
-The change from Cimabue to Giotto is at least not so certainly
-an unmixed improvement as it appeared to the Victorian medievalists.
-There is, as it were, a new school of Pre-Raphaelites, who are not
-only pre-Raphael, but pre-Giotto. The shining figure of the shepherd
-no longer stands against a background of black and barbarous darkness;
-but in a sort of [[Double|double]] light, in itself involving some of these
-subtler problems of balance and recurrence; having on his right hand
-the wide white daybreak of Rome and Assisi and [[Paris]] and all the West,
-and on his left the long and gorgeous golden sunset of the great
-[[City|city]] of Constantine.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-La [[City|città]] è fondata sulla roccia; la [[City|città]] è una roccia; ed è troppo semplice perché qualcuno possa guastarla. Si è dimostrato praticamente impossibile dipingere o dorare o imbottire o tappezzare o persino graffiare quella roccia. Nelle sue linee principali rimane nella [[Memory|memoria]] soltanto un'austerità [[Alone|di per sé]]; e persino la [[Beauty|bellezza]] del più mite paesaggio è a sua volta austera. Vi può essere, anzi vi è, il consueto accumulo negli angoli di soprammobili popolari o di tradizionali balocchi devozionali, che certuni sono così malauguratamente schizzinosi da risentirsene; ma non è quella la specie di pericolo cui sto pensando, nemmeno dal punto di vista di chi ammetterebbe che è per altri versi pericoloso. Non è questione di abusi tra gli ignoranti o gli [[Innocent|innocenti]] che levano lo sguardo al santo; è questione della cultura condiscendente che lo guarda dall'alto in basso; non si tratta di importare idolatria nell'istituzione di un santo patrono, ma di trattare con sufficienza il patrono. E benché moltitudini in questo stato d'animo piuttosto snobistico debbano aver attraversato una stazione così consacrata del pellegrinaggio italiano, esse non hanno in realtà lasciato alcuna traccia dietro di sé, come invece hanno fatto in tanti luoghi simili; le colline le hanno dimenticate, e le loro personalità sono svanite con l'odore della loro benzina. San Francesco resta ancora [[Alone|solo]] con i propri frati e per lo più con i propri amici; e specialmente con quel grande primo amico che fu il suo interprete presso la civiltà in espansione che venne dopo di lui; l'amico che sapeva esprimere in immagini ciò che Francesco stesso aveva sempre sentito come figurazione, ossia ciò che noi chiamiamo [[Imagination|immaginazione]]; il pittore che tradusse il poeta: Giotto.
-
-L'avanzata della critica d'arte è una continua ritirata; parrebbe destinata, in qualche strano modo, a marciare perpetuamente all'indietro verso epoche sempre più antiche. All'inizio dell'Ottocento i critici avevano finalmente accettato la normalità degli antichi Greci. Alla fine dell'Ottocento i critici stavano già inaugurando la novità degli antichi Egizi. Ormai, a questo [[Time|punto]], dobbiamo essere tutti familiari con espressioni di ammirazione per l'arte dell'uomo delle caverne, scarabocchiata sulla roccia e in ocra rossa con uno spirito inconfondibile e persino una distinzione di disegno; il culto del preistorico, che ha dato un nuovo significato al culto dei Primitivi. Presto sembrerà perfettamente naturale parlare della sofisticazione modernizzata e decadente della Seconda Età della Pietra a confronto con la ricca ma [[Well|ben]] equilibrata civiltà della Prima Età della Pietra. Più addietro andiamo a esplorare, più troviamo cose realmente degne d'essere esplorate; e più siamo vicini al vero uomo primitivo, più siamo lontani dalla scimmia e persino dal selvaggio. E poiché questo è vero anche per l'immensa portata dell'intera [[history|storia]] della tribù umana, non c'è da meravigliarsi che gli uomini abbiano fatto la medesima scoperta a proposito dell'alta e complessa cultura della cristianità. Il riflettore dell'interesse e della concentrazione artistica ha viaggiato costantemente all'indietro fin da quando io ero [[Child|bambino]]. Ricordo vagamente che, nei miei primi anni, era ancora avvertito come un certo [[Paradox|paradosso]] sostenere che la stranezza di Botticelli potesse essere presa sul serio quanto la solida finitezza di Guido Reni; che Ruskin era ancora un rivoluzionario per preferire l'aurora del [[Renaissance|Rinascimento]] nel Trecento alle fecce del [[Renaissance|Rinascimento]] nel Settecento. Persino a quella data, per la maggior parte della gente, Giotto era ancora non tanto un Primitivo quanto un uomo primitivo. Era una specie di selvaggio che aveva reso un qualche servizio scoprendo che era possibile graffiare qualcosa di simile a una rudimentale figura umana sulle pareti della propria [[Cave|caverna]]. Per la maggior parte della gente tutta l'arte seria giaceva ancora tra Raffaello e Reynolds. Man mano che crescevo, la rivoluzione ruskiniana prevalse, e la maggior parte degli uomini giunse a comprendere che Giotto era un grande pittore; ma persino costoro lo consideravano in genere come il primo grande pittore. Ora, però, in tempi ancor più recenti, gli artisti somigliano sempre più agli archeologi, nel senso di risalire a ciò che è ancor più arcaico. Il mutamento che è passato sopra la fase più recente della critica d'arte può essere sufficientemente suggerito da questo solo caso di Giotto. Ho accennato in qualche luogo, alla maniera ruskiniana, a Giotto come alla figura che sta all'inizio dell'arte cristiana. Uno dei più creativi scultori moderni, che molti chiamerebbero medievalista, mi scrisse per assicurarmi che Giotto sta alla fine dell'arte cristiana; con qualcosa come una larga insinuazione che Giotto vi mise fine.
-
-Il riflettore si è spostato più indietro, e ora illumina ciò che persino Ruskin e i romantici medievalisti avrebbero considerato un [[Desert|deserto]] di formalismo morto e barbarico: le vere Età Oscure. I nostri Progressisti sono ormai avvinti da [[Chains|catene]] d'oro al declino di Bisanzio, più che al sorgere di Firenze. È curioso pensare quanto poco male un maldestro soprannome debba in fondo produrre alla lunga. Tutti gli ammiratori del gotico lo chiamano gotico, benché in origine il termine intendesse bollarlo come barbarico. E tutti gli ammiratori del bizantino lo chiamano bizantino, benché lo stesso aggettivo sia già in uso come simbolo di rigida degradazione e declino. Le nuove teorie sul ritmo e sul disegno hanno reso giustizia alle antiche pitture che i romantici consideravano meri diagrammi o motivi ornamentali. Il passaggio da Cimabue a Giotto non è, almeno, un miglioramento tanto sicuro e senza mescolanze quanto appariva ai medievalisti vittoriani. Vi è, per così dire, una nuova scuola di Preraffaelliti, che non sono soltanto pre-raffaelleschi, ma pre-giotteschi. La figura luminosa del pastore non si staglia più contro uno sfondo di tenebra nera e barbara; ma in una sorta di [[Double|duplice]] luce, che di per sé implica alcuni di questi più sottili problemi di equilibrio e di ricorrenza; avendo alla sua destra l'ampia bianca aurora di Roma e di Assisi e di [[Paris|Parigi]] e di tutto l'Occidente, e alla sua sinistra il lungo e sfarzoso tramonto dorato della grande [[City|città]] di Costantino.
-
-
-
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_03" data-title="Common Man — Giotto And St.  Francis (part 3)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
-
-
-But in [[Truth|truth]] this [[Double|double]] light may make for a better enlightenment,
-both about Giotto and his master St. Francis.  The two artistic movements,
-coming one after the other, have between them done some justice
-to two halves of medieval [[history]], and an earlier and a later period
-of Christendom, both of which had been underrated and misunderstood.
-There is a sort of mathematical [[Beauty|beauty]] in the harshness of Byzantine
-art which is only beginning to be understood; but there is none
-the less another and livelier kind of [[Beauty|beauty]] in the more humanised art
-of the later Middle Ages; something suggestive of a moment when a dead
-design comes to life, or a pattern begins to move, or even to [[Dance|dance]].
-Some humorist wrote a work called "The Loves of the Triangle",
-and a mystical theologian might find in it a profound significance
-touching the loves of the Trinity.  In other words, the old abstract
-expression of divine [[Beauty|beauty]] was the expression of a [[Truth|truth]], but the other
-[[Truth|truth]] of its expression in the concrete was none the less true.
-Now what is true of the early abstract art and the humanistic
-revolution of Giotto, is equally true of the abstract theology
-and the humanistic revolution of Francis.  Some modern writers
-on the first Franciscans talk as if Francis was the first to invent
-the idea of the [[Love]] of God and the God of [[Love]]; or at least was
-the first to go back and find it in the Gospels.  The [[Truth|truth]] is that
-anybody could find it in any of the creeds and doctrinal definitions
-of any period between the Gospels and the Franciscan movement.
-But he would find it in the theological dogmas as he would find
-it in the Byzantine pictures, drawn out in stark and simple lines
-like a mathematical diagram, asserted with a sort of dark clarity
-for those who can appreciate the idea of logical content and balance.
-In the sermons of St. Francis, as in the pictures of Giotto,
-it is made popular by pantomime.  Men are beginning to act it as in
-a theatre, instead of representing it as in a picture or a pattern.
-Thus we find that St. Francis was in many ways the actual founder of
-the medieval miracle play; and there is all this suggestion of a stiff
-thing coming to life in the tale of his contact with the Bambino,
-illustrated in one of Giotto's designs.  And thus we find in Giotto
-himself a quality unique and hardly to be repeated in [[history]].
-It is a sense, not only of movement, but of the first movement.
-There is still something in his figures that suggests that they
-are like the pillars of a church moved by the spiritual earthquake
-of a divine visitation, but even so moved slowly and with a sort
-of reluctant grandeur.  The figures are still partly architectural
-while the faces are alive with portraiture.  This first moment
-of motion has much to do with that sense of morning and youth
-which so many admirers of medievalism have felt, and which I shall
-continue to feel, with all respect to the medievalist sculptor.
-Nothing is nearer to the nerve of primal [[Wonder|wonder]], which is the [[Soul|soul]] of
-all the arts, than that strange saying of the blind man in the Gospels,
-that when he was half awakened to sight, he saw "men as trees walking."
-There is something about the figures of Giotto that suggests men
-as trees walking.  The Byzantine School will not permit me to say that
-before his eyes were thus opened, the [[Artist|artist]] had been wholly blind.
-But I will still maintain that there was something like a miracle,
-in the transition from treating trees as tracery and men as trees,
-to the realisation of the new shock of liberation; and how,
-at the word of God, they could arise and walk.
-
-And here again we strike the parallel between the [[Artist|artist]] and the saint.
-The followers of St. Francis were, above all things, men who could walk.
-Many of them even walked with that sort of dazed unfamiliarity
-and doubtful balance, being suddenly robbed by a whirlwind of all
-the props of property.  But they walked, because a new spirit
-of walking, and even of wandering, had entered into the static
-scheme of medieval [[Christianity]]; just as a new spirit of gesture
-and drama had entered into the static scheme of decorative art.
-The difference between the Friars and the [[Monks]] was, after all,
-that the Friars now walked like men where the [[Monks]] had once stood
-like statues.  I mean nothing but admiration for the Benedictine [[Monks|monks]],
-as for the Byzantine mosaics:  or, for that matter, the grand
-and almost grim rationality of the great abstract dogmas.
-But there had come upon these flat and spacious things,
-carved in stone or ordered like statues, a new depth or dimension;
-a new quality of drama and motion.  The popular propaganda of
-St. Francis, throwing thousands of wandering friars out into roads
-of the world, was the beginning of what we call the modern spirit;
-the spirit of [[Romance|romance]] and experiment and earthly adventure.
-For once a modern phrase which is much misused, may be rightly used.
-The Benedictines were, in the exact sense, an Order; as the plan
-of a [[Cathedral|cathedral]] is an Order.  The Franciscans were, in the exact sense,
-a movement.  Historically, perhaps, the most interesting of the great
-pictures by Giotto which are displayed in the Upper Church of Assisi,
-is that which commemorates the famous dream of the great Pope [[Innocent]]
-the Third; in which he saw the strange beggar, from whom he had
-almost turned away in the street, upholding the whole toppling
-load of St. John Lateran, and indeed, in a larger symbolism,
-the whole load of St. Peter and the Church founded on a rock.
-More than one historian has suggested that, humanly speaking, it was
-St. Francis who prevented all Christendom from coming to an end under
-the [[Double|double]] destructive drive and drag of [[Islam]] without and the pessimist
-heresies within.  This particular picture is also worth noting,
-as a perfect example of that solidity which marked the simplicity
-of the medieval mind.  Modern writers have referred often enough
-to medieval [[Dreams|dreams]] and dark clouds and dim mystical fancies.
-But in fact the medievals never dealt in these things,
-even where they would have been justified in dealing in them.
-There is scarcely any modern of any school, who could deliberately draw
-a picture of a vision in the watches of the [[Night|night]], especially a vision
-so very visionary, so transcendental and so tremendously symbolic,
-as that of an unknown saint upholding a universal church, without bringing
-into the picture some [[Shadow|shadow]] of unreality, or remoteness, of a lurid halo
-of the preternatural; at least of mystery and the tints of twilight.
-But the medieval dream is more solid than the modern reality.
-The medieval [[Artist|artist]] has dealt with it with a directness which
-belongs to the vigorous realism of [[innocence]] and of [[Childhood|childhood]];
-the sort of actuality which has been wholly untouched by the many
-sorts of scepticism which masquerade as mysticism.  The dream is
-full of something very extraordinary, something which did indeed,
-for those who can understand it, shine on the evil and the good
-throughout the epoch that we call the Dark Ages:  broad daylight.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ma in [[Truth|verità]] questa [[Double|duplice]] luce può giovare a un migliore rischiaramento, tanto su Giotto quanto sul suo maestro san Francesco. I due movimenti artistici, venuti l'uno dopo l'altro, hanno tra loro reso una certa giustizia a due metà della [[history|storia]] medievale, a un periodo anteriore e a uno posteriore della cristianità, entrambi sottovalutati e fraintesi. Vi è una sorta di [[Beauty|bellezza]] matematica nell'asprezza dell'arte bizantina, che solo ora comincia a essere compresa; ma non per questo manca un altro e più vivace genere di [[Beauty|bellezza]] nell'arte più umanizzata del basso Medioevo; qualcosa che suggerisce l'attimo in cui un disegno morto prende vita, o un motivo comincia a muoversi, o persino a [[Dance|danzare]]. Un umorista scrisse un'opera intitolata «Gli amori del Triangolo», e un teologo mistico potrebbe trovarvi un profondo significato che tocca gli amori della Trinità. In altre parole, l'antica espressione astratta della [[Beauty|bellezza]] divina era l'espressione di una [[Truth|verità]], ma l'altra [[Truth|verità]] della sua espressione nel concreto non era per questo meno vera. Ora, ciò che è vero della prima arte astratta e della rivoluzione umanistica di Giotto, è ugualmente vero della teologia astratta e della rivoluzione umanistica di Francesco. Certi scrittori moderni sui primi francescani parlano come se Francesco fosse stato il primo a inventare l'idea dell'[[Love|amore]] di Dio e del Dio d'[[Love|amore]]; o almeno il primo a risalire indietro e a ritrovarla nei Vangeli. La [[Truth|verità]] è che chiunque avrebbe potuto trovarla in uno qualunque dei credi e delle definizioni dottrinali di qualsiasi periodo tra i Vangeli e il movimento francescano. Ma l'avrebbe trovata nei dogmi teologici come l'avrebbe trovata nelle pitture bizantine, tracciata in linee nude e semplici come un diagramma matematico, asserita con una sorta di oscura chiarezza per coloro che sanno apprezzare l'idea di contenuto logico e di equilibrio. Nei sermoni di san Francesco, come nelle pitture di Giotto, essa viene resa popolare tramite la pantomima. Gli uomini cominciano a recitarla come in un teatro, invece di rappresentarla come in un quadro o in un motivo ornamentale. Così scopriamo che san Francesco fu per molti versi l'effettivo fondatore della sacra rappresentazione medievale; e c'è tutta questa suggestione di una cosa rigida che prende vita nel racconto del suo contatto con il Bambino, illustrato in uno dei disegni di Giotto. E così troviamo in Giotto stesso una qualità unica e difficilmente ripetibile nella [[history|storia]]. È un senso non soltanto del movimento, ma del primo movimento. C'è ancora qualcosa, nelle sue figure, che suggerisce come esse siano simili alle colonne di una chiesa smosse dal terremoto spirituale di una visitazione divina, ma smosse tuttavia lentamente e con una sorta di riluttante grandiosità. Le figure sono ancora in parte architettoniche, mentre i volti sono vivi di ritrattistica. Questo primo attimo di moto ha molto a che vedere con quel senso di mattino e di gioventù che tanti ammiratori del medievalismo hanno provato, e che io continuerò a provare, con tutto il rispetto per lo scultore medievalista. Nulla è più prossimo al nervo dello [[Wonder|stupore]] primevo, che è l'[[Soul|anima]] di tutte le arti, di quello strano detto del cieco nei Vangeli, che quando fu risvegliato a metà alla vista, vide «gli uomini come alberi che camminano». C'è qualcosa, nelle figure di Giotto, che suggerisce uomini come alberi che camminano. La Scuola Bizantina non mi permetterà di dire che, prima che i suoi occhi fossero così aperti, l'[[Artist|artista]] fosse stato del tutto cieco. Ma continuerò a sostenere che ci fu qualcosa di simile a un miracolo, nel passaggio dal trattare gli alberi come trafori e gli uomini come alberi, alla realizzazione del nuovo scossone di liberazione; e a come, alla parola di Dio, essi potessero levarsi e camminare.
-
-E qui di nuovo cogliamo il parallelo tra l'[[Artist|artista]] e il santo. I seguaci di san Francesco erano, sopra ogni cosa, uomini capaci di camminare. Molti di loro camminavano persino con quella specie di attonita estraneità e di dubbio equilibrio, essendo stati d'un tratto derubati da un turbine di tutti i puntelli della proprietà. Ma camminavano, perché un nuovo spirito del camminare, e persino del vagare, era entrato nello schema statico della [[Christianity|cristianità]] medievale; proprio come un nuovo spirito di gesto e di dramma era entrato nello schema statico dell'arte decorativa. La differenza tra i Frati e i [[Monks|Monaci]] era, in fondo, che i Frati ora camminavano come uomini là dove i [[Monks|Monaci]] un tempo erano stati fermi come statue. Non intendo se non ammirazione per i [[Monks|monaci]] benedettini, come per i mosaici bizantini: o, se è per questo, per la grande e quasi arcigna razionalità dei grandi dogmi astratti. Ma su queste cose piatte e spaziose, scolpite nella pietra o ordinate come statue, era venuta una nuova profondità o dimensione; una nuova qualità di dramma e di moto. La propaganda popolare di san Francesco, gettando migliaia di frati erranti sulle strade del mondo, fu l'inizio di ciò che chiamiamo lo spirito moderno; lo spirito di [[Romance|avventura romanzesca]] e di esperimento e di avventura terrena. Per una volta una moderna espressione assai abusata può essere usata a ragione. I Benedettini furono, nel senso esatto, un Ordine; come il piano di una [[Cathedral|cattedrale]] è un ordine. I Francescani furono, nel senso esatto, un movimento. Storicamente, forse, il più interessante dei grandi dipinti di Giotto esposti nella Chiesa Superiore di Assisi è quello che commemora il celebre sogno del grande papa [[Innocent|Innocenzo]] III; in cui egli vide lo strano mendicante, da cui per poco non si era ritratto per la strada, che sosteneva l'intero carico vacillante di San Giovanni in Laterano e, in un più vasto simbolismo, l'intero carico di San Pietro e della Chiesa fondata su una roccia. Più di uno storico ha suggerito che, umanamente parlando, fu san Francesco a impedire che tutta la cristianità andasse in rovina sotto la [[Double|duplice]] spinta distruttiva e il trascinamento dell'[[Islam]] da fuori e delle eresie pessimiste da dentro. Questo particolare quadro è anche degno di nota come perfetto esempio di quella solidità che contraddistingueva la semplicità della mente medievale. Gli scrittori moderni hanno accennato abbastanza spesso ai [[Dreams|sogni]] medievali, alle nubi oscure e alle fosche fantasie mistiche. Ma di fatto i medievali non trattarono mai queste cose, persino là dove sarebbe stato giustificato trattarle. Non c'è quasi alcun moderno, di nessuna scuola, che potrebbe deliberatamente disegnare l'immagine di una visione nelle veglie della [[Night|notte]] — specialmente una visione tanto visionaria, tanto trascendentale e tanto tremendamente simbolica come quella di un santo ignoto che sostiene una chiesa universale — senza portare nel quadro qualche [[Shadow|ombra]] d'irrealtà o di lontananza, qualche livido alone del preternaturale; almeno del mistero e delle tinte del crepuscolo. Ma il sogno medievale è più solido della realtà moderna. L'[[Artist|artista]] medievale lo ha trattato con una schiettezza che appartiene al vigoroso realismo dell'[[innocence|innocenza]] e dell'[[Childhood|infanzia]]; quella specie di attualità che è rimasta del tutto intatta dalle molte forme di scetticismo che si mascherano da misticismo. Il sogno è colmo di qualcosa di straordinario, qualcosa che davvero, per coloro che sanno comprenderlo, brillò sui malvagi e sui buoni per tutta l'epoca che chiamiamo le Età Oscure: pieno giorno.
-
-
-
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_04" data-title="Common Man — Giotto And St.  Francis (part 4)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
-
-
-In another sense, however, the spirit illuminating these great
-medieval designs is not so much generally the spirit of daylight
-as in a rather curious and peculiar sense, the spirit of daybreak.
-Of that highly medieval design it is true to say something of what
-Keats said of the highly classical design of his Grecian Urn.
-It is a sort of immortal moment of morning, and that which is
-a mere transition in [[Time|time]] fixed as an absolute for [[Eternity|eternity]].
-We are so accustomed, in modern times, to think in terms of what we
-call progress, that we seldom admit, except in a poetical parenthesis,
-that there is such a thing as a perfect moment which is better
-than what comes after, as [[Well|well]] as better than what went before.
-Yet it might [[Well|well]] be maintained that art in all its [[history]]
-had no better moment, either before or after, than this
-in which all that was good in the old framework and formalism
-still remained with the upstanding strength of a great building,
-but in which there had already entered that rush of life
-and growth, which had turned it into something like a forest,
-without having as yet turned it into anything like a jungle.
-The naturalistic spirit of the nineteenth century, when it first began
-to understand the genius of Giotto or St. Francis, as interpreted
-by the talent of Ruskin or of Renan, was bound to fasten especially
-on the fanciful and charming episode of the Sermon to the [[Birds]].
-For that generation was less concerned about the preservation of
-churches and more about the preservation of [[Birds|birds]], even if it were
-in the equivocal sense of the preservation of game.  It would be easy
-to illustrate the whole development, we might even say, the whole
-ascent and descent, under the emblem or example of the bird.  The [[Birds|birds]]
-of the primal and symbolic epoch were simplified and somewhat terrible:
-as in the Eagle of the [[Apocalypse]] or the Dove of the Holy [[Ghost]].
-All other [[Birds|birds]] in the Byzantine scheme would have been as abstract
-and typical as the [[Birds|birds]] of an Egyptian hieroglyphic.  The [[Birds|birds]]
-of the later realistic epoch, when the painters of the nineteenth
-century had brought to the last perfection, or the last satiety,
-the studies of optics or of physics begun in the sixteenth, might [[Well|well]]
-have been a most detailed and even bewildering display of ornithology.
-But the [[Birds|birds]] to whom St. Francis preached, in the vision of the
-thirteenth-century art, were already [[Birds|birds]] that could fly and sing,
-but not yet [[Birds|birds]] that could be shot or stuffed; they had ceased
-to be merely heraldic without becoming merely scientific.
-And as, in all studies of St. Francis, we always return to that
-great comparison which he at once denied with all his [[Humility|humility]]
-and desired with all his heart, we may say that they were not wholly
-unlike those strange [[Birds|birds]] in the legend, which the Holy [[Child]]
-pinched into shape out of scraps of clay, and then started into life
-and swiftness with a clap of His little hands.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-In un altro senso, tuttavia, lo spirito che illumina questi grandi disegni medievali non è tanto, in generale, lo spirito del pieno giorno, quanto — in un senso piuttosto curioso e peculiare — lo spirito dell'alba. Di quel disegno altamente medievale è giusto dire qualcosa di ciò che Keats disse dell'altamente classico disegno della sua Urna Greca. È una sorta di immortale attimo di mattino, e ciò che è una mera transizione nel [[Time|tempo]] vi è fissato come un assoluto per l'[[Eternity|eternità]]. Siamo così abituati, nei tempi moderni, a pensare in termini di ciò che chiamiamo progresso, che di rado ammettiamo, se non in una parentesi poetica, che esista una cosa come un attimo perfetto migliore di ciò che viene dopo, [[Well|oltre che]] migliore di ciò che venne prima. Eppure si potrebbe [[Well|ben]] sostenere che l'arte, in tutta la sua [[history|storia]], non ebbe momento migliore, né prima né dopo, di questo in cui tutto ciò che era buono nell'antica intelaiatura e nel formalismo ancora rimaneva con la forza eretta di un grande edificio, ma in cui era già entrato quell'impeto di vita e di crescita che l'aveva mutato in qualcosa di simile a una foresta, senza ancora averlo mutato in qualcosa di simile a una giungla. Lo spirito naturalistico dell'Ottocento, quando cominciò per la prima volta a comprendere il genio di Giotto o di san Francesco, così come interpretato dal talento di Ruskin o di Renan, era destinato ad appuntarsi specialmente sul fantasioso e delizioso episodio della Predica agli [[Birds|Uccelli]]. Poiché quella generazione era meno preoccupata della conservazione delle chiese e più della conservazione degli [[Birds|uccelli]], anche se fosse stato nell'equivoco senso della conservazione della selvaggina. Sarebbe facile illustrare l'intero sviluppo, potremmo persino dire l'intera ascesa e discesa, sotto l'emblema o l'esempio dell'uccello. Gli [[Birds|uccelli]] dell'epoca primeva e simbolica erano semplificati e alquanto terribili: come nell'Aquila dell'[[Apocalypse|Apocalisse]] o nella Colomba dello [[Ghost|Spirito Santo]]. Tutti gli altri [[Birds|uccelli]], nello schema bizantino, sarebbero stati astratti e tipici quanto gli [[Birds|uccelli]] di un geroglifico egizio. Gli [[Birds|uccelli]] della successiva epoca realistica, quando i pittori dell'Ottocento avevano portato all'ultima perfezione, o all'ultima sazietà, gli studi di ottica o di fisica cominciati nel Cinquecento, avrebbero [[Well|ben]] potuto essere una dettagliatissima e persino sconcertante esposizione di ornitologia. Ma gli [[Birds|uccelli]] cui san Francesco predicò, nella visione dell'arte del Duecento, erano già [[Birds|uccelli]] capaci di volare e cantare, ma non ancora [[Birds|uccelli]] che si potessero abbattere a fucilate o impagliare; avevano cessato di essere meramente araldici senza diventare meramente scientifici. E poiché, in tutti gli studi su san Francesco, torniamo sempre a quel grande paragone che egli a un tempo negò con tutta la sua [[Humility|umiltà]] e desiderò con tutto il cuore, possiamo dire che essi non erano del tutto dissimili da quegli strani [[Birds|uccelli]] della leggenda che il Santo [[Child|Bambino]] plasmò con briciole d'argilla, e poi avviò alla vita e alla rapidità con un battito delle sue piccole mani.
-
-
-
-<span class="atom-split" data-atom="story_12_the_new_groove--part_01" data-title="Common Man — The New Groove (part 1)" data-chapter="The New Groove" data-kind="excerpt"></span>
-
-
-THE NEW GROOVE
-
-The Poet Tennyson, like a true Victorian, must have written
-a good many of his [[Poems|poems]] in the train; travelling by railroad being
-the chief invention and institution of his age.  Indeed he confesses
-to have written the poem of Lady Godiva while waiting for the train;
-and to judge by the careful construction of the [[Blank Verse|blank verse]] the train
-must have been very late.  But there are other Tennysonian lines which
-Tennyson would seem to have written while he was asleep in the train.
-They have that peculiar mixture of jumble and jingle familiar
-to those who go to [[Sleep|sleep]] in trains and only feel the metallic rhythm
-of the wheels mingling with the most shapeless and senseless [[Dreams|dreams]].
-It was at some such moment of profound slumber that Lord Tennyson
-composed the more progressive and prophetic portions of Locksley Hall;
-and this is clearly proved by the convincing, nay, damning, fact that
-one of the lines does really and truly run:
-
-Let the great world spin for ever down the ringing grooves of change.
-
-Psychologists will be interested in the curious displacement of words
-and disorder of ideas, which is characteristic of sentences invented
-in [[A Dream|a dream]].  To the ordinary waking intelligence the words would appear
-to have no meaning.  Grooves do not change; they do not necessarily ring;
-they do not even ring the changes.  But, just as a sleeper in a
-railway-carriage will murmur, in the shock of awakening, some sentence
-betraying a secret he would probably have concealed if awake;
-as that he is travelling first-class with a third-class ticket,
-or that the corpse of a creditor is concealed under the seat--
-so Tennyson, in this very extraordinary line of verse, did really
-betray the secret, and even the crime, of his own intellectual
-world and most of the world that has come after it.
-
-For what is the matter with most of what calls itself the modern
-mind is simply grooves; and our habit of being content in
-the grooves, because we are told that they are grooves of change.
-And it is, as I say, a revealing fact that even when the modern poet
-wishes to describe change, even when he wishes to glorify change,
-he does still instinctively describe it as a groove.
-This is a mark that has been left on very much of the modern world,
-ever since the beginning of the mechanical and industrial epoch.
-But it had its first and clearest form in this fixed conception
-of travelling by rail.  It may be specially noted that we speak
-of the modern mind being in a groove rather than in a rut.
-A rut was a term commonly used of a cart-track; in the simple times
-when we did not put the cart before the [[Horse|horse]].  When a living thing
-went before us there was something of [[Doubt|doubt]] or adventure or hesitation
-in the tracks it made for itself, even if they became grooves for others.
-There were strange curves in his course who hitched his wagon even
-to a [[Horse|horse]], and who had not yet given up horses for horsepower.
-There were sometimes very wild and fantastic tracks in his,
-who hitched his wagon to a star.  But, apart from all such figures
-or fancies, the essential peculiarity of the groove is that there can
-be nothing new about it except that it may take us to new places,
-or possibly take us past new places, at an entirely new rate of [[Speed|speed]].
-That is the essential of what I mean by the modern groovings;
-that its only form of progress is going quicker and quicker along
-one line in one direction.  It has not the curiosity to stop,
-nor the adventurous [[Courage|courage]] to go backwards.
-
-Let us take, for the sake of clarity, this familiar case of the
-railway-train. A [[history]] of the locomotive steam-engine has often
-been presented in all its stages of improvement; the evolution
-of the modern train from the first clumsy models of Puffing Billy.
-But the engine did not produce anything but faster and faster engines;
-and the vital point is that nobody ever expected that it would.
-Nobody, even in a flight of fancy, wondered whether it would develop
-in any other direction, except the direction of its own groove.
-For instance, nobody ever suggested that it might develop its own
-type of architecture, so that the building of cars or carriages
-should be like the building of temples or town-halls. Yet there
-might perfectly [[Well|well]] have been four or five schools of architecture
-for the designing of trains, as there are for the designing of temples.
-It would be a pleasing fancy if the architectural style of the train
-varied according to the country it was crossing or visiting.
-The Pennsylvania Railway Station in [[New York]] is a noble and serious
-piece of architecture; and it is really a sort of salute to
-the great [[City|city]] of Philadelphia towards which its gates are set.
-It might quite [[Well|well]] have fallen out that what was done for
-the station could be done for the steam-engine; and the very
-design and colour of the vehicle vary according to whether it
-was going to the old French cities or the Red Indian plains;
-to the snows of Alaska or the orange-groves of Florida.
-Indeed I think there would have been much poetic symbolism in a
-hundred forms, probably guarded by rituals and dedicated to gods
-or patron saints, if it had so happened that the steam-engine
-was discovered by ancient Greeks or medieval Christians,
-and not by the Philistines of the Victorian [[Time|time]].  But the point
-is here that nobody ever thought of such things; and certainly
-nobody thought of testing the progress of the train by such tests.
-There was only one test of the train and that was the test of the groove;
-of the smoothness of the groove; of the straightness of the groove;
-of the swiftness with which it travelled along the groove.
-There was something, in the tone of the whole thing, that prevented
-even mere fancy from breaking away in any other direction;
-or wondering, even vainly, if it could ever carry a [[Castle|castle]] like an
-elephant or a figurehead like a [[Ship|ship]].
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IL NUOVO BINARIO
-
-Il poeta Tennyson, da buon vittoriano, dovette scrivere
-buona parte delle sue [[Poems|poesie]] in treno; giacché viaggiare in ferrovia
-era l'invenzione e l'istituzione capitale della sua epoca.  Anzi, confessa
-d'aver composto la poesia di Lady Godiva mentre attendeva il treno;
-e, a giudicare dalla cura con cui è costruito il [[Blank Verse|verso sciolto]], il treno
-doveva essere in grandissimo ritardo.  Ma vi sono altri versi tennysoniani
-che Tennyson sembra aver scritto mentre dormiva in treno.
-Hanno quella singolare mescolanza di confusione e tintinnìo familiare
-a chi va a [[Sleep|dormire]] in treno e non avverte se non il ritmo metallico
-delle ruote che si fonde con i più informi e insensati [[Dreams|sogni]].
-Fu in un simile momento di sonno profondo che Lord Tennyson
-compose le parti più progressive e profetiche di Locksley Hall;
-e ciò è chiaramente provato dal fatto convincente, anzi schiacciante, che
-uno dei versi recita davvero, letteralmente:
-
-Che il gran mondo per sempre ruoti giù pei binari sonanti del mutamento.
-
-Gli psicologi troveranno interessante il curioso spostamento delle parole
-e il disordine delle idee che caratterizzano le frasi coniate
-in [[A Dream|un sogno]].  All'intelligenza comune e desta le parole parrebbero
-prive di senso.  I binari non mutano; non necessariamente risuonano;
-non fanno neppure sonare le campane a distesa.  Ma, come chi dorme in un
-vagone ferroviario mormora, nell'urto del risveglio, qualche frase
-che tradisce un segreto che da sveglio avrebbe probabilmente celato;
-per esempio che viaggia in prima classe con un biglietto di terza,
-o che il cadavere di un creditore è nascosto sotto il sedile—
-così Tennyson, in questo straordinarissimo verso, tradì davvero
-il segreto, e persino il delitto, del proprio mondo
-intellettuale e di gran parte del mondo che è venuto dopo di lui.
-
-Poiché ciò che affligge quasi tutto quel che si fa chiamare mente
-moderna sono semplicemente i binari; e la nostra abitudine ad accontentarci
-dei binari, perché ci si dice che sono binari del mutamento.
-Ed è, come dico, un fatto rivelatore che perfino quando il poeta moderno
-vuole descrivere il mutamento, perfino quando vuole glorificare il mutamento,
-lo descriva pur sempre d'istinto come un binario.
-È un marchio impresso su gran parte del mondo moderno,
-fin dagli albori dell'epoca meccanica e industriale.
-Ma ebbe la sua prima e più netta forma in questa concezione fissa
-del viaggiare in ferrovia.  Si noti in particolare che diciamo
-che la mente moderna è incanalata in un binario piuttosto che in un solco.
-Il solco era un termine usato comunemente per la traccia d'un carro; ai tempi semplici
-in cui non mettevamo il carro davanti al [[Horse|cavallo]].  Quando davanti a noi
-andava una cosa vivente, c'era qualcosa di [[Doubt|incertezza]], d'avventura o d'esitazione
-nelle tracce che essa lasciava, anche se poi diventavano binari per altri.
-V'erano strane curve nel cammino di chi aggiogava il proprio carro anche
-a un [[Horse|cavallo]], e non aveva ancora barattato i cavalli per la cavalleria a vapore.
-V'erano talora tracce assai selvagge e fantastiche in quello di chi
-aggiogava il proprio carro a una stella.  Ma, a prescindere da tali figure
-o fantasie, la peculiarità essenziale del binario è che non vi può
-esser nulla di nuovo in esso, salvo che ci porti in luoghi nuovi,
-o magari ci faccia oltrepassare luoghi nuovi, a una [[Speed|velocità]] del tutto nuova.
-È questo l'essenziale di ciò che intendo per incanalamento moderno;
-che la sua unica forma di progresso è andare sempre più veloci lungo
-una sola linea in una sola direzione.  Non ha la curiosità di fermarsi,
-né il [[Courage|coraggio]] avventuroso di andare all'indietro.
-
-Prendiamo, per chiarezza, questo caso familiare del
-treno ferroviario. La [[history|storia]] della locomotiva a vapore è stata spesso
-presentata in tutte le sue fasi di perfezionamento; l'evoluzione
-del treno moderno dai primi rozzi modelli del Puffing Billy.
-Ma la macchina non produsse altro che macchine sempre più veloci;
-e il punto essenziale è che nessuno si aspettò mai che facesse altro.
-Nessuno, nemmeno in un volo di fantasia, si domandò se si sarebbe sviluppata
-in qualche altra direzione, all'infuori della direzione del proprio binario.
-Per esempio, nessuno suggerì mai che potesse sviluppare un proprio
-tipo di architettura, così che la costruzione delle carrozze
-fosse come la costruzione dei templi o dei municipi. Eppure ci sarebbero
-potute [[Well|benissimo]] essere quattro o cinque scuole d'architettura
-per il disegno dei treni, come ve ne sono per il disegno dei templi.
-Sarebbe una piacevole fantasia se lo stile architettonico del treno
-variasse secondo il paese che attraversa o visita.
-La Pennsylvania Railway Station a [[New York]] è un'opera d'architettura
-nobile e seria; ed è davvero una sorta di saluto alla
-grande [[City|città]] di Filadelfia, verso la quale sono rivolte le sue porte.
-Sarebbe potuto [[Well|benissimo]] accadere che ciò che fu fatto per
-la stazione si facesse per la locomotiva; e che il disegno stesso
-e il colore del veicolo variassero a seconda che esso andasse
-verso le vecchie città francesi o le pianure dei Pellirosse;
-verso le nevi dell'Alaska o gli aranceti della Florida.
-Anzi, credo che vi sarebbe stato molto simbolismo poetico in un
-centinaio di forme, probabilmente custodite da riti e dedicate a dèi
-o a santi patroni, se fosse accaduto che la locomotiva a vapore
-fosse stata scoperta dagli antichi Greci o dai cristiani medievali,
-e non dai Filistei del [[Time|tempo]] vittoriano.  Ma il punto
-è questo: che nessuno pensò mai a simili cose; e certamente
-nessuno pensò di saggiare il progresso del treno con simili prove.
-V'era una sola prova per il treno, ed era la prova del binario;
-della levigatezza del binario; della rettitudine del binario;
-della rapidità con cui esso correva lungo il binario.
-V'era qualcosa, nel tono dell'intera faccenda, che impediva
-perfino alla mera fantasia di svincolarsi in qualsiasi altra direzione;
-o di chiedersi, sia pure invano, se non avrebbe mai potuto portare un [[Castle|castello]] come un
-elefante o una polena come una [[Ship|nave]].
-
-
-
-<span class="atom-split" data-atom="story_12_the_new_groove--part_02" data-title="Common Man — The New Groove (part 2)" data-chapter="The New Groove" data-kind="excerpt"></span>
-
-
-Now, in spite of the wildest claims to independence,
-the intellectual life of today still strikes me as being
-mainly symbolised by the train or the track or the groove.
-There is any amount of fuss and vivacity about certain fixed fashions
-or directions of thought; just as there is any amount of rapidity
-along the fixed rails of the railway-track. But if we begin
-to think about really getting off the track, we shall find that.
-what is true of the train is equally true of the [[Truth|truth]].
-We shall find it is actually harder to get out of the groove,
-when the train is going fast, than when the train is going slowly.
-We shall find that rapidity is rigidity; that the very fact of some
-social or political or artistic movement going quicker and quicker
-means that fewer people have the [[Courage|courage]] to move against it.
-And at last perhaps nobody will make a leap for real intellectual liberty,
-just as nobody will jump out of a railway-train going at eighty
-miles an hour.  This seems to me the primary mark of what we
-call progressive thought in the modern world.  It is in the most
-exact sense of the term limited.  It is all in one dimension.
-It is all in one direction.  It is limited by its progress.
-It is limited by its [[Speed|speed]].
-
-I have said that it has not the curiosity to stop.  If the train-dwellers
-were really travellers, exploring a strange country to make discoveries,
-they would always be stopping at little wayside stations.
-For instance, they would always be stopping to consider the curious
-[[Nature|nature]] of their own conventional terms; a thing which they
-never do, by any chance.  Their catchwords are regarded solely
-as gadgets or appliances for getting them where they are going to;
-they never cast back a thought upon where the catchword comes from.
-Yet that is exactly what they would do if they were really thinking,
-in any thorough and all-round sense.  Of course it will be understood,
-touching these intellectual fashions, that great masses,
-probably the mass of mankind, never travel on the train at all.
-They remain in their villages and are much happier and better;
-but they are not regarded as the intellectual leaders of the [[Time|time]].
-What I complain of is that the intellectual leaders can only
-lead along one narrow track; otherwise known as "the ringing
-groove of change".  Take, in this matter of current phrases,
-the example of the controversy about advanced and futuristic art.
-I do not mean to consider the art but to consider the controversy;
-as illustrating what has been said about the advisability of stopping
-and the stupidity of the non-stop train.
-
-Now although, of course, the actual masses are quite unconverted
-to Picasso or Epstein, yet the terms of controversy, the only tags
-of argument known to the newspapers, the only familiar and almost
-popular sophistries outside mere popular abuse, are on the side
-of the new schools.  I mean that modern men are not familiar
-with the rational arguments for tradition; but they are familiar,
-and almost wearily familiar, with the rational arguments for change.
-Whichever side may be really right in the question of art
-(which obviously depends largely on the particular artists),
-the whole modern world is verbally prepared to regard the new
-[[Artist|artist]] as right and the old [[Artist|artist]] as wrong.  It is prepared
-to do so by the whole progressive [[philosophy]]; which is often
-rather a phraseology than a [[philosophy]].  The language which comes
-most readily to everyone's mind is the language of innovation;
-but it is a language that is rather exercised than examined.
-For instance, it is probable that more people are even now acquainted with
-the [[Poems|poems]] of Mr. W. B. Yeats than with the [[Poems|poems]] of Miss Edith Sitwell.
-But many, many more people understand what Miss Sitwell means, when she
-simply says that she is criticised in her day as Keats was criticised
-in his day, than could possibly understand what Mr. Yeats means,
-when he says that nothing quite new can be used in poetry;
-or that [[innocence]] is only born out of ceremony and custom.
-For the former argument is a familiar argument of all modern
-progressives and reformers; the latter sayings are very
-profound sayings of a man who really thinks for himself.
-I agree that in many other things, and especially in the best
-examples of her poetry, Miss Sitwell also can think for herself.
-I only say that this particular argument ("John the Baptist was
-laughed at and I am laughed at"; "Galileo was disbelieved and I
-am disbelieved")--this particular argument is part of the regular
-recognised bag of tricks of reformers and revolutionists;
-it is a part of the very old apparatus of the New Movement.
-Now if we apply this, for instance, to the quarrels about
-painting or sculpture we shall find the same situation:
-that, whichever side is right, the whole apparatus of modern
-talk favours the idea that the new thing is always right.
-There are a definite selection of phrases used, but not often examined.
-For instance, should any Philistine faintly protest against
-[[Helen]] of Troy being sculptured with a head of the exact shape
-of the Great Pyramid, or [[Titania]] with a figure following the grand
-simple lines of the hippopotamus at the zoo, or even perhaps his own
-favourite daughter presenting herself to the public in the appealing
-and even touching condition of having her nose and eyelids cut off--
-whenever such a criticism is heard, whether it be right or wrong,
-it will be answered with the precision of clockwork, by a phrase
-to the effect that some people want art to be "pretty-pretty". Now
-the first act of any independent mind will be to criticise this criticism;
-and especially to feel a curiosity about the curious form of it.
-Why does everybody say, "pretty-pretty"?  Why not say that some people
-do not like what is "ugly-ugly", or possibly what is "beastly-beastly"?
-What is the meaning of this weird repetition, like a recurring decimal?
-If you have the sort of independent curiosity that stops at
-wayside stations, if (in short) you are not merely in a hurry to get
-to the fashionable terminus, you may [[Well|well]] pause upon a phrase like that,
-not without profit.  You will perceive that the phrase is, in fact,
-a rather pathetic attempt to reproduce the wondering exclamation
-of a [[Child|child]].  And that would be [[Alone|alone]] enough to destroy the argument.
-For a [[Child|child]] has a very sound sense of [[Wonder|wonder]] at what is really wonderful;
-and by no means merely a vulgar and varnished taste in what is
-conventionally beautiful.  The thing that a genuine [[Child|child]] might
-call "pretty-pretty" is not the soapy portrait of a débutante
-or an upholstered group of a royal family; it is much more likely
-to be a flash of red [[Fire|fire]] or the strong colours of a great [[Garden|garden]]
-flower or something that really is elemental and essential;
-something in its way quite as "stark" (as our dear friends
-would say) as the Great Pyramid or the great pachyderm.
-Children are not snobs in art any more than in morals.  And if they
-often have also a pleasure in things that are really "pretty",
-in the sense of a graceful girl by Greuze or a cloud of pink blossom
-in [[spring]], it is simply because there is a perfectly legitimate
-place in art for what is pretty; and it is not in the least
-disposed of by jabbering the same word twice over and calling
-it "pretty-pretty". Anyhow, the more supercilious moderns make
-a bad blunder in imputing childishness in defence of some things
-that could only be defended as being in the higher sense childish.
-It was Cezanne himself who said, "I am trying to recover the direct
-vision of a [[Child|child]]."
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ora, a dispetto delle più sfrenate pretese d'indipendenza,
-la vita intellettuale d'oggi mi appare tuttora
-simboleggiata soprattutto dal treno, dai binari, dal solco tracciato.
-V'è quanto si vuole di trambusto e vivacità intorno a certe fisse mode
-o direzioni del pensiero; proprio come v'è quanta si vuole di rapidità
-lungo le rotaie fisse della ferrovia. Ma se cominciamo
-a pensare di uscire davvero dai binari, scopriremo
-che ciò che vale per il treno vale ugualmente per la [[Truth|verità]].
-Scopriremo che è in realtà più difficile uscire dal binario
-quando il treno va veloce che quando il treno va piano.
-Scopriremo che la rapidità è rigidità; che il fatto stesso che un
-movimento sociale o politico o artistico vada sempre più veloce
-significa che sempre meno gente ha il [[Courage|coraggio]] di muoversi contro di esso.
-E alla fine forse nessuno spiccherà un balzo verso la vera libertà intellettuale,
-proprio come nessuno salta giù da un treno che corre a ottanta
-miglia all'ora.  Questo mi sembra il primo carattere di ciò che
-chiamiamo pensiero progressivo nel mondo moderno.  Esso è, nel senso
-più esatto del termine, limitato.  È tutto in una sola dimensione.
-È tutto in una sola direzione.  È limitato dal proprio progresso.
-È limitato dalla propria [[Speed|velocità]].
-
-Ho detto che non ha la curiosità di fermarsi.  Se gli abitanti del treno
-fossero veri viaggiatori, che esplorano un paese ignoto per fare scoperte,
-si fermerebbero sempre alle piccole stazioni lungo la via.
-Per esempio, si fermerebbero sempre a considerare la curiosa
-[[Nature|natura]] dei loro stessi termini convenzionali; cosa che
-non fanno mai, in nessun caso.  I loro slogan sono considerati unicamente
-come congegni o strumenti per portarli dove stanno andando;
-non gettano mai indietro un pensiero su donde venga lo slogan.
-Eppure è esattamente ciò che farebbero se pensassero davvero,
-in un senso pieno e a tutto tondo.  Naturalmente si comprenderà,
-quanto a queste mode intellettuali, che grandi masse,
-probabilmente la massa dell'umanità, non viaggiano affatto sul treno.
-Restano nei loro villaggi e sono assai più felici e migliori;
-ma non sono considerate le guide intellettuali del [[Time|tempo]].
-Ciò di cui mi lagno è che le guide intellettuali possono soltanto
-guidare lungo un unico stretto binario; altrimenti detto «il sonante
-binario del mutamento».  Prendiamo, in questa faccenda delle frasi correnti,
-l'esempio della controversia sull'arte avanzata e futurista.
-Non intendo considerare l'arte, ma considerare la controversia;
-come illustrazione di quanto s'è detto sull'opportunità di fermarsi
-e sulla stoltezza del treno che non si ferma mai.
-
-Ora, benché, s'intende, le masse reali non siano affatto convertite
-a Picasso o a Epstein, tuttavia i termini della controversia, gli unici cavilli
-d'argomentazione noti ai giornali, gli unici sofismi familiari e quasi
-popolari al di là del semplice insulto popolare, stanno dalla parte
-delle nuove scuole.  Voglio dire che gli uomini moderni non hanno familiarità
-con gli argomenti razionali in favore della tradizione; ma hanno familiarità,
-e una familiarità quasi stucchevole, con gli argomenti razionali in favore del mutamento.
-Da qualunque parte stia davvero la ragione nella questione dell'arte
-(che ovviamente dipende in gran parte dai singoli artisti),
-tutto il mondo moderno è verbalmente disposto a considerare il nuovo
-[[Artist|artista]] nel giusto e il vecchio [[Artist|artista]] nel torto.  Vi è disposto
-da tutta la [[philosophy|filosofia]] progressiva; che spesso
-è più una fraseologia che una [[philosophy|filosofia]].  Il linguaggio che si affaccia
-più prontamente alla mente di ognuno è il linguaggio dell'innovazione;
-ma è un linguaggio che si esercita più di quanto si esamini.
-Per esempio, è probabile che perfino ora più persone conoscano
-le [[Poems|poesie]] del signor W. B. Yeats che le [[Poems|poesie]] della signorina Edith Sitwell.
-Ma moltissime più persone capiscono ciò che intende la signorina Sitwell quando
-dice semplicemente d'essere criticata ai suoi giorni come Keats fu criticato
-ai suoi, di quante potrebbero mai capire ciò che intende il signor Yeats
-quando dice che nulla di veramente nuovo può essere usato in poesia;
-o che l'[[innocence|innocenza]] nasce soltanto dalla cerimonia e dall'usanza.
-Poiché il primo argomento è un argomento familiare a tutti i moderni
-progressisti e riformatori; le seconde affermazioni sono detti
-assai profondi di un uomo che pensa davvero con la propria testa.
-Convengo che in molte altre cose, e specialmente nei migliori
-esempi della sua poesia, anche la signorina Sitwell sa pensare con la propria testa.
-Dico soltanto che questo particolare argomento («Giovanni Battista fu
-deriso, e io sono derisa»; «Galileo non fu creduto, e io
-non sono creduta»)—questo particolare argomento fa parte del regolare
-e riconosciuto repertorio di trucchi dei riformatori e dei rivoluzionari;
-è parte del vecchissimo armamentario del Nuovo Movimento.
-Ora, se applichiamo tutto ciò, per esempio, alle dispute intorno
-alla pittura o alla scultura, troveremo la stessa situazione:
-che, da qualunque parte stia la ragione, tutto l'apparato del discorso
-moderno favorisce l'idea che la cosa nuova abbia sempre ragione.
-Vi è una precisa selezione di frasi usate, ma di rado esaminate.
-Per esempio, se qualche Filisteo osasse debolmente protestare contro
-[[Helen]] di Troia scolpita con una testa della forma esatta
-della Grande Piramide, o [[Titania]] con una figura che segue le grandi
-linee semplici dell'ippopotamo allo zoo, o magari contro la propria
-figlia prediletta che si presenta al pubblico nella condizione appellante
-e perfino toccante d'avere il naso e le palpebre tagliati via—
-ogni volta che si ode una simile critica, che sia giusta o sbagliata,
-le si risponderà con la precisione di un orologio, con una frase
-del tenore che certa gente vuole che l'arte sia «graziosa-graziosa». Ora
-il primo atto di ogni mente indipendente sarà criticare questa critica;
-e specialmente provare curiosità per la sua curiosa forma.
-Perché tutti dicono «graziosa-graziosa»?  Perché non dire che certa gente
-non ama ciò che è «brutto-brutto», o magari ciò che è «bestiale-bestiale»?
-Qual è il senso di questa bizzarra ripetizione, come un decimale periodico?
-Se avete quella sorta di curiosità indipendente che si ferma alle
-stazioncine lungo la via, se (insomma) non avete fretta di arrivare
-al capolinea alla moda, potete [[Well|ben]] soffermarvi su una frase simile,
-non senza profitto.  Vi accorgerete che la frase è, in realtà,
-un tentativo piuttosto patetico di riprodurre l'esclamazione meravigliata
-di un [[Child|bambino]].  E ciò basterebbe da [[Alone|solo]] a distruggere l'argomento.
-Poiché un [[Child|bambino]] ha un ben saldo senso di [[Wonder|meraviglia]] per ciò che è davvero meraviglioso;
-e per nulla un gusto volgare e verniciato per ciò che è
-convenzionalmente bello.  La cosa che un vero [[Child|bambino]] potrebbe
-chiamare «graziosa-graziosa» non è il ritratto sdolcinato di una debuttante
-o un imbottito gruppo di famiglia reale; è assai più probabile
-che sia un guizzo di [[Fire|fuoco]] rosso o i colori intensi di un grande fiore
-di [[Garden|giardino]] o qualcosa che è davvero elementare ed essenziale;
-qualcosa a suo modo altrettanto «crudo» (come direbbero i nostri cari
-amici) quanto la Grande Piramide o il grande pachiderma.
-I bambini non sono snob in arte più di quanto lo siano in morale.  E se
-spesso provano piacere anche per le cose che sono davvero «graziose»,
-nel senso di una fanciulla aggraziata del Greuze o di una nuvola di fiori rosa
-in [[spring|primavera]], è semplicemente perché vi è un posto perfettamente legittimo
-nell'arte per ciò che è grazioso; e non lo si liquida affatto
-biascicando due volte la stessa parola e chiamandolo
-«grazioso-grazioso». Comunque sia, i moderni più altezzosi commettono
-un grave abbaglio nell'imputare puerilità a difesa di certe cose
-che potrebbero essere difese solo in quanto puerili nel senso più alto.
-Fu Cézanne stesso a dire: «Cerco di ritrovare la visione diretta
-di un [[Child|bambino]]».
-
-
-
-<span class="atom-split" data-atom="story_12_the_new_groove--part_03" data-title="Common Man — The New Groove (part 3)" data-chapter="The New Groove" data-kind="excerpt"></span>
-
-
-It is the same with all the cant phrases already in circulation,
-for the purpose of defending any eccentricity, even before it exists.
-Thus everybody is familiar with the phrase that art is
-not photography, and that only photography is required
-to be realistic.  Everybody is familiar with the phrase,
-and nobody is familiar with the holes or errors in the phrase.
-As a matter of fact nothing is less realistic than photography.
-At the very start it is cut away from all reality exactly as marble
-sculpture is cut away from reality, by being conventionally colourless;
-by divorcing the great optical [[Union|union]] of colour and form.
-But it is not really realistic even about form.  The thing it
-does reproduce more or less realistically is light and shade,
-and the light often falsifies the form and always falsifies the colour.
-If we want true form it must be drawn for us more or less
-abstractedly by a draughtsman; and when it is so drawn by Leonardo
-or Michelangelo, it cannot be dismissed as photographic, any more
-than as "pretty-pretty". The modern [[Artist|artist]] may have his own reasons
-for drawing legs as if they were bolsters or sausages; but that does
-not make the strong sweeping lines, of sloping bone or gripping muscle,
-in a great Florentine drawing, a dull mechanical reproduction,
-valuable only as the vulgar snapshot of a trivial fact.
-Those lines are strong and beautiful, as the lines of waterfall and
-whirlpool are beautiful.  In fact, they are exactly like the beautiful
-abstract forms, which the modern [[Artist|artist]] would like to invent--
-if he could.
-
-I have taken only this one type, of the talk about new schools of art,
-to illustrate what I mean by saying that the world is in such
-a hurry to be new that it does not even pause upon the truths
-of the new school, let [[Alone|alone]] of the old.  Of the million men
-and women who have heard those two phrases, how many have heard
-any phrases out of the opposite phraseology and [[philosophy]]?
-I mean any which offer a philosophical defence of the other [[philosophy]]?
-Of all those who have been told (somewhat needlessly)
-that Epstein does not profess to be pretty, how many have heard
-that case for civilisation, in which its very strength is shown
-in being able to rear and poise and protect prettiness?
-The very cyclopean massiveness of the foundations of the [[City|city]]
-is best proved in the fact that no earthquake can shake the ivory
-statuette upon the pedestal or the china shepherdess upon the shelf.
-How many have considered the more ancient argument, of a culture that
-is sufficiently athletic to be elegant?  Or, to take another example,
-how many have understood the scientific and psychological arguments
-for antiquity itself?  Of all those who can recall being told
-to admire a modern picture, merely because it is even more unlike
-life than a photograph, or being told to admire modern poetry,
-for no reason whatever except that it is more prosaic than slang--
-of all those, how many even remember the sound remark made long ago
-by [[Oliver]] Wendell Holmes; that the grand Latin poets actually grow
-grander by being quoted again and again; that the words actually
-grow together with [[Time|time]], as do the sections of a seasoned violin?
-I am not saying that the [[Truth|truth]] is all on the side of tradition;
-I am only saying that the publicity is all on the side of innovation.
-Until the recent rise of the Humanist group in [[America]],
-hardly anybody, even of the educated classes, possessed even
-the vocabulary for a defence of tradition.  The very words in use,
-the very structure of the sentences, the ordinary tone of the whole
-public Press, prevented me from using the real and reasonable
-arguments against mere novelty.  England, strangely enough,
-has even less of a working Humanist vocabulary than [[America]].
-Here also working journalistic ethics have been too much cut
-down and simplified to a few crude ideas, of commercial activity
-or continuous [[Reform|reform]].  I shall be completely misunderstood if I am
-supposed to be calling for a return ticket to Athens or to Eden;
-because I do not want to go on by the cheap train to Utopia.
-I want to go where I like.  I want to stop where I like.
-I want to know the width as [[Well|well]] as the length of the world;
-and to wander off the railway-track in the ancient plains of liberty.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Lo stesso vale per tutte le frasi fatte già in circolazione,
-allo scopo di difendere qualsiasi stravaganza, anche prima che esista.
-Così tutti hanno familiarità con la frase che l'arte
-non è fotografia, e che solo alla fotografia si richiede
-d'essere realistica.  Tutti hanno familiarità con la frase,
-e nessuno ha familiarità con le falle o gli errori della frase.
-In verità nulla è meno realistico della fotografia.
-Fin dall'inizio essa è tagliata via da ogni realtà esattamente come la scultura
-di marmo è tagliata via dalla realtà, per il fatto d'essere convenzionalmente incolore;
-per il divorzio della grande [[Union|unione]] ottica di colore e forma.
-Ma non è davvero realistica nemmeno riguardo alla forma.  Ciò che essa
-riproduce più o meno realisticamente sono la luce e l'ombra,
-e la luce spesso falsa la forma e sempre falsa il colore.
-Se vogliamo la vera forma, essa dev'essere disegnata per noi più o meno
-astrattamente da un disegnatore; e quando è così disegnata da Leonardo
-o Michelangelo, non la si può liquidare come fotografica, non più
-che come «graziosa-graziosa». Il moderno [[Artist|artista]] potrà avere le sue ragioni
-per disegnare gambe come fossero cuscini o salsicce; ma ciò non
-fa delle robuste linee spazzanti, dell'osso in pendio o del muscolo che si tende,
-in un grande disegno fiorentino, una piatta riproduzione meccanica,
-di valore solo come la volgare istantanea di un fatto banale.
-Quelle linee sono forti e belle, come sono belle le linee della cascata e
-del gorgo.  Anzi, sono esattamente come le belle
-forme astratte che il moderno [[Artist|artista]] vorrebbe inventare—
-se potesse.
-
-Ho preso soltanto questo unico tipo, il discorso sulle nuove scuole d'arte,
-per illustrare ciò che intendo dicendo che il mondo ha tanta
-fretta d'esser nuovo da non soffermarsi nemmeno sulle verità
-della nuova scuola, [[Alone|non che]] su quelle della vecchia.  Del milione di uomini
-e donne che hanno udito quelle due frasi, quanti hanno udito
-qualche frase della fraseologia e [[philosophy|filosofia]] opposta?
-Voglio dire, qualcuna che offra una difesa filosofica dell'altra [[philosophy|filosofia]]?
-Di tutti coloro cui è stato detto (in modo alquanto superfluo)
-che Epstein non pretende d'esser grazioso, quanti hanno udito
-quella difesa della civiltà, in cui la sua forza stessa si mostra
-nell'essere capace di allevare, librare e proteggere la grazia?
-La ciclopica massiccità stessa delle fondamenta della [[City|città]]
-è provata al meglio dal fatto che nessun terremoto può scuotere la statuetta
-d'avorio sul piedistallo o la pastorella di porcellana sulla mensola.
-Quanti hanno considerato l'argomento più antico, di una cultura che
-è sufficientemente atletica da poter essere elegante?  O, per prendere un altro esempio,
-quanti hanno compreso gli argomenti scientifici e psicologici
-in favore dell'antichità stessa?  Di tutti coloro che rammentano d'essersi sentiti dire
-d'ammirare un quadro moderno, semplicemente perché è ancora più dissimile
-dalla vita di quanto lo sia una fotografia, o di essersi sentiti dire d'ammirare la poesia moderna,
-per nessun'altra ragione se non che è più prosaica dello slang—
-di tutti costoro, quanti ricordano anche solo la giusta osservazione fatta tempo fa
-da [[Oliver]] Wendell Holmes; che i grandi poeti latini in realtà crescono
-più grandi a forza d'esser citati di continuo; che le parole in realtà
-crescono unite insieme col [[Time|tempo]], come fanno le parti di un violino stagionato?
-Non dico che la [[Truth|verità]] stia tutta dalla parte della tradizione;
-dico soltanto che la pubblicità sta tutta dalla parte dell'innovazione.
-Fino alla recente ascesa del gruppo umanista in [[America]],
-quasi nessuno, nemmeno delle classi colte, possedeva anche solo
-il vocabolario per una difesa della tradizione.  Le parole stesse in uso,
-la struttura stessa delle frasi, il tono ordinario di tutta la
-stampa pubblica, m'impedivano di usare gli argomenti reali e ragionevoli
-contro la mera novità.  L'Inghilterra, per quanto strano,
-possiede un vocabolario umanista operante ancor minore dell'[[America]].
-Anche qui l'etica giornalistica operante è stata troppo sfrondata
-e semplificata in poche idee grezze, di attività commerciale
-o di continua [[Reform|riforma]].  Sarò completamente frainteso se mi
-si suppone in cerca di un biglietto di ritorno per Atene o per l'Eden;
-perché non voglio proseguire sul treno a basso costo verso l'Utopia.
-Voglio andare dove mi piace.  Voglio fermarmi dove mi piace.
-Voglio conoscere la larghezza [[Well|non meno]] che la lunghezza del mondo;
-e vagabondare fuori dai binari nelle antiche pianure della libertà.
-
-
-
-<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_01" data-title="Common Man — Rabelaisian Regrets (part 1)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
-
-
-RABELAISIAN REGRETS
-
-There has arisen in our [[Time|time]] an extraordinary notion that there is
-something humane, open-hearted or generous about refusing to define
-one's creed.  Obviously the very opposite is the [[Truth|truth]].  Refusing to
-define a creed is not only not generous, it is distinctly mean.
-It fails in frankness and fraternity towards the enemy.
-It is fighting without a [[Flag|flag]] or a declaration of war.
-It denies to the enemy the decent concessions of battle;
-the right to know the policy and to treat with the headquarters.
-Modern "broad-mindedness" has a quality that can only be called sneakish;
-it endeavours to win without giving itself away, even after it has won.
-It desires to be victorious without betraying even the name
-of the victor.  For all sane men have intellectual doctrines
-and fighting theories; and if they will not put them on the table,
-it can only be because they wish to have the advantage of a fighting
-theory which cannot be fought.
-
-In the things of conviction there is only one other thing besides
-a dogma, and that is a prejudice.  If there is something in your
-life for which you will hold meetings and agitate and write letters
-to the newspaper, but for which you will not find the plain
-terms of a creed, then that thing is properly to be described
-as a prejudice, however new or noble or advanced it may seem to be.
-But indeed I think that when these ages are seen in proper perspective,
-men will say that the chief mark of the end of the nineteenth
-century and the beginning of the twentieth was the growth of vast
-and victorious prejudices.  I give, in passing, some instances
-of what I mean.  Thus, for instance, it is a brave and logical
-creed which declares, like Mahomet and some modern Puritans,
-that the drinking of fermented liquor is really wrong.
-But the modern world has not adopted this clear creed and never will.
-What it has done has been to spread everywhere a strong but vague
-prejudice against certain forms of drinking, particularly those
-adopted by the poor.  We have not made it wicked to drink ale,
-but we have made it slightly disreputable to go into a public-[[house]].
-In other words, we have made it slightly disreputable, if you
-drink ale, to be poor or to be sociable.  What it comes to is this:
-that any one wishing to sneer at me can get a laugh by saying I am
-a beer-drinker, but he will not commit himself to the statement
-that the thing that he has sneered at is wrong.  He may hit me,
-because he is appealing to a prejudice; but I may not hit him
-because he is not appealing to a creed.  He will not set anything
-up for me to hit.  He wants, somehow or other, to avoid calling
-liquor wrong and yet to call me wrong for touching liquor.
-This is not latitudinarianism; it is ordinary human cowardice.
-
-There are a great many other instances which could be given.
-For instance, fashionable opinion does not actually declare
-(as do, I believe, certain Eastern religions) that ablutions and
-bodily cleanliness are primary things, above even ordinary morals;
-but it does create a loose popular impression that it has scored
-off a personality or a nation more by saying that it is dirty
-than by saying that it is avaricious or timid or unchaste.
-No new creed is preached about cleanliness, but a strong
-sentimental emphasis and partiality is attached to the thing,
-making it more important than other things.  Of course cleanliness
-is only made so very important at present because it happens to be
-a thing quite easy for the rich and very difficult for the poor.
-My only concern here, however, is to point out the method by which it
-has been made important; never by explaining or defining its importance,
-as in a creed; always by assuming its importance, as in a prejudice.
-I have no space to go at length into other examples, but the reader can
-easily put the cases to himself; and he can employ this general test:
-that in the case of half the most typical movements of the last
-thirty years, nobody can say how or when they really began.
-In no barbaric twilight or tangled forest or confusion of the dark ages
-did huge forces ever come so silently or secretly into the world as they
-come to-day. No one knows or can name the real beginning of Imperialism
-or of the popularity of the Royal Family (a thing quite recent yet
-quite untraceable), or of the taking for granted, in so many minds,
-of the materialist [[philosophy]] or of the practical imposition of
-teetotalism as a discipline on the Nonconformist public ministry.
-These things come out of the [[Night|night]] and are formless even when they
-are forming everything else.
-
-But discussions on the subject of the Censor and other theatrical problems
-have brought before the public a supreme instance of what I mean.
-We have been asked for the hundredth [[Time|time]] to find some solution of
-that problem of the combination in art of [[Truth|truth]] with sexual modesty;
-and the result of considering this has been that we find ourselves
-face to face with a profound and most important change in public
-opinion on this subject; a change that has been going on,
-perhaps, for the last twenty years, perhaps ever since the coming
-of the Puritans; but a change which is, at any rate, of the utmost
-import to the wholesomeness of ethics, and a change which has
-proceeded in the same powerful [[Silence|silence]] as the growth of a tree.
-It is this difference between new English and old English ethics
-in the matter of verbal delicacy of which I wish to speak here.
-The subject is difficult, it is even emotional and painful;
-and I think it will do no harm to begin with some of the general
-human principles of the problem, even if they are as old and obvious
-as the alphabet.
-
-There is not really much difference of opinion among normal men
-about the first principles of decency in expression.  All healthy men,
-ancient and modern, Western and Eastern, hold that there is in sex
-a fury that we cannot afford to inflame; and that a certain mystery
-must attach to the instinct if it is to continue delicate and sane.
-There are people, indeed, who maintain that they would talk
-of this topic as coldly or openly as of any other; there are
-people who maintain that they would walk naked down the street.
-But these people are not only insane people, they are in the most emphatic
-sense of the word stupid people.  They do not think; they only point
-(as children do) and say "Why?"  Even children only do it when they
-are tired; but exactly this tired quality is most of what passes
-in our [[Time|time]] not only for thought but for bold and disturbing thought.
-To ask, "Why cannot we discuss sex coolly and rationally anywhere?"
-is a tired and unintelligent question.  It is like asking, "Why does
-not a man walk on his hands as [[Well|well]] as on his feet?"  It is silly.
-If a man walked systematically on his hands, they would not be hands,
-but feet.  And if [[Love|love]] or lust were things that we could all discuss
-without any possible emotion they would not be [[Love|love]] or lust, they would
-be something else--some mechanical function or abstract natural duty
-which may or may not exist in [[Animals|animals]] or in angels, but which has
-nothing at all to do with the [[Sexuality|sexuality]] we are talking about.
-All the ideas of grasp or gesture, which to us make up the meaning
-of the word "hand", depend upon the fact that hands are loose
-extremities used not for walking on but for waving about.
-And all that we mean when we speak of "sex" is involved in the fact
-that it is not an unconscious or [[Innocent|innocent]] thing, but a special
-and violent emotional stimulation at once spiritual and physical.
-A man who asks us to have no emotion in sex is asking us to have
-no emotion in emotion.  He has forgotten the subject-matter
-with which he deals.  He has lost the topic of the conversation.
-It may be said of him, in the strict meaning of the words,
-that he does not know what he is talking about.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-RIMPIANTI RABELAISIANI
-
-È sorta ai nostri [[Time|giorni]] una singolare convinzione: che vi sia qualcosa di umano, di aperto o di generoso nel rifiutarsi di definire il proprio credo. Ovviamente è vero l'esatto contrario, ed è questa la [[Truth|verità]]. Rifiutarsi di definire un credo non solo non è generoso, ma è addirittura meschino. Manca di franchezza e di fraternità verso il nemico. È combattere senza [[Flag|bandiera]] e senza dichiarazione di guerra. Nega al nemico le decorose concessioni della battaglia: il diritto di conoscere la strategia e di trattare col quartier generale. La moderna «larghezza di vedute» possiede una qualità che non si può definire se non subdola: si ingegna di vincere senza scoprirsi, e questo persino dopo aver vinto. Aspira a essere vittoriosa senza tradire nemmeno il nome del vincitore. Poiché tutti gli uomini sani di mente hanno dottrine intellettuali e teorie combattive; e se non le vogliono mettere in tavola, è solo perché desiderano godersi il vantaggio di una teoria combattiva che non si può combattere.
-
-Nelle cose della convinzione non esiste che un'altra cosa oltre al dogma, ed è il pregiudizio. Se c'è qualcosa nella vostra vita per cui volete tenere assemblee, agitarvi e scrivere lettere ai giornali, ma per cui non riuscite a trovare i termini chiari di un credo, allora quella cosa va propriamente definita un pregiudizio, per quanto nuova, nobile o progressista possa sembrare. Ma anzi io penso che, quando queste epoche saranno viste nella loro giusta prospettiva, gli uomini diranno che il segno distintivo della fine del secolo diciannovesimo e dell'inizio del ventesimo fu il proliferare di vasti e vittoriosi pregiudizi. Ne offro di passaggio qualche esempio, per farmi intendere. Così, per esempio, è un credo coraggioso e logico quello che dichiara, come Maometto e certi puritani moderni, che bere liquori fermentati sia realmente un male. Ma il mondo moderno non ha adottato questo credo limpido, e non lo adotterà mai. Ciò che ha fatto è stato diffondere ovunque un pregiudizio forte ma vago contro certe forme del bere, in particolare quelle proprie dei poveri. Non abbiamo reso peccaminoso il bere birra, ma abbiamo reso lievemente disdicevole l'entrare in un'[[house|osteria]]. In altre parole, abbiamo reso lievemente disdicevole, se bevi birra, l'essere povero o l'essere socievole. Ciò a cui si riduce è questo: che chiunque voglia beffarsi di me può strappare una risata dicendo che sono un bevitore di birra, ma non si comprometterà con l'affermazione che la cosa di cui si è fatto beffe sia un male. Egli può colpirmi, perché fa appello a un pregiudizio; ma io non posso colpirlo, perché non fa appello a un credo. Non mi metterà davanti nulla da colpire. Vuole, in un modo o nell'altro, evitare di chiamare il liquore un male e insieme chiamare me un colpevole per averlo toccato. Questo non è latitudinarismo; è ordinaria vigliaccheria umana.
-
-Vi sono moltissimi altri esempi che si potrebbero addurre. Per esempio, l'opinione alla moda non dichiara esplicitamente (come fanno, credo, certe religioni orientali) che le abluzioni e la pulizia del corpo siano cose primarie, superiori persino alla morale ordinaria; ma crea l'impressione diffusa e vaga di aver segnato un punto contro una persona o una nazione più dicendola sporca che dicendola avara, timida o impudica. Nessun credo nuovo viene predicato riguardo alla pulizia, ma alla cosa si annette una forte enfasi sentimentale e una parzialità, che la rende più importante di altre cose. Naturalmente la pulizia è resa oggi così importante solo perché si dà il caso che sia una cosa assai facile per i ricchi e assai difficile per i poveri. La mia sola preoccupazione, qui, è però quella di indicare il metodo con cui essa è stata resa importante: mai spiegandone o definendone l'importanza, come in un credo; sempre presupponendone l'importanza, come in un pregiudizio. Non ho spazio per addentrarmi in altri esempi, ma il lettore può facilmente porsi da sé i casi; e può servirsi di questo criterio generale: che per metà dei movimenti più tipici degli ultimi trent'anni nessuno sa dire come o quando siano realmente cominciati. In nessun crepuscolo barbarico, in nessuna foresta intricata, in nessuna confusione dei secoli bui forze immense fecero mai il loro ingresso nel mondo così silenziosamente e segretamente come oggi. Nessuno conosce o sa nominare il vero inizio dell'Imperialismo, o della popolarità della Famiglia Reale (cosa affatto recente eppure affatto irrintracciabile), o del dare per scontata, in tante menti, la [[philosophy|filosofia]] materialista, o dell'imposizione pratica dell'astinenza alcolica come disciplina al ministero pubblico dei nonconformisti. Queste cose emergono dalla [[Night|notte]] e sono informi persino quando danno forma a tutto il resto.
-
-Ma le discussioni sul tema della Censura e altri problemi teatrali hanno posto davanti al pubblico un esempio supremo di ciò che intendo. Ci è stato chiesto per la centesima [[Time|volta]] di trovare qualche soluzione a quel problema della combinazione, nell'arte, della [[Truth|verità]] con il pudore sessuale; e il risultato del rifletterci è stato che ci troviamo faccia a faccia con un profondo e importantissimo mutamento dell'opinione pubblica su questo tema; un mutamento che è in corso, forse, da vent'anni, forse dall'avvento dei puritani; ma un mutamento che è, in ogni caso, della massima importanza per la salubrità dell'etica, e un mutamento che è proceduto nel medesimo potente [[Silence|silenzio]] della crescita di un albero. È di questa differenza tra la nuova etica inglese e la vecchia etica inglese, in materia di delicatezza verbale, che desidero parlare qui. Il tema è difficile, è persino emotivo e doloroso; e penso che non farà male cominciare con alcuni dei principi umani generali del problema, anche se sono vecchi e ovvi come l'alfabeto.
-
-Non c'è in realtà molta differenza di opinione, tra gli uomini normali, sui primi principi della decenza nell'espressione. Tutti gli uomini sani, antichi e moderni, occidentali e orientali, ritengono che nel sesso vi sia una furia che non possiamo permetterci di infiammare; e che un certo mistero debba avvolgere l'istinto, se vuole rimanere delicato e sano. Vi sono, in verità, persone che sostengono che parlerebbero di questo argomento con la stessa freddezza e franchezza con cui parlerebbero di qualsiasi altro; vi sono persone che sostengono che camminerebbero nude per la strada. Ma queste persone non sono soltanto folli, sono, nel senso più enfatico del termine, stupide. Non pensano; si limitano a indicare (come fanno i bambini) e a dire «Perché?». Anche i bambini lo fanno solo quando sono stanchi; ma è esattamente questa qualità stanca ciò che ai nostri [[Time|giorni]] passa non solo per pensiero, ma per pensiero audace e sconvolgente. Chiedere: «Perché non possiamo discutere del sesso in modo freddo e razionale, dovunque?» è una domanda stanca e priva d'intelligenza. È come chiedere: «Perché un uomo non cammina sulle mani così [[Well|bene]] come sui piedi?». È sciocco. Se un uomo camminasse sistematicamente sulle mani, quelle non sarebbero più mani, ma piedi. E se l'[[Love|amore]] o la libidine fossero cose di cui tutti potessimo discutere senza alcuna possibile emozione, non sarebbero più [[Love|amore]] o libidine, sarebbero qualcos'altro: qualche funzione meccanica o astratto dovere naturale che può esistere o meno negli [[Animals|animali]] o negli angeli, ma che non ha assolutamente nulla a che vedere con la [[Sexuality|sessualità]] di cui stiamo parlando. Tutte le idee di presa o di gesto, che per noi costituiscono il significato della parola «mano», dipendono dal fatto che le mani sono estremità libere, usate non per camminarvi sopra ma per agitarle nell'aria. E tutto ciò che intendiamo quando parliamo di «sesso» è implicato nel fatto che non è una cosa inconscia o [[Innocent|innocente]], ma una speciale e violenta stimolazione emotiva a un tempo spirituale e fisica. Un uomo che ci chiede di non avere emozione nel sesso ci chiede di non avere emozione nell'emozione. Ha dimenticato la materia di cui tratta. Ha perduto l'argomento della conversazione. Si può dire di lui, nel senso stretto delle parole, che non sa di che cosa stia parlando.
-
-
-
-<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_02" data-title="Common Man — Rabelaisian Regrets (part 2)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
-
-
-And if men have never doubted that there should be a decorum
-in such things, neither have they ever doubted that that decorum
-might be carried much too far; that [[Courage|courage]] and laughter
-and wholesome [[Truth|truth]] might be sacrificed to the proprieties.
-So far, I say, humanity is essentially unanimous.  It is in the
-discussion as to which thing shall be suppressed and which permitted,
-in the selection of the more harmless from the more harmful
-types of candour, that we begin to find the difference between
-different civilisations and different religions among men.
-And it is exactly upon the point of such a difference as this
-that I wish to speak here.  Among other societies and ages
-our own society and age has made a choice in this matter.
-We have said, substantially by a general feeling, that one kind
-of expression shall be allowed and another rendered impossible.
-We have chosen, and I think we have chosen wrong.
-
-Before going deeper into this most difficult subject there is
-at least one general statement to be made.  The evil of excess
-in this matter really consists of three quite separate evils.
-Verbal impropriety or excess can [[spring]] from three quite
-different motives, three quite different states of mind,
-which have really very little to do with each other.
-It is necessary to unpick these three strands before we go any further.
-Ordinary popular discussion of the problem always hopelessly mixes
-them up.  Briefly, they may be stated thus:  impropriety arises
-either from a really vicious spirit, or from the [[Love|love]] of emphasis,
-or from the [[Love|love]] of analysis.
-
-The first can be dismissed with brevity and with relief.  There is such
-a thing as pornography; as a system of deliberate erotic stimulants.
-That is not a thing to be argued about with one's intellect,
-but to be stamped on with one's heel.  But the point about it
-to be noted for our purpose is that this form of excess is separated
-from the other two by the fact that the motive of it must be bad.
-If a man tries to excite a sex instinct which is too strong already,
-and that in its meanest form, he must be a scoundrel.
-He is either taking money to degrade his kind or else he is acting
-on that mystical itch of the evil man to make others evil,
-which is the strangest secret in hell.
-
-But when we come to the two motives of emphasis and of analysis,
-it is essential to observe that in both cases the motive
-may be beautiful, even when the result is most disastrous.
-The motive for impropriety arising out of emphasis can be best
-illustrated by a comparison with the habit of swearing.
-Swearing is, of course, the strongest possible argument for
-the religious view of life.  A man cannot satisfactorily affirm
-anything about this world except by getting out of this world.
-The things commonly called fables are so true that they [[Alone|alone]] can
-give final ratification even to the things commonly called facts.
-A man in Balham cannot even call his dog a good dog without
-summoning to his aid either the angels or the devils.
-The Balhamite, like the Roman, if he cannot bend the gods will
-move Acheron; but he never thinks of trying to move Balham.
-Religion is his only resort for purposes of real emphasis;
-and often, even when he is attacking religion, his instinctive
-way of attacking it is to say that it is a damned lie.
-The most natural way of talking is the [[Supernatural|supernatural]] way of talking.
-And indeed this may be considered a good working test for all
-modern fads and philosophies which pretend to be religions.
-The new faiths founded on evolution or an impersonal ethic are
-always claiming, that they also can produce holiness; and no Christian
-has any right in Christian [[Charity|charity]] to deny that possibility.
-But if the question really is whether the things in question are
-religions in the sense that [[Christianity]] or Mohammedanism are religions,
-then I should suggest a different test.  I should not ask whether
-they can produce holiness, but whether they can produce profanity.
-Can any one swear by ethics?  Can any one blaspheme evolution?
-Many men now hold that a mere adoration of abstract [[morality]] or goodness
-is the core and sole necessity of religion.  I know many of them;
-I know that their lives are noble, and their intellects just.
-But (I say it with respect and even hesitation) would not their
-oaths be a little mild?  I do not mean that they ought to swear,
-or that anybody ought to swear, I mean that if it comes to swearing
-one can see in such a competition the vast difference in actuality
-between the new sham religion which talks about the holiness within,
-and an old practical religion which worshipped a real holiness without.
-You can see the difference in the weakness of the oaths
-considered as literature.  The man of the Christian Churches said
-(occasionally), "Oh, my God!"  The man of the ethical societies says
-(presumably), "Oh, my goodness!"
-
-It is generally true, I say, that the whole circle of this physical
-universe does not contain anything strong enough for the purposes
-of a man who really means what he says; even about a small dog.
-Yet there is one exception to this generalisation.  There is one thing
-which belongs to this world, but which is yet so fierce and startling,
-so full of menace and ecstasy, that it seems at times to partake
-of the character of miracle.  This thing is the thing called sex;
-and on this also from [[Time|time]] to [[Time|time]] the man with the small dog in Balham
-will call in his dire need.  Men used to swear by their heads;
-they still in a manner swear by their bodies.  Sex is actual
-enough to swear by.  To take but one coarse democratic test,
-people scribble about it on walls as they do about religion.
-Nobody ever scribbled on a wall about ethics.  Above all,
-the language of sex can be used as a kind of violent invocation;
-a reinforcement of common words by the strongest words.
-I will not pause here to ask the reason of this; whether saying "damn"
-and saying other things unprintable have something to do
-with the fact that sex is the great business of the [[Body|body]],
-and salvation the great business of the [[Soul|soul]].  It is enough to say
-that any one can read the thing I mean and any one can hear it.
-He can read the thing best perhaps in Aristophanes or in Rabelais.
-He can hear the thing best in the street outside.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-E se gli uomini non hanno mai dubitato che debba esserci un decoro in tali cose, neppure hanno mai dubitato che quel decoro possa essere spinto troppo oltre; che il [[Courage|coraggio]], il riso e la sana [[Truth|verità]] possano essere sacrificati alle convenienze. Fin qui, dico, l'umanità è essenzialmente unanime. È nella discussione su quale cosa debba essere soppressa e quale permessa, nella scelta dei tipi più innocui rispetto ai tipi più dannosi di franchezza, che cominciamo a trovare la differenza tra le diverse civiltà e le diverse religioni degli uomini. Ed è esattamente sul punto di una differenza come questa che desidero parlare qui. Tra le altre società ed epoche, la nostra società e la nostra epoca hanno operato una scelta in questa materia. Abbiamo detto, per lo più attraverso un sentimento generale, che un certo tipo di espressione sarà consentito e un altro reso impossibile. Abbiamo scelto, e io penso che abbiamo scelto male.
-
-Prima di addentrarci più a fondo in questo tema difficilissimo, c'è almeno un'osservazione generale da fare. Il male dell'eccesso in questa materia consiste in realtà di tre mali del tutto distinti. L'improprietà o l'eccesso verbale può [[spring|scaturire]] da tre moventi assai diversi, tre stati d'animo assai diversi, che in realtà hanno pochissimo a che fare l'uno con l'altro. È necessario districare questi tre fili prima di procedere oltre. L'ordinaria discussione popolare del problema li confonde sempre irrimediabilmente. In breve, si possono enunciare così: l'improprietà nasce o da uno spirito realmente vizioso, o dall'[[Love|amore]] dell'enfasi, o dall'[[Love|amore]] dell'analisi.
-
-Il primo può essere liquidato con brevità e con sollievo. Esiste una cosa come la pornografia, come sistema di deliberati stimolanti erotici. Non è una cosa su cui discutere con l'intelletto, ma da schiacciare col tacco. Ma il punto da notare a nostro scopo è che questa forma di eccesso è separata dalle altre due dal fatto che il suo movente deve essere cattivo. Se un uomo cerca di eccitare un istinto sessuale che è già fin troppo forte, e per giunta nella sua forma più meschina, dev'essere un mascalzone. O prende denaro per degradare i suoi simili, oppure agisce secondo quel mistico prurito dell'uomo malvagio di rendere malvagi gli altri, che è il segreto più strano dell'inferno.
-
-Ma quando veniamo ai due moventi dell'enfasi e dell'analisi, è essenziale osservare che in entrambi i casi il movente può essere bello, anche quando il risultato è più disastroso. Il movente dell'improprietà che nasce dall'enfasi può essere illustrato al meglio con un paragone con l'abitudine di bestemmiare. La bestemmia è, naturalmente, il più forte argomento possibile a favore della concezione religiosa della vita. Un uomo non può affermare in modo soddisfacente alcunché di questo mondo se non uscendo da questo mondo. Le cose comunemente chiamate favole sono così vere che esse [[Alone|sole]] possono dare la ratifica ultima persino alle cose comunemente chiamate fatti. Un uomo di Balham non può nemmeno chiamare buono il suo cane senza convocare in suo aiuto o gli angeli o i diavoli. L'abitante di Balham, come il romano, se non può piegare gli dèi smuoverà l'Acheronte; ma non pensa mai di provare a smuovere Balham. La religione è la sua unica risorsa quando si tratta di vera enfasi; e spesso, persino quando attacca la religione, il suo modo istintivo di attaccarla è dire che è una maledetta menzogna. Il modo più naturale di parlare è il modo [[Supernatural|soprannaturale]] di parlare. E in verità questo può essere considerato un buon criterio pratico per tutte le mode e le filosofie moderne che pretendono di essere religioni. Le nuove fedi fondate sull'evoluzione o su un'etica impersonale pretendono sempre di poter produrre anch'esse santità; e nessun cristiano ha il diritto, in cristiana [[Charity|carità]], di negare tale possibilità. Ma se la questione è davvero se le cose in oggetto siano religioni nel senso in cui il [[Christianity|Cristianesimo]] o il maomettanesimo sono religioni, allora io suggerirei un criterio diverso. Non domanderei se possono produrre santità, ma se possono produrre bestemmia. Può qualcuno giurare per l'etica? Può qualcuno bestemmiare l'evoluzione? Molti uomini oggi ritengono che una semplice adorazione della [[morality|moralità]] o della bontà astratta sia il nucleo e l'unica necessità della religione. Ne conosco molti; so che le loro vite sono nobili e i loro intelletti retti. Ma (lo dico con rispetto e persino con esitazione) non sarebbero le loro imprecazioni un po' fiacche? Non intendo dire che dovrebbero bestemmiare, o che chiunque dovrebbe bestemmiare; intendo dire che, se si viene al bestemmiare, si può vedere in una simile gara la vasta differenza di sostanza tra la nuova religione fittizia che parla della santità interiore e una vecchia religione pratica che adorava una santità reale esteriore. Si può vedere la differenza nella debolezza delle imprecazioni considerate come letteratura. L'uomo delle Chiese cristiane diceva (all'occasione): «Oh, mio Dio!». L'uomo delle società etiche dice (presumibilmente): «Oh, cielo!».
-
-È generalmente vero, io dico, che l'intero cerchio di questo universo fisico non contiene nulla di abbastanza forte per gli scopi di un uomo che intende davvero ciò che dice, anche solo a proposito di un cagnolino. Eppure c'è un'eccezione a questa generalizzazione. C'è una cosa che appartiene a questo mondo, ma che è tuttavia così feroce e sorprendente, così colma di minaccia ed estasi, da sembrare a tratti partecipe del carattere del miracolo. Questa cosa è la cosa chiamata sesso; e anche a essa, di [[Time|tempo]] in [[Time|tempo]], l'uomo col cagnolino a Balham farà ricorso nel suo estremo bisogno. Gli uomini un tempo giuravano sulla loro testa; ancora oggi, in un certo modo, giurano sul loro corpo. Il sesso è abbastanza reale da giurarci sopra. Per prendere un solo rozzo criterio democratico, la gente lo scarabocchia sui muri come fa con la religione. Nessuno ha mai scarabocchiato su un muro a proposito dell'etica. Soprattutto, il linguaggio del sesso può essere usato come una sorta di violenta invocazione, un rafforzamento delle parole comuni per mezzo delle parole più forti. Non mi fermerò qui a chiederne la ragione; se il dire «dannazione» e il dire altre cose innominabili abbiano qualcosa a che fare col fatto che il sesso è il grande affare del [[Body|corpo]] e la salvezza il grande affare dell'[[Soul|anima]]. Basti dire che chiunque può leggere la cosa che intendo e chiunque può udirla. La può leggere al meglio, forse, in Aristofane o in Rabelais. La può udire al meglio nella strada là fuori.
-
-
-
-<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_03" data-title="Common Man — Rabelaisian Regrets (part 3)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
-
-
-But though he can find it in the street outside, he cannot
-find it in any of the books or newspapers sold in the street.
-There is no law against indecent ideas; but there is a quite
-efficient and practical law against indecent words.
-Slowly throughout the eighteenth century word after word was
-dropped until by the Victorian [[Time|time]] it was insisted that no
-coarse phrases should be used even in defending coarseness.
-I am myself under the limitations of this very local prejudice.
-I am compelled to prove my case in many pages because I
-have to talk as one talks in a respectable magazine.
-I could prove my case in ten minutes if I could talk as two
-respectable married men really talk on the top of an omnibus.
-It is sufficient, however, to put the matter thus:  When a navvy
-uses what is called obscene language it is almost always to express
-his righteous disgust at obscene conduct.  And here the navvy
-is at one with all the most really masculine poets or romancers;
-he is at one with Rabelais, with Swift, and even with Browning.
-Browning uses a foul metaphor to express the foulness of those who
-profess sympathy with human sorrows merely out of their own morbidity.
-You can find the phrase in "At the [[Mermaid]]."  Browning uses
-the same foul metaphor to express the foulness of those who cannot
-understand a man's prompt grasp of the presence of a good woman.
-You can find the phrase in the speech of Capponsacchi.
-In short, the emphatic use of sexual language has this great advantage
-that it is commonly used purely in the interests of virtue.
-The virtuous [[cabman]] may (and does) call a man a blank, in a state
-of furious and [[Innocent|innocent]] horror at the idea of any one being a blank.
-But this is not true in the case of the third impulse to indecorum.
-The third impulse is that which I have called the analytical;
-the mere curiosity of the mind about how the relations of the sexes
-are to be considered and classified.  This covers all that we now
-call the [[Problem Play]], and all that we associate with the realistic
-and psychological [[Novel|novel]], and all the millions of proposals for
-the rearrangement of [[Marriage|marriage]].  The dialogue in The Little Eyolf
-horrified many people; but it did not contain a single coarse word.
-Mr. George Moore, Mr. [[Richard]] Le Gallienne, and the lady called
-"Victoria [[Cross]]" have in turn been accused of being needlessly daring;
-but not one of them dare use words straight out of Bunyan or the [[Bible]].
-The analytic indecency is now more free than it ever was among free men.
-The emphatic indecency is more stifled than it ever was among free men;
-more stifled than it ever was among slaves.
-
-I am not concerned here to deny that the modern fashion of
-analysing sex is in general a good thing.  Certainly there is
-grossly too much hypocrisy about sex; not in the English people,
-but in the literature and journalism which the English people,
-for some incomprehensible reason, permit to speak for them.
-There is no hypocrisy on the top of an English omnibus; but I warmly
-agree that there is really too much hypocrisy in the front page
-of an English newspaper, or within the covers of an English book.
-Let us agree that Ibsen had a right to suggest that [[Marriage|marriage]] is an
-unpleasant fact as [[Well|well]] as a pleasant one; that as [[Well|well]] as the more
-chivalrous side of sex which is exaggerated by the Victorian poets,
-there is also the realistic and scientific side of sex, which was
-exaggerated by the old [[Monks|monks]].  Let me concede altogether and at once
-the fact that the modern tendency to dissect sex and to subdivide it,
-to put it into pigeon-holes, is a just and necessary measure.
-I will not even say here that the tendency has gone too far.
-But I will say this:  what will you do if it does go too far?
-Suppose you wake up some fine morning and find indecencies
-which are quite ludicrous being taken quite seriously.
-Suppose you find certain sins put in a pigeon-hole when they ought
-to be put in a [[Dust|dust]]-hole. Suppose that after twenty years of scientific
-study you find that you have all the dirty jokes back again, the only
-difference being that you must enjoy them without laughing at them.
-Suppose, in short, that you are confronted with the exasperating
-spectacle of people chewing sins, instead of spitting them
-out of their mouths like their fathers; what will you do then?
-How will you express your feelings if you are faced with that
-horrible fashion of taking sex seriously--of which the true name is
-Phallic Worship?  I know what you will do:  you will call upon the shades
-of Rabelais and Fielding to deliver you out of that foul idolatry;
-and perhaps the English people will answer you and speak.
-It is common enough to talk of the English people speaking;
-but if ever they do speak they will speak as Rabelais spoke,
-and as English cabmen speak now.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Ma per quanto possa trovarla nella strada là fuori, non può trovarla in nessuno dei libri o dei giornali venduti per strada. Non c'è legge contro le idee indecenti; ma c'è una legge assai efficace e pratica contro le parole indecenti. Lentamente, nel corso del secolo diciottesimo, parola dopo parola fu abbandonata, finché all'epoca [[Time|vittoriana]] si pretese che nessuna frase volgare fosse usata nemmeno per difendere la volgarità. Io stesso sono soggetto ai limiti di questo pregiudizio tutto locale. Sono costretto a dimostrare la mia tesi in molte pagine perché devo parlare come si parla in una rivista rispettabile. Potrei dimostrare la mia tesi in dieci minuti se potessi parlare come parlano davvero due rispettabili uomini sposati sull'imperiale di un omnibus. È sufficiente, tuttavia, porre la cosa così: quando uno sterratore usa quello che si chiama linguaggio osceno, è quasi sempre per esprimere il suo giusto disgusto per una condotta oscena. E qui lo sterratore fa tutt'uno con i più autenticamente virili tra i poeti o i romanzieri; fa tutt'uno con Rabelais, con Swift e persino con Browning. Browning usa una metafora immonda per esprimere l'immondizia di coloro che professano solidarietà per i dolori umani soltanto per la propria morbosità. La frase la trovate in «At the [[Mermaid]]». Browning usa la stessa metafora immonda per esprimere l'immondizia di coloro che non sanno comprendere la prontezza con cui un uomo coglie la presenza di una donna buona. La frase la trovate nel discorso di Capponsacchi. In breve, l'uso enfatico del linguaggio sessuale ha questo grande vantaggio: che comunemente è usato puramente nell'interesse della virtù. Il [[cabman|vetturino]] virtuoso può (e lo fa) chiamare un uomo con un termine puntinato, in uno stato di furioso e [[Innocent|innocente]] orrore all'idea che qualcuno possa essere un tale termine puntinato. Ma questo non è vero nel caso del terzo impulso all'indecenza. Il terzo impulso è quello che ho chiamato analitico: la mera curiosità della mente su come i rapporti tra i sessi debbano essere considerati e classificati. Questo abbraccia tutto ciò che oggi chiamiamo il [[Problem Play|dramma a tesi]], e tutto ciò che associamo al [[Novel|romanzo]] realistico e psicologico, e i milioni di proposte per il riordinamento del [[Marriage|matrimonio]]. Il dialogo in *The Little Eyolf* inorridì molte persone; ma non conteneva una sola parola volgare. Mr. George Moore, Mr. [[Richard]] Le Gallienne e la signora che si firma «Victoria [[Cross]]» sono stati accusati, a turno, di essere inutilmente audaci; ma nessuno di loro osa usare parole tratte di peso da Bunyan o dalla [[Bible|Bibbia]]. L'indecenza analitica è oggi più libera di quanto sia mai stata tra uomini liberi. L'indecenza enfatica è più soffocata di quanto sia mai stata tra uomini liberi; più soffocata di quanto sia mai stata tra gli schiavi.
-
-Non mi propongo qui di negare che la moda moderna di analizzare il sesso sia in generale una cosa buona. Certo c'è troppa, grossolana ipocrisia intorno al sesso; non nel popolo inglese, ma nella letteratura e nel giornalismo che il popolo inglese, per qualche incomprensibile ragione, permette di parlare in suo nome. Non c'è ipocrisia sull'imperiale di un omnibus inglese; ma convengo di buon grado che c'è davvero troppa ipocrisia nella prima pagina di un giornale inglese, o tra le copertine di un libro inglese. Conveniamo pure che Ibsen aveva il diritto di suggerire che il [[Marriage|matrimonio]] è un fatto spiacevole [[Well|così]] come piacevole; che, [[Well|così]] come il lato più cavalleresco del sesso, esagerato dai poeti vittoriani, c'è anche il lato realistico e scientifico del sesso, che fu esagerato dai vecchi [[Monks|monaci]]. Concedo del tutto e senz'altro il fatto che la tendenza moderna a sezionare il sesso e a suddividerlo, a sistemarlo in caselle, sia una misura giusta e necessaria. Non dirò nemmeno, qui, che la tendenza si è spinta troppo oltre. Ma dirò questo: che cosa farete se davvero si spingerà troppo oltre? Supponete di svegliarvi un bel mattino e di trovare che indecenze del tutto ridicole vengono prese del tutto sul serio. Supponete di trovare certi peccati messi in una casella quando dovrebbero essere messi in una [[Dust|pattumiera]]. Supponete che, dopo vent'anni di studio scientifico, scopriate di ritrovarvi tra le mani tutte le barzellette sconce di prima, con l'unica differenza che dovrete gustarvele senza riderne. Supponete, in breve, di trovarvi davanti l'esasperante spettacolo di gente che mastica i peccati, invece di sputarli fuori dalla bocca come facevano i loro padri; che cosa farete allora? Come esprimerete i vostri sentimenti se vi troverete di fronte a quell'orribile moda di prendere il sesso sul serio, il cui vero nome è Culto Fallico? So che cosa farete: invocherete le ombre di Rabelais e di Fielding perché vi liberino da quella immonda idolatria; e forse il popolo inglese vi risponderà e parlerà. È abbastanza comune parlare del popolo inglese che parla; ma se mai parlerà, parlerà come parlava Rabelais, e come parlano ora i vetturini inglesi.
-
-
-
 <span class="atom-split" data-atom="story_23_vulgarity--part_01" data-title="Common Man — Vulgarity (part 1)" data-chapter="Vulgarity" data-kind="excerpt"></span>
 
 
@@ -15335,6 +14105,310 @@ Il vantaggio di un'elementare abitudine filosofica è che permette a un uomo, pe
 Un uomo moderno è del tutto libero di scegliere l'una o l'altra [[philosophy|filosofia]]. Ma ciò che c'è di realmente sbagliato nell'uomo moderno è che egli non conosce nemmeno la propria [[philosophy|filosofia]]; ma soltanto la propria fraseologia. Non sa rispondere al prossimo messaggio spirituale prodotto da uno spiritista, o alla prossima guarigione attestata dai medici a Lourdes, se non ripetendo quelle che generalmente non sono altro che frasi; o, nel migliore dei casi, pregiudizi.
 
 Così, quando un uomo brillante come il signor H. G. Wells dice che tali idee [[Supernatural|soprannaturali]] sono divenute impossibili «per le persone intelligenti», egli (in quell'istante) non sta parlando come una persona intelligente. In altre parole, non sta parlando da filosofo; perché non sta nemmeno dicendo ciò che intende. Ciò che intende è, non «impossibili per gli uomini intelligenti», ma «impossibili per i monisti intelligenti», oppure «impossibili per i deterministi intelligenti». Ma non è una negazione dell'intelligenza avere una qualsiasi concezione coerente e logica di un mondo tanto misterioso. Non è una negazione dell'intelligenza pensare che ogni esperienza sia [[A Dream|un sogno]]. Non è privo di intelligenza pensare che sia un'illusione, come pensano alcuni buddisti; [[Alone|per non parlare]] del pensare che sia un prodotto di una volontà creatrice, come pensano i cristiani. Ci vien detto di continuo che gli uomini non devono più essere divisi tanto nettamente nelle loro diverse religioni. Come immediato passo di progresso, è assai più urgente che essi siano divisi più chiaramente e più nettamente nelle loro diverse filosofie.
+
+
+
+<span class="atom-split" data-atom="story_24_vandalism" data-title="Common Man — Vandalism" data-chapter="Vandalism" data-kind="story"></span>
+
+
+VANDALISM
+
+Vandalism is of two kinds, the negative and the positive;
+as in the Vandals of the ancient world, who destroyed buildings,
+and the Vandals of the modern world, who erect them.  A long
+procession of those typically modern thinkers, who are too tired
+to think, has already left behind a trail or tradition of language;
+by which it is vaguely suggested that whatever is constructive
+is good and only what is destructive is bad.  Anyone wishing
+to lose himself in mazes of such [[logic]], or rather illogicality,
+may put to himself some particular proposition; as that it is
+good to construct a stake, with faggots, for burning a man alive,
+and yet bad to destroy a growing plantation or cut down trees,
+which is the only possible way of doing it.  But in the particular
+case of Vandalism, it is very specially necessary to remember
+that the real argument is all the other way.  Of two bad things,
+it is better to be the barbarian who destroys something, which for
+some reason he dislikes or does not understand, and who may yet
+sincerely like other things that he does understand, rather than to be
+the vulgarian who erects something exactly expressive of what he likes;
+and in that act rears a colossal image of the smallness of his [[Soul|soul]].
+Destructive Vandalism, though a very great evil at the present [[Time|time]],
+and indeed through all [[history]], has not been in all [[history]] so bad
+as it is now; and certainly not so bad as many more constructive
+things that exist now.
+
+It is important to remember that there are two kinds of
+mere destructiveness; neither on the noblest level of human culture,
+but neither on the most ignoble.  First, of course, the Vandal
+may be the Iconoclast.  He may destroy certain artistic creations
+because they are really opposed to his moral convictions.
+Thus a Puritan fanatic from [[America]] might conceivably think himself
+commanded by the Lord to dynamite Westminster Abbey, because it
+is full of idols; that is of images with a religious character.
+Curiously enough, he would be half right.  It is full of idols;
+but they are not images of a religious character.  Anybody can
+see at a glance that medieval figures of saints and angels
+are not worshipped; for the perfectly simple reason that they
+are themselves represented in the act of worshipping.  But the
+eighteenth-century statues of statesmen and generals really are idols.
+They are manifestly set up, not to the glory of God, but to the glory
+of the men there represented; who are to be directly worshipped
+for their own sake; as the Pagans worshipped demigods and heroes.
+Lord Polkerton and Admiral Bangs are not themselves represented
+in the act of worshipping; but in the act of being worshipped.
+For the eighteenth century, which has been called the Age of Reason,
+was the real Age of Idolatry.  This, however, is a parenthesis.
+The point is that the American fanatic would be a much finer fellow
+than the American chain-store man who finds half [[London]] in the [[Chains|chains]]
+of his cheap and tawdry stores.  If the dynamite of the Iconoclast
+caved in the whole front of Westminster Abbey, I should be far
+less horrified than I am at a project of a Yankee shopkeeper for
+building a tower with [[Bells|bells]], taller than Westminster [[Cathedral]].
+It is curious to reflect on the few stray nerves of criticism and
+sensibility that still remain.  I fancy that if an American erected
+immediately opposite Windsor [[Castle]], on the other side of the [[River|river]],
+another [[Castle|castle]] of exactly the same castellated form and plan,
+only a little bigger (being made of cheap and rotten material)
+and then flew the [[Flag|flag]] of his own ancient family in direct defiance
+of the personal [[Flag|flag]] of the [[King]], there would be a good many people
+in society who would tell the American, however rich he was,
+that this was going a bit too far.  Which shows how much safer it
+is to insult religion than to insult royalty.
+
+Secondly, in the great moral [[philosophy]] of being fair to Vandals,
+we must remember that there is a certain element in life which
+has even a right to its place in life, though that place may
+not always be easy to find, without displacing better things.
+We talk of positive and negative, of creation and destruction;
+but in a sense the association is incorrect.  Destruction is
+not negation; at least it is not always and of necessity negation.
+There is a positive pleasure in destruction, which can be harmless
+and is certainly real.  It is [[Innocent|innocent]], for it is felt strongly
+by children when they first tear up paper or break sticks.
+But I trust that few of us have so entirely lost our [[innocence]],
+as to be unable to drink deep joy from smashing up the happy [[Home|home]].
+Breathes there a man with [[Soul|soul]] so dead that he has never,
+when standing in a respectable parlour, felt a wild [[Desire|desire]]
+to seize a pot and plant and send it crashing through the bow
+windows into the front-[[Garden|garden]] or the street?  These things are
+not entirely to be sterilised; these things also are from God.
+It is all explained in a ballade which my friends and I composed
+years ago, after I had shattered a great tumbler all over the carpet.
+It has the refrain:  "I like the noise of breaking glass."
+And though I should not like the glass of Chartres [[Cathedral]] to be
+broken merely to gratify this taste, I can imagine two types of human
+beings who might break it and remain human.  A lunatic might do it
+because he thought it unChristian to make pictures of the life of [[Christ]];
+and a boy might do it because he liked the noise of breaking glass.
+So much for the defence of the more dignified Vandal--the Destroyer.
+
+But the new sort of Vandal is much more indefensible.
+The crude creative Vandal is much more of a pestilence and a peril.
+There is more to be said for the conqueror, who makes a [[Solitude|solitude]]
+and calls it peace, than for the other who makes a pandemonium
+and calls it progress.  For he brands upon the eye in [[Memory|memory]]
+the positive and vivid picture of his own meanness and stupidity.
+The barbarians who laid waste the world may have prevailed in so far
+that some good things were forgotten, but they did not insist
+that their own base and barbarous things should be remembered.
+But that is exactly what the "constructive" vulgarian does.
+That is exactly what the Modern Vandal does.  It is a gloomy pleasure
+to think that if a dissolving civilisation brings in forces more
+like those of the Ancient Vandals, if vagabond tribes from Asia or
+Eastern Europe drift in with the old-world, animal, almost automatic
+destructiveness of the Huns or the Bashi-Bazouks, they at least
+will wreck and ruin all the new Civilisation without any pretence
+of reconstructing it; and that towering and glaring flats, or long
+leagues of flashy glass shop-windows, will lie in rubbish-heaps
+side by side with better things.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+VANDALISMO
+
+Il vandalismo è di due specie, quello negativo e quello positivo; come nei Vandali del mondo antico, che distruggevano gli edifici, e nei Vandali del mondo moderno, che li erigono. Una lunga processione di quei pensatori tipicamente moderni, troppo stanchi per pensare, ha già lasciato dietro di sé una scia, o tradizione, di linguaggio; per cui si insinua vagamente che tutto ciò che è costruttivo sia buono e che solo ciò che è distruttivo sia cattivo. Chiunque desideri perdersi nei labirinti di una simile [[logic|logica]], o piuttosto illogicità, potrà proporsi qualche particolare proposizione; per esempio che sia bene costruire un palo, con le fascine, per bruciare vivo un uomo, e tuttavia male abbattere una piantagione in crescita o tagliare gli alberi, che è l'unico modo possibile di farlo. Ma nel caso particolare del Vandalismo è quanto mai necessario ricordare che il vero argomento è tutto dalla parte opposta. Fra due cose cattive, è meglio essere il barbaro che distrugge qualcosa che, per qualche ragione, gli è sgradito o non comprende, e che pure può amare sinceramente altre cose che comprende, piuttosto che il volgare che erige qualcosa di perfettamente espressivo di ciò che gli piace; e in quell'atto innalza un'immagine colossale della piccolezza della propria [[Soul|anima]]. Il Vandalismo distruttivo, pur essendo un grandissimo male nel [[Time|tempo]] presente, e in verità in tutta la [[history|storia]], non è mai stato in tutta la [[history|storia]] così cattivo come lo è ora; e certamente non così cattivo come molte cose ben più costruttive che oggi esistono.
+
+È importante ricordare che vi sono due specie di semplice distruttività; nessuna delle due sul livello più nobile della cultura umana, ma nessuna delle due nemmeno sul più ignobile. Anzitutto, naturalmente, il Vandalo può essere l'Iconoclasta. Egli può distruggere certe creazioni artistiche perché esse si oppongono realmente alle sue convinzioni morali. Così un fanatico puritano d'[[America]] potrebbe magari credersi comandato dal Signore a far saltare in aria l'Abbazia di Westminster, perché è piena di idoli; cioè di immagini di carattere religioso. Cosa abbastanza curiosa, avrebbe ragione a metà. È piena di idoli; ma questi non sono immagini di carattere religioso. Chiunque può vedere a colpo d'occhio che le figure medievali di santi e di angeli non sono adorate; per la ragione perfettamente semplice che esse stesse sono rappresentate nell'atto di adorare. Ma le statue settecentesche di uomini di stato e di generali sono davvero idoli. Sono manifestamente erette non alla gloria di Dio, ma alla gloria degli uomini ivi rappresentati; i quali vanno adorati direttamente per se stessi, come i Pagani adoravano i semidei e gli eroi. Lord Polkerton e l'Ammiraglio Bangs non sono rappresentati nell'atto di adorare, bensì nell'atto di essere adorati. Poiché il diciottesimo secolo, che è stato chiamato l'Età della Ragione, fu la vera Età dell'Idolatria. Questa, tuttavia, è una parentesi. Il punto è che il fanatico americano sarebbe un individuo assai più nobile del padrone americano di grandi magazzini a catena, che avvince mezza [[London|Londra]] alle [[Chains|catene]] dei suoi negozi vili e pacchiani. Se la dinamite dell'Iconoclasta sfondasse tutta la facciata dell'Abbazia di Westminster, ne sarei assai meno inorridito di quanto lo sia dinanzi al progetto di un bottegaio yankee di costruire una torre con [[Bells|campane]], più alta della [[Cathedral|Cattedrale]] di Westminster. È curioso riflettere sui pochi nervi sparsi di critica e di sensibilità che ancora sopravvivono. Immagino che se un americano erigesse, proprio di fronte al [[Castle|Castello]] di Windsor, sull'altra sponda del [[River|fiume]], un altro [[Castle|castello]] di forma e pianta esattamente merlate allo stesso modo, solo un poco più grande (essendo fatto di materiale vile e marcio), e poi vi issasse la [[Flag|bandiera]] della propria antica famiglia in diretta sfida alla [[Flag|bandiera]] personale del [[King|Re]], si troverebbero parecchie persone in società a dire all'americano, per quanto ricco fosse, che questo era spingersi un po' troppo oltre. Il che mostra quanto sia più sicuro insultare la religione che insultare la regalità.
+
+In secondo luogo, nella grande [[philosophy|filosofia]] morale dell'essere giusti verso i Vandali, dobbiamo ricordare che vi è nella vita un certo elemento che ha persino un diritto al proprio posto nella vita, benché quel posto non sia sempre facile da trovare senza spodestare cose migliori. Parliamo di positivo e negativo, di creazione e distruzione; ma in un certo senso l'associazione è scorretta. La distruzione non è negazione; o almeno non è sempre e necessariamente negazione. Vi è un piacere positivo nella distruzione, che può essere innocuo ed è certamente reale. Esso è [[Innocent|innocente]], poiché è sentito fortemente dai bambini quando per la prima volta strappano la carta o spezzano i bastoncini. Ma confido che pochi di noi abbiano così interamente perduto la propria [[innocence|innocenza]] da essere incapaci di attingere gioia profonda dal mandare in frantumi la felice [[Home|casa]]. Respira forse un uomo dall'[[Soul|anima]] tanto morta da non aver mai, standosene in un rispettabile salotto, provato un selvaggio [[Desire|desiderio]] di afferrare un vaso con la sua pianta e scagliarlo con fracasso attraverso le vetrate a bovindo nel [[Garden|giardino]] antistante o sulla strada? Queste cose non vanno interamente sterilizzate; anche queste cose vengono da Dio. È tutto spiegato in una ballata che i miei amici ed io componemmo anni fa, dopo che ebbi mandato in frantumi un grande bicchierone su tutto il tappeto. Ha per ritornello: «Mi piace il rumore del vetro che si rompe.» E per quanto non mi piacerebbe che le vetrate della [[Cathedral|Cattedrale]] di Chartres fossero infrante solo per soddisfare questo gusto, posso immaginare due tipi di esseri umani che potrebbero infrangerle rimanendo umani. Un pazzo potrebbe farlo perché ritiene anticristiano fare immagini della vita di [[Christ|Cristo]]; e un ragazzo potrebbe farlo perché gli piace il rumore del vetro che si rompe. Tanto basti in difesa del più dignitoso Vandalo: il Distruttore.
+
+Ma la nuova specie di Vandalo è assai più indifendibile. Il rozzo Vandalo creativo è assai più una pestilenza e un pericolo. Vi è più da dire a favore del conquistatore, che fa una [[Solitude|solitudine]] e la chiama pace, che a favore dell'altro, che fa un pandemonio e lo chiama progresso. Poiché egli marchia sull'occhio, nella [[Memory|memoria]], l'immagine positiva e vivida della propria meschinità e stupidità. I barbari che devastarono il mondo poterono forse prevalere al punto che alcune cose buone furono dimenticate, ma non pretesero che le loro proprie cose vili e barbare fossero ricordate. Ma è esattamente ciò che fa il volgare «costruttivo». È esattamente ciò che fa il Vandalo Moderno. È un cupo piacere pensare che se una civiltà in dissoluzione porterà con sé forze più simili a quelle degli antichi Vandali, se tribù vagabonde dall'Asia o dall'Europa orientale piomberanno con l'antica, animalesca, quasi automatica distruttività degli Unni o dei Bashi-Bazouk, esse almeno faranno scempio e rovina di tutta la nuova Civiltà senza alcuna pretesa di ricostruirla; e che i palazzi torreggianti e sgargianti, o le lunghe leghe di vistose vetrine di negozi, giaceranno in cumuli di macerie fianco a fianco con cose migliori.
+
+
+
+<span class="atom-split" data-atom="story_25_elizabeth_barrett_browning" data-title="Common Man — Elizabeth Barrett Browning" data-chapter="Elizabeth Barrett Browning" data-kind="story"></span>
+
+
+ELIZABETH BARRETT BROWNING
+
+Mrs. Browning was a great poet, and not, as is idly and vulgarly supposed,
+only a great poetess.  The word poetess is bad English, and it conveys
+a particularly bad compliment.  Nothing is more remarkable about
+Mrs. Browning's work than the absence of that trite and namby-pamby
+elegance which the last two centuries demanded from lady writers.
+Wherever her verse is bad, it is bad from some extravagance of imagery,
+some violence of comparison, some kind of debauch of cleverness.
+Her nonsense never arises from weakness, but from a confusion of powers.
+If the phrase explain itself, she is far more a great poet than she
+is a good one.
+
+Mrs. Browning often appears more luscious and sentimental than
+many other literary women, but this was because she was stronger.
+It requires a certain amount of internal force to break down.
+A complete [[Self|self]]-humiliation requires enormous strength,
+more strength than most of us possess.  When she was writing
+the poetry of [[Self|self]]-abandonment she really abandoned herself with
+the valour and decision of an anchorite abandoning the world.
+Such a couplet as--
+
+Our Euripides, the human,
+With his dropping of warm [[Tears|tears]].
+
+gives to most of us a sickly and nauseous sensation.
+Nothing can be [[Well|well]] conceived more ridiculous than Euripides going
+about dropping [[Tears|tears]] with a loud splash, and Mrs. Browning coming
+after him with a thermometer.  But the one emphatic point about this
+idiotic couplet is that Mrs. Hemans would never have written it.
+She would have written something perfectly dignified,
+perfectly harmless, perfectly inconsiderable.  Mrs. Browning was
+in a great and serious difficulty.  She really meant something.
+She aimed at a vivid and curious image, and she missed it.
+She had that catastrophic and public failure which is as much
+as a medal or a testimonial, the badge of the brave.
+
+In spite of the tiresome half-[[Truth|truth]] that art is unmoral,
+the arts require a certain considerable number of moral qualities,
+and more especially all the arts require [[Courage|courage]].  The art
+of drawing, for example, requires even a kind of physical [[Courage|courage]].
+Any one who has tried to draw a straight line and failed knows that
+he fails chiefly in nerve, as he might fail to jump off a cliff.
+And similarly all great literary art involves the element
+of risk, and the greatest literary artists have commonly been
+those who have run the greatest risk of talking nonsense.
+Almost all great poets rant, from Shakespeare downwards.
+Mrs. Browning was Elizabethan in her luxuriance and her audacity,
+and the gigantic scale of her wit.  We often feel with her as we
+feel with Shakespeare, that she would have done better with half
+as much talent.  The great curse of the Elizabethans is upon her,
+that she cannot leave anything [[Alone|alone]], she cannot write a single
+line without a conceit:
+
+And the eyes of the peacock fans
+Winked at the alien glory,
+
+she said of the Papal fans in the presence of the Italian tricolour.
+
+And a royal [[Blood|blood]] sends glances up her princely eye to trouble.
+And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,
+
+is her description of a beautiful and aristocratic lady.
+The notion of peacock feathers winking like so many [[London]] urchins is
+perhaps one of her rather aggressive and outrageous figures of speech.
+The image of a woman's hair as the softened [[Shadow|shadow]] of a [[Crown|crown]]
+is a singularly vivid and perfect one.  But both have the same
+quality of intellectual fancy and intellectual concentration.
+They are both instances of a sort of ethereal [[Epigram|epigram]].
+This is the great and dominant characteristic of Mrs. Browning,
+that she was significant alike in failure and [[success]].
+Just as every [[Marriage|marriage]] in the world, good or bad, is a [[Marriage|marriage]],
+dramatic, irrevocable, and big with coming events, so every one
+of her wild weddings between alien ideas is an accomplished fact
+which produces a certain effect on the [[Imagination|imagination]], which has for
+good or evil become part and parcel of our mental vision for ever.
+She gives the reader the impression that she never declined a fancy,
+just as some gentlemen of the eighteenth century never declined a duel.
+When she fell it was always because she missed the foothold,
+never because she funked the leap.
+
+"Casa Guidi Windows" is, in one aspect, a poem very typical
+of its author.  Mrs. Browning may fairly be called the peculiar
+poet of Liberalism, of that great movement of the first half
+of the nineteenth century towards the emancipation of men from
+ancient institutions which had gradually changed their [[Nature|nature]],
+from the houses of refuge which had turned into dungeons,
+and the mystic jewels which remained only as letters.
+It was not what we ordinarily understand by revolt.  It had no hatred
+in its heart for ancient and essentially human institutions.
+It had that deeply conservative belief in the most ancient
+of institutions, the average man, which goes by the name of [[democracy]].
+Their ideal, like the ideal of all sensible people, was a chaotic
+and confused notion of goodness made up of English primroses
+and Greek statues, [[Birds|birds]] singing in April, and regiments being cut
+to pieces for a [[Flag|flag]].  They were neither Radicals nor Socialists,
+but Liberals, and a liberal is a noble and indispensable lunatic
+who tries to make a cosmos of his own head.
+
+Mrs. Browning and her husband were more liberal than most Liberals.
+Theirs was the hospitality of the intellect and the hospitality
+of the heart, which is the best definition of the term.
+They never fell into the habit of the idle revolutionists
+of supposing that the past was bad because the future was good,
+which amounted to asserting that because humanity had never made
+anything but mistakes it was now quite certain to be right.
+Browning possessed in a greater degree than any other man the power
+of realising that all conventions were only victorious revolutions.
+He could follow the medieval logicians in all their sowing of the [[Wind|wind]]
+and reaping of the whirlwind with all that generous ardour which is due
+to abstract ideas.  He could study the ancients with the young eyes
+of the [[Renaissance]] and read a Greek grammar like a book of [[Love|love]] lyrics.
+This immense and almost confounding Liberalism of Browning doubtless
+had some effect upon his wife.  In her vision of New [[Italy]] she went back
+to the image of Ancient [[Italy]] like an honest and true revolutionist;
+for all true revolutions are reversions to the natural and the normal.
+A revolutionist who breaks with the past is a notion fit for an idiot.
+For how could a man even wish for something which he had never heard of?
+Mrs. Browning's inexhaustible sympathy with all the ancient and essential
+passions of humanity was nowhere more in evidence than in her conception
+of patriotism.  For some dark reason, which it is difficult indeed
+to fathom, belief in patriotism in our day is held to mean principally
+a belief in every other nation abandoning its patriotic feelings.
+In the case of no other passion does this weird contradiction exist.
+Men whose lives are mainly based upon [[Friendship|friendship]] sympathise
+with the friendships of others.  The interest of engaged couples
+in each other is a proverb, and like many other proverbs sometimes
+a nuisance.  In patriotism [[Alone|alone]] it is considered correct just
+now to assume that the sentiment does not exist in other people.
+It was not so with the great Liberals of Mrs. Browning's [[Time|time]].
+The Brownings had, so to speak, a disembodied talent for patriotism.
+They loved England and they loved [[Italy]]; yet they were the very
+reverse of cosmopolitans.  They loved the two countries as countries,
+not as arbitrary divisions of the globe.  They had hold of the root
+and essence of patriotism.  They knew how certain [[Flowers|flowers]] and [[Birds|birds]]
+and rivers pass into the mills of the brain and come out as wars
+and discoveries, and how some triumphant adventure or some staggering
+crime wrought in a remote continent may bear about it the colour
+of an Italian [[City|city]] or the [[Soul|soul]] of a silent village of Surrey.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+ELIZABETH BARRETT BROWNING
+
+La signora Browning fu una grande poeta, e non, come oziosamente e volgarmente si crede, soltanto una grande poetessa. La parola «poetessa» è cattivo inglese, e reca con sé un complimento particolarmente cattivo. Nulla vi è di più notevole nell'opera della signora Browning quanto l'assenza di quella trita e sdolcinata eleganza che gli ultimi due secoli esigevano dalle scrittrici. Ovunque il suo verso sia cattivo, lo è per qualche stravaganza d'immagine, qualche violenza di paragone, qualche sorta di sbornia di ingegno. Le sue insensatezze non nascono mai da debolezza, ma da una confusione di facoltà. Se la frase si spiega da sé, ella è assai più una grande poeta che non una buona poeta.
+
+La signora Browning appare spesso più lussureggiante e sentimentale di molte altre donne di lettere, ma ciò accadeva perché era più forte. Occorre una certa dose di forza interiore per crollare. Una completa [[Self|autoumiliazione]] richiede una forza enorme, più forza di quanta la maggior parte di noi ne possieda. Quando scriveva la poesia dell'[[Self|abbandono di sé]], ella davvero si abbandonava con il valore e la decisione di un anacoreta che rinuncia al mondo. Un distico come questo—
+
+Il nostro Euripide, l'umano,
+Con il suo stillare di calde [[Tears|lacrime]].
+
+suscita nella maggior parte di noi una sensazione stucchevole e nauseante. Nulla si può [[Well|bene]] concepire di più ridicolo di Euripide che se ne va in giro lasciando cadere [[Tears|lacrime]] con un rumoroso tonfo, e la signora Browning che gli tien dietro con un termometro. Ma il punto emblematico di questo distico idiota è che la signora Hemans non l'avrebbe mai scritto. Ella avrebbe scritto qualcosa di perfettamente dignitoso, perfettamente innocuo, perfettamente trascurabile. La signora Browning si trovava in una difficoltà grande e seria. Voleva davvero dire qualcosa. Mirava a un'immagine viva e curiosa, e la mancò. Ebbe quella catastrofica e pubblica sconfitta che vale quanto una medaglia o un attestato, il distintivo dei coraggiosi.
+
+Malgrado la noiosa mezza [[Truth|verità]] che l'arte sia amorale, le arti richiedono un certo considerevole numero di qualità morali, e più d'ogni altra cosa tutte le arti richiedono [[Courage|coraggio]]. L'arte del disegno, per esempio, richiede persino una specie di [[Courage|coraggio]] fisico. Chiunque abbia tentato di tracciare una linea retta e vi abbia fallito sa che fallisce soprattutto nel nervo, come potrebbe fallire nel gettarsi da una rupe. E similmente ogni grande arte letteraria implica l'elemento del rischio, e i più grandi artisti della parola sono stati comunemente coloro che hanno corso il maggior rischio di dire sciocchezze. Quasi tutti i grandi poeti sragionano, da Shakespeare in giù. La signora Browning era elisabettiana nella sua lussureggiante esuberanza e nella sua audacia, e nella scala gigantesca del suo ingegno. Con lei proviamo spesso ciò che proviamo con Shakespeare, che avrebbe fatto meglio con la metà del talento. La grande maledizione degli elisabettiani grava su di lei: che non sa lasciare nulla [[Alone|in pace]], non sa scrivere un solo verso senza un concettismo:
+
+E gli occhi dei ventagli di pavone
+Ammiccavano all'estranea gloria,
+
+diceva ella dei ventagli papali al cospetto del tricolore italiano.
+
+E un [[Blood|sangue]] regale manda lampi su per il suo occhio principesco a turbare.
+E l'[[Shadow|ombra]] di una [[Crown|corona]] di monarca s'addolcisce nei suoi capelli,
+
+è la sua descrizione di una dama bella e aristocratica. L'idea delle piume di pavone che ammiccano come tanti monelli di [[London|Londra]] è forse una delle sue figure retoriche piuttosto aggressive e oltraggiose. L'immagine dei capelli di una donna come l'[[Shadow|ombra]] addolcita di una [[Crown|corona]] è singolarmente viva e perfetta. Ma entrambe hanno la medesima qualità di fantasia intellettuale e di concentrazione intellettuale. Sono entrambe esempi di una sorta di [[Epigram|epigramma]] etereo. Questa è la grande e dominante caratteristica della signora Browning: che ella era significativa tanto nella sconfitta quanto nel [[success|successo]]. Come ogni [[Marriage|matrimonio]] al mondo, buono o cattivo, è un [[Marriage|matrimonio]], drammatico, irrevocabile e gravido di eventi futuri, così ciascuna delle sue selvagge nozze fra idee estranee è un fatto compiuto che produce un certo effetto sull'[[Imagination|immaginazione]], che nel bene o nel male è divenuto parte integrante della nostra visione mentale per sempre. Ella dà al lettore l'impressione di non aver mai declinato una fantasia, così come certi gentiluomini del Settecento non declinavano mai un duello. Quando cadeva era sempre perché aveva mancato l'appiglio, mai perché avesse temuto il salto.
+
+«Casa Guidi Windows» è, sotto un certo aspetto, un poema assai tipico della sua autrice. La signora Browning può a buon diritto essere chiamata la poeta peculiare del liberalismo, di quel grande movimento della prima metà del secolo diciannovesimo verso l'emancipazione degli uomini da antiche istituzioni che avevano a poco a poco mutato la propria [[Nature|natura]], dalle case di rifugio trasformatesi in prigioni, e dai gioielli mistici rimasti soltanto come pegni. Non era ciò che ordinariamente intendiamo per rivolta. Non aveva odio in cuore per le antiche e essenzialmente umane istituzioni. Aveva quella credenza profondamente conservatrice nella più antica delle istituzioni, l'uomo comune, che va sotto il nome di [[democracy|democrazia]]. Il loro ideale, come l'ideale di tutte le persone assennate, era una nozione caotica e confusa di bontà fatta di primule inglesi e statue greche, di [[Birds|uccelli]] che cantano in aprile e di reggimenti fatti a pezzi per una [[Flag|bandiera]]. Non erano né radicali né socialisti, ma liberali, e un liberale è un nobile e indispensabile folle che tenta di fare un cosmo della propria testa.
+
+La signora Browning e suo marito erano più liberali della maggior parte dei liberali. La loro era l'ospitalità dell'intelletto e l'ospitalità del cuore, che è la migliore definizione del termine. Non caddero mai nell'abitudine degli oziosi rivoluzionari di supporre che il passato fosse cattivo perché il futuro era buono, il che equivaleva ad affermare che poiché l'umanità non aveva mai fatto altro che errori, adesso era del tutto certo che avesse ragione. Browning possedeva in grado maggiore di ogni altro uomo il potere di comprendere che tutte le convenzioni non erano altro che rivoluzioni vittoriose. Poteva seguire i logici medievali in tutto il loro seminare [[Wind|vento]] e mietere tempeste con tutto quel generoso ardore che si deve alle idee astratte. Poteva studiare gli antichi con gli occhi giovani del [[Renaissance|Rinascimento]] e leggere una grammatica greca come un libro di liriche d'[[Love|amore]]. Questo immenso e quasi sconcertante liberalismo di Browning ebbe indubbiamente qualche effetto sulla moglie. Nella sua visione della Nuova [[Italy|Italia]] ella risaliva all'immagine dell'Antica [[Italy|Italia]] come un'onesta e sincera rivoluzionaria; poiché tutte le vere rivoluzioni sono ritorni al naturale e al normale. Un rivoluzionario che rompe col passato è una nozione degna di un idiota. Come potrebbe infatti un uomo desiderare persino qualcosa di cui non ha mai udito parlare? La inesauribile simpatia della signora Browning per tutte le antiche ed essenziali passioni dell'umanità in nessun luogo si manifestava più che nella sua concezione del patriottismo. Per qualche oscura ragione, che è davvero difficile sondare, credere nel patriottismo ai giorni nostri è ritenuto significare principalmente credere che ogni altra nazione debba abbandonare i propri sentimenti patriottici. Per nessun'altra passione esiste questa bizzarra contraddizione. Gli uomini la cui vita si fonda principalmente sull'[[Friendship|amicizia]] simpatizzano con le amicizie altrui. L'interesse reciproco delle coppie di fidanzati è un proverbio, e come molti altri proverbi talvolta una seccatura. Nel patriottismo [[Alone|soltanto]] si ritiene corretto, proprio ora, presumere che il sentimento non esista negli altri. Non era così con i grandi liberali del [[Time|tempo]] della signora Browning. I Browning avevano, per così dire, un talento incorporeo per il patriottismo. Amavano l'Inghilterra e amavano l'[[Italy|Italia]]; eppure erano l'esatto opposto dei cosmopoliti. Amavano i due paesi in quanto paesi, non come divisioni arbitrarie del globo. Avevano afferrato la radice e l'essenza del patriottismo. Sapevano come certi [[Flowers|fiori]] e [[Birds|uccelli]] e fiumi passino nei mulini del cervello e ne escano come guerre e scoperte, e come qualche trionfante avventura o qualche sconvolgente delitto compiuto in un remoto continente possa recare con sé il colore di una [[City|città]] italiana o l'[[Soul|anima]] di un silenzioso villaggio del Surrey.
 
 
 
@@ -17069,6 +16143,932 @@ Vorrei che esistesse una vera [[philosophy|filosofia]] delle religioni comparate
 Almeno nella mente dell'uomo, se non nella [[Nature|natura]] delle cose, sembra esservi una qualche connessione fra concentrazione e realtà. Quando vogliamo domandare, nel linguaggio naturale, se una cosa esista davvero o no, chiediamo se essa sia davvero «lì» o no. Diciamo «lì», anche se non comprendiamo chiaramente dove. Un uomo non può entrare in una [[house|casa]] per cinque porte contemporaneamente; potrebbe farlo se fosse un'atmosfera; ma egli non desidera essere un'atmosfera. Nutre la caparbia, subconscia convinzione che un animale sia qualcosa di più grande di un'atmosfera. Nella misura in cui una cosa sale nella scala degli esseri, essa tende a localizzare e persino a restringere le sue naturali funzioni. Un uomo non può assorbire il proprio nutrimento attraverso tutti i pori come una spugna o qualche basso organismo marino; non può assumere un'atmosfera di manzo o un'essenza astratta di focacce. Qualsiasi focaccia gli venga lanciata, come all'orso dello zoo, deve essere scagliata con tanta abilità da colpire un particolare foro nella sua testa. Nella [[Nature|natura]], in un certo senso, vi è scelta ancor prima che vi sia volontà; la pianta o il bulbo si restringe e trapassa in un punto piuttosto che in un altro; e ogni crescita è un disegno di simili verdi cunei. Ma comunque stiano le cose per queste realtà inferiori, vi è sempre stata questa selezione e concentrazione simile a una lancia nella concezione umana delle cose superiori. E, a paragone di ciò, vi è qualcosa non solo di vago ma di volgare nella maggior parte dei discorsi sull'infinito. Il panteista ha ragione fino a un certo punto, ma ce l'ha anche la spugna.
 
 Tanto vitalmente quanto verbalmente, questo infinito è il nemico di tutto ciò che è fine. Simili osservazioni filologiche sono talvolta qualcosa di più di meri pedantismi o di meri giochi di parole. Ed è qualcosa di più di un gioco di parole pedantesco affermare che la maggior parte delle cose che sono fini sono finite. Ne rendiamo testimonianza quando parliamo di una cosa bella che ha raffinatezza o che ha finitura. Essa è condotta a un termine come la lama di una bella [[Sword|spada]]; non solo al suo termine nel senso della sua cessazione, ma al suo termine nel senso del suo fine. Tutte le cose fini sono in questo senso finite, anche quando sono eterne. La poesia è votata a questa concentrazione tanto quanto la religione; poiché il paese delle fate è sempre stato altrettanto locale, si potrebbe dire altrettanto parrocchiale, quanto il Cielo. E se la religione, nel senso riconosciuto, fosse rimossa domani, i poeti non farebbero che cominciare ad agire come agirono i pagani. Comincerebbero a dire: «Ecco, qui», e «Ecco, là», per l'inguaribile prurito dell'idea che il qualcosa debba trovarsi in qualche luogo, e non semplicemente in un luogo qualsiasi. Anche se in un certo senso si scoprisse che esso è in ogni cosa, sarebbe pur sempre in ogni cosa e non semplicemente in tutte le cose. E se gli uomini cercarono davvero il segreto nei sacrifici primitivi, era un segreto e non una superficialità come il culto del feticcio. Se davvero lo cercarono dietro il velo di Iside, era un segreto e non un luogo comune come il culto della [[Nature|natura]]. E se davvero è meglio cercarlo in altra maniera, sarà un segreto, e dunque una vera rivelazione, per coloro che lo vedono svelato nella [[City|città]] di Sarras, nel luogo spirituale.
+
+
+
+<span class="atom-split" data-atom="story_28_the_epitaph_of_pierpont_morgan" data-title="Common Man — The Epitaph Of Pierpont Morgan" data-chapter="The Epitaph Of Pierpont Morgan" data-kind="story"></span>
+
+
+THE EPITAPH OF PIERPONT MORGAN
+
+It is obvious enough that whitewashing a man is quite the opposite
+of washing him white.  The curious thing is that people often
+try to whitewash a man, and fail, when it might be possible
+to wash him, and to some limited extent, succeed.  The real story,
+if the culprit only had the [[Courage|courage]] to tell it, would often be
+much more human and pardonable than the stiff suspicious fiction
+that he tells instead.  Many a public man, I fancy, has tried
+to conceal the crime and only succeeded in concealing the excuse.
+Many a man has sought to bury the sin and only buried the [[Temptation|temptation]].
+Suppose that Nelson had covered his relations with Lady Hamilton
+so discreetly that he left about his movements only a vague suspicion
+that he had a wife in every port.  We should think him a far worse
+man than we think him, knowing the whole [[Truth|truth]].  Suppose Parnell
+had kept his secret so [[Well|well]] that his disappearances were put down to
+an unmarried man's most vulgar and purchased type of vice, instead of
+an unmarried man's comparatively pardonable fault of infatuation.
+That great man would seem far less great to us than he does now.
+In our craven commercial public life there are not many of the Parnell
+or Nelson sort:  but even among our lords and millionaires there
+are men, I dare say, who are less despicable than they look.
+If we had the key of their souls we might come upon virtues
+quite unexpected--or at least upon vices more generous.
+In many a complex human scandal, I fancy, the first real slander
+is the acquittal.
+
+But there is another form of this dehumanising defence:
+and that is the defence of the dead.  The idea of observing restraint,
+if not respect, in speaking of the recently departed rests
+on a human instinct altogether deep and free:  but in modern
+practice it is turned exactly the wrong way.  A dead man should
+be sacred because he is a man--perhaps a man for the first [[Time|time]].
+A baby says he is a man; a boy often thinks he is a man; a man
+takes for granted he is a man, and often finds out his mistake.
+Perhaps one never knows what being a man means until the instant
+of [[Death|death]].  Perhaps in a very manly and even military sense all
+life is a learning to die.  If I were asked to say something
+by the [[Grave|grave]] of a man like Pierpont Morgan, I would say:
+"I will not remember his name.  He has fought the great unequal fight;
+and is of more value than he was."
+
+Now turn to the modern newspaper method; the method of weak whitewash.
+The Christian Commonwealth is a paper with a perfectly genuine,
+though hazy and patronising, concern for social improvement.
+Its intentions are certainly not servile, though I think its upshot
+would be.  But it feels as we all do, that the day after poor
+Morgan's [[Death|death]] is not the [[Time|time]] for kicking his corpse about:
+so, being modern, it contrives to speak [[Well|well]] of him in the following
+extraordinary fashion.  "It is easy to denounce the methods by which
+such men amass their vast fortunes, but, making every allowance
+for the injury done to individuals by the often ruthless methods
+such men adopt to gain their ends, the great fact stands out,
+that they are the human agents working out certain economic movements.
+. . . These men are helping to prepare industry for a new form of control
+and ownership.  In the transition stage they amass huge fortunes
+for themselves, and ruin many who are too weak to withstand them,
+but it is doubtful if the sum of their harmful inflections is as
+great as the evils in the same period caused by the great number
+of small competing capitalists."
+
+I shall have much to say of this as a social doctrine in a moment.
+At the start I am only concerned with it as an epitaph.
+In the mere matter of respect for the dead, I say this.  I am ready
+to pass the [[Grave|grave]] of Morgan in a decent [[Silence|silence]], as a Christian [[Grave|grave]].
+The Christian Commonwealth can only think of sacrificing a thousand
+slaves upon it, as if it were a pagan and prehistoric [[Grave|grave]].
+For to justify or palliate the capitalist today is to sacrifice
+a thousand slaves.  My epitaph on Morgan need not even contain
+his name; I would write over his [[Grave|grave]] what I would over my own,
+"Have [[Mercy|mercy]] upon us, miserable sinners."  But just think how the
+Christian Commonwealth epitaph reads, merely as an epitaph!  "Sacred to
+the [[Memory]] of J. Pierpont Morgan:  Who, By Methods Peculiarly Easy
+to Denounce, Amassed a Large Fortune.  Having a Preference
+for Ruthless Methods For the Gaining of His Ends, He Selected
+for Ruin Such Persons as Were Too Weak To Withstand Him.
+He Thus Became The Human Instrument of An Economic and Inhuman Movement.
+He Also Formed Trusts.  For of Such is the Kingdom of Heaven."
+That is the amount of tenderness for the terrible dead that can
+be reached in the modernist manner.  The sacred [[Death|death]] is forgotten,
+but the profane life is excused.
+
+And now for the excuse.  In order to write a polite paragraph
+about a poor old man whose only superiority over any of us
+is that he has passed what we all must [[Fear|fear]], this paper digs up
+the dusty and discredited rubbish of Bellamy:  and maintains
+the proposition that millionaires bring us nearer to Socialism.
+The obvious deduction for a Socialist is that he ought to be,
+in every hour and instant, on the side of the millionaires.
+No man's wage must be increased by a penny, no man's working day
+must be shortened by an hour; for this might delay the swift,
+sweet process by which the whole earth will soon be owned by its
+six most unscrupulous inhabitants.  Then we shall get Socialism.
+I don't see why.  I never did.  But it is [[Self|self]]-evident that,
+if this is the case, every capitalist must be exalted and every
+workman brought low.  The whole argument means nothing unless it
+means that the rich had better smash us all as soon as possible.
+There are some who [[Doubt|doubt]] this concept.  I am one of them.
+We say it would not have been Napoleon's best policy to wait till
+the Allies had conquered him utterly, so that he might only have to
+write one letter, asking them to give him back the whole of Europe.
+We say, in our simple way, that it would not have been wise in Montenegro
+to wait till all the Moslems in Asia were marching upon them;
+so as to abolish [[Islam]] in one [[Well|well]]-expressed proclamation.
+We entertain similar doubts about the [[Sanity|sanity]] of making capitalists
+stronger than any of the past emperors of this earth, and then asking
+them to hand over the only thing for which they have lost their souls.
+
+The final fact is that anyone who subscribes to this epitaph must league
+himself with the forces of evil until something like the Last Judgment.
+He must not merely give up Socialism, which is a doctrine.
+He must also give up Social [[Reform]]--which is a dissipation.
+He must not only abandon the duty of helping the poor;
+he must even tear from his heart the pleasure of tormenting them.
+I see that one paper (the name of which I forget) has even
+addressed an open letter to me on this matter, asking whether
+any of my words (which, I sadly confess, have been many) have born
+any fruit in practice--by which, of course, it means Westminster.
+[[Well]], I am afraid I must confess that my efforts have been barren,
+that I have brought forth no fruit fit for the field of social [[Reform|reform]].
+In all the most powerful modern movements I have been impotent.
+I have never segregated anybody, or tortured anybody,
+or unsexed anybody, or buried anybody alive--to my knowledge.
+I am not a philanthropist.  I do not think any words of mine have
+led to one single man being kept in [[Prison|prison]] beyond his lawful term.
+I [[Doubt|doubt]] if I have succeeded in adding a single lash to the torture
+at the triangles.  I question whether I have succeeded in deducting
+so much as a penny from the tiny fortunes of grooms and housemaids.
+I have cropped no hair off the heads of other people's daughters.
+I have drawn no [[Blood|blood]] from poorer men's backs.  My claim
+to be a Progressive is gone for ever; and I know it [[Well|well]].
+But I am not quite so bitterly opposed to all possible Social [[Reform]]
+as the Christian Commonwealth is.  I agree that men like Morgan
+should be pardoned.  I even agree that, for purposes of [[debate]],
+men like Morgan should be excused.  But I shall deny till [[Death|death]]
+and damnation that men like Morgan should be encouraged.
+And if that epitaph does not mean that men like Morgan should
+be encouraged, it means nothing whatever.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'EPITAFFIO DI PIERPONT MORGAN
+
+È abbastanza ovvio che imbiancare un uomo sia l'esatto contrario del lavarlo fino a renderlo candido. La cosa curiosa è che spesso si cerca di imbiancare un uomo, e si fallisce, quando sarebbe stato possibile lavarlo, e in qualche misura riuscirci. La storia vera, se solo il colpevole avesse il [[Courage|coraggio]] di raccontarla, sarebbe spesso assai più umana e perdonabile della rigida, sospettosa finzione che egli racconta al suo posto. Più d'un uomo pubblico, immagino, ha tentato di nascondere il delitto e non è riuscito che a nascondere la scusante. Più d'uno ha cercato di seppellire il peccato e non ha seppellito che la [[Temptation|tentazione]]. Supponiamo che Nelson avesse coperto la sua relazione con Lady Hamilton tanto discretamente da lasciare sui propri movimenti soltanto il vago sospetto di avere una moglie in ogni porto. Lo giudicheremmo un uomo assai peggiore di quanto non lo giudichiamo ora, conoscendo tutta la [[Truth|verità]]. Supponiamo che Parnell avesse serbato il proprio segreto così [[Well|bene]] da far attribuire le sue sparizioni a quel tipo di vizio, comprato e volgarissimo, proprio dello scapolo, invece che a quella colpa relativamente perdonabile, dell'infatuazione, propria dello scapolo. Quel grand'uomo ci parrebbe assai meno grande di quanto ci pare adesso. Nella nostra vile vita pubblica mercantile non abbondano gli uomini della tempra di Parnell o di Nelson: eppure anche fra i nostri lord e i nostri milionari vi sono uomini, oserei dire, meno spregevoli di quanto sembrino. Se avessimo la chiave delle loro anime, vi potremmo scoprire virtù del tutto inattese — o almeno vizi più generosi. In molti intricati scandali umani, immagino, la prima vera calunnia è l'assoluzione.
+
+Ma vi è un'altra forma di questa difesa disumanizzante: ed è la difesa dei morti. L'idea di osservare un certo riserbo, se non un certo rispetto, nel parlare di chi è da poco scomparso poggia su un istinto umano profondo e schietto: ma nella pratica moderna essa viene rivolta esattamente nel senso sbagliato. Un morto dovrebbe essere sacro perché è un uomo — forse un uomo per la prima [[Time|volta]]. Un neonato dice di essere un uomo; un ragazzo spesso crede di essere un uomo; un uomo dà per scontato di essere un uomo, e spesso s'avvede del proprio errore. Forse non si sa mai che cosa significhi essere un uomo fino all'istante della [[Death|morte]]. Forse, in un senso quanto mai virile e persino militare, tutta la vita è un imparare a morire. Se mi si chiedesse di dire qualcosa presso la [[Grave|tomba]] di un uomo come Pierpont Morgan, direi: «Non ricorderò il suo nome. Ha combattuto la grande, impari battaglia; e vale di più di quanto valesse».
+
+Volgiamoci ora al metodo del giornale moderno; il metodo dell'imbiancatura fiacca. Il *Christian Commonwealth* è un periodico animato da una preoccupazione per il miglioramento sociale perfettamente sincera, benché nebulosa e paternalistica. Le sue intenzioni non sono certo servili, per quanto io ritenga che tale ne sarebbe l'esito. Ma esso avverte, come tutti noi avvertiamo, che l'indomani della [[Death|morte]] del povero Morgan non è il [[Time|momento]] di prendere a calci il suo cadavere: e così, da moderno qual è, riesce a parlarne [[Well|bene]] nella seguente straordinaria maniera. «È facile denunciare i metodi con cui simili uomini accumulano le loro immense fortune, ma, tenuto conto d'ogni danno arrecato ai singoli dai metodi spesso spietati che simili uomini adottano per raggiungere i propri fini, resta ben saldo il gran fatto che essi sono gli agenti umani per mezzo dei quali si compiono certi movimenti economici. ... Costoro contribuiscono a preparare l'industria a una nuova forma di controllo e di proprietà. Nella fase di transizione accumulano per sé enormi fortune, e rovinano molti troppo deboli per resistere loro, ma è dubbio che la somma delle loro nocive influenze sia altrettanto grande dei mali causati nel medesimo periodo dalla gran quantità di piccoli capitalisti in concorrenza fra loro».
+
+Avrò molto da dire su tutto ciò come dottrina sociale fra un momento. Per cominciare, me ne occupo soltanto in quanto epitaffio. In fatto di semplice rispetto per i morti, dico questo. Sono pronto a passare davanti alla [[Grave|tomba]] di Morgan in un dignitoso [[Silence|silenzio]], come dinanzi a una [[Grave|tomba]] cristiana. Il *Christian Commonwealth* non sa far altro che pensare di sacrificarvi sopra un migliaio di schiavi, come se fosse una [[Grave|tomba]] pagana e preistorica. Poiché giustificare o attenuare il capitalista, oggi, significa sacrificare un migliaio di schiavi. Il mio epitaffio su Morgan non ha nemmeno bisogno di contenerne il nome; scriverei sulla sua [[Grave|tomba]] ciò che scriverei sulla mia: «Abbi [[Mercy|pietà]] di noi, miseri peccatori». Ma pensate un po' come suona l'epitaffio del *Christian Commonwealth*, semplicemente in quanto epitaffio! «Sacro alla [[Memory|memoria]] di J. Pierpont Morgan: il quale, con metodi singolarmente facili da denunciare, accumulò una vasta fortuna. Avendo una predilezione per i metodi spietati nel conseguimento dei propri fini, elesse alla rovina quelle persone che erano troppo deboli per resistergli. Divenne così lo strumento umano di un movimento economico e disumano. Formò altresì dei trust. Poiché di tali è il Regno dei Cieli». Ecco a quanta tenerezza per i terribili morti si può giungere alla maniera modernista. La sacra [[Death|morte]] viene dimenticata, ma la profana vita viene scusata.
+
+E ora veniamo alla scusa. Per redigere un garbato paragrafo su un povero vecchio la cui unica superiorità su ciascuno di noi consiste nell'aver varcato ciò che tutti dobbiamo [[Fear|temere]], questo giornale disseppellisce la polverosa e screditata paccottiglia di Bellamy: e sostiene la tesi che i milionari ci avvicinano al Socialismo. L'ovvia deduzione, per un socialista, è che egli dovrebbe stare, in ogni ora e in ogni istante, dalla parte dei milionari. Il salario di nessuno deve essere aumentato d'un centesimo, la giornata lavorativa di nessuno deve essere accorciata d'un'ora; giacché ciò potrebbe ritardare il rapido, dolce processo per cui l'intera terra sarà presto posseduta dai suoi sei abitanti più senza scrupoli. Allora avremo il Socialismo. Non vedo perché. Non l'ho mai visto. Ma è [[Self|di per sé]] evidente che, se così stanno le cose, ogni capitalista dev'essere esaltato e ogni operaio abbassato. L'intero argomento non significa nulla, a meno che non significhi che i ricchi farebbero meglio a stritolarci tutti quanto prima. C'è chi [[Doubt|dubita]] di questo concetto. Io sono fra costoro. Diciamo che non sarebbe stata la migliore politica di Napoleone attendere finché gli Alleati non l'avessero interamente sconfitto, così da doversi limitare a scrivere una sola lettera, per chiedere loro di restituirgli l'intera Europa. Diciamo, nella nostra semplice maniera, che non sarebbe stato saggio, per il Montenegro, attendere finché tutti i musulmani dell'Asia non gli marciassero contro, così da abolire l'[[Islam]] con un solo, [[Well|ben]] congegnato proclama. Nutriamo dubbi analoghi sulla [[Sanity|saggezza]] di rendere i capitalisti più potenti di qualsiasi imperatore del passato di questa terra, per poi chieder loro di consegnare l'unica cosa per la quale hanno perduto l'anima.
+
+Il fatto finale è che chiunque sottoscriva questo epitaffio deve allearsi con le forze del male fino a qualcosa di simile al Giudizio Universale. Non deve soltanto rinunciare al Socialismo, che è una dottrina. Deve rinunciare anche alla [[Reform|Riforma]] Sociale — che è una dissipazione. Non deve soltanto abbandonare il dovere di aiutare i poveri; deve persino strapparsi dal cuore il piacere di tormentarli. Vedo che un certo giornale (di cui mi sfugge il nome) mi ha addirittura indirizzato una lettera aperta su questa faccenda, chiedendomi se qualcuna delle mie parole (le quali, lo confesso con tristezza, sono state molte) abbia dato frutto nella pratica — intendendo con ciò, s'intende, Westminster. [[Well|Ebbene]], temo di dover confessare che i miei sforzi sono stati sterili, che non ho prodotto frutto alcuno adatto al campo della [[Reform|riforma]] sociale. In tutti i più potenti movimenti moderni sono stato impotente. Non ho mai segregato nessuno, né torturato nessuno, né evirato nessuno, né sepolto nessuno vivo — che io sappia. Non sono un filantropo. Non credo che alcuna mia parola abbia condotto un solo uomo a essere trattenuto in [[Prison|prigione]] oltre il termine legale. [[Doubt|Dubito]] di essere riuscito ad aggiungere una sola frustata al supplizio dei triangoli. Mi chiedo se sia riuscito a detrarre anche un solo centesimo dalle minuscole fortune degli stallieri e delle cameriere. Non ho tosato un capello dalle teste delle figlie altrui. Non ho tratto [[Blood|sangue]] dalle schiene degli uomini più poveri. La mia pretesa d'essere un Progressista è perduta per sempre; e lo so [[Well|bene]]. Ma non sono così amaramente contrario a ogni possibile [[Reform|Riforma]] Sociale come lo è il *Christian Commonwealth*. Convengo che uomini come Morgan debbano essere perdonati. Convengo persino che, ai fini del [[debate|dibattito]], uomini come Morgan debbano essere scusati. Ma negherò fino alla [[Death|morte]] e alla dannazione che uomini come Morgan debbano essere incoraggiati. E se quell'epitaffio non significa che uomini come Morgan debbano essere incoraggiati, allora non significa proprio nulla.
+
+
+
+<span class="atom-split" data-atom="story_29_the_new_bigotry" data-title="Common Man — The New Bigotry" data-chapter="The New Bigotry" data-kind="story"></span>
+
+
+THE NEW BIGOTRY
+
+I notice with some amusement, both in [[America]] and English literature,
+the rise of a new kind of bigotry.  Bigotry does not consist in a man
+being convinced he is right; that is not bigotry, but [[Sanity|sanity]].
+Bigotry consists in a man being convinced that another man must
+be wrong in everything, because he is wrong in a particular belief;
+that he must be wrong, even in thinking that he honestly believes
+he is right.  The last occasion is one applied mostly to literature
+and the ability of literary men.  And it is all the more like the old
+bigotry because it is in opposition to it.
+
+We all know what used to happen sometimes in the Puritan period;
+or the more critical classicism of the eighteenth century.
+A young idealistic poet would write a copy of verses; mostly verses
+somewhat in this style:
+
+O'er rushing waterfall and verdant grove
+The languid moonlight throws a light of [[Love|love]].
+
+The poet was considered quite respectable; perhaps the poem was even
+a prize poem.  Then it was discovered that the poet, when slightly drunk,
+had expressed doubts about the exact date of the Book of Habakkuk.
+There was a terrible scandal; the youth was hurled from his
+college as an atheist; and then the learned critics went back
+and looked at his poem with a new darkling and suspicious eye.
+The "rushing waterfall", after all, had a very revolutionary sound
+and hinted at pantheistic anarchy.  The phrase "languid moonlight"
+was an appeal to all the most profligate passions.  "Light of [[Love|love]]"
+was a term notoriously of loose significance.
+
+Today it is just the opposite; only equally bigoted.
+A young idealistic poet, full of the new visions of [[Beauty|beauty]],
+writes verses appropriate to such vision; as, for instance:
+
+Bug-[[house]] underbogies belch daybreak back-firing.
+Daylight's a void-vomit; steadying legs to stump.
+
+And all the young critics know he is all right; he has got cosmic rhythm;
+he is a regular guy.
+
+And then a horrid whisper goes round that he was seen outside an
+Episcopal Church near Vermont.  The whole horrid [[Truth|truth]] is soon known.
+He has admitted to a newspaper man that he believes in God.
+Then the young critics go back gloomily and stare at his poetry;
+and, strangely enough, see for the first [[Time|time]] that there was something
+awfully old-fashioned in saying "daylight" when Binx might have
+said "sky-blank"; and, after all, bogies are just the sort of thing
+Episcopalians are forced by their bishops to believe in.
+
+This, though some of the worst examples have occurred in England,
+is a strictly correct [[Biography|biography]] of a man of genius who has come to us
+from [[America]]--Mr. T. S. Eliot.  It would be an exaggeration to say
+that Mr. Eliot was expelled from Harvard for being a High Churchman,
+as Shelley was expelled from [[Oxford]] for being an atheist.
+Mr. Eliot's character was not blasted by a religion until later
+in life, and after he had said all that can be said for modern
+scepticism and [[Despair|despair]].
+
+But this makes it all the funnier.  An English critic actually
+accused him of asking us "to believe the unbelievable".
+Whatever is the sense of calling a thing unbelievable when a man
+like Eliot already believes it.  The author of The Waste Land
+knows all there is to know about scepticism and pessimism;
+why not admit that his beliefs are beliefs, and go back to a proper
+criticism of his literature?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LA NUOVA BIGOTTERIA
+
+Noto con un certo divertimento, tanto nella letteratura [[America|americana]] quanto in quella inglese, il sorgere di una nuova specie di bigotteria. La bigotteria non consiste nell'essere convinti di aver ragione; questa non è bigotteria, ma [[Sanity|buon senso]]. La bigotteria consiste nell'essere convinti che un altro debba avere torto in ogni cosa, per il solo fatto che ha torto in una particolare credenza; che egli debba sbagliarsi persino nel ritenere di credere in buona fede di aver ragione. Quest'ultimo caso si applica soprattutto alla letteratura e al talento degli uomini di lettere. Ed è tanto più simile alla vecchia bigotteria proprio perché le si oppone.
+
+Sappiamo tutti che cosa accadeva talvolta nell'età puritana; o nel classicismo più rigoroso del Settecento. Un giovane poeta idealista scriveva una serie di versi; per lo più versi press'a poco di questa foggia:
+
+Su cascata spumeggiante e verdeggiante boschetto
+la languida luna versa una luce d'[[Love|amore]].
+
+Il poeta era ritenuto assai rispettabile; forse quei versi vincevano perfino un premio. Poi si scopriva che il poeta, quando era un po' alticcio, aveva espresso dubbi sulla data esatta del Libro di Abacuc. Ne nasceva uno scandalo terribile; il giovane veniva scacciato dal suo collegio come ateo; e allora i dotti critici tornavano a rileggere la sua poesia con occhio nuovo, cupo e sospettoso. La «cascata spumeggiante», dopotutto, aveva un suono assai rivoluzionario e adombrava un'anarchia panteistica. L'espressione «languida luna» era un appello a tutte le passioni più dissolute. «Luce d'[[Love|amore]]» era una locuzione notoriamente di significato equivoco.
+
+Oggi è esattamente l'opposto; ma ugualmente bigotto. Un giovane poeta idealista, colmo delle nuove visioni della [[Beauty|bellezza]], scrive versi consoni a tale visione; come, per esempio:
+
+Manicomio-[[house]] sotto-babau ruttano l'alba a scoppio ritardato.
+La luce del giorno è un vuoto-vomito; gambe che si drizzano per arrancare.
+
+E tutti i giovani critici sanno che è a posto; ha colto il ritmo cosmico; è un tipo in gamba.
+
+E poi comincia a correre un orribile bisbiglio: lo hanno visto fuori da una chiesa episcopaliana presso il Vermont. Ben presto si conosce tutta l'orribile [[Truth|verità]]. Ha confessato a un giornalista di credere in Dio. Allora i giovani critici tornano tetri a fissare la sua poesia; e, cosa abbastanza strana, si accorgono per la prima [[Time|volta]] che c'era qualcosa di terribilmente antiquato nel dire «luce del giorno» quando Binx avrebbe potuto dire «vuoto-cielo»; e, dopotutto, i babau sono proprio il genere di cose in cui gli episcopaliani sono costretti dai loro vescovi a credere.
+
+Questa, per quanto alcuni degli esempi peggiori si siano verificati in Inghilterra, è una [[Biography|biografia]] rigorosamente esatta di un uomo di genio che ci è giunto dall'[[America]]: il signor T. S. Eliot. Sarebbe un'esagerazione affermare che il signor Eliot fu espulso da Harvard per essere un anglicano dell'Alta Chiesa, come Shelley fu espulso da [[Oxford]] per essere ateo. Il carattere del signor Eliot non venne rovinato da una religione se non più tardi nella vita, e dopo che egli ebbe detto tutto quel che si può dire in favore dello scetticismo e della [[Despair|disperazione]] moderni.
+
+Ma tutto ciò lo rende ancora più buffo. Un critico inglese lo ha accusato realmente di chiederci di «credere all'incredibile». Che senso ha mai definire una cosa incredibile, quando un uomo come Eliot già vi crede? L'autore di The Waste Land sa tutto quel che c'è da sapere sullo scetticismo e sul pessimismo; perché non ammettere che le sue credenze sono credenze, e tornare a una critica come si deve della sua letteratura?
+
+
+
+<span class="atom-split" data-atom="story_30_books_for_boys" data-title="Common Man — Books For Boys" data-chapter="Books For Boys" data-kind="story"></span>
+
+
+BOOKS FOR BOYS
+
+A recent correspondence upon what is called pernicious literature has
+given rise to several declarations to the effect that the popular
+literature which is sold to boys in our day is greatly inferior
+to that of two or three decades ago.  At first sight a reflective
+person might be inclined to suggest that perhaps there were more
+psychological elements involved in that far-off boyish enjoyment,
+and in that, as in many other instances of our youthful pleasures,
+we were not so much enjoying the stories as enjoying ourselves.
+It is at least possible that the laudator temporis acti of whom
+we are speaking would regard the actual task of reading through
+those lost romances very much in the same way that he would regard
+the action of a waiter in a restaurant who brought him fourteen
+penny buns and a plate of bull's-eyes.
+
+The mental digestion of boys is as strong as their physical digestion.
+They do not heed the cookery of art any more than the art of cookery.
+They can eat the apples of the tree of knowledge, and they can eat
+them raw.  It is a great mistake to suppose that boys only read
+boyish books.  Not only do they privately revel in their sisters' most
+sentimental novels, but they absorb cartloads of useless information.
+One boy in particular, with whose career from an early age we have
+the best reasons for being familiar, used to read whole volumes
+of Chamber's Encyclopaedia, and of a very musty and unreliable
+[[history|History]] of English Trade.  The thing was a mere brute pleasure
+of reading, a pleasure in leisurely and mechanical receptiveness.
+It was the sort of pleasure that a cow must have in grazing
+all day long.
+
+But when all allowance has been made for the omnivorousness of youth,
+we incline to think that there is probably a considerable amount
+of [[Truth|truth]] in the idea that boys' books have to some extent degenerated.
+They have degenerated probably for the reason that all forms
+of art degenerate, because they are despised.  Probably they
+were less despised in the days when they still had upon them,
+as it were, the glamour of the great masters of historical [[Romance|romance]].
+The spirit of Scott and Ainsworth and Fenimore Cooper remained
+in them even if it was only the reflection of a hundred reflections
+and each in a distorting [[Mirror|mirror]].
+
+No one will ever understand the spirit at the back of popular
+and juvenile literature until he realises one fact, that a large
+amount of it is the result of that enthusiasm of the young reader
+which makes him wish to hear more and more about certain heroes,
+and read more and more of certain types of books.  He dowers
+the creatures of fiction with a kind of boyish [[Immortality|immortality]].
+He is not surprised if Dick Deadshot or Jack Harkaway renews
+his youth through a series of volumes which reaches further than
+the length of the Encyclopaedia Britannica.  These books have
+the vital [[philosophy]] of youth, a [[philosophy]] in which [[Death|death]] does
+not exist, except, indeed, as an external and picturesque incident
+which happens to villains.
+
+The serious student of this class of books and papers will go on
+to observe that a very large mass of such works has arisen directly
+out of the interest taken in some of the creations of great masters.
+An irresponsible writer for boys early in the century continued
+the adventures of [[Pickwick]].  An interminable book of Oriental
+adventure which we read in our boyhood was avowedly a supplement
+to the Arabian Nights, and mingled Aladdin, Sinbad, and Ali Baba
+in one inexhaustible tale.  To take a more vulgar example,
+it is said that "Ally Sloper" is simply an infinitely degraded
+version of Mr. Micawber; the literary zoologist will trace
+the same rudimentary organs, the hat, the tie, and the bald head.
+All this amounts to one of the great laws of the question,
+the fact that the youthful mind takes hold of certain figures,
+insists upon them, [[Tears|tears]] them, as it were, out of the covers of the story,
+and could follow their adventures in any number of day [[Dreams|dreams]].
+Hence one of the essential qualities of this cheap literature--
+its astonishing voluminousness.  A library keeping a record of it
+would need a dome vaster than the Bodleian.
+
+From this, as we have said, it may be inferred that there is likely enough
+to have been some decadence of late years, since we are becoming further
+and further removed from the great historical novelists, who left a kind
+of glow upon all historic fiction.  New literary fashions have arisen,
+but they are scarcely likely to be imitated in the literature of boys.
+No publisher has yet brought out with gaudy-coloured illustrations
+"The Further Adventures of Jude the Obscure".  No penny dreadfuls have
+been devoted to what eventually happened to Pelleas and Melisande.
+And in this manner we reach once more the inevitable conclusion
+about debased forms of art; that they are debased because they
+are not respected.  Everything in the world, from a [[Child|child]] to a form
+of fiction, will be bad until we consent to treat it as good.
+And of all forms of literature in the world, the one most
+grossly neglected, from an artistic point of view, is the boys'
+book of adventure.
+
+It is a very peculiar fact, that while the educated middle-class at
+the present day expends infinite money and trouble upon surrounding
+the [[Child|child]] with the noblest works of art and literature, the boy is in this
+matter treated as if he were a half-witted and inconsiderable savage.
+The wretched infant of four years old is expected to drink in
+the verses of Stevenson and the decorative curves of Walter Crane.
+But when he has imbibed this atmosphere, when his aesthetic hunger
+has by hypothesis been aroused, when his mind has developed with
+the rapid development of boyhood, he is suddenly put off with books
+and papers which are not literature at all.  A [[Child|child]]'s [[Love|love]] for what is
+pretty is sedulously cultivated as the [[Dawn|dawn]] of an aesthetic sense,
+but no one seems to realise that a boy's [[Love|love]] of adventure is
+another aesthetic sense quite equally noble and appropriate.
+A [[Child|child]]'s [[Love|love]] of colour is treated as a spiritual thing,
+a sort of hint of heaven, but a boy's [[Love|love]] of adventure is spoken
+of as if it were a mere brute appetite, excusable in a growing lad.
+If a [[Child|child]] says, "I like the pretty [[Flowers|flowers]]", he is applauded for his
+poetic instinct, but if a boy says, "I like a story about pirates",
+he is treated as if he had asked for another slice of pork.
+
+As long as this view continues there can be no worthy school
+of adventurous fiction.  It must be realised that both the [[Child|child]]'s
+[[Love|love]] of the pretty and the boy's [[Love|love]] of the bold are sound
+and admirable artistic instincts.  Neither of them shows that the
+individual is a cherub who cannot be long for this world, but both
+of them show that he is a [[Well|well]]-equipped and healthy human [[Soul|soul]].
+The [[Child|child]] in the fairy-tale is canonised for running after a butterfly.
+The boy in the penny dreadful is denounced for running away to sea.
+But the sea is more beautiful than any butterflies.
+
+If, then, we are agreed that the first need of the problem is
+to understand once and for all that the [[Love|love]] of adventure is not
+a temporary savagery to be satisfied, but an essential artistic
+tendency to be crowned and brought to consummation, it cannot
+but seriously affect our view of boys' literature as a whole.
+We want to realise that the instinct of day dream and adventure is
+a high spiritual and moral instinct, that it requires neither dilution
+nor excuse, that it has been the mother of all great travellers and
+missionaries and knights errant and the patroness of all the brave.
+The one essential of a writer for boys is that he should not write
+down to them.  He should rather write up, arduously and reverently,
+as [[Well|well]] he may, to the mysterious spirit of youth.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LIBRI PER RAGAZZI
+
+Un recente carteggio sulla cosiddetta letteratura perniciosa ha dato origine a parecchie dichiarazioni, secondo le quali la letteratura popolare che ai giorni nostri si vende ai ragazzi sarebbe assai inferiore a quella di due o tre decenni or sono. A prima vista una persona incline alla riflessione potrebbe suggerire che forse in quel remoto godimento fanciullesco entravano in gioco più elementi psicologici, e che in esso, come in molti altri casi dei nostri piaceri giovanili, non tanto godevamo delle storie quanto di noi stessi. È quanto meno possibile che il laudator temporis acti di cui stiamo parlando considererebbe l'effettiva fatica di leggersi per intero quei romanzi perduti press'a poco nello stesso modo in cui considererebbe il gesto di un cameriere che, in un ristorante, gli portasse quattordici focaccine da un penny e un piatto di caramelle.
+
+La digestione mentale dei ragazzi è vigorosa quanto la loro digestione fisica. Non si curano della cucina dell'arte più di quanto si curino dell'arte della cucina. Sanno mangiare le mele dell'albero della conoscenza, e sanno mangiarle crude. È un grave errore supporre che i ragazzi leggano soltanto libri da ragazzi. Non solo si dilettano in privato dei romanzi più sentimentali delle loro sorelle, ma assorbono carrettate di informazioni inutili. Un ragazzo in particolare, con la cui carriera fin dalla più tenera età abbiamo le migliori ragioni per aver dimestichezza, era solito leggere interi volumi della Chamber's Encyclopaedia e di una assai polverosa e inattendibile [[history|Storia]] del Commercio Inglese. La cosa era un mero, bruto piacere della lettura, un piacere fatto di ricettività indolente e meccanica. Era quel genere di piacere che deve provare una mucca a pascolare tutto il giorno.
+
+Ma, fatta ogni concessione all'onnivoricità della gioventù, siamo inclini a pensare che vi sia probabilmente una considerevole dose di [[Truth|verità]] nell'idea che i libri per ragazzi siano in qualche misura degenerati. Sono degenerati, probabilmente, per la ragione per cui degenerano tutte le forme d'arte: perché vengono disprezzati. Probabilmente erano meno disprezzati nei giorni in cui portavano ancora su di sé, per così dire, l'incanto dei grandi maestri del [[Romance|romanzo]] storico. Lo spirito di Scott, di Ainsworth e di Fenimore Cooper permaneva in essi, foss'anche soltanto il riflesso di cento riflessi, ciascuno rimandato da uno [[Mirror|specchio]] deformante.
+
+Nessuno comprenderà mai lo spirito che sta dietro alla letteratura popolare e giovanile finché non si renderà conto di un fatto: che una larga parte di essa è il frutto di quell'entusiasmo del giovane lettore che lo induce a voler sapere sempre di più di certi eroi, e a leggere sempre di più di certi tipi di libri. Egli dota le creature della finzione di una sorta di fanciullesca [[Immortality|immortalità]]. Non si stupisce se Dick Deadshot o Jack Harkaway rinnovano la propria giovinezza attraverso una serie di volumi che si estende ben oltre la lunghezza dell'Encyclopaedia Britannica. Questi libri possiedono la vitale [[philosophy|filosofia]] della gioventù, una [[philosophy|filosofia]] in cui la [[Death|morte]] non esiste, se non, in verità, come episodio esterno e pittoresco che capita ai malvagi.
+
+Lo studioso serio di questa categoria di libri e giornaletti proseguirà osservando che una grandissima mole di simili opere è sorta direttamente dall'interesse suscitato da alcune creazioni dei grandi maestri. Uno scrittore per ragazzi privo di scrupoli, agli inizi del secolo, proseguì le avventure di [[Pickwick]]. Un interminabile libro di avventure orientali che leggemmo nella nostra fanciullezza si dichiarava apertamente un supplemento alle Mille e una notte, e mescolava Aladino, Sindbad e Alì Babà in un unico, inesauribile racconto. Per prendere un esempio più volgare, si dice che «Ally Sloper» non sia altro che una versione infinitamente degradata del signor Micawber; lo zoologo letterario vi rintraccerà i medesimi organi rudimentali: il cappello, la cravatta e la testa calva. Tutto ciò si riconduce a una delle grandi leggi della questione: il fatto che la mente giovanile si aggrappa a certe figure, insiste su di esse, le [[Tears|strappa]], per così dire, dalle pagine della storia, e ne potrebbe seguire le avventure in un numero sterminato di [[Dreams|sogni]] a occhi aperti. Di qui una delle qualità essenziali di questa letteratura da pochi soldi: la sua sbalorditiva copiosità. Una biblioteca che ne tenesse il catalogo avrebbe bisogno di una cupola più vasta di quella della Bodleian.
+
+Da tutto ciò, come s'è detto, si può inferire che è assai probabile vi sia stata negli ultimi anni una qualche decadenza, giacché ci allontaniamo sempre più dai grandi romanzieri storici, i quali lasciarono una sorta di bagliore su ogni narrativa d'ambientazione storica. Sono sorte nuove mode letterarie, ma è ben poco probabile che vengano imitate nella letteratura per ragazzi. Nessun editore ha ancora dato alle stampe, con illustrazioni dai colori sgargianti, «Le ulteriori avventure di Jude l'oscuro». Nessun romanzetto d'appendice è stato dedicato a ciò che infine accadde a Pelléas e Mélisande. E per questa via giungiamo ancora una volta all'inevitabile conclusione riguardo alle forme avvilite dell'arte: che sono avvilite perché non sono rispettate. Ogni cosa al mondo, da un [[Child|bambino]] a una forma di narrativa, sarà cattiva finché non acconsentiremo a trattarla come buona. E di tutte le forme di letteratura al mondo, quella più grossolanamente trascurata, dal punto di vista artistico, è il libro d'avventura per ragazzi.
+
+È un fatto assai curioso che, mentre ai giorni nostri la colta classe media spende denaro e fatica senza fine per circondare il [[Child|bambino]] delle più nobili opere d'arte e di letteratura, il ragazzo venga in questa materia trattato come se fosse un selvaggio ottuso e trascurabile. Ci si aspetta che il misero pupo di quattro anni si abbeveri ai versi di Stevenson e alle curve decorative di Walter Crane. Ma quando ha respirato quest'atmosfera, quando la sua fame estetica si è, per ipotesi, ridestata, quando la sua mente si è sviluppata con il rapido sviluppo della fanciullezza, ecco che d'improvviso lo si liquida con libri e giornaletti che non sono affatto letteratura. L'[[Love|amore]] del [[Child|bambino]] per ciò che è grazioso viene assiduamente coltivato come l'[[Dawn|alba]] di un senso estetico, ma nessuno pare rendersi conto che l'[[Love|amore]] del ragazzo per l'avventura è un altro senso estetico del tutto ugualmente nobile e appropriato. L'[[Love|amore]] del [[Child|bambino]] per il colore è trattato come cosa spirituale, una sorta di accenno del cielo, ma dell'[[Love|amore]] del ragazzo per l'avventura si parla come se fosse un mero, bruto appetito, scusabile in un giovincello in crescita. Se un [[Child|bambino]] dice: «Mi piacciono i bei [[Flowers|fiori]]», lo si applaude per il suo istinto poetico; ma se un ragazzo dice: «Mi piace una storia di pirati», lo si tratta come se avesse chiesto un'altra fetta di maiale.
+
+Finché durerà questa concezione, non potrà esservi alcuna degna scuola di narrativa d'avventura. Bisogna comprendere che tanto l'[[Love|amore]] del [[Child|bambino]] per ciò che è grazioso quanto l'[[Love|amore]] del ragazzo per ciò che è audace sono istinti artistici sani e ammirevoli. Nessuno dei due dimostra che l'individuo sia un cherubino destinato a non restare a lungo in questo mondo; ma entrambi dimostrano che egli è un'[[Soul|anima]] umana [[Well|ben]] fornita e sana. Il [[Child|bambino]] della fiaba viene canonizzato per aver rincorso una farfalla. Il ragazzo del romanzetto d'appendice viene biasimato per essere scappato per mare. Ma il mare è più bello di qualsiasi farfalla.
+
+Se dunque siamo d'accordo che il primo bisogno del problema è comprendere una volta per tutte che l'[[Love|amore]] dell'avventura non è una selvatichezza temporanea da soddisfare, bensì un'essenziale tendenza artistica da coronare e condurre a compimento, ciò non può non influire seriamente sulla nostra visione della letteratura per ragazzi nel suo complesso. Vogliamo renderci conto che l'istinto del sogno a occhi aperti e dell'avventura è un alto istinto spirituale e morale, che non richiede né diluizioni né scuse, e che è stato la madre di tutti i grandi viaggiatori, missionari e cavalieri erranti, e la patrona di tutti i coraggiosi. L'unica cosa essenziale per chi scrive per i ragazzi è che non scriva rivolgendosi loro dall'alto in basso. Dovrebbe piuttosto scrivere verso l'alto, faticosamente e reverentemente, come [[Well|meglio]] può, verso il misterioso spirito della gioventù.
+
+
+
+<span class="atom-split" data-atom="story_31_the_outline_of_liberty" data-title="Common Man — The Outline Of Liberty" data-chapter="The Outline Of Liberty" data-kind="story"></span>
+
+
+THE OUTLINE OF LIBERTY
+
+There is a quality needed today for the spread of all [[Truth|truth]],
+and especially religious [[Truth|truth]], which is very simple and vivid,
+but which I find it very difficult to fit with a word.
+So many words have become catchwords.
+
+I suppose that our critics, in their learned way, would have recourse
+to the little-known Greek word [[Paradox|paradox]], if I were simply to say
+that they are not quite broad-minded enough to be Catholics.
+In their own jargon, being broad-minded so often means being blank-minded.
+
+If I were to say that they suffer from a lack of [[Imagination|imagination]],
+they might suppose (heaven help them) that I meant that what we
+believe is all imaginary.  Nor indeed do either of these two terms
+define the definite thing I intend.  It would be nearer the mark
+if I said that they cannot see all round a subject; or that they
+cannot see anything against the background of everything else.
+
+The learned man, of what I may call the Cambridge type, is like a man
+who should spend years in making a minute ordnance map of the country
+between Cork and Dublin, and never discover that Ireland is an island.
+It is not a question of understanding something difficult.
+It is rather a question of opening the mind wide enough to understand
+something easy.  It is not to be attained by years of labour;
+it is more likely to be attained in a moment of laziness;
+when the map-maker who has long been poring over the map with his nose
+close to Cork, may lean back for a moment and suddenly see Ireland.
+It is much more difficult to get such men to lean back for a moment
+and see Christendom.
+
+The [[Catholic Church]] is always being defined in terms of the particular
+quarrel that she happens to have with particular people in a
+particular place.  Because the Protestant sects in Northern Europe,
+for one or two centuries, disapproved of rosaries and incense
+and candles and confessional boxes, there was a widespread
+impression that Roman Catholics were simply people who liked
+confessional boxes and candles and incense and rosaries.
+But that is not what a Manichee or a Moslem or a Hindoo or an ancient
+Greek philosopher would say about Roman Catholics.
+
+Buddhists have incense; Moslems have something very like rosaries;
+and hardly any healthy heathen human being on earth could conceive
+why anybody should have any particular hatred of candles.
+Buddhists would say that Catholics were people who insisted
+on a personal God and personal [[Immortality|immortality]].  Moslems would say
+that Catholics were people who believed that God had a Son
+who assumed human form, and who did not think it idolatrous
+that He should afterwards assume pictorial or sculptural form.
+Every group in the world would have its own angle or aspect;
+and the Protestant would hardly recognise the same object which
+he had only considered in his own aspect.
+
+Nevertheless, each of these, taken in itself, is in a sense narrow;
+and to dwell upon it narrows the issue.  What we want is to have
+some general impression of the whole background of humanity,
+especially of heathen humanity, against which we can see the outline
+of the object, as, in the map of Ireland, the island is seen
+against the sea.
+
+Now the real background of all that human heathenry is rather a
+grey background.  There are particular patches, which happen to be close
+to us in place and [[Time|time]], which have been freshly painted in various ways.
+So freshly painted that nobody knows yet how long the colours
+will last.  As the Imperialists wanted to paint the map red,
+so the Internationalists and Idealists now want to paint the map pink.
+But none of them has painted half so much of the map anything as they,
+in their optimism, have sometimes supposed.  And even in the areas
+where a sort of official optimism prevails, as in parts of [[America]],
+there is a great deal more of the old ordinary [[Melancholy|melancholy]] of men than
+anyone could gather from newspaper headlines or political programmes.
+And I believe that the most general [[philosophy]] of men left to themselves,
+and perhaps the most practical illustration of the Fall of Man,
+is a vague impression of Fate.
+
+If a man will really talk to the poor, in almost any country, I think
+he will generally find that they are either Christians or fatalists.
+This fatalism is more or less varied or complicated, of course,
+in various places by various mythologies or philosophies.
+It will generally be found that the mythology is a sort of poetry,
+embodying a worship of the wild forces of [[Nature|nature]]; a [[Nature|nature]]-worship
+which, when broken up, is called polytheism, and, when united,
+is called pantheism.  But there is sometimes very little left
+of theism in pantheism.
+
+Then there are whole districts where there is true theism
+which is, nevertheless, permeated with a mood of fatalism.
+That, I suppose, is true at least of large areas of [[Islam]].
+Then there are what may be called the philosophies of [[Resignation|resignation]],
+which probably cover equally large areas of the ancient
+civilisation of Asia.
+
+We need not insist here on any controversial points against or even
+about these things.  But I take it as certain that all those notes
+of recurrence and cosmic rhythm, and a cycle beginning and ending
+with itself, which repeat themselves so frequently in connection with
+Buddhism and Brahminism and Theosophy, are in a general sense allied
+to an almost impersonal submission to an ultimately impersonal law.
+That is the tone of the whole thing; and, as I have said,
+the tone or tint of it strikes us as rather grey; or at least,
+neutral and negative.
+
+It is the same with almost all we know of the pagan myths and metaphysics
+of antiquity.  It is a modern slander on pagans to represent paganism
+as almost identical with pleasure.  But anyhow, nobody acquainted
+with the great Greek and Latin literature, even in the smallest degree,
+will ever dream of identifying paganism with optimism.
+It would at least be a great deal nearer the [[Truth|truth]] to say that there,
+as everywhere else, the fundamental character of paganism is pessimism.
+But in any case, it can quite fairly be said that it is fatalism.
+
+Upon this grey background there is one splash or star of silver or gold;
+a thing like a flame.  It is quite exceptional and extraordinary.
+Of its many extraordinary characters, this is perhaps the chief;
+that it proclaims Liberty.  Or, as the only true meaning of that term,
+it proclaims Will.  In a strange voice, as of a trumpet from heaven,
+it tells a strange story, of which the very essence is that it
+is made up of Will, or of a free divergence of Wills.
+
+Will made the world; Will wounded the world; the same Divine Will gave
+to the world for the second [[Time|time]] its chance; the same human Will can for
+the last [[Time|time]] make its choice.  That is the real outstanding peculiarity,
+or eccentricity, of the peculiar sect called Roman Catholics.
+And if anyone objects to my limiting so large a conception to
+Roman Catholics, I willingly agree that there are many who value
+it so much that they obviously ought to be Roman Catholics.
+But if anyone says that it is not in fact and [[history]] bound up
+with the [[Faith]] of Roman Catholicism, it is enough to refer him
+to the [[history]] and the facts.
+
+Nobody especially emphasised this spiritual liberty until
+the Church was established.  People began instantly to question
+this spiritual liberty, when the Church began to be broken up.
+The instant a breach, or even a crack, had been made in the dyke
+of Catholicism, there poured through it the bitter sea of Calvinism,
+or in other words, of a very cruel form of fatalism.
+Since that [[Time|time]], it has taken the much duller form of Determinism.
+This sadness and sense of bondage is so general to mankind that it
+immediately made its appearance, when the special spiritual message
+of liberty was silenced or interrupted anywhere.  Wherever that
+message is heard, men think and talk in terms of will and choice;
+and they see no meaning in any of the philosophies of fate,
+whether desperate or resigned.
+
+It is idle to talk to a Catholic about optimism or pessimism;
+for he himself shall decide whether the universe shall be, for him,
+the best or the worst of all possible worlds.  It is useless to tell
+him that he might be more at one with the universal life as a Buddhist
+or a pantheist; for he knows that, in that sense, he might be more
+at one with the universal life as a turnip or a tree.  It is his
+whole [[Hope|hope]] and glory that he is not at one with the universal life;
+but stands out from it, an exception and even a miracle.
+
+There is a great passage in the "Paradiso" of [[Dante]], which I wish I
+knew enough Italian to appreciate or enough English to translate.
+But I would commend it to those who may fancy that my emphasis
+on this exceptional quality is a mere modern whitewashing of a
+medieval superstition; and especially to those who have been
+taught in laborious detail, by learned and very stupid historians,
+to regard medievalism as narrow and enchained.  For it runs
+roughly like this:
+
+The mightiest gift that God of his largesse Made in creation,
+perfect even as He, Most of His substance, and to Him most dear,
+He gave to the Will and it was Liberty.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL PROFILO DELLA LIBERTÀ
+
+Vi è una qualità di cui oggi si ha bisogno per la diffusione di ogni [[Truth|verità]], e in particolare della [[Truth|verità]] religiosa, una qualità semplicissima e vivida, ma che trovo assai difficile racchiudere in una parola. Tante parole sono ormai diventate slogan.
+
+Suppongo che i nostri critici, alla loro maniera erudita, ricorrerebbero alla poco nota parola greca [[Paradox|paradosso]], se io mi limitassi a dire che non sono abbastanza larghi di mente da poter essere cattolici. Nel loro gergo, avere la mente larga significa così spesso averla vuota.
+
+Se dicessi che soffrono di una mancanza di [[Imagination|immaginazione]], potrebbero supporre (il cielo li aiuti) che io intenda dire che ciò in cui crediamo è tutto immaginario. Né, in verità, alcuno di questi due termini definisce la cosa precisa che ho in mente. Sarei più vicino al segno se dicessi che non sanno vedere un argomento tutt'intorno; o che non sanno vedere alcuna cosa contro lo sfondo di tutto il resto.
+
+L'uomo dotto, di quel tipo che potrei chiamare cantabrigense, somiglia a chi spendesse anni interi nel tracciare una minuziosa carta topografica del territorio compreso fra Cork e Dublino, senza mai scoprire che l'Irlanda è un'isola. Non si tratta di comprendere qualcosa di difficile. Si tratta piuttosto di aprire la mente abbastanza da comprendere qualcosa di facile. Non lo si ottiene con anni di fatica; è più probabile ottenerlo in un momento di pigrizia, quando il cartografo che a lungo si è chinato sulla carta col naso incollato a Cork può abbandonarsi un istante all'indietro e vedere d'un tratto l'Irlanda. È assai più difficile indurre simili uomini ad abbandonarsi un istante all'indietro e vedere la Cristianità.
+
+La [[Catholic Church|Chiesa cattolica]] viene sempre definita nei termini della particolare contesa che le tocca avere con persone particolari in un luogo particolare. Poiché le sette protestanti dell'Europa settentrionale, per uno o due secoli, disapprovarono i rosari, l'incenso, le candele e i confessionali, si diffuse l'impressione che i cattolici romani fossero semplicemente gente cui piacevano i confessionali, le candele, l'incenso e i rosari. Ma non è ciò che direbbe dei cattolici romani un manicheo, un musulmano, un indù o un antico filosofo greco.
+
+I buddisti hanno l'incenso; i musulmani hanno qualcosa di molto simile ai rosari; e non v'è quasi essere umano pagano e sano su questa terra che possa concepire perché mai qualcuno debba nutrire un odio particolare verso le candele. I buddisti direbbero che i cattolici sono gente che insiste su un Dio personale e su un'[[Immortality|immortalità]] personale. I musulmani direbbero che i cattolici sono gente che crede che Dio abbia avuto un Figlio il quale assunse forma umana, e che non ritiene idolatrico che egli assuma poi forma pittorica o scultorea. Ogni gruppo del mondo avrebbe la sua propria angolatura o prospettiva; e il protestante a stento riconoscerebbe il medesimo oggetto che aveva considerato soltanto nella sua propria prospettiva.
+
+Nondimeno ciascuna di queste, presa in sé, è in un certo senso angusta; e soffermarvisi restringe la questione. Ciò che ci occorre è avere una qualche impressione generale dell'intero sfondo dell'umanità, e specialmente dell'umanità pagana, contro il quale si possa scorgere il profilo dell'oggetto, come, nella carta dell'Irlanda, l'isola si scorge contro il mare.
+
+Ora, il vero sfondo di tutta quella paganità umana è piuttosto uno sfondo grigio. Vi sono chiazze particolari, che si trovano vicine a noi nello spazio e nel [[Time|tempo]], le quali sono state ridipinte di fresco in vari modi. Ridipinte così di fresco che nessuno sa ancora quanto dureranno i colori. Come gli imperialisti volevano dipingere di rosso la carta, così gli internazionalisti e gli idealisti vogliono ora dipingerla di rosa. Ma nessuno di loro ha dipinto neppure la metà di quanto, nel loro ottimismo, hanno talora supposto. E persino nelle aree dove prevale una sorta di ottimismo ufficiale, come in certe parti d'[[America]], c'è molta più della vecchia, ordinaria [[Melancholy|malinconia]] degli uomini di quanta se ne potrebbe dedurre dai titoli dei giornali o dai programmi politici. E credo che la più generale [[philosophy|filosofia]] degli uomini lasciati a se stessi, e forse la più pratica illustrazione della Caduta dell'Uomo, sia una vaga impressione di Fato.
+
+Se un uomo vorrà davvero parlare coi poveri, in quasi ogni paese, credo che generalmente troverà che essi sono o cristiani o fatalisti. Questo fatalismo è più o meno vario e complicato, s'intende, nei diversi luoghi, da diverse mitologie o filosofie. Generalmente si scoprirà che la mitologia è una specie di poesia, che incarna un culto delle forze selvagge della [[Nature|natura]]; un culto della [[Nature|natura]] che, quando si frammenta, si chiama politeismo, e, quando si unifica, si chiama panteismo. Ma talvolta di teismo, nel panteismo, resta ben poco.
+
+Vi sono poi intere regioni dove esiste un vero teismo che è nondimeno permeato da un umore di fatalismo. Ciò, suppongo, è vero almeno per vaste aree dell'[[Islam]]. Vi sono poi quelle che si possono chiamare le filosofie della [[Resignation|rassegnazione]], che probabilmente coprono aree altrettanto vaste dell'antica civiltà dell'Asia.
+
+Non occorre qui insistere su alcun punto controverso contro queste cose, e nemmeno intorno ad esse. Ma do per certo che tutte quelle note di ricorrenza e di ritmo cosmico, e di un ciclo che comincia e finisce in se stesso, che si ripetono così di frequente a proposito del buddismo, del brahmanesimo e della teosofia, sono in senso generale imparentate con una sottomissione quasi impersonale a una legge in ultima analisi impersonale. È questo il tono dell'intera faccenda; e, come ho detto, il tono o la tinta di essa ci colpisce come piuttosto grigia; o almeno neutra e negativa.
+
+Lo stesso avviene per quasi tutto ciò che sappiamo dei miti e della metafisica dell'antichità pagana. È una calunnia moderna sui pagani rappresentare il paganesimo come pressoché identico al piacere. Ma comunque, nessuno che conosca la grande letteratura greca e latina, sia pure nella misura più minima, sognerà mai di identificare il paganesimo con l'ottimismo. Sarebbe quantomeno assai più vicino alla [[Truth|verità]] dire che lì, come ovunque altrove, il carattere fondamentale del paganesimo è il pessimismo. Ma in ogni caso, si può ben dire con equità che è il fatalismo.
+
+Su questo sfondo grigio v'è uno schizzo, una stella d'argento o d'oro; una cosa simile a una fiamma. È del tutto eccezionale e straordinaria. Fra i suoi molti caratteri straordinari, questo è forse il principale: che proclama la Libertà. O, come unico vero significato di quel termine, proclama la Volontà. Con voce strana, come di tromba dal cielo, narra una strana storia, la cui essenza stessa è che è fatta di Volontà, o di una libera divergenza di Volontà.
+
+La Volontà fece il mondo; la Volontà ferì il mondo; la medesima Volontà divina diede al mondo per la seconda [[Time|volta]] la sua opportunità; la medesima Volontà umana può per l'ultima [[Time|volta]] compiere la sua scelta. Ecco la vera, spiccata peculiarità, o eccentricità, della peculiare setta chiamata dei cattolici romani. E se qualcuno obietta al mio limitare una concezione così vasta ai cattolici romani, convengo volentieri che vi sono molti che la stimano tanto da dover evidentemente essere cattolici romani. Ma se qualcuno dice che essa non è di fatto e nella [[history|storia]] legata alla [[Faith|Fede]] del cattolicesimo romano, basta rinviarlo alla [[history|storia]] e ai fatti.
+
+Nessuno pose particolarmente in rilievo questa libertà spirituale finché non fu istituita la Chiesa. La gente cominciò all'istante a mettere in dubbio questa libertà spirituale, quando la Chiesa cominciò a frantumarsi. Nell'istante in cui una breccia, o anche solo una crepa, si aprì nella diga del cattolicesimo, vi si riversò dentro l'amaro mare del calvinismo, ossia, in altre parole, di una forma crudelissima di fatalismo. Da quel [[Time|tempo]] in poi, esso ha assunto la forma assai più scialba del determinismo. Questa tristezza e questo senso di schiavitù sono così generali nel genere umano che fecero immediatamente la loro comparsa non appena lo speciale messaggio spirituale di libertà fu, in qualche luogo, messo a tacere o interrotto. Ovunque quel messaggio venga udito, gli uomini pensano e parlano in termini di volontà e di scelta; e non trovano alcun senso in nessuna delle filosofie del fato, siano esse disperate o rassegnate.
+
+È vano parlare a un cattolico di ottimismo o di pessimismo; poiché sarà lui stesso a decidere se l'universo sarà, per lui, il migliore o il peggiore dei mondi possibili. È inutile dirgli che potrebbe essere più tutt'uno con la vita universale in quanto buddista o panteista; poiché egli sa che, in quel senso, potrebbe essere più tutt'uno con la vita universale in quanto rapa o albero. È tutta la sua [[Hope|speranza]] e la sua gloria il non essere tutt'uno con la vita universale; ma l'ergersi al di fuori di essa, un'eccezione e persino un miracolo.
+
+V'è un grande passo nel «Paradiso» di [[Dante]], che vorrei conoscere l'italiano abbastanza per apprezzare, o l'inglese abbastanza per tradurre. Ma lo raccomanderei a coloro che potessero immaginare che la mia insistenza su questa qualità eccezionale non sia che una moderna imbiancatura di una superstizione medievale; e specialmente a coloro cui fu insegnato, in laborioso dettaglio, da storici dotti e assai stolti, a considerare il medioevo come angusto e incatenato. Poiché suona all'incirca così:
+
+Lo maggior don che Dio per sua larghezza Fesse creando, e a la sua bontate Più conformato, e quel ch'e' più apprezza, Fu de la volontà la libertate.
+
+
+
+<span class="atom-split" data-atom="story_32_a_note_on_nudism" data-title="Common Man — A Note On Nudism" data-chapter="A Note On Nudism" data-kind="story"></span>
+
+
+A NOTE ON NUDISM
+
+There is one little habit of some of the most intelligent modern
+writers against which I should like to protest.  It consists
+of flatly refusing to state somebody else's opinion as it stands;
+and consider it on its own merits.  The modern writer must always
+assume that it is a choice between his own extreme opinion and
+something at the other extreme.  I found a curious example in a very
+excellent book by Miss Cicely Hamilton called Modern Germanies.
+She was referring to the sect of the Nudists, who have revived
+the ancient heresy of the Adamites and go about without any clothes,
+taking themselves very seriously; as if [[Nakedness|nakedness]] were a new invention.
+I think Miss Hamilton really hesitated a little, being moved by her
+instincts as a civilised person to laugh, and by her instincts
+as a progressive person to applaud.  What then does she do?
+She immediately repeats the old story that in Paul et Virginie,
+the very artificial sentimental [[Novel|novel]] of the eighteenth century,
+the heroine is drowned because she refuses to take off her clothes.
+She then adds that "if she has to choose" between Virginie and some German
+flapper who finds it more comfortable to have no clothes to flap, she will
+choose the latter.  But, first of all, why should she "have to choose"?
+Why should she not consider Nudism on its own merits; and the normal
+view of clothes, among sane people, also on its own merits?
+If I have to judge a drunkard, I will judge him without dragging
+in the comparison of a mad fakir who deliberately died of thirst
+in the [[Desert|desert]].  If I have to judge a miser, I will call him a miser;
+despite the possible existence of an insane and intoxicated nobleman
+in Vienna, who poured ten thousand gold coins down a drain.
+I cannot see why Miss Hamilton should call in one extravagance
+merely to justify another.
+
+Next, if she really does suppose that normal, traditional or Christian
+[[morality]] are represented by Virginie, she is probably quite wrong.
+Most Christian authorities would say that her notion of sacrifice
+came very near to the sin of [[suicide]].  For Paul et Virginie was
+not written in a Christian period but in a very pagan period,
+when pre-Revolutionary France was in [[Love|love]] with the pagan Stoics
+who did not disapprove of [[suicide]].  The story itself is largely
+founded on an old classical [[Romance|romance]].  It cannot be taken as typical
+of modern [[Christianity]], or even of medieval [[Christianity]].
+It is only fair to remember that in this sense Virginie is a
+heathen heroine; and Godiva was a Christian heroine.
+
+Lastly, I am not sure I should choose the German flapper,
+even if I were driven to the choice.  We may think a sacrifice
+is made to a mistaken code of [[Honour|honour]]; but there is the sacrifice;
+and there is the [[Honour|honour]].  We have no reason to suppose that
+the Nudist even knows what we mean by [[Honour|honour]].  We know nothing
+about her, except that she does not know what we mean by dignity.
+As a plain piece of practical psychology, I think it extremely
+likely that the poor mistaken maiden, who would die for her dignity,
+would also die for her country, would die for her friends,
+would die for her [[Faith|faith]] or promise, or any worthy obligation.
+We know nothing about the other woman, except that (like the pig
+and other [[Animals|animals]]), she feels more comfortable without clothes.
+It seems to me an insufficient basis for moral confidence.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+UNA NOTA SUL NUDISMO
+
+C'è una piccola abitudine di alcuni fra i più intelligenti scrittori moderni contro la quale vorrei protestare. Consiste nel rifiutarsi recisamente di esporre l'opinione altrui così com'è, e di considerarla per quello che vale in sé. Lo scrittore moderno deve sempre presupporre che si tratti di scegliere fra la propria opinione estrema e qualcosa che sta all'estremo opposto. Ne ho trovato un curioso esempio in un libro davvero eccellente della signorina Cicely Hamilton, intitolato *Modern Germanies*. Vi si riferiva alla setta dei nudisti, i quali hanno fatto rinascere l'antica eresia degli adamiti e vanno in giro senza alcun vestito, prendendosi molto sul serio, come se la [[Nakedness|nudità]] fosse una nuova invenzione. Credo che la signorina Hamilton abbia in realtà esitato un poco, sospinta dal suo istinto di persona civile a ridere, e dal suo istinto di persona progressista ad applaudire. Che fa allora? Ripete immediatamente la vecchia storia secondo cui in *Paul et Virginie*, quel [[Novel|romanzo]] settecentesco tanto artificioso e sentimentale, l'eroina annega perché si rifiuta di togliersi i vestiti. Aggiunge poi che, «dovendo scegliere» fra Virginie e una qualche svampita tedesca che trova più comodo non avere vestiti da sventolare, sceglierà quest'ultima. Ma, in primo luogo, perché mai dovrebbe «dover scegliere»? Perché non considerare il nudismo per quello che vale in sé, e la concezione normale dei vestiti, propria delle persone sane, anch'essa per quello che vale in sé? Se devo giudicare un ubriacone, lo giudicherò senza tirare in ballo il paragone con un folle fachiro che si è deliberatamente lasciato morire di sete nel [[Desert|deserto]]. Se devo giudicare un avaro, lo chiamerò avaro, malgrado la possibile esistenza di un nobile pazzo e ubriaco a Vienna, che ha gettato in un tombino diecimila monete d'oro. Non riesco a capire perché la signorina Hamilton debba invocare una stravaganza soltanto per giustificarne un'altra.
+
+In secondo luogo, se davvero suppone che la [[morality|morale]] normale, tradizionale o cristiana sia rappresentata da Virginie, probabilmente si sbaglia di grosso. La maggior parte delle autorità cristiane direbbe che la sua idea di sacrificio si accostava molto al peccato del [[suicide|suicidio]]. Perché *Paul et Virginie* non fu scritto in un'epoca cristiana, ma in un'epoca assai pagana, quando la Francia pre-rivoluzionaria era [[Love|innamorata]] degli stoici pagani, i quali non disapprovavano il [[suicide|suicidio]]. La storia stessa è in gran parte fondata su un antico [[Romance|romanzo]] classico. Non la si può prendere come tipica del [[Christianity|cristianesimo]] moderno, e nemmeno del [[Christianity|cristianesimo]] medievale. È giusto ricordare che, in questo senso, Virginie è un'eroina pagana; e Godiva era un'eroina cristiana.
+
+Infine, non sono affatto sicuro che sceglierei la svampita tedesca, quand'anche fossi costretto alla scelta. Possiamo pensare che un sacrificio sia offerto a un codice d'[[Honour|onore]] sbagliato; ma resta il sacrificio, e resta l'[[Honour|onore]]. Non abbiamo alcun motivo di supporre che la nudista sappia nemmeno che cosa intendiamo per [[Honour|onore]]. Di lei non sappiamo nulla, se non che ignora che cosa intendiamo per dignità. Come semplice dato di psicologia pratica, ritengo estremamente probabile che la povera fanciulla in errore, che sarebbe morta per la propria dignità, sarebbe anche morta per la propria patria, sarebbe morta per i propri amici, sarebbe morta per la propria [[Faith|fede]] o per una promessa, o per qualsiasi obbligo degno. Dell'altra donna non sappiamo nulla, se non che (come il maiale e gli altri [[Animals|animali]]) si sente più a proprio agio senza vestiti. Mi pare una base insufficiente per riporvi una fiducia morale.
+
+
+
+<span class="atom-split" data-atom="story_33_consulting_the_encyclopaedia" data-title="Common Man — Consulting The Encyclopaedia" data-chapter="Consulting The Encyclopaedia" data-kind="story"></span>
+
+
+CONSULTING THE ENCYCLOPAEDIA
+
+The Historical Student will raise his refined eyebrows if I say
+that a Catholic is an Encyclopaedist.  The name of Encyclopaedism
+was given in the eighteenth century to the most coldly eager of
+the enemies of Catholicism.  And even now it is generally believed
+that we bow submissively before the [[Storm|storm]] of the [[ephemeral]] Encyclical,
+but dare not open the scientific and solid Encyclopaedia--
+which, by the way, is generally at any given moment much more out
+of date than the Encyclical.
+
+It is none the less true that the [[Catholic Church]] presents itself,
+though on a higher plane and plan, in a certain [[Double|double]] character to which
+perhaps the nearest natural parallel is the use of an encyclopaedia.
+For it is the test of a good encyclopaedia that it does two rather
+different things at once.  The man consulting it finds the thing he wants;
+he also finds how many thousand things there are that he does not want.
+It advises the particular man upon his particular problem,
+though it were quite a private problem, almost as if it were giving
+private advice.  And the man must be so far touched to some tinge
+of healthy [[Humility|humility]], if it be only the admission that he does
+not know everything, and must seek outside himself for something.
+Even if he is so ill-advised as to consult a medical work of reference
+for the proper proportions of hyoscine for the poisoning of an aunt,
+he must be so far in a pious and respectful attitude and accepting
+something upon a sort of authority.
+
+I remember a man who told me he never accepted anything on any
+sort of authority; I also remember asking him whether he ever
+consulted Bradshaw, or whether he insisted on travelling by every
+train first, to see whether it was safe to travel by it.
+The [[Journey|journey]] itself might be highly private, the visit to the aunt
+almost pressingly private, but he would not evolve a railway train
+entirely out of his private judgment.
+
+But a work of reference works in another way also.  It reminds
+the traveller in the train that there are a good many other trains
+full of travellers.  It reminds the neoethical nephew that there
+are a good many different words in the dictionary.  In his search
+for hyoscine he will pass carelessly over the honey of Hymettus,
+and think it needless to dwell on the life of Heliogabalus or the science
+of hydraulics.  And thus he will learn the same lesson in another way;
+the somewhat difficult lesson that he is nobody except himself.
+
+Those two discoveries commonly combine in a [[conversion]];
+and this is perhaps the most workable framework in which to state
+the two chief elements of my own.  There was first the relation
+of Catholicism to my own original and personal problem; and there
+was a second rather curious and illuminating illustration of the
+necessity of keeping it in proportion to all the other problems,
+the problems of all the other people.
+
+Now all the very varied types of people who sooner or later draw
+near to the Catholic [[Faith]] have moved towards it from the most
+widely different standpoints, across most varying distances,
+and rejecting or renewing or reshaping the most queerly contrasted
+types of non-Catholic thought.  My own thought, when it was
+not yet Catholic, was often blasted with the name of Optimist;
+but it was not quite so bad as that sounds today.  It was an attempt
+to hold on to religion by the thread of thanks for our creation;
+by the praise of existence and of created things.  And the curious
+part of it is that I found that this piece of private judgment,
+or private nonsense, was really much more true than I ever thought
+it was; and yet, if that [[Truth|truth]] were left to stand [[Alone|alone]], it would
+be a complete falsehood.
+
+For the sake of illustration, or in a rather special sense
+of illumination, I will take the metaphor of a [[Window|window]]; a thing
+which always had, and still has, an almost weirdly vivid effect
+on my own [[Imagination|imagination]].  My own original view, which would originally
+have been an entirely non-Catholic if not anti-Catholic view,
+might be roughly stated thus.  "After all, what could be more mystical
+or magical than ordinary daylight coming in through an ordinary [[Window|window]]?
+Why should anybody want a new heaven shining on a new earth;
+why need they dream of strange [[Stars|stars]] or miraculous flames, or the sun
+and [[Moon|moon]] turned to [[Blood|blood]] and darkness, in order to imagine a portent?
+The mere fact of existence and experience is a perpetual portent.
+Why should we ever ask for more?"
+
+There is an old literary joke or game, familiar I think among
+the transcendental tricks of the Cavalier poets; a game that is called
+echo verses.  It is a sort of punning upon the last syllable of a word;
+by which Echo is made to answer mockingly the question asked
+in the line of verse.  Thus, to transfer it to a modern topic,
+the poet might ask, "Say, what high [[Hope|hope]] is founded on [[Eugenics|eugenics]]?"
+And the obliging echo would answer, "Nix"; or a paean in praise
+of some Socialist or ex-Socialist statesman would begin with
+the line, "Labour's great leader; mighty Democrat", and end with
+the repetition, "Rat".
+
+I am haunted by this parallel in the curious logical answer to my
+own question; which was at once a repetition and a contradiction
+and a completion.  For it seemed to me that when I asked that question,
+"Why is not the daylight enough?" the ancient voice of some mystery
+such as an old religion answered my words merely by repeating them,
+"Why is not the daylight enough?"  And when I said, "Why should
+not that wonderful white [[Fire|fire]], breaking through the [[Window|window]],
+inspire us every day like an ever-returning miracle?" the echo
+out of that old crypt or cavern only answered, "Why not indeed?"
+
+And, the more I thought of it, the more I thought that there was the hint
+of some strange answer in the very fact that I had to ask the question.
+I had not lost, and I have never lost, the conviction that such
+primal things are mysterious and amazing; but if they were amazing,
+why did anybody have to remind us that they were amazing?
+Why was there, as I had already realised that there certainly was,
+a sort of daily fight to appreciate the daylight; to which we had to
+summon all [[Imagination|imagination]] and poetry and the labour of the arts to aid us?
+If the first imaginative instinct was right, it seemed clearer
+and clearer that something else was wrong.  And as I indignantly
+denied that there was anything wrong with the [[Window|window]], I eventually
+concluded that there was something wrong with me.
+
+In this case, the divine dictionary had answered my own personal question
+as directly and even personally as if the answer had been written for me.
+It justified the instinct that inspired me to accept the daylight as a
+divine reality; but it also solved the problem that puzzled me about
+the difficulty of thus accepting the daylight all day and every day.
+Creation was of the Creator and declared as good; the power in it could
+be praised by angels forever and by the sons of God shouting for joy.
+If we were ourselves only occasionally overheard in the act of shouting
+for joy, it was because we were only partially or imperfectly the sons
+of God; not indeed wholly disinherited, but not wholly domesticated.
+In short, we suffered by the Fall or [[Original Sin]]; but it is important
+to note that this is not an answer to the particular question,
+except in the form of the more moderate Catholic doctrine,
+and not the old pessimist Protestant doctrine of the Fall.
+
+This particular problem arose entirely out of the fact that man
+is imperfect; but not, in the pessimist sense, perfectly imperfect.
+The whole [[Paradox|paradox]] is in the fact that a part of his mind remains
+almost perfect; and he can perpetually perceive what he cannot
+perpetually enjoy.  I was as certain that existence is ecstatically
+more excellent than non-existence as I was that plus two is
+different from minus two.  Only there is a practical psychological
+difficulty about always going into ecstasies over this fact.
+Man is not symmetrically unsymmetrical; he is a sort of one-eyed
+creature ever since he fought a duel with the devil; and the one eye
+sees the eternal light eternally, while the other has grown tired
+and blinks or is almost blind.  Thus the authority solved this
+private problem, not by denying the [[Truth|truth]] of my private judgment,
+but by adding to it the larger and more general judgment of the Fall.
+
+And then, in the very act of understanding my own little
+private problem, I understood the public authority which I have
+compared to an encyclopaedia.  Here there were thousands of other
+private problems solved for thousands of other private persons;
+masses of them had nothing to do with my own case at all;
+but one of them turned and confronted my own case in a curious way.
+I began to realize that it would not do to act as so many of the most
+brilliant men of my [[Time|time]] had acted.  It was not enough for a man
+to value a [[Truth|truth]] merely because he had picked it up by himself;
+to take it away with him and turn it into a private system;
+at the best into a [[philosophy]] and at the worst into a sect.
+He was very proud of answering his own question without the help
+of an encyclopaedia; but he did not even pretend to answer all
+the other questions in the encyclopaedia.
+
+Now I felt very strongly that there ought to be answers, not only
+to all the other questions which all the other people were asking,
+but also answers to other questions which I should ask myself.
+And the moment I began to think about these other problems I saw at
+once that I could not even satisfy myself with the solution of one of
+those problems.  The practical example which occurred to me was this.
+I said to myself; it is all very [[Well|well]] to say that the miracle
+of daylight coming through a [[Window|window]] ought to be enough to make
+a man [[Dance|dance]] with joy.  But suppose another man uses your argument
+as a justification for putting [[Innocent|innocent]] men in [[Prison|prison]] for life,
+in a cell with one [[Window|window]], and then leaving them to [[Dance|dance]].
+What will become of all your own denunciations of [[Slavery|slavery]] and
+the oppression of the poor, when that highly practical statesman
+has founded a new commonwealth on your new creed?
+
+And then I think there spread out before me, like a vast dazzling
+plan with innumerable details, some vision of the thousand things
+that have to be interrelated and balanced in Catholic thought;
+justice as [[Well|well]] as joy; liberty as [[Well|well]] as light; and I felt certain
+that the mere proportion of all these things, not the negation
+of any of them, needed, to harmonize it and hold it steady,
+a power and a presence mightier than the mind of any mortal man.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+CONSULTANDO L'ENCICLOPEDIA
+
+Lo Studioso di storia inarcherà le sue sopracciglia raffinate se dirò che un cattolico è un enciclopedista. Il nome di enciclopedismo fu dato nel Settecento ai più freddamente zelanti fra i nemici del cattolicesimo. E persino oggi si crede comunemente che noi ci inchiniamo sottomessi dinanzi alla [[Storm|tempesta]] dell'[[ephemeral|effimera]] enciclica, ma non osiamo aprire la scientifica e solida enciclopedia — la quale, sia detto per inciso, in un qualsiasi momento dato è di norma assai più fuori moda dell'enciclica stessa.
+
+Non è per questo meno vero che la [[Catholic Church|Chiesa cattolica]] si presenta, benché su un piano e un disegno più alti, con un certo [[Double|duplice]] carattere di cui forse il parallelo naturale più prossimo è l'uso di un'enciclopedia. Poiché è la prova del valore di una buona enciclopedia che essa faccia due cose alquanto diverse in una volta sola. L'uomo che la consulta trova la cosa che cerca; e trova insieme quante migliaia di cose ci siano che egli non cerca affatto. Essa consiglia il singolo uomo sul suo singolo problema, fosse pure un problema del tutto privato, quasi come se gli desse un consiglio riservato. E l'uomo dev'essere fino a quel punto toccato da qualche sfumatura di sana [[Humility|umiltà]], non foss'altro che nell'ammettere di non sapere ogni cosa, e di dover cercare fuori di sé qualcosa. Perfino se è tanto mal consigliato da consultare un'opera di medicina per le giuste dosi di ioscina con cui avvelenare una zia, egli deve pur trovarsi fino a quel punto in un atteggiamento pio e rispettoso, accettando qualcosa in virtù di una sorta di autorità.
+
+Ricordo un uomo che mi disse di non accettare mai nulla in virtù di nessuna sorta di autorità; ricordo anche di avergli chiesto se consultasse mai il Bradshaw, oppure se pretendesse di viaggiare prima con ogni treno, per vedere se fosse sicuro viaggiarci. Il [[Journey|viaggio]] in sé poteva essere del tutto privato, la visita alla zia quasi impellentemente privata, ma egli non avrebbe fatto scaturire un treno interamente dal suo giudizio privato.
+
+Ma un'opera di consultazione opera anche in un altro modo. Ricorda al viaggiatore in treno che vi sono parecchi altri treni gremiti di viaggiatori. Ricorda al neoetico nipote che vi sono parecchie parole diverse nel dizionario. Nella sua ricerca della ioscina egli scorrerà con distrazione sul miele dell'Imetto, e riterrà superfluo indugiare sulla vita di Eliogabalo o sulla scienza dell'idraulica. E così apprenderà la medesima lezione per un'altra via; la lezione alquanto ardua di non essere nessun altro se non se stesso.
+
+Quelle due scoperte comunemente si combinano in una [[conversion|conversione]]; e questa è forse la cornice più maneggevole entro cui esporre i due elementi principali della mia. Vi fu anzitutto il rapporto del cattolicesimo con il mio proprio problema originario e personale; e vi fu una seconda illustrazione, alquanto curiosa e illuminante, della necessità di tenerlo in proporzione con tutti gli altri problemi, i problemi di tutte le altre persone.
+
+Ora, tutti i tipi assai svariati di persone che presto o tardi si accostano alla [[Faith|Fede]] cattolica vi si sono mossi incontro dai punti di vista più diversi, attraverso le distanze più varie, respingendo o rinnovando o rimodellando i tipi più stranamente contrastanti di pensiero non cattolico. Il mio proprio pensiero, quando non era ancora cattolico, fu spesso bollato col nome di ottimismo; ma non era poi così cattivo come suona oggi. Era un tentativo di tenermi aggrappato alla religione mediante il filo della gratitudine per la nostra creazione; mediante la lode dell'esistenza e delle cose create. E la parte curiosa è che scoprii come questo pezzo di giudizio privato, o di privata insensatezza, fosse in realtà assai più vero di quanto avessi mai pensato; e tuttavia, se quella [[Truth|verità]] fosse lasciata a reggersi [[Alone|da sola]], sarebbe una completa falsità.
+
+A titolo di illustrazione, o in un senso alquanto speciale di illuminazione, prenderò la metafora di una [[Window|finestra]]; una cosa che ebbe sempre, e ha tuttora, un effetto quasi stranamente vivido sulla mia [[Imagination|immaginazione]]. La mia veduta originaria, che in origine sarebbe stata una veduta interamente non cattolica se non anticattolica, potrebbe grosso modo enunciarsi così. «Dopo tutto, cosa potrebbe esserci di più mistico o magico della comune luce del giorno che entra attraverso una comune [[Window|finestra]]? Perché mai qualcuno dovrebbe volere un cielo nuovo che risplenda su una terra nuova; perché avrebbe bisogno di sognare [[Stars|stelle]] strane o fiamme miracolose, o il sole e la [[Moon|luna]] mutati in [[Blood|sangue]] e in tenebra, per immaginare un prodigio? Il mero fatto dell'esistenza e dell'esperienza è un prodigio perpetuo. Perché mai dovremmo chiedere di più?»
+
+C'è un vecchio gioco o scherzo letterario, familiare credo tra i trucchi trascendentali dei poeti cavalieri; un gioco che si chiama versi a eco. È una sorta di bisticcio sull'ultima sillaba di una parola; per cui l'Eco è indotta a rispondere beffardamente alla domanda posta nel verso. Così, per trasferirlo a un tema moderno, il poeta potrebbe chiedere: «Dimmi, quale alta [[Hope|speranza]] si fonda sull'[[Eugenics|eugenetica]]?» E l'Eco compiacente risponderebbe: «Nix»; oppure un peana in lode di qualche statista socialista o ex socialista comincerebbe col verso «Grande capo dei Lavoratori; possente democratico», e finirebbe con la ripetizione: «Ratto».
+
+Sono ossessionato da questo parallelo nella curiosa risposta logica alla mia stessa domanda; risposta che fu insieme una ripetizione e una contraddizione e un compimento. Poiché mi parve che, quando posi quella domanda — «Perché la luce del giorno non basta?» — l'antica voce di qualche mistero, come quella di una vecchia religione, rispondesse alle mie parole semplicemente ripetendole: «Perché la luce del giorno non basta?». E quando dissi: «Perché quel meraviglioso [[Fire|fuoco]] bianco, che irrompe attraverso la [[Window|finestra]], non dovrebbe ispirarci ogni giorno come un miracolo che sempre ritorna?», l'eco che veniva da quella vecchia cripta o caverna rispose soltanto: «E perché no, davvero?».
+
+E quanto più vi riflettevo, tanto più mi pareva che vi fosse il cenno di qualche strana risposta nel fatto stesso che io dovessi porre la domanda. Non avevo perduto, e non ho mai perduto, la convinzione che tali cose primordiali siano misteriose e sbalorditive; ma se erano sbalorditive, perché qualcuno doveva rammentarci che erano sbalorditive? Perché c'era, come già mi ero reso conto che certamente c'era, una specie di lotta quotidiana per apprezzare la luce del giorno; una lotta a cui dovevamo chiamare in aiuto tutta l'[[Imagination|immaginazione]] e la poesia e la fatica delle arti? Se il primo istinto immaginativo era giusto, appariva sempre più chiaro che qualcos'altro era sbagliato. E mentre negavo indignato che vi fosse alcunché di sbagliato nella [[Window|finestra]], conclusi alla fine che vi era qualcosa di sbagliato in me.
+
+In questo caso, il divino dizionario aveva risposto alla mia domanda personale in modo tanto diretto e persino tanto personale come se la risposta fosse stata scritta apposta per me. Giustificava l'istinto che mi ispirava ad accettare la luce del giorno come una realtà divina; ma risolveva anche il problema che mi lasciava perplesso circa la difficoltà di accettare così la luce del giorno tutto il giorno e ogni giorno. La creazione veniva dal Creatore ed era dichiarata buona; la potenza che è in essa poteva essere lodata dagli angeli in eterno e dai figli di Dio esultanti di gioia. Se noi stessi venivamo sorpresi solo di quando in quando nell'atto di gridare di gioia, era perché eravamo solo parzialmente o imperfettamente figli di Dio; non del tutto diseredati, invero, ma neppure del tutto addomesticati. In breve, soffrivamo per la Caduta, ovvero il [[Original Sin|Peccato originale]]; ma è importante notare che questa non è una risposta al problema particolare, se non nella forma della più moderata dottrina cattolica, e non nella vecchia dottrina protestante e pessimista della Caduta.
+
+Questo problema particolare nasceva interamente dal fatto che l'uomo è imperfetto; ma non, nel senso pessimista, perfettamente imperfetto. L'intero [[Paradox|paradosso]] sta nel fatto che una parte della sua mente rimane quasi perfetta; ed egli può perpetuamente percepire ciò di cui non può perpetuamente godere. Ero certo che l'esistenza sia estaticamente più eccellente della non esistenza, così com'ero certo che più due è diverso da meno due. Solo che c'è una difficoltà psicologica e pratica nell'andare sempre in estasi per questo fatto. L'uomo non è simmetricamente asimmetrico; è una sorta di creatura con un occhio solo da quando combatté un duello col diavolo; e l'unico occhio vede eternamente la luce eterna, mentre l'altro si è stancato e sbatte le palpebre o è quasi cieco. Così l'autorità risolse questo problema privato, non negando la [[Truth|verità]] del mio giudizio privato, ma aggiungendovi il più ampio e più generale giudizio della Caduta.
+
+E allora, nell'atto stesso di comprendere il mio piccolo problema privato, compresi la pubblica autorità che ho paragonato a un'enciclopedia. Qui vi erano migliaia di altri problemi privati risolti per migliaia di altre persone private; masse di essi non avevano nulla a che fare col mio caso; ma uno di essi si volse e affrontò il mio caso in un modo curioso. Cominciai a rendermi conto che non sarebbe andata bene agire come tanti fra gli uomini più brillanti del mio [[Time|tempo]] avevano agito. Non bastava che un uomo apprezzasse una [[Truth|verità]] solo perché l'aveva raccolta da sé; per portarla via con sé e mutarla in un sistema privato; nel migliore dei casi in una [[philosophy|filosofia]] e nel peggiore in una setta. Era assai fiero di aver risposto alla propria domanda senza l'aiuto di un'enciclopedia; ma non pretendeva nemmeno di rispondere a tutte le altre domande dell'enciclopedia.
+
+Ora io sentivo con gran forza che dovevano esserci delle risposte, non solo a tutte le altre domande che tutte le altre persone andavano ponendo, ma anche risposte ad altre domande che io stesso avrei dovuto pormi. E nel momento in cui cominciai a pensare a questi altri problemi, vidi subito che non potevo nemmeno appagarmi della soluzione di uno solo di quei problemi. L'esempio pratico che mi venne in mente fu questo. Dissi a me stesso: va tutto molto [[Well|bene]] dire che il miracolo della luce del giorno che entra attraverso una [[Window|finestra]] dovrebbe bastare a far [[Dance|danzare]] un uomo di gioia. Ma supponi che un altro uomo si serva del tuo argomento come giustificazione per mettere uomini [[Innocent|innocenti]] in [[Prison|prigione]] a vita, in una cella con una sola [[Window|finestra]], e poi li lasci lì a [[Dance|danzare]]. Che ne sarà di tutte le tue denunce della [[Slavery|schiavitù]] e dell'oppressione dei poveri, quando quello statista assai pratico avrà fondato un nuovo Stato sul tuo nuovo credo?
+
+E allora mi parve che si dispiegasse dinanzi a me, come un vasto e abbagliante disegno dagli innumerevoli particolari, una qualche visione delle mille cose che devono essere interrelate ed equilibrate nel pensiero cattolico; la giustizia non [[Well|meno]] della gioia; la libertà non [[Well|meno]] della luce; e sentii con certezza che la mera proporzione di tutte queste cose, non la negazione di alcuna di esse, richiedeva, per armonizzarla e tenerla salda, una potenza e una presenza più possenti della mente di qualsiasi uomo mortale.
 
 
 

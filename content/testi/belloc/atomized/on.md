@@ -1567,6 +1567,66 @@ They were twelve hundred, come from the tenderest and the best; chosen out of al
 
 
 
+<span class="atom-split" data-atom="story_02_on_an_educational_reform--part_01" data-title="On — ON AN EDUCATIONAL REFORM (part 1)" data-chapter="ON AN EDUCATIONAL REFORM" data-kind="excerpt"></span>
+
+
+ON AN EDUCATIONAL REFORM
+
+SINCE WE ARE determined (as I am not, but as all my colleagues seem to be) that a new world has arisen; since, therefore, all institutions may be remodelled at will, I trust there will appear in the education of wealthy children a reform overdue these many years.
+
+This reform is an addition, of a certain subject, to the curriculum of schools. We have all at one time or another deplored its absence: we all, in one crisis or another of our lives, recognise its necessity. If it be true that we have to-day an opportunity for new things, do let us inaugurate this novelty at least, which would be of such vast advantage to the generation now sprouting. And the new subject is Fraud.
+
+Fraud is the sole basis of the only form of success recognised among us. By Fraud alone are those vast fortunes suddenly acquired which — and which only — are the condition of greatness in a modern man.
+
+Fraud is the master subject, ignorance or inability in which dooms a man to toil and obscurity. Yet Fraud is never taught at school. Men who had the parts for a most brilliant career fail on leaving the Academies because they are outwitted by Guttersnipes who have no letters but can cheat.
+
+There used to be taught in schools Latin and Greek after a grammatical fashion, which made the better pupils true masters of the inwards of these languages. When they were so formed they were called “scholars.” To this expertise was added some knowledge of a foreign language (usually French or German, but only a smattering thereof), and latterly also the elements of physical science and of mathematics, until these last branches took up so much time that often a choice was made between them and the older humanities.
+
+So far, so good. Indirectly the young people were taught also the manner of their society, and this especially through the modern discipline of games. But there is not one of them (and I speak with feeling on the matter, for I have experience myself) who upon leaving school or the University has not suddenly found himself in a world where a ready practice in cheating proved the only thing of serious importance and yet was to him quite unfamiliar. He found himself, usually without resources, cast upon a world, wherein survival (or even decent honour and spiritual security) depended upon the exercise of certain arts of deceit to which he had never been trained, and which he must acquire at his peril. In proportion as he failed to acquire these arts he failed altogether and was cast away.
+
+Every one will admit that the swindling of one’s fellow-beings is a necessary practice. Upon it is based all really sound commercial success, and through it men arrive at those solid positions which command the honour and respect of our contemporaries. Thus, the chief way of making money is by buying cheap and selling dear, or, rather, by buying cheap and selling dear quickly; but when you buy cheap you only do so by taking in the vendor, and, when you sell dear, the purchaser. Your action may be remote and indirect, as when you gamble upon the Stock Exchange. It is commonly direct and personal as when you acquire under contract the services of another man. But it is essentially an exercise in overreaching. It is of its very nature getting some other human being into a state of mind in which he underestimates what you desire to get out of him or overestimates what you desire to unload upon him. Thus, in my own poor trade, I am a good business man if I can persuade some unhappy publisher or newspaper owner that the public is athirst for my words. Conversely, my honourable employers and masters will be good business men if they persuade me that no one is so base as to want to hear me at all, and that I am only employed as a sort of charity. And so it is with the selling of a boat or a house, or with the buying of land.
+
+Another master-gate to fortune is abuse of confidence: you persuade men to entrust you with money for one purpose and then use it secretly for a very different end. If you bring off the deal it is your gain. If you drop the money the loss is theirs.
+
+Another royal road is “merger”; another false description; another plain straightforward theft.
+
+All these repose on a sound talent in Fraud, and, in general, so it is in all forms of fortune-getting, save in the highly specialised craft or mystery of blackmail. Upon cheating all honour, and therefore all happiness, depends. It is wealth so made which (save for those who inherit wealth and who are securely tied up as well) determines the position of a man to-day among his fellows.
+
+Well, what trace is there of this great truth in the curriculum of our schools? It is entirely neglected! I admit that pomposity, which is a necessary element in all success, is indirectly taught. I admit still more freely and fully that the spirit of falsehood is taught as a sort of general subject, but I maintain that swindling as a particular subject is not taught at all, and even the most elementary forms of it, with which every boy ought to be acquainted in his early ‘teens, come upon him with a shock when he is already a young married man launched in life and, as the phrase goes, battling with the world.
+
+This, I say, is a shameful neglect. Here is an instance: the most elementary form of swindling, that which is, as it were, the gambit of every operation, and that which is the sum total of all the simpler operations of commerce, consists in giving a verbal assurance which it is intended to repudiate later by document or action. You promise a man something which you do not intend to perform, or you give a false description which reality will later expose, or in some other way you use the psychology of affirmation to your advantage.
+
+Well, what could be simpler than to have a class (even if it were but half an hour a week) where all boys over a certain age could be trained by example both to be upon their guard against the false affirmation of others and (what is more important) to make false but plausible affirmations themselves with all the boldness which breeds success — to make affirmations particular, affirmations emphatic, affirmations probable, affirmations flattering.
+
+
+
+
+<span class="atom-split" data-atom="story_02_on_an_educational_reform--part_02" data-title="On — ON AN EDUCATIONAL REFORM (part 2)" data-chapter="ON AN EDUCATIONAL REFORM" data-kind="excerpt"></span>
+
+
+Even the negative side of this very necessary piece of training is omitted, and boys are not taught (at least in any school with which I have acquaintance) the importance of economy in falsehood.
+
+The immature mind will, of course, tend to falsehood as a natural human instinct, but the force of kindly nature is here wasted because it lacks direction. Young men go out into the world lying freely about the grandeur of their acquaintance, their personal prowess, and the rest, all matters conducing in no way to the accumulation of wealth — which is the end of man. Now, what could be simpler than, in such a class as I suggest (I admit that half an hour a week is rather short commons, but everything must have a beginning) — what could be simpler than to give some direction at least to this pseudological factor in the mind and train it to the right end?
+
+Examples should be set before youth. Let the master recite some braggart story of strength or skill such as is common among the young of the rich. Then let him show what a waste of energy it is, and how an equal amount of pseudological force expended in a useful channel, a false description or a flattery, might have earned £100. “It is just as easy,” the good preceptor would tell his young charges, “to brag about a horse that you want to sell as about, say, your horsemanship, for which there is no market. It is just as easy to lie about the value of something you have for sale as it is to lie about your lineage. But in the first case you trouser the dibs, while in the second there is no stuff — it is wasted effort. Remember, therefore, my dear boys, to check yourselves when you are about to tell an uneconomical falsehood. Count ten before you speak and consider whether there be not ready to your hand some subject in which you can fully satisfy this natural instinct of lying and at the same time prepare some advantage for your pocket.”
+
+It may be objected to me that if this very necessary reform were introduced and the elements of modern commerce were taught in all our schools, the results would cancel out; for since all our youth would be forearmed, there would still be waged in the great world outside the conflict of the better sharper against the worse, with victory as now to the master-thief. But such an objection applies to all forms of learning. My desire is to raise the general level of our gentry in this department, and especially not to leave men in middle age with the bitter memory of lost opportunities: opportunities lost through no personal fault but through the neglect of those who had a sacred trust and who did not fulfil it. At least let the man of fifty be able to say to himself: “I had every advantage. My masters at school (and no one more than my dear old headmaster, Dr. Buggins) repeatedly warned me against the peril of honesty and were at pains to teach me how to overreach the innocent; if I have proved clumsy and am now living as a publisher’s hack, the fault is all with me.” As things now are, many a man who has sunk to be a proof-reader, or even an author, is, in his heart, bitterly reproaching those who launched him upon the world quite ignorant of affairs.
+
+I conceive that the educationist who is ever eager to improve his changing science will here suggest particular subjects in this new department. He will see an expanding horizon of opportunity. My words have roused enthusiasm in him. He will ask me, for instance, why I have not included special classes in blackmail, monopoly, bullying, bribery, perjury, and so forth.
+
+Yes, certainly; all these should have their place, especially for older boys. But they may well be considered later. Perhaps such subjects would best be left to special institutions, such as those which were so successful in the last generation under the name of “crammers.” Blackmail in particular, very like the art of outflanking in military science, requires a judgment of the world to which the mind can hardly attain till it is mature. Napoleon said: “Beware when you attempt to outflank that you be not outflanked yourself”; a sound saying, for any one in process of edging round his opponent extends his own communications, and leaves an opportunity for that opponent to edge round him. And so it is with blackmail; too often the blackmailer just in the act of seizing his prize (a post in the Ministry or what not) feels a sharp bite and discovers to his horror that the tables are turned.
+
+In a word, the teaching of this art of blackmail is the teaching of a very difficult and skilful, complex action which must not be attempted rashly, and that is why I have some hesitation in recommending it for the ordinary curriculum of schools. Nevertheless, the very rudiments of it, or, at any rate, some idea of what it is, might profitably be given even to the younger boys, and for this purpose I would suggest a visit to some neighbouring aquarium, where the slow antics of the crab in his tank so graphically mimic our public life. The attention of the lads could be directed by their master to the alternate furtive movements of two crabs. They will observe how the first pursues the second sideways across the tank and makes a clutch with his claw, how the second eludes this and in his turn chases his opponent off. “This grotesque manœuvre, my dear boys,” the Pastor will declaim, “may remain in your minds as an example of what later you will be called upon to do if you are called to serve your country in Parliament.”
+
+The youngsters will soon forget all about it, as is the fashion of boys with their lessons; but something, I think, will remain in the mind, though half obscured by time. And when they come to the vast affairs of which Westminster is the theatre, the object-lesson of the two crabs will not be without service to them.
+
+Bribery, I take it, should not be taught except in the point of degree, for it comes naturally enough to all men both to give and to take bribes, and all that you need fix in the young mind is the double importance of avoiding avarice upon the one side and lavishness upon the other. For the taking of a bribe no art or training whatsoever is required, but in the giving of bribes it is of some importance not to give too much, and of absolutely vital importance not to offer too little. It is upon this last point that many a noble career has made shipwreck.
+
+I have in mind one poor fellow whose father had left him a few millions. He was perpetually putting down, with all manner of hesitation, sums just insufficient to purchase the object of his desires. In the long run he had disbursed what should easily have commanded a high administrative position in the Cabinet, a Viceroyalty or a first-class Embassy. Yet he had nothing to show for it all but one private secretaryship, two chairmanships of committee, and a baronetcy: and this last only because he was childless.
+
+
+
+
 <span class="atom-split" data-atom="story_03_on_kind_hearts_being_more_than_coronets" data-title="On — ON KIND HEARTS BEING MORE THAN CORONETS" data-chapter="ON KIND HEARTS BEING MORE THAN CORONETS" data-kind="story"></span>
 
 
@@ -1639,176 +1699,6 @@ Nevertheless, I return to my original judgment; kind hearts are more than corone
 “Oh! Sir!” cries the Reader of Proofs, “have you verified your references in all this?”
 
 “No, My Child, nor will I. It is an extra labour, and should be charged overtime. Let them go.”
-
-
-
-
-<span class="atom-split" data-atom="story_06_footnotes" data-title="On — FOOTNOTES:" data-chapter="FOOTNOTES" data-kind="story"></span>
-
-
-FOOTNOTES:
-
-I SHOULD HAVE said, nothing.
-
-This is a good opportunity, observe: — Gibbon, Dec. and Fall of Rom. Emp., Ed. 1831 (Cassell), Chap. XXIII, Par. 27, n. 125. Does it not look impressive?
-
-
-
-
-<span class="atom-split" data-atom="story_07_a_few_kind_words_to_mammon" data-title="On — A FEW KIND WORDS TO MAMMON" data-chapter="A FEW KIND WORDS TO MAMMON" data-kind="story"></span>
-
-
-A FEW KIND WORDS TO MAMMON
-
-A FRIEND OF mine once wrote a parable (“and if these words should meet his eye,” etc.). I have not seen it written down. It may have been written down. But in its verbal form it was something like this (as it was told to me).
-
-A number of candidates were offered what they would choose. But they could choose only one thing each. The first chose health. And the second, beauty. And the third, virtue. And the fourth, form. And the fifth, ticklishness, which means an active sense. And the sixth, forgetfulness. And the seventh, honesty. And the eighth, immunity from justice. And the ninth, courage. And the tenth, experience. And the eleventh, the love of others for him. And the twelfth, his love for others. But the thirteenth (they were thirteen, including Judas) chose money. And he chose wisely, for in choosing this, all the others were added unto him.
-
-If ever I complete that book which I began in the year 1898 called “Advice to a Young Man” (I was twenty-eight years of age at the moment I undertook it) it will there be apparent by example, closely reasoned argument, and (what is more convincing than all) rhetoric, that money is the true source of every delight, satisfaction, and repose.
-
-Do not imagine that, upon this account, I advise the young to seek money in amounts perpetually extending. Far from it! I advise the young (in this my uncompleted book) to regulate their thirst for money most severely.
-
-“Great sums of money” (said I, and say I) “are only to be obtained by risking ruin, and of a hundred men that run the risk ninety-nine get the ruin and only one the money.” But money as a solid object; money pursued, accumulated, possessed, enjoyed, bearing fruit: that is the captain good of human life.
-
-When people say that money is only worth what it will purchase, and that it will purchase only certain things, they invariably make a category of certain material things which it will purchase, and imagine or hope that it will purchase no more. And these categories, remember, are drawn up always by unmoneyed men. For your moneyed man has no need to work and therefore no need to draw up categories, which is a very painful form of toil. They say money will purchase motor-cars and bathrooms — several bathrooms — and foods and drinks and the rest of it — and then its power is exhausted.
-
-These fools leave out two enormous chapters — the biggest chapters of the lot. They leave out the services of other men, always purchasable. And they leave out the souls of other men often purchasable. With money in a sufficient amount you can purchase any service, and with money you can purchase many individual souls.
-
-Now, that is important.
-
-Take the purchasing of services with money. You start a newspaper. Perhaps you cannot write very well yourself. I have known very many extremely rich men whose writing was insignificant — never persuasive or enduring in effect. The greater part of them cannot write for more than a few minutes without breaking down. Just as an elderly man cannot play Rugby football for more than a few minutes or so without breaking down. But they can hire men to write. And they do. They do not exactly buy the souls of those men they hire. They only buy the services. Often enough have I had a pleasant talk with one of these serfs in private when his daily task was done (at from one to three thousand a year) concerning the vices of his master and the follies which he (the serf) had had to defend with his pen.
-
-But to be able to purchase the services of men thus (I am only speaking of my own trade, but all other trades are equally purchasable, and the lawyers actually advertise that they are purchasable!) — to be able, I say, to purchase services thus is a category ridiculously neglected by those who pretend that money brings nothing but material enjoyment.
-
-It brings, for instance, immunity from the criminal law. At least it does to-day. It did not until modern times even here, but it does to-day. If you doubt it, take a little bit of paper and mark the men who have been sent to prison during your own lifetime while possessed (not after having been possessed) of five thousand a year. It is an instructive winter game.
-
-But if money can purchase services it can also, with less certitude, but on a very large scale, purchase those other little things we noted — the souls of men. Here there is a distinction.
-
-When you purchase a service you do not necessarily purchase a soul. You only purchase a soul when, by the action of your money, you corrupt the individual. I do not say “corrupt him beyond all salvation,” but, at any rate, beyond any remaining desire for salvation. When, for instance, by the possession of money, you acquire the respect of a man, you are, to a small extent, purchasing his soul. When by the action of money you make a man fall into certain habits which at last become his character, you are purchasing a soul.
-
-I keep on saying “you,” though I know well enough, wretched reader, that you are in no position to do all this. In fact, you find it the devil and all to purchase what is necessary for your household. If you are a man with a thousand a year, for instance (there have just passed my window three men with a good deal less, not judged by their clothes but by my knowledge of them in a countryside), then you are worth what was called before the war about four hundred pounds a year. Taxation and Inflation, the twin gods that rhyme, have done for the rest.
-
-If you are what they called before the war a rich man (you will excuse me, but random essays are read by all sorts of people), if you were, say, a squire with six thousand a year, you are now worth what your local scribbler at two thousand a year was worth before the war. Horrible but true. So when I say “you,” I only do so by way of rhetoric and of shorthand. I cannot be pestered to know what each of you is exactly worth, and, upon my soul, as things now are, I do not think any one of you exactly knows.
-
-To return. I say that money, acting thus, purchases souls. It purchases souls not only in regardant, but in gross. In regardant, I may explain, means “as regards the particular relation between one soul and its purchaser,” while in gross means “of the world in general.”
-
-Thus a man may be a serf regardant when he is a serf to a particular lord, but not a serf in his general status. Or he may be a serf in gross, that is, a serf to anybody who comes across him. And in the same way, there is a cad regardant and a cad in gross, and still more is there a coward regardant and a coward in gross. For instance, a man may be a general coward, and that is being a coward in gross, or he may be a particular coward in the matter of riding a particular horse, and then he is only a coward regardant.
-
-I say, then, that the power of your money to purchase souls may be in gross or regardant. It may purchase a particular soul, in which case, God help you! Or it may have a general effect upon All Souls (I mean not the College but the generality of mankind, for whom I postulate souls), and in this case you are not perhaps very much to blame. It is rather their fault than yours.
-
-When your money has purchased souls in gross — gross souls in gross and grossly purchased by the gross — it means that you are worshipped for your money, and this is as common a worship as the worship men give to their country.
-
-There is a kind of insufficiency — I had almost called it idiocy — which tries to shuffle out of this valuable truth by pointing to particular cases (there are perhaps half a dozen at one time in a great community like ours) of men who, possessing great wealth, are yet not respected. But you will find that these are exceptions who have deliberately done all that they could not to be respected. The ruck of men with large fortunes are respected for all those things which money is supposed to bring — justice, kindliness, humour, temperance, courage and judgment. And even the very few rich men who are not respected are still admired for some mystical quality. “There must have been something in the man for him to have made half a million before he was forty.”
-
-I should have said, “There must have been something lacking in other men for this guttersnipe to have got so much out of them,” but I am here deliberately the devil’s advocate, and I know that I have not a leg to stand on.
-
-If you are possessed of great wealth ... (Digression: Little wealth is disgusting, like mediocrity in verse. If you are going in for being wealthy you must be very wealthy or not wealthy at all. Anywhere in a plutocracy may you see the very wealthy hobnobbing with poor hack-writers and versifiers and essay writers and such, but never with the quarter-wealthy or the eighth-wealthy) ... if you are possessed of great wealth, I say you are, in a plutocracy, a great man. You are both loved and feared; everywhere respected and also admired. Your good qualities are as enduring as stone; your evil qualities are either transformed into something slight and humorous or sublimated till they disappear.
-
-There is more than this. Something goes on within yourself. Because you are respected and admired you become more solid. You envisage your faults sanely. You are far from morbid. If you have the manhood to correct your failings, you correct them temperately. You have poise and grasp. If, more wisely, you indulge your foibles — why, that is a pardonable recreation. Your judgments are well-founded. You are tempted to nothing rash or perilous. You may be led, for the relief of tedium, into some slight eccentricity or other, but that will give you the more initiative and a strong personality: not exactly genius, for genius is a zigzag thing, burning and darting, unsuited to the true greatness of wealth. It has not enough ballast and repose.
-
-What is most important of all, those whose permanent affection you ardently desire, those whose good you crave, those whose respect you hunger for like food, will all of them at once respond to your desire if money backs it. You can give them what they really need, and you can give it them unexpectedly when they really need it. Thus do they associate you with happiness. You, meanwhile, can behave with the leisure that produces their respect. Gratitude will do the rest, or, at any rate, security, and the habit of knowing that from you proceeds so much good.
-
-Thus does dear Mammon give us half a Paradise on earth and a fine security within. Mammon is an Immediate Salvation. And the price you pay for that Salvation is not so very heavy after all: only a creeping gloom; a despair, turning iron and threatening to last for ever.
-
-So the whole thing may be summed up in a sentence that runs in my head more or less like this: “Make unto you friends of the Mammon of iniquity that they may receive you into their everlasting habitations.” My italics.
-
-
-
-
-<span class="atom-split" data-atom="story_08_on_treves" data-title="On — ON TREVES" data-chapter="ON TREVES" data-kind="story"></span>
-
-
-ON TREVES
-
-AS I STOOD in Treves Market Place the other day after an absence of seven years (and the war in between) I could not but wonder whether — since the tide in Europe has turned — the city would not recover what is, if they only knew it, the glory of these German towns: its individual tradition; its private excellence; its pride in antiquity.
-
-Treves as an outer frontier thing is unworthy of its history. Treves was never meant to be a dependency of vulgar Prussia. It is as old as Europe. It has, like all those towns of the Rhine basin — of which it is the last Western example — a faculty for preserving what is old and an active tradition within it of the Roman Empire. It was a provincial capital of that Empire just at the moment of the transition before the central government broke down, and the story of it from that time onwards has never been interrupted. There are many modern authorities who pretend (basing their thesis upon guesswork) that Treves and this lower valley of the Moselle was once Celtic — or, as we say to-day, French — that it was just like Toul, or Metz, or Verdun, but that the district was later overflowed by German speech; that it was invaded. There is no real or certain evidence for any change in the boundaries of German speech towards the West within recorded time. The various German dialects (which were, of course, not original at the beginning of our recorded history, but were already more than half Latin in their wording) reached to a certain limit which they have not overpassed in two thousand years, but from which also they have not receded. Treves, I take it, was what to-day we call German just as much when Priscillian was there condemned as it is to-day.
-
-The stamp of Rome is set upon it very largely, as it is upon everything German west of the central forests and the waste Baltic land. And Treves has the good fortune to have preserved great monuments of that time. The Black Gate is the most famous of them. But I am not sure that the restored Basilica, though most of its bricks are new, does not affect the traveller more.
-
-You might come upon that Basilica of Treves in Ravenna, and it would not be out of place. By a nice irony, its strict, solemn simplicity, its high, blind arches, regular and repetitive, its vast blank of wall, and all that reminds you of the later Cæsars, were given over for use as a garrison church to dull Pomeranium men from hundreds of miles away, a garrison which has now disappeared. By a nice irony, this astounding thing, instinct with Rome, was used for the artificial parade of Prussians who were as little native to Treves as one breed of similarly speaking men could be to another. This great church and the Black Gate at the other end of the town, piled up enormous above the market centre, are the chief standing recollections of that moment when the Empire had just settled into its Christian mould. They saw St. Martin coming in, as Milan had seen him. They saw the crowds that besieged the Imperial Courts when the Spanish bishop was condemned. They saw the procession that moved out to his beheading.
-
-And there is a third point in Treves which arrests one still more, although it is broken to an old ruin, and that is the remaining decayed defence of the old palace. It has been built up, and rebuilt up with rough stone, through the Dark Ages, so that now you look at the rude courses and the rough, half-buried arches as you look at a piece of Pevensey or Richborough. But the very fact of its continuous decline in grandeur recalls its continuous use, and you can stand in a roofless room which held in turn the Apostate and the giant Maximin, and which heard the high, piping voice of Charlemagne, incongruous with his tall presence and dignity.
-
-All that great transition from the pagan to the mediæval Europe one feels more at Treves even than one does at Aix; and this, I suppose, is because the roots of Treves go deeper; but partly, also, because Treves is more of a border town.
-
-Like every countryside in Europe, this rich pocket in the valley of the Moselle has kept its real spirit, its individual soul, alive underneath the covering of conquest and administration. If Treves were to-morrow to become again, as it was in the past for so many centuries, a State, there would be hardly any change to the eye. The same sharply-cut hills going in succession like cliffs along the valley — the typical hills of Lorraine which Claude loved — would still carry the same terraced vineyards, and the specially Northern cultivation of the grape would show all its accustomed marks.
-
-As one goes up the valley, one may still see upon one of the sandstone slabs of the steep above the river road, a sign marking the limit of the jurisdiction of the Archbishop, a crozier and a cross deeply carved into the smooth rock. It is a symbol of what Treves was in the past, of its strong local character and individuality. Perhaps some later symbol will mark the resurrection of that spirit.
-
-There is also in the heart of the town something which the people may well boast of as a mark of their Western inheritance. It is the first of the Gothic churches of Germany.
-
-It came surprisingly early. Suger had planted, during the Second Crusade, three miles north of the Gate of [[Paris]], the aboriginal pointed arch from which so vast a revolution in architecture was to spring. You get the cathedral of Notre Dame, and the whole movement of the Ile de France. But this little church, right up against the tremendous cathedral of the Dark Ages, this little church here, hundreds of miles away from the Gallic origin of such things, was begun actually within a hundred years of Suger’s innovation! St. Louis was still a boy, and so was Henry III of England, when the first stones of the delicate thing were laid here in Treves. How European and civilised a place it was in those days!
-
-And talking of this church, I came upon something there even more astonishing than its early witness to the Western spirit of Treves. Immediately to the left of the choir I also found a witness of the endurance of civilisation in Treves — a thing of, I suppose, the other day — a little statue in freestone, of the most heavenly sort: what the will of an English king prettily called “Mariolam quemdam”— “some little Madonna or other.”
-
-It seemed to be unknown. There was no reproduction of it in the town. No one had a photograph of it. No one could tell me who had carved it. It looked quite new. It was as good a thing as even I have seen. And it was here in Treves! It was in a place which finds itself upon the map (as the map still insecurely stands) mixed up with the monstrosities of the monument of Leipsic, the hideous vulgarity of the Hohenzollerns and their palace at Posen (but I forgot — Posen is no longer counted upon the same map; it has been restored to civilisation), the comic streets of Berlin.
-
-Seeing such a noble statue there, I thought to myself of what advantage it would be if the people who write about Europe would really travel. If only they would stop going from one large cosmopolitan hotel to another, and giving us cuttings from newspapers as the expressions of the popular soul! If only they would peer about and walk and see things with their eyes!
-
-This little statue to the left of the choir of Treves would be an education for such men. No longer would they talk of Treves as something identical with strange and distant Koenigsberg or as a cousin to base Frankfort. It would no longer be for them a railway station or a dot upon the map. Even as I looked at that statue I bethought myself of that other statue: the enormity at Metz. For, as we all know, the Prussian Government built, or rather plastered, onto the Western porch of Metz a red statue of the late Emperor and Prussian King. He appears as the Prophet Daniel! The rest of the cathedral is of a marvellous and aged grey, but he is red, carved out of red stone. He is dressed up in a sort of monk’s habit with a cowl. His moustaches are turned up fiercely at the end — and yet the statue is solemnly inscribed with that title: “The Prophet Daniel”....
-
-These are the things that our generation has seen and that posterity will not believe.
-
-
-
-
-<span class="atom-split" data-atom="story_02_on_an_educational_reform--part_01" data-title="On — ON AN EDUCATIONAL REFORM (part 1)" data-chapter="ON AN EDUCATIONAL REFORM" data-kind="excerpt"></span>
-
-
-ON AN EDUCATIONAL REFORM
-
-SINCE WE ARE determined (as I am not, but as all my colleagues seem to be) that a new world has arisen; since, therefore, all institutions may be remodelled at will, I trust there will appear in the education of wealthy children a reform overdue these many years.
-
-This reform is an addition, of a certain subject, to the curriculum of schools. We have all at one time or another deplored its absence: we all, in one crisis or another of our lives, recognise its necessity. If it be true that we have to-day an opportunity for new things, do let us inaugurate this novelty at least, which would be of such vast advantage to the generation now sprouting. And the new subject is Fraud.
-
-Fraud is the sole basis of the only form of success recognised among us. By Fraud alone are those vast fortunes suddenly acquired which — and which only — are the condition of greatness in a modern man.
-
-Fraud is the master subject, ignorance or inability in which dooms a man to toil and obscurity. Yet Fraud is never taught at school. Men who had the parts for a most brilliant career fail on leaving the Academies because they are outwitted by Guttersnipes who have no letters but can cheat.
-
-There used to be taught in schools Latin and Greek after a grammatical fashion, which made the better pupils true masters of the inwards of these languages. When they were so formed they were called “scholars.” To this expertise was added some knowledge of a foreign language (usually French or German, but only a smattering thereof), and latterly also the elements of physical science and of mathematics, until these last branches took up so much time that often a choice was made between them and the older humanities.
-
-So far, so good. Indirectly the young people were taught also the manner of their society, and this especially through the modern discipline of games. But there is not one of them (and I speak with feeling on the matter, for I have experience myself) who upon leaving school or the University has not suddenly found himself in a world where a ready practice in cheating proved the only thing of serious importance and yet was to him quite unfamiliar. He found himself, usually without resources, cast upon a world, wherein survival (or even decent honour and spiritual security) depended upon the exercise of certain arts of deceit to which he had never been trained, and which he must acquire at his peril. In proportion as he failed to acquire these arts he failed altogether and was cast away.
-
-Every one will admit that the swindling of one’s fellow-beings is a necessary practice. Upon it is based all really sound commercial success, and through it men arrive at those solid positions which command the honour and respect of our contemporaries. Thus, the chief way of making money is by buying cheap and selling dear, or, rather, by buying cheap and selling dear quickly; but when you buy cheap you only do so by taking in the vendor, and, when you sell dear, the purchaser. Your action may be remote and indirect, as when you gamble upon the Stock Exchange. It is commonly direct and personal as when you acquire under contract the services of another man. But it is essentially an exercise in overreaching. It is of its very nature getting some other human being into a state of mind in which he underestimates what you desire to get out of him or overestimates what you desire to unload upon him. Thus, in my own poor trade, I am a good business man if I can persuade some unhappy publisher or newspaper owner that the public is athirst for my words. Conversely, my honourable employers and masters will be good business men if they persuade me that no one is so base as to want to hear me at all, and that I am only employed as a sort of charity. And so it is with the selling of a boat or a house, or with the buying of land.
-
-Another master-gate to fortune is abuse of confidence: you persuade men to entrust you with money for one purpose and then use it secretly for a very different end. If you bring off the deal it is your gain. If you drop the money the loss is theirs.
-
-Another royal road is “merger”; another false description; another plain straightforward theft.
-
-All these repose on a sound talent in Fraud, and, in general, so it is in all forms of fortune-getting, save in the highly specialised craft or mystery of blackmail. Upon cheating all honour, and therefore all happiness, depends. It is wealth so made which (save for those who inherit wealth and who are securely tied up as well) determines the position of a man to-day among his fellows.
-
-Well, what trace is there of this great truth in the curriculum of our schools? It is entirely neglected! I admit that pomposity, which is a necessary element in all success, is indirectly taught. I admit still more freely and fully that the spirit of falsehood is taught as a sort of general subject, but I maintain that swindling as a particular subject is not taught at all, and even the most elementary forms of it, with which every boy ought to be acquainted in his early ‘teens, come upon him with a shock when he is already a young married man launched in life and, as the phrase goes, battling with the world.
-
-This, I say, is a shameful neglect. Here is an instance: the most elementary form of swindling, that which is, as it were, the gambit of every operation, and that which is the sum total of all the simpler operations of commerce, consists in giving a verbal assurance which it is intended to repudiate later by document or action. You promise a man something which you do not intend to perform, or you give a false description which reality will later expose, or in some other way you use the psychology of affirmation to your advantage.
-
-Well, what could be simpler than to have a class (even if it were but half an hour a week) where all boys over a certain age could be trained by example both to be upon their guard against the false affirmation of others and (what is more important) to make false but plausible affirmations themselves with all the boldness which breeds success — to make affirmations particular, affirmations emphatic, affirmations probable, affirmations flattering.
-
-
-
-
-<span class="atom-split" data-atom="story_02_on_an_educational_reform--part_02" data-title="On — ON AN EDUCATIONAL REFORM (part 2)" data-chapter="ON AN EDUCATIONAL REFORM" data-kind="excerpt"></span>
-
-
-Even the negative side of this very necessary piece of training is omitted, and boys are not taught (at least in any school with which I have acquaintance) the importance of economy in falsehood.
-
-The immature mind will, of course, tend to falsehood as a natural human instinct, but the force of kindly nature is here wasted because it lacks direction. Young men go out into the world lying freely about the grandeur of their acquaintance, their personal prowess, and the rest, all matters conducing in no way to the accumulation of wealth — which is the end of man. Now, what could be simpler than, in such a class as I suggest (I admit that half an hour a week is rather short commons, but everything must have a beginning) — what could be simpler than to give some direction at least to this pseudological factor in the mind and train it to the right end?
-
-Examples should be set before youth. Let the master recite some braggart story of strength or skill such as is common among the young of the rich. Then let him show what a waste of energy it is, and how an equal amount of pseudological force expended in a useful channel, a false description or a flattery, might have earned £100. “It is just as easy,” the good preceptor would tell his young charges, “to brag about a horse that you want to sell as about, say, your horsemanship, for which there is no market. It is just as easy to lie about the value of something you have for sale as it is to lie about your lineage. But in the first case you trouser the dibs, while in the second there is no stuff — it is wasted effort. Remember, therefore, my dear boys, to check yourselves when you are about to tell an uneconomical falsehood. Count ten before you speak and consider whether there be not ready to your hand some subject in which you can fully satisfy this natural instinct of lying and at the same time prepare some advantage for your pocket.”
-
-It may be objected to me that if this very necessary reform were introduced and the elements of modern commerce were taught in all our schools, the results would cancel out; for since all our youth would be forearmed, there would still be waged in the great world outside the conflict of the better sharper against the worse, with victory as now to the master-thief. But such an objection applies to all forms of learning. My desire is to raise the general level of our gentry in this department, and especially not to leave men in middle age with the bitter memory of lost opportunities: opportunities lost through no personal fault but through the neglect of those who had a sacred trust and who did not fulfil it. At least let the man of fifty be able to say to himself: “I had every advantage. My masters at school (and no one more than my dear old headmaster, Dr. Buggins) repeatedly warned me against the peril of honesty and were at pains to teach me how to overreach the innocent; if I have proved clumsy and am now living as a publisher’s hack, the fault is all with me.” As things now are, many a man who has sunk to be a proof-reader, or even an author, is, in his heart, bitterly reproaching those who launched him upon the world quite ignorant of affairs.
-
-I conceive that the educationist who is ever eager to improve his changing science will here suggest particular subjects in this new department. He will see an expanding horizon of opportunity. My words have roused enthusiasm in him. He will ask me, for instance, why I have not included special classes in blackmail, monopoly, bullying, bribery, perjury, and so forth.
-
-Yes, certainly; all these should have their place, especially for older boys. But they may well be considered later. Perhaps such subjects would best be left to special institutions, such as those which were so successful in the last generation under the name of “crammers.” Blackmail in particular, very like the art of outflanking in military science, requires a judgment of the world to which the mind can hardly attain till it is mature. Napoleon said: “Beware when you attempt to outflank that you be not outflanked yourself”; a sound saying, for any one in process of edging round his opponent extends his own communications, and leaves an opportunity for that opponent to edge round him. And so it is with blackmail; too often the blackmailer just in the act of seizing his prize (a post in the Ministry or what not) feels a sharp bite and discovers to his horror that the tables are turned.
-
-In a word, the teaching of this art of blackmail is the teaching of a very difficult and skilful, complex action which must not be attempted rashly, and that is why I have some hesitation in recommending it for the ordinary curriculum of schools. Nevertheless, the very rudiments of it, or, at any rate, some idea of what it is, might profitably be given even to the younger boys, and for this purpose I would suggest a visit to some neighbouring aquarium, where the slow antics of the crab in his tank so graphically mimic our public life. The attention of the lads could be directed by their master to the alternate furtive movements of two crabs. They will observe how the first pursues the second sideways across the tank and makes a clutch with his claw, how the second eludes this and in his turn chases his opponent off. “This grotesque manœuvre, my dear boys,” the Pastor will declaim, “may remain in your minds as an example of what later you will be called upon to do if you are called to serve your country in Parliament.”
-
-The youngsters will soon forget all about it, as is the fashion of boys with their lessons; but something, I think, will remain in the mind, though half obscured by time. And when they come to the vast affairs of which Westminster is the theatre, the object-lesson of the two crabs will not be without service to them.
-
-Bribery, I take it, should not be taught except in the point of degree, for it comes naturally enough to all men both to give and to take bribes, and all that you need fix in the young mind is the double importance of avoiding avarice upon the one side and lavishness upon the other. For the taking of a bribe no art or training whatsoever is required, but in the giving of bribes it is of some importance not to give too much, and of absolutely vital importance not to offer too little. It is upon this last point that many a noble career has made shipwreck.
-
-I have in mind one poor fellow whose father had left him a few millions. He was perpetually putting down, with all manner of hesitation, sums just insufficient to purchase the object of his desires. In the long run he had disbursed what should easily have commanded a high administrative position in the Cabinet, a Viceroyalty or a first-class Embassy. Yet he had nothing to show for it all but one private secretaryship, two chairmanships of committee, and a baronetcy: and this last only because he was childless.
 
 
 
@@ -1923,6 +1813,116 @@ But I myself have had a similar experience (as the silent man said when his host
 Here you will say to me what is said to every reformer: “What would you put in its place if you killed the little footnote, all so delicate and compact? How could you replace it? How can we know that the historian is telling the truth unless he gives us his references? It is true that it prevents history from being properly written and makes it, to-day, unreadable. It is true that it has become charlatan and therefore historically almost useless. But you must have some guarantee of original authority. How will you make sure of it?”
 
 I should answer, let a man put his footnotes in very small print indeed at the end of a volume, and, if necessary, let him give specimens rather than a complete list. For instance, let a man who writes history as it should be written — with all the physical details in evidence, the weather, the dress, colours, everything — write on for the pleasure of his reader and not for his critic. But let him take sections here and there, and in an appendix show the critic how it is being done. Let him keep his notes and challenge criticism. I think he will be secure. He will not be secure from the anger of those who cannot write clearly, let alone vividly, and who have never in their lives been able to resurrect the past, but he will be secure from their destructive effect.
+
+
+
+
+<span class="atom-split" data-atom="story_06_footnotes" data-title="On — FOOTNOTES:" data-chapter="FOOTNOTES" data-kind="story"></span>
+
+
+FOOTNOTES:
+
+I SHOULD HAVE said, nothing.
+
+This is a good opportunity, observe: — Gibbon, Dec. and Fall of Rom. Emp., Ed. 1831 (Cassell), Chap. XXIII, Par. 27, n. 125. Does it not look impressive?
+
+
+
+
+<span class="atom-split" data-atom="story_07_a_few_kind_words_to_mammon" data-title="On — A FEW KIND WORDS TO MAMMON" data-chapter="A FEW KIND WORDS TO MAMMON" data-kind="story"></span>
+
+
+A FEW KIND WORDS TO MAMMON
+
+A FRIEND OF mine once wrote a parable (“and if these words should meet his eye,” etc.). I have not seen it written down. It may have been written down. But in its verbal form it was something like this (as it was told to me).
+
+A number of candidates were offered what they would choose. But they could choose only one thing each. The first chose health. And the second, beauty. And the third, virtue. And the fourth, form. And the fifth, ticklishness, which means an active sense. And the sixth, forgetfulness. And the seventh, honesty. And the eighth, immunity from justice. And the ninth, courage. And the tenth, experience. And the eleventh, the love of others for him. And the twelfth, his love for others. But the thirteenth (they were thirteen, including Judas) chose money. And he chose wisely, for in choosing this, all the others were added unto him.
+
+If ever I complete that book which I began in the year 1898 called “Advice to a Young Man” (I was twenty-eight years of age at the moment I undertook it) it will there be apparent by example, closely reasoned argument, and (what is more convincing than all) rhetoric, that money is the true source of every delight, satisfaction, and repose.
+
+Do not imagine that, upon this account, I advise the young to seek money in amounts perpetually extending. Far from it! I advise the young (in this my uncompleted book) to regulate their thirst for money most severely.
+
+“Great sums of money” (said I, and say I) “are only to be obtained by risking ruin, and of a hundred men that run the risk ninety-nine get the ruin and only one the money.” But money as a solid object; money pursued, accumulated, possessed, enjoyed, bearing fruit: that is the captain good of human life.
+
+When people say that money is only worth what it will purchase, and that it will purchase only certain things, they invariably make a category of certain material things which it will purchase, and imagine or hope that it will purchase no more. And these categories, remember, are drawn up always by unmoneyed men. For your moneyed man has no need to work and therefore no need to draw up categories, which is a very painful form of toil. They say money will purchase motor-cars and bathrooms — several bathrooms — and foods and drinks and the rest of it — and then its power is exhausted.
+
+These fools leave out two enormous chapters — the biggest chapters of the lot. They leave out the services of other men, always purchasable. And they leave out the souls of other men often purchasable. With money in a sufficient amount you can purchase any service, and with money you can purchase many individual souls.
+
+Now, that is important.
+
+Take the purchasing of services with money. You start a newspaper. Perhaps you cannot write very well yourself. I have known very many extremely rich men whose writing was insignificant — never persuasive or enduring in effect. The greater part of them cannot write for more than a few minutes without breaking down. Just as an elderly man cannot play Rugby football for more than a few minutes or so without breaking down. But they can hire men to write. And they do. They do not exactly buy the souls of those men they hire. They only buy the services. Often enough have I had a pleasant talk with one of these serfs in private when his daily task was done (at from one to three thousand a year) concerning the vices of his master and the follies which he (the serf) had had to defend with his pen.
+
+But to be able to purchase the services of men thus (I am only speaking of my own trade, but all other trades are equally purchasable, and the lawyers actually advertise that they are purchasable!) — to be able, I say, to purchase services thus is a category ridiculously neglected by those who pretend that money brings nothing but material enjoyment.
+
+It brings, for instance, immunity from the criminal law. At least it does to-day. It did not until modern times even here, but it does to-day. If you doubt it, take a little bit of paper and mark the men who have been sent to prison during your own lifetime while possessed (not after having been possessed) of five thousand a year. It is an instructive winter game.
+
+But if money can purchase services it can also, with less certitude, but on a very large scale, purchase those other little things we noted — the souls of men. Here there is a distinction.
+
+When you purchase a service you do not necessarily purchase a soul. You only purchase a soul when, by the action of your money, you corrupt the individual. I do not say “corrupt him beyond all salvation,” but, at any rate, beyond any remaining desire for salvation. When, for instance, by the possession of money, you acquire the respect of a man, you are, to a small extent, purchasing his soul. When by the action of money you make a man fall into certain habits which at last become his character, you are purchasing a soul.
+
+I keep on saying “you,” though I know well enough, wretched reader, that you are in no position to do all this. In fact, you find it the devil and all to purchase what is necessary for your household. If you are a man with a thousand a year, for instance (there have just passed my window three men with a good deal less, not judged by their clothes but by my knowledge of them in a countryside), then you are worth what was called before the war about four hundred pounds a year. Taxation and Inflation, the twin gods that rhyme, have done for the rest.
+
+If you are what they called before the war a rich man (you will excuse me, but random essays are read by all sorts of people), if you were, say, a squire with six thousand a year, you are now worth what your local scribbler at two thousand a year was worth before the war. Horrible but true. So when I say “you,” I only do so by way of rhetoric and of shorthand. I cannot be pestered to know what each of you is exactly worth, and, upon my soul, as things now are, I do not think any one of you exactly knows.
+
+To return. I say that money, acting thus, purchases souls. It purchases souls not only in regardant, but in gross. In regardant, I may explain, means “as regards the particular relation between one soul and its purchaser,” while in gross means “of the world in general.”
+
+Thus a man may be a serf regardant when he is a serf to a particular lord, but not a serf in his general status. Or he may be a serf in gross, that is, a serf to anybody who comes across him. And in the same way, there is a cad regardant and a cad in gross, and still more is there a coward regardant and a coward in gross. For instance, a man may be a general coward, and that is being a coward in gross, or he may be a particular coward in the matter of riding a particular horse, and then he is only a coward regardant.
+
+I say, then, that the power of your money to purchase souls may be in gross or regardant. It may purchase a particular soul, in which case, God help you! Or it may have a general effect upon All Souls (I mean not the College but the generality of mankind, for whom I postulate souls), and in this case you are not perhaps very much to blame. It is rather their fault than yours.
+
+When your money has purchased souls in gross — gross souls in gross and grossly purchased by the gross — it means that you are worshipped for your money, and this is as common a worship as the worship men give to their country.
+
+There is a kind of insufficiency — I had almost called it idiocy — which tries to shuffle out of this valuable truth by pointing to particular cases (there are perhaps half a dozen at one time in a great community like ours) of men who, possessing great wealth, are yet not respected. But you will find that these are exceptions who have deliberately done all that they could not to be respected. The ruck of men with large fortunes are respected for all those things which money is supposed to bring — justice, kindliness, humour, temperance, courage and judgment. And even the very few rich men who are not respected are still admired for some mystical quality. “There must have been something in the man for him to have made half a million before he was forty.”
+
+I should have said, “There must have been something lacking in other men for this guttersnipe to have got so much out of them,” but I am here deliberately the devil’s advocate, and I know that I have not a leg to stand on.
+
+If you are possessed of great wealth ... (Digression: Little wealth is disgusting, like mediocrity in verse. If you are going in for being wealthy you must be very wealthy or not wealthy at all. Anywhere in a plutocracy may you see the very wealthy hobnobbing with poor hack-writers and versifiers and essay writers and such, but never with the quarter-wealthy or the eighth-wealthy) ... if you are possessed of great wealth, I say you are, in a plutocracy, a great man. You are both loved and feared; everywhere respected and also admired. Your good qualities are as enduring as stone; your evil qualities are either transformed into something slight and humorous or sublimated till they disappear.
+
+There is more than this. Something goes on within yourself. Because you are respected and admired you become more solid. You envisage your faults sanely. You are far from morbid. If you have the manhood to correct your failings, you correct them temperately. You have poise and grasp. If, more wisely, you indulge your foibles — why, that is a pardonable recreation. Your judgments are well-founded. You are tempted to nothing rash or perilous. You may be led, for the relief of tedium, into some slight eccentricity or other, but that will give you the more initiative and a strong personality: not exactly genius, for genius is a zigzag thing, burning and darting, unsuited to the true greatness of wealth. It has not enough ballast and repose.
+
+What is most important of all, those whose permanent affection you ardently desire, those whose good you crave, those whose respect you hunger for like food, will all of them at once respond to your desire if money backs it. You can give them what they really need, and you can give it them unexpectedly when they really need it. Thus do they associate you with happiness. You, meanwhile, can behave with the leisure that produces their respect. Gratitude will do the rest, or, at any rate, security, and the habit of knowing that from you proceeds so much good.
+
+Thus does dear Mammon give us half a Paradise on earth and a fine security within. Mammon is an Immediate Salvation. And the price you pay for that Salvation is not so very heavy after all: only a creeping gloom; a despair, turning iron and threatening to last for ever.
+
+So the whole thing may be summed up in a sentence that runs in my head more or less like this: “Make unto you friends of the Mammon of iniquity that they may receive you into their everlasting habitations.” My italics.
+
+
+
+
+<span class="atom-split" data-atom="story_08_on_treves" data-title="On — ON TREVES" data-chapter="ON TREVES" data-kind="story"></span>
+
+
+ON TREVES
+
+AS I STOOD in Treves Market Place the other day after an absence of seven years (and the war in between) I could not but wonder whether — since the tide in Europe has turned — the city would not recover what is, if they only knew it, the glory of these German towns: its individual tradition; its private excellence; its pride in antiquity.
+
+Treves as an outer frontier thing is unworthy of its history. Treves was never meant to be a dependency of vulgar Prussia. It is as old as Europe. It has, like all those towns of the Rhine basin — of which it is the last Western example — a faculty for preserving what is old and an active tradition within it of the Roman Empire. It was a provincial capital of that Empire just at the moment of the transition before the central government broke down, and the story of it from that time onwards has never been interrupted. There are many modern authorities who pretend (basing their thesis upon guesswork) that Treves and this lower valley of the Moselle was once Celtic — or, as we say to-day, French — that it was just like Toul, or Metz, or Verdun, but that the district was later overflowed by German speech; that it was invaded. There is no real or certain evidence for any change in the boundaries of German speech towards the West within recorded time. The various German dialects (which were, of course, not original at the beginning of our recorded history, but were already more than half Latin in their wording) reached to a certain limit which they have not overpassed in two thousand years, but from which also they have not receded. Treves, I take it, was what to-day we call German just as much when Priscillian was there condemned as it is to-day.
+
+The stamp of Rome is set upon it very largely, as it is upon everything German west of the central forests and the waste Baltic land. And Treves has the good fortune to have preserved great monuments of that time. The Black Gate is the most famous of them. But I am not sure that the restored Basilica, though most of its bricks are new, does not affect the traveller more.
+
+You might come upon that Basilica of Treves in Ravenna, and it would not be out of place. By a nice irony, its strict, solemn simplicity, its high, blind arches, regular and repetitive, its vast blank of wall, and all that reminds you of the later Cæsars, were given over for use as a garrison church to dull Pomeranium men from hundreds of miles away, a garrison which has now disappeared. By a nice irony, this astounding thing, instinct with Rome, was used for the artificial parade of Prussians who were as little native to Treves as one breed of similarly speaking men could be to another. This great church and the Black Gate at the other end of the town, piled up enormous above the market centre, are the chief standing recollections of that moment when the Empire had just settled into its Christian mould. They saw St. Martin coming in, as Milan had seen him. They saw the crowds that besieged the Imperial Courts when the Spanish bishop was condemned. They saw the procession that moved out to his beheading.
+
+And there is a third point in Treves which arrests one still more, although it is broken to an old ruin, and that is the remaining decayed defence of the old palace. It has been built up, and rebuilt up with rough stone, through the Dark Ages, so that now you look at the rude courses and the rough, half-buried arches as you look at a piece of Pevensey or Richborough. But the very fact of its continuous decline in grandeur recalls its continuous use, and you can stand in a roofless room which held in turn the Apostate and the giant Maximin, and which heard the high, piping voice of Charlemagne, incongruous with his tall presence and dignity.
+
+All that great transition from the pagan to the mediæval Europe one feels more at Treves even than one does at Aix; and this, I suppose, is because the roots of Treves go deeper; but partly, also, because Treves is more of a border town.
+
+Like every countryside in Europe, this rich pocket in the valley of the Moselle has kept its real spirit, its individual soul, alive underneath the covering of conquest and administration. If Treves were to-morrow to become again, as it was in the past for so many centuries, a State, there would be hardly any change to the eye. The same sharply-cut hills going in succession like cliffs along the valley — the typical hills of Lorraine which Claude loved — would still carry the same terraced vineyards, and the specially Northern cultivation of the grape would show all its accustomed marks.
+
+As one goes up the valley, one may still see upon one of the sandstone slabs of the steep above the river road, a sign marking the limit of the jurisdiction of the Archbishop, a crozier and a cross deeply carved into the smooth rock. It is a symbol of what Treves was in the past, of its strong local character and individuality. Perhaps some later symbol will mark the resurrection of that spirit.
+
+There is also in the heart of the town something which the people may well boast of as a mark of their Western inheritance. It is the first of the Gothic churches of Germany.
+
+It came surprisingly early. Suger had planted, during the Second Crusade, three miles north of the Gate of [[Paris]], the aboriginal pointed arch from which so vast a revolution in architecture was to spring. You get the cathedral of Notre Dame, and the whole movement of the Ile de France. But this little church, right up against the tremendous cathedral of the Dark Ages, this little church here, hundreds of miles away from the Gallic origin of such things, was begun actually within a hundred years of Suger’s innovation! St. Louis was still a boy, and so was Henry III of England, when the first stones of the delicate thing were laid here in Treves. How European and civilised a place it was in those days!
+
+And talking of this church, I came upon something there even more astonishing than its early witness to the Western spirit of Treves. Immediately to the left of the choir I also found a witness of the endurance of civilisation in Treves — a thing of, I suppose, the other day — a little statue in freestone, of the most heavenly sort: what the will of an English king prettily called “Mariolam quemdam”— “some little Madonna or other.”
+
+It seemed to be unknown. There was no reproduction of it in the town. No one had a photograph of it. No one could tell me who had carved it. It looked quite new. It was as good a thing as even I have seen. And it was here in Treves! It was in a place which finds itself upon the map (as the map still insecurely stands) mixed up with the monstrosities of the monument of Leipsic, the hideous vulgarity of the Hohenzollerns and their palace at Posen (but I forgot — Posen is no longer counted upon the same map; it has been restored to civilisation), the comic streets of Berlin.
+
+Seeing such a noble statue there, I thought to myself of what advantage it would be if the people who write about Europe would really travel. If only they would stop going from one large cosmopolitan hotel to another, and giving us cuttings from newspapers as the expressions of the popular soul! If only they would peer about and walk and see things with their eyes!
+
+This little statue to the left of the choir of Treves would be an education for such men. No longer would they talk of Treves as something identical with strange and distant Koenigsberg or as a cousin to base Frankfort. It would no longer be for them a railway station or a dot upon the map. Even as I looked at that statue I bethought myself of that other statue: the enormity at Metz. For, as we all know, the Prussian Government built, or rather plastered, onto the Western porch of Metz a red statue of the late Emperor and Prussian King. He appears as the Prophet Daniel! The rest of the cathedral is of a marvellous and aged grey, but he is red, carved out of red stone. He is dressed up in a sort of monk’s habit with a cowl. His moustaches are turned up fiercely at the end — and yet the statue is solemnly inscribed with that title: “The Prophet Daniel”....
+
+These are the things that our generation has seen and that posterity will not believe.
 
 
 

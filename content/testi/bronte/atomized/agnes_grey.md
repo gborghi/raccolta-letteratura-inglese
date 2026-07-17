@@ -7003,1758 +7003,6 @@ _Spottiswode & Co. Ltd._, _Printers_, _London_. _Colchester and Eton_.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="Agnes Grey — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
-
-
-CHAPTER VI.
-THE PARSONAGE AGAIN
-
-
-For a few months I remained peaceably at [[Home|home]], in the quiet enjoyment
-of liberty and rest, and genuine [[Friendship|friendship]], from all of which I had
-fasted so long; and in the earnest prosecution of my studies, to
-recover what I had lost during my stay at Wellwood [[house|House]], and to lay in
-new stores for future use. My father’s health was still very infirm,
-but not materially worse than when I last saw him; and I was glad I had
-it in my power to cheer him by my return, and to amuse him with singing
-his favourite [[songs]].
-
-No one triumphed over my failure, or said I had better have taken his
-or her advice, and quietly stayed at [[Home|home]]. All were glad to have me
-back again, and lavished more kindness than ever upon me, to make up
-for the sufferings I had undergone; but not one would touch a shilling
-of what I had so cheerfully earned and so carefully saved, in the [[Hope|hope]]
-of sharing it with them. By dint of pinching here, and scraping there,
-our debts were already nearly paid. Mary had had good [[success]] with her
-drawings; but our father had insisted upon _her_ likewise keeping all
-the produce of her industry to herself. All we could spare from the
-supply of our humble wardrobe and our little casual expenses, he
-directed us to put into the savings’-bank; saying, we knew not how soon
-we might be dependent on that [[Alone|alone]] for support: for he felt he had not
-long to be with us, and what would become of our mother and us when he
-was gone, God only knew!
-
-Dear papa! if he had troubled himself less about the afflictions that
-threatened us in case of his [[Death|death]], I am convinced that dreaded event
-would not have taken place so soon. My mother would never suffer him to
-ponder on the subject if she could help it.
-
-“Oh, [[Richard]]!” exclaimed she, on one occasion, “if you would but
-dismiss such gloomy subjects from your mind, you would live as long as
-any of us; at least you would live to see the girls married, and
-yourself a happy grandfather, with a canty old dame for your
-companion.”
-
-My mother laughed, and so did my father: but his laugh soon perished in
-a dreary sigh.
-
-“_They_ married—poor penniless things!” said he; “who will take them I
-[[Wonder|wonder]]!”
-
-“Why, nobody shall that isn’t thankful for them. Wasn’t I penniless
-when you took me? and you _pretended_, at least, to be vastly pleased
-with your acquisition. But it’s no matter whether they get married or
-not: we can devise a thousand honest ways of making a livelihood. And I
-[[Wonder|wonder]], [[Richard]], you can think of bothering your head about our
-_poverty_ in case of your [[Death|death]]; as if _that_ would be anything
-compared with the calamity of losing you—an affliction that you [[Well|well]]
-know would [[Swallow|swallow]] up all others, and which you ought to do your utmost
-to preserve us from: and there is nothing like a cheerful mind for
-keeping the [[Body|body]] in health.”
-
-“I know, Alice, it is wrong to keep repining as I do, but I cannot help
-it: you must bear with me.”
-
-“I _won’t_ bear with you, if I can alter you,” replied my mother: but
-the harshness of her words was undone by the earnest affection of her
-tone and pleasant smile, that made my father smile again, less sadly
-and less transiently than was his wont.
-
-“Mamma,” said I, as soon as I could find an opportunity of speaking
-with her [[Alone|alone]], “my money is but little, and cannot last long; if I
-could increase it, it would lessen papa’s anxiety, on one subject at
-least. I cannot draw like Mary, and so the best thing I could do would
-be to look out for another situation.”
-
-“And so you would actually try again, Agnes?”
-
-“Decidedly, I would.”
-
-“Why, my dear, I should have thought you had had enough of it.”
-
-“I know,” said I, “everybody is not like Mr. and Mrs. Bloomfield—”
-
-“Some are worse,” interrupted my mother.
-
-“But not many, I think,” replied I, “and I’m sure all children are not
-like theirs; for I and Mary were not: we always did as you bid us,
-didn’t we?”
-
-“Generally: but then, I did not spoil you; and you were not perfect
-angels after all: Mary had a fund of quiet obstinacy, and you were
-somewhat faulty in regard to temper; but you were very good children on
-the whole.”
-
-“I know I was sulky sometimes, and I should have been glad to see these
-children sulky sometimes too; for then I could have understood them:
-but they never were, for they _could_ not be offended, nor hurt, nor
-ashamed: they could not be unhappy in any way, except when they were in
-a passion.”
-
-“[[Well]], if they _could_ not, it was not their fault: you cannot expect
-stone to be as pliable as clay.”
-
-“No, but still it is very unpleasant to live with such unimpressible,
-incomprehensible creatures. You cannot [[Love|love]] them; and if you could,
-your [[Love|love]] would be utterly thrown away: they could neither return it,
-nor value, nor understand it. But, however, even if I should stumble on
-such a family again, which is quite unlikely, I have all this
-experience to begin with, and I should manage better another [[Time|time]]; and
-the end and aim of this preamble is, let me try again.”
-
-“[[Well]], my girl, you are not easily discouraged, I see: I am glad of
-that. But, let me tell you, you are a good deal paler and thinner than
-when you first left [[Home|home]]; and we cannot have you undermining your
-health to hoard up money either for yourself or others.”
-
-“Mary tells me I am changed too; and I don’t much [[Wonder|wonder]] at it, for I
-was in a constant state of agitation and anxiety all day long: but next
-[[Time|time]] I am determined to take things coolly.”
-
-After some further discussion, my mother promised once more to assist
-me, provided I would wait and be patient; and I left her to broach the
-matter to my father, when and how she deemed it most advisable: never
-doubting her ability to obtain his consent. Meantime, I searched, with
-great interest, the advertising columns of the newspapers, and wrote
-answers to every “Wanted a Governess” that appeared at all eligible;
-but all my letters, as [[Well|well]] as the replies, when I got any, were
-dutifully shown to my mother; and she, to my chagrin, made me reject
-the situations one after another: these were low people, these were too
-exacting in their demands, and these too niggardly in their
-remuneration.
-
-“Your talents are not such as every poor clergyman’s daughter
-possesses, Agnes,” she would say, “and you must not throw them away.
-Remember, you promised to be patient: there is no need of hurry: you
-have plenty of [[Time|time]] before you, and may have many chances yet.”
-
-At length, she advised me to put an advertisement, myself, in the
-paper, stating my qualifications, &c.
-
-“Music, singing, drawing, French, Latin, and German,” said she, “are no
-mean assemblage: many will be glad to have so much in one instructor;
-and this [[Time|time]], you shall try your fortune in a somewhat higher
-family—in that of some genuine, thoroughbred gentleman; for such are
-far more likely to treat you with proper respect and consideration than
-those purse-proud tradespeople and arrogant upstarts. I have known
-several among the higher ranks who treated their governesses quite as
-one of the family; though some, I allow, are as insolent and exacting
-as any one else can be: for there are bad and good in all classes.”
-
-The advertisement was quickly written and despatched. Of the two
-parties who answered it, but one would consent to give me fifty pounds,
-the sum my mother bade me name as the salary I should require; and
-here, I hesitated about engaging myself, as I feared the children would
-be too old, and their parents would require some one more showy, or
-more experienced, if not more accomplished than I. But my mother
-dissuaded me from declining it on that account: I should do vastly
-[[Well|well]], she said, if I would only throw aside my diffidence, and acquire
-a little more confidence in myself. I was just to give a plain, true
-statement of my acquirements and qualifications, and name what
-stipulations I chose to make, and then await the result. The only
-stipulation I ventured to propose, was that I might be allowed two
-months’ holidays during the year to visit my friends, at Midsummer and
-Christmas. The unknown lady, in her reply, made no objection to this,
-and stated that, as to my acquirements, she had no [[Doubt|doubt]] I should be
-able to give satisfaction; but in the engagement of governesses she
-considered those things as but subordinate points; as being situated in
-the neighbourhood of O——, she could get masters to supply any
-deficiencies in that respect: but, in her opinion, next to
-unimpeachable [[morality]], a mild and cheerful temper and obliging
-disposition were the most essential requisities.
-
-My mother did not relish this at all, and now made many objections to
-my accepting the situation; in which my sister warmly supported her:
-but, unwilling to be balked again, I overruled them all; and, having
-first obtained the consent of my father (who had, a short [[Time|time]]
-previously, been apprised of these transactions), I wrote a most
-obliging epistle to my unknown correspondent, and, finally, the bargain
-was concluded.
-
-It was decreed that on the last day of January I was to enter upon my
-new office as governess in the family of Mr. Murray, of Horton Lodge,
-near O——, about seventy miles from our village: a formidable distance
-to me, as I had never been above twenty miles from [[Home|home]] in all the
-course of my twenty years’ sojourn on earth; and as, moreover, every
-individual in that family and in the neighbourhood was utterly unknown
-to myself and all my acquaintances. But this rendered it only the more
-piquant to me. I had now, in some measure, got rid of the _mauvaise
-honte_ that had formerly oppressed me so much; there was a pleasing
-excitement in the idea of entering these unknown regions, and making my
-way [[Alone|alone]] among its strange inhabitants. I now flattered myself I was
-going to see something in the world: Mr. Murray’s residence was near a
-large town, and not in a manufacturing district, where the people had
-nothing to do but to make money; his rank from what I could gather,
-appeared to be higher than that of Mr. Bloomfield; and, doubtless, he
-was one of those genuine thoroughbred gentry my mother spoke of, who
-would treat his governess with due consideration as a respectable
-[[Well|well]]-educated lady, the instructor and guide of his children, and not a
-mere upper servant. Then, my pupils being older, would be more
-rational, more teachable, and less troublesome than the last; they
-would be less confined to the schoolroom, and not require that constant
-labour and incessant watching; and, finally, bright visions mingled
-with my hopes, with which the care of children and the mere duties of a
-governess had little or nothing to do. Thus, the reader will see that I
-had no claim to be regarded as a martyr to filial piety, going forth to
-sacrifice peace and liberty for the sole purpose of laying up stores
-for the comfort and support of my parents: though certainly the comfort
-of my father, and the future support of my mother, had a large share in
-my calculations; and fifty pounds appeared to me no ordinary sum. I
-must have decent clothes becoming my station; I must, it seemed, put
-out my washing, and also pay for my four annual journeys between Horton
-Lodge and [[Home|home]]; but with strict attention to economy, surely twenty
-pounds, or little more, would cover those expenses, and then there
-would be thirty for the bank, or little less: what a valuable addition
-to our stock! Oh, I must struggle to keep this situation, whatever it
-might be! both for my own [[Honour|honour]] among my friends and for the solid
-services I might render them by my continuance there.
-
-
-
-
-<span class="atom-split" data-atom="chapter_08" data-title="Agnes Grey — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
-
-
-CHAPTER VIII.
-THE “COMING OUT”
-
-
-At eighteen, Miss Murray was to emerge from the quiet obscurity of the
-schoolroom into the full blaze of the fashionable world—as much of it,
-at least, as could be had out of [[London]]; for her papa could not be
-persuaded to leave his rural pleasures and pursuits, even for a few
-weeks’ residence in town. She was to make her _débût_ on the third of
-January, at a magnificent ball, which her mamma proposed to give to all
-the nobility and choice gentry of O—— and its neighbourhood for twenty
-miles round. Of course, she looked forward to it with the wildest
-impatience, and the most extravagant anticipations of delight.
-
-“Miss Grey,” said she, one evening, a month before the all-important
-day, as I was perusing a long and extremely interesting letter of my
-sister’s—which I had just glanced at in the morning to see that it
-contained no very bad news, and kept till now, unable before to find a
-quiet moment for reading it,—“Miss Grey, do put away that dull, stupid
-letter, and listen to me! I’m sure my talk must be far more amusing
-than that.”
-
-She seated herself on the low stool at my feet; and I, suppressing a
-sigh of vexation, began to fold up the epistle.
-
-“You should tell the good people at [[Home|home]] not to bore you with such long
-letters,” said she; “and, above all, do bid them write on proper
-note-paper, and not on those great vulgar sheets. You should see the
-charming little lady-like notes mamma writes to her friends.”
-
-“The good people at [[Home|home]],” replied I, “know very [[Well|well]] that the longer
-their letters are, the better I like them. I should be very sorry to
-receive a charming little lady-like note from any of them; and I
-thought you were too much of a lady yourself, Miss Murray, to talk
-about the ‘vulgarity’ of writing on a large sheet of paper.”
-
-“[[Well]], I only said it to tease you. But now I want to talk about the
-ball; and to tell you that you positively must put off your holidays
-till it is over.”
-
-“Why so?—I shall not be present at the ball.”
-
-“No, but you will see the rooms decked out before it begins, and hear
-the music, and, above all, see me in my splendid new dress. I shall be
-so charming, you’ll be ready to worship me—you really must stay.”
-
-“I should like to see you very much; but I shall have many
-opportunities of seeing you equally charming, on the occasion of some
-of the numberless balls and parties that are to be, and I cannot
-disappoint my friends by postponing my return so long.”
-
-“Oh, never mind your friends! Tell them we won’t let you go.”
-
-“But, to say the [[Truth|truth]], it would be a disappointment to myself: I long
-to see them as much as they to see me—perhaps more.”
-
-“[[Well]], but it is such a short [[Time|time]].”
-
-“Nearly a fortnight by my computation; and, besides, I cannot bear the
-thoughts of a Christmas spent from [[Home|home]]: and, moreover, my sister is
-going to be married.”
-
-“Is she—when?”
-
-“Not till next month; but I want to be there to assist her in making
-preparations, and to make the best of her company while we have her.”
-
-“Why didn’t you tell me before?”
-
-“I’ve only got the news in this letter, which you stigmatize as dull
-and stupid, and won’t let me read.”
-
-“To whom is she to be married?”
-
-“To Mr. Richardson, the vicar of a neighbouring parish.”
-
-“Is he rich?”
-
-“No; only comfortable.”
-
-“Is he handsome?”
-
-“No; only decent.”
-
-“Young?”
-
-“No; only middling.”
-
-“Oh, [[Mercy|mercy]]! what a wretch! What sort of a [[house]] is it?”
-
-“A quiet little vicarage, with an ivy-clad porch, an old-fashioned
-[[Garden|garden]], and—”
-
-“Oh, stop!—you’ll make me sick. How _can_ she bear it?”
-
-“I expect she’ll not only be able to bear it, but to be very happy. You
-did not ask me if Mr. Richardson were a good, wise, or amiable man; I
-could have answered Yes, to all these questions—at least so Mary
-thinks, and I [[Hope|hope]] she will not find herself mistaken.”
-
-“But—miserable creature! how can she think of spending her life there,
-cooped up with that nasty old man; and no [[Hope|hope]] of change?”
-
-“He is not old: he’s only six or seven and thirty; and she herself is
-twenty-eight, and as sober as if she were fifty.”
-
-“Oh! that’s better then—they’re [[Well|well]] matched; but do they call him the
-‘worthy vicar’?”
-
-“I don’t know; but if they do, I believe he merits the epithet.”
-
-“[[Mercy]], how shocking! and will she wear a white apron and make pies and
-puddings?”
-
-“I don’t know about the white apron, but I dare say she will make pies
-and puddings now and then; but that will be no great hardship, as she
-has done it before.”
-
-“And will she go about in a plain shawl, and a large straw bonnet,
-carrying tracts and bone soup to her husband’s poor parishioners?”
-
-“I’m not clear about that; but I dare say she will do her best to make
-them comfortable in [[Body|body]] and mind, in accordance with our mother’s
-example.”
-
-
-
-
-<span class="atom-split" data-atom="chapter_09" data-title="Agnes Grey — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
-
-
-CHAPTER IX.
-THE BALL
-
-
-“Now, Miss Grey,” exclaimed Miss Murray, immediately I entered the
-schoolroom, after having taken off my outdoor garments, upon returning
-from my four weeks’ recreation, “Now—shut the door, and sit down, and
-I’ll tell you all about the ball.”
-
-“No—damn it, no!” shouted Miss Matilda. “Hold your tongue, can’t ye?
-and let me tell her about my new mare—_such_ a splendour, Miss Grey! a
-fine [[Blood|blood]] mare—”
-
-“Do be quiet, Matilda; and let me tell my news first.”
-
-“No, no, Rosalie; you’ll be such a damned long [[Time|time]] over it—she shall
-hear me first—I’ll be hanged if she doesn’t!”
-
-“I’m sorry to hear, Miss Matilda, that you’ve not got rid of that
-shocking habit yet.”
-
-“[[Well]], I can’t help it: but I’ll never say a wicked word again, if
-you’ll only listen to me, and tell Rosalie to hold her confounded
-tongue.”
-
-Rosalie remonstrated, and I thought I should have been torn in pieces
-between them; but Miss Matilda having the loudest voice, her sister at
-length gave in, and suffered her to tell her story first: so I was
-doomed to hear a long account of her splendid mare, its breeding and
-pedigree, its paces, its action, its spirit, &c., and of her own
-amazing skill and [[Courage|courage]] in riding it; concluding with an assertion
-that she could clear a five-barred gate “like winking,” that papa said
-she might hunt the next [[Time|time]] the hounds met, and mamma had ordered a
-bright scarlet hunting-habit for her.
-
-“Oh, Matilda! what stories you are telling!” exclaimed her sister.
-
-“[[Well]],” answered she, no whit abashed, “I know I _could_ clear a
-five-barred gate, if I tried, and papa _will_ say I may hunt, and mamma
-_will_ order the habit when I ask it.”
-
-“[[Well]], now get along,” replied Miss Murray; “and do, dear Matilda, try
-to be a little more lady-like. Miss Grey, I wish you would tell her not
-to use such shocking words; she will call her [[Horse|horse]] a mare: it is so
-inconceivably shocking! and then she uses such dreadful expressions in
-describing it: she must have learned it from the grooms. It nearly puts
-me into fits when she begins.”
-
-“I learned it from papa, you ass! and his jolly friends,” said the
-young lady, vigorously cracking a hunting-whip, which she habitually
-carried in her hand. “I’m as good judge of horseflesh as the best of
-’m.”
-
-“[[Well]], now get along, you shocking girl! I really shall take a fit if
-you go on in such a way. And now, Miss Grey, attend to me; I’m going to
-tell you about the ball. You must be dying to hear about it, I know.
-Oh, _such_ a ball! You never saw or heard, or read, or dreamt of
-anything like it in all your life. The decorations, the entertainment,
-the supper, the music were indescribable! and then the guests! There
-were two noblemen, three baronets, and five titled ladies, and other
-ladies and gentlemen innumerable. The ladies, of course, were of no
-consequence to me, except to put me in a good [[Humour|humour]] with myself, by
-showing how ugly and awkward most of them were; and the best, mamma
-told me,—the most transcendent beauties among them, were nothing to me.
-As for me, Miss Grey—I’m so _sorry_ you didn’t see me! I was
-_charming_—wasn’t I, Matilda?”
-
-“Middling.”
-
-“No, but I really was—at least so mamma said—and Brown and Williamson.
-Brown said she was sure no gentleman could set eyes on me without
-falling in [[Love|love]] that minute; and so I may be allowed to be a little
-vain. I know you think me a shocking, conceited, frivolous girl; but
-then, you know, I don’t attribute it _all_ to my personal attractions:
-I give some praise to the hairdresser, and some to my exquisitely
-lovely dress—you must see it to-morrow—white gauze over pink satin—and
-so _sweetly_ made! and a necklace and bracelet of beautiful, large
-pearls!”
-
-“I have no [[Doubt|doubt]] you looked very charming: but should that delight you
-so very much?”
-
-“Oh, no!—not that [[Alone|alone]]: but, then, I was so much admired; and I made
-so _many_ conquests in that one [[Night|night]]—you’d be astonished to hear—”
-
-“But what good will they do you?”
-
-“What good! Think of any woman asking that!”
-
-“[[Well]], I should think one conquest would be enough; and too much,
-unless the subjugation were mutual.”
-
-“Oh, but you know I never agree with you on those points. Now, wait a
-bit, and I’ll tell you my principal admirers—those who made themselves
-very conspicuous that [[Night|night]] and after: for I’ve been to two parties
-since. Unfortunately the two noblemen, Lord G—— and Lord F——, were
-married, or I might have condescended to be particularly gracious to
-_them_; as it was, I did not: though Lord F——, who hates his wife, was
-evidently much struck with me. He asked me to [[Dance|dance]] with him twice—he
-is a charming dancer, by-the-by, and so am I: you can’t think how [[Well|well]]
-I did—I was astonished at myself. My lord was very complimentary
-too—rather too much so in fact—and I thought proper to be a little
-haughty and repellent; but I had the pleasure of seeing his nasty,
-[[Cross|cross]] wife ready to perish with spite and vexation—”
-
-“Oh, Miss Murray! you don’t mean to say that such a thing could really
-give you pleasure? However [[Cross|cross]] or—”
-
-“[[Well]], I know it’s very wrong;—but never mind! I mean to be good some
-[[Time|time]]—only don’t preach now, there’s a good creature. I haven’t told you
-half yet. Let me see. Oh! I was going to tell you how many
-unmistakeable admirers I had:—Sir Thomas Ashby was one,—Sir Hugh
-Meltham and Sir Broadley Wilson are old codgers, only fit companions
-for papa and mamma. Sir Thomas is young, rich, and gay; but an ugly
-beast, nevertheless: however, mamma says I should not mind that after a
-few months’ acquaintance. Then, there was Henry Meltham, Sir Hugh’s
-younger son; rather good-looking, and a pleasant fellow to flirt with:
-but _being_ a younger son, that is all he is good for; then there was
-young Mr. Green, rich enough, but of no family, and a great stupid
-fellow, a mere country booby! and then, our good rector, Mr. Hatfield:
-an _humble_ admirer he ought to consider himself; but I [[Fear|fear]] he has
-forgotten to number [[Humility|humility]] among his stock of Christian virtues.”
-
-“Was Mr. Hatfield at the ball?”
-
-“Yes, to be sure. Did you think he was too good to go?”
-
-“I thought be might consider it unclerical.”
-
-“By no means. He did not profane his cloth by dancing; but it was with
-difficulty he could refrain, poor man: he looked as if he were dying to
-ask my hand just for _one_ set; and—oh! by-the-by—he’s got a new
-curate: that seedy old fellow Mr. Bligh has got his long-wished-for
-living at last, and is gone.”
-
-“And what is the new one like?”
-
-“Oh, _such_ a beast! Weston his name is. I can give you his description
-in three words—an insensate, ugly, stupid blockhead. That’s four, but
-no matter—enough of _him_ now.”
-
-Then she returned to the ball, and gave me a further account of her
-deportment there, and at the several parties she had since attended;
-and further particulars respecting Sir Thomas Ashby and Messrs.
-Meltham, Green, and Hatfield, and the ineffaceable impression she had
-wrought upon each of them.
-
-“[[Well]], which of the four do you like best?” said I, suppressing my
-third or fourth yawn.
-
-“I detest them all!” replied she, shaking her bright ringlets in
-vivacious scorn.
-
-“That means, I suppose, ‘I like them all’—but which most?”
-
-“No, I really detest them all; but Harry Meltham is the handsomest and
-most amusing, and Mr. Hatfield the cleverest, Sir Thomas the wickedest,
-and Mr. Green the most stupid. But the one I’m to have, I suppose, if
-I’m doomed to have any of them, is Sir Thomas Ashby.”
-
-“Surely not, if he’s so wicked, and if you dislike him?”
-
-“Oh, I don’t mind his being wicked: he’s all the better for that; and
-as for disliking him—I shouldn’t greatly object to being Lady Ashby of
-Ashby Park, if I must marry. But if I could be always young, I would be
-always single. I should like to enjoy myself thoroughly, and coquet
-with all the world, till I am on the verge of being called an old maid;
-and then, to escape the infamy of that, after having made ten thousand
-conquests, to break all their hearts save one, by marrying some
-high-born, rich, indulgent husband, whom, on the other hand, fifty
-ladies were dying to have.”
-
-“[[Well]], as long as you entertain these views, keep single by all means,
-and never marry at all: not even to escape the infamy of
-old-maidenhood.”
-
-
-
-
-<span class="atom-split" data-atom="chapter_10" data-title="Agnes Grey — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
-
-
-CHAPTER X.
-THE CHURCH
-
-
-“[[Well]], Miss Grey, what do you think of the new curate?” asked Miss
-Murray, on our return from church the [[Sunday]] after the recommencement
-of our duties.
-
-“I can scarcely tell,” was my reply: “I have not even heard him
-preach.”
-
-“[[Well]], but you saw him, didn’t you?”
-
-“Yes, but I cannot pretend to judge of a man’s character by a single
-cursory glance at his face.”
-
-“But isn’t he ugly?”
-
-“He did not strike me as being particularly so; I don’t dislike that
-cast of countenance: but the only thing I particularly noticed about
-him was his style of reading; which appeared to me good—infinitely
-better, at least, than Mr. Hatfield’s. He read the Lessons as if he
-were bent on giving full effect to every passage; it seemed as if the
-most careless person could not have helped attending, nor the most
-ignorant have failed to understand; and the prayers he read as if he
-were not reading at all, but praying earnestly and sincerely from his
-own heart.”
-
-“Oh, yes, that’s all he is good for: he can plod through the service
-[[Well|well]] enough; but he has not a single idea beyond it.”
-
-“How do you know?”
-
-“Oh! I know perfectly [[Well|well]]; I am an excellent judge in such matters.
-Did you see how he went out of church? stumping along—as if there were
-nobody there but himself—never looking to the right hand or the left,
-and evidently thinking of nothing but just getting out of the church,
-and, perhaps, [[Home|home]] to his dinner: his great stupid head could contain
-no other idea.”
-
-“I suppose you would have had him cast a glance into the squire’s pew,”
-said I, laughing at the vehemence of her hostility.
-
-“Indeed! I should have been highly indignant if he had dared to do such
-a thing!” replied she, haughtily tossing her head; then, after a
-moment’s reflection, she added—“[[Well]], [[Well|well]]! I suppose he’s good enough
-for his place: but I’m glad I’m not dependent on _him_ for
-amusement—that’s all. Did you see how Mr. Hatfield hurried out to get a
-bow from me, and be in [[Time|time]] to put us into the carriage?”
-
-“Yes,” answered I; internally adding, “and I thought it somewhat
-derogatory to his dignity as a clergyman to come flying from the pulpit
-in such eager haste to shake hands with the squire, and hand his wife
-and daughters into their carriage: and, moreover, I owe him a grudge
-for nearly shutting me out of it”; for, in fact, though I was standing
-before his face, close beside the carriage steps, waiting to get in, he
-would persist in putting them up and closing the door, till one of the
-family stopped him by calling out that the governess was not in yet;
-then, without a word of apology, he departed, wishing them
-good-morning, and leaving the footman to finish the business.
-
-_Nota bene_.—Mr. Hatfield never spoke to me, neither did Sir Hugh or
-Lady Meltham, nor Mr. Harry or Miss Meltham, nor Mr. Green or his
-sisters, nor any other lady or gentleman who frequented that church:
-nor, in fact, any one that visited at Horton Lodge.
-
-Miss Murray ordered the carriage again, in the afternoon, for herself
-and her sister: she said it was too cold for them to enjoy themselves
-in the [[Garden|garden]]; and besides, she believed Harry Meltham would be at
-church. “For,” said she, smiling slyly at her own fair image in the
-glass, “he has been a most exemplary attendant at church these last few
-Sundays: you would think he was quite a good Christian. And you may go
-with us, Miss Grey: I want you to see him; he is so greatly improved
-since he returned from abroad—you can’t think! And besides, then you
-will have an opportunity of seeing the beautiful Mr. Weston again, and
-of hearing him preach.”
-
-I did hear him preach, and was decidedly pleased with the evangelical
-[[Truth|truth]] of his doctrine, as [[Well|well]] as the earnest simplicity of his manner,
-and the clearness and force of his style. It was truly refreshing to
-hear such a sermon, after being so long accustomed to the dry, prosy
-discourses of the former curate, and the still less edifying harangues
-of the rector. Mr. Hatfield would come sailing up the aisle, or rather
-sweeping along like a whirlwind, with his rich silk gown flying behind
-him and rustling against the pew doors, mount the pulpit like a
-conqueror ascending his triumphal car; then, sinking on the velvet
-cushion in an attitude of studied grace, remain in silent prostration
-for a certain [[Time|time]]; then mutter over a Collect, and gabble through the
-Lord’s [[prayer|Prayer]], rise, draw off one bright lavender glove, to give the
-congregation the benefit of his sparkling rings, lightly pass his
-fingers through his [[Well|well]]-curled hair, flourish a cambric handkerchief,
-recite a very short passage, or, perhaps, a mere phrase of Scripture,
-as a head-piece to his discourse, and, finally, deliver a composition
-which, as a composition, might be considered good, though far too
-studied and too artificial to be pleasing to me: the propositions were
-[[Well|well]] laid down, the arguments logically conducted; and yet, it was
-sometimes hard to listen quietly throughout, without some slight
-demonstrations of disapproval or impatience.
-
-His favourite subjects were church discipline, rites and ceremonies,
-apostolical succession, the duty of reverence and obedience to the
-clergy, the atrocious criminality of dissent, the absolute necessity of
-observing all the forms of godliness, the reprehensible presumption of
-individuals who attempted to think for themselves in matters connected
-with religion, or to be guided by their own interpretations of
-Scripture, and, occasionally (to please his wealthy parishioners) the
-necessity of deferential obedience from the poor to the rich—supporting
-his maxims and exhortations throughout with quotations from the
-Fathers: with whom he appeared to be far better acquainted than with
-the Apostles and Evangelists, and whose importance he seemed to
-consider at least equal to theirs. But now and then he gave us a sermon
-of a different order—what some would call a very good one; but sunless
-and severe: representing the Deity as a terrible taskmaster rather than
-a benevolent father. Yet, as I listened, I felt inclined to think the
-man was sincere in all he said: he must have changed his views, and
-become decidedly religious, gloomy and austere, yet still devout. But
-such illusions were usually dissipated, on coming out of church, by
-hearing his voice in jocund colloquy with some of the Melthams or
-Greens, or, perhaps, the Murrays themselves; probably laughing at his
-own sermon, and hoping that he had given the rascally people something
-to think about; perchance, exulting in the thought that old Betty
-Holmes would now lay aside the sinful indulgence of her pipe, which had
-been her daily solace for upwards of thirty years: that George Higgins
-would be frightened out of his Sabbath evening walks, and Thomas
-Jackson would be sorely troubled in his [[Conscience|conscience]], and shaken in his
-sure and certain [[Hope|hope]] of a joyful [[Resurrection|resurrection]] at the last day.
-
-Thus, I could not but conclude that Mr. Hatfield was one of those who
-“bind heavy burdens, and grievous to be borne, and lay them upon men’s
-shoulders, while they themselves will not move them with one of their
-fingers”; and who “make the word of God of none effect by their
-traditions, teaching for doctrines the commandments of men.” I was [[Well|well]]
-pleased to observe that the new curate resembled him, as far as I could
-see, in none of these particulars.
-
-“[[Well]], Miss Grey, what do you think of him now?” said Miss Murray, as
-we took our places in the carriage after service.
-
-“No harm still,” replied I.
-
-“No harm!” repeated she in amazement. “What do you mean?”
-
-“I mean, I think no worse of him than I did before.”
-
-“No worse! I should think not indeed—quite the contrary! Is he not
-greatly improved?”
-
-“Oh, yes; very much indeed,” replied I; for I had now discovered that
-it was Harry Meltham she meant, not Mr. Weston. That gentleman had
-eagerly come forward to speak to the young ladies: a thing he would
-hardly have ventured to do had their mother been present; he had
-likewise politely handed them into the carriage. He had not attempted
-to shut me out, like Mr. Hatfield; neither, of course, had he offered
-me his assistance (I should not have accepted it, if he had), but as
-long as the door remained open he had stood smirking and chatting with
-them, and then lifted his hat and departed to his own abode: but I had
-scarcely noticed him all the [[Time|time]]. My companions, however, had been
-more observant; and, as we rolled along, they discussed between them
-not only his looks, words, and actions, but every feature of his face,
-and every article of his apparel.
-
-“You shan’t have him all to yourself, Rosalie,” said Miss Matilda at
-the close of this discussion; “I like him: I know he’d make a nice,
-jolly companion for me.”
-
-“[[Well]], you’re quite welcome to him, Matilda,” replied her sister, in a
-tone of affected indifference.
-
-“And I’m sure,” continued the other, “he admires me quite as much as he
-does you; doesn’t he, Miss Grey?”
-
-“I don’t know; I’m not acquainted with his sentiments.”
-
-“[[Well]], but he _does_ though.”
-
-“My _dear_ Matilda! nobody will ever admire you till you get rid of
-your rough, awkward manners.”
-
-“Oh, stuff! Harry Meltham likes such manners; and so do papa’s
-friends.”
-
-“[[Well]], you _may_ captivate old men, and younger sons; but nobody else,
-I am sure, will ever take a fancy to you.”
-
-“I don’t care: I’m not always grabbing after money, like you and mamma.
-If my husband is able to keep a few good horses and [[dogs]], I shall be
-quite satisfied; and all the rest may go to the devil!”
-
-“[[Well]], if you use such shocking expressions, I’m sure no real gentleman
-will ever venture to come near you. Really, Miss Grey, you should not
-let her do so.”
-
-“I can’t possibly prevent it, Miss Murray.”
-
-“And you’re quite mistaken, Matilda, in supposing that Harry Meltham
-admires you: I assure you he does nothing of the kind.”
-
-Matilda was beginning an angry reply; but, happily, our [[Journey|journey]] was now
-at an end; and the contention was cut short by the footman opening the
-carriage-door, and letting down the steps for our descent.
-
-
-
-
-<span class="atom-split" data-atom="chapter_12" data-title="Agnes Grey — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
-
-
-CHAPTER XII.
-THE SHOWER
-
-
-The next visit I paid to [[Nancy]] Brown was in the second week in March:
-for, though I had many spare minutes during the day, I seldom could
-look upon an hour as entirely my own; since, where everything was left
-to the caprices of Miss Matilda and her sister, there could be no order
-or regularity. Whatever occupation I chose, when not actually busied
-about them or their concerns, I had, as it were, to keep my loins
-girded, my shoes on my feet, and my staff in my hand; for not to be
-immediately forthcoming when called for, was regarded as a [[Grave|grave]] and
-inexcusable offence: not only by my pupils and their mother, but by the
-very servant, who came in breathless haste to call me, exclaiming,
-“You’re to go to the schoolroom _directly_, mum, the young ladies is
-WAITING!!” Climax of horror! actually waiting for their governess!!!
-
-But this [[Time|time]] I was pretty sure of an hour or two to myself; for
-Matilda was preparing for a long ride, and Rosalie was dressing for a
-dinner-party at Lady Ashby’s: so I took the opportunity of repairing to
-the widow’s cottage, where I found her in some anxiety about her cat,
-which had been absent all day. I comforted her with as many anecdotes
-of that animal’s roving propensities as I could recollect. “I’m feared
-o’ th’ gamekeepers,” said she: “that’s all ’at I think on. If th’ young
-gentlemen had been at [[Home|home]], I should a’ thought they’d been setting
-their [[dogs]] at her, an’ worried her, poor thing, as they did _many_ a
-poor thing’s cat; but I haven’t that to be feared on now.” [[Nancy]]’s eyes
-were better, but still far from [[Well|well]]: she had been trying to make a
-[[Sunday]] shirt for her son, but told me she could only bear to do a
-little bit at it now and then, so that it progressed but slowly, though
-the poor lad wanted it sadly. So I proposed to help her a little, after
-I had read to her, for I had plenty of [[Time|time]] that evening, and need not
-return till dusk. She thankfully accepted the offer. “An’ you’ll be a
-bit o’ company for me too, Miss,” said she; “I like as I feel lonesome
-without my cat.” But when I had finished reading, and done the half of
-a seam, with [[Nancy]]’s capacious brass thimble fitted on to my finger by
-means of a roll of paper, I was disturbed by the entrance of Mr.
-Weston, with the identical cat in his arms. I now saw that he could
-smile, and very pleasantly too.
-
-“I’ve done you a piece of good service, [[Nancy]],” he began: then seeing
-me, he acknowledged my presence by a slight bow. I should have been
-invisible to Hatfield, or any other gentleman of those parts. “I’ve
-delivered your cat,” he continued, “from the hands, or rather the gun,
-of Mr. Murray’s gamekeeper.”
-
-“God bless you, sir!” cried the grateful old woman, ready to weep for
-joy as she received her favourite from his arms.
-
-“Take care of it,” said he, “and don’t let it go near the
-rabbit-warren, for the gamekeeper swears he’ll shoot it if he sees it
-there again: he would have done so to-day, if I had not been in [[Time|time]] to
-stop him. I believe it is raining, Miss Grey,” added he, more quietly,
-observing that I had put aside my work, and was preparing to depart.
-“Don’t let me disturb you—I shan’t stay two minutes.”
-
-“You’ll _both_ stay while this shower gets owered,” said [[Nancy]], as she
-stirred the [[Fire|fire]], and placed another chair beside it; “what! there’s
-room for all.”
-
-“I can see better here, thank you, [[Nancy]],” replied I, taking my work to
-the [[Window|window]], where she had the goodness to suffer me to remain
-unmolested, while she got a brush to remove the cat’s hairs from Mr.
-Weston’s coat, carefully wiped the rain from his hat, and gave the cat
-its supper, busily talking all the [[Time|time]]: now thanking her clerical
-friend for what he had done; now wondering how the cat had found out
-the warren; and now lamenting the probable consequences of such a
-discovery. He listened with a quiet, good-natured smile, and at length
-took a seat in compliance with her pressing invitations, but repeated
-that he did not mean to stay.
-
-“I have another place to go to,” said he, “and I see” (glancing at the
-book on the table) “someone else has been reading to you.”
-
-“Yes, sir; Miss Grey has been as kind as read me a chapter; an’ now
-she’s helping me with a shirt for our Bill—but I’m feared she’ll be
-cold there. Won’t you come to th’ [[Fire|fire]], Miss?”
-
-“No, thank you, [[Nancy]], I’m quite warm. I must go as soon as this shower
-is over.”
-
-“Oh, Miss! You said you could stop while dusk!” cried the provoking old
-woman, and Mr. Weston seized his hat.
-
-“Nay, sir,” exclaimed she, “pray don’t go now, while it rains so fast.”
-
-“But it strikes me I’m keeping your visitor away from the [[Fire|fire]].”
-
-“No, you’re not, Mr. Weston,” replied I, hoping there was no harm in a
-falsehood of that description.
-
-“No, sure!” cried [[Nancy]]. “What, there’s lots o’ room!”
-
-“Miss Grey,” said he, half-jestingly, as if he felt it necessary to
-change the present subject, whether he had anything particular to say
-or not, “I wish you would make my peace with the squire, when you see
-him. He was by when I rescued [[Nancy]]’s cat, and did not quite approve of
-the deed. I told him I thought he might better spare all his rabbits
-than she her cat, for which audacious assertion he treated me to some
-rather ungentlemanly language; and I [[Fear|fear]] I retorted a trifle too
-warmly.”
-
-“Oh, lawful sir! I [[Hope|hope]] you didn’t fall out wi’ th’ maister for sake o’
-my cat! he cannot bide answering again—can th’ maister.”
-
-“Oh! it’s no matter, [[Nancy]]: I don’t care about it, really; I said
-nothing _very_ uncivil; and I suppose Mr. Murray is accustomed to use
-rather strong language when he’s heated.”
-
-“Ay, sir: it’s a pity.”
-
-“And now, I really must go. I have to visit a place a mile beyond this;
-and you would not have me to return in the dark: besides, it has nearly
-done raining now—so good-evening, [[Nancy]]. Good-evening, Miss Grey.”
-
-“Good-evening, Mr. Weston; but don’t depend upon me for making your
-peace with Mr. Murray, for I never see him—to speak to.”
-
-“Don’t you; it can’t be helped then,” replied he, in dolorous
-[[Resignation|resignation]]: then, with a peculiar half-smile, he added, “But never
-mind; I imagine the squire has more to apologise for than I;” and left
-the cottage.
-
-I went on with my sewing as long as I could see, and then bade [[Nancy]]
-good-evening; checking her too lively gratitude by the undeniable
-assurance that I had only done for her what she would have done for me,
-if she had been in my place and I in hers. I hastened back to Horton
-Lodge, where, having entered the schoolroom, I found the tea-table all
-in confusion, the tray flooded with slops, and Miss Matilda in a most
-ferocious [[Humour|humour]].
-
-“Miss Grey, whatever have you been about? I’ve had tea half an hour
-ago, and had to make it myself, and drink it all [[Alone|alone]]! I wish you
-would come in sooner!”
-
-“I’ve been to see [[Nancy]] Brown. I thought you would not be back from
-your ride.”
-
-“How could I ride in the rain, I should like to know. That damned
-pelting shower was vexatious enough—coming on when I was just in full
-swing: and then to come and find nobody in to tea! and you know I can’t
-make the tea as I like it.”
-
-“I didn’t think of the shower,” replied I (and, indeed, the thought of
-its driving her [[Home|home]] had never entered my head).
-
-“No, of course; you were under shelter yourself, and you never thought
-of other people.”
-
-I bore her coarse reproaches with astonishing equanimity, even with
-cheerfulness; for I was sensible that I had done more good to [[Nancy]]
-Brown than harm to her: and perhaps some other thoughts assisted to
-keep up my spirits, and impart a relish to the cup of cold, overdrawn
-tea, and a charm to the otherwise unsightly table; and—I had almost
-said—to Miss Matilda’s unamiable face. But she soon betook herself to
-the stables, and left me to the quiet enjoyment of my solitary meal.
-
-
-
-
-<span class="atom-split" data-atom="chapter_17" data-title="Agnes Grey — Chapter 16" data-chapter="Chapter 17" data-kind="chapter"></span>
-
-
-CHAPTER XVI.
-THE SUBSTITUTION
-
-
-Next [[Sunday]] was one of the gloomiest of April days—a day of thick, dark
-clouds, and heavy showers. None of the Murrays were disposed to attend
-church in the afternoon, excepting Rosalie: she was bent upon going as
-usual; so she ordered the carriage, and I went with her: nothing loth,
-of course, for at church I might look without [[Fear|fear]] of scorn or censure
-upon a form and face more pleasing to me than the most beautiful of
-God’s creations; I might listen without disturbance to a voice more
-charming than the sweetest music to my ears; I might seem to hold
-communion with that [[Soul|soul]] in which I felt so deeply interested, and
-imbibe its purest thoughts and holiest aspirations, with no alloy to
-such felicity except the secret reproaches of my [[Conscience|conscience]], which
-would too often whisper that I was deceiving my own [[Self|self]], and mocking
-God with the service of a heart more bent upon the creature than the
-Creator.
-
-Sometimes, such thoughts would give me trouble enough; but sometimes I
-could quiet them with thinking—it is not the man, it is his goodness
-that I [[Love|love]]. “Whatsoever things are pure, whatsoever things are lovely,
-whatsoever things are honest and of good report, think on these
-things.” We do [[Well|well]] to worship God in His works; and I know none of
-them in which so many of His attributes—so much of His own spirit
-shines, as in this His faithful servant; whom to know and not to
-appreciate, were obtuse insensibility in me, who have so little else to
-occupy my heart.
-
-Almost immediately after the conclusion of the service, Miss Murray
-left the church. We had to stand in the porch, for it was raining, and
-the carriage was not yet come. I wondered at her coming forth so
-hastily, for neither young Meltham nor Squire Green was there; but I
-soon found it was to secure an interview with Mr. Weston as he came
-out, which he presently did. Having saluted us both, he would have
-passed on, but she detained him; first with observations upon the
-disagreeable weather, and then with asking if he would be so kind as to
-come some [[Time|time]] to-morrow to see the granddaughter of the old woman who
-kept the porter’s lodge, for the girl was ill of a fever, and wished to
-see him. He promised to do so.
-
-“And at what [[Time|time]] will you be most likely to come, Mr. Weston? The old
-woman will like to know when to expect you—you know such people think
-more about having their cottages in order when decent people come to
-see them than we are apt to suppose.”
-
-Here was a wonderful instance of consideration from the thoughtless
-Miss Murray. Mr. Weston named an hour in the morning at which he would
-endeavour to be there. By this [[Time|time]] the carriage was ready, and the
-footman was waiting, with an open umbrella, to escort Miss Murray
-through the churchyard. I was about to follow; but Mr. Weston had an
-umbrella too, and offered me the benefit of its shelter, for it was
-raining heavily.
-
-“No, thank you, I don’t mind the rain,” I said. I always lacked common
-sense when taken by surprise.
-
-“But you don’t _like_ it, I suppose?—an umbrella will do you no harm at
-any rate,” he replied, with a smile that showed he was not offended; as
-a man of worse temper or less penetration would have been at such a
-refusal of his aid. I could not deny the [[Truth|truth]] of his assertion, and so
-went with him to the carriage; he even offered me his hand on getting
-in: an unnecessary piece of civility, but I accepted that too, for [[Fear|fear]]
-of giving offence. One glance he gave, one little smile at parting—it
-was but for a moment; but therein I read, or thought I read, a meaning
-that kindled in my heart a brighter flame of [[Hope|hope]] than had ever yet
-arisen.
-
-“I would have sent the footman back for you, Miss Grey, if you’d waited
-a moment—you needn’t have taken Mr. Weston’s umbrella,” observed
-Rosalie, with a very unamiable cloud upon her pretty face.
-
-“I would have come without an umbrella, but Mr. Weston offered me the
-benefit of his, and I could not have refused it more than I did without
-offending him,” replied I, smiling placidly; for my inward happiness
-made that amusing, which would have wounded me at another [[Time|time]].
-
-The carriage was now in motion. Miss Murray bent forwards, and looked
-out of the [[Window|window]] as we were passing Mr. Weston. He was pacing
-homewards along the causeway, and did not turn his head.
-
-“Stupid ass!” cried she, throwing herself back again in the seat. “You
-don’t know what you’ve lost by not looking this way!”
-
-“What has he lost?”
-
-“A bow from me, that would have raised him to the seventh heaven!”
-
-I made no answer. I saw she was out of [[Humour|humour]], and I derived a secret
-gratification from the fact, not that she was vexed, but that she
-thought she had reason to be so. It made me think my hopes were not
-entirely the offspring of my wishes and [[Imagination|imagination]].
-
-“I mean to take up Mr. Weston instead of Mr. Hatfield,” said my
-companion, after a short pause, resuming something of her usual
-cheerfulness. “The ball at Ashby Park takes place on Tuesday, you know;
-and mamma thinks it very likely that Sir Thomas will propose to me
-then: such things are often done in the privacy of the ball-room, when
-gentlemen are most easily ensnared, and ladies most enchanting. But if
-I am to be married so soon, I must make the best of the present [[Time|time]]: I
-am determined Hatfield shall not be the only man who shall lay his
-heart at my feet, and implore me to accept the worthless gift in vain.”
-
-“If you mean Mr. Weston to be one of your victims,” said I, with
-affected indifference, “you will have to make such overtures yourself
-that you will find it difficult to draw back when he asks you to fulfil
-the expectations you have raised.”
-
-“I don’t suppose he will ask me to marry him, nor should I [[Desire|desire]] it:
-that would be rather too much presumption! but I intend him to feel my
-power. He has felt it already, indeed: but he shall _acknowledge_ it
-too; and what visionary hopes he may have, he must keep to himself, and
-only amuse me with the result of them—for a [[Time|time]].”
-
-“Oh! that some kind spirit would whisper those words in his ear,” I
-inwardly exclaimed. I was far too indignant to hazard a reply to her
-observation aloud; and nothing more was said about Mr. Weston that day,
-by me or in my hearing. But next morning, soon after breakfast, Miss
-Murray came into the schoolroom, where her sister was employed at her
-studies, or rather her lessons, for studies they were not, and said,
-“Matilda, I want you to take a walk with me about eleven o’[[Clock|clock]].”
-
-“Oh, I can’t, Rosalie! I have to give orders about my new bridle and
-saddle-cloth, and speak to the rat-catcher about his [[dogs]]: Miss Grey
-must go with you.”
-
-“No, I want you,” said Rosalie; and calling her sister to the [[Window|window]],
-she whispered an explanation in her ear; upon which the latter
-consented to go.
-
-I remembered that eleven was the hour at which Mr. Weston proposed to
-come to the porter’s lodge; and remembering that, I beheld the whole
-contrivance. Accordingly, at dinner, I was entertained with a long
-account of how Mr. Weston had overtaken them as they were walking along
-the [[Road|road]]; and how they had had a long walk and talk with him, and
-really found him quite an agreeable companion; and how he must have
-been, and evidently was, delighted with them and their amazing
-condescension, &c. &c.
-
-
-
-
-<span class="atom-split" data-atom="chapter_20" data-title="Agnes Grey — Chapter 19" data-chapter="Chapter 20" data-kind="chapter"></span>
-
-
-CHAPTER XIX.
-THE LETTER
-
-
-My father’s mortal remains had been consigned to the tomb; and we, with
-sad faces and sombre garments, sat lingering over the frugal
-breakfast-table, revolving plans for our future life. My mother’s
-strong mind had not given way beneath even this affliction: her spirit,
-though crushed, was not broken. Mary’s wish was that I should go back
-to Horton Lodge, and that our mother should come and live with her and
-Mr. Richardson at the vicarage: she affirmed that he wished it no less
-than herself, and that such an arrangement could not fail to benefit
-all parties; for my mother’s society and experience would be of
-inestimable value to them, and they would do all they could to make her
-happy. But no arguments or entreaties could prevail: my mother was
-determined not to go. Not that she questioned, for a moment, the kind
-wishes and intentions of her daughter; but she affirmed that so long as
-God spared her health and strength, she would make use of them to earn
-her own livelihood, and be chargeable to no one; whether her dependence
-would be felt as a burden or not. If she could afford to reside as a
-lodger in —— vicarage, she would choose that [[house]] before all others as
-the place of her abode; but not being so circumstanced, she would never
-come under its roof, except as an occasional visitor: unless sickness
-or calamity should render her assistance really needful, or until age
-or infirmity made her incapable of maintaining herself.
-
-“No, Mary,” said she, “if Richardson and you have anything to spare,
-you must lay it aside for your family; and Agnes and I must gather
-honey for ourselves. Thanks to my having had daughters to educate, I
-have not forgotten my accomplishments. God willing, I will check this
-vain repining,” she said, while the [[Tears|tears]] coursed one another down her
-cheeks in spite of her efforts; but she wiped them away, and resolutely
-shaking back her head, continued, “I will exert myself, and look out
-for a small [[house]], commodiously situated in some populous but healthy
-district, where we will take a few young ladies to board and educate—if
-we can get them—and as many day pupils as will come, or as we can
-manage to instruct. Your father’s relations and old friends will be
-able to send us some pupils, or to assist us with their
-recommendations, no [[Doubt|doubt]]: I shall not apply to my own. What say you to
-it, Agnes? will you be willing to leave your present situation and
-try?”
-
-“Quite willing, mamma; and the money I have saved will do to furnish
-the [[house]]. It shall be taken from the bank directly.”
-
-“When it is wanted: we must get the [[house]], and settle on preliminaries
-first.”
-
-Mary offered to lend the little she possessed; but my mother declined
-it, saying that we must begin on an economical plan; and she hoped that
-the whole or part of mine, added to what we could get by the sale of
-the furniture, and what little our dear papa had contrived to lay aside
-for her since the debts were paid, would be sufficient to last us till
-Christmas; when, it was hoped, something would accrue from our united
-labours. It was finally settled that this should be our plan; and that
-inquiries and preparations should immediately be set on foot; and while
-my mother busied herself with these, I should return to Horton Lodge at
-the close of my four weeks’ vacation, and give notice for my final
-departure when things were in train for the speedy commencement of our
-school.
-
-We were discussing these affairs on the morning I have mentioned, about
-a fortnight after my father’s [[Death|death]], when a letter was brought in for
-my mother, on beholding which the colour mounted to her face—lately
-pale enough with anxious watchings and excessive sorrow. “From my
-father!” murmured she, as she hastily tore off the cover. It was many
-years since she had heard from any of her own relations before.
-Naturally wondering what the letter might contain, I watched her
-countenance while she read it, and was somewhat surprised to see her
-bite her lip and knit her brows as if in anger. When she had done, she
-somewhat irreverently cast it on the table, saying with a scornful
-smile,—
-
-“Your grandpapa has been so kind as to write to me. He says he has no
-[[Doubt|doubt]] I have long repented of my ‘unfortunate [[Marriage|marriage]],’ and if I will
-only acknowledge this, and confess I was wrong in neglecting his
-advice, and that I have justly suffered for it, he will make a lady of
-me once again—if that be possible after my long degradation—and
-remember my girls in his will. Get my desk, Agnes, and send these
-things away: I will answer the letter directly. But first, as I may be
-depriving you both of a legacy, it is just that I should tell you what
-I mean to say. I shall say that he is mistaken in supposing that I can
-regret the birth of my daughters (who have been the [[Pride|pride]] of my life,
-and are likely to be the comfort of my old age), or the thirty years I
-have passed in the company of my best and dearest friend;—that, had our
-misfortunes been three times as great as they were (unless they had
-been of my bringing on), I should still the more rejoice to have shared
-them with your father, and administered what consolation I was able;
-and, had his sufferings in illness been ten times what they were, I
-could not regret having watched over and laboured to relieve
-them;—that, if he had married a richer wife, misfortunes and trials
-would no [[Doubt|doubt]] have come upon him still; while I am egotist enough to
-imagine that no other woman could have cheered him through them so
-[[Well|well]]: not that I am superior to the rest, but I was made for him, and
-he for me; and I can no more repent the hours, days, years of happiness
-we have spent together, and which neither could have had without the
-other, than I can the privilege of having been his [[Nurse|nurse]] in sickness,
-and his comfort in affliction.
-
-“Will this do, children?—or shall I say we are all very sorry for what
-has happened during the last thirty years, and my daughters wish they
-had never been born; but since they have had that misfortune, they will
-be thankful for any trifle their grandpapa will be kind enough to
-bestow?”
-
-Of course, we both applauded our mother’s resolution; Mary cleared away
-the breakfast things; I brought the desk; the letter was quickly
-written and despatched; and, from that day, we heard no more of our
-grandfather, till we saw his [[Death|death]] announced in the newspaper a
-considerable [[Time|time]] after—all his worldly possessions, of course, being
-left to our wealthy unknown cousins.
-
-
-
-
-<span class="atom-split" data-atom="chapter_21" data-title="Agnes Grey — Chapter 20" data-chapter="Chapter 21" data-kind="chapter"></span>
-
-
-CHAPTER XX.
-THE FAREWELL
-
-
-A [[house]] in A——, the fashionable watering-place, was hired for our
-seminary; and a promise of two or three pupils was obtained to commence
-with. I returned to Horton Lodge about the middle of July, leaving my
-mother to conclude the bargain for the [[house]], to obtain more pupils, to
-sell off the furniture of our old abode, and to fit out the new one.
-
-We often pity the poor, because they have no leisure to mourn their
-departed relatives, and necessity obliges them to labour through their
-severest afflictions: but is not active employment the best remedy for
-overwhelming sorrow—the surest antidote for [[Despair|despair]]? It may be a rough
-comforter: it may seem hard to be harassed with the cares of life when
-we have no relish for its enjoyments; to be goaded to labour when the
-heart is ready to break, and the vexed spirit implores for rest only to
-weep in [[Silence|silence]]: but is not labour better than the rest we covet? and
-are not those petty, tormenting cares less hurtful than a continual
-brooding over the great affliction that oppresses us? Besides, we
-cannot have cares, and anxieties, and toil, without [[Hope|hope]]—if it be but
-the [[Hope|hope]] of fulfilling our joyless task, accomplishing some needful
-project, or escaping some further annoyance. At any rate, I was glad my
-mother had so much employment for every faculty of her action-loving
-frame. Our kind neighbours lamented that she, once so exalted in wealth
-and station, should be reduced to such extremity in her [[Time|time]] of sorrow;
-but I am persuaded that she would have suffered thrice as much had she
-been left in affluence, with liberty to remain in that [[house]], the scene
-of her early happiness and late affliction, and no stern necessity to
-prevent her from incessantly brooding over and lamenting her
-bereavement.
-
-I will not dilate upon the feelings with which I left the old [[house]],
-the [[Well|well]]-known [[Garden|garden]], the little village church—then doubly dear to
-me, because my father, who, for thirty years, had taught and prayed
-within its walls, lay slumbering now beneath its flags—and the old bare
-hills, delightful in their very desolation, with the narrow vales
-between, smiling in green wood and sparkling [[Water|water]]—the [[house]] where I
-was born, the scene of all my early associations, the place where
-throughout life my earthly affections had been centred;—and left them
-to return no more! True, I was going back to Horton Lodge, where, amid
-many evils, one source of pleasure yet remained: but it was pleasure
-mingled with excessive [[Pain|pain]]; and my stay, alas! was limited to six
-weeks. And even of that precious [[Time|time]], day after day slipped by and I
-did not see him: except at church, I never saw him for a fortnight
-after my return. It seemed a long [[Time|time]] to me: and, as I was often out
-with my rambling pupil, of course hopes would keep rising, and
-disappointments would ensue; and then, I would say to my own heart,
-“Here is a convincing proof—if you would but have the sense to see it,
-or the candour to acknowledge it—that he does not care for you. If he
-only thought _half_ as much about you as you do about him, he would
-have contrived to meet you many times ere this: you must know that, by
-consulting your own feelings. Therefore, have done with this nonsense:
-you have no ground for [[Hope|hope]]: dismiss, at once, these hurtful thoughts
-and foolish wishes from your mind, and turn to your own duty, and the
-dull blank life that lies before you. You might have known such
-happiness was not for you.”
-
-But I saw him at last. He came suddenly upon me as I was crossing a
-field in returning from a visit to [[Nancy]] Brown, which I had taken the
-opportunity of paying while Matilda Murray was riding her matchless
-mare. He must have heard of the heavy loss I had sustained: he
-expressed no sympathy, offered no condolence: but almost the first
-words he uttered were,—“How is your mother?” And this was no
-matter-of-course question, for I never told him that I had a mother: he
-must have learned the fact from others, if he knew it at all; and,
-besides, there was sincere goodwill, and even deep, touching,
-unobtrusive sympathy in the tone and manner of the inquiry. I thanked
-him with due civility, and told him she was as [[Well|well]] as could be
-expected. “What will she do?” was the next question. Many would have
-deemed it an impertinent one, and given an evasive reply; but such an
-idea never entered my head, and I gave a brief but plain statement of
-my mother’s plans and prospects.
-
-“Then you will leave this place shortly?” said he.
-
-“Yes, in a month.”
-
-He paused a minute, as if in thought. When he spoke again, I hoped it
-would be to express his concern at my departure; but it was only to
-say,—“I should think you will be willing enough to go?”
-
-“Yes—for some things,” I replied.
-
-“For _some_ things only—I [[Wonder|wonder]] what should make you regret it?”
-
-I was annoyed at this in some degree; because it embarrassed me: I had
-only one reason for regretting it; and that was a profound secret,
-which he had no business to trouble me about.
-
-“Why,” said I—“why should you suppose that I dislike the place?”
-
-“You told me so yourself,” was the decisive reply. “You said, at least,
-that you could not live contentedly, without a friend; and that you had
-no friend here, and no possibility of making one—and, besides, I know
-you _must_ dislike it.”
-
-“But if you remember rightly, I said, or meant to say, I could not live
-contentedly without a friend in the world: I was not so unreasonable as
-to require one always near me. I think I could be happy in a [[house]] full
-of enemies, if—” but no; that sentence must not be continued—I paused,
-and hastily added,—“And, besides, we cannot [[Well|well]] leave a place where we
-have lived for two or three years, without some feeling of regret.”
-
-“Will you regret to part with Miss Murray, your sole remaining pupil
-and companion?”
-
-“I dare say I shall in some degree: it was not without sorrow I parted
-with her sister.”
-
-“I can imagine that.”
-
-“[[Well]], Miss Matilda is quite as good—better in one respect.”
-
-“What is that?”
-
-“She’s honest.”
-
-“And the other is not?”
-
-“I should not call her _dis_honest; but it must be confessed she’s a
-little artful.”
-
-“_Artful_ is she?—I saw she was giddy and vain—and now,” he added,
-after a pause, “I can [[Well|well]] believe she was artful too; but so
-excessively so as to assume an aspect of extreme simplicity and
-unguarded openness. Yes,” continued he, musingly, “that accounts for
-some little things that puzzled me a trifle before.”
-
-After that, he turned the conversation to more general subjects. He did
-not leave me till we had nearly reached the park-gates: he had
-certainly stepped a little out of his way to accompany me so far, for
-he now went back and disappeared down Moss Lane, the entrance of which
-we had passed some [[Time|time]] before. Assuredly I did not regret this
-circumstance: if sorrow had any place in my heart, it was that he was
-gone at last—that he was no longer walking by my side, and that that
-short interval of delightful intercourse was at an end. He had not
-breathed a word of [[Love|love]], or dropped one hint of tenderness or
-affection, and yet I had been supremely happy. To be near him, to hear
-him talk as he did talk, and to feel that he thought me worthy to be so
-spoken to—capable of understanding and duly appreciating such
-discourse—was enough.
-
-“Yes, [[Edward Weston]], I could indeed be happy in a [[house]] full of
-enemies, if I had but one friend, who truly, deeply, and faithfully
-loved me; and if that friend were you—though we might be far
-apart—seldom to hear from each other, still more seldom to meet—though
-toil, and trouble, and vexation might surround me, still—it would be
-too much happiness for me to dream of! Yet who can tell,” said I within
-myself, as I proceeded up the park,—“who can tell what this one month
-may bring forth? I have lived nearly three-and-twenty years, and I have
-suffered much, and tasted little pleasure yet; is it likely my life all
-through will be so clouded? Is it not possible that God may hear my
-prayers, disperse these gloomy shadows, and grant me some beams of
-heaven’s sunshine yet? Will He entirely deny to me those blessings
-which are so freely given to others, who neither ask them nor
-acknowledge them when received? May I not still [[Hope|hope]] and trust? I did
-[[Hope|hope]] and trust for a while: but, alas, alas! the [[Time|time]] ebbed away: one
-week followed another, and, excepting one distant glimpse and two
-transient meetings—during which scarcely anything was said—while I was
-walking with Miss Matilda, I saw nothing of him: except, of course, at
-church.
-
-And now, the last [[Sunday]] was come, and the last service. I was often on
-the point of melting into [[Tears|tears]] during the sermon—the last I was to
-hear from him: the best I should hear from anyone, I was [[Well|well]] assured.
-It was over—the congregation were departing; and I must follow. I had
-then seen him, and heard his voice, too, probably for the last [[Time|time]]. In
-the churchyard, Matilda was pounced upon by the two Misses Green. They
-had many inquiries to make about her sister, and I know not what
-besides. I only wished they would have done, that we might hasten back
-to Horton Lodge: I longed to seek the retirement of my own room, or
-some sequestered nook in the grounds, that I might deliver myself up to
-my feelings—to weep my last farewell, and lament my false hopes and
-vain delusions. Only this once, and then adieu to fruitless
-dreaming—thenceforth, only sober, solid, sad reality should occupy my
-mind. But while I thus resolved, a low voice close beside me said—“I
-suppose you are going this week, Miss Grey?” “Yes,” I replied. I was
-very much startled; and had I been at all hysterically inclined, I
-certainly should have committed myself in some way then. Thank God, I
-was not.
-
-“[[Well]],” said Mr. Weston, “I want to bid you good-bye—it is not likely I
-shall see you again before you go.”
-
-“Good-bye, Mr. Weston,” I said. Oh, how I struggled to say it calmly! I
-gave him my hand. He retained it a few seconds in his.
-
-“It is possible we may meet again,” said he; “will it be of any
-consequence to you whether we do or not?”
-
-“Yes, I should be very glad to see you again.”
-
-I _could_ say no less. He kindly pressed my hand, and went. Now, I was
-happy again—though more inclined to burst into [[Tears|tears]] than ever. If I
-had been forced to speak at that moment, a succession of sobs would
-have inevitably ensued; and as it was, I could not keep the [[Water|water]] out
-of my eyes. I walked along with Miss Murray, turning aside my face, and
-neglecting to notice several successive remarks, till she bawled out
-that I was either deaf or stupid; and then (having recovered my
-[[Self|self]]-possession), as one awakened from a fit of abstraction, I suddenly
-looked up and asked what she had been saying.
-
-
-
-
-<span class="atom-split" data-atom="chapter_24" data-title="Agnes Grey — Chapter 23" data-chapter="Chapter 24" data-kind="chapter"></span>
-
-
-CHAPTER XXIII.
-THE PARK
-
-
-I came down a little before eight, next morning, as I knew by the
-striking of a distant [[Clock|clock]]. There was no appearance of breakfast. I
-waited above an hour before it came, still vainly [[Longing|longing]] for access to
-the library; and, after that lonely repast was concluded, I waited
-again about an hour and a half in great suspense and discomfort,
-uncertain what to do. At length Lady Ashby came to bid me good-morning.
-She informed me she had only just breakfasted, and now wanted me to
-take an early walk with her in the park. She asked how long I had been
-up, and on receiving my answer, expressed the deepest regret, and again
-promised to show me the library. I suggested she had better do so at
-once, and then there would be no further trouble either with
-remembering or forgetting. She complied, on condition that I would not
-think of reading, or bothering with the books now; for she wanted to
-show me the gardens, and take a walk in the park with me, before it
-became too hot for enjoyment; which, indeed, was nearly the case
-already. Of course I readily assented; and we took our walk
-accordingly.
-
-As we were strolling in the park, talking of what my companion had seen
-and heard during her travelling experience, a gentleman on horseback
-rode up and passed us. As he turned, in passing, and stared me full in
-the face, I had a good opportunity of seeing what he was like. He was
-tall, thin, and wasted, with a slight stoop in the shoulders, a pale
-face, but somewhat blotchy, and disagreeably red about the eyelids,
-plain features, and a general appearance of languor and flatness,
-relieved by a sinister expression in the mouth and the dull, soulless
-eyes.
-
-“I detest that man!” whispered Lady Ashby, with bitter emphasis, as he
-slowly trotted by.
-
-“Who is it?” I asked, unwilling to suppose that she should so speak of
-her husband.
-
-“Sir Thomas Ashby,” she replied, with dreary composure.
-
-“And do you _detest_ him, Miss Murray?” said I, for I was too much
-shocked to remember her name at the moment.
-
-“Yes, I do, Miss Grey, and despise him too; and if you knew him you
-would not blame me.”
-
-“But you knew what he was before you married him.”
-
-“No; I only thought so: I did not half know him really. I know you
-warned me against it, and I wish I had listened to you: but it’s too
-late to regret that now. And besides, mamma ought to have known better
-than either of us, and she never said anything against it—quite the
-contrary. And then I thought he adored me, and would let me have my own
-way: he did pretend to do so at first, but now he does not care a bit
-about me. Yet I should not care for that: he might do as he pleased, if
-I might only be free to amuse myself and to stay in [[London]], or have a
-few friends down here: but _he will_ do as he pleases, and I must be a
-prisoner and a slave. The moment he saw I could enjoy myself without
-him, and that others knew my value better than himself, the selfish
-wretch began to accuse me of coquetry and extravagance; and to abuse
-Harry Meltham, whose shoes he was not worthy to clean. And then he must
-needs have me down in the country, to lead the life of a nun, lest I
-should dishonour him or bring him to ruin; as if he had not been ten
-times worse every way, with his betting-book, and his gaming-table, and
-his opera-girls, and his Lady This and Mrs. That—yes, and his bottles
-of wine, and glasses of brandy-and-[[Water|water]] too! Oh, I would give ten
-thousand worlds to be Miss Murray again! It is _too_ bad to feel life,
-health, and [[Beauty|beauty]] wasting away, unfelt and unenjoyed, for such a brute
-as that!” exclaimed she, fairly bursting into [[Tears|tears]] in the bitterness
-of her vexation.
-
-Of course, I pitied her exceedingly; as [[Well|well]] for her false idea of
-happiness and disregard of duty, as for the wretched partner with whom
-her fate was linked. I said what I could to comfort her, and offered
-such counsels as I thought she most required: advising her, first, by
-gentle reasoning, by kindness, example, and [[Persuasion|persuasion]], to try to
-ameliorate her husband; and then, when she had done all she could, if
-she still found him incorrigible, to endeavour to abstract herself from
-him—to wrap herself up in her own integrity, and trouble herself as
-little about him as possible. I exhorted her to seek consolation in
-doing her duty to God and man, to put her trust in Heaven, and solace
-herself with the care and nurture of her little daughter; assuring her
-she would be amply rewarded by witnessing its progress in strength and
-wisdom, and receiving its genuine affection.
-
-“But I can’t devote myself entirely to a [[Child|child]],” said she; “it may
-die—which is not at all improbable.”
-
-“But, with care, many a delicate infant has become a strong man or
-woman.”
-
-“But it may grow so intolerably like its father that I shall hate it.”
-
-“That is not likely; it is a little girl, and strongly resembles its
-mother.”
-
-“No matter; I should like it better if it were a boy—only that its
-father will leave it no inheritance that he can possibly squander away.
-What pleasure can I have in seeing a girl grow up to eclipse me, and
-enjoy those pleasures that I am for ever debarred from? But supposing I
-could be so generous as to take delight in this, still it is _only_ a
-[[Child|child]]; and I can’t centre all my hopes in a [[Child|child]]: that is only one
-degree better than devoting oneself to a dog. And as for all the wisdom
-and goodness you have been trying to instil into me—that is all very
-right and proper, I daresay, and if I were some twenty years older, I
-might fructify by it: but people must enjoy themselves when they are
-young; and if others won’t let them—why, they must hate them for it!”
-
-“The best way to enjoy yourself is to do what is right and hate nobody.
-The end of Religion is not to teach us how to die, but how to live; and
-the earlier you become wise and good, the more of happiness you secure.
-And now, Lady Ashby, I have one more piece of advice to offer you,
-which is, that you will not make an enemy of your mother-in-law. Don’t
-get into the way of holding her at arms’ length, and regarding her with
-jealous distrust. I never saw her, but I have heard good as [[Well|well]] as
-evil respecting her; and I imagine that, though cold and haughty in her
-general demeanour, and even exacting in her requirements, she has
-strong affections for those who can reach them; and, though so blindly
-attached to her son, she is not without good principles, or incapable
-of hearing reason. If you would but conciliate her a little, and adopt
-a friendly, open manner—and even confide your grievances to her—real
-grievances, such as you have a right to complain of—it is my firm
-belief that she would, in [[Time|time]], become your faithful friend, and a
-comfort and support to you, instead of the incubus you describe her.”
-But I [[Fear|fear]] my advice had little effect upon the unfortunate young lady;
-and, finding I could render myself so little serviceable, my residence
-at Ashby Park became doubly painful. But still, I must stay out that
-day and the following one, as I had promised to do so: though,
-resisting all entreaties and inducements to prolong my visit further, I
-insisted upon departing the next morning; affirming that my mother
-would be lonely without me, and that she impatiently expected my
-return. Nevertheless, it was with a heavy heart that I bade adieu to
-poor Lady Ashby, and left her in her princely [[Home|home]]. It was no slight
-additional proof of her unhappiness, that she should so cling to the
-consolation of my presence, and earnestly [[Desire|desire]] the company of one
-whose general tastes and ideas were so little congenial to her own—whom
-she had completely forgotten in her hour of prosperity, and whose
-presence would be rather a nuisance than a pleasure, if she could but
-have half her heart’s [[Desire|desire]].
-
-
-
-
-<span class="atom-split" data-atom="chapter_26" data-title="Agnes Grey — Chapter 25" data-chapter="Chapter 26" data-kind="chapter"></span>
-
-
-CHAPTER XXV.
-CONCLUSION
-
-
-“[[Well]], Agnes, you must not take such long walks again before
-breakfast,” said my mother, observing that I drank an extra cup of
-coffee and ate nothing—pleading the heat of the weather, and the
-fatigue of my long walk as an excuse. I certainly did feel feverish and
-tired too.
-
-“You always do things by extremes: now, if you had taken a _short_ walk
-every morning, and would continue to do so, it would do you good.”
-
-“[[Well]], mamma, I will.”
-
-“But this is worse than lying in bed or bending over your books: you
-have quite put yourself into a fever.”
-
-“I won’t do it again,” said I.
-
-I was racking my brains with thinking how to tell her about Mr. Weston,
-for she must know he was coming to-morrow. However, I waited till the
-breakfast things were removed, and I was more calm and cool; and then,
-having sat down to my drawing, I began—“I met an old friend on the
-sands to-day, mamma.”
-
-“An old friend! Who could it be?”
-
-“Two old friends, indeed. One was a dog;” and then I reminded her of
-Snap, whose [[history]] I had recounted before, and related the incident of
-his sudden appearance and remarkable recognition; “and the other,”
-continued I, “was Mr. Weston, the curate of Horton.”
-
-“Mr. Weston! I never heard of him before.”
-
-“Yes, you have: I’ve mentioned him several times, I believe: but you
-don’t remember.”
-
-“I’ve heard you speak of Mr. Hatfield.”
-
-“Mr. Hatfield was the rector, and Mr. Weston the curate: I used to
-mention him sometimes in contradistinction to Mr. Hatfield, as being a
-more efficient clergyman. However, he was on the sands this morning
-with the dog—he had bought it, I suppose, from the rat-catcher; and he
-knew me as [[Well|well]] as it did—probably through its means: and I had a
-little conversation with him, in the course of which, as he asked about
-our school, I was led to say something about you, and your good
-management; and he said he should like to know you, and asked if I
-would introduce him to you, if he should take the liberty of calling
-to-morrow; so I said I would. Was I right?”
-
-“Of course. What kind of a man is he?”
-
-“A very _respectable_ man, I think: but you will see him to-morrow. He
-is the new vicar of F——, and as he has only been there a few weeks, I
-suppose he has made no friends yet, and wants a little society.”
-
-The morrow came. What a fever of anxiety and expectation I was in from
-breakfast till [[Noon|noon]]—at which [[Time|time]] he made his appearance! Having
-introduced him to my mother, I took my work to the [[Window|window]], and sat down
-to await the result of the interview. They got on extremely [[Well|well]]
-together—greatly to my satisfaction, for I had felt very anxious about
-what my mother would think of him. He did not stay long that [[Time|time]]: but
-when he [[Rose|rose]] to take leave, she said she should be happy to see him,
-whenever he might find it convenient to call again; and when he was
-gone, I was gratified by hearing her say,—“[[Well]]! I think he’s a very
-sensible man. But why did you sit back there, Agnes,” she added, “and
-talk so little?”
-
-“Because you talked so [[Well|well]], mamma, I thought you required no
-assistance from me: and, besides, he was your visitor, not mine.”
-
-After that, he often called upon us—several times in the course of a
-week. He generally addressed most of his conversation to my mother: and
-no [[Wonder|wonder]], for she could converse. I almost envied the unfettered,
-vigorous fluency of her discourse, and the strong sense evinced by
-everything she said—and yet, I did not; for, though I occasionally
-regretted my own deficiencies for his sake, it gave me very great
-pleasure to sit and hear the two beings I loved and honoured above
-every one else in the world, discoursing together so amicably, so
-wisely, and so [[Well|well]]. I was not always silent, however; nor was I at all
-neglected. I was quite as much noticed as I would wish to be: there was
-no lack of kind words and kinder looks, no end of delicate attentions,
-too fine and subtle to be grasped by words, and therefore
-indescribable—but deeply felt at heart.
-
-Ceremony was quickly dropped between us: Mr. Weston came as an expected
-guest, welcome at all times, and never deranging the economy of our
-household affairs. He even called me “Agnes:” the name had been timidly
-spoken at first, but, finding it gave no offence in any quarter, he
-seemed greatly to prefer that appellation to “Miss Grey;” and so did I.
-How tedious and gloomy were those days in which he did not come! And
-yet not miserable; for I had still the remembrance of the last visit
-and the [[Hope|hope]] of the next to cheer me. But when two or three days passed
-without my seeing him, I certainly felt very anxious—absurdly,
-unreasonably so; for, of course, he had his own business and the
-affairs of his parish to attend to. And I dreaded the close of the
-holidays, when _my_ business also would begin, and I should be
-sometimes unable to see him, and sometimes—when my mother was in the
-schoolroom—obliged to be with him [[Alone|alone]]: a position I did not at all
-[[Desire|desire]], in the [[house]]; though to meet him out of doors, and walk beside
-him, had proved by no means disagreeable.
-
-One evening, however, in the last week of the vacation, he
-arrived—unexpectedly: for a heavy and protracted thunder-shower during
-the afternoon had almost destroyed my hopes of seeing him that day; but
-now the [[Storm|storm]] was over, and the sun was shining brightly.
-
-“A beautiful evening, Mrs. Grey!” said he, as he entered. “Agnes, I
-want you to take a walk with me to ——” (he named a certain part of the
-coast—a bold [[Hill|hill]] on the land side, and towards the sea a steep
-precipice, from the summit of which a glorious view is to be had). “The
-rain has laid the [[Dust|dust]], and cooled and cleared the air, and the
-prospect will be magnificent. Will you come?”
-
-“Can I go, mamma?”
-
-“Yes; to be sure.”
-
-I went to get ready, and was down again in a few minutes; though, of
-course, I took a little more pains with my attire than if I had merely
-been going out on some shopping expedition [[Alone|alone]]. The thunder-shower
-had certainly had a most beneficial effect upon the weather, and the
-evening was most delightful. Mr. Weston would have me to take his arm;
-he said little during our passage through the crowded streets, but
-walked very fast, and appeared [[Grave|grave]] and abstracted. I wondered what
-was the matter, and felt an indefinite dread that something unpleasant
-was on his mind; and vague surmises, concerning what it might be,
-troubled me not a little, and made me [[Grave|grave]] and silent enough. But
-these fantasies vanished upon reaching the quiet outskirts of the town;
-for as soon as we came within sight of the venerable old church, and
-the —— [[Hill|hill]], with the deep blue beyond it, I found my companion was
-cheerful enough.
-
-“I’m afraid I’ve been walking too fast for you, Agnes,” said he: “in my
-impatience to be rid of the town, I forgot to consult your convenience;
-but now we’ll walk as slowly as you please. I see, by those light
-clouds in the west, there will be a brilliant sunset, and we shall be
-in [[Time|time]] to witness its effect upon the sea, at the most moderate rate
-of progression.”
-
-When we had got about half-way up the [[Hill|hill]], we fell into [[Silence|silence]] again;
-which, as usual, he was the first to break.
-
-“My [[house]] is desolate yet, Miss Grey,” he smilingly observed, “and I am
-acquainted now with all the ladies in my parish, and several in this
-town too; and many others I know by sight and by report; but not one of
-them will suit me for a companion; in fact, there is only one person in
-the world that will: and that is yourself; and I want to know your
-decision?”
-
-“Are you in earnest, Mr. Weston?”
-
-“In earnest! How could you think I should jest on such a subject?”
-
-He laid his hand on mine, that rested on his arm: he must have felt it
-tremble—but it was no great matter now.
-
-“I [[Hope|hope]] I have not been too precipitate,” he said, in a serious tone.
-“You must have known that it was not my way to flatter and talk soft
-nonsense, or even to speak the admiration that I felt; and that a
-single word or glance of mine meant more than the honied phrases and
-fervent protestations of most other men.”
-
-I said something about not liking to leave my mother, and doing nothing
-without her consent.
-
-“I settled everything with Mrs. Grey, while you were putting on your
-bonnet,” replied he. “She said I might have her consent, if I could
-obtain yours; and I asked her, in case I should be so happy, to come
-and live with us—for I was sure you would like it better. But she
-refused, saying she could now afford to employ an assistant, and would
-continue the school till she could purchase an annuity sufficient to
-maintain her in comfortable lodgings; and, meantime, she would spend
-her vacations alternately with us and your sister, and should be quite
-contented if you were happy. And so now I have overruled your
-objections on her account. Have you any other?”
-
-“No—none.”
-
-“You [[Love|love]] me then?” said he, fervently pressing my hand.
-
-“Yes.”
-
-
-Here I pause. My Diary, from which I have compiled these pages, goes
-but little further. I could go on for years, but I will content myself
-with adding, that I shall never forget that glorious [[Summer|summer]] evening,
-and always remember with delight that steep [[Hill|hill]], and the edge of the
-precipice where we stood together, watching the splendid sunset
-mirrored in the restless world of waters at our feet—with hearts filled
-with gratitude to heaven, and happiness, and [[Love|love]]—almost too full for
-speech.
-
-A few weeks after that, when my mother had supplied herself with an
-assistant, I became the wife of [[Edward Weston]]; and never have found
-cause to repent it, and am certain that I never shall. We have had
-trials, and we know that we must have them again; but we bear them [[Well|well]]
-together, and endeavour to fortify ourselves and each other against the
-final separation—that greatest of all afflictions to the survivor. But,
-if we keep in mind the glorious heaven beyond, where both may meet
-again, and sin and sorrow are unknown, surely that too may be borne;
-and, meantime, we endeavour to live to the glory of Him who has
-scattered so many blessings in our path.
-
-Edward, by his strenuous exertions, has worked surprising reforms in
-his parish, and is esteemed and loved by its inhabitants—as he
-deserves; for whatever his faults may be as a man (and no one is
-entirely without), I defy anybody to blame him as a pastor, a husband,
-or a father.
-
-Our children, Edward, Agnes, and little Mary, promise [[Well|well]]; their
-[[Education|education]], for the [[Time|time]] being, is chiefly committed to me; and they
-shall want no good thing that a mother’s care can give. Our modest
-income is amply sufficient for our requirements: and by practising the
-economy we learnt in harder times, and never attempting to imitate our
-richer neighbours, we manage not only to enjoy comfort and contentment
-ourselves, but to have every year something to lay by for our children,
-and something to give to those who need it.
-
-And now I think I have said sufficient.
-
-
-
-_Spottiswode & Co. Ltd._, _Printers_, _London_. _Colchester and Eton_.
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Agnes Grey — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -10538,6 +8786,225 @@ than that of all the world to me.
 
 
 
+<span class="atom-split" data-atom="chapter_06" data-title="Agnes Grey — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+
+
+CHAPTER VI.
+THE PARSONAGE AGAIN
+
+
+For a few months I remained peaceably at [[Home|home]], in the quiet enjoyment
+of liberty and rest, and genuine [[Friendship|friendship]], from all of which I had
+fasted so long; and in the earnest prosecution of my studies, to
+recover what I had lost during my stay at Wellwood [[house|House]], and to lay in
+new stores for future use. My father’s health was still very infirm,
+but not materially worse than when I last saw him; and I was glad I had
+it in my power to cheer him by my return, and to amuse him with singing
+his favourite [[songs]].
+
+No one triumphed over my failure, or said I had better have taken his
+or her advice, and quietly stayed at [[Home|home]]. All were glad to have me
+back again, and lavished more kindness than ever upon me, to make up
+for the sufferings I had undergone; but not one would touch a shilling
+of what I had so cheerfully earned and so carefully saved, in the [[Hope|hope]]
+of sharing it with them. By dint of pinching here, and scraping there,
+our debts were already nearly paid. Mary had had good [[success]] with her
+drawings; but our father had insisted upon _her_ likewise keeping all
+the produce of her industry to herself. All we could spare from the
+supply of our humble wardrobe and our little casual expenses, he
+directed us to put into the savings’-bank; saying, we knew not how soon
+we might be dependent on that [[Alone|alone]] for support: for he felt he had not
+long to be with us, and what would become of our mother and us when he
+was gone, God only knew!
+
+Dear papa! if he had troubled himself less about the afflictions that
+threatened us in case of his [[Death|death]], I am convinced that dreaded event
+would not have taken place so soon. My mother would never suffer him to
+ponder on the subject if she could help it.
+
+“Oh, [[Richard]]!” exclaimed she, on one occasion, “if you would but
+dismiss such gloomy subjects from your mind, you would live as long as
+any of us; at least you would live to see the girls married, and
+yourself a happy grandfather, with a canty old dame for your
+companion.”
+
+My mother laughed, and so did my father: but his laugh soon perished in
+a dreary sigh.
+
+“_They_ married—poor penniless things!” said he; “who will take them I
+[[Wonder|wonder]]!”
+
+“Why, nobody shall that isn’t thankful for them. Wasn’t I penniless
+when you took me? and you _pretended_, at least, to be vastly pleased
+with your acquisition. But it’s no matter whether they get married or
+not: we can devise a thousand honest ways of making a livelihood. And I
+[[Wonder|wonder]], [[Richard]], you can think of bothering your head about our
+_poverty_ in case of your [[Death|death]]; as if _that_ would be anything
+compared with the calamity of losing you—an affliction that you [[Well|well]]
+know would [[Swallow|swallow]] up all others, and which you ought to do your utmost
+to preserve us from: and there is nothing like a cheerful mind for
+keeping the [[Body|body]] in health.”
+
+“I know, Alice, it is wrong to keep repining as I do, but I cannot help
+it: you must bear with me.”
+
+“I _won’t_ bear with you, if I can alter you,” replied my mother: but
+the harshness of her words was undone by the earnest affection of her
+tone and pleasant smile, that made my father smile again, less sadly
+and less transiently than was his wont.
+
+“Mamma,” said I, as soon as I could find an opportunity of speaking
+with her [[Alone|alone]], “my money is but little, and cannot last long; if I
+could increase it, it would lessen papa’s anxiety, on one subject at
+least. I cannot draw like Mary, and so the best thing I could do would
+be to look out for another situation.”
+
+“And so you would actually try again, Agnes?”
+
+“Decidedly, I would.”
+
+“Why, my dear, I should have thought you had had enough of it.”
+
+“I know,” said I, “everybody is not like Mr. and Mrs. Bloomfield—”
+
+“Some are worse,” interrupted my mother.
+
+“But not many, I think,” replied I, “and I’m sure all children are not
+like theirs; for I and Mary were not: we always did as you bid us,
+didn’t we?”
+
+“Generally: but then, I did not spoil you; and you were not perfect
+angels after all: Mary had a fund of quiet obstinacy, and you were
+somewhat faulty in regard to temper; but you were very good children on
+the whole.”
+
+“I know I was sulky sometimes, and I should have been glad to see these
+children sulky sometimes too; for then I could have understood them:
+but they never were, for they _could_ not be offended, nor hurt, nor
+ashamed: they could not be unhappy in any way, except when they were in
+a passion.”
+
+“[[Well]], if they _could_ not, it was not their fault: you cannot expect
+stone to be as pliable as clay.”
+
+“No, but still it is very unpleasant to live with such unimpressible,
+incomprehensible creatures. You cannot [[Love|love]] them; and if you could,
+your [[Love|love]] would be utterly thrown away: they could neither return it,
+nor value, nor understand it. But, however, even if I should stumble on
+such a family again, which is quite unlikely, I have all this
+experience to begin with, and I should manage better another [[Time|time]]; and
+the end and aim of this preamble is, let me try again.”
+
+“[[Well]], my girl, you are not easily discouraged, I see: I am glad of
+that. But, let me tell you, you are a good deal paler and thinner than
+when you first left [[Home|home]]; and we cannot have you undermining your
+health to hoard up money either for yourself or others.”
+
+“Mary tells me I am changed too; and I don’t much [[Wonder|wonder]] at it, for I
+was in a constant state of agitation and anxiety all day long: but next
+[[Time|time]] I am determined to take things coolly.”
+
+After some further discussion, my mother promised once more to assist
+me, provided I would wait and be patient; and I left her to broach the
+matter to my father, when and how she deemed it most advisable: never
+doubting her ability to obtain his consent. Meantime, I searched, with
+great interest, the advertising columns of the newspapers, and wrote
+answers to every “Wanted a Governess” that appeared at all eligible;
+but all my letters, as [[Well|well]] as the replies, when I got any, were
+dutifully shown to my mother; and she, to my chagrin, made me reject
+the situations one after another: these were low people, these were too
+exacting in their demands, and these too niggardly in their
+remuneration.
+
+“Your talents are not such as every poor clergyman’s daughter
+possesses, Agnes,” she would say, “and you must not throw them away.
+Remember, you promised to be patient: there is no need of hurry: you
+have plenty of [[Time|time]] before you, and may have many chances yet.”
+
+At length, she advised me to put an advertisement, myself, in the
+paper, stating my qualifications, &c.
+
+“Music, singing, drawing, French, Latin, and German,” said she, “are no
+mean assemblage: many will be glad to have so much in one instructor;
+and this [[Time|time]], you shall try your fortune in a somewhat higher
+family—in that of some genuine, thoroughbred gentleman; for such are
+far more likely to treat you with proper respect and consideration than
+those purse-proud tradespeople and arrogant upstarts. I have known
+several among the higher ranks who treated their governesses quite as
+one of the family; though some, I allow, are as insolent and exacting
+as any one else can be: for there are bad and good in all classes.”
+
+The advertisement was quickly written and despatched. Of the two
+parties who answered it, but one would consent to give me fifty pounds,
+the sum my mother bade me name as the salary I should require; and
+here, I hesitated about engaging myself, as I feared the children would
+be too old, and their parents would require some one more showy, or
+more experienced, if not more accomplished than I. But my mother
+dissuaded me from declining it on that account: I should do vastly
+[[Well|well]], she said, if I would only throw aside my diffidence, and acquire
+a little more confidence in myself. I was just to give a plain, true
+statement of my acquirements and qualifications, and name what
+stipulations I chose to make, and then await the result. The only
+stipulation I ventured to propose, was that I might be allowed two
+months’ holidays during the year to visit my friends, at Midsummer and
+Christmas. The unknown lady, in her reply, made no objection to this,
+and stated that, as to my acquirements, she had no [[Doubt|doubt]] I should be
+able to give satisfaction; but in the engagement of governesses she
+considered those things as but subordinate points; as being situated in
+the neighbourhood of O——, she could get masters to supply any
+deficiencies in that respect: but, in her opinion, next to
+unimpeachable [[morality]], a mild and cheerful temper and obliging
+disposition were the most essential requisities.
+
+My mother did not relish this at all, and now made many objections to
+my accepting the situation; in which my sister warmly supported her:
+but, unwilling to be balked again, I overruled them all; and, having
+first obtained the consent of my father (who had, a short [[Time|time]]
+previously, been apprised of these transactions), I wrote a most
+obliging epistle to my unknown correspondent, and, finally, the bargain
+was concluded.
+
+It was decreed that on the last day of January I was to enter upon my
+new office as governess in the family of Mr. Murray, of Horton Lodge,
+near O——, about seventy miles from our village: a formidable distance
+to me, as I had never been above twenty miles from [[Home|home]] in all the
+course of my twenty years’ sojourn on earth; and as, moreover, every
+individual in that family and in the neighbourhood was utterly unknown
+to myself and all my acquaintances. But this rendered it only the more
+piquant to me. I had now, in some measure, got rid of the _mauvaise
+honte_ that had formerly oppressed me so much; there was a pleasing
+excitement in the idea of entering these unknown regions, and making my
+way [[Alone|alone]] among its strange inhabitants. I now flattered myself I was
+going to see something in the world: Mr. Murray’s residence was near a
+large town, and not in a manufacturing district, where the people had
+nothing to do but to make money; his rank from what I could gather,
+appeared to be higher than that of Mr. Bloomfield; and, doubtless, he
+was one of those genuine thoroughbred gentry my mother spoke of, who
+would treat his governess with due consideration as a respectable
+[[Well|well]]-educated lady, the instructor and guide of his children, and not a
+mere upper servant. Then, my pupils being older, would be more
+rational, more teachable, and less troublesome than the last; they
+would be less confined to the schoolroom, and not require that constant
+labour and incessant watching; and, finally, bright visions mingled
+with my hopes, with which the care of children and the mere duties of a
+governess had little or nothing to do. Thus, the reader will see that I
+had no claim to be regarded as a martyr to filial piety, going forth to
+sacrifice peace and liberty for the sole purpose of laying up stores
+for the comfort and support of my parents: though certainly the comfort
+of my father, and the future support of my mother, had a large share in
+my calculations; and fifty pounds appeared to me no ordinary sum. I
+must have decent clothes becoming my station; I must, it seemed, put
+out my washing, and also pay for my four annual journeys between Horton
+Lodge and [[Home|home]]; but with strict attention to economy, surely twenty
+pounds, or little more, would cover those expenses, and then there
+would be thirty for the bank, or little less: what a valuable addition
+to our stock! Oh, I must struggle to keep this situation, whatever it
+might be! both for my own [[Honour|honour]] among my friends and for the solid
+services I might render them by my continuance there.
+
+
+
+
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="Agnes Grey — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
 
 
@@ -11080,6 +9547,526 @@ kept steadily to them—very tiresome opinions they often were; as she
 was always thinking of what was right and what was wrong, and had a
 strange reverence for matters connected with religion, and an
 unaccountable liking to good people.”
+
+
+
+
+<span class="atom-split" data-atom="chapter_08" data-title="Agnes Grey — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+
+
+CHAPTER VIII.
+THE “COMING OUT”
+
+
+At eighteen, Miss Murray was to emerge from the quiet obscurity of the
+schoolroom into the full blaze of the fashionable world—as much of it,
+at least, as could be had out of [[London]]; for her papa could not be
+persuaded to leave his rural pleasures and pursuits, even for a few
+weeks’ residence in town. She was to make her _débût_ on the third of
+January, at a magnificent ball, which her mamma proposed to give to all
+the nobility and choice gentry of O—— and its neighbourhood for twenty
+miles round. Of course, she looked forward to it with the wildest
+impatience, and the most extravagant anticipations of delight.
+
+“Miss Grey,” said she, one evening, a month before the all-important
+day, as I was perusing a long and extremely interesting letter of my
+sister’s—which I had just glanced at in the morning to see that it
+contained no very bad news, and kept till now, unable before to find a
+quiet moment for reading it,—“Miss Grey, do put away that dull, stupid
+letter, and listen to me! I’m sure my talk must be far more amusing
+than that.”
+
+She seated herself on the low stool at my feet; and I, suppressing a
+sigh of vexation, began to fold up the epistle.
+
+“You should tell the good people at [[Home|home]] not to bore you with such long
+letters,” said she; “and, above all, do bid them write on proper
+note-paper, and not on those great vulgar sheets. You should see the
+charming little lady-like notes mamma writes to her friends.”
+
+“The good people at [[Home|home]],” replied I, “know very [[Well|well]] that the longer
+their letters are, the better I like them. I should be very sorry to
+receive a charming little lady-like note from any of them; and I
+thought you were too much of a lady yourself, Miss Murray, to talk
+about the ‘vulgarity’ of writing on a large sheet of paper.”
+
+“[[Well]], I only said it to tease you. But now I want to talk about the
+ball; and to tell you that you positively must put off your holidays
+till it is over.”
+
+“Why so?—I shall not be present at the ball.”
+
+“No, but you will see the rooms decked out before it begins, and hear
+the music, and, above all, see me in my splendid new dress. I shall be
+so charming, you’ll be ready to worship me—you really must stay.”
+
+“I should like to see you very much; but I shall have many
+opportunities of seeing you equally charming, on the occasion of some
+of the numberless balls and parties that are to be, and I cannot
+disappoint my friends by postponing my return so long.”
+
+“Oh, never mind your friends! Tell them we won’t let you go.”
+
+“But, to say the [[Truth|truth]], it would be a disappointment to myself: I long
+to see them as much as they to see me—perhaps more.”
+
+“[[Well]], but it is such a short [[Time|time]].”
+
+“Nearly a fortnight by my computation; and, besides, I cannot bear the
+thoughts of a Christmas spent from [[Home|home]]: and, moreover, my sister is
+going to be married.”
+
+“Is she—when?”
+
+“Not till next month; but I want to be there to assist her in making
+preparations, and to make the best of her company while we have her.”
+
+“Why didn’t you tell me before?”
+
+“I’ve only got the news in this letter, which you stigmatize as dull
+and stupid, and won’t let me read.”
+
+“To whom is she to be married?”
+
+“To Mr. Richardson, the vicar of a neighbouring parish.”
+
+“Is he rich?”
+
+“No; only comfortable.”
+
+“Is he handsome?”
+
+“No; only decent.”
+
+“Young?”
+
+“No; only middling.”
+
+“Oh, [[Mercy|mercy]]! what a wretch! What sort of a [[house]] is it?”
+
+“A quiet little vicarage, with an ivy-clad porch, an old-fashioned
+[[Garden|garden]], and—”
+
+“Oh, stop!—you’ll make me sick. How _can_ she bear it?”
+
+“I expect she’ll not only be able to bear it, but to be very happy. You
+did not ask me if Mr. Richardson were a good, wise, or amiable man; I
+could have answered Yes, to all these questions—at least so Mary
+thinks, and I [[Hope|hope]] she will not find herself mistaken.”
+
+“But—miserable creature! how can she think of spending her life there,
+cooped up with that nasty old man; and no [[Hope|hope]] of change?”
+
+“He is not old: he’s only six or seven and thirty; and she herself is
+twenty-eight, and as sober as if she were fifty.”
+
+“Oh! that’s better then—they’re [[Well|well]] matched; but do they call him the
+‘worthy vicar’?”
+
+“I don’t know; but if they do, I believe he merits the epithet.”
+
+“[[Mercy]], how shocking! and will she wear a white apron and make pies and
+puddings?”
+
+“I don’t know about the white apron, but I dare say she will make pies
+and puddings now and then; but that will be no great hardship, as she
+has done it before.”
+
+“And will she go about in a plain shawl, and a large straw bonnet,
+carrying tracts and bone soup to her husband’s poor parishioners?”
+
+“I’m not clear about that; but I dare say she will do her best to make
+them comfortable in [[Body|body]] and mind, in accordance with our mother’s
+example.”
+
+
+
+
+<span class="atom-split" data-atom="chapter_09" data-title="Agnes Grey — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+
+
+CHAPTER IX.
+THE BALL
+
+
+“Now, Miss Grey,” exclaimed Miss Murray, immediately I entered the
+schoolroom, after having taken off my outdoor garments, upon returning
+from my four weeks’ recreation, “Now—shut the door, and sit down, and
+I’ll tell you all about the ball.”
+
+“No—damn it, no!” shouted Miss Matilda. “Hold your tongue, can’t ye?
+and let me tell her about my new mare—_such_ a splendour, Miss Grey! a
+fine [[Blood|blood]] mare—”
+
+“Do be quiet, Matilda; and let me tell my news first.”
+
+“No, no, Rosalie; you’ll be such a damned long [[Time|time]] over it—she shall
+hear me first—I’ll be hanged if she doesn’t!”
+
+“I’m sorry to hear, Miss Matilda, that you’ve not got rid of that
+shocking habit yet.”
+
+“[[Well]], I can’t help it: but I’ll never say a wicked word again, if
+you’ll only listen to me, and tell Rosalie to hold her confounded
+tongue.”
+
+Rosalie remonstrated, and I thought I should have been torn in pieces
+between them; but Miss Matilda having the loudest voice, her sister at
+length gave in, and suffered her to tell her story first: so I was
+doomed to hear a long account of her splendid mare, its breeding and
+pedigree, its paces, its action, its spirit, &c., and of her own
+amazing skill and [[Courage|courage]] in riding it; concluding with an assertion
+that she could clear a five-barred gate “like winking,” that papa said
+she might hunt the next [[Time|time]] the hounds met, and mamma had ordered a
+bright scarlet hunting-habit for her.
+
+“Oh, Matilda! what stories you are telling!” exclaimed her sister.
+
+“[[Well]],” answered she, no whit abashed, “I know I _could_ clear a
+five-barred gate, if I tried, and papa _will_ say I may hunt, and mamma
+_will_ order the habit when I ask it.”
+
+“[[Well]], now get along,” replied Miss Murray; “and do, dear Matilda, try
+to be a little more lady-like. Miss Grey, I wish you would tell her not
+to use such shocking words; she will call her [[Horse|horse]] a mare: it is so
+inconceivably shocking! and then she uses such dreadful expressions in
+describing it: she must have learned it from the grooms. It nearly puts
+me into fits when she begins.”
+
+“I learned it from papa, you ass! and his jolly friends,” said the
+young lady, vigorously cracking a hunting-whip, which she habitually
+carried in her hand. “I’m as good judge of horseflesh as the best of
+’m.”
+
+“[[Well]], now get along, you shocking girl! I really shall take a fit if
+you go on in such a way. And now, Miss Grey, attend to me; I’m going to
+tell you about the ball. You must be dying to hear about it, I know.
+Oh, _such_ a ball! You never saw or heard, or read, or dreamt of
+anything like it in all your life. The decorations, the entertainment,
+the supper, the music were indescribable! and then the guests! There
+were two noblemen, three baronets, and five titled ladies, and other
+ladies and gentlemen innumerable. The ladies, of course, were of no
+consequence to me, except to put me in a good [[Humour|humour]] with myself, by
+showing how ugly and awkward most of them were; and the best, mamma
+told me,—the most transcendent beauties among them, were nothing to me.
+As for me, Miss Grey—I’m so _sorry_ you didn’t see me! I was
+_charming_—wasn’t I, Matilda?”
+
+“Middling.”
+
+“No, but I really was—at least so mamma said—and Brown and Williamson.
+Brown said she was sure no gentleman could set eyes on me without
+falling in [[Love|love]] that minute; and so I may be allowed to be a little
+vain. I know you think me a shocking, conceited, frivolous girl; but
+then, you know, I don’t attribute it _all_ to my personal attractions:
+I give some praise to the hairdresser, and some to my exquisitely
+lovely dress—you must see it to-morrow—white gauze over pink satin—and
+so _sweetly_ made! and a necklace and bracelet of beautiful, large
+pearls!”
+
+“I have no [[Doubt|doubt]] you looked very charming: but should that delight you
+so very much?”
+
+“Oh, no!—not that [[Alone|alone]]: but, then, I was so much admired; and I made
+so _many_ conquests in that one [[Night|night]]—you’d be astonished to hear—”
+
+“But what good will they do you?”
+
+“What good! Think of any woman asking that!”
+
+“[[Well]], I should think one conquest would be enough; and too much,
+unless the subjugation were mutual.”
+
+“Oh, but you know I never agree with you on those points. Now, wait a
+bit, and I’ll tell you my principal admirers—those who made themselves
+very conspicuous that [[Night|night]] and after: for I’ve been to two parties
+since. Unfortunately the two noblemen, Lord G—— and Lord F——, were
+married, or I might have condescended to be particularly gracious to
+_them_; as it was, I did not: though Lord F——, who hates his wife, was
+evidently much struck with me. He asked me to [[Dance|dance]] with him twice—he
+is a charming dancer, by-the-by, and so am I: you can’t think how [[Well|well]]
+I did—I was astonished at myself. My lord was very complimentary
+too—rather too much so in fact—and I thought proper to be a little
+haughty and repellent; but I had the pleasure of seeing his nasty,
+[[Cross|cross]] wife ready to perish with spite and vexation—”
+
+“Oh, Miss Murray! you don’t mean to say that such a thing could really
+give you pleasure? However [[Cross|cross]] or—”
+
+“[[Well]], I know it’s very wrong;—but never mind! I mean to be good some
+[[Time|time]]—only don’t preach now, there’s a good creature. I haven’t told you
+half yet. Let me see. Oh! I was going to tell you how many
+unmistakeable admirers I had:—Sir Thomas Ashby was one,—Sir Hugh
+Meltham and Sir Broadley Wilson are old codgers, only fit companions
+for papa and mamma. Sir Thomas is young, rich, and gay; but an ugly
+beast, nevertheless: however, mamma says I should not mind that after a
+few months’ acquaintance. Then, there was Henry Meltham, Sir Hugh’s
+younger son; rather good-looking, and a pleasant fellow to flirt with:
+but _being_ a younger son, that is all he is good for; then there was
+young Mr. Green, rich enough, but of no family, and a great stupid
+fellow, a mere country booby! and then, our good rector, Mr. Hatfield:
+an _humble_ admirer he ought to consider himself; but I [[Fear|fear]] he has
+forgotten to number [[Humility|humility]] among his stock of Christian virtues.”
+
+“Was Mr. Hatfield at the ball?”
+
+“Yes, to be sure. Did you think he was too good to go?”
+
+“I thought be might consider it unclerical.”
+
+“By no means. He did not profane his cloth by dancing; but it was with
+difficulty he could refrain, poor man: he looked as if he were dying to
+ask my hand just for _one_ set; and—oh! by-the-by—he’s got a new
+curate: that seedy old fellow Mr. Bligh has got his long-wished-for
+living at last, and is gone.”
+
+“And what is the new one like?”
+
+“Oh, _such_ a beast! Weston his name is. I can give you his description
+in three words—an insensate, ugly, stupid blockhead. That’s four, but
+no matter—enough of _him_ now.”
+
+Then she returned to the ball, and gave me a further account of her
+deportment there, and at the several parties she had since attended;
+and further particulars respecting Sir Thomas Ashby and Messrs.
+Meltham, Green, and Hatfield, and the ineffaceable impression she had
+wrought upon each of them.
+
+“[[Well]], which of the four do you like best?” said I, suppressing my
+third or fourth yawn.
+
+“I detest them all!” replied she, shaking her bright ringlets in
+vivacious scorn.
+
+“That means, I suppose, ‘I like them all’—but which most?”
+
+“No, I really detest them all; but Harry Meltham is the handsomest and
+most amusing, and Mr. Hatfield the cleverest, Sir Thomas the wickedest,
+and Mr. Green the most stupid. But the one I’m to have, I suppose, if
+I’m doomed to have any of them, is Sir Thomas Ashby.”
+
+“Surely not, if he’s so wicked, and if you dislike him?”
+
+“Oh, I don’t mind his being wicked: he’s all the better for that; and
+as for disliking him—I shouldn’t greatly object to being Lady Ashby of
+Ashby Park, if I must marry. But if I could be always young, I would be
+always single. I should like to enjoy myself thoroughly, and coquet
+with all the world, till I am on the verge of being called an old maid;
+and then, to escape the infamy of that, after having made ten thousand
+conquests, to break all their hearts save one, by marrying some
+high-born, rich, indulgent husband, whom, on the other hand, fifty
+ladies were dying to have.”
+
+“[[Well]], as long as you entertain these views, keep single by all means,
+and never marry at all: not even to escape the infamy of
+old-maidenhood.”
+
+
+
+
+<span class="atom-split" data-atom="chapter_10" data-title="Agnes Grey — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+
+
+CHAPTER X.
+THE CHURCH
+
+
+“[[Well]], Miss Grey, what do you think of the new curate?” asked Miss
+Murray, on our return from church the [[Sunday]] after the recommencement
+of our duties.
+
+“I can scarcely tell,” was my reply: “I have not even heard him
+preach.”
+
+“[[Well]], but you saw him, didn’t you?”
+
+“Yes, but I cannot pretend to judge of a man’s character by a single
+cursory glance at his face.”
+
+“But isn’t he ugly?”
+
+“He did not strike me as being particularly so; I don’t dislike that
+cast of countenance: but the only thing I particularly noticed about
+him was his style of reading; which appeared to me good—infinitely
+better, at least, than Mr. Hatfield’s. He read the Lessons as if he
+were bent on giving full effect to every passage; it seemed as if the
+most careless person could not have helped attending, nor the most
+ignorant have failed to understand; and the prayers he read as if he
+were not reading at all, but praying earnestly and sincerely from his
+own heart.”
+
+“Oh, yes, that’s all he is good for: he can plod through the service
+[[Well|well]] enough; but he has not a single idea beyond it.”
+
+“How do you know?”
+
+“Oh! I know perfectly [[Well|well]]; I am an excellent judge in such matters.
+Did you see how he went out of church? stumping along—as if there were
+nobody there but himself—never looking to the right hand or the left,
+and evidently thinking of nothing but just getting out of the church,
+and, perhaps, [[Home|home]] to his dinner: his great stupid head could contain
+no other idea.”
+
+“I suppose you would have had him cast a glance into the squire’s pew,”
+said I, laughing at the vehemence of her hostility.
+
+“Indeed! I should have been highly indignant if he had dared to do such
+a thing!” replied she, haughtily tossing her head; then, after a
+moment’s reflection, she added—“[[Well]], [[Well|well]]! I suppose he’s good enough
+for his place: but I’m glad I’m not dependent on _him_ for
+amusement—that’s all. Did you see how Mr. Hatfield hurried out to get a
+bow from me, and be in [[Time|time]] to put us into the carriage?”
+
+“Yes,” answered I; internally adding, “and I thought it somewhat
+derogatory to his dignity as a clergyman to come flying from the pulpit
+in such eager haste to shake hands with the squire, and hand his wife
+and daughters into their carriage: and, moreover, I owe him a grudge
+for nearly shutting me out of it”; for, in fact, though I was standing
+before his face, close beside the carriage steps, waiting to get in, he
+would persist in putting them up and closing the door, till one of the
+family stopped him by calling out that the governess was not in yet;
+then, without a word of apology, he departed, wishing them
+good-morning, and leaving the footman to finish the business.
+
+_Nota bene_.—Mr. Hatfield never spoke to me, neither did Sir Hugh or
+Lady Meltham, nor Mr. Harry or Miss Meltham, nor Mr. Green or his
+sisters, nor any other lady or gentleman who frequented that church:
+nor, in fact, any one that visited at Horton Lodge.
+
+Miss Murray ordered the carriage again, in the afternoon, for herself
+and her sister: she said it was too cold for them to enjoy themselves
+in the [[Garden|garden]]; and besides, she believed Harry Meltham would be at
+church. “For,” said she, smiling slyly at her own fair image in the
+glass, “he has been a most exemplary attendant at church these last few
+Sundays: you would think he was quite a good Christian. And you may go
+with us, Miss Grey: I want you to see him; he is so greatly improved
+since he returned from abroad—you can’t think! And besides, then you
+will have an opportunity of seeing the beautiful Mr. Weston again, and
+of hearing him preach.”
+
+I did hear him preach, and was decidedly pleased with the evangelical
+[[Truth|truth]] of his doctrine, as [[Well|well]] as the earnest simplicity of his manner,
+and the clearness and force of his style. It was truly refreshing to
+hear such a sermon, after being so long accustomed to the dry, prosy
+discourses of the former curate, and the still less edifying harangues
+of the rector. Mr. Hatfield would come sailing up the aisle, or rather
+sweeping along like a whirlwind, with his rich silk gown flying behind
+him and rustling against the pew doors, mount the pulpit like a
+conqueror ascending his triumphal car; then, sinking on the velvet
+cushion in an attitude of studied grace, remain in silent prostration
+for a certain [[Time|time]]; then mutter over a Collect, and gabble through the
+Lord’s [[prayer|Prayer]], rise, draw off one bright lavender glove, to give the
+congregation the benefit of his sparkling rings, lightly pass his
+fingers through his [[Well|well]]-curled hair, flourish a cambric handkerchief,
+recite a very short passage, or, perhaps, a mere phrase of Scripture,
+as a head-piece to his discourse, and, finally, deliver a composition
+which, as a composition, might be considered good, though far too
+studied and too artificial to be pleasing to me: the propositions were
+[[Well|well]] laid down, the arguments logically conducted; and yet, it was
+sometimes hard to listen quietly throughout, without some slight
+demonstrations of disapproval or impatience.
+
+His favourite subjects were church discipline, rites and ceremonies,
+apostolical succession, the duty of reverence and obedience to the
+clergy, the atrocious criminality of dissent, the absolute necessity of
+observing all the forms of godliness, the reprehensible presumption of
+individuals who attempted to think for themselves in matters connected
+with religion, or to be guided by their own interpretations of
+Scripture, and, occasionally (to please his wealthy parishioners) the
+necessity of deferential obedience from the poor to the rich—supporting
+his maxims and exhortations throughout with quotations from the
+Fathers: with whom he appeared to be far better acquainted than with
+the Apostles and Evangelists, and whose importance he seemed to
+consider at least equal to theirs. But now and then he gave us a sermon
+of a different order—what some would call a very good one; but sunless
+and severe: representing the Deity as a terrible taskmaster rather than
+a benevolent father. Yet, as I listened, I felt inclined to think the
+man was sincere in all he said: he must have changed his views, and
+become decidedly religious, gloomy and austere, yet still devout. But
+such illusions were usually dissipated, on coming out of church, by
+hearing his voice in jocund colloquy with some of the Melthams or
+Greens, or, perhaps, the Murrays themselves; probably laughing at his
+own sermon, and hoping that he had given the rascally people something
+to think about; perchance, exulting in the thought that old Betty
+Holmes would now lay aside the sinful indulgence of her pipe, which had
+been her daily solace for upwards of thirty years: that George Higgins
+would be frightened out of his Sabbath evening walks, and Thomas
+Jackson would be sorely troubled in his [[Conscience|conscience]], and shaken in his
+sure and certain [[Hope|hope]] of a joyful [[Resurrection|resurrection]] at the last day.
+
+Thus, I could not but conclude that Mr. Hatfield was one of those who
+“bind heavy burdens, and grievous to be borne, and lay them upon men’s
+shoulders, while they themselves will not move them with one of their
+fingers”; and who “make the word of God of none effect by their
+traditions, teaching for doctrines the commandments of men.” I was [[Well|well]]
+pleased to observe that the new curate resembled him, as far as I could
+see, in none of these particulars.
+
+“[[Well]], Miss Grey, what do you think of him now?” said Miss Murray, as
+we took our places in the carriage after service.
+
+“No harm still,” replied I.
+
+“No harm!” repeated she in amazement. “What do you mean?”
+
+“I mean, I think no worse of him than I did before.”
+
+“No worse! I should think not indeed—quite the contrary! Is he not
+greatly improved?”
+
+“Oh, yes; very much indeed,” replied I; for I had now discovered that
+it was Harry Meltham she meant, not Mr. Weston. That gentleman had
+eagerly come forward to speak to the young ladies: a thing he would
+hardly have ventured to do had their mother been present; he had
+likewise politely handed them into the carriage. He had not attempted
+to shut me out, like Mr. Hatfield; neither, of course, had he offered
+me his assistance (I should not have accepted it, if he had), but as
+long as the door remained open he had stood smirking and chatting with
+them, and then lifted his hat and departed to his own abode: but I had
+scarcely noticed him all the [[Time|time]]. My companions, however, had been
+more observant; and, as we rolled along, they discussed between them
+not only his looks, words, and actions, but every feature of his face,
+and every article of his apparel.
+
+“You shan’t have him all to yourself, Rosalie,” said Miss Matilda at
+the close of this discussion; “I like him: I know he’d make a nice,
+jolly companion for me.”
+
+“[[Well]], you’re quite welcome to him, Matilda,” replied her sister, in a
+tone of affected indifference.
+
+“And I’m sure,” continued the other, “he admires me quite as much as he
+does you; doesn’t he, Miss Grey?”
+
+“I don’t know; I’m not acquainted with his sentiments.”
+
+“[[Well]], but he _does_ though.”
+
+“My _dear_ Matilda! nobody will ever admire you till you get rid of
+your rough, awkward manners.”
+
+“Oh, stuff! Harry Meltham likes such manners; and so do papa’s
+friends.”
+
+“[[Well]], you _may_ captivate old men, and younger sons; but nobody else,
+I am sure, will ever take a fancy to you.”
+
+“I don’t care: I’m not always grabbing after money, like you and mamma.
+If my husband is able to keep a few good horses and [[dogs]], I shall be
+quite satisfied; and all the rest may go to the devil!”
+
+“[[Well]], if you use such shocking expressions, I’m sure no real gentleman
+will ever venture to come near you. Really, Miss Grey, you should not
+let her do so.”
+
+“I can’t possibly prevent it, Miss Murray.”
+
+“And you’re quite mistaken, Matilda, in supposing that Harry Meltham
+admires you: I assure you he does nothing of the kind.”
+
+Matilda was beginning an angry reply; but, happily, our [[Journey|journey]] was now
+at an end; and the contention was cut short by the footman opening the
+carriage-door, and letting down the steps for our descent.
 
 
 
@@ -11630,6 +10617,169 @@ sense, firm [[Faith|faith]], and ardent piety, but thoughtful and stern: and whe
 I found that, to his other good qualities, was added that of true
 benevolence and gentle, considerate kindness, the discovery, perhaps,
 delighted me the more, as I had not been prepared to expect it.
+
+
+
+
+<span class="atom-split" data-atom="chapter_12" data-title="Agnes Grey — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+
+
+CHAPTER XII.
+THE SHOWER
+
+
+The next visit I paid to [[Nancy]] Brown was in the second week in March:
+for, though I had many spare minutes during the day, I seldom could
+look upon an hour as entirely my own; since, where everything was left
+to the caprices of Miss Matilda and her sister, there could be no order
+or regularity. Whatever occupation I chose, when not actually busied
+about them or their concerns, I had, as it were, to keep my loins
+girded, my shoes on my feet, and my staff in my hand; for not to be
+immediately forthcoming when called for, was regarded as a [[Grave|grave]] and
+inexcusable offence: not only by my pupils and their mother, but by the
+very servant, who came in breathless haste to call me, exclaiming,
+“You’re to go to the schoolroom _directly_, mum, the young ladies is
+WAITING!!” Climax of horror! actually waiting for their governess!!!
+
+But this [[Time|time]] I was pretty sure of an hour or two to myself; for
+Matilda was preparing for a long ride, and Rosalie was dressing for a
+dinner-party at Lady Ashby’s: so I took the opportunity of repairing to
+the widow’s cottage, where I found her in some anxiety about her cat,
+which had been absent all day. I comforted her with as many anecdotes
+of that animal’s roving propensities as I could recollect. “I’m feared
+o’ th’ gamekeepers,” said she: “that’s all ’at I think on. If th’ young
+gentlemen had been at [[Home|home]], I should a’ thought they’d been setting
+their [[dogs]] at her, an’ worried her, poor thing, as they did _many_ a
+poor thing’s cat; but I haven’t that to be feared on now.” [[Nancy]]’s eyes
+were better, but still far from [[Well|well]]: she had been trying to make a
+[[Sunday]] shirt for her son, but told me she could only bear to do a
+little bit at it now and then, so that it progressed but slowly, though
+the poor lad wanted it sadly. So I proposed to help her a little, after
+I had read to her, for I had plenty of [[Time|time]] that evening, and need not
+return till dusk. She thankfully accepted the offer. “An’ you’ll be a
+bit o’ company for me too, Miss,” said she; “I like as I feel lonesome
+without my cat.” But when I had finished reading, and done the half of
+a seam, with [[Nancy]]’s capacious brass thimble fitted on to my finger by
+means of a roll of paper, I was disturbed by the entrance of Mr.
+Weston, with the identical cat in his arms. I now saw that he could
+smile, and very pleasantly too.
+
+“I’ve done you a piece of good service, [[Nancy]],” he began: then seeing
+me, he acknowledged my presence by a slight bow. I should have been
+invisible to Hatfield, or any other gentleman of those parts. “I’ve
+delivered your cat,” he continued, “from the hands, or rather the gun,
+of Mr. Murray’s gamekeeper.”
+
+“God bless you, sir!” cried the grateful old woman, ready to weep for
+joy as she received her favourite from his arms.
+
+“Take care of it,” said he, “and don’t let it go near the
+rabbit-warren, for the gamekeeper swears he’ll shoot it if he sees it
+there again: he would have done so to-day, if I had not been in [[Time|time]] to
+stop him. I believe it is raining, Miss Grey,” added he, more quietly,
+observing that I had put aside my work, and was preparing to depart.
+“Don’t let me disturb you—I shan’t stay two minutes.”
+
+“You’ll _both_ stay while this shower gets owered,” said [[Nancy]], as she
+stirred the [[Fire|fire]], and placed another chair beside it; “what! there’s
+room for all.”
+
+“I can see better here, thank you, [[Nancy]],” replied I, taking my work to
+the [[Window|window]], where she had the goodness to suffer me to remain
+unmolested, while she got a brush to remove the cat’s hairs from Mr.
+Weston’s coat, carefully wiped the rain from his hat, and gave the cat
+its supper, busily talking all the [[Time|time]]: now thanking her clerical
+friend for what he had done; now wondering how the cat had found out
+the warren; and now lamenting the probable consequences of such a
+discovery. He listened with a quiet, good-natured smile, and at length
+took a seat in compliance with her pressing invitations, but repeated
+that he did not mean to stay.
+
+“I have another place to go to,” said he, “and I see” (glancing at the
+book on the table) “someone else has been reading to you.”
+
+“Yes, sir; Miss Grey has been as kind as read me a chapter; an’ now
+she’s helping me with a shirt for our Bill—but I’m feared she’ll be
+cold there. Won’t you come to th’ [[Fire|fire]], Miss?”
+
+“No, thank you, [[Nancy]], I’m quite warm. I must go as soon as this shower
+is over.”
+
+“Oh, Miss! You said you could stop while dusk!” cried the provoking old
+woman, and Mr. Weston seized his hat.
+
+“Nay, sir,” exclaimed she, “pray don’t go now, while it rains so fast.”
+
+“But it strikes me I’m keeping your visitor away from the [[Fire|fire]].”
+
+“No, you’re not, Mr. Weston,” replied I, hoping there was no harm in a
+falsehood of that description.
+
+“No, sure!” cried [[Nancy]]. “What, there’s lots o’ room!”
+
+“Miss Grey,” said he, half-jestingly, as if he felt it necessary to
+change the present subject, whether he had anything particular to say
+or not, “I wish you would make my peace with the squire, when you see
+him. He was by when I rescued [[Nancy]]’s cat, and did not quite approve of
+the deed. I told him I thought he might better spare all his rabbits
+than she her cat, for which audacious assertion he treated me to some
+rather ungentlemanly language; and I [[Fear|fear]] I retorted a trifle too
+warmly.”
+
+“Oh, lawful sir! I [[Hope|hope]] you didn’t fall out wi’ th’ maister for sake o’
+my cat! he cannot bide answering again—can th’ maister.”
+
+“Oh! it’s no matter, [[Nancy]]: I don’t care about it, really; I said
+nothing _very_ uncivil; and I suppose Mr. Murray is accustomed to use
+rather strong language when he’s heated.”
+
+“Ay, sir: it’s a pity.”
+
+“And now, I really must go. I have to visit a place a mile beyond this;
+and you would not have me to return in the dark: besides, it has nearly
+done raining now—so good-evening, [[Nancy]]. Good-evening, Miss Grey.”
+
+“Good-evening, Mr. Weston; but don’t depend upon me for making your
+peace with Mr. Murray, for I never see him—to speak to.”
+
+“Don’t you; it can’t be helped then,” replied he, in dolorous
+[[Resignation|resignation]]: then, with a peculiar half-smile, he added, “But never
+mind; I imagine the squire has more to apologise for than I;” and left
+the cottage.
+
+I went on with my sewing as long as I could see, and then bade [[Nancy]]
+good-evening; checking her too lively gratitude by the undeniable
+assurance that I had only done for her what she would have done for me,
+if she had been in my place and I in hers. I hastened back to Horton
+Lodge, where, having entered the schoolroom, I found the tea-table all
+in confusion, the tray flooded with slops, and Miss Matilda in a most
+ferocious [[Humour|humour]].
+
+“Miss Grey, whatever have you been about? I’ve had tea half an hour
+ago, and had to make it myself, and drink it all [[Alone|alone]]! I wish you
+would come in sooner!”
+
+“I’ve been to see [[Nancy]] Brown. I thought you would not be back from
+your ride.”
+
+“How could I ride in the rain, I should like to know. That damned
+pelting shower was vexatious enough—coming on when I was just in full
+swing: and then to come and find nobody in to tea! and you know I can’t
+make the tea as I like it.”
+
+“I didn’t think of the shower,” replied I (and, indeed, the thought of
+its driving her [[Home|home]] had never entered my head).
+
+“No, of course; you were under shelter yourself, and you never thought
+of other people.”
+
+I bore her coarse reproaches with astonishing equanimity, even with
+cheerfulness; for I was sensible that I had done more good to [[Nancy]]
+Brown than harm to her: and perhaps some other thoughts assisted to
+keep up my spirits, and impart a relish to the cup of cold, overdrawn
+tea, and a charm to the otherwise unsightly table; and—I had almost
+said—to Miss Matilda’s unamiable face. But she soon betook herself to
+the stables, and left me to the quiet enjoyment of my solitary meal.
 
 
 
@@ -12708,6 +11858,151 @@ from a pleasant walk.
 
 
 
+<span class="atom-split" data-atom="chapter_17" data-title="Agnes Grey — Chapter 16" data-chapter="Chapter 17" data-kind="chapter"></span>
+
+
+CHAPTER XVI.
+THE SUBSTITUTION
+
+
+Next [[Sunday]] was one of the gloomiest of April days—a day of thick, dark
+clouds, and heavy showers. None of the Murrays were disposed to attend
+church in the afternoon, excepting Rosalie: she was bent upon going as
+usual; so she ordered the carriage, and I went with her: nothing loth,
+of course, for at church I might look without [[Fear|fear]] of scorn or censure
+upon a form and face more pleasing to me than the most beautiful of
+God’s creations; I might listen without disturbance to a voice more
+charming than the sweetest music to my ears; I might seem to hold
+communion with that [[Soul|soul]] in which I felt so deeply interested, and
+imbibe its purest thoughts and holiest aspirations, with no alloy to
+such felicity except the secret reproaches of my [[Conscience|conscience]], which
+would too often whisper that I was deceiving my own [[Self|self]], and mocking
+God with the service of a heart more bent upon the creature than the
+Creator.
+
+Sometimes, such thoughts would give me trouble enough; but sometimes I
+could quiet them with thinking—it is not the man, it is his goodness
+that I [[Love|love]]. “Whatsoever things are pure, whatsoever things are lovely,
+whatsoever things are honest and of good report, think on these
+things.” We do [[Well|well]] to worship God in His works; and I know none of
+them in which so many of His attributes—so much of His own spirit
+shines, as in this His faithful servant; whom to know and not to
+appreciate, were obtuse insensibility in me, who have so little else to
+occupy my heart.
+
+Almost immediately after the conclusion of the service, Miss Murray
+left the church. We had to stand in the porch, for it was raining, and
+the carriage was not yet come. I wondered at her coming forth so
+hastily, for neither young Meltham nor Squire Green was there; but I
+soon found it was to secure an interview with Mr. Weston as he came
+out, which he presently did. Having saluted us both, he would have
+passed on, but she detained him; first with observations upon the
+disagreeable weather, and then with asking if he would be so kind as to
+come some [[Time|time]] to-morrow to see the granddaughter of the old woman who
+kept the porter’s lodge, for the girl was ill of a fever, and wished to
+see him. He promised to do so.
+
+“And at what [[Time|time]] will you be most likely to come, Mr. Weston? The old
+woman will like to know when to expect you—you know such people think
+more about having their cottages in order when decent people come to
+see them than we are apt to suppose.”
+
+Here was a wonderful instance of consideration from the thoughtless
+Miss Murray. Mr. Weston named an hour in the morning at which he would
+endeavour to be there. By this [[Time|time]] the carriage was ready, and the
+footman was waiting, with an open umbrella, to escort Miss Murray
+through the churchyard. I was about to follow; but Mr. Weston had an
+umbrella too, and offered me the benefit of its shelter, for it was
+raining heavily.
+
+“No, thank you, I don’t mind the rain,” I said. I always lacked common
+sense when taken by surprise.
+
+“But you don’t _like_ it, I suppose?—an umbrella will do you no harm at
+any rate,” he replied, with a smile that showed he was not offended; as
+a man of worse temper or less penetration would have been at such a
+refusal of his aid. I could not deny the [[Truth|truth]] of his assertion, and so
+went with him to the carriage; he even offered me his hand on getting
+in: an unnecessary piece of civility, but I accepted that too, for [[Fear|fear]]
+of giving offence. One glance he gave, one little smile at parting—it
+was but for a moment; but therein I read, or thought I read, a meaning
+that kindled in my heart a brighter flame of [[Hope|hope]] than had ever yet
+arisen.
+
+“I would have sent the footman back for you, Miss Grey, if you’d waited
+a moment—you needn’t have taken Mr. Weston’s umbrella,” observed
+Rosalie, with a very unamiable cloud upon her pretty face.
+
+“I would have come without an umbrella, but Mr. Weston offered me the
+benefit of his, and I could not have refused it more than I did without
+offending him,” replied I, smiling placidly; for my inward happiness
+made that amusing, which would have wounded me at another [[Time|time]].
+
+The carriage was now in motion. Miss Murray bent forwards, and looked
+out of the [[Window|window]] as we were passing Mr. Weston. He was pacing
+homewards along the causeway, and did not turn his head.
+
+“Stupid ass!” cried she, throwing herself back again in the seat. “You
+don’t know what you’ve lost by not looking this way!”
+
+“What has he lost?”
+
+“A bow from me, that would have raised him to the seventh heaven!”
+
+I made no answer. I saw she was out of [[Humour|humour]], and I derived a secret
+gratification from the fact, not that she was vexed, but that she
+thought she had reason to be so. It made me think my hopes were not
+entirely the offspring of my wishes and [[Imagination|imagination]].
+
+“I mean to take up Mr. Weston instead of Mr. Hatfield,” said my
+companion, after a short pause, resuming something of her usual
+cheerfulness. “The ball at Ashby Park takes place on Tuesday, you know;
+and mamma thinks it very likely that Sir Thomas will propose to me
+then: such things are often done in the privacy of the ball-room, when
+gentlemen are most easily ensnared, and ladies most enchanting. But if
+I am to be married so soon, I must make the best of the present [[Time|time]]: I
+am determined Hatfield shall not be the only man who shall lay his
+heart at my feet, and implore me to accept the worthless gift in vain.”
+
+“If you mean Mr. Weston to be one of your victims,” said I, with
+affected indifference, “you will have to make such overtures yourself
+that you will find it difficult to draw back when he asks you to fulfil
+the expectations you have raised.”
+
+“I don’t suppose he will ask me to marry him, nor should I [[Desire|desire]] it:
+that would be rather too much presumption! but I intend him to feel my
+power. He has felt it already, indeed: but he shall _acknowledge_ it
+too; and what visionary hopes he may have, he must keep to himself, and
+only amuse me with the result of them—for a [[Time|time]].”
+
+“Oh! that some kind spirit would whisper those words in his ear,” I
+inwardly exclaimed. I was far too indignant to hazard a reply to her
+observation aloud; and nothing more was said about Mr. Weston that day,
+by me or in my hearing. But next morning, soon after breakfast, Miss
+Murray came into the schoolroom, where her sister was employed at her
+studies, or rather her lessons, for studies they were not, and said,
+“Matilda, I want you to take a walk with me about eleven o’[[Clock|clock]].”
+
+“Oh, I can’t, Rosalie! I have to give orders about my new bridle and
+saddle-cloth, and speak to the rat-catcher about his [[dogs]]: Miss Grey
+must go with you.”
+
+“No, I want you,” said Rosalie; and calling her sister to the [[Window|window]],
+she whispered an explanation in her ear; upon which the latter
+consented to go.
+
+I remembered that eleven was the hour at which Mr. Weston proposed to
+come to the porter’s lodge; and remembering that, I beheld the whole
+contrivance. Accordingly, at dinner, I was entertained with a long
+account of how Mr. Weston had overtaken them as they were walking along
+the [[Road|road]]; and how they had had a long walk and talk with him, and
+really found him quite an agreeable companion; and how he must have
+been, and evidently was, delighted with them and their amazing
+condescension, &c. &c.
+
+
+
+
 <span class="atom-split" data-atom="chapter_18--part_01" data-title="Agnes Grey — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
 
 
@@ -13452,6 +12747,333 @@ tremendous.
 
 
 
+<span class="atom-split" data-atom="chapter_20" data-title="Agnes Grey — Chapter 19" data-chapter="Chapter 20" data-kind="chapter"></span>
+
+
+CHAPTER XIX.
+THE LETTER
+
+
+My father’s mortal remains had been consigned to the tomb; and we, with
+sad faces and sombre garments, sat lingering over the frugal
+breakfast-table, revolving plans for our future life. My mother’s
+strong mind had not given way beneath even this affliction: her spirit,
+though crushed, was not broken. Mary’s wish was that I should go back
+to Horton Lodge, and that our mother should come and live with her and
+Mr. Richardson at the vicarage: she affirmed that he wished it no less
+than herself, and that such an arrangement could not fail to benefit
+all parties; for my mother’s society and experience would be of
+inestimable value to them, and they would do all they could to make her
+happy. But no arguments or entreaties could prevail: my mother was
+determined not to go. Not that she questioned, for a moment, the kind
+wishes and intentions of her daughter; but she affirmed that so long as
+God spared her health and strength, she would make use of them to earn
+her own livelihood, and be chargeable to no one; whether her dependence
+would be felt as a burden or not. If she could afford to reside as a
+lodger in —— vicarage, she would choose that [[house]] before all others as
+the place of her abode; but not being so circumstanced, she would never
+come under its roof, except as an occasional visitor: unless sickness
+or calamity should render her assistance really needful, or until age
+or infirmity made her incapable of maintaining herself.
+
+“No, Mary,” said she, “if Richardson and you have anything to spare,
+you must lay it aside for your family; and Agnes and I must gather
+honey for ourselves. Thanks to my having had daughters to educate, I
+have not forgotten my accomplishments. God willing, I will check this
+vain repining,” she said, while the [[Tears|tears]] coursed one another down her
+cheeks in spite of her efforts; but she wiped them away, and resolutely
+shaking back her head, continued, “I will exert myself, and look out
+for a small [[house]], commodiously situated in some populous but healthy
+district, where we will take a few young ladies to board and educate—if
+we can get them—and as many day pupils as will come, or as we can
+manage to instruct. Your father’s relations and old friends will be
+able to send us some pupils, or to assist us with their
+recommendations, no [[Doubt|doubt]]: I shall not apply to my own. What say you to
+it, Agnes? will you be willing to leave your present situation and
+try?”
+
+“Quite willing, mamma; and the money I have saved will do to furnish
+the [[house]]. It shall be taken from the bank directly.”
+
+“When it is wanted: we must get the [[house]], and settle on preliminaries
+first.”
+
+Mary offered to lend the little she possessed; but my mother declined
+it, saying that we must begin on an economical plan; and she hoped that
+the whole or part of mine, added to what we could get by the sale of
+the furniture, and what little our dear papa had contrived to lay aside
+for her since the debts were paid, would be sufficient to last us till
+Christmas; when, it was hoped, something would accrue from our united
+labours. It was finally settled that this should be our plan; and that
+inquiries and preparations should immediately be set on foot; and while
+my mother busied herself with these, I should return to Horton Lodge at
+the close of my four weeks’ vacation, and give notice for my final
+departure when things were in train for the speedy commencement of our
+school.
+
+We were discussing these affairs on the morning I have mentioned, about
+a fortnight after my father’s [[Death|death]], when a letter was brought in for
+my mother, on beholding which the colour mounted to her face—lately
+pale enough with anxious watchings and excessive sorrow. “From my
+father!” murmured she, as she hastily tore off the cover. It was many
+years since she had heard from any of her own relations before.
+Naturally wondering what the letter might contain, I watched her
+countenance while she read it, and was somewhat surprised to see her
+bite her lip and knit her brows as if in anger. When she had done, she
+somewhat irreverently cast it on the table, saying with a scornful
+smile,—
+
+“Your grandpapa has been so kind as to write to me. He says he has no
+[[Doubt|doubt]] I have long repented of my ‘unfortunate [[Marriage|marriage]],’ and if I will
+only acknowledge this, and confess I was wrong in neglecting his
+advice, and that I have justly suffered for it, he will make a lady of
+me once again—if that be possible after my long degradation—and
+remember my girls in his will. Get my desk, Agnes, and send these
+things away: I will answer the letter directly. But first, as I may be
+depriving you both of a legacy, it is just that I should tell you what
+I mean to say. I shall say that he is mistaken in supposing that I can
+regret the birth of my daughters (who have been the [[Pride|pride]] of my life,
+and are likely to be the comfort of my old age), or the thirty years I
+have passed in the company of my best and dearest friend;—that, had our
+misfortunes been three times as great as they were (unless they had
+been of my bringing on), I should still the more rejoice to have shared
+them with your father, and administered what consolation I was able;
+and, had his sufferings in illness been ten times what they were, I
+could not regret having watched over and laboured to relieve
+them;—that, if he had married a richer wife, misfortunes and trials
+would no [[Doubt|doubt]] have come upon him still; while I am egotist enough to
+imagine that no other woman could have cheered him through them so
+[[Well|well]]: not that I am superior to the rest, but I was made for him, and
+he for me; and I can no more repent the hours, days, years of happiness
+we have spent together, and which neither could have had without the
+other, than I can the privilege of having been his [[Nurse|nurse]] in sickness,
+and his comfort in affliction.
+
+“Will this do, children?—or shall I say we are all very sorry for what
+has happened during the last thirty years, and my daughters wish they
+had never been born; but since they have had that misfortune, they will
+be thankful for any trifle their grandpapa will be kind enough to
+bestow?”
+
+Of course, we both applauded our mother’s resolution; Mary cleared away
+the breakfast things; I brought the desk; the letter was quickly
+written and despatched; and, from that day, we heard no more of our
+grandfather, till we saw his [[Death|death]] announced in the newspaper a
+considerable [[Time|time]] after—all his worldly possessions, of course, being
+left to our wealthy unknown cousins.
+
+
+
+
+<span class="atom-split" data-atom="chapter_21" data-title="Agnes Grey — Chapter 20" data-chapter="Chapter 21" data-kind="chapter"></span>
+
+
+CHAPTER XX.
+THE FAREWELL
+
+
+A [[house]] in A——, the fashionable watering-place, was hired for our
+seminary; and a promise of two or three pupils was obtained to commence
+with. I returned to Horton Lodge about the middle of July, leaving my
+mother to conclude the bargain for the [[house]], to obtain more pupils, to
+sell off the furniture of our old abode, and to fit out the new one.
+
+We often pity the poor, because they have no leisure to mourn their
+departed relatives, and necessity obliges them to labour through their
+severest afflictions: but is not active employment the best remedy for
+overwhelming sorrow—the surest antidote for [[Despair|despair]]? It may be a rough
+comforter: it may seem hard to be harassed with the cares of life when
+we have no relish for its enjoyments; to be goaded to labour when the
+heart is ready to break, and the vexed spirit implores for rest only to
+weep in [[Silence|silence]]: but is not labour better than the rest we covet? and
+are not those petty, tormenting cares less hurtful than a continual
+brooding over the great affliction that oppresses us? Besides, we
+cannot have cares, and anxieties, and toil, without [[Hope|hope]]—if it be but
+the [[Hope|hope]] of fulfilling our joyless task, accomplishing some needful
+project, or escaping some further annoyance. At any rate, I was glad my
+mother had so much employment for every faculty of her action-loving
+frame. Our kind neighbours lamented that she, once so exalted in wealth
+and station, should be reduced to such extremity in her [[Time|time]] of sorrow;
+but I am persuaded that she would have suffered thrice as much had she
+been left in affluence, with liberty to remain in that [[house]], the scene
+of her early happiness and late affliction, and no stern necessity to
+prevent her from incessantly brooding over and lamenting her
+bereavement.
+
+I will not dilate upon the feelings with which I left the old [[house]],
+the [[Well|well]]-known [[Garden|garden]], the little village church—then doubly dear to
+me, because my father, who, for thirty years, had taught and prayed
+within its walls, lay slumbering now beneath its flags—and the old bare
+hills, delightful in their very desolation, with the narrow vales
+between, smiling in green wood and sparkling [[Water|water]]—the [[house]] where I
+was born, the scene of all my early associations, the place where
+throughout life my earthly affections had been centred;—and left them
+to return no more! True, I was going back to Horton Lodge, where, amid
+many evils, one source of pleasure yet remained: but it was pleasure
+mingled with excessive [[Pain|pain]]; and my stay, alas! was limited to six
+weeks. And even of that precious [[Time|time]], day after day slipped by and I
+did not see him: except at church, I never saw him for a fortnight
+after my return. It seemed a long [[Time|time]] to me: and, as I was often out
+with my rambling pupil, of course hopes would keep rising, and
+disappointments would ensue; and then, I would say to my own heart,
+“Here is a convincing proof—if you would but have the sense to see it,
+or the candour to acknowledge it—that he does not care for you. If he
+only thought _half_ as much about you as you do about him, he would
+have contrived to meet you many times ere this: you must know that, by
+consulting your own feelings. Therefore, have done with this nonsense:
+you have no ground for [[Hope|hope]]: dismiss, at once, these hurtful thoughts
+and foolish wishes from your mind, and turn to your own duty, and the
+dull blank life that lies before you. You might have known such
+happiness was not for you.”
+
+But I saw him at last. He came suddenly upon me as I was crossing a
+field in returning from a visit to [[Nancy]] Brown, which I had taken the
+opportunity of paying while Matilda Murray was riding her matchless
+mare. He must have heard of the heavy loss I had sustained: he
+expressed no sympathy, offered no condolence: but almost the first
+words he uttered were,—“How is your mother?” And this was no
+matter-of-course question, for I never told him that I had a mother: he
+must have learned the fact from others, if he knew it at all; and,
+besides, there was sincere goodwill, and even deep, touching,
+unobtrusive sympathy in the tone and manner of the inquiry. I thanked
+him with due civility, and told him she was as [[Well|well]] as could be
+expected. “What will she do?” was the next question. Many would have
+deemed it an impertinent one, and given an evasive reply; but such an
+idea never entered my head, and I gave a brief but plain statement of
+my mother’s plans and prospects.
+
+“Then you will leave this place shortly?” said he.
+
+“Yes, in a month.”
+
+He paused a minute, as if in thought. When he spoke again, I hoped it
+would be to express his concern at my departure; but it was only to
+say,—“I should think you will be willing enough to go?”
+
+“Yes—for some things,” I replied.
+
+“For _some_ things only—I [[Wonder|wonder]] what should make you regret it?”
+
+I was annoyed at this in some degree; because it embarrassed me: I had
+only one reason for regretting it; and that was a profound secret,
+which he had no business to trouble me about.
+
+“Why,” said I—“why should you suppose that I dislike the place?”
+
+“You told me so yourself,” was the decisive reply. “You said, at least,
+that you could not live contentedly, without a friend; and that you had
+no friend here, and no possibility of making one—and, besides, I know
+you _must_ dislike it.”
+
+“But if you remember rightly, I said, or meant to say, I could not live
+contentedly without a friend in the world: I was not so unreasonable as
+to require one always near me. I think I could be happy in a [[house]] full
+of enemies, if—” but no; that sentence must not be continued—I paused,
+and hastily added,—“And, besides, we cannot [[Well|well]] leave a place where we
+have lived for two or three years, without some feeling of regret.”
+
+“Will you regret to part with Miss Murray, your sole remaining pupil
+and companion?”
+
+“I dare say I shall in some degree: it was not without sorrow I parted
+with her sister.”
+
+“I can imagine that.”
+
+“[[Well]], Miss Matilda is quite as good—better in one respect.”
+
+“What is that?”
+
+“She’s honest.”
+
+“And the other is not?”
+
+“I should not call her _dis_honest; but it must be confessed she’s a
+little artful.”
+
+“_Artful_ is she?—I saw she was giddy and vain—and now,” he added,
+after a pause, “I can [[Well|well]] believe she was artful too; but so
+excessively so as to assume an aspect of extreme simplicity and
+unguarded openness. Yes,” continued he, musingly, “that accounts for
+some little things that puzzled me a trifle before.”
+
+After that, he turned the conversation to more general subjects. He did
+not leave me till we had nearly reached the park-gates: he had
+certainly stepped a little out of his way to accompany me so far, for
+he now went back and disappeared down Moss Lane, the entrance of which
+we had passed some [[Time|time]] before. Assuredly I did not regret this
+circumstance: if sorrow had any place in my heart, it was that he was
+gone at last—that he was no longer walking by my side, and that that
+short interval of delightful intercourse was at an end. He had not
+breathed a word of [[Love|love]], or dropped one hint of tenderness or
+affection, and yet I had been supremely happy. To be near him, to hear
+him talk as he did talk, and to feel that he thought me worthy to be so
+spoken to—capable of understanding and duly appreciating such
+discourse—was enough.
+
+“Yes, [[Edward Weston]], I could indeed be happy in a [[house]] full of
+enemies, if I had but one friend, who truly, deeply, and faithfully
+loved me; and if that friend were you—though we might be far
+apart—seldom to hear from each other, still more seldom to meet—though
+toil, and trouble, and vexation might surround me, still—it would be
+too much happiness for me to dream of! Yet who can tell,” said I within
+myself, as I proceeded up the park,—“who can tell what this one month
+may bring forth? I have lived nearly three-and-twenty years, and I have
+suffered much, and tasted little pleasure yet; is it likely my life all
+through will be so clouded? Is it not possible that God may hear my
+prayers, disperse these gloomy shadows, and grant me some beams of
+heaven’s sunshine yet? Will He entirely deny to me those blessings
+which are so freely given to others, who neither ask them nor
+acknowledge them when received? May I not still [[Hope|hope]] and trust? I did
+[[Hope|hope]] and trust for a while: but, alas, alas! the [[Time|time]] ebbed away: one
+week followed another, and, excepting one distant glimpse and two
+transient meetings—during which scarcely anything was said—while I was
+walking with Miss Matilda, I saw nothing of him: except, of course, at
+church.
+
+And now, the last [[Sunday]] was come, and the last service. I was often on
+the point of melting into [[Tears|tears]] during the sermon—the last I was to
+hear from him: the best I should hear from anyone, I was [[Well|well]] assured.
+It was over—the congregation were departing; and I must follow. I had
+then seen him, and heard his voice, too, probably for the last [[Time|time]]. In
+the churchyard, Matilda was pounced upon by the two Misses Green. They
+had many inquiries to make about her sister, and I know not what
+besides. I only wished they would have done, that we might hasten back
+to Horton Lodge: I longed to seek the retirement of my own room, or
+some sequestered nook in the grounds, that I might deliver myself up to
+my feelings—to weep my last farewell, and lament my false hopes and
+vain delusions. Only this once, and then adieu to fruitless
+dreaming—thenceforth, only sober, solid, sad reality should occupy my
+mind. But while I thus resolved, a low voice close beside me said—“I
+suppose you are going this week, Miss Grey?” “Yes,” I replied. I was
+very much startled; and had I been at all hysterically inclined, I
+certainly should have committed myself in some way then. Thank God, I
+was not.
+
+“[[Well]],” said Mr. Weston, “I want to bid you good-bye—it is not likely I
+shall see you again before you go.”
+
+“Good-bye, Mr. Weston,” I said. Oh, how I struggled to say it calmly! I
+gave him my hand. He retained it a few seconds in his.
+
+“It is possible we may meet again,” said he; “will it be of any
+consequence to you whether we do or not?”
+
+“Yes, I should be very glad to see you again.”
+
+I _could_ say no less. He kindly pressed my hand, and went. Now, I was
+happy again—though more inclined to burst into [[Tears|tears]] than ever. If I
+had been forced to speak at that moment, a succession of sobs would
+have inevitably ensued; and as it was, I could not keep the [[Water|water]] out
+of my eyes. I walked along with Miss Murray, turning aside my face, and
+neglecting to notice several successive remarks, till she bawled out
+that I was either deaf or stupid; and then (having recovered my
+[[Self|self]]-possession), as one awakened from a fit of abstraction, I suddenly
+looked up and asked what she had been saying.
+
+
+
+
 <span class="atom-split" data-atom="chapter_22--part_01" data-title="Agnes Grey — Chapter 21 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
 
 
@@ -13968,6 +13590,152 @@ to-[[Night|night]], for at present I am tired and wish to go to bed.”
 
 
 
+<span class="atom-split" data-atom="chapter_24" data-title="Agnes Grey — Chapter 23" data-chapter="Chapter 24" data-kind="chapter"></span>
+
+
+CHAPTER XXIII.
+THE PARK
+
+
+I came down a little before eight, next morning, as I knew by the
+striking of a distant [[Clock|clock]]. There was no appearance of breakfast. I
+waited above an hour before it came, still vainly [[Longing|longing]] for access to
+the library; and, after that lonely repast was concluded, I waited
+again about an hour and a half in great suspense and discomfort,
+uncertain what to do. At length Lady Ashby came to bid me good-morning.
+She informed me she had only just breakfasted, and now wanted me to
+take an early walk with her in the park. She asked how long I had been
+up, and on receiving my answer, expressed the deepest regret, and again
+promised to show me the library. I suggested she had better do so at
+once, and then there would be no further trouble either with
+remembering or forgetting. She complied, on condition that I would not
+think of reading, or bothering with the books now; for she wanted to
+show me the gardens, and take a walk in the park with me, before it
+became too hot for enjoyment; which, indeed, was nearly the case
+already. Of course I readily assented; and we took our walk
+accordingly.
+
+As we were strolling in the park, talking of what my companion had seen
+and heard during her travelling experience, a gentleman on horseback
+rode up and passed us. As he turned, in passing, and stared me full in
+the face, I had a good opportunity of seeing what he was like. He was
+tall, thin, and wasted, with a slight stoop in the shoulders, a pale
+face, but somewhat blotchy, and disagreeably red about the eyelids,
+plain features, and a general appearance of languor and flatness,
+relieved by a sinister expression in the mouth and the dull, soulless
+eyes.
+
+“I detest that man!” whispered Lady Ashby, with bitter emphasis, as he
+slowly trotted by.
+
+“Who is it?” I asked, unwilling to suppose that she should so speak of
+her husband.
+
+“Sir Thomas Ashby,” she replied, with dreary composure.
+
+“And do you _detest_ him, Miss Murray?” said I, for I was too much
+shocked to remember her name at the moment.
+
+“Yes, I do, Miss Grey, and despise him too; and if you knew him you
+would not blame me.”
+
+“But you knew what he was before you married him.”
+
+“No; I only thought so: I did not half know him really. I know you
+warned me against it, and I wish I had listened to you: but it’s too
+late to regret that now. And besides, mamma ought to have known better
+than either of us, and she never said anything against it—quite the
+contrary. And then I thought he adored me, and would let me have my own
+way: he did pretend to do so at first, but now he does not care a bit
+about me. Yet I should not care for that: he might do as he pleased, if
+I might only be free to amuse myself and to stay in [[London]], or have a
+few friends down here: but _he will_ do as he pleases, and I must be a
+prisoner and a slave. The moment he saw I could enjoy myself without
+him, and that others knew my value better than himself, the selfish
+wretch began to accuse me of coquetry and extravagance; and to abuse
+Harry Meltham, whose shoes he was not worthy to clean. And then he must
+needs have me down in the country, to lead the life of a nun, lest I
+should dishonour him or bring him to ruin; as if he had not been ten
+times worse every way, with his betting-book, and his gaming-table, and
+his opera-girls, and his Lady This and Mrs. That—yes, and his bottles
+of wine, and glasses of brandy-and-[[Water|water]] too! Oh, I would give ten
+thousand worlds to be Miss Murray again! It is _too_ bad to feel life,
+health, and [[Beauty|beauty]] wasting away, unfelt and unenjoyed, for such a brute
+as that!” exclaimed she, fairly bursting into [[Tears|tears]] in the bitterness
+of her vexation.
+
+Of course, I pitied her exceedingly; as [[Well|well]] for her false idea of
+happiness and disregard of duty, as for the wretched partner with whom
+her fate was linked. I said what I could to comfort her, and offered
+such counsels as I thought she most required: advising her, first, by
+gentle reasoning, by kindness, example, and [[Persuasion|persuasion]], to try to
+ameliorate her husband; and then, when she had done all she could, if
+she still found him incorrigible, to endeavour to abstract herself from
+him—to wrap herself up in her own integrity, and trouble herself as
+little about him as possible. I exhorted her to seek consolation in
+doing her duty to God and man, to put her trust in Heaven, and solace
+herself with the care and nurture of her little daughter; assuring her
+she would be amply rewarded by witnessing its progress in strength and
+wisdom, and receiving its genuine affection.
+
+“But I can’t devote myself entirely to a [[Child|child]],” said she; “it may
+die—which is not at all improbable.”
+
+“But, with care, many a delicate infant has become a strong man or
+woman.”
+
+“But it may grow so intolerably like its father that I shall hate it.”
+
+“That is not likely; it is a little girl, and strongly resembles its
+mother.”
+
+“No matter; I should like it better if it were a boy—only that its
+father will leave it no inheritance that he can possibly squander away.
+What pleasure can I have in seeing a girl grow up to eclipse me, and
+enjoy those pleasures that I am for ever debarred from? But supposing I
+could be so generous as to take delight in this, still it is _only_ a
+[[Child|child]]; and I can’t centre all my hopes in a [[Child|child]]: that is only one
+degree better than devoting oneself to a dog. And as for all the wisdom
+and goodness you have been trying to instil into me—that is all very
+right and proper, I daresay, and if I were some twenty years older, I
+might fructify by it: but people must enjoy themselves when they are
+young; and if others won’t let them—why, they must hate them for it!”
+
+“The best way to enjoy yourself is to do what is right and hate nobody.
+The end of Religion is not to teach us how to die, but how to live; and
+the earlier you become wise and good, the more of happiness you secure.
+And now, Lady Ashby, I have one more piece of advice to offer you,
+which is, that you will not make an enemy of your mother-in-law. Don’t
+get into the way of holding her at arms’ length, and regarding her with
+jealous distrust. I never saw her, but I have heard good as [[Well|well]] as
+evil respecting her; and I imagine that, though cold and haughty in her
+general demeanour, and even exacting in her requirements, she has
+strong affections for those who can reach them; and, though so blindly
+attached to her son, she is not without good principles, or incapable
+of hearing reason. If you would but conciliate her a little, and adopt
+a friendly, open manner—and even confide your grievances to her—real
+grievances, such as you have a right to complain of—it is my firm
+belief that she would, in [[Time|time]], become your faithful friend, and a
+comfort and support to you, instead of the incubus you describe her.”
+But I [[Fear|fear]] my advice had little effect upon the unfortunate young lady;
+and, finding I could render myself so little serviceable, my residence
+at Ashby Park became doubly painful. But still, I must stay out that
+day and the following one, as I had promised to do so: though,
+resisting all entreaties and inducements to prolong my visit further, I
+insisted upon departing the next morning; affirming that my mother
+would be lonely without me, and that she impatiently expected my
+return. Nevertheless, it was with a heavy heart that I bade adieu to
+poor Lady Ashby, and left her in her princely [[Home|home]]. It was no slight
+additional proof of her unhappiness, that she should so cling to the
+consolation of my presence, and earnestly [[Desire|desire]] the company of one
+whose general tastes and ideas were so little congenial to her own—whom
+she had completely forgotten in her hour of prosperity, and whose
+presence would be rather a nuisance than a pleasure, if she could but
+have half her heart’s [[Desire|desire]].
+
+
+
+
 <span class="atom-split" data-atom="chapter_25--part_01" data-title="Agnes Grey — Chapter 24 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
 
 
@@ -14210,3 +13978,235 @@ quite satisfied.”
 The man and the dog departed, and I returned [[Home|home]], full of gratitude to
 heaven for so much bliss, and praying that my hopes might not again be
 crushed.
+
+
+
+
+<span class="atom-split" data-atom="chapter_26" data-title="Agnes Grey — Chapter 25" data-chapter="Chapter 26" data-kind="chapter"></span>
+
+
+CHAPTER XXV.
+CONCLUSION
+
+
+“[[Well]], Agnes, you must not take such long walks again before
+breakfast,” said my mother, observing that I drank an extra cup of
+coffee and ate nothing—pleading the heat of the weather, and the
+fatigue of my long walk as an excuse. I certainly did feel feverish and
+tired too.
+
+“You always do things by extremes: now, if you had taken a _short_ walk
+every morning, and would continue to do so, it would do you good.”
+
+“[[Well]], mamma, I will.”
+
+“But this is worse than lying in bed or bending over your books: you
+have quite put yourself into a fever.”
+
+“I won’t do it again,” said I.
+
+I was racking my brains with thinking how to tell her about Mr. Weston,
+for she must know he was coming to-morrow. However, I waited till the
+breakfast things were removed, and I was more calm and cool; and then,
+having sat down to my drawing, I began—“I met an old friend on the
+sands to-day, mamma.”
+
+“An old friend! Who could it be?”
+
+“Two old friends, indeed. One was a dog;” and then I reminded her of
+Snap, whose [[history]] I had recounted before, and related the incident of
+his sudden appearance and remarkable recognition; “and the other,”
+continued I, “was Mr. Weston, the curate of Horton.”
+
+“Mr. Weston! I never heard of him before.”
+
+“Yes, you have: I’ve mentioned him several times, I believe: but you
+don’t remember.”
+
+“I’ve heard you speak of Mr. Hatfield.”
+
+“Mr. Hatfield was the rector, and Mr. Weston the curate: I used to
+mention him sometimes in contradistinction to Mr. Hatfield, as being a
+more efficient clergyman. However, he was on the sands this morning
+with the dog—he had bought it, I suppose, from the rat-catcher; and he
+knew me as [[Well|well]] as it did—probably through its means: and I had a
+little conversation with him, in the course of which, as he asked about
+our school, I was led to say something about you, and your good
+management; and he said he should like to know you, and asked if I
+would introduce him to you, if he should take the liberty of calling
+to-morrow; so I said I would. Was I right?”
+
+“Of course. What kind of a man is he?”
+
+“A very _respectable_ man, I think: but you will see him to-morrow. He
+is the new vicar of F——, and as he has only been there a few weeks, I
+suppose he has made no friends yet, and wants a little society.”
+
+The morrow came. What a fever of anxiety and expectation I was in from
+breakfast till [[Noon|noon]]—at which [[Time|time]] he made his appearance! Having
+introduced him to my mother, I took my work to the [[Window|window]], and sat down
+to await the result of the interview. They got on extremely [[Well|well]]
+together—greatly to my satisfaction, for I had felt very anxious about
+what my mother would think of him. He did not stay long that [[Time|time]]: but
+when he [[Rose|rose]] to take leave, she said she should be happy to see him,
+whenever he might find it convenient to call again; and when he was
+gone, I was gratified by hearing her say,—“[[Well]]! I think he’s a very
+sensible man. But why did you sit back there, Agnes,” she added, “and
+talk so little?”
+
+“Because you talked so [[Well|well]], mamma, I thought you required no
+assistance from me: and, besides, he was your visitor, not mine.”
+
+After that, he often called upon us—several times in the course of a
+week. He generally addressed most of his conversation to my mother: and
+no [[Wonder|wonder]], for she could converse. I almost envied the unfettered,
+vigorous fluency of her discourse, and the strong sense evinced by
+everything she said—and yet, I did not; for, though I occasionally
+regretted my own deficiencies for his sake, it gave me very great
+pleasure to sit and hear the two beings I loved and honoured above
+every one else in the world, discoursing together so amicably, so
+wisely, and so [[Well|well]]. I was not always silent, however; nor was I at all
+neglected. I was quite as much noticed as I would wish to be: there was
+no lack of kind words and kinder looks, no end of delicate attentions,
+too fine and subtle to be grasped by words, and therefore
+indescribable—but deeply felt at heart.
+
+Ceremony was quickly dropped between us: Mr. Weston came as an expected
+guest, welcome at all times, and never deranging the economy of our
+household affairs. He even called me “Agnes:” the name had been timidly
+spoken at first, but, finding it gave no offence in any quarter, he
+seemed greatly to prefer that appellation to “Miss Grey;” and so did I.
+How tedious and gloomy were those days in which he did not come! And
+yet not miserable; for I had still the remembrance of the last visit
+and the [[Hope|hope]] of the next to cheer me. But when two or three days passed
+without my seeing him, I certainly felt very anxious—absurdly,
+unreasonably so; for, of course, he had his own business and the
+affairs of his parish to attend to. And I dreaded the close of the
+holidays, when _my_ business also would begin, and I should be
+sometimes unable to see him, and sometimes—when my mother was in the
+schoolroom—obliged to be with him [[Alone|alone]]: a position I did not at all
+[[Desire|desire]], in the [[house]]; though to meet him out of doors, and walk beside
+him, had proved by no means disagreeable.
+
+One evening, however, in the last week of the vacation, he
+arrived—unexpectedly: for a heavy and protracted thunder-shower during
+the afternoon had almost destroyed my hopes of seeing him that day; but
+now the [[Storm|storm]] was over, and the sun was shining brightly.
+
+“A beautiful evening, Mrs. Grey!” said he, as he entered. “Agnes, I
+want you to take a walk with me to ——” (he named a certain part of the
+coast—a bold [[Hill|hill]] on the land side, and towards the sea a steep
+precipice, from the summit of which a glorious view is to be had). “The
+rain has laid the [[Dust|dust]], and cooled and cleared the air, and the
+prospect will be magnificent. Will you come?”
+
+“Can I go, mamma?”
+
+“Yes; to be sure.”
+
+I went to get ready, and was down again in a few minutes; though, of
+course, I took a little more pains with my attire than if I had merely
+been going out on some shopping expedition [[Alone|alone]]. The thunder-shower
+had certainly had a most beneficial effect upon the weather, and the
+evening was most delightful. Mr. Weston would have me to take his arm;
+he said little during our passage through the crowded streets, but
+walked very fast, and appeared [[Grave|grave]] and abstracted. I wondered what
+was the matter, and felt an indefinite dread that something unpleasant
+was on his mind; and vague surmises, concerning what it might be,
+troubled me not a little, and made me [[Grave|grave]] and silent enough. But
+these fantasies vanished upon reaching the quiet outskirts of the town;
+for as soon as we came within sight of the venerable old church, and
+the —— [[Hill|hill]], with the deep blue beyond it, I found my companion was
+cheerful enough.
+
+“I’m afraid I’ve been walking too fast for you, Agnes,” said he: “in my
+impatience to be rid of the town, I forgot to consult your convenience;
+but now we’ll walk as slowly as you please. I see, by those light
+clouds in the west, there will be a brilliant sunset, and we shall be
+in [[Time|time]] to witness its effect upon the sea, at the most moderate rate
+of progression.”
+
+When we had got about half-way up the [[Hill|hill]], we fell into [[Silence|silence]] again;
+which, as usual, he was the first to break.
+
+“My [[house]] is desolate yet, Miss Grey,” he smilingly observed, “and I am
+acquainted now with all the ladies in my parish, and several in this
+town too; and many others I know by sight and by report; but not one of
+them will suit me for a companion; in fact, there is only one person in
+the world that will: and that is yourself; and I want to know your
+decision?”
+
+“Are you in earnest, Mr. Weston?”
+
+“In earnest! How could you think I should jest on such a subject?”
+
+He laid his hand on mine, that rested on his arm: he must have felt it
+tremble—but it was no great matter now.
+
+“I [[Hope|hope]] I have not been too precipitate,” he said, in a serious tone.
+“You must have known that it was not my way to flatter and talk soft
+nonsense, or even to speak the admiration that I felt; and that a
+single word or glance of mine meant more than the honied phrases and
+fervent protestations of most other men.”
+
+I said something about not liking to leave my mother, and doing nothing
+without her consent.
+
+“I settled everything with Mrs. Grey, while you were putting on your
+bonnet,” replied he. “She said I might have her consent, if I could
+obtain yours; and I asked her, in case I should be so happy, to come
+and live with us—for I was sure you would like it better. But she
+refused, saying she could now afford to employ an assistant, and would
+continue the school till she could purchase an annuity sufficient to
+maintain her in comfortable lodgings; and, meantime, she would spend
+her vacations alternately with us and your sister, and should be quite
+contented if you were happy. And so now I have overruled your
+objections on her account. Have you any other?”
+
+“No—none.”
+
+“You [[Love|love]] me then?” said he, fervently pressing my hand.
+
+“Yes.”
+
+
+Here I pause. My Diary, from which I have compiled these pages, goes
+but little further. I could go on for years, but I will content myself
+with adding, that I shall never forget that glorious [[Summer|summer]] evening,
+and always remember with delight that steep [[Hill|hill]], and the edge of the
+precipice where we stood together, watching the splendid sunset
+mirrored in the restless world of waters at our feet—with hearts filled
+with gratitude to heaven, and happiness, and [[Love|love]]—almost too full for
+speech.
+
+A few weeks after that, when my mother had supplied herself with an
+assistant, I became the wife of [[Edward Weston]]; and never have found
+cause to repent it, and am certain that I never shall. We have had
+trials, and we know that we must have them again; but we bear them [[Well|well]]
+together, and endeavour to fortify ourselves and each other against the
+final separation—that greatest of all afflictions to the survivor. But,
+if we keep in mind the glorious heaven beyond, where both may meet
+again, and sin and sorrow are unknown, surely that too may be borne;
+and, meantime, we endeavour to live to the glory of Him who has
+scattered so many blessings in our path.
+
+Edward, by his strenuous exertions, has worked surprising reforms in
+his parish, and is esteemed and loved by its inhabitants—as he
+deserves; for whatever his faults may be as a man (and no one is
+entirely without), I defy anybody to blame him as a pastor, a husband,
+or a father.
+
+Our children, Edward, Agnes, and little Mary, promise [[Well|well]]; their
+[[Education|education]], for the [[Time|time]] being, is chiefly committed to me; and they
+shall want no good thing that a mother’s care can give. Our modest
+income is amply sufficient for our requirements: and by practising the
+economy we learnt in harder times, and never attempting to imitate our
+richer neighbours, we manage not only to enjoy comfort and contentment
+ourselves, but to have every year something to lay by for our children,
+and something to give to those who need it.
+
+And now I think I have said sufficient.
+
+
+
+_Spottiswode & Co. Ltd._, _Printers_, _London_. _Colchester and Eton_.

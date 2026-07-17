@@ -16467,1911 +16467,6 @@ Creator of day! To be buried alive for eighteen years!”
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="A Tale of Two Cities — Chapter 8" data-chapter="Chapter 14" data-kind="chapter"></span>
-
-
-CHAPTER VIII.
-Monseigneur in the Country
-
-
-A beautiful landscape, with the corn bright in it, but not abundant.
-Patches of poor rye where corn should have been, patches of poor peas
-and beans, patches of most coarse vegetable substitutes for wheat. On
-inanimate [[Nature|nature]], as on the men and women who cultivated it, a prevalent
-tendency towards an appearance of vegetating unwillingly--a dejected
-disposition to give up, and wither away.
-
-Monsieur the Marquis in his travelling carriage (which might have been
-lighter), conducted by four post-horses and two postilions, fagged up
-a steep [[Hill|hill]]. A blush on the countenance of Monsieur the Marquis was
-no impeachment of his high breeding; it was not from within; it was
-occasioned by an external circumstance beyond his control--the setting
-sun.
-
-The sunset struck so brilliantly into the travelling carriage when it
-gained the [[Hill|hill]]-top, that its occupant was steeped in crimson. “It will
-die out,” said Monsieur the Marquis, glancing at his hands, “directly.”
-
-In effect, the sun was so low that it dipped at the moment. When the
-heavy drag had been adjusted to the [[Wheel|wheel]], and the carriage slid down
-[[Hill|hill]], with a cinderous smell, in a cloud of [[Dust|dust]], the red glow departed
-quickly; the sun and the Marquis going down together, there was no glow
-left when the drag was taken off.
-
-But, there remained a broken country, bold and open, a little village
-at the [[Bottom|bottom]] of the [[Hill|hill]], a broad sweep and rise beyond it, a
-church-tower, a windmill, a forest for the chase, and a crag with a
-fortress on it used as a [[Prison|prison]]. Round upon all these darkening objects
-as the [[Night|night]] drew on, the Marquis looked, with the air of one who was
-coming near [[Home|home]].
-
-The village had its one poor street, with its poor brewery, poor
-tannery, poor tavern, poor stable-yard for relays of post-horses, poor
-fountain, all usual poor appointments. It had its poor people too. All
-its people were poor, and many of them were sitting at their doors,
-shredding spare onions and the like for supper, while many were at the
-fountain, washing [[Leaves|leaves]], and grasses, and any such small yieldings of
-the earth that could be eaten. Expressive signs of what made them poor,
-were not wanting; the tax for the state, the tax for the church, the tax
-for the lord, tax local and tax general, were to be paid here and to be
-paid there, according to solemn [[Inscription|inscription]] in the little village, until
-the [[Wonder|wonder]] was, that there was any village left unswallowed.
-
-Few children were to be seen, and no [[dogs]]. As to the men and women,
-their choice on earth was stated in the prospect--Life on the lowest
-terms that could sustain it, down in the little village under the mill;
-or captivity and [[Death]] in the dominant [[Prison|prison]] on the crag.
-
-Heralded by a courier in advance, and by the cracking of his postilions’
-whips, which twined snake-like about their heads in the evening air, as
-if he came attended by the Furies, Monsieur the Marquis drew up in
-his travelling carriage at the posting-[[house]] gate. It was hard by the
-fountain, and the peasants suspended their operations to look at him.
-He looked at them, and saw in them, without knowing it, the slow
-sure filing down of misery-worn face and figure, that was to make the
-meagreness of Frenchmen an English superstition which should survive the
-[[Truth|truth]] through the best part of a hundred years.
-
-Monsieur the Marquis cast his eyes over the submissive faces that
-drooped before him, as the like of himself had drooped before
-Monseigneur of the [[Court]]--only the difference was, that these faces
-drooped merely to suffer and not to propitiate--when a grizzled mender
-of the roads joined the group.
-
-“Bring me hither that fellow!” said the Marquis to the courier.
-
-The fellow was brought, cap in hand, and the other fellows closed round
-to look and listen, in the manner of the people at the [[Paris]] fountain.
-
-“I passed you on the [[Road|road]]?”
-
-“Monseigneur, it is true. I had the [[Honour|honour]] of being passed on the [[Road|road]].”
-
-“Coming up the [[Hill|hill]], and at the top of the [[Hill|hill]], both?”
-
-“Monseigneur, it is true.”
-
-“What did you look at, so fixedly?”
-
-“Monseigneur, I looked at the man.”
-
-He stooped a little, and with his tattered blue cap pointed under the
-carriage. All his fellows stooped to look under the carriage.
-
-“What man, pig? And why look there?”
-
-“Pardon, Monseigneur; he swung by the chain of the shoe--the drag.”
-
-“Who?” demanded the traveller.
-
-“Monseigneur, the man.”
-
-“May the Devil carry away these idiots! How do you call the man? You
-know all the men of this part of the country. Who was he?”
-
-“Your clemency, Monseigneur! He was not of this part of the country. Of
-all the days of my life, I never saw him.”
-
-“Swinging by the chain? To be suffocated?”
-
-“With your gracious permission, that was the [[Wonder|wonder]] of it, Monseigneur.
-His head hanging over--like this!”
-
-He turned himself sideways to the carriage, and leaned back, with his
-face thrown up to the sky, and his head hanging down; then recovered
-himself, fumbled with his cap, and made a bow.
-
-“What was he like?”
-
-“Monseigneur, he was whiter than the miller. All covered with [[Dust|dust]],
-white as a spectre, tall as a spectre!”
-
-The picture produced an immense sensation in the little crowd; but all
-eyes, without comparing notes with other eyes, looked at Monsieur
-the Marquis. Perhaps, to observe whether he had any spectre on his
-[[Conscience|conscience]].
-
-“Truly, you did [[Well|well]],” said the Marquis, felicitously sensible that such
-vermin were not to ruffle him, “to see a thief accompanying my carriage,
-and not open that great mouth of yours. Bah! Put him aside, Monsieur
-Gabelle!”
-
-Monsieur Gabelle was the Postmaster, and some other taxing functionary
-united; he had come out with great obsequiousness to assist at this
-examination, and had held the examined by the drapery of his arm in an
-official manner.
-
-“Bah! Go aside!” said Monsieur Gabelle.
-
-“Lay hands on this stranger if he seeks to lodge in your village
-to-[[Night|night]], and be sure that his business is honest, Gabelle.”
-
-“Monseigneur, I am flattered to devote myself to your orders.”
-
-“Did he run away, fellow?--where is that Accursed?”
-
-The accursed was already under the carriage with some half-dozen
-particular friends, pointing out the chain with his blue cap. Some
-half-dozen other particular friends promptly hauled him out, and
-presented him breathless to Monsieur the Marquis.
-
-“Did the man run away, Dolt, when we stopped for the drag?”
-
-“Monseigneur, he precipitated himself over the [[Hill|hill]]-side, head first, as
-a person plunges into the [[River|river]].”
-
-“See to it, Gabelle. Go on!”
-
-The half-dozen who were peering at the chain were still among the
-wheels, like sheep; the wheels turned so suddenly that they were lucky
-to save their skins and bones; they had very little else to save, or
-they might not have been so fortunate.
-
-The burst with which the carriage started out of the village and up the
-rise beyond, was soon checked by the steepness of the [[Hill|hill]]. Gradually,
-it subsided to a foot pace, swinging and lumbering upward among the many
-sweet scents of a [[Summer|summer]] [[Night|night]]. The postilions, with a thousand gossamer
-gnats circling about them in lieu of the Furies, quietly mended the
-points to the lashes of their whips; the valet walked by the horses; the
-courier was audible, trotting on ahead into the dull distance.
-
-At the steepest point of the [[Hill|hill]] there was a little burial-ground,
-with a [[Cross]] and a new large figure of Our Saviour on it; it was a poor
-figure in wood, done by some inexperienced rustic carver, but he had
-studied the figure from the life--his own life, maybe--for it was
-dreadfully spare and thin.
-
-To this distressful emblem of a great distress that had long been
-growing worse, and was not at its worst, a woman was kneeling. She
-turned her head as the carriage came up to her, [[Rose|rose]] quickly, and
-presented herself at the carriage-door.
-
-“It is you, Monseigneur! Monseigneur, a petition.”
-
-With an exclamation of impatience, but with his unchangeable face,
-Monseigneur looked out.
-
-“How, then! What is it? Always petitions!”
-
-“Monseigneur. For the [[Love|love]] of the great God! My husband, the forester.”
-
-“What of your husband, the forester? Always the same with you people. He
-cannot pay something?”
-
-“He has paid all, Monseigneur. He is dead.”
-
-“[[Well]]! He is quiet. Can I restore him to you?”
-
-“Alas, no, Monseigneur! But he lies yonder, under a little heap of poor
-grass.”
-
-“[[Well]]?”
-
-“Monseigneur, there are so many little heaps of poor grass?”
-
-“Again, [[Well|well]]?”
-
-She looked an old woman, but was young. Her manner was one of passionate
-grief; by turns she clasped her veinous and knotted hands together
-with wild energy, and laid one of them on the carriage-door--tenderly,
-caressingly, as if it had been a human breast, and could be expected to
-feel the appealing touch.
-
-“Monseigneur, hear me! Monseigneur, hear my petition! My husband died of
-want; so many die of want; so many more will die of want.”
-
-“Again, [[Well|well]]? Can I feed them?”
-
-“Monseigneur, the good God knows; but I don’t ask it. My petition is,
-that a morsel of stone or wood, with my husband’s name, may be placed
-over him to show where he lies. Otherwise, the place will be quickly
-forgotten, it will never be found when I am dead of the same malady, I
-shall be laid under some other heap of poor grass. Monseigneur, they
-are so many, they increase so fast, there is so much want. Monseigneur!
-Monseigneur!”
-
-The valet had put her away from the door, the carriage had broken into
-a brisk trot, the postilions had quickened the pace, she was left far
-behind, and Monseigneur, again escorted by the Furies, was rapidly
-diminishing the league or two of distance that remained between him and
-his chateau.
-
-The sweet scents of the [[Summer|summer]] [[Night|night]] [[Rose|rose]] all around him, and [[Rose|rose]], as
-the rain falls, impartially, on the dusty, ragged, and toil-worn group
-at the fountain not far away; to whom the mender of roads, with the aid
-of the blue cap without which he was nothing, still enlarged upon his
-man like a spectre, as long as they could bear it. By degrees, as they
-could bear no more, they dropped off one by one, and lights twinkled
-in little casements; which lights, as the casements darkened, and more
-[[Stars|stars]] came out, seemed to have shot up into the sky instead of having
-been extinguished.
-
-The [[Shadow|shadow]] of a large high-roofed [[house]], and of many over-hanging trees,
-was upon Monsieur the Marquis by that [[Time|time]]; and the [[Shadow|shadow]] was exchanged
-for the light of a [[Flambeau|flambeau]], as his carriage stopped, and the great door
-of his chateau was opened to him.
-
-“Monsieur Charles, whom I expect; is he arrived from England?”
-
-“Monseigneur, not yet.”
-
-
-
-
-<span class="atom-split" data-atom="chapter_17" data-title="A Tale of Two Cities — Chapter 11" data-chapter="Chapter 17" data-kind="chapter"></span>
-
-
-CHAPTER XI.
-A Companion Picture
-
-
-“Sydney,” said Mr. Stryver, on that [[Self|self]]-same [[Night|night]], or morning, to his
-jackal; “mix another bowl of punch; I have something to say to you.”
-
-Sydney had been working [[Double|double]] tides that [[Night|night]], and the [[Night|night]] before,
-and the [[Night|night]] before that, and a good many nights in succession, making
-a grand clearance among Mr. Stryver’s papers before the setting in
-of the long vacation. The clearance was effected at last; the Stryver
-arrears were handsomely fetched up; everything was got rid of until
-November should come with its fogs atmospheric, and fogs legal, and
-bring grist to the mill again.
-
-Sydney was none the livelier and none the soberer for so much
-application. It had taken a deal of extra wet-towelling to pull him
-through the [[Night|night]]; a correspondingly extra quantity of wine had preceded
-the towelling; and he was in a very damaged condition, as he now pulled
-his turban off and threw it into the basin in which he had steeped it at
-intervals for the last six hours.
-
-“Are you mixing that other bowl of punch?” said Stryver the portly, with
-his hands in his waistband, glancing round from the sofa where he lay on
-his back.
-
-“I am.”
-
-“Now, look here! I am going to tell you something that will rather
-surprise you, and that perhaps will make you think me not quite as
-shrewd as you usually do think me. I intend to marry.”
-
-“_Do_ you?”
-
-“Yes. And not for money. What do you say now?”
-
-“I don’t feel disposed to say much. Who is she?”
-
-“Guess.”
-
-“Do I know her?”
-
-“Guess.”
-
-“I am not going to guess, at five o’[[Clock|clock]] in the morning, with my brains
-frying and sputtering in my head. If you want me to guess, you must ask
-me to dinner.”
-
-“[[Well]] then, I’ll tell you,” said Stryver, coming slowly into a sitting
-posture. “Sydney, I rather [[Despair|despair]] of making myself intelligible to you,
-because you are such an insensible dog.”
-
-“And you,” returned Sydney, busy concocting the punch, “are such a
-sensitive and poetical spirit--”
-
-“Come!” rejoined Stryver, laughing boastfully, “though I don’t prefer
-any claim to being the [[Soul|soul]] of [[Romance]] (for I [[Hope|hope]] I know better), still
-I am a tenderer sort of fellow than _you_.”
-
-“You are a luckier, if you mean that.”
-
-“I don’t mean that. I mean I am a man of more--more--”
-
-“Say gallantry, while you are about it,” suggested Carton.
-
-“[[Well]]! I’ll say gallantry. My meaning is that I am a man,” said Stryver,
-inflating himself at his friend as he made the punch, “who cares more to
-be agreeable, who takes more pains to be agreeable, who knows better how
-to be agreeable, in a woman’s society, than you do.”
-
-“Go on,” said [[Sydney Carton]].
-
-“No; but before I go on,” said Stryver, shaking his head in his bullying
-way, “I’ll have this out with you. You’ve been at [[Doctor Manette]]’s [[house]]
-as much as I have, or more than I have. Why, I have been ashamed of your
-moroseness there! Your manners have been of that silent and sullen and
-hangdog kind, that, upon my life and [[Soul|soul]], I have been ashamed of you,
-Sydney!”
-
-“It should be very beneficial to a man in your practice at the bar, to
-be ashamed of anything,” returned Sydney; “you ought to be much obliged
-to me.”
-
-“You shall not get off in that way,” rejoined Stryver, shouldering the
-rejoinder at him; “no, Sydney, it’s my duty to tell you--and I tell you
-to your face to do you good--that you are a devilish ill-conditioned
-fellow in that sort of society. You are a disagreeable fellow.”
-
-Sydney drank a bumper of the punch he had made, and laughed.
-
-“Look at me!” said Stryver, squaring himself; “I have less need to make
-myself agreeable than you have, being more independent in circumstances.
-Why do I do it?”
-
-“I never saw you do it yet,” muttered Carton.
-
-“I do it because it’s politic; I do it on principle. And look at me! I
-get on.”
-
-“You don’t get on with your account of your matrimonial intentions,”
-answered Carton, with a careless air; “I wish you would keep to that. As
-to me--will you never understand that I am incorrigible?”
-
-He asked the question with some appearance of scorn.
-
-“You have no business to be incorrigible,” was his friend’s answer,
-delivered in no very soothing tone.
-
-“I have no business to be, at all, that I know of,” said [[Sydney Carton]].
-“Who is the lady?”
-
-“Now, don’t let my announcement of the name make you uncomfortable,
-Sydney,” said Mr. Stryver, preparing him with ostentatious friendliness
-for the disclosure he was about to make, “because I know you don’t mean
-half you say; and if you meant it all, it would be of no importance. I
-make this little preface, because you once mentioned the young lady to
-me in slighting terms.”
-
-“I did?”
-
-“Certainly; and in these chambers.”
-
-[[Sydney Carton]] looked at his punch and looked at his complacent friend;
-drank his punch and looked at his complacent friend.
-
-“You made mention of the young lady as a golden-haired doll. The young
-lady is Miss Manette. If you had been a fellow of any sensitiveness or
-delicacy of feeling in that kind of way, Sydney, I might have been a
-little resentful of your employing such a designation; but you are not.
-You want that sense altogether; therefore I am no more annoyed when I
-think of the expression, than I should be annoyed by a man’s opinion of
-a picture of mine, who had no eye for pictures: or of a piece of music
-of mine, who had no ear for music.”
-
-[[Sydney Carton]] drank the punch at a great rate; drank it by bumpers,
-looking at his friend.
-
-“Now you know all about it, Syd,” said Mr. Stryver. “I don’t care about
-fortune: she is a charming creature, and I have made up my mind to
-please myself: on the whole, I think I can afford to please myself. She
-will have in me a man already pretty [[Well|well]] off, and a rapidly rising man,
-and a man of some distinction: it is a piece of good fortune for her,
-but she is worthy of good fortune. Are you astonished?”
-
-Carton, still drinking the punch, rejoined, “Why should I be
-astonished?”
-
-“You approve?”
-
-Carton, still drinking the punch, rejoined, “Why should I not approve?”
-
-“[[Well]]!” said his friend Stryver, “you take it more easily than I fancied
-you would, and are less mercenary on my behalf than I thought you would
-be; though, to be sure, you know [[Well|well]] enough by this [[Time|time]] that your
-ancient chum is a man of a pretty strong will. Yes, Sydney, I have had
-enough of this style of life, with no other as a change from it; I
-feel that it is a pleasant thing for a man to have a [[Home|home]] when he feels
-inclined to go to it (when he doesn’t, he can stay away), and I feel
-that Miss Manette will tell [[Well|well]] in any station, and will always do me
-credit. So I have made up my mind. And now, Sydney, old boy, I want to
-say a word to _you_ about _your_ prospects. You are in a bad way, you
-know; you really are in a bad way. You don’t know the value of money,
-you live hard, you’ll knock up one of these days, and be ill and poor;
-you really ought to think about a [[Nurse|nurse]].”
-
-The prosperous patronage with which he said it, made him look twice as
-big as he was, and four times as offensive.
-
-“Now, let me recommend you,” pursued Stryver, “to look it in the face.
-I have looked it in the face, in my different way; look it in the face,
-you, in your different way. Marry. Provide somebody to take care of
-you. Never mind your having no enjoyment of women’s society, nor
-understanding of it, nor tact for it. Find out somebody. Find out some
-respectable woman with a little property--somebody in the landlady way,
-or lodging-letting way--and marry her, against a rainy day. That’s the
-kind of thing for _you_. Now think of it, Sydney.”
-
-“I’ll think of it,” said Sydney.
-
-
-
-
-<span class="atom-split" data-atom="chapter_19" data-title="A Tale of Two Cities — Chapter 13" data-chapter="Chapter 19" data-kind="chapter"></span>
-
-
-CHAPTER XIII.
-The Fellow of No Delicacy
-
-
-If [[Sydney Carton]] ever shone anywhere, he certainly never shone in the
-[[house]] of [[Doctor Manette]]. He had been there often, during a whole year,
-and had always been the same moody and morose lounger there. When he
-cared to talk, he talked [[Well|well]]; but, the cloud of caring for nothing,
-which overshadowed him with such a fatal darkness, was very rarely
-pierced by the light within him.
-
-And yet he did care something for the streets that environed that [[house]],
-and for the senseless stones that made their pavements. Many a [[Night|night]]
-he vaguely and unhappily wandered there, when wine had brought no
-transitory gladness to him; many a dreary daybreak revealed his solitary
-figure lingering there, and still lingering there when the first beams
-of the sun brought into strong relief, removed beauties of architecture
-in spires of churches and lofty buildings, as perhaps the quiet [[Time|time]]
-brought some sense of better things, else forgotten and [[Unattainable|unattainable]],
-into his mind. Of late, the neglected bed in the Temple [[Court]] had known
-him more scantily than ever; and often when he had thrown himself upon
-it no longer than a few minutes, he had got up again, and haunted that
-neighbourhood.
-
-On a day in August, when Mr. Stryver (after notifying to his jackal
-that “he had thought better of that marrying matter”) had carried his
-delicacy into Devonshire, and when the sight and scent of [[Flowers|flowers]] in the
-[[City]] streets had some waifs of goodness in them for the worst, of health
-for the sickliest, and of youth for the oldest, Sydney’s feet still trod
-those stones. From being irresolute and purposeless, his feet became
-animated by an intention, and, in the working out of that intention,
-they took him to the Doctor’s door.
-
-He was shown up-stairs, and found Lucie at her work, [[Alone|alone]]. She had
-never been quite at her ease with him, and received him with some little
-embarrassment as he seated himself near her table. But, looking up at
-his face in the interchange of the first few common-places, she observed
-a change in it.
-
-“I [[Fear|fear]] you are not [[Well|well]], Mr. Carton!”
-
-“No. But the life I lead, Miss Manette, is not conducive to health. What
-is to be expected of, or by, such profligates?”
-
-“Is it not--forgive me; I have begun the question on my lips--a pity to
-live no better life?”
-
-“God knows it is a shame!”
-
-“Then why not change it?”
-
-Looking gently at him again, she was surprised and saddened to see that
-there were [[Tears|tears]] in his eyes. There were [[Tears|tears]] in his voice too, as he
-answered:
-
-“It is too late for that. I shall never be better than I am. I shall
-sink lower, and be worse.”
-
-He leaned an elbow on her table, and covered his eyes with his hand. The
-table trembled in the [[Silence|silence]] that followed.
-
-She had never seen him softened, and was much distressed. He knew her to
-be so, without looking at her, and said:
-
-“Pray forgive me, Miss Manette. I break down before the knowledge of
-what I want to say to you. Will you hear me?”
-
-“If it will do you any good, Mr. Carton, if it would make you happier,
-it would make me very glad!”
-
-“God bless you for your sweet compassion!”
-
-He unshaded his face after a little while, and spoke steadily.
-
-“Don’t be afraid to hear me. Don’t shrink from anything I say. I am like
-one who died young. All my life might have been.”
-
-“No, Mr. Carton. I am sure that the best part of it might still be; I am
-sure that you might be much, much worthier of yourself.”
-
-“Say of you, Miss Manette, and although I know better--although in the
-mystery of my own wretched heart I know better--I shall never forget
-it!”
-
-She was pale and trembling. He came to her relief with a fixed [[Despair|despair]]
-of himself which made the interview unlike any other that could have
-been holden.
-
-“If it had been possible, Miss Manette, that you could have returned the
-[[Love|love]] of the man you see before yourself--flung away, wasted, drunken,
-poor creature of misuse as you know him to be--he would have been
-conscious this day and hour, in spite of his happiness, that he would
-bring you to misery, bring you to sorrow and repentance, blight you,
-disgrace you, pull you down with him. I know very [[Well|well]] that you can have
-no tenderness for me; I ask for none; I am even thankful that it cannot
-be.”
-
-“Without it, can I not save you, Mr. Carton? Can I not recall
-you--forgive me again!--to a better course? Can I in no way repay your
-confidence? I know this is a confidence,” she modestly said, after a
-little hesitation, and in earnest [[Tears|tears]], “I know you would say this to
-no one else. Can I turn it to no good account for yourself, Mr. Carton?”
-
-He shook his head.
-
-“To none. No, Miss Manette, to none. If you will hear me through a very
-little more, all you can ever do for me is done. I wish you to know that
-you have been the last dream of my [[Soul|soul]]. In my degradation I have not
-been so degraded but that the sight of you with your father, and of this
-[[Home|home]] made such a [[Home|home]] by you, has stirred old shadows that I thought had
-died out of me. Since I knew you, I have been troubled by a remorse that
-I thought would never reproach me again, and have heard whispers from
-old voices impelling me upward, that I thought were silent for ever. I
-have had unformed ideas of striving afresh, beginning anew, shaking off
-sloth and sensuality, and fighting out the abandoned fight. [[A Dream|A dream]], all
-[[A Dream|a dream]], that ends in nothing, and [[Leaves|leaves]] [[The Sleeper|the sleeper]] where he lay down,
-but I wish you to know that you inspired it.”
-
-“Will nothing of it remain? O Mr. Carton, think again! Try again!”
-
-“No, Miss Manette; all through it, I have known myself to be quite
-undeserving. And yet I have had the weakness, and have still the
-weakness, to wish you to know with what a sudden mastery you kindled me,
-heap of ashes that I am, into [[Fire|fire]]--a [[Fire|fire]], however, inseparable in
-its [[Nature|nature]] from myself, quickening nothing, lighting nothing, doing no
-service, idly burning away.”
-
-“Since it is my misfortune, Mr. Carton, to have made you more unhappy
-than you were before you knew me--”
-
-“Don’t say that, Miss Manette, for you would have reclaimed me, if
-anything could. You will not be the cause of my becoming worse.”
-
-“Since the state of your mind that you describe, is, at all events,
-attributable to some influence of mine--this is what I mean, if I can
-make it plain--can I use no influence to serve you? Have I no power for
-good, with you, at all?”
-
-“The utmost good that I am capable of now, Miss Manette, I have come
-here to realise. Let me carry through the rest of my misdirected life,
-the remembrance that I opened my heart to you, last of all the world;
-and that there was something left in me at this [[Time|time]] which you could
-deplore and pity.”
-
-“Which I entreated you to believe, again and again, most fervently, with
-all my heart, was capable of better things, Mr. Carton!”
-
-“Entreat me to believe it no more, Miss Manette. I have proved myself,
-and I know better. I distress you; I draw fast to an end. Will you let
-me believe, when I recall this day, that the last confidence of my life
-was reposed in your pure and [[Innocent|innocent]] breast, and that it lies there
-[[Alone|alone]], and will be shared by no one?”
-
-“If that will be a consolation to you, yes.”
-
-“Not even by the dearest one ever to be known to you?”
-
-“Mr. Carton,” she answered, after an agitated pause, “the secret is
-yours, not mine; and I promise to respect it.”
-
-“Thank you. And again, God bless you.”
-
-He put her hand to his lips, and moved towards the door.
-
-“Be under no apprehension, Miss Manette, of my ever resuming this
-conversation by so much as a passing word. I will never refer to it
-again. If I were dead, that could not be surer than it is henceforth. In
-the hour of my [[Death|death]], I shall hold sacred the one good remembrance--and
-shall thank and bless you for it--that my last avowal of myself was made
-to you, and that my name, and faults, and miseries were gently carried
-in your heart. May it otherwise be light and happy!”
-
-He was so unlike what he had ever shown himself to be, and it was so
-sad to think how much he had thrown away, and how much he every day kept
-down and perverted, that [[Lucie Manette]] wept mournfully for him as he
-stood looking back at her.
-
-“Be comforted!” he said, “I am not worth such feeling, Miss Manette. An
-hour or two hence, and the low companions and low habits that I scorn
-but yield to, will render me less worth such [[Tears|tears]] as those, than any
-wretch who creeps along the streets. Be comforted! But, within myself, I
-shall always be, towards you, what I am now, though outwardly I shall be
-what you have heretofore seen me. The last supplication but one I make
-to you, is, that you will believe this of me.”
-
-“I will, Mr. Carton.”
-
-“My last supplication of all, is this; and with it, I will relieve
-you of a visitor with whom I [[Well|well]] know you have nothing in unison, and
-between whom and you there is an impassable space. It is useless to say
-it, I know, but it rises out of my [[Soul|soul]]. For you, and for any dear to
-you, I would do anything. If my career were of that better kind that
-there was any opportunity or capacity of sacrifice in it, I would
-embrace any sacrifice for you and for those dear to you. Try to hold
-me in your mind, at some quiet times, as ardent and sincere in this one
-thing. The [[Time|time]] will come, the [[Time|time]] will not be long in coming, when new
-ties will be formed about you--ties that will bind you yet more tenderly
-and strongly to the [[Home|home]] you so adorn--the dearest ties that will ever
-grace and gladden you. O Miss Manette, when the little picture of a
-happy father’s face looks up in yours, when you see your own bright
-[[Beauty|beauty]] springing up anew at your feet, think now and then that there is
-a man who would give his life, to keep a life you [[Love|love]] beside you!”
-
-He said, “Farewell!” said a last “God bless you!” and left her.
-
-
-
-
-<span class="atom-split" data-atom="chapter_23" data-title="A Tale of Two Cities — Chapter 17" data-chapter="Chapter 23" data-kind="chapter"></span>
-
-
-CHAPTER XVII.
-One [[Night]]
-
-
-Never did the sun go down with a brighter glory on the quiet corner in
-Soho, than one memorable evening when the Doctor and his daughter sat
-under the plane-tree together. Never did the [[Moon|moon]] rise with a milder
-radiance over great [[London]], than on that [[Night|night]] when it found them still
-seated under the tree, and shone upon their faces through its [[Leaves|leaves]].
-
-Lucie was to be married to-morrow. She had reserved this last evening
-for her father, and they sat [[Alone|alone]] under the plane-tree.
-
-“You are happy, my dear father?”
-
-“Quite, my [[Child|child]].”
-
-They had said little, though they had been there a long [[Time|time]]. When it
-was yet light enough to work and read, she had neither engaged herself
-in her usual work, nor had she read to him. She had employed herself in
-both ways, at his side under the tree, many and many a [[Time|time]]; but, this
-[[Time|time]] was not quite like any other, and nothing could make it so.
-
-“And I am very happy to-[[Night|night]], dear father. I am deeply happy in the
-[[Love|love]] that Heaven has so blessed--my [[Love|love]] for Charles, and Charles’s [[Love|love]]
-for me. But, if my life were not to be still consecrated to you, or
-if my [[Marriage|marriage]] were so arranged as that it would part us, even by
-the length of a few of these streets, I should be more unhappy and
-[[Self|self]]-reproachful now than I can tell you. Even as it is--”
-
-Even as it was, she could not command her voice.
-
-In the sad moonlight, she clasped him by the neck, and laid her face
-upon his breast. In the moonlight which is always sad, as the light of
-the sun itself is--as the light called human life is--at its coming and
-its going.
-
-“Dearest dear! Can you tell me, this last [[Time|time]], that you feel quite,
-quite sure, no new affections of mine, and no new duties of mine, will
-ever interpose between us? _I_ know it [[Well|well]], but do you know it? In your
-own heart, do you feel quite certain?”
-
-Her father answered, with a cheerful firmness of conviction he could
-scarcely have assumed, “Quite sure, my darling! More than that,” he
-added, as he tenderly kissed her: “my future is far brighter, Lucie,
-seen through your [[Marriage|marriage]], than it could have been--nay, than it ever
-was--without it.”
-
-“If I could [[Hope|hope]] _that_, my father!--”
-
-“Believe it, [[Love|love]]! Indeed it is so. Consider how natural and how plain
-it is, my dear, that it should be so. You, devoted and young, cannot
-fully appreciate the anxiety I have felt that your life should not be
-wasted--”
-
-She moved her hand towards his lips, but he took it in his, and repeated
-the word.
-
-“--wasted, my [[Child|child]]--should not be wasted, struck aside from the
-[[Natural Order|natural order]] of things--for my sake. Your unselfishness cannot entirely
-comprehend how much my mind has gone on this; but, only ask yourself,
-how could my happiness be perfect, while yours was incomplete?”
-
-“If I had never seen Charles, my father, I should have been quite happy
-with you.”
-
-He smiled at her unconscious admission that she would have been unhappy
-without Charles, having seen him; and replied:
-
-“My [[Child|child]], you did see him, and it is Charles. If it had not been
-Charles, it would have been another. Or, if it had been no other, I
-should have been the cause, and then the dark part of my life would have
-cast its [[Shadow|shadow]] beyond myself, and would have fallen on you.”
-
-It was the first [[Time|time]], except at the trial, of her ever hearing him
-refer to the period of his [[Suffering|suffering]]. It gave her a strange and new
-sensation while his words were in her ears; and she remembered it long
-afterwards.
-
-“See!” said the Doctor of Beauvais, raising his hand towards the [[Moon|moon]].
-“I have looked at her from my [[Prison|prison]]-[[Window|window]], when I could not bear her
-light. I have looked at her when it has been such torture to me to think
-of her shining upon what I had lost, that I have beaten my head against
-my [[Prison|prison]]-walls. I have looked at her, in a state so dull and lethargic,
-that I have thought of nothing but the number of horizontal lines I
-could draw across her at the full, and the number of perpendicular lines
-with which I could intersect them.” He added in his inward and pondering
-manner, as he looked at the [[Moon|moon]], “It was twenty either way, I remember,
-and the twentieth was difficult to squeeze in.”
-
-The strange thrill with which she heard him go back to that [[Time|time]],
-deepened as he dwelt upon it; but, there was nothing to shock her in
-the manner of his reference. He only seemed to contrast his present
-cheerfulness and felicity with the dire [[Endurance|endurance]] that was over.
-
-“I have looked at her, speculating thousands of times upon the [[unborn]]
-[[Child|child]] from whom I had been rent. Whether it was alive. Whether it had
-been born alive, or the poor mother’s shock had killed it. Whether it
-was a son who would some day avenge his father. (There was a [[Time|time]] in my
-[[Imprisonment|imprisonment]], when my [[Desire|desire]] for vengeance was unbearable.) Whether it
-was a son who would never know his father’s story; who might even live
-to weigh the possibility of his father’s having disappeared of his own
-will and act. Whether it was a daughter who would grow to be a woman.”
-
-She drew closer to him, and kissed his cheek and his hand.
-
-“I have pictured my daughter, to myself, as perfectly forgetful of
-me--rather, altogether ignorant of me, and unconscious of me. I have
-cast up the years of her age, year after year. I have seen her married
-to a man who knew nothing of my fate. I have altogether perished from
-the remembrance of the living, and in the next generation my place was a
-blank.”
-
-“My father! Even to hear that you had such thoughts of a daughter who
-never existed, strikes to my heart as if I had been that [[Child|child]].”
-
-“You, Lucie? It is out of the Consolation and restoration you have
-brought to me, that these remembrances arise, and pass between us and
-the [[Moon|moon]] on this last [[Night|night]].--What did I say just now?”
-
-“She knew nothing of you. She cared nothing for you.”
-
-“So! But on other moonlight nights, when the sadness and the [[Silence|silence]]
-have touched me in a different way--have affected me with something as
-like a sorrowful sense of peace, as any emotion that had [[Pain|pain]] for its
-foundations could--I have imagined her as coming to me in my cell, and
-leading me out into the [[Freedom|freedom]] beyond the fortress. I have seen her
-image in the moonlight often, as I now see you; except that I never held
-her in my arms; it stood between the little grated [[Window|window]] and the door.
-But, you understand that that was not the [[Child|child]] I am speaking of?”
-
-“The figure was not; the--the--image; the fancy?”
-
-“No. That was another thing. It stood before my disturbed sense of
-sight, but it never moved. The [[Phantom|phantom]] that my mind pursued, was another
-and more real [[Child|child]]. Of her outward appearance I know no more than
-that she was like her mother. The other had that likeness too--as you
-have--but was not the same. Can you follow me, Lucie? Hardly, I think?
-I [[Doubt|doubt]] you must have been a solitary prisoner to understand these
-perplexed distinctions.”
-
-His collected and calm manner could not prevent her [[Blood|blood]] from running
-cold, as he thus tried to anatomise his old condition.
-
-“In that more peaceful state, I have imagined her, in the moonlight,
-coming to me and taking me out to show me that the [[Home|home]] of her married
-life was full of her loving remembrance of her lost father. My picture
-was in her room, and I was in her prayers. Her life was active,
-cheerful, useful; but my poor [[history]] pervaded it all.”
-
-“I was that [[Child|child]], my father, I was not half so good, but in my [[Love|love]]
-that was I.”
-
-“And she showed me her children,” said the Doctor of Beauvais, “and
-they had heard of me, and had been taught to pity me. When they passed
-a [[Prison|prison]] of the State, they kept far from its frowning walls, and looked
-up at its bars, and spoke in whispers. She could never deliver me; I
-imagined that she always brought me back after showing me such things.
-But then, blessed with the relief of [[Tears|tears]], I fell upon my knees, and
-blessed her.”
-
-“I am that [[Child|child]], I [[Hope|hope]], my father. O my dear, my dear, will you bless
-me as fervently to-morrow?”
-
-“Lucie, I recall these old troubles in the reason that I have to-[[Night|night]]
-for loving you better than words can tell, and thanking God for my great
-happiness. My thoughts, when they were wildest, never [[Rose|rose]] near the
-happiness that I have known with you, and that we have before us.”
-
-He embraced her, solemnly commended her to Heaven, and humbly thanked
-Heaven for having bestowed her on him. By-and-bye, they went into the
-[[house]].
-
-There was no one bidden to the [[Marriage|marriage]] but Mr. Lorry; there was even to
-be no bridesmaid but the gaunt [[Miss Pross]]. The [[Marriage|marriage]] was to make no
-change in their place of residence; they had been able to extend it,
-by taking to themselves the upper rooms formerly belonging to the
-apocryphal invisible lodger, and they desired nothing more.
-
-[[Doctor Manette]] was very cheerful at the little supper. They were only
-three at table, and [[Miss Pross]] made the third. He regretted that Charles
-was not there; was more than half disposed to object to the loving
-little plot that kept him away; and drank to him affectionately.
-
-So, the [[Time|time]] came for him to bid Lucie good [[Night|night]], and they separated.
-But, in the stillness of the third hour of the morning, Lucie came
-downstairs again, and stole into his room; not free from unshaped fears,
-beforehand.
-
-All things, however, were in their places; all was quiet; and he lay
-asleep, his white hair picturesque on the untroubled pillow, and his
-hands lying quiet on the coverlet. She put her needless candle in the
-[[Shadow|shadow]] at a distance, crept up to his bed, and put her lips to his;
-then, leaned over him, and looked at him.
-
-Into his handsome face, the bitter waters of captivity had worn; but, he
-covered up their tracks with a determination so strong, that he held the
-mastery of them even in his [[Sleep|sleep]]. A more remarkable face in its quiet,
-resolute, and guarded struggle with an unseen assailant, was not to be
-beheld in all the wide dominions of [[Sleep|sleep]], that [[Night|night]].
-
-She timidly laid her hand on his dear breast, and put up a [[prayer]] that
-she might ever be as true to him as her [[Love|love]] aspired to be, and as his
-sorrows deserved. Then, she withdrew her hand, and kissed his lips once
-more, and went away. So, the sunrise came, and the shadows of the [[Leaves|leaves]]
-of the plane-tree moved upon his face, as softly as her lips had moved
-in praying for him.
-
-
-
-
-<span class="atom-split" data-atom="chapter_26" data-title="A Tale of Two Cities — Chapter 20" data-chapter="Chapter 26" data-kind="chapter"></span>
-
-
-CHAPTER XX.
-A Plea
-
-
-When the newly-married pair came [[Home|home]], the first person who appeared, to
-offer his congratulations, was [[Sydney Carton]]. They had not been at [[Home|home]]
-many hours, when he presented himself. He was not improved in habits, or
-in looks, or in manner; but there was a certain rugged air of fidelity
-about him, which was new to the observation of [[Charles Darnay]].
-
-He watched his opportunity of taking Darnay aside into a [[Window|window]], and of
-speaking to him when no one overheard.
-
-“Mr. Darnay,” said Carton, “I wish we might be friends.”
-
-“We are already friends, I [[Hope|hope]].”
-
-“You are good enough to say so, as a fashion of speech; but, I don’t
-mean any fashion of speech. Indeed, when I say I wish we might be
-friends, I scarcely mean quite that, either.”
-
-[[Charles Darnay]]--as was natural--asked him, in all good-[[Humour|humour]] and
-good-fellowship, what he did mean?
-
-“Upon my life,” said Carton, smiling, “I find that easier to comprehend
-in my own mind, than to convey to yours. However, let me try. You
-remember a certain famous occasion when I was more drunk than--than
-usual?”
-
-“I remember a certain famous occasion when you forced me to confess that
-you had been drinking.”
-
-“I remember it too. The curse of those occasions is heavy upon me, for I
-always remember them. I [[Hope|hope]] it may be taken into account one day,
-when all days are at an end for me! Don’t be alarmed; I am not going to
-preach.”
-
-“I am not at all alarmed. Earnestness in you, is anything but alarming
-to me.”
-
-“Ah!” said Carton, with a careless wave of his hand, as if he waved that
-away. “On the drunken occasion in question (one of a large number, as
-you know), I was insufferable about liking you, and not liking you. I
-wish you would forget it.”
-
-“I forgot it long ago.”
-
-“Fashion of speech again! But, Mr. Darnay, oblivion is not so easy to
-me, as you represent it to be to you. I have by no means forgotten it,
-and a light answer does not help me to forget it.”
-
-“If it was a light answer,” returned Darnay, “I beg your [[Forgiveness|forgiveness]]
-for it. I had no other object than to turn a slight thing, which, to my
-surprise, seems to trouble you too much, aside. I declare to you, on the
-[[Faith|faith]] of a gentleman, that I have long dismissed it from my mind. Good
-Heaven, what was there to dismiss! Have I had nothing more important to
-remember, in the great service you rendered me that day?”
-
-“As to the great service,” said Carton, “I am bound to avow to you, when
-you speak of it in that way, that it was mere professional claptrap, I
-don’t know that I cared what became of you, when I rendered it.--Mind! I
-say when I rendered it; I am speaking of the past.”
-
-“You make light of the obligation,” returned Darnay, “but I will not
-quarrel with _your_ light answer.”
-
-“Genuine [[Truth|truth]], Mr. Darnay, trust me! I have gone aside from my purpose;
-I was speaking about our being friends. Now, you know me; you know I am
-incapable of all the higher and better flights of men. If you [[Doubt|doubt]] it,
-ask Stryver, and he’ll tell you so.”
-
-“I prefer to form my own opinion, without the aid of his.”
-
-“[[Well]]! At any rate you know me as a dissolute dog, who has never done
-any good, and never will.”
-
-“I don’t know that you ‘never will.’”
-
-“But I do, and you must take my word for it. [[Well]]! If you could endure
-to have such a worthless fellow, and a fellow of such indifferent
-reputation, coming and going at odd times, I should ask that I might be
-permitted to come and go as a privileged person here; that I might
-be regarded as an useless (and I would add, if it were not for the
-resemblance I detected between you and me, an unornamental) piece of
-furniture, tolerated for its old service, and taken no notice of. I
-[[Doubt|doubt]] if I should abuse the permission. It is a hundred to one if I
-should avail myself of it four times in a year. It would satisfy me, I
-dare say, to know that I had it.”
-
-“Will you try?”
-
-“That is another way of saying that I am placed on the footing I have
-indicated. I thank you, Darnay. I may use that [[Freedom|freedom]] with your name?”
-
-“I think so, Carton, by this [[Time|time]].”
-
-They shook hands upon it, and Sydney turned away. Within a minute
-afterwards, he was, to all outward appearance, as unsubstantial as ever.
-
-When he was gone, and in the course of an evening passed with Miss
-Pross, the Doctor, and Mr. Lorry, [[Charles Darnay]] made some mention of
-this conversation in general terms, and spoke of [[Sydney Carton]] as a
-problem of carelessness and recklessness. He spoke of him, in short, not
-bitterly or meaning to bear hard upon him, but as anybody might who saw
-him as he showed himself.
-
-He had no idea that this could dwell in the thoughts of his fair young
-wife; but, when he afterwards joined her in their own rooms, he found
-her waiting for him with the old pretty lifting of the forehead strongly
-marked.
-
-“We are thoughtful to-[[Night|night]]!” said Darnay, drawing his arm about her.
-
-“Yes, dearest Charles,” with her hands on his breast, and the inquiring
-and attentive expression fixed upon him; “we are rather thoughtful
-to-[[Night|night]], for we have something on our mind to-[[Night|night]].”
-
-“What is it, my Lucie?”
-
-“Will you promise not to press one question on me, if I beg you not to
-ask it?”
-
-“Will I promise? What will I not promise to my [[Love]]?”
-
-What, indeed, with his hand putting aside the golden hair from the
-cheek, and his other hand against the heart that beat for him!
-
-“I think, Charles, poor Mr. Carton deserves more consideration and
-respect than you expressed for him to-[[Night|night]].”
-
-“Indeed, my own? Why so?”
-
-“That is what you are not to ask me. But I think--I know--he does.”
-
-“If you know it, it is enough. What would you have me do, my Life?”
-
-“I would ask you, dearest, to be very generous with him always, and very
-lenient on his faults when he is not by. I would ask you to believe that
-he has a heart he very, very seldom reveals, and that there are deep
-wounds in it. My dear, I have seen it bleeding.”
-
-“It is a painful reflection to me,” said [[Charles Darnay]], quite
-astounded, “that I should have done him any wrong. I never thought this
-of him.”
-
-“My husband, it is so. I [[Fear|fear]] he is not to be reclaimed; there is
-scarcely a [[Hope|hope]] that anything in his character or fortunes is reparable
-now. But, I am sure that he is capable of good things, gentle things,
-even magnanimous things.”
-
-She looked so beautiful in the purity of her [[Faith|faith]] in this lost man,
-that her husband could have looked at her as she was for hours.
-
-“And, O my dearest [[Love]]!” she urged, clinging nearer to him, laying her
-head upon his breast, and raising her eyes to his, “remember how strong
-we are in our happiness, and how weak he is in his misery!”
-
-The supplication touched him [[Home|home]]. “I will always remember it, dear
-Heart! I will remember it as long as I live.”
-
-He bent over the golden head, and put the rosy lips to his, and folded
-her in his arms. If one forlorn wanderer then pacing the dark streets,
-could have heard her [[Innocent|innocent]] disclosure, and could have seen the drops
-of pity kissed away by her husband from the soft blue eyes so loving of
-that husband, he might have cried to the [[Night|night]]--and the words would not
-have parted from his lips for the first [[Time|time]]--
-
-“God bless her for her sweet compassion!”
-
-
-
-
-<span class="atom-split" data-atom="chapter_28" data-title="A Tale of Two Cities — Chapter 22" data-chapter="Chapter 28" data-kind="chapter"></span>
-
-
-CHAPTER XXII.
-The Sea Still Rises
-
-
-Haggard Saint Antoine had had only one exultant week, in which to soften
-his modicum of hard and bitter bread to such extent as he could, with
-the relish of fraternal embraces and congratulations, when Madame
-Defarge sat at her counter, as usual, presiding over the customers.
-[[Madame Defarge]] wore no [[Rose|rose]] in her head, for the great brotherhood of
-Spies had become, even in one short week, extremely chary of trusting
-themselves to the saint’s mercies. The lamps across his streets had a
-portentously elastic swing with them.
-
-[[Madame Defarge]], with her arms folded, sat in the morning light and heat,
-contemplating the wine-shop and the street. In both, there were several
-knots of loungers, squalid and miserable, but now with a manifest sense
-of power enthroned on their distress. The raggedest nightcap, awry on
-the wretchedest head, had this crooked significance in it: “I know how
-hard it has grown for me, the wearer of this, to support life in myself;
-but do you know how easy it has grown for me, the wearer of this, to
-destroy life in you?” Every lean bare arm, that had been without work
-before, had this work always ready for it now, that it could strike.
-The fingers of the knitting women were vicious, with the experience that
-they could tear. There was a change in the appearance of Saint Antoine;
-the image had been hammering into this for hundreds of years, and the
-last finishing blows had told mightily on the expression.
-
-[[Madame Defarge]] sat observing it, with such suppressed approval as was
-to be desired in the leader of the Saint Antoine women. One of her
-sisterhood knitted beside her. The short, rather plump wife of a starved
-[[grocer]], and the mother of two children withal, this lieutenant had
-already earned the complimentary name of The Vengeance.
-
-“Hark!” said The Vengeance. “Listen, then! Who comes?”
-
-As if a train of powder laid from the outermost bound of Saint Antoine
-Quarter to the wine-shop door, had been suddenly fired, a fast-spreading
-murmur came rushing along.
-
-“It is Defarge,” said madame. “[[Silence]], patriots!”
-
-Defarge came in breathless, pulled off a red cap he wore, and looked
-around him! “Listen, everywhere!” said madame again. “Listen to him!”
-Defarge stood, panting, against a background of eager eyes and open
-mouths, formed outside the door; all those within the wine-shop had
-sprung to their feet.
-
-“Say then, my husband. What is it?”
-
-“News from the other world!”
-
-“How, then?” cried madame, contemptuously. “The other world?”
-
-“Does everybody here recall old Foulon, who told the famished people
-that they might eat grass, and who died, and went to Hell?”
-
-“Everybody!” from all throats.
-
-“The news is of him. He is among us!”
-
-“Among us!” from the universal throat again. “And dead?”
-
-“Not dead! He feared us so much--and with reason--that he caused himself
-to be represented as dead, and had a grand mock-funeral. But they have
-found him alive, hiding in the country, and have brought him in. I have
-seen him but now, on his way to the Hotel de Ville, a prisoner. I have
-said that he had reason to [[Fear|fear]] us. Say all! _Had_ he reason?”
-
-Wretched old sinner of more than threescore years and ten, if he had
-never known it yet, he would have known it in his heart of hearts if he
-could have heard the answering cry.
-
-A moment of profound [[Silence|silence]] followed. Defarge and his wife looked
-steadfastly at one another. The Vengeance stooped, and the jar of a drum
-was heard as she moved it at her feet behind the counter.
-
-“Patriots!” said Defarge, in a determined voice, “are we ready?”
-
-Instantly [[Madame Defarge]]’s knife was in her girdle; the drum was beating
-in the streets, as if it and a drummer had flown together by [[Magic|magic]]; and
-The Vengeance, uttering terrific shrieks, and flinging her arms about
-her head like all the forty Furies at once, was tearing from [[house]] to
-[[house]], rousing the women.
-
-The men were terrible, in the bloody-minded anger with which they looked
-from windows, caught up what arms they had, and came pouring down into
-the streets; but, the women were a sight to chill the boldest. From
-such household occupations as their bare [[Poverty|poverty]] yielded, from their
-children, from their aged and their sick crouching on the bare ground
-famished and naked, they ran out with streaming hair, urging one
-another, and themselves, to [[Madness|madness]] with the wildest cries and actions.
-[[Villain]] Foulon taken, my sister! Old Foulon taken, my mother! Miscreant
-Foulon taken, my daughter! Then, a score of others ran into the midst of
-these, beating their breasts, tearing their hair, and screaming, Foulon
-alive! Foulon who told the starving people they might eat grass! Foulon
-who told my old father that he might eat grass, when I had no bread
-to give him! Foulon who told my baby it might suck grass, when these
-breasts were dry with want! O mother of God, this Foulon! O Heaven our
-[[Suffering|suffering]]! Hear me, my dead baby and my withered father: I swear on my
-knees, on these stones, to avenge you on Foulon! Husbands, and brothers,
-and young men, Give us the [[Blood|blood]] of Foulon, Give us the head of Foulon,
-Give us the heart of Foulon, Give us the [[Body|body]] and [[Soul|soul]] of Foulon, Rend
-Foulon to pieces, and dig him into the ground, that grass may grow from
-him! With these cries, numbers of the women, lashed into blind frenzy,
-whirled about, striking and tearing at their own friends until they
-dropped into a passionate swoon, and were only saved by the men
-belonging to them from being trampled under foot.
-
-Nevertheless, not a moment was lost; not a moment! This Foulon was at
-the Hotel de Ville, and might be loosed. Never, if Saint Antoine knew
-his own sufferings, insults, and wrongs! Armed men and women flocked out
-of the Quarter so fast, and drew even these last dregs after them with
-such a force of suction, that within a quarter of an hour there was not
-a human creature in Saint Antoine’s bosom but a few old crones and the
-wailing children.
-
-No. They were all by that [[Time|time]] choking the Hall of Examination where
-this old man, ugly and wicked, was, and overflowing into the adjacent
-open space and streets. The Defarges, husband and wife, The Vengeance,
-and Jacques Three, were in the first press, and at no great distance
-from him in the Hall.
-
-“See!” cried madame, pointing with her knife. “See the old [[Villain|villain]] bound
-with ropes. That was [[Well|well]] done to tie a bunch of grass upon his back.
-Ha, ha! That was [[Well|well]] done. Let him eat it now!” Madame put her knife
-under her arm, and clapped her hands as at a play.
-
-The people immediately behind [[Madame Defarge]], explaining the cause of
-her satisfaction to those behind them, and those again explaining to
-others, and those to others, the neighbouring streets resounded with the
-clapping of hands. Similarly, during two or three hours of drawl,
-and the winnowing of many bushels of words, [[Madame Defarge]]’s frequent
-expressions of impatience were taken up, with marvellous quickness, at
-a distance: the more readily, because certain men who had by some
-wonderful exercise of agility climbed up the external architecture
-to look in from the windows, knew [[Madame Defarge]] [[Well|well]], and acted as a
-telegraph between her and the crowd outside the building.
-
-At length the sun [[Rose|rose]] so high that it struck a kindly ray as of [[Hope|hope]] or
-protection, directly down upon the old prisoner’s head. The favour was
-too much to bear; in an instant the barrier of [[Dust|dust]] and chaff that had
-stood surprisingly long, went to the winds, and Saint Antoine had got
-him!
-
-It was known directly, to the furthest confines of the crowd. Defarge
-had but sprung over a railing and a table, and folded the miserable
-wretch in a deadly embrace--[[Madame Defarge]] had but followed and turned
-her hand in one of the ropes with which he was tied--The Vengeance and
-Jacques Three were not yet up with them, and the men at the windows
-had not yet swooped into the Hall, like [[Birds|birds]] of prey from their high
-perches--when the cry seemed to go up, all over the [[City|city]], “Bring him
-out! Bring him to the lamp!”
-
-Down, and up, and head foremost on the steps of the building; now, on
-his knees; now, on his feet; now, on his back; dragged, and struck at,
-and stifled by the bunches of grass and straw that were thrust into his
-face by hundreds of hands; torn, bruised, panting, bleeding, yet always
-entreating and beseeching for [[Mercy|mercy]]; now full of vehement agony of
-action, with a small clear space about him as the people drew one
-another back that they might see; now, a log of dead wood drawn through
-a forest of legs; he was hauled to the nearest street corner where one
-of the fatal lamps swung, and there [[Madame Defarge]] let him go--as a cat
-might have done to a mouse--and silently and composedly looked at him
-while they made ready, and while he besought her: the women passionately
-screeching at him all the [[Time|time]], and the men sternly calling out to have
-him killed with grass in his mouth. Once, he went aloft, and the rope
-broke, and they caught him shrieking; twice, he went aloft, and the rope
-broke, and they caught him shrieking; then, the rope was merciful, and
-held him, and his head was soon upon a pike, with grass enough in the
-mouth for all Saint Antoine to [[Dance|dance]] at the sight of.
-
-Nor was this the end of the day’s bad work, for Saint Antoine so shouted
-and danced his angry [[Blood|blood]] up, that it boiled again, on hearing when
-the day closed in that the son-in-law of the despatched, another of the
-people’s enemies and insulters, was coming into [[Paris]] under a guard
-five hundred strong, in cavalry [[Alone|alone]]. Saint Antoine wrote his crimes
-on flaring sheets of paper, seized him--would have torn him out of the
-breast of an army to bear Foulon company--set his head and heart on
-pikes, and carried the three spoils of the day, in Wolf-procession
-through the streets.
-
-Not before dark [[Night|night]] did the men and women come back to the children,
-wailing and breadless. Then, the miserable bakers’ shops were beset by
-long files of them, patiently waiting to buy bad bread; and while
-they waited with stomachs faint and empty, they beguiled the [[Time|time]] by
-embracing one another on the triumphs of the day, and achieving them
-again in gossip. Gradually, these strings of ragged people shortened and
-frayed away; and then poor lights began to shine in high windows, and
-slender fires were made in the streets, at which neighbours cooked in
-common, afterwards supping at their doors.
-
-Scanty and insufficient suppers those, and [[Innocent|innocent]] of meat, as of
-most other sauce to wretched bread. Yet, human fellowship infused
-some nourishment into the flinty viands, and struck some sparks of
-cheerfulness out of them. Fathers and mothers who had had their full
-share in the worst of the day, played gently with their meagre children;
-and [[lovers]], with such a world around them and before them, loved and
-hoped.
-
-It was almost morning, when Defarge’s wine-shop parted with its last
-knot of customers, and Monsieur Defarge said to madame his wife, in
-husky tones, while fastening the door:
-
-“At last it is come, my dear!”
-
-“Eh [[Well|well]]!” returned madame. “Almost.”
-
-Saint Antoine slept, the Defarges slept: even The Vengeance slept with
-her starved [[grocer]], and the drum was at rest. The drum’s was the
-only voice in Saint Antoine that [[Blood|blood]] and hurry had not changed. The
-Vengeance, as custodian of the drum, could have wakened him up and had
-the same speech out of him as before the Bastille fell, or old Foulon
-was seized; not so with the hoarse tones of the men and women in Saint
-Antoine’s bosom.
-
-
-
-
-<span class="atom-split" data-atom="chapter_33" data-title="A Tale of Two Cities — Chapter 3" data-chapter="Chapter 33" data-kind="chapter"></span>
-
-
-CHAPTER III.
-The [[Shadow]]
-
-
-One of the first considerations which arose in the business mind of Mr.
-Lorry when business hours came round, was this:--that he had no right to
-imperil Tellson’s by sheltering the wife of an emigrant prisoner under
-the Bank roof. His own possessions, safety, life, he would have hazarded
-for Lucie and her [[Child|child]], without a moment’s demur; but the great trust
-he held was not his own, and as to that business charge he was a strict
-man of business.
-
-At first, his mind reverted to Defarge, and he thought of finding out
-the wine-shop again and taking counsel with its master in reference to
-the safest dwelling-place in the distracted state of the [[City|city]]. But, the
-same consideration that suggested him, repudiated him; he lived in the
-most violent Quarter, and doubtless was influential there, and deep in
-its dangerous workings.
-
-[[Noon]] coming, and the Doctor not returning, and every minute’s delay
-tending to compromise Tellson’s, Mr. Lorry advised with Lucie. She said
-that her father had spoken of hiring a lodging for a short term, in that
-Quarter, near the Banking-[[house]]. As there was no business objection to
-this, and as he foresaw that even if it were all [[Well|well]] with Charles, and
-he were to be released, he could not [[Hope|hope]] to leave the [[City|city]], Mr. Lorry
-went out in [[Quest|quest]] of such a lodging, and found a suitable one, high up
-in a removed by-street where the closed blinds in all the other windows
-of a high [[Melancholy|melancholy]] square of buildings marked deserted homes.
-
-To this lodging he at once removed Lucie and her [[Child|child]], and [[Miss Pross]]:
-giving them what comfort he could, and much more than he had himself.
-He left Jerry with them, as a figure to fill a doorway that would bear
-considerable knocking on the head, and returned to his own occupations.
-A disturbed and doleful mind he brought to bear upon them, and slowly
-and heavily the day lagged on with him.
-
-It wore itself out, and wore him out with it, until the Bank closed. He
-was again [[Alone|alone]] in his room of the previous [[Night|night]], considering what to
-do next, when he heard a foot upon the stair. In a few moments, a
-man stood in his presence, who, with a keenly observant look at him,
-addressed him by his name.
-
-“Your servant,” said Mr. Lorry. “Do you know me?”
-
-He was a strongly made man with dark curling hair, from forty-five
-to fifty years of age. For answer he repeated, without any change of
-emphasis, the words:
-
-“Do you know me?”
-
-“I have seen you somewhere.”
-
-“Perhaps at my wine-shop?”
-
-Much interested and agitated, Mr. Lorry said: “You come from Doctor
-Manette?”
-
-“Yes. I come from [[Doctor Manette]].”
-
-“And what says he? What does he send me?”
-
-Defarge gave into his anxious hand, an open scrap of paper. It bore the
-words in the Doctor’s writing:
-
-“Charles is safe, but I cannot safely leave this place yet.
-I have obtained the favour that the bearer has a short note
-from Charles to his wife.  Let the bearer see his wife.”
-
-It was dated from La Force, within an hour.
-
-“Will you accompany me,” said Mr. Lorry, joyfully relieved after reading
-this note aloud, “to where his wife resides?”
-
-“Yes,” returned Defarge.
-
-Scarcely noticing as yet, in what a curiously reserved and mechanical
-way Defarge spoke, Mr. Lorry put on his hat and they went down into the
-courtyard. There, they found two women; one, knitting.
-
-“[[Madame Defarge]], surely!” said Mr. Lorry, who had left her in exactly
-the same attitude some seventeen years ago.
-
-“It is she,” observed her husband.
-
-“Does Madame go with us?” inquired Mr. Lorry, seeing that she moved as
-they moved.
-
-“Yes. That she may be able to recognise the faces and know the persons.
-It is for their safety.”
-
-Beginning to be struck by Defarge’s manner, Mr. Lorry looked dubiously
-at him, and led the way. Both the women followed; the second woman being
-The Vengeance.
-
-They passed through the intervening streets as quickly as they might,
-ascended the staircase of the new domicile, were admitted by Jerry,
-and found Lucie weeping, [[Alone|alone]]. She was thrown into a transport by the
-tidings Mr. Lorry gave her of her husband, and clasped the hand that
-delivered his note--little thinking what it had been doing near him in
-the [[Night|night]], and might, but for a chance, have done to him.
-
-“DEAREST,--Take [[Courage|courage]].  I am [[Well|well]], and your father has
-influence around me.  You cannot answer this.
-Kiss our [[Child|child]] for me.”
-
-That was all the writing. It was so much, however, to her who received
-it, that she turned from Defarge to his wife, and kissed one of the
-hands that knitted. It was a passionate, loving, thankful, womanly
-action, but the hand made no response--dropped cold and heavy, and took
-to its knitting again.
-
-There was something in its touch that gave Lucie a check. She stopped in
-the act of putting the note in her bosom, and, with her hands yet at her
-neck, looked terrified at [[Madame Defarge]]. [[Madame Defarge]] met the lifted
-eyebrows and forehead with a cold, impassive stare.
-
-“My dear,” said Mr. Lorry, striking in to explain; “there are frequent
-risings in the streets; and, although it is not likely they will ever
-trouble you, [[Madame Defarge]] wishes to see those whom she has the power
-to protect at such times, to the end that she may know them--that she
-may identify them. I believe,” said Mr. Lorry, rather halting in his
-reassuring words, as the stony manner of all the three impressed itself
-upon him more and more, “I state the case, Citizen Defarge?”
-
-Defarge looked gloomily at his wife, and gave no other answer than a
-gruff sound of acquiescence.
-
-“You had better, Lucie,” said Mr. Lorry, doing all he could to
-propitiate, by tone and manner, “have the dear [[Child|child]] here, and our
-good Pross. Our good Pross, Defarge, is an English lady, and knows no
-French.”
-
-The lady in question, whose rooted conviction that she was more than a
-match for any foreigner, was not to be shaken by distress and, danger,
-appeared with folded arms, and observed in English to The Vengeance,
-whom her eyes first encountered, “[[Well]], I am sure, Boldface! I [[Hope|hope]]
-_you_ are pretty [[Well|well]]!” She also bestowed a British cough on Madame
-Defarge; but, neither of the two took much heed of her.
-
-“Is that his [[Child|child]]?” said [[Madame Defarge]], stopping in her work for the
-first [[Time|time]], and pointing her knitting-needle at little Lucie as if it
-were the finger of Fate.
-
-“Yes, madame,” answered Mr. Lorry; “this is our poor prisoner’s darling
-daughter, and only [[Child|child]].”
-
-The [[Shadow|shadow]] attendant on [[Madame Defarge]] and her party seemed to fall so
-threatening and dark on the [[Child|child]], that her mother instinctively
-kneeled on the ground beside her, and held her to her breast. The
-[[Shadow|shadow]] attendant on [[Madame Defarge]] and her party seemed then to fall,
-threatening and dark, on both the mother and the [[Child|child]].
-
-“It is enough, my husband,” said [[Madame Defarge]]. “I have seen them. We
-may go.”
-
-But, the suppressed manner had enough of menace in it--not visible and
-presented, but indistinct and withheld--to alarm Lucie into saying, as
-she laid her appealing hand on [[Madame Defarge]]’s dress:
-
-“You will be good to my poor husband. You will do him no harm. You will
-help me to see him if you can?”
-
-“Your husband is not my business here,” returned [[Madame Defarge]], looking
-down at her with perfect composure. “It is the daughter of your father
-who is my business here.”
-
-“For my sake, then, be merciful to my husband. For my [[Child|child]]’s sake! She
-will put her hands together and pray you to be merciful. We are more
-afraid of you than of these others.”
-
-[[Madame Defarge]] received it as a compliment, and looked at her husband.
-Defarge, who had been uneasily biting his thumb-nail and looking at her,
-collected his face into a sterner expression.
-
-“What is it that your husband says in that little letter?” asked Madame
-Defarge, with a lowering smile. “Influence; he says something touching
-influence?”
-
-“That my father,” said Lucie, hurriedly taking the paper from her
-breast, but with her alarmed eyes on her questioner and not on it, “has
-much influence around him.”
-
-“Surely it will release him!” said [[Madame Defarge]]. “Let it do so.”
-
-“As a wife and mother,” cried Lucie, most earnestly, “I implore you to
-have pity on me and not to exercise any power that you possess, against
-my [[Innocent|innocent]] husband, but to use it in his behalf. O sister-woman, think
-of me. As a wife and mother!”
-
-[[Madame Defarge]] looked, coldly as ever, at the suppliant, and said,
-turning to her friend The Vengeance:
-
-“The wives and mothers we have been used to see, since we were as little
-as this [[Child|child]], and much less, have not been greatly considered? We have
-known _their_ husbands and fathers laid in [[Prison|prison]] and kept from them,
-often enough? All our lives, we have seen our sister-women suffer, in
-themselves and in their children, [[Poverty|poverty]], [[Nakedness|nakedness]], hunger, thirst,
-sickness, misery, oppression and neglect of all kinds?”
-
-“We have seen nothing else,” returned The Vengeance.
-
-“We have borne this a long [[Time|time]],” said [[Madame Defarge]], turning her eyes
-again upon Lucie. “Judge you! Is it likely that the trouble of one wife
-and mother would be much to us now?”
-
-She resumed her knitting and went out. The Vengeance followed. Defarge
-went last, and closed the door.
-
-“[[Courage]], my dear Lucie,” said Mr. Lorry, as he raised her. “[[Courage]],
-[[Courage|courage]]! So far all goes [[Well|well]] with us--much, much better than it has of
-late gone with many poor souls. Cheer up, and have a thankful heart.”
-
-“I am not thankless, I [[Hope|hope]], but that dreadful woman seems to throw a
-[[Shadow|shadow]] on me and on all my hopes.”
-
-“Tut, tut!” said Mr. Lorry; “what is this despondency in the brave
-little breast? A [[Shadow|shadow]] indeed! No substance in it, Lucie.”
-
-But the [[Shadow|shadow]] of the manner of these Defarges was dark upon himself,
-for all that, and in his secret mind it troubled him greatly.
-
-
-
-
-<span class="atom-split" data-atom="chapter_37" data-title="A Tale of Two Cities — Chapter 7" data-chapter="Chapter 37" data-kind="chapter"></span>
-
-
-CHAPTER VII.
-A Knock at the Door
-
-
-“I have saved him.” It was not another of the [[Dreams|dreams]] in which he had
-often come back; he was really here. And yet his wife trembled, and a
-vague but heavy [[Fear|fear]] was upon her.
-
-All the air round was so thick and dark, the people were so passionately
-revengeful and fitful, the [[Innocent|innocent]] were so constantly put to [[Death|death]] on
-vague suspicion and black malice, it was so impossible to forget that
-many as blameless as her husband and as dear to others as he was to
-her, every day shared the fate from which he had been clutched, that her
-heart could not be as lightened of its load as she felt it ought to be.
-The shadows of the wintry afternoon were beginning to fall, and even now
-the dreadful carts were [[rolling]] through the streets. Her mind pursued
-them, looking for him among the Condemned; and then she clung closer to
-his real presence and trembled more.
-
-Her father, cheering her, showed a compassionate superiority to this
-woman’s weakness, which was wonderful to see. No garret, no shoemaking,
-no One Hundred and Five, North Tower, now! He had accomplished the task
-he had set himself, his promise was redeemed, he had saved Charles. Let
-them all lean upon him.
-
-Their housekeeping was of a very frugal kind: not only because that was
-the safest way of life, involving the least offence to the people, but
-because they were not rich, and Charles, throughout his [[Imprisonment|imprisonment]],
-had had to pay heavily for his bad food, and for his guard, and towards
-the living of the poorer prisoners. Partly on this account, and
-partly to avoid a domestic spy, they kept no servant; the citizen and
-citizeness who acted as porters at the courtyard gate, rendered them
-occasional service; and Jerry (almost wholly transferred to them by
-Mr. Lorry) had become their daily retainer, and had his bed there every
-[[Night|night]].
-
-It was an ordinance of the Republic One and Indivisible of Liberty,
-Equality, Fraternity, or [[Death]], that on the door or doorpost of every
-[[house]], the name of every inmate must be legibly inscribed in letters
-of a certain size, at a certain convenient height from the ground. Mr.
-[[Jerry Cruncher]]’s name, therefore, duly embellished the doorpost down
-below; and, as the afternoon shadows deepened, the owner of that name
-himself appeared, from overlooking a painter whom [[Doctor Manette]] had
-employed to add to the list the name of Charles Evrémonde, called
-Darnay.
-
-In the universal [[Fear|fear]] and distrust that darkened the [[Time|time]], all the usual
-harmless ways of life were changed. In the Doctor’s little household, as
-in very many others, the articles of daily consumption that were wanted
-were purchased every evening, in small quantities and at various small
-shops. To avoid attracting notice, and to give as little occasion as
-possible for talk and envy, was the general [[Desire|desire]].
-
-For some months past, [[Miss Pross]] and Mr. Cruncher had discharged the
-office of purveyors; the former carrying the money; the latter, the
-basket. Every afternoon at about the [[Time|time]] when the public lamps were
-lighted, they fared forth on this duty, and made and brought [[Home|home]]
-such purchases as were needful. Although [[Miss Pross]], through her long
-association with a French family, might have known as much of their
-language as of her own, if she had had a mind, she had no mind in that
-direction; consequently she knew no more of that “nonsense” (as she was
-pleased to call it) than Mr. Cruncher did. So her manner of marketing
-was to plump a noun-substantive at the head of a shopkeeper without any
-introduction in the [[Nature|nature]] of an article, and, if it happened not to be
-the name of the thing she wanted, to look round for that thing, lay hold
-of it, and hold on by it until the bargain was concluded. She always
-made a bargain for it, by holding up, as a statement of its just price,
-one finger less than the merchant held up, whatever his number might be.
-
-“Now, Mr. Cruncher,” said [[Miss Pross]], whose eyes were red with felicity;
-“if you are ready, I am.”
-
-Jerry hoarsely professed himself at [[Miss Pross]]’s service. He had worn
-all his rust off long ago, but nothing would file his spiky head down.
-
-“There’s all manner of things wanted,” said [[Miss Pross]], “and we shall
-have a precious [[Time|time]] of it. We want wine, among the rest. Nice toasts
-these Redheads will be drinking, wherever we buy it.”
-
-“It will be much the same to your knowledge, miss, I should think,”
-retorted Jerry, “whether they drink your health or the Old Un’s.”
-
-“Who’s he?” said [[Miss Pross]].
-
-Mr. Cruncher, with some diffidence, explained himself as meaning “Old
-Nick’s.”
-
-“Ha!” said [[Miss Pross]], “it doesn’t need an interpreter to explain the
-meaning of these creatures. They have but one, and it’s Midnight Murder,
-and Mischief.”
-
-“Hush, dear! Pray, pray, be cautious!” cried Lucie.
-
-“Yes, yes, yes, I’ll be cautious,” said [[Miss Pross]]; “but I may say
-among ourselves, that I do [[Hope|hope]] there will be no oniony and tobaccoey
-smotherings in the form of embracings all round, going on in the
-streets. Now, Ladybird, never you stir from that [[Fire|fire]] till I come back!
-Take care of the dear husband you have recovered, and don’t move your
-pretty head from his shoulder as you have it now, till you see me again!
-May I ask a question, [[Doctor Manette]], before I go?”
-
-“I think you may take that liberty,” the Doctor answered, smiling.
-
-“For gracious sake, don’t talk about Liberty; we have quite enough of
-that,” said [[Miss Pross]].
-
-“Hush, dear! Again?” Lucie remonstrated.
-
-“[[Well]], my sweet,” said [[Miss Pross]], nodding her head emphatically, “the
-short and the long of it is, that I am a subject of His Most Gracious
-Majesty [[King]] George the Third;” [[Miss Pross]] curtseyed at the name; “and
-as such, my maxim is, Confound their politics, Frustrate their knavish
-tricks, On him our hopes we fix, God save the [[King]]!”
-
-Mr. Cruncher, in an access of loyalty, growlingly repeated the words
-after [[Miss Pross]], like somebody at church.
-
-“I am glad you have so much of the Englishman in you, though I wish you
-had never taken that cold in your voice,” said [[Miss Pross]], approvingly.
-“But the question, [[Doctor Manette]]. Is there”--it was the good creature’s
-way to affect to make light of anything that was a great anxiety
-with them all, and to come at it in this chance manner--“is there any
-prospect yet, of our getting out of this place?”
-
-“I [[Fear|fear]] not yet. It would be dangerous for Charles yet.”
-
-“Heigh-ho-hum!” said [[Miss Pross]], cheerfully repressing a sigh as she
-glanced at her darling’s golden hair in the light of the [[Fire|fire]], “then we
-must have patience and wait: that’s all. We must hold up our heads and
-fight low, as my brother Solomon used to say. Now, Mr. Cruncher!--Don’t
-you move, Ladybird!”
-
-They went out, leaving Lucie, and her husband, her father, and the
-[[Child|child]], by a bright [[Fire|fire]]. Mr. Lorry was expected back presently from the
-Banking [[house|House]]. [[Miss Pross]] had lighted the lamp, but had put it aside in
-a corner, that they might enjoy the [[Fire|fire]]-light undisturbed. Little Lucie
-sat by her grandfather with her hands clasped through his arm: and he,
-in a tone not rising much above a whisper, began to tell her a story of
-a great and powerful Fairy who had opened a [[Prison|prison]]-wall and let out
-a captive who had once done the Fairy a service. All was subdued and
-quiet, and Lucie was more at ease than she had been.
-
-“What is that?” she cried, all at once.
-
-“My dear!” said her father, stopping in his story, and laying his hand
-on hers, “command yourself. What a disordered state you are in! The
-least thing--nothing--startles you! _You_, your father’s daughter!”
-
-“I thought, my father,” said Lucie, excusing herself, with a pale face
-and in a faltering voice, “that I heard strange feet upon the stairs.”
-
-“My [[Love|love]], the staircase is as still as [[Death]].”
-
-As he said the word, a blow was struck upon the door.
-
-“Oh father, father. What can this be! Hide Charles. Save him!”
-
-“My [[Child|child]],” said the Doctor, rising, and laying his hand upon her
-shoulder, “I _have_ saved him. What weakness is this, my dear! Let me go
-to the door.”
-
-He took the lamp in his hand, crossed the two intervening outer rooms,
-and opened it. A rude clattering of feet over the floor, and four rough
-men in red caps, armed with sabres and pistols, entered the room.
-
-“The Citizen Evrémonde, called Darnay,” said the first.
-
-“Who seeks him?” answered Darnay.
-
-“I seek him. We seek him. I know you, Evrémonde; I saw you before the
-Tribunal to-day. You are again the prisoner of the Republic.”
-
-The four surrounded him, where he stood with his wife and [[Child|child]] clinging
-to him.
-
-“Tell me how and why am I again a prisoner?”
-
-“It is enough that you return straight to the Conciergerie, and will
-know to-morrow. You are summoned for to-morrow.”
-
-[[Doctor Manette]], whom this visitation had so turned into stone, that he
-stood with the lamp in his hand, as if he were a statue made to hold it,
-moved after these words were spoken, put the lamp down, and confronting
-the speaker, and taking him, not ungently, by the loose front of his red
-woollen shirt, said:
-
-“You know him, you have said. Do you know me?”
-
-“Yes, I know you, Citizen Doctor.”
-
-“We all know you, Citizen Doctor,” said the other three.
-
-He looked abstractedly from one to another, and said, in a lower voice,
-after a pause:
-
-“Will you answer his question to me then? How does this happen?”
-
-“Citizen Doctor,” said the first, reluctantly, “he has been denounced to
-the Section of Saint Antoine. This citizen,” pointing out the second who
-had entered, “is from Saint Antoine.”
-
-The citizen here indicated nodded his head, and added:
-
-“He is accused by Saint Antoine.”
-
-“Of what?” asked the Doctor.
-
-“Citizen Doctor,” said the first, with his former reluctance, “ask no
-more. If the Republic demands sacrifices from you, without [[Doubt|doubt]] you as
-a good patriot will be happy to make them. The Republic goes before all.
-The People is supreme. Evrémonde, we are pressed.”
-
-“One word,” the Doctor entreated. “Will you tell me who denounced him?”
-
-“It is against rule,” answered the first; “but you can ask Him of Saint
-Antoine here.”
-
-The Doctor turned his eyes upon that man. Who moved uneasily on his
-feet, rubbed his beard a little, and at length said:
-
-“[[Well]]! Truly it is against rule. But he is denounced--and gravely--by
-the Citizen and Citizeness Defarge. And by one other.”
-
-“What other?”
-
-“Do _you_ ask, Citizen Doctor?”
-
-“Yes.”
-
-“Then,” said he of Saint Antoine, with a strange look, “you will be
-answered to-morrow. Now, I am dumb!”
-
-
-
-
-<span class="atom-split" data-atom="chapter_41" data-title="A Tale of Two Cities — Chapter 11" data-chapter="Chapter 41" data-kind="chapter"></span>
-
-
-CHAPTER XI.
-Dusk
-
-
-The wretched wife of the [[Innocent|innocent]] man thus doomed to die, fell under
-the sentence, as if she had been mortally stricken. But, she uttered no
-sound; and so strong was the voice within her, representing that it was
-she of all the world who must uphold him in his misery and not augment
-it, that it quickly raised her, even from that shock.
-
-The Judges having to take part in a public demonstration out of doors,
-the Tribunal adjourned. The quick noise and movement of the [[Court|court]]’s
-emptying itself by many passages had not ceased, when Lucie stood
-stretching out her arms towards her husband, with nothing in her face
-but [[Love|love]] and consolation.
-
-“If I might touch him! If I might embrace him once! O, good citizens, if
-you would have so much compassion for us!”
-
-There was but a gaoler left, along with two of the four men who had
-taken him last [[Night|night]], and Barsad. The people had all poured out to the
-show in the streets. Barsad proposed to the rest, “Let her embrace
-him then; it is but a moment.” It was silently acquiesced in, and they
-passed her over the seats in the hall to a raised place, where he, by
-leaning over the dock, could fold her in his arms.
-
-“Farewell, dear darling of my [[Soul|soul]]. My parting blessing on my [[Love|love]]. We
-shall meet again, where the weary are at rest!”
-
-They were her husband’s words, as he held her to his bosom.
-
-“I can bear it, dear Charles. I am supported from above: don’t suffer
-for me. A parting blessing for our [[Child|child]].”
-
-“I send it to her by you. I kiss her by you. I say farewell to her by
-you.”
-
-“My husband. No! A moment!” He was tearing himself apart from her.
-“We shall not be separated long. I feel that this will break my heart
-by-and-bye; but I will do my duty while I can, and when I leave her, God
-will raise up friends for her, as He did for me.”
-
-Her father had followed her, and would have fallen on his knees to both
-of them, but that Darnay put out a hand and seized him, crying:
-
-“No, no! What have you done, what have you done, that you should kneel
-to us! We know now, what a struggle you made of old. We know, now what
-you underwent when you suspected my descent, and when you knew it. We
-know now, the natural antipathy you strove against, and conquered, for
-her dear sake. We thank you with all our hearts, and all our [[Love|love]] and
-duty. Heaven be with you!”
-
-Her father’s only answer was to draw his hands through his white hair,
-and wring them with a shriek of anguish.
-
-“It could not be otherwise,” said the prisoner. “All things have worked
-together as they have fallen out. It was the always-vain endeavour to
-discharge my poor mother’s trust that first brought my fatal presence
-near you. Good could never come of such evil, a happier end was not in
-[[Nature|nature]] to so unhappy a beginning. Be comforted, and forgive me. Heaven
-bless you!”
-
-As he was drawn away, his wife released him, and stood looking after him
-with her hands touching one another in the attitude of [[prayer]], and
-with a radiant look upon her face, in which there was even a comforting
-smile. As he went out at the prisoners’ door, she turned, laid her head
-lovingly on her father’s breast, tried to speak to him, and fell at his
-feet.
-
-Then, issuing from the obscure corner from which he had never moved,
-[[Sydney Carton]] came and took her up. Only her father and Mr. Lorry were
-with her. His arm trembled as it raised her, and supported her head.
-Yet, there was an air about him that was not all of pity--that had a
-flush of [[Pride|pride]] in it.
-
-“Shall I take her to a coach? I shall never feel her weight.”
-
-He carried her lightly to the door, and laid her tenderly down in a
-coach. Her father and their old friend got into it, and he took his seat
-beside the driver.
-
-When they arrived at the gateway where he had paused in the dark not
-many hours before, to picture to himself on which of the rough stones of
-the street her feet had trodden, he lifted her again, and carried her up
-the staircase to their rooms. There, he laid her down on a couch, where
-her [[Child|child]] and [[Miss Pross]] wept over her.
-
-“Don’t recall her to herself,” he said, softly, to the latter, “she is
-better so. Don’t revive her to consciousness, while she only faints.”
-
-“Oh, Carton, Carton, dear Carton!” cried little Lucie, springing up and
-throwing her arms passionately round him, in a burst of grief. “Now that
-you have come, I think you will do something to help mamma, something to
-save papa! O, look at her, dear Carton! Can you, of all the people who
-[[Love|love]] her, bear to see her so?”
-
-He bent over the [[Child|child]], and laid her blooming cheek against his face. He
-put her gently from him, and looked at her unconscious mother.
-
-“Before I go,” he said, and paused--“I may kiss her?”
-
-It was remembered afterwards that when he bent down and touched her face
-with his lips, he murmured some words. The [[Child|child]], who was nearest to
-him, told them afterwards, and told her grandchildren when she was a
-handsome old lady, that she heard him say, “A life you [[Love|love]].”
-
-When he had gone out into the next room, he turned suddenly on Mr. Lorry
-and her father, who were following, and said to the latter:
-
-“You had great influence but yesterday, [[Doctor Manette]]; let it at least
-be tried. These judges, and all the men in power, are very friendly to
-you, and very recognisant of your services; are they not?”
-
-“Nothing connected with Charles was concealed from me. I had the
-strongest assurances that I should save him; and I did.” He returned the
-answer in great trouble, and very slowly.
-
-“Try them again. The hours between this and to-morrow afternoon are few
-and short, but try.”
-
-“I intend to try. I will not rest a moment.”
-
-“That’s [[Well|well]]. I have known such energy as yours do great things before
-now--though never,” he added, with a smile and a sigh together, “such
-great things as this. But try! Of little worth as life is when we misuse
-it, it is worth that effort. It would cost nothing to lay down if it
-were not.”
-
-“I will go,” said [[Doctor Manette]], “to the Prosecutor and the President
-straight, and I will go to others whom it is better not to name. I will
-write too, and--But stay! There is a Celebration in the streets, and no
-one will be accessible until dark.”
-
-“That’s true. [[Well]]! It is a forlorn [[Hope|hope]] at the best, and not much the
-forlorner for being delayed till dark. I should like to know how you
-[[Speed|speed]]; though, mind! I expect nothing! When are you likely to have seen
-these dread powers, [[Doctor Manette]]?”
-
-“Immediately after dark, I should [[Hope|hope]]. Within an hour or two from
-this.”
-
-“It will be dark soon after four. Let us stretch the hour or two. If I
-go to Mr. Lorry’s at nine, shall I hear what you have done, either from
-our friend or from yourself?”
-
-“Yes.”
-
-“May you prosper!”
-
-Mr. Lorry followed Sydney to the outer door, and, touching him on the
-shoulder as he was going away, caused him to turn.
-
-“I have no [[Hope|hope]],” said Mr. Lorry, in a low and sorrowful whisper.
-
-“Nor have I.”
-
-“If any one of these men, or all of these men, were disposed to spare
-him--which is a large supposition; for what is his life, or any man’s
-to them!--I [[Doubt|doubt]] if they durst spare him after the demonstration in the
-[[Court|court]].”
-
-“And so do I. I heard the fall of the axe in that sound.”
-
-Mr. Lorry leaned his arm upon the door-post, and bowed his face upon it.
-
-“Don’t despond,” said Carton, very gently; “don’t grieve. I encouraged
-[[Doctor Manette]] in this idea, because I felt that it might one day be
-consolatory to her. Otherwise, she might think ‘his life was wantonly
-thrown away or wasted,’ and that might trouble her.”
-
-“Yes, yes, yes,” returned Mr. Lorry, drying his eyes, “you are right.
-But he will perish; there is no real [[Hope|hope]].”
-
-“Yes. He will perish: there is no real [[Hope|hope]],” echoed Carton.
-
-And walked with a settled step, down-stairs.
-
-
-
-
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="A Tale of Two Cities — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
 
 
@@ -22511,6 +20606,257 @@ things ran their course.
 
 
 
+<span class="atom-split" data-atom="chapter_14" data-title="A Tale of Two Cities — Chapter 8" data-chapter="Chapter 14" data-kind="chapter"></span>
+
+
+CHAPTER VIII.
+Monseigneur in the Country
+
+
+A beautiful landscape, with the corn bright in it, but not abundant.
+Patches of poor rye where corn should have been, patches of poor peas
+and beans, patches of most coarse vegetable substitutes for wheat. On
+inanimate [[Nature|nature]], as on the men and women who cultivated it, a prevalent
+tendency towards an appearance of vegetating unwillingly--a dejected
+disposition to give up, and wither away.
+
+Monsieur the Marquis in his travelling carriage (which might have been
+lighter), conducted by four post-horses and two postilions, fagged up
+a steep [[Hill|hill]]. A blush on the countenance of Monsieur the Marquis was
+no impeachment of his high breeding; it was not from within; it was
+occasioned by an external circumstance beyond his control--the setting
+sun.
+
+The sunset struck so brilliantly into the travelling carriage when it
+gained the [[Hill|hill]]-top, that its occupant was steeped in crimson. “It will
+die out,” said Monsieur the Marquis, glancing at his hands, “directly.”
+
+In effect, the sun was so low that it dipped at the moment. When the
+heavy drag had been adjusted to the [[Wheel|wheel]], and the carriage slid down
+[[Hill|hill]], with a cinderous smell, in a cloud of [[Dust|dust]], the red glow departed
+quickly; the sun and the Marquis going down together, there was no glow
+left when the drag was taken off.
+
+But, there remained a broken country, bold and open, a little village
+at the [[Bottom|bottom]] of the [[Hill|hill]], a broad sweep and rise beyond it, a
+church-tower, a windmill, a forest for the chase, and a crag with a
+fortress on it used as a [[Prison|prison]]. Round upon all these darkening objects
+as the [[Night|night]] drew on, the Marquis looked, with the air of one who was
+coming near [[Home|home]].
+
+The village had its one poor street, with its poor brewery, poor
+tannery, poor tavern, poor stable-yard for relays of post-horses, poor
+fountain, all usual poor appointments. It had its poor people too. All
+its people were poor, and many of them were sitting at their doors,
+shredding spare onions and the like for supper, while many were at the
+fountain, washing [[Leaves|leaves]], and grasses, and any such small yieldings of
+the earth that could be eaten. Expressive signs of what made them poor,
+were not wanting; the tax for the state, the tax for the church, the tax
+for the lord, tax local and tax general, were to be paid here and to be
+paid there, according to solemn [[Inscription|inscription]] in the little village, until
+the [[Wonder|wonder]] was, that there was any village left unswallowed.
+
+Few children were to be seen, and no [[dogs]]. As to the men and women,
+their choice on earth was stated in the prospect--Life on the lowest
+terms that could sustain it, down in the little village under the mill;
+or captivity and [[Death]] in the dominant [[Prison|prison]] on the crag.
+
+Heralded by a courier in advance, and by the cracking of his postilions’
+whips, which twined snake-like about their heads in the evening air, as
+if he came attended by the Furies, Monsieur the Marquis drew up in
+his travelling carriage at the posting-[[house]] gate. It was hard by the
+fountain, and the peasants suspended their operations to look at him.
+He looked at them, and saw in them, without knowing it, the slow
+sure filing down of misery-worn face and figure, that was to make the
+meagreness of Frenchmen an English superstition which should survive the
+[[Truth|truth]] through the best part of a hundred years.
+
+Monsieur the Marquis cast his eyes over the submissive faces that
+drooped before him, as the like of himself had drooped before
+Monseigneur of the [[Court]]--only the difference was, that these faces
+drooped merely to suffer and not to propitiate--when a grizzled mender
+of the roads joined the group.
+
+“Bring me hither that fellow!” said the Marquis to the courier.
+
+The fellow was brought, cap in hand, and the other fellows closed round
+to look and listen, in the manner of the people at the [[Paris]] fountain.
+
+“I passed you on the [[Road|road]]?”
+
+“Monseigneur, it is true. I had the [[Honour|honour]] of being passed on the [[Road|road]].”
+
+“Coming up the [[Hill|hill]], and at the top of the [[Hill|hill]], both?”
+
+“Monseigneur, it is true.”
+
+“What did you look at, so fixedly?”
+
+“Monseigneur, I looked at the man.”
+
+He stooped a little, and with his tattered blue cap pointed under the
+carriage. All his fellows stooped to look under the carriage.
+
+“What man, pig? And why look there?”
+
+“Pardon, Monseigneur; he swung by the chain of the shoe--the drag.”
+
+“Who?” demanded the traveller.
+
+“Monseigneur, the man.”
+
+“May the Devil carry away these idiots! How do you call the man? You
+know all the men of this part of the country. Who was he?”
+
+“Your clemency, Monseigneur! He was not of this part of the country. Of
+all the days of my life, I never saw him.”
+
+“Swinging by the chain? To be suffocated?”
+
+“With your gracious permission, that was the [[Wonder|wonder]] of it, Monseigneur.
+His head hanging over--like this!”
+
+He turned himself sideways to the carriage, and leaned back, with his
+face thrown up to the sky, and his head hanging down; then recovered
+himself, fumbled with his cap, and made a bow.
+
+“What was he like?”
+
+“Monseigneur, he was whiter than the miller. All covered with [[Dust|dust]],
+white as a spectre, tall as a spectre!”
+
+The picture produced an immense sensation in the little crowd; but all
+eyes, without comparing notes with other eyes, looked at Monsieur
+the Marquis. Perhaps, to observe whether he had any spectre on his
+[[Conscience|conscience]].
+
+“Truly, you did [[Well|well]],” said the Marquis, felicitously sensible that such
+vermin were not to ruffle him, “to see a thief accompanying my carriage,
+and not open that great mouth of yours. Bah! Put him aside, Monsieur
+Gabelle!”
+
+Monsieur Gabelle was the Postmaster, and some other taxing functionary
+united; he had come out with great obsequiousness to assist at this
+examination, and had held the examined by the drapery of his arm in an
+official manner.
+
+“Bah! Go aside!” said Monsieur Gabelle.
+
+“Lay hands on this stranger if he seeks to lodge in your village
+to-[[Night|night]], and be sure that his business is honest, Gabelle.”
+
+“Monseigneur, I am flattered to devote myself to your orders.”
+
+“Did he run away, fellow?--where is that Accursed?”
+
+The accursed was already under the carriage with some half-dozen
+particular friends, pointing out the chain with his blue cap. Some
+half-dozen other particular friends promptly hauled him out, and
+presented him breathless to Monsieur the Marquis.
+
+“Did the man run away, Dolt, when we stopped for the drag?”
+
+“Monseigneur, he precipitated himself over the [[Hill|hill]]-side, head first, as
+a person plunges into the [[River|river]].”
+
+“See to it, Gabelle. Go on!”
+
+The half-dozen who were peering at the chain were still among the
+wheels, like sheep; the wheels turned so suddenly that they were lucky
+to save their skins and bones; they had very little else to save, or
+they might not have been so fortunate.
+
+The burst with which the carriage started out of the village and up the
+rise beyond, was soon checked by the steepness of the [[Hill|hill]]. Gradually,
+it subsided to a foot pace, swinging and lumbering upward among the many
+sweet scents of a [[Summer|summer]] [[Night|night]]. The postilions, with a thousand gossamer
+gnats circling about them in lieu of the Furies, quietly mended the
+points to the lashes of their whips; the valet walked by the horses; the
+courier was audible, trotting on ahead into the dull distance.
+
+At the steepest point of the [[Hill|hill]] there was a little burial-ground,
+with a [[Cross]] and a new large figure of Our Saviour on it; it was a poor
+figure in wood, done by some inexperienced rustic carver, but he had
+studied the figure from the life--his own life, maybe--for it was
+dreadfully spare and thin.
+
+To this distressful emblem of a great distress that had long been
+growing worse, and was not at its worst, a woman was kneeling. She
+turned her head as the carriage came up to her, [[Rose|rose]] quickly, and
+presented herself at the carriage-door.
+
+“It is you, Monseigneur! Monseigneur, a petition.”
+
+With an exclamation of impatience, but with his unchangeable face,
+Monseigneur looked out.
+
+“How, then! What is it? Always petitions!”
+
+“Monseigneur. For the [[Love|love]] of the great God! My husband, the forester.”
+
+“What of your husband, the forester? Always the same with you people. He
+cannot pay something?”
+
+“He has paid all, Monseigneur. He is dead.”
+
+“[[Well]]! He is quiet. Can I restore him to you?”
+
+“Alas, no, Monseigneur! But he lies yonder, under a little heap of poor
+grass.”
+
+“[[Well]]?”
+
+“Monseigneur, there are so many little heaps of poor grass?”
+
+“Again, [[Well|well]]?”
+
+She looked an old woman, but was young. Her manner was one of passionate
+grief; by turns she clasped her veinous and knotted hands together
+with wild energy, and laid one of them on the carriage-door--tenderly,
+caressingly, as if it had been a human breast, and could be expected to
+feel the appealing touch.
+
+“Monseigneur, hear me! Monseigneur, hear my petition! My husband died of
+want; so many die of want; so many more will die of want.”
+
+“Again, [[Well|well]]? Can I feed them?”
+
+“Monseigneur, the good God knows; but I don’t ask it. My petition is,
+that a morsel of stone or wood, with my husband’s name, may be placed
+over him to show where he lies. Otherwise, the place will be quickly
+forgotten, it will never be found when I am dead of the same malady, I
+shall be laid under some other heap of poor grass. Monseigneur, they
+are so many, they increase so fast, there is so much want. Monseigneur!
+Monseigneur!”
+
+The valet had put her away from the door, the carriage had broken into
+a brisk trot, the postilions had quickened the pace, she was left far
+behind, and Monseigneur, again escorted by the Furies, was rapidly
+diminishing the league or two of distance that remained between him and
+his chateau.
+
+The sweet scents of the [[Summer|summer]] [[Night|night]] [[Rose|rose]] all around him, and [[Rose|rose]], as
+the rain falls, impartially, on the dusty, ragged, and toil-worn group
+at the fountain not far away; to whom the mender of roads, with the aid
+of the blue cap without which he was nothing, still enlarged upon his
+man like a spectre, as long as they could bear it. By degrees, as they
+could bear no more, they dropped off one by one, and lights twinkled
+in little casements; which lights, as the casements darkened, and more
+[[Stars|stars]] came out, seemed to have shot up into the sky instead of having
+been extinguished.
+
+The [[Shadow|shadow]] of a large high-roofed [[house]], and of many over-hanging trees,
+was upon Monsieur the Marquis by that [[Time|time]]; and the [[Shadow|shadow]] was exchanged
+for the light of a [[Flambeau|flambeau]], as his carriage stopped, and the great door
+of his chateau was opened to him.
+
+“Monsieur Charles, whom I expect; is he arrived from England?”
+
+“Monseigneur, not yet.”
+
+
+
+
 <span class="atom-split" data-atom="chapter_15--part_01" data-title="A Tale of Two Cities — Chapter 9 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
 
 
@@ -23409,6 +21755,191 @@ work, were all as usual.
 
 
 
+<span class="atom-split" data-atom="chapter_17" data-title="A Tale of Two Cities — Chapter 11" data-chapter="Chapter 17" data-kind="chapter"></span>
+
+
+CHAPTER XI.
+A Companion Picture
+
+
+“Sydney,” said Mr. Stryver, on that [[Self|self]]-same [[Night|night]], or morning, to his
+jackal; “mix another bowl of punch; I have something to say to you.”
+
+Sydney had been working [[Double|double]] tides that [[Night|night]], and the [[Night|night]] before,
+and the [[Night|night]] before that, and a good many nights in succession, making
+a grand clearance among Mr. Stryver’s papers before the setting in
+of the long vacation. The clearance was effected at last; the Stryver
+arrears were handsomely fetched up; everything was got rid of until
+November should come with its fogs atmospheric, and fogs legal, and
+bring grist to the mill again.
+
+Sydney was none the livelier and none the soberer for so much
+application. It had taken a deal of extra wet-towelling to pull him
+through the [[Night|night]]; a correspondingly extra quantity of wine had preceded
+the towelling; and he was in a very damaged condition, as he now pulled
+his turban off and threw it into the basin in which he had steeped it at
+intervals for the last six hours.
+
+“Are you mixing that other bowl of punch?” said Stryver the portly, with
+his hands in his waistband, glancing round from the sofa where he lay on
+his back.
+
+“I am.”
+
+“Now, look here! I am going to tell you something that will rather
+surprise you, and that perhaps will make you think me not quite as
+shrewd as you usually do think me. I intend to marry.”
+
+“_Do_ you?”
+
+“Yes. And not for money. What do you say now?”
+
+“I don’t feel disposed to say much. Who is she?”
+
+“Guess.”
+
+“Do I know her?”
+
+“Guess.”
+
+“I am not going to guess, at five o’[[Clock|clock]] in the morning, with my brains
+frying and sputtering in my head. If you want me to guess, you must ask
+me to dinner.”
+
+“[[Well]] then, I’ll tell you,” said Stryver, coming slowly into a sitting
+posture. “Sydney, I rather [[Despair|despair]] of making myself intelligible to you,
+because you are such an insensible dog.”
+
+“And you,” returned Sydney, busy concocting the punch, “are such a
+sensitive and poetical spirit--”
+
+“Come!” rejoined Stryver, laughing boastfully, “though I don’t prefer
+any claim to being the [[Soul|soul]] of [[Romance]] (for I [[Hope|hope]] I know better), still
+I am a tenderer sort of fellow than _you_.”
+
+“You are a luckier, if you mean that.”
+
+“I don’t mean that. I mean I am a man of more--more--”
+
+“Say gallantry, while you are about it,” suggested Carton.
+
+“[[Well]]! I’ll say gallantry. My meaning is that I am a man,” said Stryver,
+inflating himself at his friend as he made the punch, “who cares more to
+be agreeable, who takes more pains to be agreeable, who knows better how
+to be agreeable, in a woman’s society, than you do.”
+
+“Go on,” said [[Sydney Carton]].
+
+“No; but before I go on,” said Stryver, shaking his head in his bullying
+way, “I’ll have this out with you. You’ve been at [[Doctor Manette]]’s [[house]]
+as much as I have, or more than I have. Why, I have been ashamed of your
+moroseness there! Your manners have been of that silent and sullen and
+hangdog kind, that, upon my life and [[Soul|soul]], I have been ashamed of you,
+Sydney!”
+
+“It should be very beneficial to a man in your practice at the bar, to
+be ashamed of anything,” returned Sydney; “you ought to be much obliged
+to me.”
+
+“You shall not get off in that way,” rejoined Stryver, shouldering the
+rejoinder at him; “no, Sydney, it’s my duty to tell you--and I tell you
+to your face to do you good--that you are a devilish ill-conditioned
+fellow in that sort of society. You are a disagreeable fellow.”
+
+Sydney drank a bumper of the punch he had made, and laughed.
+
+“Look at me!” said Stryver, squaring himself; “I have less need to make
+myself agreeable than you have, being more independent in circumstances.
+Why do I do it?”
+
+“I never saw you do it yet,” muttered Carton.
+
+“I do it because it’s politic; I do it on principle. And look at me! I
+get on.”
+
+“You don’t get on with your account of your matrimonial intentions,”
+answered Carton, with a careless air; “I wish you would keep to that. As
+to me--will you never understand that I am incorrigible?”
+
+He asked the question with some appearance of scorn.
+
+“You have no business to be incorrigible,” was his friend’s answer,
+delivered in no very soothing tone.
+
+“I have no business to be, at all, that I know of,” said [[Sydney Carton]].
+“Who is the lady?”
+
+“Now, don’t let my announcement of the name make you uncomfortable,
+Sydney,” said Mr. Stryver, preparing him with ostentatious friendliness
+for the disclosure he was about to make, “because I know you don’t mean
+half you say; and if you meant it all, it would be of no importance. I
+make this little preface, because you once mentioned the young lady to
+me in slighting terms.”
+
+“I did?”
+
+“Certainly; and in these chambers.”
+
+[[Sydney Carton]] looked at his punch and looked at his complacent friend;
+drank his punch and looked at his complacent friend.
+
+“You made mention of the young lady as a golden-haired doll. The young
+lady is Miss Manette. If you had been a fellow of any sensitiveness or
+delicacy of feeling in that kind of way, Sydney, I might have been a
+little resentful of your employing such a designation; but you are not.
+You want that sense altogether; therefore I am no more annoyed when I
+think of the expression, than I should be annoyed by a man’s opinion of
+a picture of mine, who had no eye for pictures: or of a piece of music
+of mine, who had no ear for music.”
+
+[[Sydney Carton]] drank the punch at a great rate; drank it by bumpers,
+looking at his friend.
+
+“Now you know all about it, Syd,” said Mr. Stryver. “I don’t care about
+fortune: she is a charming creature, and I have made up my mind to
+please myself: on the whole, I think I can afford to please myself. She
+will have in me a man already pretty [[Well|well]] off, and a rapidly rising man,
+and a man of some distinction: it is a piece of good fortune for her,
+but she is worthy of good fortune. Are you astonished?”
+
+Carton, still drinking the punch, rejoined, “Why should I be
+astonished?”
+
+“You approve?”
+
+Carton, still drinking the punch, rejoined, “Why should I not approve?”
+
+“[[Well]]!” said his friend Stryver, “you take it more easily than I fancied
+you would, and are less mercenary on my behalf than I thought you would
+be; though, to be sure, you know [[Well|well]] enough by this [[Time|time]] that your
+ancient chum is a man of a pretty strong will. Yes, Sydney, I have had
+enough of this style of life, with no other as a change from it; I
+feel that it is a pleasant thing for a man to have a [[Home|home]] when he feels
+inclined to go to it (when he doesn’t, he can stay away), and I feel
+that Miss Manette will tell [[Well|well]] in any station, and will always do me
+credit. So I have made up my mind. And now, Sydney, old boy, I want to
+say a word to _you_ about _your_ prospects. You are in a bad way, you
+know; you really are in a bad way. You don’t know the value of money,
+you live hard, you’ll knock up one of these days, and be ill and poor;
+you really ought to think about a [[Nurse|nurse]].”
+
+The prosperous patronage with which he said it, made him look twice as
+big as he was, and four times as offensive.
+
+“Now, let me recommend you,” pursued Stryver, “to look it in the face.
+I have looked it in the face, in my different way; look it in the face,
+you, in your different way. Marry. Provide somebody to take care of
+you. Never mind your having no enjoyment of women’s society, nor
+understanding of it, nor tact for it. Find out somebody. Find out some
+respectable woman with a little property--somebody in the landlady way,
+or lodging-letting way--and marry her, against a rainy day. That’s the
+kind of thing for _you_. Now think of it, Sydney.”
+
+“I’ll think of it,” said Sydney.
+
+
+
+
 <span class="atom-split" data-atom="chapter_18--part_01" data-title="A Tale of Two Cities — Chapter 12 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
 
 
@@ -23714,6 +22245,217 @@ thank you again for allowing me to sound you; good [[Night|night]]!”
 
 Mr. Lorry was out in the [[Night|night]], before he knew where he was. Mr. Stryver
 was lying back on his sofa, winking at his ceiling.
+
+
+
+
+<span class="atom-split" data-atom="chapter_19" data-title="A Tale of Two Cities — Chapter 13" data-chapter="Chapter 19" data-kind="chapter"></span>
+
+
+CHAPTER XIII.
+The Fellow of No Delicacy
+
+
+If [[Sydney Carton]] ever shone anywhere, he certainly never shone in the
+[[house]] of [[Doctor Manette]]. He had been there often, during a whole year,
+and had always been the same moody and morose lounger there. When he
+cared to talk, he talked [[Well|well]]; but, the cloud of caring for nothing,
+which overshadowed him with such a fatal darkness, was very rarely
+pierced by the light within him.
+
+And yet he did care something for the streets that environed that [[house]],
+and for the senseless stones that made their pavements. Many a [[Night|night]]
+he vaguely and unhappily wandered there, when wine had brought no
+transitory gladness to him; many a dreary daybreak revealed his solitary
+figure lingering there, and still lingering there when the first beams
+of the sun brought into strong relief, removed beauties of architecture
+in spires of churches and lofty buildings, as perhaps the quiet [[Time|time]]
+brought some sense of better things, else forgotten and [[Unattainable|unattainable]],
+into his mind. Of late, the neglected bed in the Temple [[Court]] had known
+him more scantily than ever; and often when he had thrown himself upon
+it no longer than a few minutes, he had got up again, and haunted that
+neighbourhood.
+
+On a day in August, when Mr. Stryver (after notifying to his jackal
+that “he had thought better of that marrying matter”) had carried his
+delicacy into Devonshire, and when the sight and scent of [[Flowers|flowers]] in the
+[[City]] streets had some waifs of goodness in them for the worst, of health
+for the sickliest, and of youth for the oldest, Sydney’s feet still trod
+those stones. From being irresolute and purposeless, his feet became
+animated by an intention, and, in the working out of that intention,
+they took him to the Doctor’s door.
+
+He was shown up-stairs, and found Lucie at her work, [[Alone|alone]]. She had
+never been quite at her ease with him, and received him with some little
+embarrassment as he seated himself near her table. But, looking up at
+his face in the interchange of the first few common-places, she observed
+a change in it.
+
+“I [[Fear|fear]] you are not [[Well|well]], Mr. Carton!”
+
+“No. But the life I lead, Miss Manette, is not conducive to health. What
+is to be expected of, or by, such profligates?”
+
+“Is it not--forgive me; I have begun the question on my lips--a pity to
+live no better life?”
+
+“God knows it is a shame!”
+
+“Then why not change it?”
+
+Looking gently at him again, she was surprised and saddened to see that
+there were [[Tears|tears]] in his eyes. There were [[Tears|tears]] in his voice too, as he
+answered:
+
+“It is too late for that. I shall never be better than I am. I shall
+sink lower, and be worse.”
+
+He leaned an elbow on her table, and covered his eyes with his hand. The
+table trembled in the [[Silence|silence]] that followed.
+
+She had never seen him softened, and was much distressed. He knew her to
+be so, without looking at her, and said:
+
+“Pray forgive me, Miss Manette. I break down before the knowledge of
+what I want to say to you. Will you hear me?”
+
+“If it will do you any good, Mr. Carton, if it would make you happier,
+it would make me very glad!”
+
+“God bless you for your sweet compassion!”
+
+He unshaded his face after a little while, and spoke steadily.
+
+“Don’t be afraid to hear me. Don’t shrink from anything I say. I am like
+one who died young. All my life might have been.”
+
+“No, Mr. Carton. I am sure that the best part of it might still be; I am
+sure that you might be much, much worthier of yourself.”
+
+“Say of you, Miss Manette, and although I know better--although in the
+mystery of my own wretched heart I know better--I shall never forget
+it!”
+
+She was pale and trembling. He came to her relief with a fixed [[Despair|despair]]
+of himself which made the interview unlike any other that could have
+been holden.
+
+“If it had been possible, Miss Manette, that you could have returned the
+[[Love|love]] of the man you see before yourself--flung away, wasted, drunken,
+poor creature of misuse as you know him to be--he would have been
+conscious this day and hour, in spite of his happiness, that he would
+bring you to misery, bring you to sorrow and repentance, blight you,
+disgrace you, pull you down with him. I know very [[Well|well]] that you can have
+no tenderness for me; I ask for none; I am even thankful that it cannot
+be.”
+
+“Without it, can I not save you, Mr. Carton? Can I not recall
+you--forgive me again!--to a better course? Can I in no way repay your
+confidence? I know this is a confidence,” she modestly said, after a
+little hesitation, and in earnest [[Tears|tears]], “I know you would say this to
+no one else. Can I turn it to no good account for yourself, Mr. Carton?”
+
+He shook his head.
+
+“To none. No, Miss Manette, to none. If you will hear me through a very
+little more, all you can ever do for me is done. I wish you to know that
+you have been the last dream of my [[Soul|soul]]. In my degradation I have not
+been so degraded but that the sight of you with your father, and of this
+[[Home|home]] made such a [[Home|home]] by you, has stirred old shadows that I thought had
+died out of me. Since I knew you, I have been troubled by a remorse that
+I thought would never reproach me again, and have heard whispers from
+old voices impelling me upward, that I thought were silent for ever. I
+have had unformed ideas of striving afresh, beginning anew, shaking off
+sloth and sensuality, and fighting out the abandoned fight. [[A Dream|A dream]], all
+[[A Dream|a dream]], that ends in nothing, and [[Leaves|leaves]] [[The Sleeper|the sleeper]] where he lay down,
+but I wish you to know that you inspired it.”
+
+“Will nothing of it remain? O Mr. Carton, think again! Try again!”
+
+“No, Miss Manette; all through it, I have known myself to be quite
+undeserving. And yet I have had the weakness, and have still the
+weakness, to wish you to know with what a sudden mastery you kindled me,
+heap of ashes that I am, into [[Fire|fire]]--a [[Fire|fire]], however, inseparable in
+its [[Nature|nature]] from myself, quickening nothing, lighting nothing, doing no
+service, idly burning away.”
+
+“Since it is my misfortune, Mr. Carton, to have made you more unhappy
+than you were before you knew me--”
+
+“Don’t say that, Miss Manette, for you would have reclaimed me, if
+anything could. You will not be the cause of my becoming worse.”
+
+“Since the state of your mind that you describe, is, at all events,
+attributable to some influence of mine--this is what I mean, if I can
+make it plain--can I use no influence to serve you? Have I no power for
+good, with you, at all?”
+
+“The utmost good that I am capable of now, Miss Manette, I have come
+here to realise. Let me carry through the rest of my misdirected life,
+the remembrance that I opened my heart to you, last of all the world;
+and that there was something left in me at this [[Time|time]] which you could
+deplore and pity.”
+
+“Which I entreated you to believe, again and again, most fervently, with
+all my heart, was capable of better things, Mr. Carton!”
+
+“Entreat me to believe it no more, Miss Manette. I have proved myself,
+and I know better. I distress you; I draw fast to an end. Will you let
+me believe, when I recall this day, that the last confidence of my life
+was reposed in your pure and [[Innocent|innocent]] breast, and that it lies there
+[[Alone|alone]], and will be shared by no one?”
+
+“If that will be a consolation to you, yes.”
+
+“Not even by the dearest one ever to be known to you?”
+
+“Mr. Carton,” she answered, after an agitated pause, “the secret is
+yours, not mine; and I promise to respect it.”
+
+“Thank you. And again, God bless you.”
+
+He put her hand to his lips, and moved towards the door.
+
+“Be under no apprehension, Miss Manette, of my ever resuming this
+conversation by so much as a passing word. I will never refer to it
+again. If I were dead, that could not be surer than it is henceforth. In
+the hour of my [[Death|death]], I shall hold sacred the one good remembrance--and
+shall thank and bless you for it--that my last avowal of myself was made
+to you, and that my name, and faults, and miseries were gently carried
+in your heart. May it otherwise be light and happy!”
+
+He was so unlike what he had ever shown himself to be, and it was so
+sad to think how much he had thrown away, and how much he every day kept
+down and perverted, that [[Lucie Manette]] wept mournfully for him as he
+stood looking back at her.
+
+“Be comforted!” he said, “I am not worth such feeling, Miss Manette. An
+hour or two hence, and the low companions and low habits that I scorn
+but yield to, will render me less worth such [[Tears|tears]] as those, than any
+wretch who creeps along the streets. Be comforted! But, within myself, I
+shall always be, towards you, what I am now, though outwardly I shall be
+what you have heretofore seen me. The last supplication but one I make
+to you, is, that you will believe this of me.”
+
+“I will, Mr. Carton.”
+
+“My last supplication of all, is this; and with it, I will relieve
+you of a visitor with whom I [[Well|well]] know you have nothing in unison, and
+between whom and you there is an impassable space. It is useless to say
+it, I know, but it rises out of my [[Soul|soul]]. For you, and for any dear to
+you, I would do anything. If my career were of that better kind that
+there was any opportunity or capacity of sacrifice in it, I would
+embrace any sacrifice for you and for those dear to you. Try to hold
+me in your mind, at some quiet times, as ardent and sincere in this one
+thing. The [[Time|time]] will come, the [[Time|time]] will not be long in coming, when new
+ties will be formed about you--ties that will bind you yet more tenderly
+and strongly to the [[Home|home]] you so adorn--the dearest ties that will ever
+grace and gladden you. O Miss Manette, when the little picture of a
+happy father’s face looks up in yours, when you see your own bright
+[[Beauty|beauty]] springing up anew at your feet, think now and then that there is
+a man who would give his life, to keep a life you [[Love|love]] beside you!”
+
+He said, “Farewell!” said a last “God bless you!” and left her.
 
 
 
@@ -25197,6 +23939,220 @@ counting dropping heads.
 
 
 
+<span class="atom-split" data-atom="chapter_23" data-title="A Tale of Two Cities — Chapter 17" data-chapter="Chapter 23" data-kind="chapter"></span>
+
+
+CHAPTER XVII.
+One [[Night]]
+
+
+Never did the sun go down with a brighter glory on the quiet corner in
+Soho, than one memorable evening when the Doctor and his daughter sat
+under the plane-tree together. Never did the [[Moon|moon]] rise with a milder
+radiance over great [[London]], than on that [[Night|night]] when it found them still
+seated under the tree, and shone upon their faces through its [[Leaves|leaves]].
+
+Lucie was to be married to-morrow. She had reserved this last evening
+for her father, and they sat [[Alone|alone]] under the plane-tree.
+
+“You are happy, my dear father?”
+
+“Quite, my [[Child|child]].”
+
+They had said little, though they had been there a long [[Time|time]]. When it
+was yet light enough to work and read, she had neither engaged herself
+in her usual work, nor had she read to him. She had employed herself in
+both ways, at his side under the tree, many and many a [[Time|time]]; but, this
+[[Time|time]] was not quite like any other, and nothing could make it so.
+
+“And I am very happy to-[[Night|night]], dear father. I am deeply happy in the
+[[Love|love]] that Heaven has so blessed--my [[Love|love]] for Charles, and Charles’s [[Love|love]]
+for me. But, if my life were not to be still consecrated to you, or
+if my [[Marriage|marriage]] were so arranged as that it would part us, even by
+the length of a few of these streets, I should be more unhappy and
+[[Self|self]]-reproachful now than I can tell you. Even as it is--”
+
+Even as it was, she could not command her voice.
+
+In the sad moonlight, she clasped him by the neck, and laid her face
+upon his breast. In the moonlight which is always sad, as the light of
+the sun itself is--as the light called human life is--at its coming and
+its going.
+
+“Dearest dear! Can you tell me, this last [[Time|time]], that you feel quite,
+quite sure, no new affections of mine, and no new duties of mine, will
+ever interpose between us? _I_ know it [[Well|well]], but do you know it? In your
+own heart, do you feel quite certain?”
+
+Her father answered, with a cheerful firmness of conviction he could
+scarcely have assumed, “Quite sure, my darling! More than that,” he
+added, as he tenderly kissed her: “my future is far brighter, Lucie,
+seen through your [[Marriage|marriage]], than it could have been--nay, than it ever
+was--without it.”
+
+“If I could [[Hope|hope]] _that_, my father!--”
+
+“Believe it, [[Love|love]]! Indeed it is so. Consider how natural and how plain
+it is, my dear, that it should be so. You, devoted and young, cannot
+fully appreciate the anxiety I have felt that your life should not be
+wasted--”
+
+She moved her hand towards his lips, but he took it in his, and repeated
+the word.
+
+“--wasted, my [[Child|child]]--should not be wasted, struck aside from the
+[[Natural Order|natural order]] of things--for my sake. Your unselfishness cannot entirely
+comprehend how much my mind has gone on this; but, only ask yourself,
+how could my happiness be perfect, while yours was incomplete?”
+
+“If I had never seen Charles, my father, I should have been quite happy
+with you.”
+
+He smiled at her unconscious admission that she would have been unhappy
+without Charles, having seen him; and replied:
+
+“My [[Child|child]], you did see him, and it is Charles. If it had not been
+Charles, it would have been another. Or, if it had been no other, I
+should have been the cause, and then the dark part of my life would have
+cast its [[Shadow|shadow]] beyond myself, and would have fallen on you.”
+
+It was the first [[Time|time]], except at the trial, of her ever hearing him
+refer to the period of his [[Suffering|suffering]]. It gave her a strange and new
+sensation while his words were in her ears; and she remembered it long
+afterwards.
+
+“See!” said the Doctor of Beauvais, raising his hand towards the [[Moon|moon]].
+“I have looked at her from my [[Prison|prison]]-[[Window|window]], when I could not bear her
+light. I have looked at her when it has been such torture to me to think
+of her shining upon what I had lost, that I have beaten my head against
+my [[Prison|prison]]-walls. I have looked at her, in a state so dull and lethargic,
+that I have thought of nothing but the number of horizontal lines I
+could draw across her at the full, and the number of perpendicular lines
+with which I could intersect them.” He added in his inward and pondering
+manner, as he looked at the [[Moon|moon]], “It was twenty either way, I remember,
+and the twentieth was difficult to squeeze in.”
+
+The strange thrill with which she heard him go back to that [[Time|time]],
+deepened as he dwelt upon it; but, there was nothing to shock her in
+the manner of his reference. He only seemed to contrast his present
+cheerfulness and felicity with the dire [[Endurance|endurance]] that was over.
+
+“I have looked at her, speculating thousands of times upon the [[unborn]]
+[[Child|child]] from whom I had been rent. Whether it was alive. Whether it had
+been born alive, or the poor mother’s shock had killed it. Whether it
+was a son who would some day avenge his father. (There was a [[Time|time]] in my
+[[Imprisonment|imprisonment]], when my [[Desire|desire]] for vengeance was unbearable.) Whether it
+was a son who would never know his father’s story; who might even live
+to weigh the possibility of his father’s having disappeared of his own
+will and act. Whether it was a daughter who would grow to be a woman.”
+
+She drew closer to him, and kissed his cheek and his hand.
+
+“I have pictured my daughter, to myself, as perfectly forgetful of
+me--rather, altogether ignorant of me, and unconscious of me. I have
+cast up the years of her age, year after year. I have seen her married
+to a man who knew nothing of my fate. I have altogether perished from
+the remembrance of the living, and in the next generation my place was a
+blank.”
+
+“My father! Even to hear that you had such thoughts of a daughter who
+never existed, strikes to my heart as if I had been that [[Child|child]].”
+
+“You, Lucie? It is out of the Consolation and restoration you have
+brought to me, that these remembrances arise, and pass between us and
+the [[Moon|moon]] on this last [[Night|night]].--What did I say just now?”
+
+“She knew nothing of you. She cared nothing for you.”
+
+“So! But on other moonlight nights, when the sadness and the [[Silence|silence]]
+have touched me in a different way--have affected me with something as
+like a sorrowful sense of peace, as any emotion that had [[Pain|pain]] for its
+foundations could--I have imagined her as coming to me in my cell, and
+leading me out into the [[Freedom|freedom]] beyond the fortress. I have seen her
+image in the moonlight often, as I now see you; except that I never held
+her in my arms; it stood between the little grated [[Window|window]] and the door.
+But, you understand that that was not the [[Child|child]] I am speaking of?”
+
+“The figure was not; the--the--image; the fancy?”
+
+“No. That was another thing. It stood before my disturbed sense of
+sight, but it never moved. The [[Phantom|phantom]] that my mind pursued, was another
+and more real [[Child|child]]. Of her outward appearance I know no more than
+that she was like her mother. The other had that likeness too--as you
+have--but was not the same. Can you follow me, Lucie? Hardly, I think?
+I [[Doubt|doubt]] you must have been a solitary prisoner to understand these
+perplexed distinctions.”
+
+His collected and calm manner could not prevent her [[Blood|blood]] from running
+cold, as he thus tried to anatomise his old condition.
+
+“In that more peaceful state, I have imagined her, in the moonlight,
+coming to me and taking me out to show me that the [[Home|home]] of her married
+life was full of her loving remembrance of her lost father. My picture
+was in her room, and I was in her prayers. Her life was active,
+cheerful, useful; but my poor [[history]] pervaded it all.”
+
+“I was that [[Child|child]], my father, I was not half so good, but in my [[Love|love]]
+that was I.”
+
+“And she showed me her children,” said the Doctor of Beauvais, “and
+they had heard of me, and had been taught to pity me. When they passed
+a [[Prison|prison]] of the State, they kept far from its frowning walls, and looked
+up at its bars, and spoke in whispers. She could never deliver me; I
+imagined that she always brought me back after showing me such things.
+But then, blessed with the relief of [[Tears|tears]], I fell upon my knees, and
+blessed her.”
+
+“I am that [[Child|child]], I [[Hope|hope]], my father. O my dear, my dear, will you bless
+me as fervently to-morrow?”
+
+“Lucie, I recall these old troubles in the reason that I have to-[[Night|night]]
+for loving you better than words can tell, and thanking God for my great
+happiness. My thoughts, when they were wildest, never [[Rose|rose]] near the
+happiness that I have known with you, and that we have before us.”
+
+He embraced her, solemnly commended her to Heaven, and humbly thanked
+Heaven for having bestowed her on him. By-and-bye, they went into the
+[[house]].
+
+There was no one bidden to the [[Marriage|marriage]] but Mr. Lorry; there was even to
+be no bridesmaid but the gaunt [[Miss Pross]]. The [[Marriage|marriage]] was to make no
+change in their place of residence; they had been able to extend it,
+by taking to themselves the upper rooms formerly belonging to the
+apocryphal invisible lodger, and they desired nothing more.
+
+[[Doctor Manette]] was very cheerful at the little supper. They were only
+three at table, and [[Miss Pross]] made the third. He regretted that Charles
+was not there; was more than half disposed to object to the loving
+little plot that kept him away; and drank to him affectionately.
+
+So, the [[Time|time]] came for him to bid Lucie good [[Night|night]], and they separated.
+But, in the stillness of the third hour of the morning, Lucie came
+downstairs again, and stole into his room; not free from unshaped fears,
+beforehand.
+
+All things, however, were in their places; all was quiet; and he lay
+asleep, his white hair picturesque on the untroubled pillow, and his
+hands lying quiet on the coverlet. She put her needless candle in the
+[[Shadow|shadow]] at a distance, crept up to his bed, and put her lips to his;
+then, leaned over him, and looked at him.
+
+Into his handsome face, the bitter waters of captivity had worn; but, he
+covered up their tracks with a determination so strong, that he held the
+mastery of them even in his [[Sleep|sleep]]. A more remarkable face in its quiet,
+resolute, and guarded struggle with an unseen assailant, was not to be
+beheld in all the wide dominions of [[Sleep|sleep]], that [[Night|night]].
+
+She timidly laid her hand on his dear breast, and put up a [[prayer]] that
+she might ever be as true to him as her [[Love|love]] aspired to be, and as his
+sorrows deserved. Then, she withdrew her hand, and kissed his lips once
+more, and went away. So, the sunrise came, and the shadows of the [[Leaves|leaves]]
+of the plane-tree moved upon his face, as softly as her lips had moved
+in praying for him.
+
+
+
+
 <span class="atom-split" data-atom="chapter_24--part_01" data-title="A Tale of Two Cities — Chapter 18 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
 
 
@@ -25828,6 +24784,181 @@ crime.
 
 
 
+<span class="atom-split" data-atom="chapter_26" data-title="A Tale of Two Cities — Chapter 20" data-chapter="Chapter 26" data-kind="chapter"></span>
+
+
+CHAPTER XX.
+A Plea
+
+
+When the newly-married pair came [[Home|home]], the first person who appeared, to
+offer his congratulations, was [[Sydney Carton]]. They had not been at [[Home|home]]
+many hours, when he presented himself. He was not improved in habits, or
+in looks, or in manner; but there was a certain rugged air of fidelity
+about him, which was new to the observation of [[Charles Darnay]].
+
+He watched his opportunity of taking Darnay aside into a [[Window|window]], and of
+speaking to him when no one overheard.
+
+“Mr. Darnay,” said Carton, “I wish we might be friends.”
+
+“We are already friends, I [[Hope|hope]].”
+
+“You are good enough to say so, as a fashion of speech; but, I don’t
+mean any fashion of speech. Indeed, when I say I wish we might be
+friends, I scarcely mean quite that, either.”
+
+[[Charles Darnay]]--as was natural--asked him, in all good-[[Humour|humour]] and
+good-fellowship, what he did mean?
+
+“Upon my life,” said Carton, smiling, “I find that easier to comprehend
+in my own mind, than to convey to yours. However, let me try. You
+remember a certain famous occasion when I was more drunk than--than
+usual?”
+
+“I remember a certain famous occasion when you forced me to confess that
+you had been drinking.”
+
+“I remember it too. The curse of those occasions is heavy upon me, for I
+always remember them. I [[Hope|hope]] it may be taken into account one day,
+when all days are at an end for me! Don’t be alarmed; I am not going to
+preach.”
+
+“I am not at all alarmed. Earnestness in you, is anything but alarming
+to me.”
+
+“Ah!” said Carton, with a careless wave of his hand, as if he waved that
+away. “On the drunken occasion in question (one of a large number, as
+you know), I was insufferable about liking you, and not liking you. I
+wish you would forget it.”
+
+“I forgot it long ago.”
+
+“Fashion of speech again! But, Mr. Darnay, oblivion is not so easy to
+me, as you represent it to be to you. I have by no means forgotten it,
+and a light answer does not help me to forget it.”
+
+“If it was a light answer,” returned Darnay, “I beg your [[Forgiveness|forgiveness]]
+for it. I had no other object than to turn a slight thing, which, to my
+surprise, seems to trouble you too much, aside. I declare to you, on the
+[[Faith|faith]] of a gentleman, that I have long dismissed it from my mind. Good
+Heaven, what was there to dismiss! Have I had nothing more important to
+remember, in the great service you rendered me that day?”
+
+“As to the great service,” said Carton, “I am bound to avow to you, when
+you speak of it in that way, that it was mere professional claptrap, I
+don’t know that I cared what became of you, when I rendered it.--Mind! I
+say when I rendered it; I am speaking of the past.”
+
+“You make light of the obligation,” returned Darnay, “but I will not
+quarrel with _your_ light answer.”
+
+“Genuine [[Truth|truth]], Mr. Darnay, trust me! I have gone aside from my purpose;
+I was speaking about our being friends. Now, you know me; you know I am
+incapable of all the higher and better flights of men. If you [[Doubt|doubt]] it,
+ask Stryver, and he’ll tell you so.”
+
+“I prefer to form my own opinion, without the aid of his.”
+
+“[[Well]]! At any rate you know me as a dissolute dog, who has never done
+any good, and never will.”
+
+“I don’t know that you ‘never will.’”
+
+“But I do, and you must take my word for it. [[Well]]! If you could endure
+to have such a worthless fellow, and a fellow of such indifferent
+reputation, coming and going at odd times, I should ask that I might be
+permitted to come and go as a privileged person here; that I might
+be regarded as an useless (and I would add, if it were not for the
+resemblance I detected between you and me, an unornamental) piece of
+furniture, tolerated for its old service, and taken no notice of. I
+[[Doubt|doubt]] if I should abuse the permission. It is a hundred to one if I
+should avail myself of it four times in a year. It would satisfy me, I
+dare say, to know that I had it.”
+
+“Will you try?”
+
+“That is another way of saying that I am placed on the footing I have
+indicated. I thank you, Darnay. I may use that [[Freedom|freedom]] with your name?”
+
+“I think so, Carton, by this [[Time|time]].”
+
+They shook hands upon it, and Sydney turned away. Within a minute
+afterwards, he was, to all outward appearance, as unsubstantial as ever.
+
+When he was gone, and in the course of an evening passed with Miss
+Pross, the Doctor, and Mr. Lorry, [[Charles Darnay]] made some mention of
+this conversation in general terms, and spoke of [[Sydney Carton]] as a
+problem of carelessness and recklessness. He spoke of him, in short, not
+bitterly or meaning to bear hard upon him, but as anybody might who saw
+him as he showed himself.
+
+He had no idea that this could dwell in the thoughts of his fair young
+wife; but, when he afterwards joined her in their own rooms, he found
+her waiting for him with the old pretty lifting of the forehead strongly
+marked.
+
+“We are thoughtful to-[[Night|night]]!” said Darnay, drawing his arm about her.
+
+“Yes, dearest Charles,” with her hands on his breast, and the inquiring
+and attentive expression fixed upon him; “we are rather thoughtful
+to-[[Night|night]], for we have something on our mind to-[[Night|night]].”
+
+“What is it, my Lucie?”
+
+“Will you promise not to press one question on me, if I beg you not to
+ask it?”
+
+“Will I promise? What will I not promise to my [[Love]]?”
+
+What, indeed, with his hand putting aside the golden hair from the
+cheek, and his other hand against the heart that beat for him!
+
+“I think, Charles, poor Mr. Carton deserves more consideration and
+respect than you expressed for him to-[[Night|night]].”
+
+“Indeed, my own? Why so?”
+
+“That is what you are not to ask me. But I think--I know--he does.”
+
+“If you know it, it is enough. What would you have me do, my Life?”
+
+“I would ask you, dearest, to be very generous with him always, and very
+lenient on his faults when he is not by. I would ask you to believe that
+he has a heart he very, very seldom reveals, and that there are deep
+wounds in it. My dear, I have seen it bleeding.”
+
+“It is a painful reflection to me,” said [[Charles Darnay]], quite
+astounded, “that I should have done him any wrong. I never thought this
+of him.”
+
+“My husband, it is so. I [[Fear|fear]] he is not to be reclaimed; there is
+scarcely a [[Hope|hope]] that anything in his character or fortunes is reparable
+now. But, I am sure that he is capable of good things, gentle things,
+even magnanimous things.”
+
+She looked so beautiful in the purity of her [[Faith|faith]] in this lost man,
+that her husband could have looked at her as she was for hours.
+
+“And, O my dearest [[Love]]!” she urged, clinging nearer to him, laying her
+head upon his breast, and raising her eyes to his, “remember how strong
+we are in our happiness, and how weak he is in his misery!”
+
+The supplication touched him [[Home|home]]. “I will always remember it, dear
+Heart! I will remember it as long as I live.”
+
+He bent over the golden head, and put the rosy lips to his, and folded
+her in his arms. If one forlorn wanderer then pacing the dark streets,
+could have heard her [[Innocent|innocent]] disclosure, and could have seen the drops
+of pity kissed away by her husband from the soft blue eyes so loving of
+that husband, he might have cried to the [[Night|night]]--and the words would not
+have parted from his lips for the first [[Time|time]]--
+
+“God bless her for her sweet compassion!”
+
+
+
+
 <span class="atom-split" data-atom="chapter_27--part_01" data-title="A Tale of Two Cities — Chapter 21 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
 
 
@@ -26316,6 +25447,227 @@ and keep these feet far out of her life! For, they are headlong, mad,
 and dangerous; and in the years so long after the breaking of the cask
 at Defarge’s wine-shop door, they are not easily purified when once
 stained red.
+
+
+
+
+<span class="atom-split" data-atom="chapter_28" data-title="A Tale of Two Cities — Chapter 22" data-chapter="Chapter 28" data-kind="chapter"></span>
+
+
+CHAPTER XXII.
+The Sea Still Rises
+
+
+Haggard Saint Antoine had had only one exultant week, in which to soften
+his modicum of hard and bitter bread to such extent as he could, with
+the relish of fraternal embraces and congratulations, when Madame
+Defarge sat at her counter, as usual, presiding over the customers.
+[[Madame Defarge]] wore no [[Rose|rose]] in her head, for the great brotherhood of
+Spies had become, even in one short week, extremely chary of trusting
+themselves to the saint’s mercies. The lamps across his streets had a
+portentously elastic swing with them.
+
+[[Madame Defarge]], with her arms folded, sat in the morning light and heat,
+contemplating the wine-shop and the street. In both, there were several
+knots of loungers, squalid and miserable, but now with a manifest sense
+of power enthroned on their distress. The raggedest nightcap, awry on
+the wretchedest head, had this crooked significance in it: “I know how
+hard it has grown for me, the wearer of this, to support life in myself;
+but do you know how easy it has grown for me, the wearer of this, to
+destroy life in you?” Every lean bare arm, that had been without work
+before, had this work always ready for it now, that it could strike.
+The fingers of the knitting women were vicious, with the experience that
+they could tear. There was a change in the appearance of Saint Antoine;
+the image had been hammering into this for hundreds of years, and the
+last finishing blows had told mightily on the expression.
+
+[[Madame Defarge]] sat observing it, with such suppressed approval as was
+to be desired in the leader of the Saint Antoine women. One of her
+sisterhood knitted beside her. The short, rather plump wife of a starved
+[[grocer]], and the mother of two children withal, this lieutenant had
+already earned the complimentary name of The Vengeance.
+
+“Hark!” said The Vengeance. “Listen, then! Who comes?”
+
+As if a train of powder laid from the outermost bound of Saint Antoine
+Quarter to the wine-shop door, had been suddenly fired, a fast-spreading
+murmur came rushing along.
+
+“It is Defarge,” said madame. “[[Silence]], patriots!”
+
+Defarge came in breathless, pulled off a red cap he wore, and looked
+around him! “Listen, everywhere!” said madame again. “Listen to him!”
+Defarge stood, panting, against a background of eager eyes and open
+mouths, formed outside the door; all those within the wine-shop had
+sprung to their feet.
+
+“Say then, my husband. What is it?”
+
+“News from the other world!”
+
+“How, then?” cried madame, contemptuously. “The other world?”
+
+“Does everybody here recall old Foulon, who told the famished people
+that they might eat grass, and who died, and went to Hell?”
+
+“Everybody!” from all throats.
+
+“The news is of him. He is among us!”
+
+“Among us!” from the universal throat again. “And dead?”
+
+“Not dead! He feared us so much--and with reason--that he caused himself
+to be represented as dead, and had a grand mock-funeral. But they have
+found him alive, hiding in the country, and have brought him in. I have
+seen him but now, on his way to the Hotel de Ville, a prisoner. I have
+said that he had reason to [[Fear|fear]] us. Say all! _Had_ he reason?”
+
+Wretched old sinner of more than threescore years and ten, if he had
+never known it yet, he would have known it in his heart of hearts if he
+could have heard the answering cry.
+
+A moment of profound [[Silence|silence]] followed. Defarge and his wife looked
+steadfastly at one another. The Vengeance stooped, and the jar of a drum
+was heard as she moved it at her feet behind the counter.
+
+“Patriots!” said Defarge, in a determined voice, “are we ready?”
+
+Instantly [[Madame Defarge]]’s knife was in her girdle; the drum was beating
+in the streets, as if it and a drummer had flown together by [[Magic|magic]]; and
+The Vengeance, uttering terrific shrieks, and flinging her arms about
+her head like all the forty Furies at once, was tearing from [[house]] to
+[[house]], rousing the women.
+
+The men were terrible, in the bloody-minded anger with which they looked
+from windows, caught up what arms they had, and came pouring down into
+the streets; but, the women were a sight to chill the boldest. From
+such household occupations as their bare [[Poverty|poverty]] yielded, from their
+children, from their aged and their sick crouching on the bare ground
+famished and naked, they ran out with streaming hair, urging one
+another, and themselves, to [[Madness|madness]] with the wildest cries and actions.
+[[Villain]] Foulon taken, my sister! Old Foulon taken, my mother! Miscreant
+Foulon taken, my daughter! Then, a score of others ran into the midst of
+these, beating their breasts, tearing their hair, and screaming, Foulon
+alive! Foulon who told the starving people they might eat grass! Foulon
+who told my old father that he might eat grass, when I had no bread
+to give him! Foulon who told my baby it might suck grass, when these
+breasts were dry with want! O mother of God, this Foulon! O Heaven our
+[[Suffering|suffering]]! Hear me, my dead baby and my withered father: I swear on my
+knees, on these stones, to avenge you on Foulon! Husbands, and brothers,
+and young men, Give us the [[Blood|blood]] of Foulon, Give us the head of Foulon,
+Give us the heart of Foulon, Give us the [[Body|body]] and [[Soul|soul]] of Foulon, Rend
+Foulon to pieces, and dig him into the ground, that grass may grow from
+him! With these cries, numbers of the women, lashed into blind frenzy,
+whirled about, striking and tearing at their own friends until they
+dropped into a passionate swoon, and were only saved by the men
+belonging to them from being trampled under foot.
+
+Nevertheless, not a moment was lost; not a moment! This Foulon was at
+the Hotel de Ville, and might be loosed. Never, if Saint Antoine knew
+his own sufferings, insults, and wrongs! Armed men and women flocked out
+of the Quarter so fast, and drew even these last dregs after them with
+such a force of suction, that within a quarter of an hour there was not
+a human creature in Saint Antoine’s bosom but a few old crones and the
+wailing children.
+
+No. They were all by that [[Time|time]] choking the Hall of Examination where
+this old man, ugly and wicked, was, and overflowing into the adjacent
+open space and streets. The Defarges, husband and wife, The Vengeance,
+and Jacques Three, were in the first press, and at no great distance
+from him in the Hall.
+
+“See!” cried madame, pointing with her knife. “See the old [[Villain|villain]] bound
+with ropes. That was [[Well|well]] done to tie a bunch of grass upon his back.
+Ha, ha! That was [[Well|well]] done. Let him eat it now!” Madame put her knife
+under her arm, and clapped her hands as at a play.
+
+The people immediately behind [[Madame Defarge]], explaining the cause of
+her satisfaction to those behind them, and those again explaining to
+others, and those to others, the neighbouring streets resounded with the
+clapping of hands. Similarly, during two or three hours of drawl,
+and the winnowing of many bushels of words, [[Madame Defarge]]’s frequent
+expressions of impatience were taken up, with marvellous quickness, at
+a distance: the more readily, because certain men who had by some
+wonderful exercise of agility climbed up the external architecture
+to look in from the windows, knew [[Madame Defarge]] [[Well|well]], and acted as a
+telegraph between her and the crowd outside the building.
+
+At length the sun [[Rose|rose]] so high that it struck a kindly ray as of [[Hope|hope]] or
+protection, directly down upon the old prisoner’s head. The favour was
+too much to bear; in an instant the barrier of [[Dust|dust]] and chaff that had
+stood surprisingly long, went to the winds, and Saint Antoine had got
+him!
+
+It was known directly, to the furthest confines of the crowd. Defarge
+had but sprung over a railing and a table, and folded the miserable
+wretch in a deadly embrace--[[Madame Defarge]] had but followed and turned
+her hand in one of the ropes with which he was tied--The Vengeance and
+Jacques Three were not yet up with them, and the men at the windows
+had not yet swooped into the Hall, like [[Birds|birds]] of prey from their high
+perches--when the cry seemed to go up, all over the [[City|city]], “Bring him
+out! Bring him to the lamp!”
+
+Down, and up, and head foremost on the steps of the building; now, on
+his knees; now, on his feet; now, on his back; dragged, and struck at,
+and stifled by the bunches of grass and straw that were thrust into his
+face by hundreds of hands; torn, bruised, panting, bleeding, yet always
+entreating and beseeching for [[Mercy|mercy]]; now full of vehement agony of
+action, with a small clear space about him as the people drew one
+another back that they might see; now, a log of dead wood drawn through
+a forest of legs; he was hauled to the nearest street corner where one
+of the fatal lamps swung, and there [[Madame Defarge]] let him go--as a cat
+might have done to a mouse--and silently and composedly looked at him
+while they made ready, and while he besought her: the women passionately
+screeching at him all the [[Time|time]], and the men sternly calling out to have
+him killed with grass in his mouth. Once, he went aloft, and the rope
+broke, and they caught him shrieking; twice, he went aloft, and the rope
+broke, and they caught him shrieking; then, the rope was merciful, and
+held him, and his head was soon upon a pike, with grass enough in the
+mouth for all Saint Antoine to [[Dance|dance]] at the sight of.
+
+Nor was this the end of the day’s bad work, for Saint Antoine so shouted
+and danced his angry [[Blood|blood]] up, that it boiled again, on hearing when
+the day closed in that the son-in-law of the despatched, another of the
+people’s enemies and insulters, was coming into [[Paris]] under a guard
+five hundred strong, in cavalry [[Alone|alone]]. Saint Antoine wrote his crimes
+on flaring sheets of paper, seized him--would have torn him out of the
+breast of an army to bear Foulon company--set his head and heart on
+pikes, and carried the three spoils of the day, in Wolf-procession
+through the streets.
+
+Not before dark [[Night|night]] did the men and women come back to the children,
+wailing and breadless. Then, the miserable bakers’ shops were beset by
+long files of them, patiently waiting to buy bad bread; and while
+they waited with stomachs faint and empty, they beguiled the [[Time|time]] by
+embracing one another on the triumphs of the day, and achieving them
+again in gossip. Gradually, these strings of ragged people shortened and
+frayed away; and then poor lights began to shine in high windows, and
+slender fires were made in the streets, at which neighbours cooked in
+common, afterwards supping at their doors.
+
+Scanty and insufficient suppers those, and [[Innocent|innocent]] of meat, as of
+most other sauce to wretched bread. Yet, human fellowship infused
+some nourishment into the flinty viands, and struck some sparks of
+cheerfulness out of them. Fathers and mothers who had had their full
+share in the worst of the day, played gently with their meagre children;
+and [[lovers]], with such a world around them and before them, loved and
+hoped.
+
+It was almost morning, when Defarge’s wine-shop parted with its last
+knot of customers, and Monsieur Defarge said to madame his wife, in
+husky tones, while fastening the door:
+
+“At last it is come, my dear!”
+
+“Eh [[Well|well]]!” returned madame. “Almost.”
+
+Saint Antoine slept, the Defarges slept: even The Vengeance slept with
+her starved [[grocer]], and the drum was at rest. The drum’s was the
+only voice in Saint Antoine that [[Blood|blood]] and hurry had not changed. The
+Vengeance, as custodian of the drum, could have wakened him up and had
+the same speech out of him as before the Bastille fell, or old Foulon
+was seized; not so with the hoarse tones of the men and women in Saint
+Antoine’s bosom.
 
 
 
@@ -27934,6 +27286,233 @@ never given, and would never take away.
 
 
 
+<span class="atom-split" data-atom="chapter_33" data-title="A Tale of Two Cities — Chapter 3" data-chapter="Chapter 33" data-kind="chapter"></span>
+
+
+CHAPTER III.
+The [[Shadow]]
+
+
+One of the first considerations which arose in the business mind of Mr.
+Lorry when business hours came round, was this:--that he had no right to
+imperil Tellson’s by sheltering the wife of an emigrant prisoner under
+the Bank roof. His own possessions, safety, life, he would have hazarded
+for Lucie and her [[Child|child]], without a moment’s demur; but the great trust
+he held was not his own, and as to that business charge he was a strict
+man of business.
+
+At first, his mind reverted to Defarge, and he thought of finding out
+the wine-shop again and taking counsel with its master in reference to
+the safest dwelling-place in the distracted state of the [[City|city]]. But, the
+same consideration that suggested him, repudiated him; he lived in the
+most violent Quarter, and doubtless was influential there, and deep in
+its dangerous workings.
+
+[[Noon]] coming, and the Doctor not returning, and every minute’s delay
+tending to compromise Tellson’s, Mr. Lorry advised with Lucie. She said
+that her father had spoken of hiring a lodging for a short term, in that
+Quarter, near the Banking-[[house]]. As there was no business objection to
+this, and as he foresaw that even if it were all [[Well|well]] with Charles, and
+he were to be released, he could not [[Hope|hope]] to leave the [[City|city]], Mr. Lorry
+went out in [[Quest|quest]] of such a lodging, and found a suitable one, high up
+in a removed by-street where the closed blinds in all the other windows
+of a high [[Melancholy|melancholy]] square of buildings marked deserted homes.
+
+To this lodging he at once removed Lucie and her [[Child|child]], and [[Miss Pross]]:
+giving them what comfort he could, and much more than he had himself.
+He left Jerry with them, as a figure to fill a doorway that would bear
+considerable knocking on the head, and returned to his own occupations.
+A disturbed and doleful mind he brought to bear upon them, and slowly
+and heavily the day lagged on with him.
+
+It wore itself out, and wore him out with it, until the Bank closed. He
+was again [[Alone|alone]] in his room of the previous [[Night|night]], considering what to
+do next, when he heard a foot upon the stair. In a few moments, a
+man stood in his presence, who, with a keenly observant look at him,
+addressed him by his name.
+
+“Your servant,” said Mr. Lorry. “Do you know me?”
+
+He was a strongly made man with dark curling hair, from forty-five
+to fifty years of age. For answer he repeated, without any change of
+emphasis, the words:
+
+“Do you know me?”
+
+“I have seen you somewhere.”
+
+“Perhaps at my wine-shop?”
+
+Much interested and agitated, Mr. Lorry said: “You come from Doctor
+Manette?”
+
+“Yes. I come from [[Doctor Manette]].”
+
+“And what says he? What does he send me?”
+
+Defarge gave into his anxious hand, an open scrap of paper. It bore the
+words in the Doctor’s writing:
+
+“Charles is safe, but I cannot safely leave this place yet.
+I have obtained the favour that the bearer has a short note
+from Charles to his wife.  Let the bearer see his wife.”
+
+It was dated from La Force, within an hour.
+
+“Will you accompany me,” said Mr. Lorry, joyfully relieved after reading
+this note aloud, “to where his wife resides?”
+
+“Yes,” returned Defarge.
+
+Scarcely noticing as yet, in what a curiously reserved and mechanical
+way Defarge spoke, Mr. Lorry put on his hat and they went down into the
+courtyard. There, they found two women; one, knitting.
+
+“[[Madame Defarge]], surely!” said Mr. Lorry, who had left her in exactly
+the same attitude some seventeen years ago.
+
+“It is she,” observed her husband.
+
+“Does Madame go with us?” inquired Mr. Lorry, seeing that she moved as
+they moved.
+
+“Yes. That she may be able to recognise the faces and know the persons.
+It is for their safety.”
+
+Beginning to be struck by Defarge’s manner, Mr. Lorry looked dubiously
+at him, and led the way. Both the women followed; the second woman being
+The Vengeance.
+
+They passed through the intervening streets as quickly as they might,
+ascended the staircase of the new domicile, were admitted by Jerry,
+and found Lucie weeping, [[Alone|alone]]. She was thrown into a transport by the
+tidings Mr. Lorry gave her of her husband, and clasped the hand that
+delivered his note--little thinking what it had been doing near him in
+the [[Night|night]], and might, but for a chance, have done to him.
+
+“DEAREST,--Take [[Courage|courage]].  I am [[Well|well]], and your father has
+influence around me.  You cannot answer this.
+Kiss our [[Child|child]] for me.”
+
+That was all the writing. It was so much, however, to her who received
+it, that she turned from Defarge to his wife, and kissed one of the
+hands that knitted. It was a passionate, loving, thankful, womanly
+action, but the hand made no response--dropped cold and heavy, and took
+to its knitting again.
+
+There was something in its touch that gave Lucie a check. She stopped in
+the act of putting the note in her bosom, and, with her hands yet at her
+neck, looked terrified at [[Madame Defarge]]. [[Madame Defarge]] met the lifted
+eyebrows and forehead with a cold, impassive stare.
+
+“My dear,” said Mr. Lorry, striking in to explain; “there are frequent
+risings in the streets; and, although it is not likely they will ever
+trouble you, [[Madame Defarge]] wishes to see those whom she has the power
+to protect at such times, to the end that she may know them--that she
+may identify them. I believe,” said Mr. Lorry, rather halting in his
+reassuring words, as the stony manner of all the three impressed itself
+upon him more and more, “I state the case, Citizen Defarge?”
+
+Defarge looked gloomily at his wife, and gave no other answer than a
+gruff sound of acquiescence.
+
+“You had better, Lucie,” said Mr. Lorry, doing all he could to
+propitiate, by tone and manner, “have the dear [[Child|child]] here, and our
+good Pross. Our good Pross, Defarge, is an English lady, and knows no
+French.”
+
+The lady in question, whose rooted conviction that she was more than a
+match for any foreigner, was not to be shaken by distress and, danger,
+appeared with folded arms, and observed in English to The Vengeance,
+whom her eyes first encountered, “[[Well]], I am sure, Boldface! I [[Hope|hope]]
+_you_ are pretty [[Well|well]]!” She also bestowed a British cough on Madame
+Defarge; but, neither of the two took much heed of her.
+
+“Is that his [[Child|child]]?” said [[Madame Defarge]], stopping in her work for the
+first [[Time|time]], and pointing her knitting-needle at little Lucie as if it
+were the finger of Fate.
+
+“Yes, madame,” answered Mr. Lorry; “this is our poor prisoner’s darling
+daughter, and only [[Child|child]].”
+
+The [[Shadow|shadow]] attendant on [[Madame Defarge]] and her party seemed to fall so
+threatening and dark on the [[Child|child]], that her mother instinctively
+kneeled on the ground beside her, and held her to her breast. The
+[[Shadow|shadow]] attendant on [[Madame Defarge]] and her party seemed then to fall,
+threatening and dark, on both the mother and the [[Child|child]].
+
+“It is enough, my husband,” said [[Madame Defarge]]. “I have seen them. We
+may go.”
+
+But, the suppressed manner had enough of menace in it--not visible and
+presented, but indistinct and withheld--to alarm Lucie into saying, as
+she laid her appealing hand on [[Madame Defarge]]’s dress:
+
+“You will be good to my poor husband. You will do him no harm. You will
+help me to see him if you can?”
+
+“Your husband is not my business here,” returned [[Madame Defarge]], looking
+down at her with perfect composure. “It is the daughter of your father
+who is my business here.”
+
+“For my sake, then, be merciful to my husband. For my [[Child|child]]’s sake! She
+will put her hands together and pray you to be merciful. We are more
+afraid of you than of these others.”
+
+[[Madame Defarge]] received it as a compliment, and looked at her husband.
+Defarge, who had been uneasily biting his thumb-nail and looking at her,
+collected his face into a sterner expression.
+
+“What is it that your husband says in that little letter?” asked Madame
+Defarge, with a lowering smile. “Influence; he says something touching
+influence?”
+
+“That my father,” said Lucie, hurriedly taking the paper from her
+breast, but with her alarmed eyes on her questioner and not on it, “has
+much influence around him.”
+
+“Surely it will release him!” said [[Madame Defarge]]. “Let it do so.”
+
+“As a wife and mother,” cried Lucie, most earnestly, “I implore you to
+have pity on me and not to exercise any power that you possess, against
+my [[Innocent|innocent]] husband, but to use it in his behalf. O sister-woman, think
+of me. As a wife and mother!”
+
+[[Madame Defarge]] looked, coldly as ever, at the suppliant, and said,
+turning to her friend The Vengeance:
+
+“The wives and mothers we have been used to see, since we were as little
+as this [[Child|child]], and much less, have not been greatly considered? We have
+known _their_ husbands and fathers laid in [[Prison|prison]] and kept from them,
+often enough? All our lives, we have seen our sister-women suffer, in
+themselves and in their children, [[Poverty|poverty]], [[Nakedness|nakedness]], hunger, thirst,
+sickness, misery, oppression and neglect of all kinds?”
+
+“We have seen nothing else,” returned The Vengeance.
+
+“We have borne this a long [[Time|time]],” said [[Madame Defarge]], turning her eyes
+again upon Lucie. “Judge you! Is it likely that the trouble of one wife
+and mother would be much to us now?”
+
+She resumed her knitting and went out. The Vengeance followed. Defarge
+went last, and closed the door.
+
+“[[Courage]], my dear Lucie,” said Mr. Lorry, as he raised her. “[[Courage]],
+[[Courage|courage]]! So far all goes [[Well|well]] with us--much, much better than it has of
+late gone with many poor souls. Cheer up, and have a thankful heart.”
+
+“I am not thankless, I [[Hope|hope]], but that dreadful woman seems to throw a
+[[Shadow|shadow]] on me and on all my hopes.”
+
+“Tut, tut!” said Mr. Lorry; “what is this despondency in the brave
+little breast? A [[Shadow|shadow]] indeed! No substance in it, Lucie.”
+
+But the [[Shadow|shadow]] of the manner of these Defarges was dark upon himself,
+for all that, and in his secret mind it troubled him greatly.
+
+
+
+
 <span class="atom-split" data-atom="chapter_34--part_01" data-title="A Tale of Two Cities — Chapter 4 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
 
 
@@ -28692,6 +28271,244 @@ head on her own breast, long, long ago. He was happy in the return he
 had made her, he was recompensed for his [[Suffering|suffering]], he was proud of his
 strength. “You must not be weak, my darling,” he remonstrated; “don’t
 tremble so. I have saved him.”
+
+
+
+
+<span class="atom-split" data-atom="chapter_37" data-title="A Tale of Two Cities — Chapter 7" data-chapter="Chapter 37" data-kind="chapter"></span>
+
+
+CHAPTER VII.
+A Knock at the Door
+
+
+“I have saved him.” It was not another of the [[Dreams|dreams]] in which he had
+often come back; he was really here. And yet his wife trembled, and a
+vague but heavy [[Fear|fear]] was upon her.
+
+All the air round was so thick and dark, the people were so passionately
+revengeful and fitful, the [[Innocent|innocent]] were so constantly put to [[Death|death]] on
+vague suspicion and black malice, it was so impossible to forget that
+many as blameless as her husband and as dear to others as he was to
+her, every day shared the fate from which he had been clutched, that her
+heart could not be as lightened of its load as she felt it ought to be.
+The shadows of the wintry afternoon were beginning to fall, and even now
+the dreadful carts were [[rolling]] through the streets. Her mind pursued
+them, looking for him among the Condemned; and then she clung closer to
+his real presence and trembled more.
+
+Her father, cheering her, showed a compassionate superiority to this
+woman’s weakness, which was wonderful to see. No garret, no shoemaking,
+no One Hundred and Five, North Tower, now! He had accomplished the task
+he had set himself, his promise was redeemed, he had saved Charles. Let
+them all lean upon him.
+
+Their housekeeping was of a very frugal kind: not only because that was
+the safest way of life, involving the least offence to the people, but
+because they were not rich, and Charles, throughout his [[Imprisonment|imprisonment]],
+had had to pay heavily for his bad food, and for his guard, and towards
+the living of the poorer prisoners. Partly on this account, and
+partly to avoid a domestic spy, they kept no servant; the citizen and
+citizeness who acted as porters at the courtyard gate, rendered them
+occasional service; and Jerry (almost wholly transferred to them by
+Mr. Lorry) had become their daily retainer, and had his bed there every
+[[Night|night]].
+
+It was an ordinance of the Republic One and Indivisible of Liberty,
+Equality, Fraternity, or [[Death]], that on the door or doorpost of every
+[[house]], the name of every inmate must be legibly inscribed in letters
+of a certain size, at a certain convenient height from the ground. Mr.
+[[Jerry Cruncher]]’s name, therefore, duly embellished the doorpost down
+below; and, as the afternoon shadows deepened, the owner of that name
+himself appeared, from overlooking a painter whom [[Doctor Manette]] had
+employed to add to the list the name of Charles Evrémonde, called
+Darnay.
+
+In the universal [[Fear|fear]] and distrust that darkened the [[Time|time]], all the usual
+harmless ways of life were changed. In the Doctor’s little household, as
+in very many others, the articles of daily consumption that were wanted
+were purchased every evening, in small quantities and at various small
+shops. To avoid attracting notice, and to give as little occasion as
+possible for talk and envy, was the general [[Desire|desire]].
+
+For some months past, [[Miss Pross]] and Mr. Cruncher had discharged the
+office of purveyors; the former carrying the money; the latter, the
+basket. Every afternoon at about the [[Time|time]] when the public lamps were
+lighted, they fared forth on this duty, and made and brought [[Home|home]]
+such purchases as were needful. Although [[Miss Pross]], through her long
+association with a French family, might have known as much of their
+language as of her own, if she had had a mind, she had no mind in that
+direction; consequently she knew no more of that “nonsense” (as she was
+pleased to call it) than Mr. Cruncher did. So her manner of marketing
+was to plump a noun-substantive at the head of a shopkeeper without any
+introduction in the [[Nature|nature]] of an article, and, if it happened not to be
+the name of the thing she wanted, to look round for that thing, lay hold
+of it, and hold on by it until the bargain was concluded. She always
+made a bargain for it, by holding up, as a statement of its just price,
+one finger less than the merchant held up, whatever his number might be.
+
+“Now, Mr. Cruncher,” said [[Miss Pross]], whose eyes were red with felicity;
+“if you are ready, I am.”
+
+Jerry hoarsely professed himself at [[Miss Pross]]’s service. He had worn
+all his rust off long ago, but nothing would file his spiky head down.
+
+“There’s all manner of things wanted,” said [[Miss Pross]], “and we shall
+have a precious [[Time|time]] of it. We want wine, among the rest. Nice toasts
+these Redheads will be drinking, wherever we buy it.”
+
+“It will be much the same to your knowledge, miss, I should think,”
+retorted Jerry, “whether they drink your health or the Old Un’s.”
+
+“Who’s he?” said [[Miss Pross]].
+
+Mr. Cruncher, with some diffidence, explained himself as meaning “Old
+Nick’s.”
+
+“Ha!” said [[Miss Pross]], “it doesn’t need an interpreter to explain the
+meaning of these creatures. They have but one, and it’s Midnight Murder,
+and Mischief.”
+
+“Hush, dear! Pray, pray, be cautious!” cried Lucie.
+
+“Yes, yes, yes, I’ll be cautious,” said [[Miss Pross]]; “but I may say
+among ourselves, that I do [[Hope|hope]] there will be no oniony and tobaccoey
+smotherings in the form of embracings all round, going on in the
+streets. Now, Ladybird, never you stir from that [[Fire|fire]] till I come back!
+Take care of the dear husband you have recovered, and don’t move your
+pretty head from his shoulder as you have it now, till you see me again!
+May I ask a question, [[Doctor Manette]], before I go?”
+
+“I think you may take that liberty,” the Doctor answered, smiling.
+
+“For gracious sake, don’t talk about Liberty; we have quite enough of
+that,” said [[Miss Pross]].
+
+“Hush, dear! Again?” Lucie remonstrated.
+
+“[[Well]], my sweet,” said [[Miss Pross]], nodding her head emphatically, “the
+short and the long of it is, that I am a subject of His Most Gracious
+Majesty [[King]] George the Third;” [[Miss Pross]] curtseyed at the name; “and
+as such, my maxim is, Confound their politics, Frustrate their knavish
+tricks, On him our hopes we fix, God save the [[King]]!”
+
+Mr. Cruncher, in an access of loyalty, growlingly repeated the words
+after [[Miss Pross]], like somebody at church.
+
+“I am glad you have so much of the Englishman in you, though I wish you
+had never taken that cold in your voice,” said [[Miss Pross]], approvingly.
+“But the question, [[Doctor Manette]]. Is there”--it was the good creature’s
+way to affect to make light of anything that was a great anxiety
+with them all, and to come at it in this chance manner--“is there any
+prospect yet, of our getting out of this place?”
+
+“I [[Fear|fear]] not yet. It would be dangerous for Charles yet.”
+
+“Heigh-ho-hum!” said [[Miss Pross]], cheerfully repressing a sigh as she
+glanced at her darling’s golden hair in the light of the [[Fire|fire]], “then we
+must have patience and wait: that’s all. We must hold up our heads and
+fight low, as my brother Solomon used to say. Now, Mr. Cruncher!--Don’t
+you move, Ladybird!”
+
+They went out, leaving Lucie, and her husband, her father, and the
+[[Child|child]], by a bright [[Fire|fire]]. Mr. Lorry was expected back presently from the
+Banking [[house|House]]. [[Miss Pross]] had lighted the lamp, but had put it aside in
+a corner, that they might enjoy the [[Fire|fire]]-light undisturbed. Little Lucie
+sat by her grandfather with her hands clasped through his arm: and he,
+in a tone not rising much above a whisper, began to tell her a story of
+a great and powerful Fairy who had opened a [[Prison|prison]]-wall and let out
+a captive who had once done the Fairy a service. All was subdued and
+quiet, and Lucie was more at ease than she had been.
+
+“What is that?” she cried, all at once.
+
+“My dear!” said her father, stopping in his story, and laying his hand
+on hers, “command yourself. What a disordered state you are in! The
+least thing--nothing--startles you! _You_, your father’s daughter!”
+
+“I thought, my father,” said Lucie, excusing herself, with a pale face
+and in a faltering voice, “that I heard strange feet upon the stairs.”
+
+“My [[Love|love]], the staircase is as still as [[Death]].”
+
+As he said the word, a blow was struck upon the door.
+
+“Oh father, father. What can this be! Hide Charles. Save him!”
+
+“My [[Child|child]],” said the Doctor, rising, and laying his hand upon her
+shoulder, “I _have_ saved him. What weakness is this, my dear! Let me go
+to the door.”
+
+He took the lamp in his hand, crossed the two intervening outer rooms,
+and opened it. A rude clattering of feet over the floor, and four rough
+men in red caps, armed with sabres and pistols, entered the room.
+
+“The Citizen Evrémonde, called Darnay,” said the first.
+
+“Who seeks him?” answered Darnay.
+
+“I seek him. We seek him. I know you, Evrémonde; I saw you before the
+Tribunal to-day. You are again the prisoner of the Republic.”
+
+The four surrounded him, where he stood with his wife and [[Child|child]] clinging
+to him.
+
+“Tell me how and why am I again a prisoner?”
+
+“It is enough that you return straight to the Conciergerie, and will
+know to-morrow. You are summoned for to-morrow.”
+
+[[Doctor Manette]], whom this visitation had so turned into stone, that he
+stood with the lamp in his hand, as if he were a statue made to hold it,
+moved after these words were spoken, put the lamp down, and confronting
+the speaker, and taking him, not ungently, by the loose front of his red
+woollen shirt, said:
+
+“You know him, you have said. Do you know me?”
+
+“Yes, I know you, Citizen Doctor.”
+
+“We all know you, Citizen Doctor,” said the other three.
+
+He looked abstractedly from one to another, and said, in a lower voice,
+after a pause:
+
+“Will you answer his question to me then? How does this happen?”
+
+“Citizen Doctor,” said the first, reluctantly, “he has been denounced to
+the Section of Saint Antoine. This citizen,” pointing out the second who
+had entered, “is from Saint Antoine.”
+
+The citizen here indicated nodded his head, and added:
+
+“He is accused by Saint Antoine.”
+
+“Of what?” asked the Doctor.
+
+“Citizen Doctor,” said the first, with his former reluctance, “ask no
+more. If the Republic demands sacrifices from you, without [[Doubt|doubt]] you as
+a good patriot will be happy to make them. The Republic goes before all.
+The People is supreme. Evrémonde, we are pressed.”
+
+“One word,” the Doctor entreated. “Will you tell me who denounced him?”
+
+“It is against rule,” answered the first; “but you can ask Him of Saint
+Antoine here.”
+
+The Doctor turned his eyes upon that man. Who moved uneasily on his
+feet, rubbed his beard a little, and at length said:
+
+“[[Well]]! Truly it is against rule. But he is denounced--and gravely--by
+the Citizen and Citizeness Defarge. And by one other.”
+
+“What other?”
+
+“Do _you_ ask, Citizen Doctor?”
+
+“Yes.”
+
+“Then,” said he of Saint Antoine, with a strange look, “you will be
+answered to-morrow. Now, I am dumb!”
 
 
 
@@ -30511,6 +30328,189 @@ roar.
 Unanimously voted. At heart and by descent an [[aristocrat|Aristocrat]], an enemy
 of the Republic, a notorious oppressor of the People. Back to the
 Conciergerie, and [[Death]] within four-and-twenty hours!
+
+
+
+
+<span class="atom-split" data-atom="chapter_41" data-title="A Tale of Two Cities — Chapter 11" data-chapter="Chapter 41" data-kind="chapter"></span>
+
+
+CHAPTER XI.
+Dusk
+
+
+The wretched wife of the [[Innocent|innocent]] man thus doomed to die, fell under
+the sentence, as if she had been mortally stricken. But, she uttered no
+sound; and so strong was the voice within her, representing that it was
+she of all the world who must uphold him in his misery and not augment
+it, that it quickly raised her, even from that shock.
+
+The Judges having to take part in a public demonstration out of doors,
+the Tribunal adjourned. The quick noise and movement of the [[Court|court]]’s
+emptying itself by many passages had not ceased, when Lucie stood
+stretching out her arms towards her husband, with nothing in her face
+but [[Love|love]] and consolation.
+
+“If I might touch him! If I might embrace him once! O, good citizens, if
+you would have so much compassion for us!”
+
+There was but a gaoler left, along with two of the four men who had
+taken him last [[Night|night]], and Barsad. The people had all poured out to the
+show in the streets. Barsad proposed to the rest, “Let her embrace
+him then; it is but a moment.” It was silently acquiesced in, and they
+passed her over the seats in the hall to a raised place, where he, by
+leaning over the dock, could fold her in his arms.
+
+“Farewell, dear darling of my [[Soul|soul]]. My parting blessing on my [[Love|love]]. We
+shall meet again, where the weary are at rest!”
+
+They were her husband’s words, as he held her to his bosom.
+
+“I can bear it, dear Charles. I am supported from above: don’t suffer
+for me. A parting blessing for our [[Child|child]].”
+
+“I send it to her by you. I kiss her by you. I say farewell to her by
+you.”
+
+“My husband. No! A moment!” He was tearing himself apart from her.
+“We shall not be separated long. I feel that this will break my heart
+by-and-bye; but I will do my duty while I can, and when I leave her, God
+will raise up friends for her, as He did for me.”
+
+Her father had followed her, and would have fallen on his knees to both
+of them, but that Darnay put out a hand and seized him, crying:
+
+“No, no! What have you done, what have you done, that you should kneel
+to us! We know now, what a struggle you made of old. We know, now what
+you underwent when you suspected my descent, and when you knew it. We
+know now, the natural antipathy you strove against, and conquered, for
+her dear sake. We thank you with all our hearts, and all our [[Love|love]] and
+duty. Heaven be with you!”
+
+Her father’s only answer was to draw his hands through his white hair,
+and wring them with a shriek of anguish.
+
+“It could not be otherwise,” said the prisoner. “All things have worked
+together as they have fallen out. It was the always-vain endeavour to
+discharge my poor mother’s trust that first brought my fatal presence
+near you. Good could never come of such evil, a happier end was not in
+[[Nature|nature]] to so unhappy a beginning. Be comforted, and forgive me. Heaven
+bless you!”
+
+As he was drawn away, his wife released him, and stood looking after him
+with her hands touching one another in the attitude of [[prayer]], and
+with a radiant look upon her face, in which there was even a comforting
+smile. As he went out at the prisoners’ door, she turned, laid her head
+lovingly on her father’s breast, tried to speak to him, and fell at his
+feet.
+
+Then, issuing from the obscure corner from which he had never moved,
+[[Sydney Carton]] came and took her up. Only her father and Mr. Lorry were
+with her. His arm trembled as it raised her, and supported her head.
+Yet, there was an air about him that was not all of pity--that had a
+flush of [[Pride|pride]] in it.
+
+“Shall I take her to a coach? I shall never feel her weight.”
+
+He carried her lightly to the door, and laid her tenderly down in a
+coach. Her father and their old friend got into it, and he took his seat
+beside the driver.
+
+When they arrived at the gateway where he had paused in the dark not
+many hours before, to picture to himself on which of the rough stones of
+the street her feet had trodden, he lifted her again, and carried her up
+the staircase to their rooms. There, he laid her down on a couch, where
+her [[Child|child]] and [[Miss Pross]] wept over her.
+
+“Don’t recall her to herself,” he said, softly, to the latter, “she is
+better so. Don’t revive her to consciousness, while she only faints.”
+
+“Oh, Carton, Carton, dear Carton!” cried little Lucie, springing up and
+throwing her arms passionately round him, in a burst of grief. “Now that
+you have come, I think you will do something to help mamma, something to
+save papa! O, look at her, dear Carton! Can you, of all the people who
+[[Love|love]] her, bear to see her so?”
+
+He bent over the [[Child|child]], and laid her blooming cheek against his face. He
+put her gently from him, and looked at her unconscious mother.
+
+“Before I go,” he said, and paused--“I may kiss her?”
+
+It was remembered afterwards that when he bent down and touched her face
+with his lips, he murmured some words. The [[Child|child]], who was nearest to
+him, told them afterwards, and told her grandchildren when she was a
+handsome old lady, that she heard him say, “A life you [[Love|love]].”
+
+When he had gone out into the next room, he turned suddenly on Mr. Lorry
+and her father, who were following, and said to the latter:
+
+“You had great influence but yesterday, [[Doctor Manette]]; let it at least
+be tried. These judges, and all the men in power, are very friendly to
+you, and very recognisant of your services; are they not?”
+
+“Nothing connected with Charles was concealed from me. I had the
+strongest assurances that I should save him; and I did.” He returned the
+answer in great trouble, and very slowly.
+
+“Try them again. The hours between this and to-morrow afternoon are few
+and short, but try.”
+
+“I intend to try. I will not rest a moment.”
+
+“That’s [[Well|well]]. I have known such energy as yours do great things before
+now--though never,” he added, with a smile and a sigh together, “such
+great things as this. But try! Of little worth as life is when we misuse
+it, it is worth that effort. It would cost nothing to lay down if it
+were not.”
+
+“I will go,” said [[Doctor Manette]], “to the Prosecutor and the President
+straight, and I will go to others whom it is better not to name. I will
+write too, and--But stay! There is a Celebration in the streets, and no
+one will be accessible until dark.”
+
+“That’s true. [[Well]]! It is a forlorn [[Hope|hope]] at the best, and not much the
+forlorner for being delayed till dark. I should like to know how you
+[[Speed|speed]]; though, mind! I expect nothing! When are you likely to have seen
+these dread powers, [[Doctor Manette]]?”
+
+“Immediately after dark, I should [[Hope|hope]]. Within an hour or two from
+this.”
+
+“It will be dark soon after four. Let us stretch the hour or two. If I
+go to Mr. Lorry’s at nine, shall I hear what you have done, either from
+our friend or from yourself?”
+
+“Yes.”
+
+“May you prosper!”
+
+Mr. Lorry followed Sydney to the outer door, and, touching him on the
+shoulder as he was going away, caused him to turn.
+
+“I have no [[Hope|hope]],” said Mr. Lorry, in a low and sorrowful whisper.
+
+“Nor have I.”
+
+“If any one of these men, or all of these men, were disposed to spare
+him--which is a large supposition; for what is his life, or any man’s
+to them!--I [[Doubt|doubt]] if they durst spare him after the demonstration in the
+[[Court|court]].”
+
+“And so do I. I heard the fall of the axe in that sound.”
+
+Mr. Lorry leaned his arm upon the door-post, and bowed his face upon it.
+
+“Don’t despond,” said Carton, very gently; “don’t grieve. I encouraged
+[[Doctor Manette]] in this idea, because I felt that it might one day be
+consolatory to her. Otherwise, she might think ‘his life was wantonly
+thrown away or wasted,’ and that might trouble her.”
+
+“Yes, yes, yes,” returned Mr. Lorry, drying his eyes, “you are right.
+But he will perish; there is no real [[Hope|hope]].”
+
+“Yes. He will perish: there is no real [[Hope|hope]],” echoed Carton.
+
+And walked with a settled step, down-stairs.
 
 
 

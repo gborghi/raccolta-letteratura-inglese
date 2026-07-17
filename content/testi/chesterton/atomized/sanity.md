@@ -5726,56 +5726,6 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_06_some_aspects_of_the_land" data-title="Sanity — SOME ASPECTS OF THE LAND--" data-chapter="SOME ASPECTS OF THE LAND" data-kind="story"></span>
-
-
-III SOME ASPECTS OF THE LAND
-
-1. The Simple [[Truth]]
-2. Vows and Volunteers
-3. The Real Life on the Land
-
-= = = = = = = = = = = = = = = =
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-III ALCUNI ASPETTI DELLA TERRA
-
-1. La semplice [[Truth|Verità]]
-2. Voti e volontari
-3. La vera vita sulla terra
-
-= = = = = = = = = = = = = = = =
-
-
-
-<span class="atom-split" data-atom="story_10_some_aspects_of_machinery" data-title="Sanity — SOME ASPECTS OF MACHINERY--" data-chapter="SOME ASPECTS OF MACHINERY" data-kind="story"></span>
-
-
-IV SOME ASPECTS OF MACHINERY
-
-1. The [[Wheel]] of Fate
-2. The [[Romance]] of Machinery
-3. The Holiday of the Slave
-4. The Free Man and the Ford Car
-
-= = = = = = = = = = = = = = = =
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IV ALCUNI ASPETTI DELLA MACCHINA
-
-1. La [[Wheel|Ruota]] del Fato
-2. Il [[Romance|Fascino]] della macchina
-3. La vacanza dello schiavo
-4. L'uomo libero e la Ford
-
-= = = = = = = = = = = = = = = =
-
-
-
 <span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_01" data-title="Sanity — ON A SENSE OF PROPORTION (part 1)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
 
 
@@ -8807,6 +8757,30 @@ Ecco la ragione per cui non trattiamo i magnati dei Trust e i monopolisti come s
 
 
 
+<span class="atom-split" data-atom="story_06_some_aspects_of_the_land" data-title="Sanity — SOME ASPECTS OF THE LAND--" data-chapter="SOME ASPECTS OF THE LAND" data-kind="story"></span>
+
+
+III SOME ASPECTS OF THE LAND
+
+1. The Simple [[Truth]]
+2. Vows and Volunteers
+3. The Real Life on the Land
+
+= = = = = = = = = = = = = = = =
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+III ALCUNI ASPETTI DELLA TERRA
+
+1. La semplice [[Truth|Verità]]
+2. Voti e volontari
+3. La vera vita sulla terra
+
+= = = = = = = = = = = = = = = =
+
+
+
 <span class="atom-split" data-atom="story_07_the_simple_truth_truth--part_01" data-title="Sanity — THE SIMPLE TRUTH (part 1)" data-chapter="THE SIMPLE Truth TRUTH" data-kind="excerpt"></span>
 
 
@@ -9782,6 +9756,32 @@ come palle di cannone; ma esse non tornano loro come boomerang.
 Ci occorre una cerchia sociale in cui le cose tornino di continuo
 a chi le ha lanciate; e uomini che conoscano la fine e l'inizio
 e il compiersi della nostra piccola vita.
+
+= = = = = = = = = = = = = = = =
+
+
+
+<span class="atom-split" data-atom="story_10_some_aspects_of_machinery" data-title="Sanity — SOME ASPECTS OF MACHINERY--" data-chapter="SOME ASPECTS OF MACHINERY" data-kind="story"></span>
+
+
+IV SOME ASPECTS OF MACHINERY
+
+1. The [[Wheel]] of Fate
+2. The [[Romance]] of Machinery
+3. The Holiday of the Slave
+4. The Free Man and the Ford Car
+
+= = = = = = = = = = = = = = = =
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV ALCUNI ASPETTI DELLA MACCHINA
+
+1. La [[Wheel|Ruota]] del Fato
+2. Il [[Romance|Fascino]] della macchina
+3. La vacanza dello schiavo
+4. L'uomo libero e la Ford
 
 = = = = = = = = = = = = = = = =
 

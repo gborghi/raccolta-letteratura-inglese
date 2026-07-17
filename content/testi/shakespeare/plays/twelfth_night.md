@@ -1,5 +1,5 @@
 ---
-title: "Twelfth Night — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [9]"
+title: "TWELFTH NIGHT"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/twelfth-night-(shakespeare)"
@@ -9,6 +9,929 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/twelfth_night" data-author="Shakespeare" data-workhref="works/twelfth-night-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_5--01_exchange_dialogue" data-title="Twelfth Night — Act I, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Maria]], and [[Feste]], the clown |
+| [[Maria|MARIA]] | Nay, either tell me where thou hast been or I will not open my lips so wide as a bristle may enter in way of thy excuse. My lady will hang thee for thy absence. |
+| [[Feste|FESTE]] | Let her hang me. He that is [[Well|well]] hanged in this world needs to [[Fear|fear]] no colours. |
+| [[Maria|MARIA]] | Make that good. |
+| [[Feste|FESTE]] | He shall see none to [[Fear|fear]]. |
+| [[Maria|MARIA]] | A good lenten answer. I can tell thee where that saying was born, of ‘I [[Fear|fear]] no colours’. |
+| [[Feste|FESTE]] | Where, good Mistress Mary? |
+| [[Maria|MARIA]] | In the wars, and that may you be bold to say in your foolery. |
+| [[Feste|FESTE]] | [[Well]], God give them wisdom that have it; and those that are fools, let them use their talents. |
+| [[Maria|MARIA]] | Yet you will be hanged for being so long absent, or to be turned away—is not that as good as a hanging to you? |
+| [[Feste|FESTE]] | Many a good hanging prevents a bad [[Marriage|marriage]]; and for turning away, let [[Summer|summer]] bear it out. |
+| [[Maria|MARIA]] | You are resolute then? |
+| [[Feste|FESTE]] | Not so neither, but I am resolved on two points. |
+| [[Maria|MARIA]] | That if one break, the other will hold; or if both break, your gaskins fall. |
+| [[Feste|FESTE]] | Apt, in good [[Faith|faith]], very apt. [[Well]], go thy way. If Sir Toby would leave drinking thou wert as witty a piece of Eve’s flesh as any in lllyria. |
+| [[Maria|MARIA]] | Peace, you rogue, no more o’ that. Here comes my lady. Make your excuse wisely, you were best. Exit Enter [[Olivia]], with [[Malvolio]] and attendants |
+| [[Feste|FESTE]] | aside Wit, an’t be thy will, put me into good footing! Those wits that think they have thee do very oft prove fools, and I that am sure I lack thee may pass for a wise man. For what says Quinapalus?—‘Better a witty [[Fool|fool]] than a foolish wit.’ (To [[Olivia]]) God bless thee, lady. |
+| [[Olivia|OLIVIA]] | (to attendants) Take the [[Fool|fool]] away. |
+| [[Feste|FESTE]] | Do you not hear, fellows? Take away the lady. |
+| [[Olivia|OLIVIA]] | Go to, you’re a dry [[Fool|fool]]. I’ll no more of you. Besides, you grow dishonest. |
+| [[Feste|FESTE]] | Two faults, madonna, that drink and good counsel will amend, for give the dry [[Fool|fool]] drink, then is the [[Fool|fool]] not dry; bid the dishonest man mend himself: if he mend, he is no longer dishonest; if he cannot, let the botcher mend him. Anything that’s mended is but patched. Virtue that transgresses is but patched with sin, and sin that amends is but patched with virtue. If that this simple syllogism will serve, so. If it will not, what remedy? As there is no true cuckold but calamity, so [[Beauty|beauty]]’s a flower. The lady bade take away the [[Fool|fool]], therefore I say again, take her away. |
+| [[Olivia|OLIVIA]] | Sir, I bade them take away you. |
+| [[Feste|FESTE]] | Misprision in the highest degree! Lady, ‘Cucullus non facit monachum’—that’s as much to say as I wear not motley in my brain. Good madonna, give me leave to prove you a [[Fool|fool]]. |
+| [[Olivia|OLIVIA]] | Can you do it? |
+| [[Feste|FESTE]] | Dexteriously, good madonna. |
+| [[Olivia|OLIVIA]] | Make your proof. |
+| [[Feste|FESTE]] | I must catechize you for it, madonna. Good my mouse of virtue, answer me. |
+| [[Olivia|OLIVIA]] | [[Well]], sir, for want of other idleness I’ll bide your proof. |
+| [[Feste|FESTE]] | Good madonna, why mournest thou? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_5--02_exchange_olivia" data-title="Twelfth Night — Act I, Scene 5 — exchange (OLIVIA) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Olivia|OLIVIA]] | Good [[Fool|fool]], for my brother’s [[Death|death]]. |
+| [[Feste|FESTE]] | I think his [[Soul|soul]] is in hell, madonna. |
+| [[Olivia|OLIVIA]] | I know his [[Soul|soul]] is in heaven, [[Fool|fool]]. |
+| [[Feste|FESTE]] | The more [[Fool|fool]], madonna, to mourn for your brother’s [[Soul|soul]], being in heaven. Take away the [[Fool|fool]], gentlemen. |
+| [[Olivia|OLIVIA]] | What think you of this [[Fool|fool]], [[Malvolio]]? Doth he not mend? |
+| [[Malvolio|MALVOLIO]] | Yes, and shall do till the pangs of [[Death|death]] shake him. Infirmity, that decays the wise, doth ever make the better [[Fool|fool]]. |
+| [[Feste|FESTE]] | God send you, sir, a speedy infirmity for the better increasing your folly. Sir Toby will be sworn that I am no fox, but he will not pass his word for twopence that you are no [[Fool|fool]]. |
+| [[Olivia|OLIVIA]] | How say you to that, [[Malvolio]]? |
+| [[Malvolio|MALVOLIO]] | I marvel your ladyship takes delight in such a barren rascal. I saw him put down the other day with an ordinary [[Fool|fool]] that has no more brain than a stone. Look you now, he’s out of his guard already. Unless you laugh and minister occasion to him, he is gagged. I protest I take these wise men that crow so at these set kind of fools no better than the fools’ zanies. |
+| [[Olivia|OLIVIA]] | O, you are sick of [[Self|self]]-[[Love|love]], [[Malvolio]], and taste with a distempered appetite. To be generous, guiltless, and of free disposition is to take those things for birdbolts that you deem cannon bullets. There is no slander in an allowed [[Fool|fool]], though he do nothing but rail; nor no railing in a known discreet man, though he do nothing but reprove. |
+| [[Feste|FESTE]] | Now Mercury indue thee with leasing, for thou speakest [[Well|well]] of fools. Enter [[Maria]] |
+| [[Maria|MARIA]] | Madam, there is at the gate a young gentleman much desires to speak with you. |
+| [[Olivia|OLIVIA]] | From the Count [[Orsino]], is it? |
+| [[Maria|MARIA]] | I know not, madam. ’Tis a fair young man, and [[Well|well]] attended. |
+| [[Olivia|OLIVIA]] | Who of my people hold him in delay? |
+| [[Maria|MARIA]] | Sir Toby, madam, your kinsman. |
+| [[Olivia|OLIVIA]] | Fetch him off, I pray you, he speaks nothing but madman. Fie on him. Go you, [[Malvolio]]. If it be a suit from the Count, I am sick, or not at [[Home|home]]—what you will to dismiss it. Exit [[Malvolio]] Now you see, sir, how your fooling grows old, and people dislike it. |
+| [[Feste|FESTE]] | Thou hast spoke for us, madonna, as if thy eldest son should be a [[Fool|fool]], whose skull Jove cram with brains, for—here he comes— Enter Sir Toby one of thy kin has a most weak pia mater. |
+| [[Olivia|OLIVIA]] | By mine [[Honour|honour]], half-drunk. What is he at the gate, cousin? |
+| SIR TOBY | A gentleman. |
+| [[Olivia|OLIVIA]] | A gentleman? What gentleman? |
+| SIR TOBY | ’Tis a gentleman here. (He belches) A plague o’ these pickle herring! (To [[Feste]]) How now, sot? |
+| [[Feste|FESTE]] | Good Sir Toby. |
+| [[Olivia|OLIVIA]] | Cousin, cousin, how have you come so early by this lethargy? |
+| SIR TOBY | Lechery? I defy lechery. There’s one at the gate. [[Olivia|OLIVIA]] Ay, marry, what is he? |
+| SIR TOBY | Let him be the devil an he will, I care not. Give me [[Faith|faith]], say I. [[Well]], it’s all one. Exit |
+| [[Olivia|OLIVIA]] | What’s a drunken man like, [[Fool|fool]]? |
+| [[Feste|FESTE]] | Like a drowned man, a [[Fool|fool]], and a madman—one draught above heat makes him a [[Fool|fool]], the second mads him, and a third drowns him. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_5--03_exchange_olivia" data-title="Twelfth Night — Act I, Scene 5 — exchange (OLIVIA) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Olivia|OLIVIA]] | Go thou and seek the coroner, and let him sit o’ my coz, for he’s in the third degree of drink, he’s drowned. Go look after him. |
+| [[Feste|FESTE]] | He is but mad yet, madonna, and the [[Fool|fool]] shall look to the madman. Exit Enter [[Malvolio]] |
+| [[Malvolio|MALVOLIO]] | Madam, yon young fellow swears he will speak with you. I told him you were sick—he takes on him to understand so much, and therefore comes to speak with you. I told him you were asleep—he seems to have a foreknowledge of that too, and therefore comes to speak with you. What is to be said to him, lady? He’s fortified against any denial. |
+| [[Olivia|OLIVIA]] | Tell him he shall not speak with me. |
+| [[Malvolio|MALVOLIO]] | He’s been told so, and he says he’ll stand at your door like a sheriff’s post, and be the supporter to a bench, but he’ll speak with you. |
+| [[Olivia|OLIVIA]] | What kind o’ man is he? |
+| MALVOCIO | Why, of mankind. |
+| [[Olivia|OLIVIA]] | What manner of man? |
+| [[Malvolio|MALVOLIO]] | Of very ill manner: he’ll speak with you, will you or no. |
+| [[Olivia|OLIVIA]] | Of what personage and years is he? |
+| [[Malvolio|MALVOLIO]] | Not yet old enough for a man, nor young enough for a boy; as a squash is before ‘tis a peascod, or a codling when ’tis almost an apple. ’Tis with him in standing [[Water|water]] between boy and man. He is very [[Well|well]]-favoured, and he speaks very shrewishly. One would think his mother’s milk were scarce out of him. |
+| [[Olivia|OLIVIA]] | Let him approach. Call in my gentlewoman. |
+| [[Malvolio|MALVOLIO]] | Gentlewoman, my lady calls. Exit Enter [[Maria]] |
+| [[Olivia|OLIVIA]] | Give me my veil. Come, throw it o’er my face. We’ll once more hear [[Orsino]]’s embassy. Enter [[Viola]] as Cesario |
+| [[Viola|VIOLA]] | The honourable lady of the [[house]], which is she? |
+| [[Olivia|OLIVIA]] | Speak to me, I shall answer for her. Your will. |
+| [[Viola|VIOLA]] | Most radiant, exquisite, and unmatchable [[Beauty|beauty]]. —I pray you, tell me if this be the lady of the [[house]], for I never saw her. I would be loath to cast away my speech, for besides that it is excellently [[Well|well]] penned, I have taken great pains to con it. Good beauties, let me sustain no scorn; I am very ’countable, even to the least sinister usage. |
+| [[Olivia|OLIVIA]] | Whence came you, sir? |
+| [[Viola|VIOLA]] | I can say little more than I have studied, and that question’s out of my part. Good gentle one, give me modest assurance if you be the lady of the [[house]], that I may proceed in my speech. |
+| [[Olivia|OLIVIA]] | Are you a comedian? |
+| [[Viola|VIOLA]] | No, my profound heart; and yet—by the very fangs of malice I swear—I am not that I play. Are you the lady of the [[house]]? |
+| [[Olivia|OLIVIA]] | If I do not usurp myself, I am. |
+| [[Viola|VIOLA]] | Most certain if you are she you do usurp yourself, for what is yours to bestow is not yours to reserve. But this is from my commission. I will on with my speech in your praise, and then show you the heart of my message. |
+| [[Olivia|OLIVIA]] | Come to what is important in’t, I forgive you the praise. |
+| [[Viola|VIOLA]] | Alas, I took great pains to study it, and ’tis poetical. |
+| [[Olivia|OLIVIA]] | It is the more like to be feigned, I pray you keep it in. I heard you were saucy at my gates, and allowed your approach rather to [[Wonder|wonder]] at you than to hear you. If you be not mad, be gone. If you have reason, be brief. ’Tis not that [[Time|time]] of [[Moon|moon]] with me to make one in so skipping a dialogue. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_5--04_exchange_maria" data-title="Twelfth Night — Act I, Scene 5 — exchange (MARIA) [4]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Maria|MARIA]] | Will you hoist sail, sir? Here lies your way. |
+| [[Viola|VIOLA]] | No, good swabber, I am to hull here a little longer. (To [[Olivia]]) Some mollification for your giant, sweet lady. Tell me your mind, I am a messenger. |
+| [[Olivia|OLIVIA]] | Sure, you have some hideous matter to deliver when the courtesy of it is so fearful. Speak your office. |
+| [[Viola|VIOLA]] | It [[Alone|alone]] concerns your ear. I bring no overture of war, no taxation of homage. I hold the olive in my hand. My words are as full of peace as matter. |
+| [[Olivia|OLIVIA]] | Yet you began rudely. What are you? What would you? |
+| [[Viola|VIOLA]] | The rudeness that hath appeared in me have I learned from my entertainment. What I am and what I would are as secret as maidenhead; to your ears, divinity; to any others’, profanation. |
+| [[Olivia|OLIVIA]] | (to [[Maria]] and attendants) Give us the place [[Alone|alone]], we will hear this divinity. Exeunt [[Maria]] and attendants Now sir, what is your text? |
+| [[Viola|VIOLA]] | Most sweet lady— |
+| [[Olivia|OLIVIA]] | A comfortable doctrine, and much may be said of it. Where lies your text? |
+| [[Viola|VIOLA]] | In [[Orsino]]’s bosom. |
+| [[Olivia|OLIVIA]] | In his bosom? In what chapter of his bosom? |
+| [[Viola|VIOLA]] | To answer by the method, in the first of his heart. |
+| [[Olivia|OLIVIA]] | O, I have read it. It is heresy. Have you no more to say? |
+| [[Viola|VIOLA]] | Good madam, let me see your face. |
+| [[Olivia|OLIVIA]] | Have you any commission from your lord to negotiate with my face? You are now out of your text. But we will draw the curtain and show you the picture. She unveils Look you, sir, such a one I was this present. Is’t not [[Well|well]] done? |
+| [[Viola|VIOLA]] | Excellently done, if God did all. |
+| [[Olivia|OLIVIA]] | ‘Tis in grain, sir, ’twill endure [[Wind|wind]] and weather. |
+| [[Viola|VIOLA]] | ‘Tis [[Beauty|beauty]] truly blent, whose red and white [[Nature]]’s own sweet and cunning hand laid on. Lady, you are the cruell’st she alive If you will lead these graces to the [[Grave|grave]] And leave the world no copy. |
+| [[Olivia|OLIVIA]] | O sir, I will not be so hard-hearted. I will give out divers schedules of my [[Beauty|beauty]]. It shall be inventoried and every particle and utensil labelled to my will, as, item, two lips, indifferent red; item, two grey eyes, with lids to them; item, one neck, one chin, and so forth. Were you sent hither to praise me? |
+| [[Viola|VIOLA]] | I see you what you are, you are too proud, But if you were the devil, you are fair. My lord and master loves you. O, such [[Love|love]] Could be but recompensed though you were crowned The nonpareil of [[Beauty|beauty]]. |
+| [[Olivia|OLIVIA]] | How does he [[Love|love]] me? |
+| [[Viola|VIOLA]] | With adorations, fertile [[Tears|tears]], With groans that thunder [[Love|love]], with sighs of [[Fire|fire]]. |
+| [[Olivia|OLIVIA]] | Your lord does know my mind, I cannot [[Love|love]] him. Yet I suppose him virtuous, know him noble, Of great estate, of fresh and stainless youth, In voices [[Well|well]] divulged, free, learned, and valiant, And in dimension and the shape of [[Nature|nature]] A gracious person; but yet I cannot [[Love|love]] him. He might have took his answer long ago. |
+| [[Viola|VIOLA]] | If I did [[Love|love]] you in my master’s flame, With such a suff’ring, such a deadly life, In your denial I would find no sense, I would not understand it. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_5--05_exchange_olivia" data-title="Twelfth Night — Act I, Scene 5 — exchange (OLIVIA) [5]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Olivia|OLIVIA]] | Why, what would you? |
+| [[Viola|VIOLA]] | Make me a willow cabin at your gate And call upon my [[Soul|soul]] within the [[house]], Write loyal cantons of contemnèd [[Love|love]], And sing them loud even in the dead of [[Night|night]]; Halloo your name to the reverberate hills, And make the babbling gossip of the air Cry out ‘[[Olivia]]!’ O, you should not rest Between the elements of air and earth But you should pity me. |
+| [[Olivia|OLIVIA]] | You might do much. What is your parentage? |
+| [[Viola|VIOLA]] | Above my fortunes, yet my state is [[Well|well]]. I am a gentleman. |
+| [[Olivia|OLIVIA]] | Get you to your lord. I cannot [[Love|love]] him. Let him send no more, Unless, perchance, you come to me again To tell me how he takes it. Fare you [[Well|well]]. I thank you for your pains. (Offering a purse) Spend this for me. |
+| [[Viola|VIOLA]] | I am no fee’d post, lady. Keep your purse. My master, not myself, lacks recompense. [[Love]] make his heart of flint that you shall [[Love|love]], And let your fervour, like my master’s, be Placed in contempt. Farewell, fair cruelty. Exit |
+| [[Olivia|OLIVIA]] | ‘What is your parentage?’ ‘Above my fortunes, yet my state is [[Well|well]]. I am a gentleman.’ I’ll be sworn thou art. Thy tongue, thy face, thy limbs, actions, and spirit Do give thee five-fold blazon. Not too fast. Soft, soft— Unless the master were the man. How now? Even so quickly may one catch the plague? Methinks I feel this youth’s perfections With an invisible and subtle stealth To creep in at mine eyes. [[Well]], let it be. What ho, [[Malvolio]]. Enter [[Malvolio]] |
+| [[Malvolio|MALVOLIO]] | Here, madam, at your service. |
+| [[Olivia|OLIVIA]] | Run after that same peevish messenger The County’s man. He left this ring behind him, Would I or not. Tell him I’ll none of it. [[Desire]] him not to flatter with his lord, Nor hold him up with hopes. I am not for him. If that the youth will come this way tomorrow, I’ll give him reasons for’t. Hie thee, [[Malvolio]]. |
+| [[Malvolio|MALVOLIO]] | Madam, I will. Exit at one door |
+| [[Olivia|OLIVIA]] | I do I know not what, and [[Fear|fear]] to find Mine eye too great a flatterer for my mind. Fate, show thy force. Ourselves we do not owe. What is decreed must be; and be this so. Exit at another door |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Twelfth Night — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Sir Toby and Sir Andrew |
+| SIR TOBY | Approach, Sir Andrew. Not to be abed after midnight is to be up betimes, and diliculo surgere, thou knowest. |
+| SIR ANDREW | Nay, by my troth, I know not; but I know to be up late is to be up late. |
+| SIR TOBY | A false conclusion. I hate it as an unfilled can. To be up after midnight and to go to bed then is early; so that to go to bed after midnight is to go to bed betimes. Does not our lives consist of the four elements? |
+| SIR ANDREW | [[Faith]], so they say, but I think it rather consists of eating and drinking. |
+| SIR TOBY | Thou’rt a scholar; let us therefore eat and drink. Marian, I say, a stoup of wine. Enter [[Feste]], the clown |
+| SIR ANDREW | Here comes the [[Fool|fool]], i’[[Faith|faith]]. |
+| [[Feste|FESTE]] | How now, my hearts. Did you never see the picture of ‘we three’? |
+| SIR TOBY | Welcome, ass. Now let’s have a catch. |
+| SIR ANDREW | By my troth, the [[Fool|fool]] has an excellent breast. I had rather than forty shillings I had such a leg, and so sweet a breath to sing, as the [[Fool|fool]] has. In sooth, thou wast in very gracious fooling last [[Night|night]], when thou spokest of Pigrogromitus, of the Vapians passing the equinoctial of Queubus. ‘Twas very good, i’[[Faith|faith]]. I sent thee sixpence for thy leman. Hadst it? |
+| [[Feste|FESTE]] | I did impeticos thy gratility; for [[Malvolio]]’s nose is no whipstock. My lady has a white hand, and the Myrmidons are no bottle-ale houses. |
+| SIR ANDREW | Excellent! Why, this is the best fooling, when all is done. Now a [[Song|song]]. |
+| SIR TOBY | (to [[Feste]]) Come on, there is sixpence for you. Let’s have a [[Song|song]]. |
+| SIR ANDREW | (to [[Feste]]) There’s a testril of me, too. If one knight give a— |
+| [[Feste|FESTE]] | Would you have a [[Love|love]]-[[Song|song]], or a [[Song|song]] of good life? |
+| SIR TOBY | A [[Love|love]] [[Song|song]], a [[Love|love]]-[[Song|song]]. |
+| SIR ANDREW | Ay, ay. I care not for good life. |
+| [[Feste|FESTE]] | (sings) O mistress mine, where are you roaming? O stay and hear, your true [[Love|love]]’s coming, That can sing both high and low. Trip no further, pretty sweeting. Journeys end in [[lovers]] meeting, Every wise man’s son doth know. |
+| SIR ANDREW | Excellent good, i’[[Faith|faith]]. |
+| SIR TOBY | Good, good. |
+| [[Feste|FESTE]] | What is [[Love|love]]? ’Tis not hereafter, Present mirth hath present laughter. What’s to come is still unsure. In delay there lies no plenty, Then come kiss me, sweet and twenty. Youth’s a stuff will not endure. |
+| SIR ANDREW | A mellifluous voice, as I am true knight. |
+| SIR TOBY | A contagious breath. |
+| SIR ANDREW | Very sweet and contagious, i’[[Faith|faith]]. |
+| SIR TOBY | To hear by the nose, it is dulcet in contagion. But shall we make the welkin [[Dance|dance]] indeed? Shall we rouse the [[Night|night]]-owl in a catch that will draw three souls out of one weaver? Shall we do that? |
+| SIR ANDREW | An you [[Love|love]] me, let’s do’t. I am dog at a catch. |
+| [[Feste|FESTE]] | By’r Lady, sir, and some [[dogs]] will catch [[Well|well]]. |
+| SIR ANDREW | Most certain. Let our catch be ‘Thou knave’. |
+| [[Feste|FESTE]] | ‘Hold thy peace, thou knave’, knight. I shall be constrained in’t to call thee knave, knight. |
+| SIR ANDREW | ‘Tis not the first [[Time|time]] I have constrained one to call me knave. Begin, [[Fool|fool]]. It begins ‘Hold thy peace’. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--02_exchange_feste_i" data-title="Twelfth Night — Act II, Scene 3 — exchange (FESTE I) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Feste|FESTE]] | I shall never begin if I hold my peace. |
+| SIR ANDREW | Good, i’[[Faith|faith]]. Come, begin. They sing the catch. Enter [[Maria]] |
+| [[Maria|MARIA]] | What a caterwauling do you keep here! If my lady have not called up her steward [[Malvolio]] and bid him turn you out of doors, never trust me. |
+| SIR TOBY | My lady’s a Cathayan, we are politicians, [[Malvolio]]’s a Peg-o‘-Ramsey, and ‘hree merry men be we’. Am not I consanguineous? Am I not of her [[Blood|blood]]? Tilly-vally—‘lady’! ‘There dwelt a man in Babylon, lady, lady.’ |
+| [[Feste|FESTE]] | Beshrew me, the knight’s in admirable fooling. |
+| SIR ANDREW | Ay, he does [[Well|well]] enough if he be disposed, and so do I, too. He does it with a better grace, but I do it more natural. |
+| SIR TOBY | ‘O’the twelfth day of December’— |
+| [[Maria|MARIA]] | For the [[Love|love]] o’ God, peace. Enter [[Malvolio]] |
+| [[Malvolio|MALVOLIO]] | My masters, are you mad? Or what are you? Have you no wit, manners, nor honesty, but to gabble like tinkers at this [[Time|time]] of [[Night|night]]? Do ye make an alehouse of my lady’s [[house]], that ye squeak out your coziers’ catches without any mitigation or remorse of voice? Is there no respect of place, persons, nor [[Time|time]] in you? |
+| SIR TOBY | We did keep [[Time|time]], sir, in our catches. Sneck up! |
+| [[Malvolio|MALVOLIO]] | Sir Toby, I must be round with you. My lady bade me tell you that though she harbours you as her kinsman she’s nothing allied to your disorders. If you can separate yourself and your misdemeanours you are welcome to the [[house]]. If not, an it would please you to take leave of her she is very willing to bid you farewell. |
+| SIR TOBY | ‘Farewell, dear heart, since I must needs be gone.’ |
+| [[Maria|MARIA]] | Nay, good Sir Toby. |
+| [[Feste|FESTE]] | ‘His eyes do show his days are almost done.’ |
+| [[Malvolio|MALVOLIO]] | Is’t even so? |
+| SIR TOBY | ‘But I will never die.’ |
+| [[Feste|FESTE]] | ‘Sir Toby, there you lie.’ |
+| [[Malvolio|MALVOLIO]] | This is much credit to you. |
+| SIR TOBY | ‘Shall I bid him go?’ |
+| [[Feste|FESTE]] | ‘What an if you do?’ |
+| SIR TOBY | ‘Shall I bid him go, and spare not?’ |
+| [[Feste|FESTE]] | ‘O no, no, no, no, you dare not.’ |
+| SIR TOBY | Out o’ tune, sir, ye lie. (To [[Malvolio]]) Art any more than a steward? Dost thou think because thou art virtuous there shall be no more cakes and ale? |
+| [[Feste|FESTE]] | Yes, by Saint Anne, and ginger shall be hot i’th’ mouth, too. |
+| SIR TOBY | Thou‘rt i’th’ right. (To [[Malvolio]]) Go, sir, rub your chain with crumbs. (To [[Maria]]) A stoup of wine, [[Maria]]. |
+| [[Malvolio|MALVOLIO]] | Mistress Mary, if you prized my lady’s favour at anything more than contempt you would not give means for this uncivil rule. She shall know of it, by this hand. Exit |
+| [[Maria|MARIA]] | Go shake your ears. |
+| SIR ANDREW | ’Twere as good a deed as to drink when a man’s a-hungry to challenge him the field and then to break promise with him, and make a [[Fool|fool]] of him. |
+| SIR TOBY | Do’t, knight. I’ll write thee a challenge, or I’ll deliver thy indignation to him by word of mouth. |
+| [[Maria|MARIA]] | Sweet Sir Toby, be patient for tonight. Since the youth of the Count’s was today with my lady she is much out of quiet. For Monsieur [[Malvolio]], let me [[Alone|alone]] with him. If I do not gull him into a nayword and make him a common recreation, do not think I have wit enough to lie straight in my bed. I know I can do it. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--03_exchange_sir_toby" data-title="Twelfth Night — Act II, Scene 3 — exchange (SIR TOBY) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SIR TOBY | Possess us, possess us, tell us something of him. |
+| [[Maria|MARIA]] | Marry, sir, sometimes he is a kind of puritan. |
+| SIR ANDREW | O, if I thought that I’d beat him like a dog. |
+| SIR TOBY | What, for being a puritan? Thy exquisite reason, dear knight. |
+| SIR ANDREW | I have no exquisite reason for’t, but I have reason good enough. |
+| [[Maria|MARIA]] | The dev’l a puritan that he is, or anything constantly but a [[Time|time]]-pleaser, an affectioned ass that cons state without book and utters it by great swathes; the best persuaded of himself, so crammed, as he thinks, with excellencies, that it is his grounds of [[Faith|faith]] that all that look on him [[Love|love]] him; and on that vice in him will my [[Revenge|revenge]] find notable cause to work. |
+| SIR TOBY | What wilt thou do? |
+| [[Maria|MARIA]] | I will drop in his way some obscure epistles of [[Love|love]], wherein by the colour of his beard, the shape of his leg, the manner of his gait, the expressure of his eye, forehead, and complexion, he shall find himself most feelingly personated. I can write very like my lady your niece; on a forgotten matter we can hardly make distinction of our hands. |
+| SIR TOBY | Excellent, I smell a device. |
+| SIR ANDREW | I have’t in my nose too. |
+| SIR TOBY | He shall think by the letters that thou wilt drop that they come from my niece, and that she’s in [[Love|love]] with him. |
+| [[Maria|MARIA]] | My purpose is indeed a [[Horse|horse]] of that colour. |
+| SIR ANDREW | And your [[Horse|horse]] now would make him an ass. |
+| [[Maria|MARIA]] | Ass I [[Doubt|doubt]] not. |
+| SIR ANDREW | O, ’twill be admirable. |
+| [[Maria|MARIA]] | Sport royal, I warrant you. I know my physic will work with him. I will plant you two—and let the [[Fool|fool]] make a third—where he shall find the letter. Observe his construction of it. For this [[Night|night]], to bed, and dream on the event. Farewell. Exit |
+| SIR TOBY | Good [[Night|night]], Penthesilea. |
+| SIR ANDREW | Before me, she’s a good wench. |
+| SIR TOBY | She’s a beagle true bred, and one that adores me. What o’ that? |
+| SIR ANDREW | I was adored once, too. |
+| SIR TOBY | Let’s to bed, knight. Thou hadst need send for more money. |
+| SIR ANDREW | If I cannot recover your niece, I am a foul way out. |
+| SIR TOBY | Send for money, knight. If thou hast her not i’th’ end, call me cut. |
+| SIR ANDREW | If I do not, never trust me, take it how you will. |
+| SIR TOBY | Come, come, I’ll go burn some sack, ’tis too late to go to bed now. Come knight, come knight. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_5--01_exchange_dialogue" data-title="Twelfth Night — Act II, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Sir Toby, Sir Andrew, and Fabian |
+| SIR TOBY | Come thy ways, Signor Fabian. |
+| FABIAN | Nay, I’ll come. If I lose a scruple of this sport let me be boiled to [[Death|death]] with [[Melancholy|melancholy]]. |
+| SIR TOBY | Wouldst thou not be glad to have the niggardly rascally sheep-biter come by some notable shame? |
+| FABIAN | I would exult, man. You know he brought me out o’ favour with my lady about a bear-baiting here. |
+| SIR TOBY | To anger him we’ll have the bear again, and we will [[Fool|fool]] him black and blue, shall we not, Sir Andrew? |
+| SIR ANDREW | An we do not, it is pity of our lives. Enter [[Maria]] with a letter |
+| SIR TOBY | Here comes the little [[Villain|villain]]. How now, my metal of India? |
+| [[Maria|MARIA]] | Get ye all three into the box-tree. [[Malvolio]]’s coming down this walk. He has been yonder i’ the sun practising behaviour to his own [[Shadow|shadow]] this half-hour. Observe him, for the [[Love|love]] of mockery, for I know this letter will make a contemplative idiot of him. Close, in the name of jesting! The men hide. [[Maria]] places the letter Lie thou there, for here comes the trout that must be caught with tickling. Exit Enter [[Malvolio]] |
+| [[Malvolio|MALVOLIO]] | ’Tis but fortune, all is fortune. [[Maria]] once told me she did affect me, and I have heard herself come thus near, that should she fancy it should be one of my complexion. Besides, she uses me with a more exalted respect than anyone else that follows her. What should I think on’t? |
+| SIR TOBY | Here’s an overweening rogue. |
+| FABIAN | O, peace! Contemplation makes a rare turkeycock of him—how he jets under his advanced plumes! |
+| SIR ANDREW | ’Slight, I could so beat the rogue. |
+| SIR TOBY | Peace, I say. |
+| [[Malvolio|MALVOLIO]] | To be Count [[Malvolio]]! |
+| SIR TOBY | Ah, rogue. |
+| SIR ANDREW | [[Pistol]] him, [[Pistol|pistol]] him. |
+| SIR TOBY | Peace, peace. |
+| [[Malvolio|MALVOLIO]] | There is example for’t: the Lady of the Strachey married the yeoman of the wardrobe. |
+| SIR ANDREW | Fie on him, Jezebel. |
+| FABIAN | O peace, now he’s deeply in. Look how [[Imagination|imagination]] blows him. |
+| [[Malvolio|MALVOLIO]] | Having been three months married to her, sitting in my state— |
+| SIR TOBY | O for a stone-bow to hit him in the eye! |
+| [[Malvolio|MALVOLIO]] | Calling my officers about me, in my branched velvet gown, having come from a day-bed where I have left [[Olivia]] sleeping— |
+| SIR TOBY | [[Fire]] and brimstone! |
+| FABIAN | O peace, peace. |
+| [[Malvolio|MALVOLIO]] | And then to have the [[Humour|humour]] of state and—after a demure travel of regard, telling them I know my place, as I would they should do theirs—to ask for my kinsman Toby. |
+| SIR TOBY | Bolts and shackles! |
+| FABIAN | O peace, peace, peace, now, now. |
+| [[Malvolio|MALVOLIO]] | Seven of my people with an obedient start make out for him. I frown the while, and perchance [[Wind|wind]] up my watch, or play with my—(touching his chain) some rich [[Jewel|jewel]]. Toby approaches; curtsies there to me. |
+| SIR TOBY | Shall this fellow live? |
+| FABIAN | Though our [[Silence|silence]] be drawn from us with cars, yet peace. |
+| [[Malvolio|MALVOLIO]] | I extend my hand to him thus, quenching my familiar smile with an austere regard of control— |
+| SIR TOBY | And does not Toby take you a blow o’ the lips, then? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_5--02_exchange_malvolio" data-title="Twelfth Night — Act II, Scene 5 — exchange (MALVOLIO) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Malvolio|MALVOLIO]] | Saying ‘Cousin Toby, my fortunes, having cast me on your niece, give me this prerogative of speech’— |
+| SIR TOBY | What, what! |
+| [[Malvolio|MALVOLIO]] | ‘You must amend your drunkenness.’ |
+| SIR TOBY | Out, scab. |
+| FABIAN | Nay, patience, or we break the sinews of our plot. |
+| [[Malvolio|MALVOLIO]] | ‘Besides, you waste the treasure of your [[Time|time]] with a foolish knight’— |
+| SIR ANDREW | That’s me, I warrant you. |
+| [[Malvolio|MALVOLIO]] | ‘One Sir Andrew.’ |
+| SIR ANDREW | I knew ’twas I, for many do call me [[Fool|fool]]. |
+| [[Malvolio|MALVOLIO]] | (seeing the letter) What employment have we here? FABIAN Now is the woodcock near the gin. |
+| SIR TOBY | O peace, and the spirit of humours intimate reading aloud to him. |
+| [[Malvolio|MALVOLIO]] | (taking up the letter) By my life, this is my lady’s hand. These be her very c‘s, her u’s, and her t’s, and thus makes she her great P’s. It is in contempt of question her hand. |
+| SIR ANDREW | Her c‘s, her u’s, and her t’s? Why that? |
+| [[Malvolio|MALVOLIO]] | (reads) ‘To the unknown beloved, this, and my good wishes.’ Her very phrases! (Opening the letter) By your leave, wax—soft, and the impressure her [[Lucrece]], with which she uses to seal—’tis my lady. To whom should this be? |
+| FABIAN | This wins him, liver and all. |
+| [[Malvolio|MALVOLIO]] | ‘Jove knows I [[Love|love]], But who? Lips do not move, No man must know.’ ‘No man must know.’ What follows? The numbers altered. ‘No man must know.’ If this should be thee, [[Malvolio]]? |
+| SIR TOBY | Marry, hang thee, brock. |
+| [[Malvolio|MALVOLIO]] | ‘I may command where I adore, But [[Silence|silence]] like a [[Lucrece]] knife With bloodless stroke my heart doth gore. |
+| M.O.A.I. | doth sway my life.’ |
+| FABIAN | A fustian [[Riddle|riddle]]. |
+| SIR TOBY | Excellent wench, say I. |
+| [[Malvolio|MALVOLIO]] | ’M.O.A.I. doth sway my life.’ Nay, but first let me see, let me see, let me see. FABIAN What dish o’ [[Poison|poison]] has she dressed him! |
+| SIR TOBY | And with what wing the staniel checks at it! |
+| [[Malvolio|MALVOLIO]] | ‘I may command where I adore.’ Why, she may command me. I serve her, she is my lady. Why, this is evident to any formal capacity. There is no obstruction in this. And the end—what should that alphabetical position portend? If I could make that resemble something in me. Softly—‘M.O.A.I.’ |
+| SIR TOBY | O ay, make up that, he is now at a cold scent. |
+| FABIAN | Sowter will cry upon’t for all this, though it be as rank as a fox. |
+| [[Malvolio|MALVOLIO]] | ‘M.’ [[Malvolio]]—‘M’—why, that begins my name. |
+| FABIAN | Did not I say he would work it out? The cur is excellent at faults. |
+| [[Malvolio|MALVOLIO]] | ‘M’ But then there is no consonancy in the sequel. That suffers under probation. ‘A’ should follow, but ‘O’ does. |
+| FABIAN | And ‘O’ shall end, I [[Hope|hope]]. |
+| SIR TOBY | Ay, or I’ll cudgel him, and make him cry ‘O!’ |
+| [[Malvolio|MALVOLIO]] | And then ‘I’ comes behind. |
+| FABIAN | Ay, an you had any eye behind you you might see more detraction at your heels than fortunes before you. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_5--03_monologue_malvolio_moai" data-title="Twelfth Night — Act II, Scene 5 — monologue (MALVOLIO ‘M.O.A.I.’) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Malvolio|MALVOLIO]] | ‘M.O.A.I.’ This simulation is not as the former; and yet to crush this a little, it would bow to me, for every one of these letters are in my name. Soft, here follows prose: ‘If this fall into thy hand, revolve. In my [[Stars|stars]] I am above thee, but be not afraid of [[Greatness|greatness]]. Some are born great, some achieve [[Greatness|greatness]], and some have [[Greatness|greatness]] thrust upon ’em. Thy fates open their hands, let thy [[Blood|blood]] and spirit embrace them, and to inure thyself to what thou art like to be, cast thy humble slough, and appear fresh. Be opposite with a kinsman, surly with servants. Let thy tongue tang arguments of state; put thyself into the trick of singularity. She thus advises thee that sighs for thee. Remember who commended thy yellow stockings, and wished to see thee ever [[Cross|cross]]-gartered. I say remember, go to, thou art made if thou desirest to be so; if not, let me see thee a steward still, the fellow of servants, and not worthy to touch Fortune’s fingers. Farewell. She that would alter services with thee, The Fortunate-Unhappy.’ Daylight and champaign discovers not more. This is open. I will be proud, I will read politic authors, I will baffle Sir Toby, I will wash off gross acquaintance, I will be point-device the very man. I do not now [[Fool|fool]] myself, to let [[Imagination|imagination]] jade me; for every reason excites to this, that my lady loves me. She did commend my yellow stockings of late, she did praise my leg, being [[Cross|cross]]-gartered, and in this she manifests herself to my [[Love|love]], and with a kind of injunction drives me to these habits of her liking. I thank my [[Stars|stars]], I am happy. I will be strange, stout, in yellow stockings, and [[Cross|cross]]-gartered, even with the swiftness of putting on. Jove and my [[Stars|stars]] be praised. Here is yet a postscript. ‘Thou canst not choose but know who I am. If thou entertainest my [[Love|love]], let it appear in thy smiling, thy smiles become thee [[Well|well]]. Therefore in my presence still smile, dear my sweet, I prithee.’ Jove, I thank thee. I will smile, I will do everything that thou wilt have me. Exit Sir Toby, Sir Andrew, and Fabian come from hiding |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_5--04_exchange_fabian_i" data-title="Twelfth Night — Act II, Scene 5 — exchange (FABIAN I) [4]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FABIAN | I will not give my part of this sport for a pension of thousands to be paid from the Sophy. |
+| SIR TOBY | I could marry this wench for this device. |
+| SIR ANDREW | So could I, too. |
+| SIR TOBY | And ask no other dowry with her but such another jest. Enter [[Maria]] |
+| SIR ANDREW | Nor I neither. |
+| FABIAN | Here comes my noble gull-catcher. |
+| SIR TOBY | (to [[Maria]]) Wilt thou set thy foot o’ my neck? |
+| SIR ANDREW | (to [[Maria]]) Or o’ mine either? |
+| SIR TOBY | (to [[Maria]]) Shall I play my [[Freedom|freedom]] at tray-trip, and become thy bondslave? |
+| SIR ANDREW | (to [[Maria]]) I’[[Faith|faith]], or I either? |
+| SIR TOBY | (to [[Maria]]) Why, thou hast put him in such [[A Dream|a dream]] that when the image of it [[Leaves|leaves]] him, he must run mad. |
+| [[Maria|MARIA]] | Nay, but say true, does it work upon him? |
+| SIR TOBY | Like aqua vitae with a midwife. |
+| [[Maria|MARIA]] | If you will then see the fruits of the sport, mark his first approach before my lady. He will come to her in yellow stockings, and ’tis a colour she abhors, and [[Cross|cross]]-gartered, a fashion she detests; and he will smile upon her, which will now be so unsuitable to her disposition, being addicted to a [[Melancholy|melancholy]] as she is, that it cannot but turn him into a notable contempt. If you will see it, follow me. |
+| SIR TOBY | To the gates of Tartar, thou most excellent devil of wit. |
+| SIR ANDREW | I’ll make one, too. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Twelfth Night — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Viola]] as Cesario and [[Feste]] the clown, with pipe and tabor |
+| [[Viola|VIOLA]] | Save thee, friend, and thy music. Dost thou live by thy tabor? |
+| [[Feste|FESTE]] | No, sir, I live by the church. |
+| [[Viola|VIOLA]] | Art thou a churchman? |
+| [[Feste|FESTE]] | No such matter, sir. I do live by the church for I do live at my [[house]], and my [[house]] doth stand by the church. |
+| [[Viola|VIOLA]] | So thou mayst say the [[King|king]] lies by a beggar if a beggar dwell near him, or the church stands by thy tabor if thy tabor stand by the church. |
+| [[Feste|FESTE]] | You have said, sir. To see this age!—A sentence is but a cheverel glove to a good wit, how quickly the wrong side may be turned outward. |
+| [[Viola|VIOLA]] | Nay, that’s certain. They that dally nicely with words may quickly make them wanton. |
+| [[Feste|FESTE]] | I would therefore my sister had had no name, sir. |
+| [[Viola|VIOLA]] | Why, man? |
+| [[Feste|FESTE]] | Why, sir, her name’s a word, and to dally with that word might make my sister wanton. But indeed, words are very rascals since bonds disgraced them. |
+| [[Viola|VIOLA]] | Thy reason, man? |
+| [[Feste|FESTE]] | Troth, sir, I can yield you none without words, and words are grown so false I am loath to prove reason with them. |
+| [[Viola|VIOLA]] | I warrant thou art a merry fellow, and carest for nothing. |
+| [[Feste|FESTE]] | Not so, sir, I do care for something; but in my [[Conscience|conscience]], sir, I do not care for you. If that be to care for nothing, sir, I would it would make you invisible. |
+| [[Viola|VIOLA]] | Art not thou the Lady [[Olivia]]’s [[Fool|fool]]? |
+| [[Feste|FESTE]] | No indeed, sir, the Lady [[Olivia]] has no folly, she will keep no [[Fool|fool]], sir, till she be married, and fools are as like husbands as pilchards are to herrings—the husband’s the bigger. I am indeed not her [[Fool|fool]], but her corrupter of words. |
+| [[Viola|VIOLA]] | I saw thee late at the Count [[Orsino]]’s. |
+| [[Feste|FESTE]] | Foolery, sir, does walk about the orb like the sun, it shines everywhere. I would be sorry, sir, but the [[Fool|fool]] should be as oft with your master as with my mistress. I think I saw your wisdom there. |
+| [[Viola|VIOLA]] | Nay, an thou pass upon me, I’ll no more with thee. (Giving money) Hold, there’s expenses for thee. |
+| [[Feste|FESTE]] | Now Jove in his next commodity of hair send thee a beard. |
+| [[Viola|VIOLA]] | By my troth I’ll tell thee, I am almost sick for one, though I would not have it grow on my chin. Is thy lady within? |
+| [[Feste|FESTE]] | Would not a pair of these have bred, sir? |
+| [[Viola|VIOLA]] | Yes, being kept together and put to use. |
+| [[Feste|FESTE]] | I would play Lord [[Pandarus]] of Phrygia, sir, to bring a [[Cressida]] to this [[Troilus]]. |
+| [[Viola|VIOLA]] | (giving money) I understand you, sir, ’tis [[Well|well]] begged. |
+| [[Feste|FESTE]] | The matter I [[Hope|hope]] is not great, sir; begging but a beggar—[[Cressida]] was a beggar. My lady is within, sir. I will conster to them whence you come. Who you are and what you would are out of my welkin—I might say ‘element’, but the word is over-worn. Exit |
+| [[Viola|VIOLA]] | This fellow is wise enough to play the [[Fool|fool]], And to do that [[Well|well]] craves a kind of wit. He must observe their mood on whom he jests, The quality of persons, and the [[Time|time]], And, like the haggard, check at every feather That comes before his eye. This is a practice As full of labour as a wise man’s art, For folly that he wisely shows is fit, But wise men, folly-fall’n, quite taint their wit. Enter Sir Toby and Sir Andrew |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--02_exchange_sir_toby" data-title="Twelfth Night — Act III, Scene 1 — exchange (SIR TOBY) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SIR TOBY | Save you, gentleman. |
+| [[Viola|VIOLA]] | And you, sir. |
+| SIR ANDREW | Dieu vous garde, monsieur. |
+| [[Viola|VIOLA]] | Et vous aussi, votre serviteur. |
+| SIR ANDREW | I [[Hope|hope]], sir, you are, and I am yours. |
+| SIR TOBY | Will you encounter the [[house]]? My niece is desirous you should enter if your trade be to her. |
+| [[Viola|VIOLA]] | I am bound to your niece, sir: I mean she is the list of my voyage. |
+| SIR TOBY | Taste your legs, sir, put them to motion. |
+| [[Viola|VIOLA]] | My legs do better understand me, sir, than I understand what you mean by bidding me taste my legs. |
+| SIR TOBY | I mean to go, sir, to enter. |
+| [[Viola|VIOLA]] | I will answer you with gait and entrance. Enter [[Olivia]], and [[Maria]], her gentlewoman But we are prevented. (To [[Olivia]]) Most excellent accomplished lady, the heavens rain odours on you. |
+| SIR ANDREW | (to Sir Toby) That youth’s a rare courtier; ‘rain odours’—[[Well|well]]. |
+| [[Viola|VIOLA]] | My matter hath no voice, lady, but to your own most pregnant and vouchsafed ear. |
+| SIR ANDREW | (to Sir Toby) ‘Odours’, ‘pregnant’, and ‘vouchsafed’—I’ll get ’em all three all ready. |
+| [[Olivia|OLIVIA]] | Let the [[Garden|garden]] door be shut, and leave me to my hearing. Exeunt Sir Toby, Sir Andrew, and [[Maria]] Give me your hand, sir. |
+| [[Viola|VIOLA]] | My duty, madam, and most humble service. |
+| [[Olivia|OLIVIA]] | What is your name? |
+| [[Viola|VIOLA]] | Cesario is your servant’s name, fair princess. |
+| [[Olivia|OLIVIA]] | My servant, sir? ’Twas never merry world Since lowly feigning was called compliment. You’re servant to the Count [[Orsino]], youth. |
+| [[Viola|VIOLA]] | And he is yours, and his must needs be yours. Your servant’s servant is your servant, madam. |
+| [[Olivia|OLIVIA]] | For him, I think not on him. For his thoughts, Would they were blanks rather than filled with me. |
+| [[Viola|VIOLA]] | Madam, I come to whet your gentle thoughts On his behalf. |
+| [[Olivia|OLIVIA]] | O by your leave, I pray you. I bade you never speak again of him; But would you undertake another suit, I had rather hear you to solicit that Than music from the spheres. |
+| [[Viola|VIOLA]] | Dear lady— |
+| [[Olivia|OLIVIA]] | Give me leave, beseech you. I did send, After the last enchantment you did here, A ring in chase of you. So did I abuse Myself, my servant, and I [[Fear|fear]] me you. Under your hard construction must I sit, To force that on you in a shameful cunning Which you knew none of yours. What might you think? Have you not set mine [[Honour|honour]] at the stake And baited it with all th’unmuzzled thoughts That tyrannous heart can think? To one of your receiving Enough is shown. A cypress, not a bosom, Hides my heart. So let me hear you speak. |
+| [[Viola|VIOLA]] | I pity you. |
+| [[Olivia|OLIVIA]] | That’s a degree to [[Love|love]]. |
+| [[Viola|VIOLA]] | No, not a grece, for ’tis a vulgar proof That very oft we pity enemies. |
+| [[Olivia|OLIVIA]] | Why then, methinks ’tis [[Time|time]] to smile again. O world, how apt the poor are to be proud! If one should be a prey, how much the better To fall before the [[Lion|lion]] than the wolf! [[Clock]] strikes The [[Clock|clock]] upbraids me with the waste of [[Time|time]]. Be not afraid, good youth, I will not have you; And yet when wit and youth is come to harvest Your wife is like to reap a proper man. There lies your way, due west. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--03_exchange_viola" data-title="Twelfth Night — Act III, Scene 1 — exchange (VIOLA) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Viola|VIOLA]] | Then westward ho! Grace and good disposition attend your ladyship. You’ll nothing, madam, to my lord by me? |
+| [[Olivia|OLIVIA]] | Stay. I prithee tell me what thou think’st of me. |
+| [[Viola|VIOLA]] | That you do think you are not what you are. |
+| [[Olivia|OLIVIA]] | If I think so, I think the same of you. |
+| [[Viola|VIOLA]] | Then think you right, I am not what I am. |
+| [[Olivia|OLIVIA]] | I would you were as I would have you be. |
+| [[Viola|VIOLA]] | Would it be better, madam, than I am? I wish it might, for now I am your [[Fool|fool]]. |
+| [[Olivia|OLIVIA]] | (aside) O, what a deal of scorn looks beautiful In the contempt and anger of his lip! A murd’rous [[Guilt|guilt]] shows not itself more soon Than [[Love|love]] that would seem hid. [[Love]]’s [[Night|night]] is [[Noon|noon]]. (To [[Viola]]) Cesario, by the roses of the [[spring]], By maidhood, [[Honour|honour]], [[Truth|truth]], and everything, I [[Love|love]] thee so that, maugre all thy [[Pride|pride]], Nor wit nor reason can my passion hide. Do not extort thy reasons from this clause, For that I woo, thou therefore hast no cause. But rather reason thus with reason fetter: [[Love]] sought is good, but given unsought, is better. |
+| [[Viola|VIOLA]] | By [[innocence]] I swear, and by my youth, I have one heart, one bosom, and one [[Truth|truth]], And that no woman has, nor never none Shall mistress be of it save I [[Alone|alone]]. And so adieu, good madam. Never more Will I my master’s [[Tears|tears]] to you deplore. |
+| [[Olivia|OLIVIA]] | Yet come again, for thou perhaps mayst move That heart which now abhors, to like his [[Love|love]]. Exeunt severally |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--01_exchange_dialogue" data-title="Twelfth Night — Act III, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Olivia]] and [[Maria]] |
+| [[Olivia|OLIVIA]] | (aside) I have sent after him, he says he’ll come. How shall I feast him? What bestow of him? For youth is bought more oft than begged or borrowed. I speak too loud. (To [[Maria]]) Where’s [[Malvolio]]? He is sad and civil, 5 And suits [[Well|well]] for a servant with my fortunes. Where is [[Malvolio]]? |
+| [[Maria|MARIA]] | He’s coming, madam, but in very strange manner. He is sure possessed, madam. |
+| [[Olivia|OLIVIA]] | Why, what’s the matter? Does he rave? |
+| [[Maria|MARIA]] | No, madam, he does nothing but smile. Your ladyship were best to have some guard about you if he come, for sure the man is tainted in’s wits. |
+| [[Olivia|OLIVIA]] | Go call him hither. Exit [[Maria]] I am as mad as he, If sad and merry [[Madness|madness]] equal be. Enter [[Malvolio]], [[Cross|cross]]-gartered and wearing yellow stockings, with [[Maria]] How now, [[Malvolio]]? |
+| [[Malvolio|MALVOLIO]] | Sweet lady, ho, ho! |
+| [[Olivia|OLIVIA]] | Smil’st thou? I sent for thee upon a sad occasion. |
+| [[Malvolio|MALVOLIO]] | Sad, lady? I could be sad. This does make some obstruction in the [[Blood|blood]], this [[Cross|cross]]-gartering, but what of that? If it please the eye of one, it is with me as the very true [[Sonnet|sonnet]] is, ‘Please one, and please all’. [[Olivia|OLIVIA]] Why, how dost thou, man? What is the matter with thee? |
+| [[Malvolio|MALVOLIO]] | Not black in my mind, though yellow in my legs. It did come to his hands, and commands shall be executed. I think we do know the sweet roman hand. |
+| [[Olivia|OLIVIA]] | Wilt thou go to bed, [[Malvolio]]? |
+| [[Malvolio|MALVOLIO]] | (kissing his hand) To bed? ’Ay, sweetheart, and I’ll come to thee.’ |
+| [[Olivia|OLIVIA]] | God comfort thee. Why dost thou smile so, and kiss thy hand so oft? |
+| [[Maria|MARIA]] | How do you, [[Malvolio]]? |
+| [[Malvolio|MALVOLIO]] | At your request?—yes, nightingales answer daws. |
+| [[Maria|MARIA]] | Why appear you with this ridiculous boldness before my lady? |
+| [[Malvolio|MALVOLIO]] | ‘Be not afraid of [[Greatness|greatness]]’—’twas [[Well|well]] writ. |
+| [[Olivia|OLIVIA]] | What meanest thou by that, [[Malvolio]]? |
+| [[Malvolio|MALVOLIO]] | ‘Some are born great’— |
+| [[Olivia|OLIVIA]] | Ha? |
+| [[Malvolio|MALVOLIO]] | ‘Some achieve [[Greatness|greatness]]’— |
+| [[Olivia|OLIVIA]] | What sayst thou? |
+| [[Malvolio|MALVOLIO]] | ‘And some have [[Greatness|greatness]] thrust upon them.’ |
+| [[Olivia|OLIVIA]] | Heaven restore thee. |
+| [[Malvolio|MALVOLIO]] | ‘Remember who commended thy yellow stockings’— |
+| [[Olivia|OLIVIA]] | ‘Thy yellow stockings’? |
+| [[Malvolio|MALVOLIO]] | ‘And wished to see thee [[Cross|cross]]-gartered.’ |
+| [[Olivia|OLIVIA]] | ‘[[Cross]]-gartered’? |
+| [[Malvolio|MALVOLIO]] | ‘Go to, thou art made, if thou desirest to be so.’ |
+| [[Olivia|OLIVIA]] | Am I made? |
+| [[Malvolio|MALVOLIO]] | ‘If not, let me see thee a servant still.’ |
+| [[Olivia|OLIVIA]] | Why, this is very midsummer [[Madness|madness]]. Enter a Servant |
+| SERVANT | Madam, the young gentleman of the Count [[Orsino]]’s is returned. I could hardly entreat him back. He attends your ladyship’s pleasure. |
+| [[Olivia|OLIVIA]] | I’ll come to him. Exit Servant Good [[Maria]], let this fellow be looked to. Where’s my cousin Toby? Let some of my people have a special care of him, I would not have him miscarry for the half of my dowry. Exeunt [[Olivia]] and [[Maria]], severally |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--02_monologue_malvolio_o" data-title="Twelfth Night — Act III, Scene 4 — monologue (MALVOLIO O) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Malvolio|MALVOLIO]] | O ho, do you come near me now? No worse man than Sir Toby to look to me. This concurs directly with the letter, she sends him on purpose, that I may appear stubborn to him, for she incites me to that in the letter. ‘Cast thy humble slough,’ says she, ‘be opposite with a kinsman, surly with servants, let thy tongue tang arguments of state, put thyself into the trick of singularity’, and consequently sets down the manner how, as a sad face, a reverend carriage, a slow tongue, in the habit of some sir of note, and so forth. I have limed her, but it is Jove’s doing, and Jove make me thankful. And when she went away now, ‘let this fellow be looked to’. Fellow!—not ‘[[Malvolio]]’, nor after my degree, but ‘fellow’. Why, everything adheres together that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstance—what can be said?—nothing that can be can come between me and the full prospect of my hopes. [[Well]], Jove, not I, is the doer of this, and he is to be thanked. Enter Sir Toby, Fabian, and [[Maria]] |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--03_exchange_sir_toby" data-title="Twelfth Night — Act III, Scene 4 — exchange (SIR TOBY) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SIR TOBY | Which way is he, in the name of sanctity? If all the devils of hell be drawn in little, and Legion himself possessed him, yet I’ll speak to him. |
+| FABIAN | Here he is, here he is. (To [[Malvolio]]) How is’t with you, sir? How is’t with you, man? |
+| [[Malvolio|MALVOLIO]] | Go off, I discard you. Let me enjoy my private. Go off. |
+| [[Maria|MARIA]] | Lo, how hollow the fiend speaks within him. Did not I tell you? Sir Toby, my lady prays you to have a care of him. |
+| [[Malvolio|MALVOLIO]] | Aha, does she so? |
+| SIR TOBY | Go to, go to. Peace, peace, we must deal gently with him. Let me [[Alone|alone]]. How do you, [[Malvolio]]? How is’t with you? What, man, defy the devil. Consider, he’s an enemy to mankind. |
+| [[Malvolio|MALVOLIO]] | Do you know what you say? |
+| [[Maria|MARIA]] | La you, an you speak ill of the devil, how he takes it at heart. Pray God he be not bewitched. |
+| FABIAN | Carry his [[Water|water]] to th’ wise woman. |
+| [[Maria|MARIA]] | Marry, and it shall be done tomorrow morning, if I live. My lady would not lose him for more than I’ll say. |
+| [[Malvolio|MALVOLIO]] | How now, mistress? |
+| [[Maria|MARIA]] | O Lord! |
+| SIR TOBY | Prithee hold thy peace, this is not the way. Do you not see you move him? Let me [[Alone|alone]] with him. |
+| FABIAN | No way but gentleness, gently, gently. The fiend is rough, and will not be roughly used. |
+| SIR TOBY | Why how now, my bawcock? How dost thou, chuck? |
+| [[Malvolio|MALVOLIO]] | Sir! |
+| SIR TOBY | Ay, [[Biddy|biddy]], come with me. What man, ’tis not for gravity to play at cherry-pit with [[Satan]]. Hang him, foul collier. |
+| [[Maria|MARIA]] | Get him to say his prayers. Good Sir Toby, get him to pray. |
+| [[Malvolio|MALVOLIO]] | My prayers, minx? |
+| [[Maria|MARIA]] | No, I warrant you, he will not hear of godliness. |
+| [[Malvolio|MALVOLIO]] | Go hang yourselves, all. You are idle shallow things, I am not of your element. You shall know more hereafter. Exit |
+| SIR TOBY | Is’t possible? |
+| FABIAN | If this were played upon a stage, now, I could condemn it as an improbable fiction. |
+| SIR TOBY | His very genius hath taken the infection of the device, man. |
+| [[Maria|MARIA]] | Nay, pursue him now, lest the device take air and taint. |
+| FABIAN | Why, we shall make him mad indeed. |
+| [[Maria|MARIA]] | The [[house]] will be the quieter. |
+| SIR TOBY | Come, we’ll have him in a dark room and bound. My niece is already in the belief that he’s mad. We may carry it thus for our pleasure and his penance till our very pastime, tired out of breath, prompt us to have [[Mercy|mercy]] on him, at which [[Time|time]] we will bring the device to the bar and [[Crown|crown]] thee for a finder of madmen. But see, but see. Enter Sir Andrew with a paper |
+| FABIAN | More matter for a May morning. |
+| SIR ANDREW | Here’s the challenge, read it. I warrant there’s vinegar and pepper in’t. |
+| FABIAN | Is’t so saucy? |
+| SIR ANDREW | Ay—is’t? I warrant him. Do but read. |
+| SIR TOBY | Give me. (Reads) ‘Youth, whatsoever thou art, thou art but a scurvy fellow.’ |
+| FABIAN | Good, and valiant. |
+| SIR TOBY | ‘[[Wonder]] not, nor admire not in thy mind why I do call thee so, for I will show thee no reason for’t.’ |
+| FABIAN | A good note, that keeps you from the blow of the law. |
+| SIR TOBY | ‘Thou comest to the Lady [[Olivia]], and in my sight she uses thee kindly; but thou liest in thy throat, that is not the matter I challenge thee for.’ 155 |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--04_exchange_fabian" data-title="Twelfth Night — Act III, Scene 4 — exchange (FABIAN) [4]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FABIAN | Very brief, and to exceeding good sense (aside) -less. |
+| SIR TOBY | ‘I will waylay thee going [[Home|home]], where if it be thy chance to kill me’— |
+| FABIAN | Good. |
+| SIR TOBY | ‘Thou killest me like a rogue and a [[Villain|villain]].’ |
+| FABIAN | Still you keep o’th’ windy side of the law—good. |
+| SIR TOBY | ‘Fare thee [[Well|well]], and God have [[Mercy|mercy]] upon one of our souls. He may have [[Mercy|mercy]] upon mine, but my [[Hope|hope]] is better, and so look to thyself. Thy friend as thou usest him, and thy sworn enemy, Andrew Aguecheek.’ If this letter move him not, his legs cannot. I’ll give’t him. |
+| [[Maria|MARIA]] | You may have very fit occasion for’t. He is now in some commerce with my lady, and will by and by depart. |
+| SIR TOBY | Go, Sir Andrew. Scout me for him at the corner of the orchard like a bum-baily. So soon as ever thou seest him, draw, and as thou drawest, swear horrible, for it comes to pass oft that a terrible oath, with a swaggering accent sharply twanged off, gives manhood more approbation than ever proof itself would have earned him. Away. |
+| SIR ANDREW | Nay, let me [[Alone|alone]] for swearing. Exit |
+| SIR TOBY | Now will not I deliver his letter, for the behaviour of the young gentleman gives him out to be of good capacity and breeding. His employment between his lord and my niece confirms no less. Therefore this letter, being so excellently ignorant, will breed no terror in the youth. He will find it comes from a clodpoll. But, sir, I will deliver his challenge by word of mouth, set upon Aguecheek a notable report of valour, and drive the gentleman—as I know his youth will aptly receive it—into a most hideous opinion of his rage, skill, fury, and impetuosity. This will so fright them both that they will kill one another by the look, like cockatrices. Enter [[Olivia]], and [[Viola]] as Cesario |
+| FABIAN | Here he comes with your niece. Give them way till he take leave, and presently after him. |
+| SIR TOBY | I will meditate the while upon some horrid message for a challenge. Exeunt Sir Toby, Fabian, and [[Maria]] |
+| [[Olivia|OLIVIA]] | I have said too much unto a heart of stone, And laid mine [[Honour|honour]] too unchary out. There’s something in me that reproves my fault, But such a headstrong potent fault it is That it but mocks reproof. |
+| [[Viola|VIOLA]] | With the same ’haviour That your passion bears goes on my master’s griefs. |
+| [[Olivia|OLIVIA]] | (giving a [[Jewel|jewel]]) Here, wear this [[Jewel|jewel]] for me, ’tis my picture— Refuse it not, it hath no tongue to vex you— And I beseech you come again tomorrow. What shall you ask of me that I’ll deny, That [[Honour|honour]], saved, may upon asking give? |
+| [[Viola|VIOLA]] | Nothing but this: your true [[Love|love]] for my master. |
+| [[Olivia|OLIVIA]] | How with mine [[Honour|honour]] may I give him that Which I have given to you? |
+| [[Viola|VIOLA]] | I will acquit you. |
+| [[Olivia|OLIVIA]] | [[Well]], come again tomorrow. Fare thee [[Well|well]]. A fiend like thee might bear my [[Soul|soul]] to hell. Exit Enter Sir Toby and Fabian |
+| SIR TOBY | Gentleman, God save thee. |
+| [[Viola|VIOLA]] | And you, sir. |
+| SIR TOBY | That defence thou hast, betake thee to’t. Of what [[Nature|nature]] the wrongs are thou hast done him, I know not, but thy intercepter, full of despite, bloody as the hunter, attends thee at the orchard end. Dismount thy tuck, be yare in thy preparation, for thy assailant is quick, skilful, and deadly. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--05_exchange_viola" data-title="Twelfth Night — Act III, Scene 4 — exchange (VIOLA) [5]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Viola|VIOLA]] | You mistake, sir, I am sure no man hath any quarrel to me. My remembrance is very free and clear from any image of offence done to any man. |
+| SIR TOBY | You’ll find it otherwise, I assure you. Therefore, if you hold your life at any price, betake you to your guard, for your opposite hath in him what youth, strength, skill, and wrath can furnish man withal. |
+| [[Viola|VIOLA]] | I pray you, sir, what is he? |
+| SIR TOBY | He is knight dubbed with unhatched rapier and on carpet consideration, but he is a devil in private brawl. Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of [[Death|death]] and sepulchre. Hob nob is his word, give’t or take’t. |
+| [[Viola|VIOLA]] | I will return again into the [[house]] and [[Desire|desire]] some conduct of the lady. I am no fighter. I have heard of some kind of men that put quarrels purposely on others, to taste their valour. Belike this is a man of that quirk. |
+| SIR TOBY | Sir, no. His indignation derives itself out of a very competent injury, therefore get you on, and give him his [[Desire|desire]]. Back you shall not to the [[house]] unless you undertake that with me which with as much safety you might answer him. Therefore on, or strip your [[Sword|sword]] stark naked, for meddle you must, that’s certain, or forswear to wear iron about you. |
+| [[Viola|VIOLA]] | This is as uncivil as strange. I beseech you do me this courteous office, as to know of the knight what my offence to him is. It is something of my negligence, nothing of my purpose. |
+| SIR TOBY | I will do so. Signor Fabian, stay you by this gentleman till my return. Exit |
+| [[Viola|VIOLA]] | Pray you, sir, do you know of this matter? |
+| FABIAN | I know the knight is incensed against you even to a mortal arbitrement, but nothing of the circumstance more. |
+| [[Viola|VIOLA]] | I beseech you, what manner of man is he? |
+| FABIAN | Nothing of that wonderful promise to read him by his form as you are like to find him in the proof of his valour. He is indeed, sir, the most skilful, bloody, and fatal opposite that you could possibly have found in any part of Illyria. Will you walk towards him, I will make your peace with him if I can. |
+| [[Viola|VIOLA]] | I shall be much bound to you for’t. I am one that had rather go with Sir Priest than Sir Knight—I care not who knows so much of my mettle. Exeunt Enter Sir Toby and Sir Andrew |
+| SIR TOBY | Why, man, he’s a very devil, I have not seen such a virago. I had a pass with him, rapier, scabbard, and all, and he gives me the stuck-in with such a mortal motion that it is inevitable, and on the answer, he pays you as surely as your feet hits the ground they step on. They say he has been fencer to the Sophy. |
+| SIR ANDREW | Pox on’t, I’ll not meddle with him. |
+| SIR TOBY | Ay, but he will not now be pacified, Fabian can scarce hold him yonder. |
+| SIR ANDREW | Plague on’t, an I thought he had been valiant and so cunning in fence I’d have seen him damned ere I’d have challenged him. Let him let the matter slip and I’ll give him my [[Horse|horse]], grey [[Capulet]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--06_exchange_sir_toby" data-title="Twelfth Night — Act III, Scene 4 — exchange (SIR TOBY) [6]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SIR TOBY | I’ll make the motion. Stand here, make a good show on’t—this shall end without the perdition of souls. (Aside) Marry, I’ll ride your [[Horse|horse]] as [[Well|well]] as I ride you. Enter Fabian, and [[Viola]] as Cesario [Aside to Fabian] I have his [[Horse|horse]] to take up the quarrel, I have persuaded him the youth’s a devil. |
+| FABIAN | (aside to Sir Toby) He is as horribly conceited of him, and pants and looks pale as if a bear were at his heels. |
+| SIR TOBY | (to [[Viola]]) There’s no remedy, sir, he will fight with you for’s oath’ sake. Marry, he hath better bethought him of his quarrel, and he finds that now scarce to be worth talking of. Therefore draw for the supportance of his vow, he protests he will not hurt you. |
+| [[Viola|VIOLA]] | (aside) Pray God defend me. A little thing would make me tell them how much I lack of a man. |
+| FABIAN | (to Sir Andrew) Give ground if you see him furious. |
+| SIR TOBY | Come, Sir Andrew, there’s no remedy, the gentleman will for his [[Honour|honour]]’s sake have one bout with you, he cannot by the duello avoid it, but he has promised me, as he is a gentleman and a soldier, he will not hurt you. Come on, to’t. |
+| SIR ANDREW | Pray God he keep his oath. Enter [[Antonio]] |
+| [[Viola|VIOLA]] | I do assure you ’tis against my will. Sir Andrew and [[Viola]] draw their swords |
+| [[Antonio|ANTONIO]] | (drawing his [[Sword|sword]], to Sir Andrew) Put up your [[Sword|sword]]. If this young gentleman Have done offence, I take the fault on me. If you offend him, I for him defy you. |
+| SIR TOBY | You, sir? Why, what are you? |
+| [[Antonio|ANTONIO]] | One, sir, that for his [[Love|love]] dares yet do more Than you have heard him brag to you he will. |
+| SIR TOBY | (drawing his [[Sword|sword]]) Nay, if you be an undertaker, I am for you. Enter Officers |
+| FABIAN | O, good Sir Toby, hold. Here come the officers. |
+| SIR TOBY | (to [[Antonio]]) I’ll be with you anon. |
+| [[Viola|VIOLA]] | (to Sir Andrew) Pray, sir, put your [[Sword|sword]] up if you please. |
+| SIR ANDREW | Marry will I, sir, and for that I promised you I’ll be as good as my word. He will bear you easily, and reins [[Well|well]]. Sir Andrew and [[Viola]] put up their swords |
+| FIRST OFFICER | This is the man, do thy office. |
+| SECOND OFFICER | [[Antonio]], I arrest thee at the suit of Count [[Orsino]]. |
+| [[Antonio|ANTONIO]] | You do mistake me, sir. |
+| FIRST OFFICER | No, sir, no jot. I know your favour [[Well|well]], Though now you have no seacap on your head. (To Second Officer) Take him away, he knows I know him [[Well|well]]. |
+| [[Antonio|ANTONIO]] | I must obey. (To [[Viola]]) This comes with seeking you. But there’s no remedy, I shall answer it. What will you do now my necessity Makes me to ask you for my purse? It grieves me Much more for what I cannot do for you Than what befalls myself. You stand amazed, But be of comfort. |
+| SECOND OFFICER | Come, sir, away. |
+| [[Antonio|ANTONIO]] | (to [[Viola]]) I must entreat of you some of that money. |
+| [[Viola|VIOLA]] | What money, sir? For the fair kindness you have showed me here, And part being prompted by your present trouble, Out of my lean and low ability I’ll lend you something. My having is not much. I’ll make division of my present with you. Hold, (offering money) there’s half my coffer. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--07_exchange_antonio" data-title="Twelfth Night — Act III, Scene 4 — exchange (ANTONIO) [7]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Antonio|ANTONIO]] | Will you deny me now? Is’t possible that my deserts to you Can lack [[Persuasion|persuasion]]? Do not tempt my misery, Lest that it make me so unsound a man As to upbraid you with those kindnesses That I have done for you. |
+| [[Viola|VIOLA]] | I know of none, Nor know I you by voice, or any feature. I hate ingratitude more in a man Than lying, vainness, babbling drunkenness, Or any taint of vice whose strong corruption Inhabits our frail [[Blood|blood]]. |
+| [[Antonio|ANTONIO]] | O heavens themselves! |
+| SECOND OFFICER | Come, sir, I pray you go. |
+| [[Antonio|ANTONIO]] | Let me speak a little. This youth that you see here I snatched one half out of the jaws of [[Death|death]], Relieved him with such sanctity of [[Love|love]], And to his image, which methought did promise Most venerable worth, did I devotion. |
+| FIRST OFFICER | What’s that to us? The [[Time|time]] goes by, away. |
+| [[Antonio|ANTONIO]] | But O, how vile an idol proves this god! Thou hast, [[Sebastian]], done good feature shame. In [[Nature|nature]] there’s no blemish but the mind. None can be called deformed but the unkind. Virtue is [[Beauty|beauty]], but the beauteous evil Are empty trunks o’er-flourished by the devil. |
+| FIRST OFFICER | The man grows mad, away with him. Come, come, sir. |
+| [[Antonio|ANTONIO]] | Lead me on. Exit with Officers |
+| [[Viola|VIOLA]] | (aside) Methinks his words do from such passion fly That he believes himself. So do not I. Prove true, [[Imagination|imagination]], O prove true, That I, dear brother, be now ta’en for you! |
+| SIR TOBY | Come hither, knight. Come hither, Fabian. We’ll whisper o’er a couplet or two of most sage saws. They stand aside |
+| [[Viola|VIOLA]] | He named [[Sebastian]]. I my brother know Yet living in my glass. Even such and so In favour was my brother, and he went Still in this fashion, colour, ornament, For him I imitate. O, if it prove, Tempests are kind, and salt waves fresh in [[Love|love]]! Exit |
+| SIR TOBY | (to Sir Andrew) A very dishonest, paltry boy, and more a coward than a hare. His dishonesty appears in leaving his friend here in necessity, and denying him; and for his cowardship, ask Fabian. |
+| FABIAN | A coward, a most devout coward, religious in it. |
+| SIR ANDREW | ’Slid, I’ll after him again, and beat him. |
+| SIR TOBY | Do, cuff him soundly, but never draw thy [[Sword|sword]]. |
+| SIR ANDREW | An I do not— Exit |
+| FABIAN | Come, let’s see the event. |
+| SIR TOBY | I dare lay any money ’twill be nothing yet. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="Twelfth Night — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Feste]] the clown and Fabian |
+| FABIAN | Now, as thou lovest me, let me see his letter. |
+| [[Feste|FESTE]] | Good Master Fabian, grant me another request. |
+| FABIAN | Anything. |
+| [[Feste|FESTE]] | Do not [[Desire|desire]] to see this letter. |
+| FABIAN | This is to give a dog, and in recompense [[Desire|desire]] my dog again. Enter the Duke, [[Viola]] as Cesario, Curio, and lords |
+| [[Orsino|ORSINO]] | Belong you to the Lady [[Olivia]], friends? |
+| [[Feste|FESTE]] | Ay, sir, we are some of her trappings. |
+| [[Orsino|ORSINO]] | I know thee [[Well|well]]. How dost thou, my good fellow? [[Feste|FESTE]] Truly, sir, the better for my foes and the worse for my friends. |
+| [[Orsino|ORSINO]] | Just the contrary—the better for thy friends. |
+| [[Feste|FESTE]] | No, sir, the worse. |
+| [[Orsino|ORSINO]] | How can that be? |
+| [[Feste|FESTE]] | Marry, sir, they praise me, and make an ass of me. Now my foes tell me plainly I am an ass, so that by my foes, sir, I profit in the knowledge of myself, and by my friends I am abused; so that, conclusions to be as kisses, if your four negatives make your two affirmatives, why then the worse for my friends and the better for my foes. |
+| [[Orsino|ORSINO]] | Why, this is excellent. |
+| [[Feste|FESTE]] | By my troth, sir, no, though it please you to be one of my friends. |
+| [[Orsino|ORSINO]] | (giving money) Thou shalt not be the worse for me. There’s gold. |
+| [[Feste|FESTE]] | But that it would be [[Double|double]]-dealing, sir, I would you could make it another. |
+| [[Orsino|ORSINO]] | O, you give me ill counsel. |
+| [[Feste|FESTE]] | Put your grace in your pocket, sir, for this once, and let your flesh and [[Blood|blood]] obey it. |
+| [[Orsino|ORSINO]] | [[Well]], I will be so much a sinner to be a [[Double|double]]-dealer. (Giving money) There’s another. |
+| [[Feste|FESTE]] | Primo, secundo, tertio is a good play, and the old saying is ‘The third pays for all’. The triplex, sir, is a good tripping measure, or [[The Bells|the bells]] of Saint Bennet, sir, may put you in mind—‘one, two, three’. |
+| [[Orsino|ORSINO]] | You can [[Fool|fool]] no more money out of me at this throw. If you will let your lady know I am here to speak with her, and bring her along with you, it may awake my bounty further. |
+| [[Feste|FESTE]] | Marry, sir, lullaby to your bounty till I come again. I go, sir, but I would not have you to think that my [[Desire|desire]] of having is the sin of covetousness. But as you say, sir, let your bounty take a nap, I will awake it anon. Exit Enter [[Antonio]] and Officers |
+| [[Viola|VIOLA]] | Here comes the man, sir, that did rescue me. |
+| [[Orsino|ORSINO]] | That face of his I do remember [[Well|well]], Yet when I saw it last it was besmeared As black as Vulcan in the smoke of war. A baubling vessel was he captain of, For shallow draught and bulk unprizable, With which such scatheful grapple did he make With the most noble [[Bottom|bottom]] of our fleet That very envy and the tongue of loss Cried fame and [[Honour|honour]] on him. What’s the matter? |
+| FIRST OFFICER | [[Orsino]], this is that [[Antonio]] That took the Phoenix and her freight from Candy, And this is he that did the Tiger board When your young nephew Titus lost his leg. Here in the streets, desperate of shame and state, In private brabble did we apprehend him. |
+| [[Viola|VIOLA]] | He did me kindness, sir, drew on my side, But in conclusion put strange speech upon me. I know not what ’twas but distraction. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--02_exchange_orsino" data-title="Twelfth Night — Act V, Scene 1 — exchange (ORSINO) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Orsino|ORSINO]] | (to [[Antonio]]) Notable pirate, thou salt-[[Water|water]] thief, What foolish boldness brought thee to their mercies Whom thou in terms so bloody and so dear Hast made thine enemies? |
+| [[Antonio|ANTONIO]] | [[Orsino]], noble sir, Be pleased that I shake off these names you give me. [[Antonio]] never yet was thief or pirate, Though, I confess, on base and ground enough [[Orsino]]’s enemy. A witchcraft drew me hither. That most ingrateful boy there by your side From the rude sea’s enraged and foamy mouth Did I redeem. A wreck past [[Hope|hope]] he was. His life I gave him, and did thereto add My [[Love|love]] without retention or restraint, All his in dedication. For his sake Did I expose myself, pure for his [[Love|love]], Into the danger of this adverse town, Drew to defend him when he was beset, Where being apprehended, his false cunning— Not meaning to partake with me in danger— Taught him to face me out of his acquaintance, And grew a twenty years’ removed thing While one would wink, denied me mine own purse, Which I had recommended to his use Not half an hour before. |
+| [[Viola|VIOLA]] | How can this be? |
+| [[Orsino|ORSINO]] | When came he to this town? |
+| [[Antonio|ANTONIO]] | Today, my lord, and for three months before, No int’rim, not a minute’s vacancy, Both day and [[Night|night]] did we keep company. Enter [[Olivia]] and attendants |
+| [[Orsino|ORSINO]] | Here comes the Countess. Now heaven walks on earth. But for thee, fellow—fellow, thy words are [[Madness|madness]]. Three months this youth hath tended upon me. But more of that anon. Take him aside. |
+| [[Olivia|OLIVIA]] | What would my lord, but that he may not have, Wherein [[Olivia]] may seem serviceable? Cesario, you do not keep promise with me. |
+| [[Viola|VIOLA]] | Madam— |
+| [[Orsino|ORSINO]] | Gracious [[Olivia]]— |
+| [[Olivia|OLIVIA]] | What do you say, Cesario? Good my lord— |
+| [[Viola|VIOLA]] | My lord would speak, my duty hushes me. |
+| [[Olivia|OLIVIA]] | If it be aught to the old tune, my lord, It is as fat and fulsome to mine ear As howling after music. |
+| [[Orsino|ORSINO]] | Still so cruel? |
+| [[Olivia|OLIVIA]] | Still so constant, lord. |
+| [[Orsino|ORSINO]] | What, to perverseness? You uncivil lady, To whose ingrate and unauspicious altars My [[Soul|soul]] the faithfull‘st off’rings hath breathed out That e’er devotion tendered—what shall I do? |
+| [[Olivia|OLIVIA]] | Even what it please my lord that shall become him. |
+| [[Orsino|ORSINO]] | Why should I not, had I the heart to do it, Like to th’ Egyptian thief, at point of [[Death|death]] Kill what I [[Love|love]]—a savage [[Jealousy|jealousy]] That sometime savours nobly. But hear me this: Since you to non-regardance cast my [[Faith|faith]], And that I partly know the instrument That screws me from my true place in your favour, Live you the marble-breasted [[Tyrant|tyrant]] still. But this your minion, whom I know you [[Love|love]], And whom, by heaven I swear, I tender dearly, Him will I tear out of that cruel eye Where he sits crowned in his master’s spite. (To [[Viola]]) Come, boy, with me. My thoughts are ripe in mischief. I’ll sacrifice the [[Lamb|lamb]] that I do [[Love|love]] To spite a raven’s heart within a dove. |
+| [[Viola|VIOLA]] | And I most jocund, apt, and willingly To do you rest a thousand deaths would die. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--03_exchange_olivia" data-title="Twelfth Night — Act V, Scene 1 — exchange (OLIVIA) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Olivia|OLIVIA]] | Where goes Cesario? |
+| [[Viola|VIOLA]] | After him I [[Love|love]] More than I [[Love|love]] these eyes, more than my life, More by all mores than e’er I shall [[Love|love]] wife. If I do feign, you witnesses above, Punish my life for tainting of my [[Love|love]]. |
+| [[Olivia|OLIVIA]] | Ay me detested, how am I beguiled! |
+| [[Viola|VIOLA]] | Who does beguile you? Who does do you wrong? |
+| [[Olivia|OLIVIA]] | Hast thou forgot thyself? Is it so long? Call forth the holy father. Exit an attendant |
+| [[Orsino|ORSINO]] | (to [[Viola]]) Come, away. |
+| [[Olivia|OLIVIA]] | Whither, my lord? Cesario, husband, stay. |
+| [[Orsino|ORSINO]] | Husband? |
+| [[Olivia|OLIVIA]] | Ay, husband. Can he that deny? |
+| [[Orsino|ORSINO]] | (to [[Viola]]) Her husband, sirrah? |
+| [[Viola|VIOLA]] | No, my lord, not I. |
+| [[Olivia|OLIVIA]] | Alas, it is the baseness of thy [[Fear|fear]] That makes thee strangle thy propriety. [[Fear]] not, Cesario, take thy fortunes up, Be that thou know‘st thou art, and then thou art As great as that thou [[Fear|fear]]’st. Enter the Priest O welcome, father. Father, I charge thee by thy reverence Here to unfold—though lately we intended To keep in darkness what occasion now Reveals before ’tis ripe—what thou dost know Hath newly passed between this youth and me. |
+| PRIEST | A contract of eternal bond of [[Love|love]], Confirmed by mutual joinder of your hands, Attested by the holy close of lips, Strengthened by interchangement of your rings, And all the ceremony of this compact Sealed in my function, by my testimony; Since when, my watch hath told me, toward my [[Grave|grave]] I have travelled but two hours. |
+| [[Orsino|ORSINO]] | (to [[Viola]]) O thou dissembling cub, what wilt thou be When [[Time|time]] hath sowed a grizzle on thy case? Or will not else thy craft so quickly grow That thine own trip shall be thine overthrow? Farewell, and take her, but direct thy feet Where thou and I henceforth may never meet. |
+| [[Viola|VIOLA]] | My lord, I do protest. |
+| [[Olivia|OLIVIA]] | O, do not swear! Hold little [[Faith|faith]], though thou hast too much [[Fear|fear]]. Enter Sir Andrew |
+| SIR ANDREW | For the [[Love|love]] of God, a surgeon—send one presently to Sir Toby. |
+| [[Olivia|OLIVIA]] | What’s the matter? |
+| SIR ANDREW | He’s broke my head across, and has given Sir Toby a bloody coxcomb, too. For the [[Love|love]] of God, your help! I had rather than forty pound I were at [[Home|home]]. |
+| [[Olivia|OLIVIA]] | Who has done this, Sir Andrew? |
+| SIR ANDREW | The Count’s gentleman, one Cesario. We took him for a coward, but he’s the very devil incardinate. |
+| [[Orsino|ORSINO]] | My gentleman, Cesario? |
+| SIR ANDREW | ’Od’s lifelings, here he is. (To [[Viola]]) You broke my head for nothing, and that that I did I was set on to do’t by Sir Toby. |
+| [[Viola|VIOLA]] | Why do you speak to me? I never hurt you. You drew your [[Sword|sword]] upon me without cause, But I bespake you fair, and hurt you not. Enter Sir Toby and [[Feste]], the clown |
+| SIR ANDREW | If a bloody coxcomb be a hurt you have hurt me. I think you set nothing by a bloody coxcomb. Here comes Sir Toby, halting. You shall hear more; but if he had not been in drink he would have tickled you othergates than he did. |
+| [[Orsino|ORSINO]] | (to Sir Toby) How now, gentleman? How is’t with you? |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--04_exchange_sir_toby" data-title="Twelfth Night — Act V, Scene 1 — exchange (SIR TOBY) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SIR TOBY | That’s all one, he’s hurt me, and there’s th’end on’t. (To [[Feste]]) Sot, didst see Dick Surgeon, sot? |
+| [[Feste|FESTE]] | O, he’s drunk, Sir Toby, an hour agone. His eyes were set at eight i’th’ morning. |
+| SIR TOBY | Then he’s a rogue, and a passy-measures pavan. I hate a drunken rogue. |
+| [[Olivia|OLIVIA]] | Away with him! Who hath made this havoc with them? |
+| SIR ANDREW | I’ll help you, Sir Toby, because we’ll be dressed together. |
+| SIR TOBY | Will you help—an ass-head, and a coxcomb, and a knave; a thin-faced knave, a gull? |
+| [[Olivia|OLIVIA]] | Get him to bed, and let his hurt be looked to. Exeunt Sir Toby, Sir Andrew, [[Feste]], and Fabian Enter [[Sebastian]] |
+| [[Sebastian|SEBASTIAN]] | (to [[Olivia]]) I am sorry, madam, I have hurt your kinsman, But had it been the brother of my [[Blood|blood]] I must have done no less with wit and safety. You throw a strange regard upon me, and by that I do perceive it hath offended you. Pardon me, sweet one, even for the vows We made each other but so late ago. |
+| [[Orsino|ORSINO]] | One face, one voice, one habit, and two persons, A natural perspective, that is and is not. |
+| [[Sebastian|SEBASTIAN]] | [[Antonio]]! O, my dear [[Antonio]], How have the hours racked and tortured me Since I have lost thee! |
+| [[Antonio|ANTONIO]] | [[Sebastian]] are you? |
+| [[Sebastian|SEBASTIAN]] | [[Fear]]’st thou that, [[Antonio]]? |
+| [[Antonio|ANTONIO]] | How have you made division of yourself? An apple cleft in two is not more twin Than these two creatures. Which is [[Sebastian]]? |
+| [[Olivia|OLIVIA]] | Most wonderfull |
+| [[Sebastian|SEBASTIAN]] | (seeing [[Viola]]) Do I stand there? I never had a brother, Nor can there be that deity in my [[Nature|nature]] Of here and everywhere. I had a sister, Whom the blind waves and surges have devoured. Of [[Charity|charity]], what kin are you to me? What countryman? What name? What parentage? |
+| [[Viola|VIOLA]] | Of Messaline. [[Sebastian]] was my father. Such a [[Sebastian]] was my brother, too. So went he suited to his watery tomb. If spirits can assume both form and suit You come to fright us. |
+| [[Sebastian|SEBASTIAN]] | A spirit I am indeed, But am in that dimension grossly clad Which from the womb I did participate. Were you a woman, as the rest goes even, I should my [[Tears|tears]] let fall upon your cheek And say ‘Thrice welcome, drowned [[Viola]].’ |
+| [[Viola|VIOLA]] | My father had a mole upon his brow |
+| [[Sebastian|SEBASTIAN]] | And so had mine. |
+| [[Viola|VIOLA]] | And died that day when [[Viola]] from her birth Had numbered thirteen years. |
+| [[Sebastian|SEBASTIAN]] | O, that record is lively in my [[Soul|soul]]. He finished indeed his mortal act That day that made my sister thirteen years. |
+| [[Viola|VIOLA]] | If nothing lets to make us happy both But this my masculine usurped attire, Do not embrace me till each circumstance Of place, [[Time|time]], fortune do cohere and jump That I am [[Viola]], which to confirm I’ll bring you to a captain in this town Where lie my maiden weeds, by whose gentle help I was preserved to serve this noble count. All the occurrence of my fortune since Hath been between this lady and this lord. |
+| [[Sebastian|SEBASTIAN]] | (to [[Olivia]]) So comes it, lady, you have been mistook. But [[Nature|nature]] to her bias drew in that. You would have been contracted to a maid, Nor are you therein, by my life, deceived. You are betrothed both to a maid and man. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--05_exchange_orsino" data-title="Twelfth Night — Act V, Scene 1 — exchange (ORSINO) [5]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Orsino|ORSINO]] | (to [[Olivia]]) Be not amazed. Right noble is his [[Blood|blood]]. If this be so, as yet the glass seems true, I shall have share in this most happy wreck. (To [[Viola]]) Boy, thou hast said to me a thousand times Thou never shouldst [[Love|love]] woman like to me. |
+| [[Viola|VIOLA]] | And all those sayings will I overswear, And all those swearings keep as true in [[Soul|soul]] As doth that orbed continent the [[Fire|fire]] That severs day from [[Night|night]]. |
+| [[Orsino|ORSINO]] | Give me thy hand, And let me see thee in thy woman’s weeds. |
+| [[Viola|VIOLA]] | The captain that did bring me first on shore Hath my maid’s garments. He upon some action Is now in durance, at [[Malvolio]]’s suit, A gentleman and follower of my lady’s. |
+| [[Olivia|OLIVIA]] | He shall enlarge him. Fetch [[Malvolio]] hither— And yet, alas, now I remember me, They say, poor gentleman, he’s much distraught. Enter [[Feste]] the clown with a letter, and Fabian A most extracting frenzy of mine own From my remembrance clearly banished his. How does he, sirrah? |
+| [[Feste|FESTE]] | Truly, madam, he holds Beelzebub at the stave’s end as [[Well|well]] as a man in his case may do. He’s here writ a letter to you. I should have given’t you today morning. But as a madman’s epistles are no gospels, so it skills not much when they are delivered. |
+| [[Olivia|OLIVIA]] | Open’t and read it. |
+| [[Feste|FESTE]] | Look then to be [[Well|well]] edified when the [[Fool|fool]] delivers the madman. (Reads) ‘By the Lord, madam’— |
+| [[Olivia|OLIVIA]] | How now, art thou mad? |
+| [[Feste|FESTE]] | No, madam, I do but read [[Madness|madness]]. An your ladyship will have it as it ought to be you must allow vox. |
+| [[Olivia|OLIVIA]] | Prithee, read i’thy right wits. |
+| [[Feste|FESTE]] | So I do, madonna, but to read his right wits is to read thus. Therefore perpend, my princess, and give ear. |
+| [[Olivia|OLIVIA]] | (to Fabian) Read it you, sirrah. [[Feste]] gives the letter to Fabian |
+| FABIAN | (reads) ‘By the Lord, madam, you wrong me, and the world shall know it. Though you have put me into darkness and given your drunken cousin rule over me, yet have I the benefit of my senses as [[Well|well]] as your ladyship. I have your own letter that induced me to the semblance I put on, with the which I [[Doubt|doubt]] not but to do myself much right or you much shame. Think of me as you please. I leave my duty a little unthought of, and speak out of my injury. The madly-used [[Malvolio]].’ |
+| [[Olivia|OLIVIA]] | Did he write this? |
+| [[Feste|FESTE]] | Ay, madam. |
+| [[Orsino|ORSINO]] | This savours not much of distraction. |
+| [[Olivia|OLIVIA]] | See him delivered, Fabian, bring him hither. My lord, so please you—these things further thought on— To think me as [[Well|well]] a sister as a wife, One day shall [[Crown|crown]] th‘alliance on’t, so please you, Here at my [[house]] and at my proper cost. |
+| [[Orsino|ORSINO]] | Madam, I am most apt t’embrace your offer. (To [[Viola]]) Your master quits you, and for your service done him So much against the mettle of your sex, So far beneath your soft and tender breeding, And since you called me master for so long, Here is my hand. You shall from this [[Time|time]] be Your master’s mistress. |
+| [[Olivia|OLIVIA]] | (to [[Viola]]) A sister, you are she. Enter [[Malvolio]] |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--06_exchange_orsino" data-title="Twelfth Night — Act V, Scene 1 — exchange (ORSINO) [6]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Orsino|ORSINO]] | Is this the madman? |
+| [[Olivia|OLIVIA]] | Ay, my lord, this same. How now, [[Malvolio]]? |
+| [[Malvolio|MALVOLIO]] | Madam, you have done me wrong, Notorious wrong. |
+| [[Olivia|OLIVIA]] | Have I, [[Malvolio]]? No. |
+| [[Malvolio|MALVOLIO]] | (showing a letter) Lady, you have. Pray you peruse that letter. You must not now deny it is your hand. Write from it if you can, in hand or phrase, Or say ‘tis not your seal, not your invention. You can say none of this. [[Well]], grant it then, And tell me in the modesty of [[Honour|honour]] Why you have given me such clear lights of favour, Bade me come smiling and [[Cross|cross]]-gartered to you, To put on yellow stockings, and to frown Upon Sir Toby and the lighter people, And acting this in an obedient [[Hope|hope]], Why have you suffered me to be imprisoned, Kept in a dark [[house]], visited by the priest, And made the most notorious geck and gull That e’er invention played on? Tell me why? |
+| [[Olivia|OLIVIA]] | Alas, [[Malvolio]], this is not my writing, Though I confess much like the character, But out of question, ‘tis [[Maria]]’s hand. And now I do bethink me, it was she First told me thou wast mad; then cam’st in smiling, And in such forms which here were presupposed Upon thee in the letter. Prithee be content; This practice hath most shrewdly passed upon thee, But when we know the grounds and authors of it Thou shalt be both the plaintiff and the judge Of thine own cause. |
+| FABIAN | Good madam, hear me speak, And let no quarrel nor no brawl to come Taint the condition of this present hour, Which I have wondered at. In [[Hope|hope]] it shall not, Most freely I confess myself and Toby Set this device against [[Malvolio]] here Upon some stubborn and uncourteous parts We had conceived against him. [[Maria]] writ The letter, at Sir Toby’s great importance, In recompense whereof he hath married her. How with a sportful malice it was followed May rather pluck on laughter than [[Revenge|revenge]] If that the injuries be justly weighed That have on both sides passed. |
+| [[Olivia|OLIVIA]] | (to [[Malvolio]]) Alas, poor [[Fool|fool]], how have they baffled thee! |
+| [[Feste|FESTE]] | Why, ‘Some are born great, some achieve [[Greatness|greatness]], and some have [[Greatness|greatness]] thrown upon them.’ I was one, sir, in this interlude, one Sir Topas, sir; but that’s all one. ‘By the Lord, [[Fool|fool]], I am not mad’—but do you remember, ‘Madam, why laugh you at such a barren rascal, an you smile not, he’s gagged’—and thus the whirligig of [[Time|time]] brings in his revenges. |
+| [[Malvolio|MALVOLIO]] | I’ll be revenged on the whole pack of you. Exit |
+| [[Olivia|OLIVIA]] | He hath been most notoriously abused. |
+| [[Orsino|ORSINO]] | Pursue him, and entreat him to a peace. He hath not told us of the captain yet. Exit one or more When that is known, and golden [[Time|time]] convents, A solemn combination shall be made Of our dear souls. Meantime, sweet sister, We will not part from hence. Cesario, come— For so you shall be while you are a man; But when in other habits you are seen, [[Orsino]]’s mistress, and his fancy’s [[Queen|queen]]. Exeunt all but [[Feste]] |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--07_exchange_feste" data-title="Twelfth Night — Act V, Scene 1 — exchange (FESTE) [7]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Feste|FESTE]] | (sings) When that I was and a little tiny boy, With hey, ho, the [[Wind|wind]] and the rain, A foolish thing was but a toy, For the rain it raineth every day. |
+| [[Feste|FESTE]] | But when I came to man’s estate, With hey, ho, the [[Wind|wind]] and the rain, ’Gainst knaves and thieves men shut their gate, For the rain it raineth every day. |
+| [[Feste|FESTE]] | But when I came, alas, to wive, With hey, ho, the [[Wind|wind]] and the rain, By swaggering could I never thrive, For the rain it raineth every day. |
+| [[Feste|FESTE]] | But when I came unto my beds, With hey, ho, the [[Wind|wind]] and the rain, With tosspots still had drunken heads, For the rain it raineth every day. |
+| [[Feste|FESTE]] | A great while ago the world begun, With hey ho, the [[Wind|wind]] and the rain, But that’s all one, our play is done, And we’ll strive to please you every day. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--08_monologue_troilus_and_cressida" data-title="Twelfth Night — Act V, Scene 1 — monologue (TROILUS AND CRESSIDA) [8]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Troilus|TROILUS]] AND [[Cressida|CRESSIDA]] | [[Troilus]] and [[Cressida]], first heard of in a Stationers’ Register entry of 7 February 1603, was probably written within the previous eighteen months. This entry did not result in publication; the play was re-entered on 28 January 1609, and a quarto appeared during that year. The version printed in the 1623 Folio adds a Prologue, and has many variations in dialogue. It includes the epilogue spoken by [[Pandarus]] (which we print as an Additional Passage), but certain features of the text suggest that it does so by accident, and that the epilogue had been marked for omission. Our text is based in substance on the Folio in the belief that this represents the play in its later, revised form. The story of the siege of Troy was the main subject of one of the greatest surviving works of classical literature, Homer’s Iliad, probably Shakespeare read George Chapman’s 1598 [[Translation|translation]] of Books 1―2 and 7―11. The story also figures prominently in Virgil’s Aeneid and Ovid’s Metamorphoses, both of which Shakespeare knew [[Well|well]]. The war between Greece and Troy had been provoked by the abduction of the Grecian [[Helen]] (better, if confusingly, known as [[Helen]] of Troy) by the Trojan [[Hero|hero]] [[Paris]], son of [[King]] Priam. Shakespeare’s play opens when the Greek forces, led by Menelaus’ brother [[Agamemnon]], have already been besieging Troy for seven years. Shakespeare concentrates on the opposition between the Greek [[Hero|hero]] [[Achilles]] and the Trojan [[Hector]]. In the Folio, [[Troilus]] and [[Cressida]] is printed among the tragedies; if there is a [[Tragic Hero|tragic hero]], it is [[Hector]]. Shakespeare also shows how the war caused by one [[Love|love]] affair destroys another. The stories of the [[Love|love]] between the Trojan [[Troilus]] and the Grecian [[Cressida]], encouraged by her uncle [[Pandarus]], and of [[Cressida]]’s desertion of [[Troilus]] for the Greek Diomedes, are medieval additions to the heroic narrative. Chaucer’s long poem [[Troilus]] and Criseyde was already a classic, and Shakespeare would also have known Robert Henryson’s continuation, The Testament of Cresseid, in which [[Cressida]], deserted by Diomedes, dwindles into a leprous beggar. [[Troilus]] and [[Cressida]] is a demanding play, Shakespeare’s third longest, highly philosophical in tone and with an exceptionally learned vocabulary. Possibly (as has often been conjectured) he wrote it for private performance; the 1603 Stationers’ Register entry says it had been acted by the [[King]]’s Men, and the original title-page of the 1609 quarto repeats this claim, but while the edition was being printed this title-page was replaced by one that does not mention performance, and an epistle was added claiming that it was ‘a new play, never staled with the stage, never clapper-clawed with the palms of the vulgar’. An adaptation by John Dryden of 1679 was successfully acted from [[Time|time]] to [[Time|time]] for half a century, but the first verified performance of Shakespeare’s play was in [[Germany]] in 1898, and that was heavily adapted. [[Troilus]] and [[Cressida]] came into its own in the twentieth century, when its deflation of heroes, its radical questioning of human values (especially in relation to [[Love|love]] and war), and its remorseless examination of the frailty of human aspirations in the face of the destructive powers of [[Time|time]] seemed particularly apposite to modern intellectual and ethical preoccupations. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--09_exchange_the_persons_of_the_play" data-title="Twelfth Night — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [9]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY |
+| PROLOGUE | Trojans PRIAM, [[King]] of Troy CASSANDRA, Priam’s daughter, a prophetess ANDROMACHE, wife of [[Hector]] [[Pandarus|PANDARUS]], a lord [[Cressida|CRESSIDA]], his niece CALCHAS, her father, who has joined the Greeks [[Helen|HELEN]], wife of Menelaus, now living with [[Paris]] ALEXANDER, servant of [[Cressida]] Servants of [[Troilus]], musicians, soldiers, attendants Greeks [[Agamemnon|AGAMEMNON]], Commander-in-Chief MENELAUS, his brother |
+| [[Achilles|ACHILLES]] | PATROCLUS, his companion |
+| [[Thersites|THERSITES]] | MYRMIDONS, soldiers of [[Achilles]] Servants of Diomedes, soldiers |
+
+
 
 
 <span class="atom-split" data-atom="twelfth_night" data-title="TWELFTH NIGHT" data-chapter="" data-kind="intro"></span>
@@ -1170,929 +2093,6 @@ Musicians, sailors, lords, attendants
 | PROLOGUE | Trojans<br>PRIAM, [[King]] of Troy<br>CASSANDRA, Priam’s daughter, a prophetess<br>ANDROMACHE, wife of [[Hector]]<br>[[Pandarus|PANDARUS]], a lord<br>[[Cressida|CRESSIDA]], his niece<br>CALCHAS, her father, who has joined the Greeks<br>[[Helen|HELEN]], wife of Menelaus, now living with [[Paris]]<br>ALEXANDER, servant of [[Cressida]]<br>Servants of [[Troilus]], musicians, soldiers, attendants<br>Greeks<br>[[Agamemnon|AGAMEMNON]], Commander-in-Chief<br>MENELAUS, his brother |
 | [[Achilles|ACHILLES]] | PATROCLUS, his companion |
 | [[Thersites|THERSITES]] | MYRMIDONS, soldiers of [[Achilles]]<br>Servants of Diomedes, soldiers |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_5--01_exchange_dialogue" data-title="Twelfth Night — Act I, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Maria]], and [[Feste]], the clown |
-| [[Maria|MARIA]] | Nay, either tell me where thou hast been or I will not open my lips so wide as a bristle may enter in way of thy excuse. My lady will hang thee for thy absence. |
-| [[Feste|FESTE]] | Let her hang me. He that is [[Well|well]] hanged in this world needs to [[Fear|fear]] no colours. |
-| [[Maria|MARIA]] | Make that good. |
-| [[Feste|FESTE]] | He shall see none to [[Fear|fear]]. |
-| [[Maria|MARIA]] | A good lenten answer. I can tell thee where that saying was born, of ‘I [[Fear|fear]] no colours’. |
-| [[Feste|FESTE]] | Where, good Mistress Mary? |
-| [[Maria|MARIA]] | In the wars, and that may you be bold to say in your foolery. |
-| [[Feste|FESTE]] | [[Well]], God give them wisdom that have it; and those that are fools, let them use their talents. |
-| [[Maria|MARIA]] | Yet you will be hanged for being so long absent, or to be turned away—is not that as good as a hanging to you? |
-| [[Feste|FESTE]] | Many a good hanging prevents a bad [[Marriage|marriage]]; and for turning away, let [[Summer|summer]] bear it out. |
-| [[Maria|MARIA]] | You are resolute then? |
-| [[Feste|FESTE]] | Not so neither, but I am resolved on two points. |
-| [[Maria|MARIA]] | That if one break, the other will hold; or if both break, your gaskins fall. |
-| [[Feste|FESTE]] | Apt, in good [[Faith|faith]], very apt. [[Well]], go thy way. If Sir Toby would leave drinking thou wert as witty a piece of Eve’s flesh as any in lllyria. |
-| [[Maria|MARIA]] | Peace, you rogue, no more o’ that. Here comes my lady. Make your excuse wisely, you were best. Exit Enter [[Olivia]], with [[Malvolio]] and attendants |
-| [[Feste|FESTE]] | aside Wit, an’t be thy will, put me into good footing! Those wits that think they have thee do very oft prove fools, and I that am sure I lack thee may pass for a wise man. For what says Quinapalus?—‘Better a witty [[Fool|fool]] than a foolish wit.’ (To [[Olivia]]) God bless thee, lady. |
-| [[Olivia|OLIVIA]] | (to attendants) Take the [[Fool|fool]] away. |
-| [[Feste|FESTE]] | Do you not hear, fellows? Take away the lady. |
-| [[Olivia|OLIVIA]] | Go to, you’re a dry [[Fool|fool]]. I’ll no more of you. Besides, you grow dishonest. |
-| [[Feste|FESTE]] | Two faults, madonna, that drink and good counsel will amend, for give the dry [[Fool|fool]] drink, then is the [[Fool|fool]] not dry; bid the dishonest man mend himself: if he mend, he is no longer dishonest; if he cannot, let the botcher mend him. Anything that’s mended is but patched. Virtue that transgresses is but patched with sin, and sin that amends is but patched with virtue. If that this simple syllogism will serve, so. If it will not, what remedy? As there is no true cuckold but calamity, so [[Beauty|beauty]]’s a flower. The lady bade take away the [[Fool|fool]], therefore I say again, take her away. |
-| [[Olivia|OLIVIA]] | Sir, I bade them take away you. |
-| [[Feste|FESTE]] | Misprision in the highest degree! Lady, ‘Cucullus non facit monachum’—that’s as much to say as I wear not motley in my brain. Good madonna, give me leave to prove you a [[Fool|fool]]. |
-| [[Olivia|OLIVIA]] | Can you do it? |
-| [[Feste|FESTE]] | Dexteriously, good madonna. |
-| [[Olivia|OLIVIA]] | Make your proof. |
-| [[Feste|FESTE]] | I must catechize you for it, madonna. Good my mouse of virtue, answer me. |
-| [[Olivia|OLIVIA]] | [[Well]], sir, for want of other idleness I’ll bide your proof. |
-| [[Feste|FESTE]] | Good madonna, why mournest thou? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_5--02_exchange_olivia" data-title="Twelfth Night — Act I, Scene 5 — exchange (OLIVIA) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Olivia|OLIVIA]] | Good [[Fool|fool]], for my brother’s [[Death|death]]. |
-| [[Feste|FESTE]] | I think his [[Soul|soul]] is in hell, madonna. |
-| [[Olivia|OLIVIA]] | I know his [[Soul|soul]] is in heaven, [[Fool|fool]]. |
-| [[Feste|FESTE]] | The more [[Fool|fool]], madonna, to mourn for your brother’s [[Soul|soul]], being in heaven. Take away the [[Fool|fool]], gentlemen. |
-| [[Olivia|OLIVIA]] | What think you of this [[Fool|fool]], [[Malvolio]]? Doth he not mend? |
-| [[Malvolio|MALVOLIO]] | Yes, and shall do till the pangs of [[Death|death]] shake him. Infirmity, that decays the wise, doth ever make the better [[Fool|fool]]. |
-| [[Feste|FESTE]] | God send you, sir, a speedy infirmity for the better increasing your folly. Sir Toby will be sworn that I am no fox, but he will not pass his word for twopence that you are no [[Fool|fool]]. |
-| [[Olivia|OLIVIA]] | How say you to that, [[Malvolio]]? |
-| [[Malvolio|MALVOLIO]] | I marvel your ladyship takes delight in such a barren rascal. I saw him put down the other day with an ordinary [[Fool|fool]] that has no more brain than a stone. Look you now, he’s out of his guard already. Unless you laugh and minister occasion to him, he is gagged. I protest I take these wise men that crow so at these set kind of fools no better than the fools’ zanies. |
-| [[Olivia|OLIVIA]] | O, you are sick of [[Self|self]]-[[Love|love]], [[Malvolio]], and taste with a distempered appetite. To be generous, guiltless, and of free disposition is to take those things for birdbolts that you deem cannon bullets. There is no slander in an allowed [[Fool|fool]], though he do nothing but rail; nor no railing in a known discreet man, though he do nothing but reprove. |
-| [[Feste|FESTE]] | Now Mercury indue thee with leasing, for thou speakest [[Well|well]] of fools. Enter [[Maria]] |
-| [[Maria|MARIA]] | Madam, there is at the gate a young gentleman much desires to speak with you. |
-| [[Olivia|OLIVIA]] | From the Count [[Orsino]], is it? |
-| [[Maria|MARIA]] | I know not, madam. ’Tis a fair young man, and [[Well|well]] attended. |
-| [[Olivia|OLIVIA]] | Who of my people hold him in delay? |
-| [[Maria|MARIA]] | Sir Toby, madam, your kinsman. |
-| [[Olivia|OLIVIA]] | Fetch him off, I pray you, he speaks nothing but madman. Fie on him. Go you, [[Malvolio]]. If it be a suit from the Count, I am sick, or not at [[Home|home]]—what you will to dismiss it. Exit [[Malvolio]] Now you see, sir, how your fooling grows old, and people dislike it. |
-| [[Feste|FESTE]] | Thou hast spoke for us, madonna, as if thy eldest son should be a [[Fool|fool]], whose skull Jove cram with brains, for—here he comes— Enter Sir Toby one of thy kin has a most weak pia mater. |
-| [[Olivia|OLIVIA]] | By mine [[Honour|honour]], half-drunk. What is he at the gate, cousin? |
-| SIR TOBY | A gentleman. |
-| [[Olivia|OLIVIA]] | A gentleman? What gentleman? |
-| SIR TOBY | ’Tis a gentleman here. (He belches) A plague o’ these pickle herring! (To [[Feste]]) How now, sot? |
-| [[Feste|FESTE]] | Good Sir Toby. |
-| [[Olivia|OLIVIA]] | Cousin, cousin, how have you come so early by this lethargy? |
-| SIR TOBY | Lechery? I defy lechery. There’s one at the gate. [[Olivia|OLIVIA]] Ay, marry, what is he? |
-| SIR TOBY | Let him be the devil an he will, I care not. Give me [[Faith|faith]], say I. [[Well]], it’s all one. Exit |
-| [[Olivia|OLIVIA]] | What’s a drunken man like, [[Fool|fool]]? |
-| [[Feste|FESTE]] | Like a drowned man, a [[Fool|fool]], and a madman—one draught above heat makes him a [[Fool|fool]], the second mads him, and a third drowns him. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_5--03_exchange_olivia" data-title="Twelfth Night — Act I, Scene 5 — exchange (OLIVIA) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Olivia|OLIVIA]] | Go thou and seek the coroner, and let him sit o’ my coz, for he’s in the third degree of drink, he’s drowned. Go look after him. |
-| [[Feste|FESTE]] | He is but mad yet, madonna, and the [[Fool|fool]] shall look to the madman. Exit Enter [[Malvolio]] |
-| [[Malvolio|MALVOLIO]] | Madam, yon young fellow swears he will speak with you. I told him you were sick—he takes on him to understand so much, and therefore comes to speak with you. I told him you were asleep—he seems to have a foreknowledge of that too, and therefore comes to speak with you. What is to be said to him, lady? He’s fortified against any denial. |
-| [[Olivia|OLIVIA]] | Tell him he shall not speak with me. |
-| [[Malvolio|MALVOLIO]] | He’s been told so, and he says he’ll stand at your door like a sheriff’s post, and be the supporter to a bench, but he’ll speak with you. |
-| [[Olivia|OLIVIA]] | What kind o’ man is he? |
-| MALVOCIO | Why, of mankind. |
-| [[Olivia|OLIVIA]] | What manner of man? |
-| [[Malvolio|MALVOLIO]] | Of very ill manner: he’ll speak with you, will you or no. |
-| [[Olivia|OLIVIA]] | Of what personage and years is he? |
-| [[Malvolio|MALVOLIO]] | Not yet old enough for a man, nor young enough for a boy; as a squash is before ‘tis a peascod, or a codling when ’tis almost an apple. ’Tis with him in standing [[Water|water]] between boy and man. He is very [[Well|well]]-favoured, and he speaks very shrewishly. One would think his mother’s milk were scarce out of him. |
-| [[Olivia|OLIVIA]] | Let him approach. Call in my gentlewoman. |
-| [[Malvolio|MALVOLIO]] | Gentlewoman, my lady calls. Exit Enter [[Maria]] |
-| [[Olivia|OLIVIA]] | Give me my veil. Come, throw it o’er my face. We’ll once more hear [[Orsino]]’s embassy. Enter [[Viola]] as Cesario |
-| [[Viola|VIOLA]] | The honourable lady of the [[house]], which is she? |
-| [[Olivia|OLIVIA]] | Speak to me, I shall answer for her. Your will. |
-| [[Viola|VIOLA]] | Most radiant, exquisite, and unmatchable [[Beauty|beauty]]. —I pray you, tell me if this be the lady of the [[house]], for I never saw her. I would be loath to cast away my speech, for besides that it is excellently [[Well|well]] penned, I have taken great pains to con it. Good beauties, let me sustain no scorn; I am very ’countable, even to the least sinister usage. |
-| [[Olivia|OLIVIA]] | Whence came you, sir? |
-| [[Viola|VIOLA]] | I can say little more than I have studied, and that question’s out of my part. Good gentle one, give me modest assurance if you be the lady of the [[house]], that I may proceed in my speech. |
-| [[Olivia|OLIVIA]] | Are you a comedian? |
-| [[Viola|VIOLA]] | No, my profound heart; and yet—by the very fangs of malice I swear—I am not that I play. Are you the lady of the [[house]]? |
-| [[Olivia|OLIVIA]] | If I do not usurp myself, I am. |
-| [[Viola|VIOLA]] | Most certain if you are she you do usurp yourself, for what is yours to bestow is not yours to reserve. But this is from my commission. I will on with my speech in your praise, and then show you the heart of my message. |
-| [[Olivia|OLIVIA]] | Come to what is important in’t, I forgive you the praise. |
-| [[Viola|VIOLA]] | Alas, I took great pains to study it, and ’tis poetical. |
-| [[Olivia|OLIVIA]] | It is the more like to be feigned, I pray you keep it in. I heard you were saucy at my gates, and allowed your approach rather to [[Wonder|wonder]] at you than to hear you. If you be not mad, be gone. If you have reason, be brief. ’Tis not that [[Time|time]] of [[Moon|moon]] with me to make one in so skipping a dialogue. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_5--04_exchange_maria" data-title="Twelfth Night — Act I, Scene 5 — exchange (MARIA) [4]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Maria|MARIA]] | Will you hoist sail, sir? Here lies your way. |
-| [[Viola|VIOLA]] | No, good swabber, I am to hull here a little longer. (To [[Olivia]]) Some mollification for your giant, sweet lady. Tell me your mind, I am a messenger. |
-| [[Olivia|OLIVIA]] | Sure, you have some hideous matter to deliver when the courtesy of it is so fearful. Speak your office. |
-| [[Viola|VIOLA]] | It [[Alone|alone]] concerns your ear. I bring no overture of war, no taxation of homage. I hold the olive in my hand. My words are as full of peace as matter. |
-| [[Olivia|OLIVIA]] | Yet you began rudely. What are you? What would you? |
-| [[Viola|VIOLA]] | The rudeness that hath appeared in me have I learned from my entertainment. What I am and what I would are as secret as maidenhead; to your ears, divinity; to any others’, profanation. |
-| [[Olivia|OLIVIA]] | (to [[Maria]] and attendants) Give us the place [[Alone|alone]], we will hear this divinity. Exeunt [[Maria]] and attendants Now sir, what is your text? |
-| [[Viola|VIOLA]] | Most sweet lady— |
-| [[Olivia|OLIVIA]] | A comfortable doctrine, and much may be said of it. Where lies your text? |
-| [[Viola|VIOLA]] | In [[Orsino]]’s bosom. |
-| [[Olivia|OLIVIA]] | In his bosom? In what chapter of his bosom? |
-| [[Viola|VIOLA]] | To answer by the method, in the first of his heart. |
-| [[Olivia|OLIVIA]] | O, I have read it. It is heresy. Have you no more to say? |
-| [[Viola|VIOLA]] | Good madam, let me see your face. |
-| [[Olivia|OLIVIA]] | Have you any commission from your lord to negotiate with my face? You are now out of your text. But we will draw the curtain and show you the picture. She unveils Look you, sir, such a one I was this present. Is’t not [[Well|well]] done? |
-| [[Viola|VIOLA]] | Excellently done, if God did all. |
-| [[Olivia|OLIVIA]] | ‘Tis in grain, sir, ’twill endure [[Wind|wind]] and weather. |
-| [[Viola|VIOLA]] | ‘Tis [[Beauty|beauty]] truly blent, whose red and white [[Nature]]’s own sweet and cunning hand laid on. Lady, you are the cruell’st she alive If you will lead these graces to the [[Grave|grave]] And leave the world no copy. |
-| [[Olivia|OLIVIA]] | O sir, I will not be so hard-hearted. I will give out divers schedules of my [[Beauty|beauty]]. It shall be inventoried and every particle and utensil labelled to my will, as, item, two lips, indifferent red; item, two grey eyes, with lids to them; item, one neck, one chin, and so forth. Were you sent hither to praise me? |
-| [[Viola|VIOLA]] | I see you what you are, you are too proud, But if you were the devil, you are fair. My lord and master loves you. O, such [[Love|love]] Could be but recompensed though you were crowned The nonpareil of [[Beauty|beauty]]. |
-| [[Olivia|OLIVIA]] | How does he [[Love|love]] me? |
-| [[Viola|VIOLA]] | With adorations, fertile [[Tears|tears]], With groans that thunder [[Love|love]], with sighs of [[Fire|fire]]. |
-| [[Olivia|OLIVIA]] | Your lord does know my mind, I cannot [[Love|love]] him. Yet I suppose him virtuous, know him noble, Of great estate, of fresh and stainless youth, In voices [[Well|well]] divulged, free, learned, and valiant, And in dimension and the shape of [[Nature|nature]] A gracious person; but yet I cannot [[Love|love]] him. He might have took his answer long ago. |
-| [[Viola|VIOLA]] | If I did [[Love|love]] you in my master’s flame, With such a suff’ring, such a deadly life, In your denial I would find no sense, I would not understand it. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_5--05_exchange_olivia" data-title="Twelfth Night — Act I, Scene 5 — exchange (OLIVIA) [5]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Olivia|OLIVIA]] | Why, what would you? |
-| [[Viola|VIOLA]] | Make me a willow cabin at your gate And call upon my [[Soul|soul]] within the [[house]], Write loyal cantons of contemnèd [[Love|love]], And sing them loud even in the dead of [[Night|night]]; Halloo your name to the reverberate hills, And make the babbling gossip of the air Cry out ‘[[Olivia]]!’ O, you should not rest Between the elements of air and earth But you should pity me. |
-| [[Olivia|OLIVIA]] | You might do much. What is your parentage? |
-| [[Viola|VIOLA]] | Above my fortunes, yet my state is [[Well|well]]. I am a gentleman. |
-| [[Olivia|OLIVIA]] | Get you to your lord. I cannot [[Love|love]] him. Let him send no more, Unless, perchance, you come to me again To tell me how he takes it. Fare you [[Well|well]]. I thank you for your pains. (Offering a purse) Spend this for me. |
-| [[Viola|VIOLA]] | I am no fee’d post, lady. Keep your purse. My master, not myself, lacks recompense. [[Love]] make his heart of flint that you shall [[Love|love]], And let your fervour, like my master’s, be Placed in contempt. Farewell, fair cruelty. Exit |
-| [[Olivia|OLIVIA]] | ‘What is your parentage?’ ‘Above my fortunes, yet my state is [[Well|well]]. I am a gentleman.’ I’ll be sworn thou art. Thy tongue, thy face, thy limbs, actions, and spirit Do give thee five-fold blazon. Not too fast. Soft, soft— Unless the master were the man. How now? Even so quickly may one catch the plague? Methinks I feel this youth’s perfections With an invisible and subtle stealth To creep in at mine eyes. [[Well]], let it be. What ho, [[Malvolio]]. Enter [[Malvolio]] |
-| [[Malvolio|MALVOLIO]] | Here, madam, at your service. |
-| [[Olivia|OLIVIA]] | Run after that same peevish messenger The County’s man. He left this ring behind him, Would I or not. Tell him I’ll none of it. [[Desire]] him not to flatter with his lord, Nor hold him up with hopes. I am not for him. If that the youth will come this way tomorrow, I’ll give him reasons for’t. Hie thee, [[Malvolio]]. |
-| [[Malvolio|MALVOLIO]] | Madam, I will. Exit at one door |
-| [[Olivia|OLIVIA]] | I do I know not what, and [[Fear|fear]] to find Mine eye too great a flatterer for my mind. Fate, show thy force. Ourselves we do not owe. What is decreed must be; and be this so. Exit at another door |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Twelfth Night — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Sir Toby and Sir Andrew |
-| SIR TOBY | Approach, Sir Andrew. Not to be abed after midnight is to be up betimes, and diliculo surgere, thou knowest. |
-| SIR ANDREW | Nay, by my troth, I know not; but I know to be up late is to be up late. |
-| SIR TOBY | A false conclusion. I hate it as an unfilled can. To be up after midnight and to go to bed then is early; so that to go to bed after midnight is to go to bed betimes. Does not our lives consist of the four elements? |
-| SIR ANDREW | [[Faith]], so they say, but I think it rather consists of eating and drinking. |
-| SIR TOBY | Thou’rt a scholar; let us therefore eat and drink. Marian, I say, a stoup of wine. Enter [[Feste]], the clown |
-| SIR ANDREW | Here comes the [[Fool|fool]], i’[[Faith|faith]]. |
-| [[Feste|FESTE]] | How now, my hearts. Did you never see the picture of ‘we three’? |
-| SIR TOBY | Welcome, ass. Now let’s have a catch. |
-| SIR ANDREW | By my troth, the [[Fool|fool]] has an excellent breast. I had rather than forty shillings I had such a leg, and so sweet a breath to sing, as the [[Fool|fool]] has. In sooth, thou wast in very gracious fooling last [[Night|night]], when thou spokest of Pigrogromitus, of the Vapians passing the equinoctial of Queubus. ‘Twas very good, i’[[Faith|faith]]. I sent thee sixpence for thy leman. Hadst it? |
-| [[Feste|FESTE]] | I did impeticos thy gratility; for [[Malvolio]]’s nose is no whipstock. My lady has a white hand, and the Myrmidons are no bottle-ale houses. |
-| SIR ANDREW | Excellent! Why, this is the best fooling, when all is done. Now a [[Song|song]]. |
-| SIR TOBY | (to [[Feste]]) Come on, there is sixpence for you. Let’s have a [[Song|song]]. |
-| SIR ANDREW | (to [[Feste]]) There’s a testril of me, too. If one knight give a— |
-| [[Feste|FESTE]] | Would you have a [[Love|love]]-[[Song|song]], or a [[Song|song]] of good life? |
-| SIR TOBY | A [[Love|love]] [[Song|song]], a [[Love|love]]-[[Song|song]]. |
-| SIR ANDREW | Ay, ay. I care not for good life. |
-| [[Feste|FESTE]] | (sings) O mistress mine, where are you roaming? O stay and hear, your true [[Love|love]]’s coming, That can sing both high and low. Trip no further, pretty sweeting. Journeys end in [[lovers]] meeting, Every wise man’s son doth know. |
-| SIR ANDREW | Excellent good, i’[[Faith|faith]]. |
-| SIR TOBY | Good, good. |
-| [[Feste|FESTE]] | What is [[Love|love]]? ’Tis not hereafter, Present mirth hath present laughter. What’s to come is still unsure. In delay there lies no plenty, Then come kiss me, sweet and twenty. Youth’s a stuff will not endure. |
-| SIR ANDREW | A mellifluous voice, as I am true knight. |
-| SIR TOBY | A contagious breath. |
-| SIR ANDREW | Very sweet and contagious, i’[[Faith|faith]]. |
-| SIR TOBY | To hear by the nose, it is dulcet in contagion. But shall we make the welkin [[Dance|dance]] indeed? Shall we rouse the [[Night|night]]-owl in a catch that will draw three souls out of one weaver? Shall we do that? |
-| SIR ANDREW | An you [[Love|love]] me, let’s do’t. I am dog at a catch. |
-| [[Feste|FESTE]] | By’r Lady, sir, and some [[dogs]] will catch [[Well|well]]. |
-| SIR ANDREW | Most certain. Let our catch be ‘Thou knave’. |
-| [[Feste|FESTE]] | ‘Hold thy peace, thou knave’, knight. I shall be constrained in’t to call thee knave, knight. |
-| SIR ANDREW | ‘Tis not the first [[Time|time]] I have constrained one to call me knave. Begin, [[Fool|fool]]. It begins ‘Hold thy peace’. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--02_exchange_feste_i" data-title="Twelfth Night — Act II, Scene 3 — exchange (FESTE I) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Feste|FESTE]] | I shall never begin if I hold my peace. |
-| SIR ANDREW | Good, i’[[Faith|faith]]. Come, begin. They sing the catch. Enter [[Maria]] |
-| [[Maria|MARIA]] | What a caterwauling do you keep here! If my lady have not called up her steward [[Malvolio]] and bid him turn you out of doors, never trust me. |
-| SIR TOBY | My lady’s a Cathayan, we are politicians, [[Malvolio]]’s a Peg-o‘-Ramsey, and ‘hree merry men be we’. Am not I consanguineous? Am I not of her [[Blood|blood]]? Tilly-vally—‘lady’! ‘There dwelt a man in Babylon, lady, lady.’ |
-| [[Feste|FESTE]] | Beshrew me, the knight’s in admirable fooling. |
-| SIR ANDREW | Ay, he does [[Well|well]] enough if he be disposed, and so do I, too. He does it with a better grace, but I do it more natural. |
-| SIR TOBY | ‘O’the twelfth day of December’— |
-| [[Maria|MARIA]] | For the [[Love|love]] o’ God, peace. Enter [[Malvolio]] |
-| [[Malvolio|MALVOLIO]] | My masters, are you mad? Or what are you? Have you no wit, manners, nor honesty, but to gabble like tinkers at this [[Time|time]] of [[Night|night]]? Do ye make an alehouse of my lady’s [[house]], that ye squeak out your coziers’ catches without any mitigation or remorse of voice? Is there no respect of place, persons, nor [[Time|time]] in you? |
-| SIR TOBY | We did keep [[Time|time]], sir, in our catches. Sneck up! |
-| [[Malvolio|MALVOLIO]] | Sir Toby, I must be round with you. My lady bade me tell you that though she harbours you as her kinsman she’s nothing allied to your disorders. If you can separate yourself and your misdemeanours you are welcome to the [[house]]. If not, an it would please you to take leave of her she is very willing to bid you farewell. |
-| SIR TOBY | ‘Farewell, dear heart, since I must needs be gone.’ |
-| [[Maria|MARIA]] | Nay, good Sir Toby. |
-| [[Feste|FESTE]] | ‘His eyes do show his days are almost done.’ |
-| [[Malvolio|MALVOLIO]] | Is’t even so? |
-| SIR TOBY | ‘But I will never die.’ |
-| [[Feste|FESTE]] | ‘Sir Toby, there you lie.’ |
-| [[Malvolio|MALVOLIO]] | This is much credit to you. |
-| SIR TOBY | ‘Shall I bid him go?’ |
-| [[Feste|FESTE]] | ‘What an if you do?’ |
-| SIR TOBY | ‘Shall I bid him go, and spare not?’ |
-| [[Feste|FESTE]] | ‘O no, no, no, no, you dare not.’ |
-| SIR TOBY | Out o’ tune, sir, ye lie. (To [[Malvolio]]) Art any more than a steward? Dost thou think because thou art virtuous there shall be no more cakes and ale? |
-| [[Feste|FESTE]] | Yes, by Saint Anne, and ginger shall be hot i’th’ mouth, too. |
-| SIR TOBY | Thou‘rt i’th’ right. (To [[Malvolio]]) Go, sir, rub your chain with crumbs. (To [[Maria]]) A stoup of wine, [[Maria]]. |
-| [[Malvolio|MALVOLIO]] | Mistress Mary, if you prized my lady’s favour at anything more than contempt you would not give means for this uncivil rule. She shall know of it, by this hand. Exit |
-| [[Maria|MARIA]] | Go shake your ears. |
-| SIR ANDREW | ’Twere as good a deed as to drink when a man’s a-hungry to challenge him the field and then to break promise with him, and make a [[Fool|fool]] of him. |
-| SIR TOBY | Do’t, knight. I’ll write thee a challenge, or I’ll deliver thy indignation to him by word of mouth. |
-| [[Maria|MARIA]] | Sweet Sir Toby, be patient for tonight. Since the youth of the Count’s was today with my lady she is much out of quiet. For Monsieur [[Malvolio]], let me [[Alone|alone]] with him. If I do not gull him into a nayword and make him a common recreation, do not think I have wit enough to lie straight in my bed. I know I can do it. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--03_exchange_sir_toby" data-title="Twelfth Night — Act II, Scene 3 — exchange (SIR TOBY) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SIR TOBY | Possess us, possess us, tell us something of him. |
-| [[Maria|MARIA]] | Marry, sir, sometimes he is a kind of puritan. |
-| SIR ANDREW | O, if I thought that I’d beat him like a dog. |
-| SIR TOBY | What, for being a puritan? Thy exquisite reason, dear knight. |
-| SIR ANDREW | I have no exquisite reason for’t, but I have reason good enough. |
-| [[Maria|MARIA]] | The dev’l a puritan that he is, or anything constantly but a [[Time|time]]-pleaser, an affectioned ass that cons state without book and utters it by great swathes; the best persuaded of himself, so crammed, as he thinks, with excellencies, that it is his grounds of [[Faith|faith]] that all that look on him [[Love|love]] him; and on that vice in him will my [[Revenge|revenge]] find notable cause to work. |
-| SIR TOBY | What wilt thou do? |
-| [[Maria|MARIA]] | I will drop in his way some obscure epistles of [[Love|love]], wherein by the colour of his beard, the shape of his leg, the manner of his gait, the expressure of his eye, forehead, and complexion, he shall find himself most feelingly personated. I can write very like my lady your niece; on a forgotten matter we can hardly make distinction of our hands. |
-| SIR TOBY | Excellent, I smell a device. |
-| SIR ANDREW | I have’t in my nose too. |
-| SIR TOBY | He shall think by the letters that thou wilt drop that they come from my niece, and that she’s in [[Love|love]] with him. |
-| [[Maria|MARIA]] | My purpose is indeed a [[Horse|horse]] of that colour. |
-| SIR ANDREW | And your [[Horse|horse]] now would make him an ass. |
-| [[Maria|MARIA]] | Ass I [[Doubt|doubt]] not. |
-| SIR ANDREW | O, ’twill be admirable. |
-| [[Maria|MARIA]] | Sport royal, I warrant you. I know my physic will work with him. I will plant you two—and let the [[Fool|fool]] make a third—where he shall find the letter. Observe his construction of it. For this [[Night|night]], to bed, and dream on the event. Farewell. Exit |
-| SIR TOBY | Good [[Night|night]], Penthesilea. |
-| SIR ANDREW | Before me, she’s a good wench. |
-| SIR TOBY | She’s a beagle true bred, and one that adores me. What o’ that? |
-| SIR ANDREW | I was adored once, too. |
-| SIR TOBY | Let’s to bed, knight. Thou hadst need send for more money. |
-| SIR ANDREW | If I cannot recover your niece, I am a foul way out. |
-| SIR TOBY | Send for money, knight. If thou hast her not i’th’ end, call me cut. |
-| SIR ANDREW | If I do not, never trust me, take it how you will. |
-| SIR TOBY | Come, come, I’ll go burn some sack, ’tis too late to go to bed now. Come knight, come knight. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--01_exchange_dialogue" data-title="Twelfth Night — Act II, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter Sir Toby, Sir Andrew, and Fabian |
-| SIR TOBY | Come thy ways, Signor Fabian. |
-| FABIAN | Nay, I’ll come. If I lose a scruple of this sport let me be boiled to [[Death|death]] with [[Melancholy|melancholy]]. |
-| SIR TOBY | Wouldst thou not be glad to have the niggardly rascally sheep-biter come by some notable shame? |
-| FABIAN | I would exult, man. You know he brought me out o’ favour with my lady about a bear-baiting here. |
-| SIR TOBY | To anger him we’ll have the bear again, and we will [[Fool|fool]] him black and blue, shall we not, Sir Andrew? |
-| SIR ANDREW | An we do not, it is pity of our lives. Enter [[Maria]] with a letter |
-| SIR TOBY | Here comes the little [[Villain|villain]]. How now, my metal of India? |
-| [[Maria|MARIA]] | Get ye all three into the box-tree. [[Malvolio]]’s coming down this walk. He has been yonder i’ the sun practising behaviour to his own [[Shadow|shadow]] this half-hour. Observe him, for the [[Love|love]] of mockery, for I know this letter will make a contemplative idiot of him. Close, in the name of jesting! The men hide. [[Maria]] places the letter Lie thou there, for here comes the trout that must be caught with tickling. Exit Enter [[Malvolio]] |
-| [[Malvolio|MALVOLIO]] | ’Tis but fortune, all is fortune. [[Maria]] once told me she did affect me, and I have heard herself come thus near, that should she fancy it should be one of my complexion. Besides, she uses me with a more exalted respect than anyone else that follows her. What should I think on’t? |
-| SIR TOBY | Here’s an overweening rogue. |
-| FABIAN | O, peace! Contemplation makes a rare turkeycock of him—how he jets under his advanced plumes! |
-| SIR ANDREW | ’Slight, I could so beat the rogue. |
-| SIR TOBY | Peace, I say. |
-| [[Malvolio|MALVOLIO]] | To be Count [[Malvolio]]! |
-| SIR TOBY | Ah, rogue. |
-| SIR ANDREW | [[Pistol]] him, [[Pistol|pistol]] him. |
-| SIR TOBY | Peace, peace. |
-| [[Malvolio|MALVOLIO]] | There is example for’t: the Lady of the Strachey married the yeoman of the wardrobe. |
-| SIR ANDREW | Fie on him, Jezebel. |
-| FABIAN | O peace, now he’s deeply in. Look how [[Imagination|imagination]] blows him. |
-| [[Malvolio|MALVOLIO]] | Having been three months married to her, sitting in my state— |
-| SIR TOBY | O for a stone-bow to hit him in the eye! |
-| [[Malvolio|MALVOLIO]] | Calling my officers about me, in my branched velvet gown, having come from a day-bed where I have left [[Olivia]] sleeping— |
-| SIR TOBY | [[Fire]] and brimstone! |
-| FABIAN | O peace, peace. |
-| [[Malvolio|MALVOLIO]] | And then to have the [[Humour|humour]] of state and—after a demure travel of regard, telling them I know my place, as I would they should do theirs—to ask for my kinsman Toby. |
-| SIR TOBY | Bolts and shackles! |
-| FABIAN | O peace, peace, peace, now, now. |
-| [[Malvolio|MALVOLIO]] | Seven of my people with an obedient start make out for him. I frown the while, and perchance [[Wind|wind]] up my watch, or play with my—(touching his chain) some rich [[Jewel|jewel]]. Toby approaches; curtsies there to me. |
-| SIR TOBY | Shall this fellow live? |
-| FABIAN | Though our [[Silence|silence]] be drawn from us with cars, yet peace. |
-| [[Malvolio|MALVOLIO]] | I extend my hand to him thus, quenching my familiar smile with an austere regard of control— |
-| SIR TOBY | And does not Toby take you a blow o’ the lips, then? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--02_exchange_malvolio" data-title="Twelfth Night — Act II, Scene 5 — exchange (MALVOLIO) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Malvolio|MALVOLIO]] | Saying ‘Cousin Toby, my fortunes, having cast me on your niece, give me this prerogative of speech’— |
-| SIR TOBY | What, what! |
-| [[Malvolio|MALVOLIO]] | ‘You must amend your drunkenness.’ |
-| SIR TOBY | Out, scab. |
-| FABIAN | Nay, patience, or we break the sinews of our plot. |
-| [[Malvolio|MALVOLIO]] | ‘Besides, you waste the treasure of your [[Time|time]] with a foolish knight’— |
-| SIR ANDREW | That’s me, I warrant you. |
-| [[Malvolio|MALVOLIO]] | ‘One Sir Andrew.’ |
-| SIR ANDREW | I knew ’twas I, for many do call me [[Fool|fool]]. |
-| [[Malvolio|MALVOLIO]] | (seeing the letter) What employment have we here? FABIAN Now is the woodcock near the gin. |
-| SIR TOBY | O peace, and the spirit of humours intimate reading aloud to him. |
-| [[Malvolio|MALVOLIO]] | (taking up the letter) By my life, this is my lady’s hand. These be her very c‘s, her u’s, and her t’s, and thus makes she her great P’s. It is in contempt of question her hand. |
-| SIR ANDREW | Her c‘s, her u’s, and her t’s? Why that? |
-| [[Malvolio|MALVOLIO]] | (reads) ‘To the unknown beloved, this, and my good wishes.’ Her very phrases! (Opening the letter) By your leave, wax—soft, and the impressure her [[Lucrece]], with which she uses to seal—’tis my lady. To whom should this be? |
-| FABIAN | This wins him, liver and all. |
-| [[Malvolio|MALVOLIO]] | ‘Jove knows I [[Love|love]], But who? Lips do not move, No man must know.’ ‘No man must know.’ What follows? The numbers altered. ‘No man must know.’ If this should be thee, [[Malvolio]]? |
-| SIR TOBY | Marry, hang thee, brock. |
-| [[Malvolio|MALVOLIO]] | ‘I may command where I adore, But [[Silence|silence]] like a [[Lucrece]] knife With bloodless stroke my heart doth gore. |
-| M.O.A.I. | doth sway my life.’ |
-| FABIAN | A fustian [[Riddle|riddle]]. |
-| SIR TOBY | Excellent wench, say I. |
-| [[Malvolio|MALVOLIO]] | ’M.O.A.I. doth sway my life.’ Nay, but first let me see, let me see, let me see. FABIAN What dish o’ [[Poison|poison]] has she dressed him! |
-| SIR TOBY | And with what wing the staniel checks at it! |
-| [[Malvolio|MALVOLIO]] | ‘I may command where I adore.’ Why, she may command me. I serve her, she is my lady. Why, this is evident to any formal capacity. There is no obstruction in this. And the end—what should that alphabetical position portend? If I could make that resemble something in me. Softly—‘M.O.A.I.’ |
-| SIR TOBY | O ay, make up that, he is now at a cold scent. |
-| FABIAN | Sowter will cry upon’t for all this, though it be as rank as a fox. |
-| [[Malvolio|MALVOLIO]] | ‘M.’ [[Malvolio]]—‘M’—why, that begins my name. |
-| FABIAN | Did not I say he would work it out? The cur is excellent at faults. |
-| [[Malvolio|MALVOLIO]] | ‘M’ But then there is no consonancy in the sequel. That suffers under probation. ‘A’ should follow, but ‘O’ does. |
-| FABIAN | And ‘O’ shall end, I [[Hope|hope]]. |
-| SIR TOBY | Ay, or I’ll cudgel him, and make him cry ‘O!’ |
-| [[Malvolio|MALVOLIO]] | And then ‘I’ comes behind. |
-| FABIAN | Ay, an you had any eye behind you you might see more detraction at your heels than fortunes before you. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--03_monologue_malvolio_moai" data-title="Twelfth Night — Act II, Scene 5 — monologue (MALVOLIO ‘M.O.A.I.’) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Malvolio|MALVOLIO]] | ‘M.O.A.I.’ This simulation is not as the former; and yet to crush this a little, it would bow to me, for every one of these letters are in my name. Soft, here follows prose: ‘If this fall into thy hand, revolve. In my [[Stars|stars]] I am above thee, but be not afraid of [[Greatness|greatness]]. Some are born great, some achieve [[Greatness|greatness]], and some have [[Greatness|greatness]] thrust upon ’em. Thy fates open their hands, let thy [[Blood|blood]] and spirit embrace them, and to inure thyself to what thou art like to be, cast thy humble slough, and appear fresh. Be opposite with a kinsman, surly with servants. Let thy tongue tang arguments of state; put thyself into the trick of singularity. She thus advises thee that sighs for thee. Remember who commended thy yellow stockings, and wished to see thee ever [[Cross|cross]]-gartered. I say remember, go to, thou art made if thou desirest to be so; if not, let me see thee a steward still, the fellow of servants, and not worthy to touch Fortune’s fingers. Farewell. She that would alter services with thee, The Fortunate-Unhappy.’ Daylight and champaign discovers not more. This is open. I will be proud, I will read politic authors, I will baffle Sir Toby, I will wash off gross acquaintance, I will be point-device the very man. I do not now [[Fool|fool]] myself, to let [[Imagination|imagination]] jade me; for every reason excites to this, that my lady loves me. She did commend my yellow stockings of late, she did praise my leg, being [[Cross|cross]]-gartered, and in this she manifests herself to my [[Love|love]], and with a kind of injunction drives me to these habits of her liking. I thank my [[Stars|stars]], I am happy. I will be strange, stout, in yellow stockings, and [[Cross|cross]]-gartered, even with the swiftness of putting on. Jove and my [[Stars|stars]] be praised. Here is yet a postscript. ‘Thou canst not choose but know who I am. If thou entertainest my [[Love|love]], let it appear in thy smiling, thy smiles become thee [[Well|well]]. Therefore in my presence still smile, dear my sweet, I prithee.’ Jove, I thank thee. I will smile, I will do everything that thou wilt have me. Exit Sir Toby, Sir Andrew, and Fabian come from hiding |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--04_exchange_fabian_i" data-title="Twelfth Night — Act II, Scene 5 — exchange (FABIAN I) [4]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FABIAN | I will not give my part of this sport for a pension of thousands to be paid from the Sophy. |
-| SIR TOBY | I could marry this wench for this device. |
-| SIR ANDREW | So could I, too. |
-| SIR TOBY | And ask no other dowry with her but such another jest. Enter [[Maria]] |
-| SIR ANDREW | Nor I neither. |
-| FABIAN | Here comes my noble gull-catcher. |
-| SIR TOBY | (to [[Maria]]) Wilt thou set thy foot o’ my neck? |
-| SIR ANDREW | (to [[Maria]]) Or o’ mine either? |
-| SIR TOBY | (to [[Maria]]) Shall I play my [[Freedom|freedom]] at tray-trip, and become thy bondslave? |
-| SIR ANDREW | (to [[Maria]]) I’[[Faith|faith]], or I either? |
-| SIR TOBY | (to [[Maria]]) Why, thou hast put him in such [[A Dream|a dream]] that when the image of it [[Leaves|leaves]] him, he must run mad. |
-| [[Maria|MARIA]] | Nay, but say true, does it work upon him? |
-| SIR TOBY | Like aqua vitae with a midwife. |
-| [[Maria|MARIA]] | If you will then see the fruits of the sport, mark his first approach before my lady. He will come to her in yellow stockings, and ’tis a colour she abhors, and [[Cross|cross]]-gartered, a fashion she detests; and he will smile upon her, which will now be so unsuitable to her disposition, being addicted to a [[Melancholy|melancholy]] as she is, that it cannot but turn him into a notable contempt. If you will see it, follow me. |
-| SIR TOBY | To the gates of Tartar, thou most excellent devil of wit. |
-| SIR ANDREW | I’ll make one, too. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Twelfth Night — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Viola]] as Cesario and [[Feste]] the clown, with pipe and tabor |
-| [[Viola|VIOLA]] | Save thee, friend, and thy music. Dost thou live by thy tabor? |
-| [[Feste|FESTE]] | No, sir, I live by the church. |
-| [[Viola|VIOLA]] | Art thou a churchman? |
-| [[Feste|FESTE]] | No such matter, sir. I do live by the church for I do live at my [[house]], and my [[house]] doth stand by the church. |
-| [[Viola|VIOLA]] | So thou mayst say the [[King|king]] lies by a beggar if a beggar dwell near him, or the church stands by thy tabor if thy tabor stand by the church. |
-| [[Feste|FESTE]] | You have said, sir. To see this age!—A sentence is but a cheverel glove to a good wit, how quickly the wrong side may be turned outward. |
-| [[Viola|VIOLA]] | Nay, that’s certain. They that dally nicely with words may quickly make them wanton. |
-| [[Feste|FESTE]] | I would therefore my sister had had no name, sir. |
-| [[Viola|VIOLA]] | Why, man? |
-| [[Feste|FESTE]] | Why, sir, her name’s a word, and to dally with that word might make my sister wanton. But indeed, words are very rascals since bonds disgraced them. |
-| [[Viola|VIOLA]] | Thy reason, man? |
-| [[Feste|FESTE]] | Troth, sir, I can yield you none without words, and words are grown so false I am loath to prove reason with them. |
-| [[Viola|VIOLA]] | I warrant thou art a merry fellow, and carest for nothing. |
-| [[Feste|FESTE]] | Not so, sir, I do care for something; but in my [[Conscience|conscience]], sir, I do not care for you. If that be to care for nothing, sir, I would it would make you invisible. |
-| [[Viola|VIOLA]] | Art not thou the Lady [[Olivia]]’s [[Fool|fool]]? |
-| [[Feste|FESTE]] | No indeed, sir, the Lady [[Olivia]] has no folly, she will keep no [[Fool|fool]], sir, till she be married, and fools are as like husbands as pilchards are to herrings—the husband’s the bigger. I am indeed not her [[Fool|fool]], but her corrupter of words. |
-| [[Viola|VIOLA]] | I saw thee late at the Count [[Orsino]]’s. |
-| [[Feste|FESTE]] | Foolery, sir, does walk about the orb like the sun, it shines everywhere. I would be sorry, sir, but the [[Fool|fool]] should be as oft with your master as with my mistress. I think I saw your wisdom there. |
-| [[Viola|VIOLA]] | Nay, an thou pass upon me, I’ll no more with thee. (Giving money) Hold, there’s expenses for thee. |
-| [[Feste|FESTE]] | Now Jove in his next commodity of hair send thee a beard. |
-| [[Viola|VIOLA]] | By my troth I’ll tell thee, I am almost sick for one, though I would not have it grow on my chin. Is thy lady within? |
-| [[Feste|FESTE]] | Would not a pair of these have bred, sir? |
-| [[Viola|VIOLA]] | Yes, being kept together and put to use. |
-| [[Feste|FESTE]] | I would play Lord [[Pandarus]] of Phrygia, sir, to bring a [[Cressida]] to this [[Troilus]]. |
-| [[Viola|VIOLA]] | (giving money) I understand you, sir, ’tis [[Well|well]] begged. |
-| [[Feste|FESTE]] | The matter I [[Hope|hope]] is not great, sir; begging but a beggar—[[Cressida]] was a beggar. My lady is within, sir. I will conster to them whence you come. Who you are and what you would are out of my welkin—I might say ‘element’, but the word is over-worn. Exit |
-| [[Viola|VIOLA]] | This fellow is wise enough to play the [[Fool|fool]], And to do that [[Well|well]] craves a kind of wit. He must observe their mood on whom he jests, The quality of persons, and the [[Time|time]], And, like the haggard, check at every feather That comes before his eye. This is a practice As full of labour as a wise man’s art, For folly that he wisely shows is fit, But wise men, folly-fall’n, quite taint their wit. Enter Sir Toby and Sir Andrew |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--02_exchange_sir_toby" data-title="Twelfth Night — Act III, Scene 1 — exchange (SIR TOBY) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SIR TOBY | Save you, gentleman. |
-| [[Viola|VIOLA]] | And you, sir. |
-| SIR ANDREW | Dieu vous garde, monsieur. |
-| [[Viola|VIOLA]] | Et vous aussi, votre serviteur. |
-| SIR ANDREW | I [[Hope|hope]], sir, you are, and I am yours. |
-| SIR TOBY | Will you encounter the [[house]]? My niece is desirous you should enter if your trade be to her. |
-| [[Viola|VIOLA]] | I am bound to your niece, sir: I mean she is the list of my voyage. |
-| SIR TOBY | Taste your legs, sir, put them to motion. |
-| [[Viola|VIOLA]] | My legs do better understand me, sir, than I understand what you mean by bidding me taste my legs. |
-| SIR TOBY | I mean to go, sir, to enter. |
-| [[Viola|VIOLA]] | I will answer you with gait and entrance. Enter [[Olivia]], and [[Maria]], her gentlewoman But we are prevented. (To [[Olivia]]) Most excellent accomplished lady, the heavens rain odours on you. |
-| SIR ANDREW | (to Sir Toby) That youth’s a rare courtier; ‘rain odours’—[[Well|well]]. |
-| [[Viola|VIOLA]] | My matter hath no voice, lady, but to your own most pregnant and vouchsafed ear. |
-| SIR ANDREW | (to Sir Toby) ‘Odours’, ‘pregnant’, and ‘vouchsafed’—I’ll get ’em all three all ready. |
-| [[Olivia|OLIVIA]] | Let the [[Garden|garden]] door be shut, and leave me to my hearing. Exeunt Sir Toby, Sir Andrew, and [[Maria]] Give me your hand, sir. |
-| [[Viola|VIOLA]] | My duty, madam, and most humble service. |
-| [[Olivia|OLIVIA]] | What is your name? |
-| [[Viola|VIOLA]] | Cesario is your servant’s name, fair princess. |
-| [[Olivia|OLIVIA]] | My servant, sir? ’Twas never merry world Since lowly feigning was called compliment. You’re servant to the Count [[Orsino]], youth. |
-| [[Viola|VIOLA]] | And he is yours, and his must needs be yours. Your servant’s servant is your servant, madam. |
-| [[Olivia|OLIVIA]] | For him, I think not on him. For his thoughts, Would they were blanks rather than filled with me. |
-| [[Viola|VIOLA]] | Madam, I come to whet your gentle thoughts On his behalf. |
-| [[Olivia|OLIVIA]] | O by your leave, I pray you. I bade you never speak again of him; But would you undertake another suit, I had rather hear you to solicit that Than music from the spheres. |
-| [[Viola|VIOLA]] | Dear lady— |
-| [[Olivia|OLIVIA]] | Give me leave, beseech you. I did send, After the last enchantment you did here, A ring in chase of you. So did I abuse Myself, my servant, and I [[Fear|fear]] me you. Under your hard construction must I sit, To force that on you in a shameful cunning Which you knew none of yours. What might you think? Have you not set mine [[Honour|honour]] at the stake And baited it with all th’unmuzzled thoughts That tyrannous heart can think? To one of your receiving Enough is shown. A cypress, not a bosom, Hides my heart. So let me hear you speak. |
-| [[Viola|VIOLA]] | I pity you. |
-| [[Olivia|OLIVIA]] | That’s a degree to [[Love|love]]. |
-| [[Viola|VIOLA]] | No, not a grece, for ’tis a vulgar proof That very oft we pity enemies. |
-| [[Olivia|OLIVIA]] | Why then, methinks ’tis [[Time|time]] to smile again. O world, how apt the poor are to be proud! If one should be a prey, how much the better To fall before the [[Lion|lion]] than the wolf! [[Clock]] strikes The [[Clock|clock]] upbraids me with the waste of [[Time|time]]. Be not afraid, good youth, I will not have you; And yet when wit and youth is come to harvest Your wife is like to reap a proper man. There lies your way, due west. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--03_exchange_viola" data-title="Twelfth Night — Act III, Scene 1 — exchange (VIOLA) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Viola|VIOLA]] | Then westward ho! Grace and good disposition attend your ladyship. You’ll nothing, madam, to my lord by me? |
-| [[Olivia|OLIVIA]] | Stay. I prithee tell me what thou think’st of me. |
-| [[Viola|VIOLA]] | That you do think you are not what you are. |
-| [[Olivia|OLIVIA]] | If I think so, I think the same of you. |
-| [[Viola|VIOLA]] | Then think you right, I am not what I am. |
-| [[Olivia|OLIVIA]] | I would you were as I would have you be. |
-| [[Viola|VIOLA]] | Would it be better, madam, than I am? I wish it might, for now I am your [[Fool|fool]]. |
-| [[Olivia|OLIVIA]] | (aside) O, what a deal of scorn looks beautiful In the contempt and anger of his lip! A murd’rous [[Guilt|guilt]] shows not itself more soon Than [[Love|love]] that would seem hid. [[Love]]’s [[Night|night]] is [[Noon|noon]]. (To [[Viola]]) Cesario, by the roses of the [[spring]], By maidhood, [[Honour|honour]], [[Truth|truth]], and everything, I [[Love|love]] thee so that, maugre all thy [[Pride|pride]], Nor wit nor reason can my passion hide. Do not extort thy reasons from this clause, For that I woo, thou therefore hast no cause. But rather reason thus with reason fetter: [[Love]] sought is good, but given unsought, is better. |
-| [[Viola|VIOLA]] | By [[innocence]] I swear, and by my youth, I have one heart, one bosom, and one [[Truth|truth]], And that no woman has, nor never none Shall mistress be of it save I [[Alone|alone]]. And so adieu, good madam. Never more Will I my master’s [[Tears|tears]] to you deplore. |
-| [[Olivia|OLIVIA]] | Yet come again, for thou perhaps mayst move That heart which now abhors, to like his [[Love|love]]. Exeunt severally |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--01_exchange_dialogue" data-title="Twelfth Night — Act III, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Olivia]] and [[Maria]] |
-| [[Olivia|OLIVIA]] | (aside) I have sent after him, he says he’ll come. How shall I feast him? What bestow of him? For youth is bought more oft than begged or borrowed. I speak too loud. (To [[Maria]]) Where’s [[Malvolio]]? He is sad and civil, 5 And suits [[Well|well]] for a servant with my fortunes. Where is [[Malvolio]]? |
-| [[Maria|MARIA]] | He’s coming, madam, but in very strange manner. He is sure possessed, madam. |
-| [[Olivia|OLIVIA]] | Why, what’s the matter? Does he rave? |
-| [[Maria|MARIA]] | No, madam, he does nothing but smile. Your ladyship were best to have some guard about you if he come, for sure the man is tainted in’s wits. |
-| [[Olivia|OLIVIA]] | Go call him hither. Exit [[Maria]] I am as mad as he, If sad and merry [[Madness|madness]] equal be. Enter [[Malvolio]], [[Cross|cross]]-gartered and wearing yellow stockings, with [[Maria]] How now, [[Malvolio]]? |
-| [[Malvolio|MALVOLIO]] | Sweet lady, ho, ho! |
-| [[Olivia|OLIVIA]] | Smil’st thou? I sent for thee upon a sad occasion. |
-| [[Malvolio|MALVOLIO]] | Sad, lady? I could be sad. This does make some obstruction in the [[Blood|blood]], this [[Cross|cross]]-gartering, but what of that? If it please the eye of one, it is with me as the very true [[Sonnet|sonnet]] is, ‘Please one, and please all’. [[Olivia|OLIVIA]] Why, how dost thou, man? What is the matter with thee? |
-| [[Malvolio|MALVOLIO]] | Not black in my mind, though yellow in my legs. It did come to his hands, and commands shall be executed. I think we do know the sweet roman hand. |
-| [[Olivia|OLIVIA]] | Wilt thou go to bed, [[Malvolio]]? |
-| [[Malvolio|MALVOLIO]] | (kissing his hand) To bed? ’Ay, sweetheart, and I’ll come to thee.’ |
-| [[Olivia|OLIVIA]] | God comfort thee. Why dost thou smile so, and kiss thy hand so oft? |
-| [[Maria|MARIA]] | How do you, [[Malvolio]]? |
-| [[Malvolio|MALVOLIO]] | At your request?—yes, nightingales answer daws. |
-| [[Maria|MARIA]] | Why appear you with this ridiculous boldness before my lady? |
-| [[Malvolio|MALVOLIO]] | ‘Be not afraid of [[Greatness|greatness]]’—’twas [[Well|well]] writ. |
-| [[Olivia|OLIVIA]] | What meanest thou by that, [[Malvolio]]? |
-| [[Malvolio|MALVOLIO]] | ‘Some are born great’— |
-| [[Olivia|OLIVIA]] | Ha? |
-| [[Malvolio|MALVOLIO]] | ‘Some achieve [[Greatness|greatness]]’— |
-| [[Olivia|OLIVIA]] | What sayst thou? |
-| [[Malvolio|MALVOLIO]] | ‘And some have [[Greatness|greatness]] thrust upon them.’ |
-| [[Olivia|OLIVIA]] | Heaven restore thee. |
-| [[Malvolio|MALVOLIO]] | ‘Remember who commended thy yellow stockings’— |
-| [[Olivia|OLIVIA]] | ‘Thy yellow stockings’? |
-| [[Malvolio|MALVOLIO]] | ‘And wished to see thee [[Cross|cross]]-gartered.’ |
-| [[Olivia|OLIVIA]] | ‘[[Cross]]-gartered’? |
-| [[Malvolio|MALVOLIO]] | ‘Go to, thou art made, if thou desirest to be so.’ |
-| [[Olivia|OLIVIA]] | Am I made? |
-| [[Malvolio|MALVOLIO]] | ‘If not, let me see thee a servant still.’ |
-| [[Olivia|OLIVIA]] | Why, this is very midsummer [[Madness|madness]]. Enter a Servant |
-| SERVANT | Madam, the young gentleman of the Count [[Orsino]]’s is returned. I could hardly entreat him back. He attends your ladyship’s pleasure. |
-| [[Olivia|OLIVIA]] | I’ll come to him. Exit Servant Good [[Maria]], let this fellow be looked to. Where’s my cousin Toby? Let some of my people have a special care of him, I would not have him miscarry for the half of my dowry. Exeunt [[Olivia]] and [[Maria]], severally |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--02_monologue_malvolio_o" data-title="Twelfth Night — Act III, Scene 4 — monologue (MALVOLIO O) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Malvolio|MALVOLIO]] | O ho, do you come near me now? No worse man than Sir Toby to look to me. This concurs directly with the letter, she sends him on purpose, that I may appear stubborn to him, for she incites me to that in the letter. ‘Cast thy humble slough,’ says she, ‘be opposite with a kinsman, surly with servants, let thy tongue tang arguments of state, put thyself into the trick of singularity’, and consequently sets down the manner how, as a sad face, a reverend carriage, a slow tongue, in the habit of some sir of note, and so forth. I have limed her, but it is Jove’s doing, and Jove make me thankful. And when she went away now, ‘let this fellow be looked to’. Fellow!—not ‘[[Malvolio]]’, nor after my degree, but ‘fellow’. Why, everything adheres together that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstance—what can be said?—nothing that can be can come between me and the full prospect of my hopes. [[Well]], Jove, not I, is the doer of this, and he is to be thanked. Enter Sir Toby, Fabian, and [[Maria]] |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--03_exchange_sir_toby" data-title="Twelfth Night — Act III, Scene 4 — exchange (SIR TOBY) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SIR TOBY | Which way is he, in the name of sanctity? If all the devils of hell be drawn in little, and Legion himself possessed him, yet I’ll speak to him. |
-| FABIAN | Here he is, here he is. (To [[Malvolio]]) How is’t with you, sir? How is’t with you, man? |
-| [[Malvolio|MALVOLIO]] | Go off, I discard you. Let me enjoy my private. Go off. |
-| [[Maria|MARIA]] | Lo, how hollow the fiend speaks within him. Did not I tell you? Sir Toby, my lady prays you to have a care of him. |
-| [[Malvolio|MALVOLIO]] | Aha, does she so? |
-| SIR TOBY | Go to, go to. Peace, peace, we must deal gently with him. Let me [[Alone|alone]]. How do you, [[Malvolio]]? How is’t with you? What, man, defy the devil. Consider, he’s an enemy to mankind. |
-| [[Malvolio|MALVOLIO]] | Do you know what you say? |
-| [[Maria|MARIA]] | La you, an you speak ill of the devil, how he takes it at heart. Pray God he be not bewitched. |
-| FABIAN | Carry his [[Water|water]] to th’ wise woman. |
-| [[Maria|MARIA]] | Marry, and it shall be done tomorrow morning, if I live. My lady would not lose him for more than I’ll say. |
-| [[Malvolio|MALVOLIO]] | How now, mistress? |
-| [[Maria|MARIA]] | O Lord! |
-| SIR TOBY | Prithee hold thy peace, this is not the way. Do you not see you move him? Let me [[Alone|alone]] with him. |
-| FABIAN | No way but gentleness, gently, gently. The fiend is rough, and will not be roughly used. |
-| SIR TOBY | Why how now, my bawcock? How dost thou, chuck? |
-| [[Malvolio|MALVOLIO]] | Sir! |
-| SIR TOBY | Ay, [[Biddy|biddy]], come with me. What man, ’tis not for gravity to play at cherry-pit with [[Satan]]. Hang him, foul collier. |
-| [[Maria|MARIA]] | Get him to say his prayers. Good Sir Toby, get him to pray. |
-| [[Malvolio|MALVOLIO]] | My prayers, minx? |
-| [[Maria|MARIA]] | No, I warrant you, he will not hear of godliness. |
-| [[Malvolio|MALVOLIO]] | Go hang yourselves, all. You are idle shallow things, I am not of your element. You shall know more hereafter. Exit |
-| SIR TOBY | Is’t possible? |
-| FABIAN | If this were played upon a stage, now, I could condemn it as an improbable fiction. |
-| SIR TOBY | His very genius hath taken the infection of the device, man. |
-| [[Maria|MARIA]] | Nay, pursue him now, lest the device take air and taint. |
-| FABIAN | Why, we shall make him mad indeed. |
-| [[Maria|MARIA]] | The [[house]] will be the quieter. |
-| SIR TOBY | Come, we’ll have him in a dark room and bound. My niece is already in the belief that he’s mad. We may carry it thus for our pleasure and his penance till our very pastime, tired out of breath, prompt us to have [[Mercy|mercy]] on him, at which [[Time|time]] we will bring the device to the bar and [[Crown|crown]] thee for a finder of madmen. But see, but see. Enter Sir Andrew with a paper |
-| FABIAN | More matter for a May morning. |
-| SIR ANDREW | Here’s the challenge, read it. I warrant there’s vinegar and pepper in’t. |
-| FABIAN | Is’t so saucy? |
-| SIR ANDREW | Ay—is’t? I warrant him. Do but read. |
-| SIR TOBY | Give me. (Reads) ‘Youth, whatsoever thou art, thou art but a scurvy fellow.’ |
-| FABIAN | Good, and valiant. |
-| SIR TOBY | ‘[[Wonder]] not, nor admire not in thy mind why I do call thee so, for I will show thee no reason for’t.’ |
-| FABIAN | A good note, that keeps you from the blow of the law. |
-| SIR TOBY | ‘Thou comest to the Lady [[Olivia]], and in my sight she uses thee kindly; but thou liest in thy throat, that is not the matter I challenge thee for.’ 155 |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--04_exchange_fabian" data-title="Twelfth Night — Act III, Scene 4 — exchange (FABIAN) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FABIAN | Very brief, and to exceeding good sense (aside) -less. |
-| SIR TOBY | ‘I will waylay thee going [[Home|home]], where if it be thy chance to kill me’— |
-| FABIAN | Good. |
-| SIR TOBY | ‘Thou killest me like a rogue and a [[Villain|villain]].’ |
-| FABIAN | Still you keep o’th’ windy side of the law—good. |
-| SIR TOBY | ‘Fare thee [[Well|well]], and God have [[Mercy|mercy]] upon one of our souls. He may have [[Mercy|mercy]] upon mine, but my [[Hope|hope]] is better, and so look to thyself. Thy friend as thou usest him, and thy sworn enemy, Andrew Aguecheek.’ If this letter move him not, his legs cannot. I’ll give’t him. |
-| [[Maria|MARIA]] | You may have very fit occasion for’t. He is now in some commerce with my lady, and will by and by depart. |
-| SIR TOBY | Go, Sir Andrew. Scout me for him at the corner of the orchard like a bum-baily. So soon as ever thou seest him, draw, and as thou drawest, swear horrible, for it comes to pass oft that a terrible oath, with a swaggering accent sharply twanged off, gives manhood more approbation than ever proof itself would have earned him. Away. |
-| SIR ANDREW | Nay, let me [[Alone|alone]] for swearing. Exit |
-| SIR TOBY | Now will not I deliver his letter, for the behaviour of the young gentleman gives him out to be of good capacity and breeding. His employment between his lord and my niece confirms no less. Therefore this letter, being so excellently ignorant, will breed no terror in the youth. He will find it comes from a clodpoll. But, sir, I will deliver his challenge by word of mouth, set upon Aguecheek a notable report of valour, and drive the gentleman—as I know his youth will aptly receive it—into a most hideous opinion of his rage, skill, fury, and impetuosity. This will so fright them both that they will kill one another by the look, like cockatrices. Enter [[Olivia]], and [[Viola]] as Cesario |
-| FABIAN | Here he comes with your niece. Give them way till he take leave, and presently after him. |
-| SIR TOBY | I will meditate the while upon some horrid message for a challenge. Exeunt Sir Toby, Fabian, and [[Maria]] |
-| [[Olivia|OLIVIA]] | I have said too much unto a heart of stone, And laid mine [[Honour|honour]] too unchary out. There’s something in me that reproves my fault, But such a headstrong potent fault it is That it but mocks reproof. |
-| [[Viola|VIOLA]] | With the same ’haviour That your passion bears goes on my master’s griefs. |
-| [[Olivia|OLIVIA]] | (giving a [[Jewel|jewel]]) Here, wear this [[Jewel|jewel]] for me, ’tis my picture— Refuse it not, it hath no tongue to vex you— And I beseech you come again tomorrow. What shall you ask of me that I’ll deny, That [[Honour|honour]], saved, may upon asking give? |
-| [[Viola|VIOLA]] | Nothing but this: your true [[Love|love]] for my master. |
-| [[Olivia|OLIVIA]] | How with mine [[Honour|honour]] may I give him that Which I have given to you? |
-| [[Viola|VIOLA]] | I will acquit you. |
-| [[Olivia|OLIVIA]] | [[Well]], come again tomorrow. Fare thee [[Well|well]]. A fiend like thee might bear my [[Soul|soul]] to hell. Exit Enter Sir Toby and Fabian |
-| SIR TOBY | Gentleman, God save thee. |
-| [[Viola|VIOLA]] | And you, sir. |
-| SIR TOBY | That defence thou hast, betake thee to’t. Of what [[Nature|nature]] the wrongs are thou hast done him, I know not, but thy intercepter, full of despite, bloody as the hunter, attends thee at the orchard end. Dismount thy tuck, be yare in thy preparation, for thy assailant is quick, skilful, and deadly. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--05_exchange_viola" data-title="Twelfth Night — Act III, Scene 4 — exchange (VIOLA) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Viola|VIOLA]] | You mistake, sir, I am sure no man hath any quarrel to me. My remembrance is very free and clear from any image of offence done to any man. |
-| SIR TOBY | You’ll find it otherwise, I assure you. Therefore, if you hold your life at any price, betake you to your guard, for your opposite hath in him what youth, strength, skill, and wrath can furnish man withal. |
-| [[Viola|VIOLA]] | I pray you, sir, what is he? |
-| SIR TOBY | He is knight dubbed with unhatched rapier and on carpet consideration, but he is a devil in private brawl. Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of [[Death|death]] and sepulchre. Hob nob is his word, give’t or take’t. |
-| [[Viola|VIOLA]] | I will return again into the [[house]] and [[Desire|desire]] some conduct of the lady. I am no fighter. I have heard of some kind of men that put quarrels purposely on others, to taste their valour. Belike this is a man of that quirk. |
-| SIR TOBY | Sir, no. His indignation derives itself out of a very competent injury, therefore get you on, and give him his [[Desire|desire]]. Back you shall not to the [[house]] unless you undertake that with me which with as much safety you might answer him. Therefore on, or strip your [[Sword|sword]] stark naked, for meddle you must, that’s certain, or forswear to wear iron about you. |
-| [[Viola|VIOLA]] | This is as uncivil as strange. I beseech you do me this courteous office, as to know of the knight what my offence to him is. It is something of my negligence, nothing of my purpose. |
-| SIR TOBY | I will do so. Signor Fabian, stay you by this gentleman till my return. Exit |
-| [[Viola|VIOLA]] | Pray you, sir, do you know of this matter? |
-| FABIAN | I know the knight is incensed against you even to a mortal arbitrement, but nothing of the circumstance more. |
-| [[Viola|VIOLA]] | I beseech you, what manner of man is he? |
-| FABIAN | Nothing of that wonderful promise to read him by his form as you are like to find him in the proof of his valour. He is indeed, sir, the most skilful, bloody, and fatal opposite that you could possibly have found in any part of Illyria. Will you walk towards him, I will make your peace with him if I can. |
-| [[Viola|VIOLA]] | I shall be much bound to you for’t. I am one that had rather go with Sir Priest than Sir Knight—I care not who knows so much of my mettle. Exeunt Enter Sir Toby and Sir Andrew |
-| SIR TOBY | Why, man, he’s a very devil, I have not seen such a virago. I had a pass with him, rapier, scabbard, and all, and he gives me the stuck-in with such a mortal motion that it is inevitable, and on the answer, he pays you as surely as your feet hits the ground they step on. They say he has been fencer to the Sophy. |
-| SIR ANDREW | Pox on’t, I’ll not meddle with him. |
-| SIR TOBY | Ay, but he will not now be pacified, Fabian can scarce hold him yonder. |
-| SIR ANDREW | Plague on’t, an I thought he had been valiant and so cunning in fence I’d have seen him damned ere I’d have challenged him. Let him let the matter slip and I’ll give him my [[Horse|horse]], grey [[Capulet]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--06_exchange_sir_toby" data-title="Twelfth Night — Act III, Scene 4 — exchange (SIR TOBY) [6]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SIR TOBY | I’ll make the motion. Stand here, make a good show on’t—this shall end without the perdition of souls. (Aside) Marry, I’ll ride your [[Horse|horse]] as [[Well|well]] as I ride you. Enter Fabian, and [[Viola]] as Cesario [Aside to Fabian] I have his [[Horse|horse]] to take up the quarrel, I have persuaded him the youth’s a devil. |
-| FABIAN | (aside to Sir Toby) He is as horribly conceited of him, and pants and looks pale as if a bear were at his heels. |
-| SIR TOBY | (to [[Viola]]) There’s no remedy, sir, he will fight with you for’s oath’ sake. Marry, he hath better bethought him of his quarrel, and he finds that now scarce to be worth talking of. Therefore draw for the supportance of his vow, he protests he will not hurt you. |
-| [[Viola|VIOLA]] | (aside) Pray God defend me. A little thing would make me tell them how much I lack of a man. |
-| FABIAN | (to Sir Andrew) Give ground if you see him furious. |
-| SIR TOBY | Come, Sir Andrew, there’s no remedy, the gentleman will for his [[Honour|honour]]’s sake have one bout with you, he cannot by the duello avoid it, but he has promised me, as he is a gentleman and a soldier, he will not hurt you. Come on, to’t. |
-| SIR ANDREW | Pray God he keep his oath. Enter [[Antonio]] |
-| [[Viola|VIOLA]] | I do assure you ’tis against my will. Sir Andrew and [[Viola]] draw their swords |
-| [[Antonio|ANTONIO]] | (drawing his [[Sword|sword]], to Sir Andrew) Put up your [[Sword|sword]]. If this young gentleman Have done offence, I take the fault on me. If you offend him, I for him defy you. |
-| SIR TOBY | You, sir? Why, what are you? |
-| [[Antonio|ANTONIO]] | One, sir, that for his [[Love|love]] dares yet do more Than you have heard him brag to you he will. |
-| SIR TOBY | (drawing his [[Sword|sword]]) Nay, if you be an undertaker, I am for you. Enter Officers |
-| FABIAN | O, good Sir Toby, hold. Here come the officers. |
-| SIR TOBY | (to [[Antonio]]) I’ll be with you anon. |
-| [[Viola|VIOLA]] | (to Sir Andrew) Pray, sir, put your [[Sword|sword]] up if you please. |
-| SIR ANDREW | Marry will I, sir, and for that I promised you I’ll be as good as my word. He will bear you easily, and reins [[Well|well]]. Sir Andrew and [[Viola]] put up their swords |
-| FIRST OFFICER | This is the man, do thy office. |
-| SECOND OFFICER | [[Antonio]], I arrest thee at the suit of Count [[Orsino]]. |
-| [[Antonio|ANTONIO]] | You do mistake me, sir. |
-| FIRST OFFICER | No, sir, no jot. I know your favour [[Well|well]], Though now you have no seacap on your head. (To Second Officer) Take him away, he knows I know him [[Well|well]]. |
-| [[Antonio|ANTONIO]] | I must obey. (To [[Viola]]) This comes with seeking you. But there’s no remedy, I shall answer it. What will you do now my necessity Makes me to ask you for my purse? It grieves me Much more for what I cannot do for you Than what befalls myself. You stand amazed, But be of comfort. |
-| SECOND OFFICER | Come, sir, away. |
-| [[Antonio|ANTONIO]] | (to [[Viola]]) I must entreat of you some of that money. |
-| [[Viola|VIOLA]] | What money, sir? For the fair kindness you have showed me here, And part being prompted by your present trouble, Out of my lean and low ability I’ll lend you something. My having is not much. I’ll make division of my present with you. Hold, (offering money) there’s half my coffer. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--07_exchange_antonio" data-title="Twelfth Night — Act III, Scene 4 — exchange (ANTONIO) [7]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Antonio|ANTONIO]] | Will you deny me now? Is’t possible that my deserts to you Can lack [[Persuasion|persuasion]]? Do not tempt my misery, Lest that it make me so unsound a man As to upbraid you with those kindnesses That I have done for you. |
-| [[Viola|VIOLA]] | I know of none, Nor know I you by voice, or any feature. I hate ingratitude more in a man Than lying, vainness, babbling drunkenness, Or any taint of vice whose strong corruption Inhabits our frail [[Blood|blood]]. |
-| [[Antonio|ANTONIO]] | O heavens themselves! |
-| SECOND OFFICER | Come, sir, I pray you go. |
-| [[Antonio|ANTONIO]] | Let me speak a little. This youth that you see here I snatched one half out of the jaws of [[Death|death]], Relieved him with such sanctity of [[Love|love]], And to his image, which methought did promise Most venerable worth, did I devotion. |
-| FIRST OFFICER | What’s that to us? The [[Time|time]] goes by, away. |
-| [[Antonio|ANTONIO]] | But O, how vile an idol proves this god! Thou hast, [[Sebastian]], done good feature shame. In [[Nature|nature]] there’s no blemish but the mind. None can be called deformed but the unkind. Virtue is [[Beauty|beauty]], but the beauteous evil Are empty trunks o’er-flourished by the devil. |
-| FIRST OFFICER | The man grows mad, away with him. Come, come, sir. |
-| [[Antonio|ANTONIO]] | Lead me on. Exit with Officers |
-| [[Viola|VIOLA]] | (aside) Methinks his words do from such passion fly That he believes himself. So do not I. Prove true, [[Imagination|imagination]], O prove true, That I, dear brother, be now ta’en for you! |
-| SIR TOBY | Come hither, knight. Come hither, Fabian. We’ll whisper o’er a couplet or two of most sage saws. They stand aside |
-| [[Viola|VIOLA]] | He named [[Sebastian]]. I my brother know Yet living in my glass. Even such and so In favour was my brother, and he went Still in this fashion, colour, ornament, For him I imitate. O, if it prove, Tempests are kind, and salt waves fresh in [[Love|love]]! Exit |
-| SIR TOBY | (to Sir Andrew) A very dishonest, paltry boy, and more a coward than a hare. His dishonesty appears in leaving his friend here in necessity, and denying him; and for his cowardship, ask Fabian. |
-| FABIAN | A coward, a most devout coward, religious in it. |
-| SIR ANDREW | ’Slid, I’ll after him again, and beat him. |
-| SIR TOBY | Do, cuff him soundly, but never draw thy [[Sword|sword]]. |
-| SIR ANDREW | An I do not— Exit |
-| FABIAN | Come, let’s see the event. |
-| SIR TOBY | I dare lay any money ’twill be nothing yet. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="Twelfth Night — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Feste]] the clown and Fabian |
-| FABIAN | Now, as thou lovest me, let me see his letter. |
-| [[Feste|FESTE]] | Good Master Fabian, grant me another request. |
-| FABIAN | Anything. |
-| [[Feste|FESTE]] | Do not [[Desire|desire]] to see this letter. |
-| FABIAN | This is to give a dog, and in recompense [[Desire|desire]] my dog again. Enter the Duke, [[Viola]] as Cesario, Curio, and lords |
-| [[Orsino|ORSINO]] | Belong you to the Lady [[Olivia]], friends? |
-| [[Feste|FESTE]] | Ay, sir, we are some of her trappings. |
-| [[Orsino|ORSINO]] | I know thee [[Well|well]]. How dost thou, my good fellow? [[Feste|FESTE]] Truly, sir, the better for my foes and the worse for my friends. |
-| [[Orsino|ORSINO]] | Just the contrary—the better for thy friends. |
-| [[Feste|FESTE]] | No, sir, the worse. |
-| [[Orsino|ORSINO]] | How can that be? |
-| [[Feste|FESTE]] | Marry, sir, they praise me, and make an ass of me. Now my foes tell me plainly I am an ass, so that by my foes, sir, I profit in the knowledge of myself, and by my friends I am abused; so that, conclusions to be as kisses, if your four negatives make your two affirmatives, why then the worse for my friends and the better for my foes. |
-| [[Orsino|ORSINO]] | Why, this is excellent. |
-| [[Feste|FESTE]] | By my troth, sir, no, though it please you to be one of my friends. |
-| [[Orsino|ORSINO]] | (giving money) Thou shalt not be the worse for me. There’s gold. |
-| [[Feste|FESTE]] | But that it would be [[Double|double]]-dealing, sir, I would you could make it another. |
-| [[Orsino|ORSINO]] | O, you give me ill counsel. |
-| [[Feste|FESTE]] | Put your grace in your pocket, sir, for this once, and let your flesh and [[Blood|blood]] obey it. |
-| [[Orsino|ORSINO]] | [[Well]], I will be so much a sinner to be a [[Double|double]]-dealer. (Giving money) There’s another. |
-| [[Feste|FESTE]] | Primo, secundo, tertio is a good play, and the old saying is ‘The third pays for all’. The triplex, sir, is a good tripping measure, or [[The Bells|the bells]] of Saint Bennet, sir, may put you in mind—‘one, two, three’. |
-| [[Orsino|ORSINO]] | You can [[Fool|fool]] no more money out of me at this throw. If you will let your lady know I am here to speak with her, and bring her along with you, it may awake my bounty further. |
-| [[Feste|FESTE]] | Marry, sir, lullaby to your bounty till I come again. I go, sir, but I would not have you to think that my [[Desire|desire]] of having is the sin of covetousness. But as you say, sir, let your bounty take a nap, I will awake it anon. Exit Enter [[Antonio]] and Officers |
-| [[Viola|VIOLA]] | Here comes the man, sir, that did rescue me. |
-| [[Orsino|ORSINO]] | That face of his I do remember [[Well|well]], Yet when I saw it last it was besmeared As black as Vulcan in the smoke of war. A baubling vessel was he captain of, For shallow draught and bulk unprizable, With which such scatheful grapple did he make With the most noble [[Bottom|bottom]] of our fleet That very envy and the tongue of loss Cried fame and [[Honour|honour]] on him. What’s the matter? |
-| FIRST OFFICER | [[Orsino]], this is that [[Antonio]] That took the Phoenix and her freight from Candy, And this is he that did the Tiger board When your young nephew Titus lost his leg. Here in the streets, desperate of shame and state, In private brabble did we apprehend him. |
-| [[Viola|VIOLA]] | He did me kindness, sir, drew on my side, But in conclusion put strange speech upon me. I know not what ’twas but distraction. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--02_exchange_orsino" data-title="Twelfth Night — Act V, Scene 1 — exchange (ORSINO) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Orsino|ORSINO]] | (to [[Antonio]]) Notable pirate, thou salt-[[Water|water]] thief, What foolish boldness brought thee to their mercies Whom thou in terms so bloody and so dear Hast made thine enemies? |
-| [[Antonio|ANTONIO]] | [[Orsino]], noble sir, Be pleased that I shake off these names you give me. [[Antonio]] never yet was thief or pirate, Though, I confess, on base and ground enough [[Orsino]]’s enemy. A witchcraft drew me hither. That most ingrateful boy there by your side From the rude sea’s enraged and foamy mouth Did I redeem. A wreck past [[Hope|hope]] he was. His life I gave him, and did thereto add My [[Love|love]] without retention or restraint, All his in dedication. For his sake Did I expose myself, pure for his [[Love|love]], Into the danger of this adverse town, Drew to defend him when he was beset, Where being apprehended, his false cunning— Not meaning to partake with me in danger— Taught him to face me out of his acquaintance, And grew a twenty years’ removed thing While one would wink, denied me mine own purse, Which I had recommended to his use Not half an hour before. |
-| [[Viola|VIOLA]] | How can this be? |
-| [[Orsino|ORSINO]] | When came he to this town? |
-| [[Antonio|ANTONIO]] | Today, my lord, and for three months before, No int’rim, not a minute’s vacancy, Both day and [[Night|night]] did we keep company. Enter [[Olivia]] and attendants |
-| [[Orsino|ORSINO]] | Here comes the Countess. Now heaven walks on earth. But for thee, fellow—fellow, thy words are [[Madness|madness]]. Three months this youth hath tended upon me. But more of that anon. Take him aside. |
-| [[Olivia|OLIVIA]] | What would my lord, but that he may not have, Wherein [[Olivia]] may seem serviceable? Cesario, you do not keep promise with me. |
-| [[Viola|VIOLA]] | Madam— |
-| [[Orsino|ORSINO]] | Gracious [[Olivia]]— |
-| [[Olivia|OLIVIA]] | What do you say, Cesario? Good my lord— |
-| [[Viola|VIOLA]] | My lord would speak, my duty hushes me. |
-| [[Olivia|OLIVIA]] | If it be aught to the old tune, my lord, It is as fat and fulsome to mine ear As howling after music. |
-| [[Orsino|ORSINO]] | Still so cruel? |
-| [[Olivia|OLIVIA]] | Still so constant, lord. |
-| [[Orsino|ORSINO]] | What, to perverseness? You uncivil lady, To whose ingrate and unauspicious altars My [[Soul|soul]] the faithfull‘st off’rings hath breathed out That e’er devotion tendered—what shall I do? |
-| [[Olivia|OLIVIA]] | Even what it please my lord that shall become him. |
-| [[Orsino|ORSINO]] | Why should I not, had I the heart to do it, Like to th’ Egyptian thief, at point of [[Death|death]] Kill what I [[Love|love]]—a savage [[Jealousy|jealousy]] That sometime savours nobly. But hear me this: Since you to non-regardance cast my [[Faith|faith]], And that I partly know the instrument That screws me from my true place in your favour, Live you the marble-breasted [[Tyrant|tyrant]] still. But this your minion, whom I know you [[Love|love]], And whom, by heaven I swear, I tender dearly, Him will I tear out of that cruel eye Where he sits crowned in his master’s spite. (To [[Viola]]) Come, boy, with me. My thoughts are ripe in mischief. I’ll sacrifice the [[Lamb|lamb]] that I do [[Love|love]] To spite a raven’s heart within a dove. |
-| [[Viola|VIOLA]] | And I most jocund, apt, and willingly To do you rest a thousand deaths would die. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--03_exchange_olivia" data-title="Twelfth Night — Act V, Scene 1 — exchange (OLIVIA) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Olivia|OLIVIA]] | Where goes Cesario? |
-| [[Viola|VIOLA]] | After him I [[Love|love]] More than I [[Love|love]] these eyes, more than my life, More by all mores than e’er I shall [[Love|love]] wife. If I do feign, you witnesses above, Punish my life for tainting of my [[Love|love]]. |
-| [[Olivia|OLIVIA]] | Ay me detested, how am I beguiled! |
-| [[Viola|VIOLA]] | Who does beguile you? Who does do you wrong? |
-| [[Olivia|OLIVIA]] | Hast thou forgot thyself? Is it so long? Call forth the holy father. Exit an attendant |
-| [[Orsino|ORSINO]] | (to [[Viola]]) Come, away. |
-| [[Olivia|OLIVIA]] | Whither, my lord? Cesario, husband, stay. |
-| [[Orsino|ORSINO]] | Husband? |
-| [[Olivia|OLIVIA]] | Ay, husband. Can he that deny? |
-| [[Orsino|ORSINO]] | (to [[Viola]]) Her husband, sirrah? |
-| [[Viola|VIOLA]] | No, my lord, not I. |
-| [[Olivia|OLIVIA]] | Alas, it is the baseness of thy [[Fear|fear]] That makes thee strangle thy propriety. [[Fear]] not, Cesario, take thy fortunes up, Be that thou know‘st thou art, and then thou art As great as that thou [[Fear|fear]]’st. Enter the Priest O welcome, father. Father, I charge thee by thy reverence Here to unfold—though lately we intended To keep in darkness what occasion now Reveals before ’tis ripe—what thou dost know Hath newly passed between this youth and me. |
-| PRIEST | A contract of eternal bond of [[Love|love]], Confirmed by mutual joinder of your hands, Attested by the holy close of lips, Strengthened by interchangement of your rings, And all the ceremony of this compact Sealed in my function, by my testimony; Since when, my watch hath told me, toward my [[Grave|grave]] I have travelled but two hours. |
-| [[Orsino|ORSINO]] | (to [[Viola]]) O thou dissembling cub, what wilt thou be When [[Time|time]] hath sowed a grizzle on thy case? Or will not else thy craft so quickly grow That thine own trip shall be thine overthrow? Farewell, and take her, but direct thy feet Where thou and I henceforth may never meet. |
-| [[Viola|VIOLA]] | My lord, I do protest. |
-| [[Olivia|OLIVIA]] | O, do not swear! Hold little [[Faith|faith]], though thou hast too much [[Fear|fear]]. Enter Sir Andrew |
-| SIR ANDREW | For the [[Love|love]] of God, a surgeon—send one presently to Sir Toby. |
-| [[Olivia|OLIVIA]] | What’s the matter? |
-| SIR ANDREW | He’s broke my head across, and has given Sir Toby a bloody coxcomb, too. For the [[Love|love]] of God, your help! I had rather than forty pound I were at [[Home|home]]. |
-| [[Olivia|OLIVIA]] | Who has done this, Sir Andrew? |
-| SIR ANDREW | The Count’s gentleman, one Cesario. We took him for a coward, but he’s the very devil incardinate. |
-| [[Orsino|ORSINO]] | My gentleman, Cesario? |
-| SIR ANDREW | ’Od’s lifelings, here he is. (To [[Viola]]) You broke my head for nothing, and that that I did I was set on to do’t by Sir Toby. |
-| [[Viola|VIOLA]] | Why do you speak to me? I never hurt you. You drew your [[Sword|sword]] upon me without cause, But I bespake you fair, and hurt you not. Enter Sir Toby and [[Feste]], the clown |
-| SIR ANDREW | If a bloody coxcomb be a hurt you have hurt me. I think you set nothing by a bloody coxcomb. Here comes Sir Toby, halting. You shall hear more; but if he had not been in drink he would have tickled you othergates than he did. |
-| [[Orsino|ORSINO]] | (to Sir Toby) How now, gentleman? How is’t with you? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--04_exchange_sir_toby" data-title="Twelfth Night — Act V, Scene 1 — exchange (SIR TOBY) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SIR TOBY | That’s all one, he’s hurt me, and there’s th’end on’t. (To [[Feste]]) Sot, didst see Dick Surgeon, sot? |
-| [[Feste|FESTE]] | O, he’s drunk, Sir Toby, an hour agone. His eyes were set at eight i’th’ morning. |
-| SIR TOBY | Then he’s a rogue, and a passy-measures pavan. I hate a drunken rogue. |
-| [[Olivia|OLIVIA]] | Away with him! Who hath made this havoc with them? |
-| SIR ANDREW | I’ll help you, Sir Toby, because we’ll be dressed together. |
-| SIR TOBY | Will you help—an ass-head, and a coxcomb, and a knave; a thin-faced knave, a gull? |
-| [[Olivia|OLIVIA]] | Get him to bed, and let his hurt be looked to. Exeunt Sir Toby, Sir Andrew, [[Feste]], and Fabian Enter [[Sebastian]] |
-| [[Sebastian|SEBASTIAN]] | (to [[Olivia]]) I am sorry, madam, I have hurt your kinsman, But had it been the brother of my [[Blood|blood]] I must have done no less with wit and safety. You throw a strange regard upon me, and by that I do perceive it hath offended you. Pardon me, sweet one, even for the vows We made each other but so late ago. |
-| [[Orsino|ORSINO]] | One face, one voice, one habit, and two persons, A natural perspective, that is and is not. |
-| [[Sebastian|SEBASTIAN]] | [[Antonio]]! O, my dear [[Antonio]], How have the hours racked and tortured me Since I have lost thee! |
-| [[Antonio|ANTONIO]] | [[Sebastian]] are you? |
-| [[Sebastian|SEBASTIAN]] | [[Fear]]’st thou that, [[Antonio]]? |
-| [[Antonio|ANTONIO]] | How have you made division of yourself? An apple cleft in two is not more twin Than these two creatures. Which is [[Sebastian]]? |
-| [[Olivia|OLIVIA]] | Most wonderfull |
-| [[Sebastian|SEBASTIAN]] | (seeing [[Viola]]) Do I stand there? I never had a brother, Nor can there be that deity in my [[Nature|nature]] Of here and everywhere. I had a sister, Whom the blind waves and surges have devoured. Of [[Charity|charity]], what kin are you to me? What countryman? What name? What parentage? |
-| [[Viola|VIOLA]] | Of Messaline. [[Sebastian]] was my father. Such a [[Sebastian]] was my brother, too. So went he suited to his watery tomb. If spirits can assume both form and suit You come to fright us. |
-| [[Sebastian|SEBASTIAN]] | A spirit I am indeed, But am in that dimension grossly clad Which from the womb I did participate. Were you a woman, as the rest goes even, I should my [[Tears|tears]] let fall upon your cheek And say ‘Thrice welcome, drowned [[Viola]].’ |
-| [[Viola|VIOLA]] | My father had a mole upon his brow |
-| [[Sebastian|SEBASTIAN]] | And so had mine. |
-| [[Viola|VIOLA]] | And died that day when [[Viola]] from her birth Had numbered thirteen years. |
-| [[Sebastian|SEBASTIAN]] | O, that record is lively in my [[Soul|soul]]. He finished indeed his mortal act That day that made my sister thirteen years. |
-| [[Viola|VIOLA]] | If nothing lets to make us happy both But this my masculine usurped attire, Do not embrace me till each circumstance Of place, [[Time|time]], fortune do cohere and jump That I am [[Viola]], which to confirm I’ll bring you to a captain in this town Where lie my maiden weeds, by whose gentle help I was preserved to serve this noble count. All the occurrence of my fortune since Hath been between this lady and this lord. |
-| [[Sebastian|SEBASTIAN]] | (to [[Olivia]]) So comes it, lady, you have been mistook. But [[Nature|nature]] to her bias drew in that. You would have been contracted to a maid, Nor are you therein, by my life, deceived. You are betrothed both to a maid and man. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--05_exchange_orsino" data-title="Twelfth Night — Act V, Scene 1 — exchange (ORSINO) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Orsino|ORSINO]] | (to [[Olivia]]) Be not amazed. Right noble is his [[Blood|blood]]. If this be so, as yet the glass seems true, I shall have share in this most happy wreck. (To [[Viola]]) Boy, thou hast said to me a thousand times Thou never shouldst [[Love|love]] woman like to me. |
-| [[Viola|VIOLA]] | And all those sayings will I overswear, And all those swearings keep as true in [[Soul|soul]] As doth that orbed continent the [[Fire|fire]] That severs day from [[Night|night]]. |
-| [[Orsino|ORSINO]] | Give me thy hand, And let me see thee in thy woman’s weeds. |
-| [[Viola|VIOLA]] | The captain that did bring me first on shore Hath my maid’s garments. He upon some action Is now in durance, at [[Malvolio]]’s suit, A gentleman and follower of my lady’s. |
-| [[Olivia|OLIVIA]] | He shall enlarge him. Fetch [[Malvolio]] hither— And yet, alas, now I remember me, They say, poor gentleman, he’s much distraught. Enter [[Feste]] the clown with a letter, and Fabian A most extracting frenzy of mine own From my remembrance clearly banished his. How does he, sirrah? |
-| [[Feste|FESTE]] | Truly, madam, he holds Beelzebub at the stave’s end as [[Well|well]] as a man in his case may do. He’s here writ a letter to you. I should have given’t you today morning. But as a madman’s epistles are no gospels, so it skills not much when they are delivered. |
-| [[Olivia|OLIVIA]] | Open’t and read it. |
-| [[Feste|FESTE]] | Look then to be [[Well|well]] edified when the [[Fool|fool]] delivers the madman. (Reads) ‘By the Lord, madam’— |
-| [[Olivia|OLIVIA]] | How now, art thou mad? |
-| [[Feste|FESTE]] | No, madam, I do but read [[Madness|madness]]. An your ladyship will have it as it ought to be you must allow vox. |
-| [[Olivia|OLIVIA]] | Prithee, read i’thy right wits. |
-| [[Feste|FESTE]] | So I do, madonna, but to read his right wits is to read thus. Therefore perpend, my princess, and give ear. |
-| [[Olivia|OLIVIA]] | (to Fabian) Read it you, sirrah. [[Feste]] gives the letter to Fabian |
-| FABIAN | (reads) ‘By the Lord, madam, you wrong me, and the world shall know it. Though you have put me into darkness and given your drunken cousin rule over me, yet have I the benefit of my senses as [[Well|well]] as your ladyship. I have your own letter that induced me to the semblance I put on, with the which I [[Doubt|doubt]] not but to do myself much right or you much shame. Think of me as you please. I leave my duty a little unthought of, and speak out of my injury. The madly-used [[Malvolio]].’ |
-| [[Olivia|OLIVIA]] | Did he write this? |
-| [[Feste|FESTE]] | Ay, madam. |
-| [[Orsino|ORSINO]] | This savours not much of distraction. |
-| [[Olivia|OLIVIA]] | See him delivered, Fabian, bring him hither. My lord, so please you—these things further thought on— To think me as [[Well|well]] a sister as a wife, One day shall [[Crown|crown]] th‘alliance on’t, so please you, Here at my [[house]] and at my proper cost. |
-| [[Orsino|ORSINO]] | Madam, I am most apt t’embrace your offer. (To [[Viola]]) Your master quits you, and for your service done him So much against the mettle of your sex, So far beneath your soft and tender breeding, And since you called me master for so long, Here is my hand. You shall from this [[Time|time]] be Your master’s mistress. |
-| [[Olivia|OLIVIA]] | (to [[Viola]]) A sister, you are she. Enter [[Malvolio]] |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--06_exchange_orsino" data-title="Twelfth Night — Act V, Scene 1 — exchange (ORSINO) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Orsino|ORSINO]] | Is this the madman? |
-| [[Olivia|OLIVIA]] | Ay, my lord, this same. How now, [[Malvolio]]? |
-| [[Malvolio|MALVOLIO]] | Madam, you have done me wrong, Notorious wrong. |
-| [[Olivia|OLIVIA]] | Have I, [[Malvolio]]? No. |
-| [[Malvolio|MALVOLIO]] | (showing a letter) Lady, you have. Pray you peruse that letter. You must not now deny it is your hand. Write from it if you can, in hand or phrase, Or say ‘tis not your seal, not your invention. You can say none of this. [[Well]], grant it then, And tell me in the modesty of [[Honour|honour]] Why you have given me such clear lights of favour, Bade me come smiling and [[Cross|cross]]-gartered to you, To put on yellow stockings, and to frown Upon Sir Toby and the lighter people, And acting this in an obedient [[Hope|hope]], Why have you suffered me to be imprisoned, Kept in a dark [[house]], visited by the priest, And made the most notorious geck and gull That e’er invention played on? Tell me why? |
-| [[Olivia|OLIVIA]] | Alas, [[Malvolio]], this is not my writing, Though I confess much like the character, But out of question, ‘tis [[Maria]]’s hand. And now I do bethink me, it was she First told me thou wast mad; then cam’st in smiling, And in such forms which here were presupposed Upon thee in the letter. Prithee be content; This practice hath most shrewdly passed upon thee, But when we know the grounds and authors of it Thou shalt be both the plaintiff and the judge Of thine own cause. |
-| FABIAN | Good madam, hear me speak, And let no quarrel nor no brawl to come Taint the condition of this present hour, Which I have wondered at. In [[Hope|hope]] it shall not, Most freely I confess myself and Toby Set this device against [[Malvolio]] here Upon some stubborn and uncourteous parts We had conceived against him. [[Maria]] writ The letter, at Sir Toby’s great importance, In recompense whereof he hath married her. How with a sportful malice it was followed May rather pluck on laughter than [[Revenge|revenge]] If that the injuries be justly weighed That have on both sides passed. |
-| [[Olivia|OLIVIA]] | (to [[Malvolio]]) Alas, poor [[Fool|fool]], how have they baffled thee! |
-| [[Feste|FESTE]] | Why, ‘Some are born great, some achieve [[Greatness|greatness]], and some have [[Greatness|greatness]] thrown upon them.’ I was one, sir, in this interlude, one Sir Topas, sir; but that’s all one. ‘By the Lord, [[Fool|fool]], I am not mad’—but do you remember, ‘Madam, why laugh you at such a barren rascal, an you smile not, he’s gagged’—and thus the whirligig of [[Time|time]] brings in his revenges. |
-| [[Malvolio|MALVOLIO]] | I’ll be revenged on the whole pack of you. Exit |
-| [[Olivia|OLIVIA]] | He hath been most notoriously abused. |
-| [[Orsino|ORSINO]] | Pursue him, and entreat him to a peace. He hath not told us of the captain yet. Exit one or more When that is known, and golden [[Time|time]] convents, A solemn combination shall be made Of our dear souls. Meantime, sweet sister, We will not part from hence. Cesario, come— For so you shall be while you are a man; But when in other habits you are seen, [[Orsino]]’s mistress, and his fancy’s [[Queen|queen]]. Exeunt all but [[Feste]] |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--07_exchange_feste" data-title="Twelfth Night — Act V, Scene 1 — exchange (FESTE) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Feste|FESTE]] | (sings) When that I was and a little tiny boy, With hey, ho, the [[Wind|wind]] and the rain, A foolish thing was but a toy, For the rain it raineth every day. |
-| [[Feste|FESTE]] | But when I came to man’s estate, With hey, ho, the [[Wind|wind]] and the rain, ’Gainst knaves and thieves men shut their gate, For the rain it raineth every day. |
-| [[Feste|FESTE]] | But when I came, alas, to wive, With hey, ho, the [[Wind|wind]] and the rain, By swaggering could I never thrive, For the rain it raineth every day. |
-| [[Feste|FESTE]] | But when I came unto my beds, With hey, ho, the [[Wind|wind]] and the rain, With tosspots still had drunken heads, For the rain it raineth every day. |
-| [[Feste|FESTE]] | A great while ago the world begun, With hey ho, the [[Wind|wind]] and the rain, But that’s all one, our play is done, And we’ll strive to please you every day. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--08_monologue_troilus_and_cressida" data-title="Twelfth Night — Act V, Scene 1 — monologue (TROILUS AND CRESSIDA) [8]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Troilus|TROILUS]] AND [[Cressida|CRESSIDA]] | [[Troilus]] and [[Cressida]], first heard of in a Stationers’ Register entry of 7 February 1603, was probably written within the previous eighteen months. This entry did not result in publication; the play was re-entered on 28 January 1609, and a quarto appeared during that year. The version printed in the 1623 Folio adds a Prologue, and has many variations in dialogue. It includes the epilogue spoken by [[Pandarus]] (which we print as an Additional Passage), but certain features of the text suggest that it does so by accident, and that the epilogue had been marked for omission. Our text is based in substance on the Folio in the belief that this represents the play in its later, revised form. The story of the siege of Troy was the main subject of one of the greatest surviving works of classical literature, Homer’s Iliad, probably Shakespeare read George Chapman’s 1598 [[Translation|translation]] of Books 1―2 and 7―11. The story also figures prominently in Virgil’s Aeneid and Ovid’s Metamorphoses, both of which Shakespeare knew [[Well|well]]. The war between Greece and Troy had been provoked by the abduction of the Grecian [[Helen]] (better, if confusingly, known as [[Helen]] of Troy) by the Trojan [[Hero|hero]] [[Paris]], son of [[King]] Priam. Shakespeare’s play opens when the Greek forces, led by Menelaus’ brother [[Agamemnon]], have already been besieging Troy for seven years. Shakespeare concentrates on the opposition between the Greek [[Hero|hero]] [[Achilles]] and the Trojan [[Hector]]. In the Folio, [[Troilus]] and [[Cressida]] is printed among the tragedies; if there is a [[Tragic Hero|tragic hero]], it is [[Hector]]. Shakespeare also shows how the war caused by one [[Love|love]] affair destroys another. The stories of the [[Love|love]] between the Trojan [[Troilus]] and the Grecian [[Cressida]], encouraged by her uncle [[Pandarus]], and of [[Cressida]]’s desertion of [[Troilus]] for the Greek Diomedes, are medieval additions to the heroic narrative. Chaucer’s long poem [[Troilus]] and Criseyde was already a classic, and Shakespeare would also have known Robert Henryson’s continuation, The Testament of Cresseid, in which [[Cressida]], deserted by Diomedes, dwindles into a leprous beggar. [[Troilus]] and [[Cressida]] is a demanding play, Shakespeare’s third longest, highly philosophical in tone and with an exceptionally learned vocabulary. Possibly (as has often been conjectured) he wrote it for private performance; the 1603 Stationers’ Register entry says it had been acted by the [[King]]’s Men, and the original title-page of the 1609 quarto repeats this claim, but while the edition was being printed this title-page was replaced by one that does not mention performance, and an epistle was added claiming that it was ‘a new play, never staled with the stage, never clapper-clawed with the palms of the vulgar’. An adaptation by John Dryden of 1679 was successfully acted from [[Time|time]] to [[Time|time]] for half a century, but the first verified performance of Shakespeare’s play was in [[Germany]] in 1898, and that was heavily adapted. [[Troilus]] and [[Cressida]] came into its own in the twentieth century, when its deflation of heroes, its radical questioning of human values (especially in relation to [[Love|love]] and war), and its remorseless examination of the frailty of human aspirations in the face of the destructive powers of [[Time|time]] seemed particularly apposite to modern intellectual and ethical preoccupations. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--09_exchange_the_persons_of_the_play" data-title="Twelfth Night — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [9]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY |
-| PROLOGUE | Trojans PRIAM, [[King]] of Troy CASSANDRA, Priam’s daughter, a prophetess ANDROMACHE, wife of [[Hector]] [[Pandarus|PANDARUS]], a lord [[Cressida|CRESSIDA]], his niece CALCHAS, her father, who has joined the Greeks [[Helen|HELEN]], wife of Menelaus, now living with [[Paris]] ALEXANDER, servant of [[Cressida]] Servants of [[Troilus]], musicians, soldiers, attendants Greeks [[Agamemnon|AGAMEMNON]], Commander-in-Chief MENELAUS, his brother |
-| [[Achilles|ACHILLES]] | PATROCLUS, his companion |
-| [[Thersites|THERSITES]] | MYRMIDONS, soldiers of [[Achilles]] Servants of Diomedes, soldiers |
 
 
 

@@ -5794,6 +5794,255 @@ L'ultima accusa contro questo libro è la peggiore di tutte. È semplicemente qu
 
 
 
+<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_01" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 1)" data-chapter="cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt"></span>
+
+
+[[cockneys|COCKNEYS]] AND THEIR JOKES
+
+A writer in the _Yorkshire Evening Post_ is very angry indeed with my
+performances in this column.  His precise terms of reproach are,
+"Mr. G. K. Chesterton is not a humourist:  not even a Cockney humourist."
+I do not mind his saying that I am not a humourist--in which (to tell
+the [[Truth|truth]]) I think he is quite right.  But I do resent his saying
+that I am not a Cockney.  That envenomed arrow, I admit, went [[Home|home]].
+If a French writer said of me, "He is no metaphysician:  not even an
+English metaphysician," I could [[Swallow|swallow]] the insult to my metaphysics,
+but I should feel angry about the insult to my country.  So I do not
+urge that I am a humourist; but I do insist that I am a Cockney.
+If I were a humourist, I should certainly be a Cockney humourist;
+if I were a saint, I should certainly be a Cockney saint.
+I need not recite the splendid catalogue of Cockney saints
+who have written their names on our noble old [[City]] churches.
+I need not trouble you with the long list of the Cockney humourists
+who have discharged their bills (or failed to discharge them)
+in our noble old [[City]] taverns.  We can weep together over
+the pathos of the poor Yorkshireman, whose county has never
+produced some [[Humour|humour]] not intelligible to the rest of the world.
+And we can smile together when he says that somebody or other is
+"not even" a Cockney humourist like Samuel Johnson or Charles [[Lamb]].
+It is surely sufficiently obvious that all the best [[Humour|humour]] that
+exists in our language is Cockney [[Humour|humour]].  Chaucer was a Cockney;
+he had his [[house]] close to the Abbey.  Dickens was a Cockney;
+he said he could not think without the [[London]] streets.
+The [[London]] taverns heard always the quaintest conversation, whether it
+was Ben Johnson's at the [[Mermaid]] or Sam Johnson's at the Cock.
+Even in our own [[Time|time]] it may be noted that the most vital and genuine
+[[Humour|humour]] is still written about [[London]].  Of this type is the mild and humane
+irony which marks Mr. Pett Ridge's studies of the small grey streets.
+Of this type is the simple but smashing laughter of the best tales
+of Mr. W. W. Jacobs, telling of the smoke and sparkle of the Thames.
+No; I concede that I am not a Cockney humourist.  No; I am not
+worthy to be.  Some [[Time|time]], after sad and strenuous after-lives;
+some [[Time|time]], after fierce and apocalyptic incarnations; in some strange
+world beyond the [[Stars|stars]], I may become at last a Cockney humourist.
+In that potential paradise I may walk among the Cockney humourists,
+if not an equal, at least a companion.  I may feel for a moment
+on my shoulder the hearty hand of Dryden and thread the labyrinths
+of the sweet insanity of [[Lamb]].  But that could only be if I were
+not only much cleverer, but much better than I am.  Before I reach
+that sphere I shall have left behind, perhaps, the sphere that is
+inhabited by angels, and even passed that which is appropriated
+exclusively to the use of Yorkshiremen.
+
+No; [[London]] is in this matter attacked upon its strongest ground.
+[[London]] is the largest of the bloated modern cities; [[London]] is
+the smokiest; [[London]] is the dirtiest; [[London]] is, if you will,
+the most sombre; [[London]] is, if you will, the most miserable.
+But [[London]] is certainly the most amusing and the most amused.
+You may prove that we have the most [[Tragedy|tragedy]]; the fact remains
+that we have the most [[Comedy|comedy]], that we have the most farce.
+We have at the very worst a splendid hypocrisy of [[Humour|humour]].
+We conceal our sorrow behind a screaming derision.  You speak of
+people who laugh through their [[Tears|tears]]; it is our boast that we only
+weep through our laughter.  There remains always this great boast,
+perhaps the greatest boast that is possible to human [[Nature|nature]].
+I mean the great boast that the most unhappy part of our population
+is also the most hilarious part.  The poor can forget that social
+problem which we (the moderately rich) ought never to forget.
+Blessed are the poor; for they [[Alone|alone]] have not the poor always
+with them.  The honest poor can sometimes forget [[Poverty|poverty]].
+The honest rich can never forget it.
+
+I believe firmly in the value of all vulgar notions, especially of
+vulgar jokes.  When once you have got hold of a vulgar joke, you may
+be certain that you have got hold of a subtle and spiritual idea.
+The men who made the joke saw something deep which they could not
+express except by something silly and emphatic.  They saw something
+delicate which they could only express by something indelicate.
+I remember that Mr. Max Beerbohm (who has every merit except [[democracy]])
+attempted to analyse the jokes at which the mob laughs.
+He divided them into three sections:  jokes about bodily humiliation,
+jokes about things alien, such as foreigners, and jokes about bad [[cheese]].
+Mr. Max Beerbohm thought he understood the first two forms;
+but I am not sure that he did.  In order to understand vulgar
+[[Humour|humour]] it is not enough to be humorous.  One must also be vulgar,
+as I am.  And in the first case it is surely obvious that it
+is not merely at the fact of something being hurt that we laugh
+(as I trust we do) when a Prime Minister sits down on his hat.
+If that were so we should laugh whenever we saw a funeral.
+We do not laugh at the mere fact of something falling down;
+there is nothing humorous about [[Leaves|leaves]] falling or the sun going down.
+When our [[house]] falls down we do not laugh.  All the [[Birds|birds]] of the air
+might drop around us in a perpetual shower like a hailstorm
+without arousing a smile.  If you really ask yourself why we laugh
+at a man sitting down suddenly in the street you will discover
+that the reason is not only recondite, but ultimately religious.
+All the jokes about men sitting down on their hats are really
+theological jokes; they are concerned with the Dual [[Nature]] of Man.
+They refer to the primary [[Paradox|paradox]] that man is superior to all
+the things around him and yet is at their [[Mercy|mercy]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I [[cockneys|COCKNEY]] E LE LORO FACEZIE
+
+Un articolista dello _Yorkshire Evening Post_ è oltremodo indignato per le mie prestazioni in questa rubrica. I suoi precisi termini di rimprovero suonano così: «Il signor G. K. Chesterton non è un umorista: nemmeno un umorista cockney». Non m'importa che dica che non sono un umorista — nel che (a dire il [[Truth|vero]]) credo abbia perfettamente ragione. Ma mi risento davvero che dica che non sono un cockney. Quel dardo avvelenato, lo confesso, andò a [[Home|segno]]. Se uno scrittore francese dicesse di me: «Non è un metafisico: nemmeno un metafisico inglese», potrei [[Swallow|inghiottire]] l'insulto alla mia metafisica, ma proverei collera per l'insulto alla mia patria. Perciò non insisto d'essere un umorista; ma insisto d'essere un cockney. Se fossi un umorista, sarei certamente un umorista cockney; se fossi un santo, sarei certamente un santo cockney. Non ho bisogno di recitare lo splendido catalogo dei santi cockney che hanno scritto i loro nomi sulle nostre nobili vecchie chiese della [[City]]. Non ho bisogno di tediarvi con la lunga lista degli umoristi cockney che hanno saldato i loro conti (o non son riusciti a saldarli) nelle nostre nobili vecchie taverne della [[City]]. Possiamo piangere insieme sul patetico caso del povero uomo dello Yorkshire, la cui contea non ha mai prodotto un [[Humour|umorismo]] che non fosse intelligibile al resto del mondo. E possiamo sorridere insieme quando egli dice che il tale o il tal altro non è «nemmeno» un umorista cockney come Samuel Johnson o Charles [[Lamb]]. È di certo sufficientemente ovvio che tutto il migliore [[Humour|umorismo]] che esista nella nostra lingua sia [[Humour|umorismo]] cockney. Chaucer era un cockney; aveva la sua [[house|casa]] a due passi dall'Abbazia. Dickens era un cockney; diceva di non saper pensare senza le strade di [[London|Londra]]. Le taverne di [[London|Londra]] udirono sempre la conversazione più bizzarra, fosse quella di Ben Johnson alla [[Mermaid]] o quella di Sam Johnson al Cock. Persino ai nostri [[Time|giorni]] si può notare che l'umorismo più vitale e genuino si scrive tuttora su [[London|Londra]]. Di questo genere è la mite e umana ironia che contraddistingue gli studi del signor Pett Ridge sulle piccole strade grigie. Di questo genere è la risata semplice ma travolgente dei migliori racconti del signor W. W. Jacobs, che narrano del fumo e dello scintillio del Tamigi. No; concedo di non essere un umorista cockney. No; non ne sono degno. Un [[Time|giorno]], dopo tristi e faticose vite ulteriori; un [[Time|giorno]], dopo feroci e apocalittiche incarnazioni; in qualche strano mondo al di là delle [[Stars|stelle]], potrò forse diventare finalmente un umorista cockney. In quel paradiso potenziale potrò forse camminare fra gli umoristi cockney, se non da pari, almeno da compagno. Potrò forse sentire per un istante sulla spalla la cordiale mano di Dryden e infilarmi nei labirinti della dolce follia di [[Lamb]]. Ma ciò potrebbe accadere solo se fossi non soltanto assai più abile, ma assai migliore di quanto io sia. Prima di raggiungere quella sfera avrò lasciato dietro di me, forse, la sfera abitata dagli angeli, e avrò varcato persino quella riservata esclusivamente all'uso degli uomini dello Yorkshire.
+
+No; [[London|Londra]] è in questa faccenda attaccata sul suo terreno più saldo. [[London|Londra]] è la più grande delle gonfie città moderne; [[London|Londra]] è la più fumosa; [[London|Londra]] è la più sudicia; [[London|Londra]] è, se volete, la più tetra; [[London|Londra]] è, se volete, la più misera. Ma [[London|Londra]] è di certo la più divertente e la più divertita. Potrete dimostrare che abbiamo la maggior [[Tragedy|tragedia]]; resta il fatto che abbiamo la maggior [[Comedy|commedia]], che abbiamo la maggior farsa. Abbiamo, nella peggiore delle ipotesi, una splendida ipocrisia di [[Humour|umorismo]]. Nascondiamo il nostro dolore dietro una derisione sguaiata. Voi parlate di gente che ride tra le [[Tears|lacrime]]; è nostro vanto piangere soltanto tra le risate. Rimane sempre questo grande vanto, forse il più grande vanto possibile alla [[Nature|natura]] umana. Intendo il grande vanto che la parte più infelice della nostra popolazione sia anche la più ilare. I poveri sanno dimenticare quel problema sociale che noi (i moderatamente ricchi) non dovremmo mai dimenticare. Beati i poveri; poiché essi [[Alone|soli]] non hanno sempre i poveri con sé. Il povero onesto può talvolta dimenticare la [[Poverty|povertà]]. Il ricco onesto non può mai dimenticarla.
+
+Credo fermamente nel valore di tutte le nozioni volgari, e specialmente delle facezie volgari. Una volta che avrete afferrato una facezia volgare, potrete esser certi d'aver afferrato un'idea sottile e spirituale. Gli uomini che hanno fatto la facezia vedevano qualcosa di profondo che non riuscivano a esprimere se non con qualcosa di sciocco ed enfatico. Vedevano qualcosa di delicato che potevano esprimere soltanto con qualcosa d'indelicato. Ricordo che il signor Max Beerbohm (che ha ogni pregio tranne la [[democracy|democrazia]]) tentò di analizzare le facezie di cui ride la folla. Le divise in tre categorie: facezie sull'umiliazione corporea, facezie sulle cose estranee, quali gli stranieri, e facezie sul [[cheese|formaggio]] andato a male. Il signor Max Beerbohm credeva di comprendere le prime due forme; ma non sono sicuro che le comprendesse. Per comprendere l'[[Humour|umorismo]] volgare non basta essere umoristi. Bisogna anche essere volgari, come lo sono io. E nel primo caso è di certo ovvio che non è semplicemente al fatto che qualcosa si faccia male che noi ridiamo (come confido che facciamo) quando un Primo Ministro si siede sul proprio cappello. Se così fosse, dovremmo ridere ogni volta che vedessimo un funerale. Non ridiamo del mero fatto che qualcosa cada; non c'è nulla di comico nelle [[Leaves|foglie]] che cadono o nel sole che tramonta. Quando la nostra [[house|casa]] crolla non ridiamo. Tutti gli [[Birds|uccelli]] dell'aria potrebbero piombarci attorno in una pioggia perpetua come una grandinata senza suscitare un sorriso. Se davvero vi domandate perché ridiamo di un uomo che si siede all'improvviso in mezzo alla strada, scoprirete che la ragione è non solo recondita, ma in ultima analisi religiosa. Tutte le facezie sugli uomini che si siedono sul proprio cappello sono in realtà facezie teologiche; riguardano la Duplice [[Nature|Natura]] dell'Uomo. Si riferiscono al [[Paradox|paradosso]] primario per cui l'uomo è superiore a tutte le cose che lo circondano e tuttavia è alla loro [[Mercy|mercé]].
+
+
+
+<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_02" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 2)" data-chapter="cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt"></span>
+
+
+Quite equally subtle and spiritual is the idea at the back
+of laughing at foreigners.  It concerns the almost torturing
+[[Truth|truth]] of a thing being like oneself and yet not like oneself.
+Nobody laughs at what is entirely foreign; nobody laughs at a palm tree.
+But it is funny to see the familiar image of God disguised behind
+the black beard of a Frenchman or the black face of a Negro.
+There is nothing funny in the sounds that are wholly inhuman,
+the howling of wild beasts or of the [[Wind|wind]].  But if a man begins
+to talk like oneself, but all the syllables come out different,
+then if one is a man one feels inclined to laugh, though if one is
+a gentleman one resists the inclination.
+
+Mr. Max Beerbohm, I remember, professed to understand the first two
+forms of popular wit, but said that the third quite stumped him.
+He could not see why there should be anything funny about bad [[cheese]].
+I can tell him at once.  He has missed the idea because it
+is subtle and philosophical, and he was looking for something
+ignorant and foolish.  Bad [[cheese]] is funny because it is
+(like the foreigner or the man fallen on the pavement) the type
+of the transition or transgression across a great mystical boundary.
+Bad [[cheese]] symbolises the change from the inorganic to the organic.
+Bad [[cheese]] symbolises the startling prodigy of matter taking
+on vitality.  It symbolises the origin of life itself.
+And it is only about such solemn matters as the origin of life that
+the [[democracy]] condescends to joke.  Thus, for instance, the [[democracy]]
+jokes about [[Marriage|marriage]], because [[Marriage|marriage]] is a part of mankind.
+But the [[democracy]] would never deign to joke about Free [[Love]],
+because Free [[Love]] is a piece of priggishness.
+
+As a matter of fact, it will be generally found that the popular joke
+is not true to the letter, but is true to the spirit.  The vulgar
+joke is generally in the oddest way the [[Truth|truth]] and yet not the fact.
+For instance, it is not in the least true that mothers-in-law are
+as a class oppressive and intolerable; most of them are both devoted
+and useful.  All the mothers-in-law I have ever had were admirable.
+Yet the legend of the comic papers is profoundly true.
+It draws attention to the fact that it is much harder to be a nice
+mother-in-law than to be nice in any other conceivable relation of life.
+The caricatures have drawn the worst mother-in-law a [[Monster|monster]], by way
+of expressing the fact that the best mother-in-law is a problem.
+The same is true of the perpetual jokes in comic papers about shrewish
+wives and henpecked husbands.  It is all a frantic exaggeration,
+but it is an exaggeration of a [[Truth|truth]]; whereas all the modern mouthings
+about oppressed women are the exaggerations of a falsehood.
+If you read even the best of the intellectuals of to-day you will
+find them saying that in the mass of the [[democracy]] the woman is
+the chattel of her lord, like his bath or his bed.  But if you read
+the comic literature of the [[democracy]] you will find that the lord
+hides under the bed to escape from the wrath of his chattel.
+This is not the fact, but it is much nearer the [[Truth|truth]].  Every man
+who is married knows quite [[Well|well]], not only that he does not regard his
+wife as a chattel, but that no man can conceivably ever have done so.
+The joke stands for an ultimate [[Truth|truth]], and that is a subtle [[Truth|truth]].
+It is one not very easy to state correctly.  It can, perhaps, be most
+correctly stated by saying that, even if the man is the head
+of the [[house]], he knows he is the figurehead.
+
+But the vulgar comic papers are so subtle and true that they are
+even prophetic.  If you really want to know what is going to happen
+to the future of our [[democracy]], do not read the modern sociological
+prophecies, do not read even Mr. Wells's Utopias for this purpose,
+though you should certainly read them if you are fond of good
+honesty and good English.  If you want to know what will happen,
+study the pages of _Snaps_ or _Patchy Bits_ as if they were the dark
+tablets graven with the oracles of the gods.  For, mean and gross
+as they are, in all seriousness, they contain what is entirely absent
+from all Utopias and all the sociological conjectures of our [[Time|time]]:
+they contain some hint of the actual habits and manifest desires
+of the English people.  If we are really to find out what the
+[[democracy]] will ultimately do with itself, we shall surely find it,
+not in the literature which studies the people, but in the literature
+which the people studies.
+
+I can give two chance cases in which the common or Cockney
+joke was a much better prophecy than the careful observations
+of the most cultured observer.  When England was agitated,
+previous to the last General Election, about the existence
+of Chinese labour, there was a distinct difference between
+the tone of the politicians and the tone of the populace.
+The politicians who disapproved of Chinese labour were most careful
+to explain that they did not in any sense disapprove of Chinese.
+According to them, it was a pure question of legal propriety,
+of whether certain clauses in the contract of indenture were not
+inconsistent with our constitutional traditions:  according to them,
+the case would have been the same if the people had been Kaffirs
+or Englishmen.  It all sounded wonderfully enlightened and lucid;
+and in comparison the popular joke looked, of course, very poor.
+For the popular joke against the Chinese labourers was simply
+that they were Chinese; it was an objection to an alien type;
+the popular papers were full of gibes about pigtails and yellow faces.
+It seemed that the Liberal politicians were raising an intellectual
+objection to a doubtful document of State; while it seemed that
+the Radical populace were merely roaring with idiotic laughter
+at the sight of a Chinaman's clothes.  But the popular instinct
+was justified, for the vices revealed were Chinese vices.
+
+But there is another case more pleasant and more up to date.
+The popular papers always persisted in representing the New Woman
+or the Suffragette as an ugly woman, fat, in spectacles,
+with bulging clothes, and generally falling off a bicycle.  As a matter
+of plain external fact, there was not a word of [[Truth|truth]] in this.
+The leaders of the movement of female emancipation are not at all ugly;
+most of them are extraordinarily good-looking. Nor are they at all
+indifferent to art or decorative costume; many of them are alarmingly
+attached to these things.  Yet the popular instinct was right.
+For the popular instinct was that in this movement, rightly or wrongly,
+there was an element of indifference to female dignity,
+of a quite new willingness of women to be [[Grotesque|grotesque]].
+These women did truly despise the pontifical quality of woman.
+And in our streets and around our Parliament we have seen the stately
+woman of art and culture turn into the comic woman of _Comic Bits_.
+And whether we think the exhibition justifiable or not, the prophecy
+of the comic papers is justified:  the healthy and vulgar masses
+were conscious of a hidden enemy to their traditions who has now come
+out into the daylight, that the scriptures might be fulfilled.
+For the two things that a healthy person hates most between heaven
+and hell are a woman who is not dignified and a man who is.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Del tutto ugualmente sottile e spirituale è l'idea che sta dietro il ridere degli stranieri. Concerne la quasi tormentosa [[Truth|verità]] di una cosa che è simile a noi stessi e tuttavia diversa da noi stessi. Nessuno ride di ciò che è interamente estraneo; nessuno ride di una palma. Ma è buffo vedere la familiare immagine di Dio travestita dietro la barba nera di un francese o la faccia nera di un negro. Non c'è nulla di buffo nei suoni che sono del tutto disumani, l'ululato delle belve o del [[Wind|vento]]. Ma se un uomo comincia a parlare come noi, e però tutte le sillabe gli escono diverse, allora, se si è uomini, ci si sente inclini a ridere, benché, se si è gentiluomini, si resista all'inclinazione.
+
+Il signor Max Beerbohm, lo ricordo, dichiarava di comprendere le prime due forme dello spirito popolare, ma diceva che la terza lo lasciava del tutto perplesso. Non riusciva a capire perché ci dovesse essere alcunché di buffo nel [[cheese|formaggio]] andato a male. Posso spiegarglielo all'istante. Gli è sfuggita l'idea perché essa è sottile e filosofica, mentre egli cercava qualcosa d'ignorante e sciocco. Il [[cheese|formaggio]] andato a male è buffo perché è (come lo straniero o l'uomo caduto sul selciato) il tipo del passaggio o della trasgressione attraverso un grande confine mistico. Il [[cheese|formaggio]] andato a male simboleggia il mutamento dall'inorganico all'organico. Il [[cheese|formaggio]] andato a male simboleggia lo strabiliante prodigio della materia che assume vitalità. Simboleggia l'origine stessa della vita. Ed è soltanto su faccende solenni come l'origine della vita che la [[democracy|democrazia]] si degna di scherzare. Così, per esempio, la [[democracy|democrazia]] scherza sul [[Marriage|matrimonio]], perché il [[Marriage|matrimonio]] è una parte del genere umano. Ma la [[democracy|democrazia]] non si degnerebbe mai di scherzare sul Libero [[Love|Amore]], perché il Libero [[Love|Amore]] è un pezzo di saccenteria.
+
+In verità, si troverà per lo più che la facezia popolare non è vera alla lettera, ma è vera nello spirito. La facezia volgare è di solito, nel modo più bizzarro, la [[Truth|verità]] e tuttavia non il fatto. Per esempio, non è affatto vero che le suocere siano, come categoria, opprimenti e intollerabili; la maggior parte di esse sono insieme devote e utili. Tutte le suocere che ho mai avuto erano ammirevoli. Eppure la leggenda dei giornali umoristici è profondamente vera. Richiama l'attenzione sul fatto che è assai più difficile essere una buona suocera che essere buoni in qualsiasi altra concepibile relazione della vita. Le caricature hanno raffigurato la peggiore suocera come un [[Monster|mostro]], per esprimere il fatto che la migliore suocera è un problema. Lo stesso vale per le perpetue facezie dei giornali umoristici sulle mogli bisbetiche e i mariti succubi. È tutta una frenetica esagerazione, ma è l'esagerazione di una [[Truth|verità]]; laddove tutte le moderne declamazioni sulle donne oppresse sono le esagerazioni di una falsità. Se leggete anche i migliori tra gli intellettuali d'oggi, li troverete affermare che nella massa della [[democracy|democrazia]] la donna è il bene mobile del suo signore, al pari della sua vasca o del suo letto. Ma se leggete la letteratura comica della [[democracy|democrazia]], troverete che è il signore a nascondersi sotto il letto per sfuggire all'ira del suo bene mobile. Questo non è il fatto, ma è assai più vicino alla [[Truth|verità]]. Ogni uomo sposato sa benissimo, non solo di non considerare la propria moglie un bene mobile, ma che nessun uomo può mai concepibilmente averlo fatto. La facezia sta per una [[Truth|verità]] ultima, e questa è una [[Truth|verità]] sottile. Non è facilissima da enunciare correttamente. La si può, forse, enunciare nel modo più corretto dicendo che, anche se l'uomo è il capo della [[house|casa]], egli sa d'esserne la polena.
+
+Ma i volgari giornali umoristici sono così sottili e veri da essere persino profetici. Se davvero volete sapere che ne sarà del futuro della nostra [[democracy|democrazia]], non leggete le moderne profezie sociologiche, non leggete neppure le Utopie del signor Wells a tale scopo, benché dobbiate certamente leggerle se amate la buona onestà e il buon inglese. Se volete sapere che cosa accadrà, studiate le pagine di _Snaps_ o di _Patchy Bits_ come se fossero le oscure tavolette incise con gli oracoli degli dèi. Poiché, per meschine e grossolane che siano, in tutta serietà, esse contengono ciò che è del tutto assente da tutte le Utopie e da tutte le congetture sociologiche del nostro [[Time|tempo]]: contengono qualche indizio delle reali abitudini e dei manifesti desideri del popolo inglese. Se davvero vogliamo scoprire che cosa la [[democracy|democrazia]] farà in ultimo di sé, lo troveremo di sicuro non nella letteratura che studia il popolo, ma nella letteratura che il popolo studia.
+
+Posso addurre due casi fortuiti in cui la facezia comune, o cockney, fu una profezia assai migliore delle attente osservazioni dell'osservatore più colto. Quando l'Inghilterra fu agitata, prima delle ultime elezioni generali, dalla questione dell'esistenza della manodopera cinese, vi fu una netta differenza tra il tono dei politici e il tono della popolazione. I politici che disapprovavano la manodopera cinese erano oltremodo attenti a spiegare che non disapprovavano in alcun senso i cinesi. Secondo loro, era una pura questione di correttezza giuridica, se cioè certe clausole nel contratto di ingaggio non fossero incompatibili con le nostre tradizioni costituzionali: secondo loro, il caso sarebbe stato lo stesso se quella gente fosse stata composta di cafri o di inglesi. Tutto suonava meravigliosamente illuminato e lucido; e al confronto la facezia popolare appariva, naturalmente, assai misera. Poiché la facezia popolare contro i lavoratori cinesi era semplicemente che essi erano cinesi; era un'obiezione a un tipo estraneo; i giornali popolari erano pieni di frizzi sui codini e sulle facce gialle. Sembrava che i politici liberali sollevassero un'obiezione intellettuale a un dubbio documento di Stato; mentre sembrava che la plebe radicale non facesse che sghignazzare in un'idiota risata alla vista degli abiti di un cinese. Ma l'istinto popolare fu giustificato, poiché i vizi rivelati furono vizi cinesi.
+
+Ma c'è un altro caso più piacevole e più attuale. I giornali popolari si ostinarono sempre a rappresentare la Donna Nuova, o la Suffragetta, come una donna brutta, grassa, con gli occhiali, dagli abiti gonfi, e generalmente in atto di cadere da una bicicletta. In fatto di pura realtà esteriore, non c'era una parola di [[Truth|verità]] in tutto ciò. Le capofila del movimento di emancipazione femminile non sono affatto brutte; la maggior parte di esse è straordinariamente avvenente. Né sono affatto indifferenti all'arte o all'abbigliamento ricercato; molte di esse sono allarmantemente attaccate a queste cose. Eppure l'istinto popolare aveva ragione. Poiché l'istinto popolare era che in questo movimento, a torto o a ragione, vi fosse un elemento d'indifferenza alla dignità femminile, di una del tutto nuova disponibilità delle donne a rendersi [[Grotesque|grottesche]]. Queste donne disprezzavano davvero la qualità pontificale della donna. E nelle nostre strade e attorno al nostro Parlamento abbiamo veduto la maestosa donna dell'arte e della cultura mutarsi nella donna comica di _Comic Bits_. E che si giudichi l'esibizione giustificabile o no, la profezia dei giornali umoristici è giustificata: le masse sane e volgari erano consapevoli di un nemico occulto alle loro tradizioni, il quale è ora venuto alla luce del giorno, affinché le scritture si adempissero. Poiché le due cose che una persona sana odia di più tra il cielo e l'inferno sono una donna che non è dignitosa e un uomo che lo è.
+
+
+
 <span class="atom-split" data-atom="story_03_the_fallacy_of_success_success" data-title="AllThingsConsidered-8 — THE FALLACY OF SUCCESS" data-chapter="THE FALLACY OF success SUCCESS" data-kind="story"></span>
 
 
@@ -6261,6 +6510,242 @@ altro che accrescere il loro incanto e la loro [[Wonder|meraviglia]] di prima.
 Poiché, come disse il prete cattolico romano nel racconto: «Il vino è buono
 con ogni cosa tranne che con l'[[Water|acqua]]», e per un simile principio,
 l'[[Water|acqua]] è buona con ogni cosa tranne che col vino.
+
+
+
+<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_01" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 1)" data-chapter="THE VOTE AND THE house HOUSE" data-kind="excerpt"></span>
+
+
+THE VOTE AND THE [[house|HOUSE]]
+
+Most of us will be canvassed soon, I suppose; some of us may
+even canvass.  Upon which side, of course, nothing will induce me
+to state, beyond saying that by a remarkable coincidence it will in
+every case be the only side in which a high-minded, public-spirited,
+and patriotic citizen can take even a momentary interest.
+But the general question of canvassing itself, being a non-party question,
+is one which we may be permitted to approach.  The rules for
+canvassers are fairly familiar to any one who has ever canvassed.
+They are printed on the little card which you carry about with you
+and lose.  There is a statement, I think, that you must not offer
+a voter food or drink.  However hospitable you may feel towards him
+in his own [[house]], you must not carry his lunch about with you.
+You must not produce a veal cutlet from your tail-coat pocket.
+You must not conceal poached eggs about your person.  You must not,
+like a kind of conjurer, produce baked potatoes from your hat.
+In short, the canvasser must not feed the voter in any way.
+Whether the voter is allowed to feed the canvasser, whether the
+voter may give the canvasser veal cutlets and baked potatoes,
+is a point of law on which I have never been able to inform myself.
+When I found myself canvassing a gentleman, I have sometimes felt
+tempted to ask him if there was any rule against his giving me
+food and drink; but the matter seemed a delicate one to approach.
+His attitude to me also sometimes suggested a [[Doubt|doubt]] as to whether
+he would, even if he could.  But there are voters who might find it worth
+while to discover if there is any law against bribing a canvasser.
+They might bribe him to go away.
+
+The second veto for canvassers which was printed on the little card
+said that you must not persuade any one to personate a voter.
+I have no idea what it means.  To dress up as an average voter
+seems a little vague.  There is no [[Well|well]]-recognised uniform,
+as far as I know, with civic waistcoat and patriotic whiskers.
+The enterprise resolves itself into one somewhat similar
+to the enterprise of a rich friend of mine who went to a
+fancy-dress ball dressed up as a gentleman.  Perhaps it means
+that there is a practice of personating some individual voter.
+The canvasser creeps to the [[house]] of his fellow-conspirator carrying
+a make-up in a bag.  He produces from it a pair of white moustaches
+and a single eyeglass, which are sufficient to give the most
+common-place person a startling resemblance to the Colonel at No. 80.
+Or he hurriedly affixes to his friend that large nose and that bald
+head which are all that is essential to an illusion of the presence
+of Professor Budger.  I do not undertake to unravel these knots.
+I can only say that when I was a canvasser I was told by the
+little card, with every circumstance of seriousness and authority,
+that I was not to persuade anybody to personate a voter:
+and I can lay my hand upon my heart and affirm that I never did.
+
+The third injunction on the card was one which seemed to me,
+if interpreted exactly and according to its words, to undermine
+the very foundations of our politics.  It told me that I
+must not "threaten a voter with any consequence whatever."
+No [[Doubt|doubt]] this was intended to apply to threats of a personal and
+illegitimate character; as, for instance, if a wealthy candidate were
+to threaten to raise all the rents, or to put up a statue of himself.
+But as verbally and grammatically expressed, it certainly would
+cover those general threats of disaster to the whole community
+which are the main matter of political discussion.  When a canvasser
+says that if the opposition candidate gets in the country will
+be ruined, he is threatening the voters with certain consequences.
+When the Free Trader says that if Tariffs are adopted the people in
+Brompton or Bayswater will crawl about eating grass, he is threatening
+them with consequences.  When the Tariff Reformer says that if
+Free Trade exists for another year St. Paul's [[Cathedral]] will be a ruin
+and Ludgate [[Hill]] as deserted as Stonehenge, he is also threatening.
+And what is the good of being a Tariff Reformer if you can't say that?
+What is the use of being a politician or a Parliamentary candidate
+at all if one cannot tell the people that if the other man gets in,
+England will be instantly invaded and enslaved, [[Blood|blood]] be pouring
+down the Strand, and all the English ladies carried off into harems.
+But these things are, after all, consequences, so to speak.
+
+The majority of refined persons in our day may generally
+be heard abusing the practice of canvassing.  In the same way
+the majority of refined persons (commonly the same refined persons)
+may be heard abusing the practice of interviewing celebrities.
+It seems a very singular thing to me that this refined world reserves
+all its indignation for the comparatively open and [[Innocent|innocent]] element
+in both walks of life.  There is really a vast amount of corruption
+and hypocrisy in our election politics; about the most honest thing
+in the whole mess is the canvassing.  A man has not got a right to "[[Nurse|nurse]]"
+a constituency with aggressive charities, to buy it with great presents
+of parks and libraries, to open vague vistas of future benevolence;
+all this, which goes on unrebuked, is bribery and nothing else.
+But a man has got the right to go to another free man and ask
+him with civility whether he will vote for him.  The information
+can be asked, granted, or refused without any loss of dignity
+on either side, which is more than can be said of a park.
+It is the same with the place of interviewing in journalism.
+In a trade where there are labyrinths of insincerity, interviewing is
+about the most simple and the most sincere thing there is.
+The canvasser, when he wants to know a man's opinions, goes and asks him.
+It may be a bore; but it is about as plain and straight a thing
+as he could do.  So the interviewer, when he wants to know
+a man's opinions, goes and asks him.  Again, it may be a bore;
+but again, it is about as plain and straight as anything could be.
+But all the other real and systematic cynicisms of our journalism pass
+without being vituperated and even without being known--the financial
+motives of policy, the misleading posters, the suppression of just
+letters of complaint.  A statement about a man may be infamously untrue,
+but it is read calmly.  But a statement by a man to an interviewer
+is felt as indefensibly vulgar.  That the paper should misrepresent
+him is nothing; that he should represent himself is bad taste.
+The whole error in both cases lies in the fact that the refined persons
+are attacking politics and journalism on the ground of vulgarity.
+Of course, politics and journalism are, as it happens, very vulgar.
+But their vulgarity is not the worst thing about them.
+Things are so bad with both that by this [[Time|time]] their vulgarity is
+the best thing about them.  Their vulgarity is at least a noisy thing;
+and their great danger is that [[Silence|silence]] that always comes before [[Decay|decay]].
+The conversational [[Persuasion|persuasion]] at elections is perfectly human
+and rational; it is the silent persuasions that are utterly damnable.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL VOTO E LA [[house|CAMERA]]
+
+La maggior parte di noi sarà presto sottoposta al giro dei propagandisti elettorali, suppongo; qualcuno di noi potrebbe persino farlo di persona. Da quale parte, s'intende, nulla mi indurrà a dichiararlo, salvo il dire che, per una notevole coincidenza, sarà in ogni caso l'unica parte alla quale un cittadino di alti principii, animato da spirito civico e da patriottismo, possa dedicare anche solo un momentaneo interesse. Ma la questione generale della propaganda elettorale in sé, essendo una questione al di sopra delle parti, è una a cui ci sia forse consentito accostarci. Le regole per i propagandisti sono abbastanza note a chiunque abbia mai fatto propaganda. Sono stampate sul cartoncino che ci si porta appresso e che si perde. C'è una prescrizione, credo, secondo cui non si deve offrire all'elettore né cibo né bevanda. Per quanto ospitali ci si possa sentire verso di lui nella sua [[house|casa]], non gli si deve portare in giro il pranzo. Non si deve estrarre una cotoletta di vitello dalla tasca della marsina. Non si devono nascondere sulla propria persona uova in camicia. Non si devono, alla maniera di un prestigiatore, tirar fuori patate al forno dal cappello. Insomma, il propagandista non deve nutrire l'elettore in nessun modo. Se poi all'elettore sia consentito nutrire il propagandista, se l'elettore possa dare al propagandista cotolette di vitello e patate al forno, è un punto di diritto sul quale non sono mai riuscito a informarmi. Quando mi sono trovato a fare propaganda presso un gentiluomo, mi sono a volte sentito tentato di chiedergli se vi fosse qualche regola che gli vietasse di darmi da mangiare e da bere; ma la faccenda pareva delicata da affrontare. Anche il suo atteggiamento nei miei confronti suggeriva talora un [[Doubt|dubbio]] circa il fatto che l'avrebbe fatto, ammesso che avesse potuto. Ma vi sono elettori che potrebbero trovar conveniente scoprire se esiste qualche legge contro il corrompere un propagandista. Potrebbero corromperlo perché se ne andasse.
+
+Il secondo divieto per i propagandisti stampato sul cartoncino diceva che non si deve indurre nessuno a impersonare un elettore. Non ho la minima idea di che cosa significhi. Travestirsi da elettore medio pare cosa alquanto vaga. Non esiste alcuna uniforme [[Well|ben]] riconosciuta, per quanto ne so, con panciotto civico e fedine patriottiche. L'impresa si riduce a qualcosa di piuttosto simile all'impresa di un mio ricco amico che si recò a un ballo in maschera travestito da gentiluomo. Forse significa che esiste la pratica di impersonare qualche singolo elettore. Il propagandista si insinua fino alla [[house|casa]] del suo complice recando un trucco dentro una borsa. Ne estrae un paio di baffi bianchi e un monocolo, che bastano a conferire alla persona più insignificante una sorprendente rassomiglianza col Colonnello del N. 80. Oppure applica in fretta al suo amico quel gran naso e quel cranio calvo che sono tutto ciò che occorre per creare l'illusione della presenza del Professor Budger. Non mi assumo l'impegno di sciogliere questi nodi. Posso solo dire che, quando ero propagandista, mi fu comunicato dal cartoncino, con ogni circostanza di serietà e autorità, che non dovevo indurre alcuno a impersonare un elettore: e posso porre la mano sul cuore e affermare che non l'ho mai fatto.
+
+La terza ingiunzione del cartoncino era una che mi parve, se interpretata esattamente e alla lettera, minare le fondamenta stesse della nostra politica. Mi diceva che non dovevo «minacciare un elettore con conseguenza alcuna di sorta». Senza [[Doubt|dubbio]] ciò era inteso ad applicarsi alle minacce di carattere personale e illegittimo; come, per esempio, se un candidato facoltoso minacciasse di far salire tutti gli affitti, o di erigere una statua di sé stesso. Ma così com'è espresso verbalmente e grammaticalmente, esso coprirebbe certamente quelle generali minacce di disastro per l'intera comunità che costituiscono la materia principale della discussione politica. Quando un propagandista dice che, se il candidato dell'opposizione va al potere, il paese sarà rovinato, egli sta minacciando gli elettori con determinate conseguenze. Quando il liberoscambista dice che, se si adottano le tariffe, la gente di Brompton o di Bayswater andrà carponi a brucare l'erba, li sta minacciando con conseguenze. Quando il riformatore delle tariffe dice che, se il libero scambio dura ancora un anno, la [[Cathedral|Cattedrale]] di San Paolo sarà una rovina e Ludgate [[Hill|Hill]] sarà deserta come Stonehenge, anch'egli sta minacciando. E che gusto c'è a essere un riformatore delle tariffe, se non si può dire questo? Che senso ha essere un politico o un candidato al Parlamento, se non si può dire alla gente che, se l'altro va al potere, l'Inghilterra sarà all'istante invasa e ridotta in schiavitù, il [[Blood|sangue]] scorrerà giù per lo Strand, e tutte le dame inglesi verranno portate via negli harem. Ma queste cose, dopo tutto, sono conseguenze, per così dire.
+
+La maggioranza delle persone raffinate dei nostri giorni si può generalmente udire mentre inveisce contro la pratica della propaganda elettorale. Allo stesso modo la maggioranza delle persone raffinate (di solito le medesime persone raffinate) si può udire mentre inveisce contro la pratica di intervistare le celebrità. Mi pare cosa oltremodo singolare che questo mondo raffinato riservi tutta la sua indignazione all'elemento relativamente aperto e [[Innocent|innocente]] di entrambe le sfere della vita. C'è davvero una quantità sterminata di corruzione e di ipocrisia nella nostra politica elettorale; e la cosa più onesta in tutto quel pasticcio è proprio la propaganda. Un uomo non ha il diritto di «[[Nurse|coltivare]]» un collegio elettorale con aggressive opere di beneficenza, di comprarlo con grandi doni di parchi e biblioteche, di aprire vaghe prospettive di future benevolenze; tutto questo, che avviene senza rimprovero alcuno, è corruzione e niente altro. Ma un uomo ha il diritto di andare da un altro uomo libero e chiedergli con cortesia se voterà per lui. L'informazione può essere chiesta, concessa o rifiutata senza perdita di dignità da nessuna delle due parti, il che è più di quanto si possa dire di un parco. Lo stesso vale per il posto che occupa l'intervista nel giornalismo. In un mestiere in cui vi sono labirinti di insincerità, l'intervista è quasi la cosa più semplice e più sincera che ci sia. Il propagandista, quando vuole conoscere le opinioni di un uomo, va e gliele chiede. Sarà magari una seccatura; ma è quanto di più schietto e diretto egli possa fare. Così l'intervistatore, quando vuole conoscere le opinioni di un uomo, va e gliele chiede. Di nuovo, sarà magari una seccatura; ma di nuovo, è quanto di più schietto e diretto vi possa essere. Ma tutti gli altri cinismi reali e sistematici del nostro giornalismo passano senza essere vituperati e persino senza essere conosciuti — i moventi finanziari della linea editoriale, i manifesti ingannevoli, la soppressione di giuste lettere di protesta. Un'affermazione a proposito di un uomo può essere infamemente falsa, eppure la si legge con calma. Ma un'affermazione fatta da un uomo a un intervistatore è avvertita come indifendibilmente volgare. Che il giornale lo travisi non è nulla; che egli rappresenti sé stesso è cattivo gusto. L'intero errore, in entrambi i casi, sta nel fatto che le persone raffinate attaccano la politica e il giornalismo sul terreno della volgarità. Certo, la politica e il giornalismo sono, per l'appunto, molto volgari. Ma la loro volgarità non è la cosa peggiore che li riguardi. Le cose stanno così male con entrambi che ormai a quest'[[Time|ora]] la loro volgarità è la cosa migliore che li riguardi. La loro volgarità è almeno una cosa rumorosa; e il loro grande pericolo è quel [[Silence|silenzio]] che precede sempre il [[Decay|disfacimento]]. La [[Persuasion|persuasione]] conversevole delle elezioni è perfettamente umana e razionale; sono le persuasioni silenziose a essere del tutto dannabili.
+
+
+
+<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_02" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 2)" data-chapter="THE VOTE AND THE house HOUSE" data-kind="excerpt"></span>
+
+
+If it is true that the Commons' [[house|House]] will not hold all the Commons,
+it is a very good example of what we call the anomalies
+of the English Constitution.  It is also, I think, a very good
+example of how highly undesirable those anomalies really are.
+Most Englishmen say that these anomalies do not matter; they are
+not ashamed of being illogical; they are proud of being illogical.
+Lord Macaulay (a very typical Englishman, romantic, prejudiced,
+poetical), Lord Macaulay said that he would not lift his hand
+to get rid of an anomaly that was not also a grievance.
+Many other sturdy romantic Englishmen say the same.  They boast
+of our anomalies; they boast of our illogicality; they say it
+shows what a practical people we are.  They are utterly wrong.
+Lord Macaulay was in this matter, as in a few others, utterly wrong.
+Anomalies do matter very much, and do a great deal of harm;
+abstract illogicalities do matter a great deal, and do a great deal
+of harm.  And this for a reason that any one at all acquainted with
+human [[Nature|nature]] can see for himself.  All injustice begins in the mind.
+And anomalies accustom the mind to the idea of unreason and untruth.
+Suppose I had by some prehistoric law the power of forcing every
+man in Battersea to nod his head three times before he got
+out of bed.  The practical politicians might say that this
+power was a harmless anomaly; that it was not a grievance.
+It could do my subjects no harm; it could do me no good.
+The people of Battersea, they would say, might safely submit to it.
+But the people of Battersea could not safely submit to it, for all that.
+If I had nodded their heads for them for fifty years I could cut off
+their heads for them at the end of it with immeasurably greater ease.
+For there would have permanently sunk into every man's mind
+the notion that it was a natural thing for me to have a fantastic
+and irrational power.  They would have grown accustomed to insanity.
+
+For, in order that men should resist injustice, something more
+is necessary than that they should think injustice unpleasant.
+They must think injustice _absurd_; above all, they must think
+it startling.  They must retain the violence of a virgin astonishment.
+That is the explanation of the singular fact which must have
+struck many people in the relations of [[philosophy]] and [[Reform|reform]].
+It is the fact (I mean) that optimists are more practical
+reformers than pessimists.  Superficially, one would imagine
+that the railer would be the reformer; that the man who thought
+that everything was wrong would be the man to put everything right.
+In historical practice the thing is quite the other way;
+curiously enough, it is the man who likes things as they are who
+really makes them better.  The optimist Dickens has achieved more
+reforms than the pessimist Gissing.  A man like Rousseau has far
+too rosy a theory of human [[Nature|nature]]; but he produces a revolution.
+A man like David Hume thinks that almost all things are depressing;
+but he is a Conservative, and wishes to keep them as they are.
+A man like Godwin believes existence to be kindly; but he is a [[Rebel|rebel]].
+A man like Carlyle believes existence to be cruel; but he is a Tory.
+Everywhere the man who alters things begins by liking things.
+And the real explanation of this [[success]] of the optimistic reformer,
+of this failure of the pessimistic reformer, is, after all, an explanation
+of sufficient simplicity.  It is because the optimist can look at
+wrong not only with indignation, but with a startled indignation.
+When the pessimist looks at any infamy, it is to him, after all,
+only a repetition of the infamy of existence.  The [[Court]] of Chancery
+is indefensible--like mankind.  The [[Inquisition]] is abominable--
+like the universe.  But the optimist sees injustice as something
+discordant and unexpected, and it stings him into action.
+The pessimist can be enraged at wrong; but only the optimist can
+be surprised at it.
+
+And it is the same with the relations of an anomaly to the logical mind.
+The pessimist resents evil (like Lord Macaulay) solely because it is
+a grievance.  The optimist resents it also, because it is an anomaly;
+a contradiction to his conception of the course of things.
+And it is not at all unimportant, but on the contrary most important,
+that this course of things in politics and elsewhere should be lucid,
+explicable and defensible.  When people have got used to unreason they
+can no longer be startled at injustice.  When people have grown familiar
+with an anomaly, they are prepared to that extent for a grievance;
+they may think the grievance grievous, but they can no longer think
+it strange.  Take, if only as an excellent example, the very matter
+alluded to before; I mean the seats, or rather the lack of seats,
+in the [[house|House]] of Commons.  Perhaps it is true that under the best
+conditions it would never happen that every member turned up.
+Perhaps a complete attendance would never actually be.
+But who can tell how much influence in keeping members away may have
+been exerted by this calm assumption that they would stop away?
+How can any man be expected to help to make a full attendance
+when he knows that a full attendance is actually forbidden?
+How can the men who make up the Chamber do their duty reasonably
+when the very men who built the [[house|House]] have not done theirs reasonably?
+If the trumpet give an uncertain sound, who shall prepare himself
+for the battle?  And what if the remarks of the trumpet take this form,
+"I charge you as you [[Love|love]] your [[King]] and country to come to this Council.
+And I know you won't."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se è vero che la [[house|Camera]] dei Comuni non riuscirà a contenere tutti i Comuni, essa è un ottimo esempio di ciò che chiamiamo le anomalie della Costituzione inglese. È anche, io credo, un ottimo esempio di quanto quelle anomalie siano in realtà altamente indesiderabili. La maggior parte degli inglesi afferma che queste anomalie non hanno importanza; non si vergognano di essere illogici; sono fieri di essere illogici. Lord Macaulay (un inglese quanto mai tipico, romantico, prevenuto, poetico), Lord Macaulay disse che non avrebbe alzato un dito per sbarazzarsi di un'anomalia che non fosse anche una prevaricazione. Molti altri robusti e romantici inglesi dicono lo stesso. Si vantano delle nostre anomalie; si vantano della nostra illogicità; dicono che ciò dimostra quale popolo pratico noi siamo. Hanno completamente torto. Lord Macaulay, in questa faccenda come in poche altre, aveva completamente torto. Le anomalie contano eccome, e fanno un gran danno; le illogicità astratte contano eccome, e fanno un gran danno. E questo per una ragione che chiunque abbia una qualche dimestichezza con la [[Nature|natura]] umana può constatare da sé. Ogni ingiustizia comincia nella mente. E le anomalie abituano la mente all'idea dell'irragionevolezza e della falsità. Supponiamo che io avessi, per qualche legge preistorica, il potere di costringere ogni uomo di Battersea a chinare il capo tre volte prima di scendere dal letto. I politici pratici potrebbero dire che questo potere era un'anomalia innocua; che non era una prevaricazione. Non poteva far male ai miei sudditi; non poteva far bene a me. Gli abitanti di Battersea, direbbero, potrebbero tranquillamente sottomettervisi. Eppure gli abitanti di Battersea non potrebbero tranquillamente sottomettervisi, nonostante tutto. Se avessi fatto chinare loro il capo per cinquant'anni, alla fine potrei tagliar loro il capo con incommensurabilmente maggiore facilità. Poiché si sarebbe insinuata in modo permanente nella mente di ciascuno la nozione che fosse cosa naturale per me possedere un potere fantastico e irrazionale. Si sarebbero abituati alla follia.
+
+Poiché, affinché gli uomini resistano all'ingiustizia, occorre qualcosa di più che il ritenere l'ingiustizia sgradevole. Essi devono ritenere l'ingiustizia _assurda_; e soprattutto, devono ritenerla sconcertante. Devono conservare la veemenza di un verginale stupore. Ecco la spiegazione del singolare fatto che deve aver colpito molti nei rapporti tra [[philosophy|filosofia]] e [[Reform|riforma]]. È il fatto (intendo dire) che gli ottimisti sono riformatori più concreti dei pessimisti. Superficialmente, si immaginerebbe che a fare il riformatore fosse chi impreca; che l'uomo il quale ritiene che tutto sia storto sia l'uomo destinato a raddrizzare ogni cosa. Nella pratica storica le cose stanno esattamente all'opposto; per quanto curioso, è l'uomo a cui le cose piacciono così come sono che davvero le rende migliori. L'ottimista Dickens ha realizzato più riforme del pessimista Gissing. Un uomo come Rousseau ha una teoria della [[Nature|natura]] umana fin troppo rosea; eppure produce una rivoluzione. Un uomo come David Hume pensa che quasi tutte le cose siano deprimenti; ma è un conservatore, e desidera mantenerle come sono. Un uomo come Godwin crede che l'esistenza sia benevola; ma è un [[Rebel|ribelle]]. Un uomo come Carlyle crede che l'esistenza sia crudele; ma è un tory. Ovunque l'uomo che muta le cose comincia dall'amarle. E la vera spiegazione di questo [[success|successo]] del riformatore ottimista, di questo fallimento del riformatore pessimista, è, in fin dei conti, una spiegazione di sufficiente semplicità. È perché l'ottimista sa guardare l'ingiustizia non soltanto con indignazione, ma con un'indignazione trasecolata. Quando il pessimista guarda una qualsiasi infamia, essa è per lui, dopo tutto, solo una ripetizione dell'infamia dell'esistenza. La [[Court|Corte]] di Cancelleria è indifendibile — come il genere umano. L'[[Inquisition|Inquisizione]] è abominevole — come l'universo. Ma l'ottimista vede l'ingiustizia come qualcosa di discordante e inatteso, ed essa lo pungola all'azione. Il pessimista può montare in collera davanti al torto; ma solo l'ottimista può esserne sorpreso.
+
+E lo stesso avviene nei rapporti tra un'anomalia e la mente logica. Il pessimista si risente del male (come Lord Macaulay) unicamente perché è una prevaricazione. L'ottimista se ne risente anche perché è un'anomalia; una contraddizione alla sua concezione del corso delle cose. E non è affatto privo d'importanza, ma al contrario è della massima importanza, che questo corso delle cose, in politica e altrove, sia lucido, spiegabile e difendibile. Quando la gente si è abituata all'irragionevolezza, non può più trasecolare davanti all'ingiustizia. Quando la gente ha preso familiarità con un'anomalia, è preparata in quella misura a una prevaricazione; potrà ritenere grave la prevaricazione, ma non potrà più ritenerla strana. Si prenda, non fosse che come esempio eccellente, la questione stessa a cui si accennava prima; intendo i seggi, o piuttosto la mancanza di seggi, nella [[house|Camera]] dei Comuni. Forse è vero che, nelle migliori condizioni, non accadrebbe mai che ogni membro si presentasse. Forse una presenza al completo non si verificherebbe mai davvero. Ma chi può dire quanta influenza nel tenere lontani i membri possa essere stata esercitata da questo pacato presupposto che essi si sarebbero astenuti dal venire? Come ci si può aspettare che un uomo contribuisca a formare una presenza al completo, quando sa che una presenza al completo è addirittura vietata? Come possono gli uomini che compongono la Camera adempiere ragionevolmente al proprio dovere, quando gli uomini stessi che costruirono la [[house|Camera]] non hanno adempiuto ragionevolmente al loro? Se la tromba dà un suono incerto, chi mai si preparerà alla battaglia? E che dire se le parole della tromba prendessero questa forma: «Vi scongiuro, per l'[[Love|amore]] che portate al vostro [[King|Re]] e al vostro paese, di venire a questo Consiglio. E so che non verrete».
 
 
 
@@ -7130,6 +7615,272 @@ L'Inghilterra si comprende con la massima facilità come il paese dei dilettanti
 Ma in Francia la questione se Zola debba andare al Panthéon una volta morto è del tutto pratica quanto lo era la questione se dovesse andare in [[Prison|prigione]] quando era vivo. È il problema se la nazione debba prendere un indirizzo di pensiero oppure un altro. Innalzando un monumento a Zola non si innalza soltanto un trofeo, bensì un segnale indicatore. È una questione che dovrà essere risolta nella maggior parte dei paesi europei; ma, come tutte le questioni di questa specie, è venuta a maturazione per prima in Francia, perché la Francia è il [[Battlefield|campo di battaglia]] della cristianità. Quella questione è, grosso modo, naturalmente questa: se, in quell'area mal definita della licenza verbale su certi argomenti pericolosi, sia un'attenuante dell'indelicatezza oppure un'aggravante il fatto che l'indelicatezza fosse deliberata e solenne. L'indecenza è più indecente se è [[Grave|grave]], o più indecente se è gaia? Per parte mia, in questa materia appartengo alla vecchia scuola. Quando un libro o un dramma mi colpisce come un delitto, non mi lascio disarmare da chi mi dice che è un delitto serio. Se un uomo ha scritto qualcosa di vile, non mi consola la spiegazione che intendeva proprio farlo. Conosco tutti i mali della leggerezza; non mi piace l'uomo che ride alla vista della virtù. Ma lo preferisco all'uomo che piange alla vista della virtù e si lamenta amaramente che esista una simile cosa. Non mi rassicura, quando l'etica è selvaggia come il cannibalismo, il fatto che sia anche [[Grave|grave]] e sincera come il [[suicide|suicidio]]. E credo vi sia una fallacia evidente negli amari contrasti tracciati da certi moderni tra l'avversione per gli «[[Ghosts|Spettri]]» di Ibsen e la popolarità di qualche scherzo come «Caro vecchio Charlie». Non vi è di certo nulla di misterioso o di antifilosofico in questa preferenza popolare. Lo scherzo di «Caro vecchio Charlie» passa liscio, perché è uno scherzo. Gli «[[Ghosts|Spettri]]» sono esorcizzati, perché sono [[Ghosts|spettri]].
 
 Questa è, s'intende, l'intera questione di Zola. Sono adulto, e non mi tormento molto per l'immoralità di Zola. La cosa che non riesco a sopportare è la sua [[morality|moralità]]. Se mai un uomo su questa terra visse per incarnare quel tremendo testo, «Ma se la luce che è nel tuo [[Body|corpo]] è tenebra, quanto grande sarà la tenebra», costui fu certamente lui. Grandi uomini come Ariosto, Rabelais e Shakespeare cadono in luoghi immondi, sguazzano in un peccato violento ma veniale, si distendono per intere pagine esponendo la loro gigantesca debolezza, sono sordidi, sono indifendibili; e poi si rialzano faticosamente e sanno ancora parlare con convincente bontà e con [[Honour|onore]] intatto delle cose migliori del mondo: Rabelais, dell'educazione della gioventù ardente e austera; Ariosto, della santa cavalleria; Shakespeare, della splendida quiete della [[Mercy|misericordia]]. Ma in Zola perfino gli ideali sono indesiderabili; la [[Mercy|misericordia]] di Zola è più fredda della giustizia; anzi, la [[Mercy|misericordia]] di Zola è più amara in bocca dell'ingiustizia. Quando Zola ci mostra un'educazione ideale non ci conduce, come Rabelais, nei felici campi del sapere umanistico. Ci conduce nelle scuole del sapere disumanistico, dove non ci sono né libri né [[Flowers|fiori]], né vino né saggezza, ma soltanto deformità in bottiglie di vetro, e dove la regola è insegnata a partire dalle eccezioni. La [[Truth|verità]] di Zola risponde all'esatta descrizione dello [[skeleton|scheletro]] nell'armadio; ossia, è qualcosa la cui scoperta una consuetudine domestica vieta, ma che è del tutto morto, anche quando viene scoperto. Macaulay disse che i Puritani odiavano il combattimento contro l'orso non perché arrecasse [[Pain|dolore]] all'orso, ma perché arrecava piacere agli spettatori. Di simile sostanza era anche questo Puritano che aveva perduto il proprio Dio. Un Puritano di questo tipo è peggiore del Puritano che odia il piacere perché in esso c'è del male. Costui, in realtà, odia il male perché in esso c'è del piacere. Zola era peggio di un pornografo, era un pessimista. Fece di peggio che incoraggiare il peccato: incoraggiò lo scoraggiamento. Rese la lussuria ripugnante perché per lui la lussuria significava la vita.
+
+
+
+<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_01" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 1)" data-chapter="Oxford OXFORD FROM WITHOUT" data-kind="excerpt"></span>
+
+
+[[Oxford|OXFORD]] FROM WITHOUT
+
+Some [[Time|time]] ago I ventured to defend that race of hunted and
+persecuted outlaws, the Bishops; but until this week I had no
+idea of how much persecuted they were.  For instance, the Bishop
+of Birmingham made some extremely sensible remarks in the [[house|House]]
+of Lords, to the effect that [[Oxford]] and Cambridge were (as everybody
+knows they are) far too much merely plutocratic playgrounds.
+One would have thought that an Anglican Bishop might be allowed to know
+something about the English University system, and even to have,
+if anything, some bias in its favour.  But (as I pointed out)
+the rollicking Radicalism of Bishops has to be restrained.
+The man who writes the notes in the weekly paper called
+the _Outlook_ feels that it is his business to restrain it.
+The passage has such simple sublimity that I must quote it--
+
+"Dr. Gore talked unworthily of his reputation when he spoke
+of the older Universities as playgrounds for the rich and idle.
+In the first place, the rich men there are not idle.
+Some of the rich men are, and so are some of the poor men.
+On the whole, the sons of noble and wealthy families keep up the best
+traditions of academic life."
+
+So far this seems all very nice.  It is a part of the universal
+principle on which Englishmen have acted in recent years.
+As you will not try to make the best people the most powerful people,
+persuade yourselves that the most powerful people are the best people.
+Mad Frenchmen and Irishmen try to realise the ideal.  To you
+belongs the nobler (and much easier) task of idealising the real.
+First give your Universities entirely into the power of the rich;
+then let the rich start traditions; and then congratulate yourselves
+on the fact that the sons of the rich keep up these traditions.
+All that is quite simple and jolly.  But then this critic, who crushes
+Dr. Gore from the high throne of the _Outlook_, goes on in a way
+that is really perplexing.  "It is distinctly advantageous," he says,
+"that rich and poor--_i. e._, young men with a smooth path in life
+before them, and those who have to hew out a [[Road|road]] for themselves--
+should be brought into association.  Each class learns a great deal
+from the other.  On the one side, social conceit and exclusiveness
+give way to the free spirit of competition amongst all classes;
+on the other side, angularities and prejudices are rubbed away."
+Even this I might have swallowed.  But the paragraph concludes
+with this extraordinary sentence:  "We get the net result in such
+careers as those of Lord Milner, Lord Curzon, and Mr. Asquith."
+
+Those three names lay my intellect prostrate.  The rest of the argument
+I understand quite [[Well|well]].  The social exclusiveness of aristocrats at
+[[Oxford]] and Cambridge gives way before the free spirit of competition
+amongst all classes.  That is to say, there is at [[Oxford]] so hot
+and keen a struggle, consisting of coal-heavers, [[London]] clerks,
+gypsies, navvies, drapers' assistants, grocers' assistants--in short,
+all the classes that make up the bulk of England--there is such a fierce
+competition at [[Oxford]] among all these people that in its presence
+aristocratic exclusiveness gives way.  That is all quite clear.
+I am not quite sure about the facts, but I quite understand
+the argument.  But then, having been called upon to contemplate
+this bracing picture of a boisterous turmoil of all the classes
+of England, I am suddenly asked to accept as example of it,
+Lord Milner, Lord Curzon, and the present Chancellor of the Exchequer.
+What part do these gentlemen play in the mental process?
+Is Lord Curzon one of the rugged and ragged poor men whose
+angularities have been rubbed away?  Or is he one of those whom
+[[Oxford]] immediately deprived of all kind of social exclusiveness?
+His [[Oxford]] reputation does not seem to bear out either account of him.
+To regard Lord Milner as a typical product of [[Oxford]] would surely
+be unfair.  It would be to deprive the educational tradition of
+[[Germany]] of one of its most typical products.  English aristocrats
+have their faults, but they are not at all like Lord Milner.
+What Mr. Asquith was meant to prove, whether he was a rich man
+who lost his exclusiveness, or a poor man who lost his angles,
+I am utterly unable to conceive.
+
+There is, however, one mild but very evident [[Truth|truth]] that might perhaps
+be mentioned.  And it is this:  that none of those three excellent
+persons is, or ever has been, a poor man in the sense that that word
+is understood by the overwhelming majority of the English nation.
+There are no poor men at [[Oxford]] in the sense that the majority of men
+in the street are poor.  The very fact that the writer in the _Outlook_
+can talk about such people as poor shows that he does not understand
+what the modern problem is.  His kind of poor man rather reminds
+me of the Earl in the ballad by that great English satirist,
+Sir W.S. Gilbert, whose angles (very acute angles) had, I [[Fear|fear]],
+never been rubbed down by an old English University.  The reader
+will remember that when the Periwinkle-girl was adored by two Dukes,
+the poet added--
+
+"A third adorer had the girl,
+A man of lowly station;
+A miserable grovelling Earl
+Besought her approbation."
+
+Perhaps, indeed, some allusion to our University system, and to
+the universal clash in it of all the classes of the community,
+may be found in the verse a little farther on, which says--
+
+"He'd had, it happily befell,
+A decent [[Education|education]];
+His views would have befitted [[Well|well]]
+A far superior station."
+
+Possibly there was as simple a chasm between Lord Curzon and Lord Milner.
+But I am afraid that the chasm will become almost imperceptible,
+a microscopic crack, if we compare it with the chasm that separates
+either or both of them from the people of this country.
+
+Of course the [[Truth|truth]] is exactly as the Bishop of Birmingham put it.
+I am sure that he did not put it in any unkindly or contemptuous
+spirit towards those old English seats of learning, which whether
+they are or are not seats of learning, are, at any rate,
+old and English, and those are two very good things to be.
+The Old English University is a playground for the governing class.
+That does not prove that it is a bad thing; it might prove that it was
+a very good thing.  Certainly if there is a governing class, let there
+be a playground for the governing class.  I would much rather be ruled
+by men who know how to play than by men who do not know how to play.
+Granted that we are to be governed by a rich section of the community,
+it is certainly very important that that section should be kept
+tolerably genial and jolly.  If the sensitive man on the _Outlook_ does
+not like the phrase, "Playground of the rich," I can suggest a phrase
+that describes such a place as [[Oxford]] perhaps with more precision.
+It is a place for humanising those who might otherwise be tyrants,
+or even experts.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Oxford|OXFORD]] VISTA DA FUORI
+
+Qualche [[Time|tempo]] fa mi arrischiai a difendere quella razza di fuorilegge braccati e perseguitati, i Vescovi; ma solo questa settimana ho compreso fino a che punto siano perseguitati. Il Vescovo di Birmingham, per esempio, pronunciò alcune osservazioni quanto mai sensate alla [[house|Camera]] dei Lord, per dire che [[Oxford]] e Cambridge erano (come tutti sanno che sono) fin troppo dei semplici parchi di svago plutocratici. Si sarebbe pensato che a un Vescovo anglicano fosse concesso di sapere qualcosa del sistema universitario inglese, e persino di nutrire, semmai, qualche pregiudizio in suo favore. Ma (come ho fatto notare) il Radicalismo gioviale dei Vescovi va tenuto a freno. L'uomo che scrive le note nel settimanale intitolato l'_Outlook_ sente che è affar suo tenerlo a freno. Il brano ha una sublimità tanto candida che debbo citarlo per intero...
+
+«Il dottor Gore parlò in modo indegno della sua reputazione quando definì le Università più antiche parchi di svago per i ricchi e gli oziosi. In primo luogo, i ricchi che le frequentano non sono oziosi. Alcuni ricchi lo sono, e così pure alcuni poveri. Nel complesso, i figli delle famiglie nobili e facoltose mantengono vive le migliori tradizioni della vita accademica.»
+
+Fin qui tutto sembra assai gradevole. Fa parte di quel principio universale su cui gli Inglesi hanno agito in questi ultimi anni. Poiché non volete adoperarvi a rendere i migliori i più potenti, persuadetevi che i più potenti sono i migliori. I Francesi pazzi e gli Irlandesi si sforzano di realizzare l'ideale. A voi spetta il compito più nobile (e assai più facile) di idealizzare il reale. Prima consegnate le vostre Università interamente in potere dei ricchi; poi lasciate che i ricchi diano vita a tradizioni; e infine congratulatevi del fatto che i figli dei ricchi mantengano vive quelle tradizioni. Tutto ciò è assai semplice e allegro. Ma poi questo critico, che schiaccia il dottor Gore dall'alto trono dell'_Outlook_, prosegue in un modo davvero sconcertante. «È decisamente vantaggioso», dice, «che ricchi e poveri — _vale a dire_, i giovani che hanno davanti a sé un cammino agevole nella vita, e quelli che devono aprirsi una [[Road|strada]] da sé — vengano posti in reciproca frequentazione. Ciascuna classe impara moltissimo dall'altra. Da un lato, la vanità sociale e l'esclusivismo cedono il posto al libero spirito di competizione fra tutte le classi; dall'altro, le spigolosità e i pregiudizi vengono smussati.» Persino questo avrei potuto ingoiarlo. Ma il paragrafo si conclude con questa straordinaria frase: «Ne otteniamo il risultato netto in carriere come quelle di Lord Milner, di Lord Curzon e del signor Asquith.»
+
+Quei tre nomi prostrano il mio intelletto. Il resto dell'argomentazione lo comprendo assai [[Well|bene]]. L'esclusivismo sociale degli aristocratici a [[Oxford]] e a Cambridge cede dinanzi al libero spirito di competizione fra tutte le classi. Vale a dire che a [[Oxford]] vi è una lotta tanto rovente e accanita, composta di scaricatori di carbone, impiegatucci di [[London|Londra]], zingari, sterratori, commessi di merciai, commessi di droghieri — in breve, tutte le classi che formano il grosso dell'Inghilterra — vi è a [[Oxford]] una competizione così feroce fra tutta questa gente che, alla sua presenza, l'esclusivismo aristocratico cede. Tutto ciò è chiarissimo. Non sono del tutto sicuro dei fatti, ma comprendo perfettamente l'argomento. Se non che, dopo essere stato invitato a contemplare questo tonificante quadro di un turbolento tumulto di tutte le classi dell'Inghilterra, mi si chiede all'improvviso di accettarne come esempio Lord Milner, Lord Curzon e l'attuale Cancelliere dello Scacchiere. Quale parte recitano questi signori nel processo mentale? È forse Lord Curzon uno di quei poveri rudi e cenciosi le cui spigolosità sono state smussate? Oppure è uno di coloro che [[Oxford]] privò all'istante di ogni sorta di esclusivismo sociale? La sua reputazione a [[Oxford]] non sembra confermare né l'una né l'altra descrizione. Considerare Lord Milner un prodotto tipico di [[Oxford]] sarebbe di certo ingiusto. Sarebbe privare la tradizione educativa della [[Germany|Germania]] di uno dei suoi prodotti più tipici. Gli aristocratici inglesi hanno i loro difetti, ma non somigliano affatto a Lord Milner. Che cosa il signor Asquith dovesse dimostrare — se fosse un ricco che aveva perduto il suo esclusivismo, o un povero che aveva perduto le sue spigolosità — mi è del tutto impossibile concepire.
+
+Vi è, tuttavia, una mite ma assai evidente [[Truth|verità]] che forse varrebbe la pena di ricordare. Ed è questa: che nessuna di quelle tre eccellenti persone è, o è mai stata, un povero nel senso in cui quella parola è intesa dalla schiacciante maggioranza della nazione inglese. A [[Oxford]] non esistono poveri nel senso in cui è povera la maggioranza degli uomini che si incontrano per strada. Il fatto stesso che lo scrittore dell'_Outlook_ possa parlare di gente simile come di poveri dimostra che egli non comprende quale sia il problema moderno. La sua specie di povero mi ricorda piuttosto il Conte della ballata di quel grande satirico inglese, Sir W.S. Gilbert, le cui spigolosità (spigolosità assai acute) non erano mai state, [[Fear|temo]], smussate da un'antica Università inglese. Il lettore ricorderà che, quando la fanciulla del Pervinca era adorata da due Duchi, il poeta aggiunse...
+
+«Un terzo spasimante ebbe la ragazza,
+uomo di umile condizione;
+un miserabile Conte strisciante
+ne implorava l'approvazione.»
+
+Forse, in verità, qualche allusione al nostro sistema universitario, e all'universale collisione in esso di tutte le classi della comunità, si potrebbe rinvenire nella strofa poco più avanti, che dice...
+
+«Aveva avuto, per felice sorte,
+una [[Education|educazione]] decorosa;
+le sue vedute si sarebbero addette [[Well|bene]]
+a una condizione assai superiore.»
+
+Forse fra Lord Curzon e Lord Milner correva un abisso altrettanto semplice. Ma temo che l'abisso diverrà quasi impercettibile, una crepa microscopica, se lo paragoniamo all'abisso che separa l'uno o entrambi dal popolo di questo paese.
+
+Naturalmente la [[Truth|verità]] è esattamente come l'ha esposta il Vescovo di Birmingham. Sono certo che egli non la espose con alcun spirito scortese o sprezzante verso quelle antiche sedi inglesi del sapere, le quali, che siano o non siano sedi del sapere, sono comunque antiche e inglesi, e queste sono due ottime cose da essere. L'antica Università inglese è un parco di svago per la classe dirigente. Ciò non prova che sia una cosa cattiva; potrebbe provare che è una cosa ottima. Certo, se una classe dirigente ci ha da essere, che vi sia un parco di svago per la classe dirigente. Preferirei di gran lunga essere governato da uomini che sanno giocare che da uomini che non sanno giocare. Ammesso che dobbiamo essere governati da una sezione facoltosa della comunità, è di certo assai importante che quella sezione sia tenuta tollerabilmente cordiale e gioviale. Se l'uomo suscettibile dell'_Outlook_ non gradisce l'espressione «Parco di svago dei ricchi», posso suggerirgli un'espressione che descrive un luogo come [[Oxford]] forse con maggiore precisione. È un luogo dove umanizzare coloro che altrimenti potrebbero essere tiranni, o addirittura esperti.
+
+
+
+<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_02" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 2)" data-chapter="Oxford OXFORD FROM WITHOUT" data-kind="excerpt"></span>
+
+
+To pretend that the [[aristocrat]] meets all classes at [[Oxford]] is too
+ludicrous to be worth discussion.  But it may be true that he meets
+more different kinds of men than he would meet under a strictly
+aristocratic _regime_ of private tutors and small schools.
+It all comes back to the fact that the English, if they were
+resolved to have an aristocracy, were at least resolved to have a
+good-natured aristocracy.  And it is due to them to say that almost [[Alone|alone]]
+among the peoples of the world, they have succeeded in getting one.
+One could almost tolerate the thing, if it were not for the praise of it.
+One might endure [[Oxford]], but not the _Outlook_.
+
+When the poor man at [[Oxford]] loses his angles (which means,
+I suppose, his independence), he may perhaps, even if his [[Poverty|poverty]]
+is of that highly relative type possible at [[Oxford]], gain a certain
+amount of worldly advantage from the surrender of those angles.
+I must confess, however, that I can imagine nothing nastier than
+to lose one's angles.  It seems to me that a [[Desire|desire]] to retain some
+angles about one's person is a [[Desire|desire]] common to all those human
+beings who do not set their ultimate hopes upon looking like
+Humpty-Dumpty. Our angles are simply our shapes.  I cannot imagine
+any phrase more full of the subtle and exquisite vileness which is
+poisoning and weakening our country than such a phrase as this,
+about the desirability of rubbing down the angularities of poor men.
+Reduced to permanent and practical human speech, it means nothing
+whatever except the corrupting of that first human sense of justice
+which is the critic of all human institutions.
+
+It is not in any such spirit of facile and reckless reassurance
+that we should approach the really difficult problem of the delicate
+virtues and the deep dangers of our two historic seats of learning.
+A good son does not easily admit that his sick mother is dying;
+but neither does a good son cheerily assert that she is "all right."
+There are many good arguments for leaving the two historic Universities
+exactly as they are.  There are many good arguments for smashing
+them or altering them entirely.  But in either case the plain [[Truth|truth]]
+told by the Bishop of Birmingham remains.  If these Universities
+were destroyed, they would not be destroyed as Universities.
+If they are preserved, they will not be preserved as Universities.
+They will be preserved strictly and literally as playgrounds;
+places valued for their hours of leisure more than for their
+hours of work.  I do not say that this is unreasonable;
+as a matter of private temperament I find it attractive.
+It is not only possible to say a great deal in praise of play;
+it is really possible to say the highest things in praise of it.
+It might reasonably be maintained that the true object of all human
+life is play.  Earth is a task [[Garden|garden]]; heaven is a playground.  To be
+at last in such secure [[innocence]] that one can juggle with the universe
+and the [[Stars|stars]], to be so good that one can treat everything as a joke--
+that may be, perhaps, the real end and final holiday of human souls.
+When we are really holy we may regard the Universe as a lark; so perhaps
+it is not essentially wrong to regard the University as a lark.
+But the plain and present fact is that our upper classes do regard
+the University as a lark, and do not regard it as a University.
+It also happens very often that through some oversight they neglect
+to provide themselves with that extreme degree of holiness which I
+have postulated as a necessary preliminary to such indulgence
+in the higher frivolity.
+
+Humanity, always dreaming of a happy race, free, fantastic, and at ease,
+has sometimes pictured them in some mystical island, sometimes in some
+celestial [[City|city]], sometimes as fairies, gods, or citizens of Atlantis.
+But one method in which it has often indulged is to picture them
+as aristocrats, as a special human class that could actually be
+seen hunting in the woods or driving about the streets.  And this
+never was (as some silly Germans say) a worship of [[Pride|pride]] and scorn;
+mankind never really admired [[Pride|pride]]; mankind never had any thing but
+a scorn for scorn.  It was a worship of the spectacle of happiness;
+especially of the spectacle of youth.  This is what the old
+Universities in their noblest aspect really are; and this is why
+there is always something to be said for keeping them as they are.
+Aristocracy is not a tyranny; it is not even merely a spell.
+It is a vision.  It is a deliberate indulgence in a certain
+picture of pleasure painted for the purpose; every Duchess is
+(in an [[Innocent|innocent]] sense) painted, like Gainsborough's "Duchess
+of Devonshire."  She is only beautiful because, at the back of all,
+the English people wanted her to be beautiful.  In the same way,
+the lads at [[Oxford]] and Cambridge are only larking because England,
+in the depths of its solemn [[Soul|soul]], really wishes them to lark.
+All this is very human and pardonable, and would be even harmless
+if there were no such things in the world as danger and [[Honour|honour]]
+and intellectual responsibility.  But if aristocracy is a vision,
+it is perhaps the most unpractical of all visions.  It is not a working
+way of doing things to put all your happiest people on a lighted
+platform and stare only at them.  It is not a working way of managing
+[[Education|education]] to be entirely content with the mere fact that you have
+(to a degree unexampled in the world) given the luckiest boys
+the jolliest [[Time|time]].  It would be easy enough, like the writer
+in the _Outlook_, to enjoy the pleasures and deny the perils.
+Oh what a happy place England would be to live in if only one did
+not [[Love|love]] it!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Pretendere che l'[[aristocrat|aristocratico]] incontri a [[Oxford]] tutte le classi è troppo ridicolo perché valga la pena discuterne. Ma può darsi che sia vero che egli incontri più tipi diversi di uomini di quanti ne incontrerebbe sotto un rigido _régime_ aristocratico di precettori privati e piccole scuole. Tutto si riconduce al fatto che gli Inglesi, se erano decisi ad avere un'aristocrazia, erano almeno decisi ad avere un'aristocrazia bonaria. E bisogna rendere loro giustizia dicendo che quasi [[Alone|soli]] fra i popoli del mondo, essi ci sono riusciti. Si potrebbe quasi tollerare la cosa, se non fosse per l'elogio che se ne fa. Si potrebbe sopportare [[Oxford]], ma non l'_Outlook_.
+
+Quando il povero a [[Oxford]] perde le proprie spigolosità (il che significa, suppongo, la propria indipendenza), egli forse, anche se la sua [[Poverty|povertà]] è di quel tipo altamente relativo possibile a [[Oxford]], ricava un certo vantaggio mondano dalla resa di quelle spigolosità. Devo confessare, tuttavia, che non riesco a immaginare nulla di più ripugnante del perdere le proprie spigolosità. Mi pare che il [[Desire|desiderio]] di conservare qualche spigolo intorno alla propria persona sia un [[Desire|desiderio]] comune a tutti quegli esseri umani che non ripongono le loro speranze ultime nell'assomigliare a Humpty-Dumpty. I nostri spigoli sono semplicemente le nostre forme. Non riesco a immaginare frase più colma di quella sottile e squisita vigliaccheria che sta avvelenando e indebolendo il nostro paese di una frase come questa, sull'opportunità di smussare le spigolosità dei poveri. Ridotta a un linguaggio umano permanente e pratico, essa non significa assolutamente nulla, se non la corruzione di quel primo senso umano di giustizia che è il critico di tutte le istituzioni umane.
+
+Non è certo con uno spirito di rassicurazione facile e sconsiderata che dovremmo accostarci al problema davvero difficile delle delicate virtù e dei profondi pericoli delle nostre due storiche sedi del sapere. Un buon figlio non ammette facilmente che la sua madre malata stia morendo; ma neppure un buon figlio afferma allegramente che ella «sta benissimo». Vi sono molti buoni argomenti per lasciare le due storiche Università esattamente come sono. Vi sono molti buoni argomenti per demolirle o per trasformarle interamente. Ma in entrambi i casi la semplice [[Truth|verità]] detta dal Vescovo di Birmingham resta. Se queste Università venissero distrutte, non verrebbero distrutte in quanto Università. Se vengono conservate, non verranno conservate in quanto Università. Verranno conservate rigorosamente e letteralmente come parchi di svago; luoghi apprezzati per le loro ore di ozio più che per le loro ore di lavoro. Non dico che ciò sia irragionevole; per temperamento privato lo trovo attraente. Non solo è possibile dire moltissimo in lode del gioco; è davvero possibile dire in sua lode le cose più alte. Si potrebbe ragionevolmente sostenere che il vero fine di ogni vita umana è il gioco. La Terra è un [[Garden|giardino]] di fatiche; il cielo è un parco di svago. Trovarsi finalmente in una tale sicura [[innocence|innocenza]] da poter giocolare con l'universo e con le [[Stars|stelle]], essere così buoni da poter trattare ogni cosa come uno scherzo — questo forse è il vero fine e la vacanza definitiva delle anime umane. Quando siamo davvero santi possiamo considerare l'Universo come uno spasso; sicché forse non è essenzialmente sbagliato considerare l'Università come uno spasso. Ma il fatto semplice e presente è che le nostre classi superiori considerano davvero l'Università come uno spasso, e non la considerano affatto come un'Università. Accade inoltre assai spesso che, per qualche disattenzione, esse trascurino di provvedersi di quell'estremo grado di santità che ho postulato come premessa necessaria a un simile indulgere nella frivolità superiore.
+
+L'umanità, sognando da sempre una razza felice, libera, fantasiosa e serena, l'ha talvolta raffigurata in qualche mistica isola, talvolta in qualche [[City|città]] celeste, talvolta come fate, dèi o cittadini di Atlantide. Ma un modo in cui essa ha spesso indulto è quello di raffigurarla come aristocratici, come una speciale classe umana che si potesse effettivamente vedere andare a caccia nei boschi o passare in carrozza per le strade. E questo non fu mai (come dicono certi sciocchi Tedeschi) un culto dell'[[Pride|orgoglio]] e del disprezzo; l'umanità non ammirò mai davvero l'[[Pride|orgoglio]]; l'umanità non ebbe mai altro che disprezzo per il disprezzo. Fu un culto dello spettacolo della felicità; specialmente dello spettacolo della giovinezza. Questo è ciò che le antiche Università, nel loro aspetto più nobile, davvero sono; e questo è il motivo per cui vi è sempre qualcosa da dire in favore del conservarle come sono. L'aristocrazia non è una tirannia; non è neppure semplicemente un incantesimo. È una visione. È un deliberato indulgere in un certo quadro di piacere dipinto allo scopo; ogni Duchessa è (in senso [[Innocent|innocente]]) dipinta, come la «Duchessa di Devonshire» di Gainsborough. Ella è bella soltanto perché, in fondo a tutto, il popolo inglese volle che fosse bella. Allo stesso modo, i ragazzi di [[Oxford]] e di Cambridge fanno baldoria soltanto perché l'Inghilterra, nel profondo della sua solenne [[Soul|anima]], desidera davvero che facciano baldoria. Tutto ciò è assai umano e perdonabile, e sarebbe persino innocuo se non esistessero al mondo cose come il pericolo e l'[[Honour|onore]] e la responsabilità intellettuale. Ma se l'aristocrazia è una visione, essa è forse la più impraticabile di tutte le visioni. Non è un modo funzionale di fare le cose collocare tutta la vostra gente più felice su una piattaforma illuminata e fissare soltanto quella. Non è un modo funzionale di gestire l'[[Education|educazione]] accontentarsi del semplice fatto che avete (a un grado senza esempi nel mondo) concesso ai ragazzi più fortunati il [[Time|tempo]] più allegro. Sarebbe assai facile, come lo scrittore dell'_Outlook_, godere dei piaceri e negare i pericoli. Oh, che luogo felice sarebbe l'Inghilterra in cui vivere, se solo non la si [[Love|amasse]]!
 
 
 
@@ -8407,6 +9158,251 @@ Ciononostante, pare davvero possibile, in [[Germany|Germania]], che un uomo indi
 Al [[Time|tempo]] stesso, come ho detto poc'anzi, non dimentichiamo i nostri difetti. Non dimentichiamoli tanto più facilmente perché sono l'opposto dei difetti tedeschi. L'Inghilterra moderna è fin troppo incline a offrire lo spettacolo di chi si compiace enormemente di non avere gli svantaggi contrari ai propri. L'inglese va sempre dicendo «La mia [[house|casa]] non ha umidità» proprio nel momento in cui la sua [[house|casa]] va a [[Fire|fuoco]]. L'inglese va sempre dicendo «Mi sono liberato di ogni traccia di anemia» nel bel mezzo di un attacco di apoplessia. Ricordiamo sempre che se un inglese vuole truffare gli inglesi, non si travestirà da soldato. Se un inglese vuole truffare gli inglesi, gli verrebbe altrettanto in mente di travestirsi da fattorino. In Inghilterra tutto si fa in modo ufficioso, casuale, per conversazioni e cricche. L'unico Parlamento che governa davvero l'Inghilterra è un Parlamento segreto, i cui dibattiti non devono essere pubblicati: il Gabinetto. I dibattiti dei Comuni sono talora importanti; ma contano solo i dibattiti nell'atrio, mai i dibattiti nella [[house|Camera]]. I giornalisti controllano sì l'opinione pubblica; ma essa non è controllata dagli argomenti che pubblicano — è controllata dagli argomenti scambiati fra direttore e vicedirettore, che essi non pubblicano. Questa noncuranza è il nostro vizio inglese. È al tempo stesso casuale e segreta. La nostra vita pubblica si svolge in privato. Ne consegue che, se un truffatore inglese volesse impressionarci, l'ultima cosa che gli verrebbe in mente sarebbe indossare una divisa. Si darebbe un'aria cortese e trasandata e un abito noncurante e costoso; si avvicinerebbe con calma al Sindaco, dispiacendosi tremendamente di disturbarlo, si accorgerebbe di aver dimenticato il portabiglietti, accennerebbe, come se se ne vergognasse, di essere il Duca di Mercia, e porterebbe a termine tutta la faccenda con l'aria di chi potrebbe procurarsi duecento testimoni e duemila servitori, ma era troppo stanco per convocarne uno solo. E se lo facesse molto [[Well|bene]], sospetto fortemente che avrebbe lo stesso successo dell'inescusabile Capitano di Koepenick.
 
 La nostra tendenza, da molti secoli a questa parte, è stata non tanto quella di creare un'aristocrazia (che può essere o non essere una cosa buona in sé), quanto quella di sostituire un'aristocrazia a ogni altra cosa. In Inghilterra abbiamo un'aristocrazia al posto di una religione. La nobiltà è per i poveri d'Inghilterra ciò che i santi e le fate sono per i poveri d'Irlanda, ciò che il grande diavolo dalla faccia nera era per i poveri di Scozia: la poesia della vita. Allo stesso modo, in Inghilterra abbiamo un'aristocrazia al posto di un [[government|Governo]]. Confidiamo in un certo buon [[Humour|umore]] e in una certa [[Education|educazione]] della classe superiore perché ci interpreti la nostra contraddittoria Costituzione. Nessun uomo colto, nato di donna, sarà mai tanto assurdo quanto il sistema che è chiamato ad amministrare. In breve, non otteniamo buone leggi per frenare i cattivi. Otteniamo buoni uomini per frenare le cattive leggi. E, ultimo di tutti, in Inghilterra abbiamo un'aristocrazia al posto di un Esercito. Abbiamo un Esercito i cui ufficiali sono fieri delle proprie famiglie e si vergognano delle proprie divise. Se fossi [[King|re]] di un qualsiasi paese, e uno dei miei ufficiali si vergognasse della mia divisa, io mi vergognerei del mio ufficiale. Guardatevi, dunque, dal gentiluomo davvero [[Well|beneducato]] e in atteggiamento di scusa, i cui abiti sono al tempo stesso sobri e alla moda, i cui modi sono al tempo stesso schivi e franchi. Guardatevi dall'ammetterlo nei vostri [[Secrets|segreti]] domestici, poiché potrebbe essere un Conte fasullo. O, peggio ancora, uno vero.
+
+
+
+<span class="atom-split" data-atom="story_17_the_boy--part_01" data-title="AllThingsConsidered-8 — THE BOY (part 1)" data-chapter="THE BOY" data-kind="excerpt"></span>
+
+
+THE BOY
+
+I have no sympathy with international aggression when it is
+taken seriously, but I have a certain dark and wild sympathy with it
+when it is quite absurd.  Raids are all wrong as practical politics,
+but they are human and imaginable as practical jokes.
+In fact, almost any act of ragging or violence can be forgiven
+on this strict condition--that it is of no use at all to anybody.
+If the aggressor gets anything out of it, then it is quite unpardonable.
+It is damned by the least hint of utility or profit.  A man of spirit
+and breeding may brawl, but he does not steal.  A gentleman knocks
+off his friend's hat; but he does not annex his friend's hat.
+For this reason (as Mr. Belloc has pointed out somewhere), the very
+militant French people have always returned after their immense raids--
+the raids of Godfrey the Crusader, the raids of Napoleon;
+"they are sucked back, having accomplished nothing but an [[Epic|epic]]."
+
+Sometimes I see small fragments of information in the newspapers
+which make my heart leap with an irrational patriotic sympathy.
+I have had the misfortune to be left comparatively cold by many
+of the enterprises and proclamations of my country in recent times.
+But the other day I found in the _Tribune_ the following paragraph,
+which I may be permitted to set down as an example of the kind
+of international outrage with which I have by far the most
+instinctive sympathy.  There is something attractive, too, in the
+austere simplicity with which the affair is set forth--
+
+"Geneva, Oct. 31.
+
+"The English schoolboy Allen, who was arrested at Lausanne railway
+station on Saturday, for having painted red the statue of General Jomini
+of Payerne, was liberated yesterday, after paying a fine of £24.
+Allen has proceeded to [[Germany]], where he will continue his studies.
+The people of Payerne are indignant, and clamoured for his
+detention in [[Prison|prison]]."
+
+Now I have no [[Doubt|doubt]] that ethics and social necessity require
+a contrary attitude, but I will freely confess that my first
+emotions on reading of this exploit were those of profound
+and elemental pleasure.  There is something so large and simple
+about the operation of painting a whole stone General a bright red.
+Of course I can understand that the people of Payerne were indignant.
+They had passed to their homes at twilight through the streets
+of that beautiful [[City|city]] (or is it a province?), and they had seen
+against the silver ending of the sunset the grand grey figure of
+the [[Hero|hero]] of that land remaining to guard the town under the [[Stars|stars]].
+It certainly must have been a shock to come out in the broad white morning
+and find a large vermilion General staring under the staring sun.
+I do not blame them at all for clamouring for the schoolboy's
+detention in [[Prison|prison]]; I dare say a little detention in [[Prison|prison]] would
+do him no harm.  Still, I think the immense act has something about
+it human and excusable; and when I endeavour to analyse the reason
+of this feeling I find it to lie, not in the fact that the thing
+was big or bold or successful, but in the fact that the thing was
+perfectly useless to everybody, including the person who did it.
+The raid ends in itself; and so Master Allen is sucked back again,
+having accomplished nothing but an [[Epic|epic]].
+
+There is one thing which, in the presence of average modern journalism,
+is perhaps worth saying in connection with such an idle matter as this.
+The morals of a matter like this are exactly like the morals
+of anything else; they are concerned with mutual contract, or with
+the rights of independent human lives.  But the whole modern world,
+or at any rate the whole modern Press, has a perpetual and consuming
+terror of plain morals.  Men always attempt to avoid condemning
+a thing upon merely moral grounds.  If I beat my grandmother to [[Death|death]]
+to-morrow in the middle of Battersea Park, you may be perfectly
+certain that people will say everything about it except the simple
+and fairly obvious fact that it is wrong.  Some will call it insane;
+that is, will accuse it of a deficiency of intelligence.
+This is not necessarily true at all.  You could not tell whether
+the act was unintelligent or not unless you knew my grandmother.
+Some will call it vulgar, disgusting, and the rest of it; that is,
+they will accuse it of a lack of manners.  Perhaps it does show a lack
+of manners; but this is scarcely its most serious disadvantage.
+Others will talk about the loathsome spectacle and the revolting scene;
+that is, they will accuse it of a deficiency of art,
+or æsthetic [[Beauty|beauty]].  This again depends on the circumstances:
+in order to be quite certain that the appearance of the old
+lady has definitely deteriorated under the process of being
+beaten to [[Death|death]], it is necessary for the philosophical critic
+to be quite certain how ugly she was before.  Another school
+of thinkers will say that the action is lacking in efficiency:
+that it is an uneconomic waste of a good grandmother.  But that could
+only depend on the value, which is again an individual matter.
+The only real point that is worth mentioning is that the action is wicked,
+because your grandmother has a right not to be beaten to [[Death|death]].
+But of this simple moral explanation modern journalism has,
+as I say, a standing [[Fear|fear]].  It will call the action anything else--
+mad, bestial, vulgar, idiotic, rather than call it sinful.
+
+One example can be found in such cases as that of the prank of
+the boy and the statue.  When some trick of this sort is played,
+the newspapers opposed to it always describe it as "a senseless joke."
+What is the good of saying that?  Every joke is a senseless joke.
+A joke is by its [[Nature|nature]] a protest against sense.  It is no
+good attacking nonsense for being successfully nonsensical.
+Of course it is nonsensical to paint a celebrated Italian General
+a bright red; it is as nonsensical as "Alice in Wonderland."
+It is also, in my opinion, very nearly as funny.  But the real
+answer to the affair is not to say that it is nonsensical
+or even to say that it is not funny, but to point out that it
+is wrong to spoil statues which belong to other people.
+If the modern world will not insist on having some sharp and definite
+moral law, capable of resisting the counter-attractions of art
+and [[Humour|humour]], the modern world will simply be given over as a spoil
+to anybody who can manage to do a nasty thing in a nice way.
+Every murderer who can murder entertainingly will be allowed to murder.
+Every burglar who burgles in really humorous attitudes will burgle
+as much as he likes.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL RAGAZZO
+
+Non provo alcuna simpatia per l'aggressione internazionale quando è presa sul serio, ma provo una certa oscura e selvaggia simpatia per essa quando è del tutto assurda. Le scorrerie sono senz'altro sbagliate come politica pratica, ma sono umane e concepibili come scherzi pratici. Anzi, quasi ogni atto di baldoria o di violenza può essere perdonato a questa rigorosa condizione: che non serva assolutamente a nessuno. Se l'aggressore ne ricava qualcosa, allora la cosa diventa del tutto imperdonabile. È dannata dal minimo sentore di utilità o di profitto. Un uomo di spirito e di buona educazione può fare a botte, ma non ruba. Un gentiluomo fa saltare il cappello dalla testa dell'amico, ma non se lo annette. Per questa ragione (come Mr. Belloc ha osservato in qualche luogo) il popolo francese, così battagliero, è sempre tornato indietro dopo le sue immense scorrerie: le scorrerie di Goffredo il Crociato, le scorrerie di Napoleone; «vengono risucchiati indietro, non avendo compiuto nulla se non un [[Epic|poema epico]]».
+
+A volte scorgo sui giornali piccoli frammenti d'informazione che mi fanno balzare il cuore per un'irrazionale simpatia patriottica. Ho avuto la sventura di essere lasciato relativamente freddo da molte delle imprese e dei proclami del mio paese in tempi recenti. Ma l'altro giorno ho trovato nel _Tribune_ il seguente trafiletto, che mi sia concesso riportare come esempio di quel genere di oltraggio internazionale verso cui nutro di gran lunga la più istintiva simpatia. C'è qualcosa di attraente, per giunta, nell'austera semplicità con cui la faccenda viene esposta:
+
+«Ginevra, 31 ottobre.
+
+«Lo scolaro inglese Allen, che è stato arrestato alla stazione ferroviaria di Losanna sabato scorso, per aver dipinto di rosso la statua del generale Jomini di Payerne, è stato rimesso in libertà ieri, dopo aver pagato un'ammenda di 24 sterline. Allen si è recato in [[Germany|Germania]], dove proseguirà i suoi studi. La popolazione di Payerne è indignata, e ha reclamato a gran voce la sua reclusione in [[Prison|carcere]]».
+
+Ora, non ho alcun [[Doubt|dubbio]] che l'etica e la necessità sociale esigano un atteggiamento contrario, ma confesserò senza reticenze che le mie prime emozioni nel leggere di questa impresa furono quelle di un piacere profondo ed elementare. C'è qualcosa di così ampio e semplice nell'operazione di dipingere un intero generale di pietra di un bel rosso vivo. Naturalmente posso capire che la popolazione di Payerne fosse indignata. Erano rincasati al crepuscolo attraverso le vie di quella bella [[City|città]] (o è una provincia?), e avevano visto stagliarsi contro l'orlo argenteo del tramonto la grande figura grigia dell'[[Hero|eroe]] di quella terra, rimasto a vegliare sulla cittadina sotto le [[Stars|stelle]]. Dev'essere stato certo un colpo uscire nel pieno chiarore del mattino e trovare un enorme generale vermiglio che fissava l'aria sotto il sole abbagliante. Non li biasimo affatto per aver reclamato a gran voce la reclusione dello scolaro in [[Prison|carcere]]; oserei dire che un po' di reclusione in [[Prison|carcere]] non gli farebbe alcun male. Eppure penso che quell'atto smisurato abbia in sé qualcosa di umano e di scusabile; e quando mi sforzo di analizzare la ragione di questo sentimento, la trovo non nel fatto che la cosa fosse grande, o audace, o riuscita, ma nel fatto che la cosa fosse perfettamente inutile a chiunque, compreso colui che l'aveva compiuta. La scorreria si esaurisce in se stessa; e così il giovane Allen viene risucchiato indietro, non avendo compiuto nulla se non un [[Epic|poema epico]].
+
+C'è una cosa che, al cospetto del giornalismo medio dei nostri giorni, vale forse la pena di dire a proposito di una faccenda tanto oziosa quanto questa. La morale di una faccenda come questa è esattamente come la morale di qualunque altra cosa; ha a che fare con il patto reciproco, o con i diritti di vite umane indipendenti. Ma tutto il mondo moderno, o quantomeno tutta la Stampa moderna, ha un perpetuo e divorante terrore della semplice morale. Gli uomini tentano sempre di evitare di condannare una cosa su basi meramente morali. Se domani pestassi a [[Death|morte]] mia nonna in mezzo a Battersea Park, potete essere assolutamente certi che la gente direbbe di tutto sull'accaduto, tranne il fatto semplice e piuttosto ovvio che è sbagliato. Alcuni lo definiranno pazzesco; ossia lo accuseranno di una carenza d'intelligenza. Il che non è affatto necessariamente vero. Non si potrebbe stabilire se l'atto sia stato o meno privo d'intelligenza senza conoscere mia nonna. Altri lo definiranno volgare, disgustoso, e via dicendo; ossia lo accuseranno di una mancanza di buone maniere. Forse rivela davvero una mancanza di buone maniere; ma questo è ben lungi dall'esserne l'inconveniente più grave. Altri ancora parleranno del ripugnante spettacolo e della scena rivoltante; ossia lo accuseranno di una carenza d'arte, o di [[Beauty|bellezza]] estetica. Anche questo, però, dipende dalle circostanze: per essere del tutto certi che l'aspetto dell'anziana signora sia decisamente peggiorato nel corso del processo di essere pestata a [[Death|morte]], occorre che il critico filosofico sia del tutto certo di quanto ella fosse brutta prima. Un'altra scuola di pensatori dirà che l'azione manca di efficienza: che è un antieconomico spreco di una buona nonna. Ma questo potrebbe dipendere soltanto dal valore, che è di nuovo una questione individuale. L'unico punto reale che valga la pena di menzionare è che l'azione è malvagia, perché vostra nonna ha il diritto di non essere pestata a [[Death|morte]]. Ma di questa semplice spiegazione morale il giornalismo moderno ha, come dico, una perenne [[Fear|paura]]. Definirà l'azione in qualunque altro modo — folle, bestiale, volgare, idiota — piuttosto che definirla peccaminosa.
+
+Un esempio si può trovare in casi come quello della bravata del ragazzo e della statua. Quando viene giocato un tiro di questo genere, i giornali che gli si oppongono lo descrivono sempre come «uno scherzo insensato». A che serve dire questo? Ogni scherzo è uno scherzo insensato. Uno scherzo è per sua [[Nature|natura]] una protesta contro il senso. Non serve a nulla attaccare l'insensatezza per il fatto di essere riuscita nella sua insensatezza. Naturalmente è insensato dipingere un celebre generale italiano di un bel rosso vivo; è insensato quanto «Alice nel Paese delle Meraviglie». Ed è anche, a mio parere, quasi altrettanto spassoso. Ma la vera risposta alla faccenda non è dire che è insensata, e neppure dire che non è spassosa, bensì far notare che è sbagliato deturpare statue che appartengono ad altre persone. Se il mondo moderno non insisterà nell'avere una legge morale netta e definita, capace di resistere alle contro-attrazioni dell'arte e dell'[[Humour|umorismo]], il mondo moderno sarà semplicemente abbandonato in preda a chiunque riesca a compiere una cosa sgradevole in modo garbato. A ogni assassino capace di assassinare in modo divertente sarà consentito di assassinare. Ogni ladro che scassini in atteggiamenti davvero spiritosi scassinerà quanto gli pare.
+
+
+
+<span class="atom-split" data-atom="story_17_the_boy--part_02" data-title="AllThingsConsidered-8 — THE BOY (part 2)" data-chapter="THE BOY" data-kind="excerpt"></span>
+
+
+There is another case of the thing that I mean.  Why on earth do
+the newspapers, in describing a dynamite outrage or any other political
+assassination, call it a "dastardly outrage" or a cowardly outrage?
+It is perfectly evident that it is not dastardly in the least.
+It is perfectly evident that it is about as cowardly as the
+Christians going to the lions.  The man who does it exposes himself
+to the chance of being torn in pieces by two thousand people.
+What the thing is, is not cowardly, but profoundly and detestably wicked.
+The man who does it is very infamous and very brave.
+But, again, the explanation is that our modern Press would rather
+appeal to physical arrogance, or to anything, rather than appeal
+to right and wrong.
+
+In most of the matters of modern England, the real difficulty is
+that there is a negative revolution without a positive revolution.
+Positive aristocracy is breaking up without any particular appearance
+of positive [[democracy]] taking its place.  The polished class is becoming
+less polished without becoming less of a class; the nobleman who becomes
+a guinea-pig keeps all his privileges but loses some of his tradition;
+he becomes less of a gentleman without becoming less of a nobleman.
+In the same way (until some recent and happy revivals)
+it seemed highly probable that the Church of England would cease
+to be a religion long before it had ceased to be a Church.
+And in the same way, the vulgarisation of the old, simple middle class
+does not even have the advantage of doing away with class distinctions;
+the vulgar man is always the most distinguished, for the very [[Desire|desire]]
+to be distinguished is vulgar.
+
+At the same [[Time|time]], it must be remembered that when a class has
+a [[morality]] it does not follow that it is an adequate [[morality]].
+The middle-class ethic was inadequate for some purposes;
+so is the public-school ethic, the ethic of the upper classes.
+On this last matter of the public schools Dr. Spenser, the Head Master
+of University College School, has lately made some valuable observations.
+But even he, I think, overstates the claim of the public schools.
+"The strong point of the English public schools," he says,
+"has always lain in their efficiency as agencies for the formation
+of character and for the inculcation of the great notion of obligation
+which distinguishes a gentleman.  On the physical and moral sides
+the public-school men of England are, I believe, unequalled."
+And he goes on to say that it is on the mental side that they
+are defective.  But, as a matter of fact, the public-school training
+is in the strict sense defective upon the moral side also; it [[Leaves|leaves]]
+out about half of [[morality]].  Its just claim is that, like the old
+middle class (and the Zulus), it trains some virtues and therefore
+suits some people for some situations.  Put an old English merchant
+to serve in an army and he would have been irritated and clumsy.
+Put the men from English public schools to rule Ireland, and they
+make the greatest hash in human [[history]].
+
+Touching the [[morality]] of the public schools, I will take one
+point only, which is enough to prove the case.  People have got
+into their heads an extraordinary idea that English public-school
+boys and English youth generally are taught to tell the [[Truth|truth]].
+They are taught absolutely nothing of the kind.  At no English
+public school is it even suggested, except by accident, that it
+is a man's duty to tell the [[Truth|truth]].  What is suggested is something
+entirely different:  that it is a man's duty not to tell lies.
+So completely does this mistake soak through all civilisation that we
+hardly ever think even of the difference between the two things.
+When we say to a [[Child|child]], "You must tell the [[Truth|truth]]," we do merely
+mean that he must refrain from verbal inaccuracies.  But the thing
+we never teach at all is the general duty of telling the [[Truth|truth]],
+of giving a complete and fair picture of anything we are talking about,
+of not misrepresenting, not evading, not suppressing, not using
+plausible arguments that we know to be unfair, not selecting
+unscrupulously to prove an _ex parte_ case, not telling all the nice
+stories about the Scotch, and all the nasty stories about the Irish,
+not pretending to be disinterested when you are really angry,
+not pretending to be angry when you are really only avaricious.
+The one thing that is never taught by any chance in the atmosphere
+of public schools is exactly that--that there is a whole [[Truth|truth]]
+of things, and that in knowing it and speaking it we are happy.
+
+If any one has the smallest [[Doubt|doubt]] of this neglect of [[Truth|truth]]
+in public schools he can kill his [[Doubt|doubt]] with one plain question.
+Can any one on earth believe that if the seeing and telling of the whole
+[[Truth|truth]] were really one of the ideals of the English governing class,
+there could conceivably exist such a thing as the English party system?
+Why, the English party system is founded upon the principle
+that telling the whole [[Truth|truth]] does not matter.  It is founded upon
+the principle that half a [[Truth|truth]] is better than no politics.
+Our system deliberately turns a crowd of men who might be impartial
+into irrational partisans.  It teaches some of them to tell lies
+and all of them to believe lies.  It gives every man an arbitrary brief
+that he has to work up as best he may and defend as best he can.
+It turns a room full of citizens into a room full of barristers.
+I know that it has many charms and virtues, fighting and good-fellowship;
+it has all the charms and virtues of a game.  I only say that it
+would be a stark impossibility in a nation which believed in
+telling the [[Truth|truth]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è un altro caso della cosa che intendo. Perché mai i giornali, nel descrivere un attentato dinamitardo o qualsiasi altro assassinio politico, lo chiamano «vile oltraggio» o oltraggio codardo? È perfettamente evidente che non è affatto vile. È perfettamente evidente che è più o meno codardo quanto i cristiani che andavano incontro ai leoni. L'uomo che lo compie si espone all'eventualità di essere fatto a pezzi da duemila persone. La cosa non è codarda, bensì profondamente e detestabilmente malvagia. L'uomo che la compie è infamissimo e coraggiosissimo. Ma, di nuovo, la spiegazione è che la nostra Stampa moderna preferirebbe fare appello all'arroganza fisica, o a qualsiasi altra cosa, piuttosto che fare appello al giusto e all'ingiusto.
+
+Nella maggior parte delle faccende dell'Inghilterra moderna, la vera difficoltà è che c'è una rivoluzione negativa senza una rivoluzione positiva. L'aristocrazia positiva si sta disgregando senza che appaia in particolare una [[democracy|democrazia]] positiva a prenderne il posto. La classe raffinata sta diventando meno raffinata senza diventare meno una classe; il nobiluomo che diventa un cavia da laboratorio conserva tutti i suoi privilegi ma perde qualcosa della sua tradizione; diventa meno un gentiluomo senza diventare meno un nobiluomo. Allo stesso modo (fino a certe recenti e felici rinascite) sembrava altamente probabile che la Chiesa d'Inghilterra avrebbe cessato di essere una religione molto prima di aver cessato di essere una Chiesa. E allo stesso modo, la volgarizzazione della vecchia, semplice classe media non ha nemmeno il vantaggio di abolire le distinzioni di classe; l'uomo volgare è sempre il più distinto, giacché il [[Desire|desiderio]] stesso di distinguersi è volgare.
+
+Al [[Time|tempo]] stesso, bisogna ricordare che quando una classe ha una [[morality|morale]] non ne consegue che sia una [[morality|morale]] adeguata. L'etica della classe media era inadeguata a certi scopi; e altrettanto lo è l'etica delle scuole pubbliche, l'etica delle classi superiori. Su quest'ultima questione delle scuole pubbliche il dottor Spenser, preside della University College School, ha di recente formulato alcune preziose osservazioni. Ma anche lui, credo, sopravvaluta le pretese delle scuole pubbliche. «Il punto di forza delle scuole pubbliche inglesi», dice, «è sempre stato la loro efficienza come agenzie per la formazione del carattere e per l'inculcazione di quella grande nozione di obbligo che distingue un gentiluomo. Sul versante fisico e morale gli uomini formatisi nelle scuole pubbliche d'Inghilterra sono, io credo, senza pari». E prosegue affermando che è sul versante intellettuale che essi risultano difettosi. Ma, in realtà, l'educazione delle scuole pubbliche è in senso stretto difettosa anche sul versante morale; [[Leaves|tralascia]] all'incirca metà della [[morality|morale]]. La sua legittima pretesa è che, come la vecchia classe media (e gli Zulù), essa educa alcune virtù e perciò rende alcune persone adatte ad alcune situazioni. Mettete un vecchio mercante inglese a servire in un esercito e sarebbe stato irritabile e goffo. Mettete gli uomini usciti dalle scuole pubbliche inglesi a governare l'Irlanda, e combinano il più grande pasticcio della [[history|storia]] umana.
+
+Toccando la [[morality|morale]] delle scuole pubbliche, prenderò un solo punto, che basta a dimostrare la tesi. La gente si è ficcata in testa la straordinaria idea che ai ragazzi delle scuole pubbliche inglesi e alla gioventù inglese in generale venga insegnato a dire la [[Truth|verità]]. Non gli viene insegnato assolutamente nulla del genere. In nessuna scuola pubblica inglese si suggerisce nemmeno, se non per caso, che sia dovere di un uomo dire la [[Truth|verità]]. Ciò che si suggerisce è qualcosa di interamente diverso: che sia dovere di un uomo non dire menzogne. Tanto completamente questo equivoco impregna l'intera civiltà, che quasi mai pensiamo perfino alla differenza tra le due cose. Quando diciamo a un [[Child|bambino]]: «Devi dire la [[Truth|verità]]», intendiamo semplicemente che deve astenersi dalle inesattezze verbali. Ma la cosa che non insegniamo mai è il dovere generale di dire la [[Truth|verità]], di offrire un quadro completo e onesto di qualunque cosa stiamo trattando, di non travisare, non eludere, non sopprimere, non ricorrere ad argomenti plausibili che sappiamo essere sleali, non selezionare senza scrupoli per provare una causa di parte, non raccontare tutte le storie graziose sugli scozzesi e tutte le storie odiose sugli irlandesi, non fingersi disinteressati quando in realtà si è adirati, non fingersi adirati quando in realtà si è soltanto avidi. L'unica cosa che non viene mai insegnata, per nessun caso, nell'atmosfera delle scuole pubbliche è esattamente questa: che esiste un'intera [[Truth|verità]] delle cose, e che nel conoscerla e nel dirla siamo felici.
+
+Se qualcuno nutre il minimo [[Doubt|dubbio]] su questa negligenza della [[Truth|verità]] nelle scuole pubbliche, può uccidere il proprio [[Doubt|dubbio]] con una sola, semplice domanda. Può qualcuno al mondo credere che, se il vedere e il dire dell'intera [[Truth|verità]] fossero davvero uno degli ideali della classe dirigente inglese, potrebbe concepibilmente esistere una cosa come il sistema inglese dei partiti? Ma se il sistema inglese dei partiti è fondato sul principio che dire l'intera [[Truth|verità]] non conta nulla! È fondato sul principio che mezza [[Truth|verità]] è meglio di nessuna politica. Il nostro sistema trasforma deliberatamente una folla di uomini che potrebbero essere imparziali in fazioni irrazionali. Insegna ad alcuni di loro a dire menzogne e a tutti loro a credere alle menzogne. Assegna a ogni uomo un incarico arbitrario che egli deve elaborare come meglio può e difendere come meglio riesce. Trasforma una stanza piena di cittadini in una stanza piena di avvocati. So che ha molte grazie e virtù, la lotta e il cameratismo; ha tutte le grazie e le virtù di un gioco. Dico soltanto che sarebbe una pura impossibilità in una nazione che credesse nel dire la [[Truth|verità]].
 
 
 
@@ -11271,1002 +12267,6 @@ Ora, nella nostra epoca i poeti tenderanno alla religione ecclesiastica precisam
 Eppure (per quanto strano) benché gli uomini facciano più chiasso intorno ai simboli mondani, con essi intendono di meno. È proprio delle forme religiose il dichiarare qualcosa di ignoto. Ma è proprio delle forme mondane il dichiarare qualcosa che è noto, e che si sa essere falso. Quando il Papa in un'enciclica si dice tuo padre, è questione di [[Faith|fede]] o di [[Doubt|dubbio]]. Ma quando il Duca di Devonshire in una lettera si firma vostro obbedientemente, sai che intende l'opposto di ciò che dice. Le forme religiose sono, nel peggiore dei casi, favole; potrebbero essere vere. Le forme secolari sono menzogne; non sono vere. Si prenda un caso più d'attualità. L'Imperatore di Germania ha più uniformi del Papa. Ma, per di più, i paramenti del Papa sottintendono tutti la pretesa di essere qualcosa di puramente mistico e dubbio. Molte delle uniformi dell'Imperatore di Germania sottintendono la pretesa di essere qualcosa che egli certamente non è e che sarebbe altamente disgustoso se fosse. Il Papa può essere o non essere il Vicario di [[Christ|Cristo]]. Ma il Kaiser di certo non è un colonnello inglese. Se la cosa fosse realtà, sarebbe tradimento. Se è mero rituale, è di gran lunga il rituale più irreale che vi sia sulla terra.
 
 Ora, le persone di indole poetica come Francis Thompson, stando così le cose, tenderanno ad allontanarsi dalla società secolare e a volgersi verso la religione per la ragione sopra descritta: che in entrambe vi sono folle di simboli, ma che quelli della religione sono più semplici e significano di più. Per prendere un tipo evidente, la [[Cross|Croce]] è più poetica della [[Union]] Jack, perché è più semplice. Quanto più un'idea è semplice, tanto più è feconda di variazioni. Francis Thompson avrebbe potuto scrivere un numero qualsiasi di belle [[Poems|poesie]] sulla [[Cross|Croce]], perché essa è un simbolo primario. Il numero di [[Poems|poesie]] che il signor Rudyard Kipling potrebbe scrivere sulla [[Union]] Jack è, per fortuna, limitato, perché la [[Union]] Jack è troppo complessa per generare rigoglio. Il medesimo principio si applica a un numero qualsivoglia di casi. Un poeta come Francis Thompson potrebbe dedurre in perpetuo significati ricchi e ramificati da due fatti spogli come il pane e il vino; col pane e col vino può dilatare ogni cosa fino a ogni dove. Ma con un menu francese non può dilatare nulla, se non forse se stesso. Le idee complicate non producono altre idee. I bastardi non figliano. Il rituale religioso attrae perché in esso vi è un qualche senso. L'immagine religiosa, lungi dall'essere sottile, è l'unica cosa semplice rimasta ai poeti. Lungi dall'essere meramente sovrumana, è l'unica cosa umana rimasta agli esseri umani.
-
-
-
-<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_01" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 1)" data-chapter="cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt"></span>
-
-
-[[cockneys|COCKNEYS]] AND THEIR JOKES
-
-A writer in the _Yorkshire Evening Post_ is very angry indeed with my
-performances in this column.  His precise terms of reproach are,
-"Mr. G. K. Chesterton is not a humourist:  not even a Cockney humourist."
-I do not mind his saying that I am not a humourist--in which (to tell
-the [[Truth|truth]]) I think he is quite right.  But I do resent his saying
-that I am not a Cockney.  That envenomed arrow, I admit, went [[Home|home]].
-If a French writer said of me, "He is no metaphysician:  not even an
-English metaphysician," I could [[Swallow|swallow]] the insult to my metaphysics,
-but I should feel angry about the insult to my country.  So I do not
-urge that I am a humourist; but I do insist that I am a Cockney.
-If I were a humourist, I should certainly be a Cockney humourist;
-if I were a saint, I should certainly be a Cockney saint.
-I need not recite the splendid catalogue of Cockney saints
-who have written their names on our noble old [[City]] churches.
-I need not trouble you with the long list of the Cockney humourists
-who have discharged their bills (or failed to discharge them)
-in our noble old [[City]] taverns.  We can weep together over
-the pathos of the poor Yorkshireman, whose county has never
-produced some [[Humour|humour]] not intelligible to the rest of the world.
-And we can smile together when he says that somebody or other is
-"not even" a Cockney humourist like Samuel Johnson or Charles [[Lamb]].
-It is surely sufficiently obvious that all the best [[Humour|humour]] that
-exists in our language is Cockney [[Humour|humour]].  Chaucer was a Cockney;
-he had his [[house]] close to the Abbey.  Dickens was a Cockney;
-he said he could not think without the [[London]] streets.
-The [[London]] taverns heard always the quaintest conversation, whether it
-was Ben Johnson's at the [[Mermaid]] or Sam Johnson's at the Cock.
-Even in our own [[Time|time]] it may be noted that the most vital and genuine
-[[Humour|humour]] is still written about [[London]].  Of this type is the mild and humane
-irony which marks Mr. Pett Ridge's studies of the small grey streets.
-Of this type is the simple but smashing laughter of the best tales
-of Mr. W. W. Jacobs, telling of the smoke and sparkle of the Thames.
-No; I concede that I am not a Cockney humourist.  No; I am not
-worthy to be.  Some [[Time|time]], after sad and strenuous after-lives;
-some [[Time|time]], after fierce and apocalyptic incarnations; in some strange
-world beyond the [[Stars|stars]], I may become at last a Cockney humourist.
-In that potential paradise I may walk among the Cockney humourists,
-if not an equal, at least a companion.  I may feel for a moment
-on my shoulder the hearty hand of Dryden and thread the labyrinths
-of the sweet insanity of [[Lamb]].  But that could only be if I were
-not only much cleverer, but much better than I am.  Before I reach
-that sphere I shall have left behind, perhaps, the sphere that is
-inhabited by angels, and even passed that which is appropriated
-exclusively to the use of Yorkshiremen.
-
-No; [[London]] is in this matter attacked upon its strongest ground.
-[[London]] is the largest of the bloated modern cities; [[London]] is
-the smokiest; [[London]] is the dirtiest; [[London]] is, if you will,
-the most sombre; [[London]] is, if you will, the most miserable.
-But [[London]] is certainly the most amusing and the most amused.
-You may prove that we have the most [[Tragedy|tragedy]]; the fact remains
-that we have the most [[Comedy|comedy]], that we have the most farce.
-We have at the very worst a splendid hypocrisy of [[Humour|humour]].
-We conceal our sorrow behind a screaming derision.  You speak of
-people who laugh through their [[Tears|tears]]; it is our boast that we only
-weep through our laughter.  There remains always this great boast,
-perhaps the greatest boast that is possible to human [[Nature|nature]].
-I mean the great boast that the most unhappy part of our population
-is also the most hilarious part.  The poor can forget that social
-problem which we (the moderately rich) ought never to forget.
-Blessed are the poor; for they [[Alone|alone]] have not the poor always
-with them.  The honest poor can sometimes forget [[Poverty|poverty]].
-The honest rich can never forget it.
-
-I believe firmly in the value of all vulgar notions, especially of
-vulgar jokes.  When once you have got hold of a vulgar joke, you may
-be certain that you have got hold of a subtle and spiritual idea.
-The men who made the joke saw something deep which they could not
-express except by something silly and emphatic.  They saw something
-delicate which they could only express by something indelicate.
-I remember that Mr. Max Beerbohm (who has every merit except [[democracy]])
-attempted to analyse the jokes at which the mob laughs.
-He divided them into three sections:  jokes about bodily humiliation,
-jokes about things alien, such as foreigners, and jokes about bad [[cheese]].
-Mr. Max Beerbohm thought he understood the first two forms;
-but I am not sure that he did.  In order to understand vulgar
-[[Humour|humour]] it is not enough to be humorous.  One must also be vulgar,
-as I am.  And in the first case it is surely obvious that it
-is not merely at the fact of something being hurt that we laugh
-(as I trust we do) when a Prime Minister sits down on his hat.
-If that were so we should laugh whenever we saw a funeral.
-We do not laugh at the mere fact of something falling down;
-there is nothing humorous about [[Leaves|leaves]] falling or the sun going down.
-When our [[house]] falls down we do not laugh.  All the [[Birds|birds]] of the air
-might drop around us in a perpetual shower like a hailstorm
-without arousing a smile.  If you really ask yourself why we laugh
-at a man sitting down suddenly in the street you will discover
-that the reason is not only recondite, but ultimately religious.
-All the jokes about men sitting down on their hats are really
-theological jokes; they are concerned with the Dual [[Nature]] of Man.
-They refer to the primary [[Paradox|paradox]] that man is superior to all
-the things around him and yet is at their [[Mercy|mercy]].
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-I [[cockneys|COCKNEY]] E LE LORO FACEZIE
-
-Un articolista dello _Yorkshire Evening Post_ è oltremodo indignato per le mie prestazioni in questa rubrica. I suoi precisi termini di rimprovero suonano così: «Il signor G. K. Chesterton non è un umorista: nemmeno un umorista cockney». Non m'importa che dica che non sono un umorista — nel che (a dire il [[Truth|vero]]) credo abbia perfettamente ragione. Ma mi risento davvero che dica che non sono un cockney. Quel dardo avvelenato, lo confesso, andò a [[Home|segno]]. Se uno scrittore francese dicesse di me: «Non è un metafisico: nemmeno un metafisico inglese», potrei [[Swallow|inghiottire]] l'insulto alla mia metafisica, ma proverei collera per l'insulto alla mia patria. Perciò non insisto d'essere un umorista; ma insisto d'essere un cockney. Se fossi un umorista, sarei certamente un umorista cockney; se fossi un santo, sarei certamente un santo cockney. Non ho bisogno di recitare lo splendido catalogo dei santi cockney che hanno scritto i loro nomi sulle nostre nobili vecchie chiese della [[City]]. Non ho bisogno di tediarvi con la lunga lista degli umoristi cockney che hanno saldato i loro conti (o non son riusciti a saldarli) nelle nostre nobili vecchie taverne della [[City]]. Possiamo piangere insieme sul patetico caso del povero uomo dello Yorkshire, la cui contea non ha mai prodotto un [[Humour|umorismo]] che non fosse intelligibile al resto del mondo. E possiamo sorridere insieme quando egli dice che il tale o il tal altro non è «nemmeno» un umorista cockney come Samuel Johnson o Charles [[Lamb]]. È di certo sufficientemente ovvio che tutto il migliore [[Humour|umorismo]] che esista nella nostra lingua sia [[Humour|umorismo]] cockney. Chaucer era un cockney; aveva la sua [[house|casa]] a due passi dall'Abbazia. Dickens era un cockney; diceva di non saper pensare senza le strade di [[London|Londra]]. Le taverne di [[London|Londra]] udirono sempre la conversazione più bizzarra, fosse quella di Ben Johnson alla [[Mermaid]] o quella di Sam Johnson al Cock. Persino ai nostri [[Time|giorni]] si può notare che l'umorismo più vitale e genuino si scrive tuttora su [[London|Londra]]. Di questo genere è la mite e umana ironia che contraddistingue gli studi del signor Pett Ridge sulle piccole strade grigie. Di questo genere è la risata semplice ma travolgente dei migliori racconti del signor W. W. Jacobs, che narrano del fumo e dello scintillio del Tamigi. No; concedo di non essere un umorista cockney. No; non ne sono degno. Un [[Time|giorno]], dopo tristi e faticose vite ulteriori; un [[Time|giorno]], dopo feroci e apocalittiche incarnazioni; in qualche strano mondo al di là delle [[Stars|stelle]], potrò forse diventare finalmente un umorista cockney. In quel paradiso potenziale potrò forse camminare fra gli umoristi cockney, se non da pari, almeno da compagno. Potrò forse sentire per un istante sulla spalla la cordiale mano di Dryden e infilarmi nei labirinti della dolce follia di [[Lamb]]. Ma ciò potrebbe accadere solo se fossi non soltanto assai più abile, ma assai migliore di quanto io sia. Prima di raggiungere quella sfera avrò lasciato dietro di me, forse, la sfera abitata dagli angeli, e avrò varcato persino quella riservata esclusivamente all'uso degli uomini dello Yorkshire.
-
-No; [[London|Londra]] è in questa faccenda attaccata sul suo terreno più saldo. [[London|Londra]] è la più grande delle gonfie città moderne; [[London|Londra]] è la più fumosa; [[London|Londra]] è la più sudicia; [[London|Londra]] è, se volete, la più tetra; [[London|Londra]] è, se volete, la più misera. Ma [[London|Londra]] è di certo la più divertente e la più divertita. Potrete dimostrare che abbiamo la maggior [[Tragedy|tragedia]]; resta il fatto che abbiamo la maggior [[Comedy|commedia]], che abbiamo la maggior farsa. Abbiamo, nella peggiore delle ipotesi, una splendida ipocrisia di [[Humour|umorismo]]. Nascondiamo il nostro dolore dietro una derisione sguaiata. Voi parlate di gente che ride tra le [[Tears|lacrime]]; è nostro vanto piangere soltanto tra le risate. Rimane sempre questo grande vanto, forse il più grande vanto possibile alla [[Nature|natura]] umana. Intendo il grande vanto che la parte più infelice della nostra popolazione sia anche la più ilare. I poveri sanno dimenticare quel problema sociale che noi (i moderatamente ricchi) non dovremmo mai dimenticare. Beati i poveri; poiché essi [[Alone|soli]] non hanno sempre i poveri con sé. Il povero onesto può talvolta dimenticare la [[Poverty|povertà]]. Il ricco onesto non può mai dimenticarla.
-
-Credo fermamente nel valore di tutte le nozioni volgari, e specialmente delle facezie volgari. Una volta che avrete afferrato una facezia volgare, potrete esser certi d'aver afferrato un'idea sottile e spirituale. Gli uomini che hanno fatto la facezia vedevano qualcosa di profondo che non riuscivano a esprimere se non con qualcosa di sciocco ed enfatico. Vedevano qualcosa di delicato che potevano esprimere soltanto con qualcosa d'indelicato. Ricordo che il signor Max Beerbohm (che ha ogni pregio tranne la [[democracy|democrazia]]) tentò di analizzare le facezie di cui ride la folla. Le divise in tre categorie: facezie sull'umiliazione corporea, facezie sulle cose estranee, quali gli stranieri, e facezie sul [[cheese|formaggio]] andato a male. Il signor Max Beerbohm credeva di comprendere le prime due forme; ma non sono sicuro che le comprendesse. Per comprendere l'[[Humour|umorismo]] volgare non basta essere umoristi. Bisogna anche essere volgari, come lo sono io. E nel primo caso è di certo ovvio che non è semplicemente al fatto che qualcosa si faccia male che noi ridiamo (come confido che facciamo) quando un Primo Ministro si siede sul proprio cappello. Se così fosse, dovremmo ridere ogni volta che vedessimo un funerale. Non ridiamo del mero fatto che qualcosa cada; non c'è nulla di comico nelle [[Leaves|foglie]] che cadono o nel sole che tramonta. Quando la nostra [[house|casa]] crolla non ridiamo. Tutti gli [[Birds|uccelli]] dell'aria potrebbero piombarci attorno in una pioggia perpetua come una grandinata senza suscitare un sorriso. Se davvero vi domandate perché ridiamo di un uomo che si siede all'improvviso in mezzo alla strada, scoprirete che la ragione è non solo recondita, ma in ultima analisi religiosa. Tutte le facezie sugli uomini che si siedono sul proprio cappello sono in realtà facezie teologiche; riguardano la Duplice [[Nature|Natura]] dell'Uomo. Si riferiscono al [[Paradox|paradosso]] primario per cui l'uomo è superiore a tutte le cose che lo circondano e tuttavia è alla loro [[Mercy|mercé]].
-
-
-
-<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_02" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 2)" data-chapter="cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt"></span>
-
-
-Quite equally subtle and spiritual is the idea at the back
-of laughing at foreigners.  It concerns the almost torturing
-[[Truth|truth]] of a thing being like oneself and yet not like oneself.
-Nobody laughs at what is entirely foreign; nobody laughs at a palm tree.
-But it is funny to see the familiar image of God disguised behind
-the black beard of a Frenchman or the black face of a Negro.
-There is nothing funny in the sounds that are wholly inhuman,
-the howling of wild beasts or of the [[Wind|wind]].  But if a man begins
-to talk like oneself, but all the syllables come out different,
-then if one is a man one feels inclined to laugh, though if one is
-a gentleman one resists the inclination.
-
-Mr. Max Beerbohm, I remember, professed to understand the first two
-forms of popular wit, but said that the third quite stumped him.
-He could not see why there should be anything funny about bad [[cheese]].
-I can tell him at once.  He has missed the idea because it
-is subtle and philosophical, and he was looking for something
-ignorant and foolish.  Bad [[cheese]] is funny because it is
-(like the foreigner or the man fallen on the pavement) the type
-of the transition or transgression across a great mystical boundary.
-Bad [[cheese]] symbolises the change from the inorganic to the organic.
-Bad [[cheese]] symbolises the startling prodigy of matter taking
-on vitality.  It symbolises the origin of life itself.
-And it is only about such solemn matters as the origin of life that
-the [[democracy]] condescends to joke.  Thus, for instance, the [[democracy]]
-jokes about [[Marriage|marriage]], because [[Marriage|marriage]] is a part of mankind.
-But the [[democracy]] would never deign to joke about Free [[Love]],
-because Free [[Love]] is a piece of priggishness.
-
-As a matter of fact, it will be generally found that the popular joke
-is not true to the letter, but is true to the spirit.  The vulgar
-joke is generally in the oddest way the [[Truth|truth]] and yet not the fact.
-For instance, it is not in the least true that mothers-in-law are
-as a class oppressive and intolerable; most of them are both devoted
-and useful.  All the mothers-in-law I have ever had were admirable.
-Yet the legend of the comic papers is profoundly true.
-It draws attention to the fact that it is much harder to be a nice
-mother-in-law than to be nice in any other conceivable relation of life.
-The caricatures have drawn the worst mother-in-law a [[Monster|monster]], by way
-of expressing the fact that the best mother-in-law is a problem.
-The same is true of the perpetual jokes in comic papers about shrewish
-wives and henpecked husbands.  It is all a frantic exaggeration,
-but it is an exaggeration of a [[Truth|truth]]; whereas all the modern mouthings
-about oppressed women are the exaggerations of a falsehood.
-If you read even the best of the intellectuals of to-day you will
-find them saying that in the mass of the [[democracy]] the woman is
-the chattel of her lord, like his bath or his bed.  But if you read
-the comic literature of the [[democracy]] you will find that the lord
-hides under the bed to escape from the wrath of his chattel.
-This is not the fact, but it is much nearer the [[Truth|truth]].  Every man
-who is married knows quite [[Well|well]], not only that he does not regard his
-wife as a chattel, but that no man can conceivably ever have done so.
-The joke stands for an ultimate [[Truth|truth]], and that is a subtle [[Truth|truth]].
-It is one not very easy to state correctly.  It can, perhaps, be most
-correctly stated by saying that, even if the man is the head
-of the [[house]], he knows he is the figurehead.
-
-But the vulgar comic papers are so subtle and true that they are
-even prophetic.  If you really want to know what is going to happen
-to the future of our [[democracy]], do not read the modern sociological
-prophecies, do not read even Mr. Wells's Utopias for this purpose,
-though you should certainly read them if you are fond of good
-honesty and good English.  If you want to know what will happen,
-study the pages of _Snaps_ or _Patchy Bits_ as if they were the dark
-tablets graven with the oracles of the gods.  For, mean and gross
-as they are, in all seriousness, they contain what is entirely absent
-from all Utopias and all the sociological conjectures of our [[Time|time]]:
-they contain some hint of the actual habits and manifest desires
-of the English people.  If we are really to find out what the
-[[democracy]] will ultimately do with itself, we shall surely find it,
-not in the literature which studies the people, but in the literature
-which the people studies.
-
-I can give two chance cases in which the common or Cockney
-joke was a much better prophecy than the careful observations
-of the most cultured observer.  When England was agitated,
-previous to the last General Election, about the existence
-of Chinese labour, there was a distinct difference between
-the tone of the politicians and the tone of the populace.
-The politicians who disapproved of Chinese labour were most careful
-to explain that they did not in any sense disapprove of Chinese.
-According to them, it was a pure question of legal propriety,
-of whether certain clauses in the contract of indenture were not
-inconsistent with our constitutional traditions:  according to them,
-the case would have been the same if the people had been Kaffirs
-or Englishmen.  It all sounded wonderfully enlightened and lucid;
-and in comparison the popular joke looked, of course, very poor.
-For the popular joke against the Chinese labourers was simply
-that they were Chinese; it was an objection to an alien type;
-the popular papers were full of gibes about pigtails and yellow faces.
-It seemed that the Liberal politicians were raising an intellectual
-objection to a doubtful document of State; while it seemed that
-the Radical populace were merely roaring with idiotic laughter
-at the sight of a Chinaman's clothes.  But the popular instinct
-was justified, for the vices revealed were Chinese vices.
-
-But there is another case more pleasant and more up to date.
-The popular papers always persisted in representing the New Woman
-or the Suffragette as an ugly woman, fat, in spectacles,
-with bulging clothes, and generally falling off a bicycle.  As a matter
-of plain external fact, there was not a word of [[Truth|truth]] in this.
-The leaders of the movement of female emancipation are not at all ugly;
-most of them are extraordinarily good-looking. Nor are they at all
-indifferent to art or decorative costume; many of them are alarmingly
-attached to these things.  Yet the popular instinct was right.
-For the popular instinct was that in this movement, rightly or wrongly,
-there was an element of indifference to female dignity,
-of a quite new willingness of women to be [[Grotesque|grotesque]].
-These women did truly despise the pontifical quality of woman.
-And in our streets and around our Parliament we have seen the stately
-woman of art and culture turn into the comic woman of _Comic Bits_.
-And whether we think the exhibition justifiable or not, the prophecy
-of the comic papers is justified:  the healthy and vulgar masses
-were conscious of a hidden enemy to their traditions who has now come
-out into the daylight, that the scriptures might be fulfilled.
-For the two things that a healthy person hates most between heaven
-and hell are a woman who is not dignified and a man who is.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Del tutto ugualmente sottile e spirituale è l'idea che sta dietro il ridere degli stranieri. Concerne la quasi tormentosa [[Truth|verità]] di una cosa che è simile a noi stessi e tuttavia diversa da noi stessi. Nessuno ride di ciò che è interamente estraneo; nessuno ride di una palma. Ma è buffo vedere la familiare immagine di Dio travestita dietro la barba nera di un francese o la faccia nera di un negro. Non c'è nulla di buffo nei suoni che sono del tutto disumani, l'ululato delle belve o del [[Wind|vento]]. Ma se un uomo comincia a parlare come noi, e però tutte le sillabe gli escono diverse, allora, se si è uomini, ci si sente inclini a ridere, benché, se si è gentiluomini, si resista all'inclinazione.
-
-Il signor Max Beerbohm, lo ricordo, dichiarava di comprendere le prime due forme dello spirito popolare, ma diceva che la terza lo lasciava del tutto perplesso. Non riusciva a capire perché ci dovesse essere alcunché di buffo nel [[cheese|formaggio]] andato a male. Posso spiegarglielo all'istante. Gli è sfuggita l'idea perché essa è sottile e filosofica, mentre egli cercava qualcosa d'ignorante e sciocco. Il [[cheese|formaggio]] andato a male è buffo perché è (come lo straniero o l'uomo caduto sul selciato) il tipo del passaggio o della trasgressione attraverso un grande confine mistico. Il [[cheese|formaggio]] andato a male simboleggia il mutamento dall'inorganico all'organico. Il [[cheese|formaggio]] andato a male simboleggia lo strabiliante prodigio della materia che assume vitalità. Simboleggia l'origine stessa della vita. Ed è soltanto su faccende solenni come l'origine della vita che la [[democracy|democrazia]] si degna di scherzare. Così, per esempio, la [[democracy|democrazia]] scherza sul [[Marriage|matrimonio]], perché il [[Marriage|matrimonio]] è una parte del genere umano. Ma la [[democracy|democrazia]] non si degnerebbe mai di scherzare sul Libero [[Love|Amore]], perché il Libero [[Love|Amore]] è un pezzo di saccenteria.
-
-In verità, si troverà per lo più che la facezia popolare non è vera alla lettera, ma è vera nello spirito. La facezia volgare è di solito, nel modo più bizzarro, la [[Truth|verità]] e tuttavia non il fatto. Per esempio, non è affatto vero che le suocere siano, come categoria, opprimenti e intollerabili; la maggior parte di esse sono insieme devote e utili. Tutte le suocere che ho mai avuto erano ammirevoli. Eppure la leggenda dei giornali umoristici è profondamente vera. Richiama l'attenzione sul fatto che è assai più difficile essere una buona suocera che essere buoni in qualsiasi altra concepibile relazione della vita. Le caricature hanno raffigurato la peggiore suocera come un [[Monster|mostro]], per esprimere il fatto che la migliore suocera è un problema. Lo stesso vale per le perpetue facezie dei giornali umoristici sulle mogli bisbetiche e i mariti succubi. È tutta una frenetica esagerazione, ma è l'esagerazione di una [[Truth|verità]]; laddove tutte le moderne declamazioni sulle donne oppresse sono le esagerazioni di una falsità. Se leggete anche i migliori tra gli intellettuali d'oggi, li troverete affermare che nella massa della [[democracy|democrazia]] la donna è il bene mobile del suo signore, al pari della sua vasca o del suo letto. Ma se leggete la letteratura comica della [[democracy|democrazia]], troverete che è il signore a nascondersi sotto il letto per sfuggire all'ira del suo bene mobile. Questo non è il fatto, ma è assai più vicino alla [[Truth|verità]]. Ogni uomo sposato sa benissimo, non solo di non considerare la propria moglie un bene mobile, ma che nessun uomo può mai concepibilmente averlo fatto. La facezia sta per una [[Truth|verità]] ultima, e questa è una [[Truth|verità]] sottile. Non è facilissima da enunciare correttamente. La si può, forse, enunciare nel modo più corretto dicendo che, anche se l'uomo è il capo della [[house|casa]], egli sa d'esserne la polena.
-
-Ma i volgari giornali umoristici sono così sottili e veri da essere persino profetici. Se davvero volete sapere che ne sarà del futuro della nostra [[democracy|democrazia]], non leggete le moderne profezie sociologiche, non leggete neppure le Utopie del signor Wells a tale scopo, benché dobbiate certamente leggerle se amate la buona onestà e il buon inglese. Se volete sapere che cosa accadrà, studiate le pagine di _Snaps_ o di _Patchy Bits_ come se fossero le oscure tavolette incise con gli oracoli degli dèi. Poiché, per meschine e grossolane che siano, in tutta serietà, esse contengono ciò che è del tutto assente da tutte le Utopie e da tutte le congetture sociologiche del nostro [[Time|tempo]]: contengono qualche indizio delle reali abitudini e dei manifesti desideri del popolo inglese. Se davvero vogliamo scoprire che cosa la [[democracy|democrazia]] farà in ultimo di sé, lo troveremo di sicuro non nella letteratura che studia il popolo, ma nella letteratura che il popolo studia.
-
-Posso addurre due casi fortuiti in cui la facezia comune, o cockney, fu una profezia assai migliore delle attente osservazioni dell'osservatore più colto. Quando l'Inghilterra fu agitata, prima delle ultime elezioni generali, dalla questione dell'esistenza della manodopera cinese, vi fu una netta differenza tra il tono dei politici e il tono della popolazione. I politici che disapprovavano la manodopera cinese erano oltremodo attenti a spiegare che non disapprovavano in alcun senso i cinesi. Secondo loro, era una pura questione di correttezza giuridica, se cioè certe clausole nel contratto di ingaggio non fossero incompatibili con le nostre tradizioni costituzionali: secondo loro, il caso sarebbe stato lo stesso se quella gente fosse stata composta di cafri o di inglesi. Tutto suonava meravigliosamente illuminato e lucido; e al confronto la facezia popolare appariva, naturalmente, assai misera. Poiché la facezia popolare contro i lavoratori cinesi era semplicemente che essi erano cinesi; era un'obiezione a un tipo estraneo; i giornali popolari erano pieni di frizzi sui codini e sulle facce gialle. Sembrava che i politici liberali sollevassero un'obiezione intellettuale a un dubbio documento di Stato; mentre sembrava che la plebe radicale non facesse che sghignazzare in un'idiota risata alla vista degli abiti di un cinese. Ma l'istinto popolare fu giustificato, poiché i vizi rivelati furono vizi cinesi.
-
-Ma c'è un altro caso più piacevole e più attuale. I giornali popolari si ostinarono sempre a rappresentare la Donna Nuova, o la Suffragetta, come una donna brutta, grassa, con gli occhiali, dagli abiti gonfi, e generalmente in atto di cadere da una bicicletta. In fatto di pura realtà esteriore, non c'era una parola di [[Truth|verità]] in tutto ciò. Le capofila del movimento di emancipazione femminile non sono affatto brutte; la maggior parte di esse è straordinariamente avvenente. Né sono affatto indifferenti all'arte o all'abbigliamento ricercato; molte di esse sono allarmantemente attaccate a queste cose. Eppure l'istinto popolare aveva ragione. Poiché l'istinto popolare era che in questo movimento, a torto o a ragione, vi fosse un elemento d'indifferenza alla dignità femminile, di una del tutto nuova disponibilità delle donne a rendersi [[Grotesque|grottesche]]. Queste donne disprezzavano davvero la qualità pontificale della donna. E nelle nostre strade e attorno al nostro Parlamento abbiamo veduto la maestosa donna dell'arte e della cultura mutarsi nella donna comica di _Comic Bits_. E che si giudichi l'esibizione giustificabile o no, la profezia dei giornali umoristici è giustificata: le masse sane e volgari erano consapevoli di un nemico occulto alle loro tradizioni, il quale è ora venuto alla luce del giorno, affinché le scritture si adempissero. Poiché le due cose che una persona sana odia di più tra il cielo e l'inferno sono una donna che non è dignitosa e un uomo che lo è.
-
-
-
-<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_01" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 1)" data-chapter="THE VOTE AND THE house HOUSE" data-kind="excerpt"></span>
-
-
-THE VOTE AND THE [[house|HOUSE]]
-
-Most of us will be canvassed soon, I suppose; some of us may
-even canvass.  Upon which side, of course, nothing will induce me
-to state, beyond saying that by a remarkable coincidence it will in
-every case be the only side in which a high-minded, public-spirited,
-and patriotic citizen can take even a momentary interest.
-But the general question of canvassing itself, being a non-party question,
-is one which we may be permitted to approach.  The rules for
-canvassers are fairly familiar to any one who has ever canvassed.
-They are printed on the little card which you carry about with you
-and lose.  There is a statement, I think, that you must not offer
-a voter food or drink.  However hospitable you may feel towards him
-in his own [[house]], you must not carry his lunch about with you.
-You must not produce a veal cutlet from your tail-coat pocket.
-You must not conceal poached eggs about your person.  You must not,
-like a kind of conjurer, produce baked potatoes from your hat.
-In short, the canvasser must not feed the voter in any way.
-Whether the voter is allowed to feed the canvasser, whether the
-voter may give the canvasser veal cutlets and baked potatoes,
-is a point of law on which I have never been able to inform myself.
-When I found myself canvassing a gentleman, I have sometimes felt
-tempted to ask him if there was any rule against his giving me
-food and drink; but the matter seemed a delicate one to approach.
-His attitude to me also sometimes suggested a [[Doubt|doubt]] as to whether
-he would, even if he could.  But there are voters who might find it worth
-while to discover if there is any law against bribing a canvasser.
-They might bribe him to go away.
-
-The second veto for canvassers which was printed on the little card
-said that you must not persuade any one to personate a voter.
-I have no idea what it means.  To dress up as an average voter
-seems a little vague.  There is no [[Well|well]]-recognised uniform,
-as far as I know, with civic waistcoat and patriotic whiskers.
-The enterprise resolves itself into one somewhat similar
-to the enterprise of a rich friend of mine who went to a
-fancy-dress ball dressed up as a gentleman.  Perhaps it means
-that there is a practice of personating some individual voter.
-The canvasser creeps to the [[house]] of his fellow-conspirator carrying
-a make-up in a bag.  He produces from it a pair of white moustaches
-and a single eyeglass, which are sufficient to give the most
-common-place person a startling resemblance to the Colonel at No. 80.
-Or he hurriedly affixes to his friend that large nose and that bald
-head which are all that is essential to an illusion of the presence
-of Professor Budger.  I do not undertake to unravel these knots.
-I can only say that when I was a canvasser I was told by the
-little card, with every circumstance of seriousness and authority,
-that I was not to persuade anybody to personate a voter:
-and I can lay my hand upon my heart and affirm that I never did.
-
-The third injunction on the card was one which seemed to me,
-if interpreted exactly and according to its words, to undermine
-the very foundations of our politics.  It told me that I
-must not "threaten a voter with any consequence whatever."
-No [[Doubt|doubt]] this was intended to apply to threats of a personal and
-illegitimate character; as, for instance, if a wealthy candidate were
-to threaten to raise all the rents, or to put up a statue of himself.
-But as verbally and grammatically expressed, it certainly would
-cover those general threats of disaster to the whole community
-which are the main matter of political discussion.  When a canvasser
-says that if the opposition candidate gets in the country will
-be ruined, he is threatening the voters with certain consequences.
-When the Free Trader says that if Tariffs are adopted the people in
-Brompton or Bayswater will crawl about eating grass, he is threatening
-them with consequences.  When the Tariff Reformer says that if
-Free Trade exists for another year St. Paul's [[Cathedral]] will be a ruin
-and Ludgate [[Hill]] as deserted as Stonehenge, he is also threatening.
-And what is the good of being a Tariff Reformer if you can't say that?
-What is the use of being a politician or a Parliamentary candidate
-at all if one cannot tell the people that if the other man gets in,
-England will be instantly invaded and enslaved, [[Blood|blood]] be pouring
-down the Strand, and all the English ladies carried off into harems.
-But these things are, after all, consequences, so to speak.
-
-The majority of refined persons in our day may generally
-be heard abusing the practice of canvassing.  In the same way
-the majority of refined persons (commonly the same refined persons)
-may be heard abusing the practice of interviewing celebrities.
-It seems a very singular thing to me that this refined world reserves
-all its indignation for the comparatively open and [[Innocent|innocent]] element
-in both walks of life.  There is really a vast amount of corruption
-and hypocrisy in our election politics; about the most honest thing
-in the whole mess is the canvassing.  A man has not got a right to "[[Nurse|nurse]]"
-a constituency with aggressive charities, to buy it with great presents
-of parks and libraries, to open vague vistas of future benevolence;
-all this, which goes on unrebuked, is bribery and nothing else.
-But a man has got the right to go to another free man and ask
-him with civility whether he will vote for him.  The information
-can be asked, granted, or refused without any loss of dignity
-on either side, which is more than can be said of a park.
-It is the same with the place of interviewing in journalism.
-In a trade where there are labyrinths of insincerity, interviewing is
-about the most simple and the most sincere thing there is.
-The canvasser, when he wants to know a man's opinions, goes and asks him.
-It may be a bore; but it is about as plain and straight a thing
-as he could do.  So the interviewer, when he wants to know
-a man's opinions, goes and asks him.  Again, it may be a bore;
-but again, it is about as plain and straight as anything could be.
-But all the other real and systematic cynicisms of our journalism pass
-without being vituperated and even without being known--the financial
-motives of policy, the misleading posters, the suppression of just
-letters of complaint.  A statement about a man may be infamously untrue,
-but it is read calmly.  But a statement by a man to an interviewer
-is felt as indefensibly vulgar.  That the paper should misrepresent
-him is nothing; that he should represent himself is bad taste.
-The whole error in both cases lies in the fact that the refined persons
-are attacking politics and journalism on the ground of vulgarity.
-Of course, politics and journalism are, as it happens, very vulgar.
-But their vulgarity is not the worst thing about them.
-Things are so bad with both that by this [[Time|time]] their vulgarity is
-the best thing about them.  Their vulgarity is at least a noisy thing;
-and their great danger is that [[Silence|silence]] that always comes before [[Decay|decay]].
-The conversational [[Persuasion|persuasion]] at elections is perfectly human
-and rational; it is the silent persuasions that are utterly damnable.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IL VOTO E LA [[house|CAMERA]]
-
-La maggior parte di noi sarà presto sottoposta al giro dei propagandisti elettorali, suppongo; qualcuno di noi potrebbe persino farlo di persona. Da quale parte, s'intende, nulla mi indurrà a dichiararlo, salvo il dire che, per una notevole coincidenza, sarà in ogni caso l'unica parte alla quale un cittadino di alti principii, animato da spirito civico e da patriottismo, possa dedicare anche solo un momentaneo interesse. Ma la questione generale della propaganda elettorale in sé, essendo una questione al di sopra delle parti, è una a cui ci sia forse consentito accostarci. Le regole per i propagandisti sono abbastanza note a chiunque abbia mai fatto propaganda. Sono stampate sul cartoncino che ci si porta appresso e che si perde. C'è una prescrizione, credo, secondo cui non si deve offrire all'elettore né cibo né bevanda. Per quanto ospitali ci si possa sentire verso di lui nella sua [[house|casa]], non gli si deve portare in giro il pranzo. Non si deve estrarre una cotoletta di vitello dalla tasca della marsina. Non si devono nascondere sulla propria persona uova in camicia. Non si devono, alla maniera di un prestigiatore, tirar fuori patate al forno dal cappello. Insomma, il propagandista non deve nutrire l'elettore in nessun modo. Se poi all'elettore sia consentito nutrire il propagandista, se l'elettore possa dare al propagandista cotolette di vitello e patate al forno, è un punto di diritto sul quale non sono mai riuscito a informarmi. Quando mi sono trovato a fare propaganda presso un gentiluomo, mi sono a volte sentito tentato di chiedergli se vi fosse qualche regola che gli vietasse di darmi da mangiare e da bere; ma la faccenda pareva delicata da affrontare. Anche il suo atteggiamento nei miei confronti suggeriva talora un [[Doubt|dubbio]] circa il fatto che l'avrebbe fatto, ammesso che avesse potuto. Ma vi sono elettori che potrebbero trovar conveniente scoprire se esiste qualche legge contro il corrompere un propagandista. Potrebbero corromperlo perché se ne andasse.
-
-Il secondo divieto per i propagandisti stampato sul cartoncino diceva che non si deve indurre nessuno a impersonare un elettore. Non ho la minima idea di che cosa significhi. Travestirsi da elettore medio pare cosa alquanto vaga. Non esiste alcuna uniforme [[Well|ben]] riconosciuta, per quanto ne so, con panciotto civico e fedine patriottiche. L'impresa si riduce a qualcosa di piuttosto simile all'impresa di un mio ricco amico che si recò a un ballo in maschera travestito da gentiluomo. Forse significa che esiste la pratica di impersonare qualche singolo elettore. Il propagandista si insinua fino alla [[house|casa]] del suo complice recando un trucco dentro una borsa. Ne estrae un paio di baffi bianchi e un monocolo, che bastano a conferire alla persona più insignificante una sorprendente rassomiglianza col Colonnello del N. 80. Oppure applica in fretta al suo amico quel gran naso e quel cranio calvo che sono tutto ciò che occorre per creare l'illusione della presenza del Professor Budger. Non mi assumo l'impegno di sciogliere questi nodi. Posso solo dire che, quando ero propagandista, mi fu comunicato dal cartoncino, con ogni circostanza di serietà e autorità, che non dovevo indurre alcuno a impersonare un elettore: e posso porre la mano sul cuore e affermare che non l'ho mai fatto.
-
-La terza ingiunzione del cartoncino era una che mi parve, se interpretata esattamente e alla lettera, minare le fondamenta stesse della nostra politica. Mi diceva che non dovevo «minacciare un elettore con conseguenza alcuna di sorta». Senza [[Doubt|dubbio]] ciò era inteso ad applicarsi alle minacce di carattere personale e illegittimo; come, per esempio, se un candidato facoltoso minacciasse di far salire tutti gli affitti, o di erigere una statua di sé stesso. Ma così com'è espresso verbalmente e grammaticalmente, esso coprirebbe certamente quelle generali minacce di disastro per l'intera comunità che costituiscono la materia principale della discussione politica. Quando un propagandista dice che, se il candidato dell'opposizione va al potere, il paese sarà rovinato, egli sta minacciando gli elettori con determinate conseguenze. Quando il liberoscambista dice che, se si adottano le tariffe, la gente di Brompton o di Bayswater andrà carponi a brucare l'erba, li sta minacciando con conseguenze. Quando il riformatore delle tariffe dice che, se il libero scambio dura ancora un anno, la [[Cathedral|Cattedrale]] di San Paolo sarà una rovina e Ludgate [[Hill|Hill]] sarà deserta come Stonehenge, anch'egli sta minacciando. E che gusto c'è a essere un riformatore delle tariffe, se non si può dire questo? Che senso ha essere un politico o un candidato al Parlamento, se non si può dire alla gente che, se l'altro va al potere, l'Inghilterra sarà all'istante invasa e ridotta in schiavitù, il [[Blood|sangue]] scorrerà giù per lo Strand, e tutte le dame inglesi verranno portate via negli harem. Ma queste cose, dopo tutto, sono conseguenze, per così dire.
-
-La maggioranza delle persone raffinate dei nostri giorni si può generalmente udire mentre inveisce contro la pratica della propaganda elettorale. Allo stesso modo la maggioranza delle persone raffinate (di solito le medesime persone raffinate) si può udire mentre inveisce contro la pratica di intervistare le celebrità. Mi pare cosa oltremodo singolare che questo mondo raffinato riservi tutta la sua indignazione all'elemento relativamente aperto e [[Innocent|innocente]] di entrambe le sfere della vita. C'è davvero una quantità sterminata di corruzione e di ipocrisia nella nostra politica elettorale; e la cosa più onesta in tutto quel pasticcio è proprio la propaganda. Un uomo non ha il diritto di «[[Nurse|coltivare]]» un collegio elettorale con aggressive opere di beneficenza, di comprarlo con grandi doni di parchi e biblioteche, di aprire vaghe prospettive di future benevolenze; tutto questo, che avviene senza rimprovero alcuno, è corruzione e niente altro. Ma un uomo ha il diritto di andare da un altro uomo libero e chiedergli con cortesia se voterà per lui. L'informazione può essere chiesta, concessa o rifiutata senza perdita di dignità da nessuna delle due parti, il che è più di quanto si possa dire di un parco. Lo stesso vale per il posto che occupa l'intervista nel giornalismo. In un mestiere in cui vi sono labirinti di insincerità, l'intervista è quasi la cosa più semplice e più sincera che ci sia. Il propagandista, quando vuole conoscere le opinioni di un uomo, va e gliele chiede. Sarà magari una seccatura; ma è quanto di più schietto e diretto egli possa fare. Così l'intervistatore, quando vuole conoscere le opinioni di un uomo, va e gliele chiede. Di nuovo, sarà magari una seccatura; ma di nuovo, è quanto di più schietto e diretto vi possa essere. Ma tutti gli altri cinismi reali e sistematici del nostro giornalismo passano senza essere vituperati e persino senza essere conosciuti — i moventi finanziari della linea editoriale, i manifesti ingannevoli, la soppressione di giuste lettere di protesta. Un'affermazione a proposito di un uomo può essere infamemente falsa, eppure la si legge con calma. Ma un'affermazione fatta da un uomo a un intervistatore è avvertita come indifendibilmente volgare. Che il giornale lo travisi non è nulla; che egli rappresenti sé stesso è cattivo gusto. L'intero errore, in entrambi i casi, sta nel fatto che le persone raffinate attaccano la politica e il giornalismo sul terreno della volgarità. Certo, la politica e il giornalismo sono, per l'appunto, molto volgari. Ma la loro volgarità non è la cosa peggiore che li riguardi. Le cose stanno così male con entrambi che ormai a quest'[[Time|ora]] la loro volgarità è la cosa migliore che li riguardi. La loro volgarità è almeno una cosa rumorosa; e il loro grande pericolo è quel [[Silence|silenzio]] che precede sempre il [[Decay|disfacimento]]. La [[Persuasion|persuasione]] conversevole delle elezioni è perfettamente umana e razionale; sono le persuasioni silenziose a essere del tutto dannabili.
-
-
-
-<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_02" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 2)" data-chapter="THE VOTE AND THE house HOUSE" data-kind="excerpt"></span>
-
-
-If it is true that the Commons' [[house|House]] will not hold all the Commons,
-it is a very good example of what we call the anomalies
-of the English Constitution.  It is also, I think, a very good
-example of how highly undesirable those anomalies really are.
-Most Englishmen say that these anomalies do not matter; they are
-not ashamed of being illogical; they are proud of being illogical.
-Lord Macaulay (a very typical Englishman, romantic, prejudiced,
-poetical), Lord Macaulay said that he would not lift his hand
-to get rid of an anomaly that was not also a grievance.
-Many other sturdy romantic Englishmen say the same.  They boast
-of our anomalies; they boast of our illogicality; they say it
-shows what a practical people we are.  They are utterly wrong.
-Lord Macaulay was in this matter, as in a few others, utterly wrong.
-Anomalies do matter very much, and do a great deal of harm;
-abstract illogicalities do matter a great deal, and do a great deal
-of harm.  And this for a reason that any one at all acquainted with
-human [[Nature|nature]] can see for himself.  All injustice begins in the mind.
-And anomalies accustom the mind to the idea of unreason and untruth.
-Suppose I had by some prehistoric law the power of forcing every
-man in Battersea to nod his head three times before he got
-out of bed.  The practical politicians might say that this
-power was a harmless anomaly; that it was not a grievance.
-It could do my subjects no harm; it could do me no good.
-The people of Battersea, they would say, might safely submit to it.
-But the people of Battersea could not safely submit to it, for all that.
-If I had nodded their heads for them for fifty years I could cut off
-their heads for them at the end of it with immeasurably greater ease.
-For there would have permanently sunk into every man's mind
-the notion that it was a natural thing for me to have a fantastic
-and irrational power.  They would have grown accustomed to insanity.
-
-For, in order that men should resist injustice, something more
-is necessary than that they should think injustice unpleasant.
-They must think injustice _absurd_; above all, they must think
-it startling.  They must retain the violence of a virgin astonishment.
-That is the explanation of the singular fact which must have
-struck many people in the relations of [[philosophy]] and [[Reform|reform]].
-It is the fact (I mean) that optimists are more practical
-reformers than pessimists.  Superficially, one would imagine
-that the railer would be the reformer; that the man who thought
-that everything was wrong would be the man to put everything right.
-In historical practice the thing is quite the other way;
-curiously enough, it is the man who likes things as they are who
-really makes them better.  The optimist Dickens has achieved more
-reforms than the pessimist Gissing.  A man like Rousseau has far
-too rosy a theory of human [[Nature|nature]]; but he produces a revolution.
-A man like David Hume thinks that almost all things are depressing;
-but he is a Conservative, and wishes to keep them as they are.
-A man like Godwin believes existence to be kindly; but he is a [[Rebel|rebel]].
-A man like Carlyle believes existence to be cruel; but he is a Tory.
-Everywhere the man who alters things begins by liking things.
-And the real explanation of this [[success]] of the optimistic reformer,
-of this failure of the pessimistic reformer, is, after all, an explanation
-of sufficient simplicity.  It is because the optimist can look at
-wrong not only with indignation, but with a startled indignation.
-When the pessimist looks at any infamy, it is to him, after all,
-only a repetition of the infamy of existence.  The [[Court]] of Chancery
-is indefensible--like mankind.  The [[Inquisition]] is abominable--
-like the universe.  But the optimist sees injustice as something
-discordant and unexpected, and it stings him into action.
-The pessimist can be enraged at wrong; but only the optimist can
-be surprised at it.
-
-And it is the same with the relations of an anomaly to the logical mind.
-The pessimist resents evil (like Lord Macaulay) solely because it is
-a grievance.  The optimist resents it also, because it is an anomaly;
-a contradiction to his conception of the course of things.
-And it is not at all unimportant, but on the contrary most important,
-that this course of things in politics and elsewhere should be lucid,
-explicable and defensible.  When people have got used to unreason they
-can no longer be startled at injustice.  When people have grown familiar
-with an anomaly, they are prepared to that extent for a grievance;
-they may think the grievance grievous, but they can no longer think
-it strange.  Take, if only as an excellent example, the very matter
-alluded to before; I mean the seats, or rather the lack of seats,
-in the [[house|House]] of Commons.  Perhaps it is true that under the best
-conditions it would never happen that every member turned up.
-Perhaps a complete attendance would never actually be.
-But who can tell how much influence in keeping members away may have
-been exerted by this calm assumption that they would stop away?
-How can any man be expected to help to make a full attendance
-when he knows that a full attendance is actually forbidden?
-How can the men who make up the Chamber do their duty reasonably
-when the very men who built the [[house|House]] have not done theirs reasonably?
-If the trumpet give an uncertain sound, who shall prepare himself
-for the battle?  And what if the remarks of the trumpet take this form,
-"I charge you as you [[Love|love]] your [[King]] and country to come to this Council.
-And I know you won't."
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Se è vero che la [[house|Camera]] dei Comuni non riuscirà a contenere tutti i Comuni, essa è un ottimo esempio di ciò che chiamiamo le anomalie della Costituzione inglese. È anche, io credo, un ottimo esempio di quanto quelle anomalie siano in realtà altamente indesiderabili. La maggior parte degli inglesi afferma che queste anomalie non hanno importanza; non si vergognano di essere illogici; sono fieri di essere illogici. Lord Macaulay (un inglese quanto mai tipico, romantico, prevenuto, poetico), Lord Macaulay disse che non avrebbe alzato un dito per sbarazzarsi di un'anomalia che non fosse anche una prevaricazione. Molti altri robusti e romantici inglesi dicono lo stesso. Si vantano delle nostre anomalie; si vantano della nostra illogicità; dicono che ciò dimostra quale popolo pratico noi siamo. Hanno completamente torto. Lord Macaulay, in questa faccenda come in poche altre, aveva completamente torto. Le anomalie contano eccome, e fanno un gran danno; le illogicità astratte contano eccome, e fanno un gran danno. E questo per una ragione che chiunque abbia una qualche dimestichezza con la [[Nature|natura]] umana può constatare da sé. Ogni ingiustizia comincia nella mente. E le anomalie abituano la mente all'idea dell'irragionevolezza e della falsità. Supponiamo che io avessi, per qualche legge preistorica, il potere di costringere ogni uomo di Battersea a chinare il capo tre volte prima di scendere dal letto. I politici pratici potrebbero dire che questo potere era un'anomalia innocua; che non era una prevaricazione. Non poteva far male ai miei sudditi; non poteva far bene a me. Gli abitanti di Battersea, direbbero, potrebbero tranquillamente sottomettervisi. Eppure gli abitanti di Battersea non potrebbero tranquillamente sottomettervisi, nonostante tutto. Se avessi fatto chinare loro il capo per cinquant'anni, alla fine potrei tagliar loro il capo con incommensurabilmente maggiore facilità. Poiché si sarebbe insinuata in modo permanente nella mente di ciascuno la nozione che fosse cosa naturale per me possedere un potere fantastico e irrazionale. Si sarebbero abituati alla follia.
-
-Poiché, affinché gli uomini resistano all'ingiustizia, occorre qualcosa di più che il ritenere l'ingiustizia sgradevole. Essi devono ritenere l'ingiustizia _assurda_; e soprattutto, devono ritenerla sconcertante. Devono conservare la veemenza di un verginale stupore. Ecco la spiegazione del singolare fatto che deve aver colpito molti nei rapporti tra [[philosophy|filosofia]] e [[Reform|riforma]]. È il fatto (intendo dire) che gli ottimisti sono riformatori più concreti dei pessimisti. Superficialmente, si immaginerebbe che a fare il riformatore fosse chi impreca; che l'uomo il quale ritiene che tutto sia storto sia l'uomo destinato a raddrizzare ogni cosa. Nella pratica storica le cose stanno esattamente all'opposto; per quanto curioso, è l'uomo a cui le cose piacciono così come sono che davvero le rende migliori. L'ottimista Dickens ha realizzato più riforme del pessimista Gissing. Un uomo come Rousseau ha una teoria della [[Nature|natura]] umana fin troppo rosea; eppure produce una rivoluzione. Un uomo come David Hume pensa che quasi tutte le cose siano deprimenti; ma è un conservatore, e desidera mantenerle come sono. Un uomo come Godwin crede che l'esistenza sia benevola; ma è un [[Rebel|ribelle]]. Un uomo come Carlyle crede che l'esistenza sia crudele; ma è un tory. Ovunque l'uomo che muta le cose comincia dall'amarle. E la vera spiegazione di questo [[success|successo]] del riformatore ottimista, di questo fallimento del riformatore pessimista, è, in fin dei conti, una spiegazione di sufficiente semplicità. È perché l'ottimista sa guardare l'ingiustizia non soltanto con indignazione, ma con un'indignazione trasecolata. Quando il pessimista guarda una qualsiasi infamia, essa è per lui, dopo tutto, solo una ripetizione dell'infamia dell'esistenza. La [[Court|Corte]] di Cancelleria è indifendibile — come il genere umano. L'[[Inquisition|Inquisizione]] è abominevole — come l'universo. Ma l'ottimista vede l'ingiustizia come qualcosa di discordante e inatteso, ed essa lo pungola all'azione. Il pessimista può montare in collera davanti al torto; ma solo l'ottimista può esserne sorpreso.
-
-E lo stesso avviene nei rapporti tra un'anomalia e la mente logica. Il pessimista si risente del male (come Lord Macaulay) unicamente perché è una prevaricazione. L'ottimista se ne risente anche perché è un'anomalia; una contraddizione alla sua concezione del corso delle cose. E non è affatto privo d'importanza, ma al contrario è della massima importanza, che questo corso delle cose, in politica e altrove, sia lucido, spiegabile e difendibile. Quando la gente si è abituata all'irragionevolezza, non può più trasecolare davanti all'ingiustizia. Quando la gente ha preso familiarità con un'anomalia, è preparata in quella misura a una prevaricazione; potrà ritenere grave la prevaricazione, ma non potrà più ritenerla strana. Si prenda, non fosse che come esempio eccellente, la questione stessa a cui si accennava prima; intendo i seggi, o piuttosto la mancanza di seggi, nella [[house|Camera]] dei Comuni. Forse è vero che, nelle migliori condizioni, non accadrebbe mai che ogni membro si presentasse. Forse una presenza al completo non si verificherebbe mai davvero. Ma chi può dire quanta influenza nel tenere lontani i membri possa essere stata esercitata da questo pacato presupposto che essi si sarebbero astenuti dal venire? Come ci si può aspettare che un uomo contribuisca a formare una presenza al completo, quando sa che una presenza al completo è addirittura vietata? Come possono gli uomini che compongono la Camera adempiere ragionevolmente al proprio dovere, quando gli uomini stessi che costruirono la [[house|Camera]] non hanno adempiuto ragionevolmente al loro? Se la tromba dà un suono incerto, chi mai si preparerà alla battaglia? E che dire se le parole della tromba prendessero questa forma: «Vi scongiuro, per l'[[Love|amore]] che portate al vostro [[King|Re]] e al vostro paese, di venire a questo Consiglio. E so che non verrete».
-
-
-
-<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_01" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 1)" data-chapter="Oxford OXFORD FROM WITHOUT" data-kind="excerpt"></span>
-
-
-[[Oxford|OXFORD]] FROM WITHOUT
-
-Some [[Time|time]] ago I ventured to defend that race of hunted and
-persecuted outlaws, the Bishops; but until this week I had no
-idea of how much persecuted they were.  For instance, the Bishop
-of Birmingham made some extremely sensible remarks in the [[house|House]]
-of Lords, to the effect that [[Oxford]] and Cambridge were (as everybody
-knows they are) far too much merely plutocratic playgrounds.
-One would have thought that an Anglican Bishop might be allowed to know
-something about the English University system, and even to have,
-if anything, some bias in its favour.  But (as I pointed out)
-the rollicking Radicalism of Bishops has to be restrained.
-The man who writes the notes in the weekly paper called
-the _Outlook_ feels that it is his business to restrain it.
-The passage has such simple sublimity that I must quote it--
-
-"Dr. Gore talked unworthily of his reputation when he spoke
-of the older Universities as playgrounds for the rich and idle.
-In the first place, the rich men there are not idle.
-Some of the rich men are, and so are some of the poor men.
-On the whole, the sons of noble and wealthy families keep up the best
-traditions of academic life."
-
-So far this seems all very nice.  It is a part of the universal
-principle on which Englishmen have acted in recent years.
-As you will not try to make the best people the most powerful people,
-persuade yourselves that the most powerful people are the best people.
-Mad Frenchmen and Irishmen try to realise the ideal.  To you
-belongs the nobler (and much easier) task of idealising the real.
-First give your Universities entirely into the power of the rich;
-then let the rich start traditions; and then congratulate yourselves
-on the fact that the sons of the rich keep up these traditions.
-All that is quite simple and jolly.  But then this critic, who crushes
-Dr. Gore from the high throne of the _Outlook_, goes on in a way
-that is really perplexing.  "It is distinctly advantageous," he says,
-"that rich and poor--_i. e._, young men with a smooth path in life
-before them, and those who have to hew out a [[Road|road]] for themselves--
-should be brought into association.  Each class learns a great deal
-from the other.  On the one side, social conceit and exclusiveness
-give way to the free spirit of competition amongst all classes;
-on the other side, angularities and prejudices are rubbed away."
-Even this I might have swallowed.  But the paragraph concludes
-with this extraordinary sentence:  "We get the net result in such
-careers as those of Lord Milner, Lord Curzon, and Mr. Asquith."
-
-Those three names lay my intellect prostrate.  The rest of the argument
-I understand quite [[Well|well]].  The social exclusiveness of aristocrats at
-[[Oxford]] and Cambridge gives way before the free spirit of competition
-amongst all classes.  That is to say, there is at [[Oxford]] so hot
-and keen a struggle, consisting of coal-heavers, [[London]] clerks,
-gypsies, navvies, drapers' assistants, grocers' assistants--in short,
-all the classes that make up the bulk of England--there is such a fierce
-competition at [[Oxford]] among all these people that in its presence
-aristocratic exclusiveness gives way.  That is all quite clear.
-I am not quite sure about the facts, but I quite understand
-the argument.  But then, having been called upon to contemplate
-this bracing picture of a boisterous turmoil of all the classes
-of England, I am suddenly asked to accept as example of it,
-Lord Milner, Lord Curzon, and the present Chancellor of the Exchequer.
-What part do these gentlemen play in the mental process?
-Is Lord Curzon one of the rugged and ragged poor men whose
-angularities have been rubbed away?  Or is he one of those whom
-[[Oxford]] immediately deprived of all kind of social exclusiveness?
-His [[Oxford]] reputation does not seem to bear out either account of him.
-To regard Lord Milner as a typical product of [[Oxford]] would surely
-be unfair.  It would be to deprive the educational tradition of
-[[Germany]] of one of its most typical products.  English aristocrats
-have their faults, but they are not at all like Lord Milner.
-What Mr. Asquith was meant to prove, whether he was a rich man
-who lost his exclusiveness, or a poor man who lost his angles,
-I am utterly unable to conceive.
-
-There is, however, one mild but very evident [[Truth|truth]] that might perhaps
-be mentioned.  And it is this:  that none of those three excellent
-persons is, or ever has been, a poor man in the sense that that word
-is understood by the overwhelming majority of the English nation.
-There are no poor men at [[Oxford]] in the sense that the majority of men
-in the street are poor.  The very fact that the writer in the _Outlook_
-can talk about such people as poor shows that he does not understand
-what the modern problem is.  His kind of poor man rather reminds
-me of the Earl in the ballad by that great English satirist,
-Sir W.S. Gilbert, whose angles (very acute angles) had, I [[Fear|fear]],
-never been rubbed down by an old English University.  The reader
-will remember that when the Periwinkle-girl was adored by two Dukes,
-the poet added--
-
-"A third adorer had the girl,
-A man of lowly station;
-A miserable grovelling Earl
-Besought her approbation."
-
-Perhaps, indeed, some allusion to our University system, and to
-the universal clash in it of all the classes of the community,
-may be found in the verse a little farther on, which says--
-
-"He'd had, it happily befell,
-A decent [[Education|education]];
-His views would have befitted [[Well|well]]
-A far superior station."
-
-Possibly there was as simple a chasm between Lord Curzon and Lord Milner.
-But I am afraid that the chasm will become almost imperceptible,
-a microscopic crack, if we compare it with the chasm that separates
-either or both of them from the people of this country.
-
-Of course the [[Truth|truth]] is exactly as the Bishop of Birmingham put it.
-I am sure that he did not put it in any unkindly or contemptuous
-spirit towards those old English seats of learning, which whether
-they are or are not seats of learning, are, at any rate,
-old and English, and those are two very good things to be.
-The Old English University is a playground for the governing class.
-That does not prove that it is a bad thing; it might prove that it was
-a very good thing.  Certainly if there is a governing class, let there
-be a playground for the governing class.  I would much rather be ruled
-by men who know how to play than by men who do not know how to play.
-Granted that we are to be governed by a rich section of the community,
-it is certainly very important that that section should be kept
-tolerably genial and jolly.  If the sensitive man on the _Outlook_ does
-not like the phrase, "Playground of the rich," I can suggest a phrase
-that describes such a place as [[Oxford]] perhaps with more precision.
-It is a place for humanising those who might otherwise be tyrants,
-or even experts.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-[[Oxford|OXFORD]] VISTA DA FUORI
-
-Qualche [[Time|tempo]] fa mi arrischiai a difendere quella razza di fuorilegge braccati e perseguitati, i Vescovi; ma solo questa settimana ho compreso fino a che punto siano perseguitati. Il Vescovo di Birmingham, per esempio, pronunciò alcune osservazioni quanto mai sensate alla [[house|Camera]] dei Lord, per dire che [[Oxford]] e Cambridge erano (come tutti sanno che sono) fin troppo dei semplici parchi di svago plutocratici. Si sarebbe pensato che a un Vescovo anglicano fosse concesso di sapere qualcosa del sistema universitario inglese, e persino di nutrire, semmai, qualche pregiudizio in suo favore. Ma (come ho fatto notare) il Radicalismo gioviale dei Vescovi va tenuto a freno. L'uomo che scrive le note nel settimanale intitolato l'_Outlook_ sente che è affar suo tenerlo a freno. Il brano ha una sublimità tanto candida che debbo citarlo per intero...
-
-«Il dottor Gore parlò in modo indegno della sua reputazione quando definì le Università più antiche parchi di svago per i ricchi e gli oziosi. In primo luogo, i ricchi che le frequentano non sono oziosi. Alcuni ricchi lo sono, e così pure alcuni poveri. Nel complesso, i figli delle famiglie nobili e facoltose mantengono vive le migliori tradizioni della vita accademica.»
-
-Fin qui tutto sembra assai gradevole. Fa parte di quel principio universale su cui gli Inglesi hanno agito in questi ultimi anni. Poiché non volete adoperarvi a rendere i migliori i più potenti, persuadetevi che i più potenti sono i migliori. I Francesi pazzi e gli Irlandesi si sforzano di realizzare l'ideale. A voi spetta il compito più nobile (e assai più facile) di idealizzare il reale. Prima consegnate le vostre Università interamente in potere dei ricchi; poi lasciate che i ricchi diano vita a tradizioni; e infine congratulatevi del fatto che i figli dei ricchi mantengano vive quelle tradizioni. Tutto ciò è assai semplice e allegro. Ma poi questo critico, che schiaccia il dottor Gore dall'alto trono dell'_Outlook_, prosegue in un modo davvero sconcertante. «È decisamente vantaggioso», dice, «che ricchi e poveri — _vale a dire_, i giovani che hanno davanti a sé un cammino agevole nella vita, e quelli che devono aprirsi una [[Road|strada]] da sé — vengano posti in reciproca frequentazione. Ciascuna classe impara moltissimo dall'altra. Da un lato, la vanità sociale e l'esclusivismo cedono il posto al libero spirito di competizione fra tutte le classi; dall'altro, le spigolosità e i pregiudizi vengono smussati.» Persino questo avrei potuto ingoiarlo. Ma il paragrafo si conclude con questa straordinaria frase: «Ne otteniamo il risultato netto in carriere come quelle di Lord Milner, di Lord Curzon e del signor Asquith.»
-
-Quei tre nomi prostrano il mio intelletto. Il resto dell'argomentazione lo comprendo assai [[Well|bene]]. L'esclusivismo sociale degli aristocratici a [[Oxford]] e a Cambridge cede dinanzi al libero spirito di competizione fra tutte le classi. Vale a dire che a [[Oxford]] vi è una lotta tanto rovente e accanita, composta di scaricatori di carbone, impiegatucci di [[London|Londra]], zingari, sterratori, commessi di merciai, commessi di droghieri — in breve, tutte le classi che formano il grosso dell'Inghilterra — vi è a [[Oxford]] una competizione così feroce fra tutta questa gente che, alla sua presenza, l'esclusivismo aristocratico cede. Tutto ciò è chiarissimo. Non sono del tutto sicuro dei fatti, ma comprendo perfettamente l'argomento. Se non che, dopo essere stato invitato a contemplare questo tonificante quadro di un turbolento tumulto di tutte le classi dell'Inghilterra, mi si chiede all'improvviso di accettarne come esempio Lord Milner, Lord Curzon e l'attuale Cancelliere dello Scacchiere. Quale parte recitano questi signori nel processo mentale? È forse Lord Curzon uno di quei poveri rudi e cenciosi le cui spigolosità sono state smussate? Oppure è uno di coloro che [[Oxford]] privò all'istante di ogni sorta di esclusivismo sociale? La sua reputazione a [[Oxford]] non sembra confermare né l'una né l'altra descrizione. Considerare Lord Milner un prodotto tipico di [[Oxford]] sarebbe di certo ingiusto. Sarebbe privare la tradizione educativa della [[Germany|Germania]] di uno dei suoi prodotti più tipici. Gli aristocratici inglesi hanno i loro difetti, ma non somigliano affatto a Lord Milner. Che cosa il signor Asquith dovesse dimostrare — se fosse un ricco che aveva perduto il suo esclusivismo, o un povero che aveva perduto le sue spigolosità — mi è del tutto impossibile concepire.
-
-Vi è, tuttavia, una mite ma assai evidente [[Truth|verità]] che forse varrebbe la pena di ricordare. Ed è questa: che nessuna di quelle tre eccellenti persone è, o è mai stata, un povero nel senso in cui quella parola è intesa dalla schiacciante maggioranza della nazione inglese. A [[Oxford]] non esistono poveri nel senso in cui è povera la maggioranza degli uomini che si incontrano per strada. Il fatto stesso che lo scrittore dell'_Outlook_ possa parlare di gente simile come di poveri dimostra che egli non comprende quale sia il problema moderno. La sua specie di povero mi ricorda piuttosto il Conte della ballata di quel grande satirico inglese, Sir W.S. Gilbert, le cui spigolosità (spigolosità assai acute) non erano mai state, [[Fear|temo]], smussate da un'antica Università inglese. Il lettore ricorderà che, quando la fanciulla del Pervinca era adorata da due Duchi, il poeta aggiunse...
-
-«Un terzo spasimante ebbe la ragazza,
-uomo di umile condizione;
-un miserabile Conte strisciante
-ne implorava l'approvazione.»
-
-Forse, in verità, qualche allusione al nostro sistema universitario, e all'universale collisione in esso di tutte le classi della comunità, si potrebbe rinvenire nella strofa poco più avanti, che dice...
-
-«Aveva avuto, per felice sorte,
-una [[Education|educazione]] decorosa;
-le sue vedute si sarebbero addette [[Well|bene]]
-a una condizione assai superiore.»
-
-Forse fra Lord Curzon e Lord Milner correva un abisso altrettanto semplice. Ma temo che l'abisso diverrà quasi impercettibile, una crepa microscopica, se lo paragoniamo all'abisso che separa l'uno o entrambi dal popolo di questo paese.
-
-Naturalmente la [[Truth|verità]] è esattamente come l'ha esposta il Vescovo di Birmingham. Sono certo che egli non la espose con alcun spirito scortese o sprezzante verso quelle antiche sedi inglesi del sapere, le quali, che siano o non siano sedi del sapere, sono comunque antiche e inglesi, e queste sono due ottime cose da essere. L'antica Università inglese è un parco di svago per la classe dirigente. Ciò non prova che sia una cosa cattiva; potrebbe provare che è una cosa ottima. Certo, se una classe dirigente ci ha da essere, che vi sia un parco di svago per la classe dirigente. Preferirei di gran lunga essere governato da uomini che sanno giocare che da uomini che non sanno giocare. Ammesso che dobbiamo essere governati da una sezione facoltosa della comunità, è di certo assai importante che quella sezione sia tenuta tollerabilmente cordiale e gioviale. Se l'uomo suscettibile dell'_Outlook_ non gradisce l'espressione «Parco di svago dei ricchi», posso suggerirgli un'espressione che descrive un luogo come [[Oxford]] forse con maggiore precisione. È un luogo dove umanizzare coloro che altrimenti potrebbero essere tiranni, o addirittura esperti.
-
-
-
-<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_02" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 2)" data-chapter="Oxford OXFORD FROM WITHOUT" data-kind="excerpt"></span>
-
-
-To pretend that the [[aristocrat]] meets all classes at [[Oxford]] is too
-ludicrous to be worth discussion.  But it may be true that he meets
-more different kinds of men than he would meet under a strictly
-aristocratic _regime_ of private tutors and small schools.
-It all comes back to the fact that the English, if they were
-resolved to have an aristocracy, were at least resolved to have a
-good-natured aristocracy.  And it is due to them to say that almost [[Alone|alone]]
-among the peoples of the world, they have succeeded in getting one.
-One could almost tolerate the thing, if it were not for the praise of it.
-One might endure [[Oxford]], but not the _Outlook_.
-
-When the poor man at [[Oxford]] loses his angles (which means,
-I suppose, his independence), he may perhaps, even if his [[Poverty|poverty]]
-is of that highly relative type possible at [[Oxford]], gain a certain
-amount of worldly advantage from the surrender of those angles.
-I must confess, however, that I can imagine nothing nastier than
-to lose one's angles.  It seems to me that a [[Desire|desire]] to retain some
-angles about one's person is a [[Desire|desire]] common to all those human
-beings who do not set their ultimate hopes upon looking like
-Humpty-Dumpty. Our angles are simply our shapes.  I cannot imagine
-any phrase more full of the subtle and exquisite vileness which is
-poisoning and weakening our country than such a phrase as this,
-about the desirability of rubbing down the angularities of poor men.
-Reduced to permanent and practical human speech, it means nothing
-whatever except the corrupting of that first human sense of justice
-which is the critic of all human institutions.
-
-It is not in any such spirit of facile and reckless reassurance
-that we should approach the really difficult problem of the delicate
-virtues and the deep dangers of our two historic seats of learning.
-A good son does not easily admit that his sick mother is dying;
-but neither does a good son cheerily assert that she is "all right."
-There are many good arguments for leaving the two historic Universities
-exactly as they are.  There are many good arguments for smashing
-them or altering them entirely.  But in either case the plain [[Truth|truth]]
-told by the Bishop of Birmingham remains.  If these Universities
-were destroyed, they would not be destroyed as Universities.
-If they are preserved, they will not be preserved as Universities.
-They will be preserved strictly and literally as playgrounds;
-places valued for their hours of leisure more than for their
-hours of work.  I do not say that this is unreasonable;
-as a matter of private temperament I find it attractive.
-It is not only possible to say a great deal in praise of play;
-it is really possible to say the highest things in praise of it.
-It might reasonably be maintained that the true object of all human
-life is play.  Earth is a task [[Garden|garden]]; heaven is a playground.  To be
-at last in such secure [[innocence]] that one can juggle with the universe
-and the [[Stars|stars]], to be so good that one can treat everything as a joke--
-that may be, perhaps, the real end and final holiday of human souls.
-When we are really holy we may regard the Universe as a lark; so perhaps
-it is not essentially wrong to regard the University as a lark.
-But the plain and present fact is that our upper classes do regard
-the University as a lark, and do not regard it as a University.
-It also happens very often that through some oversight they neglect
-to provide themselves with that extreme degree of holiness which I
-have postulated as a necessary preliminary to such indulgence
-in the higher frivolity.
-
-Humanity, always dreaming of a happy race, free, fantastic, and at ease,
-has sometimes pictured them in some mystical island, sometimes in some
-celestial [[City|city]], sometimes as fairies, gods, or citizens of Atlantis.
-But one method in which it has often indulged is to picture them
-as aristocrats, as a special human class that could actually be
-seen hunting in the woods or driving about the streets.  And this
-never was (as some silly Germans say) a worship of [[Pride|pride]] and scorn;
-mankind never really admired [[Pride|pride]]; mankind never had any thing but
-a scorn for scorn.  It was a worship of the spectacle of happiness;
-especially of the spectacle of youth.  This is what the old
-Universities in their noblest aspect really are; and this is why
-there is always something to be said for keeping them as they are.
-Aristocracy is not a tyranny; it is not even merely a spell.
-It is a vision.  It is a deliberate indulgence in a certain
-picture of pleasure painted for the purpose; every Duchess is
-(in an [[Innocent|innocent]] sense) painted, like Gainsborough's "Duchess
-of Devonshire."  She is only beautiful because, at the back of all,
-the English people wanted her to be beautiful.  In the same way,
-the lads at [[Oxford]] and Cambridge are only larking because England,
-in the depths of its solemn [[Soul|soul]], really wishes them to lark.
-All this is very human and pardonable, and would be even harmless
-if there were no such things in the world as danger and [[Honour|honour]]
-and intellectual responsibility.  But if aristocracy is a vision,
-it is perhaps the most unpractical of all visions.  It is not a working
-way of doing things to put all your happiest people on a lighted
-platform and stare only at them.  It is not a working way of managing
-[[Education|education]] to be entirely content with the mere fact that you have
-(to a degree unexampled in the world) given the luckiest boys
-the jolliest [[Time|time]].  It would be easy enough, like the writer
-in the _Outlook_, to enjoy the pleasures and deny the perils.
-Oh what a happy place England would be to live in if only one did
-not [[Love|love]] it!
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-Pretendere che l'[[aristocrat|aristocratico]] incontri a [[Oxford]] tutte le classi è troppo ridicolo perché valga la pena discuterne. Ma può darsi che sia vero che egli incontri più tipi diversi di uomini di quanti ne incontrerebbe sotto un rigido _régime_ aristocratico di precettori privati e piccole scuole. Tutto si riconduce al fatto che gli Inglesi, se erano decisi ad avere un'aristocrazia, erano almeno decisi ad avere un'aristocrazia bonaria. E bisogna rendere loro giustizia dicendo che quasi [[Alone|soli]] fra i popoli del mondo, essi ci sono riusciti. Si potrebbe quasi tollerare la cosa, se non fosse per l'elogio che se ne fa. Si potrebbe sopportare [[Oxford]], ma non l'_Outlook_.
-
-Quando il povero a [[Oxford]] perde le proprie spigolosità (il che significa, suppongo, la propria indipendenza), egli forse, anche se la sua [[Poverty|povertà]] è di quel tipo altamente relativo possibile a [[Oxford]], ricava un certo vantaggio mondano dalla resa di quelle spigolosità. Devo confessare, tuttavia, che non riesco a immaginare nulla di più ripugnante del perdere le proprie spigolosità. Mi pare che il [[Desire|desiderio]] di conservare qualche spigolo intorno alla propria persona sia un [[Desire|desiderio]] comune a tutti quegli esseri umani che non ripongono le loro speranze ultime nell'assomigliare a Humpty-Dumpty. I nostri spigoli sono semplicemente le nostre forme. Non riesco a immaginare frase più colma di quella sottile e squisita vigliaccheria che sta avvelenando e indebolendo il nostro paese di una frase come questa, sull'opportunità di smussare le spigolosità dei poveri. Ridotta a un linguaggio umano permanente e pratico, essa non significa assolutamente nulla, se non la corruzione di quel primo senso umano di giustizia che è il critico di tutte le istituzioni umane.
-
-Non è certo con uno spirito di rassicurazione facile e sconsiderata che dovremmo accostarci al problema davvero difficile delle delicate virtù e dei profondi pericoli delle nostre due storiche sedi del sapere. Un buon figlio non ammette facilmente che la sua madre malata stia morendo; ma neppure un buon figlio afferma allegramente che ella «sta benissimo». Vi sono molti buoni argomenti per lasciare le due storiche Università esattamente come sono. Vi sono molti buoni argomenti per demolirle o per trasformarle interamente. Ma in entrambi i casi la semplice [[Truth|verità]] detta dal Vescovo di Birmingham resta. Se queste Università venissero distrutte, non verrebbero distrutte in quanto Università. Se vengono conservate, non verranno conservate in quanto Università. Verranno conservate rigorosamente e letteralmente come parchi di svago; luoghi apprezzati per le loro ore di ozio più che per le loro ore di lavoro. Non dico che ciò sia irragionevole; per temperamento privato lo trovo attraente. Non solo è possibile dire moltissimo in lode del gioco; è davvero possibile dire in sua lode le cose più alte. Si potrebbe ragionevolmente sostenere che il vero fine di ogni vita umana è il gioco. La Terra è un [[Garden|giardino]] di fatiche; il cielo è un parco di svago. Trovarsi finalmente in una tale sicura [[innocence|innocenza]] da poter giocolare con l'universo e con le [[Stars|stelle]], essere così buoni da poter trattare ogni cosa come uno scherzo — questo forse è il vero fine e la vacanza definitiva delle anime umane. Quando siamo davvero santi possiamo considerare l'Universo come uno spasso; sicché forse non è essenzialmente sbagliato considerare l'Università come uno spasso. Ma il fatto semplice e presente è che le nostre classi superiori considerano davvero l'Università come uno spasso, e non la considerano affatto come un'Università. Accade inoltre assai spesso che, per qualche disattenzione, esse trascurino di provvedersi di quell'estremo grado di santità che ho postulato come premessa necessaria a un simile indulgere nella frivolità superiore.
-
-L'umanità, sognando da sempre una razza felice, libera, fantasiosa e serena, l'ha talvolta raffigurata in qualche mistica isola, talvolta in qualche [[City|città]] celeste, talvolta come fate, dèi o cittadini di Atlantide. Ma un modo in cui essa ha spesso indulto è quello di raffigurarla come aristocratici, come una speciale classe umana che si potesse effettivamente vedere andare a caccia nei boschi o passare in carrozza per le strade. E questo non fu mai (come dicono certi sciocchi Tedeschi) un culto dell'[[Pride|orgoglio]] e del disprezzo; l'umanità non ammirò mai davvero l'[[Pride|orgoglio]]; l'umanità non ebbe mai altro che disprezzo per il disprezzo. Fu un culto dello spettacolo della felicità; specialmente dello spettacolo della giovinezza. Questo è ciò che le antiche Università, nel loro aspetto più nobile, davvero sono; e questo è il motivo per cui vi è sempre qualcosa da dire in favore del conservarle come sono. L'aristocrazia non è una tirannia; non è neppure semplicemente un incantesimo. È una visione. È un deliberato indulgere in un certo quadro di piacere dipinto allo scopo; ogni Duchessa è (in senso [[Innocent|innocente]]) dipinta, come la «Duchessa di Devonshire» di Gainsborough. Ella è bella soltanto perché, in fondo a tutto, il popolo inglese volle che fosse bella. Allo stesso modo, i ragazzi di [[Oxford]] e di Cambridge fanno baldoria soltanto perché l'Inghilterra, nel profondo della sua solenne [[Soul|anima]], desidera davvero che facciano baldoria. Tutto ciò è assai umano e perdonabile, e sarebbe persino innocuo se non esistessero al mondo cose come il pericolo e l'[[Honour|onore]] e la responsabilità intellettuale. Ma se l'aristocrazia è una visione, essa è forse la più impraticabile di tutte le visioni. Non è un modo funzionale di fare le cose collocare tutta la vostra gente più felice su una piattaforma illuminata e fissare soltanto quella. Non è un modo funzionale di gestire l'[[Education|educazione]] accontentarsi del semplice fatto che avete (a un grado senza esempi nel mondo) concesso ai ragazzi più fortunati il [[Time|tempo]] più allegro. Sarebbe assai facile, come lo scrittore dell'_Outlook_, godere dei piaceri e negare i pericoli. Oh, che luogo felice sarebbe l'Inghilterra in cui vivere, se solo non la si [[Love|amasse]]!
-
-
-
-<span class="atom-split" data-atom="story_17_the_boy--part_01" data-title="AllThingsConsidered-8 — THE BOY (part 1)" data-chapter="THE BOY" data-kind="excerpt"></span>
-
-
-THE BOY
-
-I have no sympathy with international aggression when it is
-taken seriously, but I have a certain dark and wild sympathy with it
-when it is quite absurd.  Raids are all wrong as practical politics,
-but they are human and imaginable as practical jokes.
-In fact, almost any act of ragging or violence can be forgiven
-on this strict condition--that it is of no use at all to anybody.
-If the aggressor gets anything out of it, then it is quite unpardonable.
-It is damned by the least hint of utility or profit.  A man of spirit
-and breeding may brawl, but he does not steal.  A gentleman knocks
-off his friend's hat; but he does not annex his friend's hat.
-For this reason (as Mr. Belloc has pointed out somewhere), the very
-militant French people have always returned after their immense raids--
-the raids of Godfrey the Crusader, the raids of Napoleon;
-"they are sucked back, having accomplished nothing but an [[Epic|epic]]."
-
-Sometimes I see small fragments of information in the newspapers
-which make my heart leap with an irrational patriotic sympathy.
-I have had the misfortune to be left comparatively cold by many
-of the enterprises and proclamations of my country in recent times.
-But the other day I found in the _Tribune_ the following paragraph,
-which I may be permitted to set down as an example of the kind
-of international outrage with which I have by far the most
-instinctive sympathy.  There is something attractive, too, in the
-austere simplicity with which the affair is set forth--
-
-"Geneva, Oct. 31.
-
-"The English schoolboy Allen, who was arrested at Lausanne railway
-station on Saturday, for having painted red the statue of General Jomini
-of Payerne, was liberated yesterday, after paying a fine of £24.
-Allen has proceeded to [[Germany]], where he will continue his studies.
-The people of Payerne are indignant, and clamoured for his
-detention in [[Prison|prison]]."
-
-Now I have no [[Doubt|doubt]] that ethics and social necessity require
-a contrary attitude, but I will freely confess that my first
-emotions on reading of this exploit were those of profound
-and elemental pleasure.  There is something so large and simple
-about the operation of painting a whole stone General a bright red.
-Of course I can understand that the people of Payerne were indignant.
-They had passed to their homes at twilight through the streets
-of that beautiful [[City|city]] (or is it a province?), and they had seen
-against the silver ending of the sunset the grand grey figure of
-the [[Hero|hero]] of that land remaining to guard the town under the [[Stars|stars]].
-It certainly must have been a shock to come out in the broad white morning
-and find a large vermilion General staring under the staring sun.
-I do not blame them at all for clamouring for the schoolboy's
-detention in [[Prison|prison]]; I dare say a little detention in [[Prison|prison]] would
-do him no harm.  Still, I think the immense act has something about
-it human and excusable; and when I endeavour to analyse the reason
-of this feeling I find it to lie, not in the fact that the thing
-was big or bold or successful, but in the fact that the thing was
-perfectly useless to everybody, including the person who did it.
-The raid ends in itself; and so Master Allen is sucked back again,
-having accomplished nothing but an [[Epic|epic]].
-
-There is one thing which, in the presence of average modern journalism,
-is perhaps worth saying in connection with such an idle matter as this.
-The morals of a matter like this are exactly like the morals
-of anything else; they are concerned with mutual contract, or with
-the rights of independent human lives.  But the whole modern world,
-or at any rate the whole modern Press, has a perpetual and consuming
-terror of plain morals.  Men always attempt to avoid condemning
-a thing upon merely moral grounds.  If I beat my grandmother to [[Death|death]]
-to-morrow in the middle of Battersea Park, you may be perfectly
-certain that people will say everything about it except the simple
-and fairly obvious fact that it is wrong.  Some will call it insane;
-that is, will accuse it of a deficiency of intelligence.
-This is not necessarily true at all.  You could not tell whether
-the act was unintelligent or not unless you knew my grandmother.
-Some will call it vulgar, disgusting, and the rest of it; that is,
-they will accuse it of a lack of manners.  Perhaps it does show a lack
-of manners; but this is scarcely its most serious disadvantage.
-Others will talk about the loathsome spectacle and the revolting scene;
-that is, they will accuse it of a deficiency of art,
-or æsthetic [[Beauty|beauty]].  This again depends on the circumstances:
-in order to be quite certain that the appearance of the old
-lady has definitely deteriorated under the process of being
-beaten to [[Death|death]], it is necessary for the philosophical critic
-to be quite certain how ugly she was before.  Another school
-of thinkers will say that the action is lacking in efficiency:
-that it is an uneconomic waste of a good grandmother.  But that could
-only depend on the value, which is again an individual matter.
-The only real point that is worth mentioning is that the action is wicked,
-because your grandmother has a right not to be beaten to [[Death|death]].
-But of this simple moral explanation modern journalism has,
-as I say, a standing [[Fear|fear]].  It will call the action anything else--
-mad, bestial, vulgar, idiotic, rather than call it sinful.
-
-One example can be found in such cases as that of the prank of
-the boy and the statue.  When some trick of this sort is played,
-the newspapers opposed to it always describe it as "a senseless joke."
-What is the good of saying that?  Every joke is a senseless joke.
-A joke is by its [[Nature|nature]] a protest against sense.  It is no
-good attacking nonsense for being successfully nonsensical.
-Of course it is nonsensical to paint a celebrated Italian General
-a bright red; it is as nonsensical as "Alice in Wonderland."
-It is also, in my opinion, very nearly as funny.  But the real
-answer to the affair is not to say that it is nonsensical
-or even to say that it is not funny, but to point out that it
-is wrong to spoil statues which belong to other people.
-If the modern world will not insist on having some sharp and definite
-moral law, capable of resisting the counter-attractions of art
-and [[Humour|humour]], the modern world will simply be given over as a spoil
-to anybody who can manage to do a nasty thing in a nice way.
-Every murderer who can murder entertainingly will be allowed to murder.
-Every burglar who burgles in really humorous attitudes will burgle
-as much as he likes.
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-IL RAGAZZO
-
-Non provo alcuna simpatia per l'aggressione internazionale quando è presa sul serio, ma provo una certa oscura e selvaggia simpatia per essa quando è del tutto assurda. Le scorrerie sono senz'altro sbagliate come politica pratica, ma sono umane e concepibili come scherzi pratici. Anzi, quasi ogni atto di baldoria o di violenza può essere perdonato a questa rigorosa condizione: che non serva assolutamente a nessuno. Se l'aggressore ne ricava qualcosa, allora la cosa diventa del tutto imperdonabile. È dannata dal minimo sentore di utilità o di profitto. Un uomo di spirito e di buona educazione può fare a botte, ma non ruba. Un gentiluomo fa saltare il cappello dalla testa dell'amico, ma non se lo annette. Per questa ragione (come Mr. Belloc ha osservato in qualche luogo) il popolo francese, così battagliero, è sempre tornato indietro dopo le sue immense scorrerie: le scorrerie di Goffredo il Crociato, le scorrerie di Napoleone; «vengono risucchiati indietro, non avendo compiuto nulla se non un [[Epic|poema epico]]».
-
-A volte scorgo sui giornali piccoli frammenti d'informazione che mi fanno balzare il cuore per un'irrazionale simpatia patriottica. Ho avuto la sventura di essere lasciato relativamente freddo da molte delle imprese e dei proclami del mio paese in tempi recenti. Ma l'altro giorno ho trovato nel _Tribune_ il seguente trafiletto, che mi sia concesso riportare come esempio di quel genere di oltraggio internazionale verso cui nutro di gran lunga la più istintiva simpatia. C'è qualcosa di attraente, per giunta, nell'austera semplicità con cui la faccenda viene esposta:
-
-«Ginevra, 31 ottobre.
-
-«Lo scolaro inglese Allen, che è stato arrestato alla stazione ferroviaria di Losanna sabato scorso, per aver dipinto di rosso la statua del generale Jomini di Payerne, è stato rimesso in libertà ieri, dopo aver pagato un'ammenda di 24 sterline. Allen si è recato in [[Germany|Germania]], dove proseguirà i suoi studi. La popolazione di Payerne è indignata, e ha reclamato a gran voce la sua reclusione in [[Prison|carcere]]».
-
-Ora, non ho alcun [[Doubt|dubbio]] che l'etica e la necessità sociale esigano un atteggiamento contrario, ma confesserò senza reticenze che le mie prime emozioni nel leggere di questa impresa furono quelle di un piacere profondo ed elementare. C'è qualcosa di così ampio e semplice nell'operazione di dipingere un intero generale di pietra di un bel rosso vivo. Naturalmente posso capire che la popolazione di Payerne fosse indignata. Erano rincasati al crepuscolo attraverso le vie di quella bella [[City|città]] (o è una provincia?), e avevano visto stagliarsi contro l'orlo argenteo del tramonto la grande figura grigia dell'[[Hero|eroe]] di quella terra, rimasto a vegliare sulla cittadina sotto le [[Stars|stelle]]. Dev'essere stato certo un colpo uscire nel pieno chiarore del mattino e trovare un enorme generale vermiglio che fissava l'aria sotto il sole abbagliante. Non li biasimo affatto per aver reclamato a gran voce la reclusione dello scolaro in [[Prison|carcere]]; oserei dire che un po' di reclusione in [[Prison|carcere]] non gli farebbe alcun male. Eppure penso che quell'atto smisurato abbia in sé qualcosa di umano e di scusabile; e quando mi sforzo di analizzare la ragione di questo sentimento, la trovo non nel fatto che la cosa fosse grande, o audace, o riuscita, ma nel fatto che la cosa fosse perfettamente inutile a chiunque, compreso colui che l'aveva compiuta. La scorreria si esaurisce in se stessa; e così il giovane Allen viene risucchiato indietro, non avendo compiuto nulla se non un [[Epic|poema epico]].
-
-C'è una cosa che, al cospetto del giornalismo medio dei nostri giorni, vale forse la pena di dire a proposito di una faccenda tanto oziosa quanto questa. La morale di una faccenda come questa è esattamente come la morale di qualunque altra cosa; ha a che fare con il patto reciproco, o con i diritti di vite umane indipendenti. Ma tutto il mondo moderno, o quantomeno tutta la Stampa moderna, ha un perpetuo e divorante terrore della semplice morale. Gli uomini tentano sempre di evitare di condannare una cosa su basi meramente morali. Se domani pestassi a [[Death|morte]] mia nonna in mezzo a Battersea Park, potete essere assolutamente certi che la gente direbbe di tutto sull'accaduto, tranne il fatto semplice e piuttosto ovvio che è sbagliato. Alcuni lo definiranno pazzesco; ossia lo accuseranno di una carenza d'intelligenza. Il che non è affatto necessariamente vero. Non si potrebbe stabilire se l'atto sia stato o meno privo d'intelligenza senza conoscere mia nonna. Altri lo definiranno volgare, disgustoso, e via dicendo; ossia lo accuseranno di una mancanza di buone maniere. Forse rivela davvero una mancanza di buone maniere; ma questo è ben lungi dall'esserne l'inconveniente più grave. Altri ancora parleranno del ripugnante spettacolo e della scena rivoltante; ossia lo accuseranno di una carenza d'arte, o di [[Beauty|bellezza]] estetica. Anche questo, però, dipende dalle circostanze: per essere del tutto certi che l'aspetto dell'anziana signora sia decisamente peggiorato nel corso del processo di essere pestata a [[Death|morte]], occorre che il critico filosofico sia del tutto certo di quanto ella fosse brutta prima. Un'altra scuola di pensatori dirà che l'azione manca di efficienza: che è un antieconomico spreco di una buona nonna. Ma questo potrebbe dipendere soltanto dal valore, che è di nuovo una questione individuale. L'unico punto reale che valga la pena di menzionare è che l'azione è malvagia, perché vostra nonna ha il diritto di non essere pestata a [[Death|morte]]. Ma di questa semplice spiegazione morale il giornalismo moderno ha, come dico, una perenne [[Fear|paura]]. Definirà l'azione in qualunque altro modo — folle, bestiale, volgare, idiota — piuttosto che definirla peccaminosa.
-
-Un esempio si può trovare in casi come quello della bravata del ragazzo e della statua. Quando viene giocato un tiro di questo genere, i giornali che gli si oppongono lo descrivono sempre come «uno scherzo insensato». A che serve dire questo? Ogni scherzo è uno scherzo insensato. Uno scherzo è per sua [[Nature|natura]] una protesta contro il senso. Non serve a nulla attaccare l'insensatezza per il fatto di essere riuscita nella sua insensatezza. Naturalmente è insensato dipingere un celebre generale italiano di un bel rosso vivo; è insensato quanto «Alice nel Paese delle Meraviglie». Ed è anche, a mio parere, quasi altrettanto spassoso. Ma la vera risposta alla faccenda non è dire che è insensata, e neppure dire che non è spassosa, bensì far notare che è sbagliato deturpare statue che appartengono ad altre persone. Se il mondo moderno non insisterà nell'avere una legge morale netta e definita, capace di resistere alle contro-attrazioni dell'arte e dell'[[Humour|umorismo]], il mondo moderno sarà semplicemente abbandonato in preda a chiunque riesca a compiere una cosa sgradevole in modo garbato. A ogni assassino capace di assassinare in modo divertente sarà consentito di assassinare. Ogni ladro che scassini in atteggiamenti davvero spiritosi scassinerà quanto gli pare.
-
-
-
-<span class="atom-split" data-atom="story_17_the_boy--part_02" data-title="AllThingsConsidered-8 — THE BOY (part 2)" data-chapter="THE BOY" data-kind="excerpt"></span>
-
-
-There is another case of the thing that I mean.  Why on earth do
-the newspapers, in describing a dynamite outrage or any other political
-assassination, call it a "dastardly outrage" or a cowardly outrage?
-It is perfectly evident that it is not dastardly in the least.
-It is perfectly evident that it is about as cowardly as the
-Christians going to the lions.  The man who does it exposes himself
-to the chance of being torn in pieces by two thousand people.
-What the thing is, is not cowardly, but profoundly and detestably wicked.
-The man who does it is very infamous and very brave.
-But, again, the explanation is that our modern Press would rather
-appeal to physical arrogance, or to anything, rather than appeal
-to right and wrong.
-
-In most of the matters of modern England, the real difficulty is
-that there is a negative revolution without a positive revolution.
-Positive aristocracy is breaking up without any particular appearance
-of positive [[democracy]] taking its place.  The polished class is becoming
-less polished without becoming less of a class; the nobleman who becomes
-a guinea-pig keeps all his privileges but loses some of his tradition;
-he becomes less of a gentleman without becoming less of a nobleman.
-In the same way (until some recent and happy revivals)
-it seemed highly probable that the Church of England would cease
-to be a religion long before it had ceased to be a Church.
-And in the same way, the vulgarisation of the old, simple middle class
-does not even have the advantage of doing away with class distinctions;
-the vulgar man is always the most distinguished, for the very [[Desire|desire]]
-to be distinguished is vulgar.
-
-At the same [[Time|time]], it must be remembered that when a class has
-a [[morality]] it does not follow that it is an adequate [[morality]].
-The middle-class ethic was inadequate for some purposes;
-so is the public-school ethic, the ethic of the upper classes.
-On this last matter of the public schools Dr. Spenser, the Head Master
-of University College School, has lately made some valuable observations.
-But even he, I think, overstates the claim of the public schools.
-"The strong point of the English public schools," he says,
-"has always lain in their efficiency as agencies for the formation
-of character and for the inculcation of the great notion of obligation
-which distinguishes a gentleman.  On the physical and moral sides
-the public-school men of England are, I believe, unequalled."
-And he goes on to say that it is on the mental side that they
-are defective.  But, as a matter of fact, the public-school training
-is in the strict sense defective upon the moral side also; it [[Leaves|leaves]]
-out about half of [[morality]].  Its just claim is that, like the old
-middle class (and the Zulus), it trains some virtues and therefore
-suits some people for some situations.  Put an old English merchant
-to serve in an army and he would have been irritated and clumsy.
-Put the men from English public schools to rule Ireland, and they
-make the greatest hash in human [[history]].
-
-Touching the [[morality]] of the public schools, I will take one
-point only, which is enough to prove the case.  People have got
-into their heads an extraordinary idea that English public-school
-boys and English youth generally are taught to tell the [[Truth|truth]].
-They are taught absolutely nothing of the kind.  At no English
-public school is it even suggested, except by accident, that it
-is a man's duty to tell the [[Truth|truth]].  What is suggested is something
-entirely different:  that it is a man's duty not to tell lies.
-So completely does this mistake soak through all civilisation that we
-hardly ever think even of the difference between the two things.
-When we say to a [[Child|child]], "You must tell the [[Truth|truth]]," we do merely
-mean that he must refrain from verbal inaccuracies.  But the thing
-we never teach at all is the general duty of telling the [[Truth|truth]],
-of giving a complete and fair picture of anything we are talking about,
-of not misrepresenting, not evading, not suppressing, not using
-plausible arguments that we know to be unfair, not selecting
-unscrupulously to prove an _ex parte_ case, not telling all the nice
-stories about the Scotch, and all the nasty stories about the Irish,
-not pretending to be disinterested when you are really angry,
-not pretending to be angry when you are really only avaricious.
-The one thing that is never taught by any chance in the atmosphere
-of public schools is exactly that--that there is a whole [[Truth|truth]]
-of things, and that in knowing it and speaking it we are happy.
-
-If any one has the smallest [[Doubt|doubt]] of this neglect of [[Truth|truth]]
-in public schools he can kill his [[Doubt|doubt]] with one plain question.
-Can any one on earth believe that if the seeing and telling of the whole
-[[Truth|truth]] were really one of the ideals of the English governing class,
-there could conceivably exist such a thing as the English party system?
-Why, the English party system is founded upon the principle
-that telling the whole [[Truth|truth]] does not matter.  It is founded upon
-the principle that half a [[Truth|truth]] is better than no politics.
-Our system deliberately turns a crowd of men who might be impartial
-into irrational partisans.  It teaches some of them to tell lies
-and all of them to believe lies.  It gives every man an arbitrary brief
-that he has to work up as best he may and defend as best he can.
-It turns a room full of citizens into a room full of barristers.
-I know that it has many charms and virtues, fighting and good-fellowship;
-it has all the charms and virtues of a game.  I only say that it
-would be a stark impossibility in a nation which believed in
-telling the [[Truth|truth]].
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-C'è un altro caso della cosa che intendo. Perché mai i giornali, nel descrivere un attentato dinamitardo o qualsiasi altro assassinio politico, lo chiamano «vile oltraggio» o oltraggio codardo? È perfettamente evidente che non è affatto vile. È perfettamente evidente che è più o meno codardo quanto i cristiani che andavano incontro ai leoni. L'uomo che lo compie si espone all'eventualità di essere fatto a pezzi da duemila persone. La cosa non è codarda, bensì profondamente e detestabilmente malvagia. L'uomo che la compie è infamissimo e coraggiosissimo. Ma, di nuovo, la spiegazione è che la nostra Stampa moderna preferirebbe fare appello all'arroganza fisica, o a qualsiasi altra cosa, piuttosto che fare appello al giusto e all'ingiusto.
-
-Nella maggior parte delle faccende dell'Inghilterra moderna, la vera difficoltà è che c'è una rivoluzione negativa senza una rivoluzione positiva. L'aristocrazia positiva si sta disgregando senza che appaia in particolare una [[democracy|democrazia]] positiva a prenderne il posto. La classe raffinata sta diventando meno raffinata senza diventare meno una classe; il nobiluomo che diventa un cavia da laboratorio conserva tutti i suoi privilegi ma perde qualcosa della sua tradizione; diventa meno un gentiluomo senza diventare meno un nobiluomo. Allo stesso modo (fino a certe recenti e felici rinascite) sembrava altamente probabile che la Chiesa d'Inghilterra avrebbe cessato di essere una religione molto prima di aver cessato di essere una Chiesa. E allo stesso modo, la volgarizzazione della vecchia, semplice classe media non ha nemmeno il vantaggio di abolire le distinzioni di classe; l'uomo volgare è sempre il più distinto, giacché il [[Desire|desiderio]] stesso di distinguersi è volgare.
-
-Al [[Time|tempo]] stesso, bisogna ricordare che quando una classe ha una [[morality|morale]] non ne consegue che sia una [[morality|morale]] adeguata. L'etica della classe media era inadeguata a certi scopi; e altrettanto lo è l'etica delle scuole pubbliche, l'etica delle classi superiori. Su quest'ultima questione delle scuole pubbliche il dottor Spenser, preside della University College School, ha di recente formulato alcune preziose osservazioni. Ma anche lui, credo, sopravvaluta le pretese delle scuole pubbliche. «Il punto di forza delle scuole pubbliche inglesi», dice, «è sempre stato la loro efficienza come agenzie per la formazione del carattere e per l'inculcazione di quella grande nozione di obbligo che distingue un gentiluomo. Sul versante fisico e morale gli uomini formatisi nelle scuole pubbliche d'Inghilterra sono, io credo, senza pari». E prosegue affermando che è sul versante intellettuale che essi risultano difettosi. Ma, in realtà, l'educazione delle scuole pubbliche è in senso stretto difettosa anche sul versante morale; [[Leaves|tralascia]] all'incirca metà della [[morality|morale]]. La sua legittima pretesa è che, come la vecchia classe media (e gli Zulù), essa educa alcune virtù e perciò rende alcune persone adatte ad alcune situazioni. Mettete un vecchio mercante inglese a servire in un esercito e sarebbe stato irritabile e goffo. Mettete gli uomini usciti dalle scuole pubbliche inglesi a governare l'Irlanda, e combinano il più grande pasticcio della [[history|storia]] umana.
-
-Toccando la [[morality|morale]] delle scuole pubbliche, prenderò un solo punto, che basta a dimostrare la tesi. La gente si è ficcata in testa la straordinaria idea che ai ragazzi delle scuole pubbliche inglesi e alla gioventù inglese in generale venga insegnato a dire la [[Truth|verità]]. Non gli viene insegnato assolutamente nulla del genere. In nessuna scuola pubblica inglese si suggerisce nemmeno, se non per caso, che sia dovere di un uomo dire la [[Truth|verità]]. Ciò che si suggerisce è qualcosa di interamente diverso: che sia dovere di un uomo non dire menzogne. Tanto completamente questo equivoco impregna l'intera civiltà, che quasi mai pensiamo perfino alla differenza tra le due cose. Quando diciamo a un [[Child|bambino]]: «Devi dire la [[Truth|verità]]», intendiamo semplicemente che deve astenersi dalle inesattezze verbali. Ma la cosa che non insegniamo mai è il dovere generale di dire la [[Truth|verità]], di offrire un quadro completo e onesto di qualunque cosa stiamo trattando, di non travisare, non eludere, non sopprimere, non ricorrere ad argomenti plausibili che sappiamo essere sleali, non selezionare senza scrupoli per provare una causa di parte, non raccontare tutte le storie graziose sugli scozzesi e tutte le storie odiose sugli irlandesi, non fingersi disinteressati quando in realtà si è adirati, non fingersi adirati quando in realtà si è soltanto avidi. L'unica cosa che non viene mai insegnata, per nessun caso, nell'atmosfera delle scuole pubbliche è esattamente questa: che esiste un'intera [[Truth|verità]] delle cose, e che nel conoscerla e nel dirla siamo felici.
-
-Se qualcuno nutre il minimo [[Doubt|dubbio]] su questa negligenza della [[Truth|verità]] nelle scuole pubbliche, può uccidere il proprio [[Doubt|dubbio]] con una sola, semplice domanda. Può qualcuno al mondo credere che, se il vedere e il dire dell'intera [[Truth|verità]] fossero davvero uno degli ideali della classe dirigente inglese, potrebbe concepibilmente esistere una cosa come il sistema inglese dei partiti? Ma se il sistema inglese dei partiti è fondato sul principio che dire l'intera [[Truth|verità]] non conta nulla! È fondato sul principio che mezza [[Truth|verità]] è meglio di nessuna politica. Il nostro sistema trasforma deliberatamente una folla di uomini che potrebbero essere imparziali in fazioni irrazionali. Insegna ad alcuni di loro a dire menzogne e a tutti loro a credere alle menzogne. Assegna a ogni uomo un incarico arbitrario che egli deve elaborare come meglio può e difendere come meglio riesce. Trasforma una stanza piena di cittadini in una stanza piena di avvocati. So che ha molte grazie e virtù, la lotta e il cameratismo; ha tutte le grazie e le virtù di un gioco. Dico soltanto che sarebbe una pura impossibilità in una nazione che credesse nel dire la [[Truth|verità]].
 
 
 

@@ -2649,150 +2649,6 @@ A month later when the General Election had given an enormous majority in Dolly�
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="Pongo and the Bull — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
-
-
-CHAPTER IV
-
-“THOUGH WE MUST not pay to relics any overweening or extravagant reverence, yet they serve to remind us of the virtues and sweetness of the dead man, as of his humility, his despising of riches, his thoughts fixed upon God alone, and his contempt of this world; and they have about them also an Operative virtue.” — Commentary on Suarez’ “Theology,” viii. § 17 (Duncan’s Tr.).
-
-G. QUINLAN SMITH, that aged man of gold, had a hobby.
-
-His fortune enabled him to satisfy it to the full.
-
-He loved to collect objects connected with the life of the late Disraeli, once Prime Minister of England; lest such a taste should disturb the reader’s fancy I will trace it to its origin, which lay in one small incident of Mr. Smith’s early unknown travels, in the days when he was worth, perhaps, not more than twenty-five millions of dollars.
-
-G. Quinlan, coming once into the French town of Cherbourg, upon the steam-packet which had brought him from America, had marvelled at the squalor of the Gauls. Everything in the place (where the steamer spent some three hours before proceeding to more civilised shores) was repugnant to his sense of decency and order, nor could he conceive why the signs over the shops should be in such diverse tongues, nor why, as it seemed, there were no well-dressed gentlemen in the streets.
-
-In the depression of soul caused by such surroundings, his eye lighted at seeing in his native tongue a sign “English schpoken” upon a shop window, and walking into that shop he was as much astonished as delighted to discover that the little place was kept by an old man who, for all his frousty loquacity and familiarity of manner, was still able to pronounce a few words of broken English. Mr. Smith took refuge in that shop from the barbarism round him as a man takes refuge under a roof out of the rain. It was a curiosity shop; and, since he felt that he could hardly leave it without making some purchase, he courteously asked the proprietor to show him some of the objects he had for sale.
-
-There were many: there was a bullet, said to date from the Revolutionary Wars; three or four old plates with mottoes of the Monarchy upon them, a stuffed cat, one or two greasy books, more than a hundred snuff-boxes of various periods, and among other things an illuminated address presented to Disraeli by the Lodge of Mutual Understanding in Cherbourg on the occasion of the commemoration of its foundation in the 15th of Nisan, in the year A.M. 5639. It was marked 50 francs, and George Quinlan Smith was really annoyed at having to deal in retail with a system of currency which induced yet another confusion. Dollars and pounds were enough in all conscience — and he had no clerk at hand.
-
-However, he was still in the vigour of his age; he made a rapid calculation in his head, and thought that ten dollars was not too much to pay for a genuine relic of so august a personage. Just as he was coming to this decision a doubt crept over his naturally cautious mind.
-
-“Why didn’t Disraeli keep it?” he asked.
-
-“He noh kip,” answered the old Frenchman vivaciously, nodding his head to show that he thoroughly understood. “Noh! he no kip — he gif aweh!”
-
-G. Quinlan Smith was annoyed; “But, I say, why didn’t he keep it?” he repeated.
-
-“He noh kip!” reiterated the Frenchman with Gallic enthusiasm, greatly fearing that his customer took the thing for a forgery. “He gif back!”
-
-It was at this moment that a tout, hired at an infinitesimal wage for this purpose, sauntered in and asked in his native tongue (for he was a drifting Englishman who lived by such expedients) whether the shop still had the illuminated address which had been offered to Disraeli by the Lodge of Mutual Understanding.
-
-“Precisely,” said the shopman, “I negotiate.”
-
-The tout made a show of annoyance, sauntered out again, and Mr. Smith bought. The document was false, and it was the beginning of his collection.
-
-That collection had grown with years; it now took up so considerable a space that even the choice specimens of it filled two large rooms of his house in Maine, while the great bulk had to be stored in an annex to the British Museum, especially constructed at the National expense. There it was exhibited, not only for the instruction of the gaping crowd, but also in order that it might be warmed, dried, insured, cleaned, judged, valued, advertised, and guarded at the charges of the British taxpayer. He was constantly adding to it. Autographs he was chary of — they were too common — but playing cards, handkerchiefs, umbrellas, chairs, travelling rugs, masonic insignia, the services with which Disraeli had been served in railway stations, knives and forks, therefore, cups and saucers and plates, coalscuttles, the hoofs of certain favourite horses and the tails of others, ink-pots, gilt wreaths, and bottles of hair-dye; every conceivable object which was germane to his collection he bought most eagerly.
-
-He had two sources of supply; he would (carefully concealing his identity, for he was terrified at the thought of the prices he would be asked if he were known) visit shops or private owners in person, and bargain for the coveted object; and again he was furnished at much higher prices by those organised companies of dexterous men who are ready at the risk of imprisonment to remove property of this kind from foolish and unworthy owners, and to convey it to the millionaire, who can at least make a worthier and nobler use of it.
-
-With these last — need I say it? — he had no direct relations. He disdained them and their methods; he would have nothing to do with things that did not concern him. He was a business man, and to mind his own business had been the leading principle of his life; but when he received notice, private notice, that a seller — no matter whom — was possessed — no matter how — of an article he had spotted as connected with Disraeli, why G. Quinlan saw no reason why he should not buy.
-
-* * *
-
-Battersea House, as all the world knows, occupies the bottom of St. James’s Street where the gateway to St. James’s Palace used to stand until it was pulled down under the Broadening of the Streets Bill.
-
-My readers will not forget the Duke of Battersea’s generous movement to help the Government and give the scheme a start. His immediate purchase of the derelict site and his building of the massive but graceful pile which now dwarfs every other building in the neighbourhood (including the Automobile Club) was the saving of the measure. The inner ring of public opinion knew very well that he had done this largely as a favour to Peggy, and to Peggy’s newly wedded husband, but that opinion was ready enough to forgive him, for if there was a touch of jobbery about the business, it was amply repaid by the splendid stone facade which had replaced the dingy bricks of the old Royal Palace.
-
-As Peggy was walking away after leaving her husband at Charing Cross, back to her room in Battersea House, it occurred to her that a little silver jug of which she was particularly fond had been for a long time mending at Pickles’ in Suffolk Place. Pickles’ might still be open. She strode across the broad of Cockspur Street and made for Pickles’, heeling like some big cutter in an easy breeze and (as you would have sworn!) making the motor traffic divert to left and right, so fearlessly did she neglect it. When she got in to Pickles’ she saw something so astonishing that it made her forget her jug.
-
-There stood, arguing over the counter, voluble and vivacious, a little figure that she surely knew! It was dressed in an overcoat rather heavy for the season, with a great collar turned up, and a bowler hat just showing above it — it was bargaining or protesting or both.
-
-Behind the counter of the shop a young man, still suave, but on the point of exasperation, was assuring that little figure that something or other was not to be had. Peggy had not seen Mr. Quinlan Smith more than half a dozen times in her life; she had only been in the same house with him once for more than twenty-four hours, and that was during his last visit to England when he was stopping, as he invariably did, at historic but cosy Habberton. She remembered vaguely certain things about him, chiefly, of course, his gigantic wealth. She had half forgotten his deafness, and with that extremely open way of hers which all the world had noted, she took him by his aged left shoulder and swung him round.
-
-“Mr. Smith!” she said. She saw the face above the collar, the keen old face, and the unmistakable eyes. He was holding, marvellous to tell (but the passion of a collector will account for anything!) an ear-trumpet, a distinct and very conspicuous ear-trumpet, in his right hand.
-
-The moment he felt her hand upon his shoulder he slipped the surgical horror rapidly into the right-hand pocket of his coat, and, looking up at her towering above him during ten good seconds he was speechless. For once in his life the innumerable millions were genuinely taken aback. Then he snarled, a thing he hadn’t done since the original days of his more moderate wealth:
-
-“Nonsense!” he said. “Nonsense!” And without another word he twisted away from her and darted out of the shop.
-
-Peggy was more alarmed than amused. “That was Mr. Smith, wasn’t it?” she said to the young shopman, who on perceiving his new customer changed the whole attitude of his face and body from one of polite but wearied protest to one of plain grovel.
-
-“No, ma’am,” he said. “No, my Lady, I mean — ma’am, I should say — I should say I don’t think so. Mr. Kew, ma’am, a very deaf gentleman. I’m sure I didn’t know that he was a friend of yours. I’m sure, ma’am, that if..”
-
-“He doesn’t seem to be a friend of mine,” said the rich, but not subdued, contralto with a laugh that filled the shop, rattled the glass badly, and made the old silver ring.
-
-“No, ma’am, I thought not, ma’am,” said the young shopman. “He’s exceedingly deaf, ma’am. Do you happen to know, ma’am,” he continued with some hesitation, for he knew he was being very bold, “do you happen to know, ma’am, well, whether he really is good for..”
-
-“Really,” said his customer impatiently, “I don’t know. It seems I don’t even know him.”
-
-“No, ma’am, certainly not, ma’am,” said the shopman, carefully putting away a bowl of Charles II. work with a hole in it.
-
-“Was he buying that?” said Peggy.
-
-“Oh no, ma’am,” said the shopman. “I don’t know that I ought to say, but he wanted to... Well,” the young man tittered, “he wanted by rights to buy something,” and here he lowered his voice to an awful tone, “something the Duke’s got, ma’am — if you’ll believe me, ma’am!”
-
-“Something the Duke of Battersea has?” shouted Peggy incredulously.
-
-“Yes, ma’am, certainly, ma’am, in a manner of speaking,” said the young shopman more nervously than ever. “It’s a spoon, ma’am, in the Riviera. We bought the plate, ma’am, when Mr. Boulger sold his villa to his Grace.”
-
-“Yes, yes,” said Peggy impatiently.
-
-“Well, ma’am, Mr. Kew thinks we bought the Disraeli Spoon, ma’am.”
-
-“What on earth’s that?” said Peggy.
-
-The young shopman was genuinely astonished at her ignorance.
-
-“Why, ma’am, really, the Disraeli Spoon, the Disraeli Bat-tail Spoon.”
-
-“Oh, I don’t understand a word you say,” answered Peggy with the full strength of her lungs.
-
-“But I assure you, ma’am, we haven’t...” he began anxiously.
-
-“Oh, who cares?” interrupted Peggy. “I’ve come about my jug!” And the poor young fellow, who was hoping she might tell the Duke the very important fact that Pickles had reverently let the spoon alone, was disappointed. He brought out the little jug, obsequiously suggesting that they should keep it a day or two as the handle wanted turning.
-
-As usual! — Pickles hadn’t come up to time!... Peggy cursed them gently and sailed out.
-
-
-
-
-<span class="atom-split" data-atom="chapter_07" data-title="Pongo and the Bull — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
-
-
-CHAPTER VII
-
-“SI PECOAS, PEOCA fortiter.”
-
-MARTIN LUTHER.
-
-“Those who lay down their lives in the infancy of a science or an art through their devotion to its development may more properly be called martyrs than the fanatics whom hysteria prompts to hideous self-sacrifice, and even self-mutilation, in honour of some imaginary and unknowable object of adoration.”
-
-THE DAILY PRESS.
-
-ON that part of the coast of the Mediterranean where the piercing cold of the Provencal winter is perhaps less acutely felt than in other portions of the region, a villa known by the original and beautiful name of Les Charmettes stood overlooking the inland sea.
-
-Nice was not far distant, Beaulieu was right before; and the delightful gardens with their palms and their carpets of flowers stretched down the steep hill-side in terraces. It had during the last thirty years been in turn the property of the Heines, the Polignacs, and the Boulgers of Northampton, and was in shape a large parallelopiped, white with green shutters and a gilded cornice; it was fifty-seven metres long, twenty-six metres high, and fifteen metres across. It was surrounded by gravel and there were many stables.
-
-Upon the failure of the Boulgers in the oil slump, the Duke of Battersea had come into possession of the place by arrangement and had given it its present name. It was not a large house as the palaces go which adorn that coast, but though the Duke was now too old to visit it save upon the rarest occasions, it was kept up in all its old magnificence.
-
-Among other things which distinguished Les Charmettes from other private houses in that famous neighbourhood was this: that the furniture and every detail in the appointment of the house had been kept unchanged for something like thirty years.
-
-The Duke of Battersea, when he had obliged the Boulgers by taking over the place after their trouble, had very properly insisted upon the retention of the visitors’ book and the little nick-nacks, many of them of historic interest, which a less careful man would perhaps have abandoned to their former proprietors; and among these nick-nacks was a spoon which Mrs. Boulger had very carefully preserved, and of which I fear she felt the loss more than of any other of her treasures: it was a plain English silver teaspoon of what is known as the rat-tail type, one of a set of thirty-six. Its interest lay in this, that when the Boulgers acquired the house from the Strauss branch of the Polignacs in 1912, the old concierge, a woman of immense loquacity, had, while showing the new proprietors over the house, picked up a sheaf of silver of all kinds and shown it to her new mistress, saying in a fluent Italian which Mrs. Boulger’s daughter could both comprehend and translate, that when Disraeli had done the former proprietors the honour of accepting a cup of tea from them, this was the silver which had been set before him. The concierge could even pick out the spoon with which he had stirred the cup. To be accurate, the good woman had used for the purpose of her illustration a large tablespoon, but the error was so manifestly absurd that Mrs. Boulger corrected it. Nor did the repeated assurances of her English friends that Disraeli had never so much as approached the villa, shake Mrs. Boulger’s faith in what was, after all, the living testimony of a reputable witness. She chose one of the rat-tail spoons which would most probably have done service upon the auspicious occasion, had engraved upon it the legend, “This spoon was used by the late Earl of Beaconsfield to stir his cup on the occasion of his graciously accepting tea on his visit to ‘Les Charmettes,’ then the property of Jeremiah Boulger, Esq., J.P.,” and caused it to be enshrined in a delicate and lovely case of velvet and russia leather. This spoon the Duke of Battersea had not forgotten, hut as his interest did not lie in that direction, he had not brought it to England: he left it with half a hundred other objects of interest under the care of the concierge.
-
-It happened that in this September of the year 1925, MM. Arton and Bertot, with their companion, Mme. Yahzoff (a Lithuanian lady), were engaged upon what was now their annual tour in the south of France, in search of such objects of art and curiosities of every kind as might have a value to wealthy collectors. Among the first names upon their list of these was, as the reader may well imagine, that of G. Quinlan Smith, and since they had occasion to pass by Nice in order to acquire an old reliquary of Limoges enamel which was secreted in the safe of a neighbouring church, they saw no reason why they should not do a double stroke of business, and call at Les Charmettes before their visit to the sacred edifice: for, as luck would have it, Les Charmettes came first upon their road. They reached the villa at three o’clock in that same early morning just before the Whitsuntide Recess during which Mary Smith had successfully spoken to her uncle upon the Indian Loan.
-
-The night was moonless, and, on the Riviera, overcast.
-
-Driving — against all regulations — without lights, the three experts drew up their motor at some distance from the gate of the villa. Leaving Bertot, who was the more skilled in mechanical principles, with the car, M. Arton and Mme. Yahzoff entered by that door which they had instructed the concierge to leave open for them, and proceeded to cull with refinement, without excessive haste and above all in no great quantity, such objects as their trained judgment told them would most attract their clients. Many a large and garish ornament did they pass by with contempt as they promenaded the great rooms, candle in hand. But the Spoon they took, and a little miniature of the Prince Imperial as a child as well; Mme. Yahzoff scanning it curiously and telling her indifferent companion three or four names which occurred to her as likely purchasers for it. Beyond these, a book or two of the rarer sort, an exquisite little piece of mediaeval embroidery, and one Chardin small enough to be easily carried under the cloak, were all they needed.
-
-They left the house within half an hour of having entered it, they locked the door, and pushed the key under a particular flower-pot which had been indicated to them by the Duke’s aged domestic. This done, they regained their car. M. Bertot took the steering-wheel and the three of them sped off along the great road towards the church which it was next their intention to examine.
-
-The rule that one should drive at night with lamps lit, just and reasonable as it is in the interest of the general public, is perhaps of equal importance to motorists themselves. Bertot, though he was an accomplished driver, struck, not two miles from Les Charmettes, the body of a large sow which, through the inexcusable negligence of her proprietor, lay asleep towards the right-hand side of the great highway. By daylight the accident might have been negligible. In the darkness it was otherwise. M. Bertot, in attempting to recover the car, gave the wheel too sharp a twist, and in a moment the whole contraption had swerved against the parapet wall. The bonnet telescoped up like an opera-hat, M. Arton was shot forward with his head against the stones of the wall upon one side, the Lithuanian lady flew with equal rapidity through the air upon the other. M. Bertot performed a much more singular tour de force. While his hand still clung to the steering-wheel, his legs and body performed a complete somersault; he tore his trousers and the skin of his left leg in the wreckage, sprained one arm, but suffered no other damage.
-
-He righted himself with his sound arm, painfully extricated his leg from the mass of broken metal, and listened. The engine had stopped dead. He smelt petrol poured out somewhere upon the ground. He heard a low groan. He bethought him of the danger of lights, but he none the less struck a match, shielded it with his hand and looked at the woman’s face upon the grass. He did not care to look again.... The groan had not come from her. He heard that groan again; it was from Arton. Even as he heard it, and as he was about to strike another match, he distinguished upon the road behind, from the direction of the villa, a sound unmistakable to the trained ears of those who serve the great collectors of Europe and America. It was the double trot of the mounted French police who go in couples, and one of whose duties it is to raise, by their active interference, the risks of these great collectors, and therefore the value of the objects they seek.
-
-M. Bertot thought no longer of who or what was groaning. He groped in the darkness for the bag: it was open and its contents were scattered. He felt rapidly for metal, clutched half a dozen objects which might be silver or might be gold, stuffed them into the side pocket of his inner coat, slipped off the outer coat of hair, the goggles and the motoring-cap, and hobbled to the other side of the road.
-
-He was not, as were or had been both poor M. Arton and poor Mme. Yahzoff, an expert in human psychology; but he had a sufficient acquaintance with the police to make a fair guess at what would happen. The gendarmes had heard the noise of the wreck; it would arrest them, and while they were examining it he would make directly for the hills above and hide through the day in the brushwood. When evening fell again he would find means to decamp, and if he knew anything of the ways of the police, he would be safe for days in the Paillon Valley beyond the hill.
-
-When the aged Duke of Battersea heard by a telegram the next day of what had happened at Les Charmettes, the blow struck him with no violence so far as the loss was concerned: it struck him with little violence so far as the sense of insecurity which it involved was concerned. What did hit him and hit him hard was the luck. He was a very old man and his luck had now run steadily against him for quite fifteen years. In the last ten years it had run badly against him, and when he heard of his loss, he was more than commonly gloomy for three days. He sent a telegram dismissing the concierge, and then to tell the truth regretted the half-crown, for the good woman had disappeared long before the wire reached Nice He put in an advertisement for the miniature of the Prince Imperial, to which he was attached from a sentiment which he felt (in common with all his family) for royalty in any form. As to the Spoon, he did not give it another thought.
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Pongo and the Bull — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -3339,6 +3195,106 @@ His next business was the redoubtable interview with the Duke, but between that 
 
 
 
+<span class="atom-split" data-atom="chapter_04" data-title="Pongo and the Bull — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+
+
+CHAPTER IV
+
+“THOUGH WE MUST not pay to relics any overweening or extravagant reverence, yet they serve to remind us of the virtues and sweetness of the dead man, as of his humility, his despising of riches, his thoughts fixed upon God alone, and his contempt of this world; and they have about them also an Operative virtue.” — Commentary on Suarez’ “Theology,” viii. § 17 (Duncan’s Tr.).
+
+G. QUINLAN SMITH, that aged man of gold, had a hobby.
+
+His fortune enabled him to satisfy it to the full.
+
+He loved to collect objects connected with the life of the late Disraeli, once Prime Minister of England; lest such a taste should disturb the reader’s fancy I will trace it to its origin, which lay in one small incident of Mr. Smith’s early unknown travels, in the days when he was worth, perhaps, not more than twenty-five millions of dollars.
+
+G. Quinlan, coming once into the French town of Cherbourg, upon the steam-packet which had brought him from America, had marvelled at the squalor of the Gauls. Everything in the place (where the steamer spent some three hours before proceeding to more civilised shores) was repugnant to his sense of decency and order, nor could he conceive why the signs over the shops should be in such diverse tongues, nor why, as it seemed, there were no well-dressed gentlemen in the streets.
+
+In the depression of soul caused by such surroundings, his eye lighted at seeing in his native tongue a sign “English schpoken” upon a shop window, and walking into that shop he was as much astonished as delighted to discover that the little place was kept by an old man who, for all his frousty loquacity and familiarity of manner, was still able to pronounce a few words of broken English. Mr. Smith took refuge in that shop from the barbarism round him as a man takes refuge under a roof out of the rain. It was a curiosity shop; and, since he felt that he could hardly leave it without making some purchase, he courteously asked the proprietor to show him some of the objects he had for sale.
+
+There were many: there was a bullet, said to date from the Revolutionary Wars; three or four old plates with mottoes of the Monarchy upon them, a stuffed cat, one or two greasy books, more than a hundred snuff-boxes of various periods, and among other things an illuminated address presented to Disraeli by the Lodge of Mutual Understanding in Cherbourg on the occasion of the commemoration of its foundation in the 15th of Nisan, in the year A.M. 5639. It was marked 50 francs, and George Quinlan Smith was really annoyed at having to deal in retail with a system of currency which induced yet another confusion. Dollars and pounds were enough in all conscience — and he had no clerk at hand.
+
+However, he was still in the vigour of his age; he made a rapid calculation in his head, and thought that ten dollars was not too much to pay for a genuine relic of so august a personage. Just as he was coming to this decision a doubt crept over his naturally cautious mind.
+
+“Why didn’t Disraeli keep it?” he asked.
+
+“He noh kip,” answered the old Frenchman vivaciously, nodding his head to show that he thoroughly understood. “Noh! he no kip — he gif aweh!”
+
+G. Quinlan Smith was annoyed; “But, I say, why didn’t he keep it?” he repeated.
+
+“He noh kip!” reiterated the Frenchman with Gallic enthusiasm, greatly fearing that his customer took the thing for a forgery. “He gif back!”
+
+It was at this moment that a tout, hired at an infinitesimal wage for this purpose, sauntered in and asked in his native tongue (for he was a drifting Englishman who lived by such expedients) whether the shop still had the illuminated address which had been offered to Disraeli by the Lodge of Mutual Understanding.
+
+“Precisely,” said the shopman, “I negotiate.”
+
+The tout made a show of annoyance, sauntered out again, and Mr. Smith bought. The document was false, and it was the beginning of his collection.
+
+That collection had grown with years; it now took up so considerable a space that even the choice specimens of it filled two large rooms of his house in Maine, while the great bulk had to be stored in an annex to the British Museum, especially constructed at the National expense. There it was exhibited, not only for the instruction of the gaping crowd, but also in order that it might be warmed, dried, insured, cleaned, judged, valued, advertised, and guarded at the charges of the British taxpayer. He was constantly adding to it. Autographs he was chary of — they were too common — but playing cards, handkerchiefs, umbrellas, chairs, travelling rugs, masonic insignia, the services with which Disraeli had been served in railway stations, knives and forks, therefore, cups and saucers and plates, coalscuttles, the hoofs of certain favourite horses and the tails of others, ink-pots, gilt wreaths, and bottles of hair-dye; every conceivable object which was germane to his collection he bought most eagerly.
+
+He had two sources of supply; he would (carefully concealing his identity, for he was terrified at the thought of the prices he would be asked if he were known) visit shops or private owners in person, and bargain for the coveted object; and again he was furnished at much higher prices by those organised companies of dexterous men who are ready at the risk of imprisonment to remove property of this kind from foolish and unworthy owners, and to convey it to the millionaire, who can at least make a worthier and nobler use of it.
+
+With these last — need I say it? — he had no direct relations. He disdained them and their methods; he would have nothing to do with things that did not concern him. He was a business man, and to mind his own business had been the leading principle of his life; but when he received notice, private notice, that a seller — no matter whom — was possessed — no matter how — of an article he had spotted as connected with Disraeli, why G. Quinlan saw no reason why he should not buy.
+
+* * *
+
+Battersea House, as all the world knows, occupies the bottom of St. James’s Street where the gateway to St. James’s Palace used to stand until it was pulled down under the Broadening of the Streets Bill.
+
+My readers will not forget the Duke of Battersea’s generous movement to help the Government and give the scheme a start. His immediate purchase of the derelict site and his building of the massive but graceful pile which now dwarfs every other building in the neighbourhood (including the Automobile Club) was the saving of the measure. The inner ring of public opinion knew very well that he had done this largely as a favour to Peggy, and to Peggy’s newly wedded husband, but that opinion was ready enough to forgive him, for if there was a touch of jobbery about the business, it was amply repaid by the splendid stone facade which had replaced the dingy bricks of the old Royal Palace.
+
+As Peggy was walking away after leaving her husband at Charing Cross, back to her room in Battersea House, it occurred to her that a little silver jug of which she was particularly fond had been for a long time mending at Pickles’ in Suffolk Place. Pickles’ might still be open. She strode across the broad of Cockspur Street and made for Pickles’, heeling like some big cutter in an easy breeze and (as you would have sworn!) making the motor traffic divert to left and right, so fearlessly did she neglect it. When she got in to Pickles’ she saw something so astonishing that it made her forget her jug.
+
+There stood, arguing over the counter, voluble and vivacious, a little figure that she surely knew! It was dressed in an overcoat rather heavy for the season, with a great collar turned up, and a bowler hat just showing above it — it was bargaining or protesting or both.
+
+Behind the counter of the shop a young man, still suave, but on the point of exasperation, was assuring that little figure that something or other was not to be had. Peggy had not seen Mr. Quinlan Smith more than half a dozen times in her life; she had only been in the same house with him once for more than twenty-four hours, and that was during his last visit to England when he was stopping, as he invariably did, at historic but cosy Habberton. She remembered vaguely certain things about him, chiefly, of course, his gigantic wealth. She had half forgotten his deafness, and with that extremely open way of hers which all the world had noted, she took him by his aged left shoulder and swung him round.
+
+“Mr. Smith!” she said. She saw the face above the collar, the keen old face, and the unmistakable eyes. He was holding, marvellous to tell (but the passion of a collector will account for anything!) an ear-trumpet, a distinct and very conspicuous ear-trumpet, in his right hand.
+
+The moment he felt her hand upon his shoulder he slipped the surgical horror rapidly into the right-hand pocket of his coat, and, looking up at her towering above him during ten good seconds he was speechless. For once in his life the innumerable millions were genuinely taken aback. Then he snarled, a thing he hadn’t done since the original days of his more moderate wealth:
+
+“Nonsense!” he said. “Nonsense!” And without another word he twisted away from her and darted out of the shop.
+
+Peggy was more alarmed than amused. “That was Mr. Smith, wasn’t it?” she said to the young shopman, who on perceiving his new customer changed the whole attitude of his face and body from one of polite but wearied protest to one of plain grovel.
+
+“No, ma’am,” he said. “No, my Lady, I mean — ma’am, I should say — I should say I don’t think so. Mr. Kew, ma’am, a very deaf gentleman. I’m sure I didn’t know that he was a friend of yours. I’m sure, ma’am, that if..”
+
+“He doesn’t seem to be a friend of mine,” said the rich, but not subdued, contralto with a laugh that filled the shop, rattled the glass badly, and made the old silver ring.
+
+“No, ma’am, I thought not, ma’am,” said the young shopman. “He’s exceedingly deaf, ma’am. Do you happen to know, ma’am,” he continued with some hesitation, for he knew he was being very bold, “do you happen to know, ma’am, well, whether he really is good for..”
+
+“Really,” said his customer impatiently, “I don’t know. It seems I don’t even know him.”
+
+“No, ma’am, certainly not, ma’am,” said the shopman, carefully putting away a bowl of Charles II. work with a hole in it.
+
+“Was he buying that?” said Peggy.
+
+“Oh no, ma’am,” said the shopman. “I don’t know that I ought to say, but he wanted to... Well,” the young man tittered, “he wanted by rights to buy something,” and here he lowered his voice to an awful tone, “something the Duke’s got, ma’am — if you’ll believe me, ma’am!”
+
+“Something the Duke of Battersea has?” shouted Peggy incredulously.
+
+“Yes, ma’am, certainly, ma’am, in a manner of speaking,” said the young shopman more nervously than ever. “It’s a spoon, ma’am, in the Riviera. We bought the plate, ma’am, when Mr. Boulger sold his villa to his Grace.”
+
+“Yes, yes,” said Peggy impatiently.
+
+“Well, ma’am, Mr. Kew thinks we bought the Disraeli Spoon, ma’am.”
+
+“What on earth’s that?” said Peggy.
+
+The young shopman was genuinely astonished at her ignorance.
+
+“Why, ma’am, really, the Disraeli Spoon, the Disraeli Bat-tail Spoon.”
+
+“Oh, I don’t understand a word you say,” answered Peggy with the full strength of her lungs.
+
+“But I assure you, ma’am, we haven’t...” he began anxiously.
+
+“Oh, who cares?” interrupted Peggy. “I’ve come about my jug!” And the poor young fellow, who was hoping she might tell the Duke the very important fact that Pickles had reverently let the spoon alone, was disappointed. He brought out the little jug, obsequiously suggesting that they should keep it a day or two as the handle wanted turning.
+
+As usual! — Pickles hadn’t come up to time!... Peggy cursed them gently and sailed out.
+
+
+
+
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="Pongo and the Bull — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
 
 
@@ -3577,6 +3533,50 @@ He stopped on the bridge in St. James’s Park and looked down into the shallow 
 He went over the whole circle of these thoughts two or three times in the remaining three or four hundred yards of his journey, and they occupied him in the wakeful moments of that night.
 
 As for the Duke of Battersea, he lay in Battersea House not yet asleep. He was feeding internally and nourishing his soul upon Dolly and the Indian Loan. He held Dolly between his spatulated forefinger and his gross thumb. But then he did not understand blood which was not his own, nor what sympathies might arise between men of one race and one society; and he had forgotten G. Quinlan Smith, that brittle, aged man.
+
+
+
+
+<span class="atom-split" data-atom="chapter_07" data-title="Pongo and the Bull — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+
+
+CHAPTER VII
+
+“SI PECOAS, PEOCA fortiter.”
+
+MARTIN LUTHER.
+
+“Those who lay down their lives in the infancy of a science or an art through their devotion to its development may more properly be called martyrs than the fanatics whom hysteria prompts to hideous self-sacrifice, and even self-mutilation, in honour of some imaginary and unknowable object of adoration.”
+
+THE DAILY PRESS.
+
+ON that part of the coast of the Mediterranean where the piercing cold of the Provencal winter is perhaps less acutely felt than in other portions of the region, a villa known by the original and beautiful name of Les Charmettes stood overlooking the inland sea.
+
+Nice was not far distant, Beaulieu was right before; and the delightful gardens with their palms and their carpets of flowers stretched down the steep hill-side in terraces. It had during the last thirty years been in turn the property of the Heines, the Polignacs, and the Boulgers of Northampton, and was in shape a large parallelopiped, white with green shutters and a gilded cornice; it was fifty-seven metres long, twenty-six metres high, and fifteen metres across. It was surrounded by gravel and there were many stables.
+
+Upon the failure of the Boulgers in the oil slump, the Duke of Battersea had come into possession of the place by arrangement and had given it its present name. It was not a large house as the palaces go which adorn that coast, but though the Duke was now too old to visit it save upon the rarest occasions, it was kept up in all its old magnificence.
+
+Among other things which distinguished Les Charmettes from other private houses in that famous neighbourhood was this: that the furniture and every detail in the appointment of the house had been kept unchanged for something like thirty years.
+
+The Duke of Battersea, when he had obliged the Boulgers by taking over the place after their trouble, had very properly insisted upon the retention of the visitors’ book and the little nick-nacks, many of them of historic interest, which a less careful man would perhaps have abandoned to their former proprietors; and among these nick-nacks was a spoon which Mrs. Boulger had very carefully preserved, and of which I fear she felt the loss more than of any other of her treasures: it was a plain English silver teaspoon of what is known as the rat-tail type, one of a set of thirty-six. Its interest lay in this, that when the Boulgers acquired the house from the Strauss branch of the Polignacs in 1912, the old concierge, a woman of immense loquacity, had, while showing the new proprietors over the house, picked up a sheaf of silver of all kinds and shown it to her new mistress, saying in a fluent Italian which Mrs. Boulger’s daughter could both comprehend and translate, that when Disraeli had done the former proprietors the honour of accepting a cup of tea from them, this was the silver which had been set before him. The concierge could even pick out the spoon with which he had stirred the cup. To be accurate, the good woman had used for the purpose of her illustration a large tablespoon, but the error was so manifestly absurd that Mrs. Boulger corrected it. Nor did the repeated assurances of her English friends that Disraeli had never so much as approached the villa, shake Mrs. Boulger’s faith in what was, after all, the living testimony of a reputable witness. She chose one of the rat-tail spoons which would most probably have done service upon the auspicious occasion, had engraved upon it the legend, “This spoon was used by the late Earl of Beaconsfield to stir his cup on the occasion of his graciously accepting tea on his visit to ‘Les Charmettes,’ then the property of Jeremiah Boulger, Esq., J.P.,” and caused it to be enshrined in a delicate and lovely case of velvet and russia leather. This spoon the Duke of Battersea had not forgotten, hut as his interest did not lie in that direction, he had not brought it to England: he left it with half a hundred other objects of interest under the care of the concierge.
+
+It happened that in this September of the year 1925, MM. Arton and Bertot, with their companion, Mme. Yahzoff (a Lithuanian lady), were engaged upon what was now their annual tour in the south of France, in search of such objects of art and curiosities of every kind as might have a value to wealthy collectors. Among the first names upon their list of these was, as the reader may well imagine, that of G. Quinlan Smith, and since they had occasion to pass by Nice in order to acquire an old reliquary of Limoges enamel which was secreted in the safe of a neighbouring church, they saw no reason why they should not do a double stroke of business, and call at Les Charmettes before their visit to the sacred edifice: for, as luck would have it, Les Charmettes came first upon their road. They reached the villa at three o’clock in that same early morning just before the Whitsuntide Recess during which Mary Smith had successfully spoken to her uncle upon the Indian Loan.
+
+The night was moonless, and, on the Riviera, overcast.
+
+Driving — against all regulations — without lights, the three experts drew up their motor at some distance from the gate of the villa. Leaving Bertot, who was the more skilled in mechanical principles, with the car, M. Arton and Mme. Yahzoff entered by that door which they had instructed the concierge to leave open for them, and proceeded to cull with refinement, without excessive haste and above all in no great quantity, such objects as their trained judgment told them would most attract their clients. Many a large and garish ornament did they pass by with contempt as they promenaded the great rooms, candle in hand. But the Spoon they took, and a little miniature of the Prince Imperial as a child as well; Mme. Yahzoff scanning it curiously and telling her indifferent companion three or four names which occurred to her as likely purchasers for it. Beyond these, a book or two of the rarer sort, an exquisite little piece of mediaeval embroidery, and one Chardin small enough to be easily carried under the cloak, were all they needed.
+
+They left the house within half an hour of having entered it, they locked the door, and pushed the key under a particular flower-pot which had been indicated to them by the Duke’s aged domestic. This done, they regained their car. M. Bertot took the steering-wheel and the three of them sped off along the great road towards the church which it was next their intention to examine.
+
+The rule that one should drive at night with lamps lit, just and reasonable as it is in the interest of the general public, is perhaps of equal importance to motorists themselves. Bertot, though he was an accomplished driver, struck, not two miles from Les Charmettes, the body of a large sow which, through the inexcusable negligence of her proprietor, lay asleep towards the right-hand side of the great highway. By daylight the accident might have been negligible. In the darkness it was otherwise. M. Bertot, in attempting to recover the car, gave the wheel too sharp a twist, and in a moment the whole contraption had swerved against the parapet wall. The bonnet telescoped up like an opera-hat, M. Arton was shot forward with his head against the stones of the wall upon one side, the Lithuanian lady flew with equal rapidity through the air upon the other. M. Bertot performed a much more singular tour de force. While his hand still clung to the steering-wheel, his legs and body performed a complete somersault; he tore his trousers and the skin of his left leg in the wreckage, sprained one arm, but suffered no other damage.
+
+He righted himself with his sound arm, painfully extricated his leg from the mass of broken metal, and listened. The engine had stopped dead. He smelt petrol poured out somewhere upon the ground. He heard a low groan. He bethought him of the danger of lights, but he none the less struck a match, shielded it with his hand and looked at the woman’s face upon the grass. He did not care to look again.... The groan had not come from her. He heard that groan again; it was from Arton. Even as he heard it, and as he was about to strike another match, he distinguished upon the road behind, from the direction of the villa, a sound unmistakable to the trained ears of those who serve the great collectors of Europe and America. It was the double trot of the mounted French police who go in couples, and one of whose duties it is to raise, by their active interference, the risks of these great collectors, and therefore the value of the objects they seek.
+
+M. Bertot thought no longer of who or what was groaning. He groped in the darkness for the bag: it was open and its contents were scattered. He felt rapidly for metal, clutched half a dozen objects which might be silver or might be gold, stuffed them into the side pocket of his inner coat, slipped off the outer coat of hair, the goggles and the motoring-cap, and hobbled to the other side of the road.
+
+He was not, as were or had been both poor M. Arton and poor Mme. Yahzoff, an expert in human psychology; but he had a sufficient acquaintance with the police to make a fair guess at what would happen. The gendarmes had heard the noise of the wreck; it would arrest them, and while they were examining it he would make directly for the hills above and hide through the day in the brushwood. When evening fell again he would find means to decamp, and if he knew anything of the ways of the police, he would be safe for days in the Paillon Valley beyond the hill.
+
+When the aged Duke of Battersea heard by a telegram the next day of what had happened at Les Charmettes, the blow struck him with no violence so far as the loss was concerned: it struck him with little violence so far as the sense of insecurity which it involved was concerned. What did hit him and hit him hard was the luck. He was a very old man and his luck had now run steadily against him for quite fifteen years. In the last ten years it had run badly against him, and when he heard of his loss, he was more than commonly gloomy for three days. He sent a telegram dismissing the concierge, and then to tell the truth regretted the half-crown, for the good woman had disappeared long before the wire reached Nice He put in an advertisement for the miniature of the Prince Imperial, to which he was attached from a sentiment which he felt (in common with all his family) for royalty in any form. As to the Spoon, he did not give it another thought.
 
 
 

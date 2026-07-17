@@ -1,5 +1,5 @@
 ---
-title: "Macbeth — Act IV, Scene 3 — exchange (MACDUFF) [5]"
+title: "MACBETH"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/macbeth-(shakespeare)"
@@ -9,6 +9,566 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/macbeth" data-author="Shakespeare" data-workhref="works/macbeth-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="Macbeth — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Thunder. Enter the [[Three Witches|three Witches]] |
+| FIRST [[Witch|WITCH]] | Where hast thou been, sister? |
+| SECOND [[Witch|WITCH]] | Killing swine. |
+| THIRD [[Witch|WITCH]] | Sister, where thou? |
+| FIRST [[Witch|WITCH]] | A sailor’s wife had chestnuts in her lap, And munched, and munched, and munched. ‘Give me,’ quoth I. ‘Aroint thee, [[Witch|witch]],’ the rump-fed runnion cries. Her husband’s to Aleppo gone, master o’th’ Tiger. But in a sieve I’ll thither sail, And like a rat without a tail I’ll do, I’ll do, and I’ll do. |
+| SECOND [[Witch|WITCH]] | I’ll give thee a [[Wind|wind]]. |
+| FIRST [[Witch|WITCH]] | Thou’rt kind. |
+| THIRD [[Witch|WITCH]] | And I another. |
+| FIRST [[Witch|WITCH]] | I myself have all the other, And the very ports they blow, All the quarters that they know I’th’ shipman’s card. I’ll drain him dry as hay. [[Sleep]] shall neither [[Night|night]] nor day Hang upon his penthouse lid. He shall live a man forbid. Weary sennights nine times nine Shall he dwindle, peak, and pine. Though his barque cannot be lost, Yet it shall be tempest-tossed. Look what I have. |
+| SECOND [[Witch|WITCH]] | Show me, show me. |
+| FIRST [[Witch|WITCH]] | Here I have a pilot’s thumb, Wrecked as homeward he did come. Drum within |
+| THIRD [[Witch|WITCH]] | A drum, a drum— [[Macbeth]] doth come. |
+| ALL | (dancing in a ring) The weird sisters hand in hand, Posters of the sea and land, Thus do go about, about, Thrice to thine, and thrice to mine, And thrice again to make up nine. Peace! The charm’s wound up. Enter [[Macbeth]] and [[Banquo]] |
+| [[Macbeth|MACBETH]] | So foul and fair a day I have not seen. |
+| [[Banquo|BANQUO]] | How far is’t called to Forres?—What are these, So withered, and so wild in their attire, That look not like th‘inhabitants o’th’ earth And yet are on’t?—Live you, or are you aught That man may question? You seem to understand me By each at once her choppy finger laying Upon her skinny lips. You should be women, And yet your beards forbid me to interpret That you are so. |
+| [[Macbeth|MACBETH]] | (to the Witches) Speak, if you can. What are you? |
+| FIRST [[Witch|WITCH]] | All hail, [[Macbeth]]! Hail to thee, Thane of Glamis. |
+| SECOND [[Witch|WITCH]] | All hail, [[Macbeth]]! Hail to thee, Thane of Cawdor. |
+| THIRD [[Witch|WITCH]] | All hail, [[Macbeth]], that shalt be [[King|king]] hereafter! |
+| [[Banquo|BANQUO]] | Good sir, why do you start and seem to [[Fear|fear]] Things that do sound so fair? (To the Witches) I’th’ name of [[Truth|truth]], Are ye fantastical or that indeed Which outwardly ye show? My noble partner You greet with present grace and great prediction Of noble having and of royal [[Hope|hope]], That he seems rapt withal. To me you speak not. If you can look into the seeds of [[Time|time]] And say which grain will grow and which will not, Speak then to me, who neither beg nor [[Fear|fear]] Your favours nor your hate. |
+| FIRST [[Witch|WITCH]] | Hail! |
+| SECOND [[Witch|WITCH]] | Hail! |
+| THIRD [[Witch|WITCH]] | Hail! |
+| FIRST [[Witch|WITCH]] | Lesser than [[Macbeth]], and greater. |
+| SECOND [[Witch|WITCH]] | Not so happy, yet much happier. |
+| THIRD [[Witch|WITCH]] | Thou shalt get kings, though thou be none. So all hail, [[Macbeth]] and [[Banquo]]! |
+| FIRST [[Witch|WITCH]] | [[Banquo]] and [[Macbeth]], all hail! |
+| [[Macbeth|MACBETH]] | Stay, you imperfect speakers, tell me more. By Sinel’s [[Death|death]] I know I am Thane of Glamis, But how of Cawdor? The Thane of Cawdor lives, A prosperous gentleman, and to be [[King|king]] Stands not within the prospect of belief, No more than to be Cawdor. Say from whence You owe this strange intelligence, or why Upon this blasted heath you stop our way With such prophetic greeting. Speak, I charge you. The Witches vanish |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--02_exchange_banquo" data-title="Macbeth — Act I, Scene 3 — exchange (BANQUO) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Banquo|BANQUO]] | The earth hath bubbles, as the [[Water|water]] has, And these are of them. Whither are they vanished? |
+| [[Macbeth|MACBETH]] | Into the air, and what seemed corporal Melted as breath into the [[Wind|wind]]. Would they had stayed. |
+| [[Banquo|BANQUO]] | Were such things here as we do speak about, Or have we eaten on the insane root That takes the reason prisoner? |
+| [[Macbeth|MACBETH]] | Your children shall be kings. |
+| [[Banquo|BANQUO]] | You shall be [[King|king]]. |
+| [[Macbeth|MACBETH]] | And Thane of Cawdor too. Went it not so? |
+| [[Banquo|BANQUO]] | To th’ [[Self|self]]-same tune and words. Who’s here? Enter Ross and Angus |
+| ROSS | The [[King]] hath happily received, [[Macbeth]], The news of thy [[success]], and when he reads Thy personal venture in the rebels’ sight His wonders and his praises do contend Which should be thine or his; silenced with that, In viewing o‘er the rest o’th’ [[Self|self]]-same day He finds thee in the stout Norwegian ranks, Nothing afeard of what thyself didst make, Strange images of [[Death|death]]. As thick as hail Came post with post, and every one did bear Thy praises in his kingdom’s great defence, And poured them down before him. |
+| ANGUS | (to [[Macbeth]]) We are sent To give thee from our royal master thanks; Only to herald thee into his sight, Not pay thee. |
+| ROSS | And, for an earnest of a greater [[Honour|honour]], He bade me from him call thee Thane of Cawdor, In which addition, hail, most worthy thane, For it is thine. |
+| [[Banquo|BANQUO]] | What, can the devil speak true? |
+| [[Macbeth|MACBETH]] | The Thane of Cawdor lives. Why do you dress me In borrowed robes? |
+| ANGUS | Who was the thane lives yet, But under heavy judgement bears that life Which he deserves to lose. Whether he was combined With those of Norway, or did line the [[Rebel|rebel]] With hidden help and vantage, or that with both He laboured in his country’s wrack, I know not; But treasons capital, confessed, and proved Have overthrown him. |
+| [[Macbeth|MACBETH]] | (aside) Glamis, and Thane of Cawdor. The greatest is behind. (To Ross and Angus) Thanks for your pains. (To [[Banquo]]) Do you not [[Hope|hope]] your children shall be kings When those that gave the thane of Cawdor to me Promised no less to them? |
+| [[Banquo|BANQUO]] | That, trusted [[Home|home]], Might yet enkindle you unto the [[Crown|crown]], Besides the thane of Cawdor. But ’tis strange, And oftentimes to win us to our harm The instruments of darkness tell us truths, Win us with honest trifles to betray’s In deepest consequence. (To Ross and Angus) Cousins, a word, I pray you. |
+| [[Macbeth|MACBETH]] | (aside) Two truths are told As happy prologues to the swelling act Of the imperial theme. (To Ross and Angus) I thank you, gentlemen. (Aside) This [[Supernatural|supernatural]] soliciting Cannot be ill, cannot be good. If ill, Why hath it given me earnest of [[success]] Commencing in a [[Truth|truth]]? I am Thane of Cawdor. If good, why do I yield to that suggestion Whose horrid image doth unfix my hair And make my seated heart knock at my ribs Against the use of [[Nature|nature]]? Present fears Are less than horrible imaginings. My thought, whose murder yet is but fantastical, Shakes so my single state of man that function Is smothered in surmise, and nothing is But what is not. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--03_exchange_banquo" data-title="Macbeth — Act I, Scene 3 — exchange (BANQUO) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Banquo|BANQUO]] | (to Ross and Angus) Look how our partner’s rapt. [[Macbeth|MACBETH]](aside) If chance will have me [[King|king]], why, chance may [[Crown|crown]] me Without my stir. |
+| [[Banquo|BANQUO]] | (to Ross and Angus) New honours come upon him, Like our strange garments, cleave not to their mould But with the aid of use. |
+| [[Macbeth|MACBETH]] | (aside) Come what come may, [[Time]] and the hour runs through the roughest day. |
+| [[Banquo|BANQUO]] | Worthy [[Macbeth]], we stay upon your leisure. |
+| [[Macbeth|MACBETH]] | Give me your favour. My dull brain was wrought With things forgotten. (To Ross and Angus) Kind gentlemen, your pains Are registered where every day I turn The leaf to read them. Let us toward the [[King]]. (Aside to [[Banquo]]) Think upon what hath chanced, and at more [[Time|time]], The interim having weighed it, let us speak Our free hearts each to other. |
+| [[Banquo|BANQUO]] | Very gladly. |
+| [[Macbeth|MACBETH]] | Till then, enough. (To Ross and Angus) Come, friends. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Macbeth — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter a Porter. Knocking within |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--02_monologue_porter" data-title="Macbeth — Act II, Scene 3 — monologue (PORTER) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| PORTER | Here’s a knocking indeed! If a man were porter of hell-gate he should have old turning the key. Knock within |
+| PORTER | Knock, knock, knock. Who’s there, i‘th’ name of Beelzebub? Here’s a farmer that hanged himself on th’expectation of plenty. Come in [[Time|time]]! Have napkins enough about you; here you’ll sweat for’t. Knock within |
+| PORTER | Knock, knock. Who’s there, in th‘other devil’s name? [[Faith]], here’s an equivocator that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven. O, come in, equivocator. Knock within |
+| PORTER | Knock, knock, knock. Who’s there? ’[[Faith]], here’s an English tailor come hither for stealing out of a French hose. Come in, tailor. Here you may roast your goose. Knock within |
+| PORTER | Knock, knock. Never at quiet. What are you?—But this place is too cold for hell. I’ll devil-porter it no further. I had thought to have let in some of all professions that go the primrose way to th’everlasting bonfire. Knock within |
+| PORTER | Anon, anon! He opens the gate |
+| PORTER | I pray you remember the porter. Enter [[Macduff]] and Lennox |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--03_exchange_macduff" data-title="Macbeth — Act II, Scene 3 — exchange (MACDUFF) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Macduff|MACDUFF]] | Was it so late, friend, ere you went to bed That you do lie so late? |
+| PORTER | [[Faith]], sir, we were carousing till the second cock, and drink, sir, is a great provoker of three things. |
+| [[Macduff|MACDUFF]] | What three things does drink especially provoke? |
+| PORTER | Marry, sir, nose-painting, [[Sleep|sleep]], and urine. Lechery, sir, it provokes and unprovokes: it provokes the [[Desire|desire]] but it takes away the performance. Therefore much drink may be said to be an equivocator with lechery: it makes him and it mars him; it sets him on and it takes him off; it persuades him and disheartens him, makes him stand to and not stand to; in conclusion, equivocates him in a [[Sleep|sleep]], and, giving him the lie, [[Leaves|leaves]] him. |
+| [[Macduff|MACDUFF]] | I believe drink gave thee the lie last [[Night|night]]. |
+| PORTER | That it did, sir, i’the very throat on me; but I requited him for his lie, and, I think, being too strong for him, though he took up my legs sometime, yet I made a shift to cast him. |
+| [[Macduff|MACDUFF]] | Is thy master stirring? Enter [[Macbeth]] Our knocking has awaked him: here he comes. [Exit Porter] |
+| LENNOX | (to [[Macbeth]]) Good morrow, noble sir. |
+| [[Macbeth|MACBETH]] | Good morrow, both. |
+| [[Macduff|MACDUFF]] | Is the [[King]] stirring, worthy thane? |
+| [[Macbeth|MACBETH]] | Not yet. |
+| [[Macduff|MACDUFF]] | He did command me to call timely on him. I have almost slipped the hour. |
+| [[Macbeth|MACBETH]] | I’ll bring you to him. |
+| [[Macduff|MACDUFF]] | I know this is a joyful trouble to you, But yet ’tis one. |
+| [[Macbeth|MACBETH]] | The labour we delight in physics [[Pain|pain]]. This is the door. |
+| [[Macduff|MACDUFF]] | I’ll make so bold to call, For ’tis my limited service. Exit [[Macduff]] |
+| LENNOX | Goes the [[King]] hence today? |
+| [[Macbeth|MACBETH]] | He does; he did appoint so. |
+| LENNOX | The [[Night|night]] has been unruly. Where we lay Our chimneys were blown down, and, as they say, Lamentings heard i’th’ air, strange screams of [[Death|death]], And prophesying with accents terrible Of dire combustion and confused events New-hatched to th’ woeful [[Time|time]]. The obscure bird Clamoured the livelong [[Night|night]]. Some say the earth Was feverous and did shake. |
+| [[Macbeth|MACBETH]] | ’Twas a rough [[Night|night]]. |
+| LENNOX | My young remembrance cannot parallel A fellow to it. Enter [[Macduff]] |
+| [[Macduff|MACDUFF]] | O horror, horror, horror! Tongue nor heart cannot conceive nor name thee. |
+| [[Macbeth|MACBETH]] | and LENNOX What’s the matter? |
+| [[Macduff|MACDUFF]] | Confusion now hath made his masterpiece. Most sacrilegious murder hath broke ope The Lord’s anointed temple and stole thence The life o’th’ building. |
+| [[Macbeth|MACBETH]] | What is’t you say—the life? |
+| LENNOX | Mean you his majesty? |
+| [[Macduff|MACDUFF]] | Approach the chamber and destroy your sight With a new Gorgon. Do not bid me speak. See, and then speak yourselves. Exeunt [[Macbeth]] and Lennox Awake, awake! Ring the alarum bell. Murder and treason! [[Banquo]] and Donalbain, [[Malcolm]], awake! Shake off this downy [[Sleep|sleep]], [[Death|death]]’s counterfeit, And look on [[Death|death]] itself. Up, up, and see The great doom’s image. [[Malcolm]], [[Banquo]], As from your graves rise up, and walk like sprites To countenance this horror. Bell rings. Enter [[Lady Macbeth]] |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--04_exchange_lady_macbeth" data-title="Macbeth — Act II, Scene 3 — exchange (LADY MACBETH) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Lady Macbeth|LADY MACBETH]] | What’s the business, That such a hideous trumpet calls to parley The sleepers of the [[house]]? Speak, speak. |
+| [[Macduff|MACDUFF]] | O gentle lady, ’Tis not for you to hear what I can speak. The repetition in a woman’s ear Would murder as it fell. Enter [[Banquo]] |
+| [[Macduff|MACDUFF]] | O [[Banquo]], [[Banquo]], Our royal master’s murdered! |
+| [[Lady Macbeth|LADY MACBETH]] | Woe, alas— What, in our [[house]]? |
+| [[Banquo|BANQUO]] | Too cruel anywhere. Dear Duff, I prithee contradict thyself, And say it is not so. Enter [[Macbeth]], Lennox, [and Ross] |
+| [[Macbeth|MACBETH]] | Had I but died an hour before this chance I had lived a blessed [[Time|time]], for from this instant There’s nothing serious in [[Mortality|mortality]]. All is but toys. Renown and grace is dead. The wine of life is drawn, and the mere lees Is left this vault to brag of. Enter [[Malcolm]] and Donalbain |
+| DONALBAIN | What is amiss? |
+| [[Macbeth|MACBETH]] | You are, and do not know’t. The [[Spring|spring]], the head, the fountain of your [[Blood|blood]] Is stopped, the very source of it is stopped. |
+| [[Macduff|MACDUFF]] | Your royal father’s murdered. |
+| [[Malcolm|MALCOLM]] | O, by whom? |
+| LENNOX | Those of his chamber, as it seemed, had done’t. Their hands and faces were all badged with [[Blood|blood]], So were their daggers, which, unwiped, we found Upon their pillows. They stared and were distracted. No man’s life was to be trusted with them. |
+| [[Macbeth|MACBETH]] | O, yet I do repent me of my fury That I did kill them. |
+| [[Macduff|MACDUFF]] | Wherefore did you so? |
+| [[Macbeth|MACBETH]] | Who can be wise, amazed, temp‘rate and furious, Loyal and neutral in a moment? No man. Th’expedition of my violent [[Love|love]] Outran the pauser, reason. Here lay [[Duncan]], His silver skin laced with his golden [[Blood|blood]], And his gashed stabs looked like a breach in [[Nature|nature]] For ruin’s wasteful entrance; there the murderers, Steeped in the colours of their trade, their daggers Unmannerly breeched with gore. Who could refrain, That had a heart to [[Love|love]], and in that heart [[Courage]] to make ’s [[Love|love]] known? |
+| [[Lady Macbeth|LADY MACBETH]] | Help me hence, ho! |
+| [[Macduff|MACDUFF]] | Look to the lady. |
+| [[Malcolm|MALCOLM]] | (aside to Donalbain) Why do we hold our tongues, That most may claim this argument for ours? |
+| DONALBAIN | (aside to [[Malcolm]]) What should be spoken here, where our fate, Hid in an auger-hole, may rush and seize us? Let’s away. Our [[Tears|tears]] are not yet brewed. |
+| [[Malcolm|MALCOLM]] | (aside to Donalbain) Nor our strong sorrow Upon the foot of motion. |
+| [[Banquo|BANQUO]] | Look to the lady; Exit [[Lady Macbeth]], attended And when we have our naked frailties hid, That suffer in exposure, let us meet And question this most bloody piece of work, To know it further. Fears and scruples shake us. In the great hand of God I stand, and thence Against the undivulged pretence I fight Of treasonous malice. |
+| [[Macduff|MACDUFF]] | And SO do I. |
+| SO | all. |
+| [[Macbeth|MACBETH]] | Let’s briefly put on manly readiness, And meet i’th’ hall together. |
+| ALL | [[Well]] contented. Exeunt all but [[Malcolm]] and Donalbain |
+| [[Malcolm|MALCOLM]] | What will you do? Let’s not consort with them. To show an unfelt sorrow is an office Which the false man does easy. I’ll to England. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_3--05_exchange_donalbain" data-title="Macbeth — Act II, Scene 3 — exchange (DONALBAIN) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| DONALBAIN | To Ireland, I. Our separated fortune Shall keep us both the safer. Where we are There’s daggers in men’s smiles. The nea’er in [[Blood|blood]], The nearer bloody. |
+| [[Malcolm|MALCOLM]] | This murderous shaft that’s shot Hath not yet lighted, and our safest way Is to avoid the aim. Therefore to [[Horse|horse]], And let us not be dainty of leave-taking, But shift away. There’s warrant in that theft Which steals itself when there’s no [[Mercy|mercy]] left. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Macbeth — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Banquo]] |
+| [[Banquo|BANQUO]] | Thou hast it now: [[King]], Cawdor, Glamis, all As the weird women promised; and I [[Fear|fear]] Thou played’st most foully for’t. Yet it was said It should not stand in thy posterity, But that myself should be the root and father Of many kings. If there come [[Truth|truth]] from them— As upon thee, [[Macbeth]], their speeches shine- Why by the verities on thee made good May they not be my oracles as [[Well|well]], And set me up in [[Hope|hope]]? But hush, no more. Sennet sounded. Enter [[Macbeth]] as [[King]], [[Lady Macbeth]] as [[Queen]], Lennox, Ross, lords, and attendants |
+| [[Macbeth|MACBETH]] | Here’s our chief guest. |
+| [[Lady Macbeth|LADY MACBETH]] | If he had been forgotten It had been as a gap in our great feast, And all-thing unbecoming. |
+| [[Macbeth|MACBETH]] | (to [[Banquo]]) Tonight we hold a solemn supper, sir, And I’ll request your presence. |
+| [[Banquo|BANQUO]] | Let your highness Command upon me, to the which my duties Are with a most indissoluble tie For ever knit. |
+| [[Macbeth|MACBETH]] | Ride you this afternoon? |
+| [[Banquo|BANQUO]] | Ay, my good lord. |
+| [[Macbeth|MACBETH]] | We should have else desired your good advice, Which still hath been both [[Grave|grave]] and prosperous, In this day’s council; but we’ll talk tomorrow. Is’t far you ride? |
+| [[Banquo|BANQUO]] | As far, my lord, as will fill up the [[Time|time]] ’Twixt this and supper. Go not my [[Horse|horse]] the better, I must become a borrower of the [[Night|night]] For a dark hour or twain. |
+| [[Macbeth|MACBETH]] | Fail not our feast. |
+| [[Banquo|BANQUO]] | My lord, I will not. |
+| [[Macbeth|MACBETH]] | We hear our bloody cousins are bestowed In England and in Ireland, not confessing Their cruel parricide, filling their hearers With strange invention. But of that tomorrow, When therewithal we shall have cause of state Craving us jointly. Hie you to [[Horse|horse]]. Adieu, Till you return at [[Night|night]]. Goes Fleance with you? |
+| [[Banquo|BANQUO]] | Ay, my good lord. Our [[Time|time]] does call upon ’s. |
+| [[Macbeth|MACBETH]] | I wish your horses swift and sure of foot, And so I do commend you to their backs. Farewell. Exit [[Banquo]] Let every man be master of his [[Time|time]] Till seven at [[Night|night]]. To make society The sweeter welcome, we will keep ourself Till supper-[[Time|time]] [[Alone|alone]]. While then, God be with you. Exeunt all but [[Macbeth]] and a Servant Sirrah, a word with you. Attend those men Our pleasure? |
+| SERVANT | They are, my lord, without the palace gate. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--02_monologue_macbeth" data-title="Macbeth — Act III, Scene 1 — monologue (MACBETH) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Macbeth|MACBETH]] | Bring them before us. Exit Servant To be thus is nothing But to be safely thus. Our fears in [[Banquo]] Stick deep, and in his royalty of [[Nature|nature]] Reigns that which would be feared. ‘Tis much he dares, And to that dauntless temper of his mind He hath a wisdom that doth guide his valour To act in safety. There is none but he Whose being I do [[Fear|fear]], and under him My genius is rebuked as, it is said, [[Mark Antony]]’s was by Caesar. He chid the sisters When first they put the name of [[King|king]] upon me, And bade them speak to him. Then, [[Prophet|prophet]]-like, They hailed him father to a line of kings. Upon my head they placed a fruitless [[Crown|crown]], And put a barren sceptre in my grip, Thence to be wrenched with an unlineal hand, No son of mine succeeding. If’t be so, For [[Banquo]]’s issue have I filed my mind, For them the gracious [[Duncan]] have I murdered, Put rancours in the vessel of my peace Only for them, and mine eternal [[Jewel|jewel]] Given to the common enemy of man To make them kings, the seeds of [[Banquo]] kings. Rather than so, come fate into the list And champion me to th’utterance. Who’s there? Enter Servant and two Murderers (To the Servant) Now go to the door, and stay there till we call. Exit Servant Was it not yesterday we spoke together? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--03_exchange_murderers" data-title="Macbeth — Act III, Scene 1 — exchange (MURDERERS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MURDERERS | It was, so please your highness. |
+| [[Macbeth|MACBETH]] | [[Well]] then, now Have you considered of my speeches? Know That it was he in the times past which held you So under fortune, which you thought had been Our [[Innocent|innocent]] [[Self|self]]. This I made good to you In our last conference, passed in probation with you How you were borne in hand, how crossed, the instruments, Who wrought with them, and all things else that might To half a [[Soul|soul]], and to a notion crazed, Say ‘Thus did [[Banquo]]’. |
+| FIRST MURDERER | You made it known to us. |
+| [[Macbeth|MACBETH]] | I did so, and went further, which is now Our point of second meeting. Do you find Your patience so predominant in your [[Nature|nature]] That you can let this go? Are you so gospelled To pray for this good man and for his issue, Whose heavy hand hath bowed you to the [[Grave|grave]] And beggared yours for ever? |
+| FIRST MURDERER | We are men, my liege. |
+| [[Macbeth|MACBETH]] | Ay, in the catalogue ye go for men, As hounds and greyhounds, mongrels, spaniels, curs, Shoughs, [[Water|water]]-rugs, and demi-wolves are clept All by the name of [[dogs]]. The valued file Distinguishes the swift, the slow, the subtle, The housekeeper, the hunter, every one According to the gift which bounteous [[Nature|nature]] Hath in him closed; whereby he does receive Particular addition from the bill That writes them all alike. And so of men. Now, if you have a station in the file, Not i‘th’ worst rank of manhood, say’t, And I will put that business in your bosoms Whose execution takes your enemy off, Grapples you to the heart and [[Love|love]] of us, Who wear our health but sickly in his life, Which in his [[Death|death]] were perfect. |
+| SECOND MURDERER | I am one, my liege, Whom the vile blows and buffets of the world Hath so incensed that I am reckless what I do to spite the world. |
+| FIRST MURDERER | And I another, So weary with disasters, tugged with fortune, That I would set my life on any chance To mend it or be rid on’t. |
+| [[Macbeth|MACBETH]] | Both of you Know [[Banquo]] was your enemy. |
+| MURDERERS | True, my lord. |
+| [[Macbeth|MACBETH]] | So is he mine, and in such bloody distance That every minute of his being thrusts Against my near’st of life; and though I could With barefaced power sweep him from my sight And bid my will avouch it, yet I must not, For certain friends that are both his and mine, Whose loves I may not drop, but wail his fall Who I myself struck down. And thence it is That I to your assistance do make [[Love|love]], Masking the business from the common eye For sundry weighty reasons. |
+| SECOND MURDERER | We shall, my lord, Perform what you command us. |
+| FIRST MURDERER | Though our lives— |
+| [[Macbeth|MACBETH]] | Your spirits shine through you. Within this hour at most I will advise you where to plant yourselves, Acquaint you with the perfect spy o‘th’ [[Time|time]], The moment on’t; for’t must be done tonight, And something from the palace; always thought That I require a clearness; and with him, To leave no rubs nor botches in the work, Fleance, his son, that keeps him company— Whose absence is no less material to me Than is his father’s—must embrace the fate Of that dark hour. Resolve yourselves apart. I’ll come to you anon. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--04_exchange_murderers" data-title="Macbeth — Act III, Scene 1 — exchange (MURDERERS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MURDERERS | We are resolved, my lord. |
+| [[Macbeth|MACBETH]] | I’ll call upon you straight. Abide within. Exeunt Murderers It is concluded. [[Banquo]], thy [[Soul|soul]]’s flight, If it find heaven, must find it out tonight. Exit |
+| [[Macbeth|MACBETH]] | 3.2 Enter [[Lady Macbeth]] and a Servant |
+| [[Lady Macbeth|LADY MACBETH]] | Is [[Banquo]] gone from [[Court|court]]? |
+| SERVANT | Ay, madam, but returns again tonight. |
+| [[Lady Macbeth|LADY MACBETH]] | Say to the [[King]] I would attend his leisure For a few words. |
+| SERVANT | Madam, I will. Exit |
+| [[Lady Macbeth|LADY MACBETH]] | Naught’s had, all’s spent, Where our [[Desire|desire]] is got without content. ’Tis safer to be that which we destroy Than by destruction dwell in doubtful joy. Enter [[Macbeth]] How now, my lord, why do you keep [[Alone|alone]], Of sorriest fancies your companions making, Using those thoughts which should indeed have died With them they think on? Things without all remedy Should be without regard. What’s done is done. |
+| [[Macbeth|MACBETH]] | We have scorched the snake, not killed it. She’ll close and be herself, whilst our poor malice Remains in danger of her former tooth. But let the frame of things disjoint, both the worlds suffer, Ere we will eat our meal in [[Fear|fear]], and [[Sleep|sleep]] In the affliction of these terrible [[Dreams|dreams]] That shake us nightly. Better be with the dead, Whom we to gain our peace have sent to peace, Than on the torture of the mind to lie In restless ecstasy. [[Duncan]] is in his [[Grave|grave]]. After life’s fitful fever he sleeps [[Well|well]]. Treason has done his worst. Nor steel nor [[Poison|poison]], Malice domestic, foreign levy, nothing Can touch him further. |
+| [[Lady Macbeth|LADY MACBETH]] | Come on, gentle my lord, Sleek o’er your rugged looks, be bright and jovial Among your guests tonight. |
+| [[Macbeth|MACBETH]] | So shall I, [[Love|love]], And so I pray be you. Let your remembrance Apply to [[Banquo]]. Present him eminence Both with eye and tongue; unsafe the while that we Must lave our honours in these flattering streams And make our faces visors to our hearts, Disguising what they are. |
+| [[Lady Macbeth|LADY MACBETH]] | You must leave this. |
+| [[Macbeth|MACBETH]] | O, full of scorpions is my mind, dear wife! Thou know’st that [[Banquo]] and his Fleance lives. |
+| [[Lady Macbeth|LADY MACBETH]] | But in them [[Nature|nature]]’s copy’s not eterne. |
+| [[Macbeth|MACBETH]] | There’s comfort yet, they are assailable. Then be thou jocund. Ere the bat hath flown His cloistered flight, ere to black Hecate’s summons The shard-borne beetle with his drowsy hums Hath rung [[Night|night]]’s yawning peal, there shall be done A deed of dreadful note. |
+| [[Lady Macbeth|LADY MACBETH]] | What’s to be done? |
+| [[Macbeth|MACBETH]] | Be [[Innocent|innocent]] of the knowledge, dearest chuck, Till thou applaud the deed.—Come, seeling [[Night|night]], Scarf up the tender eye of pitiful day, And with thy bloody and invisible hand Cancel and tear to pieces that great bond Which keeps me pale. Light thickens, and the crow Makes wing to th’ rooky wood. Good things of day begin to droop and drowse, Whiles [[Night|night]]’s black agents to their preys do rouse. Thou marvell’st at my words; but hold thee still. Things bad begun make strong themselves by ill. So prithee go with me. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--01_exchange_dialogue" data-title="Macbeth — Act III, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Banquet prepared. Enter [[Macbeth]] as [[King]], [[Lady Macbeth]] as [[Queen]], Ross, Lennox, Lords, and attendants. [[Lady Macbeth]] sits |
+| [[Macbeth|MACBETH]] | You know your own degrees; sit down. At first and last The hearty welcome. |
+| LORDS | Thanks to your majesty. They sit |
+| [[Macbeth|MACBETH]] | Ourself will mingle with society And play the humble host. Our hostess keeps her state, But in best [[Time|time]] we will require her welcome. |
+| [[Lady Macbeth|LADY MACBETH]] | Pronounce it for me, sir, to all our friends, For my heart speaks they are welcome. Enter First Murderer [to the door] |
+| [[Macbeth|MACBETH]] | See, they encounter thee with their hearts’ thanks. Both sides are even. Here I’ll sit, i’th’ midst. Be large in mirth. Anon we’ll drink a measure The table round. (To First Murderer) There’s [[Blood|blood]] upon thy face. |
+| FIRST MURDERER | (aside to [[Macbeth]]) ‘Tis [[Banquo]]’s, then. |
+| [[Macbeth|MACBETH]] | ’Tis better thee without than he within. Is he dispatched? |
+| FIRST MURDERER | My lord, his throat is cut. That I did for him. |
+| [[Macbeth|MACBETH]] | Thou art the best o’th’ cut-throats. Yet he’s good That did the like for Fleance. If thou didst it, Thou art the nonpareil. |
+| FIRST MURDERER | Most royal sir, Fleance is scaped. |
+| [[Macbeth|MACBETH]] | Then comes my fit again; I had else been perfect, Whole as the marble, founded as the rock, As broad and general as the casing air, But now I am cabined, cribbed, confined, bound in To saucy doubts and fears. But [[Banquo]]’s safe? |
+| FIRST MURDERER | Ay, my good lord. Safe in a ditch he bides, With twenty trenched gashes on his head, The least a [[Death|death]] to [[Nature|nature]]. |
+| [[Macbeth|MACBETH]] | Thanks for that. There the grown serpent lies. The worm that’s fled Hath [[Nature|nature]] that in [[Time|time]] will venom breed, No teeth for th’ present. Get thee gone. Tomorrow We’ll hear ourselves again. Exit First Murderer |
+| [[Lady Macbeth|LADY MACBETH]] | My royal lord, You do not give the cheer. The feast is sold That is not often vouched, while ‘tis a-making, ’Tis given with welcome. To feed were best at [[Home|home]]. From thence the sauce to meat is ceremony, Meeting were bare without it. Enter the [[Ghost]] of [[Banquo]], and sits in [[Macbeth]]’s |
+| [[Lady Macbeth|LADY MACBETH]] | place |
+| [[Macbeth|MACBETH]] | Sweet remembrancer. Now good digestion wait on appetite, And health on both. |
+| LENNOX | May’t please your highness sit? |
+| [[Macbeth|MACBETH]] | Here had we now our country’s [[Honour|honour]] roofed Were the graced person of our [[Banquo]] present, Who may I rather challenge for unkindness Than pity for mischance. |
+| ROSS | His absence, sir, Lays blame upon his promise. Please’t your highness To grace us with your royal company? |
+| [[Macbeth|MACBETH]] | The table’s full. |
+| LENNOX | Here is a place reserved, sir. |
+| [[Macbeth|MACBETH]] | Where? |
+| LENNOX | Here, my good lord. What is’t that moves your highness? |
+| [[Macbeth|MACBETH]] | Which of you have done this? |
+| LORDS | What, my good lord? |
+| [[Macbeth|MACBETH]] | (to the [[Ghost]]) Thou canst not say I did it. Never shake Thy gory locks at me. |
+| ROSS | (rising) Gentlemen, rise. His highness is not [[Well|well]]. |
+| [[Lady Macbeth|LADY MACBETH]] | (rising) Sit, worthy friends. My lord is often thus, And hath been from his youth. Pray you, keep seat. The fit is momentary. Upon a thought He will again be [[Well|well]]. If much you note him You shall offend him, and extend his passion. Feed, and regard him not. She speaks apart with [[Macbeth]] Are you a man? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--02_exchange_macbeth" data-title="Macbeth — Act III, Scene 4 — exchange (MACBETH) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Macbeth|MACBETH]] | Ay, and a bold one, that dare look on that Which might appal the devil. |
+| [[Lady Macbeth|LADY MACBETH]] | O proper stuff! This is the very painting of your [[Fear|fear]]; This is the air-drawn dagger which you said Led you to [[Duncan]]. O, these flaws and starts, Impostors to true [[Fear|fear]], would [[Well|well]] become A woman’s story at a [[Winter|winter]]’s [[Fire|fire]] Authorized by her grandam. Shame itself, Why do you make such faces? When all’s done You look but on a stool. |
+| [[Macbeth|MACBETH]] | Prithee see there. Behold, look, lo-how say you? Why, what care I? If thou canst nod, speak, too! If charnel-houses and our graves must send Those that we bury back, our monuments Shall be the maws of kites. Exit [[Ghost]] |
+| [[Lady Macbeth|LADY MACBETH]] | What, quite unmanned in folly? |
+| [[Macbeth|MACBETH]] | If I stand here, I saw him. |
+| [[Lady Macbeth|LADY MACBETH]] | Fie, for shame! |
+| [[Macbeth|MACBETH]] | [[Blood]] hath been shed ere now, i’th’ olden [[Time|time]], Ere human statute purged the gentle weal; Ay, and since, too, murders have been performed Too terrible for the ear. The [[Time|time]] has been That, when the brains were out, the man would die, And there an end. But now they rise again With twenty mortal murders on their crowns, And push us from our stools. This is more strange Than such a murder is. |
+| [[Lady Macbeth|LADY MACBETH]] | (aloud) My worthy lord, Your noble friends do lack you. |
+| [[Macbeth|MACBETH]] | I do forget. Do not muse at me, my most worthy friends. I have a strange infirmity which is nothing To those that know me. Come, [[Love|love]] and health to all, Then I’ll sit down. (To an attendant) Give me some wine. Fill full. Enter [[Ghost]] I drink to th’ general joy of th’whole table, And to our dear friend [[Banquo]], whom we miss. Would he were here. To all and him we thirst, And all to all. |
+| LORDS | Our duties, and the pledge. They drink |
+| [[Macbeth|MACBETH]] | (seeing the [[Ghost]]) Avaunt, and quit my sight! Let the earth hide thee. Thy bones are marrowless, thy [[Blood|blood]] is cold. Thou hast no speculation in those eyes Which thou dost glare with. |
+| [[Lady Macbeth|LADY MACBETH]] | Think of this, good peers, But as a thing of custom. ’Tis no other; Only it spoils the pleasure of the [[Time|time]]. |
+| [[Macbeth|MACBETH]] | What man dare, I dare. Approach thou like the rugged Russian bear, The armed rhinoceros, or th‘Hyrcan tiger; Take any shape but that, and my firm nerves Shall never tremble. Or be alive again, And dare me to the [[Desert|desert]] with thy [[Sword|sword]]. If trembling I inhabit then, protest me The baby of a girl. Hence, horrible [[Shadow|shadow]], Unreal mock’ry, hence! Exit [[Ghost]] Why so, being gone, I am a man again. Pray you sit still. |
+| [[Lady Macbeth|LADY MACBETH]] | You have displaced the mirth, broke the good meeting With most admired disorder. |
+| [[Macbeth|MACBETH]] | Can such things be And overcome us like a [[Summer|summer]]’s cloud, Without our special [[Wonder|wonder]]? You make me strange Even to the disposition that I owe, When now I think you can behold such sights And keep the natural ruby of your cheeks When mine is blanched with [[Fear|fear]]. Ross What sights, my lord? |
+| [[Lady Macbeth|LADY MACBETH]] | I pray you, speak not. He grows worse and worse. 116 Question enrages him. At once, good [[Night|night]]. Stand not upon the order of your going, But go at once. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_4--03_exchange_lennox" data-title="Macbeth — Act III, Scene 4 — exchange (LENNOX) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| LENNOX | Good [[Night|night]], and better health Attend his majesty. |
+| [[Lady Macbeth|LADY MACBETH]] | A kind good-[[Night|night]] to all. Exeunt Lords |
+| [[Macbeth|MACBETH]] | It will have [[Blood|blood]], they say. [[Blood]] will have [[Blood|blood]]. Stones have been known to move, and trees to speak, Augurs and understood relations have By maggot-pies and choughs and rooks brought forth The secret’st man of [[Blood|blood]]. What is the [[Night|night]]? |
+| [[Lady Macbeth|LADY MACBETH]] | Almost at odds with morning, which is which. |
+| [[Macbeth|MACBETH]] | How sayst thou that [[Macduff]] denies his person At our great bidding? |
+| [[Lady Macbeth|LADY MACBETH]] | Did you send to him, sir? |
+| [[Macbeth|MACBETH]] | I hear it by the way, but I will send. There’s not a one of them but in his [[house]] I keep a servant fee’d. I will tomorrow, And betimes I will, to the weird sisters. More shall they speak, for now I am bent to know By the worst means the worst. For mine own good All causes shall give way. I am in [[Blood|blood]] Stepped in so far that, should I wade no more, Returning were as tedious as go o’er. Strange things I have in head that will to hand, Which must be acted ere they may be scanned. |
+| [[Lady Macbeth|LADY MACBETH]] | You lack the season of all natures, [[Sleep|sleep]]. |
+| [[Macbeth|MACBETH]] | Come, we’ll to [[Sleep|sleep]]. My strange and [[Self|self]]-abuse Is the initiate [[Fear|fear]] that wants hard use. We are yet but young in deed. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="Macbeth — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A Cauldron. Thunder. Enter the [[Three Witches|three Witches]] |
+| FIRST [[Witch|WITCH]] | Thrice the brinded cat hath mewed. |
+| SECOND [[Witch|WITCH]] | Thrice, and once the hedge-pig whined. |
+| THIRD [[Witch|WITCH]] | Harpier cries “Tis [[Time|time]], ‘tis [[Time|time]].’ |
+| FIRST [[Witch|WITCH]] | Round about the cauldron go, In the poisoned entrails throw. Toad that under cold stone Days and nights has thirty-one Sweltered venom sleeping got, Boil thou first i’th’ charmed pot. |
+| ALL | [[Double]], [[Double|double]], toil and trouble, [[Fire]] burn, and cauldron bubble. |
+| SECOND [[Witch|WITCH]] | Fillet of a fenny snake, In the cauldron boil and bake. Eye of newt and toe of frog, Wool of bat and tongue of dog, Adder’s fork and blind-worm’s sting, Lizard’s leg and owlet’s wing, For a charm of powerful trouble, Like a hell-broth boil and bubble. |
+| ALL | [[Double]], [[Double|double]], toil and trouble, [[Fire]] burn, and cauldron bubble. |
+| THIRD [[Witch|WITCH]] | Scale of dragon, tooth of wolf, Witches’ mummy, maw and gulf Of the ravined salt-sea shark, Root of hemlock digged i‘th’ dark, Liver of blaspheming Jew, Gall of goat, and slips of yew Slivered in the [[Moon|moon]]’s eclipse, Nose of Turk, and Tartar’s lips, Finger of birth-strangled babe Ditch-delivered by a drab, Make the gruel thick and slab. Add thereto a tiger’s chaudron For th’ingredience of our cauldron. |
+| ALL | [[Double]], [[Double|double]], toil and trouble, [[Fire]] burn, and cauldron bubble. |
+| SECOND [[Witch|WITCH]] | Cool it with a baboon’s [[Blood|blood]], Then the charm is firm and good. Enter Hecate and the other [[Three Witches|three Witches]] |
+| HECATE | O, [[Well|well]] done! I commend your pains, And everyone shall share i’th’ gains. And now about the cauldron sing Like elves and fairies in a ring, Enchanting all that you put in. Music and a [[Song|song]] |
+| HECATE | Black spirits and white, red spirits and grey, Mingle, mingle, mingle, you that mingle may. |
+| FOURTH [[Witch|WITCH]] | Titty, Tiffin, keep it stiff in; Firedrake, Puckey, make it lucky; Liard, Robin, you must bob in. |
+| ALL | Round, around, around, about, about, All ill come running in, all good keep out. |
+| FOURTH [[Witch|WITCH]] | Here’s the [[Blood|blood]] of a bat. |
+| HECATE | Put in that, O put in that! |
+| FIFTH [[Witch|WITCH]] | Here’s leopard’s bane. |
+| HECATE | Put in a grain. |
+| FOURTH [[Witch|WITCH]] | The juice of toad, the oil of adder. |
+| FIFTH [[Witch|WITCH]] | Those will make the younker madder. |
+| HECATE | Put in, there’s all, and rid the stench. |
+| *(didascalia)* | A |
+| [[Witch|WITCH]] | Nay, here’s three ounces of a red-haired wench. |
+| ALL | Round, around, around, about, about, All ill come running in, all good keep out. |
+| SECOND [[Witch|WITCH]] | By the pricking of my thumbs, Something wicked this way comes. Knock within Open, locks, whoever knocks. Enter [[Macbeth]] |
+| [[Macbeth|MACBETH]] | How now, you secret, black, and midnight hags, What is’t you do? |
+| ALL THE WITCHES | A deed without a name. |
+| [[Macbeth|MACBETH]] | I conjure you by that which you profess, Howe’er you come to know it, answer me. Though you untie the winds and let them fight Against the churches, though the yeasty waves Confound and [[Swallow|swallow]] navigation up, Though bladed corn be lodged and trees blown down, Though castles topple on their warders’ heads, Though palaces and pyramids do slope Their heads to their foundations, though the treasure Of [[Nature|nature]]’s germens tumble all together Even till destruction sicken, answer me To what I ask you. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--02_exchange_first_witch" data-title="Macbeth — Act IV, Scene 1 — exchange (FIRST WITCH) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| FIRST [[Witch|WITCH]] | Speak. |
+| SECOND [[Witch|WITCH]] | Demand. |
+| THIRD [[Witch|WITCH]] | We’ll answer. |
+| FIRST [[Witch|WITCH]] | Say if thou’dst rather hear it from our mouths Or from our masters. |
+| [[Macbeth|MACBETH]] | Call ‘em, let me see ’em. |
+| FIRST [[Witch|WITCH]] | Pour in sow’s [[Blood|blood]] that hath eaten 80 Her nine farrow; grease that’s sweaten From the murderer’s gibbet throw Into the flame. |
+| ALL THE WITCHES | Come high or low, Thyself and office deftly show. Thunder. First Apparition: an armed head |
+| [[Macbeth|MACBETH]] | Tell me, thou unknown power— |
+| FIRST [[Witch|WITCH]] | He knows thy thought. Hear his speech, but say thou naught. |
+| FIRST APPARITION | [[Macbeth]], [[Macbeth]], [[Macbeth]], beware [[Macduff]], Beware the Thane of Fife. Dismiss me. Enough. Apparition descends |
+| [[Macbeth|MACBETH]] | Whate’er thou art, for thy good caution thanks. Thou hast harped my [[Fear|fear]] aright. But one word more— |
+| FIRST [[Witch|WITCH]] | He will not be commanded. Here’s another, More potent than the first. Thunder. Second Apparition: a bloody [[Child|child]] |
+| SECOND APPARITION | [[Macbeth]], [[Macbeth]], [[Macbeth]]. |
+| [[Macbeth|MACBETH]] | Had I three ears I’d hear thee. |
+| SECOND APPARITION | Be bloody, bold, and resolute. Laugh to scorn The power of man, for none of woman born Shall harm [[Macbeth]]. Apparition descends |
+| [[Macbeth|MACBETH]] | Then live, [[Macduff]]—what need I [[Fear|fear]] of thee? But yet I’ll make assurance [[Double|double]] sure, And take a bond of fate thou shalt not live, That I may tell pale-hearted [[Fear|fear]] it lies, And [[Sleep|sleep]] in spite of thunder. Thunder. Third Apparition: a [[Child|child]] crowned, with a |
+| [[Macbeth|MACBETH]] | tree in his hand What is this That rises like the issue of a [[King|king]], And wears upon his baby-brow the round And top of sovereignty? |
+| ALL THE WITCHES | Listen, but speak not to’t. |
+| THIRD APPARITION | Be [[Lion|lion]]-mettled, proud, and take no care Who chafes, who frets, or where conspirers are. [[Macbeth]] shall never vanquished be until Great Birnam Wood to high Dunsinane [[Hill]] Shall come against him. Apparition descends |
+| [[Macbeth|MACBETH]] | That will never be. Who can impress the forest, bid the tree Unfix his earth-bound root? Sweet bodements, good! Rebellious dead, rise never till the wood Of Birnam rise, and on’s high place [[Macbeth]] Shall live the lease of [[Nature|nature]], pay his breath To [[Time|time]] and mortal custom. Yet my heart Throbs to know one thing. Tell me, if your art Can tell so much, shall [[Banquo]]’s issue ever Reign in this kingdom? |
+| ALL THE WITCHES | Seek to know no more. |
+| [[Macbeth|MACBETH]] | I will be satisfied. Deny me this, And an eternal curse fall on you! Let me know. The cauldron sinks. Hautboys Why sinks that cauldron? And what noise is this? |
+| FIRST [[Witch|WITCH]] | Show. |
+| SECOND [[Witch|WITCH]] | Show. |
+| THIRD [[Witch|WITCH]] | Show. |
+| ALL THE WITCHES | Show his eyes and grieve his heart, Come like shadows, so depart. A show of eight kings, the last with a glass in his |
+| ALL THE WITCHES | hand; and [[Banquo]] |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--03_monologue_macbeth" data-title="Macbeth — Act IV, Scene 1 — monologue (MACBETH) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Macbeth|MACBETH]] | Thou art too like the spirit of [[Banquo]]. Down! Thy [[Crown|crown]] does sear mine eyeballs. And thy hair, Thou other gold-bound brow, is like the first. A third is like the former. Filthy hags, Why do you show me this?—A fourth? Start, eyes! What, will the line stretch out to th’ crack of doom? Another yet? A seventh? I’ll see no more— And yet the eighth appears, who bears a glass Which shows me many more; and some I see That twofold balls and treble sceptres carry. Horrible sight! Now I see ’tis true, For the [[Blood|blood]]-baltered [[Banquo]] smiles upon me, And points at them for his. Exeunt kings and [[Banquo]] |
+| *(didascalia)* | What, is this so? HECATE Ay, sir, all this is so. But why Stands [[Macbeth]] thus amazedly? Come, sisters, cheer we up his sprites, And show the best of our delights. I’ll charm the air to give a sound While you perform your antic round, That this great [[King|king]] may kindly say Our duties did his welcome pay. Music. The Witches [[Dance|dance]], and vanish |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--04_exchange_macbeth" data-title="Macbeth — Act IV, Scene 1 — exchange (MACBETH) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Macbeth|MACBETH]] | Where are they? Gone? Let this pernicious hour Stand aye accursed in the calendar. Come in, without there. Enter Lennox |
+| LENNOX | What’s your grace’s will? |
+| [[Macbeth|MACBETH]] | Saw you the weird sisters? |
+| LENNOX | No, my lord. |
+| [[Macbeth|MACBETH]] | Came they not by you? |
+| LENNOX | No, indeed, my lord. |
+| [[Macbeth|MACBETH]] | Infected be the air whereon they ride, And damned all those that trust them. I did hear The galloping of [[Horse|horse]]. Who was’t came by? |
+| LENNOX | ’Tis two or three, my lord, that bring you word [[Macduff]] is fled to England. |
+| [[Macbeth|MACBETH]] | Fled to England? |
+| LENNOX | Ay, my good lord. |
+| [[Macbeth|MACBETH]] | (aside) [[Time]], thou anticipat‘st my dread exploits. The flighty purpose never is o’ertook Unless the deed go with it. From this moment The very firstlings of my heart shall be The firstlings of my hand. And even now, To [[Crown|crown]] my thoughts with acts, be it thought and done: 165 The [[Castle|castle]] of [[Macduff]] I will surprise, Seize upon Fife, give to th‘edge o’th’ [[Sword|sword]] His wife, his babes, and all unfortunate souls That trace him in his line. No boasting like a [[Fool|fool]]; This deed I’ll do before this purpose cool. But no more sights! (To Lennox) Where are these gentlemen? Come bring me where they are. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--01_exchange_dialogue" data-title="Macbeth — Act IV, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Malcolm]] and [[Macduff]] |
+| [[Malcolm|MALCOLM]] | Let us seek out some desolate shade, and there Weep our sad bosoms empty. |
+| [[Macduff|MACDUFF]] | Let us rather Hold fast the mortal [[Sword|sword]], and like good men Bestride our downfall birthdom. Each new morn New widows howl, new orphans cry, new sorrows Strike heaven on the face that it resounds As if it felt with Scotland and yelled out Like syllable of dolour. |
+| [[Malcolm|MALCOLM]] | What I believe I’ll wail, What know believe; and what I can redress, As I shall find the [[Time|time]] to friend, I will. What you have spoke it may be so, perchance. This [[Tyrant|tyrant]], whose sole name blisters our tongues, Was once thought honest. You have loved him [[Well|well]]. He hath not touched you yet. I am young, but something You may discern of him through me: and wisdom To offer up a weak poor [[Innocent|innocent]] [[Lamb|lamb]] T’appease an angry god. |
+| [[Macduff|MACDUFF]] | I am not treacherous. |
+| [[Malcolm|MALCOLM]] | But [[Macbeth]] is. A good and virtuous [[Nature|nature]] may recoil In an imperial charge. But I shall crave your pardon. That which you are my thoughts cannot transpose. Angels are bright still, though the brightest fell. Though all things foul would wear the brows of grace, Yet grace must still look so. |
+| [[Macduff|MACDUFF]] | I have lost my hopes. |
+| [[Malcolm|MALCOLM]] | Perchance even there where I did find my doubts. Why in that rawness left you wife and [[Child|child]], Those precious motives, those strong knots of [[Love|love]], Without leave-taking? I pray you, Let not my jealousies be your dishonours, But mine own safeties. You may be rightly just, Whatever I shall think. |
+| [[Macduff|MACDUFF]] | Bleed, bleed, poor country! Great tyranny, lay thou thy basis sure, For goodness dare not check thee. Wear thou thy wrongs; The title is affeered. Fare thee [[Well|well]], lord. I would not be the [[Villain|villain]] that thou think’st For the whole space that’s in the [[Tyrant|tyrant]]’s grasp, And the rich east to boot. |
+| [[Malcolm|MALCOLM]] | Be not offended. I speak not as in absolute [[Fear|fear]] of you. I think our country sinks beneath the yoke. It weeps, it bleeds, and each new day a gash Is added to her wounds. I think withal There would be hands uplifted in my right, And here from gracious England have I offer Of goodly thousands. But for all this, When I shall tread upon the [[Tyrant|tyrant]]’s head, Or wear it on my [[Sword|sword]], yet my poor country Shall have more vices than it had before, More suffer, and more sundry ways, than ever, By him that shall succeed. |
+| [[Macduff|MACDUFF]] | What should he be? |
+| [[Malcolm|MALCOLM]] | It is myself I mean, in whom I know All the particulars of vice so grafted That when they shall be opened black [[Macbeth]] Will seem as pure as [[Snow|snow]], and the poor state Esteem him as a [[Lamb|lamb]], being compared With my confineless harms. |
+| [[Macduff|MACDUFF]] | Not in the legions Of horrid hell can come a devil more damned In evils to top [[Macbeth]]. |
+| [[Malcolm|MALCOLM]] | I grant him bloody, Luxurious, avaricious, false, deceitful, Sudden, malicious, smacking of every sin That has a name. But there’s no [[Bottom|bottom]], none, In my voluptuousness. Your wives, your daughters, Your matrons, and your maids could not fill up The cistern of my lust, and my [[Desire|desire]] All continent impediments would o’erbear That did oppose my will. Better [[Macbeth]] Than such an one to reign. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--02_exchange_macduff" data-title="Macbeth — Act IV, Scene 3 — exchange (MACDUFF) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Macduff|MACDUFF]] | Boundless intemperance In [[Nature|nature]] is a tyranny. It hath been Th’untimely emptying of the happy throne, And fall of many kings. But [[Fear|fear]] not yet To take upon you what is yours. You may Convey your pleasures in a spacious plenty And yet seem cold. The [[Time|time]] you may so hoodwink. We have willing dames enough. There cannot be That vulture in you to devour so many As will to [[Greatness|greatness]] dedicate themselves, Finding it so inclined. |
+| [[Malcolm|MALCOLM]] | With this there grows In my most ill-composed affection such A staunchless avarice that were I [[King|king]] I should cut off the nobles for their lands, [[Desire]] his jewels and this other’s [[house]], And my more having would be as a sauce To make me hunger more, that I should forge Quarrels unjust against the good and loyal, Destroying them for wealth. |
+| [[Macduff|MACDUFF]] | This avarice Sticks deeper, grows with more pernicious root Than [[Summer|summer]]-seeming lust, and it hath been The [[Sword|sword]] of our slain kings. Yet do not [[Fear|fear]]. Scotland hath foisons to fill up your will Of your mere own. All these are portable, With other graces weighed. |
+| [[Malcolm|MALCOLM]] | But I have none. The [[King|king]]-becoming graces, As justice, verity, temp’rance, stableness, Bounty, perseverance, [[Mercy|mercy]], lowliness, Devotion, patience, [[Courage|courage]], fortitude, I have no relish of them, but abound In the division of each several crime, Acting it many ways. Nay, had I power I should Pour the sweet milk of concord into hell, Uproar the universal peace, confound All [[unity]] on earth. |
+| [[Macduff|MACDUFF]] | O Scotland, Scotland! |
+| [[Malcolm|MALCOLM]] | If such a one be fit to govern, speak. I am as I have spoken. |
+| [[Macduff|MACDUFF]] | Fit to govern? No, not to live. O nation miserable, With an untitled [[Tyrant|tyrant]] bloody-sceptered, When shalt thou see thy wholesome days again, Since that the truest issue of thy throne By his own interdiction stands accursed And does blaspheme his breed? Thy royal father Was a most sainted [[King|king]]. The [[Queen]] that bore thee, Oft‘ner upon her knees than on her feet, Died every day she lived. Fare thee [[Well|well]]. These evils thou repeat’st upon thyself Hath banished me from Scotland. O, my breast— Thy [[Hope|hope]] ends here! |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--03_monologue_malcolm" data-title="Macbeth — Act IV, Scene 3 — monologue (MALCOLM) [3]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Malcolm|MALCOLM]] | [[Macduff]], this noble passion, [[Child]] of integrity, hath from my [[Soul|soul]] Wiped the black scruples, reconciled my thoughts To thy good [[Truth|truth]] and [[Honour|honour]]. Devilish [[Macbeth]] By many of these trains hath sought to win me Into his power, and modest wisdom plucks me From over-credulous haste; but God above Deal between thee and me, for even now I put myself to thy direction and Unspeak mine own detraction, here abjure The taints and blames I laid upon myself For strangers to my [[Nature|nature]]. I am yet Unknown to woman, never was forsworn, Scarcely have coveted what was mine own, At no [[Time|time]] broke my [[Faith|faith]], would not betray The devil to his fellow, and delight No less in [[Truth|truth]] than life. My first false-speaking Was this upon myself. What I am truly Is thine and my poor country’s to command, Whither indeed, before thy here-approach, Old Siward with ten thousand warlike men, Already at a point, was setting forth. Now we’ll together; and the chance of goodness Be like our warranted quarrel!—Why are you silent? |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--04_exchange_macduff" data-title="Macbeth — Act IV, Scene 3 — exchange (MACDUFF) [4]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Macduff|MACDUFF]] | Such welcome and unwelcome things at once ’is hard to reconcile. Enter a Doctor |
+| [[Malcolm|MALCOLM]] | [[Well]], more anon. (To the Doctor) Comes the [[King]] forth, I pray you? |
+| DOCTOR | Ay, sir. There are a crew of wretched souls That stay his cure. Their malady convinces The great [[Essay|essay]] of art, but at his touch, Such sanctity hath Heaven given his hand, They presently amend. |
+| [[Malcolm|MALCOLM]] | I thank you, doctor. Exit Doctor |
+| [[Macduff|MACDUFF]] | What’s the disease he means? |
+| [[Malcolm|MALCOLM]] | ’is called the evil— A most miraculous work in this good [[King]], Which often since my here-remain in England I have seen him do. How he solicits heaven Himself best knows, but strangely visited people, All swoll’n and ulcerous, pitiful to the eye, The mere [[Despair|despair]] of surgery, he cures, Hanging a golden stamp about their necks, Put on with holy prayers; and ’is spoken, To the succeeding royalty he [[Leaves|leaves]] The healing benediction. With this strange virtue He hath a heavenly gift of prophecy, And sundry blessings hang about his throne That speak him full of grace. Enter Ross |
+| [[Macduff|MACDUFF]] | See who comes here. |
+| [[Malcolm|MALCOLM]] | My countryman, but yet I know him not. |
+| [[Macduff|MACDUFF]] | My ever gentle cousin, welcome hither. |
+| [[Malcolm|MALCOLM]] | I know him now. Good God betimes remove The means that makes us strangers! Ross Sir, amen. |
+| [[Macduff|MACDUFF]] | Stands Scotland where it did? Ross Alas, poor country, Almost afraid to know itself. It cannot Be called our mother, but our [[Grave|grave]], where nothing But who knows nothing is once seen to smile; Where sighs and groans and shrieks that rend the air Are made, not marked; where violent sorrow seems A modern ecstasy. The dead man’s knell Is there scarce asked for who, and good men’s lives Expire before the [[Flowers|flowers]] in their caps, Dying or ere they sicken. |
+| [[Macduff|MACDUFF]] | O relation Too nice and yet too true! |
+| [[Malcolm|MALCOLM]] | What’s the newest grief? |
+| ROSS | That of an hour’s age doth hiss the speaker; Each minute teems a new one. |
+| [[Macduff|MACDUFF]] | How does my wife? |
+| ROSS | Why, [[Well|well]]. |
+| [[Macduff|MACDUFF]] | And all my children? Ross [[Well]], too. |
+| [[Macduff|MACDUFF]] | The [[Tyrant|tyrant]] has not battered at their peace? |
+| ROSS | No, they were [[Well|well]] at peace when I did leave ’em. |
+| [[Macduff|MACDUFF]] | Be not a niggard of your speech. How goes’t? |
+| ROSS | When I came hither to transport the tidings Which I have heavily borne, there ran a rumour Of many worthy fellows that were out, Which was to my belief witnessed the rather For that I saw the [[Tyrant|tyrant]]’s power afoot. Now is the [[Time|time]] of help. (To [[Malcolm]]) Your eye in Scotland Would create soldiers, make our women fight To doff their dire distresses. |
+| [[Malcolm|MALCOLM]] | Be’t their comfort We are coming thither. Gracious England hath Lent us good Siward and ten thousand men; An older and a better soldier none That Christendom gives out. Ross Would I could answer This comfort with the like. But I have words That would be howled out in the [[Desert|desert]] air Where hearing should not latch them. |
+| [[Macduff|MACDUFF]] | What concern they— The general cause, or is it a fee-grief Due to some single breast? Ross No mind that’s honest But in it shares some woe, though the main part Pertains to you [[Alone|alone]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_3--05_exchange_macduff" data-title="Macbeth — Act IV, Scene 3 — exchange (MACDUFF) [5]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Macduff|MACDUFF]] | If it be mine, Keep it not from me; quickly let me have it. |
+| ROSS | Let not your ears despise my tongue for ever, Which shall possess them with the heaviest sound That ever yet they heard. |
+| [[Macduff|MACDUFF]] | H’m, I guess at it. |
+| ROSS | Your [[Castle|castle]] is surprised, your wife and babes Savagely slaughtered. To relate the manner Were on the quarry of these murdered deer To add the [[Death|death]] of you. |
+| [[Malcolm|MALCOLM]] | Merciful heaven! (To [[Macduff]]) What, man, ne’er pull your hat upon your brows. Give sorrow words. The grief that does not speak Whispers the o’erfraught heart and bids it break. |
+| [[Macduff|MACDUFF]] | My children too? Ross Wife, children, servants, all That could be found. |
+| [[Macduff|MACDUFF]] | And I must be from thence! My wife killed too? |
+| ROSS | I have said. |
+| [[Malcolm|MALCOLM]] | Be comforted. Let’s make us medicines of our great [[Revenge|revenge]] To cure this deadly grief. |
+| [[Macduff|MACDUFF]] | He has no children. All my pretty ones? Did you say all? O hell-kite! All? What, all my pretty chickens and their dam At one fell swoop? |
+| [[Malcolm|MALCOLM]] | Dispute it like a man. |
+| [[Macduff|MACDUFF]] | I shall do so, But I must also feel it as a man. I cannot but remember such things were That were most precious to me. Did heaven look on And would not take their part? Sinful [[Macduff]], They were all struck for thee. Naught that I am, Not for their own demerits but for mine Fell slaughter on their souls. Heaven rest them now. |
+| [[Malcolm|MALCOLM]] | Be this the whetstone of your [[Sword|sword]]. Let grief [[convert|Convert]] to anger: blunt not the heart, enrage it. |
+| [[Macduff|MACDUFF]] | O, I could play the woman with mine eyes And braggart with my tongue! But gentle heavens Cut short all intermission. Front to front Bring thou this fiend of Scotland and myself. Within my [[Sword|sword]]’s length set him. If he scape, Heaven forgive him too. |
+| [[Malcolm|MALCOLM]] | This tune goes manly. Come, go we to the [[King]]. Our power is ready; Our lack is nothing but our leave. [[Macbeth]] Is ripe for shaking, and the powers above Put on their instruments. Receive what cheer you may: The [[Night|night]] is long that never finds the day. Exeunt |
+
+
 
 
 <span class="atom-split" data-atom="macbeth" data-title="MACBETH" data-chapter="" data-kind="intro"></span>
@@ -1011,566 +1571,6 @@ The [[Tragedy]] of [[Macbeth]]
 | *(didascalia)* | Flourish. Exeunt Omnes |
 | FIRST | printed in the 1623 Folio, Antony and [[Cleopatra]] had been entered on the Stationers’ Register on 20 May 1608. Echoes of it in Barnabe Barnes’s [[Tragedy|tragedy]] The Devil’s Charter, acted by Shakespeare’s company in February 1607, suggest that Shakespeare wrote his play no later than 1606, and stylistic evidence supports that date.<br>The Life of Marcus Antonius in Sir Thomas North’s [[Translation|translation]] of Plutarch’s Lives of the Noble Grecians and Romans (1579) was one of the sources for [[Julius Caesar]]; it also provided Shakespeare with most of his material for Antony and [[Cleopatra]], in which he draws upon its language to a remarkable extent even in some of the play’s most poetic passages. For example, [[Enobarbus]]’ famous description of [[Cleopatra]] in her barge (2.2.197-225) incorporates phrase after phrase of North’s prose. And the play’s action stays close to North’s account, though with significant adjustments, particularly compressions of the [[Time|time]]-scheme. It opens in 40 BC, two years after the end of [[Julius Caesar]], and portrays events that took place over a period of ten years. [[Mark Antony]] has become an older man, though Octavius is still ‘scarce-bearded’. Plutarch, who was a connoisseur of human behaviour, also afforded many hints for the characterization; but some characters, particularly Antony’s comrade Domitius [[Enobarbus]] and [[Cleopatra]]’s women, [[Charmian]] and Iras, are largely created by Shakespeare.<br>In the earlier play, [[Mark Antony]] had formed a triumvirate with [[Octavius Caesar]] and [[Lepidus]]. In Antony and [[Cleopatra]] the triumvirate is in a state of disintegration, partly because [[Mark Antony]]—married at the play’s opening to Fulvia, who is rebelling against [[Octavius Caesar]]—is infatuated with [[Cleopatra]], [[Queen]] of [[Egypt]] (and the former mistress of [[Julius Caesar]]). The play’s action swings between Rome and Alexandria as Antony is torn between the claims of Rome—strengthened for a while by his [[Marriage|marriage]], after Fulvia’s [[Death|death]], to [[Octavius Caesar]]’s sister [[Octavia]]—and the temptations of [[Egypt]]. Gradually opposition between Antony and Octavius increases, until they engage in a sea-fight near Actium (in Greece), in which Antony follows [[Cleopatra]]’s navy in ignominious retreat. The closing stages of the [[Double|double]] [[Tragedy|tragedy]] portray Antony’s shame, humiliation, and [[suicide]] after [[Cleopatra]] falsely causes him to believe that she has killed herself; faced with the threat that Caesar will take her captive to Rome, [[Cleopatra]] too commits [[suicide]]. According to Plutarch, she was thirty-eight years old; as for Antony, ‘some say that he lived three-and-fifty years, and others say, six-and-fifty’.<br>In Antony and [[Cleopatra]] the classical restraint of [[Julius Caesar]] gives way to a fine excess of language, of dramatic action, and of individual behaviour. The style is hyperbolical, overflowing the measure of the iambic pentameter. The action is amazingly fluid, shifting with an ease and rapidity that caused bewilderment to ages unfamiliar with the conventions of Shakespeare’s theatre. And the characterization is correspondingly extravagant, delighting in the quirks of individual behaviour, above all in the paradoxes and inconsistencies of the Egyptian [[Queen|queen]] who contains within herself the capacity for every extreme of human behaviour, from [[Vanity|vanity]], meanness, and frivolity to the [[Sublime|sublime]] [[Self|self]]-transcendence with which she faces and embraces [[Death|death]]. |
 | THE PERSONS OF THE | PLAY |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="Macbeth — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Thunder. Enter the [[Three Witches|three Witches]] |
-| FIRST [[Witch|WITCH]] | Where hast thou been, sister? |
-| SECOND [[Witch|WITCH]] | Killing swine. |
-| THIRD [[Witch|WITCH]] | Sister, where thou? |
-| FIRST [[Witch|WITCH]] | A sailor’s wife had chestnuts in her lap, And munched, and munched, and munched. ‘Give me,’ quoth I. ‘Aroint thee, [[Witch|witch]],’ the rump-fed runnion cries. Her husband’s to Aleppo gone, master o’th’ Tiger. But in a sieve I’ll thither sail, And like a rat without a tail I’ll do, I’ll do, and I’ll do. |
-| SECOND [[Witch|WITCH]] | I’ll give thee a [[Wind|wind]]. |
-| FIRST [[Witch|WITCH]] | Thou’rt kind. |
-| THIRD [[Witch|WITCH]] | And I another. |
-| FIRST [[Witch|WITCH]] | I myself have all the other, And the very ports they blow, All the quarters that they know I’th’ shipman’s card. I’ll drain him dry as hay. [[Sleep]] shall neither [[Night|night]] nor day Hang upon his penthouse lid. He shall live a man forbid. Weary sennights nine times nine Shall he dwindle, peak, and pine. Though his barque cannot be lost, Yet it shall be tempest-tossed. Look what I have. |
-| SECOND [[Witch|WITCH]] | Show me, show me. |
-| FIRST [[Witch|WITCH]] | Here I have a pilot’s thumb, Wrecked as homeward he did come. Drum within |
-| THIRD [[Witch|WITCH]] | A drum, a drum— [[Macbeth]] doth come. |
-| ALL | (dancing in a ring) The weird sisters hand in hand, Posters of the sea and land, Thus do go about, about, Thrice to thine, and thrice to mine, And thrice again to make up nine. Peace! The charm’s wound up. Enter [[Macbeth]] and [[Banquo]] |
-| [[Macbeth|MACBETH]] | So foul and fair a day I have not seen. |
-| [[Banquo|BANQUO]] | How far is’t called to Forres?—What are these, So withered, and so wild in their attire, That look not like th‘inhabitants o’th’ earth And yet are on’t?—Live you, or are you aught That man may question? You seem to understand me By each at once her choppy finger laying Upon her skinny lips. You should be women, And yet your beards forbid me to interpret That you are so. |
-| [[Macbeth|MACBETH]] | (to the Witches) Speak, if you can. What are you? |
-| FIRST [[Witch|WITCH]] | All hail, [[Macbeth]]! Hail to thee, Thane of Glamis. |
-| SECOND [[Witch|WITCH]] | All hail, [[Macbeth]]! Hail to thee, Thane of Cawdor. |
-| THIRD [[Witch|WITCH]] | All hail, [[Macbeth]], that shalt be [[King|king]] hereafter! |
-| [[Banquo|BANQUO]] | Good sir, why do you start and seem to [[Fear|fear]] Things that do sound so fair? (To the Witches) I’th’ name of [[Truth|truth]], Are ye fantastical or that indeed Which outwardly ye show? My noble partner You greet with present grace and great prediction Of noble having and of royal [[Hope|hope]], That he seems rapt withal. To me you speak not. If you can look into the seeds of [[Time|time]] And say which grain will grow and which will not, Speak then to me, who neither beg nor [[Fear|fear]] Your favours nor your hate. |
-| FIRST [[Witch|WITCH]] | Hail! |
-| SECOND [[Witch|WITCH]] | Hail! |
-| THIRD [[Witch|WITCH]] | Hail! |
-| FIRST [[Witch|WITCH]] | Lesser than [[Macbeth]], and greater. |
-| SECOND [[Witch|WITCH]] | Not so happy, yet much happier. |
-| THIRD [[Witch|WITCH]] | Thou shalt get kings, though thou be none. So all hail, [[Macbeth]] and [[Banquo]]! |
-| FIRST [[Witch|WITCH]] | [[Banquo]] and [[Macbeth]], all hail! |
-| [[Macbeth|MACBETH]] | Stay, you imperfect speakers, tell me more. By Sinel’s [[Death|death]] I know I am Thane of Glamis, But how of Cawdor? The Thane of Cawdor lives, A prosperous gentleman, and to be [[King|king]] Stands not within the prospect of belief, No more than to be Cawdor. Say from whence You owe this strange intelligence, or why Upon this blasted heath you stop our way With such prophetic greeting. Speak, I charge you. The Witches vanish |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--02_exchange_banquo" data-title="Macbeth — Act I, Scene 3 — exchange (BANQUO) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Banquo|BANQUO]] | The earth hath bubbles, as the [[Water|water]] has, And these are of them. Whither are they vanished? |
-| [[Macbeth|MACBETH]] | Into the air, and what seemed corporal Melted as breath into the [[Wind|wind]]. Would they had stayed. |
-| [[Banquo|BANQUO]] | Were such things here as we do speak about, Or have we eaten on the insane root That takes the reason prisoner? |
-| [[Macbeth|MACBETH]] | Your children shall be kings. |
-| [[Banquo|BANQUO]] | You shall be [[King|king]]. |
-| [[Macbeth|MACBETH]] | And Thane of Cawdor too. Went it not so? |
-| [[Banquo|BANQUO]] | To th’ [[Self|self]]-same tune and words. Who’s here? Enter Ross and Angus |
-| ROSS | The [[King]] hath happily received, [[Macbeth]], The news of thy [[success]], and when he reads Thy personal venture in the rebels’ sight His wonders and his praises do contend Which should be thine or his; silenced with that, In viewing o‘er the rest o’th’ [[Self|self]]-same day He finds thee in the stout Norwegian ranks, Nothing afeard of what thyself didst make, Strange images of [[Death|death]]. As thick as hail Came post with post, and every one did bear Thy praises in his kingdom’s great defence, And poured them down before him. |
-| ANGUS | (to [[Macbeth]]) We are sent To give thee from our royal master thanks; Only to herald thee into his sight, Not pay thee. |
-| ROSS | And, for an earnest of a greater [[Honour|honour]], He bade me from him call thee Thane of Cawdor, In which addition, hail, most worthy thane, For it is thine. |
-| [[Banquo|BANQUO]] | What, can the devil speak true? |
-| [[Macbeth|MACBETH]] | The Thane of Cawdor lives. Why do you dress me In borrowed robes? |
-| ANGUS | Who was the thane lives yet, But under heavy judgement bears that life Which he deserves to lose. Whether he was combined With those of Norway, or did line the [[Rebel|rebel]] With hidden help and vantage, or that with both He laboured in his country’s wrack, I know not; But treasons capital, confessed, and proved Have overthrown him. |
-| [[Macbeth|MACBETH]] | (aside) Glamis, and Thane of Cawdor. The greatest is behind. (To Ross and Angus) Thanks for your pains. (To [[Banquo]]) Do you not [[Hope|hope]] your children shall be kings When those that gave the thane of Cawdor to me Promised no less to them? |
-| [[Banquo|BANQUO]] | That, trusted [[Home|home]], Might yet enkindle you unto the [[Crown|crown]], Besides the thane of Cawdor. But ’tis strange, And oftentimes to win us to our harm The instruments of darkness tell us truths, Win us with honest trifles to betray’s In deepest consequence. (To Ross and Angus) Cousins, a word, I pray you. |
-| [[Macbeth|MACBETH]] | (aside) Two truths are told As happy prologues to the swelling act Of the imperial theme. (To Ross and Angus) I thank you, gentlemen. (Aside) This [[Supernatural|supernatural]] soliciting Cannot be ill, cannot be good. If ill, Why hath it given me earnest of [[success]] Commencing in a [[Truth|truth]]? I am Thane of Cawdor. If good, why do I yield to that suggestion Whose horrid image doth unfix my hair And make my seated heart knock at my ribs Against the use of [[Nature|nature]]? Present fears Are less than horrible imaginings. My thought, whose murder yet is but fantastical, Shakes so my single state of man that function Is smothered in surmise, and nothing is But what is not. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--03_exchange_banquo" data-title="Macbeth — Act I, Scene 3 — exchange (BANQUO) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Banquo|BANQUO]] | (to Ross and Angus) Look how our partner’s rapt. [[Macbeth|MACBETH]](aside) If chance will have me [[King|king]], why, chance may [[Crown|crown]] me Without my stir. |
-| [[Banquo|BANQUO]] | (to Ross and Angus) New honours come upon him, Like our strange garments, cleave not to their mould But with the aid of use. |
-| [[Macbeth|MACBETH]] | (aside) Come what come may, [[Time]] and the hour runs through the roughest day. |
-| [[Banquo|BANQUO]] | Worthy [[Macbeth]], we stay upon your leisure. |
-| [[Macbeth|MACBETH]] | Give me your favour. My dull brain was wrought With things forgotten. (To Ross and Angus) Kind gentlemen, your pains Are registered where every day I turn The leaf to read them. Let us toward the [[King]]. (Aside to [[Banquo]]) Think upon what hath chanced, and at more [[Time|time]], The interim having weighed it, let us speak Our free hearts each to other. |
-| [[Banquo|BANQUO]] | Very gladly. |
-| [[Macbeth|MACBETH]] | Till then, enough. (To Ross and Angus) Come, friends. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--01_exchange_dialogue" data-title="Macbeth — Act II, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter a Porter. Knocking within |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--02_monologue_porter" data-title="Macbeth — Act II, Scene 3 — monologue (PORTER) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| PORTER | Here’s a knocking indeed! If a man were porter of hell-gate he should have old turning the key. Knock within |
-| PORTER | Knock, knock, knock. Who’s there, i‘th’ name of Beelzebub? Here’s a farmer that hanged himself on th’expectation of plenty. Come in [[Time|time]]! Have napkins enough about you; here you’ll sweat for’t. Knock within |
-| PORTER | Knock, knock. Who’s there, in th‘other devil’s name? [[Faith]], here’s an equivocator that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven. O, come in, equivocator. Knock within |
-| PORTER | Knock, knock, knock. Who’s there? ’[[Faith]], here’s an English tailor come hither for stealing out of a French hose. Come in, tailor. Here you may roast your goose. Knock within |
-| PORTER | Knock, knock. Never at quiet. What are you?—But this place is too cold for hell. I’ll devil-porter it no further. I had thought to have let in some of all professions that go the primrose way to th’everlasting bonfire. Knock within |
-| PORTER | Anon, anon! He opens the gate |
-| PORTER | I pray you remember the porter. Enter [[Macduff]] and Lennox |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--03_exchange_macduff" data-title="Macbeth — Act II, Scene 3 — exchange (MACDUFF) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Macduff|MACDUFF]] | Was it so late, friend, ere you went to bed That you do lie so late? |
-| PORTER | [[Faith]], sir, we were carousing till the second cock, and drink, sir, is a great provoker of three things. |
-| [[Macduff|MACDUFF]] | What three things does drink especially provoke? |
-| PORTER | Marry, sir, nose-painting, [[Sleep|sleep]], and urine. Lechery, sir, it provokes and unprovokes: it provokes the [[Desire|desire]] but it takes away the performance. Therefore much drink may be said to be an equivocator with lechery: it makes him and it mars him; it sets him on and it takes him off; it persuades him and disheartens him, makes him stand to and not stand to; in conclusion, equivocates him in a [[Sleep|sleep]], and, giving him the lie, [[Leaves|leaves]] him. |
-| [[Macduff|MACDUFF]] | I believe drink gave thee the lie last [[Night|night]]. |
-| PORTER | That it did, sir, i’the very throat on me; but I requited him for his lie, and, I think, being too strong for him, though he took up my legs sometime, yet I made a shift to cast him. |
-| [[Macduff|MACDUFF]] | Is thy master stirring? Enter [[Macbeth]] Our knocking has awaked him: here he comes. [Exit Porter] |
-| LENNOX | (to [[Macbeth]]) Good morrow, noble sir. |
-| [[Macbeth|MACBETH]] | Good morrow, both. |
-| [[Macduff|MACDUFF]] | Is the [[King]] stirring, worthy thane? |
-| [[Macbeth|MACBETH]] | Not yet. |
-| [[Macduff|MACDUFF]] | He did command me to call timely on him. I have almost slipped the hour. |
-| [[Macbeth|MACBETH]] | I’ll bring you to him. |
-| [[Macduff|MACDUFF]] | I know this is a joyful trouble to you, But yet ’tis one. |
-| [[Macbeth|MACBETH]] | The labour we delight in physics [[Pain|pain]]. This is the door. |
-| [[Macduff|MACDUFF]] | I’ll make so bold to call, For ’tis my limited service. Exit [[Macduff]] |
-| LENNOX | Goes the [[King]] hence today? |
-| [[Macbeth|MACBETH]] | He does; he did appoint so. |
-| LENNOX | The [[Night|night]] has been unruly. Where we lay Our chimneys were blown down, and, as they say, Lamentings heard i’th’ air, strange screams of [[Death|death]], And prophesying with accents terrible Of dire combustion and confused events New-hatched to th’ woeful [[Time|time]]. The obscure bird Clamoured the livelong [[Night|night]]. Some say the earth Was feverous and did shake. |
-| [[Macbeth|MACBETH]] | ’Twas a rough [[Night|night]]. |
-| LENNOX | My young remembrance cannot parallel A fellow to it. Enter [[Macduff]] |
-| [[Macduff|MACDUFF]] | O horror, horror, horror! Tongue nor heart cannot conceive nor name thee. |
-| [[Macbeth|MACBETH]] | and LENNOX What’s the matter? |
-| [[Macduff|MACDUFF]] | Confusion now hath made his masterpiece. Most sacrilegious murder hath broke ope The Lord’s anointed temple and stole thence The life o’th’ building. |
-| [[Macbeth|MACBETH]] | What is’t you say—the life? |
-| LENNOX | Mean you his majesty? |
-| [[Macduff|MACDUFF]] | Approach the chamber and destroy your sight With a new Gorgon. Do not bid me speak. See, and then speak yourselves. Exeunt [[Macbeth]] and Lennox Awake, awake! Ring the alarum bell. Murder and treason! [[Banquo]] and Donalbain, [[Malcolm]], awake! Shake off this downy [[Sleep|sleep]], [[Death|death]]’s counterfeit, And look on [[Death|death]] itself. Up, up, and see The great doom’s image. [[Malcolm]], [[Banquo]], As from your graves rise up, and walk like sprites To countenance this horror. Bell rings. Enter [[Lady Macbeth]] |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--04_exchange_lady_macbeth" data-title="Macbeth — Act II, Scene 3 — exchange (LADY MACBETH) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Lady Macbeth|LADY MACBETH]] | What’s the business, That such a hideous trumpet calls to parley The sleepers of the [[house]]? Speak, speak. |
-| [[Macduff|MACDUFF]] | O gentle lady, ’Tis not for you to hear what I can speak. The repetition in a woman’s ear Would murder as it fell. Enter [[Banquo]] |
-| [[Macduff|MACDUFF]] | O [[Banquo]], [[Banquo]], Our royal master’s murdered! |
-| [[Lady Macbeth|LADY MACBETH]] | Woe, alas— What, in our [[house]]? |
-| [[Banquo|BANQUO]] | Too cruel anywhere. Dear Duff, I prithee contradict thyself, And say it is not so. Enter [[Macbeth]], Lennox, [and Ross] |
-| [[Macbeth|MACBETH]] | Had I but died an hour before this chance I had lived a blessed [[Time|time]], for from this instant There’s nothing serious in [[Mortality|mortality]]. All is but toys. Renown and grace is dead. The wine of life is drawn, and the mere lees Is left this vault to brag of. Enter [[Malcolm]] and Donalbain |
-| DONALBAIN | What is amiss? |
-| [[Macbeth|MACBETH]] | You are, and do not know’t. The [[Spring|spring]], the head, the fountain of your [[Blood|blood]] Is stopped, the very source of it is stopped. |
-| [[Macduff|MACDUFF]] | Your royal father’s murdered. |
-| [[Malcolm|MALCOLM]] | O, by whom? |
-| LENNOX | Those of his chamber, as it seemed, had done’t. Their hands and faces were all badged with [[Blood|blood]], So were their daggers, which, unwiped, we found Upon their pillows. They stared and were distracted. No man’s life was to be trusted with them. |
-| [[Macbeth|MACBETH]] | O, yet I do repent me of my fury That I did kill them. |
-| [[Macduff|MACDUFF]] | Wherefore did you so? |
-| [[Macbeth|MACBETH]] | Who can be wise, amazed, temp‘rate and furious, Loyal and neutral in a moment? No man. Th’expedition of my violent [[Love|love]] Outran the pauser, reason. Here lay [[Duncan]], His silver skin laced with his golden [[Blood|blood]], And his gashed stabs looked like a breach in [[Nature|nature]] For ruin’s wasteful entrance; there the murderers, Steeped in the colours of their trade, their daggers Unmannerly breeched with gore. Who could refrain, That had a heart to [[Love|love]], and in that heart [[Courage]] to make ’s [[Love|love]] known? |
-| [[Lady Macbeth|LADY MACBETH]] | Help me hence, ho! |
-| [[Macduff|MACDUFF]] | Look to the lady. |
-| [[Malcolm|MALCOLM]] | (aside to Donalbain) Why do we hold our tongues, That most may claim this argument for ours? |
-| DONALBAIN | (aside to [[Malcolm]]) What should be spoken here, where our fate, Hid in an auger-hole, may rush and seize us? Let’s away. Our [[Tears|tears]] are not yet brewed. |
-| [[Malcolm|MALCOLM]] | (aside to Donalbain) Nor our strong sorrow Upon the foot of motion. |
-| [[Banquo|BANQUO]] | Look to the lady; Exit [[Lady Macbeth]], attended And when we have our naked frailties hid, That suffer in exposure, let us meet And question this most bloody piece of work, To know it further. Fears and scruples shake us. In the great hand of God I stand, and thence Against the undivulged pretence I fight Of treasonous malice. |
-| [[Macduff|MACDUFF]] | And SO do I. |
-| SO | all. |
-| [[Macbeth|MACBETH]] | Let’s briefly put on manly readiness, And meet i’th’ hall together. |
-| ALL | [[Well]] contented. Exeunt all but [[Malcolm]] and Donalbain |
-| [[Malcolm|MALCOLM]] | What will you do? Let’s not consort with them. To show an unfelt sorrow is an office Which the false man does easy. I’ll to England. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_3--05_exchange_donalbain" data-title="Macbeth — Act II, Scene 3 — exchange (DONALBAIN) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| DONALBAIN | To Ireland, I. Our separated fortune Shall keep us both the safer. Where we are There’s daggers in men’s smiles. The nea’er in [[Blood|blood]], The nearer bloody. |
-| [[Malcolm|MALCOLM]] | This murderous shaft that’s shot Hath not yet lighted, and our safest way Is to avoid the aim. Therefore to [[Horse|horse]], And let us not be dainty of leave-taking, But shift away. There’s warrant in that theft Which steals itself when there’s no [[Mercy|mercy]] left. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Macbeth — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Banquo]] |
-| [[Banquo|BANQUO]] | Thou hast it now: [[King]], Cawdor, Glamis, all As the weird women promised; and I [[Fear|fear]] Thou played’st most foully for’t. Yet it was said It should not stand in thy posterity, But that myself should be the root and father Of many kings. If there come [[Truth|truth]] from them— As upon thee, [[Macbeth]], their speeches shine- Why by the verities on thee made good May they not be my oracles as [[Well|well]], And set me up in [[Hope|hope]]? But hush, no more. Sennet sounded. Enter [[Macbeth]] as [[King]], [[Lady Macbeth]] as [[Queen]], Lennox, Ross, lords, and attendants |
-| [[Macbeth|MACBETH]] | Here’s our chief guest. |
-| [[Lady Macbeth|LADY MACBETH]] | If he had been forgotten It had been as a gap in our great feast, And all-thing unbecoming. |
-| [[Macbeth|MACBETH]] | (to [[Banquo]]) Tonight we hold a solemn supper, sir, And I’ll request your presence. |
-| [[Banquo|BANQUO]] | Let your highness Command upon me, to the which my duties Are with a most indissoluble tie For ever knit. |
-| [[Macbeth|MACBETH]] | Ride you this afternoon? |
-| [[Banquo|BANQUO]] | Ay, my good lord. |
-| [[Macbeth|MACBETH]] | We should have else desired your good advice, Which still hath been both [[Grave|grave]] and prosperous, In this day’s council; but we’ll talk tomorrow. Is’t far you ride? |
-| [[Banquo|BANQUO]] | As far, my lord, as will fill up the [[Time|time]] ’Twixt this and supper. Go not my [[Horse|horse]] the better, I must become a borrower of the [[Night|night]] For a dark hour or twain. |
-| [[Macbeth|MACBETH]] | Fail not our feast. |
-| [[Banquo|BANQUO]] | My lord, I will not. |
-| [[Macbeth|MACBETH]] | We hear our bloody cousins are bestowed In England and in Ireland, not confessing Their cruel parricide, filling their hearers With strange invention. But of that tomorrow, When therewithal we shall have cause of state Craving us jointly. Hie you to [[Horse|horse]]. Adieu, Till you return at [[Night|night]]. Goes Fleance with you? |
-| [[Banquo|BANQUO]] | Ay, my good lord. Our [[Time|time]] does call upon ’s. |
-| [[Macbeth|MACBETH]] | I wish your horses swift and sure of foot, And so I do commend you to their backs. Farewell. Exit [[Banquo]] Let every man be master of his [[Time|time]] Till seven at [[Night|night]]. To make society The sweeter welcome, we will keep ourself Till supper-[[Time|time]] [[Alone|alone]]. While then, God be with you. Exeunt all but [[Macbeth]] and a Servant Sirrah, a word with you. Attend those men Our pleasure? |
-| SERVANT | They are, my lord, without the palace gate. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--02_monologue_macbeth" data-title="Macbeth — Act III, Scene 1 — monologue (MACBETH) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Macbeth|MACBETH]] | Bring them before us. Exit Servant To be thus is nothing But to be safely thus. Our fears in [[Banquo]] Stick deep, and in his royalty of [[Nature|nature]] Reigns that which would be feared. ‘Tis much he dares, And to that dauntless temper of his mind He hath a wisdom that doth guide his valour To act in safety. There is none but he Whose being I do [[Fear|fear]], and under him My genius is rebuked as, it is said, [[Mark Antony]]’s was by Caesar. He chid the sisters When first they put the name of [[King|king]] upon me, And bade them speak to him. Then, [[Prophet|prophet]]-like, They hailed him father to a line of kings. Upon my head they placed a fruitless [[Crown|crown]], And put a barren sceptre in my grip, Thence to be wrenched with an unlineal hand, No son of mine succeeding. If’t be so, For [[Banquo]]’s issue have I filed my mind, For them the gracious [[Duncan]] have I murdered, Put rancours in the vessel of my peace Only for them, and mine eternal [[Jewel|jewel]] Given to the common enemy of man To make them kings, the seeds of [[Banquo]] kings. Rather than so, come fate into the list And champion me to th’utterance. Who’s there? Enter Servant and two Murderers (To the Servant) Now go to the door, and stay there till we call. Exit Servant Was it not yesterday we spoke together? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--03_exchange_murderers" data-title="Macbeth — Act III, Scene 1 — exchange (MURDERERS) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MURDERERS | It was, so please your highness. |
-| [[Macbeth|MACBETH]] | [[Well]] then, now Have you considered of my speeches? Know That it was he in the times past which held you So under fortune, which you thought had been Our [[Innocent|innocent]] [[Self|self]]. This I made good to you In our last conference, passed in probation with you How you were borne in hand, how crossed, the instruments, Who wrought with them, and all things else that might To half a [[Soul|soul]], and to a notion crazed, Say ‘Thus did [[Banquo]]’. |
-| FIRST MURDERER | You made it known to us. |
-| [[Macbeth|MACBETH]] | I did so, and went further, which is now Our point of second meeting. Do you find Your patience so predominant in your [[Nature|nature]] That you can let this go? Are you so gospelled To pray for this good man and for his issue, Whose heavy hand hath bowed you to the [[Grave|grave]] And beggared yours for ever? |
-| FIRST MURDERER | We are men, my liege. |
-| [[Macbeth|MACBETH]] | Ay, in the catalogue ye go for men, As hounds and greyhounds, mongrels, spaniels, curs, Shoughs, [[Water|water]]-rugs, and demi-wolves are clept All by the name of [[dogs]]. The valued file Distinguishes the swift, the slow, the subtle, The housekeeper, the hunter, every one According to the gift which bounteous [[Nature|nature]] Hath in him closed; whereby he does receive Particular addition from the bill That writes them all alike. And so of men. Now, if you have a station in the file, Not i‘th’ worst rank of manhood, say’t, And I will put that business in your bosoms Whose execution takes your enemy off, Grapples you to the heart and [[Love|love]] of us, Who wear our health but sickly in his life, Which in his [[Death|death]] were perfect. |
-| SECOND MURDERER | I am one, my liege, Whom the vile blows and buffets of the world Hath so incensed that I am reckless what I do to spite the world. |
-| FIRST MURDERER | And I another, So weary with disasters, tugged with fortune, That I would set my life on any chance To mend it or be rid on’t. |
-| [[Macbeth|MACBETH]] | Both of you Know [[Banquo]] was your enemy. |
-| MURDERERS | True, my lord. |
-| [[Macbeth|MACBETH]] | So is he mine, and in such bloody distance That every minute of his being thrusts Against my near’st of life; and though I could With barefaced power sweep him from my sight And bid my will avouch it, yet I must not, For certain friends that are both his and mine, Whose loves I may not drop, but wail his fall Who I myself struck down. And thence it is That I to your assistance do make [[Love|love]], Masking the business from the common eye For sundry weighty reasons. |
-| SECOND MURDERER | We shall, my lord, Perform what you command us. |
-| FIRST MURDERER | Though our lives— |
-| [[Macbeth|MACBETH]] | Your spirits shine through you. Within this hour at most I will advise you where to plant yourselves, Acquaint you with the perfect spy o‘th’ [[Time|time]], The moment on’t; for’t must be done tonight, And something from the palace; always thought That I require a clearness; and with him, To leave no rubs nor botches in the work, Fleance, his son, that keeps him company— Whose absence is no less material to me Than is his father’s—must embrace the fate Of that dark hour. Resolve yourselves apart. I’ll come to you anon. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--04_exchange_murderers" data-title="Macbeth — Act III, Scene 1 — exchange (MURDERERS) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MURDERERS | We are resolved, my lord. |
-| [[Macbeth|MACBETH]] | I’ll call upon you straight. Abide within. Exeunt Murderers It is concluded. [[Banquo]], thy [[Soul|soul]]’s flight, If it find heaven, must find it out tonight. Exit |
-| [[Macbeth|MACBETH]] | 3.2 Enter [[Lady Macbeth]] and a Servant |
-| [[Lady Macbeth|LADY MACBETH]] | Is [[Banquo]] gone from [[Court|court]]? |
-| SERVANT | Ay, madam, but returns again tonight. |
-| [[Lady Macbeth|LADY MACBETH]] | Say to the [[King]] I would attend his leisure For a few words. |
-| SERVANT | Madam, I will. Exit |
-| [[Lady Macbeth|LADY MACBETH]] | Naught’s had, all’s spent, Where our [[Desire|desire]] is got without content. ’Tis safer to be that which we destroy Than by destruction dwell in doubtful joy. Enter [[Macbeth]] How now, my lord, why do you keep [[Alone|alone]], Of sorriest fancies your companions making, Using those thoughts which should indeed have died With them they think on? Things without all remedy Should be without regard. What’s done is done. |
-| [[Macbeth|MACBETH]] | We have scorched the snake, not killed it. She’ll close and be herself, whilst our poor malice Remains in danger of her former tooth. But let the frame of things disjoint, both the worlds suffer, Ere we will eat our meal in [[Fear|fear]], and [[Sleep|sleep]] In the affliction of these terrible [[Dreams|dreams]] That shake us nightly. Better be with the dead, Whom we to gain our peace have sent to peace, Than on the torture of the mind to lie In restless ecstasy. [[Duncan]] is in his [[Grave|grave]]. After life’s fitful fever he sleeps [[Well|well]]. Treason has done his worst. Nor steel nor [[Poison|poison]], Malice domestic, foreign levy, nothing Can touch him further. |
-| [[Lady Macbeth|LADY MACBETH]] | Come on, gentle my lord, Sleek o’er your rugged looks, be bright and jovial Among your guests tonight. |
-| [[Macbeth|MACBETH]] | So shall I, [[Love|love]], And so I pray be you. Let your remembrance Apply to [[Banquo]]. Present him eminence Both with eye and tongue; unsafe the while that we Must lave our honours in these flattering streams And make our faces visors to our hearts, Disguising what they are. |
-| [[Lady Macbeth|LADY MACBETH]] | You must leave this. |
-| [[Macbeth|MACBETH]] | O, full of scorpions is my mind, dear wife! Thou know’st that [[Banquo]] and his Fleance lives. |
-| [[Lady Macbeth|LADY MACBETH]] | But in them [[Nature|nature]]’s copy’s not eterne. |
-| [[Macbeth|MACBETH]] | There’s comfort yet, they are assailable. Then be thou jocund. Ere the bat hath flown His cloistered flight, ere to black Hecate’s summons The shard-borne beetle with his drowsy hums Hath rung [[Night|night]]’s yawning peal, there shall be done A deed of dreadful note. |
-| [[Lady Macbeth|LADY MACBETH]] | What’s to be done? |
-| [[Macbeth|MACBETH]] | Be [[Innocent|innocent]] of the knowledge, dearest chuck, Till thou applaud the deed.—Come, seeling [[Night|night]], Scarf up the tender eye of pitiful day, And with thy bloody and invisible hand Cancel and tear to pieces that great bond Which keeps me pale. Light thickens, and the crow Makes wing to th’ rooky wood. Good things of day begin to droop and drowse, Whiles [[Night|night]]’s black agents to their preys do rouse. Thou marvell’st at my words; but hold thee still. Things bad begun make strong themselves by ill. So prithee go with me. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--01_exchange_dialogue" data-title="Macbeth — Act III, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Banquet prepared. Enter [[Macbeth]] as [[King]], [[Lady Macbeth]] as [[Queen]], Ross, Lennox, Lords, and attendants. [[Lady Macbeth]] sits |
-| [[Macbeth|MACBETH]] | You know your own degrees; sit down. At first and last The hearty welcome. |
-| LORDS | Thanks to your majesty. They sit |
-| [[Macbeth|MACBETH]] | Ourself will mingle with society And play the humble host. Our hostess keeps her state, But in best [[Time|time]] we will require her welcome. |
-| [[Lady Macbeth|LADY MACBETH]] | Pronounce it for me, sir, to all our friends, For my heart speaks they are welcome. Enter First Murderer [to the door] |
-| [[Macbeth|MACBETH]] | See, they encounter thee with their hearts’ thanks. Both sides are even. Here I’ll sit, i’th’ midst. Be large in mirth. Anon we’ll drink a measure The table round. (To First Murderer) There’s [[Blood|blood]] upon thy face. |
-| FIRST MURDERER | (aside to [[Macbeth]]) ‘Tis [[Banquo]]’s, then. |
-| [[Macbeth|MACBETH]] | ’Tis better thee without than he within. Is he dispatched? |
-| FIRST MURDERER | My lord, his throat is cut. That I did for him. |
-| [[Macbeth|MACBETH]] | Thou art the best o’th’ cut-throats. Yet he’s good That did the like for Fleance. If thou didst it, Thou art the nonpareil. |
-| FIRST MURDERER | Most royal sir, Fleance is scaped. |
-| [[Macbeth|MACBETH]] | Then comes my fit again; I had else been perfect, Whole as the marble, founded as the rock, As broad and general as the casing air, But now I am cabined, cribbed, confined, bound in To saucy doubts and fears. But [[Banquo]]’s safe? |
-| FIRST MURDERER | Ay, my good lord. Safe in a ditch he bides, With twenty trenched gashes on his head, The least a [[Death|death]] to [[Nature|nature]]. |
-| [[Macbeth|MACBETH]] | Thanks for that. There the grown serpent lies. The worm that’s fled Hath [[Nature|nature]] that in [[Time|time]] will venom breed, No teeth for th’ present. Get thee gone. Tomorrow We’ll hear ourselves again. Exit First Murderer |
-| [[Lady Macbeth|LADY MACBETH]] | My royal lord, You do not give the cheer. The feast is sold That is not often vouched, while ‘tis a-making, ’Tis given with welcome. To feed were best at [[Home|home]]. From thence the sauce to meat is ceremony, Meeting were bare without it. Enter the [[Ghost]] of [[Banquo]], and sits in [[Macbeth]]’s |
-| [[Lady Macbeth|LADY MACBETH]] | place |
-| [[Macbeth|MACBETH]] | Sweet remembrancer. Now good digestion wait on appetite, And health on both. |
-| LENNOX | May’t please your highness sit? |
-| [[Macbeth|MACBETH]] | Here had we now our country’s [[Honour|honour]] roofed Were the graced person of our [[Banquo]] present, Who may I rather challenge for unkindness Than pity for mischance. |
-| ROSS | His absence, sir, Lays blame upon his promise. Please’t your highness To grace us with your royal company? |
-| [[Macbeth|MACBETH]] | The table’s full. |
-| LENNOX | Here is a place reserved, sir. |
-| [[Macbeth|MACBETH]] | Where? |
-| LENNOX | Here, my good lord. What is’t that moves your highness? |
-| [[Macbeth|MACBETH]] | Which of you have done this? |
-| LORDS | What, my good lord? |
-| [[Macbeth|MACBETH]] | (to the [[Ghost]]) Thou canst not say I did it. Never shake Thy gory locks at me. |
-| ROSS | (rising) Gentlemen, rise. His highness is not [[Well|well]]. |
-| [[Lady Macbeth|LADY MACBETH]] | (rising) Sit, worthy friends. My lord is often thus, And hath been from his youth. Pray you, keep seat. The fit is momentary. Upon a thought He will again be [[Well|well]]. If much you note him You shall offend him, and extend his passion. Feed, and regard him not. She speaks apart with [[Macbeth]] Are you a man? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--02_exchange_macbeth" data-title="Macbeth — Act III, Scene 4 — exchange (MACBETH) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Macbeth|MACBETH]] | Ay, and a bold one, that dare look on that Which might appal the devil. |
-| [[Lady Macbeth|LADY MACBETH]] | O proper stuff! This is the very painting of your [[Fear|fear]]; This is the air-drawn dagger which you said Led you to [[Duncan]]. O, these flaws and starts, Impostors to true [[Fear|fear]], would [[Well|well]] become A woman’s story at a [[Winter|winter]]’s [[Fire|fire]] Authorized by her grandam. Shame itself, Why do you make such faces? When all’s done You look but on a stool. |
-| [[Macbeth|MACBETH]] | Prithee see there. Behold, look, lo-how say you? Why, what care I? If thou canst nod, speak, too! If charnel-houses and our graves must send Those that we bury back, our monuments Shall be the maws of kites. Exit [[Ghost]] |
-| [[Lady Macbeth|LADY MACBETH]] | What, quite unmanned in folly? |
-| [[Macbeth|MACBETH]] | If I stand here, I saw him. |
-| [[Lady Macbeth|LADY MACBETH]] | Fie, for shame! |
-| [[Macbeth|MACBETH]] | [[Blood]] hath been shed ere now, i’th’ olden [[Time|time]], Ere human statute purged the gentle weal; Ay, and since, too, murders have been performed Too terrible for the ear. The [[Time|time]] has been That, when the brains were out, the man would die, And there an end. But now they rise again With twenty mortal murders on their crowns, And push us from our stools. This is more strange Than such a murder is. |
-| [[Lady Macbeth|LADY MACBETH]] | (aloud) My worthy lord, Your noble friends do lack you. |
-| [[Macbeth|MACBETH]] | I do forget. Do not muse at me, my most worthy friends. I have a strange infirmity which is nothing To those that know me. Come, [[Love|love]] and health to all, Then I’ll sit down. (To an attendant) Give me some wine. Fill full. Enter [[Ghost]] I drink to th’ general joy of th’whole table, And to our dear friend [[Banquo]], whom we miss. Would he were here. To all and him we thirst, And all to all. |
-| LORDS | Our duties, and the pledge. They drink |
-| [[Macbeth|MACBETH]] | (seeing the [[Ghost]]) Avaunt, and quit my sight! Let the earth hide thee. Thy bones are marrowless, thy [[Blood|blood]] is cold. Thou hast no speculation in those eyes Which thou dost glare with. |
-| [[Lady Macbeth|LADY MACBETH]] | Think of this, good peers, But as a thing of custom. ’Tis no other; Only it spoils the pleasure of the [[Time|time]]. |
-| [[Macbeth|MACBETH]] | What man dare, I dare. Approach thou like the rugged Russian bear, The armed rhinoceros, or th‘Hyrcan tiger; Take any shape but that, and my firm nerves Shall never tremble. Or be alive again, And dare me to the [[Desert|desert]] with thy [[Sword|sword]]. If trembling I inhabit then, protest me The baby of a girl. Hence, horrible [[Shadow|shadow]], Unreal mock’ry, hence! Exit [[Ghost]] Why so, being gone, I am a man again. Pray you sit still. |
-| [[Lady Macbeth|LADY MACBETH]] | You have displaced the mirth, broke the good meeting With most admired disorder. |
-| [[Macbeth|MACBETH]] | Can such things be And overcome us like a [[Summer|summer]]’s cloud, Without our special [[Wonder|wonder]]? You make me strange Even to the disposition that I owe, When now I think you can behold such sights And keep the natural ruby of your cheeks When mine is blanched with [[Fear|fear]]. Ross What sights, my lord? |
-| [[Lady Macbeth|LADY MACBETH]] | I pray you, speak not. He grows worse and worse. 116 Question enrages him. At once, good [[Night|night]]. Stand not upon the order of your going, But go at once. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_4--03_exchange_lennox" data-title="Macbeth — Act III, Scene 4 — exchange (LENNOX) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LENNOX | Good [[Night|night]], and better health Attend his majesty. |
-| [[Lady Macbeth|LADY MACBETH]] | A kind good-[[Night|night]] to all. Exeunt Lords |
-| [[Macbeth|MACBETH]] | It will have [[Blood|blood]], they say. [[Blood]] will have [[Blood|blood]]. Stones have been known to move, and trees to speak, Augurs and understood relations have By maggot-pies and choughs and rooks brought forth The secret’st man of [[Blood|blood]]. What is the [[Night|night]]? |
-| [[Lady Macbeth|LADY MACBETH]] | Almost at odds with morning, which is which. |
-| [[Macbeth|MACBETH]] | How sayst thou that [[Macduff]] denies his person At our great bidding? |
-| [[Lady Macbeth|LADY MACBETH]] | Did you send to him, sir? |
-| [[Macbeth|MACBETH]] | I hear it by the way, but I will send. There’s not a one of them but in his [[house]] I keep a servant fee’d. I will tomorrow, And betimes I will, to the weird sisters. More shall they speak, for now I am bent to know By the worst means the worst. For mine own good All causes shall give way. I am in [[Blood|blood]] Stepped in so far that, should I wade no more, Returning were as tedious as go o’er. Strange things I have in head that will to hand, Which must be acted ere they may be scanned. |
-| [[Lady Macbeth|LADY MACBETH]] | You lack the season of all natures, [[Sleep|sleep]]. |
-| [[Macbeth|MACBETH]] | Come, we’ll to [[Sleep|sleep]]. My strange and [[Self|self]]-abuse Is the initiate [[Fear|fear]] that wants hard use. We are yet but young in deed. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="Macbeth — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A Cauldron. Thunder. Enter the [[Three Witches|three Witches]] |
-| FIRST [[Witch|WITCH]] | Thrice the brinded cat hath mewed. |
-| SECOND [[Witch|WITCH]] | Thrice, and once the hedge-pig whined. |
-| THIRD [[Witch|WITCH]] | Harpier cries “Tis [[Time|time]], ‘tis [[Time|time]].’ |
-| FIRST [[Witch|WITCH]] | Round about the cauldron go, In the poisoned entrails throw. Toad that under cold stone Days and nights has thirty-one Sweltered venom sleeping got, Boil thou first i’th’ charmed pot. |
-| ALL | [[Double]], [[Double|double]], toil and trouble, [[Fire]] burn, and cauldron bubble. |
-| SECOND [[Witch|WITCH]] | Fillet of a fenny snake, In the cauldron boil and bake. Eye of newt and toe of frog, Wool of bat and tongue of dog, Adder’s fork and blind-worm’s sting, Lizard’s leg and owlet’s wing, For a charm of powerful trouble, Like a hell-broth boil and bubble. |
-| ALL | [[Double]], [[Double|double]], toil and trouble, [[Fire]] burn, and cauldron bubble. |
-| THIRD [[Witch|WITCH]] | Scale of dragon, tooth of wolf, Witches’ mummy, maw and gulf Of the ravined salt-sea shark, Root of hemlock digged i‘th’ dark, Liver of blaspheming Jew, Gall of goat, and slips of yew Slivered in the [[Moon|moon]]’s eclipse, Nose of Turk, and Tartar’s lips, Finger of birth-strangled babe Ditch-delivered by a drab, Make the gruel thick and slab. Add thereto a tiger’s chaudron For th’ingredience of our cauldron. |
-| ALL | [[Double]], [[Double|double]], toil and trouble, [[Fire]] burn, and cauldron bubble. |
-| SECOND [[Witch|WITCH]] | Cool it with a baboon’s [[Blood|blood]], Then the charm is firm and good. Enter Hecate and the other [[Three Witches|three Witches]] |
-| HECATE | O, [[Well|well]] done! I commend your pains, And everyone shall share i’th’ gains. And now about the cauldron sing Like elves and fairies in a ring, Enchanting all that you put in. Music and a [[Song|song]] |
-| HECATE | Black spirits and white, red spirits and grey, Mingle, mingle, mingle, you that mingle may. |
-| FOURTH [[Witch|WITCH]] | Titty, Tiffin, keep it stiff in; Firedrake, Puckey, make it lucky; Liard, Robin, you must bob in. |
-| ALL | Round, around, around, about, about, All ill come running in, all good keep out. |
-| FOURTH [[Witch|WITCH]] | Here’s the [[Blood|blood]] of a bat. |
-| HECATE | Put in that, O put in that! |
-| FIFTH [[Witch|WITCH]] | Here’s leopard’s bane. |
-| HECATE | Put in a grain. |
-| FOURTH [[Witch|WITCH]] | The juice of toad, the oil of adder. |
-| FIFTH [[Witch|WITCH]] | Those will make the younker madder. |
-| HECATE | Put in, there’s all, and rid the stench. |
-| *(didascalia)* | A |
-| [[Witch|WITCH]] | Nay, here’s three ounces of a red-haired wench. |
-| ALL | Round, around, around, about, about, All ill come running in, all good keep out. |
-| SECOND [[Witch|WITCH]] | By the pricking of my thumbs, Something wicked this way comes. Knock within Open, locks, whoever knocks. Enter [[Macbeth]] |
-| [[Macbeth|MACBETH]] | How now, you secret, black, and midnight hags, What is’t you do? |
-| ALL THE WITCHES | A deed without a name. |
-| [[Macbeth|MACBETH]] | I conjure you by that which you profess, Howe’er you come to know it, answer me. Though you untie the winds and let them fight Against the churches, though the yeasty waves Confound and [[Swallow|swallow]] navigation up, Though bladed corn be lodged and trees blown down, Though castles topple on their warders’ heads, Though palaces and pyramids do slope Their heads to their foundations, though the treasure Of [[Nature|nature]]’s germens tumble all together Even till destruction sicken, answer me To what I ask you. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--02_exchange_first_witch" data-title="Macbeth — Act IV, Scene 1 — exchange (FIRST WITCH) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FIRST [[Witch|WITCH]] | Speak. |
-| SECOND [[Witch|WITCH]] | Demand. |
-| THIRD [[Witch|WITCH]] | We’ll answer. |
-| FIRST [[Witch|WITCH]] | Say if thou’dst rather hear it from our mouths Or from our masters. |
-| [[Macbeth|MACBETH]] | Call ‘em, let me see ’em. |
-| FIRST [[Witch|WITCH]] | Pour in sow’s [[Blood|blood]] that hath eaten 80 Her nine farrow; grease that’s sweaten From the murderer’s gibbet throw Into the flame. |
-| ALL THE WITCHES | Come high or low, Thyself and office deftly show. Thunder. First Apparition: an armed head |
-| [[Macbeth|MACBETH]] | Tell me, thou unknown power— |
-| FIRST [[Witch|WITCH]] | He knows thy thought. Hear his speech, but say thou naught. |
-| FIRST APPARITION | [[Macbeth]], [[Macbeth]], [[Macbeth]], beware [[Macduff]], Beware the Thane of Fife. Dismiss me. Enough. Apparition descends |
-| [[Macbeth|MACBETH]] | Whate’er thou art, for thy good caution thanks. Thou hast harped my [[Fear|fear]] aright. But one word more— |
-| FIRST [[Witch|WITCH]] | He will not be commanded. Here’s another, More potent than the first. Thunder. Second Apparition: a bloody [[Child|child]] |
-| SECOND APPARITION | [[Macbeth]], [[Macbeth]], [[Macbeth]]. |
-| [[Macbeth|MACBETH]] | Had I three ears I’d hear thee. |
-| SECOND APPARITION | Be bloody, bold, and resolute. Laugh to scorn The power of man, for none of woman born Shall harm [[Macbeth]]. Apparition descends |
-| [[Macbeth|MACBETH]] | Then live, [[Macduff]]—what need I [[Fear|fear]] of thee? But yet I’ll make assurance [[Double|double]] sure, And take a bond of fate thou shalt not live, That I may tell pale-hearted [[Fear|fear]] it lies, And [[Sleep|sleep]] in spite of thunder. Thunder. Third Apparition: a [[Child|child]] crowned, with a |
-| [[Macbeth|MACBETH]] | tree in his hand What is this That rises like the issue of a [[King|king]], And wears upon his baby-brow the round And top of sovereignty? |
-| ALL THE WITCHES | Listen, but speak not to’t. |
-| THIRD APPARITION | Be [[Lion|lion]]-mettled, proud, and take no care Who chafes, who frets, or where conspirers are. [[Macbeth]] shall never vanquished be until Great Birnam Wood to high Dunsinane [[Hill]] Shall come against him. Apparition descends |
-| [[Macbeth|MACBETH]] | That will never be. Who can impress the forest, bid the tree Unfix his earth-bound root? Sweet bodements, good! Rebellious dead, rise never till the wood Of Birnam rise, and on’s high place [[Macbeth]] Shall live the lease of [[Nature|nature]], pay his breath To [[Time|time]] and mortal custom. Yet my heart Throbs to know one thing. Tell me, if your art Can tell so much, shall [[Banquo]]’s issue ever Reign in this kingdom? |
-| ALL THE WITCHES | Seek to know no more. |
-| [[Macbeth|MACBETH]] | I will be satisfied. Deny me this, And an eternal curse fall on you! Let me know. The cauldron sinks. Hautboys Why sinks that cauldron? And what noise is this? |
-| FIRST [[Witch|WITCH]] | Show. |
-| SECOND [[Witch|WITCH]] | Show. |
-| THIRD [[Witch|WITCH]] | Show. |
-| ALL THE WITCHES | Show his eyes and grieve his heart, Come like shadows, so depart. A show of eight kings, the last with a glass in his |
-| ALL THE WITCHES | hand; and [[Banquo]] |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--03_monologue_macbeth" data-title="Macbeth — Act IV, Scene 1 — monologue (MACBETH) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Macbeth|MACBETH]] | Thou art too like the spirit of [[Banquo]]. Down! Thy [[Crown|crown]] does sear mine eyeballs. And thy hair, Thou other gold-bound brow, is like the first. A third is like the former. Filthy hags, Why do you show me this?—A fourth? Start, eyes! What, will the line stretch out to th’ crack of doom? Another yet? A seventh? I’ll see no more— And yet the eighth appears, who bears a glass Which shows me many more; and some I see That twofold balls and treble sceptres carry. Horrible sight! Now I see ’tis true, For the [[Blood|blood]]-baltered [[Banquo]] smiles upon me, And points at them for his. Exeunt kings and [[Banquo]] |
-| *(didascalia)* | What, is this so? HECATE Ay, sir, all this is so. But why Stands [[Macbeth]] thus amazedly? Come, sisters, cheer we up his sprites, And show the best of our delights. I’ll charm the air to give a sound While you perform your antic round, That this great [[King|king]] may kindly say Our duties did his welcome pay. Music. The Witches [[Dance|dance]], and vanish |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--04_exchange_macbeth" data-title="Macbeth — Act IV, Scene 1 — exchange (MACBETH) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Macbeth|MACBETH]] | Where are they? Gone? Let this pernicious hour Stand aye accursed in the calendar. Come in, without there. Enter Lennox |
-| LENNOX | What’s your grace’s will? |
-| [[Macbeth|MACBETH]] | Saw you the weird sisters? |
-| LENNOX | No, my lord. |
-| [[Macbeth|MACBETH]] | Came they not by you? |
-| LENNOX | No, indeed, my lord. |
-| [[Macbeth|MACBETH]] | Infected be the air whereon they ride, And damned all those that trust them. I did hear The galloping of [[Horse|horse]]. Who was’t came by? |
-| LENNOX | ’Tis two or three, my lord, that bring you word [[Macduff]] is fled to England. |
-| [[Macbeth|MACBETH]] | Fled to England? |
-| LENNOX | Ay, my good lord. |
-| [[Macbeth|MACBETH]] | (aside) [[Time]], thou anticipat‘st my dread exploits. The flighty purpose never is o’ertook Unless the deed go with it. From this moment The very firstlings of my heart shall be The firstlings of my hand. And even now, To [[Crown|crown]] my thoughts with acts, be it thought and done: 165 The [[Castle|castle]] of [[Macduff]] I will surprise, Seize upon Fife, give to th‘edge o’th’ [[Sword|sword]] His wife, his babes, and all unfortunate souls That trace him in his line. No boasting like a [[Fool|fool]]; This deed I’ll do before this purpose cool. But no more sights! (To Lennox) Where are these gentlemen? Come bring me where they are. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--01_exchange_dialogue" data-title="Macbeth — Act IV, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Malcolm]] and [[Macduff]] |
-| [[Malcolm|MALCOLM]] | Let us seek out some desolate shade, and there Weep our sad bosoms empty. |
-| [[Macduff|MACDUFF]] | Let us rather Hold fast the mortal [[Sword|sword]], and like good men Bestride our downfall birthdom. Each new morn New widows howl, new orphans cry, new sorrows Strike heaven on the face that it resounds As if it felt with Scotland and yelled out Like syllable of dolour. |
-| [[Malcolm|MALCOLM]] | What I believe I’ll wail, What know believe; and what I can redress, As I shall find the [[Time|time]] to friend, I will. What you have spoke it may be so, perchance. This [[Tyrant|tyrant]], whose sole name blisters our tongues, Was once thought honest. You have loved him [[Well|well]]. He hath not touched you yet. I am young, but something You may discern of him through me: and wisdom To offer up a weak poor [[Innocent|innocent]] [[Lamb|lamb]] T’appease an angry god. |
-| [[Macduff|MACDUFF]] | I am not treacherous. |
-| [[Malcolm|MALCOLM]] | But [[Macbeth]] is. A good and virtuous [[Nature|nature]] may recoil In an imperial charge. But I shall crave your pardon. That which you are my thoughts cannot transpose. Angels are bright still, though the brightest fell. Though all things foul would wear the brows of grace, Yet grace must still look so. |
-| [[Macduff|MACDUFF]] | I have lost my hopes. |
-| [[Malcolm|MALCOLM]] | Perchance even there where I did find my doubts. Why in that rawness left you wife and [[Child|child]], Those precious motives, those strong knots of [[Love|love]], Without leave-taking? I pray you, Let not my jealousies be your dishonours, But mine own safeties. You may be rightly just, Whatever I shall think. |
-| [[Macduff|MACDUFF]] | Bleed, bleed, poor country! Great tyranny, lay thou thy basis sure, For goodness dare not check thee. Wear thou thy wrongs; The title is affeered. Fare thee [[Well|well]], lord. I would not be the [[Villain|villain]] that thou think’st For the whole space that’s in the [[Tyrant|tyrant]]’s grasp, And the rich east to boot. |
-| [[Malcolm|MALCOLM]] | Be not offended. I speak not as in absolute [[Fear|fear]] of you. I think our country sinks beneath the yoke. It weeps, it bleeds, and each new day a gash Is added to her wounds. I think withal There would be hands uplifted in my right, And here from gracious England have I offer Of goodly thousands. But for all this, When I shall tread upon the [[Tyrant|tyrant]]’s head, Or wear it on my [[Sword|sword]], yet my poor country Shall have more vices than it had before, More suffer, and more sundry ways, than ever, By him that shall succeed. |
-| [[Macduff|MACDUFF]] | What should he be? |
-| [[Malcolm|MALCOLM]] | It is myself I mean, in whom I know All the particulars of vice so grafted That when they shall be opened black [[Macbeth]] Will seem as pure as [[Snow|snow]], and the poor state Esteem him as a [[Lamb|lamb]], being compared With my confineless harms. |
-| [[Macduff|MACDUFF]] | Not in the legions Of horrid hell can come a devil more damned In evils to top [[Macbeth]]. |
-| [[Malcolm|MALCOLM]] | I grant him bloody, Luxurious, avaricious, false, deceitful, Sudden, malicious, smacking of every sin That has a name. But there’s no [[Bottom|bottom]], none, In my voluptuousness. Your wives, your daughters, Your matrons, and your maids could not fill up The cistern of my lust, and my [[Desire|desire]] All continent impediments would o’erbear That did oppose my will. Better [[Macbeth]] Than such an one to reign. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--02_exchange_macduff" data-title="Macbeth — Act IV, Scene 3 — exchange (MACDUFF) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Macduff|MACDUFF]] | Boundless intemperance In [[Nature|nature]] is a tyranny. It hath been Th’untimely emptying of the happy throne, And fall of many kings. But [[Fear|fear]] not yet To take upon you what is yours. You may Convey your pleasures in a spacious plenty And yet seem cold. The [[Time|time]] you may so hoodwink. We have willing dames enough. There cannot be That vulture in you to devour so many As will to [[Greatness|greatness]] dedicate themselves, Finding it so inclined. |
-| [[Malcolm|MALCOLM]] | With this there grows In my most ill-composed affection such A staunchless avarice that were I [[King|king]] I should cut off the nobles for their lands, [[Desire]] his jewels and this other’s [[house]], And my more having would be as a sauce To make me hunger more, that I should forge Quarrels unjust against the good and loyal, Destroying them for wealth. |
-| [[Macduff|MACDUFF]] | This avarice Sticks deeper, grows with more pernicious root Than [[Summer|summer]]-seeming lust, and it hath been The [[Sword|sword]] of our slain kings. Yet do not [[Fear|fear]]. Scotland hath foisons to fill up your will Of your mere own. All these are portable, With other graces weighed. |
-| [[Malcolm|MALCOLM]] | But I have none. The [[King|king]]-becoming graces, As justice, verity, temp’rance, stableness, Bounty, perseverance, [[Mercy|mercy]], lowliness, Devotion, patience, [[Courage|courage]], fortitude, I have no relish of them, but abound In the division of each several crime, Acting it many ways. Nay, had I power I should Pour the sweet milk of concord into hell, Uproar the universal peace, confound All [[unity]] on earth. |
-| [[Macduff|MACDUFF]] | O Scotland, Scotland! |
-| [[Malcolm|MALCOLM]] | If such a one be fit to govern, speak. I am as I have spoken. |
-| [[Macduff|MACDUFF]] | Fit to govern? No, not to live. O nation miserable, With an untitled [[Tyrant|tyrant]] bloody-sceptered, When shalt thou see thy wholesome days again, Since that the truest issue of thy throne By his own interdiction stands accursed And does blaspheme his breed? Thy royal father Was a most sainted [[King|king]]. The [[Queen]] that bore thee, Oft‘ner upon her knees than on her feet, Died every day she lived. Fare thee [[Well|well]]. These evils thou repeat’st upon thyself Hath banished me from Scotland. O, my breast— Thy [[Hope|hope]] ends here! |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--03_monologue_malcolm" data-title="Macbeth — Act IV, Scene 3 — monologue (MALCOLM) [3]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Malcolm|MALCOLM]] | [[Macduff]], this noble passion, [[Child]] of integrity, hath from my [[Soul|soul]] Wiped the black scruples, reconciled my thoughts To thy good [[Truth|truth]] and [[Honour|honour]]. Devilish [[Macbeth]] By many of these trains hath sought to win me Into his power, and modest wisdom plucks me From over-credulous haste; but God above Deal between thee and me, for even now I put myself to thy direction and Unspeak mine own detraction, here abjure The taints and blames I laid upon myself For strangers to my [[Nature|nature]]. I am yet Unknown to woman, never was forsworn, Scarcely have coveted what was mine own, At no [[Time|time]] broke my [[Faith|faith]], would not betray The devil to his fellow, and delight No less in [[Truth|truth]] than life. My first false-speaking Was this upon myself. What I am truly Is thine and my poor country’s to command, Whither indeed, before thy here-approach, Old Siward with ten thousand warlike men, Already at a point, was setting forth. Now we’ll together; and the chance of goodness Be like our warranted quarrel!—Why are you silent? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--04_exchange_macduff" data-title="Macbeth — Act IV, Scene 3 — exchange (MACDUFF) [4]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Macduff|MACDUFF]] | Such welcome and unwelcome things at once ’is hard to reconcile. Enter a Doctor |
-| [[Malcolm|MALCOLM]] | [[Well]], more anon. (To the Doctor) Comes the [[King]] forth, I pray you? |
-| DOCTOR | Ay, sir. There are a crew of wretched souls That stay his cure. Their malady convinces The great [[Essay|essay]] of art, but at his touch, Such sanctity hath Heaven given his hand, They presently amend. |
-| [[Malcolm|MALCOLM]] | I thank you, doctor. Exit Doctor |
-| [[Macduff|MACDUFF]] | What’s the disease he means? |
-| [[Malcolm|MALCOLM]] | ’is called the evil— A most miraculous work in this good [[King]], Which often since my here-remain in England I have seen him do. How he solicits heaven Himself best knows, but strangely visited people, All swoll’n and ulcerous, pitiful to the eye, The mere [[Despair|despair]] of surgery, he cures, Hanging a golden stamp about their necks, Put on with holy prayers; and ’is spoken, To the succeeding royalty he [[Leaves|leaves]] The healing benediction. With this strange virtue He hath a heavenly gift of prophecy, And sundry blessings hang about his throne That speak him full of grace. Enter Ross |
-| [[Macduff|MACDUFF]] | See who comes here. |
-| [[Malcolm|MALCOLM]] | My countryman, but yet I know him not. |
-| [[Macduff|MACDUFF]] | My ever gentle cousin, welcome hither. |
-| [[Malcolm|MALCOLM]] | I know him now. Good God betimes remove The means that makes us strangers! Ross Sir, amen. |
-| [[Macduff|MACDUFF]] | Stands Scotland where it did? Ross Alas, poor country, Almost afraid to know itself. It cannot Be called our mother, but our [[Grave|grave]], where nothing But who knows nothing is once seen to smile; Where sighs and groans and shrieks that rend the air Are made, not marked; where violent sorrow seems A modern ecstasy. The dead man’s knell Is there scarce asked for who, and good men’s lives Expire before the [[Flowers|flowers]] in their caps, Dying or ere they sicken. |
-| [[Macduff|MACDUFF]] | O relation Too nice and yet too true! |
-| [[Malcolm|MALCOLM]] | What’s the newest grief? |
-| ROSS | That of an hour’s age doth hiss the speaker; Each minute teems a new one. |
-| [[Macduff|MACDUFF]] | How does my wife? |
-| ROSS | Why, [[Well|well]]. |
-| [[Macduff|MACDUFF]] | And all my children? Ross [[Well]], too. |
-| [[Macduff|MACDUFF]] | The [[Tyrant|tyrant]] has not battered at their peace? |
-| ROSS | No, they were [[Well|well]] at peace when I did leave ’em. |
-| [[Macduff|MACDUFF]] | Be not a niggard of your speech. How goes’t? |
-| ROSS | When I came hither to transport the tidings Which I have heavily borne, there ran a rumour Of many worthy fellows that were out, Which was to my belief witnessed the rather For that I saw the [[Tyrant|tyrant]]’s power afoot. Now is the [[Time|time]] of help. (To [[Malcolm]]) Your eye in Scotland Would create soldiers, make our women fight To doff their dire distresses. |
-| [[Malcolm|MALCOLM]] | Be’t their comfort We are coming thither. Gracious England hath Lent us good Siward and ten thousand men; An older and a better soldier none That Christendom gives out. Ross Would I could answer This comfort with the like. But I have words That would be howled out in the [[Desert|desert]] air Where hearing should not latch them. |
-| [[Macduff|MACDUFF]] | What concern they— The general cause, or is it a fee-grief Due to some single breast? Ross No mind that’s honest But in it shares some woe, though the main part Pertains to you [[Alone|alone]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--05_exchange_macduff" data-title="Macbeth — Act IV, Scene 3 — exchange (MACDUFF) [5]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Macduff|MACDUFF]] | If it be mine, Keep it not from me; quickly let me have it. |
-| ROSS | Let not your ears despise my tongue for ever, Which shall possess them with the heaviest sound That ever yet they heard. |
-| [[Macduff|MACDUFF]] | H’m, I guess at it. |
-| ROSS | Your [[Castle|castle]] is surprised, your wife and babes Savagely slaughtered. To relate the manner Were on the quarry of these murdered deer To add the [[Death|death]] of you. |
-| [[Malcolm|MALCOLM]] | Merciful heaven! (To [[Macduff]]) What, man, ne’er pull your hat upon your brows. Give sorrow words. The grief that does not speak Whispers the o’erfraught heart and bids it break. |
-| [[Macduff|MACDUFF]] | My children too? Ross Wife, children, servants, all That could be found. |
-| [[Macduff|MACDUFF]] | And I must be from thence! My wife killed too? |
-| ROSS | I have said. |
-| [[Malcolm|MALCOLM]] | Be comforted. Let’s make us medicines of our great [[Revenge|revenge]] To cure this deadly grief. |
-| [[Macduff|MACDUFF]] | He has no children. All my pretty ones? Did you say all? O hell-kite! All? What, all my pretty chickens and their dam At one fell swoop? |
-| [[Malcolm|MALCOLM]] | Dispute it like a man. |
-| [[Macduff|MACDUFF]] | I shall do so, But I must also feel it as a man. I cannot but remember such things were That were most precious to me. Did heaven look on And would not take their part? Sinful [[Macduff]], They were all struck for thee. Naught that I am, Not for their own demerits but for mine Fell slaughter on their souls. Heaven rest them now. |
-| [[Malcolm|MALCOLM]] | Be this the whetstone of your [[Sword|sword]]. Let grief [[convert|Convert]] to anger: blunt not the heart, enrage it. |
-| [[Macduff|MACDUFF]] | O, I could play the woman with mine eyes And braggart with my tongue! But gentle heavens Cut short all intermission. Front to front Bring thou this fiend of Scotland and myself. Within my [[Sword|sword]]’s length set him. If he scape, Heaven forgive him too. |
-| [[Malcolm|MALCOLM]] | This tune goes manly. Come, go we to the [[King]]. Our power is ready; Our lack is nothing but our leave. [[Macbeth]] Is ripe for shaking, and the powers above Put on their instruments. Receive what cheer you may: The [[Night|night]] is long that never finds the day. Exeunt |
 
 
 

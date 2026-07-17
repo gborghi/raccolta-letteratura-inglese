@@ -1993,6 +1993,50 @@ One might go on for ever piling up instances of this divorce between the suppose
 
 
 
+<span class="atom-split" data-atom="story_08_on_the_effect_of_time--part_01" data-title="On Anything — ON THE EFFECT OF TIME (part 1)" data-chapter="ON THE EFFECT OF TIME" data-kind="excerpt"></span>
+
+
+ON THE EFFECT OF TIME
+
+OF ALL CONTRASTS the most ironical and the most profound is the contrast between the Tag and the Truth of the Tag. A couple of lines are chosen by humanity from the work of a great poet, and are usually so chosen not only because they are beautiful, but because they are true. When they have been repeated a certain number of times they become a tag. A proverb or a mere popular statement puts into the shortest possible form some extremely simple, and perhaps extremely obvious, at any rate (this is quite certain) some extremely important, truth. Every one sees it is a truth, everybody repeats it, and it becomes a tag.
+
+Now note the next phase in the life of the said tag. It is criticised and it is ridiculed; it becomes a solid butt for the archery of human wit. That phase lasts, perhaps, the lifetime of a man.
+
+Now note the third phase, for it will teach you the most that can be learnt about mankind, and it is endless. It is the consummation of the tag and the test of humanity afforded by the tag. The tag is now taken for granted and is eternal, and the following things happen to it: children are taught it like the alphabet; they are compelled to learn it. Hobbledehoys, great wits, and leaders of thought avoid it because it is commonplace. They can be seen waggling from one side of the road to the other in their grotesque efforts to avoid the tag. The whole world knows that the tag is there. Lastly — most wonderful of all! — the tag ceases to bite: it ceases to affect men; men are saturated with it. Men are acclimatised to it. They are vaccinated with it; and the tag has now arrived at the exercise of its eternal function, which is to wake in individuals, here in one man, there in another, an overwhelming sense of its truth (or beauty). It begins its career of converting individual men. Let it be mentioned where three are gathered together, and it will be fled from as an out-used thing, but two can make confidences each to the other about it, and one can feel it like a thorn or like a gem in his heart.
+
+“Who goes a-borrowing goes a-sorrowing” has gone through all these phases; so has “Waste not want not.” So has “For who to dull forgetfulness a prey,” etc. So has “Felix qui potuit,” etc. And so have the three or four thousand others that are the stock of a proper mind.
+
+All these set me thinking of yet another tag, and as it is that which most sharply tests humility and, through humility, intelligence, and as, therefore, in this not very humble and not intelligent time it is grossly neglected, there is a pleasure in dwelling upon it. It is to this effect: “The future is veiled from man.”
+
+Good Lord! To read the Press and to hear the speeches! Why, one would think that the future had a map to it! One can hardly hear one’s self think for prophecies; and, what is perhaps the most terrible thing of all, as a symptom of our modern state of mind, the prophecies have a dogmatic quality (using the word “dogmatic” as it is popularly used of transcendental affirmations), for men prophesy in great herds and all together, and to question their prophecies, simply to say that possibly “the future is veiled from man,” creates something now-a-days of the astonishment, ridicule, or anger which the denial of a religious dogma does in a society with a fixed religion. Thus, men in England to-day confidently regard the future of the earth for, let us say, the next hundred years in a certain light. Certain countries (especially new countries) are to increase in a regular manner in value and population and property. Certain other countries are to continue their decline. Certain forms of mechanical perfection are to increase, certain speculations as to the nature of the soul are to decline in interest. But more than any particular set of opinions, there is a general colour stamped upon the future in the modern mind, and how securely it is stamped one can best prove by the amusement or surprise that is caused if one suggests (but does not affirm) that there may be (not that there must be) some totally new philosophy, new religion, or new development within three generations.
+
+A book recently published suggests to me the permanent and ironical value of that old tag “The future is veiled from man.” It is a study of two somewhat obscure individuals who were members of the Revolutionary Tribunal. It is a very detailed study in which one feels in every page the things that were taken for granted in that place and time — in the Paris of the Revolution. What of all that has come to pass? What of all the fixed certitudes as to the future — nay, the fixed certitudes upon the very nature of man from which, as of necessity, the future was deduced, has remained? The author has done all the better in his study of Vilate and Trinchard from the fact that his position in the Archives has permitted him to look into the ultimate details of the period. But not so much the high historical value of the work as its permanent human lesson strikes me as I read.
+
+Vilate was twenty-four when the great war of the Revolution against the Kings was within a month of breaking out, and when he set out for Paris from the lovely rocky pasturage of his province, up beyond Limoges. And this was what he had in his mind: that the revolutionary movement, to use his own words, “must give to the whole world a spur of insurrection against the oppressors of men.” This pathetic certitude was nothing peculiar to the very commonplace young fellow who was leaving his professorship in the Indre for Paris. To him they then seemed as much a commonplace as would seem to some young fellow in a similar position to-day in Birmingham some phase about the development of the West of Canada, or some certain prophecy that nations would enrich themselves in proportion to the amount of coal and iron discovered upon their territories.
+
+When Vilate hears a speech in the Revolutionary Parliament he says: “Truth has now appeared and is fixed for ever. It can now call to its tribunal every abuse, every vice, and every crime.” Has truth done that in the last hundred years? Yet to Vilate the prophecy of what the Revolution was about to do seemed — and not only to him, but to millions of his contemporaries — as simple as some prophecy of ours about the future of communications; and he was as easily persuaded that what he said was true as we are that the North temperate climate (and especially that part of Europe which is insular and lies between parallels 50 and 60) is the natural climatic seat of human energy.
+
+
+
+
+<span class="atom-split" data-atom="story_08_on_the_effect_of_time--part_02" data-title="On Anything — ON THE EFFECT OF TIME (part 2)" data-chapter="ON THE EFFECT OF TIME" data-kind="excerpt"></span>
+
+
+Consider again this, which is not from Vilate’s own pen, but which occurs in the study before me and is of the first interest: Vilate was in the jury on that day. It was the 9th of February, 1794. Seven Carmelite nuns had refused to take the civic oath to the Republic. The judge made a very commonplace and, as it seemed then, a very sensible speech, pointing out that they were perfectly free to observe the vows they had taken, that nothing had disappeared in their lives except the particular convent with which they were associated; that none of their prejudices would be offended. And he pointed out that in the society in which he believed they would have the sense to live, all men would now be permanently free. The nuns refused; they refused because the oath would involve them in schism. How many men at that time surrounding Vilate had the slightest conception of what the renascence of religion was to be in the city of Paris? These women, members or servants of the little reactionary aristocratic clique into which the monastic institution had declined, seemed mere fanatics not only to Vilate but to the whole of his society. Could you suddenly have shown Vilate how Europe would still be raging upon those ultimate questions of religion more than three generations later; could you have presented him with the sight of a whole society divided upon so simple and, as it was then thought, so irrational a point — what would he have thought? I can tell you what he would have thought. No matter what your credentials as a [[Prophet|prophet]], he would have thought your prophecy mad. Though you should have carried him into our very time and given every proof of the reality of his vision, he would have woken up to believe it an illusion and a silly dream.
+
+The state of mind of Trinchard is even more impressive, because Trinchard was an even smaller, more commonplace, and therefore more typical, man. He sat side by side with Vilate in the jury of the Revolutionary Tribunal. Trinchard was a carpenter. He was somewhat over thirty years of age at the period of the Revolution. His brother was a gunner, fighting against the Vendéans, just at that moment when Valenciennes had fallen, and when all seemed over with the Republic; and his brother used to write from the armies, signing “Your brother, a true Republican.” Two months later he was judging Marie Antoinette. He wrote to his brother a letter immediately after the trial. M. Dunoyer publishes in his book (Deux Jurés du Tribunal Révolutionnaire) a facsimile of that letter, and wonderful reading it makes. One might put its bad spelling and street language into modern English something like this: “I’m learning you, brother, that I was one of them jurymen as judged the wilbeast what was wolfing a gurt part of the empire.” And so forth. But the man is doing nothing exceptional. He no more thinks of himself as exceptional than does any leader-writer to-day writing upon the virtues or vices of a contemporary politician in more moderate language. And note you, as a hundred years can make men more temperate, so they can make men more violent, and our modern absence of emphasis may astound our great-grandchildren quite as much as that revolutionary violence astounds us.
+
+A friend writes to him in that spring of 1794 (when Danton died, and when every man was occupied in the defence or in the destruction of the Republic). He is a very ordinary friend, his name is Ploton, a Southerner, as Trinchard was. He corresponds more or less in that society to, let us say, a young village shopkeeper in our own, full of a simple patriotism, and especially full of what the Press tells him. And he heads his letter thus: “Second of Germinal, the second year of the Republic — which is as imperishable as the world.” What rhetoric! Nay, to us reading such stuff to-day, what lunacy! But do not be too sure. Go to the British Museum when you can find an idle afternoon and look up your newspapers of September, 1899, and you will read some amusing phrases.
+
+The truth is that men pass under strong influences of time that fill them more than with wine, rather with an entirety of life. The time in which a man lives may be an exalted time or a weary one, but it fills him altogether, whether it is on fire or drowned. He can conceive, as a rule, nothing in the future different from the temper of his time, though there is all the past to teach him his folly. If he makes a picture of the future, that picture is a mere extension of his own tiny and ephemeral experience, and the more confidently certain he is of that future the more rigidly is it seen by the critical onlooker to be a puppet dressed up in the clothes of the present.
+
+All these things Dunoyer’s careful book upon two men of the Revolutionary Tribunal, a monograph characteristic of that ceaseless and immense research which dignifies the modern French School of History, has suggested to my mind.
+
+Now, whenever I read of the Revolution, in general or in particular, while that lesson of the folly of prophecy perpetually returns to me, yet something else rises from the page. In a certain sense, almost in a mystical sense, the periods of profound faith in a particular future were right. Not because the picture that they saw was true, but because those things outside time upon which they relied were and are true. And even to-day in the sheer anarchy and welter of the time we suffer there is a method of thought which has anchoring ground in the permanent fate of mankind. But what that method may be there is no space to discuss here.
+
+
+
+
 <span class="atom-split" data-atom="story_09_on_a_poet" data-title="On Anything — ON A POET" data-chapter="ON A POET" data-kind="story"></span>
 
 
@@ -2805,6 +2849,96 @@ Next day, having sent in this manuscript that you have read, I called upon my po
 
 
 
+<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_01" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 1)" data-chapter="THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
+
+
+THE BRIGAND OF RADICOFANI
+
+IT IS WITH the utmost pleasure that I am able to communicate to the English-speaking world a literary document of capital importance which my readers had only too great reason to mourn as lost. It will be remembered that my poor friend the Hack, recently deceased in the neighbourhood of the King’s road, suffered in his last hours from the fear that the world might never receive his two masterpieces which he had so long promised them, “The Story of the Hungry Student” and “The Brigand of Radicofani.” It will also be remembered that on reaching his humble lodgings after the publication of the first, I discovered him to be dead, and feared, therefore, that the second of these two classics would never be discovered. I am delighted to say that a Rag and Bottle Merchant and Dealer in Kitchen Stuff near The World’s End (which is a landmark in that neighbourhood) has been found in possession of the precious paper, which by a providential accident is still legible, although it had been used to wrap up two boot-brushes and a second-hand pot of blacking. Such coincidences are not unknown in the history of English Letters.
+
+* * * * * *
+
+A young Colonial journalist, full of a great determination to succeed in life, but insufficiently equipped for that ambition, had occasion to visit the country north of Rome in the year 1903. He had been sent by his proprietors to gather information upon the customs of the peasantry for a series of articles which they designed to publish; he had orders to photograph these natives with or without their leave, and to acquire such a knowledge of the local dialects as would permit him to converse with them.
+
+With his numerous adventures in the extinct volcanoes of that district I need not detain you, nor tell you of how he was imprisoned in Ronciglione, fined by a magistrate in Viterbo, nor how he was soundly beaten by a drunken mason in the town of Bolsena, whose lovely lake he still remembers with associated feelings of admiration and regret. It is more to my purpose to retail how in each of these towns as he wandered northwards, and at every intervening house of call, he was perpetually reminded of the Brigand of Radicofani. Some, when he would ask them questions upon their local habits, would reply, “Oh, go and discuss it with the Brigand of Radicofani”; others, when he attempted to stammer his experiences of the road, would tell him that the Brigand would make a better audience than they. The magistrate who fined him at Viterbo made an allusion to the Brigand of Radicofani which he caught but ill, but which provoked, to his annoyance, considerable laughter in court. The policeman who locked him up in Ronciglione turned the key with an allusion to the same individual, and even the drunken mason in the very act of beating him in Bolsena bade him begone to the Brigand of Radicofani. As for Acquapendente, the town was full of rumours about this strange man, the children in the streets, who should have known better, took the young Colonial twice for the Brigand and followed him in chorus, calling him by that name; while a little brown man who was pushing a barrow assured him with great solemnity that he was taking its contents of private refreshment for the Brigand of Radicofani.
+
+It may be imagined with what eagerness the journalist left the town next morning by the northern road and with what curiosity of attention he marked the little town of Radicofani perched upon its distant conical hill and glaring white under the hot morning. “There,” said he to himself, as he laboriously panted up the last slope, “I shall find a character indeed worthy of so many pains, and discover something perhaps of permanent value for the history of this ancient land.”
+
+He seated himself in the principal room of the first inn he came to within the gate and boldly asked whether it were possible at that hour to interview the Brigand. The young woman who was the mistress of the house looked at him for a moment in a sort of stupor, then bursting into wild cries not unmixed with laughter, she fled from him and left him for quite a quarter of an hour alone; she returned with a little crowd of Radicofanian burgesses who stood round, hats in hand, looking at him lugubriously. At last the oldest of them, a man with a noble head, handsome and grey, said to him solemnly —
+
+“Do we understand, Excellence, that you desire to see the well-known Brigand of Radicofani?”
+
+“That is so,” replied the journalist manfully. “I am indeed sorry if my pursuit of such an audience seems impertinent, for I recognise the high position held by this gentleman in your community; and I am equally sorry if I have given you any trouble by my request. But as I am deputed by a foreign newspaper of high standing to discover what I can of the customs of an ancient land, I could hardly proceed onward to the notable town of Sienna and leave behind me uninterviewed the principal personage of your countryside.”
+
+“Not a word,” said the grave leader of that band, “it is a pleasure to serve one who takes so flattering an interest in our poor affairs. If your Excellency will but wait a moment and read the local newspapers, one of which he will discover to be religious, the other of contrary tone, the Brigand shall shortly be introduced to you.”
+
+Heartened by this promise, the young journalist read with some care the leading articles of the greasy rags before him, and maintained his dignity and his apparent attention to the text in spite of occasional openings of the door accompanied by the giggling and elbowing of the curious who, in out-of-the-way places, infest a stranger.
+
+At last the door opened wide before the sweeping gesture and the advancing stride of one accustomed to command, and the Brigand of Radicofani stood before the traveller.
+
+His dress was picturesque in the extreme: he had on knee breeches ornamented with parti-coloured ribbons, his calves were swathed round with crisscross bands, a rustic pipe hung from his belt, which also sheathed four knives of different dimensions with variegated and curious carved handles. Aslant across these he wore a naked dagger quite eighteen inches long; a gloomy cloak depended from one shoulder; upon his head was a steeple-crowned hat, very tall and pointed, and adorned, like the rest of his person, with ribbons of gay hue. In either ear he wore an enormous ring of gold, and black ringlets which shone with some oily substance depended in profusion from either side of his head. This extraordinary figure was completed by a gigantic blunderbuss with a bore about the size of a duck gun and ending in a huge bell mouth quite nine inches across.
+
+
+
+
+<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_02" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 2)" data-chapter="THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
+
+
+The Brigand (for it was he) startled the journalist by asking in a terrible voice what he wanted with him, and bidding him be brief and to the point in his interrogations or demands. As he so spoke he tapped with his left hand the curious handle of his dagger, keeping his fist clenched upon his haunch and his right arm akimbo, while his left leg and foot were advanced in a martial and even in a threatening manner. The young Colonial, who was acquainted — by his reading — with many situations of danger, summoned all his firmness, begged the Brigand to share the wine which stood before him, and assured him that he had only disturbed his leisure in order to hear from the lips of one so justly prominent in the ancient and noble town of Radicofani memories of its great past intermingled, as he hoped, with records of the Brigand’s individual career.
+
+Mollified by such an address, the great man sank into the rickety chair opposite the journalist, assumed the attitude of the warrior at ease, and began with plentiful and dramatic gesture the recital of many things.
+
+Brigandage, he assured his companion, was now by no means the trade it had been; he had himself taken to the road at the early age of fifteen, having been persuaded to that industry by an uncle of his, a Canon of Viterbo. “For in the old days” (he was careful to add) “this country was very easily administered, and the clergy in especial defended and encouraged the picturesque customs which such an ease of administration bred. Often after a hard night upon the highway, or after some successful business in the brushwood above the city, I would make it my business to call upon my revered uncle to press upon him some trinket as a mark of my esteem, or if the day had been exceptionally lucky, some piece of foreign gold which a tourist (for they were even then numerous in these parts) might have left in my possession. The old man died,” continued the Brigand with a sigh, “in the year ‘68, during the reign of the late Pope Pius IX, and it was perhaps as well, for great changes were impending which, had he lived to see them, would have broken his heart. For myself,” the Brigand went on thoughtfully, “I am too much of a patriot to complain of the unification of my country, and I had some hopes on the establishment of a new government of obtaining a permanent situation under it which, as I was now approaching middle age, would be more consonant to my years than the precarious though active and healthy career I had hitherto pursued. For some moments in the year 1873 I hoped I might be appointed receiver of the taxes, a post for which my intimate knowledge of the whole countryside and my many connections with the farmers of the locality seemed singularly to fit me. A former chief of mine, for whom I had always preserved a reverent attachment, was very powerful in this department, and assured me that I might look for a regular post so soon as he was himself installed in the office of the Fisc at Orvieto. But there!” continued the Brigand, sighing, “loyalty and gratitude are sentiments soon dissipated in the atmosphere of politics, and though I had the pleasure of seeing my old chief installed as the head of his department, no such post as he had hinted at came my way. Meanwhile trade sank: artists, literary men, and poor fowl of that sort still thought it an eccentric and therefore a desirable thing to approach the Eternal City by road, and these I would not infrequently be at the pains of carrying off for ransom; but it was a dwindling and a most unsatisfactory trade. The wealthy took more and more to the railway; the new government at the Quirinal, after a certain amount of hesitation, definitely decided upon a policy inimical to our profession, if not actually hostile to it. My advancing years, and the various circumstances I have detailed, made the dear old life less and less possible, until one day” (here he sighed again profoundly) “in ‘93, just ten years ago, I was constrained to accept a situation as a model under an agency which provides such individuals for the entertainment of foreigners. I was already old (I am over seventy as you see me here and now), but I often think with bitterness as I poise upon one leg in an attitude of flight, or shield my eyes with my hands with a gesture that is very much applauded by the ladies who sketch me — I often think with bitterness, I say, as I adopt these various attitudes to order, of the days when I was known as the Lion of the Amiata, when my name was a terror from far beyond the Tiber to the marshes that border the Mediterranean Sea.”
+
+The old man was silent, and the journalist, who had been busy taking notes, and was profoundly moved by the recital he had heard, asked the Brigand most deferentially and in a gentle tone whether these memories did not stir him to some particular story, and whether he could not recite before the stranger left some especially telling incident of his great past.
+
+“Why,” mused the vigorous old man, rising slowly from his chair, “I think I can reconstruct for you that famous occasion which the old wives still tell as a winter story, when I held up the Syndic of Montefiascone, and without the trouble of binding him to a tree nor of inflicting the slightest mutilation, I acquired for the purposes of my expenditure all that was movable upon his person. Come, let us reconstruct the scene.” He put a heavy hand upon the young journalist’s shoulder, looking round the room as he did so for a favourable stage upon which to order the drama.
+
+The Colonial rose at the same time, and the Brigand, shaking his head, and growling like a monarch of the forest, muttered deeply: “No, no, this place is too small!”
+
+With the moving of the chairs many had come into the little inn parlour and followed the pair out into the blazing market square, and the brigand led the now dubious journalist into that public place. Their appearance in the open was the signal for a great gathering; children ran from narrow alleys, market women rushed up with shrill voices, farmers engaged in bargaining left their sport for the superior attractions of the scene, and loud cries of “The Brigand is going to work — come and see the Brigand” were heard upon every side. The journalist maintained his dignity, and even allowed a faint smile to flicker upon his anxious lips as the Brigand, pacing the cobblestones of the market-place in a thoughtful manner, decided the spot where his companion should stand.
+
+
+
+
+<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_03" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 3)" data-chapter="THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
+
+
+“Here,” he said, stamping with his foot, “this was about the distance.”
+
+The journalist found himself alone, the crowd retired at some fifty yards; before him was the street leading northward out of the town towards Sienna; it was empty. He turned and saw facing him the large concourse of people recounting to each other the interest of the proceedings; and he further perceived that the Brigand, who stood a little in front of them all, was slowly disembarrassing his blunderbuss from the innumerable details of his costume.
+
+“Thus,” shouted the old giant in a terrible voice, “stood I. There where you are stood the Syndic. Come, look slightly away and upwards as though you did not perceive me, for such was the Syndic’s attitude upon the occasion in question. Make as though you were walking leisurely, but do not actually take a step, for that would destroy the reconstruction of the scene which I am arranging for your entertainment.”
+
+With great deliberation the Brigand of Radicofani next proceeded to pour into the huge bell mouth of his blunderbuss a measure of gunpowder from a horn; next he rammed in a piece of the anticlerical newspaper with the rusty ramrod which he had with difficulty drawn from its rings; he replaced the ramrod, and as deliberately dropped into the mouth of his deadly instrument a number of large leaden slugs.
+
+“Thus,” said he as he made these preparations, “did I carefully load while the unsuspecting Syndic leisurely crossed before my line of fire.”
+
+As he said these words the Brigand slowly raised the blunderbuss to his shoulder, leaned his great body forward, and bent his head until an eye of extraordinary brilliance and power was gleaming down the top of the barrel. The concourse was now silent, and the journalist, with an admirable sense of what was required of him, adopted the attitude of a man walking at a leisurely pace, and acted to perfection the part of the Syndic.
+
+“Halt!” roared the Brigand in startling and quite novel tones. The journalist instinctively started, and the Brigand bitterly added: “Must I fire, or will you spare me that expense by laying carefully upon the ground at your feet your watch, your purse, your rings, your pocket-book, and such valuables as you may have about you?”
+
+The journalist with no little hesitation (for he found this too realistic) threw down a coin byway of simulacrum.
+
+“He mocks me!” bellowed the Brigand, while all the crowd applauded. “He hesitates to obey (thus did I speak to the Syndic). Come, empty all your pockets and turn them inside out that I may see them.”
+
+The journalist, excusing his pride by the reflection that the whole thing was but a game, with some reluctance did as he was bid. There lay at his feet upon the market square of Radicofani a little heap of valuables, a quantity of private correspondence, a handkerchief and a note-book.
+
+“Now,” shouted the Brigand, still carefully aiming at the foreigner’s head, “go! Go warily, and step backward if you choose, to assure yourself that I shall not lower my gun.”
+
+For some few steps the journalist so walked toward the northern gate, and step by step, keeping his distance, the immense old man pursued, while the crowd with subdued applause, encouraged his action, and with rising menaces bade the stranger not cross the Brigand’s purpose, since upon these occasions he was terrible if he was thwarted. When he had nearly reached the limits of the town the unfortunate traveller began to protest that the joke should end. To his horror the reply which reached him, not from the Brigand alone but from many of his supporters, was given in tones of increasing sincerity, and he shuddered to see, or to think he saw, the pressure of the finger upon the trigger. He hesitated for a moment, and then suddenly he ran....
+
+The northern road out of Radicofani is steep: its steepness aided his flight, and when he was well down toward the valley he heard (and that increased his determination) a loud report, and high over his head sung a covey of slugs. He neither looked back nor attempted to order his confused mind, but ran without ceasing until from sheer exhaustion he dropped at the roadside.
+
+To his delight he saw two mounted policemen in splendid uniforms. He recounted his tale; they looked at him severely, and one of them, beckoning with his finger, said, “Follow us.”
+
+He followed them for miles and miles. Of how he was subsequently examined, disbelieved, threatened with fine and imprisonment, and at last escaped only by an appeal to his consul in Sienna, you may read in the interesting memoirs which he is about to publish under the title of “Etruscan Wine and Song.”
+
+Meanwhile in Radicofani the Brigand drinks and sings.
+
+
+
+
 <span class="atom-split" data-atom="story_28_the_honest_man_and_the_devil" data-title="On Anything — THE HONEST MAN AND THE DEVIL" data-chapter="THE HONEST MAN AND THE DEVIL" data-kind="story"></span>
 
 
@@ -3335,6 +3469,98 @@ The little spare old gunner shrugged his shoulders. “They would have found it 
 
 
 
+<span class="atom-split" data-atom="story_34_the_hunter--part_01" data-title="On Anything — THE HUNTER (part 1)" data-chapter="THE HUNTER" data-kind="excerpt"></span>
+
+
+THE HUNTER
+
+ONE DAY I had occasion to travel, at the expense of a fund more or less public, and certainly collective, in a railway train of which the carriages were wagons-de-luxe. It was by its description a train for the Very Rich, yet few of that numerous class were travelling in it, for it was going in the depth of winter from one of the most desolate highlands of Europe to another of Europe’s most offensive deserts. I had business with one and the other.
+
+There was in the dining-car of this luxurious train a gentleman who sat opposite me. He was dressed, as are so many of his class, in boots and striped trousers and a black coat and waistcoat. He had on a quiet tie of grey silk and what is called upon the Continent an English collar. He was nearly bald, but his eyes were determined, and his moustaches were of the shape and seemed to be of the size of buffalo’s horns. They were of a metallic colour and looked like steel.
+
+It is the custom on the Continent of Europe for males when they meet to accost each other, even if they have not been introduced, as indeed is the custom (if you will observe it narrowly) of the mass of the population at home. There is, indeed, a story of a man who stood upon the bridge at Lyons wringing his hands and shouting out as he gazed upon the arrowy Rhone which was bearing down very rapidly a drowning human head: “Will no one introduce me to that gentleman that I may save him? For I am an excellent swimmer.” But this story would not apply to the mass of males upon the Continent. We therefore were ready to accost each other. He spoke to me in a curious language which I believed to be Hungarian — for though I do not know Basque I should have recognised the Basque terminations, and Finnish would not be used in the West of Europe, and save for Basque, Hungarian, and Finnish all other tongues have something in common. The Teutonic dialects, though they are infinite, can at once be distinguished, and a Russian does not address you in his own tongue in a foreign country. When, therefore, this stranger man had spoken to me in this tongue which I believed to be Hungarian, I replied to him gently in the Limousin dialect as being the most southern with which I had any acquaintance, and upon the principle, that with foreigners the more southern you are the better chance you have. He answered in pure Italian, which is of no use to me. I spoke to him then in the French of Paris, which he understood ill, but did not speak at all. At last we tumbled upon a mutual language, which, for the honour I bear you, I will not name; but it was neither Latin nor Arabic, nor the language of the Genoese; and if I called it lingua franca you would feel a legitimate annoyance.
+
+We had not spoken of many things before he told me his own characteristics, which were these: that he was a brave man but modest; that he had a contempt for riches, and was content to live upon the small income derivable from funds inherited from his father; that he revered the memory of his father; that he was devoted to his mother, “who lived in a modest way in a provincial town, hating the extravagance of the capital. He further told me that he had been by profession a soldier, and upon my asking whether his stoical life were not diversified by some amusement he answered that he had permitted himself certain recreations, but only those befitting the uniform he wore, and notably was he addicted to the chase of wild and powerful beasts.
+
+“It is often remarked,” he said, “by those who know nothing of the business, that modern firearms have made the destruction of the larger carnivora too easy a task for the sportsman. This may in general be the case, but only if men are fighting under luxurious conditions. A man going out by himself with his gun, unaccompanied by a dog, and determined upon the destruction of some one considerable four-footed beast of prey, still runs a certain risk.”
+
+“You are right,” said I, “and a relative of mine who under such conditions attempted the bear, though having only designed to attempt wild-fowl, in the impenetrable thickets of Scandinavia, was very bitterly disappointed and has been lamed for life.”
+
+At this my companion was a little put out. “The bear is not carnivorous,” he said, “and a brave man should be able to tackle a bear with his hands. I really cannot understand how your relative (as you call him), if he had a fowling-piece or even so much as a pocket-pistol with a range of ten yards, could not shoot off a bear.... But to return to my original thesis, which is that the larger carnivora are really dangerous to a man walking alone, however well armed he may be. It was so armed but undefended by companions that I found myself on the borders of the Indian Ocean five years ago....”
+
+“Which border of that vast sea did you inhabit?” said I with some curiosity, and I was beginning to make a list of all its boundaries, including the magnificent but undeveloped districts which fringe the north-west of the great island of Australia, when he went on as though I had not spoken —
+
+“ ... A tiger, or, I should rather say, a tigress, growled in the dense underwood, and I was immediately upon the alert.”
+
+“Knowledge,” I replied, “is a remarkable thing; it amazes me and my friends who are familiar with the classics, though I believe there is very little to know in that department. Even the chemists astonish me, and the people who talk technically about warships are remarkable men; but I see that in your case, as in that of so many others, I have more to learn with every day I live, for there came a growl from the underwood and you knew it to be that of a tiger — nay, of a tigress. But,” I continued, lifting my hand as he would interrupt me, “though it fills me with admiration it does not make me hesitate, for I know men who can talk a language after passing a week in the country to which it is native, and I beg you to fulfil my curiosity.”
+
+“I heard the growl of a tigress,” said he, eager to continue his narrative, “proceeding from the underwood, which is called in that country rawak.”
+
+
+
+
+<span class="atom-split" data-atom="story_34_the_hunter--part_02" data-title="On Anything — THE HUNTER (part 2)" data-chapter="THE HUNTER" data-kind="excerpt"></span>
+
+
+“Why is it called rawak?” I interrupted.
+
+“Because,” he explained, with an intelligent look, “it is composed of mera roots and sinchu closely interlaced, with a screen of reeds ten feet high or more waving above it.”
+
+I told him that I now perfectly understood and desired to hear more.
+
+“I heard,” said he, “the growl of a tigress, and I at once made ready my arm and prepared for the worst.”
+
+“When you say made ready your arm” (I again interrupted him) “I want to seize the matter clearly, for the interest of your tale absorbs me — what exactly did you do to the instrument, for I am acquainted with a certain number of firearms, and each has to be prepared in a different manner?”
+
+“I pulled the bolt,” said he coldly, and then maintained rather an offended silence.
+
+“Did you not snap the safety catch?” said I, in some fear that I had put him out by my cross-examination.
+
+“No, sir,” said he, “my rifle (for such it was) was adorned by no such appliance. But I pulled the spring ratchet home. And by way of precaution I pressed my thumb upon the main-pin for fear that the ratchet of the cambor should slip from the second groove.”
+
+“Now I understand you perfectly,” I said, “and I beg you to continue.” And as I said this I leaned my head upon my hand so far as the jolting of the express train would allow me, and watched him with a thoughtful frown.
+
+“Well, sir,” went on the Unknown in an independent manner, “if you will believe me, when the beast sprang I missed him — I mean her.”
+
+“One moment,” I said, “one moment. I cannot believe you. You mean that you missed some vital spot. That you missed so enormous an animal in mid-air, as large as a cottage, and in full career to bear you down, fraught with death, with pain, and with defeat, spreading its arms like windmills, and roaring to announce its approach — that I will not believe.”
+
+“You are right,” said he, eyeing me in an iron manner, “I did not wholly miss the ferocious monster — or rather, monstress. When we sportsmen say ‘miss’ we mean hitting some part of the animal which is not vital or which still permits it to pursue its abominable purpose. At any rate the tigress (for such it was) fell to earth within a few feet of me. It did not reach me. It had miscalculated its spring....”
+
+“It is a curious point,” said I (always desirous to pursue a conversation and to prolong it), “how difficult it is for a man, or a beast for that matter, to estimate the distance which he has to jump. I well remember trying to jump the River Rother, which is near the eastern boundary of my own county....”
+
+“You will allow me,” he interrupted.
+
+“No, sir,” I continued, “pray let me tell you what I had to say, for it is in my mind and I wish to be rid of it. I well remember, I say, trying to jump the River Rother and missing by three feet, but if you will believe me — —”
+
+“Will you allow me?” he said, a little angrily.
+
+“In a moment, sir,” said I, “in a moment.... Well, I say I missed it by three feet, and many a friend of mine has missed things by a little minus, but the funny thing is that they never miss it by a little plus. Now, isn’t that worth judging? I did indeed know one case....”
+
+“I am determined you shall allow me,” said my companion, becoming earnest.
+
+“One moment,” I pleaded, lifting my right hand slightly from the table. “I was once with a man who had to jump from an old piece of fortification on to the top of a wall about ten feet off, and if he jumped not far enough he fell into the soft ditch about five feet deep. But if he jumped too far he fell into an enormous fosse a hundred feet deep. And, by the Lord, he jumped exactly three inches too far! Poor devil!... Now, if this tigress of yours had only jumped just over your head you would have had her at a disadvantage. You could have changed your front with the rapidity familiar to men of your profession, organised a concentrated fire against her just as she was executing her turning movement, and got her behind the shoulder-blade. But....”
+
+“There is no ‘but,’” said he, with an impressive but rather dangerous solemnity. “I say that the tigress came to earth just in front of me and advanced upon me by one and by two. I had no time to reload and to fire. I was all alone. What did I do?”
+
+“That is what I was waiting to hear,” I said. “It seems to me the climax of the whole story. I trust that you seized its — or I should say her — upper jaw with your left hand, lower jaw with your right hand, and tore the head asunder. There is no quicker way with a tigress.”
+
+“You are wrong,” said he.
+
+“Did you not, then,” said I, “suddenly fasten both hands upon its throat and, digging your thumbs conversely from right and from left upon its windpipe, strangle it to death? Such a manœuvre is a matter of moments, and he laughs best who laughs last.”
+
+“I did not,” said he, in a rising anger.
+
+At this moment the train began to slow down, and I knew the place it was approaching, for I am very familiar with the line. A porter who did not know me, but whom I secretly bribed, perceiving the danger of the circumstances, took my bag and made a great noise with it and asked a number of questions. Everybody got up, and the crowd of us began to jostle down the gangway of the eating-car. The Hero was at first just behind me, and was beginning to explain to me what exactly he did to the tigress when we were unfortunately separated by two commercial travellers, a professional singer, and a politician.
+
+Fate dominates the lives of men, though Will is a corrective of Fate. Men in a restaurant-car are like the leaves that flutter from trees or like the particles of water in the eddying of a river. I drifted from him further and further still. When we came out upon the crowded platform I saw him, the Hero, waving his hand to me, desiring to re-establish with me human and communicable things and to tell me how he did at last destroy that mighty beast. But Fate, which is the master of human things, would not have it so, and Will, which is but a corrective of Fate for us poor humans, stood me in no stead. We drifted apart; we never met again. He was off perhaps to shoot (and miss) some other tigress (or, who knows, a tiger?) and I to another town where I might yet again wonder at the complexity of the world and the justice of God!
+
+Anyhow, I never understood how he killed the tigress. Were it not for the evidence of my senses I should be willing to believe that the tigress killed him. But we must never believe anything that is even apparently against the evidence of our senses.
+
+Farewell, dear mortals!
+
+
+
+
 <span class="atom-split" data-atom="story_35_our_inheritance" data-title="On Anything — OUR INHERITANCE" data-chapter="OUR INHERITANCE" data-kind="story"></span>
 
 
@@ -3473,229 +3699,3 @@ For a full quarter of an hour Robespierre went on, and Couthon, as a matter of r
 St. Just, startled suddenly like a man awakened, thought of the hour, remembered the Parliament, and went out with his friend.
 
 Fouché with his hand to his chin crossed the courtyard and went up the stairs to that part of the house which overlooked the Rue St. Honoré. He had something to say to Charlotte. Couthon, who was hungry, remained to lunch, but he found his hosts dull and a little ill-tempered. He could not fill the void that had been left by Robespierre.
-
-
-
-
-<span class="atom-split" data-atom="story_08_on_the_effect_of_time--part_01" data-title="On Anything — ON THE EFFECT OF TIME (part 1)" data-chapter="ON THE EFFECT OF TIME" data-kind="excerpt"></span>
-
-
-ON THE EFFECT OF TIME
-
-OF ALL CONTRASTS the most ironical and the most profound is the contrast between the Tag and the Truth of the Tag. A couple of lines are chosen by humanity from the work of a great poet, and are usually so chosen not only because they are beautiful, but because they are true. When they have been repeated a certain number of times they become a tag. A proverb or a mere popular statement puts into the shortest possible form some extremely simple, and perhaps extremely obvious, at any rate (this is quite certain) some extremely important, truth. Every one sees it is a truth, everybody repeats it, and it becomes a tag.
-
-Now note the next phase in the life of the said tag. It is criticised and it is ridiculed; it becomes a solid butt for the archery of human wit. That phase lasts, perhaps, the lifetime of a man.
-
-Now note the third phase, for it will teach you the most that can be learnt about mankind, and it is endless. It is the consummation of the tag and the test of humanity afforded by the tag. The tag is now taken for granted and is eternal, and the following things happen to it: children are taught it like the alphabet; they are compelled to learn it. Hobbledehoys, great wits, and leaders of thought avoid it because it is commonplace. They can be seen waggling from one side of the road to the other in their grotesque efforts to avoid the tag. The whole world knows that the tag is there. Lastly — most wonderful of all! — the tag ceases to bite: it ceases to affect men; men are saturated with it. Men are acclimatised to it. They are vaccinated with it; and the tag has now arrived at the exercise of its eternal function, which is to wake in individuals, here in one man, there in another, an overwhelming sense of its truth (or beauty). It begins its career of converting individual men. Let it be mentioned where three are gathered together, and it will be fled from as an out-used thing, but two can make confidences each to the other about it, and one can feel it like a thorn or like a gem in his heart.
-
-“Who goes a-borrowing goes a-sorrowing” has gone through all these phases; so has “Waste not want not.” So has “For who to dull forgetfulness a prey,” etc. So has “Felix qui potuit,” etc. And so have the three or four thousand others that are the stock of a proper mind.
-
-All these set me thinking of yet another tag, and as it is that which most sharply tests humility and, through humility, intelligence, and as, therefore, in this not very humble and not intelligent time it is grossly neglected, there is a pleasure in dwelling upon it. It is to this effect: “The future is veiled from man.”
-
-Good Lord! To read the Press and to hear the speeches! Why, one would think that the future had a map to it! One can hardly hear one’s self think for prophecies; and, what is perhaps the most terrible thing of all, as a symptom of our modern state of mind, the prophecies have a dogmatic quality (using the word “dogmatic” as it is popularly used of transcendental affirmations), for men prophesy in great herds and all together, and to question their prophecies, simply to say that possibly “the future is veiled from man,” creates something now-a-days of the astonishment, ridicule, or anger which the denial of a religious dogma does in a society with a fixed religion. Thus, men in England to-day confidently regard the future of the earth for, let us say, the next hundred years in a certain light. Certain countries (especially new countries) are to increase in a regular manner in value and population and property. Certain other countries are to continue their decline. Certain forms of mechanical perfection are to increase, certain speculations as to the nature of the soul are to decline in interest. But more than any particular set of opinions, there is a general colour stamped upon the future in the modern mind, and how securely it is stamped one can best prove by the amusement or surprise that is caused if one suggests (but does not affirm) that there may be (not that there must be) some totally new philosophy, new religion, or new development within three generations.
-
-A book recently published suggests to me the permanent and ironical value of that old tag “The future is veiled from man.” It is a study of two somewhat obscure individuals who were members of the Revolutionary Tribunal. It is a very detailed study in which one feels in every page the things that were taken for granted in that place and time — in the Paris of the Revolution. What of all that has come to pass? What of all the fixed certitudes as to the future — nay, the fixed certitudes upon the very nature of man from which, as of necessity, the future was deduced, has remained? The author has done all the better in his study of Vilate and Trinchard from the fact that his position in the Archives has permitted him to look into the ultimate details of the period. But not so much the high historical value of the work as its permanent human lesson strikes me as I read.
-
-Vilate was twenty-four when the great war of the Revolution against the Kings was within a month of breaking out, and when he set out for Paris from the lovely rocky pasturage of his province, up beyond Limoges. And this was what he had in his mind: that the revolutionary movement, to use his own words, “must give to the whole world a spur of insurrection against the oppressors of men.” This pathetic certitude was nothing peculiar to the very commonplace young fellow who was leaving his professorship in the Indre for Paris. To him they then seemed as much a commonplace as would seem to some young fellow in a similar position to-day in Birmingham some phase about the development of the West of Canada, or some certain prophecy that nations would enrich themselves in proportion to the amount of coal and iron discovered upon their territories.
-
-When Vilate hears a speech in the Revolutionary Parliament he says: “Truth has now appeared and is fixed for ever. It can now call to its tribunal every abuse, every vice, and every crime.” Has truth done that in the last hundred years? Yet to Vilate the prophecy of what the Revolution was about to do seemed — and not only to him, but to millions of his contemporaries — as simple as some prophecy of ours about the future of communications; and he was as easily persuaded that what he said was true as we are that the North temperate climate (and especially that part of Europe which is insular and lies between parallels 50 and 60) is the natural climatic seat of human energy.
-
-
-
-
-<span class="atom-split" data-atom="story_08_on_the_effect_of_time--part_02" data-title="On Anything — ON THE EFFECT OF TIME (part 2)" data-chapter="ON THE EFFECT OF TIME" data-kind="excerpt"></span>
-
-
-Consider again this, which is not from Vilate’s own pen, but which occurs in the study before me and is of the first interest: Vilate was in the jury on that day. It was the 9th of February, 1794. Seven Carmelite nuns had refused to take the civic oath to the Republic. The judge made a very commonplace and, as it seemed then, a very sensible speech, pointing out that they were perfectly free to observe the vows they had taken, that nothing had disappeared in their lives except the particular convent with which they were associated; that none of their prejudices would be offended. And he pointed out that in the society in which he believed they would have the sense to live, all men would now be permanently free. The nuns refused; they refused because the oath would involve them in schism. How many men at that time surrounding Vilate had the slightest conception of what the renascence of religion was to be in the city of Paris? These women, members or servants of the little reactionary aristocratic clique into which the monastic institution had declined, seemed mere fanatics not only to Vilate but to the whole of his society. Could you suddenly have shown Vilate how Europe would still be raging upon those ultimate questions of religion more than three generations later; could you have presented him with the sight of a whole society divided upon so simple and, as it was then thought, so irrational a point — what would he have thought? I can tell you what he would have thought. No matter what your credentials as a [[Prophet|prophet]], he would have thought your prophecy mad. Though you should have carried him into our very time and given every proof of the reality of his vision, he would have woken up to believe it an illusion and a silly dream.
-
-The state of mind of Trinchard is even more impressive, because Trinchard was an even smaller, more commonplace, and therefore more typical, man. He sat side by side with Vilate in the jury of the Revolutionary Tribunal. Trinchard was a carpenter. He was somewhat over thirty years of age at the period of the Revolution. His brother was a gunner, fighting against the Vendéans, just at that moment when Valenciennes had fallen, and when all seemed over with the Republic; and his brother used to write from the armies, signing “Your brother, a true Republican.” Two months later he was judging Marie Antoinette. He wrote to his brother a letter immediately after the trial. M. Dunoyer publishes in his book (Deux Jurés du Tribunal Révolutionnaire) a facsimile of that letter, and wonderful reading it makes. One might put its bad spelling and street language into modern English something like this: “I’m learning you, brother, that I was one of them jurymen as judged the wilbeast what was wolfing a gurt part of the empire.” And so forth. But the man is doing nothing exceptional. He no more thinks of himself as exceptional than does any leader-writer to-day writing upon the virtues or vices of a contemporary politician in more moderate language. And note you, as a hundred years can make men more temperate, so they can make men more violent, and our modern absence of emphasis may astound our great-grandchildren quite as much as that revolutionary violence astounds us.
-
-A friend writes to him in that spring of 1794 (when Danton died, and when every man was occupied in the defence or in the destruction of the Republic). He is a very ordinary friend, his name is Ploton, a Southerner, as Trinchard was. He corresponds more or less in that society to, let us say, a young village shopkeeper in our own, full of a simple patriotism, and especially full of what the Press tells him. And he heads his letter thus: “Second of Germinal, the second year of the Republic — which is as imperishable as the world.” What rhetoric! Nay, to us reading such stuff to-day, what lunacy! But do not be too sure. Go to the British Museum when you can find an idle afternoon and look up your newspapers of September, 1899, and you will read some amusing phrases.
-
-The truth is that men pass under strong influences of time that fill them more than with wine, rather with an entirety of life. The time in which a man lives may be an exalted time or a weary one, but it fills him altogether, whether it is on fire or drowned. He can conceive, as a rule, nothing in the future different from the temper of his time, though there is all the past to teach him his folly. If he makes a picture of the future, that picture is a mere extension of his own tiny and ephemeral experience, and the more confidently certain he is of that future the more rigidly is it seen by the critical onlooker to be a puppet dressed up in the clothes of the present.
-
-All these things Dunoyer’s careful book upon two men of the Revolutionary Tribunal, a monograph characteristic of that ceaseless and immense research which dignifies the modern French School of History, has suggested to my mind.
-
-Now, whenever I read of the Revolution, in general or in particular, while that lesson of the folly of prophecy perpetually returns to me, yet something else rises from the page. In a certain sense, almost in a mystical sense, the periods of profound faith in a particular future were right. Not because the picture that they saw was true, but because those things outside time upon which they relied were and are true. And even to-day in the sheer anarchy and welter of the time we suffer there is a method of thought which has anchoring ground in the permanent fate of mankind. But what that method may be there is no space to discuss here.
-
-
-
-
-<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_01" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 1)" data-chapter="THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
-
-
-THE BRIGAND OF RADICOFANI
-
-IT IS WITH the utmost pleasure that I am able to communicate to the English-speaking world a literary document of capital importance which my readers had only too great reason to mourn as lost. It will be remembered that my poor friend the Hack, recently deceased in the neighbourhood of the King’s road, suffered in his last hours from the fear that the world might never receive his two masterpieces which he had so long promised them, “The Story of the Hungry Student” and “The Brigand of Radicofani.” It will also be remembered that on reaching his humble lodgings after the publication of the first, I discovered him to be dead, and feared, therefore, that the second of these two classics would never be discovered. I am delighted to say that a Rag and Bottle Merchant and Dealer in Kitchen Stuff near The World’s End (which is a landmark in that neighbourhood) has been found in possession of the precious paper, which by a providential accident is still legible, although it had been used to wrap up two boot-brushes and a second-hand pot of blacking. Such coincidences are not unknown in the history of English Letters.
-
-* * * * * *
-
-A young Colonial journalist, full of a great determination to succeed in life, but insufficiently equipped for that ambition, had occasion to visit the country north of Rome in the year 1903. He had been sent by his proprietors to gather information upon the customs of the peasantry for a series of articles which they designed to publish; he had orders to photograph these natives with or without their leave, and to acquire such a knowledge of the local dialects as would permit him to converse with them.
-
-With his numerous adventures in the extinct volcanoes of that district I need not detain you, nor tell you of how he was imprisoned in Ronciglione, fined by a magistrate in Viterbo, nor how he was soundly beaten by a drunken mason in the town of Bolsena, whose lovely lake he still remembers with associated feelings of admiration and regret. It is more to my purpose to retail how in each of these towns as he wandered northwards, and at every intervening house of call, he was perpetually reminded of the Brigand of Radicofani. Some, when he would ask them questions upon their local habits, would reply, “Oh, go and discuss it with the Brigand of Radicofani”; others, when he attempted to stammer his experiences of the road, would tell him that the Brigand would make a better audience than they. The magistrate who fined him at Viterbo made an allusion to the Brigand of Radicofani which he caught but ill, but which provoked, to his annoyance, considerable laughter in court. The policeman who locked him up in Ronciglione turned the key with an allusion to the same individual, and even the drunken mason in the very act of beating him in Bolsena bade him begone to the Brigand of Radicofani. As for Acquapendente, the town was full of rumours about this strange man, the children in the streets, who should have known better, took the young Colonial twice for the Brigand and followed him in chorus, calling him by that name; while a little brown man who was pushing a barrow assured him with great solemnity that he was taking its contents of private refreshment for the Brigand of Radicofani.
-
-It may be imagined with what eagerness the journalist left the town next morning by the northern road and with what curiosity of attention he marked the little town of Radicofani perched upon its distant conical hill and glaring white under the hot morning. “There,” said he to himself, as he laboriously panted up the last slope, “I shall find a character indeed worthy of so many pains, and discover something perhaps of permanent value for the history of this ancient land.”
-
-He seated himself in the principal room of the first inn he came to within the gate and boldly asked whether it were possible at that hour to interview the Brigand. The young woman who was the mistress of the house looked at him for a moment in a sort of stupor, then bursting into wild cries not unmixed with laughter, she fled from him and left him for quite a quarter of an hour alone; she returned with a little crowd of Radicofanian burgesses who stood round, hats in hand, looking at him lugubriously. At last the oldest of them, a man with a noble head, handsome and grey, said to him solemnly —
-
-“Do we understand, Excellence, that you desire to see the well-known Brigand of Radicofani?”
-
-“That is so,” replied the journalist manfully. “I am indeed sorry if my pursuit of such an audience seems impertinent, for I recognise the high position held by this gentleman in your community; and I am equally sorry if I have given you any trouble by my request. But as I am deputed by a foreign newspaper of high standing to discover what I can of the customs of an ancient land, I could hardly proceed onward to the notable town of Sienna and leave behind me uninterviewed the principal personage of your countryside.”
-
-“Not a word,” said the grave leader of that band, “it is a pleasure to serve one who takes so flattering an interest in our poor affairs. If your Excellency will but wait a moment and read the local newspapers, one of which he will discover to be religious, the other of contrary tone, the Brigand shall shortly be introduced to you.”
-
-Heartened by this promise, the young journalist read with some care the leading articles of the greasy rags before him, and maintained his dignity and his apparent attention to the text in spite of occasional openings of the door accompanied by the giggling and elbowing of the curious who, in out-of-the-way places, infest a stranger.
-
-At last the door opened wide before the sweeping gesture and the advancing stride of one accustomed to command, and the Brigand of Radicofani stood before the traveller.
-
-His dress was picturesque in the extreme: he had on knee breeches ornamented with parti-coloured ribbons, his calves were swathed round with crisscross bands, a rustic pipe hung from his belt, which also sheathed four knives of different dimensions with variegated and curious carved handles. Aslant across these he wore a naked dagger quite eighteen inches long; a gloomy cloak depended from one shoulder; upon his head was a steeple-crowned hat, very tall and pointed, and adorned, like the rest of his person, with ribbons of gay hue. In either ear he wore an enormous ring of gold, and black ringlets which shone with some oily substance depended in profusion from either side of his head. This extraordinary figure was completed by a gigantic blunderbuss with a bore about the size of a duck gun and ending in a huge bell mouth quite nine inches across.
-
-
-
-
-<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_02" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 2)" data-chapter="THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
-
-
-The Brigand (for it was he) startled the journalist by asking in a terrible voice what he wanted with him, and bidding him be brief and to the point in his interrogations or demands. As he so spoke he tapped with his left hand the curious handle of his dagger, keeping his fist clenched upon his haunch and his right arm akimbo, while his left leg and foot were advanced in a martial and even in a threatening manner. The young Colonial, who was acquainted — by his reading — with many situations of danger, summoned all his firmness, begged the Brigand to share the wine which stood before him, and assured him that he had only disturbed his leisure in order to hear from the lips of one so justly prominent in the ancient and noble town of Radicofani memories of its great past intermingled, as he hoped, with records of the Brigand’s individual career.
-
-Mollified by such an address, the great man sank into the rickety chair opposite the journalist, assumed the attitude of the warrior at ease, and began with plentiful and dramatic gesture the recital of many things.
-
-Brigandage, he assured his companion, was now by no means the trade it had been; he had himself taken to the road at the early age of fifteen, having been persuaded to that industry by an uncle of his, a Canon of Viterbo. “For in the old days” (he was careful to add) “this country was very easily administered, and the clergy in especial defended and encouraged the picturesque customs which such an ease of administration bred. Often after a hard night upon the highway, or after some successful business in the brushwood above the city, I would make it my business to call upon my revered uncle to press upon him some trinket as a mark of my esteem, or if the day had been exceptionally lucky, some piece of foreign gold which a tourist (for they were even then numerous in these parts) might have left in my possession. The old man died,” continued the Brigand with a sigh, “in the year ‘68, during the reign of the late Pope Pius IX, and it was perhaps as well, for great changes were impending which, had he lived to see them, would have broken his heart. For myself,” the Brigand went on thoughtfully, “I am too much of a patriot to complain of the unification of my country, and I had some hopes on the establishment of a new government of obtaining a permanent situation under it which, as I was now approaching middle age, would be more consonant to my years than the precarious though active and healthy career I had hitherto pursued. For some moments in the year 1873 I hoped I might be appointed receiver of the taxes, a post for which my intimate knowledge of the whole countryside and my many connections with the farmers of the locality seemed singularly to fit me. A former chief of mine, for whom I had always preserved a reverent attachment, was very powerful in this department, and assured me that I might look for a regular post so soon as he was himself installed in the office of the Fisc at Orvieto. But there!” continued the Brigand, sighing, “loyalty and gratitude are sentiments soon dissipated in the atmosphere of politics, and though I had the pleasure of seeing my old chief installed as the head of his department, no such post as he had hinted at came my way. Meanwhile trade sank: artists, literary men, and poor fowl of that sort still thought it an eccentric and therefore a desirable thing to approach the Eternal City by road, and these I would not infrequently be at the pains of carrying off for ransom; but it was a dwindling and a most unsatisfactory trade. The wealthy took more and more to the railway; the new government at the Quirinal, after a certain amount of hesitation, definitely decided upon a policy inimical to our profession, if not actually hostile to it. My advancing years, and the various circumstances I have detailed, made the dear old life less and less possible, until one day” (here he sighed again profoundly) “in ‘93, just ten years ago, I was constrained to accept a situation as a model under an agency which provides such individuals for the entertainment of foreigners. I was already old (I am over seventy as you see me here and now), but I often think with bitterness as I poise upon one leg in an attitude of flight, or shield my eyes with my hands with a gesture that is very much applauded by the ladies who sketch me — I often think with bitterness, I say, as I adopt these various attitudes to order, of the days when I was known as the Lion of the Amiata, when my name was a terror from far beyond the Tiber to the marshes that border the Mediterranean Sea.”
-
-The old man was silent, and the journalist, who had been busy taking notes, and was profoundly moved by the recital he had heard, asked the Brigand most deferentially and in a gentle tone whether these memories did not stir him to some particular story, and whether he could not recite before the stranger left some especially telling incident of his great past.
-
-“Why,” mused the vigorous old man, rising slowly from his chair, “I think I can reconstruct for you that famous occasion which the old wives still tell as a winter story, when I held up the Syndic of Montefiascone, and without the trouble of binding him to a tree nor of inflicting the slightest mutilation, I acquired for the purposes of my expenditure all that was movable upon his person. Come, let us reconstruct the scene.” He put a heavy hand upon the young journalist’s shoulder, looking round the room as he did so for a favourable stage upon which to order the drama.
-
-The Colonial rose at the same time, and the Brigand, shaking his head, and growling like a monarch of the forest, muttered deeply: “No, no, this place is too small!”
-
-With the moving of the chairs many had come into the little inn parlour and followed the pair out into the blazing market square, and the brigand led the now dubious journalist into that public place. Their appearance in the open was the signal for a great gathering; children ran from narrow alleys, market women rushed up with shrill voices, farmers engaged in bargaining left their sport for the superior attractions of the scene, and loud cries of “The Brigand is going to work — come and see the Brigand” were heard upon every side. The journalist maintained his dignity, and even allowed a faint smile to flicker upon his anxious lips as the Brigand, pacing the cobblestones of the market-place in a thoughtful manner, decided the spot where his companion should stand.
-
-
-
-
-<span class="atom-split" data-atom="story_27_the_brigand_of_radicofani--part_03" data-title="On Anything — THE BRIGAND OF RADICOFANI (part 3)" data-chapter="THE BRIGAND OF RADICOFANI" data-kind="excerpt"></span>
-
-
-“Here,” he said, stamping with his foot, “this was about the distance.”
-
-The journalist found himself alone, the crowd retired at some fifty yards; before him was the street leading northward out of the town towards Sienna; it was empty. He turned and saw facing him the large concourse of people recounting to each other the interest of the proceedings; and he further perceived that the Brigand, who stood a little in front of them all, was slowly disembarrassing his blunderbuss from the innumerable details of his costume.
-
-“Thus,” shouted the old giant in a terrible voice, “stood I. There where you are stood the Syndic. Come, look slightly away and upwards as though you did not perceive me, for such was the Syndic’s attitude upon the occasion in question. Make as though you were walking leisurely, but do not actually take a step, for that would destroy the reconstruction of the scene which I am arranging for your entertainment.”
-
-With great deliberation the Brigand of Radicofani next proceeded to pour into the huge bell mouth of his blunderbuss a measure of gunpowder from a horn; next he rammed in a piece of the anticlerical newspaper with the rusty ramrod which he had with difficulty drawn from its rings; he replaced the ramrod, and as deliberately dropped into the mouth of his deadly instrument a number of large leaden slugs.
-
-“Thus,” said he as he made these preparations, “did I carefully load while the unsuspecting Syndic leisurely crossed before my line of fire.”
-
-As he said these words the Brigand slowly raised the blunderbuss to his shoulder, leaned his great body forward, and bent his head until an eye of extraordinary brilliance and power was gleaming down the top of the barrel. The concourse was now silent, and the journalist, with an admirable sense of what was required of him, adopted the attitude of a man walking at a leisurely pace, and acted to perfection the part of the Syndic.
-
-“Halt!” roared the Brigand in startling and quite novel tones. The journalist instinctively started, and the Brigand bitterly added: “Must I fire, or will you spare me that expense by laying carefully upon the ground at your feet your watch, your purse, your rings, your pocket-book, and such valuables as you may have about you?”
-
-The journalist with no little hesitation (for he found this too realistic) threw down a coin byway of simulacrum.
-
-“He mocks me!” bellowed the Brigand, while all the crowd applauded. “He hesitates to obey (thus did I speak to the Syndic). Come, empty all your pockets and turn them inside out that I may see them.”
-
-The journalist, excusing his pride by the reflection that the whole thing was but a game, with some reluctance did as he was bid. There lay at his feet upon the market square of Radicofani a little heap of valuables, a quantity of private correspondence, a handkerchief and a note-book.
-
-“Now,” shouted the Brigand, still carefully aiming at the foreigner’s head, “go! Go warily, and step backward if you choose, to assure yourself that I shall not lower my gun.”
-
-For some few steps the journalist so walked toward the northern gate, and step by step, keeping his distance, the immense old man pursued, while the crowd with subdued applause, encouraged his action, and with rising menaces bade the stranger not cross the Brigand’s purpose, since upon these occasions he was terrible if he was thwarted. When he had nearly reached the limits of the town the unfortunate traveller began to protest that the joke should end. To his horror the reply which reached him, not from the Brigand alone but from many of his supporters, was given in tones of increasing sincerity, and he shuddered to see, or to think he saw, the pressure of the finger upon the trigger. He hesitated for a moment, and then suddenly he ran....
-
-The northern road out of Radicofani is steep: its steepness aided his flight, and when he was well down toward the valley he heard (and that increased his determination) a loud report, and high over his head sung a covey of slugs. He neither looked back nor attempted to order his confused mind, but ran without ceasing until from sheer exhaustion he dropped at the roadside.
-
-To his delight he saw two mounted policemen in splendid uniforms. He recounted his tale; they looked at him severely, and one of them, beckoning with his finger, said, “Follow us.”
-
-He followed them for miles and miles. Of how he was subsequently examined, disbelieved, threatened with fine and imprisonment, and at last escaped only by an appeal to his consul in Sienna, you may read in the interesting memoirs which he is about to publish under the title of “Etruscan Wine and Song.”
-
-Meanwhile in Radicofani the Brigand drinks and sings.
-
-
-
-
-<span class="atom-split" data-atom="story_34_the_hunter--part_01" data-title="On Anything — THE HUNTER (part 1)" data-chapter="THE HUNTER" data-kind="excerpt"></span>
-
-
-THE HUNTER
-
-ONE DAY I had occasion to travel, at the expense of a fund more or less public, and certainly collective, in a railway train of which the carriages were wagons-de-luxe. It was by its description a train for the Very Rich, yet few of that numerous class were travelling in it, for it was going in the depth of winter from one of the most desolate highlands of Europe to another of Europe’s most offensive deserts. I had business with one and the other.
-
-There was in the dining-car of this luxurious train a gentleman who sat opposite me. He was dressed, as are so many of his class, in boots and striped trousers and a black coat and waistcoat. He had on a quiet tie of grey silk and what is called upon the Continent an English collar. He was nearly bald, but his eyes were determined, and his moustaches were of the shape and seemed to be of the size of buffalo’s horns. They were of a metallic colour and looked like steel.
-
-It is the custom on the Continent of Europe for males when they meet to accost each other, even if they have not been introduced, as indeed is the custom (if you will observe it narrowly) of the mass of the population at home. There is, indeed, a story of a man who stood upon the bridge at Lyons wringing his hands and shouting out as he gazed upon the arrowy Rhone which was bearing down very rapidly a drowning human head: “Will no one introduce me to that gentleman that I may save him? For I am an excellent swimmer.” But this story would not apply to the mass of males upon the Continent. We therefore were ready to accost each other. He spoke to me in a curious language which I believed to be Hungarian — for though I do not know Basque I should have recognised the Basque terminations, and Finnish would not be used in the West of Europe, and save for Basque, Hungarian, and Finnish all other tongues have something in common. The Teutonic dialects, though they are infinite, can at once be distinguished, and a Russian does not address you in his own tongue in a foreign country. When, therefore, this stranger man had spoken to me in this tongue which I believed to be Hungarian, I replied to him gently in the Limousin dialect as being the most southern with which I had any acquaintance, and upon the principle, that with foreigners the more southern you are the better chance you have. He answered in pure Italian, which is of no use to me. I spoke to him then in the French of Paris, which he understood ill, but did not speak at all. At last we tumbled upon a mutual language, which, for the honour I bear you, I will not name; but it was neither Latin nor Arabic, nor the language of the Genoese; and if I called it lingua franca you would feel a legitimate annoyance.
-
-We had not spoken of many things before he told me his own characteristics, which were these: that he was a brave man but modest; that he had a contempt for riches, and was content to live upon the small income derivable from funds inherited from his father; that he revered the memory of his father; that he was devoted to his mother, “who lived in a modest way in a provincial town, hating the extravagance of the capital. He further told me that he had been by profession a soldier, and upon my asking whether his stoical life were not diversified by some amusement he answered that he had permitted himself certain recreations, but only those befitting the uniform he wore, and notably was he addicted to the chase of wild and powerful beasts.
-
-“It is often remarked,” he said, “by those who know nothing of the business, that modern firearms have made the destruction of the larger carnivora too easy a task for the sportsman. This may in general be the case, but only if men are fighting under luxurious conditions. A man going out by himself with his gun, unaccompanied by a dog, and determined upon the destruction of some one considerable four-footed beast of prey, still runs a certain risk.”
-
-“You are right,” said I, “and a relative of mine who under such conditions attempted the bear, though having only designed to attempt wild-fowl, in the impenetrable thickets of Scandinavia, was very bitterly disappointed and has been lamed for life.”
-
-At this my companion was a little put out. “The bear is not carnivorous,” he said, “and a brave man should be able to tackle a bear with his hands. I really cannot understand how your relative (as you call him), if he had a fowling-piece or even so much as a pocket-pistol with a range of ten yards, could not shoot off a bear.... But to return to my original thesis, which is that the larger carnivora are really dangerous to a man walking alone, however well armed he may be. It was so armed but undefended by companions that I found myself on the borders of the Indian Ocean five years ago....”
-
-“Which border of that vast sea did you inhabit?” said I with some curiosity, and I was beginning to make a list of all its boundaries, including the magnificent but undeveloped districts which fringe the north-west of the great island of Australia, when he went on as though I had not spoken —
-
-“ ... A tiger, or, I should rather say, a tigress, growled in the dense underwood, and I was immediately upon the alert.”
-
-“Knowledge,” I replied, “is a remarkable thing; it amazes me and my friends who are familiar with the classics, though I believe there is very little to know in that department. Even the chemists astonish me, and the people who talk technically about warships are remarkable men; but I see that in your case, as in that of so many others, I have more to learn with every day I live, for there came a growl from the underwood and you knew it to be that of a tiger — nay, of a tigress. But,” I continued, lifting my hand as he would interrupt me, “though it fills me with admiration it does not make me hesitate, for I know men who can talk a language after passing a week in the country to which it is native, and I beg you to fulfil my curiosity.”
-
-“I heard the growl of a tigress,” said he, eager to continue his narrative, “proceeding from the underwood, which is called in that country rawak.”
-
-
-
-
-<span class="atom-split" data-atom="story_34_the_hunter--part_02" data-title="On Anything — THE HUNTER (part 2)" data-chapter="THE HUNTER" data-kind="excerpt"></span>
-
-
-“Why is it called rawak?” I interrupted.
-
-“Because,” he explained, with an intelligent look, “it is composed of mera roots and sinchu closely interlaced, with a screen of reeds ten feet high or more waving above it.”
-
-I told him that I now perfectly understood and desired to hear more.
-
-“I heard,” said he, “the growl of a tigress, and I at once made ready my arm and prepared for the worst.”
-
-“When you say made ready your arm” (I again interrupted him) “I want to seize the matter clearly, for the interest of your tale absorbs me — what exactly did you do to the instrument, for I am acquainted with a certain number of firearms, and each has to be prepared in a different manner?”
-
-“I pulled the bolt,” said he coldly, and then maintained rather an offended silence.
-
-“Did you not snap the safety catch?” said I, in some fear that I had put him out by my cross-examination.
-
-“No, sir,” said he, “my rifle (for such it was) was adorned by no such appliance. But I pulled the spring ratchet home. And by way of precaution I pressed my thumb upon the main-pin for fear that the ratchet of the cambor should slip from the second groove.”
-
-“Now I understand you perfectly,” I said, “and I beg you to continue.” And as I said this I leaned my head upon my hand so far as the jolting of the express train would allow me, and watched him with a thoughtful frown.
-
-“Well, sir,” went on the Unknown in an independent manner, “if you will believe me, when the beast sprang I missed him — I mean her.”
-
-“One moment,” I said, “one moment. I cannot believe you. You mean that you missed some vital spot. That you missed so enormous an animal in mid-air, as large as a cottage, and in full career to bear you down, fraught with death, with pain, and with defeat, spreading its arms like windmills, and roaring to announce its approach — that I will not believe.”
-
-“You are right,” said he, eyeing me in an iron manner, “I did not wholly miss the ferocious monster — or rather, monstress. When we sportsmen say ‘miss’ we mean hitting some part of the animal which is not vital or which still permits it to pursue its abominable purpose. At any rate the tigress (for such it was) fell to earth within a few feet of me. It did not reach me. It had miscalculated its spring....”
-
-“It is a curious point,” said I (always desirous to pursue a conversation and to prolong it), “how difficult it is for a man, or a beast for that matter, to estimate the distance which he has to jump. I well remember trying to jump the River Rother, which is near the eastern boundary of my own county....”
-
-“You will allow me,” he interrupted.
-
-“No, sir,” I continued, “pray let me tell you what I had to say, for it is in my mind and I wish to be rid of it. I well remember, I say, trying to jump the River Rother and missing by three feet, but if you will believe me — —”
-
-“Will you allow me?” he said, a little angrily.
-
-“In a moment, sir,” said I, “in a moment.... Well, I say I missed it by three feet, and many a friend of mine has missed things by a little minus, but the funny thing is that they never miss it by a little plus. Now, isn’t that worth judging? I did indeed know one case....”
-
-“I am determined you shall allow me,” said my companion, becoming earnest.
-
-“One moment,” I pleaded, lifting my right hand slightly from the table. “I was once with a man who had to jump from an old piece of fortification on to the top of a wall about ten feet off, and if he jumped not far enough he fell into the soft ditch about five feet deep. But if he jumped too far he fell into an enormous fosse a hundred feet deep. And, by the Lord, he jumped exactly three inches too far! Poor devil!... Now, if this tigress of yours had only jumped just over your head you would have had her at a disadvantage. You could have changed your front with the rapidity familiar to men of your profession, organised a concentrated fire against her just as she was executing her turning movement, and got her behind the shoulder-blade. But....”
-
-“There is no ‘but,’” said he, with an impressive but rather dangerous solemnity. “I say that the tigress came to earth just in front of me and advanced upon me by one and by two. I had no time to reload and to fire. I was all alone. What did I do?”
-
-“That is what I was waiting to hear,” I said. “It seems to me the climax of the whole story. I trust that you seized its — or I should say her — upper jaw with your left hand, lower jaw with your right hand, and tore the head asunder. There is no quicker way with a tigress.”
-
-“You are wrong,” said he.
-
-“Did you not, then,” said I, “suddenly fasten both hands upon its throat and, digging your thumbs conversely from right and from left upon its windpipe, strangle it to death? Such a manœuvre is a matter of moments, and he laughs best who laughs last.”
-
-“I did not,” said he, in a rising anger.
-
-At this moment the train began to slow down, and I knew the place it was approaching, for I am very familiar with the line. A porter who did not know me, but whom I secretly bribed, perceiving the danger of the circumstances, took my bag and made a great noise with it and asked a number of questions. Everybody got up, and the crowd of us began to jostle down the gangway of the eating-car. The Hero was at first just behind me, and was beginning to explain to me what exactly he did to the tigress when we were unfortunately separated by two commercial travellers, a professional singer, and a politician.
-
-Fate dominates the lives of men, though Will is a corrective of Fate. Men in a restaurant-car are like the leaves that flutter from trees or like the particles of water in the eddying of a river. I drifted from him further and further still. When we came out upon the crowded platform I saw him, the Hero, waving his hand to me, desiring to re-establish with me human and communicable things and to tell me how he did at last destroy that mighty beast. But Fate, which is the master of human things, would not have it so, and Will, which is but a corrective of Fate for us poor humans, stood me in no stead. We drifted apart; we never met again. He was off perhaps to shoot (and miss) some other tigress (or, who knows, a tiger?) and I to another town where I might yet again wonder at the complexity of the world and the justice of God!
-
-Anyhow, I never understood how he killed the tigress. Were it not for the evidence of my senses I should be willing to believe that the tigress killed him. But we must never believe anything that is even apparently against the evidence of our senses.
-
-Farewell, dear mortals!

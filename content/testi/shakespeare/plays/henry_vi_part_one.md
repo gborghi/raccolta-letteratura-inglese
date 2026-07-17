@@ -1,5 +1,5 @@
 ---
-title: "Henry VI Part One — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [6]"
+title: "HENRY VI PART ONE"
 author: "Shakespeare"
 unitType: work
 parentWork: "works/henry-vi-part-one-(shakespeare)"
@@ -9,6 +9,714 @@ tags:
 ---
 
 <div class="atom-reader" data-work="testi/shakespeare/plays/henry_vi_part_one" data-author="Shakespeare" data-workhref="works/henry-vi-part-one-(shakespeare)"></div>
+
+
+<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Henry VI Part One — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Dead march. Enter the funeral of [[King]] Henry the Fifth, attended on by the Duke of Bedford (Regent of France), the [[Duke of Gloucester]] (Protector), the [[Duke of Exeter]], the [[Earl of Warwick]], the Bishop of Winchester, and the Duke of Somerset |
+| BEDFORD | Hung be the heavens with black! Yield, day, to [[Night|night]]! Comets, importing change of times and states, Brandish your crystal tresses in the sky, And with them scourge the bad revolting [[Stars|stars]] That have consented unto Henry’s [[Death|death]]— [[King]] Henry the Fifth, too famous to live long. England ne’er lost a [[King|king]] of so much worth. |
+| [[Gloucester|GLOUCESTER]] | England ne‘er had a [[King|king]] until his [[Time|time]]. Virtue he had, deserving to command. His brandished [[Sword|sword]] did blind men with his beams. His arms spread wider than a dragon’s wings. His sparkling eyes, replete with wrathful [[Fire|fire]], More dazzled and drove back his enemies Than midday sun, fierce bent against their faces. What should I say? His deeds exceed all speech. He ne’er lift up his hand but conquered. |
+| EXETER | We mourn in black; why mourn we not in [[Blood|blood]]? Henry is dead, and never shall revive. Upon a wooden coffin we attend, And [[Death|death]]’s dishonourable victory We with our stately presence glorify, Like captives bound to a triumphant car. What, shall we curse the planets of mishap, That plotted thus our glory’s overthrow? Or shall we think the subtle-witted French Conjurers and sorcerers, that, afraid of him, By [[Magic|magic]] verses have contrived his end? |
+| WINCHESTER | He was a [[King|king]] blest of the [[King]] of Kings. Unto the French, the dreadful judgement day So dreadful will not be as was his sight. The battles of the Lord of Hosts he fought. The Church’s prayers made him so prosperous. |
+| [[Gloucester|GLOUCESTER]] | The Church? Where is it? Had not churchmen prayed, His thread of life had not so soon decayed. None do you like but an effeminate prince, Whom like a schoolboy you may overawe. |
+| WINCHESTER | [[Gloucester]], whate’er we like, thou art Protector, And lookest to command the Prince and realm. Thy wife is proud: she holdeth thee in awe, More than God or religious churchmen may. |
+| [[Gloucester|GLOUCESTER]] | Name not religion, for thou lov‘st the flesh, And ne’er throughout the year to church thou go’st, Except it be to pray against thy foes. |
+| BEDFORD | Cease, cease these jars, and rest your minds in peace. Let’s to the altar. Heralds, wait on us. Exeunt Warwick, Somerset, and heralds with coffin Instead of gold, we’ll offer up our arms— Since arms avail not, now that Henry’s dead. Posterity, await for wretched years, When, at their mothers’ moistened eyes, babes shall suck, Our isle be made a marish of salt [[Tears|tears]], And none but women left to wail the dead. Henry the Fifth, thy [[Ghost|ghost]] I invocate: Prosper this realm; keep it from civil broils; Combat with adverse planets in the heavens. A far more glorious star thy [[Soul|soul]] will make Than [[Julius Caesar]] or bright— Enter a Messenger |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--02_exchange_messenger" data-title="Henry VI Part One — Act I, Scene 1 — exchange (MESSENGER) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MESSENGER | My honourable lords, health to you all. Sad tidings bring I to you out of France, Of loss, of slaughter, and discomfiture. Guyenne, Compiegne, Rouen, Rheims, Orléans, [[Paris]], Gisors, Poitiers are all quite lost. |
+| BEDFORD | What sayst thou, man, before dead Henry’s corpse? Speak softly, or the loss of those great towns Will make him burst his lead and rise from [[Death|death]]. |
+| [[Gloucester|GLOUCESTER]] | (to the Messenger) Is [[Paris]] lost? Is Rouen yielded up? If Henry were recalled to life again, These news would cause him once more yield the [[Ghost|ghost]]. |
+| EXETER | (to the Messenger) How were they lost? What treachery was used? |
+| MESSENGER | No treachery, but want of men and money. Amongst the soldiers this is mutterèd: That here you maintain several factions, And whilst a field should be dispatched and fought, You are disputing of your generals. One would have ling’ring wars, with little cost; Another would fly swift, but wanteth wings; A third thinks, without expense at all, By guileful fair words peace may be obtained. Awake, awake, English nobility! Let not sloth dim your honours new-begot. Cropped are the flower-de-luces in your arms; Of England’s coat, one half is cut away. Exit |
+| EXETER | Were our [[Tears|tears]] wanting to this funeral, These tidings would call forth her flowing tides. |
+| BEDFORD | Me they concern; Regent I am of France. Give me my steeled coat. I’ll fight for France. Away with these disgraceful wailing robes! He removes his mourning robe Wounds will I lend the French, instead of eyes, To weep their intermissive miseries. Enter to them another Messenger with letters |
+| SECOND MESSENGER | Lords, view these letters, full of bad mischance. France is revolted from the English quite, Except some petty towns of no import. The [[Dauphin]] Charles is crowned [[King|king]] in Rheims; The Bastard of Orléans with him is joined; René, Duke of Anjou, doth take his part; The Duke of Alençon flyeth to his side. Exit |
+| EXETER | The [[Dauphin]] crowned [[King]]? All fly to him? O whither shall we fly from this reproach? |
+| [[Gloucester|GLOUCESTER]] | We will not fly, but to our enemies’ throats. Bedford, if thou be slack, I’ll fight it out. |
+| BEDFORD | [[Gloucester]], why [[Doubt|doubt]]’st thou of my forwardness? An army have I mustered in my thoughts, Wherewith already France is overrun. Enter another Messenger |
+| THIRD MESSENGER | My gracious lords, to add to your laments, Wherewith you now bedew [[King]] Henry’s hearse, I must inform you of a dismal fight Betwixt the stout [[Lord Talbot]] and the French. |
+| WINCHESTER | What, wherein Talbot overcame—is’t so? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--03_monologue_third_messenger" data-title="Henry VI Part One — Act I, Scene 1 — monologue (THIRD MESSENGER) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THIRD MESSENGER | O no, wherein [[Lord Talbot]] was o’erthrown. The circumstance I’ll tell you more at large. The tenth of August last, this dreadful lord, Retiring from the siege of Orléans, Having full scarce six thousand in his troop, By three-and-twenty thousand of the French Was round encompassed and set upon. No leisure had he to enrank his men. He wanted pikes to set before his archers— Instead whereof, sharp stakes plucked out of hedges They pitched in the ground confusedly, To keep the horsemen off from breaking in. More than three hours the fight continued, Where valiant Talbot above human thought Enacted wonders with his [[Sword|sword]] and lance. Hundreds he sent to hell, and none durst stand him; Here, there, and everywhere, enraged he slew. The French exclaimed the devil was in arms: All the whole army stood agazed on him. His soldiers, spying his undaunted spirit, ‘A Talbot! A Talbot!’ cried out amain, And rushed into the bowels of the battle. Here had the conquest fully been sealed up, If Sir John Fastolf had not played the coward. He, being in the vanguard placed behind, With purpose to relieve and follow them, Cowardly fled, not having struck one stroke. Hence grew the general wrack and massacre. Enclosèd were they with their enemies. A base Walloon, to win the [[Dauphin]]’s grace, Thrust Talbot with a spear into the back— Whom all France, with their chief assembled strength, Durst not presume to look once in the face. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1--04_exchange_bedford" data-title="Henry VI Part One — Act I, Scene 1 — exchange (BEDFORD) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| BEDFORD | Is Talbot slain then? I will slay myself, For living idly here in pomp and ease Whilst such a worthy leader, wanting aid, Unto his dastard foemen is betrayed. |
+| THIRD MESSENGER | O no, he lives, but is took prisoner, And Lord Scales with him, and Lord Hungerford; Most of the rest slaughtered, or took likewise. |
+| BEDFORD | His ransom there is none but I shall pay. I’ll hale the [[Dauphin]] headlong from his throne; His [[Crown|crown]] shall be the ransom of my friend. Four of their lords I’ll change for one of ours. Farewell, my masters; to my task will I. Bonfires in France forthwith I am to make, To keep our great Saint George’s feast withal. Ten thousand soldiers with me I will take, Whose bloody deeds shall make all Europe quake. |
+| THIRD MESSENGER | So you had need. Fore Orléans, besieged, The English army is grown weak and faint. The [[Earl of Salisbury]] craveth supply, And hardly keeps his men from mutiny, Since they, so few, watch such a multitude. Exit |
+| EXETER | Remember, lords, your oaths to Henry sworn: Either to quell the [[Dauphin]] utterly, Or bring him in obedience to your yoke. |
+| BEDFORD | I do remember it, and here take my leave To go about my preparation. Exit |
+| [[Gloucester|GLOUCESTER]] | I’ll to the Tower with all the haste I can, To view th’artillery and munition, And then I will proclaim young Henry [[King|king]]. Exit |
+| EXETER | To Eltham will I, where the [[Young King|young King]] is, Being ordained his special governor, And for his safety there I’ll best devise. Exit |
+| WINCHESTER | Each hath his place and function to attend; I am left out; for me, nothing remains. But long I will not be Jack-out-of-office. The [[King]] from Eltham I intend to steal, And sit at chiefest stern of public weal. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="Henry VI Part One — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Here alarum. The French are beaten back by the English with great loss. Enter [[Charles the Dauphin]], the Duke of Alençon, and René Duke of Anjou |
+| CHARLES | Who ever saw the like? What men have I? [[dogs|Dogs]], cowards, dastards! I would ne‘er have fled, But that they left me ’midst my enemies. RENÉ Salisbury is a desperate homicide. He fighteth as one weary of his life. The other lords, like lions wanting food, Do rush upon us as their hungry prey. ALENÇON Froissart, a countryman of ours, records England all Olivers and Rolands bred During the [[Time|time]] Edward the Third did reign. More truly now may this be verified, For none but Samsons and Goliases It sendeth forth to skirmish. One to ten? Lean raw-boned rascals, who would e’er suppose They had such [[Courage|courage]] and audacity? |
+| CHARLES | Let’s leave this town, for they are hare-brained slaves, And hunger will enforce them to be more eager. Of old I know them: rather with their teeth The walls they’ll tear down, than forsake the siege. RENÉ I think by some odd gimmers or device Their arms are set, like clocks, still to strike on, Else ne’er could they hold out so as they do. By my consent we’ll even let them [[Alone|alone]]. ALENÇON Be it SO. Enter the Bastard of Orléans |
+| BASTARD | Where’s the Prince [[Dauphin]]? I have news for him. |
+| CHARLES | Bastard of Orléans, thrice welcome to us. |
+| BASTARD | Methinks your looks are sad, your cheer appalled. Hath the late overthrow wrought this offence? Be not dismayed, for succour is at hand. A holy maid hither with me I bring, Which, by a vision sent to her from heaven, Ordained is to raise this tedious siege And drive the English forth the bounds of France. The spirit of deep prophecy she hath, Exceeding the nine sibyls of old Rome. What’s past and what’s to come she can descry. Speak: shall I call her in? Believe my words, For they are certain and unfallible. |
+| CHARLES | Go call her in. Exit Bastard But first, to try her skill, René stand thou as [[Dauphin]] in my place. Question her proudly; let thy looks be stern. By this means shall we sound what skill she hath. Enter the Bastard of Orléans with [[Joan la Pucelle]], armed RENÉ (as Charles) Fair maid, is’t thou wilt do these wondrous feats? |
+| JOAN | René, is’t thou that thinkest to beguile me? Where is the [[Dauphin]]? (To Charles) Come, come from behind. I know thee [[Well|well]], though never seen before. Be not amazed. There’s nothing hid from me. In private will I talk with thee apart. Stand back you lords, and give us leave awhile. René, Alençon and Bastard stand apart RENÉ to Alençon and Bastard She takes upon her bravely, at first dash. |
+| JOAN | [[Dauphin]], I am by birth a shepherd’s daughter, My wit untrained in any kind of art. Heaven and our Lady gracious hath it pleased To shine on my contemptible estate. Lo, whilst I waited on my tender lambs, And to sun’s parching heat displayed my cheeks, God’s mother deigned to appear to me, And in a vision, full of majesty, Willed me to leave my base vocation And free my country from calamity. Her aid she promised, and assured [[success]]. In complete glory she revealed herself— And whereas I was black and swart before, With those clear rays which she infused on me That [[Beauty|beauty]] am I blest with, which you may see. Ask me what question thou canst possible, And I will answer unpremeditated. My [[Courage|courage]] try by combat, if thou dar’st, And thou shalt find that I exceed my sex. Resolve on this: thou shalt be fortunate, If thou receive me for thy warlike mate. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_3--02_exchange_charles" data-title="Henry VI Part One — Act I, Scene 3 — exchange (CHARLES) [2]" data-chapter="Scene 3" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| CHARLES | Thou hast astonished me with thy high terms. Only this proof I’ll of thy valour make: In single combat thou shalt buckle with me. An if thou vanquishest, thy words are true; Otherwise, I renounce all confidence. |
+| JOAN | I am prepared. Here is my keen-edged [[Sword|sword]], Decked with five flower-de-luces on each side— The which at Touraine, in Saint Katherine’s churchyard, Out of a great deal of old iron I chose forth. |
+| CHARLES | Then come a God’s name. I [[Fear|fear]] no woman. |
+| JOAN | And while I live, I’ll ne’er fly from a man. Here they fight and [[Joan la Pucelle]] overcomes |
+| CHARLES | Stay, stay thy hands! Thou art an Amazon, And fightest with the [[Sword|sword]] of Deborah. |
+| JOAN | [[Christ]]’s mother helps me, else I were too weak. |
+| CHARLES | Whoe‘er helps thee, ’tis thou that must help me. Impatiently I burn with thy [[Desire|desire]]. My heart and hands thou hast at once subdued. Excellent Pucelle if thy name be so, Let me thy servant, and not sovereign be. ’Tis the French [[Dauphin]] sueth to thee thus. |
+| JOAN | I must not yield to any rites of [[Love|love]], For my profession’s sacred from above. When I have chased all thy foes from hence, Then will I think upon a recompense. |
+| CHARLES | Meantime, look gracious on thy prostrate thrall. RENÉ to the other lords apart My lord, methinks, is very long in talk. ALENÇON Doubtless he shrives this woman to her smock, Else ne’er could he so long protract his speech. RENÉ Shall we disturb him, since he keeps no mean? ALENÇON He may mean more than we poor men do know. These women are shrewd tempters with their tongues. RENÉ (to Charles) My lord, where are you? What devise you on? Shall we give o’er Orléans, or no? |
+| JOAN | Why, no, I say. Distrustful recreants, Fight till the last gasp; I’ll be your guard. |
+| CHARLES | What she says, I’ll confirm. We’ll fight it out. |
+| JOAN | Assigned am I to be the English scourge. This [[Night|night]] the siege assuredly I’ll raise. Expect Saint Martin’s [[Summer|summer]], halcyon’s days, Since I have entered into these wars. Glory is like a circle in the [[Water|water]], Which never ceaseth to enlarge itself Till, by broad spreading, it disperse to naught. With Henry’s [[Death|death]], the English circle ends. Dispersed are the glories it included. Now am I like that proud insulting [[Ship|ship]] Which Caesar and his fortune bore at once. |
+| CHARLES | Was Mohammed inspired with a dove? Thou with an eagle art inspired then. [[Helen]], the mother of great Constantine, Nor yet Saint Philip’s daughters were like thee. Bright star of [[Venus]], fall’n down on the earth, How may I reverently worship thee enough? ALENÇON Leave off delays, and let us raise the siege. RENÉ Woman, do what thou canst to save our honours. Drive them from Orléans, and be immortalized. |
+| CHARLES | Presently we’ll try. Come, let’s away about it. No [[Prophet|prophet]] will I trust, if she prove false. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--01_exchange_dialogue" data-title="Henry VI Part One — Act II, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A [[Rose|rose]] brier. Enter [[Richard]] Plantagenet, the [[Earl of Warwick]], the Duke of Somerset, William de la Pole (the [[Earl of Suffolk]]), Vernon, and a Lawyer |
+| [[Richard|RICHARD]] PLANTAGENET | Great lords and gentlemen, what means this [[Silence|silence]]? Dare no man answer in a case of [[Truth|truth]]? |
+| SUFFOLK | Within the Temple hall we were too loud. The [[Garden|garden]] here is more convenient. |
+| [[Richard|RICHARD]] PLANTAGENET | Then say at once if I maintained the [[Truth|truth]]; Or else was wrangling Somerset in th’error? |
+| SUFFOLK | [[Faith]], I have been a truant in the law, And never yet could frame my will to it, And therefore frame the law unto my will. |
+| SOMERSET | Judge you, my lord of Warwick, then between us. |
+| WARWICK | Between two hawks, which flies the higher pitch, Between two [[dogs]], which hath the deeper mouth, Between two blades, which bears the better temper, Between two horses, which doth bear him best, Between two girls, which hath the merriest eye, I have perhaps some shallow spirit of judgement; But in these nice sharp quillets of the law, Good [[Faith|faith]], I am no wiser than a daw. |
+| [[Richard|RICHARD]] PLANTAGENET | Tut, tut, here is a mannerly forbearance. The [[Truth|truth]] appears so naked on my side That any purblind eye may find it out. |
+| SOMERSET | And on my side it is so [[Well|well]] apparelled, So clear, so shining, and so evident, That it will glimmer through a blind man’s eye. |
+| [[Richard|RICHARD]] PLANTAGENET | Since you are tongue-tied and so loath to speak, In dumb significants proclaim your thoughts. Let him that is a true-born gentleman And stands upon the [[Honour|honour]] of his birth, If he suppose that I have pleaded [[Truth|truth]], From off this briar pluck a white [[Rose|rose]] with me. He plucks a white [[Rose|rose]] |
+| SOMERSET | Let him that is no coward nor no flatterer, But dare maintain the party of the [[Truth|truth]], Pluck a red [[Rose|rose]] from off this thorn with me. He plucks a red [[Rose|rose]] |
+| WARWICK | I [[Love|love]] no colours, and without all colour Of base insinuating flattery I pluck this white [[Rose|rose]] with Plantagenet. |
+| SUFFOLK | I pluck this red [[Rose|rose]] with young Somerset, And say withal I think he held the right. |
+| VERNON | Stay, lords and gentlemen, and pluck no more Till you conclude that he upon whose side The fewest roses from the tree are cropped Shall yield the other in the right opinion. |
+| SOMERSET | Good Master Vernon, it is [[Well|well]] objected. If I have fewest, I subscribe in [[Silence|silence]]. |
+| [[Richard|RICHARD]] PLANTAGENET | And I. |
+| VERNON | Then for the [[Truth|truth]] and plainness of the case I pluck this pale and maiden blossom here, Giving my verdict on the white [[Rose|rose]]’ side. |
+| SOMERSET | Prick not your finger as you pluck it off, Lest, bleeding, you do paint the white [[Rose|rose]] red, And fall on my side so against your will. |
+| VERNON | If I, my lord, for my opinion bleed, Opinion shall be surgeon to my hurt And keep me on the side where still I am. |
+| SOMERSET | [[Well]], [[Well|well]], come on! Who else? |
+| LAWYER | Unless my study and my books be false, The argument you held was wrong in law; In sign whereof I pluck a white [[Rose|rose]] too. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--02_exchange_richard_plantagenet" data-title="Henry VI Part One — Act II, Scene 4 — exchange (RICHARD PLANTAGENET) [2]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] PLANTAGENET | Now Somerset, where is your argument? |
+| SOMERSET | Here in my scabbard, meditating that Shall dye your white [[Rose|rose]] in a bloody red. |
+| [[Richard|RICHARD]] PLANTAGENET | Meantime your cheeks do counterfeit our roses, For pale they look with [[Fear|fear]], as witnessing The [[Truth|truth]] on our side. |
+| SOMERSET | No, Plantagenet, ‘Tis not for [[Fear|fear]], but anger, that thy cheeks Blush for pure shame to counterfeit our roses, And yet thy tongue will not confess thy error. |
+| [[Richard|RICHARD]] PLANTAGENET | Hath not thy [[Rose|rose]] a canker, Somerset? |
+| SOMERSET | Hath not thy [[Rose|rose]] a thorn, Plantagenet? |
+| [[Richard|RICHARD]] PLANTAGENET | Ay, sharp and piercing, to maintain his [[Truth|truth]], Whiles thy consuming canker eats his falsehood. |
+| SOMERSET | [[Well]], I’ll find friends to wear my bleeding roses, That shall maintain what I have said is true, Where false Plantagenet dare not be seen. |
+| [[Richard|RICHARD]] PLANTAGENET | Now, by this maiden blossom in my hand, I scorn thee and thy fashion, peevish boy. |
+| SUFFOLK | Turn not thy scorns this way, Plantagenet. |
+| [[Richard|RICHARD]] PLANTAGENET | Proud Pole, I will, and scorn both him and thee. |
+| SUFFOLK | I’ll turn my part thereof into thy throat. |
+| SOMERSET | Away, away, good William de la Pole. We grace the yeoman by conversing with him. |
+| WARWICK | Now, by God’s will, thou wrong’st him, Somerset. His grandfather was Lionel Duke of [[Clarence]], Third son to the third Edward, [[King]] of England. [[Spring]] crestless yeomen from so deep a root? |
+| [[Richard|RICHARD]] PLANTAGENET | He bears him on the place’s privilege, Or durst not for his craven heart say thus. |
+| SOMERSET | By him that made me, I’ll maintain my words On any plot of ground in Christendom. Was not thy father, [[Richard]] Earl of Cambridge, For treason executed in our late [[King|king]]’s days? And by his treason stand’st not thou attainted, Corrupted, and exempt from ancient gentry? His trespass yet lives guilty in thy [[Blood|blood]], And till thou be restored thou art a yeoman. |
+| [[Richard|RICHARD]] PLANTAGENET | My father was attached, not attainted; Condemned to die for treason, but no traitor— And that I’ll prove on better men than Somerset, Were growing [[Time|time]] once ripened to my will. For your partaker Pole, and you yourself, I’ll note you in my book of [[Memory|memory]], To scourge you for this apprehension. Look to it [[Well|well]], and say you are [[Well|well]] warned. |
+| SOMERSET | Ah, thou shalt find us ready for thee still, And know us by these colours for thy foes, For these my friends, in spite of thee, shall wear. |
+| [[Richard|RICHARD]] PLANTAGENET | And, by my [[Soul|soul]], this pale and angry [[Rose|rose]], As cognizance of my [[Blood|blood]]-drinking hate, Will I forever, and my faction, wear Until it wither with me to my [[Grave|grave]], Or flourish to the height of my degree. |
+| SUFFOLK | Go forward, and be choked with thy [[Ambition|ambition]]. And so farewell until I meet thee next. Exit |
+| SOMERSET | Have with thee, Pole.—Farewell, ambitious [[Richard]]. Exit |
+| [[Richard|RICHARD]] PLANTAGENET | How I am braved, and must perforce endure it! |
+| WARWICK | This blot that they object against your [[house]] Shall be wiped out in the next parliament, Called for the truce of Winchester and [[Gloucester]]. An if thou be not then created York, I will not live to be accounted Warwick. Meantime, in signal of my [[Love|love]] to thee. Against proud Somerset and William Pole, Will I upon thy party wear this [[Rose|rose]]. And here I prophesy: this brawl today, Grown to this faction in the Temple [[Garden|garden]], Shall send, between the red [[Rose|rose]] and the white, A thousand souls to [[Death|death]] and deadly [[Night|night]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--03_exchange_richard_plantagenet" data-title="Henry VI Part One — Act II, Scene 4 — exchange (RICHARD PLANTAGENET) [3]" data-chapter="Scene 4" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] PLANTAGENET | Good Master Vernon, I am bound to you, That you on my behalf would pluck a flower. |
+| VERNON | In your behalf still will I wear the same. |
+| LAWYER | And so will I. |
+| [[Richard|RICHARD]] PLANTAGENET | Thanks, gentles. Come, let us four to dinner. I dare say This quarrel will drink [[Blood|blood]] another day. Exeunt. The [[Rose|rose]] brier is removed |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Henry VI Part One — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish. Enter [[Young King|young King]] Henry, the Dukes of Exeter and [[Gloucester]], the Bishop of Winchester; the Duke of Somerset and the [[Earl of Suffolk]] with red roses; the [[Earl of Warwick]] and [[Richard]] Plantagenet with white roses. [[Gloucester]] offers to put up a bill; Winchester snatches it, [[Tears|tears]] it |
+| WINCHESTER | Com‘st thou with deep premeditated lines? With written pamphlets studiously devised? Humphrey of [[Gloucester]], if thou canst accuse, Or aught intend’st to lay unto my charge, Do it without invention, suddenly, As I with sudden and extemporal speech Purpose to answer what thou canst object. |
+| [[Gloucester|GLOUCESTER]] | Presumptuous priest, this place commands my patience, Or thou shouldst find thou hast dishonoured me. Think not, although in writing I preferred The manner of thy vile outrageous crimes, That therefore I have forged, or am not able Verbatim to rehearse the method of my pen. No, prelate, such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy [[Pride|pride]]. Thou art a most pernicious usurer, Froward by [[Nature|nature]], enemy to peace, Lascivious, wanton, more than [[Well|well]] beseems A man of thy profession and degree. And for thy treachery, what’s more manifest?— In that thou laid’st a trap to take my life, As [[Well|well]] at [[London]] Bridge as at the Tower. Beside, I [[Fear|fear]] me, if thy thoughts were sifted, The [[King]] thy sovereign is not quite exempt From envious malice of thy swelling heart. |
+| WINCHESTER | [[Gloucester]], I do defy thee.—Lords, vouchsafe To give me hearing what I shall reply. If I were covetous, ambitious, or perverse, As he will have me, how am I so poor? Or how haps it I seek not to advance Or raise myself, but keep my wonted calling? And for dissension, who preferreth peace More than I do ?—except I be provoked. No, my good lords, it is not that offends; It is not that that hath incensed the Duke. It is because no one should sway but he, No one but he should be about the [[King]]— And that engenders thunder in his breast And makes him roar these accusations forth. But he shall know I am as good— |
+| [[Gloucester|GLOUCESTER]] | As good?— Thou bastard of my grandfather. |
+| WINCHESTER | Ay, lordly sir; for what are you, I pray, But one imperious in another’s throne? |
+| [[Gloucester|GLOUCESTER]] | Am I not Protector, saucy priest? |
+| WINCHESTER | And am not I a prelate of the Church? |
+| [[Gloucester|GLOUCESTER]] | Yes—as an outlaw in a [[Castle|castle]] keeps And useth it to patronage his theft. |
+| WINCHESTER | Unreverent [[Gloucester]]. |
+| [[Gloucester|GLOUCESTER]] | Thou art reverend Touching thy spiritual function, not thy life. |
+| WINCHESTER | Rome shall remedy this. [[Gloucester|GLOUCESTER]] Roam thither then. WARWICK (to Winchester) My lord, it were your duty to forbear. |
+| SOMERSET | Ay, so the bishop be not overborne: Methinks my lord should be religious, And know the office that belongs to such. |
+| WARWICK | Methinks his lordship should be humbler. It fitteth not a prelate so to plead. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--02_exchange_somerset" data-title="Henry VI Part One — Act III, Scene 1 — exchange (SOMERSET) [2]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SOMERSET | Yes, when his holy state is touched so near. |
+| WARWICK | State holy or unhallowed, what of that? Is not his grace Protector to the [[King]]? |
+| [[Richard|RICHARD]] PLANTAGENET | (aside) Plantagenet, I see, must hold his tongue, Lest it be said, ‘Speak, sirrah, when you should; Must your bold verdict intertalk with lords?’ Else would I have a fling at Winchester. |
+| [[King|KING]] HENRY | Uncles of [[Gloucester]] and of Winchester, The special watchmen of our English weal, I would prevail, if prayers might prevail, To join your hearts in [[Love|love]] and amity. O what a scandal is it to our [[Crown|crown]] That two such noble peers as ye should jar! Believe me, lords, my tender years can tell Civil dissension is a viperous worm That gnaws the bowels of the commonwealth. A noise within SERVINGMEN (within) Down with the tawny coats! |
+| [[King|KING]] HENRY | What tumult’s this? |
+| WARWICK | An uproar, I dare warrant, Begun through malice of the Bishop’s men. A noise again SERVINGMEN (within) Stones, stones! Enter the Mayor of [[London]] |
+| MAYOR | O my good lords, and virtuous Henry, Pity the [[City|city]] of [[London]], pity us! so The Bishop and the [[Duke of Gloucester]]’s men, Forbidden late to carry any weapon, Have filled their pockets full of pebble stones And, banding themselves in contrary parts, Do pelt so fast at one another’s pate That many have their giddy brains knocked out. Our windows are broke down in every street, And we for [[Fear|fear]] compelled to shut our shops. Enter in skirmish, with bloody pates, Winchester’s Servingmen in tawny coats and [[Gloucester]]’s in blue coats |
+| [[King|KING]] HENRY | We charge you, on allegiance to ourself, To hold your slaught’ring hands and keep the peace. The skirmish ceases Pray, Uncle [[Gloucester]], mitigate this strife. |
+| FIRST SERVINGMAN | Nay, if we be forbidden stones, we’ll fall to it with our teeth. |
+| SECOND SERVINGMAN | Do what ye dare, we are as resolute. Skirmish again |
+| [[Gloucester|GLOUCESTER]] | You of my household, leave this peevish broil, And set this unaccustomed fight aside. |
+| THIRD SERVINGMAN | My lord, we know your grace to be a man Just and upright and, for your royal birth, Inferior to none but to his majesty; And ere that we will suffer such a prince, So kind a father of the commonweal, To be disgraced by an inkhorn mate, We and our wives and children all will fight And have our bodies slaughtered by thy foes. |
+| FIRST SERVINGMAN | Ay, and the very parings of our nails Shall pitch a field when we are dead. They begin to skirmish again |
+| [[Gloucester|GLOUCESTER]] | Stay, stay, I say! An if you [[Love|love]] me as you say you do, Let me persuade you to forbear a while. |
+| [[King|KING]] HENRY | O how this discord doth afflict my [[Soul|soul]]! Can you, my lord of Winchester, behold o My sighs and [[Tears|tears]], and will not once relent? Who should be pitiful if you be not? Or who should study to prefer a peace, If holy churchmen take delight in broils? |
+| WARWICK | Yield, my lord Protector; yield, Winchester— Except you mean with obstinate repulse To slay your sovereign and destroy the realm. You see what mischief-and what murder, too— Hath been enacted through your enmity. Then be at peace, except ye thirst for [[Blood|blood]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--03_exchange_winchester" data-title="Henry VI Part One — Act III, Scene 1 — exchange (WINCHESTER) [3]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| WINCHESTER | He shall submit, or I will never yield. |
+| [[Gloucester|GLOUCESTER]] | Compassion on the [[King]] commands me stoop, Or I would see his heart out ere the priest Should ever get that privilege of me. |
+| WARWICK | Behold, my lord of Winchester, the Duke Hath banished moody discontented fury, As by his smoothed brows it doth appear. Why look you still so stern and tragical? |
+| [[Gloucester|GLOUCESTER]] | Here, Winchester, I offer thee my hand. |
+| [[King|KING]] HENRY | (to Winchester) Fie, Uncle Beaufort! I have heard you preach That malice was a great and grievous sin; And will not you maintain the thing you teach, But prove a chief offender in the same? |
+| WARWICK | Sweet [[King]]! The Bishop hath a kindly gird. For shame, my lord of Winchester, relent. What, shall a [[Child|child]] instruct you what to do? |
+| WINCHESTER | [[Well]], [[Duke of Gloucester]], I will yield to thee [[Love]] for thy [[Love|love]], and hand for hand I give. |
+| [[Gloucester|GLOUCESTER]] | (aside) Ay, but I [[Fear|fear]] me with a hollow heart. (To the others) See here, my friends and loving countrymen, This token serveth for a [[Flag|flag]] of truce Betwixt ourselves and all our followers. So help me God, as I dissemble not. |
+| WINCHESTER | So help me God (aside) as I intend it not. |
+| [[King|KING]] HENRY | O loving uncle, kind [[Duke of Gloucester]], How joyful am I made by this contract! (To Servingmen) Away, my masters, trouble us no more, But join in [[Friendship|friendship]] as your lords have done. first SERVINGMAN Content. I’ll to the surgeon’s. |
+| SECOND SERVINGMAN | And so will I. |
+| THIRD SERVINGMAN | And I will see what physic the tavern affords. Exeunt the Mayor and Servingmen |
+| WARWICK | Accept this scroll, most gracious sovereign, Which in the right of [[Richard]] Plantagenet We do exhibit to your majesty. |
+| [[Gloucester|GLOUCESTER]] | [[Well]] urged, my lord of Warwick—for, sweet prince, An if your grace mark every circumstance, You have great reason to do [[Richard]] right, Especially for those occasions At Eltham Place I told your majesty. |
+| [[King|KING]] HENRY | And those occasions, uncle, were of force.— Therefore, my loving lords, our pleasure is That [[Richard]] be restored to his [[Blood|blood]]. |
+| WARWICK | Let [[Richard]] be restored to his [[Blood|blood]]. So shall his father’s wrongs be recompensed. |
+| WINCHESTER | As will the rest, so willeth Winchester. |
+| [[King|KING]] HENRY | If [[Richard]] will be true, not that [[Alone|alone]] But all the whole inheritance I give That doth belong unto the [[house]] of York, From whence you [[Spring|spring]] by lineal descent. 170 |
+| [[Richard|RICHARD]] PLANTAGENET | Thy humble servant vows obedience And humble service till the point of [[Death|death]]. |
+| [[King|KING]] HENRY | Stoop then, and set your knee against my foot. [[Richard]] kneels And in reguerdon of that duty done, I gird thee with the valiant [[Sword|sword]] of York. Rise, [[Richard]], like a true Plantagenet, And rise created princely [[Duke of York]]. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | (rising) And so thrive [[Richard]], as thy foes may fall; And as my duty springs, so perish they That grudge one thought against your majesty. |
+| ALL BUT [[Richard|RICHARD]] AND | SOMERSET Welcome, high prince, the mighty [[Duke of York]]! |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1--04_exchange_somerset" data-title="Henry VI Part One — Act III, Scene 1 — exchange (SOMERSET) [4]" data-chapter="Scene 1" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SOMERSET | (aside) Perish, base prince, ignoble [[Duke of York]]! |
+| [[Gloucester|GLOUCESTER]] | Now will it best avail your majesty To [[Cross|cross]] the seas and to be crowned in France. The presence of a [[King|king]] engenders [[Love|love]] Amongst his subjects and his loyal friends, As it disanimates his enemies. |
+| [[King|KING]] HENRY | When [[Gloucester]] says the word, [[King]] Henry goes, For friendly counsel cuts off many foes. |
+| [[Gloucester|GLOUCESTER]] | Your ships already are in readiness. Sennet. Exeunt all but Exeter |
+| EXETER | Ay, we may march in England or in France, Not seeing what is likely to ensue. This late dissension grown betwixt the peers Burns under feigned ashes of forged [[Love|love]], And will at last break out into a flame. As festered members rot but by degree Till bones and flesh and sinews fall away, So will this base and envious discord breed. And now I [[Fear|fear]] that fatal prophecy Which, in the [[Time|time]] of Henry named the Fifth, Was in the mouth of every sucking babe: That ‘Henry born at Monmouth should win all, And Henry born at Windsor should lose all’— Which is so plain that Exeter doth wish His days may finish, ere that hapless [[Time|time]]. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--01_exchange_dialogue" data-title="Henry VI Part One — Act III, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Charles the Dauphin]], the Bastard of Orléans, the Duke of Alençon, [[Joan la Pucelle]], and French soldiers |
+| JOAN | Dismay not, princes, at this accident, Nor grieve that Rouen is so recovered. Care is no cure, but rather corrosive, For things that are not to be remedied. Let frantic Talbot triumph for a while, And like a peacock sweep along his tail; We’ll pull his plumes and take away his train, If [[Dauphin]] and the rest will be but ruled. |
+| CHARLES | We have been guided by thee hitherto, And of thy cunning had no diffidence. One sudden foil shall never breed distrust. |
+| BASTARD | (to Joan) Search out thy wit for secret policies, And we will make thee famous through the world. ALENÇON (to Joan) We’ll set thy statue in some holy place And have thee reverenced like a blessed saint. Employ thee then, sweet virgin, for our good. |
+| JOAN | Then thus it must be; this doth Joan devise: By fair persuasions mixed with sugared words We will entice the Duke of Burgundy To leave the Talbot and to follow us. 20 |
+| CHARLES | Ay, marry, sweeting, if we could do that France were no place for Henry’s warriors, Nor should that nation boast it so with us, But be extirpèd from our provinces. ALENÇON For ever should they be expulsed from France And not have title of an earldom here. |
+| JOAN | Your honours shall perceive how I will work To bring this matter to the wished end. Drum sounds afar off Hark, by the sound of drum you may perceive Their powers are marching unto [[Paris]]-ward. Here sound an English march There goes the Talbot, with his colours spread, And all the troops of English after him. Here sound a French march Now in the rearward comes the Duke and his; Fortune in favour makes him lag behind. Summon a parley. We will talk with him. Trumpets sound a parley |
+| CHARLES | calling A parley with the Duke of Burgundy. Enter the Duke of Burgundy |
+| BURGUNDY | Who craves a parley with the Burgundy? |
+| JOAN | The princely Charles of France, thy countryman. |
+| BURGUNDY | What sayst thou, Charles?—for I am marching hence. |
+| CHARLES | Speak, Pucelle, and enchant him with thy words. |
+| JOAN | Brave Burgundy, undoubted [[Hope|hope]] of France, Stay. Let thy humble handmaid speak to thee. |
+| BURGUNDY | Speak on, but be not over-tedious. |
+| JOAN | Look on thy country, look on fertile France, And see the cities and the towns defaced By wasting ruin of the cruel foe. As looks the mother on her lowly babe When [[Death|death]] doth close his tender-dying eyes, See, see the pining malady of France; Behold the wounds, the most unnatural wounds, Which thou thyself hast given her woeful breast. O turn thy edged [[Sword|sword]] another way, Strike those that hurt, and hurt not those that help. One drop of [[Blood|blood]] drawn from thy country’s bosom Should grieve thee more than streams of foreign gore. Return thee, therefore, with a flood of [[Tears|tears]], And wash away thy country’s stained spots. |
+| BURGUNDY | aside Either she hath bewitched me with her words, Or [[Nature|nature]] makes me suddenly relent. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--02_exchange_joan" data-title="Henry VI Part One — Act III, Scene 7 — exchange (JOAN) [2]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| JOAN | Besides, all French and France exclaims on thee, Doubting thy birth and lawful progeny. Who join‘st thou with but with a lordly nation That will not trust thee but for profit’s sake? When Talbot hath set footing once in France And fashioned thee that instrument of ill, Who then but English Henry will be lord, And thou be thrust out like a fugitive? Call we to mind, and mark but this for proof: Was not the Duke of Orléans thy foe? And was he not in England prisoner? But when they heard he was thine enemy They set him free, without his ransom paid, In spite of Burgundy and all his friends. See, then, thou fight’st against thy countrymen, And join’st with them will be thy slaughtermen. Come, come, return; return, thou wandering lord, Charles and the rest will take thee in their arms. |
+| BURGUNDY | aside I am vanquished. These haughty words of hers Have battered me like roaring cannon-shot And made me almost yield upon my knees. (To the others) Forgive me, country, and sweet countrymen; And lords, accept this hearty kind embrace. My forces and my power of men are yours. So farewell, Talbot. I’ll no longer trust thee. |
+| JOAN | Done like a Frenchman—aside turn and turn again. |
+| CHARLES | Welcome, brave Duke. Thy [[Friendship|friendship]] makes us fresh. |
+| BASTARD | And doth beget new [[Courage|courage]] in our breasts. ALENÇON Pucelle hath bravely played her part in this, And doth deserve a coronet of gold. |
+| CHARLES | Now let us on, my lords, and join our powers, And seek how we may prejudice the foe. Exeunt |
+| *(didascalia)* | 3.8 Flourish. Enter [[King]] Henry, the [[Duke of Gloucester]], the Bishop of Winchester, the [[Duke of Exeter]]; [[Richard]] [[Duke of York]], the [[Earl of Warwick]], and Vernon with white roses; the [[Earl of Suffolk]], the Duke of Somerset, and Basset with red roses. To them, with his soldiers, enter [[Lord Talbot]] |
+| TALBOT | My gracious prince and honourable peers, Hearing of your arrival in this realm I have a while given truce unto my wars To do my duty to my sovereign; In sign whereof, this arm that hath reclaimed To your obedience fifty fortresses, Twelve cities, and seven walled towns of strength, Beside five hundred prisoners of esteem, Lets fall his [[Sword|sword]] before your highness’ feet, And with submissive loyalty of heart Ascribes the glory of his conquest got First to my God, and next unto your grace. He kneels |
+| [[King|KING]] HENRY | Is this the [[Lord Talbot]], uncle [[Gloucester]], That hath so long been resident in France? |
+| [[Gloucester|GLOUCESTER]] | Yes, if it please your majesty, my liege. |
+| [[King|KING]] HENRY | (to Talbot) Welcome, brave captain and victorious lord. When I was young—as yet I am not old— I do remember how my father said A stouter champion never handled [[Sword|sword]]. Long since we were resolvèd of your [[Truth|truth]], Your faithful service and your toil in war, Yet never have you tasted our reward, Or been reguerdoned with so much as thanks, Because till now we never saw your face. Therefore stand up, Talbot rises and for these good deserts We here create you Earl of Shrewsbury; And in our coronation take your place. Sennet. Exeunt all but Vernon and Basset |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--03_exchange_vernon" data-title="Henry VI Part One — Act III, Scene 7 — exchange (VERNON) [3]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| VERNON | Now sir, to you that were so hot at sea, Disgracing of these colours that I wear In [[Honour|honour]] of my noble lord of York, Dar’st thou maintain the former words thou spak’st? |
+| BASSET | Yes, sir, as [[Well|well]] as you dare patronage The envious barking of your saucy tongue Against my lord the Duke of Somerset. |
+| VERNON | Sirrah, thy lord I [[Honour|honour]] as he is. |
+| BASSET | Why, what is he?—as good a man as York. |
+| VERNON | Hark ye, not so. In witness, take ye that. Vernon strikes him |
+| BASSET | [[Villain]], thou know‘st the law of arms is such That whoso draws a [[Sword|sword]] ’tis present [[Death|death]], Or else this blow should broach thy dearest [[Blood|blood]]. But I’ll unto his majesty and crave I may have liberty to venge this wrong, When thou shalt see I’ll meet thee to thy cost. |
+| VERNON | [[Well]], miscreant, I’ll be there as soon as you, And after meet you sooner than you would. Exeunt |
+| *(didascalia)* | 4.1 Flourish. Enter [[King]] Henry, the [[Duke of Gloucester]], the Bishop of Winchester, the [[Duke of Exeter]],; [[Richard]] [[Duke of York]], and the [[Earl of Warwick]] with white roses; the [[Earl of Suffolk]] and the Duke of Somerset with red roses; [[Lord Talbot]], and the Governor of [[Paris]] |
+| [[Gloucester|GLOUCESTER]] | Lord Bishop, set the [[Crown|crown]] upon his head. |
+| WINCHESTER | God save [[King]] Henry, of that name the sixth I Winchester crowns the [[King]] |
+| [[Gloucester|GLOUCESTER]] | Now, Governor of [[Paris]], take your oath That you elect no other [[King|king]] but him; Esteem none friends but such as are his friends, And none your foes but such as shall pretend Malicious practices against his state. This shall ye do, so help you righteous God. Enter Sir John Fastolf with a letter |
+| FASTOLF | My gracious sovereign, as I rode from Calais To haste unto your coronation A letter was delivered to my hands, He presents the letters Writ to your grace from th’ Duke of Burgundy. |
+| TALBOT | Shame to the Duke of Burgundy and thee! I vowed, base knight, when I did meet thee next, To tear the Garter from thy craven’s leg, He [[Tears|tears]] it off Which I have done because unworthily Thou wast installèd in that high degree.— Pardon me, princely Henry and the rest. This dastard at the battle of Patay When but in all I was six thousand strong, And that the French were almost ten to one, Before we met, or that a stroke was given, Like to a trusty squire did run away; In which assault we lost twelve hundred men. Myself and divers gentlemen beside Were there surprised and taken prisoners. Then judge, great lords, if I have done amiss, Or whether that such cowards ought to wear This ornament of knighthood: yea or no? |
+| [[Gloucester|GLOUCESTER]] | To say the [[Truth|truth]], this fact was infamous And ill beseeming any [[Common Man|common man]], Much more a knight, a captain and a leader. |
+| TALBOT | When first this order was ordained, my lords, Knights of the Garter were of noble birth, Valiant and virtuous, full of haughty [[Courage|courage]], Such as were grown to credit by the wars; Not fearing [[Death|death]] nor shrinking for distress, But always resolute in most extremes. He then that is not furnished in this sort Doth but usurp the sacred name of knight, Profaning this most honourable order, And should—if I were worthy to be judge— Be quite degraded, like a hedge-born swain That doth presume to boast of gentle [[Blood|blood]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--04_exchange_king_henry" data-title="Henry VI Part One — Act III, Scene 7 — exchange (KING HENRY) [4]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] HENRY | (to Fastolf) Stain to thy countrymen, thou hear’st thy doom. Be packing, therefore, thou that wast a knight. Henceforth we banish thee on [[Pain|pain]] of [[Death|death]]. Exit Fastolf And now, my Lord Protector, view the letter Sent from our uncle, Duke of Burgundy. |
+| [[Gloucester|GLOUCESTER]] | What means his grace that he hath changed his style? No more but plain and bluntly ‘To the [[King]]’? Hath he forgot he is his sovereign? Or doth this churlish superscription Pretend some alteration in good will? What’s here? ‘I have upon especial cause, Moved with compassion of my country’s wrack Together with the pitiful complaints Of such as your oppression feeds upon, Forsaken your pernicious faction And joined with Charles, the rightful [[King of France]].’ O monstrous treachery! Can this be so? That in alliance, amity, and oaths There should be found such false dissembling guile? |
+| [[King|KING]] HENRY | What? Doth my uncle Burgundy revolt? |
+| [[Gloucester|GLOUCESTER]] | He doth, my lord, and is become your foe. |
+| [[King|KING]] HENRY | Is that the worst this letter doth contain? |
+| [[Gloucester|GLOUCESTER]] | It is the worst, and all, my lord, he writes. |
+| [[King|KING]] HENRY | Why then, [[Lord Talbot]] there shall talk with him And give him chastisement for this abuse. (To Talbot) How say you, my lord? Are you not content? |
+| TALBOT | Content, my liege? Yes. But that I am prevented, I should have begged I might have been employed. |
+| [[King|KING]] HENRY | Then gather strength and march unto him straight. Let him perceive how ill we brook his treason, And what offence it is to flout his friends. |
+| TALBOT | I go, my lord, in heart desiring still You may behold confusion of your foes. Exit Enter Vernon wearing a white [[Rose|rose]], and Basset wearing a red [[Rose|rose]] |
+| VERNON | (to [[King]] Henry) Grant me the combat, gracious sovereign. |
+| BASSET | (to [[King]] Henry) And me, my lord; grant me the combat, too. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | (to [[King]] Henry, pointing to Vernon) This is my servant; hear him, noble Prince. |
+| SOMERSET | (to [[King]] Henry, pointing to Basset) And this is mine, sweet Henry; favour him. |
+| [[King|KING]] HENRY | Be patient, lords, and give them leave to speak. Say, gentlemen, what makes you thus exclaim, And wherefore crave you combat, or with whom? |
+| VERNON | With him, my lord; for he hath done me wrong. |
+| BASSET | And I with him; for he hath done me wrong. |
+| [[King|KING]] HENRY | What is that wrong whereof you both complain? First let me know, and then I’ll answer you. |
+| BASSET | Crossing the sea from England into France, This fellow here with envious carping tongue Upbraided me about the [[Rose|rose]] I wear, Saying the sanguine colour of the [[Leaves|leaves]] Did represent my master’s blushing cheeks When stubbornly he did repugn the [[Truth|truth]] About a certain question in the law Argued betwixt the [[Duke of York]] and him, With other vile and ignominious terms; In confutation of which rude reproach, And in defence of my lord’s worthiness, I crave the benefit of law of arms. |
+| VERNON | And that is my petition, noble lord; For though he seem with forged quaint conceit To set a gloss upon his bold intent, Yet know, my lord, I was provoked by him, And he first took exceptions at this badge, Pronouncing that the paleness of this flower Bewrayed the faintness of my master’s heart. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--05_exchange_richard_duke_of_york" data-title="Henry VI Part One — Act III, Scene 7 — exchange (RICHARD DUKE OF YORK) [5]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Will not this malice, Somerset, be left? |
+| SOMERSET | Your private grudge, my lord of York, will out, Though ne’er so cunningly you smother it. |
+| [[King|KING]] HENRY | Good Lord, what [[Madness|madness]] rules in brainsick men When for so slight and frivolous a cause Such factious emulations shall arise? Good cousins both of York and Somerset, Quiet yourselves, I pray, and be at peace. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Let this dissension first be tried by fight, And then your highness shall command a peace. |
+| SOMERSET | The quarrel toucheth none but us [[Alone|alone]]; Betwixt ourselves let us decide it then. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | There is my pledge. Accept it, Somerset. |
+| VERNON | (to [[King]] Henry) Nay, let it rest where it began at first. |
+| BASSET | (to [[King]] Henry) Confirm it so, mine honourable lord. |
+| [[Gloucester|GLOUCESTER]] | Confirm it so? Confounded be your strife, And perish ye with your audacious prate! Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the [[King]] and us? And you, my lords, methinks you do not [[Well|well]] To bear with their perverse objections, Much less to take occasion from their mouths To raise a mutiny betwixt yourselves. Let me persuade you take a better course. |
+| EXETER | It grieves his highness. Good my lords, be friends. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--06_monologue_king_henry" data-title="Henry VI Part One — Act III, Scene 7 — monologue (KING HENRY) [6]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] HENRY | Come hither, you that would be combatants. Henceforth I charge you, as you [[Love|love]] our favour, Quite to forget this quarrel and the cause. And you, my lords, remember where we are— In France, amongst a fickle wavering nation. If they perceive dissension in our looks, And that within ourselves we disagree, How will their grudging stomachs be provoked To wilful disobedience, and [[Rebel|rebel]]! Beside, what infamy will there arise When foreign princes shall be certified That for a toy, a thing of no regard, [[King]] Henry’s peers and chief nobility Destroyed themselves and lost the realm of France! O, think upon the conquest of my father, My tender years, and let us not forgo That for a trifle that was bought with [[Blood|blood]]. Let me be umpire in this doubtful strife. I see no reason, if I wear this [[Rose|rose]], He takes a red [[Rose|rose]] That anyone should therefore be suspicious I more incline to Somerset than York. Both are my kinsmen, and I [[Love|love]] them both. As [[Well|well]] they may upbraid me with my [[Crown|crown]] Because, forsooth, the [[King]] of Scots is crowned. But your discretions better can persuade Than I am able to instruct or teach, And therefore, as we hither came in peace, So let us still continue peace and [[Love|love]]. Cousin of York, we institute your grace To be our regent in these parts of France; And good my lord of Somerset, unite Your troops of horsemen with his bands of foot, And like true subjects, sons of your progenitors, Go cheerfully together and digest Your angry choler on your enemies. Ourself, my Lord Protector, and the rest, After some respite, will return to Calais, From thence to England, where I [[Hope|hope]] ere long To be presented by your victories With Charles, Alençon, and that traitorous rout. Flourish. Exeunt all but York, Warwick, |
+| [[King|KING]] HENRY | Vernon, and Exeter |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_7--07_exchange_warwick" data-title="Henry VI Part One — Act III, Scene 7 — exchange (WARWICK) [7]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| WARWICK | My lord of York, I promise you, the [[King]] Prettily, methought, did play the orator. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | And so he did; but yet I like it not In that he wears the badge of Somerset. |
+| WARWICK | Tush, that was but his fancy; blame him not. I dare presume, sweet Prince, he thought no harm. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | An if I wist he did—but let it rest. Other affairs must now be managed. Exeunt all but Exeter |
+| EXETER | [[Well]] didst thou, [[Richard]], to suppress thy voice; For had the passions of thy heart burst out I [[Fear|fear]] we should have seen deciphered there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed. But howsoe‘er, no simple man that sees This jarring discord of nobility, This shouldering of each other in the [[Court|court]], This factious bandying of their favourites, But that it doth presage some ill event. ‘Tis much when sceptres are in children’s hands, But more when envy breeds unkind division: There comes the ruin, there begins confusion. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_7--01_exchange_dialogue" data-title="Henry VI Part One — Act IV, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Excursions. Enter old [[Lord Talbot]] led by a Servant |
+| TALBOT | Where is my other life? Mine own is gone. O where’s young Talbot, where is valiant John? Triumphant [[Death|death]] smeared with captivity, Young Talbot’s valour makes me smile at thee. When he perceived me shrink and on my knee, His bloody [[Sword|sword]] he brandished over me, And like a hungry [[Lion|lion]] did commence Rough deeds of rage and stern impatience. But when my angry guardant stood [[Alone|alone]], Tend‘ring my ruin and assailed of none, Dizzy-eyed fury and great rage of heart Suddenly made him from my side to start Into the clust’ring battle of the French, And in that sea of [[Blood|blood]] my boy did drench His over-mounting spirit; and there died My Icarus, my blossom, in his [[Pride|pride]]. Enter English soldiers with John Talbot’s [[Body|body]], borne |
+| SERVANT | O my odear lord, lo where your son is borne. |
+| TALBOT | Thou antic [[Death|death]], which laugh‘st us here to scorn, Anon from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots winged through the lither sky In thy despite shall scape [[Mortality|mortality]]. (To John) O thou whose wounds become hard-favoured [[Death|death]], Speak to thy father ere thou yield thy breath. Brave [[Death|death]] by speaking, whether he will or no; Imagine him a Frenchman and thy foe.— Poor boy, he smiles, methinks, as who should say ‘Had [[Death|death]] been French, then [[Death|death]] had died today’. Come, come, and lay him in his father’s arms. Soldiers lay John in Talbot’s arms My spirit can no longer bear these harms. Soldiers, adieu. I have what I would have, Now my old arms are young John Talbot’s [[Grave|grave]]. He dies. Alarum. Exeunt soldiers leaving the bodies Enter [[Charles the Dauphin]], the dukes of Alencon and Burgundy, the Bastard of Orléans, and [[Joan la Pucelle]] |
+| CHARLES | Had York and Somerset brought rescue in, We should have found a bloody day of this. |
+| BASTARD | How the young whelp of Talbot’s, raging wood, Did flesh his puny [[Sword|sword]] in Frenchmen’s [[Blood|blood]]! |
+| JOAN | Once I encountered him, and thus I said: ‘Thou maiden youth, be vanquished by a maid.’ But with a proud, majestical high scorn He answered thus: ‘Young Talbot was not born To be the pillage of a giglot wench.’ So rushing in the bowels of the French, He left me proudly, as unworthy fight. |
+| BURGUNDY | Doubtless he would have made a noble knight. See where he lies inhearsèd in the arms Of the most bloody nurser of his harms. |
+| BASTARD | Hew them to pieces, hack their bones asunder, Whose life was England’s glory, Gallia’s [[Wonder|wonder]]. |
+| CHARLES | O no, forbear; for that which we have fled During the life, let us not wrong it dead. Enter Sir William Lucy with a French herald |
+| LUCY | Herald, conduct me to the [[Dauphin]]’s tent To know who hath obtained the glory of the day. |
+| CHARLES | On what submissive message art thou sent? |
+| LUCY | Submission, [[Dauphin]]?‘Tis a mere French word. We English warriors wot not what it means. I come to know what prisoners thou hast ta’en, And to survey the bodies of the dead. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_7--02_exchange_charles" data-title="Henry VI Part One — Act IV, Scene 7 — exchange (CHARLES) [2]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| CHARLES | For prisoners ask‘st thou ? Hell our [[Prison|prison]] is. But tell me whom thou seek’st. |
+| LUCY | But where’s the great Alcides of the field, Valiant [[Lord Talbot]], Earl of Shrewsbury, Created for his rare [[success]] in arms Great Earl of Wexford, Waterford, and Valence, [[Lord Talbot]] of Goodrich and Urchinfield, Lord Strange of Blackmere, Lord Verdun of Alton, Lord Cromwell of Wingfield, Lord Furnival of Sheffield, The thrice victorious lord of Falconbridge, Knight of the noble order of Saint George, Worthy Saint [[Michael]] and the Golden Fleece, Great Maréchal to Henry the Sixth Of all his wars within the realm of France? |
+| JOAN | Here’s a silly, stately style indeed. The Turk, that two-and-fifty kingdoms hath, Writes not so tedious a style as this. Him that thou magnifi’st with all these titles Stinking and flyblown lies here at our feet. |
+| LUCY | Is Talbot slain, the Frenchmen’s only scourge, Your kingdom’s terror and black Nemesis? O, were mine eye-balls into bullets turned, That I in rage might shoot them at your faces! O, that I could but call these dead to life!— It were enough to fright the realm of France. Were but his picture left amongst you here It would amaze the proudest of you all. Give me their bodies, that I may bear them hence And give them burial as beseems their worth. |
+| JOAN | (to Charles) I think this upstart is old Talbot’s [[Ghost|ghost]], He speaks with such a proud commanding spirit. For God’s sake let him have them. To keep them here They would but stink and putrefy the air. |
+| CHARLES | Go, take their bodies hence. |
+| LUCY | I’ll bear them hence, but from their ashes shall be reared A phoenix that shall make all France afeard. |
+| CHARLES | So we be rid of them, do with them what thou wilt. Exeunt Lucy and herald with the bodies And now to [[Paris]] in this conquering vein. All will be ours, now bloody Talbot’s slain. Exeunt |
+| *(didascalia)* | 5.1 Sennet. Enter [[King]] Henry, the Dukes of [[Gloucester]] and Exeter, and others |
+| [[King|KING]] HENRY | (to [[Gloucester]]) Have you perused the letters from the Pope, The Emperor, and the Earl of Armagnac? |
+| [[Gloucester|GLOUCESTER]] | I have, my lord, and their intent is this: They humbly sue unto your excellence To have a godly peace concluded of Between the realms of England and of France. |
+| [[King|KING]] HENRY | How doth your grace affect their motion? |
+| [[Gloucester|GLOUCESTER]] | [[Well]], my good lord, and as the only means To stop effusion of our Christian [[Blood|blood]] And ’stablish quietness on every side. |
+| [[King|KING]] HENRY | Ay, marry, uncle; for I always thought It was both impious and unnatural That such immanity and bloody strife Should reign among professors of one [[Faith|faith]]. |
+| [[Gloucester|GLOUCESTER]] | Beside, my lord, the sooner to effect And surer bind this knot of amity, The Earl of Armagnac, near knit to Charles— A man of great authority in France— Proffers his only daughter to your grace In [[Marriage|marriage]], with a large and sumptuous dowry. |
+| [[King|KING]] HENRY | [[Marriage]], uncle? Alas, my years are young, And fitter is my study and my books Than wanton dalliance with a paramour. Yet call th’ambassadors, Exit one or more and as you please, So let them have their answers every one. I shall be [[Well|well]] content with any choice Tends to God’s glory and my country’s weal. Enter the Bishop of Winchester, now in cardinal’s habit, and three ambassadors, one a Papal Legate |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_7--03_exchange_exeter" data-title="Henry VI Part One — Act IV, Scene 7 — exchange (EXETER) [3]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| EXETER | (aside) What, is my lord of Winchester installed And called unto a cardinal’s degree? Then I perceive that will be verified Henry the Fifth did sometime prophesy: ‘If once he come to be a cardinal, He’ll make his cap co-equal with the [[Crown|crown]].’ |
+| [[King|KING]] HENRY | My lords ambassadors, your several suits Have been considered and debated on. Your purpose is both good and reasonable, And therefore are we certainly resolved To draw conditions of a friendly peace, Which by my lord of Winchester we mean Shall be transported presently to France. |
+| [[Gloucester|GLOUCESTER]] | to ambassadors And for the proffer of my lord your master, I have informed his highness so at large As, liking of the lady’s virtuous gifts, Her [[Beauty|beauty]], and the value of her dower, He doth intend she shall be England’s [[Queen|queen]]. |
+| [[King|KING]] HENRY | to ambassadors In argument and proof of which contract Bear her this [[Jewel|jewel]], pledge of my affection. (To [[Gloucester]]) And so, my lord Protector, see them guarded And safely brought to Dover, wherein shipped, Commit them to the fortune of the sea. Exeunt severally all but Winchester and Legate |
+| WINCHESTER | Stay, my lord legate; you shall first receive The sum of money which I promised Should be delivered to his holiness For clothing me in these [[Grave|grave]] ornaments. |
+| LEGATE | I will attend upon your lordship’s leisure. Exit |
+| WINCHESTER | Now Winchester will not submit, I trow, Or be inferior to the proudest peer. Humphrey of [[Gloucester]], thou shalt [[Well|well]] perceive That nor in birth or for authority The Bishop will be overborne by thee. I’ll either make thee stoop and bend thy knee, Or sack this country with a mutiny. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--01_exchange_dialogue" data-title="Henry VI Part One — Act V, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Enter the [[Earl of Suffolk]] with Margaret in his hand |
+| SUFFOLK | Be what thou wilt, thou art my prisoner. He gazes on her O fairest [[Beauty|beauty]], do not [[Fear|fear]] nor fly, For I will touch thee but with reverent hands, And lay them gently on thy tender side. I kiss these fingers for eternal peace. Who art thou? Say, that I may [[Honour|honour]] thee. |
+| MARGARET | Margaret my name, and daughter to a [[King|king]], The [[King]] of Naples, whosoe’er thou art. |
+| SUFFOLK | An earl I am, and Suffolk am I called. Be not offended, [[Nature|nature]]’s miracle, Thou art allotted to be ta’en by me. So doth the swan his downy cygnets save, Keeping them prisoner underneath his wings. Yet if this servile usage once offend, Go, and be free again, as Suffolk’s friend. She is going O stay! (Aside) I have no power to let her pass. My hand would free her, but my heart says no. As plays the sun upon the glassy stream, Twinkling another counterfeited beam, So seems this gorgeous [[Beauty|beauty]] to mine eyes. Fain would I woo her, yet I dare not speak. I’ll call for pen and ink, and write my mind. Fie, de la Pole, disable not thyself! Hast not a tongue? Is she not here to hear? Wilt thou be daunted at a woman’s sight? Ay, [[Beauty|beauty]]’s princely majesty is such Confounds the tongue, and makes the senses rough. |
+| MARGARET | Say, [[Earl of Suffolk]]—if thy name be so— What ransom must I pay before I pass? For I perceive I am thy prisoner. |
+| SUFFOLK | (aside) How canst thou tell she will deny thy suit Before thou make a trial of her [[Love|love]]? |
+| MARGARET | Why speak’st thou not? What ransom must I pay? |
+| SUFFOLK | (aside) She’s beautiful, and therefore to be wooed; She is a woman, therefore to be won. |
+| MARGARET | Wilt thou accept of ransom, yea or no? |
+| SUFFOLK | (aside) Fond man, remember that thou hast a wife; Then how can Margaret be thy paramour? |
+| MARGARET | (aside) I were best to leave him, for he will not hear. |
+| SUFFOLK | (aside) There all is marred; there lies a cooling card. |
+| MARGARET | (aside) He talks at random; sure the man is mad. |
+| SUFFOLK | (aside) And yet a dispensation may be had. |
+| MARGARET | And yet I would that you would answer me. |
+| SUFFOLK | (aside) I’ll win this Lady Margaret. For whom? Why, for my [[King|king]]—tush, that’s a wooden thing. |
+| MARGARET | (aside) He talks of wood. It is some carpenter. |
+| SUFFOLK | (aside) Yet so my fancy may be satisfied, And peace established between these realms. But there remains a scruple in that too, For though her father be the [[King]] of Naples, Duke of Anjou and Maine, yet is he poor, And our nobility will scorn the match. |
+| MARGARET | Hear ye, captain? Are you not at leisure? |
+| SUFFOLK | (aside) It shall be so, disdain they ne’er so much. Henry is youthful, and will quickly yield. (To Margaret) Madam, I have a secret to reveal. |
+| MARGARET | (aside) What though I be enthralled, he seems a knight And will not any way dishonour me. |
+| SUFFOLK | Lady, vouchsafe to listen what I say. |
+| MARGARET | (aside) Perhaps I shall be rescued by the French, And then I need not crave his courtesy. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--02_exchange_suffolk" data-title="Henry VI Part One — Act V, Scene 5 — exchange (SUFFOLK) [2]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SUFFOLK | Sweet madam, give me hearing in a cause. |
+| MARGARET | (aside) Tush, women have been captivate ere now. |
+| SUFFOLK | Lady, wherefore talk you so? |
+| MARGARET | I cry you [[Mercy|mercy]], ’tis but quid for quo. |
+| SUFFOLK | Say, gentle Princess, would you not suppose Your bondage happy to be made a [[Queen|queen]]? |
+| MARGARET | To be a [[Queen|queen]] in bondage is more vile Than is a slave in base servility, For princes should be free. |
+| SUFFOLK | And so shall you, If happy England’s royal [[King|king]] be free. |
+| MARGARET | Why, what concerns his [[Freedom|freedom]] unto me? |
+| SUFFOLK | I’ll undertake to make thee Henry’s [[Queen|queen]], To put a golden sceptre in thy hand, And set a precious [[Crown|crown]] upon thy head, If thou wilt condescend to be my— |
+| MARGARET | What? |
+| SUFFOLK | His [[Love|love]]. |
+| MARGARET | I am unworthy to be Henry’s wife. |
+| SUFFOLK | No, gentle madam, I unworthy am To woo so fair a dame to be his wife (Aside) And have no portion in the choice myself.— How say you, madam; are ye so content? |
+| MARGARET | An if my father please, I am content. |
+| SUFFOLK | Then call our captains and our colours forth, Enter captains, colours, and trumpeters And, madam, at your father’s [[Castle|castle]] walls We’ll crave a parley to confer with him. Sound a parley. Enter René Duke of Anjou on the walls See, Rene, see thy daughter prisoner. RENÉ To whom ? |
+| SUFFOLK | To me. RENÉ Suffolk, what remedy? I am a soldier, and unapt to weep Or to exclaim on fortune’s fickleness. |
+| SUFFOLK | Yes, there is remedy enough, my lord. Assent, and for thy [[Honour|honour]] give consent Thy daughter shall be wedded to my [[King|king]], Whom I with [[Pain|pain]] have wooed and won thereto; And this her easy-held [[Imprisonment|imprisonment]] Hath gained thy daughter princely liberty. RENÉ Speaks Suffolk as he thinks? |
+| SUFFOLK | Fair Margaret knows That Suffolk doth not flatter, face or feign. RENÉ Upon thy princely warrant I descend To give thee answer of thy just demand. |
+| SUFFOLK | And here I will expect thy coming. Exit Rene above Trumpets sound. Enter René |
+| RENE | Welcome, brave Earl, into our territories. Command in Anjou what your [[Honour|honour]] pleases. |
+| SUFFOLK | Thanks, René, happy for so sweet a [[Child|child]], Fit to be made companion with a [[King|king]]. What answer makes your grace unto my suit? RENÉ Since thou dost deign to woo her little worth To be the princely bride of such a lord, Upon condition I may quietly Enjoy mine own, the countries Maine and Anjou, Free from oppression or the stroke of war, My daughter shall be Henry’s, if he please. |
+| SUFFOLK | That is her ransom. I deliver her, And those two counties I will undertake Your grace shall [[Well|well]] and quietly enjoy. RENÉ And I again in Henry’s royal name, As deputy unto that gracious [[King|king]], Give thee her hand for sign of plighted [[Faith|faith]]. |
+| SUFFOLK | René of France, I give thee kingly thanks, Because this is in traffic of a [[King|king]]. (Aside) And yet methinks I could be [[Well|well]] content To be mine own attorney in this case. (To René) I’ll over then to England with this news, And make this [[Marriage|marriage]] to be solemnized. So farewell, René; set this diamond safe In golden palaces, as it becomes. RENÉ I do embrace thee as I would embrace The Christian prince [[King]] Henry, were he here. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5--03_exchange_margaret" data-title="Henry VI Part One — Act V, Scene 5 — exchange (MARGARET) [3]" data-chapter="Scene 5" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| MARGARET | (to Suffolk) Farewell, my lord. Good wishes, praise, and prayers Shall Suffolk ever have of Margaret. She is going |
+| SUFFOLK | Farewell, sweet madam; but hark you, Margaret— No princely commendations to my [[King|king]]? |
+| MARGARET | Such commendations as becomes a maid, A virgin, and his servant, say to him. |
+| SUFFOLK | Words sweetly placed, and modestly directed. She is going  But madam, I must trouble you again— No loving token to his majesty? |
+| MARGARET | Yes, my good lord : a pure unspotted heart, Never yet taint with [[Love|love]], I send the [[King]]. |
+| SUFFOLK | And this withal. He kisses her |
+| MARGARET | That for thyself; I will not so presume To send such peevish tokens to a [[King|king]]. Exeunt René and Margaret |
+| SUFFOLK | aside O, wert thou for myself!—but Suffolk, stay. Thou mayst not wander in that labyrinth. There Minotaurs and ugly treasons lurk. Solicit Henry with her wondrous praise. Bethink thee on her virtues that surmount, Mad natural graces that extinguish art. Repeat their semblance often on the seas, That when thou com’st to kneel at Henry’s feet Thou mayst bereave him of his wits with [[Wonder|wonder]]. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_6--01_exchange_dialogue" data-title="Henry VI Part One — Act V, Scene 6 — exchange (dialogue) [1]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter [[Richard]] [[Duke of York]], the [[Earl of Warwick]], and a Shepherd |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Bring forth that sorceress condemned to burn. Enter [[Joan la Pucelle]] guarded |
+| SHEPHERD | Ah, Joan, this kills thy father’s heart outright. Have I sought every country far and near, And now it is my chance to find thee out Must I behold thy timeless cruel [[Death|death]]? Ah Joan, sweet daughter Joan, I’ll die with thee. |
+| JOAN | Decrepit miser, base ignoble wretch, I am descended of a gentler [[Blood|blood]]. Thou art no father nor no friend of mine. |
+| SHEPHERD | Out, out!—My lords, an’t please you, ‘tis not so. I did beget her, all the parish knows. Her mother liveth yet, can testify She was the first fruit of my bach’lorship. |
+| WARWICK | (to Joan) Graceless, wilt thou deny thy parentage? |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | This argues what her kind of life hath been— Wicked and vile; and so her [[Death|death]] concludes. |
+| SHEPHERD | Fie, Joan, that thou wilt be so obstacle. God knows thou art a collop of my flesh, And for thy sake have I shed many a tear. Deny me not, I prithee, gentle Joan. |
+| JOAN | Peasant, avaunt! (To the English) You have suborned this man Of purpose to obscure my noble birth. |
+| SHEPHERD | (to the English) ‘Tis true I gave a noble to the priest The morn that I was wedded to her mother. (To Joan) Kneel down, and take my blessing, good my girl. Wilt thou not stoop? Now cursed be the [[Time|time]] Of thy nativity. I would the milk Thy mother gave thee when thou sucked’st her breast Had been a little ratsbane for thy sake. Or else, when thou didst keep my lambs afield, I wish some ravenous wolf had eaten thee. Dost thou deny thy father, cursed drab? (To the English) O burn her, burn her! Hanging is too good. Exit |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | (to guards) Take her away, for she hath lived too long, To fill the world with vicious qualities. |
+| JOAN | First let me tell you whom you have condemned: Not one begotten of a shepherd swain, But issued from the progeny of kings; Virtuous and holy, chosen from above By inspiration of celestial grace To work exceeding miracles on earth. I never had to do with wicked spirits; But you that are polluted with your lusts, Stained with the guiltless [[Blood|blood]] of innocents, Corrupt and tainted with a thousand vices— Because you want the grace that others have, You judge it straight a thing impossible To compass wonders but by help of devils. No, misconceived Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought, Whose maiden-[[Blood|blood]] thus rigorously effused Will cry for vengeance at the gates of heaven. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Ay, ay, (to guards) away with her to execution. |
+| WARWICK | (to guards) And hark ye, sirs: because she is a maid, Spare for no faggots. Let there be enough. Place barrels of pitch upon the fatal stake, That so her torture may be shortened. |
+| JOAN | Will nothing turn your unrelenting hearts? Then Joan, discover thine infirmity, That warranteth by law to be thy privilege: I am with [[Child|child]], ye bloody homicides. Murder not then the fruit within my womb, Although ye hale me to a violent [[Death|death]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_6--02_exchange_richard_duke_of_york" data-title="Henry VI Part One — Act V, Scene 6 — exchange (RICHARD DUKE OF YORK) [2]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Now heaven forfend—the holy maid with [[Child|child]]? |
+| WARWICK | (to Joan) The greatest miracle that e’er ye wrought. Is all your strict preciseness come to this? |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | She and the [[Dauphin]] have been ingling. I did imagine what would be her refuge. |
+| WARWICK | [[Well]], go to, we will have no bastards live, Especially since Charles must father it. |
+| JOAN | You are deceived. My [[Child|child]] is none of his. It was Alençon that enjoyed my [[Love|love]]. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Alençon, that notorious Machiavel? It dies an if it had a thousand lives. |
+| JOAN | O give me leave, I have deluded you. ‘Twas neither Charles nor yet the Duke I named, But René [[King]] of Naples that prevailed. |
+| WARWICK | A married man?—That’s most intolerable. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Why, here’s a girl; I think she knows not [[Well|well]]— There were so many—whom she may accuse. |
+| WARWICK | It’s sign she hath been liberal and free. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | And yet forsooth she is a virgin pure! (To joan) Strumpet, thy words condemn thy brat and thee. Use no entreaty, for it is in vain. |
+| JOAN | Then lead me hence; with whom I leave my curse. May never glorious sun reflex his beams Upon the country where you make abode, But darkness and the gloomy shade of [[Death|death]] Environ you till mischief and [[Despair|despair]] Drive you to break your necks or hang yourselves. Enter the Bishop of Winchester, now Cardinal |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | (to Joan) Break thou in pieces, and consume to ashes, Thou foul accursed minister of hell. Exit Joan, guarded |
+| WINCHESTER | Lord Regent, I do greet your excellence With letters of commission from the [[King]]. For know, my lords, the states of Christendom, Moved with remorse of these outrageous broils, Have earnestly implored a general peace Betwixt our nation and the aspiring French, And here at hand the [[Dauphin]] and his train Approacheth to confer about some matter. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Is all our travail turned to this effect? After the slaughter of so many peers, So many captains, gentlemen, and soldiers That in this quarrel have been overthrown And sold their bodies for their country’s benefit, Shall we at last conclude effeminate peace? Have we not lost most part of all the towns By treason, falsehood, and by treachery, Our great progenitors had conquered? O Warwick, Warwick, I foresee with grief The utter loss of all the realm of France! |
+| WARWICK | Be patient, York. If we conclude a peace It shall be with such strict and severe covenants As little shall the Frenchmen gain thereby. Enter [[Charles the Dauphin]], the Duke of Alençon, the Bastard of Orléans, and René Duke of Anjou |
+| CHARLES | Since, lords of England, it is thus agreed That peaceful truce shall be proclaimed in France, We come to be informed by yourselves What the conditions of that league must be. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Speak, Winchester; for boiling choler chokes The hollow passage of my poisoned voice By sight of these our baleful enemies. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_6--03_exchange_winchester" data-title="Henry VI Part One — Act V, Scene 6 — exchange (WINCHESTER) [3]" data-chapter="Scene 6" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| WINCHESTER | Charles and the rest, it is enacted thus: That, in regard [[King]] Henry gives consent, Of mere compassion and of lenity, To ease your country of distressful war And suffer you to breathe in fruitful peace, You shall become true liegemen to his [[Crown|crown]]. And, Charles, upon condition thou wilt swear To pay him tribute and submit thyself, Thou shalt be placed as viceroy under him, And still enjoy thy regal dignity. ALENÇON Must he be then as [[Shadow|shadow]] of himself?— Adorn his temples with a coronet, And yet in substance and authority Retain but privilege of a private man? This proffer is absurd and reasonless. |
+| CHARLES | ’Tis known already that I am possessed With more than half the Gallian territories, And therein reverenced for their lawful [[King|king]]. Shall I, for lucre of the rest unvanquished, Detract so much from that prerogative As to be called but viceroy of the whole? No, lord ambassador, I’ll rather keep That which I have than, coveting for more, Be cast from possibility of all. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Insulting Charles, hast thou by secret means Used intercession to obtain a league And, now the matter grows to compromise, Stand‘st thou aloof upon comparison? Either accept the title thou usurp’st, Of benefit proceeding from our [[King|king]] And not of any challenge of [[Desert|desert]], Or we will plague thee with incessant wars. RENÉ (aside to Charles) My lord, you do not [[Well|well]] in obstinacy To cavil in the course of this contract. If once it be neglected, ten to one We shall not find like opportunity. ALENÇON (aside to Charles) To say the [[Truth|truth]], it is your policy To save your subjects from such massacre And ruthless slaughters as are daily seen By our proceeding in hostility; And therefore take this compact of a truce, Although you break it when your pleasure serves. |
+| WARWICK | How sayst thou, Charles? Shall our condition stand? |
+| CHARLES | It shall, Only reserved you claim no interest In any of our towns of garrison. |
+| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Then swear allegiance to his majesty, As thou art knight, never to disobey Nor be rebellious to the [[Crown|crown]] of England, Thou nor thy nobles, to the [[Crown|crown]] of England. They swear So, now dismiss your army when ye please. Hang up your ensigns, let your drums be still; For here we entertain a solemn peace. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--01_exchange_dialogue" data-title="Henry VI Part One — Act V, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the [[Earl of Suffolk]], in conference with [[King]] Henry, and the Dukes of [[Gloucester]] and Exeter |
+| [[King|KING]] HENRY | (to Suffolk) Your wondrous rare description, noble Earl, Of beauteous Margaret hath astonished me. Her virtues gracèd with external gifts Do breed [[Love|love]]’s settled passions in my heart, And like as rigour of tempestuous gusts Provokes the mightiest hulk against the tide, So am I driven by breath of her renown Either to suffer shipwreck or arrive Where I may have fruition of her [[Love|love]]. |
+| SUFFOLK | Tush, my good lord, this superficial tale Is but a preface of her worthy praise. The chief perfections of that lovely dame, Had I sufficient skill to utter them, Would make a volume of enticing lines Able to ravish any dull conceit; And, which is more, she is not so divine, So full replete with choice of all delights, But with as humble lowliness of mind She is content to be at your command— Command, I mean, of virtuous chaste intents, To [[Love|love]] and [[Honour|honour]] Henry as her lord. |
+| [[King|KING]] HENRY | And otherwise will Henry ne‘er presume. (To [[Gloucester]]) Therefore, my lord Protector, give consent That Marg’ret may be England’s royal [[Queen|queen]]. |
+| [[Gloucester|GLOUCESTER]] | So should I give consent to flatter sin. You know, my lord, your highness is betrothed Unto another lady of esteem. How shall we then dispense with that contract And not deface your [[Honour|honour]] with reproach? |
+| SUFFOLK | As doth a ruler with unlawful oaths, Or one that, at a triumph having vowed To try his strength, forsaketh yet the lists By reason of his adversary’s odds. A poor earl’s daughter is unequal odds, And therefore may be broke without offence. |
+| [[Gloucester|GLOUCESTER]] | Why, what, I pray, is Margaret more than that? Her father is no better than an earl, Although in glorious titles he excel. |
+| SUFFOLK | Yes, my lord; her father is a [[King|king]], The [[King]] of Naples and Jerusalem, And of such great authority in France As his alliance will confirm our peace And keep the Frenchmen in allegiance. |
+| [[Gloucester|GLOUCESTER]] | And so the Earl of Armagnac may do, Because he is near kinsman unto Charles. |
+| EXETER | Beside, his wealth doth warrant a liberal dower, Where René sooner will receive than give. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--02_monologue_suffolk" data-title="Henry VI Part One — Act V, Scene 7 — monologue (SUFFOLK) [2]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SUFFOLK | A dower, my lords? Disgrace not so your [[King]] That he should be so abject, base, and poor To choose for wealth and not for perfect [[Love|love]]. Henry is able to enrich his [[Queen|queen]], And not to seek a [[Queen|queen]] to make him rich. So worthless peasants bargain for their wives, As market men for oxen, sheep, or [[Horse|horse]]. [[Marriage]] is a matter of more worth Than to be dealt in by attorneyship. Not whom we will but whom his grace affects Must be companion of his nuptial bed. And therefore, lords, since he affects her most, That most of all these reasons bindeth us: In our opinions she should be preferred. For what is wedlock forced but a hell, An age of discord and continual strife, Whereas the contrary bringeth bliss, And is a pattern of celestial peace. Whom should we match with Henry, being a [[King|king]], But Margaret, that is daughter to a [[King|king]]? Her peerless feature joined with her birth Approves her fit for none but for a [[King|king]]. Her valiant [[Courage|courage]] and undaunted spirit, More than in women commonly is seen, Will answer our [[Hope|hope]] in issue of a [[King|king]]. For Henry, son unto a conqueror, Is likely to beget more conquerors If with a lady of so high resolve As is fair Margaret he be linked in [[Love|love]]. Then yield, my lords, and here conclude with me: That Margaret shall be [[Queen|queen]], and none but she. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--03_monologue_king_henry" data-title="Henry VI Part One — Act V, Scene 7 — monologue (KING HENRY) [3]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[King|KING]] HENRY | Whether it be through force of your report, My noble lord of Suffolk, or for that My tender youth was never yet attaint With any passion of inflaming [[Love|love]], I cannot tell; but this I am assured: I feel such sharp dissension in my breast, Such fierce alarums both of [[Hope|hope]] and [[Fear|fear]], As I am sick with working of my thoughts. Take therefore shipping; post, my lord, to France; Agree to any covenants, and procure That Lady Margaret do vouchsafe to come To [[Cross|cross]] the seas to England and be crowned [[King]] Henry’s faithful and anointed [[Queen|queen]]. For your expenses and sufficient charge, Among the people gather up a tenth. Be gone, I say; for till you do return I rest perplexed with a thousand cares. (To [[Gloucester]]) And you, good uncle, banish all offence. If you do censure me by what you were, Not what you are, I know it will excuse This sudden execution of my will. And so conduct me where from company I may revolve and ruminate my grief. Exit with Exeter |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--04_exchange_gloucester" data-title="Henry VI Part One — Act V, Scene 7 — exchange (GLOUCESTER) [4]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| [[Gloucester|GLOUCESTER]] | Ay, grief, I [[Fear|fear]] me, both at first and last. Exit |
+| SIIEFOLK | Thus Suffolk hath prevailed, and thus he goes As did the youthful [[Paris]] once to Greece, With [[Hope|hope]] to find the like event in [[Love|love]], But prosper better than the Trojan did. Margaret shall now be [[Queen|queen]] and rule the [[King]]; But I will rule both her, the [[King]], and realm. Exit |
+| BY WILLIAM | SHAKESPEARE, WITH GEORGE PEELE |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--05_monologue_shakespeares" data-title="Henry VI Part One — Act V, Scene 7 — monologue (SHAKESPEARE’S) [5]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| SHAKESPEARE’S | first, most sensation-packed [[Tragedy|tragedy]] appeared in print, anonymously, in 1594, and a performance record dating from January of that year appears to indicate that it was then a new play. But according to its title-page it had been acted by three companies, one of which was bankrupt by the [[Summer|summer]] of 1593; and the play’s style, too, suggests that it was written earlier. During the later part of the twentieth century, scholars increasingly came round to the view that George Peele had a hand in, especially, the first act of the play. Shakespeare seems to have added a scene after its earliest performances, for Act 3, Scene 2 was first printed in the 1623 Folio. The 1594 performance record may refer to the revised play, not the original, or to the play’s first [[London]] performance after plague had closed the theatres from June 1592. By convention, Elizabethan tragedies treated historical subjects, and [[Titus Andronicus]] is set in Rome during the fourth century AD; but its story (like that of Shakespeare’s other early [[Tragedy|tragedy]], [[Romeo]] and [[Juliet]]) is fictitious. Whether Shakespeare invented it is an open question: the same tale is told in both a ballad and a chap-book which survive only in eighteenth-century versions but which could derive from pre-Shakespearian originals. Even if Shakespeare knew these works, they could have supplied only a skeletal narrative. His play’s spirit and style owe much to Ovid’s Metamorphoses, one of his favourite works of classical literature, which he actually brings on stage in Act 4, Scene I. Ovid’s tale of the rape of Philomela was certainly in Shakespeare’s mind as he wrote, and the play’s more horrific elements owe something to the Roman dramatist Seneca. In its [[Time|time]], [[Titus Andronicus]] was popular, perhaps because it combines sensational incident with high-flown rhetoric of a kind that was fashionable around 1590. It tells a story of [[Double|double]] [[Revenge|revenge]]. [[Tamora]], [[Queen]] of the Goths, seeks [[Revenge|revenge]] on her captor, Titus, for the ritual slaughter of her son Alarbus; she achieves it when her other sons, Chiron and [[Demetrius]], rape and mutilate Titus’ daughter, [[Lavinia]]. Later, Titus himself seeks [[Revenge|revenge]] on [[Tamora]] and her husband, [[Saturninus]], after [[Tamora]]’s black [[Lover|lover]], [[Aaron]], has falsely led him to believe that he can save his sons’ lives by allowing his own hand to be chopped off. Though he is driven to [[Madness|madness]], Titus, with his brother Marcus and his last surviving son, [[Lucius]], achieves a spectacular sequence of vengeance in which he cuts [[Tamora]]’s sons’ throats, serves their flesh baked in a pie to their mother, kills [[Lavinia]] to save her from her shame, and stabs [[Tamora]] to [[Death|death]]. Then, in rapid succession, [[Saturninus]] kills Titus and is himself killed by [[Lucius]], who, as the new Emperor, is left with Marcus to bury the dead, to punish [[Aaron]], and ‘To heal Rome’s harms and wipe away her woe’. In [[Titus Andronicus]], as in his early [[history]] plays, Shakespeare is at his most successful in the expression of grief and the portrayal of vigorously energetic evil. The play’s piling of horror upon horror can seem ludicrous, and the reader may be surprised by the apparent disjunction between terrifying events and the measured verse in which characters react; but a few remarkable modern productions have revealed that the play may still arouse pity as [[Well|well]] as terror in its audiences. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_7--06_exchange_the_persons_of_the_play" data-title="Henry VI Part One — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [6]" data-chapter="Scene 7" data-kind="intro"></span>
+
+
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY [[Saturninus|SATURNINUS]], eldest son of the late Emperor of Rome; later Emperor [[Bassianus|BASSIANUS]], his brother |
+| TITUS | ANDRONICUS, a Roman nobleman, general against the Goths [[Lavinia|LAVINIA]], daughter of Titus |
+| YOUNG | [[Lucius|LUCIUS]], a boy, son of [[Lucius]] |
+| MARCUS | ANDRONICUS, a tribune of the people, Titus’ brother PUBLIUS, his son |
+| *(didascalia)* | A |
+| AEMILIUS | [[Tamora|TAMORA]], [[Queen]] of the Goths, later wife of [[Saturninus]] [[Aaron|AARON]], a Moor, her [[Lover|lover]] |
+| *(didascalia)* | A |
+| *(didascalia)* | A |
+| CLOWN | Senators, tribunes, Romans, Goths, soldiers, and attendants |
+
+
 
 
 <span class="atom-split" data-atom="henry_vi_part_one" data-title="HENRY VI PART ONE" data-chapter="" data-kind="intro"></span>
@@ -1052,714 +1760,6 @@ The First Part of Henry the Sixth
 | YOUNG | [[Lucius|LUCIUS]], a boy, son of [[Lucius]] |
 | MARCUS | ANDRONICUS, a tribune of the people, Titus’ brother PUBLIUS, his son<br>A CAPTAIN |
 | AEMILIUS | [[Tamora|TAMORA]], [[Queen]] of the Goths, later wife of [[Saturninus]]<br>[[Aaron|AARON]], a Moor, her [[Lover|lover]]<br>A [[Nurse|NURSE]]<br><br>A CLOWN<br><br>Senators, tribunes, Romans, Goths, soldiers, and attendants |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="Henry VI Part One — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Dead march. Enter the funeral of [[King]] Henry the Fifth, attended on by the Duke of Bedford (Regent of France), the [[Duke of Gloucester]] (Protector), the [[Duke of Exeter]], the [[Earl of Warwick]], the Bishop of Winchester, and the Duke of Somerset |
-| BEDFORD | Hung be the heavens with black! Yield, day, to [[Night|night]]! Comets, importing change of times and states, Brandish your crystal tresses in the sky, And with them scourge the bad revolting [[Stars|stars]] That have consented unto Henry’s [[Death|death]]— [[King]] Henry the Fifth, too famous to live long. England ne’er lost a [[King|king]] of so much worth. |
-| [[Gloucester|GLOUCESTER]] | England ne‘er had a [[King|king]] until his [[Time|time]]. Virtue he had, deserving to command. His brandished [[Sword|sword]] did blind men with his beams. His arms spread wider than a dragon’s wings. His sparkling eyes, replete with wrathful [[Fire|fire]], More dazzled and drove back his enemies Than midday sun, fierce bent against their faces. What should I say? His deeds exceed all speech. He ne’er lift up his hand but conquered. |
-| EXETER | We mourn in black; why mourn we not in [[Blood|blood]]? Henry is dead, and never shall revive. Upon a wooden coffin we attend, And [[Death|death]]’s dishonourable victory We with our stately presence glorify, Like captives bound to a triumphant car. What, shall we curse the planets of mishap, That plotted thus our glory’s overthrow? Or shall we think the subtle-witted French Conjurers and sorcerers, that, afraid of him, By [[Magic|magic]] verses have contrived his end? |
-| WINCHESTER | He was a [[King|king]] blest of the [[King]] of Kings. Unto the French, the dreadful judgement day So dreadful will not be as was his sight. The battles of the Lord of Hosts he fought. The Church’s prayers made him so prosperous. |
-| [[Gloucester|GLOUCESTER]] | The Church? Where is it? Had not churchmen prayed, His thread of life had not so soon decayed. None do you like but an effeminate prince, Whom like a schoolboy you may overawe. |
-| WINCHESTER | [[Gloucester]], whate’er we like, thou art Protector, And lookest to command the Prince and realm. Thy wife is proud: she holdeth thee in awe, More than God or religious churchmen may. |
-| [[Gloucester|GLOUCESTER]] | Name not religion, for thou lov‘st the flesh, And ne’er throughout the year to church thou go’st, Except it be to pray against thy foes. |
-| BEDFORD | Cease, cease these jars, and rest your minds in peace. Let’s to the altar. Heralds, wait on us. Exeunt Warwick, Somerset, and heralds with coffin Instead of gold, we’ll offer up our arms— Since arms avail not, now that Henry’s dead. Posterity, await for wretched years, When, at their mothers’ moistened eyes, babes shall suck, Our isle be made a marish of salt [[Tears|tears]], And none but women left to wail the dead. Henry the Fifth, thy [[Ghost|ghost]] I invocate: Prosper this realm; keep it from civil broils; Combat with adverse planets in the heavens. A far more glorious star thy [[Soul|soul]] will make Than [[Julius Caesar]] or bright— Enter a Messenger |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_exchange_messenger" data-title="Henry VI Part One — Act I, Scene 1 — exchange (MESSENGER) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MESSENGER | My honourable lords, health to you all. Sad tidings bring I to you out of France, Of loss, of slaughter, and discomfiture. Guyenne, Compiegne, Rouen, Rheims, Orléans, [[Paris]], Gisors, Poitiers are all quite lost. |
-| BEDFORD | What sayst thou, man, before dead Henry’s corpse? Speak softly, or the loss of those great towns Will make him burst his lead and rise from [[Death|death]]. |
-| [[Gloucester|GLOUCESTER]] | (to the Messenger) Is [[Paris]] lost? Is Rouen yielded up? If Henry were recalled to life again, These news would cause him once more yield the [[Ghost|ghost]]. |
-| EXETER | (to the Messenger) How were they lost? What treachery was used? |
-| MESSENGER | No treachery, but want of men and money. Amongst the soldiers this is mutterèd: That here you maintain several factions, And whilst a field should be dispatched and fought, You are disputing of your generals. One would have ling’ring wars, with little cost; Another would fly swift, but wanteth wings; A third thinks, without expense at all, By guileful fair words peace may be obtained. Awake, awake, English nobility! Let not sloth dim your honours new-begot. Cropped are the flower-de-luces in your arms; Of England’s coat, one half is cut away. Exit |
-| EXETER | Were our [[Tears|tears]] wanting to this funeral, These tidings would call forth her flowing tides. |
-| BEDFORD | Me they concern; Regent I am of France. Give me my steeled coat. I’ll fight for France. Away with these disgraceful wailing robes! He removes his mourning robe Wounds will I lend the French, instead of eyes, To weep their intermissive miseries. Enter to them another Messenger with letters |
-| SECOND MESSENGER | Lords, view these letters, full of bad mischance. France is revolted from the English quite, Except some petty towns of no import. The [[Dauphin]] Charles is crowned [[King|king]] in Rheims; The Bastard of Orléans with him is joined; René, Duke of Anjou, doth take his part; The Duke of Alençon flyeth to his side. Exit |
-| EXETER | The [[Dauphin]] crowned [[King]]? All fly to him? O whither shall we fly from this reproach? |
-| [[Gloucester|GLOUCESTER]] | We will not fly, but to our enemies’ throats. Bedford, if thou be slack, I’ll fight it out. |
-| BEDFORD | [[Gloucester]], why [[Doubt|doubt]]’st thou of my forwardness? An army have I mustered in my thoughts, Wherewith already France is overrun. Enter another Messenger |
-| THIRD MESSENGER | My gracious lords, to add to your laments, Wherewith you now bedew [[King]] Henry’s hearse, I must inform you of a dismal fight Betwixt the stout [[Lord Talbot]] and the French. |
-| WINCHESTER | What, wherein Talbot overcame—is’t so? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_monologue_third_messenger" data-title="Henry VI Part One — Act I, Scene 1 — monologue (THIRD MESSENGER) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THIRD MESSENGER | O no, wherein [[Lord Talbot]] was o’erthrown. The circumstance I’ll tell you more at large. The tenth of August last, this dreadful lord, Retiring from the siege of Orléans, Having full scarce six thousand in his troop, By three-and-twenty thousand of the French Was round encompassed and set upon. No leisure had he to enrank his men. He wanted pikes to set before his archers— Instead whereof, sharp stakes plucked out of hedges They pitched in the ground confusedly, To keep the horsemen off from breaking in. More than three hours the fight continued, Where valiant Talbot above human thought Enacted wonders with his [[Sword|sword]] and lance. Hundreds he sent to hell, and none durst stand him; Here, there, and everywhere, enraged he slew. The French exclaimed the devil was in arms: All the whole army stood agazed on him. His soldiers, spying his undaunted spirit, ‘A Talbot! A Talbot!’ cried out amain, And rushed into the bowels of the battle. Here had the conquest fully been sealed up, If Sir John Fastolf had not played the coward. He, being in the vanguard placed behind, With purpose to relieve and follow them, Cowardly fled, not having struck one stroke. Hence grew the general wrack and massacre. Enclosèd were they with their enemies. A base Walloon, to win the [[Dauphin]]’s grace, Thrust Talbot with a spear into the back— Whom all France, with their chief assembled strength, Durst not presume to look once in the face. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_exchange_bedford" data-title="Henry VI Part One — Act I, Scene 1 — exchange (BEDFORD) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| BEDFORD | Is Talbot slain then? I will slay myself, For living idly here in pomp and ease Whilst such a worthy leader, wanting aid, Unto his dastard foemen is betrayed. |
-| THIRD MESSENGER | O no, he lives, but is took prisoner, And Lord Scales with him, and Lord Hungerford; Most of the rest slaughtered, or took likewise. |
-| BEDFORD | His ransom there is none but I shall pay. I’ll hale the [[Dauphin]] headlong from his throne; His [[Crown|crown]] shall be the ransom of my friend. Four of their lords I’ll change for one of ours. Farewell, my masters; to my task will I. Bonfires in France forthwith I am to make, To keep our great Saint George’s feast withal. Ten thousand soldiers with me I will take, Whose bloody deeds shall make all Europe quake. |
-| THIRD MESSENGER | So you had need. Fore Orléans, besieged, The English army is grown weak and faint. The [[Earl of Salisbury]] craveth supply, And hardly keeps his men from mutiny, Since they, so few, watch such a multitude. Exit |
-| EXETER | Remember, lords, your oaths to Henry sworn: Either to quell the [[Dauphin]] utterly, Or bring him in obedience to your yoke. |
-| BEDFORD | I do remember it, and here take my leave To go about my preparation. Exit |
-| [[Gloucester|GLOUCESTER]] | I’ll to the Tower with all the haste I can, To view th’artillery and munition, And then I will proclaim young Henry [[King|king]]. Exit |
-| EXETER | To Eltham will I, where the [[Young King|young King]] is, Being ordained his special governor, And for his safety there I’ll best devise. Exit |
-| WINCHESTER | Each hath his place and function to attend; I am left out; for me, nothing remains. But long I will not be Jack-out-of-office. The [[King]] from Eltham I intend to steal, And sit at chiefest stern of public weal. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="Henry VI Part One — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Here alarum. The French are beaten back by the English with great loss. Enter [[Charles the Dauphin]], the Duke of Alençon, and René Duke of Anjou |
-| CHARLES | Who ever saw the like? What men have I? [[dogs|Dogs]], cowards, dastards! I would ne‘er have fled, But that they left me ’midst my enemies. RENÉ Salisbury is a desperate homicide. He fighteth as one weary of his life. The other lords, like lions wanting food, Do rush upon us as their hungry prey. ALENÇON Froissart, a countryman of ours, records England all Olivers and Rolands bred During the [[Time|time]] Edward the Third did reign. More truly now may this be verified, For none but Samsons and Goliases It sendeth forth to skirmish. One to ten? Lean raw-boned rascals, who would e’er suppose They had such [[Courage|courage]] and audacity? |
-| CHARLES | Let’s leave this town, for they are hare-brained slaves, And hunger will enforce them to be more eager. Of old I know them: rather with their teeth The walls they’ll tear down, than forsake the siege. RENÉ I think by some odd gimmers or device Their arms are set, like clocks, still to strike on, Else ne’er could they hold out so as they do. By my consent we’ll even let them [[Alone|alone]]. ALENÇON Be it SO. Enter the Bastard of Orléans |
-| BASTARD | Where’s the Prince [[Dauphin]]? I have news for him. |
-| CHARLES | Bastard of Orléans, thrice welcome to us. |
-| BASTARD | Methinks your looks are sad, your cheer appalled. Hath the late overthrow wrought this offence? Be not dismayed, for succour is at hand. A holy maid hither with me I bring, Which, by a vision sent to her from heaven, Ordained is to raise this tedious siege And drive the English forth the bounds of France. The spirit of deep prophecy she hath, Exceeding the nine sibyls of old Rome. What’s past and what’s to come she can descry. Speak: shall I call her in? Believe my words, For they are certain and unfallible. |
-| CHARLES | Go call her in. Exit Bastard But first, to try her skill, René stand thou as [[Dauphin]] in my place. Question her proudly; let thy looks be stern. By this means shall we sound what skill she hath. Enter the Bastard of Orléans with [[Joan la Pucelle]], armed RENÉ (as Charles) Fair maid, is’t thou wilt do these wondrous feats? |
-| JOAN | René, is’t thou that thinkest to beguile me? Where is the [[Dauphin]]? (To Charles) Come, come from behind. I know thee [[Well|well]], though never seen before. Be not amazed. There’s nothing hid from me. In private will I talk with thee apart. Stand back you lords, and give us leave awhile. René, Alençon and Bastard stand apart RENÉ to Alençon and Bastard She takes upon her bravely, at first dash. |
-| JOAN | [[Dauphin]], I am by birth a shepherd’s daughter, My wit untrained in any kind of art. Heaven and our Lady gracious hath it pleased To shine on my contemptible estate. Lo, whilst I waited on my tender lambs, And to sun’s parching heat displayed my cheeks, God’s mother deigned to appear to me, And in a vision, full of majesty, Willed me to leave my base vocation And free my country from calamity. Her aid she promised, and assured [[success]]. In complete glory she revealed herself— And whereas I was black and swart before, With those clear rays which she infused on me That [[Beauty|beauty]] am I blest with, which you may see. Ask me what question thou canst possible, And I will answer unpremeditated. My [[Courage|courage]] try by combat, if thou dar’st, And thou shalt find that I exceed my sex. Resolve on this: thou shalt be fortunate, If thou receive me for thy warlike mate. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--02_exchange_charles" data-title="Henry VI Part One — Act I, Scene 3 — exchange (CHARLES) [2]" data-chapter="Scene 3" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CHARLES | Thou hast astonished me with thy high terms. Only this proof I’ll of thy valour make: In single combat thou shalt buckle with me. An if thou vanquishest, thy words are true; Otherwise, I renounce all confidence. |
-| JOAN | I am prepared. Here is my keen-edged [[Sword|sword]], Decked with five flower-de-luces on each side— The which at Touraine, in Saint Katherine’s churchyard, Out of a great deal of old iron I chose forth. |
-| CHARLES | Then come a God’s name. I [[Fear|fear]] no woman. |
-| JOAN | And while I live, I’ll ne’er fly from a man. Here they fight and [[Joan la Pucelle]] overcomes |
-| CHARLES | Stay, stay thy hands! Thou art an Amazon, And fightest with the [[Sword|sword]] of Deborah. |
-| JOAN | [[Christ]]’s mother helps me, else I were too weak. |
-| CHARLES | Whoe‘er helps thee, ’tis thou that must help me. Impatiently I burn with thy [[Desire|desire]]. My heart and hands thou hast at once subdued. Excellent Pucelle if thy name be so, Let me thy servant, and not sovereign be. ’Tis the French [[Dauphin]] sueth to thee thus. |
-| JOAN | I must not yield to any rites of [[Love|love]], For my profession’s sacred from above. When I have chased all thy foes from hence, Then will I think upon a recompense. |
-| CHARLES | Meantime, look gracious on thy prostrate thrall. RENÉ to the other lords apart My lord, methinks, is very long in talk. ALENÇON Doubtless he shrives this woman to her smock, Else ne’er could he so long protract his speech. RENÉ Shall we disturb him, since he keeps no mean? ALENÇON He may mean more than we poor men do know. These women are shrewd tempters with their tongues. RENÉ (to Charles) My lord, where are you? What devise you on? Shall we give o’er Orléans, or no? |
-| JOAN | Why, no, I say. Distrustful recreants, Fight till the last gasp; I’ll be your guard. |
-| CHARLES | What she says, I’ll confirm. We’ll fight it out. |
-| JOAN | Assigned am I to be the English scourge. This [[Night|night]] the siege assuredly I’ll raise. Expect Saint Martin’s [[Summer|summer]], halcyon’s days, Since I have entered into these wars. Glory is like a circle in the [[Water|water]], Which never ceaseth to enlarge itself Till, by broad spreading, it disperse to naught. With Henry’s [[Death|death]], the English circle ends. Dispersed are the glories it included. Now am I like that proud insulting [[Ship|ship]] Which Caesar and his fortune bore at once. |
-| CHARLES | Was Mohammed inspired with a dove? Thou with an eagle art inspired then. [[Helen]], the mother of great Constantine, Nor yet Saint Philip’s daughters were like thee. Bright star of [[Venus]], fall’n down on the earth, How may I reverently worship thee enough? ALENÇON Leave off delays, and let us raise the siege. RENÉ Woman, do what thou canst to save our honours. Drive them from Orléans, and be immortalized. |
-| CHARLES | Presently we’ll try. Come, let’s away about it. No [[Prophet|prophet]] will I trust, if she prove false. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--01_exchange_dialogue" data-title="Henry VI Part One — Act II, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | A [[Rose|rose]] brier. Enter [[Richard]] Plantagenet, the [[Earl of Warwick]], the Duke of Somerset, William de la Pole (the [[Earl of Suffolk]]), Vernon, and a Lawyer |
-| [[Richard|RICHARD]] PLANTAGENET | Great lords and gentlemen, what means this [[Silence|silence]]? Dare no man answer in a case of [[Truth|truth]]? |
-| SUFFOLK | Within the Temple hall we were too loud. The [[Garden|garden]] here is more convenient. |
-| [[Richard|RICHARD]] PLANTAGENET | Then say at once if I maintained the [[Truth|truth]]; Or else was wrangling Somerset in th’error? |
-| SUFFOLK | [[Faith]], I have been a truant in the law, And never yet could frame my will to it, And therefore frame the law unto my will. |
-| SOMERSET | Judge you, my lord of Warwick, then between us. |
-| WARWICK | Between two hawks, which flies the higher pitch, Between two [[dogs]], which hath the deeper mouth, Between two blades, which bears the better temper, Between two horses, which doth bear him best, Between two girls, which hath the merriest eye, I have perhaps some shallow spirit of judgement; But in these nice sharp quillets of the law, Good [[Faith|faith]], I am no wiser than a daw. |
-| [[Richard|RICHARD]] PLANTAGENET | Tut, tut, here is a mannerly forbearance. The [[Truth|truth]] appears so naked on my side That any purblind eye may find it out. |
-| SOMERSET | And on my side it is so [[Well|well]] apparelled, So clear, so shining, and so evident, That it will glimmer through a blind man’s eye. |
-| [[Richard|RICHARD]] PLANTAGENET | Since you are tongue-tied and so loath to speak, In dumb significants proclaim your thoughts. Let him that is a true-born gentleman And stands upon the [[Honour|honour]] of his birth, If he suppose that I have pleaded [[Truth|truth]], From off this briar pluck a white [[Rose|rose]] with me. He plucks a white [[Rose|rose]] |
-| SOMERSET | Let him that is no coward nor no flatterer, But dare maintain the party of the [[Truth|truth]], Pluck a red [[Rose|rose]] from off this thorn with me. He plucks a red [[Rose|rose]] |
-| WARWICK | I [[Love|love]] no colours, and without all colour Of base insinuating flattery I pluck this white [[Rose|rose]] with Plantagenet. |
-| SUFFOLK | I pluck this red [[Rose|rose]] with young Somerset, And say withal I think he held the right. |
-| VERNON | Stay, lords and gentlemen, and pluck no more Till you conclude that he upon whose side The fewest roses from the tree are cropped Shall yield the other in the right opinion. |
-| SOMERSET | Good Master Vernon, it is [[Well|well]] objected. If I have fewest, I subscribe in [[Silence|silence]]. |
-| [[Richard|RICHARD]] PLANTAGENET | And I. |
-| VERNON | Then for the [[Truth|truth]] and plainness of the case I pluck this pale and maiden blossom here, Giving my verdict on the white [[Rose|rose]]’ side. |
-| SOMERSET | Prick not your finger as you pluck it off, Lest, bleeding, you do paint the white [[Rose|rose]] red, And fall on my side so against your will. |
-| VERNON | If I, my lord, for my opinion bleed, Opinion shall be surgeon to my hurt And keep me on the side where still I am. |
-| SOMERSET | [[Well]], [[Well|well]], come on! Who else? |
-| LAWYER | Unless my study and my books be false, The argument you held was wrong in law; In sign whereof I pluck a white [[Rose|rose]] too. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--02_exchange_richard_plantagenet" data-title="Henry VI Part One — Act II, Scene 4 — exchange (RICHARD PLANTAGENET) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] PLANTAGENET | Now Somerset, where is your argument? |
-| SOMERSET | Here in my scabbard, meditating that Shall dye your white [[Rose|rose]] in a bloody red. |
-| [[Richard|RICHARD]] PLANTAGENET | Meantime your cheeks do counterfeit our roses, For pale they look with [[Fear|fear]], as witnessing The [[Truth|truth]] on our side. |
-| SOMERSET | No, Plantagenet, ‘Tis not for [[Fear|fear]], but anger, that thy cheeks Blush for pure shame to counterfeit our roses, And yet thy tongue will not confess thy error. |
-| [[Richard|RICHARD]] PLANTAGENET | Hath not thy [[Rose|rose]] a canker, Somerset? |
-| SOMERSET | Hath not thy [[Rose|rose]] a thorn, Plantagenet? |
-| [[Richard|RICHARD]] PLANTAGENET | Ay, sharp and piercing, to maintain his [[Truth|truth]], Whiles thy consuming canker eats his falsehood. |
-| SOMERSET | [[Well]], I’ll find friends to wear my bleeding roses, That shall maintain what I have said is true, Where false Plantagenet dare not be seen. |
-| [[Richard|RICHARD]] PLANTAGENET | Now, by this maiden blossom in my hand, I scorn thee and thy fashion, peevish boy. |
-| SUFFOLK | Turn not thy scorns this way, Plantagenet. |
-| [[Richard|RICHARD]] PLANTAGENET | Proud Pole, I will, and scorn both him and thee. |
-| SUFFOLK | I’ll turn my part thereof into thy throat. |
-| SOMERSET | Away, away, good William de la Pole. We grace the yeoman by conversing with him. |
-| WARWICK | Now, by God’s will, thou wrong’st him, Somerset. His grandfather was Lionel Duke of [[Clarence]], Third son to the third Edward, [[King]] of England. [[Spring]] crestless yeomen from so deep a root? |
-| [[Richard|RICHARD]] PLANTAGENET | He bears him on the place’s privilege, Or durst not for his craven heart say thus. |
-| SOMERSET | By him that made me, I’ll maintain my words On any plot of ground in Christendom. Was not thy father, [[Richard]] Earl of Cambridge, For treason executed in our late [[King|king]]’s days? And by his treason stand’st not thou attainted, Corrupted, and exempt from ancient gentry? His trespass yet lives guilty in thy [[Blood|blood]], And till thou be restored thou art a yeoman. |
-| [[Richard|RICHARD]] PLANTAGENET | My father was attached, not attainted; Condemned to die for treason, but no traitor— And that I’ll prove on better men than Somerset, Were growing [[Time|time]] once ripened to my will. For your partaker Pole, and you yourself, I’ll note you in my book of [[Memory|memory]], To scourge you for this apprehension. Look to it [[Well|well]], and say you are [[Well|well]] warned. |
-| SOMERSET | Ah, thou shalt find us ready for thee still, And know us by these colours for thy foes, For these my friends, in spite of thee, shall wear. |
-| [[Richard|RICHARD]] PLANTAGENET | And, by my [[Soul|soul]], this pale and angry [[Rose|rose]], As cognizance of my [[Blood|blood]]-drinking hate, Will I forever, and my faction, wear Until it wither with me to my [[Grave|grave]], Or flourish to the height of my degree. |
-| SUFFOLK | Go forward, and be choked with thy [[Ambition|ambition]]. And so farewell until I meet thee next. Exit |
-| SOMERSET | Have with thee, Pole.—Farewell, ambitious [[Richard]]. Exit |
-| [[Richard|RICHARD]] PLANTAGENET | How I am braved, and must perforce endure it! |
-| WARWICK | This blot that they object against your [[house]] Shall be wiped out in the next parliament, Called for the truce of Winchester and [[Gloucester]]. An if thou be not then created York, I will not live to be accounted Warwick. Meantime, in signal of my [[Love|love]] to thee. Against proud Somerset and William Pole, Will I upon thy party wear this [[Rose|rose]]. And here I prophesy: this brawl today, Grown to this faction in the Temple [[Garden|garden]], Shall send, between the red [[Rose|rose]] and the white, A thousand souls to [[Death|death]] and deadly [[Night|night]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--03_exchange_richard_plantagenet" data-title="Henry VI Part One — Act II, Scene 4 — exchange (RICHARD PLANTAGENET) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] PLANTAGENET | Good Master Vernon, I am bound to you, That you on my behalf would pluck a flower. |
-| VERNON | In your behalf still will I wear the same. |
-| LAWYER | And so will I. |
-| [[Richard|RICHARD]] PLANTAGENET | Thanks, gentles. Come, let us four to dinner. I dare say This quarrel will drink [[Blood|blood]] another day. Exeunt. The [[Rose|rose]] brier is removed |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="Henry VI Part One — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Flourish. Enter [[Young King|young King]] Henry, the Dukes of Exeter and [[Gloucester]], the Bishop of Winchester; the Duke of Somerset and the [[Earl of Suffolk]] with red roses; the [[Earl of Warwick]] and [[Richard]] Plantagenet with white roses. [[Gloucester]] offers to put up a bill; Winchester snatches it, [[Tears|tears]] it |
-| WINCHESTER | Com‘st thou with deep premeditated lines? With written pamphlets studiously devised? Humphrey of [[Gloucester]], if thou canst accuse, Or aught intend’st to lay unto my charge, Do it without invention, suddenly, As I with sudden and extemporal speech Purpose to answer what thou canst object. |
-| [[Gloucester|GLOUCESTER]] | Presumptuous priest, this place commands my patience, Or thou shouldst find thou hast dishonoured me. Think not, although in writing I preferred The manner of thy vile outrageous crimes, That therefore I have forged, or am not able Verbatim to rehearse the method of my pen. No, prelate, such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy [[Pride|pride]]. Thou art a most pernicious usurer, Froward by [[Nature|nature]], enemy to peace, Lascivious, wanton, more than [[Well|well]] beseems A man of thy profession and degree. And for thy treachery, what’s more manifest?— In that thou laid’st a trap to take my life, As [[Well|well]] at [[London]] Bridge as at the Tower. Beside, I [[Fear|fear]] me, if thy thoughts were sifted, The [[King]] thy sovereign is not quite exempt From envious malice of thy swelling heart. |
-| WINCHESTER | [[Gloucester]], I do defy thee.—Lords, vouchsafe To give me hearing what I shall reply. If I were covetous, ambitious, or perverse, As he will have me, how am I so poor? Or how haps it I seek not to advance Or raise myself, but keep my wonted calling? And for dissension, who preferreth peace More than I do ?—except I be provoked. No, my good lords, it is not that offends; It is not that that hath incensed the Duke. It is because no one should sway but he, No one but he should be about the [[King]]— And that engenders thunder in his breast And makes him roar these accusations forth. But he shall know I am as good— |
-| [[Gloucester|GLOUCESTER]] | As good?— Thou bastard of my grandfather. |
-| WINCHESTER | Ay, lordly sir; for what are you, I pray, But one imperious in another’s throne? |
-| [[Gloucester|GLOUCESTER]] | Am I not Protector, saucy priest? |
-| WINCHESTER | And am not I a prelate of the Church? |
-| [[Gloucester|GLOUCESTER]] | Yes—as an outlaw in a [[Castle|castle]] keeps And useth it to patronage his theft. |
-| WINCHESTER | Unreverent [[Gloucester]]. |
-| [[Gloucester|GLOUCESTER]] | Thou art reverend Touching thy spiritual function, not thy life. |
-| WINCHESTER | Rome shall remedy this. [[Gloucester|GLOUCESTER]] Roam thither then. WARWICK (to Winchester) My lord, it were your duty to forbear. |
-| SOMERSET | Ay, so the bishop be not overborne: Methinks my lord should be religious, And know the office that belongs to such. |
-| WARWICK | Methinks his lordship should be humbler. It fitteth not a prelate so to plead. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--02_exchange_somerset" data-title="Henry VI Part One — Act III, Scene 1 — exchange (SOMERSET) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SOMERSET | Yes, when his holy state is touched so near. |
-| WARWICK | State holy or unhallowed, what of that? Is not his grace Protector to the [[King]]? |
-| [[Richard|RICHARD]] PLANTAGENET | (aside) Plantagenet, I see, must hold his tongue, Lest it be said, ‘Speak, sirrah, when you should; Must your bold verdict intertalk with lords?’ Else would I have a fling at Winchester. |
-| [[King|KING]] HENRY | Uncles of [[Gloucester]] and of Winchester, The special watchmen of our English weal, I would prevail, if prayers might prevail, To join your hearts in [[Love|love]] and amity. O what a scandal is it to our [[Crown|crown]] That two such noble peers as ye should jar! Believe me, lords, my tender years can tell Civil dissension is a viperous worm That gnaws the bowels of the commonwealth. A noise within SERVINGMEN (within) Down with the tawny coats! |
-| [[King|KING]] HENRY | What tumult’s this? |
-| WARWICK | An uproar, I dare warrant, Begun through malice of the Bishop’s men. A noise again SERVINGMEN (within) Stones, stones! Enter the Mayor of [[London]] |
-| MAYOR | O my good lords, and virtuous Henry, Pity the [[City|city]] of [[London]], pity us! so The Bishop and the [[Duke of Gloucester]]’s men, Forbidden late to carry any weapon, Have filled their pockets full of pebble stones And, banding themselves in contrary parts, Do pelt so fast at one another’s pate That many have their giddy brains knocked out. Our windows are broke down in every street, And we for [[Fear|fear]] compelled to shut our shops. Enter in skirmish, with bloody pates, Winchester’s Servingmen in tawny coats and [[Gloucester]]’s in blue coats |
-| [[King|KING]] HENRY | We charge you, on allegiance to ourself, To hold your slaught’ring hands and keep the peace. The skirmish ceases Pray, Uncle [[Gloucester]], mitigate this strife. |
-| FIRST SERVINGMAN | Nay, if we be forbidden stones, we’ll fall to it with our teeth. |
-| SECOND SERVINGMAN | Do what ye dare, we are as resolute. Skirmish again |
-| [[Gloucester|GLOUCESTER]] | You of my household, leave this peevish broil, And set this unaccustomed fight aside. |
-| THIRD SERVINGMAN | My lord, we know your grace to be a man Just and upright and, for your royal birth, Inferior to none but to his majesty; And ere that we will suffer such a prince, So kind a father of the commonweal, To be disgraced by an inkhorn mate, We and our wives and children all will fight And have our bodies slaughtered by thy foes. |
-| FIRST SERVINGMAN | Ay, and the very parings of our nails Shall pitch a field when we are dead. They begin to skirmish again |
-| [[Gloucester|GLOUCESTER]] | Stay, stay, I say! An if you [[Love|love]] me as you say you do, Let me persuade you to forbear a while. |
-| [[King|KING]] HENRY | O how this discord doth afflict my [[Soul|soul]]! Can you, my lord of Winchester, behold o My sighs and [[Tears|tears]], and will not once relent? Who should be pitiful if you be not? Or who should study to prefer a peace, If holy churchmen take delight in broils? |
-| WARWICK | Yield, my lord Protector; yield, Winchester— Except you mean with obstinate repulse To slay your sovereign and destroy the realm. You see what mischief-and what murder, too— Hath been enacted through your enmity. Then be at peace, except ye thirst for [[Blood|blood]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--03_exchange_winchester" data-title="Henry VI Part One — Act III, Scene 1 — exchange (WINCHESTER) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WINCHESTER | He shall submit, or I will never yield. |
-| [[Gloucester|GLOUCESTER]] | Compassion on the [[King]] commands me stoop, Or I would see his heart out ere the priest Should ever get that privilege of me. |
-| WARWICK | Behold, my lord of Winchester, the Duke Hath banished moody discontented fury, As by his smoothed brows it doth appear. Why look you still so stern and tragical? |
-| [[Gloucester|GLOUCESTER]] | Here, Winchester, I offer thee my hand. |
-| [[King|KING]] HENRY | (to Winchester) Fie, Uncle Beaufort! I have heard you preach That malice was a great and grievous sin; And will not you maintain the thing you teach, But prove a chief offender in the same? |
-| WARWICK | Sweet [[King]]! The Bishop hath a kindly gird. For shame, my lord of Winchester, relent. What, shall a [[Child|child]] instruct you what to do? |
-| WINCHESTER | [[Well]], [[Duke of Gloucester]], I will yield to thee [[Love]] for thy [[Love|love]], and hand for hand I give. |
-| [[Gloucester|GLOUCESTER]] | (aside) Ay, but I [[Fear|fear]] me with a hollow heart. (To the others) See here, my friends and loving countrymen, This token serveth for a [[Flag|flag]] of truce Betwixt ourselves and all our followers. So help me God, as I dissemble not. |
-| WINCHESTER | So help me God (aside) as I intend it not. |
-| [[King|KING]] HENRY | O loving uncle, kind [[Duke of Gloucester]], How joyful am I made by this contract! (To Servingmen) Away, my masters, trouble us no more, But join in [[Friendship|friendship]] as your lords have done. first SERVINGMAN Content. I’ll to the surgeon’s. |
-| SECOND SERVINGMAN | And so will I. |
-| THIRD SERVINGMAN | And I will see what physic the tavern affords. Exeunt the Mayor and Servingmen |
-| WARWICK | Accept this scroll, most gracious sovereign, Which in the right of [[Richard]] Plantagenet We do exhibit to your majesty. |
-| [[Gloucester|GLOUCESTER]] | [[Well]] urged, my lord of Warwick—for, sweet prince, An if your grace mark every circumstance, You have great reason to do [[Richard]] right, Especially for those occasions At Eltham Place I told your majesty. |
-| [[King|KING]] HENRY | And those occasions, uncle, were of force.— Therefore, my loving lords, our pleasure is That [[Richard]] be restored to his [[Blood|blood]]. |
-| WARWICK | Let [[Richard]] be restored to his [[Blood|blood]]. So shall his father’s wrongs be recompensed. |
-| WINCHESTER | As will the rest, so willeth Winchester. |
-| [[King|KING]] HENRY | If [[Richard]] will be true, not that [[Alone|alone]] But all the whole inheritance I give That doth belong unto the [[house]] of York, From whence you [[Spring|spring]] by lineal descent. 170 |
-| [[Richard|RICHARD]] PLANTAGENET | Thy humble servant vows obedience And humble service till the point of [[Death|death]]. |
-| [[King|KING]] HENRY | Stoop then, and set your knee against my foot. [[Richard]] kneels And in reguerdon of that duty done, I gird thee with the valiant [[Sword|sword]] of York. Rise, [[Richard]], like a true Plantagenet, And rise created princely [[Duke of York]]. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | (rising) And so thrive [[Richard]], as thy foes may fall; And as my duty springs, so perish they That grudge one thought against your majesty. |
-| ALL BUT [[Richard|RICHARD]] AND | SOMERSET Welcome, high prince, the mighty [[Duke of York]]! |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--04_exchange_somerset" data-title="Henry VI Part One — Act III, Scene 1 — exchange (SOMERSET) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SOMERSET | (aside) Perish, base prince, ignoble [[Duke of York]]! |
-| [[Gloucester|GLOUCESTER]] | Now will it best avail your majesty To [[Cross|cross]] the seas and to be crowned in France. The presence of a [[King|king]] engenders [[Love|love]] Amongst his subjects and his loyal friends, As it disanimates his enemies. |
-| [[King|KING]] HENRY | When [[Gloucester]] says the word, [[King]] Henry goes, For friendly counsel cuts off many foes. |
-| [[Gloucester|GLOUCESTER]] | Your ships already are in readiness. Sennet. Exeunt all but Exeter |
-| EXETER | Ay, we may march in England or in France, Not seeing what is likely to ensue. This late dissension grown betwixt the peers Burns under feigned ashes of forged [[Love|love]], And will at last break out into a flame. As festered members rot but by degree Till bones and flesh and sinews fall away, So will this base and envious discord breed. And now I [[Fear|fear]] that fatal prophecy Which, in the [[Time|time]] of Henry named the Fifth, Was in the mouth of every sucking babe: That ‘Henry born at Monmouth should win all, And Henry born at Windsor should lose all’— Which is so plain that Exeter doth wish His days may finish, ere that hapless [[Time|time]]. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--01_exchange_dialogue" data-title="Henry VI Part One — Act III, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Charles the Dauphin]], the Bastard of Orléans, the Duke of Alençon, [[Joan la Pucelle]], and French soldiers |
-| JOAN | Dismay not, princes, at this accident, Nor grieve that Rouen is so recovered. Care is no cure, but rather corrosive, For things that are not to be remedied. Let frantic Talbot triumph for a while, And like a peacock sweep along his tail; We’ll pull his plumes and take away his train, If [[Dauphin]] and the rest will be but ruled. |
-| CHARLES | We have been guided by thee hitherto, And of thy cunning had no diffidence. One sudden foil shall never breed distrust. |
-| BASTARD | (to Joan) Search out thy wit for secret policies, And we will make thee famous through the world. ALENÇON (to Joan) We’ll set thy statue in some holy place And have thee reverenced like a blessed saint. Employ thee then, sweet virgin, for our good. |
-| JOAN | Then thus it must be; this doth Joan devise: By fair persuasions mixed with sugared words We will entice the Duke of Burgundy To leave the Talbot and to follow us. 20 |
-| CHARLES | Ay, marry, sweeting, if we could do that France were no place for Henry’s warriors, Nor should that nation boast it so with us, But be extirpèd from our provinces. ALENÇON For ever should they be expulsed from France And not have title of an earldom here. |
-| JOAN | Your honours shall perceive how I will work To bring this matter to the wished end. Drum sounds afar off Hark, by the sound of drum you may perceive Their powers are marching unto [[Paris]]-ward. Here sound an English march There goes the Talbot, with his colours spread, And all the troops of English after him. Here sound a French march Now in the rearward comes the Duke and his; Fortune in favour makes him lag behind. Summon a parley. We will talk with him. Trumpets sound a parley |
-| CHARLES | calling A parley with the Duke of Burgundy. Enter the Duke of Burgundy |
-| BURGUNDY | Who craves a parley with the Burgundy? |
-| JOAN | The princely Charles of France, thy countryman. |
-| BURGUNDY | What sayst thou, Charles?—for I am marching hence. |
-| CHARLES | Speak, Pucelle, and enchant him with thy words. |
-| JOAN | Brave Burgundy, undoubted [[Hope|hope]] of France, Stay. Let thy humble handmaid speak to thee. |
-| BURGUNDY | Speak on, but be not over-tedious. |
-| JOAN | Look on thy country, look on fertile France, And see the cities and the towns defaced By wasting ruin of the cruel foe. As looks the mother on her lowly babe When [[Death|death]] doth close his tender-dying eyes, See, see the pining malady of France; Behold the wounds, the most unnatural wounds, Which thou thyself hast given her woeful breast. O turn thy edged [[Sword|sword]] another way, Strike those that hurt, and hurt not those that help. One drop of [[Blood|blood]] drawn from thy country’s bosom Should grieve thee more than streams of foreign gore. Return thee, therefore, with a flood of [[Tears|tears]], And wash away thy country’s stained spots. |
-| BURGUNDY | aside Either she hath bewitched me with her words, Or [[Nature|nature]] makes me suddenly relent. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--02_exchange_joan" data-title="Henry VI Part One — Act III, Scene 7 — exchange (JOAN) [2]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| JOAN | Besides, all French and France exclaims on thee, Doubting thy birth and lawful progeny. Who join‘st thou with but with a lordly nation That will not trust thee but for profit’s sake? When Talbot hath set footing once in France And fashioned thee that instrument of ill, Who then but English Henry will be lord, And thou be thrust out like a fugitive? Call we to mind, and mark but this for proof: Was not the Duke of Orléans thy foe? And was he not in England prisoner? But when they heard he was thine enemy They set him free, without his ransom paid, In spite of Burgundy and all his friends. See, then, thou fight’st against thy countrymen, And join’st with them will be thy slaughtermen. Come, come, return; return, thou wandering lord, Charles and the rest will take thee in their arms. |
-| BURGUNDY | aside I am vanquished. These haughty words of hers Have battered me like roaring cannon-shot And made me almost yield upon my knees. (To the others) Forgive me, country, and sweet countrymen; And lords, accept this hearty kind embrace. My forces and my power of men are yours. So farewell, Talbot. I’ll no longer trust thee. |
-| JOAN | Done like a Frenchman—aside turn and turn again. |
-| CHARLES | Welcome, brave Duke. Thy [[Friendship|friendship]] makes us fresh. |
-| BASTARD | And doth beget new [[Courage|courage]] in our breasts. ALENÇON Pucelle hath bravely played her part in this, And doth deserve a coronet of gold. |
-| CHARLES | Now let us on, my lords, and join our powers, And seek how we may prejudice the foe. Exeunt |
-| *(didascalia)* | 3.8 Flourish. Enter [[King]] Henry, the [[Duke of Gloucester]], the Bishop of Winchester, the [[Duke of Exeter]]; [[Richard]] [[Duke of York]], the [[Earl of Warwick]], and Vernon with white roses; the [[Earl of Suffolk]], the Duke of Somerset, and Basset with red roses. To them, with his soldiers, enter [[Lord Talbot]] |
-| TALBOT | My gracious prince and honourable peers, Hearing of your arrival in this realm I have a while given truce unto my wars To do my duty to my sovereign; In sign whereof, this arm that hath reclaimed To your obedience fifty fortresses, Twelve cities, and seven walled towns of strength, Beside five hundred prisoners of esteem, Lets fall his [[Sword|sword]] before your highness’ feet, And with submissive loyalty of heart Ascribes the glory of his conquest got First to my God, and next unto your grace. He kneels |
-| [[King|KING]] HENRY | Is this the [[Lord Talbot]], uncle [[Gloucester]], That hath so long been resident in France? |
-| [[Gloucester|GLOUCESTER]] | Yes, if it please your majesty, my liege. |
-| [[King|KING]] HENRY | (to Talbot) Welcome, brave captain and victorious lord. When I was young—as yet I am not old— I do remember how my father said A stouter champion never handled [[Sword|sword]]. Long since we were resolvèd of your [[Truth|truth]], Your faithful service and your toil in war, Yet never have you tasted our reward, Or been reguerdoned with so much as thanks, Because till now we never saw your face. Therefore stand up, Talbot rises and for these good deserts We here create you Earl of Shrewsbury; And in our coronation take your place. Sennet. Exeunt all but Vernon and Basset |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--03_exchange_vernon" data-title="Henry VI Part One — Act III, Scene 7 — exchange (VERNON) [3]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| VERNON | Now sir, to you that were so hot at sea, Disgracing of these colours that I wear In [[Honour|honour]] of my noble lord of York, Dar’st thou maintain the former words thou spak’st? |
-| BASSET | Yes, sir, as [[Well|well]] as you dare patronage The envious barking of your saucy tongue Against my lord the Duke of Somerset. |
-| VERNON | Sirrah, thy lord I [[Honour|honour]] as he is. |
-| BASSET | Why, what is he?—as good a man as York. |
-| VERNON | Hark ye, not so. In witness, take ye that. Vernon strikes him |
-| BASSET | [[Villain]], thou know‘st the law of arms is such That whoso draws a [[Sword|sword]] ’tis present [[Death|death]], Or else this blow should broach thy dearest [[Blood|blood]]. But I’ll unto his majesty and crave I may have liberty to venge this wrong, When thou shalt see I’ll meet thee to thy cost. |
-| VERNON | [[Well]], miscreant, I’ll be there as soon as you, And after meet you sooner than you would. Exeunt |
-| *(didascalia)* | 4.1 Flourish. Enter [[King]] Henry, the [[Duke of Gloucester]], the Bishop of Winchester, the [[Duke of Exeter]],; [[Richard]] [[Duke of York]], and the [[Earl of Warwick]] with white roses; the [[Earl of Suffolk]] and the Duke of Somerset with red roses; [[Lord Talbot]], and the Governor of [[Paris]] |
-| [[Gloucester|GLOUCESTER]] | Lord Bishop, set the [[Crown|crown]] upon his head. |
-| WINCHESTER | God save [[King]] Henry, of that name the sixth I Winchester crowns the [[King]] |
-| [[Gloucester|GLOUCESTER]] | Now, Governor of [[Paris]], take your oath That you elect no other [[King|king]] but him; Esteem none friends but such as are his friends, And none your foes but such as shall pretend Malicious practices against his state. This shall ye do, so help you righteous God. Enter Sir John Fastolf with a letter |
-| FASTOLF | My gracious sovereign, as I rode from Calais To haste unto your coronation A letter was delivered to my hands, He presents the letters Writ to your grace from th’ Duke of Burgundy. |
-| TALBOT | Shame to the Duke of Burgundy and thee! I vowed, base knight, when I did meet thee next, To tear the Garter from thy craven’s leg, He [[Tears|tears]] it off Which I have done because unworthily Thou wast installèd in that high degree.— Pardon me, princely Henry and the rest. This dastard at the battle of Patay When but in all I was six thousand strong, And that the French were almost ten to one, Before we met, or that a stroke was given, Like to a trusty squire did run away; In which assault we lost twelve hundred men. Myself and divers gentlemen beside Were there surprised and taken prisoners. Then judge, great lords, if I have done amiss, Or whether that such cowards ought to wear This ornament of knighthood: yea or no? |
-| [[Gloucester|GLOUCESTER]] | To say the [[Truth|truth]], this fact was infamous And ill beseeming any [[Common Man|common man]], Much more a knight, a captain and a leader. |
-| TALBOT | When first this order was ordained, my lords, Knights of the Garter were of noble birth, Valiant and virtuous, full of haughty [[Courage|courage]], Such as were grown to credit by the wars; Not fearing [[Death|death]] nor shrinking for distress, But always resolute in most extremes. He then that is not furnished in this sort Doth but usurp the sacred name of knight, Profaning this most honourable order, And should—if I were worthy to be judge— Be quite degraded, like a hedge-born swain That doth presume to boast of gentle [[Blood|blood]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--04_exchange_king_henry" data-title="Henry VI Part One — Act III, Scene 7 — exchange (KING HENRY) [4]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | (to Fastolf) Stain to thy countrymen, thou hear’st thy doom. Be packing, therefore, thou that wast a knight. Henceforth we banish thee on [[Pain|pain]] of [[Death|death]]. Exit Fastolf And now, my Lord Protector, view the letter Sent from our uncle, Duke of Burgundy. |
-| [[Gloucester|GLOUCESTER]] | What means his grace that he hath changed his style? No more but plain and bluntly ‘To the [[King]]’? Hath he forgot he is his sovereign? Or doth this churlish superscription Pretend some alteration in good will? What’s here? ‘I have upon especial cause, Moved with compassion of my country’s wrack Together with the pitiful complaints Of such as your oppression feeds upon, Forsaken your pernicious faction And joined with Charles, the rightful [[King of France]].’ O monstrous treachery! Can this be so? That in alliance, amity, and oaths There should be found such false dissembling guile? |
-| [[King|KING]] HENRY | What? Doth my uncle Burgundy revolt? |
-| [[Gloucester|GLOUCESTER]] | He doth, my lord, and is become your foe. |
-| [[King|KING]] HENRY | Is that the worst this letter doth contain? |
-| [[Gloucester|GLOUCESTER]] | It is the worst, and all, my lord, he writes. |
-| [[King|KING]] HENRY | Why then, [[Lord Talbot]] there shall talk with him And give him chastisement for this abuse. (To Talbot) How say you, my lord? Are you not content? |
-| TALBOT | Content, my liege? Yes. But that I am prevented, I should have begged I might have been employed. |
-| [[King|KING]] HENRY | Then gather strength and march unto him straight. Let him perceive how ill we brook his treason, And what offence it is to flout his friends. |
-| TALBOT | I go, my lord, in heart desiring still You may behold confusion of your foes. Exit Enter Vernon wearing a white [[Rose|rose]], and Basset wearing a red [[Rose|rose]] |
-| VERNON | (to [[King]] Henry) Grant me the combat, gracious sovereign. |
-| BASSET | (to [[King]] Henry) And me, my lord; grant me the combat, too. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | (to [[King]] Henry, pointing to Vernon) This is my servant; hear him, noble Prince. |
-| SOMERSET | (to [[King]] Henry, pointing to Basset) And this is mine, sweet Henry; favour him. |
-| [[King|KING]] HENRY | Be patient, lords, and give them leave to speak. Say, gentlemen, what makes you thus exclaim, And wherefore crave you combat, or with whom? |
-| VERNON | With him, my lord; for he hath done me wrong. |
-| BASSET | And I with him; for he hath done me wrong. |
-| [[King|KING]] HENRY | What is that wrong whereof you both complain? First let me know, and then I’ll answer you. |
-| BASSET | Crossing the sea from England into France, This fellow here with envious carping tongue Upbraided me about the [[Rose|rose]] I wear, Saying the sanguine colour of the [[Leaves|leaves]] Did represent my master’s blushing cheeks When stubbornly he did repugn the [[Truth|truth]] About a certain question in the law Argued betwixt the [[Duke of York]] and him, With other vile and ignominious terms; In confutation of which rude reproach, And in defence of my lord’s worthiness, I crave the benefit of law of arms. |
-| VERNON | And that is my petition, noble lord; For though he seem with forged quaint conceit To set a gloss upon his bold intent, Yet know, my lord, I was provoked by him, And he first took exceptions at this badge, Pronouncing that the paleness of this flower Bewrayed the faintness of my master’s heart. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--05_exchange_richard_duke_of_york" data-title="Henry VI Part One — Act III, Scene 7 — exchange (RICHARD DUKE OF YORK) [5]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Will not this malice, Somerset, be left? |
-| SOMERSET | Your private grudge, my lord of York, will out, Though ne’er so cunningly you smother it. |
-| [[King|KING]] HENRY | Good Lord, what [[Madness|madness]] rules in brainsick men When for so slight and frivolous a cause Such factious emulations shall arise? Good cousins both of York and Somerset, Quiet yourselves, I pray, and be at peace. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Let this dissension first be tried by fight, And then your highness shall command a peace. |
-| SOMERSET | The quarrel toucheth none but us [[Alone|alone]]; Betwixt ourselves let us decide it then. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | There is my pledge. Accept it, Somerset. |
-| VERNON | (to [[King]] Henry) Nay, let it rest where it began at first. |
-| BASSET | (to [[King]] Henry) Confirm it so, mine honourable lord. |
-| [[Gloucester|GLOUCESTER]] | Confirm it so? Confounded be your strife, And perish ye with your audacious prate! Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the [[King]] and us? And you, my lords, methinks you do not [[Well|well]] To bear with their perverse objections, Much less to take occasion from their mouths To raise a mutiny betwixt yourselves. Let me persuade you take a better course. |
-| EXETER | It grieves his highness. Good my lords, be friends. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--06_monologue_king_henry" data-title="Henry VI Part One — Act III, Scene 7 — monologue (KING HENRY) [6]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | Come hither, you that would be combatants. Henceforth I charge you, as you [[Love|love]] our favour, Quite to forget this quarrel and the cause. And you, my lords, remember where we are— In France, amongst a fickle wavering nation. If they perceive dissension in our looks, And that within ourselves we disagree, How will their grudging stomachs be provoked To wilful disobedience, and [[Rebel|rebel]]! Beside, what infamy will there arise When foreign princes shall be certified That for a toy, a thing of no regard, [[King]] Henry’s peers and chief nobility Destroyed themselves and lost the realm of France! O, think upon the conquest of my father, My tender years, and let us not forgo That for a trifle that was bought with [[Blood|blood]]. Let me be umpire in this doubtful strife. I see no reason, if I wear this [[Rose|rose]], He takes a red [[Rose|rose]] That anyone should therefore be suspicious I more incline to Somerset than York. Both are my kinsmen, and I [[Love|love]] them both. As [[Well|well]] they may upbraid me with my [[Crown|crown]] Because, forsooth, the [[King]] of Scots is crowned. But your discretions better can persuade Than I am able to instruct or teach, And therefore, as we hither came in peace, So let us still continue peace and [[Love|love]]. Cousin of York, we institute your grace To be our regent in these parts of France; And good my lord of Somerset, unite Your troops of horsemen with his bands of foot, And like true subjects, sons of your progenitors, Go cheerfully together and digest Your angry choler on your enemies. Ourself, my Lord Protector, and the rest, After some respite, will return to Calais, From thence to England, where I [[Hope|hope]] ere long To be presented by your victories With Charles, Alençon, and that traitorous rout. Flourish. Exeunt all but York, Warwick, |
-| [[King|KING]] HENRY | Vernon, and Exeter |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_7--07_exchange_warwick" data-title="Henry VI Part One — Act III, Scene 7 — exchange (WARWICK) [7]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WARWICK | My lord of York, I promise you, the [[King]] Prettily, methought, did play the orator. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | And so he did; but yet I like it not In that he wears the badge of Somerset. |
-| WARWICK | Tush, that was but his fancy; blame him not. I dare presume, sweet Prince, he thought no harm. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | An if I wist he did—but let it rest. Other affairs must now be managed. Exeunt all but Exeter |
-| EXETER | [[Well]] didst thou, [[Richard]], to suppress thy voice; For had the passions of thy heart burst out I [[Fear|fear]] we should have seen deciphered there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed. But howsoe‘er, no simple man that sees This jarring discord of nobility, This shouldering of each other in the [[Court|court]], This factious bandying of their favourites, But that it doth presage some ill event. ‘Tis much when sceptres are in children’s hands, But more when envy breeds unkind division: There comes the ruin, there begins confusion. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_7--01_exchange_dialogue" data-title="Henry VI Part One — Act IV, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Alarum. Excursions. Enter old [[Lord Talbot]] led by a Servant |
-| TALBOT | Where is my other life? Mine own is gone. O where’s young Talbot, where is valiant John? Triumphant [[Death|death]] smeared with captivity, Young Talbot’s valour makes me smile at thee. When he perceived me shrink and on my knee, His bloody [[Sword|sword]] he brandished over me, And like a hungry [[Lion|lion]] did commence Rough deeds of rage and stern impatience. But when my angry guardant stood [[Alone|alone]], Tend‘ring my ruin and assailed of none, Dizzy-eyed fury and great rage of heart Suddenly made him from my side to start Into the clust’ring battle of the French, And in that sea of [[Blood|blood]] my boy did drench His over-mounting spirit; and there died My Icarus, my blossom, in his [[Pride|pride]]. Enter English soldiers with John Talbot’s [[Body|body]], borne |
-| SERVANT | O my odear lord, lo where your son is borne. |
-| TALBOT | Thou antic [[Death|death]], which laugh‘st us here to scorn, Anon from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots winged through the lither sky In thy despite shall scape [[Mortality|mortality]]. (To John) O thou whose wounds become hard-favoured [[Death|death]], Speak to thy father ere thou yield thy breath. Brave [[Death|death]] by speaking, whether he will or no; Imagine him a Frenchman and thy foe.— Poor boy, he smiles, methinks, as who should say ‘Had [[Death|death]] been French, then [[Death|death]] had died today’. Come, come, and lay him in his father’s arms. Soldiers lay John in Talbot’s arms My spirit can no longer bear these harms. Soldiers, adieu. I have what I would have, Now my old arms are young John Talbot’s [[Grave|grave]]. He dies. Alarum. Exeunt soldiers leaving the bodies Enter [[Charles the Dauphin]], the dukes of Alencon and Burgundy, the Bastard of Orléans, and [[Joan la Pucelle]] |
-| CHARLES | Had York and Somerset brought rescue in, We should have found a bloody day of this. |
-| BASTARD | How the young whelp of Talbot’s, raging wood, Did flesh his puny [[Sword|sword]] in Frenchmen’s [[Blood|blood]]! |
-| JOAN | Once I encountered him, and thus I said: ‘Thou maiden youth, be vanquished by a maid.’ But with a proud, majestical high scorn He answered thus: ‘Young Talbot was not born To be the pillage of a giglot wench.’ So rushing in the bowels of the French, He left me proudly, as unworthy fight. |
-| BURGUNDY | Doubtless he would have made a noble knight. See where he lies inhearsèd in the arms Of the most bloody nurser of his harms. |
-| BASTARD | Hew them to pieces, hack their bones asunder, Whose life was England’s glory, Gallia’s [[Wonder|wonder]]. |
-| CHARLES | O no, forbear; for that which we have fled During the life, let us not wrong it dead. Enter Sir William Lucy with a French herald |
-| LUCY | Herald, conduct me to the [[Dauphin]]’s tent To know who hath obtained the glory of the day. |
-| CHARLES | On what submissive message art thou sent? |
-| LUCY | Submission, [[Dauphin]]?‘Tis a mere French word. We English warriors wot not what it means. I come to know what prisoners thou hast ta’en, And to survey the bodies of the dead. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_7--02_exchange_charles" data-title="Henry VI Part One — Act IV, Scene 7 — exchange (CHARLES) [2]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CHARLES | For prisoners ask‘st thou ? Hell our [[Prison|prison]] is. But tell me whom thou seek’st. |
-| LUCY | But where’s the great Alcides of the field, Valiant [[Lord Talbot]], Earl of Shrewsbury, Created for his rare [[success]] in arms Great Earl of Wexford, Waterford, and Valence, [[Lord Talbot]] of Goodrich and Urchinfield, Lord Strange of Blackmere, Lord Verdun of Alton, Lord Cromwell of Wingfield, Lord Furnival of Sheffield, The thrice victorious lord of Falconbridge, Knight of the noble order of Saint George, Worthy Saint [[Michael]] and the Golden Fleece, Great Maréchal to Henry the Sixth Of all his wars within the realm of France? |
-| JOAN | Here’s a silly, stately style indeed. The Turk, that two-and-fifty kingdoms hath, Writes not so tedious a style as this. Him that thou magnifi’st with all these titles Stinking and flyblown lies here at our feet. |
-| LUCY | Is Talbot slain, the Frenchmen’s only scourge, Your kingdom’s terror and black Nemesis? O, were mine eye-balls into bullets turned, That I in rage might shoot them at your faces! O, that I could but call these dead to life!— It were enough to fright the realm of France. Were but his picture left amongst you here It would amaze the proudest of you all. Give me their bodies, that I may bear them hence And give them burial as beseems their worth. |
-| JOAN | (to Charles) I think this upstart is old Talbot’s [[Ghost|ghost]], He speaks with such a proud commanding spirit. For God’s sake let him have them. To keep them here They would but stink and putrefy the air. |
-| CHARLES | Go, take their bodies hence. |
-| LUCY | I’ll bear them hence, but from their ashes shall be reared A phoenix that shall make all France afeard. |
-| CHARLES | So we be rid of them, do with them what thou wilt. Exeunt Lucy and herald with the bodies And now to [[Paris]] in this conquering vein. All will be ours, now bloody Talbot’s slain. Exeunt |
-| *(didascalia)* | 5.1 Sennet. Enter [[King]] Henry, the Dukes of [[Gloucester]] and Exeter, and others |
-| [[King|KING]] HENRY | (to [[Gloucester]]) Have you perused the letters from the Pope, The Emperor, and the Earl of Armagnac? |
-| [[Gloucester|GLOUCESTER]] | I have, my lord, and their intent is this: They humbly sue unto your excellence To have a godly peace concluded of Between the realms of England and of France. |
-| [[King|KING]] HENRY | How doth your grace affect their motion? |
-| [[Gloucester|GLOUCESTER]] | [[Well]], my good lord, and as the only means To stop effusion of our Christian [[Blood|blood]] And ’stablish quietness on every side. |
-| [[King|KING]] HENRY | Ay, marry, uncle; for I always thought It was both impious and unnatural That such immanity and bloody strife Should reign among professors of one [[Faith|faith]]. |
-| [[Gloucester|GLOUCESTER]] | Beside, my lord, the sooner to effect And surer bind this knot of amity, The Earl of Armagnac, near knit to Charles— A man of great authority in France— Proffers his only daughter to your grace In [[Marriage|marriage]], with a large and sumptuous dowry. |
-| [[King|KING]] HENRY | [[Marriage]], uncle? Alas, my years are young, And fitter is my study and my books Than wanton dalliance with a paramour. Yet call th’ambassadors, Exit one or more and as you please, So let them have their answers every one. I shall be [[Well|well]] content with any choice Tends to God’s glory and my country’s weal. Enter the Bishop of Winchester, now in cardinal’s habit, and three ambassadors, one a Papal Legate |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_7--03_exchange_exeter" data-title="Henry VI Part One — Act IV, Scene 7 — exchange (EXETER) [3]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| EXETER | (aside) What, is my lord of Winchester installed And called unto a cardinal’s degree? Then I perceive that will be verified Henry the Fifth did sometime prophesy: ‘If once he come to be a cardinal, He’ll make his cap co-equal with the [[Crown|crown]].’ |
-| [[King|KING]] HENRY | My lords ambassadors, your several suits Have been considered and debated on. Your purpose is both good and reasonable, And therefore are we certainly resolved To draw conditions of a friendly peace, Which by my lord of Winchester we mean Shall be transported presently to France. |
-| [[Gloucester|GLOUCESTER]] | to ambassadors And for the proffer of my lord your master, I have informed his highness so at large As, liking of the lady’s virtuous gifts, Her [[Beauty|beauty]], and the value of her dower, He doth intend she shall be England’s [[Queen|queen]]. |
-| [[King|KING]] HENRY | to ambassadors In argument and proof of which contract Bear her this [[Jewel|jewel]], pledge of my affection. (To [[Gloucester]]) And so, my lord Protector, see them guarded And safely brought to Dover, wherein shipped, Commit them to the fortune of the sea. Exeunt severally all but Winchester and Legate |
-| WINCHESTER | Stay, my lord legate; you shall first receive The sum of money which I promised Should be delivered to his holiness For clothing me in these [[Grave|grave]] ornaments. |
-| LEGATE | I will attend upon your lordship’s leisure. Exit |
-| WINCHESTER | Now Winchester will not submit, I trow, Or be inferior to the proudest peer. Humphrey of [[Gloucester]], thou shalt [[Well|well]] perceive That nor in birth or for authority The Bishop will be overborne by thee. I’ll either make thee stoop and bend thy knee, Or sack this country with a mutiny. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--01_exchange_dialogue" data-title="Henry VI Part One — Act V, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Alarum. Enter the [[Earl of Suffolk]] with Margaret in his hand |
-| SUFFOLK | Be what thou wilt, thou art my prisoner. He gazes on her O fairest [[Beauty|beauty]], do not [[Fear|fear]] nor fly, For I will touch thee but with reverent hands, And lay them gently on thy tender side. I kiss these fingers for eternal peace. Who art thou? Say, that I may [[Honour|honour]] thee. |
-| MARGARET | Margaret my name, and daughter to a [[King|king]], The [[King]] of Naples, whosoe’er thou art. |
-| SUFFOLK | An earl I am, and Suffolk am I called. Be not offended, [[Nature|nature]]’s miracle, Thou art allotted to be ta’en by me. So doth the swan his downy cygnets save, Keeping them prisoner underneath his wings. Yet if this servile usage once offend, Go, and be free again, as Suffolk’s friend. She is going O stay! (Aside) I have no power to let her pass. My hand would free her, but my heart says no. As plays the sun upon the glassy stream, Twinkling another counterfeited beam, So seems this gorgeous [[Beauty|beauty]] to mine eyes. Fain would I woo her, yet I dare not speak. I’ll call for pen and ink, and write my mind. Fie, de la Pole, disable not thyself! Hast not a tongue? Is she not here to hear? Wilt thou be daunted at a woman’s sight? Ay, [[Beauty|beauty]]’s princely majesty is such Confounds the tongue, and makes the senses rough. |
-| MARGARET | Say, [[Earl of Suffolk]]—if thy name be so— What ransom must I pay before I pass? For I perceive I am thy prisoner. |
-| SUFFOLK | (aside) How canst thou tell she will deny thy suit Before thou make a trial of her [[Love|love]]? |
-| MARGARET | Why speak’st thou not? What ransom must I pay? |
-| SUFFOLK | (aside) She’s beautiful, and therefore to be wooed; She is a woman, therefore to be won. |
-| MARGARET | Wilt thou accept of ransom, yea or no? |
-| SUFFOLK | (aside) Fond man, remember that thou hast a wife; Then how can Margaret be thy paramour? |
-| MARGARET | (aside) I were best to leave him, for he will not hear. |
-| SUFFOLK | (aside) There all is marred; there lies a cooling card. |
-| MARGARET | (aside) He talks at random; sure the man is mad. |
-| SUFFOLK | (aside) And yet a dispensation may be had. |
-| MARGARET | And yet I would that you would answer me. |
-| SUFFOLK | (aside) I’ll win this Lady Margaret. For whom? Why, for my [[King|king]]—tush, that’s a wooden thing. |
-| MARGARET | (aside) He talks of wood. It is some carpenter. |
-| SUFFOLK | (aside) Yet so my fancy may be satisfied, And peace established between these realms. But there remains a scruple in that too, For though her father be the [[King]] of Naples, Duke of Anjou and Maine, yet is he poor, And our nobility will scorn the match. |
-| MARGARET | Hear ye, captain? Are you not at leisure? |
-| SUFFOLK | (aside) It shall be so, disdain they ne’er so much. Henry is youthful, and will quickly yield. (To Margaret) Madam, I have a secret to reveal. |
-| MARGARET | (aside) What though I be enthralled, he seems a knight And will not any way dishonour me. |
-| SUFFOLK | Lady, vouchsafe to listen what I say. |
-| MARGARET | (aside) Perhaps I shall be rescued by the French, And then I need not crave his courtesy. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--02_exchange_suffolk" data-title="Henry VI Part One — Act V, Scene 5 — exchange (SUFFOLK) [2]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SUFFOLK | Sweet madam, give me hearing in a cause. |
-| MARGARET | (aside) Tush, women have been captivate ere now. |
-| SUFFOLK | Lady, wherefore talk you so? |
-| MARGARET | I cry you [[Mercy|mercy]], ’tis but quid for quo. |
-| SUFFOLK | Say, gentle Princess, would you not suppose Your bondage happy to be made a [[Queen|queen]]? |
-| MARGARET | To be a [[Queen|queen]] in bondage is more vile Than is a slave in base servility, For princes should be free. |
-| SUFFOLK | And so shall you, If happy England’s royal [[King|king]] be free. |
-| MARGARET | Why, what concerns his [[Freedom|freedom]] unto me? |
-| SUFFOLK | I’ll undertake to make thee Henry’s [[Queen|queen]], To put a golden sceptre in thy hand, And set a precious [[Crown|crown]] upon thy head, If thou wilt condescend to be my— |
-| MARGARET | What? |
-| SUFFOLK | His [[Love|love]]. |
-| MARGARET | I am unworthy to be Henry’s wife. |
-| SUFFOLK | No, gentle madam, I unworthy am To woo so fair a dame to be his wife (Aside) And have no portion in the choice myself.— How say you, madam; are ye so content? |
-| MARGARET | An if my father please, I am content. |
-| SUFFOLK | Then call our captains and our colours forth, Enter captains, colours, and trumpeters And, madam, at your father’s [[Castle|castle]] walls We’ll crave a parley to confer with him. Sound a parley. Enter René Duke of Anjou on the walls See, Rene, see thy daughter prisoner. RENÉ To whom ? |
-| SUFFOLK | To me. RENÉ Suffolk, what remedy? I am a soldier, and unapt to weep Or to exclaim on fortune’s fickleness. |
-| SUFFOLK | Yes, there is remedy enough, my lord. Assent, and for thy [[Honour|honour]] give consent Thy daughter shall be wedded to my [[King|king]], Whom I with [[Pain|pain]] have wooed and won thereto; And this her easy-held [[Imprisonment|imprisonment]] Hath gained thy daughter princely liberty. RENÉ Speaks Suffolk as he thinks? |
-| SUFFOLK | Fair Margaret knows That Suffolk doth not flatter, face or feign. RENÉ Upon thy princely warrant I descend To give thee answer of thy just demand. |
-| SUFFOLK | And here I will expect thy coming. Exit Rene above Trumpets sound. Enter René |
-| RENE | Welcome, brave Earl, into our territories. Command in Anjou what your [[Honour|honour]] pleases. |
-| SUFFOLK | Thanks, René, happy for so sweet a [[Child|child]], Fit to be made companion with a [[King|king]]. What answer makes your grace unto my suit? RENÉ Since thou dost deign to woo her little worth To be the princely bride of such a lord, Upon condition I may quietly Enjoy mine own, the countries Maine and Anjou, Free from oppression or the stroke of war, My daughter shall be Henry’s, if he please. |
-| SUFFOLK | That is her ransom. I deliver her, And those two counties I will undertake Your grace shall [[Well|well]] and quietly enjoy. RENÉ And I again in Henry’s royal name, As deputy unto that gracious [[King|king]], Give thee her hand for sign of plighted [[Faith|faith]]. |
-| SUFFOLK | René of France, I give thee kingly thanks, Because this is in traffic of a [[King|king]]. (Aside) And yet methinks I could be [[Well|well]] content To be mine own attorney in this case. (To René) I’ll over then to England with this news, And make this [[Marriage|marriage]] to be solemnized. So farewell, René; set this diamond safe In golden palaces, as it becomes. RENÉ I do embrace thee as I would embrace The Christian prince [[King]] Henry, were he here. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_5--03_exchange_margaret" data-title="Henry VI Part One — Act V, Scene 5 — exchange (MARGARET) [3]" data-chapter="Scene 5" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| MARGARET | (to Suffolk) Farewell, my lord. Good wishes, praise, and prayers Shall Suffolk ever have of Margaret. She is going |
-| SUFFOLK | Farewell, sweet madam; but hark you, Margaret— No princely commendations to my [[King|king]]? |
-| MARGARET | Such commendations as becomes a maid, A virgin, and his servant, say to him. |
-| SUFFOLK | Words sweetly placed, and modestly directed. She is going  But madam, I must trouble you again— No loving token to his majesty? |
-| MARGARET | Yes, my good lord : a pure unspotted heart, Never yet taint with [[Love|love]], I send the [[King]]. |
-| SUFFOLK | And this withal. He kisses her |
-| MARGARET | That for thyself; I will not so presume To send such peevish tokens to a [[King|king]]. Exeunt René and Margaret |
-| SUFFOLK | aside O, wert thou for myself!—but Suffolk, stay. Thou mayst not wander in that labyrinth. There Minotaurs and ugly treasons lurk. Solicit Henry with her wondrous praise. Bethink thee on her virtues that surmount, Mad natural graces that extinguish art. Repeat their semblance often on the seas, That when thou com’st to kneel at Henry’s feet Thou mayst bereave him of his wits with [[Wonder|wonder]]. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_6--01_exchange_dialogue" data-title="Henry VI Part One — Act V, Scene 6 — exchange (dialogue) [1]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter [[Richard]] [[Duke of York]], the [[Earl of Warwick]], and a Shepherd |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Bring forth that sorceress condemned to burn. Enter [[Joan la Pucelle]] guarded |
-| SHEPHERD | Ah, Joan, this kills thy father’s heart outright. Have I sought every country far and near, And now it is my chance to find thee out Must I behold thy timeless cruel [[Death|death]]? Ah Joan, sweet daughter Joan, I’ll die with thee. |
-| JOAN | Decrepit miser, base ignoble wretch, I am descended of a gentler [[Blood|blood]]. Thou art no father nor no friend of mine. |
-| SHEPHERD | Out, out!—My lords, an’t please you, ‘tis not so. I did beget her, all the parish knows. Her mother liveth yet, can testify She was the first fruit of my bach’lorship. |
-| WARWICK | (to Joan) Graceless, wilt thou deny thy parentage? |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | This argues what her kind of life hath been— Wicked and vile; and so her [[Death|death]] concludes. |
-| SHEPHERD | Fie, Joan, that thou wilt be so obstacle. God knows thou art a collop of my flesh, And for thy sake have I shed many a tear. Deny me not, I prithee, gentle Joan. |
-| JOAN | Peasant, avaunt! (To the English) You have suborned this man Of purpose to obscure my noble birth. |
-| SHEPHERD | (to the English) ‘Tis true I gave a noble to the priest The morn that I was wedded to her mother. (To Joan) Kneel down, and take my blessing, good my girl. Wilt thou not stoop? Now cursed be the [[Time|time]] Of thy nativity. I would the milk Thy mother gave thee when thou sucked’st her breast Had been a little ratsbane for thy sake. Or else, when thou didst keep my lambs afield, I wish some ravenous wolf had eaten thee. Dost thou deny thy father, cursed drab? (To the English) O burn her, burn her! Hanging is too good. Exit |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | (to guards) Take her away, for she hath lived too long, To fill the world with vicious qualities. |
-| JOAN | First let me tell you whom you have condemned: Not one begotten of a shepherd swain, But issued from the progeny of kings; Virtuous and holy, chosen from above By inspiration of celestial grace To work exceeding miracles on earth. I never had to do with wicked spirits; But you that are polluted with your lusts, Stained with the guiltless [[Blood|blood]] of innocents, Corrupt and tainted with a thousand vices— Because you want the grace that others have, You judge it straight a thing impossible To compass wonders but by help of devils. No, misconceived Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought, Whose maiden-[[Blood|blood]] thus rigorously effused Will cry for vengeance at the gates of heaven. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Ay, ay, (to guards) away with her to execution. |
-| WARWICK | (to guards) And hark ye, sirs: because she is a maid, Spare for no faggots. Let there be enough. Place barrels of pitch upon the fatal stake, That so her torture may be shortened. |
-| JOAN | Will nothing turn your unrelenting hearts? Then Joan, discover thine infirmity, That warranteth by law to be thy privilege: I am with [[Child|child]], ye bloody homicides. Murder not then the fruit within my womb, Although ye hale me to a violent [[Death|death]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_6--02_exchange_richard_duke_of_york" data-title="Henry VI Part One — Act V, Scene 6 — exchange (RICHARD DUKE OF YORK) [2]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Now heaven forfend—the holy maid with [[Child|child]]? |
-| WARWICK | (to Joan) The greatest miracle that e’er ye wrought. Is all your strict preciseness come to this? |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | She and the [[Dauphin]] have been ingling. I did imagine what would be her refuge. |
-| WARWICK | [[Well]], go to, we will have no bastards live, Especially since Charles must father it. |
-| JOAN | You are deceived. My [[Child|child]] is none of his. It was Alençon that enjoyed my [[Love|love]]. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Alençon, that notorious Machiavel? It dies an if it had a thousand lives. |
-| JOAN | O give me leave, I have deluded you. ‘Twas neither Charles nor yet the Duke I named, But René [[King]] of Naples that prevailed. |
-| WARWICK | A married man?—That’s most intolerable. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Why, here’s a girl; I think she knows not [[Well|well]]— There were so many—whom she may accuse. |
-| WARWICK | It’s sign she hath been liberal and free. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | And yet forsooth she is a virgin pure! (To joan) Strumpet, thy words condemn thy brat and thee. Use no entreaty, for it is in vain. |
-| JOAN | Then lead me hence; with whom I leave my curse. May never glorious sun reflex his beams Upon the country where you make abode, But darkness and the gloomy shade of [[Death|death]] Environ you till mischief and [[Despair|despair]] Drive you to break your necks or hang yourselves. Enter the Bishop of Winchester, now Cardinal |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | (to Joan) Break thou in pieces, and consume to ashes, Thou foul accursed minister of hell. Exit Joan, guarded |
-| WINCHESTER | Lord Regent, I do greet your excellence With letters of commission from the [[King]]. For know, my lords, the states of Christendom, Moved with remorse of these outrageous broils, Have earnestly implored a general peace Betwixt our nation and the aspiring French, And here at hand the [[Dauphin]] and his train Approacheth to confer about some matter. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Is all our travail turned to this effect? After the slaughter of so many peers, So many captains, gentlemen, and soldiers That in this quarrel have been overthrown And sold their bodies for their country’s benefit, Shall we at last conclude effeminate peace? Have we not lost most part of all the towns By treason, falsehood, and by treachery, Our great progenitors had conquered? O Warwick, Warwick, I foresee with grief The utter loss of all the realm of France! |
-| WARWICK | Be patient, York. If we conclude a peace It shall be with such strict and severe covenants As little shall the Frenchmen gain thereby. Enter [[Charles the Dauphin]], the Duke of Alençon, the Bastard of Orléans, and René Duke of Anjou |
-| CHARLES | Since, lords of England, it is thus agreed That peaceful truce shall be proclaimed in France, We come to be informed by yourselves What the conditions of that league must be. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Speak, Winchester; for boiling choler chokes The hollow passage of my poisoned voice By sight of these our baleful enemies. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_6--03_exchange_winchester" data-title="Henry VI Part One — Act V, Scene 6 — exchange (WINCHESTER) [3]" data-chapter="Scene 6" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WINCHESTER | Charles and the rest, it is enacted thus: That, in regard [[King]] Henry gives consent, Of mere compassion and of lenity, To ease your country of distressful war And suffer you to breathe in fruitful peace, You shall become true liegemen to his [[Crown|crown]]. And, Charles, upon condition thou wilt swear To pay him tribute and submit thyself, Thou shalt be placed as viceroy under him, And still enjoy thy regal dignity. ALENÇON Must he be then as [[Shadow|shadow]] of himself?— Adorn his temples with a coronet, And yet in substance and authority Retain but privilege of a private man? This proffer is absurd and reasonless. |
-| CHARLES | ’Tis known already that I am possessed With more than half the Gallian territories, And therein reverenced for their lawful [[King|king]]. Shall I, for lucre of the rest unvanquished, Detract so much from that prerogative As to be called but viceroy of the whole? No, lord ambassador, I’ll rather keep That which I have than, coveting for more, Be cast from possibility of all. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Insulting Charles, hast thou by secret means Used intercession to obtain a league And, now the matter grows to compromise, Stand‘st thou aloof upon comparison? Either accept the title thou usurp’st, Of benefit proceeding from our [[King|king]] And not of any challenge of [[Desert|desert]], Or we will plague thee with incessant wars. RENÉ (aside to Charles) My lord, you do not [[Well|well]] in obstinacy To cavil in the course of this contract. If once it be neglected, ten to one We shall not find like opportunity. ALENÇON (aside to Charles) To say the [[Truth|truth]], it is your policy To save your subjects from such massacre And ruthless slaughters as are daily seen By our proceeding in hostility; And therefore take this compact of a truce, Although you break it when your pleasure serves. |
-| WARWICK | How sayst thou, Charles? Shall our condition stand? |
-| CHARLES | It shall, Only reserved you claim no interest In any of our towns of garrison. |
-| [[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]] | Then swear allegiance to his majesty, As thou art knight, never to disobey Nor be rebellious to the [[Crown|crown]] of England, Thou nor thy nobles, to the [[Crown|crown]] of England. They swear So, now dismiss your army when ye please. Hang up your ensigns, let your drums be still; For here we entertain a solemn peace. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--01_exchange_dialogue" data-title="Henry VI Part One — Act V, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the [[Earl of Suffolk]], in conference with [[King]] Henry, and the Dukes of [[Gloucester]] and Exeter |
-| [[King|KING]] HENRY | (to Suffolk) Your wondrous rare description, noble Earl, Of beauteous Margaret hath astonished me. Her virtues gracèd with external gifts Do breed [[Love|love]]’s settled passions in my heart, And like as rigour of tempestuous gusts Provokes the mightiest hulk against the tide, So am I driven by breath of her renown Either to suffer shipwreck or arrive Where I may have fruition of her [[Love|love]]. |
-| SUFFOLK | Tush, my good lord, this superficial tale Is but a preface of her worthy praise. The chief perfections of that lovely dame, Had I sufficient skill to utter them, Would make a volume of enticing lines Able to ravish any dull conceit; And, which is more, she is not so divine, So full replete with choice of all delights, But with as humble lowliness of mind She is content to be at your command— Command, I mean, of virtuous chaste intents, To [[Love|love]] and [[Honour|honour]] Henry as her lord. |
-| [[King|KING]] HENRY | And otherwise will Henry ne‘er presume. (To [[Gloucester]]) Therefore, my lord Protector, give consent That Marg’ret may be England’s royal [[Queen|queen]]. |
-| [[Gloucester|GLOUCESTER]] | So should I give consent to flatter sin. You know, my lord, your highness is betrothed Unto another lady of esteem. How shall we then dispense with that contract And not deface your [[Honour|honour]] with reproach? |
-| SUFFOLK | As doth a ruler with unlawful oaths, Or one that, at a triumph having vowed To try his strength, forsaketh yet the lists By reason of his adversary’s odds. A poor earl’s daughter is unequal odds, And therefore may be broke without offence. |
-| [[Gloucester|GLOUCESTER]] | Why, what, I pray, is Margaret more than that? Her father is no better than an earl, Although in glorious titles he excel. |
-| SUFFOLK | Yes, my lord; her father is a [[King|king]], The [[King]] of Naples and Jerusalem, And of such great authority in France As his alliance will confirm our peace And keep the Frenchmen in allegiance. |
-| [[Gloucester|GLOUCESTER]] | And so the Earl of Armagnac may do, Because he is near kinsman unto Charles. |
-| EXETER | Beside, his wealth doth warrant a liberal dower, Where René sooner will receive than give. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--02_monologue_suffolk" data-title="Henry VI Part One — Act V, Scene 7 — monologue (SUFFOLK) [2]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SUFFOLK | A dower, my lords? Disgrace not so your [[King]] That he should be so abject, base, and poor To choose for wealth and not for perfect [[Love|love]]. Henry is able to enrich his [[Queen|queen]], And not to seek a [[Queen|queen]] to make him rich. So worthless peasants bargain for their wives, As market men for oxen, sheep, or [[Horse|horse]]. [[Marriage]] is a matter of more worth Than to be dealt in by attorneyship. Not whom we will but whom his grace affects Must be companion of his nuptial bed. And therefore, lords, since he affects her most, That most of all these reasons bindeth us: In our opinions she should be preferred. For what is wedlock forced but a hell, An age of discord and continual strife, Whereas the contrary bringeth bliss, And is a pattern of celestial peace. Whom should we match with Henry, being a [[King|king]], But Margaret, that is daughter to a [[King|king]]? Her peerless feature joined with her birth Approves her fit for none but for a [[King|king]]. Her valiant [[Courage|courage]] and undaunted spirit, More than in women commonly is seen, Will answer our [[Hope|hope]] in issue of a [[King|king]]. For Henry, son unto a conqueror, Is likely to beget more conquerors If with a lady of so high resolve As is fair Margaret he be linked in [[Love|love]]. Then yield, my lords, and here conclude with me: That Margaret shall be [[Queen|queen]], and none but she. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--03_monologue_king_henry" data-title="Henry VI Part One — Act V, Scene 7 — monologue (KING HENRY) [3]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | Whether it be through force of your report, My noble lord of Suffolk, or for that My tender youth was never yet attaint With any passion of inflaming [[Love|love]], I cannot tell; but this I am assured: I feel such sharp dissension in my breast, Such fierce alarums both of [[Hope|hope]] and [[Fear|fear]], As I am sick with working of my thoughts. Take therefore shipping; post, my lord, to France; Agree to any covenants, and procure That Lady Margaret do vouchsafe to come To [[Cross|cross]] the seas to England and be crowned [[King]] Henry’s faithful and anointed [[Queen|queen]]. For your expenses and sufficient charge, Among the people gather up a tenth. Be gone, I say; for till you do return I rest perplexed with a thousand cares. (To [[Gloucester]]) And you, good uncle, banish all offence. If you do censure me by what you were, Not what you are, I know it will excuse This sudden execution of my will. And so conduct me where from company I may revolve and ruminate my grief. Exit with Exeter |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--04_exchange_gloucester" data-title="Henry VI Part One — Act V, Scene 7 — exchange (GLOUCESTER) [4]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Gloucester|GLOUCESTER]] | Ay, grief, I [[Fear|fear]] me, both at first and last. Exit |
-| SIIEFOLK | Thus Suffolk hath prevailed, and thus he goes As did the youthful [[Paris]] once to Greece, With [[Hope|hope]] to find the like event in [[Love|love]], But prosper better than the Trojan did. Margaret shall now be [[Queen|queen]] and rule the [[King]]; But I will rule both her, the [[King]], and realm. Exit |
-| BY WILLIAM | SHAKESPEARE, WITH GEORGE PEELE |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--05_monologue_shakespeares" data-title="Henry VI Part One — Act V, Scene 7 — monologue (SHAKESPEARE’S) [5]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SHAKESPEARE’S | first, most sensation-packed [[Tragedy|tragedy]] appeared in print, anonymously, in 1594, and a performance record dating from January of that year appears to indicate that it was then a new play. But according to its title-page it had been acted by three companies, one of which was bankrupt by the [[Summer|summer]] of 1593; and the play’s style, too, suggests that it was written earlier. During the later part of the twentieth century, scholars increasingly came round to the view that George Peele had a hand in, especially, the first act of the play. Shakespeare seems to have added a scene after its earliest performances, for Act 3, Scene 2 was first printed in the 1623 Folio. The 1594 performance record may refer to the revised play, not the original, or to the play’s first [[London]] performance after plague had closed the theatres from June 1592. By convention, Elizabethan tragedies treated historical subjects, and [[Titus Andronicus]] is set in Rome during the fourth century AD; but its story (like that of Shakespeare’s other early [[Tragedy|tragedy]], [[Romeo]] and [[Juliet]]) is fictitious. Whether Shakespeare invented it is an open question: the same tale is told in both a ballad and a chap-book which survive only in eighteenth-century versions but which could derive from pre-Shakespearian originals. Even if Shakespeare knew these works, they could have supplied only a skeletal narrative. His play’s spirit and style owe much to Ovid’s Metamorphoses, one of his favourite works of classical literature, which he actually brings on stage in Act 4, Scene I. Ovid’s tale of the rape of Philomela was certainly in Shakespeare’s mind as he wrote, and the play’s more horrific elements owe something to the Roman dramatist Seneca. In its [[Time|time]], [[Titus Andronicus]] was popular, perhaps because it combines sensational incident with high-flown rhetoric of a kind that was fashionable around 1590. It tells a story of [[Double|double]] [[Revenge|revenge]]. [[Tamora]], [[Queen]] of the Goths, seeks [[Revenge|revenge]] on her captor, Titus, for the ritual slaughter of her son Alarbus; she achieves it when her other sons, Chiron and [[Demetrius]], rape and mutilate Titus’ daughter, [[Lavinia]]. Later, Titus himself seeks [[Revenge|revenge]] on [[Tamora]] and her husband, [[Saturninus]], after [[Tamora]]’s black [[Lover|lover]], [[Aaron]], has falsely led him to believe that he can save his sons’ lives by allowing his own hand to be chopped off. Though he is driven to [[Madness|madness]], Titus, with his brother Marcus and his last surviving son, [[Lucius]], achieves a spectacular sequence of vengeance in which he cuts [[Tamora]]’s sons’ throats, serves their flesh baked in a pie to their mother, kills [[Lavinia]] to save her from her shame, and stabs [[Tamora]] to [[Death|death]]. Then, in rapid succession, [[Saturninus]] kills Titus and is himself killed by [[Lucius]], who, as the new Emperor, is left with Marcus to bury the dead, to punish [[Aaron]], and ‘To heal Rome’s harms and wipe away her woe’. In [[Titus Andronicus]], as in his early [[history]] plays, Shakespeare is at his most successful in the expression of grief and the portrayal of vigorously energetic evil. The play’s piling of horror upon horror can seem ludicrous, and the reader may be surprised by the apparent disjunction between terrifying events and the measured verse in which characters react; but a few remarkable modern productions have revealed that the play may still arouse pity as [[Well|well]] as terror in its audiences. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_7--06_exchange_the_persons_of_the_play" data-title="Henry VI Part One — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [6]" data-chapter="Scene 7" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY [[Saturninus|SATURNINUS]], eldest son of the late Emperor of Rome; later Emperor [[Bassianus|BASSIANUS]], his brother |
-| TITUS | ANDRONICUS, a Roman nobleman, general against the Goths [[Lavinia|LAVINIA]], daughter of Titus |
-| YOUNG | [[Lucius|LUCIUS]], a boy, son of [[Lucius]] |
-| MARCUS | ANDRONICUS, a tribune of the people, Titus’ brother PUBLIUS, his son |
-| *(didascalia)* | A |
-| AEMILIUS | [[Tamora|TAMORA]], [[Queen]] of the Goths, later wife of [[Saturninus]] [[Aaron|AARON]], a Moor, her [[Lover|lover]] |
-| *(didascalia)* | A |
-| *(didascalia)* | A |
-| CLOWN | Senators, tribunes, Romans, Goths, soldiers, and attendants |
 
 
 
